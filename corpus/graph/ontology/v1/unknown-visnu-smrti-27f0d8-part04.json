@@ -1,0 +1,377 @@
+{
+  "slug": "unknown-visnu-smrti-27f0d8",
+  "window": "32-51",
+  "entities": [
+    {
+      "canonical_name": "Brāhmaṇa",
+      "surface_names": ["Brahmin", "Brāhmaṇa", "Brahmana"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-68e98c", "quote": "A king, a priest, a Vedic scholar", "role": "subject of reverential treatment"},
+        {"paragraph_id": "p-c3ec32", "quote": "A Brāhmaṇa of ten years and a king of a hundred years, / One should know them as father and son; but of the two, the Brāhmaṇa is the father.", "role": "highest social rank"},
+        {"paragraph_id": "p-6491a0", "quote": "Killing a Brāhmaṇa, drinking liquor, stealing a Brāhmaṇa's gold, and violating a preceptor's bed are great sins", "role": "object of protection"},
+        {"paragraph_id": "p-7cfedd", "quote": "A Brāhmaṇa-killer becomes consumptive.", "role": "victim of great sin"},
+        {"paragraph_id": "p-4a3c8c", "quote": "A Brāhmaṇa shall never eat animals not consecrated with mantras", "role": "subject of dietary rule"},
+        {"paragraph_id": "p-fce389", "quote": "A Brāhmaṇa who eats the leftovers of a Śūdra, for seven nights.", "role": "subject of purity rule"}
+      ],
+      "description": "The priestly varna, accorded highest social precedence; killing a Brāhmaṇa is ranked among the gravest sins (mahāpātaka), and Brāhmaṇas set the standard for purity and learning throughout the text.",
+      "justification": "Brāhmaṇas are the most frequently invoked social class in chapters 32–51, anchoring the sin-hierarchy, penance rules, and food-purity regulations."
+    },
+    {
+      "canonical_name": "Kṣatriya",
+      "surface_names": ["Kshatriya", "Kṣatriya", "king", "Rājanya"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-c3ec32", "quote": "For Kṣatriyas, by valor", "role": "seniority criterion"},
+        {"paragraph_id": "p-3e174c", "quote": "The killing of a Kṣatriya or a Vaiśya engaged in a sacrifice", "role": "protected category"},
+        {"paragraph_id": "p-0e27f9", "quote": "Killing a Kṣatriya, Vaiśya, Śūdra, or a cow.", "role": "subject of sin category"},
+        {"paragraph_id": "p-1edea1", "quote": "For the killing of a Kṣatriya, three-quarters of it.", "role": "victim category in penance scale"}
+      ],
+      "description": "The warrior-ruler varna, ranked second in the social hierarchy; their seniority is measured by valor, and killing them in ritual contexts is treated as equivalent to brahminicide.",
+      "justification": "The Kṣatriya/Rājanya class is directly named in the sin-taxonomy and penance-scale passages spanning chapters 35–50."
+    },
+    {
+      "canonical_name": "Śūdra",
+      "surface_names": ["Shudra", "Śūdra"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-c3ec32", "quote": "For Śūdras, by birth alone.", "role": "lowest varna seniority criterion"},
+        {"paragraph_id": "p-2ec089", "quote": "serving a Śūdra are sins making one unworthy of receiving gifts", "role": "social taboo marker"},
+        {"paragraph_id": "p-25e84c", "quote": "For the killing of a Śūdra, half of that.", "role": "victim in penance scale"},
+        {"paragraph_id": "p-fce389", "quote": "A Brāhmaṇa who eats the leftovers of a Śūdra, for seven nights.", "role": "purity-pollution source"}
+      ],
+      "description": "The servant varna, placed at the lowest rank in the fourfold social order; their seniority is by birth alone, and contact with their food or service is treated as polluting for higher varnas.",
+      "justification": "The Śūdra class appears consistently in the sin and food-purity chapters as the primary marker of ritual pollution for higher-varna individuals."
+    },
+    {
+      "canonical_name": "Vaiśya",
+      "surface_names": ["Vaishya", "Vaiśya"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-c3ec32", "quote": "For Vaiśyas, by grain and wealth", "role": "seniority criterion"},
+        {"paragraph_id": "p-3e174c", "quote": "The killing of a Kṣatriya or a Vaiśya engaged in a sacrifice", "role": "protected category"},
+        {"paragraph_id": "p-ea7a17", "quote": "For the killing of a Vaiśya, half.", "role": "victim in penance scale"}
+      ],
+      "description": "The merchant-farmer varna, ranked third in the social order; their seniority is measured by grain and wealth, and killing one during a sacrifice is treated nearly as gravely as brahminicide.",
+      "justification": "Vaiśyas are named in the varna-hierarchy verse (32.18) and appear repeatedly in the penance-scale chapters 36 and 50."
+    },
+    {
+      "canonical_name": "Yama",
+      "surface_names": ["Yama", "servants of Yama"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-d116e2", "quote": "Dragged here and there by the terrible servants of Yama, / They are led along with difficulty, in a manner that imitates their sins.", "role": "lord of the dead who punishes sinners"},
+        {"paragraph_id": "p-d116e2", "quote": "Sinners, having committed sins, immediately after giving up their lives, / Reach the path of Yama and suffer terrible pain.", "role": "cosmic judge"}
+      ],
+      "description": "Yama is the deity of death and cosmic justice who receives sinners after death, dispatching his servants to drag them to the hells described in chapter 43.",
+      "justification": "Yama is directly named as the lord whose path sinners reach after death, and whose servants carry out punishments in the extended verse-passage of chapter 43."
+    },
+    {
+      "canonical_name": "Vāsudeva",
+      "surface_names": ["Vāsudeva", "Vasudeva", "Keśava", "Vishnu", "Viṣṇu"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-de88e1", "quote": "on the twelfth day he shall worship the blessed Vāsudeva.", "role": "deity of devotional worship"},
+        {"paragraph_id": "p-bf7d08", "quote": "Having performed it for his whole life, he attains the White Island.", "role": "recipient of lifelong vow"},
+        {"paragraph_id": "p-f70c5d", "quote": "For his whole life, the world of Vishnu.", "role": "divine world destination"},
+        {"paragraph_id": "p-41c9a1", "quote": "Worshipping Keśava, who has become Brahman on the new moon day", "role": "object of calendrical worship"}
+      ],
+      "description": "Vāsudeva/Keśava is the supreme Vaiṣṇava deity, identified with Vishnu and Brahman; worship of him on the Ekādaśī-Dvādaśī vow leads ultimately to the White Island (Śvetadvīpa) and the world of Vishnu.",
+      "justification": "Chapter 49 is exclusively devoted to the Vāsudeva-Dvādaśī vow, and Vāsudeva/Keśava is named as the text's central devotional deity offering the highest liberation."
+    },
+    {
+      "canonical_name": "Brahma",
+      "surface_names": ["Brahma", "Brahmā", "the Self-existent"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-43c6b6", "quote": "Brahma is the pathfinder of the gods, the poet of poets, the sage of the wise, the buffalo among beasts", "role": "cosmic archetype invoked in purification rite"},
+        {"paragraph_id": "p-817350", "quote": "the seven spotless sages performed of old, / And attained the supreme state, as did Brahma and Rudra likewise.", "role": "exemplar of the cāndrāyaṇa vow"},
+        {"paragraph_id": "p-4a3c8c", "quote": "Animals were created for the sake of sacrifice by the Self-existent himself", "role": "creator deity authorizing sacrifice"}
+      ],
+      "description": "Brahma (the Self-existent, Svayambhū) appears as creator deity who instituted sacrifice, as the supreme cosmic archetype in a purification verse, and as one who performed the lunar penance alongside Rudra.",
+      "justification": "Brahma is directly named across chapters 47, 48, and 51 in distinct roles: exemplary penitent, sacrificial creator, and cosmic archetype in a ritual verse."
+    },
+    {
+      "canonical_name": "Rudra",
+      "surface_names": ["Rudra"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-817350", "quote": "the seven spotless sages performed of old, / And attained the supreme state, as did Brahma and Rudra likewise.", "role": "exemplar of the cāndrāyaṇa vow"}
+      ],
+      "description": "Rudra is cited alongside Brahma as a deity who performed the cāndrāyaṇa lunar penance and thereby attained the supreme state.",
+      "justification": "Rudra is named in the verse closing chapter 47 as a divine exemplar of the lunar penance, grounding his inclusion."
+    },
+    {
+      "canonical_name": "Soma",
+      "surface_names": ["Soma"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-43c6b6", "quote": "Soma, roaring, passes through the filter.", "role": "sacred plant-deity invoked in purification verse"}
+      ],
+      "description": "Soma is invoked in the ritual purification verse of chapter 48 as the sacred plant-deity who passes through the filter, evoking the Vedic Soma-pressing rite.",
+      "justification": "Soma is directly named in the verse used to bind the darbha grass in the barley-gruel purification rite (chapter 48)."
+    },
+    {
+      "canonical_name": "Varuṇa",
+      "surface_names": ["Varuṇa", "Varuna"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-790164", "quote": "You are barley, you are the king of grains, belonging to Varuṇa, mixed with honey", "role": "divine owner of barley grains in purification hymn"}
+      ],
+      "description": "Varuṇa is invoked in the barley-purification hymn of chapter 48 as the deity to whom barley belongs, reflecting his Vedic association with cosmic order and purification.",
+      "justification": "Varuṇa is directly named in the purification verses of chapter 48, grounding his mention in that hymn."
+    },
+    {
+      "canonical_name": "Caṇḍāla",
+      "surface_names": ["Candala", "Caṇḍāla"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-eea2c5", "quote": "Having eaten the food of a Caṇḍāla, he shall fast for three nights.", "role": "lowest-ranked purity source"}
+      ],
+      "description": "The Caṇḍāla is the outcaste group whose food is the most polluting—eating it incurs the parāka penance (twelve days' fasting), the harshest penalty in the food-purity section.",
+      "justification": "The Caṇḍāla is named in chapter 51 as the food-source requiring the maximum fasting penance (parāka), establishing them as the most ritually polluting group."
+    },
+    {
+      "canonical_name": "Niṣāda",
+      "surface_names": ["Nisada", "Niṣāda"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-b62eb4", "quote": "from an artisan, a Niṣāda, a stage-player, a bamboo-worker, or a seller of weapons.", "role": "prohibited food-source category"}
+      ],
+      "description": "The Niṣāda is a low-caste hunter community whose food is prohibited and placed alongside artisans and weapon-sellers as sources of ritual pollution.",
+      "justification": "The Niṣāda is explicitly listed in chapter 51 among the groups whose food a twice-born man may not eat."
+    },
+    {
+      "canonical_name": "Atri lineage",
+      "surface_names": ["woman of the Atri lineage"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-ac12f0", "quote": "Or a woman of the Atri lineage.", "role": "protected category requiring mahāvrata penance if killed"}
+      ],
+      "description": "Women of the Atri gotra are explicitly enumerated in chapter 50 among the specially protected persons whose killing requires the full twelve-year mahāvrata penance.",
+      "justification": "The Atri lineage is directly named in chapter 50 (Vi_50.9) as a category protected by the brahminicide penance standard."
+    },
+    {
+      "canonical_name": "Tāmisra",
+      "surface_names": ["Tāmisra", "Darkness"],
+      "kind": "place",
+      "mentions": [
+        {"paragraph_id": "p-c760bd", "quote": "Tāmisra (Darkness).", "role": "named hell realm"}
+      ],
+      "description": "Tāmisra (\"Darkness\") is the first of twenty-two named hell realms listed in chapter 43, where sinners who have not performed penance are tormented.",
+      "justification": "Tāmisra is directly named in the enumeration of hells in chapter 43 (Vi_43.2)."
+    },
+    {
+      "canonical_name": "Avīci",
+      "surface_names": ["Avīci", "Waveless"],
+      "kind": "place",
+      "mentions": [
+        {"paragraph_id": "p-2d1bd6", "quote": "Avīci (Waveless).", "role": "named hell realm"}
+      ],
+      "description": "Avīci (\"Waveless\") is one of the twenty-two named hells in chapter 43, named for the absence of relief (no wave of respite) for those condemned there.",
+      "justification": "Avīci is directly named in the enumeration of hells at Vi_43.9."
+    },
+    {
+      "canonical_name": "Asipatravana",
+      "surface_names": ["Asipatravana", "Forest of Sword-leaves"],
+      "kind": "place",
+      "mentions": [
+        {"paragraph_id": "p-0fab36", "quote": "Asipatravana (Forest of Sword-leaves).", "role": "named hell realm"}
+      ],
+      "description": "Asipatravana (\"Forest of Sword-leaves\") is one of the twenty-two named hells in chapter 43, evoking a forest where the leaves are razor-sharp swords.",
+      "justification": "Asipatravana is directly named in the hell-enumeration list of chapter 43 (Vi_43.21)."
+    },
+    {
+      "canonical_name": "White Island",
+      "surface_names": ["White Island", "Śvetadvīpa"],
+      "kind": "place",
+      "mentions": [
+        {"paragraph_id": "p-bf7d08", "quote": "Having performed it for his whole life, he attains the White Island.", "role": "highest liberation destination"}
+      ],
+      "description": "The White Island (Śvetadvīpa) is the celestial realm attained by those who observe the Vāsudeva Dvādaśī vow for their entire life, representing the supreme Vaiṣṇava eschatological destination.",
+      "justification": "The White Island is named in chapter 49 (Vi_49.4) as the ultimate destination of the lifelong Vāsudeva vow, distinguishing it from the lesser 'world of heaven.'"
+    },
+    {
+      "canonical_name": "Kaṇṭakaśālmali",
+      "surface_names": ["Kaṇṭakaśālmali", "Thorny Silk-Cotton Tree"],
+      "kind": "place",
+      "mentions": [
+        {"paragraph_id": "p-74f3c5", "quote": "Kaṇṭakaśālmali (Thorny Silk-Cotton Tree).", "role": "named hell realm"}
+      ],
+      "description": "Kaṇṭakaśālmali is a hell realm named after a thorny silk-cotton tree, one of the twenty-two named hells in chapter 43 where sinners are tormented.",
+      "justification": "Kaṇṭakaśālmali is directly named in the enumeration of hells at Vi_43.19."
+    },
+    {
+      "canonical_name": "mahāvrata",
+      "surface_names": ["mahāvrata", "great vow"],
+      "kind": "object",
+      "mentions": [
+        {"paragraph_id": "p-3fbe58", "quote": "This is the mahāvrata (the great vow).", "role": "named penance rite"},
+        {"paragraph_id": "p-948450", "quote": "Having killed a Brāhmaṇa, he shall perform it for twelve years.", "role": "penance duration for brahminicide"},
+        {"paragraph_id": "p-c69606", "quote": "For the killing of a king, he shall perform the mahāvrata for double the time.", "role": "extended penance for regicide"}
+      ],
+      "description": "The mahāvrata (\"great vow\") is the austere twelve-year penance for brahminicide, involving forest dwelling, public confession, and following cows, with duration scaled by the rank of the victim killed.",
+      "justification": "The mahāvrata is named and fully described in chapter 50 as the primary penance for killing a Brāhmaṇa or equivalent protected person."
+    },
+    {
+      "canonical_name": "cāndrāyaṇa",
+      "surface_names": ["cāndrāyaṇa", "lunar penance", "yaticāndrāyaṇa", "śiśucāndrāyaṇa", "sāmānyacāndrāyaṇa"],
+      "kind": "object",
+      "mentions": [
+        {"paragraph_id": "p-ef0dc2", "quote": "Now, the cāndrāyaṇa (the lunar penance).", "role": "named penance rite"},
+        {"paragraph_id": "p-9f21b6", "quote": "He shall increase them as the moon waxes, and decrease them as it wanes", "role": "defining rule of the rite"},
+        {"paragraph_id": "p-817350", "quote": "the seven spotless sages performed of old, / And attained the supreme state, as did Brahma and Rudra likewise.", "role": "cosmic authority for the rite"}
+      ],
+      "description": "The cāndrāyaṇa is a month-long lunar penance in which the penitent eats mouthfuls calibrated to the waxing and waning moon, with variants for ascetics, children, and general use; said to have been performed by Brahma, Rudra, and the seven sages.",
+      "justification": "Chapter 47 is entirely devoted to the cāndrāyaṇa penance, providing its rules, variants, and divine precedent."
+    },
+    {
+      "canonical_name": "Aghamarṣaṇa",
+      "surface_names": ["Aghamarṣaṇa prayer", "Aghamarṣaṇa penance"],
+      "kind": "object",
+      "mentions": [
+        {"paragraph_id": "p-608628", "quote": "When submerged, he shall mutter the Aghamarṣaṇa prayer three times.", "role": "purifying Vedic prayer"},
+        {"paragraph_id": "p-40241a", "quote": "This is the Aghamarṣaṇa penance.", "role": "named penance category"}
+      ],
+      "description": "The Aghamarṣaṇa is both a specific Vedic prayer muttered during immersion in water and a named three-day penance involving bathing at the three daily junctures, described in chapter 46.",
+      "justification": "The Aghamarṣaṇa prayer and penance are explicitly named in chapter 46 (Vi_46.5 and Vi_46.9)."
+    },
+    {
+      "canonical_name": "pañcagavya",
+      "surface_names": ["pañcagavya"],
+      "kind": "object",
+      "mentions": [
+        {"paragraph_id": "p-10d9fe", "quote": "For eating the leftovers of a dog, having fasted for one day, he shall drink pañcagavya.", "role": "purifying substance"}
+      ],
+      "description": "Pañcagavya is the five products of the cow (urine, dung, milk, curd, clarified butter) consumed as a purificatory compound after severe pollution, prescribed in chapter 51 for eating a dog's leftovers.",
+      "justification": "Pañcagavya is named as a purifying drink in chapter 51 (Vi_51.47), following the established Dharmaśāstra tradition."
+    },
+    {
+      "canonical_name": "Śravaṇa constellation",
+      "surface_names": ["Śravaṇa constellation"],
+      "kind": "object",
+      "mentions": [
+        {"paragraph_id": "p-41c9a1", "quote": "the bright twelfth day which is conjoined with the Śravaṇa constellation.", "role": "auspicious calendar conjunction"}
+      ],
+      "description": "The Śravaṇa nakṣatra (lunar mansion) is identified in chapter 49 as the constellation whose conjunction with the bright twelfth day creates a specially potent occasion for meritorious acts such as charity and fasting.",
+      "justification": "The Śravaṇa constellation is directly named in the verse closing chapter 49 as a calendrical marker of religious significance."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Hierarchy of sins and their graduated expiation",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-fb1614", "quote": "a man has a threefold enemy, which is most terrible, called lust, anger, and greed"},
+        {"paragraph_id": "p-6491a0", "quote": "Killing a Brāhmaṇa, drinking liquor, stealing a Brāhmaṇa's gold, and violating a preceptor's bed are great sins"},
+        {"paragraph_id": "p-f084d2", "quote": "These are minor sins (upapātaka)."},
+        {"paragraph_id": "p-091e36", "quote": "These are sins causing loss of caste (jātibhraṃśakara)."}
+      ],
+      "justification": "Chapters 33–42 systematically classify sins into a five-tier taxonomy (heinous, great, equivalent-to-great, minor, defiling) and assign specific penances to each tier, forming the structural spine of this window."
+    },
+    {
+      "topic": "Karmic retribution through hells, animal rebirths, and bodily marks",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-6ae760", "quote": "Now, the hells (narakas)."},
+        {"paragraph_id": "p-d116e2", "quote": "Thus the sinners, having experienced their sin, deeply afflicted, / Enter the wombs of animals and suffer various pains."},
+        {"paragraph_id": "p-b870a5", "quote": "For those who have passed through the state of animals after suffering in hell, there are marks in their human birth."}
+      ],
+      "justification": "Chapters 43–45 form a three-stage karmic cycle: hell-punishment, animal rebirth, and human birth with bodily marks, presenting a complete doctrine of moral-karmic consequence."
+    },
+    {
+      "topic": "Ritual purity, pollution, and the hierarchy of food sources",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-2ec089", "quote": "Taking wealth from censured persons, commerce, living by usury, speaking untruth, and serving a Śūdra are sins making one unworthy of receiving gifts"},
+        {"paragraph_id": "p-dd7e4f", "quote": "A surāpa (a liquor-drinker), excluded from all rites, shall eat grain-husks for a year."},
+        {"paragraph_id": "p-eea2c5", "quote": "Having eaten the food of a Caṇḍāla, he shall fast for three nights."}
+      ],
+      "justification": "Chapter 51 is an extended catalogue of polluting food sources organized by the social rank and moral status of the preparer, revealing a pervasive theology of ritual purity tied to varna and occupation."
+    },
+    {
+      "topic": "Reverential conduct toward teachers, elders, and social superiors",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-68e98c", "quote": "A king, a priest, a Vedic scholar, one who forbids unrighteousness, a paid teacher, a paternal uncle, a maternal grandfather, a maternal uncle, a father-in-law, an elder brother, and relatives are to be treated like a teacher."},
+        {"paragraph_id": "p-c3ec32", "quote": "Wealth, kinship, age, religious acts, and sacred knowledge as the fifth, / These are the grounds for respect; each succeeding one is more venerable."},
+        {"paragraph_id": "p-8df5f1", "quote": "And one shall not hold contentious discussions with a teacher."}
+      ],
+      "justification": "Chapter 32 opens this window with an extensive taxonomy of persons deserving teacher-like respect and detailed rules for salutation, framing social hierarchy as a primary ethical concern."
+    },
+    {
+      "topic": "Non-violence (ahiṃsā) and the ethics of meat-eating",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-4a3c8c", "quote": "Without having done violence to living beings, meat is nowhere produced; / And the killing of a living being is not conducive to heaven; therefore, one should avoid meat."},
+        {"paragraph_id": "p-4a3c8c", "quote": "He who does not wish to cause bondage, death, or pain to living beings, / He, desiring the welfare of all, enjoys supreme happiness."},
+        {"paragraph_id": "p-4a3c8c", "quote": "Animals were created for the sake of sacrifice by the Self-existent himself; / Sacrifice is for the prosperity of all; therefore, killing in a sacrifice is not killing."}
+      ],
+      "justification": "The closing verses of chapter 51 develop an extended philosophical argument for vegetarianism and ahiṃsā while paradoxically affirming sacrificial killing as legitimate, representing a significant ethical meditation within the legal framework."
+    },
+    {
+      "topic": "Devotional worship of Vāsudeva as path to liberation",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-de88e1", "quote": "on the twelfth day he shall worship the blessed Vāsudeva."},
+        {"paragraph_id": "p-bf7d08", "quote": "Having performed it for his whole life, he attains the White Island."},
+        {"paragraph_id": "p-f70c5d", "quote": "For his whole life, the world of Vishnu."}
+      ],
+      "justification": "Chapter 49 introduces a Vaiṣṇava devotional practice (Ekādaśī-Dvādaśī vow to Vāsudeva) with its own eschatological reward structure, constituting the text's most explicit bhakti element."
+    },
+    {
+      "topic": "Penances (prāyaścitta) as mechanisms of moral-ritual restoration",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-94cf9b", "quote": "Now, there are the kṛcchras (types of penance)."},
+        {"paragraph_id": "p-523915", "quote": "The parāka penance is fasting for twelve days."},
+        {"paragraph_id": "p-75f184", "quote": "For three days he shall eat in the evening only; for the next three days, in the morning only; for the next three days, he shall eat what he receives without asking. This is the prājāpatya penance."}
+      ],
+      "justification": "Chapters 46–48 and 50–51 systematically catalogue named penances (kṛcchra, cāndrāyaṇa, mahāvrata, etc.) as the institutional mechanism for undoing the ritual and moral damage caused by the sins classified in the preceding chapters."
+    },
+    {
+      "topic": "Cosmic time scales (Kalpa, Manvantara, Yuga) as measures of punishment",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-fc7b11", "quote": "those who have committed heinous sins without performing prāyaścitta are tormented in succession for a Kalpa."},
+        {"paragraph_id": "p-cd0885", "quote": "Great sinners, for a Manvantara."},
+        {"paragraph_id": "p-8ddcdd", "quote": "Minor sinners, for a Catur-yuga."}
+      ],
+      "justification": "Chapter 43 calibrates the duration of hell-torment using Hindu cosmic time units (Kalpa, Manvantara, Catur-yuga), embedding the sin-punishment system within a vast cosmological framework."
+    },
+    {
+      "topic": "Varna-based differentiation of sin severity and penance duration",
+      "implicit": true,
+      "mentions": [
+        {"paragraph_id": "p-c3ec32", "quote": "For Brāhmaṇas, seniority is by knowledge; for Kṣatriyas, by valor; / For Vaiśyas, by grain and wealth; for Śūdras, by birth alone."},
+        {"paragraph_id": "p-1edea1", "quote": "For the killing of a Kṣatriya, three-quarters of it."},
+        {"paragraph_id": "p-ea7a17", "quote": "For the killing of a Vaiśya, half."}
+      ],
+      "justification": "Although the text does not announce it as a named principle, the entire penance-scaling system in chapters 36 and 50 implicitly operates on a varna-differential logic where the severity of punishment is proportional to the varna of the victim."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Veda (Ṛgveda)",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-d8f509",
+      "quote": "Censuring the Veda.",
+      "justification": "The Veda is cited implicitly as the supreme sacred authority whose censure constitutes a sin (upapātaka); its status as foundational scripture is invoked as the normative standard throughout chapters 37 and 51."
+    },
+    {
+      "cited_work": "Veda",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-4a3c8c",
+      "quote": "The violence which is prescribed by the Veda for this world of moving and unmoving things, / One should know that to be non-violence, for dharma has sprung from the Veda.",
+      "justification": "The Veda is explicitly invoked as the source of dharma and the authority that legitimizes sacrificial violence, with the closing verse of chapter 51 directly appealing to Vedic prescription as the criterion for permissible harm."
+    }
+  ]
+}

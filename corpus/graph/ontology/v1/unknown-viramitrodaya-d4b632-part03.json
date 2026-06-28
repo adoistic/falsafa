@@ -1,0 +1,932 @@
+{
+  "slug": "unknown-viramitrodaya-d4b632",
+  "window": "01:87-190",
+  "entities": [
+    {
+      "canonical_name": "Mitra Miśra",
+      "surface_names": ["Mitra Miśra", "glorious Mitra Miśra"],
+      "kind": "figure",
+      "figure_kind": "scholar",
+      "mentions": [
+        {
+          "paragraph_id": "p-e1f944",
+          "quote": "the glorious Vīramitrodaya, composed by the glorious Mitra Miśra—son of the glorious Paraśurāma Miśra",
+          "role": "author"
+        }
+      ],
+      "description": "Author of the Vīramitrodaya, son of Paraśurāma Miśra, who composed the work at the prompting of his patron Vīrasiṃhadeva.",
+      "justification": "Named in the colophon as the composer of the Vīramitrodaya, grounding the authorship of the entire digest."
+    },
+    {
+      "canonical_name": "Vīrasiṃhadeva",
+      "surface_names": ["glorious Vīrasiṃhadeva", "Vīrasiṃhadeva"],
+      "kind": "figure",
+      "figure_kind": "ruler",
+      "mentions": [
+        {
+          "paragraph_id": "p-e1f944",
+          "quote": "prompted by the glorious Vīrasiṃhadeva, the sun that causes the lotus of the earth, which is the circle of the four oceans, to bloom, the son of the glorious Mahārājādhirāja Madhukarasāha",
+          "role": "patron"
+        }
+      ],
+      "description": "Royal patron who commissioned the Vīramitrodaya; son of Mahārājādhirāja Madhukarasāha and grandson of Mahārājādhirāja Pratāparudra.",
+      "justification": "Mentioned in the colophon as the royal patron who prompted composition of the work, establishing the political and patronage context."
+    },
+    {
+      "canonical_name": "Pratāparudra",
+      "surface_names": ["Mahārājādhirāja Pratāparudra", "glorious Mahārājādhirāja Pratāparudra"],
+      "kind": "figure",
+      "figure_kind": "ruler",
+      "mentions": [
+        {
+          "paragraph_id": "p-e1f944",
+          "quote": "son of the glorious Mahārājādhirāja Pratāparudra, whose lotus-feet were irradiated by the cluster of rays from the crest-jewels of the entire circle of vassal kings",
+          "role": "ancestor"
+        }
+      ],
+      "description": "Mahārājādhirāja and grandfather of the patron Vīrasiṃhadeva, eulogized in the colophon as a paramount overlord.",
+      "justification": "Named in the colophon's royal genealogy as the grandfather of the patron, situating the text in a specific dynastic lineage."
+    },
+    {
+      "canonical_name": "Mādhava",
+      "surface_names": ["Mādhava", "Mādhavācārya"],
+      "kind": "figure",
+      "figure_kind": "scholar",
+      "mentions": [
+        {
+          "paragraph_id": "p-3727e8",
+          "quote": "the view of Mādhava—that this is an independent prohibition and therefore a tithi touching the fourth muhūrta is to be accepted—is also refuted",
+          "role": "opponent"
+        },
+        {
+          "paragraph_id": "p-4b3517",
+          "quote": "Mādhavācārya, however, holding the view of restriction, says that due to the Āpastamba verse, even for a fast in the dark fortnight, the next day is to be accepted",
+          "role": "opponent"
+        },
+        {
+          "paragraph_id": "p-7ca7e3",
+          "quote": "Mādhava and Anantabhaṭṭa, all Dvitīyās are the next day's",
+          "role": "opponent"
+        },
+        {
+          "paragraph_id": "p-7ff4f8",
+          "quote": "the verse cited by Mādhava and others",
+          "role": "authority"
+        }
+      ],
+      "description": "Medieval Dharmaśāstra commentator whose views on tithi determination are frequently cited and contested by the Vīramitrodaya.",
+      "justification": "Cited across multiple paragraphs as a named scholarly authority whose positions on tithi acceptance rules are engaged and refuted."
+    },
+    {
+      "canonical_name": "Anantabhaṭṭa",
+      "surface_names": ["Anantabhaṭṭa"],
+      "kind": "figure",
+      "figure_kind": "scholar",
+      "mentions": [
+        {
+          "paragraph_id": "p-7ca7e3",
+          "quote": "In the view of Mādhava and Anantabhaṭṭa, all Dvitīyās are the next day's",
+          "role": "opponent"
+        }
+      ],
+      "description": "Dharmaśāstra scholar associated with Mādhava's position that all Dvitīyās should be accepted on the succeeding day.",
+      "justification": "Named alongside Mādhava as holding an opposing doctrinal position on the acceptance of Dvitīyā."
+    },
+    {
+      "canonical_name": "Ṛṣyaśṛṅga",
+      "surface_names": ["Ṛṣyaśṛṅga"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-a942d0",
+          "quote": "As stated by Ṛṣyaśṛṅga: \"If days not conjoined with prohibited ones are not available, then the Ekādaśī tithi, even if conjoined for five muhūrtas, is to be accepted.\"",
+          "role": "authority"
+        }
+      ],
+      "description": "Vedic sage cited as an authority for the rule permitting acceptance of a conjoined tithi when a pure one is unavailable.",
+      "justification": "Cited by name as the source of a ruling on exceptional acceptance of a conjoined Ekādaśī for fasting."
+    },
+    {
+      "canonical_name": "Gaurī",
+      "surface_names": ["Gaurī", "vow to Gaurī", "Gaurī's Caturthī"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-c390af",
+          "quote": "In vows to Gaurī, one conjoined with even a small amount of Dvitīyā is to be avoided",
+          "role": "object-of-worship"
+        },
+        {
+          "paragraph_id": "p-012240",
+          "quote": "In a vow to Gaurī, however, a Caturthī conjoined with Tṛtīyā should be taken, because Tṛtīyā is the tithi of the deity Gaurī",
+          "role": "object-of-worship"
+        },
+        {
+          "paragraph_id": "p-4c4406",
+          "quote": "Gaurī's Caturthī, the worship of Vaṭa and the cow, the worship of Durgā, the Durmara and Holikā, the worship of the calf, and Śivarātri—these, when succeeding, destroy the king and his kingdom",
+          "role": "object-of-worship"
+        },
+        {
+          "paragraph_id": "p-36e964",
+          "quote": "From this verse of the Purāṇasamuccaya also, it is understood that in a vow to Gaurī, a Caturthī conjoined with Tṛtīyā should be taken",
+          "role": "object-of-worship"
+        }
+      ],
+      "description": "Hindu goddess whose vow observances require special tithi rules, particularly that Tṛtīyā is her tithi and Caturthī for her vow should be conjoined with it.",
+      "justification": "Named repeatedly as the deity whose vow-observances have exceptional tithi rules distinct from those of other deities."
+    },
+    {
+      "canonical_name": "Gaṇeśa",
+      "surface_names": ["Gaṇanātha", "Vināyaka", "Gaṇeśa", "Gaṇapatikalpa"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-62885f",
+          "quote": "by the force of the qualifier 'Gaṇanātha', it is understood that for a vow to Gaṇanātha, a Caturthī conjoined with Tṛtīyā should be taken",
+          "role": "object-of-worship"
+        },
+        {
+          "paragraph_id": "p-afef03",
+          "quote": "And in the Siddhivināyaka vow, a Caturthī pervading midday should be taken",
+          "role": "object-of-worship"
+        },
+        {
+          "paragraph_id": "p-b68d35",
+          "quote": "For Gaṇanātha's Caturthī, one conjoined with the mother is praised",
+          "role": "object-of-worship"
+        }
+      ],
+      "description": "Elephant-headed deity (Gaṇeśa/Vināyaka) whose Caturthī vow requires the tithi to be conjoined with Tṛtīyā and to pervade midday.",
+      "justification": "Named as Gaṇanātha and Vināyaka across multiple paragraphs as the deity for whom Caturthī's exceptional tithi rules apply."
+    },
+    {
+      "canonical_name": "Yama",
+      "surface_names": ["Yama", "Yāmyakā"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-7ca7e3",
+          "quote": "The Kārtika-Śukla-Dvitīyā for the worship of Yama should be the one in the afternoon",
+          "role": "object-of-worship"
+        },
+        {
+          "paragraph_id": "p-b7a49f",
+          "quote": "On the Dvitīyā of the bright fortnight of Kārtika, O Yudhiṣṭhira, Yama was formerly fed by Yamunā in her own house and worshipped",
+          "role": "protagonist"
+        }
+      ],
+      "description": "God of death whose worship on Kārtika-Śukla-Dvitīyā (Yama-Dvitīyā / Bhai Dooj) requires the afternoon tithi.",
+      "justification": "Named as the deity of Yama-Dvitīyā and described in the mythological narrative of being fed by his sister Yamunā."
+    },
+    {
+      "canonical_name": "Yamunā",
+      "surface_names": ["Yamunā"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-b7a49f",
+          "quote": "Yama was formerly fed by Yamunā in her own house and worshipped. Therefore, this Yama-Dvitīyā is famous in the three worlds",
+          "role": "protagonist"
+        }
+      ],
+      "description": "River goddess and sister of Yama who fed and worshipped him in the mythological origin narrative of Yama-Dvitīyā.",
+      "justification": "Named as the sister who fed Yama, giving the etiological basis for the Yama-Dvitīyā festival observance."
+    },
+    {
+      "canonical_name": "Caṇḍikā",
+      "surface_names": ["Caṇḍikā", "worship of Caṇḍikā"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-d87bf0",
+          "quote": "Pratipad conjoined with Amā should not be used for the worship of Caṇḍikā. It should be performed when it is conjoined with Dvitīyā, even for a single muhūrta",
+          "role": "object-of-worship"
+        }
+      ],
+      "description": "Goddess Caṇḍikā (form of Durgā) whose Navarātra worship on Pratipad requires conjunction with Dvitīyā, not Amāvāsyā.",
+      "justification": "Named as the deity of the Navarātra vow whose Pratipad tithi rule is the opposite of the general rule."
+    },
+    {
+      "canonical_name": "Rudra",
+      "surface_names": ["Rudra", "vows to Rudra"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-4f7f86",
+          "quote": "For the Mahattapa vow on Pratipad of the bright fortnight of Bhādra, since it is a vow to Rudra, the 'facing' tithi is to be accepted",
+          "role": "object-of-worship"
+        }
+      ],
+      "description": "Vedic deity for whose vows a special rule applies: the 'facing' (pūrvaviddhā) tithi must be accepted.",
+      "justification": "Named as the deity for whom the Mahattapa vow is performed, triggering a specific tithi rule for Pratipad."
+    },
+    {
+      "canonical_name": "Sarasvatī",
+      "surface_names": ["Sarasvatī"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-3ab4c5",
+          "quote": "One who desires knowledge should especially worship Sarasvatī",
+          "role": "object-of-worship"
+        },
+        {
+          "paragraph_id": "p-b7a49f",
+          "quote": "having stated a vow on the first, the worship of Sarasvatī on the second",
+          "role": "object-of-worship"
+        }
+      ],
+      "description": "Goddess of knowledge whose worship on Dvitīyā is prescribed alongside other deities in Purāṇic ritual calendars.",
+      "justification": "Named as a deity specifically recommended for worship by those desiring knowledge in the context of Caturthī rituals."
+    },
+    {
+      "canonical_name": "Kāma",
+      "surface_names": ["Kāma", "worship of Kāma"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-4f7f86",
+          "quote": "This tithi, for the worship of Kāma, should be taken when conjoined with the morning",
+          "role": "object-of-worship"
+        }
+      ],
+      "description": "God of love whose worship on the Pratipad of Caitra (Holākā) requires the morning tithi.",
+      "justification": "Named as the deity for whom Pratipad of Caitra is observed with a morning-time conjunction requirement."
+    },
+    {
+      "canonical_name": "Brahmā",
+      "surface_names": ["Brahmā"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-d87bf0",
+          "quote": "In the month of Caitra, on the first day, in the bright fortnight, when the sun has risen, Brahmā created the world",
+          "role": "protagonist"
+        }
+      ],
+      "description": "Creator deity cited in the Brāhma Purāṇa as having created the world on Caitra Śukla Pratipad at sunrise.",
+      "justification": "Named in the Brāhma Purāṇa quotation as the agent of creation at sunrise on Caitra Pratipad, giving the basis for the year-beginning observance."
+    },
+    {
+      "canonical_name": "Nāga",
+      "surface_names": ["Nāga", "serpent lords", "serpent deities", "nāgadevatā"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-efae71",
+          "quote": "Where Yuga is at midday, one should fast and worship the serpent lords. Having nourished them with milk on Pañcamī, a restrained man should break his fast. His venomous nature perishes, and serpents do not harm him",
+          "role": "object-of-worship"
+        },
+        {
+          "paragraph_id": "p-932183",
+          "quote": "Likewise, in a vow to the serpent deities (nāgadevatā), a Caturthī pervading midday should be taken",
+          "role": "object-of-worship"
+        },
+        {
+          "paragraph_id": "p-590aa9",
+          "quote": "Pañcamī is the tithi of the Nāgas, and its conjunction is praised",
+          "role": "object-of-worship"
+        }
+      ],
+      "description": "Serpent deities whose Caturthī vow requires midday pervasion and whose tithi is Pañcamī; worshipped with milk offerings.",
+      "justification": "Identified as divine beings associated with Pañcamī and Caturthī, with specific vow-rules and ritual prescriptions grounding their presence in the text."
+    },
+    {
+      "canonical_name": "Skanda",
+      "surface_names": ["Skanda", "Skanda fast"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-42b36b",
+          "quote": "it applies to the Skanda fast, because it is stated in the latter part of that verse: For the Skanda fast, a Pañcamī conjoined with the succeeding day should be accepted",
+          "role": "object-of-worship"
+        }
+      ],
+      "description": "War deity for whose fast a Pañcamī conjoined with Ṣaṣṭhī (the succeeding day) is prescribed, as an exception to the general rule.",
+      "justification": "Named as the deity for whom Pañcamī conjoined with the succeeding day is exceptionally prescribed for fasting."
+    },
+    {
+      "canonical_name": "Durgā",
+      "surface_names": ["Durgā", "worship of Durgā"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-4c4406",
+          "quote": "Gaurī's Caturthī, the worship of Vaṭa and the cow, the worship of Durgā, the Durmara and Holikā",
+          "role": "object-of-worship"
+        }
+      ],
+      "description": "Goddess Durgā listed among the deities whose preceding (pūrvaviddhā) tithi festivals, when made succeeding (uttaraviddhā), destroy the king and kingdom.",
+      "justification": "Named in the verse from Purāṇasamuccaya listing rites that are inauspicious when taken on the succeeding day."
+    },
+    {
+      "canonical_name": "Bali",
+      "surface_names": ["Bali", "Balyutsava", "festival of Bali", "kingdom of Bali"],
+      "kind": "figure",
+      "figure_kind": "figure",
+      "mentions": [
+        {
+          "paragraph_id": "p-d87bf0",
+          "quote": "The Pratipad for the festival of Bali (Balyutsava) is the previous one, from the previously cited verse, 'At the beginning of the year, at the beginning of spring'",
+          "role": "object-of-worship"
+        }
+      ],
+      "description": "Mythological demon-king Bali for whose festival (Balyutsava, part of Dīpotsava/Diwali) the preceding Pratipad is prescribed.",
+      "justification": "Named as the subject of a festival requiring the preceding Pratipad, connecting mythological figure to ritual calendar."
+    },
+    {
+      "canonical_name": "Vasiṣṭha",
+      "surface_names": ["elder Vasiṣṭha", "Vṛddha Vasiṣṭha"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-d87bf0",
+          "quote": "from the statement of the elder Vasiṣṭha: 'At the beginning of the year, at the beginning of spring, and in the kingdom of Bali, Pratipad should always be performed when conjoined with the previous tithi, by the wise'",
+          "role": "authority"
+        },
+        {
+          "paragraph_id": "p-e98e18",
+          "quote": "This is also from a verse of Vṛddha Vasiṣṭha",
+          "role": "authority"
+        },
+        {
+          "paragraph_id": "p-e7dcff",
+          "quote": "And because in the verse of Vasiṣṭha: Ekādaśī and Ṣaṣṭhī, Amāvāsyā and Caturthikā, should be fasted on when conjoined with the succeeding day",
+          "role": "authority"
+        }
+      ],
+      "description": "Vedic sage whose verses on tithi determination are cited multiple times as authoritative smṛti sources for both Pratipad and Pañcamī rules.",
+      "justification": "Cited as 'elder Vasiṣṭha' and 'Vṛddha Vasiṣṭha' with direct verse quotations across multiple sections."
+    },
+    {
+      "canonical_name": "Paiṭhīnasi",
+      "surface_names": ["Paiṭhīnasi"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-3727e8",
+          "quote": "This is because of the verse of Paiṭhīnasi: 'In both cases, tithis conjoin with the preceding and following tithi for three muhūrtas. This is known as a general rule.'",
+          "role": "authority"
+        }
+      ],
+      "description": "Ancient sage whose verse establishing the three-muhūrta rule for tithi conjunction is cited as foundational authority.",
+      "justification": "Named as the source of the general rule for three-muhūrta tithi conjunction, directly quoted in the text."
+    },
+    {
+      "canonical_name": "Jābāli",
+      "surface_names": ["Jābāli"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-4b3517",
+          "quote": "This is from the verse of Jābāli: 'Pratipad and Pañcamī are to be fasted on when conjoined with the previous tithi.'",
+          "role": "authority"
+        }
+      ],
+      "description": "Sage whose verse establishing the pūrvaviddhā rule for Pratipad and Pañcamī fasting is cited.",
+      "justification": "Named as the source of the verse prescribing pūrvaviddhā for Pratipad and Pañcamī fasts."
+    },
+    {
+      "canonical_name": "Āpastamba",
+      "surface_names": ["Āpastamba"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-4b3517",
+          "quote": "As for the verse of Āpastamba: 'Pratipad should be with Dvitīyā; Dvitīyā with Pratipad,' that pertains to divine rites other than fasting",
+          "role": "authority"
+        },
+        {
+          "paragraph_id": "p-f1e6e0",
+          "quote": "Āpastamba says: 'Tṛtīyā, when conjoined with Caturthī, is fruit-bearing. It brings non-widowhood to women and bestows sons and grandsons.'",
+          "role": "authority"
+        }
+      ],
+      "description": "Ancient sūtra author whose verses on Pratipad-Dvitīyā conjunction and Tṛtīyā-Caturthī conjunction are cited as smṛti authorities.",
+      "justification": "Named across two sections as a cited smṛti authority whose verses regulate the conjunction rules for Pratipad and Tṛtīyā."
+    },
+    {
+      "canonical_name": "Bṛhaspati",
+      "surface_names": ["Bṛhaspati"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-cd443c",
+          "quote": "It should not be argued that the prohibitions of Tṛtīyā conjoined with Dvitīyā and the injunctions of Tṛtīyā conjoined with Caturthī apply only to fasting, in accordance with the verse of Bṛhaspati: 'Ekādaśī, Aṣṭamī, Ṣaṣṭhī, Paurṇamāsī, Caturdaśī, Amāvāsyā, and Tṛtīyā—these should be fasted on when conjoined with the following tithi.'",
+          "role": "authority"
+        },
+        {
+          "paragraph_id": "p-651225",
+          "quote": "This is from a verse of Bṛhaspati. The meaning of 'if on the next day, then on the next day' is this",
+          "role": "authority"
+        }
+      ],
+      "description": "Vedic sage and legal authority whose smṛti verses on fasting tithis are cited and their scope debated in the Vīramitrodaya.",
+      "justification": "Named as the source of two distinct verses on tithi rules, cited in the Tṛtīyā and Caturthī sections."
+    },
+    {
+      "canonical_name": "Vyāsa",
+      "surface_names": ["Vyāsa"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-4b3517",
+          "quote": "It also contradicts the verse of Vyāsa cited by Mādhava: 'That Pratipad is to be known which falls in the afternoon. A divine rite and an ancestral rite should be performed on it, said Manu.'",
+          "role": "authority"
+        }
+      ],
+      "description": "Sage Vyāsa cited by Mādhava for a verse on afternoon Pratipad accepted in the Vīramitrodaya as corroborating the afternoon rule.",
+      "justification": "Named as the author of a verse cited by Mādhava to support the afternoon-Pratipad rule, which the text uses against the Gauḍa school."
+    },
+    {
+      "canonical_name": "Manu",
+      "surface_names": ["Manu"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-4b3517",
+          "quote": "A divine rite and an ancestral rite should be performed on it, said Manu",
+          "role": "authority"
+        }
+      ],
+      "description": "Primordial lawgiver cited (within the Vyāsa verse) as having prescribed the afternoon Pratipad for divine and ancestral rites.",
+      "justification": "Named within a quoted verse as the original authority for the afternoon Pratipad rule."
+    },
+    {
+      "canonical_name": "Yudhiṣṭhira",
+      "surface_names": ["Yudhiṣṭhira", "O Yudhiṣṭhira", "O Bhārata"],
+      "kind": "figure",
+      "figure_kind": "figure",
+      "mentions": [
+        {
+          "paragraph_id": "p-b7a49f",
+          "quote": "On the Dvitīyā of the bright fortnight of Kārtika, O Yudhiṣṭhira, Yama was formerly fed by Yamunā",
+          "role": "addressee"
+        }
+      ],
+      "description": "Eldest Pāṇḍava prince addressed as the interlocutor in the Bhaviṣya Purāṇa passage on Yama-Dvitīyā.",
+      "justification": "Named as the addressee within the quoted Bhaviṣya Purāṇa verse, indicating the Purāṇic narrative context."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Tithi determination rules (pūrvaviddhā vs. uttaraviddhā)",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-3727e8",
+          "quote": "where a pūrvaviddhā or uttaraviddhā tithi is prohibited, there too, if the preceding tithi is the one that conjoins"
+        },
+        {
+          "paragraph_id": "p-4b3517",
+          "quote": "For fasts on Pratipad, whether in the bright or dark fortnight, the previous day is to be chosen"
+        },
+        {
+          "paragraph_id": "p-62c6c4",
+          "quote": "For all divine rites, the bright-fortnight Dvitīyā should be the next day, and the dark-fortnight one should be the previous day"
+        }
+      ],
+      "justification": "The entire window is organized around rules for which day to observe a tithi when it spans two calendar days, making this the central jurisprudential theme."
+    },
+    {
+      "topic": "Hermeneutical conflict-resolution between smṛti and Purāṇa texts",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-62c6c4",
+          "quote": "When the Nigama verse 'Yugma-Agni,' which teaches the acceptability of the paraviddhā, conflicts with the Āpastamba verse... the rule is established by the Mārkaṇḍeya verse"
+        },
+        {
+          "paragraph_id": "p-bc4153",
+          "quote": "since the Viṣṇudharmottara verse again enjoins the parānvitā for fasting, and there is a conflict between the injunction and the prohibition, the rule is established by the śukla-kṛṣṇa-vākyas"
+        }
+      ],
+      "justification": "The text repeatedly demonstrates the method of resolving apparent contradictions between general and specific injunctions across multiple authorities, which is the core hermeneutical procedure of a nibandha digest."
+    },
+    {
+      "topic": "Bright-fortnight / dark-fortnight distinction as a regulatory principle",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-62c6c4",
+          "quote": "In the bright fortnight, the tithi on which the sun rises is to be accepted. In the dark fortnight, the tithi on which the sun sets is to be accepted"
+        },
+        {
+          "paragraph_id": "p-83fb32",
+          "quote": "a regulation of the subject of the injunction and prohibition based on the division of the bright and dark fortnights is not logical"
+        }
+      ],
+      "justification": "The śukla-kṛṣṇa distinction functions throughout as a meta-rule for adjudicating between conflicting tithi verses."
+    },
+    {
+      "topic": "Deity-specific ritual calendars and their tithi exceptions",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-012240",
+          "quote": "In a vow to Gaurī, however, a Caturthī conjoined with Tṛtīyā should be taken, because Tṛtīyā is the tithi of the deity Gaurī"
+        },
+        {
+          "paragraph_id": "p-4b3517",
+          "quote": "For the Pratipad for the commencement of Navarātra, however, should be conjoined with the following tithi"
+        },
+        {
+          "paragraph_id": "p-42b36b",
+          "quote": "it applies to the Skanda fast, because it is stated in the latter part of that verse: For the Skanda fast, a Pañcamī conjoined with the succeeding day should be accepted"
+        }
+      ],
+      "justification": "Multiple deities (Gaurī, Gaṇeśa, Yama, Skanda, Nāga, Rudra, Caṇḍikā) each generate exceptions to the general tithi rules, constituting a distinct theme of deity-indexed ritual law."
+    },
+    {
+      "topic": "Royal patronage and scholastic legitimacy",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-e1f944",
+          "quote": "composed by the glorious Mitra Miśra... prompted by the glorious Vīrasiṃhadeva, the sun that causes the lotus of the earth... to bloom"
+        }
+      ],
+      "justification": "The colophon's elaborate praise of the royal patron implicitly frames the treatise as legitimated by sovereign authority, a standard strategy in Sanskrit scholastic literature."
+    },
+    {
+      "topic": "Three-muhūrta rule as threshold for tithi validity",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-3727e8",
+          "quote": "the following tithi is conjoined if the Pratipad is present for three muhūrtas or more after sunrise"
+        },
+        {
+          "paragraph_id": "p-a942d0",
+          "quote": "If days not conjoined with prohibited ones are not available, then the Ekādaśī tithi, even if conjoined for five muhūrtas, is to be accepted"
+        }
+      ],
+      "justification": "The three-muhūrta threshold recurs as a quantitative criterion for tithi conjunction throughout the window, constituting a technical theme of astronomical jurisprudence."
+    },
+    {
+      "topic": "Women's vow observances and their specific tithi stringency",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-cd443c",
+          "quote": "The deluded woman who performs it conjoined with a remainder of Dvitīyā, she obtains widowhood, say the wise"
+        },
+        {
+          "paragraph_id": "p-b7a49f",
+          "quote": "by fasting on which a woman does not suffer widowhood"
+        }
+      ],
+      "justification": "Multiple passages specifically address women's vow-observances with heightened concern about widowhood as a consequence of wrong tithi selection, pointing to a gendered subtext in the ritual law."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Ṣaṭtriṃśanmata",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-3727e8",
+      "quote": "This is because of the statements about the vitiating conjunction in the Ṣaṭtriṃśanmata, the Nigama, and other smṛtis",
+      "justification": "Named as one of the smṛti sources cited for the rule that even a small conjunction defiles a tithi."
+    },
+    {
+      "cited_work": "Nigama",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-3727e8",
+      "quote": "the statements about the vitiating conjunction in the Ṣaṭtriṃśanmata, the Nigama, and other smṛtis: 'Half a ghaṭikā, or a third part, or even a small amount, defiles the tithi'",
+      "justification": "Cited alongside the Ṣaṭtriṃśanmata as an authority for the rule that a small tithi conjunction defiles a fast."
+    },
+    {
+      "cited_work": "Hemādri",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-3727e8",
+      "quote": "In the Hemādri and Madanaratna, however, it is said that in the case of a fast, where a tithi conjoined with the previous one is prohibited",
+      "justification": "Cited as a nibandha-text authority presenting a specific ruling on conjoined tithis for fasting."
+    },
+    {
+      "cited_work": "Madanaratna",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-3727e8",
+      "quote": "In the Hemādri and Madanaratna, however, it is said that in the case of a fast, where a tithi conjoined with the previous one is prohibited",
+      "justification": "Cited as a nibandha-text authority alongside the Hemādri for the same ruling on fasting tithis."
+    },
+    {
+      "cited_work": "Madanaratna",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-a942d0",
+      "quote": "The Madanaratna says the conjunction is for five muhūrtas starting from dawn (aruṇodaya)",
+      "justification": "Cited for a specific technical specification of the five-muhūrta conjunction counting from dawn."
+    },
+    {
+      "cited_work": "Baudhāyana",
+      "cited_author": "Baudhāyana",
+      "stance": "authority",
+      "paragraph_id": "p-a942d0",
+      "quote": "because of the verses of Baudhāyana, the Nigama, etc., which state that even a small portion of a tithi present at sunrise is to be accepted: 'For a fast, the tithi at sunrise; for a night-meal (nakta), the one at sunset.'",
+      "justification": "Named as a smṛti authority prescribing sunrise as the determining moment for fasting tithi."
+    },
+    {
+      "cited_work": "Jyotirnibandha",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-d87bf0",
+      "quote": "This is from a verse cited in the Jyotirnibandha: 'On Pratipad of the bright fortnight of Caitra, whichever day of the week it is at sunrise, that is the lord of the year.'",
+      "justification": "Cited as the source of a verse on determining the lord of the year from the day of Caitra Pratipad at sunrise."
+    },
+    {
+      "cited_work": "Brāhma Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-d87bf0",
+      "quote": "As stated in the Brāhma Purāṇa: 'In the month of Caitra, on the first day, in the bright fortnight, when the sun has risen, Brahmā created the world.'",
+      "justification": "Cited as the Purāṇic authority for the rule that Caitra Pratipad should be observed at sunrise, based on Brahmā's act of creation."
+    },
+    {
+      "cited_work": "Brahma Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-d87bf0",
+      "quote": "And from the Brahma Purāṇa, which begins with Pratipad: 'These three tithis are proclaimed as superior, O son of Kuru!'",
+      "justification": "Cited for a verse praising three specific tithis in the months of Kārtika, Āśvayuja, and Caitra."
+    },
+    {
+      "cited_work": "Devī Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-d87bf0",
+      "quote": "from the verse of the Devī Purāṇa: 'Pratipad conjoined with Amā should not be used for the worship of Caṇḍikā. It should be performed when it is conjoined with Dvitīyā, even for a single muhūrta.'",
+      "justification": "Cited as the Purāṇic authority for the Navarātra rule that Pratipad must be conjoined with Dvitīyā, not Amāvāsyā."
+    },
+    {
+      "cited_work": "Mārkaṇḍeya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-d87bf0",
+      "quote": "the Mārkaṇḍeya and Devī Purāṇas prohibit the pūrvaviddhā: 'The Pratipad of Āśvina which may be bright and conjoined with the previous tithi—one who desires good should not perform the Navarātra vow on it.'",
+      "justification": "Cited as a Purāṇic authority prohibiting pūrvaviddhā Pratipad for Navarātra worship."
+    },
+    {
+      "cited_work": "Padma Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-4f7f86",
+      "quote": "And from the Padma Purāṇa: 'Śivarātri and the day of Bali should be performed when conjoined with the previous tithi.'",
+      "justification": "Cited as a Purāṇic authority prescribing the pūrvaviddhā rule for both Śivarātri and the Bali festival."
+    },
+    {
+      "cited_work": "Bhaviṣya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-4f7f86",
+      "quote": "As stated in the Bhaviṣya Purāṇa: 'When the month of Madhu (Caitra) has begun, on Pratipad, when the sun has risen.'",
+      "justification": "Cited as authority for the sunrise-Pratipad rule for the Holākā festival."
+    },
+    {
+      "cited_work": "Purāṇasamuccaya",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-4f7f86",
+      "quote": "As stated in the Purāṇasamuccaya: 'When the dewy season has passed, on the fifteenth day of the bright fortnight, in the morning, when the spring season has arrived, having eaten a mango blossom with sandalwood paste, truly, O Pārtha, a man will be happy for a year.'",
+      "justification": "Cited as authority for the morning-conjunction rule for Kāma worship on Pratipad of Caitra."
+    },
+    {
+      "cited_work": "Brahmavaivarta Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-4b3517",
+      "quote": "the Brahmavaivarta Purāṇa prohibits the one conjoined with the following tithi (paraviddhā): 'Pratipad, Pañcamī, Bhūtā, Sāvitrī or Vaṭapūrṇimā, Navamī, and Daśamī—these are not to be fasted on when conjoined with the following tithi.'",
+      "justification": "Cited as authority for the comprehensive list of tithis prohibited when conjoined with the following tithi."
+    },
+    {
+      "cited_work": "Brahmavaivarta Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-4b3517",
+      "quote": "the Brahmavaivarta verse: 'Pratipad should be facing, O best of the twice-born, and Dvitīyā also!'",
+      "justification": "Cited as authority for the 'facing' (pūrvaviddhā) rule for Pratipad and Dvitīyā."
+    },
+    {
+      "cited_work": "Brahmavaivarta Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-4b3517",
+      "quote": "In the Brahmavaivarta Purāṇa: 'In all vows to Rudra, the facing tithi should be performed.'",
+      "justification": "Cited as authority for the general rule that all vows to Rudra require the pūrvaviddhā tithi."
+    },
+    {
+      "cited_work": "Skanda Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-4b3517",
+      "quote": "As stated in the Skanda Purāṇa: 'Pratipad should be performed when it is facing, that is, when it falls in the afternoon.'",
+      "justification": "Cited as the Purāṇic authority for the afternoon rule for Pratipad observance."
+    },
+    {
+      "cited_work": "Viṣṇudharmottara",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-62c6c4",
+      "quote": "the Viṣṇudharmottara verse, which teaches the acceptability of the parānvitā (conjoined with the following) for fasting alone: 'Ekādaśī, Aṣṭamī, Ṣaṣṭhī, Dvitīyā, and Caturdaśī, Trayodaśī, and Amāvāsyā should be fasted on when conjoined with the following tithi.'",
+      "justification": "Cited as the specific Purāṇic authority for the list of tithis to be fasted when conjoined with the following day."
+    },
+    {
+      "cited_work": "Nāradīya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-bc4153",
+      "quote": "the Nāradīya verse: 'Tṛtīyā, Ekādaśī, Ṣaṣṭhī, and also the Aṣṭamī tithi—these tithis destroy the fast if they are below the conjunction'",
+      "justification": "Cited as the authority for the rule that specific tithis vitiate a fast when they appear in conjunction below the prescribed level."
+    },
+    {
+      "cited_work": "Skanda Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-bc4153",
+      "quote": "the Skanda Purāṇa verse: 'Pratipad should be performed when it is facing, that is, when it falls in the afternoon. And Dvitīyā should be performed in the forenoon, O Lord, in the same way!'",
+      "justification": "Cited for the forenoon rule for dark-fortnight Dvitīyā, alongside the afternoon rule for Pratipad."
+    },
+    {
+      "cited_work": "Bhaviṣya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-7ca7e3",
+      "quote": "The vow is stated in the Bhaviṣya Purāṇa: 'Listen, O Bhārata, to the Dvitīyā called Aśūnyaśayana, by fasting on which a woman does not suffer widowhood'",
+      "justification": "Cited as the Purāṇic source for the Aśūnyaśayana vow on the dark-fortnight Dvitīyās of the four months beginning with Śrāvaṇa."
+    },
+    {
+      "cited_work": "Skānda Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-7ca7e3",
+      "quote": "As stated in the Skānda Purāṇa: 'On the bright Dvitīyā of Ūrja (Kārtika), one should worship Yama in the afternoon.'",
+      "justification": "Cited as authority for the afternoon-Yama worship rule on Kārtika Śukla Dvitīyā."
+    },
+    {
+      "cited_work": "Bhaviṣya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-b7a49f",
+      "quote": "In the Bhaviṣya Purāṇa: 'The first is in the month of Śrāvaṇa, the second in the month of Bhādra, the third in the month of Āśvayuja, the fourth is in Kārtika.'",
+      "justification": "Cited for the enumeration of the four seasonal Dvitīyā observances named Kaluṣā, Gīrmatā, Pretasañcārā, and Yāmyakā."
+    },
+    {
+      "cited_work": "Brahmavaivarta Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-f1e6e0",
+      "quote": "It is said in the Brahmavaivarta Purāṇa: 'Having excluded the Tṛtīyā called Rambhā, O best of the twice-born, for all other rites, the one conjoined with Gaṇa is praised.'",
+      "justification": "Cited as authority for the general rule that Tṛtīyā conjoined with Caturthī (Gaṇa) is required for all rites except the Rambhā vow."
+    },
+    {
+      "cited_work": "Skanda Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-f1e6e0",
+      "quote": "And so, in the Skanda Purāṇa: 'The Tṛtīyā that is conjoined with Dvitīyā should never be performed by those observing a vow'",
+      "justification": "Cited for the prohibition of Tṛtīyā conjoined with Dvitīyā for vow-observances."
+    },
+    {
+      "cited_work": "Bhaviṣyat Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-cd443c",
+      "quote": "In the Bhaviṣyat Purāṇa: 'Tṛtīyā should never be performed with Dvitīyā.'",
+      "justification": "Cited as a concise Purāṇic prohibition of Tṛtīyā conjoined with Dvitīyā."
+    },
+    {
+      "cited_work": "Skanda Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-cd443c",
+      "quote": "In the Skanda Purāṇa: 'Bṛhattapā and Rambhā, Sāvitrī and Vaṭapaitṛkī, Kṛṣṇāṣṭamī and Bhūtā—these tithis should be performed when facing.'",
+      "justification": "Cited for the list of vows including Rambhā that require the pūrvaviddhā (facing) tithi."
+    },
+    {
+      "cited_work": "Purāṇasamuccaya",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-4c4406",
+      "quote": "Gaurī's Caturthī, the worship of Vaṭa and the cow, the worship of Durgā, the Durmara and Holikā, the worship of the calf, and Śivarātri—these, when succeeding, destroy the king and his kingdom",
+      "justification": "Cited as authority for the rule that certain festivals are inauspicious when taken on the succeeding day, harming the king."
+    },
+    {
+      "cited_work": "Brahmavaivarta Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-866370",
+      "quote": "It is said in the Brahmavaivarta Purāṇa: 'The Tṛtīyā that is conjoined with Caturthī is fruit-bearing. And Caturthī conjoined with Tṛtīyā gives the fruit of great merit. It should be performed by those observing a vow, O child, to please Gaṇanātha.'",
+      "justification": "Cited as authority for the Vināyaka-Caturthī rule requiring conjunction with Tṛtīyā."
+    },
+    {
+      "cited_work": "Bhaviṣyat Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-73299c",
+      "quote": "the verse from the Bhaviṣyat Purāṇa: 'Tṛtīyā should be performed when conjoined with Caturthī, and so should Caturthikā. One should never perform it when conjoined with Pañcamī.'",
+      "justification": "Cited as authority for both the Tṛtīyā-Caturthī conjunction rule and the prohibition of Caturthī conjoined with Pañcamī."
+    },
+    {
+      "cited_work": "Skanda Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-cf46e0",
+      "quote": "And the verse from the Skanda Purāṇa: 'Caturthī should be performed when conjoined with Tṛtīyā, O Lord!'",
+      "justification": "Cited for the Caturthī-Tṛtīyā conjunction rule applicable to the Vināyaka vow."
+    },
+    {
+      "cited_work": "Liṅga Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-b0f069",
+      "quote": "In the Liṅga Purāṇa also: 'On Caturthī, having performed the worship of Gaṇeśa and of Gaurī according to the rules, a man obtains success and good fortune, in order.'",
+      "justification": "Cited as Purāṇic authority prescribing joint worship of Gaṇeśa and Gaurī on Caturthī."
+    },
+    {
+      "cited_work": "Nāradīya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-1bfcbd",
+      "quote": "In the Nāradīya Purāṇa also: 'On the Caturthī of the bright fortnight of Māgha, a wise man should worship Gaurī. That Caturthī is called Varadā'",
+      "justification": "Cited as authority naming the Māgha Śukla Caturthī as Varadā and prescribing Gaurī worship on it."
+    },
+    {
+      "cited_work": "Bhaviṣyat Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-c24cd8",
+      "quote": "In the Bhaviṣyat Purāṇa, it is stated regarding a vow to Gaurī on Caturthī: 'Having worshipped Vināyaka on Caturthī, O descendant of Yadu, one becomes free from all obstacles'",
+      "justification": "Cited as the authority linking the Caturthī vow to Gaurī with Vināyaka worship, providing the basis for joint worship on that day."
+    },
+    {
+      "cited_work": "Gaṇapatikalpa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-651225",
+      "quote": "because in the Gaṇapatikalpa, it is understood that midday is the time of the rite (karma-kāla)",
+      "justification": "Cited as a ritual manual (kalpa) establishing midday as the prescribed time for the Gaṇapati vow."
+    },
+    {
+      "cited_work": "Śivarahasya",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-79c277",
+      "quote": "Therefore, although from the Śivarahasya and Saurapurāṇa: 'Generally, the end of the tithi should be fasted on by those desiring the fruit of divine rites.'",
+      "justification": "Cited alongside the Saurapurāṇa as a general authority for the principle that the end of a tithi is the preferred time for fasting."
+    },
+    {
+      "cited_work": "Saurapurāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-79c277",
+      "quote": "Therefore, although from the Śivarahasya and Saurapurāṇa: 'Generally, the end of the tithi should be fasted on by those desiring the fruit of divine rites.'",
+      "justification": "Cited alongside the Śivarahasya as a general authority for the tithi-end fasting principle, overridden by specific Pañcamī verses."
+    },
+    {
+      "cited_work": "Skanda Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-0a24e3",
+      "quote": "In the Skanda Purāṇa also: 'Pañcamī should likewise be performed when conjoined with Caturthī, O Lord!'",
+      "justification": "Cited as corroborating authority for the pūrvaviddhā rule for Pañcamī in all divine rites."
+    },
+    {
+      "cited_work": "Bhaviṣyat Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-64b348",
+      "quote": "In the Bhaviṣyat Purāṇa also: 'Pañcamī should be performed with Caturthī, not conjoined with Ṣaṣṭhī.'",
+      "justification": "Cited as explicit Purāṇic prohibition of Pañcamī conjoined with Ṣaṣṭhī for general observances."
+    },
+    {
+      "cited_work": "Nāga-Pañcamī Purāṇa verse",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-1fcdd8",
+      "quote": "The Pañcamī of the bright fortnight of Śrāvaṇa is proclaimed as Nāga-pañcamī. Leaving that aside, other Pañcamīs are beneficial when joined with Caturthī.",
+      "justification": "Cited to establish Nāga-pañcamī of Śrāvaṇa as the exception to the pūrvaviddhā rule for Pañcamī."
+    }
+  ]
+}

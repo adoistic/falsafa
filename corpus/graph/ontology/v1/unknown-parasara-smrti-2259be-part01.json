@@ -1,0 +1,847 @@
+{
+  "slug": "unknown-parasara-smrti-2259be",
+  "window": "01-05",
+  "entities": [
+    {
+      "canonical_name": "Parāśara",
+      "surface_names": ["Parāśara", "son of Śakti", "chief among sages"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-2fd3d5",
+          "quote": "they saw Parāśara, the son of Śakti, seated comfortably, full of great energy, and surrounded by hosts of the foremost sages",
+          "role": "subject — primary authority being visited by the sages"
+        },
+        {
+          "paragraph_id": "p-7ae837",
+          "quote": "the great sage Parāśara, chief among sages, said while seated, 'Welcome, speak.'",
+          "role": "speaker granting audience"
+        },
+        {
+          "paragraph_id": "p-a44a20",
+          "quote": "At the end of Vyāsa's speech, Parāśara, chief among sages",
+          "role": "responder who gives definitive ruling on dharma"
+        },
+        {
+          "paragraph_id": "p-121575",
+          "quote": "in the Kali yuga, those of Parāśara are remembered",
+          "role": "lawgiver whose dharma is authoritative for the Kali yuga"
+        },
+        {
+          "paragraph_id": "p-4a3401",
+          "quote": "The doctrine of Parāśara is holy, purifying, and destructive of sin",
+          "role": "eponymous author of the smṛti text"
+        }
+      ],
+      "description": "The sage Parāśara, son of Śakti, is the principal authority of this dharmaśāstra, designated as the lawgiver for the Kali yuga.",
+      "justification": "Parāśara is named throughout chapters 1–5 as the sage whose dharma rulings are specifically valid for the Kali yuga, and the text is presented as his direct teaching."
+    },
+    {
+      "canonical_name": "Vyāsa",
+      "surface_names": ["Vyāsa", "son of Satyavatī", "Kṛṣṇa Dvaipāyana"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-fcafe8",
+          "quote": "sages approached Vyāsa, who was seated in focused meditation in a forest of Devadāru trees on the summit of the Himalaya mountain",
+          "role": "recipient of the sages' initial question"
+        },
+        {
+          "paragraph_id": "p-207aa1",
+          "quote": "I am not the knower of all truths; how then can I declare the dharma? My father himself must be asked.",
+          "role": "interlocutor who defers to his father Parāśara"
+        },
+        {
+          "paragraph_id": "p-75f633",
+          "quote": "Vyāsa then asked: 'If you recognize my devotion, or out of affection, O you who are fond of your devotees'",
+          "role": "petitioner seeking dharma instruction from his father"
+        },
+        {
+          "paragraph_id": "p-c79a0e",
+          "quote": "tell me the dharma, O father, for I am deserving of your grace",
+          "role": "son and pupil soliciting dharma teaching"
+        },
+        {
+          "paragraph_id": "p-b04c1d",
+          "quote": "I shall first proclaim this according to the words of Parāśara",
+          "role": "transmitter of Parāśara's teaching in chapter 2"
+        }
+      ],
+      "description": "Vyāsa, son of Satyavatī and Parāśara, serves as the interlocutor who directs sages to Parāśara and then receives his father's dharma teaching.",
+      "justification": "Vyāsa appears as both the first addressee of the sages' dharma query and as Parāśara's son who transmits the Parāśara Smṛti, framing the text's dialogic structure."
+    },
+    {
+      "canonical_name": "Brahmā",
+      "surface_names": ["Brahmā", "four-faced Brahmā"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-0dd856",
+          "quote": "Brahmā, Viṣṇu, and Maheśvara are always the determiners of sacred scripture (śruti), tradition (smṛti), and righteous conduct",
+          "role": "cosmic co-determiner of scripture and dharma"
+        },
+        {
+          "paragraph_id": "p-ebf4c4",
+          "quote": "The four-faced Brahmā, having remembered the Veda, likewise remembers the dharmas, as does Manu in each successive kalpāntara",
+          "role": "cosmic creator who re-remembers Veda at each cycle"
+        }
+      ],
+      "description": "Brahmā is the four-faced creator deity who, along with Viṣṇu and Maheśvara, determines sacred scripture and remembers the Vedas at each cosmic cycle.",
+      "justification": "Brahmā is explicitly named as one of the three cosmic determiners of dharma and śruti, playing a foundational cosmological role in the text's theory of dharma's eternal recurrence."
+    },
+    {
+      "canonical_name": "Viṣṇu",
+      "surface_names": ["Viṣṇu"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-0dd856",
+          "quote": "Brahmā, Viṣṇu, and Maheśvara are always the determiners of sacred scripture (śruti), tradition (smṛti), and righteous conduct",
+          "role": "cosmic co-determiner of scripture and dharma"
+        },
+        {
+          "paragraph_id": "p-87a32c",
+          "quote": "those of Atri, Viṣṇu, Saṃvarta, and Dakṣa, as well as Aṅgiras",
+          "role": "lawgiver whose dharma Vyāsa has already heard"
+        }
+      ],
+      "description": "Viṣṇu figures both as one of the three supreme cosmic arbiters of dharma and as an author of a prior dharmaśāstra tradition that Vyāsa has already studied.",
+      "justification": "Viṣṇu is named among the triad determining śruti and smṛti each cosmic cycle, and also listed as an earlier dharmaśāstra authority whose rules Vyāsa has mastered."
+    },
+    {
+      "canonical_name": "Maheśvara",
+      "surface_names": ["Maheśvara", "Śiva"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-0dd856",
+          "quote": "Brahmā, Viṣṇu, and Maheśvara are always the determiners of sacred scripture (śruti), tradition (smṛti), and righteous conduct",
+          "role": "cosmic co-determiner of scripture and dharma"
+        }
+      ],
+      "description": "Maheśvara (Śiva) is named as the third member of the cosmic triad that determines Vedic scripture, tradition, and righteous conduct in each cosmic cycle.",
+      "justification": "Maheśvara is listed alongside Brahmā and Viṣṇu as a co-sovereign of dharmic ordering, establishing the Trika framework as the legitimating authority for the text."
+    },
+    {
+      "canonical_name": "Manu",
+      "surface_names": ["Manu"],
+      "kind": "figure",
+      "figure_kind": "sage-lawgiver",
+      "mentions": [
+        {
+          "paragraph_id": "p-c79a0e",
+          "quote": "I have heard the dharmas of Manu, as well as those of Vasiṣṭha and Kāśyapa",
+          "role": "prior lawgiver whose rules Vyāsa has already heard"
+        },
+        {
+          "paragraph_id": "p-ebf4c4",
+          "quote": "likewise remembers the dharmas, as does Manu in each successive kalpāntara",
+          "role": "cosmic rememberer of dharma at each cycle"
+        },
+        {
+          "paragraph_id": "p-121575",
+          "quote": "In the Kṛta yuga, the dharmas are those of Manu",
+          "role": "lawgiver authoritative for the Kṛta yuga"
+        },
+        {
+          "paragraph_id": "p-8991a9",
+          "quote": "all of that goes to the demons (rākṣasas); thus has Manu declared",
+          "role": "cited authority on women's vows"
+        }
+      ],
+      "description": "Manu is the primordial lawgiver whose dharmas are authoritative for the Kṛta yuga and who, like Brahmā, re-remembers dharma at each cosmic cycle.",
+      "justification": "Manu is invoked both as the Kṛta-yuga lawgiver (contrasted with Parāśara as the Kali-yuga lawgiver) and as a cited precedent for specific rulings within the text."
+    },
+    {
+      "canonical_name": "Indra",
+      "surface_names": ["Indra"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-1ceb58",
+          "quote": "He who has an umbrella, a horse, and the splendor of riding an elephant, attains the station of Indra",
+          "role": "divine paradigm of royal status and splendor"
+        }
+      ],
+      "description": "Indra is invoked as the paradigmatic deity of celestial sovereignty, whose station is achieved by the wandering ascetic who possesses marks of prosperity.",
+      "justification": "Indra's station is used as the superlative standard of heavenly reward attained by a guest (atithi) with outward signs of opulence, serving as a reason not to scrutinize such guests."
+    },
+    {
+      "canonical_name": "Prajāpati",
+      "surface_names": ["Prajāpati"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-2e8cdd",
+          "quote": "are purified by the Taptakṛcchra penance; thus has Prajāpati declared",
+          "role": "divine authority who ordained the Taptakṛcchra penance"
+        }
+      ],
+      "description": "Prajāpati is cited as the deity who ordained the Taptakṛcchra penance for those tainted by contact with suicides or violent deaths.",
+      "justification": "Prajāpati is explicitly named as the source authority for a specific penance rule, functioning as a divine legislative precedent."
+    },
+    {
+      "canonical_name": "Vasiṣṭha",
+      "surface_names": ["Vasiṣṭha"],
+      "kind": "figure",
+      "figure_kind": "sage-lawgiver",
+      "mentions": [
+        {
+          "paragraph_id": "p-c79a0e",
+          "quote": "I have heard the dharmas of Manu, as well as those of Vasiṣṭha and Kāśyapa",
+          "role": "prior lawgiver whose dharma Vyāsa has studied"
+        }
+      ],
+      "description": "Vasiṣṭha is listed among the established dharmaśāstra authorities whose teachings Vyāsa has already mastered before approaching Parāśara.",
+      "justification": "Vasiṣṭha appears in the canonical list of earlier smṛti authors recited by Vyāsa to establish his existing knowledge and the need for Parāśara's supplementary teaching."
+    },
+    {
+      "canonical_name": "Gautama",
+      "surface_names": ["Gautama"],
+      "kind": "figure",
+      "figure_kind": "sage-lawgiver",
+      "mentions": [
+        {
+          "paragraph_id": "p-87a32c",
+          "quote": "Those of Garga, Gautama, and also those remembered from Uśanas",
+          "role": "lawgiver in the catalogue of dharmaśāstras"
+        },
+        {
+          "paragraph_id": "p-121575",
+          "quote": "in the Tretā, those of Gautama are remembered",
+          "role": "lawgiver specifically authoritative for the Tretā yuga"
+        }
+      ],
+      "description": "Gautama is the dharmaśāstra authority whose teachings are assigned authoritative status for the Tretā yuga, and whose works Vyāsa has already studied.",
+      "justification": "Gautama is included both in Vyāsa's list of mastered smṛtis and in the yuga-wise enumeration of authoritative lawgivers, linking his dharma specifically to the second cosmic age."
+    },
+    {
+      "canonical_name": "Śaṅkha",
+      "surface_names": ["Śaṅkha"],
+      "kind": "figure",
+      "figure_kind": "sage-lawgiver",
+      "mentions": [
+        {
+          "paragraph_id": "p-feebe6",
+          "quote": "the dharmas composed by Āpastamba, and those of Śaṅkha and Likhita",
+          "role": "co-author of a dharmaśāstra"
+        },
+        {
+          "paragraph_id": "p-121575",
+          "quote": "In the Dvāpara, they are those of Śaṅkha and Likhita",
+          "role": "lawgiver authoritative for the Dvāpara yuga"
+        },
+        {
+          "paragraph_id": "p-848bed",
+          "quote": "But if permitted by him, he may do so, according to the word of Śaṅkha",
+          "role": "cited authority on the sacred fire precedence rule"
+        }
+      ],
+      "description": "Śaṅkha is a dharmaśāstra authority, co-author with Likhita of the smṛti authoritative for the Dvāpara yuga, and is directly cited for a specific ruling in chapter 4.",
+      "justification": "Śaṅkha appears three times: in the general catalogue of authorities, in the yuga-wise list as the Dvāpara lawgiver, and as a cited precedent for a specific household rule."
+    },
+    {
+      "canonical_name": "Likhita",
+      "surface_names": ["Likhita"],
+      "kind": "figure",
+      "figure_kind": "sage-lawgiver",
+      "mentions": [
+        {
+          "paragraph_id": "p-feebe6",
+          "quote": "the dharmas composed by Āpastamba, and those of Śaṅkha and Likhita",
+          "role": "co-author of a dharmaśāstra"
+        },
+        {
+          "paragraph_id": "p-121575",
+          "quote": "In the Dvāpara, they are those of Śaṅkha and Likhita",
+          "role": "lawgiver authoritative for the Dvāpara yuga"
+        }
+      ],
+      "description": "Likhita is a dharmaśāstra authority whose joint smṛti with Śaṅkha is regarded as authoritative for the Dvāpara yuga.",
+      "justification": "Likhita is paired with Śaṅkha in both Vyāsa's recitation of mastered dharmaśāstras and in the yuga-linked catalogue, establishing their texts as the Dvāpara-yuga authority."
+    },
+    {
+      "canonical_name": "Himalaya",
+      "surface_names": ["Himalaya", "Himalaya mountain"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-fcafe8",
+          "quote": "sages approached Vyāsa, who was seated in focused meditation in a forest of Devadāru trees on the summit of the Himalaya mountain",
+          "role": "sacred setting of Vyāsa's meditation"
+        }
+      ],
+      "description": "The Himalaya mountain is the sacred location where Vyāsa sits in meditation and is first approached by the sages seeking dharma.",
+      "justification": "The Himalaya is named as the specific geographic setting that frames the opening dialogue of the text, establishing the narrative's sacred space."
+    },
+    {
+      "canonical_name": "Badarikā",
+      "surface_names": ["Badarikā", "hermitage of Badarikā"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-4fff1a",
+          "quote": "putting Vyāsa at their head, went to the hermitage of Badarikā",
+          "role": "destination of the sages' pilgrimage to find Parāśara"
+        },
+        {
+          "paragraph_id": "p-a6b624",
+          "quote": "It was teeming with various flowers and creepers, adorned with fruit-bearing trees, endowed with rivers and streams, and graced by holy pilgrimage sites",
+          "role": "sacred hermitage described in idealized terms"
+        }
+      ],
+      "description": "Badarikā is the Himalayan hermitage where Parāśara resides and where the sages, led by Vyāsa, go to receive his dharma teaching.",
+      "justification": "Badarikā is the narrative locus of the text's framing dialogue, described as a paradisal retreat teeming with sacred flora, fauna, and pilgrimage sites."
+    },
+    {
+      "canonical_name": "Brāhmaṇa",
+      "surface_names": ["Brāhmaṇa", "dvija", "twice-born"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-f4eb93",
+          "quote": "A Brāhmaṇa who is ever devoted to the six duties, who worships deities and guests, and who eats the remnants of the fire offering, does not perish",
+          "role": "subject of the six-duty injunction"
+        },
+        {
+          "paragraph_id": "p-026cf5",
+          "quote": "Declare some common rules of conduct for the four varṇas, which should be performed by all four varṇas who are experts in dharma",
+          "role": "one of the four varṇas for whom rules are prescribed"
+        },
+        {
+          "paragraph_id": "p-1e0419",
+          "quote": "Brāhmaṇas become pure in three days from the sūtaka of a deceased relative",
+          "role": "varṇa with the shortest purity period after death"
+        }
+      ],
+      "description": "The Brāhmaṇa is the priestly varṇa whose six daily duties, hospitality obligations, and purity rules are discussed in extensive detail throughout these chapters.",
+      "justification": "Brāhmaṇas are the primary subject of ritual obligation and purity rules across chapters 1–5, receiving the most detailed prescriptions for conduct, purity, and penalty."
+    },
+    {
+      "canonical_name": "Kṣatriya",
+      "surface_names": ["Kṣatriya", "king", "warrior"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-2ea06b",
+          "quote": "A Kṣatriya, protecting his subjects, weapon in hand and ready to punish, should conquer the armies of his enemies and rule the earth according to dharma",
+          "role": "subject of the warrior-class duty prescription"
+        },
+        {
+          "paragraph_id": "p-070bb9",
+          "quote": "A Kṣatriya becomes pure in twelve days",
+          "role": "varṇa with a twelve-day purity period"
+        }
+      ],
+      "description": "The Kṣatriya is the warrior-ruling class whose dharma is defined as protection of subjects, conquest of enemies, and rule according to dharma, with a twelve-day purity period.",
+      "justification": "The Kṣatriya's specific dharmic duties and purity regulations are set out in the chapters, including the warrior-glory passages on death in battle."
+    },
+    {
+      "canonical_name": "Vaiśya",
+      "surface_names": ["Vaiśya"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-8ac5d6",
+          "quote": "Profitable trade, dealing in gems, the protection of cattle, agriculture, and commerce — this is declared to be the livelihood of a Vaiśya",
+          "role": "subject of the merchant-class duty prescription"
+        },
+        {
+          "paragraph_id": "p-070bb9",
+          "quote": "a Vaiśya in fifteen days",
+          "role": "varṇa with a fifteen-day purity period"
+        }
+      ],
+      "description": "The Vaiśya is the merchant-agricultural class whose dharma encompasses trade, cattle management, agriculture, and commerce, with a fifteen-day purity period.",
+      "justification": "The Vaiśya's livelihood duties and purity durations are explicitly defined in the text, positioning them within the four-varṇa hierarchy."
+    },
+    {
+      "canonical_name": "Śūdra",
+      "surface_names": ["Śūdra"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-9c1fcd",
+          "quote": "Service to the dvijas is said to be the highest dharma of a Śūdra. If he does anything else, it becomes fruitless for him",
+          "role": "subject of the service-class duty prescription"
+        },
+        {
+          "paragraph_id": "p-600e4d",
+          "quote": "By drinking the milk of a brown cow, by having intercourse with a Brāhmaṇa woman, and by deliberating on the syllables of the Veda, a Śūdra becomes an outcaste (caṇḍāla)",
+          "role": "subject of severe degradation rules"
+        },
+        {
+          "paragraph_id": "p-070bb9",
+          "quote": "a Śūdra in a month, according to the word of Parāśara",
+          "role": "varṇa with the longest purity period"
+        }
+      ],
+      "description": "The Śūdra is the servile class whose highest dharma is service to the twice-born, and who faces severe restrictions regarding Vedic involvement and intervarṇa contact.",
+      "justification": "The Śūdra receives the most extensive list of prohibitions and degradation scenarios in the text, with Parāśara explicitly cited as the authority for their purity rules."
+    },
+    {
+      "canonical_name": "Yakṣas",
+      "surface_names": ["Yakṣas"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-e35de9",
+          "quote": "embellished with the dances and songs of Yakṣas, Gandharvas, and Siddhas",
+          "role": "supernatural denizens embellishing Badarikā hermitage"
+        }
+      ],
+      "description": "Yakṣas are semi-divine nature spirits whose dances and songs adorn the sacred hermitage of Badarikā.",
+      "justification": "Yakṣas are named among the supernatural beings inhabiting Badarikā, helping to establish the hermitage's status as a cosmically privileged sacred space."
+    },
+    {
+      "canonical_name": "Gandharvas",
+      "surface_names": ["Gandharvas"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-e35de9",
+          "quote": "embellished with the dances and songs of Yakṣas, Gandharvas, and Siddhas",
+          "role": "celestial musicians at the sacred hermitage"
+        }
+      ],
+      "description": "Gandharvas are divine musicians and singers whose presence at Badarikā marks it as a place of celestial activity.",
+      "justification": "Gandharvas appear as part of the triple cluster of supernatural beings adorning Badarikā, signaling the hermitage's transcendent character."
+    },
+    {
+      "canonical_name": "Siddhas",
+      "surface_names": ["Siddhas"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-e35de9",
+          "quote": "embellished with the dances and songs of Yakṣas, Gandharvas, and Siddhas",
+          "role": "perfected beings at the sacred hermitage"
+        }
+      ],
+      "description": "Siddhas are perfected semi-divine beings whose presence at Badarikā completes the triple supernatural assembly marking it as an elevated sacred space.",
+      "justification": "Siddhas are grouped with Yakṣas and Gandharvas as inhabitants of Badarikā, contributing to the text's depiction of the hermitage as a liminal, cosmically charged locus."
+    },
+    {
+      "canonical_name": "Apsarases",
+      "surface_names": ["celestial maidens", "celestial nymphs", "Apsarases"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-bad701",
+          "quote": "him the celestial maidens carry away and delight with",
+          "role": "reward agents for warriors slain in battle"
+        },
+        {
+          "paragraph_id": "p-fa4037",
+          "quote": "Thousands of celestial nymphs, seeing a hero slain in battle, rush forward eagerly, crying, 'He is my husband! He is mine!'",
+          "role": "divine consorts competing to claim the fallen warrior"
+        }
+      ],
+      "description": "Celestial nymphs (Apsarases) are the divine reward for warriors who die heroically in battle, rushing to claim the fallen hero as a husband.",
+      "justification": "The celestial nymphs appear in two vivid passages in chapter 3 describing the warrior's afterlife reward, serving as incentive for heroic death in battle."
+    },
+    {
+      "canonical_name": "Kali yuga",
+      "surface_names": ["Kali yuga", "Kali age"],
+      "kind": "event",
+      "mentions": [
+        {
+          "paragraph_id": "p-22e02e",
+          "quote": "please tell us in full the dharma that is beneficial for mankind in the present Kali yuga",
+          "role": "current cosmic age that motivates the dharma inquiry"
+        },
+        {
+          "paragraph_id": "p-afd7d9",
+          "quote": "in the Kali yuga, only charity (dāna) is supreme",
+          "role": "age in which charity replaces austerity as the supreme virtue"
+        },
+        {
+          "paragraph_id": "p-121575",
+          "quote": "in the Kali yuga, those of Parāśara are remembered",
+          "role": "age whose authoritative law is Parāśara's smṛti"
+        },
+        {
+          "paragraph_id": "p-ce238b",
+          "quote": "Kings are conquered by thieves, and men by women in the Kali yuga",
+          "role": "age characterized by moral inversion"
+        }
+      ],
+      "description": "The Kali yuga is the present degenerate cosmic age, the specific context for the text's dharma teaching, in which Parāśara's smṛti is the authoritative law.",
+      "justification": "The Kali yuga is the explicit frame of the entire text — the sages ask for dharma suitable to it, and Parāśara's doctrine is declared authoritative precisely because it addresses this age."
+    },
+    {
+      "canonical_name": "Devadāru forest",
+      "surface_names": ["forest of Devadāru trees", "Devadāru forest"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-fcafe8",
+          "quote": "Vyāsa, who was seated in focused meditation in a forest of Devadāru trees on the summit of the Himalaya mountain",
+          "role": "sacred setting of Vyāsa's meditation"
+        }
+      ],
+      "description": "The Devadāru (Himalayan cedar) forest on the Himalayan summit is the sacred natural setting of Vyāsa's opening meditation.",
+      "justification": "The Devadāru forest is named as the specific location of Vyāsa's meditation, lending the narrative a recognizable Himalayan sacred-geography context."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "yuga-relative dharma: different moral and ritual laws govern each cosmic age",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-11656a",
+          "quote": "The dharmas for men are different in the Kṛta yuga, the Tretā, and the Dvāpara yuga. They are different again in the Kali yuga, in accordance with the character of the age."
+        },
+        {
+          "paragraph_id": "p-afd7d9",
+          "quote": "Austerity (tapas) is supreme in the Kṛta yuga; knowledge (jñāna) is said to be so in the Tretā. In the Dvāpara, they call it sacrifice (yajña); in the Kali yuga, only charity (dāna) is supreme."
+        },
+        {
+          "paragraph_id": "p-121575",
+          "quote": "In the Kṛta yuga, the dharmas are those of Manu; in the Tretā, those of Gautama are remembered. In the Dvāpara, they are those of Śaṅkha and Likhita; in the Kali yuga, those of Parāśara are remembered."
+        }
+      ],
+      "justification": "The text's organizing principle is yuga-relative dharma: different virtues, different lawgivers, and different degrees of moral contagion are assigned to each of the four cosmic ages, making time itself a dharmic variable."
+    },
+    {
+      "topic": "varṇāśrama-dharma: each social class and life-stage has its own fixed duties",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-026cf5",
+          "quote": "Declare some common rules of conduct for the four varṇas, which should be performed by all four varṇas who are experts in dharma."
+        },
+        {
+          "paragraph_id": "p-9c1fcd",
+          "quote": "Service to the dvijas is said to be the highest dharma of a Śūdra. If he does anything else, it becomes fruitless for him."
+        },
+        {
+          "paragraph_id": "p-2ea06b",
+          "quote": "A Kṣatriya, protecting his subjects, weapon in hand and ready to punish, should conquer the armies of his enemies and rule the earth according to dharma."
+        }
+      ],
+      "justification": "Chapters 1–2 systematically enumerate the distinct duties of each varṇa — Brāhmaṇa, Kṣatriya, Vaiśya, Śūdra — establishing varṇāśrama-dharma as the structural backbone of the text."
+    },
+    {
+      "topic": "ritual purity (śauca) and its graduated violation: birth, death, and contact produce ranked impurity",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-1e0419",
+          "quote": "Brāhmaṇas become pure in three days from the sūtaka of a deceased relative."
+        },
+        {
+          "paragraph_id": "p-f8e3d7",
+          "quote": "At a birth, a Brāhmaṇa becomes pure in ten days, a king in twelve days, a Vaiśya in fifteen days, and a Śūdra in a month."
+        },
+        {
+          "paragraph_id": "p-a255e4",
+          "quote": "From birth until teething, purification is immediate; from teething until the tonsure ceremony, it is one night; from tonsure until the investiture with the sacred thread, it is three nights; after that, it is ten nights."
+        }
+      ],
+      "justification": "Chapter 3 is devoted entirely to graduated purity rules for birth and death, specifying different durations of impurity by varṇa, degree of kinship, age of the deceased, and mode of death."
+    },
+    {
+      "topic": "hospitality to the atithi (guest) as a sacred obligation with cosmic stakes",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-abc05c",
+          "quote": "Whether he is liked or disliked, a fool or a scholar, if he arrives at the end of the Vaiśvadeva ritual, that atithi is a bridge to heaven."
+        },
+        {
+          "paragraph_id": "p-d461ee",
+          "quote": "The one from whose house an atithi turns away with his hopes shattered — his ancestors will not eat his offerings for fifteen years."
+        },
+        {
+          "paragraph_id": "p-9447ee",
+          "quote": "One should not ask about his lineage (gotra) or Vedic school (caraṇa), nor about his scriptural learning or knowledge. One should imagine him in one's heart as a deity, for he is indeed the embodiment of all deities."
+        }
+      ],
+      "justification": "Chapter 1 devotes sustained attention to the atithi, prescribing elaborate reception rites and threatening severe ancestral and soteriological punishment for failures in hospitality, framing the guest as a divine embodiment."
+    },
+    {
+      "topic": "prāyaścitta (penance/expiation): sin is quantifiable and redeemable through prescribed atonement",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-2e8cdd",
+          "quote": "are purified by the Taptakṛcchra penance; thus has Prajāpati declared",
+          "quote": "are purified by the Taptakṛcchra penance; thus has Prajāpati declared"
+        },
+        {
+          "paragraph_id": "p-30d648",
+          "quote": "For the first period (five days), a three-night fast is required. For the second (ten days), one should perform the Kṛcchra penance."
+        },
+        {
+          "paragraph_id": "p-528e3f",
+          "quote": "A dvija of the highest order who is bitten by wolves, dogs, jackals, or the like, should bathe and recite the Gāyatrī, the sacred mother of the Vedas."
+        }
+      ],
+      "justification": "Chapters 4–5 present a systematic tariff of penances keyed to the nature and duration of sin or pollution, reflecting the smṛti tradition's core commitment to quantifiable soteriological repair."
+    },
+    {
+      "topic": "heroic warrior death as soteriological achievement equivalent to sacrifice and austerity",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-15c63a",
+          "quote": "These two men in the world pierce the orb of the sun: the wandering ascetic who is yoked to yoga, and the warrior who is killed in battle facing the enemy."
+        },
+        {
+          "paragraph_id": "p-20fc90",
+          "quote": "The heavens which Brāhmaṇas seeking heaven attain here through many sacrifices and austerities, the heroes attain in a moment by giving up their lives in a good fight."
+        },
+        {
+          "paragraph_id": "p-db1945",
+          "quote": "He whose blood flows from his forehead and enters his mouth in battle — that is indeed equivalent to his drinking Soma, as duly seen in the sacrifice of battle."
+        }
+      ],
+      "justification": "Chapter 3 contains a sustained panegyric on the warrior's death in battle as spiritually equivalent to — and in some respects superior to — Brāhmaṇic sacrifice and austerity, creating a cross-varṇa soteriological parity."
+    },
+    {
+      "topic": "women's subordination to husbands: a wife's ritual and moral status is contingent on her husband",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-ef11f1",
+          "quote": "The woman who, having bathed after her fertile period, does not approach her husband — when she dies, she goes to hell and is reborn as a widow again and again."
+        },
+        {
+          "paragraph_id": "p-5c0ab5",
+          "quote": "The woman who undertakes a fast or a vow while her husband is alive, she shortens the life of her husband, and that woman goes to hell."
+        },
+        {
+          "paragraph_id": "p-bdd6ae",
+          "quote": "The woman who, after her husband has died, remains firm in her vow of celibacy — she, upon dying, obtains heaven, just as those celibate students do."
+        }
+      ],
+      "justification": "Chapter 4 systematically constrains women's ritual agency to their husband's oversight, prescribing severe punishments for independent fasting or vow-taking, and granting soteriological reward only for conduct oriented toward the husband."
+    },
+    {
+      "topic": "cosmic cyclism: dharma, scripture, and the universe are perpetually destroyed and recreated",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-0dd856",
+          "quote": "In every kalpa (cosmic cycle), through destruction and creation, Brahmā, Viṣṇu, and Maheśvara are always the determiners of sacred scripture (śruti), tradition (smṛti), and righteous conduct."
+        },
+        {
+          "paragraph_id": "p-ebf4c4",
+          "quote": "There is no author of the Veda. The four-faced Brahmā, having remembered the Veda, likewise remembers the dharmas, as does Manu in each successive kalpāntara."
+        }
+      ],
+      "justification": "The text's cosmological preamble in chapter 1 explicitly asserts that dharma, śruti, and smṛti are not authored but re-remembered at each cosmic cycle by the divine triad and by Manu, establishing dharma's eternal rather than historically contingent nature."
+    },
+    {
+      "topic": "the Vaiśvadeva ritual as the daily pivot of householder purity and cosmic obligation",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-40daa2",
+          "quote": "Twilight prayers and bathing, recitation of sacred texts (japa), fire offerings (homa), worship of deities and guests, hospitality to an atithi, and the Vaiśvadeva — these are the six duties to be performed day by day."
+        },
+        {
+          "paragraph_id": "p-90bb75",
+          "quote": "A beggar is able to remove the sin incurred during the Vaiśvadeva. But the Vaiśvadeva cannot remove the faults committed against a beggar."
+        },
+        {
+          "paragraph_id": "p-a60ad9",
+          "quote": "Those lowest of dvijas who eat without first performing the Vaiśvadeva — know that all their efforts are fruitless, and they fall into an impure hell."
+        }
+      ],
+      "justification": "The Vaiśvadeva daily fire offering functions as the hinge of household ritual purity in chapter 1: it is listed among the six obligatory daily duties, and both the atithi hospitality and almsgiving rules pivot on whether the Vaiśvadeva is in progress."
+    },
+    {
+      "topic": "the hierarchical transmissibility of smṛti authority through sages and lineages",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-c79a0e",
+          "quote": "I have heard the dharmas of Manu, as well as those of Vasiṣṭha and Kāśyapa.",
+          "quote": "I have heard the dharmas of Manu, as well as those of Vasiṣṭha and Kāśyapa."
+        },
+        {
+          "paragraph_id": "p-99d2e7",
+          "quote": "I have heard these as proclaimed by you; their meanings, derived from the Vedas, are not forgotten by me.",
+          "quote": "I have heard these as proclaimed by you; their meanings, derived from the Vedas, are not forgotten by me."
+        },
+        {
+          "paragraph_id": "p-a0d99c",
+          "quote": "In every yuga, the remaining authority is as declared by the sages. And the prāyaścitta prescribed by Parāśara is also ordained."
+        }
+      ],
+      "justification": "The text frames itself as situated within a multi-generational chain of smṛti transmission: Vyāsa has heard the works of many earlier sages (transmitted by Parāśara), and now solicits a fresh ruling from his father, positioning Parāśara's Smṛti as the culminating yuga-appropriate synthesis."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Manu Smṛti",
+      "cited_author": "Manu",
+      "stance": "authority",
+      "paragraph_id": "p-c79a0e",
+      "quote": "I have heard the dharmas of Manu, as well as those of Vasiṣṭha and Kāśyapa.",
+      "justification": "Manu's dharma is listed first in Vyāsa's recitation of mastered smṛtis, establishing the Manu Smṛti as the senior reference point against which the Parāśara Smṛti situates itself."
+    },
+    {
+      "cited_work": "Vasiṣṭha Dharmasūtra",
+      "cited_author": "Vasiṣṭha",
+      "stance": "authority",
+      "paragraph_id": "p-c79a0e",
+      "quote": "I have heard the dharmas of Manu, as well as those of Vasiṣṭha and Kāśyapa.",
+      "justification": "Vasiṣṭha's dharmaśāstra is listed among the canonical authorities Vyāsa has already mastered, situating it within the intertextual canon the Parāśara Smṛti inherits."
+    },
+    {
+      "cited_work": "Kāśyapa Smṛti",
+      "cited_author": "Kāśyapa",
+      "stance": "authority",
+      "paragraph_id": "p-c79a0e",
+      "quote": "I have heard the dharmas of Manu, as well as those of Vasiṣṭha and Kāśyapa.",
+      "justification": "Kāśyapa's smṛti is included in the canonical list of dharmaśāstras Vyāsa has studied, establishing it as a recognized authority in the tradition."
+    },
+    {
+      "cited_work": "Garga Smṛti",
+      "cited_author": "Garga",
+      "stance": "authority",
+      "paragraph_id": "p-87a32c",
+      "quote": "Those of Garga, Gautama, and also those remembered from Uśanas",
+      "justification": "Garga is listed among the dharmaśāstra authorities whose works Vyāsa has mastered, positioning it within the intertextual frame of the smṛti tradition."
+    },
+    {
+      "cited_work": "Gautama Dharmasūtra",
+      "cited_author": "Gautama",
+      "stance": "authority",
+      "paragraph_id": "p-87a32c",
+      "quote": "Those of Garga, Gautama, and also those remembered from Uśanas",
+      "justification": "The Gautama Dharmasūtra is a foundational dharmaśāstra text whose inclusion in Vyāsa's catalogue acknowledges its canonical status; Gautama is also assigned the Tretā yuga as his authoritative period."
+    },
+    {
+      "cited_work": "Uśanas Smṛti",
+      "cited_author": "Uśanas",
+      "stance": "authority",
+      "paragraph_id": "p-87a32c",
+      "quote": "Those of Garga, Gautama, and also those remembered from Uśanas",
+      "justification": "Uśanas (Śukra) is recognized as an authority on dharma whose smṛti is part of the canon Vyāsa has mastered."
+    },
+    {
+      "cited_work": "Atri Smṛti",
+      "cited_author": "Atri",
+      "stance": "authority",
+      "paragraph_id": "p-87a32c",
+      "quote": "those of Atri, Viṣṇu, Saṃvarta, and Dakṣa, as well as Aṅgiras",
+      "justification": "Atri's smṛti is catalogued among the canonical dharmaśāstra authorities, establishing the Parāśara Smṛti's intertextual inheritance."
+    },
+    {
+      "cited_work": "Viṣṇu Smṛti",
+      "cited_author": "Viṣṇu",
+      "stance": "authority",
+      "paragraph_id": "p-87a32c",
+      "quote": "those of Atri, Viṣṇu, Saṃvarta, and Dakṣa, as well as Aṅgiras",
+      "justification": "The Viṣṇu Smṛti is listed among the canonical dharmaśāstras Vyāsa has mastered, with Viṣṇu simultaneously named as one of the three cosmic determiners of dharma."
+    },
+    {
+      "cited_work": "Saṃvarta Smṛti",
+      "cited_author": "Saṃvarta",
+      "stance": "authority",
+      "paragraph_id": "p-87a32c",
+      "quote": "those of Atri, Viṣṇu, Saṃvarta, and Dakṣa, as well as Aṅgiras",
+      "justification": "Saṃvarta's smṛti is recognized among the canonical dharma authorities in the text's catalogue."
+    },
+    {
+      "cited_work": "Dakṣa Smṛti",
+      "cited_author": "Dakṣa",
+      "stance": "authority",
+      "paragraph_id": "p-87a32c",
+      "quote": "those of Atri, Viṣṇu, Saṃvarta, and Dakṣa, as well as Aṅgiras",
+      "justification": "Dakṣa's smṛti is catalogued as one of the canonical dharmaśāstra authorities in the text's intertextual preamble."
+    },
+    {
+      "cited_work": "Aṅgiras Smṛti",
+      "cited_author": "Aṅgiras",
+      "stance": "authority",
+      "paragraph_id": "p-87a32c",
+      "quote": "those of Atri, Viṣṇu, Saṃvarta, and Dakṣa, as well as Aṅgiras",
+      "justification": "Aṅgiras's smṛti is included in the canonical list that frames the Parāśara Smṛti as the latest synthesis in a long tradition."
+    },
+    {
+      "cited_work": "Śātātapa Smṛti",
+      "cited_author": "Śātātapa",
+      "stance": "authority",
+      "paragraph_id": "p-feebe6",
+      "quote": "Those of Śātātapa and Hārīta, and likewise of Yājñavalkya",
+      "justification": "Śātātapa's dharmaśāstra is listed among the works Vyāsa has studied, positioning it within the smṛti tradition's canonical corpus."
+    },
+    {
+      "cited_work": "Hārīta Smṛti",
+      "cited_author": "Hārīta",
+      "stance": "authority",
+      "paragraph_id": "p-feebe6",
+      "quote": "Those of Śātātapa and Hārīta, and likewise of Yājñavalkya",
+      "justification": "Hārīta's smṛti is catalogued as a recognized authority in the dharmaśāstra tradition acknowledged by the text."
+    },
+    {
+      "cited_work": "Yājñavalkya Smṛti",
+      "cited_author": "Yājñavalkya",
+      "stance": "authority",
+      "paragraph_id": "p-feebe6",
+      "quote": "Those of Śātātapa and Hārīta, and likewise of Yājñavalkya",
+      "justification": "The Yājñavalkya Smṛti is acknowledged as one of the foundational dharmaśāstra texts in the canon Vyāsa has mastered."
+    },
+    {
+      "cited_work": "Āpastamba Dharmasūtra",
+      "cited_author": "Āpastamba",
+      "stance": "authority",
+      "paragraph_id": "p-feebe6",
+      "quote": "the dharmas composed by Āpastamba, and those of Śaṅkha and Likhita",
+      "justification": "The Āpastamba Dharmasūtra is listed among the canonical dharmaśāstras whose authority is acknowledged in the text's preamble catalogue."
+    },
+    {
+      "cited_work": "Śaṅkha-Likhita Smṛti",
+      "cited_author": "Śaṅkha and Likhita",
+      "stance": "authority",
+      "paragraph_id": "p-feebe6",
+      "quote": "the dharmas composed by Āpastamba, and those of Śaṅkha and Likhita",
+      "justification": "The Śaṅkha-Likhita Smṛti is recognized both in the general catalogue and as the Dvāpara-yuga authoritative law, and Śaṅkha is directly cited for a specific ruling in chapter 4."
+    },
+    {
+      "cited_work": "Kātyāyana Smṛti",
+      "cited_author": "Kātyāyana",
+      "stance": "authority",
+      "paragraph_id": "p-99d2e7",
+      "quote": "those composed by Kātyāyana, and likewise those from the sage Pracetas",
+      "justification": "Kātyāyana's smṛti is the penultimate work in Vyāsa's canonical recitation, acknowledging it as a recognized authority in the dharmaśāstra tradition."
+    },
+    {
+      "cited_work": "Pracetas Smṛti",
+      "cited_author": "Pracetas",
+      "stance": "authority",
+      "paragraph_id": "p-99d2e7",
+      "quote": "those composed by Kātyāyana, and likewise those from the sage Pracetas",
+      "justification": "Pracetas's smṛti closes Vyāsa's canonical list, establishing it as the last recognized authority before the Parāśara Smṛti's own declaration."
+    },
+    {
+      "cited_work": "ruling of Manu on women's vows",
+      "cited_author": "Manu",
+      "stance": "authority",
+      "paragraph_id": "p-8991a9",
+      "quote": "The woman who undertakes a vow without having asked her husband — all of that goes to the demons (rākṣasas); thus has Manu declared.",
+      "justification": "Manu is directly cited as the source authority for the ruling that a wife's independent vow accrues to demons, functioning as an explicit precedent citation within the text's legal discourse."
+    },
+    {
+      "cited_work": "ruling of Śaṅkha on sacred fire precedence",
+      "cited_author": "Śaṅkha",
+      "stance": "authority",
+      "paragraph_id": "p-848bed",
+      "quote": "But if permitted by him, he may do so, according to the word of Śaṅkha.",
+      "justification": "Śaṅkha is named as the explicit authority for the rule that a younger brother may establish the sacred fire only with his elder brother's permission, functioning as an internal citation."
+    }
+  ]
+}

@@ -1,0 +1,612 @@
+{
+  "slug": "unknown-parasara-smrti-2259be",
+  "window": "06-09",
+  "entities": [
+    {
+      "canonical_name": "Parāśara",
+      "surface_names": ["Parāśara"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-d868a9",
+          "quote": "as previously spoken by Parāśara and also elaborated upon in the context of Manu's laws",
+          "role": "cited authority"
+        },
+        {
+          "paragraph_id": "p-6cf1eb",
+          "quote": "just as it was spoken by Parāśara, so I shall tell it to you",
+          "role": "cited authority"
+        },
+        {
+          "paragraph_id": "p-84375a",
+          "quote": "the purification of things, according to the word of Parāśara",
+          "role": "cited authority"
+        },
+        {
+          "paragraph_id": "p-8388b2",
+          "quote": "it has been said by Parāśara himself that one quarter of the penance is to be performed according to the rule",
+          "role": "cited authority"
+        }
+      ],
+      "description": "The sage Parāśara, whose legal rulings on penance and purification form the foundational authority of the text.",
+      "justification": "Parāśara is explicitly named as the source of the penance rules throughout chapters 6–9, establishing him as the text's primary juristic authority."
+    },
+    {
+      "canonical_name": "Manu",
+      "surface_names": ["Manu"],
+      "kind": "figure",
+      "figure_kind": "sage-lawgiver",
+      "mentions": [
+        {
+          "paragraph_id": "p-d868a9",
+          "quote": "also elaborated upon in the context of Manu's laws",
+          "role": "cited authority"
+        },
+        {
+          "paragraph_id": "p-67987b",
+          "quote": "Manu has said they do not cause defilement",
+          "role": "cited authority"
+        },
+        {
+          "paragraph_id": "p-c7ed6f",
+          "quote": "Manu has said these do not cause defilement",
+          "role": "cited authority"
+        },
+        {
+          "paragraph_id": "p-cd4d20",
+          "quote": "thus has Manu declared",
+          "role": "cited authority"
+        },
+        {
+          "paragraph_id": "p-3d85cd",
+          "quote": "By Manu alone, who knows all the scriptures",
+          "role": "cited authority"
+        }
+      ],
+      "description": "Manu, the primordial lawgiver whose rulings on pollution, defilement, and penances are cited alongside Parāśara's as co-authoritative.",
+      "justification": "Manu is directly invoked in chapters 6, 7, and 9 as an independent legal voice whose declarations supplement Parāśara's own."
+    },
+    {
+      "canonical_name": "Śiva",
+      "surface_names": ["Śiva"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-f8cb1b",
+          "quote": "one is purified by worshipping Śiva",
+          "role": "object of worship / purifying power"
+        }
+      ],
+      "description": "The deity Śiva, whose worship is prescribed as the specific penance for killing certain birds including ducks and partridges.",
+      "justification": "Śiva is named as the direct object of a purificatory rite in chapter 6, making him an active theological referent in the penance system."
+    },
+    {
+      "canonical_name": "Agni (Jātavedas)",
+      "surface_names": ["Jātavedas", "Agni", "fire"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-120dc4",
+          "quote": "recite the hymn to Jātavedas (Agni)",
+          "role": "object of hymn / purifying agent"
+        },
+        {
+          "paragraph_id": "p-52833d",
+          "quote": "By looking at Jātavedas (fire), gold, and the path of the moon (the sky)",
+          "role": "purifying agent"
+        },
+        {
+          "paragraph_id": "p-95e98a",
+          "quote": "The fire, though kindled in cremation grounds, is the all-consumer and radiant. Likewise, a Brāhmaṇa learned in the Veda, though he may consume anything, is a deity",
+          "role": "symbolic comparandum / purifying force"
+        }
+      ],
+      "description": "Agni / Jātavedas, the fire deity invoked through hymn and sight as a purificatory agent for sins involving animal killing and ritual defilement.",
+      "justification": "Jātavedas is addressed by name as the recipient of a purgative hymn in chapter 6 and again in chapter 7 as an element of visual purification."
+    },
+    {
+      "canonical_name": "Brāhmaṇa",
+      "surface_names": ["Brāhmaṇa", "dvija", "dvijātis", "twice-born", "foremost-born", "agraja"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-5fed94",
+          "quote": "He who kills an artisan, a craftsman, a Śūdra, or a woman should perform two Prājāpatya penances",
+          "role": "implicit penalizing standard"
+        },
+        {
+          "paragraph_id": "p-3f3769",
+          "quote": "Brāhmaṇas are a moving pilgrimage site; indeed, the righteous are embodiments of pilgrimage sites",
+          "role": "sacred status"
+        },
+        {
+          "paragraph_id": "p-f155f6",
+          "quote": "A Brāhmaṇa is the embodiment of all gods; his word is not otherwise",
+          "role": "divine embodiment"
+        },
+        {
+          "paragraph_id": "p-dc41ff",
+          "quote": "A Brāhmaṇa without the Gāyatrī is more impure than even a Śūdra",
+          "role": "standard of purity"
+        },
+        {
+          "paragraph_id": "p-618b22",
+          "quote": "Brāhmaṇas who are ignorant of the Sāvitrī and Gāyatrī mantras, of twilight worship and the fire-rite, and who are farmers, are Brāhmaṇas in name only",
+          "role": "contested category"
+        }
+      ],
+      "description": "The priestly varna whose learning, mantras, and ritual authority define the operative jurisdiction for penances, purification, and dharmic adjudication in these chapters.",
+      "justification": "Brāhmaṇas are the central human agents throughout chapters 6–9: they prescribe penances, embody sacred authority, and their own purity or impurity forms a recurring doctrinal theme."
+    },
+    {
+      "canonical_name": "Caṇḍāla",
+      "surface_names": ["caṇḍāla", "caṇḍālī", "antyaja"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-0d7d91",
+          "quote": "If any Brāhmaṇa kills a caṇḍāla, he should perform the Prājāpatya Kṛcchra penance",
+          "role": "victim whose death requires penance"
+        },
+        {
+          "paragraph_id": "p-20a5d5",
+          "quote": "Upon seeing a caṇḍāla, one should immediately look at the sun",
+          "role": "source of pollution"
+        },
+        {
+          "paragraph_id": "p-d72f76",
+          "quote": "One who sleeps with caṇḍālas should be made to fast for three nights",
+          "role": "source of pollution"
+        },
+        {
+          "paragraph_id": "p-8cdff5",
+          "quote": "On the first day, she is a caṇḍālī (an outcaste woman)",
+          "role": "metaphorical impurity marker"
+        }
+      ],
+      "description": "The lowest-ranked social group in the varna hierarchy, whose very presence, touch, or proximity requires escalating penances from higher-varna persons.",
+      "justification": "The caṇḍāla is the text's paradigm case for extreme ritual pollution in chapter 6, generating an extensive casuistry of contact, food, water, and cohabitation impurity rules."
+    },
+    {
+      "canonical_name": "Kṣatriya",
+      "surface_names": ["Kṣatriya"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-2e2ae1",
+          "quote": "He who kills a blameless Vaiśya or Kṣatriya should also perform two Kṛcchra penances",
+          "role": "victim whose killing requires penance"
+        },
+        {
+          "paragraph_id": "p-d677ba",
+          "quote": "A Brāhmaṇa should perform the Sāntapana penance; the next in order (a Kṣatriya) should perform the Prājāpatya",
+          "role": "ranked performer of penance"
+        },
+        {
+          "paragraph_id": "p-34741f",
+          "quote": "A Kṣatriya, by giving five māṣas of gold",
+          "role": "sacrificial fee donor"
+        }
+      ],
+      "description": "The warrior-noble varna, positioned second in the fourfold hierarchy, subject to differentiated penance obligations and capable of prescribing penances alongside learned Brāhmaṇas.",
+      "justification": "Kṣatriyas appear throughout chapters 6 and 8 in ranked penance schedules reflecting their intermediate standing below Brāhmaṇas."
+    },
+    {
+      "canonical_name": "Vaiśya",
+      "surface_names": ["Vaiśya"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-2e2ae1",
+          "quote": "He who kills a blameless Vaiśya or Kṣatriya should also perform two Kṛcchra penances",
+          "role": "victim"
+        },
+        {
+          "paragraph_id": "p-d677ba",
+          "quote": "A Vaiśya should perform half of that",
+          "role": "ranked performer of penance"
+        }
+      ],
+      "description": "The merchant-farmer varna, third in the hierarchy, whose killing or purity status carries proportionally lighter penalties than Brāhmaṇas and Kṣatriyas.",
+      "justification": "Vaiśyas appear in graduated penance tables in chapters 6 and 7, consistently occupying the third position in fourfold varna rankings."
+    },
+    {
+      "canonical_name": "Śūdra",
+      "surface_names": ["Śūdra"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-5fed94",
+          "quote": "He who kills an artisan, a craftsman, a Śūdra, or a woman should perform two Prājāpatya penances",
+          "role": "victim"
+        },
+        {
+          "paragraph_id": "p-7d040b",
+          "quote": "There is no fast for Śūdras; a Śūdra is purified by charity",
+          "role": "subject of differentiated rule"
+        },
+        {
+          "paragraph_id": "p-dc41ff",
+          "quote": "A Brāhmaṇa without the Gāyatrī is more impure than even a Śūdra",
+          "role": "purity benchmark"
+        }
+      ],
+      "description": "The lowest varna within the dvija system, for whom penance is replaced by charity, and whose contact with higher varnas creates graduated pollution requiring remediation.",
+      "justification": "Śūdras appear throughout chapters 6 and 7 as the fourfold schema's lowest member, with distinct penance substitutions reflecting their exclusion from Vedic rites."
+    },
+    {
+      "canonical_name": "Pariṣad",
+      "surface_names": ["pariṣad", "assembly of learned Brāhmaṇas"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-497122",
+          "quote": "there is no validity as a pariṣad (an assembly of learned Brāhmaṇas), even if thousands of them are assembled",
+          "role": "adjudicatory body"
+        },
+        {
+          "paragraph_id": "p-073198",
+          "quote": "the penitent becomes pure, but the guilt goes to the pariṣad",
+          "role": "accountability agent"
+        },
+        {
+          "paragraph_id": "p-dbee20",
+          "quote": "Four, or even three, who know the Veda and maintain the sacred fire, and who are capable among Brāhmaṇas—that is called a pariṣad",
+          "role": "defined institution"
+        }
+      ],
+      "description": "The formal assembly of qualified Brāhmaṇas that possesses the authority to declare dharma and prescribe penances; the text devotes chapter 8 to defining its valid composition.",
+      "justification": "Chapter 8 is substantially organized around defining the pariṣad's legitimate membership, jurisdiction, and liability, making it a distinct institutional entity."
+    },
+    {
+      "canonical_name": "Cow (go)",
+      "surface_names": ["cow", "cows", "bull", "go", "govrata"],
+      "kind": "animal",
+      "mentions": [
+        {
+          "paragraph_id": "p-d67675",
+          "quote": "If a cow dies unintentionally in its tethers or yokes, what shall be the penance for this unintentionally committed sin?",
+          "role": "victim of unintentional harm"
+        },
+        {
+          "paragraph_id": "p-9c4492",
+          "quote": "he should live among the cows at night and follow the cows by day",
+          "role": "sacred companions of penitent"
+        },
+        {
+          "paragraph_id": "p-d13f93",
+          "quote": "He who gives up his life for the sake of a Brāhmaṇa or a cow is freed from the sin of killing a Brāhmaṇa",
+          "role": "sacred being worthy of self-sacrifice"
+        },
+        {
+          "paragraph_id": "p-6d7a45",
+          "quote": "Confinement, tethering, overloading, striking, forcing through difficult terrain, and yoking—these are the six causes of a cow's death",
+          "role": "subject of harm taxonomy"
+        }
+      ],
+      "description": "The cow is the central animal subject of chapters 8–9, whose protection, welfare, and ritual status generate an elaborate casuistry of penances for various modes of harm.",
+      "justification": "Chapters 8 and 9 are almost entirely devoted to penances for cow-harm and cow-death, establishing the cow as the pre-eminent animal in the text's moral-legal hierarchy."
+    },
+    {
+      "canonical_name": "Gāyatrī",
+      "surface_names": ["Gāyatrī", "Sāvitrī", "mother of the Vedas"],
+      "kind": "object",
+      "mentions": [
+        {
+          "paragraph_id": "p-d72f76",
+          "quote": "One who walks the same path as a caṇḍāla becomes pure by remembering the Gāyatrī",
+          "role": "purificatory mantra"
+        },
+        {
+          "paragraph_id": "p-618b22",
+          "quote": "Brāhmaṇas who are ignorant of the Sāvitrī and Gāyatrī mantras…are Brāhmaṇas in name only",
+          "role": "marker of authentic Brāhmaṇahood"
+        },
+        {
+          "paragraph_id": "p-7c6e5e",
+          "quote": "one should recite the mother of the Vedas",
+          "role": "penance practice"
+        },
+        {
+          "paragraph_id": "p-112df5",
+          "quote": "By reciting the purifying goddess (the Gāyatrī), one is freed from that sin",
+          "role": "purificatory recitation"
+        }
+      ],
+      "description": "The Gāyatrī (Sāvitrī) mantra, which functions throughout chapters 6–9 as both the defining marker of Brāhmaṇic authenticity and a universally available purificatory recitation.",
+      "justification": "The Gāyatrī appears repeatedly as the single most cited ritual instrument—both a test of legitimate Brāhmaṇahood and a direct remedy for various impurities."
+    },
+    {
+      "canonical_name": "Prājāpatya Kṛcchra",
+      "surface_names": ["Prājāpatya", "Prājāpatya Kṛcchra", "prājāpatya"],
+      "kind": "idea",
+      "mentions": [
+        {
+          "paragraph_id": "p-5fed94",
+          "quote": "should perform two Prājāpatya penances, and the sacrificial fee is eleven bulls",
+          "role": "prescribed penance"
+        },
+        {
+          "paragraph_id": "p-0d7d91",
+          "quote": "he should perform the Prājāpatya Kṛcchra penance and give two cows as a sacrificial fee",
+          "role": "prescribed penance"
+        },
+        {
+          "paragraph_id": "p-4146eb",
+          "quote": "should perform the Prājāpatya penance",
+          "role": "prescribed penance"
+        },
+        {
+          "paragraph_id": "p-73b9ba",
+          "quote": "one should prescribe the Prājāpatya…Then one should divide that Prājāpatya Kṛcchra penance in four ways",
+          "role": "primary cow-killing penance"
+        }
+      ],
+      "description": "A named penance regime (Prājāpatya Kṛcchra) that is the standard prescribed remedy for killing caṇḍālas, Śūdras, and as the base unit for cow-killing penances divided into four graduated stages.",
+      "justification": "The Prājāpatya is the most frequently cited specific penance name in chapters 6–9, functioning as the juridical anchor for multiple categories of sin."
+    },
+    {
+      "canonical_name": "Cāndrāyaṇa",
+      "surface_names": ["Cāndrāyaṇa", "cāndrāyaṇa"],
+      "kind": "idea",
+      "mentions": [
+        {
+          "paragraph_id": "p-3ccf3e",
+          "quote": "the penance is the Cāndrāyaṇa, and the sacrificial fee is thirty cows",
+          "role": "prescribed penance"
+        },
+        {
+          "paragraph_id": "p-6dadf5",
+          "quote": "a cow-killer should perform the Cāndrāyaṇa penance",
+          "role": "prescribed penance for cow-killing"
+        },
+        {
+          "paragraph_id": "p-150637",
+          "quote": "Their vow, such as the Kṛcchra or Cāndrāyaṇa, should be performed in the midst of their relatives",
+          "role": "penance option for women"
+        }
+      ],
+      "description": "A lunar penance (the Cāndrāyaṇa vow) prescribed for killing Vaiśyas devoted to duty, and by Manu's authority for cow-killing, representing a severe extended vow.",
+      "justification": "The Cāndrāyaṇa appears in both chapter 6 (for killing a meritorious Vaiśya) and chapter 9 (for cow-killing per Manu), marking it as a heavy-penance category."
+    },
+    {
+      "canonical_name": "Kālasūtra (hell)",
+      "surface_names": ["Kālasūtra"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-e591c1",
+          "quote": "he who, having committed cow-killing in this world, wishes to conceal it, goes to the terrible hell called Kālasūtra, without a doubt",
+          "role": "eschatological punishment"
+        }
+      ],
+      "description": "Kālasūtra, a named hell realm to which the concealer of cow-killing is condemned, representing the text's most explicit eschatological sanction.",
+      "justification": "Kālasūtra is the only named hell mentioned in this window, attached specifically to the concealment of cow-killing, marking it as the most severe eschatological threat."
+    },
+    {
+      "canonical_name": "Pañcagavya",
+      "surface_names": ["pañcagavya", "brahmakūrca"],
+      "kind": "object",
+      "mentions": [
+        {
+          "paragraph_id": "p-b69f03",
+          "quote": "he is purified…by consuming pañcagavya",
+          "role": "purificatory substance"
+        },
+        {
+          "paragraph_id": "p-d0cf2c",
+          "quote": "fasting for one night and consuming pañcagavya",
+          "role": "purificatory substance"
+        },
+        {
+          "paragraph_id": "p-dda364",
+          "quote": "using pañcagavya",
+          "role": "purificatory substance for water bodies"
+        }
+      ],
+      "description": "Pañcagavya (the five cow-products: milk, curd, clarified butter, urine, dung), a composite purificatory substance prescribed repeatedly in chapters 6–7 for defilement of various kinds.",
+      "justification": "Pañcagavya appears in three distinct chapters as the canonical ritual remedy for contact pollution, reflecting its central role in the text's purity pharmacopoeia."
+    },
+    {
+      "canonical_name": "Agniṣṭoma",
+      "surface_names": ["Agniṣṭoma"],
+      "kind": "event",
+      "mentions": [
+        {
+          "paragraph_id": "p-7b5af7",
+          "quote": "it indeed has the fruit of an Agniṣṭoma sacrifice",
+          "role": "meritorious comparandum"
+        }
+      ],
+      "description": "The Agniṣṭoma Soma sacrifice, invoked as the merit-standard against which the blessing of a Brāhmaṇa ('May it be without flaw') is measured.",
+      "justification": "The Agniṣṭoma is cited in chapter 6 as the supreme sacrificial benchmark for measuring the efficacy of a Brāhmaṇa's benediction."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Graduated penance for killing animals",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-aa2384",
+          "quote": "For killing a curlew, a flamingo, a swan…one becomes pure by fasting for a day and a night"
+        },
+        {
+          "paragraph_id": "p-6c269c",
+          "quote": "For the killing of an elephant, a horse, a buffalo, or a camel, the penance is to fast for a day and a night"
+        },
+        {
+          "paragraph_id": "p-cec7e4",
+          "quote": "One who kills a deer, a monkey, a lion, a leopard, or a tiger is purified in three nights"
+        }
+      ],
+      "justification": "Chapter 6 opens with an exhaustive taxonomy of animals (birds, reptiles, mammals, predators) each assigned a specific penance, establishing graduated atonement as the chapter's organizing principle."
+    },
+    {
+      "topic": "Ritual pollution through caste contact",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-20a5d5",
+          "quote": "Upon seeing a caṇḍāla, one should immediately look at the sun. Upon touching a caṇḍāla, one must bathe with one's clothes on"
+        },
+        {
+          "paragraph_id": "p-1a67cf",
+          "quote": "Having drunk water from a well that has been touched by the vessel of a caṇḍāla, one attains purity in three nights by consuming barley gruel mixed with cow's urine"
+        },
+        {
+          "paragraph_id": "p-d72f76",
+          "quote": "One who sleeps with caṇḍālas should be made to fast for three nights"
+        }
+      ],
+      "justification": "Chapters 6 and 7 develop a detailed casuistry in which even momentary contact—visual, tactile, alimentary, or spatial—with caṇḍālas generates graduated defilement requiring graduated remediation."
+    },
+    {
+      "topic": "Brahminic authority as the sole legitimate source of dharmic adjudication",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-f155f6",
+          "quote": "A Brāhmaṇa is the embodiment of all gods; his word is not otherwise"
+        },
+        {
+          "paragraph_id": "p-1ff17b",
+          "quote": "What four, or even three, who are masters of the Veda declare—that should be known as dharma, and not what is said by thousands of others"
+        },
+        {
+          "paragraph_id": "p-f98d36",
+          "quote": "Whatever dharma those who are deluded by darkness…may declare—that sin, becoming a hundredfold, falls upon its speakers"
+        }
+      ],
+      "justification": "Chapter 8 is centrally devoted to the thesis that dharmic authority is not democratic but qualitative: only Veda-knowing Brāhmaṇas constitute a valid pariṣad, and false adjudicators absorb the sin they wrongly assign."
+    },
+    {
+      "topic": "The cow as sacred being requiring active protection",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-036da7",
+          "quote": "Whether it is hot, raining, or cold…he should not protect himself without first protecting the cow to the best of his ability"
+        },
+        {
+          "paragraph_id": "p-d13f93",
+          "quote": "He who gives up his life for the sake of a Brāhmaṇa or a cow is freed from the sin of killing a Brāhmaṇa"
+        },
+        {
+          "paragraph_id": "p-4025b9",
+          "quote": "When cows or bulls are in peril, all the people who are onlookers and do not intervene—all of them incur the sin"
+        }
+      ],
+      "justification": "Chapters 8–9 treat the cow as a morally privileged being whose welfare supersedes that of the penitent himself; even bystander inaction at a cow's peril is sinful."
+    },
+    {
+      "topic": "Purification of material objects and substances",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-84375a",
+          "quote": "The purification of wooden vessels is desired through shaving them"
+        },
+        {
+          "paragraph_id": "p-09261b",
+          "quote": "Bronze is purified by ash; copper is purified by an acidic substance"
+        },
+        {
+          "paragraph_id": "p-8db66a",
+          "quote": "Ivory, bone, and horn, as well as silver and gold vessels, and vessels of gems and stone—these one should wash with water"
+        }
+      ],
+      "justification": "Chapter 7 is explicitly titled the purification of things (dravyaśuddhiḥ) and catalogues material-specific purification methods, extending the text's purity system beyond persons to the built and natural environment."
+    },
+    {
+      "topic": "Concealment of sin as aggravating factor",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-e591c1",
+          "quote": "He who, having committed cow-killing in this world, wishes to conceal it, goes to the terrible hell called Kālasūtra"
+        },
+        {
+          "paragraph_id": "p-2e4d7d",
+          "quote": "one should make one's sin public and always practice one's own dharma"
+        }
+      ],
+      "justification": "Chapter 9 closes with an explicit warning that concealment—not the act itself—triggers the most severe eschatological punishment, implying a doctrine of voluntary disclosure as mitigating."
+    },
+    {
+      "topic": "Women's modified penance obligations",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-28cd11",
+          "quote": "For a woman, there is no shaving of the hair, no sleeping and eating in a distant place"
+        },
+        {
+          "paragraph_id": "p-764711",
+          "quote": "For women, there is no wearing of an antelope skin; they should simply perform the vow"
+        },
+        {
+          "paragraph_id": "p-150637",
+          "quote": "Their vow, such as the Kṛcchra or Cāndrāyaṇa, should be performed in the midst of their relatives"
+        }
+      ],
+      "justification": "Chapter 9 implicitly articulates a gender-differentiated penance code in which women are exempt from the physically arduous and socially exposed elements (head-shaving, dwelling outside, cattle-following) while retaining the vow's substance."
+    },
+    {
+      "topic": "Menstrual pollution and the timing of marriage",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-4665dc",
+          "quote": "He who does not give his daughter in marriage when she has reached her twelfth year"
+        },
+        {
+          "paragraph_id": "p-513c49",
+          "quote": "her ancestors themselves drink her menstrual blood month after month"
+        },
+        {
+          "paragraph_id": "p-8cdff5",
+          "quote": "On the first day, she is a caṇḍālī (an outcaste woman); on the second, a slayer of a Brāhmaṇa"
+        }
+      ],
+      "justification": "Chapter 7 introduces a distinct sub-topic—the ritual danger of delayed marriage and the symbolic pollution scale applied to the menstruating unmarried woman—as a subset of the broader purity system."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Manusmṛti (Laws of Manu)",
+      "cited_author": "Manu",
+      "stance": "authority",
+      "paragraph_id": "p-d868a9",
+      "quote": "as previously spoken by Parāśara and also elaborated upon in the context of Manu's laws",
+      "justification": "Manu's laws are explicitly co-invoked at the text's opening declaration of purpose for chapter 6, treating his corpus as a parallel authority alongside Parāśara."
+    },
+    {
+      "cited_work": "Manusmṛti (Laws of Manu)",
+      "cited_author": "Manu",
+      "stance": "authority",
+      "paragraph_id": "p-67987b",
+      "quote": "Manu has said they do not cause defilement",
+      "justification": "Manu is cited by name as the direct source for the ruling that cats, flies, insects, and frogs do not cause defilement, functioning as an independent authority on purity law."
+    },
+    {
+      "cited_work": "Manusmṛti (Laws of Manu)",
+      "cited_author": "Manu",
+      "stance": "authority",
+      "paragraph_id": "p-cd4d20",
+      "quote": "thus has Manu declared",
+      "justification": "Manu is explicitly credited with the ruling that a killer should give a substitute of equivalent kind or value, directly attributing the legal principle to him."
+    },
+    {
+      "cited_work": "Manusmṛti (Laws of Manu)",
+      "cited_author": "Manu",
+      "stance": "authority",
+      "paragraph_id": "p-3d85cd",
+      "quote": "By Manu alone, who knows all the scriptures",
+      "justification": "Manu is invoked as the sole sufficient authority for the prāyaścitta of the cow-killer (Cāndrāyaṇa), with the epithet 'who knows all the scriptures' affirming his juristic supremacy."
+    }
+  ]
+}

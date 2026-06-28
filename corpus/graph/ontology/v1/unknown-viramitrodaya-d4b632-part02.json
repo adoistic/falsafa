@@ -1,0 +1,737 @@
+{
+  "slug": "unknown-viramitrodaya-d4b632",
+  "window": "01:64-86",
+  "entities": [
+    {
+      "canonical_name": "Rāma",
+      "surface_names": ["Rāma", "O Rāma"],
+      "kind": "figure",
+      "figure_kind": "epic-hero",
+      "mentions": [
+        {
+          "paragraph_id": "p-37ccfa",
+          "quote": "the moon exceeds the sun by six signs; then, O Rāma, it is half a month, without a doubt",
+          "role": "addressee"
+        }
+      ],
+      "description": "Legendary prince addressed in a Viṣṇudharmottara verse explaining the lunar month.",
+      "justification": "Rāma is explicitly named as the addressee of a quoted Viṣṇudharmottara verse defining the lunar month in paragraph p-37ccfa."
+    },
+    {
+      "canonical_name": "Indra",
+      "surface_names": ["Indra", "Indra-Agni"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-37ccfa",
+          "quote": "That is proclaimed as the beginning of the month wherein Indra and Agni are offered oblations",
+          "role": "recipient-of-ritual"
+        }
+      ],
+      "description": "Vedic deity paired with Agni as recipients of oblations marking the bright-fortnight-first month's beginning.",
+      "justification": "Indra is named in a Hārīta quotation (p-37ccfa) as a joint recipient of oblations that define the first day of the bright-fortnight-first lunar month."
+    },
+    {
+      "canonical_name": "Agni",
+      "surface_names": ["Agni", "Indra-Agni", "Agni-Soma"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-37ccfa",
+          "quote": "That is proclaimed as the beginning of the month wherein Indra and Agni are offered oblations. Agni and Soma are known in the middle",
+          "role": "recipient-of-ritual"
+        }
+      ],
+      "description": "Vedic fire deity whose oblation-pairing with Indra marks the month's beginning and with Soma marks the full moon.",
+      "justification": "Agni appears twice in the Hārīta quotation in p-37ccfa, first paired with Indra at the new moon and then with Soma at the full moon, structuring the ritual calendar."
+    },
+    {
+      "canonical_name": "Soma",
+      "surface_names": ["Soma", "Agni-Soma", "Pitṛ-Soma"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-37ccfa",
+          "quote": "Agni and Soma are known in the middle, and the Fathers and Soma at the end",
+          "role": "recipient-of-ritual"
+        }
+      ],
+      "description": "Vedic lunar deity whose pairing with Agni at the full moon and with the Fathers at the new moon delineates the bright-fortnight-first lunar month.",
+      "justification": "Soma is cited in the Hārīta verse quoted in p-37ccfa as marking both the middle (full moon) and end (new moon) of the ritual month."
+    },
+    {
+      "canonical_name": "Brahmā",
+      "surface_names": ["Brahmā", "the Self-born"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-37ccfa",
+          "quote": "in the month of Caitra, on the first day, in the bright fortnight, when the sun has risen, Brahmā created the world",
+          "role": "cosmic-creator"
+        },
+        {
+          "paragraph_id": "p-0699db",
+          "quote": "The afternoon was given to them by the Self-born (Brahmā)",
+          "role": "cosmic-ordainer"
+        }
+      ],
+      "description": "Creator deity who, according to the Brahma Purāṇa, initiated the reckoning of time at the bright-fortnight-first Caitra and ordained the afternoon for ancestral rites.",
+      "justification": "Brahmā is named in two quoted passages (p-37ccfa and p-0699db) as both the creator who set time in motion and the ordainer who gave the afternoon period to the ancestors."
+    },
+    {
+      "canonical_name": "Pitṛs",
+      "surface_names": ["Fathers", "Pitṛ-Soma", "the ancestors", "pitṛ"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-37ccfa",
+          "quote": "the Fathers and Soma at the end",
+          "role": "ritual-recipient"
+        },
+        {
+          "paragraph_id": "p-37ccfa",
+          "quote": "For the annual rite and rites for the ancestors, the lunar month is praised",
+          "role": "ritual-recipient"
+        },
+        {
+          "paragraph_id": "p-0699db",
+          "quote": "The afternoon was given to them by the Self-born (Brahmā)",
+          "role": "beneficiary"
+        }
+      ],
+      "description": "The deified ancestors who receive śrāddha offerings; the lunar month and the afternoon period are prescribed for rites in their honour.",
+      "justification": "The Pitṛs appear across multiple paragraphs (p-37ccfa, p-0699db) as the canonical recipients of ancestral rites, with their temporal slots (new moon, afternoon) repeatedly specified."
+    },
+    {
+      "canonical_name": "Pāṇḍavas",
+      "surface_names": ["Pāṇḍavas"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-37ccfa",
+          "quote": "As the Pāṇḍavas did for the Kauravas",
+          "role": "exemplar"
+        }
+      ],
+      "description": "Epic heroes cited as an exemplar of 'propitiation' (keeping an agreement) in the context of the civil year governing the division of inheritance and the fulfilment of pacts.",
+      "justification": "The Pāṇḍavas are named in p-37ccfa as a concrete historical-epic illustration of 'propitiation of enemies' (keeping a pact) measured by the civil year."
+    },
+    {
+      "canonical_name": "Kauravas",
+      "surface_names": ["Kauravas"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-37ccfa",
+          "quote": "As the Pāṇḍavas did for the Kauravas",
+          "role": "exemplar"
+        }
+      ],
+      "description": "Epic rival clan of the Pāṇḍavas, cited as the party to whom the Pāṇḍavas kept their agreement, illustrating the use of the civil year for pacts.",
+      "justification": "The Kauravas appear alongside the Pāṇḍavas in p-37ccfa as part of the same illustrative example about agreements measured by the civil year."
+    },
+    {
+      "canonical_name": "Vajra",
+      "surface_names": ["Vajra"],
+      "kind": "figure",
+      "figure_kind": "interlocutor",
+      "mentions": [
+        {
+          "paragraph_id": "p-30d474",
+          "quote": "Vajra said: 'O Lord of lords of gods, O Śaṅkara! If a nakṣatra or a tithi has partially passed, how should one who knows this perform a fast?'",
+          "role": "questioner"
+        }
+      ],
+      "description": "Interlocutor in a Viṣṇudharmottara dialogue who poses the question about partially-elapsed tithis and nakṣatras to Śaṅkara.",
+      "justification": "Vajra is named as the speaker of the question that occasions the śukla-kṛṣṇa-pakṣa-vākya in the Viṣṇudharmottara excerpt quoted in p-30d474."
+    },
+    {
+      "canonical_name": "Śaṅkara",
+      "surface_names": ["Śaṅkara", "Īśvara", "Lord of lords of gods"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-30d474",
+          "quote": "O Lord of lords of gods, O Śaṅkara! … Īśvara said: 'That tithi is for the whole day and night on which the sun rises.'",
+          "role": "authority-respondent"
+        }
+      ],
+      "description": "Śiva in his role as cosmic authority who responds to Vajra's question about the tithi rule for fasting in the Viṣṇudharmottara dialogue.",
+      "justification": "Śaṅkara/Īśvara is named in p-30d474 as the divine respondent whose answer formulates the śukla-kṛṣṇa-pakṣa-vākya rule for tithi determination."
+    },
+    {
+      "canonical_name": "Vindhya mountains",
+      "surface_names": ["Vindhya mountains", "Vindhyas", "south of the Vindhya mountains"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-37ccfa",
+          "quote": "Even those who desire it do not prefer it south of the Vindhya mountains",
+          "role": "geographic-boundary"
+        }
+      ],
+      "description": "Mountain range cited as a geographic dividing line determining which of the two lunar-month systems (dark-fortnight-first vs. bright-fortnight-first) is locally valid.",
+      "justification": "The Vindhyas are cited in p-37ccfa as a geographic boundary: the dark-fortnight-first month is forbidden south of them, establishing a regional rule within dharmaśāstra."
+    },
+    {
+      "canonical_name": "tithi",
+      "surface_names": ["tithi", "tithis", "lunar day"],
+      "kind": "idea",
+      "mentions": [
+        {
+          "paragraph_id": "p-7f0d5e",
+          "quote": "a tithi is the period of time it takes for the moon's disc to reach maximum separation from the sun's disc after their closest conjunction",
+          "role": "defined-concept"
+        },
+        {
+          "paragraph_id": "p-f942c6",
+          "quote": "A divided (khaṇḍā) tithi (lunar day), however, requires determination because it exists on two days",
+          "role": "subject-of-rule"
+        },
+        {
+          "paragraph_id": "p-eb38c1",
+          "quote": "In the case of a prohibition (niṣedha), however, even a divided tithi does not require determination",
+          "role": "subject-of-rule"
+        }
+      ],
+      "description": "The fundamental unit of the lunar calendar—a phase-arc of the moon—whose division across two civil days generates elaborate hermeneutical rules for ritual timing.",
+      "justification": "The tithi is the central concept of this entire window, formally defined in p-7f0d5e and subjected to detailed rules across paragraphs p-f942c6 through p-a859ec."
+    },
+    {
+      "canonical_name": "pakṣa",
+      "surface_names": ["pakṣa", "fortnight", "bright fortnight", "dark fortnight", "śuklapakṣa", "kṛṣṇapakṣa"],
+      "kind": "idea",
+      "mentions": [
+        {
+          "paragraph_id": "p-8769cb",
+          "quote": "It is of two kinds, by the division of bright and dark … The bright causes the waxing of the moon; the dark is characterized by the waning of the moon",
+          "role": "defined-concept"
+        },
+        {
+          "paragraph_id": "p-30d474",
+          "quote": "In the bright fortnight (śuklapakṣa), the tithi on which the sun rises is to be accepted. In the dark fortnight (kṛṣṇapakṣa), the tithi on which the sun sets is to be accepted.",
+          "role": "determinative-factor"
+        }
+      ],
+      "description": "The lunar fortnight (waxing or waning), which serves both as a calendrical division and as the key determinant in the śukla-kṛṣṇa-pakṣa-vākya rule for tithi selection.",
+      "justification": "Pakṣa is defined in p-8769cb and functions as the governing category of the śukla-kṛṣṇa-pakṣa-vākya quoted in p-30d474 and analyzed across p-0699db and p-9f1aa9."
+    },
+    {
+      "canonical_name": "śrāddha",
+      "surface_names": ["śrāddha", "ancestral rite", "rites for the ancestors", "ekoddiṣṭa", "pārvaṇa", "vṛddhi śrāddha"],
+      "kind": "idea",
+      "mentions": [
+        {
+          "paragraph_id": "p-37ccfa",
+          "quote": "For the annual rite and rites for the ancestors, the lunar month is praised",
+          "role": "ritual-context"
+        },
+        {
+          "paragraph_id": "p-0699db",
+          "quote": "for the ekoddiṣṭa śrāddha, etc., and for the vṛddhi śrāddha, etc., the rule is of decrease, increase, etc.",
+          "role": "subject-of-rule"
+        },
+        {
+          "paragraph_id": "p-047c40",
+          "quote": "A wise man should perform the śrāddha in the forenoon of the bright fortnight, and in the afternoon of the dark fortnight",
+          "role": "subject-of-rule"
+        }
+      ],
+      "description": "The class of ancestral memorial rites for which specific tithi-determination rules (kharva-darpa-vākya, sunset pervasion) are prescribed.",
+      "justification": "Śrāddha is repeatedly invoked across p-37ccfa, p-0699db, p-9f1aa9, and p-047c40 as the paradigmatic ancestral rite around which the tithi-determination debate is organized."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Classification and definition of time-units in the Hindu calendar",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-37ccfa",
+          "quote": "the month is determined. It is of four kinds, by the division of lunar, solar, civil, and sidereal"
+        },
+        {
+          "paragraph_id": "p-ae0b53",
+          "quote": "Now the day. It is of four kinds."
+        },
+        {
+          "paragraph_id": "p-8769cb",
+          "quote": "Now the fortnight (pakṣa). It is of two kinds, by the division of bright and dark."
+        },
+        {
+          "paragraph_id": "p-7f0d5e",
+          "quote": "Now the tithi is determined in general."
+        }
+      ],
+      "justification": "Paragraphs p-37ccfa through p-7f0d5e form a structured sequence defining the month, day, fortnight, and tithi in ascending precision, establishing the basic taxonomy of Hindu sacred time."
+    },
+    {
+      "topic": "Regional and sectarian variation in calendrical practice",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-37ccfa",
+          "quote": "Even those who desire it do not prefer it south of the Vindhya mountains"
+        },
+        {
+          "paragraph_id": "p-37ccfa",
+          "quote": "north of them there is an option between the two … the one beginning with the bright fortnight is primary, and the one beginning with the dark fortnight is secondary"
+        }
+      ],
+      "justification": "Trikāṇḍamaṇḍana's verse quoted in p-37ccfa explicitly introduces geographic variation (north vs. south of Vindhyas) in the acceptability of the dark-fortnight-first month, a rare instance of regional coding within the text's juridical framework."
+    },
+    {
+      "topic": "Authority of smṛti and śāstric sources in resolving ritual disputes",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-37ccfa",
+          "quote": "By the maxim, 'A scriptural statement bears no excess burden.'"
+        },
+        {
+          "paragraph_id": "p-0699db",
+          "quote": "When the yugma-vākyas contradict each other … the rule is determined by the śukla-kṛṣṇa-vākya, because it enjoins a required element"
+        },
+        {
+          "paragraph_id": "p-9f1aa9",
+          "quote": "This is incorrect. When the words hrāsa and vṛddhi can refer to the decrease and increase of the tithi mentioned in the first half of the verse, it is improper to make them refer to the decrease and increase of the moon"
+        }
+      ],
+      "justification": "The digest consistently mediates between competing textual authorities by applying hermeneutical maxims, illustrating the digest genre's core method of reconciling contradictory smṛti passages."
+    },
+    {
+      "topic": "Hermeneutical rules for tithi determination (vidhi vs. niṣedha, yugma-vākya, kharva-darpa-vākya, śukla-kṛṣṇa-pakṣa-vākya)",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-eb38c1",
+          "quote": "In the case of a prohibition (niṣedha), however, even a divided tithi does not require determination"
+        },
+        {
+          "paragraph_id": "p-9a3804",
+          "quote": "Now, the texts that determine the matter, such as the yugma-vākya, are stated"
+        },
+        {
+          "paragraph_id": "p-30d474",
+          "quote": "Decrease (kharva), increase (darpa), and destruction (hiṃsā) are the threefold characteristics of a tithi"
+        },
+        {
+          "paragraph_id": "p-a859ec",
+          "quote": "tithis conjoin with the preceding and following tithi for three muhūrtas. This is known as a general rule"
+        }
+      ],
+      "justification": "The dominant technical concern of paragraphs p-f942c6 to p-a859ec is an elaborate taxonomy of hermeneutical instruments (yugma-vākya, kharva-darpa-vākya, śukla-kṛṣṇa-vākya, Devala-vākya, sākalya-vacana) for resolving which day to perform a rite when a tithi spans two civil days."
+    },
+    {
+      "topic": "Distinction between divine rites (daiva) and ancestral rites (pitrya) in ritual timing",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-30d474",
+          "quote": "The yugma-vākyas pertain to divine rites. The kharva-darpa-vākya pertains to ancestral rites."
+        },
+        {
+          "paragraph_id": "p-a859ec",
+          "quote": "For a rite for the gods, the tithi on which the sun rises is to be known. For a rite for the ancestors, the tithi on which the sun sets is to be known."
+        },
+        {
+          "paragraph_id": "p-047c40",
+          "quote": "A wise man should perform the śrāddha in the forenoon of the bright fortnight, and in the afternoon of the dark fortnight"
+        }
+      ],
+      "justification": "A structuring binary throughout this window is the assignment of distinct temporal rules (sunrise-tithi, forenoon) to divine rites and (sunset-tithi, afternoon) to ancestral rites, cutting across multiple quoted authorities."
+    },
+    {
+      "topic": "The primacy of the lunar month and the word Caitra as technical calendrical designators",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-37ccfa",
+          "quote": "In the absence of a specific proof, only the lunar month is to be accepted. Similarly, the words Caitra, etc., are also designators of the lunar month alone."
+        },
+        {
+          "paragraph_id": "p-37ccfa",
+          "quote": "The lunar nature of Caitra, etc., is clearly stated in the Jyotiḥśāstra"
+        }
+      ],
+      "justification": "A sustained argument in p-37ccfa establishes the default primacy of the lunar month and demonstrates, via Pāṇinian etymology and astronomical reasoning, that month-names like Caitra cannot refer to solar or civil months."
+    },
+    {
+      "topic": "Varna-differentiated calendrical obligations",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-37ccfa",
+          "quote": "The month delimited by the new moon is for the Brahmin. For the king and the Vaiśya, it is delimited by the solar ingress and the full moon, respectively."
+        }
+      ],
+      "justification": "A Brahmasiddhānta verse quoted in p-37ccfa assigns different month-types (lunar/solar/civil) to different varṇas, reflecting the broader dharmaśāstric principle that ritual obligations vary by social class."
+    },
+    {
+      "topic": "Eastern school (Pūrvadeśīya) vs. mainstream interpretation of tithi rules",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-0699db",
+          "quote": "The Eastern school of thought does not dispute the first half of the verse … But in 'for the ekoddiṣṭa, etc.' … they interpret it as follows"
+        },
+        {
+          "paragraph_id": "p-9f1aa9",
+          "quote": "The kharva-darpa-vākya, etc., however, are without foundation, as they are not written by the Eastern commentators."
+        }
+      ],
+      "justification": "The text implicitly frames a polemical debate between an Eastern school and the mainstream view on the applicability of the kharva-darpa-vākya to śrāddha determination, without naming specific schools explicitly."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Jyotiḥśāstra",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-37ccfa",
+      "quote": "The first is the civil month, the second is called lunar, the third is sidereal, and the fourth is the solar month.",
+      "justification": "The Jyotiḥśāstra is invoked as the primary classificatory authority for the fourfold division of the month, and again later for the lunar definition of Caitra etc."
+    },
+    {
+      "cited_work": "Viṣṇudharmottara",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-37ccfa",
+      "quote": "At the end of the full moon, the moon exceeds the sun by six signs; then, O Rāma, it is half a month, without a doubt.",
+      "justification": "The Viṣṇudharmottara is quoted for definitions of all four month-types, and its lunar month definition (kṛṣṇādi) is the starting point for the broader typology in p-37ccfa."
+    },
+    {
+      "cited_work": "Hārīta-smṛti",
+      "cited_author": "Hārīta",
+      "stance": "authority",
+      "paragraph_id": "p-37ccfa",
+      "quote": "That is proclaimed as the beginning of the month wherein Indra and Agni are offered oblations. Agni and Soma are known in the middle, and the Fathers and Soma at the end.",
+      "justification": "Hārīta is cited as the authority for the śuklādi (bright-fortnight-first) month, with his verse defining the month's structure by the pattern of paired oblations."
+    },
+    {
+      "cited_work": "Trikāṇḍamaṇḍana",
+      "cited_author": "Trikāṇḍamaṇḍana",
+      "stance": "authority",
+      "paragraph_id": "p-37ccfa",
+      "quote": "The lunar month is also of two kinds: beginning with the bright fortnight or beginning with the dark fortnight. Some do not accept the month beginning with the dark fortnight.",
+      "justification": "Trikāṇḍamaṇḍana is quoted to establish the geographic rule (Vindhya boundary) governing the acceptability of the kṛṣṇādi month and the primacy of the śuklādi month."
+    },
+    {
+      "cited_work": "Brahma Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-37ccfa",
+      "quote": "In the month of Caitra, on the first day, in the bright fortnight, when the sun has risen, Brahmā created the world.",
+      "justification": "The Brahma Purāṇa is cited to ground the primacy of the bright-fortnight-first month cosmologically by linking it to Brahmā's creation of the world."
+    },
+    {
+      "cited_work": "Siddhāntaśiromaṇi",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-37ccfa",
+      "quote": "They are measured (mīyante) or disappear (māsyante) in their own phases by waxing and waning; these months are known as māsas, comprising thirty tithis.",
+      "justification": "The Siddhāntaśiromaṇi is cited as the linguistic-astronomical basis for the word māsa (month), establishing the lunar month as the primary referent of the term."
+    },
+    {
+      "cited_work": "Brahmasiddhānta",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-37ccfa",
+      "quote": "The month delimited by the new moon is for the Brahmin. For the king and the Vaiśya, it is delimited by the solar ingress and the full moon, respectively.",
+      "justification": "The Brahmasiddhānta provides the varṇa-differentiated rule for month-types, assigning lunar months to Brahmins and other types to Kṣatriyas and Vaiśyas."
+    },
+    {
+      "cited_work": "Jyotir-Garga",
+      "cited_author": "Jyotir-Garga",
+      "stance": "authority",
+      "paragraph_id": "p-37ccfa",
+      "quote": "The solar month is for marriage, etc.; the civil month is known for sacrifices, etc. For the annual rite and rites for the ancestors, the lunar month is praised.",
+      "justification": "Jyotir-Garga (cited twice in p-37ccfa) assigns specific month-types to specific ritual categories, and separately assigns the civil year to lifespan, inheritance, penance, and propitiation."
+    },
+    {
+      "cited_work": "Pitāmaha-smṛti",
+      "cited_author": "Pitāmaha",
+      "stance": "authority",
+      "paragraph_id": "p-37ccfa",
+      "quote": "In rites for the gods and for the ancestors, the month is known to be lunar.",
+      "justification": "Pitāmaha is cited to confirm the lunar month as the authoritative measure for both divine and ancestral rites."
+    },
+    {
+      "cited_work": "Viṣṇudharmottara",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-37ccfa",
+      "quote": "The sacrifices based on lunar mansions and the ayanas should be performed with the lunar month, which is based on the revolution of the stars.",
+      "justification": "A second Viṣṇudharmottara citation in p-37ccfa (distinct from the earlier one) specifies the lunar month for nakṣatra-based sacrifices and solstice rites."
+    },
+    {
+      "cited_work": "Brāhma Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-37ccfa",
+      "quote": "For rites based on tithis, one should specify the dark-fortnight-first month; for vows, the bright-fortnight-first; and for marriage, etc., the solar-first month.",
+      "justification": "The Brāhma Purāṇa assigns the three principal month-types to three ritual domains (tithi-rites, vows, marriage), providing a complementary categorisation to Jyotir-Garga."
+    },
+    {
+      "cited_work": "Viṣṇudharmottara",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-ae0b53",
+      "quote": "A day in the lunar measure is proclaimed by a single tithi. A civil day is known by a single day-and-night. A solar day is said to be by the sun's passage through a zodiac sign. A sidereal day is said to be by the moon's passage through a lunar mansion.",
+      "justification": "The Viṣṇudharmottara is again quoted in p-ae0b53 to provide the definitive fourfold classification of the day, paralleling the earlier fourfold classification of the month."
+    },
+    {
+      "cited_work": "Ṣaṭtriṃśanmata",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-8769cb",
+      "quote": "Therein, there are two fortnights in a month, the bright and the dark, in order. The bright causes the waxing of the moon; the dark is characterized by the waning of the moon.",
+      "justification": "The Ṣaṭtriṃśanmata is quoted in p-8769cb for the definition of the two fortnights and again in p-7f0d5e for the ordering of tithis within them."
+    },
+    {
+      "cited_work": "Āśvalāyana-smṛti",
+      "cited_author": "Āśvalāyana",
+      "stance": "authority",
+      "paragraph_id": "p-8769cb",
+      "quote": "In the northern transit, in the waxing fortnight, under an auspicious lunar mansion, the tonsure ceremony, sacred thread ceremony, first shaving, and marriage.",
+      "justification": "Āśvalāyana is quoted in p-8769cb to specify that saṃskāras (life-cycle rites) are to be performed in the bright fortnight during the northern solstice, linking pakṣa to saṃskāra scheduling."
+    },
+    {
+      "cited_work": "Prabhāsa Khaṇḍa of the Skānda Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-7f0d5e",
+      "quote": "O Goddess, the great phase called Amā is said to be the sixteenth part. It is the supreme illusion, abiding as the body-bearer of embodied beings.",
+      "justification": "The Prabhāsa Khaṇḍa of the Skānda Purāṇa is cited to establish the metaphysical status of the Amā phase as the eternal sixteenth tithi, distinguishing it from the fifteen variable tithis."
+    },
+    {
+      "cited_work": "Nāradīya",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-7f0d5e",
+      "quote": "The sixty nāḍikās beginning from the time of sunrise are known as complete.",
+      "justification": "The Nāradīya is cited to define the complete (pūrṇā) tithi as spanning sixty nāḍikās from sunrise, i.e., a full civil day."
+    },
+    {
+      "cited_work": "Skānda Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-7f0d5e",
+      "quote": "All the tithis, beginning with Pratipad, from one sunrise of the sun to the next, are known as complete, with the exception of Harivāsara (Ekādaśī).",
+      "justification": "The Skānda Purāṇa is quoted to confirm the sunrise-to-sunrise definition of a complete tithi and to mark Ekādaśī as an exception, framing the rule of divided tithis."
+    },
+    {
+      "cited_work": "Parāśara-smṛti",
+      "cited_author": "Parāśara",
+      "stance": "authority",
+      "paragraph_id": "p-7f0d5e",
+      "quote": "That tithi which pervades the three twilights is always to be revered. Therein, the rule of pairs is not to be regarded, except for Harivāsara.",
+      "justification": "Parāśara's verse is cited to introduce an alternative definition of completeness (pervasion of three twilights) applicable to rites accomplished within a single day."
+    },
+    {
+      "cited_work": "Gārgya-smṛti",
+      "cited_author": "Gārgya",
+      "stance": "authority",
+      "paragraph_id": "p-eb38c1",
+      "quote": "Both injunctions (vidhi) and prohibitions (niṣedha) operate by taking time as their occasion (nimitta). The injunction applies on a venerable (pūjya) tithi; the prohibition, on the mere presence of the time.",
+      "justification": "The elder Gārgya is cited as the doctrinal source for the injunction/prohibition distinction that determines whether a divided tithi requires formal determination."
+    },
+    {
+      "cited_work": "Skānda Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-35a378",
+      "quote": "For anointing, bathing in the ocean, cleaning the teeth, and sexual intercourse, and also at birth and death, the tithi that is coextensive with that time is to be observed.",
+      "justification": "The Skānda Purāṇa is cited again in p-35a378 for the sākalya rule specifying that the tithi coextensive with the time of certain acts governs those acts."
+    },
+    {
+      "cited_work": "Yājñavalkya-smṛti",
+      "cited_author": "Yājñavalkya",
+      "stance": "authority",
+      "paragraph_id": "p-77aa56",
+      "quote": "Whatever is the time for a particular rite, the tithi coextensive with that time is to be used. One should perform rites with that tithi; increase or decrease are not the cause.",
+      "justification": "Yājñavalkya the elder is cited in p-77aa56 as the general authority for the principle of tithi-coextension with the rite's prescribed time-of-day."
+    },
+    {
+      "cited_work": "Parāśara-smṛti",
+      "cited_author": "Parāśara",
+      "stance": "authority",
+      "paragraph_id": "p-77aa56",
+      "quote": "From the first streak of light after the sun has risen, three muhūrtas are known as the morning (prātaḥ); this is the fifth part of the day.",
+      "justification": "Parāśara is cited again in p-77aa56 for the fivefold division of the civil day (prātaḥ, saṅgava, madhyāhna, aparāhṇa, sāyāhna), which governs the prescribed time-of-day for ritual performance."
+    },
+    {
+      "cited_work": "Madanaratna",
+      "cited_author": null,
+      "stance": "extend",
+      "paragraph_id": "p-77aa56",
+      "quote": "The Madanaratna, however, states that even if there is a partial connection on two days, whether equal or unequal, if the time is sufficient for performance on only one of them, then it should be done on that day.",
+      "justification": "The Madanaratna is cited to refine the general principle with a further set of cases distinguishing sufficiency of time from mere partial tithi-connection."
+    },
+    {
+      "cited_work": "Nigama",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-9a3804",
+      "quote": "The pairs of Yugma-Agni, Yuga-Bhūta, Ṣaṭ-Muni, Vasu-Randhra; Dvādaśī joined with Rudra, and Pūrṇimā with Caturdaśī; Pratipad also with Amāvāsyā—the pair of these tithis is of great fruit.",
+      "justification": "The Nigama is the primary source for the yugma-vākya (pairing rule) governing favourable and unfavourable tithi conjunctions for divine rites."
+    },
+    {
+      "cited_work": "Āpastamba-smṛti",
+      "cited_author": "Āpastamba",
+      "stance": "authority",
+      "paragraph_id": "p-9a3804",
+      "quote": "Pratipad should be with Dvitīyā; Dvitīyā with Pratipad. Tṛtīyā, when conjoined with Caturthī, is fruit-bearing.",
+      "justification": "Āpastamba (and 'other texts') is cited as a second, conflicting yugma-vākya source whose pairing assignments contradict those of the Nigama, necessitating a hermeneutical resolution."
+    },
+    {
+      "cited_work": "Vyāghra-smṛti",
+      "cited_author": "Vyāghra",
+      "stance": "authority",
+      "paragraph_id": "p-30d474",
+      "quote": "Decrease (kharva), increase (darpa), and destruction (hiṃsā) are the threefold characteristics of a tithi. The latter two, decrease and increase, are venerable; destruction should be on the previous day.",
+      "justification": "Vyāghra is cited as co-author (with Uśanas) of the kharva-darpa-vākya, the rule governing ancestral-rite tithi determination by the tithi's increase, decrease, or equality."
+    },
+    {
+      "cited_work": "Uśanas-smṛti",
+      "cited_author": "Uśanas",
+      "stance": "authority",
+      "paragraph_id": "p-30d474",
+      "quote": "Decrease (kharva), increase (darpa), and destruction (hiṃsā) are the threefold characteristics of a tithi.",
+      "justification": "Uśanas is named as a co-authority with Vyāghra for the kharva-darpa-vākya, giving the rule a double authorial foundation."
+    },
+    {
+      "cited_work": "Viṣṇudharmottara",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-30d474",
+      "quote": "That tithi is for the whole day and night on which the sun rises. One should perform rites with that; increase and decrease are not the cause.",
+      "justification": "The Viṣṇudharmottara's Vajra-Īśvara dialogue provides the śukla-kṛṣṇa-pakṣa-vākya, which is the default resolver when the yugma-vākyas conflict or are silent."
+    },
+    {
+      "cited_work": "Devala-smṛti",
+      "cited_author": "Devala",
+      "stance": "authority",
+      "paragraph_id": "p-30d474",
+      "quote": "The tithi which the sun has reached when it rises, that tithi is to be known as complete for bathing, giving, vows, etc.",
+      "justification": "Devala's sākalya-vacana is cited in p-30d474 to establish that the rite must be performed in its prescribed time-of-day even when a tithi has been determined as acceptable by the yugma-vākya."
+    },
+    {
+      "cited_work": "Nigama",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-30d474",
+      "quote": "For the regulation of the venerability of Dvitīyā and other pairs, etc.; for the ekoddiṣṭa śrāddha, etc., and for the vṛddhi śrāddha, etc., the rule is of decrease, increase, etc.",
+      "justification": "A second Nigama verse (distinct from the yugma-vākya) is cited in p-30d474 to assign each class of rules (yugma, kharva-darpa) to its proper domain (divine vs. ancestral rites)."
+    },
+    {
+      "cited_work": "Vyāsa-smṛti",
+      "cited_author": "Vyāsa",
+      "stance": "authority",
+      "paragraph_id": "p-30d474",
+      "quote": "For the regulation of the venerability of Dvitīyā and other pairs, etc.; for the ekoddiṣṭa śrāddha, etc., the rule is of decrease, increase, etc.",
+      "justification": "Vyāsa is cited alongside the Nigama in p-30d474 as a co-authority for the domain-assignment rule governing yugma-vākya (divine) vs. kharva-darpa-vākya (ancestral) application."
+    },
+    {
+      "cited_work": "Pariśiṣṭa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-0699db",
+      "quote": "The tithi on which the sun sets, the ancestors worship that. The afternoon was given to them by the Self-born (Brahmā).",
+      "justification": "The Pariśiṣṭa is cited to ground the sunset-tithi rule for ancestral rites on cosmological authority (Brahmā's ordination of the afternoon for ancestors)."
+    },
+    {
+      "cited_work": "Vivekatithitattva",
+      "cited_author": null,
+      "stance": "refute",
+      "paragraph_id": "p-9f1aa9",
+      "quote": "the view expressed in the Vivekatithitattva, that the word 'etc.' in 'ekoddiṣṭādi' refers to the pārvaṇa … that view is also refuted",
+      "justification": "The Vivekatithitattva is cited as an opposing interpretive work whose reading of ekoddiṣṭādi and vṛddhyādi the Vīramitrodaya explicitly refutes."
+    },
+    {
+      "cited_work": "Pariśiṣṭa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-9f1aa9",
+      "quote": "When the fourteenth tithi fills the fourth quarter of the day, and the new moon is decreasing, then the śrāddha is desired.",
+      "justification": "A second Pariśiṣṭa verse in p-9f1aa9 is cited to establish the specific rule for the new moon śrāddha (amāvāsyā), giving textual foundation for the kharva-darpa-vākya in the Eastern school's view."
+    },
+    {
+      "cited_work": "Baudhāyana-smṛti",
+      "cited_author": "Baudhāyana",
+      "stance": "authority",
+      "paragraph_id": "p-77aa56",
+      "quote": "Whatever is the enjoined time for a rite, the tithi that is desired at its commencement should be used, not the one that is absent at the commencement.",
+      "justification": "Baudhāyana is cited in p-77aa56 to establish the commencement rule: when the equal partial connection case cannot distinguish between two days, the tithi present at the rite's principal commencement governs."
+    },
+    {
+      "cited_work": "Paiṭhīnasi-smṛti",
+      "cited_author": "Paiṭhīnasi",
+      "stance": "authority",
+      "paragraph_id": "p-a859ec",
+      "quote": "In both cases, tithis conjoin with the preceding and following tithi for three muhūrtas. This is known as a general rule.",
+      "justification": "Paiṭhīnasi is cited to establish the three-muhūrta minimum for valid tithi conjunction (both pūrvaviddhā and uttaraviddhā cases), grounding the quantitative threshold for acceptable conjunction."
+    },
+    {
+      "cited_work": "Viṣṇudharmottara",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-a859ec",
+      "quote": "The divine rite is when the sun has risen; the ancestral, when the sun has set. For two muhūrtas and for three parts of the day, that tithi is for offerings to gods and ancestors.",
+      "justification": "The Viṣṇudharmottara is cited again in p-a859ec to provide the two-muhūrta (divine) and three-muhūrta (ancestral) quantitative thresholds for tithi pervasion."
+    },
+    {
+      "cited_work": "Śivarahasya",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-a859ec",
+      "quote": "The tithi which, having been reached, the sun sets, if it extends for three muhūrtas, the wise know it to be complete for all religious duties.",
+      "justification": "The Śivarahasya generalises the three-muhūrta rule to all religious duties, treating the two-muhūrta alternative as a secondary option (anukalpa)."
+    },
+    {
+      "cited_work": "Dakṣa-smṛti",
+      "cited_author": "Dakṣa",
+      "stance": "authority",
+      "paragraph_id": "p-a859ec",
+      "quote": "A decreasing tithi of three muhūrtas should not be performed; an increasing tithi of even two muhūrtas should be performed.",
+      "justification": "Dakṣa is cited to confirm the alternative two-muhūrta rule for an increasing (darpa) tithi, providing the textual basis for treating the Viṣṇudharma two-muhūrta rule as an anukalpa."
+    },
+    {
+      "cited_work": "Mārkaṇḍeya-smṛti",
+      "cited_author": "Mārkaṇḍeya",
+      "stance": "authority",
+      "paragraph_id": "p-047c40",
+      "quote": "When a divine rite is to be performed, the tithi on which the sun rises is to be known as complete; for an ancestral rite, the one of the afternoon (āparāhṇikī).",
+      "justification": "Mārkaṇḍeya is cited in p-047c40 to confirm the divine/ancestral split (sunrise vs. afternoon tithi) as a general rule applying to all ancestral rites rather than only the pārvaṇa śrāddha."
+    },
+    {
+      "cited_work": "Padma Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-37ccfa",
+      "quote": "When the southern one is sometimes on it",
+      "justification": "The Padma Purāṇa is cited in a potential objection about Kārtikī's lunar mansion associations (Bharaṇī), which the text then dismisses as pertaining to a non-final-moment conjunction."
+    },
+    {
+      "cited_work": "Cyavana-smṛti",
+      "cited_author": "Cyavana",
+      "stance": "authority",
+      "paragraph_id": "p-37ccfa",
+      "quote": "The last and penultimate months are known to have three mansions; Phālguna is also considered to have three mansions. The remaining months are known to have two mansions, by the arrangement beginning with Kṛttikā.",
+      "justification": "Cyavana is cited to specify the number of lunar mansions (nakṣatras) associated with each month-name, supporting the argument that month-names like Caitra are defined by conjunction with specific nakṣatras."
+    },
+    {
+      "cited_work": "Brahmagupta",
+      "cited_author": "Brahmagupta",
+      "stance": "authority",
+      "paragraph_id": "p-37ccfa",
+      "quote": "In whichever lunar month the sun's ingress into Aries occurs, that is Caitra. Similarly, Vaiśākha, etc., by conjunction with the ingress into Taurus, etc.",
+      "justification": "Brahmagupta is cited to provide the solar-ingress-based definition of Caitra, confirming that the month-name is assigned on the basis of the sun's position at the time of the full moon."
+    }
+  ]
+}
