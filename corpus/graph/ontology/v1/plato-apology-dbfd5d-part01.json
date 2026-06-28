@@ -1,0 +1,938 @@
+{
+  "slug": "plato-apology-dbfd5d",
+  "window": "01-apology:0-15",
+  "entities": [
+    {
+      "canonical_name": "Socrates",
+      "surface_names": ["Socrates", "I"],
+      "kind": "figure",
+      "figure_kind": "philosopher",
+      "mentions": [
+        {
+          "paragraph_id": "p-e13c65",
+          "quote": "for one of my age to come before you like a youngster making up speeches",
+          "role": "defendant speaking in his own defence before the court"
+        },
+        {
+          "paragraph_id": "p-8703b4",
+          "quote": "There is a certain Socrates, a wise man, a ponderer over the things in the air and one who has investigated the things beneath the earth",
+          "role": "subject of the old accusations characterised as a natural philosopher"
+        },
+        {
+          "paragraph_id": "p-0dc1ec",
+          "quote": "Socrates is a criminal and a busybody, investigating the things beneath the earth and in the heavens and making the weaker argument stronger",
+          "role": "named in the formal indictment summarised by the speaker"
+        },
+        {
+          "paragraph_id": "p-836ef3",
+          "quote": "he asked if there were anyone wiser than I",
+          "role": "subject of the Delphic oracle inquiry"
+        },
+        {
+          "paragraph_id": "p-576e82",
+          "quote": "This one of you, O human beings, is wisest, who, like Socrates, recognizes that he is in truth of no account in respect to wisdom",
+          "role": "held up as exemplar of human wisdom by the god's oracle"
+        }
+      ],
+      "description": "The defendant and speaker throughout the Apology, an Athenian philosopher on trial for impiety and corrupting the youth.",
+      "justification": "Socrates is the first-person narrator and central figure named explicitly in the indictment and in the Delphic oracle's pronouncement."
+    },
+    {
+      "canonical_name": "Meletus",
+      "surface_names": ["Meletus"],
+      "kind": "figure",
+      "figure_kind": "accuser",
+      "mentions": [
+        {
+          "paragraph_id": "p-0dc1ec",
+          "quote": "in which Meletus trusted when he brought this suit against me",
+          "role": "the primary formal accuser who filed the indictment"
+        },
+        {
+          "paragraph_id": "p-eaea9b",
+          "quote": "From among them Meletus attacked me, and Anytus and Lycon, Meletus angered on account of the poets",
+          "role": "accuser identified as motivated by anger on behalf of poets"
+        },
+        {
+          "paragraph_id": "p-02ddea",
+          "quote": "Do you not say that it is by teaching this that I corrupt them? Very decidedly that is what I say",
+          "role": "interlocutor cross-examined by Socrates on the charge of corrupting the youth"
+        },
+        {
+          "paragraph_id": "p-75e257",
+          "quote": "he appears to me to contradict himself in his speech, as if he were to say, Socrates is a wrongdoer, because he does not believe in gods, but does believe in gods",
+          "role": "shown to contradict himself in the accusation about impiety"
+        },
+        {
+          "paragraph_id": "p-eaea9b",
+          "quote": "I say Meletus is a wrongdoer, because he jokes in earnest, lightly involving people in a lawsuit",
+          "role": "counter-accused of being a frivolous plaintiff"
+        }
+      ],
+      "description": "One of the three formal accusers who brought Socrates to trial, said to be motivated by anger on behalf of the poets.",
+      "justification": "Meletus is named in the indictment text, cross-examined at length, and identified by Socrates as the formal plaintiff of record."
+    },
+    {
+      "canonical_name": "Anytus",
+      "surface_names": ["Anytus"],
+      "kind": "figure",
+      "figure_kind": "accuser",
+      "mentions": [
+        {
+          "paragraph_id": "p-8703b4",
+          "quote": "I fear them more than Anytus and the rest, though these also are dangerous",
+          "role": "named as one of the later, formal accusers Socrates fears less than the old slanderers"
+        },
+        {
+          "paragraph_id": "p-eaea9b",
+          "quote": "Anytus on account of the artisans and the public men",
+          "role": "accuser motivated by anger on behalf of artisans and politicians"
+        },
+        {
+          "paragraph_id": "p-5be7b9",
+          "quote": "not Meletus or Anytus, but the prejudice and dislike of the many",
+          "role": "identified as a less significant cause of conviction than popular prejudice"
+        },
+        {
+          "paragraph_id": "p-5b5a36",
+          "quote": "even if you acquit me now and are not convinced by Anytus, who said that either I ought not to have been brought to trial at all, or since was brought to trial, I must certainly be put to death",
+          "role": "reported to have demanded Socrates' execution"
+        }
+      ],
+      "description": "One of the three accusers, associated with artisans and public men, who demanded the death penalty for Socrates.",
+      "justification": "Anytus is named alongside Meletus and Lycon as a formal accuser and is quoted as demanding execution."
+    },
+    {
+      "canonical_name": "Lycon",
+      "surface_names": ["Lycon"],
+      "kind": "figure",
+      "figure_kind": "accuser",
+      "mentions": [
+        {
+          "paragraph_id": "p-eaea9b",
+          "quote": "From among them Meletus attacked me, and Anytus and Lycon, Meletus angered on account of the poets, and Anytus on account of the artisans and the public men, and Lycon on account of the orators",
+          "role": "third accuser motivated by anger on behalf of orators"
+        }
+      ],
+      "description": "The third formal accuser, motivated by anger on behalf of the orators.",
+      "justification": "Lycon is named explicitly as the third accuser alongside Meletus and Anytus with a stated motivation."
+    },
+    {
+      "canonical_name": "Chaerephon",
+      "surface_names": ["Chaerephon"],
+      "kind": "figure",
+      "figure_kind": "associate",
+      "mentions": [
+        {
+          "paragraph_id": "p-836ef3",
+          "quote": "You know Chaerephon, I fancy. He was my comrade from a youth and the comrade of your democratic party, and shared in the recent exile and came back with you",
+          "role": "Socrates' lifelong companion and member of the democratic faction"
+        },
+        {
+          "paragraph_id": "p-836ef3",
+          "quote": "Well, once he went to Delphi and made so bold as to ask the oracle this question",
+          "role": "the person who posed the famous question to the Delphic oracle about Socrates' wisdom"
+        },
+        {
+          "paragraph_id": "p-836ef3",
+          "quote": "about these things his brother here will bear you witness, since Chaerephon is dead",
+          "role": "deceased; his brother present in court vouches for the oracle story"
+        }
+      ],
+      "description": "Socrates' old companion who asked the Delphic oracle whether anyone was wiser than Socrates; now deceased.",
+      "justification": "Chaerephon is the named agent whose visit to Delphi set in motion the narrative of Socrates' mission, grounded directly in paragraph p-836ef3."
+    },
+    {
+      "canonical_name": "Gorgias of Leontini",
+      "surface_names": ["Gorgias of Leontini"],
+      "kind": "figure",
+      "figure_kind": "sophist",
+      "mentions": [
+        {
+          "paragraph_id": "p-0dc1ec",
+          "quote": "if one might be able to teach people, as Gorgias of Leontini and Prodicus of Ceos and Hippias of Elis are",
+          "role": "cited as an example of a successful paid teacher of virtue"
+        }
+      ],
+      "description": "A renowned sophist from Leontini mentioned by Socrates as a paradigm of those who teach for payment.",
+      "justification": "Gorgias is named explicitly as one of three sophists Socrates contrasts himself with in p-0dc1ec."
+    },
+    {
+      "canonical_name": "Prodicus of Ceos",
+      "surface_names": ["Prodicus of Ceos"],
+      "kind": "figure",
+      "figure_kind": "sophist",
+      "mentions": [
+        {
+          "paragraph_id": "p-0dc1ec",
+          "quote": "if one might be able to teach people, as Gorgias of Leontini and Prodicus of Ceos and Hippias of Elis are",
+          "role": "cited as a paid teacher of virtue alongside Gorgias and Hippias"
+        }
+      ],
+      "description": "A sophist from Ceos grouped with Gorgias and Hippias as exemplary paid teachers Socrates says he cannot rival.",
+      "justification": "Named explicitly in p-0dc1ec as one of the three canonical sophists contrasted with Socrates."
+    },
+    {
+      "canonical_name": "Hippias of Elis",
+      "surface_names": ["Hippias of Elis"],
+      "kind": "figure",
+      "figure_kind": "sophist",
+      "mentions": [
+        {
+          "paragraph_id": "p-0dc1ec",
+          "quote": "if one might be able to teach people, as Gorgias of Leontini and Prodicus of Ceos and Hippias of Elis are",
+          "role": "cited as a paid teacher of virtue alongside Gorgias and Prodicus"
+        }
+      ],
+      "description": "A sophist from Elis grouped with Gorgias and Prodicus as exemplary paid teachers.",
+      "justification": "Named explicitly in p-0dc1ec alongside the other two sophists."
+    },
+    {
+      "canonical_name": "Callias son of Hipponicus",
+      "surface_names": ["Callias", "Callias, the son of Hipponicus"],
+      "kind": "figure",
+      "figure_kind": "wealthy patron",
+      "mentions": [
+        {
+          "paragraph_id": "p-19298a",
+          "quote": "a man who has spent more on sophists than all the rest, Callias, the son of Hipponicus; so I asked him—for he has two sons",
+          "role": "wealthy Athenian questioned by Socrates about who educates human virtue"
+        }
+      ],
+      "description": "An Athenian said to have spent more on sophists than anyone else, whom Socrates questioned about the education of his sons.",
+      "justification": "Callias is named explicitly in p-19298a as the interlocutor in the horse-trainer analogy illustrating the search for a teacher of virtue."
+    },
+    {
+      "canonical_name": "Evenus of Paros",
+      "surface_names": ["Evenus", "Evenus, from Paros"],
+      "kind": "figure",
+      "figure_kind": "sophist",
+      "mentions": [
+        {
+          "paragraph_id": "p-19298a",
+          "quote": "Evenus, he said, Socrates, from Paros, five minae. And I called Evenus blessed, if he really had this art and taught so reasonably",
+          "role": "sophist recommended by Callias as a teacher of human virtue at five minae"
+        }
+      ],
+      "description": "A sophist from Paros who charges five minae, cited as the supposed teacher of virtue that Callias hired for his sons.",
+      "justification": "Evenus is named in p-19298a as the specific sophist identified by Callias in response to Socrates' question about who can teach virtue."
+    },
+    {
+      "canonical_name": "Aristophanes",
+      "surface_names": ["Aristophanes"],
+      "kind": "figure",
+      "figure_kind": "poet/playwright",
+      "mentions": [
+        {
+          "paragraph_id": "p-0dc1ec",
+          "quote": "For you yourselves saw these things in Aristophanes' comedy, a Socrates being carried about there, proclaiming that he was treading on air",
+          "role": "comic playwright whose depiction of Socrates is cited as a source of the false reputation"
+        }
+      ],
+      "description": "The Athenian comic playwright whose comedy (the Clouds) caricatured Socrates as a natural philosopher treading on air.",
+      "justification": "Aristophanes is the sole named playwright explicitly identified in p-0dc1ec as having staged a false portrait of Socrates."
+    },
+    {
+      "canonical_name": "Anaxagoras of Clazomenae",
+      "surface_names": ["Anaxagoras", "Anaxagoras the Clazomenian"],
+      "kind": "figure",
+      "figure_kind": "philosopher",
+      "mentions": [
+        {
+          "paragraph_id": "p-02ddea",
+          "quote": "Do you think you are accusing Anaxagoras, my dear Meletus, and do you so despise these gentlemen and think they are so unversed in letters as not to know, that the books of Anaxagoras the Clazomenian are full of such utterances?",
+          "role": "natural philosopher whose views on sun and moon as stone and earth are distinguished from Socrates' own beliefs"
+        }
+      ],
+      "description": "The pre-Socratic philosopher from Clazomenae whose books taught that the sun is a stone and the moon earth, doctrines Meletus falsely attributes to Socrates.",
+      "justification": "Anaxagoras is named explicitly in p-02ddea when Socrates distinguishes his own beliefs from those of the natural philosopher Meletus conflates him with."
+    },
+    {
+      "canonical_name": "Apollo / the god of Delphi",
+      "surface_names": ["the god of Delphi", "the god", "God"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-19298a",
+          "quote": "I will offer you the god of Delphi as a witness",
+          "role": "divine witness invoked by Socrates for the claim about his wisdom"
+        },
+        {
+          "paragraph_id": "p-836ef3",
+          "quote": "I am going to tell you whence the prejudice against me has arisen",
+          "role": "the oracle's answer triggers Socrates' philosophical mission"
+        },
+        {
+          "paragraph_id": "p-576e82",
+          "quote": "I am still even now going about and searching and investigating at the god's behest anyone, whether citizen or foreigner, who I think is wise",
+          "role": "divine commander of Socrates' philosophical mission"
+        },
+        {
+          "paragraph_id": "p-d1a9bd",
+          "quote": "I think the god fastened me upon the city in some such capacity",
+          "role": "identified as the agent who appointed Socrates as Athens' gadfly"
+        }
+      ],
+      "description": "Apollo, the Delphic god whose oracle declared no one wiser than Socrates and whom Socrates takes as his divine commander.",
+      "justification": "The god of Delphi is explicitly invoked as witness in p-19298a and recurs as the source of Socrates' mission throughout this window."
+    },
+    {
+      "canonical_name": "The Pythia",
+      "surface_names": ["the Pythia"],
+      "kind": "figure",
+      "figure_kind": "oracle-priestess",
+      "mentions": [
+        {
+          "paragraph_id": "p-836ef3",
+          "quote": "Now the Pythia replied that there was no one wiser",
+          "role": "oracle who delivered the divine pronouncement that no one is wiser than Socrates"
+        }
+      ],
+      "description": "The priestess of Apollo at Delphi who delivered the oracle declaring Socrates the wisest of men.",
+      "justification": "The Pythia is named explicitly in p-836ef3 as the speaker of the oracle that initiates Socrates' entire philosophical investigation."
+    },
+    {
+      "canonical_name": "Achilles",
+      "surface_names": ["the son of Thetis"],
+      "kind": "figure",
+      "figure_kind": "mythological hero",
+      "mentions": [
+        {
+          "paragraph_id": "p-5be7b9",
+          "quote": "according to your argument all the demigods would be bad who died at Troy, including the son of Thetis, who so despised danger, in comparison with enduring any disgrace",
+          "role": "mythological exemplar of preferring honourable death to disgraceful survival"
+        }
+      ],
+      "description": "The hero Achilles, son of the goddess Thetis, invoked as the paradigm of one who chose honourable death at Troy over cowardly survival.",
+      "justification": "Achilles is identified as the son of Thetis in p-5be7b9 and his choice at Troy is cited as Socrates' moral analogue for his own stance before the court."
+    },
+    {
+      "canonical_name": "Thetis",
+      "surface_names": ["his mother", "she was a goddess"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-5be7b9",
+          "quote": "when his mother (and she was a goddess) said to him, as he was eager to slay Hector, something like this, I believe, My son, if you avenge the death of your friend Patroclus and kill Hector, you yourself shall die",
+          "role": "divine mother who warns Achilles that avenging Patroclus will bring his death"
+        }
+      ],
+      "description": "The sea-goddess mother of Achilles who prophesied his death if he slew Hector, cited by Socrates to illustrate heroic disregard for death.",
+      "justification": "Thetis appears in the Achilles passage in p-5be7b9, identified explicitly as a goddess and as Achilles' mother."
+    },
+    {
+      "canonical_name": "Hector",
+      "surface_names": ["Hector"],
+      "kind": "figure",
+      "figure_kind": "mythological hero",
+      "mentions": [
+        {
+          "paragraph_id": "p-5be7b9",
+          "quote": "My son, if you avenge the death of your friend Patroclus and kill Hector, you yourself shall die",
+          "role": "the Trojan warrior whose killing would cost Achilles his life"
+        }
+      ],
+      "description": "The Trojan hero whose death at Achilles' hands is the trigger for the Iliadic prophecy Socrates cites.",
+      "justification": "Hector is named in Thetis's prophecy quoted in p-5be7b9 as the figure whose slaying will seal Achilles' fate."
+    },
+    {
+      "canonical_name": "Patroclus",
+      "surface_names": ["Patroclus", "his friend"],
+      "kind": "figure",
+      "figure_kind": "mythological hero",
+      "mentions": [
+        {
+          "paragraph_id": "p-5be7b9",
+          "quote": "My son, if you avenge the death of your friend Patroclus and kill Hector, you yourself shall die",
+          "role": "the slain friend whose death motivates Achilles' choice"
+        }
+      ],
+      "description": "Achilles' companion whose death Achilles avenges at the cost of his own life, used by Socrates as a model of duty over self-preservation.",
+      "justification": "Patroclus is named in the Thetis speech quoted in p-5be7b9 as the friend whose death drives the moral example."
+    },
+    {
+      "canonical_name": "Leon of Salamis",
+      "surface_names": ["Leon the Salaminian", "Leon"],
+      "kind": "figure",
+      "figure_kind": "historical person",
+      "mentions": [
+        {
+          "paragraph_id": "p-a7e10a",
+          "quote": "the Thirty sent for me with four others to come to the rotunda and ordered us to bring Leon the Salaminian from Salamis to be put to death",
+          "role": "victim the Thirty Tyrants ordered Socrates and four others to arrest and execute"
+        }
+      ],
+      "description": "An Athenian citizen the Thirty Tyrants ordered to be arrested and executed; Socrates refused to participate in his arrest.",
+      "justification": "Leon is named explicitly in p-a7e10a as the person the Thirty ordered Socrates to arrest, making the event a concrete example of Socrates' resistance to injustice."
+    },
+    {
+      "canonical_name": "The Thirty Tyrants",
+      "surface_names": ["the Thirty", "the oligarchy"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-a7e10a",
+          "quote": "after the oligarchy was established, the Thirty sent for me with four others to come to the rotunda and ordered us to bring Leon the Salaminian from Salamis to be put to death",
+          "role": "the oligarchic government that ordered Socrates to participate in an unjust arrest"
+        }
+      ],
+      "description": "The oligarchic regime that ruled Athens after the democracy was overthrown, which Socrates refused to obey when ordered to arrest Leon.",
+      "justification": "The Thirty are named in p-a7e10a as a concrete historical example of unjust authority Socrates resisted at personal risk."
+    },
+    {
+      "canonical_name": "Athens",
+      "surface_names": ["Athens", "the city", "the state"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-e13c65",
+          "quote": "men of Athens",
+          "role": "the city whose citizens and court constitute Socrates' audience and judges"
+        },
+        {
+          "paragraph_id": "p-d1a9bd",
+          "quote": "I think the god fastened me upon the city in some such capacity, and I go about arousing, and urging and reproaching each one of you, constantly alighting upon you everywhere the whole day long",
+          "role": "the polis to which Socrates was divinely attached as a gadfly"
+        },
+        {
+          "paragraph_id": "p-5b5a36",
+          "quote": "Men of Athens, I respect and love you, but I shall obey the god rather than you",
+          "role": "the political community whose authority Socrates places below divine command"
+        }
+      ],
+      "description": "The Athenian city-state in whose court Socrates is tried and to which he considers himself divinely assigned as a philosophical gadfly.",
+      "justification": "Athens is named repeatedly as the place and political community framing the entire trial, grounded in multiple paragraphs."
+    },
+    {
+      "canonical_name": "Delphi / the Oracle",
+      "surface_names": ["Delphi", "the oracle"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-836ef3",
+          "quote": "once he went to Delphi and made so bold as to ask the oracle this question",
+          "role": "the sanctuary where Chaerephon received the oracle that Socrates is wisest"
+        },
+        {
+          "paragraph_id": "p-19298a",
+          "quote": "I will offer you the god of Delphi as a witness",
+          "role": "the divine seat invoked by Socrates as authoritative witness"
+        }
+      ],
+      "description": "The sacred site of Apollo's oracle, where Chaerephon asked whether anyone was wiser than Socrates, setting off his philosophical mission.",
+      "justification": "Delphi is named explicitly in p-836ef3 and p-19298a as the location of the oracle that grounds Socrates' account of his mission."
+    },
+    {
+      "canonical_name": "Potidaea",
+      "surface_names": ["Potidaea"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-5be7b9",
+          "quote": "when the commanders whom you chose to command me stationed me, both at Potidaea and at Amphipolis and at Delium",
+          "role": "one of the three military postings where Socrates remained at his station under risk of death"
+        }
+      ],
+      "description": "One of the military campaigns at which Socrates served under orders and faced death, cited to illustrate his principle of holding one's post.",
+      "justification": "Potidaea is named in p-5be7b9 alongside Amphipolis and Delium as evidence of Socrates' past courage in battle."
+    },
+    {
+      "canonical_name": "Amphipolis",
+      "surface_names": ["Amphipolis"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-5be7b9",
+          "quote": "when the commanders whom you chose to command me stationed me, both at Potidaea and at Amphipolis and at Delium",
+          "role": "one of the three battle stations where Socrates served"
+        }
+      ],
+      "description": "One of the military campaigns where Socrates was stationed and faced mortal danger, cited as precedent for his current stance.",
+      "justification": "Amphipolis is named explicitly in p-5be7b9 alongside Potidaea and Delium as military evidence."
+    },
+    {
+      "canonical_name": "Delium",
+      "surface_names": ["Delium"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-5be7b9",
+          "quote": "when the commanders whom you chose to command me stationed me, both at Potidaea and at Amphipolis and at Delium",
+          "role": "one of the three battle stations where Socrates served"
+        }
+      ],
+      "description": "One of the military campaigns where Socrates was stationed under orders, adduced as proof that he does not fear death when duty requires.",
+      "justification": "Delium is named explicitly in p-5be7b9 alongside Potidaea and Amphipolis."
+    },
+    {
+      "canonical_name": "Troy",
+      "surface_names": ["Troy"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-5be7b9",
+          "quote": "all the demigods would be bad who died at Troy, including the son of Thetis",
+          "role": "the mythological battlefield where heroic death exemplifies honourable conduct"
+        }
+      ],
+      "description": "The city besieged in the Trojan War, the scene of the heroic deaths invoked by Socrates as a moral parallel to his own situation.",
+      "justification": "Troy is explicitly named in p-5be7b9 as the setting of the mythological exempla Socrates draws on."
+    },
+    {
+      "canonical_name": "Salamis",
+      "surface_names": ["Salamis"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-a7e10a",
+          "quote": "ordered us to bring Leon the Salaminian from Salamis to be put to death",
+          "role": "location from which Leon was to be seized"
+        }
+      ],
+      "description": "The island from which Leon was to be arrested by the Thirty, the scene of Socrates' act of civil disobedience.",
+      "justification": "Salamis is named in p-a7e10a as the location relevant to the Leon episode."
+    },
+    {
+      "canonical_name": "Crito",
+      "surface_names": ["Crito"],
+      "kind": "figure",
+      "figure_kind": "associate",
+      "mentions": [
+        {
+          "paragraph_id": "p-a48177",
+          "quote": "first Crito here, who is of my own age and my own deme and father of Critobulus, who is also present",
+          "role": "long-time associate of Socrates present in court as a potential defence witness"
+        }
+      ],
+      "description": "A close associate of Socrates of the same age and deme, present in court with his son Critobulus.",
+      "justification": "Crito is named explicitly in p-a48177 as among those present in court whose continued goodwill toward Socrates refutes the corruption charge."
+    },
+    {
+      "canonical_name": "Plato",
+      "surface_names": ["Plato"],
+      "kind": "figure",
+      "figure_kind": "associate",
+      "mentions": [
+        {
+          "paragraph_id": "p-a48177",
+          "quote": "Adimantus, son of Aristo, whose brother is Plato here",
+          "role": "present in court as brother of Adimantus, a witness to Socrates' character"
+        },
+        {
+          "paragraph_id": "p-6505df",
+          "quote": "Plato here, men of Athens, and Crito and Critobulus, and Aristobulus tell me to propose a fine of thirty minas",
+          "role": "one of the friends who stands surety for Socrates' proposed fine of thirty minas"
+        }
+      ],
+      "description": "The philosopher present in court as Adimantus's brother and one of the friends who offered to stand surety for Socrates' fine.",
+      "justification": "Plato is named twice in this window — in p-a48177 as Adimantus's brother and in p-6505df as a financial surety."
+    },
+    {
+      "canonical_name": "Homer",
+      "surface_names": ["Homer"],
+      "kind": "figure",
+      "figure_kind": "poet",
+      "mentions": [
+        {
+          "paragraph_id": "p-d56487",
+          "quote": "I too have relatives, for I am, as Homer has it, not born of an oak or a rock, but of human parents",
+          "role": "literary authority quoted to affirm Socrates' ordinary human origin"
+        }
+      ],
+      "description": "The archaic epic poet whose phrase 'not born of an oak or a rock' is quoted by Socrates to assert his common humanity.",
+      "justification": "Homer is named explicitly in p-d56487 as the source of a quotation Socrates uses to ground a rhetorical point."
+    },
+    {
+      "canonical_name": "Minos",
+      "surface_names": ["Minos"],
+      "kind": "figure",
+      "figure_kind": "mythological judge",
+      "mentions": [
+        {
+          "paragraph_id": "p-04a19c",
+          "quote": "if a man when he reaches the other world, after leaving behind these who claim to be judges, shall find those who are really judges who are said to sit in judgment there, Minos and Rhadamanthus, and Aeacus and Triptolemus",
+          "role": "one of the four legendary judges of the dead in the underworld Socrates anticipates meeting"
+        }
+      ],
+      "description": "The mythological judge of the underworld whom Socrates hopes to encounter after death as a truly just judge.",
+      "justification": "Minos is named in p-04a19c among the four judges of Hades as part of Socrates' hopeful vision of the afterlife."
+    },
+    {
+      "canonical_name": "Rhadamanthus",
+      "surface_names": ["Rhadamanthus"],
+      "kind": "figure",
+      "figure_kind": "mythological judge",
+      "mentions": [
+        {
+          "paragraph_id": "p-04a19c",
+          "quote": "Minos and Rhadamanthus, and Aeacus and Triptolemus, and all the other demigods who were just men in their lives",
+          "role": "one of the underworld judges Socrates anticipates meeting"
+        }
+      ],
+      "description": "A mythological judge of the underworld, cited by Socrates among the just demigods he looks forward to meeting in death.",
+      "justification": "Rhadamanthus is named in p-04a19c in the catalogue of underworld judges."
+    },
+    {
+      "canonical_name": "Aeacus",
+      "surface_names": ["Aeacus"],
+      "kind": "figure",
+      "figure_kind": "mythological judge",
+      "mentions": [
+        {
+          "paragraph_id": "p-04a19c",
+          "quote": "Minos and Rhadamanthus, and Aeacus and Triptolemus, and all the other demigods who were just men in their lives",
+          "role": "one of the underworld judges Socrates anticipates meeting"
+        }
+      ],
+      "description": "A mythological judge of the underworld listed among the just demigods Socrates hopes to meet after death.",
+      "justification": "Aeacus is named in p-04a19c alongside Minos, Rhadamanthus, and Triptolemus."
+    },
+    {
+      "canonical_name": "Triptolemus",
+      "surface_names": ["Triptolemus"],
+      "kind": "figure",
+      "figure_kind": "mythological hero",
+      "mentions": [
+        {
+          "paragraph_id": "p-04a19c",
+          "quote": "Minos and Rhadamanthus, and Aeacus and Triptolemus, and all the other demigods who were just men in their lives",
+          "role": "one of the just demigods Socrates hopes to meet in the underworld"
+        }
+      ],
+      "description": "A demigod associated with justice listed among those Socrates anticipates as companions in the afterlife.",
+      "justification": "Triptolemus is named in p-04a19c in Socrates' catalogue of the underworld's righteous judges."
+    },
+    {
+      "canonical_name": "Orpheus",
+      "surface_names": ["Orpheus"],
+      "kind": "figure",
+      "figure_kind": "mythological poet",
+      "mentions": [
+        {
+          "paragraph_id": "p-04a19c",
+          "quote": "what would any of you give to meet with Orpheus and Musaeus and Hesiod and Homer?",
+          "role": "one of the great poets Socrates would eagerly converse with in the afterlife"
+        }
+      ],
+      "description": "The mythological poet-musician Orpheus, cited by Socrates as a figure he would delight in meeting in the underworld.",
+      "justification": "Orpheus is named in p-04a19c as one of the famous poets Socrates anticipates conversing with after death."
+    },
+    {
+      "canonical_name": "Musaeus",
+      "surface_names": ["Musaeus"],
+      "kind": "figure",
+      "figure_kind": "mythological poet",
+      "mentions": [
+        {
+          "paragraph_id": "p-04a19c",
+          "quote": "what would any of you give to meet with Orpheus and Musaeus and Hesiod and Homer?",
+          "role": "mythological poet Socrates longs to meet in the afterlife"
+        }
+      ],
+      "description": "The legendary poet associated with mystery traditions, cited alongside Orpheus as a figure Socrates hopes to meet in the underworld.",
+      "justification": "Musaeus is named in p-04a19c in Socrates' list of poets he would gladly meet after death."
+    },
+    {
+      "canonical_name": "Hesiod",
+      "surface_names": ["Hesiod"],
+      "kind": "figure",
+      "figure_kind": "poet",
+      "mentions": [
+        {
+          "paragraph_id": "p-04a19c",
+          "quote": "what would any of you give to meet with Orpheus and Musaeus and Hesiod and Homer?",
+          "role": "archaic poet Socrates would gladly meet in the afterlife"
+        }
+      ],
+      "description": "The archaic Greek poet named alongside Orpheus, Musaeus, and Homer as literary figures Socrates looks forward to meeting after death.",
+      "justification": "Hesiod is named in p-04a19c in the catalogue of poets Socrates wishes to encounter."
+    },
+    {
+      "canonical_name": "Palamedes",
+      "surface_names": ["Palamedes"],
+      "kind": "figure",
+      "figure_kind": "mythological hero",
+      "mentions": [
+        {
+          "paragraph_id": "p-04a19c",
+          "quote": "I personally should find the life there wonderful, when I met Palamedes or Ajax, the son of Telamon, or any other men of old who lost their lives through an unjust judgement",
+          "role": "heroic victim of unjust judgement whose experience Socrates expects to compare with his own"
+        }
+      ],
+      "description": "A mythological hero said to have died through an unjust verdict, cited by Socrates as a predecessor in his situation.",
+      "justification": "Palamedes is named in p-04a19c as one who, like Socrates, was condemned unjustly."
+    },
+    {
+      "canonical_name": "Ajax son of Telamon",
+      "surface_names": ["Ajax, the son of Telamon"],
+      "kind": "figure",
+      "figure_kind": "mythological hero",
+      "mentions": [
+        {
+          "paragraph_id": "p-04a19c",
+          "quote": "when I met Palamedes or Ajax, the son of Telamon, or any other men of old who lost their lives through an unjust judgement",
+          "role": "Trojan War hero who died through injustice, whose experience Socrates parallels to his own"
+        }
+      ],
+      "description": "The great Trojan War hero Ajax son of Telamon, cited alongside Palamedes as a victim of unjust judgement Socrates looks forward to meeting.",
+      "justification": "Ajax is named in p-04a19c explicitly as someone who lost his life through an unjust verdict."
+    },
+    {
+      "canonical_name": "Odysseus",
+      "surface_names": ["Odysseus"],
+      "kind": "figure",
+      "figure_kind": "mythological hero",
+      "mentions": [
+        {
+          "paragraph_id": "p-04a19c",
+          "quote": "What price would any of you pay, judges, to examine him who led the great army against Troy, or Odysseus, or Sisyphus, or countless others",
+          "role": "heroic figure Socrates longs to examine for wisdom in the afterlife"
+        }
+      ],
+      "description": "The Homeric hero Odysseus, cited by Socrates as one of the great figures he would examine for wisdom in the underworld.",
+      "justification": "Odysseus is named explicitly in p-04a19c among the figures Socrates wishes to examine in the afterlife."
+    },
+    {
+      "canonical_name": "Sisyphus",
+      "surface_names": ["Sisyphus"],
+      "kind": "figure",
+      "figure_kind": "mythological figure",
+      "mentions": [
+        {
+          "paragraph_id": "p-04a19c",
+          "quote": "What price would any of you pay, judges, to examine him who led the great army against Troy, or Odysseus, or Sisyphus, or countless others",
+          "role": "mythological figure Socrates lists among those worth examining in the underworld"
+        }
+      ],
+      "description": "The mythological Sisyphus, named alongside Odysseus and the Trojan War commander as a figure Socrates would examine in the underworld.",
+      "justification": "Sisyphus is named in p-04a19c in Socrates' list of famous figures he anticipates examining after death."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Human wisdom as knowing one's own ignorance",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-836ef3",
+          "quote": "I am wiser than this man; for neither of us really knows anything fine and good, but this man thinks he knows something when he does not, whereas I, as I do not know anything, do not think I do either"
+        },
+        {
+          "paragraph_id": "p-576e82",
+          "quote": "Human wisdom is of little or no value. And it appears that he does not really say this of Socrates, but merely uses my name, and makes me an example"
+        },
+        {
+          "paragraph_id": "p-5b5a36",
+          "quote": "For no one knows whether death be not even the greatest of all blessings to man, but they fear it as if they knew that it is the greatest of evils"
+        }
+      ],
+      "justification": "The Socratic discovery that true human wisdom consists in awareness of one's own ignorance is the central epistemic argument developed across the oracle narrative and the cross-examination of Meletus."
+    },
+    {
+      "topic": "The philosophical mission as divine vocation",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-576e82",
+          "quote": "I am still even now going about and searching and investigating at the god's behest anyone, whether citizen or foreigner, who I think is wise"
+        },
+        {
+          "paragraph_id": "p-5b5a36",
+          "quote": "the god gave me a station, as I believed and understood, with orders to spend my life in philosophy and in examining myself and others"
+        },
+        {
+          "paragraph_id": "p-d1a9bd",
+          "quote": "I think the god fastened me upon the city in some such capacity, and I go about arousing, and urging and reproaching each one of you"
+        }
+      ],
+      "justification": "Socrates consistently frames his philosophical activity not as personal choice but as a divine assignment derived from the Delphic oracle, making piety and mission inseparable."
+    },
+    {
+      "topic": "The tension between obedience to divine and civic authority",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-5b5a36",
+          "quote": "Men of Athens, I respect and love you, but I shall obey the god rather than you"
+        },
+        {
+          "paragraph_id": "p-90d879",
+          "quote": "A man who really fights for the right, if he is to preserve his life for even a little while, must be a private citizen, not a public man"
+        },
+        {
+          "paragraph_id": "p-a7e10a",
+          "quote": "I thought I must run the risk to the end with law and justice on my side, rather than join with you when your wishes were unjust"
+        }
+      ],
+      "justification": "The passage repeatedly raises the implicit conflict between the demands of the polis (laws, democratic assembly, tyrants) and the demands of the god, without making it a formal philosophical argument."
+    },
+    {
+      "topic": "Rhetoric, truth, and the ethics of speech",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-e13c65",
+          "quote": "they call him a clever speaker who speaks the truth; for if this is what they mean, I would agree that I am an orator—not after their fashion",
+          "quote": "you shall hear from me nothing but the truth"
+        },
+        {
+          "paragraph_id": "p-8703b4",
+          "quote": "for that is the virtue of a judge, and an orator's virtue is to speak the truth"
+        },
+        {
+          "paragraph_id": "p-0f8516",
+          "quote": "we ought to inform and convince him. For the judge is not here to grant favors in matters of justice, but to give judgement"
+        }
+      ],
+      "justification": "The distinction between ornate courtroom rhetoric and plain truth-telling frames the entire speech and constitutes a sustained implicit argument about what legitimate persuasion looks like."
+    },
+    {
+      "topic": "The examined life and the care of the soul",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-d1a9bd",
+          "quote": "I tell you that virtue does not come from money, but from virtue comes money and all other good things to man, both to the individual and to the state"
+        },
+        {
+          "paragraph_id": "p-6505df",
+          "quote": "to talk every day about virtue and the other things about which you hear me talking and examining myself and others is the greatest good to man, and that the unexamined life is not worth living"
+        },
+        {
+          "paragraph_id": "p-877847",
+          "quote": "I tried to persuade each of you to care for himself and his own perfection in goodness and wisdom rather than for any of his belongings"
+        }
+      ],
+      "justification": "The care of the soul over external goods and the value of self-examination are recurring normative claims that define Socrates' account of his own beneficial service to Athens."
+    },
+    {
+      "topic": "Death, courage, and the fear of the unknown",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-5b5a36",
+          "quote": "For to fear death, gentlemen, is nothing else than to think one is wise when one is not; for it is thinking one knows what one does not know"
+        },
+        {
+          "paragraph_id": "p-5be7b9",
+          "quote": "wherever a man stations himself, thinking it is best to be there, or is stationed by his commander, there he must remain and run his risks, considering neither death nor any other thing more than disgrace"
+        },
+        {
+          "paragraph_id": "p-3b58fe",
+          "quote": "the state of death is one of two things: either it is virtually nothingness, so that the dead has no consciousness of anything, or it is, as people say, a change and migration of the soul from this to another place"
+        }
+      ],
+      "justification": "The proper philosophical attitude toward death — neither fearing it nor craving it but remaining open to its unknown nature — is a sustained theme culminating in the two-hypothesis analysis of death in p-3b58fe."
+    },
+    {
+      "topic": "The corruption of reputation and popular prejudice",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-8703b4",
+          "quote": "many accusers have risen up against me before you, who have been speaking for a long time, many years already, and saying nothing true",
+          "quote": "I fear them more than Anytus and the rest"
+        },
+        {
+          "paragraph_id": "p-576e82",
+          "quote": "many enmities have arisen against me, and such as are most harsh and grievous, so that many prejudices have resulted from them and I am called a wise man"
+        },
+        {
+          "paragraph_id": "p-5be7b9",
+          "quote": "great hatred has arisen against me and in the minds of many persons. And this it is which will cause my condemnation, if it is to cause it, not Meletus or Anytus, but the prejudice and dislike of the many"
+        }
+      ],
+      "justification": "Socrates consistently distinguishes the formal legal accusation from the older, deeper popular prejudice that he regards as the real cause of his danger, making the sociology of reputation a central analytical concern."
+    },
+    {
+      "topic": "True and false teaching: sophists versus philosophy",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-0dc1ec",
+          "quote": "if one might be able to teach people, as Gorgias of Leontini and Prodicus of Ceos and Hippias of Elis are",
+          "quote": "that is not true either"
+        },
+        {
+          "paragraph_id": "p-19298a",
+          "quote": "Evenus, he said, Socrates, from Paros, five minae. And I called Evenus blessed, if he really had this art and taught so reasonably. I myself should be vain and put on airs, if I understood these things"
+        },
+        {
+          "paragraph_id": "p-a48177",
+          "quote": "I was never any one's teacher. If any one, whether young or old, wishes to hear me speaking and pursuing my mission, I have never objected"
+        }
+      ],
+      "justification": "Socrates explicitly contrasts the paid sophistic model of teaching virtue with his own unpaid practice of philosophical questioning, making the distinction between sophistry and philosophy a background theme throughout."
+    },
+    {
+      "topic": "Divine sign (daimonion) and inner conscience",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-90d879",
+          "quote": "something divine and spiritual comes to me, the very thing which Meletus ridiculed in his indictment. I have had this from my childhood; it is a sort of voice that comes to me, and when it comes it always holds me back from what I am thinking of doing, but never urges me forward"
+        },
+        {
+          "paragraph_id": "p-3b58fe",
+          "quote": "the customary prophetic monitor always spoke to me very frequently and opposed me even in very small matters, if I was going to do anything I should not; but now, as you yourselves see, this thing which might be thought, and is generally considered, the greatest of evils has come upon me; but the divine sign did not oppose me"
+        }
+      ],
+      "justification": "The daimonion — the inner divine voice — is a recurring motif explicitly named and explained by Socrates, functioning as personal moral guidance distinct from both the oracle and conventional piety."
+    },
+    {
+      "topic": "Justice, injustice, and the moral limits of self-preservation",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-5b5a36",
+          "quote": "I do know that it is evil and disgraceful to do wrong and to disobey him who is better than I, whether he be god or man"
+        },
+        {
+          "paragraph_id": "p-a7e10a",
+          "quote": "I thought I must run the risk to the end with law and justice on my side, rather than join with you when your wishes were unjust, through fear of imprisonment or death"
+        },
+        {
+          "paragraph_id": "p-92dd99",
+          "quote": "it is not hard to escape death; it is much harder to escape wickedness, for that runs faster than death"
+        }
+      ],
+      "justification": "The implicit philosophical claim running through the Leon episode, the Achilles parallel, and the closing prophecy is that moral integrity constitutes a higher obligation than self-preservation — a Socratic axiom stated most starkly in p-92dd99."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Clouds",
+      "cited_author": "Aristophanes",
+      "stance": "refute",
+      "paragraph_id": "p-0dc1ec",
+      "quote": "For you yourselves saw these things in Aristophanes' comedy, a Socrates being carried about there, proclaiming that he was treading on air and uttering a vast deal of other nonsense, about which I know nothing, either much or little",
+      "justification": "Socrates explicitly names Aristophanes' comedy as the source of the false popular image of him as a natural philosopher, and distances himself from its portrayal."
+    },
+    {
+      "cited_work": "Works of Anaxagoras (untitled books)",
+      "cited_author": "Anaxagoras",
+      "stance": "refute",
+      "paragraph_id": "p-02ddea",
+      "quote": "the books of Anaxagoras the Clazomenian are full of such utterances? And forsooth the youth learn these doctrines from me, which they can buy sometimes (if the price is high) for a drachma in the orchestra",
+      "justification": "Socrates cites the widely available books of Anaxagoras to refute Meletus's charge that Socrates teaches the sun is a stone and the moon earth — those doctrines belong to Anaxagoras, not Socrates."
+    },
+    {
+      "cited_work": "Iliad (implied Homeric epic)",
+      "cited_author": "Homer",
+      "stance": "authority",
+      "paragraph_id": "p-5be7b9",
+      "quote": "Straightway may I die, after doing vengeance upon the wrongdoer, that I may not stay here, jeered at beside the curved ships, a burden of the earth",
+      "justification": "Socrates quotes the Achilles speech — attributable to the Iliad — as an authoritative model of preferring honourable death to survival in disgrace, directly parallel to his own situation."
+    },
+    {
+      "cited_work": "Homeric tradition / Odyssey or related epics (implied)",
+      "cited_author": "Homer",
+      "stance": "authority",
+      "paragraph_id": "p-d56487",
+      "quote": "I am, as Homer has it, not born of an oak or a rock, but of human parents",
+      "justification": "Socrates explicitly names Homer as the source of the phrase, using it as an authoritative literary expression to assert his ordinary human origins and therefore his possession of family."
+    }
+  ]
+}

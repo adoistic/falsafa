@@ -1,0 +1,301 @@
+{
+  "slug": "unknown-yajnavalkya-smrti-cb88d6",
+  "window": "02:0-239",
+  "entities": [
+    {
+      "canonical_name": "King",
+      "surface_names": ["king", "the king"],
+      "kind": "figure",
+      "figure_kind": "ruler",
+      "mentions": [
+        {"paragraph_id": "p-8459f3", "quote": "The king, free from anger and greed, should look into legal disputes with learned Brāhmaṇas", "role": "presiding authority over legal disputes"},
+        {"paragraph_id": "p-bfa17d", "quote": "a Brāhmaṇa who knows all dharma should be appointed, along with the assessors", "role": "delegator of judicial authority"},
+        {"paragraph_id": "p-5e6eaf", "quote": "A king, having found a treasure, should give half to Brāhmaṇas", "role": "duty-bound distributor of found treasure"},
+        {"paragraph_id": "p-f11262", "quote": "the king should have all ordeals performed in the presence of himself and of Brāhmaṇas", "role": "overseer of ordeals"},
+        {"paragraph_id": "p-0f8071", "quote": "The king, having established a settlement in a town and settled Brāhmaṇas there", "role": "state founder and patron of Brāhmaṇas"}
+      ],
+      "description": "The sovereign ruler responsible for administering justice, adjudicating disputes, overseeing ordeals, and protecting subjects' property and welfare.",
+      "justification": "The king appears throughout the window as the central enforcer of dharma-based legal procedure, from appointing court assessors to conducting ordeals and settling inheritance disputes."
+    },
+    {
+      "canonical_name": "Brāhmaṇa",
+      "surface_names": ["Brāhmaṇa", "Brāhmaṇas", "Brahmin", "learned Brāhmaṇas"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-8459f3", "quote": "The king, free from anger and greed, should look into legal disputes with learned Brāhmaṇas", "role": "legal advisors to the king"},
+        {"paragraph_id": "p-87b634", "quote": "False witnesses should be punished separately with a fine double the amount in dispute; a Brāhmaṇa, however, is to be banished", "role": "exempt from monetary punishment, banished instead"},
+        {"paragraph_id": "p-5e6eaf", "quote": "A king, having found a treasure, should give half to Brāhmaṇas. If a Brāhmaṇa finds it, a learned one may take the whole", "role": "privileged recipient of treasure"},
+        {"paragraph_id": "p-6af4b8", "quote": "The sons of a Brāhmaṇa by wives of different varṇas shall have shares of four, three, two, and one, in order", "role": "head of varṇa-differentiated inheritance shares"},
+        {"paragraph_id": "p-bfa17d", "quote": "a Brāhmaṇa who knows all dharma should be appointed, along with the assessors", "role": "judicial proxy for absent king"}
+      ],
+      "description": "The priestly varna occupying the highest position in the fourfold social order, accorded special privileges in legal procedure, inheritance, ordeals, and the settlement of disputes.",
+      "justification": "Brāhmaṇas receive distinctive legal treatment throughout the chapter, including exemption from corporal punishment, preferred inheritance shares, and appointment as judges."
+    },
+    {
+      "canonical_name": "Dharmaśāstra",
+      "surface_names": ["Dharmaśāstra", "Smṛti", "Smṛtis"],
+      "kind": "object",
+      "mentions": [
+        {"paragraph_id": "p-8459f3", "quote": "in accordance with the Dharmaśāstra", "role": "normative legal authority invoked by the king"},
+        {"paragraph_id": "p-86ba60", "quote": "Assessors who act contrary to Smṛti out of passion, greed, or fear", "role": "standard of judicial conduct"},
+        {"paragraph_id": "p-048b9a", "quote": "it is the established rule that Dharmaśāstra is more powerful than Arthaśāstra", "role": "hierarchically superior normative text"}
+      ],
+      "description": "The body of sacred legal-moral literature (including Smṛtis) that provides the authoritative basis for judicial decisions and social conduct.",
+      "justification": "Dharmaśāstra is explicitly named as the source of legal authority superior to Arthaśāstra, and Smṛti is cited as the benchmark against which judicial misconduct is measured."
+    },
+    {
+      "canonical_name": "Arthaśāstra",
+      "surface_names": ["Arthaśāstra"],
+      "kind": "object",
+      "mentions": [
+        {"paragraph_id": "p-048b9a", "quote": "it is the established rule that Dharmaśāstra is more powerful than Arthaśāstra", "role": "subordinate normative-political text"}
+      ],
+      "description": "The treatise on statecraft and political economy, acknowledged as a source of legal reasoning but subordinate to the Dharmaśāstra in normative authority.",
+      "justification": "The text explicitly ranks Arthaśāstra below Dharmaśāstra when the two conflict in legal matters, marking it as a recognized but secondary authority."
+    },
+    {
+      "canonical_name": "Varuṇa",
+      "surface_names": ["Varuṇa"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-b37ea0", "quote": "Having made the accused utter the imprecation, 'O Varuṇa, protect me with truth,' he should enter the water", "role": "divine guardian invoked in the water ordeal"}
+      ],
+      "description": "The Vedic deity of cosmic order, truth, and waters, invoked during the ordeal by water as a divine witness and protector of truth.",
+      "justification": "Varuṇa is directly addressed in the ritual imprecation before the water ordeal, linking the deity to the juridical-cosmic function of upholding truth in legal proceedings."
+    },
+    {
+      "canonical_name": "Brahmā",
+      "surface_names": ["Brahmā"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-d6525f", "quote": "O Poison, you are the son of Brahmā, established in the dharma of truth", "role": "divine progenitor of poison, associated with dharma and truth"}
+      ],
+      "description": "The creator deity in the Hindu triad, invoked as the divine origin of poison in the ritual imprecation of the ordeal by poison.",
+      "justification": "Brahmā is named as the progenitor of the poison used in the ordeal, framing the ordeal as a cosmologically grounded truth-testing mechanism."
+    },
+    {
+      "canonical_name": "Fire (Agni)",
+      "surface_names": ["Fire", "O Fire", "Purifier"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-25ce73", "quote": "O Fire, you move within all beings, O Purifier. Like a witness to merit and sin, speak the truth to me, O wise one", "role": "divine witness to truth and sin in the fire ordeal"}
+      ],
+      "description": "Agni, the Vedic fire deity, invoked during the ordeal by fire as an omniscient witness to dharma, merit, and sin.",
+      "justification": "Fire is directly addressed in the ritualized speech before the ordeal, positioning it as a divine juridical witness present within all living beings."
+    },
+    {
+      "canonical_name": "Sarasvatī",
+      "surface_names": ["Sarasvatī"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-5cd0fa", "quote": "for its purification, a sacrificial porridge to Sarasvatī must be offered by the twice-born", "role": "deity to whom purificatory sacrifice is offered after false testimony"}
+      ],
+      "description": "The goddess of speech, knowledge, and wisdom, to whom a purificatory offering is prescribed for twice-born persons who have given false testimony to save a life.",
+      "justification": "Sarasvatī is explicitly named as the recipient of an expiatory porridge offering, signaling her connection to speech, testimony, and its ritual purification."
+    },
+    {
+      "canonical_name": "Balance (ordeal instrument)",
+      "surface_names": ["Balance", "the balance", "O Balance", "O Mother"],
+      "kind": "object",
+      "mentions": [
+        {"paragraph_id": "p-fe3f7b", "quote": "O Balance, you are the abode of truth, created of old by the gods. Therefore, speak the truth, O auspicious one", "role": "divinely created instrument of truth in the balance ordeal"},
+        {"paragraph_id": "p-b3da02", "quote": "If I am a sinner, O Mother, then take me down; if I am pure, then carry me upwards", "role": "addressed as a maternal divine judge"}
+      ],
+      "description": "The weighing scale used in the ordeal by balance, addressed as a divine, truth-discerning entity created by the gods.",
+      "justification": "The balance is addressed with a direct invocation treating it as a divine sentient being whose movement reveals guilt or innocence, making it a ritually active judicial instrument."
+    },
+    {
+      "canonical_name": "Śārṅga poison",
+      "surface_names": ["Śārṅga poison"],
+      "kind": "object",
+      "mentions": [
+        {"paragraph_id": "p-40d69a", "quote": "he should eat the Śārṅga poison from the Himalayan mountains; he whose body digests it without ill effects, his purity should be declared", "role": "substance used in ordeal by poison"}
+      ],
+      "description": "A specific poison sourced from the Himalayan mountains and used in the ordeal by poison to determine truth through bodily reaction.",
+      "justification": "Śārṅga poison from the Himalayas is named as the exact substance employed in the poison ordeal, and its digestion without harm proves the accused's innocence."
+    },
+    {
+      "canonical_name": "Himalayan mountains",
+      "surface_names": ["Himalayan mountains", "Himalayas"],
+      "kind": "place",
+      "mentions": [
+        {"paragraph_id": "p-40d69a", "quote": "he should eat the Śārṅga poison from the Himalayan mountains", "role": "geographic source of the ordeal poison"}
+      ],
+      "description": "The mountain range in northern India identified as the provenance of the Śārṅga poison used in the ordeal by poison.",
+      "justification": "The Himalayan mountains are explicitly cited as the origin of the specific poison prescribed for the ordeal, giving it geographical grounding."
+    },
+    {
+      "canonical_name": "Aśvattha (tree)",
+      "surface_names": ["Aśvattha leaves"],
+      "kind": "object",
+      "mentions": [
+        {"paragraph_id": "p-6a3ea4", "quote": "one should place seven Aśvattha leaves on them and wrap them with a thread", "role": "ritual material used in the fire ordeal preparation"}
+      ],
+      "description": "The sacred fig tree (Ficus religiosa), whose leaves are placed on the accused's hands as a ritual preparation for the fire ordeal.",
+      "justification": "Aśvattha leaves are specified by name as part of the ritual procedure for the fire ordeal, indicating their sacred protective or apotropaic role."
+    },
+    {
+      "canonical_name": "Kṣatriya",
+      "surface_names": ["Kṣatriya"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-6af4b8", "quote": "the sons of a Kṣatriya, three, two, and one", "role": "second varna whose sons receive varṇa-differentiated inheritance shares"}
+      ],
+      "description": "The warrior-ruler varna, second in the fourfold social hierarchy, whose sons' inheritance shares are distributed proportionally across sub-varṇa unions.",
+      "justification": "Kṣatriyas are explicitly named alongside Brāhmaṇas and Vaiśyas in the rule for inheritance shares of sons born to fathers of these varṇas by wives of different classes."
+    },
+    {
+      "canonical_name": "Vaiśya",
+      "surface_names": ["Vaiśya"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-6af4b8", "quote": "the sons of a Vaiśya, two and one", "role": "third varna in inheritance share distribution"}
+      ],
+      "description": "The merchant-cultivator varna, third in the fourfold social hierarchy, referenced in the proportional inheritance rules for sons of inter-varṇa unions.",
+      "justification": "Vaiśya is named in the inheritance-share verse as the third varṇa category whose sons receive shares in a two-to-one ratio."
+    },
+    {
+      "canonical_name": "Śūdra",
+      "surface_names": ["Śūdra"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-c11b18", "quote": "fire or water is for a Śūdra, or seven grains of poison", "role": "lowest varna assigned specific ordeal types"},
+        {"paragraph_id": "p-501cdc", "quote": "Slavery is in the direct order of the varṇas, not in the reverse order", "role": "last in the varna order for permissible servitude"}
+      ],
+      "description": "The servant varna, lowest in the fourfold social hierarchy, who are assigned specific ordeal types and are the natural subject of the slavery rules.",
+      "justification": "Śūdras are distinguished by the ordeals prescribed for them (fire, water, or poison) and implicitly occupy the end-point of the varṇa-ordered slavery rule."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Procedural justice and the four-footed lawsuit",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-20b9d5", "quote": "This four-footed legal procedure is shown in disputes"},
+        {"paragraph_id": "p-8459f3", "quote": "The king, free from anger and greed, should look into legal disputes with learned Brāhmaṇas, in accordance with the Dharmaśāstra"}
+      ],
+      "justification": "The chapter opens by laying out a systematic legal procedure (plaint, reply, proof, judgment) as the normative framework for all dispute resolution."
+    },
+    {
+      "topic": "Hierarchy of legal authority: Dharmaśāstra over Arthaśāstra over custom",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-048b9a", "quote": "In a conflict between two Smṛtis, reason based on custom is stronger in legal matters. But it is the established rule that Dharmaśāstra is more powerful than Arthaśāstra"}
+      ],
+      "justification": "The text establishes an explicit normative hierarchy among legal sources, resolving conflicts between sacred law texts, political science texts, and custom."
+    },
+    {
+      "topic": "Debt and credit regulation",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-286928", "quote": "An eightieth part is the interest per month when there is a pledge; otherwise, it is two, three, four, or five percent, according to the order of the varṇas"},
+        {"paragraph_id": "p-762113", "quote": "A debt contracted for the sake of the family by undivided members must be paid by the heirs when the head of the family is dead"}
+      ],
+      "justification": "A major section of the chapter is devoted to detailed rules on interest rates, debt recovery, suretyship, and the transmission of debt obligations across generations."
+    },
+    {
+      "topic": "Ordeals as divine juridical instruments",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-357a68", "quote": "The balance, fire, water, poison, and sacred libation are the ordeals here for purification"},
+        {"paragraph_id": "p-fe3f7b", "quote": "O Balance, you are the abode of truth, created of old by the gods. Therefore, speak the truth, O auspicious one"}
+      ],
+      "justification": "The ordeal section frames natural and crafted substances as divinely animated truth-detectors, blending ritual theology with judicial procedure."
+    },
+    {
+      "topic": "Varṇa-differentiated legal treatment",
+      "implicit": true,
+      "mentions": [
+        {"paragraph_id": "p-87b634", "quote": "False witnesses should be punished separately with a fine double the amount in dispute; a Brāhmaṇa, however, is to be banished"},
+        {"paragraph_id": "p-c11b18", "quote": "fire or water is for a Śūdra, or seven grains of poison"},
+        {"paragraph_id": "p-286928", "quote": "it is two, three, four, or five percent, according to the order of the varṇas"}
+      ],
+      "justification": "Throughout the chapter, legal penalties, interest rates, ordeal types, and inheritance shares vary systematically by varṇa, embedding caste hierarchy into the legal code."
+    },
+    {
+      "topic": "Inheritance, partition, and the twelve types of sons",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-735439", "quote": "The aurasa is born of a lawful wife; equal to him is the putrikāsuta, the son of an appointed daughter. The kṣetraja is one begotten on the wife's field by a kinsman"},
+        {"paragraph_id": "p-24be00", "quote": "After the death of the parents, the sons should divide the assets and debts equally"}
+      ],
+      "justification": "A substantial portion of the chapter enumerates twelve recognized categories of sons and their respective inheritance entitlements, reflecting the legal importance of patrilineal succession."
+    },
+    {
+      "topic": "Strīdhana (women's property) and marital property rights",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-418cd5", "quote": "What is given by the father, mother, husband, or brother, what is received at the nuptial fire, and the gift on supersession and the like, is declared to be strīdhana"},
+        {"paragraph_id": "p-3df8e5", "quote": "The strīdhana of a childless woman married in one of the four forms beginning with the Brāhma goes to her husband"}
+      ],
+      "justification": "The text systematically defines strīdhana, its various sources, and its transmission rules upon death or marriage dissolution, marking women's property as a distinct legal category."
+    },
+    {
+      "topic": "Documentary evidence and legal formalism",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-e6e133", "quote": "Proof is declared to be a document, possession, and witnesses"},
+        {"paragraph_id": "p-777ef3", "quote": "When any matter is settled by mutual consent, a document with witnesses should be made, on which the creditor's name is written first"}
+      ],
+      "justification": "The chapter gives extensive attention to the preparation, authentication, and evidentiary weight of written documents in legal proceedings, reflecting an emerging legal formalism."
+    },
+    {
+      "topic": "Truth, perjury, and karmic consequences of false testimony",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-574029", "quote": "Whatever worlds are for those who commit sins and for those who commit great sins"},
+        {"paragraph_id": "p-2034fe", "quote": "Whatever merit you have acquired in hundreds of past lives, know that all of it goes to him whom you falsely cause to be defeated"}
+      ],
+      "justification": "The witness section frames perjury not merely as a legal offense but as a karmically catastrophic act, invoking the loss of accumulated merit across lifetimes."
+    },
+    {
+      "topic": "Property, possession, and the limits of prescriptive rights",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-a9d1a2", "quote": "The loss of land occurs after twenty years of it being enjoyed by another while the owner looks on without protest"},
+        {"paragraph_id": "p-e9236b", "quote": "Title is superior to possession, unless the possession has come down through successive generations"}
+      ],
+      "justification": "The chapter develops a nuanced doctrine of title versus possession, including prescriptive periods and exceptions, reflecting sophisticated thinking about property rights."
+    },
+    {
+      "topic": "Corporate and associational governance",
+      "implicit": true,
+      "mentions": [
+        {"paragraph_id": "p-31419f", "quote": "Corporations, guilds, and families, when authorized by the king, are to be known as successively more authoritative in the administration of justice for men"},
+        {"paragraph_id": "p-4e313c", "quote": "This same rule applies to guilds, corporations, heretical sects, and other associations; the king should protect them from one another"}
+      ],
+      "justification": "The text implicitly recognizes guilds, corporations, and associations as legally constituted bodies with their own authority structures nested within royal sovereignty."
+    },
+    {
+      "topic": "Ritual purification and the sacred grounding of legal acts",
+      "implicit": true,
+      "mentions": [
+        {"paragraph_id": "p-5cd0fa", "quote": "for its purification, a sacrificial porridge to Sarasvatī must be offered by the twice-born"},
+        {"paragraph_id": "p-25ce73", "quote": "O Fire, you move within all beings, O Purifier. Like a witness to merit and sin, speak the truth to me, O wise one"}
+      ],
+      "justification": "The chapter implicitly treats certain legal violations (false testimony, necessary lies) as ritual impurities requiring sacrificial atonement, not merely civic penalties."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Dharmaśāstra",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-8459f3",
+      "quote": "in accordance with the Dharmaśāstra",
+      "justification": "The Dharmaśāstra is invoked as the primary normative authority governing the king's conduct of legal proceedings."
+    },
+    {
+      "cited_work": "Arthaśāstra",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-048b9a",
+      "quote": "it is the established rule that Dharmaśāstra is more powerful than Arthaśāstra",
+      "justification": "The Arthaśāstra is cited as a recognized but subordinate legal authority in cases of conflict with Dharmaśāstra."
+    }
+  ]
+}

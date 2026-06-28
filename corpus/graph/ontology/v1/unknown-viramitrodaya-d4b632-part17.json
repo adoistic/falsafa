@@ -1,0 +1,968 @@
+{
+  "slug": "unknown-viramitrodaya-d4b632",
+  "window": "01:3537-3907",
+  "entities": [
+    {
+      "canonical_name": "Laugākṣi",
+      "surface_names": ["Laugākṣi"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-b878d7",
+          "quote": "This is from the statement of Laugākṣi.",
+          "role": "cited authority on performing the first śrāddha on the eleventh day"
+        },
+        {
+          "paragraph_id": "p-cc33c1",
+          "quote": "this verse of Laugākṣi did not exist",
+          "role": "cited authority whose verse mandates the water-pot offering for a year after early Sapiṇḍīkaraṇa"
+        }
+      ],
+      "description": "A smṛti authority cited repeatedly for rulings on the timing of the first śrāddha and the obligation to continue monthly rites after early Sapiṇḍīkaraṇa.",
+      "justification": "Laugākṣi is explicitly named as the source of binding textual statements on śrāddha timing at paragraphs p-b878d7 and p-cc33c1."
+    },
+    {
+      "canonical_name": "Kauthumi",
+      "surface_names": ["Kauthumi"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-60ee53",
+          "quote": "And from this recollection of Kauthumi.",
+          "role": "cited authority on monthly rites during an intercalary year"
+        }
+      ],
+      "description": "A smṛti authority whose teaching on the thirteen-month year and the monthly śrāddha sequence is cited.",
+      "justification": "Kauthumi is named as the source of the recollection about śrāddha performance when the year has an extra month (p-60ee53)."
+    },
+    {
+      "canonical_name": "Jātūkarṇya",
+      "surface_names": ["Jātūkarṇya"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-e6ecf0",
+          "quote": "The twelve monthly rites, the first, and the two six-monthly, likewise, / and the Sapiṇḍīkaraṇa; this is the sixteen-fold śrāddha.",
+          "role": "cited for the enumeration of the sixteen śrāddhas"
+        },
+        {
+          "paragraph_id": "p-273dc0",
+          "quote": "And from this statement of Jātūkarṇya.",
+          "role": "cited for rules on the timing of fixed rites after the traipakṣika"
+        }
+      ],
+      "description": "A smṛti authority cited for his enumeration of the sixteen śrāddhas and for the distinction between death-day-reckoned and cremation-day-reckoned rites.",
+      "justification": "Jātūkarṇya is named at p-28a45f as the speaker of the verse enumerating the sixteen śrāddhas, and again at p-273dc0 for a ruling on the death anniversary."
+    },
+    {
+      "canonical_name": "Paiṭhīnasī",
+      "surface_names": ["Paiṭhīnasī"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-ea1d26",
+          "quote": "This is from the statement of Paiṭhīnasī.",
+          "role": "cited for the rule that sixteen śrāddhas must precede Sapiṇḍīkaraṇa"
+        },
+        {
+          "paragraph_id": "p-99a31e",
+          "quote": "Paiṭhīnasī says: \"At the end of a year is the dismissal; in the ninth month, say some.\"",
+          "role": "cited for the end-of-year timing of the Sapiṇḍīkaraṇa"
+        }
+      ],
+      "description": "A smṛti authority invoked for the sequence rule that Sapiṇḍīkaraṇa must follow the sixteen śrāddhas, and for timing variants of the Sapiṇḍīkaraṇa.",
+      "justification": "Paiṭhīnasī is explicitly named at p-ea1d26 and p-99a31e as the source of two distinct rulings on Sapiṇḍīkaraṇa."
+    },
+    {
+      "canonical_name": "Gobhila",
+      "surface_names": ["Gobhila"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-29c5c9",
+          "quote": "And from the statement of Gobhila, the Sapiṇḍīkaraṇa, etc., are separate from the sixteen śrāddhas.",
+          "role": "cited as authority that Sapiṇḍīkaraṇa is outside the sixteen"
+        },
+        {
+          "paragraph_id": "p-8b280d",
+          "quote": "On a Nandā tithi, on Fridays, on Caturdaśī, in the three birth-stars, / from the eleventh day onwards, an ekoddiṣṭa is not prohibited.",
+          "role": "cited for the permitted times for ekoddiṣṭa śrāddha"
+        },
+        {
+          "paragraph_id": "p-9865ff",
+          "quote": "The Sapiṇḍīkaraṇa, if not performed at the times of the twelve days, etc., due to carelessness, / one should perform at the succeeding prescribed times.",
+          "role": "cited for the secondary timing options when Sapiṇḍīkaraṇa is missed"
+        }
+      ],
+      "description": "A major smṛti authority cited for the independence of Sapiṇḍīkaraṇa from the sixteen śrāddhas, for prohibited and permitted tithi rules, and for secondary timing of Sapiṇḍīkaraṇa.",
+      "justification": "Gobhila is named at p-29c5c9, p-3dff7f (as the speaker of the verse at p-8b280d), and p-fc88a6 (as the speaker of the verse at p-9865ff)."
+    },
+    {
+      "canonical_name": "Śaṅkha",
+      "surface_names": ["Śaṅkha"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-46542b",
+          "quote": "The first śrāddha, even if impure, one should perform on the eleventh day. / The purity of the agent is for that month.",
+          "role": "cited for performing the eleventh-day śrāddha even during impurity"
+        }
+      ],
+      "description": "A smṛti authority cited for the rule that the first śrāddha on the eleventh day is obligatory even in a state of ritual impurity.",
+      "justification": "Śaṅkha is named at p-7525d5 as the speaker of the verse at p-46542b on performing the first śrāddha during impurity."
+    },
+    {
+      "canonical_name": "Kātyāyana",
+      "surface_names": ["Kātyāyana"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-007252",
+          "quote": "The śrāddha for one with fires should be performed on the eleventh day from the cremation. / The fixed rites, however, one should always perform from the day of death.",
+          "role": "cited for cremation-day reckoning versus death-day reckoning"
+        },
+        {
+          "paragraph_id": "p-9e3f86",
+          "quote": "Having performed the vṛddhi rite, one should not perform the monthly rites together. / The death would not be new if a death occurred before the vṛddhi.",
+          "role": "cited for the prohibition on performing monthly śrāddhas immediately after a vṛddhi rite"
+        },
+        {
+          "paragraph_id": "p-cae177",
+          "quote": "Having completed the eleventh-day rite, before the new moon day, according to the rules, / a Brahmin who has established the sacred fires should perform the Sapiṇḍīkaraṇa.",
+          "role": "cited for the timing of Sapiṇḍīkaraṇa by a sacrificer who maintains sacred fires"
+        }
+      ],
+      "description": "A smṛti authority cited for multiple rulings: the distinction between cremation-day and death-day reckoning of śrāddhas, the prohibition after vṛddhi rites, and the timing of Sapiṇḍīkaraṇa for those who maintain fires.",
+      "justification": "Kātyāyana is named at p-3642 (speaker of p-007252), p-3643 (speaker of p-9e3f86), and p-3819 (speaker of p-cae177)."
+    },
+    {
+      "canonical_name": "Kaṇva",
+      "surface_names": ["Kaṇva"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-a33cff",
+          "quote": "Whatever navaśrāddha or monthly rite has been interrupted, / that should be performed together with the succeeding one.",
+          "role": "cited for the rule on making up interrupted śrāddhas"
+        }
+      ],
+      "description": "A smṛti authority cited for the rule that an interrupted monthly or new-death śrāddha should be performed together with the next one.",
+      "justification": "Kaṇva is named at p-058f31 as the speaker of the verse at p-a33cff on interrupted śrāddhas."
+    },
+    {
+      "canonical_name": "Ṛṣyaśṛṅga",
+      "surface_names": ["Ṛṣyaśṛṅga"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-1567a5",
+          "quote": "When the year is in excess, the months are thirteen. / Therefore, in the thirteenth, one should not perform a śrāddha; it does not reach.",
+          "role": "cited for the prohibition of the thirteenth monthly śrāddha in an intercalary year"
+        },
+        {
+          "paragraph_id": "p-c3867e",
+          "quote": "When an ekoddiṣṭa has arrived, if an obstruction should arise, / in another month, on that tithi, one should perform it.",
+          "role": "cited for the rule on performing an obstructed ekoddiṣṭa in the next month"
+        }
+      ],
+      "description": "A smṛti authority cited for the prohibition of the thirteenth monthly śrāddha in an intercalary year and for the rescheduling of an obstructed ekoddiṣṭa.",
+      "justification": "Ṛṣyaśṛṅga is named at p-74d11f as the source of the verse at p-1567a5, and at p-820de0 as the speaker of the verse at p-c3867e."
+    },
+    {
+      "canonical_name": "Hārīta",
+      "surface_names": ["Hārīta", "Laghu Hārīta"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-ebaf24",
+          "quote": "The rites for the deceased, which are the sixteen śrāddhas, / should be performed at their proper time; otherwise, one is not released from that impurity.",
+          "role": "cited for the injunction to perform the sixteen śrāddhas at their proper times"
+        },
+        {
+          "paragraph_id": "p-d77e99",
+          "quote": "A brother, or a brother's son, or a sapiṇḍa, or a disciple, / having performed the rite of joining the piṇḍas, should perform the auspicious rite.",
+          "role": "cited for the eligible performers of the Sapiṇḍīkaraṇa"
+        }
+      ],
+      "description": "A smṛti authority cited both for the general duty to perform the sixteen śrāddhas on time and, in his 'Laghu' recension, for the eligible performers of the Sapiṇḍīkaraṇa.",
+      "justification": "Hārīta is named at p-71c92d as the source of the verse at p-ebaf24, and Laghu Hārīta at p-8c7fba as the source of the verse at p-d77e99."
+    },
+    {
+      "canonical_name": "Vijñāneśvara",
+      "surface_names": ["Vijñāneśvara"],
+      "kind": "figure",
+      "figure_kind": "scholar",
+      "mentions": [
+        {
+          "paragraph_id": "p-fc8914",
+          "quote": "This is from a recollection, says Vijñāneśvara.",
+          "role": "cited as a secondary authority corroborating the rule for ekoddiṣṭa procedure"
+        },
+        {
+          "paragraph_id": "p-2a276f",
+          "quote": "when the definition of śrāddha is as stated by Vijñāneśvara—\"śrāddha is the offering of a substance with faith, with the deceased as the recipient\"",
+          "role": "cited for the definition of śrāddha"
+        }
+      ],
+      "description": "A medieval commentator and Dharmaśāstra author whose definition of śrāddha and textual citations are used to adjudicate between competing smṛti positions.",
+      "justification": "Vijñāneśvara is named at p-fc8914 and p-2a276f as an interpretive authority whose definitions and citations bear on the digest's arguments."
+    },
+    {
+      "canonical_name": "Gārgya",
+      "surface_names": ["Gārgya"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-c38594",
+          "quote": "On a Nandā tithi, on the day of Bhārgava, on Caturdaśī, in a Tripuṣkara, / a householder should not perform an ūnamāsika.",
+          "role": "cited for prohibited tithis for the ūnamāsika and ūnaṣāṇmāsika"
+        },
+        {
+          "paragraph_id": "p-fce875",
+          "quote": "On a Nandā tithi, on the day of Bhārgava, on Caturdaśī, in a Tripuṣkara, / a householder should not perform a śrāddha for the deceased.",
+          "role": "cited for prohibited tithis for the śrāddha for the deceased"
+        }
+      ],
+      "description": "A smṛti authority cited for two overlapping lists of prohibited tithis and astral conjunctions for the ūnamāsika and the śrāddha for the deceased.",
+      "justification": "Gārgya is named at p-3dff7f (speaker of p-c38594) and p-ba5dbf (speaker of p-fce875) as the source of these prohibitory rules."
+    },
+    {
+      "canonical_name": "Marīci",
+      "surface_names": ["Marīci"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-543fb5",
+          "quote": "The primary śrāddha is month by month; if that is not possible, for each season. / Or one should perform them in twelve days.",
+          "role": "cited for the primary, secondary, and tertiary options for monthly śrāddha performance"
+        },
+        {
+          "paragraph_id": "p-3ac408",
+          "quote": "In a Dvipuṣkara, on Nandā tithis, on Sinīvālī, on the day of Bhṛgu, / on Caturdaśī, and in Kṛttikā and Tripuṣkara, a śrāddha for the deceased should not be performed.",
+          "role": "cited for the list of prohibited times for the śrāddha for the deceased"
+        }
+      ],
+      "description": "A smṛti authority cited for the hierarchy of options for monthly śrāddha timing and for the list of inauspicious astral conjunctions prohibited for the śrāddha for the deceased.",
+      "justification": "Marīci is named at p-c6c0e6 (speaker of p-543fb5) and p-79de0d (speaker of p-3ac408)."
+    },
+    {
+      "canonical_name": "Aṅgirāḥ",
+      "surface_names": ["Aṅgirāḥ"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-88eeb8",
+          "quote": "He for whom the Sapiṇḍīkaraṇa has been performed before a year, / the monthly rite and the water-pot should be given for him for a year.",
+          "role": "cited for the obligation of continuing monthly rites after an early Sapiṇḍīkaraṇa"
+        }
+      ],
+      "description": "A smṛti authority cited for the rule that monthly rites and water-pot offerings must continue for a full year even when Sapiṇḍīkaraṇa has been performed before the year is complete.",
+      "justification": "Aṅgirāḥ is named at p-f51a94 as the speaker of the verse at p-88eeb8."
+    },
+    {
+      "canonical_name": "Gālava",
+      "surface_names": ["Gālava"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-2fc3e9",
+          "quote": "He for whom the Sapiṇḍīkaraṇa has been performed before a year, / should perform a repetition of the sixteen; thus say the teachers.",
+          "role": "cited for the obligation to repeat the sixteen śrāddhas after an early Sapiṇḍīkaraṇa"
+        }
+      ],
+      "description": "A smṛti authority cited for the obligation to perform a second round of the sixteen śrāddhas when Sapiṇḍīkaraṇa is conducted before the year is complete.",
+      "justification": "Gālava is named at p-5f2ccf as the speaker of the verse at p-2fc3e9."
+    },
+    {
+      "canonical_name": "Kārṣṇājini",
+      "surface_names": ["Kārṣṇājini"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-c61094",
+          "quote": "Wherever the Sapiṇḍīkaraṇa has been performed before a year, / after that, the performance of the monthly rites would only be those that are left from the sixteen.",
+          "role": "cited for a special rule limiting post-Sapiṇḍīkaraṇa monthly rites to those still due"
+        },
+        {
+          "paragraph_id": "p-c99e72",
+          "quote": "Even those performed by postponement before the Sapiṇḍīkaraṇa / are postponed again, because of the prohibition after the Sapiṇḍīkaraṇa.",
+          "role": "cited for the double postponement rule around the Sapiṇḍīkaraṇa"
+        }
+      ],
+      "description": "A smṛti authority cited for special rules restricting and re-postponing monthly rites in relation to an early Sapiṇḍīkaraṇa.",
+      "justification": "Kārṣṇājini is named at p-f09fb9 (speaker of p-c61094) and p-85c175 (speaker of p-c99e72)."
+    },
+    {
+      "canonical_name": "Śāṭhyāyani",
+      "surface_names": ["Śāṭhyāyani"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-a2fc60",
+          "quote": "The remaining śrāddhas for the deceased, and the Sapiṇḍīkaraṇa likewise, / a twice-born who is to perform a nāndīmukha rite should postpone them.",
+          "role": "cited for the rule postponing śrāddhas and Sapiṇḍīkaraṇa when a nāndīmukha rite is imminent"
+        },
+        {
+          "paragraph_id": "p-07fb2b",
+          "quote": "All the śrāddhas for the deceased, and the Sapiṇḍīkaraṇa likewise, / a twice-born who is to perform a nāndīmukha rite should postpone them.",
+          "role": "cited again for the postponement rule on account of an auspicious rite"
+        }
+      ],
+      "description": "A smṛti authority cited for the rule that all śrāddhas for the deceased and the Sapiṇḍīkaraṇa must be postponed when an auspicious nāndīmukha rite is pending.",
+      "justification": "Śāṭhyāyani is named at p-eaac37 (speaker of p-a2fc60) and p-b75176 (speaker of p-07fb2b)."
+    },
+    {
+      "canonical_name": "Pāraskara",
+      "surface_names": ["Pāraskara"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-bfb22a",
+          "quote": "Pāraskara has also stated the offering of the piṇḍa here as an option: \"Day by day, he should give food to this Brahmin, and a pot of water; some also give a piṇḍa.\"",
+          "role": "cited for the option of offering a piṇḍa daily along with the water-pot"
+        }
+      ],
+      "description": "A Gṛhyasūtra authority cited for the option of including a piṇḍa offering in the daily water-pot rite during the year of mourning.",
+      "justification": "Pāraskara is named at p-bfb22a as the source of the daily food and water-pot rule with the piṇḍa option."
+    },
+    {
+      "canonical_name": "Yājñavalkya",
+      "surface_names": ["Yājñavalkya"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-dc878d",
+          "quote": "For whom the Sapiṇḍīkaraṇa is before a year, / for him too, a twice-born should give this with a water-pot for a year.",
+          "role": "cited as the primary authority that the water-pot must be given for a year even after early Sapiṇḍīkaraṇa"
+        }
+      ],
+      "description": "A foundational smṛti authority cited for the verse mandating that the water-pot offering must continue for a full year regardless of when the Sapiṇḍīkaraṇa is performed.",
+      "justification": "Yājñavalkya is named at p-b6668e as the author of the verse at p-dc878d, with the precise textual reference Yājñavalkya a. 1, śrā. pra. ślo. 255."
+    },
+    {
+      "canonical_name": "Jyotiḥ Parāśara",
+      "surface_names": ["Jyotiḥ Parāśara", "Parāśara"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-8263e6",
+          "quote": "In Sādhāraṇa, Dhruva, Ugra, and Maitra, it is not praised for men, / the rite for the deceased, in any way, in Tripuṣkara, etc.",
+          "role": "cited for the list of prohibited nakṣatras for the rites for the deceased"
+        }
+      ],
+      "description": "An astrological smṛti authority cited for the nakṣatra categories prohibited for the śrāddha for the deceased.",
+      "justification": "Jyotiḥ Parāśara is named at p-b61bd1 as the speaker of the verse at p-8263e6."
+    },
+    {
+      "canonical_name": "Kaśyapa",
+      "surface_names": ["Kaśyapa"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-0a8f67",
+          "quote": "Bharaṇī, Ārdrā, and Āśleṣā, and the three quarters of Mūla, / are very inauspicious in a rite for the deceased, and to be avoided.",
+          "role": "cited for specific nakṣatras to avoid in śrāddha for the deceased"
+        }
+      ],
+      "description": "A smṛti authority cited for specifying the nakṣatras Bharaṇī, Ārdrā, Āśleṣā, and Mūla as especially inauspicious for the śrāddha for the deceased.",
+      "justification": "Kaśyapa is named at p-b9bc3a as the speaker of the verse at p-0a8f67."
+    },
+    {
+      "canonical_name": "Vaijavāpa",
+      "surface_names": ["Vaijavāpa"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-11d390",
+          "quote": "If a rite for the deceased falls by chance on a Yugādi, Manvādi, saṅkrānti, or Darśa, / one should not examine the time at all.",
+          "role": "cited for the rule that auspicious calendar conjunctions override normal prohibitions for śrāddhas"
+        }
+      ],
+      "description": "A smṛti authority cited for the principle that Yugādi, Manvādi, saṅkrānti, and new-moon days override usual time-prohibitions for the śrāddha for the deceased.",
+      "justification": "Vaijavāpa is named at p-1463dd as the speaker of the verse at p-11d390."
+    },
+    {
+      "canonical_name": "Pulastya",
+      "surface_names": ["Pulastya"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-955190",
+          "quote": "One without fires should perform the rite of joining the piṇḍas for his father and mother, according to dharma.",
+          "role": "cited for the rule on Sapiṇḍīkaraṇa timing for a non-fire-keeper"
+        }
+      ],
+      "description": "A smṛti authority cited for the obligation of one who does not maintain the sacred fires to perform the Sapiṇḍīkaraṇa at the end of the year.",
+      "justification": "Pulastya is named at p-0fe812 as the speaker of the verse at p-955190."
+    },
+    {
+      "canonical_name": "Uśanā",
+      "surface_names": ["Uśanā"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-8bb6ae",
+          "quote": "The Sapiṇḍīkaraṇa of the father is on the annual death anniversary. / When the establishment of the fires, etc., is not possible, on the new moon of the first month, it is the time.",
+          "role": "cited for the end-of-year death anniversary as primary time for Sapiṇḍīkaraṇa"
+        }
+      ],
+      "description": "A smṛti authority cited for the primary timing of the Sapiṇḍīkaraṇa on the annual death anniversary and for alternatives when fire-establishment is not possible.",
+      "justification": "Uśanā is named at p-f01abb as the speaker of the verse at p-8bb6ae."
+    },
+    {
+      "canonical_name": "Sumantu",
+      "surface_names": ["Sumantu"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-660fbd",
+          "quote": "If the deceased has established the sacred fires, and the agent is without fires, / the Sapiṇḍīkaraṇa should be performed then in the third fortnight.",
+          "role": "cited for the third-fortnight rule when the agent lacks fires but the deceased had them"
+        },
+        {
+          "paragraph_id": "p-e72071",
+          "quote": "If the sacrificer has established the sacred fires, O king, and the deceased is without fires, / the Sapiṇḍīkaraṇa should be performed on the twelfth day.",
+          "role": "cited for the twelfth-day rule when the agent has fires but the deceased lacked them"
+        }
+      ],
+      "description": "A smṛti authority cited for two reciprocal rules governing the timing of Sapiṇḍīkaraṇa depending on whether the agent or the deceased maintained sacred fires.",
+      "justification": "Sumantu is named at p-b93cbe (speaker of p-660fbd) and p-fc3cd1 (speaker of p-e72071)."
+    },
+    {
+      "canonical_name": "Prajāpati",
+      "surface_names": ["Prajāpati"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-225d12",
+          "quote": "A son who has established the sacred fires should not perform the pitṛyajña without having performed the Sapiṇḍana. / Performing it before the new moon day, one should perform the pitṛyajña on the new moon day.",
+          "role": "cited as cosmic/divine authority for the sequence of Sapiṇḍana and pitṛyajña"
+        }
+      ],
+      "description": "The cosmic progenitor deity whose ruling in the Hemādri mandates that the Sapiṇḍana must precede the pitṛyajña on the new moon day.",
+      "justification": "Prajāpati is named at p-562dcf as the speaker of the verse in Hemādri at p-225d12."
+    },
+    {
+      "canonical_name": "Jābāli",
+      "surface_names": ["Jābāli"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-c94789",
+          "quote": "Whichever new moon day is the tenth from the day of death, / on it a son who has established the sacred fires should perform the Sapiṇḍīkaraṇa.",
+          "role": "cited for the tenth-day new-moon rule for Sapiṇḍīkaraṇa"
+        }
+      ],
+      "description": "A smṛti authority cited for the rule that a son who maintains the sacred fires should perform the Sapiṇḍīkaraṇa on whichever new moon falls on or after the tenth day from death.",
+      "justification": "Jābāli is named at p-d2c25a as the author of the verse at p-c94789."
+    },
+    {
+      "canonical_name": "Viṣṇu",
+      "surface_names": ["Viṣṇu"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-b6aaf7",
+          "quote": "Having performed the śrāddha like a monthly rite for twelve days, one should perform it on the thirteenth day.",
+          "role": "cited for the twelve-day concentration rule leading to Sapiṇḍīkaraṇa on the thirteenth day"
+        }
+      ],
+      "description": "A smṛti authority (the Viṣṇu Smṛti) cited for the twelve-day compressed rite schedule culminating in Sapiṇḍīkaraṇa on the thirteenth day.",
+      "justification": "Viṣṇu is named at p-8a083a and p-5bb0b7 as the source of the verse at p-b6aaf7."
+    },
+    {
+      "canonical_name": "Vyāghra",
+      "surface_names": ["Vyāghra"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-791218",
+          "quote": "Due to the infinity of family duties, and the shortness of men's lives, / and the instability of the body, the twelfth day is excellent.",
+          "role": "cited for the excellence of the twelfth day for Sapiṇḍīkaraṇa as a practical concession"
+        }
+      ],
+      "description": "A smṛti authority cited for the commendation of the twelfth day as an excellent secondary time for Sapiṇḍīkaraṇa given the realities of human life.",
+      "justification": "Vyāghra is named at p-74d3b0 as the speaker of the verse at p-791218."
+    },
+    {
+      "canonical_name": "Baudhāyana",
+      "surface_names": ["Baudhāyana"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-4f5fb5",
+          "quote": "Baudhāyana says: \"Now, when the year is complete, the Sapiṇḍīkaraṇa is in the third fortnight, in the third month, in the sixth, or in the eleventh, or on whichever day a vṛddhi would be.\"",
+          "role": "cited for the full list of permissible secondary times for Sapiṇḍīkaraṇa after the year-end"
+        }
+      ],
+      "description": "A major Dharmasūtra authority cited for the comprehensive list of secondary times at which Sapiṇḍīkaraṇa may be performed when the primary end-of-year time is missed.",
+      "justification": "Baudhāyana is named at p-4f5fb5 as the source of the statement listing tertiary timing options for Sapiṇḍīkaraṇa."
+    },
+    {
+      "canonical_name": "Śātātapa",
+      "surface_names": ["Śātātapa"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-76bd1a",
+          "quote": "There is no separate offering of the piṇḍa after that, / for all the deceased here, who are joined by the mantras. // And from the state of a ghost, O king, these become freed.",
+          "role": "cited for the teaching that after Sapiṇḍana, no separate piṇḍa offerings are needed and the deceased is freed from the ghost-state"
+        }
+      ],
+      "description": "A smṛti authority cited for the soteriological teaching that the Sapiṇḍana, when performed before a vṛddhi, immediately releases the deceased from the ghost state.",
+      "justification": "Śātātapa is named at p-bd96b3 as the speaker of the verse at p-76bd1a."
+    },
+    {
+      "canonical_name": "Hemādri",
+      "surface_names": ["Hemādri"],
+      "kind": "figure",
+      "figure_kind": "scholar",
+      "mentions": [
+        {
+          "paragraph_id": "p-c2fe0d",
+          "quote": "As for the enumeration of the sixteen śrāddhas in a different way in the Hemādri, etc., and the description of the Sapiṇḍīkaraṇa, etc., as being included in the sixteen śrāddhas—",
+          "role": "cited as a divergent authority who counts Sapiṇḍīkaraṇa among the sixteen"
+        },
+        {
+          "paragraph_id": "p-89c2bd",
+          "quote": "Hemādri, however, while saying that the three fortnights are complete, says that the day on which the third fortnight is completed is the locus.",
+          "role": "cited for the view that the locus of Sapiṇḍīkaraṇa is the completion day of the third fortnight"
+        }
+      ],
+      "description": "A medieval Dharmaśāstra digest author (Hemādripāda) whose alternate enumeration of the sixteen śrāddhas and timing of Sapiṇḍīkaraṇa is noted and critiqued.",
+      "justification": "Hemādri is named at p-c2fe0d and p-89c2bd as the holder of divergent positions that the digest must reconcile."
+    },
+    {
+      "canonical_name": "Yajñapārśva",
+      "surface_names": ["Yajñapārśva"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-327cce",
+          "quote": "She attains oneness with her husband in the piṇḍa, the gotra, and the impurity. / The wife of the husband's ancestors, the ancestral wives.",
+          "role": "cited for the inclusion of the wife in the piṇḍa through Sapiṇḍīkaraṇa"
+        }
+      ],
+      "description": "A smṛti authority cited for the teaching that a wife shares in the piṇḍa, gotra, and impurity of her husband and thus participates in the Sapiṇḍīkaraṇa.",
+      "justification": "Yajñapārśva is named at p-f93df8 as one of the two verse-sources for the verse at p-327cce."
+    },
+    {
+      "canonical_name": "Śūlapāṇi",
+      "surface_names": ["Śūlapāṇi"],
+      "kind": "figure",
+      "figure_kind": "scholar",
+      "mentions": [
+        {
+          "paragraph_id": "p-b9de0b",
+          "quote": "As for what is said by Śūlapāṇi, that this is an obligatory śrāddha (nityaśrāddha)—",
+          "role": "cited as a competing authority whose classification of the daily water-pot rite as an obligatory śrāddha is rejected"
+        }
+      ],
+      "description": "A Dharmaśāstra commentator whose classification of the daily water-pot rite as a nityaśrāddha is noted and refuted by the digest author.",
+      "justification": "Śūlapāṇi is named at p-b9de0b as the proponent of the 'obligatory śrāddha' classification that is then critiqued."
+    },
+    {
+      "canonical_name": "Vijñāneśvara's Śrāddhacintāmaṇi",
+      "surface_names": ["Śrāddhacintāmaṇi"],
+      "kind": "object",
+      "mentions": [
+        {
+          "paragraph_id": "p-76dac8",
+          "quote": "In the Śrāddhacintāmaṇi, however, it is said that beginning from the twelfth day, having performed the twelve monthly śrāddhas in twelve days, the Sapiṇḍīkaraṇa should be performed.",
+          "role": "cited as a divergent source on the twelve-day monthly rites schedule"
+        }
+      ],
+      "description": "A specialized digest on śrāddha procedure cited for its alternative prescription that the twelve monthly śrāddhas begin from the twelfth day.",
+      "justification": "The Śrāddhacintāmaṇi is named at p-76dac8 as the source of an alternative sequence for compressed monthly śrāddhas."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Timing and sequencing of the sixteen śrāddhas for the deceased",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-96ca1b",
+          "quote": "For men who have abandoned their bodies, the śrāddhas are always sixteen."
+        },
+        {
+          "paragraph_id": "p-e6ecf0",
+          "quote": "The twelve monthly rites, the first, and the two six-monthly, likewise, / and the Sapiṇḍīkaraṇa; this is the sixteen-fold śrāddha."
+        },
+        {
+          "paragraph_id": "p-0dd103",
+          "quote": "what is performed at the beginning of the second year is called the annual rite (ābdika); what is performed at the beginning of the third year, however, is called the recurring annual rite (pratyābdika)."
+        }
+      ],
+      "justification": "The entire window is organized around adjudicating the precise definition, enumeration, and scheduling of the sixteen obligatory śrāddhas for a deceased person, drawing on competing smṛti enumerations."
+    },
+    {
+      "topic": "Sapiṇḍīkaraṇa: its timing, eligibility, and relation to the ghost-state",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-a2d789",
+          "quote": "There, the statement that the Sapiṇḍīkaraṇa is included in the sixteen śrāddhas appears to be inconsistent."
+        },
+        {
+          "paragraph_id": "p-8bb6ae",
+          "quote": "The Sapiṇḍīkaraṇa of the father is on the annual death anniversary."
+        },
+        {
+          "paragraph_id": "p-5ee5f9",
+          "quote": "even if the Sapiṇḍana is performed before, since the release from the state of a ghost is at the end of a year, how can this be praised?"
+        }
+      ],
+      "justification": "A major sustained discussion concerns when and by whom the Sapiṇḍīkaraṇa should be performed, whether it is counted within the sixteen śrāddhas, and its causal relationship to the liberation of the deceased from the ghost state."
+    },
+    {
+      "topic": "Sacred fire maintenance as a determinant of śrāddha timing",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-007252",
+          "quote": "The śrāddha for one with fires should be performed on the eleventh day from the cremation. / The fixed rites, however, one should always perform from the day of death."
+        },
+        {
+          "paragraph_id": "p-660fbd",
+          "quote": "If the deceased has established the sacred fires, and the agent is without fires, / the Sapiṇḍīkaraṇa should be performed then in the third fortnight."
+        },
+        {
+          "paragraph_id": "p-e72071",
+          "quote": "If the sacrificer has established the sacred fires, O king, and the deceased is without fires, / the Sapiṇḍīkaraṇa should be performed on the twelfth day."
+        }
+      ],
+      "justification": "The text systematically treats the maintenance or non-maintenance of the sacred fires (āhitāgni status) by both the deceased and the performing agent as the primary variable determining the calendar for śrāddha and Sapiṇḍīkaraṇa."
+    },
+    {
+      "topic": "Postponement (apakarṣa) of śrāddhas around auspicious and inauspicious occasions",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-a2fc60",
+          "quote": "The remaining śrāddhas for the deceased, and the Sapiṇḍīkaraṇa likewise, / a twice-born who is to perform a nāndīmukha rite should postpone them."
+        },
+        {
+          "paragraph_id": "p-c99e72",
+          "quote": "Even those performed by postponement before the Sapiṇḍīkaraṇa / are postponed again, because of the prohibition after the Sapiṇḍīkaraṇa."
+        },
+        {
+          "paragraph_id": "p-2823d6",
+          "quote": "Therefore, postponement before and after the Sapiṇḍīkaraṇa is established."
+        }
+      ],
+      "justification": "Repeated attention is given to the conditions under which śrāddhas for the deceased may be lawfully postponed—including impurity, intercalary months, and impending auspicious (vṛddhi/nāndīmukha) occasions—and the effects of such postponements."
+    },
+    {
+      "topic": "Prohibited tithi, nakṣatra, and astral conjunctions for śrāddha performance",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-c38594",
+          "quote": "On a Nandā tithi, on the day of Bhārgava, on Caturdaśī, in a Tripuṣkara, / a householder should not perform an ūnamāsika."
+        },
+        {
+          "paragraph_id": "p-0a8f67",
+          "quote": "Bharaṇī, Ārdrā, and Āśleṣā, and the three quarters of Mūla, / are very inauspicious in a rite for the deceased."
+        },
+        {
+          "paragraph_id": "p-8263e6",
+          "quote": "In Sādhāraṇa, Dhruva, Ugra, and Maitra, it is not praised for men, / the rite for the deceased, in any way, in Tripuṣkara."
+        }
+      ],
+      "justification": "A distinct section treats the astrological calendar (Nandā tithis, Caturdaśī, Tripuṣkara, Dvipuṣkara, birth nakṣatras, and specific lunar mansions) as prohibitory contexts for various rites for the deceased."
+    },
+    {
+      "topic": "The daily water-pot offering during the year of mourning",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-f6ade7",
+          "quote": "a water-pot should be given, accompanied by food and delicacies. / for a year, O best of men, preceded by sesame and water."
+        },
+        {
+          "paragraph_id": "p-b034b0",
+          "quote": "From this very verse, it is understood that there is no postponement (apakarṣa) of the water-pot."
+        },
+        {
+          "paragraph_id": "p-dc878d",
+          "quote": "For whom the Sapiṇḍīkaraṇa is before a year, / for him too, a twice-born should give this with a water-pot for a year."
+        }
+      ],
+      "justification": "The text discusses at length the obligation to offer a water-pot daily for a full year following the death, and whether this obligation is subject to postponement and how it differs from the obligatory śrāddha (nityaśrāddha) category."
+    },
+    {
+      "topic": "Intercalary months and the effect on the monthly śrāddha count",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-f87ae3",
+          "quote": "When an extra month falls, an extra monthly rite should be performed."
+        },
+        {
+          "paragraph_id": "p-1567a5",
+          "quote": "When the year is in excess, the months are thirteen. / Therefore, in the thirteenth, one should not perform a śrāddha; it does not reach."
+        },
+        {
+          "paragraph_id": "p-74d11f",
+          "quote": "From the hearing of the prohibition of the thirteenth monthly rite in this verse of Ṛṣyaśṛṅga, some say there is an option for the monthly rite even in an extra month."
+        }
+      ],
+      "justification": "The text addresses the question of whether intercalary (adhika) months require an additional śrāddha, noting competing views and resolving them in favor of the increase."
+    },
+    {
+      "topic": "Ritual impurity (aśauca) as a factor in the timing of śrāddhas",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-8597e4",
+          "quote": "The śrāddha that is on the eleventh day is declared as general. / For all four of the social classes, the impurity is an exception."
+        },
+        {
+          "paragraph_id": "p-46542b",
+          "quote": "The first śrāddha, even if impure, one should perform on the eleventh day. / The purity of the agent is for that month."
+        },
+        {
+          "paragraph_id": "p-128cdb",
+          "quote": "In case of an interruption of a monthly rite by impurity, etc., it should be performed at the end of the impurity, or in the succeeding month."
+        }
+      ],
+      "justification": "The text takes up the interaction between ritual impurity and the mandatory performance of śrāddhas, establishing that the eleventh-day śrāddha must be performed even in a state of impurity and giving rules for rites obstructed by impurity."
+    },
+    {
+      "topic": "Women's participation in Sapiṇḍīkaraṇa through shared piṇḍa",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-327cce",
+          "quote": "She attains oneness with her husband in the piṇḍa, the gotra, and the impurity. / The wife of the husband's ancestors, the ancestral wives."
+        },
+        {
+          "paragraph_id": "p-125c26",
+          "quote": "even if she is not the recipient as being with her husband, her enjoyment of a share of the husband's piṇḍa is stated."
+        }
+      ],
+      "justification": "The text implicitly raises the status of women as participants in the Sapiṇḍīkaraṇa through their share in the husband's piṇḍa and their co-membership in his gotra, though they are not primary ritual agents."
+    },
+    {
+      "topic": "Ghost-state (pretabhāva) as a soteriological concern of death rites",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-2d401a",
+          "quote": "When the Sapiṇḍīkaraṇa has been performed, a man, after a year, / having abandoned the body of a ghost, obtains a body for enjoyment."
+        },
+        {
+          "paragraph_id": "p-6e43c3",
+          "quote": "For whom the Sapiṇḍīkaraṇa is before a year, / his state of a ghost is to be known for a year, O king!"
+        },
+        {
+          "paragraph_id": "p-e51ac5",
+          "quote": "this postponement should be known to be because, without the Sapiṇḍana, the father, etc., do not attain the state of an ancestor fit for a pārvaṇa śrāddha."
+        }
+      ],
+      "justification": "The underlying soteriological concern throughout the window is the liberation of the deceased from the ghost-state (pretabhāva) and their transformation into an ancestral being (pitṛ) fit to receive pārvaṇa śrāddhas."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Smṛtyarthasāra",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-a3ace0",
+      "quote": "In the Smṛtyarthasāra: \"At the beginning of the second year, the annual rite; at the beginning of the third year, the recurring annual rite; this is the sequence.\"",
+      "justification": "The Smṛtyarthasāra is cited to define and distinguish the ābdika and pratyābdika rites."
+    },
+    {
+      "cited_work": "Nirṇayāmṛta",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-7ccb1a",
+      "quote": "In the Nirṇayāmṛta, however:",
+      "justification": "The Nirṇayāmṛta is cited for an alternative rule on the annual rite, introduced with 'however' indicating a contrast with the Smṛtyarthasāra."
+    },
+    {
+      "cited_work": "Brahma Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-d2e328",
+      "quote": "In the Brahma Purāṇa:",
+      "justification": "The Brahma Purāṇa is cited to provide a verse enumerating the sixteen śrāddhas by their days."
+    },
+    {
+      "cited_work": "Bhaviṣya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-e40be0",
+      "quote": "In the Bhaviṣya Purāṇa also:",
+      "justification": "The Bhaviṣya Purāṇa is cited for an alternate enumeration of the sixteen śrāddhas and for the definition of the obligatory śrāddha."
+    },
+    {
+      "cited_work": "Śrāddhacintāmaṇi",
+      "cited_author": null,
+      "stance": "extend",
+      "paragraph_id": "p-76dac8",
+      "quote": "In the Śrāddhacintāmaṇi, however, it is said that beginning from the twelfth day, having performed the twelve monthly śrāddhas in twelve days, the Sapiṇḍīkaraṇa should be performed.",
+      "justification": "The Śrāddhacintāmaṇi is cited for an alternative compressed schedule of monthly śrāddhas, extending the twelve-day procedure differently from Viṣṇu's version."
+    },
+    {
+      "cited_work": "Kālādarśa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-b2a167",
+      "quote": "In the Kālādarśa, it is said that the interrupted monthly rite should be performed in the month related to the succeeding one.",
+      "justification": "The Kālādarśa is cited for its ruling on performing an interrupted monthly śrāddha in conjunction with the following month's rite."
+    },
+    {
+      "cited_work": "Nirṇayāmṛta",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-74c053",
+      "quote": "In the Nirṇayāmṛta, it is said that one should perform the interrupted monthly rite of that month.",
+      "justification": "The Nirṇayāmṛta is cited a second time for a competing ruling on obstructed monthly śrāddhas, specifying that the rite of the current month should be performed."
+    },
+    {
+      "cited_work": "Kālanirṇaya",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-1708b",
+      "quote": "It is said in the Kālanirṇaya:",
+      "justification": "The Kālanirṇaya is cited for a verse on the options available when a monthly śrāddha is obstructed by impurity."
+    },
+    {
+      "cited_work": "Padma Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-f6ade7",
+      "quote": "In the Padma Purāṇa:",
+      "justification": "The Padma Purāṇa is cited for the injunction to give a water-pot with food daily for a year."
+    },
+    {
+      "cited_work": "Hemādri (Smṛtisamuccaya)",
+      "cited_author": "Hemādri",
+      "stance": "authority",
+      "paragraph_id": "p-1f8ca1",
+      "quote": "In the Hemādri, in the Smṛtisamuccaya:",
+      "justification": "Hemādri's Smṛtisamuccaya is cited for the injunction to give a daily water-pot from the eleventh day for a year."
+    },
+    {
+      "cited_work": "Gobhilaśrāddhakalpabhāṣya (citing Skānda Purāṇa)",
+      "cited_author": null,
+      "stance": "refute",
+      "paragraph_id": "p-0d26de",
+      "quote": "As for the verse of the Skānda written in the Gobhilaśrāddhakalpabhāṣya:",
+      "justification": "The Skānda verse as quoted in the Gobhilaśrāddhakalpabhāṣya is cited only to be refuted, as the digest argues it cannot be used to support postponement of the water-pot offering against Yājñavalkya's verse."
+    },
+    {
+      "cited_work": "Ratnamālā",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-89c7c1",
+      "quote": "In the Ratnamālā:",
+      "justification": "The Ratnamālā is cited for the definition of Tripuṣkara and Dvipuṣkara astral conjunctions."
+    },
+    {
+      "cited_work": "Mahābhārata",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-06df1c",
+      "quote": "In the Mahābhārata:",
+      "justification": "The Mahābhārata is cited for the prohibition against performing the śrāddha for the deceased in the nakṣatra of the deceased's birth and in other inauspicious nakṣatras."
+    },
+    {
+      "cited_work": "Varāha Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-d9926d",
+      "quote": "In the Varāha Purāṇa:",
+      "justification": "The Varāha Purāṇa is cited for the prohibition on performing the śrāddha for the deceased when the moon is in the fourth, eighth, or twelfth house, or during Vyatīpāta and Vaidhṛti."
+    },
+    {
+      "cited_work": "Bhaviṣya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-2efed3",
+      "quote": "In the Bhaviṣya Purāṇa:",
+      "justification": "The Bhaviṣya Purāṇa is cited again for the timing of Sapiṇḍīkaraṇa for one without fires, specifying the end of the year as the primary time."
+    },
+    {
+      "cited_work": "Nāgarakhaṇḍa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-3164bc",
+      "quote": "In the Nāgarakhaṇḍa also:",
+      "justification": "The Nāgarakhaṇḍa (a Purāṇa section) is cited twice for the post-year timing of Sapiṇḍīkaraṇa and the possibility of bringing it forward when a vṛddhi is imminent."
+    },
+    {
+      "cited_work": "Hemādri",
+      "cited_author": "Hemādri",
+      "stance": "extend",
+      "paragraph_id": "p-89c2bd",
+      "quote": "Hemādri, however, while saying that the three fortnights are complete, says that the day on which the third fortnight is completed is the locus.",
+      "justification": "Hemādri's position on the locus of the third-fortnight Sapiṇḍīkaraṇa is cited as an extension of the general rule, specifying the exact completion day."
+    },
+    {
+      "cited_work": "Hemādri (citing Prajāpati)",
+      "cited_author": "Hemādri",
+      "stance": "authority",
+      "paragraph_id": "p-562dcf",
+      "quote": "In the Hemādri, Prajāpati says:",
+      "justification": "Hemādri is cited as the vehicle for a verse attributed to Prajāpati mandating the sequence of Sapiṇḍana before the pitṛyajña."
+    },
+    {
+      "cited_work": "Viṣṇudharmottara",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-e08bd5",
+      "quote": "In the Viṣṇudharmottara:",
+      "justification": "The Viṣṇudharmottara Purāṇa is cited for the teaching that after Sapiṇḍīkaraṇa the deceased obtains a body for enjoyment only at the end of a full year."
+    },
+    {
+      "cited_work": "Agni Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-63b4f6",
+      "quote": "In the Agni Purāṇa also:",
+      "justification": "The Agni Purāṇa is cited to corroborate that even when Sapiṇḍīkaraṇa is performed early, the ghost-state persists for a full year."
+    },
+    {
+      "cited_work": "Smṛtyarthasāra",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-137272",
+      "quote": "As for what is said in the Smṛtyarthasāra, that the ūnābdika is on the day before the last day of the twelfth month,",
+      "justification": "The Smṛtyarthasāra is cited a second time for its ruling on the ūnābdika timing, which is noted and contextualized."
+    }
+  ]
+}

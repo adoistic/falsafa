@@ -1,0 +1,694 @@
+{
+  "slug": "unknown-viramitrodaya-d4b632",
+  "window": "01:4916-5034",
+  "entities": [
+    {
+      "canonical_name": "Yājñavalkya",
+      "surface_names": ["Yājñavalkya"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-40b39f",
+          "quote": "There, Yājñavalkya says: (a. 1, ślo. 125) Every year, the Soma sacrifice; the animal sacrifice (*paśu*), likewise, at every solstice (*ayana*)",
+          "role": "authority cited"
+        },
+        {
+          "paragraph_id": "p-1e6749",
+          "quote": "There, it was said by Yājñavalkya that the Cāturmāsyas should be performed: 'and the Cāturmāsyas as well.'",
+          "role": "authority cited"
+        },
+        {
+          "paragraph_id": "p-a3173c",
+          "quote": "Yājñavalkya also says: 'Every year, the Soma sacrifice.'",
+          "role": "authority cited"
+        }
+      ],
+      "description": "The ancient sage and lawgiver whose Dharmaśāstra (Yājñavalkyasmṛti) is cited repeatedly as a primary authority on the timing of Vedic sacrifices.",
+      "justification": "Yājñavalkya is explicitly named as an authority on the times for the Soma sacrifice, animal sacrifice, and Cāturmāsyas across multiple paragraphs in this window."
+    },
+    {
+      "canonical_name": "Āpastamba",
+      "surface_names": ["Āpastamba"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-f463a0",
+          "quote": "Āpastamba has not stated any *nakṣatras* for the Soma sacrifice that would need to be",
+          "role": "authority cited"
+        },
+        {
+          "paragraph_id": "p-9ee7a0",
+          "quote": "This is from the recollection of Āpastamba.",
+          "role": "authority cited"
+        },
+        {
+          "paragraph_id": "p-ee93b3",
+          "quote": "Āpastamba states another time: 'One should sacrifice every year, or every six months, say some. / At the turning of the season'",
+          "role": "authority cited"
+        },
+        {
+          "paragraph_id": "p-fd6752",
+          "quote": "the time for the Vaiśvadeva, etc., is stated by Āpastamba",
+          "role": "authority cited"
+        }
+      ],
+      "description": "The Vedic sūtrakāra whose Āpastamba Śrautasūtra is cited as the authoritative text for timing rules of the agnyādheya, animal sacrifice, Cāturmāsyas, and related śrauta rites.",
+      "justification": "Āpastamba is explicitly named multiple times in this window as the source of śrauta rules for determining sacrificial times."
+    },
+    {
+      "canonical_name": "Baudhāyana",
+      "surface_names": ["Baudhāyana"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-10c777",
+          "quote": "'The entire northern transit (*uttarāyaṇa*) is the time for the establishment of the fires; thus it is said by the teachers,' is stated by Keśavasvāmī in the commentary on Baudhāyana.",
+          "role": "authority cited"
+        },
+        {
+          "paragraph_id": "p-da241f",
+          "quote": "Baudhāyana states another time: having begun with 'one should sacrifice with the animal sacrifice,' he says, 'or having sacrificed with the new-moon oblation, or on a *nakṣatra*.'",
+          "role": "authority cited"
+        },
+        {
+          "paragraph_id": "p-962b29",
+          "quote": "Baudhāyana and Bhāradvāja state the twelve-day procedure (*dvādaśāhakalpa*).",
+          "role": "authority cited"
+        },
+        {
+          "paragraph_id": "p-89599f",
+          "quote": "One may also sacrifice with the Cāturmāsyas in twelve days. Then, having sacrificed with the Vaiśvadeva on the first, with the Varuṇapraghāsas on the fourth, with the Sākamedhas on the eighth and ni",
+          "role": "authority cited"
+        },
+        {
+          "paragraph_id": "p-a0af8f",
+          "quote": "Another time is also stated by Baudhāyana",
+          "role": "authority cited"
+        },
+        {
+          "paragraph_id": "p-8e49c0",
+          "quote": "For the second year, however, a special rule is stated by Baudhāyana",
+          "role": "authority cited"
+        },
+        {
+          "paragraph_id": "p-dd7c7b",
+          "quote": "Baudhāyana also states another time",
+          "role": "authority cited"
+        }
+      ],
+      "description": "Vedic sūtrakāra of the Baudhāyana school whose śrauta and gṛhya sūtras are frequently cited for the timing of the animal sacrifice, Cāturmāsyas, and Soma sacrifice.",
+      "justification": "Baudhāyana is the most frequently cited authority in this window, named across seven distinct paragraphs for sacrificial timing rules."
+    },
+    {
+      "canonical_name": "Kātyāyana",
+      "surface_names": ["Kātyāyana"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-16d969",
+          "quote": "Kātyāyana also states two times: 'The animal sacrifice is every year, in the rainy season, or at the beginnings of the transits.'",
+          "role": "authority cited"
+        }
+      ],
+      "description": "Vedic ritualist and author of the Kātyāyana Śrautasūtra, cited here for specifying two possible times for the annual animal sacrifice.",
+      "justification": "Kātyāyana is explicitly named as providing an alternative timing rule for the nirūḍhapaśubandha sacrifice."
+    },
+    {
+      "canonical_name": "Bhāradvāja",
+      "surface_names": ["Bhāradvāja"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-9b4eac",
+          "quote": "Because by the statement of Bhāradvāja, 'In the northern transit, in the waxing fortnight, all of them, in the case of optional rites, when there are many times,' it is not proper to imagine a supersession",
+          "role": "authority cited"
+        },
+        {
+          "paragraph_id": "p-962b29",
+          "quote": "Baudhāyana and Bhāradvāja state the twelve-day procedure (*dvādaśāhakalpa*).",
+          "role": "authority cited"
+        },
+        {
+          "paragraph_id": "p-c90a61",
+          "quote": "There, Bhāradvāja says: 'One who is about to sacrifice for twelve days, on Pratipad with the Vaiśvānara and Pārjanya'",
+          "role": "authority cited"
+        },
+        {
+          "paragraph_id": "p-56257c",
+          "quote": "from the statement of Bhāradvāja, 'In the northern transit, in the waxing fortnight, all of them, in the case of optional rites, when there are many times'",
+          "role": "authority cited"
+        }
+      ],
+      "description": "Vedic ritualist whose śrautasūtra is cited for the rule that optional rites should be performed in the northern transit and waxing fortnight, and for the twelve-day Cāturmāsya procedure.",
+      "justification": "Bhāradvāja is named across four paragraphs as an authority on timing rules for Cāturmāsya and optional rites."
+    },
+    {
+      "canonical_name": "Keśavasvāmī",
+      "surface_names": ["Keśavasvāmī"],
+      "kind": "figure",
+      "figure_kind": "commentator",
+      "mentions": [
+        {
+          "paragraph_id": "p-10c777",
+          "quote": "'The entire northern transit (*uttarāyaṇa*) is the time for the establishment of the fires; thus it is said by the teachers,' is stated by Keśavasvāmī in the commentary on Baudhāyana.",
+          "role": "commentator cited"
+        }
+      ],
+      "description": "Commentator on Baudhāyana's texts, cited here for his statement that the entire northern transit (uttarāyaṇa) is the proper time for establishing the sacred fires.",
+      "justification": "Keśavasvāmī is explicitly named as the source of a gloss on Baudhāyana affirming the northern transit as the time for agnyādheya."
+    },
+    {
+      "canonical_name": "Āśvalāyana",
+      "surface_names": ["Āśvalāyana"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-2307bf",
+          "quote": "Āśvalāyana also, by 'even before with a single Soma,' has stated that the Soma sacrifice is to be performed even before the new- and full-moon sacrifices.",
+          "role": "authority cited"
+        }
+      ],
+      "description": "Vedic sūtrakāra of the Āśvalāyana school cited for the rule permitting the Soma sacrifice to be performed even before the new- and full-moon sacrifices.",
+      "justification": "Āśvalāyana is explicitly named as providing an exception to the general rule that Soma follows dārśapaurṇamāsa."
+    },
+    {
+      "canonical_name": "Rudradatta",
+      "surface_names": ["Rudradatta"],
+      "kind": "figure",
+      "figure_kind": "commentator",
+      "mentions": [
+        {
+          "paragraph_id": "p-395a5c",
+          "quote": "Rudradatta and others do not accept this.",
+          "role": "dissenting authority"
+        }
+      ],
+      "description": "Commentator who, along with others, rejects the interpretation that Aupamanyava's phrase 'according to the performance' enjoins a continuous multi-day performance.",
+      "justification": "Rudradatta is explicitly named as rejecting a particular interpretive position regarding the Cāturmāsya duration."
+    },
+    {
+      "canonical_name": "Śāliki",
+      "surface_names": ["Śāliki", "Śālāki"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-fffc79",
+          "quote": "There, Śālāki said: The Cāturmāsyas are only for a year, with t",
+          "role": "authority cited"
+        },
+        {
+          "paragraph_id": "p-be932e",
+          "quote": "In the view of Śāliki, however, this rule is only for the yearly ones, not for the lifelong ones.",
+          "role": "authority cited"
+        }
+      ],
+      "description": "Vedic authority who holds that the celibacy rule for Cāturmāsya performers applies only to the yearly performance, not the lifelong one.",
+      "justification": "Śālāki/Śāliki is named in the sūtra text quoted and in the digest's analysis as one of three named authorities on the duration of the celibacy vow for Cāturmāsya."
+    },
+    {
+      "canonical_name": "Aupamanyava",
+      "surface_names": ["Aupamanyava"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-b7a5d7",
+          "quote": "'According to the performance,' says Aupamanyava.",
+          "role": "authority cited"
+        },
+        {
+          "paragraph_id": "p-27d1cd",
+          "quote": "In the view of Aupamanyava, the observance of the vow is only on the day of the performance.",
+          "role": "authority cited"
+        }
+      ],
+      "description": "Vedic authority who holds that the celibacy vow for Cāturmāsya is to be observed only on the actual day of the sacrifice, not for an extended period.",
+      "justification": "Aupamanyava is explicitly quoted and his position summarised in two paragraphs as one of three named authorities on the Cāturmāsya vow."
+    },
+    {
+      "canonical_name": "Śāṅkhyāyana",
+      "surface_names": ["Śāṅkhyāyana"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-1b4bde",
+          "quote": "The Cāturmāsyas for a single day are also stated by Śāṅkhyāyana.",
+          "role": "authority cited"
+        }
+      ],
+      "description": "Vedic ritualist who prescribes a single-day option for the Cāturmāsya sacrifices, providing yet another procedural alternative.",
+      "justification": "Śāṅkhyāyana is explicitly named as the source for the single-day Cāturmāsya option."
+    },
+    {
+      "canonical_name": "Mitra Miśra",
+      "surface_names": ["Mitra Miśra"],
+      "kind": "figure",
+      "figure_kind": "author",
+      "mentions": [
+        {
+          "paragraph_id": "p-d61edd",
+          "quote": "Thus ends the *Samayaprakāśa* in the treatise named the glorious *Vīramitrodaya*, composed by the honorable Mitra Miśra—son of the honorable Paraśurāma Miśra, who was the son of the honorable Haṃsa",
+          "role": "author"
+        }
+      ],
+      "description": "The author of the Vīramitrodaya, identified in the colophon as the son of Paraśurāma Miśra and grandson of Haṃsa, who compiled this digest on dharmaśāstra.",
+      "justification": "Mitra Miśra is named in the closing colophon as the composer of the Vīramitrodaya and its Samayaprakāśa section."
+    },
+    {
+      "canonical_name": "King Vīra",
+      "surface_names": ["King Vīra", "glorious King Vīra"],
+      "kind": "figure",
+      "figure_kind": "ruler",
+      "mentions": [
+        {
+          "paragraph_id": "p-f614be",
+          "quote": "When the moon of the glorious King Vīra, a lion among men, an ocean of generosity that dispels the darkness of the poverty of supplicants, rises",
+          "role": "patron eulogized"
+        }
+      ],
+      "description": "The royal patron praised in the maṅgala verse of the Vīramitrodaya, lauded as a generous protector who dispels poverty, identified as a lion among men.",
+      "justification": "King Vīra is named in the colophon verse as the patron in whose honour the Vīramitrodaya was composed."
+    },
+    {
+      "canonical_name": "Soma sacrifice (Jyotiṣṭoma)",
+      "surface_names": ["Soma sacrifice", "Jyotiṣṭoma"],
+      "kind": "event",
+      "mentions": [
+        {
+          "paragraph_id": "p-4b6170",
+          "quote": "He who wishes to perform the Soma sacrifice before all other rites, such as the Agnihotra, the new- and full-moon sacrifices, etc.",
+          "role": "subject of discussion"
+        },
+        {
+          "paragraph_id": "p-8a66bf",
+          "quote": "the *śruti* says: 'In spring, in spring, one should sacrifice with the Jyotiṣṭoma.'",
+          "role": "rite described"
+        },
+        {
+          "paragraph_id": "p-a3173c",
+          "quote": "Yājñavalkya also says: 'Every year, the Soma sacrifice.'",
+          "role": "rite described"
+        }
+      ],
+      "description": "The Soma sacrifice (paradigmatically the Jyotiṣṭoma), the central śrauta rite whose prescribed timing in spring and relation to other preliminary rites is the focus of the final section of this window.",
+      "justification": "The Soma sacrifice is the subject of an entire subsection (paragraphs 4916–4931 and 5018–5030) devoted to determining its proper time."
+    },
+    {
+      "canonical_name": "Nirūḍhapaśubandha",
+      "surface_names": ["nirūḍhapaśubandha", "independent animal sacrifice", "animal sacrifice"],
+      "kind": "event",
+      "mentions": [
+        {
+          "paragraph_id": "p-6692b3",
+          "quote": "### [The Time for the Independent Animal Sacrifice (Nirūḍhapaśubandha)]",
+          "role": "subject of section"
+        },
+        {
+          "paragraph_id": "p-40b39f",
+          "quote": "the animal sacrifice (*paśu*), likewise, at every solstice (*ayana*)",
+          "role": "rite described"
+        },
+        {
+          "paragraph_id": "p-ee93b3",
+          "quote": "having begun with the independent animal sacrifice (*nirūḍhapaśubandha*), Āpastamba states another time",
+          "role": "rite described"
+        }
+      ],
+      "description": "The independent (nirūḍha) form of the paśubandha, an obligatory annual śrauta animal sacrifice whose timing at the solstices, seasonal turnings, and specific lunar days is debated across several paragraphs.",
+      "justification": "The nirūḍhapaśubandha is the subject of an entire subsection (paragraphs 4927–4956) that systematically surveys multiple authoritative opinions on its timing."
+    },
+    {
+      "canonical_name": "Cāturmāsya sacrifices",
+      "surface_names": ["Cāturmāsyas", "Cāturmāsya", "Vaiśvadeva", "Varuṇapraghāsa", "Sākamedha", "Śunāsīrīya"],
+      "kind": "event",
+      "mentions": [
+        {
+          "paragraph_id": "p-529ef1",
+          "quote": "### [The Time for the Cāturmāsya Sacrifices]",
+          "role": "subject of section"
+        },
+        {
+          "paragraph_id": "p-8f526c",
+          "quote": "the word Cāturmāsya is the name of the collection of the Vaiśvadeva, Varuṇapraghāsa, Sākamedha, and Śunāsīrīya sacrifices, like Rājasūya",
+          "role": "rite defined"
+        },
+        {
+          "paragraph_id": "p-8fcd9e",
+          "quote": "they are of three kinds: those with a lifelong performance, those with a yearly performance, and those with a twelve-day performance",
+          "role": "rite described"
+        }
+      ],
+      "description": "The collective name for the four seasonal śrauta sacrifices (Vaiśvadeva, Varuṇapraghāsa, Sākamedha, and Śunāsīrīya), classified into three performance types and discussed at length regarding their timing.",
+      "justification": "The Cāturmāsyas are the subject of the longest section in this window (paragraphs 4958–5016), covering their constituent rites, performance types, and timing options."
+    },
+    {
+      "canonical_name": "Agnyādheya",
+      "surface_names": ["agnyādheya", "establishment of the fires"],
+      "kind": "event",
+      "mentions": [
+        {
+          "paragraph_id": "p-f463a0",
+          "quote": "the *agnyādheya* is the topic at hand, and Āpastamba has not stated any *nakṣatras* for the Soma sacrifice",
+          "role": "subject of discussion"
+        },
+        {
+          "paragraph_id": "p-c79429",
+          "quote": "when the *agnyādheya* is performed at another time, with disregard for spring, for the sake of the one-day connection of the Soma sacrifice and the *agnyādheya*",
+          "role": "rite described"
+        },
+        {
+          "paragraph_id": "p-10c777",
+          "quote": "'The entire northern transit (*uttarāyaṇa*) is the time for the establishment of the fires'",
+          "role": "rite described"
+        }
+      ],
+      "description": "The Vedic rite of establishing the sacred fires (agnyādheya), which is a prerequisite for Soma and other śrauta sacrifices and whose timing in spring or the northern transit is discussed at the opening of this window.",
+      "justification": "The agnyādheya is the topic of the opening paragraphs 4916–4925 in this window, where its timing in relation to the Soma sacrifice is debated."
+    },
+    {
+      "canonical_name": "Uttarāyaṇa",
+      "surface_names": ["uttarāyaṇa", "northern transit"],
+      "kind": "idea",
+      "mentions": [
+        {
+          "paragraph_id": "p-10c777",
+          "quote": "'The entire northern transit (*uttarāyaṇa*) is the time for the establishment of the fires'",
+          "role": "calendrical marker"
+        },
+        {
+          "paragraph_id": "p-4ee0aa",
+          "quote": "'Transit' (*āvṛttiḥ*) is the turning back of the sun from Capricorn, the limit of the northern transit, or from Cancer, the limit of the southern transit",
+          "role": "defined"
+        },
+        {
+          "paragraph_id": "p-b4fc5a",
+          "quote": "In this option, the commencement is only on an auspicious *nakṣatra* of the northern transit.",
+          "role": "timing criterion"
+        }
+      ],
+      "description": "The northern solar transit (sun moving from Capricorn toward Cancer), a key calendrical category used throughout this section to determine the proper commencement of śrauta rites.",
+      "justification": "Uttarāyaṇa is cited across multiple paragraphs as a foundational timing criterion for agnyādheya, Soma, and Cāturmāsya rites."
+    },
+    {
+      "canonical_name": "Nakṣatra",
+      "surface_names": ["nakṣatra", "nakṣatras", "Kṛttikā", "Viśākhā", "Paurṇamāsī"],
+      "kind": "idea",
+      "mentions": [
+        {
+          "paragraph_id": "p-4b6170",
+          "quote": "he should not consider, that is, should not regard, the season and the *nakṣatra*",
+          "role": "timing criterion discussed"
+        },
+        {
+          "paragraph_id": "p-6b7216",
+          "quote": "'*Nakṣatra*' means in the fourteen auspicious *nakṣatras* stated in the Taittirīya school, 'Kṛttikā is the first, Viśākhā is the last.'",
+          "role": "defined"
+        },
+        {
+          "paragraph_id": "p-ed916a",
+          "quote": "Some say the performance is on a *nakṣatra*; one should perform it in the northern transit, in the waxing fortnight, on an auspicious day.",
+          "role": "timing criterion"
+        }
+      ],
+      "description": "The lunar mansions (nakṣatras) used as astrological timing markers for śrauta rites; the Taittirīya school specifies fourteen auspicious nakṣatras from Kṛttikā to Viśākhā for the animal sacrifice.",
+      "justification": "The nakṣatra is a recurrent timing criterion debated across multiple paragraphs for the agnyādheya, animal sacrifice, and Cāturmāsya rites."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Determination of sacrificial timing (kālanirṇaya) for major śrauta rites",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-e6a9a9",
+          "quote": "Thus ends the determination of the time for establishing the fires."
+        },
+        {
+          "paragraph_id": "p-047c06",
+          "quote": "Thus ends the determination of the time for the animal sacrifice."
+        },
+        {
+          "paragraph_id": "p-84072b",
+          "quote": "Thus ends the determination of the time for the Soma sacrifice."
+        }
+      ],
+      "justification": "Three successive section-closing colophons mark this window as a sustained, structured inquiry into when major Vedic sacrifices must be performed."
+    },
+    {
+      "topic": "Reconciliation of conflicting smṛti and śruti authorities on ritual timing",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-fae8ef",
+          "quote": "Although in the science of astronomy, the ascendant (*lagna*), etc., is stated for the establishment of the fires, yet that is to be taken. Because even though it is a *smārta* rule, since it is enjoined",
+          "quote": "even though it is a *smārta* rule, since it is enjoined"
+        },
+        {
+          "paragraph_id": "p-eeca07",
+          "quote": "Others, however, say that because it is a *smārta* rule, its harmonization is only in the *smārta* establishment of the fires, not in the *śrauta* establishment of the fires."
+        }
+      ],
+      "justification": "The text repeatedly mediates between smārta rules (from Dharmaśāstra) and śrauta rules (from the Śrautasūtras), seeking to determine which authority governs which class of rite."
+    },
+    {
+      "topic": "Hierarchy and harmonisation of optional (kāmya) versus obligatory (nitya) rites",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-b856cc",
+          "quote": "this animal sacrifice is obligatory (*nitya*), because repetition is heard in 'every year' and 'at every solstice,' and because a penance stated by Manu, etc., for its non-performance will be stated"
+        },
+        {
+          "paragraph_id": "p-3417e7",
+          "quote": "in the option of a fixed day, there is no rule of the *parvan* day."
+        }
+      ],
+      "justification": "A key doctrinal issue throughout the section is whether specific rites are nitya (obligatory, entailing a penance for omission) or optional, which affects which timing rules apply."
+    },
+    {
+      "topic": "Sequential ordering and dependency of śrauta rites (agnyādheya → paśubandha → Soma)",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-4b6170",
+          "quote": "He who wishes to perform the Soma sacrifice before all other rites, such as the Agnihotra, the new- and full-moon sacrifices, etc."
+        },
+        {
+          "paragraph_id": "p-7035d6",
+          "quote": "This also is to be performed after the new- and full-moon sacrifices, from the statement, 'having sacrificed with the new- and full-moon sacrifices, one should sacrifice with Soma.'"
+        },
+        {
+          "paragraph_id": "p-34175b",
+          "quote": "In the establishment of the fires for a Soma sacrifice, it is performed even before the new- and full-moon sacrifices."
+        }
+      ],
+      "justification": "The text is centrally concerned with establishing the correct sequential order of rites, especially whether Soma may precede the dārśapaurṇamāsa and agnyādheya."
+    },
+    {
+      "topic": "Lifelong versus yearly versus condensed (twelve-day) modes of Cāturmāsya performance",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-8fcd9e",
+          "quote": "they are of three kinds: those with a lifelong performance, those with a yearly performance, and those with a twelve-day performance."
+        },
+        {
+          "paragraph_id": "p-a78891",
+          "quote": "In the option of a lifelong performance, the commencement is by the *cāturmāsyayājikalpa* only."
+        },
+        {
+          "paragraph_id": "p-1b4bde",
+          "quote": "The Cāturmāsyas for a single day are also stated by Śāṅkhyāyana."
+        }
+      ],
+      "justification": "A sustained sub-debate within the Cāturmāsya section concerns which of the three (or four) performance-duration options a sacrificer may choose and what rules follow from each choice."
+    },
+    {
+      "topic": "Observance of the brahmacarya (celibacy) vow during Cāturmāsya performance",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-fffc79",
+          "quote": "The Cāturmāsyas should be lifelong, with sexual intercourse in between; one should observe the vow of celibacy only in the first year."
+        },
+        {
+          "paragraph_id": "p-27d1cd",
+          "quote": "In the view of Aupamanyava, the observance of the vow is only on the day of the performance."
+        }
+      ],
+      "justification": "Three authorities (Baudhāyana, Śāliki, Aupamanyava) are contrasted on the scope of celibacy required during Cāturmāsya, making this a distinct sub-theme."
+    },
+    {
+      "topic": "Role of intercalary months (malamāsa) and planetary invisibility as disqualifying timing factors",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-f2fbae",
+          "quote": "And this should not be performed in an intercalary month (*malamāsa*), etc., and likewise during the invisibility (*mauḍhya*) of Jupiter and Venus, etc."
+        }
+      ],
+      "justification": "The explicit prohibition on performing rites during malamāsa or the invisibility of Jupiter and Venus introduces astrological disqualifiers as a distinct regulatory category."
+    },
+    {
+      "topic": "Digest methodology: citation, harmonisation, and refutation of earlier views",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-af9240",
+          "quote": "The author then raises a complex question: Does this exception nullify the time-rules for the Soma sacrifice only, or for the *agnyādheya* (fire-establishment) that must precede it, or for both?"
+        },
+        {
+          "paragraph_id": "p-f463a0",
+          "quote": "He refutes the idea that it applies only to the Soma sacrifice, because the *agnyādheya* is the topic at hand"
+        }
+      ],
+      "justification": "Throughout this window the Vīramitrodaya operates as a digest (nibandha), raising objections, refuting alternatives, and synthesising opinions — a methodology implicit in the structure even when not named."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Yājñavalkyasmṛti",
+      "cited_author": "Yājñavalkya",
+      "stance": "authority",
+      "paragraph_id": "p-40b39f",
+      "quote": "There, Yājñavalkya says: (a. 1, ślo. 125) Every year, the Soma sacrifice; the animal sacrifice (*paśu*), likewise, at every solstice (*ayana*); / and the Āgrayaṇa *iṣṭi* should be performed",
+      "justification": "The Vīramitrodaya explicitly quotes Yājñavalkyasmṛti 1.125 as the foundational scriptural authority for the timing of the Soma and animal sacrifices."
+    },
+    {
+      "cited_work": "Yājñavalkyasmṛti",
+      "cited_author": "Yājñavalkya",
+      "stance": "authority",
+      "paragraph_id": "p-a3173c",
+      "quote": "Yājñavalkya also says: 'Every year, the Soma sacrifice.'",
+      "justification": "Yājñavalkya is again cited as a direct authority for the annual recurrence of the Soma sacrifice."
+    },
+    {
+      "cited_work": "Āpastamba Śrautasūtra",
+      "cited_author": "Āpastamba",
+      "stance": "authority",
+      "paragraph_id": "p-ee93b3",
+      "quote": "Āpastamba states another time: 'One should sacrifice every year, or every six months, say some. / At the turning of the season'",
+      "justification": "The Vīramitrodaya quotes the Āpastamba Śrautasūtra as providing the primary set of timing options for the independent animal sacrifice."
+    },
+    {
+      "cited_work": "Āpastamba Śrautasūtra",
+      "cited_author": "Āpastamba",
+      "stance": "authority",
+      "paragraph_id": "p-9ee7a0",
+      "quote": "This is from the recollection of Āpastamba.",
+      "justification": "The rule about beginning the animal sacrifice on the first day of the solstice is attributed to Āpastamba's recollection (smṛti)."
+    },
+    {
+      "cited_work": "Āpastamba Śrautasūtra",
+      "cited_author": "Āpastamba",
+      "stance": "authority",
+      "paragraph_id": "p-774319",
+      "quote": "It is known that one sacrifices with the Vaiśvadeva in spring, with the Varuṇapraghāsas in the rainy season, and with the Sākamedhas in autumn.",
+      "justification": "The Āpastamba Śrautasūtra is quoted as the primary authority for the seasonal assignment of the three Cāturmāsya sub-sacrifices."
+    },
+    {
+      "cited_work": "Kātyāyana Śrautasūtra",
+      "cited_author": "Kātyāyana",
+      "stance": "authority",
+      "paragraph_id": "p-16d969",
+      "quote": "Kātyāyana also states two times: 'The animal sacrifice is every year, in the rainy season, or at the beginnings of the transits.'",
+      "justification": "The Kātyāyana Śrautasūtra is cited as an alternative authority offering two possible times for the annual paśubandha."
+    },
+    {
+      "cited_work": "Baudhāyana Śrautasūtra",
+      "cited_author": "Baudhāyana",
+      "stance": "authority",
+      "paragraph_id": "p-da241f",
+      "quote": "Baudhāyana states another time: having begun with 'one should sacrifice with the animal sacrifice,' he says, 'or having sacrificed with the new-moon oblation, or on a *nakṣatra*.'",
+      "justification": "The Baudhāyana Śrautasūtra is quoted for an additional timing option for the animal sacrifice based on the new-moon day or a nakṣatra."
+    },
+    {
+      "cited_work": "Baudhāyana Śrautasūtra",
+      "cited_author": "Baudhāyana",
+      "stance": "authority",
+      "paragraph_id": "p-89599f",
+      "quote": "One may also sacrifice with the Cāturmāsyas in twelve days. Then, having sacrificed with the Vaiśvadeva on the first, with the Varuṇapraghāsas on the fourth, with the Sākamedhas on the eighth and ni",
+      "justification": "The Baudhāyana Śrautasūtra is directly quoted for the twelve-day compressed procedure for the Cāturmāsya sacrifices."
+    },
+    {
+      "cited_work": "Baudhāyana Śrautasūtra",
+      "cited_author": "Baudhāyana",
+      "stance": "authority",
+      "paragraph_id": "p-ed916a",
+      "quote": "Some say the performance is on a *nakṣatra*; one should perform it in the northern transit, in the waxing fortnight, on an auspicious day.",
+      "justification": "Baudhāyana is cited for a nakṣatra-based timing option for the Cāturmāsya, with the qualifier of northern transit and waxing fortnight."
+    },
+    {
+      "cited_work": "Baudhāyana Śrautasūtra",
+      "cited_author": "Baudhāyana",
+      "stance": "authority",
+      "paragraph_id": "p-622bd1",
+      "quote": "How then is the subsequent performance of the lifelong Cāturmāsyas? On the Phālguna or Caitra Paurṇamāsī, a man should sacrifice with the Śunāsīrīya, then observe the preparatory rite for the Vaiśva",
+      "justification": "Baudhāyana is quoted for the rule governing the second and subsequent years of lifelong Cāturmāsya performance."
+    },
+    {
+      "cited_work": "Baudhāyana Śrautasūtra",
+      "cited_author": "Baudhāyana",
+      "stance": "authority",
+      "paragraph_id": "p-b7a5d7",
+      "quote": "'According to the performance,' says Aupamanyava.",
+      "justification": "Baudhāyana's sūtra is the text within which Aupamanyava's opinion is embedded and from which the Vīramitrodaya quotes."
+    },
+    {
+      "cited_work": "Bhāradvāja Śrautasūtra",
+      "cited_author": "Bhāradvāja",
+      "stance": "authority",
+      "paragraph_id": "p-9b4eac",
+      "quote": "Because by the statement of Bhāradvāja, 'In the northern transit, in the waxing fortnight, all of them, in the case of optional rites, when there are many times,' it is not proper to imagine a supersession",
+      "justification": "The Bhāradvāja Śrautasūtra is cited as laying down the general rule that optional rites with multiple possible times should be performed in the northern transit and waxing fortnight."
+    },
+    {
+      "cited_work": "Bhāradvāja Śrautasūtra",
+      "cited_author": "Bhāradvāja",
+      "stance": "authority",
+      "paragraph_id": "p-c90a61",
+      "quote": "There, Bhāradvāja says: 'One who is about to sacrifice for twelve days, on Pratipad with the Vaiśvānara and Pārjanya; on the second day, with the Vaiśvadeva'",
+      "justification": "Bhāradvāja is directly quoted for the detailed day-by-day schedule of the twelve-day Cāturmāsya dvādaśāhakalpa."
+    },
+    {
+      "cited_work": "Āśvalāyana Śrautasūtra",
+      "cited_author": "Āśvalāyana",
+      "stance": "authority",
+      "paragraph_id": "p-2307bf",
+      "quote": "Āśvalāyana also, by 'even before with a single Soma,' has stated that the Soma sacrifice is to be performed even before the new- and full-moon sacrifices.",
+      "justification": "The Āśvalāyana Śrautasūtra is cited for the exception allowing a Soma sacrifice before the dārśapaurṇamāsa, supporting the opening paragraphs of this window."
+    },
+    {
+      "cited_work": "Taittirīya school (Taittirīya Brāhmaṇa / Taittirīya Saṃhitā)",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-6b7216",
+      "quote": "'*Nakṣatra*' means in the fourteen auspicious *nakṣatras* stated in the Taittirīya school, 'Kṛttikā is the first, Viśākhā is the last.'",
+      "justification": "The Taittirīya school's enumeration of fourteen auspicious nakṣatras (Kṛttikā to Viśākhā) is cited as the authority for which lunar mansions qualify for the animal sacrifice."
+    },
+    {
+      "cited_work": "Manusmṛti",
+      "cited_author": "Manu",
+      "stance": "authority",
+      "paragraph_id": "p-b856cc",
+      "quote": "because a penance stated by Manu, etc., for its non-performance will be stated",
+      "justification": "Manu is cited (alongside unnamed others) as the source of the penance prescription that confirms the animal sacrifice is obligatory (nitya)."
+    },
+    {
+      "cited_work": "Commentary on Baudhāyana by Keśavasvāmī",
+      "cited_author": "Keśavasvāmī",
+      "stance": "authority",
+      "paragraph_id": "p-10c777",
+      "quote": "'The entire northern transit (*uttarāyaṇa*) is the time for the establishment of the fires; thus it is said by the teachers,' is stated by Keśavasvāmī in the commentary on Baudhāyana.",
+      "justification": "Keśavasvāmī's commentary on Baudhāyana is cited as establishing the uttarāyaṇa as the correct time for the agnyādheya."
+    }
+  ]
+}
