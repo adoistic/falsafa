@@ -534,6 +534,8 @@ export default function WorksBrowser({ works }: Props): JSX.Element {
 
         .work-card {
           display: block;
+          min-width: 0;
+          overflow-wrap: anywhere;
           padding: var(--s-4);
           border: 1px solid var(--rule);
           color: var(--ink);
