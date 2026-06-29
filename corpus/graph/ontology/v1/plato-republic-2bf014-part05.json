@@ -1,0 +1,791 @@
+{
+  "slug": "plato-republic-2bf014",
+  "window": "03:0-16",
+  "entities": [
+    {
+      "canonical_name": "Hades",
+      "surface_names": ["the underworld", "the dead", "dwellings of Hades", "infernal pit", "that other world"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-7d967c",
+          "quote": "if he believes in the reality of the underworld and its terrors, do you think that any man will be fearless of death",
+          "role": "place of fear whose poetic depictions must be censored to produce brave guardians"
+        },
+        {
+          "paragraph_id": "p-7d967c",
+          "quote": "the life in Hades but rather praise it, since what they now tell us is neither true nor edifying",
+          "role": "subject of poetic description to be reformed"
+        },
+        {
+          "paragraph_id": "p-5b1426",
+          "quote": "We have declared the right way of speaking about gods and daemons and heroes and that other world.",
+          "role": "topic category of regulated speech"
+        }
+      ],
+      "description": "The underworld (Hades) as a place depicted in poetry whose terrifying portrayals Socrates seeks to expunge lest they make guardians fear death.",
+      "justification": "Hades is repeatedly invoked as the central poetic subject whose fearful depictions undermine the courage of would-be guardians, making it a named place entity structuring the censorship argument."
+    },
+    {
+      "canonical_name": "Cocytus",
+      "surface_names": ["Cocytus named of lamentation loud"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-7d967c",
+          "quote": "Cocytus named of lamentation loud, abhorred Styx, the flood of deadly hate, the people of the infernal pit and of the charnel-house",
+          "role": "underworld toponym whose very name is to be expunged from poetic vocabulary"
+        }
+      ],
+      "description": "The river of lamentation in Hades, cited alongside Styx as part of the vocabulary of terror that Plato orders suppressed.",
+      "justification": "Cocytus is explicitly named as one of the terms whose mention induces fear-shudders and must therefore be removed from the poets' diction."
+    },
+    {
+      "canonical_name": "Styx",
+      "surface_names": ["abhorred Styx, the flood of deadly hate"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-7d967c",
+          "quote": "abhorred Styx, the flood of deadly hate, the people of the infernal pit and of the charnel-house",
+          "role": "underworld toponym whose name must be expunged"
+        }
+      ],
+      "description": "The river of hatred bounding the underworld, grouped with Cocytus as terror-inducing vocabulary to be banned from poetry.",
+      "justification": "Styx is explicitly listed among the words whose emotional charge makes them unfit for guardians' ears."
+    },
+    {
+      "canonical_name": "Hephaestus",
+      "surface_names": ["Hephaestus"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-da5a5d",
+          "quote": "Quenchless then was the laughter that rose from the blessed immortals When they beheld Hephaestus officiously puffing and panting.",
+          "role": "comic figure in Homer whose lameness provokes divine laughter, cited as an example to be censored"
+        },
+        {
+          "paragraph_id": "p-717196",
+          "quote": "to hear of Hephaestus's fettering Ares and Aphrodite for a like motive",
+          "role": "agent of the comic entrapment of Ares and Aphrodite, cited as morally unsuitable"
+        }
+      ],
+      "description": "The smith-god Hephaestus, whose comic and undignified depictions in Homer are cited by Plato as models of divine representation to be prohibited.",
+      "justification": "Hephaestus is named twice in the censorship discussion: once as the butt of the gods' laughter and once as the agent who traps Ares and Aphrodite, both episodes deemed unedifying."
+    },
+    {
+      "canonical_name": "Achilles",
+      "surface_names": ["Achilles", "the son of a goddess"],
+      "kind": "figure",
+      "figure_kind": "hero",
+      "mentions": [
+        {
+          "paragraph_id": "p-06edba",
+          "quote": "we shall request Homer and the other poets not to portray Achilles, the son of a goddess, as, Lying now on his side, and then again on his back",
+          "role": "heroic figure whose lamentation over Patroclus must be suppressed"
+        },
+        {
+          "paragraph_id": "p-717196",
+          "quote": "we must not be surprised, or what is your view of it? … Nor should we approve Achilles' attendant Phoenix as speaking fairly when he counselled him if he received gifts for it to defend the Achaeans",
+          "role": "hero associated with greed-for-gifts, condemned as a moral exemplar"
+        },
+        {
+          "paragraph_id": "p-48d937",
+          "quote": "nor shall we think it proper nor admit that Achilles himself was so greedy as to accept gifts from Agamemnon and again to give up a dead body after receiving payment",
+          "role": "hero whose greed and arrogance toward gods and men is declared a poetic lie"
+        }
+      ],
+      "description": "The Trojan War hero Achilles, whose Homeric portrayal of grief, greed, and impiety toward gods is rejected by Plato as a false and harmful model for guardians.",
+      "justification": "Achilles is the primary heroic case-study in Book III's censorship of poetry: his lament, his acceptance of gifts, his defiance of Apollo, and the dragging of Hector's corpse are all singled out for prohibition."
+    },
+    {
+      "canonical_name": "Priam",
+      "surface_names": ["Priam"],
+      "kind": "figure",
+      "figure_kind": "hero",
+      "mentions": [
+        {
+          "paragraph_id": "p-06edba",
+          "quote": "nor yet Priam, near kinsman of the gods, making supplication and rolling in the dung, Calling aloud unto each, by name to each man appealing.",
+          "role": "royal figure whose public lamentation is deemed unfitting for imitation"
+        }
+      ],
+      "description": "The king of Troy depicted rolling in dung in lamentation, whose undignified grief-behavior Plato forbids poets from representing.",
+      "justification": "Priam is explicitly named as a figure whose lamentation-behavior must be expunged because it would model shameful lack of self-control for guardian youth."
+    },
+    {
+      "canonical_name": "Zeus",
+      "surface_names": ["Zeus", "the supreme god"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-06edba",
+          "quote": "if they will so picture the gods at least not to have the effrontery to present so unlikely a likeness of the supreme god as to make him say: Out on it, dear to my heart is the man",
+          "role": "supreme deity whose expressions of grief over Sarpedon must not be depicted"
+        },
+        {
+          "paragraph_id": "p-717196",
+          "quote": "Or to hear how Zeus lightly forgot all the designs which he devised, watching while the other gods slept, because of the excitement of his passions",
+          "role": "deity depicted as overcome by lust for Hera, cited as morally corrupting"
+        },
+        {
+          "paragraph_id": "p-48d937",
+          "quote": "we will affirm to be lies, nor will we suffer our youth to believe that Achilles, the son of a goddess and of Peleus the most chaste of men, grandson of Zeus",
+          "role": "divine ancestor of Achilles, invoked in establishing heroic lineage"
+        }
+      ],
+      "description": "The king of the gods whose Homer-depicted grief over Sarpedon and lust for Hera are condemned by Plato as unworthy depictions of the divine.",
+      "justification": "Zeus is the chief example of how the supreme deity must not be shown lamenting or surrendering to erotic passion, since such depictions corrupt the youth's conception of divine virtue."
+    },
+    {
+      "canonical_name": "Sarpedon",
+      "surface_names": ["Sarpedon"],
+      "kind": "figure",
+      "figure_kind": "hero",
+      "mentions": [
+        {
+          "paragraph_id": "p-06edba",
+          "quote": "Ah, woe is me! of all men to me is Sarpedon the dearest, Fated to fall by the hands of Patroclus, Menoitius' offspring.",
+          "role": "Lycian hero mourned by Zeus, whose death scene exemplifies the divine lamentation to be censored"
+        }
+      ],
+      "description": "The Lycian hero and son of Zeus killed by Patroclus, whose death prompts Zeus's lament in the Iliad—the very passage Plato cites as an impermissible depiction of divine grief.",
+      "justification": "Sarpedon's death scene is the specific textual evidence Plato offers for why gods must not be shown grieving in poetry."
+    },
+    {
+      "canonical_name": "Patroclus",
+      "surface_names": ["Patroclus", "Menoitius' offspring"],
+      "kind": "figure",
+      "figure_kind": "hero",
+      "mentions": [
+        {
+          "paragraph_id": "p-06edba",
+          "quote": "Fated to fall by the hands of Patroclus, Menoitius' offspring.",
+          "role": "slayer of Sarpedon in the quoted divine lament"
+        },
+        {
+          "paragraph_id": "p-48d937",
+          "quote": "This let me give to take with him my hair to the hero, Patroclus, who was a dead body",
+          "role": "deceased companion of Achilles, to whose pyre Achilles consecrates his hair"
+        }
+      ],
+      "description": "Achilles' companion Patroclus, mentioned as slayer of Sarpedon and as the corpse at whose pyre Achilles performs the impious rituals Plato rejects.",
+      "justification": "Patroclus appears in two quoted Homeric passages used as evidence for the censorship: the Sarpedon lament and the Spercheius hair-dedication."
+    },
+    {
+      "canonical_name": "Agamemnon",
+      "surface_names": ["Agamemnon", "Atreus' sons"],
+      "kind": "figure",
+      "figure_kind": "hero",
+      "mentions": [
+        {
+          "paragraph_id": "p-48d937",
+          "quote": "nor shall we think it proper nor admit that Achilles himself was so greedy as to accept gifts from Agamemnon",
+          "role": "giver of gifts to Achilles whose transaction exemplifies unworthy greed"
+        },
+        {
+          "paragraph_id": "p-efd77a",
+          "quote": "the poet says that Chryses implored Agamemnon to release his daughter, and that the king was angry",
+          "role": "king who rejects Chryses' supplication, used as the chief narrative example of mimetic versus diegetic narration"
+        },
+        {
+          "paragraph_id": "p-9e9b62",
+          "quote": "Agamemnon was angry and bade him depart and not come again lest the scepter and the fillets of the god should not avail him",
+          "role": "figure in the re-narrated Iliad passage demonstrating pure narration"
+        }
+      ],
+      "description": "The Greek commander-king whose angry rejection of Chryses and his gift-exchange with Achilles are deployed as narrative examples in Plato's discussion of poetic mimesis and guardian censorship.",
+      "justification": "Agamemnon is named across three paragraphs, serving first as a moral exemplar of greed and then as the central character in the extended illustration of narration versus imitation."
+    },
+    {
+      "canonical_name": "Apollo",
+      "surface_names": ["Apollo", "Far-darter", "the god"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-48d937",
+          "quote": "Me thou hast baulked, Far-darter, the most pernicious of all gods, Mightily would I requite thee if only my hands had the power.",
+          "role": "deity insulted by Achilles, cited as impious speech that must not be repeated"
+        },
+        {
+          "paragraph_id": "p-9e9b62",
+          "quote": "he prayed at length to Apollo, invoking the appellations of the god, and reminding him of and asking requital for any of his gifts",
+          "role": "deity to whom Chryses prays for vengeance against the Achaeans"
+        },
+        {
+          "paragraph_id": "p-105e72",
+          "quote": "we are not innovating, my friend, in preferring Apollo and the instruments of Apollo to Marsyas and his instruments.",
+          "role": "divine patron of the lyre, whose string instruments are retained over Marsyas's wind instruments"
+        }
+      ],
+      "description": "The god Apollo, who appears as the deity Achilles impiously threatens, the god Chryses petitions for vengeance, and the divine patron of the lyre upheld over Marsyas in the musical purge.",
+      "justification": "Apollo appears in three distinct roles across three paragraphs, anchoring both the censorship-of-hero-impiety argument and the resolution of the musical instrument debate."
+    },
+    {
+      "canonical_name": "Marsyas",
+      "surface_names": ["Marsyas"],
+      "kind": "figure",
+      "figure_kind": "figure",
+      "mentions": [
+        {
+          "paragraph_id": "p-105e72",
+          "quote": "we are not innovating, my friend, in preferring Apollo and the instruments of Apollo to Marsyas and his instruments.",
+          "role": "satyr associated with the aulos (flute), whose poly-harmonic instruments are rejected in favor of Apollo's lyre"
+        }
+      ],
+      "description": "The Phrygian satyr Marsyas, whose wind instruments (flute/aulos) represent the rejected poly-harmonic music that Plato expels in favor of the simpler lyre.",
+      "justification": "Marsyas is named as the archetypal representative of the flute-music tradition that is banished from the city, contrasted with Apollo's lyre."
+    },
+    {
+      "canonical_name": "Chryses",
+      "surface_names": ["Chryses", "the priest"],
+      "kind": "figure",
+      "figure_kind": "figure",
+      "mentions": [
+        {
+          "paragraph_id": "p-efd77a",
+          "quote": "the poet says that Chryses implored Agamemnon to release his daughter, and that the king was angry and that Chryses, failing of his request, imprecated curses on the Achaeans",
+          "role": "priest of Apollo whose supplication to Agamemnon is the narrative passage used to illustrate mimetic poetry"
+        },
+        {
+          "paragraph_id": "p-9e9b62",
+          "quote": "the priest came and prayed that to them the gods should grant to take Troy and come safely home, but that they should accept the ransom and release his daughter, out of reverence for the god",
+          "role": "character re-narrated in Plato's own diegetic paraphrase as the model of pure narration without imitation"
+        }
+      ],
+      "description": "The Trojan priest of Apollo whose Iliadic supplication to Agamemnon Plato uses as his primary worked example to distinguish narrative (diegesis) from imitation (mimesis).",
+      "justification": "Chryses is the pivot character of the extended narration-vs-mimesis illustration: Plato quotes Homer speaking as Chryses, then re-narrates the same scene in pure diegetic mode to show the difference."
+    },
+    {
+      "canonical_name": "Adeimantus",
+      "surface_names": ["Adeimantus"],
+      "kind": "figure",
+      "figure_kind": "figure",
+      "mentions": [
+        {
+          "paragraph_id": "p-438e5d",
+          "quote": "For if, dear Adeimantus, our young men should seriously incline to listen to such tales and not laugh at them as unworthy utterances",
+          "role": "interlocutor addressed by Socrates in the discussion of laughing at unworthy utterances"
+        },
+        {
+          "paragraph_id": "p-5b1426",
+          "quote": "And Adeimantus said, I don't understand what you mean by this.",
+          "role": "interlocutor who requests clarification on the distinction between matter and manner of speech"
+        },
+        {
+          "paragraph_id": "p-041b61",
+          "quote": "Nay, but the mixed type also is pleasing, Adeimantus, and far most pleasing to boys and their tutors and the great mob is the opposite of your choice.",
+          "role": "interlocutor whose preference for unmixed imitation of the good is acknowledged"
+        }
+      ],
+      "description": "Plato's brother and Socrates' interlocutor in Book III, who receives the argument about guardian education in music, poetry, and mimesis.",
+      "justification": "Adeimantus is directly addressed and explicitly named three times across the window as the primary interlocutor in the philosophical dialogue."
+    },
+    {
+      "canonical_name": "Glaucon",
+      "surface_names": ["Glaucon"],
+      "kind": "figure",
+      "figure_kind": "figure",
+      "mentions": [
+        {
+          "paragraph_id": "p-9d64b4",
+          "quote": "I am afraid that everybody does not include me, laughed Glaucon; I cannot sufficiently divine off-hand what we ought to say, though I have a suspicion.",
+          "role": "interlocutor who takes over from Adeimantus in the discussion of musical modes"
+        },
+        {
+          "paragraph_id": "p-e4db58",
+          "quote": "And is it not for this reason, Glaucon, said I, that education in music is most sovereign",
+          "role": "addressee in Socrates' summary statement on musical education and the soul"
+        }
+      ],
+      "description": "Plato's brother and Socrates' other main interlocutor in Book III, who participates in the musical modes discussion and receives the conclusion on music's sovereignty over the soul.",
+      "justification": "Glaucon is named and addressed twice in the window, marking his entry into the dialogue at the transition to musical modes."
+    },
+    {
+      "canonical_name": "Theseus",
+      "surface_names": ["Theseus", "the son of Poseidon"],
+      "kind": "figure",
+      "figure_kind": "hero",
+      "mentions": [
+        {
+          "paragraph_id": "p-48d937",
+          "quote": "Neither, then, said I, must we believe this or suffer it to be said, that Theseus, the son of Poseidon, and Peirithous, the son of Zeus, attempted such dreadful rapes",
+          "role": "hero whose mythological rapes are declared false stories unfit for youth"
+        }
+      ],
+      "description": "The Athenian hero Theseus, whose violent abductions are cited by Plato as the kind of heroic misbehavior that poets must be forbidden to attribute to sons of gods.",
+      "justification": "Theseus is explicitly named as an example of a divine son falsely credited with impious deeds, making him a grounded figure in the censorship argument."
+    },
+    {
+      "canonical_name": "Peirithous",
+      "surface_names": ["Peirithous", "the son of Zeus"],
+      "kind": "figure",
+      "figure_kind": "hero",
+      "mentions": [
+        {
+          "paragraph_id": "p-48d937",
+          "quote": "that Theseus, the son of Poseidon, and Peirithous, the son of Zeus, attempted such dreadful rapes",
+          "role": "Lapith hero paired with Theseus in the example of impious deeds falsely ascribed to divine sons"
+        }
+      ],
+      "description": "The Lapith hero Peirithous, companion of Theseus and son of Zeus, cited alongside Theseus as a case of false heroic transgression to be suppressed.",
+      "justification": "Peirithous is explicitly named as the son of Zeus whose impious rapes must not be recounted, directly grounding his role in the censorship argument."
+    },
+    {
+      "canonical_name": "Poseidon",
+      "surface_names": ["Poseidon"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-48d937",
+          "quote": "Theseus, the son of Poseidon, and Peirithous, the son of Zeus, attempted such dreadful rapes",
+          "role": "divine father of Theseus, invoked to establish heroic divine lineage"
+        }
+      ],
+      "description": "The sea-god Poseidon mentioned as the divine father of Theseus, whose lineage is invoked to make the censorship argument—that even sons of gods must not be shown doing evil.",
+      "justification": "Poseidon is named in the sentence establishing Theseus's divine parentage, functioning as a grounded entity in the genealogical dimension of the censorship rule."
+    },
+    {
+      "canonical_name": "Hera",
+      "surface_names": ["Hera"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-717196",
+          "quote": "how Zeus lightly forgot all the designs which he devised, watching while the other gods slept, because of the excitement of his passions, and was so overcome by the sight of Hera that he is not even willing to go to their chamber",
+          "role": "goddess whose seduction of Zeus illustrates the morally corrupting erotic episode in Homer"
+        }
+      ],
+      "description": "The queen of the gods whose seduction of Zeus in the Iliad is cited by Plato as an example of poetry depicting divine erotic weakness unfit for guardians.",
+      "justification": "Hera is named in the specific Homeric episode of Zeus's surrender to passion, which Plato prohibits as corrupting to self-control in the young."
+    },
+    {
+      "canonical_name": "Ares",
+      "surface_names": ["Ares"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-717196",
+          "quote": "to hear of Hephaestus's fettering Ares and Aphrodite for a like motive",
+          "role": "god fettered by Hephaestus in the adulterous scene cited as morally corrupting"
+        }
+      ],
+      "description": "The god of war caught in adultery with Aphrodite and fettered by Hephaestus—a Homeric episode Plato rejects as promoting sexual licence.",
+      "justification": "Ares is named in the specific adulterous episode used as a negative exemplar of divine behavior unfit for guardian education."
+    },
+    {
+      "canonical_name": "Aphrodite",
+      "surface_names": ["Aphrodite"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-717196",
+          "quote": "to hear of Hephaestus's fettering Ares and Aphrodite for a like motive",
+          "role": "goddess caught in adultery alongside Ares, part of the morally unsuitable Homeric episode"
+        }
+      ],
+      "description": "The goddess of love caught in adultery with Ares in the Homeric episode cited by Plato as an example of divine behavior that must not be imitated.",
+      "justification": "Aphrodite is named as the co-adulteress in the Hephaestus-Ares-Aphrodite episode, grounding her as a figure in the censorship case."
+    },
+    {
+      "canonical_name": "Diomede",
+      "surface_names": ["Diomede", "Homer's Diomede"],
+      "kind": "figure",
+      "figure_kind": "hero",
+      "mentions": [
+        {
+          "paragraph_id": "p-da5a5d",
+          "quote": "we will think well said such sayings as that of Homer's Diomede: Friend, sit down and be silent and hark to the word of my bidding",
+          "role": "heroic figure whose words of command are endorsed as a positive model of self-control"
+        }
+      ],
+      "description": "The Greek hero Diomede, whose words of disciplined command in Homer are approvingly cited by Plato as a positive model of self-mastery for guardians.",
+      "justification": "Diomede is explicitly named as the speaker of lines approved for guardian education, making him a positively marked figure in the argument."
+    },
+    {
+      "canonical_name": "Phoenix",
+      "surface_names": ["Phoenix", "Achilles' attendant Phoenix"],
+      "kind": "figure",
+      "figure_kind": "figure",
+      "mentions": [
+        {
+          "paragraph_id": "p-717196",
+          "quote": "Nor should we approve Achilles' attendant Phoenix as speaking fairly when he counselled him if he received gifts for it to defend the Achaeans, but without gifts not to lay aside his wrath",
+          "role": "counselor of Achilles whose advice to condition help on gift-payment is condemned as greed-promoting"
+        }
+      ],
+      "description": "Phoenix, the tutor-companion of Achilles, whose counsel to make military aid conditional on gifts is rejected by Plato as modeling mercenary vice.",
+      "justification": "Phoenix is explicitly named and his specific counsel is quoted and condemned in the window's discussion of greed-promoting passages."
+    },
+    {
+      "canonical_name": "Peleus",
+      "surface_names": ["Peleus"],
+      "kind": "figure",
+      "figure_kind": "figure",
+      "mentions": [
+        {
+          "paragraph_id": "p-48d937",
+          "quote": "Achilles, the son of a goddess and of Peleus the most chaste of men, grandson of Zeus",
+          "role": "mortal father of Achilles, invoked to heighten the contrast between Achilles' noble lineage and his debased behavior"
+        }
+      ],
+      "description": "Peleus, the mortal father of Achilles, lauded as 'the most chaste of men' to intensify Plato's indictment of his son's depicted greed and arrogance.",
+      "justification": "Peleus is named in Plato's rhetorical contrast between Achilles' impeccable lineage and the morally unacceptable behavior Homer attributes to him."
+    },
+    {
+      "canonical_name": "Cheiron",
+      "surface_names": ["Cheiron"],
+      "kind": "figure",
+      "figure_kind": "figure",
+      "mentions": [
+        {
+          "paragraph_id": "p-48d937",
+          "quote": "grandson of Zeus, and himself bred under the care of the most sage Cheiron, was of so perturbed a spirit",
+          "role": "wise centaur educator of Achilles, cited to underline the incongruity of Achilles' depicted faults"
+        }
+      ],
+      "description": "Cheiron the centaur, the sage tutor of Achilles, cited to emphasize the paradox that a ward of such wisdom could be depicted as greedy and impious.",
+      "justification": "Cheiron is explicitly named as Achilles' educator in the passage establishing the incongruity between heroic upbringing and Homer's depiction."
+    },
+    {
+      "canonical_name": "Damon",
+      "surface_names": ["Damon"],
+      "kind": "figure",
+      "figure_kind": "figure",
+      "mentions": [
+        {
+          "paragraph_id": "p-cba460",
+          "quote": "on this point we will take counsel with Damon, too, as to which are the feet appropriate to illiberality, and insolence or madness or other evils",
+          "role": "musical authority deferred to by Socrates on the question of rhythmic forms and their ethical character"
+        }
+      ],
+      "description": "Damon the Athenian music theorist, cited as the expert authority on the ethical properties of rhythms, whose analysis Socrates acknowledges exceeding his own competence.",
+      "justification": "Damon is named as the specialist Socrates defers to on the question of which poetic feet correspond to which moral dispositions."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Censorship of poetry for the formation of guardian courage",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-7d967c",
+          "quote": "we must exercise supervision also, in the matter of such tales as these, over those who undertake to supply them and request them not to dispraise in this undiscriminating fashion the life in Hades but rather praise it"
+        },
+        {
+          "paragraph_id": "p-48d937",
+          "quote": "we must constrain the poets either to deny that these are their deeds or that they are the children of gods, but not to make both statements"
+        }
+      ],
+      "justification": "The entire window opens with Socrates extending the existing censorship programme to underworld depictions, lamentations, and heroic vice, making guardian-courage-formation through poetic supervision the master theme."
+    },
+    {
+      "topic": "Fear of death and the underworld as an obstacle to courage",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-7d967c",
+          "quote": "if he believes in the reality of the underworld and its terrors, do you think that any man will be fearless of death and in battle will prefer death to defeat and slavery?"
+        }
+      ],
+      "justification": "Plato explicitly argues that belief in terrifying underworld depictions is incompatible with courage, making the fear-of-death theme the psychological premise of the censorship programme."
+    },
+    {
+      "topic": "Self-sufficiency and emotional moderation of the good man",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-7d967c",
+          "quote": "such a one is most of all men sufficient unto himself for a good life and is distinguished from other men in having least need of anybody else"
+        },
+        {
+          "paragraph_id": "p-06edba",
+          "quote": "we should be right in doing away with the lamentations of men of note and in attributing them to women, and not to the most worthy of them either"
+        }
+      ],
+      "justification": "Plato's argument that the truly good man suffers loss least and laments least is a positive ethical ideal underlying the censorship of lamentation scenes."
+    },
+    {
+      "topic": "Divine representation and theological correctness",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-da5a5d",
+          "quote": "falsehood is in very deed useless to gods, but to men useful as a remedy or form of medicine, it is obvious that such a thing must be assigned to physicians"
+        },
+        {
+          "paragraph_id": "p-06edba",
+          "quote": "if they will so picture the gods at least not to have the effrontery to present so unlikely a likeness of the supreme god"
+        }
+      ],
+      "justification": "Multiple paragraphs articulate theological norms for how gods may be depicted, extending the prior theological censorship with specific prohibitions on divine grief, lust, and laughter."
+    },
+    {
+      "topic": "Monopoly of noble lying for the rulers",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-da5a5d",
+          "quote": "The rulers then of the city may, if anybody, fitly lie on account of enemies or citizens for the benefit of the state; no others may have anything to do with it"
+        }
+      ],
+      "justification": "Plato explicitly carves out a state monopoly on beneficial falsehood for rulers, distinguishing it from the private lying that is condemned as worse than a sailor's lie to his pilot."
+    },
+    {
+      "topic": "Self-control (sophrosyne) and the hierarchy of desires",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-da5a5d",
+          "quote": "Again, will our lads not need the virtue of self-control? Of course. And for the multitude are not the main points of self-control these—to be obedient to their rulers and themselves to be rulers over the bodily appetites and pleasures of food, drink, and the rest?"
+        },
+        {
+          "paragraph_id": "p-717196",
+          "quote": "do you think the hearing of that sort of thing will conduce to a young man's temperance or self-control?"
+        }
+      ],
+      "justification": "The theme of self-control runs through the critique of Homeric passages depicting gluttony, erotic excess, and drunkenness, presented as the positive civic virtue censorship is meant to cultivate."
+    },
+    {
+      "topic": "Mimesis versus diegesis — the theory of poetic modes",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-5b1426",
+          "quote": "So this concludes the topic of tales. That of diction, I take it, is to be considered next. So we shall have completely examined both the matter and the manner of speech."
+        },
+        {
+          "paragraph_id": "p-efd77a",
+          "quote": "when he delivers a speech as if he were someone else, shall we not say that he then assimilates thereby his own diction is far as possible to that of the person whom he announces as about to speak?"
+        },
+        {
+          "paragraph_id": "p-9e9b62",
+          "quote": "there is one kind of poetry and tale-telling which works wholly through imitation … and another which employs the recital of the poet himself … and there is again that which employs both, in epic poetry"
+        }
+      ],
+      "justification": "Paragraphs 7-10 pivot the entire inquiry from content to form (lexis), constructing the three-way taxonomy of pure mimesis (drama), pure diegesis (dithyramb), and mixed (epic) that is one of the Republic's foundational contributions to literary theory."
+    },
+    {
+      "topic": "The danger of habitual imitation to character formation",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-58178e",
+          "quote": "imitations, if continued from youth far into life, settle down into habits and (second) nature in the body, the speech, and the thought"
+        },
+        {
+          "paragraph_id": "p-9d64b4",
+          "quote": "we ourselves, for our souls' good, should continue to employ the more austere and less delightful poet and tale-teller, who would imitate the diction of the good man"
+        }
+      ],
+      "justification": "The argument that mimetic practice becomes second nature underlies the guardian prohibition on imitating slaves, women, cowards, and craftsmen, constituting the psychological-ethical rationale for restricting dramatic imitation."
+    },
+    {
+      "topic": "Musical modes and their ethical-psychological effects on the soul",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-9d64b4",
+          "quote": "The mixed Lydian, he said, and the tense or higher Lydian, and similar modes. These, then, said I, we must do away with."
+        },
+        {
+          "paragraph_id": "p-105e72",
+          "quote": "leave us that mode that would fittingly imitate the utterances and the accents of a brave man who is engaged in warfare"
+        }
+      ],
+      "justification": "The transition to musical modes constitutes a distinct sub-theme: Plato argues that harmony and rhythm directly affect the soul, making selection of modes a political-ethical act parallel to the censorship of poetic content."
+    },
+    {
+      "topic": "Rhythm, harmony, and aesthetic form as moral education",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-cba460",
+          "quote": "we must observe what are the rhythms of a life that is orderly and brave, and after observing them require the foot and the air to conform to that kind of man's speech"
+        },
+        {
+          "paragraph_id": "p-e4db58",
+          "quote": "gracelessness and evil rhythm and disharmony are akin to evil speaking and the evil temper but the opposites are the symbols and the kin of the opposites, the sober and good disposition"
+        }
+      ],
+      "justification": "Paragraphs 14-15 extend the musical argument to all craft and nature, claiming that aesthetic grace (in weaving, architecture, bodily form) is structurally homologous to moral grace, making beauty-perception a vehicle of ethical formation."
+    },
+    {
+      "topic": "Music as the supreme vehicle of soul-formation",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-e4db58",
+          "quote": "education in music is most sovereign, because more than anything else rhythm and harmony find their way to the inmost soul and take strongest hold upon it"
+        }
+      ],
+      "justification": "This is the window's culminating positive thesis: the reason why all the preceding rules about poetry and music matter is that music penetrates the soul more deeply than any other medium."
+    },
+    {
+      "topic": "Recognition of beauty and virtue as parallel perceptual skills",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-cbb07f",
+          "quote": "we shall never be true musicians, either— neither we nor the guardians that we have undertaken to educate—until we are able to recognize the forms of soberness, courage, liberality, and high-mindedness"
+        },
+        {
+          "paragraph_id": "p-cbb07f",
+          "quote": "when there is a coincidence of a beautiful disposition in the soul and corresponding and harmonious beauties of the same type in the bodily form—is not this the fairest spectacle for one who is capable of its contemplation?"
+        }
+      ],
+      "justification": "Although never stated as a thesis, the implicit philosophical claim is that musical education trains a capacity for recognizing forms — a pre-figuration of the Theory of Forms that links aesthetic and moral perception as isomorphic recognitional acts."
+    },
+    {
+      "topic": "Greed and mercenary motivation as corruption of heroic virtue",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-717196",
+          "quote": "we must not chant: Gifts move the gods and gifts persuade dread kings."
+        },
+        {
+          "paragraph_id": "p-48d937",
+          "quote": "nor shall we think it proper nor admit that Achilles himself was so greedy as to accept gifts from Agamemnon"
+        }
+      ],
+      "justification": "The critique of gift-motivated conduct — from Phoenix's counsel to Achilles' ransoming of Hector's body — forms a coherent sub-theme about how mercenary calculation corrupts guardian virtue."
+    },
+    {
+      "topic": "The city's principle of specialization (one man, one craft)",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-58178e",
+          "quote": "If, then, we are to maintain our original principle, that our guardians, released from all other crafts, are to be expert craftsmen of civic liberty, and pursue nothing else"
+        },
+        {
+          "paragraph_id": "p-041b61",
+          "quote": "there is no twofold or manifold man among us, since every man does one thing"
+        }
+      ],
+      "justification": "The prohibition on guardians imitating craftsmen, slaves, and women is grounded in the city's foundational principle that each person does one thing well, connecting the mimesis discussion back to the city's constitutional logic."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Iliad",
+      "cited_author": "Homer",
+      "stance": "refute",
+      "paragraph_id": "p-7d967c",
+      "quote": "Liefer were I in the fields up above to be serf to another Tiller of some poor plot which yields him a scanty subsistence, Than to be ruler and king over all the dead who have perished",
+      "justification": "Plato quotes this Homeric verse (Odyssey 11.489-91, spoken by Achilles' shade) as a prime example of the poetic underworld-terror that must be expunged; the refutation stance is explicit: 'we will expunge everything of the same kind.'"
+    },
+    {
+      "cited_work": "Odyssey",
+      "cited_author": "Homer",
+      "stance": "refute",
+      "paragraph_id": "p-7d967c",
+      "quote": "Lest unto men and immortals the homes of the dead be uncovered Horrible, noisome, dank, that the gods too hold in abhorrence",
+      "justification": "A second Homeric passage on the terrors of the underworld, grouped with others for censorship."
+    },
+    {
+      "cited_work": "Iliad",
+      "cited_author": "Homer",
+      "stance": "refute",
+      "paragraph_id": "p-06edba",
+      "quote": "we shall request Homer and the other poets not to portray Achilles, the son of a goddess, as, Lying now on his side, and then again on his back",
+      "justification": "Plato explicitly refuses to permit this Homeric depiction of Achilles' grief, directly refuting Homer's authority to represent heroes lamenting."
+    },
+    {
+      "cited_work": "Iliad",
+      "cited_author": "Homer",
+      "stance": "refute",
+      "paragraph_id": "p-06edba",
+      "quote": "Out on it, dear to my heart is the man whose pursuit around Troy-town I must behold with my eyes while my spirit is grieving within me",
+      "justification": "Plato quotes Zeus's lament over Hector from the Iliad and forbids poets from attributing such grief-speech to the supreme god."
+    },
+    {
+      "cited_work": "Iliad",
+      "cited_author": "Homer",
+      "stance": "refute",
+      "paragraph_id": "p-06edba",
+      "quote": "Ah, woe is me! of all men to me is Sarpedon the dearest, Fated to fall by the hands of Patroclus, Menoitius' offspring.",
+      "justification": "Zeus's lament over Sarpedon from the Iliad is cited and condemned as an impermissible portrayal of divine grief."
+    },
+    {
+      "cited_work": "Iliad",
+      "cited_author": "Homer",
+      "stance": "refute",
+      "paragraph_id": "p-da5a5d",
+      "quote": "Quenchless then was the laughter that rose from the blessed immortals When they beheld Hephaestus officiously puffing and panting.",
+      "justification": "Homer's depiction of the gods' unrestrained laughter at Hephaestus is quoted and rejected as inappropriate for guardians."
+    },
+    {
+      "cited_work": "Iliad",
+      "cited_author": "Homer",
+      "stance": "endorse",
+      "paragraph_id": "p-da5a5d",
+      "quote": "Friend, sit down and be silent and hark to the word of my bidding",
+      "justification": "Plato approves this Homeric line attributed to Diomede as a model of proper obedience and self-control, endorsing it for guardian use."
+    },
+    {
+      "cited_work": "Iliad",
+      "cited_author": "Homer",
+      "stance": "refute",
+      "paragraph_id": "p-717196",
+      "quote": "Heavy with wine with the eyes of a dog and the heart of a fleet deer",
+      "justification": "This abusive line addressed to a ruler (Agamemnon) is quoted and condemned as unsuitable for youth since it models disrespect toward authority."
+    },
+    {
+      "cited_work": "Odyssey",
+      "cited_author": "Homer",
+      "stance": "refute",
+      "paragraph_id": "p-717196",
+      "quote": "When the bounteous tables are standing Laden with bread and with meat and the cupbearer ladles the sweet wine Out of the mixer and bears it and empties it into the beakers.",
+      "justification": "The praise of feasting attributed to 'the wisest man' (Odysseus) is condemned as incompatible with temperance in youth."
+    },
+    {
+      "cited_work": "Iliad",
+      "cited_author": "Homer",
+      "stance": "refute",
+      "paragraph_id": "p-717196",
+      "quote": "how Zeus lightly forgot all the designs which he devised … because of the excitement of his passions, and was so overcome by the sight of Hera",
+      "justification": "The Dios Apate episode (Iliad 14) depicting Zeus's erotic distraction is rejected as promoting sexual licence contrary to guardian self-control."
+    },
+    {
+      "cited_work": "Iliad",
+      "cited_author": "Homer",
+      "stance": "endorse",
+      "paragraph_id": "p-717196",
+      "quote": "He smote his breast and chided thus his heart, Endure, my heart, for worse hast thou endured.",
+      "justification": "Odysseus's self-exhortation (Odyssey 20.17-18) is approved as a model of endurance for guardians."
+    },
+    {
+      "cited_work": "Iliad",
+      "cited_author": "Homer",
+      "stance": "refute",
+      "paragraph_id": "p-48d937",
+      "quote": "Me thou hast baulked, Far-darter, the most pernicious of all gods, Mightily would I requite thee if only my hands had the power.",
+      "justification": "Achilles' threat against Apollo is quoted and condemned as an example of impious speech that youth must not hear."
+    },
+    {
+      "cited_work": "Iliad",
+      "cited_author": "Homer",
+      "stance": "refute",
+      "paragraph_id": "p-efd77a",
+      "quote": "the poet says that Chryses implored Agamemnon to release his daughter, and that the king was angry and that Chryses, failing of his request, imprecated curses on the Achaeans in his prayers to the god",
+      "justification": "Plato uses this opening of the Iliad as the primary worked example to illustrate imitative versus narrative diction; the stance is analytical rather than wholesale condemnation, but the mimetic form itself is ultimately restricted."
+    },
+    {
+      "cited_work": "unspecified tragedy",
+      "cited_author": "Hesiod",
+      "stance": "neutral",
+      "paragraph_id": "p-48d937",
+      "quote": "The near-sown seed of gods, Close kin to Zeus, for whom on Ida's top Ancestral altars flame to highest heaven, Nor in their life-blood fails the fire divine.",
+      "justification": "These lines (likely from a tragedy, possibly attributed to Hesiod in Plato's tradition) are quoted as the kind of verse that makes men lenient about their own misdeeds by claiming divine descent; the neutral stance reflects citation-as-evidence rather than explicit endorsement or refutation."
+    }
+  ]
+}

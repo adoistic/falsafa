@@ -1,0 +1,501 @@
+{
+  "slug": "plato-crito-33befc",
+  "window": "01-crito",
+  "entities": [
+    {
+      "canonical_name": "Socrates",
+      "surface_names": ["Socrates"],
+      "kind": "figure",
+      "figure_kind": "philosopher",
+      "mentions": [
+        {
+          "paragraph_id": "p-c859ab",
+          "quote": "Why have you come at this time, Crito? Or isn't it still early?",
+          "role": "protagonist and condemned philosopher speaking from prison"
+        },
+        {
+          "paragraph_id": "p-a2e382",
+          "quote": "Well, Crito, it would be absurd if at my age I were disturbed because I must die now.",
+          "role": "subject facing imminent death with equanimity"
+        },
+        {
+          "paragraph_id": "p-122f0d",
+          "quote": "I am not only now but always a man who follows nothing but the reasoning which on consideration seems to me best.",
+          "role": "reasoner committed to rational argument over popular opinion"
+        },
+        {
+          "paragraph_id": "p-9696d8",
+          "quote": "you never went out from the city to a festival, or anywhere else, except on military service",
+          "role": "lifelong Athenian citizen addressed by the Laws"
+        }
+      ],
+      "description": "The condemned Athenian philosopher awaiting execution in prison, whose calm reasoning about justice and obligation forms the dialogue's core.",
+      "justification": "Socrates is the named protagonist in every exchange, framing the refusal of escape in terms of his commitment to reason and the obligations of citizenship."
+    },
+    {
+      "canonical_name": "Crito",
+      "surface_names": ["Crito"],
+      "kind": "figure",
+      "figure_kind": "friend/interlocutor",
+      "mentions": [
+        {
+          "paragraph_id": "p-8c6711",
+          "quote": "He is used to me by this time, Socrates, because I come here so often, and besides I have done something for him.",
+          "role": "loyal friend who has bribed the prison guard for access"
+        },
+        {
+          "paragraph_id": "p-a7fac0",
+          "quote": "my dear Socrates, even now listen to me and save yourself. Since, if you die, it will be no mere single misfortune to me, but I shall lose a friend such as I can never find again",
+          "role": "friend urging Socrates to escape on grounds of friendship and reputation"
+        },
+        {
+          "paragraph_id": "p-eb1417",
+          "quote": "Simmias of Thebes, has brought for this especial purpose sufficient funds; and Cebes also and very many others are ready",
+          "role": "organizer of the escape plan with financial backing from others"
+        }
+      ],
+      "description": "A wealthy Athenian friend of Socrates who arrives before dawn to urge him to escape, driven by loyalty, concern for reputation, and grief.",
+      "justification": "Crito is named and present throughout, serving as the interlocutor whose arguments Socrates systematically refutes."
+    },
+    {
+      "canonical_name": "Simmias of Thebes",
+      "surface_names": ["Simmias of Thebes", "Simmias"],
+      "kind": "figure",
+      "figure_kind": "friend/associate",
+      "mentions": [
+        {
+          "paragraph_id": "p-eb1417",
+          "quote": "Simmias of Thebes, has brought for this especial purpose sufficient funds",
+          "role": "financial contributor to the proposed escape"
+        }
+      ],
+      "description": "A Theban associate of Socrates who has provided funds to finance Socrates' escape.",
+      "justification": "Simmias is explicitly named by Crito as one of the foreign supporters willing to fund the escape plan."
+    },
+    {
+      "canonical_name": "Cebes",
+      "surface_names": ["Cebes"],
+      "kind": "figure",
+      "figure_kind": "friend/associate",
+      "mentions": [
+        {
+          "paragraph_id": "p-eb1417",
+          "quote": "Cebes also and very many others are ready",
+          "role": "supporter ready to fund or assist the escape"
+        }
+      ],
+      "description": "Another associate of Socrates named alongside Simmias as willing to assist in the escape.",
+      "justification": "Cebes is explicitly named by Crito as one of those ready to help fund or execute the escape."
+    },
+    {
+      "canonical_name": "The Laws of Athens",
+      "surface_names": ["the laws", "the laws and the commonwealth", "the laws in Hades' realm", "us, the laws"],
+      "kind": "idea",
+      "mentions": [
+        {
+          "paragraph_id": "p-60ee19",
+          "quote": "If, as I was on the point of running away (or whatever it should be called), the laws and the commonwealth should come to me and ask, Tell me, Socrates, what have you in mind to do?",
+          "role": "personified authority questioning Socrates' proposed escape"
+        },
+        {
+          "paragraph_id": "p-af270f",
+          "quote": "In the first place, did we not bring you forth? Is it not through us that your father married your mother and begat you?",
+          "role": "personified parental authority claiming generative role over Socrates"
+        },
+        {
+          "paragraph_id": "p-bcb5d2",
+          "quote": "we proclaim, by having offered the opportunity to any of the Athenians who wishes to avail himself of it, that anyone who is not pleased with us when he has become a man … may take his goods and go away wherever he likes",
+          "role": "source of the social compact that Socrates implicitly accepted by remaining in Athens"
+        },
+        {
+          "paragraph_id": "p-635299",
+          "quote": "there our brothers, the laws in Hades' realm, will not receive you graciously",
+          "role": "cosmic-legal authority extending even into the afterlife"
+        }
+      ],
+      "description": "The personified Laws of Athens that Socrates imagines addressing him, representing the authority of the city's legal and social order to which he owes obedience.",
+      "justification": "Socrates explicitly introduces the Laws as a speaking voice to dramatize the obligation a citizen owes to the state that raised and educated him."
+    },
+    {
+      "canonical_name": "Athens",
+      "surface_names": ["Athens", "the city", "the state", "the commonwealth", "Athenians"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-8005ab",
+          "quote": "the question is whether it is right for me to try to escape from here without the permission of the Athenians",
+          "role": "political community whose consent Socrates refuses to circumvent"
+        },
+        {
+          "paragraph_id": "p-9696d8",
+          "quote": "you never went out from the city to a festival, or anywhere else, except on military service",
+          "role": "city Socrates spent his entire life in, evidencing tacit consent"
+        },
+        {
+          "paragraph_id": "p-5bf648",
+          "quote": "your country is more precious and more to be revered and is holier and in higher esteem among the gods and among men of understanding than your mother and your father",
+          "role": "object of supreme civic reverence, ranked above family"
+        }
+      ],
+      "description": "The city-state of Athens, whose laws, courts, and social compact form the frame of obligation within which the dialogue's moral argument operates.",
+      "justification": "Athens is the concrete political entity whose authority Socrates weighs against the option of escape throughout the dialogue."
+    },
+    {
+      "canonical_name": "Delos",
+      "surface_names": ["Delos"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-8e1b4e",
+          "quote": "Has the ship come from Delos, at the arrival of which I am to die?",
+          "role": "sacred island whose state-ship arrival triggers Socrates' execution"
+        },
+        {
+          "paragraph_id": "p-b05e27",
+          "quote": "I think it will come today from the reports of some men who have come from Sunium and left it there",
+          "role": "point of origin for the ship marking the deadline of Socrates' life"
+        }
+      ],
+      "description": "The sacred Aegean island to which Athens sends a ritual ship, the return of which determines the date of Socrates' execution.",
+      "justification": "The ship from Delos is the concrete plot mechanism that sets the urgency of the dialogue — its arrival means Socrates must die the next day."
+    },
+    {
+      "canonical_name": "Sunium",
+      "surface_names": ["Sunium"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-b05e27",
+          "quote": "some men who have come from Sunium and left it there",
+          "role": "promontory where the Delian ship was last sighted"
+        }
+      ],
+      "description": "The southern cape of Attica where witnesses last saw the sacred ship from Delos, signaling its imminent arrival.",
+      "justification": "Sunium is named as the location where travelers last sighted the ship, providing the evidential basis for Crito's report about the execution timeline."
+    },
+    {
+      "canonical_name": "Phthia",
+      "surface_names": ["fertile Phthia", "Phthia"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-af8208",
+          "quote": "Socrates, on the third day thou wouldst come to fertile Phthia",
+          "role": "destination prophesied in Socrates' dream, symbolising death's approach"
+        }
+      ],
+      "description": "The fertile homeland of Achilles in Thessaly, cited in Socrates' prophetic dream as a poetic metaphor for his arrival in the realm of death.",
+      "justification": "Phthia is named in the dream-oracle Socrates recounts, echoing Homeric language to signal his approaching death within three days."
+    },
+    {
+      "canonical_name": "Thessaly",
+      "surface_names": ["Thessaly"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-eb1417",
+          "quote": "if you wish to go to Thessaly, I have friends there who will make much of you and will protect you",
+          "role": "proposed refuge where Crito's friends can shelter Socrates"
+        },
+        {
+          "paragraph_id": "p-13c9ff",
+          "quote": "great disorder and lawlessness prevail, and perhaps they would be amused to hear of the ludicrous way in which you ran away from prison",
+          "role": "place of disorder used by the Laws to highlight the ignominy of flight"
+        },
+        {
+          "paragraph_id": "p-635299",
+          "quote": "you will live as an inferior and a slave to everyone. And what will you do except feast in Thessaly",
+          "role": "site of degraded, purposeless existence if Socrates were to flee"
+        }
+      ],
+      "description": "The Greek region proposed by Crito as a place of refuge, later invoked by the personified Laws as a place of disorder where Socrates would live in disgrace.",
+      "justification": "Thessaly appears both as Crito's practical escape destination and as the Laws' rhetorical counter-image of a dishonorable exile."
+    },
+    {
+      "canonical_name": "Lacedaemon",
+      "surface_names": ["Lacedaemon"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-13c9ff",
+          "quote": "you preferred neither Lacedaemon nor Crete, which you are always saying are well governed",
+          "role": "well-governed state Socrates never chose to emigrate to"
+        }
+      ],
+      "description": "Sparta, cited by the personified Laws as an example of a well-governed state that Socrates consistently passed over when he had decades to leave Athens.",
+      "justification": "Lacedaemon is named explicitly by the Laws to argue that Socrates' lifelong remaining in Athens constituted a tacit agreement with its legal order."
+    },
+    {
+      "canonical_name": "Crete",
+      "surface_names": ["Crete"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-13c9ff",
+          "quote": "you preferred neither Lacedaemon nor Crete, which you are always saying are well governed",
+          "role": "well-governed state Socrates never chose to emigrate to"
+        }
+      ],
+      "description": "The island of Crete, cited alongside Lacedaemon as a well-governed alternative polis that Socrates could have chosen but did not over his seventy years.",
+      "justification": "Crete is named explicitly by the personified Laws as evidence that Socrates' long residence in Athens implied tacit consent to its laws."
+    },
+    {
+      "canonical_name": "Thebes",
+      "surface_names": ["Thebes"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-13c9ff",
+          "quote": "if you go to one of the nearest cities, to Thebes or Megara—for both are well governed—will go as an enemy, Socrates, to their government",
+          "role": "well-governed nearby city that would nonetheless regard Socrates as a lawbreaker"
+        }
+      ],
+      "description": "A well-governed Greek city near Athens that, according to the personified Laws, would receive a fugitive Socrates as an enemy of law.",
+      "justification": "Thebes is named by the Laws alongside Megara as a city that would view an escaped Socrates as a destroyer of laws, reinforcing the argument against flight."
+    },
+    {
+      "canonical_name": "Megara",
+      "surface_names": ["Megara"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-13c9ff",
+          "quote": "if you go to one of the nearest cities, to Thebes or Megara—for both are well governed—will go as an enemy, Socrates, to their government",
+          "role": "well-governed nearby city that would regard Socrates as a lawbreaker"
+        }
+      ],
+      "description": "A well-governed Greek city near Athens listed alongside Thebes as a place where a fleeing Socrates would be seen as a destroyer of laws.",
+      "justification": "Megara is named by the Laws to show that no well-ordered city would welcome Socrates as a fugitive, undermining the practical case for escape."
+    },
+    {
+      "canonical_name": "Cybele",
+      "surface_names": ["Cybele", "frenzied dervishes of Cybele"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-635299",
+          "quote": "as the frenzied dervishes of Cybele seem to hear the flutes, and this sound of these words re-echoes within me and prevents my hearing any other words",
+          "role": "cultic reference point for the trance-like grip the Laws' argument has on Socrates"
+        }
+      ],
+      "description": "The Phrygian mother goddess whose ecstatic devotees (Corybantes) are invoked by Socrates as an analogy for how the voice of the Laws overwhelms him.",
+      "justification": "Socrates uses the image of Cybele's ecstatic worshippers hearing flutes to describe the inner compulsion of the Laws' argument, indicating its hold on him."
+    },
+    {
+      "canonical_name": "Hades",
+      "surface_names": ["Hades", "the dwellings of the dead", "the home of the dead", "Hades' realm"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-635299",
+          "quote": "when you come to the home of the dead, you may have all these things to say in your own defence",
+          "role": "afterlife destination where just conduct in life will vindicate Socrates"
+        },
+        {
+          "paragraph_id": "p-635299",
+          "quote": "there our brothers, the laws in Hades' realm, will not receive you graciously",
+          "role": "underworld domain whose laws mirror and extend those of Athens"
+        }
+      ],
+      "description": "The underworld / realm of the dead, invoked by the personified Laws as the ultimate destination where just or unjust conduct will be judged.",
+      "justification": "Hades is cited by the Laws to extend the scope of legal and moral accountability beyond death, strengthening the injunction to remain in Athens."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "The duty to obey law even unto death",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-60ee19",
+          "quote": "Are you not intending by this thing you are trying to do, to destroy us, the laws, and the entire state, so far as in you lies?"
+        },
+        {
+          "paragraph_id": "p-5bf648",
+          "quote": "your country is more precious and more to be revered and is holier and in higher esteem among the gods and among men of understanding than your mother and your father"
+        }
+      ],
+      "justification": "The central argument of the Crito is the personified Laws' claim that citizens owe obedience to their polis because it has nurtured them, and to disobey even an unjust verdict is to destroy the legal order itself."
+    },
+    {
+      "topic": "The authority of expert opinion versus popular opinion",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-01ce10",
+          "quote": "If a man is an athlete and makes that his business, does he pay attention to every man's praise and blame and opinion or to those of one man only who is a physician or a trainer?"
+        },
+        {
+          "paragraph_id": "p-3aaa13",
+          "quote": "we must not consider at all what the many will say of us, but what he who knows about right and wrong, the one man, and truth herself will say"
+        }
+      ],
+      "justification": "Socrates develops an analogy between bodily health under a trainer's guidance and moral health under the knowledge of the virtuous, arguing that only the judgment of the knowledgeable expert — not the crowd — should govern moral decisions."
+    },
+    {
+      "topic": "The impermissibility of returning wrong for wrong",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-061b67",
+          "quote": "we ought not even to requite wrong with wrong, as the world thinks, since we must not do wrong at all"
+        },
+        {
+          "paragraph_id": "p-05ce7e",
+          "quote": "we ought neither to requite wrong with wrong nor to do evil to anyone, no matter what he may have done to us"
+        }
+      ],
+      "justification": "Socrates establishes a foundational moral premise — that wrongdoing is intrinsically wrong regardless of provocation — which forecloses the option of escaping an unjust verdict by committing the injustice of breaking the law."
+    },
+    {
+      "topic": "The social compact and tacit consent",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-bcb5d2",
+          "quote": "whoever of you stays here, seeing how we administer justice and how we govern the state in other respects, has thereby entered into an agreement with us to do what we command"
+        },
+        {
+          "paragraph_id": "p-0ab17c",
+          "quote": "Are you then, they would say, not breaking your compacts and agreements with us, though you were not led into them by compulsion or fraud, and were not forced to make up your mind in a short time, but had seventy years, in which you could have gone away"
+        }
+      ],
+      "justification": "The Laws argue that Socrates' unbroken seventy-year residence in Athens constitutes a freely-made, binding agreement to live under its laws — a foundational statement of contractarian political philosophy."
+    },
+    {
+      "topic": "Living well versus merely living",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-5439b3",
+          "quote": "it is not living, but living well which we ought to consider most important"
+        },
+        {
+          "paragraph_id": "p-0e70cb",
+          "quote": "living well and living rightly are the same thing"
+        }
+      ],
+      "justification": "Socrates asserts the Socratic equation of the good life with the just life, making the quality of one's existence morally prior to its mere continuation and thus delegitimising escape purchased at the cost of injustice."
+    },
+    {
+      "topic": "Reputation, shame, and the opinion of the many",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-a7fac0",
+          "quote": "many persons who do not know you and me well will think I could have saved you if I had been willing to spend money, but that I would not take the trouble. And yet what reputation could be more disgraceful than that of considering one's money of more importance than one's friends?"
+        },
+        {
+          "paragraph_id": "p-947738",
+          "quote": "why do we care so much for what most people think? For the most reasonable men, whose opinion is more worth considering, will think that things were done as they really will be done."
+        }
+      ],
+      "justification": "Crito's initial motivation is grounded in concern for public reputation; Socrates systematically decouples the question of right action from the opinion of the multitude, making reputation a derivative rather than a ground of ethical choice."
+    },
+    {
+      "topic": "The soul as the part that is harmed by injustice",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-0c4d8a",
+          "quote": "is it worth living when that is ruined which is injured by the wrong and improved by the right? Or do we think that part of us, whatever it is, which is concerned with right and wrong, is less important than the body?"
+        },
+        {
+          "paragraph_id": "p-bb305b",
+          "quote": "we shall injure and cripple that which we used to say is benefited by the right and is ruined by the wrong"
+        }
+      ],
+      "justification": "Socrates distinguishes the bodily harm the many can inflict from the deeper harm that injustice does to 'that part of us concerned with right and wrong,' implicitly referring to the soul — the ontological grounding of his refusal to escape."
+    },
+    {
+      "topic": "Civic piety and the parent-state relationship",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-af270f",
+          "quote": "did we not bring you forth? Is it not through us that your father married your mother and begat you?",
+          "quote": "did we not bring you forth? Is it not through us that your father married your mother and begat you?"
+        },
+        {
+          "paragraph_id": "p-5bf648",
+          "quote": "it is impious to use violence against either your father or your mother, and much more impious to use it against your country"
+        }
+      ],
+      "justification": "The personified Laws cast the citizen's relation to the state in terms of filial piety, arguing that Athens stands in the position of parent and that disobedience constitutes an act of impiety."
+    },
+    {
+      "topic": "Equanimity in the face of death",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-1d11ec",
+          "quote": "I have often thought throughout your life hitherto that you were of a happy disposition, and I think so more than ever in this present misfortune, since you bear it so easily and calmly."
+        },
+        {
+          "paragraph_id": "p-a2e382",
+          "quote": "it would be absurd if at my age I were disturbed because I must die now."
+        }
+      ],
+      "justification": "Socrates' serene sleep and calm demeanour observed by Crito at the dialogue's opening establish the Stoic-adjacent theme of rational acceptance of mortality as a mark of philosophical character."
+    },
+    {
+      "topic": "The role of argument and rational method in ethical decision-making",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-122f0d",
+          "quote": "I am not only now but always a man who follows nothing but the reasoning which on consideration seems to me best.",
+          "quote": "I am not only now but always a man who follows nothing but the reasoning which on consideration seems to me best."
+        },
+        {
+          "paragraph_id": "p-032a0a",
+          "quote": "Let us, my good friend, investigate in common, and if you can contradict anything I say, do so, and I will yield to your arguments"
+        }
+      ],
+      "justification": "Socrates explicitly commits to dialectical method as his invariable guide and invites Crito to refute him, presenting reasoned argument rather than sentiment, fear, or social pressure as the only legitimate basis for ethical choices."
+    },
+    {
+      "topic": "Prophetic dreams and divine signs",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-ff3315",
+          "quote": "my reason for this is a dream which I had a little while ago in the course of this night",
+          "quote": "my reason for this is a dream which I had a little while ago in the course of this night"
+        },
+        {
+          "paragraph_id": "p-af8208",
+          "quote": "Socrates, on the third day thou wouldst come to fertile Phthia"
+        }
+      ],
+      "justification": "Socrates cites his dream — whose Homeric phrasing echoes Achilles' prophecy — as a sign from the divine that shapes his prediction about the ship's arrival, placing divine communication alongside but subordinate to rational argument."
+    },
+    {
+      "topic": "Parental obligation and children's welfare",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-eb1417",
+          "quote": "you are abandoning your children, too, for when you might bring them up and educate them, you are going to desert them and go away",
+          "quote": "you are abandoning your children, too"
+        },
+        {
+          "paragraph_id": "p-635299",
+          "quote": "Will you then avoid the well-governed cities … Or you will keep away from these places and go to Crito's friends in Thessaly … Will you take them to Thessaly to be brought up and educated, making exiles of them"
+        }
+      ],
+      "justification": "Crito and the personified Laws both invoke Socrates' duty to his children as an argument, but the Laws ultimately subordinate this concern to the duty of justice, illustrating the hierarchy of obligations."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Iliad",
+      "cited_author": "Homer",
+      "stance": "authority",
+      "paragraph_id": "p-af8208",
+      "quote": "Socrates, on the third day thou wouldst come to fertile Phthia",
+      "justification": "Socrates recounts a dream in which a woman speaks words echoing the Homeric phrase used by Achilles in the Iliad about returning to Phthia, deploying epic diction as a prophetic authority signalling the timing of his death."
+    }
+  ]
+}

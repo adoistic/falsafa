@@ -1,0 +1,699 @@
+{
+  "slug": "plato-symposium-979601",
+  "window": "01-symposium:34-59",
+  "entities": [
+    {
+      "canonical_name": "Eros",
+      "surface_names": ["Love", "the god", "him"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-a2c19a",
+          "quote": "when brought together by the orderly Love, and taking on a temperate harmony as they mingle, become bearers of ripe fertility and health",
+          "role": "subject"
+        },
+        {
+          "paragraph_id": "p-3f0736",
+          "quote": "humanity has entirely failed to perceive the power of Love: if men did perceive it, they would have provided him with splendid temples and altars",
+          "role": "subject"
+        },
+        {
+          "paragraph_id": "p-bd4826",
+          "quote": "the craving and pursuit of that entirety is called Love",
+          "role": "subject"
+        },
+        {
+          "paragraph_id": "p-c9697d",
+          "quote": "Love—with no irreverence or offence be it spoken—is the most blissful, as being the most beautiful and the best",
+          "role": "subject"
+        },
+        {
+          "paragraph_id": "p-d5a466",
+          "quote": "Youngest, then, and most delicate is he, and withal pliant of form",
+          "role": "subject"
+        },
+        {
+          "paragraph_id": "p-72391d",
+          "quote": "the composing of all forms of life is Love's own craft, whereby all creatures are begotten and produced",
+          "role": "subject"
+        },
+        {
+          "paragraph_id": "p-039209",
+          "quote": "Many and multifarious are these spirits, and one of them is Love",
+          "role": "subject"
+        },
+        {
+          "paragraph_id": "p-c92052",
+          "quote": "Love from the beginning has been attendant and minister to Aphrodite, since he was begotten on the day of her birth",
+          "role": "subject"
+        }
+      ],
+      "description": "The god Love (Eros), central subject of all speeches in the window — praised variously as cosmic force, divine daimon, and son of Poros and Penia.",
+      "justification": "Eros is the explicit subject of every speech in this window, from Eryximachus's cosmological account through Agathon's encomium and Diotima's daimonic account reported by Socrates."
+    },
+    {
+      "canonical_name": "Aristophanes",
+      "surface_names": ["Aristophanes"],
+      "kind": "figure",
+      "figure_kind": "human",
+      "mentions": [
+        {
+          "paragraph_id": "p-1f7833",
+          "quote": "Aristophanes took up the word and said: Yes, it has stopped, though not until it was treated with a course of sneezing",
+          "role": "speaker"
+        },
+        {
+          "paragraph_id": "p-3f0736",
+          "quote": "It is indeed my intention, Eryximachus, said Aristophanes, to speak in somewhat different strain from you and Pausanias",
+          "role": "speaker"
+        },
+        {
+          "paragraph_id": "p-bd4826",
+          "quote": "There, Eryximachus, is my discourse on Love, of a different sort from yours",
+          "role": "speaker"
+        }
+      ],
+      "description": "The comic playwright Aristophanes, one of the symposiasts, who delivers the myth of the original round humans split by Zeus.",
+      "justification": "Aristophanes speaks in paragraphs p-1f7833 through p-bd4826, narrating the myth of human division as the origin of erotic longing."
+    },
+    {
+      "canonical_name": "Eryximachus",
+      "surface_names": ["Eryximachus", "Son of Acumenus"],
+      "kind": "figure",
+      "figure_kind": "human",
+      "mentions": [
+        {
+          "paragraph_id": "p-a2c19a",
+          "quote": "it is your business, Aristophanes, to fill: or if you intend some different manner of glorifying the god, let us hear your eulogy",
+          "role": "addressee"
+        },
+        {
+          "paragraph_id": "p-1f7833",
+          "quote": "My good Aristophanes, replied Eryximachus, take heed what you are about",
+          "role": "speaker"
+        },
+        {
+          "paragraph_id": "p-8204d8",
+          "quote": "Son of Acumenus, do you really call it an unfearful fear that has all this while affrighted me",
+          "role": "addressee"
+        },
+        {
+          "paragraph_id": "p-94f780",
+          "quote": "Well, I will obey you, said Eryximachus, for in fact I enjoyed your speech",
+          "role": "speaker"
+        }
+      ],
+      "description": "The physician Eryximachus, who spoke before Aristophanes and whose cosmological speech on dual Love ends at paragraph p-a2c19a.",
+      "justification": "Eryximachus is addressed and speaks repeatedly at the transitions between speeches in this window."
+    },
+    {
+      "canonical_name": "Agathon",
+      "surface_names": ["Agathon", "the youngster"],
+      "kind": "figure",
+      "figure_kind": "human",
+      "mentions": [
+        {
+          "paragraph_id": "p-e74994",
+          "quote": "You want to throw a spell over me, Socrates, said Agathon, so that I may be flustered with the consciousness of the high expectations the audience has formed of my discourse",
+          "role": "speaker"
+        },
+        {
+          "paragraph_id": "p-c9697d",
+          "quote": "I propose first to speak of the plan most proper for my speaking, and after that to speak",
+          "role": "speaker"
+        },
+        {
+          "paragraph_id": "p-8204d8",
+          "quote": "At the end of Agathon's speech, as Aristodemus told me, there was tumultuous applause from all present",
+          "role": "subject"
+        },
+        {
+          "paragraph_id": "p-332a67",
+          "quote": "I greatly fear, Socrates, I knew nothing of what I was talking about",
+          "role": "speaker"
+        }
+      ],
+      "description": "The tragic poet Agathon, host of the symposium, who delivers an encomium of Eros praising his youth, beauty, and virtue before being cross-examined by Socrates.",
+      "justification": "Agathon delivers the speech in p-c9697d through p-72391d and is then interrogated by Socrates from p-49 onward, ultimately conceding his ignorance."
+    },
+    {
+      "canonical_name": "Socrates",
+      "surface_names": ["Socrates"],
+      "kind": "figure",
+      "figure_kind": "human",
+      "mentions": [
+        {
+          "paragraph_id": "p-e74994",
+          "quote": "Whereon Socrates remarked: Your own performance, Eryximachus, made a fine hit",
+          "role": "speaker"
+        },
+        {
+          "paragraph_id": "p-8204d8",
+          "quote": "Then Socrates, with a glance at Eryximachus, said: Son of Acumenus, do you really call it an unfearful fear",
+          "role": "speaker"
+        },
+        {
+          "paragraph_id": "p-760e94",
+          "quote": "I was quite mistaken as to the method required; it was in ignorance that I agreed to take my turn in the round of praising",
+          "role": "speaker"
+        },
+        {
+          "paragraph_id": "p-be740e",
+          "quote": "And now I shall let you alone, and proceed with the discourse upon Love which I heard one day from a Mantinean woman named Diotima",
+          "role": "speaker"
+        },
+        {
+          "paragraph_id": "p-039209",
+          "quote": "From what father and mother sprung? I asked",
+          "role": "speaker"
+        }
+      ],
+      "description": "Socrates, the philosopher, who cross-examines Agathon, then narrates Diotima's teaching on Love as a daimonic intermediary.",
+      "justification": "Socrates drives the dialectical portion from p-e74994 onward and introduces Diotima's account starting at p-be740e."
+    },
+    {
+      "canonical_name": "Phaedrus",
+      "surface_names": ["Phaedrus"],
+      "kind": "figure",
+      "figure_kind": "human",
+      "mentions": [
+        {
+          "paragraph_id": "p-e74994",
+          "quote": "Here Phaedrus interposed: My dear Agathon, if you go on answering Socrates he will be utterly indifferent to the fate of our present business",
+          "role": "speaker"
+        },
+        {
+          "paragraph_id": "p-760e94",
+          "quote": "So Phaedrus and the others bade him speak, just in any manner he himself should think fit",
+          "role": "interlocutor"
+        },
+        {
+          "paragraph_id": "p-c9697d",
+          "quote": "First of all, Phaedrus, he is youngest of the gods",
+          "role": "addressee"
+        }
+      ],
+      "description": "Phaedrus, the symposiast who proposed the eulogies and who is addressed by Agathon and Socrates throughout.",
+      "justification": "Phaedrus intervenes at p-e74994 to steer the conversation back to eulogies and gives permission for Socrates to speak in p-760e94."
+    },
+    {
+      "canonical_name": "Zeus",
+      "surface_names": ["Zeus", "God"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-8d8034",
+          "quote": "Then Zeus, putting all his wits together, spoke at length and said: Methinks I can contrive that men, without ceasing to exist, shall give over their iniquity through a lessening of their strength",
+          "role": "agent"
+        },
+        {
+          "paragraph_id": "p-bd4826",
+          "quote": "now for our sins we are all dispersed by God, as the Arcadians were by the Lacedaemonians",
+          "role": "agent"
+        },
+        {
+          "paragraph_id": "p-72391d",
+          "quote": "Zeus in pilotage of gods and men",
+          "role": "subject"
+        },
+        {
+          "paragraph_id": "p-c92052",
+          "quote": "Resource the son of Cunning... went into the garden of Zeus, and there, overcome with heaviness, slept",
+          "role": "possessor"
+        }
+      ],
+      "description": "Zeus, king of the gods, who in Aristophanes' myth splits the original round humans and later in Diotima's myth provides the garden where Love is conceived.",
+      "justification": "Zeus is the active divine agent in Aristophanes' myth (p-8d8034, p-184bf8) and appears in Diotima's account of Love's origin (p-c92052)."
+    },
+    {
+      "canonical_name": "Apollo",
+      "surface_names": ["Apollo"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-8d8034",
+          "quote": "at the cleaving of each he bade Apollo turn its face and half-neck to the section side",
+          "role": "agent"
+        },
+        {
+          "paragraph_id": "p-cec418",
+          "quote": "Then Apollo turned their faces about, and pulled their skin together from the edges over what is now called the belly",
+          "role": "agent"
+        },
+        {
+          "paragraph_id": "p-72391d",
+          "quote": "If Apollo invented archery and medicine and divination, it was under the guidance of Desire and Love",
+          "role": "subject"
+        }
+      ],
+      "description": "Apollo, the god who reshapes the split humans in Aristophanes' myth and is said by Agathon to have learned his arts under Love's guidance.",
+      "justification": "Apollo performs the surgical reshaping of split humans in p-8d8034 and p-cec418, and is cited as Love's pupil in Agathon's speech at p-72391d."
+    },
+    {
+      "canonical_name": "Aphrodite",
+      "surface_names": ["Aphrodite"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-d5a466",
+          "quote": "not of Love caught by Ares, but of Ares caught by Love—of Aphrodite",
+          "role": "related"
+        },
+        {
+          "paragraph_id": "p-c92052",
+          "quote": "When Aphrodite was born, the gods made a great feast... Love from the beginning has been attendant and minister to Aphrodite",
+          "role": "subject"
+        }
+      ],
+      "description": "Aphrodite, the goddess of beauty, whose birth-feast is the occasion for Love's conception, and with whom Love is eternally associated.",
+      "justification": "Agathon alludes to Ares' capture by love of Aphrodite (p-d5a466), and Diotima gives Aphrodite's birth as the occasion of Love's genesis (p-c92052)."
+    },
+    {
+      "canonical_name": "Hephaestus",
+      "surface_names": ["Hephaestus"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-31ab01",
+          "quote": "Suppose that, as they lay together, Hephaestus should come and stand over them, and showing his implements should ask: What is it, good mortals, that you would have of one another?",
+          "role": "hypothetical agent"
+        },
+        {
+          "paragraph_id": "p-72391d",
+          "quote": "Hephaestus in metal-work",
+          "role": "subject"
+        }
+      ],
+      "description": "Hephaestus, the craftsman-god invoked in Aristophanes' myth as the hypothetical welder who could fuse lovers permanently, and listed by Agathon as a disciple of Love.",
+      "justification": "Hephaestus appears in Aristophanes' thought-experiment at p-31ab01 and in Agathon's catalogue of Love's pupils at p-72391d."
+    },
+    {
+      "canonical_name": "Ares",
+      "surface_names": ["Ares", "the God of War"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-d5a466",
+          "quote": "in valor not even the God of War withstands him; for we hear, not of Love caught by Ares, but of Ares caught by Love—of Aphrodite",
+          "role": "subject"
+        }
+      ],
+      "description": "Ares, god of war, cited by Agathon as evidence of Love's superior valor because Ares was ensnared by love of Aphrodite.",
+      "justification": "Agathon uses the Ares-Aphrodite affair to argue Love is braver than the war-god at p-d5a466."
+    },
+    {
+      "canonical_name": "Diotima",
+      "surface_names": ["Diotima", "a Mantinean woman", "the stranger woman"],
+      "kind": "figure",
+      "figure_kind": "human",
+      "mentions": [
+        {
+          "paragraph_id": "p-be740e",
+          "quote": "I shall let you alone, and proceed with the discourse upon Love which I heard one day from a Mantinean woman named Diotima: in this subject she was skilled",
+          "role": "teacher"
+        },
+        {
+          "paragraph_id": "p-d671d6",
+          "quote": "To be sure I do. And what is not skilled, ignorant? Have you not observed that there is something halfway between skill and ignorance?",
+          "role": "speaker (reported)"
+        },
+        {
+          "paragraph_id": "p-039209",
+          "quote": "Many and multifarious are these spirits, and one of them is Love. From what father and mother sprung? I asked. That is rather a long story, she replied",
+          "role": "speaker (reported)"
+        }
+      ],
+      "description": "Diotima of Mantinea, a prophetess and wise woman who taught Socrates about Love as a daimonic intermediary and whose account he now relays.",
+      "justification": "Socrates introduces Diotima at p-be740e as his authoritative teacher and then renders her speech directly from p-d671d6 onward."
+    },
+    {
+      "canonical_name": "Ate",
+      "surface_names": ["Ate"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-c9697d",
+          "quote": "Homer it is who tells of Ate as both divine and delicate; you recollect those delicate feet of hers, where he says— Yet delicate are her feet, for on the ground She speeds not, only on the heads of men",
+          "role": "comparandum"
+        }
+      ],
+      "description": "Ate, the goddess of delusion in Homer, cited by Agathon via a Homeric quotation to illustrate Love's own delicacy.",
+      "justification": "Agathon quotes Homer's description of Ate's delicate feet as an analogy for Love's softness at p-c9697d."
+    },
+    {
+      "canonical_name": "Ephialtes",
+      "surface_names": ["Ephialtes"],
+      "kind": "figure",
+      "figure_kind": "human",
+      "mentions": [
+        {
+          "paragraph_id": "p-8d8034",
+          "quote": "they even conspired against the gods; and the same story is told of them as Homer relates of Ephialtes and Otus, that scheming to assault the gods in fight they essayed to mount high heaven",
+          "role": "comparandum"
+        }
+      ],
+      "description": "Ephialtes, a mythological giant who with Otus attempted to storm Olympus, cited by Aristophanes as a parallel to the original round humans' hubris.",
+      "justification": "Aristophanes invokes Homer's account of Ephialtes and Otus at p-8d8034 to illustrate the primordial humans' overweening ambition."
+    },
+    {
+      "canonical_name": "Otus",
+      "surface_names": ["Otus"],
+      "kind": "figure",
+      "figure_kind": "human",
+      "mentions": [
+        {
+          "paragraph_id": "p-8d8034",
+          "quote": "the same story is told of them as Homer relates of Ephialtes and Otus, that scheming to assault the gods in fight they essayed to mount high heaven",
+          "role": "comparandum"
+        }
+      ],
+      "description": "Otus, mythological giant paired with Ephialtes, cited as a parallel to the original humans who assaulted the gods.",
+      "justification": "Aristophanes cites Homer's Ephialtes-and-Otus story at p-8d8034 as a precedent for the primordial humans' hubris against the gods."
+    },
+    {
+      "canonical_name": "Gorgias",
+      "surface_names": ["Gorgias"],
+      "kind": "figure",
+      "figure_kind": "human",
+      "mentions": [
+        {
+          "paragraph_id": "p-8204d8",
+          "quote": "his speech so reminded me of Gorgias that I was exactly in the plight described by Homer: I feared that Agathon in his final phrases would confront me with the eloquent Gorgias' head",
+          "role": "comparandum"
+        }
+      ],
+      "description": "Gorgias, the famous rhetorician, whose eloquence Socrates says Agathon's speech recalled, invoking the Homeric Gorgon-head image.",
+      "justification": "Socrates explicitly compares Agathon's rhetorical style to Gorgias at p-8204d8, alluding to Homer's Gorgon passage."
+    },
+    {
+      "canonical_name": "Poros",
+      "surface_names": ["Resource", "Poros", "son of Cunning"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-c92052",
+          "quote": "among the company was Resource the son of Cunning... Resource, grown tipsy with nectar—for wine as yet there was none—went into the garden of Zeus, and there, overcome with heaviness, slept",
+          "role": "parent"
+        }
+      ],
+      "description": "Poros (Resource), son of Cunning, who fathered Love upon Poverty during Aphrodite's birth-feast in Diotima's allegorical myth.",
+      "justification": "Diotima's account at p-c92052 names Resource (Poros) as Love's father, explaining Love's ingenious and acquisitive nature."
+    },
+    {
+      "canonical_name": "Penia",
+      "surface_names": ["Poverty", "Penia"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-c92052",
+          "quote": "there came Poverty abegging, as well she might in an hour of good cheer, and hung about the door. Now Resource, grown tipsy with nectar... slept. Then Poverty, being of herself so resourceless, devised the scheme of having a child by Resource",
+          "role": "parent"
+        }
+      ],
+      "description": "Penia (Poverty), Love's mother in Diotima's allegory, who explains Love's perpetual neediness and homelessness.",
+      "justification": "Diotima at p-c92052 names Poverty as Love's mother, directly accounting for Love's destitute, wandering character."
+    },
+    {
+      "canonical_name": "Arcadians",
+      "surface_names": ["Arcadians"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-bd4826",
+          "quote": "now for our sins we are all dispersed by God, as the Arcadians were by the Lacedaemonians",
+          "role": "comparandum"
+        }
+      ],
+      "description": "The Arcadians, cited by Aristophanes as a people scattered by the Lacedaemonians, used to illustrate divine punishment of human hubris.",
+      "justification": "Aristophanes uses the Arcadian dispersal at p-bd4826 as a political analogy for the gods' splitting of the round humans."
+    },
+    {
+      "canonical_name": "Lacedaemonians",
+      "surface_names": ["Lacedaemonians"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-bd4826",
+          "quote": "now for our sins we are all dispersed by God, as the Arcadians were by the Lacedaemonians",
+          "role": "agent"
+        }
+      ],
+      "description": "The Lacedaemonians (Spartans), cited as the power that dispersed the Arcadians in Aristophanes' analogy.",
+      "justification": "Aristophanes invokes the Lacedaemonian dispersal of the Arcadians at p-bd4826 to illustrate divine retribution for impiety."
+    },
+    {
+      "canonical_name": "Muses",
+      "surface_names": ["Muse", "the Muses"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-1f7833",
+          "quote": "since that would be all to the good and native to my Muse",
+          "role": "possessor (comic)"
+        },
+        {
+          "paragraph_id": "p-72391d",
+          "quote": "the Muses in music",
+          "role": "subject"
+        }
+      ],
+      "description": "The Muses, divine sources of poetic inspiration, referred to by Aristophanes with comic irony and listed by Agathon as pupils of Love.",
+      "justification": "Aristophanes ironically invokes his own Muse at p-1f7833, and Agathon places the Muses among Love's disciples in music at p-72391d."
+    },
+    {
+      "canonical_name": "Mantinea",
+      "surface_names": ["Mantinea", "Mantinean"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-be740e",
+          "quote": "a Mantinean woman named Diotima",
+          "role": "origin"
+        }
+      ],
+      "description": "Mantinea, the Arcadian city given as Diotima's place of origin by Socrates.",
+      "justification": "Socrates identifies Diotima as Mantinean at p-be740e, grounding her as a real or plausibly real historical figure."
+    },
+    {
+      "canonical_name": "Aristodemus",
+      "surface_names": ["Aristodemus", "my friend"],
+      "kind": "figure",
+      "figure_kind": "human",
+      "mentions": [
+        {
+          "paragraph_id": "p-8204d8",
+          "quote": "At the end of Agathon's speech, as Aristodemus told me, there was tumultuous applause from all present",
+          "role": "source/narrator"
+        }
+      ],
+      "description": "Aristodemus, the primary eyewitness narrator whose account frames the dialogue.",
+      "justification": "The narrator cites Aristodemus as the source of the account at p-8204d8, revealing the dialogue's framing device."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Cosmic order and the two Loves",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-a2c19a",
+          "quote": "heat and cold, drought and moisture, when brought together by the orderly Love, and taking on a temperate harmony as they mingle, become bearers of ripe fertility and health"
+        },
+        {
+          "paragraph_id": "p-a2c19a",
+          "quote": "when the wanton-spirited Love gains the ascendant in the seasons of the year, great destruction and wrong does he wreak"
+        }
+      ],
+      "justification": "Eryximachus's closing passage frames Love as a cosmic principle governing the natural order; the contrast between orderly and wanton Love is the culminating claim of his medical-cosmological speech."
+    },
+    {
+      "topic": "Myth of original human wholeness and divine punishment",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-3f0736",
+          "quote": "our original nature was by no means the same as it is now... there were three kinds of human beings"
+        },
+        {
+          "paragraph_id": "p-8d8034",
+          "quote": "Zeus, putting all his wits together, spoke at length and said: Methinks I can contrive that men, without ceasing to exist, shall give over their iniquity through a lessening of their strength"
+        },
+        {
+          "paragraph_id": "p-184bf8",
+          "quote": "Thus anciently is mutual love ingrained in mankind, reassembling our early estate and endeavoring to combine two in one and heal the human sore"
+        }
+      ],
+      "justification": "Aristophanes' entire contribution (p-3f0736 through p-bd4826) is structured around this etiological myth; the divided humans seeking their other half is the story's central event."
+    },
+    {
+      "topic": "Erotic desire as longing for lost wholeness",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-bd4826",
+          "quote": "the craving and pursuit of that entirety is called Love"
+        },
+        {
+          "paragraph_id": "p-31ab01",
+          "quote": "obviously the soul of each is wishing for something else that it cannot express, only divining and darkly hinting what it wishes"
+        }
+      ],
+      "justification": "Aristophanes explicitly defines Love as the yearning for primordial completeness; the soul's inarticulate desire in p-31ab01 deepens this into a philosophical claim about the nature of eros."
+    },
+    {
+      "topic": "Noble same-sex love and male virtue",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-31ab01",
+          "quote": "Men who are sections of the male pursue the masculine... these are the finest boys and striplings, for they have the most manly nature. Some say they are shameless creatures, but falsely: for their behavior is due not to shamelessness but to daring, manliness, and virility"
+        }
+      ],
+      "justification": "Aristophanes explicitly defends male same-sex love as virtuous and politically productive in p-31ab01, a socially significant claim in the dialogue's Athenian context."
+    },
+    {
+      "topic": "Attributes of Eros: youth, beauty, delicacy, virtue, and creative power",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-c9697d",
+          "quote": "Love—with no irreverence or offence be it spoken—is the most blissful, as being the most beautiful and the best... he is youngest of the gods"
+        },
+        {
+          "paragraph_id": "p-d5a466",
+          "quote": "in valor not even the God of War withstands him... he is richly endowed with temperance"
+        },
+        {
+          "paragraph_id": "p-72391d",
+          "quote": "the composing of all forms of life is Love's own craft, whereby all creatures are begotten and produced"
+        }
+      ],
+      "justification": "Agathon's speech (p-c9697d through p-72391d) systematically attributes to Eros the traditional cardinal virtues plus beauty and creative power, as a formal encomium."
+    },
+    {
+      "topic": "Critique of epideictic praise versus truth-telling",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-8204d8",
+          "quote": "I was such a silly wretch as to think that one ought in each case to speak the truth about the person eulogized... But now, it appears that this is not what is meant by a good speech of praise"
+        },
+        {
+          "paragraph_id": "p-760e94",
+          "quote": "I am ready, if you like, to speak the mere truth in my own way; not to rival your discourses, and so be your laughing-stock"
+        }
+      ],
+      "justification": "Socrates' self-critique at p-8204d8 and his declaration at p-760e94 explicitly oppose truthful philosophical inquiry to the conventional encomium format, marking his methodological difference from the other speakers."
+    },
+    {
+      "topic": "Socratic dialectic: desire implies lack",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-427717",
+          "quote": "a man may be said to love a thing not yet provided or possessed, when he would have the presence of certain things secured to him for ever in the future"
+        },
+        {
+          "paragraph_id": "p-332a67",
+          "quote": "And what Love lacks and has not is beauty? That needs must be, he said"
+        }
+      ],
+      "justification": "The cross-examination of Agathon in p-427717 through p-332a67 constructs the key philosophical premise — desire is necessarily directed at what one lacks — which Socrates will carry into Diotima's account."
+    },
+    {
+      "topic": "Love as daimon: intermediary between mortal and divine",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-039209",
+          "quote": "A great spirit, Socrates: for the whole of the spiritual is between divine and mortal... Interpreting and transporting human things to the gods and divine things to men"
+        },
+        {
+          "paragraph_id": "p-c92052",
+          "quote": "Through it are conveyed all divination and priestcraft concerning sacrifice and ritual and incantations, and all soothsaying and sorcery"
+        }
+      ],
+      "justification": "Diotima's core theological claim — that Love is neither god nor mortal but a daimon bridging the two realms — is introduced at p-039209 and elaborated at p-c92052."
+    },
+    {
+      "topic": "Divination, piety, and communion between gods and men",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-a2c19a",
+          "quote": "all sacrifices and ceremonies controlled by divination, namely, all means of communion between gods and men, are only concerned with either the preservation or the cure of Love"
+        },
+        {
+          "paragraph_id": "p-c92052",
+          "quote": "Through it are conveyed all divination and priestcraft concerning sacrifice and ritual and incantations, and all soothsaying and sorcery"
+        }
+      ],
+      "justification": "Both Eryximachus (p-a2c19a) and Diotima (p-c92052) identify divination and sacrifice as the domain through which Love/the daimonic mediates between human and divine worlds."
+    },
+    {
+      "topic": "Love's parentage as explanation of his paradoxical nature",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-c92052",
+          "quote": "as the son of Resource and Poverty, Love is in a peculiar case. First, he is ever poor, and far from tender or beautiful as most suppose him... But he takes after his father in scheming for all that is beautiful and good"
+        }
+      ],
+      "justification": "Diotima's genealogy of Love from Poros and Penia at p-c92052 is the dialogue's key mythological explanation for Love's contradictory attributes of poverty and resourcefulness."
+    },
+    {
+      "topic": "Correct opinion as intermediate epistemic state",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-d671d6",
+          "quote": "to have correct opinion, if you can give no reason for it, is neither full knowledge—how can an unreasoned thing be knowledge?—nor yet ignorance; for what hits on the truth cannot be ignorance"
+        }
+      ],
+      "justification": "Diotima uses the example of correct opinion (ortho doxa) to establish the logical space of intermediates, which she then applies to Love's status as neither god nor mortal — an implicit epistemological claim supporting the daimonic ontology."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Iliad (Ate passage)",
+      "cited_author": "Homer",
+      "stance": "authority",
+      "paragraph_id": "p-c9697d",
+      "quote": "Homer it is who tells of Ate as both divine and delicate; you recollect those delicate feet of hers, where he says— Yet delicate are her feet, for on the ground She speeds not, only on the heads of men",
+      "justification": "Agathon quotes Homer's description of Ate from the Iliad as authoritative evidence for Love's delicacy, deploying the epic poet as a supporting witness for his rhetorical argument."
+    },
+    {
+      "cited_work": "Iliad (Gorgon passage, alluded)",
+      "cited_author": "Homer",
+      "stance": "authority",
+      "paragraph_id": "p-8204d8",
+      "quote": "his speech so reminded me of Gorgias that I was exactly in the plight described by Homer: I feared that Agathon in his final phrases would confront me with the eloquent Gorgias' head",
+      "justification": "Socrates alludes to Homer's Gorgon-head episode (Odyssey xi or Iliad xi) to describe his rhetorical paralysis before Agathon's speech, using Homer as a cultural authority for the image."
+    },
+    {
+      "cited_work": "Theogony (or cosmogonic poems, early dealings of gods)",
+      "cited_author": "Hesiod",
+      "stance": "neutral",
+      "paragraph_id": "p-c9697d",
+      "quote": "those early dealings with the gods which Hesiod and Parmenides relate, I take to have been the work of Necessity, not of Love, if there is any truth in those stories",
+      "justification": "Agathon cites Hesiod's cosmogonic accounts of divine violence (castration, fettering) as evidence that Love was absent from the earliest divine era, subordinating Hesiod's authority to his own theological argument."
+    },
+    {
+      "cited_work": "Poem on Nature (or cosmogonic poem)",
+      "cited_author": "Parmenides",
+      "stance": "neutral",
+      "paragraph_id": "p-c9697d",
+      "quote": "those early dealings with the gods which Hesiod and Parmenides relate, I take to have been the work of Necessity, not of Love, if there is any truth in those stories",
+      "justification": "Agathon cites Parmenides alongside Hesiod as a source for the early divine cosmogony, using both to contrast the reign of Necessity with the later beneficent reign of Love."
+    }
+  ]
+}

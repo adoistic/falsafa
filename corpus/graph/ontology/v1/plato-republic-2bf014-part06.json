@@ -1,0 +1,558 @@
+{
+  "slug": "plato-republic-2bf014",
+  "window": "03:17-31",
+  "entities": [
+    {
+      "canonical_name": "Aphrodite",
+      "surface_names": ["Aphrodite"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-1f116d",
+          "quote": "Do you know of greater or keener pleasure than that associated with Aphrodite?",
+          "role": "referenced as the paradigm of intense, insane pleasure to be excluded from rightly ordered love"
+        }
+      ],
+      "description": "Greek goddess of love invoked to name the category of physical erotic pleasure that must be excluded from the city's right, orderly love.",
+      "justification": "Aphrodite is explicitly named as the benchmark of the keenest and most insane pleasure, used to establish the limit on sanctioned erotic expression."
+    },
+    {
+      "canonical_name": "Socrates",
+      "surface_names": ["Socrates"],
+      "kind": "figure",
+      "figure_kind": "historical",
+      "mentions": [
+        {
+          "paragraph_id": "p-1f116d",
+          "quote": "No, by heaven, Socrates, he said, it must not come nigh them.",
+          "role": "interlocutor addressed by name, principal speaker of the dialogue"
+        }
+      ],
+      "description": "The principal speaker of the Republic, whose philosophical method drives the argument throughout the window.",
+      "justification": "Socrates is addressed by name in p-1f116d and is the voice of every 'said I' utterance across the entire window."
+    },
+    {
+      "canonical_name": "Glaucon",
+      "surface_names": ["Glaucon"],
+      "kind": "figure",
+      "figure_kind": "historical",
+      "mentions": [
+        {
+          "paragraph_id": "p-c4d62e",
+          "quote": "Then may we not say, Glaucon, said I, that those who established an education in music and gymnastics had not the purpose in view that some attribute to them",
+          "role": "named interlocutor responding to Socrates"
+        },
+        {
+          "paragraph_id": "p-b8111e",
+          "quote": "By all means, said Glaucon.",
+          "role": "interlocutor giving final assent"
+        }
+      ],
+      "description": "Plato's brother and main interlocutor in the Republic, who responds throughout this window and is named twice.",
+      "justification": "Glaucon is named explicitly at p-c4d62e and p-b8111e and is the responding voice in the dialectic."
+    },
+    {
+      "canonical_name": "Homer",
+      "surface_names": ["Homer"],
+      "kind": "figure",
+      "figure_kind": "historical",
+      "mentions": [
+        {
+          "paragraph_id": "p-2f5bfb",
+          "quote": "One could learn that, said I, even from Homer. For you are aware that in the banqueting of the heroes on campaign he does not feast them on fish, nor on boiled meat, but only on roast",
+          "role": "poetic authority cited to justify the simple military diet"
+        }
+      ],
+      "description": "The epic poet whose depictions of the heroes' campaign diet are invoked as evidence for the simple, wholesome regimen appropriate to guardians.",
+      "justification": "Homer is named as the source for the dietary prescription for warrior-athletes, functioning as an authoritative witness for the argument."
+    },
+    {
+      "canonical_name": "Asclepius",
+      "surface_names": ["Asclepius", "Aesculapius", "Asclepiads"],
+      "kind": "figure",
+      "figure_kind": "hero",
+      "mentions": [
+        {
+          "paragraph_id": "p-f8f818",
+          "quote": "the ingenious sons of Aesculapius to invent for diseases such names as fluxes and flatulences",
+          "role": "divine patron of medicine, whose descendants are blamed for elaborate new disease names"
+        },
+        {
+          "paragraph_id": "p-f8f818",
+          "quote": "in the days of Aesculapius",
+          "role": "historical reference point for the golden age of medicine"
+        },
+        {
+          "paragraph_id": "p-22d73c",
+          "quote": "the former Asclepiads made no use of our modern coddling medication of diseases before the time of Herodicus",
+          "role": "progenitors of the old, uncorrupted medical art"
+        },
+        {
+          "paragraph_id": "p-d023e6",
+          "quote": "it was because Asclepius knew this—that for those who were by nature and course of life sound of body but had some localized disease",
+          "role": "model physician who limited medicine to civic-friendly cases"
+        },
+        {
+          "paragraph_id": "p-a07447",
+          "quote": "the tragedians and Pindar affirm that Asclepius, though he was the son of Apollo, was bribed by gold to heal a man already at the point of death",
+          "role": "subject of a contested mythological tradition rejected by Socrates"
+        }
+      ],
+      "description": "The divine or heroic founder of medicine, son of Apollo, whose original practice is held up as the ideal—treating only the healthy-in-constitution and avoiding prolonging wretched lives.",
+      "justification": "Asclepius is the central medical exemplar of the passage; his practice, character, and mythological status are debated across five paragraphs."
+    },
+    {
+      "canonical_name": "Apollo",
+      "surface_names": ["Apollo"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-a07447",
+          "quote": "Asclepius, though he was the son of Apollo, was bribed by gold to heal a man already at the point of death",
+          "role": "divine father of Asclepius in the poetic tradition under discussion"
+        }
+      ],
+      "description": "Olympian god, father of Asclepius according to Homer and the tragedians, invoked in the dispute over whether Asclepius could be both son of a god and motivated by greed.",
+      "justification": "Apollo's paternity of Asclepius is the premise of the theological argument Socrates uses to refute the poets' claim at p-a07447."
+    },
+    {
+      "canonical_name": "Herodicus",
+      "surface_names": ["Herodicus"],
+      "kind": "figure",
+      "figure_kind": "historical",
+      "mentions": [
+        {
+          "paragraph_id": "p-22d73c",
+          "quote": "before the time of Herodicus. But Herodicus was a trainer and became a valetudinarian, and blended gymnastics and medicine, for the torment first and chiefly of himself and then of many successors",
+          "role": "negative exemplar who corrupted medicine by fusing it with obsessive self-care"
+        }
+      ],
+      "description": "A historical trainer who blended gymnastics and medicine and thereby invented an unhealthy regime of perpetual self-treatment, the antithesis of Asclepius's civic-minded medicine.",
+      "justification": "Herodicus is named as the historical turning-point after which medicine became corrupted by valetudinarianism, providing the negative case for the argument."
+    },
+    {
+      "canonical_name": "Eurypylus",
+      "surface_names": ["Eurypylus"],
+      "kind": "figure",
+      "figure_kind": "mythological",
+      "mentions": [
+        {
+          "paragraph_id": "p-f8f818",
+          "quote": "nor did they censure Patroclus, who was in charge of the case",
+          "role": "wounded hero at Troy whose poset treatment illustrates old, uncomplicated medicine"
+        },
+        {
+          "paragraph_id": "p-a07447",
+          "quote": "But what he was to eat or drink thereafter they no more prescribed than for Eurypylus",
+          "role": "Trojan War hero used as comparator for Menelaus's wound treatment"
+        }
+      ],
+      "description": "Trojan War hero whose wounding and treatment with Pramnian wine and cheese by Patroclus is cited as evidence of the older, simpler medical practice.",
+      "justification": "Eurypylus is named in both p-f8f818 and p-a07447 as the paradigm patient of the old heroic medicine that did not obsess over dietary prescription."
+    },
+    {
+      "canonical_name": "Patroclus",
+      "surface_names": ["Patroclus"],
+      "kind": "figure",
+      "figure_kind": "mythological",
+      "mentions": [
+        {
+          "paragraph_id": "p-f8f818",
+          "quote": "nor did they censure Patroclus, who was in charge of the case",
+          "role": "healer-in-charge for Eurypylus, not criticised by the sons of Asclepius"
+        }
+      ],
+      "description": "Achilles' companion who administered the wine-and-cheese posset to Eurypylus at Troy, cited as evidence that the sons of Asclepius endorsed simple treatment.",
+      "justification": "Patroclus is explicitly named at p-f8f818 as the practitioner whose treatment the sons of Asclepius did not fault, validating simple Homeric medicine."
+    },
+    {
+      "canonical_name": "Menelaus",
+      "surface_names": ["Menelaus"],
+      "kind": "figure",
+      "figure_kind": "mythological",
+      "mentions": [
+        {
+          "paragraph_id": "p-a07447",
+          "quote": "in the case of Menelaus too from the wound that Pandarus inflicted They sucked the blood, and soothing simples sprinkled",
+          "role": "Trojan War hero whose wound and simple treatment illustrate Asclepiad medicine"
+        }
+      ],
+      "description": "King of Sparta, wounded by Pandarus at Troy; his minimal treatment by the sons of Asclepius is quoted to prove that heroic medicine prescribed no elaborate diet.",
+      "justification": "Menelaus is named with a quoted verse about his treatment at p-a07447, providing a second Homeric case for the old medical ideal."
+    },
+    {
+      "canonical_name": "Pandarus",
+      "surface_names": ["Pandarus"],
+      "kind": "figure",
+      "figure_kind": "mythological",
+      "mentions": [
+        {
+          "paragraph_id": "p-a07447",
+          "quote": "from the wound that Pandarus inflicted",
+          "role": "Trojan archer who wounded Menelaus, grounding the medical exemplum"
+        }
+      ],
+      "description": "Trojan warrior who shot Menelaus, named solely to identify the wound treated by the sons of Asclepius in the Iliad.",
+      "justification": "Pandarus is named at p-a07447 to establish the provenance of Menelaus's wound within the Homeric exemplum."
+    },
+    {
+      "canonical_name": "Pindar",
+      "surface_names": ["Pindar"],
+      "kind": "figure",
+      "figure_kind": "historical",
+      "mentions": [
+        {
+          "paragraph_id": "p-a07447",
+          "quote": "the tragedians and Pindar affirm that Asclepius, though he was the son of Apollo, was bribed by gold to heal a man already at the point of death",
+          "role": "poet whose claim about Asclepius is cited and then rejected"
+        }
+      ],
+      "description": "The lyric poet, cited alongside the tragedians as a source for the story that Asclepius accepted a bribe to resurrect the dead—a story Socrates explicitly refuses to believe.",
+      "justification": "Pindar is named at p-a07447 as one of two poetic authorities whose account of Asclepius is rejected by Socrates on theological grounds."
+    },
+    {
+      "canonical_name": "Phocylides",
+      "surface_names": ["Phocylides"],
+      "kind": "figure",
+      "figure_kind": "historical",
+      "mentions": [
+        {
+          "paragraph_id": "p-d023e6",
+          "quote": "haven't you heard that saying of Phocylides, that after a man has made his pile he ought to practice virtue?",
+          "role": "gnomic poet quoted to introduce the question of whether the rich man has civic duties"
+        }
+      ],
+      "description": "Archaic Greek gnomic poet whose saying about wealth and virtue is invoked to raise the question of whether the rich man has a civic task analogous to the craftsman's.",
+      "justification": "Phocylides is named at p-d023e6 and his aphorism is the springboard for the argument about medicine, wealth, and civic obligation."
+    },
+    {
+      "canonical_name": "Midas",
+      "surface_names": ["Midas"],
+      "kind": "figure",
+      "figure_kind": "mythological",
+      "mentions": [
+        {
+          "paragraph_id": "p-a07447",
+          "quote": "the art of medicine should not be for such nor should they be given treatment even if they were richer than Midas",
+          "role": "proverbial exemplar of extreme wealth, used in a limiting comparison"
+        }
+      ],
+      "description": "The legendary Phrygian king of proverbial wealth, invoked as the upper limit of riches to make the point that wealth cannot purchase treatment for the constitutionally sick.",
+      "justification": "Midas is named at p-a07447 as a wealth-hyperbole, grounding the principle that Asclepian medicine refuses the incurably sick regardless of means."
+    },
+    {
+      "canonical_name": "Syracuse",
+      "surface_names": ["Syracusan table", "Sicilian variety"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-2f5bfb",
+          "quote": "you apparently do not approve of a Syracusan table and Sicilian variety of made dishes",
+          "role": "paradigm of luxurious, varied cuisine opposed to the guardian's simple diet"
+        }
+      ],
+      "description": "The city of Syracuse in Sicily, whose elaborate cuisine is cited as the antithesis of the simple diet appropriate to guardians-in-training.",
+      "justification": "The 'Syracusan table' is named at p-2f5bfb as the concrete geographical emblem of dietary luxury and variety to be rejected."
+    },
+    {
+      "canonical_name": "Corinth",
+      "surface_names": ["Corinthian maid"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-2f5bfb",
+          "quote": "You would frown, then, on a little Corinthian maid as the chère amie of men who were to keep themselves fit?",
+          "role": "geographical marker for a type of hetaira, representing sexual luxury incompatible with guardian fitness"
+        }
+      ],
+      "description": "Corinth, mentioned through the figure of a 'Corinthian maid' (hetaira), as a symbol of sexual luxury that is incompatible with the guardians' disciplined regimen.",
+      "justification": "The 'Corinthian maid' is named at p-2f5bfb as a concrete example of erotic indulgence to be excluded from guardian life alongside dietary excess."
+    },
+    {
+      "canonical_name": "Athens",
+      "surface_names": ["Attic pastry"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-2f5bfb",
+          "quote": "And also on the seeming delights of Attic pastry? Inevitably.",
+          "role": "geographical marker for refined culinary luxury"
+        }
+      ],
+      "description": "Athens, invoked through its famous sweet pastries as a third example of the luxurious variety of diet that guardians must forgo.",
+      "justification": "'Attic pastry' is named at p-2f5bfb alongside Syracusan and Corinthian luxuries, completing the geographical triptych of dietary excess."
+    },
+    {
+      "canonical_name": "Troy",
+      "surface_names": ["Troy", "at Troy"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-f8f818",
+          "quote": "I infer this from the fact that at Troy his sons did not find fault with the damsel who gave to the wounded Eurypylus to drink a posset of Pramnian wine",
+          "role": "historical-mythological setting for the medical exempla drawn from the Iliad"
+        },
+        {
+          "paragraph_id": "p-a07447",
+          "quote": "And his sons too, don't you in see that at Troy they approved themselves good fighting-men",
+          "role": "battlefield setting validating the sons of Asclepius as warrior-physicians"
+        }
+      ],
+      "description": "The site of the Trojan War, the setting for the Homeric medical examples of Eurypylus and Menelaus that demonstrate the old, uncomplicated practice of medicine.",
+      "justification": "Troy is named twice (p-f8f818, p-a07447) as the battlefield context that validates both the sons of Asclepius and the simple medical regimen."
+    },
+    {
+      "canonical_name": "Phoenicia",
+      "surface_names": ["Phoenician tale"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-21aaee",
+          "quote": "a sort of Phoenician tale, something that has happened ere now in many parts of the world, as the poets aver",
+          "role": "generic geographical tag for the type of foundation myth Socrates is about to tell"
+        }
+      ],
+      "description": "Phoenicia, referenced in 'Phoenician tale' as the cultural genre-marker for a traditional foundation myth or noble lie about autochthonous origin.",
+      "justification": "The phrase 'Phoenician tale' at p-21aaee is Socrates' own label for the noble lie of the metals, grounding the narrative device in a recognizable ethnic tradition."
+    },
+    {
+      "canonical_name": "Noble Lie (Myth of the Metals)",
+      "surface_names": ["noble lie", "opportune falsehoods", "Phoenician tale", "myth of the metals"],
+      "kind": "idea",
+      "mentions": [
+        {
+          "paragraph_id": "p-21aaee",
+          "quote": "How, then, might we contrive one of those opportune falsehoods of which we were just now speaking, so as by one noble lie to persuade if possible the rulers themselves, but failing that the rest of the city?",
+          "role": "political-educational fiction proposed as the ideological foundation of the city"
+        },
+        {
+          "paragraph_id": "p-b3557e",
+          "quote": "God in fashioning those of you who are fitted to hold rule mingled gold in their generation, for which reason they are the most precious—but in the helpers silver, and iron and brass in the farmers and other craftsmen.",
+          "role": "content of the myth, establishing the metallic hierarchy of souls"
+        }
+      ],
+      "description": "The foundational civic fiction proposed by Socrates in which citizens are told they were fashioned by god with different metals (gold, silver, iron, bronze) in their souls to justify the class structure.",
+      "justification": "The noble lie is explicitly called an 'opportune falsehood' and 'Phoenician tale' in p-21aaee and its content is spelled out in p-b3557e, making it a named ideational entity."
+    },
+    {
+      "canonical_name": "Pramnian wine",
+      "surface_names": ["Pramnian wine", "posset of Pramnian wine"],
+      "kind": "object",
+      "mentions": [
+        {
+          "paragraph_id": "p-f8f818",
+          "quote": "a posset of Pramnian wine plentifully sprinkled with barley and gratings of cheese, inflammatory ingredients of a surety",
+          "role": "the specific drink given to Eurypylus, offered as evidence for old Asclepian medical simplicity"
+        }
+      ],
+      "description": "A Homeric wine-and-barley posset administered to Eurypylus at Troy; its apparent 'inflammatory' character is used to show that the sons of Asclepius cared only for the constitutionally sound.",
+      "justification": "Pramnian wine is specifically named at p-f8f818 as the concrete material evidence for the argument about old-style Asclepian medicine's indifference to dietary fussiness."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Music and gymnastics as education for the soul, not the body",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-5eb60c",
+          "quote": "music and gymnastics for the service of the high-spirited principle and the love of knowledge in them—not for the soul and the body except incidentally, but for the harmonious adjustment of these two principles"
+        },
+        {
+          "paragraph_id": "p-c4d62e",
+          "quote": "those who established an education in music and gymnastics had not the purpose in view that some attribute to them…but what we were just now saying we may, that they ordained both chiefly for the soul's sake"
+        }
+      ],
+      "justification": "The passage's central educational argument is that music and gymnastics are twin arts directed at the soul's spirited and philosophical parts, and their proper balance produces the harmonious guardian character."
+    },
+    {
+      "topic": "Civic medicine versus valetudinarian self-indulgence",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-22d73c",
+          "quote": "Herodicus was a trainer and became a valetudinarian, and blended gymnastics and medicine, for the torment first and chiefly of himself and then of many successors",
+          "quote": "for all well-governed peoples there is a work assigned to each man in the city which he must perform, and no one has leisure to be sick and doctor himself all his days"
+        },
+        {
+          "paragraph_id": "p-d023e6",
+          "quote": "this excessive care for the body that goes beyond simple gymnastics is the greatest of all obstacles"
+        }
+      ],
+      "justification": "A sustained argument running through p-22d73c and p-d023e6 that medicine should serve civic productivity, not extend miserable lives, and that the Herodican obsession with health is itself a civic vice."
+    },
+    {
+      "topic": "Simplicity versus variety and luxury in diet, music, and lifestyle",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-2f5bfb",
+          "quote": "simplicity in music begets sobriety in the souls, and in gymnastic training it begets health in bodies",
+          "quote": "you apparently do not approve of a Syracusan table and Sicilian variety of made dishes"
+        },
+        {
+          "paragraph_id": "p-1f116d",
+          "quote": "But is not the right love a sober and harmonious love of the orderly and the beautiful?"
+        }
+      ],
+      "justification": "Simplicity as the ruling aesthetic-moral principle is applied consistently to love, diet, musical mode, and gymnastic regimen throughout the window, with variety equated to licentiousness and disease."
+    },
+    {
+      "topic": "The soul's two principles: spirit (thumos) and the love of knowledge (philosophia), and their harmonious balance",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-5eb60c",
+          "quote": "two arts which I would say some god gave to mankind, music and gymnastics for the service of the high-spirited principle and the love of knowledge in them"
+        },
+        {
+          "paragraph_id": "p-a35878",
+          "quote": "if a man toils hard at gymnastics and eats right lustily and holds no truck with music and philosophy…it becomes feeble, deaf, and blind"
+        }
+      ],
+      "justification": "The bipartite psychology of thumos and philosophia is the structural premise of the education argument in p-a35878 and p-5eb60c, and their correct tuning is the criterion for the ideal guardian."
+    },
+    {
+      "topic": "Justice in the soul and in the city as analogous to medicine for the body",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-c4d62e",
+          "quote": "will you not establish by law in your city such an art of medicine as we have described in conjunction with this kind of justice? And these arts will care for the bodies and souls of such of your citizens as are truly well born"
+        },
+        {
+          "paragraph_id": "p-7570bb",
+          "quote": "a judge, mark you, my friend, rules soul with soul and it is not allowable for a soul to have been bred from youth up among evil souls"
+        }
+      ],
+      "justification": "The analogy between the physician who treats bodies and the judge who treats souls runs implicitly through p-c4d62e and p-7570bb, framing political justice as a form of psychic medicine."
+    },
+    {
+      "topic": "The selection and testing of rulers: memory, incorruptibility, and devotion to the city's interest",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-d3fd8a",
+          "quote": "we must bring these lads while young into fears and again pass them into pleasures, testing them much more carefully than men do gold in the fire",
+          "quote": "we must look for those who are the best guardians of the indwelling conviction that what they have to do is what they at any time believe to be best for the state"
+        },
+        {
+          "paragraph_id": "p-21aaee",
+          "quote": "he who as boy, lad, and man endures the test and issues from it unspoiled we must establish as ruler over our city"
+        }
+      ],
+      "justification": "The multi-stage testing protocol for guardian-rulers—covering toils, fears, pleasures, and sorcery—is the explicit institutional concern of p-d3fd8a and p-21aaee."
+    },
+    {
+      "topic": "Noble lie and political myth as the ideological cement of the city's class structure",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-21aaee",
+          "quote": "How, then, might we contrive one of those opportune falsehoods of which we were just now speaking, so as by one noble lie to persuade if possible the rulers themselves"
+        },
+        {
+          "paragraph_id": "p-b3557e",
+          "quote": "God in fashioning those of you who are fitted to hold rule mingled gold in their generation…but in the helpers silver, and iron and brass in the farmers and other craftsmen"
+        }
+      ],
+      "justification": "The explicit discussion of whether and how to tell the myth of the metals spans p-21aaee and p-b3557e, raising questions about the role of politically useful falsehood in founding a just city."
+    },
+    {
+      "topic": "Guardians' communal life, property prohibition, and the danger of turning from helpers to masters",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-3f1f02",
+          "quote": "Must we not then guard by every means in our power against our helpers treating the citizens in any such way and, because they are the stronger, converting themselves from benign assistants into savage masters?",
+          "quote": "none must possess any private property save the indispensable"
+        },
+        {
+          "paragraph_id": "p-b8111e",
+          "quote": "whenever they shall acquire for themselves land of their own and houses and coin, they will be house-holders and farmers instead of guardians…fearing far more and rather the townsmen within than the foemen without"
+        }
+      ],
+      "justification": "The institutional design of guardian communal living and property prohibition in p-3f1f02 and p-b8111e is grounded in the fear that private wealth will corrupt guardians into tyrants."
+    },
+    {
+      "topic": "Voluntary and involuntary loss of true belief: theft, force, and sorcery (pleasure/fear)",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-d3fd8a",
+          "quote": "the exit of a belief from the mind is either voluntary or involuntary. Voluntary is the departure of the false belief from one who learns better, involuntary that of every true belief",
+          "quote": "by those who have their opinions stolen from them I mean those who are over-persuaded and those who forget"
+        }
+      ],
+      "justification": "p-d3fd8a develops a precise epistemological taxonomy of how true beliefs are lost—through theft (forgetting/persuasion), force (pain), or sorcery (pleasure/fear)—which directly grounds the guardian-testing protocol."
+    },
+    {
+      "topic": "The corrupting reciprocal relation between a diseased city and courts and dispensaries",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-f8f818",
+          "quote": "when licentiousness and disease multiply in a city, are not many courts of law and dispensaries opened, and the arts of chicane and medicine give themselves airs",
+          "quote": "a notable mark of bad breeding to have to make use of a justice imported from others"
+        },
+        {
+          "paragraph_id": "p-f8f818",
+          "quote": "Will you be able to find a surer proof of an evil and shameful state of education in a city than the necessity of first-rate physicians and judges"
+        }
+      ],
+      "justification": "p-f8f818 develops the implicit civic-diagnostic theme that the proliferation of law courts and medical dispensaries is itself a symptom and sign of a city's moral-educational failure."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Iliad",
+      "cited_author": "Homer",
+      "stance": "authority",
+      "paragraph_id": "p-2f5bfb",
+      "quote": "One could learn that, said I, even from Homer. For you are aware that in the banqueting of the heroes on campaign he does not feast them on fish, nor on boiled meat, but only on roast",
+      "justification": "Homer's Iliad is cited as authoritative evidence for the simple dietary regimen of soldiers, supporting the argument that guardians should eat plain roasted meat rather than elaborate dishes."
+    },
+    {
+      "cited_work": "Iliad",
+      "cited_author": "Homer",
+      "stance": "authority",
+      "paragraph_id": "p-f8f818",
+      "quote": "at Troy his sons did not find fault with the damsel who gave to the wounded Eurypylus to drink a posset of Pramnian wine plentifully sprinkled with barley and gratings of cheese",
+      "justification": "The Iliad's account of Eurypylus's treatment is cited as evidence that the old Asclepian medicine did not impose dietary restrictions on those constitutionally sound before their wounds."
+    },
+    {
+      "cited_work": "Iliad",
+      "cited_author": "Homer",
+      "stance": "authority",
+      "paragraph_id": "p-a07447",
+      "quote": "from the wound that Pandarus inflicted They sucked the blood, and soothing simples sprinkled",
+      "justification": "A verse from the Iliad on Menelaus's wound treatment is directly quoted to establish that the sons of Asclepius practised simple, non-dietary-regulating medicine at Troy."
+    },
+    {
+      "cited_work": "unspecified tragedies",
+      "cited_author": "tragedians",
+      "stance": "refute",
+      "paragraph_id": "p-a07447",
+      "quote": "the tragedians and Pindar affirm that Asclepius, though he was the son of Apollo, was bribed by gold to heal a man already at the point of death, and that for this cause he was struck by the lightning. But we in accordance with the aforesaid principles refuse to believe both statements",
+      "justification": "The tragedians' story of Asclepius's bribery is cited and explicitly rejected: if Asclepius was a god's son he could not be avaricious, and if avaricious he was not a god's son."
+    },
+    {
+      "cited_work": "unspecified odes",
+      "cited_author": "Pindar",
+      "stance": "refute",
+      "paragraph_id": "p-a07447",
+      "quote": "the tragedians and Pindar affirm that Asclepius, though he was the son of Apollo, was bribed by gold to heal a man already at the point of death",
+      "justification": "Pindar's account of Asclepius's resurrection-for-gold is co-cited with the tragedians and jointly rejected by Socrates on the same theological grounds."
+    },
+    {
+      "cited_work": "gnomic poetry",
+      "cited_author": "Phocylides",
+      "stance": "neutral",
+      "paragraph_id": "p-d023e6",
+      "quote": "haven't you heard that saying of Phocylides, that after a man has made his pile he ought to practice virtue?",
+      "justification": "Phocylides' aphorism is cited neutrally as a premise for the subsequent argument about whether the rich man has civic duties, without endorsement or refutation of the saying itself."
+    }
+  ]
+}

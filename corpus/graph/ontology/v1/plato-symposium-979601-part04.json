@@ -1,0 +1,497 @@
+{
+  "slug": "plato-symposium-979601",
+  "window": "01-symposium:86-90",
+  "entities": [
+    {
+      "canonical_name": "Socrates",
+      "surface_names": ["Socrates"],
+      "kind": "figure",
+      "figure_kind": "philosopher",
+      "mentions": [
+        {
+          "paragraph_id": "p-728466",
+          "quote": "no man has ever yet seen Socrates drunk",
+          "role": "subject"
+        },
+        {
+          "paragraph_id": "p-728466",
+          "quote": "he walked out in that weather, clad in just such a coat as he was always wont to wear, and he made his way more easily over the ice unshod",
+          "role": "subject"
+        },
+        {
+          "paragraph_id": "p-728466",
+          "quote": "it was he, out of the whole army, who saved my life: I was wounded, and he would not forsake me",
+          "role": "subject"
+        },
+        {
+          "paragraph_id": "p-e5b34e",
+          "quote": "how far he outdid Laches in collectedness",
+          "role": "subject"
+        },
+        {
+          "paragraph_id": "p-b6dba4",
+          "quote": "His talk is of pack-asses, smiths, cobblers, and tanners",
+          "role": "subject"
+        },
+        {
+          "paragraph_id": "p-407d16",
+          "quote": "I believe you are sober, Alcibiades; else you would never have enfolded yourself so charmingly all about",
+          "role": "speaker"
+        },
+        {
+          "paragraph_id": "p-904871",
+          "quote": "Socrates was arguing with them",
+          "role": "subject"
+        },
+        {
+          "paragraph_id": "p-904871",
+          "quote": "Socrates was driving them to the admission that the same man could have the knowledge required for writing comedy and tragedy",
+          "role": "subject"
+        }
+      ],
+      "description": "Athenian philosopher whose physical endurance, moral courage, and paradoxically absurd-yet-profound speech are the central subject of Alcibiades' encomium across these passages.",
+      "justification": "Socrates is named repeatedly as the main referent of Alcibiades' praise, discussed for his endurance at Potidaea and Delium, his inner wisdom beneath outward absurdity, and his dialectical argument at the symposium's close."
+    },
+    {
+      "canonical_name": "Alcibiades",
+      "surface_names": ["Alcibiades"],
+      "kind": "figure",
+      "figure_kind": "statesman",
+      "mentions": [
+        {
+          "paragraph_id": "p-728466",
+          "quote": "on the day of the fight in which I gained my prize for valor from our commanders",
+          "role": "narrator/subject"
+        },
+        {
+          "paragraph_id": "p-e5b34e",
+          "quote": "I happened to be there on horseback, while he marched under arms",
+          "role": "narrator"
+        },
+        {
+          "paragraph_id": "p-b6dba4",
+          "quote": "I am not the only person he has treated thus: there are Charmides, son of Glaucon, Euthydemus, son of Diocles, and any number of others",
+          "role": "speaker"
+        },
+        {
+          "paragraph_id": "p-407d16",
+          "quote": "When Alcibiades had thus spoken, there was some laughter at his frankness",
+          "role": "subject"
+        },
+        {
+          "paragraph_id": "p-904871",
+          "quote": "Ha, ha! Alcibiades, said Agathon",
+          "role": "addressee"
+        }
+      ],
+      "description": "Athenian general and politician who delivers the encomium of Socrates, recounting personal experiences of Socrates' endurance and courage at Potidaea and Delium, and engaging in a comic seating rivalry with him over Agathon.",
+      "justification": "Alcibiades is the speaking narrator of paragraphs 86–88 and a dramatic participant in 89–90, named explicitly in 89 and 90."
+    },
+    {
+      "canonical_name": "Agathon",
+      "surface_names": ["Agathon"],
+      "kind": "figure",
+      "figure_kind": "poet",
+      "mentions": [
+        {
+          "paragraph_id": "p-b6dba4",
+          "quote": "I tell you this, Agathon, to save you from his deceit",
+          "role": "addressee"
+        },
+        {
+          "paragraph_id": "p-407d16",
+          "quote": "Do not let the plot succeed, but take measures to prevent anyone from setting you and me at odds",
+          "role": "addressee"
+        },
+        {
+          "paragraph_id": "p-407d16",
+          "quote": "I will come and sit by your side",
+          "role": "speaker"
+        },
+        {
+          "paragraph_id": "p-904871",
+          "quote": "Agathon also. When Socrates had seen them comfortable, he rose and went away",
+          "role": "subject"
+        }
+      ],
+      "description": "Tragic poet and host of the symposium who becomes the object of a comic seating rivalry between Socrates and Alcibiades, and eventually falls asleep as Socrates continues arguing into the dawn.",
+      "justification": "Agathon is addressed by name in paragraphs 88 and 89 as the romantic prize Alcibiades seeks, and appears as a dramatic participant in the seating comedy and the final scene in paragraph 90."
+    },
+    {
+      "canonical_name": "Laches",
+      "surface_names": ["Laches"],
+      "kind": "figure",
+      "figure_kind": "general",
+      "mentions": [
+        {
+          "paragraph_id": "p-e5b34e",
+          "quote": "he was retreating along with Laches, when I chanced to come up with them",
+          "role": "companion"
+        },
+        {
+          "paragraph_id": "p-e5b34e",
+          "quote": "how far he outdid Laches in collectedness",
+          "role": "foil"
+        }
+      ],
+      "description": "Athenian general who retreated alongside Socrates at the battle of Delium, used by Alcibiades as a foil to highlight Socrates' superior composure under fire.",
+      "justification": "Laches is named explicitly at Delium and contrasted with Socrates in calmness, grounding his role as a comparative figure."
+    },
+    {
+      "canonical_name": "Aristophanes",
+      "surface_names": ["Aristophanes"],
+      "kind": "figure",
+      "figure_kind": "poet",
+      "mentions": [
+        {
+          "paragraph_id": "p-e5b34e",
+          "quote": "to use a phrase of yours, Aristophanes—how there he stepped along, as his wont is in our streets, strutting like a proud marsh-goose",
+          "role": "quoted"
+        },
+        {
+          "paragraph_id": "p-904871",
+          "quote": "first Aristophanes dropped into a slumber",
+          "role": "subject"
+        }
+      ],
+      "description": "Comic poet present at the symposium whose phrase describing Socrates' distinctive gait is quoted by Alcibiades, and who is among the last awake before falling asleep as Socrates argues about comedy and tragedy.",
+      "justification": "Aristophanes is named in paragraph 87 as the author of a memorable phrase about Socrates' walk, and in paragraph 90 as one of the final three awake."
+    },
+    {
+      "canonical_name": "Charmides",
+      "surface_names": ["Charmides, son of Glaucon"],
+      "kind": "figure",
+      "figure_kind": "associate",
+      "mentions": [
+        {
+          "paragraph_id": "p-b6dba4",
+          "quote": "there are Charmides, son of Glaucon, Euthydemus, son of Diocles, and any number of others who have found his way of loving so deceitful",
+          "role": "example"
+        }
+      ],
+      "description": "Young Athenian identified as son of Glaucon, cited by Alcibiades as one of several men deceived by Socrates' erotic conduct—made to play the beloved rather than the lover.",
+      "justification": "Charmides is named explicitly in paragraph 88 as an instance of Socrates' deceptive erotic reversals."
+    },
+    {
+      "canonical_name": "Euthydemus",
+      "surface_names": ["Euthydemus, son of Diocles"],
+      "kind": "figure",
+      "figure_kind": "associate",
+      "mentions": [
+        {
+          "paragraph_id": "p-b6dba4",
+          "quote": "there are Charmides, son of Glaucon, Euthydemus, son of Diocles, and any number of others who have found his way of loving so deceitful",
+          "role": "example"
+        }
+      ],
+      "description": "Young Athenian identified as son of Diocles, cited alongside Charmides as another victim of Socrates' erotic deception, finding himself the beloved rather than the lover.",
+      "justification": "Euthydemus is named explicitly in paragraph 88 as a second instance of Socrates' deceptive erotic reversals."
+    },
+    {
+      "canonical_name": "Phaedrus",
+      "surface_names": ["Phaedrus"],
+      "kind": "figure",
+      "figure_kind": "interlocutor",
+      "mentions": [
+        {
+          "paragraph_id": "p-904871",
+          "quote": "Eryximachus, Phaedrus, and some others took their leave and departed",
+          "role": "subject"
+        }
+      ],
+      "description": "Symposium participant who departs early after the rowdy revellers arrive, before Socrates' final argument about comedy and tragedy.",
+      "justification": "Phaedrus is named explicitly in paragraph 90 among those who leave when disorder overtakes the party."
+    },
+    {
+      "canonical_name": "Eryximachus",
+      "surface_names": ["Eryximachus"],
+      "kind": "figure",
+      "figure_kind": "interlocutor",
+      "mentions": [
+        {
+          "paragraph_id": "p-904871",
+          "quote": "Eryximachus, Phaedrus, and some others took their leave and departed",
+          "role": "subject"
+        }
+      ],
+      "description": "Physician and symposium participant who departs alongside Phaedrus when the uninvited revellers throw the gathering into disorder.",
+      "justification": "Eryximachus is named explicitly in paragraph 90 among those who take their leave after the intrusion."
+    },
+    {
+      "canonical_name": "Aristodemus",
+      "surface_names": ["Aristodemus"],
+      "kind": "figure",
+      "figure_kind": "narrator",
+      "mentions": [
+        {
+          "paragraph_id": "p-904871",
+          "quote": "as Aristodemus related, Eryximachus, Phaedrus, and some others took their leave and departed; while he himself fell asleep",
+          "role": "narrator/subject"
+        },
+        {
+          "paragraph_id": "p-904871",
+          "quote": "He awoke towards dawn, as the cocks were crowing",
+          "role": "subject"
+        }
+      ],
+      "description": "The frame narrator who was present at the symposium, fell asleep during the revels, and woke at dawn to witness the final scene of Socrates arguing with Aristophanes and Agathon.",
+      "justification": "Aristodemus is named explicitly in paragraph 90 as the source of the account of the symposium's end and is described sleeping through much of it."
+    },
+    {
+      "canonical_name": "Achilles",
+      "surface_names": ["Achilles"],
+      "kind": "figure",
+      "figure_kind": "hero",
+      "mentions": [
+        {
+          "paragraph_id": "p-e5b34e",
+          "quote": "You may take the character of Achilles and see his parallel in Brasidas or others",
+          "role": "comparator"
+        }
+      ],
+      "description": "The pre-eminent Greek hero of the Iliad, invoked by Alcibiades to illustrate that most great men have historical parallels — unlike Socrates, who is incomparable.",
+      "justification": "Achilles is named in paragraph 87 as the archetype for whom a living parallel (Brasidas) can be found, setting up the contrast with Socrates' uniqueness."
+    },
+    {
+      "canonical_name": "Brasidas",
+      "surface_names": ["Brasidas"],
+      "kind": "figure",
+      "figure_kind": "general",
+      "mentions": [
+        {
+          "paragraph_id": "p-e5b34e",
+          "quote": "You may take the character of Achilles and see his parallel in Brasidas or others",
+          "role": "parallel"
+        }
+      ],
+      "description": "Spartan general cited as the contemporary parallel to Achilles in the argument that great men always have comparable counterparts, unlike Socrates.",
+      "justification": "Brasidas is named explicitly in paragraph 87 as an analogue to Achilles in Alcibiades' argument about Socrates' incomparability."
+    },
+    {
+      "canonical_name": "Nestor",
+      "surface_names": ["Nestor"],
+      "kind": "figure",
+      "figure_kind": "hero",
+      "mentions": [
+        {
+          "paragraph_id": "p-e5b34e",
+          "quote": "you may couple Nestor, Antenor, or others I might mention, with Pericles",
+          "role": "comparator"
+        }
+      ],
+      "description": "Homeric elder-statesman hero cited alongside Antenor as figures for whom contemporaries such as Pericles serve as parallels.",
+      "justification": "Nestor is named in paragraph 87 as a type paired with Pericles to illustrate the general principle of historical comparability."
+    },
+    {
+      "canonical_name": "Pericles",
+      "surface_names": ["Pericles"],
+      "kind": "figure",
+      "figure_kind": "statesman",
+      "mentions": [
+        {
+          "paragraph_id": "p-e5b34e",
+          "quote": "you may couple Nestor, Antenor, or others I might mention, with Pericles",
+          "role": "parallel"
+        }
+      ],
+      "description": "Athenian statesman cited as the contemporary analogue to the Homeric figures Nestor and Antenor, reinforcing that all great men except Socrates have historical doubles.",
+      "justification": "Pericles is named explicitly in paragraph 87 as the modern parallel to Nestor and Antenor."
+    },
+    {
+      "canonical_name": "Silenus",
+      "surface_names": ["Silenuses", "Silenic"],
+      "kind": "figure",
+      "figure_kind": "mythological",
+      "mentions": [
+        {
+          "paragraph_id": "p-e5b34e",
+          "quote": "you would not come anywhere near finding a comparison if you searched either among men of our day or among those of the past, unless perhaps you borrowed my words and matched him, not with any human being, but with the Silenuses and satyrs",
+          "role": "comparator"
+        },
+        {
+          "paragraph_id": "p-407d16",
+          "quote": "your Satyric or Silenic play-scene is all shown up",
+          "role": "metaphor"
+        }
+      ],
+      "description": "Mythological woodland deity associated with satyrs, whose hollow statuettes open to reveal divine figures within — the primary metaphor Alcibiades uses for Socrates' deceptive outer absurdity concealing inner wisdom.",
+      "justification": "The Silenus figure is invoked in paragraphs 87 and 89 as the key analogical framework for understanding Socrates' paradoxical nature."
+    },
+    {
+      "canonical_name": "Potidaea",
+      "surface_names": ["Potidaea"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-e5b34e",
+          "quote": "I had an even finer view of Socrates than at Potidaea",
+          "role": "location"
+        }
+      ],
+      "description": "City in Thrace where the Athenian military campaign provided the setting for Alcibiades' earlier testimony about Socrates' endurance of cold and fasting.",
+      "justification": "Potidaea is named explicitly in paragraph 87 as the earlier campaign context against which Socrates' conduct at Delium is compared."
+    },
+    {
+      "canonical_name": "Delium",
+      "surface_names": ["Delium"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-e5b34e",
+          "quote": "when the army was retiring in flight from Delium",
+          "role": "location"
+        }
+      ],
+      "description": "Site of an Athenian military defeat where Alcibiades witnessed Socrates' calm and composed retreat alongside Laches, which he describes as even more impressive than Potidaea.",
+      "justification": "Delium is named explicitly in paragraph 87 as the battle whose retreat forms the second key anecdote in Alcibiades' encomium."
+    },
+    {
+      "canonical_name": "Lyceum",
+      "surface_names": ["Lyceum"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-904871",
+          "quote": "on arriving at the Lyceum, he washed himself, and then spent the rest of the day in his ordinary fashion",
+          "role": "location"
+        }
+      ],
+      "description": "Athletic and philosophical gathering place in Athens where Socrates went after the symposium ended, bathed, and resumed his usual daily activities.",
+      "justification": "The Lyceum is named explicitly in paragraph 90 as Socrates' destination after departing the symposium at dawn."
+    },
+    {
+      "canonical_name": "Ionians",
+      "surface_names": ["Ionians"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-728466",
+          "quote": "in the evening some of the Ionians after they had supped— this time it was summer—brought out their mattresses and rugs and took their sleep in the cool",
+          "role": "witnesses"
+        }
+      ],
+      "description": "Fellow soldiers at Potidaea from the Ionian communities of Athens' allies, who noticed Socrates' all-night motionless meditation and eventually bedded down outdoors to observe him.",
+      "justification": "The Ionians are named explicitly in paragraph 86 as those who watched Socrates stand in contemplation from dusk until dawn."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Philosophical endurance and physical askesis",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-728466",
+          "quote": "whenever we were cut off in some place and were compelled, as often in campaigns, to go without food, the rest of us were nowhere in point of endurance"
+        },
+        {
+          "paragraph_id": "p-728466",
+          "quote": "he walked out in that weather, clad in just such a coat as he was always wont to wear, and he made his way more easily over the ice unshod"
+        }
+      ],
+      "justification": "Paragraph 86 is substantially devoted to demonstrating that Socrates' philosophical nature manifests in bodily self-mastery — indifference to hunger, cold, and the need for shoes — making askesis a central theme of Alcibiades' testimony."
+    },
+    {
+      "topic": "Socratic contemplation and intellectual absorption",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-728466",
+          "quote": "Immersed in some problem at dawn, he stood in the same spot considering it; and when he found it a tough one, he would not give it up but stood there trying"
+        },
+        {
+          "paragraph_id": "p-904871",
+          "quote": "Socrates was arguing with them"
+        }
+      ],
+      "justification": "Socrates' all-night stance at Potidaea and his predawn argumentation at the symposium's close both illustrate the theme of relentless philosophical contemplation as a mode of being."
+    },
+    {
+      "topic": "Incomparability and uniqueness of Socrates",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-e5b34e",
+          "quote": "with the odd qualities of this person, both in himself and in his conversation, you would not come anywhere near finding a comparison if you searched either among men of our day or among those of the past"
+        }
+      ],
+      "justification": "Paragraph 87 explicitly argues that while all other great figures — Achilles, Nestor, Pericles — have historical parallels, Socrates is categorically incomparable, making his uniqueness a deliberate philosophical theme."
+    },
+    {
+      "topic": "Paradox of outward absurdity and inner wisdom",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-e5b34e",
+          "quote": "his talk most of all resembles the Silenuses that are made to open"
+        },
+        {
+          "paragraph_id": "p-b6dba4",
+          "quote": "His talk is of pack-asses, smiths, cobblers, and tanners … when these are opened, and you obtain a fresh view of them by getting inside, first of all you will discover that they are the only speeches which have any sense in them"
+        }
+      ],
+      "justification": "The Silenus metaphor — ridiculous exterior concealing divine wisdom — is the governing paradox of paragraphs 87–88, and constitutes the epistemological core of Alcibiades' entire encomium."
+    },
+    {
+      "topic": "Eros, deception, and erotic reversal",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-b6dba4",
+          "quote": "I am not the only person he has treated thus … who have found his way of loving so deceitful that he might rather be their favorite than their lover"
+        },
+        {
+          "paragraph_id": "p-407d16",
+          "quote": "your Satyric or Silenic play-scene is all shown up"
+        }
+      ],
+      "justification": "Paragraphs 88–89 foreground the theme that Socrates inverts the expected lover/beloved relation, deceiving admirers into occupying the beloved's role — an ironic erotic reversal that frames Socrates' philosophical seduction as itself a kind of philosophical method."
+    },
+    {
+      "topic": "Courage and composure in battle",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-728466",
+          "quote": "it was he, out of the whole army, who saved my life: I was wounded, and he would not forsake me"
+        },
+        {
+          "paragraph_id": "p-e5b34e",
+          "quote": "how far he outdid Laches in collectedness … convincing anyone even from afar that whoever cares to touch this person will find he can put up a stout enough defence"
+        }
+      ],
+      "justification": "Two battle anecdotes in paragraphs 86–87 establish martial courage as an extension of Socrates' philosophical character, linking andreia (courage) explicitly to his philosophical composure."
+    },
+    {
+      "topic": "The unity of comic and tragic knowledge",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-904871",
+          "quote": "Socrates was driving them to the admission that the same man could have the knowledge required for writing comedy and tragedy—that the fully skilled tragedian could be a comedian as well"
+        }
+      ],
+      "justification": "Paragraph 90 records Socrates' final argument of the night — that comic and tragic poetic knowledge are unified — a compact philosophical thesis about the nature of poetic expertise that closes the dialogue."
+    },
+    {
+      "topic": "Virtue of speech hidden beneath humble subject matter",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-b6dba4",
+          "quote": "none are so divine, so rich in images of virtue, so largely—nay, so completely—intent on all things proper for the study of such as would attain both grace and worth"
+        }
+      ],
+      "justification": "Alcibiades implicitly argues that the philosophically worthwhile is found in discourse that appears trivial — a claim about the relationship between form and content in philosophical speech, going beyond mere description of Socrates."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Aristophanes (comic phrase about Socrates' gait)",
+      "cited_author": "Aristophanes",
+      "stance": "authority",
+      "paragraph_id": "p-e5b34e",
+      "quote": "to use a phrase of yours, Aristophanes—how there he stepped along, as his wont is in our streets, strutting like a proud marsh-goose",
+      "justification": "Alcibiades explicitly attributes a memorable descriptive phrase about Socrates' characteristic walk to Aristophanes, treating his comic depiction as an authoritative verbal portrait."
+    }
+  ]
+}
