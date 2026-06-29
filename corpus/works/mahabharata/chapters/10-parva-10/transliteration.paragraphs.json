@@ -1,0 +1,3862 @@
+[
+  {
+    "id": "p-f905e9",
+    "ref": "10.1.1",
+    "text": "saṃjaya uvāca tatas te sahitā vīrāḥ prayātā dakṣiṇāmukhāḥ upāstamayavelāyāṃ śibirābhyāśam āgatāḥ"
+  },
+  {
+    "id": "p-f805e7",
+    "ref": "10.1.2",
+    "text": "vimucya vāhāṃs tvaritā bhītāḥ samabhavaṃs tadā gahanaṃ deśam āsādya pracchannā nyaviśanta te"
+  },
+  {
+    "id": "p-f705e6",
+    "ref": "10.1.3",
+    "text": "senāniveśam abhito nātidūram avasthitāḥ nikṛttā niśitaiḥ śastraiḥ samantāt kṣatavikṣatāḥ"
+  },
+  {
+    "id": "p-f605e4",
+    "ref": "10.1.4",
+    "text": "dīrgham uṣṇaṃ ca niḥśvasya pāṇḍavān anvacintayan śrutvā ca ninadaṃ ghoraṃ pāṇḍavānāṃ jayaiṣiṇām"
+  },
+  {
+    "id": "p-f505e2",
+    "ref": "10.1.5",
+    "text": "anusārabhayād bhītāḥ prāṅmukhāḥ prādravan punaḥ te muhūrtaṃ tato gatvā śrāntavāhāḥ pipāsitāḥ"
+  },
+  {
+    "id": "p-f405e1",
+    "ref": "10.1.6",
+    "text": "nāmṛṣyanta maheṣvāsāḥ krodhāmarṣavaśaṃ gatāḥ rājño vadhena saṃtaptā muhūrtaṃ samavasthitāḥ"
+  },
+  {
+    "id": "p-f305df",
+    "ref": "10.1.7",
+    "text": "dhṛtarāṣṭra uvāca aśraddheyam idaṃ karma kṛtaṃ bhīmena saṃjaya yat sa nāgāyutaprāṇaḥ putro mama nipātitaḥ"
+  },
+  {
+    "id": "p-f205de",
+    "ref": "10.1.8",
+    "text": "avadhyaḥ sarvabhūtānāṃ vajrasaṃhanano yuvā pāṇḍavaiḥ samare putro nihato mama saṃjaya"
+  },
+  {
+    "id": "p-f105dc",
+    "ref": "10.1.9",
+    "text": "na diṣṭam abhyatikrāntuṃ śakyaṃ gāvalgaṇe naraiḥ yat sametya raṇe pārthaiḥ putro mama nipātitaḥ"
+  },
+  {
+    "id": "p-0e4dda",
+    "ref": "10.1.10",
+    "text": "adrisāramayaṃ nūnaṃ hṛdayaṃ mama saṃjaya hataṃ putraśataṃ śrutvā yan na dīrṇaṃ sahasradhā"
+  },
+  {
+    "id": "p-0f4ddc",
+    "ref": "10.1.11",
+    "text": "kathaṃ hi vṛddhamithunaṃ hataputraṃ bhaviṣyati na hy ahaṃ pāṇḍaveyasya viṣaye vastum utsahe"
+  },
+  {
+    "id": "p-0c4dd7",
+    "ref": "10.1.12",
+    "text": "kathaṃ rājñaḥ pitā bhūtvā svayaṃ rājā ca saṃjaya preṣyabhūtaḥ pravarteyaṃ pāṇḍaveyasya śāsanāt"
+  },
+  {
+    "id": "p-0d4dd9",
+    "ref": "10.1.13",
+    "text": "ājñāpya pṛthivīṃ sarvāṃ sthitvā mūrdhni ca saṃjaya katham adya bhaviṣyāmi preṣyabhūto durantakṛt"
+  },
+  {
+    "id": "p-124de1",
+    "ref": "10.1.14",
+    "text": "kathaṃ bhīmasya vākyāni śrotuṃ śakṣyāmi saṃjaya yena putraśataṃ pūrṇam ekena nihataṃ mama"
+  },
+  {
+    "id": "p-134de2",
+    "ref": "10.1.15",
+    "text": "kṛtaṃ satyaṃ vacas tasya vidurasya mahātmanaḥ akurvatā vacas tena mama putreṇa saṃjaya"
+  },
+  {
+    "id": "p-104ddd",
+    "ref": "10.1.16",
+    "text": "adharmeṇa hate tāta putre duryodhane mama kṛtavarmā kṛpo drauṇiḥ kim akurvata saṃjaya"
+  },
+  {
+    "id": "p-114ddf",
+    "ref": "10.1.17",
+    "text": "saṃjaya uvāca gatvā tu tāvakā rājan nātidūram avasthitāḥ apaśyanta vanaṃ ghoraṃ nānādrumalatākulam"
+  },
+  {
+    "id": "p-064dce",
+    "ref": "10.1.18",
+    "text": "te muhūrtaṃ tu viśramya labdhatoyair hayottamaiḥ sūryāstamayavelāyām āseduḥ sumahad vanam"
+  },
+  {
+    "id": "p-074dcf",
+    "ref": "10.1.19",
+    "text": "nānāmṛgagaṇair juṣṭaṃ nānāpakṣisamākulam nānādrumalatācchannaṃ nānāvyālaniṣevitam"
+  },
+  {
+    "id": "p-084b92",
+    "ref": "10.1.20",
+    "text": "nānātoyasamākīrṇaṃ taḍāgair upaśobhitam padminīśatasaṃchannaṃ nīlotpalasamāyutam"
+  },
+  {
+    "id": "p-074b91",
+    "ref": "10.1.21",
+    "text": "praviśya tad vanaṃ ghoraṃ vīkṣamāṇāḥ samantataḥ śākhāsahasrasaṃchannaṃ nyagrodhaṃ dadṛśus tataḥ"
+  },
+  {
+    "id": "p-064b8f",
+    "ref": "10.1.22",
+    "text": "upetya tu tadā rājan nyagrodhaṃ te mahārathāḥ dadṛśur dvipadāṃ śreṣṭhāḥ śreṣṭhaṃ taṃ vai vanaspatim"
+  },
+  {
+    "id": "p-054b8d",
+    "ref": "10.1.23",
+    "text": "te 'vatīrya rathebhyas tu vipramucya ca vājinaḥ upaspṛśya yathānyāyaṃ saṃdhyām anvāsata prabho"
+  },
+  {
+    "id": "p-044b8c",
+    "ref": "10.1.24",
+    "text": "tato 'staṃ parvataśreṣṭham anuprāpte divākare sarvasya jagato dhātrī śarvarī samapadyata"
+  },
+  {
+    "id": "p-034b8a",
+    "ref": "10.1.25",
+    "text": "grahanakṣatratārābhiḥ prakīrṇābhir alaṃkṛtam nabho 'ṃśukam ivābhāti prekṣaṇīyaṃ samantataḥ"
+  },
+  {
+    "id": "p-024b89",
+    "ref": "10.1.26",
+    "text": "īṣac cāpi pravalganti ye sattvā rātricāriṇaḥ divācarāś ca ye sattvās te nidrāvaśam āgatāḥ"
+  },
+  {
+    "id": "p-014b87",
+    "ref": "10.1.27",
+    "text": "rātriṃcarāṇāṃ sattvānāṃ ninādo 'bhūt sudāruṇaḥ kravyādāś ca pramuditā ghorā prāptā ca śarvarī"
+  },
+  {
+    "id": "p-104b9f",
+    "ref": "10.1.28",
+    "text": "tasmin rātrimukhe ghore duḥkhaśokasamanvitāḥ kṛtavarmā kṛpo drauṇir upopaviviśuḥ samam"
+  },
+  {
+    "id": "p-0f4b9d",
+    "ref": "10.1.29",
+    "text": "tatropaviṣṭāḥ śocanto nyagrodhasya samantataḥ tam evārtham atikrāntaṃ kurupāṇḍavayoḥ kṣayam"
+  },
+  {
+    "id": "p-02494a",
+    "ref": "10.1.30",
+    "text": "nidrayā ca parītāṅgā niṣedur dharaṇītale śrameṇa sudṛḍhaṃ yuktā vikṣatā vividhaiḥ śaraiḥ"
+  },
+  {
+    "id": "p-03494c",
+    "ref": "10.1.31",
+    "text": "tato nidrāvaśaṃ prāptau kṛpabhojau mahārathau sukhocitāv aduḥkhārhau niṣaṇṇau dharaṇītale tau tu suptau mahārāja śramaśokasamanvitau"
+  },
+  {
+    "id": "p-04494d",
+    "ref": "10.1.32",
+    "text": "krodhāmarṣavaśaṃ prāpto droṇaputras tu bhārata naiva sma sa jagāmātha nidrāṃ sarpa iva śvasan"
+  },
+  {
+    "id": "p-05494f",
+    "ref": "10.1.33",
+    "text": "na lebhe sa tu nidrāṃ vai dahyamāno 'timanyunā vīkṣāṃ cakre mahābāhus tad vanaṃ ghoradarśanam"
+  },
+  {
+    "id": "p-fe4944",
+    "ref": "10.1.34",
+    "text": "vīkṣamāṇo vanoddeśaṃ nānāsattvair niṣevitam apaśyata mahābāhur nyagrodhaṃ vāyasāyutam"
+  },
+  {
+    "id": "p-ff4945",
+    "ref": "10.1.35",
+    "text": "tatra kākasahasrāṇi tāṃ niśāṃ paryaṇāmayan sukhaṃ svapantaḥ kauravya pṛthak pṛthag apāśrayāḥ"
+  },
+  {
+    "id": "p-004947",
+    "ref": "10.1.36",
+    "text": "supteṣu teṣu kākeṣu visrabdheṣu samantataḥ so 'paśyat sahasāyāntam ulūkaṃ ghoradarśanam"
+  },
+  {
+    "id": "p-014949",
+    "ref": "10.1.37",
+    "text": "mahāsvanaṃ mahākāyaṃ haryakṣaṃ babhrupiṅgalam sudīrghaghoṇānakharaṃ suparṇam iva veginam"
+  },
+  {
+    "id": "p-0a4957",
+    "ref": "10.1.38",
+    "text": "so 'tha śabdaṃ mṛduṃ kṛtvā līyamāna ivāṇḍajaḥ nyagrodhasya tataḥ śākhāṃ prārthayām āsa bhārata"
+  },
+  {
+    "id": "p-0b4958",
+    "ref": "10.1.39",
+    "text": "saṃnipatya tu śākhāyāṃ nyagrodhasya vihaṃgamaḥ suptāñ jaghāna subahūn vāyasān vāyasāntakaḥ"
+  },
+  {
+    "id": "p-fc4702",
+    "ref": "10.1.40",
+    "text": "keṣāṃ cid acchinat pakṣāñ śirāṃsi ca cakarta ha caraṇāṃś caiva keṣāṃ cid babhañja caraṇāyudhaḥ"
+  },
+  {
+    "id": "p-fb4701",
+    "ref": "10.1.41",
+    "text": "kṣaṇenāhan sa balavān ye 'sya dṛṣṭipathe sthitāḥ teṣāṃ śarīrāvayavaiḥ śarīraiś ca viśāṃ pate nyagrodhamaṇḍalaṃ sarvaṃ saṃchannaṃ sarvato 'bhavat"
+  },
+  {
+    "id": "p-fe4705",
+    "ref": "10.1.42",
+    "text": "tāṃs tu hatvā tataḥ kākān kauśiko mudito 'bhavat pratikṛtya yathākāmaṃ śatrūṇāṃ śatrusūdanaḥ"
+  },
+  {
+    "id": "p-fd4704",
+    "ref": "10.1.43",
+    "text": "tad dṛṣṭvā sopadhaṃ karma kauśikena kṛtaṃ niśi tadbhāvakṛtasaṃkalpo drauṇir eko vyacintayat"
+  },
+  {
+    "id": "p-004708",
+    "ref": "10.1.44",
+    "text": "upadeśaḥ kṛto 'nena pakṣiṇā mama saṃyuge śatrūṇāṃ kṣapaṇe yuktaḥ prāptakālaś ca me mataḥ"
+  },
+  {
+    "id": "p-ff4707",
+    "ref": "10.1.45",
+    "text": "nādya śakyā mayā hantuṃ pāṇḍavā jitakāśinaḥ balavantaḥ kṛtotsāhā labdhalakṣāḥ prahāriṇaḥ rājñaḥ sakāśe teṣāṃ ca pratijñāto vadho mayā"
+  },
+  {
+    "id": "p-02470c",
+    "ref": "10.1.46",
+    "text": "pataṃgāgnisamāṃ vṛttim āsthāyātmavināśinīm nyāyato yudhyamānasya prāṇatyāgo na saṃśayaḥ chadmanā tu bhavet siddhiḥ śatrūṇāṃ ca kṣayo mahān"
+  },
+  {
+    "id": "p-01470a",
+    "ref": "10.1.47",
+    "text": "tatra saṃśayitād arthād yo 'rtho niḥsaṃśayo bhavet taṃ janā bahu manyante ye 'rthaśāstraviśāradāḥ"
+  },
+  {
+    "id": "p-04470f",
+    "ref": "10.1.48",
+    "text": "yac cāpy atra bhaved vācyaṃ garhitaṃ lokaninditam kartavyaṃ tan manuṣyeṇa kṣatradharmeṇa vartatā"
+  },
+  {
+    "id": "p-03470d",
+    "ref": "10.1.49",
+    "text": "ninditāni ca sarvāṇi kutsitāni pade pade sopadhāni kṛtāny eva pāṇḍavair akṛtātmabhiḥ"
+  },
+  {
+    "id": "p-964423",
+    "ref": "10.1.50",
+    "text": "asminn arthe purā gītau śrūyete dharmacintakaiḥ ślokau nyāyam avekṣadbhis tattvārthaṃ tattvadarśibhiḥ"
+  },
+  {
+    "id": "p-974425",
+    "ref": "10.1.51",
+    "text": "pariśrānte vidīrṇe ca bhuñjāne cāpi śatrubhiḥ prasthāne ca praveśe ca prahartavyaṃ ripor balam"
+  },
+  {
+    "id": "p-944420",
+    "ref": "10.1.52",
+    "text": "nidrārtam ardharātre ca tathā naṣṭapraṇāyakam bhinnayodhaṃ balaṃ yac ca dvidhā yuktaṃ ca yad bhavet"
+  },
+  {
+    "id": "p-954421",
+    "ref": "10.1.53",
+    "text": "ity evaṃ niścayaṃ cakre suptānāṃ yudhi māraṇe pāṇḍūnāṃ saha pāñcālair droṇaputraḥ pratāpavān"
+  },
+  {
+    "id": "p-92441d",
+    "ref": "10.1.54",
+    "text": "sa krūrāṃ matim āsthāya viniścitya muhur muhuḥ suptau prābodhayat tau tu mātulaṃ bhojam eva ca"
+  },
+  {
+    "id": "p-93441e",
+    "ref": "10.1.55",
+    "text": "nottaraṃ pratipede ca tatra yuktaṃ hriyā vṛtaḥ sa muhūrtam iva dhyātvā bāṣpavihvalam abravīt"
+  },
+  {
+    "id": "p-90441a",
+    "ref": "10.1.56",
+    "text": "hato duryodhano rājā ekavīro mahābalaḥ yasyārthe vairam asmābhir āsaktaṃ pāṇḍavaiḥ saha"
+  },
+  {
+    "id": "p-91441b",
+    "ref": "10.1.57",
+    "text": "ekākī bahubhiḥ kṣudrair āhave śuddhavikramaḥ pātito bhīmasenena ekādaśacamūpatiḥ"
+  },
+  {
+    "id": "p-8e4416",
+    "ref": "10.1.58",
+    "text": "vṛkodareṇa kṣudreṇa sunṛśaṃsam idaṃ kṛtam mūrdhābhiṣiktasya śiraḥ pādena parimṛdnatā"
+  },
+  {
+    "id": "p-8f4418",
+    "ref": "10.1.59",
+    "text": "vinardanti sma pāñcālāḥ kṣveḍanti ca hasanti ca dhamanti śaṅkhāñ śataśo hṛṣṭā ghnanti ca dundubhīn"
+  },
+  {
+    "id": "p-9041db",
+    "ref": "10.1.60",
+    "text": "vāditraghoṣas tumulo vimiśraḥ śaṅkhanisvanaiḥ anilenerito ghoro diśaḥ pūrayatīva hi"
+  },
+  {
+    "id": "p-8f41d9",
+    "ref": "10.1.61",
+    "text": "aśvānāṃ heṣamāṇānāṃ gajānāṃ caiva bṛṃhatām siṃhanādaś ca śūrāṇāṃ śrūyate sumahān ayam"
+  },
+  {
+    "id": "p-8e41d8",
+    "ref": "10.1.62",
+    "text": "diśaṃ prācīṃ samāśritya hṛṣṭānāṃ garjatāṃ bhṛśam rathanemisvanāś caiva śrūyante lomaharṣaṇāḥ"
+  },
+  {
+    "id": "p-8d41d6",
+    "ref": "10.1.63",
+    "text": "pāṇḍavair dhārtarāṣṭrāṇāṃ yad idaṃ kadanaṃ kṛtam vayam eva trayaḥ śiṣṭās tasmin mahati vaiśase"
+  },
+  {
+    "id": "p-9441e1",
+    "ref": "10.1.64",
+    "text": "ke cin nāgaśataprāṇāḥ ke cit sarvāstrakovidāḥ nihatāḥ pāṇḍaveyaiḥ sma manye kālasya paryayam"
+  },
+  {
+    "id": "p-9341e0",
+    "ref": "10.1.65",
+    "text": "evam etena bhāvyaṃ hi nūnaṃ kāryeṇa tattvataḥ yathā hy asyedṛśī niṣṭhā kṛte kārye 'pi duṣkare"
+  },
+  {
+    "id": "p-9241de",
+    "ref": "10.1.66",
+    "text": "bhavatos tu yadi prajñā na mohād apacīyate vyāpanne 'smin mahaty arthe yan naḥ śreyas tad ucyatām"
+  },
+  {
+    "id": "p-c93a96",
+    "ref": "10.2.1",
+    "text": "kṛpa uvāca śrutaṃ te vacanaṃ sarvaṃ hetuyuktaṃ mayā vibho mamāpi tu vacaḥ kiṃ cic chṛṇuṣvādya mahābhuja"
+  },
+  {
+    "id": "p-ca3a98",
+    "ref": "10.2.2",
+    "text": "ābaddhā mānuṣāḥ sarve nirbandhāḥ karmaṇor dvayoḥ daive puruṣakāre ca paraṃ tābhyāṃ na vidyate"
+  },
+  {
+    "id": "p-cb3a9a",
+    "ref": "10.2.3",
+    "text": "na hi daivena sidhyanti karmāṇy ekena sattama na cāpi karmaṇaikena dvābhyāṃ siddhis tu yogataḥ"
+  },
+  {
+    "id": "p-cc3a9b",
+    "ref": "10.2.4",
+    "text": "tābhyām ubhābhyāṃ sarvārthā nibaddhā hy adhamottamāḥ pravṛttāś caiva dṛśyante nivṛttāś caiva sarvaśaḥ"
+  },
+  {
+    "id": "p-cd3a9d",
+    "ref": "10.2.5",
+    "text": "parjanyaḥ parvate varṣan kiṃ nu sādhayate phalam kṛṣṭe kṣetre tathāvarṣan kiṃ nu sādhayate phalam"
+  },
+  {
+    "id": "p-ce3a9e",
+    "ref": "10.2.6",
+    "text": "utthānaṃ cāpy adaivasya hy anutthānasya daivatam vyarthaṃ bhavati sarvatra pūrvaṃ kas tatra niścayaḥ"
+  },
+  {
+    "id": "p-cf3aa0",
+    "ref": "10.2.7",
+    "text": "pravṛṣṭe ca yathā deve samyak kṣetre ca karṣite bījaṃ mahāguṇaṃ bhūyāt tathā siddhir hi mānuṣī"
+  },
+  {
+    "id": "p-d03aa1",
+    "ref": "10.2.8",
+    "text": "tayor daivaṃ viniścitya svavaśenaiva vartate prājñāḥ puruṣakāraṃ tu ghaṭante dākṣyam āsthitāḥ"
+  },
+  {
+    "id": "p-d13aa3",
+    "ref": "10.2.9",
+    "text": "tābhyāṃ sarve hi kāryārthā manuṣyāṇāṃ nararṣabha viceṣṭantaś ca dṛśyante nivṛttāś ca tathaiva hi"
+  },
+  {
+    "id": "p-9a3b6e",
+    "ref": "10.2.10",
+    "text": "kṛtaḥ puruṣakāraḥ san so 'pi daivena sidhyati tathāsya karmaṇaḥ kartur abhinirvartate phalam"
+  },
+  {
+    "id": "p-993b6c",
+    "ref": "10.2.11",
+    "text": "utthānaṃ tu manuṣyāṇāṃ dakṣāṇāṃ daivavarjitam aphalaṃ dṛśyate loke samyag apy upapāditam"
+  },
+  {
+    "id": "p-983b6b",
+    "ref": "10.2.12",
+    "text": "tatrālasā manuṣyāṇāṃ ye bhavanty amanasvinaḥ utthānaṃ te vigarhanti prājñānāṃ tan na rocate"
+  },
+  {
+    "id": "p-973b69",
+    "ref": "10.2.13",
+    "text": "prāyaśo hi kṛtaṃ karma aphalaṃ dṛśyate bhuvi akṛtvā ca punar duḥkhaṃ karma dṛśyen mahāphalam"
+  },
+  {
+    "id": "p-9e3b74",
+    "ref": "10.2.14",
+    "text": "ceṣṭām akurvaṃl labhate yadi kiṃ cid yadṛcchayā yo vā na labhate kṛtvā durdaśau tāv ubhāv api"
+  },
+  {
+    "id": "p-9d3b72",
+    "ref": "10.2.15",
+    "text": "śaknoti jīvituṃ dakṣo nālasaḥ sukham edhate dṛśyante jīvaloke 'smin dakṣāḥ prāyo hitaiṣiṇaḥ"
+  },
+  {
+    "id": "p-9c3b71",
+    "ref": "10.2.16",
+    "text": "yadi dakṣaḥ samārambhāt karmaṇāṃ nāśnute phalam nāsya vācyaṃ bhavet kiṃ cit tattvaṃ cāpy adhigacchati"
+  },
+  {
+    "id": "p-9b3b6f",
+    "ref": "10.2.17",
+    "text": "akṛtvā karma yo loke phalaṃ vindati viṣṭitaḥ sa tu vaktavyatāṃ yāti dveṣyo bhavati prāyaśaḥ"
+  },
+  {
+    "id": "p-a23b7a",
+    "ref": "10.2.18",
+    "text": "evam etad anādṛtya vartate yas tv ato 'nyathā sa karoty ātmano 'narthān naiṣa buddhimatāṃ nayaḥ"
+  },
+  {
+    "id": "p-a13b79",
+    "ref": "10.2.19",
+    "text": "hīnaṃ puruṣakāreṇa yadā daivena vā punaḥ kāraṇābhyām athaitābhyām utthānam aphalaṃ bhavet hīnaṃ puruṣakāreṇa karma tv iha na sidhyati"
+  },
+  {
+    "id": "p-a03db6",
+    "ref": "10.2.20",
+    "text": "daivatebhyo namaskṛtya yas tv arthān samyag īhate dakṣo dākṣiṇyasaṃpanno na sa moghaṃ vihanyate"
+  },
+  {
+    "id": "p-a13db7",
+    "ref": "10.2.21",
+    "text": "samyag īhā punar iyaṃ yo vṛddhān upasevate āpṛcchati ca yac chreyaḥ karoti ca hitaṃ vacaḥ"
+  },
+  {
+    "id": "p-9e3db3",
+    "ref": "10.2.22",
+    "text": "utthāyotthāya hi sadā praṣṭavyā vṛddhasaṃmatāḥ te 'sya yoge paraṃ mūlaṃ tanmūlā siddhir ucyate"
+  },
+  {
+    "id": "p-9f3db4",
+    "ref": "10.2.23",
+    "text": "vṛddhānāṃ vacanaṃ śrutvā yo hy utthānaṃ prayojayet utthānasya phalaṃ samyak tadā sa labhate 'cirāt"
+  },
+  {
+    "id": "p-9c3daf",
+    "ref": "10.2.24",
+    "text": "rāgāt krodhād bhayāl lobhād yo 'rthān īheta mānavaḥ anīśaś cāvamānī ca sa śīghraṃ bhraśyate śriyaḥ"
+  },
+  {
+    "id": "p-9d3db1",
+    "ref": "10.2.25",
+    "text": "so 'yaṃ duryodhanenārtho lubdhenādīrghadarśinā asamarthya samārabdho mūḍhatvād avicintitaḥ"
+  },
+  {
+    "id": "p-9a3dac",
+    "ref": "10.2.26",
+    "text": "hitabuddhīn anādṛtya saṃmantryāsādhubhiḥ saha vāryamāṇo 'karod vairaṃ pāṇḍavair guṇavattaraiḥ"
+  },
+  {
+    "id": "p-9b3dae",
+    "ref": "10.2.27",
+    "text": "pūrvam apy atiduḥśīlo na dainyaṃ kartum arhati tapaty arthe vipanne hi mitrāṇām akṛtaṃ vacaḥ"
+  },
+  {
+    "id": "p-a83dc2",
+    "ref": "10.2.28",
+    "text": "anvāvartāmahi vayaṃ yat tu taṃ pāpapūruṣam asmān apy anayas tasmāt prāpto 'yaṃ dāruṇo mahān"
+  },
+  {
+    "id": "p-a93dc4",
+    "ref": "10.2.29",
+    "text": "anena tu mamādyāpi vyasanenopatāpitā buddhiś cintayataḥ kiṃ cit svaṃ śreyo nāvabudhyate"
+  },
+  {
+    "id": "p-2640c7",
+    "ref": "10.2.30",
+    "text": "muhyatā tu manuṣyeṇa praṣṭavyāḥ suhṛdo budhāḥ te ca pṛṣṭā yathā brūyus tat kartavyaṃ tathā bhavet"
+  },
+  {
+    "id": "p-2540c6",
+    "ref": "10.2.31",
+    "text": "te vayaṃ dhṛtarāṣṭraṃ ca gāndhārīṃ ca sametya ha upapṛcchāmahe gatvā viduraṃ ca mahāmatim"
+  },
+  {
+    "id": "p-2840ca",
+    "ref": "10.2.32",
+    "text": "te pṛṣṭāś ca vadeyur yac chreyo naḥ samanantaram tad asmābhiḥ punaḥ kāryam iti me naiṣṭhikī matiḥ"
+  },
+  {
+    "id": "p-2740c9",
+    "ref": "10.2.33",
+    "text": "anārambhāt tu kāryāṇāṃ nārthaḥ saṃpadyate kva cit kṛte puruṣakāre ca yeṣāṃ kāryaṃ na sidhyati daivenopahatās te tu nātra kāryā vicāraṇā"
+  },
+  {
+    "id": "p-4f04ad",
+    "ref": "10.3.1",
+    "text": "saṃjaya uvāca kṛpasya vacanaṃ śrutvā dharmārthasahitaṃ śubham aśvatthāmā mahārāja duḥkhaśokasamanvitaḥ"
+  },
+  {
+    "id": "p-5204b2",
+    "ref": "10.3.2",
+    "text": "dahyamānas tu śokena pradīptenāgninā yathā krūraṃ manas tataḥ kṛtvā tāv ubhau pratyabhāṣata"
+  },
+  {
+    "id": "p-5104b0",
+    "ref": "10.3.3",
+    "text": "puruṣe puruṣe buddhiḥ sā sā bhavati śobhanā tuṣyanti ca pṛthak sarve prajñayā te svayā svayā"
+  },
+  {
+    "id": "p-4c04a8",
+    "ref": "10.3.4",
+    "text": "sarvo hi manyate loka ātmānaṃ buddhimattaram sarvasyātmā bahumataḥ sarvātmānaṃ praśaṃsati"
+  },
+  {
+    "id": "p-4b04a7",
+    "ref": "10.3.5",
+    "text": "sarvasya hi svakā prajñā sādhuvāde pratiṣṭhitā parabuddhiṃ ca nindanti svāṃ praśaṃsanti cāsakṛt"
+  },
+  {
+    "id": "p-4e04ac",
+    "ref": "10.3.6",
+    "text": "kāraṇāntarayogena yoge yeṣāṃ samā matiḥ te 'nyonyena ca tuṣyanti bahu manyanti cāsakṛt"
+  },
+  {
+    "id": "p-4d04aa",
+    "ref": "10.3.7",
+    "text": "tasyaiva tu manuṣyasya sā sā buddhis tadā tadā kālayogaviparyāsaṃ prāpyānyonyaṃ vipadyate"
+  },
+  {
+    "id": "p-4804a2",
+    "ref": "10.3.8",
+    "text": "acintyatvād dhi cittānāṃ manuṣyāṇāṃ viśeṣataḥ cittavaikalyam āsādya sā sā buddhiḥ prajāyate"
+  },
+  {
+    "id": "p-4704a1",
+    "ref": "10.3.9",
+    "text": "yathā hi vaidyaḥ kuśalo jñātvā vyādhiṃ yathāvidhi bheṣajaṃ kurute yogāt praśamārtham ihābhibho"
+  },
+  {
+    "id": "p-f85d3f",
+    "ref": "10.3.10",
+    "text": "evaṃ kāryasya yogārthaṃ buddhiṃ kurvanti mānavāḥ prajñayā hi svayā yuktās tāṃ ca nindanti mānavāḥ"
+  },
+  {
+    "id": "p-f95d41",
+    "ref": "10.3.11",
+    "text": "anyayā yauvane martyo buddhyā bhavati mohitaḥ madhye 'nyayā jarāyāṃ tu so 'nyāṃ rocayate matim"
+  },
+  {
+    "id": "p-fa5d43",
+    "ref": "10.3.12",
+    "text": "vyasanaṃ vā punar ghoraṃ samṛddhiṃ vāpi tādṛśīm avāpya puruṣo bhoja kurute buddhivaikṛtam"
+  },
+  {
+    "id": "p-fb5d44",
+    "ref": "10.3.13",
+    "text": "ekasminn eva puruṣe sā sā buddhis tadā tadā bhavaty anityaprajñatvāt sā tasyaiva na rocate"
+  },
+  {
+    "id": "p-f45d39",
+    "ref": "10.3.14",
+    "text": "niścitya tu yathāprajñaṃ yāṃ matiṃ sādhu paśyati tasyāṃ prakurute bhāvaṃ sā tasyodyogakārikā"
+  },
+  {
+    "id": "p-f55d3b",
+    "ref": "10.3.15",
+    "text": "sarvo hi puruṣo bhoja sādhv etad iti niścitaḥ kartum ārabhate prīto maraṇādiṣu karmasu"
+  },
+  {
+    "id": "p-f65d3c",
+    "ref": "10.3.16",
+    "text": "sarve hi yuktiṃ vijñāya prajñāṃ cāpi svakāṃ narāḥ ceṣṭante vividhāś ceṣṭā hitam ity eva jānate"
+  },
+  {
+    "id": "p-f75d3e",
+    "ref": "10.3.17",
+    "text": "upajātā vyasanajā yeyam adya matir mama yuvayos tāṃ pravakṣyāmi mama śokavināśinīm"
+  },
+  {
+    "id": "p-005d4c",
+    "ref": "10.3.18",
+    "text": "prajāpatiḥ prajāḥ sṛṣṭvā karma tāsu vidhāya ca varṇe varṇe samādhatta ekaikaṃ guṇavattaram"
+  },
+  {
+    "id": "p-015d4e",
+    "ref": "10.3.19",
+    "text": "brāhmaṇe damam avyagraṃ kṣatriye teja uttamam dākṣyaṃ vaiśye ca śūdre ca sarvavarṇānukūlatām"
+  },
+  {
+    "id": "p-8a64e1",
+    "ref": "10.3.20",
+    "text": "adānto brāhmaṇo 'sādhur nistejāḥ kṣatriyo 'dhamaḥ adakṣo nindyate vaiśyaḥ śūdraś ca pratikūlavān"
+  },
+  {
+    "id": "p-8964e0",
+    "ref": "10.3.21",
+    "text": "so 'smi jātaḥ kule śreṣṭhe brāhmaṇānāṃ supūjite mandabhāgyatayāsmy etaṃ kṣatradharmam anu ṣṭhitaḥ"
+  },
+  {
+    "id": "p-8c64e4",
+    "ref": "10.3.22",
+    "text": "kṣatradharmaṃ viditvāhaṃ yadi brāhmaṇy asaṃśritam prakuryāṃ sumahat karma na me tat sādhu saṃmatam"
+  },
+  {
+    "id": "p-8b64e3",
+    "ref": "10.3.23",
+    "text": "dhārayitvā dhanur divyaṃ divyāny astrāṇi cāhave pitaraṃ nihataṃ dṛṣṭvā kiṃ nu vakṣyāmi saṃsadi"
+  },
+  {
+    "id": "p-8664db",
+    "ref": "10.3.24",
+    "text": "so 'ham adya yathākāmaṃ kṣatradharmam upāsya tam gantāsmi padavīṃ rājñaḥ pituś cāpi mahādyuteḥ"
+  },
+  {
+    "id": "p-8564d9",
+    "ref": "10.3.25",
+    "text": "adya svapsyanti pāñcālā viśvastā jitakāśinaḥ vimuktayugyakavacā harṣeṇa ca samanvitāḥ vayaṃ jitā matāś caiṣāṃ śrāntā vyāyam anena ca"
+  },
+  {
+    "id": "p-8864de",
+    "ref": "10.3.26",
+    "text": "teṣāṃ niśi prasuptānāṃ svasthānāṃ śibire svake avaskandaṃ kariṣyāmi śibirasyādya duṣkaram"
+  },
+  {
+    "id": "p-8764dc",
+    "ref": "10.3.27",
+    "text": "tān avaskandya śibire pretabhūtān vicetasaḥ sūdayiṣyāmi vikramya maghavān iva dānavān"
+  },
+  {
+    "id": "p-8264d4",
+    "ref": "10.3.28",
+    "text": "adya tān sahitān sarvān dhṛṣṭadyumnapurogamān sūdayiṣyāmi vikramya kakṣaṃ dīpta ivānalaḥ nihatya caiva pāñcālāñ śāntiṃ labdhāsmi sattama"
+  },
+  {
+    "id": "p-8164d3",
+    "ref": "10.3.29",
+    "text": "pāñcāleṣu cariṣyāmi sūdayann adya saṃyuge pinākapāṇiḥ saṃkruddhaḥ svayaṃ rudraḥ paśuṣv iva"
+  },
+  {
+    "id": "p-846299",
+    "ref": "10.3.30",
+    "text": "adyāhaṃ sarvapāñcālān nihatya ca nikṛtya ca ardayiṣyāmi saṃkruddho raṇe pāṇḍusutāṃs tathā"
+  },
+  {
+    "id": "p-85629b",
+    "ref": "10.3.31",
+    "text": "adyāhaṃ sarvapāñcālaiḥ kṛtvā bhūmiṃ śarīriṇīm prahṛtyaikaikaśas tebhyo bhaviṣyāmy anṛṇaḥ pituḥ"
+  },
+  {
+    "id": "p-826296",
+    "ref": "10.3.32",
+    "text": "duryodhanasya karṇasya bhīṣmasaindhavayor api gamayiṣyāmi pāñcālān padavīm adya durgamām"
+  },
+  {
+    "id": "p-836297",
+    "ref": "10.3.33",
+    "text": "adya pāñcālarājasya dhṛṣṭadyumnasya vai niśi virātre pramathiṣyāmi paśor iva śiro balāt"
+  },
+  {
+    "id": "p-88629f",
+    "ref": "10.3.34",
+    "text": "adya pāñcālapāṇḍūnāṃ śayitān ātmajān niśi khaḍgena niśitenājau pramathiṣyāmi gautama"
+  },
+  {
+    "id": "p-8962a1",
+    "ref": "10.3.35",
+    "text": "adya pāñcālasenāṃ tāṃ nihatya niśi sauptike kṛtakṛtyaḥ sukhī caiva bhaviṣyāmi mahāmate"
+  },
+  {
+    "id": "p-bfd827",
+    "ref": "10.4.1",
+    "text": "kṛpa uvāca diṣṭyā te pratikartavye matir jāteyam acyuta na tvā vārayituṃ śakto vajrapāṇir api svayam"
+  },
+  {
+    "id": "p-bcd823",
+    "ref": "10.4.2",
+    "text": "anuyāsyāvahe tvāṃ tu prabhāte sahitāv ubhau adya rātrau viśramasva vimuktakavacadhvajaḥ"
+  },
+  {
+    "id": "p-bdd824",
+    "ref": "10.4.3",
+    "text": "ahaṃ tvām anuyāsyāmi kṛtavarmā ca sātvataḥ parān abhimukhaṃ yāntaṃ rathāv āsthāya daṃśitau"
+  },
+  {
+    "id": "p-bad820",
+    "ref": "10.4.4",
+    "text": "āvābhyāṃ sahitaḥ śatrūñ śvo 'si hantā samāgame vikramya rathināṃ śreṣṭha pāñcālān sapadānugān"
+  },
+  {
+    "id": "p-bbd821",
+    "ref": "10.4.5",
+    "text": "śaktas tvam asi vikrāntuṃ viśramasva niśām imām ciraṃ te jāgratas tāta svapa tāvan niśām imām"
+  },
+  {
+    "id": "p-b8d81c",
+    "ref": "10.4.6",
+    "text": "viśrāntaś ca vinidraś ca svasthacittaś ca mānada sametya samare śatrūn vadhiṣyasi na saṃśayaḥ"
+  },
+  {
+    "id": "p-b9d81e",
+    "ref": "10.4.7",
+    "text": "na hi tvā rathināṃ śreṣṭha pragṛhītavarāyudham jetum utsahate kaś cid api deveṣu pāvakiḥ"
+  },
+  {
+    "id": "p-b6d819",
+    "ref": "10.4.8",
+    "text": "kṛpeṇa sahitaṃ yāntaṃ yuktaṃ ca kṛtavarmaṇā ko drauṇiṃ yudhi saṃrabdhaṃ yodhayed api devarāṭ"
+  },
+  {
+    "id": "p-b7d81b",
+    "ref": "10.4.9",
+    "text": "te vayaṃ pariviśrāntā vinidrā vigatajvarāḥ prabhātāyāṃ rajanyāṃ vai nihaniṣyāma śātravān"
+  },
+  {
+    "id": "p-de46c0",
+    "ref": "10.4.10",
+    "text": "tava hy astrāṇi divyāni mama caiva na saṃśayaḥ sātvato 'pi maheṣvāso nityaṃ yuddheṣu kovidaḥ"
+  },
+  {
+    "id": "p-dd46bf",
+    "ref": "10.4.11",
+    "text": "te vayaṃ sahitās tāta sarvāñ śatrūn samāgatān prasahya samare hatvā prītiṃ prāpsyāma puṣkalām viśramasva tvam avyagraḥ svapa cemāṃ niśāṃ sukham"
+  },
+  {
+    "id": "p-e046c4",
+    "ref": "10.4.12",
+    "text": "ahaṃ ca kṛtavarmā ca prayāntaṃ tvāṃ narottama anuyāsyāva sahitau dhanvinau paratāpinau rathinaṃ tvarayā yāntaṃ rathāv āsthāya daṃśitau"
+  },
+  {
+    "id": "p-df46c2",
+    "ref": "10.4.13",
+    "text": "sa gatvā śibiraṃ teṣāṃ nāma viśrāvya cāhave tataḥ kartāsi śatrūṇāṃ yudhyatāṃ kadanaṃ mahat"
+  },
+  {
+    "id": "p-da46ba",
+    "ref": "10.4.14",
+    "text": "kṛtvā ca kadanaṃ teṣāṃ prabhāte vimale 'hani viharasva yathā śakraḥ sūdayitvā mahāsurān"
+  },
+  {
+    "id": "p-d946b9",
+    "ref": "10.4.15",
+    "text": "tvaṃ hi śakto raṇe jetuṃ pāñcālānāṃ varūthinīm daityasenām iva kruddhaḥ sarvadānavasūdanaḥ"
+  },
+  {
+    "id": "p-dc46bd",
+    "ref": "10.4.16",
+    "text": "mayā tvāṃ sahitaṃ saṃkhye guptaṃ ca kṛtavarmaṇā na saheta vibhuḥ sākṣād vajrapāṇir api svayam"
+  },
+  {
+    "id": "p-db46bc",
+    "ref": "10.4.17",
+    "text": "na cāhaṃ samare tāta kṛtavarmā tathaiva ca anirjitya raṇe pāṇḍūn vyapayāsyāva karhi cit"
+  },
+  {
+    "id": "p-d646b4",
+    "ref": "10.4.18",
+    "text": "hatvā ca samare kṣudrān pāñcālān pāṇḍubhiḥ saha nivartiṣyāmahe sarve hatā vā svargagā vayam"
+  },
+  {
+    "id": "p-d546b2",
+    "ref": "10.4.19",
+    "text": "sarvopāyaiḥ sahāyās te prabhāte vayam eva hi satyam etan mahābāho prabravīmi tavānagha"
+  },
+  {
+    "id": "p-4c3f1f",
+    "ref": "10.4.20",
+    "text": "evam uktas tato drauṇir mātulena hitaṃ vacaḥ abravīn mātulaṃ rājan krodhād udvṛtya locane"
+  },
+  {
+    "id": "p-4d3f20",
+    "ref": "10.4.21",
+    "text": "āturasya kuto nidrā narasyāmarṣitasya ca arthāṃś cintayataś cāpi kāmayānasya vā punaḥ"
+  },
+  {
+    "id": "p-4e3f22",
+    "ref": "10.4.22",
+    "text": "tad idaṃ samanuprāptaṃ paśya me 'dya catuṣṭayam yasya bhāgaś caturtho me svapnam ahnāya nāśayet"
+  },
+  {
+    "id": "p-4f3f24",
+    "ref": "10.4.23",
+    "text": "kiṃ nāma duḥkhaṃ loke 'smin pitur vadham anusmaran hṛdayaṃ nirdahan me 'dya rātryahāni na śāmyati"
+  },
+  {
+    "id": "p-483f19",
+    "ref": "10.4.24",
+    "text": "yathā ca nihataḥ pāpaiḥ pitā mama viśeṣataḥ pratyakṣam api te sarvaṃ tan me marmāṇi kṛntati"
+  },
+  {
+    "id": "p-493f1a",
+    "ref": "10.4.25",
+    "text": "kathaṃ hi mādṛśo loke muhūrtam api jīvati droṇo hateti yad vācaḥ pāñcālānāṃ śṛṇomy aham"
+  },
+  {
+    "id": "p-4a3f1c",
+    "ref": "10.4.26",
+    "text": "dṛṣṭadyumnam ahatvājau nāhaṃ jīvitum utsahe sa me pitṛvadhād vadhyaḥ pāñcālā ye ca saṃgatāḥ"
+  },
+  {
+    "id": "p-4b3f1d",
+    "ref": "10.4.27",
+    "text": "vilāpo bhagnasakthasya yas tu rājño mayā śrutaḥ sa punar hṛdayaṃ kasya krūrasyāpi na nirdahet"
+  },
+  {
+    "id": "p-543f2b",
+    "ref": "10.4.28",
+    "text": "kasya hy akaruṇasyāpi netrābhyām aśru nāvrajet nṛpater bhagnasakthasya śrutvā tādṛg vacaḥ punaḥ"
+  },
+  {
+    "id": "p-553f2d",
+    "ref": "10.4.29",
+    "text": "yaś cāyaṃ mitrapakṣo me mayi jīvati nirjitaḥ śokaṃ me vardhayaty eṣa vārivega ivārṇavam ekāgramanaso me 'dya kuto nidrā kutaḥ sukham"
+  },
+  {
+    "id": "p-d24230",
+    "ref": "10.4.30",
+    "text": "vāsudevārjunābhyāṃ hi tān ahaṃ parirakṣitān aviṣahyatamān manye mahendreṇāpi mātula"
+  },
+  {
+    "id": "p-d1422f",
+    "ref": "10.4.31",
+    "text": "na cāsmi śakyaḥ saṃyantum asmāt kāryāt kathaṃ cana na taṃ paśyāmi loke 'smin yo māṃ kāryān nivartayet iti me niścitā buddhir eṣā sādhumatā ca me"
+  },
+  {
+    "id": "p-d0422d",
+    "ref": "10.4.32",
+    "text": "vārttikaiḥ kathyamānas tu mitrāṇāṃ me parābhavaḥ pāṇḍavānāṃ ca vijayo hṛdayaṃ dahatīva me"
+  },
+  {
+    "id": "p-cf422c",
+    "ref": "10.4.33",
+    "text": "ahaṃ tu kadanaṃ kṛtvā śatrūṇām adya sauptike tato viśramitā caiva svaptā ca vigatajvaraḥ"
+  },
+  {
+    "id": "p-a415ef",
+    "ref": "10.5.1",
+    "text": "kṛpa uvāca śuśrūṣur api durmedhāḥ puruṣo 'niyatendriyaḥ nālaṃ vedayituṃ kṛtsnau dharmārthāv iti me matiḥ"
+  },
+  {
+    "id": "p-a315ed",
+    "ref": "10.5.2",
+    "text": "tathaiva tāvan medhāvī vinayaṃ yo na śikṣati na ca kiṃ cana jānāti so 'pi dharmārthaniścayam"
+  },
+  {
+    "id": "p-a215ec",
+    "ref": "10.5.3",
+    "text": "śuśrūṣus tv eva medhāvī puruṣo niyatendriyaḥ jānīyād āgamān sarvān grāhyaṃ ca na virodhayet"
+  },
+  {
+    "id": "p-a915f7",
+    "ref": "10.5.4",
+    "text": "aneyas tv avamānī yo durātmā pāpapūruṣaḥ diṣṭam utsṛjya kalyāṇaṃ karoti bahupāpakam"
+  },
+  {
+    "id": "p-a815f5",
+    "ref": "10.5.5",
+    "text": "nāthavantaṃ tu suhṛdaḥ pratiṣedhanti pātakāt nivartate tu lakṣmīvān nālakṣmīvān nivartate"
+  },
+  {
+    "id": "p-a715f4",
+    "ref": "10.5.6",
+    "text": "yathā hy uccāvacair vākyaiḥ kṣiptacitto niyamyate tathaiva suhṛdā śakyo naśakyas tv avasīdati"
+  },
+  {
+    "id": "p-a615f2",
+    "ref": "10.5.7",
+    "text": "tathaiva suhṛdaṃ prājñaṃ kurvāṇaṃ karma pāpakam prājñāḥ saṃpratiṣedhante yathāśakti punaḥ punaḥ"
+  },
+  {
+    "id": "p-9d15e4",
+    "ref": "10.5.8",
+    "text": "sa kalyāṇe matiṃ kṛtvā niyamyātmānam ātmanā kuru me vacanaṃ tāta yena paścān na tapyase"
+  },
+  {
+    "id": "p-9c15e2",
+    "ref": "10.5.9",
+    "text": "na vadhaḥ pūjyate loke suptānām iha dharmataḥ tathaiva nyastaśastrāṇāṃ vimuktarathavājinām"
+  },
+  {
+    "id": "p-ac87d0",
+    "ref": "10.5.10",
+    "text": "ye ca brūyus tavāsmīti ye ca syuḥ śaraṇāgatāḥ vimuktamūrdhajā ye ca ye cāpi hatavāhanāḥ"
+  },
+  {
+    "id": "p-ad87d2",
+    "ref": "10.5.11",
+    "text": "adya svapsyanti pāñcālā vimuktakavacā vibho viśvastā rajanīṃ sarve pretā iva vicetasaḥ"
+  },
+  {
+    "id": "p-aa87cd",
+    "ref": "10.5.12",
+    "text": "yas teṣāṃ tadavasthānāṃ druhyeta puruṣo 'nṛjuḥ vyaktaṃ sa narake majjed agādhe vipule 'plave"
+  },
+  {
+    "id": "p-ab87cf",
+    "ref": "10.5.13",
+    "text": "sarvāstraviduṣāṃ loke śreṣṭhas tvam asi viśrutaḥ na ca te jātu loke 'smin susūkṣmam api kilbiṣam"
+  },
+  {
+    "id": "p-a887ca",
+    "ref": "10.5.14",
+    "text": "tvaṃ punaḥ sūryasaṃkāśaḥ śvobhūta udite ravau prakāśe sarvabhūtānāṃ vijetā yudhi śātravān"
+  },
+  {
+    "id": "p-a987cc",
+    "ref": "10.5.15",
+    "text": "asaṃbhāvitarūpaṃ hi tvayi karma vigarhitam śukle raktam iva nyastaṃ bhaved iti matir mama"
+  },
+  {
+    "id": "p-a687c7",
+    "ref": "10.5.16",
+    "text": "aśvatthāmovāca evam etad yathāttha tvam anuśāsmīha mātula tais tu pūrvamayaṃ setuḥ śatadhā vidalīkṛtaḥ"
+  },
+  {
+    "id": "p-a787c9",
+    "ref": "10.5.17",
+    "text": "pratyakṣaṃ bhūmipālānāṃ bhavatāṃ cāpi saṃnidhau nyastaśastro mama pitā dhṛṣṭadyumnena pātitaḥ"
+  },
+  {
+    "id": "p-a487c4",
+    "ref": "10.5.18",
+    "text": "karṇaś ca patite cakre rathasya rathināṃ varaḥ uttame vyasane sanno hato gāṇḍīvadhanvanā"
+  },
+  {
+    "id": "p-a587c5",
+    "ref": "10.5.19",
+    "text": "tathā śāṃtanavo bhīṣmo nyastaśastro nirāyudhaḥ śikhaṇḍinaṃ puraskṛtya hato gāṇḍīvadhanvanā"
+  },
+  {
+    "id": "p-a68588",
+    "ref": "10.5.20",
+    "text": "bhūriśravā maheṣvāsas tathā prāyagato raṇe krośatāṃ bhūmipālānāṃ yuyudhānena pātitaḥ"
+  },
+  {
+    "id": "p-a58587",
+    "ref": "10.5.21",
+    "text": "duryodhanaś ca bhīmena sametya gadayā mṛdhe paśyatāṃ bhūmipālānām adharmeṇa nipātitaḥ"
+  },
+  {
+    "id": "p-a48585",
+    "ref": "10.5.22",
+    "text": "ekākī bahubhis tatra parivārya mahārathaiḥ adharmeṇa naravyāghro bhīmasenena pātitaḥ"
+  },
+  {
+    "id": "p-a38584",
+    "ref": "10.5.23",
+    "text": "vilāpo bhagnasakthasya yo me rājñaḥ pariśrutaḥ vārttikānāṃ kathayatāṃ sa me marmāṇi kṛntati"
+  },
+  {
+    "id": "p-aa858f",
+    "ref": "10.5.24",
+    "text": "evam adhārmikāḥ pāpāḥ pāñcālā bhinnasetavaḥ tān evaṃ bhinnamaryādān kiṃ bhavān na vigarhati"
+  },
+  {
+    "id": "p-a9858d",
+    "ref": "10.5.25",
+    "text": "pitṛhantṝn ahaṃ hatvā pāñcālān niśi sauptike kāmaṃ kīṭaḥ pataṃgo vā janma prāpya bhavāmi vai"
+  },
+  {
+    "id": "p-a8858c",
+    "ref": "10.5.26",
+    "text": "tvare cāham anenādya yad idaṃ me cikīrṣitam tasya me tvaramāṇasya kuto nidrā kutaḥ sukham"
+  },
+  {
+    "id": "p-a7858a",
+    "ref": "10.5.27",
+    "text": "na sa jātaḥ pumāṃl loke kaś cin na ca bhaviṣyati yo me vyāvartayed etāṃ vadhe teṣāṃ kṛtāṃ matim"
+  },
+  {
+    "id": "p-9e857c",
+    "ref": "10.5.28",
+    "text": "saṃjaya uvāca evam uktvā mahārāja droṇaputraḥ pratāpavān ekānte yojayitvāśvān prāyād abhimukhaḥ parān"
+  },
+  {
+    "id": "p-9d857a",
+    "ref": "10.5.29",
+    "text": "tam abrūtāṃ mahātmānau bhojaśāradvatāv ubhau kim ayaṃ syandano yuktaḥ kiṃ ca kāryaṃ cikīrṣitam"
+  },
+  {
+    "id": "p-a08340",
+    "ref": "10.5.30",
+    "text": "ekasārthaṃ prayātau svas tvayā saha nararṣabha samaduḥkhasukhau caiva nāvāṃ śaṅkitum arhasi"
+  },
+  {
+    "id": "p-a18342",
+    "ref": "10.5.31",
+    "text": "aśvatthāmā tu saṃkruddhaḥ pitur vadham anusmaran tābhyāṃ tathyaṃ tadācakhyau yad asyātmacikīrṣitam"
+  },
+  {
+    "id": "p-a28344",
+    "ref": "10.5.32",
+    "text": "hatvā śatasahasrāṇi yodhānāṃ niśitaiḥ śaraiḥ nyastaśastro mama pitā dhṛṣṭadyumnena pātitaḥ"
+  },
+  {
+    "id": "p-a38345",
+    "ref": "10.5.33",
+    "text": "taṃ tathaiva haniṣyāmi nyastavarmāṇam adya vai putraṃ pāñcālarājasya pāpaṃ pāpena karmaṇā"
+  },
+  {
+    "id": "p-a48347",
+    "ref": "10.5.34",
+    "text": "kathaṃ ca nihataḥ pāpaḥ pāñcālaḥ paśuvan mayā śastrāhavajitāṃ lokān prāpnuyād iti me matiḥ"
+  },
+  {
+    "id": "p-a58348",
+    "ref": "10.5.35",
+    "text": "kṣipraṃ saṃnaddhakavacau sakhaḍgāv āttakārmukau samāsthāya pratīkṣetāṃ rathavaryau paraṃtapau"
+  },
+  {
+    "id": "p-a6834a",
+    "ref": "10.5.36",
+    "text": "ity uktvā ratham āsthāya prāyād abhimukhaḥ parān tam anvagāt kṛpo rājan kṛtavarmā ca sātvataḥ"
+  },
+  {
+    "id": "p-a7834b",
+    "ref": "10.5.37",
+    "text": "te prayātā vyarocanta parān abhimukhās trayaḥ hūyamānā yathā yajñe samiddhā havyavāhanāḥ"
+  },
+  {
+    "id": "p-988334",
+    "ref": "10.5.38",
+    "text": "yayuś ca śibiraṃ teṣāṃ saṃprasuptajanaṃ vibho dvāradeśaṃ tu saṃprāpya drauṇis tasthau rathottame"
+  },
+  {
+    "id": "p-94e8a0",
+    "ref": "10.6.1",
+    "text": "dhṛtarāṣṭra uvāca dvāradeśe tato drauṇim avasthitam avekṣya tau akurvatāṃ bhojakṛpau kiṃ saṃjaya vadasva me"
+  },
+  {
+    "id": "p-95e8a1",
+    "ref": "10.6.2",
+    "text": "saṃjaya uvāca kṛtavarmāṇam āmantrya kṛpaṃ ca sa mahāratham drauṇir manyuparītātmā śibiradvāram āsadat"
+  },
+  {
+    "id": "p-96e8a3",
+    "ref": "10.6.3",
+    "text": "tatra bhūtaṃ mahākāyaṃ candrārkasadṛśadyutim so 'paśyad dvāram āvṛtya tiṣṭhantaṃ lomaharṣaṇam"
+  },
+  {
+    "id": "p-8fe898",
+    "ref": "10.6.4",
+    "text": "vasānaṃ carma vaiyāghraṃ mahārudhiravisravam kṛṣṇājinottarāsaṅgaṃ nāgayajñopavītinam"
+  },
+  {
+    "id": "p-90e899",
+    "ref": "10.6.5",
+    "text": "bāhubhiḥ svāyataiḥ pīnair nānāpraharaṇodyataiḥ baddhāṅgadamahāsarpaṃ jvālāmālākulānanam"
+  },
+  {
+    "id": "p-91e89b",
+    "ref": "10.6.6",
+    "text": "daṃṣṭrākarālavadanaṃ vyāditāsyaṃ bhayāvaham nayanānāṃ sahasraiś ca vicitrair abhibhūṣitam"
+  },
+  {
+    "id": "p-92e89d",
+    "ref": "10.6.7",
+    "text": "naiva tasya vapuḥ śakyaṃ pravaktuṃ veṣa eva vā sarvathā tu tad ālakṣya sphuṭeyur api parvatāḥ"
+  },
+  {
+    "id": "p-8be892",
+    "ref": "10.6.8",
+    "text": "tasyāsyān nāsikābhyāṃ ca śravaṇābhyāṃ ca sarvaśaḥ tebhyaś cākṣisahasrebhyaḥ prādurāsan mahārciṣaḥ"
+  },
+  {
+    "id": "p-8ce893",
+    "ref": "10.6.9",
+    "text": "tathā tejomarīcibhyaḥ śaṅkhacakragadādharāḥ prādurāsan hṛṣīkeśāḥ śataśo 'tha sahasraśaḥ"
+  },
+  {
+    "id": "p-7133eb",
+    "ref": "10.6.10",
+    "text": "tad atyadbhutam ālokya bhūtaṃ lokabhayaṃkaram drauṇir avyathito divyair astravarṣair avākirat"
+  },
+  {
+    "id": "p-7033e9",
+    "ref": "10.6.11",
+    "text": "drauṇimuktāñ śarāṃs tāṃs tu tad bhūtaṃ mahad agrasat udadher iva vāryoghān pāvako vaḍavāmukhaḥ"
+  },
+  {
+    "id": "p-6f33e7",
+    "ref": "10.6.12",
+    "text": "aśvatthāmā tu saṃprekṣya tāñ śaraughān nirarthakān rathaśaktiṃ mumocāsmai dīptām agniśikhām iva"
+  },
+  {
+    "id": "p-6e33e6",
+    "ref": "10.6.13",
+    "text": "sā tadāhatya dīptāgrā rathaśaktir aśīryata yugānte sūryam āhatya maholkeva divaś cyutā"
+  },
+  {
+    "id": "p-6d33e4",
+    "ref": "10.6.14",
+    "text": "atha hematsaruṃ divyaṃ khaḍgam ākāśavarcasam kośāt samudbabarhāśu bilād dīptam ivoragam"
+  },
+  {
+    "id": "p-6c33e3",
+    "ref": "10.6.15",
+    "text": "tataḥ khaḍgavaraṃ dhīmān bhūtāya prāhiṇot tadā sa tadāsādya bhūtaṃ vai vilayaṃ tūlavad yayau"
+  },
+  {
+    "id": "p-6b33e1",
+    "ref": "10.6.16",
+    "text": "tataḥ sa kupito drauṇir indraketunibhāṃ gadām jvalantīṃ prāhiṇot tasmai bhūtaṃ tām api cāgrasat"
+  },
+  {
+    "id": "p-6a33e0",
+    "ref": "10.6.17",
+    "text": "tataḥ sarvāyudhābhāve vīkṣamāṇas tatas tataḥ apaśyat kṛtam ākāśam anākāśaṃ janārdanaiḥ"
+  },
+  {
+    "id": "p-7933f7",
+    "ref": "10.6.18",
+    "text": "tad adbhutatamaṃ dṛṣṭvā droṇaputro nirāyudhaḥ abravīd abhisaṃtaptaḥ kṛpavākyam anusmaran"
+  },
+  {
+    "id": "p-7833f6",
+    "ref": "10.6.19",
+    "text": "bruvatām apriyaṃ pathyaṃ suhṛdāṃ na śṛṇoti yaḥ sa śocaty āpadaṃ prāpya yathāham ativartya tau"
+  },
+  {
+    "id": "p-f736fc",
+    "ref": "10.6.20",
+    "text": "śāstradṛṣṭān avadhyān yaḥ samatītya jighāṃsati sa pathaḥ pracyuto dharmyāt kupathaṃ pratipadyate"
+  },
+  {
+    "id": "p-f836fe",
+    "ref": "10.6.21",
+    "text": "gobrāhmaṇanṛpastrīṣu sakhyur mātur guros tathā vṛddhabālajaḍāndheṣu suptabhītotthiteṣu ca"
+  },
+  {
+    "id": "p-f536f9",
+    "ref": "10.6.22",
+    "text": "mattonmattapramatteṣu na śastrāṇy upadhārayet ity evaṃ gurubhiḥ pūrvam upadiṣṭaṃ nṛṇāṃ sadā"
+  },
+  {
+    "id": "p-f636fa",
+    "ref": "10.6.23",
+    "text": "so 'ham utkramya panthānaṃ śāstradṛṣṭaṃ sanātanam amārgeṇaivam ārabhya ghorām āpadam āgataḥ"
+  },
+  {
+    "id": "p-fb3702",
+    "ref": "10.6.24",
+    "text": "tāṃ cāpadaṃ ghoratarāṃ pravadanti manīṣiṇaḥ yad udyamya mahat kṛtyaṃ bhayād api nivartate"
+  },
+  {
+    "id": "p-fc3704",
+    "ref": "10.6.25",
+    "text": "aśakyaṃ caiva kaḥ kartuṃ śaktaḥ śaktibalād iha na hi daivād garīyo vai mānuṣaṃ karma kathyate"
+  },
+  {
+    "id": "p-f936ff",
+    "ref": "10.6.26",
+    "text": "mānuṣaṃ kurvataḥ karma yadi daivān na sidhyati sa pathaḥ pracyuto dharmyād vipadaṃ pratipadyate"
+  },
+  {
+    "id": "p-fa3701",
+    "ref": "10.6.27",
+    "text": "pratighātaṃ hy avijñātaṃ pravadanti manīṣiṇaḥ yad ārabhya kriyāṃ kāṃ cid bhayād iha nivartate"
+  },
+  {
+    "id": "p-ef36ef",
+    "ref": "10.6.28",
+    "text": "tad idaṃ duṣpraṇītena bhayaṃ māṃ samupasthitam na hi droṇasutaḥ saṃkhye nivarteta kathaṃ cana"
+  },
+  {
+    "id": "p-f036f1",
+    "ref": "10.6.29",
+    "text": "idaṃ ca sumahad bhūtaṃ daivadaṇḍam ivodyatam na caitad abhijānāmi cintayann api sarvathā"
+  },
+  {
+    "id": "p-fd3944",
+    "ref": "10.6.30",
+    "text": "dhruvaṃ yeyam adharme me pravṛttā kaluṣā matiḥ tasyāḥ phalam idaṃ ghoraṃ pratighātāya dṛśyate"
+  },
+  {
+    "id": "p-fc3943",
+    "ref": "10.6.31",
+    "text": "tad idaṃ daivavihitaṃ mama saṃkhye nivartanam nānyatra daivād udyantum iha śakyaṃ kathaṃ cana"
+  },
+  {
+    "id": "p-ff3947",
+    "ref": "10.6.32",
+    "text": "so 'ham adya mahādevaṃ prapadye śaraṇaṃ prabhum daivadaṇḍam imaṃ ghoraṃ sa hi me nāśayiṣyati"
+  },
+  {
+    "id": "p-fe3946",
+    "ref": "10.6.33",
+    "text": "kapardinaṃ prapadyātha devadevam umāpatim kapālamālinaṃ rudraṃ bhaganetraharaṃ haram"
+  },
+  {
+    "id": "p-f9393e",
+    "ref": "10.6.34",
+    "text": "sa hi devo 'tyagād devāṃs tapasā vikrameṇa ca tasmāc charaṇam abhyeṣye giriśaṃ śūlapāṇinam"
+  },
+  {
+    "id": "p-fa6465",
+    "ref": "10.7.1",
+    "text": "saṃjaya uvāca sa evaṃ cintayitvā tu droṇaputro viśāṃ pate avatīrya rathopasthād dadhyau saṃprayataḥ sthitaḥ"
+  },
+  {
+    "id": "p-fd646a",
+    "ref": "10.7.2",
+    "text": "drauṇir uvāca ugraṃ sthāṇuṃ śivaṃ rudraṃ śarvam īśānam īśvaram giriśaṃ varadaṃ devaṃ bhavaṃ bhāvanam avyayam"
+  },
+  {
+    "id": "p-fc6468",
+    "ref": "10.7.3",
+    "text": "śitikaṇṭham ajaṃ śakraṃ krathaṃ kratuharaṃ haram viśvarūpaṃ virūpākṣaṃ bahurūpam umāpatim"
+  },
+  {
+    "id": "p-ff646d",
+    "ref": "10.7.4",
+    "text": "śmaśānavāsinaṃ dṛptaṃ mahāgaṇapatiṃ prabhum khaṭvāṅgadhāriṇaṃ muṇḍaṃ jaṭilaṃ brahmacāriṇam"
+  },
+  {
+    "id": "p-fe646c",
+    "ref": "10.7.5",
+    "text": "manasāpy asucintyena duṣkareṇālpacetasā so 'ham ātmopahāreṇa yakṣye tripuraghātinam"
+  },
+  {
+    "id": "p-016470",
+    "ref": "10.7.6",
+    "text": "stutaṃ stutyaṃ stūyamānam amoghaṃ carmavāsasam vilohitaṃ nīlakaṇṭham apṛktaṃ durnivāraṇam"
+  },
+  {
+    "id": "p-00646f",
+    "ref": "10.7.7",
+    "text": "śukraṃ viśvasṛjaṃ brahma brahmacāriṇam eva ca vratavantaṃ taponityam anantaṃ tapatāṃ gatim"
+  },
+  {
+    "id": "p-f3645a",
+    "ref": "10.7.8",
+    "text": "bahurūpaṃ gaṇādhyakṣaṃ tryakṣaṃ pāriṣadapriyam gaṇādhyakṣekṣitamukhaṃ gaurīhṛdayavallabham"
+  },
+  {
+    "id": "p-f26459",
+    "ref": "10.7.9",
+    "text": "kumārapitaraṃ piṅgaṃ govṛṣottamavāhanam tanuvāsasam atyugram umābhūṣaṇatatparam"
+  },
+  {
+    "id": "p-b40bd5",
+    "ref": "10.7.10",
+    "text": "paraṃ parebhyaḥ paramaṃ paraṃ yasmān na vidyate iṣvastrottamabhartāraṃ digantaṃ caiva dakṣiṇam"
+  },
+  {
+    "id": "p-b50bd6",
+    "ref": "10.7.11",
+    "text": "hiraṇyakavacaṃ devaṃ candramaulivibhūṣitam prapadye śaraṇaṃ devaṃ parameṇa samādhinā"
+  },
+  {
+    "id": "p-b60bd8",
+    "ref": "10.7.12",
+    "text": "imāṃ cāpy āpadaṃ ghorāṃ tarāmy adya sudustarām sarvabhūtopahāreṇa yakṣye 'haṃ śucinā śucim"
+  },
+  {
+    "id": "p-b70bd9",
+    "ref": "10.7.13",
+    "text": "iti tasya vyavasitaṃ jñātvā tyāgātmakaṃ manaḥ purastāt kāñcanī vediḥ prādurāsīn mahātmanaḥ"
+  },
+  {
+    "id": "p-b80bdb",
+    "ref": "10.7.14",
+    "text": "tasyāṃ vedyāṃ tadā rājaṃś citrabhānur ajāyata dyāṃ diśo vidiśaḥ khaṃ ca jvālābhir abhipūrayan"
+  },
+  {
+    "id": "p-b90bdc",
+    "ref": "10.7.15",
+    "text": "dīptāsyanayanāś cātra naikapādaśirobhujāḥ dvipaśailapratīkāśāḥ prādurāsan mahānanāḥ"
+  },
+  {
+    "id": "p-ba0bde",
+    "ref": "10.7.16",
+    "text": "śvavarāhoṣṭrarūpāś ca hayagomāyugomukhāḥ ṛkṣamārjāravadanā vyāghradvīpimukhās tathā"
+  },
+  {
+    "id": "p-bb0be0",
+    "ref": "10.7.17",
+    "text": "kākavaktrāḥ plavamukhāḥ śukavaktrās tathaiva ca mahājagaravaktrāś ca haṃsavaktrāḥ sitaprabhāḥ"
+  },
+  {
+    "id": "p-ac0bc8",
+    "ref": "10.7.18",
+    "text": "dārvāghāṭamukhāś caiva cāṣavaktrāś ca bhārata kūrmanakramukhāś caiva śiśumāramukhās tathā"
+  },
+  {
+    "id": "p-ad0bca",
+    "ref": "10.7.19",
+    "text": "mahāmakaravaktrāś ca timivaktrās tathaiva ca harivaktrāḥ krauñcamukhāḥ kapotebhamukhās tathā"
+  },
+  {
+    "id": "p-261344",
+    "ref": "10.7.20",
+    "text": "pārāvatamukhāś caiva madguvaktrās tathaiva ca pāṇikarṇāḥ sahasrākṣās tathaiva ca śatodarāḥ"
+  },
+  {
+    "id": "p-251342",
+    "ref": "10.7.21",
+    "text": "nirmāṃsāḥ kokavaktrāś ca śyenavaktrāś ca bhārata tathaivāśiraso rājann ṛkṣavaktrāś ca bhīṣaṇāḥ"
+  },
+  {
+    "id": "p-281347",
+    "ref": "10.7.22",
+    "text": "pradīptanetrajihvāś ca jvālāvaktrās tathaiva ca meṣavaktrās tathaivānye tathā chāgamukhā nṛpa"
+  },
+  {
+    "id": "p-271345",
+    "ref": "10.7.23",
+    "text": "śaṅkhābhāḥ śaṅkhavaktrāś ca śaṅkhakarṇās tathaiva ca śaṅkhamālāparikarāḥ śaṅkhadhvanisamasvanāḥ"
+  },
+  {
+    "id": "p-2a134a",
+    "ref": "10.7.24",
+    "text": "jaṭādharāḥ pañcaśikhās tathā muṇḍāḥ kṛśodarāḥ caturdaṃṣṭrāś caturjihvāḥ śaṅkukarṇāḥ kirīṭinaḥ"
+  },
+  {
+    "id": "p-291349",
+    "ref": "10.7.25",
+    "text": "maulīdharāś ca rājendra tathākuñcitamūrdhajāḥ uṣṇīṣiṇo mukuṭinaś cāruvaktrāḥ svalaṃkṛtāḥ"
+  },
+  {
+    "id": "p-2c134d",
+    "ref": "10.7.26",
+    "text": "padmotpalāpīḍadharās tathā kumudadhāriṇaḥ māhātmyena ca saṃyuktāḥ śataśo 'tha sahasraśaḥ"
+  },
+  {
+    "id": "p-2b134c",
+    "ref": "10.7.27",
+    "text": "śataghnīcakrahastāś ca tathā musalapāṇayaḥ bhuśuṇḍīpāśahastāś ca gadāhastāś ca bhārata"
+  },
+  {
+    "id": "p-2e1350",
+    "ref": "10.7.28",
+    "text": "pṛṣṭheṣu baddheṣudhayaś citrabāṇā raṇotkaṭāḥ sadhvajāḥ sapatākāś ca saghaṇṭāḥ saparaśvadhāḥ"
+  },
+  {
+    "id": "p-2d134f",
+    "ref": "10.7.29",
+    "text": "mahāpāśodyatakarās tathā laguḍapāṇayaḥ sthūṇāhastāḥ khaḍgahastāḥ sarpocchritakirīṭinaḥ mahāsarpāṅgadadharāś citrābharaṇadhāriṇaḥ"
+  },
+  {
+    "id": "p-40112e",
+    "ref": "10.7.30",
+    "text": "rajodhvastāḥ paṅkadigdhāḥ sarve śuklāmbarasrajaḥ nīlāṅgāḥ kamalāṅgāś ca muṇḍavaktrās tathaiva ca"
+  },
+  {
+    "id": "p-411130",
+    "ref": "10.7.31",
+    "text": "bherīśaṅkhamṛdaṅgāṃs te jharjharānakagomukhān avādayan pāriṣadāḥ prahṛṣṭāḥ kanakaprabhāḥ"
+  },
+  {
+    "id": "p-3e112b",
+    "ref": "10.7.32",
+    "text": "gāyamānās tathaivānye nṛtyamānās tathāpare laṅghayantaḥ plavantaś ca valgantaś ca mahābalāḥ"
+  },
+  {
+    "id": "p-3f112d",
+    "ref": "10.7.33",
+    "text": "dhāvanto javanāś caṇḍāḥ pavanoddhūtamūrdhajāḥ mattā iva mahānāgā vinadanto muhur muhuḥ"
+  },
+  {
+    "id": "p-3c1128",
+    "ref": "10.7.34",
+    "text": "subhīmā ghorarūpāś ca śūlapaṭṭiśapāṇayaḥ nānāvirāgavasanāś citramālyānulepanāḥ"
+  },
+  {
+    "id": "p-3d1129",
+    "ref": "10.7.35",
+    "text": "ratnacitrāṅgadadharāḥ samudyatakarās tathā hantāro dviṣatāṃ śūrāḥ prasahyāsahyavikramāḥ"
+  },
+  {
+    "id": "p-3a1125",
+    "ref": "10.7.36",
+    "text": "pātāro 'sṛgvasādyānāṃ māṃsāntrakṛtabhojanāḥ cūḍālāḥ karṇikālāś ca prakṛśāḥ piṭharodarāḥ"
+  },
+  {
+    "id": "p-3b1126",
+    "ref": "10.7.37",
+    "text": "atihrasvātidīrghāś ca prabalāś cātibhairavāḥ vikaṭāḥ kālalamboṣṭhā bṛhacchephāsthipiṇḍikāḥ"
+  },
+  {
+    "id": "p-381122",
+    "ref": "10.7.38",
+    "text": "mahārhanānāmukuṭā muṇḍāś ca jaṭilāḥ pare sārkendugrahanakṣatrāṃ dyāṃ kuryur ye mahītale"
+  },
+  {
+    "id": "p-391123",
+    "ref": "10.7.39",
+    "text": "utsaheraṃś ca ye hantuṃ bhūtagrāmaṃ caturvidham ye ca vītabhayā nityaṃ harasya bhrukuṭībhaṭāḥ"
+  },
+  {
+    "id": "p-b2189d",
+    "ref": "10.7.40",
+    "text": "kāmakārakarāḥ siddhās trailokyasyeśvareśvarāḥ nityānandapramuditā vāgīśā vītamatsarāḥ"
+  },
+  {
+    "id": "p-b1189c",
+    "ref": "10.7.41",
+    "text": "prāpyāṣṭaguṇam aiśvaryaṃ ye na yānti ca vismayam yeṣāṃ vismayate nityaṃ bhagavān karmabhir haraḥ"
+  },
+  {
+    "id": "p-b0189a",
+    "ref": "10.7.42",
+    "text": "manovākkarmabhir bhaktair nityam ārādhitaś ca yaiḥ manovākkarmabhir bhaktān pāti putrān ivaurasān"
+  },
+  {
+    "id": "p-af1899",
+    "ref": "10.7.43",
+    "text": "pibanto 'sṛgvasās tv anye kruddhā brahmadviṣāṃ sadā caturviṃśātmakaṃ somaṃ ye pibanti ca nityadā"
+  },
+  {
+    "id": "p-ae1897",
+    "ref": "10.7.44",
+    "text": "śrutena brahmacaryeṇa tapasā ca damena ca ye samārādhya śūlāṅkaṃ bhavasāyujyam āgatāḥ"
+  },
+  {
+    "id": "p-ad1896",
+    "ref": "10.7.45",
+    "text": "yair ātmabhūtair bhagavān pārvatyā ca maheśvaraḥ saha bhūtagaṇān bhuṅkte bhūtabhavyabhavatprabhuḥ"
+  },
+  {
+    "id": "p-ac1894",
+    "ref": "10.7.46",
+    "text": "nānāvicitrahasitakṣveḍitotkruṣṭagarjitaiḥ saṃnādayantas te viśvam aśvatthāmānam abhyayuḥ"
+  },
+  {
+    "id": "p-ab1892",
+    "ref": "10.7.47",
+    "text": "saṃstuvanto mahādevaṃ bhāḥ kurvāṇāḥ suvarcasaḥ vivardhayiṣavo drauṇer mahimānaṃ mahātmanaḥ"
+  },
+  {
+    "id": "p-ba18aa",
+    "ref": "10.7.48",
+    "text": "jijñāsamānās tattejaḥ sauptikaṃ ca didṛkṣavaḥ bhīmograparighālātaśūlapaṭṭiśapāṇayaḥ ghorarūpāḥ samājagmur bhūtasaṃghāḥ samantataḥ"
+  },
+  {
+    "id": "p-b918a8",
+    "ref": "10.7.49",
+    "text": "janayeyur bhayaṃ ye sma trailokyasyāpi darśanāt tān prekṣamāṇo 'pi vyathāṃ na cakāra mahābalaḥ"
+  },
+  {
+    "id": "p-ac1655",
+    "ref": "10.7.50",
+    "text": "atha drauṇir dhanuṣpāṇir baddhagodhāṅgulitravān svayam evātmanātmānam upahāram upāharat"
+  },
+  {
+    "id": "p-ad1657",
+    "ref": "10.7.51",
+    "text": "dhanūṃṣi samidhas tatra pavitrāṇi śitāḥ śarāḥ havir ātmavataś cātmā tasmin bhārata karmaṇi"
+  },
+  {
+    "id": "p-ae1659",
+    "ref": "10.7.52",
+    "text": "tataḥ saumyena mantreṇa droṇaputraḥ pratāpavān upahāraṃ mahāmanyur athātmānam upāharat"
+  },
+  {
+    "id": "p-af165a",
+    "ref": "10.7.53",
+    "text": "taṃ rudraṃ raudrakarmāṇaṃ raudraiḥ karmabhir acyutam abhiṣṭutya mahātmānam ity uvāca kṛtāñjaliḥ"
+  },
+  {
+    "id": "p-a8164f",
+    "ref": "10.7.54",
+    "text": "imam ātmānam adyāhaṃ jātam āṅgirase kule agnau juhomi bhagavan pratigṛhṇīṣva māṃ balim"
+  },
+  {
+    "id": "p-a91651",
+    "ref": "10.7.55",
+    "text": "bhavadbhaktyā mahādeva parameṇa samādhinā asyām āpadi viśvātmann upākurmi tavāgrataḥ"
+  },
+  {
+    "id": "p-aa1652",
+    "ref": "10.7.56",
+    "text": "tvayi sarvāṇi bhūtāni sarvabhūteṣu cāsi vai guṇānāṃ hi pradhānānām ekatvaṃ tvayi tiṣṭhati"
+  },
+  {
+    "id": "p-ab1654",
+    "ref": "10.7.57",
+    "text": "sarvabhūtāśaya vibho havirbhūtam upasthitam pratigṛhāṇa māṃ deva yady aśakyāḥ pare mayā"
+  },
+  {
+    "id": "p-b41662",
+    "ref": "10.7.58",
+    "text": "ity uktvā drauṇir āsthāya tāṃ vedīṃ dīptapāvakām saṃtyaktātmā samāruhya kṛṣṇavartmany upāviśat"
+  },
+  {
+    "id": "p-b51664",
+    "ref": "10.7.59",
+    "text": "tam ūrdhvabāhuṃ niśceṣṭaṃ dṛṣṭvā havir upasthitam abravīd bhagavān sākṣān mahādevo hasann iva"
+  },
+  {
+    "id": "p-be1d2d",
+    "ref": "10.7.60",
+    "text": "satyaśaucārjavatyāgais tapasā niyamena ca kṣāntyā bhaktyā ca dhṛtyā ca buddhyā ca vacasā tathā"
+  },
+  {
+    "id": "p-bd1d2c",
+    "ref": "10.7.61",
+    "text": "yathāvad aham ārāddhaḥ kṛṣṇenākliṣṭakarmaṇā tasmād iṣṭatamaḥ kṛṣṇād anyo mama na vidyate"
+  },
+  {
+    "id": "p-c01d31",
+    "ref": "10.7.62",
+    "text": "kurvatā tasya saṃmānaṃ tvāṃ ca jijñāsatā mayā pāñcālāḥ sahasā guptā māyāś ca bahuśaḥ kṛtāḥ"
+  },
+  {
+    "id": "p-bf1d2f",
+    "ref": "10.7.63",
+    "text": "kṛtas tasyaiṣa saṃmānaḥ pāñcālān rakṣatā mayā abhibhūtās tu kālena naiṣām adyāsti jīvitam"
+  },
+  {
+    "id": "p-ba1d27",
+    "ref": "10.7.64",
+    "text": "evam uktvā maheṣvāsaṃ bhagavān ātmanas tanum āviveśa dadau cāsmai vimalaṃ khaḍgam uttamam"
+  },
+  {
+    "id": "p-b91d26",
+    "ref": "10.7.65",
+    "text": "athāviṣṭo bhagavatā bhūyo jajvāla tejasā varṣmavāṃś cābhavad yuddhe devasṛṣṭena tejasā"
+  },
+  {
+    "id": "p-bc1d2a",
+    "ref": "10.7.66",
+    "text": "tam adṛśyāni bhūtāni rakṣāṃsi ca samādravan abhitaḥ śatruśibiraṃ yāntaṃ sākṣād iveśvaram"
+  },
+  {
+    "id": "p-1c7c62",
+    "ref": "10.8.1",
+    "text": "dhṛtarāṣṭra uvāca tathā prayāte śibiraṃ droṇaputre mahārathe kaccit kṛpaś ca bhojaś ca bhayārtau na nyavartatām"
+  },
+  {
+    "id": "p-197c5d",
+    "ref": "10.8.2",
+    "text": "kaccin na vāritau kṣudrai rakṣibhir nopalakṣitau asahyam iti vā matvā na nivṛttau mahārathau"
+  },
+  {
+    "id": "p-1a7c5f",
+    "ref": "10.8.3",
+    "text": "kaccit pramathya śibiraṃ hatvā somakapāṇḍavān duryodhanasya padavīṃ gatau paramikāṃ raṇe"
+  },
+  {
+    "id": "p-1f7c67",
+    "ref": "10.8.4",
+    "text": "pāñcālair vā vinihatau kaccin nāsvapatāṃ kṣitau kaccit tābhyāṃ kṛtaṃ karma tan mamācakṣva saṃjaya"
+  },
+  {
+    "id": "p-207c68",
+    "ref": "10.8.5",
+    "text": "saṃjaya uvāca tasmin prayāte śibiraṃ droṇaputre mahātmani kṛpaś ca kṛtavarmā ca śibiradvāry atiṣṭhatām"
+  },
+  {
+    "id": "p-1d7c63",
+    "ref": "10.8.6",
+    "text": "aśvatthāmā tu tau dṛṣṭvā yatnavantau mahārathau prahṛṣṭaḥ śanakai rājann idaṃ vacanam abravīt"
+  },
+  {
+    "id": "p-1e7c65",
+    "ref": "10.8.7",
+    "text": "yattau bhavantau paryāptau sarvakṣatrasya nāśane kiṃ punar yodhaśeṣasya prasuptasya viśeṣataḥ"
+  },
+  {
+    "id": "p-137c54",
+    "ref": "10.8.8",
+    "text": "ahaṃ pravekṣye śibiraṃ cariṣyāmi ca kālavat yathā na kaś cid api me jīvan mucyeta mānavaḥ"
+  },
+  {
+    "id": "p-147c55",
+    "ref": "10.8.9",
+    "text": "ity uktvā prāviśad drauṇiḥ pārthānāṃ śibiraṃ mahat advāreṇābhyavaskandya vihāya bhayam ātmanaḥ"
+  },
+  {
+    "id": "p-38cede",
+    "ref": "10.8.10",
+    "text": "sa praviśya mahābāhur uddeśajñaś ca tasya ha dhṛṣṭadyumnasya nilayaṃ śanakair abhyupāgamat"
+  },
+  {
+    "id": "p-37cedd",
+    "ref": "10.8.11",
+    "text": "te tu kṛtvā mahat karma śrāntāś ca balavad raṇe prasuptā vai suviśvastāḥ svasainyaparivāritāḥ"
+  },
+  {
+    "id": "p-3acee1",
+    "ref": "10.8.12",
+    "text": "atha praviśya tad veśma dhṛṣṭadyumnasya bhārata pāñcālyaṃ śayane drauṇir apaśyat suptam antikāt"
+  },
+  {
+    "id": "p-39cee0",
+    "ref": "10.8.13",
+    "text": "kṣaumāvadāte mahati spardhyāstaraṇasaṃvṛte mālyapravarasaṃyukte dhūpaiś cūrṇaiś ca vāsite"
+  },
+  {
+    "id": "p-3ccee4",
+    "ref": "10.8.14",
+    "text": "taṃ śayānaṃ mahātmānaṃ visrabdham akutobhayam prābodhayata pādena śayanasthaṃ mahīpate"
+  },
+  {
+    "id": "p-3bcee3",
+    "ref": "10.8.15",
+    "text": "sa buddhvā caraṇasparśam utthāya raṇadurmadaḥ abhyajānad ameyātmā droṇaputraṃ mahāratham"
+  },
+  {
+    "id": "p-3ecee8",
+    "ref": "10.8.16",
+    "text": "tam utpatantaṃ śayanād aśvatthāmā mahābalaḥ keśeṣv ālambya pāṇibhyāṃ niṣpipeṣa mahītale"
+  },
+  {
+    "id": "p-3dcee6",
+    "ref": "10.8.17",
+    "text": "sa balāt tena niṣpiṣṭaḥ sādhvasena ca bhārata nidrayā caiva pāñcālyo nāśakac ceṣṭituṃ tadā"
+  },
+  {
+    "id": "p-40ceeb",
+    "ref": "10.8.18",
+    "text": "tam ākramya tadā rājan kaṇṭhe corasi cobhayoḥ nadantaṃ visphurantaṃ ca paśumāram amārayat"
+  },
+  {
+    "id": "p-3fcee9",
+    "ref": "10.8.19",
+    "text": "tudan nakhais tu sa drauṇiṃ nātivyaktam udāharat ācāryaputra śastreṇa jahi mā mā ciraṃ kṛthāḥ tvatkṛte sukṛtāṃl lokān gaccheyaṃ dvipadāṃ vara"
+  },
+  {
+    "id": "p-c6c76f",
+    "ref": "10.8.20",
+    "text": "tasyāvyaktāṃ tu tāṃ vācaṃ saṃśrutya drauṇir abravīt ācāryaghātināṃ lokā na santi kulapāṃsana tasmāc chastreṇa nidhanaṃ na tvam arhasi durmate"
+  },
+  {
+    "id": "p-c7c771",
+    "ref": "10.8.21",
+    "text": "evaṃ bruvāṇas taṃ vīraṃ siṃho mattam iva dvipam marmasv abhyavadhīt kruddhaḥ pādāṣṭhīlaiḥ sudāruṇaiḥ"
+  },
+  {
+    "id": "p-c8c772",
+    "ref": "10.8.22",
+    "text": "tasya vīrasya śabdena māryamāṇasya veśmani abudhyanta mahārāja striyo ye cāsya rakṣiṇaḥ"
+  },
+  {
+    "id": "p-c9c774",
+    "ref": "10.8.23",
+    "text": "te dṛṣṭvā varṣmavantaṃ tam atimānuṣavikramam bhūtam eva vyavasyanto na sma pravyāharan bhayāt"
+  },
+  {
+    "id": "p-cac775",
+    "ref": "10.8.24",
+    "text": "taṃ tu tenābhyupāyena gamayitvā yamakṣayam adhyatiṣṭhat sa tejasvī rathaṃ prāpya sudarśanam"
+  },
+  {
+    "id": "p-cbc777",
+    "ref": "10.8.25",
+    "text": "sa tasya bhavanād rājan niṣkramyānādayan diśaḥ rathena śibiraṃ prāyāj jighāṃsur dviṣato balī"
+  },
+  {
+    "id": "p-ccc778",
+    "ref": "10.8.26",
+    "text": "apakrānte tatas tasmin droṇaputre mahārathe saha tai rakṣibhiḥ sarvaiḥ praṇedur yoṣitas tadā"
+  },
+  {
+    "id": "p-cdc77a",
+    "ref": "10.8.27",
+    "text": "rājānaṃ nihataṃ dṛṣṭvā bhṛśaṃ śokaparāyaṇāḥ vyākrośan kṣatriyāḥ sarve dhṛṣṭadyumnasya bhārata"
+  },
+  {
+    "id": "p-bec762",
+    "ref": "10.8.28",
+    "text": "tāsāṃ tu tena śabdena samīpe kṣatriyarṣabhāḥ kṣipraṃ ca samanahyanta kim etad iti cābruvan"
+  },
+  {
+    "id": "p-bfc764",
+    "ref": "10.8.29",
+    "text": "striyas tu rājan vitrastā bhāradvājaṃ nirīkṣya tam abruvan dīnakaṇṭhena kṣipram ādravateti vai"
+  },
+  {
+    "id": "p-ccc9b7",
+    "ref": "10.8.30",
+    "text": "rākṣaso vā manuṣyo vā nainaṃ jānīmahe vayam hatvā pāñcālarājaṃ yo ratham āruhya tiṣṭhati"
+  },
+  {
+    "id": "p-cbc9b5",
+    "ref": "10.8.31",
+    "text": "tatas te yodhamukhyās taṃ sahasā paryavārayan sa tān āpatataḥ sarvān rudrāstreṇa vyapothayat"
+  },
+  {
+    "id": "p-cac9b4",
+    "ref": "10.8.32",
+    "text": "dhṛṣṭadyumnaṃ ca hatvā sa tāṃś caivāsya padānugān apaśyac chayane suptam uttamaujasam antike"
+  },
+  {
+    "id": "p-c9c9b2",
+    "ref": "10.8.33",
+    "text": "tam apy ākramya pādena kaṇṭhe corasi caujasā tathaiva mārayām āsa vinardantam ariṃdamam"
+  },
+  {
+    "id": "p-d0c9bd",
+    "ref": "10.8.34",
+    "text": "yudhāmanyus tu saṃprāpto mattvā taṃ rakṣasā hatam gadām udyamya vegena hṛdi drauṇim atāḍayat"
+  },
+  {
+    "id": "p-cfc9bc",
+    "ref": "10.8.35",
+    "text": "tam abhidrutya jagrāha kṣitau cainam apātayat visphurantaṃ ca paśuvat tathaivainam amārayat"
+  },
+  {
+    "id": "p-cec9ba",
+    "ref": "10.8.36",
+    "text": "tathā sa vīro hatvā taṃ tato 'nyān samupādravat saṃsuptān eva rājendra tatra tatra mahārathān sphurato vepamānāṃś ca śamiteva paśūn makhe"
+  },
+  {
+    "id": "p-cdc9b9",
+    "ref": "10.8.37",
+    "text": "tato nistriṃśam ādāya jaghānānyān pṛthagjanān bhāgaśo vicaran mārgān asiyuddhaviśāradaḥ"
+  },
+  {
+    "id": "p-c4c9aa",
+    "ref": "10.8.38",
+    "text": "tathaiva gulme saṃprekṣya śayānān madhyagaulmikān śrāntān nyastāyudhān sarvān kṣaṇenaiva vyapothayat"
+  },
+  {
+    "id": "p-c3c9a9",
+    "ref": "10.8.39",
+    "text": "yodhān aśvān dvipāṃś caiva prācchinat sa varāsinā rudhirokṣitasarvāṅgaḥ kālasṛṣṭa ivāntakaḥ"
+  },
+  {
+    "id": "p-cad680",
+    "ref": "10.8.40",
+    "text": "visphuradbhiś ca tair drauṇir nistriṃśasyodyamena ca ākṣepeṇa tathaivāses tridhā raktokṣito 'bhavat"
+  },
+  {
+    "id": "p-cbd681",
+    "ref": "10.8.41",
+    "text": "tasya lohitasiktasya dīptakhaḍgasya yudhyataḥ amānuṣa ivākāro babhau paramabhīṣaṇaḥ"
+  },
+  {
+    "id": "p-c8d67d",
+    "ref": "10.8.42",
+    "text": "ye tv ajāgrata kauravya te 'pi śabdena mohitāḥ nirīkṣyamāṇā anyonyaṃ drauṇiṃ dṛṣṭvā pravivyathuḥ"
+  },
+  {
+    "id": "p-c9d67e",
+    "ref": "10.8.43",
+    "text": "tad rūpaṃ tasya te dṛṣṭvā kṣatriyāḥ śatrukarśanāḥ rākṣasaṃ manyamānās taṃ nayanāni nyamīlayan"
+  },
+  {
+    "id": "p-ced686",
+    "ref": "10.8.44",
+    "text": "sa ghorarūpo vyacarat kālavac chibire tataḥ apaśyad draupadīputrān avaśiṣṭāṃś ca somakān"
+  },
+  {
+    "id": "p-cfd688",
+    "ref": "10.8.45",
+    "text": "tena śabdena vitrastā dhanurhastā mahārathāḥ dhṛṣṭadyumnaṃ hataṃ śrutvā draupadeyā viśāṃ pate avākirañ śaravrātair bhāradvājam abhītavat"
+  },
+  {
+    "id": "p-ccd683",
+    "ref": "10.8.46",
+    "text": "tatas tena ninādena saṃprabuddhāḥ prabhadrakāḥ śilīmukhaiḥ śikhaṇḍī ca droṇaputraṃ samārdayan"
+  },
+  {
+    "id": "p-cdd685",
+    "ref": "10.8.47",
+    "text": "bhāradvājas tu tān dṛṣṭvā śaravarṣāṇi varṣataḥ nanāda balavan nādaṃ jighāṃsus tān sudurjayān"
+  },
+  {
+    "id": "p-c2d673",
+    "ref": "10.8.48",
+    "text": "tataḥ paramasaṃkruddhaḥ pitur vadham anusmaran avaruhya rathopasthāt tvaramāṇo 'bhidudruve"
+  },
+  {
+    "id": "p-c3d675",
+    "ref": "10.8.49",
+    "text": "sahasracandraṃ vipulaṃ gṛhītvā carma saṃyuge khaḍgaṃ ca vipulaṃ divyaṃ jātarūpapariṣkṛtam draupadeyān abhidrutya khaḍgena vyacarad balī"
+  },
+  {
+    "id": "p-d0d8c8",
+    "ref": "10.8.50",
+    "text": "tataḥ sa naraśārdūlaḥ prativindhyaṃ tam āhave kukṣideśe 'vadhīd rājan sa hato nyapatad bhuvi"
+  },
+  {
+    "id": "p-cfd8c6",
+    "ref": "10.8.51",
+    "text": "prāsena viddhvā drauṇiṃ tu sutasomaḥ pratāpavān punaś cāsiṃ samudyamya droṇaputram upādravat"
+  },
+  {
+    "id": "p-d2d8cb",
+    "ref": "10.8.52",
+    "text": "sutasomasya sāsiṃ tu bāhuṃ chittvā nararṣabhaḥ punar abhyahanat pārśve sa bhinnahṛdayo 'patat"
+  },
+  {
+    "id": "p-d1d8c9",
+    "ref": "10.8.53",
+    "text": "nākulis tu śatānīko rathacakreṇa vīryavān dorbhyām utkṣipya vegena vakṣasy enam atāḍayat"
+  },
+  {
+    "id": "p-ccd8c2",
+    "ref": "10.8.54",
+    "text": "atāḍayac chatānīkaṃ muktacakraṃ dvijas tu saḥ sa vihvalo yayau bhūmiṃ tato 'syāpāharac chiraḥ"
+  },
+  {
+    "id": "p-cbd8c0",
+    "ref": "10.8.55",
+    "text": "śrutakarmā tu parighaṃ gṛhītvā samatāḍayat abhidrutya tato drauṇiṃ savye sa phalake bhṛśam"
+  },
+  {
+    "id": "p-ced8c5",
+    "ref": "10.8.56",
+    "text": "sa tu taṃ śrutakarmāṇam āsye jaghne varāsinā sa hato nyapatad bhūmau vimūḍho vikṛtānanaḥ"
+  },
+  {
+    "id": "p-cdd8c3",
+    "ref": "10.8.57",
+    "text": "tena śabdena vīras tu śrutakīrtir mahādhanuḥ aśvatthāmānam āsādya śaravarṣair avākirat"
+  },
+  {
+    "id": "p-c8d8bb",
+    "ref": "10.8.58",
+    "text": "tasyāpi śaravarṣāṇi carmaṇā prativārya saḥ sakuṇḍalaṃ śiraḥ kāyād bhrājamānam apāharat"
+  },
+  {
+    "id": "p-c7d8ba",
+    "ref": "10.8.59",
+    "text": "tato bhīṣmanihantā taṃ saha sarvaiḥ prabhadrakaiḥ ahanat sarvato vīraṃ nānāpraharaṇair balī śilīmukhena cāpy enaṃ bhruvor madhye samārdayat"
+  },
+  {
+    "id": "p-3ed126",
+    "ref": "10.8.60",
+    "text": "sa tu krodhasamāviṣṭo droṇaputro mahābalaḥ śikhaṇḍinaṃ samāsādya dvidhā ciccheda so 'sinā"
+  },
+  {
+    "id": "p-3fd128",
+    "ref": "10.8.61",
+    "text": "śikhaṇḍinaṃ tato hatvā krodhāviṣṭaḥ paraṃtapaḥ prabhadrakagaṇān sarvān abhidudrāva vegavān yac ca śiṣṭaṃ virāṭasya balaṃ tac ca samādravat"
+  },
+  {
+    "id": "p-40d129",
+    "ref": "10.8.62",
+    "text": "drupadasya ca putrāṇāṃ pautrāṇāṃ suhṛdām api cakāra kadanaṃ ghoraṃ dṛṣṭvā dṛṣṭvā mahābalaḥ"
+  },
+  {
+    "id": "p-41d12b",
+    "ref": "10.8.63",
+    "text": "anyān anyāṃś ca puruṣān abhisṛtyābhisṛtya ca nyakṛntad asinā drauṇir asimārgaviśāradaḥ"
+  },
+  {
+    "id": "p-3ad120",
+    "ref": "10.8.64",
+    "text": "kālīṃ raktāsyanayanāṃ raktamālyānulepanām raktāmbaradharām ekāṃ pāśahastāṃ śikhaṇḍinīm"
+  },
+  {
+    "id": "p-3bd122",
+    "ref": "10.8.65",
+    "text": "dadṛśuḥ kālarātriṃ te smayamānām avasthitām narāśvakuñjarān pāśair baddhvā ghoraiḥ pratasthuṣīm harantīṃ vividhān pretān pāśabaddhān vimūrdhajān"
+  },
+  {
+    "id": "p-3cd123",
+    "ref": "10.8.66",
+    "text": "svapne suptān nayantīṃ tāṃ rātriṣv anyāsu māriṣa dadṛśur yodhamukhyās te ghnantaṃ drauṇiṃ ca nityadā"
+  },
+  {
+    "id": "p-3dd125",
+    "ref": "10.8.67",
+    "text": "yataḥ pravṛttaḥ saṃgrāmaḥ kurupāṇḍavasenayoḥ tataḥ prabhṛti tāṃ kṛtyām apaśyan drauṇim eva ca"
+  },
+  {
+    "id": "p-46d133",
+    "ref": "10.8.68",
+    "text": "tāṃs tu daivahatān pūrvaṃ paścād drauṇir nyapātayat trāsayan sarvabhūtāni vinadan bhairavān ravān"
+  },
+  {
+    "id": "p-47d134",
+    "ref": "10.8.69",
+    "text": "tad anusmṛtya te vīrā darśanaṃ paurvakālikam idaṃ tad ity amanyanta daivenopanipīḍitāḥ"
+  },
+  {
+    "id": "p-44d36e",
+    "ref": "10.8.70",
+    "text": "tatas tena ninādena pratyabudhyanta dhanvinaḥ śibire pāṇḍaveyānāṃ śataśo 'tha sahasraśaḥ"
+  },
+  {
+    "id": "p-43d36d",
+    "ref": "10.8.71",
+    "text": "so 'cchinat kasya cit pādau jaghanaṃ caiva kasya cit kāṃś cid bibheda pārśveṣu kālasṛṣṭa ivāntakaḥ"
+  },
+  {
+    "id": "p-42d36b",
+    "ref": "10.8.72",
+    "text": "atyugrapratipiṣṭaiś ca nadadbhiś ca bhṛśāturaiḥ gajāśvamathitaiś cānyair mahī kīrṇābhavat prabho"
+  },
+  {
+    "id": "p-41d36a",
+    "ref": "10.8.73",
+    "text": "krośatāṃ kim idaṃ ko 'yaṃ kiṃ śabdaḥ kiṃ nu kiṃ kṛtam evaṃ teṣāṃ tadā drauṇir antakaḥ samapadyata"
+  },
+  {
+    "id": "p-40d368",
+    "ref": "10.8.74",
+    "text": "apetaśastrasaṃnāhān saṃrabdhān pāṇḍusṛñjayān prāhiṇon mṛtyulokāya drauṇiḥ praharatāṃ varaḥ"
+  },
+  {
+    "id": "p-3fd366",
+    "ref": "10.8.75",
+    "text": "tatas tacchastravitrastā utpatanto bhayāturāḥ nidrāndhā naṣṭasaṃjñāś ca tatra tatra nililyire"
+  },
+  {
+    "id": "p-3ed365",
+    "ref": "10.8.76",
+    "text": "ūrustambhagṛhītāś ca kaśmalābhihataujasaḥ vinadanto bhṛśaṃ trastāḥ saṃnyapeṣan parasparam"
+  },
+  {
+    "id": "p-3dd363",
+    "ref": "10.8.77",
+    "text": "tato rathaṃ punar drauṇir āsthito bhīmanisvanam dhanuṣpāṇiḥ śarair anyān preṣayad vai yamakṣayam"
+  },
+  {
+    "id": "p-4cd37b",
+    "ref": "10.8.78",
+    "text": "punar utpatataḥ kāṃś cid dūrād api narottamān śūrān saṃpatataś cānyān kālarātryai nyavedayat"
+  },
+  {
+    "id": "p-4bd379",
+    "ref": "10.8.79",
+    "text": "tathaiva syandanāgreṇa pramathan sa vidhāvati śaravarṣaiś ca vividhair avarṣac chātravāṃs tataḥ"
+  },
+  {
+    "id": "p-c2b85e",
+    "ref": "10.8.80",
+    "text": "punaś ca suvicitreṇa śatacandreṇa carmaṇā tena cākāśavarṇena tadācarata so 'sinā"
+  },
+  {
+    "id": "p-c3b860",
+    "ref": "10.8.81",
+    "text": "tathā sa śibiraṃ teṣāṃ drauṇir āhavadurmadaḥ vyakṣobhayata rājendra mahāhradam iva dvipaḥ"
+  },
+  {
+    "id": "p-c0b85b",
+    "ref": "10.8.82",
+    "text": "utpetus tena śabdena yodhā rājan vicetasaḥ nidrārtāś ca bhayārtāś ca vyadhāvanta tatas tataḥ"
+  },
+  {
+    "id": "p-c1b85d",
+    "ref": "10.8.83",
+    "text": "visvaraṃ cukruśuś cānye bahvabaddhaṃ tathāvadan na ca sma pratipadyante śastrāṇi vasanāni ca"
+  },
+  {
+    "id": "p-beb858",
+    "ref": "10.8.84",
+    "text": "vimuktakeśāś cāpy anye nābhyajānan parasparam utpatantaḥ pare bhītāḥ ke cit tatra tathābhraman purīṣam asṛjan ke cit ke cin mūtraṃ prasusruvuḥ"
+  },
+  {
+    "id": "p-bfb859",
+    "ref": "10.8.85",
+    "text": "bandhanāni ca rājendra saṃchidya turagā dvipāḥ samaṃ paryapataṃś cānye kurvanto mahad ākulam"
+  },
+  {
+    "id": "p-bcb855",
+    "ref": "10.8.86",
+    "text": "tatra ke cin narā bhītā vyalīyanta mahītale tathaiva tān nipatitān apiṃṣan gajavājinaḥ"
+  },
+  {
+    "id": "p-bdb856",
+    "ref": "10.8.87",
+    "text": "tasmiṃs tathā vartamāne rakṣāṃsi puruṣarṣabha tṛptāni vyanadann uccair mudā bharatasattama"
+  },
+  {
+    "id": "p-cab86b",
+    "ref": "10.8.88",
+    "text": "sa śabdaḥ prerito rājan bhūtasaṃghair mudā yutaiḥ apūrayad diśaḥ sarvā divaṃ cāpi mahāsvanaḥ"
+  },
+  {
+    "id": "p-cbb86c",
+    "ref": "10.8.89",
+    "text": "teṣām ārtasvaraṃ śrutvā vitrastā gajavājinaḥ muktāḥ paryapatan rājan mṛdnantaḥ śibire janam"
+  },
+  {
+    "id": "p-c8baa6",
+    "ref": "10.8.90",
+    "text": "tais tatra paridhāvadbhiś caraṇodīritaṃ rajaḥ akaroc chibire teṣāṃ rajanyāṃ dviguṇaṃ tamaḥ"
+  },
+  {
+    "id": "p-c7baa5",
+    "ref": "10.8.91",
+    "text": "tasmiṃs tamasi saṃjāte pramūḍhāḥ sarvato janāḥ nājānan pitaraḥ putrān bhrātṝn bhrātara eva ca"
+  },
+  {
+    "id": "p-cabaa9",
+    "ref": "10.8.92",
+    "text": "gajā gajān atikramya nirmanuṣyā hayā hayān atāḍayaṃs tathābhañjaṃs tathāmṛdnaṃś ca bhārata"
+  },
+  {
+    "id": "p-c9baa8",
+    "ref": "10.8.93",
+    "text": "te bhagnāḥ prapatantaś ca nighnantaś ca parasparam nyapātayanta ca parān pātayitvā tathāpiṣan"
+  },
+  {
+    "id": "p-ccbaac",
+    "ref": "10.8.94",
+    "text": "vicetasaḥ sanidrāś ca tamasā cāvṛtā narāḥ jaghnuḥ svān eva tatrātha kālenābhipracoditāḥ"
+  },
+  {
+    "id": "p-cbbaab",
+    "ref": "10.8.95",
+    "text": "tyaktvā dvārāṇi ca dvāḥsthās tathā gulmāṃś ca gaulmikāḥ prādravanta yathāśakti kāṃdiśīkā vicetasaḥ"
+  },
+  {
+    "id": "p-cebab0",
+    "ref": "10.8.96",
+    "text": "vipranaṣṭāś ca te 'nyonyaṃ nājānanta tadā vibho krośantas tāta putreti daivopahatacetasaḥ"
+  },
+  {
+    "id": "p-cdbaae",
+    "ref": "10.8.97",
+    "text": "palāyatāṃ diśas teṣāṃ svān apy utsṛjya bāndhavān gotranāmabhir anyonyam ākrandanta tato janāḥ"
+  },
+  {
+    "id": "p-c0ba9a",
+    "ref": "10.8.98",
+    "text": "hāhākāraṃ ca kurvāṇāḥ pṛthivyāṃ śerate pare tān buddhvā raṇamatto 'sau droṇaputro vyapothayat"
+  },
+  {
+    "id": "p-bfba98",
+    "ref": "10.8.99",
+    "text": "tatrāpare vadhyamānā muhur muhur acetasaḥ śibirān niṣpatanti sma kṣatriyā bhayapīḍitāḥ"
+  },
+  {
+    "id": "p-f0a848",
+    "ref": "10.8.100",
+    "text": "tāṃs tu niṣpatatas trastāñ śibirāñ jīvitaiṣiṇaḥ kṛtavarmā kṛpaś caiva dvāradeśe nijaghnatuḥ"
+  },
+  {
+    "id": "p-efa846",
+    "ref": "10.8.101",
+    "text": "viśastrayantrakavacān muktakeśān kṛtāñjalīn vepamānān kṣitau bhītān naiva kāṃś cid amuñcatām"
+  },
+  {
+    "id": "p-eea845",
+    "ref": "10.8.102",
+    "text": "nāmucyata tayoḥ kaś cin niṣkrāntaḥ śibirād bahiḥ kṛpasya ca mahārāja hārdikyasya ca durmateḥ"
+  },
+  {
+    "id": "p-eda843",
+    "ref": "10.8.103",
+    "text": "bhūyaś caiva cikīrṣantau droṇaputrasya tau priyam triṣu deśeṣu dadatuḥ śibirasya hutāśanam"
+  },
+  {
+    "id": "p-f4a84e",
+    "ref": "10.8.104",
+    "text": "tataḥ prakāśe śibire khaḍgena pitṛnandanaḥ aśvatthāmā mahārāja vyacarat kṛtahastavat"
+  },
+  {
+    "id": "p-f3a84c",
+    "ref": "10.8.105",
+    "text": "kāṃś cid āpatato vīrān aparāṃś ca pradhāvataḥ vyayojayata khaḍgena prāṇair dvijavaro narān"
+  },
+  {
+    "id": "p-f2a84b",
+    "ref": "10.8.106",
+    "text": "kāṃś cid yodhān sa khaḍgena madhye saṃchidya vīryavān apātayad droṇasutaḥ saṃrabdhas tilakāṇḍavat"
+  },
+  {
+    "id": "p-f1a849",
+    "ref": "10.8.107",
+    "text": "vinadadbhir bhṛśāyastair narāśvadviradottamaiḥ patitair abhavat kīrṇā medinī bharatarṣabha"
+  },
+  {
+    "id": "p-f8a854",
+    "ref": "10.8.108",
+    "text": "mānuṣāṇāṃ sahasreṣu hateṣu patiteṣu ca udatiṣṭhan kabandhāni bahūny utthāya cāpatan"
+  },
+  {
+    "id": "p-f7a853",
+    "ref": "10.8.109",
+    "text": "sāyudhān sāṅgadān bāhūn nicakarta śirāṃsi ca hastihastopamān ūrūn hastān pādāṃś ca bhārata"
+  },
+  {
+    "id": "p-eaa600",
+    "ref": "10.8.110",
+    "text": "pṛṣṭhacchinnāñ śiraśchinnān pārśvacchinnāṃs tathāparān samāsādyākarod drauṇiḥ kāṃś cic cāpi parāṅmukhān"
+  },
+  {
+    "id": "p-eba601",
+    "ref": "10.8.111",
+    "text": "madhyakāyān narān anyāṃś cicchedānyāṃś ca karṇataḥ aṃsadeśe nihatyānyān kāye prāveśayac chiraḥ"
+  },
+  {
+    "id": "p-eca603",
+    "ref": "10.8.112",
+    "text": "evaṃ vicaratas tasya nighnataḥ subahūn narān tamasā rajanī ghorā babhau dāruṇadarśanā"
+  },
+  {
+    "id": "p-eda604",
+    "ref": "10.8.113",
+    "text": "kiṃ cit prāṇaiś ca puruṣair hataiś cānyaiḥ sahasraśaḥ bahunā ca gajāśvena bhūr abhūd bhīmadarśanā"
+  },
+  {
+    "id": "p-eea606",
+    "ref": "10.8.114",
+    "text": "yakṣarakṣaḥsamākīrṇe rathāśvadvipadāruṇe kruddhena droṇaputreṇa saṃchinnāḥ prāpatan bhuvi"
+  },
+  {
+    "id": "p-efa608",
+    "ref": "10.8.115",
+    "text": "mātṝr anye pitṝn anye bhrātṝn anye vicukruśuḥ ke cid ūcur na tat kruddhair dhārtarāṣṭraiḥ kṛtaṃ raṇe"
+  },
+  {
+    "id": "p-f0a609",
+    "ref": "10.8.116",
+    "text": "yat kṛtaṃ naḥ prasuptānāṃ rakṣobhiḥ krūrakarmabhiḥ asāṃnidhyād dhi pārthānām idaṃ naḥ kadanaṃ kṛtam"
+  },
+  {
+    "id": "p-f1a60b",
+    "ref": "10.8.117",
+    "text": "na devāsuragandharvair na yakṣair na ca rākṣasaiḥ śakyo vijetuṃ kaunteyo goptā yasya janārdanaḥ"
+  },
+  {
+    "id": "p-f2a60c",
+    "ref": "10.8.118",
+    "text": "brahmaṇyaḥ satyavāg dāntaḥ sarvabhūtānukampakaḥ na ca suptaṃ pramattaṃ vā nyastaśastraṃ kṛtāñjalim dhāvantaṃ muktakeśaṃ vā hanti pārtho dhanaṃjayaḥ"
+  },
+  {
+    "id": "p-f3a60e",
+    "ref": "10.8.119",
+    "text": "tad idaṃ naḥ kṛtaṃ ghoraṃ rakṣobhiḥ krūrakarmabhiḥ iti lālapyamānāḥ sma śerate bahavo janāḥ"
+  },
+  {
+    "id": "p-7cada1",
+    "ref": "10.8.120",
+    "text": "stanatāṃ ca manuṣyāṇām apareṣāṃ ca kūjatām tato muhūrtāt prāśāmyat sa śabdas tumulo mahān"
+  },
+  {
+    "id": "p-7bada0",
+    "ref": "10.8.121",
+    "text": "śoṇitavyatiṣiktāyāṃ vasudhāyāṃ ca bhūmipa tad rajas tumulaṃ ghoraṃ kṣaṇenāntaradhīyata"
+  },
+  {
+    "id": "p-7eada4",
+    "ref": "10.8.122",
+    "text": "saṃveṣṭamānān udvignān nirutsāhān sahasraśaḥ nyapātayan narān kruddhaḥ paśūn paśupatir yathā"
+  },
+  {
+    "id": "p-7dada3",
+    "ref": "10.8.123",
+    "text": "anyonyaṃ saṃpariṣvajya śayānān dravato 'parān saṃlīnān yudhyamānāṃś ca sarvān drauṇir apothayat"
+  },
+  {
+    "id": "p-80ada8",
+    "ref": "10.8.124",
+    "text": "dahyamānā hutāśena vadhyamānāś ca tena te parasparaṃ tadā yodhā anayan yamasādanam"
+  },
+  {
+    "id": "p-7fada6",
+    "ref": "10.8.125",
+    "text": "tasyā rajanyās tv ardhena pāṇḍavānāṃ mahad balam gamayām āsa rājendra drauṇir yamaniveśanam"
+  },
+  {
+    "id": "p-82adab",
+    "ref": "10.8.126",
+    "text": "niśācarāṇāṃ sattvānāṃ sa rātrir harṣavardhinī āsīn naragajāśvānāṃ raudrī kṣayakarī bhṛśam"
+  },
+  {
+    "id": "p-81ada9",
+    "ref": "10.8.127",
+    "text": "tatrādṛśyanta rakṣāṃsi piśācāś ca pṛthagvidhāḥ khādanto naramāṃsāni pibantaḥ śoṇitāni ca"
+  },
+  {
+    "id": "p-74ad95",
+    "ref": "10.8.128",
+    "text": "karālāḥ piṅgalā raudrāḥ śailadantā rajasvalāḥ jaṭilā dīrghasakthāś ca pañcapādā mahodarāḥ"
+  },
+  {
+    "id": "p-73ad93",
+    "ref": "10.8.129",
+    "text": "paścād aṅgulayo rūkṣā virūpā bhairavasvanāḥ ghaṭajānavo 'tihrasvāś ca nīlakaṇṭhā vibhīṣaṇāḥ"
+  },
+  {
+    "id": "p-76ab59",
+    "ref": "10.8.130",
+    "text": "saputradārāḥ sukrūrā durdarśanasunirghṛṇāḥ vividhāni ca rūpāṇi tatrādṛśyanta rakṣasām"
+  },
+  {
+    "id": "p-77ab5b",
+    "ref": "10.8.131",
+    "text": "pītvā ca śoṇitaṃ hṛṣṭāḥ prānṛtyan gaṇaśo 'pare idaṃ varam idaṃ medhyam idaṃ svādv iti cābruvan"
+  },
+  {
+    "id": "p-74ab56",
+    "ref": "10.8.132",
+    "text": "medomajjāsthiraktānāṃ vasānāṃ ca bhṛśāsitāḥ paramāṃsāni khādantaḥ kravyādā māṃsajīvinaḥ"
+  },
+  {
+    "id": "p-75ab58",
+    "ref": "10.8.133",
+    "text": "vasāṃ cāpy apare pītvā paryadhāvan vikukṣilāḥ nānāvaktrās tathā raudrāḥ kravyādāḥ piśitāśinaḥ"
+  },
+  {
+    "id": "p-72ab53",
+    "ref": "10.8.134",
+    "text": "ayutāni ca tatrāsan prayutāny arbudāni ca rakṣasāṃ ghorarūpāṇāṃ mahatāṃ krūrakarmaṇām"
+  },
+  {
+    "id": "p-73ab55",
+    "ref": "10.8.135",
+    "text": "muditānāṃ vitṛptānāṃ tasmin mahati vaiśase sametāni bahūny āsan bhūtāni ca janādhipa"
+  },
+  {
+    "id": "p-70ab50",
+    "ref": "10.8.136",
+    "text": "pratyūṣakāle śibirāt pratigantum iyeṣa saḥ nṛśoṇitāvasiktasya drauṇer āsīd asitsaruḥ pāṇinā saha saṃśliṣṭa ekībhūta iva prabho"
+  },
+  {
+    "id": "p-71ab51",
+    "ref": "10.8.137",
+    "text": "sa niḥśeṣān arīn kṛtvā virarāja janakṣaye yugānte sarvabhūtāni bhasma kṛtveva pāvakaḥ"
+  },
+  {
+    "id": "p-7eab66",
+    "ref": "10.8.138",
+    "text": "yathāpratijñaṃ tat karma kṛtvā drauṇāyaniḥ prabho durgamāṃ padavīṃ kṛtvā pitur āsīd gatajvaraḥ"
+  },
+  {
+    "id": "p-7fab67",
+    "ref": "10.8.139",
+    "text": "yathaiva saṃsuptajane śibire prāviśan niśi tathaiva hatvā niḥśabde niścakrāma nararṣabhaḥ"
+  },
+  {
+    "id": "p-88b231",
+    "ref": "10.8.140",
+    "text": "niṣkramya śibirāt tasmāt tābhyāṃ saṃgamya vīryavān ācakhyau karma tat sarvaṃ hṛṣṭaḥ saṃharṣayan vibho"
+  },
+  {
+    "id": "p-87b230",
+    "ref": "10.8.141",
+    "text": "tāv apy ācakhyatus tasmai priyaṃ priyakarau tadā pāñcālān sṛñjayāṃś caiva vinikṛttān sahasraśaḥ prītyā coccair udakrośaṃs tathaivāsphoṭayaṃs talān"
+  },
+  {
+    "id": "p-86b22e",
+    "ref": "10.8.142",
+    "text": "evaṃvidhā hi sā rātriḥ somakānāṃ janakṣaye prasuptānāṃ pramattānām āsīt subhṛśadāruṇā"
+  },
+  {
+    "id": "p-85b22d",
+    "ref": "10.8.143",
+    "text": "asaṃśayaṃ hi kālasya paryāyo duratikramaḥ tādṛśā nihatā yatra kṛtvāsmākaṃ janakṣayam"
+  },
+  {
+    "id": "p-84b22b",
+    "ref": "10.8.144",
+    "text": "dhṛtarāṣṭra uvāca prāg eva sumahat karma drauṇir etan mahārathaḥ nākarod īdṛśaṃ kasmān matputravijaye dhṛtaḥ"
+  },
+  {
+    "id": "p-83b229",
+    "ref": "10.8.145",
+    "text": "atha kasmād dhate kṣatre karmedaṃ kṛtavān asau droṇaputro maheṣvāsas tan me śaṃsitum arhasi"
+  },
+  {
+    "id": "p-82b228",
+    "ref": "10.8.146",
+    "text": "saṃjaya uvāca teṣāṃ nūnaṃ bhayān nāsau kṛtavān kurunandana asāṃnidhyād dhi pārthānāṃ keśavasya ca dhīmataḥ"
+  },
+  {
+    "id": "p-81b226",
+    "ref": "10.8.147",
+    "text": "sātyakeś cāpi karmedaṃ droṇaputreṇa sādhitam na hi teṣāṃ samakṣaṃ tān hanyād api marutpatiḥ"
+  },
+  {
+    "id": "p-80b225",
+    "ref": "10.8.148",
+    "text": "etad īdṛśakaṃ vṛttaṃ rājan suptajane vibho tato janakṣayaṃ kṛtvā pāṇḍavānāṃ mahātyayam diṣṭyā diṣṭyeti cānyonyaṃ sametyocur mahārathāḥ"
+  },
+  {
+    "id": "p-7fb223",
+    "ref": "10.8.149",
+    "text": "paryaṣvajat tato drauṇis tābhyāṃ ca pratinanditaḥ idaṃ harṣāc ca sumahad ādade vākyam uttamam"
+  },
+  {
+    "id": "p-82afe9",
+    "ref": "10.8.150",
+    "text": "pāñcālā nihatāḥ sarve draupadeyāś ca sarvaśaḥ somakā matsyaśeṣāś ca sarve vinihatā mayā"
+  },
+  {
+    "id": "p-83afeb",
+    "ref": "10.8.151",
+    "text": "idānīṃ kṛtakṛtyāḥ sma yāma tatraiva māciram yadi jīvati no rājā tasmai śaṃsāmahe priyam"
+  },
+  {
+    "id": "p-81f827",
+    "ref": "10.9.1",
+    "text": "saṃjaya uvāca te hatvā sarvapāñcālān draupadeyāṃś ca sarvaśaḥ agacchan sahitās tatra yatra duryodhano hataḥ"
+  },
+  {
+    "id": "p-80f826",
+    "ref": "10.9.2",
+    "text": "gatvā cainam apaśyaṃs te kiṃ cit prāṇaṃ narādhipam tato rathebhyaḥ praskandya parivavrus tavātmajam"
+  },
+  {
+    "id": "p-7ff824",
+    "ref": "10.9.3",
+    "text": "taṃ bhagnasakthaṃ rājendra kṛcchraprāṇam acetasam vamantaṃ rudhiraṃ vaktrād apaśyan vasudhātale"
+  },
+  {
+    "id": "p-7ef823",
+    "ref": "10.9.4",
+    "text": "vṛtaṃ samantād bahubhiḥ śvāpadair ghoradarśanaiḥ śālāvṛkagaṇaiś caiva bhakṣayiṣyadbhir antikāt"
+  },
+  {
+    "id": "p-7df821",
+    "ref": "10.9.5",
+    "text": "nivārayantaṃ kṛcchrāt tāñ śvāpadān saṃcikhādiṣūn viveṣṭamānaṃ mahyāṃ ca subhṛśaṃ gāḍhavedanam"
+  },
+  {
+    "id": "p-7cf81f",
+    "ref": "10.9.6",
+    "text": "taṃ śayānaṃ mahātmānaṃ bhūmau svarudhirokṣitam hataśiṣṭās trayo vīrāḥ śokārtāḥ paryavārayan aśvatthāmā kṛpaś caiva kṛtavarmā ca sātvataḥ"
+  },
+  {
+    "id": "p-7bf81e",
+    "ref": "10.9.7",
+    "text": "tais tribhiḥ śoṇitādigdhair niḥśvasadbhir mahārathaiḥ śuśubhe saṃvṛto rājā vedī tribhir ivāgnibhiḥ"
+  },
+  {
+    "id": "p-8af835",
+    "ref": "10.9.8",
+    "text": "te taṃ śayānaṃ saṃprekṣya rājānam atathocitam aviṣahyena duḥkhena tatas te rurudus trayaḥ"
+  },
+  {
+    "id": "p-89f834",
+    "ref": "10.9.9",
+    "text": "tatas te rudhiraṃ hastair mukhān nirmṛjya tasya ha raṇe rājñaḥ śayānasya kṛpaṇaṃ paryadevayan"
+  },
+  {
+    "id": "p-7ba6c8",
+    "ref": "10.9.10",
+    "text": "kṛpa uvāca na daivasyātibhāro 'sti yad ayaṃ rudhirokṣitaḥ ekādaśacamūbhartā śete duryodhano hataḥ"
+  },
+  {
+    "id": "p-7ca6ca",
+    "ref": "10.9.11",
+    "text": "paśya cāmīkarābhasya cāmīkaravibhūṣitām gadāṃ gadāpriyasyemāṃ samīpe patitāṃ bhuvi"
+  },
+  {
+    "id": "p-79a6c5",
+    "ref": "10.9.12",
+    "text": "iyam enaṃ gadā śūraṃ na jahāti raṇe raṇe svargāyāpi vrajantaṃ hi na jahāti yaśasvinam"
+  },
+  {
+    "id": "p-7aa6c7",
+    "ref": "10.9.13",
+    "text": "paśyemāṃ saha vīreṇa jāmbūnadavibhūṣitām śayānāṃ śayane dharme bhāryāṃ prītimatīm iva"
+  },
+  {
+    "id": "p-7fa6cf",
+    "ref": "10.9.14",
+    "text": "yo vai mūrdhāvasiktānām agre yātaḥ paraṃtapaḥ sa hato grasate pāṃsūn paśya kālasya paryayam"
+  },
+  {
+    "id": "p-80a6d0",
+    "ref": "10.9.15",
+    "text": "yenājau nihatā bhūmāv aśerata purā dviṣaḥ sa bhūmau nihataḥ śete kururājaḥ parair ayam"
+  },
+  {
+    "id": "p-7da6cb",
+    "ref": "10.9.16",
+    "text": "bhayān namanti rājāno yasya sma śatasaṃghaśaḥ sa vīraśayane śete kravyādbhiḥ parivāritaḥ"
+  },
+  {
+    "id": "p-7ea6cd",
+    "ref": "10.9.17",
+    "text": "upāsata nṛpāḥ pūrvam arthahetor yam īśvaram dhik sadyo nihataḥ śete paśya kālasya paryayam"
+  },
+  {
+    "id": "p-83a6d5",
+    "ref": "10.9.18",
+    "text": "saṃjaya uvāca taṃ śayānaṃ nṛpaśreṣṭhaṃ tato bharatasattama aśvatthāmā samālokya karuṇaṃ paryadevayat"
+  },
+  {
+    "id": "p-84a6d6",
+    "ref": "10.9.19",
+    "text": "āhus tvāṃ rājaśārdūla mukhyaṃ sarvadhanuṣmatām dhanādhyakṣopamaṃ yuddhe śiṣyaṃ saṃkarṣaṇasya ha"
+  },
+  {
+    "id": "p-15a3e9",
+    "ref": "10.9.20",
+    "text": "kathaṃ vivaram adrākṣīd bhīmasenas tavānagha balinaḥ kṛtino nityaṃ sa ca pāpātmavān nṛpa"
+  },
+  {
+    "id": "p-14a3e8",
+    "ref": "10.9.21",
+    "text": "kālo nūnaṃ mahārāja loke 'smin balavattaraḥ paśyāmo nihataṃ tvāṃ ced bhīmasenena saṃyuge"
+  },
+  {
+    "id": "p-13a3e6",
+    "ref": "10.9.22",
+    "text": "kathaṃ tvāṃ sarvadharmajñaṃ kṣudraḥ pāpo vṛkodaraḥ nikṛtyā hatavān mando nūnaṃ kālo duratyayaḥ"
+  },
+  {
+    "id": "p-12a3e4",
+    "ref": "10.9.23",
+    "text": "dharmayuddhe hy adharmeṇa samāhūyaujasā mṛdhe gadayā bhīmasenena nirbhinne sakthinī tava"
+  },
+  {
+    "id": "p-11a3e3",
+    "ref": "10.9.24",
+    "text": "adharmeṇa hatasyājau mṛdyamānaṃ padā śiraḥ yad upekṣitavān kṣudro dhik tam astu yudhiṣṭhiram"
+  },
+  {
+    "id": "p-10a3e1",
+    "ref": "10.9.25",
+    "text": "yuddheṣv apavadiṣyanti yodhā nūnaṃ vṛkodaram yāvat sthāsyanti bhūtāni nikṛtyā hy asi pātitaḥ"
+  },
+  {
+    "id": "p-0fa3e0",
+    "ref": "10.9.26",
+    "text": "nanu rāmo 'bravīd rājaṃs tvāṃ sadā yadunandanaḥ duryodhanasamo nāsti gadayā iti vīryavān"
+  },
+  {
+    "id": "p-0ea3de",
+    "ref": "10.9.27",
+    "text": "ślāghate tvāṃ hi vārṣṇeyo rājan saṃsatsu bhārata suśiṣyo mama kauravyo gadāyuddha iti prabho"
+  },
+  {
+    "id": "p-0da3dd",
+    "ref": "10.9.28",
+    "text": "yāṃ gatiṃ kṣatriyasyāhuḥ praśastāṃ paramarṣayaḥ hatasyābhimukhasyājau prāptas tvam asi tāṃ gatim"
+  },
+  {
+    "id": "p-0ca3db",
+    "ref": "10.9.29",
+    "text": "duryodhana na śocāmi tvām ahaṃ puruṣarṣabha hataputrāṃ tu śocāmi gāndhārīṃ pitaraṃ ca te bhikṣukau vicariṣyete śocantau pṛthivīm imām"
+  },
+  {
+    "id": "p-0fa1a1",
+    "ref": "10.9.30",
+    "text": "dhig astu kṛṣṇaṃ vārṣṇeyam arjunaṃ cāpi durmatim dharmajñamāninau yau tvāṃ vadhyamānam upekṣatām"
+  },
+  {
+    "id": "p-10a1a3",
+    "ref": "10.9.31",
+    "text": "pāṇḍavāś cāpi te sarve kiṃ vakṣyanti narādhipān kathaṃ duryodhano 'smābhir hata ity anapatrapāḥ"
+  },
+  {
+    "id": "p-11a1a4",
+    "ref": "10.9.32",
+    "text": "dhanyas tvam asi gāndhāre yas tvam āyodhane hataḥ prayāto 'bhimukhaḥ śatrūn dharmeṇa puruṣarṣabha"
+  },
+  {
+    "id": "p-12a1a6",
+    "ref": "10.9.33",
+    "text": "hataputrā hi gāndhārī nihatajñātibāndhavā prajñācakṣuś ca durdharṣaḥ kāṃ gatiṃ pratipatsyate"
+  },
+  {
+    "id": "p-0ba19b",
+    "ref": "10.9.34",
+    "text": "dhig astu kṛtavarmāṇaṃ māṃ kṛpaṃ ca mahāratham ye vayaṃ na gatāḥ svargaṃ tvāṃ puraskṛtya pārthivam"
+  },
+  {
+    "id": "p-0ca19c",
+    "ref": "10.9.35",
+    "text": "dātāraṃ sarvakāmānāṃ rakṣitāraṃ prajāhitam yad vayaṃ nānugacchāmas tvāṃ dhig asmān narādhamān"
+  },
+  {
+    "id": "p-0da19e",
+    "ref": "10.9.36",
+    "text": "kṛpasya tava vīryeṇa mama caiva pituś ca me sabhṛtyānāṃ naravyāghra ratnavanti gṛhāṇi ca"
+  },
+  {
+    "id": "p-0ea1a0",
+    "ref": "10.9.37",
+    "text": "bhavatprasādād asmābhiḥ samitraiḥ sahabāndhavaiḥ avāptāḥ kratavo mukhyā bahavo bhūridakṣiṇāḥ"
+  },
+  {
+    "id": "p-07a194",
+    "ref": "10.9.38",
+    "text": "kutaś cāpīdṛśaṃ sārtham upalapsyāmahe vayam yādṛśena puraskṛtya tvaṃ gataḥ sarvapārthivān"
+  },
+  {
+    "id": "p-08a196",
+    "ref": "10.9.39",
+    "text": "vayam eva trayo rājan gacchantaṃ paramāṃ gatim yad vai tvāṃ nānugacchāmas tena tapsyāmahe vayam"
+  },
+  {
+    "id": "p-099f59",
+    "ref": "10.9.40",
+    "text": "tvatsvargahīnā hīnārthāḥ smarantaḥ sukṛtasya te kiṃ nāma tad bhavet karma yena tvānuvrajema vai"
+  },
+  {
+    "id": "p-089f57",
+    "ref": "10.9.41",
+    "text": "duḥkhaṃ nūnaṃ kuruśreṣṭha cariṣyāmo mahīm imām hīnānāṃ nas tvayā rājan kutaḥ śāntiḥ kutaḥ sukham"
+  },
+  {
+    "id": "p-0b9f5c",
+    "ref": "10.9.42",
+    "text": "gatvaitāṃs tu mahārāja sametya tvaṃ mahārathān yathāśreṣṭhaṃ yathājyeṣṭhaṃ pūjayer vacanān mama"
+  },
+  {
+    "id": "p-0a9f5b",
+    "ref": "10.9.43",
+    "text": "ācāryaṃ pūjayitvā ca ketuṃ sarvadhanuṣmatām hataṃ mayādya śaṃsethā dhṛṣṭadyumnaṃ narādhipa"
+  },
+  {
+    "id": "p-0d9f5f",
+    "ref": "10.9.44",
+    "text": "pariṣvajethā rājānaṃ bāhlikaṃ sumahāratham saindhavaṃ somadattaṃ ca bhūriśravasam eva ca"
+  },
+  {
+    "id": "p-0c9f5e",
+    "ref": "10.9.45",
+    "text": "tathā pūrvagatān anyān svargaṃ pārthivasattamān asmad vākyāt pariṣvajya pṛcchethās tvam anāmayam"
+  },
+  {
+    "id": "p-0f9f62",
+    "ref": "10.9.46",
+    "text": "ity evam uktvā rājānaṃ bhagnasaktham acetasam aśvatthāmā samudvīkṣya punar vacanam abravīt"
+  },
+  {
+    "id": "p-0e9f61",
+    "ref": "10.9.47",
+    "text": "duryodhana jīvasi ced vācaṃ śrotrasukhāṃ śṛṇu sapta pāṇḍavataḥ śeṣā dhārtarāṣṭrās trayo vayam"
+  },
+  {
+    "id": "p-019f4c",
+    "ref": "10.9.48",
+    "text": "te caiva bhrātaraḥ pañca vāsudevo 'tha sātyakiḥ ahaṃ ca kṛtavarmā ca kṛpaḥ śāradvatas tathā"
+  },
+  {
+    "id": "p-009f4b",
+    "ref": "10.9.49",
+    "text": "draupadeyā hatāḥ sarve dhṛṣṭadyumnasya cātmajāḥ pāñcālā nihatāḥ sarve matsyaśeṣaṃ ca bhārata"
+  },
+  {
+    "id": "p-039d11",
+    "ref": "10.9.50",
+    "text": "kṛte pratikṛtaṃ paśya hataputrā hi pāṇḍavāḥ sauptike śibiraṃ teṣāṃ hataṃ sanaravāhanam"
+  },
+  {
+    "id": "p-049d13",
+    "ref": "10.9.51",
+    "text": "mayā ca pāpakarmāsau dhṛṣṭadyumno mahīpate praviśya śibiraṃ rātrau paśumāreṇa māritaḥ"
+  },
+  {
+    "id": "p-019d0e",
+    "ref": "10.9.52",
+    "text": "duryodhanas tu tāṃ vācaṃ niśamya manasaḥ priyām pratilabhya punaś ceta idaṃ vacanam abravīt"
+  },
+  {
+    "id": "p-029d0f",
+    "ref": "10.9.53",
+    "text": "na me 'karot tad gāṅgeyo na karṇo na ca te pitā yat tvayā kṛpabhojābhyāṃ sahitenādya me kṛtam"
+  },
+  {
+    "id": "p-ff9d0b",
+    "ref": "10.9.54",
+    "text": "sa cet senāpatiḥ kṣudro hataḥ sārdhaṃ śikhaṇḍinā tena manye maghavatā samam ātmānam adya vai"
+  },
+  {
+    "id": "p-009d0c",
+    "ref": "10.9.55",
+    "text": "svasti prāpnuta bhadraṃ vaḥ svarge naḥ saṃgamaḥ punaḥ ity evam uktvā tūṣṇīṃ sa kururājo mahāmanāḥ prāṇān udasṛjad vīraḥ suhṛdāṃ śokam ādadhat"
+  },
+  {
+    "id": "p-fd9d08",
+    "ref": "10.9.56",
+    "text": "tatheti te pariṣvaktāḥ pariṣvajya ca taṃ nṛpam punaḥ punaḥ prekṣamāṇāḥ svakān āruruhū rathān"
+  },
+  {
+    "id": "p-fe9d09",
+    "ref": "10.9.57",
+    "text": "ity evaṃ tava putrasya niśamya karuṇāṃ giram pratyūṣakāle śokārtaḥ prādhāvaṃ nagaraṃ prati"
+  },
+  {
+    "id": "p-0b9d1e",
+    "ref": "10.9.58",
+    "text": "tava putre gate svargaṃ śokārtasya mamānagha ṛṣidattaṃ pranaṣṭaṃ tad divyadarśitvam adya vai"
+  },
+  {
+    "id": "p-0c9d1f",
+    "ref": "10.9.59",
+    "text": "vaiśaṃpāyana uvāca iti śrutvā sa nṛpatiḥ putrajñātivadhaṃ tadā niḥśvasya dīrgham uṣṇaṃ ca tataś cintāparo 'bhavat"
+  },
+  {
+    "id": "p-d248f4",
+    "ref": "10.10.1",
+    "text": "vaiśaṃpāyana uvāca tasyāṃ rātryāṃ vyatītāyāṃ dhṛṣṭadyumnasya sārathiḥ śaśaṃsa dharmarājāya sauptike kadanaṃ kṛtam"
+  },
+  {
+    "id": "p-d548f9",
+    "ref": "10.10.2",
+    "text": "draupadeyā mahārāja drupadasyātmajaiḥ saha pramattā niśi viśvastāḥ svapantaḥ śibire svake"
+  },
+  {
+    "id": "p-d448f8",
+    "ref": "10.10.3",
+    "text": "kṛtavarmaṇā nṛśaṃsena gautamena kṛpeṇa ca aśvatthāmnā ca pāpena hataṃ vaḥ śibiraṃ niśi"
+  },
+  {
+    "id": "p-cf48f0",
+    "ref": "10.10.4",
+    "text": "etair naragajāśvānāṃ prāsaśaktiparaśvadhaiḥ sahasrāṇi nikṛntadbhir niḥśeṣaṃ te balaṃ kṛtam"
+  },
+  {
+    "id": "p-ce48ee",
+    "ref": "10.10.5",
+    "text": "chidyamānasya mahato vanasyeva paraśvadhaiḥ śuśruve sumahāñ śabdo balasya tava bhārata"
+  },
+  {
+    "id": "p-d148f3",
+    "ref": "10.10.6",
+    "text": "aham eko 'vaśiṣṭas tu tasmāt sainyān mahīpate muktaḥ kathaṃ cid dharmātman vyagrasya kṛtavarmaṇaḥ"
+  },
+  {
+    "id": "p-d048f1",
+    "ref": "10.10.7",
+    "text": "tac chrutvā vākyam aśivaṃ kuntīputro yudhiṣṭhiraḥ papāta mahyāṃ durdharṣaḥ putraśokasamanvitaḥ"
+  },
+  {
+    "id": "p-cb48e9",
+    "ref": "10.10.8",
+    "text": "taṃ patantam abhikramya parijagrāha sātyakiḥ bhīmaseno 'rjunaś caiva mādrīputrau ca pāṇḍavau"
+  },
+  {
+    "id": "p-ca48e8",
+    "ref": "10.10.9",
+    "text": "labdhacetās tu kaunteyaḥ śokavihvalayā girā jitvā śatrūñ jitaḥ paścāt paryadevayad āturaḥ"
+  },
+  {
+    "id": "p-ccd950",
+    "ref": "10.10.10",
+    "text": "durvidā gatir arthānām api ye divyacakṣuṣaḥ jīyamānā jayanty anye jayamānā vayaṃ jitāḥ"
+  },
+  {
+    "id": "p-cdd952",
+    "ref": "10.10.11",
+    "text": "hatvā bhrātṝn vayasyāṃś ca pitṝn putrān suhṛdgaṇān bandhūn amātyān pautrāṃś ca jitvā sarvāñ jitā vayam"
+  },
+  {
+    "id": "p-ced953",
+    "ref": "10.10.12",
+    "text": "anartho hy arthasaṃkāśas tathārtho 'narthadarśanaḥ jayo 'yam ajayākāro jayas tasmāt parājayaḥ"
+  },
+  {
+    "id": "p-cfd955",
+    "ref": "10.10.13",
+    "text": "yaṃ jitvā tapyate paścād āpanna iva durmatiḥ kathaṃ manyeta vijayaṃ tato jitataraḥ paraiḥ"
+  },
+  {
+    "id": "p-c8d94a",
+    "ref": "10.10.14",
+    "text": "yeṣām arthāya pāpasya dhig jayasya suhṛdvadhe nirjitair apramattair hi vijitā jitakāśinaḥ"
+  },
+  {
+    "id": "p-c9d94b",
+    "ref": "10.10.15",
+    "text": "karṇinālīkadaṃṣṭrasya khaḍgajihvasya saṃyuge cāpavyāttasya raudrasya jyātalasvananādinaḥ"
+  },
+  {
+    "id": "p-cad94d",
+    "ref": "10.10.16",
+    "text": "kruddhasya narasiṃhasya saṃgrāmeṣv apalāyinaḥ ye vyamucyanta karṇasya pramādāt ta ime hatāḥ"
+  },
+  {
+    "id": "p-cbd94e",
+    "ref": "10.10.17",
+    "text": "rathahradaṃ śaravarṣormimantaṃ; ratnācitaṃ vāhanarājiyuktam śaktyṛṣṭimīnadhvajanāganakraṃ; śarāsanāvartamaheṣuphenam"
+  },
+  {
+    "id": "p-d4d95d",
+    "ref": "10.10.18",
+    "text": "saṃgrāmacandrodayavegavelaṃ; droṇārṇavaṃ jyātalanemighoṣam ye terur uccāvacaśastranaubhis; te rājaputrā nihatāḥ pramādāt"
+  },
+  {
+    "id": "p-d5d95e",
+    "ref": "10.10.19",
+    "text": "na hi pramādāt paramo 'sti kaś cid; vadho narāṇām iha jīvaloke pramattam arthā hi naraṃ samantāt; tyajanty anarthāś ca samāviśanti"
+  },
+  {
+    "id": "p-5ee0f2",
+    "ref": "10.10.20",
+    "text": "dhvajottamāgrocchritadhūmaketuṃ; śarārciṣaṃ kopamahāsamīram mahādhanurjyātalanemighoṣaṃ; tanutranānāvidhaśastrahomam"
+  },
+  {
+    "id": "p-5de0f0",
+    "ref": "10.10.21",
+    "text": "mahācamūkakṣavarābhipannaṃ; mahāhave bhīṣmamahādavāgnim ye sehur āttāyataśastravegaṃ; te rājaputrā nihatāḥ pramādāt"
+  },
+  {
+    "id": "p-60e0f5",
+    "ref": "10.10.22",
+    "text": "na hi pramattena nareṇa labhyā; vidyā tapaḥ śrīr vipulaṃ yaśo vā paśyāpramādena nihatya śatrūn; sarvān mahendraṃ sukham edhamānam"
+  },
+  {
+    "id": "p-5fe0f3",
+    "ref": "10.10.23",
+    "text": "indropamān pārthivaputrapautrān; paśyāviśeṣeṇa hatān pramādāt tīrtvā samudraṃ vaṇijaḥ samṛddhāḥ; sannāḥ kunadyām iva helamānāḥ amarṣitair ye nihatāḥ śayānā; niḥsaṃśayaṃ te tridivaṃ prapannāḥ"
+  },
+  {
+    "id": "p-5ae0eb",
+    "ref": "10.10.24",
+    "text": "kṛṣṇāṃ nu śocāmi kathaṃ na sādhvīṃ; śokārṇave sādya vinaṅkṣyatīti bhrātṝṃś ca putrāṃś ca hatān niśamya; pāñcālarājaṃ pitaraṃ ca vṛddham dhruvaṃ visaṃjñā patitā pṛthivyāṃ; sā śeṣyate śokakṛśāṅgayaṣṭiḥ"
+  },
+  {
+    "id": "p-59e0ea",
+    "ref": "10.10.25",
+    "text": "tac chokajaṃ duḥkham apārayantī; kathaṃ bhaviṣyaty ucitā sukhānām putrakṣayabhrātṛvadhapraṇunnā; pradahyamāneva hutāśanena"
+  },
+  {
+    "id": "p-5ce0ef",
+    "ref": "10.10.26",
+    "text": "ity evam ārtaḥ paridevayan sa; rājā kurūṇāṃ nakulaṃ babhāṣe gacchānayainām iha mandabhāgyāṃ; samātṛpakṣām iti rājaputrīm"
+  },
+  {
+    "id": "p-5be0ed",
+    "ref": "10.10.27",
+    "text": "mādrīsutas tat parigṛhya vākyaṃ; dharmeṇa dharmapratimasya rājñaḥ yayau rathenālayam āśu devyāḥ; pāñcālarājasya ca yatra dārāḥ"
+  },
+  {
+    "id": "p-56e0e5",
+    "ref": "10.10.28",
+    "text": "prasthāpya mādrīsutam ājamīḍhaḥ; śokārditas taiḥ sahitaḥ suhṛdbhiḥ rorūyamāṇaḥ prayayau sutānām; āyodhanaṃ bhūtagaṇānukīrṇam"
+  },
+  {
+    "id": "p-55e0e3",
+    "ref": "10.10.29",
+    "text": "sa tat praviśyāśivam ugrarūpaṃ; dadarśa putrān suhṛdaḥ sakhīṃś ca bhūmau śayānān rudhirārdragātrān; vibhinnabhagnāpahṛtottamāṅgān"
+  },
+  {
+    "id": "p-58deaa",
+    "ref": "10.10.30",
+    "text": "sa tāṃs tu dṛṣṭvā bhṛśam ārtarūpo; yudhiṣṭhiro dharmabhṛtāṃ variṣṭhaḥ uccaiḥ pracukrośa ca kauravāgryaḥ; papāta corvyāṃ sagaṇo visaṃjñaḥ"
+  },
+  {
+    "id": "p-cdbb49",
+    "ref": "10.11.1",
+    "text": "vaiśaṃpāyana uvāca sa dṛṣṭvā nihatān saṃkhye putrān bhrātṝn sakhīṃs tathā mahāduḥkhaparītātmā babhūva janamejaya"
+  },
+  {
+    "id": "p-cebb4a",
+    "ref": "10.11.2",
+    "text": "tatas tasya mahāñ śokaḥ prādurāsīn mahātmanaḥ smarataḥ putrapautrāṇāṃ bhrātṝṇāṃ svajanasya ha"
+  },
+  {
+    "id": "p-cfbb4c",
+    "ref": "10.11.3",
+    "text": "tam aśruparipūrṇākṣaṃ vepamānam acetasam suhṛdo bhṛśasaṃvignāḥ sāntvayāṃ cakrire tadā"
+  },
+  {
+    "id": "p-d0bb4d",
+    "ref": "10.11.4",
+    "text": "tatas tasmin kṣaṇe kālye rathenādityavarcasā nakulaḥ kṛṣṇayā sārdham upāyāt paramārtayā"
+  },
+  {
+    "id": "p-d1bb4f",
+    "ref": "10.11.5",
+    "text": "upaplavyagatā sā tu śrutvā sumahad apriyam tadā vināśaṃ putrāṇāṃ sarveṣāṃ vyathitābhavat"
+  },
+  {
+    "id": "p-d2bb51",
+    "ref": "10.11.6",
+    "text": "kampamāneva kadalī vātenābhisamīritā kṛṣṇā rājānam āsādya śokārtā nyapatad bhuvi"
+  },
+  {
+    "id": "p-d3bb52",
+    "ref": "10.11.7",
+    "text": "babhūva vadanaṃ tasyāḥ sahasā śokakarśitam phullapadmapalāśākṣyās tamodhvasta ivāṃśumān"
+  },
+  {
+    "id": "p-d4bb54",
+    "ref": "10.11.8",
+    "text": "tatas tāṃ patitāṃ dṛṣṭvā saṃrambhī satyavikramaḥ bāhubhyāṃ parijagrāha samupetya vṛkodaraḥ"
+  },
+  {
+    "id": "p-d5bb55",
+    "ref": "10.11.9",
+    "text": "sā samāśvāsitā tena bhīmasenena bhāminī rudatī pāṇḍavaṃ kṛṣṇā sahabhrātaram abravīt"
+  },
+  {
+    "id": "p-e0d3ef",
+    "ref": "10.11.10",
+    "text": "diṣṭyā rājaṃs tvam adyemām akhilāṃ bhokṣyase mahīm ātmajān kṣatradharmeṇa saṃpradāya yamāya vai"
+  },
+  {
+    "id": "p-dfd3ee",
+    "ref": "10.11.11",
+    "text": "diṣṭyā tvaṃ pārtha kuśalī mattamātaṅgagāminam avāpya pṛthivīṃ kṛtsnāṃ saubhadraṃ na smariṣyasi"
+  },
+  {
+    "id": "p-ded3ec",
+    "ref": "10.11.12",
+    "text": "ātmajāṃs tena dharmeṇa śrutvā śūrān nipātitān upaplavye mayā sārdhaṃ diṣṭyā tvaṃ na smariṣyasi"
+  },
+  {
+    "id": "p-ddd3eb",
+    "ref": "10.11.13",
+    "text": "prasuptānāṃ vadhaṃ śrutvā drauṇinā pāpakarmaṇā śokas tapati māṃ pārtha hutāśana ivāśayam"
+  },
+  {
+    "id": "p-e4d3f6",
+    "ref": "10.11.14",
+    "text": "tasya pāpakṛto drauṇer na ced adya tvayā mṛdhe hriyate sānubandhasya yudhi vikramya jīvitam"
+  },
+  {
+    "id": "p-e3d3f4",
+    "ref": "10.11.15",
+    "text": "ihaiva prāyam āsiṣye tan nibodhata pāṇḍavāḥ na cet phalam avāpnoti drauṇiḥ pāpasya karmaṇaḥ"
+  },
+  {
+    "id": "p-e2d3f2",
+    "ref": "10.11.16",
+    "text": "evam uktvā tataḥ kṛṣṇā pāṇḍavaṃ pratyupāviśat yudhiṣṭhiraṃ yājñasenī dharmarājaṃ yaśasvinī"
+  },
+  {
+    "id": "p-e1d3f1",
+    "ref": "10.11.17",
+    "text": "dṛṣṭvopaviṣṭāṃ rājarṣiḥ pāṇḍavo mahiṣīṃ priyām pratyuvāca sa dharmātmā draupadīṃ cārudarśanām"
+  },
+  {
+    "id": "p-e8d3fc",
+    "ref": "10.11.18",
+    "text": "dharmyaṃ dharmeṇa dharmajñe prāptās te nidhanaṃ śubhe putrās te bhrātaraś caiva tān na śocitum arhasi"
+  },
+  {
+    "id": "p-e7d3fa",
+    "ref": "10.11.19",
+    "text": "droṇaputraḥ sa kalyāṇi vanaṃ dūram ito gataḥ tasya tvaṃ pātanaṃ saṃkhye kathaṃ jñāsyasi śobhane"
+  },
+  {
+    "id": "p-66d701",
+    "ref": "10.11.20",
+    "text": "draupady uvāca droṇaputrasya sahajo maṇiḥ śirasi me śrutaḥ nihatya saṃkhye taṃ pāpaṃ paśyeyaṃ maṇim āhṛtam rājañ śirasi taṃ kṛtvā jīveyam iti me matiḥ"
+  },
+  {
+    "id": "p-67d702",
+    "ref": "10.11.21",
+    "text": "vaiśaṃpāyana uvāca ity uktvā pāṇḍavaṃ kṛṣṇā rājānaṃ cārudarśanā bhīmasenam athābhyetya kupitā vākyam abravīt"
+  },
+  {
+    "id": "p-64d6fe",
+    "ref": "10.11.22",
+    "text": "trātum arhasi māṃ bhīma kṣatradharmam anusmaran jahi taṃ pāpakarmāṇaṃ śambaraṃ maghavān iva na hi te vikrame tulyaḥ pumān astīha kaś cana"
+  },
+  {
+    "id": "p-65d6ff",
+    "ref": "10.11.23",
+    "text": "śrutaṃ tat sarvalokeṣu paramavyasane yathā dvīpo 'bhūs tvaṃ hi pārthānāṃ nagare vāraṇāvate hiḍimbadarśane caiva tathā tvam abhavo gatiḥ"
+  },
+  {
+    "id": "p-62d6fa",
+    "ref": "10.11.24",
+    "text": "tathā virāṭanagare kīcakena bhṛśārditām mām apy uddhṛtavān kṛcchrāt paulomīṃ maghavān iva"
+  },
+  {
+    "id": "p-63d6fc",
+    "ref": "10.11.25",
+    "text": "yathaitāny akṛthāḥ pārtha mahākarmāṇi vai purā tathā drauṇim amitraghna vinihatya sukhī bhava"
+  },
+  {
+    "id": "p-60d6f7",
+    "ref": "10.11.26",
+    "text": "tasyā bahuvidhaṃ duḥkhān niśamya paridevitam nāmarṣayata kaunteyo bhīmaseno mahābalaḥ"
+  },
+  {
+    "id": "p-61d6f9",
+    "ref": "10.11.27",
+    "text": "sa kāñcanavicitrāṅgam āruroha mahāratham ādāya ruciraṃ citraṃ samārgaṇaguṇaṃ dhanuḥ"
+  },
+  {
+    "id": "p-6ed70d",
+    "ref": "10.11.28",
+    "text": "nakulaṃ sārathiṃ kṛtvā droṇaputravadhe vṛtaḥ visphārya saśaraṃ cāpaṃ tūrṇam aśvān acodayat"
+  },
+  {
+    "id": "p-6fd70f",
+    "ref": "10.11.29",
+    "text": "te hayāḥ puruṣavyāghra coditā vātaraṃhasaḥ vegena tvaritā jagmur harayaḥ śīghragāminaḥ"
+  },
+  {
+    "id": "p-6cd949",
+    "ref": "10.11.30",
+    "text": "śibirāt svād gṛhītvā sa rathasya padam acyutaḥ droṇaputrarathasyāśu yayau mārgeṇa vīryavān"
+  },
+  {
+    "id": "p-7ce801",
+    "ref": "10.12.1",
+    "text": "vaiśaṃpāyana uvāca tasmin prayāte durdharṣe yadūnām ṛṣabhas tataḥ abravīt puṇḍarīkākṣaḥ kuntīputraṃ yudhiṣṭhiram"
+  },
+  {
+    "id": "p-7be7ff",
+    "ref": "10.12.2",
+    "text": "eṣa pāṇḍava te bhrātā putraśokam apārayan jighāṃsur drauṇim ākrande yāti bhārata bhārataḥ"
+  },
+  {
+    "id": "p-7ae7fe",
+    "ref": "10.12.3",
+    "text": "bhīmaḥ priyas te sarvebhyo bhrātṛbhyo bharatarṣabha taṃ kṛcchragatam adya tvaṃ kasmān nābhyavapadyase"
+  },
+  {
+    "id": "p-79e7fc",
+    "ref": "10.12.4",
+    "text": "yat tad ācaṣṭa putrāya droṇaḥ parapuraṃjayaḥ astraṃ brahmaśiro nāma dahed yat pṛthivīm api"
+  },
+  {
+    "id": "p-78e7fa",
+    "ref": "10.12.5",
+    "text": "tan mahātmā mahābhāgaḥ ketuḥ sarvadhanuṣmatām pratyapādayad ācāryaḥ prīyamāṇo dhanaṃjayam"
+  },
+  {
+    "id": "p-77e7f9",
+    "ref": "10.12.6",
+    "text": "tatputro 'syaivam evainam anvayācad amarṣaṇaḥ tataḥ provāca putrāya nātihṛṣṭamanā iva"
+  },
+  {
+    "id": "p-76e7f7",
+    "ref": "10.12.7",
+    "text": "viditaṃ cāpalaṃ hy āsīd ātmajasya mahātmanaḥ sarvadharmavid ācāryo nānviṣat satataṃ sutam"
+  },
+  {
+    "id": "p-75e7f6",
+    "ref": "10.12.8",
+    "text": "paramāpadgatenāpi na sma tāta tvayā raṇe idam astraṃ prayoktavyaṃ mānuṣeṣu viśeṣataḥ"
+  },
+  {
+    "id": "p-74e7f4",
+    "ref": "10.12.9",
+    "text": "ity uktavān guruḥ putraṃ droṇaḥ paścād athoktavān na tvaṃ jātu satāṃ mārge sthāteti puruṣarṣabha"
+  },
+  {
+    "id": "p-1b3a53",
+    "ref": "10.12.10",
+    "text": "sa tad ājñāya duṣṭātmā pitur vacanam apriyam nirāśaḥ sarvakalyāṇaiḥ śocan paryapatan mahīm"
+  },
+  {
+    "id": "p-1c3a54",
+    "ref": "10.12.11",
+    "text": "tatas tadā kuruśreṣṭha vanasthe tvayi bhārata avasad dvārakām etya vṛṣṇibhiḥ paramārcitaḥ"
+  },
+  {
+    "id": "p-193a4f",
+    "ref": "10.12.12",
+    "text": "sa kadā cit samudrānte vasan drāravatīm anu eka ekaṃ samāgamya mām uvāca hasann iva"
+  },
+  {
+    "id": "p-1a3a51",
+    "ref": "10.12.13",
+    "text": "yat tad ugraṃ tapaḥ kṛṣṇa caran satyaparākramaḥ agastyād bhāratācāryaḥ pratyapadyata me pitā"
+  },
+  {
+    "id": "p-1f3a59",
+    "ref": "10.12.14",
+    "text": "astraṃ brahmaśiro nāma devagandharvapūjitam tad adya mayi dāśārha yathā pitari me tathā"
+  },
+  {
+    "id": "p-203a5a",
+    "ref": "10.12.15",
+    "text": "asmattas tad upādāya divyam astraṃ yadūttama mamāpy astraṃ prayaccha tvaṃ cakraṃ ripuharaṇaṃ raṇe"
+  },
+  {
+    "id": "p-1d3a56",
+    "ref": "10.12.16",
+    "text": "sa rājan prīyamāṇena mayāpy uktaḥ kṛtāñjaliḥ yācamānaḥ prayatnena matto 'straṃ bharatarṣabha"
+  },
+  {
+    "id": "p-1e3a57",
+    "ref": "10.12.17",
+    "text": "devadānavagandharvamanuṣyapatagoragāḥ na samā mama vīryasya śatāṃśenāpi piṇḍitāḥ"
+  },
+  {
+    "id": "p-133a46",
+    "ref": "10.12.18",
+    "text": "idaṃ dhanur iyaṃ śaktir idaṃ cakram iyaṃ gadā yad yad icchasi ced astraṃ mattas tat tad dadāni te"
+  },
+  {
+    "id": "p-143a48",
+    "ref": "10.12.19",
+    "text": "yac chaknoṣi samudyantuṃ prayoktum api vā raṇe tad gṛhāṇa vināstreṇa yan me dātum abhīpsasi"
+  },
+  {
+    "id": "p-953741",
+    "ref": "10.12.20",
+    "text": "sa sunābhaṃ sahasrāraṃ vajranābham ayasmayam vavre cakraṃ mahābāho spardhamāno mayā saha"
+  },
+  {
+    "id": "p-94373f",
+    "ref": "10.12.21",
+    "text": "gṛhāṇa cakram ity ukto mayā tu tadanantaram jagrāhopetya sahasā cakraṃ savyena pāṇinā na caitad aśakat sthānāt saṃcālayitum acyuta"
+  },
+  {
+    "id": "p-93373e",
+    "ref": "10.12.22",
+    "text": "atha tad dakṣiṇenāpi grahītum upacakrame sarvayatnena tenāpi gṛhṇann etad akalpayat"
+  },
+  {
+    "id": "p-92373c",
+    "ref": "10.12.23",
+    "text": "tataḥ sarvabalenāpi yac caitan na śaśāka saḥ uddhartuṃ vā cālayituṃ drauṇiḥ paramadurmanāḥ kṛtvā yatnaṃ paraṃ śrāntaḥ sa nyavartata bhārata"
+  },
+  {
+    "id": "p-91373b",
+    "ref": "10.12.24",
+    "text": "nivṛttam atha taṃ tasmād abhiprāyād vicetasam aham āmantrya susnigdham aśvatthāmānam abruvam"
+  },
+  {
+    "id": "p-903739",
+    "ref": "10.12.25",
+    "text": "yaḥ sa devamanuṣyeṣu pramāṇaṃ paramaṃ gataḥ gāṇḍīvadhanvā śvetāśvaḥ kapipravaraketanaḥ"
+  },
+  {
+    "id": "p-8f3738",
+    "ref": "10.12.26",
+    "text": "yaḥ sākṣād devadeveśaṃ śitikaṇṭham umāpatim dvaṃdvayuddhe parājiṣṇus toṣayām āsa śaṃkaram"
+  },
+  {
+    "id": "p-8e3736",
+    "ref": "10.12.27",
+    "text": "yasmāt priyataro nāsti mamānyaḥ puruṣo bhuvi nādeyaṃ yasya me kiṃ cid api dārāḥ sutās tathā"
+  },
+  {
+    "id": "p-9d374e",
+    "ref": "10.12.28",
+    "text": "tenāpi suhṛdā brahman pārthenākliṣṭakarmaṇā noktapurvam idaṃ vākyaṃ yat tvaṃ mām abhibhāṣase"
+  },
+  {
+    "id": "p-9c374c",
+    "ref": "10.12.29",
+    "text": "brahmacaryaṃ mahad ghoraṃ cīrtvā dvādaśavārṣikam himavatpārśvam abhyetya yo mayā tapasārcitaḥ"
+  },
+  {
+    "id": "p-8f34f9",
+    "ref": "10.12.30",
+    "text": "samānavratacāriṇyāṃ rukmiṇyāṃ yo 'nvajāyata sanatkumāras tejasvī pradyumno nāma me sutaḥ"
+  },
+  {
+    "id": "p-9034fb",
+    "ref": "10.12.31",
+    "text": "tenāpy etan mahad divyaṃ cakram apratimaṃ mama na prārthitam abhūn mūḍha yad idaṃ prārthitaṃ tvayā"
+  },
+  {
+    "id": "p-9134fc",
+    "ref": "10.12.32",
+    "text": "rāmeṇātibalenaitan noktapūrvaṃ kadā cana na gadena na sāmbena yad idaṃ prārthitaṃ tvayā"
+  },
+  {
+    "id": "p-9234fe",
+    "ref": "10.12.33",
+    "text": "dvārakāvāsibhiś cānyair vṛṣṇyandhakamahārathaiḥ noktapūrvam idaṃ jātu yad idaṃ prārthitaṃ tvayā"
+  },
+  {
+    "id": "p-8b34f3",
+    "ref": "10.12.34",
+    "text": "bhāratācāryaputraḥ san mānitaḥ sarvayādavaiḥ cakreṇa rathināṃ śreṣṭha kiṃ nu tāta yuyutsase"
+  },
+  {
+    "id": "p-8c34f4",
+    "ref": "10.12.35",
+    "text": "evam ukto mayā drauṇir mām idaṃ pratyuvāca ha prayujya bhavate pūjāṃ yotsye kṛṣṇa tvayety uta"
+  },
+  {
+    "id": "p-8d34f6",
+    "ref": "10.12.36",
+    "text": "tatas te prārthitaṃ cakraṃ devadānavapūjitam ajeyaḥ syām iti vibho satyam etad bravīmi te"
+  },
+  {
+    "id": "p-8e34f7",
+    "ref": "10.12.37",
+    "text": "tvatto 'haṃ durlabhaṃ kāmam anavāpyaiva keśava pratiyāsyāmi govinda śivenābhivadasva mām"
+  },
+  {
+    "id": "p-973506",
+    "ref": "10.12.38",
+    "text": "etat sunābhaṃ vṛṣṇīnām ṛṣabheṇa tvayā dhṛtam cakram apraticakreṇa bhuvi nānyo 'bhipadyate"
+  },
+  {
+    "id": "p-983507",
+    "ref": "10.12.39",
+    "text": "etāvad uktvā drauṇir māṃ yugyam aśvān dhanāni ca ādāyopayayau bālo ratnāni vividhāni ca"
+  },
+  {
+    "id": "p-8932b1",
+    "ref": "10.12.40",
+    "text": "sa saṃrambhī durātmā ca capalaḥ krūra eva ca veda cāstraṃ brahmaśiras tasmād rakṣyo vṛkodaraḥ"
+  },
+  {
+    "id": "p-776cd2",
+    "ref": "10.13.1",
+    "text": "vaiśaṃpāyana uvāca evam uktvā yudhāṃ śreṣṭhaḥ sarvayādavanandanaḥ sarvāyudhavaropetam āruroha mahāratham yuktaṃ paramakāmbojais turagair hemamālibhiḥ"
+  },
+  {
+    "id": "p-746cce",
+    "ref": "10.13.2",
+    "text": "ādityodayavarṇasya dhuraṃ rathavarasya tu dakṣiṇām avahat sainyaḥ sugrīvaḥ savyato 'vahat pārṣṇivāhau tu tasyāstāṃ meghapuṣpabalāhakau"
+  },
+  {
+    "id": "p-756ccf",
+    "ref": "10.13.3",
+    "text": "viśvakarmakṛtā divyā nānāratnavibhūṣitā ucchriteva rathe māyā dhvajayaṣṭir adṛśyata"
+  },
+  {
+    "id": "p-7a6cd7",
+    "ref": "10.13.4",
+    "text": "vainateyaḥ sthitas tasyāṃ prabhāmaṇḍalaraśmivān tasya satyavataḥ ketur bhujagārir adṛśyata"
+  },
+  {
+    "id": "p-7b6cd9",
+    "ref": "10.13.5",
+    "text": "anvārohad dhṛṣīkeśaḥ ketuḥ sarvadhanuṣmatām arjunaḥ satyakarmā ca kururājo yudhiṣṭhiraḥ"
+  },
+  {
+    "id": "p-786cd4",
+    "ref": "10.13.6",
+    "text": "aśobhetāṃ mahātmānau dāśārham abhitaḥ sthitau rathasthaṃ śārṅgadhanvānam aśvināv iva vāsavam"
+  },
+  {
+    "id": "p-796cd6",
+    "ref": "10.13.7",
+    "text": "tāv upāropya dāśārhaḥ syandanaṃ lokapūjitam pratodena javopetān paramāśvān acodayat"
+  },
+  {
+    "id": "p-7e6cdd",
+    "ref": "10.13.8",
+    "text": "te hayāḥ sahasotpetur gṛhītvā syandanottamam āsthitaṃ pāṇḍaveyābhyāṃ yadūnām ṛṣabheṇa ca"
+  },
+  {
+    "id": "p-7f6cdf",
+    "ref": "10.13.9",
+    "text": "vahatāṃ śārṅgadhanvānam aśvānāṃ śīghragāminām prādurāsīn mahāñ śabdaḥ pakṣiṇāṃ patatām iva"
+  },
+  {
+    "id": "p-d94feb",
+    "ref": "10.13.10",
+    "text": "te samārchan naravyāghrāḥ kṣaṇena bharatarṣabha bhīmasenaṃ maheṣvāsaṃ samanudrutya vegitāḥ"
+  },
+  {
+    "id": "p-d84fea",
+    "ref": "10.13.11",
+    "text": "krodhadīptaṃ tu kaunteyaṃ dviṣadarthe samudyatam nāśaknuvan vārayituṃ sametyāpi mahārathāḥ"
+  },
+  {
+    "id": "p-db4fee",
+    "ref": "10.13.12",
+    "text": "sa teṣāṃ prekṣatām eva śrīmatāṃ dṛḍhadhanvinām yayau bhāgirathīkacchaṃ haribhir bhṛśavegitaiḥ yatra sma śrūyate drauṇiḥ putrahantā mahātmanām"
+  },
+  {
+    "id": "p-da4fed",
+    "ref": "10.13.13",
+    "text": "sa dadarśa mahātmānam udakānte yaśasvinam kṛṣṇadvaipāyanaṃ vyāsam āsīnam ṛṣibhiḥ saha"
+  },
+  {
+    "id": "p-dd4ff1",
+    "ref": "10.13.14",
+    "text": "taṃ caiva krūrakarmāṇaṃ ghṛtāktaṃ kuśacīriṇam rajasā dhvastakeśāntaṃ dadarśa drauṇim antike"
+  },
+  {
+    "id": "p-dc4ff0",
+    "ref": "10.13.15",
+    "text": "tam abhyadhāvat kaunteyaḥ pragṛhya saśaraṃ dhanuḥ bhīmaseno mahābāhus tiṣṭha tiṣṭheti cābravīt"
+  },
+  {
+    "id": "p-df4ff5",
+    "ref": "10.13.16",
+    "text": "sa dṛṣṭvā bhīmadhanvānaṃ pragṛhītaśarāsanam bhrātarau pṛṣṭhataś cāsya janārdanarathe sthitau vyathitātmābhavad drauṇiḥ prāptaṃ cedam amanyata"
+  },
+  {
+    "id": "p-de4ff3",
+    "ref": "10.13.17",
+    "text": "sa tad divyam adīnātmā paramāstram acintayat jagrāha ca sa caiṣīkāṃ drauṇiḥ savyena pāṇinā sa tām āpadam āsādya divyam astram udīrayat"
+  },
+  {
+    "id": "p-d14fdf",
+    "ref": "10.13.18",
+    "text": "amṛṣyamāṇas tāñ śūrān divyāyudhadharān sthitān apāṇḍavāyeti ruṣā vyasṛjad dāruṇaṃ vacaḥ"
+  },
+  {
+    "id": "p-d04fdd",
+    "ref": "10.13.19",
+    "text": "ity uktvā rājaśārdūla droṇaputraḥ pratāpavān sarvalokapramohārthaṃ tad astraṃ pramumoca ha"
+  },
+  {
+    "id": "p-47484a",
+    "ref": "10.13.20",
+    "text": "tatas tasyām iṣīkāyāṃ pāvakaḥ samajāyata pradhakṣyann iva lokāṃs trīn kālāntakayamopamaḥ"
+  },
+  {
+    "id": "p-fda7e3",
+    "ref": "10.14.1",
+    "text": "vaiśaṃpāyana uvāca iṅgitenaiva dāśārhas tam abhiprāyam āditaḥ drauṇer buddhvā mahābāhur arjunaṃ pratyabhāṣata"
+  },
+  {
+    "id": "p-00a7e8",
+    "ref": "10.14.2",
+    "text": "arjunārjuna yad divyam astraṃ te hṛdi vartate droṇopadiṣṭaṃ tasyāyaṃ kālaḥ saṃprati pāṇḍava"
+  },
+  {
+    "id": "p-ffa7e6",
+    "ref": "10.14.3",
+    "text": "bhrātṝṇām ātmanaś caiva paritrāṇāya bhārata visṛjaitat tvam apy ājāv astram astranivāraṇam"
+  },
+  {
+    "id": "p-02a7eb",
+    "ref": "10.14.4",
+    "text": "keśavenaivam uktas tu pāṇḍavaḥ paravīrahā avātarad rathāt tūrṇaṃ pragṛhya saśaraṃ dhanuḥ"
+  },
+  {
+    "id": "p-01a7e9",
+    "ref": "10.14.5",
+    "text": "pūrvam ācāryaputrāya tato 'nantaram ātmane bhrātṛbhyaś caiva sarvebhyaḥ svastīty uktvā paraṃtapaḥ"
+  },
+  {
+    "id": "p-04a7ee",
+    "ref": "10.14.6",
+    "text": "devatābhyo namaskṛtya gurubhyaś caiva sarvaśaḥ utsasarja śivaṃ dhyāyann astram astreṇa śāmyatām"
+  },
+  {
+    "id": "p-03a7ec",
+    "ref": "10.14.7",
+    "text": "tatas tad astraṃ sahasā sṛṣṭaṃ gāṇḍīvadhanvanā prajajvāla mahārciṣmad yugāntānalasaṃnibham"
+  },
+  {
+    "id": "p-f6a7d8",
+    "ref": "10.14.8",
+    "text": "tathaiva droṇaputrasya tad astraṃ tigmatejasaḥ prajajvāla mahājvālaṃ tejomaṇḍalasaṃvṛtam"
+  },
+  {
+    "id": "p-f5a7d6",
+    "ref": "10.14.9",
+    "text": "nirghātā bahavaś cāsan petur ulkāḥ sahasraśaḥ mahad bhayaṃ ca bhūtānāṃ sarveṣāṃ samajāyata"
+  },
+  {
+    "id": "p-074b7a",
+    "ref": "10.14.10",
+    "text": "saśabdam abhavad vyoma jvālāmālākulaṃ bhṛśam cacāla ca mahī kṛtsnā saparvatavanadrumā"
+  },
+  {
+    "id": "p-084b7c",
+    "ref": "10.14.11",
+    "text": "te astre tejasā lokāṃs tāpayantī vyavasthite maharṣī sahitau tatra darśayām āsatus tadā"
+  },
+  {
+    "id": "p-094b7d",
+    "ref": "10.14.12",
+    "text": "nāradaḥ sa ca dharmātmā bharatānāṃ pitāmahaḥ ubhau śamayituṃ vīrau bhāradvājadhanaṃjayau"
+  },
+  {
+    "id": "p-0a4b7f",
+    "ref": "10.14.13",
+    "text": "tau munī sarvadharmajñau sarvabhūtahitaiṣiṇau dīptayor astrayor madhye sthitau paramatejasau"
+  },
+  {
+    "id": "p-0b4b80",
+    "ref": "10.14.14",
+    "text": "tadantaram anādhṛṣyāv upagamya yaśasvinau āstām ṛṣivarau tatra jvalitāv iva pāvakau"
+  },
+  {
+    "id": "p-0c4b82",
+    "ref": "10.14.15",
+    "text": "prāṇabhṛdbhir anādhṛṣyau devadānavasaṃmatau astratejaḥ śamayituṃ lokānāṃ hitakāmyayā"
+  },
+  {
+    "id": "p-0d4b84",
+    "ref": "10.14.16",
+    "text": "ṛṣī ūcatuḥ nānāśastravidaḥ pūrve ye 'py atītā mahārathāḥ naitad astraṃ manuṣyeṣu taiḥ prayuktaṃ kathaṃ cana"
+  },
+  {
+    "id": "p-98cb81",
+    "ref": "10.15.1",
+    "text": "vaiśaṃpāyana uvāca dṛṣṭvaiva naraśārdūlas tāv agnisamatejasau saṃjahāra śaraṃ divyaṃ tvaramāṇo dhanaṃjayaḥ"
+  },
+  {
+    "id": "p-99cb83",
+    "ref": "10.15.2",
+    "text": "uvāca vadatāṃ śreṣṭhas tāv ṛṣī prāñjalis tadā prayuktam astram astreṇa śāmyatām iti vai mayā"
+  },
+  {
+    "id": "p-9acb84",
+    "ref": "10.15.3",
+    "text": "saṃhṛte paramāstre 'smin sarvān asmān aśeṣataḥ pāpakarmā dhruvaṃ drauṇiḥ pradhakṣyaty astratejasā"
+  },
+  {
+    "id": "p-93cb79",
+    "ref": "10.15.4",
+    "text": "atra yad dhitam asmākaṃ lokānāṃ caiva sarvathā bhavantau devasaṃkāśau tathā saṃhartum arhataḥ"
+  },
+  {
+    "id": "p-94cb7b",
+    "ref": "10.15.5",
+    "text": "ity uktvā saṃjahārāstraṃ punar eva dhanaṃjayaḥ saṃhāro duṣkaras tasya devair api hi saṃyuge"
+  },
+  {
+    "id": "p-95cb7d",
+    "ref": "10.15.6",
+    "text": "visṛṣṭasya raṇe tasya paramāstrasya saṃgrahe na śaktaḥ pāṇḍavād anyaḥ sākṣād api śatakratuḥ"
+  },
+  {
+    "id": "p-96cb7e",
+    "ref": "10.15.7",
+    "text": "brahmatejobhavaṃ tad dhi visṛṣṭam akṛtātmanā na śakyam āvartayituṃ brahmacārivratād ṛte"
+  },
+  {
+    "id": "p-8fcb73",
+    "ref": "10.15.8",
+    "text": "acīrṇabrahmacaryo yaḥ sṛṣṭvāvartayate punaḥ tad astraṃ sānubandhasya mūrdhānaṃ tasya kṛntati"
+  },
+  {
+    "id": "p-90cb75",
+    "ref": "10.15.9",
+    "text": "brahmacārī vratī cāpi duravāpam avāpya tat paramavyasanārto 'pi nārjuno 'straṃ vyamuñcata"
+  },
+  {
+    "id": "p-7f5d97",
+    "ref": "10.15.10",
+    "text": "satyavratadharaḥ śūro brahmacārī ca pāṇḍavaḥ guruvartī ca tenāstraṃ saṃjahārārjunaḥ punaḥ"
+  },
+  {
+    "id": "p-7e5d96",
+    "ref": "10.15.11",
+    "text": "drauṇir apy atha saṃprekṣya tāv ṛṣī purataḥ sthitau na śaśāka punar ghoram astraṃ saṃhartum āhave"
+  },
+  {
+    "id": "p-7d5d94",
+    "ref": "10.15.12",
+    "text": "aśaktaḥ pratisaṃhāre paramāstrasya saṃyuge drauṇir dīnamanā rājan dvaipāyanam abhāṣata"
+  },
+  {
+    "id": "p-7c5d93",
+    "ref": "10.15.13",
+    "text": "uttamavyasanārtena prāṇatrāṇam abhīpsunā mayaitad astram utsṛṣṭaṃ bhīmasenabhayān mune"
+  },
+  {
+    "id": "p-7b5d91",
+    "ref": "10.15.14",
+    "text": "adharmaś ca kṛto 'nena dhārtarāṣṭraṃ jighāṃsatā mithyācāreṇa bhagavan bhīmasenena saṃyuge"
+  },
+  {
+    "id": "p-7a5d8f",
+    "ref": "10.15.15",
+    "text": "ataḥ sṛṣṭam idaṃ brahman mayāstram akṛtātmanā tasya bhūyo 'dya saṃhāraṃ kartuṃ nāham ihotsahe"
+  },
+  {
+    "id": "p-795d8e",
+    "ref": "10.15.16",
+    "text": "visṛṣṭaṃ hi mayā divyam etad astraṃ durāsadam apāṇḍavāyeti mune vahnitejo 'numantrya vai"
+  },
+  {
+    "id": "p-785d8c",
+    "ref": "10.15.17",
+    "text": "tad idaṃ pāṇḍaveyānām antakāyābhisaṃhitam adya pāṇḍusutān sarvāñ jīvitād bhraṃśayiṣyati"
+  },
+  {
+    "id": "p-875da4",
+    "ref": "10.15.18",
+    "text": "kṛtaṃ pāpam idaṃ brahman roṣāviṣṭena cetasā vadham āśāsya pārthānāṃ mayāstraṃ sṛjatā raṇe"
+  },
+  {
+    "id": "p-865da2",
+    "ref": "10.15.19",
+    "text": "vyāsa uvāca astraṃ brahmaśiras tāta vidvān pārtho dhanaṃjayaḥ utsṛṣṭavān na roṣeṇa na vadhāya tavāhave"
+  },
+  {
+    "id": "p-855fdf",
+    "ref": "10.15.20",
+    "text": "astram astreṇa tu raṇe tava saṃśamayiṣyatā visṛṣṭam arjunenedaṃ punaś ca pratisaṃhṛtam"
+  },
+  {
+    "id": "p-865fe1",
+    "ref": "10.15.21",
+    "text": "brahmāstram apy avāpyaitad upadeśāt pitus tava kṣatradharmān mahābāhur nākampata dhanaṃjayaḥ"
+  },
+  {
+    "id": "p-835fdc",
+    "ref": "10.15.22",
+    "text": "evaṃ dhṛtimataḥ sādhoḥ sarvāstraviduṣaḥ sataḥ sabhrātṛbandhoḥ kasmāt tvaṃ vadham asya cikīrṣasi"
+  },
+  {
+    "id": "p-845fde",
+    "ref": "10.15.23",
+    "text": "astraṃ brahmaśiro yatra paramāstreṇa vadhyate samā dvādaśa parjanyas tad rāṣṭraṃ nābhivarṣati"
+  },
+  {
+    "id": "p-895fe6",
+    "ref": "10.15.24",
+    "text": "etadarthaṃ mahābāhuḥ śaktimān api pāṇḍavaḥ na vihanty etad astraṃ te prajāhitacikīrṣayā"
+  },
+  {
+    "id": "p-8a5fe7",
+    "ref": "10.15.25",
+    "text": "pāṇḍavās tvaṃ ca rāṣṭraṃ ca sadā saṃrakṣyam eva naḥ tasmāt saṃhara divyaṃ tvam astram etan mahābhuja"
+  },
+  {
+    "id": "p-875fe3",
+    "ref": "10.15.26",
+    "text": "aroṣas tava caivāstu pārthāḥ santu nirāmayāḥ na hy adharmeṇa rājarṣiḥ pāṇḍavo jetum icchati"
+  },
+  {
+    "id": "p-885fe4",
+    "ref": "10.15.27",
+    "text": "maṇiṃ caitaṃ prayacchaibhyo yas te śirasi tiṣṭhati etad ādāya te prāṇān pratidāsyanti pāṇḍavāḥ"
+  },
+  {
+    "id": "p-7d5fd3",
+    "ref": "10.15.28",
+    "text": "drauṇir uvāca pāṇḍavair yāni ratnāni yac cānyat kauravair dhanam avāptānīha tebhyo 'yaṃ maṇir mama viśiṣyate"
+  },
+  {
+    "id": "p-7e5fd4",
+    "ref": "10.15.29",
+    "text": "yam ābadhya bhayaṃ nāsti śastravyādhikṣudhāśrayam devebhyo dānavebhyo vā nāgebhyo vā kathaṃ cana"
+  },
+  {
+    "id": "p-8b6227",
+    "ref": "10.15.30",
+    "text": "na ca rakṣogaṇabhayaṃ na taskarabhayaṃ tathā evaṃvīryo maṇir ayaṃ na me tyājyaḥ kathaṃ cana"
+  },
+  {
+    "id": "p-8a6226",
+    "ref": "10.15.31",
+    "text": "yat tu me bhagavān āha tan me kāryam anantaram ayaṃ maṇir ayaṃ cāham iṣīkā nipatiṣyati garbheṣu pāṇḍaveyānām amoghaṃ caitad udyatam"
+  },
+  {
+    "id": "p-8d622b",
+    "ref": "10.15.32",
+    "text": "vyāsa uvāca evaṃ kuru na cānyā te buddhiḥ kāryā kadā cana garbheṣu pāṇḍaveyānāṃ visṛjyaitad upārama"
+  },
+  {
+    "id": "p-8c6229",
+    "ref": "10.15.33",
+    "text": "vaiśaṃpāyana uvāca tataḥ paramam astraṃ tad aśvatthāmā bhṛśāturaḥ dvaipāyanavacaḥ śrutvā garbheṣu pramumoca ha"
+  },
+  {
+    "id": "p-a896a1",
+    "ref": "10.16.1",
+    "text": "vaiśaṃpāyana uvāca tad ājñāya hṛṣīkeśo visṛṣṭaṃ pāpakarmaṇā hṛṣyamāṇa idaṃ vākyaṃ drauṇiṃ pratyabravīt tadā"
+  },
+  {
+    "id": "p-a796a0",
+    "ref": "10.16.2",
+    "text": "virāṭasya sutāṃ pūrvaṃ snuṣāṃ gāṇḍīvadhanvanaḥ upaplavyagatāṃ dṛṣṭvā vratavān brāhmaṇo 'bravīt"
+  },
+  {
+    "id": "p-a6969e",
+    "ref": "10.16.3",
+    "text": "parikṣīṇeṣu kuruṣu putras tava janiṣyati etad asya parikṣittvaṃ garbhasthasya bhaviṣyati"
+  },
+  {
+    "id": "p-ad96a9",
+    "ref": "10.16.4",
+    "text": "tasya tad vacanaṃ sādhoḥ satyam eva bhaviṣyati parikṣid bhavitā hy eṣāṃ punar vaṃśakaraḥ sutaḥ"
+  },
+  {
+    "id": "p-ac96a8",
+    "ref": "10.16.5",
+    "text": "evaṃ bruvāṇaṃ govindaṃ sātvatapravaraṃ tadā drauṇiḥ paramasaṃrabdhaḥ pratyuvācedam uttaram"
+  },
+  {
+    "id": "p-ab96a6",
+    "ref": "10.16.6",
+    "text": "naitad evaṃ yathāttha tvaṃ pakṣapātena keśava vacanaṃ puṇḍarīkākṣa na ca madvākyam anyathā"
+  },
+  {
+    "id": "p-aa96a4",
+    "ref": "10.16.7",
+    "text": "patiṣyaty etad astraṃ hi garbhe tasyā mayodyatam virāṭaduhituḥ kṛṣṇa yāṃ tvaṃ rakṣitum icchasi"
+  },
+  {
+    "id": "p-a19696",
+    "ref": "10.16.8",
+    "text": "vāsudeva uvāca amoghaḥ paramāstrasya pātas tasya bhaviṣyati sa tu garbho mṛto jāto dīrgham āyur avāpsyati"
+  },
+  {
+    "id": "p-a09695",
+    "ref": "10.16.9",
+    "text": "tvāṃ tu kāpuruṣaṃ pāpaṃ viduḥ sarve manīṣiṇaḥ asakṛt pāpakarmāṇaṃ bālajīvitaghātakam"
+  },
+  {
+    "id": "p-f32052",
+    "ref": "10.16.10",
+    "text": "tasmāt tvam asya pāpasya karmaṇaḥ phalam āpnuhi trīṇi varṣasahasrāṇi cariṣyasi mahīm imām aprāpnuvan kva cit kāṃ cit saṃvidaṃ jātu kena cit"
+  },
+  {
+    "id": "p-f42054",
+    "ref": "10.16.11",
+    "text": "nirjanān asahāyas tvaṃ deśān pravicariṣyasi bhavitrī na hi te kṣudra janamadhyeṣu saṃsthitiḥ"
+  },
+  {
+    "id": "p-f1204f",
+    "ref": "10.16.12",
+    "text": "pūyaśoṇitagandhī ca durgakāntārasaṃśrayaḥ vicariṣyasi pāpātman sarvavyādhisamanvitaḥ"
+  },
+  {
+    "id": "p-f22050",
+    "ref": "10.16.13",
+    "text": "vayaḥ prāpya parikṣit tu vedavratam avāpya ca kṛpāc chāradvatād vīraḥ sarvāstrāṇy upalapsyate"
+  },
+  {
+    "id": "p-ef204c",
+    "ref": "10.16.14",
+    "text": "viditvā paramāstrāṇi kṣatradharmavrate sthitaḥ ṣaṣṭiṃ varṣāṇi dharmātmā vasudhāṃ pālayiṣyati"
+  },
+  {
+    "id": "p-f0204d",
+    "ref": "10.16.15",
+    "text": "itaś cordhvaṃ mahābāhuḥ kururājo bhaviṣyati parikṣin nāma nṛpatir miṣatas te sudurmate paśya me tapaso vīryaṃ satyasya ca narādhama"
+  },
+  {
+    "id": "p-ed2049",
+    "ref": "10.16.16",
+    "text": "vyāsa uvāca yasmād anādṛtya kṛtaṃ tvayāsmān karma dāruṇam brāhmaṇasya sataś caiva yasmāt te vṛttam īdṛśam"
+  },
+  {
+    "id": "p-ee204a",
+    "ref": "10.16.17",
+    "text": "tasmād yad devakīputra uktavān uttamaṃ vacaḥ asaṃśayaṃ te tad bhāvi kṣudrakarman vrajāśv itaḥ"
+  },
+  {
+    "id": "p-eb2045",
+    "ref": "10.16.18",
+    "text": "aśvatthāmovāca sahaiva bhavatā brahman sthāsyāmi puruṣeṣv aham satyavāg astu bhagavān ayaṃ ca puruṣottamaḥ"
+  },
+  {
+    "id": "p-ec2047",
+    "ref": "10.16.19",
+    "text": "vaiśaṃpāyana uvāca pradāyātha maṇiṃ drauṇiḥ pāṇḍavānāṃ mahātmanām jagāma vimanās teṣāṃ sarveṣāṃ paśyatāṃ vanam"
+  },
+  {
+    "id": "p-ed1e0a",
+    "ref": "10.16.20",
+    "text": "pāṇḍavāś cāpi govindaṃ puraskṛtya hatadviṣaḥ kṛṣṇadvaipāyanaṃ caiva nāradaṃ ca mahāmunim"
+  },
+  {
+    "id": "p-ec1e08",
+    "ref": "10.16.21",
+    "text": "droṇaputrasya sahajaṃ maṇim ādāya satvarāḥ draupadīm abhyadhāvanta prāyopetāṃ manasvinīm"
+  },
+  {
+    "id": "p-eb1e07",
+    "ref": "10.16.22",
+    "text": "tatas te puruṣavyāghrāḥ sadaśvair anilopamaiḥ abhyayuḥ sahadāśārhāḥ śibiraṃ punar eva ha"
+  },
+  {
+    "id": "p-ea1e05",
+    "ref": "10.16.23",
+    "text": "avatīrya rathābhyāṃ tu tvaramāṇā mahārathāḥ dadṛśur draupadīṃ kṛṣṇām ārtām ārtatarāḥ svayam"
+  },
+  {
+    "id": "p-f11e10",
+    "ref": "10.16.24",
+    "text": "tām upetya nirānandāṃ duḥkhaśokasamanvitām parivārya vyatiṣṭhanta pāṇḍavāḥ sahakeśavāḥ"
+  },
+  {
+    "id": "p-f01e0f",
+    "ref": "10.16.25",
+    "text": "tato rājñābhyanujñāto bhīmaseno mahābalaḥ pradadau tu maṇiṃ divyaṃ vacanaṃ cedam abravīt"
+  },
+  {
+    "id": "p-ef1e0d",
+    "ref": "10.16.26",
+    "text": "ayaṃ bhadre tava maṇiḥ putrahantā jitaḥ sa te uttiṣṭha śokam utsṛjya kṣatradharmam anusmara"
+  },
+  {
+    "id": "p-ee1e0c",
+    "ref": "10.16.27",
+    "text": "prayāṇe vāsudevasya śamārtham asitekṣaṇe yāny uktāni tvayā bhīru vākyāni madhughātinaḥ"
+  },
+  {
+    "id": "p-e51dfd",
+    "ref": "10.16.28",
+    "text": "naiva me patayaḥ santi na putrā bhrātaro na ca naiva tvam api govinda śamam icchati rājani"
+  },
+  {
+    "id": "p-e41dfc",
+    "ref": "10.16.29",
+    "text": "uktavaty asi dhīrāṇi vākyāni puruṣottamam kṣatradharmānurūpāṇi tāni saṃsmartum arhasi"
+  },
+  {
+    "id": "p-e71bc2",
+    "ref": "10.16.30",
+    "text": "hato duryodhanaḥ pāpo rājyasya paripanthakaḥ duḥśāsanasya rudhiraṃ pītaṃ visphurato mayā"
+  },
+  {
+    "id": "p-e81bc4",
+    "ref": "10.16.31",
+    "text": "vairasya gatam ānṛṇyaṃ na sma vācyā vivakṣatām jitvā mukto droṇaputro brāhmaṇyād gauraveṇa ca"
+  },
+  {
+    "id": "p-e91bc5",
+    "ref": "10.16.32",
+    "text": "yaśo 'sya pātitaṃ devi śarīraṃ tv avaśeṣitam viyojitaś ca maṇinā nyāsitaś cāyudhaṃ bhuvi"
+  },
+  {
+    "id": "p-ea1bc7",
+    "ref": "10.16.33",
+    "text": "draupady uvāca kevalānṛṇyam āptāsmi guruputro gurur mama śirasy etaṃ maṇiṃ rājā pratibadhnātu bhārata"
+  },
+  {
+    "id": "p-eb1bc8",
+    "ref": "10.16.34",
+    "text": "vaiśaṃpāyana uvāca taṃ gṛhītvā tato rājā śirasy evākarot tadā guror ucchiṣṭam ity eva draupadyā vacanād api"
+  },
+  {
+    "id": "p-ec1bca",
+    "ref": "10.16.35",
+    "text": "tato divyaṃ maṇivaraṃ śirasā dhārayan prabhuḥ śuśubhe sa mahārājaḥ sacandra iva parvataḥ"
+  },
+  {
+    "id": "p-ed1bcb",
+    "ref": "10.16.36",
+    "text": "uttasthau putraśokārtā tataḥ kṛṣṇā manasvinī kṛṣṇaṃ cāpi mahābāhuṃ paryapṛcchata dharmarāṭ"
+  },
+  {
+    "id": "p-43ba3f",
+    "ref": "10.17.1",
+    "text": "vaiśaṃpāyana uvāca hateṣu sarvasainyeṣu sauptike tai rathais tribhiḥ śocan yudhiṣṭhiro rājā dāśārham idam abravīt"
+  },
+  {
+    "id": "p-40ba3b",
+    "ref": "10.17.2",
+    "text": "kathaṃ nu kṛṣṇa pāpena kṣudreṇākliṣṭakarmaṇā drauṇinā nihatāḥ sarve mama putrā mahārathāḥ"
+  },
+  {
+    "id": "p-41ba3c",
+    "ref": "10.17.3",
+    "text": "tathā kṛtāstrā vikrāntāḥ sahasraśatayodhinaḥ drupadasyātmajāś caiva droṇaputreṇa pātitāḥ"
+  },
+  {
+    "id": "p-3eba38",
+    "ref": "10.17.4",
+    "text": "yasya droṇo maheṣvāso na prādād āhave mukham taṃ jaghne rathināṃ śreṣṭhaṃ dhṛṣṭadyumnaṃ kathaṃ nu saḥ"
+  },
+  {
+    "id": "p-3fba39",
+    "ref": "10.17.5",
+    "text": "kiṃ nu tena kṛtaṃ karma tathāyuktaṃ nararṣabha yad ekaḥ śibiraṃ sarvam avadhīn no guroḥ sutaḥ"
+  },
+  {
+    "id": "p-3cba34",
+    "ref": "10.17.6",
+    "text": "vāsudeva uvāca nūnaṃ sa devadevānām īśvareśvaram avyayam jagāma śaraṇaṃ drauṇir ekas tenāvadhīd bahūn"
+  },
+  {
+    "id": "p-3dba36",
+    "ref": "10.17.7",
+    "text": "prasanno hi mahādevo dadyād amaratām api vīryaṃ ca giriśo dadyād yenendram api śātayet"
+  },
+  {
+    "id": "p-3aba31",
+    "ref": "10.17.8",
+    "text": "vedāhaṃ hi mahādevaṃ tattvena bharatarṣabha yāni cāsya purāṇāni karmāṇi vividhāny uta"
+  },
+  {
+    "id": "p-3bba33",
+    "ref": "10.17.9",
+    "text": "ādir eṣa hi bhūtānāṃ madhyam antaś ca bhārata viceṣṭate jagac cedaṃ sarvam asyaiva karmaṇā"
+  },
+  {
+    "id": "p-6b326f",
+    "ref": "10.17.10",
+    "text": "evaṃ sisṛkṣur bhūtāni dadarśa prathamaṃ vibhuḥ pitāmaho 'bravīc cainaṃ bhūtāni sṛja māciram"
+  },
+  {
+    "id": "p-6a326e",
+    "ref": "10.17.11",
+    "text": "harikeśas tathety uktvā bhūtānāṃ doṣadarśivān dīrghakālaṃ tapas tepe magno 'mbhasi mahātapāḥ"
+  },
+  {
+    "id": "p-6d3272",
+    "ref": "10.17.12",
+    "text": "sumahāntaṃ tataḥ kālaṃ pratīkṣyainaṃ pitāmahaḥ sraṣṭāraṃ sarvabhūtānāṃ sasarja manasāparam"
+  },
+  {
+    "id": "p-6c3271",
+    "ref": "10.17.13",
+    "text": "so 'bravīt pitaraṃ dṛṣṭvā giriśaṃ magnam ambhasi yadi me nāgrajas tv anyas tataḥ srakṣyāmy ahaṃ prajāḥ"
+  },
+  {
+    "id": "p-673269",
+    "ref": "10.17.14",
+    "text": "tam abravīt pitā nāsti tvad anyaḥ puruṣo 'grajaḥ sthāṇur eṣa jale magno visrabdhaḥ kuru vai kṛtim"
+  },
+  {
+    "id": "p-663267",
+    "ref": "10.17.15",
+    "text": "sa bhūtāny asṛjat sapta dakṣādīṃs tu prajāpatīn yair imaṃ vyakarot sarvaṃ bhūtagrāmaṃ caturvidham"
+  },
+  {
+    "id": "p-69326c",
+    "ref": "10.17.16",
+    "text": "tāḥ sṛṣṭamātrāḥ kṣudhitāḥ prajāḥ sarvāḥ prajāpatim bibhakṣayiṣavo rājan sahasā prādravaṃs tadā"
+  },
+  {
+    "id": "p-68326a",
+    "ref": "10.17.17",
+    "text": "sa bhakṣyamāṇas trāṇārthī pitāmaham upādravat ābhyo māṃ bhagavān pātu vṛttir āsāṃ vidhīyatām"
+  },
+  {
+    "id": "p-633263",
+    "ref": "10.17.18",
+    "text": "tatas tābhyo dadāv annam oṣadhīḥ sthāvarāṇi ca jaṅgamāni ca bhūtāni durbalāni balīyasām"
+  },
+  {
+    "id": "p-623261",
+    "ref": "10.17.19",
+    "text": "vihitānnāḥ prajās tās tu jagmus tuṣṭā yathāgatam tato vavṛdhire rājan prītimatyaḥ svayoniṣu"
+  },
+  {
+    "id": "p-592b97",
+    "ref": "10.17.20",
+    "text": "bhūtagrāme vivṛddhe tu tuṣṭe lokagurāv api udatiṣṭhaj jalāj jyeṣṭhaḥ prajāś cemā dadarśa saḥ"
+  },
+  {
+    "id": "p-5a2b99",
+    "ref": "10.17.21",
+    "text": "bahurūpāḥ prajā dṛṣṭvā vivṛddhāḥ svena tejasā cukrodha bhagavān rudro liṅgaṃ svaṃ cāpy avidhyata"
+  },
+  {
+    "id": "p-5b2b9a",
+    "ref": "10.17.22",
+    "text": "tat praviddhaṃ tadā bhūmau tathaiva pratyatiṣṭhata tam uvācāvyayo brahmā vacobhiḥ śamayann iva"
+  },
+  {
+    "id": "p-5c2b9c",
+    "ref": "10.17.23",
+    "text": "kiṃ kṛtaṃ salile śarva cirakālaṃ sthitena te kimarthaṃ caitad utpāṭya bhūmau liṅgaṃ praveritam"
+  },
+  {
+    "id": "p-552b91",
+    "ref": "10.17.24",
+    "text": "so 'bravīj jātasaṃrambhas tadā lokagurur gurum prajāḥ sṛṣṭāḥ pareṇemāḥ kiṃ kariṣyāmy anena vai"
+  },
+  {
+    "id": "p-562b92",
+    "ref": "10.17.25",
+    "text": "tapasādhigataṃ cānnaṃ prajārthaṃ me pitāmaha oṣadhyaḥ parivarteran yathaiva satataṃ prajāḥ"
+  },
+  {
+    "id": "p-572b94",
+    "ref": "10.17.26",
+    "text": "evam uktvā tu saṃkruddho jagāma vimanā bhavaḥ girer muñjavataḥ pādaṃ tapas taptuṃ mahātapāḥ"
+  },
+  {
+    "id": "p-db8a1b",
+    "ref": "10.18.1",
+    "text": "vāsudeva uvāca tato devayuge 'tīte devā vai samakalpayan yajñaṃ vedapramāṇena vidhivad yaṣṭum īpsavaḥ"
+  },
+  {
+    "id": "p-de8a20",
+    "ref": "10.18.2",
+    "text": "kalpayām āsur avyagrā deśān yajñocitāṃs tataḥ bhāgārhā devatāś caiva yajñiyaṃ dravyam eva ca"
+  },
+  {
+    "id": "p-dd8a1f",
+    "ref": "10.18.3",
+    "text": "tā vai rudram ajānantyo yāthātathyena devatāḥ nākalpayanta devasya sthāṇor bhāgaṃ narādhipa"
+  },
+  {
+    "id": "p-d88a17",
+    "ref": "10.18.4",
+    "text": "so 'kalpyamāne bhāge tu kṛttivāsā makhe 'maraiḥ tarasā bhāgam anvicchan dhanur ādau sasarja ha"
+  },
+  {
+    "id": "p-d78a15",
+    "ref": "10.18.5",
+    "text": "lokayajñaḥ kriyāyajño gṛhayajñaḥ sanātanaḥ pañcabhūtamayo yajño nṛyajñaś caiva pañcamaḥ"
+  },
+  {
+    "id": "p-da8a1a",
+    "ref": "10.18.6",
+    "text": "lokayajñena yajñaiṣī kapardī vidadhe dhanuḥ dhanuḥ sṛṣṭam abhūt tasya pañcakiṣkupramāṇataḥ"
+  },
+  {
+    "id": "p-d98a18",
+    "ref": "10.18.7",
+    "text": "vaṣaṭkāro 'bhavaj jyā tu dhanuṣas tasya bhārata yajñāṅgāni ca catvāri tasya saṃhanane 'bhavan"
+  },
+  {
+    "id": "p-e48a2a",
+    "ref": "10.18.8",
+    "text": "tataḥ kruddho mahādevas tad upādāya kārmukam ājagāmātha tatraiva yatra devāḥ samījire"
+  },
+  {
+    "id": "p-e38a28",
+    "ref": "10.18.9",
+    "text": "tam āttakārmukaṃ dṛṣṭvā brahmacāriṇam avyayam vivyathe pṛthivī devī parvatāś ca cakampire"
+  },
+  {
+    "id": "p-7669db",
+    "ref": "10.18.10",
+    "text": "na vavau pavanaś caiva nāgnir jajvāla caidhitaḥ vyabhramac cāpi saṃvignaṃ divi nakṣatramaṇḍalam"
+  },
+  {
+    "id": "p-7769dc",
+    "ref": "10.18.11",
+    "text": "na babhau bhāskaraś cāpi somaḥ śrīmuktamaṇḍalaḥ timireṇākulaṃ sarvam ākāśaṃ cābhavad vṛtam"
+  },
+  {
+    "id": "p-7869de",
+    "ref": "10.18.12",
+    "text": "abhibhūtās tato devā viṣayān na prajajñire na pratyabhāc ca yajñas tān vedā babhraṃśire tadā"
+  },
+  {
+    "id": "p-7969e0",
+    "ref": "10.18.13",
+    "text": "tataḥ sa yajñaṃ raudreṇa vivyādha hṛdi patriṇā apakrāntas tato yajño mṛgo bhūtvā sapāvakaḥ"
+  },
+  {
+    "id": "p-7269d5",
+    "ref": "10.18.14",
+    "text": "sa tu tenaiva rūpeṇa divaṃ prāpya vyarocata anvīyamāno rudreṇa yudhiṣṭhira nabhastale"
+  },
+  {
+    "id": "p-7369d6",
+    "ref": "10.18.15",
+    "text": "apakrānte tato yajñe saṃjñā na pratyabhāt surān naṣṭasaṃjñeṣu deveṣu na prajñāyata kiṃ cana"
+  },
+  {
+    "id": "p-7469d8",
+    "ref": "10.18.16",
+    "text": "tryambakaḥ savitur bāhū bhagasya nayane tathā pūṣṇaś ca daśanān kruddho dhanuṣkoṭyā vyaśātayat"
+  },
+  {
+    "id": "p-7569d9",
+    "ref": "10.18.17",
+    "text": "prādravanta tato devā yajñāṅgāni ca sarvaśaḥ ke cit tatraiva ghūrṇanto gatāsava ivābhavan"
+  },
+  {
+    "id": "p-6e69ce",
+    "ref": "10.18.18",
+    "text": "sa tu vidrāvya tat sarvaṃ śitikaṇṭho 'vahasya ca avaṣṭabhya dhanuṣkoṭiṃ rurodha vibudhāṃs tataḥ"
+  },
+  {
+    "id": "p-6f69d0",
+    "ref": "10.18.19",
+    "text": "tato vāg amarair uktā jyāṃ tasya dhanuṣo 'cchinat atha tat sahasā rājaṃś chinnajyaṃ visphurad dhanuḥ"
+  },
+  {
+    "id": "p-e8714a",
+    "ref": "10.18.20",
+    "text": "tato vidhanuṣaṃ devā devaśreṣṭham upāgaman śaraṇaṃ saha yajñena prasādaṃ cākarot prabhuḥ"
+  },
+  {
+    "id": "p-e77148",
+    "ref": "10.18.21",
+    "text": "tataḥ prasanno bhagavān prāsyat kopaṃ jalāśaye sa jalaṃ pāvako bhūtvā śoṣayaty aniśaṃ prabho"
+  },
+  {
+    "id": "p-ea714d",
+    "ref": "10.18.22",
+    "text": "bhagasya nayane caiva bāhū ca savitus tathā prādāt pūṣṇaś ca daśanān punar yajñaṃ ca pāṇḍava"
+  },
+  {
+    "id": "p-e9714c",
+    "ref": "10.18.23",
+    "text": "tataḥ sarvam idaṃ svasthaṃ babhūva punar eva ha sarvāṇi ca havīṃṣy asya devā bhāgam akalpayan"
+  },
+  {
+    "id": "p-e47144",
+    "ref": "10.18.24",
+    "text": "tasmin kruddhe 'bhavat sarvam asvasthaṃ bhuvanaṃ vibho prasanne ca punaḥ svasthaṃ sa prasanno 'sya vīryavān"
+  },
+  {
+    "id": "p-e37142",
+    "ref": "10.18.25",
+    "text": "tatas te nihatāḥ sarve tava putrā mahārathāḥ anye ca bahavaḥ śūrāḥ pāñcālāś ca sahānugāḥ"
+  },
+  {
+    "id": "p-e67147",
+    "ref": "10.18.26",
+    "text": "na tan manasi kartavyaṃ na hi tad drauṇinā kṛtam mahādevaprasādaḥ sa kuru kāryam anantaram"
+  }
+]
