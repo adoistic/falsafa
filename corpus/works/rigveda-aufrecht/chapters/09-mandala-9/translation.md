@@ -1218,7 +1218,7 @@ translator: thothica
 
 **9.67.21**  Whatever fear finds me here, whether near or far, O Pavamāna, strike that away.
 
-**9.67.22**  May that Pavamāna, the all-seeing, today purify us with the filter; he who is the Potr-priest, may he purify us.
+**9.67.22**  May that Pavamāna, the all-seeing, today purify us with the filter; he who is the Potṛ-priest, may he purify us.
 
 **9.67.23**  With that filter of thine, O Agni, which is spread within thy flame, with that brahman-prayer purify us.
 

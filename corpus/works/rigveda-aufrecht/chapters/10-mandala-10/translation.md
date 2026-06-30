@@ -408,7 +408,7 @@ translator: thothica
 
 **10.20.10**  Thus has Vimada [expressed] this insight for thee, O Agni, O son of vigour, in concord with the immortals. Seeking good favour, may he bring hither by song [the gifts of] food, vigour, good dwelling — thou who hast illumined all.
 
-**10.21.1**  With our own songs of praise we choose thee, Agni, as Hotar for the sacrifice spread with sacred grass. In the exhilaration of your Soma, radiant and pure-flaming, thou art eager to speak forth.
+**10.21.1**  With our own songs of praise we choose thee, Agni, as Hotṛ for the sacrifice spread with sacred grass. In the exhilaration of your Soma, radiant and pure-flaming, thou art eager to speak forth.
 
 **10.21.2**  Thee, verily, do thy own devotees adorn—those rich in horses. The oblation-ladle seeks thee, O Agni; in the Soma's rapture the forceful offering seeks thee, and thou art eager to speak forth.
 
@@ -592,7 +592,7 @@ translator: thothica
 
 **10.28.12**  These have prospered through their labours who urged forward the Soma (for bodily) strength with their hymns. Speak to us in man-like fashion—approach us with prizes! As a hero thou placest thy fame, thy name, in heaven.
 
-**10.29.1**  As the fire deposited in the forest resplendent—the pure hymn of praise has been aroused for you two, O sustainers. He for whom Indra, the most manly of men, the heroic one, the night-passing Hotar among many lineages—
+**10.29.1**  As the fire deposited in the forest resplendent—the pure hymn of praise has been aroused for you two, O sustainers. He for whom Indra, the most manly of men, the heroic one, the night-passing Hotṛ among many lineages—
 
 **10.29.2**  Beyond this dawn and the next may we be in the manliness of the most manly among men. Triśoka drove a hundred men after (the battle)—the chariot that (aided) Kutsa achieved victory.
 
@@ -1260,7 +1260,7 @@ translator: thothica
 
 **10.61.13**  Those who sit around came to that very thing — sitting in many places, seeking to overcome Nārṣada; the unhurt one opened what was knotted of Śuṣṇa, finding what lay hidden of the many-fathered one.
 
-**10.61.14**  Bhar-gas — 'the Radiance' — so the gods call him; like the sun, those who have taken seat in the triple resting-place; Agni too they call Jātavedas — hear us, O Hotar, priest of truth, O priest who never fails.
+**10.61.14**  Bhar-gas — 'the Radiance' — so the gods call him; like the sun, those who have taken seat in the triple resting-place; Agni too they call Jātavedas — hear us, O Hotṛ, priest of truth, O priest who never fails.
 
 **10.61.15**  And those two Rudraic, radiant ones, the Nāsatyas — O Indra — I wish to worship for gladness; like Manu, generous to the one whose grass is strewn, joyful, with offerings set in place, they are worshipped among the folk.
 
@@ -1514,7 +1514,7 @@ translator: thothica
 
 **10.70.2**  May Narāśaṃsa, first-farer of the gods, come here with his all-formed horses; let the most divine among the divine ones, along the path of truth with reverence, drip the sacrificial offering for the gods.
 
-**10.70.3**  Most frequently do those men who hold the oblation beseech Agni for the embassy; with swiftest horses, with well-rolling chariot, bring hither the gods; sit down here as Hotar.
+**10.70.3**  Most frequently do those men who hold the oblation beseech Agni for the embassy; with swiftest horses, with well-rolling chariot, bring hither the gods; sit down here as Hotṛ.
 
 **10.70.4**  Let the god-beloved sacred grass be spread out crosswise, long and fragrant for us; with an unhostile mind, O god, worship with the barhis the willing gods with Indra as their chief.
 
@@ -2552,7 +2552,7 @@ translator: thothica
 
 **10.110.2**  O Tanūnapāt, anointing with honey those who travel the paths of sacred law, making them sweet, O fair-tongued one—perfecting our thoughts with prayers and the sacrifice—make our oblation reach the gods.
 
-**10.110.3**  Being invoked, worthy of praise and worship—come, O Agni, in harmony with the Vasus. You are the youngest Hotar of the gods; being sent, you most fit to sacrifice—worship them.
+**10.110.3**  Being invoked, worthy of praise and worship—come, O Agni, in harmony with the Vasus. You are the youngest Hotṛ of the gods; being sent, you most fit to sacrifice—worship them.
 
 **10.110.4**  The sacred grass is strewn facing east, spread at the point of this abode at the beginning of the days. It spreads out broader and wider, a soft seat for the gods and for Aditi.
 
@@ -2560,15 +2560,15 @@ translator: thothica
 
 **10.110.6**  The two who flow fair and are worshipped nearby—let Night-and-Dawn sit down in their womb, the two divine maidens, tall and well-adorned, assuming the bright, white-gleaming splendour.
 
-**10.110.7**  The two divine Hotars, the first, the fair-voiced, measuring out the sacrifice for man to worship—inspiring the two artisans at the assemblies, directing the eastern light according to the quarter.
+**10.110.7**  The two divine Hotṛs, the first, the fair-voiced, measuring out the sacrifice for man to worship—inspiring the two artisans at the assemblies, directing the eastern light according to the quarter.
 
 **10.110.8**  Let Bhāratī come swiftly to our sacrifice; let Iḷā awaken here in the manner of Manu; let the three goddesses—Sarasvatī, the skilful-working ones—sit on this comfortable sacred grass.
 
-**10.110.9**  He who fashioned all the worlds with forms—him, these two parents Heaven and Earth—worship here today, O Hotar, sent and most fit to sacrifice, knowing it—the god Tvaṣṭṛ.
+**10.110.9**  He who fashioned all the worlds with forms—him, these two parents Heaven and Earth—worship here today, O Hotṛ, sent and most fit to sacrifice, knowing it—the god Tvaṣṭṛ.
 
 **10.110.10**  Release of yourself, anointing, setting the oblations in their season upon the path of the gods—let the tree, the slaughterer, and the divine Agni make the offering savoury with honey and ghee.
 
-**10.110.11**  Born at once, Agni measured out the sacrifice; he became the forerunner of the gods. In the direction of this Hotar, in the voice of the sacred law, let the gods eat the oblation consecrated with Svāhā.
+**10.110.11**  Born at once, Agni measured out the sacrifice; he became the forerunner of the gods. In the direction of this Hotṛ, in the voice of the sacred law, let the gods eat the oblation consecrated with Svāhā.
 
 **10.111.1**  Bring forth your wisdom, O wise ones, in accord with the thoughts that dwell in men. With true and mighty acts let us impel Indra — for he is the hero, the lover of song, the knowing one.
 

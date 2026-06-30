@@ -2120,9 +2120,9 @@ translator: thothica
 
 **4.39.7**  Uttara said: If you were to recite for me the ten names of the son of Pṛthā that I have heard before, then I would believe everything you say.
 
-**4.39.8**  Arjuna said: Come then, I shall tell you my ten names: Arjuna, Phalguna, Jiṣṇu, Kirīṭī, Shvetavahana, Bībhatsu, Vijaya, Kṛṣṇa, Savyasācin, and Dhanañjaya.
+**4.39.8**  Arjuna said: Come then, I shall tell you my ten names: Arjuna, Phalguna, Jiṣṇu, Kirīṭī, Śvetavāhana, Bībhatsu, Vijaya, Kṛṣṇa, Savyasācin, and Dhanañjaya.
 
-**4.39.9**  Uttara said: Why are you called Vijaya? Why are you called Shvetavahana? Why Kirīṭī? And how are you Savyasācin?
+**4.39.9**  Uttara said: Why are you called Vijaya? Why are you called Śvetavāhana? Why Kirīṭī? And how are you Savyasācin?
 
 **4.39.10**  And why are you Arjuna, Phalguna, Jiṣṇu, Kṛṣṇa, Bībhatsu, and Dhanañjaya? Tell me truly. I have heard only the names of that hero, but not the reasons for them.
 
@@ -2130,7 +2130,7 @@ translator: thothica
 
 **4.39.12**  Because when I advance into battle against those arrogant in war, I do not turn back without conquering — therefore they know me as Vijaya, the victorious.
 
-**4.39.13**  White horses clad in golden armor are yoked to my chariot when I fight in battle — therefore I am Shvetavahana, the one with white steeds.
+**4.39.13**  White horses clad in golden armor are yoked to my chariot when I fight in battle — therefore I am Śvetavāhana, the one with white steeds.
 
 **4.39.14**  I was born by day on the slopes of the Himālayas under the two Phālgunī asterisms — northern and southern — therefore they know me as Phalguna.
 
@@ -2984,7 +2984,7 @@ translator: thothica
 
 **4.56.1**  Vaiśaṃpāyana said: Then, having conquered the son of Vikartana, Pārtha said to the son of Virāṭa: Drive me to the army where the golden palm-tree standard stands.
 
-**4.56.2**  Here the son of Shantanu, Bhīṣma, our grandsire, godlike in appearance, stands wishing to fight with me; I will even take his bowstring in battle.
+**4.56.2**  Here the son of Śaṃtanu, Bhīṣma, our grandsire, godlike in appearance, stands wishing to fight with me; I will even take his bowstring in battle.
 
 **4.56.3**  Behold me today releasing wonderful divine weapons, like lightning coming from a storm cloud in the sky.
 
@@ -3102,7 +3102,7 @@ translator: thothica
 
 **4.58.13**  Thus, O bull of the Bhārata line, all the armies were broken and fled in every direction, without hope for their own lives.
 
-**4.59.1**  Vaiśaṃpāyana said: Then Bhīṣma, son of Shantanu — irresistible and of great prowess — charged at Dhanañjaya while the warriors were being slaughtered.
+**4.59.1**  Vaiśaṃpāyana said: Then Bhīṣma, son of Śaṃtanu — irresistible and of great prowess — charged at Dhanañjaya while the warriors were being slaughtered.
 
 **4.59.2**  Taking up his finest bow adorned with gold, and taking sharp-tipped arrows capable of piercing the vital points and causing destruction —
 
@@ -3138,7 +3138,7 @@ translator: thothica
 
 **4.59.18**  The Pāṇḍava is powerful, young, skilled, and swift in action — who else is capable of withstanding Pārtha's speed in battle?
 
-**4.59.19**  — except Bhīṣma, son of Shantanu, or Kṛṣṇa the son of Devakī, or the foremost of teachers, Bhāradvāja's son of great strength.
+**4.59.19**  — except Bhīṣma, son of Śaṃtanu, or Kṛṣṇa the son of Devakī, or the foremost of teachers, Bhāradvāja's son of great strength.
 
 **4.59.20**  Those two bulls among men, of great power, countering weapons with weapons as if at play, bewildered the eyes of all creatures.
 
@@ -3156,7 +3156,7 @@ translator: thothica
 
 **4.59.27**  O king, as those two great-souled masters of celestial weapons released arrows ceaselessly, no difference between them could be perceived.
 
-**4.59.28**  Then the diademed son of Kuntī, that supreme chariot-warrior, covered the ten directions with arrows, and likewise the brave son of Shantanu.
+**4.59.28**  Then the diademed son of Kuntī, that supreme chariot-warrior, covered the ten directions with arrows, and likewise the brave son of Śaṃtanu.
 
 **4.59.29**  O king, the Pāṇḍava surpassed Bhīṣma exceedingly, and Bhīṣma surpassed the Pāṇḍava exceedingly — in that battle it was a wonder to the world.
 
@@ -3180,7 +3180,7 @@ translator: thothica
 
 **4.59.39**  Thus addressed, O Bhārata, the king of the gods honored the encounter of Pārtha and Bhīṣma with a divine shower of flowers.
 
-**4.59.40**  Then Bhīṣma, son of Shantanu, having taken aim and found an opening, planted a shaft in the left side of Savyasācin (Arjuna) as he was shooting.
+**4.59.40**  Then Bhīṣma, son of Śaṃtanu, having taken aim and found an opening, planted a shaft in the left side of Savyasācin (Arjuna) as he was shooting.
 
 **4.59.41**  Then Bībhatsu, smiling, cut the bow of Bhīṣma of immeasurable energy with a broad-bladed, vulture-feathered arrow.
 
@@ -3234,7 +3234,7 @@ translator: thothica
 
 **4.61.3**  Seeing him turn back, Karṇa, though his body was pierced by arrows, steadied himself and turned back; that hero among men, wearing a garland of gold, came to Duryodhana's right flank to face Pārtha in battle.
 
-**4.61.4**  Then Bhīṣma, son of Shantanu, turning back and urging his gold-girthed horses, with his bow strung, the mighty-armed one guarded Duryodhana on the western flank from the sons of Pṛthā.
+**4.61.4**  Then Bhīṣma, son of Śaṃtanu, turning back and urging his gold-girthed horses, with his bow strung, the mighty-armed one guarded Duryodhana on the western flank from the sons of Pṛthā.
 
 **4.61.5**  Droṇa, Kṛpa, Viviṃśati, and Duḥśāsana — all of them quickly turned back, with their bows bent and arrows ready, and swiftly came to the front for the sake of Duryodhana.
 
@@ -3252,7 +3252,7 @@ translator: thothica
 
 **4.61.12**  While the enemies were thus rendered unconscious, Pārtha, remembering the words of Uttara, said to the son of Virāṭa: 'Drive out from among them, while the Kurus are still insensible.'
 
-**4.61.13**  Fetch the two pure white garments of the teacher and of Sharadwata's son, the bright yellow garment of Karṇa, and likewise the dark blue garments of Droṇa's son and the king, O hero among men.
+**4.61.13**  Fetch the two pure white garments of the teacher and of Śāradvata's son, the bright yellow garment of Karṇa, and likewise the dark blue garments of Droṇa's son and the king, O hero among men.
 
 **4.61.14**  I think Bhīṣma has his senses — he knows how to counter my weapons. Keep his horses on the left side; that is how one must pass those who have not lost their senses.
 
@@ -3266,7 +3266,7 @@ translator: thothica
 
 **4.61.19**  Having regained consciousness, that foremost of Kuru heroes, seeing Pārtha standing alone in the field, freed from the battle, equal to great Indra, that son of Dhṛtarāṣṭra spoke quickly.
 
-**4.61.20**  He said: 'How has this one escaped from you? Capture him so he cannot get away!' To him Shantanu's son laughed and said: 'Where has your intelligence gone? Where your valor?'
+**4.61.20**  He said: 'How has this one escaped from you? Capture him so he cannot get away!' To him Śaṃtanu's son laughed and said: 'Where has your intelligence gone? Where your valor?'
 
 **4.61.21**  You yourself stood at peace, breathing again, having let go of your arrows and your marvelous bow. But Bībhatsu is not capable of cruelty — his mind is not set on wickedness.
 
@@ -3278,7 +3278,7 @@ translator: thothica
 
 **4.61.25**  Seeing those foremost Kuru heroes setting out, Pārtha Dhanañjaya, with a gladdened mind, followed them for a moment, addressing them, and there that great-souled one honored his elders.
 
-**4.61.26**  Honoring with bowed head the aged grandfather Bhīṣma, son of Shantanu, the teacher Droṇa, and paying salutation with varied arrows to Droṇa's son, Kṛpa, and all his elders —
+**4.61.26**  Honoring with bowed head the aged grandfather Bhīṣma, son of Śaṃtanu, the teacher Droṇa, and paying salutation with varied arrows to Droṇa's son, Kṛpa, and all his elders —
 
 **4.61.27**  — Pārtha cut off with an arrow the crown of Duryodhana, adorned with the finest jewels; and having taken leave of those heroes and venerable ones alike, and filling the worlds with the roar of the Gāṇḍīva —
 
@@ -3322,7 +3322,7 @@ translator: thothica
 
 **4.63.7**  The conqueror of the earth had gone out alone, determined to win them back, with exceeding boldness, with Bṛhannaḍā as his companion.
 
-**4.63.8**  Six great chariot-warriors had come to oppose him: Droṇa, Shantanu's son Bhīṣma, Kṛpa, Karṇa, Duryodhana, and Droṇa's son.
+**4.63.8**  Six great chariot-warriors had come to oppose him: Droṇa, Śaṃtanu's son Bhīṣma, Kṛpa, Karṇa, Duryodhana, and Droṇa's son.
 
 **4.63.9**  King Virāṭa, greatly distressed upon hearing that his son had gone with but one chariot, with Bṛhannaḍā as charioteer, he who increases victory in battle, then spoke to all the chief ministers.
 

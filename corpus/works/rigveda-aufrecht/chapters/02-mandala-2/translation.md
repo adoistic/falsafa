@@ -752,7 +752,7 @@ translator: thothica
 
 **2.36.1**  Urging for you, O Vāsiṣṭha, the men milked the kine and the waters with sheep-wool and pressing-stones. Drink, O Indra, the Soma that has been offered with Svāhā, consecrated with Vaṣaṭ, from the Hotṛ's station — you who as first have the sovereignty.
 
-**2.36.2**  Mingled with the sacrifices and with the dappled mares and spears, beautiful in their anointing on the path, and dear — O sons of Bharata, having taken your seat on the sacred grass, O men of heaven, drink the Soma from the Potr's station.
+**2.36.2**  Mingled with the sacrifices and with the dappled mares and spears, beautiful in their anointing on the path, and dear — O sons of Bharata, having taken your seat on the sacred grass, O men of heaven, drink the Soma from the Potṛ's station.
 
 **2.36.3**  Come near to us like a friend, easy to invoke; sit down upon the sacred grass and rejoice. Then be exhilarated, taking pleasure in the drink, O Tvaṣṭṛ, with the gods and with the divine women, in their company.
 

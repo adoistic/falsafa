@@ -3312,9 +3312,9 @@ translator: thothica
 
 **13.31.6**  Of the great-souled Manu, who ruled by the dharma of a guardian of his people, there was a righteous son, renowned by the name of Śaryāti.
 
-**13.31.7**  In his line, O king, there arose two kings, Hehaya and Tālajaṅgha, among the Vatsas, O best of the victorious.
+**13.31.7**  In his line, O king, there arose two kings, Haihaya and Tālajaṅgha, among the Vatsas, O best of the victorious.
 
-**13.31.8**  Of Hehaya's sons by ten wives, O Bhārata, there came to be a famed hundred, heroes who never turned back in battle.
+**13.31.8**  Of Haihaya's sons by ten wives, O Bhārata, there came to be a famed hundred, heroes who never turned back in battle.
 
 **13.31.9**  Equal in form and power, learned and skilled in war, they had labored diligently in every branch of the science of archery and of the Veda.
 
@@ -3322,7 +3322,7 @@ translator: thothica
 
 **13.31.11**  The heirs of Vītahavya came against him, O bull among men, and in the land between the Gaṅgā and the Yamunā he was struck down in battle.
 
-**13.31.12**  Having slain that finest of men, those Hehaya great chariot-warriors returned, free from all fear, to the lovely city of the Vatsas.
+**13.31.12**  Having slain that finest of men, those Haihaya great chariot-warriors returned, free from all fear, to the lovely city of the Vatsas.
 
 **13.31.13**  Then Haryaśva's heir Sudeva, godlike in his splendor, like Dharma himself made manifest, was consecrated king of Kāśi.
 
@@ -4468,7 +4468,7 @@ translator: thothica
 
 **13.48.24**  And from the Caṇḍāla is born the Pulkasa, who feeds on asses, horses, and elephants, who is clad in the garments of the dead, and who eats from broken vessels.
 
-**13.48.25**  Upon women of the Āyogava and other lower classes are born those three; from the Vaidehaka, the Kṣudra and the Andhra, whose dwelling lies outside the village.
+**13.48.25**  Upon women of the Āyogava and other lower classes are born those three; from the Vaidehaka, the Kṣudra and the Āndhra, whose dwelling lies outside the village.
 
 **13.48.26**  The Kārāvara is begotten by a Carmakāra upon a Niṣāda woman; and from a Caṇḍāla is born the Pāṇḍusaupāka, who deals in hides and pith.
 
@@ -7320,7 +7320,7 @@ translator: thothica
 
 **13.85.40**  The sons of Kavi, who is Brahmā's, are also declared to be of Varuṇa's line: eight of them, endowed with the qualities arising at their birth, knowers of Brahman, blessed.
 
-**13.85.41**  Kavi and Kāvya and Viṣṇu, and the wise Uśanas likewise, and Bhṛgu, and Virajas, and Kāśi, and Ugra the knower of dharma.
+**13.85.41**  Kavi and Kāvya and Viṣṇu, and the wise Uśanas likewise, and Bhṛgu, and Virajās, and Kāśi, and Ugra the knower of dharma.
 
 **13.85.42**  These are the eight sons of Kavi; by them the whole world is spread out; for these are Lords of Creatures, by whom these creatures came to be.
 

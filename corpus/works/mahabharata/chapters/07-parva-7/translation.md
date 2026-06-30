@@ -1548,7 +1548,7 @@ translator: thothica
 
 **7.19.12**  At the tail stood Karṇa, son of Vikartana, with his sons, kinsmen, and friends, attended by a mighty host that bristled with banners of every kind.
 
-**7.19.13**  Jayadratha, Bhīmaratha, Sāṃyātrika, Sabha, Jaya, Bhūmiṃjaya, Vṛṣakrātha, and the mighty Naiṣadha,
+**7.19.13**  Jayadratha, Bhīmaratha, Sāṃyātrika, Sabhā, Jaya, Bhūmiṃjaya, Vṛṣakrātha, and the mighty Naiṣadha,
 
 **7.19.14**  surrounded by a great force and having the world of Brahmā as their goal, stood above the array, O king, those men skilled in war.
 
@@ -14844,7 +14844,7 @@ translator: thothica
 
 **7.164.87**  Viśvāmitra, Jamadagni, Bharadvāja, and Gautama, Vasiṣṭha, Kaśyapa, and Atri, desiring to lead him to the world of Brahmā —
 
-**7.164.88**  the Sikatas, the Pṛśnis, the Gargas, the Bālakhilyas, the Marīcipas, the Bhṛgus and the Aṅgirases, and other subtle great seers —
+**7.164.88**  the Sikatās, the Pṛśnis, the Gargas, the Bālakhilyas, the Marīcipas, the Bhṛgus and the Aṅgirases, and other subtle great seers —
 
 **7.164.89**  all these said to Droṇa, resplendent in battle: "Unrighteously has this war been waged; the hour of your death has come."
 

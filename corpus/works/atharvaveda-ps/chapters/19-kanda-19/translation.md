@@ -529,13 +529,13 @@ translator: thothica
 
 **19.17.10**  In the sap of the earthly one, in the strength of the divine Bhaga's body — Soma has placed life for him, Bṛhaspati has placed brilliance.
 
-**19.17.11**  Place life for him, O Jātavedas; place offspring and vigor deeply within, O Tvaṣṭar. Press out abundance of riches for him, O Savitar. This one of yours shall live a hundred autumns.
+**19.17.11**  Place life for him, O Jātavedas; place offspring and vigor deeply within, O Tvaṣṭar. Press out abundance of riches for him, O Savitṛ. This one of yours shall live a hundred autumns.
 
 **19.17.12**  May Āśīr grant us nourishment and fine offspring; let it place skill and wealth of bright luster. Conquering fields by might, O Indra, making rivals lower and subdued.
 
-**19.17.13**  Savitar has come here with the razor, with warm water — come! The Ādityas, the Rudras, the Vasus, of one mind, the wise ones, have shaved for King Soma.
+**19.17.13**  Savitṛ has come here with the razor, with warm water — come! The Ādityas, the Rudras, the Vasus, of one mind, the wise ones, have shaved for King Soma.
 
-**19.17.14**  With the razor with which Savitar, knowing, shaved for King Soma and for Varuṇa — with that razor the brahmin-priests shave this one of his. Let this hero be untired and long-lived.
+**19.17.14**  With the razor with which Savitṛ, knowing, shaved for King Soma and for Varuṇa — with that razor the brahmin-priests shave this one of his. Let this hero be untired and long-lived.
 
 **19.17.15**  Let Aditi shave the beard; let the waters drench him with brilliance. Let Prajāpati hold him again and again for good shaving.
 
@@ -563,7 +563,7 @@ translator: thothica
 
 **19.18.12**  Bind together the farthest ones, bind together the nearest ones, and also bind the middle ones together. Indra has bound them around with a cord; you, O Agni, bind them too.
 
-**19.18.13**  Bṛhaspati has made the binding for you, Savitar has made the binding. Indra and Agni have made the binding, Bhaga and the two Aśvins have made the binding.
+**19.18.13**  Bṛhaspati has made the binding for you, Savitṛ has made the binding. Indra and Agni have made the binding, Bhaga and the two Aśvins have made the binding.
 
 **19.18.14**  Your radiances, O divine Sun, spread across the sky as you rise — with all of them, make me radiant today before mankind.
 
@@ -801,7 +801,7 @@ translator: thothica
 
 **19.25.15**  From the monstrous demons, from the hostile sorcerers — may Agni, the slayer of demons, protect you with his benevolent body from them.
 
-**19.26.1**  O divine Agni and Savitar, bestowing nourishment and vigor — protect me from evil conduct; grant me a share in good conduct. May I attain bliss under your two sheltering graces.
+**19.26.1**  O divine Agni and Savitṛ, bestowing nourishment and vigor — protect me from evil conduct; grant me a share in good conduct. May I attain bliss under your two sheltering graces.
 
 **19.26.2**  This very thing I approach you two with, this very thing I invoke — what we have heard coming from you. May the Lord of Speech grant it; may my learning abide in me.
 
@@ -1781,11 +1781,11 @@ translator: thothica
 
 **19.55.8**  The mind-formed one kindled the Brahmin student; kindled, he dwelt in brahmacarya; he spoke the Veda in succession; he smote away darkness; he gained the eating of food. When darkness is smitten, he becomes an eater of food — whoever knows this.
 
-**19.55.9**  By the oblation, O Prajāpati, I surround this husband and wife for their flourishing and extension. Bestow upon them abundance of wealth, O Savitar; grant them death in old age, both fully heroic.
+**19.55.9**  By the oblation, O Prajāpati, I surround this husband and wife for their flourishing and extension. Bestow upon them abundance of wealth, O Savitṛ; grant them death in old age, both fully heroic.
 
-**19.55.10**  May this oblation go forth increasing the husband and wife — rich in offspring, rich in cattle, of fine heroism. Bestow upon them abundance of wealth, O Savitar; grant them death in old age, both fully heroic.
+**19.55.10**  May this oblation go forth increasing the husband and wife — rich in offspring, rich in cattle, of fine heroism. Bestow upon them abundance of wealth, O Savitṛ; grant them death in old age, both fully heroic.
 
-**19.55.11**  I pour this oblation rich in cattle, rich in livestock, rich in horses for the husband and wife. Bestow upon them abundance of wealth, O Savitar; grant them death in old age, both fully heroic.
+**19.55.11**  I pour this oblation rich in cattle, rich in livestock, rich in horses for the husband and wife. Bestow upon them abundance of wealth, O Savitṛ; grant them death in old age, both fully heroic.
 
 **19.55.12**  You are life-giving; may I live; may I live out my full lifespan.
 

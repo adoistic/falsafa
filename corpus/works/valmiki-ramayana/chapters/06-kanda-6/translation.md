@@ -1121,7 +1121,7 @@ translator: thothica
 
 **6.19.10**  This one came to Laṅkā before, O lord, on behalf of the Vaidehī and of you yourself — behold, this vānara has returned, the one you saw before.
 
-**6.19.11**  He is the eldest son of Kesarin, known as the son of the Wind-god, celebrated by the name Hanūmān — the one by whom the ocean was leaped across.
+**6.19.11**  He is the eldest son of Keśarin, known as the son of the Wind-god, celebrated by the name Hanūmān — the one by whom the ocean was leaped across.
 
 **6.19.12**  A shape-shifter, foremost among the vānaras, endowed with strength and form, his movement is irresistible, like that of the ever-moving sun-god.
 
@@ -2547,7 +2547,7 @@ translator: thothica
 
 **6.39.25**  "The deed accomplished by Hanūmān was one difficult for others in battle. I am satisfied with the king of the bears and with the lord of the golāṅgūla monkeys."
 
-**6.39.26**  "The deed done by Aṅgada, and by Mainda and Dvivida, and the terrible battle fought in the conflict by Kesarin and Saṃpāti —"
+**6.39.26**  "The deed done by Aṅgada, and by Mainda and Dvivida, and the terrible battle fought in the conflict by Keśarin and Saṃpāti —"
 
 **6.39.27**  "and the battle of Gavaya, Gavākṣa, Śarabha, Gaja, and other monkeys who abandoned their lives for my sake —"
 
@@ -4897,7 +4897,7 @@ translator: thothica
 
 **6.60.37**  Hanūmān, Sugrīva, Aṅgada, Gandhamādana, Jāmbavān, Suṣeṇa, and Vegadarśin —
 
-**6.60.38**  Mainda, Dvivida, Nīla, Gavākṣa, Gaja, Gomukha, Kesarin, Hariloman, and the monkey Vidyuddaṃṣṭra —
+**6.60.38**  Mainda, Dvivida, Nīla, Gavākṣa, Gaja, Gomukha, Keśarin, Hariloman, and the monkey Vidyuddaṃṣṭra —
 
 **6.60.39**  Sūryānana, Jyotimukha, Dadhimukha the monkey, Pāvakākṣa, Nala, and the monkey Kumuda —
 

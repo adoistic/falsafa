@@ -678,7 +678,7 @@ translator: thothica
 
 **6.10.40**  The Pāñcālas and the Kauśijas, the Ekapṛṣṭhas, the Yugaṃdharas, the Saudhas, the Madras, and the Bhujiṅgas, the Kāśis and the Aparakāśis.
 
-**6.10.41**  The Jaṭharas and the Kukkuśas, and the Sudāśārṇas too, O Bhārata, the Kuntis and the Avantis, and the Aparakuntis as well.
+**6.10.41**  The Jaṭharas and the Kukkuśas, and the Sudāśārṇas too, O Bhārata, the Kuntīs and the Avantis, and the Aparakuntis as well.
 
 **6.10.42**  The Govindas, the Mandakas, the Ṣaṇḍas, the Vidarbhas, the Anūpavāsikas, the Aśmakas, the Pāṃsurāṣṭras, the Goparāṣṭras, and the Panītakas.
 

@@ -161,9 +161,9 @@ translator: thothica
 
 **5.71**  Purifying himself with this golden radiance, he crosses all hatreds along with his yokemates, like the sun with his yokemates. The stream of his back shines as the tawny, ruddy one purifies himself. As he passes through all forms with the Ṛk verses, with the seven-mouthed Ṛk verses.
 
-**5.72**  I hymn that god Savitar, of bold resolve, with both my hands — the true impeller, dwelling in gems — with the dear thought; he whose thought blazed upward in radiance at the impulse; golden-handed, of bright resolve, he measured out the sky with grace.
+**5.72**  I hymn that god Savitṛ, of bold resolve, with both my hands — the true impeller, dwelling in gems — with the dear thought; he whose thought blazed upward in radiance at the impulse; golden-handed, of bright resolve, he measured out the sky with grace.
 
-**5.73**  I honor Agni the Hotar, generous, son of strength, the all-knowing, inspired like the all-knowing one; who, upright and well-sacrificing, a god by divine grace, follows the blazing of ghee, the bright-flaming one, as the clarified butter is poured.
+**5.73**  I honor Agni the Hotṛ, generous, son of strength, the all-knowing, inspired like the all-knowing one; who, upright and well-sacrificing, a god by divine grace, follows the blazing of ghee, the bright-flaming one, as the clarified butter is poured.
 
 **5.74**  That heroic deed of yours, O manly Indra, was done first of all in heaven, worthy to be proclaimed; you who by the god's strength set the rivers flowing as you caused the waters to flow. You have become all things beyond the gods in power; the hundred-crafted one has found strength, has found refreshment.
 

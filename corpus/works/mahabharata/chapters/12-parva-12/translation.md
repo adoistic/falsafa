@@ -4154,7 +4154,7 @@ translator: thothica
 
 **12.59.94**  Then, having reflected, the blessed god Nārāyaṇa, the lord, brought forth a mind-born son, full of splendor and free of passion.
 
-**12.59.95**  But Virajas, O greatly fortunate one, desired no sovereignty upon the earth; his mind was bent solely upon renunciation, O Pāṇḍava.
+**12.59.95**  But Virajās, O greatly fortunate one, desired no sovereignty upon the earth; his mind was bent solely upon renunciation, O Pāṇḍava.
 
 **12.59.96**  Kīrtimat was his son; he too passed beyond the five senses; and Kardama was his son, and he too performed great austerity.
 
@@ -11582,7 +11582,7 @@ translator: thothica
 
 **12.160.23**  "Bhṛgu, Atri and Aṅgiras, the Siddhas, and Kaśyapa rich in austerity, Vasiṣṭha, Gautama and Agastya, and Nārada and Parvata too."
 
-**12.160.24**  "The seers, the Vālakhilyas, the Prabhāsas and the Sikatas, the Ghṛtācas, those born of Soma and of the wind, the Vaikhānasas and the Marīcipas —"
+**12.160.24**  "The seers, the Vālakhilyas, the Prabhāsas and the Sikatās, the Ghṛtācas, those born of Soma and of the wind, the Vaikhānasas and the Marīcipas —"
 
 **12.160.25**  "the Akṛṣṭas and the Haṃsas, the seers born of the womb of fire, the forest hermits and the Pṛśnis — all abode within the rule of Brahmā."
 
@@ -16796,7 +16796,7 @@ translator: thothica
 
 **12.236.19**  My child, the bands of wandering seers whose righteousness was made manifest, sages of fierce austerity who beheld the fine subtleties of dharma—
 
-**12.236.20**  brāhmaṇas beyond naming and beyond number who resorted to the forest, the Vaikhānasas, the Vālakhilyas, the Sikatas, and others still—
+**12.236.20**  brāhmaṇas beyond naming and beyond number who resorted to the forest, the Vaikhānasas, the Vālakhilyas, the Sikatās, and others still—
 
 **12.236.21**  taking no delight in worldly works, constant in dharma, their senses subdued, all of them—their righteousness made manifest—betook themselves to the forest, and now, beyond the constellations and unassailable, they are seen as hosts of stars.
 

@@ -1201,7 +1201,7 @@ translator: thothica
 
 **16.65.4**  As immortality is established among the gods, as truth is established among them — so may my varaṇa amulet confer on me fame and prosperity; may it anoint me with its brilliance, anoint me with its glory.
 
-**16.66.1**  Of this brilliant, hoary Hotar — his middle brother is the devourer of food; the third brother is he of butter-bright back. Here I beheld the lord of the people who has seven sons.
+**16.66.1**  Of this brilliant, hoary Hotṛ — his middle brother is the devourer of food; the third brother is he of butter-bright back. Here I beheld the lord of the people who has seven sons.
 
 **16.66.2**  Seven harness the one-wheeled chariot; one horse bearing seven names draws it. The three-naveled wheel is unaging and unchecked; upon it all these worlds are established.
 

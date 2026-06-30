@@ -335,7 +335,7 @@ translator: thothica
 
 **18.16.9**  O Lord of Speech, goodwill and mind — let our cattle rest content in the stall, and offspring in their wombs. May breath remain here among us in friendship. Around you, O Parameṣṭhin, I myself establish with radiance.
 
-**18.16.10**  May divine Savitar establish around you with radiance; may Agni and Mitra-Varuṇa look upon you. All grudging hostile powers depart — rise up! Make this realm full of true and pleasant things.
+**18.16.10**  May divine Savitṛ establish around you with radiance; may Agni and Mitra-Varuṇa look upon you. All grudging hostile powers depart — rise up! Make this realm full of true and pleasant things.
 
 **18.17.1**  You whom the dappled mare carries on the chariot as a dappled back — you, Rohita, travel beautifully, releasing the waters. By him, O Brahmaṇaspati, cause this highest ascent, the great rising.
 
@@ -371,7 +371,7 @@ translator: thothica
 
 **18.18.7**  Upon Rohita heaven and earth are founded — winning wealth, winning cattle, winning all, winning by union. His treasures are a thousand and seven. I shall declare your navel upon the greatness of the world.
 
-**18.18.8**  Full of fame you travel through the directions and the quarters; full of fame among cattle and among men. Glorious in the lap of the earth, of Aditi, I am as beautiful as Savitar.
+**18.18.8**  Full of fame you travel through the directions and the quarters; full of fame among cattle and among men. Glorious in the lap of the earth, of Aditi, I am as beautiful as Savitṛ.
 
 **18.18.9**  Being there, he knows things here; being here, he sees those things. From here the wise see the shining sun, the all-knowing, in heaven.
 
@@ -481,7 +481,7 @@ translator: thothica
 
 **18.24.2**  The brilliant face of the gods has risen — the eye of Mitra, of Varuṇa, of Agni. He has filled heaven and earth and the atmosphere; the Sun is the soul of all that moves and stands.
 
-**18.24.3**  Flying high, ruddy, beautiful-winged, swift, blazing in the middle of heaven — may we behold you, O Savitar, whom they call the imperishable light which Atri found.
+**18.24.3**  Flying high, ruddy, beautiful-winged, swift, blazing in the middle of heaven — may we behold you, O Savitṛ, whom they call the imperishable light which Atri found.
 
 **18.24.4**  Running on the back of heaven, the beautiful-winged son of Aditi — longing for a protector, I approach you in fear. O Sun, grant us long life; let us not be harmed; may we be in your good grace.
 
@@ -893,7 +893,7 @@ translator: thothica
 
 **18.60.5**  In whose assembly the gods rejoice, in whose dwelling the offspring of Vivasvat sustain themselves—they have placed light in the sun, nights in the moon; that luminance moves about them without ceasing.
 
-**18.60.6**  In whose thought the gods move together—those southward ones, which we do not know. May Mitra here, Aditi sinless, may the god Savitar speak to Varuṇa for us.
+**18.60.6**  In whose thought the gods move together—those southward ones, which we do not know. May Mitra here, Aditi sinless, may the god Savitṛ speak to Varuṇa for us.
 
 **18.60.7**  As companions we desire sacred prayer for Indra the wielder of the vajra. I would praise him, the most manly, the bold one.
 

@@ -444,13 +444,13 @@ translator: thothica
 
 **1.22.4**  There is no far distance for you, wherever you go by chariot — O Aśvins, the Soma-presser's house is not remote to you.
 
-**1.22.5**  For our aid I invoke golden-handed Savitar; he it is who points out the station of the gods.
+**1.22.5**  For our aid I invoke golden-handed Savitṛ; he it is who points out the station of the gods.
 
-**1.22.6**  Praise Savitar, the child of the waters, for our protection; his ordinances we desire to follow.
+**1.22.6**  Praise Savitṛ, the child of the waters, for our protection; his ordinances we desire to follow.
 
-**1.22.7**  We invoke the distributor of brilliant and various treasures, Savitar who looks upon all men.
+**1.22.7**  We invoke the distributor of brilliant and various treasures, Savitṛ who looks upon all men.
 
-**1.22.8**  Friends, be seated here — Savitar is now worthy of our praise; the giver adorns bountiful gifts.
+**1.22.8**  Friends, be seated here — Savitṛ is now worthy of our praise; the giver adorns bountiful gifts.
 
 **1.22.9**  O Agni, bring hither the willing consorts of the gods, and Tvaṣṭṛ, to drink the Soma.
 
@@ -530,7 +530,7 @@ translator: thothica
 
 **1.24.2**  We celebrate the dear name of Agni, the first among the immortals. May he give us back to great Aditi, that I may see my father and my mother.
 
-**1.24.3**  O god Savitar, master of all desirable things, always beneficent one, we beg our share.
+**1.24.3**  O god Savitṛ, master of all desirable things, always beneficent one, we beg our share.
 
 **1.24.4**  For he who thus has diligently served you, Bhaga, is kept free from censure and without enmity in his hands.
 

@@ -186,19 +186,19 @@ translator: thothica
 
 **2.4.8**  Asita, Devala, Satya, Sarpamali, Mahasiras, Arvāvasu, Sumitrā, Maitreya, Śunaka, and Bali were among them.
 
-**2.4.9**  Baka Dalbhya, Sthulasiras, Krishnadvapayana, Śuka, Sumantru, Jaimini, Paila — the disciples of Vyāsa — and ourselves were likewise present.
+**2.4.9**  Baka Dālbhya, Sthulasiras, Krishnadvapayana, Śuka, Sumantru, Jaimini, Paila — the disciples of Vyāsa — and ourselves were likewise present.
 
-**2.4.10**  Tittiri, Yājñavalkya with his son, Lomaharṣaṇa, Apsuhomya, Dhaumya, and also Animandavya and Kauśika were there.
+**2.4.10**  Tittiri, Yājñavalkya with his son, Lomaharṣaṇa, Apsuhomya, Dhaumya, and also Aṇimāṇḍavya and Kauśika were there.
 
 **2.4.11**  Damoshniṣa, Traivaṇi, Parṇada, Ghaṭajanuka, Mauñjayana, Vayubhaksha, Parasharya, and the two known as Sarika were present.
 
 **2.4.12**  Balavaka, Shinivaka, Sutyapala, Kṛtaśrama, Jatukarṇa, Shikhavant, Subala, and Parijataka were also there.
 
-**2.4.13**  The greatly blessed Parvata, the sage Mārkaṇḍeya, Pavitrapani, Savarni, Bhāluki, and likewise Gālava were present.
+**2.4.13**  The greatly blessed Parvata, the sage Mārkaṇḍeya, Pavitrapani, Sāvarṇi, Bhāluki, and likewise Gālava were present.
 
 **2.4.14**  Janghabandhu, Raibhya, Kopavegashrava, Bhṛgu, Haribabhru, Kaundinia, Babhrumali, and Sanatana were there as well.
 
-**2.4.15**  Kakṣīvān Auśija, Nāciketa, Gautama, Painga, Varaha, Śunaka, the great ascetic Śāṇḍilya, Karkara, Venujangha, Kalapa, and Katha were also among them.
+**2.4.15**  Kakṣīvān Auśija, Nāciketa, Gautama, Painga, Varāha, Śunaka, the great ascetic Śāṇḍilya, Karkara, Venujangha, Kalapa, and Katha were also among them.
 
 **2.4.16**  These sages, virtuous and righteous, of firm minds and with senses subdued, and many others well-versed in the Vedas and their auxiliary branches, were gathered there.
 
@@ -208,7 +208,7 @@ translator: thothica
 
 **2.4.19**  Saṃgrāmajit, Durmukha, the mighty Ugrasena, Kakshena the lord of the earth, Kṣemaka the unconquered, the king of the Kāmbojas, Kamala, and the greatly powerful Kampana were present.
 
-**2.4.20**  He alone had constantly shaken the Yavanas, just as the god who wields the thunderbolt shakes the Kalakeya demons.
+**2.4.20**  He alone had constantly shaken the Yavanas, just as the god who wields the thunderbolt shakes the Kālakeya demons.
 
 **2.4.21**  The king Jaṭāsura and Madrakanta, Kuntī, Kuṇinda, the king of the Kirātas, the rulers of Aṅga and Vaṅga together with the king of Puṇḍra, and the kings of the Pāṇḍyas and Oḍras together with the king of the Andhras were there.
 
@@ -216,11 +216,11 @@ translator: thothica
 
 **2.4.23**  Śrutāyudha the Kaliṅga, Jayatsena the Magadha, Susharmana, Cekitāna, and Suratha the destroyer of foes were present.
 
-**2.4.24**  Ketuman, Vasudāna, the king of Videha, Kritakshana, Sudharmana, Aniruddha, and the mighty Śrutāyu were also there.
+**2.4.24**  Ketumān, Vasudāna, the king of Videha, Kritakshana, Sudharmana, Aniruddha, and the mighty Śrutāyu were also there.
 
 **2.4.25**  The invincible king of the Anūpa country, Kshemajit, Sudakṣiṇa, Śiśupāla with his hundred sons, and likewise the lord of the Karūṣas were present.
 
-**2.4.26**  The invincible princes of the Vṛṣṇis, god-like in appearance — Āhuka, Viprithu, Gada, and Sāraṇa — were also there.
+**2.4.26**  The invincible princes of the Vṛṣṇis, god-like in appearance — Āhuka, Vipṛthu, Gada, and Sāraṇa — were also there.
 
 **2.4.27**  Akrūra, Kṛtavarmā, Sātyaki the son of Śini, Bhīṣmaka, Ahriti, the mighty Dyumatsena, the great archers the Kekayas, and Yajñasena the son of Saumaka were present.
 
@@ -242,7 +242,7 @@ translator: thothica
 
 **2.5.2**  The sage Nārada, of great brilliance, who roams through all the worlds, came to that assembly hall then, accompanied by sages.
 
-**2.5.3**  The divine sage of boundless radiance came with Parijata, the wise Raivata, and the gentle Sumukha, moving swift as thought, joyfully desiring to see the Pāṇḍavas assembled in the hall, O king of kings.
+**2.5.3**  The divine sage of boundless radiance came with Pārijāta, the wise Raivata, and the gentle Sumukha, moving swift as thought, joyfully desiring to see the Pāṇḍavas assembled in the hall, O king of kings.
 
 **2.5.4**  Seeing the sage Nārada arrive, the foremost of the Pāṇḍavas, who knew all dharma, quickly rose together with his younger brothers and greeted him with affection, bowing humbly at that time.
 
@@ -1004,9 +1004,9 @@ translator: thothica
 
 **2.13.24**  And thus eighteen northern Bhoja clans, O lord, have sought refuge in the western direction out of fear of Jarāsandha.
 
-**2.13.25**  The Śūrasenas, Bhadrakāras, Bodhas, Śālvas, Paṭaccaras, Sustharas, Sukuṭṭas, Kuṇindas together with the Kuntis —
+**2.13.25**  The Śūrasenas, Bhadrakāras, Bodhas, Śālvas, Paṭaccaras, Sustharas, Sukuṭṭas, Kuṇindas together with the Kuntīs —
 
-**2.13.26**  And the kings of the Śālveyas with their brothers and followers, the southern Pāñcālas, those in the east among the Kuntis, the Kośalas —
+**2.13.26**  And the kings of the Śālveyas with their brothers and followers, the southern Pāñcālas, those in the east among the Kuntīs, the Kośalas —
 
 **2.13.27**  And likewise, tormented by fear, abandoning the northern direction, the Matsyas and the Saṃnyastapādas have sought the southern direction.
 
@@ -1206,7 +1206,7 @@ translator: thothica
 
 **2.16.21**  Through many auspicious fire-offerings and sacrifices desired by those longing for sons, that best of kings still did not obtain a son to further his family.
 
-**2.16.22**  Then he heard that Chandakaushika, the noble son of Kakṣīvat of the great-souled Gautama lineage, was exhausted from austerities nearby.
+**2.16.22**  Then he heard that Caṇḍakauśika, the noble son of Kakṣīvat of the great-souled Gautama lineage, was exhausted from austerities nearby.
 
 **2.16.23**  The king, accompanied by his wives, gratified with all kinds of precious gifts that sage who had come by chance and was resting at the foot of a tree.
 
@@ -1280,7 +1280,7 @@ translator: thothica
 
 **2.17.7**  That son of the lord of Magadha, of great splendour, grew up, endowed with perfect strength, like a fire fed with oblations.
 
-**2.17.8**  Then after some time, the blessed Chandakaushika, the great ascetic, again came to Magadha.
+**2.17.8**  Then after some time, the blessed Caṇḍakauśika, the great ascetic, again came to Magadha.
 
 **2.17.9**  Delighted at his arrival, Bṛhadratha went out with his ministers, his retinue, his wives, and his son.
 
@@ -1314,13 +1314,13 @@ translator: thothica
 
 **2.17.24**  Then, after a long time, king Bṛhadratha, dwelling in the hermitage and having practiced austerities, departed for heaven together with his wives.
 
-**2.17.25**  He had two ministers — Hamsa and Ḍibhaka — both of whom were destined to die without weapons, foremost among the wise in counsel, and skilled in the science of warfare.
+**2.17.25**  He had two ministers — Haṃsa and Ḍibhaka — both of whom were destined to die without weapons, foremost among the wise in counsel, and skilled in the science of warfare.
 
 **2.17.26**  Those two mighty ones of whom I spoke to you earlier — together with Jarāsandha, the three of them were, in my judgment, a match for the three worlds.
 
 **2.17.27**  Thus was he, O hero and great king, left unchallenged at that time by the mighty Kukuras, Andhakas, and Vṛṣṇis — for reasons of statecraft.
 
-**2.18.1**  Vāsudeva said: With Hamsa and Ḍibhaka — the ministers of Kaṃsa — slain and brought low, the time for Jarāsandha's destruction has now arrived.
+**2.18.1**  Vāsudeva said: With Haṃsa and Ḍibhaka — the ministers of Kaṃsa — slain and brought low, the time for Jarāsandha's destruction has now arrived.
 
 **2.18.2**  He cannot be conquered in open battle even by all the gods and demons together — we understand that he can only be overcome in a fight to the death, hand to hand.
 
@@ -1372,17 +1372,17 @@ translator: thothica
 
 **2.18.26**  Departing from the Kurus, they traveled through the heart of the Kurujāṅgala region, visiting the lovely Padmasara lake and passing beyond Kalakuta.
 
-**2.18.27**  They crossed the Gandaki, then the Shona, then the Sadanira, and likewise the rivers near Ekaparvataka — proceeding onward one by one.
+**2.18.27**  They crossed the Gaṇḍakī, then the Śoṇa, then the Sadanira, and likewise the rivers near Ekaparvataka — proceeding onward one by one.
 
 **2.18.28**  Fording the lovely Sarayū and beholding the eastern Kosalas, they passed through Mithilā, and the river Mala, and the Carmaṇvatī.
 
-**2.18.29**  Having crossed the Gaṅgā and the Shona, all three of them — those unfailing heroes — proceeded eastward through the Kuraura forest into the territory of Magadha.
+**2.18.29**  Having crossed the Gaṅgā and the Śoṇa, all three of them — those unfailing heroes — proceeded eastward through the Kuraura forest into the territory of Magadha.
 
 **2.18.30**  Reaching mount Goratha — ever filled with herds of cattle, rich with water, and adorned with beautiful trees — they beheld the city of Magadha.
 
 **2.19.1**  Vāsudeva said: O Pārtha, this Magadhan settlement is great, pleasant, ever well-stocked with cattle, rich in water, free from illness, furnished with fine dwellings, and auspicious.
 
-**2.19.2**  There is the great Vaihara mountain, and Varaha, and Vrishabha, and likewise Rishigiri, O dear one — and the auspicious Caityaka is the fifth of these.
+**2.19.2**  There is the great Vaihara mountain, and Varāha, and Vrishabha, and likewise Rishigiri, O dear one — and the auspicious Caityaka is the fifth of these.
 
 **2.19.3**  These five great-peaked mountains, shaded by cool trees, seem to stand united in body, guarding Girivraja together in a compact embrace.
 
@@ -1396,9 +1396,9 @@ translator: thothica
 
 **2.19.8**  Look at these rows of trees — the lovely priyala trees and the auspicious lodhra trees, O Pārtha — growing near the dwelling of Gautama.
 
-**2.19.9**  Here are Arbuda and Shakravapi, two serpents who torment enemies; here too is the abode of Svastika, and the excellent dwelling of Maninaga.
+**2.19.9**  Here are Arbuda and Shakravapi, two serpents who torment enemies; here too is the abode of Svastika, and the excellent dwelling of Maṇināga.
 
-**2.19.10**  The clouds cannot avoid shedding rain on the Magadhan land for the sake of this jewel-serpent; both Kauśika and Maninaga have grown in power by his favor.
+**2.19.10**  The clouds cannot avoid shedding rain on the Magadhan land for the sake of this jewel-serpent; both Kauśika and Maṇināga have grown in power by his favor.
 
 **2.19.11**  Jarāsandha considers his prosperity to be unassailable — but today we shall strike down his pride by confronting him.
 
@@ -2020,9 +2020,9 @@ translator: thothica
 
 **2.28.38**  Having brought the king of Tripura under his sway and swiftly subdued the lord of Potana, that long-armed hero,
 
-**2.28.39**  that great-armed hero, with great effort, then brought Ahriti and Kaushikācharya under his sway, and likewise the lord of Surashtra.
+**2.28.39**  that great-armed hero, with great effort, then brought Ahriti and Kaushikācharya under his sway, and likewise the lord of Surāṣṭra.
 
-**2.28.40**  And while dwelling in the territory of Surashtra, he sent envoys to King Rukmiṇī, the wise high minister stationed at Bhojakat.
+**2.28.40**  And while dwelling in the territory of Surāṣṭra, he sent envoys to King Rukmiṇī, the wise high minister stationed at Bhojakat.
 
 **2.28.41**  To Bhīṣmaka himself, the righteous soul, who was a direct ally of Indra — he and his son, O king, accepted his command.
 
@@ -2074,7 +2074,7 @@ translator: thothica
 
 **2.29.10**  the entire Pañcanada, and likewise the western territory, Uttarajyotika, the city of Vrindataka, and Dvarapala — all these that one of great splendor swiftly brought under his sway.
 
-**2.29.11**  The Ramathas, the Harahunas, and whatever kings of the western regions — all of these the Pāṇḍava brought under his sway through his mere command.
+**2.29.11**  The Ramaṭhas, the Harahūṇas, and whatever kings of the western regions — all of these the Pāṇḍava brought under his sway through his mere command.
 
 **2.29.12**  While dwelling there, the mighty one sent a message to Vāsudeva; and he accepted his command with ten kingdoms.
 
@@ -2338,7 +2338,7 @@ translator: thothica
 
 **2.33.26**  Yudhiṣṭhira said: "To which one, O joy of the Kurus, do you think it proper that the arghya be first presented? Tell me that, O grandsire."
 
-**2.33.27**  Vaiśaṃpāyana said: Then Bhīṣma, son of Shantanu, having resolved with his intellect, O descendant of Bharata, considered Kṛṣṇa of the Vṛṣṇi clan to be the most deserving of honor on earth.
+**2.33.27**  Vaiśaṃpāyana said: Then Bhīṣma, son of Śaṃtanu, having resolved with his intellect, O descendant of Bharata, considered Kṛṣṇa of the Vṛṣṇi clan to be the most deserving of honor on earth.
 
 **2.33.28**  "For this one shines in the midst of all those assembled, with energy, strength, and valor, blazing like the sun amid the heavenly lights."
 
@@ -2400,7 +2400,7 @@ translator: thothica
 
 **2.35.2**  "This is not proper, O lord of the earth, what you have said; it is the highest adharma, O king — this harshness that serves no purpose."
 
-**2.35.3**  "For Bhīṣma son of Shantanu would never be ignorant of the highest dharma, O earth-lord — do not think otherwise; do not slight him."
+**2.35.3**  "For Bhīṣma son of Śaṃtanu would never be ignorant of the highest dharma, O earth-lord — do not think otherwise; do not slight him."
 
 **2.35.4**  "Look at these many lords of the earth, far older than you — they accept the honor-offering given to Kṛṣṇa; in like manner you too ought to be patient."
 
@@ -2436,7 +2436,7 @@ translator: thothica
 
 **2.35.20**  This one, endowed with all these qualities — teacher, father-figure, and guru; worthy of worship, already worshipped, and deserving of honor — all of you ought to acknowledge him.
 
-**2.35.21**  Officiating priest, teacher, father-in-law, honored graduate, king, and beloved — all of these roles reside in Hrishikesha (Kṛṣṇa). Therefore Acyuta has been worshipped.
+**2.35.21**  Officiating priest, teacher, father-in-law, honored graduate, king, and beloved — all of these roles reside in Hṛṣīkeśa (Kṛṣṇa). Therefore Acyuta has been worshipped.
 
 **2.35.22**  Kṛṣṇa alone is the origin and also the dissolution of the worlds. Indeed, for Kṛṣṇa's sake this entire universe has been offered up.
 
@@ -2520,7 +2520,7 @@ translator: thothica
 
 **2.38.3**  "As a boat is bound to a boat, or as one blind man follows another blind man — such indeed are the Kuravas, O Bhīṣma, with you as their leader."
 
-**2.38.4**  "By you recounting to us his deeds — beginning with the killing of Putana in particular — our minds have been further unsettled."
+**2.38.4**  "By you recounting to us his deeds — beginning with the killing of Pūtanā in particular — our minds have been further unsettled."
 
 **2.38.5**  "How, O Bhīṣma, does your tongue not split into a hundred pieces as you, a fool full of arrogance, seek to praise Keśava?"
 
@@ -2660,7 +2660,7 @@ translator: thothica
 
 **2.40.13**  Thus the child was placed in the laps of thousands of kings one by one in order — but the prophesied sign did not occur.
 
-**2.40.14**  Then the two Yādavas, Sankarshana and Janārdana, arrived at the city of Cedi to visit that Yādava woman — their father's sister.
+**2.40.14**  Then the two Yādavas, Saṅkarṣaṇa and Janārdana, arrived at the city of Cedi to visit that Yādava woman — their father's sister.
 
 **2.40.15**  Having duly saluted the elders in proper order and inquired after the welfare of those kings, Rāma and Keśava took their seats.
 
@@ -3204,7 +3204,7 @@ translator: thothica
 
 **2.47.18**  "— the one-footed beings took those many-colored forest horses of mind-like speed and gave him gold beyond all price."
 
-**2.47.19**  "The Chinas, the Hunas, the Śakas, the Oḍras, dwellers in mountain fastnesses, the Vārṣṇeyas, the Harahunas, the dark ones, and those of the Himavat region —"
+**2.47.19**  "The Cīnas, the Hunas, the Śakas, the Oḍras, dwellers in mountain fastnesses, the Vārṣṇeyas, the Harahūṇas, the dark ones, and those of the Himavat region —"
 
 **2.47.20**  "— I cannot enumerate all those who came in their various forms, waiting at the door, giving him tribute of many kinds in countless numbers."
 
@@ -3234,7 +3234,7 @@ translator: thothica
 
 **2.48.2**  Those who dwell between Mount Meru and Mount Mandara along the river Shailoda, frequenting the pleasant shade of kichaka bamboos —
 
-**2.48.3**  The Khashas, the Ekashanas, the Ajyohas, the Pradaras, the Dirgha-Venavas, the Pashupas, the Kuṇindas, the Taṅgaṇas, and the Para-Taṅgaṇas —
+**2.48.3**  The Khaśas, the Ekashanas, the Ajyohas, the Pradaras, the Dirgha-Venavas, the Pashupas, the Kuṇindas, the Taṅgaṇas, and the Para-Taṅgaṇas —
 
 **2.48.4**  Those kings brought in heaps the gold known as Pipilika — bestowed as a boon by ants — measured by the drona measure.
 
@@ -3272,7 +3272,7 @@ translator: thothica
 
 **2.48.21**  These and many other groups assembled here from all directions; and by other great-souled ones, too, jewels were brought here.
 
-**2.48.22**  The Gandharva king named Chitraratha, a follower of Vāsava (Indra), gave four hundred horses swift as the wind.
+**2.48.22**  The Gandharva king named Citraratha, a follower of Vāsava (Indra), gave four hundred horses swift as the wind.
 
 **2.48.23**  The Gandharva Tumburu, full of joy, gave a hundred horses wearing golden garlands, the color of mango leaves.
 
@@ -3288,7 +3288,7 @@ translator: thothica
 
 **2.48.29**  Twenty-six chariots yoked with elephants, O great king, and his entire kingdom — all of this was offered to the sons of Pāṇḍu for the sacrifice.
 
-**2.48.30**  Lapis lazuli that is the essence of the ocean, pearls, conches, and by the hundreds — elephant cloths — the Sinhalas (Ceylonese) duly brought there.
+**2.48.30**  Lapis lazuli that is the essence of the ocean, pearls, conches, and by the hundreds — elephant cloths — the Siṃhalas (Ceylonese) duly brought there.
 
 **2.48.31**  Dark women clad in jeweled garments with copper-tinged eyes — having received them, men stood there at the gate, held back from entering.
 
@@ -3334,7 +3334,7 @@ translator: thothica
 
 **2.49.10**  Then Dhaumya and Vyāsa of very great austerity performed the consecration, placing Nārada in front, along with the sage Devala and Asita.
 
-**2.49.11**  Joyfully, the great sages attended the consecration ceremony — along with Jāmadagnya (Parashurama) and other masters of the Vedas.
+**2.49.11**  Joyfully, the great sages attended the consecration ceremony — along with Jāmadagnya (Paraśurāma) and other masters of the Vedas.
 
 **2.49.12**  They approached the great-souled one, who bestowed lavish sacrificial fees, as the seven seers in heaven approach Mahendra, the king of gods.
 
@@ -3700,7 +3700,7 @@ translator: thothica
 
 **2.56.6**  Your dice-throw is ill-led and yields downward fruit; the counsel deep-seated in your heart is firm resolve. May the agreement with Yudhiṣṭhira prove fruitful; well-spoken is the conciliation of the enemy-tamer, the skilled archer Sudhanvan.
 
-**2.56.7**  O king, you descendants of Pratīpa and of Shantanu, hear this counsel-laden speech — do not let it pass you by. The blazing, terrible fire of Vaiśvānara has flared up; quench this rising flame without resort to battle.
+**2.56.7**  O king, you descendants of Pratīpa and of Śaṃtanu, hear this counsel-laden speech — do not let it pass you by. The blazing, terrible fire of Vaiśvānara has flared up; quench this rising flame without resort to battle.
 
 **2.56.8**  When Yudhiṣṭhira, Ajātaśatru among the Pāṇḍavas, overwhelmed by intolerable provocation, can no longer restrain his wrath — and when Vṛkodara, Savyasācī, and the twin sons of Mādrī are unleashed — what refuge will there then be for you in that tumult?
 
@@ -4384,7 +4384,7 @@ translator: thothica
 
 **2.66.25**  Vaiśaṃpāyana said: Then Droṇa, Somadatta, the great warrior Bāhlika, Vidura, Droṇa's son, and the valiant son of Vaiśya —
 
-**2.66.26**  Bhūriśravas, the son of Shantanu, and the great warrior Vikarṇa — all of them said "No gambling!" and "Let there be peace!" in every way.
+**2.66.26**  Bhūriśravas, the son of Śaṃtanu, and the great warrior Vikarṇa — all of them said "No gambling!" and "Let there be peace!" in every way.
 
 **2.66.27**  But Dhṛtarāṣṭra, devoted to his son, issued the summons to the Pāṇḍavas even against the will of all his well-wishers who could see what was truly beneficial.
 
@@ -4564,7 +4564,7 @@ translator: thothica
 
 **2.69.11**  This, O Bhārata, is the all-auspicious resolution that you have — no enemy can withstand it, even one equal to Śakra himself. Be steadfast.
 
-**2.69.12**  You were instructed long ago on the Himālayas by Meru-Savarni, and by Kṛṣṇa Dvaipāyana in the city of Vāraṇāvata.
+**2.69.12**  You were instructed long ago on the Himālayas by Meru-Sāvarṇi, and by Kṛṣṇa Dvaipāyana in the city of Vāraṇāvata.
 
 **2.69.13**  By Rāma on the peak of Bhṛgutuṅga, and by Shambhu on the banks of the Dṛṣadvatī — you have also heard the teachings of the great sage Asita concerning Mount Añjana.
 

@@ -1320,7 +1320,7 @@ translator: thothica
 
 **6.62.3**  Verily, you two drove that chariot — the one that is never idle — in just this mighty fashion, ever with your horses swift as thought, restless, to ward off the distress of the worshipping mortal.
 
-**6.62.4**  May the ancient Hotar who harms none sacrifice to those two ever-young ones who come, adorning themselves, toward the fresh praise of the aged one who sings, who have yoked their steeds, who carry nourishment, refreshment, and strength.
+**6.62.4**  May the ancient Hotṛ who harms none sacrifice to those two ever-young ones who come, adorning themselves, toward the fresh praise of the aged one who sings, who have yoked their steeds, who carry nourishment, refreshment, and strength.
 
 **6.62.5**  Those two fair ones, wondrous Dasras, most richly gleaming, ancient yet ever-new in speech, do I seek with my word — those who have become most beneficent to the celebrant and the praiser, of brilliant bounty to the singer.
 
@@ -1342,7 +1342,7 @@ translator: thothica
 
 **6.63.3**  The soma has been prepared for you two in abundance; the most easily approached sacred grass has been strewn; with uplifted hand, youthful, I have praised you — the pressing stones anointed, coming toward you.
 
-**6.63.4**  The fire has stood upright for you two at the sacrifices; the gladdening gift, clarified and flame-lit, goes forward; the Hotar, delighted in mind, expansive, who is invoker for the Nāsatyas, has been set in motion.
+**6.63.4**  The fire has stood upright for you two at the sacrifices; the gladdening gift, clarified and flame-lit, goes forward; the Hotṛ, delighted in mind, expansive, who is invoker for the Nāsatyas, has been set in motion.
 
 **6.63.5**  Sūrya's daughter has mounted the chariot for glory, the one that gives much and has a hundred aids; O men skilled at dancing, become here surpassers with your arts at the birth of the sacrifice-worthy ones.
 
@@ -1470,7 +1470,7 @@ translator: thothica
 
 **6.70.3**  The mortal who offers to you two, O Heaven and Earth, O Wisdom-goddesses, for the straight stepping — he prospers; he is born forward among offspring from your ordinance; what has been poured into you two takes many forms, sharing one law.
 
-**6.70.4**  Heaven and Earth, encompassed with ghee, glorious with ghee, mixed with ghee, swelling with ghee — the wide, the broad ones, coveted by the Hotar priest, set foremost — them do the sages pray to for favour, for offering.
+**6.70.4**  Heaven and Earth, encompassed with ghee, glorious with ghee, mixed with ghee, swelling with ghee — the wide, the broad ones, coveted by the Hotṛ priest, set foremost — them do the sages pray to for favour, for offering.
 
 **6.70.5**  May Heaven and Earth sprinkle sweetness upon us, dripping honey, yielding honey, whose rite is honey; bearing the sacrifice and wealth, the divine ones — may they grant us great fame, food, and heroic strength.
 

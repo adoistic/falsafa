@@ -62,11 +62,11 @@ translator: thothica
 
 **3.1.21**  Birth after birth the Knower-of-all-births is established; he is kindled unceasing by the Viśvāmitras. May we be in the auspicious favour and fair benevolence of that god worthy of worship.
 
-**3.1.22**  O mighty one, place this our sacrifice among the gods, O Agni of good resolve, bestowing gifts. Do you send forth our great nourishments, O Hotar; O Agni, win great wealth for us by sacrifice.
+**3.1.22**  O mighty one, place this our sacrifice among the gods, O Agni of good resolve, bestowing gifts. Do you send forth our great nourishments, O Hotṛ; O Agni, win great wealth for us by sacrifice.
 
 **3.1.23**  O Agni, accomplish for the worshipper Iḷā of many wonders, the ever-abiding winning of the cow. May there be for us a son and offspring rich in descendants; O Agni, may that favour of yours be upon us.
 
-**3.2.1**  For Vaiśvānara who augments the Truth, for Agni, we proclaim wisdom like clarified butter; the axe fashions both the Hotar of man and the praising singer, as a chariot is built with insight.
+**3.2.1**  For Vaiśvānara who augments the Truth, for Agni, we proclaim wisdom like clarified butter; the axe fashions both the Hotṛ of man and the praising singer, as a chariot is built with insight.
 
 **3.2.2**  By his birth he illumined both world-halves; he became the praiseworthy son of his two mothers. Agni, the carrier of oblations, unaging, delightful in food, hard to deceive, guest of the peoples, rich in light.
 
@@ -76,7 +76,7 @@ translator: thothica
 
 **3.2.5**  The peoples here have set Agni in the fore for their well-being, the winner of prizes and fame, they who have strewn the sacred grass; with ladles stretched out they place the brilliantly gleaming, all-divine, Rudra-like Agni, the fulfiller of sacrificial purpose and of works.
 
-**3.2.6**  O Hotar of pure flame, the men who have strewn the sacred grass at sacrifices move around your dwelling. O Agni, those who seek your service attend to that which they may obtain; bestow wealth upon them.
+**3.2.6**  O Hotṛ of pure flame, the men who have strewn the sacred grass at sacrifices move around your dwelling. O Agni, those who seek your service attend to that which they may obtain; bestow wealth upon them.
 
 **3.2.7**  When the working waters supported him at his birth, he filled both world-halves and the great sun. That seer, delightful in food, is led about for the sacrifice like a swift horse intent on winning the prize.
 
@@ -94,11 +94,11 @@ translator: thothica
 
 **3.2.14**  With reverence we implore the pure one, vigorous in his course, beholder of the sun, beacon stationed in the bright space of heaven, waking at dawn — Agni the summit of the sky, whom none may resist, the greatly mighty.
 
-**3.2.15**  We always implore for wealth the joyful Hotar, the pure one of single purpose, the household god, worthy of praise, beholding all peoples — visible as a bright chariot for beauty, installed by Manu.
+**3.2.15**  We always implore for wealth the joyful Hotṛ, the pure one of single purpose, the household god, worthy of praise, beholding all peoples — visible as a bright chariot for beauty, installed by Manu.
 
 **3.3.1**  The inspired ones have placed their precious offerings for Vaiśvānara of wide radiance, for a path among the foundations. For Agni, the immortal, serves the gods, and has not violated the eternal laws.
 
-**3.3.2**  The wondrous messenger travels between both worlds; the Hotar, the Purohita of man, is seated. Rich in wisdom, sent by the gods through heavenly days, Agni adorns the great abode.
+**3.3.2**  The wondrous messenger travels between both worlds; the Hotṛ, the Purohita of man, is seated. Rich in wisdom, sent by the gods through heavenly days, Agni adorns the great abode.
 
 **3.3.3**  The inspired ones magnify with their thoughts Agni, the beacon of sacrifices, the accomplisher of the assembly. In him upon whom the poets have joined their songs of praise, the sacrificer delights in favours.
 
@@ -122,21 +122,21 @@ translator: thothica
 
 **3.4.2**  The one whom the gods — Varuṇa, Mitra, Agni — honour three times on each day: make this sweet sacrifice of ours, which Tanūnapāt and Ghee-womb have distributed, a success.
 
-**3.4.3**  The all-chosen sacred thought goes forth to honour the Hotar as the first for worship. To approach the bull with homages and praise him — so summoned and most sacrificing, let him worship the gods.
+**3.4.3**  The all-chosen sacred thought goes forth to honour the Hotṛ as the first for worship. To approach the bull with homages and praise him — so summoned and most sacrificing, let him worship the gods.
 
-**3.4.4**  Your path at the sacrifice has been made upright; the flames have departed upward, reaching the realms. Or the Hotar has been set down at the navel of heaven; we shall strew the sacred grass wide enough for the gods.
+**3.4.4**  Your path at the sacrifice has been made upright; the flames have departed upward, reaching the realms. Or the Hotṛ has been set down at the navel of heaven; we shall strew the sacred grass wide enough for the gods.
 
 **3.4.5**  Choosing the seven priestly functions with the mind, driving all things forward going by the Truth, the many born of man-like appearance among the assemblies have spread out through this sacrifice.
 
 **3.4.6**  As the two Dawns, glorying and nearby, smile with their diverse forms, may Mitra and Varuṇa, and Indra with his Maruts, or the great ones, be delighted with us.
 
-**3.4.7**  I have set in place the two divine Hotars; the seven refreshments exult with their own power. Proclaiming the Truth, they speak only the Truth, meditating on the ordinance as its guardians.
+**3.4.7**  I have set in place the two divine Hotṛs; the seven refreshments exult with their own power. Proclaiming the Truth, they speak only the Truth, meditating on the ordinance as its guardians.
 
 **3.4.8**  Let Bhāratī with the Bhāratīs, Iḷā in accord with gods and men, Agni, and Sarasvatī together with the Sarasvatīs — let these three goddesses sit on this sacred grass.
 
 **3.4.9**  O divine Tvaṣṭar, bestow upon us that nourishing, life-sustaining vigour, freely giving; from which a hero is born, active in work, of good skill, who works the pressing-stones and desires the gods.
 
-**3.4.10**  O Lord of the forest, release the gods; Agni the sacrificer sets the oblation flowing. He alone as Hotar, truer than others, worships as one who knows the origins of the gods.
+**3.4.10**  O Lord of the forest, release the gods; Agni the sacrificer sets the oblation flowing. He alone as Hotṛ, truer than others, worships as one who knows the origins of the gods.
 
 **3.4.11**  Come hither, O Agni, kindled, in the same chariot as swift Indra and the gods. Let Aditi of good sons sit on the sacred grass; let the immortal gods be gladdened with Svāhā.
 
@@ -146,7 +146,7 @@ translator: thothica
 
 **3.5.3**  Agni has been placed in human clans — the embryo of the waters, like Mitra, accomplishing by the Truth. The desirable and worshipful one has stood upon the ridge; the inspired one has become worthy of offerings of the prayers.
 
-**3.5.4**  Agni becomes Mitra when kindled; the Hotar, the Knower-of-all-births, is Varuṇa. The vigorous householder as Adhvaryu is Mitra; he is Mitra of the rivers and of the mountains.
+**3.5.4**  Agni becomes Mitra when kindled; the Hotṛ, the Knower-of-all-births, is Varuṇa. The vigorous householder as Adhvaryu is Mitra; he is Mitra of the rivers and of the mountains.
 
 **3.5.5**  He guards the dear foremost step of the thievish bird; the great one guards the course of the sun. Agni, sublime, guards at the navel the seven-headed one; he guards the highest seat of the gods.
 
@@ -166,7 +166,7 @@ translator: thothica
 
 **3.6.2**  Being born, you filled both worlds, and then left them to be enjoyed; now, O adorable one, let your seven-tongued conveyors be celebrated with your greatness of heaven and earth.
 
-**3.6.3**  Heaven and earth, worthy of worship, set you down as Hotar for the house. When human tribes, desiring the gods, rich in offerings, invoke the bright flame.
+**3.6.3**  Heaven and earth, worthy of worship, set you down as Hotṛ for the house. When human tribes, desiring the gods, rich in offerings, invoke the bright flame.
 
 **3.6.4**  The great one, fixed, has sat down firmly in his common seat, between great heaven and earth, being praised. In the lap sit the two co-wives, unaging and immortal, milk-cows of the far-ranging one who milk together.
 
@@ -174,13 +174,13 @@ translator: thothica
 
 **3.6.6**  Harness Ṛta's two long-maned, yoke-fitting, ghee-dripping red steeds to the chariot-pole. Then bring all the gods, O divine Jātavedas, make the sacrifice well-performed.
 
-**3.6.7**  From heaven itself your flames shine out; you illumine many dawns as they blaze forth. When you, O Agni, glow with longing in the forests, the gods marvel at the joyful Hotar.
+**3.6.7**  From heaven itself your flames shine out; you illumine many dawns as they blaze forth. When you, O Agni, glow with longing in the forests, the gods marvel at the joyful Hotṛ.
 
 **3.6.8**  Whether gods exult in the wide atmosphere, or are in the bright space of heaven, or those of easy invocation, worthy of worship who are helpers — all like chariot horses have come to you, O Agni.
 
 **3.6.9**  Come hither, O Agni, in the same chariot with these, or in separate chariots — for the horses are many. Bring the thirty-three gods with their wives in proper order; be gladdened.
 
-**3.6.10**  He is the Hotar for whom even the two broad worlds speak praise for the increase of every sacrifice. Both stand firm, fair and eastward like a rite — the two truth-containing ones in the truth of the one born of Truth.
+**3.6.10**  He is the Hotṛ for whom even the two broad worlds speak praise for the increase of every sacrifice. Both stand firm, fair and eastward like a rite — the two truth-containing ones in the truth of the one born of Truth.
 
 **3.6.11**  O Agni, accomplish for the worshipper Iḷā of many wonders, the ever-abiding winning of the cow. May there be for us a son and offspring rich in descendants; O Agni, may that favour of yours be upon us.
 
@@ -198,9 +198,9 @@ translator: thothica
 
 **3.7.7**  Seven inspired ones with five Adhvaryus guard the beloved hidden step of the bird. The ageless bulls exult going forward; the gods have followed the divine ordinances.
 
-**3.7.8**  I have set in place the two divine Hotars foremost; the seven refreshments exult with their own power. Proclaiming the Truth, they speak only the Truth, meditating on the ordinance as its guardians.
+**3.7.8**  I have set in place the two divine Hotṛs foremost; the seven refreshments exult with their own power. Proclaiming the Truth, they speak only the Truth, meditating on the ordinance as its guardians.
 
-**3.7.9**  Many rays well-steered for the great swift steed, for the brilliant bull, are being bullish. O divine Hotar, more gladdening and discerning, bring the great gods and both worlds here.
+**3.7.9**  Many rays well-steered for the great swift steed, for the brilliant bull, are being bullish. O divine Hotṛ, more gladdening and discerning, bring the great gods and both worlds here.
 
 **3.7.10**  Wealthy, of fair speech, with good beacons, the offering-rich ones have shone brilliantly at the Dawns. But even the sin that has been done, O Agni, do thou remit by the greatness of the earth.
 
@@ -244,27 +244,27 @@ translator: thothica
 
 **3.9.8**  Pour the oblation to the self-performing sacrificer, the fierce one of pure flame. Attend with offerings to the swift messenger, the quick, ancient, praiseworthy, helpful deity.
 
-**3.9.9**  Three hundred, three thousand, and thirty-nine gods have served Agni. They sprinkled him with ghees and strewed the sacred grass for him; then at last they seated him as Hotar.
+**3.9.9**  Three hundred, three thousand, and thirty-nine gods have served Agni. They sprinkled him with ghees and strewed the sacred grass for him; then at last they seated him as Hotṛ.
 
 **3.10.1**  You, O Agni, the thoughtful mortals kindle at the sacrifice — the universal king of peoples, the divine one.
 
-**3.10.2**  You, O Agni, they invoke at sacrifices as Hotar and seasonal priest. O guardian of the Truth, blaze in your own house.
+**3.10.2**  You, O Agni, they invoke at sacrifices as Hotṛ and seasonal priest. O guardian of the Truth, blaze in your own house.
 
 **3.10.3**  He who pays homage to you, O Knower-of-all-births, with fuel — that man, O Agni, obtains excellent manly strength; he flourishes.
 
-**3.10.4**  That Agni, the beacon of the rites, shall come with the gods, anointed with seven Hotars, to him who holds the oblation.
+**3.10.4**  That Agni, the beacon of the rites, shall come with the gods, anointed with seven Hotṛs, to him who holds the oblation.
 
-**3.10.5**  Carry forth to the Hotar's office the mighty ancient speech for Agni, who bears the lights of the seers and the seer-gift.
+**3.10.5**  Carry forth to the Hotṛ's office the mighty ancient speech for Agni, who bears the lights of the seers and the seer-gift.
 
 **3.10.6**  May our songs increase Agni, from whom the lauded one is born — the visible one, for great vigour and wealth.
 
-**3.10.7**  O Agni, most skilled at the rite, worship the gods for the god-fearing man. The joyful Hotar, you shine beyond the failures.
+**3.10.7**  O Agni, most skilled at the rite, worship the gods for the god-fearing man. The joyful Hotṛ, you shine beyond the failures.
 
 **3.10.8**  O purifier, blaze out for us luminously; for us be there excellent heroic strength. Be the nearest to the praisers for their well-being.
 
 **3.10.9**  The inspired, greatly-praising ones, vigilant, kindle you — the immortal carrier of oblations who grows with might.
 
-**3.11.1**  Agni is the Hotar and Purohita of the rite, the all-seeing one. He knows the sacrifice in proper order.
+**3.11.1**  Agni is the Hotṛ and Purohita of the rite, the all-seeing one. He knows the sacrifice in proper order.
 
 **3.11.2**  He is the immortal carrier of oblations, the eager messenger delightful in food — Agni is set in motion by wisdom.
 
@@ -308,13 +308,13 @@ translator: thothica
 
 **3.13.4**  Let Agni grant us the most beneficent shelters for our enjoyment — from which refreshing wealth comes to us from heaven, from the sky, from the waters.
 
-**3.13.5**  The reciters kindle with his auspicious thoughts the unrivalled blazing Agni, the Hotar and lord of the clans.
+**3.13.5**  The reciters kindle with his auspicious thoughts the unrivalled blazing Agni, the Hotṛ and lord of the clans.
 
 **3.13.6**  Moreover, O priest, be beneficent to us in our lauds, O most invoked of gods. O Agni, who grows with the Maruts, most winning of thousands, blaze out auspiciously for us.
 
 **3.13.7**  Now give us wealth thousandfold, rich in offspring and nourishment. O Agni, luminous excellent heroic strength, the highest and never wasting away.
 
-**3.14.1**  The joyful Hotar has taken his place in the assemblies — the true sacrificer, the most seer-like, the wise one. Agni, son of strength, of lightning chariot, with flame as hair, has spread his might upon the earth.
+**3.14.1**  The joyful Hotṛ has taken his place in the assemblies — the true sacrificer, the most seer-like, the wise one. Agni, son of strength, of lightning chariot, with flame as hair, has spread his might upon the earth.
 
 **3.14.2**  I offer you this homage-speech; be pleased with it. O truthful, mighty one, it becomes visible to you. Knowing all, bring the knowing ones; sit in the midst of the sacred grass for our aid, O worthy of worship.
 

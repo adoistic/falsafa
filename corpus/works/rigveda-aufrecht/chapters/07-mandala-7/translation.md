@@ -1230,7 +1230,7 @@ translator: thothica
 
 **7.72.3**  The praises of the Aśvins have arisen; the kindred hymns and the divine Uṣas attend on Heaven and Earth. The inspired priest declares aloud toward you, O Nāsatyas, who dwell in the two worlds.
 
-**7.72.4**  When the dawns shine forth, O Aśvins, the poets bring prayers forward to you; divine Savitar has raised his light on high, and the fires blaze greatly with the kindling.
+**7.72.4**  When the dawns shine forth, O Aśvins, the poets bring prayers forward to you; divine Savitṛ has raised his light on high, and the fires blaze greatly with the kindling.
 
 **7.72.5**  Come, O Nāsatyas, from behind and from before; O Aśvins, come from below and from above; come from all directions with the wealth belonging to the five peoples — do you ever protect us with blessings.
 
@@ -1272,7 +1272,7 @@ translator: thothica
 
 **7.75.8**  Now bestow on us, O Uṣas, a treasure rich in cattle, rich in heroes, rich in horses and much nourishment. Do not make our sacred grass a reproach among men — do you ever protect us with blessings.
 
-**7.76.1**  The immortal, universal light has risen; divine Savitar, all-knowing, has ascended. By the will of the gods the eye was born — Uṣas has made all of the world visible.
+**7.76.1**  The immortal, universal light has risen; divine Savitṛ, all-knowing, has ascended. By the will of the gods the eye was born — Uṣas has made all of the world visible.
 
 **7.76.2**  The paths of the gods have appeared before me, unfailing, adorned with riches. The banner of Uṣas appeared in the east; she has come, facing toward us, over the dwellings.
 
@@ -1310,7 +1310,7 @@ translator: thothica
 
 **7.79.1**  Uṣas has shone forth, opening the paths of the peoples, awakening the five human settlements. She has climbed the light with well-visible bulls; the sun has opened wide the two worlds with its gaze.
 
-**7.79.2**  They adorn the nights at the ends of heaven; like harnessed folk the Uṣases strive onward. The cows for her turn the darkness round; she extends the light like Savitar's arms.
+**7.79.2**  They adorn the nights at the ends of heaven; like harnessed folk the Uṣases strive onward. The cows for her turn the darkness round; she extends the light like Savitṛ's arms.
 
 **7.79.3**  Uṣas has arisen, most Indra-like, most bountiful; she has brought forth glories for well-being. The divine daughter of heaven, most like the Aṅgiras-priests, apportions riches to the pious.
 

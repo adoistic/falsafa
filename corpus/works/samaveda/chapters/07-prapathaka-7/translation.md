@@ -45,7 +45,7 @@ translator: thothica
 
 **7.13**  O Indra, protect us in contests and in the thousand-prize races, O mighty one, with your mighty aids.
 
-**7.14**  He whose name is Pratha and Sapratha — the offering of the Anuṣṭubh hymn, which is an oblation — from Dhātar shining bright and from Savitar and Viṣṇu, Vasiṣṭha brought forth the Rathantara chant.
+**7.14**  He whose name is Pratha and Sapratha — the offering of the Anuṣṭubh hymn, which is an oblation — from Dhātar shining bright and from Savitṛ and Viṣṇu, Vasiṣṭha brought forth the Rathantara chant.
 
 **7.15**  Come, O Vāyu, with your team of horses; this bright one is offered to you. You shall go to the home of the one who presses the soma.
 

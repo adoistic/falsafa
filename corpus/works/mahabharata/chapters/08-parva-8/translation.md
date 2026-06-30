@@ -300,7 +300,7 @@ translator: thothica
 
 **8.4.58**  Dhṛtarāṣṭra said: You have told me, my son, of my own men slain in battle by the Pāṇḍavas; now tell me, Saṃjaya, of the Pāṇḍavas' men slain by mine.
 
-**8.4.59**  Saṃjaya said: The Kuntis, valiant in battle, of great courage and great strength, with their followers and counselors, were struck down in battle by Bhīṣma.
+**8.4.59**  Saṃjaya said: The Kuntīs, valiant in battle, of great courage and great strength, with their followers and counselors, were struck down in battle by Bhīṣma.
 
 **8.4.60**  Satyajit, the equal in battle of the diademed one in valor and in strength, was slain in the fray by the true-vowed Droṇa.
 
@@ -830,7 +830,7 @@ translator: thothica
 
 **8.8.17**  with swords girded on and nooses in hand, able to ward off charging elephants, sworn to a common death, O king, standing in the ranks shoulder to shoulder—
 
-**8.8.18**  bearing quivers and bows in hand, long-haired and loving battle—the Andhra footmen of Sātyaki, dreadful in form and prowess.
+**8.8.18**  bearing quivers and bows in hand, long-haired and loving battle—the Āndhra footmen of Sātyaki, dreadful in form and prowess.
 
 **8.8.19**  Then yet other warriors—the Cedis, the Pāñcālas, the Kekayas, the Karūṣas, the Kosalas, the Kāśis, and the Māgadhas—rushed forth.
 

@@ -79,13 +79,13 @@ translator: thothica
 
 **20.3.10**  Dhātṛ rules over offspring and over wealth; Dhātṛ generated this entire universe. May abundant nourishment be conveyed to the pious man — to that god let us offer homage with an oblation.
 
-**20.4.1**  For you, O god, have set forth for the primal Father his full stature and his breadth. Now, O Savitar, press out for us desirable gifts twofold, along with abundant cattle.
+**20.4.1**  For you, O god, have set forth for the primal Father his full stature and his breadth. Now, O Savitṛ, press out for us desirable gifts twofold, along with abundant cattle.
 
 **20.4.2**  Go forward from the good to the better; let Bṛhaspati be your forerunner. Then make this man, in the choicest part of this earth, one who has driven off enemies, possessed of all heroic men.
 
-**20.4.3**  The god Savitar, dwelling in the house, most excellent, bestowing wealth, vigor, and long lives upon the fathers — may he drink soma, may he exhilarate this man at the sacrifice; even the wide-roaming one delights in his holy ordinance.
+**20.4.3**  The god Savitṛ, dwelling in the house, most excellent, bestowing wealth, vigor, and long lives upon the fathers — may he drink soma, may he exhilarate this man at the sacrifice; even the wide-roaming one delights in his holy ordinance.
 
-**20.4.4**  That brilliant gift of Savitar of true might, of the god, at his impulsion, do we win — that which Kaṇva milked for the great bull, the full-uddered cow of thousandfold streams, for the sustaining.
+**20.4.4**  That brilliant gift of Savitṛ of true might, of the god, at his impulsion, do we win — that which Kaṇva milked for the great bull, the full-uddered cow of thousandfold streams, for the sustaining.
 
 **20.4.5**  Who among the nobles, desiring better fortune, will lead us out of this blameworthy hostility? Who desires the fulfillment of vows? Who desires sacrifice? Who wins long life among the gods?
 
@@ -113,7 +113,7 @@ translator: thothica
 
 **20.5.7**  You are the body of austerity, the color of Prajāpati. You are purchased with the supreme sacrificial animal.
 
-**20.5.8**  I praise that god Savitar, of poet-wisdom, hidden within the two woolen strands, of true impulse, the bestower of gems, with a beloved thought.
+**20.5.8**  I praise that god Savitṛ, of poet-wisdom, hidden within the two woolen strands, of true impulse, the bestower of gems, with a beloved thought.
 
 **20.5.9**  He whose upward-shooting thought blazed with light at his impulsion — golden-handed and of excellent resolve, he measured out the sky with grace.
 
@@ -663,7 +663,7 @@ translator: thothica
 
 **20.34.8**  Of the hundred remedies you possess and the thousand that have been gathered, you are the highest, the best — the finest remedy against discharge, the most potent destroyer of disease.
 
-**20.34.9**  When today we have chosen you at this sacrifice, O Hotar, as the one who perceives — come to the Soma knowing it, understanding it; firm is the metal, firm and most soothing.
+**20.34.9**  When today we have chosen you at this sacrifice, O Hotṛ, as the one who perceives — come to the Soma knowing it, understanding it; firm is the metal, firm and most soothing.
 
 **20.34.10**  O Indra, guide us together with mind and with cattle; O bay-horsed one, with generous patrons and with well-being. Unite us with the brahman power, with all that is made by the gods.
 
@@ -1005,13 +1005,13 @@ translator: thothica
 
 **20.52.10**  Come here, be not harmed, O praisers; do not stand apart, you of good intent; may you be steadfast, immortal, uncrumbling.
 
-**20.53.1**  Dhātar has grasped your hand, Savitar has grasped your hand; you are Mitra by your sacred law — Agni is your teacher.
+**20.53.1**  Dhātar has grasped your hand, Savitṛ has grasped your hand; you are Mitra by your sacred law — Agni is your teacher.
 
-**20.53.2**  You are the chaste student of Agni; you are my chaste student. May Prajāpati protect you; I hand you over to the divine Savitar — may that one here move in well-being.
+**20.53.2**  You are the chaste student of Agni; you are my chaste student. May Prajāpati protect you; I hand you over to the divine Savitṛ — may that one here move in well-being.
 
-**20.53.3**  You are the All, O Lord of All; you are the Whole, O Lord of the Whole. You there — I hand you over to the divine Savitar; may he move in well-being in me.
+**20.53.3**  You are the All, O Lord of All; you are the Whole, O Lord of the Whole. You there — I hand you over to the divine Savitṛ; may he move in well-being in me.
 
-**20.53.4**  Let the one who has returned, standing firm, desirous of victory — let the desire of all move here and be present. Having abandoned all enmities and misdeeds, may they go forth obedient to the divine Savitar.
+**20.53.4**  Let the one who has returned, standing firm, desirous of victory — let the desire of all move here and be present. Having abandoned all enmities and misdeeds, may they go forth obedient to the divine Savitṛ.
 
 **20.53.5**  May the hand that has done no wrong, the heavenly one, come back again, meeting the body in accord. May Mitra guard us from both sides — by breath, by brilliance, by vigor, and by strength — and Varuṇa too.
 

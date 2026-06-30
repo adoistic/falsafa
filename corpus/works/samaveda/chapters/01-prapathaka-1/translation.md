@@ -131,7 +131,7 @@ translator: thothica
 
 **1.56**  Let Brahmaṇaspati go forward; let the divine, joyful word go forward. May the gods lead our sacrifice toward the heroic, manly, bountiful one, the lord of the fivefold verse.
 
-**1.57**  Stand upright for our help, like the god Savitar. Stand upright to win the prize when we invoke you with anointed worshippers.
+**1.57**  Stand upright for our help, like the god Savitṛ. Stand upright to win the prize when we invoke you with anointed worshippers.
 
 **1.58**  The mortal who desires to lead toward wealth, who worships you, O Vasu — he gains a hero, O Agni, a reciter of hymns, a nourisher of thousands by his own power.
 
@@ -139,7 +139,7 @@ translator: thothica
 
 **1.60**  This Agni is master of heroic valor and of good fortune. He is master of wealth with fine offspring, master of riches with cattle, master of the slaying of Vṛtra.
 
-**1.61**  You, O Agni, are the lord of the house; you are the Hotar priest at our sacrifice. You are the Potar, all-desired, all-knowing — you cut through and also win what is desirable.
+**1.61**  You, O Agni, are the lord of the house; you are the Hotṛ priest at our sacrifice. You are the Potar, all-desired, all-knowing — you cut through and also win what is desirable.
 
 **1.62**  We mortals have chosen you, the god, as a friend for help — child of the waters, bringer of good fortune, rich in fine deeds, with excellent swiftness, without blemish.
 
@@ -155,7 +155,7 @@ translator: thothica
 
 **1.68**  The gods generated you with hymns, O Agni, like waters from the back of a mountain. The well-praised songs speed you to win the prize — as prize-bearing horses have won a race.
 
-**1.69**  Make Agni, the Rudra of the sacrifice, the Hotar who truly sacrifices for the two worlds, the gold-formed one — make him your refuge, before the unnoticed thunder, for help.
+**1.69**  Make Agni, the Rudra of the sacrifice, the Hotṛ who truly sacrifices for the two worlds, the gold-formed one — make him your refuge, before the unnoticed thunder, for help.
 
 **1.70**  The lord, the mortal's own, is kindled with reverences, whose face is poured with ghee. Men praise him with offerings together in pressing — Agni shines at the forefront of the dawns.
 
@@ -171,7 +171,7 @@ translator: thothica
 
 **1.76**  O Agni, accomplish for the one who calls the refreshing, much-wondrous winning of cows, ever-lasting. May there be for us a son, an offspring bearing descendants — O Agni, may that gracious thought of yours be for us.
 
-**1.77**  The Hotar, being born great, has pierced heaven; the man-seated one has taken his place in the expanse of waters. He who placed himself at the pressed soma dispenses vigor — he who guides riches to the worshipper is a protector of bodies.
+**1.77**  The Hotṛ, being born great, has pierced heaven; the man-seated one has taken his place in the expanse of waters. He who placed himself at the pressed soma dispenses vigor — he who guides riches to the worshipper is a protector of bodies.
 
 **1.78**  Let the praising doors wish forward the sovereign, the praised one of the asura power, the laudable male of the peoples — let them wish forward the heroic deeds done, as those of Indra.
 
