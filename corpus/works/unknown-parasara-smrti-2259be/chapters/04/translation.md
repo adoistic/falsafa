@@ -42,7 +42,7 @@ A Brāhmaṇa who unintentionally associates with an outcaste or the like for fi
 
 or for half a month, or one month, or even two months, or for half a year or a full year—beyond that, he becomes equal to them. // Par_4.10 //
 
-For the first period (five days), a three-night fast is required. For the second (ten days), one should perform the Kṛcchra penance. For the third period (twelve days), one should perform the Sāntapana Kṛcchra penance. (II,1, p. 29) // Par_4.11 //
+For the first period (five days), a three-night fast is required. For the second (ten days), one should perform the Kṛcchra penance. For the third period (twelve days), one should perform the Sāṃtapana Kṛcchra penance. (II,1, p. 29) // Par_4.11 //
 
 For the fourth (half a month), a ten-night fast is prescribed. For the fifth (one month), the Parāka penance is ordained. For the sixth (two months), one should perform the Cāndrāyaṇa; for the seventh (half a year), two Aindava penances. // Par_4.12 //
 

@@ -26,6 +26,6 @@ Even in a suit with multiple claims, whatever amount the creditor establishes wi
 
 He who, having denied everything, then privately admits even a little of the accusation, shall be made to pay the entire amount, says Bṛhaspati. // K_474 //
 
-Thus, the determination of cases should be seen by one sitting on the seat of justice, being impartial to the litigants, together with Brahmins, and not otherwise. // K_475 //
+Thus, the determination of cases should be seen by one sitting on the seat of justice, being impartial to the litigants, together with Brāhmaṇas, and not otherwise. // K_475 //
 
 The king, having seen the legal proceedings himself or having heard them from the Chief Judge, should then give a document of victory for the purpose of final knowledge. // K_476 //

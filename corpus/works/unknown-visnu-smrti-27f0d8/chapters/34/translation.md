@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 34**
+**Viṣṇu Smriti 34**
 
 Incest with one's mother, daughter, or daughter-in-law are heinous sins (*atipātaka*). // Vi_34.1 //
 

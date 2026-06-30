@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 93**
+**Viṣṇu Smriti 93**
 
 What is given to a non-Brāhmaṇa has an equal fruit in the next world. // Vi_93.1 //
 To one who calls himself a Brāhmaṇa, double. // Vi_93.2 //

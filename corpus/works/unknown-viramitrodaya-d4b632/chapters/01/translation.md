@@ -1016,7 +1016,7 @@ From the *Brahma Purāṇa* verse:
 
 > Ṣaṣṭhī and Saptamī, O Tāta, are mutually dependent. The Saptamī *tithi* should be performed when conjoined with the preceding day, O best of the twice-born!
 
-From the verse of Paiṭhīnasī:
+From the verse of Paiṭhīnasi:
 
 > Pañcamī and Saptamī, and Daśamī and Trayodaśī, Pratipad and Navamī—these *tithis* should be performed when they are facing.
 
@@ -1146,7 +1146,7 @@ And this, being prescribed by the *tithi*, should be performed on the *tithi* al
 
 > The annual vow stated for the *tithi*, which has Jyeṣṭhā as its deity, and the Nīlajyeṣṭhā vow, which is prescribed for the lunar mansion alone...
 
-Mādhava says that the Nīlajyeṣṭhā vow mentioned in the *Mātsya Purāṇa* is also prescribed by the *tithi*.
+Mādhava says that the Nīlajyeṣṭhā vow mentioned in the *Matsya Purāṇa* is also prescribed by the *tithi*.
 
 > When on Aṣṭamī, the day of the week is Sunday and the lunar mansion is also Jyeṣṭhā, it is called Nīlajyeṣṭhā, rare over many ages.
 
@@ -1383,7 +1383,7 @@ And it should be taken when conjoined with Aṣṭamī, from the *yugma-vākya* 
 
 In the *Padma Purāṇa* also:
 
-> Aṣṭamī conjoined with Navamī, and Navamī conjoined with Aṣṭamī, is a *tithi* like Ardhanārīśvara, of Umā and Māheśvara.
+> Aṣṭamī conjoined with Navamī, and Navamī conjoined with Aṣṭamī, is a *tithi* like Ardhanārīśvara, of Umā and Maheśvara.
 
 In the *Bhaviṣya Purāṇa* also, in the Dvādaśīkalpa:
 
@@ -2467,7 +2467,7 @@ Therein, as for the one which is conjoined with Śravaṇa on only one day, whet
 
 When, in the case of a conjoined and long *tithi*, there is a conjunction with Śravaṇa on both days, then the one conjoined with Ekādaśī should be taken.
 
-This is from the statement of the *Mātsya Purāṇa*:
+This is from the statement of the *Matsya Purāṇa*:
 > When Dvādaśī, touching Śravaṇa, touches Ekādaśī, /
 > that is the Vaiṣṇava yoga, called Viṣṇuśṛṅkhala. //
 
@@ -2506,7 +2506,7 @@ This is from the statement of the *Bhaviṣya Purāṇa*:
 
 When one has undertaken the Ekādaśī vow and the Śravaṇa-dvādaśī vow, but is unable to perform both, then having fasted on Ekādaśī, one should perform only the worship on Dvādaśī.
 
-This is from the statement of the *Mātsya Purāṇa*:
+This is from the statement of the *Matsya Purāṇa*:
 > On Dvādaśī of the bright fortnight, if there is the Śravaṇa *nakṣatra*, /
 > having fasted on Ekādaśī, one should worship Hari on Dvādaśī there. //
 
@@ -2843,7 +2843,7 @@ Thus ends the determination of the Jayantīs.
 
 On the bright Caturdaśī of Jyeṣṭha, having performed the austerity of the five fires for the entire day, a golden cow should be given in the evening.
 
-This is from the statement of the *Mātsya Purāṇa*:
+This is from the statement of the *Matsya Purāṇa*:
 > In Jyeṣṭha, one who performs the five-fire austerity and gives a golden cow in the evening goes to heaven. /
 > On Aṣṭamī and Caturdaśī, this is remembered as a vow to Rudra. //
 
@@ -3249,7 +3249,7 @@ Others, however, say that since there is no proof of its being a subordinate ele
 
 And this should not be performed during Bhadrā.
 
-> Two things should not be done in Bhadrā: Śrāvaṇī and Phālgunī.
+> Two things should not be done in Bhadrā: Śrāvaṇī and Phalgunī.
 
 This is from the *Saṅgraha*.
 
@@ -4278,7 +4278,7 @@ A specific sacred ford for a specific eclipse is in the same text:
 > And when the sun is swallowed by Rāhu (*Rāhuṇā* (राहुणा)) and becomes dark, O great sage! //
 > By the touch of the water of the Narmadā (*Narmadā* (नर्मदा)), they become fulfilled.
 
-In the *Mātsya Purāṇa*:
+In the *Matsya Purāṇa*:
 
 > The Gaṅgā, Kanakhala (*Kanakhalaṃ* (कनखलं)), Prayāga (*Prayāgaḥ* (प्रयागः)), and Puṣkara (*Puṣkaraṃ* (पुष्करं)) are sacred. /
 > Kurukṣetra (*Kurukṣetraṃ* (कुरुक्षेत्रं)) is also sacred when the sun (*divākare* (दिवाकरे)) is swallowed by Rāhu (*Rāhu* (राहु)). //
@@ -4357,7 +4357,7 @@ And this should be performed even in an intercalary month (*malamāse* (मल�
 > At an eclipse of the moon and sun, and at the death or birth of a son, /
 > it should be given even in an intercalary month (*malamāse* (मलमसे)); what is given becomes imperishable (*akṣaya* (अक्षय)). //
 
-This is from the *Mātsya Purāṇa*.
+This is from the *Matsya Purāṇa*.
 
 And here, even an optional (*kāmyaṃ* (काम्यम्)) bathing, etc., should be performed.
 
@@ -6125,7 +6125,7 @@ In the daily rite = in the daily giving.
 > In the year, the daily ancestral rite, and the daily giving, /
 > of a cow, land, sesame, and gold, should be performed even in an intercalary month. //
 
-From the *Mātsya*, it is in accordance with this.
+From the *Matsya*, it is in accordance with this.
 In the year = in the first year.
 Daily ancestral rite = the daily enjoined ancestral rite of the water-pot.
 And so—
@@ -6651,7 +6651,7 @@ And the afternoon (*aparāhṇa*) here is the third part of a day divided into t
 
 'At the waning of the moon' = on the new moon day (*amāvāsyā*).
 
-And it should not be argued that by the word *pitṛyajña*, in accordance with the *Mātsya*:
+And it should not be argued that by the word *pitṛyajña*, in accordance with the *Matsya*:
 
 > Having performed the *pitṛyajña* called *tarpaṇa*, a twice-born who maintains the sacred fires /
 > should perform the *piṇḍānvāhāryaka* *śrāddha* always at the waning of the moon. //
@@ -6664,7 +6664,7 @@ Because if in the verse of Manu, *tarpaṇa* were taken by the word *pitṛyajñ
 
 For that is a name by the *tatprakhyanyāya* (the *Mīmāṃsā* maxim of naming from a prominent feature). And that is not possible unless the time after the *Piṇḍapitṛyajña* is enjoined. Therefore, the word *pitṛyajña* refers to the *Piṇḍapitṛyajña*.
 
-In the *Mātsya* verse, however, by the word *pitṛyajña*, only *tarpaṇa* is meant. And that is not the *tarpaṇa* in the form of the *pitṛyajña* that is part of the five great sacrifices, as stated by Medhātithi, because since that is accomplished by concomitance on the day of the *śrāddha*, an injunction of its being after that is impossible. Rather, it is the water-libation itself. And although its being after that is already obtained, since the *śrāddha* is enjoined for one who has bathed, and since *tarpaṇa* is a subordinate element of bathing, yet, since three kinds of *pitṛyajña* are obtained from the verse, "*Pitṛyajña* is *tarpaṇa*, or the *śrāddha* would be the *pitṛyajña*, or the offering to the ancestors," the repetition of the water-libation is for the purpose of excluding another *pitṛyajña* on the day of the *śrāddha* for one who maintains the sacred fires, say the Gauḍas.
+In the *Matsya* verse, however, by the word *pitṛyajña*, only *tarpaṇa* is meant. And that is not the *tarpaṇa* in the form of the *pitṛyajña* that is part of the five great sacrifices, as stated by Medhātithi, because since that is accomplished by concomitance on the day of the *śrāddha*, an injunction of its being after that is impossible. Rather, it is the water-libation itself. And although its being after that is already obtained, since the *śrāddha* is enjoined for one who has bathed, and since *tarpaṇa* is a subordinate element of bathing, yet, since three kinds of *pitṛyajña* are obtained from the verse, "*Pitṛyajña* is *tarpaṇa*, or the *śrāddha* would be the *pitṛyajña*, or the offering to the ancestors," the repetition of the water-libation is for the purpose of excluding another *pitṛyajña* on the day of the *śrāddha* for one who maintains the sacred fires, say the Gauḍas.
 
 Others, however, say that since the *tarpaṇa* that is part of the procedure of bathing is obtained only for the Kāṭīyas, and since there is no proof of its being part of the procedure of bathing for others, *tarpaṇa* might sometimes fall after the *śrāddha*. And so, since it is possible for it to be for the purpose of regulating that, and since a restrictive injunction is not proper, the *Matsya Purāṇa* verse regulates only the being after the water-libation, they say.
 
@@ -7876,13 +7876,13 @@ Thus end the Yugāntas.
 
 Now, the Manvantarādis.
 
-In the *Mātsya*:
+In the *Matsya*:
 > The bright Navamī of Āśvayuj, and Dvādaśī of Kārttika, /
 > and the Tṛtīyā of Māgha, and likewise of Bhādrapada, //
 > the new moon day of Phālguna, and the Ekādaśī of Pauṣa, /
 > the Daśamī of Āṣāḍha, and the Saptamī of Māgha, //
 > the dark Aṣṭamī of Śrāvaṇa, and the full moon of Āṣāḍha, /
-> the fifteenth of Kārttikī, Phālgunī, Caitrī, and Jyeṣṭhā, being bright, //
+> the fifteenth of Kārttikī, Phalgunī, Caitrī, and Jyeṣṭhā, being bright, //
 > these are the Manvantarādis, making what is given imperishable. /
 > On these, having bathed and given even water mixed with sesame and Darbha grass, //
 > for the sake of the ancestors, he who gives obtains the supreme state. /
@@ -7919,7 +7919,7 @@ In the *Nāgarakhaṇḍa*:
 > On the bright Tṛtīyā of Vaiśākha, Nīlalohita. //
 > On the bright Caturdaśī, the one named Garuḍa began. /
 > Samāna arose on the dark Dvitīyā. //
-> Māheśvara arrived on the dark Caturdaśī. /
+> Maheśvara arrived on the dark Caturdaśī. /
 > On the bright Tṛtīyā of Jyeṣṭha was the birth of Vāmadeva. //
 > On the Paurṇamāsī of that, O king, the Kaurma began. /
 > On the Tṛtīyā of the dark fortnight, the Āgneya was born. //
@@ -8744,7 +8744,7 @@ The details of this should be known elsewhere.
 
 And here, the mention of the eleventh day in many verses is not merely indicative of the day after the impurity.
 
-This is from the statement of Paiṭhīnasī:
+This is from the statement of Paiṭhīnasi:
 
 > The *śrāddha* that is on the eleventh day is declared as general. /
 > For all the social classes, the impurity period is separate for each. //
@@ -9019,7 +9019,7 @@ Now, if a new moon falls within the ten days, in the *Bhaviṣya Purāṇa*:
 > If a new moon should fall within the impurity period for any of the social classes, /
 > one should complete the rite for the deceased; thus says Gautama. //
 
-Paiṭhīnasī also says:
+Paiṭhīnasi also says:
 
 > The rites of the *piṇḍa* and water for the deceased should be performed on the first moon only. /
 > One who performs them on two moons partakes of the impurity of death again. //
@@ -9135,7 +9135,7 @@ Jātūkarṇya says:
 
 For this very reason—
 
-Paiṭhīnasī says:
+Paiṭhīnasi says:
 
 > The *ṣāṇmāsika* and *ābdika* *śrāddhas* should be on the preceding day. /
 > The monthly rites, on their own day, or on the twelfth day. //
@@ -9186,7 +9186,7 @@ Taking the first death-*tithi*, the monthly rite for one who died on the fifth o
 
 That is trivial.
 
-Because of the previously cited statement of Yājñavalkya, "It should be performed on the day of death"; and because of the statement of Kārṣṇājini, "the others, on the death anniversaries"; and because of the previously presented statement of Paiṭhīnasī, "The monthly rites, on their own day," and "The *ṣāṇmāsika* and *ābdika* *śrāddhas* should be on the preceding day."
+Because of the previously cited statement of Yājñavalkya, "It should be performed on the day of death"; and because of the statement of Kārṣṇājini, "the others, on the death anniversaries"; and because of the previously presented statement of Paiṭhīnasi, "The monthly rites, on their own day," and "The *ṣāṇmāsika* and *ābdika* *śrāddhas* should be on the preceding day."
 
 Therefore, for one who died on the fifth, the monthly rite is on the succeeding fifth itself; the *ūnaṣāṇmāsika*, etc., however, is on the fourth.
 
@@ -9335,7 +9335,7 @@ Likewise:
 
 > Before the Sapiṇḍīkaraṇa, one should perform the sixteen *śrāddhas*.
 
-This is from the statement of Paiṭhīnasī.
+This is from the statement of Paiṭhīnasi.
 
 > Without having given the sixteen *śrāddhas*, one should not perform the Sapiṇḍana.
 
@@ -9349,7 +9349,7 @@ The contradictory enumerations, however, should be seen as being arranged accord
 
 This first *śrāddha* should be performed by Kṣatriyas, etc., also, even while the impurity is present, on the eleventh day itself.
 
-Says Paiṭhīnasī:
+Says Paiṭhīnasi:
 
 > The *śrāddha* that is on the eleventh day is declared as general. /
 > For all four of the social classes, the impurity period is separate for each. //
@@ -9465,7 +9465,7 @@ This is from the statement of Laugākṣi.
 
 > Before the Sapiṇḍīkaraṇa, one should perform the sixteen *śrāddhas*.
 
-And from the statement of Paiṭhīnasī.
+And from the statement of Paiṭhīnasi.
 
 Even those that have been performed by postponement before the Sapiṇḍīkaraṇa should be performed again at their own times after the Sapiṇḍana.
 
@@ -9783,7 +9783,7 @@ In the *Nāgarakhaṇḍa* also:
 > The Sapiṇḍīkaraṇa of the father is established as being after a year. /
 > If a *vṛddhi* is imminent, one should have it performed even before that. //
 
-As for what is said by Paiṭhīnasī, "the Sapiṇḍīkaraṇa is at the end of a year," there too, the seventh case is in the sense of a locus, not in the sense of a name, as in "the cloth at the end of the ten," because it would contradict the previously cited verses.
+As for what is said by Paiṭhīnasi, "the Sapiṇḍīkaraṇa is at the end of a year," there too, the seventh case is in the sense of a locus, not in the sense of a name, as in "the cloth at the end of the ten," because it would contradict the previously cited verses.
 
 As for what is said in the *Smṛtyarthasāra*, that the *ūnābdika* is on the day before the last day of the twelfth month, the Sapiṇḍīkaraṇa is on the next day, and the first annual rite is on the next day, which is the death anniversary, that is to be disregarded, because it contradicts the verse, "on the annual death anniversary."
 
@@ -9999,7 +9999,7 @@ Here too, by the previously stated reasoning, since the locus is established, th
 
 He states another time—
 
-Paiṭhīnasī says: "At the end of a year is the dismissal; in the ninth month, say some."
+Paiṭhīnasi says: "At the end of a year is the dismissal; in the ninth month, say some."
 
 Viṣṇu also says:
 
@@ -11353,7 +11353,7 @@ In the *Matsya Purāṇa*:
 > For three *muhūrtas*, it dwells in cows; for three *muhūrtas*, in a tree. //
 This is from a *smṛti*.
 
-Paiṭhīnasī says:
+Paiṭhīnasi says:
 > The evening twilight, and the food of another, and sesame paste likewise, /
 > on Amāvāsyā, one should not serve, and sexual intercourse and eating at night. //
 
@@ -12789,7 +12789,7 @@ In the *cāturmāsyayājikalpa*, and likewise in the lifelong performance, the t
 
 There too, he states a rule: 'On the Phālguna Paurṇamāsī or on the Caitra Paurṇamāsī, one should sacrifice with the Vaiśvadeva. / Then, after four months, on Āṣāḍhī or Śrāvaṇī, one should sacrifice with the Varuṇapraghāsas. / Then, after four months, having begun on the preceding *parvan* day, one should sacrifice with the Sākamedhas for two days. / Then, after two, three, or four days, or half a month, or a month, or four months, one should sacrifice with the Śunāsīrīyas.'
 
-Here, when the commencement is on Phālgunī, then it is on Āṣāḍhī, etc.; when it is on Caitrī, then it is on Śrāvaṇī.
+Here, when the commencement is on Phalgunī, then it is on Āṣāḍhī, etc.; when it is on Caitrī, then it is on Śrāvaṇī.
 
 The difference of this option from the *ṛtuyāji* option is this: in the *ṛtuyāji* option, having sacrificed with the Vaiśvadeva at the end of spring, the performance of the Varuṇapraghāsas on the first *parvan* day of the rainy season is also possible.
 
@@ -12825,7 +12825,7 @@ For the second year, however, a special rule is stated by Baudhāyana:
 
 'Subsequent performance' = the second performance.
 
-Here, when the commencement was on Phālgunī in the preceding year, then it is on Phālgunī; when the commencement was on Caitrī, then it is on Caitrī.
+Here, when the commencement was on Phalgunī in the preceding year, then it is on Phalgunī; when the commencement was on Caitrī, then it is on Caitrī.
 
 'Then, if with an *iṣṭi*...' means if an *iṣṭi*, etc., is performed for the sake of completing the performance, then this is the sequence.
 

@@ -46,7 +46,7 @@ When the defendant says, "It was not written by the scribe, nor was it seen by t
 
 One should not invalidate a proof with a falsehood, but only with a genuine defect. In a false accusation, one shall be punished and shall also lose the object of the claim. // K_278 //
 
-When a document is thus challenged in the king's court where it is being adjudicated, he should determine the defects of the document after deliberating with Brahmins. // K_279 //
+When a document is thus challenged in the king's court where it is being adjudicated, he should determine the defects of the document after deliberating with Brāhmaṇas. // K_279 //
 
 That by which the witnesses, scribe, and maker become fraudulent, by that the document becomes flawed. Its purity should be determined by pure ones. // K_280 //
 

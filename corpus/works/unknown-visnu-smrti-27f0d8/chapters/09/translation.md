@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 9**
+**Viṣṇu Smriti 9**
 
 Now, the ordeals (*samayakriyā*). // Vi_9.1 //
 

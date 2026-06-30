@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 77**
+**Viṣṇu Smriti 77**
 
 The sun's transit into a new sign. // Vi_77.1 //
 

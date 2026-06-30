@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 54**
+**Viṣṇu Smriti 54**
 
 Whatever sinner is associated with another, he shall perform the penance of that other. // Vi_54.1 //
 

@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 26**
+**Viṣṇu Smriti 26**
 
 When there are many wives of the same *varṇa*, one should perform religious duties with the eldest.[^4] // Vi_26.1 //
 

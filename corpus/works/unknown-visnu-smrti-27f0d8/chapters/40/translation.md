@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 40**
+**Viṣṇu Smriti 40**
 
 Taking wealth from censured persons, commerce, living by usury, speaking untruth, and serving a Śūdra are sins making one unworthy of receiving gifts (*apātrīkaraṇa*). // Vi_40.1 //
 

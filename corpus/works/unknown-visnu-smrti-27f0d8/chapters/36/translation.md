@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 36**
+**Viṣṇu Smriti 36**
 
 The killing of a Kṣatriya or a Vaiśya engaged in a sacrifice, of a menstruating woman, of a pregnant woman, of a woman of an unknown clan, of an unknown embryo, and of one who has sought refuge, is equivalent to killing a Brāhmaṇa. // Vi_36.1 //
 

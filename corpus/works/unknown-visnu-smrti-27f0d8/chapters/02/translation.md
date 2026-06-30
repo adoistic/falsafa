@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 2**
+**Viṣṇu Smriti 2**
 
 Om.
 The Brāhmaṇa, the Kṣatriya, the Vaiśya, and the Śūdra—these are the four *varṇas* (social orders). // Vi_2.1 //

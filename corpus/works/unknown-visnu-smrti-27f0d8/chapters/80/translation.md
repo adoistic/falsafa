@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 80**
+**Viṣṇu Smriti 80**
 
 The ancestors are pleased for a month with sesame seeds, rice, barley, black beans, water, roots, fruits, and vegetables, with *śyāmāka* (श्यामाक) millet, *priyaṅgu* (प्रियङ्गु) millet, wild rice, green gram, and wheat. // Vi_80.1 //
 

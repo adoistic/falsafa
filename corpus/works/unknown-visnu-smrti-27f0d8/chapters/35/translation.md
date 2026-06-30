@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 35**
+**Viṣṇu Smriti 35**
 
 Killing a Brāhmaṇa, drinking liquor, stealing a Brāhmaṇa's gold, and violating a preceptor's bed are great sins (*mahāpātaka*). // Vi_35.1 //
 

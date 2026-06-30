@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 30**
+**Viṣṇu Smriti 30**
 
 Having begun the study of the Vedas in the month of Śrāvaṇa or Prauṣṭhapada, one shall study for four and a half months. // Vi_30.1 //
 

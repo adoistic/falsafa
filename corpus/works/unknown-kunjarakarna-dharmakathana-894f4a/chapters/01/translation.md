@@ -57,7 +57,7 @@ Clearly it will provoke laughter, yet may it be forgiven by the great.
 7. The glorious Vairocana is the beginning of the story, at the time he was attended by the host of gods.
 There in the immaculate Monastery of Enlightenment, he was thus giving a sermon on the Law.
 Akṣobhya and the other Bodhisattvas of his retinue approached him in devout worship,
-And all the Bajrapāṇis, the lords of gods, Yama, Varuṇa, and Dhanādhipa.
+And all the Bajrapāṇis, the lords of gods, Yama, Baruṇa, and Dhanādhipa.
 
 Canto 2. (not known from elsewhere: ~ - - | ~ ~ - | ~ - - | ~ ~ =)
 
@@ -162,13 +162,13 @@ It was the constant assembly hall of the gods at play, attended by *apsaras* and
 That is why the mountain was lovely, its composition a marvel, incomparable in beauty.
 Fresh, pure water was on its peak, a lake, a supreme holy bathing place.
 
-8. Moreover, the peaks of Mount Semeru were filled with ascetic sages along the ridges.
+8. Moreover, the peaks of Mount Sumeru were filled with ascetic sages along the ridges.
 In every hamlet could be seen the roofs of their huts, of bamboo of many kinds.
 Some awaited their desire, their hearts pounding, gazing at the highest beauty.
 Some sent up smoke, perhaps from their ascetic practice, or perhaps from boiling vegetables.
 
 9. But all that beauty was surpassed by the hermitage, the ascetic dwelling of the great *asura*.
-A cave of white rock, like the mouth of Mount Semeru, awesome.
+A cave of white rock, like the mouth of Mount Sumeru, awesome.
 It was level, spacious, clean, and sparkling like crystal, bright even at night.
 Water descended from above, passing over the cave and falling into the ravine.
 
@@ -224,7 +224,7 @@ So shone the splendor of Kuñjara, traveler of the sky.
 All who looked up were dazzled, shielding their eyes as they gazed at the heavens.
 "What wonder is this?" said the people, for there was nothing like it.
 
-7. He saw nearby Mount Semeru, on the southern slope.
+7. He saw nearby Mount Sumeru, on the southern slope.
 It seemed to welcome him with respect, its forests bidding him to come and rest.
 The sound of the birds, chattering, was like a greeting.
 Its monkeys leaped about, eager to offer refreshments, as if in jest.
@@ -669,14 +669,14 @@ Great was his compassion for his friend, the reason he went to Indra's heaven, a
 1. He ascended to Indra's heaven, gazing upon the beautiful eight abodes.
 To the east, the heaven of Indra; nearby in the southeast, the abode of Agni.
 To the south, the heaven of Lord Yama; nearby, that of the Lord of Rākṣasas.
-To the west, the heaven of Lord Varuṇa; nearby, the abode of Māruta.
+To the west, the heaven of Lord Baruṇa; nearby, the abode of Māruta.
 
-2. The heaven of Kubera is in the north, the supreme abode of the lord of *yakṣas*.
+2. The heaven of Kuvera is in the north, the supreme abode of the lord of *yakṣas*.
 In the northeast is the abode of glorious Īśāna, he who is worshipped as the lord of *bhūtas*.
 The Triśṛṅga palace was visible, supreme in the center, the abode of Śiva.
 To its south was the heaven of Brahmā, and to its north, the realm of Viṣṇu.
 
-3. Beyond the heaven of Lord Varuṇa and that of the Lord of Rākṣasas,
+3. Beyond the heaven of Lord Baruṇa and that of the Lord of Rākṣasas,
 there was the heaven of the glorious Pūrṇavijaya, which the ascetic sought out.
 The beauty of the heaven was of many designs, its decorations shining,
 with its golden halls and, moreover, its jeweled gates.
@@ -1000,7 +1000,7 @@ And that he naturally had to ask her to watch over him as he slept for ten night
 3. But his beloved, ordered to keep watch, was suddenly as if struck with sorrow, her heart filled with foreboding.
 Tears welled in her eyes, not because she would disobey her beloved's word,
 But because it created anxiety in her heart, recalling the words of the *asura* ascetic long ago:
-That he would long suffer his sins in the Avīci hell, the iron earth; this she endured.
+That he would long suffer his sins in the Aveci hell, the iron earth; this she endured.
 
 4. His promise was for ten nights, yet she could not believe it.
 Kusumagandhavatī was tormented by her love for her departing beloved.
@@ -1021,11 +1021,11 @@ All the celestial women mourned for the suffering lord of the *gandharvas*.
 And the lament of the queen was a weeping that wrung the soul and inspired pity.
 
 2. "Ah, my love, you who are gone from our bed, how cruel of you to leave your beloved!
-My wish, my brother, is to follow you wherever you go, even if you go to the Raurava hell.
+My wish, my brother, is to follow you wherever you go, even if you go to the Rorava hell.
 But now you have left me, taken away, and it creates a crushing pain in my heart.
 Alas, my love, to think of you in Yama's realm, suffering a great torment!
 
-3. Is there no way, my treasure, for me to be your companion, to wait for you in the Raurava hell?
+3. Is there no way, my treasure, for me to be your companion, to wait for you in the Rorava hell?
 For my love for you is great, my pity; what will you cry out in the cauldron?
 Fortunate would it be if my treasure could be ransomed, if I could take the place of your sin.
 Let me find a way to clear your debt for your unrighteousness, for the many sins to be suffered in the cauldron.
@@ -1079,7 +1079,7 @@ Its fruits were flawless gems, Kaustubha jewels, its flowers golden necklaces.
 Its soft leaves were a fragrant footstool, its blood-sap exceedingly sweet-smelling.
 It ceased to be foul, sharp-smelling, and pungent; all its qualities were reversed, bringing bliss.
 
-3. The fire-mouthed *rākṣasa*, seeing the Avīci hell powerless and without fire,
+3. The fire-mouthed *rākṣasa*, seeing the Aveci hell powerless and without fire,
 Seized his trident and then, threatening, pointed with his left hand, eager to attack.
 His trident was shattered, destroyed, disintegrating like dust in a strong wind.
 He fled in shame and ordered his companion to take his place and attack.
@@ -1102,14 +1102,14 @@ And the heat of the fire-mouthed *asuras* has become cool, they are no longer fe
 The torments have no effect, all of Yama's army is turned back."
 Such was the report of the *asura* servants; Yama, the lord of death, was perplexed to hear it.
 
-3. Then the god Yama went to the Avīci hell, escorted by the *asura* army.
+3. Then the god Yama went to the Aveci hell, escorted by the *asura* army.
 When he saw the perfect youthfulness of the soul, like the god of love,
 It was different, incomparable, not like a sinful soul suffering in Yama's realm.
 For that reason he spoke soothingly, with kind, pleasing, and sweet words.
 
 4. "O you of perfect beauty, like the god Kāma come to Yama's realm,
 What is the reason you were able to destroy Yama's realm and make it a celestial court?
-For you were sent here to suffer your sins in the Avīci hell for a long, long time.
+For you were sent here to suffer your sins in the Aveci hell for a long, long time.
 Now you have been here ten nights; what is it that has caused this marvel?"
 
 5. "Lord Yama, may I tell you the reason I have found this teaching?
@@ -1137,7 +1137,7 @@ When she saw the lord of gods awaken and live.
 
 3. King Pūrṇavijaya spoke to his queen:
 "My lady, I have now paid my debt in Yama's realm.
-The suffering was pitiable, I was tormented in the Avīci hell.
+The suffering was pitiable, I was tormented in the Aveci hell.
 Many were the torments of Yama's servants in the past."
 
 4. "But when the promised night arrived, my brother, I practiced yoga.
@@ -1156,7 +1156,7 @@ When his mind is at peace, he is like a glowing coal.
 It is certain that one will always be influenced by his ways."
 
 7. "My only desire now is to follow my brother, none other,
-There to the snowy Mount Semeru, his beautiful hermitage.
+There to the snowy Mount Sumeru, his beautiful hermitage.
 I will constantly strive in chanting spells, I will practice yoga,
 So that the Lord Tathāgatendra may love me eternally."
 
@@ -1322,7 +1322,7 @@ They were heard with great clarity in the shining world of heaven.
 The hearts of the host of gods were joyful, eager to listen,
 Marveling at the performance, desiring to witness the beauty.
 
-8. Yama, Varuṇa, Kubera, and the great lord Indra, chief among them,
+8. Yama, Baruṇa, Kuvera, and the great lord Indra, chief among them,
 All came, together with the host of divine sages.
 As if summoned, they arrived swiftly at the Bodhicitta monastery,
 Prostrate, all paying homage with reverence at the feet of the lord of Jinas.
@@ -1404,7 +1404,7 @@ He was pleased to grasp my teaching of the *dharma*.
 He returned to his austerities, and his end will be *mokṣa*.
 
 7. And as for Pūrṇavijaya, this is my timely instruction:
-The reason he will not be long held in the Avīci hell
+The reason he will not be long held in the Aveci hell
 Is that his limit in hell is nine nights, no more, complete.
 Such is the fruit of his hearing my teaching of the *dharma*.
 
@@ -1532,7 +1532,7 @@ That is the middle path, which seeks the three-eyed god."
 
 13. "Such were the words of the Lord of Six Knowledges, his sermon on the *dharma*.
 Pūrṇavijaya became ever more intent on the highest state.
-This was the reason he sought to practice austerities on the snowy Mount Semeru,
+This was the reason he sought to practice austerities on the snowy Mount Sumeru,
 And the lady Gandhavatī sought to practice austerities, following her beloved."
 
 ## Canto 40

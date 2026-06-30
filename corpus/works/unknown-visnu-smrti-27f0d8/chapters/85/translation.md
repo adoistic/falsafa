@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 85**
+**Viṣṇu Smriti 85**
 
 Now, a *śrāddha* (श्राद्ध) performed at Puṣkara is imperishable. // Vi_85.1 //
 

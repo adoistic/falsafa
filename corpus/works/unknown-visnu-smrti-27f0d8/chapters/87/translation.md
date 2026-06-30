@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 87**
+**Viṣṇu Smriti 87**
 
 Now, on the full moon day of *Vaiśākha* (वैशाख), having made a *kṛṣṇājina* (कृष्णाजिन) (black antelope skin) with its hooves and horns, with golden horns, silver hooves, and adorned with a tail of pearls, he shall spread it on a woolen and a linen garment. // Vi_87.1 //
 

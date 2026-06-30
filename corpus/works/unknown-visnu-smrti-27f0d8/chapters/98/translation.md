@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 98**
+**Viṣṇu Smriti 98**
 
 Having been thus addressed, Vasumatī (the Earth) made a salutation with her knees and head and said: // Vi_98.1 //
 "O blessed one, near you the four elements have always made their abode: ether in the form of a conch, wind in the form of a discus, fire in the form of a mace, and water in the form of a lotus. I, too, wish to be ever-revolving between the blessed one's feet in this same form." // Vi_98.2 //
@@ -112,7 +112,7 @@ O giver of *dharma* (धर्म). // Vi_98.89 //
 O you whose limbs are *dharma* (धर्म). // Vi_98.90 //
 O giver of the wealth of *dharma* (धर्म). // Vi_98.91 //
 O giver of boons. // Vi_98.92 //
-O Vishnu. // Vi_98.93 //
+O Viṣṇu. // Vi_98.93 //
 O Jiṣṇu. // Vi_98.94 //
 O Sahiṣṇu. // Vi_98.95 //
 O Kṛṣṇa. // Vi_98.96 //

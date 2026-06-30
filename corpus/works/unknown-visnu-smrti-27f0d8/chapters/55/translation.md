@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 55**
+**Viṣṇu Smriti 55**
 
 Now, there are the secret penances. // Vi_55.1 //
 

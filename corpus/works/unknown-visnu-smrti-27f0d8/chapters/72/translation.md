@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 72**
+**Viṣṇu Smriti 72**
 
 He shall abide by self-control (*dama*). // Vi_72.1 //
 

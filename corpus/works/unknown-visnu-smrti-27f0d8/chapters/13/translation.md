@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 13**
+**Viṣṇu Smriti 13**
 
 Now, the ordeal of poison (*viṣa*). // Vi_13.1 //
 

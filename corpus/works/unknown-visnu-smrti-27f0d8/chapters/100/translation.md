@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 100**
+**Viṣṇu Smriti 100**
 
 > This excellent Dharmaśāstra was spoken by the god himself; /
 > Those twice-born men who will uphold it, for them the highest state is in heaven. || Vi_100.1 ||

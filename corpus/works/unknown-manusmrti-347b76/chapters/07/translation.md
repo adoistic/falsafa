@@ -20,17 +20,17 @@ translator: thothica
 
 I will now declare the Dharma of Kings, how a king should conduct himself, how he came into being, and how he may attain the highest perfection. // Mn_7.1 //
 
-A Kshatriya who has received the Brahmanical *saṃskāra* according to the rule must perform the protection of this entire world justly and according to the law. // Mn_7.2 //
+A Kṣatriya who has received the Brahmanical *saṃskāra* according to the rule must perform the protection of this entire world justly and according to the law. // Mn_7.2 //
 
 For when this world was without a king, it was scattered in all directions out of fear; for the protection of this all, the Lord created a king. // Mn_7.3 //
 
-Having drawn forth eternal particles from Indra, the Wind, Yama, the Sun, from Agni and Varuna, and from the Moon and the Lord of Wealth (Kubera). // Mn_7.4 //
+Having drawn forth eternal particles from Indra, the Wind, Yama, the Sun, from Agni and Varuṇa, and from the Moon and the Lord of Wealth (Kubera). // Mn_7.4 //
 
 Because a king is created from the particles of these lords of the gods, he therefore surpasses all beings in splendor. // Mn_7.5 //
 
 And like the sun, he scorches both the eyes and the minds; and no one on earth is able to look upon him. // Mn_7.6 //
 
-Through his power, he is Agni and he is the Wind, he is the Sun, he is Soma, he is the King of Dharma (Yama); he is Kubera, he is Varuna, he is the great Indra. // Mn_7.7 //
+Through his power, he is Agni and he is the Wind, he is the Sun, he is Soma, he is the King of Dharma (Yama); he is Kubera, he is Varuṇa, he is the great Indra. // Mn_7.7 //
 
 A king, even if he is a child, must not be despised as a mere mortal; for this is a great deity that stands in human form. // Mn_7.8 //
 
@@ -62,7 +62,7 @@ The crow would eat the sacrificial cake, and the dog would lick the oblation; ow
 
 The whole world is kept in order by `Daṇḍa`, for a pure man is hard to find; through fear of `Daṇḍa`, the whole world submits to its enjoyments. // Mn_7.22 //
 
-The gods, the Danavas, the Gandharvas, the Rakshasas, the birds, and the serpents—they too submit to their enjoyments only when oppressed by `Daṇḍa`. // Mn_7.23 //
+The gods, the Danavas, the Gandharvas, the Rākṣasas, the birds, and the serpents—they too submit to their enjoyments only when oppressed by `Daṇḍa`. // Mn_7.23 //
 
 All the *varnas* would be corrupted, all barriers would be broken, and there would be an uprising of all the worlds from a confusion of `Daṇḍa`. // Mn_7.24 //
 
@@ -80,7 +80,7 @@ It cannot be wielded justly by one who is without assistance, who is foolish, gr
 
 `Daṇḍa` can be wielded by one who is pure, true to his word, who follows the sacred treatises, who has good assistants, and who is wise. // Mn_7.31 //
 
-He should be just in his own kingdom, and very severe towards his enemies; straightforward with his friends and allies, and forbearing towards Brahmanas. // Mn_7.32 //
+He should be just in his own kingdom, and very severe towards his enemies; straightforward with his friends and allies, and forbearing towards Brāhmaṇas. // Mn_7.32 //
 
 The fame of a king who lives thus, even if he subsists by gleaning, spreads in the world like a drop of oil on water. // Mn_7.33 //
 
@@ -90,9 +90,9 @@ The king was created as the protector of all the *varnas* and *āśramas*, in th
 
 Whatever must be done by him and his servants in protecting his subjects, that I will now declare to you, in due order and as it is. // Mn_7.36 //
 
-A king, having risen in the morning, should wait upon the Brahmanas who are aged and learned in the three Vedas, and he should abide by their instruction. // Mn_7.37 //
+A king, having risen in the morning, should wait upon the Brāhmaṇas who are aged and learned in the three Vedas, and he should abide by their instruction. // Mn_7.37 //
 
-He should constantly serve aged Brahmanas who know the Veda and are pure; for he who constantly serves the aged is honored even by Rakshasas. // Mn_7.38 //
+He should constantly serve aged Brāhmaṇas who know the Veda and are pure; for he who constantly serves the aged is honored even by Rākṣasas. // Mn_7.38 //
 
 From them he should learn humility, even if his soul is already humble; for a king whose soul is humble never perishes. // Mn_7.39 //
 
@@ -132,7 +132,7 @@ With them he should constantly deliberate on ordinary peace and war, on his posi
 
 Having ascertained the individual opinion of each of them separately, and then of all of them together, he should do what is beneficial for himself in his affairs. // Mn_7.57 //
 
-But with a Brahmana who is distinguished among them all, a wise man, the king should deliberate on the supreme counsel connected with the six political expedients. // Mn_7.58 //
+But with a Brāhmaṇa who is distinguished among them all, a wise man, the king should deliberate on the supreme counsel connected with the six political expedients. // Mn_7.58 //
 
 He should always, being fully confident in him, entrust all his affairs to him; having made a decision with him, he should then commence his action. // Mn_7.59 //
 
@@ -154,7 +154,7 @@ He should, by concealed hints and gestures, understand in his affairs the king's
 
 And having understood in truth all that the other king wishes to do, he should take such measures that he does not harm himself. // Mn_7.68 //
 
-He should dwell in a country that is open and dry, abounding in grain, inhabited chiefly by Aryans, not troubled, pleasant, with its neighboring kings submissive, and where a livelihood is easy. // Mn_7.69 //
+He should dwell in a country that is open and dry, abounding in grain, inhabited chiefly by Āryas, not troubled, pleasant, with its neighboring kings submissive, and where a livelihood is easy. // Mn_7.69 //
 
 He should dwell in a city, having taken refuge in a desert-fort, an earth-fort, a water-fort, or a forest-fort, a man-fort, or a hill-fort. // Mn_7.70 //
 
@@ -166,7 +166,7 @@ Just as enemies do not harm these creatures who have taken refuge in a fort, so 
 
 One archer stationed on a rampart can fight a hundred men; and a hundred can fight ten thousand; therefore, a fort is ordained. // Mn_7.74 //
 
-It should be well-supplied with weapons, with money and grain, with beasts of burden, with Brahmanas, artisans, machines, fodder, and water. // Mn_7.75 //
+It should be well-supplied with weapons, with money and grain, with beasts of burden, with Brāhmaṇas, artisans, machines, fodder, and water. // Mn_7.75 //
 
 In the middle of it, he should have a dwelling built for himself, well-provisioned, protected, suitable for all seasons, white, and provided with water and trees. // Mn_7.76 //
 
@@ -174,18 +174,18 @@ Having settled there, he should take a wife of his own *varna*, marked with ausp
 
 He should appoint a family priest and should also choose sacrificial priests; they should perform his domestic rites and his great fire-sacrifices. // Mn_7.78 //
 
-A king should sacrifice with various sacrifices with abundant sacrificial fees; and for the sake of Dharma, he should give to Brahmanas enjoyments and wealth. // Mn_7.79 //
+A king should sacrifice with various sacrifices with abundant sacrificial fees; and for the sake of Dharma, he should give to Brāhmaṇas enjoyments and wealth. // Mn_7.79 //
 
 He should have the annual tribute collected from the kingdom by trusted men; and he should be devoted to the sacred law in the world and behave like a father to his people. // Mn_7.80 //
 
 He should appoint various wise supervisors in different places; they should inspect all the affairs of the men who are performing their duties. // Mn_7.81 //
 
-He should be a worshipper of Brahmanas who have returned from their *guru's* house; for this is called the imperishable Brahmanical treasure of kings. // Mn_7.82 //
+He should be a worshipper of Brāhmaṇas who have returned from their *guru's* house; for this is called the imperishable Brahmanical treasure of kings. // Mn_7.82 //
 
-Neither thieves nor enemies can take it, nor does it perish; therefore, an imperishable treasure must be deposited by a king with Brahmanas. // Mn_7.83 //
+Neither thieves nor enemies can take it, nor does it perish; therefore, an imperishable treasure must be deposited by a king with Brāhmaṇas. // Mn_7.83 //
 
-It does not diminish, nor is it wasted, nor does it ever perish; an oblation offered in the mouth of a Brahmana is more excellent than one offered in the Agnihotra fire. // Mn_7.84 //
+It does not diminish, nor is it wasted, nor does it ever perish; an oblation offered in the mouth of a Brāhmaṇa is more excellent than one offered in the Agnihotra fire. // Mn_7.84 //
 
-A gift to a non-Brahmana is of equal merit; to one who calls himself a Brahmana, it is double; to a well-read student, a hundred thousand times; and to one who has mastered the Veda, it is endless. // Mn_7.85 //
+A gift to a non-Brāhmaṇa is of equal merit; to one who calls himself a Brāhmaṇa, it is double; to a well-read student, a hundred thousand times; and to one who has mastered the Veda, it is endless. // Mn_7.85 //
 
 For according to the special quality of the recipient and according to faith, one reaps the fruit of a gift, whether small or great, after death. // Mn_7.86 //

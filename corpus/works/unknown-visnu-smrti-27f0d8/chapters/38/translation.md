@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 38**
+**Viṣṇu Smriti 38**
 
 Causing injury to a Brāhmaṇa. // Vi_38.1 //
 

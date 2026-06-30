@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 95**
+**Viṣṇu Smriti 95**
 
 A *vānaprastha* (वानप्रस्थ) shall emaciate his body with austerity (*tapas* (तपस्)). // Vi_95.1 //
 In summer, he shall be one who endures five fires. // Vi_95.2 //

@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 68**
+**Viṣṇu Smriti 68**
 
 He shall not eat during an eclipse of the moon or sun. // Vi_68.1 //
 

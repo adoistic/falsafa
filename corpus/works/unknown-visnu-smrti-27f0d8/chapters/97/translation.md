@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 97**
+**Viṣṇu Smriti 97**
 
 Placing one foot on the opposite thigh, and the other hand on the left hand, with his tongue held still on his palate, without his teeth touching his teeth, looking at the tip of his own nose, and not looking at the directions, fearless and with a tranquil mind, he should meditate on that which is beyond the twenty-four principles. // Vi_97.1 //
 Eternal, beyond the senses, without qualities, beyond sound, touch, form, taste, and smell, all-knowing, most gross. // Vi_97.2 //
@@ -39,7 +39,7 @@ Having attained him, he becomes liberated. // Vi_97.14 //
 > Therefore he is called *puruṣa* (पुरुष) by the thinkers on reality. || Vi_97.15 ||
 >
 > In the first and last watches of the night, a *yogin* (योगिन्), ever vigilant, /
-> Should meditate on the *puruṣa* (पुरुष), Vishnu, the twenty-fifth principle, who is without qualities. || Vi_97.16 ||
+> Should meditate on the *puruṣa* (पुरुष), Viṣṇu, the twenty-fifth principle, who is without qualities. || Vi_97.16 ||
 >
 > The soul of all principles, yet hard to attain, and devoid of all principles, /
 > Powerless, yet the supporter of all, without qualities, yet the enjoyer of qualities. || Vi_97.17 ||

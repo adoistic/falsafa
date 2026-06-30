@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 5**
+**Viṣṇu Smriti 5**
 
 Now, all those who commit a great sin (*mahāpātaka*), except for a Brāhmaṇa, shall be put to death. // Vi_5.1 //
 

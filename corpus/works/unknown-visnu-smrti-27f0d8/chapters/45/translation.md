@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 45**
+**Viṣṇu Smriti 45**
 
 For those who have passed through the state of animals after suffering in hell, there are marks in their human birth. // Vi_45.1 //
 

@@ -56,32 +56,32 @@ He who hears of a relative who has died abroad, before the ten days have passed,
 But if the ten days have passed, he shall be impure for three nights; if a year has passed, he is purified by merely touching water. // Mn_5.76[75M] //
 Having heard of the death of a kinsman after the ten days have passed, or of the birth of a son, a man becomes pure by plunging into water with his clothes on. // Mn_5.77[76M] //
 When a child has died in a foreign country, or one who is separated by the *piṇḍa* offering, one is purified immediately by plunging into water with one's clothes on. // Mn_5.78[77M] //
-If another death or birth should occur within the ten-day period, a Brahmana shall be impure until that ten-day period has ended. // Mn_5.79[78M] //
+If another death or birth should occur within the ten-day period, a Brāhmaṇa shall be impure until that ten-day period has ended. // Mn_5.79[78M] //
 They say the *āśauca* (period of ritual impurity) is for three nights when an *ācārya* has died; for his son and wife, it is a day and a night; this is the rule. // Mn_5.80[79M] //
-For a learned Brahmana dwelling in the same house, one shall be impure for three nights; for a maternal uncle, a pupil, a sacrificial priest, or a kinsman, for a day and a night. // Mn_5.81[80M] //
-When a king has died, the impurity lasts as long as the light of day, for one who is in his kingdom; for an unlearned Brahmana, a whole day, and likewise for a teacher who is not an *ācārya*. // Mn_5.82[81M] //
-A Brahmana is purified in ten days, a ruler in twelve days, a Vaishya in fifteen days, and a Shudra is purified in a month. // Mn_5.83[82M] //
+For a learned Brāhmaṇa dwelling in the same house, one shall be impure for three nights; for a maternal uncle, a pupil, a sacrificial priest, or a kinsman, for a day and a night. // Mn_5.81[80M] //
+When a king has died, the impurity lasts as long as the light of day, for one who is in his kingdom; for an unlearned Brāhmaṇa, a whole day, and likewise for a teacher who is not an *ācārya*. // Mn_5.82[81M] //
+A Brāhmaṇa is purified in ten days, a ruler in twelve days, a Vaiśya in fifteen days, and a Śūdra is purified in a month. // Mn_5.83[82M] //
 One should not increase the days of impurity, nor interrupt the rites in the sacred fires; and a close blood relative performing that rite does not become impure. // Mn_5.84[83M] //
-Having touched a Chandala, a menstruating woman, an outcaste, a woman who has just given birth, a corpse, or one who has touched a corpse, one is purified by bathing. // Mn_5.85[84M] //
+Having touched a Caṇḍāla, a menstruating woman, an outcaste, a woman who has just given birth, a corpse, or one who has touched a corpse, one is purified by bathing. // Mn_5.85[84M] //
 Having sipped water, one who is pure should always, upon seeing an impure person, recite mantras to the sun according to his zeal, and the purifying verses according to his ability. // Mn_5.86[85M] //
-A Brahmana, having touched a human bone with fat on it, is purified by bathing; but if it is without fat, by sipping water, or by touching a cow or looking at the sun. // Mn_5.87[86M] //
+A Brāhmaṇa, having touched a human bone with fat on it, is purified by bathing; but if it is without fat, by sipping water, or by touching a cow or looking at the sun. // Mn_5.87[86M] //
 One who is under a vow should not perform the water-libation until the completion of his vow; having performed the water-libation after it is completed, he is purified in three nights. // Mn_5.88[87M] //
 The water-rite is withheld for those born of promiscuous unions, for those who have taken to heretical wanderings, and for those who have taken their own lives. // Mn_5.89[88M] //
 And for women who have joined heretical sects, who live promiscuously, who have caused an abortion, who have killed their husbands, and who drink liquor. // Mn_5.90[89M] //
 A student under a vow, having carried out the corpses of his own *ācārya*, *upādhyāya*, father, mother, or *guru*, is not separated from his vow. // Mn_5.91[90M] //
-One should carry out a deceased Shudra through the southern gate of the town; but the twice-born, through the western, northern, or eastern gates, as is appropriate. // Mn_5.92[91M] //
+One should carry out a deceased Śūdra through the southern gate of the town; but the twice-born, through the western, northern, or eastern gates, as is appropriate. // Mn_5.92[91M] //
 There is no fault of impurity for kings, nor for those under a vow, nor for those engaged in a sacrificial session; for they are always in the state of Indra and have become one with Brahma. // Mn_5.93[92M] //
 For a king, in his great office, immediate purification is prescribed; the reason for this is the protection of his subjects and his throne. // Mn_5.94[93M] //
-Immediate purification is also for those slain in a riot or battle, by lightning, or by the king, and for one slain for the sake of a cow or a Brahmana, and for whomever the king wishes. // Mn_5.95[94M] //
-A king bears the form of the eight world-protectors: Soma, Agni, Arka (the Sun), Anila (the Wind), Indra, the lord of wealth (Kubera), the lord of waters (Varuna), and Yama. // Mn_5.96[95M] //
+Immediate purification is also for those slain in a riot or battle, by lightning, or by the king, and for one slain for the sake of a cow or a Brāhmaṇa, and for whomever the king wishes. // Mn_5.95[94M] //
+A king bears the form of the eight world-protectors: Soma, Agni, Arka (the Sun), Anila (the Wind), Indra, the lord of wealth (Kubera), the lord of waters (Varuṇa), and Yama. // Mn_5.96[95M] //
 A king is established by the lords of the world, so no impurity is prescribed for him; for the purity and impurity of mortals arise from and are resolved by the lords of the world. // Mn_5.97[96M] //
-For one slain in battle with uplifted weapons according to the Dharma of a Kshatriya, the sacrifice is completed immediately, and likewise the impurity; this is the rule. // Mn_5.98[97M] //
-A Brahmana is purified by touching water; a Kshatriya, his vehicle and weapon; a Vaishya, his goad or reins; and a Shudra who has performed his rites, his staff. // Mn_5.99[98M] //
+For one slain in battle with uplifted weapons according to the Dharma of a Kṣatriya, the sacrifice is completed immediately, and likewise the impurity; this is the rule. // Mn_5.98[97M] //
+A Brāhmaṇa is purified by touching water; a Kṣatriya, his vehicle and weapon; a Vaiśya, his goad or reins; and a Śūdra who has performed his rites, his staff. // Mn_5.99[98M] //
 This purification among *sapiṇḍas* has been declared to you, O best of the twice-born; now learn the purification after death among all who are not *sapiṇḍas*. // Mn_5.100[99M] //
-A Brahmana who carries out a deceased twice-born who is not a *sapiṇḍa*, like a kinsman, is purified in three nights, as are the mother's close relatives. // Mn_5.101[100M] //
+A Brāhmaṇa who carries out a deceased twice-born who is not a *sapiṇḍa*, like a kinsman, is purified in three nights, as are the mother's close relatives. // Mn_5.101[100M] //
 But if he eats their food, he is purified in ten days; if he does not eat their food, in one day, provided he does not dwell in that house. // Mn_5.102[101M] //
 Having voluntarily followed a corpse, whether of a kinsman or not, one is purified by bathing with one's clothes on, touching fire, and eating ghee. // Mn_5.103[102M] //
-One should not have a deceased Brahmana carried by a Shudra while his own kinsmen are present; for that oblation, being defiled by the touch of a Shudra, is unheavenly. // Mn_5.104[103M] //
+One should not have a deceased Brāhmaṇa carried by a Śūdra while his own kinsmen are present; for that oblation, being defiled by the touch of a Śūdra, is unheavenly. // Mn_5.104[103M] //
 Knowledge, *tapas*, fire, food, earth, mind, water, plastering with cow-dung, wind, ritual action, the sun, and time are the agents of purification for embodied beings. // Mn_5.105[104M] //
 Of all purifications, purity in acquiring wealth is remembered as the highest; for he who is pure in wealth is truly pure, not he who is pure with earth and water. // Mn_5.106[105M] //
 The learned are purified by forbearance; doers of forbidden acts, by giving; those with secret sins, by recitation; and the best knowers of the Veda, by *tapas*. // Mn_5.107[106M] //
@@ -104,11 +104,11 @@ An earthen vessel touched by liquor, urine, feces, spittle, pus, or blood is not
 The ground is purified by five things: by sweeping, by plastering with cow-dung, by sprinkling, by scraping, and by having cows dwell on it. // Mn_5.124[122M] //
 Food pecked by a bird, sniffed at by a cow, shaken by a foot, sneezed upon, or defiled by hair and insects, is purified by scattering earth on it. // Mn_5.125[123M] //
 As long as the smell and the smear caused by an impurity do not depart from it, so long must earth and water be applied in all purifications of things. // Mn_5.126[124M] //
-The gods ordained three things as purifying for Brahmanas: what is unseen, what is cleansed with water, and what is praised by speech. // Mn_5.127[125M] //
+The gods ordained three things as purifying for Brāhmaṇas: what is unseen, what is cleansed with water, and what is praised by speech. // Mn_5.127[125M] //
 Waters on the ground are pure if a cow's thirst can be quenched by them, provided they are not contaminated by an impurity and possess their natural smell, color, and taste. // Mn_5.128[126M] //
 The hand of an artisan is always pure, as is what is spread out in the market; and alms received by a celibate student are always pure; this is the rule. // Mn_5.129[127M] //
 The mouth of women is always pure; a bird is pure when it causes a fruit to fall; a calf is pure when it dribbles milk; and a dog is pure when it catches game. // Mn_5.130[128M] //
-The meat of an animal killed by dogs, Manu has declared to be pure, and that killed by other carnivorous animals, and by Chandalas and other robbers. // Mn_5.131[129M] //
+The meat of an animal killed by dogs, Manu has declared to be pure, and that killed by other carnivorous animals, and by Caṇḍālas and other robbers. // Mn_5.131[129M] //
 The openings of the body above the navel are all pure; those below are impure, as are the excretions that fall from the body. // Mn_5.132[130M] //
 Flies, drops of spittle, a shadow, a cow, a horse, the rays of the sun, dust, the earth, wind, and fire—these one should know to be pure in contact. // Mn_5.133[131M] //
 For the purpose of purification after discharging feces and urine, earth and water should be taken as needed, and also in the purifications of the twelve bodily impurities. // Mn_5.134[132M] //
@@ -116,8 +116,8 @@ Fat, semen, blood, marrow, urine, feces, nasal mucus, earwax, phlegm, tears, rhe
 One portion of earth on the penis, three on the anus, ten on the one hand, and seven on both hands should be applied by one desiring purification. // Mn_5.136[134M] //
 This is the purification for householders; it is double for celibate students, triple for forest-dwellers, and quadruple for ascetics. // Mn_5.137[135M] //
 Having urinated or defecated, and having sipped water, one should touch one's bodily openings; and always when about to study the Veda and when eating food. // Mn_5.138[136M] //
-He who desires bodily purification should first sip water three times, then wipe his mouth twice; but a woman and a Shudra, once each. // Mn_5.139[137M] //
-For Shudras who follow the law, shaving should be done monthly; their rule of purification is like that of Vaishyas, and their food is the leftovers of the twice-born. // Mn_5.140[138M] //
+He who desires bodily purification should first sip water three times, then wipe his mouth twice; but a woman and a Śūdra, once each. // Mn_5.139[137M] //
+For Śūdras who follow the law, shaving should be done monthly; their rule of purification is like that of Vaiśyas, and their food is the leftovers of the twice-born. // Mn_5.140[138M] //
 Drops of spittle from the mouth that do not reach a limb do not make one impure, nor what has gone into the beard, nor what is stuck between the teeth. // Mn_5.141[139M] //
 Drops that fall on the feet of others while one is sipping water are to be known as equal to those on the ground; one does not become impure by them. // Mn_5.142[140M] //
 One who, while holding an object, is touched by an impurity, becomes pure by sipping water without having put down that object. // Mn_5.143[141M] //
@@ -129,14 +129,14 @@ In childhood, she must be under the control of her father; in youth, of her husb
 She must not desire separation from her father, her husband, or her sons; for by separation from them, a woman would make both families contemptible. // Mn_5.149[147M] //
 She must always be cheerful, skillful in household duties, with her utensils well-cleansed, and not extravagant in expenditure. // Mn_5.150[148M] //
 Him to whom her father may give her, or her brother with the father's permission, she should serve while he lives, and when he is dead, she must not transgress against him. // Mn_5.151[149M] //
-For the sake of auspiciousness, the rite of well-being and the sacrifice to Prajapati are performed for them at marriage, but the giving away is the cause of ownership. // Mn_5.152[150M] //
+For the sake of auspiciousness, the rite of well-being and the sacrifice to Prajāpati are performed for them at marriage, but the giving away is the cause of ownership. // Mn_5.152[150M] //
 The husband, who performs the rite with sacred formulas, is the constant giver of happiness to a woman, both in season and out of season, in this world and in the next. // Mn_5.153[151M] //
 Though he be of bad character, or lustful, or devoid of virtues, a husband must always be revered as a god by a virtuous wife. // Mn_5.154[152M] //
 For women, there is no separate sacrifice, no vow, nor any fasting; by the service she renders her husband, by that she is exalted in heaven. // Mn_5.155[153M] //
 A virtuous wife, whether her husband be living or dead, desiring to attain his world, must not do anything displeasing to him. // Mn_5.156[154M] //
 She may, if she wishes, emaciate her body with pure flowers, roots, and fruits; but she must not even take the name of another man after her husband is dead. // Mn_5.157[155M] //
 Until death, she must be patient, self-controlled, and a celibate, desiring that supreme Dharma of women who have but one husband. // Mn_5.158[156M] //
-Many thousands of Brahmanas who were celibate from their youth have gone to heaven without having established a family line. // Mn_5.159[157M] //
+Many thousands of Brāhmaṇas who were celibate from their youth have gone to heaven without having established a family line. // Mn_5.159[157M] //
 A virtuous wife who remains established in celibacy after her husband is dead goes to heaven, even if she is childless, just as those celibate students. // Mn_5.160[158M] //
 But that woman who, from a desire for offspring, transgresses against her husband, she obtains condemnation in this world and is deprived of the next world. // Mn_5.161[159M] //
 Offspring begotten by another man is not recognized here, nor in another's wife; and a second husband is nowhere prescribed for virtuous women. // Mn_5.162[160M] //
@@ -173,18 +173,18 @@ In summer, he should perform the five-fires penance; during the rains, he should
 Bathing at the three daily libations, he should satisfy the ancestors and the gods; and practicing ever more severe *tapas*, he should emaciate his own body. // Mn_6.24 //
 Having duly placed the three sacred fires within himself, the sage should be without fire and without a home, living on roots and fruits. // Mn_6.25 //
 Making no effort for things that give pleasure, celibate, sleeping on the ground, with no sense of 'mine' in regard to shelters, and having the root of a tree as his dwelling. // Mn_6.26 //
-He should gather alms for his subsistence from Brahmana ascetics alone, or from other twice-born householders who are forest-dwellers. // Mn_6.27 //
+He should gather alms for his subsistence from Brāhmaṇa ascetics alone, or from other twice-born householders who are forest-dwellers. // Mn_6.27 //
 Or, dwelling in the forest, he may bring food from a village and eat eight mouthfuls, receiving it in a leaf-cup, in his hand, or on a potsherd. // Mn_6.28 //
-A Brahmana dwelling in the forest should observe these and other vows, and various Upanishadic texts from the *Śruti* for the perfection of his soul. // Mn_6.29 //
-These have been practiced by sages and by Brahmana householders, for the increase of knowledge and *tapas*, and for the purification of the body. // Mn_6.30 //
+A Brāhmaṇa dwelling in the forest should observe these and other vows, and various Upanishadic texts from the *Śruti* for the perfection of his soul. // Mn_6.29 //
+These have been practiced by sages and by Brāhmaṇa householders, for the increase of knowledge and *tapas*, and for the purification of the body. // Mn_6.30 //
 Or, taking his stand in the unconquered northeast direction, he should walk straight on, subsisting on water and air, until his body falls. // Mn_6.31 //
-A Brahmana who has cast off his body by one of these practices of the great sages, being free from sorrow and fear, is exalted in the world of Brahma. // Mn_6.32 //
+A Brāhmaṇa who has cast off his body by one of these practices of the great sages, being free from sorrow and fear, is exalted in the world of Brahma. // Mn_6.32 //
 Having thus passed the third part of his life in the forests, he should wander as an ascetic for the fourth part of his life, having abandoned all attachments. // Mn_6.33 //
 He who goes from *āśrama* to *āśrama*, having offered his oblations, with his senses conquered, weary with giving alms and *bali*-offerings, he prospers after death by becoming a renouncer. // Mn_6.34 //
 Having discharged his three debts, he should fix his mind on liberation (*mokṣa*); but he who pursues *mokṣa* without having discharged them, sinks downwards. // Mn_6.35 //
 Having studied the Vedas according to the rule, having begotten sons according to Dharma, and having sacrificed with *yajñas* according to his ability, he should fix his mind on liberation. // Mn_6.36 //
 A twice-born who seeks liberation without having studied the Vedas, without having begotten sons, and without having sacrificed with *yajñas*, sinks downwards. // Mn_6.37 //
-Having performed the Prajapatya sacrifice, with all his wealth as the sacrificial fee, having placed the sacred fires within himself, a Brahmana should go forth from his house as a renouncer. // Mn_6.38 //
+Having performed the Prajapatya sacrifice, with all his wealth as the sacrificial fee, having placed the sacred fires within himself, a Brāhmaṇa should go forth from his house as a renouncer. // Mn_6.38 //
 For him who goes forth from his house as a renouncer, having given a promise of safety to all beings, there are worlds of light, say the expounders of Brahma. // Mn_6.39 //
 For him from whom not even the slightest fear arises for living beings, for him, when he is freed from his body, there is no fear from any quarter. // Mn_6.40 //
 Having gone forth from his house, furnished with the means of purification, a sage should wander as an ascetic, indifferent to those desires that have been gratified. // Mn_6.41 //
@@ -197,7 +197,7 @@ He should endure harsh words; he should not despise anyone; and he should not ma
 He should not be angry in return at one who is angry; when reviled, he should speak a blessing; and he should not utter an untrue word, which is scattered through the seven gates. // Mn_6.48 //
 Delighting in the supreme Self, seated, indifferent, without worldly desires, with the Self alone as his companion, seeking happiness, he should wander here. // Mn_6.49 //
 He should never seek alms through explaining portents and omens, nor by the science of astrology and palmistry, nor by giving instruction and engaging in debate. // Mn_6.50 //
-He should not approach a house that is crowded with ascetics, Brahmanas, birds, dogs, or other beggars. // Mn_6.51 //
+He should not approach a house that is crowded with ascetics, Brāhmaṇas, birds, dogs, or other beggars. // Mn_6.51 //
 With his hair, nails, and beard clipped, carrying a bowl, a staff, and wearing a reddish-brown garment, he should wander, self-controlled, always, without harming any beings. // Mn_6.52 //
 His bowls should not be made of metal, and they should be without cracks; their purification is remembered to be with water, like that of the sacrificial ladles in a sacrifice. // Mn_6.53 //
 A gourd, a wooden bowl, an earthen bowl, and one made of split cane—these Svayambhuva Manu has declared to be the bowls of an ascetic. // Mn_6.54 //
@@ -222,7 +222,7 @@ For the protection of living creatures, by night or by day, always, and even at 
 
 For those living creatures which an ascetic injures by day or by night out of ignorance, for their purification, he should perform six suppressions of the breath after bathing. // Mn_6.69 //
 
-Even three suppressions of the breath, performed according to the rule by a Brahmana, accompanied by the *vyāhṛtis* and the syllable `Om`, are to be known as the highest *tapas*. // Mn_6.70 //
+Even three suppressions of the breath, performed according to the rule by a Brāhmaṇa, accompanied by the *vyāhṛtis* and the syllable `Om`, are to be known as the highest *tapas*. // Mn_6.70 //
 
 For just as the impurities of metals are burned away when they are smelted, so are the faults of the senses burned away by the restraint of the breath. // Mn_6.71 //
 
@@ -268,7 +268,7 @@ And by all these four twice-born in their *āśramas*, this tenfold Dharma must 
 
 Fortitude, forbearance, self-control, non-stealing, purity, control of the senses, wisdom, knowledge, truthfulness, and absence of anger—this is the tenfold characteristic of Dharma. // Mn_6.92 //
 
-Those Brahmanas who fully learn these ten characteristics of Dharma, and having learned them, follow them, they go to the highest state. // Mn_6.93 //
+Those Brāhmaṇas who fully learn these ten characteristics of Dharma, and having learned them, follow them, they go to the highest state. // Mn_6.93 //
 
 A twice-born, having practiced this tenfold Dharma with a concentrated mind, and having duly heard the Vedanta, should renounce, being free from his debts. // Mn_6.94 //
 
@@ -276,4 +276,4 @@ Having renounced all actions, casting off the faults of action, being self-contr
 
 Thus having renounced his actions, being intent on his own duty and free from desire, by renunciation he destroys his sin and attains the highest state. // Mn_6.96 //
 
-This fourfold Dharma of a Brahmana has been declared to you, which is meritorious and yields imperishable fruit after death; now learn the Dharma of Kings. // Mn_6.97 //
+This fourfold Dharma of a Brāhmaṇa has been declared to you, which is meritorious and yields imperishable fruit after death; now learn the Dharma of Kings. // Mn_6.97 //

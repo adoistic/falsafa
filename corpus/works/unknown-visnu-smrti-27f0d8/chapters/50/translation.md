@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 50**
+**Viṣṇu Smriti 50**
 
 Having made a hut of leaves in the forest, he shall dwell there. // Vi_50.1 //
 

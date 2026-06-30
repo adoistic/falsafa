@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 21**
+**Viṣṇu Smriti 21**
 
 Then, after the *āśauca* has passed, having bathed well, with hands and feet well washed, and having rinsed his mouth, he shall feed Brāhmaṇas of this same kind, as many as he can, seated facing north, and honored with perfumes, garlands, clothes, ornaments, and the like. // Vi_21.1 //
 

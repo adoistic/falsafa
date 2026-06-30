@@ -32,7 +32,7 @@ Royal duties and one's own duties, the discussion of doubtful points, and what r
 Non-payment of the proper share, tax, and duty, and what is due to the treasury; causing dissension in the army or among thieves; and the violation of another's wife;
 // K_947 //
 
-the desire to kill cows and Brahmins, and one who destroys crops—these ten offenses the king must investigate himself.
+the desire to kill cows and Brāhmaṇas, and one who destroys crops—these ten offenses the king must investigate himself.
 // K_948 //
 
 Non-performance of prescribed penances, transgression of a royal command or prohibition, the destruction of the rules of caste and life-stages, and the disruption of the purity of mixed castes;
@@ -59,7 +59,7 @@ Those royal servants who neglect their duties through addiction to pleasures, an
 The makers of counterfeit objects, their abettors, and those who circulate them, and those who steal the king's wealth, shall receive various kinds of death.
 // K_956 //
 
-A Shudra who takes up the life of an ascetic and devotes himself to chanting and fire-sacrifices, the king should punish that sinner with death, or he shall be liable for a double fine.
+A Śūdra who takes up the life of an ascetic and devotes himself to chanting and fire-sacrifices, the king should punish that sinner with death, or he shall be liable for a double fine.
 // K_957 //
 
 Even in a sin with clear signs, one should inquire into the cause of the sin. Then one should carefully impose the punishment after establishing the fault.
@@ -89,7 +89,7 @@ For the noble, honorable, and distinguished, and for the low-born, accordingly, 
 The destitute should be placed in confinement; one should not apply the death penalty. For all who have committed sins, there is a special rule in the scriptures.
 // K_966 //
 
-A Brahmin deserving death or mutilation of a limb should enter solitary confinement. His punishment consists of being deprived of his prescribed duties.
+A Brāhmaṇa deserving death or mutilation of a limb should enter solitary confinement. His punishment consists of being deprived of his prescribed duties.
 // K_967 //
 
 A false witness should also be banished; one who accepts improper gifts should be publicly proclaimed. One deserving mutilation should be separated from his duty by confinement.
@@ -104,7 +104,7 @@ A righteous king should make a woman pay a fine from her Woman's Property. A des
 He should place unjustly acquired wealth that has been deposited in the treasury. A wise man should not cause the loss of a greater purpose for the sake of a lesser one.
 // K_971 //
 
-Having given all the wealth collected from fines to Brahmins, and entrusting the kingdom to his son, he should undertake his final journey to the forest.
+Having given all the wealth collected from fines to Brāhmaṇas, and entrusting the kingdom to his son, he should undertake his final journey to the forest.
 // K_972 //
 
 Thus a king, a lord of the earth, should always act, being devoted to his duties. And he should appoint all his servants to work for the welfare of the world.

@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 73**
+**Viṣṇu Smriti 73**
 
 Now, one who wishes to perform a *śrāddha* shall invite Brāhmaṇas on the preceding day. // Vi_73.1 //
 

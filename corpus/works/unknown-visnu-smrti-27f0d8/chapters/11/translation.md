@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 11**
+**Viṣṇu Smriti 11**
 
 Now, the ordeal of fire (*agni*). // Vi_11.1 //
 

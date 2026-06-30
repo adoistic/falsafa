@@ -50,13 +50,13 @@ Whether the sacrifice is performed after sunrise, before sunrise, or at the exac
 
 He for whom the rites from conception to the funeral pyre are prescribed to be performed with sacred formulas has a right to this *shastra*, and it should be known that no one else has. // Mn_2.16 //
 
-The land created by the gods, which lies between the two divine rivers Sarasvati and Drishadvati, they call Brahmavarta. // Mn_2.17 //
+The land created by the gods, which lies between the two divine rivers Sarasvatī and Drishadvati, they call Brahmavarta. // Mn_2.17 //
 
 The conduct which has been passed down by tradition in that land, among the *varnas* and the intermediate ones, is called the conduct of the virtuous. // Mn_2.18 //
 
 Kurukshetra, the Matsyas, the Panchalas, and the Shurasenakas—this is the land of the Brahmarishis, which comes next after Brahmavarta. // Mn_2.19 //
 
-From a Brahmana born in that country, all men on earth should learn their respective conduct. // Mn_2.20 //
+From a Brāhmaṇa born in that country, all men on earth should learn their respective conduct. // Mn_2.20 //
 
 The land which lies between the Himalaya and Vindhya mountains, to the east of Vinashana and to the west of Prayaga, is called the Middle Country. // Mn_2.21 //
 
@@ -64,7 +64,7 @@ But the region between those two mountain ranges, from the eastern sea to the we
 
 That land where the black antelope roams by nature is to be known as the land fit for sacrifice; the land of the Mlecchas lies beyond that. // Mn_2.23 //
 
-The twice-born should diligently seek to settle in these countries; but a Shudra, if distressed for a livelihood, may dwell in any land whatsoever. // Mn_2.24 //
+The twice-born should diligently seek to settle in these countries; but a Śūdra, if distressed for a livelihood, may dwell in any land whatsoever. // Mn_2.24 //
 
 This has been declared to you in brief as the source of Dharma and the origin of this all; now learn the Dharmas of the *varnas*. // Mn_2.25 //
 
@@ -78,9 +78,9 @@ The birth ceremony for a male child is prescribed to be performed before the cut
 
 His name-giving should be performed on the tenth or twelfth day, or on an auspicious lunar day, in an auspicious *muhūrta*, or under a favorable constellation. // Mn_2.30 //
 
-The name of a Brahmana should be auspicious, of a Kshatriya connected with power, of a Vaishya with wealth, but of a Shudra contemptible. // Mn_2.31 //
+The name of a Brāhmaṇa should be auspicious, of a Kṣatriya connected with power, of a Vaiśya with wealth, but of a Śūdra contemptible. // Mn_2.31 //
 
-The name of a Brahmana should have the suffix 'sharma' (denoting happiness), that of a Kshatriya 'raksha' (denoting protection), that of a Vaishya 'pushti' (denoting prosperity), and that of a Shudra 'preshya' (denoting service). // Mn_2.32 //
+The name of a Brāhmaṇa should have the suffix 'sharma' (denoting happiness), that of a Kṣatriya 'raksha' (denoting protection), that of a Vaiśya 'pushti' (denoting prosperity), and that of a Śūdra 'preshya' (denoting service). // Mn_2.32 //
 
 The names of women should be easy to pronounce, not harsh, of clear meaning, charming, auspicious, ending in a long vowel, and containing a word of blessing. // Mn_2.33 //
 
@@ -88,33 +88,33 @@ In the fourth month, the child's first leaving of the house should be performed;
 
 The tonsure ceremony for all the twice-born should be performed according to Dharma in the first or third year, as enjoined by the Veda. // Mn_2.35 //
 
-In the eighth year from conception, one should perform the initiation of a Brahmana; in the eleventh from conception for a Kshatriya; and in the twelfth from conception for a Vaishya. // Mn_2.36 //
+In the eighth year from conception, one should perform the initiation of a Brāhmaṇa; in the eleventh from conception for a Kṣatriya; and in the twelfth from conception for a Vaiśya. // Mn_2.36 //
 
-For a Brahmana desiring proficiency in the sacred lore, the initiation should be done in the fifth year; for a Kshatriya desiring strength, in the sixth; and for a Vaishya desiring wealth, in the eighth. // Mn_2.37 //
+For a Brāhmaṇa desiring proficiency in the sacred lore, the initiation should be done in the fifth year; for a Kṣatriya desiring strength, in the sixth; and for a Vaiśya desiring wealth, in the eighth. // Mn_2.37 //
 
-For a Brahmana, the time for the Savitri initiation does not pass until the sixteenth year; for a Kshatriya, until the twenty-second; and for a Vaishya, until the twenty-fourth. // Mn_2.38 //
+For a Brāhmaṇa, the time for the Savitri initiation does not pass until the sixteenth year; for a Kṣatriya, until the twenty-second; and for a Vaiśya, until the twenty-fourth. // Mn_2.38 //
 
-After these periods, these three, not having been initiated at the proper time, become Vratyas, fallen from the Savitri, and despised by the Aryans. // Mn_2.39 //
+After these periods, these three, not having been initiated at the proper time, become Vratyas, fallen from the Savitri, and despised by the Āryas. // Mn_2.39 //
 
-With these unpurified men, a Brahmana should never, even in times of distress, form a connection through Vedic study or marriage. // Mn_2.40 //
+With these unpurified men, a Brāhmaṇa should never, even in times of distress, form a connection through Vedic study or marriage. // Mn_2.40 //
 
 Student-initiates should wear, in due order, skins of the black antelope, spotted deer, and goat, and garments of hemp, flax, and wool. // Mn_2.41 //
 
-The girdle of a Brahmana shall be made of Munja grass, three-stranded, smooth, and even; that of a Kshatriya, of a bowstring made of Murva fiber; that of a Vaishya, of hemp threads. // Mn_2.42 //
+The girdle of a Brāhmaṇa shall be made of Munja grass, three-stranded, smooth, and even; that of a Kṣatriya, of a bowstring made of Murva fiber; that of a Vaiśya, of hemp threads. // Mn_2.42 //
 
-If Munja grass is not available, the girdles should be made of Kusha, Ashmantaka, or Balvaja grasses, twisted with one, three, or five knots. // Mn_2.43 //
+If Munja grass is not available, the girdles should be made of Kuśa, Ashmantaka, or Balvaja grasses, twisted with one, three, or five knots. // Mn_2.43 //
 
-The sacred thread of a Brahmana shall be of cotton, twisted upwards, and of three strands; that of a Kshatriya, of hemp thread; and that of a Vaishya, of wool thread. // Mn_2.44 //
+The sacred thread of a Brāhmaṇa shall be of cotton, twisted upwards, and of three strands; that of a Kṣatriya, of hemp thread; and that of a Vaiśya, of wool thread. // Mn_2.44 //
 
-A Brahmana should by right carry a staff of Bilva or Palasha wood; a Kshatriya, of Vata or Khadira; a Vaishya, of Pilu or Udumbara. // Mn_2.45 //
+A Brāhmaṇa should by right carry a staff of Bilva or Palasha wood; a Kṣatriya, of Vata or Khadira; a Vaiśya, of Pilu or Udumbara. // Mn_2.45 //
 
-The staff of a Brahmana should be made to reach the end of his hair; that of a Kshatriya should be level with his forehead; and that of a Vaishya, level with his nose. // Mn_2.46 //
+The staff of a Brāhmaṇa should be made to reach the end of his hair; that of a Kṣatriya should be level with his forehead; and that of a Vaiśya, level with his nose. // Mn_2.46 //
 
 All the staves should be straight, unblemished, of pleasing appearance, not likely to cause fear to men, with their bark intact, and not damaged by fire. // Mn_2.47 //
 
 Having taken a staff of his choice, having worshipped the sun, and having walked around the fire, turning his right side towards it, he should beg for alms according to the rule. // Mn_2.48 //
 
-An initiated Brahmana should beg for alms beginning with the word 'bhavat'; a Kshatriya with the word 'bhavat' in the middle; and a Vaishya with the word 'bhavat' at the end. // Mn_2.49 //
+An initiated Brāhmaṇa should beg for alms beginning with the word 'bhavat'; a Kṣatriya with the word 'bhavat' in the middle; and a Vaiśya with the word 'bhavat' at the end. // Mn_2.49 //
 
 He should first beg for alms from his mother, or his sister, or his mother's own sister, or from one who will not humiliate him. // Mn_2.50 //
 
@@ -132,7 +132,7 @@ One should not give one's leftovers to anyone, nor eat them in between meals; no
 
 Overeating is injurious to health, prevents long life, and bars the way to heaven; it is unmeritorious and detested by the world; therefore, one should avoid it. // Mn_2.57 //
 
-A Brahmana should always sip water using the Brahma tīrtha, or the Kaya or Traidasha tīrtha, but never with the Pitrya tīrtha. // Mn_2.58 //
+A Brāhmaṇa should always sip water using the Brahma tīrtha, or the Kaya or Traidasha tīrtha, but never with the Pitrya tīrtha. // Mn_2.58 //
 
 The part at the base of the thumb is called the Brahma tīrtha; that at the base of the fingers, the Kaya; that at the tips, the Deva; and that below these two, the Pitrya. // Mn_2.59 //
 
@@ -140,13 +140,13 @@ First, he should sip water three times, then wipe his mouth twice; and he should
 
 A knower of Dharma, desiring purity, should always sip water in a secluded place, facing east or north, with water that is not hot and not foamy, using the prescribed tīrtha. // Mn_2.61 //
 
-A Brahmana is purified by water that reaches his heart; a ruler, by water that reaches his throat; a Vaishya, by water that is merely swallowed; and a Shudra, by water touched to his lips. // Mn_2.62 //
+A Brāhmaṇa is purified by water that reaches his heart; a ruler, by water that reaches his throat; a Vaiśya, by water that is merely swallowed; and a Śūdra, by water touched to his lips. // Mn_2.62 //
 
 A twice-born man is called 'upavītī' when his right arm is raised and the sacred thread is over his left shoulder; 'prācīnāvītī' when it is over his right shoulder; and 'nivītī' when it hangs around his neck. // Mn_2.63 //
 
 His girdle, deerskin, staff, sacred thread, and water pot, if they are worn out, he should cast into water and take new ones with the recitation of a sacred formula. // Mn_2.64 //
 
-The Kesanta ceremony (cutting of the hair) is prescribed for a Brahmana in the sixteenth year; for a Kshatriya, in the twenty-second; and for a Vaishya, two years after that. // Mn_2.65 //
+The Kesanta ceremony (cutting of the hair) is prescribed for a Brāhmaṇa in the sixteenth year; for a Kṣatriya, in the twenty-second; and for a Vaiśya, two years after that. // Mn_2.65 //
 
 This entire series of rites must be performed for women as well, in order to sanctify the body, at the proper time and in the proper order, but without sacred formulas. // Mn_2.66 //
 
@@ -164,19 +164,19 @@ The clasping of the teacher's feet must be done with crossed hands; the left foo
 
 The teacher, ever unwearied, should say to the one who is about to study, "Pray, recite!" and when he is to stop, he should say, "Let there be a pause." // Mn_2.73 //
 
-A Brahmana should always utter `Om` at the beginning and at the end of a lesson; for what is recited without `Om` at the start flows away, and what is recited without it at the end disintegrates. // Mn_2.74 //
+A Brāhmaṇa should always utter `Om` at the beginning and at the end of a lesson; for what is recited without `Om` at the start flows away, and what is recited without it at the end disintegrates. // Mn_2.74 //
 
-Seated on Kusha grass with tips pointing east, purified by blades of sacred grass, and cleansed by three suppressions of the breath, one is then worthy to utter `Om`. // Mn_2.75 //
+Seated on Kuśa grass with tips pointing east, purified by blades of sacred grass, and cleansed by three suppressions of the breath, one is then worthy to utter `Om`. // Mn_2.75 //
 
-Prajapati drew forth from the three Vedas the letter A, the letter U, and the letter M, and also the mystical utterances (*bhūr, bhuvaḥ, svar*). // Mn_2.76 //
+Prajāpati drew forth from the three Vedas the letter A, the letter U, and the letter M, and also the mystical utterances (*bhūr, bhuvaḥ, svar*). // Mn_2.76 //
 
-From each of the three Vedas, the supreme lord Prajapati drew forth one foot of this sacred *Savitri* verse, which begins with the word *'Tat'*. // Mn_2.77 //
+From each of the three Vedas, the supreme lord Prajāpati drew forth one foot of this sacred *Savitri* verse, which begins with the word *'Tat'*. // Mn_2.77 //
 
-A Brahmana who knows the Veda, by reciting this syllable (`Om`) and this *Savitri* verse, preceded by the *vyāhṛtis*, at both twilights, becomes endowed with the merit of the Veda. // Mn_2.78 //
+A Brāhmaṇa who knows the Veda, by reciting this syllable (`Om`) and this *Savitri* verse, preceded by the *vyāhṛtis*, at both twilights, becomes endowed with the merit of the Veda. // Mn_2.78 //
 
 A twice-born who recites this triad a thousand times outside the village is freed from even great sin within a month, as a snake is freed from its skin. // Mn_2.79 //
 
-A Brahmana, Kshatriya, or Vaishya who is not initiated with this verse and who neglects his duties at the proper time, incurs reproach among the virtuous. // Mn_2.80 //
+A Brāhmaṇa, Kṣatriya, or Vaiśya who is not initiated with this verse and who neglects his duties at the proper time, incurs reproach among the virtuous. // Mn_2.80 //
 
 The three great imperishable *vyāhṛtis*, preceded by `Om`, and the three-footed *Savitri* verse, are to be known as the mouth of Brahma. // Mn_2.81 //
 
@@ -184,13 +184,13 @@ He who recites this daily for three years, unwearied, attains the supreme Brahma
 
 The single syllable (`Om`) is the supreme Brahma; the suppression of the breath is the highest *tapas*. But there is nothing higher than the *Savitri*; truth is more excellent than silence. // Mn_2.83 //
 
-All Vedic rites, the oblations and the sacrifices, perish; but the syllable (`Om`) should be known as imperishable, for it is Brahma and Prajapati himself. // Mn_2.84 //
+All Vedic rites, the oblations and the sacrifices, perish; but the syllable (`Om`) should be known as imperishable, for it is Brahma and Prajāpati himself. // Mn_2.84 //
 
 The sacrifice of recitation is superior to the prescribed *yajña* by ten degrees; a whispered recitation is held to be a hundred times better; and a mental recitation is a thousand times better. // Mn_2.85 //
 
 The four domestic sacrifices, together with the prescribed ritual sacrifices, are not worth a sixteenth part of the *japa-yajña*. // Mn_2.86 //
 
-Through recitation alone a Brahmana may certainly attain perfection, there is no doubt; whether he performs other rites or not, a Brahmana who is a friend to all is so called. // Mn_2.87 //
+Through recitation alone a Brāhmaṇa may certainly attain perfection, there is no doubt; whether he performs other rites or not, a Brāhmaṇa who is a friend to all is so called. // Mn_2.87 //
 
 A wise man should strive to restrain his senses, which wander among alluring sense-objects, just as a charioteer restrains his horses. // Mn_2.88 //
 
@@ -222,7 +222,7 @@ At the morning twilight, one should stand and recite the *Savitri* until the sun
 
 By standing and reciting at the morning twilight, he removes the sin committed during the night; but by sitting at the evening twilight, he destroys the impurity committed during the day. // Mn_2.102 //
 
-But he who does not stand for the morning devotion, and who does not attend the evening one, must be excluded like a Shudra from all duties of the twice-born. // Mn_2.103 //
+But he who does not stand for the morning devotion, and who does not attend the evening one, must be excluded like a Śūdra from all duties of the twice-born. // Mn_2.103 //
 
 Having gone to the forest with a concentrated mind, and being self-controlled near water, he should perform his daily obligatory rites and recite the *Savitri*. // Mn_2.104 //
 
@@ -244,15 +244,15 @@ Where there is neither Dharma nor wealth, nor suitable service, there knowledge 
 
 A teacher of the Veda should rather die with his knowledge; even in dire distress, he must not sow it in barren soil. // Mn_2.113 //
 
-Knowledge, approaching a Brahmana, said: "I am your treasure, protect me. Do not impart me to a caviler, so that I may become most powerful." // Mn_2.114 //
+Knowledge, approaching a Brāhmaṇa, said: "I am your treasure, protect me. Do not impart me to a caviler, so that I may become most powerful." // Mn_2.114 //
 
-"But impart me to that Brahmana whom you know to be pure, a steadfast *brahmachari*, and a watchful guardian of the treasure." // Mn_2.115 //
+"But impart me to that Brāhmaṇa whom you know to be pure, a steadfast *brahmachari*, and a watchful guardian of the treasure." // Mn_2.115 //
 
 He who acquires the Veda from one who has not been authorized to teach it is guilty of the theft of the Veda and goes to hell. // Mn_2.116 //
 
 From whomever one may receive knowledge, whether worldly, Vedic, or spiritual, him one should salute first. // Mn_2.117 //
 
-Better a well-controlled Brahmana whose only wealth is the *Savitri*, than an uncontrolled one who knows the three Vedas, eats all kinds of food, and sells all kinds of things. // Mn_2.118 //
+Better a well-controlled Brāhmaṇa whose only wealth is the *Savitri*, than an uncontrolled one who knows the three Vedas, eats all kinds of food, and sells all kinds of things. // Mn_2.118 //
 
 One should not occupy a bed or seat used by a superior; and if one is on a bed or seat, one should rise and salute him. // Mn_2.119 //
 
@@ -260,17 +260,17 @@ The vital breaths of a young man go upwards when an elder approaches; by rising 
 
 For him who is of a respectful disposition and constantly serves the aged, four things increase: lifespan, Dharma, fame, and strength. // Mn_2.121 //
 
-After the salutation, a Brahmana, when greeting a superior, should announce his own name, saying, "I am so-and-so by name." // Mn_2.122 //
+After the salutation, a Brāhmaṇa, when greeting a superior, should announce his own name, saying, "I am so-and-so by name." // Mn_2.122 //
 
 To those who do not know the proper response to a salutation, a wise man should say, "It is I," and he should do the same to all women. // Mn_2.123 //
 
 In a salutation, one should utter the word 'bhoh' at the end of one's name, for the nature of 'bhoh' is remembered by the sages to be the essence of all names. // Mn_2.124 //
 
-In reply to a salutation, a Brahmana should be addressed with, "May you be long-lived, gentle one"; and the final vowel of his name should be pronounced as a prolated vowel. // Mn_2.125 //
+In reply to a salutation, a Brāhmaṇa should be addressed with, "May you be long-lived, gentle one"; and the final vowel of his name should be pronounced as a prolated vowel. // Mn_2.125 //
 
-A Brahmana who does not know the proper response to a salutation should not be saluted by a learned man; he is just like a Shudra. // Mn_2.126 //
+A Brāhmaṇa who does not know the proper response to a salutation should not be saluted by a learned man; he is just like a Śūdra. // Mn_2.126 //
 
-On meeting a Brahmana, one should ask after his welfare; a Kshatriya, his freedom from harm; a Vaishya, his prosperity; and a Shudra, his health. // Mn_2.127 //
+On meeting a Brāhmaṇa, one should ask after his welfare; a Kṣatriya, his freedom from harm; a Vaiśya, his prosperity; and a Śūdra, his health. // Mn_2.127 //
 
 One who has been initiated for a sacrifice, even if he is younger, should not be addressed by name. A knower of Dharma should address him with the words 'bhoh' or 'bhavat'. // Mn_2.128 //
 
@@ -284,13 +284,13 @@ The feet of a brother's wife of the same *varna* should be clasped daily; but th
 
 Towards a father's sister, a mother's sister, and one's own elder sister, one should behave as towards one's mother; but the mother is more venerable than they. // Mn_2.133 //
 
-Among fellow townsmen, seniority is established by ten years; among artists, by five years; among learned Brahmanas, by three years; but among blood relatives, even by a small difference in age. // Mn_2.134 //
+Among fellow townsmen, seniority is established by ten years; among artists, by five years; among learned Brāhmaṇas, by three years; but among blood relatives, even by a small difference in age. // Mn_2.134 //
 
-A Brahmana of ten years and a king of a hundred years should be known as father and son; but of the two, the Brahmana is the father. // Mn_2.135 //
+A Brāhmaṇa of ten years and a king of a hundred years should be known as father and son; but of the two, the Brāhmaṇa is the father. // Mn_2.135 //
 
 Wealth, kinship, age, action, and knowledge as the fifth—these are the grounds for respect; each succeeding one is more weighty. // Mn_2.136 //
 
-Whichever man of the three upper *varnas* possesses the most of these five qualities in abundance is worthy of respect; and so is a Shudra who has reached the tenth decade of his life. // Mn_2.137 //
+Whichever man of the three upper *varnas* possesses the most of these five qualities in abundance is worthy of respect; and so is a Śūdra who has reached the tenth decade of his life. // Mn_2.137 //
 
 Way should be made for one in a chariot, one in his tenth decade, a sick person, one carrying a burden, a woman, a *snātaka*, a king, and a bridegroom. // Mn_2.138 //
 
@@ -300,7 +300,7 @@ A twice-born who, having initiated a pupil, teaches him the Veda together with t
 
 But he who teaches a portion of the Veda, or again the auxiliary sciences of the Veda, for a livelihood, is called an *upādhyāya*. // Mn_2.141 //
 
-That Brahmana who performs the rites from conception onwards according to the rule and nourishes him with food is called a *guru*. // Mn_2.142 //
+That Brāhmaṇa who performs the rites from conception onwards according to the rule and nourishes him with food is called a *guru*. // Mn_2.142 //
 
 He who, being chosen, performs for another the establishment of the sacred fire, the domestic sacrifices, and the great sacrifices like the Agnishtoma, is here called his *ṛtvij*. // Mn_2.143 //
 
@@ -308,7 +308,7 @@ He who unfailingly fills both ears with the sacred Veda is to be known as mother
 
 In honor, an *ācārya* exceeds ten *upādhyāyas*; a father exceeds one hundred *ācāryas*; but a mother exceeds a thousand fathers in reverence. // Mn_2.145 //
 
-Of the progenitor and the giver of the Veda, the giver of the Veda is the more venerable father; for the birth through the Veda is eternal for a Brahmana, both in this life and after death. // Mn_2.146 //
+Of the progenitor and the giver of the Veda, the giver of the Veda is the more venerable father; for the birth through the Veda is eternal for a Brāhmaṇa, both in this life and after death. // Mn_2.146 //
 
 That birth which his mother and father produce for him together out of mutual desire, one should know as his mere physical birth, when he is born from the womb. // Mn_2.147 //
 
@@ -316,7 +316,7 @@ But that birth which the *ācārya*, who has mastered the Veda, brings about for
 
 He who helps another with sacred learning, whether little or much, should be known here as a *guru* on account of that help with sacred learning. // Mn_2.149 //
 
-The giver of the spiritual birth and the teacher of one's own Dharma, a Brahmana, though a child, is by law the father of an old man. // Mn_2.150 //
+The giver of the spiritual birth and the teacher of one's own Dharma, a Brāhmaṇa, though a child, is by law the father of an old man. // Mn_2.150 //
 
 The child Angirasa, a sage, taught his elders; embracing them with his knowledge, he called them "little sons." // Mn_2.151 //
 
@@ -326,13 +326,13 @@ An ignorant man is indeed a child, but the giver of the sacred formula is a fath
 
 Not by years, not by gray hairs, not by wealth, not by kin did the sages make the law; he who is learned among us is the great one. // Mn_2.154 //
 
-Seniority among Brahmanas is from knowledge; among Kshatriyas, from valor; among Vaishyas, from grain and wealth; but among Shudras, from birth alone. // Mn_2.155 //
+Seniority among Brāhmaṇas is from knowledge; among Kṣatriyas, from valor; among Vaiśyas, from grain and wealth; but among Śūdras, from birth alone. // Mn_2.155 //
 
 A man is not an elder because his head is gray; he who, though young, is learned, him the gods know to be an elder. // Mn_2.156 //
 
-As a wooden elephant, as a leather deer, and as an unlearned Brahmana—these three bear only the name. // Mn_2.157 //
+As a wooden elephant, as a leather deer, and as an unlearned Brāhmaṇa—these three bear only the name. // Mn_2.157 //
 
-As a eunuch is fruitless with women, as a cow is fruitless with another cow, and as a gift to an ignorant man is fruitless, so is a Brahmana who knows no Veda fruitless. // Mn_2.158 //
+As a eunuch is fruitless with women, as a cow is fruitless with another cow, and as a gift to an ignorant man is fruitless, so is a Brāhmaṇa who knows no Veda fruitless. // Mn_2.158 //
 
 Instruction for the good of beings should be given with non-violence; and he who desires Dharma should use speech that is sweet and gentle. // Mn_2.159 //
 
@@ -340,7 +340,7 @@ He whose speech and mind are pure and always well-guarded, he indeed obtains the
 
 Even when distressed, one should not be cutting to the quick, nor have thoughts of injury to others; one should not utter speech that makes others anxious, speech that is unheavenly. // Mn_2.161 //
 
-A Brahmana should always shrink from honor as from poison; and he should always long for dishonor as for nectar. // Mn_2.162 //
+A Brāhmaṇa should always shrink from honor as from poison; and he should always long for dishonor as for nectar. // Mn_2.162 //
 
 For the dishonored man sleeps happily, wakes happily, and moves happily in this world; but the one who dishonors perishes. // Mn_2.163 //
 
@@ -348,11 +348,11 @@ By this orderly method, a twice-born whose soul is purified, dwelling with his *
 
 The entire Veda, together with its esoteric texts, must be learned by a twice-born through various special austerities and vows enjoined by the rule. // Mn_2.165 //
 
-A best of the twice-born, wishing to perform *tapas*, should constantly study the Veda; for the study of the Veda is here called the highest *tapas* for a Brahmana. // Mn_2.166 //
+A best of the twice-born, wishing to perform *tapas*, should constantly study the Veda; for the study of the Veda is here called the highest *tapas* for a Brāhmaṇa. // Mn_2.166 //
 
 That twice-born who, even while wearing a garland, daily studies his private recitation to the best of his ability, performs the highest *tapas* to the very tips of his fingernails. // Mn_2.167 //
 
-A twice-born who, without studying the Veda, labors elsewhere, quickly sinks to the state of a Shudra in this very life, along with his descendants. // Mn_2.168 //
+A twice-born who, without studying the Veda, labors elsewhere, quickly sinks to the state of a Śūdra in this very life, along with his descendants. // Mn_2.168 //
 
 The first birth of a twice-born is from his mother; the second is at the tying of the sacred girdle; the third is at the initiation for a sacrifice, according to the injunction of the Veda. // Mn_2.169 //
 
@@ -360,7 +360,7 @@ Among these, in that spiritual birth which is marked by the tying of the sacred 
 
 They call the *ācārya* a father because he gives the Veda; for no sacred rite can be performed by a man before the tying of the sacred girdle. // Mn_2.171 //
 
-He should not recite the Veda except for the purpose of offering to the ancestors; for he is equal to a Shudra as long as he is not born in the Veda. // Mn_2.172 //
+He should not recite the Veda except for the purpose of offering to the ancestors; for he is equal to a Śūdra as long as he is not born in the Veda. // Mn_2.172 //
 
 For him who has been initiated, the instruction in vows is prescribed, and the learning of the Veda in due order and according to the rule. // Mn_2.173 //
 
@@ -378,9 +378,9 @@ Gambling, idle talk, slander, and falsehood, looking at and touching women, and 
 
 He should sleep alone everywhere and should never spill his seed; for by spilling his seed from desire, he breaks his vow. // Mn_2.180 //
 
-A twice-born *brahmachari* who unintentionally spills his seed in a dream should bathe, worship the sun, and thrice recite the Rik verse beginning "punar mām." // Mn_2.181 //
+A twice-born *brahmachari* who unintentionally spills his seed in a dream should bathe, worship the sun, and thrice recite the Ṛc verse beginning "punar mām." // Mn_2.181 //
 
-He should fetch a water-pot, flowers, cow-dung, earth, and Kusha grass, as much as is needed, and should go for alms daily. // Mn_2.182 //
+He should fetch a water-pot, flowers, cow-dung, earth, and Kuśa grass, as much as is needed, and should go for alms daily. // Mn_2.182 //
 
 A *brahmachari*, being self-controlled, should daily beg for alms from the houses of those who are not deficient in Vedic sacrifices and are praised for performing their duties. // Mn_2.183 //
 
@@ -396,7 +396,7 @@ A student under a vow should always live on alms and should not eat the food of 
 
 But at a rite for the gods, he may eat like a student under a vow; at a rite for the ancestors, like a sage; if invited, he may eat at will, and his vow is not broken. // Mn_2.189 //
 
-This duty has been enjoined by the wise for a Brahmana only; this duty is not prescribed for a Kshatriya and a Vaishya. // Mn_2.190 //
+This duty has been enjoined by the wise for a Brāhmaṇa only; this duty is not prescribed for a Kṣatriya and a Vaiśya. // Mn_2.190 //
 
 Whether commanded by his *guru* or not, he should always make an effort in his studies and in acts beneficial to his *ācārya*. // Mn_2.191 //
 
@@ -466,9 +466,9 @@ If a woman or a man of lower rank should perform some good deed, he should also 
 
 Some say that Dharma and wealth are the highest good; others, desire and wealth; others, Dharma alone; others, wealth alone; but the established truth is that the triad of all three is the highest good. // Mn_2.224 //
 
-The *ācārya*, the father, the mother, and an elder brother should not be treated with disrespect, especially by a Brahmana, even when one is distressed. // Mn_2.225 //
+The *ācārya*, the father, the mother, and an elder brother should not be treated with disrespect, especially by a Brāhmaṇa, even when one is distressed. // Mn_2.225 //
 
-The *ācārya* is the image of Brahma; the father is the image of Prajapati; the mother is the image of the earth; but an elder brother is the image of oneself. // Mn_2.226 //
+The *ācārya* is the image of Brahma; the father is the image of Prajāpati; the mother is the image of the earth; but an elder brother is the image of oneself. // Mn_2.226 //
 
 The suffering which the mother and father endure in the birth of men cannot be repaid even in a hundred years. // Mn_2.227 //
 
@@ -498,13 +498,13 @@ Nectar may be taken even from poison, a good saying even from a child, good cond
 
 Women, jewels, knowledge, Dharma, purity, good sayings, and various arts may be acquired from anyone. // Mn_2.240 //
 
-In times of distress, study under a non-Brahmana teacher is permitted, as is following and serving him as long as the instruction lasts. // Mn_2.241 //
+In times of distress, study under a non-Brāhmaṇa teacher is permitted, as is following and serving him as long as the instruction lasts. // Mn_2.241 //
 
-A pupil who desires the highest state should not dwell permanently with a non-Brahmana *guru*, nor with a Brahmana who has not studied the Veda. // Mn_2.242 //
+A pupil who desires the highest state should not dwell permanently with a non-Brāhmaṇa *guru*, nor with a Brāhmaṇa who has not studied the Veda. // Mn_2.242 //
 
 But if he desires to dwell permanently in his *guru's* family, he should diligently serve him until he is released from his body. // Mn_2.243 //
 
-A Brahmana who serves his *guru* until the dissolution of his body goes straight to the eternal abode of Brahma. // Mn_2.244 //
+A Brāhmaṇa who serves his *guru* until the dissolution of his body goes straight to the eternal abode of Brahma. // Mn_2.244 //
 
 A knower of Dharma should not give any gift to his *guru* beforehand; but when he is about to take the ceremonial bath, having been permitted by his *guru*, he should procure a gift for him according to his ability. // Mn_2.245 //
 
@@ -514,4 +514,4 @@ When the *ācārya* has died, he should behave towards his virtuous son, or his 
 
 If none of these are living, he should control his posture, seat, and movements, and by attending the sacred fire, he should attain perfection for his soul. // Mn_2.248 //
 
-A Brahmana who thus practices his studentship without breaking his vow goes to the highest abode and is not born here again. // Mn_2.249 //
+A Brāhmaṇa who thus practices his studentship without breaking his vow goes to the highest abode and is not born here again. // Mn_2.249 //

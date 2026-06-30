@@ -32,7 +32,7 @@ A twice-born who is touched by an impure substance, by night or by day, / should
 
 A man bitten by beasts of prey, camels, horses, and the like, but not by humans, / becomes pure immediately by bathing, at twilight and during the night. // YSS_1.5 //
 
-Having unknowingly eaten the food of an outcaste, or by chance the food of a Chandala, / one is purified in ten nights by a diet of barley gruel mixed with cow's urine. // YSS_1.6 //
+Having unknowingly eaten the food of an outcaste, or by chance the food of a Caṇḍāla, / one is purified in ten nights by a diet of barley gruel mixed with cow's urine. // YSS_1.6 //
 
 Those who have fallen from their vows by threatening suicide by water, fire, or hanging; those who have lapsed from asceticism or a fast unto death; / those who have attempted suicide by poison, falling from a height, or fasting; and those who have attempted suicide with a weapon; // YSS_1.7 //
 
@@ -66,7 +66,7 @@ For one younger than this, there is no offense and no sin; / there is no royal p
 
 For killing a person of mixed-caste birth, one should perform a *Sāṃtapana kṛcchra*; / for killing a Sūta, an *Atikṛcchra* penance is prescribed, and the same for a *Kuṇḍa* or a *Golaka* (types of children born of adultery). // YSS_1.22 //
 
-For killing women in general, one should perform the *Cāndrāyaṇa* vow; / for killing a cow, a Kshatriya, a Vaishya, a Shudra, or one born of a regular-order union, // YSS_1.23 //
+For killing women in general, one should perform the *Cāndrāyaṇa* vow; / for killing a cow, a Kṣatriya, a Vaiśya, a Śūdra, or one born of a regular-order union, // YSS_1.23 //
 
 and for dining with them, having intercourse with their women, or accepting gifts from them, / one should properly perform a year-long *kṛcchra* penance for purification. // YSS_1.23A //
 
@@ -78,7 +78,7 @@ But those who commit these sins in secret / are purified in the month of Māgha 
 
 For having intercourse with another's wife, a man, a eunuch, or with horses, goats, sheep, and other animals—/ but not with a cow—one should recite the Pāvamānī hymns for three days. // YSS_1.27 //
 
-Those who have intercourse with women of the Chandala and other such castes, or with cows, / are purified by reciting the Aghamarṣaṇa hymn for a fortnight while observing a vow of subsisting on milk. // YSS_1.28 //
+Those who have intercourse with women of the Caṇḍāla and other such castes, or with cows, / are purified by reciting the Aghamarṣaṇa hymn for a fortnight while observing a vow of subsisting on milk. // YSS_1.28 //
 
 For having intercourse with one's mother, guru's wife, sister, or daughter, / one must enter fire; no other purification is ordained. // YSS_1.29 //
 
@@ -90,7 +90,7 @@ A washerman, a leatherworker, an actor, a bamboo-worker, / a fisherman, a dancer
 
 for eating or drinking with them, secretly associating with them even once, / or performing oral intercourse, one should perform a *Taptakṛcchra*. // YSS_1.32A //
 
-Chandalas and Mushtikas, and likewise those of mixed-caste birth; // YSS_1.32 B //
+Caṇḍālas and Mushtikas, and likewise those of mixed-caste birth; // YSS_1.32 B //
 
 for eating with them, having intercourse with their women, or accepting gifts from them, / a year-long *kṛcchra* is prescribed if done knowingly; if unknowingly, an *Aindava* vow is prescribed. // YSS_1.33 //
 
@@ -98,7 +98,7 @@ Those whose family custom is said to include the drinking of liquor by their wom
 
 Those who are outside the four *varṇas* yet consider themselves Brahmins, / who are of mixed origin through generations, are to be carefully avoided. // YSS_1.35 //
 
-One born from a fallen ascetic, and one born to a Brahmin woman from a Shudra man— / both of these should be known as Chandalas, as should one born from a woman of the same *gotra*. // YSS_1.36 //
+One born from a fallen ascetic, and one born to a Brahmin woman from a Śūdra man— / both of these should be known as Caṇḍālas, as should one born from a woman of the same *gotra*. // YSS_1.36 //
 
 A child born of adultery with a woman of the same caste is a *Kuṇḍa* if her husband is alive; / if the husband is dead, he is named a *Golaka*. Both are likewise devoid of caste status. // YSS_1.37 //
 

@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 23**
+**Viṣṇu Smriti 23**
 
 That which is defiled by bodily excretions, spirituous liquors, or intoxicants is extremely defiled. // Vi_23.1 //
 

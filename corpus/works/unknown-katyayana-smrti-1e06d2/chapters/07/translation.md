@@ -20,7 +20,7 @@ translator: thothica
 
 ## The Chief Judge
 
-When the king does not conduct the determination of cases himself, he should then appoint a Brahmin learned in the scriptures. // K_063 //
+When the king does not conduct the determination of cases himself, he should then appoint a Brāhmaṇa learned in the scriptures. // K_063 //
 
 He should be skillful, of noble lineage, impartial, not causing anxiety, steadfast, fearful of the next world, devoted to sacred law, diligent, and free from anger. // K_064 //
 
@@ -28,7 +28,7 @@ One who is not cruel, is sweet-tempered, affectionate, forgiving, discerning, en
 
 One who has studied only a single scripture cannot know how to decide a case. Therefore, one who is learned in many scriptures should be appointed by kings as the best in disputes. // K_066 //
 
-Where a Brahmin is not available, a Kshatriya should be appointed, or a Vaishya who knows the scriptures of Dharma. A Shudra should be diligently avoided. // K_067 //
+Where a Brāhmaṇa is not available, a Kṣatriya should be appointed, or a Vaiśya who knows the scriptures of Dharma. A Śūdra should be diligently avoided. // K_067 //
 
 A case decided by others than these is considered to be decided unjustly, even if they were appointed, and even if by chance it conforms to the scriptures. // K_068 //
 

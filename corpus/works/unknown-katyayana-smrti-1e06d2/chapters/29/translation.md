@@ -30,7 +30,7 @@ The Chief Judge, in the presence of the plaintiff and defendant, should appoint 
 
 "Whatever you know of the dealings between these two in this matter, speak it all truthfully, for your testimony is required here." // K_343 //
 
-In the presence of gods and Brahmins, he should question the twice-born for true testimony, having them face north or east, in the forenoon, being himself pure and they being pure. // K_344 //
+In the presence of gods and Brāhmaṇas, he should question the twice-born for true testimony, having them face north or east, in the forenoon, being himself pure and they being pure. // K_344 //
 
 Having summoned the witnesses, he should question them, binding them firmly with oaths, all together, whose conduct is known and who know the matter, and then separately. // K_345 //
 
@@ -44,7 +44,7 @@ Ascetics, members of guilds and corporations, and groups of merchants, and other
 
 Of slaves, bards, wrestlers, and those who live by elephants, horses, and weapons, the leaders of each of these groups are the class leaders. Their disputes are within their own classes, and the members of the class are witnesses in them. // K_350 //
 
-Women should give evidence for women, similar twice-born for the twice-born, virtuous Shudras for Shudras, and those of the lowest castes for the lowest castes. // K_351 //
+Women should give evidence for women, similar twice-born for the twice-born, virtuous Śūdras for Śūdras, and those of the lowest castes for the lowest castes. // K_351 //
 
 Where it is impossible for them to come, for those residing in a foreign country, one should have the testimony given through a document sent by three men learned in the Vedas. // K_352 //
 

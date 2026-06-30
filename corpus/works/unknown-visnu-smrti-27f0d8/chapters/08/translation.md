@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 8**
+**Viṣṇu Smriti 8**
 
 Now, those who cannot be witnesses: // Vi_8.1 //
 

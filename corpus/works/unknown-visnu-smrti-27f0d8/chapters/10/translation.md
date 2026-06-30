@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 10**
+**Viṣṇu Smriti 10**
 
 Now, the ordeal of the balance (*dhaṭa*). // Vi_10.1 //
 

@@ -255,7 +255,7 @@ Nails, teeth, bones, and marrow arise from the transformation of the father's se
 
 **Cvp 60**
 
-This lump [of a body], thus born of impurity and filled with impurity — how could such a body be purified by bathing in the Ganges?
+This lump [of a body], thus born of impurity and filled with impurity — how could such a body be purified by bathing in the Gaṅgā?
 
 **Cvp 61**
 
@@ -263,7 +263,7 @@ An unclean pot is not made clean by being washed with water again and again; lik
 
 **Cvp 62**
 
-Even though it swims in the Ganges, a dog does not deserve to become pure; likewise, for dull-minded men, bathing at sacred fords is fruitless.
+Even though it swims in the Gaṅgā, a dog does not deserve to become pure; likewise, for dull-minded men, bathing at sacred fords is fruitless.
 
 **Cvp 63**
 

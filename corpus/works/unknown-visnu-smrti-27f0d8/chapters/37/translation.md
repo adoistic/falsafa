@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 37**
+**Viṣṇu Smriti 37**
 
 Speaking an untruth in self-praise. // Vi_37.1 //
 

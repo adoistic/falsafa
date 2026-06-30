@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 47**
+**Viṣṇu Smriti 47**
 
 Now, the *cāndrāyaṇa* (the lunar penance). // Vi_47.1 //
 
