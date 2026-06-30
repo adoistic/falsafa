@@ -368,7 +368,7 @@ translator: thothica
 
 **2.17.5**  He strengthened the eastern mountains with his might, he made the waters flow downward. He held up the earth that nourishes all; by his magic power he propped up the sky lest it fall.
 
-**2.17.6**  The weapon which the father made ready for him with both arms, choosing it from all beings and all birth — with that thunderbolt, having struck, the loud-sounding one opened the way to lay Kṛvi low upon the earth.
+**2.17.6**  The weapon which the father made ready for him with both arms, choosing it from all beings and all birth — with that thunderbolt, having struck, the loud-sounding one opened the way to lay Krivi low upon the earth.
 
 **2.17.7**  Like an old maid staying at home with her parents, I seek blessing from thee from the common seat. Make me conspicuous, bring to me — give the bodily share by which thou wouldst magnify.
 
@@ -444,7 +444,7 @@ translator: thothica
 
 **2.22.1**  The great bull was satisfied and drank at the three Trikadrukas the soma mixed with barley, pressed by Viṣṇu, as he willed — the mighty one was exhilarated to do the great deed. The great, far-reaching drop follows the true god, Indra, the true god.
 
-**2.22.2**  Then, radiant, in battle he attacked Kṛvi with his might; he filled the two world-halves; by his greatness he increased. Then he placed another in his belly, and overflowed from it — the true drop follows the true god Indra, the true god.
+**2.22.2**  Then, radiant, in battle he attacked Krivi with his might; he filled the two world-halves; by his greatness he increased. Then he placed another in his belly, and overflowed from it — the true drop follows the true god Indra, the true god.
 
 **2.22.3**  Born at once with will-power, thou hast grown together with strength; grown great at once with heroic deeds, the overwhelmer of enemies, the all-seeing. The giver of desirable wealth to the praiser — the true drop follows the true god Indra, the true god.
 
@@ -654,11 +654,11 @@ translator: thothica
 
 **2.32.5**  O Rākā, those benevolent, well-formed thoughts of yours with which you bestow riches upon the worshipper — with those come to us today, O blessed one, well-disposed, granting thousandfold prosperity.
 
-**2.32.6**  O Sinīvālī of broad braids, you who are the sister of the gods — accept the oblation that has been offered; O goddess, bestow offspring upon us.
+**2.32.6**  O Sinīvāli of broad braids, you who are the sister of the gods — accept the oblation that has been offered; O goddess, bestow offspring upon us.
 
-**2.32.7**  She who has beautiful arms, beautiful fingers, who is kind, mother of many — for her, for the lady of the house, for Sinīvālī, offer the oblation.
+**2.32.7**  She who has beautiful arms, beautiful fingers, who is kind, mother of many — for her, for the lady of the house, for Sinīvāli, offer the oblation.
 
-**2.32.8**  She who is Guṅgū, she who is Sinīvālī, she who is Rākā, she who is Sarasvatī — I call upon Indrāṇī for help, and Varuṇānī for well-being.
+**2.32.8**  She who is Guṅgū, she who is Sinīvāli, she who is Rākā, she who is Sarasvatī — I call upon Indrāṇī for help, and Varuṇānī for well-being.
 
 **2.33.1**  O father of the Maruts, may your goodwill come to us; do not keep us away from the sight of the sun. May the hero fare well on his horse; may we be born and multiply in offspring, O Rudra.
 
@@ -780,7 +780,7 @@ translator: thothica
 
 **2.38.3**  Even those (steeds) which he now unyokes with the swiftest, even the untamed course has rested. Even the paths of the water-rushing serpents have been laid down; following the ordinance of Savitṛ, (the world) has come to release.
 
-**2.38.4**  She who weaves has again rolled up what was spread out; the wise one has laid down her skill in the midst of her work. The divine Savitṛ, Aramatī (Piety), has risen up, having shaken apart the seasons.
+**2.38.4**  She who weaves has again rolled up what was spread out; the wise one has laid down her skill in the midst of her work. The divine Savitṛ, Aramati (Piety), has risen up, having shaken apart the seasons.
 
 **2.38.5**  The abodes of diverse forms pervade all of life throughout the house — such is the power, the flame of Agni. The mother has assigned the best portion to her son; Savitṛ has impelled (men to act) following his will.
 

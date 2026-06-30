@@ -257,7 +257,7 @@ translator: thothica
 
 **5.13.5**  What has clung — in the mortar, in the pestle, in the winnowing fan, on the ground, in the cooking-pot — the drops that have splashed, the washings that have been made — all that I fill up for thee with the sacred formula.
 
-**5.13.6**  Rise upward! Do not scatter; dispel the intervening murk. Crossing over all the Rākṣasas, mount thou into heaven.
+**5.13.6**  Rise upward! Do not scatter; dispel the intervening murk. Crossing over all the Rakṣasas, mount thou into heaven.
 
 **5.13.7**  Swift for us, become one that knows no obstacle; let this be established together with the sacred formulas — in harmony with earth, in harmony with Agni, in harmony with the rays of the sun, in harmony with the works of the gods.
 
@@ -273,7 +273,7 @@ translator: thothica
 
 **5.14.5**  Thou art of wide-going song, measured by the breath of Vāyu. Strike down contemptuous words from me; may I be freed from wrongdoing.
 
-**5.14.6**  Drive away the Rākṣasas with splendor; honor the oblation for the gods. Thou art all-pervading and wide-spreading.
+**5.14.6**  Drive away the Rakṣasas with splendor; honor the oblation for the gods. Thou art all-pervading and wide-spreading.
 
 **5.14.7**  Like the high-flying Suparṇa, fly up to heaven; make that dear one dear to the gods; deliver me to the ṛṣis. Let the pure partake of the pure; may the well-doers drink the honey.
 

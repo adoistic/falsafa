@@ -36,7 +36,7 @@ translator: thothica
 
 **10.2.1**  Gladden the gods who long for it, O youngest, knowing the seasons, O Lord of the Seasons, sacrifice here. Among the divine officiants, O Agni, thou art the most skilled in sacrifice among the Hotṛs.
 
-**10.2.2**  Thou seekest the Hotṛ office and also the Potṛ office among men; thou art the Māndhātṛ, the giver of riches, keeper of holy Order. With Svāhā let us make our oblations; let divine Agni, worthy, sacrifice to the gods.
+**10.2.2**  Thou seekest the Hotṛ office and also the Potṛ office among men; thou art the Mandhātṛ, the giver of riches, keeper of holy Order. With Svāhā let us make our oblations; let divine Agni, worthy, sacrifice to the gods.
 
 **10.2.3**  We have come upon the path of the gods; what we are able we will carry forward along it. Agni, the all-knowing, let him sacrifice, for he is the Hotṛ; it is he who orders the rites and the seasons.
 
@@ -1360,7 +1360,7 @@ translator: thothica
 
 **10.64.8**  The thrice-seven rivers, the great waters, for our aid; the forest lords, the mountains, Agni — we call; Kṛśānu, the archers, Tiṣya in his seat, Rudra among the Rudras, the Rudraic one, we invoke.
 
-**10.64.9**  May Sarasvatī, Sarayū, and Sindhu with their waves — the great ones, the nourishing rivers — come with aid; O divine waters, O mothers who give good pleasure, sing to us your milk rich as ghee and sweet as honey.
+**10.64.9**  May Sarasvatī, Sarayu, and Sindhu with their waves — the great ones, the nourishing rivers — come with aid; O divine waters, O mothers who give good pleasure, sing to us your milk rich as ghee and sweet as honey.
 
 **10.64.10**  May the mother Bṛhadivā hear us, and Tvaṣṭṛ as father with the gods and the birth-goddesses; Ṛbhukṣan, Vāja, Rathaspati, Bhaga, the joyful hymn — may the praise of the self-offering one protect us.
 
@@ -1372,7 +1372,7 @@ translator: thothica
 
 **10.64.14**  For they — the two great mothers Heaven and Earth, the divine goddesses, worshipped by the gods from the beginning — both bear both, with their wealth-bearing ones; they pour manifold seed along with the fathers.
 
-**10.64.15**  That priestly office spreads and wins all desirable things; Bṛhaspati and Aramatī, the more wonderful; where the pressing stone is called the great honey-presser, the wise men have rejoiced with their thoughts.
+**10.64.15**  That priestly office spreads and wins all desirable things; Bṛhaspati and Aramati, the more wonderful; where the pressing stone is called the great honey-presser, the wise men have rejoiced with their thoughts.
 
 **10.64.16**  Thus the seer, mighty in strength, knower of truth, seeking wealth, desiring riches — with his lauds and thoughts here the inspired one nourished the heavenly birth of the homestead.
 
@@ -2088,9 +2088,9 @@ translator: thothica
 
 **10.92.3**  We celebrate his leadership and also the merchants' thought; his branches, well-offered, are for eating. When the terrible ones have attained immortality, they revolve perpetually then among the divine folk.
 
-**10.92.4**  For Heaven, the wide expanse, is the outlet of Ṛta; the great Aramatī is the more wondrous worship; Indra, Mitra, Varuṇa have recognised each other, and also Bhaga and Savitṛ who bestows pure power.
+**10.92.4**  For Heaven, the wide expanse, is the outlet of Ṛta; the great Aramati is the more wondrous worship; Indra, Mitra, Varuṇa have recognised each other, and also Bhaga and Savitṛ who bestows pure power.
 
-**10.92.5**  With Rudra the rapid one, the rivers flow onward; they have run across the great Aramatī. By those with whom the encircler roams the wide expanse, roaring everywhere, he sprinkles everything in his belly.
+**10.92.5**  With Rudra the rapid one, the rivers flow onward; they have run across the great Aramati. By those with whom the encircler roams the wide expanse, roaring everywhere, he sprinkles everything in his belly.
 
 **10.92.6**  Active, the Rudras, the Maruts of all peoples, the eagles of the sky, the nestlings of the Asura — together with them Varuṇa surveys, and Mitra, Aryaman, and Indra with the swift gods, himself swift.
 
@@ -3476,7 +3476,7 @@ translator: thothica
 
 **10.184.1**  Let Viṣṇu prepare the womb; let Tvaṣṭṛ fashion the forms; let Prajāpati pour the seed; and let Dhātṛ, the ordainer, establish the embryo in you.
 
-**10.184.2**  Place the embryo, O Sinīvālī; place the embryo, O Sarasvatī; may the two divine Aśvins, garlanded with lotuses, place the embryo in you.
+**10.184.2**  Place the embryo, O Sinīvāli; place the embryo, O Sarasvatī; may the two divine Aśvins, garlanded with lotuses, place the embryo in you.
 
 **10.184.3**  The golden fire-drill which the two Aśvins churn together — that embryo we invoke for you, to be brought to birth in the tenth month.
 

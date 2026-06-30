@@ -3616,7 +3616,7 @@ translator: thothica
 
 **1.70.23**  O king, have the gift of cows performed for Rāma and Lakṣmaṇa, and the ancestral rites as well — may it be auspicious for you — and then conduct the wedding.
 
-**1.70.24**  For today is the Maghā asterism, O mighty-armed one, and on the third day hence, O lord, is Uttara Phālgunī, O king — on that day perform the wedding. For the sake of Rāma and Lakṣmaṇa let the auspicious gift-giving be performed.
+**1.70.24**  For today is the Maghā asterism, O mighty-armed one, and on the third day hence, O lord, is Uttara Phalgunī, O king — on that day perform the wedding. For the sake of Rāma and Lakṣmaṇa let the auspicious gift-giving be performed.
 
 **1.71.1**  To Vaideha who had thus spoken, the great sage Viśvāmitra, together with Vasiṣṭha, addressed these brave words to the king.
 
@@ -3640,7 +3640,7 @@ translator: thothica
 
 **1.71.11**  On one and the same day, O great sage, let the four mighty princes grasp the hands of the four princesses.
 
-**1.71.12**  On the following day, O brahman, under the Phālgunī asterisms, the wise commend the wedding rite — there where Bhaga the Prajāpati presides.
+**1.71.12**  On the following day, O brahman, under the Phalgunī asterisms, the wise commend the wedding rite — there where Bhaga the Prajāpati presides.
 
 **1.71.13**  Having spoken these gentle words, King Janaka rose and, with joined palms, addressed both those foremost of sages.
 

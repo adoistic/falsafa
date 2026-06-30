@@ -1034,7 +1034,7 @@ translator: thothica
 
 **8.20.23**  O Maruts, bring to us the Marutic medicine, O good givers; ye are friends, ye are steeds.
 
-**8.20.24**  Whereby ye protect Sindhu, whereby ye conquer, whereby ye serve Kṛvi — be of benefit to us with those auspicious aids, O ye of beneficent nature, O enemies of the hateful.
+**8.20.24**  Whereby ye protect Sindhu, whereby ye conquer, whereby ye serve Krivi — be of benefit to us with those auspicious aids, O ye of beneficent nature, O enemies of the hateful.
 
 **8.20.25**  Whatever medicine is in Sindhu, in Asiknī, in the oceans, O Maruts of good sacred grass — whatever is in the mountains —
 
@@ -1098,7 +1098,7 @@ translator: thothica
 
 **8.22.11**  Even now at this very moment of the day, O Aśvins, O lords who hold unswerving cattle, we call upon you — we who celebrate [you] with songs and praises.
 
-**8.22.12**  Come with those [aids] to my all-containing, all-excellent call, O bulls, most bountiful and most praised of all, O men; with those by which you made Kṛvi to prosper — with those come hither.
+**8.22.12**  Come with those [aids] to my all-containing, all-excellent call, O bulls, most bountiful and most praised of all, O men; with those by which you made Krivi to prosper — with those come hither.
 
 **8.22.13**  Even now in these very days, I call upon those two praised Aśvins close [to me]; those two we implore also with our homage.
 
@@ -1434,7 +1434,7 @@ translator: thothica
 
 **8.31.11**  May Pūṣan come, and riches, and Bhaga — welfare most all-sustaining; may the wide road be for our wellbeing.
 
-**8.31.12**  Aramatī, ever undisturbed, fully in accord with the mind of the universal god — she is truly the faultless one among the Ādityas.
+**8.31.12**  Aramati, ever undisturbed, fully in accord with the mind of the universal god — she is truly the faultless one among the Ādityas.
 
 **8.31.13**  Even as Mitra, Aryaman, and Varuṇa are our guardians, may the path of Ṛta be easy to travel.
 
@@ -1692,7 +1692,7 @@ translator: thothica
 
 **8.39.7**  Agni dwells together with the gods; he is among the clans in the sacrificial assemblies; he joyfully nourishes the many poetic visions, everything, like the earth — the divine and sacrificeable one among the gods. Let the others on the same side be confounded.
 
-**8.39.8**  That Agni who is Saptamānuṣa, who resides in all the rivers — to him we have come, the triple-stationed one, belonging to Māndhātṛ, the greatest slayer of Dasyus, the ancient Agni at the sacrifices. Let the others on the same side be confounded.
+**8.39.8**  That Agni who is Saptamānuṣa, who resides in all the rivers — to him we have come, the triple-stationed one, belonging to Mandhātṛ, the greatest slayer of Dasyus, the ancient Agni at the sacrifices. Let the others on the same side be confounded.
 
 **8.39.9**  Agni, the seer, dwells upon the three triple-layered realms; the inspired messenger, perfectly formed, shall here worship and delight us with the three sets of eleven. Let the others on the same side be confounded.
 
@@ -1720,7 +1720,7 @@ translator: thothica
 
 **8.40.11**  Whet him who conducts the sacrifice well, the true champion, the seasonable one; and may he who shatters with unstoppable force the eggs of Śuṣṇa conquer the water-bearing streams. Let the others on the same side be confounded.
 
-**8.40.12**  Thus to Indrāgnī in the manner of the Fathers, newly, as Māndhātṛ and the Aṅgirasas declared: protect us with threefold shelter — may we be lords of riches.
+**8.40.12**  Thus to Indrāgnī in the manner of the Fathers, newly, as Mandhātṛ and the Aṅgirasas declared: protect us with threefold shelter — may we be lords of riches.
 
 **8.41.1**  Sing praise to him for our abundance — to Varuṇa, to the Maruts, to those who know most; who, as the herdsman keeps cattle, guards the thoughts of men. May the others perish all alike.
 

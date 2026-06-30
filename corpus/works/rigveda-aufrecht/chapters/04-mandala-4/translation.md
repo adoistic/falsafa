@@ -684,7 +684,7 @@ translator: thothica
 
 **4.30.17**  And those two — Turvaśa and Yadu — who had not bathed, the lord of powers, Indra, knowing the way, carried them across.
 
-**4.30.18**  And those Āryans — on the far bank of the Sarayū — Arṇa and Citraratha you slew at once, O Indra.
+**4.30.18**  And those Āryans — on the far bank of the Sarayu — Arṇa and Citraratha you slew at once, O Indra.
 
 **4.30.19**  Two abandoned ones you led — the blind and the lame — O Vṛtra-slayer; that grace of yours is not to be attained by effort.
 

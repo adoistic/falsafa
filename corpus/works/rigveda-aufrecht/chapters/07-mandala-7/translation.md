@@ -30,7 +30,7 @@ translator: thothica
 
 **7.1.5**  Grant us, O Agni, through our prayer, wealth rich in heroes, a praiseworthy progeny, O mighty one — wealth which no malevolent sorcerer can overcome.
 
-**7.1.6**  To him, the highly capable one, the youthful woman, bearing oblations, ghee-laden, comes by night and at dawn; and Aramatī, seeking wealth, comes near to him.
+**7.1.6**  To him, the highly capable one, the youthful woman, bearing oblations, ghee-laden, comes by night and at dawn; and Aramati, seeking wealth, comes near to him.
 
 **7.1.7**  Burn away, O Agni, all hostilities — with those heats wherewith you burned up the Jarūtha; chase away soundlessly the disease that afflicts us.
 
@@ -672,7 +672,7 @@ translator: thothica
 
 **7.34.20**  When our consorts come forward to us, may Tvaṣṭar of the fair hands bestow heroic men.
 
-**7.34.21**  May Tvaṣṭar be pleased with our praise; may Aramatī, seeking wealth, abide with us.
+**7.34.21**  May Tvaṣṭar be pleased with our praise; may Aramati, seeking wealth, abide with us.
 
 **7.34.22**  May they, the bountiful ones, bestow wealth upon us; may Rodasī and Varuṇānī hear; may there be good refuge for us with their many protections; may Tvaṣṭar of good gifts distribute riches.
 
@@ -726,7 +726,7 @@ translator: thothica
 
 **7.36.7**  May these swift Maruts, rejoicing, protect our prayer and our offspring; may the imperishable ones moving around not overlook us; may they foster our wealth fit to be yoked.
 
-**7.36.8**  Proclaim the great Aramatī; proclaim Pūṣan, the hero of the assembly; proclaim Bhaga, the protector of understanding at this winning, the prize-seeker Puraṁdhi.
+**7.36.8**  Proclaim the great Aramati; proclaim Pūṣan, the hero of the assembly; proclaim Bhaga, the protector of understanding at this winning, the prize-seeker Puraṁdhi.
 
 **7.36.9**  May this call go toward you, O Maruts; may it go toward Viṣṇu, the overseer of the pressed drink, with your aids; and may they assign strength for offspring to the singer; protect us ever with blessings.
 
@@ -808,7 +808,7 @@ translator: thothica
 
 **7.42.2**  Thy path, O Agni, is well-trodden and renowned; yoke thy tawny and thy red horses at the pressing; those ruddy ones who, seated in the dwelling, carry heroes — I invoke the birthplaces of the gods.
 
-**7.42.3**  Magnifying your sacrifice with homage, the joyful Hotṛ has raised his voice in the near presence; O thou of many faces, sacrifice well to the gods — may thou attract holy Aramatī to the rite.
+**7.42.3**  Magnifying your sacrifice with homage, the joyful Hotṛ has raised his voice in the near presence; O thou of many faces, sacrifice well to the gods — may thou attract holy Aramati to the rite.
 
 **7.42.4**  When, resting softly, the guest Agni comes to presence in the home of the prosperous hero — Agni well-pleased, well-kindled in the house, gives the desirable boon to the people who come before him.
 

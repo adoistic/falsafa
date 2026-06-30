@@ -676,7 +676,7 @@ translator: thothica
 
 **1.29.7**  Slay with your jaws all-encompassing clamor and the Kṛkadāśva — do bring us fame, O Indra, in cattle, in bright horses, in thousands, O greatly bountiful one.
 
-**1.30.1**  Seeking the prize, pour for him who has a hundred powers, great Indra, with the Soma drops — pour for the most bountiful one, as for a Kṛvi.
+**1.30.1**  Seeking the prize, pour for him who has a hundred powers, great Indra, with the Soma drops — pour for the most bountiful one, as for a Krivi.
 
 **1.30.2**  Whether a hundred of the pure ones or a thousand of the mixed ones — still it flows down like water to the hollow.
 
@@ -1430,7 +1430,7 @@ translator: thothica
 
 **1.61.13**  Proclaim anew his ancient deeds of the swift one with fresh hymns: when he, hurtling his weapons to the fight, raging, drives away the foes.
 
-**1.61.14**  Even the firm mountains and heaven and earth tremble in fear at his birth; Nodhā, approaching the shelter of the beloved one, crying loudly, instantly became vigorous for heroic deeds.
+**1.61.14**  Even the firm mountains and heaven and earth tremble in fear at his birth; Nodha, approaching the shelter of the beloved one, crying loudly, instantly became vigorous for heroic deeds.
 
 **1.61.15**  To him it is given in consequence — the one who, sole, as sovereign, has gained much: Indra aided Praetaśa, contending with the sun, pressing soma well for the sake of good horses.
 
@@ -1460,7 +1460,7 @@ translator: thothica
 
 **1.62.12**  From of old the riches in your hands do not diminish, do not fail, O wondrous one; you are glorious, O Indra, rich in will, steadfast — help us, O mighty one, with your powers.
 
-**1.62.13**  Gotama has fashioned for Indra, yoke of the tawny steeds, a new prayer for one who is ancient; O mighty one, be our guide, O Nodhā — may he come swiftly at dawn, rich in wisdom.
+**1.62.13**  Gotama has fashioned for Indra, yoke of the tawny steeds, a new prayer for one who is ancient; O mighty one, be our guide, O Nodha — may he come swiftly at dawn, rich in wisdom.
 
 **1.63.1**  You are the great one, O Indra, who at birth by your powers shook heaven and earth; when even all mountains, the mighty ones, firm, trembling in fear, shed their rays before you.
 
@@ -1480,7 +1480,7 @@ translator: thothica
 
 **1.63.9**  These prayers have been made for you, O Indra, by the Gotamas, spoken with reverence for the two tawny steeds; bring us a richly ornamented prize — may he come swiftly at dawn, rich in wisdom.
 
-**1.64.1**  O Nodhā, carry forth a noble hymn to the mighty host, the fine-jawed, the wise, to the Maruts; like water, serene in mind, nimble of hand, I anoint the songs present at the assemblies.
+**1.64.1**  O Nodha, carry forth a noble hymn to the mighty host, the fine-jawed, the wise, to the Maruts; like water, serene in mind, nimble of hand, I anoint the songs present at the assemblies.
 
 **1.64.2**  They were born from heaven, the tall bulls, the youths of Rudra, the lordly ones, the stainless; purifying, bright as suns, valiant like drops, of terrible form.
 
@@ -2464,7 +2464,7 @@ translator: thothica
 
 **1.112.12**  With those aids by which you filled the Rasā, whose waters are sweet as milk; with those by which you helped the horseless chariot to victory; with those by which Triśoka drove forth the dawn-cows — O Aśvins, come with those aids.
 
-**1.112.13**  With those aids by which you go around the sun in the far distance; with those by which you aided Māndhātṛ in the lordship of his field; with those by which you aided the inspired Bharadvāja — O Aśvins, come with those aids.
+**1.112.13**  With those aids by which you go around the sun in the far distance; with those by which you aided Mandhātṛ in the lordship of his field; with those by which you aided the inspired Bharadvāja — O Aśvins, come with those aids.
 
 **1.112.14**  With those aids by which you helped the great Atithigva Kaśojuva, Divodāsa, in the slaying of Śambara; with those by which you aided Trasadasyu in the breaking of forts — O Aśvins, come with those aids.
 

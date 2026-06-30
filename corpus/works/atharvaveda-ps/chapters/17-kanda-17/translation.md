@@ -113,7 +113,7 @@ translator: thothica
 
 **17.5.7**  Your forest-dwelling animals, the beasts set loose in the woods, lions and tigers that roam man-eating — O Earth, drive away from here the hyena, the wolf, the evil omen, the she-bear, and the demon.
 
-**17.5.8**  Gandharvas and Apsarases, those who wander about, the kimīdins — Piśācas, all the Rākṣasas — O Earth, drive all of them away from us.
+**17.5.8**  Gandharvas and Apsarases, those who wander about, the kimīdins — Piśācas, all the Rakṣasas — O Earth, drive all of them away from us.
 
 **17.5.9**  She to whom winged two-footed creatures fly — swans, eagles, birds, and fowl; upon whom the wind, Mātariśvan, moves, raising dust-clouds and shaking the trees; the flame that blows along the forward and the inward current of the wind — she upon whom the black and the red are gathered together, upon whom day and night are ordained, spread out over the Earth.
 
@@ -237,7 +237,7 @@ translator: thothica
 
 **17.12.5**  The Sadānvāḥ she-demons who come flying and scattering, smelling of goat — I will pierce them with the Bhaṇvā sword, as a bull with sharp horns.
 
-**17.12.6**  O Sadānvāḥ, O progeny of Sādānvī — both women and men together. With strength, powerfully, with might, I crush and smite the Rākṣasas.
+**17.12.6**  O Sadānvāḥ, O progeny of Sādānvī — both women and men together. With strength, powerfully, with might, I crush and smite the Rakṣasas.
 
 **17.12.7**  The four-fanged ones, the jar-testicled ones, the long-haired ones, the blood-faced ones, those smelling of bottle-gourd, the rats — ill-named ones, we destroy you.
 
@@ -475,7 +475,7 @@ translator: thothica
 
 **17.24.8**  [O Dream, we know your origin:] you are the son of languor, born from drowsiness [— thus do we know you, O Dream; and whatever is evil we send to the enemy].
 
-**17.24.9**  [O Dream, we know your origin:] you are the son of the Rākṣasas, born from the fierce demons [— thus do we know you, O Dream; and whatever is evil we send to the enemy].
+**17.24.9**  [O Dream, we know your origin:] you are the son of the Rakṣasas, born from the fierce demons [— thus do we know you, O Dream; and whatever is evil we send to the enemy].
 
 **17.24.10**  O Dream, we know your origin: you are the son of the Gandharvas, born from the Apsarases, the instrument of Yama. Thus do we know you, O Dream — [so runs this verse] three times.
 

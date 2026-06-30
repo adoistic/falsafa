@@ -163,7 +163,7 @@ translator: thothica
 
 **6.4.3**  "In this very moment, O Sugrīva, I choose to set out on the march. The hour is auspicious for victory; the sun has reached the meridian."
 
-**6.4.4**  "Today is Uttara-Phālgunī; tomorrow the moon will be joined with Hastā. Let us set forth, O Sugrīva, encompassed by all our army divisions."
+**6.4.4**  "Today is Uttara-Phalgunī; tomorrow the moon will be joined with Hastā. Let us set forth, O Sugrīva, encompassed by all our army divisions."
 
 **6.4.5**  "And the auspicious omens that are manifesting before me — slaying Rāvaṇa, I shall bring back Sītā, the daughter of Janaka."
 

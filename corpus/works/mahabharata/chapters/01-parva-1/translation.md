@@ -6294,13 +6294,13 @@ translator: thothica
 
 **1.89.17**  Bharata fathered nine sons on three wives, but the king did not rejoice in them, saying, "They do not resemble me."
 
-**1.89.18**  Then Bharata, who had performed great sacrifices, obtained through Bharadvāja a son named Bhūmanyu, O Bhārata.
+**1.89.18**  Then Bharata, who had performed great sacrifices, obtained through Bharadvāja a son named Bhumanyu, O Bhārata.
 
-**1.89.19**  Then, knowing himself to be blessed with a son, the delight of the Pauravas consecrated Bhūmanyu as crown prince, O best of the Bhāratas.
+**1.89.19**  Then, knowing himself to be blessed with a son, the delight of the Pauravas consecrated Bhumanyu as crown prince, O best of the Bhāratas.
 
-**1.89.20**  Then for that great lord of the earth a son named Vitatha was born; thus Vitatha was the son of Bhūmanyu.
+**1.89.20**  Then for that great lord of the earth a son named Vitatha was born; thus Vitatha was the son of Bhumanyu.
 
-**1.89.21**  Suhotra, Suhotā, Suhavi, and Suyaju — sons of Ṛcīka's daughter Puṣkariṇī — were born to Bhūmanyu.
+**1.89.21**  Suhotra, Suhotā, Suhavi, and Suyaju — sons of Ṛcīka's daughter Puṣkariṇī — were born to Bhumanyu.
 
 **1.89.22**  Of them the eldest, Suhotra, obtained sovereignty over kings of the earth; he performed many sacrifices including the Rājasūya and Aśvamedha.
 
@@ -8258,7 +8258,7 @@ translator: thothica
 
 **1.114.46**  Kali as the fifteenth here, and Nārada as the sixteenth; Sat, Brihad, Brihaka, and the greatly renowned Karāla —
 
-**1.114.47**  Brahmacārī, Bahuguna, the famous Suparṇa, Viśvāvasu, Bhūmanyu, and Sucandra as the tenth —
+**1.114.47**  Brahmacārī, Bahuguna, the famous Suparṇa, Viśvāvasu, Bhumanyu, and Sucandra as the tenth —
 
 **1.114.48**  The famous Hāhā and Hūhū, endowed with sweetness of song — these divine Gandharvas all sang there for that bull among men.
 

@@ -105,7 +105,7 @@ translator: thothica
 
 **14.5.9**  With the Ṛc-verse I place the pot upon the fire; I set you upon the earth, above the earth; bearing the flesh in the waters, do not tremble; may the Piśācas not slay you with their weapons.
 
-**14.5.10**  Rise upward, do not collapse; spread out the inner atmosphere; having crossed beyond all the Rākṣasas — then ascend to heaven.
+**14.5.10**  Rise upward, do not collapse; spread out the inner atmosphere; having crossed beyond all the Rakṣasas — then ascend to heaven.
 
 **14.6.1**  Go to heaven, O hundred-rice-offering; become the path for a thousand; become ten thousand, become a hundred thousand — be inexhaustible: thus you shall mount the heavenly world.
 

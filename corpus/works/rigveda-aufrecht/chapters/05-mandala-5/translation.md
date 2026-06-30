@@ -726,7 +726,7 @@ translator: thothica
 
 **5.43.5**  The Soma has been pressed for you who are pleased by it, for wisdom, for great discernment, for exhilaration; the two well-yoked tawny horses in your chariot — make them come hither, O Indra, when called.
 
-**5.43.6**  Bring hither to us great Aramatī in harmony, the divine lady who accepts oblations with obeisances; for the exhilaration of the sweet, the great one who knows the truth — bring her, O Agni, on the god-going paths.
+**5.43.6**  Bring hither to us great Aramati in harmony, the divine lady who accepts oblations with obeisances; for the exhilaration of the sweet, the great one who knows the truth — bring her, O Agni, on the god-going paths.
 
 **5.43.7**  Him whom the inspired ones anoint, spreading him out as it were, the one with the fatty omentum, not burning with fire — like a dear son in his father's presence, Gharma has been established, ordering Agni with truth.
 
@@ -756,7 +756,7 @@ translator: thothica
 
 **5.44.3**  The oblation follows the steed and nourishment follows; he of unimpeded course, the Hotṛ who bears might — the bull-calf gliding along the sacred grass, young in the middle, ageless, placed amid the outstretched ones.
 
-**5.44.4**  These well-yoked ones advance toward this worship on their course, the downward-inclined ones, to be guided, who increase the truth; with good drivers, with all-directing reins, Kṛvi steals the names on the downward slope.
+**5.44.4**  These well-yoked ones advance toward this worship on their course, the downward-inclined ones, to be guided, who increase the truth; with good drivers, with all-directing reins, Krivi steals the names on the downward slope.
 
 **5.44.5**  Resounding together with the young ones, grasping the pressed drink, the winged one who has thought within beautiful-sounding women — he sounds well.
 
@@ -942,7 +942,7 @@ translator: thothica
 
 **5.53.8**  Come hither, O Maruts, from heaven, from the atmosphere, from the near and from the far. Do not stand aloof from us in the distance.
 
-**5.53.9**  May neither Rasā, nor Kubhā, nor Krumu detain you; may not Sindhu hold you; may not the Sarayū with its flood-tide stand in your way. May your favour rest with us.
+**5.53.9**  May neither Rasā, nor Kubhā, nor Krumu detain you; may not Sindhu hold you; may not the Sarayu with its flood-tide stand in your way. May your favour rest with us.
 
 **5.53.10**  That fierce host of yours, O Maruts, that troop of chariots of the newer ones — the rains follow in their wake.
 
