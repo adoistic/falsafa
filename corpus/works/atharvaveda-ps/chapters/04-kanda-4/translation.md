@@ -195,7 +195,7 @@ translator: thothica
 
 **4.11.2**  Great is the truth, great is the oblation, great is Uśanā Kāvya. The hearts of the mighty gods, of the righteous ones — these I have joined together.
 
-**4.11.3**  I walk yoked with truth as my companion; I have full knowledge of the divine Anumatī. May Indra be the heart of the gods for you; may your minds be in full accord, may they be mighty.
+**4.11.3**  I walk yoked with truth as my companion; I have full knowledge of the divine Anumati. May Indra be the heart of the gods for you; may your minds be in full accord, may they be mighty.
 
 **4.11.4**  Tvaṣṭā, Vāyu, Kaśyapa, Indra, and Agni — they followed with their minds the footprint of the oblation; they found the mighty one who had entered into the atmosphere. May your minds be in full accord, may they be mighty.
 
@@ -581,9 +581,9 @@ translator: thothica
 
 **4.37.7**  Speak over me in the battles, O fierce ones; loose the thunderbolt upon whoever is the reviler. I praise you, O Bhava and Śarva, as one seeking refuge I call upon you loudly — release us from sin.
 
-**4.38.1**  I invoke you two, O Mitra and Varuṇa, increaser of ṛta, of true strength, who thrust aside the one who injures; who protect Satyāvan in his invocations — release us from sin.
+**4.38.1**  I invoke you two, O Mitra and Varuṇa, increaser of ṛta, of true strength, who thrust aside the one who injures; who protect Satyavān in his invocations — release us from sin.
 
-**4.38.2**  You two of true strength who thrust aside the one who injures, who protect Satyāvan further in his invocations, who come with the human-watching, tawny-brown one to the pressed soma — release us from sin.
+**4.38.2**  You two of true strength who thrust aside the one who injures, who protect Satyavān further in his invocations, who come with the human-watching, tawny-brown one to the pressed soma — release us from sin.
 
 **4.38.3**  You who protect the Aṅgirasas, you who protect Agasti, O Mitra and Varuṇa — Jamadagni and Atri; who protect Kaśyapa, who protect Vasiṣṭha — release us from sin.
 

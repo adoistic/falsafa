@@ -345,7 +345,7 @@ translator: thothica
 
 **16.18.4**  The sāmans are fashioned around the Bṛhat; from the sixth, five are built above it; the Bṛhat is fashioned from the Bṛhatī meter — from what, moreover, is the Bṛhatī measured out?
 
-**16.18.5**  The Bṛhatī is fashioned around the measure, built upon the mother's measure; for Māyā was born from Māyā, and Mātalī arose from Māyā.
+**16.18.5**  The Bṛhatī is fashioned around the measure, built upon the mother's measure; for Māyā was born from Māyā, and Mātali arose from Māyā.
 
 **16.18.6**  Above the image of Vaiśvānara is the sky; as far as Agni has pressed apart the two world-halves — from thence, from the sixth, the stotra-hymns proceed; they rise up hence toward the sixth day.
 
@@ -2185,7 +2185,7 @@ translator: thothica
 
 **16.123.4**  When one fashions the handle of the vessel on the north side, it is cut off for King Soma and for the Seven Sages.
 
-**16.124.1**  When it is bright, it attains the dear abode of the Ādityās. He who would eat of the bright one should eat it saying: 'I eat thee with the dear abode of the Ādityās.' Thereupon he eats it with another abode; and it is cut off for the Ādityās.
+**16.124.1**  When it is bright, it attains the dear abode of the Ādityas. He who would eat of the bright one should eat it saying: 'I eat thee with the dear abode of the Ādityas.' Thereupon he eats it with another abode; and it is cut off for the Ādityas.
 
 **16.124.2**  When it is husked, it is the dear (abode) of the Viśve Devās. He who would eat of the husked one should (eat it saying): 'I eat thee with the dear abode of all the gods'; (he eats it thus). It is cut off for the Viśve Devās.
 

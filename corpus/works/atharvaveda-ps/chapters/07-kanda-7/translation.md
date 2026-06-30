@@ -373,7 +373,7 @@ translator: thothica
 
 **7.17.6**  May those who are malicious towards you and would assail you from that direction reach the Waters rich in healing herbs.
 
-**7.17.7**  May those who are malicious towards you and would assail you from the northern direction reach Viśvakarmān together with the Seven Seers.
+**7.17.7**  May those who are malicious towards you and would assail you from the northern direction reach Viśvakarman together with the Seven Seers.
 
 **7.17.8**  May those who are malicious towards you and would assail you from that direction reach Indra together with the Maruts.
 

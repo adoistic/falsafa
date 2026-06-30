@@ -1084,7 +1084,7 @@ translator: thothica
 
 **8.22.4**  The rim of your chariot-wheel revolves [around]; the thong that urges you on stirs itself; may your benevolence, O lords of beauty, come to us as a cow [runs] to her calf.
 
-**8.22.5**  The chariot which is yours, O Aśvins, of three joints and golden reins, the renowned one that adorns both heaven and earth — with that, O Nāsatyās, come hither.
+**8.22.5**  The chariot which is yours, O Aśvins, of three joints and golden reins, the renowned one that adorns both heaven and earth — with that, O Nāsatyas, come hither.
 
 **8.22.6**  Ministering [with gifts] to Manu, you two plough in heaven the ancient barley with a wolf [as your ploughshare]; the two of you, O lords of beauty, O Aśvins, we now praise with our prayers.
 
@@ -1250,7 +1250,7 @@ translator: thothica
 
 **8.25.9**  With glaring eye [they watch], more knowledgeable than even the eye itself [in finding] a path; unblinking and sharp-sighted, they have discerned everything.
 
-**8.25.10**  And may the divine Aditi protect us and [may] the Nāsatyās [protect us]; may the Maruts of grown might protect us.
+**8.25.10**  And may the divine Aditi protect us and [may] the Nāsatyas [protect us]; may the Maruts of grown might protect us.
 
 **8.25.11**  May those good givers protect our ship by day and by night; may we, unharmed, remain under [their] guard.
 
@@ -1282,7 +1282,7 @@ translator: thothica
 
 **8.26.1**  I call your chariot for the common praise among the patrons; [you] of unweakened power, O bulls, O lords with strong bulls.
 
-**8.26.2**  You two are the best for [him of] excellent soma-song, for great offspring, O Nāsatyās; come with your aids, O bulls, O lords with strong bulls.
+**8.26.2**  You two are the best for [him of] excellent soma-song, for great offspring, O Nāsatyas; come with your aids, O bulls, O lords with strong bulls.
 
 **8.26.3**  We call upon you two today with our oblations, O lords of prizes; [you who] quicken the many impulses through the nights.
 
@@ -1294,7 +1294,7 @@ translator: thothica
 
 **8.26.7**  Come to us, O Aśvins, together with wealth that nourishes all, O bountiful ones with excellent heroic force, ever-steadfast.
 
-**8.26.8**  Come toward me directly for this, O Indra and Nāsatyās; today, O gods, [come] to the gods as the most helpful companions.
+**8.26.8**  Come toward me directly for this, O Indra and Nāsatyas; today, O gods, [come] to the gods as the most helpful companions.
 
 **8.26.9**  For we call upon you two, seeking cattle-wealth like the [descendants] of Vyaśva; come hither, O inspired ones, with your benevolences.
 
@@ -1434,7 +1434,7 @@ translator: thothica
 
 **8.31.11**  May Pūṣan come, and riches, and Bhaga — welfare most all-sustaining; may the wide road be for our wellbeing.
 
-**8.31.12**  Aramatī, ever undisturbed, fully in accord with the mind of the universal god — she is truly the faultless one among the Ādityās.
+**8.31.12**  Aramatī, ever undisturbed, fully in accord with the mind of the universal god — she is truly the faultless one among the Ādityas.
 
 **8.31.13**  Even as Mitra, Aryaman, and Varuṇa are our guardians, may the path of Ṛta be easy to travel.
 
@@ -1582,7 +1582,7 @@ translator: thothica
 
 **8.34.18**  Among the gifts of Pārāvata, among the swift ones with rolling wheels, I stand in the middle of the forest.
 
-**8.35.1**  Together with Agni, Indra, Varuṇa, Viṣṇu, the Ādityās, Rudras, and Vasus, being present with them — together with Dawn, and with the Sun — drink the soma, O Aśvins.
+**8.35.1**  Together with Agni, Indra, Varuṇa, Viṣṇu, the Ādityas, Rudras, and Vasus, being present with them — together with Dawn, and with the Sun — drink the soma, O Aśvins.
 
 **8.35.2**  Together with all intuitions, with the world, O prize-winners, with heaven, earth, and mountains being present — together with Dawn and with the Sun — drink the soma, O Aśvins.
 
@@ -1606,11 +1606,11 @@ translator: thothica
 
 **8.35.12**  Smite the enemies and restrain the friendly ones; bestow progeny and bestow wealth — together with Dawn and with the Sun — bestow vigour upon us, O Aśvins.
 
-**8.35.13**  Together with Mitra-Varuṇa, together with Dharma, together with the Maruts, come you both to the call of the praiser — together with Dawn and with the Sun, come with the Ādityās, O Aśvins.
+**8.35.13**  Together with Mitra-Varuṇa, together with Dharma, together with the Maruts, come you both to the call of the praiser — together with Dawn and with the Sun, come with the Ādityas, O Aśvins.
 
-**8.35.14**  Together with the Aṅgirasas, together with Viṣṇu, together with the Maruts, come you both to the call of the praiser — together with Dawn and with the Sun, come with the Ādityās, O Aśvins.
+**8.35.14**  Together with the Aṅgirasas, together with Viṣṇu, together with the Maruts, come you both to the call of the praiser — together with Dawn and with the Sun, come with the Ādityas, O Aśvins.
 
-**8.35.15**  Together with the Ṛbhus, O ye bulls, together with the prize-winners, with the Maruts, come you both to the call of the praiser — together with Dawn and with the Sun, come with the Ādityās, O Aśvins.
+**8.35.15**  Together with the Ṛbhus, O ye bulls, together with the prize-winners, with the Maruts, come you both to the call of the praiser — together with Dawn and with the Sun, come with the Ādityas, O Aśvins.
 
 **8.35.16**  Quicken the prayer and quicken the inspired thoughts; smite the demons and drive away the diseases — together with Dawn and with the Sun, O Aśvins, come to the soma-presser.
 
@@ -1692,7 +1692,7 @@ translator: thothica
 
 **8.39.7**  Agni dwells together with the gods; he is among the clans in the sacrificial assemblies; he joyfully nourishes the many poetic visions, everything, like the earth — the divine and sacrificeable one among the gods. Let the others on the same side be confounded.
 
-**8.39.8**  That Agni who is Saptamānuṣa, who resides in all the rivers — to him we have come, the triple-stationed one, belonging to Mandhātṛ, the greatest slayer of Dasyus, the ancient Agni at the sacrifices. Let the others on the same side be confounded.
+**8.39.8**  That Agni who is Saptamānuṣa, who resides in all the rivers — to him we have come, the triple-stationed one, belonging to Māndhātṛ, the greatest slayer of Dasyus, the ancient Agni at the sacrifices. Let the others on the same side be confounded.
 
 **8.39.9**  Agni, the seer, dwells upon the three triple-layered realms; the inspired messenger, perfectly formed, shall here worship and delight us with the three sets of eleven. Let the others on the same side be confounded.
 
@@ -1720,7 +1720,7 @@ translator: thothica
 
 **8.40.11**  Whet him who conducts the sacrifice well, the true champion, the seasonable one; and may he who shatters with unstoppable force the eggs of Śuṣṇa conquer the water-bearing streams. Let the others on the same side be confounded.
 
-**8.40.12**  Thus to Indrāgnī in the manner of the Fathers, newly, as Mandhātṛ and the Aṅgirasas declared: protect us with threefold shelter — may we be lords of riches.
+**8.40.12**  Thus to Indrāgnī in the manner of the Fathers, newly, as Māndhātṛ and the Aṅgirasas declared: protect us with threefold shelter — may we be lords of riches.
 
 **8.41.1**  Sing praise to him for our abundance — to Varuṇa, to the Maruts, to those who know most; who, as the herdsman keeps cattle, guards the thoughts of men. May the others perish all alike.
 
@@ -1748,11 +1748,11 @@ translator: thothica
 
 **8.42.3**  O god Varuṇa, sharpen together the resolve and discernment of this suppliant's devotion; by that may we cross over all difficulties and mount a well-constructed ship.
 
-**8.42.4**  O Aśvins, the pressing-stones have stirred toward you, the inspired seers with their hymns; O Nāsatyās, come for the drinking of soma. May the others perish all alike.
+**8.42.4**  O Aśvins, the pressing-stones have stirred toward you, the inspired seers with their hymns; O Nāsatyas, come for the drinking of soma. May the others perish all alike.
 
-**8.42.5**  As Atri the inspired sage called to you both, O Aśvins, with his songs; O Nāsatyās, come for the drinking of soma. May the others perish all alike.
+**8.42.5**  As Atri the inspired sage called to you both, O Aśvins, with his songs; O Nāsatyas, come for the drinking of soma. May the others perish all alike.
 
-**8.42.6**  Thus I call to you both for aid, even as the wise have called; O Nāsatyās, come for the drinking of soma. May the others perish all alike.
+**8.42.6**  Thus I call to you both for aid, even as the wise have called; O Nāsatyas, come for the drinking of soma. May the others perish all alike.
 
 **8.43.1**  These songs of praise go forth for the inspired and creative Agni, who is worshipped with unceasing sacrifices.
 
@@ -2228,13 +2228,13 @@ translator: thothica
 
 **8.56.5**  Agni, the conveyor of oblations, the discerning one, became known; he of the good chariot — Agni blazed mightily with his bright flame; the sun shone in the sky, the sun shone bright.
 
-**8.57.1**  You two gods, yoked by the ancient will to your mighty chariot, O adorable Nāsatyās, come hither with your powers; drink this, the third pressing.
+**8.57.1**  You two gods, yoked by the ancient will to your mighty chariot, O adorable Nāsatyas, come hither with your powers; drink this, the third pressing.
 
 **8.57.2**  The gods, the true ones, the three and thirty, have been seen before the truth of you two; enjoying our sacrifice and pressing, O Aśvins of blazing fire, drink the soma.
 
 **8.57.3**  Praiseworthy is that work of yours, O Aśvins; the bull of sky and earth's expanse — a thousand praises and those in the contest for cattle — come to all of these to drink.
 
-**8.57.4**  This is your appointed share, O adorable ones; come hither to these songs, O Nāsatyās; drink the sweet honey-soma among us; protect the offerer with your powers.
+**8.57.4**  This is your appointed share, O adorable ones; come hither to these songs, O Nāsatyas; drink the sweet honey-soma among us; protect the offerer with your powers.
 
 **8.58.1**  Him whom the priests, making manifold preparations, bearing this sacrifice in concert, for whom the instructed Brahmin was engaged — what indeed was the understanding of the sacrificer therein?
 
@@ -2944,7 +2944,7 @@ translator: thothica
 
 **8.84.9**  He dwells among good, peaceful folk; none slays him, but he slays; the man of good heroes prospers, O Agni.
 
-**8.85.1**  Come both of you, O Nāsatyās, O Aśvins, to my call, for the drinking of the sweet soma.
+**8.85.1**  Come both of you, O Nāsatyas, O Aśvins, to my call, for the drinking of the sweet soma.
 
 **8.85.2**  Hear this my laud, O Aśvins; hear this my call, for the drinking of the sweet soma.
 
@@ -2960,7 +2960,7 @@ translator: thothica
 
 **8.85.8**  Come with the triple-poled, triple-fastened chariot, O Aśvins, for the drinking of the sweet soma.
 
-**8.85.9**  Now, O Nāsatyās, O Aśvins, do the two of you promote my songs, for the drinking of the sweet soma.
+**8.85.9**  Now, O Nāsatyas, O Aśvins, do the two of you promote my songs, for the drinking of the sweet soma.
 
 **8.86.1**  Both of you, O wonder-workers, are healers, bringers of joy; both of you have responded to the words of our skill. Viśvaka calls you both for the protection of his body; do not forsake our friendship — release us.
 
@@ -3360,7 +3360,7 @@ translator: thothica
 
 **8.101.6**  They impelled the ruddy, noble, excellent one — the single son of the three mothers; they, the immortal ones, behold undeceived the ordinances of mortals.
 
-**8.101.7**  My words are raised up, most glorious in their working; come, both of you, Nāsatyās, together delighting, to accept the oblations.
+**8.101.7**  My words are raised up, most glorious in their working; come, both of you, Nāsatyas, together delighting, to accept the oblations.
 
 **8.101.8**  When we call upon the demon-free gift of you two, O Vājinīvasus, come, O lords, prolonging the eastern invocation, praised by Jamadagni.
 

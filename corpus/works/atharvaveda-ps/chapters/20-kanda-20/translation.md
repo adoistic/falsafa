@@ -129,7 +129,7 @@ translator: thothica
 
 **20.6.5**  Come to agreement together; come to union together; let your minds know one another. May Mitra unite all of you together; may there be concord among you with me.
 
-**20.7.1**  Whatever Agni has granted us, whatever Indra, whatever all the gods, the Maruts bright with light — may Savitā of true ordinance, Sarasvatī, and Anumatī bestow that upon us.
+**20.7.1**  Whatever Agni has granted us, whatever Indra, whatever all the gods, the Maruts bright with light — may Savitā of true ordinance, Sarasvatī, and Anumati bestow that upon us.
 
 **20.7.2**  O gods, for the sake of both kinds of welfare, grant shelter to our two-footed and four-footed creatures. One who eats, who drinks, who is nourished with strength and is well-fed — establish for us that state of well-being and ease, free from affliction.
 
@@ -393,7 +393,7 @@ translator: thothica
 
 **20.20.5**  From your thighs, from your kneecaps, from your heels, from the balls of your feet; the ill-omens from your hips, from your limbs — those sinful ones they have destroyed.
 
-**20.20.6**  May the earth smite away the obscenity that is in the feet, away from the hands — Varuṇa, Mitra, and Aryaman; the Ādityas, Anumatī, taking delight — may Savitṛ impel us forward unto good fortune.
+**20.20.6**  May the earth smite away the obscenity that is in the feet, away from the hands — Varuṇa, Mitra, and Aryaman; the Ādityas, Anumati, taking delight — may Savitṛ impel us forward unto good fortune.
 
 **20.20.7**  They have driven apart these two, the cows in the barren patch, like Aditīs. May the auspicious good fortunes take delight; those that are sinful — they have been annihilated.
 
@@ -791,9 +791,9 @@ translator: thothica
 
 **20.41.7**  Whatever vital sap the divine Apsarases stole away through their fornication — that we bring back here for sight and for strength. Through the invocation of the gods, may those deities return to me.
 
-**20.41.8**  O goddess, you who satisfied yourself with the vital sap of my arm-strength — with the hymn of Nārāśaṃsa I take it back from you; I take it back from you Apsarases.
+**20.41.8**  O goddess, you who satisfied yourself with the vital sap of my arm-strength — with the hymn of Narāśaṃsa I take it back from you; I take it back from you Apsarases.
 
-**20.41.9**  The vital sap of our bodies which we take back from the Apsarases — with the hymn of Nārāśaṃsa we swell our progeny.
+**20.41.9**  The vital sap of our bodies which we take back from the Apsarases — with the hymn of Narāśaṃsa we swell our progeny.
 
 **20.41.10**  Whatever sap of mine has been drained away — both while I was waking and while I was sleeping — let the gods today pour that back upon my body.
 

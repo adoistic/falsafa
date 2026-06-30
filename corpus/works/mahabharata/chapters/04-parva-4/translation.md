@@ -262,7 +262,7 @@ translator: thothica
 
 **4.5.4**  The Pāṇḍavas passed between Yakrilloma and Śūrasena, speaking as hunters, and entered the territory of Matsya from the forest.
 
-**4.5.5**  Then, having reached the inhabited country, Kṛṣṇa (Draupadī) said to the king: 'Look — plowed fields are visible on every side, and various kinds of fields can be seen.'
+**4.5.5**  Then, having reached the inhabited country, Kṛṣṇā (Draupadī) said to the king: 'Look — plowed fields are visible on every side, and various kinds of fields can be seen.'
 
 **4.5.6**  'Clearly the capital of Virāṭa must be far away. Let us spend the night here — my fatigue is great.'
 
@@ -334,13 +334,13 @@ translator: thothica
 
 **4.6.9**  'I address you gladly, my friend — from whose king's territory have you come here? Tell me truly your clan and name, and what skill or craft you possess.'
 
-**4.6.10**  Yudhiṣṭhira said: 'I was formerly a friend of Yudhiṣṭhira; I am a brahmin of the Vyaghrapada lineage. I am skilled at throwing dice and gambling. I am known, O Virāṭa, by the name Kanka.'
+**4.6.10**  Yudhiṣṭhira said: 'I was formerly a friend of Yudhiṣṭhira; I am a brahmin of the Vyaghrapada lineage. I am skilled at throwing dice and gambling. I am known, O Virāṭa, by the name Kaṅka.'
 
 **4.6.11**  Virāṭa said: 'Come then, I grant you whatever boon you desire; command the Matsyas — I am at your disposal. My gamblers who are dear to me have always pleased me; and you, O equal of the gods, are worthy of a kingdom.'
 
 **4.6.12**  Yudhiṣṭhira said: The highest outcome of a contest has been obtained, O lord of the people; nothing whatsoever is lacking, O Matsya. No one whom I have defeated retains the winnings — let this be my boon, by your grace.
 
-**4.6.13**  Virāṭa said: I would strike down even one who should not be struck, should he act against your wish; likewise I would banish Brahmins from the realm. Let the assembled people of the land hear this: as I am master of the kingdom, so too is Kanka.
+**4.6.13**  Virāṭa said: I would strike down even one who should not be struck, should he act against your wish; likewise I would banish Brahmins from the realm. Let the assembled people of the land hear this: as I am master of the kingdom, so too is Kaṅka.
 
 **4.6.14**  You shall be my companion and friend of equal standing; you shall have abundant garments, drink, and food. You may move freely both within and without at all times, and I have made the door open for you.
 
@@ -396,7 +396,7 @@ translator: thothica
 
 **4.8.13**  "Tell me truly, blessed one — you are by no means a maidservant. Are you a yakshi, or a goddess, a gandharvi, or an apsara?"
 
-**4.8.14**  "Are you Alambusa, Mishrakesha, Pundarika, or Malini? Are you Indrāṇī, Varuni, or a goddess of Tvaṣṭṛ, Dhata, or Prajāpati? Those goddesses are renowned among the gods — which of them are you, auspicious one?"
+**4.8.14**  "Are you Alambusā, Mishrakesha, Puṇḍarīkā, or Mālinī? Are you Indrāṇī, Vāruṇī, or a goddess of Tvaṣṭṛ, Dhata, or Prajāpati? Those goddesses are renowned among the gods — which of them are you, auspicious one?"
 
 **4.8.15**  Draupadī said: "I am not a goddess, nor a gandharvi, nor an asuri, nor a rakshasi — I am indeed a sairandhri, a free attendant. This is the truth I tell you."
 
@@ -406,7 +406,7 @@ translator: thothica
 
 **4.8.18**  "I move thus from place to place, receiving beautiful garments wherever I can obtain them, and wherever I receive them, there I dwell in happiness."
 
-**4.8.19**  "Malini is the very name the goddess herself gave me. It is thus that I, O goddess Sudeṣṇā, have come to your dwelling."
+**4.8.19**  "Mālinī is the very name the goddess herself gave me. It is thus that I, O goddess Sudeṣṇā, have come to your dwelling."
 
 **4.8.20**  Sudeṣṇā said: "I would shelter you on my very head — there is no doubt of that — were it not that the king here might pursue you with his entire heart."
 
@@ -536,9 +536,9 @@ translator: thothica
 
 **4.12.9**  Nakula too, obtaining wealth for his work with the horses when that lord of men was pleased, would give it to the Pāṇḍavas.
 
-**4.12.10**  And Kṛṣṇa too — that noble lady in her suffering — would look upon all those brothers and move about as before, unrecognized.
+**4.12.10**  And Kṛṣṇā too — that noble lady in her suffering — would look upon all those brothers and move about as before, unrecognized.
 
-**4.12.11**  Thus those great warriors, providing for each other in this way, and yet beholding Kṛṣṇa in that condition, dwelt there in concealment, O lord of men.
+**4.12.11**  Thus those great warriors, providing for each other in this way, and yet beholding Kṛṣṇā in that condition, dwelt there in concealment, O lord of men.
 
 **4.12.12**  Then, in the fourth month, there arose a grand festival of Brahmā among the Matsyas — prosperous and well-regarded by the people.
 
@@ -600,7 +600,7 @@ translator: thothica
 
 **4.13.9**  'Let her adorn my great house — rich in elephants, horses, and chariots, possessed of great wealth, full of prosperity, with abundant drink and food, charming, decorated with golden ornaments.'
 
-**4.13.10**  Then Kīcaka, having taken leave of Sudeṣṇā, approached the daughter of the king of men and spoke then to Kṛṣṇa with words of enticement — like a jackal in the forest approaching the daughter of the lion.
+**4.13.10**  Then Kīcaka, having taken leave of Sudeṣṇā, approached the daughter of the king of men and spoke then to Kṛṣṇā with words of enticement — like a jackal in the forest approaching the daughter of the lion.
 
 **4.13.11**  'This beauty of yours, and your youth — both are rendered purposeless and barren today, O passionate one. Like a supreme garland that goes unworn, you do not shine, O beautiful one, though you are truly lovely.'
 
@@ -630,7 +630,7 @@ translator: thothica
 
 **4.14.3**  Hearing his lamentations again and again, the wise queen, chief consort of Virāṭa, felt compassion for him.
 
-**4.14.4**  Keeping her own interest in mind and reflecting upon his interest as well, and also upon Kṛṣṇa's distress, Sudeṣṇā spoke to the charioteer's son:
+**4.14.4**  Keeping her own interest in mind and reflecting upon his interest as well, and also upon Kṛṣṇā's distress, Sudeṣṇā spoke to the charioteer's son:
 
 **4.14.5**  'You prepare wine and food on the occasion of the festival day. I will send her to you there — the wine-fetcher — into your presence.'
 
@@ -1468,7 +1468,7 @@ translator: thothica
 
 **4.28.14**  Having resolved upon all this and applying your effort according to your own duty, O lord of men, you will long enjoy happiness at the right moment.
 
-**4.29.1**  Vaiśaṃpāyana said: Then Suśarmā, king of the Trigārtas, lord of chariot-hosts, hurriedly spoke these timely words with great urgency.
+**4.29.1**  Vaiśaṃpāyana said: Then Suśarmā, king of the Trigartas, lord of chariot-hosts, hurriedly spoke these timely words with great urgency.
 
 **4.29.2**  "I have been wronged again and again — first by the Matsyas together with the Sālveyas, and time and again by Kīcaka, the commander of Matsya's forces.
 
@@ -1488,7 +1488,7 @@ translator: thothica
 
 **4.29.10**  Or else we shall seize many thousands of fine cattle of various kinds, pressing upon his city by force.
 
-**4.29.11**  Uniting with the Kauravas and the Trigārtas, O lord of the people, let us all together swiftly drive away his cattle, well-assembled in force.
+**4.29.11**  Uniting with the Kauravas and the Trigartas, O lord of the people, let us all together swiftly drive away his cattle, well-assembled in force.
 
 **4.29.12**  Or having made a treaty with him, let us restrain his manhood; or having slaughtered his entire army, let us bring him under our dominion.
 
@@ -1512,7 +1512,7 @@ translator: thothica
 
 **4.29.22**  We shall march to the designated place together with all the Kauravas; and let the great warrior Suśarmā proceed to the assigned territory.
 
-**4.29.23**  The king, together with the Trigārtas and with his full complement of forces and vehicles, well-guarded, shall go first into Matsya's territory.
+**4.29.23**  The king, together with the Trigartas and with his full complement of forces and vehicles, well-guarded, shall go first into Matsya's territory.
 
 **4.29.24**  We shall follow in the rear a day later, marching in a solid body into the well-prosperous territory of the king of Matsya.
 
@@ -1536,7 +1536,7 @@ translator: thothica
 
 **4.30.6**  Approaching Virāṭa, that great king seated in the assembly hall, increaser of the kingdom, he spoke with a bow.
 
-**4.30.7**  "Defeating us in battle and humiliating us along with our kinsmen, the Trigārtas are driving away hundreds of thousands of cattle. O lord of men, pursue them — let not your livestock be lost!"
+**4.30.7**  "Defeating us in battle and humiliating us along with our kinsmen, the Trigartas are driving away hundreds of thousands of cattle. O lord of men, pursue them — let not your livestock be lost!"
 
 **4.30.8**  Hearing that, the lord of the Matsyas marshaled his army — crowded with chariots, elephants, and horses, swarming with infantry and banners.
 
@@ -1584,9 +1584,9 @@ translator: thothica
 
 **4.30.30**  That foremost army of Virāṭa set out and shone with splendor, crowded with men bearing firm weapons, thronged with elephants, horses, and chariots.
 
-**4.31.1**  Vaiśaṃpāyana said: Having sallied forth from the city, the brave, array-formed, fierce Matsyas came upon the Trigārtas as the sun was declining.
+**4.31.1**  Vaiśaṃpāyana said: Having sallied forth from the city, the brave, array-formed, fierce Matsyas came upon the Trigartas as the sun was declining.
 
-**4.31.2**  Those Trigārtas and Matsyas, enraged, frenzied for battle, roaring at one another, greedy for cattle, mighty in strength —
+**4.31.2**  Those Trigartas and Matsyas, enraged, frenzied for battle, roaring at one another, greedy for cattle, mighty in strength —
 
 **4.31.3**  — and fearsome elephants in rut, goaded with iron darts and elephant-hooks, mounted by village leaders skilled as elephant-drivers —
 
@@ -1606,7 +1606,7 @@ translator: thothica
 
 **4.31.11**  A severed head was seen, with trimmed upper lip, fine nose, dressed hair, and adorned with earrings, covered with dust.
 
-**4.31.12**  In that great slaughter of Kṣatriyas, limbs were seen, cut to pieces by arrows, resembling the trunks of Śāla trees.
+**4.31.12**  In that great slaughter of Kṣatriyas, limbs were seen, cut to pieces by arrows, resembling the trunks of Śala trees.
 
 **4.31.13**  The earth was strewn there with arms like serpents' coils, anointed with sandalwood paste, and with heads bearing earrings.
 
@@ -1614,7 +1614,7 @@ translator: thothica
 
 **4.31.15**  Śatānīka, having slain a hundred, and Viśālākṣa, having slain four hundred, both great warriors, plunged into the vast Trigarta army and grappled in fierce combat, hair gripping hair, nails tearing nails.
 
-**4.31.16**  Seeing those two plunge into the Trigārtas' chariot host, Sūryadatta and Madirāśva followed behind them.
+**4.31.16**  Seeing those two plunge into the Trigartas' chariot host, Sūryadatta and Madirāśva followed behind them.
 
 **4.31.17**  Virāṭa in that battle, having destroyed five hundred chariots and having slain here five hundred horses and five great warriors —
 
@@ -1784,7 +1784,7 @@ translator: thothica
 
 **4.34.5**  Plunging into their army, crowded with elephants, horses and chariots, I would defeat the Kurus — stripped of valour by my weapons — and bring back the cattle.
 
-**4.34.6**  Duryodhana, the son of Śāntanu, Karṇa the son of Vikartana, Kṛpa, Droṇa together with his son — all these great archers assembled —
+**4.34.6**  Duryodhana, the son of Śaṃtanu, Karṇa the son of Vikartana, Kṛpa, Droṇa together with his son — all these great archers assembled —
 
 **4.34.7**  — I would terrify them in battle as the bearer of the thunderbolt terrifies the demons, and in this very hour bring the cattle back again.
 
@@ -1876,7 +1876,7 @@ translator: thothica
 
 **4.36.6**  The dust raised by that army spreading out was seen — touching the sky, destroying the sight of all beings, O best of men.
 
-**4.36.7**  Seeing that great army crowded with elephants, horses and chariots, guarded by Karṇa, Duryodhana, Kṛpa and the son of Śāntanu,
+**4.36.7**  Seeing that great army crowded with elephants, horses and chariots, guarded by Karṇa, Duryodhana, Kṛpa and the son of Śaṃtanu,
 
 **4.36.8**  — and by Droṇa together with his son, that great archer of keen intellect — with hair standing on end and shaken by fear, Vairāṭi spoke to Pārtha:
 
@@ -2120,9 +2120,9 @@ translator: thothica
 
 **4.39.7**  Uttara said: If you were to recite for me the ten names of the son of Pṛthā that I have heard before, then I would believe everything you say.
 
-**4.39.8**  Arjuna said: Come then, I shall tell you my ten names: Arjuna, Phalguna, Jiṣṇu, Kiriti, Shvetavahana, Bībhatsu, Vijaya, Kṛṣṇa, Savyasācin, and Dhanañjaya.
+**4.39.8**  Arjuna said: Come then, I shall tell you my ten names: Arjuna, Phalguna, Jiṣṇu, Kirīṭī, Shvetavahana, Bībhatsu, Vijaya, Kṛṣṇa, Savyasācin, and Dhanañjaya.
 
-**4.39.9**  Uttara said: Why are you called Vijaya? Why are you called Shvetavahana? Why Kiriti? And how are you Savyasācin?
+**4.39.9**  Uttara said: Why are you called Vijaya? Why are you called Shvetavahana? Why Kirīṭī? And how are you Savyasācin?
 
 **4.39.10**  And why are you Arjuna, Phalguna, Jiṣṇu, Kṛṣṇa, Bībhatsu, and Dhanañjaya? Tell me truly. I have heard only the names of that hero, but not the reasons for them.
 
@@ -2134,7 +2134,7 @@ translator: thothica
 
 **4.39.14**  I was born by day on the slopes of the Himālayas under the two Phālgunī asterisms — northern and southern — therefore they know me as Phalguna.
 
-**4.39.15**  Long ago Śakra gave me, while I was fighting the lords of the Dānavas, a diadem radiant as the sun placed on my head — therefore they call me Kiriti, the diademed one.
+**4.39.15**  Long ago Śakra gave me, while I was fighting the lords of the Dānavas, a diadem radiant as the sun placed on my head — therefore they call me Kirīṭī, the diademed one.
 
 **4.39.16**  I would never perform a loathsome deed in any manner while fighting — therefore among gods and men they know me as Bībhatsu, the one who shuns the abhorrent.
 
@@ -2184,7 +2184,7 @@ translator: thothica
 
 **4.40.16**  I shall hold the reins of your horses, breaker of enemy chariots — for I am trained in chariot-driving through proper instruction, O bull among men.
 
-**4.40.17**  As Dāruka is to Vāsudeva, as Matali is to Śakra, so know me to be trained in chariotship, O foremost of men.
+**4.40.17**  As Dāruka is to Vāsudeva, as Mātali is to Śakra, so know me to be trained in chariotship, O foremost of men.
 
 **4.40.18**  The horse yoked on the right shaft, resembling Sugrīva in quality, is one whose hoof-prints on the ground cannot be seen as he gallops.
 
@@ -2600,7 +2600,7 @@ translator: thothica
 
 **4.49.14**  Those bulls among chariot-warriors, those heroes, broken in battle by that still greater hero, trembled as great forests shaken by the force of the wind in the season of storms.
 
-**4.49.15**  Slain by Pārtha, those foremost of men lay sleeping on the earth — young, finely dressed, generous with wealth, equal in valor to Indra, defeated in battle by Indra's son — clad in armor of gold and dark iron, like great elephants of the Himalayan slopes.
+**4.49.15**  Slain by Pārtha, those foremost of men lay sleeping on the earth — young, finely dressed, generous with wealth, equal in valor to Indra, defeated in battle by Indra's son — clad in armor of gold and dark iron, like great elephants of the Himālayan slopes.
 
 **4.49.16**  Thus slaying enemies in battle, the Gāṇḍīva-bowman, foremost of men, ranged the field in all directions and intermediate quarters, like fire burning a forest at the end of summer.
 
@@ -2758,7 +2758,7 @@ translator: thothica
 
 **4.53.2**  His red horses shine forth — large, finely gaited, glossy as polished coral, copper-faced, lovely to behold — yoked to the finest chariot, skilled in every art of warfare.
 
-**4.53.3**  Long-armed, of great splendor, possessed of strength and form, renowned in all the worlds — Bharadvaja's son (Droṇa) blazes with might.
+**4.53.3**  Long-armed, of great splendor, possessed of strength and form, renowned in all the worlds — Bhāradvāja's son (Droṇa) blazes with might.
 
 **4.53.4**  In wisdom he is equal to Uśanas (Śukra), in statecraft equal to Bṛhaspati; he has mastered all four Vedas and likewise the vow of brahmacharya.
 
@@ -2768,7 +2768,7 @@ translator: thothica
 
 **4.53.7**  I wish to fight with that greatly fortunate one in battle. Therefore, O Uttara, quickly drive me to the preceptor — urge the horses forward.
 
-**4.53.8**  Vaiśaṃpāyana said: Addressed thus by Arjuna, Virāṭa's son (Uttara) urged those gold-adorned horses toward the chariot of Bharadvaja's son (Droṇa).
+**4.53.8**  Vaiśaṃpāyana said: Addressed thus by Arjuna, Virāṭa's son (Uttara) urged those gold-adorned horses toward the chariot of Bhāradvāja's son (Droṇa).
 
 **4.53.9**  Droṇa advanced to meet that best of chariot warriors, the Pāṇḍava, as he came on with speed — Droṇa meeting Pārtha as one maddened elephant meets another.
 
@@ -2792,7 +2792,7 @@ translator: thothica
 
 **4.53.19**  Then the valiant Droṇa showered a thousand arrows upon Pārtha's chariot, quickly displaying his mastery of weaponry.
 
-**4.53.20**  Thus the battle unfolded between Bharadvaja's son (Droṇa) and the diademed one (Arjuna), both releasing blazing-tipped arrows equally in the contest.
+**4.53.20**  Thus the battle unfolded between Bhāradvāja's son (Droṇa) and the diademed one (Arjuna), both releasing blazing-tipped arrows equally in the contest.
 
 **4.53.21**  Both renowned for their deeds, both equal to the wind in speed, both versed in celestial weapons, both of supreme splendor — as they hurled their nets of arrows, they bewildered even the kings.
 
@@ -2802,7 +2802,7 @@ translator: thothica
 
 **4.53.24**  And those two heroes, both enraged, both great chariot warriors drawing close to each other, both undefeated, covered each other with masses of arrows.
 
-**4.53.25**  Then Bharadvaja's son, enraged, drawing his immense bow with its golden back — a bow hard to approach — fought back against Phalguna.
+**4.53.25**  Then Bhāradvāja's son, enraged, drawing his immense bow with its golden back — a bow hard to approach — fought back against Phalguna.
 
 **4.53.26**  With nets of arrows, whetted on stone and blazing with light, launched toward Arjuna's chariot, he covered even the radiance of the sun.
 
@@ -2810,7 +2810,7 @@ translator: thothica
 
 **4.53.28**  Likewise the Pāṇḍava, taking up his divine Gāṇḍīva bow — that supreme instrument of bearing the burden of battle, the enemy's destroyer, swift as the wind — boldly released many varied arrows fashioned with golden decorations.
 
-**4.53.29**  Destroying Bharadvaja's son's showers of arrows with shafts quickly loosed from his bow, the valiant one performed what seemed like a wonder.
+**4.53.29**  Destroying Bhāradvāja's son's showers of arrows with shafts quickly loosed from his bow, the valiant one performed what seemed like a wonder.
 
 **4.53.30**  Dhanañjaya, Pārtha, moving in his chariot — a splendid sight to behold — simultaneously displayed all his weapons in every direction.
 
@@ -2844,7 +2844,7 @@ translator: thothica
 
 **4.53.45**  Droṇa, the chief of preceptors, the best of weapon-bearers, sported with Arjuna in battle — even as Arjuna, that tiger among men of blazing splendor, sought to slay him — playing with arrows of smooth-jointed shafts.
 
-**4.53.46**  Against Bharadvaja's son releasing divine weapons in the great battle, Phalguna countered weapon with weapon and fought him equally.
+**4.53.46**  Against Bhāradvāja's son releasing divine weapons in the great battle, Phalguna countered weapon with weapon and fought him equally.
 
 **4.53.47**  The collision of those two lions among men, both enraged, both intolerant of each other, was like the clash of gods and demons.
 
@@ -3138,7 +3138,7 @@ translator: thothica
 
 **4.59.18**  The Pāṇḍava is powerful, young, skilled, and swift in action — who else is capable of withstanding Pārtha's speed in battle?
 
-**4.59.19**  — except Bhīṣma, son of Shantanu, or Kṛṣṇa the son of Devakī, or the foremost of teachers, Bharadvaja's son of great strength.
+**4.59.19**  — except Bhīṣma, son of Shantanu, or Kṛṣṇa the son of Devakī, or the foremost of teachers, Bhāradvāja's son of great strength.
 
 **4.59.20**  Those two bulls among men, of great power, countering weapons with weapons as if at play, bewildered the eyes of all creatures.
 
@@ -3200,7 +3200,7 @@ translator: thothica
 
 **4.60.5**  Struck by that arrow, the swift and undaunted warrior, his anger aroused by Duryodhana, took up arrows like poison and fire and pierced the king.
 
-**4.60.6**  And Duryodhana of fierce energy struck him, and Pārtha the sole hero struck Duryodhana — those two foremost heroes of the Ajamidha clan struck each other equally in battle.
+**4.60.6**  And Duryodhana of fierce energy struck him, and Pārtha the sole hero struck Duryodhana — those two foremost heroes of the Ajamīḍha clan struck each other equally in battle.
 
 **4.60.7**  Then Vikarṇa, with a great elephant in rut resembling a moving mountain, along with four chariots protecting the elephant's flanks, charged at Jiṣṇu, the son of Kuntī.
 
@@ -3218,7 +3218,7 @@ translator: thothica
 
 **4.60.14**  Seeing the elephant felled by the arrow and learning that all his warriors were fleeing, that foremost hero of the Kurus turned his chariot and fled from the battle to where Pārtha was not.
 
-**4.60.15**  Seeing that fearsome Duryodhana fleeing swiftly, the quiver-bearing Kiriti, eager to fight and enduring of enemies, roared a challenge at him — who had been pierced by an arrow and was vomiting blood.
+**4.60.15**  Seeing that fearsome Duryodhana fleeing swiftly, the quiver-bearing Kirīṭī, eager to fight and enduring of enemies, roared a challenge at him — who had been pierced by an arrow and was vomiting blood.
 
 **4.60.16**  Arjuna said: Abandoning your vast fame and glory, why do you flee, turning away from battle? Why do your war-drums not sound properly now as they did when you went to fight?
 
@@ -3284,7 +3284,7 @@ translator: thothica
 
 **4.61.28**  — that hero, suddenly blowing his Devadatta conch and splitting the hearts of his foes, having overpowered all enemies with his banner, shining with his net of gold —
 
-**4.61.29**  — seeing the Kurus depart, the diademed Kiriti, overjoyed, said to the son of Matsya there: 'Turn the horses around — your cattle have been won. The enemies have gone. Go to your city rejoicing.'
+**4.61.29**  — seeing the Kurus depart, the diademed Kirīṭī, overjoyed, said to the son of Matsya there: 'Turn the horses around — your cattle have been won. The enemies have gone. Go to your city rejoicing.'
 
 **4.62.1**  Vaiśaṃpāyana said: Then, having conquered the Kurus in battle, he whose eyes were like a bull's gathered together the great wealth of Virāṭa.
 
@@ -3346,7 +3346,7 @@ translator: thothica
 
 **4.63.19**  'All the cattle have been fully won back, the Kurus have been defeated, and Uttara is safe along with his charioteer, O scorcher of enemies.'
 
-**4.63.20**  Kanka said: 'By good fortune your cattle have been won back and the Kurus defeated. By good fortune your son is heard to be alive, O bull among kings.'
+**4.63.20**  Kaṅka said: 'By good fortune your cattle have been won back and the Kurus defeated. By good fortune your son is heard to be alive, O bull among kings.'
 
 **4.63.21**  'I do not consider it a wonder that your son conquered the Kurus — certain indeed is the victory of one whose charioteer is Bṛhannaḍā.'
 
@@ -3364,7 +3364,7 @@ translator: thothica
 
 **4.63.28**  — and likewise bards along with panegyrists, players of the nandi drum, players of the paṇava and other instruments, went forth from the city of mighty Virāṭa to meet the son of boundless valor.
 
-**4.63.29**  Having dispatched the army and the maidens and courtesans, all well adorned, the highly wise king of Matsya, overjoyed, said: 'Fetch the dice, Sairandhrī; let gambling begin, Kanka.'
+**4.63.29**  Having dispatched the army and the maidens and courtesans, all well adorned, the highly wise king of Matsya, overjoyed, said: 'Fetch the dice, Sairandhrī; let gambling begin, Kaṅka.'
 
 **4.63.30**  Seeing him speak thus, the Pāṇḍava replied: 'We have heard it said that a gambler elated with joy should not gamble.'
 
@@ -3372,7 +3372,7 @@ translator: thothica
 
 **4.63.32**  Virāṭa said: 'Women, cattle, gold, and whatever other wealth there may be — nothing of mine is to be withheld by you; you may gamble without restraint.'
 
-**4.63.33**  Kanka said: 'What use is gambling to you, O lord of kings, O granter of honor? Gambling has many faults; therefore one should avoid it.'
+**4.63.33**  Kaṅka said: 'What use is gambling to you, O lord of kings, O granter of honor? Gambling has many faults; therefore one should avoid it.'
 
 **4.63.34**  'Have you heard of, or perhaps seen, the Pāṇḍava Yudhiṣṭhira? He, his great and flourishing kingdom, and his brothers equal to the thirty gods —'
 

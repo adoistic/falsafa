@@ -29,7 +29,7 @@ translator: thothica
 
 **11.1.5**  May Tvaṣṭṛ fashion your offspring; may Dhātṛ establish a child for you; may Rākā sew with her needle — she who is sovereign of what has come to be and of the world, the goddess.
 
-**11.1.6**  Sinīvālī, Anumatī, Rākā, Guṅgu, and Sarasvatī — the divine consorts of the gods, those goddesses — and Indrāṇī I invoke for protection.
+**11.1.6**  Sinīvālī, Anumati, Rākā, Guṅgu, and Sarasvatī — the divine consorts of the gods, those goddesses — and Indrāṇī I invoke for protection.
 
 **11.1.7**  Unbroken in the egg, with a fully grown embryo, unharmed, a bearer of heroes — may she give birth, may she bring forth abundantly; may she become one blessed with many sons.
 

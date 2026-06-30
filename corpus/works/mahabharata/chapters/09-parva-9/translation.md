@@ -184,7 +184,7 @@ translator: thothica
 
 **9.2.31**  When Droṇa too, the brāhmaṇa, master of every weapon and missile, was slain by the Pāṇḍavas in the fray—what is this but the working of fate?
 
-**9.2.32**  When Bhūriśravas was slain there, and Somadatta in the combat, and Bāhlīka too, O great king—what is this but the working of fate?
+**9.2.32**  When Bhūriśravas was slain there, and Somadatta in the combat, and Bāhlika too, O great king—what is this but the working of fate?
 
 **9.2.33**  When Sudakṣiṇa was slain there, and Jalasaṃdha the Kaurava, and Śrutāyus and Acyutāyus—what is this but the working of fate?
 
@@ -3336,7 +3336,7 @@ translator: thothica
 
 **9.31.17**  Today, though unarmed and chariotless, I shall destroy you with your chariots and steeds by my splendor, as the sun at the ebbing of night destroys all the stars; stand firm, O Pāṇḍavas.
 
-**9.31.18**  Today I shall discharge my debt to the illustrious warriors—to Bāhlīka, Droṇa, and Bhīṣma, and to the great-souled Karṇa,
+**9.31.18**  Today I shall discharge my debt to the illustrious warriors—to Bāhlika, Droṇa, and Bhīṣma, and to the great-souled Karṇa,
 
 **9.31.19**  to brave Jayadratha and to Bhagadatta, to both of them, to Śalya the king of the Madras, and to Bhūriśravas as well,
 
@@ -5100,11 +5100,11 @@ translator: thothica
 
 **9.47.56**  Janamejaya said: Who, O reverend one, was her mother, and where was that lovely maiden reared? I wish to hear, O brahmin, for great is my curiosity.
 
-**9.47.57**  Vaiśaṃpāyana said: When the great-souled brahmin sage Bhāradvāja beheld the wide-eyed apsaras Ghṛtācī approaching, his seed was shed.
+**9.47.57**  Vaiśaṃpāyana said: When the great-souled brahmin sage Bharadvāja beheld the wide-eyed apsaras Ghṛtācī approaching, his seed was shed.
 
 **9.47.58**  That foremost of those who murmur prayers caught the seed in his hand and cast it into a cup of leaves; and therein that fair maiden came into being.
 
-**9.47.59**  Having performed for her all the birth-rites and the rest, the great sage Bhāradvāja, that wealth of penance, bestowed upon her a name.
+**9.47.59**  Having performed for her all the birth-rites and the rest, the great sage Bharadvāja, that wealth of penance, bestowed upon her a name.
 
 **9.47.60**  'Srucāvatī' — so the righteous one named her in the assembly of the sages; and leaving her in the hermitage, he went to the Himālayan forest.
 

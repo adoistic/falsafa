@@ -196,7 +196,7 @@ translator: thothica
 
 **3.4.15**  "Stay here a moment with Vaidehī, Lakṣmaṇa, while I find out clearly who this radiant one in the chariot is."
 
-**3.4.16**  Having thus addressed Saumitrī with the words "remain right here," Kākutstha advanced toward the hermitage of Śarabhaṅga.
+**3.4.16**  Having thus addressed Saumitri with the words "remain right here," Kākutstha advanced toward the hermitage of Śarabhaṅga.
 
 **3.4.17**  Then the lord of Śacī, seeing Rāma approaching, took leave of Śarabhaṅga and said this to the celestials:
 
@@ -2400,7 +2400,7 @@ translator: thothica
 
 **3.43.4**  Thus addressed, Lakṣmaṇa did not go, for he knew his brother's command — just as a bull fallen under the power of lions cannot move.
 
-**3.43.5**  Then the daughter of Janaka, enraged, spoke to him there: "O Saumitrī, you are your brother's enemy disguised as a friend."
+**3.43.5**  Then the daughter of Janaka, enraged, spoke to him there: "O Saumitri, you are your brother's enemy disguised as a friend."
 
 **3.43.6**  "You who in this situation do not go to your brother — you desire Rāma's destruction, O Lakṣmaṇa, for my sake."
 
@@ -2438,7 +2438,7 @@ translator: thothica
 
 **3.43.23**  "How could I, who have as my husband Rāma — dark as the blue lotus, with eyes like lotus petals — desire another man?"
 
-**3.43.24**  "Right before your eyes, O Saumitrī, I will cast off my life — of this there is no doubt; without Rāma I cannot live on this earth even for a moment."
+**3.43.24**  "Right before your eyes, O Saumitri, I will cast off my life — of this there is no doubt; without Rāma I cannot live on this earth even for a moment."
 
 **3.43.25**  Thus spoken to harshly by Sītā with words that made the moon shudder, Lakṣmaṇa — who had mastered his senses — joined his palms and said to Sītā:
 
@@ -2462,7 +2462,7 @@ translator: thothica
 
 **3.43.35**  Having thus reviled Lakṣmaṇa, Sītā, filled with grief, beat her own belly with her hands while weeping in her sorrow.
 
-**3.43.36**  Saumitrī, looking upon her who appeared in anguish, downcast, weeping, with wide eyes, tried to reassure her — yet Sītā said not a word more to that brother of her husband.
+**3.43.36**  Saumitri, looking upon her who appeared in anguish, downcast, weeping, with wide eyes, tried to reassure her — yet Sītā said not a word more to that brother of her husband.
 
 **3.43.37**  Then Lakṣmaṇa, saluting Sītā with joined palms, bowing slightly, and casting many a backward glance at Maithilī, the self-possessed one departed toward Rāma.
 
@@ -3940,7 +3940,7 @@ translator: thothica
 
 **3.68.11**  Hear, O Rāma, I shall tell you: there is a monkey named Sugrīva, who has been expelled by his angry brother Vālin, son of Śakra.
 
-**3.68.12**  That self-possessed hero dwells on the excellent mountain Ṛṣyamūka, beautiful with its borders of Pampā, together with four monkeys.
+**3.68.12**  That self-possessed hero dwells on the excellent mountain Ṛśyamūka, beautiful with its borders of Pampā, together with four monkeys.
 
 **3.68.13**  Go from here this very day and quickly make him your companion, O Rāghava; meet with him without treachery before the blazing fire.
 
@@ -3950,7 +3950,7 @@ translator: thothica
 
 **3.68.16**  He, son of Ṛkṣaraja and natural son of Bhāskara, wanders about Pampā in fear, wronged by Vālin.
 
-**3.68.17**  Having set aside your weapons, quickly make the monkey who dwells on Ṛṣyamūka your sworn companion in truth, O Rāghava, that forest-wanderer.
+**3.68.17**  Having set aside your weapons, quickly make the monkey who dwells on Ṛśyamūka your sworn companion in truth, O Rāghava, that forest-wanderer.
 
 **3.68.18**  For that elephant among monkeys in his entirety, by his skill, reaches all the haunts in the world of those who eat human flesh.
 
@@ -4008,7 +4008,7 @@ translator: thothica
 
 **3.69.23**  In that forest resembling Nandana, like the divine grove, filled with diverse birds, you shall delight, O Rāma, at peace.
 
-**3.69.24**  To the east of Pampā stands Ṛṣyamūka, covered with flowering trees, very difficult to ascend, guarded by young elephants, and magnanimously fashioned by Brahmā in ancient time.
+**3.69.24**  To the east of Pampā stands Ṛśyamūka, covered with flowering trees, very difficult to ascend, guarded by young elephants, and magnanimously fashioned by Brahmā in ancient time.
 
 **3.69.25**  O Rāma, a man sleeping on the summit of that mountain — whatever wealth he obtains in a dream, that he obtains upon waking.
 

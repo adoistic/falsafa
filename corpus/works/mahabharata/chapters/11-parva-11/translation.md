@@ -1312,7 +1312,7 @@ translator: thothica
 
 **11.25.31**  My swift and valiant sons were as good as slain, O Kṛṣṇa, on that very day when you returned to Upaplavya with your purpose unachieved.
 
-**11.25.32**  On that day Śantanu's son and wise Vidura both told me: 'Do not set your love upon your own sons.'
+**11.25.32**  On that day Śaṃtanu's son and wise Vidura both told me: 'Do not set your love upon your own sons.'
 
 **11.25.33**  Their foresight, my child, could not prove false: in but a little while my sons have been reduced to ashes, O Janārdana.
 

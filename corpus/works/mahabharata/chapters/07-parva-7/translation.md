@@ -284,7 +284,7 @@ translator: thothica
 
 **7.5.9**  "As a ship without a helmsman, or a chariot without a charioteer, would drift whither it would, so would a host be without its commander."
 
-**7.5.10**  "Therefore, looking upon all my great-souled men, do you mark out one fit to be commander, next after Śāntanu's son."
+**7.5.10**  "Therefore, looking upon all my great-souled men, do you mark out one fit to be commander, next after Śaṃtanu's son."
 
 **7.5.11**  "For whomever you name as leader of the host in the fight, him shall we all together set up, good sir."
 
@@ -782,7 +782,7 @@ translator: thothica
 
 **7.10.27**  So too Gada and Sāmba, Pradyumna and Viḍūratha, Āgāvaha and Aniruddha, Cārudeṣṇa and Sāraṇa,
 
-**7.10.28**  Ulmuka and Niśaṭha, Jhallī and the valiant Babhru, Pṛthu and Vipṛthu, Samīka and Arimejaya—
+**7.10.28**  Ulmuka and Niśaṭha, Jhallī and the valiant Babhru, Pṛthu and Vipṛthu, Śamīka and Arimejaya—
 
 **7.10.29**  these mighty Vṛṣṇi heroes, hard-striking warriors, might somehow take their stand with the Pāṇḍava army and abide in the battle.
 
@@ -2014,11 +2014,11 @@ translator: thothica
 
 **7.24.17**  As the Madra king roared, the best of the Pāṇḍavas struck off his banner together with his bow by two razor-shafts, and at that the people raised a shout.
 
-**7.24.18**  Even so King Bāhlīka, with his own host, held off with his shafts King Drupada, who came charging on with his host.
+**7.24.18**  Even so King Bāhlika, with his own host, held off with his shafts King Drupada, who came charging on with his host.
 
 **7.24.19**  Terrible grew the battle of those two aged kings with their armies, like that of two great herd-leading elephants, both in rut.
 
-**7.24.20**  The two Āvanti princes, Vinda and Anuvinda, with their troops, fell upon Virāṭa the Matsya king and his host, as of old Indra and Agni fell upon Bali.
+**7.24.20**  The two Avanti princes, Vinda and Anuvinda, with their troops, fell upon Virāṭa the Matsya king and his host, as of old Indra and Agni fell upon Bali.
 
 **7.24.21**  A churning, confused fight arose, like that of gods and demons, between the Matsyas and the Kekayas, with horse and chariot and elephant unafraid.
 
@@ -3448,7 +3448,7 @@ translator: thothica
 
 **7.45.11**  But your grandson, the unassailable Lakṣmaṇa, fair to look upon, that hero standing near his father with bow upraised,
 
-**7.45.12**  reared in utmost comfort, like a son of Kubera, lord of riches — him the son of Kṛṣṇā's sister met in battle as one rutting elephant meets another.
+**7.45.12**  reared in utmost comfort, like a son of Kubera, lord of riches — him the son of Kṛṣṇa's sister met in battle as one rutting elephant meets another.
 
 **7.45.13**  Closing with Lakṣmaṇa, the son of Subhadrā, slayer of hostile heroes, was struck on the arms and chest with keen, sharp-pointed arrows.
 
@@ -5758,9 +5758,9 @@ translator: thothica
 
 **7.71.6**  Their battle grew terrible, its waters running with blood, like the strife of a lion with two rut-streaming chief elephants in the forest.
 
-**7.71.7**  Bāhlīka, furious in the fight, the mighty son of Yajñasena struck with sharp, dreadful, barbless shafts that cleave the vitals and the bone.
+**7.71.7**  Bāhlika, furious in the fight, the mighty son of Yajñasena struck with sharp, dreadful, barbless shafts that cleave the vitals and the bone.
 
-**7.71.8**  And Bāhlīka, sorely enraged, smote the son of Yajñasena hard with nine gold-shafted, stone-whetted arrows with bent knots.
+**7.71.8**  And Bāhlika, sorely enraged, smote the son of Yajñasena hard with nine gold-shafted, stone-whetted arrows with bent knots.
 
 **7.71.9**  That battle grew terrible, thick with arrows and spears, breeding terror in the timid and swelling the joy of the brave.
 
@@ -8498,9 +8498,9 @@ translator: thothica
 
 **7.101.11**  Then, O great king, there came wonder upon your army, beholding that most arduous feat performed by Bṛhatkṣatra.
 
-**7.101.12**  Then, O great king, Droṇa of mighty austerities, singling out the Kekaya prince, brought forth in battle the divine Brāhma weapon.
+**7.101.12**  Then, O great king, Droṇa of mighty austerities, singling out the Kekaya prince, brought forth in battle the divine Brahmā weapon.
 
-**7.101.13**  That weapon, O king, the unshaken Kaikeya of mighty arms warded off in the fray, countering it with the very Brāhma weapon as it was launched.
+**7.101.13**  That weapon, O king, the unshaken Kaikeya of mighty arms warded off in the fray, countering it with the very Brahmā weapon as it was launched.
 
 **7.101.14**  Having beaten back that weapon of the son of Bharadvāja in the encounter, he pierced the brāhmaṇa with sixty stone-whetted shafts feathered with gold.
 
@@ -8758,7 +8758,7 @@ translator: thothica
 
 **7.102.67**  As he went on, that mighty-armed one, the Pāñcālas together with the Somakas, heroes, followed behind him as the immortals follow Maghavan.
 
-**7.102.68**  Him, O great king, your sons born of one womb hemmed in with their troops — Duḥśala and Citrasena and Kuṇḍabhedī and Viviṃśati,
+**7.102.68**  Him, O great king, your sons born of one womb hemmed in with their troops — Duḥśalā and Citrasena and Kuṇḍabhedī and Viviṃśati,
 
 **7.102.69**  Durmukha and Duḥsaha, and Vikarṇa, and Śala too, Vinda and Anuvinda, Sumukha, Dīrghabāhu, Sudarśana,
 
@@ -11284,7 +11284,7 @@ translator: thothica
 
 **7.130.31**  Then Durmada and Duṣkarṇa, your two sons, mounting upon a single chariot, pierced Bhīma with their arrows.
 
-**7.130.32**  Then, before the watching eyes of Karṇa, of Drauṇi, of Duryodhana, of Kṛpa, of Somadatta, and of Bāhlīka, the Pāṇḍava—
+**7.130.32**  Then, before the watching eyes of Karṇa, of Drauṇi, of Duryodhana, of Kṛpa, of Somadatta, and of Bāhlika, the Pāṇḍava—
 
 **7.130.33**  —that tamer of foes drove the chariot of the heroes Durmada and Duṣkarṇa into the earth with a single stamp of his foot.
 
@@ -11472,7 +11472,7 @@ translator: thothica
 
 **7.131.85**  "Puraṃjaya, Dṛḍharatha, Patākin, Hemapaṅkaja, Śalya, Aruṇi, and Indrasena, Saṃjaya, Vijaya, Jaya,"
 
-**7.131.86**  "Kamalākṣa, Puru, Krāthin, Jayavarman, Sudarśana — these shall follow you, with sixty thousand foot-soldiers."
+**7.131.86**  "Kamalākṣa, Pūru, Krāthin, Jayavarman, Sudarśana — these shall follow you, with sixty thousand foot-soldiers."
 
 **7.131.87**  "Slay Bhīma and both the twins and the King of Righteousness, O uncle, as the lord of the gods slew the asuras; my hope of victory rests in you."
 
@@ -11592,17 +11592,17 @@ translator: thothica
 
 **7.132.10**  At one and the same moment the dread mace and the arrow fell upon the body of Somadatta, and that great chariot-warrior dropped down.
 
-**7.132.11**  When his son was struck senseless, Bāhlīka rushed forward, pouring down floods of arrows like a cloud raining at the appointed season.
+**7.132.11**  When his son was struck senseless, Bāhlika rushed forward, pouring down floods of arrows like a cloud raining at the appointed season.
 
-**7.132.12**  Then Bhīma, for the sake of the Sātvata, sorely pressing the great-souled Bāhlīka with nine shafts, pierced him at the forefront of the battle.
+**7.132.12**  Then Bhīma, for the sake of the Sātvata, sorely pressing the great-souled Bāhlika with nine shafts, pierced him at the forefront of the battle.
 
 **7.132.13**  But the son of Pratīpa, enraged, that mighty-armed one, drove a spear into Bhīma's breast as Purandara hurls the thunderbolt.
 
 **7.132.14**  Struck by it, Bhīma trembled and swooned; but regaining his senses, the strong one hurled his mace at him.
 
-**7.132.15**  Sped by the Pāṇḍava, it carried off Bāhlīka's head; and slain, he fell to the earth like a great mountain shattered by the thunderbolt.
+**7.132.15**  Sped by the Pāṇḍava, it carried off Bāhlika's head; and slain, he fell to the earth like a great mountain shattered by the thunderbolt.
 
-**7.132.16**  When that hero Bāhlīka, that bull among men, was slain, ten of your sons, the equals of the son of Daśaratha, assailed Bhīma.
+**7.132.16**  When that hero Bāhlika, that bull among men, was slain, ten of your sons, the equals of the son of Daśaratha, assailed Bhīma.
 
 **7.132.17**  Slaying those sons of yours with ten iron shafts, Bhīma then overwhelmed Vṛṣasena, the beloved son of Karṇa.
 
@@ -11772,7 +11772,7 @@ translator: thothica
 
 **7.133.58**  I hold that victory rests with fate, even for the most mighty — for there lies Bhīṣma of the great arms, covered with a hundred arrows.
 
-**7.133.59**  Vikarṇa and Citrasena, Bāhlīka and Jayadratha, Bhūriśravas and Jaya, Jalasaṃdha and Sudakṣiṇa,
+**7.133.59**  Vikarṇa and Citrasena, Bāhlika and Jayadratha, Bhūriśravas and Jaya, Jalasaṃdha and Sudakṣiṇa,
 
 **7.133.60**  and Śala, foremost among chariot-warriors, and the valiant Bhagadatta — these and other kings, hard to conquer even by the gods,
 
@@ -12094,7 +12094,7 @@ translator: thothica
 
 **7.137.1**  Saṃjaya said: Beholding Somadatta brandishing his mighty bow, Sātyaki said to his charioteer, "Bear me toward Somadatta.
 
-**7.137.2**  For without slaying in the fray my foe, the Bāhlīka, basest of the Kauravas, I will not turn back from the battle, O charioteer — this word of mine is true."
+**7.137.2**  For without slaying in the fray my foe, the Bāhlika, basest of the Kauravas, I will not turn back from the battle, O charioteer — this word of mine is true."
 
 **7.137.3**  Then the driver urged on those swift Saindhava steeds, conch-colored, outstripping every sound in the battle.
 
@@ -12126,7 +12126,7 @@ translator: thothica
 
 **7.137.17**  Then, taking up another, swifter bow, Sātyaki quickly pierced Somadatta with five arrows.
 
-**7.137.18**  Then with another broad-headed shaft Sātyaki cut down the golden banner of the Bāhlīka in the fray, O king, as though smiling.
+**7.137.18**  Then with another broad-headed shaft Sātyaki cut down the golden banner of the Bāhlika in the fray, O king, as though smiling.
 
 **7.137.19**  But Somadatta, undismayed, seeing his standard struck down, covered the grandson of Śini with twenty-five arrows.
 
@@ -15782,9 +15782,9 @@ translator: thothica
 
 **7.170.61**  All beings cried out in dismay, and the Pāṇḍavas above all, as they beheld Bhīmasena then enveloped in that fiery splendor.
 
-**7.171.1**  Saṃjaya said: Seeing Bhīmasena overspread by the weapon, Dhanaṃjaya, to counter its fiery splendor, enveloped him with the Vāruṇa weapon.
+**7.171.1**  Saṃjaya said: Seeing Bhīmasena overspread by the weapon, Dhanaṃjaya, to counter its fiery splendor, enveloped him with the Varuṇa weapon.
 
-**7.171.2**  None could descry him, shrouded by the Vāruṇa weapon, by reason of Arjuna's swiftness and of the splendor that enveloped him.
+**7.171.2**  None could descry him, shrouded by the Varuṇa weapon, by reason of Arjuna's swiftness and of the splendor that enveloped him.
 
 **7.171.3**  Bhīma, with horses, charioteer, and car, shrouded by the weapon of Droṇa's son, garlanded in flame and scarcely to be looked upon, was like fire cast into fire.
 
@@ -15804,7 +15804,7 @@ translator: thothica
 
 **7.171.11**  Then those two mighty ones plunged into the splendor of Droṇa's son, born of the weapon's power, and entered it by their magic art.
 
-**7.171.12**  They had laid aside their weapons, and so the fire born of the weapon could not burn them—both by the working of the Vāruṇa weapon and by the might of the two Kṛṣṇas.
+**7.171.12**  They had laid aside their weapons, and so the fire born of the weapon could not burn them—both by the working of the Varuṇa weapon and by the might of the two Kṛṣṇas.
 
 **7.171.13**  Then Nara and Nārāyaṇa, to quell the Nārāyaṇa weapon, forcibly dragged forth Bhīma and all his weapons.
 

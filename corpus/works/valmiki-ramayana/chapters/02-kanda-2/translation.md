@@ -2278,7 +2278,7 @@ translator: thothica
 
 **2.40.11**  The more that son of Daśaratha stood firm in righteousness, the more his subjects desired him as their lord.
 
-**2.40.12**  Rāma, together with Saumitrī, seemed to draw back that wretched, tear-veiled populace by the bonds of his virtues, as if drawing them again to their seats.
+**2.40.12**  Rāma, together with Saumitri, seemed to draw back that wretched, tear-veiled populace by the bonds of his virtues, as if drawing them again to their seats.
 
 **2.40.13**  Those brāhmaṇas, aged in the threefold manner — by knowledge, by years, and by vigour — their heads trembling with age, called out from a distance these words:
 
@@ -2316,9 +2316,9 @@ translator: thothica
 
 **2.40.30**  As those brāhmaṇas cried out thus imploring him to return, the river Tamasā appeared there as if blocking the way of Rāghava.
 
-**2.41.1**  Then Rāghava, having reached the beautiful bank of the Tamasā, looked up at Sītā and spoke these words to Saumitrī:
+**2.41.1**  Then Rāghava, having reached the beautiful bank of the Tamasā, looked up at Sītā and spoke these words to Saumitri:
 
-**2.41.2**  "This is the first night, O Saumitrī, since we set out for the forest. Good fortune in this forest sojourn — you must not be sorrowful.
+**2.41.2**  "This is the first night, O Saumitri, since we set out for the forest. Good fortune in this forest sojourn — you must not be sorrowful.
 
 **2.41.3**  See how the forests seem to weep on every side, as the deer and birds draw near to their respective shelters and settle there.
 
@@ -2330,25 +2330,25 @@ translator: thothica
 
 **2.41.7**  You, O tiger among men, have done what had to be done by following me; for the sake of protecting Vaidehī, help must be sought.
 
-**2.41.8**  But I shall pass this night, O Saumitrī, on water alone — this pleases me, even though a variety of forest food is available.
+**2.41.8**  But I shall pass this night, O Saumitri, on water alone — this pleases me, even though a variety of forest food is available.
 
-**2.41.9**  Having spoken thus to Saumitrī, Rāghava also addressed Sumantra: "Be vigilant, O gentle one, in attending to the horses," he said.
+**2.41.9**  Having spoken thus to Saumitri, Rāghava also addressed Sumantra: "Be vigilant, O gentle one, in attending to the horses," he said.
 
 **2.41.10**  Sumantra, having attended to the horses, and when the sun had set, having given them abundant fodder, stood close by in readiness.
 
-**2.41.11**  After the auspicious twilight had been duly observed and night had come, the charioteer, together with Saumitrī, prepared Rāma's bed.
+**2.41.11**  After the auspicious twilight had been duly observed and night had come, the charioteer, together with Saumitri, prepared Rāma's bed.
 
-**2.41.12**  Seeing that bed made of tree-leaves on the bank of the Tamasā, Rāma lay down upon it together with his wife and with Saumitrī.
+**2.41.12**  Seeing that bed made of tree-leaves on the bank of the Tamasā, Rāma lay down upon it together with his wife and with Saumitri.
 
 **2.41.13**  Seeing his brother thus fallen fast asleep with his wife, Lakṣmaṇa recounted to the charioteer the manifold virtues of Rāma.
 
-**2.41.14**  For Saumitrī, keeping vigil through that entire night and recounting the virtues of Rāma to the charioteer on the bank of the Tamasā, the sun rose.
+**2.41.14**  For Saumitri, keeping vigil through that entire night and recounting the virtues of Rāma to the charioteer on the bank of the Tamasā, the sun rose.
 
 **2.41.15**  At a distance from the Tamasā whose banks were crowded with herds of cattle, Rāma passed that night there together with his people.
 
 **2.41.16**  Rising up, that one of great splendour, having observed those subjects, spoke to his brother Lakṣmaṇa, he of auspicious marks:
 
-**2.41.17**  "See, O Saumitrī, these people who have abandoned all concern for us and even for their own homes are now fast asleep at the roots of the trees, O Lakṣmaṇa.
+**2.41.17**  "See, O Saumitri, these people who have abandoned all concern for us and even for their own homes are now fast asleep at the roots of the trees, O Lakṣmaṇa.
 
 **2.41.18**  The manner in which these citizens are making a vow to prevent our return — they will forfeit their very lives rather than abandon their resolve.
 
@@ -2716,7 +2716,7 @@ translator: thothica
 
 **2.46.75**  Having reached the far bank and leaving the boat behind, the bull among men, the scorcher of foes, set forth together with his brother and the Vaidehī.
 
-**2.46.76**  Then the mighty-armed one spoke to the joy-increaser of Sumitrā: "Go ahead, O Saumitrī; let Sītā follow you."
+**2.46.76**  Then the mighty-armed one spoke to the joy-increaser of Sumitrā: "Go ahead, O Saumitri; let Sītā follow you."
 
 **2.46.77**  "I shall go behind, guarding both you and Sītā. Today the Vaidehī will come to know the hardship of forest life."
 
@@ -2730,9 +2730,9 @@ translator: thothica
 
 **2.47.3**  "From this day forward we must both keep vigil through the nights without slackness, for the safety and well-being of Sītā rests on us."
 
-**2.47.4**  "Somehow, Saumitrī, we shall pass this night, lying down on the ground on what we have gathered ourselves."
+**2.47.4**  "Somehow, Saumitri, we shall pass this night, lying down on the ground on what we have gathered ourselves."
 
-**2.47.5**  Lying down on the earth — he who was accustomed to beds of the highest worth — Rāma spoke these auspicious words to Saumitrī.
+**2.47.5**  Lying down on the earth — he who was accustomed to beds of the highest worth — Rāma spoke these auspicious words to Saumitri.
 
 **2.47.6**  "Surely the great king sleeps in sorrow tonight, Lakṣmaṇa. But Kaikeyī, having achieved her desire, is fit to be satisfied."
 
@@ -2760,11 +2760,11 @@ translator: thothica
 
 **2.47.18**  "For Kaikeyī, given to petty acts, might out of hatred do what is unjust. You must entrust my mother to the dharma-knowing Bharata."
 
-**2.47.19**  "Surely in some past life women were separated from their sons — and now that same fate has come upon my mother, Saumitrī."
+**2.47.19**  "Surely in some past life women were separated from their sons — and now that same fate has come upon my mother, Saumitri."
 
 **2.47.20**  "Kausalyā, who nurtured me for so long and raised me through suffering, is now separated from me at the time of bearing fruit — shame on me!"
 
-**2.47.21**  "Let no woman, Saumitrī, ever give birth to a son like me, who brings endless grief to his mother."
+**2.47.21**  "Let no woman, Saumitri, ever give birth to a son like me, who brings endless grief to his mother."
 
 **2.47.22**  "I think that myna bird of Lakṣmaṇa is more blessed than I am — the one from whom those words are heard: 'Parrot, bite the foot of the enemy.'"
 
@@ -2796,9 +2796,9 @@ translator: thothica
 
 **2.48.3**  Those illustrious ones came upon the earth through various regions — charming places never seen before — beholding them here and there.
 
-**2.48.4**  Proceeding at ease and observing various trees, when the day had just turned, Rāma spoke to Saumitrī.
+**2.48.4**  Proceeding at ease and observing various trees, when the day had just turned, Rāma spoke to Saumitri.
 
-**2.48.5**  "Look around Prayāga, Saumitrī, at the tall column of smoke — the banner of the sacred fire. I think the sage is nearby."
+**2.48.5**  "Look around Prayāga, Saumitri, at the tall column of smoke — the banner of the sacred fire. I think the sage is nearby."
 
 **2.48.6**  "Surely we have reached the confluence of the Gaṅgā and the Yamunā — for the sound of water meeting water is heard."
 
@@ -2810,13 +2810,13 @@ translator: thothica
 
 **2.48.10**  Then the two heroes, wishing to see the sage, having approached the hermitage with Sītā following them, stood at a respectful distance.
 
-**2.48.11**  Seeing the great one who had offered his agnihotra oblation, Rāma, with joined palms, together with Saumitrī and with Sītā, saluted him.
+**2.48.11**  Seeing the great one who had offered his agnihotra oblation, Rāma, with joined palms, together with Saumitri and with Sītā, saluted him.
 
 **2.48.12**  The elder brother of Lakṣmaṇa presented himself to him: "We two are the sons of Daśaratha, O venerable one — Rāma and Lakṣmaṇa."
 
 **2.48.13**  "This is my wife, the Vaidehī, the auspicious daughter of Janaka — blameless, she has followed me into this desolate forest hermitage."
 
-**2.48.14**  "As I was being sent into exile by my father, this dear younger brother Saumitrī, firm in his vow, followed me into the very forest."
+**2.48.14**  "As I was being sent into exile by my father, this dear younger brother Saumitri, firm in his vow, followed me into the very forest."
 
 **2.48.15**  "Commanded by our father, O venerable one, we shall enter the forest hermitage; there we shall practice dharma alone, subsisting on roots and fruits."
 
@@ -3364,7 +3364,7 @@ translator: thothica
 
 **2.58.35**  "The supreme goal attained by heroes who do not retreat in battles, slain while facing the enemy — to that supreme goal, my son, do you proceed."
 
-**2.58.36**  "The goal attained by Sagara, Śaibyā, Dilīpa, Janamejaya, Nahuṣa, and Dhundhumāra — to that goal go, dear child."
+**2.58.36**  "The goal attained by Sagara, Śaibya, Dilīpa, Janamejaya, Nahuṣa, and Dhundhumāra — to that goal go, dear child."
 
 **2.58.37**  "The goal of all virtuous ones, and the goal of one who has fallen from his own Vedic study, of a giver of land, of one who has kindled sacred fires, of one who has kept the vow of a single wife —"
 
@@ -3548,7 +3548,7 @@ translator: thothica
 
 **2.62.12**  Reaching the Nikūla tree — that divine place of sacred vows — they approached and saluted it, then entered the city of Kuliṅgā.
 
-**2.62.13**  Then reaching the proper time, worn down by the exertion, they passed through the Bāhlīka country and the mountain Sudāmā, gazing upon Viṣṇu's footprint, and also the Vipāśā river and the Śālmalī tree.
+**2.62.13**  Then reaching the proper time, worn down by the exertion, they passed through the Bāhlika country and the mountain Sudāmā, gazing upon Viṣṇu's footprint, and also the Vipāśā river and the Śālmalī tree.
 
 **2.62.14**  Those messengers, with their mounts weary, traveling along a long and good road, swiftly and straightway reached Girivraja, that excellent city.
 
@@ -3638,7 +3638,7 @@ translator: thothica
 
 **2.64.24**  Great-souled Bharata, guarded by his army and accompanied by ministers as dear to him as kinsmen, took Śatrughna and departed from that house, like a perfected sage departing from the world of Indra.
 
-**2.65.1**  That valiant delight of the Ikṣvāku line, facing eastward, set forth from Rājagṛha and crossed the Śatadrū, that wide-banked, wave-bearing river flowing against the current, and the Hrādinī as well.
+**2.65.1**  That valiant delight of the Ikṣvāku line, facing eastward, set forth from Rājagṛha and crossed the Śatadru, that wide-banked, wave-bearing river flowing against the current, and the Hrādinī as well.
 
 **2.65.2**  Having crossed the river at Eladhāna and reached the Aparaparpaṭas, he crossed the rocky Śilā river and passed through Āgneya, the thorn-cutting region.
 
@@ -4458,7 +4458,7 @@ translator: thothica
 
 **2.81.18**  "Then Lakṣmaṇa also performed his rite with the remaining water; those three, with restrained speech, attended the twilight devotions with full concentration."
 
-**2.81.19**  "After that, Saumitrī made an auspicious bed, having himself quickly brought kuśa grass for the sake of Rāghava."
+**2.81.19**  "After that, Saumitri made an auspicious bed, having himself quickly brought kuśa grass for the sake of Rāghava."
 
 **2.81.20**  "Rāma lay down on that bed together with Sītā; and Lakṣmaṇa, having washed their feet, withdrew."
 
@@ -4994,7 +4994,7 @@ translator: thothica
 
 **2.90.6**  "Is a king or a royal prince ranging the forest in the hunt, or is it some other wild beast, O Saumitri? You must ascertain the truth of all this—discover it quickly, as it really is."
 
-**2.90.7**  Lakṣmaṇa, swift to act, climbed a flowering Śāla tree, and scanning all directions, he gazed to the east.
+**2.90.7**  Lakṣmaṇa, swift to act, climbed a flowering Śala tree, and scanning all directions, he gazed to the east.
 
 **2.90.8**  Looking northward, he discerned a great army—crowded with chariots, horses, and elephants, joined with alert foot-soldiers.
 
@@ -6150,7 +6150,7 @@ translator: thothica
 
 **2.109.5**  Reaching the hermitage of Atri, that greatly renowned one paid homage to him; and the blessed Atri in turn received him as a son.
 
-**2.109.6**  Having himself directed the hospitality so that everything was fittingly honoured for him, Atri also comforted the highly blessed Saumitrī and Sītā.
+**2.109.6**  Having himself directed the hospitality so that everything was fittingly honoured for him, Atri also comforted the highly blessed Saumitri and Sītā.
 
 **2.109.7**  Addressing his aged wife who had come to meet them, and having honoured her well, that knower of dharma, who was devoted to the welfare of all beings, entreated her to comfort Sītā.
 

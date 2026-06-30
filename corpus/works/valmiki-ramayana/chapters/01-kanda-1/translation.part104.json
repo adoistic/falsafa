@@ -1,422 +1,86 @@
 [
-  {
-    "ref": "1.10.1",
-    "sanskrit": "bhūya eva ca rājendra śṛṇu me vacanaṃ hitam yathā sa devapravaraḥ kathāyām evam abravīt",
-    "english": "And hear again, O lord of kings, my beneficial words — just as that foremost of gods spoke thus in the story."
-  },
-  {
-    "ref": "1.10.2",
-    "sanskrit": "ikṣvākūṇāṃ kule jāto bhaviṣyati sudhārmikaḥ rājā daśaratho nāmnā śrīmān satyapratiśravaḥ",
-    "english": "Born in the lineage of the Ikṣvākus there shall be a most righteous king named Daśaratha — glorious and true to his word."
-  },
-  {
-    "ref": "1.10.3",
-    "sanskrit": "aṅgarājena sakhyaṃ ca tasya rājño bhaviṣyati kanyā cāsya mahābhāgā śāntā nāma bhaviṣyati",
-    "english": "That king will have a friendship with the king of Aṅga, and this king will have a greatly fortunate daughter named Śāntā."
-  },
-  {
-    "ref": "1.10.4",
-    "sanskrit": "putras tv aṅgasya rājñas tu lomapāda iti śrutaḥ taṃ sa rājā daśaratho gamiṣyati mahāyaśāḥ",
-    "english": "The son of the king of Aṅga is known as Lomapāda; the greatly renowned King Daśaratha shall go to him."
-  },
-  {
-    "ref": "1.10.5",
-    "sanskrit": "anapatyo 'smi dharmātmañ śāntābhartā mama kratum āhareta tvayājñaptaḥ saṃtānārthaṃ kulasya ca",
-    "english": "'I am without a son, O righteous one; let Śāntā's husband, directed by you, perform the sacrificial rite for me, for the continuation of my lineage.'"
-  },
-  {
-    "ref": "1.10.6",
-    "sanskrit": "śrutvā rājño 'tha tad vākyaṃ manasā sa vicintya ca pradāsyate putravantaṃ śāntā bhartāram ātmavān",
-    "english": "Having heard the king's words and reflected on them in his mind, that self-possessed one will give Śāntā a husband who will bring sons."
-  },
-  {
-    "ref": "1.10.7",
-    "sanskrit": "pratigṛhya ca taṃ vipraṃ sa rājā vigatajvaraḥ āhariṣyati taṃ yajñaṃ prahṛṣṭenāntarātmanā",
-    "english": "And having received that brāhmaṇa, the king, freed from his anguish, will perform that sacrifice with a heart full of joy."
-  },
-  {
-    "ref": "1.10.8",
-    "sanskrit": "taṃ ca rājā daśaratho yaṣṭukāmaḥ kṛtāñjaliḥ ṛśyaśṛṅgaṃ dvijaśreṣṭhaṃ varayiṣyati dharmavit",
-    "english": "And King Daśaratha, desirous of performing the sacrifice and knowledgeable in dharma, will choose with joined palms that best of twice-born, Ṛśyaśṛṅga."
-  },
-  {
-    "ref": "1.10.9",
-    "sanskrit": "yajñārthaṃ prasavārthaṃ ca svargārthaṃ ca nareśvaraḥ labhate ca sa taṃ kāmaṃ dvijamukhyād viśāṃ patiḥ",
-    "english": "For the purpose of the sacrifice, for offspring, and for heaven, that lord of men, that master of his people, will obtain his desired wish through that foremost of twice-born."
-  },
-  {
-    "ref": "1.10.10",
-    "sanskrit": "putrāś cāsya bhaviṣyanti catvāro 'mitavikramāḥ vaṃśapratiṣṭhānakarāḥ sarvalokeṣu viśrutāḥ",
-    "english": "And he shall have four sons of immeasurable valour, establishers of the family line, renowned throughout all the worlds."
-  },
-  {
-    "ref": "1.10.11",
-    "sanskrit": "evaṃ sa devapravaraḥ pūrvaṃ kathitavān kathām sanatkumāro bhagavān purā devayuge prabhuḥ",
-    "english": "Thus did that foremost of gods, the blessed Sanatkumāra, the lord, narrate this story of old in the age of the gods."
-  },
-  {
-    "ref": "1.10.12",
-    "sanskrit": "sa tvaṃ puruṣaśārdūla tam ānaya susatkṛtam svayam eva mahārāja gatvā sabalavāhanaḥ",
-    "english": "O tiger among men, O great king — go yourself with your army and retinue and bring him here, well-honoured."
-  },
-  {
-    "ref": "1.10.13",
-    "sanskrit": "anumānya vasiṣṭhaṃ ca sūtavākyaṃ niśamya ca sāntaḥpuraḥ sahāmātyaḥ prayayau yatra sa dvijaḥ",
-    "english": "Having taken Vasiṣṭha's leave and heeding the sūta's words, he set out with his inner-palace household and ministers to where that brāhmaṇa dwelt."
-  },
-  {
-    "ref": "1.10.14",
-    "sanskrit": "vanāni saritaś caiva vyatikramya śanaiḥ śanaiḥ abhicakrāma taṃ deśaṃ yatra vai munipuṃgavaḥ",
-    "english": "Crossing forests and rivers one by one, he gradually arrived at the region where that foremost sage resided."
-  },
-  {
-    "ref": "1.10.15",
-    "sanskrit": "āsādya taṃ dvijaśreṣṭhaṃ lomapādasamīpagam ṛṣiputraṃ dadarśādau dīpyamānam ivānalam",
-    "english": "Approaching that best of twice-born who was near Lomapāda, he first beheld the son of the ṛṣi blazing like a fire."
-  },
-  {
-    "ref": "1.10.16",
-    "sanskrit": "tato rājā yathānyāyaṃ pūjāṃ cakre viśeṣataḥ sakhitvāt tasya vai rājñaḥ prahṛṣṭenāntarātmanā",
-    "english": "Then the king honoured him duly and with especial distinction, out of friendship toward that king, with a heart overflowing with joy."
-  },
-  {
-    "ref": "1.10.17",
-    "sanskrit": "lomapādena cākhyātam ṛṣiputrāya dhīmate sakhyaṃ saṃbandhakaṃ caiva tadā taṃ pratyapūjayat",
-    "english": "And Lomapāda explained to the wise son of the ṛṣi the bond of friendship and kinship between them; Ṛśyaśṛṅga then honoured Daśaratha in return."
-  },
-  {
-    "ref": "1.10.18",
-    "sanskrit": "evaṃ susatkṛtas tena sahoṣitvā nararṣabhaḥ saptāṣṭadivasān rājā rājānam idam abravīt",
-    "english": "Thus well-honoured by him, that bull among men, the king, having dwelt there seven or eight days, said this to the king:"
-  },
-  {
-    "ref": "1.10.19",
-    "sanskrit": "śāntā tava sutā rājan saha bhartrā viśāmpate madīyaṃ nagaraṃ yātu kāryaṃ hi mahad udyatam",
-    "english": "'O king, O lord of the people, let Śāntā, your daughter, go with her husband to my city — for a great task is at hand.'"
-  },
-  {
-    "ref": "1.10.20",
-    "sanskrit": "tatheti rājā saṃśrutya gamanaṃ tasya dhīmataḥ uvāca vacanaṃ vipraṃ gaccha tvaṃ saha bhāryayā",
-    "english": "Consenting with the word 'so be it' to the departure of that wise man, the king said to the brāhmaṇa: 'Go, with your wife.'"
-  },
-  {
-    "ref": "1.10.21",
-    "sanskrit": "ṛṣiputraḥ pratiśrutya tathety āha nṛpaṃ tadā sa nṛpeṇābhyanujñātaḥ prayayau saha bhāryayā",
-    "english": "The son of the ṛṣi, agreeing, said 'so be it' to the king; then, given leave by the king, he departed with his wife."
-  },
-  {
-    "ref": "1.10.22",
-    "sanskrit": "tāv anyonyāñjaliṃ kṛtvā snehāt saṃśliṣya corasā nanandatur daśaratho lomapādaś ca vīryavān",
-    "english": "The two of them — Daśaratha and the valiant Lomapāda — clasped hands with each other and embraced chest to chest out of affection, and were glad."
-  },
-  {
-    "ref": "1.10.23",
-    "sanskrit": "tataḥ suhṛdam āpṛcchya prasthito raghunandanaḥ paurebhyaḥ preṣayām āsa dūtān vai śīghragāminaḥ kriyatāṃ nagaraṃ sarvaṃ kṣipram eva svalaṃkṛtam",
-    "english": "Then, taking leave of his friend and setting out, the joy of the Raghus sent swift messengers ahead to the citizens: 'Let the entire city be quickly and handsomely adorned.'"
-  },
-  {
-    "ref": "1.10.24",
-    "sanskrit": "tataḥ prahṛṣṭāḥ paurās te śrutvā rājānam āgatam tathā pracakrus tat sarvaṃ rājñā yat preṣitaṃ tadā",
-    "english": "Then those joyful citizens, hearing that the king had come, did everything the king had sent word to do."
-  },
-  {
-    "ref": "1.10.25",
-    "sanskrit": "tataḥ svalaṃkṛtaṃ rājā nagaraṃ praviveśa ha śaṅkhadundubhinirghoṣaiḥ puraskṛtya dvijarṣabham",
-    "english": "Then the king entered the handsomely adorned city to the sound of conches and kettledrums, placing the bull among twice-born at the head of the procession."
-  },
-  {
-    "ref": "1.10.26",
-    "sanskrit": "tataḥ pramuditāḥ sarve dṛṣṭvā taṃ nāgarā dvijam praveśyamānaṃ satkṛtya narendreṇendrakarmaṇā",
-    "english": "Then all the townspeople were overjoyed, seeing that brāhmaṇa being ushered in with honour by the king who acts like Indra."
-  },
-  {
-    "ref": "1.10.27",
-    "sanskrit": "antaḥpuraṃ praveśyainaṃ pūjāṃ kṛtvā tu śāstrataḥ kṛtakṛtyaṃ tadātmānaṃ mene tasyopavāhanāt",
-    "english": "Having led him into the inner apartments and honoured him according to the scriptures, he considered himself fulfilled by the mere arrival of that sage."
-  },
-  {
-    "ref": "1.10.28",
-    "sanskrit": "antaḥpurāṇi sarvāṇi śāntāṃ dṛṣṭvā tathāgatām saha bhartrā viśālākṣīṃ prītyānandam upāgaman",
-    "english": "All the women of the inner apartments, seeing Śāntā arrive thus with her husband — she of wide eyes — were filled with delight and joy."
-  },
-  {
-    "ref": "1.10.29",
-    "sanskrit": "pūjyamānā ca tābhiḥ sā rājñā caiva viśeṣataḥ uvāsa tatra sukhitā kaṃ cit kālaṃ saha dvijā",
-    "english": "Honoured by them and especially by the king, she lived there happily for some time together with the brāhmaṇa."
-  },
-  {
-    "ref": "1.11.1",
-    "sanskrit": "tataḥ kāle bahutithe kasmiṃś cit sumanohare vasante samanuprāpte rājño yaṣṭuṃ mano 'bhavat",
-    "english": "Then, after a long time had passed and a certain delightful spring had arrived, the king's mind turned toward performing a sacrifice."
-  },
-  {
-    "ref": "1.11.2",
-    "sanskrit": "tataḥ prasādya śirasā taṃ vipraṃ devavarṇinam yajñāya varayām āsa saṃtānārthaṃ kulasya vai",
-    "english": "Then, reverently bowing his head to that brāhmaṇa who was like a god in appearance, he chose him for the sacrifice — for the sake of progeny and the continuation of his lineage."
-  },
-  {
-    "ref": "1.11.3",
-    "sanskrit": "tatheti ca sa rājānam uvāca ca susatkṛtaḥ saṃbhārāḥ saṃbhriyantāṃ te turagaś ca vimucyatām",
-    "english": "And he, well-honoured, said to the king: 'So be it.' 'Let your requisite materials be gathered and let the horse be released.'"
-  },
-  {
-    "ref": "1.11.4",
-    "sanskrit": "tato rājābravīd vākyaṃ sumantraṃ mantrisattamam sumantrāvāhaya kṣipram ṛtvijo brahmavādinaḥ",
-    "english": "Then the king spoke to Sumantra, the best of ministers: 'Sumantra, quickly summon the ritual officiants, the knowers of the Veda.'"
-  },
-  {
-    "ref": "1.11.5",
-    "sanskrit": "tataḥ sumantras tvaritaṃ gatvā tvaritavikramaḥ samānayat sa tān viprān samastān vedapāragān",
-    "english": "Then Sumantra, of swift movement, went quickly and assembled all those brāhmaṇas who had mastered the Veda."
-  },
-  {
-    "ref": "1.11.6",
-    "sanskrit": "suyajñaṃ vāmadevaṃ ca jābālim atha kāśyapam purohitaṃ vasiṣṭhaṃ ca ye cānye dvijasattamāḥ",
-    "english": "Suyajña, Vāmadeva, Jābāli, Kāśyapa, the family priest Vasiṣṭha, and whatever other best among twice-born there were —"
-  },
-  {
-    "ref": "1.11.7",
-    "sanskrit": "tān pūjayitvā dharmātmā rājā daśarathas tadā idaṃ dharmārthasahitaṃ ślakṣṇaṃ vacanam abravīt",
-    "english": "Having honoured them, the righteous-souled King Daśaratha then spoke these gentle words full of dharma and purpose:"
-  },
-  {
-    "ref": "1.11.8",
-    "sanskrit": "mama lālapyamānasya putrārthaṃ nāsti vai sukham tadarthaṃ hayamedhena yakṣyāmīti matir mama",
-    "english": "'For me, yearning as I am, there is no happiness without a son. For that reason it is my intention to sacrifice with the horse sacrifice.'"
-  },
-  {
-    "ref": "1.11.9",
-    "sanskrit": "tad ahaṃ yaṣṭum icchāmi śāstradṛṣṭena karmaṇā ṛṣiputraprabhāvena kāmān prāpsyāmi cāpy aham",
-    "english": "'I wish to perform the rite as prescribed by scripture. Through the power of the ṛṣi's son I shall attain my desires.'"
-  },
-  {
-    "ref": "1.11.10",
-    "sanskrit": "tataḥ sādhv iti tad vākyaṃ brāhmaṇāḥ pratyapūjayan vasiṣṭhapramukhāḥ sarve pārthivasya mukhāc cyutam",
-    "english": "Then all the brāhmaṇas, with Vasiṣṭha at their head, applauded that speech which had fallen from the king's mouth with the words: 'Excellent!'"
-  },
-  {
-    "ref": "1.11.11",
-    "sanskrit": "ṛśyaśṛṅgapurogāś ca pratyūcur nṛpatiṃ tadā saṃbhārāḥ saṃbhriyantāṃ te turagaś ca vimucyatām",
-    "english": "With Ṛśyaśṛṅga at their head, they spoke to the king: 'Let your requisite materials be gathered and let the horse be released.'"
-  },
-  {
-    "ref": "1.11.12",
-    "sanskrit": "sarvathā prāpyase putrāṃś caturo 'mitavikramān yasya te dhārmikī buddhir iyaṃ putrārtham āgatā",
-    "english": "'You will certainly obtain four sons of immeasurable valour, since this righteous resolve has arisen in you for the sake of sons.'"
-  },
-  {
-    "ref": "1.11.13",
-    "sanskrit": "tataḥ prīto 'bhavad rājā śrutvā tad dvijabhāṣitam amātyāṃś cābravīd rājā harṣeṇedaṃ śubhākṣaram",
-    "english": "Then the king was delighted hearing what the twice-born had said, and the king, with joy, spoke these auspicious words to his ministers:"
-  },
-  {
-    "ref": "1.11.14",
-    "sanskrit": "gurūṇāṃ vacanāc chīghraṃ saṃbhārāḥ saṃbhriyantu me samarthādhiṣṭhitaś cāśvaḥ sopādhyāyo vimucyatām",
-    "english": "'By the word of the preceptors, let my requisite materials be quickly assembled, and let the horse, guarded by capable men with its chaplain, be released.'"
-  },
-  {
-    "ref": "1.11.15",
-    "sanskrit": "sarayvāś cottare tīre yajñabhūmir vidhīyatām śāntayaś cābhivardhantāṃ yathākalpaṃ yathāvidhi",
-    "english": "'Let the sacrificial ground be prepared on the northern bank of the Sarayū, and let the auspicious rites be performed according to proper procedure and rule.'"
-  },
-  {
-    "ref": "1.11.16",
-    "sanskrit": "śakyaḥ kartum ayaṃ yajñaḥ sarveṇāpi mahīkṣitā nāparādho bhavet kaṣṭo yady asmin kratusattame",
-    "english": "'This sacrifice can be performed by any king, but there must be no grievous fault in this best of rites —'"
-  },
-  {
-    "ref": "1.11.17",
-    "sanskrit": "chidraṃ hi mṛgayante 'tra vidvāṃso brahmarākṣasāḥ vidhihīnasya yajñasya sadyaḥ kartā vinaśyati",
-    "english": "'For learned brahma-rākṣasas seek out any flaw here; the performer of a sacrifice that is deficient in proper procedure is instantly destroyed.'"
-  },
-  {
-    "ref": "1.11.18",
-    "sanskrit": "tad yathā vidhipūrvaṃ me kratur eṣa samāpyate tathāvidhānaṃ kriyatāṃ samarthāḥ karaṇeṣv iha",
-    "english": "'Therefore let the arrangements be made such that this rite of mine is completed according to proper procedure; let those who are capable attend to the execution.'"
-  },
-  {
-    "ref": "1.11.19",
-    "sanskrit": "tatheti ca tataḥ sarve mantriṇaḥ pratyapūjayan pārthivendrasya tad vākyaṃ yathājñaptam akurvata",
-    "english": "Then all the ministers applauded that speech of the lord of kings with the word 'so be it,' and carried out what had been commanded."
-  },
-  {
-    "ref": "1.11.20",
-    "sanskrit": "tato dvijās te dharmajñam astuvan pārthivarṣabham anujñātās tataḥ sarve punar jagmur yathāgatam",
-    "english": "Then those twice-born praised the dharma-knowing bull among kings; having been given leave, they all returned the way they had come."
-  },
-  {
-    "ref": "1.11.21",
-    "sanskrit": "gatānāṃ tu dvijātīnāṃ mantriṇas tān narādhipaḥ visarjayitvā svaṃ veśma praviveśa mahādyutiḥ",
-    "english": "After the twice-born had departed, the lord of men, of great splendour, dismissed those ministers and then entered his own palace."
-  },
-  {
-    "ref": "1.12.1",
-    "sanskrit": "punaḥ prāpte vasante tu pūrṇaḥ saṃvatsaro 'bhavat abhivādya vasiṣṭhaṃ ca nyāyataḥ pratipūjya ca",
-    "english": "When spring arrived again, a full year had passed. Having saluted Vasiṣṭha and duly honoured him —"
-  },
-  {
-    "ref": "1.12.2",
-    "sanskrit": "abravīt praśritaṃ vākyaṃ prasavārthaṃ dvijottamam yajño me kriyatāṃ vipra yathoktaṃ munipuṃgava",
-    "english": "— he spoke these humble words to the best of twice-born for the purpose of obtaining offspring: 'Let the sacrifice be performed for me, O brāhmaṇa, as has been prescribed, O foremost of sages.'"
-  },
-  {
-    "ref": "1.12.3",
-    "sanskrit": "yathā na vighnaḥ kriyate yajñāṅgeṣu vidhīyatām bhavān snigdhaḥ suhṛn mahyaṃ guruś ca paramo mahān",
-    "english": "'Let it be arranged that no obstacle arises in the limbs of the sacrifice. You are my affectionate friend, and the greatest and most eminent preceptor.'"
-  },
-  {
-    "ref": "1.12.4",
-    "sanskrit": "voḍhavyo bhavatā caiva bhāro yajñasya codyataḥ tatheti ca sa rājānam abravīd dvijasattamaḥ",
-    "english": "'The burden of this sacrifice, now set in motion, must be borne by you.' And the best of twice-born said to the king: 'So be it.'"
-  },
-  {
-    "ref": "1.12.5",
-    "sanskrit": "kariṣye sarvam evaitad bhavatā yat samarthitam tato 'bravīd dvijān vṛddhān yajñakarmasu niṣṭhitān",
-    "english": "'I shall do all of this that you have resolved upon.' Then he spoke to the senior brāhmaṇas who were established in sacrificial duties:"
-  },
-  {
-    "ref": "1.12.6",
-    "sanskrit": "sthāpatye niṣṭhitāṃś caiva vṛddhān paramadhārmikān karmāntikāñ śilpakārān vardhakīn khanakān api",
-    "english": "— to those well-established in architecture and construction, the senior and most pious ones; to the overseers of works, craftsmen, carpenters, and diggers —"
-  },
-  {
-    "ref": "1.12.7",
-    "sanskrit": "gaṇakāñ śilpinaś caiva tathaiva naṭanartakān tathā śucīñ śāstravidaḥ puruṣān subahuśrutān",
-    "english": "— to astrologers and artisans, similarly to actors and dancers, to pure men who were learned in the scriptures and widely read —"
-  },
-  {
-    "ref": "1.12.8",
-    "sanskrit": "yajñakarma samīhantāṃ bhavanto rājaśāsanāt iṣṭakā bahusāhasrī śīghram ānīyatām iti",
-    "english": "'By the king's command, let all of you attend to the sacrificial work. Let bricks by the many thousands be quickly brought.'"
-  },
-  {
-    "ref": "1.12.9",
-    "sanskrit": "aupakāryāḥ kriyantāṃ ca rājñāṃ bahuguṇānvitāḥ brāhmaṇāvasathāś caiva kartavyāḥ śataśaḥ śubhāḥ",
-    "english": "'And let the reception halls for the kings, furnished with many amenities, be built; let auspicious lodging-houses for brāhmaṇas be constructed by the hundreds.'"
-  },
-  {
-    "ref": "1.12.10",
-    "sanskrit": "bhakṣyānnapānair bahubhiḥ samupetāḥ suniṣṭhitāḥ tathā paurajanasyāpi kartavyā bahuvistarāḥ",
-    "english": "'Provided with abundant food and drink and well-established — and for the townspeople as well, let many spacious halls be made.'"
-  },
-  {
-    "ref": "1.12.11",
-    "sanskrit": "āvāsā bahubhakṣyā vai sarvakāmair upasthitāḥ tathā jānapadasyāpi janasya bahuśobhanam",
-    "english": "'Dwellings with abundant food, provided with all desired amenities — and let there be much splendour for the country folk as well.'"
-  },
-  {
-    "ref": "1.12.12",
-    "sanskrit": "dātavyam annaṃ vidhivat satkṛtya na tu līlayā sarve varṇā yathā pūjāṃ prāpnuvanti susatkṛtāḥ",
-    "english": "'Food is to be given according to proper rule, with honour — not carelessly — so that all classes of people are duly honoured and receive their proper respect.'"
-  },
-  {
-    "ref": "1.12.13",
-    "sanskrit": "na cāvajñā prayoktavyā kāmakrodhavaśād api yajñakarmasu ye 'vyagrāḥ puruṣāḥ śilpinas tathā",
-    "english": "'And no disrespect is to be shown even under the sway of desire or anger toward those men who are diligently engaged in the sacrificial duties, nor toward the craftsmen.'"
-  },
-  {
-    "ref": "1.12.14",
-    "sanskrit": "teṣām api viśeṣeṇa pūjā kāryā yathākramam yathā sarvaṃ suvihitaṃ na kiṃ cit parihīyate",
-    "english": "'They especially are to be honoured in due order, so that everything is well-arranged and nothing at all is neglected.'"
-  },
-  {
-    "ref": "1.12.15",
-    "sanskrit": "tathā bhavantaḥ kurvantu prītisnigdhena cetasā tataḥ sarve samāgamya vasiṣṭham idam abruvan",
-    "english": "'Act thus, all of you, with an affectionate and loving mind.' Then all of them assembled and said this to Vasiṣṭha:"
-  },
-  {
-    "ref": "1.12.16",
-    "sanskrit": "yathoktaṃ tat kariṣyāmo na kiṃ cit parihāsyate tataḥ sumantram āhūya vasiṣṭho vākyam abravīt",
-    "english": "'We shall do everything as instructed; nothing at all shall be neglected.' Then Vasiṣṭha, having called Sumantra, spoke these words:"
-  },
-  {
-    "ref": "1.12.17",
-    "sanskrit": "nimantrayasya nṛpatīn pṛthivyāṃ ye ca dhārmikāḥ brāhmaṇān kṣatriyān vaiśyāñ śūdrāṃś caiva sahasraśaḥ",
-    "english": "'Invite the kings on the earth who are righteous, and brāhmaṇas, kṣatriyas, vaiśyas, and śūdras by the thousands.'"
-  },
-  {
-    "ref": "1.12.18",
-    "sanskrit": "samānayasva satkṛtya sarvadeśeṣu mānavān mithilādhipatiṃ śūraṃ janakaṃ satyavikramam",
-    "english": "'Assemble and honour men from all lands. Bring the valiant lord of Mithilā, Janaka, true in his valour —'"
-  },
-  {
-    "ref": "1.12.19",
-    "sanskrit": "niṣṭhitaṃ sarvaśāstreṣu tathā vedeṣu niṣṭhitam tam ānaya mahābhāgaṃ svayam eva susatkṛtam pūrvasaṃbandhinaṃ jñātvā tataḥ pūrvaṃ bravīmi te",
-    "english": "'— who is versed in all the scriptures and likewise versed in the Vedas. Bring that greatly fortunate one, yourself, with due honour; knowing him to be an old kinsman, I speak of him first to you.'"
-  },
-  {
-    "ref": "1.12.20",
-    "sanskrit": "tathā kāśipatiṃ snigdhaṃ satataṃ priyavādinam sadvṛttaṃ devasaṃkāśaṃ svayam evānayasva ha",
-    "english": "'Similarly, the lord of Kāśī — affectionate, ever speaking pleasantly, of good conduct and god-like in appearance — bring him yourself.'"
-  },
-  {
-    "ref": "1.12.21",
-    "sanskrit": "tathā kekayarājānaṃ vṛddhaṃ paramadhārmikam śvaśuraṃ rājasiṃhasya saputraṃ tam ihānaya",
-    "english": "'Also, the aged and most righteous king of the Kekayas, father-in-law of this lion among kings — bring him here with his son.'"
-  },
-  {
-    "ref": "1.12.22",
-    "sanskrit": "aṅgeśvaraṃ mahābhāgaṃ lomapādaṃ susatkṛtam vayasyaṃ rājasiṃhasya tam ānaya yaśasvinam",
-    "english": "'The greatly fortunate lord of Aṅga, Lomapāda — who is to be honoured greatly and is the friend of this lion among kings — bring that illustrious one.'"
-  },
-  {
-    "ref": "1.12.23",
-    "sanskrit": "prācīnān sindhusauvīrān saurāṣṭhreyāṃś ca pārthivān dākṣiṇātyān narendrāṃś ca samastān ānayasva ha",
-    "english": "'Bring all of them — the kings of the east, of Sindhu and Sauvīra, the kings of Saurāṣṭra, and all the lords of men in the south.'"
-  },
-  {
-    "ref": "1.12.24",
-    "sanskrit": "santi snigdhāś ca ye cānye rājānaḥ pṛthivītale tān ānaya yathākṣipraṃ sānugān sahabāndhavān",
-    "english": "'And whatever other affectionate kings there are on the surface of the earth — bring them as quickly as possible, with their retinues and kinsmen.'"
-  },
-  {
-    "ref": "1.12.25",
-    "sanskrit": "vasiṣṭhavākyaṃ tac chrutvā sumantras tvaritas tadā vyādiśat puruṣāṃs tatra rājñām ānayane śubhān",
-    "english": "Having heard those words of Vasiṣṭha, Sumantra at once dispatched capable men there to bring the kings."
-  },
-  {
-    "ref": "1.12.26",
-    "sanskrit": "svayam eva hi dharmātmā prayayau muniśāsanāt sumantras tvarito bhūtvā samānetuṃ mahīkṣitaḥ",
-    "english": "For the righteous-souled Sumantra himself, acting swiftly by the sage's command, went to assemble the lords of the earth."
-  },
-  {
-    "ref": "1.12.27",
-    "sanskrit": "te ca karmāntikāḥ sarve vasiṣṭhāya ca dhīmate sarvaṃ nivedayanti sma yajñe yad upakalpitam",
-    "english": "And all the overseers of the works reported to the wise Vasiṣṭha everything that had been prepared for the sacrifice."
-  },
-  {
-    "ref": "1.12.28",
-    "sanskrit": "tataḥ prīto dvijaśreṣṭhas tān sarvān punar abravīt avajñayā na dātavyaṃ kasya cil līlayāpi vā avajñayā kṛtaṃ hanyād dātāraṃ nātra saṃśayaḥ",
-    "english": "Then the best of twice-born, pleased, spoke again to all of them: 'Nothing is to be given to anyone with disrespect or carelessly, for what is given with disrespect destroys the giver — there is no doubt in this.'"
-  },
-  {
-    "ref": "1.12.29",
-    "sanskrit": "tataḥ kaiś cid ahorātrair upayātā mahīkṣitaḥ bahūni ratnāny ādāya rājño daśarathasya ha",
-    "english": "Then within a few days and nights, the lords of the earth arrived, bringing many jewels and treasures for King Daśaratha."
-  },
-  {
-    "ref": "1.12.30",
-    "sanskrit": "tato vasiṣṭhaḥ suprīto rājānam idam abravīt upayātā naravyāghra rājānas tava śāsanāt",
-    "english": "Then Vasiṣṭha, greatly pleased, said this to the king: 'O tiger among men, the kings have arrived at your command.'"
-  },
-  {
-    "ref": "1.12.31",
-    "sanskrit": "mayāpi satkṛtāḥ sarve yathārhaṃ rājasattamāḥ yajñiyaṃ ca kṛtaṃ rājan puruṣaiḥ susamāhitaiḥ",
-    "english": "'By me also all the best of kings have been honoured as they deserve. And the sacrificial ground, O king, has been made ready by men of concentrated minds.'"
-  },
-  {
-    "ref": "1.12.32",
-    "sanskrit": "niryātu ca bhavān yaṣṭuṃ yajñāyatanam antikāt sarvakāmair upahṛtair upetaṃ vai samantataḥ",
-    "english": "'And let your majesty proceed to the sacrificial enclosure nearby, which is provided on all sides with all desired offerings brought.'"
-  },
-  {
-    "ref": "1.12.33",
-    "sanskrit": "tathā vasiṣṭhavacanād ṛśyaśṛṅgasya cobhayoḥ śubhe divasa nakṣatre niryāto jagatīpatiḥ",
-    "english": "In accordance with the words of both Vasiṣṭha and Ṛśyaśṛṅga, on an auspicious day and under an auspicious asterism, the lord of the earth set forth."
-  },
-  {
-    "ref": "1.12.34",
-    "sanskrit": "tato vasiṣṭhapramukhāḥ sarva eva dvijottamāḥ ṛśyaśṛṅgaṃ puraskṛtya yajñakarmārabhaṃs tadā",
-    "english": "Then all those best of twice-born, with Vasiṣṭha at their head, placing Ṛśyaśṛṅga in the lead, thereupon commenced the work of the sacrifice."
-  }
+{"ref": "1.10.1", "sanskrit": "bhūya eva ca rājendra śṛṇu me vacanaṃ hitam yathā sa devapravaraḥ kathāyām evam abravīt", "english": "And hear again, O lord of kings, my beneficial words — just as that foremost of gods spoke thus in the story."},
+{"ref": "1.10.2", "sanskrit": "ikṣvākūṇāṃ kule jāto bhaviṣyati sudhārmikaḥ rājā daśaratho nāmnā śrīmān satyapratiśravaḥ", "english": "Born in the lineage of the Ikṣvākus there shall be a most righteous king named Daśaratha — glorious and true to his word."},
+{"ref": "1.10.3", "sanskrit": "aṅgarājena sakhyaṃ ca tasya rājño bhaviṣyati kanyā cāsya mahābhāgā śāntā nāma bhaviṣyati", "english": "That king will have a friendship with the king of Aṅga, and this king will have a greatly fortunate daughter named Śāntā."},
+{"ref": "1.10.4", "sanskrit": "putras tv aṅgasya rājñas tu lomapāda iti śrutaḥ taṃ sa rājā daśaratho gamiṣyati mahāyaśāḥ", "english": "The son of the king of Aṅga is known as Lomapāda; the greatly renowned King Daśaratha shall go to him."},
+{"ref": "1.10.5", "sanskrit": "anapatyo 'smi dharmātmañ śāntābhartā mama kratum āhareta tvayājñaptaḥ saṃtānārthaṃ kulasya ca", "english": "'I am without a son, O righteous one; let Śāntā's husband, directed by you, perform the sacrificial rite for me, for the continuation of my lineage.'"},
+{"ref": "1.10.6", "sanskrit": "śrutvā rājño 'tha tad vākyaṃ manasā sa vicintya ca pradāsyate putravantaṃ śāntā bhartāram ātmavān", "english": "Having heard the king's words and reflected on them in his mind, that self-possessed one will give Śāntā a husband who will bring sons."},
+{"ref": "1.10.7", "sanskrit": "pratigṛhya ca taṃ vipraṃ sa rājā vigatajvaraḥ āhariṣyati taṃ yajñaṃ prahṛṣṭenāntarātmanā", "english": "And having received that brāhmaṇa, the king, freed from his anguish, will perform that sacrifice with a heart full of joy."},
+{"ref": "1.10.8", "sanskrit": "taṃ ca rājā daśaratho yaṣṭukāmaḥ kṛtāñjaliḥ ṛśyaśṛṅgaṃ dvijaśreṣṭhaṃ varayiṣyati dharmavit", "english": "And King Daśaratha, desirous of performing the sacrifice and knowledgeable in dharma, will choose with joined palms that best of twice-born, Ṛśyaśṛṅga."},
+{"ref": "1.10.9", "sanskrit": "yajñārthaṃ prasavārthaṃ ca svargārthaṃ ca nareśvaraḥ labhate ca sa taṃ kāmaṃ dvijamukhyād viśāṃ patiḥ", "english": "For the purpose of the sacrifice, for offspring, and for heaven, that lord of men, that master of his people, will obtain his desired wish through that foremost of twice-born."},
+{"ref": "1.10.10", "sanskrit": "putrāś cāsya bhaviṣyanti catvāro 'mitavikramāḥ vaṃśapratiṣṭhānakarāḥ sarvalokeṣu viśrutāḥ", "english": "And he shall have four sons of immeasurable valour, establishers of the family line, renowned throughout all the worlds."},
+{"ref": "1.10.11", "sanskrit": "evaṃ sa devapravaraḥ pūrvaṃ kathitavān kathām sanatkumāro bhagavān purā devayuge prabhuḥ", "english": "Thus did that foremost of gods, the blessed Sanatkumāra, the lord, narrate this story of old in the age of the gods."},
+{"ref": "1.10.12", "sanskrit": "sa tvaṃ puruṣaśārdūla tam ānaya susatkṛtam svayam eva mahārāja gatvā sabalavāhanaḥ", "english": "O tiger among men, O great king — go yourself with your army and retinue and bring him here, well-honoured."},
+{"ref": "1.10.13", "sanskrit": "anumānya vasiṣṭhaṃ ca sūtavākyaṃ niśamya ca sāntaḥpuraḥ sahāmātyaḥ prayayau yatra sa dvijaḥ", "english": "Having taken Vasiṣṭha's leave and heeding the sūta's words, he set out with his inner-palace household and ministers to where that brāhmaṇa dwelt."},
+{"ref": "1.10.14", "sanskrit": "vanāni saritaś caiva vyatikramya śanaiḥ śanaiḥ abhicakrāma taṃ deśaṃ yatra vai munipuṃgavaḥ", "english": "Crossing forests and rivers one by one, he gradually arrived at the region where that foremost sage resided."},
+{"ref": "1.10.15", "sanskrit": "āsādya taṃ dvijaśreṣṭhaṃ lomapādasamīpagam ṛṣiputraṃ dadarśādau dīpyamānam ivānalam", "english": "Approaching that best of twice-born who was near Lomapāda, he first beheld the son of the ṛṣi blazing like a fire."},
+{"ref": "1.10.16", "sanskrit": "tato rājā yathānyāyaṃ pūjāṃ cakre viśeṣataḥ sakhitvāt tasya vai rājñaḥ prahṛṣṭenāntarātmanā", "english": "Then the king honoured him duly and with especial distinction, out of friendship toward that king, with a heart overflowing with joy."},
+{"ref": "1.10.17", "sanskrit": "lomapādena cākhyātam ṛṣiputrāya dhīmate sakhyaṃ saṃbandhakaṃ caiva tadā taṃ pratyapūjayat", "english": "And Lomapāda explained to the wise son of the ṛṣi the bond of friendship and kinship between them; Ṛśyaśṛṅga then honoured Daśaratha in return."},
+{"ref": "1.10.18", "sanskrit": "evaṃ susatkṛtas tena sahoṣitvā nararṣabhaḥ saptāṣṭadivasān rājā rājānam idam abravīt", "english": "Thus well-honoured by him, that bull among men, the king, having dwelt there seven or eight days, said this to the king:"},
+{"ref": "1.10.19", "sanskrit": "śāntā tava sutā rājan saha bhartrā viśāmpate madīyaṃ nagaraṃ yātu kāryaṃ hi mahad udyatam", "english": "'O king, O lord of the people, let Śāntā, your daughter, go with her husband to my city — for a great task is at hand.'"},
+{"ref": "1.10.20", "sanskrit": "tatheti rājā saṃśrutya gamanaṃ tasya dhīmataḥ uvāca vacanaṃ vipraṃ gaccha tvaṃ saha bhāryayā", "english": "Consenting with the word 'so be it' to the departure of that wise man, the king said to the brāhmaṇa: 'Go, with your wife.'"},
+{"ref": "1.10.21", "sanskrit": "ṛṣiputraḥ pratiśrutya tathety āha nṛpaṃ tadā sa nṛpeṇābhyanujñātaḥ prayayau saha bhāryayā", "english": "The son of the ṛṣi, agreeing, said 'so be it' to the king; then, given leave by the king, he departed with his wife."},
+{"ref": "1.10.22", "sanskrit": "tāv anyonyāñjaliṃ kṛtvā snehāt saṃśliṣya corasā nanandatur daśaratho lomapādaś ca vīryavān", "english": "The two of them — Daśaratha and the valiant Lomapāda — clasped hands with each other and embraced chest to chest out of affection, and were glad."},
+{"ref": "1.10.23", "sanskrit": "tataḥ suhṛdam āpṛcchya prasthito raghunandanaḥ paurebhyaḥ preṣayām āsa dūtān vai śīghragāminaḥ kriyatāṃ nagaraṃ sarvaṃ kṣipram eva svalaṃkṛtam", "english": "Then, taking leave of his friend and setting out, the joy of the Raghus sent swift messengers ahead to the citizens: 'Let the entire city be quickly and handsomely adorned.'"},
+{"ref": "1.10.24", "sanskrit": "tataḥ prahṛṣṭāḥ paurās te śrutvā rājānam āgatam tathā pracakrus tat sarvaṃ rājñā yat preṣitaṃ tadā", "english": "Then those joyful citizens, hearing that the king had come, did everything the king had sent word to do."},
+{"ref": "1.10.25", "sanskrit": "tataḥ svalaṃkṛtaṃ rājā nagaraṃ praviveśa ha śaṅkhadundubhinirghoṣaiḥ puraskṛtya dvijarṣabham", "english": "Then the king entered the handsomely adorned city to the sound of conches and kettledrums, placing the bull among twice-born at the head of the procession."},
+{"ref": "1.10.26", "sanskrit": "tataḥ pramuditāḥ sarve dṛṣṭvā taṃ nāgarā dvijam praveśyamānaṃ satkṛtya narendreṇendrakarmaṇā", "english": "Then all the townspeople were overjoyed, seeing that brāhmaṇa being ushered in with honour by the king who acts like Indra."},
+{"ref": "1.10.27", "sanskrit": "antaḥpuraṃ praveśyainaṃ pūjāṃ kṛtvā tu śāstrataḥ kṛtakṛtyaṃ tadātmānaṃ mene tasyopavāhanāt", "english": "Having led him into the inner apartments and honoured him according to the scriptures, he considered himself fulfilled by the mere arrival of that sage."},
+{"ref": "1.10.28", "sanskrit": "antaḥpurāṇi sarvāṇi śāntāṃ dṛṣṭvā tathāgatām saha bhartrā viśālākṣīṃ prītyānandam upāgaman", "english": "All the women of the inner apartments, seeing Śāntā arrive thus with her husband — she of wide eyes — were filled with delight and joy."},
+{"ref": "1.10.29", "sanskrit": "pūjyamānā ca tābhiḥ sā rājñā caiva viśeṣataḥ uvāsa tatra sukhitā kaṃ cit kālaṃ saha dvijā", "english": "Honoured by them and especially by the king, she lived there happily for some time together with the brāhmaṇa."},
+{"ref": "1.11.1", "sanskrit": "tataḥ kāle bahutithe kasmiṃś cit sumanohare vasante samanuprāpte rājño yaṣṭuṃ mano 'bhavat", "english": "Then, after a long time had passed and a certain delightful spring had arrived, the king's mind turned toward performing a sacrifice."},
+{"ref": "1.11.2", "sanskrit": "tataḥ prasādya śirasā taṃ vipraṃ devavarṇinam yajñāya varayām āsa saṃtānārthaṃ kulasya vai", "english": "Then, reverently bowing his head to that brāhmaṇa who was like a god in appearance, he chose him for the sacrifice — for the sake of progeny and the continuation of his lineage."},
+{"ref": "1.11.3", "sanskrit": "tatheti ca sa rājānam uvāca ca susatkṛtaḥ saṃbhārāḥ saṃbhriyantāṃ te turagaś ca vimucyatām", "english": "And he, well-honoured, said to the king: 'So be it.' 'Let your requisite materials be gathered and let the horse be released.'"},
+{"ref": "1.11.4", "sanskrit": "tato rājābravīd vākyaṃ sumantraṃ mantrisattamam sumantrāvāhaya kṣipram ṛtvijo brahmavādinaḥ", "english": "Then the king spoke to Sumantra, the best of ministers: 'Sumantra, quickly summon the ritual officiants, the knowers of the Veda.'"},
+{"ref": "1.11.5", "sanskrit": "tataḥ sumantras tvaritaṃ gatvā tvaritavikramaḥ samānayat sa tān viprān samastān vedapāragān", "english": "Then Sumantra, of swift movement, went quickly and assembled all those brāhmaṇas who had mastered the Veda."},
+{"ref": "1.11.6", "sanskrit": "suyajñaṃ vāmadevaṃ ca jābālim atha kāśyapam purohitaṃ vasiṣṭhaṃ ca ye cānye dvijasattamāḥ", "english": "Suyajña, Vāmadeva, Jābāli, Kāśyapa, the family priest Vasiṣṭha, and whatever other best among twice-born there were —"},
+{"ref": "1.11.7", "sanskrit": "tān pūjayitvā dharmātmā rājā daśarathas tadā idaṃ dharmārthasahitaṃ ślakṣṇaṃ vacanam abravīt", "english": "Having honoured them, the righteous-souled King Daśaratha then spoke these gentle words full of dharma and purpose:"},
+{"ref": "1.11.8", "sanskrit": "mama lālapyamānasya putrārthaṃ nāsti vai sukham tadarthaṃ hayamedhena yakṣyāmīti matir mama", "english": "'For me, yearning as I am, there is no happiness without a son. For that reason it is my intention to sacrifice with the horse sacrifice.'"},
+{"ref": "1.11.9", "sanskrit": "tad ahaṃ yaṣṭum icchāmi śāstradṛṣṭena karmaṇā ṛṣiputraprabhāvena kāmān prāpsyāmi cāpy aham", "english": "'I wish to perform the rite as prescribed by scripture. Through the power of the ṛṣi's son I shall attain my desires.'"},
+{"ref": "1.11.10", "sanskrit": "tataḥ sādhv iti tad vākyaṃ brāhmaṇāḥ pratyapūjayan vasiṣṭhapramukhāḥ sarve pārthivasya mukhāc cyutam", "english": "Then all the brāhmaṇas, with Vasiṣṭha at their head, applauded that speech which had fallen from the king's mouth with the words: 'Excellent!'"},
+{"ref": "1.11.11", "sanskrit": "ṛśyaśṛṅgapurogāś ca pratyūcur nṛpatiṃ tadā saṃbhārāḥ saṃbhriyantāṃ te turagaś ca vimucyatām", "english": "With Ṛśyaśṛṅga at their head, they spoke to the king: 'Let your requisite materials be gathered and let the horse be released.'"},
+{"ref": "1.11.12", "sanskrit": "sarvathā prāpyase putrāṃś caturo 'mitavikramān yasya te dhārmikī buddhir iyaṃ putrārtham āgatā", "english": "'You will certainly obtain four sons of immeasurable valour, since this righteous resolve has arisen in you for the sake of sons.'"},
+{"ref": "1.11.13", "sanskrit": "tataḥ prīto 'bhavad rājā śrutvā tad dvijabhāṣitam amātyāṃś cābravīd rājā harṣeṇedaṃ śubhākṣaram", "english": "Then the king was delighted hearing what the twice-born had said, and the king, with joy, spoke these auspicious words to his ministers:"},
+{"ref": "1.11.14", "sanskrit": "gurūṇāṃ vacanāc chīghraṃ saṃbhārāḥ saṃbhriyantu me samarthādhiṣṭhitaś cāśvaḥ sopādhyāyo vimucyatām", "english": "'By the word of the preceptors, let my requisite materials be quickly assembled, and let the horse, guarded by capable men with its chaplain, be released.'"},
+{"ref": "1.11.15", "sanskrit": "sarayvāś cottare tīre yajñabhūmir vidhīyatām śāntayaś cābhivardhantāṃ yathākalpaṃ yathāvidhi", "english": "'Let the sacrificial ground be prepared on the northern bank of the Sarayū, and let the auspicious rites be performed according to proper procedure and rule.'"},
+{"ref": "1.11.16", "sanskrit": "śakyaḥ kartum ayaṃ yajñaḥ sarveṇāpi mahīkṣitā nāparādho bhavet kaṣṭo yady asmin kratusattame", "english": "'This sacrifice can be performed by any king, but there must be no grievous fault in this best of rites —'"},
+{"ref": "1.11.17", "sanskrit": "chidraṃ hi mṛgayante 'tra vidvāṃso brahmarākṣasāḥ vidhihīnasya yajñasya sadyaḥ kartā vinaśyati", "english": "'For learned brahma-rākṣasas seek out any flaw here; the performer of a sacrifice that is deficient in proper procedure is instantly destroyed.'"},
+{"ref": "1.11.18", "sanskrit": "tad yathā vidhipūrvaṃ me kratur eṣa samāpyate tathāvidhānaṃ kriyatāṃ samarthāḥ karaṇeṣv iha", "english": "'Therefore let the arrangements be made such that this rite of mine is completed according to proper procedure; let those who are capable attend to the execution.'"},
+{"ref": "1.11.19", "sanskrit": "tatheti ca tataḥ sarve mantriṇaḥ pratyapūjayan pārthivendrasya tad vākyaṃ yathājñaptam akurvata", "english": "Then all the ministers applauded that speech of the lord of kings with the word 'so be it,' and carried out what had been commanded."},
+{"ref": "1.11.20", "sanskrit": "tato dvijās te dharmajñam astuvan pārthivarṣabham anujñātās tataḥ sarve punar jagmur yathāgatam", "english": "Then those twice-born praised the dharma-knowing bull among kings; having been given leave, they all returned the way they had come."},
+{"ref": "1.11.21", "sanskrit": "gatānāṃ tu dvijātīnāṃ mantriṇas tān narādhipaḥ visarjayitvā svaṃ veśma praviveśa mahādyutiḥ", "english": "After the twice-born had departed, the lord of men, of great splendour, dismissed those ministers and then entered his own palace."},
+{"ref": "1.12.1", "sanskrit": "punaḥ prāpte vasante tu pūrṇaḥ saṃvatsaro 'bhavat abhivādya vasiṣṭhaṃ ca nyāyataḥ pratipūjya ca", "english": "When spring arrived again, a full year had passed. Having saluted Vasiṣṭha and duly honoured him —"},
+{"ref": "1.12.2", "sanskrit": "abravīt praśritaṃ vākyaṃ prasavārthaṃ dvijottamam yajño me kriyatāṃ vipra yathoktaṃ munipuṃgava", "english": "— he spoke these humble words to the best of twice-born for the purpose of obtaining offspring: 'Let the sacrifice be performed for me, O brāhmaṇa, as has been prescribed, O foremost of sages.'"},
+{"ref": "1.12.3", "sanskrit": "yathā na vighnaḥ kriyate yajñāṅgeṣu vidhīyatām bhavān snigdhaḥ suhṛn mahyaṃ guruś ca paramo mahān", "english": "'Let it be arranged that no obstacle arises in the limbs of the sacrifice. You are my affectionate friend, and the greatest and most eminent preceptor.'"},
+{"ref": "1.12.4", "sanskrit": "voḍhavyo bhavatā caiva bhāro yajñasya codyataḥ tatheti ca sa rājānam abravīd dvijasattamaḥ", "english": "'The burden of this sacrifice, now set in motion, must be borne by you.' And the best of twice-born said to the king: 'So be it.'"},
+{"ref": "1.12.5", "sanskrit": "kariṣye sarvam evaitad bhavatā yat samarthitam tato 'bravīd dvijān vṛddhān yajñakarmasu niṣṭhitān", "english": "'I shall do all of this that you have resolved upon.' Then he spoke to the senior brāhmaṇas who were established in sacrificial duties:"},
+{"ref": "1.12.6", "sanskrit": "sthāpatye niṣṭhitāṃś caiva vṛddhān paramadhārmikān karmāntikāñ śilpakārān vardhakīn khanakān api", "english": "— to those well-established in architecture and construction, the senior and most pious ones; to the overseers of works, craftsmen, carpenters, and diggers —"},
+{"ref": "1.12.7", "sanskrit": "gaṇakāñ śilpinaś caiva tathaiva naṭanartakān tathā śucīñ śāstravidaḥ puruṣān subahuśrutān", "english": "— to astrologers and artisans, similarly to actors and dancers, to pure men who were learned in the scriptures and widely read —"},
+{"ref": "1.12.8", "sanskrit": "yajñakarma samīhantāṃ bhavanto rājaśāsanāt iṣṭakā bahusāhasrī śīghram ānīyatām iti", "english": "'By the king's command, let all of you attend to the sacrificial work. Let bricks by the many thousands be quickly brought.'"},
+{"ref": "1.12.9", "sanskrit": "aupakāryāḥ kriyantāṃ ca rājñāṃ bahuguṇānvitāḥ brāhmaṇāvasathāś caiva kartavyāḥ śataśaḥ śubhāḥ", "english": "'And let the reception halls for the kings, furnished with many amenities, be built; let auspicious lodging-houses for brāhmaṇas be constructed by the hundreds.'"},
+{"ref": "1.12.10", "sanskrit": "bhakṣyānnapānair bahubhiḥ samupetāḥ suniṣṭhitāḥ tathā paurajanasyāpi kartavyā bahuvistarāḥ", "english": "'Provided with abundant food and drink and well-established — and for the townspeople as well, let many spacious halls be made.'"},
+{"ref": "1.12.11", "sanskrit": "āvāsā bahubhakṣyā vai sarvakāmair upasthitāḥ tathā jānapadasyāpi janasya bahuśobhanam", "english": "'Dwellings with abundant food, provided with all desired amenities — and let there be much splendour for the country folk as well.'"},
+{"ref": "1.12.12", "sanskrit": "dātavyam annaṃ vidhivat satkṛtya na tu līlayā sarve varṇā yathā pūjāṃ prāpnuvanti susatkṛtāḥ", "english": "'Food is to be given according to proper rule, with honour — not carelessly — so that all classes of people are duly honoured and receive their proper respect.'"},
+{"ref": "1.12.13", "sanskrit": "na cāvajñā prayoktavyā kāmakrodhavaśād api yajñakarmasu ye 'vyagrāḥ puruṣāḥ śilpinas tathā", "english": "'And no disrespect is to be shown even under the sway of desire or anger toward those men who are diligently engaged in the sacrificial duties, nor toward the craftsmen.'"},
+{"ref": "1.12.14", "sanskrit": "teṣām api viśeṣeṇa pūjā kāryā yathākramam yathā sarvaṃ suvihitaṃ na kiṃ cit parihīyate", "english": "'They especially are to be honoured in due order, so that everything is well-arranged and nothing at all is neglected.'"},
+{"ref": "1.12.15", "sanskrit": "tathā bhavantaḥ kurvantu prītisnigdhena cetasā tataḥ sarve samāgamya vasiṣṭham idam abruvan", "english": "'Act thus, all of you, with an affectionate and loving mind.' Then all of them assembled and said this to Vasiṣṭha:"},
+{"ref": "1.12.16", "sanskrit": "yathoktaṃ tat kariṣyāmo na kiṃ cit parihāsyate tataḥ sumantram āhūya vasiṣṭho vākyam abravīt", "english": "'We shall do everything as instructed; nothing at all shall be neglected.' Then Vasiṣṭha, having called Sumantra, spoke these words:"},
+{"ref": "1.12.17", "sanskrit": "nimantrayasya nṛpatīn pṛthivyāṃ ye ca dhārmikāḥ brāhmaṇān kṣatriyān vaiśyāñ śūdrāṃś caiva sahasraśaḥ", "english": "'Invite the kings on the earth who are righteous, and brāhmaṇas, kṣatriyas, vaiśyas, and śūdras by the thousands.'"},
+{"ref": "1.12.18", "sanskrit": "samānayasva satkṛtya sarvadeśeṣu mānavān mithilādhipatiṃ śūraṃ janakaṃ satyavikramam", "english": "'Assemble and honour men from all lands. Bring the valiant lord of Mithilā, Janaka, true in his valour —'"},
+{"ref": "1.12.19", "sanskrit": "niṣṭhitaṃ sarvaśāstreṣu tathā vedeṣu niṣṭhitam tam ānaya mahābhāgaṃ svayam eva susatkṛtam pūrvasaṃbandhinaṃ jñātvā tataḥ pūrvaṃ bravīmi te", "english": "'— who is versed in all the scriptures and likewise versed in the Vedas. Bring that greatly fortunate one, yourself, with due honour; knowing him to be an old kinsman, I speak of him first to you.'"},
+{"ref": "1.12.20", "sanskrit": "tathā kāśipatiṃ snigdhaṃ satataṃ priyavādinam sadvṛttaṃ devasaṃkāśaṃ svayam evānayasva ha", "english": "'Similarly, the lord of Kāśi — affectionate, ever speaking pleasantly, of good conduct and god-like in appearance — bring him yourself.'"},
+{"ref": "1.12.21", "sanskrit": "tathā kekayarājānaṃ vṛddhaṃ paramadhārmikam śvaśuraṃ rājasiṃhasya saputraṃ tam ihānaya", "english": "'Also, the aged and most righteous king of the Kekayas, father-in-law of this lion among kings — bring him here with his son.'"},
+{"ref": "1.12.22", "sanskrit": "aṅgeśvaraṃ mahābhāgaṃ lomapādaṃ susatkṛtam vayasyaṃ rājasiṃhasya tam ānaya yaśasvinam", "english": "'The greatly fortunate lord of Aṅga, Lomapāda — who is to be honoured greatly and is the friend of this lion among kings — bring that illustrious one.'"},
+{"ref": "1.12.23", "sanskrit": "prācīnān sindhusauvīrān saurāṣṭhreyāṃś ca pārthivān dākṣiṇātyān narendrāṃś ca samastān ānayasva ha", "english": "'Bring all of them — the kings of the east, of Sindhu and Sauvīra, the kings of Saurāṣṭra, and all the lords of men in the south.'"},
+{"ref": "1.12.24", "sanskrit": "santi snigdhāś ca ye cānye rājānaḥ pṛthivītale tān ānaya yathākṣipraṃ sānugān sahabāndhavān", "english": "'And whatever other affectionate kings there are on the surface of the earth — bring them as quickly as possible, with their retinues and kinsmen.'"},
+{"ref": "1.12.25", "sanskrit": "vasiṣṭhavākyaṃ tac chrutvā sumantras tvaritas tadā vyādiśat puruṣāṃs tatra rājñām ānayane śubhān", "english": "Having heard those words of Vasiṣṭha, Sumantra at once dispatched capable men there to bring the kings."},
+{"ref": "1.12.26", "sanskrit": "svayam eva hi dharmātmā prayayau muniśāsanāt sumantras tvarito bhūtvā samānetuṃ mahīkṣitaḥ", "english": "For the righteous-souled Sumantra himself, acting swiftly by the sage's command, went to assemble the lords of the earth."},
+{"ref": "1.12.27", "sanskrit": "te ca karmāntikāḥ sarve vasiṣṭhāya ca dhīmate sarvaṃ nivedayanti sma yajñe yad upakalpitam", "english": "And all the overseers of the works reported to the wise Vasiṣṭha everything that had been prepared for the sacrifice."},
+{"ref": "1.12.28", "sanskrit": "tataḥ prīto dvijaśreṣṭhas tān sarvān punar abravīt avajñayā na dātavyaṃ kasya cil līlayāpi vā avajñayā kṛtaṃ hanyād dātāraṃ nātra saṃśayaḥ", "english": "Then the best of twice-born, pleased, spoke again to all of them: 'Nothing is to be given to anyone with disrespect or carelessly, for what is given with disrespect destroys the giver — there is no doubt in this.'"},
+{"ref": "1.12.29", "sanskrit": "tataḥ kaiś cid ahorātrair upayātā mahīkṣitaḥ bahūni ratnāny ādāya rājño daśarathasya ha", "english": "Then within a few days and nights, the lords of the earth arrived, bringing many jewels and treasures for King Daśaratha."},
+{"ref": "1.12.30", "sanskrit": "tato vasiṣṭhaḥ suprīto rājānam idam abravīt upayātā naravyāghra rājānas tava śāsanāt", "english": "Then Vasiṣṭha, greatly pleased, said this to the king: 'O tiger among men, the kings have arrived at your command.'"},
+{"ref": "1.12.31", "sanskrit": "mayāpi satkṛtāḥ sarve yathārhaṃ rājasattamāḥ yajñiyaṃ ca kṛtaṃ rājan puruṣaiḥ susamāhitaiḥ", "english": "'By me also all the best of kings have been honoured as they deserve. And the sacrificial ground, O king, has been made ready by men of concentrated minds.'"},
+{"ref": "1.12.32", "sanskrit": "niryātu ca bhavān yaṣṭuṃ yajñāyatanam antikāt sarvakāmair upahṛtair upetaṃ vai samantataḥ", "english": "'And let your majesty proceed to the sacrificial enclosure nearby, which is provided on all sides with all desired offerings brought.'"},
+{"ref": "1.12.33", "sanskrit": "tathā vasiṣṭhavacanād ṛśyaśṛṅgasya cobhayoḥ śubhe divasa nakṣatre niryāto jagatīpatiḥ", "english": "In accordance with the words of both Vasiṣṭha and Ṛśyaśṛṅga, on an auspicious day and under an auspicious asterism, the lord of the earth set forth."},
+{"ref": "1.12.34", "sanskrit": "tato vasiṣṭhapramukhāḥ sarva eva dvijottamāḥ ṛśyaśṛṅgaṃ puraskṛtya yajñakarmārabhaṃs tadā", "english": "Then all those best of twice-born, with Vasiṣṭha at their head, placing Ṛśyaśṛṅga in the lead, thereupon commenced the work of the sacrifice."}
 ]

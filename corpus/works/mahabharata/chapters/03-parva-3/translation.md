@@ -638,7 +638,7 @@ translator: thothica
 
 **3.11.21**  "For they are all tigers among men, heroes who fight with great valour, all with the strength of ten thousand elephants, with bodies firm as the thunderbolt, resolute."
 
-**3.11.22**  "All devoted to vows of truth, all honouring themselves as men, slayers of the enemies of the gods, of shape-shifting rakshasas — chief among them Hiḍimba, Baka, and the rakshasa Kirmira."
+**3.11.22**  "All devoted to vows of truth, all honouring themselves as men, slayers of the enemies of the gods, of shape-shifting rakshasas — chief among them Hiḍimba, Baka, and the rakshasa Kirmīra."
 
 **3.11.23**  "That one who, as those great-souled ones were departing from here one night, stood blocking their path, fierce in nature, immovable as a mountain —"
 
@@ -668,13 +668,13 @@ translator: thothica
 
 **3.11.36**  Maitreya said: "If your son, O king, pursues peace by any means, then the curse shall not come to pass; but if he acts otherwise, it shall."
 
-**3.11.37**  Vaiśaṃpāyana said: Embarrassed, the father of Duryodhana then asked Maitreya, "O king of sages, how was Kirmira slain by Bhīma?"
+**3.11.37**  Vaiśaṃpāyana said: Embarrassed, the father of Duryodhana then asked Maitreya, "O king of sages, how was Kirmīra slain by Bhīma?"
 
 **3.11.38**  Maitreya said: "I shall not tell it, for you bear jealousy, and your son does not heed my words. This Vidura will tell you everything once I have gone."
 
-**3.11.39**  Vaiśaṃpāyana said: Having spoken thus, Maitreya departed by the way he had come; and Duryodhana, disturbed by the news of Kirmira's slaying, went outside.
+**3.11.39**  Vaiśaṃpāyana said: Having spoken thus, Maitreya departed by the way he had come; and Duryodhana, disturbed by the news of Kirmīra's slaying, went outside.
 
-**3.12.1**  Dhṛtarāṣṭra said: "O Kṣattā, I wish to hear of the slaying of Kirmira — tell me how the encounter came about between Bhīmasena and that demon."
+**3.12.1**  Dhṛtarāṣṭra said: "O Kṣattā, I wish to hear of the slaying of Kirmīra — tell me how the encounter came about between Bhīmasena and that demon."
 
 **3.12.2**  Vidura said: "Hear this deed of Bhīma, whose acts surpass human measure — I have heard it before in the accounts told of them again and again."
 
@@ -716,7 +716,7 @@ translator: thothica
 
 **3.12.21**  "Then the far-sighted King Yudhiṣṭhira addressed him: 'Who are you, and whose? What is your purpose here — tell us what must be done for you.'"
 
-**3.12.22**  "Then that demon replied to Dharmarāja Yudhiṣṭhira: 'I am the brother of Baka, known by the name Kirmira.'"
+**3.12.22**  "Then that demon replied to Dharmarāja Yudhiṣṭhira: 'I am the brother of Baka, known by the name Kirmīra.'"
 
 **3.12.23**  "'I dwell in this desolate Kāmyaka forest at my ease, defeating men in battle and making them my daily food.'"
 
@@ -728,7 +728,7 @@ translator: thothica
 
 **3.12.27**  "'Having had my kingdom taken away and resolved to live in the forest, I have entered this dreadful forest that is your domain.'"
 
-**3.12.28**  "Kirmira then said to him: 'By good fortune the gods have brought about for me today what I have long desired in my heart.'"
+**3.12.28**  "Kirmīra then said to him: 'By good fortune the gods have brought about for me today what I have long desired in my heart.'"
 
 **3.12.29**  "'For the sake of killing Bhīmasena I have always roamed the whole earth with weapon raised, yet have never come upon him.'"
 
@@ -764,9 +764,9 @@ translator: thothica
 
 **3.12.45**  "But Bhīma, foremost among warriors, kicked away that hurled firebrand with his left foot; then the demon came at him again."
 
-**3.12.46**  "And Kirmira too, swiftly uprooting a tree, fought back against the Pāṇḍava in battle, like an enraged officer with his staff."
+**3.12.46**  "And Kirmīra too, swiftly uprooting a tree, fought back against the Pāṇḍava in battle, like an enraged officer with his staff."
 
-**3.12.47**  "That battle with trees became a destruction of the forest, like the fight of the brothers Vali and Sugrīva of old, each striving for glory."
+**3.12.47**  "That battle with trees became a destruction of the forest, like the fight of the brothers Vālī and Sugrīva of old, each striving for glory."
 
 **3.12.48**  "Trees fell upon their heads and were broken in many pieces, just as lotus flowers and water-lilies are crushed between two rutting elephants."
 
@@ -810,7 +810,7 @@ translator: thothica
 
 **3.12.68**  "When that demon resembling a rain cloud was slain, the sons of the king of men, placing Kṛṣṇā before them, praised Bhīma with many virtues and then, glad of heart, proceeded to the Dvaita forest."
 
-**3.12.69**  "Thus was Kirmira slain in battle, O lord of men, by Bhīma, at the word of that Dharma-king, O Kaurava."
+**3.12.69**  "Thus was Kirmīra slain in battle, O lord of men, by Bhīma, at the word of that Dharma-king, O Kaurava."
 
 **3.12.70**  "Then the undefeated knower of dharma, having rid that forest of its thorn, dwelt there together with Draupadī."
 
@@ -822,7 +822,7 @@ translator: thothica
 
 **3.12.74**  There, O Bhārata, I heard this deed of Bhīma recounted by the brahmanas who had gathered together at that spot.
 
-**3.12.75**  Vaiśaṃpāyana said: Having heard of Kirmira — that foremost of rakshasas — thus slain in battle, the king, absorbed in thought, sighed deeply like one afflicted with grief.
+**3.12.75**  Vaiśaṃpāyana said: Having heard of Kirmīra — that foremost of rakshasas — thus slain in battle, the king, absorbed in thought, sighed deeply like one afflicted with grief.
 
 **3.13.1**  Vaiśaṃpāyana said: Hearing that the Pāṇḍavas had gone into exile, the Bhojas and the Vṛṣṇis together with the Andhakas came to them in the great forest, those afflicted ones scorched by sorrow.
 
@@ -906,7 +906,7 @@ translator: thothica
 
 **3.13.41**  In that assembly of heroes, with the kings aroused in anger, surrounded by heroes led by Dhṛṣṭadyumna and by her brothers —
 
-**3.13.42**  — Pāñcālī, seeking refuge, approached the lotus-eyed one who sat among the Yādavas, and Kṛṣṇa addressed the worthy refuge-giver.
+**3.13.42**  — Pāñcālī, seeking refuge, approached the lotus-eyed one who sat among the Yādavas, and Kṛṣṇā addressed the worthy refuge-giver.
 
 **3.13.43**  "In the primeval creation of creatures they proclaimed you the one Prajāpati, creator of all beings — so Asita and Devala have declared."
 
@@ -1068,7 +1068,7 @@ translator: thothica
 
 **3.14.2**  "I would have come to that dice-game uninvited even by the Kauravas, even by the king son of Ambikā, even by Duryodhana, O unconquerable one."
 
-**3.14.3**  "I would have stopped that dice-game, pointing out its many faults, summoning Bhīṣma and Droṇa, and Kṛpa and Bāhlīka as well."
+**3.14.3**  "I would have stopped that dice-game, pointing out its many faults, summoning Bhīṣma and Droṇa, and Kṛpa and Bāhlika as well."
 
 **3.14.4**  "I would have addressed the son of Vicitravīrya thus: Enough of this dice-game, O Kaurava — do this for the sake of your sons, O king of kings, for your own sake, O lord."
 
@@ -1338,9 +1338,9 @@ translator: thothica
 
 **3.19.18**  "Or what will Balarama, the elder brother of Keśava, clad in blue, intoxicated with pride, the mighty-armed one, say when he comes?
 
-**3.19.19**  "What will the grandson of Śini, the lion among men and great archer, say about my retreat from battle, O charioteer? And Samba, the victor in battle?
+**3.19.19**  "What will the grandson of Śini, the lion among men and great archer, say about my retreat from battle, O charioteer? And Sāmba, the victor in battle?
 
-**3.19.20**  "And the formidable Cārudeṣṇa, and likewise Gada and Sāraṇa, and Akrura the mighty-armed — what will they say to me, O charioteer?
+**3.19.20**  "And the formidable Cārudeṣṇa, and likewise Gada and Sāraṇa, and Akrūra the mighty-armed — what will they say to me, O charioteer?
 
 **3.19.21**  "And the women of the Vṛṣṇi heroes, gathering together, what will they say to me who am considered brave, virtuous, and ever proud of manhood?
 
@@ -1434,7 +1434,7 @@ translator: thothica
 
 **3.21.6**  Then I, O best of the Kauravas, having heard everything completely, there and then made up my mind for the destruction of King Śālva.
 
-**3.21.7**  Then I, O best of the Bhāratas, having reassured the people of the city, King Ahuka and likewise Anakadundubhi and all the foremost Vṛṣṇi heroes, spoke these words gladly.
+**3.21.7**  Then I, O best of the Bhāratas, having reassured the people of the city, King Āhuka and likewise Anakadundubhi and all the foremost Vṛṣṇi heroes, spoke these words gladly.
 
 **3.21.8**  "Vigilance must always be maintained in the city, O bulls of the Yādavas. Know that I am setting forth for the destruction of King Śālva.
 
@@ -1442,7 +1442,7 @@ translator: thothica
 
 **3.21.10**  Those heroes, duly reassured by me, O bull of the Bhāratas, all said to me joyfully: "Go, slay the enemies."
 
-**3.21.11**  Blessed with benedictions by those heroes of gladdened souls, having caused the best of twice-born to recite blessings, and bowing my head to Ahuka,
+**3.21.11**  Blessed with benedictions by those heroes of gladdened souls, having caused the best of twice-born to recite blessings, and bowing my head to Āhuka,
 
 **3.21.12**  With my chariot yoked to Sainya and Sugrīva, filling all directions with sound, I blew the foremost conch Pāñcajanya, O king.
 
@@ -1518,9 +1518,9 @@ translator: thothica
 
 **3.22.10**  Then a certain man from Dvārakā came hurrying to my chariot and spoke to me, as if out of friendship, O Bhārata.
 
-**3.22.11**  He was an attendant of Ahuka, O hero, downcast and choked with sorrow — hear what he said, O Yudhiṣṭhira.
+**3.22.11**  He was an attendant of Āhuka, O hero, downcast and choked with sorrow — hear what he said, O Yudhiṣṭhira.
 
-**3.22.12**  "The lord of Dvārakā, Ahuka, sends you this message, O hero — understand it well, O Keśava, hear what your father's friend says to you.
+**3.22.12**  "The lord of Dvārakā, Āhuka, sends you this message, O hero — understand it well, O Keśava, hear what your father's friend says to you.
 
 **3.22.13**  'Śālva has attacked Dvārakā today, O joy of the Vṛṣṇis; while you were engaged elsewhere, O invincible one, the son of Śūra has been slain by force.'
 
@@ -1532,7 +1532,7 @@ translator: thothica
 
 **3.22.17**  For I had entrusted to them, O joy of the Kurus, the protection of Dvārakā and of my father before setting out to destroy Saubha.
 
-**3.22.18**  'Does the mighty-armed Balarama, slayer of foes, still live? And Sātyaki? And Rukmiṇī's son? And the valiant Cārudeṣṇa? And Samba and the rest?' — thinking thus, I was overcome with deep grief.
+**3.22.18**  'Does the mighty-armed Balarama, slayer of foes, still live? And Sātyaki? And Rukmiṇī's son? And the valiant Cārudeṣṇa? And Sāmba and the rest?' — thinking thus, I was overcome with deep grief.
 
 **3.22.19**  For while these tiger-like men are alive, not even Indra himself, wielder of the thunderbolt, could slay the son of Śūra.
 
@@ -1822,7 +1822,7 @@ translator: thothica
 
 **3.27.21**  Then all those brahmanas honored Baka of the Dalbhya lineage, and as Yudhiṣṭhira was praised, they became even more pleased in their hearts.
 
-**3.27.22**  Dvaipāyana, Nārada, Jamadagnya, Pṛthu-shravas, Indradyumna, Bhāluki, Kritachetas, Sahasrapat —
+**3.27.22**  Dvaipāyana, Nārada, Jāmadagnya, Pṛthu-shravas, Indradyumna, Bhāluki, Kritachetas, Sahasrapat —
 
 **3.27.23**  — Karnashravas, Munja, Lavanashva of the Kaśyapa lineage, Harita, Sthūṇākarṇa, Agnivesha, and Śaunaka —
 
@@ -1830,9 +1830,9 @@ translator: thothica
 
 **3.27.25**  — these and many other brahmanas of sharpened vows praised Ajātaśatru as sages praise Purandara.
 
-**3.28.1**  Vaiśaṃpāyana said: Then the Pārthas, who had gone to the forest, sat down in the evening together with Kṛṣṇa (Draupadī) and engaged in conversation, absorbed in grief and sorrow.
+**3.28.1**  Vaiśaṃpāyana said: Then the Pārthas, who had gone to the forest, sat down in the evening together with Kṛṣṇā (Draupadī) and engaged in conversation, absorbed in grief and sorrow.
 
-**3.28.2**  Then Kṛṣṇa — beloved, beautiful, wise, and devoted to her husband — spoke these words to Dharmarāja.
+**3.28.2**  Then Kṛṣṇā — beloved, beautiful, wise, and devoted to her husband — spoke these words to Dharmarāja.
 
 **3.28.3**  "Surely that sinful, cruel, evil-souled son of Dhṛtarāṣṭra feels no pain at all at what has befallen us.
 
@@ -2898,7 +2898,7 @@ translator: thothica
 
 **3.40.16**  Pierced by many arrows like blazing-mouthed serpents, he died, having once more assumed a terrible rākṣasa form.
 
-**3.40.17**  Then Jiṣṇu (Arjuna), slayer of enemies, saw a man of golden radiance, disguised in the garb of a Kirata hunter and accompanied by women. The son of Kuntī, with a glad heart and as if laughing, addressed him.
+**3.40.17**  Then Jiṣṇu (Arjuna), slayer of enemies, saw a man of golden radiance, disguised in the garb of a Kirāta hunter and accompanied by women. The son of Kuntī, with a glad heart and as if laughing, addressed him.
 
 **3.40.18**  "Who are you, wandering in this empty forest surrounded by a company of women? Do you feel no fear in this terrible forest, O man of golden radiance?"
 
@@ -2906,7 +2906,7 @@ translator: thothica
 
 **3.40.20**  "Whether out of desire or out of contempt, you shall not escape me with your life. This is not the law of the hunt — what you have done to me today. Therefore I shall deprive you of your life, O dweller of the mountain."
 
-**3.40.21**  Thus addressed by the son of Pāṇḍu, the Kirata, as if laughing, spoke in a soft voice to Savyasācin, that Pāṇḍava.
+**3.40.21**  Thus addressed by the son of Pāṇḍu, the Kirāta, as if laughing, spoke in a soft voice to Savyasācin, that Pāṇḍava.
 
 **3.40.22**  "This was my target first — it was my quarry from the beginning, and it was by my blow alone that it was stripped of its life."
 
@@ -2916,13 +2916,13 @@ translator: thothica
 
 **3.40.25**  Then those two, both enraged, roaring again and again at each other, cut at one another with arrows resembling venomous serpents.
 
-**3.40.26**  Then Arjuna released a rain of arrows upon the Kirata, and Shankara (Śiva) received it with a serene and undisturbed mind.
+**3.40.26**  Then Arjuna released a rain of arrows upon the Kirāta, and Shankara (Śiva) received it with a serene and undisturbed mind.
 
 **3.40.27**  Having received that rain of arrows for a moment, the wielder of the Pināka bow stood with his body utterly unhurt, immovable as a mountain.
 
 **3.40.28**  Seeing that rain of arrows rendered utterly fruitless, Dhanañjaya was filled with the greatest wonder and said, "Well done! Well done!"
 
-**3.40.29**  "Ah, this tender-limbed dweller of the Himalayan peaks receives iron arrows shot from the Gāṇḍīva bow without the slightest agitation!"
+**3.40.29**  "Ah, this tender-limbed dweller of the Himālayan peaks receives iron arrows shot from the Gāṇḍīva bow without the slightest agitation!"
 
 **3.40.30**  "Who can this be in person — a god, Rudra, a yaksha, or the lord of the gods? For on this best of mountains there is an assembly of the thirty gods."
 
@@ -2936,7 +2936,7 @@ translator: thothica
 
 **3.40.35**  In a moment Phalguna's arrows were exhausted; and then, seeing his supply of arrows depleted, he fell into fear.
 
-**3.40.36**  Jiṣṇu then thought of the blessed fire-god Agni, who had formerly given him two inexhaustible quivers at the time of the Khandava forest fire.
+**3.40.36**  Jiṣṇu then thought of the blessed fire-god Agni, who had formerly given him two inexhaustible quivers at the time of the Khāṇḍava forest fire.
 
 **3.40.37**  "What shall I do with my bow now that my arrows are exhausted? And this man — whoever he is — swallows up all my arrows completely."
 
@@ -2950,15 +2950,15 @@ translator: thothica
 
 **3.40.42**  Then Phalguna fought with trees and with rocks — but the great-bodied one received the trees and then the rocks without any harm.
 
-**3.40.43**  Then Pārtha, of great strength, struck the blessed Lord who wore the Kirata form — on the face of that one who was in the guise of a Kirata, who was difficult to assail — with his fists, whose touch was like that of the thunderbolt, raising smoke upon impact.
+**3.40.43**  Then Pārtha, of great strength, struck the blessed Lord who wore the Kirāta form — on the face of that one who was in the guise of a Kirāta, who was difficult to assail — with his fists, whose touch was like that of the thunderbolt, raising smoke upon impact.
 
-**3.40.44**  Then the blessed Lord, in the guise of a Kirata, tormented Phalguna with his own fists, which were dreadful and equal to the thunderbolt of Indra.
+**3.40.44**  Then the blessed Lord, in the guise of a Kirāta, tormented Phalguna with his own fists, which were dreadful and equal to the thunderbolt of Indra.
 
-**3.40.45**  Then arose a loud and most terrible cracking sound from the fists of the Pāṇḍava and of the Kirata as they fought.
+**3.40.45**  Then arose a loud and most terrible cracking sound from the fists of the Pāṇḍava and of the Kirāta as they fought.
 
 **3.40.46**  For a good while there was that great battle, hair-raising and filled with blows of the arms, like the fight between Vṛtra and Vāsava (Indra).
 
-**3.40.47**  Then mighty Jiṣṇu seized the Kirata with his chest; and the Kirata, in turn, forcefully struck the struggling Pāṇḍava.
+**3.40.47**  Then mighty Jiṣṇu seized the Kirāta with his chest; and the Kirāta, in turn, forcefully struck the struggling Pāṇḍava.
 
 **3.40.48**  From the crushing grip of their arms, and from the friction of their chests, fire with smoke and embers arose on their bodies.
 
@@ -3076,7 +3076,7 @@ translator: thothica
 
 **3.42.18**  "You are the ancient seer Nara of boundless soul and great strength, O dear one, who by Brahmā's decree has taken on mortal form. You are born of Vāsava and endowed with immeasurable valour and prowess."
 
-**3.42.19**  "The warrior order, fierce as fire and protected by the son of Bharadvaja, and the mighty Dānavas who have taken human birth, and the Nivata-Kavachas too — all must be vanquished by you, O joy of the Kurus."
+**3.42.19**  "The warrior order, fierce as fire and protected by the son of Bhāradvāja, and the mighty Dānavas who have taken human birth, and the Nivata-Kavachas too — all must be vanquished by you, O joy of the Kurus."
 
 **3.42.20**  "Karṇa, who is a portion of my father the god who scorches all the worlds, that mighty hero — he must be slain by you, O Dhanañjaya."
 
@@ -3114,7 +3114,7 @@ translator: thothica
 
 **3.42.37**  "A very great divine task must be performed by you, O subduer of foes. You must ascend to heaven — make yourself ready, O greatly radiant one."
 
-**3.42.38**  "A chariot yoked by Matali will come to earth for your sake. There I shall bestow upon you the divine weapons, O Kaurava."
+**3.42.38**  "A chariot yoked by Mātali will come to earth for your sake. There I shall bestow upon you the divine weapons, O Kaurava."
 
 **3.42.39**  Beholding those Guardians of the Worlds assembled on the mountain's summit, wise Dhanañjaya, the son of Kuntī, was overcome with wonder.
 
@@ -3126,7 +3126,7 @@ translator: thothica
 
 **3.43.1**  Vaiśaṃpāyana said: When the Guardians of the Worlds had departed, Pārtha the destroyer of enemies, O king of kings, began to contemplate the coming of the king of gods' chariot.
 
-**3.43.2**  And even as the wise Guḍākeśa was pondering this, there came the greatly resplendent chariot yoked by Matali.
+**3.43.2**  And even as the wise Guḍākeśa was pondering this, there came the greatly resplendent chariot yoked by Mātali.
 
 **3.43.3**  Clearing the sky of darkness, as if splitting the rain-clouds asunder, filling the quarters with sounds like the roar of great storm-clouds.
 
@@ -3142,7 +3142,7 @@ translator: thothica
 
 **3.43.9**  Seeing the charioteer standing in that chariot, adorned with refined gold, mighty-armed Pārtha surmised at once that it must be a god.
 
-**3.43.10**  And as Phalguna was reasoning thus, Matali bowed low with humility and spoke these words to Arjuna.
+**3.43.10**  And as Phalguna was reasoning thus, Mātali bowed low with humility and spoke these words to Arjuna.
 
 **3.43.11**  "Ho, O glorious son of Śakra! Śakra desires to see you. May your honour quickly ascend the chariot of Indra with my blessing."
 
@@ -3152,7 +3152,7 @@ translator: thothica
 
 **3.43.14**  "By the command of Pāka-shasana ascend with me from this world to the world of the gods; having obtained the weapons, you will return again."
 
-**3.43.15**  Arjuna said: O Matali, go quickly — you first ascend the supreme chariot, which is exceedingly hard to obtain even by hundreds of Rājasūya and Aśvamedha sacrifices.
+**3.43.15**  Arjuna said: O Mātali, go quickly — you first ascend the supreme chariot, which is exceedingly hard to obtain even by hundreds of Rājasūya and Aśvamedha sacrifices.
 
 **3.43.16**  "This supreme chariot is not to be mounted even by kings of the greatest fortune, by sacrificers of abundant gifts, nor by gods or Dānavas."
 
@@ -3160,7 +3160,7 @@ translator: thothica
 
 **3.43.18**  "When you, O good one, are established on the chariot with the horses steady, then I shall mount afterwards, like a man of good deeds following the righteous path."
 
-**3.43.19**  Vaiśaṃpāyana said: Hearing those words of Arjuna, Matali the charioteer of Śakra quickly ascended the chariot and controlled the horses with the reins.
+**3.43.19**  Vaiśaṃpāyana said: Hearing those words of Arjuna, Mātali the charioteer of Śakra quickly ascended the chariot and controlled the horses with the reins.
 
 **3.43.20**  Then Arjuna, joyful in heart, bathed in the Gaṅgā, purified himself, and the son of Kuntī, that joy of the Kurus, performed his prescribed recitations with due ceremony.
 
@@ -3190,7 +3190,7 @@ translator: thothica
 
 **3.43.33**  Thousands of Gandharvas blazing with the energy of the sun, Guhyakas, sages, and likewise hosts of Apsaras were there.
 
-**3.43.34**  Beholding those self-luminous worlds, Phalguna was filled with wonder and questioned Matali out of curiosity; and Matali indeed answered him.
+**3.43.34**  Beholding those self-luminous worlds, Phalguna was filled with wonder and questioned Mātali out of curiosity; and Mātali indeed answered him.
 
 **3.43.35**  "These, O Pārtha, are the meritorious ones established in their own abodes — those which you saw, O mighty lord, appearing in the form of stars on the earth below."
 
@@ -3384,7 +3384,7 @@ translator: thothica
 
 **3.46.22**  For you have heard, O great king, how the eleven-formed Śiva — the Immovable One — was gratified by Pārtha's bow in battle.
 
-**3.46.23**  The lord of all the gods himself, the braid-haired Bhagavan, wishing to test him, assumed the guise of a Kirata mountaineer and fought with Phalguna.
+**3.46.23**  The lord of all the gods himself, the braid-haired Bhagavān, wishing to test him, assumed the guise of a Kirāta mountaineer and fought with Phalguna.
 
 **3.46.24**  Then those world-guardians revealed themselves to Arjuna — that bull of the Kauravas who had striven with ascetic power — for the purpose of granting him celestial weapons.
 
@@ -3418,7 +3418,7 @@ translator: thothica
 
 **3.46.39**  And this too is a most wonderful marvel concerning Arjuna, O Sañjaya — so the tradition tells — that he came to grips with Mahādeva himself, arm to arm.
 
-**3.46.40**  And what was done long ago in the Khandava forest before the eyes of all the world by Phalguna, together with Dāmodara, for the sake of helping Agni —
+**3.46.40**  And what was done long ago in the Khāṇḍava forest before the eyes of all the world by Phalguna, together with Dāmodara, for the sake of helping Agni —
 
 **3.46.41**  — in every way my son has no hope — not with his ministers, not with his kinsmen — when Pārtha, Bhīma, Vāsudeva, and the Sātvata are enraged.
 
@@ -3480,7 +3480,7 @@ translator: thothica
 
 **3.48.17**  "That prosperity of the Pārthas which existed at Indraprastha during the Rājasūya sacrifice — which I witnessed, unmatched by other kings —
 
-**3.48.18**  "— where I saw all the rulers of the earth, terror-struck by the might of weapons, along with the Vaṅgas, Aṅgas, Paundras, Oḍras, Colas, Dravidas, and Andhakas —
+**3.48.18**  "— where I saw all the rulers of the earth, terror-struck by the might of weapons, along with the Vaṅgas, Aṅgas, Paundras, Oḍras, Colas, Draviḍas, and Andhakas —
 
 **3.48.19**  "— and those who dwell along the ocean coast, and those who inhabit cities, the Sinhalas, Barbaras, Mlecchas, and those who dwell in the arid lands —
 
@@ -3492,7 +3492,7 @@ translator: thothica
 
 **3.48.23**  "— that prosperity of yours which those fickle and treacherous men have seized — taking their lives in return, I shall recover it for you."
 
-**3.48.24**  "Together with Rāma, O descendant of Kuru, and with Bhīma, Arjuna, and the twins, and with Akrura, Gada, Samba, and Pradyumna, and with Ahuka, and with the hero Dhṛṣṭadyumna, and with the son of Śiśupāla —
+**3.48.24**  "Together with Rāma, O descendant of Kuru, and with Bhīma, Arjuna, and the twins, and with Akrūra, Gada, Sāmba, and Pradyumna, and with Āhuka, and with the hero Dhṛṣṭadyumna, and with the son of Śiśupāla —
 
 **3.48.25**  "— having slain Duryodhana in battle forthwith, and Karṇa, O Bhārata, and Duḥśāsana and the son of Subala, and whoever else shall oppose us —
 
@@ -3520,7 +3520,7 @@ translator: thothica
 
 **3.48.37**  Those great chariot warriors, chosen by Dharmarāja, after the completion of thirteen years shall march forth with Vāsudeva at their head.
 
-**3.48.38**  Rāma and Kṛṣṇa and Dhanañjaya, Pradyumna and Samba, Yuyudhāna and Bhīma, the sons of Mādrī, the sons of the Kekaya king, the sons of Pāñcāla — together with Dharmarāja.
+**3.48.38**  Rāma and Kṛṣṇa and Dhanañjaya, Pradyumna and Sāmba, Yuyudhāna and Bhīma, the sons of Mādrī, the sons of the Kekaya king, the sons of Pāñcāla — together with Dharmarāja.
 
 **3.48.39**  Who, wishing to preserve his life, would rise to oppose in battle all these heroes of the world, these invincible great-souled ones with their allies and armies — enraged as they are, like maned lions?
 
@@ -3604,7 +3604,7 @@ translator: thothica
 
 **3.49.38**  Bṛhadaśva said: Listen attentively, O king, together with your brothers, O steadfast one — there was a king more miserable than you, O lord of the earth.
 
-**3.49.39**  There was a king of the earth among the Niṣādhas known as Vīrasena; his son was named Nala, who was versed in dharma and the goals of life.
+**3.49.39**  There was a king of the earth among the Niṣadhas known as Vīrasena; his son was named Nala, who was versed in dharma and the goals of life.
 
 **3.49.40**  That king was defeated by deceit — by Puṣkara, as we have heard — and though undeserving of such hardship, he dwelt in the forest with his wife.
 
@@ -3618,7 +3618,7 @@ translator: thothica
 
 **3.50.2**  He stood at the head of human kings as the lord of the gods stands above all — above all others, like the sun in radiance.
 
-**3.50.3**  Devoted to the Brahmins, learned in the Vedas, heroic, the great lord of the earth among the Niṣādhas, fond of dice, truthful in speech, the great commander of armies.
+**3.50.3**  Devoted to the Brahmins, learned in the Vedas, heroic, the great lord of the earth among the Niṣadhas, fond of dice, truthful in speech, the great commander of armies.
 
 **3.50.4**  Desired by the best of women, generous, with controlled senses, a protector, the foremost of archers — like Manu himself in person.
 
@@ -3652,7 +3652,7 @@ translator: thothica
 
 **3.50.19**  Then that sky-traveler spoke to Nala: "I am not to be killed by you, O king — for I shall do you a favor."
 
-**3.50.20**  "I shall speak of you in the presence of Damayantī, O king of the Niṣādhas — such that she will never think of any man other than you."
+**3.50.20**  "I shall speak of you in the presence of Damayantī, O king of the Niṣadhas — such that she will never think of any man other than you."
 
 **3.50.21**  Addressed thus, the lord of the earth then released the goose. And those geese flew up and went from there to Vidarbha.
 
@@ -3664,7 +3664,7 @@ translator: thothica
 
 **3.50.25**  But the goose that Damayantī ran after close at hand — that one, adopting a human voice, then spoke to Damayantī:
 
-**3.50.26**  "Damayantī, there is a king named Nala, lord of the earth among the Niṣādhas, equal to the Aśvins in beauty — no humans are equal to him."
+**3.50.26**  "Damayantī, there is a king named Nala, lord of the earth among the Niṣadhas, equal to the Aśvins in beauty — no humans are equal to him."
 
 **3.50.27**  "If you were to become his wife, O fair-complexioned one, your birth would be fruitful and this beauty of yours, O slender-waisted one."
 
@@ -4046,7 +4046,7 @@ translator: thothica
 
 **3.58.19**  Having fallen into the most extreme adversity, afflicted, my mind undone — I am your husband; hear now this counsel that is for your own good.
 
-**3.58.20**  These many roads go toward the southern country, to Avantī and, passing beyond, to the Ṛkṣavat mountain.
+**3.58.20**  These many roads go toward the southern country, to Avanti and, passing beyond, to the Ṛkṣavat mountain.
 
 **3.58.21**  Here is the great mountain Vindhya, and the Payoṣṇī flowing to the ocean, and yonder are the hermitages of the great sages, adorned with flowers and fruit.
 
@@ -5162,7 +5162,7 @@ translator: thothica
 
 **3.73.23**  And overcome with extreme anguish, she washed her face, then sent the pair of children together with Keśinī, O Bhārata.
 
-**3.73.24**  Recognising Indrasena together with her brother, Bāhuka the king rushed forward and, embracing them, drew them into his lap.
+**3.73.24**  Recognising Indrasenā together with her brother, Bāhuka the king rushed forward and, embracing them, drew them into his lap.
 
 **3.73.25**  But Bāhuka, approaching his two children who were like the children of gods, his heart overwhelmed with deep grief, wept aloud.
 
@@ -5668,7 +5668,7 @@ translator: thothica
 
 **3.80.97**  At the tirtha of Śakra's maidens, frequented by the Siddhas — by bathing there a man swiftly attains the world of Śakra.
 
-**3.80.98**  And there also is the tirtha of Renuka, frequented by the gods; by bathing there a brahmin becomes as spotless as the moon.
+**3.80.98**  And there also is the tirtha of Reṇukā, frequented by the gods; by bathing there a brahmin becomes as spotless as the moon.
 
 **3.80.99**  Then, going to Pañcanada, self-controlled and abstemious, one obtains in succession the five sacrifices that have been enumerated.
 
@@ -6364,13 +6364,13 @@ translator: thothica
 
 **3.82.134**  Reaching the well on the Nandini river, worshipped by the thirty gods, one attains whatever merit belongs to the Naramedha sacrifice, O scion of the Kurus.
 
-**3.82.135**  A wise man who fasts for three nights and bathes at the confluence of the Kalika, where the Kauśikī and Aruṇa rivers meet, is freed from all sins.
+**3.82.135**  A wise man who fasts for three nights and bathes at the confluence of the Kalika, where the Kauśikī and Aruṇā rivers meet, is freed from all sins.
 
 **3.82.136**  Reaching the tirtha of Urvaśī and then the hermitage of Soma, a wise man who bathes at the hermitage of Kumbhakarṇa is honoured upon this earth.
 
 **3.82.137**  A celibate student of regulated vows who bathes at the holy Kokamukha attains the power of remembering past births — this has been seen from ancient times.
 
-**3.82.138**  A twice-born man who visits Nanda even once becomes purified in soul; his soul cleansed of all sins, he goes to the world of Indra.
+**3.82.138**  A twice-born man who visits Nandā even once becomes purified in soul; his soul cleansed of all sins, he goes to the world of Indra.
 
 **3.82.139**  Reaching Rishabhadviipa, the resort of Kraunchanisudan, and bathing in the Sarasvatī, one shines seated in a celestial chariot.
 
@@ -6408,7 +6408,7 @@ translator: thothica
 
 **3.83.13**  Then bathing at the tirtha of Badarika with a focused mind, one attains long life and goes to the heavenly world.
 
-**3.83.14**  Then reaching Mahendra, frequented by Jamadagnya (Parashurama), a man who bathes at the tirtha of Rāma obtains the fruit of the Vājapeya sacrifice.
+**3.83.14**  Then reaching Mahendra, frequented by Jāmadagnya (Parashurama), a man who bathes at the tirtha of Rāma obtains the fruit of the Vājapeya sacrifice.
 
 **3.83.15**  There too is the Kedara of Mataṅga, O delight of the Kurus; a man who bathes there, O king, obtains the merit of a gift of a thousand cows.
 
@@ -6586,7 +6586,7 @@ translator: thothica
 
 **3.83.102**  The foremost of sages are ever present there — Vālmīki and Kaśyapa, Atreya and Kaundinyа, Viśvāmitra and Gautama,
 
-**3.83.103**  And Asita Devala, and Mārkaṇḍeya, and Gālava, and Bharadvaja, and Vasiṣṭha, and the sage Uddālaka as well,
+**3.83.103**  And Asita Devala, and Mārkaṇḍeya, and Gālava, and Bharadvāja, and Vasiṣṭha, and the sage Uddālaka as well,
 
 **3.83.104**  And Śaunaka together with his son, and Vyāsa the foremost among those who recite prayers, and Durvasa the best of sages, and Gālava of great austerities —
 
@@ -6600,7 +6600,7 @@ translator: thothica
 
 **3.83.109**  As King Bhagīratha shone, as the celebrated Rāma shone, so you outshine all kings, like the sun with its rays.
 
-**3.83.110**  As Manu, as Ikṣvāku, as Puru of great glory, as Vainya of mighty splendor — so are you too renowned.
+**3.83.110**  As Manu, as Ikṣvāku, as Pūru of great glory, as Vainya of mighty splendor — so are you too renowned.
 
 **3.83.111**  And as the slayer of Vṛtra once burned away all his foes, so shall you, having destroyed your enemies, protect your subjects.
 
@@ -6690,7 +6690,7 @@ translator: thothica
 
 **3.85.20**  Mount Kundoda, lovely, abounding in roots, fruits, and water, where the Naiṣadha king, when thirsty, found water and comfort.
 
-**3.85.21**  Where lies the lovely divine forest adorned with ascetics, and the river Bahuda, and the Nanda at the mountain summit —
+**3.85.21**  Where lies the lovely divine forest adorned with ascetics, and the river Bahuda, and the Nandā at the mountain summit —
 
 **3.85.22**  The tirthas, rivers, mountains, and holy sanctuaries in the eastern direction, O great king, have been described by me to you.
 
@@ -6714,9 +6714,9 @@ translator: thothica
 
 **3.86.9**  The sacred altar at Śūrpāraka, dear one, of the great-souled Jamadagni; and the lovely Pashanatirtha, and Purashchandra, O Bhārata.
 
-**3.86.10**  The tirtha of Aśoka among mortals, O son of Kuntī, the hermitage of Bahula; the tirtha of Agastya among the Pandyas, and the tirtha of Varuṇa, O Yudhiṣṭhira.
+**3.86.10**  The tirtha of Aśoka among mortals, O son of Kuntī, the hermitage of Bahula; the tirtha of Agastya among the Pāṇḍyas, and the tirtha of Varuṇa, O Yudhiṣṭhira.
 
-**3.86.11**  The Kumaris are said to be holy, among the Pandyas also, O bull among men. Now I shall describe the Tamraparni, O son of Kuntī — hear of her.
+**3.86.11**  The Kumaris are said to be holy, among the Pāṇḍyas also, O bull among men. Now I shall describe the Tamraparni, O son of Kuntī — hear of her.
 
 **3.86.12**  Where the gods performed great austerities at the hermitage, seeking the highest — known as Gokarṇa throughout the three worlds, O Bhārata.
 
@@ -6810,7 +6810,7 @@ translator: thothica
 
 **3.88.18**  O Yudhiṣṭhira, there the Gaṅgā burst through with great force at Gaṅgādvāra; O king, that sacred place is renowned, frequented by hosts of brahmin sages.
 
-**3.88.19**  O descendant of Kuru, Sanatkumāra is associated with the sacred Kankahala; and there is the mountain named Puru, where Purūravas was born.
+**3.88.19**  O descendant of Kuru, Sanatkumāra is associated with the sacred Kankahala; and there is the mountain named Pūru, where Purūravas was born.
 
 **3.88.20**  O king, the hermitage where Bhṛgu performed austerities attended by hosts of great sages is renowned — the great mountain called Bhṛgu-tunga.
 
@@ -7014,7 +7014,7 @@ translator: thothica
 
 **3.92.16**  Likewise, O king of kings, you too, bathing at the tirthas together with your brothers, shall regain that Lakṣmī; this is the eternal path.
 
-**3.92.17**  Just as King Nṛga, and Śibi the son of Uśīnaras, Bhagīratha, Vasumanas, Gaya, Puru, Purūravas —
+**3.92.17**  Just as King Nṛga, and Śibi the son of Uśīnaras, Bhagīratha, Vasumanas, Gaya, Pūru, Purūravas —
 
 **3.92.18**  — always practicing austerity, by the touch of the sacred waters, purified by visiting the tirthas and by the sight of great souls —
 
@@ -7252,15 +7252,15 @@ translator: thothica
 
 **3.97.15**  The two horses named Vivaja and Suvaja, yoked to that chariot, swiftly carried all those riches toward Agastya's hermitage, along with all the kings and Agastya himself, as if in the blink of an eye, O Bhārata.
 
-**3.97.16**  Dismissed by Agastya, the royal sages departed. And the sage did everything that Lopamudra had desired.
+**3.97.16**  Dismissed by Agastya, the royal sages departed. And the sage did everything that Lopāmudrā had desired.
 
-**3.97.17**  Lopamudra said: "You have done all that I desired, O blessed one. Now beget for me a single offspring endowed with great valor."
+**3.97.17**  Lopāmudrā said: "You have done all that I desired, O blessed one. Now beget for me a single offspring endowed with great valor."
 
 **3.97.18**  Agastya said: "I am pleased, O auspicious and beautiful one, with your conduct. But regarding offspring, I shall offer you a consideration — listen to it."
 
 **3.97.19**  "Do you wish for a thousand sons, or a hundred equal to ten, or ten equal to a hundred, or one who shall be equal to a thousand?"
 
-**3.97.20**  Lopamudra said: "Let me have one son equal to a thousand, O you whose wealth is asceticism. For one learned and virtuous person is better than many who are not."
+**3.97.20**  Lopāmudrā said: "Let me have one son equal to a thousand, O you whose wealth is asceticism. For one learned and virtuous person is better than many who are not."
 
 **3.97.21**  Lomaśa said: Having agreed with the words "So be it," the sage united with her in due season — she who was of equal virtue, full of faith and devotion.
 
@@ -7374,7 +7374,7 @@ translator: thothica
 
 **3.100.4**  Going to Cyavana's hermitage, holy and frequented by twice-born ones, a hundred sages who lived on fruits and roots were devoured.
 
-**3.100.5**  Thus they would act at night and enter the ocean by day. At Bharadvaja's hermitage too, twenty disciplined celibate students who lived on air and water were struck down.
+**3.100.5**  Thus they would act at night and enter the ocean by day. At Bharadvāja's hermitage too, twenty disciplined celibate students who lived on air and water were struck down.
 
 **3.100.6**  Thus, in this manner, the demons would range through all those hermitages at night, intoxicated with the power of their arms — those Kāleyas, driven by fate, slaughtering multitudes of twice-born men.
 
@@ -7546,7 +7546,7 @@ translator: thothica
 
 **3.104.7**  Having destroyed the Haihayas and the Tālajaṅghas, O Bhārata, and having brought other kings under his sway, he ruled his own kingdom.
 
-**3.104.8**  He had two wives proud of their beauty and youth — the Vaidarbhi and the Śaibyā, O best of the Bhāratas, O bull among the Bhāratas.
+**3.104.8**  He had two wives proud of their beauty and youth — the Vaidarbhī and the Śaibyā, O best of the Bhāratas, O bull among the Bhāratas.
 
 **3.104.9**  That king, desiring sons, performed great austerities together with his two wives, O lord of kings, repairing to Mount Kailāsa.
 
@@ -7564,9 +7564,9 @@ translator: thothica
 
 **3.104.16**  And King Sagara too returned to his own dwelling with his two wives, O dear one, his mind exceedingly joyful at that time.
 
-**3.104.17**  Then, O best of men, those two lotus-eyed wives of his — both the Vaidarbhi and the Śaibyā — became pregnant.
+**3.104.17**  Then, O best of men, those two lotus-eyed wives of his — both the Vaidarbhī and the Śaibyā — became pregnant.
 
-**3.104.18**  In the course of time the Vaidarbhi gave birth to a gourd of a womb, and Śaibyā gave birth to a son, a prince of divine appearance.
+**3.104.18**  In the course of time the Vaidarbhī gave birth to a gourd of a womb, and Śaibyā gave birth to a son, a prince of divine appearance.
 
 **3.104.19**  The king resolved to cast away that gourd, but then from the sky he heard a voice of deep resonance.
 
@@ -7636,7 +7636,7 @@ translator: thothica
 
 **3.106.5**  Hearing that terrible word issued from the mouth of the sage, the king became dejected for a moment, then contemplated the words of the Immovable One; consoling himself, he then reflected only on the horse.
 
-**3.106.6**  Summoning Aṃśumat, the son of Asamanjas, his grandson, O tiger among the Bhāratas, he spoke these words.
+**3.106.6**  Summoning Aṃśumat, the son of Asamañjas, his grandson, O tiger among the Bhāratas, he spoke these words.
 
 **3.106.7**  'Sixty thousand sons of mine of immeasurable energy have met their death on my account, having encountered the fiery power of Kapila.
 
@@ -7644,15 +7644,15 @@ translator: thothica
 
 **3.106.9**  Yudhiṣṭhira said: For what reason did King Sagara, that tiger among kings, abandon his own son, that hero so hard to abandon? Tell me this, O wealth of austerity.
 
-**3.106.10**  Lomaśa said: There was a son of Sagara known as Asamanjas, whom Śaibyā bore — he would seize the children of the townspeople who were crying, and fling the helpless little ones into the river.
+**3.106.10**  Lomaśa said: There was a son of Sagara known as Asamañjas, whom Śaibyā bore — he would seize the children of the townspeople who were crying, and fling the helpless little ones into the river.
 
 **3.106.11**  Then the townspeople came together, overwhelmed with fear and grief, and all of them besought Sagara, standing with folded hands.
 
-**3.106.12**  'You are our protector, O great king, from fears such as enemy armies; from this terrible fear of Asamanjas you must therefore protect us.'
+**3.106.12**  'You are our protector, O great king, from fears such as enemy armies; from this terrible fear of Asamañjas you must therefore protect us.'
 
 **3.106.13**  Hearing that terrible word of the townspeople, that best of kings became dejected for a moment and then spoke thus to his ministers.
 
-**3.106.14**  'My son Asamanjas is to be expelled from the city today. If you wish to do what is pleasing to me, let this be done swiftly.'
+**3.106.14**  'My son Asamañjas is to be expelled from the city today. If you wish to do what is pleasing to me, let this be done swiftly.'
 
 **3.106.15**  Thus addressed by that lord of men, those ministers, O lord of men, swiftly did exactly as had been said and as the king had commanded.
 
@@ -8030,9 +8030,9 @@ translator: thothica
 
 **3.113.22**  Rishyashringa did as his father instructed and went to where his father had been; and Shanta attended upon him faithfully, as Rohiṇī in the sky attends upon the moon in harmony.
 
-**3.113.23**  As the blessed Arundhati served Vasiṣṭha, or as Lopamudra served Agastya, or as Damayantī was to Nala, or as Śacī to the wielder of the thunderbolt—
+**3.113.23**  As the blessed Arundhatī served Vasiṣṭha, or as Lopāmudrā served Agastya, or as Damayantī was to Nala, or as Śacī to the wielder of the thunderbolt—
 
-**3.113.24**  And as Nadayani Indrasena was ever devoted to Mudgala, O descendant of Ajamidha — so Shanta, filled with love, waited upon Rishyashringa dwelling in the forest, O king.
+**3.113.24**  And as Nadayani Indrasenā was ever devoted to Mudgala, O descendant of Ajamīḍha — so Shanta, filled with love, waited upon Rishyashringa dwelling in the forest, O king.
 
 **3.113.25**  This holy hermitage of his, renowned for its sanctity, shines forth, adorning the great lake. Having bathed here, with all duties fulfilled and purified, go on, O king, to visit the other sacred tirthas.
 
@@ -8082,7 +8082,7 @@ translator: thothica
 
 **3.114.23**  This is that altar shining here, O king, marked by its distinctive form; ascend it, O great king, and you shall become mighty.
 
-**3.114.24**  And I shall perform a benedictory rite for you, so that you may ascend it today; for once touched by a mortal, this altar sinks into the ocean, O descendant of Ajamidha.
+**3.114.24**  And I shall perform a benedictory rite for you, so that you may ascend it today; for once touched by a mortal, this altar sinks into the ocean, O descendant of Ajamīḍha.
 
 **3.114.25**  Speaking these true words, O Pāṇḍava: 'You are Agni, you are Mitra, you are the womb, you are the divine waters, you are the seed of Viṣṇu, you are the navel of immortality' — swiftly ascend this altar.
 
@@ -8150,17 +8150,17 @@ translator: thothica
 
 **3.116.1**  Akṛtavraṇa said: Jamadagni, of great austerity, devoted to Vedic study, performed tapas and thereby brought the gods under his control by his discipline.
 
-**3.116.2**  Approaching king Prasenajit, O king, lord of men, he sought Renuka in marriage; and the king gave her to him.
+**3.116.2**  Approaching king Prasenajit, O king, lord of men, he sought Reṇukā in marriage; and the king gave her to him.
 
-**3.116.3**  Having thus obtained Renuka as his wife, the delight of the Bhṛgus lived in the hermitage and performed austerities together with her, who was devoted and compliant.
+**3.116.3**  Having thus obtained Reṇukā as his wife, the delight of the Bhṛgus lived in the hermitage and performed austerities together with her, who was devoted and compliant.
 
 **3.116.4**  Four sons were born to her, Rāma being the fifth; Rāma, the last-born, was the youngest of them all.
 
-**3.116.5**  One day, all the sons having gone out to gather fruits, Renuka, steadfast in her vows, went to bathe.
+**3.116.5**  One day, all the sons having gone out to gather fruits, Reṇukā, steadfast in her vows, went to bathe.
 
-**3.116.6**  And Renuka, as she was going along, happened by chance to see a king named Chitraratha, the lord of Martikavata, O king.
+**3.116.6**  And Reṇukā, as she was going along, happened by chance to see a king named Chitraratha, the lord of Martikavata, O king.
 
-**3.116.7**  Seeing him sporting in the water with his wife, garlanded with lotuses, in the full flush of his prosperity, Renuka was filled with longing for him.
+**3.116.7**  Seeing him sporting in the water with his wife, garlanded with lotuses, in the full flush of his prosperity, Reṇukā was filled with longing for him.
 
 **3.116.8**  On account of that transgression in her mind, she came back trembling and distraught, her clothes still wet from the water, and entered the hermitage; her husband perceived it in her.
 
@@ -8276,11 +8276,11 @@ translator: thothica
 
 **3.118.17**  For twelve days, subsisting only on water and air, performing the ritual bath each night and day, kindling fires on all sides, he practiced austerities — the foremost of those who uphold dharma.
 
-**3.118.18**  Hearing of him performing this fierce austerity, both Rāma and Janārdana — the foremost of all the Vṛṣṇis — came with their armies to Yudhiṣṭhira, the Ajamidha.
+**3.118.18**  Hearing of him performing this fierce austerity, both Rāma and Janārdana — the foremost of all the Vṛṣṇis — came with their armies to Yudhiṣṭhira, the Ajamīḍha.
 
 **3.118.19**  The Vṛṣṇis, seeing the sons of Pāṇḍu lying on the ground, their bodies smeared with dirt, and seeing Draupadī who deserved no such fate, cried out in deep grief and anguish.
 
-**3.118.20**  Then, approaching Rāma and Janārdana, Pradyumna and Samba, the grandson of Śini, and the other Vṛṣṇis, that undaunted one honored them all as prescribed by dharma.
+**3.118.20**  Then, approaching Rāma and Janārdana, Pradyumna and Sāmba, the grandson of Śini, and the other Vṛṣṇis, that undaunted one honored them all as prescribed by dharma.
 
 **3.118.21**  And they in turn honored all the Pārthas; honored by the sons of Pāṇḍu, they took their seats surrounding Yudhiṣṭhira as the host of gods surrounds Indra, O king.
 
@@ -9122,7 +9122,7 @@ translator: thothica
 
 **3.135.2**  'It is said that the lord of Śacī, afflicted by the sin of killing Vṛtra, bathed here and was freed from all sins in the Samaṅgā.'
 
-**3.135.3**  'This is the Vinaśana, in the flank of Mount Mainākā, O bull among men — where Aditi once cooked that food for the sake of offspring.'
+**3.135.3**  'This is the Vinaśana, in the flank of Mount Maināka, O bull among men — where Aditi once cooked that food for the sake of offspring.'
 
 **3.135.4**  'Ascending this king of mountains, O bull among men, you shall drive away the ill-reputed, unspeakable inauspiciousness.'
 
@@ -9140,9 +9140,9 @@ translator: thothica
 
 **3.135.11**  I wish to hear all this, just as it occurred, O Lomaśa — I greatly delight in hearing the deeds of those who are like the gods being recounted.
 
-**3.135.12**  Lomaśa said: Bharadvaja and Raibhya were friends; those two dwelt here in the forest, greatly delighting in each other's company.
+**3.135.12**  Lomaśa said: Bharadvāja and Raibhya were friends; those two dwelt here in the forest, greatly delighting in each other's company.
 
-**3.135.13**  Raibhya had two sons, Arvāvasu and Paravasu; and Yavakrī was the son of Bharadvaja, O Bhārata.
+**3.135.13**  Raibhya had two sons, Arvāvasu and Paravasu; and Yavakrī was the son of Bharadvāja, O Bhārata.
 
 **3.135.14**  Raibhya was learned together with his sons, while the other was an ascetic; yet between those two there was incomparable affection from childhood onward, O Bhārata.
 
@@ -9204,7 +9204,7 @@ translator: thothica
 
 **3.136.1**  Yavakrī said: "The Vedas shall indeed shine forth in both me and my father; and the boons obtained by me shall likewise be beyond all others."
 
-**3.136.2**  Bharadvaja said: "Arrogance will come upon you, my child, having obtained the boons you desired; filled with that arrogance, the wretched one perishes quickly."
+**3.136.2**  Bharadvāja said: "Arrogance will come upon you, my child, having obtained the boons you desired; filled with that arrogance, the wretched one perishes quickly."
 
 **3.136.3**  "On this point they cite these verses, declared by the gods: In ancient times, my son, there was a powerful sage named Baladhi."
 
@@ -9214,7 +9214,7 @@ translator: thothica
 
 **3.136.6**  "Baladhi said: 'As these mountains stand forever, O best of gods, inexhaustible — let the mountains be the condition of my son's lifespan.'"
 
-**3.136.7**  "Bharadvaja said: A son was then born to him, named Medhāvī, always wrathful; hearing this boon, he became arrogant and began to disrespect the sages."
+**3.136.7**  "Bharadvāja said: A son was then born to him, named Medhāvī, always wrathful; hearing this boon, he became arrogant and began to disrespect the sages."
 
 **3.136.8**  "While acting wrongfully toward the sages and roaming this earth, he encountered the wise and mighty Dhanusha-ksha."
 
@@ -9278,7 +9278,7 @@ translator: thothica
 
 **3.137.20**  Having killed Yavakrī, the demon came back to Raibhya; dismissed by Raibhya, he went away accompanied by that woman.
 
-**3.138.1**  Lomaśa said: Bharadvaja, O son of Kuntī, having completed his daily recitation, took up his bundle of firewood and entered his own hermitage.
+**3.138.1**  Lomaśa said: Bharadvāja, O son of Kuntī, having completed his daily recitation, took up his bundle of firewood and entered his own hermitage.
 
 **3.138.2**  The sacred fires, which formerly all rose to greet him upon his arrival, did not attend upon him now that his son was slain.
 
@@ -9294,7 +9294,7 @@ translator: thothica
 
 **3.138.8**  "Then he was killed here, for he was surely impure, thirsting for water, struck quickly by the demon with the upraised spear."
 
-**3.138.9**  Lomaśa said: Bharadvaja, hearing those unwelcome words of the shudra, took up his son who had breathed his last and lamented in deep sorrow.
+**3.138.9**  Lomaśa said: Bharadvāja, hearing those unwelcome words of the shudra, took up his son who had breathed his last and lamented in deep sorrow.
 
 **3.138.10**  "Indeed you performed austerities for the sake of the brahmins — 'May the Vedas, unlearned by twice-borns, now shine forth' — so you said."
 
@@ -9374,7 +9374,7 @@ translator: thothica
 
 **3.140.5**  Eighty-eight thousand gandharvas who move with speed, and kiṃpuruṣas, O king, and yakṣas four times their number —
 
-**3.140.6**  — of many forms and bearing various weapons, they attend upon Māṇibhadra, the lord of yakṣas, O best among men.
+**3.140.6**  — of many forms and bearing various weapons, they attend upon Maṇibhadra, the lord of yakṣas, O best among men.
 
 **3.140.7**  Their prosperity is exceedingly great, and in movement they are equal to the wind — they could surely dislodge even the king of the gods from his position.
 
@@ -9622,7 +9622,7 @@ translator: thothica
 
 **3.145.6**  Ghaṭotkaca said: Even alone I am capable of carrying the king of dharma, Dhaumya, the princess, and the twin brothers — how much more so now, when I have helpers with me.
 
-**3.145.7**  Vaiśaṃpāyana said: Having spoken thus, Ghaṭotkaca then carried Kṛṣṇa (Draupadī) upon his back; that hero moved among the Pāṇḍavas, while the other rakshasas carried the Pāṇḍavas themselves.
+**3.145.7**  Vaiśaṃpāyana said: Having spoken thus, Ghaṭotkaca then carried Kṛṣṇā (Draupadī) upon his back; that hero moved among the Pāṇḍavas, while the other rakshasas carried the Pāṇḍavas themselves.
 
 **3.145.8**  Lomaśa, of incomparable brilliance, traveled by the path of the siddhas, shining by his own inner power, like a second sun.
 
@@ -9678,7 +9678,7 @@ translator: thothica
 
 **3.145.34**  Then Yudhiṣṭhira, son of Dharma, received with devotion the honor thus rendered to him by the great sages with love.
 
-**3.145.35**  That hermitage resembling the abode of Śakra, fragrant with divine scents, lovely, equal to heaven in its holiness — the Pāṇḍava, full of joy, together with Kṛṣṇa (Draupadī) —
+**3.145.35**  That hermitage resembling the abode of Śakra, fragrant with divine scents, lovely, equal to heaven in its holiness — the Pāṇḍava, full of joy, together with Kṛṣṇā (Draupadī) —
 
 **3.145.36**  — entered it, endowed with beauty, together with his brothers, O sinless one, and together with brahmins versed in the Vedas and Vedāṅgas, accompanied by the unfailing one.
 
@@ -9694,7 +9694,7 @@ translator: thothica
 
 **3.145.42**  There those foremost of men, those heroes, dwelling with the brahmins, repeatedly offered satisfaction to the gods and the ancestors.
 
-**3.145.43**  Watching the various delightful pastimes of Kṛṣṇa (Draupadī) there, those tiger-like men, the Pāṇḍavas, shining like immortals, rejoiced in that place.
+**3.145.43**  Watching the various delightful pastimes of Kṛṣṇā (Draupadī) there, those tiger-like men, the Pāṇḍavas, shining like immortals, rejoiced in that place.
 
 **3.146.1**  Vaiśaṃpāyana said: There those tiger-like men, those heroes, observing the strictest purity and longing to see Dhanañjaya, the Pāṇḍavas dwelt for six nights, roaming and taking pleasure in that place.
 
@@ -9704,7 +9704,7 @@ translator: thothica
 
 **3.146.4**  — and various lakes with clear waters gleaming on all sides with lotuses and blue water-lilies — beholding all these lovely forms, the Pāṇḍavas took their delight in that place.
 
-**3.146.5**  There blew a breeze of holy fragrance and pleasant touch, gladdening all the Pāṇḍavas together with Kṛṣṇa and the foremost twice-born sages.
+**3.146.5**  There blew a breeze of holy fragrance and pleasant touch, gladdening all the Pāṇḍavas together with Kṛṣṇā and the foremost twice-born sages.
 
 **3.146.6**  Then the wind blowing from the northeast carried by chance a divine lotus, brilliant as the sun, with a thousand petals.
 
@@ -10254,7 +10254,7 @@ translator: thothica
 
 **3.152.23**  Then those Krodhavaśa, driven back by Bhīma's might, gathered themselves and went to the lord of wealth; exceedingly distressed, they reported faithfully Bhīma's valor and strength in battle.
 
-**3.152.24**  Hearing their words, the divine lord laughed and then addressed the rakshasas: "Let Bhīma take the water-born flowers as he pleases; I already know it is for Kṛṣṇa's sake."
+**3.152.24**  Hearing their words, the divine lord laughed and then addressed the rakshasas: "Let Bhīma take the water-born flowers as he pleases; I already know it is for Kṛṣṇā's sake."
 
 **3.152.25**  Then, having taken leave of the lord of wealth, they went, their anger gone, to the best of the Kurus, and beheld Bhīma sporting alone in that lotus-lake as he pleased.
 
@@ -10326,7 +10326,7 @@ translator: thothica
 
 **3.154.3**  Representing himself as a brahmin skilled in mantras and supremely learned in all weapons, he constantly attended upon the Pāṇḍavas daily.
 
-**3.154.4**  He examined the quivers and bows of the Pārthas while seeking an opportunity, known by name as Jatasura.
+**3.154.4**  He examined the quivers and bows of the Pārthas while seeking an opportunity, known by name as Jaṭāsura.
 
 **3.154.5**  When the foe-subduing Bhīmasena had gone out for hunting, he assumed another form — terrible, monstrous, and enormous.
 
@@ -10416,7 +10416,7 @@ translator: thothica
 
 **3.154.48**  Those two best among the strong shattered great trees with their thighs, grappling with each other in fury, each seeking victory over the other.
 
-**3.154.49**  That tree-battle brought destruction to the trees, just as the battle between the brothers Vali and Sugrīva, those lions among monkeys, had done before.
+**3.154.49**  That tree-battle brought destruction to the trees, just as the battle between the brothers Vālī and Sugrīva, those lions among monkeys, had done before.
 
 **3.154.50**  Swinging trees again and again at each other for a while, they both struck blows, roaring repeatedly.
 
@@ -10438,7 +10438,7 @@ translator: thothica
 
 **3.154.59**  The Pāṇḍava crushed all his limbs and, striking him with his elbow, severed the head from the body.
 
-**3.154.60**  Jatasura's head, with lips bitten, eyes rolled back, like fruit fallen from its stalk, held by the force of Bhīmasena, fell drenched in blood, with teeth clenching the lips.
+**3.154.60**  Jaṭāsura's head, with lips bitten, eyes rolled back, like fruit fallen from its stalk, held by the force of Bhīmasena, fell drenched in blood, with teeth clenching the lips.
 
 **3.154.61**  Having slain him, that great archer came to Yudhiṣṭhira, praised by those foremost brahmins, like Vāsava attended by the Maruts.
 
@@ -10488,7 +10488,7 @@ translator: thothica
 
 **3.155.23**  That wise one, skilled in past and future, knower of all dharma, that knower of righteousness, instructed the bulls of the Bhārata race as a father would his sons.
 
-**3.155.24**  Those great-souled heroes, given leave, journeyed northward together with Kṛṣṇa and great-souled brahmins; and Vṛṣaparvan, lord of the earth, followed them as they set out.
+**3.155.24**  Those great-souled heroes, given leave, journeyed northward together with Kṛṣṇā and great-souled brahmins; and Vṛṣaparvan, lord of the earth, followed them as they set out.
 
 **3.155.25**  The great-splendoured Vṛṣaparvan commended the Pāṇḍavas to the brahmins, blessed the sons of Kuntī with benedictions, congratulated them, and after showing them the path, turned back.
 
@@ -10502,7 +10502,7 @@ translator: thothica
 
 **3.155.30**  Going ever higher on the mountain, those very many most impassable, utterly inaccessible caves they traversed with ease.
 
-**3.155.31**  Dhaumya, Kṛṣṇa, the Pārthas, and the great sage Lomaśa all went together there; not one fell behind.
+**3.155.31**  Dhaumya, Kṛṣṇā, the Pārthas, and the great sage Lomaśa all went together there; not one fell behind.
 
 **3.155.32**  That place resounded with animals and birds, teeming with many kinds of birds, frequented by troops of monkeys, and exceedingly beautiful.
 
@@ -10688,7 +10688,7 @@ translator: thothica
 
 **3.157.2**  And what were the foods of those great-souled heroes of the world while they dwelt there? Tell me that, O best one.
 
-**3.157.3**  Tell me in detail of Bhīmasena's feats — whatever the mighty-armed one did on that Himalayan mountain. Surely there was no further battle with the yakshas, O best of the twice-born?
+**3.157.3**  Tell me in detail of Bhīmasena's feats — whatever the mighty-armed one did on that Himālayan mountain. Surely there was no further battle with the yakshas, O best of the twice-born?
 
 **3.157.4**  Was there a meeting of theirs with Vaiśravaṇa? For the wealth-giver comes there, as Ārṣṭiṣeṇa had said.
 
@@ -10722,7 +10722,7 @@ translator: thothica
 
 **3.157.19**  "By the mighty wind with the velocity of Garuḍa's wings, flowers of five colors are being blown, O bull of the Bhāratas, before the eyes of all beings, toward the river Ashvaratha."
 
-**3.157.20**  "In the Khandava forest, by your brother of true pledges, O lord of men, gandharvas, serpents, and rakshasas were repelled, and even Vāsava was checked; the terrible sorcerers were slain, and the Gāṇḍīva bow was obtained."
+**3.157.20**  "In the Khāṇḍava forest, by your brother of true pledges, O lord of men, gandharvas, serpents, and rakshasas were repelled, and even Vāsava was checked; the terrible sorcerers were slain, and the Gāṇḍīva bow was obtained."
 
 **3.157.21**  "And your own splendor is very great, and your arm-strength is immense — unbearable and unapproachable, equal to the strength of Śatakratu (Indra)."
 
@@ -11120,21 +11120,21 @@ translator: thothica
 
 **3.161.17**  Then one day, when those great warriors thinking of Arjuna suddenly beheld the great chariot of Indra drawn by bay horses approaching with lightning's brilliance, joy arose in them.
 
-**3.161.18**  Blazing and suddenly illuminating the sky, guided by Matali, it shone like a great meteor in the midst of clouds, or like a smokeless tongue of fire blazing upward.
+**3.161.18**  Blazing and suddenly illuminating the sky, guided by Mātali, it shone like a great meteor in the midst of clouds, or like a smokeless tongue of fire blazing upward.
 
 **3.161.19**  Mounted on it, the diademed one was seen — Dhanañjaya, garlanded and wearing ornaments of finest quality, blazing with the splendor of the thunderbolt-bearer, came to the mountain aflame with glory.
 
 **3.161.20**  Having reached the mountain, the crown-garlanded one descended from that chariot of mighty Indra and, bowing first at the feet of Dhaumya, then next at those of Ajātaśatru.
 
-**3.161.21**  He bowed also at the feet of Vṛkodara, was greeted in turn by the sons of Mādrī, and having met Kṛṣṇa and comforted her, he stood humbly at his brother's side.
+**3.161.21**  He bowed also at the feet of Vṛkodara, was greeted in turn by the sons of Mādrī, and having met Kṛṣṇā and comforted her, he stood humbly at his brother's side.
 
 **3.161.22**  There arose in all of them the greatest joy upon being reunited with that immeasurable hero; and he too, the crown-garlanded one, seeing them, rejoiced and offered praise to the king.
 
 **3.161.23**  Approaching that chariot of Indra — the slayer of Namuci, by riding which he had slain seven hosts of Diti's sons — the Pārthas of undaunted spirit circumambulated it reverently.
 
-**3.161.24**  They, exceedingly delighted, rendered Matali the highest honor befitting the king of the gods; and the sons of the Kuru king duly asked him all things concerning the dwellers in heaven.
+**3.161.24**  They, exceedingly delighted, rendered Mātali the highest honor befitting the king of the gods; and the sons of the Kuru king duly asked him all things concerning the dwellers in heaven.
 
-**3.161.25**  Matali greeted them in return and, having instructed them as a father would his sons, departed in that chariot of incomparable brilliance back to the presence of the lord of the triple heaven.
+**3.161.25**  Mātali greeted them in return and, having instructed them as a father would his sons, departed in that chariot of incomparable brilliance back to the presence of the lord of the triple heaven.
 
 **3.161.26**  When that divine chariot had departed, the great-souled son of Śakra, destroyer of all enemies, joyfully gave to his beloved — the mother of his son Soma — the great and most beautiful ornaments radiant as the sun that Śakra had given him.
 
@@ -11176,7 +11176,7 @@ translator: thothica
 
 **3.162.16**  — observing celibacy for a year, self-restrained, with sharpened vows, shall live free from affliction and in great happiness for a hundred autumns.
 
-**3.163.1**  Vaiśaṃpāyana said: When Śakra had departed as he came, Bībhatsu, reunited with his brothers and with Kṛṣṇa, paid homage to the son of Dharma.
+**3.163.1**  Vaiśaṃpāyana said: When Śakra had departed as he came, Bībhatsu, reunited with his brothers and with Kṛṣṇā, paid homage to the son of Dharma.
 
 **3.163.2**  Smelling the head of the Pāṇḍava as he made his obeisance, the king spoke to Arjuna in a voice thick with joy, himself overjoyed.
 
@@ -11212,11 +11212,11 @@ translator: thothica
 
 **3.163.18**  It was striking the earth with its snout, scratching with its hooves as well, sweeping the ground with its belly, and turning about again and again.
 
-**3.163.19**  Behind it came another great creature in the form of a Kirata hunter, arrived bearing bow, arrows, and sword, followed by a host of women.
+**3.163.19**  Behind it came another great creature in the form of a Kirāta hunter, arrived bearing bow, arrows, and sword, followed by a host of women.
 
 **3.163.20**  Then I took up my bow and the two inexhaustible quivers and struck that hair-raising creature with an arrow.
 
-**3.163.21**  Simultaneously that Kirata, drawing his bow with great force, struck back even more powerfully, making my mind tremble.
+**3.163.21**  Simultaneously that Kirāta, drawing his bow with great force, struck back even more powerfully, making my mind tremble.
 
 **3.163.22**  He then spoke to me, O king: 'This creature is my prior possession — abandoning the dharma of the hunt, why have you struck it?'
 
@@ -11256,7 +11256,7 @@ translator: thothica
 
 **3.163.40**  Having done all this, the blessed lord then assumed another form of his own — a divine form, O great king, clad in a wondrous garment.
 
-**3.163.41**  Abandoning the guise of the Kirata, the blessed lord, master of the thirty gods, assumed his own divine form and stood there — the great lord Maheśvara.
+**3.163.41**  Abandoning the guise of the Kirāta, the blessed lord, master of the thirty gods, assumed his own divine form and stood there — the great lord Maheśvara.
 
 **3.163.42**  Then the blessed lord appeared in person — he whose banner bears the bull, companion of Umā, tawny-eyed, of many forms, bearer of the Pināka bow.
 
@@ -11326,7 +11326,7 @@ translator: thothica
 
 **3.164.22**  'Yet still most severe austerity must be practiced'; and the blessed lord told me everything about the means of that austerity.
 
-**3.164.23**  'Matali, by my command, shall bring you to the three heavens; for you are known to the gods and to the great-souled seers.'
+**3.164.23**  'Mātali, by my command, shall bring you to the three heavens; for you are known to the gods and to the great-souled seers.'
 
 **3.164.24**  Then I said to Śakra: 'Be gracious to me, O blessed lord; I choose you as my teacher for the purpose of learning weapons, O lord of the thirty gods.'
 
@@ -11340,17 +11340,17 @@ translator: thothica
 
 **3.164.29**  'Go to my abode and learn all weapons, O Bhārata — from Vāyu, from Agni, from the Vasus, from Varuṇa together with the hosts of Maruts.'
 
-**3.164.30**  'The Sadhya-weapon, the Pitāmaha-weapon, the weapons of the gandharvas, serpents, and rakshasas, all the Vaiṣṇava weapons, and likewise the Nairṛta weapons, and all weapons that abide with me here — learn them all, O chief of the Kurus.'
+**3.164.30**  'The Sādhya-weapon, the Pitāmaha-weapon, the weapons of the gandharvas, serpents, and rakshasas, all the Vaiṣṇava weapons, and likewise the Nairṛta weapons, and all weapons that abide with me here — learn them all, O chief of the Kurus.'
 
-**3.164.31**  Arjuna said: Having thus spoken to me, Śakra vanished right there. Then I saw Indra's chariot yoked with bay steeds, divine, fashioned of illusion, sacred, made ready by Matali, O king.
+**3.164.31**  Arjuna said: Having thus spoken to me, Śakra vanished right there. Then I saw Indra's chariot yoked with bay steeds, divine, fashioned of illusion, sacred, made ready by Mātali, O king.
 
-**3.164.32**  When the world-guardians had departed, Matali then spoke to me: 'Śakra, the king of gods, wishes to see you, O greatly brilliant one.'
+**3.164.32**  When the world-guardians had departed, Mātali then spoke to me: 'Śakra, the king of gods, wishes to see you, O greatly brilliant one.'
 
 **3.164.33**  'You are accomplished, O mighty-armed one — perform this supreme purpose; behold the worlds of those who have done meritorious deeds and go to heaven in your very body.'
 
-**3.164.34**  Thus addressed by Matali, I took leave of the Shaishira mountain, circumambulated it clockwise, and mounted that finest of chariots.
+**3.164.34**  Thus addressed by Mātali, I took leave of the Shaishira mountain, circumambulated it clockwise, and mounted that finest of chariots.
 
-**3.164.35**  Matali, expert in the science of horses, skilled and expert, then drove the horses whose speed matched that of mind and wind.
+**3.164.35**  Mātali, expert in the science of horses, skilled and expert, then drove the horses whose speed matched that of mind and wind.
 
 **3.164.36**  Then that charioteer glanced at my face as I stood there while the chariot sped along, O king, and amazed, he spoke these words.
 
@@ -11360,9 +11360,9 @@ translator: thothica
 
 **3.164.39**  'But you remain perfectly steady here as the chariot races on, O foremost of the Kurus — your strength appears to me to surpass even Śakra's.'
 
-**3.164.40**  Having said this, Matali entered the sky and showed me, O king, the abodes of the gods and the celestial mansions, O Bhārata.
+**3.164.40**  Having said this, Mātali entered the sky and showed me, O king, the abodes of the gods and the celestial mansions, O Bhārata.
 
-**3.164.41**  Matali, Śakra's charioteer, with affection showed me many forests of the gods — Nandana and others.
+**3.164.41**  Mātali, Śakra's charioteer, with affection showed me many forests of the gods — Nandana and others.
 
 **3.164.42**  Then I saw Śakra's abode, Amarāvatī, adorned with divine wish-fulfilling trees and with jewels throughout.
 
@@ -11700,11 +11700,11 @@ translator: thothica
 
 **3.170.12**  These beings dwell here ever joyful, invincible to all the gods, O king of kings — free from anxiety and desire; death by a mortal hand was ordained for them by Brahmā of old.
 
-**3.170.13**  Arjuna said: Learning that they could not be slain by gods or demons, O lord, I joyfully said to Matali, "Drive straight into that city."
+**3.170.13**  Arjuna said: Learning that they could not be slain by gods or demons, O lord, I joyfully said to Mātali, "Drive straight into that city."
 
 **3.170.14**  "Until I bring destruction upon the enemies of the lord of the thirty gods with my weapons, these sinful foes of the gods shall surely not escape being slain by me."
 
-**3.170.15**  Then Matali swiftly bore me close to Hiraṇyapura in that divine chariot yoked with bay horses.
+**3.170.15**  Then Mātali swiftly bore me close to Hiraṇyapura in that divine chariot yoked with bay horses.
 
 **3.170.16**  Seeing me, the Daityas, clad in splendid ornaments and garments, armour-clad, mounted their chariots and rushed forth with great speed.
 
@@ -11732,7 +11732,7 @@ translator: thothica
 
 **3.170.28**  Struck by my iron arrows swift as thunderbolts, the asuras reeled about, O king, driven by fate.
 
-**3.170.29**  Then Matali too swiftly descended toward the earth as if swooping down, quickly landing with that sun-bright chariot.
+**3.170.29**  Then Mātali too swiftly descended toward the earth as if swooping down, quickly landing with that sun-bright chariot.
 
 **3.170.30**  Then sixty thousand chariots of those indignant ones, eager to fight with me, wheeled around, O Bhārata.
 
@@ -11778,7 +11778,7 @@ translator: thothica
 
 **3.170.51**  Beholding them crushed by the Raudra weapon, still adorned with their divine ornaments, the divine charioteer was filled with the greatest joy.
 
-**3.170.52**  Seeing that unbearable feat accomplished — difficult even for the gods to achieve — Matali, the charioteer of Śakra, honoured me.
+**3.170.52**  Seeing that unbearable feat accomplished — difficult even for the gods to achieve — Mātali, the charioteer of Śakra, honoured me.
 
 **3.170.53**  Delighted and joining his palms, he spoke these words: "The deed you have accomplished is unbearable even for gods and demons; not even the lord of the gods would be capable of performing this in battle."
 
@@ -11794,11 +11794,11 @@ translator: thothica
 
 **3.170.59**  Like a gandharva city in appearance, like a lake whose great serpent has been slain, like a forest of withered trees, the city became invisible.
 
-**3.170.60**  But Matali, his heart overjoyed, quickly brought me — my task accomplished in battle — to the palace of the king of gods.
+**3.170.60**  But Mātali, his heart overjoyed, quickly brought me — my task accomplished in battle — to the palace of the king of gods.
 
 **3.170.61**  Having stormed Hiraṇyapura and slain the great asuras and the Nivātakavacas, I then came before Śakra.
 
-**3.170.62**  And Matali reported all my deeds in full detail to Indra, lord of the gods, exactly as they had occurred, O greatly splendid one.
+**3.170.62**  And Mātali reported all my deeds in full detail to Indra, lord of the gods, exactly as they had occurred, O greatly splendid one.
 
 **3.170.63**  The destruction of Hiraṇyapura, the repulsion of the illusions, and the slaying of the mighty Nivātakavacas in battle —
 
@@ -11894,7 +11894,7 @@ translator: thothica
 
 **3.172.23**  Having thus restrained the son of Pṛthā, all the gods departed as they had come, and so did the others who had assembled there, O bull among men.
 
-**3.172.24**  When all of them had departed, O descendant of the Kurus, the Pāṇḍavas along with Kṛṣṇa dwelt joyfully in that very forest.
+**3.172.24**  When all of them had departed, O descendant of the Kurus, the Pāṇḍavas along with Kṛṣṇā dwelt joyfully in that very forest.
 
 **3.173.1**  Janamejaya said: "After that foremost of chariot-warriors, having mastered the weapons, had returned from the abode of the slayer of Vṛtra, what did the sons of Pṛthā do thereafter, having been reunited with the heroic Dhanañjaya?"
 
@@ -11960,9 +11960,9 @@ translator: thothica
 
 **3.174.10**  And having seen that lake, the sons of Pāṇḍu — those foremost of all men — free from sorrow, sported as if they had come to dwell in Nandana, just as the twice-born seers free from fear.
 
-**3.174.11**  Then those heroic men gradually approached, all together by the very road by which they had come, having sported happily at Badarī for a month, the realm of Subāhu the Kirata king.
+**3.174.11**  Then those heroic men gradually approached, all together by the very road by which they had come, having sported happily at Badarī for a month, the realm of Subāhu the Kirāta king.
 
-**3.174.12**  Passing through the lands of the Chinas, Tokharas, Daradas, Darvas, and the gem-rich territories of the Kuṇindas, and crossing the difficult Himalayan regions, those heroic men beheld the city of Subāhu.
+**3.174.12**  Passing through the lands of the Chinas, Tokharas, Daradas, Darvas, and the gem-rich territories of the Kuṇindas, and crossing the difficult Himālayan regions, those heroic men beheld the city of Subāhu.
 
 **3.174.13**  Hearing that those sons and grandsons of kings had arrived in his territory altogether, king Subāhu went forth joyfully to meet them; and the bulls of the Kurus welcomed him in return.
 
@@ -12334,7 +12334,7 @@ translator: thothica
 
 **3.179.18**  At the rising of the darkness of that night, the Pāṇḍavas together with Dhaumya, with their charioteers and cooks, departed for the Kāmyaka forest.
 
-**3.180.1**  Vaiśaṃpāyana said: Having reached Kāmyaka, the sons of Kuntī with Yudhiṣṭhira at their head, duly honored as guests by the groups of sages, took their seats together with Kṛṣṇa (Draupadī).
+**3.180.1**  Vaiśaṃpāyana said: Having reached Kāmyaka, the sons of Kuntī with Yudhiṣṭhira at their head, duly honored as guests by the groups of sages, took their seats together with Kṛṣṇā (Draupadī).
 
 **3.180.2**  Then many brahmins surrounded from all sides those sons of Pāṇḍu as they dwelt there in full confidence.
 
@@ -12962,7 +12962,7 @@ translator: thothica
 
 **3.186.92**  Then, having entered that belly instantly, O lord of men, I see the entire earth crowded with kingdoms and cities.
 
-**3.186.93**  I see the Gaṅgā, the Śatadrū, the Sītā, the Yamunā, the Kauśikī, the Carmaṇvatī, the Vetravatī, the Candrabhāgā, and the Sarasvatī.
+**3.186.93**  I see the Gaṅgā, the Śatadru, the Sītā, the Yamunā, the Kauśikī, the Carmaṇvatī, the Vetravatī, the Candrabhāgā, and the Sarasvatī.
 
 **3.186.94**  And the Sindhu, the Vipāśā, the river Godāvarī, the Vasvokasārā, the Nalinī, and the Narmadā as well, O Bhārata.
 
@@ -13146,7 +13146,7 @@ translator: thothica
 
 **3.187.55**  Mādhava is indeed the father and mother of all living beings; go to him for refuge, O bulls of the Kuru clan — he is the worthy refuge.
 
-**3.188.1**  Vaiśaṃpāyana said: Thus addressed, those sons of Pṛthā, and the twin heroes, best of men, together with Draupadī Kṛṣṇa, bowed to Janārdana.
+**3.188.1**  Vaiśaṃpāyana said: Thus addressed, those sons of Pṛthā, and the twin heroes, best of men, together with Draupadī Kṛṣṇā, bowed to Janārdana.
 
 **3.188.2**  And he, tiger among men, consoled them with supremely gracious words of comfort, treating those worthy of honor with due regard as was proper.
 
@@ -14882,7 +14882,7 @@ translator: thothica
 
 **3.211.4**  And heat was born of the heated one; that fire is perceived among beings; and fire also — named Manu — established what belongs to Prajāpati.
 
-**3.211.5**  The brāhmaṇas versed to the end of the Vedas call it the Śaṃbhu fire; the twice-born call the blazing fire of great radiance the Āvasathya.
+**3.211.5**  The brāhmaṇas versed to the end of the Vedas call it the Śambhu fire; the twice-born call the blazing fire of great radiance the Āvasathya.
 
 **3.211.6**  Agni truly begot through austerity five bearers of oblations here, makers of vigour, resplendent like gold, sons born of sacrifice.
 
@@ -15126,7 +15126,7 @@ translator: thothica
 
 **3.214.13**  That goddess also took on the likenesses of the remaining wives of those great-souled seven sages and, in each form, desired Fire.
 
-**3.214.14**  She was unable, however, to assume the divine form of Arundhati — for by the power of Arundhati's austerities and her devoted service to her husband, that form remained beyond Svāhā's reach.
+**3.214.14**  She was unable, however, to assume the divine form of Arundhatī — for by the power of Arundhatī's austerities and her devoted service to her husband, that form remained beyond Svāhā's reach.
 
 **3.214.15**  Six times did that impassioned Svāhā cast Agni's seed into the golden vessel, O best of the Kurus, on the mountain's slope.
 
@@ -15182,7 +15182,7 @@ translator: thothica
 
 **3.215.4**  The Suparṇa-bird, hearing those words, thought 'this child is mine.' She approached Skanda gently and said: 'I am your mother.'
 
-**3.215.5**  Then the seven sages, hearing that a son of great energy had been born, abandoned their six wives — all except the goddess Arundhati.
+**3.215.5**  Then the seven sages, hearing that a son of great energy had been born, abandoned their six wives — all except the goddess Arundhatī.
 
 **3.215.6**  The forest-dwellers said that the child was born of those six alone. And Svāhā told the seven sages: 'This is my son.' But O king, they said again and again: 'We know that this is not so.'
 
@@ -16412,7 +16412,7 @@ translator: thothica
 
 **3.235.8**  Arjuna said: "Release him, Citrasena — Suyodhana is our brother. If you wish to please me, do so at the command of Dharmarāja."
 
-**3.235.9**  Citrasena said: "This sinful one, ever corrupt, does not deserve to be released — he has cheated Dharmarāja and Kṛṣṇa (Draupadī), O Dhanañjaya.
+**3.235.9**  Citrasena said: "This sinful one, ever corrupt, does not deserve to be released — he has cheated Dharmarāja and Kṛṣṇā (Draupadī), O Dhanañjaya.
 
 **3.235.10**  "The son of Kuntī, Dharmarāja, that one of great vows, does not know what this one intended to do — inform him, and then do as you wish."
 
@@ -16532,7 +16532,7 @@ translator: thothica
 
 **3.238.13**  Having caused grief to my friends and increased the joy of my enemies, what shall I say to the lord of men when I reach Hāstinapura?
 
-**3.238.14**  Bhīṣma, Droṇa, Kṛpa, Drauṇi, Vidura, Sañjaya, Bāhlīka, Somadatta, and all the other elders held in esteem —
+**3.238.14**  Bhīṣma, Droṇa, Kṛpa, Drauṇi, Vidura, Sañjaya, Bāhlika, Somadatta, and all the other elders held in esteem —
 
 **3.238.15**  Brāhmaṇas, guild leaders, and those who remain neutral — what will they say to me, and what in turn shall I say to them?
 
@@ -17254,7 +17254,7 @@ translator: thothica
 
 **3.250.4**  "I know you as the son of Suratha, whom men know as Kotikashya; therefore, O Śaibya, I shall likewise tell you about my kinsmen — hear this well."
 
-**3.250.5**  "I am the offspring of King Drupada; men know me as Kṛṣṇa, O Śaibya. I have chosen five men as husbands — those who went to Khāṇḍavaprastha, of whom you have heard."
+**3.250.5**  "I am the offspring of King Drupada; men know me as Kṛṣṇā, O Śaibya. I have chosen five men as husbands — those who went to Khāṇḍavaprastha, of whom you have heard."
 
 **3.250.6**  "Yudhiṣṭhira, Bhīmasena, Arjuna, and the two heroic sons of Mādrī — having settled me here, the Pārthas divided the four directions and have gone to the hunt."
 
@@ -17278,7 +17278,7 @@ translator: thothica
 
 **3.251.7**  Vaiśaṃpāyana said: Thus addressed, Jayadratha, lord of the Sauvīras and Sindhus, wicked-hearted, replied: "We shall see Draupadī."
 
-**3.251.8**  He entered the empty hermitage like a wolf entering a lion's lair, himself the seventh, and spoke these words to Kṛṣṇa (Draupadī).
+**3.251.8**  He entered the empty hermitage like a wolf entering a lion's lair, himself the seventh, and spoke these words to Kṛṣṇā (Draupadī).
 
 **3.251.9**  "Are you well, O noble-hipped one? Are your husbands also free from ailment? Those for whose welfare you care — are they too free from illness?"
 
@@ -17314,7 +17314,7 @@ translator: thothica
 
 **3.252.4**  "I think there is no one among such an assembly of kṣatriyas who could today seize your falling hand as you tumble toward the mouth of hell and pull you back."
 
-**3.252.5**  "You, who aspire to conquer Dharmarāja, are like one who tries to drive away with a stick a maddened elephant, mountain-like, roaming the Himalayan slopes from its herd."
+**3.252.5**  "You, who aspire to conquer Dharmarāja, are like one who tries to drive away with a stick a maddened elephant, mountain-like, roaming the Himālayan slopes from its herd."
 
 **3.252.6**  "You pluck the eyelashes from the mouth of a mighty sleeping lion — and then you flee on foot. When you see Bhīmasena in his wrath, what will become of you?"
 
@@ -18102,15 +18102,15 @@ translator: thothica
 
 **3.264.15**  Having spoken thus and made their compact, placing mutual trust in one another, they all approached Kiṣkindhā and stood there eager for battle.
 
-**3.264.16**  Sugrīva, reaching Kiṣkindhā, roared with a sound like a thunder-cloud. Vālin did not tolerate that, but Tara tried to restrain him.
+**3.264.16**  Sugrīva, reaching Kiṣkindhā, roared with a sound like a thunder-cloud. Vālin did not tolerate that, but Tārā tried to restrain him.
 
 **3.264.17**  "As Sugrīva roars like this, this mighty monkey must have come with a powerful protector—you should not go out."
 
-**3.264.18**  Then Vālin, lord of monkeys, he who wears a golden garland, eloquent of speech, spoke to Tara, whose face was like the lord of stars.
+**3.264.18**  Then Vālin, lord of monkeys, he who wears a golden garland, eloquent of speech, spoke to Tārā, whose face was like the lord of stars.
 
 **3.264.19**  "You who understand the cries of all creatures, consider carefully with your wisdom: by whose support has this one who resembles my brother come here?"
 
-**3.264.20**  Having reflected for a moment, Tara, radiant as the lord of stars, spoke wisely to her husband: "Hear everything, O lord of monkeys."
+**3.264.20**  Having reflected for a moment, Tārā, radiant as the lord of stars, spoke wisely to her husband: "Hear everything, O lord of monkeys."
 
 **3.264.21**  "Rāma, son of Daśaratha, great-souled and a master of the bow, whose wife has been carried off, has entered into an alliance with Sugrīva as an equal."
 
@@ -18122,7 +18122,7 @@ translator: thothica
 
 **3.264.25**  The lord of monkeys dismissed her well-meaning words and, filled with jealousy, suspected her heart of being set upon Sugrīva.
 
-**3.264.26**  Having spoken harshly to Tara, he went out from the mouth of the cave and addressed Sugrīva, who stood near mount Malyavat.
+**3.264.26**  Having spoken harshly to Tārā, he went out from the mouth of the cave and addressed Sugrīva, who stood near mount Malyavat.
 
 **3.264.27**  "Fool, you have been defeated by me more than once, and spared because you clung to life—I let you go knowing you were a kinsman. What haste is this to die again?"
 
@@ -18146,9 +18146,9 @@ translator: thothica
 
 **3.264.37**  His vital points pierced and struck, vomiting blood from his mouth, he saw Rāma standing nearby together with the son of Sumitrā.
 
-**3.264.38**  Having censured the scion of Kākutstha, he fell senseless to the earth; and Tara saw him lying on the ground like the lord of stars fallen from heaven.
+**3.264.38**  Having censured the scion of Kākutstha, he fell senseless to the earth; and Tārā saw him lying on the ground like the lord of stars fallen from heaven.
 
-**3.264.39**  With Vālin slain, Sugrīva returned to Kiṣkindhā and to Tara, whose face was like the moon, whose lord had fallen.
+**3.264.39**  With Vālin slain, Sugrīva returned to Kiṣkindhā and to Tārā, whose face was like the moon, whose lord had fallen.
 
 **3.264.40**  Wise Rāma then dwelt for four months on the auspicious slopes of mount Malyavat, attended upon by Sugrīva.
 
@@ -18158,7 +18158,7 @@ translator: thothica
 
 **3.264.43**  The lord of rakshasas posted rakshasis there to guard her, wielding lances, swords, spears, axes, clubs, and firebrands.
 
-**3.264.44**  Two-eyed, three-eyed, forehead-eyed, long-tongued, tongueless, three-breasted, one-footed, Trijata, and one-eyed—
+**3.264.44**  Two-eyed, three-eyed, forehead-eyed, long-tongued, tongueless, three-breasted, one-footed, Trijaṭā, and one-eyed—
 
 **3.264.45**  these and others besides, with blazing eyes and hair as thick as an elephant's trunk, surrounded Sītā day and night without rest.
 
@@ -18176,7 +18176,7 @@ translator: thothica
 
 **3.264.52**  Hearing those words of hers, those harsh-voiced rakshasis went to report everything from the beginning to the lord of rakshasas.
 
-**3.264.53**  When all of them had gone, a rakshasi named Trijata, learned in righteousness and speaking kind words, consoled the daughter of Videha.
+**3.264.53**  When all of them had gone, a rakshasi named Trijaṭā, learned in righteousness and speaking kind words, consoled the daughter of Videha.
 
 **3.264.54**  "Sītā, I will tell you something—place your trust in me, my friend; let your fear depart, O fair-thighed one; hear these words of mine."
 
@@ -18188,7 +18188,7 @@ translator: thothica
 
 **3.264.58**  "Let there be no fear in you, timid one, from Rāvaṇa who is condemned by the world—for you are protected by the curse of Nalakūbara, O blameless one."
 
-**3.264.59**  "For this wicked one was formerly cursed when he touched the young woman Rambha; the one of uncontrolled senses is incapable of approaching a woman against her will."
+**3.264.59**  "For this wicked one was formerly cursed when he touched the young woman Rambhā; the one of uncontrolled senses is incapable of approaching a woman against her will."
 
 **3.264.60**  "Your husband, wise and guarded by Sugrīva, will come swiftly with the son of Sumitrā and will free you from this torment."
 
@@ -18214,9 +18214,9 @@ translator: thothica
 
 **3.264.71**  "You will attain joy, O daughter of Videha, quickly reunited with your husband; Sītā, you will be with the son of Raghu and his brother before long."
 
-**3.264.72**  Hearing Trijata's words thus, she of the doe-eyed gaze, that young woman, became filled with hope of reunion with her husband.
+**3.264.72**  Hearing Trijaṭā's words thus, she of the doe-eyed gaze, that young woman, became filled with hope of reunion with her husband.
 
-**3.264.73**  Meanwhile the fearsome and utterly dreadful she-demons returned and saw her seated with Trijata, just as before.
+**3.264.73**  Meanwhile the fearsome and utterly dreadful she-demons returned and saw her seated with Trijaṭā, just as before.
 
 **3.265.1**  Mārkaṇḍeya said: Then, that devoted wife afflicted by grief for her husband, wretched, wearing soiled garments, adorned only with the remnant of her jewels, weeping—
 
@@ -18768,13 +18768,13 @@ translator: thothica
 
 **3.272.13**  Then he assailed him with javelins of great speed; but Lakṣmaṇa, the son of Sumitrā, cut them down with sharp arrows. Severed by the keen arrows, they fell upon the surface of the earth.
 
-**3.272.14**  Then the glorious Aṅgada, son of Vali, swift as the wind, snatched up a tree and rushing forward struck him on the head.
+**3.272.14**  Then the glorious Aṅgada, son of Vālī, swift as the wind, snatched up a tree and rushing forward struck him on the head.
 
 **3.272.15**  Unshaken, the valiant Indrajit wished to strike him on the chest with a spear; but Lakṣmaṇa cut that spear of his to pieces.
 
 **3.272.16**  The son of Rāvaṇa then struck that hero Aṅgada, the foremost of monkeys, who had come close, with his mace on the left flank.
 
-**3.272.17**  That powerful son of Vali, the slayer of enemies, paying no heed to the blow, hurled in fury at Indrajit the trunk of a shala tree.
+**3.272.17**  That powerful son of Vālī, the slayer of enemies, paying no heed to the blow, hurled in fury at Indrajit the trunk of a shala tree.
 
 **3.272.18**  That tree, hurled in wrath by Aṅgada to destroy Indrajit, O Pārtha, smashed Indrajit's chariot together with its horses and charioteer.
 
@@ -18800,7 +18800,7 @@ translator: thothica
 
 **3.273.3**  Seeing those two fallen on the ground, covered with hundreds of arrows, Sugrīva stood there surrounding them together with the monkeys.
 
-**3.273.4**  The lord of monkeys stood there with Suṣeṇa, Mainda, Dvivida, Kumuda, Aṅgada, Hanūmān, Nīla, Tara, and Nala.
+**3.273.4**  The lord of monkeys stood there with Suṣeṇa, Mainda, Dvivida, Kumuda, Aṅgada, Hanūmān, Nīla, Tāra, and Nala.
 
 **3.273.5**  Then Vibhīṣaṇa, who had accomplished his task, came to that place and awakened those two heroes; they were revived by the weapon of wisdom.
 
@@ -18882,13 +18882,13 @@ translator: thothica
 
 **3.274.11**  "Slay these evil rakshasas who have assumed your likeness!" And Rāma slew those and others who had taken on his likeness.
 
-**3.274.12**  Then Matali, charioteer of Indra, came up to Rāma on the battlefield in a chariot yoked with tawny horses and blazing like the sun.
+**3.274.12**  Then Mātali, charioteer of Indra, came up to Rāma on the battlefield in a chariot yoked with tawny horses and blazing like the sun.
 
-**3.274.13**  Matali said: "This is the victorious, best of chariots of Indra, yoked with tawny horses. With this noble chariot, O Kākutstha, O tiger of men, Indra slew the Daityas and Dānavas by the hundreds in battle."
+**3.274.13**  Mātali said: "This is the victorious, best of chariots of Indra, yoked with tawny horses. With this noble chariot, O Kākutstha, O tiger of men, Indra slew the Daityas and Dānavas by the hundreds in battle."
 
 **3.274.14**  "Therefore, O tiger of men, mount this chariot brought by me — the same one — and swiftly slay Rāvaṇa; do not delay."
 
-**3.274.15**  Thus addressed, the Rāghava doubted the truth of Matali's words — thinking: "This may be the demon's illusion" — and Vibhīṣaṇa said to him:
+**3.274.15**  Thus addressed, the Rāghava doubted the truth of Mātali's words — thinking: "This may be the demon's illusion" — and Vibhīṣaṇa said to him:
 
 **3.274.16**  "This is not the illusion of the evil-souled Rāvaṇa, O tiger of men. Therefore mount this chariot of Indra quickly, O greatly resplendent one."
 
@@ -19402,7 +19402,7 @@ translator: thothica
 
 **3.281.29**  A single meeting with the good is supremely desired; beyond that, it is called true friendship; association with a virtuous person is never fruitless; therefore one should dwell in the company of the good.
 
-**3.281.30**  Yama said: You have spoken to me words pleasing to the mind, increasing the wisdom of the wise, conducive to welfare — again excepting the life of this Satyavan; choose a second boon, passionate lady.
+**3.281.30**  Yama said: You have spoken to me words pleasing to the mind, increasing the wisdom of the wise, conducive to welfare — again excepting the life of this Satyavān; choose a second boon, passionate lady.
 
 **3.281.31**  Sāvitrī said: The kingdom of my wise father-in-law was stolen of old; may that king regain his own realm, and may my venerable father-in-law never abandon his own dharma — this second boon I ask of you.
 
@@ -19414,7 +19414,7 @@ translator: thothica
 
 **3.281.35**  Such indeed is this world — human beings are delicate in their power; yet even the good show compassion toward enemies when they are in distress.
 
-**3.281.36**  Yama said: As water is to one who thirsts, so has this speech been uttered by you; again excepting the life of this Satyavan, choose here whatever boon you wish, auspicious one.
+**3.281.36**  Yama said: As water is to one who thirsts, so has this speech been uttered by you; again excepting the life of this Satyavān, choose here whatever boon you wish, auspicious one.
 
 **3.281.37**  Sāvitrī said: My father, the lord of the earth, is without offspring; may there be a hundred sons born of my father himself, continuing the lineage of his family — this third boon I ask of you.
 
@@ -19430,7 +19430,7 @@ translator: thothica
 
 **3.281.43**  Yama said: The words you have uttered, O slender-waisted, auspicious one — such have not been heard by me from any other; by these I am pleased; excepting this one's life, choose a fourth boon and go.
 
-**3.281.44**  Sāvitrī said: May there be born sons of my own body from Satyavan, a hundred sons bearing strength and valour, upholding both our families here — this fourth boon I ask of you.
+**3.281.44**  Sāvitrī said: May there be born sons of my own body from Satyavān, a hundred sons bearing strength and valour, upholding both our families here — this fourth boon I ask of you.
 
 **3.281.45**  Yama said: A hundred sons bearing strength and valour shall be born to your delight, gentle one; let there be no weariness for you, O daughter of a king; turn back — you have come a long way.
 
@@ -19444,11 +19444,11 @@ translator: thothica
 
 **3.281.50**  Yama said: The more you speak words combined with dharma, pleasing to the mind, well-formed and full of great meaning, the more my supreme devotion grows toward you; choose an incomparable boon, O lady of firm vows.
 
-**3.281.51**  Sāvitrī said: Your release from meritorious action does not happen without being granted, O giver of honour, as in the other boons; I choose this boon: let this Satyavan live — for without my husband I am as if dead.
+**3.281.51**  Sāvitrī said: Your release from meritorious action does not happen without being granted, O giver of honour, as in the other boons; I choose this boon: let this Satyavān live — for without my husband I am as if dead.
 
 **3.281.52**  I do not desire happiness bereft of my husband; I do not desire heaven bereft of my husband; I do not desire prosperity bereft of my husband; I do not resolve to live as one without a husband.
 
-**3.281.53**  The grant of the boon — my having a hundred sons — was given by you yourself, yet my husband is being taken away; I choose the boon: let this Satyavan live; thus your own word will be true.
+**3.281.53**  The grant of the boon — my having a hundred sons — was given by you yourself, yet my husband is being taken away; I choose the boon: let this Satyavān live; thus your own word will be true.
 
 **3.281.54**  Mārkaṇḍeya said: Having said "So be it" and releasing those bonds, Yama Vaivasvata, the king of dharma, his soul filled with joy, spoke these words to Sāvitrī:
 
@@ -19456,7 +19456,7 @@ translator: thothica
 
 **3.281.56**  "He shall attain a lifespan of four hundred years together with you; having performed sacrifices with dharma, he shall gain renown in the world."
 
-**3.281.57**  "Satyavan shall beget on you a hundred sons; all of them shall be kings, warriors, with sons and grandsons, renowned and bearing your name — they shall be eternal here."
+**3.281.57**  "Satyavān shall beget on you a hundred sons; all of them shall be kings, warriors, with sons and grandsons, renowned and bearing your name — they shall be eternal here."
 
 **3.281.58**  "And a hundred sons shall be born to your father by your mother, of the Mālava lineage — Mālavas by name, eternal, with sons and grandsons; they shall be your brothers, warriors equal to the thirty gods."
 
@@ -19466,15 +19466,15 @@ translator: thothica
 
 **3.281.61**  Seeing her husband on the ground, she approached and embraced him, and placing his head in her lap, she sat down on the earth.
 
-**3.281.62**  And Satyavan, having regained consciousness, spoke to Sāvitrī; gazing at her again and again with affection, as if returned from a journey.
+**3.281.62**  And Satyavān, having regained consciousness, spoke to Sāvitrī; gazing at her again and again with affection, as if returned from a journey.
 
-**3.281.63**  Satyavan said: "Alas, I have slept very long — why was I not awakened? And where is that dark man who was dragging me away?"
+**3.281.63**  Satyavān said: "Alas, I have slept very long — why was I not awakened? And where is that dark man who was dragging me away?"
 
 **3.281.64**  Sāvitrī said: "Alas, you have slept very long on my lap, O bull among men; that blessed god who restrains the creatures, Yama, has gone."
 
 **3.281.65**  "You are rested, O greatly fortunate one, and free from sleep, O son of a king; if you are able, rise up and behold the deep night."
 
-**3.281.66**  Mārkaṇḍeya said: Then, having regained his senses, he rose as if from a pleasant sleep; gazing at all the directions and the edges of the forest, Satyavan spoke:
+**3.281.66**  Mārkaṇḍeya said: Then, having regained his senses, he rose as if from a pleasant sleep; gazing at all the directions and the edges of the forest, Satyavān spoke:
 
 **3.281.67**  "I went out to gather fruits with you, O slender-waisted one; then, while splitting wood, a pain arose in my head."
 
@@ -19492,7 +19492,7 @@ translator: thothica
 
 **3.281.74**  "These jackals, with their terrible cries, taking up the south-western direction, howl fiercely, shaking my heart."
 
-**3.281.75**  Satyavan said: "The forest appears terrifying, wrapped in dense darkness; you will not be able to discern the path, and you will not be able to go."
+**3.281.75**  Satyavān said: "The forest appears terrifying, wrapped in dense darkness; you will not be able to discern the path, and you will not be able to go."
 
 **3.281.76**  Sāvitrī said: "In this forest that was burned today, a dry tree stands blazing; fanned by the wind, fire is visible here and there."
 
@@ -19502,7 +19502,7 @@ translator: thothica
 
 **3.281.79**  "Tomorrow at dawn, when the forest is visible, we shall go with your consent; let us stay here this night, if it pleases you, O sinless one."
 
-**3.281.80**  Satyavan said: "The pain in my head has subsided; I perceive my limbs to be well; I wish to meet my mother and father — and this meeting is born of your grace."
+**3.281.80**  Satyavān said: "The pain in my head has subsided; I perceive my limbs to be well; I wish to meet my mother and father — and this meeting is born of your grace."
 
 **3.281.81**  "Never before have I gone to the hermitage at an improper time; my mother stops me whenever the evening has not yet come."
 
@@ -19562,7 +19562,7 @@ translator: thothica
 
 **3.282.1**  Mārkaṇḍeya said: At that very moment, Dyumatsena, in the great forest, had regained his sight; with a serene mind and clear vision he beheld all things around him.
 
-**3.282.2**  He went through all the hermitages with his wife Śaibya, and in his distress on account of his son he was overwhelmed with grief, O bull among men.
+**3.282.2**  He went through all the hermitages with his wife Śaibyā, and in his distress on account of his son he was overwhelmed with grief, O bull among men.
 
 **3.282.3**  The husband and wife wandered through hermitage after hermitage, river after river, forest after forest, and lake after lake, searching each region in turn.
 
@@ -19610,7 +19610,7 @@ translator: thothica
 
 **3.282.25**  Mārkaṇḍeya said: Then those twice-born ones, kindling the sacred fire there, all paid homage to Dyumatsena, the great king, O Pārtha.
 
-**3.282.26**  Śaibya, Satyavān, and Sāvitrī, having been granted permission by all of them, sat down together, free from sorrow.
+**3.282.26**  Śaibyā, Satyavān, and Sāvitrī, having been granted permission by all of them, sat down together, free from sorrow.
 
 **3.282.27**  Then all those forest-dwellers, seated with the king and seized with curiosity, questioned the son of the king, O Pārtha.
 
@@ -19666,7 +19666,7 @@ translator: thothica
 
 **3.283.9**  Then, having reverenced those elder twice-born dwellers of the hermitage, and having been honoured by all of them in return, he set out toward the city.
 
-**3.283.10**  Śaibya too set out together with Sāvitrī, upon a well-spread and richly decked conveyance drawn by men, surrounded by the army.
+**3.283.10**  Śaibyā too set out together with Sāvitrī, upon a well-spread and richly decked conveyance drawn by men, surrounded by the army.
 
 **3.283.11**  Then the royal chaplains joyfully consecrated Dyumatsena, and they consecrated his great-souled son in the position of crown prince.
 
@@ -20264,17 +20264,17 @@ translator: thothica
 
 **3.294.41**  Janamejaya said: "Where were those heroic Pāṇḍavas at the time? And from whom did they hear this welcome news? What did they do after the twelfth year had passed? Please explain all this to me, revered one."
 
-**3.294.42**  Vaiśaṃpāyana said: "Having recovered Kṛṣṇa (Draupadī) and routed the Sindhu king, departing from the hermitage of Kāmyaka along with the brahmins, they had heard from Mārkaṇḍeya the ancient tales of the divine seers at length."
+**3.294.42**  Vaiśaṃpāyana said: "Having recovered Kṛṣṇā (Draupadī) and routed the Sindhu king, departing from the hermitage of Kāmyaka along with the brahmins, they had heard from Mārkaṇḍeya the ancient tales of the divine seers at length."
 
 **3.294.43**  They returned with their chariots and retinue, along with all the cooks and foremost attendants; then those heroes among men went to the holy Dvaitavana forest, having endured completely the terrible forest exile.
 
-**3.295.1**  Janamejaya said: "After Kṛṣṇa (Draupadī) was thus abducted and they had suffered the greatest affliction, and then recovered Kṛṣṇa, what did the Pāṇḍavas do?"
+**3.295.1**  Janamejaya said: "After Kṛṣṇā (Draupadī) was thus abducted and they had suffered the greatest affliction, and then recovered Kṛṣṇā, what did the Pāṇḍavas do?"
 
-**3.295.2**  Vaiśaṃpāyana said: After Kṛṣṇa was thus abducted and they had suffered the greatest affliction, the steadfast king abandoned Kāmyaka along with his brothers,
+**3.295.2**  Vaiśaṃpāyana said: After Kṛṣṇā was thus abducted and they had suffered the greatest affliction, the steadfast king abandoned Kāmyaka along with his brothers,
 
 **3.295.3**  And Yudhiṣṭhira returned again to the beautiful Dvaitavana forest, delightful with sweet roots and fruits, in the direction of the hermitage of Mārkaṇḍeya.
 
-**3.295.4**  Eating fruits gathered from the protected forest, all of them eating in moderation, the Pāṇḍavas dwelt there together with Kṛṣṇa (Draupadī), O Bhārata.
+**3.295.4**  Eating fruits gathered from the protected forest, all of them eating in moderation, the Pāṇḍavas dwelt there together with Kṛṣṇā (Draupadī), O Bhārata.
 
 **3.295.5**  Dwelling in Dvaitavana were the king Yudhiṣṭhira the son of Kuntī, Bhīmasena, Arjuna, and the two Pāṇḍava sons of Mādrī,
 
@@ -20304,7 +20304,7 @@ translator: thothica
 
 **3.296.1**  Yudhiṣṭhira said: "There is no boundary to calamities, no fixed sign, no fixed cause; yet dharma distributes here between both merit and sin."
 
-**3.296.2**  Bhīma said: "Pratikamin led Kṛṣṇa (Draupadī) to the assembly hall like a servant — I did not slay him there, and because of that we have come to this peril."
+**3.296.2**  Bhīma said: "Pratikamin led Kṛṣṇā (Draupadī) to the assembly hall like a servant — I did not slay him there, and because of that we have come to this peril."
 
 **3.296.3**  Arjuna said: "The words sharp enough to pierce bones spoken by the son of a charioteer (Karṇa) — I endured them though they were exceedingly sharp, and because of that we have come to this peril."
 

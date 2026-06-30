@@ -65,7 +65,7 @@ translator: thothica
 
 **2.5.3**  Hear this, O Gods, you who are worthy of sacrifice — let Bharadvāja recite the praises for me: let him who harms this mind of ours be bound in a snare and fastened into misfortune.
 
-**2.5.4**  With the eighty-three chanters of Sāmans, with the Ādityās, the Vasus, and the Aṅgirases, may the merit of our fathers' sacrificial offerings and pious works protect us — I seize that man with divine consuming fire.
+**2.5.4**  With the eighty-three chanters of Sāmans, with the Ādityas, the Vasus, and the Aṅgirases, may the merit of our fathers' sacrificial offerings and pious works protect us — I seize that man with divine consuming fire.
 
 **2.5.5**  May Heaven and Earth shine after me; may all the Gods take hold of me. May the Aṅgirasas, the Soma-drinking ancestral fathers, let evil befall him who is the author of malicious will.
 
@@ -223,9 +223,9 @@ translator: thothica
 
 **2.20.3**  The two Rudras hold sway over bipeds and quadrupeds — may we stand under their patronage. Let them be honoured with ripe viṭṭha-grains; may we be in the good favour of the gods.
 
-**2.20.4**  Pratīcī is your mother's name; Śatavāra indeed is your father's name. From them were you born, O Arundhati, causing no harm.
+**2.20.4**  Pratīcī is your mother's name; Śatavāra indeed is your father's name. From them were you born, O Arundhatī, causing no harm.
 
-**2.20.5**  You are named 'Mother' from your very nature as mother; you are as it were the very essence of immortality. O Arundhati, you encompass all life — and this too.
+**2.20.5**  You are named 'Mother' from your very nature as mother; you are as it were the very essence of immortality. O Arundhatī, you encompass all life — and this too.
 
 **2.21.1**  O Agni, may propitious thought come to Śambhala; bring this maiden together with our portion. Pleasing in the choice assemblies, fair of speech — may she soon become united in fortune with a husband.
 
@@ -575,7 +575,7 @@ translator: thothica
 
 **2.59.1**  May the threefold nourishments, triply woven, take hold; may Pūṣan anoint with milk and ghee; the fullness of food, the fullness of the man, the fullness of cattle — may those take hold here.
 
-**2.59.2**  O Ādityās, sprinkle this one richly with goods; O Agni, ever increasing, cause this one to grow; may the threefold, nourishing power take hold in him; O Indra, endow this one with vigor.
+**2.59.2**  O Ādityas, sprinkle this one richly with goods; O Agni, ever increasing, cause this one to grow; may the threefold, nourishing power take hold in him; O Indra, endow this one with vigor.
 
 **2.59.3**  May the all-sustaining Earth protect you with her green; may Agni, in concord, fill you with iron strength; may the white gold, finding accord with you through the herbs, bestow luster, making you well-minded.
 
@@ -697,7 +697,7 @@ translator: thothica
 
 **2.70.4**  From the roaring of the thunder, from the crackle of the thunderbolt — O gods, O Maruts, show mercy to us; may it guard us from peril and from disgrace.
 
-**2.70.5**  Bending away, bow around us — O Ādityās, grant us shelter; ward off the feathered arrow and the featherless one of Riśādas, the devourer.
+**2.70.5**  Bending away, bow around us — O Ādityas, grant us shelter; ward off the feathered arrow and the featherless one of Riśādas, the devourer.
 
 **2.71.1**  O kṛtavyadhanī, piercer of the fashioned wound — pierce him who made it; slay that very one. We do not whet thee for slaughter against one who has not acted against us.
 

@@ -171,9 +171,9 @@ translator: thothica
 
 **8.7.8**  The yellow one that is a vidradha of the asita serpent, and whatever else is a vidradha — she who is the submerger of the vidradhas, the purifier: she crushed them all.
 
-**8.7.9**  The blue-throated one among the svajas, the tawny one among the svajas as well — O herb Arundhati, you crush the speckle-tailed one.
+**8.7.9**  The blue-throated one among the svajas, the tawny one among the svajas as well — O herb Arundhatī, you crush the speckle-tailed one.
 
-**8.7.10**  Let not this man bitten by the serpent die; may his father's venom not be his. For I am bringing him this herb, Arundhati.
+**8.7.10**  Let not this man bitten by the serpent die; may his father's venom not be his. For I am bringing him this herb, Arundhatī.
 
 **8.7.11**  This whole breed of the pṛdāku serpents — render it powerless, O jīvala. You are Indra's dear plant; you are here the corrupter of venom.
 
@@ -203,7 +203,7 @@ translator: thothica
 
 **8.9.2**  These heaven and earth are brahman; these seven rivers are brahman; all these Ādityas are brahman; the gods attend upon brahman.
 
-**8.9.3**  The brahmaṇa speaks brahman; into brahman the night retreats. That which belongs to Sāvitr̥ is born of brahman; through brahman Agni shines forth.
+**8.9.3**  The brahmaṇa speaks brahman; into brahman the night retreats. That which belongs to Savitṛ̥ is born of brahman; through brahman Agni shines forth.
 
 **8.9.4**  The plants come to rest in brahman; the rains rain down as brahman. All this that is endowed with self — as far as the sun surveys it — that is brahman.
 

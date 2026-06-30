@@ -264,7 +264,7 @@ translator: thothica
 
 **7.5.4**  "United with her, that night-wanderer shone forth like a great elephant issuing from its tether with its cow-elephant."
 
-**7.5.5**  "Sukeśa, lord of rākṣasas, fathered on Devavatī, O Rāghava, three rākṣasa sons equal to three-eyed Śiva: Mālyavān, Sumāli, and Māli, foremost among the strong."
+**7.5.5**  "Sukeśa, lord of rākṣasas, fathered on Devavatī, O Rāghava, three rākṣasa sons equal to three-eyed Śiva: Mālyavān, Sumālī, and Māli, foremost among the strong."
 
 **7.5.6**  "Like the three worlds, steadfast and undisturbed; like the three sacred fires; like three mantras supremely potent; like three terrible diseases."
 
@@ -320,17 +320,17 @@ translator: thothica
 
 **7.5.32**  "Vajramuṣṭi, Virūpākṣa, the rākṣasa Durmukha, Suptaghna, Yajñakopa, Matta, Unmatta, and a daughter named Analā — these were born of Sundarī, O Rāma."
 
-**7.5.33**  "Sumāli's wife also had a face like the full moon; her name was Ketumatī, dearer to him than life itself."
+**7.5.33**  "Sumālī's wife also had a face like the full moon; her name was Ketumatī, dearer to him than life itself."
 
-**7.5.34**  "Learn in order, O great king, what offspring the night-wanderer Sumāli fathered upon Ketumatī."
+**7.5.34**  "Learn in order, O great king, what offspring the night-wanderer Sumālī fathered upon Ketumatī."
 
 **7.5.35**  "Prahasta, Akampana, Vikaṭa, Kālakārmuka, Dhūmrākṣa, Daṇḍa, and the mighty Supārśva —"
 
-**7.5.36**  "— Saṃhrādi, Praghasa, the rākṣasa Bhāsakarṇa, and daughters Rākā, Puṣpotkaṭā, Kaikasī of pure smile, and Kumbhīnasī — these are remembered as the progeny of Sumāli."
+**7.5.36**  "— Saṃhrādi, Praghasa, the rākṣasa Bhāsakarṇa, and daughters Rākā, Puṣpotkaṭā, Kaikasī of pure smile, and Kumbhīnasī — these are remembered as the progeny of Sumālī."
 
 **7.5.37**  "Māli's wife was a gandharvī named Vasudā, beautiful in form, lotus-petal-eyed, fine-eyed, comparable to the most beautiful of yakṣī women."
 
-**7.5.38**  "Hear from me, O Rāghava, what offspring Māli, the younger brother of Sumāli, fathered upon her, as I shall now recount."
+**7.5.38**  "Hear from me, O Rāghava, what offspring Māli, the younger brother of Sumālī, fathered upon her, as I shall now recount."
 
 **7.5.39**  "Anala, Anila, Hara, and Saṃpāti — these night-wanderers, sons of Māli, became the ministers of Vibhīṣaṇa."
 
@@ -402,7 +402,7 @@ translator: thothica
 
 **7.6.32**  "'It was Nārāyaṇa who was the death of Hiraṇyakaśipu and other enemies of the gods; it is impossible to conquer Nārāyaṇa, who now desires to slay us.'"
 
-**7.6.33**  "Then Sumāli and Māli, having heard Mālyavān's words, addressed their eldest brother like two shares of fortune addressing Vāsava (Indra)."
+**7.6.33**  "Then Sumālī and Māli, having heard Mālyavān's words, addressed their eldest brother like two shares of fortune addressing Vāsava (Indra)."
 
 **7.6.34**  "'We have studied the scriptures, given gifts, performed sacrifices, guarded our sovereignty, attained long and healthy life, and established our own dharma.'"
 
@@ -414,7 +414,7 @@ translator: thothica
 
 **7.6.38**  "'Therefore today, fully mobilized and surrounded by all our forces, let us seek to destroy the very gods from whom this offence arose.'"
 
-**7.6.39**  "Thus Māli, Sumāli, and their elder brother Mālyavān the lord, having proclaimed their mobilization, all those rākṣasas marched out for battle, furious as the armies of Jambha and Vṛtra."
+**7.6.39**  "Thus Māli, Sumālī, and their elder brother Mālyavān the lord, having proclaimed their mobilization, all those rākṣasas marched out for battle, furious as the armies of Jambha and Vṛtra."
 
 **7.6.40**  "With chariots, lordly elephants, and horses resembling mountains; with donkeys, cows, camels, porpoises, and serpents —"
 
@@ -434,7 +434,7 @@ translator: thothica
 
 **7.6.48**  "Those inconceivable and terrible omens — the rākṣasas, proud in their strength, bound by the noose of death, marched on and did not turn back."
 
-**7.6.49**  "Mālyavān, Sumāli, and Māli, those night-wanderers, marched at the head of their forces, like the fires at the head of sacrificial rituals."
+**7.6.49**  "Mālyavān, Sumālī, and Māli, those night-wanderers, marched at the head of their forces, like the fires at the head of sacrificial rituals."
 
 **7.6.50**  "All those night-wanderers rallied around Mālyavān as if around a mountain, as embodied beings rally around the Creator."
 
@@ -1034,17 +1034,17 @@ translator: thothica
 
 **7.15.5**  And the wicked Mārīca in his rage, O Rāma, felled two thousand in merely the interval of a blink.
 
-**7.15.6**  Engaging Dhūmrākṣa in the great battle, Māṇibhadra struck him on the chest with a pestle in fury — yet he did not waver.
+**7.15.6**  Engaging Dhūmrākṣa in the great battle, Maṇibhadra struck him on the chest with a pestle in fury — yet he did not waver.
 
-**7.15.7**  Then Māṇibhadra, swinging his mace, struck the rākṣasa Dhūmrākṣa on the head; overcome, he fell.
+**7.15.7**  Then Maṇibhadra, swinging his mace, struck the rākṣasa Dhūmrākṣa on the head; overcome, he fell.
 
-**7.15.8**  Seeing Dhūmrākṣa struck down and fallen, drenched in blood, the ten-headed Rāvaṇa charged at Māṇibhadra in great fury.
+**7.15.8**  Seeing Dhūmrākṣa struck down and fallen, drenched in blood, the ten-headed Rāvaṇa charged at Maṇibhadra in great fury.
 
 **7.15.9**  That foremost of yakṣas struck him — charging in fury like the fire at the world's end — with three śaktis.
 
 **7.15.10**  But then struck by the king of rākṣasas with his mace in battle, that blow caused his crown to fall to his side; from that time forward that yakṣa was remembered as Pārśvamauli, 'he whose crown is at his side.'
 
-**7.15.11**  With that great-souled yakṣa Māṇibhadra having turned back, O Rāma, a tremendous uproar grew on that mountain.
+**7.15.11**  With that great-souled yakṣa Maṇibhadra having turned back, O Rāma, a tremendous uproar grew on that mountain.
 
 **7.15.12**  Then from afar appeared the lord of wealth, mace in hand, accompanied by Śukra and Proṣṭhapada, surrounded by the treasure-keepers Śaṅkha and Padma.
 
@@ -1072,7 +1072,7 @@ translator: thothica
 
 **7.15.24**  Then those two, O Rāma, striking each other in the supreme battle, were neither overcome nor wearied, both consumed with indignation.
 
-**7.15.25**  Then Kubera, the lord of wealth, released the Āgneya weapon in battle; the ten-headed Rāvaṇa countered that weapon with the Vāruṇa weapon.
+**7.15.25**  Then Kubera, the lord of wealth, released the Āgneya weapon in battle; the ten-headed Rāvaṇa countered that weapon with the Varuṇa weapon.
 
 **7.15.26**  Then the lord of rākṣasas, having entered into his rākṣasa illusion, whirled his great mace and struck Kubera on the head.
 
@@ -4852,7 +4852,7 @@ translator: thothica
 
 **7.87.1**  When that night had passed, the king Rāghava — greatly resplendent — having gone to the sacrificial arena, summoned all the sages.
 
-**7.87.2**  Vasiṣṭha, Vāmadeva, Jābāli, and then Kāśyapa; Viśvāmitra of long austerities, and Durvāsas of great ascetic power;
+**7.87.2**  Vasiṣṭha, Vāmadeva, Jābāli, and then Kaśyapa; Viśvāmitra of long austerities, and Durvāsas of great ascetic power;
 
 **7.87.3**  Agastya, and likewise Āśakti, the Bhārgava Vāmana, Mārkaṇḍeya of long life, and Maudgalya of great austerities;
 

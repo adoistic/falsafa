@@ -780,7 +780,7 @@ translator: thothica
 
 **4.12.38**  Shining brilliantly in form, confirmed by Rāma's words, he went together with Rāma to Kiṣkindhā, governed by Vālī.
 
-**4.13.1**  That righteous-souled elder brother of Lakṣmaṇa departed from Ṛśyamūka together with Sugrīva toward Kiṣkindhā, which was guarded by the might of Vāli.
+**4.13.1**  That righteous-souled elder brother of Lakṣmaṇa departed from Ṛśyamūka together with Sugrīva toward Kiṣkindhā, which was guarded by the might of Vālī.
 
 **4.13.2**  Rāma took up his great bow adorned with gold, and grasped his battle-winning arrows, blazing like the sun.
 
@@ -832,39 +832,39 @@ translator: thothica
 
 **4.13.26**  Having paid their salutations, the righteous-souled Rāma, his brother Lakṣmaṇa, Sugrīva, and the monkeys proceeded with joyful hearts.
 
-**4.13.27**  Having traveled a great distance from that hermitage of the Seven Persons, they beheld Kiṣkindhā, that impregnable city, ruled by Vāli.
+**4.13.27**  Having traveled a great distance from that hermitage of the Seven Persons, they beheld Kiṣkindhā, that impregnable city, ruled by Vālī.
 
-**4.14.1**  All of them, having swiftly reached Kiṣkindhā ruled by Vāli, concealed themselves among trees and stood in the dense forest.
+**4.14.1**  All of them, having swiftly reached Kiṣkindhā ruled by Vālī, concealed themselves among trees and stood in the dense forest.
 
 **4.14.2**  Casting his glance all around the forest, Sugrīva who delighted in the forest—broad-necked—roused his anger fiercely.
 
-**4.14.3**  Then, surrounded by his retinue, he let out a terrible roar, as if splitting the sky with his cries, challenging Vāli to battle.
+**4.14.3**  Then, surrounded by his retinue, he let out a terrible roar, as if splitting the sky with his cries, challenging Vālī to battle.
 
 **4.14.4**  Then Sugrīva, radiant as the morning sun, with the gait of a proud lion, seeing Rāma skilled in action, spoke these words.
 
-**4.14.5**  "We have arrived at the city of Kiṣkindhā belonging to Vāli—filled with monkey nets, with portals of burnished gold, abundant with flagstaffs and devices."
+**4.14.5**  "We have arrived at the city of Kiṣkindhā belonging to Vālī—filled with monkey nets, with portals of burnished gold, abundant with flagstaffs and devices."
 
-**4.14.6**  "The pledge you made earlier, O hero, regarding the slaying of Vāli—now fulfill it swiftly, like the season of fruiting come for the vine."
+**4.14.6**  "The pledge you made earlier, O hero, regarding the slaying of Vālī—now fulfill it swiftly, like the season of fruiting come for the vine."
 
 **4.14.7**  Thus addressed by Sugrīva, that righteous-souled Rāghava, destroyer of enemies, then spoke these words to Sugrīva.
 
 **4.14.8**  "You must bear a distinguishing mark, by means of this garland of gaja flowers, so that I may know you—as the sun in the sky is distinct from the garland of stars."
 
-**4.14.9**  "Today, O monkey, I shall free you in a single stroke—releasing one arrow in battle—from both the fear and the enmity arising from Vāli."
+**4.14.9**  "Today, O monkey, I shall free you in a single stroke—releasing one arrow in battle—from both the fear and the enmity arising from Vālī."
 
-**4.14.10**  "Show me Vāli, the enemy of Sugrīva who wears the form of a brother—so that he may writhe in the forest dust when struck down."
+**4.14.10**  "Show me Vālī, the enemy of Sugrīva who wears the form of a brother—so that he may writhe in the forest dust when struck down."
 
 **4.14.11**  "If he comes within range of my sight and yet retreats alive, then let that fault not fall on me—and you must not blame me then."
 
-**4.14.12**  "Before your eyes I pierced seven śāla trees with a single arrow—know by that power that Vāli is today already slain by me."
+**4.14.12**  "Before your eyes I pierced seven śāla trees with a single arrow—know by that power that Vālī is today already slain by me."
 
 **4.14.13**  "I have never spoken an untruth, O hero, even in the most difficult circumstances, overwhelmed though I may be by desire for righteousness—nor shall I ever speak one."
 
 **4.14.14**  "I shall fulfill my pledge—abandon your agitation. As Indra of a hundred sacrifices brings rain to make the sown grain sprout in the field, so shall it be."
 
-**4.14.15**  "Therefore, for the purpose of that challenge, O Sugrīva, make that sound which will cause the golden-garlanded Vāli, that monkey, to rush forth."
+**4.14.15**  "Therefore, for the purpose of that challenge, O Sugrīva, make that sound which will cause the golden-garlanded Vālī, that monkey, to rush forth."
 
-**4.14.16**  "That Vāli who glories in victory, who boasts of conquest, who loves combat—having been challenged and provoked by you, he will spring forth from the city without hesitation."
+**4.14.16**  "That Vālī who glories in victory, who boasts of conquest, who loves combat—having been challenged and provoked by you, he will spring forth from the city without hesitation."
 
 **4.14.17**  "Heroes do not endure provocation by enemies in battle, especially when they know their own valor—and all the more so before the eyes of women."
 
@@ -876,13 +876,13 @@ translator: thothica
 
 **4.14.21**  Then that son of the Sun, with valor-enhanced splendor, confident and swift, sent forth a roar like the thunder of gathered storm-clouds—like the lord of rivers whose waves are stirred by the wind.
 
-**4.15.1**  Then Vāli, intolerant of his brother, who was within the inner apartments, heard that roar of the great-souled Sugrīva.
+**4.15.1**  Then Vālī, intolerant of his brother, who was within the inner apartments, heard that roar of the great-souled Sugrīva.
 
 **4.15.2**  Hearing that roar which made all creatures tremble, in an instant his intoxication vanished and great fury descended upon him.
 
-**4.15.3**  Vāli, his body suffused with rage, blazed like the reddened sun at twilight—and instantly became as it were stripped of his calm radiance.
+**4.15.3**  Vālī, his body suffused with rage, blazed like the reddened sun at twilight—and instantly became as it were stripped of his calm radiance.
 
-**4.15.4**  Vāli with his fearsome fangs, resembling blazing fire in his wrath, shone like a pond whose lotuses have sprung up together with their stalks.
+**4.15.4**  Vālī with his fearsome fangs, resembling blazing fire in his wrath, shone like a pond whose lotuses have sprung up together with their stalks.
 
 **4.15.5**  Hearing that unbearable sound, the monkey lord sprang forth with such speed that the stamp of his feet seemed to split the earth.
 
@@ -1320,9 +1320,9 @@ translator: thothica
 
 **4.21.16**  "For there is nothing more fitting for me than to take refuge with the king of monkeys — in this world or the next; and it is fitting that I attend upon this couch attended by the hero who fell facing the foe."
 
-**4.22.1**  Breathing faintly and gazing all around, Vāli, his life-breath now slow, saw Sugrīva standing there first of all, alert and watchful near his own son.
+**4.22.1**  Breathing faintly and gazing all around, Vālī, his life-breath now slow, saw Sugrīva standing there first of all, alert and watchful near his own son.
 
-**4.22.2**  Vāli addressed Sugrīva, lord of the monkeys, who had now attained victory, and spoke these words to him with a clear voice full of affection.
+**4.22.2**  Vālī addressed Sugrīva, lord of the monkeys, who had now attained victory, and spoke these words to him with a clear voice full of affection.
 
 **4.22.3**  Do not go blaming Sugrīva's fault for my ruin; it was I who was dragged by force into this, my intellect bewildered by what fate had decreed.
 
@@ -1352,11 +1352,11 @@ translator: thothica
 
 **4.22.16**  And take this divine golden garland of Sugrīva's — great sovereignty resides in it; it would abandon this world on my death.
 
-**4.22.17**  Thus spoken to by Vāli out of brotherly love, Sugrīva, abandoning all joy, became wretched again — like the moon seized by a planet.
+**4.22.17**  Thus spoken to by Vālī out of brotherly love, Sugrīva, abandoning all joy, became wretched again — like the moon seized by a planet.
 
-**4.22.18**  Pacified by Vāli's words, acting rightly and without hesitation, he accepted — having been given leave — that golden garland.
+**4.22.18**  Pacified by Vālī's words, acting rightly and without hesitation, he accepted — having been given leave — that golden garland.
 
-**4.22.19**  Having given away that golden garland and seeing his son standing near, Vāli, readied now for departure from this life, spoke to Aṅgada with affection.
+**4.22.19**  Having given away that golden garland and seeing his son standing near, Vālī, readied now for departure from this life, spoke to Aṅgada with affection.
 
 **4.22.20**  Attend now to place and time; bear with equanimity both the pleasant and the unpleasant; endure joy and sorrow alike; and in due season remain submissive to Sugrīva.
 
@@ -1366,11 +1366,11 @@ translator: thothica
 
 **4.22.23**  Neither excessive intimacy nor excessive aloofness should be practiced by you; both are great faults. Therefore be one who sees the middle path.
 
-**4.22.24**  Having said these words, his eyes rolled back, tormented greatly by the arrow, his fearsome teeth bared — Vāli's life departed from him.
+**4.22.24**  Having said these words, his eyes rolled back, tormented greatly by the arrow, his fearsome teeth bared — Vālī's life departed from him.
 
 **4.22.25**  When that heroic lord of monkeys was slain, the forest-roaming monkeys found no peace — even as cows in a great forest find no peace when their bull has been killed by a lion.
 
-**4.22.26**  Then Tārā, overwhelmed and drowned in an ocean of grief, gazed upon the face of her dead husband and fell to the ground embracing Vāli — like a creeper clinging to a great tree that has been felled.
+**4.22.26**  Then Tārā, overwhelmed and drowned in an ocean of grief, gazed upon the face of her dead husband and fell to the ground embracing Vālī — like a creeper clinging to a great tree that has been felled.
 
 **4.23.1**  Then Tārā, pressing her face close to inhale the scent of the monkey-king's face, her husband fallen from the living world, spoke these words to him as he lay dead.
 
@@ -1432,7 +1432,7 @@ translator: thothica
 
 **4.23.30**  You did not heed my wholesome words, nor was I able to restrain you. I am ruined — I and my son — by you who are ruined; along with you slain in battle, prosperity deserts me here.
 
-**4.24.1**  Seeing Vāli now lifeless, Rāghava, the scorcher of enemies, thereupon addressed Sugrīva with gentle words.
+**4.24.1**  Seeing Vālī now lifeless, Rāghava, the scorcher of enemies, thereupon addressed Sugrīva with gentle words.
 
 **4.24.2**  The dead are not served by the torment of grief; you should now attend to what is to be done next in this matter.
 
@@ -1448,7 +1448,7 @@ translator: thothica
 
 **4.24.8**  Rather, the ripening of time must be observed by one who sees clearly; dharma, artha, and kāma are all gathered together through the orderly course of time.
 
-**4.24.9**  From here Vāli has gone to his own elemental nature, having attained the fruit of his deeds; he is purified by the conjunction of dharma, artha, and kāma, O lord of monkeys.
+**4.24.9**  From here Vālī has gone to his own elemental nature, having attained the fruit of his deeds; he is purified by the conjunction of dharma, artha, and kāma, O lord of monkeys.
 
 **4.24.10**  Through his adherence to his own duty, that great soul has conquered and secured heaven — he who did not protect his life in battle.
 
@@ -1456,9 +1456,9 @@ translator: thothica
 
 **4.24.12**  When Rāma had finished speaking, Lakṣmaṇa, the slayer of enemy heroes, addressed Sugrīva, who was lost in grief, with gentle words.
 
-**4.24.13**  Sugrīva, perform the funeral rites for him now without delay; together with Tārā and Aṅgada, proceed with the cremation of Vāli.
+**4.24.13**  Sugrīva, perform the funeral rites for him now without delay; together with Tārā and Aṅgada, proceed with the cremation of Vālī.
 
-**4.24.14**  Give orders for many dry pieces of wood to be assembled, along with divine sandalwood — for the purpose of Vāli's obsequies.
+**4.24.14**  Give orders for many dry pieces of wood to be assembled, along with divine sandalwood — for the purpose of Vālī's obsequies.
 
 **4.24.15**  Comfort Aṅgada whose heart is stricken; do not be foolish in your thinking — this city now depends upon you.
 
@@ -1466,7 +1466,7 @@ translator: thothica
 
 **4.24.17**  You, Tāra, quickly bring a palanquin with all haste; speed is especially meritorious at this particular time.
 
-**4.24.18**  Let the monkeys who are fit to bear a palanquin make themselves ready — those who are capable and strong — they shall carry Vāli forth.
+**4.24.18**  Let the monkeys who are fit to bear a palanquin make themselves ready — those who are capable and strong — they shall carry Vālī forth.
 
 **4.24.19**  Having spoken thus to Sugrīva, Lakṣmaṇa — increaser of Sumitrā's joy, slayer of enemy heroes — stood by his brother's side.
 
@@ -1474,15 +1474,15 @@ translator: thothica
 
 **4.24.21**  Taking the palanquin, Tāra furnished it duly, to be borne by monkeys — those heroic ones trained to carry burdens.
 
-**4.24.22**  Then Sugrīva, lifting Vāli and wailing aloud, placed him upon the palanquin — together with Aṅgada.
+**4.24.22**  Then Sugrīva, lifting Vālī and wailing aloud, placed him upon the palanquin — together with Aṅgada.
 
-**4.24.23**  Having placed Vāli, bereft of life, upon the palanquin, he was adorned with various ornaments, garlands, and garments.
+**4.24.23**  Having placed Vālī, bereft of life, upon the palanquin, he was adorned with various ornaments, garlands, and garments.
 
 **4.24.24**  Then King Sugrīva, lord of monkeys, gave command: "Let the post-mortem rites befitting a noble one be performed duly."
 
 **4.24.25**  "Let the monkeys go in front, distributing various gems in great numbers; the palanquin shall follow directly after."
 
-**4.24.26**  Such special royal splendors as are seen among kings on earth — with such did they swiftly perform Vāli's post-mortem rites.
+**4.24.26**  Such special royal splendors as are seen among kings on earth — with such did they swiftly perform Vālī's post-mortem rites.
 
 **4.24.27**  Quickly taking hold of Aṅgada, and together with Tāra and the others, all the monkeys, bereaved of their kinsman, went forward weeping aloud.
 
@@ -1510,13 +1510,13 @@ translator: thothica
 
 **4.24.39**  As Tārā lamented thus, overwhelmed with grief for her husband, the female monkeys, themselves wasted with sorrow, raised her up.
 
-**4.24.40**  Then Aṅgada, together with Sugrīva, weeping for his father and his senses struck down by grief, placed Vāli upon the funeral pyre.
+**4.24.40**  Then Aṅgada, together with Sugrīva, weeping for his father and his senses struck down by grief, placed Vālī upon the funeral pyre.
 
 **4.24.41**  Then, having duly offered fire, he walked the circumambulation counter-clockwise around his father, who had set out on the long journey — his senses overwhelmed with grief.
 
-**4.24.42**  Having performed the rites for Vāli according to prescribed custom, those monkeys went to a river of cool, auspicious waters to make the water-offering.
+**4.24.42**  Having performed the rites for Vālī according to prescribed custom, those monkeys went to a river of cool, auspicious waters to make the water-offering.
 
-**4.24.43**  There, assembled together, they placed Aṅgada at the fore; and together with Sugrīva and Tārā, they poured the water-oblation for Vāli.
+**4.24.43**  There, assembled together, they placed Aṅgada at the fore; and together with Sugrīva and Tārā, they poured the water-oblation for Vālī.
 
 **4.24.44**  And Kākutstha — Rāma of great might — himself stricken, sharing the same grief together with the wretched Sugrīva, caused all the funeral rites to be performed.
 
@@ -2570,7 +2570,7 @@ translator: thothica
 
 **4.40.9**  then the lovely Godāvarī, the great river Kṛṣṇāveṇī, and the auspicious Varadā, that most blessed stream haunted by great serpents —
 
-**4.40.10**  the Mekhala lands and the Utkala country, the cities of Daśārṇa, and Avantī and Abhravantī — search all of these.
+**4.40.10**  the Mekhala lands and the Utkala country, the cities of Daśārṇa, and Avanti and Abhravantī — search all of these.
 
 **4.40.11**  The Vidarbhas, the lovely Ṛṣikas, the Māhiṣakas as well, and likewise the Baṅgas, the Kaliṅgas, and the Kauśikas on all sides.
 
@@ -2666,7 +2666,7 @@ translator: thothica
 
 **4.41.10**  "There search for Sītā and for the dwelling of Rāvaṇa, and also the lovely city of Marīcipattana and Jaṭīpura."
 
-**4.41.11**  "Avantī and Aṅgalopā, the unseen forest, and the broad kingdoms and towns here and there —"
+**4.41.11**  "Avanti and Aṅgalopā, the unseen forest, and the broad kingdoms and towns here and there —"
 
 **4.41.12**  "At the confluence of the Sindhu and the ocean there is a great mountain named Hemagiri, with a hundred peaks and mighty trees."
 
@@ -2756,7 +2756,7 @@ translator: thothica
 
 **4.42.3**  "Attended by a hundred thousand forest-dwellers of your kind, along with the sons of Vaivasvata, set forth with your own counselors."
 
-**4.42.4**  "Search the heroic northern quarter, crowned with the Himalayan range, on all sides for the blameless wife of Rāma."
+**4.42.4**  "Search the heroic northern quarter, crowned with the Himālayan range, on all sides for the blameless wife of Rāma."
 
 **4.42.5**  "When this task is accomplished and the favor of the son of Daśaratha is fulfilled, we shall be freed from our debt — best of those who know the meaning of what is accomplished."
 
@@ -2940,11 +2940,11 @@ translator: thothica
 
 **4.45.2**  Sugrīva then spoke to Rāma with a humble heart: "Hear, O bull among men — I shall recount everything in full detail."
 
-**4.45.3**  "When Vāli was pursuing the dānava named Dundubhi, who had taken the form of a great buffalo, in the direction of Mount Malaya —"
+**4.45.3**  "When Vālī was pursuing the dānava named Dundubhi, who had taken the form of a great buffalo, in the direction of Mount Malaya —"
 
-**4.45.4**  "— then the buffalo entered a cave of Mount Malaya, and Vāli too entered there into Malaya, intent on killing him."
+**4.45.4**  "— then the buffalo entered a cave of Mount Malaya, and Vālī too entered there into Malaya, intent on killing him."
 
-**4.45.5**  "I was left posted at that cave, like a water-vessel set at a gate, and Vāli did not emerge — a full year having passed."
+**4.45.5**  "I was left posted at that cave, like a water-vessel set at a gate, and Vālī did not emerge — a full year having passed."
 
 **4.45.6**  "Then that cave became filled with a torrent of blood; seeing this I was overcome with amazement and tormented by grief for my brother."
 
@@ -2952,21 +2952,21 @@ translator: thothica
 
 **4.45.8**  "Then I came to Kiṣkindhā, despairing of his life. A great kingdom fell to me, and together with Tārā, with Rumā, and with allies, I dwelt there, freed from anxiety."
 
-**4.45.9**  "Then Vāli returned, having slain that bull among dānavas, and I surrendered the kingdom to him out of deference, constrained by fear."
+**4.45.9**  "Then Vālī returned, having slain that bull among dānavas, and I surrendered the kingdom to him out of deference, constrained by fear."
 
-**4.45.10**  "That wicked-souled Vāli, his senses disturbed, wishing to slay me, pursued me in anger together with his ministers as I fled."
+**4.45.10**  "That wicked-souled Vālī, his senses disturbed, wishing to slay me, pursued me in anger together with his ministers as I fled."
 
-**4.45.11**  "Then I was chased by Vāli together with his retinue, beholding various rivers, forests, and cities as I fled."
+**4.45.11**  "Then I was chased by Vālī together with his retinue, beholding various rivers, forests, and cities as I fled."
 
 **4.45.12**  "Then the earth appeared to me like the surface of a mirror, resembling a whirling firebrand, and in my speed it seemed no larger than a cow's hoofprint."
 
 **4.45.13**  "Then I first went east, then took refuge in the south, and again turned to the west, trembling with fear; and as I was heading north, Hanūmān spoke to me."
 
-**4.45.14**  "Now I recall, O king, how Vāli, that lord of monkeys, was formerly cursed by the sage Mataṅga within this hermitage precinct."
+**4.45.14**  "Now I recall, O king, how Vālī, that lord of monkeys, was formerly cursed by the sage Mataṅga within this hermitage precinct."
 
-**4.45.15**  "If Vāli should enter here, his head would shatter into a hundred pieces; our dwelling there would be easy and free from fear."
+**4.45.15**  "If Vālī should enter here, his head would shatter into a hundred pieces; our dwelling there would be easy and free from fear."
 
-**4.45.16**  "Then, reaching Mount Ṛśyamūka, O son of a king, Vāli did not enter it then — out of fear of the curse of Mataṅga."
+**4.45.16**  "Then, reaching Mount Ṛśyamūka, O son of a king, Vālī did not enter it then — out of fear of the curse of Mataṅga."
 
 **4.45.17**  "Thus, O king, the entire orb of the earth was directly observed by me at that time, and then I came to take refuge in this cave."
 
@@ -3124,7 +3124,7 @@ translator: thothica
 
 **4.49.19**  Then, arriving at that place, they saw a pleasant forest free from darkness—golden trees blazing with the radiance of the kindled fire Vaiśvānara.
 
-**4.49.20**  Śāla trees, palms, puṃnāgas, kakubhas, vañjulas, dhavas, campankas, nāga trees, and karṇikāras in full bloom.
+**4.49.20**  Śala trees, palms, puṃnāgas, kakubhas, vañjulas, dhavas, campankas, nāga trees, and karṇikāras in full bloom.
 
 **4.49.21**  Resembling the young sun in color, with altars made of vaidūrya gems, and lotus ponds the hue of blue vaidūrya, thronged with birds.
 

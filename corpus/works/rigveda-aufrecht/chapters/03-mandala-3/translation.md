@@ -1056,7 +1056,7 @@ translator: thothica
 
 **3.54.9**  I approach from afar the ancient thing of old, the kinship with the great father and begetter; where the gods, marvelling with their wonders, have stood apart in the wide path, between the two.
 
-**3.54.10**  I speak this hymn to Heaven and Earth, may they with gentle bellies, with Agni as their tongue, hear it — Mitra, the young sovereign Varuṇa, the Ādityās who are wise seers, spread widely.
+**3.54.10**  I speak this hymn to Heaven and Earth, may they with gentle bellies, with Agni as their tongue, hear it — Mitra, the young sovereign Varuṇa, the Ādityas who are wise seers, spread widely.
 
 **3.54.11**  Savitṛ of golden hands, of good tongue, ruling in the assembly three times from heaven; and O Savitṛ, thou who hast spread thy fame among the gods — now drive toward us all-embracing totality.
 
@@ -1076,7 +1076,7 @@ translator: thothica
 
 **3.54.19**  May the messenger of the gods, sent forth in many ways, declare our freedom from guilt in all wholeness; may Earth hear us, and Heaven, and the Waters, the Sun, and the wide atmosphere with the stars.
 
-**3.54.20**  May the bull-like mountains hear us, those of firm abode, gladdened by Iḷā; may Aditi hear us together with the Ādityās; may the Maruts grant us excellent shelter.
+**3.54.20**  May the bull-like mountains hear us, those of firm abode, gladdened by Iḷā; may Aditi hear us together with the Ādityas; may the Maruts grant us excellent shelter.
 
 **3.54.21**  May the path ever be easily traversable and full of nourishment; may the gods mingle the herbs with sweetness; O Bhaga, O Agni, fail me not in thy friendship; may I attain the abode of riches, the seat of plenty.
 
@@ -1132,7 +1132,7 @@ translator: thothica
 
 **3.56.3**  The bull of triple gait, of all forms, likewise three-weaponed, prolific in many forms, of three faces, rules as one of greatness; he the seed-depositor, the bull of eternal ones.
 
-**3.56.4**  The path of these ones was suddenly awakened; the lovely name of the Ādityās was called out; even the divine waters rested for him; going separately, they encompassed him on every side.
+**3.56.4**  The path of these ones was suddenly awakened; the lovely name of the Ādityas was called out; even the divine waters rested for him; going separately, they encompassed him on every side.
 
 **3.56.5**  Three stations of the rivers, three of the wise ones, and the sovereign at the assembly has three mothers; the three holy women who keep the law, those sunk in the waters, ruling three times in the assembly from heaven.
 
@@ -1158,15 +1158,15 @@ translator: thothica
 
 **3.58.2**  The well-yoked steeds carry (your car) toward you, O Aśvins; the prayers rise upward like the fathers (of old). Drive away from us the miserliness of the Paṇi; we have rendered your praises — come hither to us.
 
-**3.58.3**  With well-yoked horses and a well-rolling chariot, O Dasrās, hear this invocation from the stone-pressing. What is the reply, O Aśvins, that the inspired sages — born of old — give back to you?
+**3.58.3**  With well-yoked horses and a well-rolling chariot, O Dasras, hear this invocation from the stone-pressing. What is the reply, O Aśvins, that the inspired sages — born of old — give back to you?
 
 **3.58.4**  Take heed and come, by whatever roads you travel; all peoples call upon you, O Aśvins. For these sweet drinks of the mountain-cow (Goṛjīkā) have been poured forth at dawn like gifts among friends.
 
-**3.58.5**  O Aśvins, bountiful lords, the hymn of praise has sounded for you across many realms among the peoples. Come hither by the god-traversed paths, O Dasrās — here are your stored treasures of sweet draughts.
+**3.58.5**  O Aśvins, bountiful lords, the hymn of praise has sounded for you across many realms among the peoples. Come hither by the god-traversed paths, O Dasras — here are your stored treasures of sweet draughts.
 
 **3.58.6**  Your ancient abode, your auspicious friendship, O heroes, and your wealth (are) on the Jāhnavī (Gaṅgā). Renewing these blessed bonds of fellowship, may we rejoice together with you in sweetness now, united.
 
-**3.58.7**  O Aśvins, both skilled in good works, together with Vāyu and with your teams of horses, young and pleased together — O Nāsatyās, delighting beyond the passing of day, drink the Soma unfailingly, O gracious givers.
+**3.58.7**  O Aśvins, both skilled in good works, together with Vāyu and with your teams of horses, young and pleased together — O Nāsatyas, delighting beyond the passing of day, drink the Soma unfailingly, O gracious givers.
 
 **3.58.8**  O Aśvins, your many refreshments have circled round you, borne on by songs, unimpeded. Your chariot born of Order, urged by the stone-presser, circles Heaven-and-Earth in a single day.
 

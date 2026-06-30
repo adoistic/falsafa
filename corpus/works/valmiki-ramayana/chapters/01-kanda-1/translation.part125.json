@@ -1,367 +1,75 @@
 [
-  {
-    "ref": "1.73.1",
-    "sanskrit": "atha rātryāṃ vyatītāyāṃ viśvāmitro mahāmuniḥ āpṛcchya tau ca rājānau jagāmottaraparvatam",
-    "english": "Then, when the night had passed, the great sage Viśvāmitra took leave of both kings and departed toward the northern mountain."
-  },
-  {
-    "ref": "1.73.2",
-    "sanskrit": "viśvāmitro gate rājā vaidehaṃ mithilādhipam āpṛcchyātha jagāmāśu rājā daśarathaḥ purīm",
-    "english": "After Viśvāmitra had departed, king Daśaratha quickly took leave of the Videha king, the lord of Mithilā, and returned to his own city."
-  },
-  {
-    "ref": "1.73.3",
-    "sanskrit": "atha rājā videhānāṃ dadau kanyādhanaṃ bahu gavāṃ śatasahasrāṇi bahūni mithileśvaraḥ",
-    "english": "Then the king of the Videhas, the lord of Mithilā, bestowed lavish bridal gifts — many hundreds of thousands of cows."
-  },
-  {
-    "ref": "1.73.4",
-    "sanskrit": "kambalānāṃ ca mukhyānāṃ kṣaumakoṭyambarāṇi ca hastyaśvarathapādātaṃ divyarūpaṃ svalaṃkṛtam",
-    "english": "Foremost blankets and tens of millions of silk garments; elephants, horses, chariots, and foot-soldiers of divine appearance, richly adorned."
-  },
-  {
-    "ref": "1.73.5",
-    "sanskrit": "dadau kanyā pitā tāsāṃ dāsīdāsam anuttamam hiraṇyasya suvarṇasya muktānāṃ vidrumasya ca",
-    "english": "The father of the brides gave unsurpassed female and male attendants, as well as silver, gold, pearls, and coral."
-  },
-  {
-    "ref": "1.73.6",
-    "sanskrit": "dadau paramasaṃhṛṣṭaḥ kanyādhanam anuttamam dattvā bahudhanaṃ rājā samanujñāpya pārthivam",
-    "english": "With supreme delight the king gave these peerless bridal gifts; having bestowed abundant wealth, he duly took leave of the king."
-  },
-  {
-    "ref": "1.73.7",
-    "sanskrit": "praviveśa svanilayaṃ mithilāṃ mithileśvaraḥ rājāpy ayodhyādhipatiḥ saha putrair mahātmabhiḥ",
-    "english": "The lord of Mithilā re-entered his own abode, Mithilā; and the king, the lord of Ayodhyā, departed together with his noble sons."
-  },
-  {
-    "ref": "1.73.8",
-    "sanskrit": "ṛṣīn sarvān puraskṛtya jagāma sabalānugaḥ gacchantaṃ tu naravyāghraṃ sarṣisaṃghaṃ sarāghavam",
-    "english": "Placing all the sages at the fore, he set out with his army and retinue; and as that tiger among men, Rāghava, marched with the host of sages—"
-  },
-  {
-    "ref": "1.73.9",
-    "sanskrit": "ghorāḥ sma pakṣiṇo vāco vyāharanti tatas tataḥ bhaumāś caiva mṛgāḥ sarve gacchanti sma pradakṣiṇam",
-    "english": "— dreadful birds uttered cries here and there, and all the earthly beasts moved in a clockwise direction around him."
-  },
-  {
-    "ref": "1.73.10",
-    "sanskrit": "tān dṛṣṭvā rājaśārdūlo vasiṣṭhaṃ paryapṛcchata asaumyāḥ pakṣiṇo ghorā mṛgāś cāpi pradakṣiṇāḥ kim idaṃ hṛdayotkampi mano mama viṣīdati",
-    "english": "Seeing these omens, the tiger among kings questioned Vasiṣṭha: \"The birds are ominous and terrible, the beasts too go clockwise — what is this? My heart trembles and my mind is troubled.\""
-  },
-  {
-    "ref": "1.73.11",
-    "sanskrit": "rājño daśarathasyaitac chrutvā vākyaṃ mahān ṛṣiḥ uvāca madhurāṃ vāṇīṃ śrūyatām asya yat phalam",
-    "english": "Having heard these words of king Daśaratha, the great sage spoke in a sweet voice: \"Hear what fruit these omens portend.\""
-  },
-  {
-    "ref": "1.73.12",
-    "sanskrit": "upasthitaṃ bhayaṃ ghoraṃ divyaṃ pakṣimukhāc cyutam mṛgāḥ praśamayanty ete saṃtāpas tyajyatām ayam",
-    "english": "\"A terrible, celestial danger has been declared by the birds; these beasts are propitious and allay it — let this anxiety be abandoned.\""
-  },
-  {
-    "ref": "1.73.13",
-    "sanskrit": "teṣāṃ saṃvadatāṃ tatra vāyuḥ prādur babhūva ha kampayan medinīṃ sarvāṃ pātayaṃś ca drumāñ śubhān",
-    "english": "While they were conversing there, a fierce wind arose, shaking the entire earth and toppling the stately trees."
-  },
-  {
-    "ref": "1.73.14",
-    "sanskrit": "tamasā saṃvṛtaḥ sūryaḥ sarvā na prababhur diśaḥ bhasmanā cāvṛtaṃ sarvaṃ saṃmūḍham iva tad balam",
-    "english": "The sun was shrouded in darkness, the directions could not be discerned, everything was covered with ash, and the whole army seemed bewildered."
-  },
-  {
-    "ref": "1.73.15",
-    "sanskrit": "vasiṣṭha ṛṣayaś cānye rājā ca sasutas tadā sasaṃjñā iva tatrāsan sarvam anyad vicetanam",
-    "english": "Vasiṣṭha, the other sages, and the king with his sons retained their senses, while all else present seemed to lose consciousness."
-  },
-  {
-    "ref": "1.73.16",
-    "sanskrit": "tasmiṃs tamasi ghore tu bhasmacchanneva sā camūḥ dadarśa bhīmasaṃkāśaṃ jaṭāmaṇḍaladhāriṇam",
-    "english": "In that terrible darkness, with the army as though smothered in ash, they beheld a figure of fearsome aspect wearing a crown of matted locks—"
-  },
-  {
-    "ref": "1.73.17",
-    "sanskrit": "kailāsam iva durdharṣaṃ kālāgnim iva duḥsaham jvalantam iva tejobhir durnirīkṣyaṃ pṛthagjanaiḥ",
-    "english": "— as unconquerable as mount Kailāsa, as unbearable as the fire at the end of time, blazing with such splendour that common folk could scarce behold him."
-  },
-  {
-    "ref": "1.73.18",
-    "sanskrit": "skandhe cāsajya paraśuṃ dhanur vidyudgaṇopamam pragṛhya śaramukhyaṃ ca tripuraghnaṃ yathā haram",
-    "english": "With an axe slung upon his shoulder, a bow resembling a mass of lightning in his hands, and bearing the foremost arrow — like Hara who destroyed the three cities."
-  },
-  {
-    "ref": "1.73.19",
-    "sanskrit": "taṃ dṛṣṭvā bhīmasaṃkāśaṃ jvalantam iva pāvakam vasiṣṭhapramukhā viprā japahomaparāyaṇāḥ saṃgatā munayaḥ sarve saṃjajalpur atho mithaḥ",
-    "english": "Beholding him of terrifying aspect, blazing as if he were fire, the brāhmaṇas headed by Vasiṣṭha — all the sages devoted to prayer and oblation — gathered and began to murmur to one another."
-  },
-  {
-    "ref": "1.73.20",
-    "sanskrit": "kaccit pitṛvadhāmarṣī kṣatraṃ notsādayiṣyati pūrvaṃ kṣatravadhaṃ kṛtvā gatamanyur gatajvaraḥ kṣatrasyotsādanaṃ bhūyo na khalv asya cikīrṣitam",
-    "english": "\"Can it be that this one, still wrathful over his father's slaying, intends to annihilate the kṣatriyas? Having once massacred the kṣatriyas, his rage and fever were spent — surely he does not now intend their destruction again?\""
-  },
-  {
-    "ref": "1.73.21",
-    "sanskrit": "evam uktvārghyam ādāya bhārgavaṃ bhīmadarśanam ṛṣayo rāma rāmeti madhurāṃ vācam abruvan",
-    "english": "Having spoken thus, the sages took the ceremonial offering and, approaching that fearsome son of Bhṛgu's line, addressed him in gentle words: \"Rāma, Rāma!\""
-  },
-  {
-    "ref": "1.73.22",
-    "sanskrit": "pratigṛhya tu tāṃ pūjām ṛṣidattāṃ pratāpavān rāmaṃ dāśarathiṃ rāmo jāmadagnyo 'bhyabhāṣata",
-    "english": "Accepting that homage offered by the sages, the mighty Rāma, son of Jamadagni, then addressed Rāma, son of Daśaratha."
-  },
-  {
-    "ref": "1.74.1",
-    "sanskrit": "rāma dāśarathe vīra vīryaṃ te śrūyate 'dhutam dhanuṣo bhedanaṃ caiva nikhilena mayā śrutam",
-    "english": "\"O heroic Rāma, son of Daśaratha, your wondrous valour has come to my ears; the breaking of the bow also I have heard in full detail.\""
-  },
-  {
-    "ref": "1.74.2",
-    "sanskrit": "tad adbhutam acintyaṃ ca bhedanaṃ dhanuṣas tvayā tac chrutvāham anuprāpto dhanur gṛhyāparaṃ śubham",
-    "english": "\"That breaking of the bow by you is wondrous and inconceivable; having heard of it, I have come, bringing yet another auspicious bow.\""
-  },
-  {
-    "ref": "1.74.3",
-    "sanskrit": "tad idaṃ ghorasaṃkāśaṃ jāmadagnyaṃ mahad dhanuḥ pūrayasva śareṇaiva svabalaṃ darśayasva ca",
-    "english": "\"This great bow of Jamadagni's race, of terrifying aspect — string it with an arrow, and reveal your own strength.\""
-  },
-  {
-    "ref": "1.74.4",
-    "sanskrit": "tad ahaṃ te balaṃ dṛṣṭvā dhanuṣo 'sya prapūraṇe dvandvayuddhaṃ pradāsyāmi vīryaślāghyam idaṃ tava",
-    "english": "\"When I have seen your strength in stringing this bow, I shall offer you single combat — this is the true test of your valour.\""
-  },
-  {
-    "ref": "1.74.5",
-    "sanskrit": "tasya tad vacanaṃ śrutvā rājā daśarathas tadā viṣaṇṇavadano dīnaḥ prāñjalir vākyam abravīt",
-    "english": "Hearing those words of his, king Daśaratha, his face downcast and wretched, spoke with folded hands."
-  },
-  {
-    "ref": "1.74.6",
-    "sanskrit": "kṣatraroṣāt praśāntas tvaṃ brāhmaṇasya mahāyaśāḥ bālānāṃ mama putrāṇām abhayaṃ dātum arhasi",
-    "english": "\"You, of great renown among brāhmaṇas, have calmed the wrath born of the kṣatriya quarrel — you ought to grant safety to my young sons.\""
-  },
-  {
-    "ref": "1.74.7",
-    "sanskrit": "bhārgavāṇāṃ kule jātaḥ svādhyāyavrataśālinām sahasrākṣe pratijñāya śastraṃ nikṣiptavān asi",
-    "english": "\"Born in the lineage of the Bhārgavas, distinguished for their vows of sacred study, you made a promise to the thousand-eyed Indra and laid down your weapons.\""
-  },
-  {
-    "ref": "1.74.8",
-    "sanskrit": "sa tvaṃ dharmaparo bhūtvā kāśyapāya vasuṃdharām dattvā vanam upāgamya mahendrakṛtaketanaḥ",
-    "english": "\"You, being devoted to dharma, gave the earth to Kāśyapa and retired to the forest — you whose dwelling was established by Mahendra.\""
-  },
-  {
-    "ref": "1.74.9",
-    "sanskrit": "mama sarvavināśāya saṃprāptas tvaṃ mahāmune na caikasmin hate rāme sarve jīvāmahe vayam",
-    "english": "\"You have come, O great sage, for my total ruin; for if but one Rāma is slain, we cannot all of us survive.\""
-  },
-  {
-    "ref": "1.74.10",
-    "sanskrit": "bruvaty evaṃ daśarathe jāmadagnyaḥ pratāpavān anādṛtyaiva tad vākyaṃ rāmam evābhyabhāṣata",
-    "english": "While Daśaratha was speaking thus, the mighty son of Jamadagni disregarded those words entirely and spoke only to Rāma."
-  },
-  {
-    "ref": "1.74.11",
-    "sanskrit": "ime dve dhanuṣī śreṣṭhe divye lokābhiviśrute dṛḍhe balavatī mukhye sukṛte viśvakarmaṇā",
-    "english": "\"These two are the foremost of bows — divine, renowned throughout the worlds, firm, powerful, supreme, and well crafted by Viśvakarman.\""
-  },
-  {
-    "ref": "1.74.12",
-    "sanskrit": "atisṛṣṭaṃ surair ekaṃ tryambakāya yuyutsave tripuraghnaṃ naraśreṣṭha bhagnaṃ kākutstha yat tvayā",
-    "english": "\"One was bestowed by the gods upon the three-eyed Tryambaka, eager for battle — that Tripura-slaying bow which you, best of men, O Kākutstha, have broken.\""
-  },
-  {
-    "ref": "1.74.13",
-    "sanskrit": "idaṃ dvitīyaṃ durdharṣaṃ viṣṇor dattaṃ surottamaiḥ samānasāraṃ kākutstha raudreṇa dhanuṣā tv idam",
-    "english": "\"This second bow, O Kākutstha, unconquerable, was given to Viṣṇu by the greatest of gods — it is of equal substance to the bow of Rudra.\""
-  },
-  {
-    "ref": "1.74.14",
-    "sanskrit": "tadā tu devatāḥ sarvāḥ pṛcchanti sma pitāmaham śitikaṇṭhasya viṣṇoś ca balābalanirīkṣayā",
-    "english": "\"At that time all the gods questioned the Grandfather Brahmā, wishing to assess the comparative strength of Śitikaṇṭha and Viṣṇu.\""
-  },
-  {
-    "ref": "1.74.15",
-    "sanskrit": "abhiprāyaṃ tu vijñāya devatānāṃ pitāmahaḥ virodhaṃ janayām āsa tayoḥ satyavatāṃ varaḥ",
-    "english": "\"Understanding the intention of the gods, the Grandfather, best among those who hold to truth, caused a conflict to arise between the two.\""
-  },
-  {
-    "ref": "1.74.16",
-    "sanskrit": "virodhe ca mahad yuddham abhavad romaharṣaṇam śitikaṇṭhasya viṣṇoś ca parasparajayaiṣiṇoḥ",
-    "english": "\"In that conflict a great battle occurred, causing the hair to stand on end, as Śitikaṇṭha and Viṣṇu each strove to vanquish the other.\""
-  },
-  {
-    "ref": "1.74.17",
-    "sanskrit": "tadā taj jṛmbhitaṃ śaivaṃ dhanur bhīmaparākramam huṃkāreṇa mahādevaḥ stambhito 'tha trilocanaḥ",
-    "english": "\"Then the bow of Śiva, of terrible might, was made to yawn open; and by Viṣṇu's humkāra Mahādeva, the three-eyed one, was paralysed.\""
-  },
-  {
-    "ref": "1.74.18",
-    "sanskrit": "devais tadā samāgamya sarṣisaṃghaiḥ sacāraṇaiḥ yācitau praśamaṃ tatra jagmatus tau surottamau",
-    "english": "\"Then the gods, assembling together with the hosts of sages and the Cāraṇas, besought them; thereupon those two best of gods desisted and came to peace.\""
-  },
-  {
-    "ref": "1.74.19",
-    "sanskrit": "jṛmbhitaṃ tad dhanur dṛṣṭvā śaivaṃ viṣṇuparākramaiḥ adhikaṃ menire viṣṇuṃ devāḥ sarṣigaṇās tadā",
-    "english": "\"Seeing that Śaiva bow made to yawn by the might of Viṣṇu, the gods and the hosts of sages then deemed Viṣṇu to be the greater.\""
-  },
-  {
-    "ref": "1.74.20",
-    "sanskrit": "dhanū rudras tu saṃkruddho videheṣu mahāyaśāḥ devarātasya rājarṣer dadau haste sasāyakam",
-    "english": "\"But Rudra, greatly angered, of immense glory, placed that bow together with its arrow into the hands of the royal sage Devarāta among the Videhas.\""
-  },
-  {
-    "ref": "1.74.21",
-    "sanskrit": "idaṃ ca viṣṇavaṃ rāma dhanuḥ parapuraṃjayam ṛcīke bhārgave prādād viṣṇuḥ sa nyāsam uttamam",
-    "english": "\"And this Vaiṣṇava bow, O Rāma, conqueror of enemy cities — Viṣṇu gave it as a most honoured trust to Ṛcīka of the Bhārgava line.\""
-  },
-  {
-    "ref": "1.74.22",
-    "sanskrit": "ṛcīkas tu mahātejāḥ putrasyāpratikarmaṇaḥ pitur mama dadau divyaṃ jamadagner mahātmanaḥ",
-    "english": "\"And Ṛcīka, of great splendour, gave that divine bow to the great-souled Jamadagni, my father, as a gift of inestimable service.\""
-  },
-  {
-    "ref": "1.74.23",
-    "sanskrit": "nyastaśastre pitari me tapobalasamanvite arjuno vidadhe mṛtyuṃ prākṛtāṃ buddhim āsthitaḥ",
-    "english": "\"While my father had laid aside his weapons and was endowed with the strength of asceticism, Arjuna, acting from a base mind, brought about his death.\""
-  },
-  {
-    "ref": "1.74.24",
-    "sanskrit": "vadham apratirūpaṃ tu pituḥ śrutvā sudāruṇam kṣatram utsādayaṃ roṣāj jātaṃ jātam anekaśaḥ",
-    "english": "\"Hearing of my father's wholly undeserved and terrible slaying, in wrath I exterminated the kṣatriyas time and again, generation after generation.\""
-  },
-  {
-    "ref": "1.74.25",
-    "sanskrit": "pṛthivīṃ cākhilāṃ prāpya kāśyapāya mahātmane yajñasyānte tadā rāma dakṣiṇāṃ puṇyakarmaṇe",
-    "english": "\"Having conquered the entire earth, O Rāma, at the conclusion of the sacrifice I then gave it as the sacrificial fee to the great-souled Kāśyapa, as the fruit of that pious act.\""
-  },
-  {
-    "ref": "1.74.26",
-    "sanskrit": "dattvā mahendranilayas tapobalasamanvitaḥ śrutavān dhanuṣo bhedaṃ tato 'haṃ drutam āgataḥ",
-    "english": "\"Having given the earth, I took up abode on mount Mahendra, endowed with the power of asceticism; then I heard of the breaking of the bow, and I came here swiftly.\""
-  },
-  {
-    "ref": "1.74.27",
-    "sanskrit": "tad idaṃ vaiṣṇavaṃ rāma pitṛpaitāmahaṃ mahat kṣatradharmaṃ puraskṛtya gṛhṇīṣva dhanuruttamam",
-    "english": "\"Therefore take this great Vaiṣṇava bow, O Rāma, which descended from father to grandfather — honouring the dharma of the kṣatriya, take this foremost of bows.\""
-  },
-  {
-    "ref": "1.74.28",
-    "sanskrit": "yojayasva dhanuḥ śreṣṭhe śaraṃ parapuraṃjayam yadi śaknoṣi kākutstha dvandvaṃ dāsyāmi te tataḥ",
-    "english": "\"Fit to this foremost bow the arrow that conquers enemy cities; if you are able, O Kākutstha, I shall then give you single combat.\""
-  },
-  {
-    "ref": "1.75.1",
-    "sanskrit": "śrutvā taj jāmadagnyasya vākyaṃ dāśarathis tadā gauravād yantritakathaḥ pitū rāmam athābravīt",
-    "english": "Hearing those words of the son of Jamadagni, Daśaratha's son Rāma, his speech restrained out of deference to his father, then spoke."
-  },
-  {
-    "ref": "1.75.2",
-    "sanskrit": "śrutavān asmi yat karma kṛtavān asi bhārgava anurundhyāmahe brahman pitur ānṛṇyam āsthitaḥ",
-    "english": "\"I have heard of the deeds you have performed, O Bhārgava; I acknowledge them, O brahman — I stand here honouring my debt to my father.\""
-  },
-  {
-    "ref": "1.75.3",
-    "sanskrit": "vīryahīnam ivāśaktaṃ kṣatradharmeṇa bhārgava avajānāmi me tejaḥ paśya me 'dya parākramam",
-    "english": "\"You treat me as though I were devoid of valour and incapable, O Bhārgava, by the code of the kṣatriya — witness my splendour today; behold my prowess!\""
-  },
-  {
-    "ref": "1.75.4",
-    "sanskrit": "ity uktvā rāghavaḥ kruddho bhārgavasya varāyudham śaraṃ ca pratisaṃgṛhya hastāl laghuparākramaḥ",
-    "english": "Having spoken thus, the swift and mighty Rāghava in anger took from the hand of the Bhārgava both his supreme weapon and the arrow,"
-  },
-  {
-    "ref": "1.75.5",
-    "sanskrit": "āropya sa dhanū rāmaḥ śaraṃ sajyaṃ cakāra ha jāmadagnyaṃ tato rāmaṃ rāmaḥ kruddho 'bravīd vacaḥ",
-    "english": "and Rāma strung the bow and fitted the arrow to the string; then Rāma, enraged, spoke these words to Jāmadagnya Rāma."
-  },
-  {
-    "ref": "1.75.6",
-    "sanskrit": "brāhmaṇo 'sīti pūjyo me viśvāmitrakṛtena ca tasmāc chakto na te rāma moktuṃ prāṇaharaṃ śaram",
-    "english": "\"Because you are a brāhmaṇa you are venerable to me, and because of what Viśvāmitra has done for me — therefore, O Rāma, I am unable to release this life-taking arrow at you.\""
-  },
-  {
-    "ref": "1.75.7",
-    "sanskrit": "imāṃ vā tvadgatiṃ rāma tapobalasamārjitān lokān apratimān vāpi haniṣyāmi yad icchasi",
-    "english": "\"I shall destroy either this your freedom of movement, O Rāma, or those incomparable worlds accumulated by the power of your asceticism — whichever you wish.\""
-  },
-  {
-    "ref": "1.75.8",
-    "sanskrit": "na hy ayaṃ vaiṣṇavo divyaḥ śaraḥ parapuraṃjayaḥ moghaḥ patati vīryeṇa baladarpavināśanaḥ",
-    "english": "\"For this divine Vaiṣṇava arrow, conqueror of enemy cities, does not fall in vain by virtue of its might — it is the destroyer of the arrogance of strength.\""
-  },
-  {
-    "ref": "1.75.9",
-    "sanskrit": "varāyudhadharaṃ rāma draṣṭuṃ sarṣigaṇāḥ surāḥ pitāmahaṃ puraskṛtya sametās tatra saṃghaśaḥ",
-    "english": "To behold Rāma bearing the supreme weapon, the hosts of sages and the gods, with Brahmā the Grandfather at their head, assembled there in multitudes."
-  },
-  {
-    "ref": "1.75.10",
-    "sanskrit": "gandharvāpsarasaś caiva siddhacāraṇakiṃnarāḥ yakṣarākṣasanāgāś ca tad draṣṭuṃ mahad adbhutam",
-    "english": "Gandharvas, Apsarases, Siddhas, Cāraṇas, Kiṃnaras, Yakṣas, Rākṣasas, and Nāgas — all came to witness that great wonder."
-  },
-  {
-    "ref": "1.75.11",
-    "sanskrit": "jaḍīkṛte tadā loke rāme varadhanurdhare nirvīryo jāmadagnyo 'sau ramo rāmam udaikṣata",
-    "english": "When the world had become stupefied, as Rāma held the bow of boons, that Jāmadagnya Rāma, now drained of valour, looked upon Rāma."
-  },
-  {
-    "ref": "1.75.12",
-    "sanskrit": "tejobhir hatavīryatvāj jāmadagnyo jaḍīkṛtaḥ rāmaṃ kamala patrākṣaṃ mandaṃ mandam uvāca ha",
-    "english": "Stupefied, his power of valour struck down by Rāma's splendour, the son of Jamadagni slowly and softly spoke to Rāma of lotus-petal eyes."
-  },
-  {
-    "ref": "1.75.13",
-    "sanskrit": "kāśyapāya mayā dattā yadā pūrvaṃ vasuṃdharā viṣaye me na vastavyam iti māṃ kāśyapo 'bravīt",
-    "english": "\"When I previously gave the earth to Kāśyapa, Kāśyapa told me: 'You must not dwell within my domain.'\""
-  },
-  {
-    "ref": "1.75.14",
-    "sanskrit": "so 'haṃ guruvacaḥ kurvan pṛthivyāṃ na vase niśām iti pratijñā kākutstha kṛtā vai kāśyapasya ha",
-    "english": "\"Honouring the word of my guru, this is the vow I made to Kāśyapa, O Kākutstha: 'I shall not spend even a single night upon the earth.'\""
-  },
-  {
-    "ref": "1.75.15",
-    "sanskrit": "tad imāṃ tvaṃ gatiṃ vīra hantuṃ nārhasi rāghava manojavaṃ gamiṣyāmi mahendraṃ parvatottamam",
-    "english": "\"Therefore, O hero Rāghava, you should not destroy this my freedom of movement; swift as thought I shall depart to Mahendra, the greatest of mountains.\""
-  },
-  {
-    "ref": "1.75.16",
-    "sanskrit": "lokās tv apratimā rāma nirjitās tapasā mayā jahi tāñ śaramukhyena mā bhūt kālasya paryayaḥ",
-    "english": "\"But those incomparable worlds I have conquered through asceticism, O Rāma — destroy those with the foremost arrow; let there be no delay of time.\""
-  },
-  {
-    "ref": "1.75.17",
-    "sanskrit": "akṣayyaṃ madhuhantāraṃ jānāmi tvāṃ sureśvaram dhanuṣo 'sya parāmarśāt svasti te 'stu paraṃtapa",
-    "english": "\"I know you to be the eternal slayer of Madhu, the lord of the gods — by your very touch of this bow it is proven; may good befall you, O scorcher of foes.\""
-  },
-  {
-    "ref": "1.75.18",
-    "sanskrit": "ete suragaṇāḥ sarve nirīkṣante samāgatāḥ tvām apratimakarmāṇam apratidvandvam āhave",
-    "english": "\"All these hosts of gods have assembled and behold you, whose deeds are without equal and who has no rival in battle.\""
-  },
-  {
-    "ref": "1.75.19",
-    "sanskrit": "na ceyaṃ mama kākutstha vrīḍā bhavitum arhati tvayā trailokyanāthena yad ahaṃ vimukhīkṛtaḥ",
-    "english": "\"Nor should this be a source of shame for me, O Kākutstha, that I have been turned back by you — you who are the lord of the three worlds.\""
-  },
-  {
-    "ref": "1.75.20",
-    "sanskrit": "śaram apratimaṃ rāma moktum arhasi suvrata śaramokṣe gamiṣyāmi mahendraṃ parvatottamam",
-    "english": "\"You should release this peerless arrow, O Rāma of noble vow; once the arrow is released I shall depart to mount Mahendra, the greatest of mountains.\""
-  },
-  {
-    "ref": "1.75.21",
-    "sanskrit": "tathā bruvati rāme tu jāmadagnye pratāpavān rāmo dāśarathiḥ śrīmāṃś cikṣepa śaram uttamam",
-    "english": "While Jāmadagnya Rāma was speaking thus, the glorious and mighty Rāma, son of Daśaratha, released that supreme arrow."
-  },
-  {
-    "ref": "1.75.22",
-    "sanskrit": "tato vitimirāḥ sarvā diśā copadiśas tathā surāḥ sarṣigaṇā rāmaṃ praśaśaṃsur udāyudham",
-    "english": "Then all the directions and intermediate quarters became free of darkness; the gods and hosts of sages praised Rāma as he held his weapon aloft."
-  },
-  {
-    "ref": "1.75.23",
-    "sanskrit": "rāmaṃ dāśarathiṃ rāmo jāmadagnyaḥ praśasya ca tataḥ pradakṣiṇīkṛtya jagāmātmagatiṃ prabhuḥ",
-    "english": "And Rāma the son of Jamadagni, having praised Rāma the son of Daśaratha, then circumambulated him clockwise and departed, that lord, to his own abode."
-  }
+{"ref": "1.73.1", "sanskrit": "atha rātryāṃ vyatītāyāṃ viśvāmitro mahāmuniḥ āpṛcchya tau ca rājānau jagāmottaraparvatam", "english": "Then, when the night had passed, the great sage Viśvāmitra took leave of both kings and departed toward the northern mountain."},
+{"ref": "1.73.2", "sanskrit": "viśvāmitro gate rājā vaidehaṃ mithilādhipam āpṛcchyātha jagāmāśu rājā daśarathaḥ purīm", "english": "After Viśvāmitra had departed, king Daśaratha quickly took leave of the Videha king, the lord of Mithilā, and returned to his own city."},
+{"ref": "1.73.3", "sanskrit": "atha rājā videhānāṃ dadau kanyādhanaṃ bahu gavāṃ śatasahasrāṇi bahūni mithileśvaraḥ", "english": "Then the king of the Videhas, the lord of Mithilā, bestowed lavish bridal gifts — many hundreds of thousands of cows."},
+{"ref": "1.73.4", "sanskrit": "kambalānāṃ ca mukhyānāṃ kṣaumakoṭyambarāṇi ca hastyaśvarathapādātaṃ divyarūpaṃ svalaṃkṛtam", "english": "Foremost blankets and tens of millions of silk garments; elephants, horses, chariots, and foot-soldiers of divine appearance, richly adorned."},
+{"ref": "1.73.5", "sanskrit": "dadau kanyā pitā tāsāṃ dāsīdāsam anuttamam hiraṇyasya suvarṇasya muktānāṃ vidrumasya ca", "english": "The father of the brides gave unsurpassed female and male attendants, as well as silver, gold, pearls, and coral."},
+{"ref": "1.73.6", "sanskrit": "dadau paramasaṃhṛṣṭaḥ kanyādhanam anuttamam dattvā bahudhanaṃ rājā samanujñāpya pārthivam", "english": "With supreme delight the king gave these peerless bridal gifts; having bestowed abundant wealth, he duly took leave of the king."},
+{"ref": "1.73.7", "sanskrit": "praviveśa svanilayaṃ mithilāṃ mithileśvaraḥ rājāpy ayodhyādhipatiḥ saha putrair mahātmabhiḥ", "english": "The lord of Mithilā re-entered his own abode, Mithilā; and the king, the lord of Ayodhyā, departed together with his noble sons."},
+{"ref": "1.73.8", "sanskrit": "ṛṣīn sarvān puraskṛtya jagāma sabalānugaḥ gacchantaṃ tu naravyāghraṃ sarṣisaṃghaṃ sarāghavam", "english": "Placing all the sages at the fore, he set out with his army and retinue; and as that tiger among men, Rāghava, marched with the host of sages—"},
+{"ref": "1.73.9", "sanskrit": "ghorāḥ sma pakṣiṇo vāco vyāharanti tatas tataḥ bhaumāś caiva mṛgāḥ sarve gacchanti sma pradakṣiṇam", "english": "— dreadful birds uttered cries here and there, and all the earthly beasts moved in a clockwise direction around him."},
+{"ref": "1.73.10", "sanskrit": "tān dṛṣṭvā rājaśārdūlo vasiṣṭhaṃ paryapṛcchata asaumyāḥ pakṣiṇo ghorā mṛgāś cāpi pradakṣiṇāḥ kim idaṃ hṛdayotkampi mano mama viṣīdati", "english": "Seeing these omens, the tiger among kings questioned Vasiṣṭha: \"The birds are ominous and terrible, the beasts too go clockwise — what is this? My heart trembles and my mind is troubled.\""},
+{"ref": "1.73.11", "sanskrit": "rājño daśarathasyaitac chrutvā vākyaṃ mahān ṛṣiḥ uvāca madhurāṃ vāṇīṃ śrūyatām asya yat phalam", "english": "Having heard these words of king Daśaratha, the great sage spoke in a sweet voice: \"Hear what fruit these omens portend.\""},
+{"ref": "1.73.12", "sanskrit": "upasthitaṃ bhayaṃ ghoraṃ divyaṃ pakṣimukhāc cyutam mṛgāḥ praśamayanty ete saṃtāpas tyajyatām ayam", "english": "\"A terrible, celestial danger has been declared by the birds; these beasts are propitious and allay it — let this anxiety be abandoned.\""},
+{"ref": "1.73.13", "sanskrit": "teṣāṃ saṃvadatāṃ tatra vāyuḥ prādur babhūva ha kampayan medinīṃ sarvāṃ pātayaṃś ca drumāñ śubhān", "english": "While they were conversing there, a fierce wind arose, shaking the entire earth and toppling the stately trees."},
+{"ref": "1.73.14", "sanskrit": "tamasā saṃvṛtaḥ sūryaḥ sarvā na prababhur diśaḥ bhasmanā cāvṛtaṃ sarvaṃ saṃmūḍham iva tad balam", "english": "The sun was shrouded in darkness, the directions could not be discerned, everything was covered with ash, and the whole army seemed bewildered."},
+{"ref": "1.73.15", "sanskrit": "vasiṣṭha ṛṣayaś cānye rājā ca sasutas tadā sasaṃjñā iva tatrāsan sarvam anyad vicetanam", "english": "Vasiṣṭha, the other sages, and the king with his sons retained their senses, while all else present seemed to lose consciousness."},
+{"ref": "1.73.16", "sanskrit": "tasmiṃs tamasi ghore tu bhasmacchanneva sā camūḥ dadarśa bhīmasaṃkāśaṃ jaṭāmaṇḍaladhāriṇam", "english": "In that terrible darkness, with the army as though smothered in ash, they beheld a figure of fearsome aspect wearing a crown of matted locks—"},
+{"ref": "1.73.17", "sanskrit": "kailāsam iva durdharṣaṃ kālāgnim iva duḥsaham jvalantam iva tejobhir durnirīkṣyaṃ pṛthagjanaiḥ", "english": "— as unconquerable as mount Kailāsa, as unbearable as the fire at the end of time, blazing with such splendour that common folk could scarce behold him."},
+{"ref": "1.73.18", "sanskrit": "skandhe cāsajya paraśuṃ dhanur vidyudgaṇopamam pragṛhya śaramukhyaṃ ca tripuraghnaṃ yathā haram", "english": "With an axe slung upon his shoulder, a bow resembling a mass of lightning in his hands, and bearing the foremost arrow — like Hara who destroyed the three cities."},
+{"ref": "1.73.19", "sanskrit": "taṃ dṛṣṭvā bhīmasaṃkāśaṃ jvalantam iva pāvakam vasiṣṭhapramukhā viprā japahomaparāyaṇāḥ saṃgatā munayaḥ sarve saṃjajalpur atho mithaḥ", "english": "Beholding him of terrifying aspect, blazing as if he were fire, the brāhmaṇas headed by Vasiṣṭha — all the sages devoted to prayer and oblation — gathered and began to murmur to one another."},
+{"ref": "1.73.20", "sanskrit": "kaccit pitṛvadhāmarṣī kṣatraṃ notsādayiṣyati pūrvaṃ kṣatravadhaṃ kṛtvā gatamanyur gatajvaraḥ kṣatrasyotsādanaṃ bhūyo na khalv asya cikīrṣitam", "english": "\"Can it be that this one, still wrathful over his father's slaying, intends to annihilate the kṣatriyas? Having once massacred the kṣatriyas, his rage and fever were spent — surely he does not now intend their destruction again?\""},
+{"ref": "1.73.21", "sanskrit": "evam uktvārghyam ādāya bhārgavaṃ bhīmadarśanam ṛṣayo rāma rāmeti madhurāṃ vācam abruvan", "english": "Having spoken thus, the sages took the ceremonial offering and, approaching that fearsome son of Bhṛgu's line, addressed him in gentle words: \"Rāma, Rāma!\""},
+{"ref": "1.73.22", "sanskrit": "pratigṛhya tu tāṃ pūjām ṛṣidattāṃ pratāpavān rāmaṃ dāśarathiṃ rāmo jāmadagnyo 'bhyabhāṣata", "english": "Accepting that homage offered by the sages, the mighty Rāma, son of Jamadagni, then addressed Rāma, son of Daśaratha."},
+{"ref": "1.74.1", "sanskrit": "rāma dāśarathe vīra vīryaṃ te śrūyate 'dhutam dhanuṣo bhedanaṃ caiva nikhilena mayā śrutam", "english": "\"O heroic Rāma, son of Daśaratha, your wondrous valour has come to my ears; the breaking of the bow also I have heard in full detail.\""},
+{"ref": "1.74.2", "sanskrit": "tad adbhutam acintyaṃ ca bhedanaṃ dhanuṣas tvayā tac chrutvāham anuprāpto dhanur gṛhyāparaṃ śubham", "english": "\"That breaking of the bow by you is wondrous and inconceivable; having heard of it, I have come, bringing yet another auspicious bow.\""},
+{"ref": "1.74.3", "sanskrit": "tad idaṃ ghorasaṃkāśaṃ jāmadagnyaṃ mahad dhanuḥ pūrayasva śareṇaiva svabalaṃ darśayasva ca", "english": "\"This great bow of Jamadagni's race, of terrifying aspect — string it with an arrow, and reveal your own strength.\""},
+{"ref": "1.74.4", "sanskrit": "tad ahaṃ te balaṃ dṛṣṭvā dhanuṣo 'sya prapūraṇe dvandvayuddhaṃ pradāsyāmi vīryaślāghyam idaṃ tava", "english": "\"When I have seen your strength in stringing this bow, I shall offer you single combat — this is the true test of your valour.\""},
+{"ref": "1.74.5", "sanskrit": "tasya tad vacanaṃ śrutvā rājā daśarathas tadā viṣaṇṇavadano dīnaḥ prāñjalir vākyam abravīt", "english": "Hearing those words of his, king Daśaratha, his face downcast and wretched, spoke with folded hands."},
+{"ref": "1.74.6", "sanskrit": "kṣatraroṣāt praśāntas tvaṃ brāhmaṇasya mahāyaśāḥ bālānāṃ mama putrāṇām abhayaṃ dātum arhasi", "english": "\"You, of great renown among brāhmaṇas, have calmed the wrath born of the kṣatriya quarrel — you ought to grant safety to my young sons.\""},
+{"ref": "1.74.7", "sanskrit": "bhārgavāṇāṃ kule jātaḥ svādhyāyavrataśālinām sahasrākṣe pratijñāya śastraṃ nikṣiptavān asi", "english": "\"Born in the lineage of the Bhārgavas, distinguished for their vows of sacred study, you made a promise to the thousand-eyed Indra and laid down your weapons.\""},
+{"ref": "1.74.8", "sanskrit": "sa tvaṃ dharmaparo bhūtvā kāśyapāya vasuṃdharām dattvā vanam upāgamya mahendrakṛtaketanaḥ", "english": "\"You, being devoted to dharma, gave the earth to Kaśyapa and retired to the forest — you whose dwelling was established by Mahendra.\""},
+{"ref": "1.74.9", "sanskrit": "mama sarvavināśāya saṃprāptas tvaṃ mahāmune na caikasmin hate rāme sarve jīvāmahe vayam", "english": "\"You have come, O great sage, for my total ruin; for if but one Rāma is slain, we cannot all of us survive.\""},
+{"ref": "1.74.10", "sanskrit": "bruvaty evaṃ daśarathe jāmadagnyaḥ pratāpavān anādṛtyaiva tad vākyaṃ rāmam evābhyabhāṣata", "english": "While Daśaratha was speaking thus, the mighty son of Jamadagni disregarded those words entirely and spoke only to Rāma."},
+{"ref": "1.74.11", "sanskrit": "ime dve dhanuṣī śreṣṭhe divye lokābhiviśrute dṛḍhe balavatī mukhye sukṛte viśvakarmaṇā", "english": "\"These two are the foremost of bows — divine, renowned throughout the worlds, firm, powerful, supreme, and well crafted by Viśvakarman.\""},
+{"ref": "1.74.12", "sanskrit": "atisṛṣṭaṃ surair ekaṃ tryambakāya yuyutsave tripuraghnaṃ naraśreṣṭha bhagnaṃ kākutstha yat tvayā", "english": "\"One was bestowed by the gods upon the three-eyed Tryambaka, eager for battle — that Tripura-slaying bow which you, best of men, O Kākutstha, have broken.\""},
+{"ref": "1.74.13", "sanskrit": "idaṃ dvitīyaṃ durdharṣaṃ viṣṇor dattaṃ surottamaiḥ samānasāraṃ kākutstha raudreṇa dhanuṣā tv idam", "english": "\"This second bow, O Kākutstha, unconquerable, was given to Viṣṇu by the greatest of gods — it is of equal substance to the bow of Rudra.\""},
+{"ref": "1.74.14", "sanskrit": "tadā tu devatāḥ sarvāḥ pṛcchanti sma pitāmaham śitikaṇṭhasya viṣṇoś ca balābalanirīkṣayā", "english": "\"At that time all the gods questioned the Grandfather Brahmā, wishing to assess the comparative strength of Śitikaṇṭha and Viṣṇu.\""},
+{"ref": "1.74.15", "sanskrit": "abhiprāyaṃ tu vijñāya devatānāṃ pitāmahaḥ virodhaṃ janayām āsa tayoḥ satyavatāṃ varaḥ", "english": "\"Understanding the intention of the gods, the Grandfather, best among those who hold to truth, caused a conflict to arise between the two.\""},
+{"ref": "1.74.16", "sanskrit": "virodhe ca mahad yuddham abhavad romaharṣaṇam śitikaṇṭhasya viṣṇoś ca parasparajayaiṣiṇoḥ", "english": "\"In that conflict a great battle occurred, causing the hair to stand on end, as Śitikaṇṭha and Viṣṇu each strove to vanquish the other.\""},
+{"ref": "1.74.17", "sanskrit": "tadā taj jṛmbhitaṃ śaivaṃ dhanur bhīmaparākramam huṃkāreṇa mahādevaḥ stambhito 'tha trilocanaḥ", "english": "\"Then the bow of Śiva, of terrible might, was made to yawn open; and by Viṣṇu's humkāra Mahādeva, the three-eyed one, was paralysed.\""},
+{"ref": "1.74.18", "sanskrit": "devais tadā samāgamya sarṣisaṃghaiḥ sacāraṇaiḥ yācitau praśamaṃ tatra jagmatus tau surottamau", "english": "\"Then the gods, assembling together with the hosts of sages and the Cāraṇas, besought them; thereupon those two best of gods desisted and came to peace.\""},
+{"ref": "1.74.19", "sanskrit": "jṛmbhitaṃ tad dhanur dṛṣṭvā śaivaṃ viṣṇuparākramaiḥ adhikaṃ menire viṣṇuṃ devāḥ sarṣigaṇās tadā", "english": "\"Seeing that Śaiva bow made to yawn by the might of Viṣṇu, the gods and the hosts of sages then deemed Viṣṇu to be the greater.\""},
+{"ref": "1.74.20", "sanskrit": "dhanū rudras tu saṃkruddho videheṣu mahāyaśāḥ devarātasya rājarṣer dadau haste sasāyakam", "english": "\"But Rudra, greatly angered, of immense glory, placed that bow together with its arrow into the hands of the royal sage Devarāta among the Videhas.\""},
+{"ref": "1.74.21", "sanskrit": "idaṃ ca viṣṇavaṃ rāma dhanuḥ parapuraṃjayam ṛcīke bhārgave prādād viṣṇuḥ sa nyāsam uttamam", "english": "\"And this Vaiṣṇava bow, O Rāma, conqueror of enemy cities — Viṣṇu gave it as a most honoured trust to Ṛcīka of the Bhārgava line.\""},
+{"ref": "1.74.22", "sanskrit": "ṛcīkas tu mahātejāḥ putrasyāpratikarmaṇaḥ pitur mama dadau divyaṃ jamadagner mahātmanaḥ", "english": "\"And Ṛcīka, of great splendour, gave that divine bow to the great-souled Jamadagni, my father, as a gift of inestimable service.\""},
+{"ref": "1.74.23", "sanskrit": "nyastaśastre pitari me tapobalasamanvite arjuno vidadhe mṛtyuṃ prākṛtāṃ buddhim āsthitaḥ", "english": "\"While my father had laid aside his weapons and was endowed with the strength of asceticism, Arjuna, acting from a base mind, brought about his death.\""},
+{"ref": "1.74.24", "sanskrit": "vadham apratirūpaṃ tu pituḥ śrutvā sudāruṇam kṣatram utsādayaṃ roṣāj jātaṃ jātam anekaśaḥ", "english": "\"Hearing of my father's wholly undeserved and terrible slaying, in wrath I exterminated the kṣatriyas time and again, generation after generation.\""},
+{"ref": "1.74.25", "sanskrit": "pṛthivīṃ cākhilāṃ prāpya kāśyapāya mahātmane yajñasyānte tadā rāma dakṣiṇāṃ puṇyakarmaṇe", "english": "\"Having conquered the entire earth, O Rāma, at the conclusion of the sacrifice I then gave it as the sacrificial fee to the great-souled Kaśyapa, as the fruit of that pious act.\""},
+{"ref": "1.74.26", "sanskrit": "dattvā mahendranilayas tapobalasamanvitaḥ śrutavān dhanuṣo bhedaṃ tato 'haṃ drutam āgataḥ", "english": "\"Having given the earth, I took up abode on mount Mahendra, endowed with the power of asceticism; then I heard of the breaking of the bow, and I came here swiftly.\""},
+{"ref": "1.74.27", "sanskrit": "tad idaṃ vaiṣṇavaṃ rāma pitṛpaitāmahaṃ mahat kṣatradharmaṃ puraskṛtya gṛhṇīṣva dhanuruttamam", "english": "\"Therefore take this great Vaiṣṇava bow, O Rāma, which descended from father to grandfather — honouring the dharma of the kṣatriya, take this foremost of bows.\""},
+{"ref": "1.74.28", "sanskrit": "yojayasva dhanuḥ śreṣṭhe śaraṃ parapuraṃjayam yadi śaknoṣi kākutstha dvandvaṃ dāsyāmi te tataḥ", "english": "\"Fit to this foremost bow the arrow that conquers enemy cities; if you are able, O Kākutstha, I shall then give you single combat.\""},
+{"ref": "1.75.1", "sanskrit": "śrutvā taj jāmadagnyasya vākyaṃ dāśarathis tadā gauravād yantritakathaḥ pitū rāmam athābravīt", "english": "Hearing those words of the son of Jamadagni, Daśaratha's son Rāma, his speech restrained out of deference to his father, then spoke."},
+{"ref": "1.75.2", "sanskrit": "śrutavān asmi yat karma kṛtavān asi bhārgava anurundhyāmahe brahman pitur ānṛṇyam āsthitaḥ", "english": "\"I have heard of the deeds you have performed, O Bhārgava; I acknowledge them, O brahman — I stand here honouring my debt to my father.\""},
+{"ref": "1.75.3", "sanskrit": "vīryahīnam ivāśaktaṃ kṣatradharmeṇa bhārgava avajānāmi me tejaḥ paśya me 'dya parākramam", "english": "\"You treat me as though I were devoid of valour and incapable, O Bhārgava, by the code of the kṣatriya — witness my splendour today; behold my prowess!\""},
+{"ref": "1.75.4", "sanskrit": "ity uktvā rāghavaḥ kruddho bhārgavasya varāyudham śaraṃ ca pratisaṃgṛhya hastāl laghuparākramaḥ", "english": "Having spoken thus, the swift and mighty Rāghava in anger took from the hand of the Bhārgava both his supreme weapon and the arrow,"},
+{"ref": "1.75.5", "sanskrit": "āropya sa dhanū rāmaḥ śaraṃ sajyaṃ cakāra ha jāmadagnyaṃ tato rāmaṃ rāmaḥ kruddho 'bravīd vacaḥ", "english": "and Rāma strung the bow and fitted the arrow to the string; then Rāma, enraged, spoke these words to Jāmadagnya Rāma."},
+{"ref": "1.75.6", "sanskrit": "brāhmaṇo 'sīti pūjyo me viśvāmitrakṛtena ca tasmāc chakto na te rāma moktuṃ prāṇaharaṃ śaram", "english": "\"Because you are a brāhmaṇa you are venerable to me, and because of what Viśvāmitra has done for me — therefore, O Rāma, I am unable to release this life-taking arrow at you.\""},
+{"ref": "1.75.7", "sanskrit": "imāṃ vā tvadgatiṃ rāma tapobalasamārjitān lokān apratimān vāpi haniṣyāmi yad icchasi", "english": "\"I shall destroy either this your freedom of movement, O Rāma, or those incomparable worlds accumulated by the power of your asceticism — whichever you wish.\""},
+{"ref": "1.75.8", "sanskrit": "na hy ayaṃ vaiṣṇavo divyaḥ śaraḥ parapuraṃjayaḥ moghaḥ patati vīryeṇa baladarpavināśanaḥ", "english": "\"For this divine Vaiṣṇava arrow, conqueror of enemy cities, does not fall in vain by virtue of its might — it is the destroyer of the arrogance of strength.\""},
+{"ref": "1.75.9", "sanskrit": "varāyudhadharaṃ rāma draṣṭuṃ sarṣigaṇāḥ surāḥ pitāmahaṃ puraskṛtya sametās tatra saṃghaśaḥ", "english": "To behold Rāma bearing the supreme weapon, the hosts of sages and the gods, with Brahmā the Grandfather at their head, assembled there in multitudes."},
+{"ref": "1.75.10", "sanskrit": "gandharvāpsarasaś caiva siddhacāraṇakiṃnarāḥ yakṣarākṣasanāgāś ca tad draṣṭuṃ mahad adbhutam", "english": "Gandharvas, Apsarases, Siddhas, Cāraṇas, Kiṃnaras, Yakṣas, Rākṣasas, and Nāgas — all came to witness that great wonder."},
+{"ref": "1.75.11", "sanskrit": "jaḍīkṛte tadā loke rāme varadhanurdhare nirvīryo jāmadagnyo 'sau ramo rāmam udaikṣata", "english": "When the world had become stupefied, as Rāma held the bow of boons, that Jāmadagnya Rāma, now drained of valour, looked upon Rāma."},
+{"ref": "1.75.12", "sanskrit": "tejobhir hatavīryatvāj jāmadagnyo jaḍīkṛtaḥ rāmaṃ kamala patrākṣaṃ mandaṃ mandam uvāca ha", "english": "Stupefied, his power of valour struck down by Rāma's splendour, the son of Jamadagni slowly and softly spoke to Rāma of lotus-petal eyes."},
+{"ref": "1.75.13", "sanskrit": "kāśyapāya mayā dattā yadā pūrvaṃ vasuṃdharā viṣaye me na vastavyam iti māṃ kāśyapo 'bravīt", "english": "\"When I previously gave the earth to Kaśyapa, Kaśyapa told me: 'You must not dwell within my domain.'\""},
+{"ref": "1.75.14", "sanskrit": "so 'haṃ guruvacaḥ kurvan pṛthivyāṃ na vase niśām iti pratijñā kākutstha kṛtā vai kāśyapasya ha", "english": "\"Honouring the word of my guru, this is the vow I made to Kaśyapa, O Kākutstha: 'I shall not spend even a single night upon the earth.'\""},
+{"ref": "1.75.15", "sanskrit": "tad imāṃ tvaṃ gatiṃ vīra hantuṃ nārhasi rāghava manojavaṃ gamiṣyāmi mahendraṃ parvatottamam", "english": "\"Therefore, O hero Rāghava, you should not destroy this my freedom of movement; swift as thought I shall depart to Mahendra, the greatest of mountains.\""},
+{"ref": "1.75.16", "sanskrit": "lokās tv apratimā rāma nirjitās tapasā mayā jahi tāñ śaramukhyena mā bhūt kālasya paryayaḥ", "english": "\"But those incomparable worlds I have conquered through asceticism, O Rāma — destroy those with the foremost arrow; let there be no delay of time.\""},
+{"ref": "1.75.17", "sanskrit": "akṣayyaṃ madhuhantāraṃ jānāmi tvāṃ sureśvaram dhanuṣo 'sya parāmarśāt svasti te 'stu paraṃtapa", "english": "\"I know you to be the eternal slayer of Madhu, the lord of the gods — by your very touch of this bow it is proven; may good befall you, O scorcher of foes.\""},
+{"ref": "1.75.18", "sanskrit": "ete suragaṇāḥ sarve nirīkṣante samāgatāḥ tvām apratimakarmāṇam apratidvandvam āhave", "english": "\"All these hosts of gods have assembled and behold you, whose deeds are without equal and who has no rival in battle.\""},
+{"ref": "1.75.19", "sanskrit": "na ceyaṃ mama kākutstha vrīḍā bhavitum arhati tvayā trailokyanāthena yad ahaṃ vimukhīkṛtaḥ", "english": "\"Nor should this be a source of shame for me, O Kākutstha, that I have been turned back by you — you who are the lord of the three worlds.\""},
+{"ref": "1.75.20", "sanskrit": "śaram apratimaṃ rāma moktum arhasi suvrata śaramokṣe gamiṣyāmi mahendraṃ parvatottamam", "english": "\"You should release this peerless arrow, O Rāma of noble vow; once the arrow is released I shall depart to mount Mahendra, the greatest of mountains.\""},
+{"ref": "1.75.21", "sanskrit": "tathā bruvati rāme tu jāmadagnye pratāpavān rāmo dāśarathiḥ śrīmāṃś cikṣepa śaram uttamam", "english": "While Jāmadagnya Rāma was speaking thus, the glorious and mighty Rāma, son of Daśaratha, released that supreme arrow."},
+{"ref": "1.75.22", "sanskrit": "tato vitimirāḥ sarvā diśā copadiśas tathā surāḥ sarṣigaṇā rāmaṃ praśaśaṃsur udāyudham", "english": "Then all the directions and intermediate quarters became free of darkness; the gods and hosts of sages praised Rāma as he held his weapon aloft."},
+{"ref": "1.75.23", "sanskrit": "rāmaṃ dāśarathiṃ rāmo jāmadagnyaḥ praśasya ca tataḥ pradakṣiṇīkṛtya jagāmātmagatiṃ prabhuḥ", "english": "And Rāma the son of Jamadagni, having praised Rāma the son of Daśaratha, then circumambulated him clockwise and departed, that lord, to his own abode."}
 ]

@@ -4162,7 +4162,7 @@ translator: thothica
 
 **12.59.98**  Anaṅga's son Atibala, versed in polity, having attained it, came to the kingship of the earth; but then he fell under the sway of his senses.
 
-**12.59.99**  Now the daughter of Death, O king, mind-born, named Sunīthā, renowned throughout the three worlds, gave birth to Vena.
+**12.59.99**  Now the daughter of Death, O king, mind-born, named Sunītha, renowned throughout the three worlds, gave birth to Vena.
 
 **12.59.100**  Him, lawless toward his subjects and a slave to passion and hatred, the sages who expound the sacred word struck down with blades of kuśa grass made potent by mantras.
 
@@ -5108,7 +5108,7 @@ translator: thothica
 
 **12.71.13**  He who follows all these virtues as they have been told, having enjoyed blessings here, is exalted in heaven after death.
 
-**12.71.14**  Vaiśaṃpāyana said: Having heard this discourse of the son of Śāntanu, Yudhiṣṭhira, surrounded by the foremost of the Pāṇḍavas, then bowed to his grandfather, and that wise king did even as had been told.
+**12.71.14**  Vaiśaṃpāyana said: Having heard this discourse of the son of Śaṃtanu, Yudhiṣṭhira, surrounded by the foremost of the Pāṇḍavas, then bowed to his grandfather, and that wise king did even as had been told.
 
 **12.72.1**  Yudhiṣṭhira said: How, while protecting his people, may a king not be bound by sin and not offend against dharma? Tell me that, O grandfather.
 
@@ -6354,7 +6354,7 @@ translator: thothica
 
 **12.90.25**  This is the conduct of the realm for you and the safeguarding of the realm, O Bhārata; resting upon this very theme, I shall speak yet further, O Pāṇḍava.
 
-**12.91.1**  Bhīṣma said: Those duties of the warrior caste which Utathya, the Aṅgirasa, foremost knower of the Veda, spoke with goodwill to Māndhātṛ, the son of Yuvanāśva—
+**12.91.1**  Bhīṣma said: Those duties of the warrior caste which Utathya, the Āṅgirasa, foremost knower of the Veda, spoke with goodwill to Māndhātṛ, the son of Yuvanāśva—
 
 **12.91.2**  even as Utathya, foremost knower of the Veda, instructed him, all that I shall declare to you in full, O Yudhiṣṭhira.
 
@@ -14286,7 +14286,7 @@ translator: thothica
 
 **12.201.22**  Thus have these been enumerated — the Viśvedevas and likewise the Aśvins. Among them the Ādityas are the warriors, and the Maruts the commoners.
 
-**12.201.23**  The two Aśvins are held to be Śūdras, intent upon fierce austerity; and the Aṅgirasa gods are remembered, by settled judgment, to be Brāhmaṇas. Thus the fourfold order of all the gods has been proclaimed.
+**12.201.23**  The two Aśvins are held to be Śūdras, intent upon fierce austerity; and the Āṅgirasa gods are remembered, by settled judgment, to be Brāhmaṇas. Thus the fourfold order of all the gods has been proclaimed.
 
 **12.201.24**  Whoever, rising at dawn, glorifies these gods is released from every sin — both that done by himself and that done by another.
 
@@ -20662,7 +20662,7 @@ translator: thothica
 
 **12.291.14**  Know that an age is twelve thousand years, and a kalpa four times that; a thousand kalpas turning round make up what is called the Day of Brahmā, and the Night, O king, is of equal length—at whose end He awakens.
 
-**12.291.15**  Then the formless Self, Śaṃbhu, the source of all good, brings forth the Great One, the firstborn being of endless action, embodied and all-pervading—endowed with the powers of minuteness, lightness, and attainment, the lordly, imperishable Light.
+**12.291.15**  Then the formless Self, Śambhu, the source of all good, brings forth the Great One, the firstborn being of endless action, embodied and all-pervading—endowed with the powers of minuteness, lightness, and attainment, the lordly, imperishable Light.
 
 **12.291.16**  With hands and feet on every side, with eyes, heads, and faces turned in every direction, with ears in every quarter, it stands enveloping all things in the world.
 
@@ -22852,7 +22852,7 @@ translator: thothica
 
 **12.315.11**  Nārada, of exceeding great penance, beheld him at the hermitage, and in due season addressed him in a voice of honeyed syllables:
 
-**12.315.12**  "Ho there, great sage, descendant of Vasiṣṭha! The chant of the Veda is heard no more. Why do you sit alone, silent and absorbed in thought, as though brooding?"
+**12.315.12**  "Ho there, great sage, descendant of Vāsiṣṭha! The chant of the Veda is heard no more. Why do you sit alone, silent and absorbed in thought, as though brooding?"
 
 **12.315.13**  "Bereft of the chant of the Veda, this mountain has no splendor, even as the moon, when eclipsed, is dimmed by dust and darkness.
 

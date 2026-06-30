@@ -177,15 +177,15 @@ translator: thothica
 
 **12.10.7**  Making the will her own, the auspicious one has arrived at the station proper to the sovereign; being born beyond the unsacrificed sacrifice, she who measures out the measure of the rite.
 
-**12.10.8**  The Maruts who possess Indra — they have partaken of the fourth portion in the vaśā; the Ādityās and Rudras have the fourth portion, the Vasus the fourth, in the vaśā.
+**12.10.8**  The Maruts who possess Indra — they have partaken of the fourth portion in the vaśā; the Ādityas and Rudras have the fourth portion, the Vasus the fourth, in the vaśā.
 
-**12.10.9**  The seers know the Ādityās as sharers of the fourth portion in the vaśā; then her body, as the one path, became arranged as the four quarters.
+**12.10.9**  The seers know the Ādityas as sharers of the fourth portion in the vaśā; then her body, as the one path, became arranged as the four quarters.
 
-**12.10.10**  The vaśā beheld the path, the back of the firmament belonging to those who know heaven; the Ādityās followed after her, and the seers rich in austerity.
+**12.10.10**  The vaśā beheld the path, the back of the firmament belonging to those who know heaven; the Ādityas followed after her, and the seers rich in austerity.
 
-**12.11.1**  Step by step the Ādityās and the Aṅgirasas arranged the Yajus; those who praise followed after the vaśās — therefore is that called the iḍā-Sāman.
+**12.11.1**  Step by step the Ādityas and the Aṅgirasas arranged the Yajus; those who praise followed after the vaśās — therefore is that called the iḍā-Sāman.
 
-**12.11.2**  The vaśā is Iḍā; the vaśā is Anumatī; they call Sarasvatī the vaśā; the vaśā they reckon as Virāj; Speech is the vaśā, the Earth is the vaśā.
+**12.11.2**  The vaśā is Iḍā; the vaśā is Anumati; they call Sarasvatī the vaśā; the vaśā they reckon as Virāj; Speech is the vaśā, the Earth is the vaśā.
 
 **12.11.3**  The vaśā is the guide Sinīvālī; the vaśā is Uṣas; Nirṛti is the vaśā; Death entered into the vaśā — yes, Death entered the vaśā.
 

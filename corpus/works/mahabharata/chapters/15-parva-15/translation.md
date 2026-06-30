@@ -702,7 +702,7 @@ translator: thothica
 
 **15.17.4**  He desires of you a certain thing, O best of the Kuru line; he wishes to offer a śrāddha for the great-souled son of Gaṅgā,
 
-**15.17.5**  and for Droṇa, for Somadatta, and for the wise Bāhlīka, and for all his sons and for those friends of his who were slain—and, if you grant leave, for that vile Saindhava as well.
+**15.17.5**  and for Droṇa, for Somadatta, and for the wise Bāhlika, and for all his sons and for those friends of his who were slain—and, if you grant leave, for that vile Saindhava as well.
 
 **15.17.6**  Hearing this speech of Vidura, Yudhiṣṭhira was gladdened and paid him honor, as did the Pāṇḍava Guḍākeśa.
 
@@ -724,7 +724,7 @@ translator: thothica
 
 **15.17.15**  But Bhīmasena, full of wrath, then spoke these words: "It is we who should perform the funeral rites for Bhīṣma here, O Phalguna,
 
-**15.17.16**  for King Somadatta, and for Bhūriśravas, and for the royal sage Bāhlīka, and for the great-souled Droṇa,
+**15.17.16**  for King Somadatta, and for Bhūriśravas, and for the royal sage Bāhlika, and for the great-souled Droṇa,
 
 **15.17.17**  and for the other kinsmen; and Kuntī shall make the śrāddha offerings for Karṇa, O tiger among men—let not the Kaurava king bestow them.
 
@@ -1576,7 +1576,7 @@ translator: thothica
 
 **15.37.9**  And this wife of Bhūriśravas, most sorely afflicted, tormented by grief at her husband's calamity, sleeps not through the nights, O lord.
 
-**15.37.10**  Whose father-in-law, the wise Bāhlīka, upholder of the Kurus, was slain, and Somadatta together with his father, in the great battle.
+**15.37.10**  Whose father-in-law, the wise Bāhlika, upholder of the Kurus, was slain, and Somadatta together with his father, in the great battle.
 
 **15.37.11**  And the hundred sons of your son—he the illustrious, of great wisdom, who never fled in battles—who were slain on the field of war.
 
@@ -1710,7 +1710,7 @@ translator: thothica
 
 **15.40.11**  the prince Lakṣmaṇa, and the sons of Dhṛṣṭadyumna, and all the sons of Śikhaṇḍin, and Dhṛṣṭaketu with his younger brother;
 
-**15.40.12**  Acala and Vṛṣaka, and the rākṣasa Alāyudha, Bāhlīka and Somadatta, and king Cekitāna;
+**15.40.12**  Acala and Vṛṣaka, and the rākṣasa Alāyudha, Bāhlika and Somadatta, and king Cekitāna;
 
 **15.40.13**  these and many others, who for their multitude are not named, all of radiant form, rose up then from the water.
 

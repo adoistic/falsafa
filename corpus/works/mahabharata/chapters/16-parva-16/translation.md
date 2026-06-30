@@ -58,7 +58,7 @@ translator: thothica
 
 **16.2.9**  by which you, vicious, cruel, and full of wrath, will utterly root out your whole race, save only Rāma and Janārdana.
 
-**16.2.10**  The glorious Halāyudha, casting off his body, will go to the sea; and one named Jarā will pierce the great-souled Kṛṣṇa as he lies upon the ground."
+**16.2.10**  The glorious Halāyudha, casting off his body, will go to the sea; and one named Jara will pierce the great-souled Kṛṣṇa as he lies upon the ground."
 
 **16.2.11**  So spoke the sages, O king, mocked by those evil-minded men, their eyes red with anger as they glanced at one another.
 
@@ -252,9 +252,9 @@ translator: thothica
 
 **16.5.18**  Reflecting on the destruction of the Andhakas and Vṛṣṇis and on the ruin of the Kurus, the noble one judged that the time of his passing-over had come; and thereupon he set about the restraint of his senses.
 
-**16.5.19**  With his senses, speech, and mind reined in, Kṛṣṇa entered into the great yoga and lay still; and just then a fierce hunter named Jarā, greedy for game, came to that region.
+**16.5.19**  With his senses, speech, and mind reined in, Kṛṣṇa entered into the great yoga and lay still; and just then a fierce hunter named Jara, greedy for game, came to that region.
 
-**16.5.20**  That hunter Jarā, mistaking the yoga-rapt Keśava as he lay for a deer, swiftly pierced him in the sole of the foot with an arrow; and going up to seize his quarry, the hunter beheld a man rapt in yoga, clad in yellow, with many arms.
+**16.5.20**  That hunter Jara, mistaking the yoga-rapt Keśava as he lay for a deer, swiftly pierced him in the sole of the foot with an arrow; and going up to seize his quarry, the hunter beheld a man rapt in yoga, clad in yellow, with many arms.
 
 **16.5.21**  Believing himself to have wronged him, stricken with grief, he clasped Kṛṣṇa's feet with his head; and the great-souled one consoled him at that moment, even as he ascended on high, filling heaven and earth with his glory.
 

@@ -291,59 +291,59 @@ translator: thothica
 
 **15.14.11**  We invoke the beings and the lord of beings and him who is master of all beings; all beings in their entirety we invoke — may they release us from distress.
 
-**15.15.1**  As far as the sky extends, as far as the earth extends, as far as the sun moves around — so far do you, O potent plant, protect all around, O Arundhati.
+**15.15.1**  As far as the sky extends, as far as the earth extends, as far as the sun moves around — so far do you, O potent plant, protect all around, O Arundhatī.
 
 **15.15.2**  The uninjured one digs you up; for the sake of freedom from injury I dig you up. May all of our two-footed and four-footed creatures be without disease.
 
 **15.15.3**  You are the sister of the gods; you are the companion who moves with the Maruts. Whatever living man you reach, that person shall not suffer harm.
 
-**15.15.4**  Arundhati is your name; you are in the third heaven from here. There is the stalk of immortality — by means of that we call to you.
+**15.15.4**  Arundhatī is your name; you are in the third heaven from here. There is the stalk of immortality — by means of that we call to you.
 
 **15.15.5**  Benign to you be the heart-pleasing waters; benign to you the spring-fed streams. Benign be Vāyu, benign Bṛhaspati; may Sūrya warm you with benevolence.
 
 **15.15.6**  May Indra and Agni be benign to you; may Night be laid down in benevolence. Benign to you be the plants in the earth; benign too may the healing herbs be to you.
 
-**15.15.7**  Among many plants I have found you, O potent herb; O Arundhati, I have brought you hither — "may she bring us safely across" is what they say.
+**15.15.7**  Among many plants I have found you, O potent herb; O Arundhatī, I have brought you hither — "may she bring us safely across" is what they say.
 
-**15.15.8**  As if striving to reach a living man, may Arundhati shine forth; this divinely luminous healing goddess cures even him who is afflicted by wind-sickness.
+**15.15.8**  As if striving to reach a living man, may Arundhatī shine forth; this divinely luminous healing goddess cures even him who is afflicted by wind-sickness.
 
-**15.15.9**  Sprinkle it upon us, do that — he shall indeed be free of disease. As healer of wind-sickness the divine Arundhati has come.
+**15.15.9**  Sprinkle it upon us, do that — he shall indeed be free of disease. As healer of wind-sickness the divine Arundhatī has come.
 
-**15.15.10**  Fear not — you shall not die; you shall indeed be free of disease. As healer of wind-sickness the divine Arundhati has come.
+**15.15.10**  Fear not — you shall not die; you shall indeed be free of disease. As healer of wind-sickness the divine Arundhatī has come.
 
-**15.16.1**  The Arundhati-plants speak together like cows going out to graze. Go to this afflicted one; make him free of ailment, free of ailment.
+**15.16.1**  The Arundhatī-plants speak together like cows going out to graze. Go to this afflicted one; make him free of ailment, free of ailment.
 
-**15.16.2**  Do thou, O herb, make this man of mine one who dies only of old age. For thou art Arundhati, queen of all herbs.
+**15.16.2**  Do thou, O herb, make this man of mine one who dies only of old age. For thou art Arundhatī, queen of all herbs.
 
-**15.16.3**  For thou art Trāyamāṇā, life-giving, full of potency. O Arundhati, I have brought thee hither — 'from this one deliver him,' so I say.
+**15.16.3**  For thou art Trāyamāṇā, life-giving, full of potency. O Arundhatī, I have brought thee hither — 'from this one deliver him,' so I say.
 
-**15.16.4**  For one pierced by a poisoned weapon, and for the evil and its evil venom — O Arundhati, thou art the poison-destroyer of that poison.
+**15.16.4**  For one pierced by a poisoned weapon, and for the evil and its evil venom — O Arundhatī, thou art the poison-destroyer of that poison.
 
-**15.16.5**  For one bitten by a snake and by that evil — [Arundhati, thou art the poison-destroyer of that poison].
+**15.16.5**  For one bitten by a snake and by that evil — [Arundhatī, thou art the poison-destroyer of that poison].
 
-**15.16.6**  For one struck down by a wind-demon and by that evil — [Arundhati, thou art the poison-destroyer of that poison].
+**15.16.6**  For one struck down by a wind-demon and by that evil — [Arundhatī, thou art the poison-destroyer of that poison].
 
-**15.16.7**  And by Bhava — [for one struck down by that evil, Arundhati, thou art the poison-destroyer of that poison].
+**15.16.7**  And by Bhava — [for one struck down by that evil, Arundhatī, thou art the poison-destroyer of that poison].
 
-**15.16.8**  And by Śarva — [for one struck down by that evil, Arundhati, thou art the poison-destroyer of that poison].
+**15.16.8**  And by Śarva — [for one struck down by that evil, Arundhatī, thou art the poison-destroyer of that poison].
 
-**15.16.9**  And by Rudra — [for one struck down by that evil, Arundhati, thou art the poison-destroyer of that poison].
+**15.16.9**  And by Rudra — [for one struck down by that evil, Arundhatī, thou art the poison-destroyer of that poison].
 
-**15.16.10**  And for one struck down by Paśupati — [that evil, Arundhati, thou art the poison-destroyer of that poison].
+**15.16.10**  And for one struck down by Paśupati — [that evil, Arundhatī, thou art the poison-destroyer of that poison].
 
-**15.17.1**  And for one struck down by the fierce deity Ugra — [that evil, Arundhati, thou art the poison-destroyer of that poison].
+**15.17.1**  And for one struck down by the fierce deity Ugra — [that evil, Arundhatī, thou art the poison-destroyer of that poison].
 
-**15.17.2**  And for one struck down by Mahādeva — [that evil, Arundhati, thou art the poison-destroyer of that poison].
+**15.17.2**  And for one struck down by Mahādeva — [that evil, Arundhatī, thou art the poison-destroyer of that poison].
 
-**15.17.3**  And for one struck down by Īśāna, and for the evil and its evil venom — O Arundhati, [thou art the poison-destroyer of that poison].
+**15.17.3**  And for one struck down by Īśāna, and for the evil and its evil venom — O Arundhatī, [thou art the poison-destroyer of that poison].
 
-**15.17.4**  Whatever poison is in the earth, whatever poison is upon the plants — [Arundhati, thou art the poison-destroyer of that poison].
+**15.17.4**  Whatever poison is in the earth, whatever poison is upon the plants — [Arundhatī, thou art the poison-destroyer of that poison].
 
-**15.17.5**  Whatever poison brahmins collect from herbs for a woman — [Arundhati, thou art the poison-destroyer of that poison].
+**15.17.5**  Whatever poison brahmins collect from herbs for a woman — [Arundhatī, thou art the poison-destroyer of that poison].
 
-**15.17.6**  Whatever sharp, keenly-virulent poison brahmins compound — [Arundhati, thou art the poison-destroyer of that poison].
+**15.17.6**  Whatever sharp, keenly-virulent poison brahmins compound — [Arundhatī, thou art the poison-destroyer of that poison].
 
-**15.17.7**  He who has been struck down by death, by those through whom he is struck, he who has been bitten by sharp-fanged creatures — O Arundhati, thou art the poison-destroyer of that poison.
+**15.17.7**  He who has been struck down by death, by those through whom he is struck, he who has been bitten by sharp-fanged creatures — O Arundhatī, thou art the poison-destroyer of that poison.
 
 **15.17.8**  Rouse thyself, rise up free of disease! Ascend to the highest realm. Thou dost live by a vessel of water — come hither to the city of the living.
 

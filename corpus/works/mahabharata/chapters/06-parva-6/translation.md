@@ -1292,7 +1292,7 @@ translator: thothica
 
 **6.17.38**  That formation, rich in chariot-troops, with elephant-bodies and a noble head, with cavalry for wings, descended fierce and struck out, facing every way.
 
-**6.17.39**  It was ordered, O king, by Droṇa and by the royal son of Śaṃtanu, and likewise by the teacher's son, by Bāhlīka, and by Kṛpa.
+**6.17.39**  It was ordered, O king, by Droṇa and by the royal son of Śaṃtanu, and likewise by the teacher's son, by Bāhlika, and by Kṛpa.
 
 **6.18.1**  Saṃjaya said: Then in a moment, O great king, a tumultuous, heart-shaking din was heard from the warriors eager to fight.
 
@@ -3058,7 +3058,7 @@ translator: thothica
 
 **6.41.61**  And I shall cast away my weapons in the battle on hearing some most grievous tidings from a man whose word is to be trusted: this truth I tell you.
 
-**6.41.62**  Saṃjaya said: Having heard these words of the wise son of Bharadvāja, O great king, and having taken leave of that teacher, he went toward the son of Śaradvat.
+**6.41.62**  Saṃjaya said: Having heard these words of the wise son of Bhāradvāja, O great king, and having taken leave of that teacher, he went toward the son of Śaradvat.
 
 **6.41.63**  Saluting Kṛpa and walking around him in reverence, that king, skilled in speech, spoke this word to the most unassailable of men.
 
@@ -3218,7 +3218,7 @@ translator: thothica
 
 **6.43.7**  Setting their minds upon cruelty and casting their lives utterly aside, they all, with banners raised on high, bore down upon the Pāṇḍavas.
 
-**6.43.8**  The son of Śantanu himself, O king, charged upon Dhanaṃjaya in the battle, gripping his dreadful bow that was like the rod of Death.
+**6.43.8**  The son of Śaṃtanu himself, O king, charged upon Dhanaṃjaya in the battle, gripping his dreadful bow that was like the rod of Death.
 
 **6.43.9**  Arjuna too, the radiant one, seizing his bow Gāṇḍīva renowned throughout the world, rushed against the son of Gaṅgā at the head of the battle.
 
@@ -3272,11 +3272,11 @@ translator: thothica
 
 **6.43.34**  Between those two, proud and swift in battle, O lord of peoples, there arose a combat of terrible form, like that between Vṛtra and Vāsava.
 
-**6.43.35**  Against Bāhlīka, enraged in the fight, the immeasurable-souled Dhṛṣṭaketu, that great car-warrior, fierce of aspect, charged, O lord of peoples.
+**6.43.35**  Against Bāhlika, enraged in the fight, the immeasurable-souled Dhṛṣṭaketu, that great car-warrior, fierce of aspect, charged, O lord of peoples.
 
-**6.43.36**  Then Bāhlīka, O king, assailed the indignant Dhṛṣṭaketu with many arrows and let forth a lion's roar.
+**6.43.36**  Then Bāhlika, O king, assailed the indignant Dhṛṣṭaketu with many arrows and let forth a lion's roar.
 
-**6.43.37**  But the king of the Cedis, greatly enraged, swiftly pierced Bāhlīka in the fight with nine arrows, as a rutting elephant assails another in rut.
+**6.43.37**  But the king of the Cedis, greatly enraged, swiftly pierced Bāhlika in the fight with nine arrows, as a rutting elephant assails another in rut.
 
 **6.43.38**  There in the fight those two, enraged and roaring again and again, came together in fury like Mars and Mercury.
 
@@ -3726,11 +3726,11 @@ translator: thothica
 
 **6.47.11**  Bhīṣma, surrounded on every side by a mighty host, advanced, leading on the great army like the king of the gods.
 
-**6.47.12**  Behind him followed the mighty archer, the valorous son of Bharadvāja, with the Kuntalas and the Daśārṇas and the Māgadhas, O lord of peoples,
+**6.47.12**  Behind him followed the mighty archer, the valorous son of Bhāradvāja, with the Kuntalas and the Daśārṇas and the Māgadhas, O lord of peoples,
 
 **6.47.13**  with the Vidarbhas and the Mekalas and the Karṇaprāvaraṇas as well, together with the whole army, behind Bhīṣma resplendent in battle.
 
-**6.47.14**  The Gāndhāras, the Sindhus and Sauvīras, the Śibis, and then the Vasātis—and Śakuni with his own troops—guarded the son of Bharadvāja.
+**6.47.14**  The Gāndhāras, the Sindhus and Sauvīras, the Śibis, and then the Vasātis—and Śakuni with his own troops—guarded the son of Bhāradvāja.
 
 **6.47.15**  Then King Duryodhana, together with all his brothers, with the Aśvātakas and the Vikarṇas, and likewise with the Śarmilas and the Kosalas,
 
@@ -3906,7 +3906,7 @@ translator: thothica
 
 **6.49.1**  Dhṛtarāṣṭra said: How did the great bowman Droṇa and the Pāñcāla son of Pṛṣata, both intent, come together in battle? Recount that to me, Saṃjaya.
 
-**6.49.2**  I deem destiny supreme, even above manly effort, Saṃjaya, since Bhīṣma the son of Śantanu could not overcome the son of Pāṇḍu in the fight.
+**6.49.2**  I deem destiny supreme, even above manly effort, Saṃjaya, since Bhīṣma the son of Śaṃtanu could not overcome the son of Pāṇḍu in the fight.
 
 **6.49.3**  For Bhīṣma, enraged in battle, could slay the worlds with all that moves and moves not; how then could he not, by his own might, overcome the son of Pāṇḍu in the fight, Saṃjaya?
 
@@ -3918,21 +3918,21 @@ translator: thothica
 
 **6.49.7**  Thereupon the hero Dhṛṣṭadyumna, laughing, pierced Droṇa with ninety sharp arrows, and cried out, 'Stand! Stand!'
 
-**6.49.8**  Then once more the immeasurable and valorous son of Bharadvāja covered with his shafts the wrathful Dhṛṣṭadyumna.
+**6.49.8**  Then once more the immeasurable and valorous son of Bhāradvāja covered with his shafts the wrathful Dhṛṣṭadyumna.
 
 **6.49.9**  And he took up a dreadful arrow for the slaying of Pṛṣata's son, of touch like Śakra's thunderbolt, like a second rod of Death.
 
-**6.49.10**  A great cry of dismay arose from all the host, O Bhārata, when they saw that shaft fitted to the string by the son of Bharadvāja in the encounter.
+**6.49.10**  A great cry of dismay arose from all the host, O Bhārata, when they saw that shaft fitted to the string by the son of Bhāradvāja in the encounter.
 
 **6.49.11**  Therein we beheld a wondrous feat of manliness in Dhṛṣṭadyumna, that the hero alone in battle stood firm as an unmoving mountain.
 
-**6.49.12**  And that blazing, dreadful arrow speeding toward him, his own death, he cut asunder, and let loose a shower of arrows upon the son of Bharadvāja.
+**6.49.12**  And that blazing, dreadful arrow speeding toward him, his own death, he cut asunder, and let loose a shower of arrows upon the son of Bhāradvāja.
 
 **6.49.13**  Then all the Pāñcālas together with the Pāṇḍavas raised a shout, beholding that most difficult feat accomplished by Dhṛṣṭadyumna.
 
 **6.49.14**  Then that valiant one, longing for Droṇa's death, hurled a swift lance adorned with gold and lapis.
 
-**6.49.15**  That gold-decked lance rushing suddenly upon him, the son of Bharadvāja, as if laughing, cut into three pieces in the battle.
+**6.49.15**  That gold-decked lance rushing suddenly upon him, the son of Bhāradvāja, as if laughing, cut into three pieces in the battle.
 
 **6.49.16**  Seeing his lance struck down, the valorous Dhṛṣṭadyumna poured showers of arrows upon Droṇa, O lord of men.
 
@@ -3940,7 +3940,7 @@ translator: thothica
 
 **6.49.18**  His bow being severed, that mighty and illustrious one hurled at Droṇa in the battle a heavy mace made of mountain-stuff.
 
-**6.49.19**  That mace, loosed with force, sped on, eager to slay Droṇa; therein we beheld a wondrous feat of prowess in the son of Bharadvāja.
+**6.49.19**  That mace, loosed with force, sped on, eager to slay Droṇa; therein we beheld a wondrous feat of prowess in the son of Bhāradvāja.
 
 **6.49.20**  By his deftness he turned aside that gold-adorned mace, and having turned it aside, he sent forth arrows upon Pṛṣata's son.
 
@@ -3966,7 +3966,7 @@ translator: thothica
 
 **6.49.31**  rushed forward with speed, longing to slay Droṇa, as a lion seeking prey rushes upon a rutting elephant in the forest.
 
-**6.49.32**  Therein we beheld a wondrous feat of manliness in the son of Bharadvāja — his deftness, his mastery of weapons, and the strength of his arms, O Bhārata —
+**6.49.32**  Therein we beheld a wondrous feat of manliness in the son of Bhāradvāja — his deftness, his mastery of weapons, and the strength of his arms, O Bhārata —
 
 **6.49.33**  in that he held off Pṛṣata's son with a shower of arrows, so that, mighty though he was, he could not advance in the battle.
 
@@ -3976,7 +3976,7 @@ translator: thothica
 
 **6.49.36**  He pierced Droṇa, O king, with seven sharp arrows, and then quickly mounted Pṛṣata's son upon another car.
 
-**6.49.37**  Then King Duryodhana urged on the Kaliṅga, attended by a great host, for the protection of the son of Bharadvāja.
+**6.49.37**  Then King Duryodhana urged on the Kaliṅga, attended by a great host, for the protection of the son of Bhāradvāja.
 
 **6.49.38**  Then that great host of the Kaliṅgas, O lord of men, advanced swiftly upon Bhīma at thy son's command.
 
@@ -4020,7 +4020,7 @@ translator: thothica
 
 **6.50.18**  But the Kaliṅga king, a mighty archer, and his son, a great car-warrior renowned as Śakradeva, struck at the Pāṇḍava with their arrows.
 
-**6.50.19**  Then mighty-armed Bhīma, shaking his gleaming bow, gave battle to the Kāliṅgas, relying on the strength of his own arms.
+**6.50.19**  Then mighty-armed Bhīma, shaking his gleaming bow, gave battle to the Kaliṅgas, relying on the strength of his own arms.
 
 **6.50.20**  But Śakradeva, loosing many shafts in the fray, slew Bhīmasena's horses with his arrows, and rained down showers of arrows like a cloud at the end of the hot season.
 
@@ -4198,7 +4198,7 @@ translator: thothica
 
 **6.50.107**  Then, O king, when he of the great vows had been borne away, Bhīmasena blazed up like a fire grown high as it consumes dry brushwood.
 
-**6.50.108**  Having slain all the Kāliṅgas, he stood in the midst of the host, and none of your warriors dared confront him, O bull of the Bhāratas.
+**6.50.108**  Having slain all the Kaliṅgas, he stood in the midst of the host, and none of your warriors dared confront him, O bull of the Bhāratas.
 
 **6.50.109**  Dhṛṣṭadyumna, foremost of car-warriors, taking the illustrious one up into his own chariot, bore him away in the sight of all the armies.
 
@@ -4284,7 +4284,7 @@ translator: thothica
 
 **6.51.35**  As your warriors fled in every direction, Arjuna and Vāsudeva blew their excellent conches.
 
-**6.51.36**  Seeing that host broken, your father Devavrata spoke in the battle to the hero, the son of Bharadvāja, as if with a smile:
+**6.51.36**  Seeing that host broken, your father Devavrata spoke in the battle to the hero, the son of Bhāradvāja, as if with a smile:
 
 **6.51.37**  This heroic son of Pāṇḍu, joined with Kṛṣṇa, the mighty one, deals with the armies just as Dhanaṃjaya would.
 
@@ -4304,7 +4304,7 @@ translator: thothica
 
 **6.52.2**  And the son of Śaṃtanu then formed the great battle-array of the Garuḍa, Bhīṣma, the grandsire of the Kurus, longing for the victory of your sons.
 
-**6.52.3**  At Garuḍa's beak was your father Devavrata himself; as its two eyes were the son of Bharadvāja and Kṛtavarman of the Sātvatas.
+**6.52.3**  At Garuḍa's beak was your father Devavrata himself; as its two eyes were the son of Bhāradvāja and Kṛtavarman of the Sātvatas.
 
 **6.52.4**  Aśvatthāman and Kṛpa, the two illustrious ones, stood at the head, joined by the Trigartas, the Matsyas, the Kekayas, and the Vāṭadhānas.
 
@@ -5196,13 +5196,13 @@ translator: thothica
 
 **6.60.62**  "Devoted, nobly born, valiant, a leader of armies is he—it is fitting, O unfaltering ones, that we should make his rescue."
 
-**6.60.63**  Hearing those words of Bhīṣma, all the kings together, led by the son of Bharadvāja, desiring to save Bhagadatta, set out at top speed to where he was.
+**6.60.63**  Hearing those words of Bhīṣma, all the kings together, led by the son of Bhāradvāja, desiring to save Bhagadatta, set out at top speed to where he was.
 
 **6.60.64**  Marking them depart, the Pāñcālas, led by Yudhiṣṭhira and joined by the Pāṇḍavas, followed the foe from behind.
 
 **6.60.65**  Then, beholding those armies, the valiant lord of the Rākṣasas roared a mighty roar, like the bursting crash of a thunderbolt.
 
-**6.60.66**  Hearing that din of his and seeing the elephants doing battle, Bhīṣma, son of Śaṃtanu, spoke once more to the son of Bharadvāja:
+**6.60.66**  Hearing that din of his and seeing the elephants doing battle, Bhīṣma, son of Śaṃtanu, spoke once more to the son of Bhāradvāja:
 
 **6.60.67**  "This battle with the wicked son of Hiḍimbā does not please me; for now he is filled with strength and valor, and has allies besides."
 
@@ -5514,7 +5514,7 @@ translator: thothica
 
 **6.64.11**  Saṃjaya said: Having heard this holy tale, O great king, your son held Keśava in high regard, and the Pāṇḍavas too, those mighty warriors.
 
-**6.64.12**  To him, O great king, Bhīṣma the son of Śāntanu spoke again: You have heard, O king, the greatness of the great-souled Keśava.
+**6.64.12**  To him, O great king, Bhīṣma the son of Śaṃtanu spoke again: You have heard, O king, the greatness of the great-souled Keśava.
 
 **6.64.13**  And you have heard the truth of Nara as well, of which you asked me—wherefore the two, Nara and Nārāyaṇa, were born among men.
 
@@ -5560,7 +5560,7 @@ translator: thothica
 
 **6.65.16**  And having warded off the weapons loosed by Bhīṣma in the fight, he stood ready for battle with his own exultant host.
 
-**6.65.17**  Then king Duryodhana, best of the strong, that great warrior, having seen before the dread slaughter of his host and recalling the slaying of his brothers in the fight, spoke to the son of Bharadvāja.
+**6.65.17**  Then king Duryodhana, best of the strong, that great warrior, having seen before the dread slaughter of his host and recalling the slaying of his brothers in the fight, spoke to the son of Bhāradvāja.
 
 **6.65.18**  Teacher, you who are without fault have ever wished my good; for it is upon you and upon the grandsire Bhīṣma that we have relied.
 
@@ -5570,9 +5570,9 @@ translator: thothica
 
 **6.65.21**  But Sātyaki then held Droṇa back, O Bhārata, and thereupon a tumultuous, hair-raising combat broke out.
 
-**6.65.22**  The valorous son of Bharadvāja, enraged in the fight, pierced the grandson of Śini with sharp arrows in the region of the collarbone, as though laughing the while.
+**6.65.22**  The valorous son of Bhāradvāja, enraged in the fight, pierced the grandson of Śini with sharp arrows in the region of the collarbone, as though laughing the while.
 
-**6.65.23**  Then Bhīmasena in his wrath pierced the son of Bharadvāja, shielding Sātyaki, O king, from Droṇa, best of all who bear arms.
+**6.65.23**  Then Bhīmasena in his wrath pierced the son of Bhāradvāja, shielding Sātyaki, O king, from Droṇa, best of all who bear arms.
 
 **6.65.24**  Then Droṇa and Bhīṣma and Śalya too, O honored one, in their fury covered Bhīmasena with arrows in the fight.
 
@@ -5594,7 +5594,7 @@ translator: thothica
 
 **6.65.33**  Dreadful was that battle, like the war of the gods with the dānavas, between those who ever longed for victory and for surpassing, wondrous glory.
 
-**6.66.1**  Saṃjaya said: Then Bhīṣma the son of Śāntanu waged a tumultuous fight, wishing, for fear of Bhīmasena, to carry your sons to safety.
+**6.66.1**  Saṃjaya said: Then Bhīṣma the son of Śaṃtanu waged a tumultuous fight, wishing, for fear of Bhīmasena, to carry your sons to safety.
 
 **6.66.2**  In the forenoon that most terrible battle of the kings raged on, the destroyer of the foremost heroes of the Kurus and the Pāṇḍavas alike.
 
@@ -5812,7 +5812,7 @@ translator: thothica
 
 **6.69.13**  "This man is the son of my teacher, the dearly beloved son of Droṇa, and a brāhmaṇa besides, and so to be especially honored by me" —
 
-**6.69.14**  forming this resolve, the heroic Bībhatsu, scorcher of foes, foremost of car-warriors, showed mercy toward the son of Bharadvāja's line.
+**6.69.14**  forming this resolve, the heroic Bībhatsu, scorcher of foes, foremost of car-warriors, showed mercy toward the son of Bhāradvāja's line.
 
 **6.69.15**  Leaving Droṇa's son alone, then, the valiant son of Kuntī, scorcher of foes, fought on, swiftly slaying your warriors.
 
@@ -6440,7 +6440,7 @@ translator: thothica
 
 **6.77.2**  "I, and Droṇa, and Śalya, and Kṛtavarman of the Sātvatas, and Aśvatthāman, and Vikarṇa, and Somadatta, and the lord of the Sindhu,
 
-**6.77.3**  Vinda and Anuvinda of Avantī, Bāhlika together with the Bāhlīkas, the mighty king of the Trigartas, and the king of Magadha hard to conquer,
+**6.77.3**  Vinda and Anuvinda of Avanti, Bāhlika together with the Bāhlīkas, the mighty king of the Trigartas, and the king of Magadha hard to conquer,
 
 **6.77.4**  and Bṛhadbala of Kosala, Citrasena, Viviṃśati, and chariot-warriors by the many thousands, splendid under their great banners —
 
@@ -6482,9 +6482,9 @@ translator: thothica
 
 **6.77.23**  Eager to break the array, longing for battle, the heroes sallied forth against one another with their troops, ready to strike.
 
-**6.77.24**  The son of Bharadvāja advanced upon the Matsya king, and the son of Droṇa upon Śikhaṇḍin; King Duryodhana himself rushed against the grandson of Pṛṣata.
+**6.77.24**  The son of Bhāradvāja advanced upon the Matsya king, and the son of Droṇa upon Śikhaṇḍin; King Duryodhana himself rushed against the grandson of Pṛṣata.
 
-**6.77.25**  Nakula and Sahadeva, O king, went against the lord of the Madras; Vinda and Anuvinda of Avantī fell upon Irāvat.
+**6.77.25**  Nakula and Sahadeva, O king, went against the lord of the Madras; Vinda and Anuvinda of Avanti fell upon Irāvat.
 
 **6.77.26**  All the kings together did battle with Dhanaṃjaya in the fight, while Bhīmasena, intent in the fray, held back the son of Hṛdika.
 
@@ -6550,7 +6550,7 @@ translator: thothica
 
 **6.78.13**  He was surrounded on every side by the high-souled Trigartas, by his brothers, by your sons, and by other mighty chariot-warriors.
 
-**6.78.14**  The son of Bharadvāja in the battle pierced the Matsya king with a feathered shaft, and with arrows cut down his banner and his bow, each with a single one, on the field.
+**6.78.14**  The son of Bhāradvāja in the battle pierced the Matsya king with a feathered shaft, and with arrows cut down his banner and his bow, each with a single one, on the field.
 
 **6.78.15**  Casting aside that severed bow, Virāṭa the commander of the host swiftly took up another, firm and able to bear the strain, and arrows shaped like venomous snakes, blazing like serpents.
 
@@ -6560,17 +6560,17 @@ translator: thothica
 
 **6.78.18**  His horses slain and his charioteer dead, that best of chariot-warriors leapt down from his car and swiftly mounted the chariot of Śaṅkha.
 
-**6.78.19**  Then those two, father and son, standing upon the one chariot, held off the son of Bharadvāja by main force with a great shower of arrows.
+**6.78.19**  Then those two, father and son, standing upon the one chariot, held off the son of Bhāradvāja by main force with a great shower of arrows.
 
-**6.78.20**  Then the son of Bharadvāja, in his wrath, swiftly hurled in the battle an arrow like a venomous serpent against Śaṅkha, O lord of men.
+**6.78.20**  Then the son of Bhāradvāja, in his wrath, swiftly hurled in the battle an arrow like a venomous serpent against Śaṅkha, O lord of men.
 
 **6.78.21**  Cleaving his heart and drinking his blood in the fray, that arrow passed on into the earth, its surface drenched and reddened with gore.
 
-**6.78.22**  Struck by the arrow of the son of Bharadvāja, he fell swiftly from the chariot, letting go his bow and arrows, close beside his own father.
+**6.78.22**  Struck by the arrow of the son of Bhāradvāja, he fell swiftly from the chariot, letting go his bow and arrows, close beside his own father.
 
 **6.78.23**  Seeing his own son slain, Virāṭa fled in terror, abandoning in the battle Droṇa, who was like Death with gaping jaws.
 
-**6.78.24**  Then the son of Bharadvāja swiftly rent asunder the great host of the Pāṇḍavas in the battle, by hundreds and by thousands.
+**6.78.24**  Then the son of Bhāradvāja swiftly rent asunder the great host of the Pāṇḍavas in the battle, by hundreds and by thousands.
 
 **6.78.25**  Śikhaṇḍin too, O great king, closing with the son of Droṇa in the encounter, struck him between the brows with three swift iron arrows.
 
@@ -6902,7 +6902,7 @@ translator: thothica
 
 **6.81.26**  And though he saw that weapon hurled at him, blazing with a power like the fire at the end of an age, the son of Drupada was not bewildered, O king, for his splendor was the equal of great Indra's.
 
-**6.81.27**  That mighty bowman stood his ground there, beating back the weapon with his arrows; then Śikhaṇḍin took up another fierce weapon, the Vāruṇa, to counter it. The gods stationed in the sky and the kings below beheld that weapon shattered by his weapon.
+**6.81.27**  That mighty bowman stood his ground there, beating back the weapon with his arrows; then Śikhaṇḍin took up another fierce weapon, the Varuṇa, to counter it. The gods stationed in the sky and the kings below beheld that weapon shattered by his weapon.
 
 **6.81.28**  But great-souled Bhīṣma, that hero, having in the battle cut off the splendidly wrought bow and the banner of Pāṇḍu's son, King Yudhiṣṭhira of Ajamīḍha's line, raised a war cry, O king.
 
@@ -7040,7 +7040,7 @@ translator: thothica
 
 **6.83.2**  Then there was a great din from both the armies as they marched out to battle, vast as the ocean.
 
-**6.83.3**  Then King Duryodhana, Citrasena, Viviṃśati, and Bhīṣma the foremost of car-warriors, and the brahmin son of Bharadvāja...
+**6.83.3**  Then King Duryodhana, Citrasena, Viviṃśati, and Bhīṣma the foremost of car-warriors, and the brahmin son of Bhāradvāja...
 
 **6.83.4**  ...united and well prepared, arrayed the great host of the Kauravas in battle-order and, mailed for war, set it against the Pāṇḍavas, O king.
 
@@ -7048,7 +7048,7 @@ translator: thothica
 
 **6.83.6**  At the head of all the troops marched Bhīṣma the son of Śaṃtanu, attended by the Mālavas, the Southerners, and the men of Avanti.
 
-**6.83.7**  Next after him came the valiant son of Bharadvāja, with the Pulindas, the Pāradas, and the Kṣudrakas and Mālavas.
+**6.83.7**  Next after him came the valiant son of Bhāradvāja, with the Pulindas, the Pāradas, and the Kṣudrakas and Mālavas.
 
 **6.83.8**  Next after Droṇa, ready for battle, came the valiant Bhagadatta, with the Māgadhas, the Kaliṅgas, and the Piśācas, O lord of the people.
 
@@ -7108,7 +7108,7 @@ translator: thothica
 
 **6.83.36**  Closing upon one another, the soldiers of the Kurus and the Pāṇḍavas sent each other, with dreadful weapons of every kind, to the abode of Yama.
 
-**6.83.37**  Then Bhīṣma, son of Śāntanu, making all resound with the rumble of his chariot, came upon the Pāṇḍavas in the fray, bewildering them with the twang of his bow.
+**6.83.37**  Then Bhīṣma, son of Śaṃtanu, making all resound with the rumble of his chariot, came upon the Pāṇḍavas in the fray, bewildering them with the twang of his bow.
 
 **6.83.38**  And the chariots of the Pāṇḍavas too, roaring with a fearsome din, rushed forward girt for battle, with Dhṛṣṭadyumna at their head.
 
@@ -7122,7 +7122,7 @@ translator: thothica
 
 **6.84.4**  Cut down by Bhīṣma, the Pāñcālas together with the Somakas charged swiftly at Bhīṣma himself, casting aside the fear that death inspires.
 
-**6.84.5**  Then the hero Bhīṣma, son of Śāntanu, severed in an instant, O king, the arms and heads of those chariot-warriors in the fight.
+**6.84.5**  Then the hero Bhīṣma, son of Śaṃtanu, severed in an instant, O king, the arms and heads of those chariot-warriors in the fight.
 
 **6.84.6**  Your father Devavrata stripped the chariot-warriors of their cars; and the heads of the horsemen fell from their steeds.
 
@@ -7240,7 +7240,7 @@ translator: thothica
 
 **6.85.20**  But Droṇa, foremost of chariot-warriors, full of wrath, charged the Somakas together with the Sṛñjayas, meaning to send them to the realm of Yama.
 
-**6.85.21**  There arose a great wailing among the high-souled Sṛñjayas, O king, as they were slain in the battle by the archer, the son of Bharadvāja.
+**6.85.21**  There arose a great wailing among the high-souled Sṛñjayas, O king, as they were slain in the battle by the archer, the son of Bhāradvāja.
 
 **6.85.22**  Many warriors, smitten there by Droṇa in the fight, were seen writhing upon the ground like men tormented by disease.
 
@@ -8254,7 +8254,7 @@ translator: thothica
 
 **6.95.29**  Droṇa, Bhūriśravas, Śalya, and Bhagadatta, O venerable one, mailed for war, took post upon the right wing of the formation.
 
-**6.95.30**  Aśvatthāman, Somadatta, and the two great warriors of Avantī, joined by a mighty host, held the left wing.
+**6.95.30**  Aśvatthāman, Somadatta, and the two great warriors of Avanti, joined by a mighty host, held the left wing.
 
 **6.95.31**  Duryodhana, O great king, surrounded on all sides by the Trigartas, stood in the midst of the formation, facing the Pāṇḍavas, O Bhārata.
 
@@ -8564,7 +8564,7 @@ translator: thothica
 
 **6.98.23**  Then King Duryodhana, and Kṛpa the foremost of car-warriors, and Aśvatthāman, and Śalya, and Sudakṣiṇa the Kāmboja,
 
-**6.98.24**  and Vinda and Anuvinda of Avantī, and Bāhlika with his Bāhlika host, blocked off the quarters around Pārtha with a great array of chariots.
+**6.98.24**  and Vinda and Anuvinda of Avanti, and Bāhlika with his Bāhlika host, blocked off the quarters around Pārtha with a great array of chariots.
 
 **6.98.25**  In the same way Bhagadatta and the mighty Śrutāyus, those two, with their host of elephants blocked off the quarters around Bhīma.
 
@@ -8968,7 +8968,7 @@ translator: thothica
 
 **6.102.70**  And Mādhava, hearing the words of the high-souled Phalguna, said nothing, but, still wrathful, mounted the chariot again.
 
-**6.102.71**  Upon those two tigers among men, standing in their chariot, Bhīṣma the son of Śāntanu once more rained a rain of arrows, as a cloud pours its torrents upon two mountains.
+**6.102.71**  Upon those two tigers among men, standing in their chariot, Bhīṣma the son of Śaṃtanu once more rained a rain of arrows, as a cloud pours its torrents upon two mountains.
 
 **6.102.72**  And your father Devavrata took the lives of the warriors as the sun with its rays draws up the dews at winter's end.
 
@@ -9306,7 +9306,7 @@ translator: thothica
 
 **6.105.2**  Who among the great chariot-warriors of the Pāṇḍava host, hastening in the hour of haste and eager for victory, guarded Śikhaṇḍin as he raised his weapon?
 
-**6.105.3**  How did Bhīṣma, son of Śāntanu, that mighty hero, fight on that tenth day against the Pāṇḍavas together with the Sṛñjayas?
+**6.105.3**  How did Bhīṣma, son of Śaṃtanu, that mighty hero, fight on that tenth day against the Pāṇḍavas together with the Sṛñjayas?
 
 **6.105.4**  I cannot bear that Bhīṣma in battle was confronted by Śikhaṇḍin coming against him. Surely there was no breaking of his chariot, nor did his bow shatter as he shot?
 
@@ -9346,7 +9346,7 @@ translator: thothica
 
 **6.105.22**  save you, O tiger among men, whose prowess equals the gods'. You are equal to the task—be swiftly the refuge of the afflicted!"
 
-**6.105.23**  Thus addressed, O great king, your father Devavrata, son of Śāntanu, having pondered a moment and made his resolve within himself, spoke to your son to steady him:
+**6.105.23**  Thus addressed, O great king, your father Devavrata, son of Śaṃtanu, having pondered a moment and made his resolve within himself, spoke to your son to steady him:
 
 **6.105.24**  "Duryodhana, understand this and be steadfast, O lord of peoples. Long ago I made a vow to you, O mighty one:
 
@@ -9372,7 +9372,7 @@ translator: thothica
 
 **6.105.35**  Then the Pāṇḍavas, enraged and afflicted by that great archer, together with the Sṛñjaya chariot-warriors, rushed upon Bhīṣma to slay him.
 
-**6.105.36**  As he fought against the many, Bhīṣma, son of Śāntanu, that mighty-armed one, was then covered over like a mountain by dark clouds.
+**6.105.36**  As he fought against the many, Bhīṣma, son of Śaṃtanu, that mighty-armed one, was then covered over like a mountain by dark clouds.
 
 **6.105.37**  But your sons, with a great army, surrounded the son of Gaṅgā on every side; and thereupon the battle was joined.
 
@@ -9934,9 +9934,9 @@ translator: thothica
 
 **6.112.1**  Saṃjaya said: Abhimanyu, O great king, valiant and joined with a great host, fought your son for Bhīṣma's sake.
 
-**6.112.2**  Duryodhana, wrathful in battle, struck the son of Kṛṣṇā's sister with nine smooth-jointed shafts, and then again with three arrows.
+**6.112.2**  Duryodhana, wrathful in battle, struck the son of Kṛṣṇa's sister with nine smooth-jointed shafts, and then again with three arrows.
 
-**6.112.3**  At him the son of Kṛṣṇā's sister, in fury, hurled in battle a lance dreadful as Death's own sister, straight toward Duryodhana's chariot.
+**6.112.3**  At him the son of Kṛṣṇa's sister, in fury, hurled in battle a lance dreadful as Death's own sister, straight toward Duryodhana's chariot.
 
 **6.112.4**  As that dread-shaped spear came hurtling suddenly upon him, O lord of peoples, your son, the great chariot-warrior, clove it in two with a razor-edged arrow.
 
@@ -10428,7 +10428,7 @@ translator: thothica
 
 **6.114.61**  "All the other kings together could not bring me such pain—none but that hero, the wielder of the Gāṇḍīva, victorious Jiṣṇu of the ape-bannered car."
 
-**6.114.62**  So speaking, the son of Śāntanu, as though he would burn the Pāṇḍava to ashes, hurled a spear that scattered sparks and blazed at its point, O descendant of Bharata.
+**6.114.62**  So speaking, the son of Śaṃtanu, as though he would burn the Pāṇḍava to ashes, hurled a spear that scattered sparks and blazed at its point, O descendant of Bharata.
 
 **6.114.63**  But Arjuna, cutting it with three shafts into three pieces, brought it down before the eyes of all the Kuru heroes there, O descendant of Bharata.
 
@@ -10496,7 +10496,7 @@ translator: thothica
 
 **6.114.95**  Having so spoken, the swans set forth toward the southern quarter; and the deeply wise one, gazing after them and reflecting, O descendant of Bharata,
 
-**6.114.96**  the son of Śāntanu said to them: "By no means shall I depart while the sun is turned to the south. This is settled in my mind."
+**6.114.96**  the son of Śaṃtanu said to them: "By no means shall I depart while the sun is turned to the south. This is settled in my mind."
 
 **6.114.97**  "I shall go to my own abode that was mine of old when the sun has turned to the north. O swans, I tell you the truth."
 
@@ -10528,7 +10528,7 @@ translator: thothica
 
 **6.114.111**  The seers and the ancestors praised him of the great vow; and those who were the forefathers of the Bhāratas, they too praised him.
 
-**6.114.112**  And taking his stand upon the great secret doctrine and upon yoga, the valiant and wise son of Śāntanu remained murmuring his prayers, awaiting his hour.
+**6.114.112**  And taking his stand upon the great secret doctrine and upon yoga, the valiant and wise son of Śaṃtanu remained murmuring his prayers, awaiting his hour.
 
 **6.115.1**  Dhṛtarāṣṭra said: How fared the warriors then, O Saṃjaya, bereft of Bhīṣma—the mighty one, godlike, who kept his celibate vow for his elder's sake?
 
@@ -10558,7 +10558,7 @@ translator: thothica
 
 **6.115.14**  Thus the seers, together with the Siddhas and Cāraṇas, hastened about him, the peerless one of the Bhāratas, as he lay upon his bed of arrows.
 
-**6.115.15**  When Bhīṣma, son of Śāntanu, grandsire of the Bhāratas, was slain, your sons knew not what to do, O descendant of Bharata.
+**6.115.15**  When Bhīṣma, son of Śaṃtanu, grandsire of the Bhāratas, was slain, your sons knew not what to do, O descendant of Bharata.
 
 **6.115.16**  Their faces grew pale and their splendor departed, O descendant of Bharata; they stood abashed, overcome with shame, their faces bent downward.
 
@@ -10588,7 +10588,7 @@ translator: thothica
 
 **6.115.29**  Approaching Bhīṣma, that bull of the Bhāratas, as he lay there, the Pāṇḍavas together with the Kurus paid him homage and took their places around him.
 
-**6.115.30**  Then to the Pāṇḍavas and the Kurus, who stood bowing before him, the righteous Bhīṣma, son of Śantanu, spoke.
+**6.115.30**  Then to the Pāṇḍavas and the Kurus, who stood bowing before him, the righteous Bhīṣma, son of Śaṃtanu, spoke.
 
 **6.115.31**  "Welcome to you, illustrious ones; welcome to you, great chariot-warriors. I rejoice at the sight of you, who are like the immortals."
 
@@ -10606,7 +10606,7 @@ translator: thothica
 
 **6.115.38**  "Command me, O best of the Kurus, foremost of all wielders of weapons. I am your servant, O unassailable one; what shall be done, grandsire?"
 
-**6.115.39**  The son of Śantanu said to him: "My head hangs down, my son. O best of the Kurus, Phalguna, fetch me a pillow; quickly, O hero, give me one befitting this bed of mine."
+**6.115.39**  The son of Śaṃtanu said to him: "My head hangs down, my son. O best of the Kurus, Phalguna, fetch me a pillow; quickly, O hero, give me one befitting this bed of mine."
 
 **6.115.40**  "For you, O Pārtha, mighty-armed, are the foremost of all bowmen, knower of the kṣatriya's law, endowed with the virtues of wisdom and resolve."
 
@@ -10664,7 +10664,7 @@ translator: thothica
 
 **6.116.2**  That hero, best of the Kurus, as he lay upon his hero's bed, the kṣatriyas saluted and attended upon, that bull among kṣatriyas.
 
-**6.116.3**  Maidens with sandal-powder and parched grain and garlands on every side, women, children, and the aged, and onlookers of the common folk, drew near the son of Śantanu as living beings draw near the dispeller of darkness.
+**6.116.3**  Maidens with sandal-powder and parched grain and garlands on every side, women, children, and the aged, and onlookers of the common folk, drew near the son of Śaṃtanu as living beings draw near the dispeller of darkness.
 
 **6.116.4**  Musicians, courtesans, and likewise actors and dancers danced and sang before the aged grandsire of the Kurus.
 
@@ -10682,11 +10682,11 @@ translator: thothica
 
 **6.116.11**  Then those kṣatriyas, O king, brought from all around foods of every kind and jars of cool water.
 
-**6.116.12**  Seeing what was brought, Bhīṣma, son of Śantanu, said: "It is not possible for me now, my son, to take any human enjoyments."
+**6.116.12**  Seeing what was brought, Bhīṣma, son of Śaṃtanu, said: "It is not possible for me now, my son, to take any human enjoyments."
 
 **6.116.13**  "For I, removed from men and come to a bed of arrows, remain awaiting the turning-back of the moon and the sun."
 
-**6.116.14**  Having spoken thus to all the princes in a feeble voice, the son of Śantanu addressed the mighty-armed Dhanaṃjaya, O Bhārata.
+**6.116.14**  Having spoken thus to all the princes in a feeble voice, the son of Śaṃtanu addressed the mighty-armed Dhanaṃjaya, O Bhārata.
 
 **6.116.15**  Then the mighty-armed one, approaching and saluting the grandsire, stood with joined palms, bowing, and said: "What shall I do?"
 
@@ -10714,7 +10714,7 @@ translator: thothica
 
 **6.116.27**  In their wonder the kings waved their upper garments on every side, and with the blare of conches and kettledrums a tumult arose all around.
 
-**6.116.28**  And the son of Śantanu, his thirst quenched, O king, spoke to Bībhatsu in the presence of all the princely heroes, as if honoring him.
+**6.116.28**  And the son of Śaṃtanu, his thirst quenched, O king, spoke to Bībhatsu in the presence of all the princely heroes, as if honoring him.
 
 **6.116.29**  "This is no marvel in you, O mighty-armed delight of the Kurus; by Nārada you were declared to be an ancient seer of boundless luster."
 
@@ -10730,7 +10730,7 @@ translator: thothica
 
 **6.116.35**  "For Duryodhana, his mind deranged and well-nigh senseless, took no joy in my words; transgressor of the scriptures, struck down by Bhīma's might, he shall lie slain for ages to come."
 
-**6.116.36**  Then, hearing those words, the lord of the Kurus, Duryodhana, became dejected in heart; and the son of Śantanu, looking upon him, said: "Hear me, O king, and let your anger pass."
+**6.116.36**  Then, hearing those words, the lord of the Kurus, Duryodhana, became dejected in heart; and the son of Śaṃtanu, looking upon him, said: "Hear me, O king, and let your anger pass."
 
 **6.116.37**  "You have seen, Duryodhana, how by the wise Pārtha this jet of cool water, fragrant as ambrosia, was brought forth; of such a deed there is none other in this world who can be the doer."
 
@@ -10762,7 +10762,7 @@ translator: thothica
 
 **6.116.51**  Having out of affection made the Bhārata hear these words in the midst of the kings, the son of the river fell silent, his vitals seared by the darts, mastering himself and holding back his pain.
 
-**6.117.1**  Saṃjaya said: Then, when Bhīṣma the delight of Śantanu had fallen silent, O great king, all those kings went back again to their own dwellings.
+**6.117.1**  Saṃjaya said: Then, when Bhīṣma the delight of Śaṃtanu had fallen silent, O great king, all those kings went back again to their own dwellings.
 
 **6.117.2**  But when Rādheya, the bull among men, heard that Bhīṣma had been struck down, seized with a touch of fear he came swiftly to him.
 

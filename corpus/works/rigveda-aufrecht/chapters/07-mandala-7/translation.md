@@ -706,7 +706,7 @@ translator: thothica
 
 **7.35.12**  May the lords of truth be auspicious to us; may our horses be auspicious; may the cows also be auspicious; may the Ṛbhus, the well-doing, the skilled of hand, be auspicious; may the Fathers be auspicious to us at the invocations.
 
-**7.35.13**  May the god Aja Ekapād be auspicious to us; may Ahi Budhnya and the ocean be auspicious; may Apāṁ Napāt Puru be auspicious; may Pṛśni, guarded by the gods, be auspicious.
+**7.35.13**  May the god Aja Ekapād be auspicious to us; may Ahi Budhnya and the ocean be auspicious; may Apāṁ Napāt Pūru be auspicious; may Pṛśni, guarded by the gods, be auspicious.
 
 **7.35.14**  May the Ādityas, Rudras, and Vasus be pleased with this renewed prayer being offered; may the divine, the earthly, the cow-born ones, and all those worthy of worship hear us.
 
@@ -884,13 +884,13 @@ translator: thothica
 
 **7.50.4**  Those Waters that flow downward, those that flow upward, those that flow along ridges, those that are full of water and those that are dry — flowing with milk for our good, may they be auspicious and divinely benign, unhindering of foot; may all the rivers be ungrudging of food.
 
-**7.51.1**  With the fresh aid of the Ādityās may we obtain the most blissful shelter. In a state of sinlessness, in a state of Aditi's grace, may the swift ones — listening — establish this sacrifice.
+**7.51.1**  With the fresh aid of the Ādityas may we obtain the most blissful shelter. In a state of sinlessness, in a state of Aditi's grace, may the swift ones — listening — establish this sacrifice.
 
-**7.51.2**  Let the Ādityās and Aditi rejoice — Mitra, Aryaman, Varuṇa the most righteous. May they be guardians of our world; let them drink the Soma today for our protection.
+**7.51.2**  Let the Ādityas and Aditi rejoice — Mitra, Aryaman, Varuṇa the most righteous. May they be guardians of our world; let them drink the Soma today for our protection.
 
-**7.51.3**  All the Ādityās, all the Maruts, all the gods, and all the Ṛbhus — Indra, Agni, and the Aśvins being praised — do ye all protect us always with blessings.
+**7.51.3**  All the Ādityas, all the Maruts, all the gods, and all the Ṛbhus — Indra, Agni, and the Aśvins being praised — do ye all protect us always with blessings.
 
-**7.52.1**  May we be Ādityās, may we be Aditis — foremost among gods, Vasus among mortals. Winning through Mitra-Varuṇa as we win, may we become as Heaven and Earth endure.
+**7.52.1**  May we be Ādityas, may we be Aditis — foremost among gods, Vasus among mortals. Winning through Mitra-Varuṇa as we win, may we become as Heaven and Earth endure.
 
 **7.52.2**  May Mitra and Varuṇa, as guardians, grant us shelter for our offspring and progeny. May we not enjoy what sin belongs to others; O Vasus, may we not commit that deed you would requite.
 
@@ -1030,7 +1030,7 @@ translator: thothica
 
 **7.60.3**  He yoked the seven bay mares from his station that carry Sūrya, the bright-rayed ones. Mitra-Varuṇa seized their dwellings — he who surveys births together as if a herd.
 
-**7.60.4**  The honey-sweet refreshments have risen for you both; Sūrya has climbed the bright ocean. For him the Ādityās clear the paths — Mitra, Aryaman, Varuṇa in accord.
+**7.60.4**  The honey-sweet refreshments have risen for you both; Sūrya has climbed the bright ocean. For him the Ādityas clear the paths — Mitra, Aryaman, Varuṇa in accord.
 
 **7.60.5**  These are indeed the punishers of abundant falsehood — Mitra, Aryaman, and Varuṇa. These have grown strong in the house of Ṛta, benign sons of Aditi, inviolable.
 
@@ -1174,7 +1174,7 @@ translator: thothica
 
 **7.68.5**  Truly wondrous is your gift; keep the buffalo-drinker away from Atri — he who being dear to you places his trust in your protection.
 
-**7.68.6**  And that, O Aśvins, which was given to Cyavāna as an oblation-gift approached you for protection — because you bestow special form and aid upon him.
+**7.68.6**  And that, O Aśvins, which was given to Cyavana as an oblation-gift approached you for protection — because you bestow special form and aid upon him.
 
 **7.68.7**  And Bhujyu whom his companions, hard to live with, had abandoned in the midst of the sea — carry him out, O Aśvins, the one who is without a helper but longs for you.
 
@@ -1220,7 +1220,7 @@ translator: thothica
 
 **7.71.4**  That chariot of yours, O lords of men, the bearer, three-seated and richly laden, that reaches at dawn — come to us, O Nāsatyas, upon it, for your all-nourishing car draws near to us.
 
-**7.71.5**  You two freed Cyavāna from old age, you transported to Pedu the swift horse; you rescued Atri from distress and darkness, and placed Jāhuṣa within the yielding earth.
+**7.71.5**  You two freed Cyavana from old age, you transported to Pedu the swift horse; you rescued Atri from distress and darkness, and placed Jāhuṣa within the yielding earth.
 
 **7.71.6**  This is the thought, this is the song, O Aśvins; be pleased with this praise, O mighty bulls. These prayers have come to you, yearning for you — do you ever protect us with blessings.
 

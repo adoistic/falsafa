@@ -36,7 +36,7 @@ translator: thothica
 
 **10.2.1**  Gladden the gods who long for it, O youngest, knowing the seasons, O Lord of the Seasons, sacrifice here. Among the divine officiants, O Agni, thou art the most skilled in sacrifice among the Hotṛs.
 
-**10.2.2**  Thou seekest the Hotṛ office and also the Potṛ office among men; thou art the Mandhātṛ, the giver of riches, keeper of holy Order. With Svāhā let us make our oblations; let divine Agni, worthy, sacrifice to the gods.
+**10.2.2**  Thou seekest the Hotṛ office and also the Potṛ office among men; thou art the Māndhātṛ, the giver of riches, keeper of holy Order. With Svāhā let us make our oblations; let divine Agni, worthy, sacrifice to the gods.
 
 **10.2.3**  We have come upon the path of the gods; what we are able we will carry forward along it. Agni, the all-knowing, let him sacrifice, for he is the Hotṛ; it is he who orders the rites and the seasons.
 
@@ -232,7 +232,7 @@ translator: thothica
 
 **10.14.2**  Yama first discovered the way for us; this pasture cannot be taken away. Where our ancient Fathers went forth, there, born along that same path, all beings follow their own paths.
 
-**10.14.3**  Mātalī grew strong with the Kavyas; Yama with the Aṅgirases; Bṛhaspati with those who chant the Ṛk. Those whom the gods exalted and those who exalted the gods — some rejoice with svāhā, others with svadhā.
+**10.14.3**  Mātali grew strong with the Kavyas; Yama with the Aṅgirases; Bṛhaspati with those who chant the Ṛk. Those whom the gods exalted and those who exalted the gods — some rejoice with svāhā, others with svadhā.
 
 **10.14.4**  Come, O Yama, sit upon this sacred grass together with the Aṅgiras Fathers, in accord with them. May the seer-proclaimed mantras bring thee hither; with this oblation, O king, be gladdened.
 
@@ -818,11 +818,11 @@ translator: thothica
 
 **10.39.2**  Set in motion kindly truths; swell up our prayers; stir up full minds — this we desire. Make our portion glorious, O Aśvins, and grant us lovely Soma among the bounteous.
 
-**10.39.3**  Though the lot be ageing in the house, you two become its helpers; of one who is decaying, of one who is nearly lost. Even of the blind, O Nāsatyās, and of the emaciated — you two are called the healers even of the broken.
+**10.39.3**  Though the lot be ageing in the house, you two become its helpers; of one who is decaying, of one who is nearly lost. Even of the blind, O Nāsatyas, and of the emaciated — you two are called the healers even of the broken.
 
-**10.39.4**  You fashioned Cyavāna, old as an ancient chariot, into a young man again for movement. You carried Tugra's son across from the waters — all these deeds of yours are to be proclaimed at the pressings.
+**10.39.4**  You fashioned Cyavana, old as an ancient chariot, into a young man again for movement. You carried Tugra's son across from the waters — all these deeds of yours are to be proclaimed at the pressings.
 
-**10.39.5**  I will declare your ancient heroic deeds to the people; you have also been healers, producers of bliss. We now invoke these two of yours, fresh, for our protection — may this worshipper place faith in you, O Nāsatyās, as a friend.
+**10.39.5**  I will declare your ancient heroic deeds to the people; you have also been healers, producers of bliss. We now invoke these two of yours, fresh, for our protection — may this worshipper place faith in you, O Nāsatyas, as a friend.
 
 **10.39.6**  This is my call to you — hear me, O Aśvins; teach me like parents teach a son. Friendless, ignorant, unfitted of birth, of wrong understanding — before that reproach, rescue me.
 
@@ -872,7 +872,7 @@ translator: thothica
 
 **10.41.1**  With well-fashioned hymns we call at the break of dawn that same much-invoked, laudable, three-wheeled chariot that comes to every soma-pressing — the wide-ranging, assembly-worthy car of the Aśvins.
 
-**10.41.2**  O Nāsatyās, ye two mount the chariot that is yoked at dawn, that goes forth at dawn, that carries sweet gifts. With it ye visit the sacrificing clans, O heroes; even the poet's sacrifice which has its Hotṛ — ye, O Aśvins.
+**10.41.2**  O Nāsatyas, ye two mount the chariot that is yoked at dawn, that goes forth at dawn, that carries sweet gifts. With it ye visit the sacrificing clans, O heroes; even the poet's sacrifice which has its Hotṛ — ye, O Aśvins.
 
 **10.41.3**  Whether ye come to the Adhvaryu who holds sweets in his dexterous hand, or to the Āgnīdhra who is of firm skill and devoted to the house, or to the soma-pressings of the inspired priest — come thence, O Aśvins, to drink the honey-offering.
 
@@ -1190,7 +1190,7 @@ translator: thothica
 
 **10.58.12**  That mind of yours which has gone far away to what has been and what shall be — that we bring back to you here, for dwelling, for living.
 
-**10.59.1**  Lengthen out your life further, newer and newer — like a good charioteer with an able-willed chariot. Then, O Cyavāna, rise up to your great purpose; let Nirṛti depart still farther away.
+**10.59.1**  Lengthen out your life further, newer and newer — like a good charioteer with an able-willed chariot. Then, O Cyavana, rise up to your great purpose; let Nirṛti depart still farther away.
 
 **10.59.2**  With a hymn we shall win wealth, a treasure of food; we shall win splendid fame in many ways. May all these things rejoice our singer; let Nirṛti depart still farther away.
 
@@ -1200,7 +1200,7 @@ translator: thothica
 
 **10.59.5**  O Asunīti, hold the mind within us; for living, extend our life well. Grant us the sight of the sun; with ghee do you strengthen your body.
 
-**10.59.6**  O Asunīti, give back sight to us; give back breath, give enjoyment here to us. May we long see the sun rising; O Anumatī, be gracious to us, bring us well-being.
+**10.59.6**  O Asunīti, give back sight to us; give back breath, give enjoyment here to us. May we long see the sun rising; O Anumati, be gracious to us, bring us well-being.
 
 **10.59.7**  May the Earth give back our life-breath; may the divine Sky give it back; may the Atmosphere give it back. May Soma give our body back; may Pūṣan give back the well-being that is on the path.
 
@@ -1236,7 +1236,7 @@ translator: thothica
 
 **10.61.1**  This praise-hymn truly Rudraic, rich in laud, was found through insight and power in the midst of battle; when his parents, most bountiful, were creating, may he lead the group, may he smite and summon the seven priests.
 
-**10.61.2**  He, striving to win a gift worthy of gratitude — Cyavāna — measured out the altar with skilled hands; he the foremost in sweet speech, pressing ever onward, poured forth semen as a flood of water flowing.
+**10.61.2**  He, striving to win a gift worthy of gratitude — Cyavana — measured out the altar with skilled hands; he the foremost in sweet speech, pressing ever onward, poured forth semen as a flood of water flowing.
 
 **10.61.3**  Like the mind, sharp in those invocations — you two inspired ones, swiftly moving, win by your power; he who, mighty in strength, with his shafts laid blood upon his arm's direction and smote it.
 
@@ -1708,15 +1708,15 @@ translator: thothica
 
 **10.81.4**  What was the forest, what was the tree from which they fashioned heaven and earth? Sages enquire with the mind: upon what did he stand when he upheld the worlds?
 
-**10.81.5**  Your highest abodes, O Viśvakarmān, your lowest, and your middle ones as well — instruct your friends in the oblation, O Lord of self-nourishment; waxing great, sacrifice your own self.
+**10.81.5**  Your highest abodes, O Viśvakarman, your lowest, and your middle ones as well — instruct your friends in the oblation, O Lord of self-nourishment; waxing great, sacrifice your own self.
 
-**10.81.6**  O Viśvakarmān, strengthened by the oblation, sacrifice earth and heaven yourself. Let other people about us be confounded; here let our munificent patron be the wise lord.
+**10.81.6**  O Viśvakarman, strengthened by the oblation, sacrifice earth and heaven yourself. Let other people about us be confounded; here let our munificent patron be the wise lord.
 
-**10.81.7**  Today in the contest we call upon the Lord of Speech, Viśvakarmān, swift as thought, for our aid. May he, of perfect deeds, well-being to all, be pleased with all our invocations and come to our help.
+**10.81.7**  Today in the contest we call upon the Lord of Speech, Viśvakarman, swift as thought, for our aid. May he, of perfect deeds, well-being to all, be pleased with all our invocations and come to our help.
 
 **10.82.1**  The wise Father, father of the eye, gave being by his mind to these two bowing ones and kindled them with ghee. When the eastern ends were made firm, then only did heaven and earth spread out.
 
-**10.82.2**  Viśvakarmān, of surpassing mind, far-ranging, the ordainer and disposer, the highest, the all-seeing — their offerings and desires exhilarate together where they speak of the seven seers beyond the One.
+**10.82.2**  Viśvakarman, of surpassing mind, far-ranging, the ordainer and disposer, the highest, the all-seeing — their offerings and desires exhilarate together where they speak of the seven seers beyond the One.
 
 **10.82.3**  He who is our father, our begetter and ordainer, who knows all the abodes and all the worlds, who alone assigns the names of the gods — to him the other beings come with their inquiry.
 
@@ -2278,11 +2278,11 @@ translator: thothica
 
 **10.97.23**  You are the highest, O plant; your props are the trees; let him who would oppress us become a prop — a dependent of ours.
 
-**10.98.1**  O Bṛhaspati, meet the deity on my behalf — whether you be Mitra or Varuṇa or Pūṣan; or whether you be together with the Ādityas, with the Vasus, with the Maruts — let him send rain for Śantanu.
+**10.98.1**  O Bṛhaspati, meet the deity on my behalf — whether you be Mitra or Varuṇa or Pūṣan; or whether you be together with the Ādityas, with the Vasus, with the Maruts — let him send rain for Śaṃtanu.
 
 **10.98.2**  O Devāpi, a divine, swift, wise messenger has come to me from you; turn yourself facing toward me; I place a bright speech in your mouth.
 
-**10.98.3**  Set a bright, disease-free, active speech in our mouths, O Bṛhaspati; with which we may win rain for Śantanu — the sweet drop has entered from the sky.
+**10.98.3**  Set a bright, disease-free, active speech in our mouths, O Bṛhaspati; with which we may win rain for Śaṃtanu — the sweet drop has entered from the sky.
 
 **10.98.4**  Let the sweet drops come to us, O Indra; give us a thousand above the chariot; sit down to the Hotṛ's task, sacrifice in due order, serve the gods with oblation, O Devāpi.
 
@@ -2290,7 +2290,7 @@ translator: thothica
 
 **10.98.6**  In this upper sea the waters held back by the gods had stood still; they ran, released by Ārṣṭiṣeṇa, sent forth by Devāpi — upon the oblation-sprinkled ones.
 
-**10.98.7**  When Devāpi, appointed purohita for Śantanu, having been chosen for the Hotṛ's office, blazed with compassion — Bṛhaspati, bestowing what the gods hear, what wins rain, gave him speech.
+**10.98.7**  When Devāpi, appointed purohita for Śaṃtanu, having been chosen for the Hotṛ's office, blazed with compassion — Bṛhaspati, bestowing what the gods hear, what wins rain, gave him speech.
 
 **10.98.8**  You, O Agni, whom Devāpi, Ārṣṭiṣeṇa the human, blazing, has kindled — praised along with all the gods — send forth rain-bringing Parjanya.
 

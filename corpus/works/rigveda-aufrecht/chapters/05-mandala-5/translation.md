@@ -1274,7 +1274,7 @@ translator: thothica
 
 **5.74.4**  Even the city-dweller overwhelmed by water — from the city do ye gladden him for his city's sake, when he is held fast for seizure like a lion at the den of the deceitful.
 
-**5.74.5**  From Cyavāna, grown old, ye released the withered covering like a garment; when ye make him young again, the young wife's desire is fulfilled.
+**5.74.5**  From Cyavana, grown old, ye released the withered covering like a garment; when ye make him young again, the young wife's desire is fulfilled.
 
 **5.74.6**  There is here a praiser of you two; we are in your sight for your glory; now that ye have been heard by me — come with your aids, O two whose wealth is swiftness.
 
@@ -1294,7 +1294,7 @@ translator: thothica
 
 **5.75.4**  On your chariot, O two whose wealth is the bull, the song of excellent praise is set; and the tall beast bears you two nourishment and wonderful forms — hear my honeyed call.
 
-**5.75.5**  Awake in mind, swift in the chariot, ye who hear the call — with swift wings ye two Aśvins came down to Cyavāna who was without deceit — hear my honeyed call.
+**5.75.5**  Awake in mind, swift in the chariot, ye who hear the call — with swift wings ye two Aśvins came down to Cyavana who was without deceit — hear my honeyed call.
 
 **5.75.6**  May your steeds, O heroes, yoked by thought, dappled in form, carry you two for the drinking, together with your graces, O Aśvins — hear my honeyed call.
 

@@ -423,7 +423,7 @@ translator: thothica
 
 **1.50.1**  Wheresoever you roam to and fro, wheresoever your mind wanders — from that place may the Lord of beings cause you to come back hither again.
 
-**1.50.2**  May Bhūtapati lead you back; may the god Bṛhaspati lead you back; may all the Ādityās conduct you hither; may the All-Gods, resplendent in glory, bring you back.
+**1.50.2**  May Bhūtapati lead you back; may the god Bṛhaspati lead you back; may all the Ādityas conduct you hither; may the All-Gods, resplendent in glory, bring you back.
 
 **1.50.3**  May Anumati, may Sarasvatī, may King Bhaga lead him back home. The house — the wife of the heart — may it here and now make his mind settle.
 
@@ -723,7 +723,7 @@ translator: thothica
 
 **1.85.3**  Savitṛ, Agni, Brahmā, Soma, Indra, Tvaṣṭṛ, Bṛhaspati — these have brought thee back, O Marudyuta, by the brahman.
 
-**1.85.4**  Auspicious speech and a wholesome eye — these we fashion for Marudyuta; for him indeed I bring this herb, Arundhati.
+**1.85.4**  Auspicious speech and a wholesome eye — these we fashion for Marudyuta; for him indeed I bring this herb, Arundhatī.
 
 **1.86.1**  To the three Rudras — the eldest, the youngest, and him who is the middlemost — I make oblation as I set forth; the light-makers, the seers, the soma-drinkers — let them drive the Kaṇvās out from here with the weapon.
 
@@ -853,7 +853,7 @@ translator: thothica
 
 **1.101.1**  Three vessels were the first to exist; truth and existence fashioned them. Upon the measure of ṛta rest those that are immovable — with these do the gods partake of the immortal draught.
 
-**1.101.2**  When the gods came distributing the heavenly light, three vessels were the first to exist: one the Ādityās claimed, the Vasus a second, and the Rudras took possession of the third.
+**1.101.2**  When the gods came distributing the heavenly light, three vessels were the first to exist: one the Ādityas claimed, the Vasus a second, and the Rudras took possession of the third.
 
 **1.101.3**  Dhātṛ knows all these; Savitṛ knows them; Bṛhaspati, the foremost god, and Agni. With these three vessels Indra fills his belly, and likewise all the Viśve Devāḥ.
 
@@ -865,7 +865,7 @@ translator: thothica
 
 **1.102.3**  The four quarters and indeed five intermediate directions, the six broad spaces they call the measurers of the atmosphere — the twelve seasons and those that belong to the seasons: may they, the guardians of the universe, cause me to swell with fullness.
 
-**1.102.4**  As the Ādityās cause the soma-stalk to swell, which the inexhaustible ones drink inexhaustibly, so may Indra, Varuṇa, and Bṛhaspati, the guardians of the universe, cause me to swell with fullness.
+**1.102.4**  As the Ādityas cause the soma-stalk to swell, which the inexhaustible ones drink inexhaustibly, so may Indra, Varuṇa, and Bṛhaspati, the guardians of the universe, cause me to swell with fullness.
 
 **1.103.1**  Night has come, she who gathers together riches, installing all nourishment and goods. Let us honor the new-moon night with oblation — clothed in vigor, she has come to us with milk.
 

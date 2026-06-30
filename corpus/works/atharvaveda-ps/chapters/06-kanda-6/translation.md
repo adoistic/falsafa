@@ -87,7 +87,7 @@ translator: thothica
 
 **6.4.3**  Whatever has been done by a staff, or by an arrow, or by a wound with burning heat — for that you are the healer; Niṣkṛti indeed is your name.
 
-**6.4.4**  Auspiciously you abide on the plakṣa, on the aśvattha, on the khadira, on the dhava; auspiciously on the nyagrodha tree. Come to us, O Arundhati!
+**6.4.4**  Auspiciously you abide on the plakṣa, on the aśvattha, on the khadira, on the dhava; auspiciously on the nyagrodha tree. Come to us, O Arundhatī!
 
 **6.4.5**  Tree by tree you climb, like a maiden in her ardour. Victorious, standing firm against all, Saṃjayā indeed is your name.
 
@@ -97,9 +97,9 @@ translator: thothica
 
 **6.4.8**  Ghṛtācī by name is the illegitimate child; Ajababhru is your father. You are the blood of that dark horse of Yama — so are you infused.
 
-**6.4.9**  Fallen together from the blood of the horse, she has clung to the leaf. You are a flowing, winged one; come to us, O Arundhati!
+**6.4.9**  Fallen together from the blood of the horse, she has clung to the leaf. You are a flowing, winged one; come to us, O Arundhatī!
 
-**6.4.10**  O Ghṛtācikā, who rides the wind-chariot, whose wings are lightning, O Arundhati — you go most readily to the afflicted; verily you shall carry him away from pain.
+**6.4.10**  O Ghṛtācikā, who rides the wind-chariot, whose wings are lightning, O Arundhatī — you go most readily to the afflicted; verily you shall carry him away from pain.
 
 **6.4.11**  Whatever of you has been consumed by the Piśācas, let that swell up again for you. May Lākṣā, the all-healer, protect you together with the gods.
 

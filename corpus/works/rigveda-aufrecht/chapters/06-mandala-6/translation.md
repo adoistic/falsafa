@@ -262,7 +262,7 @@ translator: thothica
 
 **6.15.15**  For the well-set offerings are to be seen; let the two worlds establish thee to sacrifice. Aid us, O generous one, in winning the prize, O Agni; may we cross over all misfortunes — may we cross them, may we cross them with thy help.
 
-**6.15.16**  O Agni of fair countenance, with all the gods, sit first on the woolly seat. Lead the nest-like, ghee-filled sacrifice rightly to Savitr and the sacrificer.
+**6.15.16**  O Agni of fair countenance, with all the gods, sit first on the woolly seat. Lead the nest-like, ghee-filled sacrifice rightly to Savitṛ and the sacrificer.
 
 **6.15.17**  This is that Agni whom the inspired priests churn as Atharvan did — him whom they brought, eager and unwearied, from the dark cows.
 
@@ -1336,25 +1336,25 @@ translator: thothica
 
 **6.62.11**  Come hither with the highest teams and also with the middlemost, with the lowest — come forward; open the doors even of the firm, cow-filled enclosure for the singer, O you of brilliant bounty.
 
-**6.63.1**  Where are those fair Nāsatyās, much invoked, today? The reverent praise, like a messenger, has not found them. He who has turned toward us the most beloved pair — for you are most dear to this thought of his.
+**6.63.1**  Where are those fair Nāsatyas, much invoked, today? The reverent praise, like a messenger, has not found them. He who has turned toward us the most beloved pair — for you are most dear to this thought of his.
 
 **6.63.2**  Come readily to his invocation, singing together, as you drink the soma juice; go driving around in that chariot against harms so that neither one far nor one near may outstrip.
 
 **6.63.3**  The soma has been prepared for you two in abundance; the most easily approached sacred grass has been strewn; with uplifted hand, youthful, I have praised you — the pressing stones anointed, coming toward you.
 
-**6.63.4**  The fire has stood upright for you two at the sacrifices; the gladdening gift, clarified and flame-lit, goes forward; the Hotar, delighted in mind, expansive, who is invoker for the Nāsatyās, has been set in motion.
+**6.63.4**  The fire has stood upright for you two at the sacrifices; the gladdening gift, clarified and flame-lit, goes forward; the Hotar, delighted in mind, expansive, who is invoker for the Nāsatyas, has been set in motion.
 
 **6.63.5**  Sūrya's daughter has mounted the chariot for glory, the one that gives much and has a hundred aids; O men skilled at dancing, become here surpassers with your arts at the birth of the sacrifice-worthy ones.
 
 **6.63.6**  With these visible beauties you two have brought nourishment for the loveliness of Sūryā; your birds have flown forward for your beauty — the voice, when well praised, shall reach your divine seat.
 
-**6.63.7**  Let the swiftest horses, O Nāsatyās, carry your birds toward your refreshment; your chariot has been swift as thought, released, following the ancient streams of nourishment.
+**6.63.7**  Let the swiftest horses, O Nāsatyas, carry your birds toward your refreshment; your chariot has been swift as thought, released, following the ancient streams of nourishment.
 
 **6.63.8**  O bounteous ones who enjoy much, you have given much to us; swell for us refreshment like a milk-cow flowing without cease; both the sweet praise and the well-uttered praise are lauded to you, and the essences that have reached after your bounty.
 
 **6.63.9**  Also for me from the swift one of the city Ṛjra, well-rewarded, a hundred ripe ones of Peruku; Śāṇḍa has given golden, well-aimed gifts — ten choice cows, noble, and approaching ones.
 
-**6.63.10**  Purupanthā has given for the hymn to you two Nāsatyās a hundred of the thousand-horsed; now, O hero, has given for the hymn to Bharadvāja; may you, of many wonders, lay the demons low.
+**6.63.10**  Purupanthā has given for the hymn to you two Nāsatyas a hundred of the thousand-horsed; now, O hero, has given for the hymn to Bharadvāja; may you, of many wonders, lay the demons low.
 
 **6.63.11**  May we be in your favour, in your breadth, O Aśvins, with the patrons.
 

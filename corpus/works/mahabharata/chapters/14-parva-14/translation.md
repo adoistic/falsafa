@@ -2052,7 +2052,7 @@ translator: thothica
 
 **14.40.1**  Brahmā said: From the unmanifest there arose first the Great Self, of mighty intellect, the beginning of all the qualities; it is called the first creation.
 
-**14.40.2**  The Great Self, Mind, Viṣṇu, the All, the mighty Śaṃbhu, intellect, wisdom, perception, and likewise fame, steadfastness, memory —
+**14.40.2**  The Great Self, Mind, Viṣṇu, the All, the mighty Śambhu, intellect, wisdom, perception, and likewise fame, steadfastness, memory —
 
 **14.40.3**  by these synonymous names the Great Self is made manifest; the learned brāhmaṇa who knows it falls not into delusion.
 
@@ -4572,7 +4572,7 @@ translator: thothica
 
 **14.82.7**  For it was for your sake, O Kauravya, that this was done by me, sinless one; hear it in full, O mighty-armed Dhanaṃjaya.
 
-**14.82.8**  In the great war of the Bhāratas, the king who was Śāntanu's son was slain by you unrighteously, O Pārtha; this is the atonement made for that.
+**14.82.8**  In the great war of the Bhāratas, the king who was Śaṃtanu's son was slain by you unrighteously, O Pārtha; this is the atonement made for that.
 
 **14.82.9**  For Bhīṣma was not struck down by you, O hero, while he was fighting; engaged with Śikhaṇḍin, and using him as a shield, you slew him.
 
@@ -4580,11 +4580,11 @@ translator: thothica
 
 **14.82.11**  But this expiation was ordained, which you have received at your son's hands, by the Vasus, O guardian of the earth, and by Gaṅgā, O greatly wise one.
 
-**14.82.12**  For long ago I heard this, told by the Vasus, when, after King Śāntanu's son had been slain, they came to the bank of the Gaṅgā.
+**14.82.12**  For long ago I heard this, told by the Vasus, when, after King Śaṃtanu's son had been slain, they came to the bank of the Gaṅgā.
 
 **14.82.13**  Having bathed and gathered at the great river, the Vasu gods then spoke these terrible words, with the consent of Bhāgīrathī:
 
-**14.82.14**  This Bhīṣma, son of Śāntanu, has been slain by Savyasācin while he was not fighting, being engaged with another in the combat, O fair lady.
+**14.82.14**  This Bhīṣma, son of Śaṃtanu, has been slain by Savyasācin while he was not fighting, being engaged with another in the combat, O fair lady.
 
 **14.82.15**  Therefore, on account of this assault, we too, O fair one, shall lay a curse upon Arjuna — so they said; and she replied, 'So be it.'
 

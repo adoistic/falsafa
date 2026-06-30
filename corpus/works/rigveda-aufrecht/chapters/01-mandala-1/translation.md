@@ -1110,7 +1110,7 @@ translator: thothica
 
 **1.46.4**  The lover of the waters, who has drunk deep, fills with oblation, O heroes — the father of the kuṭa, the observer of men.
 
-**1.46.5**  Ready is our reception of your thoughts, O Nāsatyās, you who speak with inspired words; drink the Soma boldly.
+**1.46.5**  Ready is our reception of your thoughts, O Nāsatyas, you who speak with inspired words; drink the Soma boldly.
 
 **1.46.6**  That which shall carry us across the darkness, O Aśvins, that light-bearing gift — bestow that refreshment upon us.
 
@@ -1144,11 +1144,11 @@ translator: thothica
 
 **1.47.6**  O wondrous Aśvins, bearing wealth in your chariot, bring nourishment to Sudās; place upon us from the ocean or from heaven riches much to be coveted.
 
-**1.47.7**  Whether you two Nāsatyās are in the far distance, or whether you abide with Turvaśa — from there come to us on your well-rolling chariot, together with the rays of the sun.
+**1.47.7**  Whether you two Nāsatyas are in the far distance, or whether you abide with Turvaśa — from there come to us on your well-rolling chariot, together with the rays of the sun.
 
 **1.47.8**  May your horses, glorious at the sacrifice, bear you hitherward swiftly; mixing refreshment for the well-doer, O bounteous ones, sit down upon the sacred grass, O heroes.
 
-**1.47.9**  Come, O Nāsatyās, on that sun-skinned chariot with which you have always carried goods to the worshipper, for the drinking of the sweet Soma.
+**1.47.9**  Come, O Nāsatyas, on that sun-skinned chariot with which you have always carried goods to the worshipper, for the drinking of the sweet Soma.
 
 **1.47.10**  With recitations and with songs we call upon you two, rich in many goods, to come hither for our protection; for, O Aśvins, you have ever drunk Soma joyfully in the dear assembly of the Kaṇvas.
 
@@ -2464,7 +2464,7 @@ translator: thothica
 
 **1.112.12**  With those aids by which you filled the Rasā, whose waters are sweet as milk; with those by which you helped the horseless chariot to victory; with those by which Triśoka drove forth the dawn-cows — O Aśvins, come with those aids.
 
-**1.112.13**  With those aids by which you go around the sun in the far distance; with those by which you aided Mandhātṛ in the lordship of his field; with those by which you aided the inspired Bharadvāja — O Aśvins, come with those aids.
+**1.112.13**  With those aids by which you go around the sun in the far distance; with those by which you aided Māndhātṛ in the lordship of his field; with those by which you aided the inspired Bharadvāja — O Aśvins, come with those aids.
 
 **1.112.14**  With those aids by which you helped the great Atithigva Kaśojuva, Divodāsa, in the slaying of Śambara; with those by which you aided Trasadasyu in the breaking of forts — O Aśvins, come with those aids.
 
@@ -2582,7 +2582,7 @@ translator: thothica
 
 **1.116.9**  You two pursued the far-off Nāsatyas; you made the watering-trough with its high bottom and slanting edge. Like flowing waters, you poured forth a thousand gifts of cattle for Gotama who thirsted.
 
-**1.116.10**  O Nāsatyas, you stripped from the ageing Cyavāna his worn-out garment as one removes a robe, and extended his life that had been abandoned. You marvellous ones made him the husband of maidens.
+**1.116.10**  O Nāsatyas, you stripped from the ageing Cyavana his worn-out garment as one removes a robe, and extended his life that had been abandoned. You marvellous ones made him the husband of maidens.
 
 **1.116.11**  That, O Nāsatyas, was a praiseworthy and successful act of protection that you performed — when you, with full knowledge, like one unearthing a hidden treasure, raised Vandana up to a sight of beauty.
 
@@ -2638,7 +2638,7 @@ translator: thothica
 
 **1.117.12**  Going where to receive the excellent praise of the poet, O sons of heaven, O mighty ones, O youthful ones? Like a golden pot buried underground you raised him up — on the tenth day, O Aśvins.
 
-**1.117.13**  You two, O Aśvins, made the ageing Cyavāna young again with your powers. The daughter of the Sun chose your chariot, O Nāsatyas, together with its beauty.
+**1.117.13**  You two, O Aśvins, made the ageing Cyavana young again with your powers. The daughter of the Sun chose your chariot, O Nāsatyas, together with its beauty.
 
 **1.117.14**  You two, with your ancient ways, became like new-spirited youths for Tugra again. You carried Bhujyu out of the ocean with your swift-flying, straight-dashing horses.
 
@@ -2674,7 +2674,7 @@ translator: thothica
 
 **1.118.5**  A young woman mounts your chariot here, having been welcomed, O men — the daughter of the Sun. Your beautiful, bird-like, reddish horses carry you in the encounter.
 
-**1.118.6**  You raised up Vandana with your wonders; you raised up Rebha, O wondrous ones, O mighty ones, with your powers. You bore the son of Tugra across the ocean; you made Cyavāna young again.
+**1.118.6**  You raised up Vandana with your wonders; you raised up Rebha, O wondrous ones, O mighty ones, with your powers. You bore the son of Tugra across the ocean; you made Cyavana young again.
 
 **1.118.7**  You placed warm nourishment and shelter for Atri who had fallen in distress, O Aśvins. And you, delighting in fair praise, restored sight to Kaṇva who had been robbed of it.
 
@@ -2734,7 +2734,7 @@ translator: thothica
 
 **1.121.2**  He indeed propped up heaven as its support; the skilful Ṛbhu sprinkled wealth in cattle for the heroes at the prize-contest. The great bull looked upon its own kind, the beloved companion, the mother of the horse — the cow.
 
-**1.121.3**  The ruddy one, the primeval king, shall come swiftly to the call, following the days of the Aṅgirasa clans. He fashioned the thunderbolt with its team of steeds and propped up heaven — for the four-footed and the two-footed, for the hero's sake.
+**1.121.3**  The ruddy one, the primeval king, shall come swiftly to the call, following the days of the Āṅgirasa clans. He fashioned the thunderbolt with its team of steeds and propped up heaven — for the four-footed and the two-footed, for the hero's sake.
 
 **1.121.4**  In his exhilaration he gave heavenly light to Ṛta — the host of the dawn-cows whose faces were veiled. When at the release he turned back Trikakubh, he drove away from you the guiles of mortal deceit.
 
@@ -3052,9 +3052,9 @@ translator: thothica
 
 **1.139.2**  When you two, O Mitra and Varuṇa, by your own will took hold of untruth beyond ṛta, by your own impulse of wisdom — in your very abodes we have seen the golden one. We have seen it with our thoughts, with our minds, with our own eyes, with the eyes of Soma's own.
 
-**1.139.3**  The god-seeking descendants of Āyu have made their call resound to you Aśvins with their hymns, like a resonant sound; they called you two with their oblations. Upon you two who know all wealth, all glories and refreshments rest. The fellies of your golden chariot, O Dasrās, sprinkle abundantly — of your golden chariot.
+**1.139.3**  The god-seeking descendants of Āyu have made their call resound to you Aśvins with their hymns, like a resonant sound; they called you two with their oblations. Upon you two who know all wealth, all glories and refreshments rest. The fellies of your golden chariot, O Dasras, sprinkle abundantly — of your golden chariot.
 
-**1.139.4**  It has become manifest, O Dasrās — you two have opened up the vault of heaven; the chariot-yokers harness your car in the heavenly courses, without blemish in the heavenly courses. Your standing place is on the chariot-seat, O Dasrās, on the golden chariot. Driving as if along a path, you guide the aerial space, swiftly guiding space.
+**1.139.4**  It has become manifest, O Dasras — you two have opened up the vault of heaven; the chariot-yokers harness your car in the heavenly courses, without blemish in the heavenly courses. Your standing place is on the chariot-seat, O Dasras, on the golden chariot. Driving as if along a path, you guide the aerial space, swiftly guiding space.
 
 **1.139.5**  O Aśvins, rich in might, with your mighty deeds show favor to us by day and by night. May your bounty never fail us, never at any time may your gift to us fail.
 
@@ -3846,7 +3846,7 @@ translator: thothica
 
 **1.182.3**  What do you do here, O wonder-workers? What person who offers no oblations is glorified in your presence? You shall pass beyond the niggard Paṇi; restore the life-breath to the sage, and make light for the eloquent singer.
 
-**1.182.4**  Crush on all sides the hounds that bark and snap; strike them down, O Aśvins — you have discovered those things. Make every hymn of the praiser yield riches; both of you, O Nāsatyās, uphold my praise.
+**1.182.4**  Crush on all sides the hounds that bark and snap; strike them down, O Aśvins — you have discovered those things. Make every hymn of the praiser yield riches; both of you, O Nāsatyas, uphold my praise.
 
 **1.182.5**  You made a raft for Tugra's son upon the rivers — a self-propelled raft with wings. With that raft, guided by divine thought, you flew well, soaring over the great waves.
 
@@ -3854,29 +3854,29 @@ translator: thothica
 
 **1.182.7**  What tree stood firm in the midst of the ocean, to which Taugra's son clung without hold? Just as the feathers of a flying bird, the Aśvins carried him upward — to Bhujyu for his glory.
 
-**1.182.8**  May that, O heroes, O Nāsatyās, follow you — what the sages of inspired mind have uttered in praise of you. From this soma-session today, may we know the winning path and the life-giving community.
+**1.182.8**  May that, O heroes, O Nāsatyas, follow you — what the sages of inspired mind have uttered in praise of you. From this soma-session today, may we know the winning path and the life-giving community.
 
 **1.183.1**  Harness that steed which is swifter than thought — the three-felied, three-wheeled chariot of the vigorous pair — by which you come near to the house of the good man; you fly with the three-fold element, like a bird with wings.
 
 **1.183.2**  Your well-wheeled chariot rolls on toward the earth; when you stand, O wise ones, at the refreshments offered — let beauty attend beauty: may this hymn be with you, and may you Aśvins accompany Uṣas, the daughter of heaven.
 
-**1.183.3**  Mount the well-wheeled chariot that rolls according to your ordinances, that bears the oblation. By which, O heroes, O Nāsatyās, you travel the path for nourishment, for offspring, and for the soul's own sake.
+**1.183.3**  Mount the well-wheeled chariot that rolls according to your ordinances, that bears the oblation. By which, O heroes, O Nāsatyas, you travel the path for nourishment, for offspring, and for the soul's own sake.
 
 **1.183.4**  May neither wolf nor she-wolf attack you; do not turn away from us, and do not abandon us. This is the share laid up for you; this is the hymn, O wonder-workers — these are the honey-filled treasures deposited for you.
 
-**1.183.5**  Gotama, Purumīḷha, Atri — the oblation-bearer calls on you two, O wonder-workers, for help. Like one going straight toward a pointed direction, come near to my call, O Nāsatyās.
+**1.183.5**  Gotama, Purumīḷha, Atri — the oblation-bearer calls on you two, O wonder-workers, for help. Like one going straight toward a pointed direction, come near to my call, O Nāsatyas.
 
 **1.183.6**  We have crossed to the far shore of this darkness; the hymn of praise has been established for you, O Aśvins. Come here by the god-travelled paths — may we know the winning path and the life-giving community.
 
-**1.184.1**  I, the carrier, invoke you both today and again at the dawning of Uṣas with praises. O Nāsatyās, wherever you may be, O noble sons of heaven, come to the generous giver.
+**1.184.1**  I, the carrier, invoke you both today and again at the dawning of Uṣas with praises. O Nāsatyas, wherever you may be, O noble sons of heaven, come to the generous giver.
 
 **1.184.2**  O vigorous pair, do rejoice among us; strike down the stingy Paṇis in your exhilaration. Be heard by me — O heroes, discerning ones, be sought out with the ear through the utterances of my thoughts.
 
-**1.184.3**  For glory, like Pūṣan and the arrow-maker among the gods, O Nāsatyās, bring the marriage of Sūryā. Your Kakuha mare, born of the waters, is celebrated — like the ancient yokes of mighty Varuṇa.
+**1.184.3**  For glory, like Pūṣan and the arrow-maker among the gods, O Nāsatyas, bring the marriage of Sūryā. Your Kakuha mare, born of the waters, is celebrated — like the ancient yokes of mighty Varuṇa.
 
 **1.184.4**  May that sweet gift of yours be for us; impel the hymn of the praiser who deserves honor. While the peoples rejoice, O munificent ones renowned in glory, may they rejoice in heroic strength through you.
 
-**1.184.5**  This hymn has been made for you, O Aśvins, O bountiful ones, with songs of praise and well-wrought verses. Come, rejoicing, O Nāsatyās, to the path for offspring and for the self — for Agastya's sake.
+**1.184.5**  This hymn has been made for you, O Aśvins, O bountiful ones, with songs of praise and well-wrought verses. Come, rejoicing, O Nāsatyas, to the path for offspring and for the self — for Agastya's sake.
 
 **1.184.6**  We have crossed to the far shore of this darkness; the hymn of praise has been established for you, O Aśvins. Come here by the god-travelled paths — may we know the winning path and the life-giving community.
 

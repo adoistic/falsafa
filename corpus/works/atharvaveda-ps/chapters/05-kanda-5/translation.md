@@ -277,7 +277,7 @@ translator: thothica
 
 **5.14.7**  Like the high-flying Suparṇa, fly up to heaven; make that dear one dear to the gods; deliver me to the ṛṣis. Let the pure partake of the pure; may the well-doers drink the honey.
 
-**5.14.8**  Two kinds of gods have come to our sacrifice — those whom the rice-oblation pleases and those by whom it is invited. Let the Ādityās and the Aṅgirasas partake of this heavenly oblation, sitting down in due season.
+**5.14.8**  Two kinds of gods have come to our sacrifice — those whom the rice-oblation pleases and those by whom it is invited. Let the Ādityas and the Aṅgirasas partake of this heavenly oblation, sitting down in due season.
 
 **5.15.1**  The first portion of the beestings, of milk, of clarified butter, of food — this we gather together. This share we send forth to those who eat the unhurled oblation; let the divine gods accept that oblation of ours.
 

@@ -384,7 +384,7 @@ translator: thothica
 
 **8.4.100**  So too Suṣeṇa, sword and shield in hand, your son, and the hero Satyasena, both stand together with Citrasena, glad of heart, eager to fight in the battle.
 
-**8.4.101**  The Bharata princes who shun all that is shameful — Citrāyudha, Śrutakarman, and Jaya, and Śala, and Satyavrata and Duḥśala — stand ready, mighty and eager to fight.
+**8.4.101**  The Bharata princes who shun all that is shameful — Citrāyudha, Śrutakarman, and Jaya, and Śala, and Satyavrata and Duḥśalā — stand ready, mighty and eager to fight.
 
 **8.4.102**  The lord of the Kaitavyas, proud in his valor, a slayer of foes in battle after battle, that prince, with foot and horse, marching with his elephants and chariots, stands ready, eager to fight for your sake.
 
@@ -532,7 +532,7 @@ translator: thothica
 
 **8.5.66**  he whose celestial serpent-mouthed shaft, gold-adorned and feathered, the destroyer of foes, lay resting amid the sandalwood—
 
-**8.5.67**  he who, scorning such heroes and great chariot-warriors as Bhīṣma and Droṇa, learned from the son of Jamadagni the most terrible Brāhma weapon—
+**8.5.67**  he who, scorning such heroes and great chariot-warriors as Bhīṣma and Droṇa, learned from the son of Jamadagni the most terrible Brahmā weapon—
 
 **8.5.68**  he, the mighty-armed, who when he saw Droṇa and the rest turned away and tormented by arrows, shattered with his shafts the bow of Subhadrā's son—
 
@@ -1630,7 +1630,7 @@ translator: thothica
 
 **8.17.19**  With fluttering banners on their foreheads, with golden girths and body-coverings, they came on swiftly, eager to crush him, like blazing mountains in motion.
 
-**8.17.20**  The Mekalas, Utkalas, and Kāliṅgas, the Niṣādas and the men of Tāmraliptaka, bent on slaughter, loosed showers of arrows and javelins.
+**8.17.20**  The Mekalas, Utkalas, and Kaliṅgas, the Niṣādas and the men of Tāmraliptaka, bent on slaughter, loosed showers of arrows and javelins.
 
 **8.17.21**  Seeing Nakula overspread by them as the sun is veiled by clouds, the Pāṇḍavas, Pāñcālas, and Somakas, much enraged, rushed forward all around him.
 
@@ -3442,7 +3442,7 @@ translator: thothica
 
 **8.30.8**  "Brāhmaṇas, recounting many varied and curious lands and the kings of olden times, used to wait upon Dhṛtarāṣṭra."
 
-**8.30.9**  "There an aged and foremost of the twice-born, telling certain tales of bygone days, spoke these words in censure of the Bāhlīka land and of the Madras."
+**8.30.9**  "There an aged and foremost of the twice-born, telling certain tales of bygone days, spoke these words in censure of the Bāhlika land and of the Madras."
 
 **8.30.10**  "Those who are cast out by the Himavat, and scorned by the Gaṅgā, by the Sarasvatī, the Yamunā, and by Kurukṣetra as well —"
 
@@ -3462,9 +3462,9 @@ translator: thothica
 
 **8.30.18**  "'Alas, slain! Alas, slain! Alas, my lord and husband, slain!' — so wailing, the wretched women dance about, unrestrained on the festal days."
 
-**8.30.19**  "It is said that a certain one among the Bāhlīka chieftains, those defiled folk, while dwelling in the Kurujāṅgala, sang thus, his heart far from glad:"
+**8.30.19**  "It is said that a certain one among the Bāhlika chieftains, those defiled folk, while dwelling in the Kurujāṅgala, sang thus, his heart far from glad:"
 
-**8.30.20**  "'Surely that tall, fair woman, clad in fine wool, lies remembering me, a Bāhlīka now dwelling among the Kurus.'"
+**8.30.20**  "'Surely that tall, fair woman, clad in fine wool, lies remembering me, a Bāhlika now dwelling among the Kurus.'"
 
 **8.30.21**  "'When I have crossed the Śatadru river and the lovely Irāvatī, and gone to my own land, I shall behold the fair women with their heavy conch-bangles.'"
 
@@ -3518,7 +3518,7 @@ translator: thothica
 
 **8.30.46**  "So a certain rākṣasī, dwelling a single night in a house of śamī wood, girt with a great mortar, spoke to a wanderer among the holy fords."
 
-**8.30.47**  "Those lands are called Āraṭṭa, those people are called Bāhlīka; the Vasātis, the Sindhus, and the Sauvīras — these for the most part stand condemned."
+**8.30.47**  "Those lands are called Āraṭṭa, those people are called Bāhlika; the Vasātis, the Sindhus, and the Sauvīras — these for the most part stand condemned."
 
 **8.30.48**  "Mark too, O Śalya — and come, I shall tell you more — hear with single-minded attention what I now duly relate."
 
@@ -3530,7 +3530,7 @@ translator: thothica
 
 **8.30.52**  "'but ever wandering among lands thronged with diverse customs, O great king, when I came among the Bāhlīkas, this is what I observed:'"
 
-**8.30.53**  "'There a man, having first been a brāhmaṇa, becomes thereafter a kṣatriya, then a vaiśya, then a śūdra; and the Bāhlīka becomes thereafter a barber —'"
+**8.30.53**  "'There a man, having first been a brāhmaṇa, becomes thereafter a kṣatriya, then a vaiśya, then a śūdra; and the Bāhlika becomes thereafter a barber —'"
 
 **8.30.54**  "'and, having become a barber, he becomes a brāhmaṇa once more; and there a man, having been twice-born, is born again even as a slave.'"
 
@@ -5906,7 +5906,7 @@ translator: thothica
 
 **8.51.12**  For who among the Pāñcālas, O Pārtha, was able to vanquish in battle by force of arms those two great chariot-warriors, Bhīṣma and Droṇa, equal in valor to Śakra?
 
-**8.51.13**  For who, in the clash of battle, could face the son of Śāntanu, Droṇa, Vaikartana, Kṛpa, the son of Droṇa, the son of Somadatta, and Kṛtavarman too, the lord of the Sindhus, the king of the Madras, and King Suyodhana —
+**8.51.13**  For who, in the clash of battle, could face the son of Śaṃtanu, Droṇa, Vaikartana, Kṛpa, the son of Droṇa, the son of Somadatta, and Kṛtavarman too, the lord of the Sindhus, the king of the Madras, and King Suyodhana —
 
 **8.51.14**  all those heroes, accomplished in arms in battle, each with his followers, fierce commanders of armies, furious and mad with the lust of war?
 

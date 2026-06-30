@@ -1067,7 +1067,7 @@ translator: thothica
 
 **6.18.25**  "He who ranges along the Gaṅgā, terrifying the leaders of elephant herds, remembering the ancient enmity between elephants and monkeys —"
 
-**6.18.26**  "— this troop-lord and leader who dwells in mountain caves, the foremost in the monkey host, who goes along the Himalayan river —"
+**6.18.26**  "— this troop-lord and leader who dwells in mountain caves, the foremost in the monkey host, who goes along the Himālayan river —"
 
 **6.18.27**  "— who takes his delight on the mountain Uśīrabīja, equal to Mandara, the best of monkeys, even as Śakra himself takes delight in heaven —"
 
@@ -4025,7 +4025,7 @@ translator: thothica
 
 **6.54.28**  But those fleeing heroes, the broad-faced monkeys, were then all turned back by Aṅgada with gentle words and great respect.
 
-**6.54.29**  Ṛṣabha, Śarabha, Mainda, Dhūmra, and Nīla; Kumuda, Suṣeṇa, Gavākṣa, Rambha, and Tārā; Dvivida, Panasa, and Vāyuputra as chief — all set out swiftly toward the battle.
+**6.54.29**  Ṛṣabha, Śarabha, Mainda, Dhūmra, and Nīla; Kumuda, Suṣeṇa, Gavākṣa, Rambha, and Tāra; Dvivida, Panasa, and Vāyuputra as chief — all set out swiftly toward the battle.
 
 **6.55.1**  Those mighty-bodied ones, having heard the words of Aṅgada, turned back and assumed a resolute mind, all eager for battle.
 
@@ -4803,9 +4803,9 @@ translator: thothica
 
 **6.59.96**  That foremost of men could not inflict a wound upon him in battle. Then the Wind-god himself approached and spoke to him.
 
-**6.59.97**  "He has received a boon from Brahmā and is protected by impenetrable armour. Pierce him with the Brāhma weapon — he can be slain by no other means."
+**6.59.97**  "He has received a boon from Brahmā and is protected by impenetrable armour. Pierce him with the Brahmā weapon — he can be slain by no other means."
 
-**6.59.98**  Then Saumitri, whose valour matches Indra's, hearing the words of Vāyu, instantly took up an arrow of unfailing speed and charged it at once with that Brāhma weapon.
+**6.59.98**  Then Saumitri, whose valour matches Indra's, hearing the words of Vāyu, instantly took up an arrow of unfailing speed and charged it at once with that Brahmā weapon.
 
 **6.59.99**  As that supreme weapon was being charged by Saumitri onto his best arrow with sharp tip, the directions with moon, sun, and great planets, the sky itself, trembled and roared, and the earth shook.
 
@@ -4873,7 +4873,7 @@ translator: thothica
 
 **6.60.25**  With its flames turning clockwise, resembling heated gold, fire itself rose up and accepted those oblations.
 
-**6.60.26**  He, foremost among those versed in weapons, summoned the Brāhma weapon and consecrated his bow, his chariot, and all his armaments with sacred mantras there.
+**6.60.26**  He, foremost among those versed in weapons, summoned the Brahmā weapon and consecrated his bow, his chariot, and all his armaments with sacred mantras there.
 
 **6.60.27**  As that weapon was being invoked and as the fire was being fed with oblations, the sky together with sun, planets, moon, and stars trembled with fear.
 
@@ -4907,7 +4907,7 @@ translator: thothica
 
 **6.60.42**  Drenched in those showers of arrows, reflecting on them as if they were streams of falling rain, Rāma of supremely wondrous glory, surveying all around him, then spoke to Lakṣmaṇa.
 
-**6.60.43**  "This lord of Rākṣasas again, O Lakṣmaṇa — Indra's foe — having felled the fierce monkey army, relying on the Brāhma weapon, torments us continually with his arrows.
+**6.60.43**  "This lord of Rākṣasas again, O Lakṣmaṇa — Indra's foe — having felled the fierce monkey army, relying on the Brahmā weapon, torments us continually with his arrows.
 
 **6.60.44**  He is great-souled, bearing a boon from the Self-born, stationed in the sky with his fearsome body concealed — how then can Indrajit, invisible in form and weapons raised, be killed today in battle?
 
@@ -8359,11 +8359,11 @@ translator: thothica
 
 **6.111.13**  Here came this king of Rākṣasas, Vibhīṣaṇa, to offer himself.
 
-**6.111.14**  That city visible yonder, O Sītā, is Kiṣkindhā, with its colourful woodlands — Sugrīva's charming city, where Vāli was slain by me.
+**6.111.14**  That city visible yonder, O Sītā, is Kiṣkindhā, with its colourful woodlands — Sugrīva's charming city, where Vālī was slain by me.
 
 **6.111.15**  That great mountain gleaming like a cloud with lightning is visible yonder, O Sītā — Ṛśyamūka, finest of mountains, clad in golden minerals.
 
-**6.111.16**  Here I met Sugrīva, lord of monkeys, and here, O Sītā, the compact was made by me for the slaying of Vāli.
+**6.111.16**  Here I met Sugrīva, lord of monkeys, and here, O Sītā, the compact was made by me for the slaying of Vālī.
 
 **6.111.17**  That is the Pampā lake visible yonder, adorned with lotuses and colourful woodlands — where I, bereft of you, lamented in deep anguish.
 

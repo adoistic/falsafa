@@ -240,7 +240,7 @@ translator: thothica
 
 **1.2.31**  Tell the deeds of the righteous-souled, virtuous, wise, and steadfast Rāma as you heard them from Nārada.
 
-**1.2.32**  What the wise Rāma did — both in private and in public — together with Saumitrī and with all the Rākṣasas in every respect,
+**1.2.32**  What the wise Rāma did — both in private and in public — together with Saumitri and with all the Rākṣasas in every respect,
 
 **1.2.33**  And what befell the Vaidehī, openly or in secret — all of that which is not yet known shall become known to you.
 
@@ -288,7 +288,7 @@ translator: thothica
 
 **1.3.14**  The visit to Śabarī, the meeting with Hanūmān, and the lamentation of the great-souled Rāghava at Pampā —
 
-**1.3.15**  The going to Ṛṣyamūka, the meeting with Sugrīva, the establishment of trust, the alliance, and the conflict between Vāli and Sugrīva —
+**1.3.15**  The going to Ṛśyamūka, the meeting with Sugrīva, the establishment of trust, the alliance, and the conflict between Vālī and Sugrīva —
 
 **1.3.16**  The destruction of Vālin, the installation of Sugrīva, the pacification of Tārā's lamentation, and the sojourn of the rainy season nights —
 
@@ -748,7 +748,7 @@ translator: thothica
 
 **1.12.19**  '— who is versed in all the scriptures and likewise versed in the Vedas. Bring that greatly fortunate one, yourself, with due honour; knowing him to be an old kinsman, I speak of him first to you.'
 
-**1.12.20**  'Similarly, the lord of Kāśī — affectionate, ever speaking pleasantly, of good conduct and god-like in appearance — bring him yourself.'
+**1.12.20**  'Similarly, the lord of Kāśi — affectionate, ever speaking pleasantly, of good conduct and god-like in appearance — bring him yourself.'
 
 **1.12.21**  'Also, the aged and most righteous king of the Kekayas, father-in-law of this lion among kings — bring him here with his son.'
 
@@ -1224,7 +1224,7 @@ translator: thothica
 
 **1.21.5**  As the great-souled one set forth, there was a great shower of flowers, the sound of the divine kettledrum, and the reverberation of conch shells and drums.
 
-**1.21.6**  Viśvāmitra went ahead; behind him followed the greatly renowned Rāma, bearing the kākapakṣa locks of youth, bow in hand; and Saumitrī (Lakṣmaṇa) followed him in turn.
+**1.21.6**  Viśvāmitra went ahead; behind him followed the greatly renowned Rāma, bearing the kākapakṣa locks of youth, bow in hand; and Saumitri (Lakṣmaṇa) followed him in turn.
 
 **1.21.7**  Adorned with quivers, bows in hand, illuminating all ten directions, the two noble princes followed the great-souled Viśvāmitra like two three-headed serpents, like the two Aśvins attending Brahmā.
 
@@ -1442,11 +1442,11 @@ translator: thothica
 
 **1.26.5**  "Then, O hero, the Dharmacakra and likewise the Kālacakra; the Viṣṇucakra, which is extremely fierce, and likewise the Indracakra."
 
-**1.26.6**  "The Vajra weapon, O best of men, and likewise Śiva's excellent Śūla; the Brahmaśiras weapon, and also the Aiṣīka, O Rāghava—I give to you, O mighty-armed one, the incomparable Brāhma weapon."
+**1.26.6**  "The Vajra weapon, O best of men, and likewise Śiva's excellent Śūla; the Brahmaśiras weapon, and also the Aiṣīka, O Rāghava—I give to you, O mighty-armed one, the incomparable Brahmā weapon."
 
 **1.26.7**  "Two maces also, O Kākutstha—Modakī and Śikharī, both blazing—I bestow upon you, O tiger among men, son of a king."
 
-**1.26.8**  "The Dharmapāśa, O Rāma, and likewise the Kālapāśa, and also the incomparable Vāruṇa noose-weapon—these I give you."
+**1.26.8**  "The Dharmapāśa, O Rāma, and likewise the Kālapāśa, and also the incomparable Varuṇa noose-weapon—these I give you."
 
 **1.26.9**  "Two thunderbolts I bestow upon you, O delight of the Raghu clan—one dry and one wet."
 
@@ -3778,7 +3778,7 @@ translator: thothica
 
 **1.74.7**  "Born in the lineage of the Bhārgavas, distinguished for their vows of sacred study, you made a promise to the thousand-eyed Indra and laid down your weapons."
 
-**1.74.8**  "You, being devoted to dharma, gave the earth to Kāśyapa and retired to the forest — you whose dwelling was established by Mahendra."
+**1.74.8**  "You, being devoted to dharma, gave the earth to Kaśyapa and retired to the forest — you whose dwelling was established by Mahendra."
 
 **1.74.9**  "You have come, O great sage, for my total ruin; for if but one Rāma is slain, we cannot all of us survive."
 
@@ -3812,7 +3812,7 @@ translator: thothica
 
 **1.74.24**  "Hearing of my father's wholly undeserved and terrible slaying, in wrath I exterminated the kṣatriyas time and again, generation after generation."
 
-**1.74.25**  "Having conquered the entire earth, O Rāma, at the conclusion of the sacrifice I then gave it as the sacrificial fee to the great-souled Kāśyapa, as the fruit of that pious act."
+**1.74.25**  "Having conquered the entire earth, O Rāma, at the conclusion of the sacrifice I then gave it as the sacrificial fee to the great-souled Kaśyapa, as the fruit of that pious act."
 
 **1.74.26**  "Having given the earth, I took up abode on mount Mahendra, endowed with the power of asceticism; then I heard of the breaking of the bow, and I came here swiftly."
 
@@ -3844,9 +3844,9 @@ translator: thothica
 
 **1.75.12**  Stupefied, his power of valour struck down by Rāma's splendour, the son of Jamadagni slowly and softly spoke to Rāma of lotus-petal eyes.
 
-**1.75.13**  "When I previously gave the earth to Kāśyapa, Kāśyapa told me: 'You must not dwell within my domain.'"
+**1.75.13**  "When I previously gave the earth to Kaśyapa, Kaśyapa told me: 'You must not dwell within my domain.'"
 
-**1.75.14**  "Honouring the word of my guru, this is the vow I made to Kāśyapa, O Kākutstha: 'I shall not spend even a single night upon the earth.'"
+**1.75.14**  "Honouring the word of my guru, this is the vow I made to Kaśyapa, O Kākutstha: 'I shall not spend even a single night upon the earth.'"
 
 **1.75.15**  "Therefore, O hero Rāghava, you should not destroy this my freedom of movement; swift as thought I shall depart to Mahendra, the greatest of mountains."
 

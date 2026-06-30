@@ -454,7 +454,7 @@ translator: thothica
 
 **5.2.27**  "No scope for conciliation is found among the rākṣasas; no scope for bribery or sowing dissension is visible; nor even for battle."
 
-**5.2.28**  "The passage belongs only to four of the great-souled monkeys: the son of Vāli, Nīla, myself, and the wise king."
+**5.2.28**  "The passage belongs only to four of the great-souled monkeys: the son of Vālī, Nīla, myself, and the wise king."
 
 **5.2.29**  "Until I learn of Vaidehī — whether she lives or not — I shall deliberate only after seeing Janaka's daughter."
 
@@ -1268,7 +1268,7 @@ translator: thothica
 
 **5.12.2**  Standing on the enclosure wall, every limb thrilled with joy, that great monkey beheld in the early spring various trees flowering at their crests.
 
-**5.12.3**  Śāla trees, aśoka trees, bhavya trees, beautifully blossoming campaka trees, uddālaka trees, nāga trees, mango trees, and kapimukha trees as well —
+**5.12.3**  Śala trees, aśoka trees, bhavya trees, beautifully blossoming campaka trees, uddālaka trees, nāga trees, mango trees, and kapimukha trees as well —
 
 **5.12.4**  — he leaped into that tree-garden dense with mango groves and entwined with hundreds of creepers, like an iron arrow loosed from a bowstring.
 
@@ -1822,7 +1822,7 @@ translator: thothica
 
 **5.19.28**  "In battle against those two, your wrestling hold would be as unstable as the seizure of Indra's arms by Vṛtra — only to be overcome by a single arm."
 
-**5.19.29**  "That lord of mine, Rāma, together with Saumitrī, will swiftly take your life with his arrows, as the sun dries up a small pool of water."
+**5.19.29**  "That lord of mine, Rāma, together with Saumitri, will swiftly take your life with his arrows, as the sun dries up a small pool of water."
 
 **5.19.30**  "Whether you go to Kubera's mountain or to Vālin's realm, or enter the court of King Varuṇa — you will assuredly not escape from the son of Daśaratha, as a great tree struck down by time does not escape the thunderbolt."
 
@@ -2706,7 +2706,7 @@ translator: thothica
 
 **5.33.73**  "O Vaidehī, there is a mountain called Kauraja, the best of mountains; from there the monkey Kesarī went to the mountain Gokarṇa."
 
-**5.33.74**  "And that great monkey — my father — was seen by divine sages, as he destroyed the abode of Śamba at a sacred ford of the lord of rivers."
+**5.33.74**  "And that great monkey — my father — was seen by divine sages, as he destroyed the abode of Sāmba at a sacred ford of the lord of rivers."
 
 **5.33.75**  "I was born in the field of that monkey by the Wind-god, O Maithilī; and I am known in the world as Hanūmān by my own deeds. And O Vaidehī, the virtues of your husband have been spoken by me for the sake of establishing trust."
 
@@ -2718,7 +2718,7 @@ translator: thothica
 
 **5.33.79**  Then Hanūmān spoke a further word to that fair-visaged one.
 
-**5.33.80**  "When that demon was slain in battle — Śamba's abode destroyed by the foremost monkey at the urging of the great sages — then was I born of the Wind-god's power, O Maithilī; and a monkey equal to him in might am I."
+**5.33.80**  "When that demon was slain in battle — Sāmba's abode destroyed by the foremost monkey at the urging of the great sages — then was I born of the Wind-god's power, O Maithilī; and a monkey equal to him in might am I."
 
 **5.34.1**  Then that great-spirited Hanūmān, son of the wind-god, spoke again with humble words, for the sake of convincing Sītā.
 
@@ -2816,7 +2816,7 @@ translator: thothica
 
 **5.35.3**  "Whether in the vastness of prosperity or in the most terrible adversity, fate drags a man about like one bound by a rope."
 
-**5.35.4**  "Fate for living beings is surely irresistible, O best of monkeys — behold Saumitrī, and me, and Rāma, all bewildered by calamities."
+**5.35.4**  "Fate for living beings is surely irresistible, O best of monkeys — behold Saumitri, and me, and Rāma, all bewildered by calamities."
 
 **5.35.5**  "When will Rāghava reach the far shore of this sorrow, like one exhausted from swimming, whose boat has been wrecked in the ocean?"
 
@@ -3936,9 +3936,9 @@ translator: thothica
 
 **5.51.30**  "It is seen to have great flames, yet it causes me no pain; it is stationed at the tip of my tail like a touch of cool snow."
 
-**5.51.31**  "Or rather, this is clearly the same wonder that I witnessed as I flew — through Rāma's power — when Mainākā appeared in the ocean, lord of rivers."
+**5.51.31**  "Or rather, this is clearly the same wonder that I witnessed as I flew — through Rāma's power — when Maināka appeared in the ocean, lord of rivers."
 
-**5.51.32**  "If the ocean and the wise Mainākā showed such solicitude for Rāma's purpose, why would fire not do the same?"
+**5.51.32**  "If the ocean and the wise Maināka showed such solicitude for Rāma's purpose, why would fire not do the same?"
 
 **5.51.33**  "By reason of Sītā's compassion, by the power of Rāghava, and by my father's friendship with him — Pāvaka does not burn me."
 
@@ -4390,7 +4390,7 @@ translator: thothica
 
 **5.56.109**  "For it was with great confidence that this mighty-armed, mighty one had been sent by Rāvaṇa with heroes intoxicated with pride.
 
-**5.56.110**  "But he bound me with a Brāhma weapon with great speed; then the rākṣasas there bound me with ropes.
+**5.56.110**  "But he bound me with a Brahmā weapon with great speed; then the rākṣasas there bound me with ropes.
 
 **5.56.111**  "And taking hold of me, they led me to the presence of Rāvaṇa; being seen, I was addressed by the evil-souled Rāvaṇa.
 
@@ -4402,7 +4402,7 @@ translator: thothica
 
 **5.56.115**  "'And hear also the message I convey to you — the lord of monkeys speaks to you, O lord of rākṣasas, a composed word, wholesome in dharma, artha, and kāma, beneficial as beneficial food.'
 
-**5.56.116**  "'While I was dwelling on mount Ṛṣyamūka abounding in trees, Rāma the warrior, valiant in battle, came to friendship with me.'
+**5.56.116**  "'While I was dwelling on mount Ṛśyamūka abounding in trees, Rāma the warrior, valiant in battle, came to friendship with me.'
 
 **5.56.117**  "'He told me, O king: My wife has been abducted by a rākṣasa — for that reason you should make a compact with me for assistance.'
 

@@ -1164,7 +1164,7 @@ translator: thothica
 
 **13.14.16**  "Living on air and wasting away for twelve years, by propitiating the Lord of creatures, you begot upon Rukmiṇī her sons."
 
-**13.14.17**  "Cārudeṣṇa and Sucāru, Cāruveṣa and Yaśodhara, Cāruśravas and Cāruyaśas, Pradyumna, and Śaṃbhu as well—"
+**13.14.17**  "Cārudeṣṇa and Sucāru, Cāruveṣa and Yaśodhara, Cāruśravas and Cāruyaśas, Pradyumna, and Śambhu as well—"
 
 **13.14.18**  "Even as those sons of fair prowess were begotten of Rukmiṇī, so grant to me also a son endowed with strength."
 
@@ -1604,7 +1604,7 @@ translator: thothica
 
 **13.15.37**  Creation, transformation, dissolution, Primal Nature, the imperishable source; the supreme womb of the mind and inherent nature, eternal; the unmanifest, O purifier, O all-pervading one of a thousand rays and golden hue.
 
-**13.15.38**  You are the origin of all the qualities, the refuge of life; the Great Self, intelligence, Brahmā, the Universe, Śaṃbhu, the self-existent one.
+**13.15.38**  You are the origin of all the qualities, the refuge of life; the Great Self, intelligence, Brahmā, the Universe, Śambhu, the self-existent one.
 
 **13.15.39**  Intellect, wisdom, perception, awareness, fame, steadfastness, and memory—by these synonymous words you, the Great Self, are conceived.
 
@@ -2964,7 +2964,7 @@ translator: thothica
 
 **13.26.63**  This one should impart to the twice-born, to the virtuous, or to one's own son; and one may whisper it in the ear of friends, or of a devoted disciple.
 
-**13.26.64**  This Aṅgiras of great austerity gave to Gautama, with the sanction of his teachers and of the wise Kāśyapa.
+**13.26.64**  This Aṅgiras of great austerity gave to Gautama, with the sanction of his teachers and of the wise Kaśyapa.
 
 **13.26.65**  This is the supreme prayer of the great purifying sages; reciting it, ever risen from sleep, a man becomes spotless and attains heaven.
 
@@ -2978,7 +2978,7 @@ translator: thothica
 
 **13.27.4**  Atri, Vasiṣṭha, and Bhṛgu, Pulastya, Pulaha, Kratu, Aṅgiras, Gautama, Agastya, Sumati, Svāyu the self-possessed,
 
-**13.27.5**  Viśvāmitra, Sthūlaśiras, Saṃvarta, Pramati, Dama, Uśanas, Bṛhaspati, Vyāsa, Cyavana, Kāśyapa, Dhruva,
+**13.27.5**  Viśvāmitra, Sthūlaśiras, Saṃvarta, Pramati, Dama, Uśanas, Bṛhaspati, Vyāsa, Cyavana, Kaśyapa, Dhruva,
 
 **13.27.6**  Durvāsas and Jamadagni, Mārkaṇḍeya and Gālava, Bharadvāja and Raibhya, Yavakrīta and likewise Trita,
 
@@ -4194,7 +4194,7 @@ translator: thothica
 
 **13.44.40**  Then I myself, O king, desiring to know the right usage, spoke these words again and again: "I wish to understand the established practice in its very truth."
 
-**13.44.41**  When I had spoken thus, O great king, my father Bāhlīka, foremost of those who uphold dharma, made this reply.
+**13.44.41**  When I had spoken thus, O great king, my father Bāhlika, foremost of those who uphold dharma, made this reply.
 
 **13.44.42**  "If for you the matter is settled by the bride-price and not by the taking of the hand, then let her for whom the price has been received attend upon the husband she has chosen, even up to the parched-grain rite."
 
@@ -4418,7 +4418,7 @@ translator: thothica
 
 **13.47.60**  Even among sons of equal standing the eldest shall take the one preeminent share, the middle son a middling portion, and the youngest the least.
 
-**13.47.61**  Thus, in all the births, those of the same class as the father have attained the foremost rank. This too the great sage Kāśyapa, son of Marīci, declared.
+**13.47.61**  Thus, in all the births, those of the same class as the father have attained the foremost rank. This too the great sage Kaśyapa, son of Marīci, declared.
 
 **13.48.1**  Yudhiṣṭhira said: Whether from the pursuit of gain, or from desire, or from uncertainty regarding the classes, or even from ignorance of the classes, there arises a confusion of classes.
 
@@ -5444,7 +5444,7 @@ translator: thothica
 
 **13.61.30**  As the waxing of the moon comes day by day, so does the gift made of land increase with every crop.
 
-**13.61.31**  On this the knowers of old recite the songs sung by the Earth herself, on hearing which the son of Jamadagni gave the earth to Kāśyapa.
+**13.61.31**  On this the knowers of old recite the songs sung by the Earth herself, on hearing which the son of Jamadagni gave the earth to Kaśyapa.
 
 **13.61.32**  'Receive me, give me; having given me, you shall win me again—in this world and in the next, and thereafter once more in birthlessness.'
 
@@ -7320,7 +7320,7 @@ translator: thothica
 
 **13.85.40**  The sons of Kavi, who is Brahmā's, are also declared to be of Varuṇa's line: eight of them, endowed with the qualities arising at their birth, knowers of Brahman, blessed.
 
-**13.85.41**  Kavi and Kāvya and Viṣṇu, and the wise Uśanas likewise, and Bhṛgu, and Virajas, and Kāśī, and Ugra the knower of dharma.
+**13.85.41**  Kavi and Kāvya and Viṣṇu, and the wise Uśanas likewise, and Bhṛgu, and Virajas, and Kāśi, and Ugra the knower of dharma.
 
 **13.85.42**  These are the eight sons of Kavi; by them the whole world is spread out; for these are Lords of Creatures, by whom these creatures came to be.
 
@@ -7450,7 +7450,7 @@ translator: thothica
 
 **13.87.1**  Yudhiṣṭhira said: The duty of the four orders, O righteous one, has been declared by you, O sinless lord; even so now declare to me in full the rite of the śrāddha, O king.
 
-**13.87.2**  Vaiśaṃpāyana said: Thus addressed by Yudhiṣṭhira, Bhīṣma the son of Śāntanu then set about to expound this whole rite of the śrāddha.
+**13.87.2**  Vaiśaṃpāyana said: Thus addressed by Yudhiṣṭhira, Bhīṣma the son of Śaṃtanu then set about to expound this whole rite of the śrāddha.
 
 **13.87.3**  Bhīṣma said: Hearken attentively, O king, to this auspicious ordinance of the śrāddha—wealth-giving, fame-bestowing, conducive to offspring, the sacrifice to the fathers, O scorcher of foes.
 
@@ -11692,7 +11692,7 @@ translator: thothica
 
 **13.135.17**  the All; Śarva; the Auspicious; the Steadfast Pillar; the Origin of beings; the imperishable Treasure; the Source; the Bringer-into-being; the Sustainer; the Wellspring; the Lord; the Sovereign;
 
-**13.135.18**  the Self-existent; Śaṃbhu; the Sun; the Lotus-eyed; the Mighty-voiced; he without beginning or end; the Upholder; the Ordainer; the Highest of supports;
+**13.135.18**  the Self-existent; Śambhu; the Sun; the Lotus-eyed; the Mighty-voiced; he without beginning or end; the Upholder; the Ordainer; the Highest of supports;
 
 **13.135.19**  the Immeasurable; Hṛṣīkeśa, lord of the senses; the Lotus-naveled; Lord of the immortals; the All-maker; Manu; Tvaṣṭṛ the shaper; the Most Massive; the Ancient; the Fixed;
 
@@ -11800,7 +11800,7 @@ translator: thothica
 
 **13.135.71**  He is Mahāvarāha, the great boar; Govinda, the finder of the earth; Suṣeṇa, of goodly hosts; Kanakāṅgadī, adorned with golden armlets; Guhya, the secret one; Gabhīra, the profound; Gahana, the unfathomable; Gupta, the hidden; and Cakragadādhara, the bearer of discus and mace.
 
-**13.135.72**  He is Vedhā, the creator; Svāṅga, who is his own instrument; Ajita, the unconquered; Kṛṣṇa, the dark and all-attracting; Dṛḍha, the firm; Saṃkarṣaṇa, who draws all beings into himself; Acyuta, the unfallen; Varuṇa, who gathers his rays at evening; Vāruṇa, son of Varuṇa as Vasiṣṭha; Vṛkṣa, the tree that stands unshaken; Puṣkarākṣa, the lotus-eyed; and Mahāmanas, of vast mind.
+**13.135.72**  He is Vedhā, the creator; Svāṅga, who is his own instrument; Ajita, the unconquered; Kṛṣṇa, the dark and all-attracting; Dṛḍha, the firm; Saṃkarṣaṇa, who draws all beings into himself; Acyuta, the unfallen; Varuṇa, who gathers his rays at evening; Varuṇa, son of Varuṇa as Vasiṣṭha; Vṛkṣa, the tree that stands unshaken; Puṣkarākṣa, the lotus-eyed; and Mahāmanas, of vast mind.
 
 **13.135.73**  He is Bhagavān, the blessed lord of the six excellences; Bhagahā, who withdraws those powers at dissolution; Nandī, ever joyful; Vanamālī, wearer of the forest garland; Halāyudha, who wields the plow as Balarāma; Āditya, the son of Aditi; Jyotirāditya, the radiance within the orb of the sun; Sahiṣṇu, the all-enduring; and Gatisattama, the supreme refuge.
 
@@ -11814,7 +11814,7 @@ translator: thothica
 
 **13.135.78**  He is Śrīda, the giver of fortune; Śrīśa, lord of Śrī; Śrīnivāsa, the abode of Śrī; Śrīnidhi, the treasury of glory; Śrīvibhāvana, the dispenser of fortune to all; Śrīdhara, who bears Śrī upon his breast; Śrīkara, the maker of prosperity; Śreyas, the highest good; Śrīmān, the glorious; and Lokatrayāśraya, the refuge of the three worlds.
 
-**13.135.79**  He is Svakṣa, of beautiful eyes; Svaṅga, of fair limbs; Śatānanda, of a hundred joys; Nandi, supreme bliss; Jyotirgaṇeśvara, lord of the host of luminaries; Vijitātmā, who has conquered the self; Vidheyātmā, ever at his own command; Satkīrti, of true renown; and Chinnasaṃśaya, in whom all doubt is severed.
+**13.135.79**  He is Svakṣa, of beautiful eyes; Svaṅga, of fair limbs; Śatānanda, of a hundred joys; Nandī, supreme bliss; Jyotirgaṇeśvara, lord of the host of luminaries; Vijitātmā, who has conquered the self; Vidheyātmā, ever at his own command; Satkīrti, of true renown; and Chinnasaṃśaya, in whom all doubt is severed.
 
 **13.135.80**  He is Udīrṇa, who transcends all beings; Sarvataścakṣus, whose eyes are turned in every direction; Anīśa, over whom there is no lord; Śāśvata, the everlasting; Sthira, the steadfast; Bhūśaya, who reposes upon the earth and the waters; Bhūṣaṇa, the ornament of the worlds; Bhūti, pure existence and prosperity; Viśoka, the sorrowless; and Śokanāśana, the destroyer of grief.
 

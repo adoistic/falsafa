@@ -131,7 +131,7 @@ translator: thothica
 
 **19.4.11**  May the waters, invoked, the active ones, release from here for guidance — may they immediately come to pass.
 
-**19.4.12**  At the impulsion of the divine Savitr, human beings perform their work — may these waters and herbs be propitious to us.
+**19.4.12**  At the impulsion of the divine Savitṛ, human beings perform their work — may these waters and herbs be propitious to us.
 
 **19.4.13**  Of your hundred channels and of your thousand veins, those that stand in the middle — together they have come to rest at the extremities.
 
@@ -183,7 +183,7 @@ translator: thothica
 
 **19.6.7**  Indra made this one firm with a firm oblation; in his favor Soma spoke out, and so did Brahmaṇaspati here.
 
-**19.6.8**  May the divine Savitr hold your realm firm, may divine Bṛhaspati hold it firm; may Indra and Agni hold your realm, the unshaken, firmly in place.
+**19.6.8**  May the divine Savitṛ hold your realm firm, may divine Bṛhaspati hold it firm; may Indra and Agni hold your realm, the unshaken, firmly in place.
 
 **19.6.9**  Firm is the sky, firm is the earth, firm are the oceans and the mountains; firm indeed by sacred law, firm — firm is this king of the clans.
 
@@ -379,7 +379,7 @@ translator: thothica
 
 **19.13.2**  Whatever martial blow seeks to slay you today and cannot be lifted — around that we wrap the two arms of Indra on all sides.
 
-**19.13.3**  We wrap the two arms of Indra, the protector, all around; may he protect us. O divine Savitr and King Soma, make us well-minded for our well-being.
+**19.13.3**  We wrap the two arms of Indra, the protector, all around; may he protect us. O divine Savitṛ and King Soma, make us well-minded for our well-being.
 
 **19.13.4**  The gods gave it, the Sun gave it, Heaven gave it, the Earth gave it; all the Sarasvatīs, of one mind, gave the antidote to poison.
 
@@ -421,7 +421,7 @@ translator: thothica
 
 **19.14.6**  Dhātṛ has upheld the earth; Dhātṛ has upheld the sky and the sun; may Dhātṛ bestow upon this unmarried girl a desirable husband.
 
-**19.14.7**  The waters sent sweetness to me; the Sun brought me radiant desire; for me the gods and all the heat-born ones — for me the god Savitr has established expanse.
+**19.14.7**  The waters sent sweetness to me; the Sun brought me radiant desire; for me the gods and all the heat-born ones — for me the god Savitṛ has established expanse.
 
 **19.14.8**  I have upheld the earth and the sky; I brought forth the seven rivers together; whatever truth and falsehood I speak — I encompass all speech and all desire.
 
@@ -749,7 +749,7 @@ translator: thothica
 
 **19.24.9**  May Bṛhaspati the Āṅgirasa acknowledge my intention and this speech; he of whom the gods became divinities — may Desire with its good guidance follow after us.
 
-**19.24.10**  Now let us invoke the mind with a hymn of praise to Nārāśaṃsa, and with the thoughts of the fathers.
+**19.24.10**  Now let us invoke the mind with a hymn of praise to Narāśaṃsa, and with the thoughts of the fathers.
 
 **19.24.11**  May the mind come back to us again, for will, for discernment, for living — and for long beholding of the sun.
 
