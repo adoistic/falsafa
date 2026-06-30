@@ -384,7 +384,7 @@ translator: thothica
 
 **6.17.9**  Then even Heaven trembled away from thy bolt in fear at thine own wrath. When Indra smote the serpent as it surged, the all-life-long one struck it down for it to lie.
 
-**6.17.10**  Then Tvaṣṭr turned for thee, O great and fierce one, the bolt of a thousand points and a hundred angles. With it thou didst squeeze together the serpent, willingly restless and roaring, O thou of the Soma-strainer.
+**6.17.10**  Then Tvaṣṭṛ turned for thee, O great and fierce one, the bolt of a thousand points and a hundred angles. With it thou didst squeeze together the serpent, willingly restless and roaring, O thou of the Soma-strainer.
 
 **6.17.11**  Him whom all the Maruts together strengthened, for whom a hundred buffaloes were cooked for thee, O Indra — Pūṣan and Viṣṇu, running the three streams, poured the Vṛtra-slaying, intoxicating Soma-shoot for him.
 
@@ -890,7 +890,7 @@ translator: thothica
 
 **6.45.32**  He whose auspicious gift, thousandfold, runs swift as wind — he is bountiful for immediate giving.
 
-**6.45.33**  This well the Arya singers, all the bards, always proclaim for us — Bṛbu, the giver of thousands, the patron who wins thousands.
+**6.45.33**  This well the Ārya singers, all the bards, always proclaim for us — Bṛbu, the giver of thousands, the patron who wins thousands.
 
 **6.46.1**  Thee alone, O Indra, we bards invoke for the winning of the prize; thee, the true lord, in the battles with the Vṛtras do men call upon; thee for the horses at the race.
 
@@ -966,7 +966,7 @@ translator: thothica
 
 **6.47.23**  Ten horses, ten purses, ten garments with extra portions of food, ten lumps of gold — these I received from Divodāsa.
 
-**6.47.24**  Ten chariots with front-horses, a hundred cows to the Atharvans — Aśvatha gave to Pāyu.
+**6.47.24**  Ten chariots with front-horses, a hundred cows to the Atharvans — Aśvattha gave to Pāyu.
 
 **6.47.25**  Sārñjaya worshipped the Bharadvājas, who possessed the great bounty dear to all peoples.
 
@@ -1026,7 +1026,7 @@ translator: thothica
 
 **6.48.22**  Heaven was born but once; Earth was born but once; what the dappled cow milked once — that milk — no other is born after it.
 
-**6.49.1**  I praise with newer hymns the folk of good ordinance — Mitrā-Varuṇā who bestow favour; may they come hither, may they hear here: the mighty-ruling Varuṇa, Mitra, and Agni.
+**6.49.1**  I praise with newer hymns the folk of good ordinance — Mitra-Varuṇa who bestow favour; may they come hither, may they hear here: the mighty-ruling Varuṇa, Mitra, and Agni.
 
 **6.49.2**  We worship Agni, lauded at sacrifice after sacrifice, the undaunted Messenger between the two young goddesses — the child of Heaven, the son of Strength, the red banner of the sacrifice.
 
@@ -1328,7 +1328,7 @@ translator: thothica
 
 **6.62.7**  O bulls, with your victorious, chariot-going power, cleave through the mountain; hear the invocation of Vadhrimatī; honouring her wish, you two swelled the cow for Śayave — thus moved, you two sustainers showed favour.
 
-**6.62.8**  Whatever sin there may be from long ago in the two worlds, whatever offence against the gods or among mortals — that, O Ādityas, Vasus, and Rudrā groups, joined together for protection, lay as burning guilt.
+**6.62.8**  Whatever sin there may be from long ago in the two worlds, whatever offence against the gods or among mortals — that, O Ādityas, Vasus, and Rudra groups, joined together for protection, lay as burning guilt.
 
 **6.62.9**  He who appoints those two kings in due season — Mitra and Varuṇa take note of the region; for the deep demon of the dark they place his weapon — even for him who speaks deceitfully.
 

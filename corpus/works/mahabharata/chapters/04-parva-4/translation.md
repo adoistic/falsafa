@@ -244,33 +244,33 @@ translator: thothica
 
 **4.4.44**  Dear ones, for this one year, behave thus and desire to prosper; then, having reached your own domain, you will move about as you please.
 
-**4.4.45**  Yudhishthira said: We have been instructed; good fortune to you. No one could say these things save our mother Kunti and the great-minded Vidura.
+**4.4.45**  Yudhiṣṭhira said: We have been instructed; good fortune to you. No one could say these things save our mother Kuntī and the great-minded Vidura.
 
 **4.4.46**  Whatever must now be done immediately, please do it — for our deliverance from this sorrow, for our departure, and for victory.
 
-**4.4.47**  Vaishampayana said: Thus addressed by the king, Dhaumya, the foremost of twice-born men, duly performed all that is prescribed for a departure.
+**4.4.47**  Vaiśaṃpāyana said: Thus addressed by the king, Dhaumya, the foremost of twice-born men, duly performed all that is prescribed for a departure.
 
 **4.4.48**  He kindled their fires and made offerings with mantras for the increase of prosperity and abundance, and for the conquest of the earth.
 
-**4.4.49**  Having circumambulated the fire and honored the brahmins who were rich in austerity, with Yajnaseni (Draupadi) at their head, the six of them then set out.
+**4.4.49**  Having circumambulated the fire and honored the brahmins who were rich in austerity, with Yājñasenī (Draupadī) at their head, the six of them then set out.
 
-**4.5.1**  Vaishampayana said: Those heroes, with their swords buckled on, their quivers of arrows strapped in place, and their leather finger-guards bound, went along the Kalindi river.
+**4.5.1**  Vaiśaṃpāyana said: Those heroes, with their swords buckled on, their quivers of arrows strapped in place, and their leather finger-guards bound, went along the Kālindī river.
 
 **4.5.2**  Then those archers proceeded on foot along the southern bank, dwelling in mountain fastnesses and forest strongholds.
 
-**4.5.3**  Those mighty archers, great bowmen, piercing various kinds of deer, passed with Dasharna to the north of them and Panchala to the south.
+**4.5.3**  Those mighty archers, great bowmen, piercing various kinds of deer, passed with Dasharna to the north of them and Pāñcāla to the south.
 
-**4.5.4**  The Pandavas passed between Yakrilloma and Shurasena, speaking as hunters, and entered the territory of Matsya from the forest.
+**4.5.4**  The Pāṇḍavas passed between Yakrilloma and Śūrasena, speaking as hunters, and entered the territory of Matsya from the forest.
 
-**4.5.5**  Then, having reached the inhabited country, Krishna (Draupadi) said to the king: 'Look — plowed fields are visible on every side, and various kinds of fields can be seen.'
+**4.5.5**  Then, having reached the inhabited country, Kṛṣṇa (Draupadī) said to the king: 'Look — plowed fields are visible on every side, and various kinds of fields can be seen.'
 
-**4.5.6**  'Clearly the capital of Virata must be far away. Let us spend the night here — my fatigue is great.'
+**4.5.6**  'Clearly the capital of Virāṭa must be far away. Let us spend the night here — my fatigue is great.'
 
-**4.5.7**  Yudhishthira said: Dhananjaya, O Bharata, take up Panchali and carry her; we shall dwell in the capital, freed at last from forest life.
+**4.5.7**  Yudhiṣṭhira said: Dhanañjaya, O Bharata, take up Pāñcālī and carry her; we shall dwell in the capital, freed at last from forest life.
 
-**4.5.8**  Vaishampayana said: Arjuna quickly took Draupadi and, like a lordly elephant, having reached the vicinity of the city, Arjuna set her down.
+**4.5.8**  Vaiśaṃpāyana said: Arjuna quickly took Draupadī and, like a lordly elephant, having reached the vicinity of the city, Arjuna set her down.
 
-**4.5.9**  Having reached the capital, the son of Kunti (Yudhishthira) said to Arjuna: 'Where shall we deposit our weapons and then enter the city?'
+**4.5.9**  Having reached the capital, the son of Kuntī (Yudhiṣṭhira) said to Arjuna: 'Where shall we deposit our weapons and then enter the city?'
 
 **4.5.10**  'If we enter the city armed, dear one, we will without doubt cause alarm among its people.'
 
@@ -282,21 +282,21 @@ translator: thothica
 
 **4.5.14**  'Let us hang our weapons on this tree and go toward the city; thus we shall move about here as we please, O Bharata.'
 
-**4.5.15**  Vaishampayana said: Having spoken thus to the righteous-souled king Yudhishthira, he proceeded to deposit the weapons, O bull of the Bharatas.
+**4.5.15**  Vaiśaṃpāyana said: Having spoken thus to the righteous-souled king Yudhiṣṭhira, he proceeded to deposit the weapons, O bull of the Bharatas.
 
 **4.5.16**  With which bow the son of Kuru's joy, alone on his chariot, had conquered gods, men, and serpents, and had subdued other flourishing kingdoms —
 
-**4.5.17**  — that noble, greatly resounding Gandiva, which strikes fear into enemies and destroys multitudes of foes, the son of Pritha (Arjuna) now unstrung.
+**4.5.17**  — that noble, greatly resounding Gāṇḍīva, which strikes fear into enemies and destroys multitudes of foes, the son of Pṛthā (Arjuna) now unstrung.
 
-**4.5.18**  The bowstring of that bow with which the hero, scorcher of foes, had protected Kurukshetra — its inexhaustible string — Yudhishthira unloosed.
+**4.5.18**  The bowstring of that bow with which the hero, scorcher of foes, had protected Kurukṣetra — its inexhaustible string — Yudhiṣṭhira unloosed.
 
-**4.5.19**  With which bow the mighty Bhimasena had conquered the Panchalas in battle, and alone had repelled many enemies in the conquest of the directions —
+**4.5.19**  With which bow the mighty Bhīmasena had conquered the Pāñcālas in battle, and alone had repelled many enemies in the conquest of the directions —
 
 **4.5.20**  — hearing the twang of which, enemies fled in battle, like the crack of a splitting mountain or the burst of a thunderbolt —
 
-**4.5.21**  — with which the blameless one had seized the king of Sindhu — the bowstring of that bow Bhimasena now removed.
+**4.5.21**  — with which the blameless one had seized the king of Sindhu — the bowstring of that bow Bhīmasena now removed.
 
-**4.5.22**  With which bow the Pandava had conquered the western quarter, the string of that bow the heroic Sankrandana (Arjuna) drew off in battle.
+**4.5.22**  With which bow the Pāṇḍava had conquered the western quarter, the string of that bow the heroic Sankrandana (Arjuna) drew off in battle.
 
 **4.5.23**  With which bow the lord, skilled in southern ways, had conquered the southern quarter — the hero Sahadeva now unstrung that weapon.
 
@@ -306,49 +306,49 @@ translator: thothica
 
 **4.5.26**  And where he saw it had rained across the years he bound them there very tightly with strong cords.
 
-**4.5.27**  The Pandavas also bound there the body of one dead, so that men would stay away from this shami tree even from a distance, smelling the foul stench and thinking 'a corpse is tied here.'
+**4.5.27**  The Pāṇḍavas also bound there the body of one dead, so that men would stay away from this shami tree even from a distance, smelling the foul stench and thinking 'a corpse is tied here.'
 
 **4.5.28**  Those who said 'This is a mother aged a hundred and eighty years — it is not so' would declare: 'This is the family custom practiced by our ancestors too — hanging them upon this tree.'
 
-**4.5.29**  Telling their stories down to the cowherd boys and shepherd lads, the Parthas, scorchers of foes, destroyers of enemies, came near to the city.
+**4.5.29**  Telling their stories down to the cowherd boys and shepherd lads, the Pārthas, scorchers of foes, destroyers of enemies, came near to the city.
 
-**4.5.30**  Jaya, Jayanta, Vijaya, Jayatsena, Jayadbala — these were the secret names that Yudhishthira assigned to them.
+**4.5.30**  Jaya, Jayanta, Vijaya, Jayatsena, Jayadbala — these were the secret names that Yudhiṣṭhira assigned to them.
 
 **4.5.31**  Then, true to their vows, they entered the great city, intending to live unrecognized in the kingdom through the thirteenth year.
 
-**4.6.1**  Vaishampayana said: Then Yudhishthira approached Virata first, the king seated in his assembly hall, having donned lapis-blue golden dice and holding them under his arm wrapped in cloth.
+**4.6.1**  Vaiśaṃpāyana said: Then Yudhiṣṭhira approached Virāṭa first, the king seated in his assembly hall, having donned lapis-blue golden dice and holding them under his arm wrapped in cloth.
 
 **4.6.2**  The lord of men — of great renown, increaser of the Kaurava line, of great majesty, honored by the king of men, unapproachable as a sharp-venomed serpent — approached the glorious lord of the realm.
 
 **4.6.3**  That great bull among men appeared youthful in form, and radiant as an immortal; covered with brilliant rays like the sun, and mighty as fire concealed beneath ash.
 
-**4.6.4**  Seeing the Pandava approach like the moon covered by clouds, the king of Virata asked his ministers, brahmins, and charioteers, as well as the commoners and all who were seated in the assembly: 'Who is this who has come first, and who is this one who now surveys the hall?'
+**4.6.4**  Seeing the Pāṇḍava approach like the moon covered by clouds, the king of Virāṭa asked his ministers, brahmins, and charioteers, as well as the commoners and all who were seated in the assembly: 'Who is this who has come first, and who is this one who now surveys the hall?'
 
 **4.6.5**  'He will not be a mere brahmin — he is the best of men; in my mind I think he must be a lord of the earth. He has no slave, no chariot, no earrings — yet he shines near us like Indra.'
 
 **4.6.6**  'His bodily marks point to this — in my mind it is as if he were a consecrated king. He approaches me free of distress, like a rutting elephant going to a lotus pond.'
 
-**4.6.7**  While he was thus reflecting, that bull among men, Yudhishthira, approached Virata and said: 'Let the emperor know that a brahmin who has lost all his wealth, seeking a livelihood, has come here.'
+**4.6.7**  While he was thus reflecting, that bull among men, Yudhiṣṭhira, approached Virāṭa and said: 'Let the emperor know that a brahmin who has lost all his wealth, seeking a livelihood, has come here.'
 
 **4.6.8**  'Here I wish to dwell near you, blameless one, moving freely as I please, O lord.' The king, filled with joy, immediately replied: 'Welcome! Accept my hospitality.'
 
 **4.6.9**  'I address you gladly, my friend — from whose king's territory have you come here? Tell me truly your clan and name, and what skill or craft you possess.'
 
-**4.6.10**  Yudhishthira said: 'I was formerly a friend of Yudhishthira; I am a brahmin of the Vyaghrapada lineage. I am skilled at throwing dice and gambling. I am known, O Virata, by the name Kanka.'
+**4.6.10**  Yudhiṣṭhira said: 'I was formerly a friend of Yudhiṣṭhira; I am a brahmin of the Vyaghrapada lineage. I am skilled at throwing dice and gambling. I am known, O Virāṭa, by the name Kanka.'
 
-**4.6.11**  Virata said: 'Come then, I grant you whatever boon you desire; command the Matsyas — I am at your disposal. My gamblers who are dear to me have always pleased me; and you, O equal of the gods, are worthy of a kingdom.'
+**4.6.11**  Virāṭa said: 'Come then, I grant you whatever boon you desire; command the Matsyas — I am at your disposal. My gamblers who are dear to me have always pleased me; and you, O equal of the gods, are worthy of a kingdom.'
 
-**4.6.12**  Yudhishthira said: The highest outcome of a contest has been obtained, O lord of the people; nothing whatsoever is lacking, O Matsya. No one whom I have defeated retains the winnings — let this be my boon, by your grace.
+**4.6.12**  Yudhiṣṭhira said: The highest outcome of a contest has been obtained, O lord of the people; nothing whatsoever is lacking, O Matsya. No one whom I have defeated retains the winnings — let this be my boon, by your grace.
 
-**4.6.13**  Virata said: I would strike down even one who should not be struck, should he act against your wish; likewise I would banish Brahmins from the realm. Let the assembled people of the land hear this: as I am master of the kingdom, so too is Kanka.
+**4.6.13**  Virāṭa said: I would strike down even one who should not be struck, should he act against your wish; likewise I would banish Brahmins from the realm. Let the assembled people of the land hear this: as I am master of the kingdom, so too is Kanka.
 
 **4.6.14**  You shall be my companion and friend of equal standing; you shall have abundant garments, drink, and food. You may move freely both within and without at all times, and I have made the door open for you.
 
 **4.6.15**  Those who might speak ill of you, though worn down by want — you need only mention them to me and I will provide them everything, there is no doubt. No fear exists for you in my presence.
 
-**4.6.16**  Vaishampayana said: Having thus obtained the boon and the fellowship of King Virata, that bull among men, that hero, lived there highly honored and happy; and no one at all came to know his true conduct.
+**4.6.16**  Vaiśaṃpāyana said: Having thus obtained the boon and the fellowship of King Virāṭa, that bull among men, that hero, lived there highly honored and happy; and no one at all came to know his true conduct.
 
-**4.7.1**  Vaishampayana said: Then another came, blazing with the splendor of mighty strength, striding with the gait and grace of a lion — he held in his hand a ladle, a stirring rod, and a dark-bladed sword unsheathed and unblemished.
+**4.7.1**  Vaiśaṃpāyana said: Then another came, blazing with the splendor of mighty strength, striding with the gait and grace of a lion — he held in his hand a ladle, a stirring rod, and a dark-bladed sword unsheathed and unblemished.
 
 **4.7.2**  In the guise of a cook, yet blazing with supreme radiance like the sun illumining this world, clad in dark garments and firm as the king of mountains, he came and stood before the king of the Matsyas.
 
@@ -356,23 +356,23 @@ translator: thothica
 
 **4.7.4**  "This is a man I have never seen before, like the sun. Pondering, I cannot fathom his fortune; and pondering likewise his disposition, I cannot to this day arrive at the truth about this bull among men."
 
-**4.7.5**  Then the Pandava, approaching Virata with a seemingly humble appearance yet great in spirit, said: "I am a cook, O king of men, Ballava by name — accept me as a master preparer of dishes."
+**4.7.5**  Then the Pāṇḍava, approaching Virāṭa with a seemingly humble appearance yet great in spirit, said: "I am a cook, O king of men, Ballava by name — accept me as a master preparer of dishes."
 
-**4.7.6**  Virata said: "I do not believe in your being a cook, O giver of honor; for you appear like Indra of a thousand eyes in splendor, in form, and in valor. You shine here as second to none among men, my friend."
+**4.7.6**  Virāṭa said: "I do not believe in your being a cook, O giver of honor; for you appear like Indra of a thousand eyes in splendor, in form, and in valor. You shine here as second to none among men, my friend."
 
-**4.7.7**  Bhima said: "O king of men, I am your cook and servant. I know the art of soups and dishes perfectly — those same dishes that were once tasted with pleasure, O king, by King Yudhishthira in every respect."
+**4.7.7**  Bhīma said: "O king of men, I am your cook and servant. I know the art of soups and dishes perfectly — those same dishes that were once tasted with pleasure, O king, by King Yudhiṣṭhira in every respect."
 
 **4.7.8**  "None is found equal to me in strength; I am ever fond of wrestling, O king, and I have contended with elephants and lions alike. I shall always do what is pleasing to you, O blameless one."
 
-**4.7.9**  Virata said: "Very well, I grant you the boon of the kitchen; work there as you wish, for you speak skillfully. Yet I do not think that work suits you at all — you deserve the earth girdled by the sea."
+**4.7.9**  Virāṭa said: "Very well, I grant you the boon of the kitchen; work there as you wish, for you speak skillfully. Yet I do not think that work suits you at all — you deserve the earth girdled by the sea."
 
 **4.7.10**  "As your desire is, so it shall be done — be foremost for me in the kitchen. And the men who were formerly my appointed ones there — be you, by my decree, their master."
 
-**4.7.11**  Vaishampayana said: Thus Bhima, installed in the kitchen, became the firm favorite of King Virata. He dwelt there, O king, and no ordinary person, nor any attendant there, came to know him.
+**4.7.11**  Vaiśaṃpāyana said: Thus Bhīma, installed in the kitchen, became the firm favorite of King Virāṭa. He dwelt there, O king, and no ordinary person, nor any attendant there, came to know him.
 
-**4.8.1**  Vaishampayana said: Then she, the dark-eyed one, gathering up her tresses whose tips were curled and which were beyond reproach, concealed them along her right side, those soft locks.
+**4.8.1**  Vaiśaṃpāyana said: Then she, the dark-eyed one, gathering up her tresses whose tips were curled and which were beyond reproach, concealed them along her right side, those soft locks.
 
-**4.8.2**  And donning a single great dark and very soiled garment, and taking on the disguise of a sairandhri (a skilled female attendant), Krishnaa moved about as one in distress.
+**4.8.2**  And donning a single great dark and very soiled garment, and taking on the disguise of a sairandhri (a skilled female attendant), Kṛṣṇā moved about as one in distress.
 
 **4.8.3**  Men and women ran toward her as she moved about; and seeing her, they questioned her: "Who are you, and what do you wish to do?"
 
@@ -380,13 +380,13 @@ translator: thothica
 
 **4.8.5**  Because of her beauty, her bearing, and her sweet speech, they did not believe that she was a maidservant come merely for food.
 
-**4.8.6**  But Kaikeyi, the greatly honored wife of Virata, looking out from the palace, caught sight of the daughter of Drupada.
+**4.8.6**  But Kaikeyī, the greatly honored wife of Virāṭa, looking out from the palace, caught sight of the daughter of Drupada.
 
 **4.8.7**  She, having observed her of such beauty, unprotected and clad in but a single garment, called to her and said: "Blessed one, who are you and what do you wish to do?"
 
 **4.8.8**  She said to her: "O queen, I have come as a sairandhri; I wish to serve whoever will take me in."
 
-**4.8.9**  Sudeshna said: "Those who are as you describe yourself — maidservants — are not of such beauty, O lovely one; many send out maidservants and manservants of that kind."
+**4.8.9**  Sudeṣṇā said: "Those who are as you describe yourself — maidservants — are not of such beauty, O lovely one; many send out maidservants and manservants of that kind."
 
 **4.8.10**  "Your ankles are hidden, your thighs compact, three things about you are deep, six are elevated, five are red in their redness, and you speak with the sweet broken voice of a swan."
 
@@ -396,25 +396,25 @@ translator: thothica
 
 **4.8.13**  "Tell me truly, blessed one — you are by no means a maidservant. Are you a yakshi, or a goddess, a gandharvi, or an apsara?"
 
-**4.8.14**  "Are you Alambusa, Mishrakesha, Pundarika, or Malini? Are you Indrani, Varuni, or a goddess of Tvashtr, Dhata, or Prajapati? Those goddesses are renowned among the gods — which of them are you, auspicious one?"
+**4.8.14**  "Are you Alambusa, Mishrakesha, Pundarika, or Malini? Are you Indrāṇī, Varuni, or a goddess of Tvaṣṭṛ, Dhata, or Prajāpati? Those goddesses are renowned among the gods — which of them are you, auspicious one?"
 
-**4.8.15**  Draupadi said: "I am not a goddess, nor a gandharvi, nor an asuri, nor a rakshasi — I am indeed a sairandhri, a free attendant. This is the truth I tell you."
+**4.8.15**  Draupadī said: "I am not a goddess, nor a gandharvi, nor an asuri, nor a rakshasi — I am indeed a sairandhri, a free attendant. This is the truth I tell you."
 
 **4.8.16**  "I know how to dress hair; I grind fragrant unguents well; and I shall weave garlands of varied flowers of the most beautiful kind."
 
-**4.8.17**  "I served Satyabhama, the beloved chief queen of Krishna, and also Krishnaa, the wife of the Pandavas, the one beauty among the Kurus."
+**4.8.17**  "I served Satyabhāmā, the beloved chief queen of Kṛṣṇa, and also Kṛṣṇā, the wife of the Pāṇḍavas, the one beauty among the Kurus."
 
 **4.8.18**  "I move thus from place to place, receiving beautiful garments wherever I can obtain them, and wherever I receive them, there I dwell in happiness."
 
-**4.8.19**  "Malini is the very name the goddess herself gave me. It is thus that I, O goddess Sudeshna, have come to your dwelling."
+**4.8.19**  "Malini is the very name the goddess herself gave me. It is thus that I, O goddess Sudeṣṇā, have come to your dwelling."
 
-**4.8.20**  Sudeshna said: "I would shelter you on my very head — there is no doubt of that — were it not that the king here might pursue you with his entire heart."
+**4.8.20**  Sudeṣṇā said: "I would shelter you on my very head — there is no doubt of that — were it not that the king here might pursue you with his entire heart."
 
 **4.8.21**  "Look at the women of the royal household here in my chambers — they gaze fixedly at you. What man would you not bewitch?"
 
 **4.8.22**  "Look at the trees standing here in my dwelling — even they seem to bow toward you. What man would you not enchant?"
 
-**4.8.23**  "King Virata, seeing your superhuman form, O fair-hipped one, would abandon me, O woman of lovely limbs, and pursue you with his whole mind."
+**4.8.23**  "King Virāṭa, seeing your superhuman form, O fair-hipped one, would abandon me, O woman of lovely limbs, and pursue you with his whole mind."
 
 **4.8.24**  "Whatever man you, O flawless-limbed one with long eyes, were to gaze upon with longing — he would fall under the power of desire."
 
@@ -422,7 +422,7 @@ translator: thothica
 
 **4.8.26**  "As a female crab bears in her womb her own death, so I regard your dwelling here to be of that nature, O bright-smiled one."
 
-**4.8.27**  Draupadi said: "I cannot be obtained by Virata, nor by any other, in any manner. My husbands are five Gandharvas who are young, O lovely one."
+**4.8.27**  Draupadī said: "I cannot be obtained by Virāṭa, nor by any other, in any manner. My husbands are five Gandharvas who are young, O lovely one."
 
 **4.8.28**  "They are sons of a certain great-souled king of the Gandharvas; they protect me always — and so those who behave harshly toward me suffer for it, and so indeed do I."
 
@@ -432,43 +432,43 @@ translator: thothica
 
 **4.8.31**  "Nor can I be led astray by anyone, O beautiful one, for those Gandharvas are fierce in nature and are far more powerful than I."
 
-**4.8.32**  Sudeshna said: "I shall shelter you on such terms as you yourself desire, O Nandini; you shall never be made to touch feet, nor shall you ever in any way touch leavings."
+**4.8.32**  Sudeṣṇā said: "I shall shelter you on such terms as you yourself desire, O Nandini; you shall never be made to touch feet, nor shall you ever in any way touch leavings."
 
-**4.8.33**  Vaishampayana said: Thus Krishnaa was kindly reassured by the wife of Virata; and no one else there, O Janamejaya, came to know her true identity.
+**4.8.33**  Vaiśaṃpāyana said: Thus Kṛṣṇā was kindly reassured by the wife of Virāṭa; and no one else there, O Janamejaya, came to know her true identity.
 
-**4.9.1**  Vaishampayana said: Sahadeva too, donning the best disguise of a cowherd and adopting their manner of speech, then approached Virata.
+**4.9.1**  Vaiśaṃpāyana said: Sahadeva too, donning the best disguise of a cowherd and adopting their manner of speech, then approached Virāṭa.
 
 **4.9.2**  Beholding him approaching and radiant, that bull among men, the king drew near and questioned the delight of the Kurus.
 
 **4.9.3**  "Whose are you, and from where do you come, and what do you wish to do, my friend? I have not seen you before — tell me truly, O bull among men."
 
-**4.9.4**  He, the scorcher of enemies, having reached the king, then spoke with a voice resonant as the great roar of thunderclouds: "I am a Vaishya; Arishtanemi is my name; I was the cattle-counter of the foremost Kurus."
+**4.9.4**  He, the scorcher of enemies, having reached the king, then spoke with a voice resonant as the great roar of thunderclouds: "I am a Vaiśya; Ariṣṭanemi is my name; I was the cattle-counter of the foremost Kurus."
 
-**4.9.5**  "I wish to dwell with you, O best among the Vaishas; for I do not know where those lions among kings, the Parthas, are. It is not possible to live by any other work, and no other king pleases me besides you."
+**4.9.5**  "I wish to dwell with you, O best among the Vaishas; for I do not know where those lions among kings, the Pārthas, are. It is not possible to live by any other work, and no other king pleases me besides you."
 
-**4.9.6**  Virata said: "Whether you are a Brahmin or a Kshatriya, you are endowed with the form of a lord who rules the earth girdled by the sea. Tell me truly, O crusher of enemies — the work of a Vaishya does not suit you at all."
+**4.9.6**  Virāṭa said: "Whether you are a Brahmin or a Kṣatriya, you are endowed with the form of a lord who rules the earth girdled by the sea. Tell me truly, O crusher of enemies — the work of a Vaiśya does not suit you at all."
 
 **4.9.7**  "From whose king's realm have you come here? And what skill have you cultivated? How will you dwell among us always? Tell me also what your wages should be here."
 
-**4.9.8**  Sahadeva said: "The eldest of the five sons of Pandu is King Yudhishthira. His cattle herds numbered eight hundred thousand, in groups of hundreds upon hundreds."
+**4.9.8**  Sahadeva said: "The eldest of the five sons of Pāṇḍu is King Yudhiṣṭhira. His cattle herds numbered eight hundred thousand, in groups of hundreds upon hundreds."
 
-**4.9.9**  "Others numbered ten thousand, and yet others twice as many. I was the cattle-counter of those herds — Tantipala is the name by which I am known."
+**4.9.9**  "Others numbered ten thousand, and yet others twice as many. I was the cattle-counter of those herds — Tantipāla is the name by which I am known."
 
 **4.9.10**  "What has been, what is, and what will be, and whatever tally exists anywhere — there is nothing unknown to me within ten leagues in every direction."
 
-**4.9.11**  "My qualities were well known to that great-souled one, and King Yudhishthira, the Kuru king, was pleased with me."
+**4.9.11**  "My qualities were well known to that great-souled one, and King Yudhiṣṭhira, the Kuru king, was pleased with me."
 
 **4.9.12**  "By this means and that, all known to me, cattle swiftly multiply; no disease whatsoever afflicts them here. These skills reside in me."
 
 **4.9.13**  "I know also the bulls of auspicious marks, O king — those whose urine, when smelled, can cause even a barren cow to give birth."
 
-**4.9.14**  Virata said: "A hundred thousand head of cattle gathered together — of each class and variety, their qualities ascertained — I give to you along with their herdsmen. Let my cattle here be under your care."
+**4.9.14**  Virāṭa said: "A hundred thousand head of cattle gathered together — of each class and variety, their qualities ascertained — I give to you along with their herdsmen. Let my cattle here be under your care."
 
-**4.9.15**  Vaishampayana said: Thus that lord of men, unknown to the king, O lord of the people, dwelt there in comfort. And no others either came to know him in any way; and the king gave him maintenance as he desired.
+**4.9.15**  Vaiśaṃpāyana said: Thus that lord of men, unknown to the king, O lord of the people, dwelt there in comfort. And no others either came to know him in any way; and the king gave him maintenance as he desired.
 
-**4.10.1**  Vaishampayana said: Then another appeared — a great man in the full splendor of his form, wearing women's ornaments, with earrings fastened at his ears on the rampart-top, and wearing long beautiful conch-shell bangles and bracelets.
+**4.10.1**  Vaiśaṃpāyana said: Then another appeared — a great man in the full splendor of his form, wearing women's ornaments, with earrings fastened at his ears on the rampart-top, and wearing long beautiful conch-shell bangles and bracelets.
 
-**4.10.2**  He shook out many long tresses upon his head; great-armed, he moved with the gait of a rut elephant, making the earth tremble with his step; and he came up to Virata near the hall of assembly.
+**4.10.2**  He shook out many long tresses upon his head; great-armed, he moved with the gait of a rut elephant, making the earth tremble with his step; and he came up to Virāṭa near the hall of assembly.
 
 **4.10.3**  The king, beholding him as he came upon the floor of the assembly hall — concealed beneath the appearance of a satra performer, yet a crusher of enemies, blazing with supreme radiance — saw the son of great Indra with the gait of a lord among elephants.
 
@@ -482,17 +482,17 @@ translator: thothica
 
 **4.10.8**  Arjuna said: "I sing, I dance, and I play instruments; I am skilled in dancing, I am expert in singing. Assign me yourself to Uttara — I will be the dancing-teacher of the princess, O king of men."
 
-**4.10.9**  "But this form of mine — what would proclaiming it accomplish? It would only greatly increase grief. Know me, O king of men, as Brihannada — as a son or daughter bereft of both father and mother."
+**4.10.9**  "But this form of mine — what would proclaiming it accomplish? It would only greatly increase grief. Know me, O king of men, as Bṛhannaḍā — as a son or daughter bereft of both father and mother."
 
-**4.10.10**  Virata said: "Very well, Brihannada, I grant you the boon — teach my daughter and those like her to dance. Yet I do not think this work befits you; you deserve the earth girdled by the sea."
+**4.10.10**  Virāṭa said: "Very well, Bṛhannaḍā, I grant you the boon — teach my daughter and those like her to dance. Yet I do not think this work befits you; you deserve the earth girdled by the sea."
 
-**4.10.11**  Vaishampayana said: The king of the Matsyas, having observed Brihannada's skills in the arts, in dancing, and likewise in instrumental music, and having ascertained the certainty of his eunuchhood, then dismissed him to the women's quarter of the princesses.
+**4.10.11**  Vaiśaṃpāyana said: The king of the Matsyas, having observed Bṛhannaḍā's skills in the arts, in dancing, and likewise in instrumental music, and having ascertained the certainty of his eunuchhood, then dismissed him to the women's quarter of the princesses.
 
-**4.10.12**  And the lordly Dhananjaya instructed the daughter of Virata in singing and playing instruments, as well as her companions and attendants; and that Pandava became dear to them all.
+**4.10.12**  And the lordly Dhanañjaya instructed the daughter of Virāṭa in singing and playing instruments, as well as her companions and attendants; and that Pāṇḍava became dear to them all.
 
-**4.10.13**  Thus Dhananjaya, self-controlled, dwelt there under his disguise, doing what was pleasing to those women; and the people there — whether those who moved outside or those within — did not come to know him for what he was.
+**4.10.13**  Thus Dhanañjaya, self-controlled, dwelt there under his disguise, doing what was pleasing to those women; and the people there — whether those who moved outside or those within — did not come to know him for what he was.
 
-**4.11.1**  Vaishampayana said: Then another Pandava, a lord, appeared as King Virata was inspecting his horses. The common people saw him approach like the solar orb freed from cloud.
+**4.11.1**  Vaiśaṃpāyana said: Then another Pāṇḍava, a lord, appeared as King Virāṭa was inspecting his horses. The common people saw him approach like the solar orb freed from cloud.
 
 **4.11.2**  He indeed gazed at the horses here and there; and the king of the Matsyas saw him gazing. Then the slayer of enemies spoke to his attendants: "From where does this man come, shining like an immortal?"
 
@@ -500,47 +500,47 @@ translator: thothica
 
 **4.11.4**  Approaching the king, the slayer of enemies said: 'Victory to you, O lord of the earth, and may all blessings be yours. Yoked to horses, O king, I am always skilled; I shall be your expert groom.'
 
-**4.11.5**  Virata said: 'I give you carriages, wealth, and a dwelling — you are worthy to be my horse-keeper. But where are you from? Whose are you? How did you come here? Tell me fully the skill that you possess.'
+**4.11.5**  Virāṭa said: 'I give you carriages, wealth, and a dwelling — you are worthy to be my horse-keeper. But where are you from? Whose are you? How did you come here? Tell me fully the skill that you possess.'
 
-**4.11.6**  Nakula said: 'Among the five sons of Pandu, the eldest king is Yudhishthira. By him I was formerly appointed over horses, O afflicator of enemies.'
+**4.11.6**  Nakula said: 'Among the five sons of Pāṇḍu, the eldest king is Yudhiṣṭhira. By him I was formerly appointed over horses, O afflicator of enemies.'
 
 **4.11.7**  'I know the nature of horses and their training in every respect, the handling of vicious ones, and the complete treatment of their ailments.'
 
-**4.11.8**  'No mount would ever be timid under me; I have no unruly mares — much less stallions. The people call me Granthika, and so too does that Pandava Yudhishthira.'
+**4.11.8**  'No mount would ever be timid under me; I have no unruly mares — much less stallions. The people call me Granthika, and so too does that Pāṇḍava Yudhiṣṭhira.'
 
-**4.11.9**  Virata said: 'Whatever horse-conveyances I possess, let all of them be under your authority from this day forward. And whatever horse-trainers and charioteers I have, let them be under your command.'
+**4.11.9**  Virāṭa said: 'Whatever horse-conveyances I possess, let all of them be under your authority from this day forward. And whatever horse-trainers and charioteers I have, let them be under your command.'
 
 **4.11.10**  'If this pleases you, O god-like one, tell me whatever wealth you desire. The work of a groom seems unworthy of you — you shine like a king in my estimation.'
 
-**4.11.11**  'Indeed, your appearance equals that of Yudhishthira himself in my sight, O fair one. But how is it that the blameless Pandava, separated from his servants, dwells in the forest and finds his pleasure there?'
+**4.11.11**  'Indeed, your appearance equals that of Yudhiṣṭhira himself in my sight, O fair one. But how is it that the blameless Pāṇḍava, separated from his servants, dwells in the forest and finds his pleasure there?'
 
-**4.11.12**  Vaishampayana said: Thus that youth, who resembled the foremost of Gandharvas, was honored by the delighted king Virata. And no others knew him in the least as he moved about among them, charming and agreeable.
+**4.11.12**  Vaiśaṃpāyana said: Thus that youth, who resembled the foremost of Gandharvas, was honored by the delighted king Virāṭa. And no others knew him in the least as he moved about among them, charming and agreeable.
 
-**4.11.13**  Thus the Pandavas, those lords whose vision never fails and whose vows are unfailing, dwelt in the land of Matsya, passing their time of incognito with composed minds — they who are lords whose realm extends to the rim of the ocean — in great suffering.
+**4.11.13**  Thus the Pāṇḍavas, those lords whose vision never fails and whose vows are unfailing, dwelt in the land of Matsya, passing their time of incognito with composed minds — they who are lords whose realm extends to the rim of the ocean — in great suffering.
 
-**4.12.1**  Janamejaya said: 'When the Pandavas of great valor were dwelling thus in the city of Matsya, O brahmin, what did they do after that?'
+**4.12.1**  Janamejaya said: 'When the Pāṇḍavas of great valor were dwelling thus in the city of Matsya, O brahmin, what did they do after that?'
 
-**4.12.2**  Vaishampayana said: 'Hear what those descendants of Kuru, concealed in that place, did while dwelling there and pleasing the king.'
+**4.12.2**  Vaiśaṃpāyana said: 'Hear what those descendants of Kuru, concealed in that place, did while dwelling there and pleasing the king.'
 
-**4.12.3**  Yudhishthira became the beloved companion of the assembly members in the hall, and likewise a favorite of Virata and his son, O lord of the people.
+**4.12.3**  Yudhiṣṭhira became the beloved companion of the assembly members in the hall, and likewise a favorite of Virāṭa and his son, O lord of the people.
 
-**4.12.4**  For that Pandava, knowing the secrets of dice, entertained them at gambling as he pleased, like a puppeteer controlling brahmins on strings.
+**4.12.4**  For that Pāṇḍava, knowing the secrets of dice, entertained them at gambling as he pleased, like a puppeteer controlling brahmins on strings.
 
-**4.12.5**  And the king of righteousness, that tiger among men, secretly winning Virata's wealth, would distribute it fittingly among his brothers.
+**4.12.5**  And the king of righteousness, that tiger among men, secretly winning Virāṭa's wealth, would distribute it fittingly among his brothers.
 
-**4.12.6**  Bhimasena too, with the various eatables and meats lavishly provided by Matsya, would sell them and give the proceeds to Yudhishthira.
+**4.12.6**  Bhīmasena too, with the various eatables and meats lavishly provided by Matsya, would sell them and give the proceeds to Yudhiṣṭhira.
 
-**4.12.7**  Arjuna too, obtaining worn-out garments from the women's quarters, would sell them and distribute the proceeds to all the Pandavas.
+**4.12.7**  Arjuna too, obtaining worn-out garments from the women's quarters, would sell them and distribute the proceeds to all the Pāṇḍavas.
 
-**4.12.8**  Sahadeva too, that Pandava, adopting the guise of a cowherd, would provide curds, milk, and ghee to the Pandavas.
+**4.12.8**  Sahadeva too, that Pāṇḍava, adopting the guise of a cowherd, would provide curds, milk, and ghee to the Pāṇḍavas.
 
-**4.12.9**  Nakula too, obtaining wealth for his work with the horses when that lord of men was pleased, would give it to the Pandavas.
+**4.12.9**  Nakula too, obtaining wealth for his work with the horses when that lord of men was pleased, would give it to the Pāṇḍavas.
 
-**4.12.10**  And Krishna too — that noble lady in her suffering — would look upon all those brothers and move about as before, unrecognized.
+**4.12.10**  And Kṛṣṇa too — that noble lady in her suffering — would look upon all those brothers and move about as before, unrecognized.
 
-**4.12.11**  Thus those great warriors, providing for each other in this way, and yet beholding Krishna in that condition, dwelt there in concealment, O lord of men.
+**4.12.11**  Thus those great warriors, providing for each other in this way, and yet beholding Kṛṣṇa in that condition, dwelt there in concealment, O lord of men.
 
-**4.12.12**  Then, in the fourth month, there arose a grand festival of Brahma among the Matsyas — prosperous and well-regarded by the people.
+**4.12.12**  Then, in the fourth month, there arose a grand festival of Brahmā among the Matsyas — prosperous and well-regarded by the people.
 
 **4.12.13**  There, wrestlers gathered from all directions, O king, by the thousands — of great bodies and great strength, like the Kalakhanja demons.
 
@@ -550,21 +550,21 @@ translator: thothica
 
 **4.12.16**  When all the wrestlers were disheartened and their spirits broken, the king of Matsya had that wrestler fight against his cook.
 
-**4.12.17**  Then Bhima, though urged with difficulty, made up his mind — for in public he could not refuse the lord of men.
+**4.12.17**  Then Bhīma, though urged with difficulty, made up his mind — for in public he could not refuse the lord of men.
 
-**4.12.18**  Then that tiger among men, moving with the relaxed gait of a lion, entered the great arena, filling Virata with delight.
+**4.12.18**  Then that tiger among men, moving with the relaxed gait of a lion, entered the great arena, filling Virāṭa with delight.
 
-**4.12.19**  The son of Kunti tied his sash and thereupon gladdened the crowd. Then Bhima challenged that wrestler who was like Vritra himself.
+**4.12.19**  The son of Kuntī tied his sash and thereupon gladdened the crowd. Then Bhīma challenged that wrestler who was like Vṛtra himself.
 
 **4.12.20**  Both were of tremendous enthusiasm and both of fierce valor — like two great bull elephants of sixty years in rut.
 
-**4.12.21**  Bhima, slayer of enemies, tearing the wrestler away with his arms, dragged him — roaring and shrieking — like a tiger with an elephant.
+**4.12.21**  Bhīma, slayer of enemies, tearing the wrestler away with his arms, dragged him — roaring and shrieking — like a tiger with an elephant.
 
 **4.12.22**  The mighty-armed and valorous one, lifting him up, whirled him around. Then both the wrestlers and the Matsyas were struck with the greatest amazement.
 
-**4.12.23**  Having whirled him a hundredfold, with the wrestler's life gone and his senses extinguished, the mighty-armed Vrikodara ground him into the earth.
+**4.12.23**  Having whirled him a hundredfold, with the wrestler's life gone and his senses extinguished, the mighty-armed Vṛkodara ground him into the earth.
 
-**4.12.24**  When that wrestler Jimuta, world-renowned, was slain, Virata was filled with the utmost joy along with his kinsmen.
+**4.12.24**  When that wrestler Jimuta, world-renowned, was slain, Virāṭa was filled with the utmost joy along with his kinsmen.
 
 **4.12.25**  Overflowing with joy, the high-minded king gave great wealth to Ballava in the great arena, as generously as Kubera himself.
 
@@ -572,27 +572,27 @@ translator: thothica
 
 **4.12.27**  When no man equal to him could be found there, he then fought with tigers and lions and elephants as well.
 
-**4.12.28**  Again, having entered the women's quarters, Vrikodara would fight among the women at Virata's command against maddened lions of great strength.
+**4.12.28**  Again, having entered the women's quarters, Vṛkodara would fight among the women at Virāṭa's command against maddened lions of great strength.
 
-**4.12.29**  And Bibhatsu too, that Pandava, satisfied Virata and all the women of the inner quarters with song and beautiful dancing.
+**4.12.29**  And Bībhatsu too, that Pāṇḍava, satisfied Virāṭa and all the women of the inner quarters with song and beautiful dancing.
 
 **4.12.30**  With well-trained and swift horses gathered from various places, Nakula gratified the king, O best of kings.
 
 **4.12.31**  Pleased upon seeing the well-trained cattle belonging to Sahadeva, the king gave him much wealth as his due reward, O mighty one.
 
-**4.12.32**  Thus those bulls among men lived there in concealment, performing services for Virata the king in those days.
+**4.12.32**  Thus those bulls among men lived there in concealment, performing services for Virāṭa the king in those days.
 
-**4.13.1**  Vaishampayana said: While the sons of Pritha, those great warriors, were dwelling thus in concealment in the city of Matsya, ten months passed by.
+**4.13.1**  Vaiśaṃpāyana said: While the sons of Pṛthā, those great warriors, were dwelling thus in concealment in the city of Matsya, ten months passed by.
 
-**4.13.2**  Yajnaseni, serving Sudeshna, O lord of the people, dwelt there in great suffering — she who deserved to be served, O Janamejaya.
+**4.13.2**  Yājñasenī, serving Sudeṣṇā, O lord of the people, dwelt there in great suffering — she who deserved to be served, O Janamejaya.
 
-**4.13.3**  As she moved about in that manner in Sudeshna's household, the commander of Virata's army beheld the Pancali, she of lotus-like face.
+**4.13.3**  As she moved about in that manner in Sudeṣṇā's household, the commander of Virāṭa's army beheld the Pāñcālī, she of lotus-like face.
 
-**4.13.4**  Seeing her as she moved about, radiant as one born of divine seed, like a goddess herself, Kichaka desired her, pierced by the arrows of Kama.
+**4.13.4**  Seeing her as she moved about, radiant as one born of divine seed, like a goddess herself, Kīcaka desired her, pierced by the arrows of Kāma.
 
-**4.13.5**  Scorched by the fire of desire, the commander approached Sudeshna and, as if smiling, spoke these words:
+**4.13.5**  Scorched by the fire of desire, the commander approached Sudeṣṇā and, as if smiling, spoke these words:
 
-**4.13.6**  'This beautiful one was never seen by me before in the abode of King Virata. With her beauty she maddens me utterly — this lady, born fragrant like wine.'
+**4.13.6**  'This beautiful one was never seen by me before in the abode of King Virāṭa. With her beauty she maddens me utterly — this lady, born fragrant like wine.'
 
 **4.13.7**  'Who is this one with the form of a goddess, captivating to the heart, O fair one? Tell me — who is she and where is she from, this lovely woman? She churns my mind and brings me under her sway. I know no other remedy for this today.'
 
@@ -600,13 +600,13 @@ translator: thothica
 
 **4.13.9**  'Let her adorn my great house — rich in elephants, horses, and chariots, possessed of great wealth, full of prosperity, with abundant drink and food, charming, decorated with golden ornaments.'
 
-**4.13.10**  Then Kichaka, having taken leave of Sudeshna, approached the daughter of the king of men and spoke then to Krishna with words of enticement — like a jackal in the forest approaching the daughter of the lion.
+**4.13.10**  Then Kīcaka, having taken leave of Sudeṣṇā, approached the daughter of the king of men and spoke then to Kṛṣṇa with words of enticement — like a jackal in the forest approaching the daughter of the lion.
 
 **4.13.11**  'This beauty of yours, and your youth — both are rendered purposeless and barren today, O passionate one. Like a supreme garland that goes unworn, you do not shine, O beautiful one, though you are truly lovely.'
 
 **4.13.12**  'I will abandon my former wives — let them become your maidservants, O fair-smiling one. And I myself, O beautiful woman, shall stand like a slave before you; I shall always be under your command, O lovely-faced one.'
 
-**4.13.13**  Draupadi said: 'O son of a charioteer, you court me here as one not to be courted — a Sairandhri woman of lower standing, a contemptible hairdresser.'
+**4.13.13**  Draupadī said: 'O son of a charioteer, you court me here as one not to be courted — a Sairandhrī woman of lower standing, a contemptible hairdresser.'
 
 **4.13.14**  'I am another's wife — may it be well with you; this is not fitting for you at this time. The wives of living beings are dear to them — reflect on dharma.'
 
@@ -622,47 +622,47 @@ translator: thothica
 
 **4.13.20**  'Whether you enter the earth, or fly upward, or run to the far shore of the ocean — even so you shall not escape them. For my husbands are mighty sons of gods.'
 
-**4.13.21**  'Like some afflicted man who rushes toward the night of doom — why do you importune me so stubbornly today, O Kichaka? Do you think of me like a child lying in its mother's lap who wants to grasp the moon?'
+**4.13.21**  'Like some afflicted man who rushes toward the night of doom — why do you importune me so stubbornly today, O Kīcaka? Do you think of me like a child lying in its mother's lap who wants to grasp the moon?'
 
-**4.14.1**  Vaishampayana said: Rejected by the princess-born, Kichaka, overwhelmed by unbridled and terrible desire, spoke to Sudeshna:
+**4.14.1**  Vaiśaṃpāyana said: Rejected by the princess-born, Kīcaka, overwhelmed by unbridled and terrible desire, spoke to Sudeṣṇā:
 
-**4.14.2**  'Let it be arranged that I may meet with the Sairandhri by some means, O Kaikeyi. Seek to obtain her for me, Sudeshna — otherwise I shall give up my life.'
+**4.14.2**  'Let it be arranged that I may meet with the Sairandhrī by some means, O Kaikeyī. Seek to obtain her for me, Sudeṣṇā — otherwise I shall give up my life.'
 
-**4.14.3**  Hearing his lamentations again and again, the wise queen, chief consort of Virata, felt compassion for him.
+**4.14.3**  Hearing his lamentations again and again, the wise queen, chief consort of Virāṭa, felt compassion for him.
 
-**4.14.4**  Keeping her own interest in mind and reflecting upon his interest as well, and also upon Krishna's distress, Sudeshna spoke to the charioteer's son:
+**4.14.4**  Keeping her own interest in mind and reflecting upon his interest as well, and also upon Kṛṣṇa's distress, Sudeṣṇā spoke to the charioteer's son:
 
 **4.14.5**  'You prepare wine and food on the occasion of the festival day. I will send her to you there — the wine-fetcher — into your presence.'
 
 **4.14.6**  'There, when she has been sent and is alone without restraint, you may coax her as you please — if, when coaxed, she is willing to sport with you.'
 
-**4.14.7**  Kichaka then, going home at his sister's word, had wine fetched — of royal quality, well-filtered and refined.
+**4.14.7**  Kīcaka then, going home at his sister's word, had wine fetched — of royal quality, well-filtered and refined.
 
 **4.14.8**  And he had much roast meat and many kinds of game, great and small, prepared by skilled cooks — splendid food and drink.
 
-**4.14.9**  When this had been done and Kichaka had sent word to the queen, Sudeshna dispatched the Sairandhri to Kichaka's dwelling.
+**4.14.9**  When this had been done and Kīcaka had sent word to the queen, Sudeṣṇā dispatched the Sairandhrī to Kīcaka's dwelling.
 
-**4.14.10**  Sudeshna said: 'Rise and go, Sairandhri, to Kichaka's dwelling. Bring wine, dear one — thirst torments me.'
+**4.14.10**  Sudeṣṇā said: 'Rise and go, Sairandhrī, to Kīcaka's dwelling. Bring wine, dear one — thirst torments me.'
 
-**4.14.11**  Draupadi said: 'I should not go to his dwelling, O princess. You yourself know, O queen, how shameless he is.'
+**4.14.11**  Draupadī said: 'I should not go to his dwelling, O princess. You yourself know, O queen, how shameless he is.'
 
 **4.14.12**  'And I, O blameless-limbed one, O passionate lady, shall not become one who acts out of lust in your house, unfaithful to my husbands.'
 
 **4.14.13**  'And you yourself know, O goddess, what agreement was made when I first entered your house, O passionate one.'
 
-**4.14.14**  'And Kichaka — foolish and arrogant with the pride of Kama — he will dishonor me upon seeing me. I will not go there, O lovely one.'
+**4.14.14**  'And Kīcaka — foolish and arrogant with the pride of Kāma — he will dishonor me upon seeing me. I will not go there, O lovely one.'
 
 **4.14.15**  'You have many other attendants obedient to your command, O princess — send another. May it be well with you, for he will dishonor me.'
 
-**4.14.16**  Sudeshna said: 'He will never harm you when you are sent by me from here.'
+**4.14.16**  Sudeṣṇā said: 'He will never harm you when you are sent by me from here.'
 
-**4.14.17**  Vaishampayana said: With these words she placed in her hands a bronze vessel with a golden lid. She, full of suspicion, weeping, having taken refuge in fate, set forth as the wine-fetcher to Kichaka's dwelling.
+**4.14.17**  Vaiśaṃpāyana said: With these words she placed in her hands a bronze vessel with a golden lid. She, full of suspicion, weeping, having taken refuge in fate, set forth as the wine-fetcher to Kīcaka's dwelling.
 
 **4.14.18**  Draupadī said: "As I know no other man but the Pāṇḍavas, by that truth I have been protected — do not bring me under Kīcaka's power."
 
 **4.14.19**  Vaiśaṃpāyana said: That frail woman stood before the Sun for a moment; then the Sun understood everything regarding that slender-waisted one.
 
-**4.14.20**  Then the Sun, becoming invisible, assigned a Rakṣasa to guard her, and that being did not abandon the blameless woman in any circumstance thereafter.
+**4.14.20**  Then the Sun, becoming invisible, assigned a Rākṣasa to guard her, and that being did not abandon the blameless woman in any circumstance thereafter.
 
 **4.14.21**  Seeing Kṛṣṇā approach trembling like a doe, the charioteer's son rose up joyfully, like a ferryman who has found a boat to cross the river.
 
@@ -680,9 +680,9 @@ translator: thothica
 
 **4.15.7**  Kīcaka chased after her and seized her by the side of her hair; then, even before the watching king, he threw her down and kicked her with his foot.
 
-**4.15.8**  Then that Rakṣasa who had been assigned to her by the Sun at that moment hurled Kīcaka away with the speed of wind, O Bhārata.
+**4.15.8**  Then that Rākṣasa who had been assigned to her by the Sun at that moment hurled Kīcaka away with the speed of wind, O Bhārata.
 
-**4.15.9**  Struck by the power of the Rakṣasa, he fell to the ground, spinning and motionless, like a tree torn up by the roots.
+**4.15.9**  Struck by the power of the Rākṣasa, he fell to the ground, spinning and motionless, like a tree torn up by the roots.
 
 **4.15.10**  Bhīmasena and Yudhiṣṭhira, seated there, both saw it, unable to endure Kīcaka's assault on Kṛṣṇā with his foot.
 
@@ -1384,7 +1384,7 @@ translator: thothica
 
 **4.26.10**  Therefore, having understood this, let action be taken; and let us search further through learned Brahmins, accomplished spies, and others who have knowledge of such matters."
 
-**4.27.1**  Vaiśaṃpāyana said: Then Bhīṣma, the son of Śāṃtanu, the grandfather of the Bharatas, learned, knowing time and place, knowing truth, and versed in all dharma,
+**4.27.1**  Vaiśaṃpāyana said: Then Bhīṣma, the son of Śaṃtanu, the grandfather of the Bharatas, learned, knowing time and place, knowing truth, and versed in all dharma,
 
 **4.27.2**  when the teacher's speech had ended, taking up that speech and joining it to his own for the sake of their welfare, he spoke this address to the Bharatas:
 
@@ -1468,7 +1468,7 @@ translator: thothica
 
 **4.28.14**  Having resolved upon all this and applying your effort according to your own duty, O lord of men, you will long enjoy happiness at the right moment.
 
-**4.29.1**  Vaiśampāyana said: Then Suśarmā, king of the Trigārtas, lord of chariot-hosts, hurriedly spoke these timely words with great urgency.
+**4.29.1**  Vaiśaṃpāyana said: Then Suśarmā, king of the Trigārtas, lord of chariot-hosts, hurriedly spoke these timely words with great urgency.
 
 **4.29.2**  "I have been wronged again and again — first by the Matsyas together with the Sālveyas, and time and again by Kīcaka, the commander of Matsya's forces.
 
@@ -1498,7 +1498,7 @@ translator: thothica
 
 **4.29.15**  Therefore let us set out quickly, having marshaled the army and arrayed the divisions as you see fit, O sinless one.
 
-**4.29.16**  This wise elder of the Kurus, our grandsire Bhīṣma, and the preceptor Droṇa, and Kṛpa the son of Śaradwat —
+**4.29.16**  This wise elder of the Kurus, our grandsire Bhīṣma, and the preceptor Droṇa, and Kṛpa the son of Śaradvat —
 
 **4.29.17**  — as all of them think fit, so let the expedition be arranged; and having deliberated quickly, let us march to achieve the king's purpose.
 
@@ -1524,7 +1524,7 @@ translator: thothica
 
 **4.29.28**  The next day, O king, all the Kauravas assembled together and on the eighth day seized those herds of cattle by the thousands.
 
-**4.30.1**  Vaiśampāyana said: Then, O great king, for those great-souled Pāṇḍavas of immeasurable splendor who had entered there in disguise —
+**4.30.1**  Vaiśaṃpāyana said: Then, O great king, for those great-souled Pāṇḍavas of immeasurable splendor who had entered there in disguise —
 
 **4.30.2**  — the agreed period had fully elapsed while they dwelt in that best of cities, performing the services of that lord of earth, Virāṭa.
 
@@ -1584,7 +1584,7 @@ translator: thothica
 
 **4.30.30**  That foremost army of Virāṭa set out and shone with splendor, crowded with men bearing firm weapons, thronged with elephants, horses, and chariots.
 
-**4.31.1**  Vaiśampāyana said: Having sallied forth from the city, the brave, array-formed, fierce Matsyas came upon the Trigārtas as the sun was declining.
+**4.31.1**  Vaiśaṃpāyana said: Having sallied forth from the city, the brave, array-formed, fierce Matsyas came upon the Trigārtas as the sun was declining.
 
 **4.31.2**  Those Trigārtas and Matsyas, enraged, frenzied for battle, roaring at one another, greedy for cattle, mighty in strength —
 
@@ -1612,7 +1612,7 @@ translator: thothica
 
 **4.31.14**  The earthen dust was quelled by the spreading blood; a terrible, boundless faintness pervaded the field and raged without restraint.
 
-**4.31.15**  Śatānīka, having slain a hundred, and Viśālākṣa, having slain four hundred, both great warriors, plunged into the vast Trigārta army and grappled in fierce combat, hair gripping hair, nails tearing nails.
+**4.31.15**  Śatānīka, having slain a hundred, and Viśālākṣa, having slain four hundred, both great warriors, plunged into the vast Trigarta army and grappled in fierce combat, hair gripping hair, nails tearing nails.
 
 **4.31.16**  Seeing those two plunge into the Trigārtas' chariot host, Sūryadatta and Madirāśva followed behind them.
 
@@ -2098,57 +2098,57 @@ translator: thothica
 
 **4.38.54**  "And this long arrow, smooth-backed and sharp-pointed, capable of bearing great weight and firm — this is Arjuna's in battle."
 
-**4.38.55**  The great tiger-skin-scabbarded sword belonging to Bhimasena — divine, capable of bearing heavy weight — is a source of terror to his enemies.
+**4.38.55**  The great tiger-skin-scabbarded sword belonging to Bhīmasena — divine, capable of bearing heavy weight — is a source of terror to his enemies.
 
-**4.38.56**  This straight-bladed sword with a beautiful variegated scabbard and a golden hilt, unsurpassed in excellence, belongs to the Kaurava Dharmaraja, the wise one.
+**4.38.56**  This straight-bladed sword with a beautiful variegated scabbard and a golden hilt, unsurpassed in excellence, belongs to the Kaurava Dharmarāja, the wise one.
 
 **4.38.57**  This straight-bladed sword stored in a scabbard adorned with five-nailed designs and bright embellishments — heavy-bearing and firm — belongs to Nakula.
 
 **4.38.58**  Know that this spotless sword sheathed in a cowhide scabbard, capable of bearing all weight and firm, belongs to Sahadeva.
 
-**4.39.1**  Uttara said: These weapons of the great-souled Parthas, wrought with gold and variously fashioned, shine beautifully — belonging to swift-acting warriors.
+**4.39.1**  Uttara said: These weapons of the great-souled Pārthas, wrought with gold and variously fashioned, shine beautifully — belonging to swift-acting warriors.
 
-**4.39.2**  Where indeed are Arjuna the son of Prtha, or the Kaurava Yudhishthira, and Nakula and Sahadeva and Bhimasena the Pandava?
+**4.39.2**  Where indeed are Arjuna the son of Pṛthā, or the Kaurava Yudhiṣṭhira, and Nakula and Sahadeva and Bhīmasena the Pāṇḍava?
 
 **4.39.3**  All of them — great souls, destroyers of all enemies — having lost their kingdom at dice, are never heard of anymore.
 
-**4.39.4**  And where is Draupadi the Pancali, celebrated as a jewel among women? When the dark one's husbands were defeated at dice, she followed them into the forest.
+**4.39.4**  And where is Draupadī the Pāñcālī, celebrated as a jewel among women? When the dark one's husbands were defeated at dice, she followed them into the forest.
 
-**4.39.5**  Arjuna said: I am Arjuna, son of Prtha. Yudhishthira is the keeper of the assembly hall. Bhimasena is Ballava, your father's cook.
+**4.39.5**  Arjuna said: I am Arjuna, son of Pṛthā. Yudhiṣṭhira is the keeper of the assembly hall. Bhīmasena is Ballava, your father's cook.
 
-**4.39.6**  Nakula is the horse-keeper, and Sahadeva works among the cattle. Know Draupadi to be the Sairandhri on whose account Kichaka was slain.
+**4.39.6**  Nakula is the horse-keeper, and Sahadeva works among the cattle. Know Draupadī to be the Sairandhrī on whose account Kīcaka was slain.
 
-**4.39.7**  Uttara said: If you were to recite for me the ten names of the son of Prtha that I have heard before, then I would believe everything you say.
+**4.39.7**  Uttara said: If you were to recite for me the ten names of the son of Pṛthā that I have heard before, then I would believe everything you say.
 
-**4.39.8**  Arjuna said: Come then, I shall tell you my ten names: Arjuna, Phalguna, Jishnu, Kiriti, Shvetavahana, Bibhatsu, Vijaya, Krishna, Savyasachin, and Dhananjaya.
+**4.39.8**  Arjuna said: Come then, I shall tell you my ten names: Arjuna, Phalguna, Jiṣṇu, Kiriti, Shvetavahana, Bībhatsu, Vijaya, Kṛṣṇa, Savyasācin, and Dhanañjaya.
 
-**4.39.9**  Uttara said: Why are you called Vijaya? Why are you called Shvetavahana? Why Kiriti? And how are you Savyasachin?
+**4.39.9**  Uttara said: Why are you called Vijaya? Why are you called Shvetavahana? Why Kiriti? And how are you Savyasācin?
 
-**4.39.10**  And why are you Arjuna, Phalguna, Jishnu, Krishna, Bibhatsu, and Dhananjaya? Tell me truly. I have heard only the names of that hero, but not the reasons for them.
+**4.39.10**  And why are you Arjuna, Phalguna, Jiṣṇu, Kṛṣṇa, Bībhatsu, and Dhanañjaya? Tell me truly. I have heard only the names of that hero, but not the reasons for them.
 
-**4.39.11**  Arjuna said: Having conquered all the realms and seized their wealth alone, I stand at the center of that treasure — therefore they call me Dhananjaya, the winner of wealth.
+**4.39.11**  Arjuna said: Having conquered all the realms and seized their wealth alone, I stand at the center of that treasure — therefore they call me Dhanañjaya, the winner of wealth.
 
 **4.39.12**  Because when I advance into battle against those arrogant in war, I do not turn back without conquering — therefore they know me as Vijaya, the victorious.
 
 **4.39.13**  White horses clad in golden armor are yoked to my chariot when I fight in battle — therefore I am Shvetavahana, the one with white steeds.
 
-**4.39.14**  I was born by day on the slopes of the Himalayas under the two Phalguni asterisms — northern and southern — therefore they know me as Phalguna.
+**4.39.14**  I was born by day on the slopes of the Himālayas under the two Phālgunī asterisms — northern and southern — therefore they know me as Phalguna.
 
-**4.39.15**  Long ago Shakra gave me, while I was fighting the lords of the Danavas, a diadem radiant as the sun placed on my head — therefore they call me Kiriti, the diademed one.
+**4.39.15**  Long ago Śakra gave me, while I was fighting the lords of the Dānavas, a diadem radiant as the sun placed on my head — therefore they call me Kiriti, the diademed one.
 
-**4.39.16**  I would never perform a loathsome deed in any manner while fighting — therefore among gods and men they know me as Bibhatsu, the one who shuns the abhorrent.
+**4.39.16**  I would never perform a loathsome deed in any manner while fighting — therefore among gods and men they know me as Bībhatsu, the one who shuns the abhorrent.
 
-**4.39.17**  Both my hands are right-handed in the drawing of the Gandiva bow — therefore among gods and men they call me Savyasachin, the ambidextrous.
+**4.39.17**  Both my hands are right-handed in the drawing of the Gāṇḍīva bow — therefore among gods and men they call me Savyasācin, the ambidextrous.
 
 **4.39.18**  In the earth bounded by its four limits, my hue is rare and unblemished, and I perform pure deeds — therefore they know me as Arjuna, the bright one.
 
-**4.39.19**  I am hard to approach, difficult to assail, a tamer of foes, the chastiser of Paka — therefore among gods and men I am renowned by the name Jishnu, the triumphant.
+**4.39.19**  I am hard to approach, difficult to assail, a tamer of foes, the chastiser of Pāka — therefore among gods and men I am renowned by the name Jiṣṇu, the triumphant.
 
-**4.39.20**  My father gave me Krishna as my tenth name out of affection for the child, me, who was dark yet spotless and virtuous.
+**4.39.20**  My father gave me Kṛṣṇa as my tenth name out of affection for the child, me, who was dark yet spotless and virtuous.
 
-**4.39.21**  Vaishampayana said: Then the son of Virata approached the son of Prtha and greeted him respectfully, saying: "My name is Bhuminjaya, and I am also called Uttara."
+**4.39.21**  Vaiśaṃpāyana said: Then the son of Virāṭa approached the son of Pṛthā and greeted him respectfully, saying: "My name is Bhuminjaya, and I am also called Uttara."
 
-**4.39.22**  "By good fortune do I behold you, O Partha! Welcome, O Dhananjaya, red-eyed and mighty-armed, like the hood of a lord of serpents! Whatever I said to you in ignorance, please forgive me for that."
+**4.39.22**  "By good fortune do I behold you, O Pārtha! Welcome, O Dhanañjaya, red-eyed and mighty-armed, like the hood of a lord of serpents! Whatever I said to you in ignorance, please forgive me for that."
 
 **4.39.23**  "Because of the wondrous and difficult deeds you have performed in the past, my fear has passed away and my affection for you is the greatest."
 
@@ -2164,15 +2164,15 @@ translator: thothica
 
 **4.40.6**  — with the twanging of the bowstring done in wrath, the rumble of the wheel-rims like a kettledrum, this chariot beneath you shall be, for you, a city protected by me.
 
-**4.40.7**  This chariot, commanded in battle by me, the bearer of the Gandiva bow, is unconquerable by enemy armies, O son of Virata! Let your fear depart.
+**4.40.7**  This chariot, commanded in battle by me, the bearer of the Gāṇḍīva bow, is unconquerable by enemy armies, O son of Virāṭa! Let your fear depart.
 
-**4.40.8**  Uttara said: I do not fear them; I know you to be steadfast in battle, equal in combat even to Keshava himself, or indeed to Indra in person.
+**4.40.8**  Uttara said: I do not fear them; I know you to be steadfast in battle, equal in combat even to Keśava himself, or indeed to Indra in person.
 
 **4.40.9**  Yet pondering this very thing I become utterly confused — being of poor understanding, I cannot in any way reach a conclusion.
 
 **4.40.10**  For one whose body is that of a hero and who is endowed with appropriate marks of distinction — how has this state of being a eunuch come about through the ripening of deeds?
 
-**4.40.11**  I think you to be the trident-bearing god himself, or perhaps the king of the Gandharvas, moving about in the disguise of a eunuch — or even Shatakratu, the god of a hundred sacrifices.
+**4.40.11**  I think you to be the trident-bearing god himself, or perhaps the king of the Gandharvas, moving about in the disguise of a eunuch — or even Śatakratu, the god of a hundred sacrifices.
 
 **4.40.12**  Arjuna said: By the command of my eldest brother I have observed this vow for a year, practicing celibacy — this is the truth I tell you.
 
@@ -2184,21 +2184,21 @@ translator: thothica
 
 **4.40.16**  I shall hold the reins of your horses, breaker of enemy chariots — for I am trained in chariot-driving through proper instruction, O bull among men.
 
-**4.40.17**  As Daruka is to Vasudeva, as Matali is to Shakra, so know me to be trained in chariotship, O foremost of men.
+**4.40.17**  As Dāruka is to Vāsudeva, as Matali is to Śakra, so know me to be trained in chariotship, O foremost of men.
 
-**4.40.18**  The horse yoked on the right shaft, resembling Sugriva in quality, is one whose hoof-prints on the ground cannot be seen as he gallops.
+**4.40.18**  The horse yoked on the right shaft, resembling Sugrīva in quality, is one whose hoof-prints on the ground cannot be seen as he gallops.
 
-**4.40.19**  This splendid horse, best of draft animals, who draws the left shaft — I consider it equal in speed to Meghapushpa.
+**4.40.19**  This splendid horse, best of draft animals, who draws the left shaft — I consider it equal in speed to Meghapuṣpa.
 
 **4.40.20**  This splendid horse clad in golden armor who draws the left flank-position — I consider it mightier in speed than the whole army's left flank.
 
-**4.40.21**  This one who draws your right flank with body arched and neck raised — even compared to Balahaka he is reckoned mightier in speed and valor.
+**4.40.21**  This one who draws your right flank with body arched and neck raised — even compared to Balāhaka he is reckoned mightier in speed and valor.
 
 **4.40.22**  This chariot is worthy of carrying you, the bowman, into battle; and you, having mounted this chariot, are worthy to fight — in my opinion.
 
-**4.40.23**  Vaishampayana said: Then that valiant one removed the bracelets from his arms and, amid a wondrous kettledrum roll, slapped his two auspicious palms.
+**4.40.23**  Vaiśaṃpāyana said: Then that valiant one removed the bracelets from his arms and, amid a wondrous kettledrum roll, slapped his two auspicious palms.
 
-**4.40.24**  Having bound up his curly dark hair with a white cloth, he swiftly strung the Gandiva bow and bent it with force.
+**4.40.24**  Having bound up his curly dark hair with a white cloth, he swiftly strung the Gāṇḍīva bow and bent it with force.
 
 **4.40.25**  As that bow was being drawn, a great sound arose — like a great mountain being struck by another mountain.
 
@@ -2206,15 +2206,15 @@ translator: thothica
 
 **4.40.27**  The Kurus recognized that sound — like the cracking of a thunderbolt — as Arjuna drawing the foremost of bows with his arms upon the chariot.
 
-**4.41.1**  Vaishampayana said: Having made Uttara his charioteer, having circumambulated the shami tree clockwise, and having taken up all the weapons, Dhananjaya then set forth.
+**4.41.1**  Vaiśaṃpāyana said: Having made Uttara his charioteer, having circumambulated the shami tree clockwise, and having taken up all the weapons, Dhanañjaya then set forth.
 
 **4.41.2**  The great chariot-warrior removed the lion banner from that chariot, placed it at the root of the shami tree, and then departed with Uttara as his charioteer.
 
-**4.41.3**  Having attached to the chariot the divine magical device fashioned by Vishvakarman — the golden banner bearing a lion's tail and marked with a monkey —
+**4.41.3**  Having attached to the chariot the divine magical device fashioned by Viśvakarman — the golden banner bearing a lion's tail and marked with a monkey —
 
-**4.41.4**  — he mentally meditated on and invoked the grace of Pavaka (Fire); and Pavaka, knowing what had been thought, impelled supernatural beings onto the banner.
+**4.41.4**  — he mentally meditated on and invoked the grace of Pāvaka (Fire); and Pāvaka, knowing what had been thought, impelled supernatural beings onto the banner.
 
-**4.41.5**  Mounting the chariot adorned with banners and variously decorated limbs, with quivers attached, the great chariot-warrior Bibhatsu, son of Kunti, the White-horsed one —
+**4.41.5**  Mounting the chariot adorned with banners and variously decorated limbs, with quivers attached, the great chariot-warrior Bībhatsu, son of Kuntī, the White-horsed one —
 
 **4.41.6**  — with sword girt on, clad in armor, and bow taken up in hand, he then marched northward, he who bears the banner of the foremost of monkeys.
 
@@ -2222,9 +2222,9 @@ translator: thothica
 
 **4.41.8**  Then those swift draft horses fell to their knees upon the ground, and Uttara too, terror-stricken, sank down onto the chariot floor.
 
-**4.41.9**  The son of Kunti steadied the horses and raised them up with the reins; then Arjuna embraced Uttara and reassured him.
+**4.41.9**  The son of Kuntī steadied the horses and raised them up with the reins; then Arjuna embraced Uttara and reassured him.
 
-**4.41.10**  "Do not be afraid, O foremost of princes! You are a Kshatriya, a scorcher of foes. How is it, O tiger among men, that you despond in the midst of enemies?"
+**4.41.10**  "Do not be afraid, O foremost of princes! You are a Kṣatriya, a scorcher of foes. How is it, O tiger among men, that you despond in the midst of enemies?"
 
 **4.41.11**  "You have heard the sounds of conches and the full-toned sounds of war-drums, and the roaring of elephants standing in battle array —"
 
@@ -2236,13 +2236,13 @@ translator: thothica
 
 **4.41.15**  By the sound of this conch, by the twang of this bow, and by the rumbling of this chariot, my mind is utterly bewildered.
 
-**4.41.16**  All the directions are turbulent and my heart seems to tremble; all directions appear concealed to me by that banner; and by the sound of the Gandiva my ears are deafened.
+**4.41.16**  All the directions are turbulent and my heart seems to tremble; all directions appear concealed to me by that banner; and by the sound of the Gāṇḍīva my ears are deafened.
 
 **4.41.17**  Arjuna said: Standing the chariot in a secluded spot, press down firmly with your feet and hold the reins tight — I shall blow the conch again.
 
-**4.41.18**  Vaishampayana said: At the sound of that conch, the rumble of the chariot wheel-rims, and the roar of the Gandiva, the earth trembled.
+**4.41.18**  Vaiśaṃpāyana said: At the sound of that conch, the rumble of the chariot wheel-rims, and the roar of the Gāṇḍīva, the earth trembled.
 
-**4.41.19**  Drona said: The way this chariot resounds, the way this conch is blown, the way the earth trembles — this can be none other than Savyasachin.
+**4.41.19**  Droṇa said: The way this chariot resounds, the way this conch is blown, the way the earth trembles — this can be none other than Savyasācin.
 
 **4.41.20**  Our weapons do not shine; the horses do not grow spirited; and the fires do not blaze even when kindled — this is not auspicious.
 
@@ -2252,9 +2252,9 @@ translator: thothica
 
 **4.41.23**  Your army is already defeated and no one wishes to fight; most of the warriors are pale-faced and bewildered. Let us drive away the cattle and stand here in battle array, ready to strike.
 
-**4.42.1**  Vaishampayana said: Then King Duryodhana spoke in the battle to Bhishma, and to Drona the tiger among chariot-warriors, and to Kripa the great chariot-warrior.
+**4.42.1**  Vaiśaṃpāyana said: Then King Duryodhana spoke in the battle to Bhīṣma, and to Droṇa the tiger among chariot-warriors, and to Kṛpa the great chariot-warrior.
 
-**4.42.2**  "This matter has been spoken of by me and by Karna to the preceptor many times, and I shall say it again — for I am not satisfied merely speaking of it."
+**4.42.2**  "This matter has been spoken of by me and by Karṇa to the preceptor many times, and I shall say it again — for I am not satisfied merely speaking of it."
 
 **4.42.3**  "The defeated ones must dwell — those defeated ones — for twelve years in the forest and a thirteenth year unrecognized among people; this indeed was the stake agreed upon by us."
 
@@ -2738,29 +2738,29 @@ translator: thothica
 
 **4.52.20**  Then Pārtha, of great splendor, enraged in battle, released thirteen arrows sharpened on stone, blazing with the fire of their energy.
 
-**4.52.21**  With one arrow he severed Kripa's yoke, with four arrows he struck down his four horses, and with a sixth shaft he cut off the charioteer's head from his body.
+**4.52.21**  With one arrow he severed Kṛpa's yoke, with four arrows he struck down his four horses, and with a sixth shaft he cut off the charioteer's head from his body.
 
-**4.52.22**  With three arrows the mighty one cut the triple bamboo shaft of the chariot, with two he severed the axles, and with a twelfth broad-headed arrow he cut down Kripa's banner.
+**4.52.22**  With three arrows the mighty one cut the triple bamboo shaft of the chariot, with two he severed the axles, and with a twelfth broad-headed arrow he cut down Kṛpa's banner.
 
-**4.52.23**  Then Phalguna, equal to Indra, as if smiling, struck Kripa in the chest with a thirteenth shaft that blazed like a thunderbolt.
+**4.52.23**  Then Phalguna, equal to Indra, as if smiling, struck Kṛpa in the chest with a thirteenth shaft that blazed like a thunderbolt.
 
-**4.52.24**  His bow severed, his chariot shattered, his horses slain, and his charioteer killed, Kripa leaped down swiftly, mace in hand, and hurled that mace.
+**4.52.24**  His bow severed, his chariot shattered, his horses slain, and his charioteer killed, Kṛpa leaped down swiftly, mace in hand, and hurled that mace.
 
-**4.52.25**  But that heavy, well-adorned mace hurled by Kripa was deflected by Arjuna's arrows and returned along its own path.
+**4.52.25**  But that heavy, well-adorned mace hurled by Kṛpa was deflected by Arjuna's arrows and returned along its own path.
 
-**4.52.26**  Then warriors seeking to protect the wrathful Sharadvata's son (Kripa) poured showers of arrows upon Partha from all sides in the battle.
+**4.52.26**  Then warriors seeking to protect the wrathful Sharadvata's son (Kṛpa) poured showers of arrows upon Pārtha from all sides in the battle.
 
-**4.52.27**  Then Virata's son (Uttara), wheeling his horses to the left and executing a twin circular maneuver, countered those warriors.
+**4.52.27**  Then Virāṭa's son (Uttara), wheeling his horses to the left and executing a twin circular maneuver, countered those warriors.
 
-**4.52.28**  Then those bull-like men, of great swiftness, took up the chariotless Kripa and bore him away from Kunti's son Dhananjaya.
+**4.52.28**  Then those bull-like men, of great swiftness, took up the chariotless Kṛpa and bore him away from Kuntī's son Dhanañjaya.
 
-**4.53.1**  Arjuna said: Where that golden altar rises, resembling a blazing flame of fire, adorned with banners on its golden post — drive me there, my friend, toward Drona's army, blessings upon you.
+**4.53.1**  Arjuna said: Where that golden altar rises, resembling a blazing flame of fire, adorned with banners on its golden post — drive me there, my friend, toward Droṇa's army, blessings upon you.
 
 **4.53.2**  His red horses shine forth — large, finely gaited, glossy as polished coral, copper-faced, lovely to behold — yoked to the finest chariot, skilled in every art of warfare.
 
-**4.53.3**  Long-armed, of great splendor, possessed of strength and form, renowned in all the worlds — Bharadvaja's son (Drona) blazes with might.
+**4.53.3**  Long-armed, of great splendor, possessed of strength and form, renowned in all the worlds — Bharadvaja's son (Droṇa) blazes with might.
 
-**4.53.4**  In wisdom he is equal to Ushanas (Shukra), in statecraft equal to Brihaspati; he has mastered all four Vedas and likewise the vow of brahmacharya.
+**4.53.4**  In wisdom he is equal to Uśanas (Śukra), in statecraft equal to Bṛhaspati; he has mastered all four Vedas and likewise the vow of brahmacharya.
 
 **4.53.5**  All the divine weapons together with their withdrawal formulas, O friend, and the entire science of archery in its completeness are ever established in him.
 
@@ -2768,37 +2768,37 @@ translator: thothica
 
 **4.53.7**  I wish to fight with that greatly fortunate one in battle. Therefore, O Uttara, quickly drive me to the preceptor — urge the horses forward.
 
-**4.53.8**  Vaishampayana said: Addressed thus by Arjuna, Virata's son (Uttara) urged those gold-adorned horses toward the chariot of Bharadvaja's son (Drona).
+**4.53.8**  Vaiśaṃpāyana said: Addressed thus by Arjuna, Virāṭa's son (Uttara) urged those gold-adorned horses toward the chariot of Bharadvaja's son (Droṇa).
 
-**4.53.9**  Drona advanced to meet that best of chariot warriors, the Pandava, as he came on with speed — Drona meeting Partha as one maddened elephant meets another.
+**4.53.9**  Droṇa advanced to meet that best of chariot warriors, the Pāṇḍava, as he came on with speed — Droṇa meeting Pārtha as one maddened elephant meets another.
 
-**4.53.10**  Then he (Drona) blew his conch, which resounded like a hundred kettledrums; the entire army was agitated like a sea churned by the wind.
+**4.53.10**  Then he (Droṇa) blew his conch, which resounded like a hundred kettledrums; the entire army was agitated like a sea churned by the wind.
 
 **4.53.11**  Then men in battle marveled to see those noble red horses mingled with the swift, swan-white ones on the battlefield.
 
 **4.53.12**  Seeing those two chariots, filled with valor, at the front of the battle — the teacher and the pupil, both unconquered, both accomplished in all learning, both resolute of mind —
 
-**4.53.13**  — seeing Drona and Partha, both of great might, thus engaged with each other, the great army of the Bharatas trembled again and again.
+**4.53.13**  — seeing Droṇa and Pārtha, both of great might, thus engaged with each other, the great army of the Bharatas trembled again and again.
 
-**4.53.14**  And Partha, filled with joy, as if smiling, that heroic great chariot warrior, drew alongside Drona's chariot with his own.
+**4.53.14**  And Pārtha, filled with joy, as if smiling, that heroic great chariot warrior, drew alongside Droṇa's chariot with his own.
 
-**4.53.15**  Having paid obeisance, the mighty-armed son of Kunti, slayer of enemy heroes, spoke these soothing and gentle words:
+**4.53.15**  Having paid obeisance, the mighty-armed son of Kuntī, slayer of enemy heroes, spoke these soothing and gentle words:
 
 **4.53.16**  "We have dwelt in the forest, wishing to repay what was done to us. You ought not be angry with us, O you who are ever unconquerable in battle."
 
 **4.53.17**  "But I shall strike only after you have struck first, O sinless one — such is the thought in my mind. May the revered one (preceptor) therefore act accordingly."
 
-**4.53.18**  Then Drona shot more than twenty arrows at him; but before they reached him, Partha cut them all down with practiced hand.
+**4.53.18**  Then Droṇa shot more than twenty arrows at him; but before they reached him, Pārtha cut them all down with practiced hand.
 
-**4.53.19**  Then the valiant Drona showered a thousand arrows upon Partha's chariot, quickly displaying his mastery of weaponry.
+**4.53.19**  Then the valiant Droṇa showered a thousand arrows upon Pārtha's chariot, quickly displaying his mastery of weaponry.
 
-**4.53.20**  Thus the battle unfolded between Bharadvaja's son (Drona) and the diademed one (Arjuna), both releasing blazing-tipped arrows equally in the contest.
+**4.53.20**  Thus the battle unfolded between Bharadvaja's son (Droṇa) and the diademed one (Arjuna), both releasing blazing-tipped arrows equally in the contest.
 
 **4.53.21**  Both renowned for their deeds, both equal to the wind in speed, both versed in celestial weapons, both of supreme splendor — as they hurled their nets of arrows, they bewildered even the kings.
 
 **4.53.22**  Then all the warriors assembled there marveled, honoring them with cries of "Excellent! Excellent!" as they released their arrows with such swiftness.
 
-**4.53.23**  "Who else but Phalguna is worthy to fight Drona in battle? This is the fierce dharma of the warrior class — that he fights even against his own preceptor" — so spoke the men standing at the front of the battle.
+**4.53.23**  "Who else but Phalguna is worthy to fight Droṇa in battle? This is the fierce dharma of the warrior class — that he fights even against his own preceptor" — so spoke the men standing at the front of the battle.
 
 **4.53.24**  And those two heroes, both enraged, both great chariot warriors drawing close to each other, both undefeated, covered each other with masses of arrows.
 
@@ -2806,33 +2806,33 @@ translator: thothica
 
 **4.53.26**  With nets of arrows, whetted on stone and blazing with light, launched toward Arjuna's chariot, he covered even the radiance of the sun.
 
-**4.53.27**  And that great chariot warrior, the mighty-armed one, pierced Partha with swift, sharp arrows, as a cloud pierces a mountain with rain.
+**4.53.27**  And that great chariot warrior, the mighty-armed one, pierced Pārtha with swift, sharp arrows, as a cloud pierces a mountain with rain.
 
-**4.53.28**  Likewise the Pandava, taking up his divine Gandiva bow — that supreme instrument of bearing the burden of battle, the enemy's destroyer, swift as the wind — boldly released many varied arrows fashioned with golden decorations.
+**4.53.28**  Likewise the Pāṇḍava, taking up his divine Gāṇḍīva bow — that supreme instrument of bearing the burden of battle, the enemy's destroyer, swift as the wind — boldly released many varied arrows fashioned with golden decorations.
 
 **4.53.29**  Destroying Bharadvaja's son's showers of arrows with shafts quickly loosed from his bow, the valiant one performed what seemed like a wonder.
 
-**4.53.30**  Dhananjaya, Partha, moving in his chariot — a splendid sight to behold — simultaneously displayed all his weapons in every direction.
+**4.53.30**  Dhanañjaya, Pārtha, moving in his chariot — a splendid sight to behold — simultaneously displayed all his weapons in every direction.
 
-**4.53.31**  He made the sky like a single shadow with arrows on all sides; Drona was not visible at that moment, covered as if by a mist.
+**4.53.31**  He made the sky like a single shadow with arrows on all sides; Droṇa was not visible at that moment, covered as if by a mist.
 
 **4.53.32**  His form at that moment, enveloped by those finest of arrows blazing all around, was like a mountain blazing with fire on all sides.
 
-**4.53.33**  But seeing his own chariot covered by Partha's arrows in battle, Drona drew his wondrous bow, whose sound was like the rumbling of thunder clouds,
+**4.53.33**  But seeing his own chariot covered by Pārtha's arrows in battle, Droṇa drew his wondrous bow, whose sound was like the rumbling of thunder clouds,
 
-**4.53.34**  — terrible as a wheel of fire — drawing that supreme weapon to its fullest, that glorious one in battle, Drona, shattered those arrows; and then there arose a great sound like that of bamboos burning.
+**4.53.34**  — terrible as a wheel of fire — drawing that supreme weapon to its fullest, that glorious one in battle, Droṇa, shattered those arrows; and then there arose a great sound like that of bamboos burning.
 
 **4.53.35**  With arrows whose nocks were made of refined gold, issuing from that excellent and decorated bow, the immeasurable-souled one covered the directions and the brilliance of the sun.
 
 **4.53.36**  Then those gold-nocked arrows with their smooth joints, flying through the sky, were seen in great numbers by the people — filling the heavens.
 
-**4.53.37**  The arrows issuing from Drona's bow, clinging together nock to nock, appeared in the sky as a single long, continuous arrow.
+**4.53.37**  The arrows issuing from Droṇa's bow, clinging together nock to nock, appeared in the sky as a single long, continuous arrow.
 
 **4.53.38**  Thus those two heroes, releasing great arrows adorned with gold, made the sky as if covered with meteors.
 
 **4.53.39**  And their arrows, feathered with heron and peacock plumes, shone like lines of swans moving through the autumn sky.
 
-**4.53.40**  A fierce, terrible battle arose there between those two great souls, Drona and the Pandava, like the battle between Vritra and Vasava (Indra).
+**4.53.40**  A fierce, terrible battle arose there between those two great souls, Droṇa and the Pāṇḍava, like the battle between Vṛtra and Vāsava (Indra).
 
 **4.53.41**  And like two elephants approaching each other and striking with the tips of their tusks, they struck each other with arrows released at full draw.
 
@@ -2842,13 +2842,13 @@ translator: thothica
 
 **4.53.44**  Displaying himself, Indra's son (Arjuna), fierce and of fierce valor, swiftly covered the sky with many arrows.
 
-**4.53.45**  Drona, the chief of preceptors, the best of weapon-bearers, sported with Arjuna in battle — even as Arjuna, that tiger among men of blazing splendor, sought to slay him — playing with arrows of smooth-jointed shafts.
+**4.53.45**  Droṇa, the chief of preceptors, the best of weapon-bearers, sported with Arjuna in battle — even as Arjuna, that tiger among men of blazing splendor, sought to slay him — playing with arrows of smooth-jointed shafts.
 
 **4.53.46**  Against Bharadvaja's son releasing divine weapons in the great battle, Phalguna countered weapon with weapon and fought him equally.
 
 **4.53.47**  The collision of those two lions among men, both enraged, both intolerant of each other, was like the clash of gods and demons.
 
-**4.53.48**  The Pandava absorbed with his own weapon, again and again, the Aindra (Indra's), the Vayavya (wind-god's), and the Agneya (fire-god's) weapons as Drona released them one after another.
+**4.53.48**  The Pāṇḍava absorbed with his own weapon, again and again, the Aindra (Indra's), the Vāyavya (wind-god's), and the Āgneya (fire-god's) weapons as Droṇa released them one after another.
 
 **4.53.49**  Thus those two heroes, those great bowmen, releasing sharp arrows, made the sky like a single shadow with their showers of shafts.
 
@@ -2858,43 +2858,43 @@ translator: thothica
 
 **4.53.52**  And with arms still bearing their armlets, with great chariot warriors fallen, with golden and variegated armor and with banners brought down —
 
-**4.53.53**  — and with warriors slain there, tormented by Partha's arrows, the army was thrown into turmoil at the clash of Drona and Arjuna.
+**4.53.53**  — and with warriors slain there, tormented by Pārtha's arrows, the army was thrown into turmoil at the clash of Droṇa and Arjuna.
 
 **4.53.54**  But those two heroes, brandishing their bows — those instruments for bearing the burden of battle — covered each other with arrows, enduring the shafts of war.
 
-**4.53.55**  Then there arose a sound in the sky from those praising Drona: "Drona has accomplished a feat hard to perform — that he fought against Arjuna."
+**4.53.55**  Then there arose a sound in the sky from those praising Droṇa: "Droṇa has accomplished a feat hard to perform — that he fought against Arjuna."
 
 **4.53.56**  "That agitator of all, of great valor, firm of fist, hard to approach, the conqueror of gods, demons, and serpents, that great chariot warrior —"
 
-**4.53.57**  And seeing Partha's ceaseless skill, swiftness, and ability to shoot at distant targets in battle, Drona too was filled with wonder.
+**4.53.57**  And seeing Pārtha's ceaseless skill, swiftness, and ability to shoot at distant targets in battle, Droṇa too was filled with wonder.
 
-**4.53.58**  Then, O bull of the Bharatas, the intolerant Partha, taking up his divine Gandiva bow, drew it with both arms in battle.
+**4.53.58**  Then, O bull of the Bharatas, the intolerant Pārtha, taking up his divine Gāṇḍīva bow, drew it with both arms in battle.
 
 **4.53.59**  His rain of arrows, like an extending swarm of locusts — even the wind could not pass through the gaps between those shafts.
 
-**4.53.60**  No interval whatsoever was seen in Partha at that moment, whether he was nocking arrows ceaselessly, releasing them, or taking them up again.
+**4.53.60**  No interval whatsoever was seen in Pārtha at that moment, whether he was nocking arrows ceaselessly, releasing them, or taking them up again.
 
-**4.53.61**  And so, while that terrible battle of swift weapons proceeded, Partha released yet more arrows — faster than fast.
+**4.53.61**  And so, while that terrible battle of swift weapons proceeded, Pārtha released yet more arrows — faster than fast.
 
-**4.53.62**  Then hundreds of thousands of arrows with smooth joints descended upon Drona's chariot simultaneously from close range.
+**4.53.62**  Then hundreds of thousands of arrows with smooth joints descended upon Droṇa's chariot simultaneously from close range.
 
-**4.53.63**  As Drona was being showered by the arrows of the Gandiva-bearer, O bull of the Bharatas, a great cry of "Ah! Ah!" rose from the troops.
+**4.53.63**  As Droṇa was being showered by the arrows of the Gāṇḍīva-bearer, O bull of the Bharatas, a great cry of "Ah! Ah!" rose from the troops.
 
-**4.53.64**  Maghavan (Indra) honored the Pandava's swift weaponry, and so did the gandharvas, the apsaras, and all who had assembled there.
+**4.53.64**  Maghavan (Indra) honored the Pāṇḍava's swift weaponry, and so did the gandharvas, the apsaras, and all who had assembled there.
 
-**4.53.65**  Then Ashvatthama, the son of the preceptor, commander of a chariot division, suddenly checked the Pandava with a great multitude of chariots.
+**4.53.65**  Then Aśvatthāmā, the son of the preceptor, commander of a chariot division, suddenly checked the Pāṇḍava with a great multitude of chariots.
 
-**4.53.66**  Yet Ashvatthama in his heart honored the feat of the great-souled Partha, even as he aroused in himself great anger.
+**4.53.66**  Yet Aśvatthāmā in his heart honored the feat of the great-souled Pārtha, even as he aroused in himself great anger.
 
-**4.53.67**  He, overcome by rage, charged at Partha in battle, showering thousands of arrows like a rain-laden thundercloud.
+**4.53.67**  He, overcome by rage, charged at Pārtha in battle, showering thousands of arrows like a rain-laden thundercloud.
 
-**4.53.68**  But the mighty-armed Partha, turning his horses toward where Drona's son (Ashvatthama) was, gave Drona an interval to withdraw.
+**4.53.68**  But the mighty-armed Pārtha, turning his horses toward where Droṇa's son (Aśvatthāmā) was, gave Droṇa an interval to withdraw.
 
-**4.53.69**  And Drona, having gained that interval, quickly departed with his swift horses — that hero, his armor and banner cut down, himself struck by the finest arrows.
+**4.53.69**  And Droṇa, having gained that interval, quickly departed with his swift horses — that hero, his armor and banner cut down, himself struck by the finest arrows.
 
-**4.54.1**  Vaishampayana said: Partha received him (Ashvatthama) — rising like a gust of wind, pouring arrows like a cloud — with a great net of arrows.
+**4.54.1**  Vaiśaṃpāyana said: Pārtha received him (Aśvatthāmā) — rising like a gust of wind, pouring arrows like a cloud — with a great net of arrows.
 
-**4.54.2**  Their great clash, both of them hurling nets of arrows, was like the meeting of gods and demons — like the clash of Vritra and Vasava.
+**4.54.2**  Their great clash, both of them hurling nets of arrows, was like the meeting of gods and demons — like the clash of Vṛtra and Vāsava.
 
 **4.54.3**  The sun did not shine at that moment, nor did the wind blow, as the sky was made dense with arrows and became shadow all around.
 
@@ -2902,13 +2902,13 @@ translator: thothica
 
 **4.54.5**  Arjuna made all the horses of his opponent nearly lifeless with his arrows; that king, O lord, could not discern any direction, so bewildered was he.
 
-**4.54.6**  Then Drona's son, of great might, spying a tiny opening as Partha moved about, severed his bowstring with a razor-headed arrow. The gods praised that deed of his, seeing it to be superhuman.
+**4.54.6**  Then Droṇa's son, of great might, spying a tiny opening as Pārtha moved about, severed his bowstring with a razor-headed arrow. The gods praised that deed of his, seeing it to be superhuman.
 
-**4.54.7**  Then Drona's son, having shattered eight of that bull among men's bows, once again struck Partha in the chest with heron-feathered shafts.
+**4.54.7**  Then Droṇa's son, having shattered eight of that bull among men's bows, once again struck Pārtha in the chest with heron-feathered shafts.
 
-**4.54.8**  Then Partha the long-armed, laughing aloud, strung Gandiva with a new bowstring with vigor.
+**4.54.8**  Then Pārtha the long-armed, laughing aloud, strung Gāṇḍīva with a new bowstring with vigor.
 
-**4.54.9**  Then Partha, drawing back a crescent-shaped arrow, closed in upon him, like a maddened bull elephant advancing upon another maddened leader of a herd.
+**4.54.9**  Then Pārtha, drawing back a crescent-shaped arrow, closed in upon him, like a maddened bull elephant advancing upon another maddened leader of a herd.
 
 **4.54.10**  Then a great battle commenced between those two heroes, unique in the world, in the midst of the fighting, hair-raising and extraordinary.
 
@@ -2916,79 +2916,79 @@ translator: thothica
 
 **4.54.12**  Those two heroic bulls among men struck each other with arrows resembling venomous serpents, blazing like fiery serpents.
 
-**4.54.13**  The great-souled son of Pandu had two divine quivers that never emptied; thus Partha, the hero, stood firm in battle like an immovable mountain.
+**4.54.13**  The great-souled son of Pāṇḍu had two divine quivers that never emptied; thus Pārtha, the hero, stood firm in battle like an immovable mountain.
 
-**4.54.14**  The arrows of Ashvatthama, who was shooting swiftly in battle, went into rapid exhaustion; by this it became clear that Arjuna was superior to him.
+**4.54.14**  The arrows of Aśvatthāmā, who was shooting swiftly in battle, went into rapid exhaustion; by this it became clear that Arjuna was superior to him.
 
-**4.54.15**  Then Karna, drawing his great bow with exceeding fury, released it downward; thereupon arose a great cry of lamentation.
+**4.54.15**  Then Karṇa, drawing his great bow with exceeding fury, released it downward; thereupon arose a great cry of lamentation.
 
-**4.54.16**  Partha turned his eyes toward where the bow was being drawn; he saw Radha's son there, and his anger flared beyond measure.
+**4.54.16**  Pārtha turned his eyes toward where the bow was being drawn; he saw Rādhā's son there, and his anger flared beyond measure.
 
-**4.54.17**  Seized by rage, that bull of the Kurus stared fixedly at Karna with both eyes wide open, desiring to slay him.
+**4.54.17**  Seized by rage, that bull of the Kurus stared fixedly at Karṇa with both eyes wide open, desiring to slay him.
 
-**4.54.18**  While Partha had turned away like this, O king, swift men brought thousands of arrows to Drona's son.
+**4.54.18**  While Pārtha had turned away like this, O king, swift men brought thousands of arrows to Droṇa's son.
 
-**4.54.19**  And Dhananjaya the long-armed, the slayer of foes, leaving Drona's son, suddenly rushed straight at Karna.
+**4.54.19**  And Dhanañjaya the long-armed, the slayer of foes, leaving Droṇa's son, suddenly rushed straight at Karṇa.
 
-**4.54.20**  Rushing at him, Kunti's son, his eyes red with anger, desiring single combat on chariots, spoke these words:
+**4.54.20**  Rushing at him, Kuntī's son, his eyes red with anger, desiring single combat on chariots, spoke these words:
 
-**4.55.1**  Arjuna said: O Karna, what you boasted loudly in the midst of the assembly hall in words — that there is no one equal to me in battle — that moment has now arrived.
+**4.55.1**  Arjuna said: O Karṇa, what you boasted loudly in the midst of the assembly hall in words — that there is no one equal to me in battle — that moment has now arrived.
 
 **4.55.2**  You spoke harsh words, abandoning righteousness entirely; yet I consider what you now intend to do to be very difficult indeed.
 
-**4.55.3**  What you declared before without having met me in any way — do that today, O son of Radha, in the midst of the Kurus, against me.
+**4.55.3**  What you declared before without having met me in any way — do that today, O son of Rādhā, in the midst of the Kurus, against me.
 
-**4.55.4**  You witnessed the princess of Panchala being tormented by those evil-souled men in the assembly hall; now reap the fruit of that, and that alone.
+**4.55.4**  You witnessed the princess of Pāñcāla being tormented by those evil-souled men in the assembly hall; now reap the fruit of that, and that alone.
 
-**4.55.5**  What I endured before, bound by the bonds of dharma — behold my victory born of that anger now, O son of Radha, in this battle.
+**4.55.5**  What I endured before, bound by the bonds of dharma — behold my victory born of that anger now, O son of Rādhā, in this battle.
 
-**4.55.6**  Come, O Karna, engage in combat with me; let all the Kurus together with their armies be spectators.
+**4.55.6**  Come, O Karṇa, engage in combat with me; let all the Kurus together with their armies be spectators.
 
-**4.55.7**  Karna said: What you say in words, O Partha, accomplish in deeds; for it is well-known in the world that action surpasses speech.
+**4.55.7**  Karṇa said: What you say in words, O Pārtha, accomplish in deeds; for it is well-known in the world that action surpasses speech.
 
-**4.55.8**  What you endured before — I take it that it was endured out of weakness, O Partha, having now witnessed your inferior valor.
+**4.55.8**  What you endured before — I take it that it was endured out of weakness, O Pārtha, having now witnessed your inferior valor.
 
 **4.55.9**  If you endured before bound by the cords of dharma, even so you think yourself unbound, though you are bound in the same way.
 
 **4.55.10**  If indeed the forest dwelling was observed by you as stipulated, then you who know the purpose of dharma are distressed and wish to break the covenant.
 
-**4.55.11**  Even if Indra himself were to fight on your behalf, O Partha, still no distress whatsoever would befall me as I display my valor.
+**4.55.11**  Even if Indra himself were to fight on your behalf, O Pārtha, still no distress whatsoever would befall me as I display my valor.
 
-**4.55.12**  This desire of yours, O son of Kunti, has arrived soon enough; you will fight with me today — behold my strength.
+**4.55.12**  This desire of yours, O son of Kuntī, has arrived soon enough; you will fight with me today — behold my strength.
 
-**4.55.13**  Arjuna said: Just now you retreated from my battle, and by that you live, O son of Radha; but your younger brother has been slain.
+**4.55.13**  Arjuna said: Just now you retreated from my battle, and by that you live, O son of Rādhā; but your younger brother has been slain.
 
 **4.55.14**  Having caused your brother to be slain and having abandoned the forefront of battle, what other man among the good, placed in your position, would speak thus?
 
-**4.55.15**  Vaishampayana said: Speaking thus to Karna, the invincible Bibhatsu advanced, releasing arrows that pierced through bodily armor.
+**4.55.15**  Vaiśaṃpāyana said: Speaking thus to Karṇa, the invincible Bībhatsu advanced, releasing arrows that pierced through bodily armor.
 
-**4.55.16**  Karna received those arrows, resembling flames of fire, with a great shower of arrows, like a rain cloud pouring rain.
+**4.55.16**  Karṇa received those arrows, resembling flames of fire, with a great shower of arrows, like a rain cloud pouring rain.
 
 **4.55.17**  Terrifying nets of arrows flew out in all directions; he pierced the horses, and separately struck both his arms and the arm-guard of his hand.
 
-**4.55.18**  He, unable to endure it, severed the strap of Karna's quiver with a sharp-tipped arrow of bent joints.
+**4.55.18**  He, unable to endure it, severed the strap of Karṇa's quiver with a sharp-tipped arrow of bent joints.
 
-**4.55.19**  Then Karna, taking arrows from another quiver, pierced the son of Pandu in the hand; his grip was shattered.
+**4.55.19**  Then Karṇa, taking arrows from another quiver, pierced the son of Pāṇḍu in the hand; his grip was shattered.
 
-**4.55.20**  Then Partha the long-armed cut Karna's bow; he hurled a spear at Partha, and Partha shattered it with arrows.
+**4.55.20**  Then Pārtha the long-armed cut Karṇa's bow; he hurled a spear at Pārtha, and Pārtha shattered it with arrows.
 
-**4.55.21**  Then many of Radha's son's foot-soldiers rushed forward; those he dispatched to the abode of Yama with shafts released from Gandiva.
+**4.55.21**  Then many of Rādhā's son's foot-soldiers rushed forward; those he dispatched to the abode of Yama with shafts released from Gāṇḍīva.
 
-**4.55.22**  Then Bibhatsu struck Karna's horses with sharp arrows, effective for heavy work, drawn to the ear; they fell slain upon the earth.
+**4.55.22**  Then Bībhatsu struck Karṇa's horses with sharp arrows, effective for heavy work, drawn to the ear; they fell slain upon the earth.
 
-**4.55.23**  Then with another blazing arrow, the mighty-armed and valiant son of Kunti pierced Karna in the chest with a sharp shaft.
+**4.55.23**  Then with another blazing arrow, the mighty-armed and valiant son of Kuntī pierced Karṇa in the chest with a sharp shaft.
 
 **4.55.24**  That arrow, piercing through his armor, struck his body; then he was overcome by darkness and knew nothing at all.
 
 **4.55.25**  He, in deep pain, abandoned the battle and went away northward; then Arjuna cried out in triumph, and so did the great warrior Uttara.
 
-**4.56.1**  Vaishampayana said: Then, having conquered the son of Vikartana, Partha said to the son of Virata: Drive me to the army where the golden palm-tree standard stands.
+**4.56.1**  Vaiśaṃpāyana said: Then, having conquered the son of Vikartana, Pārtha said to the son of Virāṭa: Drive me to the army where the golden palm-tree standard stands.
 
-**4.56.2**  Here the son of Shantanu, Bhishma, our grandsire, godlike in appearance, stands wishing to fight with me; I will even take his bowstring in battle.
+**4.56.2**  Here the son of Shantanu, Bhīṣma, our grandsire, godlike in appearance, stands wishing to fight with me; I will even take his bowstring in battle.
 
 **4.56.3**  Behold me today releasing wonderful divine weapons, like lightning coming from a storm cloud in the sky.
 
-**4.56.4**  The Kurus will see my gold-backed Gandiva — and all the assembled enemies will wonder: with which hand, right or left, does he shoot?
+**4.56.4**  The Kurus will see my gold-backed Gāṇḍīva — and all the assembled enemies will wonder: with which hand, right or left, does he shoot?
 
 **4.56.5**  I will cause a river to flow, with blood for water, with chariots for its eddies, with elephants for its crocodiles, impassable, flowing toward the other world.
 
@@ -2998,9 +2998,9 @@ translator: thothica
 
 **4.56.8**  Stand unperturbed on the chariot on level and uneven ground; I will split the mountain that stands filling the sky with my arrow-bearing shafts.
 
-**4.56.9**  I, at Indra's command, once slew in battle the Paulomas and the Kalakhanjas by the hundreds and thousands.
+**4.56.9**  I, at Indra's command, once slew in battle the Paulomas and the Kālakhañjas by the hundreds and thousands.
 
-**4.56.10**  From Indra I obtained the firm grip, from Brahma the skilled handwork, the deep, tumultuous, and wonderful release — the art of the Lord of Creatures.
+**4.56.10**  From Indra I obtained the firm grip, from Brahmā the skilled handwork, the deep, tumultuous, and wonderful release — the art of the Lord of Creatures.
 
 **4.56.11**  I, beyond the ocean, destroyed the golden city, conquering sixty thousand fierce bowmen in chariots.
 
@@ -3008,45 +3008,45 @@ translator: thothica
 
 **4.56.13**  I alone will sweep them from their chariot-nests with bent-jointed arrows, as the Wielder of the Thunderbolt swept away the demons.
 
-**4.56.14**  From Rudra I obtained the Raudra weapon, from Varuna the Varuna weapon, from Agni the Agneya weapon, from the wind-god the Vayavya weapon, and from Indra the thunderbolt and other weapons.
+**4.56.14**  From Rudra I obtained the Raudra weapon, from Varuṇa the Varuṇa weapon, from Agni the Āgneya weapon, from the wind-god the Vāyavya weapon, and from Indra the thunderbolt and other weapons.
 
-**4.56.15**  I will uproot the terrible forest of the sons of Dhritarashtra, guarded by human lions; let your fear depart, O son of Virata.
+**4.56.15**  I will uproot the terrible forest of the sons of Dhṛtarāṣṭra, guarded by human lions; let your fear depart, O son of Virāṭa.
 
-**4.56.16**  Thus reassured by the ambidextrous one, the son of Virata plunged into the formidable chariot-army of the wise Bhishma.
+**4.56.16**  Thus reassured by the ambidextrous one, the son of Virāṭa plunged into the formidable chariot-army of the wise Bhīṣma.
 
-**4.56.17**  The doer of cruel deeds, composedly, opposed Dhananjaya the long-armed as he came, wishing to conquer enemies in battle.
+**4.56.17**  The doer of cruel deeds, composedly, opposed Dhanañjaya the long-armed as he came, wishing to conquer enemies in battle.
 
 **4.56.18**  Those of varied garlands and ornaments, skilled in knowledge, and resolute of mind came against him of the terrible bow, having strung their bowstrings upon their arms.
 
-**4.56.19**  Duhshasana, Vikarna, Duhhsaha, and Vivimshati came and surrounded the terrible-bowed Bibhatsu.
+**4.56.19**  Duḥśāsana, Vikarṇa, Duhhsaha, and Viviṃśati came and surrounded the terrible-bowed Bībhatsu.
 
-**4.56.20**  But Duhshasana the hero, with one broad-headed arrow pierced Uttara the son of Virata, and with a second pierced Arjuna in the chest.
+**4.56.20**  But Duḥśāsana the hero, with one broad-headed arrow pierced Uttara the son of Virāṭa, and with a second pierced Arjuna in the chest.
 
-**4.56.21**  Turning toward him, Jishnu cut that broad-edged bow with a vulture-feathered shaft adorned with gold.
+**4.56.21**  Turning toward him, Jiṣṇu cut that broad-edged bow with a vulture-feathered shaft adorned with gold.
 
-**4.56.22**  Then he pierced him in the chest with five more arrows from behind; he departed, abandoning the battle, tormented by Partha's arrows.
+**4.56.22**  Then he pierced him in the chest with five more arrows from behind; he departed, abandoning the battle, tormented by Pārtha's arrows.
 
-**4.56.23**  Vikarna, the son of Dhritarashtra, pierced Arjuna, the slayer of enemy heroes, with sharp, straight-flying, vulture-feathered arrows.
+**4.56.23**  Vikarṇa, the son of Dhṛtarāṣṭra, pierced Arjuna, the slayer of enemy heroes, with sharp, straight-flying, vulture-feathered arrows.
 
-**4.56.24**  Then the son of Kunti quickly struck him too on the forehead with a bent-jointed arrow; struck, he fell from his chariot.
+**4.56.24**  Then the son of Kuntī quickly struck him too on the forehead with a bent-jointed arrow; struck, he fell from his chariot.
 
-**4.56.25**  Then Duhsaha together with Vivimshati rushed at Partha and covered him with sharp arrows, seeking to protect his brother in battle.
+**4.56.25**  Then Duhsaha together with Viviṃśati rushed at Pārtha and covered him with sharp arrows, seeking to protect his brother in battle.
 
-**4.56.26**  Dhananjaya, undisturbed, piercing both of them simultaneously with two sharp vulture-feathered arrows, slew their horses.
+**4.56.26**  Dhanañjaya, undisturbed, piercing both of them simultaneously with two sharp vulture-feathered arrows, slew their horses.
 
-**4.56.27**  Those two sons of Dhritarashtra, their horses slain and their bodies pierced, were carried away on other chariots, followed by their foot soldiers.
+**4.56.27**  Those two sons of Dhṛtarāṣṭra, their horses slain and their bodies pierced, were carried away on other chariots, followed by their foot soldiers.
 
-**4.56.28**  The invincible Bibhatsu, the son of Kunti, wearing the diadem and garlands, mighty and having attained his aim, swooped upon all directions.
+**4.56.28**  The invincible Bībhatsu, the son of Kuntī, wearing the diadem and garlands, mighty and having attained his aim, swooped upon all directions.
 
-**4.57.1**  Vaishampayana said: Then all the great warriors of the Kauravas, coming together, joined forces and vigilantly fought back against Arjuna, O Bharata.
+**4.57.1**  Vaiśaṃpāyana said: Then all the great warriors of the Kauravas, coming together, joined forces and vigilantly fought back against Arjuna, O Bharata.
 
 **4.57.2**  He of immeasurable spirit covered those great warriors on all sides with nets of arrows, like mist covering mountains.
 
 **4.57.3**  With roaring great elephants and neighing horses, and with the sounds of kettledrums and conches, that noise became tumultuous.
 
-**4.57.4**  Piercing through the bodies of men and horses and through iron armors, Partha's nets of arrows flew out by the thousands.
+**4.57.4**  Piercing through the bodies of men and horses and through iron armors, Pārtha's nets of arrows flew out by the thousands.
 
-**4.57.5**  Swiftly releasing arrows, the son of Pandu shone in battle like the autumn sun at midday, blazing with rays.
+**4.57.5**  Swiftly releasing arrows, the son of Pāṇḍu shone in battle like the autumn sun at midday, blazing with rays.
 
 **4.57.6**  Terrified chariot-warriors then tumbled from their chariots, horsemen from the backs of their horses, and foot soldiers fell upon the ground.
 
@@ -3054,9 +3054,9 @@ translator: thothica
 
 **4.57.8**  The entire battlefield was covered with the bodies of those who had lost consciousness — elephants, horses, riders, and others whose lives had been taken by sharp arrows.
 
-**4.57.9**  The earth was strewn with men who had fallen from their chariot platforms; Dhananjaya with bow in hand seemed to dance in the battle.
+**4.57.9**  The earth was strewn with men who had fallen from their chariot platforms; Dhanañjaya with bow in hand seemed to dance in the battle.
 
-**4.57.10**  Hearing the twang of Gandiva, like the crash of a thunderbolt, all living beings, terrified, fled from that great battle.
+**4.57.10**  Hearing the twang of Gāṇḍīva, like the crash of a thunderbolt, all living beings, terrified, fled from that great battle.
 
 **4.57.11**  Heads adorned with earrings and turbans, garlanded with gold, could be seen fallen at the forefront of battle.
 
@@ -3064,25 +3064,25 @@ translator: thothica
 
 **4.57.13**  O bull of the Bharata line, as heads were being felled by sharp arrows, it was as though a rain of stones fell from the sky.
 
-**4.57.14**  Having thus revealed his terrible form, with the valor of Rudra himself, Partha the son of Pandu — who had been constrained and wandering for thirteen years — now unleashed the dreadful fire of his wrath upon the sons of Dhritarashtra.
+**4.57.14**  Having thus revealed his terrible form, with the valor of Rudra himself, Pārtha the son of Pāṇḍu — who had been constrained and wandering for thirteen years — now unleashed the dreadful fire of his wrath upon the sons of Dhṛtarāṣṭra.
 
-**4.57.15**  Seeing him burn the army and beholding his valor, all the warriors of Dhritarashtra's son became intent on making peace, while their king looked on.
+**4.57.15**  Seeing him burn the army and beholding his valor, all the warriors of Dhṛtarāṣṭra's son became intent on making peace, while their king looked on.
 
 **4.57.16**  Having terrified that army and routed the great chariot-warriors, Arjuna, the foremost among the victorious, wheeled about, O Bharata.
 
 **4.57.17**  He set in motion a dreadful river with waves of torrential blood, choked with bones serving as its moss, fashioned by Time at the end of an age.
 
-**4.57.18**  Partha created a great and dreadful river flowing northward with blood — its rafts were arrows and bows, its mud was flesh and gore, its great islands were mighty chariot-warriors, and it resounded with the sound of conches and drums.
+**4.57.18**  Pārtha created a great and dreadful river flowing northward with blood — its rafts were arrows and bows, its mud was flesh and gore, its great islands were mighty chariot-warriors, and it resounded with the sound of conches and drums.
 
-**4.57.19**  As he picked up arrows, nocked them, and released them, and as he drew the Gandiva bow, no interval whatsoever could be perceived in his actions.
+**4.57.19**  As he picked up arrows, nocked them, and released them, and as he drew the Gāṇḍīva bow, no interval whatsoever could be perceived in his actions.
 
-**4.58.1**  Vaishampayana said: Then Duryodhana, Karna, Duhshasana, Vivimshati, Drona together with his son, and Kripa — an outstanding chariot-warrior in battle —
+**4.58.1**  Vaiśaṃpāyana said: Then Duryodhana, Karṇa, Duḥśāsana, Viviṃśati, Droṇa together with his son, and Kṛpa — an outstanding chariot-warrior in battle —
 
-**4.58.2**  — came forward again in great fury, with the desire to slay Dhananjaya, twanging their powerful and sturdy bows.
+**4.58.2**  — came forward again in great fury, with the desire to slay Dhanañjaya, twanging their powerful and sturdy bows.
 
 **4.58.3**  O great king, the one with the monkey banner advanced to meet them all together in his chariot, whose scattered pennants blazed like the sun.
 
-**4.58.4**  Then Kripa, Karna, and Drona — the foremost among chariot-warriors — surrounded Dhananjaya, that man of immense valor, with great celestial weapons.
+**4.58.4**  Then Kṛpa, Karṇa, and Droṇa — the foremost among chariot-warriors — surrounded Dhanañjaya, that man of immense valor, with great celestial weapons.
 
 **4.58.5**  Releasing volleys of arrows accurately, like monsoon clouds in the rainy season, they rained down showers of arrows upon the diademed warrior as he advanced.
 
@@ -3090,109 +3090,109 @@ translator: thothica
 
 **4.58.7**  As he was covered on all sides by those divine weapons, not even two finger-breadths of his body remained uncovered.
 
-**4.58.8**  Then Bibhatsu, that great chariot-warrior, smiled and invoked upon the Gandiva the divine weapon of Indra, blazing like the sun.
+**4.58.8**  Then Bībhatsu, that great chariot-warrior, smiled and invoked upon the Gāṇḍīva the divine weapon of Indra, blazing like the sun.
 
-**4.58.9**  Like the sun with its rays, the mighty diademed son of Kunti, blazing in battle, covered over all the Kurus.
+**4.58.9**  Like the sun with its rays, the mighty diademed son of Kuntī, blazing in battle, covered over all the Kurus.
 
-**4.58.10**  Just as lightning flashes in a storm-cloud, or fire blazes on a rocky mountain, so the Gandiva appeared like Indra's own weapon stretched wide.
+**4.58.10**  Just as lightning flashes in a storm-cloud, or fire blazes on a rocky mountain, so the Gāṇḍīva appeared like Indra's own weapon stretched wide.
 
-**4.58.11**  Just as lightning blazes in the sky when the rain-cloud pours down, so the flying Gandiva covered all ten directions.
+**4.58.11**  Just as lightning blazes in the sky when the rain-cloud pours down, so the flying Gāṇḍīva covered all ten directions.
 
 **4.58.12**  All the chariot-warriors everywhere became terrified; becoming intent on peace, they could not collect their own thoughts. All those warriors turned their faces away from battle, their spirits broken.
 
 **4.58.13**  Thus, O bull of the Bharata line, all the armies were broken and fled in every direction, without hope for their own lives.
 
-**4.59.1**  Vaishampayana said: Then Bhishma, son of Shantanu — irresistible and of great prowess — charged at Dhananjaya while the warriors were being slaughtered.
+**4.59.1**  Vaiśaṃpāyana said: Then Bhīṣma, son of Shantanu — irresistible and of great prowess — charged at Dhanañjaya while the warriors were being slaughtered.
 
 **4.59.2**  Taking up his finest bow adorned with gold, and taking sharp-tipped arrows capable of piercing the vital points and causing destruction —
 
 **4.59.3**  — that tiger among men, with a white umbrella held above his head, shone like a mountain at sunrise.
 
-**4.59.4**  Blowing his conch and filling the sons of Dhritarashtra with joy, the son of the Ganga circled to the right and checked Bibhatsu.
+**4.59.4**  Blowing his conch and filling the sons of Dhṛtarāṣṭra with joy, the son of the Gaṅgā circled to the right and checked Bībhatsu.
 
-**4.59.5**  Beholding him coming thus, the son of Kunti, slayer of enemy heroes, received him with joyful spirit, like a mountain receiving a rain-bearing cloud.
+**4.59.5**  Beholding him coming thus, the son of Kuntī, slayer of enemy heroes, received him with joyful spirit, like a mountain receiving a rain-bearing cloud.
 
-**4.59.6**  Then valiant Bhishma shot eight arrows of great speed into Partha's banner — arrows hissing like serpents.
+**4.59.6**  Then valiant Bhīṣma shot eight arrows of great speed into Pārtha's banner — arrows hissing like serpents.
 
-**4.59.7**  Those feathered and blazing arrows, reaching the banner of the son of Pandu, struck the monkey and those other beings dwelling at the top of the standard.
+**4.59.7**  Those feathered and blazing arrows, reaching the banner of the son of Pāṇḍu, struck the monkey and those other beings dwelling at the top of the standard.
 
-**4.59.8**  Then the son of Pandu swiftly cut Bhishma's umbrella with a great broad-bladed arrow, and it fell to the ground.
+**4.59.8**  Then the son of Pāṇḍu swiftly cut Bhīṣma's umbrella with a great broad-bladed arrow, and it fell to the ground.
 
-**4.59.9**  The son of Kunti, swift in action, also struck his banner hard with arrows, and likewise both his horses, his chariot-drivers, and both rear-guard warriors.
+**4.59.9**  The son of Kuntī, swift in action, also struck his banner hard with arrows, and likewise both his horses, his chariot-drivers, and both rear-guard warriors.
 
-**4.59.10**  The tumultuous and hair-raising battle between Bhishma and Partha was like that of Bali and Vasava (Indra).
+**4.59.10**  The tumultuous and hair-raising battle between Bhīṣma and Pārtha was like that of Bali and Vāsava (Indra).
 
-**4.59.11**  In the battle between Bhishma and the Pandava, broad-headed arrows meeting broad-headed arrows glittered in the sky like fireflies in the rainy season.
+**4.59.11**  In the battle between Bhīṣma and the Pāṇḍava, broad-headed arrows meeting broad-headed arrows glittered in the sky like fireflies in the rainy season.
 
-**4.59.12**  O king, the Gandiva of Partha as he released arrows, shooting to the left and right, appeared like a spinning wheel of fire.
+**4.59.12**  O king, the Gāṇḍīva of Pārtha as he released arrows, shooting to the left and right, appeared like a spinning wheel of fire.
 
-**4.59.13**  He covered Bhishma with hundreds of sharp arrows, like a rain-cloud covering a mountain with streams of water.
+**4.59.13**  He covered Bhīṣma with hundreds of sharp arrows, like a rain-cloud covering a mountain with streams of water.
 
-**4.59.14**  Bhishma dispersed that rising shower of arrows, like a wave tossed up by the sea, with his own shafts and checked Arjuna.
+**4.59.14**  Bhīṣma dispersed that rising shower of arrows, like a wave tossed up by the sea, with his own shafts and checked Arjuna.
 
 **4.59.15**  Then those nets of arrows, cut apart piece by piece in battle, fell scattered toward Phalguna's chariot.
 
-**4.59.16**  Then the rising shower of gold-fletched arrows from the Pandava's chariot — coming swiftly like a swarm of locusts — Bhishma in turn dispersed with hundreds of sharp arrows.
+**4.59.16**  Then the rising shower of gold-fletched arrows from the Pāṇḍava's chariot — coming swiftly like a swarm of locusts — Bhīṣma in turn dispersed with hundreds of sharp arrows.
 
-**4.59.17**  Then all the Kurus cried out "Bravo! Bravo!" saying that Bhishma had done a difficult thing in fighting Arjuna.
+**4.59.17**  Then all the Kurus cried out "Bravo! Bravo!" saying that Bhīṣma had done a difficult thing in fighting Arjuna.
 
-**4.59.18**  The Pandava is powerful, young, skilled, and swift in action — who else is capable of withstanding Partha's speed in battle?
+**4.59.18**  The Pāṇḍava is powerful, young, skilled, and swift in action — who else is capable of withstanding Pārtha's speed in battle?
 
-**4.59.19**  — except Bhishma, son of Shantanu, or Krishna the son of Devaki, or the foremost of teachers, Bharadvaja's son of great strength.
+**4.59.19**  — except Bhīṣma, son of Shantanu, or Kṛṣṇa the son of Devakī, or the foremost of teachers, Bharadvaja's son of great strength.
 
 **4.59.20**  Those two bulls among men, of great power, countering weapons with weapons as if at play, bewildered the eyes of all creatures.
 
-**4.59.21**  Those two great-souled ones moved about in battle employing the weapons of Prajapati, Indra, the terrible weapon of Agni, those of Kubera, Varuna, Yama, and the wind-god.
+**4.59.21**  Those two great-souled ones moved about in battle employing the weapons of Prajāpati, Indra, the terrible weapon of Agni, those of Kubera, Varuṇa, Yama, and the wind-god.
 
-**4.59.22**  Then all beings were astonished, seeing the two in combat, and cried out "Well done, Partha, mighty-armed! Well done, Bhishma!"
+**4.59.22**  Then all beings were astonished, seeing the two in combat, and cried out "Well done, Pārtha, mighty-armed! Well done, Bhīṣma!"
 
-**4.59.23**  "This great deployment of celestial weapons that is seen in the battle between Bhishma and Partha is not fitting for mortals."
+**4.59.23**  "This great deployment of celestial weapons that is seen in the battle between Bhīṣma and Pārtha is not fitting for mortals."
 
-**4.59.24**  Thus the weapon-battle of those two who knew all weapons continued. Then Jishnu (Arjuna), wheeling about, cut Bhishma's bow adorned with gold, with a broad-bladed arrow.
+**4.59.24**  Thus the weapon-battle of those two who knew all weapons continued. Then Jiṣṇu (Arjuna), wheeling about, cut Bhīṣma's bow adorned with gold, with a broad-bladed arrow.
 
-**4.59.25**  In the mere twinkling of an eye, mighty-armed Bhishma of great strength took up another bow in battle, strung it, and in anger quickly released very many arrows at Dhananjaya.
+**4.59.25**  In the mere twinkling of an eye, mighty-armed Bhīṣma of great strength took up another bow in battle, strung it, and in anger quickly released very many arrows at Dhanañjaya.
 
-**4.59.26**  Arjuna too, of very great energy, hurled many varied and sharp arrows at Bhishma, and Bhishma likewise hurled arrows at the Pandava.
+**4.59.26**  Arjuna too, of very great energy, hurled many varied and sharp arrows at Bhīṣma, and Bhīṣma likewise hurled arrows at the Pāṇḍava.
 
 **4.59.27**  O king, as those two great-souled masters of celestial weapons released arrows ceaselessly, no difference between them could be perceived.
 
-**4.59.28**  Then the diademed son of Kunti, that supreme chariot-warrior, covered the ten directions with arrows, and likewise the brave son of Shantanu.
+**4.59.28**  Then the diademed son of Kuntī, that supreme chariot-warrior, covered the ten directions with arrows, and likewise the brave son of Shantanu.
 
-**4.59.29**  O king, the Pandava surpassed Bhishma exceedingly, and Bhishma surpassed the Pandava exceedingly — in that battle it was a wonder to the world.
+**4.59.29**  O king, the Pāṇḍava surpassed Bhīṣma exceedingly, and Bhīṣma surpassed the Pāṇḍava exceedingly — in that battle it was a wonder to the world.
 
-**4.59.30**  O king, the heroic chariot-guards of Bhishma, slain by the Pandava, lay all around the chariot of the son of Kunti.
+**4.59.30**  O king, the heroic chariot-guards of Bhīṣma, slain by the Pāṇḍava, lay all around the chariot of the son of Kuntī.
 
-**4.59.31**  Then the feathered arrows of the white-horsed warrior, loosed from the Gandiva and desiring to make an end of enemies, came forward, tightly bound at the nock.
+**4.59.31**  Then the feathered arrows of the white-horsed warrior, loosed from the Gāṇḍīva and desiring to make an end of enemies, came forward, tightly bound at the nock.
 
 **4.59.32**  Leaping forth from his chariot, gleaming and clothed in gold, they appeared in the sky like lines of swans.
 
-**4.59.33**  As he released that wondrous and deeply potent divine weapon, all the gods together with Vasava (Indra) who stood in the sky looked on.
+**4.59.33**  As he released that wondrous and deeply potent divine weapon, all the gods together with Vāsava (Indra) who stood in the sky looked on.
 
-**4.59.34**  Seeing that marvelous and wondrous feat, the illustrious gandharva Chitrasena, supremely pleased, reported it to the king of the gods.
+**4.59.34**  Seeing that marvelous and wondrous feat, the illustrious gandharva Citrasena, supremely pleased, reported it to the king of the gods.
 
-**4.59.35**  "See these enemy-destroyers going as if linked together — this is the wondrous form of Jishnu's divine weapon as it blazes forth."
+**4.59.35**  "See these enemy-destroyers going as if linked together — this is the wondrous form of Jiṣṇu's divine weapon as it blazes forth."
 
 **4.59.36**  "Mortals would not believe this — indeed it does not exist among them. This wondrous conjunction of ancient great weapons is beyond them."
 
-**4.59.37**  Like the sun blazing in the sky at midday, the armies could not look directly at the Pandava.
+**4.59.37**  Like the sun blazing in the sky at midday, the armies could not look directly at the Pāṇḍava.
 
 **4.59.38**  Both were celebrated for their deeds, both were skilled in battle, both performed equal feats, both were unapproachable in combat.
 
-**4.59.39**  Thus addressed, O Bharata, the king of the gods honored the encounter of Partha and Bhishma with a divine shower of flowers.
+**4.59.39**  Thus addressed, O Bharata, the king of the gods honored the encounter of Pārtha and Bhīṣma with a divine shower of flowers.
 
-**4.59.40**  Then Bhishma, son of Shantanu, having taken aim and found an opening, planted a shaft in the left side of Savyasachin (Arjuna) as he was shooting.
+**4.59.40**  Then Bhīṣma, son of Shantanu, having taken aim and found an opening, planted a shaft in the left side of Savyasācin (Arjuna) as he was shooting.
 
-**4.59.41**  Then Bibhatsu, smiling, cut the bow of Bhishma of immeasurable energy with a broad-bladed, vulture-feathered arrow.
+**4.59.41**  Then Bībhatsu, smiling, cut the bow of Bhīṣma of immeasurable energy with a broad-bladed, vulture-feathered arrow.
 
-**4.59.42**  Then Dhananjaya, son of Kunti, pierced him in the chest with ten arrows as he strove and pressed forward.
+**4.59.42**  Then Dhanañjaya, son of Kuntī, pierced him in the chest with ten arrows as he strove and pressed forward.
 
-**4.59.43**  Tormented, the mighty-armed son of the Ganga — irresistible in battle — stood gripping the chariot-pole for a long time as if in pain.
+**4.59.43**  Tormented, the mighty-armed son of the Gaṅgā — irresistible in battle — stood gripping the chariot-pole for a long time as if in pain.
 
 **4.59.44**  The charioteer, recalling his instructions and protecting the great warrior, drove him away while he was insensible.
 
-**4.60.1**  Vaishampayana said: When Bhishma had abandoned the head of battle and fled, the great-souled son of Dhritarashtra raised his standard and, roaring, came himself to grapple with Arjuna.
+**4.60.1**  Vaiśaṃpāyana said: When Bhīṣma had abandoned the head of battle and fled, the great-souled son of Dhṛtarāṣṭra raised his standard and, roaring, came himself to grapple with Arjuna.
 
-**4.60.2**  He pierced Dhananjaya — wielder of the mighty bow, of lofty valor, ranging among the throng of enemies — right in the middle of the forehead with a broad-bladed arrow drawn fully to the ear.
+**4.60.2**  He pierced Dhanañjaya — wielder of the mighty bow, of lofty valor, ranging among the throng of enemies — right in the middle of the forehead with a broad-bladed arrow drawn fully to the ear.
 
 **4.60.3**  Struck by that well-aimed arrow of refined gold, O king, the doer of noble deeds shone like a single-knotted, beautiful single-peaked mountain.
 
@@ -3200,131 +3200,131 @@ translator: thothica
 
 **4.60.5**  Struck by that arrow, the swift and undaunted warrior, his anger aroused by Duryodhana, took up arrows like poison and fire and pierced the king.
 
-**4.60.6**  And Duryodhana of fierce energy struck him, and Partha the sole hero struck Duryodhana — those two foremost heroes of the Ajamidha clan struck each other equally in battle.
+**4.60.6**  And Duryodhana of fierce energy struck him, and Pārtha the sole hero struck Duryodhana — those two foremost heroes of the Ajamidha clan struck each other equally in battle.
 
-**4.60.7**  Then Vikarna, with a great elephant in rut resembling a moving mountain, along with four chariots protecting the elephant's flanks, charged at Jishnu, the son of Kunti.
+**4.60.7**  Then Vikarṇa, with a great elephant in rut resembling a moving mountain, along with four chariots protecting the elephant's flanks, charged at Jiṣṇu, the son of Kuntī.
 
-**4.60.8**  Dhananjaya pierced that lord of elephants charging swiftly right between the frontal lobes with a swift, firm iron arrow drawn fully to the ear.
+**4.60.8**  Dhanañjaya pierced that lord of elephants charging swiftly right between the frontal lobes with a swift, firm iron arrow drawn fully to the ear.
 
-**4.60.9**  That vulture-feathered arrow released by Partha entered the elephant all the way to the nock, tearing through that creature radiant as a great mountain — like a thunderbolt sent by Indra into a peak.
+**4.60.9**  That vulture-feathered arrow released by Pārtha entered the elephant all the way to the nock, tearing through that creature radiant as a great mountain — like a thunderbolt sent by Indra into a peak.
 
 **4.60.10**  That king of elephants, scorched by the arrow, his limbs trembling and his inner spirit tormented, sinking down, fell to the earth like the peak of a mountain struck by a thunderbolt.
 
-**4.60.11**  When the finest of tusked elephants fell to the earth, Vikarna in fear instantly descended and, quickly going eight hundred paces, mounted the chariot of Vivimshati.
+**4.60.11**  When the finest of tusked elephants fell to the earth, Vikarṇa in fear instantly descended and, quickly going eight hundred paces, mounted the chariot of Viviṃśati.
 
-**4.60.12**  Having slain the elephant with that arrow — that arrow like a thunderbolt, like the best of mountains, like a rain-cloud — with that same kind of arrow Partha then pierced Duryodhana in the chest.
+**4.60.12**  Having slain the elephant with that arrow — that arrow like a thunderbolt, like the best of mountains, like a rain-cloud — with that same kind of arrow Pārtha then pierced Duryodhana in the chest.
 
-**4.60.13**  Then, with both the elephant and the king struck down, and Vikarna along with his foot-guards routed, those foremost warriors, driven away by the shafts loosed from the Gandiva, suddenly fled.
+**4.60.13**  Then, with both the elephant and the king struck down, and Vikarṇa along with his foot-guards routed, those foremost warriors, driven away by the shafts loosed from the Gāṇḍīva, suddenly fled.
 
-**4.60.14**  Seeing the elephant felled by the arrow and learning that all his warriors were fleeing, that foremost hero of the Kurus turned his chariot and fled from the battle to where Partha was not.
+**4.60.14**  Seeing the elephant felled by the arrow and learning that all his warriors were fleeing, that foremost hero of the Kurus turned his chariot and fled from the battle to where Pārtha was not.
 
 **4.60.15**  Seeing that fearsome Duryodhana fleeing swiftly, the quiver-bearing Kiriti, eager to fight and enduring of enemies, roared a challenge at him — who had been pierced by an arrow and was vomiting blood.
 
 **4.60.16**  Arjuna said: Abandoning your vast fame and glory, why do you flee, turning away from battle? Why do your war-drums not sound properly now as they did when you went to fight?
 
-**4.60.17**  I act on Yudhishthira's command; I am Partha, the third, and I stand firm in battle. For his sake, turn your face and fight — remember the conduct of a king, O son of Dhritarashtra.
+**4.60.17**  I act on Yudhiṣṭhira's command; I am Pārtha, the third, and I stand firm in battle. For his sake, turn your face and fight — remember the conduct of a king, O son of Dhṛtarāṣṭra.
 
 **4.60.18**  Your name in this world — 'Duryodhana,' given to you before — is rendered vain; for there is no quality of Duryodhana in you now, as you flee abandoning the battle.
 
-**4.60.19**  I see no protector of yours, neither in front nor behind you, O Duryodhana. Come, O foremost of the Kurus, protect your dear life from the Pandava through battle today.
+**4.60.19**  I see no protector of yours, neither in front nor behind you, O Duryodhana. Come, O foremost of the Kurus, protect your dear life from the Pāṇḍava through battle today.
 
-**4.61.1**  Vaishampayana said: Being thus summoned by him in battle, that great-souled son of Dhritarashtra was turned back by his words as by a goad — like a maddened elephant turned by a goad.
+**4.61.1**  Vaiśaṃpāyana said: Being thus summoned by him in battle, that great-souled son of Dhṛtarāṣṭra was turned back by his words as by a goad — like a maddened elephant turned by a goad.
 
 **4.61.2**  Unable to endure being struck by those words of the great chariot-warrior, that swift hero, who surpassed all chariot-warriors, wheeled around in his chariot — like a serpent touched by the sole of a foot.
 
-**4.61.3**  Seeing him turn back, Karna, though his body was pierced by arrows, steadied himself and turned back; that hero among men, wearing a garland of gold, came to Duryodhana's right flank to face Partha in battle.
+**4.61.3**  Seeing him turn back, Karṇa, though his body was pierced by arrows, steadied himself and turned back; that hero among men, wearing a garland of gold, came to Duryodhana's right flank to face Pārtha in battle.
 
-**4.61.4**  Then Bhishma, son of Shantanu, turning back and urging his gold-girthed horses, with his bow strung, the mighty-armed one guarded Duryodhana on the western flank from the sons of Pritha.
+**4.61.4**  Then Bhīṣma, son of Shantanu, turning back and urging his gold-girthed horses, with his bow strung, the mighty-armed one guarded Duryodhana on the western flank from the sons of Pṛthā.
 
-**4.61.5**  Drona, Kripa, Vivimshati, and Duhshasana — all of them quickly turned back, with their bows bent and arrows ready, and swiftly came to the front for the sake of Duryodhana.
+**4.61.5**  Droṇa, Kṛpa, Viviṃśati, and Duḥśāsana — all of them quickly turned back, with their bows bent and arrows ready, and swiftly came to the front for the sake of Duryodhana.
 
-**4.61.6**  Seeing those armies turning back, resembling the fullness of flood-tide, Partha Dhananjaya swiftly rushed toward them — as a swan flies toward an approaching cloud.
+**4.61.6**  Seeing those armies turning back, resembling the fullness of flood-tide, Pārtha Dhanañjaya swiftly rushed toward them — as a swan flies toward an approaching cloud.
 
-**4.61.7**  They surrounded Partha from all sides, taking up their divine weapons, and advancing, showered him with arrows on every side — as clouds drench a mountain with torrents of water.
+**4.61.7**  They surrounded Pārtha from all sides, taking up their divine weapons, and advancing, showered him with arrows on every side — as clouds drench a mountain with torrents of water.
 
-**4.61.8**  Then the wielder of Gandiva, bearing down the weapons of those foremost Kuru heroes with counter-weapons, the enemy-subduing son of Indra revealed another weapon — the irresistible Sammohana (bewildering) weapon.
+**4.61.8**  Then the wielder of Gāṇḍīva, bearing down the weapons of those foremost Kuru heroes with counter-weapons, the enemy-subduing son of Indra revealed another weapon — the irresistible Sammohana (bewildering) weapon.
 
-**4.61.9**  Then, turning in all the cardinal and intermediate directions, he of great strength, with well-edged, sharp, well-feathered arrows and by the roar of the Gandiva, caused terror to the minds of those warriors.
+**4.61.9**  Then, turning in all the cardinal and intermediate directions, he of great strength, with well-edged, sharp, well-feathered arrows and by the roar of the Gāṇḍīva, caused terror to the minds of those warriors.
 
-**4.61.10**  Then, taking up his great conch of magnificent sound, the slayer of enemies Partha blew it mightily with his arms, and the sound filled all the cardinal and intermediate directions, the sky and the earth.
+**4.61.10**  Then, taking up his great conch of magnificent sound, the slayer of enemies Pārtha blew it mightily with his arms, and the sound filled all the cardinal and intermediate directions, the sky and the earth.
 
-**4.61.11**  Those foremost Kuru heroes, bewildered by the blast of the conch blown by Partha, all let go of their formidable bows and became intent on peace at that moment.
+**4.61.11**  Those foremost Kuru heroes, bewildered by the blast of the conch blown by Pārtha, all let go of their formidable bows and became intent on peace at that moment.
 
-**4.61.12**  While the enemies were thus rendered unconscious, Partha, remembering the words of Uttara, said to the son of Virata: 'Drive out from among them, while the Kurus are still insensible.'
+**4.61.12**  While the enemies were thus rendered unconscious, Pārtha, remembering the words of Uttara, said to the son of Virāṭa: 'Drive out from among them, while the Kurus are still insensible.'
 
-**4.61.13**  Fetch the two pure white garments of the teacher and of Sharadwata's son, the bright yellow garment of Karna, and likewise the dark blue garments of Drona's son and the king, O hero among men.
+**4.61.13**  Fetch the two pure white garments of the teacher and of Sharadwata's son, the bright yellow garment of Karṇa, and likewise the dark blue garments of Droṇa's son and the king, O hero among men.
 
-**4.61.14**  I think Bhishma has his senses — he knows how to counter my weapons. Keep his horses on the left side; that is how one must pass those who have not lost their senses.
+**4.61.14**  I think Bhīṣma has his senses — he knows how to counter my weapons. Keep his horses on the left side; that is how one must pass those who have not lost their senses.
 
-**4.61.15**  Then the great-souled son of Virata, releasing the reins, leapt down from the chariot, collected the garments of those great chariot-warriors, and quickly remounted his own chariot.
+**4.61.15**  Then the great-souled son of Virāṭa, releasing the reins, leapt down from the chariot, collected the garments of those great chariot-warriors, and quickly remounted his own chariot.
 
-**4.61.16**  Then the son of Virata guided the four excellent gold-girthed horses; the white steeds, bearing Arjuna, passed through the army of the banner-bearers and out from the midst of the battle.
+**4.61.16**  Then the son of Virāṭa guided the four excellent gold-girthed horses; the white steeds, bearing Arjuna, passed through the army of the banner-bearers and out from the midst of the battle.
 
-**4.61.17**  As that foremost of men was thus moving away, the swift Bhishma struck him with arrows; and he in turn, having struck down Bhishma's horses, pierced him in the side with ten swift arrows.
+**4.61.17**  As that foremost of men was thus moving away, the swift Bhīṣma struck him with arrows; and he in turn, having struck down Bhīṣma's horses, pierced him in the side with ten swift arrows.
 
-**4.61.18**  Then Arjuna, having set aside Bhishma in the battle and pierced his charioteer, with his bow intact, stood free from amid the multitude of chariots — as the thousand-rayed sun stands after rending Rahu.
+**4.61.18**  Then Arjuna, having set aside Bhīṣma in the battle and pierced his charioteer, with his bow intact, stood free from amid the multitude of chariots — as the thousand-rayed sun stands after rending Rāhu.
 
-**4.61.19**  Having regained consciousness, that foremost of Kuru heroes, seeing Partha standing alone in the field, freed from the battle, equal to great Indra, that son of Dhritarashtra spoke quickly.
+**4.61.19**  Having regained consciousness, that foremost of Kuru heroes, seeing Pārtha standing alone in the field, freed from the battle, equal to great Indra, that son of Dhṛtarāṣṭra spoke quickly.
 
 **4.61.20**  He said: 'How has this one escaped from you? Capture him so he cannot get away!' To him Shantanu's son laughed and said: 'Where has your intelligence gone? Where your valor?'
 
-**4.61.21**  You yourself stood at peace, breathing again, having let go of your arrows and your marvelous bow. But Bibhatsu is not capable of cruelty — his mind is not set on wickedness.
+**4.61.21**  You yourself stood at peace, breathing again, having let go of your arrows and your marvelous bow. But Bībhatsu is not capable of cruelty — his mind is not set on wickedness.
 
-**4.61.22**  He would not abandon his own dharma even for the sake of the three worlds — that is why not all have been slain in this battle. Go quickly back to the Kuru lands, O foremost of Kurus; let Partha return, having won back the cattle.
+**4.61.22**  He would not abandon his own dharma even for the sake of the three worlds — that is why not all have been slain in this battle. Go quickly back to the Kuru lands, O foremost of Kurus; let Pārtha return, having won back the cattle.
 
 **4.61.23**  Hearing those words of the grandfather, which were truly for his own good, Duryodhana, the king, excessively wrathful and having lost the chance to win in battle, heaved a deep sigh and fell silent.
 
-**4.61.24**  Seeing that beneficial speech of Bhishma, and the ever-growing fire of Dhananjaya, all those who were protecting Duryodhana set their minds on retreating.
+**4.61.24**  Seeing that beneficial speech of Bhīṣma, and the ever-growing fire of Dhanañjaya, all those who were protecting Duryodhana set their minds on retreating.
 
-**4.61.25**  Seeing those foremost Kuru heroes setting out, Partha Dhananjaya, with a gladdened mind, followed them for a moment, addressing them, and there that great-souled one honored his elders.
+**4.61.25**  Seeing those foremost Kuru heroes setting out, Pārtha Dhanañjaya, with a gladdened mind, followed them for a moment, addressing them, and there that great-souled one honored his elders.
 
-**4.61.26**  Honoring with bowed head the aged grandfather Bhishma, son of Shantanu, the teacher Drona, and paying salutation with varied arrows to Drona's son, Kripa, and all his elders —
+**4.61.26**  Honoring with bowed head the aged grandfather Bhīṣma, son of Shantanu, the teacher Droṇa, and paying salutation with varied arrows to Droṇa's son, Kṛpa, and all his elders —
 
-**4.61.27**  — Partha cut off with an arrow the crown of Duryodhana, adorned with the finest jewels; and having taken leave of those heroes and venerable ones alike, and filling the worlds with the roar of the Gandiva —
+**4.61.27**  — Pārtha cut off with an arrow the crown of Duryodhana, adorned with the finest jewels; and having taken leave of those heroes and venerable ones alike, and filling the worlds with the roar of the Gāṇḍīva —
 
 **4.61.28**  — that hero, suddenly blowing his Devadatta conch and splitting the hearts of his foes, having overpowered all enemies with his banner, shining with his net of gold —
 
 **4.61.29**  — seeing the Kurus depart, the diademed Kiriti, overjoyed, said to the son of Matsya there: 'Turn the horses around — your cattle have been won. The enemies have gone. Go to your city rejoicing.'
 
-**4.62.1**  Vaishampayana said: Then, having conquered the Kurus in battle, he whose eyes were like a bull's gathered together the great wealth of Virata.
+**4.62.1**  Vaiśaṃpāyana said: Then, having conquered the Kurus in battle, he whose eyes were like a bull's gathered together the great wealth of Virāṭa.
 
-**4.62.2**  And when the forces of Dhritarashtra's son had all gone away, broken and dispersed in every direction, many of the Kuru soldiers emerged from the dense forest.
+**4.62.2**  And when the forces of Dhṛtarāṣṭra's son had all gone away, broken and dispersed in every direction, many of the Kuru soldiers emerged from the dense forest.
 
 **4.62.3**  With minds terrified by fear they came from here and there; they appeared with unbound hair, standing with folded hands.
 
-**4.62.4**  Exhausted by hunger and thirst, bewildered, in a foreign land and out of their senses, they bowed and said in confusion: 'O Partha, what shall we do for you?'
+**4.62.4**  Exhausted by hunger and thirst, bewildered, in a foreign land and out of their senses, they bowed and said in confusion: 'O Pārtha, what shall we do for you?'
 
 **4.62.5**  Arjuna said: 'Go in safety, good fortune be with you — you need not fear at all. I do not wish to slay the distressed. I greatly reassure you.'
 
-**4.62.6**  Vaishampayana said: Hearing his words of assurance, the assembled warriors gladdened him with blessings of long life, fame, and glory.
+**4.62.6**  Vaiśaṃpāyana said: Hearing his words of assurance, the assembled warriors gladdened him with blessings of long life, fame, and glory.
 
 **4.62.7**  Then the Kurus, turned back and utterly routed, came under his sway; approaching the road, Phalguna spoke this word.
 
 **4.62.8**  He said: 'O prince, O mighty-armed hero, review all the herds of cattle that have been rounded up together along with the cowherds.'
 
-**4.62.9**  Then in the afternoon we shall go toward the city of Virata, after resting the horses, giving them water, and refreshing them.'
+**4.62.9**  Then in the afternoon we shall go toward the city of Virāṭa, after resting the horses, giving them water, and refreshing them.'
 
 **4.62.10**  'Let the cowherds whom you send go quickly to the city to announce the good news and proclaim your victory.'
 
-**4.62.11**  Vaishampayana said: Then Uttara, acting swiftly, commanded messengers accordingly, saying: 'Go and, by Arjuna's word, announce my victory.'
+**4.62.11**  Vaiśaṃpāyana said: Then Uttara, acting swiftly, commanded messengers accordingly, saying: 'Go and, by Arjuna's word, announce my victory.'
 
-**4.63.1**  Vaishampayana said: Virata, the commander of the army, having also won back the wealth, entered the city rejoicing, together with the four Pandavas.
+**4.63.1**  Vaiśaṃpāyana said: Virāṭa, the commander of the army, having also won back the wealth, entered the city rejoicing, together with the four Pāṇḍavas.
 
-**4.63.2**  Having defeated the Trigartas in battle and recovered the cattle alone, the great king shone resplendent, accompanied by the sons of Pritha, enveloped in glory.
+**4.63.2**  Having defeated the Trigartas in battle and recovered the cattle alone, the great king shone resplendent, accompanied by the sons of Pṛthā, enveloped in glory.
 
 **4.63.3**  When that hero, who increased the joy of his friends, was seated upon his throne, all his ministers along with the brahmins attended upon him.
 
 **4.63.4**  Honored and congratulated along with his army, the king of Matsya then dismissed the twice-born brahmins and the ministers.
 
-**4.63.5**  Then that king of the Matsyas, Virata, the commander of the army, eagerly inquired about Uttara, saying: 'Where has he gone?'
+**4.63.5**  Then that king of the Matsyas, Virāṭa, the commander of the army, eagerly inquired about Uttara, saying: 'Where has he gone?'
 
 **4.63.6**  The women, maidens, and those who moved within the inner apartments joyfully told him at home that the cattle-wealth had been taken away by the Kurus.
 
-**4.63.7**  The conqueror of the earth had gone out alone, determined to win them back, with exceeding boldness, with Brihannada as his companion.
+**4.63.7**  The conqueror of the earth had gone out alone, determined to win them back, with exceeding boldness, with Bṛhannaḍā as his companion.
 
-**4.63.8**  Six great chariot-warriors had come to oppose him: Drona, Shantanu's son Bhishma, Kripa, Karna, Duryodhana, and Drona's son.
+**4.63.8**  Six great chariot-warriors had come to oppose him: Droṇa, Shantanu's son Bhīṣma, Kṛpa, Karṇa, Duryodhana, and Droṇa's son.
 
-**4.63.9**  King Virata, greatly distressed upon hearing that his son had gone with but one chariot, with Brihannada as charioteer, he who increases victory in battle, then spoke to all the chief ministers.
+**4.63.9**  King Virāṭa, greatly distressed upon hearing that his son had gone with but one chariot, with Bṛhannaḍā as charioteer, he who increases victory in battle, then spoke to all the chief ministers.
 
 **4.63.10**  The Kurus in particular, and whatever other lords of the earth, will certainly never stand idle upon hearing that the Trigartas have been defeated.
 
@@ -3332,15 +3332,15 @@ translator: thothica
 
 **4.63.12**  He quickly dispatched horses, elephants, chariots, and hosts of infantry — heroic warriors furnished with varied weapons and ornaments — for the sake of his son.
 
-**4.63.13**  Thus that king of the Matsyas, Virata, the lord of an akshauhini, commanded that fourfold army to march out swiftly.
+**4.63.13**  Thus that king of the Matsyas, Virāṭa, the lord of an akshauhini, commanded that fourfold army to march out swiftly.
 
 **4.63.14**  He said: 'Find the prince quickly — whether he lives or not. A eunuch went as his charioteer; I think he cannot be alive.'
 
-**4.63.15**  The Dharma-king laughed and said to Virata, afflicted and distressed by the Kurus: 'O lord of men, if Brihannada is the charioteer, your enemies will not carry off those cattle today.'
+**4.63.15**  The Dharma-king laughed and said to Virāṭa, afflicted and distressed by the Kurus: 'O lord of men, if Bṛhannaḍā is the charioteer, your enemies will not carry off those cattle today.'
 
 **4.63.16**  'Your son is fully capable of conquering in battle all the kings together with the Kurus, and likewise the gods, demons, yakshas, and nagas — guided well by that charioteer.'
 
-**4.63.17**  Then those swift-moving messengers sent by Uttara reached the city of Virata and announced the victory.
+**4.63.17**  Then those swift-moving messengers sent by Uttara reached the city of Virāṭa and announced the victory.
 
 **4.63.18**  The minister then reported to the king the supreme victory, the defeat of the Kurus, and Uttara's return.
 
@@ -3348,9 +3348,9 @@ translator: thothica
 
 **4.63.20**  Kanka said: 'By good fortune your cattle have been won back and the Kurus defeated. By good fortune your son is heard to be alive, O bull among kings.'
 
-**4.63.21**  'I do not consider it a wonder that your son conquered the Kurus — certain indeed is the victory of one whose charioteer is Brihannada.'
+**4.63.21**  'I do not consider it a wonder that your son conquered the Kurus — certain indeed is the victory of one whose charioteer is Bṛhannaḍā.'
 
-**4.63.22**  Vaishampayana said: Then King Virata, his body hair thrilling with delight upon hearing the victory of that prince of boundless energy, rewarded those messengers with garments and urged his ministers on.
+**4.63.22**  Vaiśaṃpāyana said: Then King Virāṭa, his body hair thrilling with delight upon hearing the victory of that prince of boundless energy, rewarded those messengers with garments and urged his ministers on.
 
 **4.63.23**  'Let my royal roads be decorated with banners; let the gods be worshipped everywhere with floral offerings.'
 
@@ -3358,23 +3358,23 @@ translator: thothica
 
 **4.63.25**  'Let the drummer quickly mount a maddened elephant and proclaim my victory at every crossroads.'
 
-**4.63.26**  'And let Uttara, accompanied by many maidens, adorned in fine dress and ornaments, go forth to meet Brihannada.'
+**4.63.26**  'And let Uttara, accompanied by many maidens, adorned in fine dress and ornaments, go forth to meet Bṛhannaḍā.'
 
 **4.63.27**  Hearing the king's command, all with auspicious articles in hand, together with kettledrums, musical instruments, conches, and auspicious women beautifully attired in the finest garments —
 
-**4.63.28**  — and likewise bards along with panegyrists, players of the nandi drum, players of the paṇava and other instruments, went forth from the city of mighty Virata to meet the son of boundless valor.
+**4.63.28**  — and likewise bards along with panegyrists, players of the nandi drum, players of the paṇava and other instruments, went forth from the city of mighty Virāṭa to meet the son of boundless valor.
 
-**4.63.29**  Having dispatched the army and the maidens and courtesans, all well adorned, the highly wise king of Matsya, overjoyed, said: 'Fetch the dice, Sairandhri; let gambling begin, Kanka.'
+**4.63.29**  Having dispatched the army and the maidens and courtesans, all well adorned, the highly wise king of Matsya, overjoyed, said: 'Fetch the dice, Sairandhrī; let gambling begin, Kanka.'
 
-**4.63.30**  Seeing him speak thus, the Pandava replied: 'We have heard it said that a gambler elated with joy should not gamble.'
+**4.63.30**  Seeing him speak thus, the Pāṇḍava replied: 'We have heard it said that a gambler elated with joy should not gamble.'
 
 **4.63.31**  'I am not willing to gamble with you today when you are filled with joy; but I wish to do what is pleasing to you — let it proceed if you think it right.'
 
-**4.63.32**  Virata said: 'Women, cattle, gold, and whatever other wealth there may be — nothing of mine is to be withheld by you; you may gamble without restraint.'
+**4.63.32**  Virāṭa said: 'Women, cattle, gold, and whatever other wealth there may be — nothing of mine is to be withheld by you; you may gamble without restraint.'
 
 **4.63.33**  Kanka said: 'What use is gambling to you, O lord of kings, O granter of honor? Gambling has many faults; therefore one should avoid it.'
 
-**4.63.34**  'Have you heard of, or perhaps seen, the Pandava Yudhishthira? He, his great and flourishing kingdom, and his brothers equal to the thirty gods —'
+**4.63.34**  'Have you heard of, or perhaps seen, the Pāṇḍava Yudhiṣṭhira? He, his great and flourishing kingdom, and his brothers equal to the thirty gods —'
 
 **4.63.35**  '— all were lost in gambling. Therefore I do not favor gambling. Or if you think otherwise, O king, let us gamble if it pleases you.'
 
@@ -3462,7 +3462,7 @@ translator: thothica
 
 **4.64.23**  'And in battle he rebuked Duryodhana, the mighty prince, who was broken like a bull-elephant driven from the herd, trembling with fear.'
 
-**4.64.24**  '"I see no refuge for you in Hastināpura; strive with all effort to save your life, son of the Kurus."'
+**4.64.24**  '"I see no refuge for you in Hāstinapura; strive with all effort to save your life, son of the Kurus."'
 
 **4.64.25**  '"You will not escape by fleeing, O king; set your mind on battle — conquer and you shall enjoy the earth, or fall and you shall attain heaven."'
 

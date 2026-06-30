@@ -81,7 +81,7 @@ translator: thothica
 
 **8.3.9**  The Gandharva Vaida knows thy name as a secret. From wherever thou art born, O Āñjana, come hither for the sake of our unharmed well-being.
 
-**8.3.10**  Whether thou art Traikakuda or art called Yāmuna — both thy names are auspicious; by both of them protect us, O Āñjana.
+**8.3.10**  Whether thou art Traikakuda or art called Yamunā — both thy names are auspicious; by both of them protect us, O Āñjana.
 
 **8.3.11**  Into whatever limb by limb, joint by joint thou dost creep, O Āñjana — drive out the disease Yakṣma from that place, like the fierce serpent that strikes at the middle.
 
@@ -319,13 +319,13 @@ translator: thothica
 
 **8.14.1**  Two of differing form wander, each seeking its own goal; each in turn suckles the calf. In one he appears tawny, self-sustaining; in the other he is seen white, of brilliant radiance.
 
-**8.14.2**  Ten young women, unwearied, who carry the embryo of Tvaṣṭr, lead it round — it of sharp edge, self-resplendent among peoples, shining brightly.
+**8.14.2**  Ten young women, unwearied, who carry the embryo of Tvaṣṭṛ, lead it round — it of sharp edge, self-resplendent among peoples, shining brightly.
 
 **8.14.3**  They adorn three of his births — one in the ocean, one in the sky, one in the waters. Following the eastward direction of earthly beings, he ruled the seasons and distributed them in due order.
 
 **8.14.4**  Who among you has comprehended this secret? The calf has begotten the mothers through inherent powers. The embryo of the many active waters, resting in their lap — the great seer moves forth, self-sustaining.
 
-**8.14.5**  Possessing them, the beautiful one grows — upright in the lap of the crooked ones, in the self-sustained. Both, fearing the one being born of Tvaṣṭr, facing westward, welcome the lion.
+**8.14.5**  Possessing them, the beautiful one grows — upright in the lap of the crooked ones, in the self-sustained. Both, fearing the one being born of Tvaṣṭṛ, facing westward, welcome the lion.
 
 **8.14.6**  Both auspicious ones take pleasure in him, not proudly; neither the cows nor the calves stood near them with their tracks. He became the lord of the wise among the wise; they anoint him from the south with oblations.
 

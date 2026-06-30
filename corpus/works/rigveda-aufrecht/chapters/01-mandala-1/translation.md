@@ -676,7 +676,7 @@ translator: thothica
 
 **1.29.7**  Slay with your jaws all-encompassing clamor and the Kṛkadāśva — do bring us fame, O Indra, in cattle, in bright horses, in thousands, O greatly bountiful one.
 
-**1.30.1**  Seeking the prize, pour for him who has a hundred powers, great Indra, with the Soma drops — pour for the most bountiful one, as for a Krivi.
+**1.30.1**  Seeking the prize, pour for him who has a hundred powers, great Indra, with the Soma drops — pour for the most bountiful one, as for a Kṛvi.
 
 **1.30.2**  Whether a hundred of the pure ones or a thousand of the mixed ones — still it flows down like water to the hollow.
 
@@ -834,7 +834,7 @@ translator: thothica
 
 **1.34.9**  Where are the three wheels of the triple chariot? Where are the three yoke-poles that share a pole together? When is the yoking of the vigorous ass by which, O Nāsatyas, you come to the sacrifice?
 
-**1.34.10**  Come here, O Nāsatyas — the oblation is being offered; drink of the honey with your honey-drinking lips. For Savitṛ first impels for Ṛta the wondrous, ghee-rich chariot of you two, ahead of the Usas.
+**1.34.10**  Come here, O Nāsatyas — the oblation is being offered; drink of the honey with your honey-drinking lips. For Savitṛ first impels for Ṛta the wondrous, ghee-rich chariot of you two, ahead of the Uṣas.
 
 **1.34.11**  Come here, O Nāsatyas, with three times eleven gods for the honey-drinking, O Aśvins. Preserve our life uninjured; wipe away our sins; ward off enmity; be ever present.
 
@@ -1414,7 +1414,7 @@ translator: thothica
 
 **1.61.5**  To him alone, seeking renown as one grooms a swift horse, I anoint the hymn with my tongue for Indra; to honor the hero who is home for generous gifts, of joyous fame, the breaker of citadels.
 
-**1.61.6**  For him alone Tvaṣṭr fashioned the vajra, most excellently wrought, heavenly, for battle; with it he found the vital spot even of Vṛtra — the sovereign one, striking, with his striking force of purpose.
+**1.61.6**  For him alone Tvaṣṭṛ fashioned the vajra, most excellently wrought, heavenly, for battle; with it he found the vital spot even of Vṛtra — the sovereign one, striking, with his striking force of purpose.
 
 **1.61.7**  He it was who, at his mother's pressings, straightway, the great one, having drunk of sweet food and fair nourishment — Viṣṇu, the more powerful, despoiled what was being cooked; the archer pierced the boar through the mountain.
 
@@ -2456,7 +2456,7 @@ translator: thothica
 
 **1.112.8**  With those powerful aids, O mighty ones, by which you enabled the blind and lame to go away and see; with those by which you freed the quail that had been swallowed — O Aśvins, come with those aids.
 
-**1.112.9**  With those aids by which, never-failing, you quickened the honeyed Sindhū and Vasiṣṭha, you two undecaying ones; with those by which you aided Kutsa, the glorious and manly one — O Aśvins, come with those aids.
+**1.112.9**  With those aids by which, never-failing, you quickened the honeyed Sindhu and Vasiṣṭha, you two undecaying ones; with those by which you aided Kutsa, the glorious and manly one — O Aśvins, come with those aids.
 
 **1.112.10**  With those aids by which, with a thousand rewards, you quickened Viśpalā the prize-seeker, the Atharvan, in the battle; with those by which you aided Vaśa, the horse-owner Preṇi — O Aśvins, come with those aids.
 
@@ -2586,7 +2586,7 @@ translator: thothica
 
 **1.116.11**  That, O Nāsatyas, was a praiseworthy and successful act of protection that you performed — when you, with full knowledge, like one unearthing a hidden treasure, raised Vandana up to a sight of beauty.
 
-**1.116.12**  That wonderful deed of yours, O men, for the winning of prizes, I make manifest like thunder that brings rain. When Dadhyaṅc Ātharvaṇa told you about the Soma nectar through the head of a horse.
+**1.116.12**  That wonderful deed of yours, O men, for the winning of prizes, I make manifest like thunder that brings rain. When Dadhyañc Atharvaṇa told you about the Soma nectar through the head of a horse.
 
 **1.116.13**  The bountiful, wise Vadhrīmatī called to you, O Nāsatyas, on a great journey, O much-favouring ones. You heard — as at the bidding of a teacher — and gave her a golden-handed son, O Aśvins.
 
@@ -2600,7 +2600,7 @@ translator: thothica
 
 **1.116.18**  When you two came bringing aid to Divodāsa and Bharadvāja, O swift-going Aśvins — your friendly chariot bore much wealth, with a bull and a dolphin yoked to it.
 
-**1.116.19**  Bearing wealth, good lordship, long life, and heroic might, O Nāsatyas — you came to the Jahnāvī river with prizes, as she who receives her share three times daily, with harmonious mind.
+**1.116.19**  Bearing wealth, good lordship, long life, and heroic might, O Nāsatyas — you came to the Jāhnavī river with prizes, as she who receives her share three times daily, with harmonious mind.
 
 **1.116.20**  You carried Jāhūṣa, hemmed in on all sides, through the night by easy passages across the dust-clouds. With the Vibhindhu chariot, O ever-youthful Nāsatyas, you cleft the mountains as you went.
 
@@ -2656,7 +2656,7 @@ translator: thothica
 
 **1.117.21**  Sowing barley with the plough, milking food for mankind, O wondrous Aśvins — blowing the Dasyu away with a pipe, you made broad light for the Ārya.
 
-**1.117.22**  You set on Dadhīca Ātharvaṇa an equine head, O Aśvins. Walking in truth, he told you the sweet nectar — that Tvāṣṭra mystery which is your secret, O wondrous ones.
+**1.117.22**  You set on Dadhīca Atharvaṇa an equine head, O Aśvins. Walking in truth, he told you the sweet nectar — that Tvāṣṭra mystery which is your secret, O wondrous ones.
 
 **1.117.23**  I always, as a sage, have sought your kindness; O Aśvins, favour all my prayers. Bestow on us, O Nāsatyas, great wealth accompanied by offspring and worthy of being heard of.
 
@@ -2900,7 +2900,7 @@ translator: thothica
 
 **1.128.4**  Sitting down, O resolute will-power — you who distribute good intent, stand beside the quiver of arrows; O Śakra, grant the share of the pressed one, the portion of the pressed Soma. Sing to him the cowherd songs; spur these on; grant a share of heaven well-entered.
 
-**1.128.5**  Those men who celebrate Agni as the calling priest who has sat down by Ṛta, who is established by Ṛta in the womb — those who share in the Gāyatrī and Tṛṣṭubh meters partake of the Bṛhatī and its glory.
+**1.128.5**  Those men who celebrate Agni as the calling priest who has sat down by Ṛta, who is established by Ṛta in the womb — those who share in the Gāyatrī and Triṣṭubh meters partake of the Bṛhatī and its glory.
 
 **1.128.6**  Those who, gaining the sacrifice by sacrifice — for me, O Indu, the sight of the pressed one comes in like rain. For Agni indeed carries the sacrifice-worthy one along in the sacrifice — the great one with the great ones, the carrier of hymns.
 

@@ -137,7 +137,7 @@ translator: thothica
 
 **6.59**  As forerunners for your pressed drink, the inebriating Soma, O friends, pierce and drive away the long-tongued dog.
 
-**6.60**  This Soma, Pushan, wealth, and Bhaga, flows along purifying himself. Lord of all existence, he looks out upon both worlds.
+**6.60**  This Soma, Pūṣan, wealth, and Bhaga, flows along purifying himself. Lord of all existence, he looks out upon both worlds.
 
 **6.61**  The pressed Somas, most full of sweetness, gladdening for Indra, flow purified through the filter. May your ecstasies go to the gods.
 
@@ -151,7 +151,7 @@ translator: thothica
 
 **6.66**  They purify with the fleece that beloved, tawny, brown Soma, who goes around all the gods together with his rapture.
 
-**6.67**  Of the one being pressed, of his drink, no mortal craves that speech. Drive away the ungrateful dog; smite the arrogant one as the Bhrigus did.
+**6.67**  Of the one being pressed, of his drink, no mortal craves that speech. Drive away the ungrateful dog; smite the arrogant one as the Bhṛgus did.
 
 **6.68**  Upon the great chariot of the great Sun, the all-seeing one mounted, spreading in all directions.
 
@@ -215,4 +215,4 @@ translator: thothica
 
 **6.98**  This one, pressed forth, flows most intoxicating with the streams, through the woolen filters, playing like a wave of the waters.
 
-**6.99**  He who with his might cut free the dawn-cows and those hidden within the rock. You have stretched toward the enclosure rich in cattle and horses — break it boldly like armor. Om — break it boldly like armor.
+**6.99**  He who with his might cut free the dawn-cows and those hidden within the rock. You have stretched toward the enclosure rich in cattle and horses — break it boldly like armor. Oṃ — break it boldly like armor.

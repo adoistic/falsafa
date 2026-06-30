@@ -18,7 +18,7 @@ source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
 translator: thothica
 ---
 
-**2.1.1**  Vaiśampāyana said: Then Maya spoke to Pārtha in the presence of Vāsudeva, with joined palms, honouring him again and again with gentle words.
+**2.1.1**  Vaiśaṃpāyana said: Then Maya spoke to Pārtha in the presence of Vāsudeva, with joined palms, honouring him again and again with gentle words.
 
 **2.1.2**  "By you I have been saved from this wrathful Kṛṣṇa and from Pāvaka who sought to burn me. O son of Kuntī, tell me — what shall I do for you?"
 
@@ -32,7 +32,7 @@ translator: thothica
 
 **2.1.7**  "Nor do I wish your resolve to go in vain, O dānava. Let something be done for Kṛṣṇa in the same way as has been done for me."
 
-**2.1.8**  Vaiśampāyana said: Thus prompted by Maya, O bull of the Bharatas, Vāsudeva reflected for a moment on what might be asked of him.
+**2.1.8**  Vaiśaṃpāyana said: Thus prompted by Maya, O bull of the Bharatas, Vāsudeva reflected for a moment on what might be asked of him.
 
 **2.1.9**  Kṛṣṇa then urged him: "Let a hall be built, O Daiteya, for the king Dharmarāja — such a one as you deem fitting here."
 
@@ -56,7 +56,7 @@ translator: thothica
 
 **2.1.19**  He measured out on all sides that hall — endowed with the qualities of all seasons, divine in form, enchanting to the mind — at ten thousand kiṣku in extent.
 
-**2.2.1**  Vaiśampāyana said: Janārdana, worthy of worship and duly worshipped, had dwelt in pleasant residence at Khāṇḍavaprastha together with the Pārthas, united in affection.
+**2.2.1**  Vaiśaṃpāyana said: Janārdana, worthy of worship and duly worshipped, had dwelt in pleasant residence at Khāṇḍavaprastha together with the Pārthas, united in affection.
 
 **2.2.2**  That broad-eyed one, longing to see his father, resolved to depart. He then took leave of Dharmarāja and of Pṛthā.
 
@@ -102,7 +102,7 @@ translator: thothica
 
 **2.2.23**  Those bulls among men, the Pārthas, their minds gone with Govinda and as though unwilling, all turned back and returned to their city. And Kṛṣṇa too in his chariot reached Dvārakā in due time.
 
-**2.3.1**  Vaiśampāyana said: Then Maya said to Pārtha Arjuna, foremost among the victorious: "I take my leave of you; I shall go swiftly and shall return as well."
+**2.3.1**  Vaiśaṃpāyana said: Then Maya said to Pārtha Arjuna, foremost among the victorious: "I take my leave of you; I shall go swiftly and shall return as well."
 
 **2.3.2**  "When all the dānavas were about to perform a sacrifice, I made a jewel-adorned vessel, beautiful, near Bindu Lake, to the north of Kailāsa toward Mount Maināka."
 
@@ -148,7 +148,7 @@ translator: thothica
 
 **2.3.23**  Furnished with the finest materials, garlanded with walls of gems, rich in jewels and in wealth, beautifully built by Viśvakarmā.
 
-**2.3.24**  Neither the Sudharmā of the Dāśārhas nor that of Brahma was endowed with beauty comparable to the peerless hall that Maya built.
+**2.3.24**  Neither the Sudharmā of the Dāśārhas nor that of Brahmā was endowed with beauty comparable to the peerless hall that Maya built.
 
 **2.3.25**  There, as directed by Maya, eight thousand rākṣasas called kiṃkaras both guarded and served that hall.
 
@@ -170,7 +170,7 @@ translator: thothica
 
 **2.3.34**  Having built such a hall and completed it within fourteen months, Maya presented it to the king Dharmarāja.
 
-**2.4.1**  Vaiśampāyana said: Then King Yudhiṣṭhira made his formal entry into that hall; the lord of men fed ten thousand brāhmaṇas.
+**2.4.1**  Vaiśaṃpāyana said: Then King Yudhiṣṭhira made his formal entry into that hall; the lord of men fed ten thousand brāhmaṇas.
 
 **2.4.2**  With clarified-butter porridge and honey, with sweetmeats and roots and fruits, and also with unwashed garments and garlands of every kind.
 
@@ -178,27 +178,27 @@ translator: thothica
 
 **2.4.4**  With various musical instruments and songs, with fragrances of every kind, the foremost of the Kurus worshipped and installed the divinities.
 
-**2.4.5**  There wrestlers, actors, jesters, bards, and panegyrists attended the great-souled Yudhishthira for seven nights.
+**2.4.5**  There wrestlers, actors, jesters, bards, and panegyrists attended the great-souled Yudhiṣṭhira for seven nights.
 
-**2.4.6**  Having thus performed that ceremony of honor, the Pandava together with his brothers took delight in that beautiful assembly hall, as Indra rejoices in heaven.
+**2.4.6**  Having thus performed that ceremony of honor, the Pāṇḍava together with his brothers took delight in that beautiful assembly hall, as Indra rejoices in heaven.
 
-**2.4.7**  Sages were seated in that assembly hall together with the Pandavas, and kings who had come from many different lands also took their seats there.
+**2.4.7**  Sages were seated in that assembly hall together with the Pāṇḍavas, and kings who had come from many different lands also took their seats there.
 
-**2.4.8**  Asita, Devala, Satya, Sarpamali, Mahasiras, Arvavasu, Sumitra, Maitreya, Sunaka, and Bali were among them.
+**2.4.8**  Asita, Devala, Satya, Sarpamali, Mahasiras, Arvāvasu, Sumitrā, Maitreya, Śunaka, and Bali were among them.
 
-**2.4.9**  Baka Dalbhya, Sthulasiras, Krishnadvapayana, Shuka, Sumantru, Jaimini, Paila — the disciples of Vyasa — and ourselves were likewise present.
+**2.4.9**  Baka Dalbhya, Sthulasiras, Krishnadvapayana, Śuka, Sumantru, Jaimini, Paila — the disciples of Vyāsa — and ourselves were likewise present.
 
-**2.4.10**  Tittiri, Yajnavalkya with his son, Lomaharshana, Apsuhomya, Dhaumya, and also Animandavya and Kaushika were there.
+**2.4.10**  Tittiri, Yājñavalkya with his son, Lomaharṣaṇa, Apsuhomya, Dhaumya, and also Animandavya and Kauśika were there.
 
 **2.4.11**  Damoshniṣa, Traivaṇi, Parṇada, Ghaṭajanuka, Mauñjayana, Vayubhaksha, Parasharya, and the two known as Sarika were present.
 
-**2.4.12**  Balavaka, Shinivaka, Sutyapala, Kritasrama, Jatukarṇa, Shikhavant, Subala, and Parijataka were also there.
+**2.4.12**  Balavaka, Shinivaka, Sutyapala, Kṛtaśrama, Jatukarṇa, Shikhavant, Subala, and Parijataka were also there.
 
-**2.4.13**  The greatly blessed Parvata, the sage Markandeya, Pavitrapani, Savarni, Bhaluki, and likewise Galava were present.
+**2.4.13**  The greatly blessed Parvata, the sage Mārkaṇḍeya, Pavitrapani, Savarni, Bhāluki, and likewise Gālava were present.
 
-**2.4.14**  Janghabandhu, Raibhya, Kopavegashrava, Bhrigu, Haribabhru, Kaundinia, Babhrumali, and Sanatana were there as well.
+**2.4.14**  Janghabandhu, Raibhya, Kopavegashrava, Bhṛgu, Haribabhru, Kaundinia, Babhrumali, and Sanatana were there as well.
 
-**2.4.15**  Kakshivan Aushija, Nachiketa, Gautama, Painga, Varaha, Shunaka, the great ascetic Shandilya, Karkara, Venujangha, Kalapa, and Katha were also among them.
+**2.4.15**  Kakṣīvān Auśija, Nāciketa, Gautama, Painga, Varaha, Śunaka, the great ascetic Śāṇḍilya, Karkara, Venujangha, Kalapa, and Katha were also among them.
 
 **2.4.16**  These sages, virtuous and righteous, of firm minds and with senses subdued, and many others well-versed in the Vedas and their auxiliary branches, were gathered there.
 
@@ -206,51 +206,51 @@ translator: thothica
 
 **2.4.18**  Likewise the foremost of kshatriyas attended upon the king of dharma — the splendid, great-souled, dharma-minded Muñjaketu Vardhana.
 
-**2.4.19**  Samgramajit, Durmukha, the mighty Ugrasena, Kakshena the lord of the earth, Kshemaka the unconquered, the king of the Kambojas, Kamala, and the greatly powerful Kampana were present.
+**2.4.19**  Saṃgrāmajit, Durmukha, the mighty Ugrasena, Kakshena the lord of the earth, Kṣemaka the unconquered, the king of the Kāmbojas, Kamala, and the greatly powerful Kampana were present.
 
 **2.4.20**  He alone had constantly shaken the Yavanas, just as the god who wields the thunderbolt shakes the Kalakeya demons.
 
-**2.4.21**  The king Jatasura and Madrakanta, Kunti, Kuniṇda, the king of the Kiratas, the rulers of Anga and Vanga together with the king of Puṇdra, and the kings of the Pandyas and Odras together with the king of the Andhras were there.
+**2.4.21**  The king Jatasura and Madrakanta, Kuntī, Kuṇinda, the king of the Kirātas, the rulers of Aṅga and Vanga together with the king of Puṇḍra, and the kings of the Pandyas and Oḍras together with the king of the Andhras were there.
 
-**2.4.22**  The king of the Kiratas named Sumana, the lord of the Yavanas, Chanura, Devarata, the Bhoja, and the one called Bhimaratha were there.
+**2.4.22**  The king of the Kirātas named Sumana, the lord of the Yavanas, Cāṇūra, Devarata, the Bhoja, and the one called Bhimaratha were there.
 
-**2.4.23**  Shrutayudha the Kalinga, Jayatsena the Magadha, Susharmana, Chekitana, and Suratha the destroyer of foes were present.
+**2.4.23**  Śrutāyudha the Kaliṅga, Jayatsena the Magadha, Susharmana, Cekitāna, and Suratha the destroyer of foes were present.
 
-**2.4.24**  Ketuman, Vasudana, the king of Videha, Kritakshana, Sudharmana, Aniruddha, and the mighty Shrutayu were also there.
+**2.4.24**  Ketuman, Vasudāna, the king of Videha, Kritakshana, Sudharmana, Aniruddha, and the mighty Śrutāyu were also there.
 
-**2.4.25**  The invincible king of the Anupa country, Kshemajit, Sudakshina, Shishupala with his hundred sons, and likewise the lord of the Karushas were present.
+**2.4.25**  The invincible king of the Anūpa country, Kshemajit, Sudakṣiṇa, Śiśupāla with his hundred sons, and likewise the lord of the Karūṣas were present.
 
-**2.4.26**  The invincible princes of the Vrisnis, god-like in appearance — Ahuka, Viprithu, Gada, and Sarana — were also there.
+**2.4.26**  The invincible princes of the Vṛṣṇis, god-like in appearance — Ahuka, Viprithu, Gada, and Sāraṇa — were also there.
 
-**2.4.27**  Akrura, Kritavarma, Satyaki the son of Shini, Bhishmaka, Ahriti, the mighty Dyumatsena, the great archers the Kekayas, and Yajnasena the son of Saumaka were present.
+**2.4.27**  Akrura, Kṛtavarmā, Sātyaki the son of Śini, Bhīṣmaka, Ahriti, the mighty Dyumatsena, the great archers the Kekayas, and Yajñasena the son of Saumaka were present.
 
 **2.4.28**  Taking refuge with Arjuna, mighty princes clad in deer and antelope hides learned the science of archery there.
 
-**2.4.29**  There too, O king, were trained the princes of the Vrishni clan — the son of Rukmini, Samba, and Yuyudhana the son of Satyaki.
+**2.4.29**  There too, O king, were trained the princes of the Vṛṣṇi clan — the son of Rukmiṇī, Samba, and Yuyudhāna the son of Sātyaki.
 
-**2.4.30**  These and many other kings, O lord of the earth, were present there, and Tumburu, the friend of Dhananjaya, also always abided there.
+**2.4.30**  These and many other kings, O lord of the earth, were present there, and Tumburu, the friend of Dhanañjaya, also always abided there.
 
-**2.4.31**  Chitrasena, accompanied by his ministers, and the Gandharvas and Apsaras, skilled in song and instrumental music, expert in rhythm and beat, were also present.
+**2.4.31**  Citrasena, accompanied by his ministers, and the Gandharvas and Apsaras, skilled in song and instrumental music, expert in rhythm and beat, were also present.
 
-**2.4.32**  Kimnaras accomplished in proper measure and in the right tempo, urged on by Tumburu, sang together with the Gandharvas.
+**2.4.32**  Kiṃnaras accomplished in proper measure and in the right tempo, urged on by Tumburu, sang together with the Gandharvas.
 
-**2.4.33**  Those noble beings sang with divine melodies according to proper rule, delighting and attending upon the sons of Pandu and the sages.
+**2.4.33**  Those noble beings sang with divine melodies according to proper rule, delighting and attending upon the sons of Pāṇḍu and the sages.
 
-**2.4.34**  Seated in that assembly hall, those of good vows and true resolve attended upon Yudhishthira as the gods in heaven attend upon Brahma.
+**2.4.34**  Seated in that assembly hall, those of good vows and true resolve attended upon Yudhiṣṭhira as the gods in heaven attend upon Brahmā.
 
-**2.5.1**  Vaishampayana said: While the great-souled Pandavas were seated there, O Bharata, and the great Gandharvas were likewise seated,
+**2.5.1**  Vaiśaṃpāyana said: While the great-souled Pāṇḍavas were seated there, O Bharata, and the great Gandharvas were likewise seated,
 
-**2.5.2**  The sage Narada, of great brilliance, who roams through all the worlds, came to that assembly hall then, accompanied by sages.
+**2.5.2**  The sage Nārada, of great brilliance, who roams through all the worlds, came to that assembly hall then, accompanied by sages.
 
-**2.5.3**  The divine sage of boundless radiance came with Parijata, the wise Raivata, and the gentle Sumukha, moving swift as thought, joyfully desiring to see the Pandavas assembled in the hall, O king of kings.
+**2.5.3**  The divine sage of boundless radiance came with Parijata, the wise Raivata, and the gentle Sumukha, moving swift as thought, joyfully desiring to see the Pāṇḍavas assembled in the hall, O king of kings.
 
-**2.5.4**  Seeing the sage Narada arrive, the foremost of the Pandavas, who knew all dharma, quickly rose together with his younger brothers and greeted him with affection, bowing humbly at that time.
+**2.5.4**  Seeing the sage Nārada arrive, the foremost of the Pāṇḍavas, who knew all dharma, quickly rose together with his younger brothers and greeted him with affection, bowing humbly at that time.
 
 **2.5.5**  Offering him a seat worthy of him according to proper rites, the one who knew dharma honored him with jewels and with all things desired.
 
-**2.5.6**  Honored by all the Pandavas, the great sage who had mastered the Vedas then questioned Yudhishthira on matters combining dharma, desire, and material welfare.
+**2.5.6**  Honored by all the Pāṇḍavas, the great sage who had mastered the Vedas then questioned Yudhiṣṭhira on matters combining dharma, desire, and material welfare.
 
-**2.5.7**  Narada said: Do your enterprises prosper? Does your mind delight in dharma? Do you experience pleasures, and is your mind not afflicted?
+**2.5.7**  Nārada said: Do your enterprises prosper? Does your mind delight in dharma? Do you experience pleasures, and is your mind not afflicted?
 
 **2.5.8**  O lord of men, do you follow the inexhaustible way of conduct practiced by your forefathers and grandfathers — a way accompanied by both dharma and material welfare — among your people?
 
@@ -326,7 +326,7 @@ translator: thothica
 
 **2.5.44**  O bull of the Bharatas, do you support the wives of men who have met death in your cause and those who have fallen into misfortune?
 
-**2.5.45**  O Partha, do you protect like a son an enemy who has submitted out of fear, or who has come unarmed, or who has been defeated in battle?
+**2.5.45**  O Pārtha, do you protect like a son an enemy who has submitted out of fear, or who has come unarmed, or who has been defeated in battle?
 
 **2.5.46**  O lord of the earth, are you equitable toward all the earth and beyond suspicion, like a mother and like a father?
 
@@ -336,7 +336,7 @@ translator: thothica
 
 **2.5.49**  O scorcher of enemies, do you present to the chiefs of the enemy's army, in secret within their kingdom, gifts of jewels as each deserves?
 
-**2.5.50**  O Partha, having first conquered yourself and mastered your senses, do you seek to conquer your enemies — those who are negligent and have not mastered their senses?
+**2.5.50**  O Pārtha, having first conquered yourself and mastered your senses, do you seek to conquer your enemies — those who are negligent and have not mastered their senses?
 
 **2.5.51**  Do the well-practised virtues — conciliation, gifts, sowing dissension, and chastisement — go before you when you march against enemies?
 
@@ -388,13 +388,13 @@ translator: thothica
 
 **2.5.75**  O lord of the people, do you sleep during the first two watches of the night and then, rising in the last watch, contemplate dharma and artha?
 
-**2.5.76**  O knower of the right moment, O son of Pandu, do you daily show yourself adorned with ornaments to the people, rising at the proper hour together with your ministers?
+**2.5.76**  O knower of the right moment, O son of Pāṇḍu, do you daily show yourself adorned with ornaments to the people, rising at the proper hour together with your ministers?
 
 **2.5.77**  O subduer of enemies, do guards wearing red garments, with swords in hand and fully adorned, attend upon you on all sides for your protection?
 
 **2.5.78**  O lord of the people, do you, after proper examination, act like Yama toward those who deserve punishment and fittingly toward those who deserve honour, whether they be disagreeable or agreeable to you?
 
-**2.5.79**  O son of Prtha, do you always ward off bodily ailments with medicines and discipline, and mental ailments by attending on the aged?
+**2.5.79**  O son of Pṛthā, do you always ward off bodily ailments with medicines and discipline, and mental ailments by attending on the aged?
 
 **2.5.80**  Are physicians skilled in the eightfold system of medicine, who are friends and devoted to you, always present for the benefit of your body?
 
@@ -404,7 +404,7 @@ translator: thothica
 
 **2.5.83**  Are the citizens and the inhabitants of your realm not in any way jointly alienated from you, having been bought over by enemies?
 
-**2.5.84**  O Yudhishthira, is a weak enemy who is being pressed hard by a stronger power brought over by counsel, or a strong one by force, or each by means of both?
+**2.5.84**  O Yudhiṣṭhira, is a weak enemy who is being pressed hard by a stronger power brought over by counsel, or a strong one by force, or each by means of both?
 
 **2.5.85**  Are all the foremost rulers of the earth devoted to you, and do those whom you have won over surrender their very lives in your cause?
 
@@ -414,7 +414,7 @@ translator: thothica
 
 **2.5.88**  Do brahmins eat tasty, wholesome, and meritorious food in your house under your oversight, along with proper gifts?
 
-**2.5.89**  With a single-pointed mind and self-mastery, do you strive to perform sacrifices, Vajapeya rites in their entirety, and Pundarika rites completely?
+**2.5.89**  With a single-pointed mind and self-mastery, do you strive to perform sacrifices, Vājapeya rites in their entirety, and Pundarika rites completely?
 
 **2.5.90**  Do you bow in reverence to kinsmen, teachers, the aged, the gods, ascetics, sacred trees of good omen, and brahmins?
 
@@ -436,13 +436,13 @@ translator: thothica
 
 **2.5.99**  Are your Vedas fruitful? Is your wealth fruitful? Is your wife fruitful? Is your learning fruitful?
 
-**2.5.100**  Yudhishthira said: How indeed are the Vedas fruitful? How indeed is wealth fruitful? How indeed is a wife fruitful? How indeed is learning fruitful?
+**2.5.100**  Yudhiṣṭhira said: How indeed are the Vedas fruitful? How indeed is wealth fruitful? How indeed is a wife fruitful? How indeed is learning fruitful?
 
-**2.5.101**  Narada said: The Vedas bear fruit in the Agnihotra sacrifice; wealth bears fruit in what is given away and enjoyed; a wife bears fruit in pleasure and offspring; learning bears fruit in good character and conduct.
+**2.5.101**  Nārada said: The Vedas bear fruit in the Agnihotra sacrifice; wealth bears fruit in what is given away and enjoyed; a wife bears fruit in pleasure and offspring; learning bears fruit in good character and conduct.
 
-**2.5.102**  Vaishampayana said: Having declared all this, the sage Narada of surpassing austerity then asked this further question of the righteous-souled Yudhishthira.
+**2.5.102**  Vaiśaṃpāyana said: Having declared all this, the sage Nārada of surpassing austerity then asked this further question of the righteous-souled Yudhiṣṭhira.
 
-**2.5.103**  Narada said: Are merchants who have come from afar for the sake of gain assessed the customs duty exactly as prescribed by those who live by collecting customs?
+**2.5.103**  Nārada said: Are merchants who have come from afar for the sake of gain assessed the customs duty exactly as prescribed by those who live by collecting customs?
 
 **2.5.104**  O king, are the men honoured by you in the city and in the countryside bringing their goods without being deceived by tricks?
 
@@ -458,19 +458,19 @@ translator: thothica
 
 **2.5.110**  O bull of the Bharatas, are the treatise on the science of archery and the treatise on siege engines and city fortification constantly practised in your household?
 
-**2.5.111**  O sinless one, are all weapons, the Brahma staff, and all the uses of poison known to you for the destruction of enemies?
+**2.5.111**  O sinless one, are all weapons, the Brahmā staff, and all the uses of poison known to you for the destruction of enemies?
 
 **2.5.112**  Do you protect your own kingdom from the danger of fire, from the danger of serpents and wild beasts, and from the disturbance caused by disease?
 
 **2.5.113**  O knower of dharma, do you protect like a father the blind, the dumb, the lame, the maimed, the friendless, and also the wandering ascetics?
 
-**2.5.114**  Vaishampayana said: The great-souled bull of the Kurus, having heard these words of the best of brahmins, bowed at his feet in salutation and, filled with joy, the king spoke to Narada of godlike form.
+**2.5.114**  Vaiśaṃpāyana said: The great-souled bull of the Kurus, having heard these words of the best of brahmins, bowed at his feet in salutation and, filled with joy, the king spoke to Nārada of godlike form.
 
 **2.5.115**  "I shall act exactly as you have told me; for my wisdom has thereby grown still further." Having spoken thus, the king acted accordingly and gained the earth girdled by the ocean.
 
-**2.5.116**  Narada said: A king who conducts himself thus in the protection of the four orders, having enjoyed great happiness here, attains to the same world as Indra.
+**2.5.116**  Nārada said: A king who conducts himself thus in the protection of the four orders, having enjoyed great happiness here, attains to the same world as Indra.
 
-**2.6.1**  Vaishampayana said: Having duly worshipped him and been given leave by the word of the great sage, the dharma-king Yudhishthira then spoke in orderly reply.
+**2.6.1**  Vaiśaṃpāyana said: Having duly worshipped him and been given leave by the word of the great sage, the dharma-king Yudhiṣṭhira then spoke in orderly reply.
 
 **2.6.2**  O blessed one, you have spoken what is right and the proper determination of dharma. To the best of my ability and in accordance with what is proper, this rule is followed by me.
 
@@ -480,23 +480,23 @@ translator: thothica
 
 **2.6.5**  Having spoken thus, the righteous-souled one honoured those words, and after a moment, seeing the sage who wanders through the worlds —
 
-**2.6.6**  — Narada, seated at his ease — Yudhishthira, the son of Pandu, of great mind, sitting near him in the midst of the kings, asked him:
+**2.6.6**  — Nārada, seated at his ease — Yudhiṣṭhira, the son of Pāṇḍu, of great mind, sitting near him in the midst of the kings, asked him:
 
-**2.6.7**  "You always move, swift as thought, through the many and various worlds created of old by Brahma, observing them all.
+**2.6.7**  "You always move, swift as thought, through the many and various worlds created of old by Brahmā, observing them all.
 
 **2.6.8**  O brahmin, has any assembly hall like this one ever been seen by you anywhere, or one superior to this? Tell me, I am asking."
 
-**2.6.9**  Having heard this utterance of the dharma-king, Narada replied to the son of Pandu with a smile, in a sweet voice:
+**2.6.9**  Having heard this utterance of the dharma-king, Nārada replied to the son of Pāṇḍu with a smile, in a sweet voice:
 
 **2.6.10**  "O dear one, O king, O Bharata, I have not previously seen nor heard of any hall made of gems among humans equal to yours.
 
-**2.6.11**  But I shall describe the hall of Yama, king of the ancestors, and of the wise Varuna, and of Indra, and of him who dwells on Kailasa.
+**2.6.11**  But I shall describe the hall of Yama, king of the ancestors, and of the wise Varuṇa, and of Indra, and of him who dwells on Kailāsa.
 
-**2.6.12**  I shall also describe the divine hall of Brahma, free from all weariness — if your mind inclines to hear it, O bull of the Bharatas."
+**2.6.12**  I shall also describe the divine hall of Brahmā, free from all weariness — if your mind inclines to hear it, O bull of the Bharatas."
 
-**2.6.13**  When thus addressed by Narada, the dharma-king Yudhishthira, with hands joined in reverence, surrounded by his brothers and by all those kings,
+**2.6.13**  When thus addressed by Nārada, the dharma-king Yudhiṣṭhira, with hands joined in reverence, surrounded by his brothers and by all those kings,
 
-**2.6.14**  — the dharma-king of great mind — replied to Narada thus: "Describe all those assembly halls; we desire to hear of them."
+**2.6.14**  — the dharma-king of great mind — replied to Nārada thus: "Describe all those assembly halls; we desire to hear of them."
 
 **2.6.15**  Of what materials are those assembly halls, O brahmin? What is their extent and length? And who attends upon the Grandfather in that assembly?
 
@@ -786,7 +786,7 @@ translator: thothica
 
 **2.11.28**  the years, the fivefold Yuga cycle, the four kinds of day-and-night reckonings, and the divine Wheel of Time, eternal, inexhaustible, and unchanging —
 
-**2.11.29**  Aditi, Diti, Danu, Surasā, Vinatā, Irā, Kālakā, the goddess Surabhi, Saramā, and Gautamī —
+**2.11.29**  Aditi, Diti, Danu, Surasā, Vinatā, Irā, Kālakā, the goddess Surabhī, Saramā, and Gautamī —
 
 **2.11.30**  the Ādityas, the Vasus, the Rudras, the Maruts, the two Aśvins, the Viśvedevas, the Sādhyas, and the swift-minded Pitṛs —
 
@@ -940,7 +940,7 @@ translator: thothica
 
 **2.12.32**  He was honored in the household by Dharmarāja as if by a brother, and then joyfully he saw also Bhīma and his father's sister's son.
 
-**2.12.33**  Delighted, he then rejoiced together with his dear friend Arjuna and the twin sons of Yamā, who attended upon him as upon a teacher.
+**2.12.33**  Delighted, he then rejoiced together with his dear friend Arjuna and the twin sons of Yama, who attended upon him as upon a teacher.
 
 **2.12.34**  When Acyuta had rested in that pleasant place and had a moment's leisure in the morning, Dharmarāja approached him and made known his own purpose.
 
@@ -1140,15 +1140,15 @@ translator: thothica
 
 **2.15.4**  In this matter there lies another consideration where misfortune may result. As I alone reflect on it, let this be heard from me now.
 
-**2.15.5**  I favour renunciation of this enterprise, O Janardana. The Rajasuya sacrifice, so difficult to achieve, weighs heavily upon my mind today.
+**2.15.5**  I favour renunciation of this enterprise, O Janārdana. The Rājasūya sacrifice, so difficult to achieve, weighs heavily upon my mind today.
 
-**2.15.6**  Vaishampayana said: Partha, having obtained the finest bow, two inexhaustible quivers, a chariot, a banner, and the assembly hall, then spoke to Yudhishthira.
+**2.15.6**  Vaiśaṃpāyana said: Pārtha, having obtained the finest bow, two inexhaustible quivers, a chariot, a banner, and the assembly hall, then spoke to Yudhiṣṭhira.
 
 **2.15.7**  O King, I have obtained this bow, weapons, arrows, prowess, allies, land, glory, and strength — all that was desired and hard to attain.
 
 **2.15.8**  The learned who are well established rightly praise noble birth; yet there is nothing equal to strength, and prowess is what appeals to me.
 
-**2.15.9**  What will a kshatriya born in the lineage of Kritavirya accomplish if he is without prowess, O King — one whose livelihood consists in defeat?
+**2.15.9**  What will a kshatriya born in the lineage of Kṛtavīrya accomplish if he is without prowess, O King — one whose livelihood consists in defeat?
 
 **2.15.10**  Even one lacking all other qualities, if he possesses prowess, can overcome enemies; but what can one endowed with all qualities accomplish if he lacks prowess?
 
@@ -1158,13 +1158,13 @@ translator: thothica
 
 **2.15.13**  Just as despondency is ruinous in the weak, so delusion is ruinous in the strong. Both these destructive causes must be abandoned by a king who seeks victory.
 
-**2.15.14**  If we were to destroy Jarasandha and free the imprisoned kings for the sake of the sacrifice, what greater achievement could there be?
+**2.15.14**  If we were to destroy Jarāsandha and free the imprisoned kings for the sake of the sacrifice, what greater achievement could there be?
 
 **2.15.15**  In non-undertaking, the certainty of failure is assured. When the qualities are beyond doubt, O King, how can you think there is a lack of merit?
 
 **2.15.16**  The ochre robe is easily donned later by sages seeking tranquility; but desiring sovereignty for you, we shall fight the enemy.
 
-**2.16.1**  Vasudeva said: Born in the lineage of Bharata and as the son of Kunti, the fitting counsel has been shown by Arjuna.
+**2.16.1**  Vāsudeva said: Born in the lineage of Bharata and as the son of Kuntī, the fitting counsel has been shown by Arjuna.
 
 **2.16.2**  We do not know the appointed time of death — whether by night or by day. Nor have we heard of anyone who is immortal even without fighting.
 
@@ -1182,41 +1182,41 @@ translator: thothica
 
 **2.16.9**  And if, having slain him in battle, we proceed together with the remainder of the army, we shall attain heaven, devoted as we are to the protection of our kinsmen.
 
-**2.16.10**  Yudhishthira said: O Krishna, who is this Jarasandha? What is his valour, what his prowess — he who, having touched you who are like fire, was not burned like a moth?
+**2.16.10**  Yudhiṣṭhira said: O Kṛṣṇa, who is this Jarāsandha? What is his valour, what his prowess — he who, having touched you who are like fire, was not burned like a moth?
 
-**2.16.11**  Krishna said: Hear, O King, what valour and prowess Jarasandha possesses, and why, though he repeatedly wronged us, he was left unchecked by us.
+**2.16.11**  Kṛṣṇa said: Hear, O King, what valour and prowess Jarāsandha possesses, and why, though he repeatedly wronged us, he was left unchecked by us.
 
-**2.16.12**  There was a king, proud in battle, named Brihadratha, lord among lords of Magadha, who commanded three akshauhinis of troops.
+**2.16.12**  There was a king, proud in battle, named Bṛhadratha, lord among lords of Magadha, who commanded three akshauhinis of troops.
 
 **2.16.13**  He was handsome, endowed with prowess, glorious, of incomparable valour, his body always lean from ritual observances — like a second Indra of a hundred sacrifices.
 
-**2.16.14**  In splendour he was like the sun, in forbearance like the earth, in anger like Yama and Death together, in prosperity like Vaishravana.
+**2.16.14**  In splendour he was like the sun, in forbearance like the earth, in anger like Yama and Death together, in prosperity like Vaiśravaṇa.
 
 **2.16.15**  With his virtues combined with noble lineage, O best of the Bharatas, the entire earth was pervaded, as by the rays of the sun.
 
-**2.16.16**  That mighty hero, O bull of the Bharatas, married the two twin daughters of the king of Kashi, who were equal in beauty and wealth.
+**2.16.16**  That mighty hero, O bull of the Bharatas, married the two twin daughters of the king of Kāśi, who were equal in beauty and wealth.
 
 **2.16.17**  That bull among men made a compact between them, saying, "I shall not transgress either of you," in the presence of both his wives.
 
 **2.16.18**  That king, O lord of men, shone magnificently between his two beloved, well-matched wives, like an elephant between two she-elephants.
 
-**2.16.19**  That lord of the earth, standing between the two of them, shone like the ocean in embodied form between the Ganga and the Yamuna.
+**2.16.19**  That lord of the earth, standing between the two of them, shone like the ocean in embodied form between the Gaṅgā and the Yamunā.
 
 **2.16.20**  His youth passed while he was immersed in the pleasures of the senses, yet no son was born to him to perpetuate his lineage.
 
 **2.16.21**  Through many auspicious fire-offerings and sacrifices desired by those longing for sons, that best of kings still did not obtain a son to further his family.
 
-**2.16.22**  Then he heard that Chandakaushika, the noble son of Kakshivat of the great-souled Gautama lineage, was exhausted from austerities nearby.
+**2.16.22**  Then he heard that Chandakaushika, the noble son of Kakṣīvat of the great-souled Gautama lineage, was exhausted from austerities nearby.
 
 **2.16.23**  The king, accompanied by his wives, gratified with all kinds of precious gifts that sage who had come by chance and was resting at the foot of a tree.
 
 **2.16.24**  That best of sages, firm in truth and true in speech, said to him: "I am well pleased with you, O King. Choose a boon, O man of good vows."
 
-**2.16.25**  Then Brihadratha, bowing with his wives, spoke to him in a voice choked with tears, despairing of ever seeing a son.
+**2.16.25**  Then Bṛhadratha, bowing with his wives, spoke to him in a voice choked with tears, despairing of ever seeing a son.
 
-**2.16.26**  Brihadratha said: O Blessed One, I who am of little fortune am setting out to the forest, abandoning my kingdom. What use is a boon to me? What use is a kingdom to one without a son?
+**2.16.26**  Bṛhadratha said: O Blessed One, I who am of little fortune am setting out to the forest, abandoning my kingdom. What use is a boon to me? What use is a kingdom to one without a son?
 
-**2.16.27**  Krishna said: Hearing this, the sage fell into deep meditation, his senses stirred, and he sat down in the shade of that very mango tree.
+**2.16.27**  Kṛṣṇa said: Hearing this, the sage fell into deep meditation, his senses stirred, and he sat down in the shade of that very mango tree.
 
 **2.16.28**  As the sage sat there, there fell into his lap a single mango fruit, windfall-ripe and bitten by a parrot.
 
@@ -1256,11 +1256,11 @@ translator: thothica
 
 **2.16.46**  "Living within the domain of a king who yearns for a son, I ought not to take away this infant son, as a streak of cloud cannot cover the sun."
 
-**2.16.47**  She assumed a human form and said to the lord of men: "O Brihadratha, this is your son — given by me. Please accept him."
+**2.16.47**  She assumed a human form and said to the lord of men: "O Bṛhadratha, this is your son — given by me. Please accept him."
 
 **2.16.48**  "Born of your two wives through the command of the best among the twice-born, abandoned by the nurses, he was protected by me."
 
-**2.16.49**  Then, O best of Bharatas, those two auspicious daughters of the king of Kashi quickly rushed to that boy and bathed him with streams of milk.
+**2.16.49**  Then, O best of Bharatas, those two auspicious daughters of the king of Kāśi quickly rushed to that boy and bathed him with streams of milk.
 
 **2.16.50**  Then that king, filled with joy and having understood everything, questioned that rakshasi who appeared like fresh gold and unlike a rakshasi at all.
 
@@ -1272,17 +1272,17 @@ translator: thothica
 
 **2.17.3**  When joined by me, by the will of fate a boy came into being. It is by your own fortune, O great king; I was merely the instrument here.
 
-**2.17.4**  Krishna said: Having spoken thus, O King, she vanished on the spot. The king, taking that boy, entered his own home.
+**2.17.4**  Kṛṣṇa said: Having spoken thus, O King, she vanished on the spot. The king, taking that boy, entered his own home.
 
 **2.17.5**  The king performed all the rites proper for that child, and in honour of the rakshasi he ordered a great festival throughout Magadha.
 
-**2.17.6**  His father, equal to Prajapati, there performed the naming ceremony for him. Because he had been joined together by Jara, he thus became known as Jarasandha — "joined by Jara."
+**2.17.6**  His father, equal to Prajāpati, there performed the naming ceremony for him. Because he had been joined together by Jara, he thus became known as Jarāsandha — "joined by Jara."
 
 **2.17.7**  That son of the lord of Magadha, of great splendour, grew up, endowed with perfect strength, like a fire fed with oblations.
 
 **2.17.8**  Then after some time, the blessed Chandakaushika, the great ascetic, again came to Magadha.
 
-**2.17.9**  Delighted at his arrival, Brihadratha went out with his ministers, his retinue, his wives, and his son.
+**2.17.9**  Delighted at his arrival, Bṛhadratha went out with his ministers, his retinue, his wives, and his son.
 
 **2.17.10**  That king honoured him with water for the feet, the guest-offering, and water for sipping, O Bharata, and presented his son along with the kingdom to the sage.
 
@@ -1304,51 +1304,51 @@ translator: thothica
 
 **2.17.19**  This lord of Magadha, surpassing all in strength throughout the worlds, shall behold with his own eyes Rudra — the great god Hara, the destroyer of the triple city.
 
-**2.17.20**  Speaking thus and reflecting upon his own purpose, the sage dismissed king Brihadratha, O slayer of foes.
+**2.17.20**  Speaking thus and reflecting upon his own purpose, the sage dismissed king Bṛhadratha, O slayer of foes.
 
-**2.17.21**  Returning to the city surrounded by kinsmen and relatives, the lord of Magadha, king Brihadratha, then consecrated Jarasandha to the throne and attained supreme contentment.
+**2.17.21**  Returning to the city surrounded by kinsmen and relatives, the lord of Magadha, king Bṛhadratha, then consecrated Jarāsandha to the throne and attained supreme contentment.
 
-**2.17.22**  Once Jarasandha had been consecrated, king Brihadratha, accompanied by his two wives, devoted himself to the life of the forest-hermitage.
+**2.17.22**  Once Jarāsandha had been consecrated, king Bṛhadratha, accompanied by his two wives, devoted himself to the life of the forest-hermitage.
 
-**2.17.23**  While his father dwelt in the forest-hermitage together with his mothers, O Bharata, Jarasandha by his own valor brought the kings of the earth under his dominion.
+**2.17.23**  While his father dwelt in the forest-hermitage together with his mothers, O Bharata, Jarāsandha by his own valor brought the kings of the earth under his dominion.
 
-**2.17.24**  Then, after a long time, king Brihadratha, dwelling in the hermitage and having practiced austerities, departed for heaven together with his wives.
+**2.17.24**  Then, after a long time, king Bṛhadratha, dwelling in the hermitage and having practiced austerities, departed for heaven together with his wives.
 
-**2.17.25**  He had two ministers — Hamsa and Dibhaka — both of whom were destined to die without weapons, foremost among the wise in counsel, and skilled in the science of warfare.
+**2.17.25**  He had two ministers — Hamsa and Ḍibhaka — both of whom were destined to die without weapons, foremost among the wise in counsel, and skilled in the science of warfare.
 
-**2.17.26**  Those two mighty ones of whom I spoke to you earlier — together with Jarasandha, the three of them were, in my judgment, a match for the three worlds.
+**2.17.26**  Those two mighty ones of whom I spoke to you earlier — together with Jarāsandha, the three of them were, in my judgment, a match for the three worlds.
 
-**2.17.27**  Thus was he, O hero and great king, left unchallenged at that time by the mighty Kukuras, Andhakas, and Vrishnis — for reasons of statecraft.
+**2.17.27**  Thus was he, O hero and great king, left unchallenged at that time by the mighty Kukuras, Andhakas, and Vṛṣṇis — for reasons of statecraft.
 
-**2.18.1**  Vasudeva said: With Hamsa and Dibhaka — the ministers of Kamsa — slain and brought low, the time for Jarasandha's destruction has now arrived.
+**2.18.1**  Vāsudeva said: With Hamsa and Ḍibhaka — the ministers of Kaṃsa — slain and brought low, the time for Jarāsandha's destruction has now arrived.
 
 **2.18.2**  He cannot be conquered in open battle even by all the gods and demons together — we understand that he can only be overcome in a fight to the death, hand to hand.
 
-**2.18.3**  In me resides policy; in Bhima, strength; and Arjuna is the protector of us both. Together we shall accomplish this, O king — like the three sacred fires.
+**2.18.3**  In me resides policy; in Bhīma, strength; and Arjuna is the protector of us both. Together we shall accomplish this, O king — like the three sacred fires.
 
 **2.18.4**  When that lord of men is confronted by three of us in a secluded place, there is no doubt he will accept to fight with only one of us.
 
-**2.18.5**  Stung by the contempt shown before the world and provoked by Bhimasena, he will certainly come forward to fight.
+**2.18.5**  Stung by the contempt shown before the world and provoked by Bhīmasena, he will certainly come forward to fight.
 
-**2.18.6**  The long-armed Bhimasena of great strength is equal to destroying him — like Death come to end the life of one whose time has run out.
+**2.18.6**  The long-armed Bhīmasena of great strength is equal to destroying him — like Death come to end the life of one whose time has run out.
 
-**2.18.7**  If your heart knows this and if you have trust in me, then quickly entrust Bhimasena and Arjuna to me as a sacred charge.
+**2.18.7**  If your heart knows this and if you have trust in me, then quickly entrust Bhīmasena and Arjuna to me as a sacred charge.
 
-**2.18.8**  Vaishampayana said: Thus addressed by the blessed one, Yudhishthira replied, casting a glance at Bhima and Partha who stood there with joyful faces.
+**2.18.8**  Vaiśaṃpāyana said: Thus addressed by the blessed one, Yudhiṣṭhira replied, casting a glance at Bhīma and Pārtha who stood there with joyful faces.
 
-**2.18.9**  O Achyuta, O Achyuta — do not speak thus, O crusher of enemies! You are the lord and refuge of the Pandavas, and we take shelter in you.
+**2.18.9**  O Acyuta, O Acyuta — do not speak thus, O crusher of enemies! You are the lord and refuge of the Pāṇḍavas, and we take shelter in you.
 
 **2.18.10**  Whatever you say, O Govinda, comes to pass — for fortune never turns her back on those who have you at their front.
 
-**2.18.11**  Jarasandha is as good as slain, the captive kings as good as freed, and the Rajasuya sacrifice as good as mine — for I stand under your direction.
+**2.18.11**  Jarāsandha is as good as slain, the captive kings as good as freed, and the Rājasūya sacrifice as good as mine — for I stand under your direction.
 
 **2.18.12**  Act swiftly so that this task may be accomplished — my task which is also the task of the world. Do this, O best of men.
 
 **2.18.13**  Without the three of you I cannot bear to live — like one in misery who is afflicted by disease and bereft of dharma, desire, and wealth.
 
-**2.18.14**  Partha is nothing without Shauri, and Shauri nothing without the Pandava — in this world none can conquer either of the two Krishnas, so I believe.
+**2.18.14**  Pārtha is nothing without Śauri, and Śauri nothing without the Pāṇḍava — in this world none can conquer either of the two Kṛṣṇas, so I believe.
 
-**2.18.15**  And this glorious Vrikodara, foremost among the strong, joined together with both of you — what could that illustrious hero not accomplish?
+**2.18.15**  And this glorious Vṛkodara, foremost among the strong, joined together with both of you — what could that illustrious hero not accomplish?
 
 **2.18.16**  A mass of strength well directed accomplishes the highest deeds — raw strength without guidance is called blind and dull; it must be led by the wise.
 
@@ -1356,79 +1356,79 @@ translator: thothica
 
 **2.18.18**  Therefore, taking refuge in Govinda — a man famed throughout the world and learned in the ways of statecraft — let us strive for the accomplishment of our purpose.
 
-**2.18.19**  Thus one who combines wisdom, statecraft, and strength, and is furnished with the right means of action — place such a one, O Krishna, in the forefront of all undertakings for the accomplishment of our aim.
+**2.18.19**  Thus one who combines wisdom, statecraft, and strength, and is furnished with the right means of action — place such a one, O Kṛṣṇa, in the forefront of all undertakings for the accomplishment of our aim.
 
-**2.18.20**  Even so, let Arjuna follow Krishna, the foremost of the Yadus, for the accomplishment of the purpose, and let Bhima follow Dhananjaya — through policy, victory, and strength combined, success shall be attained in the campaign.
+**2.18.20**  Even so, let Arjuna follow Kṛṣṇa, the foremost of the Yadus, for the accomplishment of the purpose, and let Bhīma follow Dhanañjaya — through policy, victory, and strength combined, success shall be attained in the campaign.
 
-**2.18.21**  Thus instructed, all those brothers of vast prowess — the scion of the Vrishnis and the two Pandava heroes — then set out toward Magadha.
+**2.18.21**  Thus instructed, all those brothers of vast prowess — the scion of the Vṛṣṇis and the two Pāṇḍava heroes — then set out toward Magadha.
 
 **2.18.22**  Clad in the garments of radiant Brahmin graduates, they were bid farewell with affectionate and pleasing words by their friends.
 
 **2.18.23**  Wearing the chief garments of those who burn with indignation for the sake of their kinsmen — those whose forms blaze like the sun, moon, and fire — the appearance they presented then was awesome.
 
-**2.18.24**  Seeing the two Krishnas — unconquered in battle, united in purpose, and with Bhima leading the way — one would have reckoned Jarasandha already slain.
+**2.18.24**  Seeing the two Kṛṣṇas — unconquered in battle, united in purpose, and with Bhīma leading the way — one would have reckoned Jarāsandha already slain.
 
 **2.18.25**  For those two great-souled lords were capable of setting in motion any enterprise, just as they were capable of suppressing all matters pertaining to dharma, artha, and kama.
 
-**2.18.26**  Departing from the Kurus, they traveled through the heart of the Kurujangala region, visiting the lovely Padmasara lake and passing beyond Kalakuta.
+**2.18.26**  Departing from the Kurus, they traveled through the heart of the Kurujāṅgala region, visiting the lovely Padmasara lake and passing beyond Kalakuta.
 
 **2.18.27**  They crossed the Gandaki, then the Shona, then the Sadanira, and likewise the rivers near Ekaparvataka — proceeding onward one by one.
 
-**2.18.28**  Fording the lovely Sarayu and beholding the eastern Kosalas, they passed through Mithila, and the river Mala, and the Charmanvati.
+**2.18.28**  Fording the lovely Sarayū and beholding the eastern Kosalas, they passed through Mithilā, and the river Mala, and the Carmaṇvatī.
 
-**2.18.29**  Having crossed the Ganga and the Shona, all three of them — those unfailing heroes — proceeded eastward through the Kuraura forest into the territory of Magadha.
+**2.18.29**  Having crossed the Gaṅgā and the Shona, all three of them — those unfailing heroes — proceeded eastward through the Kuraura forest into the territory of Magadha.
 
 **2.18.30**  Reaching mount Goratha — ever filled with herds of cattle, rich with water, and adorned with beautiful trees — they beheld the city of Magadha.
 
-**2.19.1**  Vasudeva said: O Partha, this Magadhan settlement is great, pleasant, ever well-stocked with cattle, rich in water, free from illness, furnished with fine dwellings, and auspicious.
+**2.19.1**  Vāsudeva said: O Pārtha, this Magadhan settlement is great, pleasant, ever well-stocked with cattle, rich in water, free from illness, furnished with fine dwellings, and auspicious.
 
-**2.19.2**  There is the great Vaihara mountain, and Varaha, and Vrishabha, and likewise Rishigiri, O dear one — and the auspicious Chaityaka is the fifth of these.
+**2.19.2**  There is the great Vaihara mountain, and Varaha, and Vrishabha, and likewise Rishigiri, O dear one — and the auspicious Caityaka is the fifth of these.
 
 **2.19.3**  These five great-peaked mountains, shaded by cool trees, seem to stand united in body, guarding Girivraja together in a compact embrace.
 
 **2.19.4**  With fragrant and charming trees whose branch-tips are wreathed with blossoms, the city lies concealed as if within the groves of lodhra trees so beloved by lovers.
 
-**2.19.5**  Here the great-souled sage Gautama, firm in his vows, fathered Kakshivat and other sons — upon a Shudra woman and upon a woman of the Ushinara clan.
+**2.19.5**  Here the great-souled sage Gautama, firm in his vows, fathered Kakṣīvat and other sons — upon a Śūdra woman and upon a woman of the Uśīnara clan.
 
 **2.19.6**  Gautama, descended from this lineage, still dwells in the hermitage there and is connected to the Magadhan royal line by the grace of its kings.
 
-**2.19.7**  Kings of great strength — the rulers of Anga, Vanga, and others — used to come to Gautama's hermitage and take their pleasure there in former times, O Arjuna.
+**2.19.7**  Kings of great strength — the rulers of Aṅga, Vanga, and others — used to come to Gautama's hermitage and take their pleasure there in former times, O Arjuna.
 
-**2.19.8**  Look at these rows of trees — the lovely priyala trees and the auspicious lodhra trees, O Partha — growing near the dwelling of Gautama.
+**2.19.8**  Look at these rows of trees — the lovely priyala trees and the auspicious lodhra trees, O Pārtha — growing near the dwelling of Gautama.
 
 **2.19.9**  Here are Arbuda and Shakravapi, two serpents who torment enemies; here too is the abode of Svastika, and the excellent dwelling of Maninaga.
 
-**2.19.10**  The clouds cannot avoid shedding rain on the Magadhan land for the sake of this jewel-serpent; both Kaushika and Maninaga have grown in power by his favor.
+**2.19.10**  The clouds cannot avoid shedding rain on the Magadhan land for the sake of this jewel-serpent; both Kauśika and Maninaga have grown in power by his favor.
 
-**2.19.11**  Jarasandha considers his prosperity to be unassailable — but today we shall strike down his pride by confronting him.
+**2.19.11**  Jarāsandha considers his prosperity to be unassailable — but today we shall strike down his pride by confronting him.
 
-**2.19.12**  Vaishampayana said: Having spoken thus, all those brothers of vast prowess — the scion of the Vrishnis and the two Pandavas — then set out toward the city of Magadha.
+**2.19.12**  Vaiśaṃpāyana said: Having spoken thus, all those brothers of vast prowess — the scion of the Vṛṣṇis and the two Pāṇḍavas — then set out toward the city of Magadha.
 
 **2.19.13**  They reached Girivraja — filled with contented and well-fed people, crowded with the four social orders, abounding in festivals, and impregnable.
 
-**2.19.14**  Without approaching the gate, they made for the lofty mountain-range of the city — which was honored by the descendants of Brihadratha and by the city's inhabitants alike.
+**2.19.14**  Without approaching the gate, they made for the lofty mountain-range of the city — which was honored by the descendants of Bṛhadratha and by the city's inhabitants alike.
 
-**2.19.15**  It was there that Brihadratha had encountered the bull that fed on beans; he slew it, had three great drums made from its hide and stalk-sinew,
+**2.19.15**  It was there that Bṛhadratha had encountered the bull that fed on beans; he slew it, had three great drums made from its hide and stalk-sinew,
 
 **2.19.16**  And, having covered them with its hide, installed them in his city — where those drums resounded, sprinkled with divine flowers.
 
-**2.19.17**  Those who sought to slay Jarasandha rushed upon the lovely Chaityaka peak of the Magadhans — as if intending to cut off a head.
+**2.19.17**  Those who sought to slay Jarāsandha rushed upon the lovely Caityaka peak of the Magadhans — as if intending to cut off a head.
 
 **2.19.18**  It was a firm and very broad peak — vast and ancient, ever worshipped with garlands and wreaths, well established and revered.
 
 **2.19.19**  The heroes shattered it with their powerful arms and brought it down; then, beholding the city of Magadha, they entered it.
 
-**2.19.20**  At that very moment the royal priests were performing rites of honor for Jarasandha and leading the king, mounted on an elephant, around the sacred fire.
+**2.19.20**  At that very moment the royal priests were performing rites of honor for Jarāsandha and leading the king, mounted on an elephant, around the sacred fire.
 
-**2.19.21**  Those three, observing the vows of Brahmin graduates — with their arms as their only weapons, bearing no other armament, and eager to fight — entered together with Jarasandha, O Bharata.
+**2.19.21**  Those three, observing the vows of Brahmin graduates — with their arms as their only weapons, bearing no other armament, and eager to fight — entered together with Jarāsandha, O Bharata.
 
 **2.19.22**  They beheld the supreme splendor of the food-stalls and flower-shops — prosperous, endowed with every good quality, and abounding in all desirable things.
 
-**2.19.23**  Seeing this prosperity, those foremost of men — Krishna, Bhima, and Dhananjaya — proceeded along the royal road through that market-lane.
+**2.19.23**  Seeing this prosperity, those foremost of men — Kṛṣṇa, Bhīma, and Dhanañjaya — proceeded along the royal road through that market-lane.
 
 **2.19.24**  Those mighty men forcibly took garlands from the garland-sellers; all of them clad in faded garments, wearing flower-wreaths and gleaming earrings.
 
-**2.19.25**  They then approached the dwelling of the wise Jarasandha, gazing about as if surveying a cow-pasture — like lions from the Himalayan slopes.
+**2.19.25**  They then approached the dwelling of the wise Jarāsandha, gazing about as if surveying a cow-pasture — like lions from the Himalayan slopes.
 
 **2.19.26**  Their arms — anointed with sandal and aloe-wood, resembling stone pillars — shone brilliantly, O great king, those arms of those mighty-armed heroes.
 
@@ -1436,23 +1436,23 @@ translator: thothica
 
 **2.19.28**  Those foremost of men, of great strength, passed through three crowd-filled outer enclosures and then approached the king with self-assurance.
 
-**2.19.29**  Jarasandha rose to receive them — for they were worthy of the water-offering and the honey-gift, worthy of honor, and deserving of respectful welcome — and attended to them according to the prescribed rites.
+**2.19.29**  Jarāsandha rose to receive them — for they were worthy of the water-offering and the honey-gift, worthy of honor, and deserving of respectful welcome — and attended to them according to the prescribed rites.
 
 **2.19.30**  That lord and king said to them: "Welcome to you all." For this was a vow of his, O king — widely renowned throughout the earth.
 
 **2.19.31**  Even at midnight, O Bharata, that conqueror of assemblies — that king — would go forth to receive Brahmin graduates who had arrived.
 
-**2.19.32**  But seeing them in their unusual attire, the foremost of kings — Jarasandha — attended to them and was filled with wonder.
+**2.19.32**  But seeing them in their unusual attire, the foremost of kings — Jarāsandha — attended to them and was filled with wonder.
 
-**2.19.33**  But those foremost of men — slayers of enemies all — upon seeing king Jarasandha, spoke thus, O best of the Bharatas.
+**2.19.33**  But those foremost of men — slayers of enemies all — upon seeing king Jarāsandha, spoke thus, O best of the Bharatas.
 
 **2.19.34**  "May it go well with you, O king — be in good health" — so they all said as they stood there; then, O tiger among kings, they gazed at each other and at that king.
 
-**2.19.35**  Then Jarasandha addressed those Yadavas and Pandavas — concealed beneath the disguise of Brahmins — saying: "Be seated, O lords."
+**2.19.35**  Then Jarāsandha addressed those Yādavas and Pāṇḍavas — concealed beneath the disguise of Brahmins — saying: "Be seated, O lords."
 
 **2.19.36**  Then all three of those foremost of men took their seats — blazing with splendor, the three of them like the three sacred fires at a great sacrifice.
 
-**2.19.37**  Then Jarasandha — that truthful lord of men — addressed them, reproaching them on account of the reason for their disguise, O Kauravya.
+**2.19.37**  Then Jarāsandha — that truthful lord of men — addressed them, reproaching them on account of the reason for their disguise, O Kauravya.
 
 **2.19.38**  "It is known to me in every way, in this world of men, that Brahmins who observe the vows of graduates do not wear their garlands and unguents on the outside of their garments."
 
@@ -1536,7 +1536,7 @@ translator: thothica
 
 **2.20.28**  I shall fight army against army in battle array, or one against one again, or against two or three — simultaneously or one by one.
 
-**2.20.29**  Vaiśampāyana said: Having spoken thus, Jarāsaṃdha the king, eager for battle and mighty in deed, then commanded the consecration of Sahadeva.
+**2.20.29**  Vaiśaṃpāyana said: Having spoken thus, Jarāsaṃdha the king, eager for battle and mighty in deed, then commanded the consecration of Sahadeva.
 
 **2.20.30**  That king, as battle drew near, O bull of the Bharatas, remembered Kauśika and Citrasena as his commanders.
 
@@ -1548,7 +1548,7 @@ translator: thothica
 
 **2.20.34**  — Madhusūdana, the younger brother of the wielder of the plough, the foremost among the self-possessed, did not wish to slay him by his own hand; placing the command of Brahmā first, he deferred the act.
 
-**2.21.1**  Vaiśampāyana said: Then the eloquent Adhokṣaja, the delight of the Yadus, spoke to King Jarāsaṃdha, whose mind was resolute for battle.
+**2.21.1**  Vaiśaṃpāyana said: Then the eloquent Adhokṣaja, the delight of the Yadus, spoke to King Jarāsaṃdha, whose mind was resolute for battle.
 
 **2.21.2**  Of the three of us, O king, with which does your mind incline to fight? Let whichever one of us you choose make himself ready for combat.
 
@@ -1594,7 +1594,7 @@ translator: thothica
 
 **2.21.23**  Then, to conquer the hitherto unconquered Jarāsaṃdha, Vṛkodara — foremost among the strong, joy of the Kurus — seized him with vigour.
 
-**2.22.1**  Vaiśampāyana said: Then Bhīmasena spoke to Kṛṣṇa, the delight of the Yadus, having formed a vast plan with the desire to slay Jarāsaṃdha.
+**2.22.1**  Vaiśaṃpāyana said: Then Bhīmasena spoke to Kṛṣṇa, the delight of the Yadus, having formed a vast plan with the desire to slay Jarāsaṃdha.
 
 **2.22.2**  This wicked one, O Kṛṣṇa, O tiger among the Yadus, should not be entreated for his life by me — he whose loin cloth is now bound fast.
 
@@ -1874,7 +1874,7 @@ translator: thothica
 
 **2.26.9**  Having conquered him without overly fierce action, that son of Kuntī of great heroism, the joy of the Kurus, subdued the eastern land.
 
-**2.26.10**  Then coming southward, he brought under his sway the great city of the Pulindas and the delicate Sumitra, lord of men.
+**2.26.10**  Then coming southward, he brought under his sway the great city of the Pulindas and the delicate Sumitrā, lord of men.
 
 **2.26.11**  Then by the command of the Dharma-king, O Janamejaya, that bull of the Bharatas advanced against the mighty Śiśupāla.
 
@@ -1900,7 +1900,7 @@ translator: thothica
 
 **2.27.6**  The long-armed Bhīma of fearful valour brought under his sway in battle the king of Kāśī, Subandhu, who never retreated.
 
-**2.27.7**  Then that bull among Pāṇḍavas conquered all around Supārśva and also Kratha, lord of kings, who fought with all his might in the engagement.
+**2.27.7**  Then that bull among Pāṇḍavas conquered all around Supārśva and also Krātha, lord of kings, who fought with all his might in the engagement.
 
 **2.27.8**  Then the greatly splendoured one conquered the Matsyas, the mighty and blameless Malayas, the Gayas, and the Paśubhūmi in its entirety.
 
@@ -1940,33 +1940,33 @@ translator: thothica
 
 **2.27.26**  Sandalwood, aloe, garments, incomparable gems and pearls, gold, silver, diamonds, and coral — great wealth of every kind.
 
-**2.27.27**  That one of immeasurable soul, with hundreds of crores of that great wealth, then showered the Pandava with a rain of riches.
+**2.27.27**  That one of immeasurable soul, with hundreds of crores of that great wealth, then showered the Pāṇḍava with a rain of riches.
 
-**2.27.28**  Then Bhima of fearsome valor, arriving at Indraprastha, reported all that wealth to the king of righteousness.
+**2.27.28**  Then Bhīma of fearsome valor, arriving at Indraprastha, reported all that wealth to the king of righteousness.
 
-**2.28.1**  Vaishampayana said: In like manner Sahadeva too, honored by the king of righteousness, marched with a great army toward the southern direction.
+**2.28.1**  Vaiśaṃpāyana said: In like manner Sahadeva too, honored by the king of righteousness, marched with a great army toward the southern direction.
 
-**2.28.2**  That powerful lord, the Kaurava hero, first conquered the Shurasenas completely and then forcibly brought the king of the Matsyas under his sway.
+**2.28.2**  That powerful lord, the Kaurava hero, first conquered the Śūrasenas completely and then forcibly brought the king of the Matsyas under his sway.
 
 **2.28.3**  He also conquered Dantavakra, lord of lords, in great battle, made him a tribute-payer, and established him securely in his own kingdom.
 
-**2.28.4**  He brought Sukumara and King Sumitra under his control, and likewise conquered the western Matsyas and the Pataccharas.
+**2.28.4**  He brought Sukumāra and King Sumitrā under his control, and likewise conquered the western Matsyas and the Paṭaccaras.
 
-**2.28.5**  The wise hero swiftly conquered the Nishada land, the excellent mountain Goshriṅga, and likewise King Shreṇiman.
+**2.28.5**  The wise hero swiftly conquered the Niṣāda land, the excellent mountain Goshriṅga, and likewise King Śreṇimān.
 
-**2.28.6**  Having fully conquered Navarashtra, he advanced against Kuntibhoja; and that king received his command with affection.
+**2.28.6**  Having fully conquered Navarāṣṭra, he advanced against Kuntibhoja; and that king received his command with affection.
 
-**2.28.7**  Then on the bank of the Chamravati he encountered the son of Jambhaka, a king who had been spared by Vasudeva from among former enemies.
+**2.28.7**  Then on the bank of the Chamravati he encountered the son of Jambhaka, a king who had been spared by Vāsudeva from among former enemies.
 
 **2.28.8**  There he engaged in battle with the Bhoja king, O Bharata; having conquered him in combat, he then marched facing south.
 
-**2.28.9**  Having received tribute and various jewels from them, he then marched toward the Narmada accompanied by those very kings.
+**2.28.9**  Having received tribute and various jewels from them, he then marched toward the Narmadā accompanied by those very kings.
 
-**2.28.10**  The valiant son of the Ashvins conquered in battle the two heroes Vinda and Anuvinda of Avanti, who were surrounded by a great army.
+**2.28.10**  The valiant son of the Aśvins conquered in battle the two heroes Vinda and Anuvinda of Avanti, who were surrounded by a great army.
 
-**2.28.11**  Then, having taken their jewels, he went to the city of Mahishmati; there that bull among men engaged in battle with King Nila.
+**2.28.11**  Then, having taken their jewels, he went to the city of Māhiṣmatī; there that bull among men engaged in battle with King Nīla.
 
-**2.28.12**  The Pandava Sahadeva, slayer of enemy heroes, a man of great valor — a very great battle then arose there, terrifying to the fainthearted.
+**2.28.12**  The Pāṇḍava Sahadeva, slayer of enemy heroes, a man of great valor — a very great battle then arose there, terrifying to the fainthearted.
 
 **2.28.13**  It was a battle that caused the destruction of troops and placed lives in jeopardy; for the blessed Fire-god, the bearer of oblations, rendered his aid to that king.
 
@@ -1976,19 +1976,19 @@ translator: thothica
 
 **2.28.16**  Janamejaya said: Why, O twice-born one, did the blessed Fire-god become an enemy in battle to Sahadeva, who was striving for the sake of the sacrifice?
 
-**2.28.17**  Vaishampayana said: It is heard that the blessed bearer of oblations, a resident of Mahishmati, was formerly bound there as an adulterer.
+**2.28.17**  Vaiśaṃpāyana said: It is heard that the blessed bearer of oblations, a resident of Māhiṣmatī, was formerly bound there as an adulterer.
 
-**2.28.18**  He had come to be under the authority of the former kings of Nila's line, wandering there by chance in the form of a brahmin.
+**2.28.18**  He had come to be under the authority of the former kings of Nīla's line, wandering there by chance in the form of a brahmin.
 
 **2.28.19**  But the righteous king punished him according to the law; thereupon the blessed bearer of oblations blazed up in anger.
 
-**2.28.20**  Seeing him, the king was astonished and bowed his head to the wise one; then Vibhavasu showed grace to that king.
+**2.28.20**  Seeing him, the king was astonished and bowed his head to the wise one; then Vibhāvasu showed grace to that king.
 
 **2.28.21**  The best of those who make excellent offerings granted a boon to that king; and the lord of the earth chose safety for his own army.
 
 **2.28.22**  From that time forward, whatever kings out of ignorance seek to conquer that city by force, O king, they are burned by fire here in this world.
 
-**2.28.23**  In that city of Mahishmati, O best of the Kurus, the women are said to have become unapproachable in that they follow their own desire.
+**2.28.23**  In that city of Māhiṣmatī, O best of the Kurus, the women are said to have become unapproachable in that they follow their own desire.
 
 **2.28.24**  Thus Fire granted a boon that women should not be restrained; indeed the women there are svairinis who move about as they please.
 
@@ -1998,11 +1998,11 @@ translator: thothica
 
 **2.28.27**  Then, having touched water and become ritually pure, he addressed the Purifier: "This undertaking is for your sake, O black-pathed one — homage be to you."
 
-**2.28.28**  "You are the mouth of the gods; you are the sacrifice itself, O Purifier. Because you purify, you are called Pavaka; because you carry, you are called Havyavahana."
+**2.28.28**  "You are the mouth of the gods; you are the sacrifice itself, O Purifier. Because you purify, you are called Pāvaka; because you carry, you are called Havyavahana."
 
-**2.28.29**  "The Vedas too were born for your sake, and therefore you are called Jatavedas. It is not fitting that you obstruct this sacrifice, O carrier of oblations."
+**2.28.29**  "The Vedas too were born for your sake, and therefore you are called Jātavedas. It is not fitting that you obstruct this sacrifice, O carrier of oblations."
 
-**2.28.30**  Having spoken thus, that tiger among men, the son of Madri, spread kusha grass on the ground according to ritual and sat facing the Purifier.
+**2.28.30**  Having spoken thus, that tiger among men, the son of Mādrī, spread kusha grass on the ground according to ritual and sat facing the Purifier.
 
 **2.28.31**  In the sight of the entire terrified and agitated army, O Bharata, Fire did not pass beyond him, just as the great ocean does not cross its shore.
 
@@ -2010,43 +2010,43 @@ translator: thothica
 
 **2.28.33**  "Rise, rise up, O Kaurava! This was a test I was conducting. I know fully the intention of both you and the son of Dharma."
 
-**2.28.34**  "But this city must be protected by me, O best of the Bharatas, so long as the lineage-holders of this king Nila endure — yet I shall fulfil the desire of your heart, O Pandava."
+**2.28.34**  "But this city must be protected by me, O best of the Bharatas, so long as the lineage-holders of this king Nīla endure — yet I shall fulfil the desire of your heart, O Pāṇḍava."
 
-**2.28.35**  Then that bull among men, the son of Madri, rose up with a gladdened heart, and with joined palms and bowed head, he worshipped the Purifier.
+**2.28.35**  Then that bull among men, the son of Mādrī, rose up with a gladdened heart, and with joined palms and bowed head, he worshipped the Purifier.
 
-**2.28.36**  When the Purifier withdrew, King Nila then came forward and honored with hospitality Sahadeva, that tiger among men, that lord of warriors.
+**2.28.36**  When the Purifier withdrew, King Nīla then came forward and honored with hospitality Sahadeva, that tiger among men, that lord of warriors.
 
-**2.28.37**  Having accepted that hospitality and placed him under tribute, the son of Madri then marched victoriously toward the southern direction.
+**2.28.37**  Having accepted that hospitality and placed him under tribute, the son of Mādrī then marched victoriously toward the southern direction.
 
 **2.28.38**  Having brought the king of Tripura under his sway and swiftly subdued the lord of Potana, that long-armed hero,
 
 **2.28.39**  that great-armed hero, with great effort, then brought Ahriti and Kaushikācharya under his sway, and likewise the lord of Surashtra.
 
-**2.28.40**  And while dwelling in the territory of Surashtra, he sent envoys to King Rukmini, the wise high minister stationed at Bhojakat.
+**2.28.40**  And while dwelling in the territory of Surashtra, he sent envoys to King Rukmiṇī, the wise high minister stationed at Bhojakat.
 
-**2.28.41**  To Bhishmaka himself, the righteous soul, who was a direct ally of Indra — he and his son, O king, accepted his command.
+**2.28.41**  To Bhīṣmaka himself, the righteous soul, who was a direct ally of Indra — he and his son, O king, accepted his command.
 
-**2.28.42**  That long-armed lord of warriors, glancing affectionately toward Vasudeva, then took those jewels and marched on again.
+**2.28.42**  That long-armed lord of warriors, glancing affectionately toward Vāsudeva, then took those jewels and marched on again.
 
-**2.28.43**  Then that one of great splendor and immense power brought under his sway the region of Shurparaka and the clan called Upakrita, and also the Dandakas.
+**2.28.43**  Then that one of great splendor and immense power brought under his sway the region of Śūrpāraka and the clan called Upakrita, and also the Daṇḍakas.
 
-**2.28.44**  And the kings who dwelt on ocean islands, born of barbarian lineage, the Nishadhas, the Purushadānas, and even those who use their ears as coverings —
+**2.28.44**  And the kings who dwelt on ocean islands, born of barbarian lineage, the Niṣadhas, the Purushadānas, and even those who use their ears as coverings —
 
-**2.28.45**  and those men called Kalamukhās born of Raksasa stock, and the entire mountain Kollagiri, and the city of Murachi —
+**2.28.45**  and those men called Kalamukhās born of Rākṣasa stock, and the entire mountain Kollagiri, and the city of Murachi —
 
 **2.28.46**  and the island called Tamra, and the mountain Ramaka — the great-minded hero brought all these under his sway, along with the king Timingila.
 
 **2.28.47**  One-footed men who dwelt solely in the forests, the city of Sanjayanti, Picchhanda, and Karahataka — these he brought under his sway merely through envoys and made them pay tribute.
 
-**2.28.48**  The Pandyas and the Dravidians together with the Udras and Keralas, the Andhras and the Talavanas, the Kalingas and the Oshthakarnikas —
+**2.28.48**  The Pandyas and the Dravidians together with the Udras and Keralas, the Andhras and the Talavanas, the Kaliṅgas and the Oshthakarnikas —
 
 **2.28.49**  Antakhi and Roma and likewise the city of the Yavanas — these too he brought under his sway merely through envoys and made them pay tribute.
 
-**2.28.50**  The wise subduer of enemies, that righteous soul, son of Madravati, having gone to Bharukaccha, sent envoys with affection to the great-souled Vibhishana of the Paulastya line, O king of kings.
+**2.28.50**  The wise subduer of enemies, that righteous soul, son of Mādravatī, having gone to Bharukaccha, sent envoys with affection to the great-souled Vibhīṣaṇa of the Paulastya line, O king of kings.
 
 **2.28.51**  And he accepted his command with affection; the wise lord also approved that which time had wrought.
 
-**2.28.52**  Then Vibhishana sent various jewels, foremost among which were sandalwood and aloe, and divine ornaments as well,
+**2.28.52**  Then Vibhīṣaṇa sent various jewels, foremost among which were sandalwood and aloe, and divine ornaments as well,
 
 **2.28.53**  and garments of great worth and gems of immense value. Then the wise and valiant Sahadeva turned back.
 
@@ -2054,31 +2054,31 @@ translator: thothica
 
 **2.28.55**  Having reported everything to the king of righteousness, O bull of the Bharatas, he who had accomplished his task dwelt in happiness, O king Janamejaya.
 
-**2.29.1**  Vaishampayana said: I shall now tell of the deeds and victories of Nakula, and how that lord conquered the direction that Vasudeva had won.
+**2.29.1**  Vaiśaṃpāyana said: I shall now tell of the deeds and victories of Nakula, and how that lord conquered the direction that Vāsudeva had won.
 
-**2.29.2**  Marching out from Khandavaprastha and heading toward the western direction, the wise one advanced with a great army.
+**2.29.2**  Marching out from Khāṇḍavaprastha and heading toward the western direction, the wise one advanced with a great army.
 
 **2.29.3**  With the great lion-roar of warriors, with their battle-shouts, and with the rumbling sound of chariot-wheels, he made this earth tremble.
 
-**2.29.4**  Then he advanced upon Rohitaka, a beautiful and wealthy land rich in cattle, horses, and grain, beloved of Kartikeya.
+**2.29.4**  Then he advanced upon Rohitaka, a beautiful and wealthy land rich in cattle, horses, and grain, beloved of Kārttikeya.
 
 **2.29.5**  There a great battle took place with the heroic Mattamayurakas; and he likewise conquered the entire desert region and Bahudhanyaka.
 
-**2.29.6**  That one of great splendor brought Shairishaka and Mahichchha under his sway, along with the Shibis, the Trigartas, the Ambasthas, the Malavas, and the Panchakarpaṭas.
+**2.29.6**  That one of great splendor brought Shairishaka and Mahichchha under his sway, along with the Śibis, the Trigartas, the Ambaṣṭhas, the Mālavas, and the Panchakarpaṭas.
 
-**2.29.7**  Likewise the people of Madhyamika and the Vatadhanā brahmins, and then turning back, those who dwelt in the Pushkara forest.
+**2.29.7**  Likewise the people of Madhyamika and the Vatadhanā brahmins, and then turning back, those who dwelt in the Puṣkara forest.
 
 **2.29.8**  That bull among men conquered the clans called Utsavasanketa, and the mighty Gramaneyas who dwelt along the banks of the Sindhu.
 
-**2.29.9**  And the Shudra and Abhira clans, those who subsist near the Sarasvati, those who live by fishing, and those who dwell in the mountains —
+**2.29.9**  And the Śūdra and Abhira clans, those who subsist near the Sarasvatī, those who live by fishing, and those who dwell in the mountains —
 
-**2.29.10**  the entire Panchanada, and likewise the western territory, Uttarajyotika, the city of Vrindataka, and Dvarapala — all these that one of great splendor swiftly brought under his sway.
+**2.29.10**  the entire Pañcanada, and likewise the western territory, Uttarajyotika, the city of Vrindataka, and Dvarapala — all these that one of great splendor swiftly brought under his sway.
 
-**2.29.11**  The Ramathas, the Harahunas, and whatever kings of the western regions — all of these the Pandava brought under his sway through his mere command.
+**2.29.11**  The Ramathas, the Harahunas, and whatever kings of the western regions — all of these the Pāṇḍava brought under his sway through his mere command.
 
-**2.29.12**  While dwelling there, the mighty one sent a message to Vasudeva; and he accepted his command with ten kingdoms.
+**2.29.12**  While dwelling there, the mighty one sent a message to Vāsudeva; and he accepted his command with ten kingdoms.
 
-**2.29.13**  Then the powerful hero went to Shakala, the great city of the Madras, and with affection brought his maternal uncle Shalya under his sway.
+**2.29.13**  Then the powerful hero went to Śākala, the great city of the Madras, and with affection brought his maternal uncle Śalya under his sway.
 
 **2.29.14**  Honored in turn by that king, as one deserving of honor, O lord of the people, the lord of warriors took abundant jewels and set out again.
 
@@ -2088,11 +2088,11 @@ translator: thothica
 
 **2.29.17**  Ten thousand camels carried the treasury of that great-souled hero, O great king — immense wealth, as though with difficulty.
 
-**2.29.18**  Then the glorious son of Madri, coming to the hero Yudhishthira who had returned to Indraprastha, presented that wealth to him.
+**2.29.18**  Then the glorious son of Mādrī, coming to the hero Yudhiṣṭhira who had returned to Indraprastha, presented that wealth to him.
 
-**2.29.19**  Thus Nakula, that bull of the Bharatas, conquered the western direction, guarded by Varuna, which had previously been won by Vasudeva.
+**2.29.19**  Thus Nakula, that bull of the Bharatas, conquered the western direction, guarded by Varuṇa, which had previously been won by Vāsudeva.
 
-**2.30.1**  Vaishampayana said: Through the protection of the king of righteousness, through the upholding of truth, and through the destruction of enemies, the subjects were devoted to their own duties.
+**2.30.1**  Vaiśaṃpāyana said: Through the protection of the king of righteousness, through the upholding of truth, and through the destruction of enemies, the subjects were devoted to their own duties.
 
 **2.30.2**  Through the proper collection of revenue from the powerful and through governance in accordance with righteousness, the rain-cloud showered as desired and the realm became prosperous.
 
@@ -2258,15 +2258,15 @@ translator: thothica
 
 **2.32.4**  He appointed Duḥśāsana to oversee the distribution of food and eatables; and he told Aśvatthāmā to take charge of the reception of the brāhmaṇas.
 
-**2.32.5**  For the purpose of honoring the kings, he appointed Sanjaya; and the two great-minded ones, Bhishma and Drona, he appointed for discerning what had been done and what remained undone.
+**2.32.5**  For the purpose of honoring the kings, he appointed Sañjaya; and the two great-minded ones, Bhīṣma and Droṇa, he appointed for discerning what had been done and what remained undone.
 
-**2.32.6**  The king appointed Kripa for the superintendence of gold, silver, and gems, and for the distribution of sacrificial fees; and likewise he appointed other tiger-like men in their respective stations.
+**2.32.6**  The king appointed Kṛpa for the superintendence of gold, silver, and gems, and for the distribution of sacrificial fees; and likewise he appointed other tiger-like men in their respective stations.
 
-**2.32.7**  Bahlika, Dhritarashtra, Somadatta, and Jayadratha, brought there by Nakula, took their ease as though they were masters of the house.
+**2.32.7**  Bahlika, Dhṛtarāṣṭra, Somadatta, and Jayadratha, brought there by Nakula, took their ease as though they were masters of the house.
 
 **2.32.8**  Vidura the steward, knower of all dharma, was the disbursing officer; while Duryodhana received all the tribute-offerings on every side.
 
-**2.32.9**  All the world came together, eager to obtain the highest reward and desirous of beholding the assembly hall as well as Yudhishthira the Pandava, the dharma-king.
+**2.32.9**  All the world came together, eager to obtain the highest reward and desirous of beholding the assembly hall as well as Yudhiṣṭhira the Pāṇḍava, the dharma-king.
 
 **2.32.10**  No one brought a tribute-gift worth less than a thousand; and there they magnified the dharma-king with many precious jewels.
 
@@ -2276,9 +2276,9 @@ translator: thothica
 
 **2.32.13**  — with divine residences that had been constructed, resembling aerial palaces, variegated and adorned with gems, and endowed with supreme prosperity —
 
-**2.32.14**  — and surrounded by kings possessed of extraordinary splendor and wealth, the assembly hall of the great-souled son of Kunti shone resplendently, O king.
+**2.32.14**  — and surrounded by kings possessed of extraordinary splendor and wealth, the assembly hall of the great-souled son of Kuntī shone resplendently, O king.
 
-**2.32.15**  Competing in prosperity with the god Varuna himself, Yudhishthira worshipped with the six-fire sacrifice endowed with generous fees, and he satisfied all people with every desire abundantly fulfilled.
+**2.32.15**  Competing in prosperity with the god Varuṇa himself, Yudhiṣṭhira worshipped with the six-fire sacrifice endowed with generous fees, and he satisfied all people with every desire abundantly fulfilled.
 
 **2.32.16**  That grand assembly was abundantly supplied with food and many kinds of eatables, thronged with people who had eaten their fill, and was characterized by the reception of jeweled tribute-offerings.
 
@@ -2286,11 +2286,11 @@ translator: thothica
 
 **2.32.18**  Just as the gods were satisfied, so too the brahmanas were satisfied with generous fees, food, and great wealth; and all the varnas were joyfully contented at that sacrifice.
 
-**2.33.1**  Vaishampayana said: Then, on the day of the royal consecration, brahmanas, together with kings, and great sages entered the inner sacrificial enclosure for the purpose of the honor ceremony.
+**2.33.1**  Vaiśaṃpāyana said: Then, on the day of the royal consecration, brahmanas, together with kings, and great sages entered the inner sacrificial enclosure for the purpose of the honor ceremony.
 
-**2.33.2**  Headed by Narada, the great-souled ones, seated in that inner enclosure together with the royal sages, shone with splendor at that time.
+**2.33.2**  Headed by Nārada, the great-souled ones, seated in that inner enclosure together with the royal sages, shone with splendor at that time.
 
-**2.33.3**  Assembled as though in the hall of Brahma, those of immeasurable might — like gods and divine sages — awaited the next rite and engaged in pleasant conversation.
+**2.33.3**  Assembled as though in the hall of Brahmā, those of immeasurable might — like gods and divine sages — awaited the next rite and engaged in pleasant conversation.
 
 **2.33.4**  "It is thus and not otherwise," "this is so and not different" — many there debated contentiously with one another in that fashion.
 
@@ -2302,161 +2302,161 @@ translator: thothica
 
 **2.33.8**  That sacrificial enclosure, crowded with gods, twice-born sages, and great seers conversant with the Vedas, shone like a clear sky studded with stars.
 
-**2.33.9**  In that inner enclosure of Yudhishthira's sacrificial ground, O king, there was present at that time neither any shudra nor anyone who had not undertaken a religious vow.
+**2.33.9**  In that inner enclosure of Yudhiṣṭhira's sacrificial ground, O king, there was present at that time neither any shudra nor anyone who had not undertaken a religious vow.
 
-**2.33.10**  Narada, beholding that prosperity born of the sacrificial ordinance of the prosperous dharma-king, the wise one, was delighted.
+**2.33.10**  Nārada, beholding that prosperity born of the sacrificial ordinance of the prosperous dharma-king, the wise one, was delighted.
 
-**2.33.11**  Then, O lord of men, the sage Narada fell into deep thought as he beheld that gathering of all the kshatriyas.
+**2.33.11**  Then, O lord of men, the sage Nārada fell into deep thought as he beheld that gathering of all the kshatriyas.
 
-**2.33.12**  And he recalled, O bull of the Bharatas, that ancient discourse which had taken place in Brahma's hall concerning the descent of the divine portions.
+**2.33.12**  And he recalled, O bull of the Bharatas, that ancient discourse which had taken place in Brahmā's hall concerning the descent of the divine portions.
 
-**2.33.13**  Recognizing in that assembly of kings a gathering of the gods, O joy of the Kurus, Narada remembered in his mind Hari, the lotus-eyed one.
+**2.33.13**  Recognizing in that assembly of kings a gathering of the gods, O joy of the Kurus, Nārada remembered in his mind Hari, the lotus-eyed one.
 
-**2.33.14**  He, Narayana the all-pervading, the slayer of the enemies of the gods, the wise one, conqueror of enemy cities, was born in person among the kshatriyas, fulfilling his promise.
+**2.33.14**  He, Nārāyaṇa the all-pervading, the slayer of the enemies of the gods, the wise one, conqueror of enemy cities, was born in person among the kshatriyas, fulfilling his promise.
 
 **2.33.15**  He who is the creator of all beings himself commanded the gods of old: "Slaying one another, you shall regain your respective worlds."
 
-**2.33.16**  Having thus commanded all the gods, Narayana the auspicious, the blessed Lord, the master of the universe, was born at the end of the Yadu line.
+**2.33.16**  Having thus commanded all the gods, Nārāyaṇa the auspicious, the blessed Lord, the master of the universe, was born at the end of the Yadu line.
 
-**2.33.17**  On earth, as the best of those who uphold the lineage, born in the line of the Andhakas and Vrishnis, he shone with supreme splendor like the moon among the stars.
+**2.33.17**  On earth, as the best of those who uphold the lineage, born in the line of the Andhakas and Vṛṣṇis, he shone with supreme splendor like the moon among the stars.
 
 **2.33.18**  He whose might of arm all the gods, including Indra, serve and revere — that Hari, the crusher of foes, dwells here, appearing as though a mere human.
 
-**2.33.19**  "Ah, how great a wonder that the Self-Existent One himself will restore the kshatriya order, thus endowed with power, once again" — so Narada reflected.
+**2.33.19**  "Ah, how great a wonder that the Self-Existent One himself will restore the kshatriya order, thus endowed with power, once again" — so Nārada reflected.
 
-**2.33.20**  Thus did Narada, knower of dharma, turn this thought over in his mind, knowing Hari Narayana to be the Lord worthy of worship with sacrifices.
+**2.33.20**  Thus did Nārada, knower of dharma, turn this thought over in his mind, knowing Hari Nārāyaṇa to be the Lord worthy of worship with sacrifices.
 
-**2.33.21**  At that great sacrifice of the wise dharma-king, Narada — the best among those who know dharma, himself of great wisdom — stood there with deep reverence.
+**2.33.21**  At that great sacrifice of the wise dharma-king, Nārada — the best among those who know dharma, himself of great wisdom — stood there with deep reverence.
 
-**2.33.22**  Then Bhishma, O king, spoke to Yudhishthira the dharma-king: "Let the honor-offering to the kings be made as is fitting, O descendant of Bharata."
+**2.33.22**  Then Bhīṣma, O king, spoke to Yudhiṣṭhira the dharma-king: "Let the honor-offering to the kings be made as is fitting, O descendant of Bharata."
 
-**2.33.23**  "A teacher, a sacrificial priest, an allied king, O Yudhishthira, a graduate in vedic study, a dear friend, and a king — these six are said to be worthy of the arghya honor-offering."
+**2.33.23**  "A teacher, a sacrificial priest, an allied king, O Yudhiṣṭhira, a graduate in vedic study, a dear friend, and a king — these six are said to be worthy of the arghya honor-offering."
 
 **2.33.24**  "These worthy ones, who have arrived after residing elsewhere for a year or more — those are said to be deserving of the arghya; and these have come to us after a long period of time."
 
 **2.33.25**  "Let the arghya be brought for each of them one by one, O king" — and moreover, "Let it be presented first to the most eminent and most worthy among them."
 
-**2.33.26**  Yudhishthira said: "To which one, O joy of the Kurus, do you think it proper that the arghya be first presented? Tell me that, O grandsire."
+**2.33.26**  Yudhiṣṭhira said: "To which one, O joy of the Kurus, do you think it proper that the arghya be first presented? Tell me that, O grandsire."
 
-**2.33.27**  Vaishampayana said: Then Bhishma, son of Shantanu, having resolved with his intellect, O descendant of Bharata, considered Krishna of the Vrishni clan to be the most deserving of honor on earth.
+**2.33.27**  Vaiśaṃpāyana said: Then Bhīṣma, son of Shantanu, having resolved with his intellect, O descendant of Bharata, considered Kṛṣṇa of the Vṛṣṇi clan to be the most deserving of honor on earth.
 
 **2.33.28**  "For this one shines in the midst of all those assembled, with energy, strength, and valor, blazing like the sun amid the heavenly lights."
 
-**2.33.29**  "Like a sunless place illumined by the sun, like a windless place refreshed by the wind — so our assembly is illumined and gladdened by Krishna."
+**2.33.29**  "Like a sunless place illumined by the sun, like a windless place refreshed by the wind — so our assembly is illumined and gladdened by Kṛṣṇa."
 
-**2.33.30**  Authorized by Bhishma, the valiant Sahadeva then presented, according to proper rite, the most excellent arghya to the scion of the Vrishnis.
+**2.33.30**  Authorized by Bhīṣma, the valiant Sahadeva then presented, according to proper rite, the most excellent arghya to the scion of the Vṛṣṇis.
 
-**2.33.31**  Krishna accepted it with the ceremony prescribed by scripture; but Shishupala could not bear that act of worship being rendered to Vasudeva.
+**2.33.31**  Kṛṣṇa accepted it with the ceremony prescribed by scripture; but Śiśupāla could not bear that act of worship being rendered to Vāsudeva.
 
-**2.33.32**  Reviling both Bhishma and the dharma-king in the assembly, the mighty king of the Chedi country heaped abuse upon Vasudeva.
+**2.33.32**  Reviling both Bhīṣma and the dharma-king in the assembly, the mighty king of the Cedi country heaped abuse upon Vāsudeva.
 
-**2.34.1**  Shishupala said: "This Vrishni does not deserve royal honor-worship when so many great-souled lords of the earth are present here, O Kauravya."
+**2.34.1**  Śiśupāla said: "This Vṛṣṇi does not deserve royal honor-worship when so many great-souled lords of the earth are present here, O Kauravya."
 
-**2.34.2**  "This conduct is not proper among the great-souled Pandavas — that out of favoritism you have caused the lotus-eyed one to be worshipped by a Pandava."
+**2.34.2**  "This conduct is not proper among the great-souled Pāṇḍavas — that out of favoritism you have caused the lotus-eyed one to be worshipped by a Pāṇḍava."
 
-**2.34.3**  "You are children who do not understand — dharma is subtle, O Pandavas. This son of the river-goddess has transgressed in that matter, being of limited vision."
+**2.34.3**  "You are children who do not understand — dharma is subtle, O Pāṇḍavas. This son of the river-goddess has transgressed in that matter, being of limited vision."
 
-**2.34.4**  "Indeed, one such as Bhishma, endowed with dharma, yet acting out of mere favoritism, becomes all the more despised in the worlds among the righteous."
+**2.34.4**  "Indeed, one such as Bhīṣma, endowed with dharma, yet acting out of mere favoritism, becomes all the more despised in the worlds among the righteous."
 
-**2.34.5**  "How does this Dasharha who is not a king deserve the kind of honor-worship with which you have worshipped him, in the presence of all lords of the earth?"
+**2.34.5**  "How does this Dāśārha who is not a king deserve the kind of honor-worship with which you have worshipped him, in the presence of all lords of the earth?"
 
-**2.34.6**  "Or perhaps you consider Krishna to be an elder, O bull of the Bharatas? But while his father Vasudeva, who is truly aged, still lives, how can his son deserve it?"
+**2.34.6**  "Or perhaps you consider Kṛṣṇa to be an elder, O bull of the Bharatas? But while his father Vāsudeva, who is truly aged, still lives, how can his son deserve it?"
 
-**2.34.7**  "Or perhaps, even Vasudeva himself, acting out of desire to please, has followed Drupada's wishes — and in that case, how does this Madhava deserve worship?"
+**2.34.7**  "Or perhaps, even Vāsudeva himself, acting out of desire to please, has followed Drupada's wishes — and in that case, how does this Mādhava deserve worship?"
 
-**2.34.8**  "Do you consider Krishna your teacher, O bull of the Kurus? But while Drona still lives, why have you worshipped this Vrishni scion?"
+**2.34.8**  "Do you consider Kṛṣṇa your teacher, O bull of the Kurus? But while Droṇa still lives, why have you worshipped this Vṛṣṇi scion?"
 
-**2.34.9**  "Do you consider Krishna your sacrificial priest, O joy of the Kurus? But while the brahmin Dvaipayana still lives, how did you worship Krishna?"
+**2.34.9**  "Do you consider Kṛṣṇa your sacrificial priest, O joy of the Kurus? But while the brahmin Dvaipāyana still lives, how did you worship Kṛṣṇa?"
 
-**2.34.10**  "Madhusudana is neither a sacrificial priest, nor a teacher, nor a king — yet he has been worshipped, O best of Kurus. What other reason can there be but favoritism?"
+**2.34.10**  "Madhusūdana is neither a sacrificial priest, nor a teacher, nor a king — yet he has been worshipped, O best of Kurus. What other reason can there be but favoritism?"
 
-**2.34.11**  "Or if this Madhusudana is to be worshipped by you, then why, O descendant of Bharata, were the kings brought here — merely to be dishonored?"
+**2.34.11**  "Or if this Madhusūdana is to be worshipped by you, then why, O descendant of Bharata, were the kings brought here — merely to be dishonored?"
 
-**2.34.12**  "We all do not pay tribute to this great-souled son of Kunti out of fear, nor out of greed, nor because we were appeased by him."
+**2.34.12**  "We all do not pay tribute to this great-souled son of Kuntī out of fear, nor out of greed, nor because we were appeased by him."
 
 **2.34.13**  "We pay tribute to him who is devoted to dharma and who seeks to establish sovereign rule — yet he, this one, holds us in no regard."
 
-**2.34.14**  "What other name can one give to this but dishonor — that in this royal assembly you have worshipped Krishna with the arghya, one who has not attained the mark of kingship?"
+**2.34.14**  "What other name can one give to this but dishonor — that in this royal assembly you have worshipped Kṛṣṇa with the arghya, one who has not attained the mark of kingship?"
 
-**2.34.15**  "Without cause has the fame gone forth that Dharma's son is a righteous soul — for who would offer such fitting worship to one who has fallen from dharma, this one born in the Vrishni clan who formerly slew a king?"
+**2.34.15**  "Without cause has the fame gone forth that Dharma's son is a righteous soul — for who would offer such fitting worship to one who has fallen from dharma, this one born in the Vṛṣṇi clan who formerly slew a king?"
 
-**2.34.16**  "Today Yudhishthira's reputation for righteousness has been stripped away, and wretchedness has entered into him, through the presentation of the arghya to Krishna."
+**2.34.16**  "Today Yudhiṣṭhira's reputation for righteousness has been stripped away, and wretchedness has entered into him, through the presentation of the arghya to Kṛṣṇa."
 
-**2.34.17**  "If the sons of Kunti are afraid and wretched ascetics, surely even you should understand what worship Madhava truly deserves."
+**2.34.17**  "If the sons of Kuntī are afraid and wretched ascetics, surely even you should understand what worship Mādhava truly deserves."
 
-**2.34.18**  "Or, O Janardana — you who are unworthy — why did you accept this worship that was offered by these wretches?"
+**2.34.18**  "Or, O Janārdana — you who are unworthy — why did you accept this worship that was offered by these wretches?"
 
 **2.34.19**  "And you, moreover, think highly of this worship that is not appropriate to yourself — like a dog licking up the drippings of an oblation in a deserted place."
 
-**2.34.20**  "But this dishonor is not being directed at the lords of the earth — clearly, O Janardana, it is you whom the Kauravas are deceiving."
+**2.34.20**  "But this dishonor is not being directed at the lords of the earth — clearly, O Janārdana, it is you whom the Kauravas are deceiving."
 
-**2.34.21**  "As meaningless as the marriage ceremony performed for an impotent man, or as showing forms to a blind man — so is the royal worship offered to you, O Madhusudana, who are no king."
+**2.34.21**  "As meaningless as the marriage ceremony performed for an impotent man, or as showing forms to a blind man — so is the royal worship offered to you, O Madhusūdana, who are no king."
 
-**2.34.22**  "I have now seen King Yudhishthira for what he is, and I have seen Bhishma for what he is, and this Vasudeva has also been seen — all this is now exactly as it truly is."
+**2.34.22**  "I have now seen King Yudhiṣṭhira for what he is, and I have seen Bhīṣma for what he is, and this Vāsudeva has also been seen — all this is now exactly as it truly is."
 
-**2.34.23**  Having spoken thus to them, Shishupala rose from his high seat and departed from that assembly, accompanied by the kings.
+**2.34.23**  Having spoken thus to them, Śiśupāla rose from his high seat and departed from that assembly, accompanied by the kings.
 
-**2.35.1**  Vaishampayana said: Then King Yudhishthira hastened after Shishupala and spoke these sweet, conciliatory words to him.
+**2.35.1**  Vaiśaṃpāyana said: Then King Yudhiṣṭhira hastened after Śiśupāla and spoke these sweet, conciliatory words to him.
 
 **2.35.2**  "This is not proper, O lord of the earth, what you have said; it is the highest adharma, O king — this harshness that serves no purpose."
 
-**2.35.3**  "For Bhishma son of Shantanu would never be ignorant of the highest dharma, O earth-lord — do not think otherwise; do not slight him."
+**2.35.3**  "For Bhīṣma son of Shantanu would never be ignorant of the highest dharma, O earth-lord — do not think otherwise; do not slight him."
 
-**2.35.4**  "Look at these many lords of the earth, far older than you — they accept the honor-offering given to Krishna; in like manner you too ought to be patient."
+**2.35.4**  "Look at these many lords of the earth, far older than you — they accept the honor-offering given to Kṛṣṇa; in like manner you too ought to be patient."
 
-**2.35.5**  "For Bhishma knows Krishna in truth and deeply, O lord of the Chedi; you do not know him as the Kaurava elder knows him."
+**2.35.5**  "For Bhīṣma knows Kṛṣṇa in truth and deeply, O lord of the Cedi; you do not know him as the Kaurava elder knows him."
 
-**2.35.6**  Bhishma said: "To him no conciliation is to be given; this one does not deserve to be appeased — the one who does not approve of the honor rendered to Krishna, the eldest in the world."
+**2.35.6**  Bhīṣma said: "To him no conciliation is to be given; this one does not deserve to be appeased — the one who does not approve of the honor rendered to Kṛṣṇa, the eldest in the world."
 
 **2.35.7**  "The kshatriya who, having conquered another kshatriya in battle — best of those who wage battle — sets him free after bringing him under control, becomes like a guru to him."
 
-**2.35.8**  "And in this assembly of kings, I do not see a single lord of the earth who has not been conquered in battle by the might of the son of the Satvata woman — Krishna."
+**2.35.8**  "And in this assembly of kings, I do not see a single lord of the earth who has not been conquered in battle by the might of the son of the Sātvata woman — Kṛṣṇa."
 
-**2.35.9**  "For Achyuta — the imperishable one — is not only the most worthy of worship for us alone; Janardana is worthy of worship in all three worlds."
+**2.35.9**  "For Acyuta — the imperishable one — is not only the most worthy of worship for us alone; Janārdana is worthy of worship in all three worlds."
 
-**2.35.10**  "For by Krishna in battle have many bull-like kshatriyas been conquered, and the entire world rests wholly in this scion of the Vrishnis."
+**2.35.10**  "For by Kṛṣṇa in battle have many bull-like kshatriyas been conquered, and the entire world rests wholly in this scion of the Vṛṣṇis."
 
-**2.35.11**  "Therefore, even in the presence of elders who are great, we worship Krishna and no other. You have no right to speak thus — let not your mind dwell in such a disposition."
+**2.35.11**  "Therefore, even in the presence of elders who are great, we worship Kṛṣṇa and no other. You have no right to speak thus — let not your mind dwell in such a disposition."
 
-**2.35.12**  O king, I have attended upon many who are great in wisdom. Among those who spoke, I have heard from the assembled sages — those honored by the virtuous — the many and well-esteemed qualities of Shauri (Krishna), the man of virtues.
+**2.35.12**  O king, I have attended upon many who are great in wisdom. Among those who spoke, I have heard from the assembled sages — those honored by the virtuous — the many and well-esteemed qualities of Śauri (Kṛṣṇa), the man of virtues.
 
 **2.35.13**  And the deeds of this wise one since his very birth, being told repeatedly by men, have been heard by me again and again.
 
-**2.35.14**  O king of Chedi, we do not honor Janardana (Krishna) merely out of desire, nor placing kinship first, nor for any personal advantage whatsoever.
+**2.35.14**  O king of Cedi, we do not honor Janārdana (Kṛṣṇa) merely out of desire, nor placing kinship first, nor for any personal advantage whatsoever.
 
 **2.35.15**  We worship one who has been worshipped by the good. Understanding his fame, valor, and victory — which bring earthly well-being — we render him honor.
 
-**2.35.16**  Not one person here, not even a mere boy, has been left unexamined by us. Surpassing all elders in qualities, Hari (Krishna) is considered by us the most worthy of worship.
+**2.35.16**  Not one person here, not even a mere boy, has been left unexamined by us. Surpassing all elders in qualities, Hari (Kṛṣṇa) is considered by us the most worthy of worship.
 
-**2.35.17**  He is the greatest in wisdom among the twice-born, and superior in strength among the kshatriyas. Both these reasons for worship are established in Govinda (Krishna) here.
+**2.35.17**  He is the greatest in wisdom among the twice-born, and superior in strength among the kshatriyas. Both these reasons for worship are established in Govinda (Kṛṣṇa) here.
 
-**2.35.18**  Knowledge of the Vedas and their auxiliaries, and likewise immeasurable strength — in this world, who among men possesses these distinctions except Keshava (Krishna)?
+**2.35.18**  Knowledge of the Vedas and their auxiliaries, and likewise immeasurable strength — in this world, who among men possesses these distinctions except Keśava (Kṛṣṇa)?
 
-**2.35.19**  Generosity, skill, learning, valor, modesty, fame, supreme intelligence, humility, prosperity, steadfastness, contentment, and nourishment — all these are permanently fixed in Achyuta (Krishna).
+**2.35.19**  Generosity, skill, learning, valor, modesty, fame, supreme intelligence, humility, prosperity, steadfastness, contentment, and nourishment — all these are permanently fixed in Acyuta (Kṛṣṇa).
 
 **2.35.20**  This one, endowed with all these qualities — teacher, father-figure, and guru; worthy of worship, already worshipped, and deserving of honor — all of you ought to acknowledge him.
 
-**2.35.21**  Officiating priest, teacher, father-in-law, honored graduate, king, and beloved — all of these roles reside in Hrishikesha (Krishna). Therefore Achyuta has been worshipped.
+**2.35.21**  Officiating priest, teacher, father-in-law, honored graduate, king, and beloved — all of these roles reside in Hrishikesha (Kṛṣṇa). Therefore Acyuta has been worshipped.
 
-**2.35.22**  Krishna alone is the origin and also the dissolution of the worlds. Indeed, for Krishna's sake this entire universe has been offered up.
+**2.35.22**  Kṛṣṇa alone is the origin and also the dissolution of the worlds. Indeed, for Kṛṣṇa's sake this entire universe has been offered up.
 
-**2.35.23**  He is the unmanifest nature, the eternal agent, and beyond all beings. Therefore Achyuta is the most ancient and greatest of all.
+**2.35.23**  He is the unmanifest nature, the eternal agent, and beyond all beings. Therefore Acyuta is the most ancient and greatest of all.
 
-**2.35.24**  Intellect, mind, the great principle (mahat), wind, fire, water, ether, and earth — whatever fourfold existence exists — all of it is established in Krishna.
+**2.35.24**  Intellect, mind, the great principle (mahat), wind, fire, water, ether, and earth — whatever fourfold existence exists — all of it is established in Kṛṣṇa.
 
-**2.35.25**  The sun, the moon, the constellations, the planets, the directions and sub-directions — all of it is established in Krishna.
+**2.35.25**  The sun, the moon, the constellations, the planets, the directions and sub-directions — all of it is established in Kṛṣṇa.
 
-**2.35.26**  But this foolish man Shishupala does not understand Krishna — who is everywhere and at all times — and therefore speaks thus.
+**2.35.26**  But this foolish man Śiśupāla does not understand Kṛṣṇa — who is everywhere and at all times — and therefore speaks thus.
 
-**2.35.27**  The wise man who truly examines the highest dharma would see things as they are according to dharma. But this king of Chedi does not see thus.
+**2.35.27**  The wise man who truly examines the highest dharma would see things as they are according to dharma. But this king of Cedi does not see thus.
 
-**2.35.28**  Among the aged and the young, or among the great-souled kings, who does not consider Krishna worthy? And who would not worship him?
+**2.35.28**  Among the aged and the young, or among the great-souled kings, who does not consider Kṛṣṇa worthy? And who would not worship him?
 
-**2.35.29**  If Shishupala resolves that this worship was wrongly performed, then in accordance with justice, he ought to act accordingly in that wrongdoing.
+**2.35.29**  If Śiśupāla resolves that this worship was wrongly performed, then in accordance with justice, he ought to act accordingly in that wrongdoing.
 
-**2.36.1**  Vaishampayana said: Having spoken thus, the greatly renowned Bhishma then fell silent. Thereupon Sahadeva spoke a meaningful reply in that assembly.
+**2.36.1**  Vaiśaṃpāyana said: Having spoken thus, the greatly renowned Bhīṣma then fell silent. Thereupon Sahadeva spoke a meaningful reply in that assembly.
 
-**2.36.2**  "Keshava, the slayer of Keshi, who is of immeasurable valor — Krishna who is being worshipped by me — whoever among you, O kings, cannot bear this —
+**2.36.2**  "Keśava, the slayer of Keśī, who is of immeasurable valor — Kṛṣṇa who is being worshipped by me — whoever among you, O kings, cannot bear this —
 
 **2.36.3**  "— upon the heads of all the mighty ones I have placed this foot. Let him who can properly respond to what I have said now speak his answer."
 
@@ -2466,119 +2466,119 @@ translator: thothica
 
 **2.36.6**  Then a rain of flowers fell upon Sahadeva's head, and invisible voices also cried out: "Well done! Well done!"
 
-**2.36.7**  Narada, the knower of all worlds, who speaks of past and future, the remover of all doubts, twirled his black deerskin toward Krishna (in approval).
+**2.36.7**  Nārada, the knower of all worlds, who speaks of past and future, the remover of all doubts, twirled his black deerskin toward Kṛṣṇa (in approval).
 
 **2.36.8**  All those assembled there who had come when summoned — the factions led by Sunitha — appeared enraged and their faces pale with anger.
 
-**2.36.9**  The kings there spoke out about the consecration of Yudhishthira and the honoring of Vasudeva, with disgust and firm conviction of their own.
+**2.36.9**  The kings there spoke out about the consecration of Yudhiṣṭhira and the honoring of Vāsudeva, with disgust and firm conviction of their own.
 
 **2.36.10**  The appearance of those who were being restrained by their friends shone forth like lions roaring when dragged away from their prey.
 
-**2.36.11**  Krishna then understood that boundless ocean of kings — that inexhaustible ocean of rulers — which was forming a pact (for war), and he perceived the coming battle.
+**2.36.11**  Kṛṣṇa then understood that boundless ocean of kings — that inexhaustible ocean of rulers — which was forming a pact (for war), and he perceived the coming battle.
 
-**2.36.12**  Having honored the one worthy of honor, especially the Brahmin and Kshatriya orders, Sahadeva — the god among men — completed that rite.
+**2.36.12**  Having honored the one worthy of honor, especially the Brahmin and Kṣatriya orders, Sahadeva — the god among men — completed that rite.
 
-**2.36.13**  When Krishna had been thus honored, Sunitha — the crusher of enemies — with eyes reddened with anger, spoke to the assembled lords of men.
+**2.36.13**  When Kṛṣṇa had been thus honored, Sunitha — the crusher of enemies — with eyes reddened with anger, spoke to the assembled lords of men.
 
-**2.36.14**  "I stand here as your commander. What do you think we should do now? Let us arm ourselves and stand in battle against the assembled Vrishnis and Pandavas."
+**2.36.14**  "I stand here as your commander. What do you think we should do now? Let us arm ourselves and stand in battle against the assembled Vṛṣṇis and Pāṇḍavas."
 
-**2.36.15**  Having thus roused all those kings, the chief of the Chedis then consulted with the kings to disrupt the sacrifice.
+**2.36.15**  Having thus roused all those kings, the chief of the Cedis then consulted with the kings to disrupt the sacrifice.
 
-**2.37.1**  Vaishampayana said: Then, seeing that ocean of kings — resembling the actual ocean — agitated by fury, Yudhishthira said all this:
+**2.37.1**  Vaiśaṃpāyana said: Then, seeing that ocean of kings — resembling the actual ocean — agitated by fury, Yudhiṣṭhira said all this:
 
-**2.37.2**  He (Yudhishthira), of great brilliance, like Indra the slayer of enemies, addressed Bhishma — the foremost of the wise, the aged grandfather of the Kurus — as Brihaspati (the divine teacher):
+**2.37.2**  He (Yudhiṣṭhira), of great brilliance, like Indra the slayer of enemies, addressed Bhīṣma — the foremost of the wise, the aged grandfather of the Kurus — as Bṛhaspati (the divine teacher):
 
 **2.37.3**  "That great ocean of kings has been stirred by fury. Tell me, O grandfather, what should be done here."
 
 **2.37.4**  "So that there be no obstruction to the sacrifice, and so that well-being comes to the people — tell me everything such that this holds true in all respects, O grandfather."
 
-**2.37.5**  When Yudhishthira, the dharma-knowing king of dharma, had spoken thus, the grandfather of the Kurus, Bhishma, then spoke these words:
+**2.37.5**  When Yudhiṣṭhira, the dharma-knowing king of dharma, had spoken thus, the grandfather of the Kurus, Bhīṣma, then spoke these words:
 
 **2.37.6**  "Fear not, O tiger among the Kurus. A dog cannot kill a lion. The auspicious and well-guided path — it was chosen by me here long before."
 
 **2.37.7**  "For just as when a lion is asleep, dogs gathered there would bark at it all together, so too do these lords of the earth."
 
-**2.37.8**  "Standing before the sleeping lion of the Vrishnis — like dogs barking furiously in the presence of a lion — so too do these stand, O dear one."
+**2.37.8**  "Standing before the sleeping lion of the Vṛṣṇis — like dogs barking furiously in the presence of a lion — so too do these stand, O dear one."
 
-**2.37.9**  "For Achyuta, like a sleeping lion, does not yet rouse himself. By this, the man-lion (Narasimha), the chief of Chedis, emboldens them (Shishupala's followers) to act like lions."
+**2.37.9**  "For Acyuta, like a sleeping lion, does not yet rouse himself. By this, the man-lion (Narasimha), the chief of Cedis, emboldens them (Śiśupāla's followers) to act like lions."
 
-**2.37.10**  "O best among kings, the dim-witted Shishupala desires, O dear one, to lead all these kings with his whole being to Yama's abode."
+**2.37.10**  "O best among kings, the dim-witted Śiśupāla desires, O dear one, to lead all these kings with his whole being to Yama's abode."
 
-**2.37.11**  "Surely Adhokshaja (Krishna) desires to reclaim what is his — the splendor that resides in Shishupala — O Bharata."
+**2.37.11**  "Surely Adhokṣaja (Kṛṣṇa) desires to reclaim what is his — the splendor that resides in Śiśupāla — O Bharata."
 
-**2.37.12**  "The mind of the king of Chedi — and of all these lords of the earth — has become disordered. May it be well with you, O best of the wise, O son of Kunti."
+**2.37.12**  "The mind of the king of Cedi — and of all these lords of the earth — has become disordered. May it be well with you, O best of the wise, O son of Kuntī."
 
-**2.37.13**  "For whenever this tiger among men (Krishna) desires to take from someone, that person's mind becomes disordered — just as has happened with the lord of Chedi."
+**2.37.13**  "For whenever this tiger among men (Kṛṣṇa) desires to take from someone, that person's mind becomes disordered — just as has happened with the lord of Cedi."
 
-**2.37.14**  "Madhava (Krishna) is the origin and also the destruction of all fourfold beings in the three worlds, O Yudhishthira."
+**2.37.14**  "Mādhava (Kṛṣṇa) is the origin and also the destruction of all fourfold beings in the three worlds, O Yudhiṣṭhira."
 
-**2.37.15**  Having heard his words, the king, the lord of Chedi, then caused Bhishma to hear harsh-syllabled words, O Bharata.
+**2.37.15**  Having heard his words, the king, the lord of Cedi, then caused Bhīṣma to hear harsh-syllabled words, O Bharata.
 
-**2.38.1**  Shishupala said: "With your many intimidations, frightening all the kings — why do you not feel shame, old man and disgrace to your lineage?"
+**2.38.1**  Śiśupāla said: "With your many intimidations, frightening all the kings — why do you not feel shame, old man and disgrace to your lineage?"
 
 **2.38.2**  "It is fitting for you — one who dwells in the third nature (i.e., neither man nor woman) — to speak of matters contrary to dharma, for you are called the foremost among all the Kurus."
 
-**2.38.3**  "As a boat is bound to a boat, or as one blind man follows another blind man — such indeed are the Kuravas, O Bhishma, with you as their leader."
+**2.38.3**  "As a boat is bound to a boat, or as one blind man follows another blind man — such indeed are the Kuravas, O Bhīṣma, with you as their leader."
 
 **2.38.4**  "By you recounting to us his deeds — beginning with the killing of Putana in particular — our minds have been further unsettled."
 
-**2.38.5**  "How, O Bhishma, does your tongue not split into a hundred pieces as you, a fool full of arrogance, seek to praise Keshava?"
+**2.38.5**  "How, O Bhīṣma, does your tongue not split into a hundred pieces as you, a fool full of arrogance, seek to praise Keśava?"
 
-**2.38.6**  "Where younger men would employ censure, O Bhishma — this cowherd — you, being senior in wisdom, presume to praise him."
+**2.38.6**  "Where younger men would employ censure, O Bhīṣma — this cowherd — you, being senior in wisdom, presume to praise him."
 
-**2.38.7**  "If in childhood he (Krishna) killed Shakuni (the demon) — what is remarkable in that? Or those two — the horse and the bull — O Bhishma, who were not skilled in warfare."
+**2.38.7**  "If in childhood he (Kṛṣṇa) killed Śakuni (the demon) — what is remarkable in that? Or those two — the horse and the bull — O Bhīṣma, who were not skilled in warfare."
 
-**2.38.8**  "If he knocked down with his foot the cart demon (Shakata) — a piece of wood devoid of consciousness — O Bhishma, what wonderful feat was accomplished there?"
+**2.38.8**  "If he knocked down with his foot the cart demon (Shakata) — a piece of wood devoid of consciousness — O Bhīṣma, what wonderful feat was accomplished there?"
 
-**2.38.9**  "If he held aloft a mountain no bigger than an ant-hill for seven days — that Govardhana, O Bhishma — I do not consider that remarkable."
+**2.38.9**  "If he held aloft a mountain no bigger than an ant-hill for seven days — that Govardhana, O Bhīṣma — I do not consider that remarkable."
 
-**2.38.10**  "'Much food was eaten by him while playing on the mountaintop' — those hearing this from you, O Bhishma, have been struck with great wonder (at what you say)."
+**2.38.10**  "'Much food was eaten by him while playing on the mountaintop' — those hearing this from you, O Bhīṣma, have been struck with great wonder (at what you say)."
 
-**2.38.11**  "The powerful Kamsa, whose food he ate, O knower of dharma — that same Kamsa was killed by him — this too is no great wonder."
+**2.38.11**  "The powerful Kaṃsa, whose food he ate, O knower of dharma — that same Kaṃsa was killed by him — this too is no great wonder."
 
-**2.38.12**  "This which I will tell you, O Bhishma, O ignorant one, O lowest of the Kuru clan — surely this has not been heard by you from the virtuous who speak."
+**2.38.12**  "This which I will tell you, O Bhīṣma, O ignorant one, O lowest of the Kuru clan — surely this has not been heard by you from the virtuous who speak."
 
 **2.38.13**  "One should not raise weapons against women, cows, and Brahmins; nor against one whose food one has eaten; nor against one who has sought refuge."
 
-**2.38.14**  "Thus do the good and virtuous righteous ones always instruct, O Bhishma. But in this world, all of that is seen to be false in you."
+**2.38.14**  "Thus do the good and virtuous righteous ones always instruct, O Bhīṣma. But in this world, all of that is seen to be false in you."
 
-**2.38.15**  "You praise Keshava as though not knowing — as one greater in wisdom and age than me — O best of the Kurus. But being a cow-killer and a woman-killer, O Bhishma, how does he deserve praise?"
+**2.38.15**  "You praise Keśava as though not knowing — as one greater in wisdom and age than me — O best of the Kurus. But being a cow-killer and a woman-killer, O Bhīṣma, how does he deserve praise?"
 
-**2.38.16**  "If this one who is called lord of the universe, Janardana, honors himself as the foremost of the wise on account of your words saying 'thus it is' — then surely all of that is false."
+**2.38.16**  "If this one who is called lord of the universe, Janārdana, honors himself as the foremost of the wise on account of your words saying 'thus it is' — then surely all of that is false."
 
 **2.38.17**  "A song does not teach the singer though he may sing much. Beings go to their true nature — as the sparrow and the hawk (each follow their kind)."
 
-**2.38.18**  "Surely this nature of yours is the lowest — there is no doubt in this. And even among the Pandavas, the nature is considered more wicked than this."
+**2.38.18**  "Surely this nature of yours is the lowest — there is no doubt in this. And even among the Pāṇḍavas, the nature is considered more wicked than this."
 
-**2.38.19**  "You, whose most worthy of worship is Krishna, and you who are their guide — you speak the words of dharma, yet you are ignorant of dharma, fallen from the path of the good."
+**2.38.19**  "You, whose most worthy of worship is Kṛṣṇa, and you who are their guide — you speak the words of dharma, yet you are ignorant of dharma, fallen from the path of the good."
 
-**2.38.20**  "For who among the best of the wise, knowing himself to be righteous, would act as you have acted, O Bhishma, while claiming to regard dharma?"
+**2.38.20**  "For who among the best of the wise, knowing himself to be righteous, would act as you have acted, O Bhīṣma, while claiming to regard dharma?"
 
 **2.38.21**  "The maiden named Amba who desired another — how was she abducted by you, O one who fancies himself wise, O knower of dharma? May it be well with you."
 
-**2.38.22**  "The maiden whom you abducted, O Bhishma — your brother Vichitravirya refused to take her, following the conduct of the virtuous."
+**2.38.22**  "The maiden whom you abducted, O Bhīṣma — your brother Vicitravīrya refused to take her, following the conduct of the virtuous."
 
 **2.38.23**  "And the children begotten for another's wives while you, who fancy yourself wise, looked on — born on the path of virtuous conduct (by others for dynastic duty)."
 
-**2.38.24**  "There is no dharma in you, O Bhishma. This celibacy you maintain is in vain — out of delusion or impotence, without doubt."
+**2.38.24**  "There is no dharma in you, O Bhīṣma. This celibacy you maintain is in vain — out of delusion or impotence, without doubt."
 
 **2.38.25**  "I do not see any benefit in you, O knower of dharma, anywhere. For surely you have not attended upon those elders who have spoken of dharma in this way."
 
 **2.38.26**  "Sacrifices performed, gifts given, study undertaken, and rituals with great fees — all of this is not worth a sixteenth part of (having) a child."
 
-**2.38.27**  "Whatever is accomplished through many vows and fasts, O Bhishma — all of that for the childless man is certainly in vain."
+**2.38.27**  "Whatever is accomplished through many vows and fasts, O Bhīṣma — all of that for the childless man is certainly in vain."
 
 **2.38.28**  "You, childless and old, because of your false teaching of dharma — like the hamsa (swan/goose), you too may now receive death at the hands of your kinsmen."
 
-**2.38.29**  "For thus did other men, the knowers of wisdom in former times, speak — O Bhishma. That which I will now fully recount to you as you listen:"
+**2.38.29**  "For thus did other men, the knowers of wisdom in former times, speak — O Bhīṣma. That which I will now fully recount to you as you listen:"
 
 **2.38.30**  "There was once, they say, an old hamsa (goose) living at the ocean's edge in former times — one who spoke of dharma but lived otherwise. He was instructing the birds."
 
-**2.38.31**  "'Practice dharma, not adharma' — so went his words, they say. The birds constantly heard him, O Bhishma, speaking of dharma."
+**2.38.31**  "'Practice dharma, not adharma' — so went his words, they say. The birds constantly heard him, O Bhīṣma, speaking of dharma."
 
-**2.38.32**  "Then for the sake of dharma — so we have heard, O Bhishma — the egg-born birds that roam the ocean waters brought food for him (the hamsa)."
+**2.38.32**  "Then for the sake of dharma — so we have heard, O Bhīṣma — the egg-born birds that roam the ocean waters brought food for him (the hamsa)."
 
-**2.38.33**  In that very vicinity, having laid their eggs everywhere, the birds roamed about joyfully in the waters of the sea, O Bhishma.
+**2.38.33**  In that very vicinity, having laid their eggs everywhere, the birds roamed about joyfully in the waters of the sea, O Bhīṣma.
 
 **2.38.34**  That wicked swan devoured the eggs of all those birds — vigilant in his own doings while they were careless and inattentive.
 
@@ -2588,53 +2588,53 @@ translator: thothica
 
 **2.38.37**  Then those birds, assembling together and seeing it with their own eyes, killed that swan who had behaved so falsely, O foremost of the Kurus.
 
-**2.38.38**  These kings of the earth too, O Bhishma, may slay you — who are of the same nature as that swan — just as those furious birds slew that egg-born creature.
+**2.38.38**  These kings of the earth too, O Bhīṣma, may slay you — who are of the same nature as that swan — just as those furious birds slew that egg-born creature.
 
-**2.38.39**  Those who are versed in the ancient lore also sing a verse on this matter, O Bhishma — that verse I shall relate to you accurately, O Bharata.
+**2.38.39**  Those who are versed in the ancient lore also sing a verse on this matter, O Bhīṣma — that verse I shall relate to you accurately, O Bharata.
 
 **2.38.40**  "When the inner self is invested in wrong, O winged one, you rage falsely; the eating of eggs is impure for you — your deed surpasses your words."
 
-**2.39.1**  Shishupala said: That great and mighty king Jarasandha is highly esteemed by me — one who refused to fight with this man in battle, saying "This one is a mere slave."
+**2.39.1**  Śiśupāla said: That great and mighty king Jarāsandha is highly esteemed by me — one who refused to fight with this man in battle, saying "This one is a mere slave."
 
-**2.39.2**  What Keshava did at the slaying of Jarasandha, along with Bhimasena and Arjuna — who considers that to have been a righteous act?
+**2.39.2**  What Keśava did at the slaying of Jarāsandha, along with Bhīmasena and Arjuna — who considers that to have been a righteous act?
 
-**2.39.3**  Krishna, having entered by a back way in the guise of a Brahmana speaker, witnessed for himself the power of the wise Jarasandha.
+**2.39.3**  Kṛṣṇa, having entered by a back way in the guise of a Brāhmaṇa speaker, witnessed for himself the power of the wise Jarāsandha.
 
-**2.39.4**  He who, knowing himself to be righteous and devoted to Brahmanas, would not have offered the water of welcome first to that wicked-souled one.
+**2.39.4**  He who, knowing himself to be righteous and devoted to Brāhmaṇas, would not have offered the water of welcome first to that wicked-souled one.
 
-**2.39.5**  Krishna, Bhima, and Dhananjaya were told by Jarasandha, "Eat and be welcome" — yet Krishna did what was improper, O Kauravya.
+**2.39.5**  Kṛṣṇa, Bhīma, and Dhanañjaya were told by Jarāsandha, "Eat and be welcome" — yet Kṛṣṇa did what was improper, O Kauravya.
 
-**2.39.6**  If he is truly the creator of the world, as you foolishly believe, then why does he not properly recognise himself as a Brahmana?
+**2.39.6**  If he is truly the creator of the world, as you foolishly believe, then why does he not properly recognise himself as a Brāhmaṇa?
 
-**2.39.7**  This is what amazes me — that these Pandavas, drawn away from the path of the righteous by you, still regard it as proper.
+**2.39.7**  This is what amazes me — that these Pāṇḍavas, drawn away from the path of the righteous by you, still regard it as proper.
 
 **2.39.8**  Or perhaps this is no wonder, O Bharata — for you are their guide in all matters: you who are both of the nature of a woman and an old man.
 
-**2.39.9**  Vaishampayana said: Hearing those harsh and rough-syllabled words of his, the glorious Bhimasena, foremost among the strong, became exceedingly angry.
+**2.39.9**  Vaiśaṃpāyana said: Hearing those harsh and rough-syllabled words of his, the glorious Bhīmasena, foremost among the strong, became exceedingly angry.
 
 **2.39.10**  His eyes — naturally wide and expansive, resembling lotus petals — grew red once more, their corners flushed deep crimson with wrath.
 
-**2.39.11**  All the assembled kings beheld on his forehead a triple-ridged frown — like the triple-peaked Trikuta mountain, or the Ganga flowing in three streams.
+**2.39.11**  All the assembled kings beheld on his forehead a triple-ridged frown — like the triple-peaked Trikūṭa mountain, or the Gaṅgā flowing in three streams.
 
 **2.39.12**  They saw the face of him as he ground his teeth in rage — like the face of Time at the end of an age, as he would burn all beings.
 
-**2.39.13**  But as he leapt up with fierce velocity, the mighty-armed Bhishma seized that high-spirited one, as a lord might restrain a great general.
+**2.39.13**  But as he leapt up with fierce velocity, the mighty-armed Bhīṣma seized that high-spirited one, as a lord might restrain a great general.
 
-**2.39.14**  Restrained by Bhishma with many varied words of counsel, O Bharata, the wrath of that Bhima subsided.
+**2.39.14**  Restrained by Bhīṣma with many varied words of counsel, O Bharata, the wrath of that Bhīma subsided.
 
-**2.39.15**  That subduer of enemies did not transgress the word of Bhishma — even when aroused, as the great ocean does not pass beyond the shoreline when the rains are over.
+**2.39.15**  That subduer of enemies did not transgress the word of Bhīṣma — even when aroused, as the great ocean does not pass beyond the shoreline when the rains are over.
 
-**2.39.16**  But Shishupala, O king of men, did not tremble even when Bhimasena grew enraged — that hero stood firm in his own manliness.
+**2.39.16**  But Śiśupāla, O king of men, did not tremble even when Bhīmasena grew enraged — that hero stood firm in his own manliness.
 
-**2.39.17**  As Bhima leapt up again and again with furious speed, that subduer of foes paid him no regard at all — just as a lion pays no heed to a small animal.
+**2.39.17**  As Bhīma leapt up again and again with furious speed, that subduer of foes paid him no regard at all — just as a lion pays no heed to a small animal.
 
-**2.39.18**  Laughing, the glorious king of Chedi spoke these words upon seeing the exceedingly wrathful Bhimasena, whose prowess is terrible.
+**2.39.18**  Laughing, the glorious king of Cedi spoke these words upon seeing the exceedingly wrathful Bhīmasena, whose prowess is terrible.
 
-**2.39.19**  "Release him, Bhishma — let the kings of the earth watch as he is consumed by the fire of my prowess, like a moth by a flame."
+**2.39.19**  "Release him, Bhīṣma — let the kings of the earth watch as he is consumed by the fire of my prowess, like a moth by a flame."
 
-**2.39.20**  Then, having heard those words of the king of Chedi, the foremost of the Kurus — Bhishma, best among the wise — spoke thus to Bhimasena.
+**2.39.20**  Then, having heard those words of the king of Cedi, the foremost of the Kurus — Bhīṣma, best among the wise — spoke thus to Bhīmasena.
 
-**2.40.1**  Bhishma said: This one was born in the royal line of Chedi with three eyes and four arms, and he brayed and roared with a sound like that of a donkey.
+**2.40.1**  Bhīṣma said: This one was born in the royal line of Cedi with three eyes and four arms, and he brayed and roared with a sound like that of a donkey.
 
 **2.40.2**  By that, his mother and father, along with all the kinsmen, were terrified; and seeing that ill omen, the two of them resolved to abandon him.
 
@@ -2660,83 +2660,83 @@ translator: thothica
 
 **2.40.13**  Thus the child was placed in the laps of thousands of kings one by one in order — but the prophesied sign did not occur.
 
-**2.40.14**  Then the two Yadavas, Sankarshana and Janardana, arrived at the city of Chedi to visit that Yadava woman — their father's sister.
+**2.40.14**  Then the two Yādavas, Sankarshana and Janārdana, arrived at the city of Cedi to visit that Yādava woman — their father's sister.
 
-**2.40.15**  Having duly saluted the elders in proper order and inquired after the welfare of those kings, Rama and Keshava took their seats.
+**2.40.15**  Having duly saluted the elders in proper order and inquired after the welfare of those kings, Rāma and Keśava took their seats.
 
-**2.40.16**  The two heroes having been honoured with exceeding affection, the queen herself then placed her son in the lap of Damodara.
+**2.40.16**  The two heroes having been honoured with exceeding affection, the queen herself then placed her son in the lap of Dāmodara.
 
 **2.40.17**  The very moment the child was placed in his lap, both extra arms fell off, and that eye on the forehead sank and vanished.
 
-**2.40.18**  Seeing that, she was distressed and frightened, and she begged a boon of Krishna: "Grant me a boon, O Krishna, O mighty-armed one — I am overcome with fear."
+**2.40.18**  Seeing that, she was distressed and frightened, and she begged a boon of Kṛṣṇa: "Grant me a boon, O Kṛṣṇa, O mighty-armed one — I am overcome with fear."
 
-**2.40.19**  "You are the refuge of the afflicted and the giver of fearlessness to the frightened." Janardana said: "Do not be afraid, O father's sister."
+**2.40.19**  "You are the refuge of the afflicted and the giver of fearlessness to the frightened." Janārdana said: "Do not be afraid, O father's sister."
 
 **2.40.20**  "What boon shall I give, or what shall I do for you, O father's sister? Whether possible or impossible, I shall fulfil your words."
 
-**2.40.21**  Thus addressed, she then said to Krishna, the joy of the Yadus: "You must pardon the offences of Shishupala, O mighty one."
+**2.40.21**  Thus addressed, she then said to Kṛṣṇa, the joy of the Yadus: "You must pardon the offences of Śiśupāla, O mighty one."
 
-**2.40.22**  Krishna said: A hundred offences of his I shall pardon, O father's sister — even of your son who deserves death. Do not let your mind dwell in grief.
+**2.40.22**  Kṛṣṇa said: A hundred offences of his I shall pardon, O father's sister — even of your son who deserves death. Do not let your mind dwell in grief.
 
-**2.40.23**  Bhishma said: Thus this sinful king Shishupala, of utterly feeble understanding, challenges you, O hero — emboldened by the boon given by Govinda himself.
+**2.40.23**  Bhīṣma said: Thus this sinful king Śiśupāla, of utterly feeble understanding, challenges you, O hero — emboldened by the boon given by Govinda himself.
 
-**2.41.1**  Bhishma said: This is not the king of Chedi's own intelligence by which he challenges the Imperishable One — surely this is none other than the will of Krishna himself, the sustainer of the world.
+**2.41.1**  Bhīṣma said: This is not the king of Cedi's own intelligence by which he challenges the Imperishable One — surely this is none other than the will of Kṛṣṇa himself, the sustainer of the world.
 
-**2.41.2**  For who among the kings of this earth could hurl insults at me — even Bhimasena — whose soul is overcome by fate, as this disgrace to his lineage has done?
+**2.41.2**  For who among the kings of this earth could hurl insults at me — even Bhīmasena — whose soul is overcome by fate, as this disgrace to his lineage has done?
 
 **2.41.3**  For this one is assuredly a part of Hari's own splendour, O mighty-armed one — and the wide-famed Hari, wishing to reclaim that portion, seeks it back.
 
-**2.41.4**  It is by that power that this king of Chedi, O tiger among the Kurus, roars like a tiger — that one of utterly wicked understanding, giving no thought to any of us.
+**2.41.4**  It is by that power that this king of Cedi, O tiger among the Kurus, roars like a tiger — that one of utterly wicked understanding, giving no thought to any of us.
 
-**2.41.5**  Vaishampayana said: Then the king of Chedi did not tolerate those words of Bhishma, and enraged, he spoke these further words in reply to Bhishma.
+**2.41.5**  Vaiśaṃpāyana said: Then the king of Cedi did not tolerate those words of Bhīṣma, and enraged, he spoke these further words in reply to Bhīṣma.
 
-**2.41.6**  Shishupala said: May this power of Keshava — whose perpetual panegyrist you are, rising up like a bard — belong to our enemies, O Bhishma.
+**2.41.6**  Śiśupāla said: May this power of Keśava — whose perpetual panegyrist you are, rising up like a bard — belong to our enemies, O Bhīṣma.
 
-**2.41.7**  Your mind always delights in praising others, O Bhishma — if you must praise kings, then praise some other king and leave off Janardana.
+**2.41.7**  Your mind always delights in praising others, O Bhīṣma — if you must praise kings, then praise some other king and leave off Janārdana.
 
 **2.41.8**  Praise the Darada, praise Bahlika — this foremost of kings, at whose very birth the earth was split asunder.
 
-**2.41.9**  Praise Karna, O Bhishma — the overlord of the Vanga and Anga regions, equal to the thousand-eyed Indra in might, the mighty stretcher of the great bow.
+**2.41.9**  Praise Karṇa, O Bhīṣma — the overlord of the Vanga and Aṅga regions, equal to the thousand-eyed Indra in might, the mighty stretcher of the great bow.
 
-**2.41.10**  Rightly praise Drona and his son Ashvatthama — the father and son, both great warriors, both ever worthy of praise, O Bhishma, finest of twice-born men.
+**2.41.10**  Rightly praise Droṇa and his son Aśvatthāmā — the father and son, both great warriors, both ever worthy of praise, O Bhīṣma, finest of twice-born men.
 
-**2.41.11**  Either one of them, O Bhishma, if roused to anger, could reduce this entire earth — moving and unmoving — to nothing: such is my conviction.
+**2.41.11**  Either one of them, O Bhīṣma, if roused to anger, could reduce this entire earth — moving and unmoving — to nothing: such is my conviction.
 
-**2.41.12**  I see no king equal to Drona in battle, nor to Ashvatthama either, O Bhishma — yet you have no desire to praise even these two.
+**2.41.12**  I see no king equal to Droṇa in battle, nor to Aśvatthāmā either, O Bhīṣma — yet you have no desire to praise even these two.
 
-**2.41.13**  Why do you not praise Shalya and the other lords of the earth, O Bhishma — if your mind is always inclined toward the giving of praise?
+**2.41.13**  Why do you not praise Śalya and the other lords of the earth, O Bhīṣma — if your mind is always inclined toward the giving of praise?
 
 **2.41.14**  What can I do, O king — you who once recounted the words of the elders, the speakers of dharma, have surely not truly heard them.
 
 **2.41.15**  Self-disparagement, self-praise, the defaming of others, and the flattering of others — these four kinds of conduct are not practised by the noble.
 
-**2.41.16**  That you constantly praise this Keshava who is unworthy of such praise, through delusion and blind devotion — not a single person approves of this, O Bhishma.
+**2.41.16**  That you constantly praise this Keśava who is unworthy of such praise, through delusion and blind devotion — not a single person approves of this, O Bhīṣma.
 
 **2.41.17**  How can you place the entire world in the person of this Bhoja — a mere herdsman, a wicked soul — out of sheer partiality?
 
 **2.41.18**  Or perhaps this devotion of yours does not yield to reason, O Bharata — as I have already described before, like the story of the bhulinga bird.
 
-**2.41.19**  There is a bird called bhulinga on the far side of the Himalayas, O Bhishma — its words are always heard to be contrary to its own interest.
+**2.41.19**  There is a bird called bhulinga on the far side of the Himālayas, O Bhīṣma — its words are always heard to be contrary to its own interest.
 
 **2.41.20**  It constantly cries out, "Do not act rashly!" — yet itself acts with extreme rashness and does not even perceive it.
 
-**2.41.21**  For that little-witted bird, O Bhishma, snatches away the morsel of flesh lodged between the teeth of a lion as it is eating.
+**2.41.21**  For that little-witted bird, O Bhīṣma, snatches away the morsel of flesh lodged between the teeth of a lion as it is eating.
 
-**2.41.22**  It lives only because the lion permits it, O Bhishma — make no mistake about it. In the same way, O you who are ignorant of dharma, you always speak such words.
+**2.41.22**  It lives only because the lion permits it, O Bhīṣma — make no mistake about it. In the same way, O you who are ignorant of dharma, you always speak such words.
 
-**2.41.23**  You live only because these lords of kings allow it, O Bhishma — make no mistake. For there is no one else like you who performs deeds so universally despised.
+**2.41.23**  You live only because these lords of kings allow it, O Bhīṣma — make no mistake. For there is no one else like you who performs deeds so universally despised.
 
-**2.41.24**  Vaishampayana said: Then, having heard those bitter words of the king of Chedi, Bhishma spoke these words while the king of Chedi listened, O king.
+**2.41.24**  Vaiśaṃpāyana said: Then, having heard those bitter words of the king of Cedi, Bhīṣma spoke these words while the king of Cedi listened, O king.
 
 **2.41.25**  "Indeed it is said that I live at the pleasure of these lords of the earth — I who do not count these kings of men as worth more than blades of grass."
 
-**2.41.26**  When Bhishma had spoken thus, the kings then became enraged; some among them rejoiced, while others reproached Bhishma.
+**2.41.26**  When Bhīṣma had spoken thus, the kings then became enraged; some among them rejoiced, while others reproached Bhīṣma.
 
-**2.41.27**  Some of the great archers, having heard those words of Bhishma, said: "This Bhishma is sinful, arrogant, and old — he does not deserve to be forgiven."
+**2.41.27**  Some of the great archers, having heard those words of Bhīṣma, said: "This Bhīṣma is sinful, arrogant, and old — he does not deserve to be forgiven."
 
-**2.41.28**  "Let the evil-minded Bhishma be slain like a beast — it is proper that all the kings, massing together in fury, should kill him, or burn him in a fire of straw."
+**2.41.28**  "Let the evil-minded Bhīṣma be slain like a beast — it is proper that all the kings, massing together in fury, should kill him, or burn him in a fire of straw."
 
-**2.41.29**  Having heard those words of theirs, the grandfather of the Kurus — the wise Bhishma — then spoke to those very lords of the earth.
+**2.41.29**  Having heard those words of theirs, the grandfather of the Kurus — the wise Bhīṣma — then spoke to those very lords of the earth.
 
 **2.41.30**  I see no end to what has already been said again and again; but hear all that I shall now say, O lords of the earth.
 
@@ -2744,19 +2744,19 @@ translator: thothica
 
 **2.41.32**  Here stands Govinda, the infallible one, honored by us; let him who is eager to die challenge Mādhava.
 
-**2.41.33**  Let him challenge Krishna, the bearer of the Śārṅga bow and mace, in battle today — let the fallen one enter the body of this very god.
+**2.41.33**  Let him challenge Kṛṣṇa, the bearer of the Śārṅga bow and mace, in battle today — let the fallen one enter the body of this very god.
 
 **2.42.1**  Vaiśaṃpāyana said: Then, having heard Bhīṣma's words, the king of Cedi of great prowess, eager to fight, addressed Vāsudeva.
 
 **2.42.2**  "I challenge you — go to battle with me, O Janārdana, until today I slay you together with all the Pāṇḍavas."
 
-**2.42.3**  "The Pāṇḍavas too must certainly be slain by me along with you, O Krishna, for by them — bypassing the kings — you, who are no king, have been honored."
+**2.42.3**  "The Pāṇḍavas too must certainly be slain by me along with you, O Kṛṣṇa, for by them — bypassing the kings — you, who are no king, have been honored."
 
-**2.42.4**  "Those who, out of foolishness, honor you — a slave and no king — as if you were worthy of honor, O Krishna, those wicked-minded ones deserve to be slain — this is my view." Having spoken thus, that tiger among kings stood roaring with indignation.
+**2.42.4**  "Those who, out of foolishness, honor you — a slave and no king — as if you were worthy of honor, O Kṛṣṇa, those wicked-minded ones deserve to be slain — this is my view." Having spoken thus, that tiger among kings stood roaring with indignation.
 
-**2.42.5**  When this was said, Krishna then spoke these words, gentle yet firm, before all the kings and the Pāṇḍavas assembled there.
+**2.42.5**  When this was said, Kṛṣṇa then spoke these words, gentle yet firm, before all the kings and the Pāṇḍavas assembled there.
 
-**2.42.6**  "This son of Śīśupāla's mother is our ultimate enemy, O kings — cruel-natured toward the Sātvatas, and no friend to the innocent."
+**2.42.6**  "This son of Śiśupāla's mother is our ultimate enemy, O kings — cruel-natured toward the Sātvatas, and no friend to the innocent."
 
 **2.42.7**  "This cruel-doer, though my cousin's son, burned Dvārakā when he learned that we had gone to Prāgjyotiṣapura, O lords of men."
 
@@ -2780,21 +2780,21 @@ translator: thothica
 
 **2.42.17**  Then the mighty Śiśupāla, having heard those words, laughed a loud, resonant laugh and, still laughing, spoke thus.
 
-**2.42.18**  "O Krishna, how do you feel no shame in proclaiming in assemblies — and especially among kings — that Rukmiṇī was formerly intended for me?"
+**2.42.18**  "O Kṛṣṇa, how do you feel no shame in proclaiming in assemblies — and especially among kings — that Rukmiṇī was formerly intended for me?"
 
 **2.42.19**  "What self-respecting man would ever proclaim in good company that a woman was previously another's — who other than you, O Madhusūdana?"
 
-**2.42.20**  "Forgive me if you wish, or do not forgive me, O Krishna — whether in anger or in pleasure, what can I expect from you anyway?"
+**2.42.20**  "Forgive me if you wish, or do not forgive me, O Kṛṣṇa — whether in anger or in pleasure, what can I expect from you anyway?"
 
 **2.42.21**  Even as he was speaking thus, the blessed Madhusūdana, the annihilator of enemies, in anger severed his head with the discus; the mighty-armed one fell like a mountain struck by a thunderbolt.
 
 **2.42.22**  Then the kings beheld a supreme radiance rising up from the body of the lord of Cedi, O great king, like the sun rising from the sky.
 
-**2.42.23**  Then that radiance paid homage to Krishna of lotus-petal eyes, worshipped by the world, and entered into him, O lord of men.
+**2.42.23**  Then that radiance paid homage to Kṛṣṇa of lotus-petal eyes, worshipped by the world, and entered into him, O lord of men.
 
 **2.42.24**  All the rulers of the earth thought it a wonder when they saw that radiance enter the mighty-armed Puruṣottama.
 
-**2.42.25**  When the Cedi king was slain by Krishna, the sky rained without clouds, blazing thunderbolts fell, and the earth trembled.
+**2.42.25**  When the Cedi king was slain by Kṛṣṇa, the sky rained without clouds, blazing thunderbolts fell, and the earth trembled.
 
 **2.42.26**  Then some of the earth's rulers said nothing at all, gazing at Janārdana when the moment was past the reach of words.
 
@@ -2862,9 +2862,9 @@ translator: thothica
 
 **2.42.58**  "Ever vigilant and steadfast, protect your subjects, O lord of the people, as the rain-cloud protects living beings, as a great tree shelters birds; may your kinsmen live by your support as the immortals live by the thousand-eyed Indra."
 
-**2.42.59**  Having thus made their mutual covenant, Krishna and the Pāṇḍava took leave of each other and departed each to his own home.
+**2.42.59**  Having thus made their mutual covenant, Kṛṣṇa and the Pāṇḍava took leave of each other and departed each to his own home.
 
-**2.42.60**  When Krishna, the foremost of the Sātvatas, had departed for Dvāravatī, O king, king Duryodhana alone and also Śakuni, son of Subala — those two bulls among men — lingered in that divine assembly hall.
+**2.42.60**  When Kṛṣṇa, the foremost of the Sātvatas, had departed for Dvāravatī, O king, king Duryodhana alone and also Śakuni, son of Subala — those two bulls among men — lingered in that divine assembly hall.
 
 **2.43.1**  Vaiśaṃpāyana said: Dwelling in that assembly hall, O bull of the Bharata line, Duryodhana leisurely surveyed the entire hall together with Śakuni.
 
@@ -2898,25 +2898,25 @@ translator: thothica
 
 **2.43.16**  As he traveled on, his mind distracted, brooding only on that assembly hall and the incomparable glory of the wise King of Dharma,
 
-**2.43.17**  Dhritarashtra's son Duryodhana, his mind distracted, did not then address Shakuni, the son of Subala, though he spoke to him again and again.
+**2.43.17**  Dhṛtarāṣṭra's son Duryodhana, his mind distracted, did not then address Śakuni, the son of Subala, though he spoke to him again and again.
 
-**2.43.18**  Seeing him thus scattered in mind, Shakuni spoke to him: "Duryodhana, what is the root of this — why do you walk sighing like one in grief?"
+**2.43.18**  Seeing him thus scattered in mind, Śakuni spoke to him: "Duryodhana, what is the root of this — why do you walk sighing like one in grief?"
 
-**2.43.19**  Duryodhana said: Having seen this entire earth brought under Yudhishthira's sway — won by the martial prowess of the great-souled Arjuna, the white-horsed hero —
+**2.43.19**  Duryodhana said: Having seen this entire earth brought under Yudhiṣṭhira's sway — won by the martial prowess of the great-souled Arjuna, the white-horsed hero —
 
-**2.43.20**  and having witnessed that sacrifice of Partha conducted in such a manner — brilliant uncle, it was like Indra's sacrifice among the gods —
+**2.43.20**  and having witnessed that sacrifice of Pārtha conducted in such a manner — brilliant uncle, it was like Indra's sacrifice among the gods —
 
-**2.43.21**  I am filled entirely with indignation, burning day and night — as a shallow pool dries up when the hot season of Shukra arrives.
+**2.43.21**  I am filled entirely with indignation, burning day and night — as a shallow pool dries up when the hot season of Śukra arrives.
 
-**2.43.22**  See how Shishupala was struck down by the foremost of the Satvatas — and not a single man there stood to follow him in support.
+**2.43.22**  See how Śiśupāla was struck down by the foremost of the Sātvatas — and not a single man there stood to follow him in support.
 
-**2.43.23**  The kings, burning in the fire kindled by the Pandavas, forgave that offense. But who truly deserves to forgive such a thing?
+**2.43.23**  The kings, burning in the fire kindled by the Pāṇḍavas, forgave that offense. But who truly deserves to forgive such a thing?
 
-**2.43.24**  That great deed was carried out so fittingly by Vasudeva, and succeeded through the glory of the great-souled sons of Pandu.
+**2.43.24**  That great deed was carried out so fittingly by Vāsudeva, and succeeded through the glory of the great-souled sons of Pāṇḍu.
 
-**2.43.25**  And so kings bearing various treasures attend upon the son of Kunti, paying tribute like merchants paying taxes to a king.
+**2.43.25**  And so kings bearing various treasures attend upon the son of Kuntī, paying tribute like merchants paying taxes to a king.
 
-**2.43.26**  Having seen such blazing prosperity in the Pandava, I am seized by indignation and burn — I who am not suited to bear this.
+**2.43.26**  Having seen such blazing prosperity in the Pāṇḍava, I am seized by indignation and burn — I who am not suited to bear this.
 
 **2.43.27**  I shall enter fire, or consume poison, or plunge into water — I cannot go on living.
 
@@ -2928,35 +2928,35 @@ translator: thothica
 
 **2.43.31**  Alone and unable to seize that royal splendor, seeing no allies, I contemplate death.
 
-**2.43.32**  I think fate alone is paramount; human effort is meaningless — having seen that resplendent prosperity thus acquired by the son of Kunti.
+**2.43.32**  I think fate alone is paramount; human effort is meaningless — having seen that resplendent prosperity thus acquired by the son of Kuntī.
 
 **2.43.33**  I made effort before for his destruction, O Saubala — yet he has surpassed all of that and grown, like a lotus in water.
 
-**2.43.34**  Therefore I consider fate supreme and human effort pointless — the sons of Dhritarashtra diminish while the sons of Pritha ever grow.
+**2.43.34**  Therefore I consider fate supreme and human effort pointless — the sons of Dhṛtarāṣṭra diminish while the sons of Pṛthā ever grow.
 
 **2.43.35**  I, who have seen that prosperity and that assembly so magnificent, and the mockery by the guards — I am scorched as if by fire.
 
-**2.43.36**  Therefore, uncle, give me leave — today I am deeply sorrowful and filled with indignation. Convey this to Dhritarashtra.
+**2.43.36**  Therefore, uncle, give me leave — today I am deeply sorrowful and filled with indignation. Convey this to Dhṛtarāṣṭra.
 
-**2.44.1**  Shakuni said: Duryodhana, you should not harbor indignation toward Yudhishthira — the Pandavas merely enjoy what is rightfully their own portion.
+**2.44.1**  Śakuni said: Duryodhana, you should not harbor indignation toward Yudhiṣṭhira — the Pāṇḍavas merely enjoy what is rightfully their own portion.
 
 **2.44.2**  Those tiger-like men were attacked by you before through many schemes, yet they escaped — their portion of fate safeguarding them.
 
-**2.44.3**  By them was won Draupadi as wife, and Drupada together with his sons as allies in gaining the earth, and the mighty Vasudeva too.
+**2.44.3**  By them was won Draupadī as wife, and Drupada together with his sons as allies in gaining the earth, and the mighty Vāsudeva too.
 
 **2.44.4**  And their paternal share of wealth, once obtained, has not been overpowered — it has grown through their own glory, O lord of earth. What cause for lament is there?
 
-**2.44.5**  By Dhananjaya was the Gandiva bow obtained, and the two inexhaustible quivers, and divine weapons — after propitiating the fire-god.
+**2.44.5**  By Dhanañjaya was the Gāṇḍīva bow obtained, and the two inexhaustible quivers, and divine weapons — after propitiating the fire-god.
 
 **2.44.6**  With that foremost of bows and by the strength of his own arms, kings of the earth were brought under his sway. What cause for lament is there?
 
 **2.44.7**  Having rescued Maya the demon from being burned by fire, the ambidextrous Arjuna, scorcher of foes, had him build that assembly hall.
 
-**2.44.8**  And by that Maya were summoned the Rakshasas called Kimkaras — those terrible ones bear that assembly hall. What cause for lament is there?
+**2.44.8**  And by that Maya were summoned the Rākṣasas called Kimkaras — those terrible ones bear that assembly hall. What cause for lament is there?
 
 **2.44.9**  As for what you said about having no allies, O king, O Bharata — that is false. These brothers of yours are your allies, great warriors all.
 
-**2.44.10**  Drona, your great archer, along with his wise son; and the son of a charioteer, Radheya; and Gautama — all great warriors.
+**2.44.10**  Droṇa, your great archer, along with his wise son; and the son of a charioteer, Rādheya; and Gautama — all great warriors.
 
 **2.44.11**  And I together with my brothers, and the valiant son of Somadatta — united with all of these, go and conquer the entire earth.
 
@@ -2964,37 +2964,37 @@ translator: thothica
 
 **2.44.13**  When these are conquered, the earth will be mine, and all the kings of the earth, and that hall of immense wealth.
 
-**2.44.14**  Shakuni said: Dhananjaya, Vasudeva, Bhimasena, Yudhishthira, Nakula, Sahadeva, and Drupada together with his sons —
+**2.44.14**  Śakuni said: Dhanañjaya, Vāsudeva, Bhīmasena, Yudhiṣṭhira, Nakula, Sahadeva, and Drupada together with his sons —
 
 **2.44.15**  these cannot be conquered by force in battle even by the hosts of gods — great warriors, mighty archers, masters of weapons, mad with the lust for battle.
 
-**2.44.16**  But I know the means by which Yudhishthira himself can be conquered, O king. Hear it and act upon it.
+**2.44.16**  But I know the means by which Yudhiṣṭhira himself can be conquered, O king. Hear it and act upon it.
 
 **2.44.17**  Duryodhana said: If they can be conquered without harm to friends and other noble ones, then tell me how, uncle.
 
-**2.44.18**  Shakuni said: The son of Kunti is fond of dice yet does not know how to play; and once challenged, the lord of kings will not be able to refuse.
+**2.44.18**  Śakuni said: The son of Kuntī is fond of dice yet does not know how to play; and once challenged, the lord of kings will not be able to refuse.
 
-**2.44.19**  I am skilled at gambling — there is none equal to me on earth or in the three worlds. Challenge that son of Kunti to a game of dice.
+**2.44.19**  I am skilled at gambling — there is none equal to me on earth or in the three worlds. Challenge that son of Kuntī to a game of dice.
 
 **2.44.20**  I, skilled with dice, will without doubt win from him his kingdom and that blazing wealth, for your sake, O bull among men.
 
 **2.44.21**  Present all of this to the king, Duryodhana. With your father's permission, I shall conquer him — of that there is no doubt.
 
-**2.44.22**  Duryodhana said: You yourself convey this properly to Dhritarashtra, foremost of the Kurus, O Saubala — I will not be able to declare it myself.
+**2.44.22**  Duryodhana said: You yourself convey this properly to Dhṛtarāṣṭra, foremost of the Kurus, O Saubala — I will not be able to declare it myself.
 
-**2.45.1**  Vaishampyana said: Having witnessed that great Rajasuya sacrifice of king Yudhishthira, together with the son of Gandhari,
+**2.45.1**  Vaishampyana said: Having witnessed that great Rājasūya sacrifice of king Yudhiṣṭhira, together with the son of Gāndhārī,
 
-**2.45.2**  Shakuni of Subala's line, knowing before what would please Duryodhana, then approached Dhritarashtra, who sat with the eye of wisdom —
+**2.45.2**  Śakuni of Subala's line, knowing before what would please Duryodhana, then approached Dhṛtarāṣṭra, who sat with the eye of wisdom —
 
-**2.45.3**  Having heard Duryodhana's words, Shakuni went to Dhritarashtra, lord of men, and spoke to that greatly wise one.
+**2.45.3**  Having heard Duryodhana's words, Śakuni went to Dhṛtarāṣṭra, lord of men, and spoke to that greatly wise one.
 
 **2.45.4**  "Duryodhana, O great king, is pale, wan, and emaciated, dejected and sunk in worry — know this, O bull of the Bharatas."
 
 **2.45.5**  "You do not examine properly this unbearable anguish that arises from his enemies. Why do you not perceive the sorrow of your eldest son?"
 
-**2.45.6**  Dhritarashtra said: "Duryodhana, my son, what is the root of your distress — you who are so deeply afflicted? If it is a matter I should hear, tell me, O joy of the Kurus."
+**2.45.6**  Dhṛtarāṣṭra said: "Duryodhana, my son, what is the root of your distress — you who are so deeply afflicted? If it is a matter I should hear, tell me, O joy of the Kurus."
 
-**2.45.7**  "This Shakuni describes you as pale, wan, and emaciated, brooding — yet I myself cannot perceive the source of your grief."
+**2.45.7**  "This Śakuni describes you as pale, wan, and emaciated, brooding — yet I myself cannot perceive the source of your grief."
 
 **2.45.8**  "For great sovereignty has been entrusted entirely to you, my son. Your brothers and friends do nothing displeasing to you."
 
@@ -3010,21 +3010,21 @@ translator: thothica
 
 **2.45.14**  "Contentment destroys prosperity, as does arrogance, O Bharata; and both compassion and fear — he who is bound by these does not attain greatness."
 
-**2.45.15**  "The food I eat gives me no comfort, having seen that blazing prosperity in Yudhishthira — in the son of Kunti — the very sight of which drains my color."
+**2.45.15**  "The food I eat gives me no comfort, having seen that blazing prosperity in Yudhiṣṭhira — in the son of Kuntī — the very sight of which drains my color."
 
-**2.45.16**  "Watching my rivals prosper and myself decline, and seeing — though it be invisible — prosperity standing poised in the son of Kunti as if raised aloft — therefore I am pale, dejected, wan, and thin."
+**2.45.16**  "Watching my rivals prosper and myself decline, and seeing — though it be invisible — prosperity standing poised in the son of Kuntī as if raised aloft — therefore I am pale, dejected, wan, and thin."
 
-**2.45.17**  "Eighty-eight thousand learned householders who have completed their student-vows — each one attended by thirty slave-girls — are maintained by Yudhishthira."
+**2.45.17**  "Eighty-eight thousand learned householders who have completed their student-vows — each one attended by thirty slave-girls — are maintained by Yudhiṣṭhira."
 
-**2.45.18**  "Another ten thousand daily eat the finest food from golden dishes in Yudhishthira's household."
+**2.45.18**  "Another ten thousand daily eat the finest food from golden dishes in Yudhiṣṭhira's household."
 
-**2.45.19**  "The Kambojas sent him priceless woolen blankets — those of banana-colored deer-brown, dark black, and red hues."
+**2.45.19**  "The Kāmbojas sent him priceless woolen blankets — those of banana-colored deer-brown, dark black, and red hues."
 
 **2.45.20**  "By the hundreds and thousands roam chariots, women, cattle, and horses; and thirty hundreds of camel-mares go about as well."
 
-**2.45.21**  "Kings brought diverse and abundant jewels of every kind to the son of Kunti at this foremost of sacrifices, O lord of the earth."
+**2.45.21**  "Kings brought diverse and abundant jewels of every kind to the son of Kuntī at this foremost of sacrifices, O lord of the earth."
 
-**2.45.22**  "Nowhere have I seen nor heard of such an influx of wealth as at the sacrifice of that wise son of Pandu."
+**2.45.22**  "Nowhere have I seen nor heard of such an influx of wealth as at the sacrifice of that wise son of Pāṇḍu."
 
 **2.45.23**  "Having seen that boundless flood of my enemy's wealth, O king, O lord, I find no peace, brooding on it ceaselessly."
 
@@ -3032,7 +3032,7 @@ translator: thothica
 
 **2.45.25**  "Taking up their water-pots made of pure gold, beautiful ones, and thus taking up their tribute, they then gained entry."
 
-**2.45.26**  "Even honey that the celestial women do not ordinarily preserve for Indra — the ocean of Varuna's jars brought that in bronze vessels for him."
+**2.45.26**  "Even honey that the celestial women do not ordinarily preserve for Indra — the ocean of Varuṇa's jars brought that in bronze vessels for him."
 
 **2.45.27**  "A golden net worth a thousand gold pieces, adorned with many jewels — upon seeing all of that, it all felt to me like the burning of a fever."
 
@@ -3046,23 +3046,23 @@ translator: thothica
 
 **2.45.32**  "The court was thronged with many kings wishing to see it, and those kings, having brought all their jewels, O lord of men —"
 
-**2.45.33**  "at the sacrifice of that wise son of Pandu, O great king, the rulers of the earth served the twice-born like merchants."
+**2.45.33**  "at the sacrifice of that wise son of Pāṇḍu, O great king, the rulers of the earth served the twice-born like merchants."
 
-**2.45.34**  "That prosperity is not found in the king of the gods, nor in Yama, nor in Varuna, nor even in the lord of the Guhyakas — that prosperity which, O king, is in Yudhishthira."
+**2.45.34**  "That prosperity is not found in the king of the gods, nor in Yama, nor in Varuṇa, nor even in the lord of the Guhyakas — that prosperity which, O king, is in Yudhiṣṭhira."
 
-**2.45.35**  "Having seen that supreme prosperity of the son of Pandu, I find no peace, my heart burning."
+**2.45.35**  "Having seen that supreme prosperity of the son of Pāṇḍu, I find no peace, my heart burning."
 
-**2.45.36**  Shakuni said: "This supreme fortune you have seen in the Pandava — hear from me the means to win it, O you of true valor."
+**2.45.36**  Śakuni said: "This supreme fortune you have seen in the Pāṇḍava — hear from me the means to win it, O you of true valor."
 
 **2.45.37**  "I am expert in dice, O Bharata — even famed across the earth — knowing the hearts of players, knowing the stakes, knowing the distinctions in gambling."
 
-**2.45.38**  "The son of Kunti loves dice yet does not know how to play. When summoned, he will clearly come. Invite him, saying: let us play."
+**2.45.38**  "The son of Kuntī loves dice yet does not know how to play. When summoned, he will clearly come. Invite him, saying: let us play."
 
-**2.45.39**  Vaishampayana said: Thus addressed by Shakuni, King Duryodhana then spoke these words unhesitatingly to Dhritarashtra.
+**2.45.39**  Vaiśaṃpāyana said: Thus addressed by Śakuni, King Duryodhana then spoke these words unhesitatingly to Dhṛtarāṣṭra.
 
-**2.45.40**  "This one, O king, is skilled at dice and is eager to win the wealth of the son of Pandu by gambling — you ought to give your permission for this."
+**2.45.40**  "This one, O king, is skilled at dice and is eager to win the wealth of the son of Pāṇḍu by gambling — you ought to give your permission for this."
 
-**2.45.41**  Dhritarashtra said: "Vidura is the counsellor of great wisdom, by whose guidance I abide. Having consulted with him, I shall determine what is to be done in this matter."
+**2.45.41**  Dhṛtarāṣṭra said: "Vidura is the counsellor of great wisdom, by whose guidance I abide. Having consulted with him, I shall determine what is to be done in this matter."
 
 **2.45.42**  "For he, placing dharma foremost, far-sighted as he is, will declare what is supremely beneficial and what is proper for both sides, and will settle the matter definitively."
 
@@ -3070,55 +3070,55 @@ translator: thothica
 
 **2.45.44**  "When I am dead, O king, be happy with Vidura — you will enjoy the whole earth; what use will you have of me?"
 
-**2.45.45**  Vaishampayana said: Hearing that anguished and affectionate speech of his, Dhritarashtra, yielding to Duryodhana's will, spoke to his servants.
+**2.45.45**  Vaiśaṃpāyana said: Hearing that anguished and affectionate speech of his, Dhṛtarāṣṭra, yielding to Duryodhana's will, spoke to his servants.
 
 **2.45.46**  "Let craftsmen quickly build for me a great and beautiful assembly hall with a thousand pillars and a hundred doors, pleasing to the mind and fair to behold."
 
 **2.45.47**  "Then, having spread it with jewels and provided dice in every place, and when it is well finished and easily accessible, report to me gently."
 
-**2.45.48**  Having thus resolved for the sake of pacifying Duryodhana, O great king, Dhritarashtra then sent a messenger to Vidura.
+**2.45.48**  Having thus resolved for the sake of pacifying Duryodhana, O great king, Dhṛtarāṣṭra then sent a messenger to Vidura.
 
 **2.45.49**  For without consulting Vidura he could reach no firm resolution on anything; yet knowing the vices of gambling, he was drawn along by his love for his son.
 
-**2.45.50**  Hearing this, the wise Vidura, seeing that the gateway of Kali had arrived and that destruction's mouth had opened, hastened to Dhritarashtra.
+**2.45.50**  Hearing this, the wise Vidura, seeing that the gateway of Kali had arrived and that destruction's mouth had opened, hastened to Dhṛtarāṣṭra.
 
 **2.45.51**  Approaching that great-souled elder brother, brother to brother, and bowing his head at his feet, he spoke these words.
 
 **2.45.52**  "I do not rejoice in this resolve of yours, O king, O lord. Act in such a way that there may be no quarrel among your sons on account of gambling."
 
-**2.45.53**  Dhritarashtra said: "Vidura, no quarrel will come among my sons through their sons; the gods in heaven will surely grant us their grace — there is no doubt."
+**2.45.53**  Dhṛtarāṣṭra said: "Vidura, no quarrel will come among my sons through their sons; the gods in heaven will surely grant us their grace — there is no doubt."
 
 **2.45.54**  "Whether auspicious or inauspicious, beneficial or harmful, let this friendly gambling proceed — this is fate, without a doubt."
 
-**2.45.55**  "With me present, and with Bhishma, that bull among Bharatas, any mischief decreed by fate will not come to pass in any manner."
+**2.45.55**  "With me present, and with Bhīṣma, that bull among Bharatas, any mischief decreed by fate will not come to pass in any manner."
 
-**2.45.56**  "Go, mounting a chariot with horses swift as the wind, and bring Yudhishthira from Khandavaprastha today itself."
+**2.45.56**  "Go, mounting a chariot with horses swift as the wind, and bring Yudhiṣṭhira from Khāṇḍavaprastha today itself."
 
 **2.45.57**  "My resolve cannot be checked — I tell you this, Vidura. I hold fate alone to be supreme, by which this comes to pass."
 
-**2.45.58**  Thus addressed, the wise Vidura, thinking "this must not be," went deeply grieved to the great-minded Bhishma, son of the river goddess.
+**2.45.58**  Thus addressed, the wise Vidura, thinking "this must not be," went deeply grieved to the great-minded Bhīṣma, son of the river goddess.
 
-**2.46.1**  Janamejaya said: "How did that gambling among the brothers come to be — that great calamity wherein my grandfathers the Pandavas met that disaster?"
+**2.46.1**  Janamejaya said: "How did that gambling among the brothers come to be — that great calamity wherein my grandfathers the Pāṇḍavas met that disaster?"
 
 **2.46.2**  "Who were the kings assembled there, O best of knowers of the Veda? Who approved of it and who tried to prevent it?"
 
 **2.46.3**  "I wish to hear this told in detail by you, O twice-born one, for this is the root of the destruction of the earth, O best of twice-born men."
 
-**2.46.4**  The Suta said: Thus addressed by the king, the illustrious disciple of Vyasa, the knower of all the Vedas, narrated everything as it had occurred.
+**2.46.4**  The Sūta said: Thus addressed by the king, the illustrious disciple of Vyāsa, the knower of all the Vedas, narrated everything as it had occurred.
 
-**2.46.5**  Vaishampayana said: "Hear from me this story in detail, O best of Bharatas — again, O great king, if your mind is inclined to hear it."
+**2.46.5**  Vaiśaṃpāyana said: "Hear from me this story in detail, O best of Bharatas — again, O great king, if your mind is inclined to hear it."
 
-**2.46.6**  Having learned Vidura's opinion, Dhritarashtra, son of Ambika, once again spoke these words to Duryodhana in private.
+**2.46.6**  Having learned Vidura's opinion, Dhṛtarāṣṭra, son of Ambikā, once again spoke these words to Duryodhana in private.
 
-**2.46.7**  "Enough of gambling, O son of Gandhari — Vidura does not approve. For that one of great wisdom will not speak what is harmful to us."
+**2.46.7**  "Enough of gambling, O son of Gāndhārī — Vidura does not approve. For that one of great wisdom will not speak what is harmful to us."
 
 **2.46.8**  "I hold whatever Vidura speaks to be supremely beneficial; let all of that be done, my son — I consider this to be your good."
 
-**2.46.9**  "The divine sage Brihaspati, of noble mind, the teacher of Vasava, taught the holy wisdom to the wise king of gods —"
+**2.46.9**  "The divine sage Bṛhaspati, of noble mind, the teacher of Vāsava, taught the holy wisdom to the wise king of gods —"
 
 **2.46.10**  "— all of that with its secrets does Vidura know, that great sage; and I too, my son, am ever abiding in his words."
 
-**2.46.11**  "Indeed, the intelligent Vidura is considered the foremost among the Kurus, as Uddhava of great wisdom is honoured among the Vrishnis, O prince."
+**2.46.11**  "Indeed, the intelligent Vidura is considered the foremost among the Kurus, as Uddhava of great wisdom is honoured among the Vṛṣṇis, O prince."
 
 **2.46.12**  "Therefore enough of gambling, my son — in gambling, division is clearly seen; in division, destruction of the kingdom follows. Avoid it, son."
 
@@ -3134,15 +3134,15 @@ translator: thothica
 
 **2.46.18**  Duryodhana said: "'I eat, I am clothed' — a man who, seeing these things, feels no indignation is considered a base person."
 
-**2.46.19**  "Shared prosperity does not delight me, O king of kings, O lord; and having seen the blazing glory of the son of Kunti, I am pierced with anguish."
+**2.46.19**  "Shared prosperity does not delight me, O king of kings, O lord; and having seen the blazing glory of the son of Kuntī, I am pierced with anguish."
 
-**2.46.20**  "That I remain steadfast after seeing all the earth subject to Yudhishthira's command — I tell you this out of grief: that is why I live."
+**2.46.20**  "That I remain steadfast after seeing all the earth subject to Yudhiṣṭhira's command — I tell you this out of grief: that is why I live."
 
-**2.46.21**  "The Chaitrakikas, the Kukuras, the Karaskaras, the Lohajanghas — they shine there as though enchanted and subdued, at Yudhishthira's dwelling."
+**2.46.21**  "The Chaitrakikas, the Kukuras, the Karaskaras, the Lohajanghas — they shine there as though enchanted and subdued, at Yudhiṣṭhira's dwelling."
 
-**2.46.22**  "Those who dwell along the Himalayas and the sea, all the treasuries of jewels, even the outcastes — all have been subdued and stand suppliant at Yudhishthira's dwelling."
+**2.46.22**  "Those who dwell along the Himālayas and the sea, all the treasuries of jewels, even the outcastes — all have been subdued and stand suppliant at Yudhiṣṭhira's dwelling."
 
-**2.46.23**  "Thinking me the eldest and the most worthy, O lord of the people, I was honored by Yudhishthira and appointed to receive the jewels."
+**2.46.23**  "Thinking me the eldest and the most worthy, O lord of the people, I was honored by Yudhiṣṭhira and appointed to receive the jewels."
 
 **2.46.24**  "Of the finest jewels being presented, those of the highest worth, no farther end could be seen — no other boundary either — O Bharata."
 
@@ -3150,13 +3150,13 @@ translator: thothica
 
 **2.46.26**  "I saw a lotus pool built by Maya with the jewels of lake Bindu, its floor of crystal, full as if it were water, O Bharata."
 
-**2.46.27**  "As my garments were lifted up, that wolf-bellied one — Bhima — laughed at me, confused and stripped of jewels by the exceptional prosperity of the enemy."
+**2.46.27**  "As my garments were lifted up, that wolf-bellied one — Bhīma — laughed at me, confused and stripped of jewels by the exceptional prosperity of the enemy."
 
 **2.46.28**  "Had I been able to do so there, I would have felled that wolf-belly — for the mockery of an enemy burns me, O Bharata."
 
 **2.46.29**  "And again, mistaking a similar pool adorned with water-born flowers for solid ground, I fell into the water, O lord of men."
 
-**2.46.30**  "There Krishna laughed at me with a ringing sound, together with Partha; and Draupadi too, along with her women, tormenting my heart."
+**2.46.30**  "There Kṛṣṇa laughed at me with a ringing sound, together with Pārtha; and Draupadī too, along with her women, tormenting my heart."
 
 **2.46.31**  "And while I stood wet in the water, the servants, directed by the king, gave me different garments — and that too was most painful to me."
 
@@ -3168,11 +3168,11 @@ translator: thothica
 
 **2.46.35**  "The names of the jewels that I saw there had never been heard by me before — and that too torments my mind."
 
-**2.47.1**  Duryodhana said: "Hear what I saw at the Pandavas' court, O Bharata — the finest wealth brought by kings from here and there."
+**2.47.1**  Duryodhana said: "Hear what I saw at the Pāṇḍavas' court, O Bharata — the finest wealth brought by kings from here and there."
 
 **2.47.2**  "I cannot find firmness in myself having seen that wealth of the enemy — understand this from its fruits and from the ground reality, O Bharata."
 
-**2.47.3**  "The Kamboja king gave wealth of the finest kind: garments of the Aila and Vaila and Varsha-damsha peoples adorned with gold, cloaks and skins of the highest quality."
+**2.47.3**  "The Kāmboja king gave wealth of the finest kind: garments of the Aila and Vaila and Varsha-damsha peoples adorned with gold, cloaks and skins of the highest quality."
 
 **2.47.4**  "Three hundred horses of the Tittiri and Kalmasha breeds with parrot-like noses, and three hundred she-camels fattened on pilu, shami, and ingudi trees."
 
@@ -3180,21 +3180,21 @@ translator: thothica
 
 **2.47.6**  "Having brought water-pots made of pure gold, auspicious ones, and having thus presented their tribute, they then gained entry."
 
-**2.47.7**  "One hundred thousand maidservants from the Karpasika lands — dark, slender, long-haired, adorned with golden ornaments — along with Shudras worthy of the finest brahmins, with wool-cloths and skins."
+**2.47.7**  "One hundred thousand maidservants from the Karpasika lands — dark, slender, long-haired, adorned with golden ornaments — along with Śūdras worthy of the finest brahmins, with wool-cloths and skins."
 
-**2.47.8**  "The inhabitants of Bharukaccha, bearing their full tribute, brought, O great king, horses bred in the Gandhara country."
+**2.47.8**  "The inhabitants of Bharukaccha, bearing their full tribute, brought, O great king, horses bred in the Gāndhāra country."
 
 **2.47.9**  "Those men who live by grain sown by Indra's grace, at the mouths of rivers and in the island-forests of the ocean, and along the Sindhu —"
 
-**2.47.10**  "— those Vairajas, the Paradasas and the Vangas, together with gamesters, bringing varied tribute and diverse jewels —"
+**2.47.10**  "— those Vairajas, the Paradasas and the Vaṅgas, together with gamesters, bringing varied tribute and diverse jewels —"
 
 **2.47.11**  "— goats and sheep, cattle and gold, donkeys and camels, fruit-produced honey, and various woolen blankets, stood waiting at the door, held back."
 
-**2.47.12**  "Bhagadatta, the heroic lord of Pragjyotisha, the powerful overlord of the Mlecchas, the great warrior-king, came together with the Yavanas —"
+**2.47.12**  "Bhagadatta, the heroic lord of Prāgjyotiṣa, the powerful overlord of the Mlecchas, the great warrior-king, came together with the Yavanas —"
 
 **2.47.13**  "— bringing swift thoroughbred horses with the speed of wind, and bearing his full tribute, stood at the door, waiting."
 
-**2.47.14**  "Bhagadatta of Pragjyotisha, having given that vessel made of the finest iron-ore, and swords with handles of pure ivory, then departed."
+**2.47.14**  "Bhagadatta of Prāgjyotiṣa, having given that vessel made of the finest iron-ore, and swords with handles of pure ivory, then departed."
 
 **2.47.15**  "Two-eyed and three-eyed men, those with an eye in the forehead, assembled from various directions, those wearing turbans and those dwelling without fixed abode, the Bahukas and the man-eaters —"
 
@@ -3204,7 +3204,7 @@ translator: thothica
 
 **2.47.18**  "— the one-footed beings took those many-colored forest horses of mind-like speed and gave him gold beyond all price."
 
-**2.47.19**  "The Chinas, the Hunas, the Shakas, the Odras, dwellers in mountain fastnesses, the Varshneyas, the Harahunas, the dark ones, and those of the Himavat region —"
+**2.47.19**  "The Chinas, the Hunas, the Śakas, the Oḍras, dwellers in mountain fastnesses, the Vārṣṇeyas, the Harahunas, the dark ones, and those of the Himavat region —"
 
 **2.47.20**  "— I cannot enumerate all those who came in their various forms, waiting at the door, giving him tribute of many kinds in countless numbers."
 
@@ -3218,7 +3218,7 @@ translator: thothica
 
 **2.47.25**  "— various juices and fragrances, and jewels by the thousands — bearing all this tribute in full, they stood waiting at the door."
 
-**2.47.26**  The Shakas, Tukharas, Kankas, Romashas, and Shringins — these peoples brought a counted ten-crore horses, both those that travel far and those fit for great journeys.
+**2.47.26**  The Śakas, Tukhāras, Kankas, Romashas, and Shringins — these peoples brought a counted ten-crore horses, both those that travel far and those fit for great journeys.
 
 **2.47.27**  Bringing by crores and in great quantities gold measuring a padma, and bearing diverse tribute, they stood at the gate, held back from entry.
 
@@ -3228,23 +3228,23 @@ translator: thothica
 
 **2.47.30**  Variegated horse-cloths, jewels by the thousands, iron-tipped arrows, half-iron arrows, and weapons of every kind —
 
-**2.47.31**  Having presented all this great wealth, the king who rules the eastern lands entered the sacrificial hall of the great-souled Pandava.
+**2.47.31**  Having presented all this great wealth, the king who rules the eastern lands entered the sacrificial hall of the great-souled Pāṇḍava.
 
 **2.48.1**  Duryodhana said: Hear me, O sinless one, as I describe the various gifts presented to him — the great accumulation of wealth given by kings for the purpose of the sacrifice.
 
 **2.48.2**  Those who dwell between Mount Meru and Mount Mandara along the river Shailoda, frequenting the pleasant shade of kichaka bamboos —
 
-**2.48.3**  The Khashas, the Ekashanas, the Ajyohas, the Pradaras, the Dirgha-Venavas, the Pashupas, the Kunindas, the Tanganas, and the Para-Tanganas —
+**2.48.3**  The Khashas, the Ekashanas, the Ajyohas, the Pradaras, the Dirgha-Venavas, the Pashupas, the Kuṇindas, the Taṅgaṇas, and the Para-Taṅgaṇas —
 
 **2.48.4**  Those kings brought in heaps the gold known as Pipilika — bestowed as a boon by ants — measured by the drona measure.
 
 **2.48.5**  Dark yaks with marks, and white ones gleaming like the moon, and also the sweet honey born from Himalayan flowers — all this in abundance.
 
-**2.48.6**  From the northern Kurus, garlands unwilted by water; and from Kailasa in the north, medicinal herbs of very great potency.
+**2.48.6**  From the northern Kurus, garlands unwilted by water; and from Kailāsa in the north, medicinal herbs of very great potency.
 
 **2.48.7**  Mountain peoples, having brought other tribute as well, stood bowing respectfully, waiting at the gate of the king who has no enemies — held back from entering.
 
-**2.48.8**  The kings on the far side of the Himalayas, near the mountain of sunrise; those who dwell by the ocean of Varisena and around the Lohitya river; those who subsist on fruits and roots; and the Kiratas who are clad in skins —
+**2.48.8**  The kings on the far side of the Himālayas, near the mountain of sunrise; those who dwell by the ocean of Varisena and around the Lohitya river; those who subsist on fruits and roots; and the Kirātas who are clad in skins —
 
 **2.48.9**  Loads of sandalwood and aguru timber and Kaliyaka wood; and heaps of hides, jewels, gold, and fragrant substances —
 
@@ -3252,67 +3252,67 @@ translator: thothica
 
 **2.48.11**  And gold piled up from the mountains, of great brilliance — having brought all this tribute they stood at the gate, held back from entering.
 
-**2.48.12**  The Kayavyas, Daradas, Darvas, the valiant Vaiyamakas, the Audumbaras, the Durvibhagas, the Paradas together with the Bahlikas —
+**2.48.12**  The Kayavyas, Daradas, Darvas, the valiant Vaiyamakas, the Audumbaras, the Durvibhagas, the Pāradas together with the Bāhlīkas —
 
-**2.48.13**  The Kashmiris, Kundamanas, Purakas, Hamsakayanas, Shibis, Trigartas, Yaudheyas, the Rajanyas, Madras, and Kekayas —
+**2.48.13**  The Kashmiris, Kundamanas, Purakas, Hamsakayanas, Śibis, Trigartas, Yaudheyas, the Rājanyas, Madras, and Kekayas —
 
-**2.48.14**  The Ambashthas, Kaukuras, Tarkshyas, Vastrapas together with the Pahlavas, the Vasatayas, Saumeyas, together with the Kshudrakas and Malavas —
+**2.48.14**  The Ambaṣṭhas, Kaukuras, Tarkshyas, Vastrapas together with the Pahlavas, the Vasatayas, Saumeyas, together with the Kshudrakas and Mālavas —
 
-**2.48.15**  The Shaundis, Kukkuras, and Shakas, O lord of the people; the Angas, Vangas, Pundras, the Shanavatyas, and the Gayas —
+**2.48.15**  The Shaundis, Kukkuras, and Śakas, O lord of the people; the Aṅgas, Vaṅgas, Puṇḍras, the Shanavatyas, and the Gayas —
 
-**2.48.16**  Well-born, organized in guilds, noble, weapons in hand — these Kshatriyas brought wealth by the hundreds for him who has no enemies.
+**2.48.16**  Well-born, organized in guilds, noble, weapons in hand — these Kṣatriyas brought wealth by the hundreds for him who has no enemies.
 
-**2.48.17**  The Vangas, the lords of Kalinga, the Tamraliptas together with the Pundrakas brought fine dukula cloth, silk, leaf-wool, and woolen garments as well.
+**2.48.17**  The Vaṅgas, the lords of Kaliṅga, the Tamraliptas together with the Pundrakas brought fine dukula cloth, silk, leaf-wool, and woolen garments as well.
 
 **2.48.18**  There they were told by the doorkeepers, by royal command: 'When your tasks are accomplished and your tributes settled, then you will gain entry through the gate.'
 
-**2.48.19**  Elephants with tusk-tips adorned in gold, draped in golden girths, lotus-colored, covered with housings, mountain-like in stature, perpetually in rut — surrounding the Kamyaka lake —
+**2.48.19**  Elephants with tusk-tips adorned in gold, draped in golden girths, lotus-colored, covered with housings, mountain-like in stature, perpetually in rut — surrounding the Kāmyaka lake —
 
 **2.48.20**  Each giving a thousand elephants clad in armor, patient and of noble lineage, they then entered through the gate.
 
 **2.48.21**  These and many other groups assembled here from all directions; and by other great-souled ones, too, jewels were brought here.
 
-**2.48.22**  The Gandharva king named Chitraratha, a follower of Vasava (Indra), gave four hundred horses swift as the wind.
+**2.48.22**  The Gandharva king named Chitraratha, a follower of Vāsava (Indra), gave four hundred horses swift as the wind.
 
 **2.48.23**  The Gandharva Tumburu, full of joy, gave a hundred horses wearing golden garlands, the color of mango leaves.
 
-**2.48.24**  King Kriti, O Kauravya, O lord of the people, gave very many hundreds of excellent elephants — the finest of their kind.
+**2.48.24**  King Kṛti, O Kauravya, O lord of the people, gave very many hundreds of excellent elephants — the finest of their kind.
 
-**2.48.25**  By Virata the Matsya king, for the purpose of tribute, two thousand intoxicated elephants wearing golden garlands were offered.
+**2.48.25**  By Virāṭa the Matsya king, for the purpose of tribute, two thousand intoxicated elephants wearing golden garlands were offered.
 
-**2.48.26**  Vasudana, king of the Pamshurashtras, gave twenty-six elephants and two thousand horses wearing golden garlands, O king.
+**2.48.26**  Vasudāna, king of the Pāṃsurāṣṭras, gave twenty-six elephants and two thousand horses wearing golden garlands, O king.
 
-**2.48.27**  Endowed with speed and strength, in prime of age, O lord of men — having taken all the tribute, he presented it to the Pandavas.
+**2.48.27**  Endowed with speed and strength, in prime of age, O lord of men — having taken all the tribute, he presented it to the Pāṇḍavas.
 
-**2.48.28**  By Yajnasena (Drupada), fourteen thousand female slaves and ten thousand male slaves with their wives, O lord of the people —
+**2.48.28**  By Yajñasena (Drupada), fourteen thousand female slaves and ten thousand male slaves with their wives, O lord of the people —
 
-**2.48.29**  Twenty-six chariots yoked with elephants, O great king, and his entire kingdom — all of this was offered to the sons of Pandu for the sacrifice.
+**2.48.29**  Twenty-six chariots yoked with elephants, O great king, and his entire kingdom — all of this was offered to the sons of Pāṇḍu for the sacrifice.
 
 **2.48.30**  Lapis lazuli that is the essence of the ocean, pearls, conches, and by the hundreds — elephant cloths — the Sinhalas (Ceylonese) duly brought there.
 
 **2.48.31**  Dark women clad in jeweled garments with copper-tinged eyes — having received them, men stood there at the gate, held back from entering.
 
-**2.48.32**  Out of affection, Brahmanas and Kshatriyas — even those who had been subdued — brought gifts; Vaishyas too, and Shudras eager to serve, approached Yudhishthira out of love and deep respect.
+**2.48.32**  Out of affection, Brāhmaṇas and Kṣatriyas — even those who had been subdued — brought gifts; Vaiśyas too, and Śūdras eager to serve, approached Yudhiṣṭhira out of love and deep respect.
 
-**2.48.33**  All the Mlecchas, all the varnas — those born at the beginning, middle, and end of the social order — along with people of various births coming from various lands, the whole world seemed gathered in Yudhishthira's residence.
+**2.48.33**  All the Mlecchas, all the varnas — those born at the beginning, middle, and end of the social order — along with people of various births coming from various lands, the whole world seemed gathered in Yudhiṣṭhira's residence.
 
 **2.48.34**  Seeing the many high and low tribute-bearers sent by kings — looking upon the grief of enemies — a wish to die arises in me today.
 
-**2.48.35**  Now I shall tell you of the servants of the Pandavas, O Bharata — those for whom Yudhishthira arranges both raw and cooked food.
+**2.48.35**  Now I shall tell you of the servants of the Pāṇḍavas, O Bharata — those for whom Yudhiṣṭhira arranges both raw and cooked food.
 
 **2.48.36**  Ten thousand elephant riders along with cavalry, a crore of chariots, and infantry in great numbers as well —
 
 **2.48.37**  Food being measured out and prepared, being cooked, and also being distributed elsewhere — and the sound of auspicious recitations throughout —
 
-**2.48.38**  I never saw any person of any varna in Yudhishthira's residence who had not eaten, who was not joyful, or who suffered from any scarcity.
+**2.48.38**  I never saw any person of any varna in Yudhiṣṭhira's residence who had not eaten, who was not joyful, or who suffered from any scarcity.
 
-**2.48.39**  Eighty-eight thousand householder graduates of sacred learning, each provided with thirty female servants — whom Yudhishthira maintains — greatly pleased and satisfied, they too pray for the destruction of his enemies.
+**2.48.39**  Eighty-eight thousand householder graduates of sacred learning, each provided with thirty female servants — whom Yudhiṣṭhira maintains — greatly pleased and satisfied, they too pray for the destruction of his enemies.
 
-**2.48.40**  Ten thousand more — ascetics who have elevated their vital energy — dine from golden vessels in Yudhishthira's residence.
+**2.48.40**  Ten thousand more — ascetics who have elevated their vital energy — dine from golden vessels in Yudhiṣṭhira's residence.
 
-**2.48.41**  All that was eaten or uneaten, done or undone — even the hunchbacked and the dwarfish — Yajnaseni (Draupadi), herself not yet eating, supervised all this, O lord of the people.
+**2.48.41**  All that was eaten or uneaten, done or undone — even the hunchbacked and the dwarfish — Yājñasenī (Draupadī), herself not yet eating, supervised all this, O lord of the people.
 
-**2.48.42**  Two groups did not pay tribute to the son of Kunti, O Bharata: the Panchalas by virtue of the marriage alliance, and the Andhaka-Vrishnis by reason of friendship.
+**2.48.42**  Two groups did not pay tribute to the son of Kuntī, O Bharata: the Pāñcālas by virtue of the marriage alliance, and the Andhaka-Vṛṣṇis by reason of friendship.
 
 **2.49.1**  Duryodhana said: Those noble kings who are true to their word, who observe great vows, who are fully learned, eloquent speakers, and who have bathed in the concluding rites of Vedantic study —
 
@@ -3322,51 +3322,51 @@ translator: thothica
 
 **2.49.4**  Having honored them, the kings themselves, with untroubled minds, brought there — O Bharata — utensils of high and low quality for the consecration.
 
-**2.49.5**  Bahlika brought a chariot adorned with Jambunada gold; Sudakshina yoked it with white Kambojan horses.
+**2.49.5**  Bahlika brought a chariot adorned with Jāmbūnada gold; Sudakṣiṇa yoked it with white Kambojan horses.
 
-**2.49.6**  Sunitha, of great fame, brought for it an incomparable secondary car; the lord of the Chedis quickly himself raised the banner with his own hands.
+**2.49.6**  Sunitha, of great fame, brought for it an incomparable secondary car; the lord of the Cedis quickly himself raised the banner with his own hands.
 
-**2.49.7**  The southern king provided the harness; the Magadha king provided garlands and a turban; Vasudana, the mighty archer, provided the lord of elephants sixty years of age.
+**2.49.7**  The southern king provided the harness; the Magadha king provided garlands and a turban; Vasudāna, the mighty archer, provided the lord of elephants sixty years of age.
 
 **2.49.8**  The Matsya king fastened the axle-pins; Ekalavya provided the sandals; the Avanti king provided water of many kinds for the consecration.
 
-**2.49.9**  Chekitana brought the quiver; the Kashi king brought the bow; Shalya brought a sword with a golden hilt and a gold-adorned sheath.
+**2.49.9**  Cekitāna brought the quiver; the Kāśi king brought the bow; Śalya brought a sword with a golden hilt and a gold-adorned sheath.
 
-**2.49.10**  Then Dhaumya and Vyasa of very great austerity performed the consecration, placing Narada in front, along with the sage Devala and Asita.
+**2.49.10**  Then Dhaumya and Vyāsa of very great austerity performed the consecration, placing Nārada in front, along with the sage Devala and Asita.
 
 **2.49.11**  Joyfully, the great sages attended the consecration ceremony — along with Jamadagnya (Parashurama) and other masters of the Vedas.
 
 **2.49.12**  They approached the great-souled one, who bestowed lavish sacrificial fees, as the seven seers in heaven approach Mahendra, the king of gods.
 
-**2.49.13**  Satyaki of true valor held the ceremonial umbrella over him; Dhananjaya (Arjuna) held the fan; and the Pandava Bhimasena stood by.
+**2.49.13**  Sātyaki of true valor held the ceremonial umbrella over him; Dhanañjaya (Arjuna) held the fan; and the Pāṇḍava Bhīmasena stood by.
 
-**2.49.14**  The conch which Prajapati in ancient times held back for Indra — that Varuna conch the ocean itself, as a jar of water, brought and presented to him.
+**2.49.14**  The conch which Prajāpati in ancient times held back for Indra — that Varuṇa conch the ocean itself, as a jar of water, brought and presented to him.
 
-**2.49.15**  Sprinkled with a thousand nishkas of gold, well-crafted by Vishvakarman — when he was consecrated with it by Krishna, I fell into a swoon there.
+**2.49.15**  Sprinkled with a thousand nishkas of gold, well-crafted by Viśvakarman — when he was consecrated with it by Kṛṣṇa, I fell into a swoon there.
 
 **2.49.16**  They go from the eastern to the western ocean and even to the southern; but to the northern they do not go without birds, dear father.
 
 **2.49.17**  There they blew conches by the hundreds for auspicious reasons; when those life-giving ones were fully sounded, my hair stood on end.
 
-**2.49.18**  Even kings bowed and fell, diminished of their own splendor; Dhrishtadyumna, the Pandavas, Satyaki, and Krishna as the eighth stood firm.
+**2.49.18**  Even kings bowed and fell, diminished of their own splendor; Dhṛṣṭadyumna, the Pāṇḍavas, Sātyaki, and Kṛṣṇa as the eighth stood firm.
 
 **2.49.19**  Steadfast in spirit, endowed with heroism, taking delight in one another — seeing the unconscious kings and seeing me, they laughed.
 
-**2.49.20**  Then the joyful Bibhatsu (Arjuna) gave five hundred bulls with gold-tipped horns to the foremost Brahmanas, O Bharata.
+**2.49.20**  Then the joyful Bībhatsu (Arjuna) gave five hundred bulls with gold-tipped horns to the foremost Brāhmaṇas, O Bharata.
 
-**2.49.21**  Not even Shambara's slayer (Indra) had such splendor, nor Yauvanashva (Mandhata), nor Manu, nor king Prithu son of Vena, nor even Bhagiratha.
+**2.49.21**  Not even Śambara's slayer (Indra) had such splendor, nor Yauvanashva (Māndhātā), nor Manu, nor king Pṛthu son of Vena, nor even Bhagīratha.
 
-**2.49.22**  Just so the son of Kunti, endowed with supreme prosperity beyond measure, having accomplished the Rajasuya — he shone like the lord Harishchandra.
+**2.49.22**  Just so the son of Kuntī, endowed with supreme prosperity beyond measure, having accomplished the Rājasūya — he shone like the lord Hariścandra.
 
-**2.49.23**  Having seen this glory in the son of Pritha, equal to that of Harishchandra, O mighty one — how do you consider life to be better for me? Tell me, O Bharata.
+**2.49.23**  Having seen this glory in the son of Pṛthā, equal to that of Hariścandra, O mighty one — how do you consider life to be better for me? Tell me, O Bharata.
 
 **2.49.24**  Like a yoke bound to a blind ox — things are inverted, O lord of men: the younger thrive while the elder decline, O Bharata.
 
 **2.49.25**  Having seen thus, I find no peace — though I search for it, O hero of the Kurus. Therefore I have come to such an emaciated state, and to pallor, and to sorrow.
 
-**2.50.1**  Dhritarashtra said: You are the eldest, O son, the first-born of the eldest line — do not hate the Pandavas. A hater brings upon himself misery, just as death brings destruction.
+**2.50.1**  Dhṛtarāṣṭra said: You are the eldest, O son, the first-born of the eldest line — do not hate the Pāṇḍavas. A hater brings upon himself misery, just as death brings destruction.
 
-**2.50.2**  Yudhishthira, who is not envious, who shares the same interests, who has the same friends — one who does not hate you, how could a person like you hate him, O bull of the Bharatas?
+**2.50.2**  Yudhiṣṭhira, who is not envious, who shares the same interests, who has the same friends — one who does not hate you, how could a person like you hate him, O bull of the Bharatas?
 
 **2.50.3**  Equal in lineage and valor — how, O king, O son, do you out of delusion covet your brother's prosperity? Be not thus; be calm here — that is the righteous course.
 
@@ -3384,15 +3384,15 @@ translator: thothica
 
 **2.50.10**  Duryodhana said: Though you know, you confuse me like a boat tethered to a ship. Why are you inattentive to your own interest — or do you perhaps hate me?
 
-**2.50.11**  These sons of Dhritarashtra are not yours to instruct — you always speak of what will happen and what serves your own purpose.
+**2.50.11**  These sons of Dhṛtarāṣṭra are not yours to instruct — you always speak of what will happen and what serves your own purpose.
 
 **2.50.12**  One who is led by another and who strays from the path while being called a leader — how could those following in his footsteps keep to the right road?
 
 **2.50.13**  O king, though you are wise, a servant of elders, and master of your senses, you greatly confuse us who are engaged in our own affairs.
 
-**2.50.14**  Brihaspati has said that the conduct of a king differs from the conduct of common people; therefore a king must always strive to think of his own interest.
+**2.50.14**  Bṛhaspati has said that the conduct of a king differs from the conduct of common people; therefore a king must always strive to think of his own interest.
 
-**2.50.15**  O great king, the livelihood of a Kshatriya is concentrated in victory — whether it be dharma or adharma, such is his proper conduct, O bull of the Bharatas.
+**2.50.15**  O great king, the livelihood of a Kṣatriya is concentrated in victory — whether it be dharma or adharma, such is his proper conduct, O bull of the Bharatas.
 
 **2.50.16**  Desiring the blazing wealth of his enemies, a king should illuminate all directions like a charioteer with a whip, O bull of the Bharatas.
 
@@ -3402,7 +3402,7 @@ translator: thothica
 
 **2.50.19**  One should not feel attachment to sovereignty or wealth; others take away what was formerly acquired — this, they say, is the law of kings.
 
-**2.50.20**  Indra made a pact of non-hostility and then severed the head of Namuchi — that, it is held, is his eternal policy toward enemies.
+**2.50.20**  Indra made a pact of non-hostility and then severed the head of Namuci — that, it is held, is his eternal policy toward enemies.
 
 **2.50.21**  The earth swallows these two as a serpent swallows creatures in its burrow: the king who does not fight back, and the Brahmin who does not travel abroad.
 
@@ -3416,21 +3416,21 @@ translator: thothica
 
 **2.50.26**  He who desires increase of wealth as one desires growth from birth — he flourishes among his kinsmen; for valor is indeed swift increase.
 
-**2.50.27**  Without obtaining the sovereignty of the Pandavas I shall have no peace of mind; I shall either win that prosperity or lie slain in battle.
+**2.50.27**  Without obtaining the sovereignty of the Pāṇḍavas I shall have no peace of mind; I shall either win that prosperity or lie slain in battle.
 
-**2.50.28**  Of what use to me today is a life such as this, O lord of the people? The Pandavas grow constantly while our growth remains stagnant.
+**2.50.28**  Of what use to me today is a life such as this, O lord of the people? The Pāṇḍavas grow constantly while our growth remains stagnant.
 
-**2.51.1**  Shakuni said: That very prosperity which you see in Yudhishthira, son of Pandu, and which burns you — I shall win it by gambling; let the other side be summoned.
+**2.51.1**  Śakuni said: That very prosperity which you see in Yudhiṣṭhira, son of Pāṇḍu, and which burns you — I shall win it by gambling; let the other side be summoned.
 
 **2.51.2**  Without going into danger and without fighting at the head of armies, I, expert in dice, shall conquer those ignorant of the game by casting the dice unharmed.
 
 **2.51.3**  Know my stakes as bows, O Bharata, and know the dice as my arrows; the mastery of dice is my bowstring and gambling is my chariot-armor.
 
-**2.51.4**  Duryodhana said: This expert in dice is confident of winning the wealth from the sons of Pandu by gambling, O king — let this be pleasing to you, father.
+**2.51.4**  Duryodhana said: This expert in dice is confident of winning the wealth from the sons of Pāṇḍu by gambling, O king — let this be pleasing to you, father.
 
-**2.51.5**  Dhritarashtra said: I abide by the counsel of my brother, the great-souled Vidura; conferring with him, I shall determine the right course of this matter.
+**2.51.5**  Dhṛtarāṣṭra said: I abide by the counsel of my brother, the great-souled Vidura; conferring with him, I shall determine the right course of this matter.
 
-**2.51.6**  Duryodhana said: Vidura, free from doubt and devoted to the welfare of the Pandavas, will frustrate your intention — he is not so devoted to my welfare, O Kaurava.
+**2.51.6**  Duryodhana said: Vidura, free from doubt and devoted to the welfare of the Pāṇḍavas, will frustrate your intention — he is not so devoted to my welfare, O Kaurava.
 
 **2.51.7**  A man should not undertake his affairs depending on another's ability — the minds of two do not accord in matters of action, O joy of the Kurus.
 
@@ -3438,19 +3438,19 @@ translator: thothica
 
 **2.51.9**  Neither diseases nor Yama waits for one to attain what is good; for as long as one is capable, one should pursue the good.
 
-**2.51.10**  Dhritarashtra said: In every way, my son, I do not approve of conflict with the mighty; enmity creates disorder — it is indeed an effortless weapon.
+**2.51.10**  Dhṛtarāṣṭra said: In every way, my son, I do not approve of conflict with the mighty; enmity creates disorder — it is indeed an effortless weapon.
 
 **2.51.11**  You regard what is harmful as beneficial, O prince — the binding of strife is exceedingly terrible; once set in motion by any means, it releases swords and arrows too.
 
-**2.51.12**  Duryodhana said: The ancients established gambling as a recognized practice — in it there is no excess and no clash of arms; let Shakuni's proposal be pleasing today — quickly command that a hall be built here.
+**2.51.12**  Duryodhana said: The ancients established gambling as a recognized practice — in it there is no excess and no clash of arms; let Śakuni's proposal be pleasing today — quickly command that a hall be built here.
 
-**2.51.13**  Gambling is for us an excellent gate to heaven, and it is likewise fitting for those who abide by it — thus make it equal on both sides; arrange a gambling match between us and the Pandavas.
+**2.51.13**  Gambling is for us an excellent gate to heaven, and it is likewise fitting for those who abide by it — thus make it equal on both sides; arrange a gambling match between us and the Pāṇḍavas.
 
-**2.51.14**  Dhritarashtra said: What you have said does not please me; yet let what is dear to you be done, O lord of men — having undertaken this course you will repent afterward, for such a word is not righteous.
+**2.51.14**  Dhṛtarāṣṭra said: What you have said does not please me; yet let what is dear to you be done, O lord of men — having undertaken this course you will repent afterward, for such a word is not righteous.
 
-**2.51.15**  Vidura has already seen all this clearly with his wisdom and learning — yet this great fear, which destroys the seed of the Kshatriyas, is coming upon us helplessly.
+**2.51.15**  Vidura has already seen all this clearly with his wisdom and learning — yet this great fear, which destroys the seed of the Kṣatriyas, is coming upon us helplessly.
 
-**2.51.16**  Vaishampayana said: Having spoken thus, the wise Dhritarashtra, considering fate supreme and hard to overcome, loudly commanded his men in accordance with his son's words — the king stood firm, his mind bewildered by fate.
+**2.51.16**  Vaiśaṃpāyana said: Having spoken thus, the wise Dhṛtarāṣṭra, considering fate supreme and hard to overcome, loudly commanded his men in accordance with his son's words — the king stood firm, his mind bewildered by fate.
 
 **2.51.17**  Let the workers quickly build for me a magnificent hall with a thousand pillars, decorated with gold and vaidurya gems, with a hundred doors, with spires of crystal over the arched gateways, a league in length and breadth accordingly.
 
@@ -3458,83 +3458,83 @@ translator: thothica
 
 **2.51.19**  Then in a short time those workers reported joyfully to the king that the charming hall, filled with many gems, adorned with various designs, and furnished with golden seats of varied craftsmanship, had been completed.
 
-**2.51.20**  Then the wise king Dhritarashtra spoke these words to Vidura, the foremost of ministers: Go to prince Yudhishthira and quickly bring him here in my name.
+**2.51.20**  Then the wise king Dhṛtarāṣṭra spoke these words to Vidura, the foremost of ministers: Go to prince Yudhiṣṭhira and quickly bring him here in my name.
 
 **2.51.21**  Let this hall of mine, rich in gems and of varied design, furnished with most excellent couches and seats, be seen by him coming together with his brothers — and let a friendly gambling match take place here.
 
-**2.51.22**  King Dhritarashtra, lord of men, knowing his son's intention and considering fate hard to overcome, did as commanded.
+**2.51.22**  King Dhṛtarāṣṭra, lord of men, knowing his son's intention and considering fate hard to overcome, did as commanded.
 
 **2.51.23**  But Vidura, best of the wise, thus spoken to in an improper manner, did not welcome his brother's words, and spoke these words:
 
 **2.51.24**  I do not welcome this errand, O king — do not do this; I fear the destruction of our clan. When sons are divided, strife for you would certainly follow — this is my apprehension arising from this gambling, O lord of men.
 
-**2.51.25**  Dhritarashtra said: No strife here shall distress me, O Kshatta, if fate does not run contrary — for it is said that this entire world moves under the control of fate, in the power of what is destined, and is not independent.
+**2.51.25**  Dhṛtarāṣṭra said: No strife here shall distress me, O Kṣattā, if fate does not run contrary — for it is said that this entire world moves under the control of fate, in the power of what is destined, and is not independent.
 
-**2.51.26**  Therefore, Vidura, go today and by my command quickly bring back the invincible Yudhishthira, son of Kunti, the king.
+**2.51.26**  Therefore, Vidura, go today and by my command quickly bring back the invincible Yudhiṣṭhira, son of Kuntī, the king.
 
-**2.52.1**  Vaishampayana said: Then Vidura, compelled by force by King Dhritarashtra, set out with noble horses — swift, strong, and well-trained — toward the abode of the wise Pandavas.
+**2.52.1**  Vaiśaṃpāyana said: Then Vidura, compelled by force by King Dhṛtarāṣṭra, set out with noble horses — swift, strong, and well-trained — toward the abode of the wise Pāṇḍavas.
 
 **2.52.2**  Having swiftly traversed that road and reached the city of the king, the great-minded Vidura entered, honored by the twice-born.
 
-**2.52.3**  Reaching the royal palace, which resembled the mansion of Kubera, that righteous-souled one approached Yudhishthira, son of Dharma.
+**2.52.3**  Reaching the royal palace, which resembled the mansion of Kubera, that righteous-souled one approached Yudhiṣṭhira, son of Dharma.
 
-**2.52.4**  The king of firm truth, the great-souled Ajatashatru, received Vidura with due honor as was proper, and then inquired after Dhritarashtra and his sons.
+**2.52.4**  The king of firm truth, the great-souled Ajātaśatru, received Vidura with due honor as was proper, and then inquired after Dhṛtarāṣṭra and his sons.
 
-**2.52.5**  Yudhishthira said: It is evident that your mind is not joyful — have you come in good health, O Kshatta? Are the sons of the aged king compliant and obedient to him? And are the subjects also submissive?
+**2.52.5**  Yudhiṣṭhira said: It is evident that your mind is not joyful — have you come in good health, O Kṣattā? Are the sons of the aged king compliant and obedient to him? And are the subjects also submissive?
 
 **2.52.6**  Vidura said: The great-souled king is well and is with his sons; he dwells surrounded by kinsmen like Indra, O king — pleased with his dutiful sons, free from sorrow, self-content, and firm of spirit.
 
 **2.52.7**  But the king of the Kurus, after first asking after your well-being and imperishable health, has said this to you: This hall, which rivals your own assembly hall in splendor — come and see it with your brothers, my son.
 
-**2.52.8**  Coming together with your brothers, O Partha, let a friendly gambling match take place in it for enjoyment — we rejoice in your company, and all the Kauravas too have assembled.
+**2.52.8**  Coming together with your brothers, O Pārtha, let a friendly gambling match take place in it for enjoyment — we rejoice in your company, and all the Kauravas too have assembled.
 
-**2.52.9**  The gamblers who have been arranged there by the great-souled King Dhritarashtra — you shall see them seated; thus have I come, O king — be pleased with this.
+**2.52.9**  The gamblers who have been arranged there by the great-souled King Dhṛtarāṣṭra — you shall see them seated; thus have I come, O king — be pleased with this.
 
-**2.52.10**  Yudhishthira said: In gambling, O Kshatta, there is strife for us — what thoughtful man would relish gambling? What do you yourself consider appropriate? We all abide by your word.
+**2.52.10**  Yudhiṣṭhira said: In gambling, O Kṣattā, there is strife for us — what thoughtful man would relish gambling? What do you yourself consider appropriate? We all abide by your word.
 
 **2.52.11**  Vidura said: I know that gambling is the root of disaster, and I made every effort to prevent it; yet the king has sent me to your presence — having heard this, O learned one, do here what is for the good.
 
-**2.52.12**  Yudhishthira said: Who are the other gamblers there who will be playing, besides the sons of King Dhritarashtra? I ask you, Vidura — tell us about them, the ones with whom we would gamble, assembled in their hundreds.
+**2.52.12**  Yudhiṣṭhira said: Who are the other gamblers there who will be playing, besides the sons of King Dhṛtarāṣṭra? I ask you, Vidura — tell us about them, the ones with whom we would gamble, assembled in their hundreds.
 
-**2.52.13**  Vidura said: Shakuni, king of Gandhara, O lord of the people — an expert gambler, skilled of hand and knowing the dice; Vivimshati, king Chitrasena, Satyavrata, Purumitra, and Jaya.
+**2.52.13**  Vidura said: Śakuni, king of Gāndhāra, O lord of the people — an expert gambler, skilled of hand and knowing the dice; Viviṃśati, king Citrasena, Satyavrata, Purumitra, and Jaya.
 
-**2.52.14**  Yudhishthira said: Terrible and fearsome gamblers are assembled there — cheaters who play with deceit are present; yet it is said that this world is under the control of fate and what is destined — I shall not refuse to gamble with those gamesters today.
+**2.52.14**  Yudhiṣṭhira said: Terrible and fearsome gamblers are assembled there — cheaters who play with deceit are present; yet it is said that this world is under the control of fate and what is destined — I shall not refuse to gamble with those gamesters today.
 
-**2.52.15**  I do not wish to go for the gambling at King Dhritarashtra's command, O wise one — yet the father is always dear to the son; so I shall do as you have told me, O Vidura.
+**2.52.15**  I do not wish to go for the gambling at King Dhṛtarāṣṭra's command, O wise one — yet the father is always dear to the son; so I shall do as you have told me, O Vidura.
 
-**2.52.16**  I do not willingly wish to gamble with Shakuni; but if the bold one challenges me in the assembly hall, when challenged I never turn back — that is the eternal vow I have taken.
+**2.52.16**  I do not willingly wish to gamble with Śakuni; but if the bold one challenges me in the assembly hall, when challenged I never turn back — that is the eternal vow I have taken.
 
-**2.52.17**  Vaishampayana said: Having spoken thus to Vidura, the king of dharma quickly gave all orders for the journey, and set out the next day with his retinue and attendants, together with the women headed by Draupadi.
+**2.52.17**  Vaiśaṃpāyana said: Having spoken thus to Vidura, the king of dharma quickly gave all orders for the journey, and set out the next day with his retinue and attendants, together with the women headed by Draupadī.
 
 **2.52.18**  Fate steals away wisdom and splendor like a sudden blow to the eye; and a man goes under the control of the creator, bound as if by cords.
 
-**2.52.19**  Having spoken thus, king Yudhishthira, son of Pritha, the subduer of foes, departed together with Kshatta, unable to disregard that summons.
+**2.52.19**  Having spoken thus, king Yudhiṣṭhira, son of Pṛthā, the subduer of foes, departed together with Kṣattā, unable to disregard that summons.
 
-**2.52.20**  The son of Pritha, the Pandava, slayer of enemy heroes, mounted the chariot given by Bahlika and journeyed in disguise together with his brothers.
+**2.52.20**  The son of Pṛthā, the Pāṇḍava, slayer of enemy heroes, mounted the chariot given by Bahlika and journeyed in disguise together with his brothers.
 
-**2.52.21**  Blazing with royal splendor, he went forth preceded by Brahmins, summoned by Dhritarashtra and by the appointed hour of fate.
+**2.52.21**  Blazing with royal splendor, he went forth preceded by Brahmins, summoned by Dhṛtarāṣṭra and by the appointed hour of fate.
 
-**2.52.22**  Going to Hastinapura, the righteous-souled Pandava proceeded to Dhritarashtra's palace and met with Dhritarashtra.
+**2.52.22**  Going to Hāstinapura, the righteous-souled Pāṇḍava proceeded to Dhṛtarāṣṭra's palace and met with Dhṛtarāṣṭra.
 
-**2.52.23**  The mighty one also met in due order with Drona, Bhishma, Karna, Kripa, and the son of Drona.
+**2.52.23**  The mighty one also met in due order with Droṇa, Bhīṣma, Karṇa, Kṛpa, and the son of Droṇa.
 
-**2.52.24**  The mighty-armed and valiant one also met with Somadatta, Duryodhana, Shalya, and the son of Subala.
+**2.52.24**  The mighty-armed and valiant one also met with Somadatta, Duryodhana, Śalya, and the son of Subala.
 
 **2.52.25**  And with the other kings who had gathered there before, as well as with Jayadratha, and with all the Kauravas in full.
 
-**2.52.26**  Then the mighty-armed one, surrounded by all his brothers, entered the palace of the wise King Dhritarashtra.
+**2.52.26**  Then the mighty-armed one, surrounded by all his brothers, entered the palace of the wise King Dhṛtarāṣṭra.
 
-**2.52.27**  There he saw the queen Gandhari, devoted to her husband, surrounded by her daughters-in-law, ever like Rohini surrounded by stars.
+**2.52.27**  There he saw the queen Gāndhārī, devoted to her husband, surrounded by her daughters-in-law, ever like Rohiṇī surrounded by stars.
 
-**2.52.28**  Paying homage to Gandhari and welcomed by her in return, he then saw the aged father, the lord whose eyes were wisdom itself.
+**2.52.28**  Paying homage to Gāndhārī and welcomed by her in return, he then saw the aged father, the lord whose eyes were wisdom itself.
 
-**2.52.29**  By the king were sniffed on their heads — those four Pandavas, O king, the joys of the Kauravas, led by Bhimasena.
+**2.52.29**  By the king were sniffed on their heads — those four Pāṇḍavas, O king, the joys of the Kauravas, led by Bhīmasena.
 
-**2.52.30**  Then great joy arose among the Kauravas, O lord of the people, upon seeing those tiger-men among men, the Pandavas, beautiful to behold.
+**2.52.30**  Then great joy arose among the Kauravas, O lord of the people, upon seeing those tiger-men among men, the Pāṇḍavas, beautiful to behold.
 
-**2.52.31**  Having received permission, they entered their gem-filled quarters; and the women headed by Draupadi came and saw them as they arrived.
+**2.52.31**  Having received permission, they entered their gem-filled quarters; and the women headed by Draupadī came and saw them as they arrived.
 
-**2.52.32**  Seeing the supreme prosperity of Yajnaseni, blazing as it were, those daughters-in-law of Dhritarashtra were not particularly pleased in their hearts.
+**2.52.32**  Seeing the supreme prosperity of Yājñasenī, blazing as it were, those daughters-in-law of Dhṛtarāṣṭra were not particularly pleased in their hearts.
 
 **2.52.33**  Then those tiger-men among men, having gone and conversed with the women, performed their exercises and other duties as was their custom.
 
@@ -3698,29 +3698,29 @@ translator: thothica
 
 **2.56.5**  Duryodhana gambles against the Pāṇḍava; you are pleased when he wins — yet from excessive jest arises violent conflict, from which destruction comes upon men.
 
-**2.56.6**  Your dice-throw is ill-led and yields downward fruit; the counsel deep-seated in your heart is firm resolve. May the agreement with Yudhishtira prove fruitful; well-spoken is the conciliation of the enemy-tamer, the skilled archer Sudhanvan.
+**2.56.6**  Your dice-throw is ill-led and yields downward fruit; the counsel deep-seated in your heart is firm resolve. May the agreement with Yudhiṣṭhira prove fruitful; well-spoken is the conciliation of the enemy-tamer, the skilled archer Sudhanvan.
 
-**2.56.7**  O king, you descendants of Pratipa and of Shantanu, hear this counsel-laden speech — do not let it pass you by. The blazing, terrible fire of Vaishvanara has flared up; quench this rising flame without resort to battle.
+**2.56.7**  O king, you descendants of Pratīpa and of Shantanu, hear this counsel-laden speech — do not let it pass you by. The blazing, terrible fire of Vaiśvānara has flared up; quench this rising flame without resort to battle.
 
-**2.56.8**  When Yudhishtira, Ajatashatru among the Pandavas, overwhelmed by intolerable provocation, can no longer restrain his wrath — and when Vrikodara, Savyasachi, and the twin sons of Madri are unleashed — what refuge will there then be for you in that tumult?
+**2.56.8**  When Yudhiṣṭhira, Ajātaśatru among the Pāṇḍavas, overwhelmed by intolerable provocation, can no longer restrain his wrath — and when Vṛkodara, Savyasācī, and the twin sons of Mādrī are unleashed — what refuge will there then be for you in that tumult?
 
-**2.56.9**  O great king, you are master of all wealth; before this gambling began you could take in your mind as much as you desired. Even if you were to win great riches by defeating the Pandavas in dice, what good would that wealth be? Find your treasure in the sons of Pritha instead.
+**2.56.9**  O great king, you are master of all wealth; before this gambling began you could take in your mind as much as you desired. Even if you were to win great riches by defeating the Pāṇḍavas in dice, what good would that wealth be? Find your treasure in the sons of Pṛthā instead.
 
-**2.56.10**  We know well the gambling of Subala's son; the mountain-born one understands the deceit of the dice. Let Shakuni return to the land from which he came — that fighter with illusion, that hill-man, O Bharata.
+**2.56.10**  We know well the gambling of Subala's son; the mountain-born one understands the deceit of the dice. Let Śakuni return to the land from which he came — that fighter with illusion, that hill-man, O Bharata.
 
-**2.57.1**  Duryodhana said: You boast only of the glory of others; ever concealed, you revile the sons of Dhritarashtra. We know you, Vidura, and to whom your heart belongs — you despise us as if we were children.
+**2.57.1**  Duryodhana said: You boast only of the glory of others; ever concealed, you revile the sons of Dhṛtarāṣṭra. We know you, Vidura, and to whom your heart belongs — you despise us as if we were children.
 
 **2.57.2**  A man whose affections lie elsewhere is easily known, for he directs his censure and his praise accordingly. Your tongue, Vidura, betrays your heart and lays it bare; it declares plainly the mind's own opposition.
 
-**2.57.3**  You have been raised in our lap like a serpent; like a cat you harm the very one who nourishes you. They say there is no greater sin than the betrayal of one's master — so why, O Kshatta, do you not fear that sin?
+**2.57.3**  You have been raised in our lap like a serpent; like a cat you harm the very one who nourishes you. They say there is no greater sin than the betrayal of one's master — so why, O Kṣattā, do you not fear that sin?
 
-**2.57.4**  We have conquered our enemies and obtained a great prize — do not, O Kshatta, speak harsh words to us here. You rejoice in association with our foes and through bewilderment you turn again and again toward enmity with us.
+**2.57.4**  We have conquered our enemies and obtained a great prize — do not, O Kṣattā, speak harsh words to us here. You rejoice in association with our foes and through bewilderment you turn again and again toward enmity with us.
 
 **2.57.5**  A man who speaks what is intolerable creates enmity for himself; he hides his secrets while praising enemies. Does not the shame of the refuge you have taken weigh upon you? Today you speak here whatever you desire.
 
 **2.57.6**  Do not insult us — we know the mind that is in you. Go and learn wisdom from the assembly of elders. Guard the reputation of this house, O Vidura, as it has been upheld — do not busy yourself in the affairs of others.
 
-**2.57.7**  Do not insult us with "I am the one who acts", O Vidura; do not speak harsh words to us constantly here. I do not ask you, Vidura, for what is beneficial to me. Farewell, O Kshatta — do not go on tormenting those who endure in patience.
+**2.57.7**  Do not insult us with "I am the one who acts", O Vidura; do not speak harsh words to us constantly here. I do not ask you, Vidura, for what is beneficial to me. Farewell, O Kṣattā — do not go on tormenting those who endure in patience.
 
 **2.57.8**  There is one ordainer; there is no second ordainer. That ordainer directs a man even as he lies in the womb. Instructed by that one, I flow as water follows a downward slope — I carry forward exactly as I have been appointed.
 
@@ -3730,7 +3730,7 @@ translator: thothica
 
 **2.57.11**  He who has kindled a blazing fire and does not run quickly toward it in time — even ashes he will not find remaining anywhere, O Bharata.
 
-**2.57.12**  One should not harbor in one's house an enemy, especially an ill-wishing person, O Kshatta. Go wherever you wish, Vidura — for even a faithless woman, however well appeased, will in the end abandon her lord.
+**2.57.12**  One should not harbor in one's house an enemy, especially an ill-wishing person, O Kṣattā. Go wherever you wish, Vidura — for even a faithless woman, however well appeased, will in the end abandon her lord.
 
 **2.57.13**  Vidura said: Those who abandon a man for so little — declare their friendship to be of short duration, O king. For the minds of kings are turbulent; they give gentle words and then strike with clubs.
 
@@ -3740,81 +3740,81 @@ translator: thothica
 
 **2.57.16**  If you desire only pleasant words in all matters, both beneficial and harmful, then, O king, ask women and the dull and the lame and fools of that sort.
 
-**2.57.17**  Indeed, O descendant of Pratipa, a man who speaks only pleasant words is easily found in this world; but one who speaks what is unpleasant yet wholesome, and one who listens to such counsel, is rare.
+**2.57.17**  Indeed, O descendant of Pratīpa, a man who speaks only pleasant words is easily found in this world; but one who speaks what is unpleasant yet wholesome, and one who listens to such counsel, is rare.
 
 **2.57.18**  But he who, resting on righteousness and setting aside alike what pleases and displeases his lord, speaks what is unpleasant yet salutary — by that one a king is truly assisted.
 
 **2.57.19**  What the good must drink but the wicked will not — that which is bitter though not born of disease, sharp, burning, robbing one of glory, harsh, and ill-smelling — drink down your wrath, O great king, and be pacified.
 
-**2.57.20**  I wish always for the glory and the wealth of Vichitravirya's line, together with his sons. May it be so for you in whatever way it shall be; and my reverence too is yours. May the brahmins also grant well-being to me.
+**2.57.20**  I wish always for the glory and the wealth of Vicitravīrya's line, together with his sons. May it be so for you in whatever way it shall be; and my reverence too is yours. May the brahmins also grant well-being to me.
 
 **2.57.21**  A wise man should not provoke those who carry venom in their fangs, or those who carry venom in their gaze. This is what I tell you now with care, O joy of the Kuru race.
 
-**2.58.1**  Shakuni said: You have lost much wealth of the Pandavas, Yudhishtira. Declare what wealth remains, O son of Kunti, if any you possess that is not yet lost.
+**2.58.1**  Śakuni said: You have lost much wealth of the Pāṇḍavas, Yudhiṣṭhira. Declare what wealth remains, O son of Kuntī, if any you possess that is not yet lost.
 
-**2.58.2**  Yudhishtira said: My wealth is beyond counting, as I myself know, O son of Subala. But why do you ask about wealth, O Shakuni?
+**2.58.2**  Yudhiṣṭhira said: My wealth is beyond counting, as I myself know, O son of Subala. But why do you ask about wealth, O Śakuni?
 
 **2.58.3**  Ten thousand, a million, a kharva, a padma, an arbuda, a shankha, a nikharva, and a samudra — let these be set as stake. This is my wealth, O king; with it I play against you.
 
-**2.58.4**  Vaishampayana said: Hearing this, Shakuni, resolved and resorting to his deceit, said to Yudhishtira: "Won."
+**2.58.4**  Vaiśaṃpāyana said: Hearing this, Śakuni, resolved and resorting to his deceit, said to Yudhiṣṭhira: "Won."
 
-**2.58.5**  Yudhishtira said: My cattle and horses, my countless cows and milch-animals, my sheep and goats, and whatever belongs to the peoples of all varnas this side of the Sindhu, O son of Subala — this is my wealth, O king; with it I play against you.
+**2.58.5**  Yudhiṣṭhira said: My cattle and horses, my countless cows and milch-animals, my sheep and goats, and whatever belongs to the peoples of all varnas this side of the Sindhu, O son of Subala — this is my wealth, O king; with it I play against you.
 
-**2.58.6**  Vaishampayana said: Hearing this, Shakuni, resolved and resorting to his deceit, said to Yudhishtira: "Won."
+**2.58.6**  Vaiśaṃpāyana said: Hearing this, Śakuni, resolved and resorting to his deceit, said to Yudhiṣṭhira: "Won."
 
-**2.58.7**  Yudhishtira said: The city, the realm, the land, together with the wealth of those who are not brahmins, and all persons of non-brahmin birth — O king, this is the remaining wealth that is mine. With this, O king, I play against you.
+**2.58.7**  Yudhiṣṭhira said: The city, the realm, the land, together with the wealth of those who are not brahmins, and all persons of non-brahmin birth — O king, this is the remaining wealth that is mine. With this, O king, I play against you.
 
-**2.58.8**  Vaishampayana said: Hearing this, Shakuni, resolved and resorting to his deceit, said to Yudhishtira: "Won."
+**2.58.8**  Vaiśaṃpāyana said: Hearing this, Śakuni, resolved and resorting to his deceit, said to Yudhiṣṭhira: "Won."
 
-**2.58.9**  Yudhishtira said: These princes, O king, shine with their adornments — their earrings and gold necklaces and all their bodily ornaments. This is my wealth, O king; with it I play against you.
+**2.58.9**  Yudhiṣṭhira said: These princes, O king, shine with their adornments — their earrings and gold necklaces and all their bodily ornaments. This is my wealth, O king; with it I play against you.
 
-**2.58.10**  Vaishampayana said: Hearing this, Shakuni, resolved and resorting to his deceit, said to Yudhishtira: "Won."
+**2.58.10**  Vaiśaṃpāyana said: Hearing this, Śakuni, resolved and resorting to his deceit, said to Yudhiṣṭhira: "Won."
 
-**2.58.11**  Yudhishtira said: Dark, young, with reddish eyes, lion-shouldered, great-armed — Nakula is my one stake, along with whatever wealth of mine belongs to him personally.
+**2.58.11**  Yudhiṣṭhira said: Dark, young, with reddish eyes, lion-shouldered, great-armed — Nakula is my one stake, along with whatever wealth of mine belongs to him personally.
 
-**2.58.12**  Shakuni said: Nakula is dear to you, O king, O prince Yudhishtira — he has now become our property. What now will you stake next?
+**2.58.12**  Śakuni said: Nakula is dear to you, O king, O prince Yudhiṣṭhira — he has now become our property. What now will you stake next?
 
-**2.58.13**  Vaishampayana said: Having spoken thus, Shakuni took those dice in hand; and said to Yudhishtira: "Won."
+**2.58.13**  Vaiśaṃpāyana said: Having spoken thus, Śakuni took those dice in hand; and said to Yudhiṣṭhira: "Won."
 
-**2.58.14**  Yudhishtira said: This Sahadeva who instructs in dharma and has attained the name of wise man in this world — though he does not deserve to be staked — with that beloved prince I play against you, even though it is against my will.
+**2.58.14**  Yudhiṣṭhira said: This Sahadeva who instructs in dharma and has attained the name of wise man in this world — though he does not deserve to be staked — with that beloved prince I play against you, even though it is against my will.
 
-**2.58.15**  Vaishampayana said: Hearing this, Shakuni, resolved and resorting to his deceit, said to Yudhishtira: "Won."
+**2.58.15**  Vaiśaṃpāyana said: Hearing this, Śakuni, resolved and resorting to his deceit, said to Yudhiṣṭhira: "Won."
 
-**2.58.16**  Shakuni said: These two sons of Madri, O king, are dear to you — both have been won by me. But I think the weightier stakes are Bhimasena and Dhananjaya.
+**2.58.16**  Śakuni said: These two sons of Mādrī, O king, are dear to you — both have been won by me. But I think the weightier stakes are Bhīmasena and Dhanañjaya.
 
-**2.58.17**  Yudhishtira said: You surely walk the path of unrighteousness, you who take no heed of right conduct — you who desire, O fool, to sow division among us who are of one mind.
+**2.58.17**  Yudhiṣṭhira said: You surely walk the path of unrighteousness, you who take no heed of right conduct — you who desire, O fool, to sow division among us who are of one mind.
 
-**2.58.18**  Shakuni said: One who is intoxicated falls into a pit; one who is heedless stumbles into a post. You are the eldest, O king, the most venerable — my salutation to you, O bull of the Bharatas.
+**2.58.18**  Śakuni said: One who is intoxicated falls into a pit; one who is heedless stumbles into a post. You are the eldest, O king, the most venerable — my salutation to you, O bull of the Bharatas.
 
-**2.58.19**  Gamblers do not see those things in dream or waking, O Yudhishtira, of which they babble wildly while playing their dice — raving like the intoxicated.
+**2.58.19**  Gamblers do not see those things in dream or waking, O Yudhiṣṭhira, of which they babble wildly while playing their dice — raving like the intoxicated.
 
-**2.58.20**  Yudhishtira said: He who leads us in battle like a boat to the farther shore — that swift royal prince, conqueror of enemies — though he does not deserve to be staked, with that hero of the world, with Phalguna, I play against you, O Shakuni.
+**2.58.20**  Yudhiṣṭhira said: He who leads us in battle like a boat to the farther shore — that swift royal prince, conqueror of enemies — though he does not deserve to be staked, with that hero of the world, with Phalguna, I play against you, O Śakuni.
 
-**2.58.21**  Vaishampayana said: Hearing this, Shakuni, resolved and resorting to his deceit, said to Yudhishtira: "Won."
+**2.58.21**  Vaiśaṃpāyana said: Hearing this, Śakuni, resolved and resorting to his deceit, said to Yudhiṣṭhira: "Won."
 
-**2.58.22**  Shakuni said: This bowman of the Pandavas — Savyasachi the Pandava — has been defeated by me. Now stake your beloved Bhima, O king; stake whatever remains to be staked, O Pandava.
+**2.58.22**  Śakuni said: This bowman of the Pāṇḍavas — Savyasācī the Pāṇḍava — has been defeated by me. Now stake your beloved Bhīma, O king; stake whatever remains to be staked, O Pāṇḍava.
 
-**2.58.23**  Yudhishtira said: He who is our leader, who leads us in battle like the Thunderbolt-bearer who is the sole foe of the demons — he of the sidelong glance, with joined eyebrows, great-souled, lion-shouldered, and ever beyond endurance of insult —
+**2.58.23**  Yudhiṣṭhira said: He who is our leader, who leads us in battle like the Thunderbolt-bearer who is the sole foe of the demons — he of the sidelong glance, with joined eyebrows, great-souled, lion-shouldered, and ever beyond endurance of insult —
 
-**2.58.24**  — he whose equal in strength no man exists, the foremost among mace-wielders here, the crusher of enemies — though he does not deserve to be staked, with that royal prince Bhimasena I play against you, O king.
+**2.58.24**  — he whose equal in strength no man exists, the foremost among mace-wielders here, the crusher of enemies — though he does not deserve to be staked, with that royal prince Bhīmasena I play against you, O king.
 
-**2.58.25**  Vaishampayana said: Hearing this, Shakuni, resolved and resorting to his deceit, said to Yudhishtira: "Won."
+**2.58.25**  Vaiśaṃpāyana said: Hearing this, Śakuni, resolved and resorting to his deceit, said to Yudhiṣṭhira: "Won."
 
-**2.58.26**  Shakuni said: You have lost great wealth, and your brothers along with their elephants. Declare what wealth remains, O son of Kunti, if any you possess that is not yet lost.
+**2.58.26**  Śakuni said: You have lost great wealth, and your brothers along with their elephants. Declare what wealth remains, O son of Kuntī, if any you possess that is not yet lost.
 
-**2.58.27**  Yudhishtira said: I am the foremost of all my brothers and equally their beloved. Now that my brothers are lost and our own calamity has fallen upon me, I stake myself.
+**2.58.27**  Yudhiṣṭhira said: I am the foremost of all my brothers and equally their beloved. Now that my brothers are lost and our own calamity has fallen upon me, I stake myself.
 
-**2.58.28**  Vaishampayana said: Hearing this, Shakuni, resolved and resorting to his deceit, said to Yudhishtira: "Won."
+**2.58.28**  Vaiśaṃpāyana said: Hearing this, Śakuni, resolved and resorting to his deceit, said to Yudhiṣṭhira: "Won."
 
-**2.58.29**  Shakuni said: This was the most sinful act you have done — staking yourself when you had already lost your brothers and while wealth still remained. O king, the staking of oneself is indeed sin.
+**2.58.29**  Śakuni said: This was the most sinful act you have done — staking yourself when you had already lost your brothers and while wealth still remained. O king, the staking of oneself is indeed sin.
 
-**2.58.30**  Vaishampayana said: Having spoken thus, the shrewd dice-player, by his casting, defeated separately, one by one, those world-heroes who stood as stakes in the game.
+**2.58.30**  Vaiśaṃpāyana said: Having spoken thus, the shrewd dice-player, by his casting, defeated separately, one by one, those world-heroes who stood as stakes in the game.
 
-**2.58.31**  Shakuni said: There is indeed your beloved queen — one stake not yet lost. Stake Krishnaa, the Pancali princess; with her win yourself back.
+**2.58.31**  Śakuni said: There is indeed your beloved queen — one stake not yet lost. Stake Kṛṣṇā, the Pāñcālī princess; with her win yourself back.
 
-**2.58.32**  Yudhishtira said: She is neither too short nor too tall, neither too dark nor too fair, with eyes tinged with passionate red — with her I play against you.
+**2.58.32**  Yudhiṣṭhira said: She is neither too short nor too tall, neither too dark nor too fair, with eyes tinged with passionate red — with her I play against you.
 
-**2.58.33**  Her eyes are like the petals of the autumnal lotus; her fragrance is that of the autumnal lotus; she is attended upon like the autumnal lotus; in beauty she is equal to Shri herself.
+**2.58.33**  Her eyes are like the petals of the autumnal lotus; her fragrance is that of the autumnal lotus; she is attended upon like the autumnal lotus; in beauty she is equal to Śrī herself.
 
 **2.58.34**  And further she has compassion, beauty of form, and excellence of character — all the qualities for which a man could desire a woman.
 
@@ -3822,99 +3822,99 @@ translator: thothica
 
 **2.58.36**  Her face shines like a lotus even when lightly perspiring, and like jasmine. Her waist is slender as an altar, her hair long, her eyes copper-red, and her body not overly covered with hair.
 
-**2.58.37**  With her, thus endowed, O king — with the Pancali Draupadi, she of the beautiful slender waist and lovely limbs — I play the dice, O Subala's son.
+**2.58.37**  With her, thus endowed, O king — with the Pāñcālī Draupadī, she of the beautiful slender waist and lovely limbs — I play the dice, O Subala's son.
 
-**2.58.38**  Vaishampayana said: When the king of dharma spoke these words, O Bharata, the voices of the elder assembly members burst forth with cries of "Shame! Shame!"
+**2.58.38**  Vaiśaṃpāyana said: When the king of dharma spoke these words, O Bharata, the voices of the elder assembly members burst forth with cries of "Shame! Shame!"
 
-**2.58.39**  That assembly was convulsed, O king; conversations broke out among the kings, and sweat broke out upon Bhishma, Drona, Kripa, and the others.
+**2.58.39**  That assembly was convulsed, O king; conversations broke out among the kings, and sweat broke out upon Bhīṣma, Droṇa, Kṛpa, and the others.
 
 **2.58.40**  Vidura clasped his head and became as if bereft of his senses; he sat absorbed in thought, his face cast downward, sighing like a serpent.
 
-**2.58.41**  Dhritarashtra, filled with delight, asked again and again: "What is won? What is won?" — he could not conceal the expression on his face.
+**2.58.41**  Dhṛtarāṣṭra, filled with delight, asked again and again: "What is won? What is won?" — he could not conceal the expression on his face.
 
-**2.58.42**  Karna rejoiced exceedingly along with Duhshasana and the others; from the eyes of the remaining assembly members tears fell down.
+**2.58.42**  Karṇa rejoiced exceedingly along with Duḥśāsana and the others; from the eyes of the remaining assembly members tears fell down.
 
 **2.58.43**  But the son of Subala, without deliberating, exultant in victory, arrogant with elation, took up those dice once more with the cry: "Won!"
 
-**2.59.1**  Duryodhana said: Come, O Kshatta — bring Draupadi here, the beloved wife honoured by the Pandavas. Let her quickly come to sweep out the household; let there be joy for us together with our maidservants.
+**2.59.1**  Duryodhana said: Come, O Kṣattā — bring Draupadī here, the beloved wife honoured by the Pāṇḍavas. Let her quickly come to sweep out the household; let there be joy for us together with our maidservants.
 
 **2.59.2**  Vidura said: What is about to happen is hard to conceive by one like you, O fool — you do not understand, bound as you are in the noose of fate, hanging over the precipice. Like a deer you are provoking tigers out of sheer childishness.
 
 **2.59.3**  Deadly serpents, their poison sacs full, swollen with great venom, rest upon your head. Do not provoke them, O extremely foolish one — do not walk toward the realm of Yama.
 
-**2.59.4**  Krishnaa does not become a slave in this manner, O Bharata — for it is my judgment that this queen was staked as a wager by a king who was no longer his own master.
+**2.59.4**  Kṛṣṇā does not become a slave in this manner, O Bharata — for it is my judgment that this queen was staked as a wager by a king who was no longer his own master.
 
-**2.59.5**  This king, Dhritarashtra's son, bears fruit like a bamboo that destroys itself by its own fruiting. For dice lead to enmity and great terror; ripe as he is, this man does not understand — at the hour of his end.
+**2.59.5**  This king, Dhṛtarāṣṭra's son, bears fruit like a bamboo that destroys itself by its own fruiting. For dice lead to enmity and great terror; ripe as he is, this man does not understand — at the hour of his end.
 
 **2.59.6**  One should not be sharp-tongued or speak cruelly; one should not raise oneself above another by belittling them. That stinging speech by which another is made to shudder — one should not speak that burning, sin-destining word.
 
 **2.59.7**  Harsh and excessive words pour out from the mouth; struck by these, another grieves for days and nights. They do not fall upon the vital points of another — yet a wise man would not release such words upon others.
 
-**2.59.8**  A goat once dug up a weapon for its own use; when the weapon failed, it cast aside the ground with its hooves — that ghastly cutter of its own throat. In like manner, do not dig up enmity with the sons of Pandu.
+**2.59.8**  A goat once dug up a weapon for its own use; when the weapon failed, it cast aside the ground with its hooves — that ghastly cutter of its own throat. In like manner, do not dig up enmity with the sons of Pāṇḍu.
 
 **2.59.9**  Dogs always bark at those who are praiseworthy — whether the forest-dweller, or the householder, or the ascetic, or the one replete with knowledge — they bark at them as evil.
 
-**2.59.10**  You do not perceive the terrible, crooked gateway to hell, O son of Dhritarashtra. Many of the Kurus will follow you down — together with Duhshasana — when this gambling-game reaches its outcome.
+**2.59.10**  You do not perceive the terrible, crooked gateway to hell, O son of Dhṛtarāṣṭra. Many of the Kurus will follow you down — together with Duḥśāsana — when this gambling-game reaches its outcome.
 
-**2.59.11**  Gourds sink while stones float; boats are constantly bewildered upon the water — the foolish king, Dhritarashtra's son, does not listen to my words that are wholesome and true.
+**2.59.11**  Gourds sink while stones float; boats are constantly bewildered upon the water — the foolish king, Dhṛtarāṣṭra's son, does not listen to my words that are wholesome and true.
 
 **2.59.12**  Surely the end of the Kurus is at hand — a terrible, all-consuming destruction. The wholesome words of wise friends go unheard; only greed grows.
 
-**2.60.1**  Vaishampayana said: Crying "Shame on Kshattri!" and intoxicated with arrogance, the son of Dhritarashtra looked toward the Pratikamin in the assembly and spoke to him in the midst of the great nobles.
+**2.60.1**  Vaiśaṃpāyana said: Crying "Shame on Kṣattṛ!" and intoxicated with arrogance, the son of Dhṛtarāṣṭra looked toward the Pratikamin in the assembly and spoke to him in the midst of the great nobles.
 
-**2.60.2**  "You, Pratikamin, go and fetch Draupadi. You need have no fear of the Pandavas. This Kshattri is a coward who only argues; he has never truly wished for our welfare."
+**2.60.2**  "You, Pratikamin, go and fetch Draupadī. You need have no fear of the Pāṇḍavas. This Kṣattṛ is a coward who only argues; he has never truly wished for our welfare."
 
-**2.60.3**  Thus commanded, that charioteer Pratikamin, hearing the king's word, went quickly and entered the lion's den as a dog might, and approached the queen of the Pandavas.
+**2.60.3**  Thus commanded, that charioteer Pratikamin, hearing the king's word, went quickly and entered the lion's den as a dog might, and approached the queen of the Pāṇḍavas.
 
-**2.60.4**  The Pratikamin said: "O Draupadi, Yudhishthira was maddened by the dice-game, and Duryodhana has won you. Therefore enter the house of Dhritarashtra — I am taking you there to your duties, O daughter of Yajnasena."
+**2.60.4**  The Pratikamin said: "O Draupadī, Yudhiṣṭhira was maddened by the dice-game, and Duryodhana has won you. Therefore enter the house of Dhṛtarāṣṭra — I am taking you there to your duties, O daughter of Yajñasena."
 
-**2.60.5**  Draupadi said: "How do you say such a thing, Pratikamin? What prince would wager his wife at dice? Is the king truly so foolish and maddened by the game, or was there no other stake he could find?"
+**2.60.5**  Draupadī said: "How do you say such a thing, Pratikamin? What prince would wager his wife at dice? Is the king truly so foolish and maddened by the game, or was there no other stake he could find?"
 
-**2.60.6**  The Pratikamin said: "When there was no other stake for him, then Yudhishthira the Pandava — the one who has no enemies — wagered. First he staked his brothers, then himself, and finally you, O princess."
+**2.60.6**  The Pratikamin said: "When there was no other stake for him, then Yudhiṣṭhira the Pāṇḍava — the one who has no enemies — wagered. First he staked his brothers, then himself, and finally you, O princess."
 
-**2.60.7**  Draupadi said: "Go, son of a charioteer — go to the gambler in the assembly and ask him this: O Bharata, did you lose yourself first, or me? Having learned the answer, come back and then take me, O son of a charioteer."
+**2.60.7**  Draupadī said: "Go, son of a charioteer — go to the gambler in the assembly and ask him this: O Bharata, did you lose yourself first, or me? Having learned the answer, come back and then take me, O son of a charioteer."
 
-**2.60.8**  Vaishampayana said: Going to the assembly, he conveyed Draupadi's words: "Draupadi asks you — who is the master of whom did you lose first? Did you first lose yourself, or me?"
+**2.60.8**  Vaiśaṃpāyana said: Going to the assembly, he conveyed Draupadī's words: "Draupadī asks you — who is the master of whom did you lose first? Did you first lose yourself, or me?"
 
-**2.60.9**  But Yudhishthira sat motionless, as if bereft of life. He gave the charioteer no reply — neither good nor ill.
+**2.60.9**  But Yudhiṣṭhira sat motionless, as if bereft of life. He gave the charioteer no reply — neither good nor ill.
 
-**2.60.10**  Duryodhana said: "Let Krishna the Panchali come here herself and put her question here — let everyone hear her words and his answer."
+**2.60.10**  Duryodhana said: "Let Kṛṣṇa the Pāñcālī come here herself and put her question here — let everyone hear her words and his answer."
 
-**2.60.11**  Vaishampayana said: He who followed Duryodhana's will went to the royal quarters and, as if pained, the charioteer Pratikamin spoke to Draupadi.
+**2.60.11**  Vaiśaṃpāyana said: He who followed Duryodhana's will went to the royal quarters and, as if pained, the charioteer Pratikamin spoke to Draupadī.
 
 **2.60.12**  "The men of the assembly summon you, O princess. I believe the destruction of the Kauravas is at hand — for no lesser deed preserves prosperity, that you must now enter the assembly, O princess."
 
-**2.60.13**  Draupadi said: "Thus surely has the Creator ordained — that both the wise and the foolish are touched by touch alike. But there is one supreme dharma proclaimed in this world; if cherished, it will bring us peace."
+**2.60.13**  Draupadī said: "Thus surely has the Creator ordained — that both the wise and the foolish are touched by touch alike. But there is one supreme dharma proclaimed in this world; if cherished, it will bring us peace."
 
-**2.60.14**  Vaishampayana said: Yudhishthira, hearing what Duryodhana intended, sent a messenger approved by Draupadi, O bull of the Bharatas.
+**2.60.14**  Vaiśaṃpāyana said: Yudhiṣṭhira, hearing what Duryodhana intended, sent a messenger approved by Draupadī, O bull of the Bharatas.
 
-**2.60.15**  Clad in a single garment, her lower robe loose, weeping and in her monthly course, the Panchali came to the assembly and stood before her father-in-law.
+**2.60.15**  Clad in a single garment, her lower robe loose, weeping and in her monthly course, the Pāñcālī came to the assembly and stood before her father-in-law.
 
 **2.60.16**  Then, looking at their faces, King Duryodhana, filled with joy, said to the charioteer: "Bring her here, Pratikamin — let the Kurus speak openly before her."
 
-**2.60.17**  Then the charioteer, who followed his master's will but feared the wrath of the daughter of Drupada, setting aside his pride, turned to the assembly members again and said: "What shall I tell Krishna?"
+**2.60.17**  Then the charioteer, who followed his master's will but feared the wrath of the daughter of Drupada, setting aside his pride, turned to the assembly members again and said: "What shall I tell Kṛṣṇa?"
 
-**2.60.18**  Duryodhana said: "Duhshasana, this charioteer's son of mine is faint-hearted, afraid of Vrikodara. Yourself take the daughter of Yajnasena and bring her. What can her helpless enemies do to you?"
+**2.60.18**  Duryodhana said: "Duḥśāsana, this charioteer's son of mine is faint-hearted, afraid of Vṛkodara. Yourself take the daughter of Yajñasena and bring her. What can her helpless enemies do to you?"
 
-**2.60.19**  Then that prince arose, his eyes red with rage at his brother's words, entered the dwelling of the great warriors, and spoke thus to the princess Draupadi.
+**2.60.19**  Then that prince arose, his eyes red with rage at his brother's words, entered the dwelling of the great warriors, and spoke thus to the princess Draupadī.
 
-**2.60.20**  "Come, come, Panchali, O Krishna — you have been won! Look upon Duryodhana, O lotus-eyed one, cast off your shame and join the Kurus. You have been lawfully won; go to the assembly."
+**2.60.20**  "Come, come, Pāñcālī, O Kṛṣṇa — you have been won! Look upon Duryodhana, O lotus-eyed one, cast off your shame and join the Kurus. You have been lawfully won; go to the assembly."
 
 **2.60.21**  Then she arose, deeply distressed, wiped her pale face with her hand, and in her affliction ran toward where the women were — the quarters of the aged king, bull of the Kurus.
 
-**2.60.22**  Then Duhshasana rushed after her in fury, roaring at her, and seized the wife of the king of kings by her long, dark, wavy hair.
+**2.60.22**  Then Duḥśāsana rushed after her in fury, roaring at her, and seized the wife of the king of kings by her long, dark, wavy hair.
 
-**2.60.23**  Those tresses which had been drenched with the sacred waters of the Rajasuya concluding bath, at that great ceremony purified by mantras — those were now seized by force by the son of Dhritarashtra, who had overcome the valor of the Pandavas.
+**2.60.23**  Those tresses which had been drenched with the sacred waters of the Rājasūya concluding bath, at that great ceremony purified by mantras — those were now seized by force by the son of Dhṛtarāṣṭra, who had overcome the valor of the Pāṇḍavas.
 
-**2.60.24**  Having seized her, Duhshasana dragged Krishna of the very dark tresses toward the assembly — dragging her who had protectors as though she had none, as the wind drags a plantain tree in distress.
+**2.60.24**  Having seized her, Duḥśāsana dragged Kṛṣṇa of the very dark tresses toward the assembly — dragging her who had protectors as though she had none, as the wind drags a plantain tree in distress.
 
 **2.60.25**  As she was being dragged, her body bent, she said softly: "Today I am in my monthly course. I have but one garment, O dull-witted one; you should not take me to the assembly, O ignoble man."
 
-**2.60.26**  Then, forcibly seizing her by her dark hair, he said to Krishna: "Cry out for protection to Krishna, to Jishnu, to Hari, to Nara — I am taking you regardless."
+**2.60.26**  Then, forcibly seizing her by her dark hair, he said to Kṛṣṇa: "Cry out for protection to Kṛṣṇa, to Jiṣṇu, to Hari, to Nara — I am taking you regardless."
 
-**2.60.27**  "Whether you are in your monthly course, O Yajnaseni, whether you wear one garment or none — you have been won at dice; you are made a slave. Among the slave women you shall serve according to desire."
+**2.60.27**  "Whether you are in your monthly course, O Yājñasenī, whether you wear one garment or none — you have been won at dice; you are made a slave. Among the slave women you shall serve according to desire."
 
-**2.60.28**  With her hair disheveled, her half-garment fallen, being shaken about by Duhshasana, burning with shame and indignation, Krishna softly spoke these words.
+**2.60.28**  With her hair disheveled, her half-garment fallen, being shaken about by Duḥśāsana, burning with shame and indignation, Kṛṣṇa softly spoke these words.
 
 **2.60.29**  "These men in the assembly are learned in scripture, all of them active and equal to Indra; all are elders, worthy of veneration as gurus. Before them I cannot bear to stand in this state."
 
@@ -3926,69 +3926,69 @@ translator: thothica
 
 **2.60.33**  "Shame! The dharma of the Bharatas is truly lost, and so too the conduct of those who know the warrior code — for the Kurus all sit in the assembly and watch as the bounds of Kuru righteousness are transgressed."
 
-**2.60.34**  "There is no firmness in Drona, nor in Bhishma, nor surely in that great-souled king either — for the foremost elders of the Kurus do not mark this terrible adharma."
+**2.60.34**  "There is no firmness in Droṇa, nor in Bhīṣma, nor surely in that great-souled king either — for the foremost elders of the Kurus do not mark this terrible adharma."
 
-**2.60.35**  As she spoke thus pitifully, the slender-waisted one glanced sideways and saw her husbands overcome with rage — the Pandavas with bodies consumed by anger — and inflamed them further with the glances of her eyes.
+**2.60.35**  As she spoke thus pitifully, the slender-waisted one glanced sideways and saw her husbands overcome with rage — the Pāṇḍavas with bodies consumed by anger — and inflamed them further with the glances of her eyes.
 
-**2.60.36**  The pain caused by the loss of their kingdom, their wealth, and their finest jewels was not as great as the pain caused by Krishna's sidelong glance charged with anguish and fury.
+**2.60.36**  The pain caused by the loss of their kingdom, their wealth, and their finest jewels was not as great as the pain caused by Kṛṣṇa's sidelong glance charged with anguish and fury.
 
-**2.60.37**  And Duhshasana, seeing Krishna look piteously at those wretched husbands, shook her violently as if to render her unconscious, and said with a cruel laugh: "A slave woman!"
+**2.60.37**  And Duḥśāsana, seeing Kṛṣṇa look piteously at those wretched husbands, shook her violently as if to render her unconscious, and said with a cruel laugh: "A slave woman!"
 
-**2.60.38**  Karna was exceedingly delighted at that word and applauded it with a loud laugh. The king of Gandhara, son of Subala, likewise praised Duhshasana.
+**2.60.38**  Karṇa was exceedingly delighted at that word and applauded it with a loud laugh. The king of Gāndhāra, son of Subala, likewise praised Duḥśāsana.
 
-**2.60.39**  But all the other members of the assembly who were there — excepting those two and the son of Dhritarashtra — felt extreme sorrow upon seeing Krishna being dragged about in the assembly.
+**2.60.39**  But all the other members of the assembly who were there — excepting those two and the son of Dhṛtarāṣṭra — felt extreme sorrow upon seeing Kṛṣṇa being dragged about in the assembly.
 
-**2.60.40**  Bhishma said: "O fortunate one, I am not able to answer your question properly on account of the subtlety of dharma. One who owns nothing cannot stake another's property — and women are subject to their husband's authority."
+**2.60.40**  Bhīṣma said: "O fortunate one, I am not able to answer your question properly on account of the subtlety of dharma. One who owns nothing cannot stake another's property — and women are subject to their husband's authority."
 
-**2.60.41**  "Yudhishthira would abandon the entire prosperous earth, but he would not abandon truth. And the Pandava has declared 'I am defeated' — therefore I cannot resolve this matter."
+**2.60.41**  "Yudhiṣṭhira would abandon the entire prosperous earth, but he would not abandon truth. And the Pāṇḍava has declared 'I am defeated' — therefore I cannot resolve this matter."
 
-**2.60.42**  "Shakuni is unequalled among men at dice; invited by him, the son of Kunti freely submitted to his desire. That great soul does not regard it as deception — therefore I cannot answer your question."
+**2.60.42**  "Śakuni is unequalled among men at dice; invited by him, the son of Kuntī freely submitted to his desire. That great soul does not regard it as deception — therefore I cannot answer your question."
 
-**2.60.43**  Draupadi said: "The king was summoned to the assembly by those skilled in trickery — by evil-souled, deceitful, ignoble gamblers — with no great effort on their part. How then is he said to have freely submitted his will?"
+**2.60.43**  Draupadī said: "The king was summoned to the assembly by those skilled in trickery — by evil-souled, deceitful, ignoble gamblers — with no great effort on their part. How then is he said to have freely submitted his will?"
 
-**2.60.44**  "He who is the foremost of the Kuru Pandavas — pure of heart, not perceiving the deceitful conduct — was overcome by all of them together, and it was only afterward that he accepted the terms of the gambling."
+**2.60.44**  "He who is the foremost of the Kuru Pāṇḍavas — pure of heart, not perceiving the deceitful conduct — was overcome by all of them together, and it was only afterward that he accepted the terms of the gambling."
 
 **2.60.45**  "These Kurus stand in the assembly — masters of sons and daughters-in-law alike. Let them all weigh my words as well. Answer my question truthfully, O kings."
 
-**2.60.46**  Vaishampayana said: As she spoke thus piteously and wept, repeatedly glancing at those husbands, Duhshasana spoke harsh, unpleasant, and bitter words to her.
+**2.60.46**  Vaiśaṃpāyana said: As she spoke thus piteously and wept, repeatedly glancing at those husbands, Duḥśāsana spoke harsh, unpleasant, and bitter words to her.
 
-**2.60.47**  Seeing her being dragged, in her monthly course, her upper garment slipping, trembling — and seeing Yudhishthira — Vrikodara, his form the very image of extreme anguish, gave vent to his rage.
+**2.60.47**  Seeing her being dragged, in her monthly course, her upper garment slipping, trembling — and seeing Yudhiṣṭhira — Vṛkodara, his form the very image of extreme anguish, gave vent to his rage.
 
-**2.61.1**  Bhima said: "Gamblers keep women of ill repute in their homes, O Yudhishthira — they do not even wager those, and even for those women there is compassion."
+**2.61.1**  Bhīma said: "Gamblers keep women of ill repute in their homes, O Yudhiṣṭhira — they do not even wager those, and even for those women there is compassion."
 
-**2.61.2**  "The tribute that the king of Kashi brought, the other finest goods, and whatever jewels the other kings of the earth had offered —"
+**2.61.2**  "The tribute that the king of Kāśi brought, the other finest goods, and whatever jewels the other kings of the earth had offered —"
 
 **2.61.3**  "— our vehicles, our wealth, our armor and weapons, our kingdom, our very selves and we ourselves — all were taken from us by the deceit of our enemies."
 
-**2.61.4**  "And I felt no anger in all of that, for you are the master of all that is ours. But I consider this to be going too far — that Draupadi was staked."
+**2.61.4**  "And I felt no anger in all of that, for you are the master of all that is ours. But I consider this to be going too far — that Draupadī was staked."
 
-**2.61.5**  "This innocent girl, who did not deserve this fate, having come to the Pandavas, is now being tormented on your account by these petty, cruel, and deceit-loving Kauravas."
+**2.61.5**  "This innocent girl, who did not deserve this fate, having come to the Pāṇḍavas, is now being tormented on your account by these petty, cruel, and deceit-loving Kauravas."
 
 **2.61.6**  "This wrath is brought down upon you for her sake, O king. I will burn your arms to ashes — Sahadeva, bring fire!"
 
-**2.61.7**  Arjuna said: "You have never before, O Bhimasena, spoken such words. Surely the respect for dharma in you has been destroyed by these cruel enemies."
+**2.61.7**  Arjuna said: "You have never before, O Bhīmasena, spoken such words. Surely the respect for dharma in you has been destroyed by these cruel enemies."
 
 **2.61.8**  "Our enemies must not be made to rejoice. Practice only the highest dharma. One should not transgress the eldest brother who is righteous."
 
 **2.61.9**  "The king, summoned by enemies, plays at dice keeping in mind the warrior's dharma, submitting to another's will — this is greatly glorious for us."
 
-**2.61.10**  Bhimasena said: "Had I known this was being done to me, O Dhananjaya, I would have burned both his arms in a blazing fire, as if by force."
+**2.61.10**  Bhīmasena said: "Had I known this was being done to me, O Dhanañjaya, I would have burned both his arms in a blazing fire, as if by force."
 
-**2.61.11**  Vaishampayana said: Seeing the Pandavas in such distress, and the Panchali being tormented, Vikarna, the son of Dhritarashtra, spoke these words.
+**2.61.11**  Vaiśaṃpāyana said: Seeing the Pāṇḍavas in such distress, and the Pāñcālī being tormented, Vikarṇa, the son of Dhṛtarāṣṭra, spoke these words.
 
-**2.61.12**  "Answer the words spoken by the daughter of Yajnasena, O kings. By not discerning the truth of her words, we will immediately fall into hell."
+**2.61.12**  "Answer the words spoken by the daughter of Yajñasena, O kings. By not discerning the truth of her words, we will immediately fall into hell."
 
-**2.61.13**  "Both Bhishma and Dhritarashtra, the two eldest of the Kurus, have said nothing after coming together here, nor has the great-minded Vidura."
+**2.61.13**  "Both Bhīṣma and Dhṛtarāṣṭra, the two eldest of the Kurus, have said nothing after coming together here, nor has the great-minded Vidura."
 
-**2.61.14**  "And the son of Bharadvaja, who is the preceptor of all, and Kripa — even these two foremost of the twice-born have not answered the question."
+**2.61.14**  "And the son of Bharadvaja, who is the preceptor of all, and Kṛpa — even these two foremost of the twice-born have not answered the question."
 
 **2.61.15**  "But those other kings of the earth who have assembled here from all directions — setting aside desire and anger, let them speak according to their understanding."
 
-**2.61.16**  "This word that auspicious Draupadi has repeatedly uttered — reflecting carefully, whose side is which? O kings, speak your reply."
+**2.61.16**  "This word that auspicious Draupadī has repeatedly uttered — reflecting carefully, whose side is which? O kings, speak your reply."
 
 **2.61.17**  Thus he repeatedly addressed all the members of the assembly, yet those kings of the earth said nothing to him — neither good nor ill.
 
-**2.61.18**  Having thus repeatedly addressed all the kings, Vikarna rubbed one palm against the other, and sighing, spoke these words.
+**2.61.18**  Having thus repeatedly addressed all the kings, Vikarṇa rubbed one palm against the other, and sighing, spoke these words.
 
 **2.61.19**  "Speak, O kings, or speak not at all. What I consider to be just here, that I shall proclaim, O Kauravas."
 
@@ -3996,27 +3996,27 @@ translator: thothica
 
 **2.61.21**  "A man addicted to these lives having abandoned dharma, and the world does not regard an act done by one thus afflicted as valid."
 
-**2.61.22**  "This son of Pandu, deeply caught in vice, summoned by gamblers, staked Draupadi as a wager."
+**2.61.22**  "This son of Pāṇḍu, deeply caught in vice, summoned by gamblers, staked Draupadī as a wager."
 
-**2.61.23**  "Moreover, she is the common wife of all the Pandavas, the irreproachable one. And the stake was made by this Pandava after he had already been won himself."
+**2.61.23**  "Moreover, she is the common wife of all the Pāṇḍavas, the irreproachable one. And the stake was made by this Pāṇḍava after he had already been won himself."
 
-**2.61.24**  "And this Krishna was named as a stake by Subala's son who desired to win. Considering all of this, I believe she has not been won."
+**2.61.24**  "And this Kṛṣṇa was named as a stake by Subala's son who desired to win. Considering all of this, I believe she has not been won."
 
-**2.61.25**  Hearing this, a great roar arose from the members of the assembly — some praising Vikarna and condemning the son of Subala.
+**2.61.25**  Hearing this, a great roar arose from the members of the assembly — some praising Vikarṇa and condemning the son of Subala.
 
-**2.61.26**  When that noise subsided, the son of Radha, nearly fainting with rage, lifted his beautiful arm and spoke these words.
+**2.61.26**  When that noise subsided, the son of Rādhā, nearly fainting with rage, lifted his beautiful arm and spoke these words.
 
-**2.61.27**  "Many perversities are indeed visible in Vikarna. The fire born of the fire-sticks leads to the destruction of those very sticks — so too with him."
+**2.61.27**  "Many perversities are indeed visible in Vikarṇa. The fire born of the fire-sticks leads to the destruction of those very sticks — so too with him."
 
-**2.61.28**  "All these have said nothing even when urged by Krishna herself. I consider the daughter of Drupada to have been won by dharma — they too think so."
+**2.61.28**  "All these have said nothing even when urged by Kṛṣṇa herself. I consider the daughter of Drupada to have been won by dharma — they too think so."
 
-**2.61.29**  "But you, O son of Dhritarashtra, are bursting with sheer childishness — speaking in the assembly like a child trying to sound like an elder."
+**2.61.29**  "But you, O son of Dhṛtarāṣṭra, are bursting with sheer childishness — speaking in the assembly like a child trying to sound like an elder."
 
-**2.61.30**  "And you do not know dharma as it truly is, O lesser one to Duryodhana — you of very dull wit who proclaims the won Krishna to be unwon."
+**2.61.30**  "And you do not know dharma as it truly is, O lesser one to Duryodhana — you of very dull wit who proclaims the won Kṛṣṇa to be unwon."
 
-**2.61.31**  "How can you consider Krishna to be unwon, O son of Dhritarashtra, when the eldest of the Pandavas staked his entire self in the assembly?"
+**2.61.31**  "How can you consider Kṛṣṇa to be unwon, O son of Dhṛtarāṣṭra, when the eldest of the Pāṇḍavas staked his entire self in the assembly?"
 
-**2.61.32**  "And Draupadi is included within 'all that he possesses,' O bull of the Bharatas. How then do you consider Krishna, won by dharma, to be unwon?"
+**2.61.32**  "And Draupadī is included within 'all that he possesses,' O bull of the Bharatas. How then do you consider Kṛṣṇa, won by dharma, to be unwon?"
 
 **2.61.33**  Draupadī has been named aloud and released by the Pāṇḍavas themselves — on what ground then do you hold that she is not conquered?
 
@@ -4178,117 +4178,117 @@ translator: thothica
 
 **2.62.30**  "'What will Bībhatsu say? What will Ajita, the unconquered Pāṇḍava in battle, say? What will Bhīmasena say, and the twins?' — so they thought, filled with intense curiosity."
 
-**2.62.31**  When that noise had subsided, Bhimasena spoke thus, raising his great round arm smeared with sandalwood paste.
+**2.62.31**  When that noise had subsided, Bhīmasena spoke thus, raising his great round arm smeared with sandalwood paste.
 
-**2.62.32**  If this Dharmaraja Yudhishthira, our elder, were not the master of this family, we would not endure this.
+**2.62.32**  If this Dharmarāja Yudhiṣṭhira, our elder, were not the master of this family, we would not endure this.
 
 **2.62.33**  He is the lord of our virtuous austerities and even our very lives. If he considers himself conquered, then we are conquered.
 
-**2.62.34**  He who, being subject to the law of mortals, has touched these tresses of the Panchali lady, could not escape alive if he merely touched the earth with my foot.
+**2.62.34**  He who, being subject to the law of mortals, has touched these tresses of the Pāñcālī lady, could not escape alive if he merely touched the earth with my foot.
 
 **2.62.35**  Behold my two long, round arms like iron bars — even Indra of a hundred sacrifices, caught between them, could not escape.
 
 **2.62.36**  But bound as I am by the bonds of dharma, I cannot find my way through this crisis, restrained also by respect and by Arjuna's restraint.
 
-**2.62.37**  Released by the king of dharma, I would crush these sinful sons of Dhritarashtra like a lion crushing small deer with the flat of my sword.
+**2.62.37**  Released by the king of dharma, I would crush these sinful sons of Dhṛtarāṣṭra like a lion crushing small deer with the flat of my sword.
 
-**2.62.38**  Then Bhishma, Drona, and Vidura all said to him: "Forgive — it is so — all this is possible in you."
+**2.62.38**  Then Bhīṣma, Droṇa, and Vidura all said to him: "Forgive — it is so — all this is possible in you."
 
-**2.63.1**  Karna said: There are indeed three who are propertyless — a slave, a student, and a woman without independence. You, dear lady, are the property of a slave, the wife of a slave; you are low, the wealth of a slave, yourself a slave-woman.
+**2.63.1**  Karṇa said: There are indeed three who are propertyless — a slave, a student, and a woman without independence. You, dear lady, are the property of a slave, the wife of a slave; you are low, the wealth of a slave, yourself a slave-woman.
 
-**2.63.2**  Enter and serve us with your attendance; that is the remaining duty for you — go into the household. We are all your masters now, princess; the sons of Dhritarashtra are yours, not the Parthas.
+**2.63.2**  Enter and serve us with your attendance; that is the remaining duty for you — go into the household. We are all your masters now, princess; the sons of Dhṛtarāṣṭra are yours, not the Pārthas.
 
 **2.63.3**  Choose another husband quickly, O beautiful one, from whom you will not obtain slavery through gambling. Indeed, a blameless woman's freedom among husbands is known in the Vedas — let that be always known to you as slavery now.
 
-**2.63.4**  Nakula has been defeated, and Bhimasena, Yudhishthira, Sahadeva, and Arjuna — enter as a slave-woman, Yajnaseni; your husbands are defeated, they are no more.
+**2.63.4**  Nakula has been defeated, and Bhīmasena, Yudhiṣṭhira, Sahadeva, and Arjuna — enter as a slave-woman, Yājñasenī; your husbands are defeated, they are no more.
 
-**2.63.5**  And what purpose does the Partha think he serves with his own valor and manhood here — he who staked this daughter of Drupada, the Panchali princess, in the assembly's gambling?
+**2.63.5**  And what purpose does the Pārtha think he serves with his own valor and manhood here — he who staked this daughter of Drupada, the Pāñcālī princess, in the assembly's gambling?
 
-**2.63.6**  Vaishampayana said: Hearing that, Bhimasena, deeply wrathful, sighed heavily, showing a tormented form; following the king, bound by the cords of dharma, he seemed to burn Karna with his eyes reddened by anger.
+**2.63.6**  Vaiśaṃpāyana said: Hearing that, Bhīmasena, deeply wrathful, sighed heavily, showing a tormented form; following the king, bound by the cords of dharma, he seemed to burn Karṇa with his eyes reddened by anger.
 
-**2.63.7**  Bhima said: I do not grow angry at the son of a charioteer, O king — this truth of slave-law has entered. For what could those who hate me do to restrain me today — if only you had not gambled with her, O lord of men.
+**2.63.7**  Bhīma said: I do not grow angry at the son of a charioteer, O king — this truth of slave-law has entered. For what could those who hate me do to restrain me today — if only you had not gambled with her, O lord of men.
 
-**2.63.8**  Vaishampayana said: Having heard the words of Radheya (Karna), King Duryodhana then said this to Yudhishthira, who had fallen silent and was senseless:
+**2.63.8**  Vaiśaṃpāyana said: Having heard the words of Rādheya (Karṇa), King Duryodhana then said this to Yudhiṣṭhira, who had fallen silent and was senseless:
 
-**2.63.9**  "Bhima, Arjuna, and the twin brothers are standing under your command, O king. Speak the answer to the question yourself — do you consider Krishna (Draupadi) to be unconquered?"
+**2.63.9**  "Bhīma, Arjuna, and the twin brothers are standing under your command, O king. Speak the answer to the question yourself — do you consider Kṛṣṇa (Draupadī) to be unconquered?"
 
-**2.63.10**  Having said this, he cast aside his own garment and, as if smiling, looked at the Panchali woman, deluded by the intoxication of lordship.
+**2.63.10**  Having said this, he cast aside his own garment and, as if smiling, looked at the Pāñcālī woman, deluded by the intoxication of lordship.
 
 **2.63.11**  His thigh, resembling the trunk of a banana tree, adorned with all auspicious marks, like the trunk of an elephant, with the weight and solidity of a thunderbolt —
 
-**2.63.12**  — smiling scornfully at Radheya and as if challenging Bhima, he displayed his left thigh to the watching Draupadi.
+**2.63.12**  — smiling scornfully at Rādheya and as if challenging Bhīma, he displayed his left thigh to the watching Draupadī.
 
-**2.63.13**  Vrikodara (Bhima), seeing that, widened his eyes until they were bloodshot, and spoke in the midst of the kings, as if making the assembly hear:
+**2.63.13**  Vṛkodara (Bhīma), seeing that, widened his eyes until they were bloodshot, and spoke in the midst of the kings, as if making the assembly hear:
 
-**2.63.14**  "Let Vrikodara not attain the same world as his fathers if I do not shatter this thigh of yours with my mace in the great battle!"
+**2.63.14**  "Let Vṛkodara not attain the same world as his fathers if I do not shatter this thigh of yours with my mace in the great battle!"
 
 **2.63.15**  From all the apertures of that enraged man, flames of fire poured forth, like from the hollows of a burning tree.
 
-**2.63.16**  Vidura said: See the great fear from Bhimasena! Understand — it is like the noose of King Varuna. Surely this great calamity has arisen before us among the Bharatas, driven by fate.
+**2.63.16**  Vidura said: See the great fear from Bhīmasena! Understand — it is like the noose of King Varuṇa. Surely this great calamity has arisen before us among the Bharatas, driven by fate.
 
-**2.63.17**  O sons of Dhritarashtra, this gambling has gone too far. You who are quarreling over this woman in the assembly — great danger is seen for your welfare and security. The Kurus are taking evil counsel.
+**2.63.17**  O sons of Dhṛtarāṣṭra, this gambling has gone too far. You who are quarreling over this woman in the assembly — great danger is seen for your welfare and security. The Kurus are taking evil counsel.
 
 **2.63.18**  Know this dharma quickly, O Kurus! In this evil sight, the assembly would become corrupted. If the gambler had staked her first (before himself), he would have been the lord with an unconquered self.
 
-**2.63.19**  Just as wealth won in a dream is unreal — I think the same of the winning of one who gambles without being his own master. Having heard the son of Gandhari's words, O Kurus, do not stray from this dharma.
+**2.63.19**  Just as wealth won in a dream is unreal — I think the same of the winning of one who gambles without being his own master. Having heard the son of Gāndhārī's words, O Kurus, do not stray from this dharma.
 
-**2.63.20**  Duryodhana said: I stand by Bhima's words and likewise Arjuna's, and by those of the twins too. If they declare Yudhishthira to be his own master, then Yajnaseni, you shall be freed from slavery.
+**2.63.20**  Duryodhana said: I stand by Bhīma's words and likewise Arjuna's, and by those of the twins too. If they declare Yudhiṣṭhira to be his own master, then Yājñasenī, you shall be freed from slavery.
 
-**2.63.21**  Arjuna said: The king was the master in our gambling — the great-souled Dharmaraja, son of Kunti. But now this master, whose self has been defeated — of whom is he master? Know this, all you Kurus.
+**2.63.21**  Arjuna said: The king was the master in our gambling — the great-souled Dharmarāja, son of Kuntī. But now this master, whose self has been defeated — of whom is he master? Know this, all you Kurus.
 
-**2.63.22**  Vaishampayana said: Then, O king, in King Dhritarashtra's house, a jackal cried out loudly at the sacred fire; donkeys brayed in response to it, and fierce birds cried out all around.
+**2.63.22**  Vaiśaṃpāyana said: Then, O king, in King Dhṛtarāṣṭra's house, a jackal cried out loudly at the sacred fire; donkeys brayed in response to it, and fierce birds cried out all around.
 
-**2.63.23**  That terrible sound was heard by Vidura, the knower of truth, and by Subala's daughter (Gandhari), and by Bhishma, Drona, and the learned Gautama — and they all cried out "Svasti! Svasti!" (May there be peace!) loudly.
+**2.63.23**  That terrible sound was heard by Vidura, the knower of truth, and by Subala's daughter (Gāndhārī), and by Bhīṣma, Droṇa, and the learned Gautama — and they all cried out "Svasti! Svasti!" (May there be peace!) loudly.
 
-**2.63.24**  Then Gandhari and the wise Vidura, observing that terrible omen, reported it to the king with distress; and then the king spoke these words:
+**2.63.24**  Then Gāndhārī and the wise Vidura, observing that terrible omen, reported it to the king with distress; and then the king spoke these words:
 
-**2.63.25**  "You are destroyed, Duryodhana, dull-witted one! You who address a woman in the assembly of the Kuru chiefs, O ill-mannered one — and especially Draupadi, the dharma-devoted wife."
+**2.63.25**  "You are destroyed, Duryodhana, dull-witted one! You who address a woman in the assembly of the Kuru chiefs, O ill-mannered one — and especially Draupadī, the dharma-devoted wife."
 
-**2.63.26**  Having said this, the wise Dhritarashtra, seeker of the welfare of his kinsmen, departed; then he spoke with conciliation to Krishna the Panchali woman, having considered the matter with his wisdom and true discernment.
+**2.63.26**  Having said this, the wise Dhṛtarāṣṭra, seeker of the welfare of his kinsmen, departed; then he spoke with conciliation to Kṛṣṇa the Pāñcālī woman, having considered the matter with his wisdom and true discernment.
 
-**2.63.27**  Dhritarashtra said: Choose a boon from me, Panchali — whatever you desire; for among my daughters-in-law you are foremost, devoted to dharma, a good woman.
+**2.63.27**  Dhṛtarāṣṭra said: Choose a boon from me, Pāñcālī — whatever you desire; for among my daughters-in-law you are foremost, devoted to dharma, a good woman.
 
-**2.63.28**  Draupadi said: If you grant me a boon, O bull of the Bharatas, I choose this: let the glorious Yudhishthira, follower of all dharma, be no slave.
+**2.63.28**  Draupadī said: If you grant me a boon, O bull of the Bharatas, I choose this: let the glorious Yudhiṣṭhira, follower of all dharma, be no slave.
 
 **2.63.29**  So that children, not knowing him to be a noble soul, may not say of Prativindhya as he comes to them: 'This is the son of a slave.'
 
 **2.63.30**  Having been a prince before, pampered as no other man anywhere — seeing himself become the son of a slave, he would surely perish, O Bharata.
 
-**2.63.31**  Dhritarashtra said: A second boon I give you, dear lady — ask it of me; for my mind is pleased and you deserve more than one boon.
+**2.63.31**  Dhṛtarāṣṭra said: A second boon I give you, dear lady — ask it of me; for my mind is pleased and you deserve more than one boon.
 
-**2.63.32**  Draupadi said: As a second boon I choose Bhimasena and Dhananjaya, both with their chariots and bows, and Nakula and Sahadeva.
+**2.63.32**  Draupadī said: As a second boon I choose Bhīmasena and Dhanañjaya, both with their chariots and bows, and Nakula and Sahadeva.
 
-**2.63.33**  Dhritarashtra said: Choose a third boon from me — you are not honored by just two; for among all my daughters-in-law you are the best, a walker of the path of dharma.
+**2.63.33**  Dhṛtarāṣṭra said: Choose a third boon from me — you are not honored by just two; for among all my daughters-in-law you are the best, a walker of the path of dharma.
 
-**2.63.34**  Draupadi said: Greed destroys dharma, my lord; I do not venture to accept an undeserved boon — I am unworthy to take a third boon, O best of kings.
+**2.63.34**  Draupadī said: Greed destroys dharma, my lord; I do not venture to accept an undeserved boon — I am unworthy to take a third boon, O best of kings.
 
-**2.63.35**  They say a Vaishya woman merits one boon, a Kshatriya woman two boons, a king three boons, O king of kings, and for a Brahmin, a hundred boons.
+**2.63.35**  They say a Vaiśya woman merits one boon, a Kṣatriya woman two boons, a king three boons, O king of kings, and for a Brahmin, a hundred boons.
 
 **2.63.36**  My husbands, having been made sinful, are now rescued; they will know all good things through meritorious deeds, O king.
 
-**2.64.1**  Karna said: Among women honored for their beauty among men — we have never heard of such a deed as this by any of them.
+**2.64.1**  Karṇa said: Among women honored for their beauty among men — we have never heard of such a deed as this by any of them.
 
-**2.64.2**  While the Parthas were seized by anger, and the sons of Dhritarashtra were too, Draupadi — Krishna — became the peace of the sons of Pandu here.
+**2.64.2**  While the Pārthas were seized by anger, and the sons of Dhṛtarāṣṭra were too, Draupadī — Kṛṣṇa — became the peace of the sons of Pāṇḍu here.
 
-**2.64.3**  For the sons of Pandu sinking in waters without a raft, drowning in the fathomless deep, this Panchali woman became the boat that took them to the other shore.
+**2.64.3**  For the sons of Pāṇḍu sinking in waters without a raft, drowning in the fathomless deep, this Pāñcālī woman became the boat that took them to the other shore.
 
-**2.64.4**  Vaishampayana said: Hearing that, Bhimasena, deeply wrathful in the midst of the Kurus, said with great anguish: "A woman is the resort of the sons of Pandu!"
+**2.64.4**  Vaiśaṃpāyana said: Hearing that, Bhīmasena, deeply wrathful in the midst of the Kurus, said with great anguish: "A woman is the resort of the sons of Pāṇḍu!"
 
 **2.64.5**  "Three lights of a man," Devala indeed said: "offspring, deeds, and learning — from these the people are created."
 
 **2.64.6**  "These three of a man are reborn from a body that has become impure, that has lost life, that is empty, abandoned by kinsmen."
 
-**2.64.7**  "That light of ours has been struck down by the touching of our wives, Dhananjaya — how indeed could there be offspring born of the defiled?"
+**2.64.7**  "That light of ours has been struck down by the touching of our wives, Dhanañjaya — how indeed could there be offspring born of the defiled?"
 
 **2.64.8**  Arjuna said: Whether addressed or unaddressed, cruel and base words — the highest men among the Bharatas never babble such things back; the truly excellent men do so always.
 
 **2.64.9**  The good, responding rightly and having gained certainty within themselves, remember only the good deeds done to them, never the enmities.
 
-**2.64.10**  Bhima said: Right here I will swiftly slay all these enemies gathered together — or, having gone out, cut them down root and all, O king of kings, O Bharata.
+**2.64.10**  Bhīma said: Right here I will swiftly slay all these enemies gathered together — or, having gone out, cut them down root and all, O king of kings, O Bharata.
 
 **2.64.11**  What is the use of arguing here? What is the use of suffering, O Bharata? This very day I will slay them here — command us over this earth.
 
-**2.64.12**  Vaishampayana said: Having said this, Bhimasena, surrounded by his younger brothers, looked repeatedly at his iron bar as a lion among deer.
+**2.64.12**  Vaiśaṃpāyana said: Having said this, Bhīmasena, surrounded by his younger brothers, looked repeatedly at his iron bar as a lion among deer.
 
 **2.64.13**  Being soothed and fanned by Arjuna of untiring action, the mighty-armed hero, powerful in valor, sweated with the inner burning of his rage.
 
@@ -4296,23 +4296,23 @@ translator: thothica
 
 **2.64.15**  His face, terrible to behold with its knitted brows, became like that of Death personified when the end of a cosmic age has arrived.
 
-**2.64.16**  Yudhishthira, restraining that mighty-armed one with his own arm, said to him: "Do not do so" — and "Be still," O Bharata.
+**2.64.16**  Yudhiṣṭhira, restraining that mighty-armed one with his own arm, said to him: "Do not do so" — and "Be still," O Bharata.
 
-**2.64.17**  Having restrained that mighty-armed one whose eyes were reddened with anger, he approached his elder Dhritarashtra with folded hands.
+**2.64.17**  Having restrained that mighty-armed one whose eyes were reddened with anger, he approached his elder Dhṛtarāṣṭra with folded hands.
 
-**2.65.1**  Yudhishthira said: O king, what shall we do for you? Command us — you are the lord. We always wish to remain under your command, O Bharata.
+**2.65.1**  Yudhiṣṭhira said: O king, what shall we do for you? Command us — you are the lord. We always wish to remain under your command, O Bharata.
 
-**2.65.2**  Dhritarashtra said: May good fortune be yours, Ajatashatru — go unharmed, in peace. You are hereby dismissed with your wealth; rule your own kingdom.
+**2.65.2**  Dhṛtarāṣṭra said: May good fortune be yours, Ajātaśatru — go unharmed, in peace. You are hereby dismissed with your wealth; rule your own kingdom.
 
 **2.65.3**  But this teaching of mine, an old man, is to be understood: it is spoken with wisdom in full, beneficial, and supremely for your wellbeing.
 
-**2.65.4**  You know the subtle course of dharmas, dear Yudhishthira; you are well-bred, greatly wise, an attendant of the elders.
+**2.65.4**  You know the subtle course of dharmas, dear Yudhiṣṭhira; you are well-bred, greatly wise, an attendant of the elders.
 
 **2.65.5**  Where there is wisdom, there is peace — seek calm, O Bharata. A weapon does not move against what is not split; a weapon is brought down only against what is split (divided).
 
 **2.65.6**  Those highest of men do not know enmities, do not see faults but only virtues, and do not arrive at opposition.
 
-**2.65.7**  In a dispute, the basest of men speak harsh words, O Yudhishthira; the middling, when spoken to harshly, speak harsh words in return.
+**2.65.7**  In a dispute, the basest of men speak harsh words, O Yudhiṣṭhira; the middling, when spoken to harshly, speak harsh words in return.
 
 **2.65.8**  Whether addressed or not addressed, the wise — the highest of men — never babble back hostile, harsh words; this is always so.
 
@@ -4320,75 +4320,75 @@ translator: thothica
 
 **2.65.10**  Such is the noble conduct you have shown in this assembly of the good — do not take Duryodhana's harshness to heart, dear son.
 
-**2.65.11**  Regard also your mother Gandhari and me, longing for your virtues — your old, blind father who stands before you, O Bharata.
+**2.65.11**  Regard also your mother Gāndhārī and me, longing for your virtues — your old, blind father who stands before you, O Bharata.
 
 **2.65.12**  This gambling was overlooked by me after observation, desiring to see the strength and weakness of friends and of my sons.
 
 **2.65.13**  The Kurus need not be grieved over, O king, when you are their guide and Vidura, the wise counselor versed in all the shastras, is their minister.
 
-**2.65.14**  In you resides dharma, in Arjuna valor, in Bhimasena prowess; and faith and service to elders belong to the twin brothers, those foremost of men.
+**2.65.14**  In you resides dharma, in Arjuna valor, in Bhīmasena prowess; and faith and service to elders belong to the twin brothers, those foremost of men.
 
-**2.65.15**  May good fortune be yours, Ajatashatru — enter Khandavaprastha; let there be brotherhood among your brothers; let your mind be fixed on dharma.
+**2.65.15**  May good fortune be yours, Ajātaśatru — enter Khāṇḍavaprastha; let there be brotherhood among your brothers; let your mind be fixed on dharma.
 
-**2.65.16**  Vaishampayana said: Thus addressed, the best of the Bharatas, Dharmaraja Yudhishthira, having made noble farewells to all, departed together with his brothers.
+**2.65.16**  Vaiśaṃpāyana said: Thus addressed, the best of the Bharatas, Dharmarāja Yudhiṣṭhira, having made noble farewells to all, departed together with his brothers.
 
-**2.65.17**  Mounting their cloud-like chariots together with Krishna (Draupadi), they set out with joyful minds toward Indraprastha, the foremost of cities.
+**2.65.17**  Mounting their cloud-like chariots together with Kṛṣṇa (Draupadī), they set out with joyful minds toward Indraprastha, the foremost of cities.
 
-**2.66.1**  Janamejaya said: Knowing those Pandavas to have been dismissed along with their accumulated jewels and wealth, what was then the mind of the sons of Dhritarashtra?
+**2.66.1**  Janamejaya said: Knowing those Pāṇḍavas to have been dismissed along with their accumulated jewels and wealth, what was then the mind of the sons of Dhṛtarāṣṭra?
 
-**2.66.2**  Vaishampayana said: Knowing those Pandavas to have been dismissed by the wise Dhritarashtra, O king, Duhshasana quickly went to his brother.
+**2.66.2**  Vaiśaṃpāyana said: Knowing those Pāṇḍavas to have been dismissed by the wise Dhṛtarāṣṭra, O king, Duḥśāsana quickly went to his brother.
 
-**2.66.3**  Approaching Duryodhana along with his ministers, O bull of the Bharatas, Duhshasana, tormented by grief, O foremost of the Bharatas, spoke these words.
+**2.66.3**  Approaching Duryodhana along with his ministers, O bull of the Bharatas, Duḥśāsana, tormented by grief, O foremost of the Bharatas, spoke these words.
 
 **2.66.4**  "That which was gathered with such difficulty, the old man is now destroying; he is handing over our wealth to our enemies — understand this, O great warriors!"
 
-**2.66.5**  Then Duryodhana, Karna, and Shakuni the son of Subala, proud in their enmity toward the Pandavas, came together in private counsel,
+**2.66.5**  Then Duryodhana, Karṇa, and Śakuni the son of Subala, proud in their enmity toward the Pāṇḍavas, came together in private counsel,
 
-**2.66.6**  and hastening to the wise king Dhritarashtra, son of Vichitravirya, they spoke these smooth words:
+**2.66.6**  and hastening to the wise king Dhṛtarāṣṭra, son of Vicitravīrya, they spoke these smooth words:
 
-**2.66.7**  Duryodhana said: "Have you not heard, O king, what the wise Brihaspati, preceptor of the gods, declared when expounding statecraft to Indra?
+**2.66.7**  Duryodhana said: "Have you not heard, O king, what the wise Bṛhaspati, preceptor of the gods, declared when expounding statecraft to Indra?
 
 **2.66.8**  Enemies must be destroyed by every means, O crusher of foes, before they do harm — before battle, before open force.
 
-**2.66.9**  If the Pandavas, using their wealth, honor all the kings and then fight us, what will remain of us to escape their reach?
+**2.66.9**  If the Pāṇḍavas, using their wealth, honor all the kings and then fight us, what will remain of us to escape their reach?
 
 **2.66.10**  Who would be right to release enraged venomous serpents that have come ready to bite, after placing them around his neck and back?
 
-**2.66.11**  The Pandavas, O father, armed and mounted on their chariots in anger, will annihilate us completely — for the enraged are like venomous serpents.
+**2.66.11**  The Pāṇḍavas, O father, armed and mounted on their chariots in anger, will annihilate us completely — for the enraged are like venomous serpents.
 
-**2.66.12**  Arjuna departs fully armored, having uncovered his great quiver, taking up the Gandiva bow again and again, breathing heavily and looking around.
+**2.66.12**  Arjuna departs fully armored, having uncovered his great quiver, taking up the Gāṇḍīva bow again and again, breathing heavily and looking around.
 
-**2.66.13**  And Vrikodara, raising his massive mace in haste, quickly yoked his chariot and departed — so we have heard.
+**2.66.13**  And Vṛkodara, raising his massive mace in haste, quickly yoked his chariot and departed — so we have heard.
 
 **2.66.14**  Nakula took up his sword and his shield adorned with eight moons; and Sahadeva and the king too showed their intentions by their gestures.
 
 **2.66.15**  All of them, mounting their chariots laden with many weapons, shaking the masses of vehicles, set out for the marshaling of the army.
 
-**2.66.16**  Those who have been so wronged by us will never forgive — and who among them could forgive the humiliation of Draupadi?
+**2.66.16**  Those who have been so wronged by us will never forgive — and who among them could forgive the humiliation of Draupadī?
 
-**2.66.17**  Let us gamble again — good fortune to you — with the Pandavas for the stake of forest exile; in this way we shall be able to bring them under our power, O bull of the Bharatas.
+**2.66.17**  Let us gamble again — good fortune to you — with the Pāṇḍavas for the stake of forest exile; in this way we shall be able to bring them under our power, O bull of the Bharatas.
 
 **2.66.18**  Either they, or we if defeated at dice, shall enter the great forest clad in the hides of deer.
 
 **2.66.19**  And the thirteenth year they must spend unrecognized among people; if recognized, another twelve years in the forest.
 
-**2.66.20**  So shall we or they dwell; let the game proceed thus — let the Pandavas throw the dice and play this second gambling match.
+**2.66.20**  So shall we or they dwell; let the game proceed thus — let the Pāṇḍavas throw the dice and play this second gambling match.
 
-**2.66.21**  This is the most necessary action for us, O king, O bull of the Bharatas; for Shakuni here knows the science and skill of dice.
+**2.66.21**  This is the most necessary action for us, O king, O bull of the Bharatas; for Śakuni here knows the science and skill of dice.
 
 **2.66.22**  We are firmly rooted in the kingdom, having gathered allies and honored a vast and formidable army of worth.
 
 **2.66.23**  And if they fulfill their vow in the thirteenth year, we shall still defeat them, O king — let this please you, O scorcher of foes."
 
-**2.66.24**  Dhritarashtra said: "Bring them back quickly, even though they have already set out on the road. Let them come back and let the Pandavas play this second game of dice."
+**2.66.24**  Dhṛtarāṣṭra said: "Bring them back quickly, even though they have already set out on the road. Let them come back and let the Pāṇḍavas play this second game of dice."
 
-**2.66.25**  Vaishampayana said: Then Drona, Somadatta, the great warrior Bahlika, Vidura, Drona's son, and the valiant son of Vaishya —
+**2.66.25**  Vaiśaṃpāyana said: Then Droṇa, Somadatta, the great warrior Bahlika, Vidura, Droṇa's son, and the valiant son of Vaiśya —
 
-**2.66.26**  Bhurishravas, the son of Shantanu, and the great warrior Vikarna — all of them said "No gambling!" and "Let there be peace!" in every way.
+**2.66.26**  Bhūriśravas, the son of Shantanu, and the great warrior Vikarṇa — all of them said "No gambling!" and "Let there be peace!" in every way.
 
-**2.66.27**  But Dhritarashtra, devoted to his son, issued the summons to the Pandavas even against the will of all his well-wishers who could see what was truly beneficial.
+**2.66.27**  But Dhṛtarāṣṭra, devoted to his son, issued the summons to the Pāṇḍavas even against the will of all his well-wishers who could see what was truly beneficial.
 
-**2.66.28**  Then Gandhari, wasted by grief, spoke righteously to the great king Dhritarashtra, lord of men, whose heart was swayed by love for his son:
+**2.66.28**  Then Gāndhārī, wasted by grief, spoke righteously to the great king Dhṛtarāṣṭra, lord of men, whose heart was swayed by love for his son:
 
 **2.66.29**  "When Duryodhana was born, the great-minded Vidura declared: 'This one, the defiler of the family, should rightly be sent to the other world.'
 
@@ -4396,7 +4396,7 @@ translator: thothica
 
 **2.66.31**  O lord, do not follow the counsel of these foolish and ill-bred boys; do not yourself become the cause of this terrible destruction of the family.
 
-**2.66.32**  Who would demolish a built dam? Who would blow upon a fire that is extinguished? Who, O Bharata, would provoke the Parthas who have been held in check by peace?
+**2.66.32**  Who would demolish a built dam? Who would blow upon a fire that is extinguished? Who, O Bharata, would provoke the Pārthas who have been held in check by peace?
 
 **2.66.33**  O Ajamidha, I remind you now as you yourself remember: scripture does not rule over the evil-minded — for their good or otherwise.
 
@@ -4404,191 +4404,191 @@ translator: thothica
 
 **2.66.35**  May the understanding born of peace, righteousness, and another's wisdom prevail in you — not the contrary, destructive kind; for prosperity, firm yet gentle, passes on to sons and grandsons.
 
-**2.66.36**  Then the great king replied to Gandhari who saw righteously: "Though my heart desires the good of the family, I am unable to restrain this.
+**2.66.36**  Then the great king replied to Gāndhārī who saw righteously: "Though my heart desires the good of the family, I am unable to restrain this.
 
-**2.66.37**  Let it be as they wish. Let the Pandavas come back; let my sons play the second gambling match together with the Pandavas."
+**2.66.37**  Let it be as they wish. Let the Pāṇḍavas come back; let my sons play the second gambling match together with the Pāṇḍavas."
 
-**2.67.1**  Vaishampayana said: Then the messenger Pratikamin addressed Yudhishthira the Partha, who had already set out on the road, conveying the words of the wise king Dhritarashtra:
+**2.67.1**  Vaiśaṃpāyana said: Then the messenger Pratikamin addressed Yudhiṣṭhira the Pārtha, who had already set out on the road, conveying the words of the wise king Dhṛtarāṣṭra:
 
-**2.67.2**  "The assembly hall is prepared, O king. After the dice have been cast, come, O Pandava — your father calls you to play, O Bharata."
+**2.67.2**  "The assembly hall is prepared, O king. After the dice have been cast, come, O Pāṇḍava — your father calls you to play, O Bharata."
 
-**2.67.3**  Yudhishthira said: "By the command of the Creator, beings receive their good and evil — there is no escape from either; if I must play again —
+**2.67.3**  Yudhiṣṭhira said: "By the command of the Creator, beings receive their good and evil — there is no escape from either; if I must play again —
 
 **2.67.4**  — a summons to dice-play, and by the command of the elder — knowing even that it leads to ruin, I do not dare to transgress it."
 
-**2.67.5**  Vaishampayana said: Speaking thus, the Pandava turned back with his brothers; though knowing the deceit of Shakuni, the Partha went again to the gambling match.
+**2.67.5**  Vaiśaṃpāyana said: Speaking thus, the Pāṇḍava turned back with his brothers; though knowing the deceit of Śakuni, the Pārtha went again to the gambling match.
 
 **2.67.6**  Those great warriors, bulls of the Bharatas, entered that assembly hall once again, distressing the hearts of their well-wishers.
 
 **2.67.7**  They sat down as they pleased, pressed onward by fate, for the conduct of a second gambling match — and for the destruction of all the world.
 
-**2.67.8**  Shakuni said: "The old man has released the wealth that was already won — it remains honored. But now hear this one great stake from me, O bull of the Bharatas:
+**2.67.8**  Śakuni said: "The old man has released the wealth that was already won — it remains honored. But now hear this one great stake from me, O bull of the Bharatas:
 
 **2.67.9**  We, defeated by you at dice, shall enter the great forest for twelve years, clad in the hides of the ruru deer —
 
 **2.67.10**  and the thirteenth year we shall spend unrecognized among people; if recognized, another twelve years in the forest.
 
-**2.67.11**  Or if you are conquered by us, you shall dwell in the forest for twelve years, together with Krishna, clad in deerskins.
+**2.67.11**  Or if you are conquered by us, you shall dwell in the forest for twelve years, together with Kṛṣṇa, clad in deerskins.
 
 **2.67.12**  And when the thirteenth year has passed, the proper kingdom is to be reclaimed — by one side or the other.
 
-**2.67.13**  With this as the agreed stake, come, Yudhishthira — throw the dice with us in this second gambling match, O Bharata."
+**2.67.13**  With this as the agreed stake, come, Yudhiṣṭhira — throw the dice with us in this second gambling match, O Bharata."
 
 **2.67.14**  The spectators in the assembly said: "Alas, shame! His kinsmen do not warn him of this great danger; and the bulls of the Bharatas themselves do not grasp with their own understanding what should be grasped by understanding."
 
-**2.67.15**  Vaishampayana said: Hearing these many murmurs of the people, the lord of men — from a sense of honor and from adherence to dharma — the Partha went again to the gambling match.
+**2.67.15**  Vaiśaṃpāyana said: Hearing these many murmurs of the people, the lord of men — from a sense of honor and from adherence to dharma — the Pārtha went again to the gambling match.
 
 **2.67.16**  Even knowing, the greatly intelligent one set the second game in motion, thinking: "Perhaps this will not be the destruction of the Kurus after all."
 
-**2.67.17**  Yudhishthira said: "How could a king like me, maintaining his own duty, turn back once summoned? I will play against you, O Shakuni."
+**2.67.17**  Yudhiṣṭhira said: "How could a king like me, maintaining his own duty, turn back once summoned? I will play against you, O Śakuni."
 
-**2.67.18**  Shakuni said: "Cattle and horses, many milk-cows beyond counting, goats and sheep, elephants, treasure, gold, and all male and female slaves —
+**2.67.18**  Śakuni said: "Cattle and horses, many milk-cows beyond counting, goats and sheep, elephants, treasure, gold, and all male and female slaves —
 
-**2.67.19**  this is our one single stake — forest exile for the Pandavas: either you or we, whichever is defeated, shall take refuge in the forest."
+**2.67.19**  this is our one single stake — forest exile for the Pāṇḍavas: either you or we, whichever is defeated, shall take refuge in the forest."
 
 **2.67.20**  "With this resolve, let us play, O bull of the Bharatas — with a single throw, for the stake of forest exile, O Bharata."
 
-**2.67.21**  Vaishampayana said: The Partha accepted the stake; the son of Subala threw the dice. "Won!" — thus Shakuni declared to Yudhishthira.
+**2.67.21**  Vaiśaṃpāyana said: The Pārtha accepted the stake; the son of Subala threw the dice. "Won!" — thus Śakuni declared to Yudhiṣṭhira.
 
-**2.68.1**  Vaishampayana said: Defeated, the Parthas resolved themselves to forest exile and took up their deerskins as upper garments, one by one in order.
+**2.68.1**  Vaiśaṃpāyana said: Defeated, the Pārthas resolved themselves to forest exile and took up their deerskins as upper garments, one by one in order.
 
-**2.68.2**  Seeing those subduer-of-foes clad in deerskins, their kingdom seized, setting out for forest exile, Duhshasana then spoke:
+**2.68.2**  Seeing those subduer-of-foes clad in deerskins, their kingdom seized, setting out for forest exile, Duḥśāsana then spoke:
 
-**2.68.3**  "The wheel of the great-souled king, son of Dhritarashtra, has rolled forward; the sons of Pandu are defeated and have fallen into supreme misfortune.
+**2.68.3**  "The wheel of the great-souled king, son of Dhṛtarāṣṭra, has rolled forward; the sons of Pāṇḍu are defeated and have fallen into supreme misfortune.
 
 **2.68.4**  Today the gods have departed by level paths, without obstacles; even those eldest in virtue, those elders — yet we are greater than our opponents.
 
-**2.68.5**  The Parthas have been cast into hell for a long and endless time; deprived of happiness and kingdom, they are ruined for eternal years.
+**2.68.5**  The Pārthas have been cast into hell for a long and endless time; deprived of happiness and kingdom, they are ruined for eternal years.
 
-**2.68.6**  Those who, intoxicated by strength, used to mock the sons of Dhritarashtra — those Pandavas, now defeated and their wealth seized, shall go to the forest.
+**2.68.6**  Those who, intoxicated by strength, used to mock the sons of Dhṛtarāṣṭra — those Pāṇḍavas, now defeated and their wealth seized, shall go to the forest.
 
 **2.68.7**  "Let them remove their colorful armor and their resplendent divine garments; let them all now put on ruru-deer hides — as they agreed to the stake of Subala's son."
 
-**2.68.8**  "Those who were always of the conviction that 'there are no men in the world like these' — those Pandavas will today know themselves in this reversal, like barren sesame plants bearing no fruit."
+**2.68.8**  "Those who were always of the conviction that 'there are no men in the world like these' — those Pāṇḍavas will today know themselves in this reversal, like barren sesame plants bearing no fruit."
 
-**2.68.9**  "For this is the fitting attire of such proud men, O Kaurava — may it not fall to us! Look at the Pandavas, those mighty ones, now like the uninitiated wearing deerskins."
+**2.68.9**  "For this is the fitting attire of such proud men, O Kaurava — may it not fall to us! Look at the Pāṇḍavas, those mighty ones, now like the uninitiated wearing deerskins."
 
-**2.68.10**  "The greatly wise Somaka Yajnasena did an evil deed by giving the Panchali maiden to the Pandavas; for the Parthas, husbands of Yajnaseni, are no more — they are as eunuchs now."
+**2.68.10**  "The greatly wise Somaka Yajñasena did an evil deed by giving the Pāñcālī maiden to the Pāṇḍavas; for the Pārthas, husbands of Yājñasenī, are no more — they are as eunuchs now."
 
-**2.68.11**  "Having seen these fine garments exchanged for deerskins, your husbands in the forest destitute and without standing — what joy will you find, O Yajnaseni? Choose another husband here whom you desire."
+**2.68.11**  "Having seen these fine garments exchanged for deerskins, your husbands in the forest destitute and without standing — what joy will you find, O Yājñasenī? Choose another husband here whom you desire."
 
 **2.68.12**  "All the Kurus assembled here are patient, self-controlled, and richly endowed with wealth. Choose one among them as a husband — this reversal of fortune need not burn you."
 
-**2.68.13**  "Like barren sesame plants bearing no fruit, like deer made of leather, like black barley — just so are all the Pandavas now."
+**2.68.13**  "Like barren sesame plants bearing no fruit, like deer made of leather, like black barley — just so are all the Pāṇḍavas now."
 
-**2.68.14**  "Why do you wait upon these fallen Pandavas? Service to barren sesame is wasted effort." Thus the son of Dhritarashtra, cruel and harsh, made the Parthas hear these words.
+**2.68.14**  "Why do you wait upon these fallen Pāṇḍavas? Service to barren sesame is wasted effort." Thus the son of Dhṛtarāṣṭra, cruel and harsh, made the Pārthas hear these words.
 
-**2.68.15**  Hearing that, Bhimasena, deeply furious, stepped forward suddenly, rebuked him loudly, seized him in his rage, and spoke these words — like a Himalayan lion to a jackal:
+**2.68.15**  Hearing that, Bhīmasena, deeply furious, stepped forward suddenly, rebuked him loudly, seized him in his rage, and spoke these words — like a Himalayan lion to a jackal:
 
-**2.68.16**  Bhimasena said: "O cruel one, you speak what is fitting only for the wicked, for those who have accomplished nothing; it is by the dice-skill of Gandhara that you boast in the midst of kings.
+**2.68.16**  Bhīmasena said: "O cruel one, you speak what is fitting only for the wicked, for those who have accomplished nothing; it is by the dice-skill of Gāndhāra that you boast in the midst of kings.
 
 **2.68.17**  Even as you pierce our vital points deeply here with word-arrows, so shall I remind you of it, cutting your vital points in battle.
 
 **2.68.18**  And those who follow you, enslaved by desire and greed — those protectors along with their kin — I shall drive to the abode of Yama."
 
-**2.68.19**  Vaishampayana said: While Bhima was speaking thus, clad in deerskins, overwhelmed with grief — bound to the path of dharma — Duhshasana danced around him in the midst of the Kurus, calling out "Cow! Cow!" utterly without shame.
+**2.68.19**  Vaiśaṃpāyana said: While Bhīma was speaking thus, clad in deerskins, overwhelmed with grief — bound to the path of dharma — Duḥśāsana danced around him in the midst of the Kurus, calling out "Cow! Cow!" utterly without shame.
 
-**2.68.20**  Bhimasena said: "What is cruel, harsh, and vicious — that indeed you are capable of, O Duhshasana. Having gained wealth by fraud, who deserves to boast?
+**2.68.20**  Bhīmasena said: "What is cruel, harsh, and vicious — that indeed you are capable of, O Duḥśāsana. Having gained wealth by fraud, who deserves to boast?
 
-**2.68.21**  May the Partha Vrikodara never attain the worlds of those who have done good deeds, if he does not drink your blood in battle after splitting open your chest."
+**2.68.21**  May the Pārtha Vṛkodara never attain the worlds of those who have done good deeds, if he does not drink your blood in battle after splitting open your chest."
 
-**2.68.22**  "Having slain the sons of Dhritarashtra in battle before the eyes of all the archers, I shall soon attain peace — this truth I declare to you."
+**2.68.22**  "Having slain the sons of Dhṛtarāṣṭra in battle before the eyes of all the archers, I shall soon attain peace — this truth I declare to you."
 
-**2.68.23**  Vaishampayana said: As Bhimasena moved with his lion-stride, king Duryodhana, that dull-witted one, joyfully mimicked Bhimasena's gait with his own gait, as the Pandavas were leaving the assembly hall.
+**2.68.23**  Vaiśaṃpāyana said: As Bhīmasena moved with his lion-stride, king Duryodhana, that dull-witted one, joyfully mimicked Bhīmasena's gait with his own gait, as the Pāṇḍavas were leaving the assembly hall.
 
-**2.68.24**  Vrikodara, turning back halfway, said to him: "This is not done with yet — I shall swiftly remind you of it after slaying you together with your kin, O fool."
+**2.68.24**  Vṛkodara, turning back halfway, said to him: "This is not done with yet — I shall swiftly remind you of it after slaying you together with your kin, O fool."
 
-**2.68.25**  Perceiving this insult upon himself, the mighty and proud Bhima, suppressing his rage, spoke these words as he departed from the assembly of the Kauravas in the king's retinue.
+**2.68.25**  Perceiving this insult upon himself, the mighty and proud Bhīma, suppressing his rage, spoke these words as he departed from the assembly of the Kauravas in the king's retinue.
 
-**2.68.26**  I shall slay Duryodhana; Dhananjaya shall slay Karna; and Sahadeva shall slay Shakuni, that dice-cheat of Gandhara.
+**2.68.26**  I shall slay Duryodhana; Dhanañjaya shall slay Karṇa; and Sahadeva shall slay Śakuni, that dice-cheat of Gāndhāra.
 
 **2.68.27**  And this further great vow I declare in the midst of the assembly — the gods shall make it true: there shall be war between us.
 
 **2.68.28**  I shall kill this sinful Suyodhana with my mace in battle, and I shall plant my foot upon his head on the ground.
 
-**2.68.29**  And the blood of this Duhshasana — this brave boaster of harsh words, this wicked soul — I shall drink like a lion.
+**2.68.29**  And the blood of this Duḥśāsana — this brave boaster of harsh words, this wicked soul — I shall drink like a lion.
 
-**2.68.30**  Arjuna said: O Bhima, what is resolved by words is not recognized as the resolve of the righteous. In fourteen years from now, we shall see what comes to pass.
+**2.68.30**  Arjuna said: O Bhīma, what is resolved by words is not recognized as the resolve of the righteous. In fourteen years from now, we shall see what comes to pass.
 
-**2.68.31**  The earth shall drink the blood of Duryodhana, Karna, the wicked Shakuni, and Duhshasana as the fourth.
+**2.68.31**  The earth shall drink the blood of Duryodhana, Karṇa, the wicked Śakuni, and Duḥśāsana as the fourth.
 
-**2.68.32**  The slanderer, the speaker of insults, the releaser of the wicked — at your command, O Bhimasena, I shall slay Karna in battle.
+**2.68.32**  The slanderer, the speaker of insults, the releaser of the wicked — at your command, O Bhīmasena, I shall slay Karṇa in battle.
 
-**2.68.33**  Arjuna vows, for the sake of Bhima's satisfaction, that he shall slay Karna and those who follow Karna in battle with his arrows.
+**2.68.33**  Arjuna vows, for the sake of Bhīma's satisfaction, that he shall slay Karṇa and those who follow Karṇa in battle with his arrows.
 
 **2.68.34**  And whatever other kings, deluded in their minds, shall fight against me — all of them I shall send to the abode of Yama with my sharp arrows.
 
-**2.68.35**  The Himalaya may move from its place, the sun may lose its splendor, the moon may lose its coolness — but my truth shall never waver.
+**2.68.35**  The Himālaya may move from its place, the sun may lose its splendor, the moon may lose its coolness — but my truth shall never waver.
 
 **2.68.36**  If Duryodhana does not restore the kingdom after fourteen years from now, this sworn truth shall come to pass — mark it well.
 
-**2.68.37**  Vaishampayana said: When the son of Pritha had thus spoken, the glorious and valiant Sahadeva, son of Madravati, raising his mighty arm,
+**2.68.37**  Vaiśaṃpāyana said: When the son of Pṛthā had thus spoken, the glorious and valiant Sahadeva, son of Mādravatī, raising his mighty arm,
 
 **2.68.38**  eager to slay the son of Subala, spoke these words with eyes red with rage, hissing like a serpent:
 
-**2.68.39**  O fool, O destroyer of the glory of Gandhara! Those dice you think so highly of — know that these are not dice but sharpened arrows that you have chosen in battle.
+**2.68.39**  O fool, O destroyer of the glory of Gāndhāra! Those dice you think so highly of — know that these are not dice but sharpened arrows that you have chosen in battle.
 
-**2.68.40**  As Bhima has already declared concerning you and your kinsmen, I shall perform that very deed. Do all that you need to do.
+**2.68.40**  As Bhīma has already declared concerning you and your kinsmen, I shall perform that very deed. Do all that you need to do.
 
 **2.68.41**  I shall swiftly slay you and your kinsmen in battle by my valor, if you stand firm in combat according to the dharma of the warrior class, O Saubala.
 
 **2.68.42**  O lord of the people, having heard Sahadeva's words, Nakula — the most handsome among men — also spoke these words:
 
-**2.68.43**  This daughter of Yajnasena — at this dice match those who stood in favor of Duryodhana, the sons of Dhritarashtra, caused her to hear such harsh words.
+**2.68.43**  This daughter of Yajñasena — at this dice match those who stood in favor of Duryodhana, the sons of Dhṛtarāṣṭra, caused her to hear such harsh words.
 
-**2.68.44**  Those ill-conducted sons of Dhritarashtra, who seek their own death and are driven by fate — I shall show them in full measure the abode of Vivasvat's son, Yama.
+**2.68.44**  Those ill-conducted sons of Dhṛtarāṣṭra, who seek their own death and are driven by fate — I shall show them in full measure the abode of Vivasvat's son, Yama.
 
-**2.68.45**  Following the command of the king of dharma, and walking the path of Draupadi, I shall before long make this earth free of the sons of Dhritarashtra.
+**2.68.45**  Following the command of the king of dharma, and walking the path of Draupadī, I shall before long make this earth free of the sons of Dhṛtarāṣṭra.
 
-**2.68.46**  Thus those tiger-men, all long-armed, having made many vows, approached Dhritarashtra.
+**2.68.46**  Thus those tiger-men, all long-armed, having made many vows, approached Dhṛtarāṣṭra.
 
-**2.69.1**  Yudhishthira said: I take leave of the Bharatas, and also of the aged grandfather Bhishma, of King Somadatta, and of the great king Bahlika.
+**2.69.1**  Yudhiṣṭhira said: I take leave of the Bharatas, and also of the aged grandfather Bhīṣma, of King Somadatta, and of the great king Bahlika.
 
-**2.69.2**  I take leave of Drona, Kripa, and the other kings, of Ashvatthama, of Vidura, of Dhritarashtra, and of all the sons of Dhritarashtra.
+**2.69.2**  I take leave of Droṇa, Kṛpa, and the other kings, of Aśvatthāmā, of Vidura, of Dhṛtarāṣṭra, and of all the sons of Dhṛtarāṣṭra.
 
-**2.69.3**  Taking leave of Yuyutsu, Sanjaya, and likewise all the other members of the assembly, I depart. I shall see you all again upon my return.
+**2.69.3**  Taking leave of Yuyutsu, Sañjaya, and likewise all the other members of the assembly, I depart. I shall see you all again upon my return.
 
-**2.69.4**  Vaishampayana said: Overcome with shame, they said nothing at all to Yudhishthira. Only in their minds did those righteous ones wish well to that wise king.
+**2.69.4**  Vaiśaṃpāyana said: Overcome with shame, they said nothing at all to Yudhiṣṭhira. Only in their minds did those righteous ones wish well to that wise king.
 
-**2.69.5**  Vidura said: The noble Pritha, princess by birth, ought not to go to the forest. She is delicate, old, and always accustomed to ease and comfort.
+**2.69.5**  Vidura said: The noble Pṛthā, princess by birth, ought not to go to the forest. She is delicate, old, and always accustomed to ease and comfort.
 
-**2.69.6**  This auspicious lady shall dwell here, well honored in my house. Know this, O sons of Pritha. May you all be free from disease.
+**2.69.6**  This auspicious lady shall dwell here, well honored in my house. Know this, O sons of Pṛthā. May you all be free from disease.
 
-**2.69.7**  Know this word of mine, O Yudhishthira, O bull among Bharatas: no one who has been defeated by adharma is truly afflicted by defeat.
+**2.69.7**  Know this word of mine, O Yudhiṣṭhira, O bull among Bharatas: no one who has been defeated by adharma is truly afflicted by defeat.
 
-**2.69.8**  You are the knower of dharma; Dhananjaya is the knower of battle; Bhimasena is the slayer of enemies; Nakula is the gatherer of resources.
+**2.69.8**  You are the knower of dharma; Dhanañjaya is the knower of battle; Bhīmasena is the slayer of enemies; Nakula is the gatherer of resources.
 
-**2.69.9**  Sahadeva is the controller; Dhaumya is the foremost knower of Brahman; and Draupadi is skilled in dharma and artha, a woman who walks the path of dharma.
+**2.69.9**  Sahadeva is the controller; Dhaumya is the foremost knower of Brahman; and Draupadī is skilled in dharma and artha, a woman who walks the path of dharma.
 
 **2.69.10**  You are all dear to one another, and likewise speak kindly to one another; you are unbreakable by enemies and content. Who among men here would not envy you?
 
-**2.69.11**  This, O Bharata, is the all-auspicious resolution that you have — no enemy can withstand it, even one equal to Shakra himself. Be steadfast.
+**2.69.11**  This, O Bharata, is the all-auspicious resolution that you have — no enemy can withstand it, even one equal to Śakra himself. Be steadfast.
 
-**2.69.12**  You were instructed long ago on the Himalayas by Meru-Savarni, and by Krishna Dvaipayana in the city of Varanavata.
+**2.69.12**  You were instructed long ago on the Himālayas by Meru-Savarni, and by Kṛṣṇa Dvaipāyana in the city of Vāraṇāvata.
 
-**2.69.13**  By Rama on the peak of Bhrigutunga, and by Shambhu on the banks of the Drishadvatī — you have also heard the teachings of the great sage Asita concerning Mount Anjana.
+**2.69.13**  By Rāma on the peak of Bhṛgutuṅga, and by Shambhu on the banks of the Dṛṣadvatī — you have also heard the teachings of the great sage Asita concerning Mount Añjana.
 
-**2.69.14**  Your priest Dhaumya is ever a beholder of Narada's wisdom. Do not in adversity lose that understanding which the sages have honored.
+**2.69.14**  Your priest Dhaumya is ever a beholder of Nārada's wisdom. Do not in adversity lose that understanding which the sages have honored.
 
-**2.69.15**  O Pandava, you surpass Pururavas son of Ila in wisdom; you surpass other kings in power; and you surpass the sages in your devotion to dharma.
+**2.69.15**  O Pāṇḍava, you surpass Purūravas son of Ila in wisdom; you surpass other kings in power; and you surpass the sages in your devotion to dharma.
 
-**2.69.16**  In Indra's sphere — steadfastness toward victory; in Yama's — restraint of wrath; in Kubera's — generosity; in Varuna's — self-control.
+**2.69.16**  In Indra's sphere — steadfastness toward victory; in Yama's — restraint of wrath; in Kubera's — generosity; in Varuṇa's — self-control.
 
 **2.69.17**  Self-giving and gentleness come from Soma; sustenance of life from the waters; forbearance from the earth; and full radiance from the orb of the sun.
 
-**2.69.18**  Know that strength comes from Vayu and that the self is born from the elements. May you all be free from affliction, may good be yours — I shall see you upon your return.
+**2.69.18**  Know that strength comes from Vāyu and that the self is born from the elements. May you all be free from affliction, may good be yours — I shall see you upon your return.
 
-**2.69.19**  In crises of duty, purpose, and hardship, and in all affairs whatsoever, act rightly and in accordance with the time, O Yudhishthira.
+**2.69.19**  In crises of duty, purpose, and hardship, and in all affairs whatsoever, act rightly and in accordance with the time, O Yudhiṣṭhira.
 
-**2.69.20**  You are bidden farewell here, O son of Kunti. May you fare well, O Bharata. We shall see you again when you return, your purpose accomplished and in safety.
+**2.69.20**  You are bidden farewell here, O son of Kuntī. May you fare well, O Bharata. We shall see you again when you return, your purpose accomplished and in safety.
 
-**2.69.21**  Vaishampayana said: Thus addressed, that Pandava of true valor said "So be it," and Yudhishthira, bowing to Bhishma and Drona, set forth.
+**2.69.21**  Vaiśaṃpāyana said: Thus addressed, that Pāṇḍava of true valor said "So be it," and Yudhiṣṭhira, bowing to Bhīṣma and Droṇa, set forth.
 
-**2.70.1**  Vaishampayana said: When he had set forth, Krishnaa — Draupadi — deeply afflicted with grief, went to the glorious Pritha and took leave of her, as did the other women present there.
+**2.70.1**  Vaiśaṃpāyana said: When he had set forth, Kṛṣṇā — Draupadī — deeply afflicted with grief, went to the glorious Pṛthā and took leave of her, as did the other women present there.
 
-**2.70.2**  Having duly offered salutations and embraces as was befitting, she desired to depart; then a great wailing arose in the inner quarters of the Pandavas.
+**2.70.2**  Having duly offered salutations and embraces as was befitting, she desired to depart; then a great wailing arose in the inner quarters of the Pāṇḍavas.
 
-**2.70.3**  And Kunti, deeply tormented, seeing Draupadi departing, spoke with voice faltering in grief, with great difficulty:
+**2.70.3**  And Kuntī, deeply tormented, seeing Draupadī departing, spoke with voice faltering in grief, with great difficulty:
 
 **2.70.4**  "Dear child, you must not grieve though this great calamity has befallen you. You know the dharma of women, and you are endowed with righteous conduct and behavior.
 
@@ -4602,7 +4602,7 @@ translator: thothica
 
 **2.70.9**  Saying "So be it," that goddess, her eyes streaming with tears, wearing a single blood-stained garment, with hair unbound, departed.
 
-**2.70.10**  Pritha followed after her as she went, crying out in grief. Then she saw all her sons stripped of their ornaments and fine garments,
+**2.70.10**  Pṛthā followed after her as she went, crying out in grief. Then she saw all her sons stripped of their ornaments and fine garments,
 
 **2.70.11**  their bodies covered with deerskins and bark cloth, with faces slightly downcast in shame, surrounded by enemies rejoicing and lamented by their friends.
 
@@ -4616,49 +4616,49 @@ translator: thothica
 
 **2.70.16**  How shall you dwell in the difficult and harsh forests, stripped of your wealth — you who are not weak in valor, courage, strength, enterprise, and splendor — and yet made wretched?
 
-**2.70.17**  If I had known that forest-exile was indeed certain for you, I would not have come to Hastinapura from Shatashrunga after the death of Pandu.
+**2.70.17**  If I had known that forest-exile was indeed certain for you, I would not have come to Hāstinapura from Shatashrunga after the death of Pāṇḍu.
 
 **2.70.18**  I consider your father fortunate — endowed with austerity and wisdom — who, before reaching the grief over sons, made his longing for heaven a cherished goal.
 
-**2.70.19**  And I consider blessed in every way Madri — the knower of dharma, the auspicious one — who today has attained that supreme state beyond the senses.
+**2.70.19**  And I consider blessed in every way Mādrī — the knower of dharma, the auspicious one — who today has attained that supreme state beyond the senses.
 
 **2.70.20**  Cursed is this fondness for life that was instilled in me through love, wisdom, and circumstance — I who am a sharer in suffering."
 
-**2.70.21**  Consoling Kunti as she lamented thus, and bowing to her, the Pandavas, bereft of joy, set forth for the forest.
+**2.70.21**  Consoling Kuntī as she lamented thus, and bowing to her, the Pāṇḍavas, bereft of joy, set forth for the forest.
 
-**2.70.22**  Vidura and the others, consoling the afflicted Kunti with words of reason, led her into Vidura's house, themselves more grieved than she, moving slowly.
+**2.70.22**  Vidura and the others, consoling the afflicted Kuntī with words of reason, led her into Vidura's house, themselves more grieved than she, moving slowly.
 
-**2.70.23**  And king Dhritarashtra, his mind overwhelmed with sorrow, sent word to Vidura: "Come quickly."
+**2.70.23**  And king Dhṛtarāṣṭra, his mind overwhelmed with sorrow, sent word to Vidura: "Come quickly."
 
-**2.70.24**  Then Vidura went to Dhritarashtra's dwelling. The agitated king Dhritarashtra, lord of men, questioned him.
+**2.70.24**  Then Vidura went to Dhṛtarāṣṭra's dwelling. The agitated king Dhṛtarāṣṭra, lord of men, questioned him.
 
-**2.71.1**  Dhritarashtra said: How does the son of Kunti, King Yudhishthira the dharmaraja, go? And Bhimasena, and the ambidextrous Arjuna, and those two sons of Madri?
+**2.71.1**  Dhṛtarāṣṭra said: How does the son of Kuntī, King Yudhiṣṭhira the dharmaraja, go? And Bhīmasena, and the ambidextrous Arjuna, and those two sons of Mādrī?
 
-**2.71.2**  And how does Dhaumya go? And the suffering Draupadi? O Vidura, I wish to hear all about the movements of their limbs and bearing.
+**2.71.2**  And how does Dhaumya go? And the suffering Draupadī? O Vidura, I wish to hear all about the movements of their limbs and bearing.
 
-**2.71.3**  Vidura said: The son of Kunti, Yudhishthira, goes covering his face with his garment. And Bhima the Pandava goes with his broad arms stretched wide.
+**2.71.3**  Vidura said: The son of Kuntī, Yudhiṣṭhira, goes covering his face with his garment. And Bhīma the Pāṇḍava goes with his broad arms stretched wide.
 
-**2.71.4**  Savyasachi, the ambidextrous Arjuna, follows the king scattering sand. The son of Madri, Sahadeva, goes with his face smeared.
+**2.71.4**  Savyasācī, the ambidextrous Arjuna, follows the king scattering sand. The son of Mādrī, Sahadeva, goes with his face smeared.
 
 **2.71.5**  Nakula, the most beautiful in the world, his entire body smeared with dust and his mind bewildered, follows the king.
 
-**2.71.6**  Krishnaa, with long eyes, beautiful, weeping, her face covered by her hair, follows the king.
+**2.71.6**  Kṛṣṇā, with long eyes, beautiful, weeping, her face covered by her hair, follows the king.
 
-**2.71.7**  Dhaumya, O lord of the people, goes along the roads chanting the Saman hymns of Yama and of Rudra, holding kusa grass in his hand.
+**2.71.7**  Dhaumya, O lord of the people, goes along the roads chanting the Sāman hymns of Yama and of Rudra, holding kusa grass in his hand.
 
-**2.71.8**  Dhritarashtra said: The Pandavas go in various forms and bearing. Explain this to me, O Vidura — why do they go in this manner?
+**2.71.8**  Dhṛtarāṣṭra said: The Pāṇḍavas go in various forms and bearing. Explain this to me, O Vidura — why do they go in this manner?
 
-**2.71.9**  Vidura said: Even though deceived by your sons, even though his kingdom and wealth have been taken, the mind of the wise Dharmaraja never wavers from dharma.
+**2.71.9**  Vidura said: Even though deceived by your sons, even though his kingdom and wealth have been taken, the mind of the wise Dharmarāja never wavers from dharma.
 
-**2.71.10**  That king, who is ever compassionate toward the sons of Dhritarashtra, O Bharata, inflamed with anger at the treachery done to him, does not open his eyes —
+**2.71.10**  That king, who is ever compassionate toward the sons of Dhṛtarāṣṭra, O Bharata, inflamed with anger at the treachery done to him, does not open his eyes —
 
-**2.71.11**  "Lest I burn the people with my terrible gaze" — it is for this reason that the Pandava king covers his face and so departs.
+**2.71.11**  "Lest I burn the people with my terrible gaze" — it is for this reason that the Pāṇḍava king covers his face and so departs.
 
-**2.71.12**  And why Bhima goes as he does — hear it from me as I describe it, O bull among Bharatas: "There is none equal to me in the strength of my arms" —
+**2.71.12**  And why Bhīma goes as he does — hear it from me as I describe it, O bull among Bharatas: "There is none equal to me in the strength of my arms" —
 
-**2.71.13**  it is for this reason that Bhima also goes with his broad arms stretched wide, displaying those arms — proud in the wealth of his arms, intending to perform deeds against his enemies befitting the treasure of those arms.
+**2.71.13**  it is for this reason that Bhīma also goes with his broad arms stretched wide, displaying those arms — proud in the wealth of his arms, intending to perform deeds against his enemies befitting the treasure of those arms.
 
-**2.71.14**  Pointing out the ranges of arrow-fall, Arjuna the son of Kunti — the ambidextrous one — walked behind the king, scattering sand as he went.
+**2.71.14**  Pointing out the ranges of arrow-fall, Arjuna the son of Kuntī — the ambidextrous one — walked behind the king, scattering sand as he went.
 
 **2.71.15**  "Just as this sand does not cling to him now, O Bharata, so too shall he release showers of arrows unstoppably upon his enemies."
 
@@ -4666,11 +4666,11 @@ translator: thothica
 
 **2.71.17**  "Let me not attract the minds of women along the road" — so thinking, O lord, Nakula covered his entire body with dust and walked on for that reason.
 
-**2.71.18**  Draupadi, clad in a single garment, weeping, her hair unbound, in her monthly season, her wet garment stained with blood, spoke these words.
+**2.71.18**  Draupadī, clad in a single garment, weeping, her hair unbound, in her monthly season, her wet garment stained with blood, spoke these words.
 
 **2.71.19**  "For whose sake I have come to this state — in the fourteenth year from now, their wives shall be widowed, their sons slain, their dear kinsmen destroyed."
 
-**2.71.20**  "Smeared with the blood of their kinsmen, their hair unbound, in their seasons, having performed such water-rites — thus shall the women enter Hastinapura."
+**2.71.20**  "Smeared with the blood of their kinsmen, their hair unbound, in their seasons, having performed such water-rites — thus shall the women enter Hāstinapura."
 
 **2.71.21**  The steadfast priest Dhaumya, having strewn the kusha-grass in the direction of the southwest, walked ahead singing the Sama hymns addressed to Yama, O Bharata.
 
@@ -4678,41 +4678,41 @@ translator: thothica
 
 **2.71.23**  "Alas, alas, our protectors are leaving — behold this sight!" — thus the citizens, stricken with great grief, cried out on all sides.
 
-**2.71.24**  Through such outward signs and gestures, conveying the resolve that lay within their minds, the noble sons of Kunti departed to the forest.
+**2.71.24**  Through such outward signs and gestures, conveying the resolve that lay within their minds, the noble sons of Kuntī departed to the forest.
 
-**2.71.25**  As these foremost of men departed from Hastinapura, lightning flashed in a cloudless sky and the earth trembled.
+**2.71.25**  As these foremost of men departed from Hāstinapura, lightning flashed in a cloudless sky and the earth trembled.
 
-**2.71.26**  Rahu swallowed the sun outside of an eclipse, O lord of the people; and a meteor fell, circling the city counter-clockwise before crashing down.
+**2.71.26**  Rāhu swallowed the sun outside of an eclipse, O lord of the people; and a meteor fell, circling the city counter-clockwise before crashing down.
 
 **2.71.27**  Flesh-eating creatures — vultures, jackals, and crows — cried out ominously at the temples, shrines, and on the ramparts and turrets.
 
-**2.71.28**  Such were these great evil omens as the Pandava went to the forest — portending, O king, the destruction of the Bharatas through your ill counsel.
+**2.71.28**  Such were these great evil omens as the Pāṇḍava went to the forest — portending, O king, the destruction of the Bharatas through your ill counsel.
 
-**2.71.29**  Narada, standing in the midst of the assembly hall before the Kurus, surrounded by great sages, spoke these dreadful words.
+**2.71.29**  Nārada, standing in the midst of the assembly hall before the Kurus, surrounded by great sages, spoke these dreadful words.
 
-**2.71.30**  "Fourteen years from now, the Kauravas shall be destroyed here — through the transgression of Duryodhana and by the might of Bhima and Arjuna."
+**2.71.30**  "Fourteen years from now, the Kauravas shall be destroyed here — through the transgression of Duryodhana and by the might of Bhīma and Arjuna."
 
 **2.71.31**  Having spoken thus, the greatest of divine sages, bearing the vast brahminical splendour, ascended to heaven and swiftly vanished.
 
-**2.71.32**  Then Duryodhana, Karna, and Shakuni the son of Subala regarded Drona as their island of refuge and surrendered the kingdom to him.
+**2.71.32**  Then Duryodhana, Karṇa, and Śakuni the son of Subala regarded Droṇa as their island of refuge and surrendered the kingdom to him.
 
-**2.71.33**  Then Drona spoke to the wrathful Duryodhana, to Duhshasana, to Karna, and to all the Bharatas.
+**2.71.33**  Then Droṇa spoke to the wrathful Duryodhana, to Duḥśāsana, to Karṇa, and to all the Bharatas.
 
-**2.71.34**  "The twice-born declare the Pandavas, sons of gods, to be inviolable. I, for my part, while I live, protect those who have sought my shelter to the best of my power.
+**2.71.34**  "The twice-born declare the Pāṇḍavas, sons of gods, to be inviolable. I, for my part, while I live, protect those who have sought my shelter to the best of my power.
 
-**2.71.35**  "The Dhartarashtras, together with the king, have gone over to my side with whole-souled devotion; I cannot in conscience abandon them — hence my conduct hereafter is rooted in fate.
+**2.71.35**  "The Dhārtarāṣṭras, together with the king, have gone over to my side with whole-souled devotion; I cannot in conscience abandon them — hence my conduct hereafter is rooted in fate.
 
-**2.71.36**  "The sons of Pandu, defeated, are going to the forest in accordance with dharma; and for twelve years these Kauravas shall dwell in the forest.
+**2.71.36**  "The sons of Pāṇḍu, defeated, are going to the forest in accordance with dharma; and for twelve years these Kauravas shall dwell in the forest.
 
-**2.71.37**  "Having lived the life of chastity, driven by anger and indignation, the Pandavas will bring back their enmity — to my sorrow."
+**2.71.37**  "Having lived the life of chastity, driven by anger and indignation, the Pāṇḍavas will bring back their enmity — to my sorrow."
 
 **2.71.38**  "Now, I had deprived Drupada of his kingdom in a quarrel over friendship; and in his fury, for the sake of a son to kill me, he performed a sacrifice, O Bharata.
 
-**2.71.39**  "Through the austerities of Yaja and Upayaja he obtained from the sacred fire Dhrishtadyumna, and from the midst of the altar the fair-waisted Draupadi.
+**2.71.39**  "Through the austerities of Yaja and Upayāja he obtained from the sacred fire Dhṛṣṭadyumna, and from the midst of the altar the fair-waisted Draupadī.
 
 **2.71.40**  "He is flame-hued, bow-bearing, clad in armour, quiver-bearing, divine-born yet subject to mortal law — therefore fear of him entered me.
 
-**2.71.41**  "The bull among men, the son of Prishata, has indeed gone over to their side, his life-breath set free for this purpose; therefore shall I fight all the harder against your enemies."
+**2.71.41**  "The bull among men, the son of Pṛṣata, has indeed gone over to their side, his life-breath set free for this purpose; therefore shall I fight all the harder against your enemies."
 
 **2.71.42**  "For it is well known in the world, and proclaimed far and wide, that he was born to slay me; surely this turn of time has come upon us through your doing.
 
@@ -4720,27 +4720,27 @@ translator: thothica
 
 **2.71.44**  "Perform great sacrifices, enjoy pleasures, give in charity — for fourteen years from now you shall suffer a great catastrophe.
 
-**2.71.45**  "Duryodhana, having heard this, act as you see fit; employ conciliation towards the Pandavas if you think it right."
+**2.71.45**  "Duryodhana, having heard this, act as you see fit; employ conciliation towards the Pāṇḍavas if you think it right."
 
-**2.71.46**  Vaishampayana said: Having heard Drona's words, Dhritarashtra spoke thus: "The preceptor speaks rightly. Vidura, bring the Pandavas back."
+**2.71.46**  Vaiśaṃpāyana said: Having heard Droṇa's words, Dhṛtarāṣṭra spoke thus: "The preceptor speaks rightly. Vidura, bring the Pāṇḍavas back."
 
-**2.71.47**  "Or if they will not return, let the Pandavas go honoured — with weapons, chariots, and infantry, provided with all enjoyments, O son."
+**2.71.47**  "Or if they will not return, let the Pāṇḍavas go honoured — with weapons, chariots, and infantry, provided with all enjoyments, O son."
 
-**2.72.1**  Vaishampayana said: When the sons of Pritha, defeated in that wicked game, had gone to the forest, anxiety seized Dhritarashtra, O great king.
+**2.72.1**  Vaiśaṃpāyana said: When the sons of Pṛthā, defeated in that wicked game, had gone to the forest, anxiety seized Dhṛtarāṣṭra, O great king.
 
-**2.72.2**  As Dhritarashtra, lord of the people, sat lost in thought, sighing, his mind distracted, Sanjaya spoke to him thus.
+**2.72.2**  As Dhṛtarāṣṭra, lord of the people, sat lost in thought, sighing, his mind distracted, Sañjaya spoke to him thus.
 
-**2.72.3**  "Having obtained the earth full of wealth, O lord of the earth, and having banished the Pandavas from the kingdom, O king, why do you grieve?"
+**2.72.3**  "Having obtained the earth full of wealth, O lord of the earth, and having banished the Pāṇḍavas from the kingdom, O king, why do you grieve?"
 
-**2.72.4**  Dhritarashtra said: "How should they not be grieved for, those with whom a great feud shall arise — with the Pandavas, mighty warriors eager for battle, who are like friends to great car-warriors?"
+**2.72.4**  Dhṛtarāṣṭra said: "How should they not be grieved for, those with whom a great feud shall arise — with the Pāṇḍavas, mighty warriors eager for battle, who are like friends to great car-warriors?"
 
-**2.72.5**  Sanjaya said: "This was well done by you, O king — a great enmity shall arise; the destruction of all the world along with its dependants shall come to pass."
+**2.72.5**  Sañjaya said: "This was well done by you, O king — a great enmity shall arise; the destruction of all the world along with its dependants shall come to pass."
 
-**2.72.6**  "Though restrained by Bhishma, by Drona, and by Vidura — Draupadi, the beloved wife of the Pandavas, the righteous one —
+**2.72.6**  "Though restrained by Bhīṣma, by Droṇa, and by Vidura — Draupadī, the beloved wife of the Pāṇḍavas, the righteous one —
 
 **2.72.7**  "— your son Duryodhana, foolish and shameless, sent the charioteer's son Pratikamin, saying 'Bring her here.'"
 
-**2.72.8**  Dhritarashtra said: "When the gods wish to bring ruin upon a man, they first remove his understanding; he then sees things in reverse."
+**2.72.8**  Dhṛtarāṣṭra said: "When the gods wish to bring ruin upon a man, they first remove his understanding; he then sees things in reverse."
 
 **2.72.9**  "When the intellect has become turbid and destruction stands at hand, what looks like wise counsel but is its opposite does not depart from the heart."
 
@@ -4748,52 +4748,52 @@ translator: thothica
 
 **2.72.11**  "Time does not cut off anyone's head by raising a stick; the power of Time is just this — the perception of things in reverse."
 
-**2.72.12**  "This dreadful, turbulent, hair-raising act was committed by those who dragged Panchali, the afflicted one, into the midst of the assembly hall —
+**2.72.12**  "This dreadful, turbulent, hair-raising act was committed by those who dragged Pāñcālī, the afflicted one, into the midst of the assembly hall —
 
 **2.72.13**  "— she who was not born of a womb, who is beautiful, born in a noble lineage, brilliant, knowing all dharma, glorious — who could dishonour such a one?"
 
 **2.72.14**  "Who would drag into the assembly hall a woman observing a woman's duty, of lovely form, stained with blood — except one made wicked by evil gambling?"
 
-**2.72.15**  "Panchali, clad in a single garment, gazed upon the Pandavas — those whose wealth was taken, whose minds were shattered, whose wives and prosperity were seized."
+**2.72.15**  "Pāñcālī, clad in a single garment, gazed upon the Pāṇḍavas — those whose wealth was taken, whose minds were shattered, whose wives and prosperity were seized."
 
 **2.72.16**  "Stripped of all their desires, reduced to the state of slaves, bound by the fetters of dharma, rendered incapable as if of all exertion."
 
-**2.72.17**  "To Krishna who was furious, indignant, and suffering in the Kuru assembly, Duryodhana and Karna spoke bitter words."
+**2.72.17**  "To Kṛṣṇa who was furious, indignant, and suffering in the Kuru assembly, Duryodhana and Karṇa spoke bitter words."
 
-**2.72.18**  "The earth itself might burn from the glance of her pitiable eyes — that any of my sons should survive today, Sanjaya!"
+**2.72.18**  "The earth itself might burn from the glance of her pitiable eyes — that any of my sons should survive today, Sañjaya!"
 
-**2.72.19**  "All the women of the Bharatas, gathered together with Gandhari, wailed terribly there upon seeing Krishna brought into the assembly hall."
+**2.72.19**  "All the women of the Bharatas, gathered together with Gāndhārī, wailed terribly there upon seeing Kṛṣṇa brought into the assembly hall."
 
-**2.72.20**  "The sacred fires were not invoked in the evening rite anywhere at all; the brahmins were enraged at the dragging of Draupadi."
+**2.72.20**  "The sacred fires were not invoked in the evening rite anywhere at all; the brahmins were enraged at the dragging of Draupadī."
 
-**2.72.21**  "There was a terrible thunderous roar, and a great clap without cloud; dreadful meteors fell from the sky, and Rahu swallowed the sun outside of eclipse — generating great terror among the people."
+**2.72.21**  "There was a terrible thunderous roar, and a great clap without cloud; dreadful meteors fell from the sky, and Rāhu swallowed the sun outside of eclipse — generating great terror among the people."
 
 **2.72.22**  "Likewise in the chariot-halls fire appeared on its own; and the battle-standards of the Bharatas shattered — portending their ruin."
 
 **2.72.23**  "Jackals cried out terribly at Duryodhana's sacrificial fire; and at that moment donkeys brayed in response from every direction."
 
-**2.72.24**  "Then Bhishma, O Sanjaya, departed together with Drona; as did Kripa, Somadatta, and the great car-warrior Bahlika."
+**2.72.24**  "Then Bhīṣma, O Sañjaya, departed together with Droṇa; as did Kṛpa, Somadatta, and the great car-warrior Bahlika."
 
-**2.72.25**  "Then I spoke there, urged on by Vidura: 'I grant a boon to Krishna — whatever she desires, whatever she wishes for.'"
+**2.72.25**  "Then I spoke there, urged on by Vidura: 'I grant a boon to Kṛṣṇa — whatever she desires, whatever she wishes for.'"
 
-**2.72.26**  "Panchali then chose the Pandavas of boundless might, with their chariots and their bows; and I too gave my assent to it."
+**2.72.26**  "Pāñcālī then chose the Pāṇḍavas of boundless might, with their chariots and their bows; and I too gave my assent to it."
 
-**2.72.27**  "Then the greatly wise Vidura, knower of all dharma, spoke: 'O Bharatas, you have reached the end of yourselves by the fact that Krishna was brought into the assembly.'"
+**2.72.27**  "Then the greatly wise Vidura, knower of all dharma, spoke: 'O Bharatas, you have reached the end of yourselves by the fact that Kṛṣṇa was brought into the assembly.'"
 
-**2.72.28**  "'This daughter of the Panchala king — this peerless goddess of fortune — Panchali approaches these Pandavas as one sent by fate.'"
+**2.72.28**  "'This daughter of the Pāñcāla king — this peerless goddess of fortune — Pāñcālī approaches these Pāṇḍavas as one sent by fate.'"
 
-**2.72.29**  "'The sons of Pritha, being highly intolerant, will not forgive the wrong done to her — nor will the mighty-armed Vrishnis, nor the greatly powerful Panchalas.'"
+**2.72.29**  "'The sons of Pṛthā, being highly intolerant, will not forgive the wrong done to her — nor will the mighty-armed Vṛṣṇis, nor the greatly powerful Pāñcālas.'"
 
-**2.72.30**  "'Protected by Vasudeva, that one true to his pledges, Arjuna shall come, guarded by the Panchalas.'"
+**2.72.30**  "'Protected by Vāsudeva, that one true to his pledges, Arjuna shall come, guarded by the Pāñcālas.'"
 
-**2.72.31**  "'In their midst, Bhimasena the great archer, of mighty strength, shall come brandishing his mace like the staff of Yama.'"
+**2.72.31**  "'In their midst, Bhīmasena the great archer, of mighty strength, shall come brandishing his mace like the staff of Yama.'"
 
-**2.72.32**  "'Then, having heard the twang of Arjuna's Gandiva and felt the impact of Bhima's mace, no king shall be able to withstand it.'"
+**2.72.32**  "'Then, having heard the twang of Arjuna's Gāṇḍīva and felt the impact of Bhīma's mace, no king shall be able to withstand it.'"
 
-**2.72.33**  "'In this matter, it has always seemed right to me that there be no conflict with the sons of Pritha; for I always consider the Pandavas more powerful than the Kurus.'"
+**2.72.33**  "'In this matter, it has always seemed right to me that there be no conflict with the sons of Pṛthā; for I always consider the Pāṇḍavas more powerful than the Kurus.'"
 
-**2.72.34**  "'For indeed the powerful king Jarasandha, of great splendour, was slain in battle by Bhima with his bare arms alone.'"
+**2.72.34**  "'For indeed the powerful king Jarāsandha, of great splendour, was slain in battle by Bhīma with his bare arms alone.'"
 
-**2.72.35**  "'Therefore let there be peace between you and the Pandavas, O bull of the Bharatas; let what is right for both sides be done without hesitation.'"
+**2.72.35**  "'Therefore let there be peace between you and the Pāṇḍavas, O bull of the Bharatas; let what is right for both sides be done without hesitation.'"
 
-**2.72.36**  "Thus Vidura, son of Gavalgana, spoke words encompassing both dharma and worldly good — and I did not accept them, being eager for the welfare of my son."
+**2.72.36**  "Thus Vidura, son of Gavalgaṇa, spoke words encompassing both dharma and worldly good — and I did not accept them, being eager for the welfare of my son."

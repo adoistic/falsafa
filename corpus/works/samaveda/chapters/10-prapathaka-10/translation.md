@@ -91,15 +91,15 @@ translator: thothica
 
 **10.36**  Agni is the seer, the purifier, the priest of the five peoples, the household priest. We implore him who is the great abode — whom the people bearing oblations praise with praises, as a friend with the pouring of clarified butter.
 
-**10.37**  O Agni, O thou of good deeds, purify yourself; bestow on us radiance and heroic strength. Grant wealth in me with delight — the Jatavedas who is most praiseworthy, who with godly power uplifted has carried the oblations to the sky.
+**10.37**  O Agni, O thou of good deeds, purify yourself; bestow on us radiance and heroic strength. Grant wealth in me with delight — the Jātavedas who is most praiseworthy, who with godly power uplifted has carried the oblations to the sky.
 
-**10.38**  Bring the gods and worship them — the wise, much-desired, guileless hotṛ-priest. We implore the sage Jatavedas with hymns of goodwill; may his favors of grace be ours.
+**10.38**  Bring the gods and worship them — the wise, much-desired, guileless hotṛ-priest. We implore the sage Jātavedas with hymns of goodwill; may his favors of grace be ours.
 
 **10.39**  Thee, O thou of wondrous radiance who seest the sun, we implore with streams of ghee. Bring the gods to the feast. Thee, O Agni, as the immortal messenger, age after age they have established as the bearer of oblations, the guardian worthy of praise. Both gods and mortals have sat down in reverence before thee, the vigilant, all-pervading lord of the people.
 
 **10.40**  O sage, we kindle thee, the brilliant one whose food is the offering-call. O great Agni, adorning the sacrifice — O naked one, following the ordinances of both, thou dost traverse the two realms as the messenger of the gods. That thought and good will of thine which we invoke — be our threefold shelter, be gracious.
 
-**10.41**  Worthy of praise in all thoughts, the pure ones stood in Vayu's van for the sake of glory.
+**10.41**  Worthy of praise in all thoughts, the pure ones stood in Vāyu's van for the sake of glory.
 
 **10.42**  O Agni, bring us wealth that is altogether victorious and most excellent, that is hard to overcome in all battles. He whose triple-natured sacred grass stands turned, lapping at the seat of the day — the waters too have established their place; purifying with their bodies, you two reign together by your own skill, bearing off what is eternally honored.
 

@@ -23,7 +23,7 @@ translator: thothica
 
 **4.2**  These soma juices, O Indra, bright and rich in sacred verse, have been pressed for your delight. Having drunk of the sweet, hear our hymns and give bounty to our praise, O lover of song.
 
-**4.3**  Today I call you who are born of the Gayatri hymn, you who are like a milch-cow yielding abundance — Indra, the divine milch-cow, another one yielding good milk, whose streams are broad and who is well prepared.
+**4.3**  Today I call you who are born of the Gāyatrī hymn, you who are like a milch-cow yielding abundance — Indra, the divine milch-cow, another one yielding good milk, whose streams are broad and who is well prepared.
 
 **4.4**  Not the great and solid mountains hold you back, O Indra. When you bestow wealth upon the one who praises you and worships you, no adversary diminishes your gift.
 
@@ -31,31 +31,31 @@ translator: thothica
 
 **4.6**  When, O Indra, you drive away from the seat the one who transgresses your command, O Maghavan, place our soma stalk — the one widely coveted — upon the sacrificial grass for the winning of wealth.
 
-**4.7**  May Tvashtri, Parjanya, and Brahmanaspati protect our divine speech. May Aditi with her sons and brothers protect us — our speech that is hard to cross and that is our refuge.
+**4.7**  May Tvaṣṭṛ, Parjanya, and Brahmaṇaspati protect our divine speech. May Aditi with her sons and brothers protect us — our speech that is hard to cross and that is our refuge.
 
 **4.8**  Never are you barren, O Indra, and you do not abandon the devout worshipper. O Maghavan, you become ever more abundant — truly, the gift of the divine one is extolled.
 
-**4.9**  Yoke your two bay horses, O Indra, greatest destroyer of Vritra, from the distant realm. Come near, O Maghavan, come here with your great steeds to drink the soma, O mighty one.
+**4.9**  Yoke your two bay horses, O Indra, greatest destroyer of Vṛtra, from the distant realm. Come near, O Maghavan, come here with your great steeds to drink the soma, O mighty one.
 
 **4.10**  You indeed, O thunderbolt-bearer, the men of abundant gifts enriched yesterday. So, O Indra, bearer of praise-songs, hear here — come to your own dwelling.
 
 **4.11**  The great waters cover darkness with the eye of sight; the skilled one makes light.
 
-**4.12**  These dawning invocations at daybreak call to you both, O Ashvins. I here invoke you both for help, O you rich in powers — for you go to every clan.
+**4.12**  These dawning invocations at daybreak call to you both, O Aśvins. I here invoke you both for help, O you rich in powers — for you go to every clan.
 
-**4.13**  Where are you, O Ashvins? Which mortal burns for you, O gods? Striking with your stony weapon by night, pressing out the soma-stalk — thus indeed you have come to him.
+**4.13**  Where are you, O Aśvins? Which mortal burns for you, O gods? Striking with your stony weapon by night, pressing out the soma-stalk — thus indeed you have come to him.
 
-**4.14**  This soma, most rich in sweetness, has been pressed for you both at the heavenly invocations. Drink it, O Ashvins, through the days and nights; bestow treasures upon the devout worshipper.
+**4.14**  This soma, most rich in sweetness, has been pressed for you both at the heavenly invocations. Drink it, O Aśvins, through the days and nights; bestow treasures upon the devout worshipper.
 
 **4.15**  I, the bowstring, always seeking you by the stream of soma — I have made the fierce one, like a wild beast, angry at the soma pressings. Who would not entreat the sovereign one?
 
-**4.16**  O Adhvaryu priest, pour out the soma swiftly — Indra thirsts. Now indeed he has yoked his two powerful bay horses and the Vritra-slayer has come here.
+**4.16**  O Adhvaryu priest, pour out the soma swiftly — Indra thirsts. Now indeed he has yoked his two powerful bay horses and the Vṛtra-slayer has come here.
 
-**4.17**  Bring then what surpasses that, O Indra — the greater beyond the lesser. For you have become Puruvasu, O Maghavan, and you are to be invoked in every battle and every conflict.
+**4.17**  Bring then what surpasses that, O Indra — the greater beyond the lesser. For you have become Purūvasu, O Maghavan, and you are to be invoked in every battle and every conflict.
 
 **4.18**  O Indra, if I were master of as much as you are master of, I would hold the praiser alone and I would not take delight in evil, O giver of wealth.
 
-**4.19**  You, O Indra, surpass all rivals in swift attacks. You are the slayer of the slanderer, the creator, the swift one who breaks through Vritra — you are the swift one who overcomes the attacker.
+**4.19**  You, O Indra, surpass all rivals in swift attacks. You are the slayer of the slanderer, the creator, the swift one who breaks through Vṛtra — you are the swift one who overcomes the attacker.
 
 **4.20**  He who has grown beyond the seats of heaven by his might — no earthly realm has encompassed you, O Indra; you have extended beyond all the universe.
 
@@ -63,7 +63,7 @@ translator: thothica
 
 **4.22**  Your seat, O Indra, has been made ready in the place of sacrifice — come forward thither with the men, O much-invoked one. Be our protector and our increaser; give us riches and be gladdened by the soma.
 
-**4.23**  You burst open the fountains and released their streams; you set free the floods that were bound and confined. When you, O Indra, split open the great mountain and let the streams flow down, when you smote the Danavas.
+**4.23**  You burst open the fountains and released their streams; you set free the floods that were bound and confined. When you, O Indra, split open the great mountain and let the streams flow down, when you smote the Dānavas.
 
 **4.24**  We who have pressed the soma, O Indra, praise you hoping to win the prize, O you whose wealth is prominently known. Bring to us good fortune whose shelter we may achieve with our bodies — may we be strengthened by your aid.
 
@@ -73,7 +73,7 @@ translator: thothica
 
 **4.27**  The birds with beautiful wings, the beloved-wisdom sages, calling upon him, have approached Indra. Roll away the darkness, fill the eye with sight, release us as if we were bound in traps.
 
-**4.28**  Upon the vault of heaven, as the beautiful-winged one flew, those longing in their hearts gazed upon you. The golden-winged bird, messenger of Varuna, the restless bird in the womb of Yama.
+**4.28**  Upon the vault of heaven, as the beautiful-winged one flew, those longing in their hearts gazed upon you. The golden-winged bird, messenger of Varuṇa, the restless bird in the womb of Yama.
 
 **4.29**  The first-born brahman from the east — the seeker revealed the shining one beyond the boundary. He, the highest, pervades all the foundations of this one; he opened the womb of both the existent and the nonexistent.
 
@@ -81,33 +81,33 @@ translator: thothica
 
 **4.31**  Indra by his power drove away the one who was blowing — he, the man-minded one, blew away the sticky hindrance.
 
-**4.32**  Frightened by Vritra's hissing, all the gods who were your companions abandoned you. Let friendship between you and the Maruts exist, O Indra — and thus you shall conquer all these armies.
+**4.32**  Frightened by Vṛtra's hissing, all the gods who were your companions abandoned you. Let friendship between you and the Maruts exist, O Indra — and thus you shall conquer all these armies.
 
 **4.33**  The gray-haired one swallowed the vigorous youth who was trembling in the assembly of many. Behold the power of the divine sage — he died today who was alive yesterday in the same assembly.
 
 **4.34**  You, O Indra, being born among the seven, became an enemy to those who had no enemy. You found heaven and earth in their hidden place and waged war with the wide-extended worlds.
 
-**4.35**  Like a pillar — you, the thunderbolt-bearer, the sharp one, the manifoldly renowned, the bull, firm in nourishment — you make your enemies yield, O Indra who desires to serve; I sing of the brilliant Vritra-slayer.
+**4.35**  Like a pillar — you, the thunderbolt-bearer, the sharp one, the manifoldly renowned, the bull, firm in nourishment — you make your enemies yield, O Indra who desires to serve; I sing of the brilliant Vṛtra-slayer.
 
 **4.36**  Bring forth praise to the great one, the greatly increasing, the far-sighted one; render good thought. Go forward through the many peoples, O you who fills all living beings.
 
-**4.37**  We would invoke for good fortune the bountiful Indra, the most manly in this battle, in the winning of prizes — the mighty one who listens, for our aid in conflicts, smiting the Vritras, winning wealth together.
+**4.37**  We would invoke for good fortune the bountiful Indra, the most manly in this battle, in the winning of prizes — the mighty one who listens, for our aid in conflicts, smiting the Vṛtras, winning wealth together.
 
-**4.38**  Rise up, send forth the brahman prayers seeking glory; magnify Indra in the battle, O Vasishtha. He who has stretched forth all things with his fame — may he hear my words as they approach.
+**4.38**  Rise up, send forth the brahman prayers seeking glory; magnify Indra in the battle, O Vasiṣṭha. He who has stretched forth all things with his fame — may he hear my words as they approach.
 
 **4.39**  The wheel set in the waters — let that sweet thing please him. The udder that is stretched upon the earth — the milk he placed in the cows and in the plants.
 
-**4.40**  We invoke here for our well-being Tarkshya, the swift one who goes into battle, whose wheel-rim is unharmed.
+**4.40**  We invoke here for our well-being Tārkṣya, the swift one who goes into battle, whose wheel-rim is unharmed.
 
 **4.41**  Indra the protector, Indra the helper, the easy-to-invoke warrior Indra in every invocation — I now invoke the mighty Indra, the much-invoked. May Indra the bountiful one take this oblation.
 
 **4.42**  We worship Indra with the thunderbolt in his right hand, the charioteer of the bay steeds of many ways. He who shakes his beard upward and onward, becoming terrible with his armies, advancing with his bounties.
 
-**4.43**  The all-smiting, the bold, the loud-voiced Indra, the great, the boundless, the bull, bearer of the fine thunderbolt — the slayer of Vritra who wins the prize, the bountiful Maghavan who gives riches, the excellent bestower.
+**4.43**  The all-smiting, the bold, the loud-voiced Indra, the great, the boundless, the bull, bearer of the fine thunderbolt — the slayer of Vṛtra who wins the prize, the bountiful Maghavan who gives riches, the excellent bestower.
 
 **4.44**  Whatever mortal assails us wishing to harm us, whether thinking himself fierce or swift — destroy him in battle, or with your strength, O Indra; may we overcome him, protected by your heroic might.
 
-**4.45**  He whom the peoples striving against Vritras invoke, whom those rushing in the yokings invoke, whom they invoke in the winning of heroes, whom the inspired ones urge on in the contest at the water's proximity — he is Indra.
+**4.45**  He whom the peoples striving against Vṛtras invoke, whom those rushing in the yokings invoke, whom they invoke in the winning of heroes, whom the inspired ones urge on in the contest at the water's proximity — he is Indra.
 
 **4.46**  O Indra and Parvata, bring here with your great chariot good nourishment, O you of good heroes. Enjoy the oblations at the sacrifice, O gods; grow great, gladdened with songs and praises.
 

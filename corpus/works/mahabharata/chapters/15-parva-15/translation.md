@@ -1150,7 +1150,7 @@ translator: thothica
 
 **15.28.15**  Draupadī too, her sons slain, and the radiant Subhadrā—those two ladies remained joyless and unrejoicing.
 
-**15.28.16**  Yet, beholding the son of Virāṭa's daughter, your father Parikṣit, those forefathers of yours clung still to their lives.
+**15.28.16**  Yet, beholding the son of Virāṭa's daughter, your father Parīkṣit, those forefathers of yours clung still to their lives.
 
 **15.29.1**  Vaiśaṃpāyana said: Thus those tigers among men, the Pāṇḍavas, delighters of their mother, those heroes, remembering her, became deeply afflicted with grief.
 
@@ -1830,7 +1830,7 @@ translator: thothica
 
 **15.43.5**  It would be dear to me, and I would be fulfilled and resolved of purpose; by the grace of the sage's son, may my desire be accomplished.
 
-**15.43.6**  The Sūta said: When the king had spoken these words, the mighty and wise Vyāsa showed his grace and brought forth Parikṣit.
+**15.43.6**  The Sūta said: When the king had spoken these words, the mighty and wise Vyāsa showed his grace and brought forth Parīkṣit.
 
 **15.43.7**  Then King Janamejaya beheld his glorious father, the king, come down from heaven in that very form and age.
 

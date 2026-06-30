@@ -609,15 +609,15 @@ translator: thothica
 
 **4.39.7**  He who leads armies together into combat, the sovereign one, who joins together the two kinds of prosperity; I praise Indra, as one seeking refuge I call upon him loudly — may he release us from sin.
 
-**4.40.1**  I drive away the calves for good fortune; I bind them to the tether-rope for good fortune. The first-offering, the oblation of the Brahmaṇas — over that Kaśyapa has kept vigil.
+**4.40.1**  I drive away the calves for good fortune; I bind them to the tether-rope for good fortune. The first-offering, the oblation of the Brāhmaṇas — over that Kaśyapa has kept vigil.
 
-**4.40.2**  Leading the calf forward by the foreleg, milking the cow into the vessel, he spoke: "May Kaśyapa make the oblation free from harm, auspicious for the Brahmaṇas."
+**4.40.2**  Leading the calf forward by the foreleg, milking the cow into the vessel, he spoke: "May Kaśyapa make the oblation free from harm, auspicious for the Brāhmaṇas."
 
 **4.40.3**  Three stand firm in the world of the well-performed rite; three shine forth beyond; these have three heads. Three stand firmly grasping the water-pot, so that the oblation, O Kaśyapa, may not go amiss.
 
-**4.40.4**  Born from truth, he speaks while scattering the rice-grains into the milk. May Kaśyapa the seer announce the first-offering to the Brahmaṇas.
+**4.40.4**  Born from truth, he speaks while scattering the rice-grains into the milk. May Kaśyapa the seer announce the first-offering to the Brāhmaṇas.
 
-**4.40.5**  At the opening of the season, Candrabhāga lifted the rice-dish out of the vessel. May the Brahmaṇas partake of the oblation, even as Kaśyapa does so in accordance with the Veda.
+**4.40.5**  At the opening of the season, Candrabhāga lifted the rice-dish out of the vessel. May the Brāhmaṇas partake of the oblation, even as Kaśyapa does so in accordance with the Veda.
 
 **4.40.6**  Those who brought the beings into creation, those who arranged the beings in order — Kaśyapa, the adhvaryu who knows all things, may he be the master of the six.
 

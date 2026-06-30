@@ -537,7 +537,7 @@ translator: thothica
 
 **20.28.3**  You who stand between our shadow among mortals and the fire — I cut away your root; no further shadow shall these hands of his make.
 
-**20.28.4**  Let the divine arrows strike him, let the Brahmaṇas strike him with wrath — him who, O Prajāpati, stands between us and the fire.
+**20.28.4**  Let the divine arrows strike him, let the Brāhmaṇas strike him with wrath — him who, O Prajāpati, stands between us and the fire.
 
 **20.28.5**  O Prajāpati, him who, having looked upon us, stands between us and the fire — I hand him over to Death; may he be Rudra's target.
 
@@ -711,7 +711,7 @@ translator: thothica
 
 **20.37.7**  O queen, desire has entered into you; that desire I now call back from you. May my mind dwell in my home and cattle, may my fortune be in my eyes, may the taste be on my tongue, may strength be in my arms, and swiftness in my thighs.
 
-**20.37.8**  You are churned out from the sky, raised up from the earth; you are said to be born from the ocean. You are the Ātharvaṇa remedy for eye disease.
+**20.37.8**  You are churned out from the sky, raised up from the earth; you are said to be born from the ocean. You are the Atharvaṇa remedy for eye disease.
 
 **20.37.9**  May Pūṣan from beyond turn back the four directions of the earth. O Sagalika, O Puṣalika, may what was lost to us return; with life let us enjoy it.
 
@@ -1277,7 +1277,7 @@ translator: thothica
 
 **20.65.6**  Eighty-eight thousand times he has spoken past my word; I spoke here, afar — there afar you are going to your setting.
 
-**20.65.7**  The love-spell that Sumitra worked for Sumitrā, stripping her of garments — just as she never once slept soundly for longing of him — so too let that one never once sleep soundly for longing of me.
+**20.65.7**  The love-spell that Sumitrā worked for Sumitrā, stripping her of garments — just as she never once slept soundly for longing of him — so too let that one never once sleep soundly for longing of me.
 
 **20.65.8**  Fire scorches the waters all around; the Sun traverses the sky all around — may Indra the Vṛtra-slayer scorch you all around on my behalf.
 

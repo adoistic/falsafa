@@ -1060,7 +1060,7 @@ translator: thothica
 
 **11.21.7**  He on whose account the Dharma-king Yudhiṣṭhira was forever troubled, and for thirteen years, brooding, could not find sleep —
 
-**11.21.8**  unassailable by his foes in battle, like Maghavān among his enemies; blazing like the fire at the end of an age; steadfast as the Himālaya —
+**11.21.8**  unassailable by his foes in battle, like Maghavan among his enemies; blazing like the fire at the end of an age; steadfast as the Himālaya —
 
 **11.21.9**  that hero, having become the refuge of Dhṛtarāṣṭra's son, O Mādhava, lies slain upon the earth like a tree broken by the wind.
 

@@ -227,11 +227,11 @@ translator: thothica
 
 **2.20.5**  You are named 'Mother' from your very nature as mother; you are as it were the very essence of immortality. O Arundhati, you encompass all life — and this too.
 
-**2.21.1**  O Agni, may propitious thought come to Sambhala; bring this maiden together with our portion. Pleasing in the choice assemblies, fair of speech — may she soon become united in fortune with a husband.
+**2.21.1**  O Agni, may propitious thought come to Śambhala; bring this maiden together with our portion. Pleasing in the choice assemblies, fair of speech — may she soon become united in fortune with a husband.
 
 **2.21.2**  O Agni, this woman seeks a husband; may King Soma make her well-favoured. Bearing sons, may she become a queen; having gone to a husband, may she, the fortunate one, reign resplendent.
 
-**2.21.3**  Fortune, cherished by Soma, cherished by Brahman, assembled by Aryaman — by the truth of the god Dhātr̥ I bring about the finding of a husband.
+**2.21.3**  Fortune, cherished by Soma, cherished by Brahman, assembled by Aryaman — by the truth of the god Dhātṛ̥ I bring about the finding of a husband.
 
 **2.21.4**  Just as the donkey, this fair and munificent one, has become beloved of the does, pleasant of abode — so may this one, cherished and mutual-beloved, be of Bhaga, pleasing her husband without obstruction.
 

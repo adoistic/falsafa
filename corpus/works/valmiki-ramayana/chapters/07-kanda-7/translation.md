@@ -80,7 +80,7 @@ translator: thothica
 
 **7.2.3**  "I shall tell you, O Rāghava, Rāvaṇa's lineage and birth, and likewise the grant of boons that was given to him."
 
-**7.2.4**  "In former times, in the Kṛta age, O Rāma, there was a lord who was the son of Prajāpati — the brahmarṣi named Pulastya, like Brahma himself made manifest."
+**7.2.4**  "In former times, in the Kṛta age, O Rāma, there was a lord who was the son of Prajāpati — the brahmarṣi named Pulastya, like Brahmā himself made manifest."
 
 **7.2.5**  "His virtues in respect of righteousness and conduct cannot be enumerated; he can only be described by name as 'son of Prajāpati.'"
 
@@ -840,7 +840,7 @@ translator: thothica
 
 **7.12.1**  The lord of Rākṣasas, having been anointed, then together with his brothers thought about arranging the marriage of his Rākṣasa sister.
 
-**7.12.2**  He gave that Rākṣasī, his sister Śūrpaṇakhā by name, to Kālakeya, a lord of Dānavas, who bore the name Vidyujjihva.
+**7.12.2**  He gave that Rākṣasī, his sister Śūrpaṇakhā by name, to Kālakeya, a lord of Dānavas, who bore the name Vidyujjihvā.
 
 **7.12.3**  Then, having given his sister away, that king while roaming on a hunt saw there, O Rāma, one named Maya, a son of Diti.
 
@@ -1996,7 +1996,7 @@ translator: thothica
 
 **7.28.17**  Meanwhile a mighty Daitya named Pulomā, powerful and heroic, seized him and carried Śacī's son away from battle.
 
-**7.28.18**  Taking his grandson, he entered the great ocean — he was the maternal grandfather Aryaka, from whose line came Paulomī, the Śacī.
+**7.28.18**  Taking his grandson, he entered the great ocean — he was the maternal grandfather Āryaka, from whose line came Paulomī, the Śacī.
 
 **7.28.19**  Seeing the exceedingly terrible disappearance of Jayanta, the gods, afflicted and joyless, fled in all directions.
 
@@ -2212,7 +2212,7 @@ translator: thothica
 
 **7.30.39**  "Perform the Vaiṣṇava sacrifice quickly, with focused mind; purified by that sacrifice, you will then ascend to the heavens."
 
-**7.30.40**  "And your son, O lord of gods, has not perished in the great battle; he was carried away and is safely present with Aryaka in the great ocean."
+**7.30.40**  "And your son, O lord of gods, has not perished in the great battle; he was carried away and is safely present with Āryaka in the great ocean."
 
 **7.30.41**  Hearing this, Mahendra performed the Vaiṣṇava sacrifice and once again ascended to the heavens, ruling over the gods.
 
@@ -2578,33 +2578,33 @@ translator: thothica
 
 **7.35.1**  Then Rāma questioned the sage who dwelt in the southern hall; standing with joined palms, endowed with humility, he spoke this meaningful speech:
 
-**7.35.2**  "The strength of these two — Vālin and Rāvaṇa — was incomparable; yet my view is that neither of them was equal to Hanumān in valour.
+**7.35.2**  "The strength of these two — Vālin and Rāvaṇa — was incomparable; yet my view is that neither of them was equal to Hanūmān in valour.
 
-**7.35.3**  "Courage, dexterity, strength, steadiness, wisdom, mastery of policy, heroism, and power — all these have their home in Hanumān.
+**7.35.3**  "Courage, dexterity, strength, steadiness, wisdom, mastery of policy, heroism, and power — all these have their home in Hanūmān.
 
 **7.35.4**  "When the army of monkeys was despondent at the sight of the ocean, he alone reassured the monkeys and then leapt a hundred yojanas.
 
 **7.35.5**  "He assaulted the city of Laṅkā and the inner apartments of Rāvaṇa; he found Sītā, spoke with her, and reassured her.
 
-**7.35.6**  "The vanguard of the army, the sons of ministers, the servants, the sons of Rāvaṇa — all these were felled there by Hanumān alone.
+**7.35.6**  "The vanguard of the army, the sons of ministers, the servants, the sons of Rāvaṇa — all these were felled there by Hanūmān alone.
 
 **7.35.7**  "Released again from captivity, having spoken with the ten-headed one, he reduced Laṅkā to ashes as fire reduces the earth.
 
-**7.35.8**  "Neither of Kāla, nor of Śakra, nor of Viṣṇu, nor of Kubera are such deeds as Hanumān's in battle heard of.
+**7.35.8**  "Neither of Kāla, nor of Śakra, nor of Viṣṇu, nor of Kubera are such deeds as Hanūmān's in battle heard of.
 
 **7.35.9**  "By the arm-strength of this one, I obtained Laṅkā, Sītā, Lakṣmaṇa, victory, the kingdom, friends, and kinsmen.
 
-**7.35.10**  "If Hanumān, friend of the monkey-lord, were not with me, who would have been capable of obtaining even news of Jānakī?
+**7.35.10**  "If Hanūmān, friend of the monkey-lord, were not with me, who would have been capable of obtaining even news of Jānakī?
 
-**7.35.11**  "Why did Hanumān, desiring the welfare of Sugrīva, not burn Vālin like a creeper when that enmity arose?
+**7.35.11**  "Why did Hanūmān, desiring the welfare of Sugrīva, not burn Vālin like a creeper when that enmity arose?
 
-**7.35.12**  "I believe Hanumān did not know his own strength, since he merely witnessed the monkey-lord, dear to him, being tormented.
+**7.35.12**  "I believe Hanūmān did not know his own strength, since he merely witnessed the monkey-lord, dear to him, being tormented.
 
-**7.35.13**  "All of this concerning Hanumān, O Blessed One, O great sage, O you worshipped by the immortals — tell me in full detail and in truth."
+**7.35.13**  "All of this concerning Hanūmān, O Blessed One, O great sage, O you worshipped by the immortals — tell me in full detail and in truth."
 
-**7.35.14**  Having heard Rāghava's reasoned speech, the sage then spoke these words in the presence of Hanumān himself:
+**7.35.14**  Having heard Rāghava's reasoned speech, the sage then spoke these words in the presence of Hanūmān himself:
 
-**7.35.15**  "This is true, O foremost of the Raghu line, what you say of Hanumān. In strength there is none equal to him, nor in speed, nor in intelligence.
+**7.35.15**  "This is true, O foremost of the Raghu line, what you say of Hanūmān. In strength there is none equal to him, nor in speed, nor in intelligence.
 
 **7.35.16**  "But a curse was placed upon him in the past by sages whose curses never fail — that he, though mighty, the crusher of enemies, would not know his own strength.
 
@@ -2624,7 +2624,7 @@ translator: thothica
 
 **7.35.24**  "The child, facing the morning sun, himself like the morning sun made manifest, desiring to seize the morning sun, flew through the middle of the sky.
 
-**7.35.25**  "While Hanumān was thus flying in his infant state, a very great astonishment arose among the gods, dānavas, and siddhas.
+**7.35.25**  "While Hanūmān was thus flying in his infant state, a very great astonishment arose among the gods, dānavas, and siddhas.
 
 **7.35.26**  "Neither the wind is so swift, nor Garuḍa, nor the mind — as this son of Vāyu traverses the high sky.
 
@@ -2650,11 +2650,11 @@ translator: thothica
 
 **7.35.37**  "Then the great Airāvata, white as the peak of Kailāsa, with four tusks, streaming with rut-fluid, causing delight, tall, laughing loudly with its golden bell —
 
-**7.35.38**  "— Indra mounted that king of elephants and, placing Rāhu in front, went to where the sun was, together with Hanumān.
+**7.35.38**  "— Indra mounted that king of elephants and, placing Rāhu in front, went to where the sun was, together with Hanūmān.
 
-**7.35.39**  "Then Rāhu, having rushed forward in great haste and left Vāsava behind, was seen by Hanumān, who rushed at him like a mountain peak.
+**7.35.39**  "Then Rāhu, having rushed forward in great haste and left Vāsava behind, was seen by Hanūmān, who rushed at him like a mountain peak.
 
-**7.35.40**  "Then, releasing the sun and seeing Rāhu thus, Hanumān leapt again into the sky to seize the son of Siṃhikā.
+**7.35.40**  "Then, releasing the sun and seeing Rāhu thus, Hanūmān leapt again into the sky to seize the son of Siṃhikā.
 
 **7.35.41**  "O Rāma, seeing the leaping one rush toward him having released the sun, Rāhu, that one who is nothing but a mouth, turned his face and fled.
 
@@ -2668,7 +2668,7 @@ translator: thothica
 
 **7.35.46**  "The husband of Śacī, not excessively angered, struck with the thunderbolt released from the tip of his hand the one who was rushing thus.
 
-**7.35.47**  "Then, struck by Indra's thunderbolt, Hanumān fell upon a mountain; as he fell, his left jaw was broken.
+**7.35.47**  "Then, struck by Indra's thunderbolt, Hanūmān fell upon a mountain; as he fell, his left jaw was broken.
 
 **7.35.48**  "When the child fell, reeling from the blow of the thunderbolt — to the misfortune of all creatures — Pavana grew furious at Indra.
 
@@ -2726,7 +2726,7 @@ translator: thothica
 
 **7.36.10**  Then the thousand-eyed one, his face flushed with joy and beautiful, raising the kuśa-grass garland on which he lay, spoke thus:
 
-**7.36.11**  "As his jaw (hanu) was injured by the thunderbolt released from my hand, by that name this tiger among monkeys shall be known as Hanumān.
+**7.36.11**  "As his jaw (hanu) was injured by the thunderbolt released from my hand, by that name this tiger among monkeys shall be known as Hanūmān.
 
 **7.36.12**  "I myself shall give him the highest and best boon: from this day forward he shall be invulnerable to my thunderbolt."
 
@@ -2786,15 +2786,15 @@ translator: thothica
 
 **7.36.40**  "For, O Rāma, Sugrīva, even while being tormented by Vālin, did not know it, and Māruti did not know the strength within himself.
 
-**7.36.41**  "In valour, energy, intellect, and splendour, in virtue, sweetness, policy and its opposite, in gravity, cleverness, heroism, and steadfastness — who in this world surpasses Hanumān?
+**7.36.41**  "In valour, energy, intellect, and splendour, in virtue, sweetness, policy and its opposite, in gravity, cleverness, heroism, and steadfastness — who in this world surpasses Hanūmān?
 
 **7.36.42**  "Long ago, to learn grammar, this immeasurable king of monkeys, facing the sun, moving backward, went from the rising mountain to the setting mountain, bearing that great text.
 
-**7.36.43**  "Who shall stand before Hanumān — like the ocean that seeks to flood the worlds, like fire that seeks to burn them, like Antaka at the time of the world's destruction?
+**7.36.43**  "Who shall stand before Hanūmān — like the ocean that seeks to flood the worlds, like fire that seeks to burn them, like Antaka at the time of the world's destruction?
 
 **7.36.44**  "He and the other great monkey-lords — Sugrīva, Mainda, Dvivida, together with Nīla, together with Tāra, Tāreya, Nala — all of these, O Rāma, were created by the gods for your sake.
 
-**7.36.45**  "All of this has been told — what you asked of me. The deeds of Hanumān in his childhood have been narrated by me.
+**7.36.45**  "All of this has been told — what you asked of me. The deeds of Hanūmān in his childhood have been narrated by me.
 
 **7.36.46**  "You have been seen, O Rāma, and spoken with. We shall go." Having spoken thus, all those sages departed as they had come.
 
@@ -2928,7 +2928,7 @@ translator: thothica
 
 **7.40.9**  "Having learnt this command of the great-souled lord of wealth, I have come again to your presence. Accept me thus, O lord."
 
-**7.40.10**  "So be it" — with these words the scion of Kakutstha duly honoured Puṣpaka with fried grain, unbroken rice, flowers, and fragrant perfumes.
+**7.40.10**  "So be it" — with these words the scion of Kākutstha duly honoured Puṣpaka with fried grain, unbroken rice, flowers, and fragrant perfumes.
 
 **7.40.11**  "Go wherever you please, and return when I recall you" — thus dismissed by Rāma, Puṣpaka departed once more, adorned with blossoms, in the direction of its desire.
 
@@ -2970,7 +2970,7 @@ translator: thothica
 
 **7.41.12**  Rāma seated himself upon a fine-formed seat adorned with clusters of flowers and spread with a woollen coverlet.
 
-**7.41.13**  Taking Sītā into his arms, the scion of Kakutstha gave her the finest sweet wine to drink, as Indra gives nectar to Śacī.
+**7.41.13**  Taking Sītā into his arms, the scion of Kākutstha gave her the finest sweet wine to drink, as Indra gives nectar to Śacī.
 
 **7.41.14**  Attendants quickly brought diverse kinds of meat and various fruits for Rāma's enjoyment.
 
@@ -2994,11 +2994,11 @@ translator: thothica
 
 **7.41.24**  "Those that are established on the banks of the Gaṅgā, belonging to the sages who perform meritorious deeds and live on fruits and roots — O hero, to dwell at the feet of such sages.
 
-**7.41.25**  "This is my supreme desire — O scion of Kakutstha, that I might dwell even for a single night among those meritorious ones who live on roots and fruits."
+**7.41.25**  "This is my supreme desire — O scion of Kākutstha, that I might dwell even for a single night among those meritorious ones who live on roots and fruits."
 
 **7.41.26**  "So be it" — this was promised by Rāma of untiring deeds. "Be assured, O Vaidehī — you will go tomorrow, without doubt."
 
-**7.41.27**  Having spoken thus to Maithilī, the daughter of Janaka, Rāma, the scion of Kakutstha, went out into the middle courtyard surrounded by his friends.
+**7.41.27**  Having spoken thus to Maithilī, the daughter of Janaka, Rāma, the scion of Kākutstha, went out into the middle courtyard surrounded by his friends.
 
 **7.42.1**  There, skilled raconteurs of many kinds of stories — men who provoke laughter — attended upon the king as he sat, on all sides.
 
@@ -3044,7 +3044,7 @@ translator: thothica
 
 **7.42.22**  But all of them, bowing low to the ground with their heads and prostrating themselves, replied to the grief-stricken Rāghava: "It is even so, without doubt."
 
-**7.42.23**  Having heard the words uttered by all of them, the scion of Kakutstha, the tormentor of enemies, then dismissed them all.
+**7.42.23**  Having heard the words uttered by all of them, the scion of Kākutstha, the tormentor of enemies, then dismissed them all.
 
 **7.43.1**  Having dismissed the company of friends and resolved in his mind, Rāghava spoke these words to the doorkeeper who was seated nearby.
 
@@ -4008,7 +4008,7 @@ translator: thothica
 
 **7.66.4**  "Act in such a way that no decay or decomposition comes to the body of the child who is thus preserved, O one of unblemished deeds."
 
-**7.66.5**  Having so instructed Lakṣmaṇa of auspicious marks, the great-famed Kākutstha, the scion of Kakutstha's line, mentally called upon the Puṣpaka, thinking, "Come."
+**7.66.5**  Having so instructed Lakṣmaṇa of auspicious marks, the great-famed Kākutstha, the scion of Kākutstha's line, mentally called upon the Puṣpaka, thinking, "Come."
 
 **7.66.6**  Understanding that sign, the golden-adorned Puṣpaka came within a moment to the presence of Rāghava.
 
@@ -4198,7 +4198,7 @@ translator: thothica
 
 **7.71.1**  Having narrated this to Rāma, the great seer born of the water-jar proceeded in this same tale to speak another word.
 
-**7.71.2**  Then that Daṇḍa, O descendant of Kakutstha, that dull-minded one, ruled his kingdom there for many thousands of years, with its enemies subdued.
+**7.71.2**  Then that Daṇḍa, O descendant of Kākutstha, that dull-minded one, ruled his kingdom there for many thousands of years, with its enemies subdued.
 
 **7.71.3**  Then at a certain time, the king approached the charming hermitage of Bhārgava in the pleasant month of Caitra.
 
@@ -4264,7 +4264,7 @@ translator: thothica
 
 **7.72.17**  That kingdom of Daṇḍa on the ridges of the Vindhya and Śaivala mountains was cursed long ago by that brahmarṣi when that transgression of dharma was committed.
 
-**7.72.18**  'From that time forward, O descendant of Kakutstha, it is called the Daṇḍaka forest; where ascetics dwelt, and where there was Janasthāna.'
+**7.72.18**  'From that time forward, O descendant of Kākutstha, it is called the Daṇḍaka forest; where ascetics dwelt, and where there was Janasthāna.'
 
 **7.72.19**  'All that you asked of me, O Rāghava, has been told. The time for performing the twilight devotion passes, O hero; it must not be neglected.'
 
@@ -4286,7 +4286,7 @@ translator: thothica
 
 **7.73.7**  "I am blessed, I have been favoured by the sight of the great-souled one. And I shall come here again to behold you, for the purification of my own self."
 
-**7.73.8**  As the descendant of Kakutstha spoke these words, wondrous to behold, the sage rich in austerities, whose eye is dharma, answered in utmost delight:
+**7.73.8**  As the descendant of Kākutstha spoke these words, wondrous to behold, the sage rich in austerities, whose eye is dharma, answered in utmost delight:
 
 **7.73.9**  "This speech of yours, O Rāma, is altogether wonderful, auspicious in every syllable. You yourself, O joy of the Raghu line, are the purifier of all worlds."
 
@@ -4304,7 +4304,7 @@ translator: thothica
 
 **7.73.16**  Serene, Rāma was a sight to behold upon the gold-adorned Puṣpaka, like the moon stationed near a cloud in the season of rain.
 
-**7.73.17**  Then, when midday had arrived, honoured from every quarter, the descendant of Kakutstha reached Ayodhyā and descended from the aerial car.
+**7.73.17**  Then, when midday had arrived, honoured from every quarter, the descendant of Kākutstha reached Ayodhyā and descended from the aerial car.
 
 **7.73.18**  Then, having dismissed the beautiful Puṣpaka that travels at will, Rāma addressed a doorkeeper stationed in the inner courtyard:
 
@@ -4992,7 +4992,7 @@ translator: thothica
 
 **7.90.16**  "The two heroic sons of Bharata — Takṣa and Puṣkala — well protected by their maternal uncle, and both intent on dharma."
 
-**7.90.17**  "With Bharata going in front, the two princes, accompanied by their forces and retinue, will slay the sons of the Gandharvās and then divide between them the two cities."
+**7.90.17**  "With Bharata going in front, the two princes, accompanied by their forces and retinue, will slay the sons of the Gandharvas and then divide between them the two cities."
 
 **7.90.18**  "Having established those two excellent cities and settled his own sons there, the most righteous Bharata will return once more to my side."
 
@@ -5106,7 +5106,7 @@ translator: thothica
 
 **7.93.15**  "For he shall truly deserve death, O Saumitri, who sees or hears this private discourse between the sage and me."
 
-**7.93.16**  Then, having stationed Lakṣmaṇa, the scion of Kakutstha, at the keeping of the door, Rāghava said to the sage: "Speak."
+**7.93.16**  Then, having stationed Lakṣmaṇa, the scion of Kākutstha, at the keeping of the door, Rāghava said to the sage: "Speak."
 
 **7.93.17**  "Whatever words are in your mind, on account of which you have come with such focused resolve — speak them without hesitation; they dwell in my heart as well."
 

@@ -31,11 +31,11 @@ translator: thothica
 
 **9.1.6**  These are his divine bull-like sources; may Night-and-Dawn, the two, protect this sacrifice, our faultless rite.
 
-**9.1.7**  O divine Hotr-priests, with the tongue of Agni praise this our faultless rite; make for us a well-performed oblation.
+**9.1.7**  O divine Hotṛ-priests, with the tongue of Agni praise this our faultless rite; make for us a well-performed oblation.
 
 **9.1.8**  Let the three goddesses take their seat upon this sacred grass — Iḍā, Sarasvatī, and Mahī — with Bhāratī singing praise.
 
-**9.1.9**  That wondrous, sustaining power, abounding in nourishment — may Tvaṣṭr loosen the hub of heroic strength and opulence of riches for us.
+**9.1.9**  That wondrous, sustaining power, abounding in nourishment — may Tvaṣṭṛ loosen the hub of heroic strength and opulence of riches for us.
 
 **9.1.10**  O Lord of the Forest, release freely of thyself to the gods; Agni, the Immolator, sets the oblation rightly in order.
 
@@ -49,7 +49,7 @@ translator: thothica
 
 **9.2.4**  May Viṣṇu yoke in manifold ways the fervent energies in this sacrifice, well-yoked — svāhā!
 
-**9.2.5**  May Tvaṣṭr yoke in manifold ways the forms in this sacrifice [— well-yoked — svāhā!]
+**9.2.5**  May Tvaṣṭṛ yoke in manifold ways the forms in this sacrifice [— well-yoked — svāhā!]
 
 **9.2.6**  May Indra yoke in manifold ways the heroic powers in this [sacrifice — well-yoked — svāhā!]
 

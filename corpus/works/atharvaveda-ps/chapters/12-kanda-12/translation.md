@@ -41,7 +41,7 @@ translator: thothica
 
 **12.2.1**  O Takman, together with your brother Balāsa and your sister Kāsikā, and with Pāman your kinsman-rival — vanish utterly, both of you, toward the Maraṭas!
 
-**12.2.2**  To the Gandhāris, to the Mūjavats, to the Kāśis, to the Magadhas — we pass along Takman as one passes a dear treasure to the people!
+**12.2.2**  To the Gandhāris, to the Mūjavats, to the Kāśis, to the Māgadhas — we pass along Takman as one passes a dear treasure to the people!
 
 **12.2.3**  Not among the Arkavindas, not among the Arvidālas, not among the quail-haunted river Annadī — we declare the vows for Takman: these are other territories for him.
 
@@ -205,7 +205,7 @@ translator: thothica
 
 **12.12.2**  He smote the serpent that lay sprawled upon the mountain; Tvaṣṭar had fashioned for him the resonant bolt of heaven. Like lowing cows flowing swiftly, the waters straightway descended to the sea.
 
-**12.12.3**  Exerting himself as a bull he chose Soma; he drank of the pressed draught at the three Kadru-pressings; Maghavan took up the missile, the thunderbolt, and smote that first-born among serpents.
+**12.12.3**  Exerting himself as a bull he chose Soma; he drank of the pressed draught at the three Kadrū-pressings; Maghavan took up the missile, the thunderbolt, and smote that first-born among serpents.
 
 **12.12.4**  When, O Indra, thou smotest the first-born among serpents and then destroyed the māyās of the māyā-wielders, bringing forth the sun, the sky, and the dawn — then, verily, thou foundest no enemy to match thee.
 
@@ -225,7 +225,7 @@ translator: thothica
 
 **12.13.2**  That became a horse-hair noose for thee, O Indra, wherein the one god struck back at thee with a tusk. Thou didst win the cattle, thou didst win the Soma, O hero; thou didst loose the seven rivers to flow.
 
-**12.13.3**  Neither lightning nor thunder could restrain him; Yāmī dispersed neither mist nor hailstorm against him. When Indra and the serpent fought, the Bountiful One conquered utterly over all adversaries.
+**12.13.3**  Neither lightning nor thunder could restrain him; Yamī dispersed neither mist nor hailstorm against him. When Indra and the serpent fought, the Bountiful One conquered utterly over all adversaries.
 
 **12.13.4**  Whom didst thou behold as the avenger of the serpent, O Indra, when fear entered thy heart upon slaying it? Like an undaunted eagle thou didst cross the realms of space where nine and ninety rivers flow.
 

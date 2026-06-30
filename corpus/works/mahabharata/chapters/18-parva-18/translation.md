@@ -324,7 +324,7 @@ translator: thothica
 
 **18.5.13**  Both Virāṭa and Drupada, and King Dhṛṣṭaketu, and Niśaṭha, Akrūra, and Sāmba, and Bhānu, Kampa, and Viḍūratha,
 
-**18.5.14**  Bhūriśravas and Śala, and Bhūri the lord of the earth, and Ugrasena, and Kaṃsa, and the valiant Vasudeva,
+**18.5.14**  Bhūriśravas and Śala, and Bhūri the lord of the earth, and Ugrasena, and Kaṃsa, and the valiant Vāsudeva,
 
 **18.5.15**  and Uttara, that bull among men, together with his brother Śaṅkha—these best of men entered into the All-Gods, the Viśvedevas.
 

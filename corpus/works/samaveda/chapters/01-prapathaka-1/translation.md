@@ -129,7 +129,7 @@ translator: thothica
 
 **1.55**  Let the god who gives wealth wish for you a full ladle. Pour it out upward or fill it up — then the god will carry you forward.
 
-**1.56**  Let Brahmanaspati go forward; let the divine, joyful word go forward. May the gods lead our sacrifice toward the heroic, manly, bountiful one, the lord of the fivefold verse.
+**1.56**  Let Brahmaṇaspati go forward; let the divine, joyful word go forward. May the gods lead our sacrifice toward the heroic, manly, bountiful one, the lord of the fivefold verse.
 
 **1.57**  Stand upright for our help, like the god Savitar. Stand upright to win the prize when we invoke you with anointed worshippers.
 

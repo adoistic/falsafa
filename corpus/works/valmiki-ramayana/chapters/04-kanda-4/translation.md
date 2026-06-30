@@ -142,7 +142,7 @@ translator: thothica
 
 **4.2.12**  Then the counsellors of Sugrīva, having taken refuge on the king of mountains, gathered before that foremost of monkeys and all stood with hands folded in reverence.
 
-**4.2.13**  Then Hanumān, skilled in speech, spoke to Sugrīva who was trembling with fear and suspected the sin of Vālin.
+**4.2.13**  Then Hanūmān, skilled in speech, spoke to Sugrīva who was trembling with fear and suspected the sin of Vālin.
 
 **4.2.14**  "The one on account of whom you flee with agitated heart, O foremost of monkeys — that cruel-looking, cruel Vālin — I do not see him here."
 
@@ -152,7 +152,7 @@ translator: thothica
 
 **4.2.17**  "Act in everything by signs, endowed with intelligence and discernment; for a king without wisdom cannot rule all beings."
 
-**4.2.18**  Sugrīva, having heard all of Hanumān's fair words, then spoke an even fairer speech to Hanumān.
+**4.2.18**  Sugrīva, having heard all of Hanūmān's fair words, then spoke an even fairer speech to Hanūmān.
 
 **4.2.19**  "Long-armed, broad-eyed, bearing arrows, bows, and swords — who would not feel fear on seeing these two who resemble sons of the gods?"
 
@@ -172,11 +172,11 @@ translator: thothica
 
 **4.2.27**  Thus directed by the king of monkeys, the son of the Wind God resolved to go where those two — Rāma and Lakṣmaṇa — were.
 
-**4.2.28**  Having honoured the words of that greatly fearful, unapproachable monkey with "so be it," the great-spirited Hanumān then went to where Rāma of surpassing strength and Lakṣmaṇa were.
+**4.2.28**  Having honoured the words of that greatly fearful, unapproachable monkey with "so be it," the great-spirited Hanūmān then went to where Rāma of surpassing strength and Lakṣmaṇa were.
 
-**4.3.1**  Hanumān, having understood the words of the great-souled Sugrīva, leaped from the mountain Ṛśyamūka to where the two Rāghavas were.
+**4.3.1**  Hanūmān, having understood the words of the great-souled Sugrīva, leaped from the mountain Ṛśyamūka to where the two Rāghavas were.
 
-**4.3.2**  Having gone there, the powerful Hanumān, foremost of monkeys, of true valour, approached those two with gentle words.
+**4.3.2**  Having gone there, the powerful Hanūmān, foremost of monkeys, of true valour, approached those two with gentle words.
 
 **4.3.3**  Abandoning his own form, the monkey approached in the guise of a mendicant and spoke to those two heroes and praised them as was fitting.
 
@@ -210,7 +210,7 @@ translator: thothica
 
 **4.3.18**  "There is one named Sugrīva, a righteous-souled leader of a monkey troop, a hero wronged by his brother, who wanders the world in misery."
 
-**4.3.19**  "I have come, sent by that great-souled Sugrīva, king among the foremost of monkeys — I am a monkey named Hanumān."
+**4.3.19**  "I have come, sent by that great-souled Sugrīva, king among the foremost of monkeys — I am a monkey named Hanūmān."
 
 **4.3.20**  "The righteous-souled Sugrīva desires friendship with you two; know me as his minister, a monkey, the son of the Wind God."
 
@@ -224,11 +224,11 @@ translator: thothica
 
 **4.3.25**  "Address him, O Saumitri — this monkey who is Sugrīva's minister, versed in speech — with sweet words full of affection, O subduer of foes."
 
-**4.4.1**  Then Hanumān, greatly delighted, on hearing those sweet-spoken words — "one whose purpose is accomplished" — went in his mind to Sugrīva.
+**4.4.1**  Then Hanūmān, greatly delighted, on hearing those sweet-spoken words — "one whose purpose is accomplished" — went in his mind to Sugrīva.
 
 **4.4.2**  "The return of the kingdom is fitting for that great-souled Sugrīva, since one whose purpose is accomplished has arrived, and this very purpose has come to meet him."
 
-**4.4.3**  Then Hanumān, the foremost of monkeys, supremely delighted and skilled in speech, replied with these words to Rāma.
+**4.4.3**  Then Hanūmān, the foremost of monkeys, supremely delighted and skilled in speech, replied with these words to Rāma.
 
 **4.4.4**  "For what purpose have you come, along with your younger brother, to this dreadful and inaccessible forest adorned by the Pampā woodland and filled with all manner of serpents and wild beasts?"
 
@@ -256,7 +256,7 @@ translator: thothica
 
 **4.4.16**  "With Rāma overwhelmed by grief, afflicted by sorrow and seeking refuge, it is fitting that Sugrīva, together with his troop-leaders, show him his favour."
 
-**4.4.17**  To Lakṣmaṇa, who was speaking thus in a pitiful manner with tears falling, Hanumān, skilled in speech, replied with these words.
+**4.4.17**  To Lakṣmaṇa, who was speaking thus in a pitiful manner with tears falling, Hanūmān, skilled in speech, replied with these words.
 
 **4.4.18**  "Such men as these — endowed with wisdom, who have conquered anger and mastered their senses — are indeed to be met by the lord of monkeys; by good fortune they have come into view."
 
@@ -264,19 +264,19 @@ translator: thothica
 
 **4.4.20**  "Sugrīva, son of the Sun-god, together with us, will render assistance to you both in the search for Sītā."
 
-**4.4.21**  Having said thus, Hanumān spoke smoothly and with sweet speech to Rāghava: "Let us go to Sugrīva."
+**4.4.21**  Having said thus, Hanūmān spoke smoothly and with sweet speech to Rāghava: "Let us go to Sugrīva."
 
-**4.4.22**  The righteous-souled Lakṣmaṇa, having duly honoured Hanumān who had spoken thus, said this to Rāghava.
+**4.4.22**  The righteous-souled Lakṣmaṇa, having duly honoured Hanūmān who had spoken thus, said this to Rāghava.
 
 **4.4.23**  "As this son of the Wind-god, the monkey, reports with delight — one whose purpose is accomplished has also arrived here; your purpose too is as good as accomplished, O Rāghava."
 
-**4.4.24**  "His countenance is serene and bright, and he speaks with evident gladness; the heroic Hanumān, son of Vāyu, will not speak anything untrue."
+**4.4.24**  "His countenance is serene and bright, and he speaks with evident gladness; the heroic Hanūmān, son of Vāyu, will not speak anything untrue."
 
-**4.4.25**  Thereupon the greatly wise Hanumān, son of the Wind-god, took the two heroes, the Rāghava princes, and went to the king of the monkeys.
+**4.4.25**  Thereupon the greatly wise Hanūmān, son of the Wind-god, took the two heroes, the Rāghava princes, and went to the king of the monkeys.
 
 **4.4.26**  That foremost of monkeys, the son of the Wind, of vast renown and great valour, with auspicious mind, as though his task were already accomplished, set forth in great delight along with Rāma and Lakṣmaṇa toward that best of mountains.
 
-**4.5.1**  And Hanumān, going from Ṛśyamūka to that Malaya mountain, then announced the two heroes, the Rāghava princes, to the king of monkeys.
+**4.5.1**  And Hanūmān, going from Ṛśyamūka to that Malaya mountain, then announced the two heroes, the Rāghava princes, to the king of monkeys.
 
 **4.5.2**  "This is Rāma, of great wisdom and firm valour, who has arrived along with his brother Lakṣmaṇa — this Rāma of true heroism."
 
@@ -290,7 +290,7 @@ translator: thothica
 
 **4.5.7**  "These two brothers, Rāma and Lakṣmaṇa, who desire friendship with you — receive them and honour them; both are most worthy of honour."
 
-**4.5.8**  Having heard the words of Hanumān, Sugrīva was glad at heart; the dreadful fear he had felt on account of the Rāghava princes left him, and his anxiety was gone.
+**4.5.8**  Having heard the words of Hanūmān, Sugrīva was glad at heart; the dreadful fear he had felt on account of the Rāghava princes left him, and his anxiety was gone.
 
 **4.5.9**  Sugrīva, the lord of monkeys, assuming human form and having become most handsome in appearance, addressed Rāghava with affection.
 
@@ -302,7 +302,7 @@ translator: thothica
 
 **4.5.13**  Hearing those well-spoken words of Sugrīva, Rāma, with a joyful heart, clasped that hand in his own hand and embraced him tightly, taking that heartfelt friendship to himself.
 
-**4.5.14**  Then Hanumān, the subduer of enemies, casting aside his mendicant's form, kindled fire in his own true form from two sticks of wood.
+**4.5.14**  Then Hanūmān, the subduer of enemies, casting aside his mendicant's form, kindled fire in his own true form from two sticks of wood.
 
 **4.5.15**  Having then worshipped and honoured the blazing fire with flowers, he, greatly pleased and with full concentration, placed it between those two.
 
@@ -312,7 +312,7 @@ translator: thothica
 
 **4.5.18**  Then the spirited Sugrīva, with one-pointed mind, spoke these words to Rāma, son of Daśaratha, who is versed in all matters.
 
-**4.6.1**  "O Rāma, this counsellor of mine, that best of ministers Hanumān, has told me the reason for which you have come to this desolate forest."
+**4.6.1**  "O Rāma, this counsellor of mine, that best of ministers Hanūmān, has told me the reason for which you have come to this desolate forest."
 
 **4.6.2**  "While you were dwelling in the forest together with your brother Lakṣmaṇa, your wife Maithilī, the daughter of Janaka, was carried off by a rākṣasa."
 
@@ -786,7 +786,7 @@ translator: thothica
 
 **4.13.3**  In front of that great-souled Rāghava went Sugrīva with his powerful neck, and mighty Lakṣmaṇa.
 
-**4.13.4**  Behind came the heroic Hanumān, the monkey Nala, Nīla, and the great-splendored Tāra—leaders of the monkey troops.
+**4.13.4**  Behind came the heroic Hanūmān, the monkey Nala, Nīla, and the great-splendored Tāra—leaders of the monkey troops.
 
 **4.13.5**  They gazed upon trees bending under the weight of blossoms, and upon rivers bearing clear waters flowing toward the ocean.
 
@@ -1524,7 +1524,7 @@ translator: thothica
 
 **4.25.2**  All of them approached the mighty-armed Rāma, who acts without fatigue, and stood with folded hands, like sages before Brahmā the Grandfather.
 
-**4.25.3**  Then Hanumān, son of the Wind-god, who shines like a mountain of gold and whose face blazes like the rising sun, spoke these words with folded hands.
+**4.25.3**  Then Hanūmān, son of the Wind-god, who shines like a mountain of gold and whose face blazes like the rising sun, spoke these words with folded hands.
 
 **4.25.4**  "By your grace, O lord, Sugrīva has obtained this great kingdom of the monkeys — the realm of his fathers and grandfathers — which was so very difficult to recover."
 
@@ -1534,13 +1534,13 @@ translator: thothica
 
 **4.25.7**  "You should come from here to this lovely mountain cave, O master; establish your connection with us and delight the monkeys."
 
-**4.25.8**  Thus addressed by Hanumān, the wise Rāghava, slayer of enemy heroes, who was skilled in speech, replied to Hanumān.
+**4.25.8**  Thus addressed by Hanūmān, the wise Rāghava, slayer of enemy heroes, who was skilled in speech, replied to Hanūmān.
 
-**4.25.9**  "For fourteen years, dear friend, I shall not enter any village or city — I who honour my father's command, O Hanumān."
+**4.25.9**  "For fourteen years, dear friend, I shall not enter any village or city — I who honour my father's command, O Hanūmān."
 
 **4.25.10**  "Let the heroic Sugrīva, bull among monkeys, who has entered the richly furnished and splendid cave according to rite, be swiftly consecrated to the kingdom."
 
-**4.25.11**  Having spoken thus to Hanumān, Rāma said to Sugrīva: "O hero, consecrate this Aṅgada also as crown prince."
+**4.25.11**  Having spoken thus to Hanūmān, Rāma said to Sugrīva: "O hero, consecrate this Aṅgada also as crown prince."
 
 **4.25.12**  "This is the first month of the rainy season, Śrāvaṇa, that brings the coming of the waters; the four months known as the rainy season have now begun, dear friend."
 
@@ -1582,7 +1582,7 @@ translator: thothica
 
 **4.25.31**  — using auspicious bull-horns and golden vessels, according to the rite prescribed by the scriptures and established by the great sages —
 
-**4.25.32**  — Gaja, Gavākṣa, Gavaya, Śarabha, Gandhamādana, Mainda, Dvivida, Hanumān, Jāmbavān, and Nala —
+**4.25.32**  — Gaja, Gavākṣa, Gavaya, Śarabha, Gandhamādana, Mainda, Dvivida, Hanūmān, Jāmbavān, and Nala —
 
 **4.25.33**  — consecrated Sugrīva with clear and fragrant water, just as the Vasus consecrated Vāsava, the Thousand-eyed Indra.
 
@@ -1610,7 +1610,7 @@ translator: thothica
 
 **4.26.7**  Especially upon seeing the moon risen at its rising, sleep would not come to him at night even when he had lain down.
 
-**4.26.8**  His brother Lakṣmaṇa, sharing in his pain, spoke consoling words to that scion of Kakutstha, whose mind was shattered by tears, who constantly lamented with grief arising from this sorrow, ever given over to grief.
+**4.26.8**  His brother Lakṣmaṇa, sharing in his pain, spoke consoling words to that scion of Kākutstha, whose mind was shattered by tears, who constantly lamented with grief arising from this sorrow, ever given over to grief.
 
 **4.26.9**  "Enough, hero — do not surrender to anguish; you should not grieve. For you well know that all one's purposes sink when one grieves."
 
@@ -1620,7 +1620,7 @@ translator: thothica
 
 **4.26.12**  "Uproot your grief, make your resolve firm, and then extirpate that Rākṣasa together with his entire retinue."
 
-**4.26.13**  "O scion of Kakutstha, you are capable of overturning the entire earth with its oceans, forests, and mountains — how much less, then, Rāvaṇa?"
+**4.26.13**  "O scion of Kākutstha, you are capable of overturning the entire earth with its oceans, forests, and mountains — how much less, then, Rāvaṇa?"
 
 **4.26.14**  "I, for my part, am awakening your heroic energy that has fallen asleep, as one revives with blazing oblations a fire covered in ashes at the right moment."
 
@@ -1634,7 +1634,7 @@ translator: thothica
 
 **4.26.19**  Hearing those words of Rāma, Lakṣmaṇa, son of Sumitrā and the joy of his friends, was delighted and spoke once more.
 
-**4.26.20**  "This speech you have uttered is worthy of you, O destroyer of enemies. Now, O scion of Kakutstha, you have returned to your true nature."
+**4.26.20**  "This speech you have uttered is worthy of you, O destroyer of enemies. Now, O scion of Kākutstha, you have returned to your true nature."
 
 **4.26.21**  "Having understood your own true heroic power, you ought to be as you really are. What you have said is befitting both your learning and your noble lineage."
 
@@ -1744,7 +1744,7 @@ translator: thothica
 
 **4.28.5**  sporting like the lord of gods in Nandana with hosts of Apsarases, having delegated his affairs to his ministers, and not supervising those ministers—
 
-**4.28.6**  having abandoned his royal commands, remaining under the sway of desire — Hanumān, who had resolved on his purpose, who knew the true nature of things and the special significance of time and duty,
+**4.28.6**  having abandoned his royal commands, remaining under the sway of desire — Hanūmān, who had resolved on his purpose, who knew the true nature of things and the special significance of time and duty,
 
 **4.28.7**  having propitiated with sweet, reasoned, and pleasing words the lord of the monkeys who was skilled in speech and knew the truth of language — the son of Māruta,
 
@@ -2004,7 +2004,7 @@ translator: thothica
 
 **4.31.8**  "For this very reason I am afraid regarding the great-souled Rāma: that the benefit he has conferred upon me I am unable to repay."
 
-**4.31.9**  When Sugrīva had spoken thus, Hanumān, foremost among the monkeys, spoke his own reasoned counsel in the assembly of the monkey ministers.
+**4.31.9**  When Sugrīva had spoken thus, Hanūmān, foremost among the monkeys, spoke his own reasoned counsel in the assembly of the monkey ministers.
 
 **4.31.10**  "In every respect it is no wonder, O lord of the monkey host, that you do not forget the auspicious act of deep affection and service rendered to you."
 
@@ -2210,7 +2210,7 @@ translator: thothica
 
 **4.35.20**  And the harsh words with which I addressed you, having heard Rāma's words spoken in his grief-stricken state — that too you should forgive."
 
-**4.36.1**  Thus addressed by the great-souled Lakṣmaṇa, Sugrīva spoke these words to Hanumān, his minister, who stood at his side.
+**4.36.1**  Thus addressed by the great-souled Lakṣmaṇa, Sugrīva spoke these words to Hanūmān, his minister, who stood at his side.
 
 **4.36.2**  "Those who dwell on the peaks of Mahendra, Himavat, Vindhya, and Kailāsa, on Mandara, on Pāṇḍuśikhara, and on the five mountains —
 
@@ -2384,7 +2384,7 @@ translator: thothica
 
 **4.38.16**  Of the hue of lotus stamens, with a face like the young sun — wise, the foremost of monkeys, the best of all the monkey-host —
 
-**4.38.17**  — attended by armies of many thousands of monkeys, the illustrious Kesarī, father of Hanumān, appeared.
+**4.38.17**  — attended by armies of many thousands of monkeys, the illustrious Kesarī, father of Hanūmān, appeared.
 
 **4.38.18**  The great king of the golāṅgūlas, Gavākṣa of terrible valor, appeared surrounded by a thousand crores of monkeys.
 
@@ -2410,7 +2410,7 @@ translator: thothica
 
 **4.38.29**  Then the heroic troop-leader, the powerful monkey named Durmukha, appeared surrounded by two crores.
 
-**4.38.30**  Hanumān appeared, surrounded by a thousand crores of monkeys of terrible valor who resembled the peaks of Kailāsa.
+**4.38.30**  Hanūmān appeared, surrounded by a thousand crores of monkeys of terrible valor who resembled the peaks of Kailāsa.
 
 **4.38.31**  Nala too, of great valor, surrounded by tree-dwellers, arrived with a hundred crores along with a hundred thousands.
 
@@ -2454,7 +2454,7 @@ translator: thothica
 
 **4.39.14**  You are valorous, accompanied by a friend, wise, knowing the distinctions of time — you are engaged in our welfare, accomplished in worthy deeds and foremost among those who understand purpose."
 
-**4.39.15**  Thus addressed, Sugrīva spoke in the presence of Rāma and the wise Lakṣmaṇa to the troop-leader named Vinata — that lord of leaping ones, mountain-like, thundering like a cloud, and mighty.
+**4.39.15**  Thus addressed, Sugrīva spoke in the presence of Rāma and the wise Lakṣmaṇa to the troop-leader named Vinatā — that lord of leaping ones, mountain-like, thundering like a cloud, and mighty.
 
 **4.39.16**  "O foremost of monkeys, accompanied by monkeys who are sons of Soma and Sūrya, guided by policy suited to place and time, adept at distinguishing what ought and ought not to be done —
 
@@ -2462,7 +2462,7 @@ translator: thothica
 
 **4.39.18**  There, search for Sītā the Vaidehī and for Rāvaṇa's dwelling in the mountain fastnesses, in the forests, and in the rivers.
 
-**4.39.19**  The lovely Bhāgīrathī, the Sarayū, the Kauśikī, the Kālindī, the lovely Yamunā, and the great mountain Yāmuna —
+**4.39.19**  The lovely Bhāgīrathī, the Sarayū, the Kauśikī, the Kālindī, the lovely Yamunā, and the great mountain Yamunā —
 
 **4.39.20**  — the Sarasvatī and the Sindhu; the Śona with its gem-bright waters; the Mahī and the Kālamahī adorned with hills and forests —
 
@@ -2554,7 +2554,7 @@ translator: thothica
 
 **4.40.1**  Then Sugrīva, having dispatched that great monkey army, sent to the south those monkeys distinguished by their marks.
 
-**4.40.2**  Nīla, son of Agni, and the monkey Hanumant, and the great ape Jāmbavant, son of Pitāmaha —
+**4.40.2**  Nīla, son of Agni, and the monkey Hanūmant, and the great ape Jāmbavant, son of Pitāmaha —
 
 **4.40.3**  and Suhotra, Śarīra, and Śaragulma likewise, Gaja, Gavākṣa, Gavaya, Suṣeṇa, and Ṛṣabha,
 
@@ -2874,7 +2874,7 @@ translator: thothica
 
 **4.42.62**  "Then, having accomplished your purpose, assembled with your kinsmen, honored by me, charming with all virtues, with your enemies pacified, with your beloved ones, O leaping ones who uphold existence, you shall roam the earth."
 
-**4.43.1**  Sugrīva spoke in particular on behalf of Hanumān, for he was resolved in his purpose upon that foremost of monkeys as the one to accomplish the task.
+**4.43.1**  Sugrīva spoke in particular on behalf of Hanūmān, for he was resolved in his purpose upon that foremost of monkeys as the one to accomplish the task.
 
 **4.43.2**  "I see no obstacle to your movement, O bull among monkeys — not on earth, nor in the atmosphere, nor in the sky, nor in the abode of the gods, nor in the waters."
 
@@ -2884,11 +2884,11 @@ translator: thothica
 
 **4.43.5**  "There exists no being on earth equal to you in splendour. Therefore, demonstrate in truth how Sītā may be found."
 
-**4.43.6**  "In you alone, O Hanumān, O learned in statecraft, reside strength, wisdom, valour, and the policy of conforming to the demands of place and time."
+**4.43.6**  "In you alone, O Hanūmān, O learned in statecraft, reside strength, wisdom, valour, and the policy of conforming to the demands of place and time."
 
-**4.43.7**  Then Rāghava, understanding the urgency of the task to be accomplished by Hanumān, and knowing Hanumān's nature, reflected within himself.
+**4.43.7**  Then Rāghava, understanding the urgency of the task to be accomplished by Hanūmān, and knowing Hanūmān's nature, reflected within himself.
 
-**4.43.8**  "The lord of the monkeys is wholly resolved upon Hanumān for this purpose, and Hanumān himself is even more firmly resolved in the accomplishment of the task."
+**4.43.8**  "The lord of the monkeys is wholly resolved upon Hanūmān for this purpose, and Hanūmān himself is even more firmly resolved in the accomplishment of the task."
 
 **4.43.9**  "For one thus dispatched, thoroughly known by his deeds, and taken up by his lord — the fruit of the task is certain to arise."
 
@@ -2904,7 +2904,7 @@ translator: thothica
 
 **4.43.15**  Urging onward the great army of monkeys, the heroic son of the Wind became like the moon with its clear disc in a sky cleared of clouds, adorned by the host of stars.
 
-**4.43.16**  "Relying on your exceedingly mighty strength and the many feats of valour befitting the foremost of monkeys, O son of the Wind, do whatever is necessary so that the daughter of Janaka may be reached, O Hanumān."
+**4.43.16**  "Relying on your exceedingly mighty strength and the many feats of valour befitting the foremost of monkeys, O son of the Wind, do whatever is necessary so that the daughter of Janaka may be reached, O Hanūmān."
 
 **4.44.1**  Understanding the stern command of their lord, those foremost of monkeys set forth, covering the earth like locusts.
 
@@ -2912,7 +2912,7 @@ translator: thothica
 
 **4.44.3**  The heroic monkey Śatabali then swiftly set out toward the northern quarter, beautiful and encompassed by the king of mountains.
 
-**4.44.4**  Vinata, the leader of the monkey troop, marched toward the eastern quarter.
+**4.44.4**  Vinatā, the leader of the monkey troop, marched toward the eastern quarter.
 
 **4.44.5**  The son of the Wind, that leaping monkey who leads the monkey host, set out toward the southern quarter — the region traversed by Agastya — accompanied by Tārā, Aṅgada, and others.
 
@@ -2960,7 +2960,7 @@ translator: thothica
 
 **4.45.12**  "Then the earth appeared to me like the surface of a mirror, resembling a whirling firebrand, and in my speed it seemed no larger than a cow's hoofprint."
 
-**4.45.13**  "Then I first went east, then took refuge in the south, and again turned to the west, trembling with fear; and as I was heading north, Hanumān spoke to me."
+**4.45.13**  "Then I first went east, then took refuge in the south, and again turned to the west, trembling with fear; and as I was heading north, Hanūmān spoke to me."
 
 **4.45.14**  "Now I recall, O king, how Vāli, that lord of monkeys, was formerly cursed by the sage Mataṅga within this hermitage precinct."
 
@@ -2982,7 +2982,7 @@ translator: thothica
 
 **4.46.6**  Having completed the first appointed day, the leaders of the monkey troops returned to Prasravaṇa at the end of the month and met with the monkey-king, having found nothing.
 
-**4.46.7**  Having searched the eastern direction as instructed, along with his ministers, mighty Vinata returned without having seen Sītā.
+**4.46.7**  Having searched the eastern direction as instructed, along with his ministers, mighty Vinatā returned without having seen Sītā.
 
 **4.46.8**  And that great monkey, the valiant Śatabali, having searched the entire northern direction, returned together with his army.
 
@@ -3086,7 +3086,7 @@ translator: thothica
 
 **4.48.22**  Those best of leaping monkeys, with Hanūmān at their head, set forth and ranged all around the Vindhya from its very beginning.
 
-**4.49.1**  Together with Tārā and Aṅgada, Hanumān the monkey searched through the caves and thickets of the Vindhya.
+**4.49.1**  Together with Tārā and Aṅgada, Hanūmān the monkey searched through the caves and thickets of the Vindhya.
 
 **4.49.2**  They searched all around through caves frequented by lions and tigers, and through the great cascading waterfalls in the rough terrain of that lord of mountains.
 
@@ -3096,7 +3096,7 @@ translator: thothica
 
 **4.49.5**  Separated from one another yet not far from each other, Gaja, Gavākṣa, Gavaya, Śarabha, and Gandhamādana searched.
 
-**4.49.6**  Mainda and Dvivida, and likewise Hanumān and Jāmbavān, and the crown prince Aṅgada, and Tāra who roams the forest.
+**4.49.6**  Mainda and Dvivida, and likewise Hanūmān and Jāmbavān, and the crown prince Aṅgada, and Tāra who roams the forest.
 
 **4.49.7**  Having searched the southern quarter through regions covered with mountain ranges, overcome by hunger and thirst, exhausted and in need of water, they caught sight of a great cave overgrown with creepers and trees.
 
@@ -3106,7 +3106,7 @@ translator: thothica
 
 **4.49.10**  Seized by curiosity, those foremost among the leaping monkeys, glowing with energy and possessed of great strength, approached that cave with great excitement.
 
-**4.49.11**  Then Hanumān, son of the Wind-god, resembling a mountain peak and skilled in wilderness and forests, addressed all the monkeys.
+**4.49.11**  Then Hanūmān, son of the Wind-god, resembling a mountain peak and skilled in wilderness and forests, addressed all the monkeys.
 
 **4.49.12**  "Having searched the southern quarter through regions covered with mountain ranges, we are all exhausted, and I do not see the Maithilī."
 
@@ -3148,9 +3148,9 @@ translator: thothica
 
 **4.49.31**  Seeing her, they were greatly startled—a female ascetic clad in bark garment and black antelope skin, of regulated diet, blazing as it were with her own splendor.
 
-**4.49.32**  Then Hanumān, resembling a mountain, with hands joined in reverence, greeted that venerable woman and asked: "Who are you? Tell us whose is this dwelling, this cave, and these treasures."
+**4.49.32**  Then Hanūmān, resembling a mountain, with hands joined in reverence, greeted that venerable woman and asked: "Who are you? Tell us whose is this dwelling, this cave, and these treasures."
 
-**4.50.1**  Having spoken thus, Hanumān there again addressed that illustrious female ascetic clad in black antelope skin, that one devoted to dharma.
+**4.50.1**  Having spoken thus, Hanūmān there again addressed that illustrious female ascetic clad in black antelope skin, that one devoted to dharma.
 
 **4.50.2**  "We have entered suddenly into this cave enveloped in darkness, overcome by hunger and thirst, thoroughly exhausted and distressed in every way."
 
@@ -3166,7 +3166,7 @@ translator: thothica
 
 **4.50.8**  "The self, the greatness, and the ascetic power—whose is all this? Since all of us do not know, you ought to explain everything to us."
 
-**4.50.9**  Addressed thus by Hanumān, the female ascetic devoted to dharma, delighting in the welfare of all beings, replied to Hanumān.
+**4.50.9**  Addressed thus by Hanūmān, the female ascetic devoted to dharma, delighting in the welfare of all beings, replied to Hanūmān.
 
 **4.50.10**  "Maya by name—a great-spirited dānava of powerful illusion, the foremost among dānavas—by him all this golden forest was fashioned through māyā."
 
@@ -3192,7 +3192,7 @@ translator: thothica
 
 **4.51.2**  "O monkeys, if your fatigue has passed from eating the fruits, and if this is something I should hear, I wish to hear it—let it be told."
 
-**4.51.3**  Hearing those words of hers, Hanumān, son of the Wind-god, began to relate truthfully and straightforwardly exactly what had occurred.
+**4.51.3**  Hearing those words of hers, Hanūmān, son of the Wind-god, began to relate truthfully and straightforwardly exactly what had occurred.
 
 **4.51.4**  "The glorious Rāma Dāśarathi, king of all the world, comparable to Mahendra and Varuṇa, entered the Daṇḍaka forest."
 
@@ -3226,7 +3226,7 @@ translator: thothica
 
 **4.51.19**  "I am fully satisfied with all these swift monkeys; while I practise my dharma, there is no service here to be done for me by anyone."
 
-**4.52.1**  Thus addressed by the auspicious, dharma-laden words of the female ascetic, Hanumān spoke his words to that woman of blameless conduct.
+**4.52.1**  Thus addressed by the auspicious, dharma-laden words of the female ascetic, Hanūmān spoke his words to that woman of blameless conduct.
 
 **4.52.2**  "We have all taken refuge in you, O lady of righteous conduct. The time-limit set for us by the great-souled Sugrīva has passed, and we have been dwelling inside the cave."
 
@@ -3236,7 +3236,7 @@ translator: thothica
 
 **4.52.5**  "There is also a great task that must be accomplished by us, O righteous lady, and that task too has not been done by us who have been dwelling here."
 
-**4.52.6**  Thus addressed by Hanumān, the female ascetic spoke: "I think it is exceedingly difficult for any living being who has entered here to turn back."
+**4.52.6**  Thus addressed by Hanūmān, the female ascetic spoke: "I think it is exceedingly difficult for any living being who has entered here to turn back."
 
 **4.52.7**  "But by the power of my austerities and by virtue of the self-discipline I have acquired, I shall draw all these monkeys out of this cave."
 
@@ -3292,15 +3292,15 @@ translator: thothica
 
 **4.52.33**  Hearing even Aṅgada's favorable response, all the monkeys, encouraged, said: "Let a plan by which we shall not be slain be devised for us without delay, this very day."
 
-**4.53.1**  While Tāra, who shone with the splendor of the lord of stars, spoke thus, Hanumān perceived that the kingdom was being seized by Aṅgada.
+**4.53.1**  While Tāra, who shone with the splendor of the lord of stars, spoke thus, Hanūmān perceived that the kingdom was being seized by Aṅgada.
 
-**4.53.2**  Hanumān judged Vālin's son to be endowed with the eight qualities of intellect, possessed of the fourfold strength, and graced with fourteen royal virtues.
+**4.53.2**  Hanūmān judged Vālin's son to be endowed with the eight qualities of intellect, possessed of the fourfold strength, and graced with fourteen royal virtues.
 
 **4.53.3**  He saw him ever increasing in splendor, strength, and valor, growing in royal majesty like the moon waxing from the first night of the bright fortnight.
 
 **4.53.4**  He was Bṛhaspati's equal in intellect, his father's equal in valor, and was attending upon Tāra as Śukra attends upon Indra.
 
-**4.53.5**  Then Hanumān, perceiving him exhausted in his master's cause and skilled in all the sciences, began to address Aṅgada with persuasive words.
+**4.53.5**  Then Hanūmān, perceiving him exhausted in his master's cause and skilled in all the sciences, began to address Aṅgada with persuasive words.
 
 **4.53.6**  Describing the third of the four political means — dissension — he split apart all those monkeys with the excellence of his speech.
 
@@ -3334,7 +3334,7 @@ translator: thothica
 
 **4.53.21**  "He also desires your mother's well-being, and his very life exists for her sake; he has no other offspring. Therefore, Aṅgada, let us go."
 
-**4.54.1**  Hearing Hanumān's words — modest, filled with dharma, and accompanied by due honor to his master — Aṅgada replied.
+**4.54.1**  Hearing Hanūmān's words — modest, filled with dharma, and accompanied by due honor to his master — Aṅgada replied.
 
 **4.54.2**  "Steadfastness, complete purity of soul, compassion, uprightness, valor, and courage — none of these are to be found in Sugrīva."
 
@@ -3378,7 +3378,7 @@ translator: thothica
 
 **4.55.1**  While all those monkeys sat fasting at the mountain place prepared for death, the king of vultures approached that very spot.
 
-**4.55.2**  That long-lived bird was named Sampāti, splendid and renowned for his strength and valor — the elder brother of Jaṭāyu.
+**4.55.2**  That long-lived bird was named Saṃpāti, splendid and renowned for his strength and valor — the elder brother of Jaṭāyu.
 
 **4.55.3**  Emerging from a cave of the great Vindhya mountain and seeing the monkeys seated there, he spoke with a delighted heart.
 
@@ -3470,7 +3470,7 @@ translator: thothica
 
 **4.57.7**  "My wings scorched and burned, I fell upon the Vindhya, O best of monkeys — and dwelling here, I have had no news of my brother."
 
-**4.57.8**  When Sampāti had spoken thus of Jaṭāyu, the crown prince Aṅgada of great wisdom then replied.
+**4.57.8**  When Saṃpāti had spoken thus of Jaṭāyu, the crown prince Aṅgada of great wisdom then replied.
 
 **4.57.9**  "If you are truly the brother of Jaṭāyu, you have heard what I have told you — now tell us, if you know, the abode of that rākṣasa."
 
@@ -3520,7 +3520,7 @@ translator: thothica
 
 **4.57.32**  "I wish to go with you to the ocean, abode of Varuṇa — I will offer water for my great-souled brother who has gone to heaven."
 
-**4.57.33**  Then those mighty monkeys of great valor, having carried Sampāti — his wings burned away — to the shore of the lord of rivers and streams,
+**4.57.33**  Then those mighty monkeys of great valor, having carried Saṃpāti — his wings burned away — to the shore of the lord of rivers and streams,
 
 **4.57.34**  brought back that lord of birds to that very place; and the monkeys became filled with joy, having obtained this news to act upon.
 
@@ -3534,7 +3534,7 @@ translator: thothica
 
 **4.58.5**  He, pleased, reassuring those monkeys who were filled with affection and attentive to hear of Sītā, spoke these words again.
 
-**4.58.6**  "Hear now how the abduction of the Vaidehi was heard by me, by whom it was reported to me, and where the wide-eyed one is."
+**4.58.6**  "Hear now how the abduction of the Vaidehī was heard by me, by whom it was reported to me, and where the wide-eyed one is."
 
 **4.58.7**  "I, old and my vital strength and prowess diminished, fell long ago upon this difficult mountain extending many yojanas."
 
@@ -3832,13 +3832,13 @@ translator: thothica
 
 **4.64.34**  "O hero, nothing of this enterprise of yours shall be lacking; I am about to spur on the one who will accomplish it."
 
-**4.64.35**  Then that hero among monkeys, approaching the foremost among leapers—renowned, sitting apart at ease—urged on that very hero among monkeys, Hanumān himself.
+**4.64.35**  Then that hero among monkeys, approaching the foremost among leapers—renowned, sitting apart at ease—urged on that very hero among monkeys, Hanūmān himself.
 
-**4.65.1**  Beholding thus the monkey host of many hundreds of thousands, dejected, Jāmbavān then spoke to Hanumān:
+**4.65.1**  Beholding thus the monkey host of many hundreds of thousands, dejected, Jāmbavān then spoke to Hanūmān:
 
-**4.65.2**  "O hero, O best among all who know the scriptures, O Hanumān—sitting apart in silence, why do you not speak?"
+**4.65.2**  "O hero, O best among all who know the scriptures, O Hanūmān—sitting apart in silence, why do you not speak?"
 
-**4.65.3**  "Hanumān, you are the equal of the monkey king Sugrīva, and of Rāma and Lakṣmaṇa as well, in splendor and in strength.
+**4.65.3**  "Hanūmān, you are the equal of the monkey king Sugrīva, and of Rāma and Lakṣmaṇa as well, in splendor and in strength.
 
 **4.65.4**  "The son of Vinatā, the mighty Garuḍa—renowned as the son of Ariṣṭanemi, foremost of all birds—
 
@@ -3876,7 +3876,7 @@ translator: thothica
 
 **4.65.21**  "Even as you were rushing swiftly through the atmosphere, O great monkey, the wise Indra, seized with rage, hurled his thunderbolt at you.
 
-**4.65.22**  "Thereupon the left side of your jaw broke against a mountain's rocky peak—and from that very circumstance your name is celebrated as 'Hanumān.'
+**4.65.22**  "Thereupon the left side of your jaw broke against a mountain's rocky peak—and from that very circumstance your name is celebrated as 'Hanūmān.'
 
 **4.65.23**  "Then, seeing you struck down, the Wind God Vāyu himself, the bearer of fragrance, became greatly enraged and ceased to blow in all three worlds.
 
@@ -3900,13 +3900,13 @@ translator: thothica
 
 **4.65.33**  "Therefore, O heroic one, rouse yourself—for you are the greatest among leapers; this entire monkey army desires to witness your valor.
 
-**4.65.34**  "Rise, O tiger among monkeys; leap across the great ocean! For your course, O Hanumān, is beyond that of all beings.
+**4.65.34**  "Rise, O tiger among monkeys; leap across the great ocean! For your course, O Hanūmān, is beyond that of all beings.
 
-**4.65.35**  "All the monkeys are dejected—O Hanumān, why do you disregard them? Exert your prowess, O greatly swift one, as Viṣṇu exerted his three strides!"
+**4.65.35**  "All the monkeys are dejected—O Hanūmān, why do you disregard them? Exert your prowess, O greatly swift one, as Viṣṇu exerted his three strides!"
 
 **4.65.36**  Then, spurred on by Jāmbavān, the son of the Wind God, the monkey of renowned speed, gladdening that army of monkey heroes, assumed a great form of his own.
 
-**4.66.1**  As Hanumān was being praised, the mighty one grew in stature; whirling his tail in joy, he attained his full strength.
+**4.66.1**  As Hanūmān was being praised, the mighty one grew in stature; whirling his tail in joy, he attained his full strength.
 
 **4.66.2**  While he was being extolled by all the bull-like monkeys, filling with his own splendor, his form became matchless.
 
@@ -3914,7 +3914,7 @@ translator: thothica
 
 **4.66.4**  The face of that wise one as he stretched shone forth—blazing like a sacrificial vessel, like a smokeless fire.
 
-**4.66.5**  Rising from the midst of the monkeys, his body hair standing up in joy, Hanumān bowed to the elder monkeys and spoke these words:
+**4.66.5**  Rising from the midst of the monkeys, his body hair standing up in joy, Hanūmān bowed to the elder monkeys and spoke these words:
 
 **4.66.6**  "Anila, companion of fire, who splinters mountain peaks, the powerful and immeasurable Wind moving through the sky—
 

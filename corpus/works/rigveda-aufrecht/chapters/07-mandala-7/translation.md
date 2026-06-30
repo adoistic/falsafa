@@ -864,7 +864,7 @@ translator: thothica
 
 **7.48.2**  May we, through the Ṛbhus, be Ṛbhu-like for you; through the Vibhvans may we prevail with great strength; may Vāja protect us in the winning of prizes — yoked with Indra, may we overcome the foe.
 
-**7.48.3**  For even they have many commandments that prevail, winning over all foes and overcoming resistance; may Indra with Vibhvan, Ṛbhukṣan, Vāja, and Arya, through mutual combat, shatter the enemy's might.
+**7.48.3**  For even they have many commandments that prevail, winning over all foes and overcoming resistance; may Indra with Vibhvan, Ṛbhukṣan, Vāja, and Ārya, through mutual combat, shatter the enemy's might.
 
 **7.48.4**  Now, O gods, make wide space for us; be all of one accord for our protection; may the Vasus bestow refreshment upon us — do ye ever protect us with your blessings.
 

@@ -834,7 +834,7 @@ translator: thothica
 
 **4.35.7**  You drank the morning pressing, O Indra of bay steeds; the midday pressing was exclusively yours; drink now together with the Ṛbhus who bestow treasures — those friends whom you made by your skillful deeds, O Indra.
 
-**4.35.8**  You who, through your skillful deeds, became as gods and sat in heaven like eagles — bestow jewels, O grandsons of Strength, O Saudhanvanās who have become immortal.
+**4.35.8**  You who, through your skillful deeds, became as gods and sat in heaven like eagles — bestow jewels, O grandsons of Strength, O Saudhanvanas who have become immortal.
 
 **4.35.9**  That third pressing with its jewel-bestowing which you, dexterous-handed, fashioned with beautiful craft — O Ṛbhus, that is poured out for you; drink together of the exhilarating, strength-giving draughts.
 

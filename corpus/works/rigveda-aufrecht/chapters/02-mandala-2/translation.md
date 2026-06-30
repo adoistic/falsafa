@@ -230,7 +230,7 @@ translator: thothica
 
 **2.11.16**  Those great conquerors of yours, or those who have sought your favor with praises — they, strewing the sacrificial grass as in a homestead, protected by you, O Indra, have truly reached the prize.
 
-**2.11.17**  Among the mighty, O hero — rejoicing — drink the Soma at the three Kadru vessels, O Indra. Having caused your beards to tremble with delight, come with your two bays to drink of the pressed drink.
+**2.11.17**  Among the mighty, O hero — rejoicing — drink the Soma at the three Kadrū vessels, O Indra. Having caused your beards to tremble with delight, come with your two bays to drink of the pressed drink.
 
 **2.11.18**  Assume the might, O hero, with which you broke down Vṛtra, Dānu, and Aurṇavābha. You revealed the light for the Ārya; the Dasyu was made to sit on his left side, O Indra.
 
@@ -368,7 +368,7 @@ translator: thothica
 
 **2.17.5**  He strengthened the eastern mountains with his might, he made the waters flow downward. He held up the earth that nourishes all; by his magic power he propped up the sky lest it fall.
 
-**2.17.6**  The weapon which the father made ready for him with both arms, choosing it from all beings and all birth — with that thunderbolt, having struck, the loud-sounding one opened the way to lay Krivi low upon the earth.
+**2.17.6**  The weapon which the father made ready for him with both arms, choosing it from all beings and all birth — with that thunderbolt, having struck, the loud-sounding one opened the way to lay Kṛvi low upon the earth.
 
 **2.17.7**  Like an old maid staying at home with her parents, I seek blessing from thee from the common seat. Make me conspicuous, bring to me — give the bodily share by which thou wouldst magnify.
 
@@ -444,7 +444,7 @@ translator: thothica
 
 **2.22.1**  The great bull was satisfied and drank at the three Trikadrukas the soma mixed with barley, pressed by Viṣṇu, as he willed — the mighty one was exhilarated to do the great deed. The great, far-reaching drop follows the true god, Indra, the true god.
 
-**2.22.2**  Then, radiant, in battle he attacked Krivi with his might; he filled the two world-halves; by his greatness he increased. Then he placed another in his belly, and overflowed from it — the true drop follows the true god Indra, the true god.
+**2.22.2**  Then, radiant, in battle he attacked Kṛvi with his might; he filled the two world-halves; by his greatness he increased. Then he placed another in his belly, and overflowed from it — the true drop follows the true god Indra, the true god.
 
 **2.22.3**  Born at once with will-power, thou hast grown together with strength; grown great at once with heroic deeds, the overwhelmer of enemies, the all-seeing. The giver of desirable wealth to the praiser — the true drop follows the true god Indra, the true god.
 
@@ -538,21 +538,21 @@ translator: thothica
 
 **2.26.4**  Him who has attended Brahmaṇaspati with fat-laden oblations, Brahmaṇaspati leads forward on the eastern path. He guards from distress, protects from injury — the wide-acting, wondrous one saves him even from the narrowest strait.
 
-**2.27.1**  These hymns, flowing like ghee, I offer with my tongue as an oblation to the Ādityas, the eternal kings. May Mitra, Aryamān, Bhaga hear us, may Varuṇa of mighty birth, Dakṣa, and Aṁśa hear.
+**2.27.1**  These hymns, flowing like ghee, I offer with my tongue as an oblation to the Ādityas, the eternal kings. May Mitra, Aryaman, Bhaga hear us, may Varuṇa of mighty birth, Dakṣa, and Aṁśa hear.
 
-**2.27.2**  May Mitra, Aryamān, and Varuṇa, of one purpose with me, accept this hymn of praise today. The Ādityas, pure, cleansed by the stream of truth, faultless, blameless, inviolate.
+**2.27.2**  May Mitra, Aryaman, and Varuṇa, of one purpose with me, accept this hymn of praise today. The Ādityas, pure, cleansed by the stream of truth, faultless, blameless, inviolate.
 
 **2.27.3**  Those Ādityas are broad and deep, undeceived, warding off deceit, with many eyes. They see within both the crooked and the straight — all things are near even to these kings from the farthest distance.
 
 **2.27.4**  The Ādityas sustain the moving and the standing; they are gods, guardians of all the world. Of far-reaching wisdom, protecting their divine lordship, upholders of ṛta, exacting the dues owed them.
 
-**2.27.5**  O Ādityas, may we know your aid in this matter — O Aryamān, even from fear there is comfort. Under your guidance, O Mitra and Varuṇa, may I turn aside all evils as around a pit.
+**2.27.5**  O Ādityas, may we know your aid in this matter — O Aryaman, even from fear there is comfort. Under your guidance, O Mitra and Varuṇa, may I turn aside all evils as around a pit.
 
-**2.27.6**  For easy is your path, O Aryamān, free of thorns, O Mitra; it is well-made, O Varuṇa. By that path, O Ādityas, speak favorably for us; grant us shelter hard for the wicked to assail.
+**2.27.6**  For easy is your path, O Aryaman, free of thorns, O Mitra; it is well-made, O Varuṇa. By that path, O Ādityas, speak favorably for us; grant us shelter hard for the wicked to assail.
 
-**2.27.7**  May Aditi, daughter of kings, carry us across all enmities; may Aryamān do so by easy paths. May we abide under the great shelter of Mitra and Varuṇa, rich in heroes, unharmed.
+**2.27.7**  May Aditi, daughter of kings, carry us across all enmities; may Aryaman do so by easy paths. May we abide under the great shelter of Mitra and Varuṇa, rich in heroes, unharmed.
 
-**2.27.8**  They sustain three earths and likewise three heavens; three ordinances are established within their assembly. By ṛta, O Ādityas, great is your greatness — that, O Aryamān, Varuṇa, Mitra, is beautiful.
+**2.27.8**  They sustain three earths and likewise three heavens; three ordinances are established within their assembly. By ṛta, O Ādityas, great is your greatness — that, O Aryaman, Varuṇa, Mitra, is beautiful.
 
 **2.27.9**  They sustain the three divine luminous realms; golden are they, pure, cleansed by truth's stream. Unsleeping, unwinking, undeceived, of wide renown — they exist for the protection of the upright mortal.
 
@@ -750,17 +750,17 @@ translator: thothica
 
 **2.35.15**  I have obtained for the people, O Agni, a good dwelling; I have also obtained excellent praise for the bountiful ones. All that is auspicious which the gods protect — may we speak aloud in the assembly, with fine heroes.
 
-**2.36.1**  Urging for you, O Vāsiṣṭha, the men milked the kine and the waters with sheep-wool and pressing-stones. Drink, O Indra, the Soma that has been offered with Svāhā, consecrated with Vaṣaṭ, from the Hotr's station — you who as first have the sovereignty.
+**2.36.1**  Urging for you, O Vāsiṣṭha, the men milked the kine and the waters with sheep-wool and pressing-stones. Drink, O Indra, the Soma that has been offered with Svāhā, consecrated with Vaṣaṭ, from the Hotṛ's station — you who as first have the sovereignty.
 
 **2.36.2**  Mingled with the sacrifices and with the dappled mares and spears, beautiful in their anointing on the path, and dear — O sons of Bharata, having taken your seat on the sacred grass, O men of heaven, drink the Soma from the Potr's station.
 
 **2.36.3**  Come near to us like a friend, easy to invoke; sit down upon the sacred grass and rejoice. Then be exhilarated, taking pleasure in the drink, O Tvaṣṭṛ, with the gods and with the divine women, in their company.
 
-**2.36.4**  Bring hither the gods, O inspired Hotr — sacrifice, eager one; sit down in the three stations. Fill in return the onward-moving soma-honey; drink from the Agnīdh's station; satisfy yourself with your own share.
+**2.36.4**  Bring hither the gods, O inspired Hotṛ — sacrifice, eager one; sit down in the three stations. Fill in return the onward-moving soma-honey; drink from the Agnīdh's station; satisfy yourself with your own share.
 
 **2.36.5**  This is that which increases the manly strength of your body, the might placed from of old in your two arms. O bountiful one, it has been pressed for you and brought to you — you yourself, O Indra, drink to satisfaction from the Brahman's station.
 
-**2.36.6**  Take pleasure in the sacrifice, both of you; hearken to my call. The Hotr, having sat down, recites the nivid following the ancient formula. Homage goes toward the two kings who turn hither — from the Praśāstr's station, drink the soma-honey.
+**2.36.6**  Take pleasure in the sacrifice, both of you; hearken to my call. The Hotṛ, having sat down, recites the nivid following the ancient formula. Homage goes toward the two kings who turn hither — from the Praśāstr's station, drink the soma-honey.
 
 **2.37.1**  Be gladdened, O Adhvaryus, according to your pleasure from the Hotṛ's share of the soma-juice — he who desires a full vessel of the libation. Bring therefore this draught to him, the generous giver, obedient to his will: drink the soma from the Hotṛ's cup, O Draviṇodas, at the (proper) seasons.
 
@@ -836,7 +836,7 @@ translator: thothica
 
 **2.41.6**  Those two universal sovereigns, for whom ghee is poured, the two Ādityas, lords of the gift (dānu) — they associate without deviation.
 
-**2.41.7**  O Nāsatyas, O Aśvins — come hither with (gifts of) cattle, with horses. O Rudrā (sons of Rudra), bring the wealth worthy of heroes.
+**2.41.7**  O Nāsatyas, O Aśvins — come hither with (gifts of) cattle, with horses. O Rudra (sons of Rudra), bring the wealth worthy of heroes.
 
 **2.41.8**  That no malicious mortal enemy from without or from within might do harm to you, O ye two whose wealth is the bull (Vṛṣaṇvasū — the Aśvins).
 

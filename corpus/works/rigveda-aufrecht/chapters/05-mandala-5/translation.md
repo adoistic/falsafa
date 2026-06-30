@@ -344,7 +344,7 @@ translator: thothica
 
 **5.23.2**  Bring here that battle-conquering wealth, O Agni; for you are the true, the wonderful, the bestower of food-prize along with cattle.
 
-**5.23.3**  For all the peoples of one mind, who have strewn the sacred grass, seek you as the dear Hotr in their dwellings and win many desirable goods.
+**5.23.3**  For all the peoples of one mind, who have strewn the sacred grass, seek you as the dear Hotṛ in their dwellings and win many desirable goods.
 
 **5.23.4**  For he, the all-people's champion, has assumed the might that overwhelms the foe. O Agni, shine for us with brilliance in these abodes, O gleaming one, shine with radiance, O Purifier.
 
@@ -358,7 +358,7 @@ translator: thothica
 
 **5.25.1**  I approach Agni, your divine one, for protection; he is our treasure. The son of the seers who holds the truth bestows gifts and carries us beyond our foes.
 
-**5.25.2**  He is the true one whom even the ancient gods kindled as the Hotr with the honey-tongued flame — him who shines everywhere with riches and bright splendour.
+**5.25.2**  He is the true one whom even the ancient gods kindled as the Hotṛ with the honey-tongued flame — him who shines everywhere with riches and bright splendour.
 
 **5.25.3**  With the highest, the best thought, and with good mind, O Agni the most desirable, shine upon us with wealth, with fair hymns.
 
@@ -380,7 +380,7 @@ translator: thothica
 
 **5.26.3**  O wise Agni, we kindle you, the inviter of gods to the feast, the radiant, the great, at the sacrifice.
 
-**5.26.4**  Come, O Agni, with all the gods, for the giving of oblations; we choose you as the Hotr.
+**5.26.4**  Come, O Agni, with all the gods, for the giving of oblations; we choose you as the Hotṛ.
 
 **5.26.5**  O Agni, bring manly vigour to the worshipper who presses Soma; sit with the gods on the sacred grass.
 
@@ -402,7 +402,7 @@ translator: thothica
 
 **5.27.5**  A hundred spotted bulls rouse me with delight — the gifts of the horse-sacrifice are like Soma mixed threefold.
 
-**5.27.6**  O Indrā and Agni, at the horse-sacrifice of a hundred gifts, uphold heroic strength and sovereignty, great and undecaying as the sun in heaven.
+**5.27.6**  O Indra and Agni, at the horse-sacrifice of a hundred gifts, uphold heroic strength and sovereignty, great and undecaying as the sun in heaven.
 
 **5.28.1**  The kindled Agni has stretched his flame to heaven, shining broadly to meet the Dawn. The all-desirable one comes eastward with obeisances, seeking the gods with an oblation of clarified butter.
 
@@ -646,9 +646,9 @@ translator: thothica
 
 **5.41.3**  O Aśvins, I would invoke you both to come hither — on the path of the wind, in the welfare of the chariot. Or bear toward the worshipper the thought of the mighty lord of heaven, as one would bring food to the blind.
 
-**5.41.4**  The divine Kaṇva-Hotr who follows on without pause, Trita of the sky in accord, Vāyu, Agni, Pūṣan, Bhaga, the all-nourishing one at the offering-time — they have come to the race like the swiftest of horses.
+**5.41.4**  The divine Kaṇva-Hotṛ who follows on without pause, Trita of the sky in accord, Vāyu, Agni, Pūṣan, Bhaga, the all-nourishing one at the offering-time — they have come to the race like the swiftest of horses.
 
-**5.41.5**  Bring forward for yourselves the wealth with harnessed horses; let thought be placed in the seeking of wealth for protection. The Hotr of the son of Uśij — with the aids that are truly gracious — these Maruts are the speedy ones.
+**5.41.5**  Bring forward for yourselves the wealth with harnessed horses; let thought be placed in the seeking of wealth for protection. The Hotṛ of the son of Uśij — with the aids that are truly gracious — these Maruts are the speedy ones.
 
 **5.41.6**  Make Vāyu come forward, the chariot-yoker; make the divine, inspired one worthy of praise come forward with hymns. May those who strive like arrows, who obtain the truth, the enriching, the understanding patrons — may the good ladies place themselves in thought for us here.
 
@@ -656,7 +656,7 @@ translator: thothica
 
 **5.41.8**  I sing for you prosperous, wealth-giving men — for the Lord of the Dwelling and for Tvaṣṭṛ who gives freely; may the bountiful Dhiṣaṇā, in harmony, with obeisances — may forest trees and herbs seek wealth.
 
-**5.41.9**  For our offspring and lineage may the mountains be ours — those white-gleaming Vasava-like heroes; worthy of praise, the Āptya, the reverend one, ever among us — may he, the manly, increase our fame in our conquest.
+**5.41.9**  For our offspring and lineage may the mountains be ours — those white-gleaming Vāsava-like heroes; worthy of praise, the Āptya, the reverend one, ever among us — may he, the manly, increase our fame in our conquest.
 
 **5.41.10**  I have praised the embryo of the bull-like earth; Trita, the child of the waters, with fair hymns. Agni raises his voice with vigours like a racer; he of the fiery hair shatters the forests.
 
@@ -680,7 +680,7 @@ translator: thothica
 
 **5.41.20**  May she remain with us for the nourishment of the vigorous one.
 
-**5.42.1**  May my most pleasant thought and song now reach Varuṇa, Mitra, Bhaga, and Aditi. May the five-Hotr of the dappled source, the unimpeded path-maker, the mighty Asura, the source of bliss, hear.
+**5.42.1**  May my most pleasant thought and song now reach Varuṇa, Mitra, Bhaga, and Aditi. May the five-Hotṛ of the dappled source, the unimpeded path-maker, the mighty Asura, the source of bliss, hear.
 
 **5.42.2**  May Aditi receive my praise-song as a mother receives her dear, gracious son. The prayer that is dear, established by the gods, that which is a source of bliss — may I place it in Mitra and Varuṇa.
 
@@ -720,7 +720,7 @@ translator: thothica
 
 **5.43.2**  To turn the perfect praise with obeisances — may undiminishing Heaven and Earth come to our prize-contest; the father and mother of honeyed speech, of good hands — may the two glorious ones protect us in every contest.
 
-**5.43.3**  O adhvaryus who have prepared the sweet things, bring the lovely bright one to Vāyu; protect us first as does a Hotr; O god, we have poured sweet drink for your exhilaration.
+**5.43.3**  O adhvaryus who have prepared the sweet things, bring the lovely bright one to Vāyu; protect us first as does a Hotṛ; O god, we have poured sweet drink for your exhilaration.
 
 **5.43.4**  Ten pressing-fingers yoke the arms to the stone — those two skilled dressers of the Soma. The stalk standing on the mountain, the well-armed one, has milked forth the bright sweet essence, drop by drop.
 
@@ -754,9 +754,9 @@ translator: thothica
 
 **5.44.2**  For beauty those well-visible ones of the high — shining with heavenly light he impels the quarters. You are a good shepherd; you are not to be deceived, O of good resolve; by your arts you have been called by the name of truth.
 
-**5.44.3**  The oblation follows the steed and nourishment follows; he of unimpeded course, the Hotr who bears might — the bull-calf gliding along the sacred grass, young in the middle, ageless, placed amid the outstretched ones.
+**5.44.3**  The oblation follows the steed and nourishment follows; he of unimpeded course, the Hotṛ who bears might — the bull-calf gliding along the sacred grass, young in the middle, ageless, placed amid the outstretched ones.
 
-**5.44.4**  These well-yoked ones advance toward this worship on their course, the downward-inclined ones, to be guided, who increase the truth; with good drivers, with all-directing reins, Krivi steals the names on the downward slope.
+**5.44.4**  These well-yoked ones advance toward this worship on their course, the downward-inclined ones, to be guided, who increase the truth; with good drivers, with all-directing reins, Kṛvi steals the names on the downward slope.
 
 **5.44.5**  Resounding together with the young ones, grasping the pressed drink, the winged one who has thought within beautiful-sounding women — he sounds well.
 
@@ -764,7 +764,7 @@ translator: thothica
 
 **5.44.7**  The early-rising one, born of woman or overcoming rivals, the sun, the sage, with rival-conquering mind — may our well-self-rich one win shelter for us all around, guarding the glowing heat and home.
 
-**5.44.8**  Greater than this Yatu by his banner — the seer's voice moves among those where your name is; what was placed therein — whoever finds that one through watchfulness — he who carries by himself will do what is fitting.
+**5.44.8**  Greater than this Yātu by his banner — the seer's voice moves among those where your name is; what was placed therein — whoever finds that one through watchfulness — he who carries by himself will do what is fitting.
 
 **5.44.9**  The foremost of these has taken its stand at the ocean; the pressing to which it has come is not harmed. There the heart of the raw-flesh eater does not tremble — where the thought is found with its pure bond.
 
@@ -942,7 +942,7 @@ translator: thothica
 
 **5.53.8**  Come hither, O Maruts, from heaven, from the atmosphere, from the near and from the far. Do not stand aloof from us in the distance.
 
-**5.53.9**  May neither Rasā, nor Kubhā, nor Krumu detain you; may not Sindhu hold you; may not the Sarayu with its flood-tide stand in your way. May your favour rest with us.
+**5.53.9**  May neither Rasā, nor Kubhā, nor Krumu detain you; may not Sindhu hold you; may not the Sarayū with its flood-tide stand in your way. May your favour rest with us.
 
 **5.53.10**  That fierce host of yours, O Maruts, that troop of chariots of the newer ones — the rains follow in their wake.
 
@@ -1228,9 +1228,9 @@ translator: thothica
 
 **5.70.1**  For the protection of you two is indeed very great and manifold, O Varuṇa — now, O Mitra, may I win your benevolent grace.
 
-**5.70.2**  May we who are free of treachery rightly obtain nourishment from you two for our sustenance — may we be your Rudrās.
+**5.70.2**  May we who are free of treachery rightly obtain nourishment from you two for our sustenance — may we be your Rudras.
 
-**5.70.3**  Protect us, O Rudrās, with your guards, and defend us — you who give excellent protection; may we overcome the Dasyus with our bodies.
+**5.70.3**  Protect us, O Rudras, with your guards, and defend us — you who give excellent protection; may we overcome the Dasyus with our bodies.
 
 **5.70.4**  O two of wondrous power, may we not suffer with our bodies the affliction of yakṣma-disease, not by a remaining ailment nor by a spreading one.
 
@@ -1260,7 +1260,7 @@ translator: thothica
 
 **5.73.7**  The mighty, tall steed of yours is heard in your courses, ever onward; when by his marvels the Atri turns you Aśvins back, O heroes.
 
-**5.73.8**  O Rudrās who delight in sweetness, a honey-rich stream clings to you, overflowing; when ye two carry across the ocean, the ripe food-gifts they bring to you.
+**5.73.8**  O Rudras who delight in sweetness, a honey-rich stream clings to you, overflowing; when ye two carry across the ocean, the ripe food-gifts they bring to you.
 
 **5.73.9**  Truly indeed, O Aśvins, they call you two bringers of joy; in your course ye are most called upon in the course, and in the course ye are most merciful.
 
@@ -1290,7 +1290,7 @@ translator: thothica
 
 **5.75.2**  Come, O Aśvins, across all primordial ages; O workers of wonder, with golden track, most gracious, borne by the flood — hear my honeyed call.
 
-**5.75.3**  Come to us, ye two Aśvins, bringing your treasures; O Rudrās with the golden track, delighting in it, O ye whose wealth is the swift steed — hear my honeyed call.
+**5.75.3**  Come to us, ye two Aśvins, bringing your treasures; O Rudras with the golden track, delighting in it, O ye whose wealth is the swift steed — hear my honeyed call.
 
 **5.75.4**  On your chariot, O two whose wealth is the bull, the song of excellent praise is set; and the tall beast bears you two nourishment and wonderful forms — hear my honeyed call.
 
@@ -1468,7 +1468,7 @@ translator: thothica
 
 **5.87.6**  Your greatness is boundless, O ye of increased might; may the fierce power protect — Evayāmarut; for ye are standers in the front battle line; standing there, ye protect from bonds; blazing like fires.
 
-**5.87.7**  Those Rudrās, of good sacrifice, blazing like fires, of great brilliance — may they protect, Evayāmarut; the earthly dwelling-place has spread out long and wide for them, at whose marches the great troops of those with wondrous power gather.
+**5.87.7**  Those Rudras, of good sacrifice, blazing like fires, of great brilliance — may they protect, Evayāmarut; the earthly dwelling-place has spread out long and wide for them, at whose marches the great troops of those with wondrous power gather.
 
 **5.87.8**  Without enmity, O Maruts, find a path for us; O Evayāmarut, hear the call of the singer; share ye in Viṣṇu's great energy — like a charioteer skilled in craft, drive enmities far away from us.
 

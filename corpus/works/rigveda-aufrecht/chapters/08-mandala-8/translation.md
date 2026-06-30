@@ -222,7 +222,7 @@ translator: thothica
 
 **8.4.1**  Whether eastward, westward, northward or southward, O Indra, you are called by men — you are universally wide-spread, born for men, for the Ānavas you are abundant strength, for the Turvaśas.
 
-**8.4.2**  Whether with Ruma, Ruśama, Śyāvaka, or Kṛpa you rejoice together, O Indra — the Kāṇvas, the bearers of lauds, draw you with their prayers; O Indra come.
+**8.4.2**  Whether with Rumā, Ruśama, Śyāvaka, or Kṛpa you rejoice together, O Indra — the Kāṇvas, the bearers of lauds, draw you with their prayers; O Indra come.
 
 **8.4.3**  As a wild bull thirsty makes its way to a waterless pool's edge, come quickly at our invitation, at the forward journey; among the Kāṇvas drink in full companionship.
 
@@ -990,7 +990,7 @@ translator: thothica
 
 **8.20.1**  Come hither, harm not, ye who go forward; pause not, O ye of equal wrath; ye are the benders even of firm things.
 
-**8.20.2**  With firm fellies, O Maruts, O Ṛbhu-lord, O Rudras of keen cutting — come to us today with refreshment, O ye much desired, O sons of Sobharī, to the sacrifice.
+**8.20.2**  With firm fellies, O Maruts, O Ṛbhu-lord, O Rudras of keen cutting — come to us today with refreshment, O ye much desired, O sons of Sobhari, to the sacrifice.
 
 **8.20.3**  For we know the fierce impetus of the Rudriyas, the active Maruts, of Viṣṇu's rushing, of those who send rain.
 
@@ -1098,7 +1098,7 @@ translator: thothica
 
 **8.22.11**  Even now at this very moment of the day, O Aśvins, O lords who hold unswerving cattle, we call upon you — we who celebrate [you] with songs and praises.
 
-**8.22.12**  Come with those [aids] to my all-containing, all-excellent call, O bulls, most bountiful and most praised of all, O men; with those by which you made Krivi to prosper — with those come hither.
+**8.22.12**  Come with those [aids] to my all-containing, all-excellent call, O bulls, most bountiful and most praised of all, O men; with those by which you made Kṛvi to prosper — with those come hither.
 
 **8.22.13**  Even now in these very days, I call upon those two praised Aśvins close [to me]; those two we implore also with our homage.
 
@@ -2914,7 +2914,7 @@ translator: thothica
 
 **8.83.3**  Bear us beyond the many widespread dangers as if across waters with ships; you are the charioteers of cosmic order.
 
-**8.83.4**  May the excellent thing be ours, O Aryamān; excellent, O Varuṇa, worthy of praise — for it is the excellent that we choose.
+**8.83.4**  May the excellent thing be ours, O Aryaman; excellent, O Varuṇa, worthy of praise — for it is the excellent that we choose.
 
 **8.83.5**  For of the excellent are the wise, ruling, conquering Ādityas the lords; they do not lead to harm.
 

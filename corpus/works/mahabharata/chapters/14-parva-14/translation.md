@@ -1436,7 +1436,7 @@ translator: thothica
 
 **14.26.7**  The divine seers, the Nāgas, and the Asuras, sitting in attendance, asked Prajāpati: 'Let what is good for us be declared.'
 
-**14.26.8**  To them as they inquired after the good, the Blessed One spoke the single syllable Om, which is Brahman; and having heard it they ran off in all directions.
+**14.26.8**  To them as they inquired after the good, the Blessed One spoke the single syllable Oṃ, which is Brahman; and having heard it they ran off in all directions.
 
 **14.26.9**  As they ran off, each taking the instruction for himself, in the serpents the disposition toward biting came forth first of all.
 
@@ -2872,7 +2872,7 @@ translator: thothica
 
 **14.51.43**  Your going pleases me, O mighty-armed Keśava; long is it since you have seen my uncle and the lady Devakī.
 
-**14.51.44**  Honor my uncle Vasudeva and Baladeva, O Mādhava, O greatly wise one, in my name, as is fitting.
+**14.51.44**  Honor my uncle Vāsudeva and Baladeva, O Mādhava, O greatly wise one, in my name, as is fitting.
 
 **14.51.45**  And remember me always, O Mādhava, and Bhīma, foremost among the strong, and Phalguna, and Nakula, and Sahadeva.
 
@@ -3342,7 +3342,7 @@ translator: thothica
 
 **14.58.20**  Then, rested, his feet bathed, that Kṛṣṇa of great splendor, when questioned by his father, recounted the great battle.
 
-**14.59.1**  Vasudeva said: I have heard, O scion of the Vṛṣṇis, of that most marvelous battle, my son, continually, in the openings of men's tales as they spoke.
+**14.59.1**  Vāsudeva said: I have heard, O scion of the Vṛṣṇis, of that most marvelous battle, my son, continually, in the openings of men's tales as they spoke.
 
 **14.59.2**  But you are one who saw it with your own eyes and who knows what was done, O mighty-armed one; therefore tell me the battle truly as it was, O sinless one.
 
@@ -3416,15 +3416,15 @@ translator: thothica
 
 **14.60.1**  Vaiśaṃpāyana said: As the mighty Vāsudeva was recounting that great Bhārata war, there before his father, at the close of his telling—
 
-**14.60.2**  —the hero, O Bhārata, the high-minded one, passed over the slaying of Abhimanyu, that it might bring no grief to Vasudeva.
+**14.60.2**  —the hero, O Bhārata, the high-minded one, passed over the slaying of Abhimanyu, that it might bring no grief to Vāsudeva.
 
-**14.60.3**  For the wise one thought: let not Vasudeva, hearing of the dread slaying of his daughter's son, be consumed by sorrow and grief.
+**14.60.3**  For the wise one thought: let not Vāsudeva, hearing of the dread slaying of his daughter's son, be consumed by sorrow and grief.
 
 **14.60.4**  But Subhadrā, marking that he had passed over the slaying of her son in battle, cried, "Kṛṣṇa, tell of the death of Saubhadra!" and fell upon the ground.
 
-**14.60.5**  Vasudeva then saw her fallen upon the earth, and at the very sight he too sank to the ground, swooning with grief.
+**14.60.5**  Vāsudeva then saw her fallen upon the earth, and at the very sight he too sank to the ground, swooning with grief.
 
-**14.60.6**  Then Vasudeva, O great king, overcome with sorrow and grief at the slaying of his daughter's son, spoke these words to Kṛṣṇa:
+**14.60.6**  Then Vāsudeva, O great king, overcome with sorrow and grief at the slaying of his daughter's son, spoke these words to Kṛṣṇa:
 
 **14.60.7**  "Surely, lotus-eyed one, you are renowned upon earth as a speaker of truth, O slayer of foes—why then do you not tell me today of my grandson's death?
 
@@ -3668,7 +3668,7 @@ translator: thothica
 
 **14.65.7**  There that bull among men, Kṛṣṇa of great splendour, dwelt, well honoured by Vidura and likewise by Yuyutsu.
 
-**14.65.8**  While the Vṛṣṇi heroes were dwelling there, O Janamejaya, your father was born, O king—Parikṣit, the slayer of enemy heroes.
+**14.65.8**  While the Vṛṣṇi heroes were dwelling there, O Janamejaya, your father was born, O king—Parīkṣit, the slayer of enemy heroes.
 
 **14.65.9**  But that king, O great king, smitten by the brahmāstra, was born a corpse, motionless, swelling both joy and grief.
 
@@ -3864,7 +3864,7 @@ translator: thothica
 
 **14.69.9**  And so did the other tigers of the Vṛṣṇis; and the lord Janārdana, faithful to his word, conferred a name upon your father, O great king.
 
-**14.69.10**  "Since this son of Abhimanyu has been born when the lineage had dwindled away, let his name be Parikṣit," he said then.
+**14.69.10**  "Since this son of Abhimanyu has been born when the lineage had dwindled away, let his name be Parīkṣit," he said then.
 
 **14.69.11**  In due season your father grew, O ruler of men, and he was a delight to the hearts of all the world, O Bhārata.
 
@@ -4002,7 +4002,7 @@ translator: thothica
 
 **14.72.7**  Dhanaṃjaya of the white horses followed after that black-spotted steed, in due form, O guardian of the earth, at the command of the righteous king.
 
-**14.72.8**  Brandishing the Gāṇḍiva, O king, with leathern guard upon his fingers bound, he followed that horse, joined with gladness, O guardian of the earth.
+**14.72.8**  Brandishing the Gāṇḍīva, O king, with leathern guard upon his fingers bound, he followed that horse, joined with gladness, O guardian of the earth.
 
 **14.72.9**  Then, O king, the whole city, down to the children, came forth, O lord, eager to behold the best of the Kurus, Dhanaṃjaya, as he was setting out.
 
@@ -4016,7 +4016,7 @@ translator: thothica
 
 **14.72.14**  And yet others, O lord of men, the men said these words: "We cannot see him in the crush; only this bow can be seen.
 
-**14.72.15**  For this is the famed Gāṇḍiva bow of terrible roar. May he go in safety along a road unharmed and free from all fear; we shall behold him again upon his return"—thus too they spoke.
+**14.72.15**  For this is the famed Gāṇḍīva bow of terrible roar. May he go in safety along a road unharmed and free from all fear; we shall behold him again upon his return"—thus too they spoke.
 
 **14.72.16**  Such, O bull of the Bharatas, were the sweet words of the men and women, spoken again and again, that he heard.
 
@@ -4330,7 +4330,7 @@ translator: thothica
 
 **14.77.32**  "Look upon me, your sister, and upon this son of your sister's son; you should show me compassion, O knower of duty, O pride of the Kurus, forgetting the king of the Kurus and that fool Jayadratha."
 
-**14.77.33**  "As Parikṣit, slayer of hostile heroes, was born of Abhimanyu, so was this grandson of mine born of Suratha, O mighty-armed one."
+**14.77.33**  "As Parīkṣit, slayer of hostile heroes, was born of Abhimanyu, so was this grandson of mine born of Suratha, O mighty-armed one."
 
 **14.77.34**  "Taking him up, O tiger among men, I have come into your presence for the sake of peace among all the warriors; and hear this my word."
 
@@ -4710,7 +4710,7 @@ translator: thothica
 
 **14.84.14**  The young princes of the Yādavas, harrying that best of horses, set out against it, but Ugrasena, O king, held them back.
 
-**14.84.15**  Then the lord of the Vṛṣṇis and Andhakas came forth from the city, together with Vasudeva, the maternal uncle of the diademed hero.
+**14.84.15**  Then the lord of the Vṛṣṇis and Andhakas came forth from the city, together with Vāsudeva, the maternal uncle of the diademed hero.
 
 **14.84.16**  The two came up to the foremost of the Kurus and stood ready to honor that best of the Bharatas duly and with affection, with the highest homage; then, taking leave of them, he went on by the way the horse had gone.
 

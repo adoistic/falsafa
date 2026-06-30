@@ -242,7 +242,7 @@ translator: thothica
 
 **8.4.29**  The son of Bhagadatta, O king, sagacious and mighty in strength, was struck down by Nakula, who ranged through the battle like a hawk.
 
-**8.4.30**  Your grandsire too, Bāhlika, together with the Bāhlikas, was sent valorously to the seat of Yama by Bhīmasena.
+**8.4.30**  Your grandsire too, Bāhlika, together with the Bāhlīkas, was sent valorously to the seat of Yama by Bhīmasena.
 
 **8.4.31**  So too Jayatsena, son of Jarāsaṃdha, of great strength, the Māgadha, was slain in battle by the great-souled son of Subhadrā.
 
@@ -1242,7 +1242,7 @@ translator: thothica
 
 **8.12.66**  Struck by these, those two foremost of all men, streaming blood, like Kubera and Indra, seemed overcome by one whose lore was complete; and others wondered, "Are these two slain?"
 
-**8.12.67**  Then the lord of the Daśārhas said to Arjuna: "Why are you heedless? Slay this warrior! Neglected, he will work mischief, and grow grievous as a malady left untreated."
+**8.12.67**  Then the lord of the Dāśārhas said to Arjuna: "Why are you heedless? Slay this warrior! Neglected, he will work mischief, and grow grievous as a malady left untreated."
 
 **8.12.68**  Saying "So be it" to Acyuta, and now alert, he hewed at Droṇa's son with arrows in earnest; and cutting the reins, he struck the horses, which bore him far away from the battle.
 
@@ -1260,7 +1260,7 @@ translator: thothica
 
 **8.13.4**  "When you have slain him, you shall slay the Saṃśaptakas again." And at the end of his words he brought Pārtha into the presence of Daṇḍadhāra.
 
-**8.13.5**  That chief of the Magadhas, his goad in hand, irresistible among adversaries as a comet among the planets, that dreadful one churned the enemy's host as a flaming comet would scourge the whole earth.
+**8.13.5**  That chief of the Māgadhas, his goad in hand, irresistible among adversaries as a comet among the planets, that dreadful one churned the enemy's host as a flaming comet would scourge the whole earth.
 
 **8.13.6**  Mounted upon his well-caparisoned elephant — like a Dānava-elephant, roaring like a great cloud, a crusher of foes — he slew chariots, horses, and herds of elephants by the thousand, and elephants too, with his arrows.
 
@@ -1446,7 +1446,7 @@ translator: thothica
 
 **8.15.8**  Elephants with their trunks struck off, their pennons, banners, and weapons gone, together with their foot-guards, that slayer of foes slew as the foe-slayer slew his enemies with the thunderbolt.
 
-**8.15.9**  Horsemen with their lances, javelins, and quivers, and their horses too, the Pulindas, Khaśas, Bāhlīkas, the Niṣādas, and the Tangaṇas,
+**8.15.9**  Horsemen with their lances, javelins, and quivers, and their horses too, the Pulindas, Khaśas, Bāhlīkas, the Niṣādas, and the Taṅgaṇas,
 
 **8.15.10**  the southerners and the Bhojas, cruel and hardened in war—stripping them of weapons and armor with his arrows, Pāṇḍya robbed them of life.
 
@@ -2248,7 +2248,7 @@ translator: thothica
 
 **8.21.25**  Then all the foremost heroes of the Pāṇḍavas pressed Karṇa hard—Yudhāmanyu and Śikhaṇḍin and the sons of Draupadī and the Prabhadrakas.
 
-**8.21.26**  Uttamaujas and Yuyutsu, the twins, and the grandson of Pṛṣata, and the host of the Cedis, Kārūṣas, and Matsyas, and of the Kekayas, and the mighty Cekitāna, and the Dharma-king of noble vows—
+**8.21.26**  Uttamaujas and Yuyutsu, the twins, and the grandson of Pṛṣata, and the host of the Cedis, Karūṣas, and Matsyas, and of the Kekayas, and the mighty Cekitāna, and the Dharma-king of noble vows—
 
 **8.21.27**  These, with chariots, horses, and elephants and with foot-soldiers of fierce valor, surrounded Karṇa in the battle and showered him with manifold weapons, all uttering harsh words, all bent upon the slaying of Karṇa.
 
@@ -3340,7 +3340,7 @@ translator: thothica
 
 **8.28.63**  How much shall I tell of all the ways in which Dhanaṃjaya surpasses you, surpasses all beings, as the brahmin surpasses every other?
 
-**8.28.64**  This very moment you shall behold them, stationed on their chariot in the forefront of battle—the son of Vasudeva and the Pāṇḍava Dhanaṃjaya.
+**8.28.64**  This very moment you shall behold them, stationed on their chariot in the forefront of battle—the son of Vāsudeva and the Pāṇḍava Dhanaṃjaya.
 
 **8.28.65**  Those two bulls among men, renowned among gods, demons, and mortals, blaze forth in their splendor; but you are like a firefly among men.
 
@@ -3544,7 +3544,7 @@ translator: thothica
 
 **8.30.59**  "Because you have approached me unlawfully — a young girl with kinsmen still living — the women of your houses shall become harlots, and never shall you be freed from this dreadful sin, O basest of men."
 
-**8.30.60**  The Kurus together with the Pāñcālas, the Śālvas, the Matsyas and the Naimiṣas, the Kosalas, the Kāśis, the Aṅgas, the Kaliṅgas, and the Magadhas as well —
+**8.30.60**  The Kurus together with the Pāñcālas, the Śālvas, the Matsyas and the Naimiṣas, the Kosalas, the Kāśis, the Aṅgas, the Kaliṅgas, and the Māgadhas as well —
 
 **8.30.61**  and the illustrious Cedis — these know the eternal law; and good men in many lands, for the most part, keep to it, save those who have lapsed.
 
@@ -3574,7 +3574,7 @@ translator: thothica
 
 **8.30.74**  Ingratitude, the seizing of another's wealth, the drinking of liquor, and the violating of a teacher's wife — for those whose law is this there is no such thing as sin; shame upon the Āraṭṭas, the people of the Five Rivers!
 
-**8.30.75**  From the Kurus to the Pāñcālas, the Naimiṣas, and the Matsyas too — these know the law; and the Kaliṅgas, the Aṅgas, the Magadhas, and the elders live by the ordinances of the wise.
+**8.30.75**  From the Kurus to the Pāñcālas, the Naimiṣas, and the Matsyas too — these know the law; and the Kaliṅgas, the Aṅgas, the Māgadhas, and the elders live by the ordinances of the wise.
 
 **8.30.76**  The eastern quarter is held by the gods, with Agni the knower-of-beings at their head; the southern, guarded by Yama of holy deeds, belongs to the ancestral fathers.
 
@@ -3582,7 +3582,7 @@ translator: thothica
 
 **8.30.78**  Himavat presides over the Rākṣasas and Piśācas, Gandhamādana over the Guhyakas; Dhruva watches over all beings, and Viṣṇu Janārdana over the worlds.
 
-**8.30.79**  The Magadhas understand a hint, the Kosalas a mere glance; the Kurus and Pāñcālas grasp a half-spoken word, the Śālvas need the whole command; but the hillmen are as rugged as the very mountains.
+**8.30.79**  The Māgadhas understand a hint, the Kosalas a mere glance; the Kurus and Pāñcālas grasp a half-spoken word, the Śālvas need the whole command; but the hillmen are as rugged as the very mountains.
 
 **8.30.80**  The Yavanas, O king, are all-knowing and brave above all; the Mlecchas follow only their own usages; but other folk understand nothing unless it is plainly told.
 
@@ -3770,7 +3770,7 @@ translator: thothica
 
 **8.32.16**  Kṛpa and Kṛtavarman, and Śakuni the son of Subala, their troops exultant and furious, smiting hard with their hosts of chariots—
 
-**8.32.17**  —battle-maddened, they fought against the Kosalas, the Kāśis, the Matsyas, the Kārūṣas, the Kekayas, and the brave Śūrasenas, valiant warriors all.
+**8.32.17**  —battle-maddened, they fought against the Kosalas, the Kāśis, the Matsyas, the Karūṣas, the Kekayas, and the brave Śūrasenas, valiant warriors all.
 
 **8.32.18**  That fight, which made an end of them, destroyed the sins of their bodies; for those warriors—Śūdra, Vaiśya, and Kṣatriya—it was righteous, heaven-winning, and bestowing fame.
 
@@ -3936,7 +3936,7 @@ translator: thothica
 
 **8.33.15**  Then the hero, with two razor-tipped shafts and with smooth-jointed arrows, slew in battle the two Pāñcāla guardians of the high-souled king's chariot-wheels.
 
-**8.33.16**  Those two foremost heroes, on either flank of the King of Righteousness, had shone beside his chariot like the twin Punarvasū stars beside the moon.
+**8.33.16**  Those two foremost heroes, on either flank of the King of Righteousness, had shone beside his chariot like the twin Punarvasu stars beside the moon.
 
 **8.33.17**  Yudhiṣṭhira again pierced Karṇa with thirty shafts, and struck Suṣeṇa and Satyasena with three apiece.
 
@@ -3948,13 +3948,13 @@ translator: thothica
 
 **8.33.21**  Sātyaki and Cekitāna, Yuyutsu and the Pāṇḍya, Dhṛṣṭadyumna and Śikhaṇḍin, the sons of Draupadī, and the Prabhadrakas;
 
-**8.33.22**  the twins and Bhīmasena, and the son of Śiśupāla, the Kārūṣas, the surviving Matsyas, the Kekayas, the Kāśis and Kosalas — these heroes, in haste, held Vasuṣeṇa in check.
+**8.33.22**  the twins and Bhīmasena, and the son of Śiśupāla, the Karūṣas, the surviving Matsyas, the Kekayas, the Kāśis and Kosalas — these heroes, in haste, held Vasuṣeṇa in check.
 
 **8.33.23**  And Janamejaya the Pāñcāla pierced Karṇa with his shafts — with boar-eared darts, iron arrows, tubular bolts, and keen arrows, with calf-toothed shafts, broad-headed darts, razor-edged and sparrow-mouthed arrows.
 
 **8.33.24**  With diverse and dreadful weapons the riders of chariots, elephants, and horses rushed at Karṇa from every side, hemming him in with intent to kill.
 
-**8.33.25**  Beset on all sides by the foremost of the Pāṇḍavas, he invoked the Brahma weapon, filling the quarters with his arrows.
+**8.33.25**  Beset on all sides by the foremost of the Pāṇḍavas, he invoked the Brahmā weapon, filling the quarters with his arrows.
 
 **8.33.26**  Then the fire that was Karṇa, with arrows for its mighty flames and his valor for its heat, ranged gracefully through the battle, consuming the forest of the Pāṇḍavas.
 
@@ -4568,7 +4568,7 @@ translator: thothica
 
 **8.40.1**  Saṃjaya said: Vaikartana himself, holding back Bhīmasena—accompanied by the Pāñcāla, hemmed about by the Cedis and the Kekayas—checked him with his shafts.
 
-**8.40.2**  Then Karṇa, exceedingly enraged, slew the Cedis, the Kārūṣas, and the Sṛñjaya great chariot-warriors before the very eyes of Bhīmasena.
+**8.40.2**  Then Karṇa, exceedingly enraged, slew the Cedis, the Karūṣas, and the Sṛñjaya great chariot-warriors before the very eyes of Bhīmasena.
 
 **8.40.3**  Then Bhīmasena, leaving Karṇa, that best of chariot-warriors, advanced upon the Kaurava host, blazing like fire upon dry brushwood.
 
@@ -5514,7 +5514,7 @@ translator: thothica
 
 **8.48.12**  Hearing the like from those other most excellent sages whom we ever revered, I had never thought to bow to Suyodhana — nor did I know you to be one stricken with fear of the son of Adhiratha.
 
-**8.48.13**  Mounted upon that fair, ape-bannered car wrought by Tvaṣṭṛ, its axles never creaking, grasping your sword bright with gold and this Gāṇḍiva bow as tall as a palm-tree, and borne onward by Keśava himself — how, O Pārtha, could you have turned and fled in fear of Karṇa?
+**8.48.13**  Mounted upon that fair, ape-bannered car wrought by Tvaṣṭṛ, its axles never creaking, grasping your sword bright with gold and this Gāṇḍīva bow as tall as a palm-tree, and borne onward by Keśava himself — how, O Pārtha, could you have turned and fled in fear of Karṇa?
 
 **8.48.14**  Had you, base-souled one, handed this bow to Keśava and yourself become the driver in the battle, then Keśava would have slain the fierce Karṇa, as the Lord of the Maruts, thunderbolt in hand, slew Vṛtra.
 
@@ -5536,7 +5536,7 @@ translator: thothica
 
 **8.49.8**  Thus addressed by Kṛṣṇa, Arjuna, his eyes fixed upon Yudhiṣṭhira, spoke to Govinda, hissing in his anger like a serpent:
 
-**8.49.9**  "Whoever should urge me, saying 'Give the Gāṇḍiva to another,' him I would behead — such is my secret vow."
+**8.49.9**  "Whoever should urge me, saying 'Give the Gāṇḍīva to another,' him I would behead — such is my secret vow."
 
 **8.49.10**  "That very thing has been said to me by the king, O undaunted one of measureless prowess, here before your face, Govinda; and this I cannot bring myself to forgive."
 
@@ -5892,7 +5892,7 @@ translator: thothica
 
 **8.51.5**  And all these Pāñcālas and Sṛñjayas with their kindred, and the Pāṇḍavas, having gained you, the unassailable, stand firm.
 
-**8.51.6**  By the Pāñcālas, the Pāṇḍavas, the Matsyas, the Kārūṣas, the Cedis and the Kekayas, guarded by you, O slayer of foes, was the host of enemies brought to ruin.
+**8.51.6**  By the Pāñcālas, the Pāṇḍavas, the Matsyas, the Karūṣas, the Cedis and the Kekayas, guarded by you, O slayer of foes, was the host of enemies brought to ruin.
 
 **8.51.7**  For who, dear one, is able to conquer in battle the Kauravas gathered together, save the Pāṇḍavas, those great chariot-warriors, when guarded by you in war?
 
@@ -5926,7 +5926,7 @@ translator: thothica
 
 **8.51.22**  That army, surging like the ocean and veiled in dust, was rent asunder and slain by the wrathful Pāṇḍavas guarded by you, O lord.
 
-**8.51.23**  The lord of the Magadhas, the mighty Jayatsena, was slain in battle by Abhimanyu just seven days ago this day.
+**8.51.23**  The lord of the Māgadhas, the mighty Jayatsena, was slain in battle by Abhimanyu just seven days ago this day.
 
 **8.51.24**  Then ten thousand elephants of terrible deeds, that king's retinue, Bhīma slew with his mace; and other elephants too were slain, and chariots by the hundred, by his might.
 
@@ -6056,11 +6056,11 @@ translator: thothica
 
 **8.51.87**  Today let his own kinsmen and friends behold Karṇa sunk in his own blood, lying fallen upon the earth, his weapon flung aside.
 
-**8.51.88**  Struck down by your broad-headed arrow, let the great elephant-girth standard of Ādhiratha's son tremble and fall to the ground.
+**8.51.88**  Struck down by your broad-headed arrow, let the great elephant-girth standard of Adhiratha's son tremble and fall to the ground.
 
 **8.51.89**  Let Śalya in his terror flee, abandoning the gold-adorned chariot, its warrior slain, its frame riddled by your hundreds of shafts.
 
-**8.51.90**  Then, beholding Ādhiratha's son slain by you, let Suyodhana this day despair of his life and of his kingdom alike, O Dhanaṃjaya.
+**8.51.90**  Then, beholding Adhiratha's son slain by you, let Suyodhana this day despair of his life and of his kingdom alike, O Dhanaṃjaya.
 
 **8.51.91**  See, O best of the Bharatas, the Pāñcālas, eager to rescue the Pāṇḍavas, take flight as they are cut down by Karṇa's keen arrows.
 
@@ -6076,7 +6076,7 @@ translator: thothica
 
 **8.51.97**  So too they climbed in their might against the unassailable Droṇa, blazing like the fire of weapons, the preceptor of all bowmen, consuming all before him.
 
-**8.51.98**  Ever ready to conquer their foes in battle, those tamers of enemies, the Pāñcālas, would never out of fear of Ādhiratha's son turn their backs.
+**8.51.98**  Ever ready to conquer their foes in battle, those tamers of enemies, the Pāñcālas, would never out of fear of Adhiratha's son turn their backs.
 
 **8.51.99**  As they rush upon him, the valiant Karṇa takes the lives of those swift Pāñcālas with his arrows, as fire devours moths.
 
@@ -6164,7 +6164,7 @@ translator: thothica
 
 **8.52.31**  With bow in hand, asuras and gods and all creatures gathered together, by the might of my own arms I would drive to ruin. Know my prowess to be supreme above the supreme.
 
-**8.52.32**  With the Gāṇḍīva flaming with arrows, I alone, falling upon all the Kurus and the Bāhlikas, would burn them and their hosts by force, as fire reaching dry brushwood at winter's end.
+**8.52.32**  With the Gāṇḍīva flaming with arrows, I alone, falling upon all the Kurus and the Bāhlīkas, would burn them and their hosts by force, as fire reaching dry brushwood at winter's end.
 
 **8.52.33**  These shafts are as if drawn upon my hand; the bow with its arrow rests fixed in my left hand; my feet stand firm with chariot and banner. None can conquer one like me once I have entered the battle.
 
@@ -6610,7 +6610,7 @@ translator: thothica
 
 **8.57.47**  Such a one, endowed with the virtues of valor, with Kṛṣṇa for his second, do I choose to fight—him guarded by Keśava of boundless might, by the matchless Nārāyaṇa.
 
-**8.57.48**  The virtues of that great soul—conch, discus, and sword in hand, Viṣṇu the conqueror, son of Vasudeva—could not be told in ten thousand years even by all the worlds together. Fear indeed arises in me, and a shudder, to behold the two Kṛṣṇas joined upon a single car.
+**8.57.48**  The virtues of that great soul—conch, discus, and sword in hand, Viṣṇu the conqueror, son of Vāsudeva—could not be told in ten thousand years even by all the worlds together. Fear indeed arises in me, and a shudder, to behold the two Kṛṣṇas joined upon a single car.
 
 **8.57.49**  Both are brave, accomplished, firm in their weapons, great chariot-warriors of well-knit frame. Against such as Phalguna and Vāsudeva, who other than I, O Śalya, would come forth?
 
@@ -7096,7 +7096,7 @@ translator: thothica
 
 **8.63.36**  Vāsuki and Citrasena, Takṣaka and Upatakṣaka, and all the mountains too, and the sons of Kadrū with their lineages—the venom-bearing serpents of great wrath—took their place on Arjuna's side.
 
-**8.63.37**  The serpents of Airāvata's race, the sons of Surabhi, and the Vaiśāleyas—these stood on Arjuna's side, while the lesser snakes were for Karṇa.
+**8.63.37**  The serpents of Airāvata's race, the sons of Surabhī, and the Vaiśāleyas—these stood on Arjuna's side, while the lesser snakes were for Karṇa.
 
 **8.63.38**  The wolves and beasts of prey, and the auspicious creatures, beasts and birds—all of these, O king, looked to Pārtha's victory and cleaved to it.
 
@@ -7348,7 +7348,7 @@ translator: thothica
 
 **8.66.2**  That weapon of Arjuna devoured the heroes, the firmament and the boundless-roaring sky, loosed swiftly by the wrathful son of Pṛthā in the great fray, for the slaying of Karṇa.
 
-**8.66.3**  With the Ātharvaṇa weapon of great majesty, the destroyer of foes, obtained from Rāma, Karṇa scattered that burning weapon of Arjuna and struck the son of Pṛthā with sharpened arrows.
+**8.66.3**  With the Atharvaṇa weapon of great majesty, the destroyer of foes, obtained from Rāma, Karṇa scattered that burning weapon of Arjuna and struck the son of Pṛthā with sharpened arrows.
 
 **8.66.4**  Then a most mighty struggle arose, O king, between that Arjuna and the son of the charioteer, as they fell upon each other with their shafts, like two elephants with the dreadful blows of their tusks.
 

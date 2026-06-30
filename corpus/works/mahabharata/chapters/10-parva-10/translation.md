@@ -1150,11 +1150,11 @@ translator: thothica
 
 **10.11.21**  Vaiśaṃpāyana said: Having spoken thus to the Pāṇḍava king, the fair-faced Kṛṣṇā then approached Bhīmasena and, in her wrath, addressed these words to him.
 
-**10.11.22**  You must save me, Bhīma, remembering the duty of a warrior; slay that doer of evil as Maghavān slew Śambara. For there is no man here whose valor is the equal of yours.
+**10.11.22**  You must save me, Bhīma, remembering the duty of a warrior; slay that doer of evil as Maghavan slew Śambara. For there is no man here whose valor is the equal of yours.
 
 **10.11.23**  It is known in all the worlds how, in their utmost distress, you were an island of refuge to the sons of Pṛthā in the city of Vāraṇāvata; and likewise, when Hiḍimba appeared, you became their deliverance.
 
-**10.11.24**  So too in the city of Virāṭa, when I was sorely tormented by Kīcaka, you raised me up out of that peril, as Maghavān rescued Paulomī.
+**10.11.24**  So too in the city of Virāṭa, when I was sorely tormented by Kīcaka, you raised me up out of that peril, as Maghavan rescued Paulomī.
 
 **10.11.25**  As you accomplished those great deeds of old, O son of Pṛthā, so now, O slayer of foes, strike down the son of Droṇa and find your peace.
 
@@ -1194,7 +1194,7 @@ translator: thothica
 
 **10.12.13**  "That fierce austerity which my father, the teacher of the Bharatas, of truthful valor, performed, and through which he obtained from Agastya, O Kṛṣṇa—
 
-**10.12.14**  the weapon named Brahmaśiras, honored by gods and gandharvas—that now resides in me, O scion of the Daśārhas, even as it did in my father.
+**10.12.14**  the weapon named Brahmaśiras, honored by gods and gandharvas—that now resides in me, O scion of the Dāśārhas, even as it did in my father.
 
 **10.12.15**  Taking from me that divine weapon, O best of the Yadus, give me in return your weapon, the discus that destroys foes in battle."
 
@@ -1258,9 +1258,9 @@ translator: thothica
 
 **10.13.5**  Hṛṣīkeśa mounted, and after him the banner of all bowmen, Arjuna of truthful deeds, and Yudhiṣṭhira, the king of the Kurus.
 
-**10.13.6**  The two great souls, standing on either side of the scion of the Daśārhas, shone forth beside the wielder of Śārṅga seated in the chariot, like the two Aśvins beside Vāsava.
+**10.13.6**  The two great souls, standing on either side of the scion of the Dāśārhas, shone forth beside the wielder of Śārṅga seated in the chariot, like the two Aśvins beside Vāsava.
 
-**10.13.7**  Having taken the two up into the world-honored chariot, the scion of the Daśārhas, with his goad, urged on the swift and excellent steeds.
+**10.13.7**  Having taken the two up into the world-honored chariot, the scion of the Dāśārhas, with his goad, urged on the swift and excellent steeds.
 
 **10.13.8**  Those horses suddenly sprang forward, bearing away that finest of chariots mounted by the two Pāṇḍavas and by the bull of the Yadus.
 
@@ -1288,7 +1288,7 @@ translator: thothica
 
 **10.13.20**  Then from that reed-blade a fire arose, as if to consume the three worlds, like Yama who brings the end at the close of time.
 
-**10.14.1**  Vaiśaṃpāyana said: Discerning from the outset, by his very gesture, the intent of the son of Droṇa, the mighty-armed scion of the Daśārhas spoke to Arjuna.
+**10.14.1**  Vaiśaṃpāyana said: Discerning from the outset, by his very gesture, the intent of the son of Droṇa, the mighty-armed scion of the Dāśārhas spoke to Arjuna.
 
 **10.14.2**  "Arjuna, Arjuna! That divine weapon which abides in your heart, taught to you by Droṇa—now is its time, O Pāṇḍava.
 
@@ -1390,9 +1390,9 @@ translator: thothica
 
 **10.16.2**  Long ago, beholding the daughter of Virāṭa, the daughter-in-law of the wielder of Gāṇḍīva, as she dwelt at Upaplavya, a brāhmaṇa faithful to his vows declared:
 
-**10.16.3**  When the Kurus are wasted away, a son shall be born to you; and this — being thus born in a perished line — shall be his title of Parikṣit, even while he lies in the womb.
+**10.16.3**  When the Kurus are wasted away, a son shall be born to you; and this — being thus born in a perished line — shall be his title of Parīkṣit, even while he lies in the womb.
 
-**10.16.4**  That word of the virtuous one shall surely come to pass: Parikṣit indeed shall be theirs, a son who once more shall carry on the line.
+**10.16.4**  That word of the virtuous one shall surely come to pass: Parīkṣit indeed shall be theirs, a son who once more shall carry on the line.
 
 **10.16.5**  To Govinda, foremost of the Sātvatas, as he spoke thus, Droṇa's son, in utmost fury, then made this reply:
 
@@ -1410,11 +1410,11 @@ translator: thothica
 
 **10.16.12**  Reeking of pus and blood, taking refuge in trackless wastes and wilderness, you shall wander, O evil-souled one, beset by every disease.
 
-**10.16.13**  But Parikṣit, attaining to manhood and gaining the vows of the Veda, that hero, shall obtain all weapons from Kṛpa, the son of Śaradvat.
+**10.16.13**  But Parīkṣit, attaining to manhood and gaining the vows of the Veda, that hero, shall obtain all weapons from Kṛpa, the son of Śaradvat.
 
 **10.16.14**  Having mastered the supreme weapons and standing firm in the vow of a kṣatriya's duty, the righteous-souled one shall guard the earth for sixty years.
 
-**10.16.15**  And from this time onward there shall be a mighty-armed king of the Kurus, a sovereign named Parikṣit, before your very eyes, O most wicked one. Behold, O basest of men, the power of my austerity and of my truth.
+**10.16.15**  And from this time onward there shall be a mighty-armed king of the Kurus, a sovereign named Parīkṣit, before your very eyes, O most wicked one. Behold, O basest of men, the power of my austerity and of my truth.
 
 **10.16.16**  Vyāsa said: Inasmuch as, disregarding us, you have wrought this dreadful deed, and inasmuch as such has been your conduct, even though you are a brāhmaṇa —
 
@@ -1458,7 +1458,7 @@ translator: thothica
 
 **10.16.36**  Then the high-minded Kṛṣṇā, stricken with grief for her sons, rose up; and the King of Righteousness questioned the mighty-armed Kṛṣṇa.
 
-**10.17.1**  Vaiśaṃpāyana said: When all the troops had been slain in the night-massacre by those three warriors, King Yudhiṣṭhira, grieving, spoke thus to the descendant of the Daśārhas:
+**10.17.1**  Vaiśaṃpāyana said: When all the troops had been slain in the night-massacre by those three warriors, King Yudhiṣṭhira, grieving, spoke thus to the descendant of the Dāśārhas:
 
 **10.17.2**  How, O Kṛṣṇa, were all my sons, those mighty warriors, slain by the wicked, base, tireless-handed son of Droṇa?
 

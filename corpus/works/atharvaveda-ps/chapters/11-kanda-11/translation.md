@@ -191,7 +191,7 @@ translator: thothica
 
 **11.9.3**  From Kāla the ṛc-verses came together; the yajus was born from Kāla. Kāla set in motion the sacrifice, the imperishable share belonging to the gods.
 
-**11.9.4**  In Kāla are the Gandharvāpsarases; in Kāla the worlds are gathered. In Kāla this divine Aṅgiras and Atharvān stand supreme.
+**11.9.4**  In Kāla are the Gandharvāpsarases; in Kāla the worlds are gathered. In Kāla this divine Aṅgiras and Atharvan stand supreme.
 
 **11.9.5**  This world and the highest world, the blessed worlds and the blessed sustaining powers — having conquered all worlds with brahman, that Kāla moves on: he is verily the supreme god.
 

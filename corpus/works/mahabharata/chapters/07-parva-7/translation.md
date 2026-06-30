@@ -188,7 +188,7 @@ translator: thothica
 
 **7.2.36**  In a chariot great and armored, with its banner, gleaming with gold and pearls and gems and diamonds, yoked to noble horses and thundering like a cloud, Karṇa rode—measureless in might, like the sun itself.
 
-**7.2.37**  Bright as the fire-eater, in his fire-bright, fair chariot the radiant bowman stood—Ādhiratha's son, that mighty car-warrior, shining as he stood, like the king of the gods himself stationed in his celestial car.
+**7.2.37**  Bright as the fire-eater, in his fire-bright, fair chariot the radiant bowman stood—Adhiratha's son, that mighty car-warrior, shining as he stood, like the king of the gods himself stationed in his celestial car.
 
 **7.3.1**  Saṃjaya said: That great-souled one of boundless might lay upon his bed of arrows, like the ocean drained dry by a vast gathering of winds.
 
@@ -202,7 +202,7 @@ translator: thothica
 
 **7.3.6**  The crest of all the armies, the very emblem of all bowmen, pierced through by Dhanaṃjaya's shafts—your father, the man of the great vow.
 
-**7.3.7**  When Ādhiratha's son beheld that hero lying upon the bed of heroes, that bull among men, Bhīṣma, peerless among the Bharatas—
+**7.3.7**  When Adhiratha's son beheld that hero lying upon the bed of heroes, that bull among men, Bhīṣma, peerless among the Bharatas—
 
 **7.3.8**  —he stepped down from his chariot, stricken, his voice broken with tears, and saluting him, his palms joined in reverence, spoke in homage.
 
@@ -556,7 +556,7 @@ translator: thothica
 
 **7.8.26**  For I can see no other capable of slaying that valiant one except the fierce Dhṛṣṭadyumna, guarded as he was by the Diademed Arjuna.
 
-**7.8.27**  Then that base-born Pāñcāla, surrounded on all sides by those heroes — by the Kekayas, the Cedis, the Kārūṣas, the Matsyas, and other kings —
+**7.8.27**  Then that base-born Pāñcāla, surrounded on all sides by those heroes — by the Kekayas, the Cedis, the Karūṣas, the Matsyas, and other kings —
 
 **7.8.28**  slew the teacher, who had been thrown into confusion as a serpent is by ants, while he was engaged in a deed hard to perform — such is my belief.
 
@@ -608,7 +608,7 @@ translator: thothica
 
 **7.9.13**  When Bībhatsu advanced, his chariot dark as a rain-cloud, of supreme valor, hurling tumultuous thunderbolts like Parjanya —
 
-**7.9.14**  he of the monkey-bannered standard rained down showers of arrows as Maghavān rains the rains, choking the sky with shafts and making all the quarters crash with the din of his palm-guards and wheel-rims —
+**7.9.14**  he of the monkey-bannered standard rained down showers of arrows as Maghavan rains the rains, choking the sky with shafts and making all the quarters crash with the din of his palm-guards and wheel-rims —
 
 **7.9.15**  terrible, his bow flashing like lightning, his chariot-squadrons a thundercloud, thundering with the roar of his chariot-rims, made fearsome by the rush of arrows —
 
@@ -780,7 +780,7 @@ translator: thothica
 
 **7.10.26**  No end can be reached, Saṃjaya, of the deeds of Hṛṣīkeśa, who is endowed with valor and again with wisdom.
 
-**7.10.27**  So too Gada and Sāmba, Pradyumna and Vidūratha, Āgāvaha and Aniruddha, Cārudeṣṇa and Sāraṇa,
+**7.10.27**  So too Gada and Sāmba, Pradyumna and Viḍūratha, Āgāvaha and Aniruddha, Cārudeṣṇa and Sāraṇa,
 
 **7.10.28**  Ulmuka and Niśaṭha, Jhallī and the valiant Babhru, Pṛthu and Vipṛthu, Samīka and Arimejaya—
 
@@ -1686,7 +1686,7 @@ translator: thothica
 
 **7.20.17**  When that mighty bull among the chariot-warriors of the Pāñcālas was slain, Yudhiṣṭhira, in dread of Droṇa, withdrew on his swift horses.
 
-**7.20.18**  The Pāñcālas, Kekayas, Matsyas, Cedis, Kārūṣas, and Kosalas, looking to Yudhiṣṭhira, joyfully rushed upon Droṇa.
+**7.20.18**  The Pāñcālas, Kekayas, Matsyas, Cedis, Karūṣas, and Kosalas, looking to Yudhiṣṭhira, joyfully rushed upon Droṇa.
 
 **7.20.19**  Then the teacher, slayer of throngs of foes, eager to reach Yudhiṣṭhira, scattered those battalions as the wind scatters a heap of cotton.
 
@@ -1696,7 +1696,7 @@ translator: thothica
 
 **7.20.22**  As he roared, Droṇa with a razor-headed shaft swiftly struck his head, with its earrings, from his body; and thereupon the Matsyas fled.
 
-**7.20.23**  Having vanquished the Matsyas, the son of Bharadvāja conquered the Cedis, the Kārūṣas, the Kekayas, the Pāñcālas, the Sṛñjayas, and the Pāṇḍus, again and again.
+**7.20.23**  Having vanquished the Matsyas, the son of Bharadvāja conquered the Cedis, the Karūṣas, the Kekayas, the Pāñcālas, the Sṛñjayas, and the Pāṇḍus, again and again.
 
 **7.20.24**  Seeing him of the golden chariot, wrathful, consuming the battalions like a raging fire a forest, the Sṛñjayas trembled.
 
@@ -2868,7 +2868,7 @@ translator: thothica
 
 **7.34.28**  guarded by tigers among men, great archers and smiters, like the Sādhyas, the Rudras, and the Maruts, with the prowess of the Vasus, of Agni, and of the Ādityas.
 
-**7.34.29**  Saṃjaya said: Hearing those words of his, he urged on his driver: "Sumitra, drive the horses swiftly into battle, toward Droṇa's array!"
+**7.34.29**  Saṃjaya said: Hearing those words of his, he urged on his driver: "Sumitrā, drive the horses swiftly into battle, toward Droṇa's array!"
 
 **7.35.1**  Saṃjaya said: But the son of Subhadrā, having heard the word of the wise Dharma-king, urged on his driver toward Droṇa's array, O descendant of Bharata.
 
@@ -2888,7 +2888,7 @@ translator: thothica
 
 **7.35.9**  Then the sūta, his heart not over-glad, urged on his three-year-old steeds, decked in trappings of gold.
 
-**7.35.10**  Those horses, sent on by Sumitra toward Droṇa's array, rushed upon Droṇa, O king, with great speed and force.
+**7.35.10**  Those horses, sent on by Sumitrā toward Droṇa's array, rushed upon Droṇa, O king, with great speed and force.
 
 **7.35.11**  Beholding him come on thus, all the Kauravas, led by Droṇa, advanced against him, and the Pāṇḍavas followed after him.
 
@@ -4814,7 +4814,7 @@ translator: thothica
 
 **7.61.39**  and the unassailable Dhṛṣṭadyumna, and the unvanquished Śikhaṇḍin, the Aśmakas and the Kekayas, and Kṣatradharman the son of the Somakas,
 
-**7.61.40**  and the Caidya and Cekitāna, and Abhibhu the son of the king of Kāśi, the sons of Draupadī, Virāṭa and Drupada that great car-warrior, the twins, those tigers among men, and the slayer of Madhu for counselor—
+**7.61.40**  and the Caidya and Cekitāna, and Abhibhū the son of the king of Kāśi, the sons of Draupadī, Virāṭa and Drupada that great car-warrior, the twins, those tigers among men, and the slayer of Madhu for counselor—
 
 **7.61.41**  who in this world that wished to live would ever do battle with these subduers of foes, who wield and let loose the celestial weapons?
 
@@ -5236,13 +5236,13 @@ translator: thothica
 
 **7.67.8**  Swiftly Bībhatsu, foremost of all bearers of weapons, charged him, hurling arrows that broke the force of his arrows.
 
-**7.67.9**  As he swiftly cast his broad-headed shafts, the immeasurable one struck them back with broad-headed shafts of smooth joints, invoking the Brahma weapon.
+**7.67.9**  As he swiftly cast his broad-headed shafts, the immeasurable one struck them back with broad-headed shafts of smooth joints, invoking the Brahmā weapon.
 
 **7.67.10**  We beheld that wondrous mastery of Droṇa in the fight — that though the youthful Arjuna strove, he could not strike him back.
 
 **7.67.11**  As a great cloud pours down its streams of water by the thousand, so the cloud that was Droṇa rained showers of arrows upon the mountain that was Pārtha.
 
-**7.67.12**  That rain of arrows, O sire, the radiant Arjuna received with the Brahma weapon itself, scattering arrows with arrows.
+**7.67.12**  That rain of arrows, O sire, the radiant Arjuna received with the Brahmā weapon itself, scattering arrows with arrows.
 
 **7.67.13**  But Droṇa afflicted the white-steeded one with twenty-five swift shafts, and Vāsudeva with seventy, upon the arms and the breast.
 
@@ -5444,7 +5444,7 @@ translator: thothica
 
 **7.68.41**  Those most dreadful, grim-eyed ones who know the wizardry of the Asuras—the Yavanas, the Pāradas, the Śakas together with the Sunikas,
 
-**7.68.42**  the barbarians sprung of cattle, smiters fierce as Death himself, the Dārvābhisāras, the Daradas, and the Puṇḍras together with the Bāhlikas—
+**7.68.42**  the barbarians sprung of cattle, smiters fierce as Death himself, the Dārvābhisāras, the Daradas, and the Puṇḍras together with the Bāhlīkas—
 
 **7.68.43**  those throngs, in their hundreds of thousands, could not be numbered; and such was the storm of their shafts, like an onrush of locusts.
 
@@ -7386,13 +7386,13 @@ translator: thothica
 
 **7.88.30**  There is seen the army of the Āvantyas, of great splendour; and next to it that mighty host of the southerners.
 
-**7.88.31**  And next to that is this great force of the Bāhlikas; and close beside the Bāhlikas, joined with them, is also the mighty host of Karṇa.
+**7.88.31**  And next to that is this great force of the Bāhlīkas; and close beside the Bāhlīkas, joined with them, is also the mighty host of Karṇa.
 
 **7.88.32**  These armies, though distinct one from another, O charioteer, lean each upon the other and will not abandon the field of battle.
 
 **7.88.33**  Reaching the gap between them, urge on the horses gladly; holding a middling pace, carry me through there, O charioteer.
 
-**7.88.34**  There where the Bāhlikas are seen, raising their varied weapons, and the many southerners with the Sūta's son at their head—
+**7.88.34**  There where the Bāhlīkas are seen, raising their varied weapons, and the many southerners with the Sūta's son at their head—
 
 **7.88.35**  and that division which is seen thronged with elephants, horses, and chariots, and beset with foot-soldiers risen from many lands—
 
@@ -8044,7 +8044,7 @@ translator: thothica
 
 **7.96.9**  As he won free of that sea of soldiers, with Hārdikya for its sea-monster, and crossed it, your chariot-warriors in great wrath encircled Sātyaki.
 
-**7.96.10**  Duryodhana, Citrasena, Duḥśāsana and Viviṃśati, Śakuni and Duḥsaha, the youth Durmarṣaṇa, and Kratha—
+**7.96.10**  Duryodhana, Citrasena, Duḥśāsana and Viviṃśati, Śakuni and Duḥsaha, the youth Durmarṣaṇa, and Krātha—
 
 **7.96.11**  and many other heroes, weapon-bearing and unassailable, gave chase, enraged, to Sātyaki as he rode ahead of them.
 
@@ -10244,13 +10244,13 @@ translator: thothica
 
 **7.119.6**  Of Yayāti by Devayānī, Yadu was born, the eldest son; and in the lineage of Yadu there arose one famed as Devamīḍha.
 
-**7.119.7**  His son was the Yādava Śūra, honored throughout the three worlds; and of Śūra came his son, the foremost of men, the far-famed Vasudeva.
+**7.119.7**  His son was the Yādava Śūra, honored throughout the three worlds; and of Śūra came his son, the foremost of men, the far-famed Vāsudeva.
 
 **7.119.8**  Unsurpassed in archery, a brave man equal to Kārtavīrya in battle—and of like prowess, in that very line, was born King Śini.
 
 **7.119.9**  Now at that very time, O king, at the self-choice ceremony of the daughter of great-souled Devaka, where all the warrior caste had assembled,
 
-**7.119.10**  there indeed Śini, vanquishing all the kings, won the lady Devakī for Vasudeva's sake and set her upon his chariot.
+**7.119.10**  there indeed Śini, vanquishing all the kings, won the lady Devakī for Vāsudeva's sake and set her upon his chariot.
 
 **7.119.11**  Seeing that Devakī standing on Śini's chariot, O king, the bull among men, the mighty Somadatta, could not endure it.
 
@@ -11620,7 +11620,7 @@ translator: thothica
 
 **7.132.24**  Cutting down the Abhīṣāhas, the Śūrasenas, the Bāhlīkas, and the Vasātis, the king made the earth a mire of blood.
 
-**7.132.25**  The valiant troops of the Yaudheyas, the Araṭṭas, the Rājanyas, and the Madrakas—these Yudhiṣṭhira sent off in battle with his arrows to the world of Death.
+**7.132.25**  The valiant troops of the Yaudheyas, the Āraṭṭas, the Rājanyas, and the Madrakas—these Yudhiṣṭhira sent off in battle with his arrows to the world of Death.
 
 **7.132.26**  "Strike! Seize him! Take him! Pierce him! Cut him down!"—such was the tumultuous clamor that rose about the chariot of Yudhiṣṭhira.
 
@@ -12062,7 +12062,7 @@ translator: thothica
 
 **7.136.4**  Cutting down the Abhīṣāhas, the Śūrasenas, and the Kṣatriyas frenzied for war, Bhīma made the earth a mire of blood.
 
-**7.136.5**  The Yaudheyas, the Araṭṭas, the princes, and the bands of Madrakas in the battle the Diademed One dispatched to the realm of Death with his sharp arrows.
+**7.136.5**  The Yaudheyas, the Āraṭṭas, the princes, and the bands of Madrakas in the battle the Diademed One dispatched to the realm of Death with his sharp arrows.
 
 **7.136.6**  Sorely afflicted by straight-flying iron shafts driven deep, the elephants fell to the earth like two-peaked mountains.
 
@@ -13816,7 +13816,7 @@ translator: thothica
 
 **7.154.44**  Then he veiled the sky with his arrows, battling against the demon's celestial sorcery; modest, performing a noble deed scarce to be done, the son of the charioteer was not bewildered in the fray.
 
-**7.154.45**  Then in their fear all looked up toward Karṇa, O king—the men of Sindhu and the Bāhlikas alike—honouring his steadiness in the battle, even as they watched the demon prevailing.
+**7.154.45**  Then in their fear all looked up toward Karṇa, O king—the men of Sindhu and the Bāhlīkas alike—honouring his steadiness in the battle, even as they watched the demon prevailing.
 
 **7.154.46**  A śataghnī fitted with wheels, hurled by the demon, slew all four horses together at once; sinking to their knees, they came down upon the earth, lifeless, their teeth and eyes and tongues all gone.
 
@@ -15144,7 +15144,7 @@ translator: thothica
 
 **7.165.78**  Surrounded by elephants whose champions were mostly slain and by many footmen, the son of Śaradvat went off crying, "Woe, woe!"
 
-**7.165.79**  Surrounded by the remnant of the Bhoja host and by the Kaliṅgas, Āraṭṭas, and Bāhlikas, Kṛtavarman, O king, went forth on his swift horses.
+**7.165.79**  Surrounded by the remnant of the Bhoja host and by the Kaliṅgas, Āraṭṭas, and Bāhlīkas, Kṛtavarman, O king, went forth on his swift horses.
 
 **7.165.80**  Joined with a band of footmen, terrified and stricken with fear, Ulūka there fled away, O king, on seeing Droṇa struck down.
 
@@ -15982,7 +15982,7 @@ translator: thothica
 
 **7.172.31**  Never had we seen or even heard, O king, of such a weapon as the unforgiving son of Droṇa let loose.
 
-**7.172.32**  But Arjuna, O great king, raised up the Brahma weapon, ordained by the Lotus-born to counter every other weapon.
+**7.172.32**  But Arjuna, O great king, raised up the Brahmā weapon, ordained by the Lotus-born to counter every other weapon.
 
 **7.172.33**  Then within a moment that darkness was stilled; a cool wind blew, and the quarters grew clear.
 

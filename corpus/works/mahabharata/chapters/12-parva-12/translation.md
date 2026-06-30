@@ -222,7 +222,7 @@ translator: thothica
 
 **12.3.29**  The best of the Bhṛgus, angry yet half-smiling, said to him as he lay fallen on the ground, wretched and trembling, with palms joined:
 
-**12.3.30**  "Because out of greed for weapons you have deceived me here, therefore, O fool, this Brahma-weapon shall not appear to you in your memory—
+**12.3.30**  "Because out of greed for weapons you have deceived me here, therefore, O fool, this Brahmā-weapon shall not appear to you in your memory—
 
 **12.3.31**  except at the hour of your death, when you face one who is your equal. For in one who is no brahman, the brahman power can never abide secure.
 
@@ -1734,11 +1734,11 @@ translator: thothica
 
 **12.29.21**  If even he died, O Sṛñjaya—he who was richer than you in the four blessings and more meritorious than your son—then do not grieve for your son.
 
-**12.29.22**  We have heard, O Sṛñjaya, that Suhotra, son of Vitithi, has died—he for whom Maghavān rained down gold for a whole year.
+**12.29.22**  We have heard, O Sṛñjaya, that Suhotra, son of Vitithi, has died—he for whom Maghavan rained down gold for a whole year.
 
 **12.29.23**  He upon whose accession the earth, called "the wealth-bearing," became true to her name, O lord of men; while that ruler of the realm reigned, the rivers carried gold.
 
-**12.29.24**  Maghavān, honored by the world, O king, let fall into the rivers tortoises and crabs, crocodiles and sea-monsters and dolphins—all of gold.
+**12.29.24**  Maghavan, honored by the world, O king, let fall into the rivers tortoises and crabs, crocodiles and sea-monsters and dolphins—all of gold.
 
 **12.29.25**  Seeing the golden fish, sea-monsters, and turtles fallen by the thousands and hundreds, the son of Vitithi then smiled.
 
@@ -3048,7 +3048,7 @@ translator: thothica
 
 **12.47.17**  The fourfold one in his four forms, abiding in goodness, the lord of the Sātvatas, whom they worship as god with divine and secret supreme names.
 
-**12.47.18**  The god whom the goddess Devakī brought forth from Vasudeva, for the safeguarding of the earthly Veda, as the firestick brings forth blazing fire.
+**12.47.18**  The god whom the goddess Devakī brought forth from Vāsudeva, for the safeguarding of the earthly Veda, as the firestick brings forth blazing fire.
 
 **12.47.19**  Whom the undistracted one, free of all craving, having worshipped Govinda for the sake of the infinite, beholds as the self, stainless, dwelling within his own self.
 
@@ -4874,7 +4874,7 @@ translator: thothica
 
 **12.68.60**  And the ruler of men too, having governed the earth with self-restraint, with truth, and with goodwill, and having worshipped with great sacrifices, attains in glory an honored place in heaven.
 
-**12.68.61**  Thus addressed by his teacher, that best of kings, the heroic Kausalya, with diligent effort carried out the protection of his subjects.
+**12.68.61**  Thus addressed by his teacher, that best of kings, the heroic Kausalyā, with diligent effort carried out the protection of his subjects.
 
 **12.69.1**  Yudhiṣṭhira said: What further duty in particular remains for a king to perform? How is the realm to be protected, and how are enemies to be guarded against?
 
@@ -8766,9 +8766,9 @@ translator: thothica
 
 **12.125.7**  And this hope, O best of the Kurus, is hard to fathom and most hard to fulfill; and because of its very unattainability, I see nothing else harder to attain than it.
 
-**12.125.8**  Bhīṣma said: On this I shall recount to you, Yudhiṣṭhira—mark it well—the ancient tale of what befell Sumitra and the sage Ṛṣabha.
+**12.125.8**  Bhīṣma said: On this I shall recount to you, Yudhiṣṭhira—mark it well—the ancient tale of what befell Sumitrā and the sage Ṛṣabha.
 
-**12.125.9**  A royal sage named Sumitra, of the Haihayas, had gone hunting, and having pierced a deer with a smooth-jointed arrow, he gave chase to it.
+**12.125.9**  A royal sage named Sumitrā, of the Haihayas, had gone hunting, and having pierced a deer with a smooth-jointed arrow, he gave chase to it.
 
 **12.125.10**  That deer, of boundless vigor, bore off the arrow and fled, and the mighty king pursued it swiftly from close behind.
 
@@ -8784,7 +8784,7 @@ translator: thothica
 
 **12.125.16**  And again, summoning its swiftness, that fleet leader of the deer-herd, outstripping him again and again, O lord of kings, would once more draw near.
 
-**12.125.17**  Sumitra, scourge of his foes, taking up a dreadful, vital-piercing, most excellent shaft, loosed it from his bow at the deer.
+**12.125.17**  Sumitrā, scourge of his foes, taking up a dreadful, vital-piercing, most excellent shaft, loosed it from his bow at the deer.
 
 **12.125.18**  Then, by but the distance of a league, that lord of the deer-herds, slipping from the path of the arrow, stood still as if laughing.
 
@@ -8800,7 +8800,7 @@ translator: thothica
 
 **12.125.24**  Then that king, O bull among men, in due order related all to those twice-born ones, and rendered them service, O Bhārata.
 
-**12.125.25**  'Born in the line of the Haihayas, Sumitra, the delight of my friends, I roam slaying the herds of deer with arrows by the thousand, guarded by a mighty host, with my ministers and my women's quarters.'
+**12.125.25**  'Born in the line of the Haihayas, Sumitrā, the delight of my friends, I roam slaying the herds of deer with arrows by the thousand, guarded by a mighty host, with my ministers and my women's quarters.'
 
 **12.125.26**  'A deer pierced by my arrow runs on with the barb in it; following it as it fled, I have come by chance to this forest, into your presence—my fortune lost, my hopes destroyed, wasted with toil.'
 
@@ -8918,7 +8918,7 @@ translator: thothica
 
 **12.126.49**  This I myself beheld, O king, and this word I heard; therefore drive swiftly from you this hope, the leaner of the two.
 
-**12.126.50**  Bhīṣma said: Thus addressed, O great king, by the high-souled Ṛṣabha, Sumitra straightway drove from him then that hope, the leaner one.
+**12.126.50**  Bhīṣma said: Thus addressed, O great king, by the high-souled Ṛṣabha, Sumitrā straightway drove from him then that hope, the leaner one.
 
 **12.126.51**  Even so do you also, O son of Kuntī, having heard this speech of mine, grow steadfast, O king, like Himavān, the noblest of mountains.
 
@@ -10564,7 +10564,7 @@ translator: thothica
 
 **12.146.2**  Bhīṣma said: On this matter I shall relate to you an ancient tale—what Indrota the brāhmaṇa, son of Śunaka, said to Janamejaya.
 
-**12.146.3**  There was a king of great valor, Janamejaya, son of Parikṣit; unwittingly, the slaying of a brāhmaṇa came upon that lord of the earth.
+**12.146.3**  There was a king of great valor, Janamejaya, son of Parīkṣit; unwittingly, the slaying of a brāhmaṇa came upon that lord of the earth.
 
 **12.146.4**  All the brāhmaṇas, together with his household priests, forsook him; and the king, burning day and night, went off to the forest.
 
@@ -12118,7 +12118,7 @@ translator: thothica
 
 **12.167.2**  Having there set the king of cranes ablaze, O king, the mighty lord of the rākṣasas performed the funeral rites in due form.
 
-**12.167.3**  At that very moment the goddess Surabhi, lovely daughter of Dakṣa, appeared above him, abounding in milk.
+**12.167.3**  At that very moment the goddess Surabhī, lovely daughter of Dakṣa, appeared above him, abounding in milk.
 
 **12.167.4**  From her mouth there fell foam mingled with milk, O sinless one, and it dropped upon that pyre of Rājadharman.
 
@@ -15730,7 +15730,7 @@ translator: thothica
 
 **12.221.15**  That peerless among women descended from the front of her aerial car and approached Śakra, lord of the three worlds, and the seer Nārada.
 
-**12.221.16**  Maghavān, with Nārada following him, came up to her in person and, with palms joined in salute, presented himself before the goddess.
+**12.221.16**  Maghavan, with Nārada following him, came up to her in person and, with palms joined in salute, presented himself before the goddess.
 
 **12.221.17**  And that all-knowing king of the gods rendered her unmatched homage, O king, and to Śrī he spoke these words.
 
@@ -18160,7 +18160,7 @@ translator: thothica
 
 **12.260.33**  The sacrifice springs from the Brahman and is offered up into the Brahman; the whole world follows after the sacrifice, and the sacrifice ever follows after the world.
 
-**12.260.34**  "Om" is the womb of the Brahman; "Namaḥ," "Svāhā," "Svadhā," "Vaṣaṭ" — he by whom these are employed, performed according to his power, however slight —
+**12.260.34**  "Oṃ" is the womb of the Brahman; "Namaḥ," "Svāhā," "Svadhā," "Vaṣaṭ" — he by whom these are employed, performed according to his power, however slight —
 
 **12.260.35**  of him they know no fear of the world beyond, throughout the three worlds — so the Vedas declare here, and the perfected ones and the supreme seers.
 
@@ -23776,7 +23776,7 @@ translator: thothica
 
 **12.325.3**  With mind made single-pointed, the brāhmaṇa, that great sage, his arms upraised, chanted a hymn to the Universal One, the One free of qualities, the Great Soul.
 
-**12.325.4**  Nārada said: Homage to you, God of gods [1], Actionless [2], Free of qualities [3], Witness of the worlds [4], Knower of the field [5], Endless [6], Spirit [7], Great Spirit [8], the One of three strands [9], Primordial nature [10], Deathless [11], Sky [12], Eternal [13], the Being and Non-being, Manifest and Unmanifest [14], whose dwelling is cosmic order [15], the First and Foremost god [16], Bestower of wealth [17], Lord of creatures [18], Best Lord of creatures [19], Lord of the woodland [20], Great Lord of creatures [21], Lord of vigor [22], Lord of speech [23], Lord of mind [24], Lord of the world [25], Lord of heaven [26], Lord of the Maruts [27], Lord of the waters [28], Lord of the earth [29], Lord of the quarters [30], the First-dwelling [31], Brahmā's chaplain [32], the Brahma-bodied [33], the Great-bodied [34], the Mahārājika [35], the Fourfold-Mahārājika [36], the Radiant [37], the Greatly-radiant [38], the Sevenfold-greatly-radiant [39], the Yāmya [40], the Great Yāmya [41], the Named-and-Nameless [42], the Tuṣita [43], the Great Tuṣita [44], Pratardana [45], the Wholly-fashioned [46], the One whose will prevails [47], the Un-fashioned [48], Sacrifice [49], Great Sacrifice [50], Origin of sacrifice [51], Womb of sacrifice [52], Embryo of sacrifice [53], Heart of sacrifice [54], Praised in sacrifice [55], Receiver of the sacrificial portion [56], Upholder of the five sacrifices [57], Goal of those who perform the five rites at their times [58], the Pāñcarātrika [59], Vaikuṇṭha [60], Unconquered [61], the Mental One [62], Supreme Master [63], the Well-purified [64], the Swan [65], the Supreme Swan [66], the Supreme Sacrificer [67], Sāṃkhya-and-Yoga [68], the One who reposes in the deathless [69], the One who reposes in gold [70].
+**12.325.4**  Nārada said: Homage to you, God of gods [1], Actionless [2], Free of qualities [3], Witness of the worlds [4], Knower of the field [5], Endless [6], Spirit [7], Great Spirit [8], the One of three strands [9], Primordial nature [10], Deathless [11], Sky [12], Eternal [13], the Being and Non-being, Manifest and Unmanifest [14], whose dwelling is cosmic order [15], the First and Foremost god [16], Bestower of wealth [17], Lord of creatures [18], Best Lord of creatures [19], Lord of the woodland [20], Great Lord of creatures [21], Lord of vigor [22], Lord of speech [23], Lord of mind [24], Lord of the world [25], Lord of heaven [26], Lord of the Maruts [27], Lord of the waters [28], Lord of the earth [29], Lord of the quarters [30], the First-dwelling [31], Brahmā's chaplain [32], the Brahmā-bodied [33], the Great-bodied [34], the Mahārājika [35], the Fourfold-Mahārājika [36], the Radiant [37], the Greatly-radiant [38], the Sevenfold-greatly-radiant [39], the Yāmya [40], the Great Yāmya [41], the Named-and-Nameless [42], the Tuṣita [43], the Great Tuṣita [44], Pratardana [45], the Wholly-fashioned [46], the One whose will prevails [47], the Un-fashioned [48], Sacrifice [49], Great Sacrifice [50], Origin of sacrifice [51], Womb of sacrifice [52], Embryo of sacrifice [53], Heart of sacrifice [54], Praised in sacrifice [55], Receiver of the sacrificial portion [56], Upholder of the five sacrifices [57], Goal of those who perform the five rites at their times [58], the Pāñcarātrika [59], Vaikuṇṭha [60], Unconquered [61], the Mental One [62], Supreme Master [63], the Well-purified [64], the Swan [65], the Supreme Swan [66], the Supreme Sacrificer [67], Sāṃkhya-and-Yoga [68], the One who reposes in the deathless [69], the One who reposes in gold [70].
 
 **12.326.1**  Bhīṣma said: Praised thus with secret and true names, that Lord, bearer of the universal form, revealed himself to the sage Nārada.
 
@@ -24814,7 +24814,7 @@ translator: thothica
 
 **12.334.10**  Let your great sacrifice proceed as you have resolved upon it; you have vowed the horse-sacrifice and have truly learned the law.
 
-**12.334.11**  And the king, the son of Parikṣit, having heard this great narrative, then set about all the rites for the completion of the sacrifice.
+**12.334.11**  And the king, the son of Parīkṣit, having heard this great narrative, then set about all the rites for the completion of the sacrifice.
 
 **12.334.12**  This narrative of Nārāyaṇa I have told you, O king, which was declared of old by Nārada to my teacher, while the seers and the Pāṇḍavas listened, and Kṛṣṇa and Bhīṣma too.
 

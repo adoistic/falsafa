@@ -229,7 +229,7 @@ translator: thothica
 
 **17.12.1**  You who lick inside the pot, O ill-looking seeker of misplaced things — O Uruṇḍa, O Abhicaṅkrama, O Vakmaka, O Bastavāsini — we know all your names together, O she-demons. As many as are born among you, so many shall perish from here, O Sadānvāḥ.
 
-**17.12.2**  Karṇā, Dṛṣadrathāmahā, Urukī, Keśinī, Kraku, Khaḍurī, Ambarīṣyā — we destroy these Sadānvāḥ she-demons.
+**17.12.2**  Karṇa, Dṛṣadrathāmahā, Urukī, Keśinī, Kraku, Khaḍurī, Ambarīṣyā — we destroy these Sadānvāḥ she-demons.
 
 **17.12.3**  Paṇḍugirā, Phāladatī, she who swallows without proper incantation — all of you we declare harmful; perish from here, O Sadānvāḥ.
 

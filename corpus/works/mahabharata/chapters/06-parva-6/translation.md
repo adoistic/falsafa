@@ -638,7 +638,7 @@ translator: thothica
 
 **6.10.20**  the Nicīrā and the Mahitā, and the Suprayogā, O ruler of men, the Pavitrā, the Kuṇḍalā, the Sindhu, the Vājinī, the Puramālinī,
 
-**6.10.21**  the Pūrvābhirāmā and the Vīrā, the Bhīmā and the Oghavatī as well, the Palāśinī, the Pāpaharā, the Mahendrā, and the Pippalāvatī,
+**6.10.21**  the Pūrvābhirāmā and the Vīrā, the Bhīmā and the Oghavatī as well, the Palāśinī, the Pāpaharā, the Mahendra, and the Pippalāvatī,
 
 **6.10.22**  the Pāriṣeṇā and the Asiknī, the Saralā and the Bhāramardinī, the Puruhī, the Pravarā, the Menā, the Moghā, and the Ghṛtavatī too,
 
@@ -646,7 +646,7 @@ translator: thothica
 
 **6.10.24**  the Śaśikāntā and the Śivā, and the Vīravatī as well, the Vāstu, the Suvāstu, the Gaurī, the Kampanā, and the Hiraṇvatī,
 
-**6.10.25**  the Hiraṇvatī, the Citravatī, and the stream Citrasenā, the Rathacitrā, the Jyotirathā, the Viśvāmitrā, and the Kapiñjalā,
+**6.10.25**  the Hiraṇvatī, the Citravatī, and the stream Citrasenā, the Rathacitrā, the Jyotirathā, the Viśvāmitra, and the Kapiñjalā,
 
 **6.10.26**  the Upendrā and the Bahulā, the Kucarā, the Ambuvāhinī, the Vainandī, the Piñjalā, the Veṇṇā, and the great river Tuṅgaveṇā,
 
@@ -656,11 +656,11 @@ translator: thothica
 
 **6.10.29**  the Durgā and the Antaḥśilā, the Brahmamedhyā, the Bṛhadvatī, the Carakṣā and the Mahirohī, and likewise the Jambunadī too,
 
-**6.10.30**  the Sunasā, the Tamasā, the Dāsī, the Trasā, another, the Varāṇasī, the Loloddhṛtakarā, and the great river Pūrṇāśā.
+**6.10.30**  the Sunasā, the Tamasā, the Dāsī, the Trasā, another, the Vārāṇasī, the Loloddhṛtakarā, and the great river Pūrṇāśā.
 
 **6.10.31**  The Mānavī and the Vṛṣabhā too, great rivers, O lord of men, the ever-wholesome Nirāmayā, the Vṛtyā, the Mandagā, and the slow-flowing Mandavāhinī.
 
-**6.10.32**  The Brahmāṇī and the great Gaurī, and the Durgā too, O Bhārata, the Citropalā, the Citrabarhā, the Mañju, and the Makaravāhinī.
+**6.10.32**  The Brāhmaṇī and the great Gaurī, and the Durgā too, O Bhārata, the Citropalā, the Citrabarhā, the Mañju, and the Makaravāhinī.
 
 **6.10.33**  The Mandākinī, the Vaitaraṇī, and the Kokā, a great river, the Śuktimatī, the Araṇyā, the Puṣpaveṇī, and the Utpalāvatī.
 
@@ -700,7 +700,7 @@ translator: thothica
 
 **6.10.51**  The Tīragrāhas, the Taratoyas, the Rājikas, the hosts of the Rasyakas, the Tilakas, the Pārasīkas, the Madhumantas, and the Prakutsakas.
 
-**6.10.52**  The Kāśmīras, the Sindhus and Sauvīras, the Gāndhāras, and the Darśakas likewise, the Abhīsāras, the Kulūtas, the Śaivalas, and the Bāhlikas as well.
+**6.10.52**  The Kāśmīras, the Sindhus and Sauvīras, the Gāndhāras, and the Darśakas likewise, the Abhīsāras, the Kulūtas, the Śaivalas, and the Bāhlīkas as well.
 
 **6.10.53**  The Darvīkas with the Kacas, the Darvas, the Vātadhānas, the Amarathas, the Uragas, the Bahuvādyas too, O Kaurava, the Sudāmans, and the Sumallikas.
 
@@ -782,7 +782,7 @@ translator: thothica
 
 **6.12.4**  Saṃjaya said: O king, many indeed are the continents by which this world is spread out; but I shall declare to you the seven, and the Moon and Sun and planets as well.
 
-**6.12.5**  Eighteen thousand yojanas, O lord of peoples, and six hundred full besides — such is the breadth of the Jambu mountain region.
+**6.12.5**  Eighteen thousand yojanas, O lord of peoples, and six hundred full besides — such is the breadth of the Jambū mountain region.
 
 **6.12.6**  The breadth of the Salt Ocean is reckoned twice as great, strewn with diverse peoples and bright with gems and coral.
 
@@ -1266,7 +1266,7 @@ translator: thothica
 
 **6.17.25**  Drawing along a host of many hundreds of thousands, Duryodhana's great standard was an elephant fashioned of jewels.
 
-**6.17.26**  Before him stood, in their chariots, Paurava and the Kaliṅga king, Sudakṣiṇa the Kāmboja, Kṣemadhanvan, and Sumitra.
+**6.17.26**  Before him stood, in their chariots, Paurava and the Kaliṅga king, Sudakṣiṇa the Kāmboja, Kṣemadhanvan, and Sumitrā.
 
 **6.17.27**  And the king of Magadha marched forth in a costly chariot, his standard a bull, as though drawing the army's van after him.
 
@@ -3690,7 +3690,7 @@ translator: thothica
 
 **6.46.49**  The Piśācas and the Daradas, the Puṇḍras together with the Kuṇḍīviṣas, the Maḍakas and the Laḍakas, the Taṅgaṇas and the Parataṅgaṇas—
 
-**6.46.50**  the Bāhlikas and the Tittiras, the Colas and the Pāṇḍyas, O Bhārata—these peoples, O king, took their station on the right wing.
+**6.46.50**  the Bāhlīkas and the Tittiras, the Colas and the Pāṇḍyas, O Bhārata—these peoples, O king, took their station on the right wing.
 
 **6.46.51**  The Agniveṣyas, the Jagattuṇḍas, and the Paladāśas, O Bhārata, the Śabaras and the Tumbupas, and the Vatsas together with the Nākulas—and Nakula and Sahadeva took their station on the left flank.
 
@@ -4136,7 +4136,7 @@ translator: thothica
 
 **6.50.76**  And the elephants, their riders slain by the high-souled Pāṇḍava, scattered through the ranks like clouds driven by the wind, trampling their own troops and bellowing, sore wounded by arrows.
 
-**6.50.77**  Then the mighty-armed Bhīma, that strong one, blew his conch and made the hearts of all the Kāliṅga soldiery tremble.
+**6.50.77**  Then the mighty-armed Bhīma, that strong one, blew his conch and made the hearts of all the Kaliṅga soldiery tremble.
 
 **6.50.78**  And a stupor seized upon the Kaliṅgas, O scorcher of foes, and their soldiers and their mounts trembled in every part.
 
@@ -4146,7 +4146,7 @@ translator: thothica
 
 **6.50.81**  When the heroes had been terrified by Bhīma of wondrous deeds, some rallying back and some fleeing away in companies,
 
-**6.50.82**  while all the Kāliṅga warriors were thus, the commander of the Pāṇḍava host, the son of Pṛṣata, said to his own ranks, 'Fight!'
+**6.50.82**  while all the Kaliṅga warriors were thus, the commander of the Pāṇḍava host, the son of Pṛṣata, said to his own ranks, 'Fight!'
 
 **6.50.83**  Hearing the words of their commander, the troops led by Śikhaṇḍin advanced toward Bhīma with their smiting bands of cars.
 
@@ -4206,7 +4206,7 @@ translator: thothica
 
 **6.50.111**  Then Sātyaki of true valor, the tiger of the Yadus, gladdening him, spoke to Bhīmasena while Dhṛṣṭadyumna looked on:
 
-**6.50.112**  By good fortune the king of the Kaliṅgas, and the prince Ketumān, and Śakradeva the Kāliṅga, and the Kaliṅgas themselves are slain in the fight.
+**6.50.112**  By good fortune the king of the Kaliṅgas, and the prince Ketumān, and Śakradeva the Kaliṅga, and the Kaliṅgas themselves are slain in the fight.
 
 **6.50.113**  By the strength and valor of your own arm, the great battle-array of the Kaliṅgas, thronged with elephants, horses, and chariots, has been crushed by you alone.
 
@@ -4660,7 +4660,7 @@ translator: thothica
 
 **6.55.80**  When the younger brother of Vāsava beheld those foremost of kings fleeing on every side, and marked the slackness of Pārtha's fighting, and saw Bhīṣma rising up in the battle,
 
-**6.55.81**  then that great-souled lord of all the Daśārhas, no longer brooking it, looked upon the Kurus rushing on from every quarter and, in praise, spoke to the illustrious grandson of Śini:
+**6.55.81**  then that great-souled lord of all the Dāśārhas, no longer brooking it, looked upon the Kurus rushing on from every quarter and, in praise, spoke to the illustrious grandson of Śini:
 
 **6.55.82**  "Let those who flee flee on, O hero of Śini's line; and those who yet stand firm, O Sātvata, let them go too. Behold Bhīṣma flung down from his car by me this day, and Droṇa with his hosts brought low in the battle."
 
@@ -4670,7 +4670,7 @@ translator: thothica
 
 **6.55.85**  "Having slain all the sons of Dhṛtarāṣṭra and those foremost of kings who hold to their side, I shall this day, rejoicing, establish King Ajātaśatru in his kingdom."
 
-**6.55.86**  Then the son of Vasudeva, leaping down from the chariot and loosing his steeds, raised in his arm the fair-naved discus, bright as the sun, of might equal to the thunderbolt, its edge keen as a razor.
+**6.55.86**  Then the son of Vāsudeva, leaping down from the chariot and loosing his steeds, raised in his arm the fair-naved discus, bright as the sun, of might equal to the thunderbolt, its edge keen as a razor.
 
 **6.55.87**  Making the earth tremble with his steps, the great-souled Kṛṣṇa rushed with fury upon Bhīṣma, swollen with pride in the fray, as a lion bent on slaying springs upon a lordly elephant blind with rut.
 
@@ -4750,7 +4750,7 @@ translator: thothica
 
 **6.55.125**  its banks crowded, they beheld on every side—cruel, with the semblance of the great Vaitaraṇī, set flowing by the volleys of Arjuna's arrows, streaming with fat, marrow, and blood, most terrible.
 
-**6.55.126**  Those Cedis, Pāñcālas, Kārūṣas, and Matsyas, and all the sons of Pṛthā together, roared aloud, scattering in terror the army of the host-commanders, as a lion the gathered herds of deer; and those two, filled with surpassing joy, sounded forth—the bearer of the Gāṇḍīva and Janārdana.
+**6.55.126**  Those Cedis, Pāñcālas, Karūṣas, and Matsyas, and all the sons of Pṛthā together, roared aloud, scattering in terror the army of the host-commanders, as a lion the gathered herds of deer; and those two, filled with surpassing joy, sounded forth—the bearer of the Gāṇḍīva and Janārdana.
 
 **6.55.127**  Then, seeing the sun with its web of rays withdrawn, and gazing up at that weapon of Indra spread wide and most dreadful, unbearable, like the end of an age, their limbs sorely gashed by weapons,
 
@@ -5064,7 +5064,7 @@ translator: thothica
 
 **6.59.25**  As he came on with steeds gleaming like silver, hurling arrows from his stout bow, none of your own troops, O Bhārata, could turn him back in that hour.
 
-**6.59.26**  Alambusa, son of Ṛṣyaśṛṅga, pierced him with the points of sharp arrows; but the hero, the grandson of Śini, struck back at him with four and bore down upon him with his chariot.
+**6.59.26**  Alambusa, son of Ṛśyaśṛṅga, pierced him with the points of sharp arrows; but the hero, the grandson of Śini, struck back at him with four and bore down upon him with his chariot.
 
 **6.59.27**  Marking the best of the Vṛṣṇis come on, wheeling about in the midst of his foes, putting to flight the bulls of the Kurus and roaring again and again in the fray —
 
@@ -5972,7 +5972,7 @@ translator: thothica
 
 **6.71.15**  At its beak shone the mighty bowman Bhāradvāja; and Aśvatthāman and Kṛpa were its two eyes, O lord of men.
 
-**6.71.16**  And Kṛtavarman, best among men and foremost of all bowmen, joined by the Kāmbojas, the Araṭṭas, and the Bāhlikas, stood at the head.
+**6.71.16**  And Kṛtavarman, best among men and foremost of all bowmen, joined by the Kāmbojas, the Āraṭṭas, and the Bāhlīkas, stood at the head.
 
 **6.71.17**  At the neck stood Śūrasena and your son Duryodhana, O honored one, O great king, surrounded by many kings.
 
@@ -6440,7 +6440,7 @@ translator: thothica
 
 **6.77.2**  "I, and Droṇa, and Śalya, and Kṛtavarman of the Sātvatas, and Aśvatthāman, and Vikarṇa, and Somadatta, and the lord of the Sindhu,
 
-**6.77.3**  Vinda and Anuvinda of Avantī, Bāhlika together with the Bāhlikas, the mighty king of the Trigartas, and the king of Magadha hard to conquer,
+**6.77.3**  Vinda and Anuvinda of Avantī, Bāhlika together with the Bāhlīkas, the mighty king of the Trigartas, and the king of Magadha hard to conquer,
 
 **6.77.4**  and Bṛhadbala of Kosala, Citrasena, Viviṃśati, and chariot-warriors by the many thousands, splendid under their great banners —
 
@@ -7482,7 +7482,7 @@ translator: thothica
 
 **6.87.19**  And that great bowman, thy son Duryodhana, O foremost of the Bharatas, in his fury slew the chief rākṣasas there.
 
-**6.87.20**  That great chariot-warrior slew with four arrows four of them — the swift, the most fearsome, Vidyujjihva, and Pramāthin.
+**6.87.20**  That great chariot-warrior slew with four arrows four of them — the swift, the most fearsome, Vidyujjihvā, and Pramāthin.
 
 **6.87.21**  Then again that one of immeasurable spirit, O foremost of the Bharatas, loosed an irresistible torrent of arrows against the host of the night-rangers.
 
@@ -7512,7 +7512,7 @@ translator: thothica
 
 **6.88.4**  Pierced by them and streaming with blood like an elephant in rut, that eater of flesh set his mind upon the king's destruction and grasped a great dart, able to rend even the mountains.
 
-**6.88.5**  Flaming like a great meteor, that dart the mighty-armed one raised on high, as Maghavān his thunderbolt, eager to slay thy son.
+**6.88.5**  Flaming like a great meteor, that dart the mighty-armed one raised on high, as Maghavan his thunderbolt, eager to slay thy son.
 
 **6.88.6**  Seeing it lifted up, the lord of the Vaṅgas, in haste, urged on against the rākṣasa his elephant, huge as a hill.
 
@@ -10148,7 +10148,7 @@ translator: thothica
 
 **6.112.108**  The Videhas and the Kaliṅgas, together with the bands of the Dāśerakas, and the Niṣādas and the Sauvīras, fell upon him in that great battle.
 
-**6.112.109**  The Bāhlikas and the Daradas, the easterners and northerners, the Mālavas, the Abhīṣāhas, the Śūrasenas, the Śibis, and the Vasātis.
+**6.112.109**  The Bāhlīkas and the Daradas, the easterners and northerners, the Mālavas, the Abhīṣāhas, the Śūrasenas, the Śibis, and the Vasātis.
 
 **6.112.110**  The Śālvas and their dependents, the Trigartas, the Ambaṣṭhas, together with the Kekayas — all rushed upon Pārtha in battle as moths upon a flame.
 

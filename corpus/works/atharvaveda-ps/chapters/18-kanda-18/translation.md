@@ -319,29 +319,29 @@ translator: thothica
 
 **18.16.1**  Rohita has stood erect above the vault of heaven, the youthful seer generating all forms. Agni blazes with sharp light; in the third wheel of the atmosphere the beloved things shine.
 
-**18.16.2**  The thousand-horned bull, Jatavedas, fed with oblations of ghee, whose back is Soma, possessing good heroes — do not abandon me, I implore you, lest I abandon you. Bestow on me increase in cattle and increase in heroes.
+**18.16.2**  The thousand-horned bull, Jātavedas, fed with oblations of ghee, whose back is Soma, possessing good heroes — do not abandon me, I implore you, lest I abandon you. Bestow on me increase in cattle and increase in heroes.
 
 **18.16.3**  Rohita is the begetter and the mouth of the sacrifice. With speech, hearing, and mind I offer oblation to Rohita. The gods go to Rohita with benevolent hearts. May he lift me up; going together, may he cause me to ascend.
 
-**18.16.4**  Rohita distributed the sacrifice to Vishvakarman; therefore these vital powers have come to me. I shall declare your navel upon the greatness of the world.
+**18.16.4**  Rohita distributed the sacrifice to Viśvakarman; therefore these vital powers have come to me. I shall declare your navel upon the greatness of the world.
 
 **18.16.5**  The bṛhatī meter has ascended you, and the paṅkti; the kakubh has ascended you with brilliance, O Vishvaveda. The uṣṇih, the syllable, the vaṣaṭkāra have ascended you; Rohita together with seed has ascended you.
 
 **18.16.6**  This one clothes the womb of the earth; this one clothes heaven and the atmosphere. This one has reached the luminous dwelling of the blazing sun, the celestial realms.
 
-**18.16.7**  O Lord of Speech, may earth be pleasant for us, pleasant the womb, the couch, most auspicious. May breath remain here among us in friendship. Around you, O Parameshthin, may Agni set you with radiance.
+**18.16.7**  O Lord of Speech, may earth be pleasant for us, pleasant the womb, the couch, most auspicious. May breath remain here among us in friendship. Around you, O Parameṣṭhin, may Agni set you with radiance.
 
-**18.16.8**  O Lord of Speech, the five seasons belonging to Vishvakarman that have come around — [...] [...] may Rohita establish around with radiance.
+**18.16.8**  O Lord of Speech, the five seasons belonging to Viśvakarman that have come around — [...] [...] may Rohita establish around with radiance.
 
-**18.16.9**  O Lord of Speech, goodwill and mind — let our cattle rest content in the stall, and offspring in their wombs. May breath remain here among us in friendship. Around you, O Parameshthin, I myself establish with radiance.
+**18.16.9**  O Lord of Speech, goodwill and mind — let our cattle rest content in the stall, and offspring in their wombs. May breath remain here among us in friendship. Around you, O Parameṣṭhin, I myself establish with radiance.
 
-**18.16.10**  May divine Savitar establish around you with radiance; may Agni and Mitra-Varuna look upon you. All grudging hostile powers depart — rise up! Make this realm full of true and pleasant things.
+**18.16.10**  May divine Savitar establish around you with radiance; may Agni and Mitra-Varuṇa look upon you. All grudging hostile powers depart — rise up! Make this realm full of true and pleasant things.
 
-**18.17.1**  You whom the dappled mare carries on the chariot as a dappled back — you, Rohita, travel beautifully, releasing the waters. By him, O Brahmanaspati, cause this highest ascent, the great rising.
+**18.17.1**  You whom the dappled mare carries on the chariot as a dappled back — you, Rohita, travel beautifully, releasing the waters. By him, O Brahmaṇaspati, cause this highest ascent, the great rising.
 
-**18.17.2**  Rohini, devoted to the vow of Rohita, noble, well-winged, vast, of great brilliance — with her may we win prizes of all forms; with her may we overcome the battles of the clans.
+**18.17.2**  Rohiṇī, devoted to the vow of Rohita, noble, well-winged, vast, of great brilliance — with her may we win prizes of all forms; with her may we overcome the battles of the clans.
 
-**18.17.3**  This is the seat of Rohini belonging to Rohita; yonder is the path along which the dappled one travels. The Gandharvas, the Kashyapas, lead her upward; the poets guard her with unwavering attention.
+**18.17.3**  This is the seat of Rohiṇī belonging to Rohita; yonder is the path along which the dappled one travels. The Gandharvas, the Kashyapas, lead her upward; the poets guard her with unwavering attention.
 
 **18.17.4**  The tawny horses of the sun, bearing banners, immortal, always carry the chariot with ease. Rohita the god, drinking ghee, blazing, has entered heaven and the dappled cow.
 
@@ -355,7 +355,7 @@ translator: thothica
 
 **18.17.9**  Let Agni smite and burn those who attack us. With fire that eats raw flesh we burn our rivals.
 
-**18.17.10**  O Agni, cast the rival down away from us; O Brihaspati, make the kinsman who rises against us stumble. May Indra-Agni and Mitra-Varuna fall upon those below, showing no pity.
+**18.17.10**  O Agni, cast the rival down away from us; O Bṛhaspati, make the kinsman who rises against us stumble. May Indra-Agni and Mitra-Varuṇa fall upon those below, showing no pity.
 
 **18.18.1**  Strike those who face downward down, O Indra, with your thunderbolt, O you of mighty arms. Then my rivals I seize with the fierces of Agni.
 
@@ -849,7 +849,7 @@ translator: thothica
 
 **18.58.3**  Indeed I would not mingle my body with your body—they call it sin when one goes to his sister. Seek your delight with another than me; your brother does not desire this, O fortunate one.
 
-**18.58.4**  Yami, I am here as your protector, yet I will certainly not mingle my body with yours. This would be uncontrolled in my mind and heart—that a brother should lie in his sister's bed.
+**18.58.4**  Yamī, I am here as your protector, yet I will certainly not mingle my body with yours. This would be uncontrolled in my mind and heart—that a brother should lie in his sister's bed.
 
 **18.58.5**  Alas, O Yama, we know not your mind and heart at all. Surely another woman embraces you as the armpit clings to the body, as a creeping vine clasps a tree.
 

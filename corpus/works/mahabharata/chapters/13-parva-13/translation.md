@@ -502,7 +502,7 @@ translator: thothica
 
 **13.4.52**  Lālāṭya and Nārada, and likewise Kūrcamukha as he is remembered, Vāduli and Musala, and Rakṣogrīva as well.
 
-**13.4.53**  Aṅghrika and Naikabhṛt, Śilāyūpa, Sita, Śuci, Cakraka, Mārutantavya, Vātaghna, and then Aśvalāyana.
+**13.4.53**  Aṅghrika and Naikabhṛt, Śilāyūpa, Sītā, Śuci, Cakraka, Mārutantavya, Vātaghna, and then Aśvalāyana.
 
 **13.4.54**  Śyāmāyana, and Gārgya, Jābāli, and Suśruta likewise, then Kārīṣi and Saṃśrutya, and the Parapauravatantavas.
 
@@ -2006,7 +2006,7 @@ translator: thothica
 
 **13.17.112**  The herder, lord of cattle, the village, clad in a hide of leather, Hara; golden-armed, and likewise the guardian of the cave for those who enter.
 
-**13.17.113**  The well-established, of great joy, conqueror of desire, conqueror of the senses; Gandhāra and Surāla, who delights in the works of austerity, the bow.
+**13.17.113**  The well-established, of great joy, conqueror of desire, conqueror of the senses; Gāndhāra and Surāla, who delights in the works of austerity, the bow.
 
 **13.17.114**  Of great song, of mighty dance, attended by the hosts of Apsarases; the great-bannered, the bow, the upholder, follower of many ridges, the ever-moving.
 
@@ -2930,7 +2930,7 @@ translator: thothica
 
 **13.26.46**  Mortifying himself on the Vindhya, true to his word and harmless, standing on one spot for six months, he is purified in but a single month thereafter.
 
-**13.26.47**  Touching the waters of the Narmadā and likewise the waters of Sūrpāraka, fasting for a fortnight, a man is ordained to be born a king's son.
+**13.26.47**  Touching the waters of the Narmadā and likewise the waters of Śūrpāraka, fasting for a fortnight, a man is ordained to be born a king's son.
 
 **13.26.48**  At Jambūmārga, restrained and well-composed for three months, a man wins perfection in but a single day and night.
 
@@ -2946,7 +2946,7 @@ translator: thothica
 
 **13.26.54**  Touching the waters at Piṇḍāraka and fasting for one night, a man, pure when the night brightens into dawn, obtains the merit of the Agniṣṭoma sacrifice.
 
-**13.26.55**  So too, having gone to the Brahma-lake, adorned by the Dharma forest, a man, pure when the night brightens into dawn, obtains the merit of the Puṇḍarīka sacrifice.
+**13.26.55**  So too, having gone to the Brahmā-lake, adorned by the Dharma forest, a man, pure when the night brightens into dawn, obtains the merit of the Puṇḍarīka sacrifice.
 
 **13.26.56**  Bathing on Mount Maināka and worshipping at the twilight hours, and conquering desire for a month, a man wins the fruit of the Sarvamedha sacrifice.
 
@@ -5696,7 +5696,7 @@ translator: thothica
 
 **13.63.12**  Having presented under Maghā vessels filled with sesame, brimming over, a man, blessed with sons and cattle, rejoices both here and in the world to come.
 
-**13.63.13**  At the season of the Pūrvā Phalgunī, having fasted and given to brāhmaṇas dainties prepared with raw sugar, one attains good fortune.
+**13.63.13**  At the season of the Pūrvā Phālgunī, having fasted and given to brāhmaṇas dainties prepared with raw sugar, one attains good fortune.
 
 **13.63.14**  Having given duly, in the domain of the Uttarā asterism, rice of the sixty-day kind dressed with ghee and milk, one is exalted in the world of heaven.
 
@@ -5950,7 +5950,7 @@ translator: thothica
 
 **13.67.2**  Bhīṣma said: On this too they recount an ancient tale, the dialogue of a brāhmaṇa and Yama, O Yudhiṣṭhira.
 
-**13.67.3**  In the Middle Country there was once a great village of brāhmaṇas, set between the Gaṅgā and the Yamunā, below the Yāmuna mountain.
+**13.67.3**  In the Middle Country there was once a great village of brāhmaṇas, set between the Gaṅgā and the Yamunā, below the Yamunā mountain.
 
 **13.67.4**  It was renowned as Parṇaśālā and was a place of delight, O ruler of men; and learned brāhmaṇas in great numbers dwelt there in those days.
 
@@ -6554,9 +6554,9 @@ translator: thothica
 
 **13.76.16**  Pondering this in his mind, Prajāpati then, for the sake of his own creation of beings, drank the nectar that bestows strength.
 
-**13.76.17**  Having come to the contentment thereof, belching forth a fragrant odour, he beheld Surabhi, the daughter born from his mouth, brought forth from his eructation.
+**13.76.17**  Having come to the contentment thereof, belching forth a fragrant odour, he beheld Surabhī, the daughter born from his mouth, brought forth from his eructation.
 
-**13.76.18**  And Surabhi brought forth the daughters of Surabhi, the mothers of the world—tawny cows of golden hue, the milch-cows that are the sustenance of creatures.
+**13.76.18**  And Surabhī brought forth the daughters of Surabhī, the mothers of the world—tawny cows of golden hue, the milch-cows that are the sustenance of creatures.
 
 **13.76.19**  As those of nectar-hue flowed forth on every side, there arose from them a foam born of the nectar, even as the wave-born foam of streaming rivers.
 
@@ -6634,7 +6634,7 @@ translator: thothica
 
 **13.77.21**  He who, having consecrated with the Gomatī hymn a cow fashioned of sesame, rich in flavour and precious as a jewel, bestows it — that man shall not grieve over what he has done or left undone.
 
-**13.77.22**  May the cattle, golden-horned and pouring forth milk, the fragrant ones and the offspring of Surabhi, attend upon me as the rivers attend upon the sea.
+**13.77.22**  May the cattle, golden-horned and pouring forth milk, the fragrant ones and the offspring of Surabhī, attend upon me as the rivers attend upon the sea.
 
 **13.77.23**  May the cattle ever look upon me, and I in turn look upon the cattle; the cattle are ours and we are theirs; where the cattle are, there are we.
 
@@ -6912,15 +6912,15 @@ translator: thothica
 
 **13.82.21**  This, O Śakra, is the reason I have now told you why the abode of cattle lies above even the gods, O lord of a hundred sacrifices.
 
-**13.82.22**  For these cows are both granted by boon and themselves bestowers of boons, O Vāsava—daughters of Surabhi, doers of holy deeds, purifying, and marked with auspicious signs.
+**13.82.22**  For these cows are both granted by boon and themselves bestowers of boons, O Vāsava—daughters of Surabhī, doers of holy deeds, purifying, and marked with auspicious signs.
 
-**13.82.23**  And for what reason the daughters of Surabhi attained the rank of cattle, O best of the gods—hear that too in full as I tell it, O slayer of Bala.
+**13.82.23**  And for what reason the daughters of Surabhī attained the rank of cattle, O best of the gods—hear that too in full as I tell it, O slayer of Bala.
 
 **13.82.24**  Of old, in the age of the gods, dear one, when the great-souled lords of the Daityas were ruling the three worlds, Viṣṇu entered the womb.
 
 **13.82.25**  While Aditi was practicing fearsome and most difficult austerity, standing ever upon a single foot for the sake of a son, O best of the immortals—
 
-**13.82.26**  and seeing that great goddess engaged in mighty austerity, the goddess who was Dakṣa's daughter, Surabhi by name,
+**13.82.26**  and seeing that great goddess engaged in mighty austerity, the goddess who was Dakṣa's daughter, Surabhī by name,
 
 **13.82.27**  in gladness, devoted to dharma, performed a fearsome austerity upon the lovely peak of Kailāsa, frequented by gods and Gandharvas.
 
@@ -6932,9 +6932,9 @@ translator: thothica
 
 **13.82.31**  'I am pleased with you, O fortunate one, by this austerity, O lovely one; choose a boon, O goddess, for I am ready to grant it'—so said Brahmā, O Purandara.
 
-**13.82.32**  Surabhi said: By a boon, O blessed one, my purpose is fulfilled, O grandsire of the worlds; this very thing is my boon today—that you are pleased with me, O sinless one.
+**13.82.32**  Surabhī said: By a boon, O blessed one, my purpose is fulfilled, O grandsire of the worlds; this very thing is my boon today—that you are pleased with me, O sinless one.
 
-**13.82.33**  Brahmā said: To the goddess Surabhi, who spoke thus, O lord of the thirty gods, I made reply—learn now what I said, O king of the gods, O consort of Śacī.
+**13.82.33**  Brahmā said: To the goddess Surabhī, who spoke thus, O lord of the thirty gods, I made reply—learn now what I said, O king of the gods, O consort of Śacī.
 
 **13.82.34**  'By your freedom from greed and desire, O goddess, and by your holy austerity, I am well pleased; therefore I grant you the boon of immortality.'
 
@@ -8148,7 +8148,7 @@ translator: thothica
 
 **13.96.40**  Paśusakha said: Whoever steals your lotus—let that twice-born man sleep at ease, neglecting the fire-oblation, and as a wandering renunciant let him follow his lusts.
 
-**13.96.41**  Surabhi said: Whoever steals your lotus—let her tether the cow with a halter of coarse grass, let her milking-pail be of bronze, and let her milk with another's calf at the udder.
+**13.96.41**  Surabhī said: Whoever steals your lotus—let her tether the cow with a halter of coarse grass, let her milking-pail be of bronze, and let her milk with another's calf at the udder.
 
 **13.96.42**  Bhīṣma said: Then, O lord of the Kurus, as they swore those many and various oaths, the thousand-eyed sovereign of the gods rejoiced greatly, gazing upon that wrathful chief of brāhmaṇas.
 
@@ -10736,7 +10736,7 @@ translator: thothica
 
 **13.126.47**  Then all the throngs of sages appointed to the discourse Nārada, who beholds the gods and is skilled in speech.
 
-**13.126.48**  "That wonder, beyond thought, O lord, which was experienced upon the Himalaya mountain by the throngs of sages intent on pilgrimage to the holy fords—
+**13.126.48**  "That wonder, beyond thought, O lord, which was experienced upon the Himālaya mountain by the throngs of sages intent on pilgrimage to the holy fords—
 
 **13.126.49**  Therefore, urged by all, you should relate everything for the welfare of the assembly of sages, just as you witnessed it concerning Hṛṣīkeśa.
 
@@ -10862,7 +10862,7 @@ translator: thothica
 
 **13.128.9**  Umā said: When there are many other splendid mounts to be had, O god, how did the bull come to be your vehicle?
 
-**13.128.10**  Maheśvara said: Brahmā created Surabhi, the cow of nectar, the giver of milk; once created, she multiplied manifold, streaming forth milk like nectar.
+**13.128.10**  Maheśvara said: Brahmā created Surabhī, the cow of nectar, the giver of milk; once created, she multiplied manifold, streaming forth milk like nectar.
 
 **13.128.11**  The foam dropped from the mouth of her calf fell upon my body; then in anger I scorched the cows, and they took on their many colours.
 
@@ -11768,7 +11768,7 @@ translator: thothica
 
 **13.135.55**  He is Vyavasāya, resolute knowledge; Vyavasthāna, the ordainer of order; Saṃsthāna, the final dissolution; Sthānada, the giver of abodes; Dhruva, the immovable; Pararddhi, of supreme prosperity; Parama, the highest; Spaṣṭa, the manifest; Tuṣṭa, the contented; Puṣṭa, the full; and Śubhekṣaṇa, of auspicious gaze.
 
-**13.135.56**  He is Rāma, the delightful; Virāma, the end and cessation; Virata, the desireless; Mārga, the path; Neya, who is to be guided to by wisdom; Naya, the guide; Anaya, who needs no guide; Vīra, the hero; Śaktimatāṃ śreṣṭha, foremost of the powerful; Dharma, righteousness; Dharmavid uttama, the highest knower of dharma.
+**13.135.56**  He is Rāma, the delightful; Virāma, the end and cessation; Virāṭa, the desireless; Mārga, the path; Neya, who is to be guided to by wisdom; Naya, the guide; Anaya, who needs no guide; Vīra, the hero; Śaktimatāṃ śreṣṭha, foremost of the powerful; Dharma, righteousness; Dharmavid uttama, the highest knower of dharma.
 
 **13.135.57**  He is Vaikuṇṭha, who unites the scattered worlds; Puruṣa, the cosmic Person; Prāṇa, the breath of life; Prāṇada, the giver of life; Praṇava, the sacred Oṃ; Pṛthu, the vast and expanded; Hiraṇyagarbha, the golden womb; Śatrughna, slayer of foes; Vyāpta, the all-pervading; Vāyu, the wind; and Adhokṣaja, who never declines from his own nature.
 
@@ -11824,7 +11824,7 @@ translator: thothica
 
 **13.135.83**  He is Kāmadeva, the god of love and the object of all desire; Kāmapāla, the guardian of desires fulfilled; Kāmī, in whom all wishes are complete; Kānta, the beautiful; Kṛtāgama, the author of the sacred scriptures; Anirdeśyavapus, of indefinable form; Viṣṇu, the all-pervading; Vīra, the hero; Ananta, the infinite; and Dhanaṃjaya, the winner of wealth.
 
-**13.135.84**  He is Brahmaṇya, the well-wisher of Brahman and the brāhmaṇas; Brahmakṛt, the maker of sacred austerity; Brahmā, the creator; Brahma, the absolute itself; Brahmavivardhana, who increases all that is holy; Brahmavid, the knower of Brahman; Brāhmaṇa, the proclaimer of the Veda; Brahmī, who possesses all sacred power; Brahmajña, the knower of Brahman; and Brāhmaṇapriya, dear to the brāhmaṇas.
+**13.135.84**  He is Brahmaṇya, the well-wisher of Brahman and the brāhmaṇas; Brahmakṛt, the maker of sacred austerity; Brahmā, the creator; Brahmā, the absolute itself; Brahmavivardhana, who increases all that is holy; Brahmavid, the knower of Brahman; Brāhmaṇa, the proclaimer of the Veda; Brahmī, who possesses all sacred power; Brahmajña, the knower of Brahman; and Brāhmaṇapriya, dear to the brāhmaṇas.
 
 **13.135.85**  He is Mahākrama, of mighty stride; Mahākarmā, of great deeds; Mahātejas, of great splendor; Mahoraga, the great serpent; Mahākratu, the great sacrifice; Mahāyajvā, the great performer of rites; Mahāyajña, the great offering; and Mahāhavis, the great oblation.
 
@@ -11848,7 +11848,7 @@ translator: thothica
 
 **13.135.95**  He is Caturmūrti, of fourfold form; Caturbāhu, the four-armed; Caturvyūha, of fourfold manifestation; Caturgati, the fourfold goal of beings; Caturātmā, of fourfold self; Caturbhāva, the source of the four orders of life; Caturvedavid, knower of the four Vedas; and Ekapāt, the single-footed who stands above all with the rest of his being.
 
-**13.135.96**  He is Samāvarta, the skilled turner of the wheel of being; Nivṛttātmā, the soul withdrawn from the world; Durjaya, hard to conquer; Duratikrama, hard to transgress; Durlabha, hard to attain; Durgama, hard to approach; Durga, the impassable; Durāvāsa, hard for the yogins to enshrine within; and Durārihā, slayer of dangerous foes.
+**13.135.96**  He is Samāvarta, the skilled turner of the wheel of being; Nivṛttātmā, the soul withdrawn from the world; Durjaya, hard to conquer; Duratikrama, hard to transgress; Durlabha, hard to attain; Durgama, hard to approach; Durgā, the impassable; Durāvāsa, hard for the yogins to enshrine within; and Durārihā, slayer of dangerous foes.
 
 **13.135.97**  He is Śubhāṅga, of auspicious form; Lokasāraṅga, who draws forth the essence of the worlds; Sutantu, of beautiful weave who spread out the universe; Tantuvardhana, who extends or withdraws that weave; Indrakarmā, whose deeds are like Indra's; Mahākarmā, of mighty deeds; Kṛtakarmā, whose work is accomplished; and Kṛtāgama, the author of the sacred lore.
 
@@ -12726,7 +12726,7 @@ translator: thothica
 
 **13.148.24**  In recitation and in eating one should raise the right hand; one should ever restrain speech and mind and the wandering of the senses.
 
-**13.148.25**  Consecrated milk-rice, gruel, sesame-and-rice, and oblation, the Aṣṭakā rites belonging to the ancestral deities, and the honoring of elders—these are duties.
+**13.148.25**  Consecrated milk-rice, gruel, sesame-and-rice, and oblation, the Aṣṭaka rites belonging to the ancestral deities, and the honoring of elders—these are duties.
 
 **13.148.26**  There is auspicious blessing at the trimming of the beard, a greeting for those who sneeze, and for all the sick a wish of long life in return.
 
@@ -12806,9 +12806,9 @@ translator: thothica
 
 **13.151.6**  Śakra the god, lord of Śacī; Yama together with Dhūmorṇā; Varuṇa, and with Gaurī, and with Ṛddhi the lord of wealth—
 
-**13.151.7**  the gentle cow, the goddess Surabhi; and Viśravas the great seer; the six seasons, the ocean, the Gaṅgā, the rivers, and then the host of the Maruts—
+**13.151.7**  the gentle cow, the goddess Surabhī; and Viśravas the great seer; the six seasons, the ocean, the Gaṅgā, the rivers, and then the host of the Maruts—
 
-**13.151.8**  the Vālakhilyas, perfected in austerity; Kṛṣṇadvaipāyana likewise; Nārada, and Parvata too; Viśvāvasu, Hāhā and Huhū—
+**13.151.8**  the Vālakhilyas, perfected in austerity; Kṛṣṇadvaipāyana likewise; Nārada, and Parvata too; Viśvāvasu, Hāhā and Hūhū—
 
 **13.151.9**  Tumbaru and Citrasena, and the renowned messenger of the gods; the blessed daughters of the gods, and the divine hosts of Apsarases—
 

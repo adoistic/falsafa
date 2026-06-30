@@ -302,7 +302,7 @@ translator: thothica
 
 **16.7.3**  The aged, mighty-armed one embraced Arjuna with both arms, and weeping, remembering all his sons, utterly overcome, he lamented — for his brothers and sons and grandsons, for his daughters' sons and his friends as well.
 
-**16.7.4**  Vasudeva said: "Those by whom kings of the earth and demons were conquered by the hundreds, O Arjuna — having seen them, I see them here no longer; yet I live on, Arjuna, hard to kill that I am."
+**16.7.4**  Vāsudeva said: "Those by whom kings of the earth and demons were conquered by the hundreds, O Arjuna — having seen them, I see them here no longer; yet I live on, Arjuna, hard to kill that I am."
 
 **16.7.5**  "Those two pupils of yours, Arjuna, ever dear to you and held in high esteem — through their misconduct, O Pārtha, the Vṛṣṇis have gone to their destruction."
 
@@ -314,7 +314,7 @@ translator: thothica
 
 **16.7.9**  "He, the Lord of the world, who by his might struck down Keśin and Kaṃsa, and who, O Pārtha, made an end of the Caidya proud of his strength —"
 
-**16.7.10**  "and Ekalavya, son of the Niṣāda, and who subdued the Kaliṅgas and Magadhas, the Gāndhāras and the king of Kāśi, and the princes of the desert lands —"
+**16.7.10**  "and Ekalavya, son of the Niṣāda, and who subdued the Kaliṅgas and Māgadhas, the Gāndhāras and the king of Kāśi, and the princes of the desert lands —"
 
 **16.7.11**  "and the kings of the East and of the South and of the hill-country alike — that slayer of Madhu suffered this calamity to come to pass."
 
@@ -340,7 +340,7 @@ translator: thothica
 
 **16.7.22**  This kingdom is yours, O Pārtha, and the women, and the jewels too; for I, O slayer of foes, shall now give up this dear life of mine.
 
-**16.8.1**  Vaiśaṃpāyana said: Thus addressed by his maternal uncle, Bībhatsu, the scorcher of foes, with a heavy heart spoke these words to the despairing Vasudeva.
+**16.8.1**  Vaiśaṃpāyana said: Thus addressed by his maternal uncle, Bībhatsu, the scorcher of foes, with a heavy heart spoke these words to the despairing Vāsudeva.
 
 **16.8.2**  O my uncle, O lord, I cannot long endure to look upon an earth bereft of that foremost hero of the Vṛṣṇis and of the Madhus.
 
@@ -368,9 +368,9 @@ translator: thothica
 
 **16.8.14**  That night Pārtha passed in the dwelling of Keśava, suddenly overwhelmed by a vast bewilderment of grief.
 
-**16.8.15**  When the morrow came, the glorious Vasudeva, scion of Śūra, of great splendour, composed himself in yoga and passed to the highest goal.
+**16.8.15**  When the morrow came, the glorious Vāsudeva, scion of Śūra, of great splendour, composed himself in yoga and passed to the highest goal.
 
-**16.8.16**  Then there arose a great and terrible clamour in Vasudeva's house, of women crying aloud and weeping.
+**16.8.16**  Then there arose a great and terrible clamour in Vāsudeva's house, of women crying aloud and weeping.
 
 **16.8.17**  With dishevelled hair, their ornaments and garlands cast aside, beating their breasts with their hands, the women wailed piteously.
 

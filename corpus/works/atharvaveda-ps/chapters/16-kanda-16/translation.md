@@ -1099,9 +1099,9 @@ translator: thothica
 
 **16.59.8**  He placed the tongue, widely extended, within the two jaws; thereupon he established mighty speech upon it. He rolls about in greatness in the sky, clothed in the waters — who indeed knows him fully?
 
-**16.59.9**  Having stitched together his head and that which is the heart, Atharvā sent the purifying breath upward from the brain, above the skull.
+**16.59.9**  Having stitched together his head and that which is the heart, Atharva sent the purifying breath upward from the brain, above the skull.
 
-**16.59.10**  That head of Atharvān is a divine casket, firmly clasped shut. May that vital breath protect the glory, the food, and likewise the mind thereof.
+**16.59.10**  That head of Atharvan is a divine casket, firmly clasped shut. May that vital breath protect the glory, the food, and likewise the mind thereof.
 
 **16.60.1**  The many pleasant and unpleasant things, sleep, oppression, torpor, delight, the vehement and its joys — all these does the man carry upward and bear forth.
 

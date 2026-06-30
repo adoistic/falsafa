@@ -262,7 +262,7 @@ translator: thothica
 
 **5.1.121**  Again gaining an upward course and glancing back at that mountain, the son of Vāyu moved through the clear, unsupported sky.
 
-**5.1.122**  Seeing that second most difficult feat accomplished by Hanumān, all the gods, the Siddhas, and the great seers extolled him.
+**5.1.122**  Seeing that second most difficult feat accomplished by Hanūmān, all the gods, the Siddhas, and the great seers extolled him.
 
 **5.1.123**  The divine beings gathered there were filled with joy at his act; and Sahasrākṣa Vāsava himself, along with the golden Sunābha, was pleased.
 
@@ -270,17 +270,17 @@ translator: thothica
 
 **5.1.125**  "O Hiraṇyanābha, O lord of mountains, I am deeply gratified with you; I grant you freedom from fear — remain here, good one, at your ease."
 
-**5.1.126**  "You have rendered very great assistance to the valiant Hanumān as he strides his hundred yojanas, offering fearlessness where danger existed."
+**5.1.126**  "You have rendered very great assistance to the valiant Hanūmān as he strides his hundred yojanas, offering fearlessness where danger existed."
 
 **5.1.127**  "This monkey goes as the emissary of Rāma, son of Daśaratha; by rendering him due honour, you have truly pleased me greatly."
 
 **5.1.128**  Then that foremost of mountains experienced immense delight, seeing the well-pleased Śatakratu, lord of the gods.
 
-**5.1.129**  That mountain, thus granted the boon, remained in place; and Hanumān in a moment had traversed the ocean.
+**5.1.129**  That mountain, thus granted the boon, remained in place; and Hanūmān in a moment had traversed the ocean.
 
 **5.1.130**  Then the gods, together with the Gandharvas, the Siddhas, and the great seers, addressed Surasā, the mother of the Nāgas, who was radiant as the sun.
 
-**5.1.131**  "This glorious son of the wind, named Hanumān, is flying over the ocean; for a moment, place an obstacle before him."
+**5.1.131**  "This glorious son of the wind, named Hanūmān, is flying over the ocean; for a moment, place an obstacle before him."
 
 **5.1.132**  "Assuming a most dreadful rākṣasa form, vast as a mountain, with fangs fearsome and tawny eyes, opening a mouth that touches the sky —"
 
@@ -288,7 +288,7 @@ translator: thothica
 
 **5.1.134**  Thus addressed by the gods who had duly honoured her, that goddess Surasā, assuming a rākṣasa form, appeared in the middle of the ocean.
 
-**5.1.135**  Distorted, hideous, and terrifying to all, she intercepted Hanumān as he flew and spoke these words.
+**5.1.135**  Distorted, hideous, and terrifying to all, she intercepted Hanūmān as he flew and spoke these words.
 
 **5.1.136**  "O bull among monkeys, you have been appointed as my food by the lords; I shall devour you — enter this mouth of mine."
 
@@ -302,25 +302,25 @@ translator: thothica
 
 **5.1.141**  "Or else, having seen the Maithilī princess and Rāma of unwearied action, I shall come and enter your mouth — I solemnly promise you this."
 
-**5.1.142**  Thus addressed by Hanumān, the shape-shifting Surasā replied: "None may pass beyond me — this is my boon."
+**5.1.142**  Thus addressed by Hanūmān, the shape-shifting Surasā replied: "None may pass beyond me — this is my boon."
 
 **5.1.143**  Thus addressed by Surasā, the enraged bull among monkeys replied: "Then make your mouth large enough to take me in."
 
-**5.1.144**  Having spoken thus to Surasā, Hanumān in his fury became ten yojanas in length and ten yojanas in breadth.
+**5.1.144**  Having spoken thus to Surasā, Hanūmān in his fury became ten yojanas in length and ten yojanas in breadth.
 
 **5.1.145**  Seeing him cloud-dark and ten yojanas in extent, Surasā also opened her mouth to twenty yojanas.
 
-**5.1.146**  Then Hanumān in his fury grew to thirty yojanas; and Surasā made her mouth forty yojanas high.
+**5.1.146**  Then Hanūmān in his fury grew to thirty yojanas; and Surasā made her mouth forty yojanas high.
 
-**5.1.147**  The heroic Hanumān became fifty yojanas in height; Surasā made her mouth sixty yojanas across.
+**5.1.147**  The heroic Hanūmān became fifty yojanas in height; Surasā made her mouth sixty yojanas across.
 
-**5.1.148**  Likewise the heroic Hanumān rose to seventy yojanas; Surasā made her mouth eighty yojanas wide.
+**5.1.148**  Likewise the heroic Hanūmān rose to seventy yojanas; Surasā made her mouth eighty yojanas wide.
 
-**5.1.149**  Hanumān, like a motionless mountain, grew to ninety yojanas; Surasā made her mouth a hundred yojanas in extent.
+**5.1.149**  Hanūmān, like a motionless mountain, grew to ninety yojanas; Surasā made her mouth a hundred yojanas in extent.
 
 **5.1.150**  Seeing that gaping mouth of Surasā, terrifyingly wide and long-tongued, resembling the entrance to the netherworld, the wise son of Vāyu —
 
-**5.1.151**  — instantly contracted his body; like the wind within a cloud, Hanumān at that moment became no larger than a thumb.
+**5.1.151**  — instantly contracted his body; like the wind within a cloud, Hanūmān at that moment became no larger than a thumb.
 
 **5.1.152**  He swiftly darted into that mouth, then with great speed shot out of it, and standing in the sky, the glorious one spoke these words.
 
@@ -330,7 +330,7 @@ translator: thothica
 
 **5.1.155**  "For the success of your purpose, O best of monkeys, go, gentle one, at your ease; and reunite the Vaideha princess with the great-souled Rāghava."
 
-**5.1.156**  Seeing that third most difficult feat of Hanumān, all living beings thereupon praised the monkey with cries of "Well done! Well done!"
+**5.1.156**  Seeing that third most difficult feat of Hanūmān, all living beings thereupon praised the monkey with cries of "Well done! Well done!"
 
 **5.1.157**  He had overcome the irresistible ocean, the abode of Varuṇa, and entered the sky, moving with speed like Garuḍa.
 
@@ -412,7 +412,7 @@ translator: thothica
 
 **5.2.6**  He passed through dark-green meadows, fragrant forests, groves with prominent peaks, and mountain-bearing tracts.
 
-**5.2.7**  The lustrous Hanumān, the bull among leapers, passed over hills covered with trees and flowering forest-rows.
+**5.2.7**  The lustrous Hanūmān, the bull among leapers, passed over hills covered with trees and flowering forest-rows.
 
 **5.2.8**  Standing on that mountain, the son of the wind god beheld forests and groves; and from the mountain's peak he saw Laṅkā.
 
@@ -432,11 +432,11 @@ translator: thothica
 
 **5.2.16**  The great city was encircled by a golden rampart, beautiful and covered with hundreds of watchtowers, garlanded with banners and standards.
 
-**5.2.17**  Hanumān saw Laṅkā with its divine golden gateways embellished with rows of creepers — like a city of the gods in heaven.
+**5.2.17**  Hanūmān saw Laṅkā with its divine golden gateways embellished with rows of creepers — like a city of the gods in heaven.
 
 **5.2.18**  The glorious ape beheld Laṅkā set on the mountain's summit, with white and beautiful mansions — like a city floating in the sky.
 
-**5.2.19**  Hanumān saw the city protected by the lord of rākṣasas, built by Viśvakarman, appearing as though it floated in the sky.
+**5.2.19**  Hanūmān saw the city protected by the lord of rākṣasas, built by Viśvakarman, appearing as though it floated in the sky.
 
 **5.2.20**  Filled with terrible rākṣasas and serpents like Bhogavatī, inconceivable, well-built, splendid — formerly inhabited by Kubera himself.
 
@@ -466,7 +466,7 @@ translator: thothica
 
 **5.2.33**  "In a form barely visible, at night, I should enter the city of Laṅkā — the time is ripe for me to accomplish this great task."
 
-**5.2.34**  Seeing that city thus — inaccessible to gods and asuras — Hanumān reflected, sighing again and again.
+**5.2.34**  Seeing that city thus — inaccessible to gods and asuras — Hanūmān reflected, sighing again and again.
 
 **5.2.35**  "By what means might I see Maithilī, Janaka's daughter, without being seen by Rāvaṇa the evil-souled lord of rākṣasas?"
 
@@ -490,9 +490,9 @@ translator: thothica
 
 **5.2.45**  "Entering by night this city of Rāvaṇa so difficult to assault, searching every mansion, I shall find Janaka's daughter."
 
-**5.2.46**  Having thus deliberated, the heroic Hanumān awaited the setting of the sun, eager to see Vaidehī, and having made himself the size of a mere gnat, he became wondrous to behold.
+**5.2.46**  Having thus deliberated, the heroic Hanūmān awaited the setting of the sun, eager to see Vaidehī, and having made himself the size of a mere gnat, he became wondrous to behold.
 
-**5.2.47**  At dusk, the valiant Hanumān swiftly sprang up and entered the beautiful city with its broad, well-laid avenues.
+**5.2.47**  At dusk, the valiant Hanūmān swiftly sprang up and entered the beautiful city with its broad, well-laid avenues.
 
 **5.2.48**  It was spread with rows of palaces, with golden and silver pillars, with lattices of pure gold — resembling the city of the gandharvas.
 
@@ -510,9 +510,9 @@ translator: thothica
 
 **5.2.55**  That foremost of monkeys saw the moon rising and shining — bright as a conch, white as milk and lotus-fiber — gliding like a haṃsa upon a lake.
 
-**5.3.1**  On a lofty peak, high and resembling a hanging cloud, the wise Hanumān, son of the wind, composed himself with courage.
+**5.3.1**  On a lofty peak, high and resembling a hanging cloud, the wise Hanūmān, son of the wind, composed himself with courage.
 
-**5.3.2**  At night, Hanumān the great-souled bull among apes entered Laṅkā — the city protected by Rāvaṇa, rich with beautiful groves and waters.
+**5.3.2**  At night, Hanūmān the great-souled bull among apes entered Laṅkā — the city protected by Rāvaṇa, rich with beautiful groves and waters.
 
 **5.3.3**  It was beautified by mansions resembling autumnal clouds; its roar was like the ocean; it was fanned by the ocean wind.
 
@@ -532,7 +532,7 @@ translator: thothica
 
 **5.3.11**  — resounding everywhere with the cries of krauñca birds and peacocks, frequented by royal haṃsas, reverberating with the sounds of musical instruments and ornaments —
 
-**5.3.12**  Surveying that city matchless as Vasvokasārā, Laṅkā appearing to leap into the sky, the monkey Hanumān rejoiced.
+**5.3.12**  Surveying that city matchless as Vasvokasārā, Laṅkā appearing to leap into the sky, the monkey Hanūmān rejoiced.
 
 **5.3.13**  Surveying that city Laṅkā of the lord of rākṣasas — beautiful, unrivaled, full of prosperity — the valiant one fell into thought.
 
@@ -662,11 +662,11 @@ translator: thothica
 
 **5.5.15**  Moving from house to house among the Rākṣasas, surveying the gardens and the palace-towers without any fear, that monkey roamed about.
 
-**5.5.16**  Leaping with great speed into the mansion of Prahastha, that mighty one then bounded to another dwelling — the mansion of Mahāpārśva.
+**5.5.16**  Leaping with great speed into the mansion of Prahasta, that mighty one then bounded to another dwelling — the mansion of Mahāpārśva.
 
 **5.5.17**  Then that great monkey leaped into the dwelling of Kumbhakarṇa, resembling a thundercloud, and likewise into that of Vibhīṣaṇa.
 
-**5.5.18**  And likewise into the mansion of Mahodara, and of Virūpākṣa, into the dwelling of Vidyujjihva, and likewise that of Vidyunmālin, and the dwelling of Vajradaṃṣṭra — so that great monkey leaped.
+**5.5.18**  And likewise into the mansion of Mahodara, and of Virūpākṣa, into the dwelling of Vidyujjihvā, and likewise that of Vidyunmālin, and the dwelling of Vajradaṃṣṭra — so that great monkey leaped.
 
 **5.5.19**  With great speed, the leader of the monkey-horde went to the mansion of Śuka, and of the wise Sāraṇa, and likewise to the dwelling of Indrajit.
 
@@ -676,9 +676,9 @@ translator: thothica
 
 **5.5.22**  He visited the mansions of Śukanābha, of Vakra, of Śaṭha and Vikaṭa, of Hrasvakarṇa, of Daṃṣṭra, and of the Rākṣasa Romaśa.
 
-**5.5.23**  He visited those of Yuddhonmatta, of Matta, of Dhvajagrīva, of Nādin, of Vidyujjihva and Indrajihva, and likewise of Hastimukha.
+**5.5.23**  He visited those of Yuddhonmatta, of Matta, of Dhvajagrīva, of Nādin, of Vidyujjihvā and Indrajihva, and likewise of Hastimukha.
 
-**5.5.24**  And of Karāla, of Piśāca, and of Śoṇitākṣa — advancing step by step in due order, Hanumān, son of the Wind, moved on.
+**5.5.24**  And of Karāla, of Piśāca, and of Śoṇitākṣa — advancing step by step in due order, Hanūmān, son of the Wind, moved on.
 
 **5.5.25**  In each of those most magnificent mansions, that great monkey of great glory beheld the opulence of those opulent ones.
 
@@ -714,7 +714,7 @@ translator: thothica
 
 **5.5.41**  It resounded with the jingling of anklets, with the tinkling of golden girdles, and rang out loudly with the sound of mṛdaṅga-drums and clapping hands.
 
-**5.5.42**  Provided with an assemblage of palace-towers, thronged with hundreds of jewel-like women, with its courtyards well-arranged — Hanumān entered that great mansion.
+**5.5.42**  Provided with an assemblage of palace-towers, thronged with hundreds of jewel-like women, with its courtyards well-arranged — Hanūmān entered that great mansion.
 
 **5.6.1**  That mighty one beheld a network of dwelling-chambers, interlaced with a lattice of vaidūrya gems and gold — like a great canopy of clouds in the rainy season, bound together by lightning and interwoven with flights of birds.
 
@@ -750,11 +750,11 @@ translator: thothica
 
 **5.6.17**  Then at that time, the mind of that great-souled one — whose spirit had been cultivated in many ways, whose self was disciplined, who walked the right path, who roamed with clear vision — became exceedingly grieved at not finding the daughter of Janaka.
 
-**5.7.1**  In the midst of that most excellent abode, vast and spacious, Hanumān, the son of the wind-god, beheld the finest of mansions.
+**5.7.1**  In the midst of that most excellent abode, vast and spacious, Hanūmān, the son of the wind-god, beheld the finest of mansions.
 
 **5.7.2**  That palace of the lord of rākṣasas was half a yojana in breadth and a full yojana in length, crowded with many turrets.
 
-**5.7.3**  Seeking Vaidehī Sītā of the large eyes, Hanumān the destroyer of enemies wandered in every direction.
+**5.7.3**  Seeking Vaidehī Sītā of the large eyes, Hanūmān the destroyer of enemies wandered in every direction.
 
 **5.7.4**  It was surrounded without obstruction by elephants bearing four tusks and likewise by those bearing three tusks, and guarded by soldiers with upraised weapons.
 
@@ -888,7 +888,7 @@ translator: thothica
 
 **5.7.69**  And then he reflected again in anguish: "Surely Sītā must exceed these in virtue; and yet this great-souled lord of Laṅkā has done a cruel, ignoble deed against her."
 
-**5.8.1**  There, looking about, Hanumān saw a foremost couch divine in appearance, made of crystal and adorned with jewels.
+**5.8.1**  There, looking about, Hanūmān saw a foremost couch divine in appearance, made of crystal and adorned with jewels.
 
 **5.8.2**  In one part of it he saw a white canopy adorned with the finest garlands, resembling the lord of the stars.
 
@@ -1012,7 +1012,7 @@ translator: thothica
 
 **5.9.12**  In large golden vessels the tiger among monkeys saw peacocks and cocks, half-eaten.
 
-**5.9.13**  Hanumān observed boar and dried-meat preparations mixed with curd and black salt, roasted meats, and flesh of deer and peacock.
+**5.9.13**  Hanūmān observed boar and dried-meat preparations mixed with curd and black salt, roasted meats, and flesh of deer and peacock.
 
 **5.9.14**  Various cooked partridges, cakor birds half-eaten, whole-skewered buffalo, and goats well-prepared; lickable items both high and low, drinks, and various foods.
 
@@ -1072,7 +1072,7 @@ translator: thothica
 
 **5.9.42**  So this has been searched by me with a pure mind — the entire inner apartments of Rāvaṇa are seen, yet Jānakī is not seen.
 
-**5.9.43**  The valiant Hanumān, looking about even among the daughters of gods, gandharvas, and nāga maidens, did not see Jānakī.
+**5.9.43**  The valiant Hanūmān, looking about even among the daughters of gods, gandharvas, and nāga maidens, did not see Jānakī.
 
 **5.9.44**  Not seeing her there, but seeing the other noble women, that heroic monkey withdrew and began to reflect deeply.
 
@@ -1438,7 +1438,7 @@ translator: thothica
 
 **5.13.36**  His mind wavered repeatedly as he gazed upon her — like a sacred science grown slack through disuse.
 
-**5.13.37**  With difficulty Hanumān recognized Sītā unadorned — like a word devoid of proper formation that has drifted to another meaning.
+**5.13.37**  With difficulty Hanūmān recognized Sītā unadorned — like a word devoid of proper formation that has drifted to another meaning.
 
 **5.13.38**  Observing that wide-eyed, blameless princess, he concluded it was Sītā, establishing it by means of the signs.
 
@@ -1472,7 +1472,7 @@ translator: thothica
 
 **5.14.1**  Having praised Sītā who is worthy of all praise, and Rāma who is charming with virtues, that bull among monkeys fell once again into deep reflection.
 
-**5.14.2**  Having meditated for a moment, his eyes overflowing with tears, the splendid Hanumān, overcome by his regard for Sītā, lamented aloud.
+**5.14.2**  Having meditated for a moment, his eyes overflowing with tears, the splendid Hanūmān, overcome by his regard for Sītā, lamented aloud.
 
 **5.14.3**  She who is venerable, dear to the elders, honored even by Lakṣmaṇa who is trained by his elders — if even Sītā suffers such grief, truly time is insurmountable.
 
@@ -1540,7 +1540,7 @@ translator: thothica
 
 **5.15.3**  Then he saw Sītā, whose face resembled the full moon, cast down as if by the weight of her grief, like a boat weighed down upon the water.
 
-**5.15.4**  As Hanumān, son of Māruta, was eager to behold the daughter of Videha, he saw, not far away, rākṣasī women of terrible aspect.
+**5.15.4**  As Hanūmān, son of Māruta, was eager to behold the daughter of Videha, he saw, not far away, rākṣasī women of terrible aspect.
 
 **5.15.5**  One-eyed and one-eared, and others whose ears served as coverings; some with no ears, others with ears like pegs; some with nostrils set on top of the head.
 
@@ -1570,7 +1570,7 @@ translator: thothica
 
 **5.15.18**  Seated around a great shouldering forest tree, encircling it — and beneath it that blameless goddess and princess.
 
-**5.15.19**  The auspicious Hanumān fixed his gaze on the daughter of Janaka — lustrous no longer, scorched by grief, her hair matted and filthy.
+**5.15.19**  The auspicious Hanūmān fixed his gaze on the daughter of Janaka — lustrous no longer, scorched by grief, her hair matted and filthy.
 
 **5.15.20**  As if a star fallen to earth with exhausted merit — rich in the renown of her virtue yet reduced to misery by separation from her husband's sight.
 
@@ -1580,11 +1580,11 @@ translator: thothica
 
 **5.15.23**  Her beauty worn away from lack of touch, like a lute neglected and unplayed — Sītā, devoted to her husband's welfare, unfitting to be under the dominion of rākṣasas.
 
-**5.15.24**  In the midst of the Aśoka grove, plunged in an ocean of grief, surrounded by those rākṣasī women — like Rohiṇī seized by a planet — Hanumān saw the goddess, like a creeper stripped of its flowers.
+**5.15.24**  In the midst of the Aśoka grove, plunged in an ocean of grief, surrounded by those rākṣasī women — like Rohiṇī seized by a planet — Hanūmān saw the goddess, like a creeper stripped of its flowers.
 
 **5.15.25**  Her body smeared with grime, yet adorned by natural beauty — like a lotus-stalk besmeared with mud, she both shines and does not shine.
 
-**5.15.26**  The monkey Hanumān saw that radiant one, doe-eyed, wrapped in a soiled and worn garment.
+**5.15.26**  The monkey Hanūmān saw that radiant one, doe-eyed, wrapped in a soiled and worn garment.
 
 **5.15.27**  That goddess with a wretched face, yet inwardly undaunted, protected by her husband's glory and by her own virtue — Sītā of dark eyes.
 
@@ -1594,13 +1594,13 @@ translator: thothica
 
 **5.15.30**  — emaciated, yet with well-proportioned limbs, beautiful even without ornaments —
 
-**5.15.31**  — the son of Māruta felt an incomparable joy on beholding the daughter of Mithilā; and seeing her of intoxicating eyes, Hanumān shed tears born of joy, and there he bowed to the Rāghava.
+**5.15.31**  — the son of Māruta felt an incomparable joy on beholding the daughter of Mithilā; and seeing her of intoxicating eyes, Hanūmān shed tears born of joy, and there he bowed to the Rāghava.
 
-**5.15.32**  And having bowed to Rāma and to Lakṣmaṇa, that mighty Hanumān, exhilarated at the sight of Sītā, composed himself.
+**5.15.32**  And having bowed to Rāma and to Lakṣmaṇa, that mighty Hanūmān, exhilarated at the sight of Sītā, composed himself.
 
 **5.16.1**  As he gazed about the grove with its flowering trees and searched for Vaidehī, only a small portion of the night remained.
 
-**5.16.2**  In the deep of night he heard the Vedic chanting of Brahma-rākṣasas — those versed in the six ancillaries of the Veda and sacrificers at the foremost rites.
+**5.16.2**  In the deep of night he heard the Vedic chanting of Brahmā-rākṣasas — those versed in the six ancillaries of the Veda and sacrificers at the foremost rites.
 
 **5.16.3**  Then, with the auspicious sounds of musical instruments pleasing to ear and mind, the mighty-armed, greatly powerful Daśagrīva was awakened.
 
@@ -1630,7 +1630,7 @@ translator: thothica
 
 **5.16.16**  Then the monkey, son of the Wind, heard the jingling of girdles and the tinkling of anklets of those foremost women.
 
-**5.16.17**  The monkey Hanumān saw him — that one of matchless deeds and inconceivable strength and valour — as he reached the gateway.
+**5.16.17**  The monkey Hanūmān saw him — that one of matchless deeds and inconceivable strength and valour — as he reached the gateway.
 
 **5.16.18**  He was illuminated on all sides by numerous lamps soaked in fragrant oil and held aloft before him.
 
@@ -1638,7 +1638,7 @@ translator: thothica
 
 **5.16.20**  His finest garment — white as the foam of churned nectar and free of dust — trailed gracefully behind him, caught loosely on his armlet.
 
-**5.16.21**  Concealed in the foliage of a branch, hidden by the dense mass of leaves and flowers, Hanumān began to observe him as he drew near.
+**5.16.21**  Concealed in the foliage of a branch, hidden by the dense mass of leaves and flowers, Hanūmān began to observe him as he drew near.
 
 **5.16.22**  As he looked on, that elephant among monkeys saw Rāvaṇa's beautiful women, endowed with beauty and youth.
 
@@ -1648,9 +1648,9 @@ translator: thothica
 
 **5.16.25**  Surrounded by those foremost women as the moon is by stars, the greatly resplendent great monkey beheld him — that one of great splendour.
 
-**5.16.26**  "This is the mighty-armed Rāvaṇa" — thinking thus, the greatly resplendent Hanumān, son of the Wind, leapt down.
+**5.16.26**  "This is the mighty-armed Rāvaṇa" — thinking thus, the greatly resplendent Hanūmān, son of the Wind, leapt down.
 
-**5.16.27**  Yet though himself of fierce energy, Hanumān was overwhelmed by Rāvaṇa's radiance and remained hidden, clinging concealed within the shelter of a leafy hollow.
+**5.16.27**  Yet though himself of fierce energy, Hanūmān was overwhelmed by Rāvaṇa's radiance and remained hidden, clinging concealed within the shelter of a leafy hollow.
 
 **5.16.28**  Rāvaṇa turned and drew near, wishing to behold her — she of dark tresses, beautiful hips, full breasts, and dark-cornered eyes.
 
@@ -1962,7 +1962,7 @@ translator: thothica
 
 **5.22.8**  Having heard Sītā's words, the rākṣasīs, overwhelmed with rage and urged on by Rāvaṇa, began to threaten her with harsh words.
 
-**5.22.9**  Hanumān, hidden and silent in the śiṃśapā tree, heard those rākṣasīs as they fiercely threatened Sītā.
+**5.22.9**  Hanūmān, hidden and silent in the śiṃśapā tree, heard those rākṣasīs as they fiercely threatened Sītā.
 
 **5.22.10**  Rushing at her furiously from all sides as she trembled, they licked their blazing, protruding lips again and again.
 
@@ -2300,7 +2300,7 @@ translator: thothica
 
 **5.27.8**  She, freed of sorrow, her drowsiness dispelled, her fever calmed, her spirit awakened with joy, shone brilliantly with her noble face like a white night brightened by the risen cool-rayed moon.
 
-**5.28.1**  The valiant Hanumān heard everything truly — the menacing of Sītā by Trijaṭā and by the demonesses.
+**5.28.1**  The valiant Hanūmān heard everything truly — the menacing of Sītā by Trijaṭā and by the demonesses.
 
 **5.28.2**  Gazing upon that goddess-like lady as if she were a deity in a pleasure-grove, the monkey then turned over in his mind a great variety of thoughts.
 
@@ -2378,7 +2378,7 @@ translator: thothica
 
 **5.28.39**  How can this mission not be destroyed? How can confusion be avoided? And how may the crossing of the ocean not become in vain?
 
-**5.28.40**  How indeed can she hear my words and yet not be alarmed? — pondering thus, the wise Hanumān made up his mind.
+**5.28.40**  How indeed can she hear my words and yet not be alarmed? — pondering thus, the wise Hanūmān made up his mind.
 
 **5.28.41**  Singing the praises of Rāma of tireless deeds, her own kinsman, I shall not disturb this lady whose heart is fixed upon that kinsman.
 
@@ -2386,7 +2386,7 @@ translator: thothica
 
 **5.28.43**  I shall cause her to hear all of them, speaking in a sweet voice; arranging everything in such a way that she may have faith.
 
-**5.28.44**  Thus having deliberated in many ways, the great-souled Hanumān, gazing upon the wife of the lord of the world, perched within the foliage of the tree, spoke words that were sweet and true.
+**5.28.44**  Thus having deliberated in many ways, the great-souled Hanūmān, gazing upon the wife of the lord of the world, perched within the foliage of the tree, spoke words that were sweet and true.
 
 **5.29.1**  Having thus considered his many thoughts, the great monkey spoke a sweet word within earshot of Vaidehī.
 
@@ -2720,7 +2720,7 @@ translator: thothica
 
 **5.33.80**  "When that demon was slain in battle — Śamba's abode destroyed by the foremost monkey at the urging of the great sages — then was I born of the Wind-god's power, O Maithilī; and a monkey equal to him in might am I."
 
-**5.34.1**  Then that great-spirited Hanumān, son of the wind-god, spoke again with humble words, for the sake of convincing Sītā.
+**5.34.1**  Then that great-spirited Hanūmān, son of the wind-god, spoke again with humble words, for the sake of convincing Sītā.
 
 **5.34.2**  "I am a monkey, O most fortunate lady, the envoy of the wise Rāma. Look, O goddess, at this ring inscribed with Rāma's name. Take heart; all will be well — your suffering is nearing its end."
 
@@ -2794,7 +2794,7 @@ translator: thothica
 
 **5.34.37**  "As surely as you shall behold Rāma's face — beautiful-eyed, lovely, with lips red as the bimba fruit, adorned with fair earrings, risen like the full moon."
 
-**5.34.38**  "You will soon see Rāma, O Vaidehi, on Mount Prasravaṇa, seated like Indra of a hundred sacrifices on the summit of heaven."
+**5.34.38**  "You will soon see Rāma, O Vaidehī, on Mount Prasravaṇa, seated like Indra of a hundred sacrifices on the summit of heaven."
 
 **5.34.39**  "Rāghava eats no meat and takes no honey; he eats only forest food, properly prepared, at the fifth hour."
 
@@ -2810,7 +2810,7 @@ translator: thothica
 
 **5.34.45**  She, the daughter of Videha, her grief dispersed by the recounting of Rāma's virtues yet equal to Rāma's own grief in sorrow, became like the night at the close of autumn with its moon breaking through the last of the clouds.
 
-**5.35.1**  Sītā, her face like the full moon, having heard those words, spoke thus to Hanumān — words joined with righteousness and meaning.
+**5.35.1**  Sītā, her face like the full moon, having heard those words, spoke thus to Hanūmān — words joined with righteousness and meaning.
 
 **5.35.2**  "What you, O monkey, have spoken is nectar mixed with poison: that Rāma's mind is not elsewhere — and yet that he is sunk in grief."
 
@@ -2846,7 +2846,7 @@ translator: thothica
 
 **5.35.18**  "The heroic sun that is Rāma, O monkey, with its rays of arrow-nets, will dry up the water that is filled with the filth of enemies and rākṣasas."
 
-**5.35.19**  As she thus spoke on, emaciated by grief for Rāma's sake, her face filled with tears, the monkey Hanumān addressed her.
+**5.35.19**  As she thus spoke on, emaciated by grief for Rāma's sake, her face filled with tears, the monkey Hanūmān addressed her.
 
 **5.35.20**  "Upon hearing my report, Rāghava will come swiftly, leading his great army swarming with troops of monkeys and bears."
 
@@ -2856,7 +2856,7 @@ translator: thothica
 
 **5.35.23**  "I shall deliver you today, O Maithilī, to Rāghava dwelling on Mount Prasravaṇa, as fire delivers the oblation to Indra."
 
-**5.35.24**  "You will see this very day, O Vaidehi, Rāghava together with Lakṣmaṇa, fully resolved for action, like Viṣṇu set upon the slaying of the daityas."
+**5.35.24**  "You will see this very day, O Vaidehī, Rāghava together with Lakṣmaṇa, fully resolved for action, like Viṣṇu set upon the slaying of the daityas."
 
 **5.35.25**  "Fired with zeal by the sight of you, mighty, stationed at the hermitage, seated like Purandara upon the head of the king of serpents."
 
@@ -2866,29 +2866,29 @@ translator: thothica
 
 **5.35.28**  "For when I set forth taking you away from here, O lady, not all the inhabitants of Laṅkā are capable of following my course."
 
-**5.35.29**  "Just as I arrived here, so without doubt shall I depart — see, O Vaidehi, I will lift you and go through the sky."
+**5.35.29**  "Just as I arrived here, so without doubt shall I depart — see, O Vaidehī, I will lift you and go through the sky."
 
-**5.35.30**  Maithilī, having heard from that best of monkeys these astonishing words, her every limb thrilled with wonder and joy, then spoke to Hanumān.
+**5.35.30**  Maithilī, having heard from that best of monkeys these astonishing words, her every limb thrilled with wonder and joy, then spoke to Hanūmān.
 
-**5.35.31**  "Hanumān, how do you wish to carry me on the long journey? That, I think, is indeed your monkey-nature, O leader of monkey-troops."
+**5.35.31**  "Hanūmān, how do you wish to carry me on the long journey? That, I think, is indeed your monkey-nature, O leader of monkey-troops."
 
 **5.35.32**  "How can you, with so small a body, wish to take me from here to the presence of the lord of the monkey-host, my husband, O bull among monkeys?"
 
-**5.35.33**  Hearing Sītā's words, the glorious Hanumān, son of the wind-god, reflected — a fresh slight had been given to him.
+**5.35.33**  Hearing Sītā's words, the glorious Hanūmān, son of the wind-god, reflected — a fresh slight had been given to him.
 
-**5.35.34**  "The dark-eyed one does not know my strength or my power; therefore let Vaidehi see whatever form of mine I choose."
+**5.35.34**  "The dark-eyed one does not know my strength or my power; therefore let Vaidehī see whatever form of mine I choose."
 
-**5.35.35**  Having reflected thus, that best of monkeys, the crusher of foes Hanumān, thereupon revealed his true form to Vaidehi.
+**5.35.35**  Having reflected thus, that best of monkeys, the crusher of foes Hanūmān, thereupon revealed his true form to Vaidehī.
 
 **5.35.36**  That wise bull among monkeys leaped down from that tree and then began to grow in size, for the sake of convincing Sītā.
 
 **5.35.37**  Like Meru or Mandara in appearance, blazing with the radiance of a bright fire, that bull among monkeys stood before Sītā.
 
-**5.35.38**  That monkey, mountain-like, with a copper-red face, of great strength, his teeth and claws hard as thunderbolts, terrible, spoke these words to Vaidehi.
+**5.35.38**  That monkey, mountain-like, with a copper-red face, of great strength, his teeth and claws hard as thunderbolts, terrible, spoke these words to Vaidehī.
 
 **5.35.39**  "I have the power to carry away this very Laṅkā, with its tracts of forest and mountains, with its towers and walls and gateways, together with its lord."
 
-**5.35.40**  "Therefore abandon that thought; enough of doubt, O goddess. Make Rāghava and Lakṣmaṇa free from sorrow, O Vaidehi."
+**5.35.40**  "Therefore abandon that thought; enough of doubt, O goddess. Make Rāghava and Lakṣmaṇa free from sorrow, O Vaidehī."
 
 **5.35.41**  Seeing him, mountain-like, Janaka's daughter, she of wide lotus-petal eyes, spoke to the true-born son of the wind-god.
 
@@ -2952,7 +2952,7 @@ translator: thothica
 
 **5.36.3**  "Womankind is indeed not capable of crossing the vast ocean, a hundred yojanas in extent, riding upon me."
 
-**5.36.4**  "And the second reason you give, O lady endowed with modesty — 'I do not deserve the touch of any man but Rāma' — this is indeed true, O Jānaki."
+**5.36.4**  "And the second reason you give, O lady endowed with modesty — 'I do not deserve the touch of any man but Rāma' — this is indeed true, O Jānakī."
 
 **5.36.5**  "This is fitting, O goddess, for the wife of that great-souled one. For who other than you, O goddess, would speak such words?"
 
@@ -2966,7 +2966,7 @@ translator: thothica
 
 **5.36.10**  "But if you are not willing to go with me, O blameless one, then give me a token of recognition by which Rāghava may know."
 
-**5.36.11**  Addressed thus by Hanumān, Sītā — equal to a daughter of the gods — spoke slowly, her syllables strung with tears.
+**5.36.11**  Addressed thus by Hanūmān, Sītā — equal to a daughter of the gods — spoke slowly, her syllables strung with tears.
 
 **5.36.12**  "This is the best token of recognition; speak it to my beloved: at the northeastern foot of Mount Citrakūṭa —
 
@@ -3048,7 +3048,7 @@ translator: thothica
 
 **5.36.51**  "Me, hemmed in by that evil-acting Rāvaṇa by cunning — you, O hero, should rescue as Kauśikī from the netherworld."
 
-**5.36.52**  Then Sītā, loosening from her garment the divine, beautiful cūḍāmaṇi crest-jewel, saying 'This is to be given to Rāghava,' gave it to Hanumān.
+**5.36.52**  Then Sītā, loosening from her garment the divine, beautiful cūḍāmaṇi crest-jewel, saying 'This is to be given to Rāghava,' gave it to Hanūmān.
 
 **5.36.53**  The hero, having received that peerless jewel-gem, placed it on his finger — for his arm could not match her form.
 
@@ -3066,7 +3066,7 @@ translator: thothica
 
 **5.37.4**  "You are the authority in the execution of this task, O best of monkeys; consider that effort which would bring an end to this suffering."
 
-**5.37.5**  Mārutī, of fearsome prowess, having agreed with "So be it," bowed his head to the daughter of Videha and prepared to depart.
+**5.37.5**  Māruti, of fearsome prowess, having agreed with "So be it," bowed his head to the daughter of Videha and prepared to depart.
 
 **5.37.6**  Knowing the son of the Wind to be ready to depart, the goddess Maithilī spoke these words in a voice choked with tears.
 
@@ -3236,7 +3236,7 @@ translator: thothica
 
 **5.39.12**  "But I, meeting those rākṣasas of fierce valor in combat, of unimpeded prowess, having slain that army dispatched by Rāvaṇa, will depart gladly to the abode of the lord of monkeys."
 
-**5.39.13**  Then Mārutī, angry as the wind itself, of fearsome prowess, with the great force of his thighs, began to hurl down the trees.
+**5.39.13**  Then Māruti, angry as the wind itself, of fearsome prowess, with the great force of his thighs, began to hurl down the trees.
 
 **5.39.14**  Then the heroic Hanūmān broke apart that pleasure grove, resounding with the calls of intoxicated birds, filled with many kinds of trees and creepers.
 
@@ -3266,7 +3266,7 @@ translator: thothica
 
 **5.40.10**  "I too am afraid of him; I do not know his lineage. I take him to be a rākṣasa who has come here having assumed any form he wished."
 
-**5.40.11**  Having heard the words of the Vaidehi, some rākṣasīs remained hurriedly where they stood, while others went off swiftly to report to Rāvaṇa.
+**5.40.11**  Having heard the words of the Vaidehī, some rākṣasīs remained hurriedly where they stood, while others went off swiftly to report to Rāvaṇa.
 
 **5.40.12**  The rākṣasīs with their grotesque faces drew near to Rāvaṇa and began to describe the dreadful, mis-shapen monkey.
 
@@ -3580,7 +3580,7 @@ translator: thothica
 
 **5.45.39**  Having slain that prince Akṣa, whose radiance was like the son of the Thunderbolt-wielder, his own eyes like blood, that hero returned to that very gateway having seized his moment, like Death at the time of the destruction of living beings.
 
-**5.46.1**  Then the great-souled lord of rākṣasas, having steadied his mind on learning that young Akṣa had been slain by Hanumān, in wrath dispatched Indrajit, who resembled Indra himself.
+**5.46.1**  Then the great-souled lord of rākṣasas, having steadied his mind on learning that young Akṣa had been slain by Hanūmān, in wrath dispatched Indrajit, who resembled Indra himself.
 
 **5.46.2**  "You are the foremost among those who bear weapons, the master of missile-lore, who has brought grief to gods and asuras alike; your valor is proven against the gods along with Indra, and your arsenal of weapons has been accumulated through worship of the Grandsire."
 
@@ -3612,11 +3612,11 @@ translator: thothica
 
 **5.46.16**  Indrajit, resembling Indra, mounted a chariot harnessed with four serpents whose speed equaled that of the king of birds, whose fangs were white and sharp, and whose swiftness was unimpeded.
 
-**5.46.17**  That chariot-warrior, foremost of archers, expert in weapons, and best among masters of missiles, swiftly rode in his chariot to where Hanumān stood.
+**5.46.17**  That chariot-warrior, foremost of archers, expert in weapons, and best among masters of missiles, swiftly rode in his chariot to where Hanūmān stood.
 
 **5.46.18**  That hero of the monkeys, hearing the rumble of his chariot and the twang of his bow, became all the more elated.
 
-**5.46.19**  Taking up his great bow and sharp-pointed arrows, the expert in battle advanced toward Hanumān with clear intent.
+**5.46.19**  Taking up his great bow and sharp-pointed arrows, the expert in battle advanced toward Hanūmān with clear intent.
 
 **5.46.20**  As he, arrow in hand, set forth for battle with heightened exultation, all the directions turned turbid and fearsome beasts cried out in many voices.
 
@@ -3636,11 +3636,11 @@ translator: thothica
 
 **5.46.28**  The great monkey swiftly dodged between the arrows, eluding that adversary's targeting, foiling his aim's concentration.
 
-**5.46.29**  Spreading out his hands, Hanumān, son of the Wind, again darted forward in front of those arrows and leapt aloft.
+**5.46.29**  Spreading out his hands, Hanūmān, son of the Wind, again darted forward in front of those arrows and leapt aloft.
 
 **5.46.30**  Those two, both endowed with speed and skilled in the arts of war, waged an incomparable battle that captivated the minds of all living beings.
 
-**5.46.31**  The rākṣasa could find no opening in Hanumān, nor could Māruti find an opening in that great-souled one; coming together, those two of valor equal to the gods found each other mutually irresistible.
+**5.46.31**  The rākṣasa could find no opening in Hanūmān, nor could Māruti find an opening in that great-souled one; coming together, those two of valor equal to the gods found each other mutually irresistible.
 
 **5.46.32**  Then, as his mark was missed and his arrows fell in vain, that great-souled one fell into deep deliberation, his mind composed in contemplative concentration.
 
@@ -3654,7 +3654,7 @@ translator: thothica
 
 **5.46.37**  Then that foremost monkey hero, having recognized the missile's binding through the power of its master, his lesser speed having departed, reflected on the Grandsire's boon and on his own situation.
 
-**5.46.38**  Then Hanumān contemplated the Brahma-weapon enchanted with the spells of Svāyambhuva, and the boon he had received from the Grandsire.
+**5.46.38**  Then Hanūmān contemplated the Brahmā-weapon enchanted with the spells of Svāyaṃbhuva, and the boon he had received from the Grandsire.
 
 **5.46.39**  "I have no power to release myself from this missile-bondage, for it comes from the power of the world's preceptor; thus this missile-bondage, being of such a nature, must be honored by me, the son born of the self-existent."
 
@@ -3676,7 +3676,7 @@ translator: thothica
 
 **5.46.48**  "Alas, a great deed has been done to no purpose! The rākṣasas did not reflect on the lore of missiles; moreover, when one missile is deployed, no other missile can operate — we are all in doubt."
 
-**5.46.49**  Hanumān, freed by the missile, did not realize his own liberation, being dragged by the rākṣasas and oppressed by those bonds.
+**5.46.49**  Hanūmān, freed by the missile, did not realize his own liberation, being dragged by the rākṣasas and oppressed by those bonds.
 
 **5.46.50**  Then the monkey, beaten by the cruel rākṣasas with fists and wooden clubs, was dragged to the presence of the lord of rākṣasas.
 
@@ -3698,7 +3698,7 @@ translator: thothica
 
 **5.46.59**  Questioned by them in due order as to the purpose of his business and the root cause of the matter, the monkey announced at the outset: "I have come from the presence of Sugrīva, lord of the monkeys, as his messenger."
 
-**5.47.1**  Then Hanumān of terrible valor, astonished by his deeds, his eyes reddened with wrath, gazed upon the lord of rākṣasas.
+**5.47.1**  Then Hanūmān of terrible valor, astonished by his deeds, his eyes reddened with wrath, gazed upon the lord of rākṣasas.
 
 **5.47.2**  He beheld him resplendent with a magnificent golden diadem wrapped in a net of pearls, of surpassing brilliance —
 
@@ -3724,11 +3724,11 @@ translator: thothica
 
 **5.47.13**  — attended by counselors expert in the principles of statecraft and by others of auspicious intelligence, like the lord of gods attended by the gods;
 
-**5.47.14**  Hanumān beheld the lord of rākṣasas of immeasurable splendor, stationed there like a rain-laden cloud resting on the peak of Meru.
+**5.47.14**  Hanūmān beheld the lord of rākṣasas of immeasurable splendor, stationed there like a rain-laden cloud resting on the peak of Meru.
 
 **5.47.15**  Though being pressed upon by those rākṣasas of terrible valor, he was filled with supreme amazement and gazed upon the lord of rākṣasas.
 
-**5.47.16**  Then Hanumān, seeing the lord of rākṣasas blazing in splendor, reflected in his mind, overwhelmed by his brilliance.
+**5.47.16**  Then Hanūmān, seeing the lord of rākṣasas blazing in splendor, reflected in his mind, overwhelmed by his brilliance.
 
 **5.47.17**  "Ah, what form! Ah, what steadiness! Ah, what vigor! Ah, what radiance! Ah, how the king of rākṣasas is endowed with every auspicious mark!"
 
@@ -3796,7 +3796,7 @@ translator: thothica
 
 **5.49.13**  Some are equal to Garuḍa, son of Vinatā; others are comparable to the wind; those heroic monkeys move without obstruction, swift and of great might.
 
-**5.49.14**  And I am Hanumān by name, the own-born son of the Wind-god. For Sītā's sake, crossing in an instant the ocean stretching a hundred yojanas, I came here desiring to find her.
+**5.49.14**  And I am Hanūmān by name, the own-born son of the Wind-god. For Sītā's sake, crossing in an instant the ocean stretching a hundred yojanas, I came here desiring to find her.
 
 **5.49.15**  Therefore you, who have seen the value of righteousness and profit, who have embraced austerities, O greatly wise one — you ought not to obstruct the wife of another.
 
@@ -3908,13 +3908,13 @@ translator: thothica
 
 **5.51.16**  Those rākṣasas of cruel deeds, proclaiming their own acts with the sounds of conch-shells and kettledrums, led him through the city.
 
-**5.51.17**  Hanumān was led through the great city of the rākṣasas, and the great monkey observed its wonderful aerial palaces.
+**5.51.17**  Hanūmān was led through the great city of the rākṣasas, and the great monkey observed its wonderful aerial palaces.
 
 **5.51.18**  The monkey observed the enclosed ground areas, the well-laid-out squares, the streets dense with houses, and the crossroads.
 
 **5.51.19**  In the public squares, at the crossroads, and along the royal highway, all the rākṣasas proclaimed the monkey a spy.
 
-**5.51.20**  Then, as the tip of Hanumān's tail was blazing, those rākṣasa women of distorted eyes reported that unpleasant news to the goddess.
+**5.51.20**  Then, as the tip of Hanūmān's tail was blazing, those rākṣasa women of distorted eyes reported that unpleasant news to the goddess.
 
 **5.51.21**  "That copper-faced monkey with whom you conversed, O Sītā — this very one is being led about with his tail set on fire."
 
@@ -3922,13 +3922,13 @@ translator: thothica
 
 **5.51.23**  With wide eyes, pure and auspiciously disposed, she turned toward the great monkey's well-being and propitiated the bearer of oblations.
 
-**5.51.24**  "If there is service rendered to my husband, if there is austerity performed, if there is fidelity to one husband — be cool for Hanumān."
+**5.51.24**  "If there is service rendered to my husband, if there is austerity performed, if there is fidelity to one husband — be cool for Hanūmān."
 
-**5.51.25**  "If that wise one has any compassion for me, if there remains any residue of my fortune — be cool for Hanumān."
+**5.51.25**  "If that wise one has any compassion for me, if there remains any residue of my fortune — be cool for Hanūmān."
 
-**5.51.26**  "If that righteous-souled one knows me to be of virtuous conduct and longing for union with him — be cool for Hanumān."
+**5.51.26**  "If that righteous-souled one knows me to be of virtuous conduct and longing for union with him — be cool for Hanūmān."
 
-**5.51.27**  "If the noble, long-armed Sugrīva, true to his pledge, will rescue me from this suffering — be cool for Hanumān."
+**5.51.27**  "If the noble, long-armed Sugrīva, true to his pledge, will rescue me from this suffering — be cool for Hanūmān."
 
 **5.51.28**  Then the fire, with its sharp flames, undisturbed, with its crest turning rightward, blazed — as though proclaiming auspiciousness for the monkey to the doe-eyed one.
 
@@ -3950,7 +3950,7 @@ translator: thothica
 
 **5.51.37**  And freed, the glorious one again became like a mountain; looking about, he spied an iron bar resting against the gatehouse arch.
 
-**5.51.38**  Seizing it, long-armed Mārutiḥ — that bar fitted with black iron — slaughtered all those guards once more.
+**5.51.38**  Seizing it, long-armed Māruti — that bar fitted with black iron — slaughtered all those guards once more.
 
 **5.51.39**  Having slain them, he of fierce prowess in battle, surveying Laṅkā once more, shone resplendent — his tail ablaze making a garland of flames — like the sun with its garland of rays.
 
@@ -3966,7 +3966,7 @@ translator: thothica
 
 **5.52.6**  Then, with his tail ablaze, the great monkey moved about the rooftops of Laṅkā's mansions like a thundercloud lit by lightning.
 
-**5.52.7**  Hanumān released fire whose flames were like those of the fire of universal dissolution.
+**5.52.7**  Hanūmān released fire whose flames were like those of the fire of universal dissolution.
 
 **5.52.8**  Fanned by the wind, that fire blazed with tremendous speed and great force, spreading and growing like the fire of cosmic time.
 
@@ -3978,17 +3978,17 @@ translator: thothica
 
 **5.52.12**  He beheld brilliant mineral streams flowing from the mansions — diamond, coral, vaidūrya gem, pearl, and silver, all mingled together.
 
-**5.52.13**  Just as fire is never sated with wood and grass, so too Hanumān was not in the least sated with the slaying of those lords of the rākṣasas.
+**5.52.13**  Just as fire is never sated with wood and grass, so too Hanūmān was not in the least sated with the slaying of those lords of the rākṣasas.
 
-**5.52.14**  That Laṅkā, enveloped in the flames of fire, her champions slain, her warriors routed, overcome by the furious power of Hanumān, appeared like a city struck down by a curse.
+**5.52.14**  That Laṅkā, enveloped in the flames of fire, her champions slain, her warriors routed, overcome by the furious power of Hanūmān, appeared like a city struck down by a curse.
 
-**5.52.15**  The great-spirited Hanumān beheld Laṅkā, her rākṣasas terrified and distraught, blazing with the flames of fire, like the earth struck by the wrath of the Self-born Brahmā.
+**5.52.15**  The great-spirited Hanūmān beheld Laṅkā, her rākṣasas terrified and distraught, blazing with the flames of fire, like the earth struck by the wrath of the Self-born Brahmā.
 
 **5.52.16**  Having slain those many rākṣasas, having broken that grove with its many trees, having set fire to the dwellings of the rākṣasas, that great-souled one turned his mind to Rāma.
 
 **5.52.17**  Having set all of Laṅkā ablaze, that foremost of monkeys, the best of the vānaras, then extinguished the fire of his tail in the ocean.
 
-**5.53.1**  Gazing upon the burning, devastated city of Laṅkā, her bands of rākṣasas terrified, the monkey Hanumān fell into thought.
+**5.53.1**  Gazing upon the burning, devastated city of Laṅkā, her bands of rākṣasas terrified, the monkey Hanūmān fell into thought.
 
 **5.53.2**  A great fear arose in him, and self-reproach was born within: "What act have I committed by burning Laṅkā?"
 
@@ -4034,19 +4034,19 @@ translator: thothica
 
 **5.53.23**  "By her ascetic practice, by her truthful speech, and by her singular devotion to her husband, she could herself extinguish fire — fire will not burn her."
 
-**5.53.24**  As he thus reflected upon the queen's embrace of dharma, the great-souled Hanumān heard the words of the Cāraṇas.
+**5.53.24**  As he thus reflected upon the queen's embrace of dharma, the great-souled Hanūmān heard the words of the Cāraṇas.
 
-**5.53.25**  "Ah, truly a deed nearly beyond endurance has been performed by Hanumān, who again and again unleashed fearsome fire upon the dwellings of the rākṣasas!"
+**5.53.25**  "Ah, truly a deed nearly beyond endurance has been performed by Hanūmān, who again and again unleashed fearsome fire upon the dwellings of the rākṣasas!"
 
 **5.53.26**  "This city of Laṅkā with its watch-towers, ramparts, and gateways has been burned — yet Jānakī has not been burned. This is a wonder and marvel to us!"
 
-**5.53.27**  By these omens of manifest import, by reasons of great virtue, and by the words of the seers, Hanumān's heart became glad.
+**5.53.27**  By these omens of manifest import, by reasons of great virtue, and by the words of the seers, Hanūmān's heart became glad.
 
 **5.53.28**  Then the monkey, his desired object attained, knowing the princess to be unharmed, and having seen her again in person, resolved to set out on his return journey.
 
 **5.54.1**  Then, going to Jānakī who was seated at the foot of the śiṃśapā tree, he saluted her and said: "By good fortune I see you here unharmed."
 
-**5.54.2**  Then Sītā, gazing again and again upon Hanumān as he prepared to depart, spoke to him words filled with affection for her husband.
+**5.54.2**  Then Sītā, gazing again and again upon Hanūmān as he prepared to depart, spoke to him words filled with affection for her husband.
 
 **5.54.3**  "Truly, you alone are sufficient to accomplish this task. O slayer of enemy heroes, your rise of power is glorious."
 
@@ -4054,11 +4054,11 @@ translator: thothica
 
 **5.54.5**  "Bring about therefore what is truly befitting of that great-souled hero in battle — cause his valor to manifest as it rightly should."
 
-**5.54.6**  Having heard those words of hers — purposeful, modest, and supported by reasons — Hanumān spoke this reply to her.
+**5.54.6**  Having heard those words of hers — purposeful, modest, and supported by reasons — Hanūmān spoke this reply to her.
 
 **5.54.7**  "Kākutstha will come swiftly, surrounded by the foremost of monkeys and bears, and having conquered your enemies in battle, he will remove your sorrow."
 
-**5.54.8**  Having thus reassured the princess of Videha, Hanumān, the son of the wind-god, made up his mind to depart and took leave of Vaidehī.
+**5.54.8**  Having thus reassured the princess of Videha, Hanūmān, the son of the wind-god, made up his mind to depart and took leave of Vaidehī.
 
 **5.54.9**  Then that tiger among monkeys, that crusher of enemies, eager to see his lord, ascended the finest of mountains, Ariṣṭa.
 
@@ -4104,7 +4104,7 @@ translator: thothica
 
 **5.55.4**  — as though swallowing the sky, as though painting the lord of stars, as though sweeping away the firmament together with the stellar hosts and the orb of the sun —
 
-**5.55.5**  the glorious great monkey Hanumān, dweller in wind, traveller through the sky, moved as though dragging apart the masses of clouds — the abode of the wind-god.
+**5.55.5**  the glorious great monkey Hanūmān, dweller in wind, traveller through the sky, moved as though dragging apart the masses of clouds — the abode of the wind-god.
 
 **5.55.6**  The great clouds gleamed — some pale and reddish, some dark blue and madder-red, others green and orange-hued.
 
@@ -4120,11 +4120,11 @@ translator: thothica
 
 **5.55.12**  Jāmbavān, that foremost of monkeys, his heart thrilled with delight, summoning all the monkeys spoke these words:
 
-**5.55.13**  "In every respect that Hanumān has accomplished his task — there is no doubt of this. For one who had not accomplished his task could not produce a roar of this kind."
+**5.55.13**  "In every respect that Hanūmān has accomplished his task — there is no doubt of this. For one who had not accomplished his task could not produce a roar of this kind."
 
 **5.55.14**  Hearing the speed of his arms and thighs and the roar of that great-souled one, the monkeys, overjoyed, leapt up from here and there.
 
-**5.55.15**  Exhilarated, longing to see Hanumān, they moved from treetop to treetop, from peak to peak.
+**5.55.15**  Exhilarated, longing to see Hanūmān, they moved from treetop to treetop, from peak to peak.
 
 **5.55.16**  Delighted, those monkeys grasped the well-flowering branches at the treetops and waved them about like gleaming garments.
 
@@ -4132,7 +4132,7 @@ translator: thothica
 
 **5.55.18**  Then that swift monkey, himself mountain-like, descended upon the tree-covered summit of mount Mahendra.
 
-**5.55.19**  Then all those bulls among monkeys, their hearts full of joy, gathered around and attended upon the great-souled Hanumān.
+**5.55.19**  Then all those bulls among monkeys, their hearts full of joy, gathered around and attended upon the great-souled Hanūmān.
 
 **5.55.20**  Surrounding him, they all experienced the highest delight, all with gleaming faces, seeing him returned safe and well.
 
@@ -4140,13 +4140,13 @@ translator: thothica
 
 **5.55.22**  Some roared with joy, others made the kila-kila cry; exhilarated, those bulls among monkeys brought down branches of trees.
 
-**5.55.23**  Then Hanumān, that great monkey, reverently saluted his elders and seniors headed by Jāmbavān, and also the prince Aṅgada.
+**5.55.23**  Then Hanūmān, that great monkey, reverently saluted his elders and seniors headed by Jāmbavān, and also the prince Aṅgada.
 
 **5.55.24**  Honoured by those two, himself worthy of honour, and gratified by the monkeys, that valiant one reported briefly: "The queen has been found."
 
 **5.55.25**  Taking the son of Vālin by the hand, he sat down in a pleasant wooded place on mount Mahendra.
 
-**5.55.26**  Then Hanumān, joyful, spoke to those bulls among monkeys: "The daughter of Janaka has been seen — she is dwelling in the Aśoka grove."
+**5.55.26**  Then Hanūmān, joyful, spoke to those bulls among monkeys: "The daughter of Janaka has been seen — she is dwelling in the Aśoka grove."
 
 **5.55.27**  "Guarded by dreadful rākṣasīs, the blameless young woman, wearing her hair in a single braid, longs to behold Rāma; she is exhausted by fasting, soiled, matted-haired, and emaciated."
 
@@ -4156,23 +4156,23 @@ translator: thothica
 
 **5.55.30**  Some, those elephant-like monkeys, raised their tails in joy; they curled and waved their long, outstretched tails.
 
-**5.55.31**  And others, those monkeys elephant-like in might, leapt from the mountain peaks and touched Hanumān with delight.
+**5.55.31**  And others, those monkeys elephant-like in might, leapt from the mountain peaks and touched Hanūmān with delight.
 
-**5.55.32**  Then Aṅgada, in the midst of all the monkey heroes, spoke these excellent words to Hanumān who had just finished speaking:
+**5.55.32**  Then Aṅgada, in the midst of all the monkey heroes, spoke these excellent words to Hanūmān who had just finished speaking:
 
 **5.55.33**  "In courage and valour there is no monkey equal to you — you who have leapt across the vast ocean and returned again."
 
 **5.55.34**  "By good fortune you have seen the queen, the glorious wife of Rāma. By good fortune Kākutstha will abandon the grief born of separation from Sītā."
 
-**5.55.35**  Then the monkeys, surrounding Aṅgada, Hanumān, and Jāmbavān, joyful, took their places on the broad rocks.
+**5.55.35**  Then the monkeys, surrounding Aṅgada, Hanūmān, and Jāmbavān, joyful, took their places on the broad rocks.
 
-**5.55.36**  Those foremost of monkeys, eager to hear of the crossing of the ocean, the seeing of Laṅkā, of Sītā, and of Rāvaṇa, all stood with palms joined, their faces turned toward Hanumān's countenance.
+**5.55.36**  Those foremost of monkeys, eager to hear of the crossing of the ocean, the seeing of Laṅkā, of Sītā, and of Rāvaṇa, all stood with palms joined, their faces turned toward Hanūmān's countenance.
 
 **5.55.37**  The glorious Aṅgada sat there, surrounded by many monkeys, attended upon like the lord of gods in heaven attended by the celestials.
 
-**5.55.38**  The lofty, great summit of the mountain, occupied with joy by the renowned and illustrious Hanumān and by Aṅgada with Aṅgada's arm clasped about him, blazed with splendour.
+**5.55.38**  The lofty, great summit of the mountain, occupied with joy by the renowned and illustrious Hanūmān and by Aṅgada with Aṅgada's arm clasped about him, blazed with splendour.
 
-**5.56.1**  Then on the summit of that mountain Mahendra, the mighty monkeys with Hanumān at their head experienced the highest joy.
+**5.56.1**  Then on the summit of that mountain Mahendra, the mighty monkeys with Hanūmān at their head experienced the highest joy.
 
 **5.56.2**  Then Jāmbavān, himself overjoyed, questioned that joyful great monkey, the son of the wind-god, about what had transpired in the mission.
 
@@ -4234,7 +4234,7 @@ translator: thothica
 
 **5.56.31**  "The goddess Surasā, resuming her own form, said to me again: 'Go, gentle one, O foremost of monkeys, at your ease — may your purpose be accomplished!'
 
-**5.56.32**  "'And bring together the Vaidehi with the great-souled Rāghava. Be happy, O mighty-armed one — I am pleased with you, monkey.'
+**5.56.32**  "'And bring together the Vaidehī with the great-souled Rāghava. Be happy, O mighty-armed one — I am pleased with you, monkey.'
 
 **5.56.33**  "Then praised by all beings with 'Excellent! Excellent!', I soared up into the vast sky like Garuḍa.
 
@@ -4256,7 +4256,7 @@ translator: thothica
 
 **5.56.42**  "That dreadful one, mountain-sized, her heart wrenched out by me, her arms released, fell into the salt ocean.
 
-**5.56.43**  "And I heard the sky-going beings and siddhas together with cāraṇas: 'The dreadful rākṣasī Siṃhikā has been swiftly destroyed by Hanumān.'
+**5.56.43**  "And I heard the sky-going beings and siddhas together with cāraṇas: 'The dreadful rākṣasī Siṃhikā has been swiftly destroyed by Hanūmān.'
 
 **5.56.44**  "Having slain her and remembering my urgent task, I traversed a great distance and saw the southern shore of the ocean adorned with mountains — where that city of Laṅkā lies.
 
@@ -4330,7 +4330,7 @@ translator: thothica
 
 **5.56.79**  "Hearing those words of hers, I too spoke words: 'O queen, your husband Rāma has an ally of dreadful valour — the heroic king of monkeys of great might, named Sugrīva.'
 
-**5.56.80**  "'Know me as his servant Hanumān, come here — I have been sent to you by your husband, Rāma the effortless worker.'
+**5.56.80**  "'Know me as his servant Hanūmān, come here — I have been sent to you by your husband, Rāma the effortless worker.'
 
 **5.56.81**  "'And this — the glorious Rāma, that tiger among men, son of Daśaratha, has himself given this ring as a token of recognition to you, O illustrious one.'
 
@@ -4344,7 +4344,7 @@ translator: thothica
 
 **5.56.86**  "Then, bowing reverently to that princess, composed in mind, I performed a clockwise circumambulation, my heart set on returning here.
 
-**5.56.87**  "She spoke again a further word, having resolved upon it in her mind: 'Hanumān, you must relate my situation to the Rāghava.'
+**5.56.87**  "She spoke again a further word, having resolved upon it in her mind: 'Hanūmān, you must relate my situation to the Rāghava.'
 
 **5.56.88**  "'Act in such a way that those two heroes, Rāma and Lakṣmaṇa, together with Sugrīva, come here speedily upon hearing.'
 
@@ -4396,7 +4396,7 @@ translator: thothica
 
 **5.56.112**  "And questioned about my coming to Laṅkā and the slaying of those rākṣasas, I declared all of it there: 'It was for the sake of Sītā.'
 
-**5.56.113**  "'Desirous of seeing her, I came to your abode, O lord — I am the monkey Hanumān, the direct son of Māruta.'
+**5.56.113**  "'Desirous of seeing her, I came to your abode, O lord — I am the monkey Hanūmān, the direct son of Māruta.'
 
 **5.56.114**  "'Know me as Rāma's messenger, a monkey, the minister of Sugrīva — I have come here to your presence on Rāma's embassy.'
 
@@ -4446,13 +4446,13 @@ translator: thothica
 
 **5.56.137**  "Then I heard the auspicious speech of the cāraṇas who spoke a wondrous message: 'Jānakī has not been burned.'
 
-**5.56.138**  "Then a thought arose in me after hearing that wondrous speech; the Vaidehi was seen again and I was sent off again by her.
+**5.56.138**  "Then a thought arose in me after hearing that wondrous speech; the Vaidehī was seen again and I was sent off again by her.
 
 **5.56.139**  "By the power of the Rāghava, and by your splendour, and for the purpose of Sugrīva's mission, all has been accomplished by me.
 
 **5.56.140**  "All of this has been duly accomplished by me there — whatever remaining task has not been done here, let all of that now be carried out."
 
-**5.57.1**  Having narrated all of that account, Hanumān, son of the wind-god, proceeded to speak a further word:
+**5.57.1**  Having narrated all of that account, Hanūmān, son of the wind-god, proceeded to speak a further word:
 
 **5.57.2**  "The effort of the Rāghava is fruitful, and the diligence of Sugrīva, having encountered the character of Sītā — as is my great leap.
 
@@ -4466,9 +4466,9 @@ translator: thothica
 
 **5.57.7**  "Surrounded by rākṣasīs, wasted by grief and anguish, she is like a crescent of the moon surrounded by streaks of cloud — shorn of its lustre.
 
-**5.57.8**  "The Vaidehi gives no thought to Rāvaṇa who is arrogant with strength; she is devoted to her husband, lovely-hipped, and firm in resolve — Jānakī.
+**5.57.8**  "The Vaidehī gives no thought to Rāvaṇa who is arrogant with strength; she is devoted to her husband, lovely-hipped, and firm in resolve — Jānakī.
 
-**5.57.9**  "For the auspicious Vaidehi is devoted to Rāma with her entire being, her mind fixed on Rāma alone — like Paulomī fixed upon Purandara.
+**5.57.9**  "For the auspicious Vaidehī is devoted to Rāma with her entire being, her mind fixed on Rāma alone — like Paulomī fixed upon Purandara.
 
 **5.57.10**  "Clothed in a single garment, covered with dust as well, her limbs wasted by grief and anguish, Sītā is devoted to her husband's welfare.
 
@@ -4834,7 +4834,7 @@ translator: thothica
 
 **5.63.26**  Both princes having thus found reassurance, and the token having been presented to Rāghava, the son of the Wind narrated in full with complete words, in order, everything that the goddess had related.
 
-**5.64.1**  Thus addressed by Hanumān, Rāma, son of Daśaratha, pressing that jewel to his heart, wept together with Lakṣmaṇa.
+**5.64.1**  Thus addressed by Hanūmān, Rāma, son of Daśaratha, pressing that jewel to his heart, wept together with Lakṣmaṇa.
 
 **5.64.2**  Beholding that finest of jewels, Rāghava, wasted by grief, his two eyes brimming with tears, spoke these words to Sugrīva.
 
@@ -4860,11 +4860,11 @@ translator: thothica
 
 **5.64.13**  Surely her face, shrouded by those rākṣasas, no longer shines—like the autumnal moon whose face is veiled by clouds.
 
-**5.64.14**  What did Sītā say, O Hanumān? Tell me truthfully—by this I shall live, as a sick man lives by medicine.
+**5.64.14**  What did Sītā say, O Hanūmān? Tell me truthfully—by this I shall live, as a sick man lives by medicine.
 
-**5.64.15**  The sweet one, sweet of speech—what did my passionate one say, she of noble hips, separated from me? Tell me, O Hanumān: having attained sorrow upon sorrow, how does Jānakī live?
+**5.64.15**  The sweet one, sweet of speech—what did my passionate one say, she of noble hips, separated from me? Tell me, O Hanūmān: having attained sorrow upon sorrow, how does Jānakī live?
 
-**5.65.1**  Thus addressed by the great-souled Rāghava, Hanumān reported to Rāghava everything that Sītā had spoken.
+**5.65.1**  Thus addressed by the great-souled Rāghava, Hanūmān reported to Rāghava everything that Sītā had spoken.
 
 **5.65.2**  "This is what the goddess Jānakī said, O bull among men: she gave a token from former events at Citrakūṭa, exactly as they happened."
 
@@ -4928,7 +4928,7 @@ translator: thothica
 
 **5.65.32**  "And seeing me roused to eagerness for departure and growing in size, the daughter of Janaka, that fair-complexioned one, her face filled with tears, pitiful, her words choked with weeping, spoke to me."
 
-**5.65.33**  "'O Hanumān, convey my greeting of freedom from ill to both Rāma and Lakṣmaṇa, who are like lions, and to Sugrīva together with his ministers, to all of them.'"
+**5.65.33**  "'O Hanūmān, convey my greeting of freedom from ill to both Rāma and Lakṣmaṇa, who are like lions, and to Sugrīva together with his ministers, to all of them.'"
 
 **5.65.34**  "'And you should endeavor to arrange how that mighty-armed Rāghava may rescue me from this flood of sorrow that hems me in.'"
 

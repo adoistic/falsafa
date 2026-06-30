@@ -87,7 +87,7 @@ translator: thothica
 
 **1.8.3**  This great red-blooded one has been lifted up from the earth; that is the remedy against discharge, and it has indeed destroyed disease.
 
-**1.8.4**  The field-crickets carry up the remedy from the ocean; thou art the Ātharvaṇa remedy for the wound, thou art the Ātharvaṇa seat-of-disease.
+**1.8.4**  The field-crickets carry up the remedy from the ocean; thou art the Atharvaṇa remedy for the wound, thou art the Atharvaṇa seat-of-disease.
 
 **1.9.1**  This one is the Asura of the gods who rules on high — for the command of King Varuṇa is true; conquering over and beyond that with sacred utterance, I lead this man up out of the fierce wrath.
 
@@ -169,7 +169,7 @@ translator: thothica
 
 **1.18.3**  With reverences I call upon Soma and Savitṛ, (and) all the gods, for my own supremacy (uttaratva). This Agni blazes on throughout the day, kindled by the companions of the same birth (sajāta) who do not contradict.
 
-**1.18.4**  Remain here; do not go forward. Arya, the herdsman and lord of prosperity (puṣṭapati), has driven you (here). Toward him, O desiring-women (kāminī), for his desire — may all the gods bring you (wives) together, here, under the sky.
+**1.18.4**  Remain here; do not go forward. Ārya, the herdsman and lord of prosperity (puṣṭapati), has driven you (here). Toward him, O desiring-women (kāminī), for his desire — may all the gods bring you (wives) together, here, under the sky.
 
 **1.19.1**  May the Vasus establish wealth in this one — Indra, Tvaṣṭṛ, Varuṇa, Mitra, Agni; may the Ādityas and all the gods sustain him in the highest divine light.
 
@@ -853,7 +853,7 @@ translator: thothica
 
 **1.101.1**  Three vessels were the first to exist; truth and existence fashioned them. Upon the measure of ṛta rest those that are immovable — with these do the gods partake of the immortal draught.
 
-**1.101.2**  When the gods came distributing the heavenly light, three vessels were the first to exist: one the Ādityās claimed, the Vasus a second, and the Rudrās took possession of the third.
+**1.101.2**  When the gods came distributing the heavenly light, three vessels were the first to exist: one the Ādityās claimed, the Vasus a second, and the Rudras took possession of the third.
 
 **1.101.3**  Dhātṛ knows all these; Savitṛ knows them; Bṛhaspati, the foremost god, and Agni. With these three vessels Indra fills his belly, and likewise all the Viśve Devāḥ.
 

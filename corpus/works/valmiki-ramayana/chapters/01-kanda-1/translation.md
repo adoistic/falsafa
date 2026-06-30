@@ -112,9 +112,9 @@ translator: thothica
 
 **1.1.46**  Kabandha told him of Śabarī, a female ascetic who walks the path of righteousness, skilled in dharma: "Go to her, O Rāghava." The greatly radiant slayer of enemies then went to Śabarī.
 
-**1.1.47**  Duly honored by Śabarī, Rāma the son of Daśaratha met on the shore of Pampā with Hanumān, the monkey.
+**1.1.47**  Duly honored by Śabarī, Rāma the son of Daśaratha met on the shore of Pampā with Hanūmān, the monkey.
 
-**1.1.48**  Through Hanumān's words he came to meet Sugrīva, and the mighty Rāma told Sugrīva everything that had befallen him.
+**1.1.48**  Through Hanūmān's words he came to meet Sugrīva, and the mighty Rāma told Sugrīva everything that had befallen him.
 
 **1.1.49**  Then the king of monkeys, out of affection and sorrow, told Rāma all about the origin of his enmity; and the monkey also recounted there the strength of Vālin.
 
@@ -132,7 +132,7 @@ translator: thothica
 
 **1.1.56**  That bull among monkeys, having assembled all the monkeys, dispatched them in all directions, seeking to find the daughter of Janaka.
 
-**1.1.57**  Then, by the words of the vulture Saṃpāti, the mighty Hanumān leapt across the salt ocean, a hundred leagues in breadth.
+**1.1.57**  Then, by the words of the vulture Saṃpāti, the mighty Hanūmān leapt across the salt ocean, a hundred leagues in breadth.
 
 **1.1.58**  Arriving at Laṅkā, the city ruled by Rāvaṇa, he saw Sītā there, lost in thought, situated in the Aśoka grove.
 
@@ -1016,7 +1016,7 @@ translator: thothica
 
 **1.17.4**  Once the lords of the earth had gone, the illustrious King Daśaratha re-entered his city with the foremost of Brāhmaṇas leading the way.
 
-**1.17.5**  Ṛṣyaśṛṅga, greatly honoured, departed together with Śāntā, followed by the wise king and his entire retinue.
+**1.17.5**  Ṛśyaśṛṅga, greatly honoured, departed together with Śāntā, followed by the wise king and his entire retinue.
 
 **1.17.6**  Kausalyā gave birth to Rāma, endowed with divine marks, bearing half of Viṣṇu's essence, supremely blessed, the joy of the Ikṣvāku lineage.
 
@@ -1562,7 +1562,7 @@ translator: thothica
 
 **1.29.2**  "O Blessed One, O Brahman, we wish to know at what time those two night-roaming Rākṣasas are to be guarded against, so that we may not let that moment pass."
 
-**1.29.3**  As the two scions of Kakutstha spoke thus, eager for battle, all those sages were pleased and praised the royal princes.
+**1.29.3**  As the two scions of Kākutstha spoke thus, eager for battle, all those sages were pleased and praised the royal princes.
 
 **1.29.4**  "Guard the hermitage, O Rāghavas both of you, for six nights from this day forward; this sage has entered upon the consecration and will observe a vow of silence."
 
@@ -1600,7 +1600,7 @@ translator: thothica
 
 **1.29.21**  Having slain all those Rākṣasas who had disrupted the sacrifice, the delight of the Raghu line was honoured by the seers there, just as Indra was honoured of old after his victories.
 
-**1.29.22**  Then, when the sacrifice was complete, the great sage Viśvāmitra, beholding the quarters free of all affliction, spoke these words to the scion of Kakutstha.
+**1.29.22**  Then, when the sacrifice was complete, the great sage Viśvāmitra, beholding the quarters free of all affliction, spoke these words to the scion of Kākutstha.
 
 **1.29.23**  "I am fulfilled, O mighty-armed one; the command of your teacher has been carried out by you. Siddhāśrama is now truly made perfect, O Rāma of great renown."
 
@@ -1624,11 +1624,11 @@ translator: thothica
 
 **1.30.10**  "Mighty kings and princes who wished to test the prowess of that bow were unable to string it."
 
-**1.30.11**  "That bow, O tiger among men, belonging to the great-souled lord of Mithilā, you shall see there, O scion of Kakutstha, along with the sacrifice wondrous to behold."
+**1.30.11**  "That bow, O tiger among men, belonging to the great-souled lord of Mithilā, you shall see there, O scion of Kākutstha, along with the sacrifice wondrous to behold."
 
 **1.30.12**  "That bow with its fine nock, O tiger among men, was solicited as the fruit of the sacrifice from the lord of Mithilā by all the gods."
 
-**1.30.13**  Having spoken thus, the foremost of sages then set out for the journey, together with the assembly of seers and the scion of Kakutstha, having taken leave of the forest deities.
+**1.30.13**  Having spoken thus, the foremost of sages then set out for the journey, together with the assembly of seers and the scion of Kākutstha, having taken leave of the forest deities.
 
 **1.30.14**  "Fare you well; I depart, my purpose fulfilled, from Siddhāśrama; I go to the Himālaya, the mountain mass of rock, on the northern bank of the Jāhnavī."
 
@@ -1710,7 +1710,7 @@ translator: thothica
 
 **1.32.8**  'Such is the forbearance you all share equally. Forbearance is giving, forbearance is sacrifice, forbearance is truth itself, O daughters.'
 
-**1.32.9**  'Forbearance is glory, forbearance is dharma; the entire world rests upon forbearance.' Having dismissed the maidens, O scion of Kakutstha, that king of godlike valor—
+**1.32.9**  'Forbearance is glory, forbearance is dharma; the entire world rests upon forbearance.' Having dismissed the maidens, O scion of Kākutstha, that king of godlike valor—
 
 **1.32.10**  —versed in counsel, deliberated with his ministers about the giving away of his daughters in marriage, discussing the proper bestowal befitting time and place.
 
@@ -1732,7 +1732,7 @@ translator: thothica
 
 **1.32.19**  That king Brahmadatta then dwelt in the city of Kāmpilya with the highest splendor, as the king of the gods dwells in heaven.
 
-**1.32.20**  Then that highly righteous king Kuśanābha resolved, O scion of Kakutstha, to give his hundred daughters to Brahmadatta.
+**1.32.20**  Then that highly righteous king Kuśanābha resolved, O scion of Kākutstha, to give his hundred daughters to Brahmadatta.
 
 **1.32.21**  Having summoned him, the greatly resplendent king gave his hundred daughters to Brahmadatta with heartfelt joy.
 
@@ -1756,7 +1756,7 @@ translator: thothica
 
 **1.33.5**  Then, in the course of time, to the wise Kuśanābha was born a supremely righteous son named Gādhi.
 
-**1.33.6**  'That Gādhi, O scion of Kakutstha, supremely righteous, is my father; I am born of the lineage of Kuśa—I am Kauśika, O joy of the Raghu line.'
+**1.33.6**  'That Gādhi, O scion of Kākutstha, supremely righteous, is my father; I am born of the lineage of Kuśa—I am Kauśika, O joy of the Raghu line.'
 
 **1.33.7**  'My elder sister too, O Rāghava, of excellent vows, named Satyavatī, was given in marriage to Ṛcīka.'
 
@@ -1772,7 +1772,7 @@ translator: thothica
 
 **1.33.13**  'This, O Rāma, is the account of my birth, the fame of my own lineage, and of this region, which you asked me about, O mighty-armed one.'
 
-**1.33.14**  'The midnight has passed while I have been telling these tales, O scion of Kakutstha. Go now to sleep; blessings to you—let there be no obstacle to us on this journey.'
+**1.33.14**  'The midnight has passed while I have been telling these tales, O scion of Kākutstha. Go now to sleep; blessings to you—let there be no obstacle to us on this journey.'
 
 **1.33.15**  'All the trees stand motionless; beasts and birds have settled to rest; the quarters are covered by the darkness of night, O joy of the Raghu line.'
 
@@ -1836,7 +1836,7 @@ translator: thothica
 
 **1.35.4**  "How is Gaṅgā, the renowned Tripathagā, best of rivers — endowed with what deeds does she flow through the three worlds, O knower of righteousness?"
 
-**1.35.5**  As the descendant of Kakutstha spoke thus, Viśvāmitra, whose wealth is austerity, narrated the entire tale in full in the midst of the sages.
+**1.35.5**  As the descendant of Kākutstha spoke thus, Viśvāmitra, whose wealth is austerity, narrated the entire tale in full in the midst of the sages.
 
 **1.35.6**  "Long ago, Rāma, Śitikaṇṭha — the blue-throated one — of great austerity, having married, and gazing upon the goddess with desire, approached her for conjugal union.
 
@@ -1942,7 +1942,7 @@ translator: thothica
 
 **1.36.31**  "This, Rāma, is the full account of Gaṅgā that has been set forth by me — and likewise the birth of the Prince, which is meritorious and sacred."
 
-**1.37.1**  Having narrated that tale to Rāma in honeyed syllables, Kauśika then spoke again to the descendant of Kakutstha with these further words.
+**1.37.1**  Having narrated that tale to Rāma in honeyed syllables, Kauśika then spoke again to the descendant of Kākutstha with these further words.
 
 **1.37.2**  There was formerly a heroic king, lord of Ayodhyā, a ruler of men named Sagara, righteous in soul, longing for offspring, yet he was without children.
 
@@ -1960,7 +1960,7 @@ translator: thothica
 
 **1.37.9**  As that tiger among men was speaking, the two royal wives, greatly pleased, propitiated him and then spoke with palms folded in reverence.
 
-**1.37.10**  O Brahmana, whose wife shall bear the single son, and which one shall give birth to many? We wish to hear this, O Brahmana -- may your words be true.
+**1.37.10**  O Brāhmaṇa, whose wife shall bear the single son, and which one shall give birth to many? We wish to hear this, O Brāhmaṇa -- may your words be true.
 
 **1.37.11**  Hearing those words of the two, Bhṛgu, most righteous, spoke the highest pronouncement: Let the choice here be freely made by each of you.
 
@@ -1992,7 +1992,7 @@ translator: thothica
 
 **1.38.1**  O delight of the Raghus, hearing Viśvāmitra's words at the tale's end, Rāma, exceedingly delighted, spoke to the sage who blazed like a fire.
 
-**1.38.2**  I wish to hear this tale in full detail -- may it be well with you, O Brahmana. How did my ancestor perform that sacrifice?
+**1.38.2**  I wish to hear this tale in full detail -- may it be well with you, O Brāhmaṇa. How did my ancestor perform that sacrifice?
 
 **1.38.3**  Viśvāmitra, smiling, then said to Kākutstha: O Rāma, let the full account of that great-souled Sagara be heard.
 
@@ -2402,19 +2402,19 @@ translator: thothica
 
 **1.46.9**  Having thus come to this resolution, O Rāma, the mother and son, their purpose accomplished, departed from that ascetic forest to the three heavens — so we have heard.
 
-**1.46.10**  This is the very region, O descendant of Kakutstha, once inhabited by Mahendra, where he thus attended upon Diti who had achieved the fruit of her austerity.
+**1.46.10**  This is the very region, O descendant of Kākutstha, once inhabited by Mahendra, where he thus attended upon Diti who had achieved the fruit of her austerity.
 
-**1.46.11**  Of Ikṣvāku, O tiger among men, there was born a most righteous son, born of Alambuṣā, renowned by the name Viśāla.
+**1.46.11**  Of Ikṣvāku, O tiger among men, there was born a most righteous son, born of Alambuṣā, renowned by the name Viśālā.
 
 **1.46.12**  By him was the city named Viśālā established here in this very place.
 
-**1.46.13**  The son of Viśāla, O Rāma, was Hemacandra, of great might; Sucandra, next after Hemacandra, was renowned by that name.
+**1.46.13**  The son of Viśālā, O Rāma, was Hemacandra, of great might; Sucandra, next after Hemacandra, was renowned by that name.
 
 **1.46.14**  The son of Sucandra, O Rāma, was known as Dhūmrāśva; and from Dhūmrāśva there arose a son called Sṛñjaya.
 
 **1.46.15**  The glorious and valiant son of Sṛñjaya was Sahadeva; and Kuśāśva, most devoted to righteousness, was the son of Sahadeva.
 
-**1.46.16**  Of Kuśāśva was born Somadatta, of great splendor and valor; and the son of Somadatta, O descendant of Kakutstha, is renowned as such.
+**1.46.16**  Of Kuśāśva was born Somadatta, of great splendor and valor; and the son of Somadatta, O descendant of Kākutstha, is renowned as such.
 
 **1.46.17**  His son, of great splendor, resembling an immortal, named Sumati, the unconquerable, now inhabits this city.
 
@@ -2508,7 +2508,7 @@ translator: thothica
 
 **1.48.8**  Hearing the words of Agni, the ancestors assembled, and having extracted the ram's testicles, presented them to the thousand-eyed Indra.
 
-**1.48.9**  From that time onward, O descendant of Kakutstha, the ancestors when assembled partake of rams without their testicles — and they ordained that those animals' testicles be the fruit offered to them.
+**1.48.9**  From that time onward, O descendant of Kākutstha, the ancestors when assembled partake of rams without their testicles — and they ordained that those animals' testicles be the fruit offered to them.
 
 **1.48.10**  And Indra, from that time onward, O Rāghava, has had the testicles of a ram — by the power of the great-souled Gautama's austerity.
 
@@ -2526,7 +2526,7 @@ translator: thothica
 
 **1.48.17**  Then the two Rāghavas clasped her feet; remembering Gautama's words, she received them.
 
-**1.48.18**  Composed in mind, she performed the rites of water for the feet, the water of honor, and the guest-offering; the descendant of Kakutstha received them according to the prescribed rites.
+**1.48.18**  Composed in mind, she performed the rites of water for the feet, the water of honor, and the guest-offering; the descendant of Kākutstha received them according to the prescribed rites.
 
 **1.48.19**  There was a great shower of flowers accompanied by the sound of divine drums, and there was a great gathering of Gandharvas and Apsarases.
 
@@ -2902,7 +2902,7 @@ translator: thothica
 
 **1.56.8**  "I have undergone very great austerity, yet the gods with all the assemblies of sages know me only as a royal seer. I think the fruit of my austerity is nothing."
 
-**1.56.9**  Having thus resolved in his mind, the great ascetic, of supreme self-mastery, once more performed supreme austerity, O scion of Kakutstha.
+**1.56.9**  Having thus resolved in his mind, the great ascetic, of supreme self-mastery, once more performed supreme austerity, O scion of Kākutstha.
 
 **1.56.10**  At this very time, a truth-speaking, sense-conquering descendant of the Ikṣvāku lineage, known by the name Triśaṅku,
 
@@ -2946,7 +2946,7 @@ translator: thothica
 
 **1.57.10**  Seeing him transformed into the form of a caṇḍāla, all his ministers and the townspeople who were his followers fled together, O Rāma.
 
-**1.57.11**  Alone, that king of supreme self-possession, O scion of Kakutstha, burning day and night in anguish, went to Viśvāmitra, the treasury of austerity.
+**1.57.11**  Alone, that king of supreme self-possession, O scion of Kākutstha, burning day and night in anguish, went to Viśvāmitra, the treasury of austerity.
 
 **1.57.12**  Viśvāmitra, seeing that king reduced to failure, in the form of a caṇḍāla, O Rāma, was moved to compassion.
 
@@ -2996,13 +2996,13 @@ translator: thothica
 
 **1.58.12**  Having heard the message, all the twice-born come — they arrived from every region, all excepting Mahodaya.
 
-**1.58.13**  "Hear, O bull among sages, all that which the entire hundred of the Vāsiṣṭhas said — every word they spoke, their eyes agitated with anger."
+**1.58.13**  "Hear, O bull among sages, all that which the entire hundred of the Vasiṣṭhas said — every word they spoke, their eyes agitated with anger."
 
 **1.58.14**  "The officiating priest of this man is a kṣatriya — and more particularly, he is a caṇḍāla. How then can the divine seers be partakers of the oblations at that assembly?"
 
 **1.58.15**  "Or how shall the great-souled brāhmaṇas, having eaten the food of a caṇḍāla under the superintendence of Viśvāmitra, attain heaven?"
 
-**1.58.16**  These harsh words were spoken, their eyes red with passion, by all the Vāsiṣṭhas together with Mahodaya, O tiger among sages.
+**1.58.16**  These harsh words were spoken, their eyes red with passion, by all the Vasiṣṭhas together with Mahodaya, O tiger among sages.
 
 **1.58.17**  Having heard those words of all of them, the bull among sages, his eyes flushed red with wrath, spoke in great anger.
 
@@ -3018,7 +3018,7 @@ translator: thothica
 
 **1.58.23**  Having spoken this much, Viśvāmitra, the great ascetic, of mighty splendour, that great sage, fell silent in the midst of the seers.
 
-**1.59.1**  Having struck down the Vāsiṣṭhas together with Mahodaya by the force of his austerity, the greatly resplendent Viśvāmitra then addressed the assembly of seers.
+**1.59.1**  Having struck down the Vasiṣṭhas together with Mahodaya by the force of his austerity, the greatly resplendent Viśvāmitra then addressed the assembly of seers.
 
 **1.59.2**  "This descendant of the Ikṣvāku line, celebrated as Triśaṅku, is most righteous and most generous; he has come to me as his refuge, desiring to win the world of the gods in this very body."
 
@@ -3158,7 +3158,7 @@ translator: thothica
 
 **1.61.15**  This speech was uttered shamelessly, censured even by the law of righteousness — cruel and hair-raising, it transgresses my command.
 
-**1.61.16**  All of you shall wander the earth for a full thousand years in your clans as eaters of dog-flesh, like the Vāsiṣṭhas.
+**1.61.16**  All of you shall wander the earth for a full thousand years in your clans as eaters of dog-flesh, like the Vasiṣṭhas.
 
 **1.61.17**  Having thus afflicted his sons with the curse, that best of sages then spoke to the distressed Śunaḥśepa, granting him a wholesome protection.
 
@@ -3556,7 +3556,7 @@ translator: thothica
 
 **1.69.25**  "Born together with that poison itself, he became Sagara; from Sagara came Asamañjas; from Asamañjas then Aṃśumān."
 
-**1.69.26**  "Dilīpa is Aṃśumān's son; from Dilīpa, Bhagīratha; from Bhagīratha, Kakutstha; and from Kakutstha, Raghu likewise."
+**1.69.26**  "Dilīpa is Aṃśumān's son; from Dilīpa, Bhagīratha; from Bhagīratha, Kākutstha; and from Kākutstha, Raghu likewise."
 
 **1.69.27**  "Raghu's son, the fierce and grown mighty man-eater, became Kalmāṣapāda; from him was born Śaṅkhaṇa."
 

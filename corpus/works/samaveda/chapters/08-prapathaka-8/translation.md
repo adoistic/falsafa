@@ -37,4 +37,4 @@ translator: thothica
 
 **8.9**  O lord of the people, O slayer of Vṛtra, let us declare thee in battles. The hero who goes forth among the cattle, the friend who is gracious and undeceitful.
 
-**8.10**  Even so, O serpent — so indeed. Even so, O Agni. Even so, O Indra. Even so, O Pūṣan. Even so, O gods. Om — even so, O gods.
+**8.10**  Even so, O serpent — so indeed. Even so, O Agni. Even so, O Indra. Even so, O Pūṣan. Even so, O gods. Oṃ — even so, O gods.

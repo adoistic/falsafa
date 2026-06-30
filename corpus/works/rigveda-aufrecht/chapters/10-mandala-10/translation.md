@@ -1372,7 +1372,7 @@ translator: thothica
 
 **10.64.14**  For they — the two great mothers Heaven and Earth, the divine goddesses, worshipped by the gods from the beginning — both bear both, with their wealth-bearing ones; they pour manifold seed along with the fathers.
 
-**10.64.15**  That priestly office spreads and wins all desirable things; Bṛhaspati and Aramati, the more wonderful; where the pressing stone is called the great honey-presser, the wise men have rejoiced with their thoughts.
+**10.64.15**  That priestly office spreads and wins all desirable things; Bṛhaspati and Aramatī, the more wonderful; where the pressing stone is called the great honey-presser, the wise men have rejoiced with their thoughts.
 
 **10.64.16**  Thus the seer, mighty in strength, knower of truth, seeking wealth, desiring riches — with his lauds and thoughts here the inspired one nourished the heavenly birth of the homestead.
 
@@ -1490,11 +1490,11 @@ translator: thothica
 
 **10.69.2**  Ghee is the growth of Agni Vādhrya-aśva, ghee is his food, ghee is his nourishment; fed with ghee he spreads out widely — the oblation of clarified butter glows like the sun.
 
-**10.69.3**  That face of yours, O Agni, that Manu kindled, that Sumitra kindled — may this now be newer; shine brilliantly, take delight in the songs, win the prize, and establish glory here.
+**10.69.3**  That face of yours, O Agni, that Manu kindled, that Sumitrā kindled — may this now be newer; shine brilliantly, take delight in the songs, win the prize, and establish glory here.
 
 **10.69.4**  That you whom Vādhrya-aśva, the praised one, first kindled, O Agni — may he now take delight in this; be our protector and body-guard; protect the gift that this here is for you from us.
 
-**10.69.5**  Be glorious and be a herdsman for Vādhrya-aśva; may the ill-will of men not pass beyond you; bold as a hero, moving on, the Sumitra — now I shall proclaim the name of Vādhrya-aśva.
+**10.69.5**  Be glorious and be a herdsman for Vādhrya-aśva; may the ill-will of men not pass beyond you; bold as a hero, moving on, the Sumitrā — now I shall proclaim the name of Vādhrya-aśva.
 
 **10.69.6**  You gathered the level and mountain treasures; you conquered the Dāsa hosts and the Ārya foes; bold as a hero, moving men — do you, O Agni, overwhelm those who make battle against us.
 
@@ -1558,9 +1558,9 @@ translator: thothica
 
 **10.72.2**  Brahmaṇaspati blew these together as a smith blows the bellows: in the earliest age of the gods, Being was born from Non-Being.
 
-**10.72.3**  In the first age of the gods, Being was born from Non-Being. After that the regions were born; and after that, from Uttānapada.
+**10.72.3**  In the first age of the gods, Being was born from Non-Being. After that the regions were born; and after that, from Uttānapāda.
 
-**10.72.4**  Earth was born from Uttānapada; from the earth the quarters were born. From Aditi, Dakṣa was born; and from Dakṣa, Aditi.
+**10.72.4**  Earth was born from Uttānapāda; from the earth the quarters were born. From Aditi, Dakṣa was born; and from Dakṣa, Aditi.
 
 **10.72.5**  For Aditi was born, O Dakṣa — she who is your daughter. After her were born the gods, the blessed ones, who have immortality as their bond.
 
@@ -2018,7 +2018,7 @@ translator: thothica
 
 **10.89.17**  Thus may we, O Indra, know you to be of those who enjoy, of those who are newly benevolent. Praising, may we know you at the turning of each day with your help; we are Viśvāmitras, O Indra, even now.
 
-**10.89.18**  For our welfare may we call upon Maghavān Indra, the most manly in this battle for the prize — the fierce one who hearkens for our aid in conflicts, smiting Vṛtras, conqueror of wealth.
+**10.89.18**  For our welfare may we call upon Maghavan Indra, the most manly in this battle for the prize — the fierce one who hearkens for our aid in conflicts, smiting Vṛtras, conqueror of wealth.
 
 **10.90.1**  The Puruṣa has a thousand heads, a thousand eyes, a thousand feet. He surrounds the earth on all sides and extends beyond by ten fingers.
 
@@ -2466,7 +2466,7 @@ translator: thothica
 
 **10.105.10**  May the dappled one be for your glory an over-pourer; may the spotless ladle be for your glory—with which you pour upward into your own cup.
 
-**10.105.11**  Whether it was a hundred, O lordly one, that Sumitra praised you thus or that Durmitra praised you thus—when you helped in the slaying of Dasyus the son of Kutsa, when you helped in the slaying of Dasyus the calf of Kutsa.
+**10.105.11**  Whether it was a hundred, O lordly one, that Sumitrā praised you thus or that Durmitra praised you thus—when you helped in the slaying of Dasyus the son of Kutsa, when you helped in the slaying of Dasyus the calf of Kutsa.
 
 **10.106.1**  Both of you now seek that very thing; you spread your thoughts like weavers at their work. Going forth together you have started us onward; like refreshment on a fair day you weave us close.
 
@@ -2542,7 +2542,7 @@ translator: thothica
 
 **10.109.4**  The gods of old spoke about this matter, and the seven Ṛṣis who sat down to austerity: the wife brought home of a Brahman is terrible; she brings an evil condition in the highest heaven.
 
-**10.109.5**  The Brahma-student wanders, pouring out poison; he becomes a single limb of the gods. By means of him Bṛhaspati found again his wife who had been led away by Soma—like the gods the ladle.
+**10.109.5**  The Brahmā-student wanders, pouring out poison; he becomes a single limb of the gods. By means of him Bṛhaspati found again his wife who had been led away by Soma—like the gods the ladle.
 
 **10.109.6**  The gods gave her back again; and humans too gave her back. The kings, acting in truth, gave the Brahman's wife back again.
 
@@ -3476,7 +3476,7 @@ translator: thothica
 
 **10.184.1**  Let Viṣṇu prepare the womb; let Tvaṣṭṛ fashion the forms; let Prajāpati pour the seed; and let Dhātṛ, the ordainer, establish the embryo in you.
 
-**10.184.2**  Place the embryo, O Sinīvāli; place the embryo, O Sarasvatī; may the two divine Aśvins, garlanded with lotuses, place the embryo in you.
+**10.184.2**  Place the embryo, O Sinīvālī; place the embryo, O Sarasvatī; may the two divine Aśvins, garlanded with lotuses, place the embryo in you.
 
 **10.184.3**  The golden fire-drill which the two Aśvins churn together — that embryo we invoke for you, to be brought to birth in the tenth month.
 

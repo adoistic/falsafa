@@ -47,7 +47,7 @@ translator: thothica
 
 **5.2.6**  For he, standing by cosmic order in heaven and on earth, props apart the great atmospheric spaces, the two realms. When the radiant day was born from the light, may the luminous, unstained ones shine forth.
 
-**5.2.7**  Thus Atharvā-Bṛhaspati addressed the all-divine Father with homage: "You are the begettor of the universe, you sustain first — the wise poet, self-powerful, not betraying the gods."
+**5.2.7**  Thus Atharva-Bṛhaspati addressed the all-divine Father with homage: "You are the begettor of the universe, you sustain first — the wise poet, self-powerful, not betraying the gods."
 
 **5.2.8**  He who approaches the foremost with his head, with might — the gods worship Bṛhaspati: he split Vala apart, he shatters foes with a crash, bellowing he conquered the cows, the sun, and the waters.
 
@@ -155,7 +155,7 @@ translator: thothica
 
 **5.7.11**  Let the gurgling whirlpools of the waters breathe; send down the waters below. Let the frogs with their speckled arms speak out along the pools.
 
-**5.7.12**  Having lain dormant for a year, like Brahmaṇas who observe their vow, the frogs have spoken forth, quickened into voice by Parjanya.
+**5.7.12**  Having lain dormant for a year, like Brāhmaṇas who observe their vow, the frogs have spoken forth, quickened into voice by Parjanya.
 
 **5.7.13**  Speak up, O little frog; speak the rain aloud, O tāduri-frog. Float in the middle of the pond, spreading out your four limbs.
 

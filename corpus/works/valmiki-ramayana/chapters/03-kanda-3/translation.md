@@ -786,7 +786,7 @@ translator: thothica
 
 **3.13.11**  "Kaśyapa took eight of those slender-waisted women: Aditi and Diti, Danu, and also Kālakā,"
 
-**3.13.12**  "Tāmrā, Krodhavaśā, Manu, and also Analā. Then Kaśyapa, well pleased, spoke again to those maidens:"
+**3.13.12**  "Tāmrā, Krodhavaśa, Manu, and also Analā. Then Kaśyapa, well pleased, spoke again to those maidens:"
 
 **3.13.13**  "'You shall bear sons equal to me, lords of the three worlds.' Aditi agreed with that intent, O Rāma — as did Diti and Danu."
 
@@ -804,7 +804,7 @@ translator: thothica
 
 **3.13.20**  "and cakravāka birds too did that fair lady produce. Śukī gave birth to Natā, and from Natā was born Vinatā."
 
-**3.13.21**  "Krodhavaśā, O Rāma, bore ten daughters of her own: Mṛgī, Mṛgamandā, Harī, and Bhadramadā,"
+**3.13.21**  "Krodhavaśa, O Rāma, bore ten daughters of her own: Mṛgī, Mṛgamandā, Hari, and Bhadramadā,"
 
 **3.13.22**  "Mātaṅgī, Śārdūlī, Śvetā, and Surabhī, and also Surasā endowed with all auspicious marks, and Kadrukā."
 
@@ -812,7 +812,7 @@ translator: thothica
 
 **3.13.24**  "Then Bhadramadā bore a daughter named Irāvatī; and Irāvatī's son is Airāvata, the great elephant who is lord of the worlds."
 
-**3.13.25**  "From Harī come the haras and also the ascetic monkeys. Śārdūlī bore golāṅgūlas and tigers as her sons."
+**3.13.25**  "From Hari come the haras and also the ascetic monkeys. Śārdūlī bore golāṅgūlas and tigers as her sons."
 
 **3.13.26**  "From Mātaṅgī come elephants as her offspring, O bull among men. And Śvetā bore as her son the white-eyed directional elephant."
 
@@ -998,7 +998,7 @@ translator: thothica
 
 **3.16.13**  "There was a king named Daśaratha, of the valor of the gods; I am his eldest son, known among men by the name Rāma."
 
-**3.16.14**  "This is my younger brother named Lakṣmaṇa, devoted to following me; and this is my wife, the Vaidehi, celebrated by the name Sītā."
+**3.16.14**  "This is my younger brother named Lakṣmaṇa, devoted to following me; and this is my wife, the Vaidehī, celebrated by the name Sītā."
 
 **3.16.15**  "By the command of the king my father, and constrained by my mother as well, desiring righteousness and seeking the good of dharma, I have come here to dwell in the forest."
 
@@ -1058,7 +1058,7 @@ translator: thothica
 
 **3.17.18**  The mighty Rāma, enraged, seized her as she charged like the noose of Death, and then spoke to Lakṣmaṇa:
 
-**3.17.19**  "With cruel and ignoble beings, O Saumitri, one must never jest. See how the Vaidehi barely escapes with her life, O gentle one."
+**3.17.19**  "With cruel and ignoble beings, O Saumitri, one must never jest. See how the Vaidehī barely escapes with her life, O gentle one."
 
 **3.17.20**  "This disfigured, wicked, utterly infatuated, great-bellied rākṣasī — you must disfigure her further, O tiger among men."
 
@@ -1912,7 +1912,7 @@ translator: thothica
 
 **3.33.34**  Having churned through the iron nets and broken open the finest jeweled chamber, he then fetched the ambrosia that was guarded in Mahendra's abode.
 
-**3.33.35**  That banyan tree frequented by hosts of great sages, bearing the mark made by Suparṇa, named Subhadra — this the younger brother of Kubera beheld.
+**3.33.35**  That banyan tree frequented by hosts of great sages, bearing the mark made by Suparṇa, named Subhadrā — this the younger brother of Kubera beheld.
 
 **3.33.36**  Having gone to the far shore of the ocean, the lord of rivers, he saw a hermitage set apart in a holy, charming forest-grove.
 
@@ -2408,7 +2408,7 @@ translator: thothica
 
 **3.43.8**  "For what purpose have you come here as the chief one, while I remain here — what could I do for him if he is in peril?"
 
-**3.43.9**  So speaking, the Vaidehi was overwhelmed with tears of grief; Lakṣmaṇa then addressed Sītā who trembled like a doe.
+**3.43.9**  So speaking, the Vaidehī was overwhelmed with tears of grief; Lakṣmaṇa then addressed Sītā who trembled like a doe.
 
 **3.43.10**  "O goddess, among gods, humans, gandharvas, birds, rākṣasas, piśācas, kiṃnaras, and beasts —
 
@@ -2422,11 +2422,11 @@ translator: thothica
 
 **3.43.15**  "That was not clearly his voice, nor could any deity be harmed. It is the illusion of that demon, resembling a phantom city of the gandharvas."
 
-**3.43.16**  "You are a deposit, O Vaidehi, entrusted to me by the great-souled Rāma, O one of lovely limbs; I do not dare to forsake you here."
+**3.43.16**  "You are a deposit, O Vaidehī, entrusted to me by the great-souled Rāma, O one of lovely limbs; I do not dare to forsake you here."
 
 **3.43.17**  "We have made enemies of these night-roaming demons, O auspicious one, O goddess, on account of the slaying of Khara and the destruction of the forces at Janasthāna."
 
-**3.43.18**  "Rākṣasas emit voices by their craft in the great forest, O Vaidehi — those whose sport is violence; you ought not to be troubled by this."
+**3.43.18**  "Rākṣasas emit voices by their craft in the great forest, O Vaidehī — those whose sport is violence; you ought not to be troubled by this."
 
 **3.43.19**  So addressed by Lakṣmaṇa, she grew furious, her eyes reddened, and she spoke harsh words to the truthful Lakṣmaṇa.
 
@@ -2468,9 +2468,9 @@ translator: thothica
 
 **3.44.1**  Spoken to harshly by her, the younger brother of Rāghava, though angered, yearning intensely for Rāma, set out quickly.
 
-**3.44.2**  At that very moment Daśagrīva, having quickly seized upon the opportunity, approached the Vaidehi bearing the form of a wandering ascetic.
+**3.44.2**  At that very moment Daśagrīva, having quickly seized upon the opportunity, approached the Vaidehī bearing the form of a wandering ascetic.
 
-**3.44.3**  Clad in a smooth saffron robe, wearing a topknot, carrying an umbrella and sandals, and hanging upon his left shoulder the staff and water-pot, he approached the Vaidehi in the guise of a wandering ascetic.
+**3.44.3**  Clad in a smooth saffron robe, wearing a topknot, carrying an umbrella and sandals, and hanging upon his left shoulder the staff and water-pot, he approached the Vaidehī in the guise of a wandering ascetic.
 
 **3.44.4**  That one of tremendous strength approached her in the forest, bereft of her two protectors, as a great darkness approaches a twilight bereft of the sun and moon.
 
@@ -2480,15 +2480,15 @@ translator: thothica
 
 **3.44.7**  And the swift-flowing Godāvarī river, seeing him with blood-red eyes gazing about, out of fear began to flow sluggishly.
 
-**3.44.8**  Rāvaṇa, the ten-headed one, seeking to exploit the gap left by Rāma's absence, during that interval approached the Vaidehi in the form of a mendicant.
+**3.44.8**  Rāvaṇa, the ten-headed one, seeking to exploit the gap left by Rāma's absence, during that interval approached the Vaidehī in the form of a mendicant.
 
-**3.44.9**  The inauspicious one in an auspicious form drew near to the Vaidehi who was lamenting for her husband — as Saturn approaches Citrā.
+**3.44.9**  The inauspicious one in an auspicious form drew near to the Vaidehī who was lamenting for her husband — as Saturn approaches Citrā.
 
-**3.44.10**  That evil one, in his auspicious form, covered as a well is covered with grass, stood watching the illustrious Vaidehi, the wife of Rāma.
+**3.44.10**  That evil one, in his auspicious form, covered as a well is covered with grass, stood watching the illustrious Vaidehī, the wife of Rāma.
 
 **3.44.11**  Auspicious, with beautiful teeth and lips, with a face like the full moon, seated in the leaf-hut, oppressed by tears and grief —
 
-**3.44.12**  — her with lotus-petal eyes and garbed in yellow silk, that Vaidehi was approached by the night-roaming demon of evil mind.
+**3.44.12**  — her with lotus-petal eyes and garbed in yellow silk, that Vaidehī was approached by the night-roaming demon of evil mind.
 
 **3.44.13**  Pierced by the arrows of the god of love, uttering sacred Vedic sounds, the lord of rākṣasas spoke courteous words in that secluded place.
 
@@ -2538,7 +2538,7 @@ translator: thothica
 
 **3.44.36**  Then, waiting for her well-attired husband gone hunting, she looked out and saw only that great, green forest — but not Rāma and Lakṣmaṇa.
 
-**3.45.1**  Then the Vaidehi, questioned by Rāvaṇa — who desired to abduct her — in the form of a wandering ascetic, declared herself.
+**3.45.1**  Then the Vaidehī, questioned by Rāvaṇa — who desired to abduct her — in the form of a wandering ascetic, declared herself.
 
 **3.45.2**  Reflecting "This is a brahmin and a guest — if left unaddressed he might curse me," Sītā reflected for a moment and then spoke.
 
@@ -3408,9 +3408,9 @@ translator: thothica
 
 **3.59.1**  Rāma, the son of Daśaratha, had seen the āśrama site empty, the leaf hut deserted, and the seats scattered in disarray.
 
-**3.59.2**  Not seeing the Vaidehi there and having surveyed everything carefully, Rāma cried out and raised his beautiful arms in lamentation, and spoke.
+**3.59.2**  Not seeing the Vaidehī there and having surveyed everything carefully, Rāma cried out and raised his beautiful arms in lamentation, and spoke.
 
-**3.59.3**  "Where has the Vaidehi gone, Lakṣmaṇa? To what place has she departed from here? By whom has she been carried off, O Saumitri, or by whom has my beloved been devoured?"
+**3.59.3**  "Where has the Vaidehī gone, Lakṣmaṇa? To what place has she departed from here? By whom has she been carried off, O Saumitri, or by whom has my beloved been devoured?"
 
 **3.59.4**  "Sītā, if you wish to laugh at me by hiding behind that tree, enough with laughter — come to me now, for I am overwhelmed with grief."
 
@@ -3434,7 +3434,7 @@ translator: thothica
 
 **3.59.14**  "Maithilī, who loves to roam the forest and becomes intoxicated by it, may have entered the forest or gone to a well-flowering lotus grove."
 
-**3.59.15**  "Or she may have reached a river frequented by fish and cranes; or the Vaidehi, wishing to startle us, O bull among men, may be hiding somewhere in the forest, curious to know where you and I are."
+**3.59.15**  "Or she may have reached a river frequented by fish and cranes; or the Vaidehī, wishing to startle us, O bull among men, may be hiding somewhere in the forest, curious to know where you and I are."
 
 **3.59.16**  "Let us swiftly make effort, O glorious one, to search for her — let us two search the entire forest where the daughter of Janaka might be. If you agree, O Kākutstha, do not let your mind dwell in sorrow."
 
@@ -3444,7 +3444,7 @@ translator: thothica
 
 **3.59.19**  Though they searched thoroughly, they did not find her. Having searched the mountain in every direction, Rāma spoke to Lakṣmaṇa.
 
-**3.59.20**  "I do not see the Vaidehi here on this lovely mountain, O Saumitri." Then Lakṣmaṇa, overcome with grief, spoke these words.
+**3.59.20**  "I do not see the Vaidehī here on this lovely mountain, O Saumitri." Then Lakṣmaṇa, overcome with grief, spoke these words.
 
 **3.59.21**  "Wandering through the Daṇḍaka forest, O greatly wise one, you will find Maithilī, the daughter of Janaka — that blazing-spirited brother of yours awaits."
 
@@ -3452,7 +3452,7 @@ translator: thothica
 
 **3.59.23**  — spoke in a piteous voice, his mind crushed by sorrow: "The entire forest has been well searched, the lotus ponds with their blooming lotuses —"
 
-**3.59.24**  "— and this mountain, O greatly wise one, with its many caves and cascades; yet I do not see the Vaidehi who is dearer to me than life."
+**3.59.24**  "— and this mountain, O greatly wise one, with its many caves and cascades; yet I do not see the Vaidehī who is dearer to me than life."
 
 **3.59.25**  Thus lamenting, Rāma, emaciated by the abduction of Sītā, wretched and utterly consumed by grief, became bewildered for a moment.
 
@@ -3470,7 +3470,7 @@ translator: thothica
 
 **3.60.3**  Having searched that river with its many fords, Lakṣmaṇa spoke to Rāma: "I do not see her at the fords; she does not hear me even when I call out."
 
-**3.60.4**  "What place has the Vaidehi, the destroyer of sorrow, reached? I do not know, O Rāma, where that slender-waisted one has gone."
+**3.60.4**  "What place has the Vaidehī, the destroyer of sorrow, reached? I do not know, O Rāma, where that slender-waisted one has gone."
 
 **3.60.5**  Hearing Lakṣmaṇa's words, wretched and bewildered by anguish, Rāma himself proceeded to the river Godāvarī.
 
@@ -3480,13 +3480,13 @@ translator: thothica
 
 **3.60.8**  Then, though the beings urged her, "Tell him about his beloved," yet she, when questioned by Rāma, did not disclose Sītā's whereabouts, being filled with grief.
 
-**3.60.9**  Reflecting on the form and the deeds of that wicked-souled Rāvaṇa, the river, out of fear, did not reveal the Vaidehi's fate.
+**3.60.9**  Reflecting on the form and the deeds of that wicked-souled Rāvaṇa, the river, out of fear, did not reveal the Vaidehī's fate.
 
 **3.60.10**  Made hopeless by that river of ever seeing Sītā, Rāma, emaciated by his longing to see Sītā, spoke to Saumitri.
 
-**3.60.11**  "What words shall I say, O Lakṣmaṇa, when I meet Janaka and the mother of the Vaidehi, without her — what unpleasant news shall I bring?"
+**3.60.11**  "What words shall I say, O Lakṣmaṇa, when I meet Janaka and the mother of the Vaidehī, without her — what unpleasant news shall I bring?"
 
-**3.60.12**  "She who removed all my grief as I lived in the forest on forest fare, deprived of my kingdom — where now has that Vaidehi gone?"
+**3.60.12**  "She who removed all my grief as I lived in the forest on forest fare, deprived of my kingdom — where now has that Vaidehī gone?"
 
 **3.60.13**  "For me, bereft of my kinsmen's side and not seeing the princess, the nights will be long indeed, I think, as I lie awake."
 
@@ -3496,7 +3496,7 @@ translator: thothica
 
 **3.60.16**  Seeing that shower of flowers fallen on the earth, the heroic Rāma, grieving, spoke these grievous words to Lakṣmaṇa.
 
-**3.60.17**  "I recognize these flowers here, Lakṣmaṇa — the ones that had been worn upon the Vaidehi's body, given by me in the forest."
+**3.60.17**  "I recognize these flowers here, Lakṣmaṇa — the ones that had been worn upon the Vaidehī's body, given by me in the forest."
 
 **3.60.18**  Having said this, the mighty-armed one, that bull among men, spoke in fury to the mountain there, like a lion addressing a small deer.
 
@@ -3510,13 +3510,13 @@ translator: thothica
 
 **3.60.23**  Seeing the tracks of Sītā and the rākṣasa, Rāma, his heart seized with agitation, told his dear brother.
 
-**3.60.24**  "Look, Lakṣmaṇa — the scattered gold droplets from the Vaidehi's ornaments, O Saumitri, and various garlands as well."
+**3.60.24**  "Look, Lakṣmaṇa — the scattered gold droplets from the Vaidehī's ornaments, O Saumitri, and various garlands as well."
 
 **3.60.25**  "Look, O Saumitri — the ground everywhere is covered with bright drops of blood like glowing molten metal."
 
-**3.60.26**  "I think, Lakṣmaṇa, that the Vaidehi has been torn limb from limb and dismembered, or devoured, by the shape-shifting rākṣasas."
+**3.60.26**  "I think, Lakṣmaṇa, that the Vaidehī has been torn limb from limb and dismembered, or devoured, by the shape-shifting rākṣasas."
 
-**3.60.27**  "For the sake of the Vaidehi, there must have been a terrible battle here between two rākṣasas who were quarreling, O Saumitri."
+**3.60.27**  "For the sake of the Vaidehī, there must have been a terrible battle here between two rākṣasas who were quarreling, O Saumitri."
 
 **3.60.28**  "Whose great bow is this, inlaid with pearls and gems, adorned with refined gold, lying broken on the ground, O gentle one?"
 
@@ -3534,7 +3534,7 @@ translator: thothica
 
 **3.60.35**  "Sītā the ascetic has been abducted, or killed, or devoured — dharma did not protect Sītā as she was being carried off in this great forest."
 
-**3.60.36**  "With the Vaidehi devoured or even abducted, O Lakṣmaṇa, O gentle one — what lords in this world are capable of doing something dear to me?"
+**3.60.36**  "With the Vaidehī devoured or even abducted, O Lakṣmaṇa, O gentle one — what lords in this world are capable of doing something dear to me?"
 
 **3.60.37**  "All beings, O Lakṣmaṇa, shall disrespect out of ignorance even the creator of worlds, even one who is heroic and compassionate."
 
@@ -3716,7 +3716,7 @@ translator: thothica
 
 **3.64.12**  "In that same auspicious moment in which Rāvaṇa departed carrying Sītā, lost wealth swiftly returns to its owner."
 
-**3.64.13**  "That moment is called Vinda, but he, O scion of Kakutstha, did not understand it; like a fish that seizes the hook, he will quickly perish."
+**3.64.13**  "That moment is called Vinda, but he, O scion of Kākutstha, did not understand it; like a fish that seizes the hook, he will quickly perish."
 
 **3.64.14**  "And you should feel no anguish regarding the daughter of Janaka; you will quickly rejoice with Vaidehī after slaying that demon in battle."
 
@@ -3998,11 +3998,11 @@ translator: thothica
 
 **3.69.18**  — from those have these garlands been born, arising from the beads of sweat, through the austerity of the sages in that time; they perish not, O Rāghava.
 
-**3.69.19**  Even to this day there is seen serving them in that very place an ascetic woman named Śabarī, O descendant of Kakutstha, long-lived.
+**3.69.19**  Even to this day there is seen serving them in that very place an ascetic woman named Śabarī, O descendant of Kākutstha, long-lived.
 
 **3.69.20**  Steadfast ever in righteousness, revered by all beings, she, upon seeing you, O Rāma, who are like a god, shall depart for the heavenly world.
 
-**3.69.21**  Then, O Rāma, taking shelter on the western bank of Pampā, you shall see that hermitage, incomparable and secret, O descendant of Kakutstha.
+**3.69.21**  Then, O Rāma, taking shelter on the western bank of Pampā, you shall see that hermitage, incomparable and secret, O descendant of Kākutstha.
 
 **3.69.22**  Not even elephants are able to enter that hermitage, by the ordinance of that sage Mataṅga, nor can they enter that forest grove.
 
@@ -4020,7 +4020,7 @@ translator: thothica
 
 **3.69.29**  Having drunk the pure, cool, and inexhaustible water there, those forest-dwelling ones turn back and plunge into the forests.
 
-**3.69.30**  O Rāma, there shines on that mountain a great cave, sealed by a boulder, O descendant of Kakutstha, and entry into it is difficult.
+**3.69.30**  O Rāma, there shines on that mountain a great cave, sealed by a boulder, O descendant of Kākutstha, and entry into it is difficult.
 
 **3.69.31**  Before the eastern entrance of that cave lies a great pool of cool water, delightful, rich in roots and fruits, surrounded by diverse trees.
 

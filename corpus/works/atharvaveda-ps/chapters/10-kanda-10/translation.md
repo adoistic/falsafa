@@ -209,7 +209,7 @@ translator: thothica
 
 **10.9.10**  Those two wide-nostriled, life-drinking, Udumbara-hued messengers of Yama roam among the people — may those two grant back to us, for sight of the Sun, our vital breath here today, [bestowing] the auspicious.
 
-**10.10.1**  We have reached the gods, we have reached the heavenly realm — we have reached the light, we have reached the light. You are Mahendra, Parameṣṭhin, Sumitra, Viśvatomukha; may we never be sundered from your sight.
+**10.10.1**  We have reached the gods, we have reached the heavenly realm — we have reached the light, we have reached the light. You are Mahendra, Parameṣṭhin, Sumitrā, Viśvatomukha; may we never be sundered from your sight.
 
 **10.10.2**  O you of wondrous greatness, rising today, smite down my rivals. Smite them by day with your rays; let Night slay them with darkness — may they go to the lowest darkness.
 

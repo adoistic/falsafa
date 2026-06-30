@@ -405,9 +405,9 @@ translator: thothica
 
 **15.20.10**  With the sacred word we destroy here whatever afflicts the limbs; the splinters of disease, and also the festering sores — these we lead away from here.
 
-**15.21.1**  I lead you both, O Paśupatī [and his consort], strengthening [you] with ghee and clarified butter. Him whom we hate and who hates us — his dwelling shall you two destroy.
+**15.21.1**  I lead you both, O Paśupati [and his consort], strengthening [you] with ghee and clarified butter. Him whom we hate and who hates us — his dwelling shall you two destroy.
 
-**15.21.2**  Speak forth, O Paśupatī [pair], on behalf of my biped and quadruped. Where the two who gave birth [have] struck, from there let my mother not be harmed.
+**15.21.2**  Speak forth, O Paśupati [pair], on behalf of my biped and quadruped. Where the two who gave birth [have] struck, from there let my mother not be harmed.
 
 **15.21.3**  The auspicious body that belongs to you two, O Rudra [pair]; the disease-inflicting forms that you two possess; the life-giving bodies that you two have — with those be merciful to us, you two.
 

@@ -19,29 +19,29 @@ translator: thothica
 ---
 
 
-**6.1.1**  Having heard Hanumān's words spoken exactly as they were, Rāma, filled with joy, replied with the following words.
+**6.1.1**  Having heard Hanūmān's words spoken exactly as they were, Rāma, filled with joy, replied with the following words.
 
-**6.1.2**  Hanumān has accomplished an exceedingly great and difficult deed on earth — one that no other being on this earth could even conceive of in mind.
+**6.1.2**  Hanūmān has accomplished an exceedingly great and difficult deed on earth — one that no other being on this earth could even conceive of in mind.
 
-**6.1.3**  I see no one who could cross the great ocean, save Garuḍa, or the Wind, or Hanumān.
+**6.1.3**  I see no one who could cross the great ocean, save Garuḍa, or the Wind, or Hanūmān.
 
 **6.1.4**  The city of Laṅkā, which is impregnable to gods, dānavas, yakṣas, gandharvas, nāgas, and rākṣasas, and which is well-guarded by Rāvaṇa —
 
-**6.1.5**  — who, having entered it by courage, could emerge alive? Who could enter that city so very hard to assault, guarded by rākṣasas, if he were not equal to Hanumān in valor and might?
+**6.1.5**  — who, having entered it by courage, could emerge alive? Who could enter that city so very hard to assault, guarded by rākṣasas, if he were not equal to Hanūmān in valor and might?
 
-**6.1.6**  Hanumān has performed a great service for his master Sugrīva, deploying his own strength in a manner befitting his valor.
+**6.1.6**  Hanūmān has performed a great service for his master Sugrīva, deploying his own strength in a manner befitting his valor.
 
 **6.1.7**  A servant who, when assigned by his master to a difficult task, accomplishes it with devotion — such a one is called a foremost among men.
 
 **6.1.8**  A servant who, though capable, qualified, and charged with the king's task, yet does not perform it — such a one is called the lowest of men.
 
-**6.1.9**  Hanumān, appointed to that charge, has fulfilled his duty; he has not made himself small, and Sugrīva too is gratified.
+**6.1.9**  Hanūmān, appointed to that charge, has fulfilled his duty; he has not made himself small, and Sugrīva too is gratified.
 
 **6.1.10**  I, scion of the Raghu lineage, and the mighty Lakṣmaṇa have today been saved — rightfully so — by the sight of Vaidehī.
 
 **6.1.11**  Yet this thought afflicts my wretched heart anew: that here I can render no fitting gift to him who has brought such glad tidings.
 
-**6.1.12**  This embrace of Hanumān is my all — given by me to that great soul, availing myself of this moment as the only gift I have.
+**6.1.12**  This embrace of Hanūmān is my all — given by me to that great soul, availing myself of this moment as the only gift I have.
 
 **6.1.13**  The search for Sītā has been accomplished — that much is well done. Yet now that we have come to the ocean, my heart is lost once more.
 
@@ -49,7 +49,7 @@ translator: thothica
 
 **6.1.15**  Even though Vaidehī's news has been reported to me, what still remains unsolved is the matter of the monkeys crossing the ocean.
 
-**6.1.16**  Having spoken thus, Rāma the destroyer of foes, agitated by grief, the long-armed hero, fell into deep contemplation, Hanumān beside him.
+**6.1.16**  Having spoken thus, Rāma the destroyer of foes, agitated by grief, the long-armed hero, fell into deep contemplation, Hanūmān beside him.
 
 **6.2.1**  Then glorious Sugrīva spoke words that dispel grief to Rāma, son of Daśaratha, who was scorched by sorrow.
 
@@ -93,7 +93,7 @@ translator: thothica
 
 **6.2.21**  What more need be said at length? You shall be victorious in every way.
 
-**6.3.1**  Having heard Sugrīva's well-reasoned speech, Kākutstha, knower of the highest truth, accepted it and then spoke to Hanumān.
+**6.3.1**  Having heard Sugrīva's well-reasoned speech, Kākutstha, knower of the highest truth, accepted it and then spoke to Hanūmān.
 
 **6.3.2**  Whether by the swift building of a bridge or by drying up the ocean, I am fully capable in every way of crossing this sea.
 
@@ -103,7 +103,7 @@ translator: thothica
 
 **6.3.5**  — all that you saw freely and exactly in Laṅkā, recount to me truly. For you are in every way an expert.
 
-**6.3.6**  Having heard Rāma's words, Hanumān, son of the Wind, foremost among those skilled in speech, again spoke to Rāma.
+**6.3.6**  Having heard Rāma's words, Hanūmān, son of the Wind, foremost among those skilled in speech, again spoke to Rāma.
 
 **6.3.7**  "Let me be heard; I shall relate everything, regarding the arrangement of the fortifications, how the city of Laṅkā is protected and how it is guarded by armed forces."
 
@@ -241,7 +241,7 @@ translator: thothica
 
 **6.4.42**  "All the quarters are serene; the sun shines clear and unclouded; and Venus — of brilliant, cloudless flame — follows behind you."
 
-**6.4.43**  "The cluster of Brahma shines pure; the great seers shine pure and radiant; all of them blaze forth steadily in the auspicious rightward direction."
+**6.4.43**  "The cluster of Brahmā shines pure; the great seers shine pure and radiant; all of them blaze forth steadily in the auspicious rightward direction."
 
 **6.4.44**  "Triśaṅku the royal sage, together with his priest, shines without blemish — that most excellent ancestral star of our great-souled Ikṣvākus."
 
@@ -687,7 +687,7 @@ translator: thothica
 
 **6.12.3**  One who has come in the spirit of friendship I would not abandon under any circumstances — even if fault there be in him, this is not censured among the good.
 
-**6.12.4**  Hearing Rāma's words, Sugrīva — lord of the leaping monkeys — spoke back to the scion of Kakutstha, impelled by warm affection.
+**6.12.4**  Hearing Rāma's words, Sugrīva — lord of the leaping monkeys — spoke back to the scion of Kākutstha, impelled by warm affection.
 
 **6.12.5**  What is remarkable in this, O knower of dharma, O crest-jewel of the lords of the world, that you, possessed of true being and standing on the noble path, should speak what is noble?
 
@@ -821,7 +821,7 @@ translator: thothica
 
 **6.15.4**  "O Rāghava, earth, wind, sky, water, and fire abide, O gentle one, in their own nature, following the eternal path."
 
-**6.15.5**  "This is my own nature too — that I am unfathomable and unfordable. But there could be a transformation, O Rādha — this I declare to you."
+**6.15.5**  "This is my own nature too — that I am unfathomable and unfordable. But there could be a transformation, O Rādhā — this I declare to you."
 
 **6.15.6**  "Neither out of desire, nor out of greed, nor out of fear, O son of a king, can I in any way restrain my waters, which are troubled by crocodiles."
 
@@ -1007,7 +1007,7 @@ translator: thothica
 
 **6.17.35**  "He who stands on the shore of the ocean like a second sea, adorning and setting in motion that formidable army —"
 
-**6.17.36**  "— he who resembles a split mountain and roams drinking from the Parṇāśā, the finest of rivers: this is the troop-chieftain named Vinata."
+**6.17.36**  "— he who resembles a split mountain and roams drinking from the Parṇāśā, the finest of rivers: this is the troop-chieftain named Vinatā."
 
 **6.17.37**  "His army numbers sixty hundred-thousands of leaping warriors. The troop-chieftain named Krathana challenges you to battle."
 
@@ -1119,7 +1119,7 @@ translator: thothica
 
 **6.19.9**  And that vānara whom you see standing there, like a great elephant in must — in his fury he could churn even the ocean by his strength.
 
-**6.19.10**  This one came to Laṅkā before, O lord, on behalf of the Vaidehi and of you yourself — behold, this vānara has returned, the one you saw before.
+**6.19.10**  This one came to Laṅkā before, O lord, on behalf of the Vaidehī and of you yourself — behold, this vānara has returned, the one you saw before.
 
 **6.19.11**  He is the eldest son of Kesarin, known as the son of the Wind-god, celebrated by the name Hanūmān — the one by whom the ocean was leaped across.
 
@@ -1297,13 +1297,13 @@ translator: thothica
 
 **6.22.5**  That unconquerable one, having deliberated and resolved upon what was appropriate, dismissed his ministers and entered his own palace.
 
-**6.22.6**  Then that great master of illusion, summoning the mighty Rākṣasa Vidyujjihva, who was skilled in māyā, entered where Maithilī dwelt.
+**6.22.6**  Then that great master of illusion, summoning the mighty Rākṣasa Vidyujjihvā, who was skilled in māyā, entered where Maithilī dwelt.
 
-**6.22.7**  The lord of Rākṣasas spoke to Vidyujjihva, who was versed in illusion: "We shall bewilder Sītā, the daughter of Janaka, through māyā."
+**6.22.7**  The lord of Rākṣasas spoke to Vidyujjihvā, who was versed in illusion: "We shall bewilder Sītā, the daughter of Janaka, through māyā."
 
 **6.22.8**  "Taking a head fashioned of illusion belonging to Rāghava, O night-wanderer, present yourself before me, along with a great bow fitted with an arrow."
 
-**6.22.9**  So addressed, the night-wanderer Vidyujjihva said "So be it." The king was pleased with him and bestowed upon him an ornament.
+**6.22.9**  So addressed, the night-wanderer Vidyujjihvā said "So be it." The king was pleased with him and bestowed upon him an ornament.
 
 **6.22.10**  That mighty one — the younger brother of Kubera — entered the Aśoka grove and there beheld her who was afflicted though undeserving of affliction, head bowed, overwhelmed by grief, seated on the ground.
 
@@ -1357,11 +1357,11 @@ translator: thothica
 
 **6.22.35**  Then Rāvaṇa, most unconquerable lord of the Rākṣasas, while Sītā was listening, spoke thus to a Rākṣasī.
 
-**6.22.36**  "Bring to me the Rākṣasa Vidyujjihva, cruel in his deeds, the one by whom that head of Rāghava was personally brought from the battlefield."
+**6.22.36**  "Bring to me the Rākṣasa Vidyujjihvā, cruel in his deeds, the one by whom that head of Rāghava was personally brought from the battlefield."
 
-**6.22.37**  Vidyujjihva then, taking that head along with the bow and arrows, bowed his own head in salutation and stood before Rāvaṇa.
+**6.22.37**  Vidyujjihvā then, taking that head along with the bow and arrows, bowed his own head in salutation and stood before Rāvaṇa.
 
-**6.22.38**  Then the king Rāvaṇa spoke to the Rākṣasa who stood near him — Vidyujjihva of the great tongue, who hovered at his side.
+**6.22.38**  Then the king Rāvaṇa spoke to the Rākṣasa who stood near him — Vidyujjihvā of the great tongue, who hovered at his side.
 
 **6.22.39**  "Place quickly before Sītā the head of the son of Daśaratha — let the wretched woman behold well her husband's final state."
 
@@ -1371,7 +1371,7 @@ translator: thothica
 
 **6.22.42**  "This is that bow of your Rāma, along with its bowstring — brought here by Prahasta after slaying that mortal in the night."
 
-**6.22.43**  And Rāvaṇa, having together with Vidyujjihva strewn that head and bow upon the ground, then spoke to that illustrious daughter of the king of Videha: "Come under my sway."
+**6.22.43**  And Rāvaṇa, having together with Vidyujjihvā strewn that head and bow upon the ground, then spoke to that illustrious daughter of the king of Videha: "Come under my sway."
 
 **6.23.1**  Sītā, seeing that head and that excellent bow — and the meeting with Sugrīva that had been reported by Hanūmān —
 
@@ -1571,7 +1571,7 @@ translator: thothica
 
 **6.25.21**  "'Let Maithilī be honourably given back to the lord of men; the marvel that occurred at Janasthāna is proof enough for you —'
 
-**6.25.22**  "'— the crossing of the ocean, the appearance of Hanumān, the slaying of the rākṣasas in battle: what mere mortal man on earth could do these things?'
+**6.25.22**  "'— the crossing of the ocean, the appearance of Hanūmān, the slaying of the rākṣasas in battle: what mere mortal man on earth could do these things?'
 
 **6.25.23**  "Though he was spoken to at length thus by the elder ministers and by his mother, he does not have the will to release you — like a miser who clings to wealth."
 
@@ -2247,7 +2247,7 @@ translator: thothica
 
 **6.35.2**  The two sons of Suṣeṇa, Nīla the foremost among monkeys, Aṅgada the son of Vālin, and swift Śarabha —
 
-**6.35.3**  — Vinata, Jāmbavān, the mighty Sānuprastha, Ṛṣabha, and Ṛṣabhaskandha — these the scorcher of foes commanded.
+**6.35.3**  — Vinatā, Jāmbavān, the mighty Sānuprastha, Ṛṣabha, and Ṛṣabhaskandha — these the scorcher of foes commanded.
 
 **6.35.4**  Those monkeys, greatly excited, lifting terrible trees, all leapt into the sky and searched the ten directions.
 
@@ -2299,7 +2299,7 @@ translator: thothica
 
 **6.36.2**  When the rākṣasa had completed his deed and ceased — as a cloud ceases after raining — Sugrīva arrived at that place together with Vibhīṣaṇa.
 
-**6.36.3**  Nīla, Dvivida, Mainda, Suṣeṇa, Sumukha, and Aṅgada quickly lamented for the two Rāghava princes together with Hanumān.
+**6.36.3**  Nīla, Dvivida, Mainda, Suṣeṇa, Sumukha, and Aṅgada quickly lamented for the two Rāghava princes together with Hanūmān.
 
 **6.36.4**  Motionless, breathing faintly, drenched in floods of blood, covered with a mesh of arrows, rigid — they lay on their arrow-beds.
 
@@ -2807,7 +2807,7 @@ translator: thothica
 
 **6.42.24**  But Dhūmrākṣa, bow in hand, laughing, scattered the monkeys in all directions at the forefront of battle with showers of arrows.
 
-**6.42.25**  Seeing the army tormented and afflicted by Dhūmrākṣa, Mārutiḥ [Hanūmān] came forward in great fury, grasping an enormous boulder.
+**6.42.25**  Seeing the army tormented and afflicted by Dhūmrākṣa, Māruti [Hanūmān] came forward in great fury, grasping an enormous boulder.
 
 **6.42.26**  His eyes doubly reddened with rage, his valor equal to his father's, he hurled that boulder against the chariot of Dhūmrākṣa.
 
@@ -2901,17 +2901,17 @@ translator: thothica
 
 **6.44.7**  The monkeys were unable to stand their ground, much less fight in battle; shattered by Akampana's arrows, they all fled in panic.
 
-**6.44.8**  Seeing those kinsmen fallen under the sway of death, come under Akampana's power, the mighty Hanumān stood forth to protect them.
+**6.44.8**  Seeing those kinsmen fallen under the sway of death, come under Akampana's power, the mighty Hanūmān stood forth to protect them.
 
-**6.44.9**  Seeing that great monkey, all the heroic monkey chiefs assembled in battle and surrounded Hanumān together.
+**6.44.9**  Seeing that great monkey, all the heroic monkey chiefs assembled in battle and surrounded Hanūmān together.
 
-**6.44.10**  Those monkey leaders, seeing Hanumān stationed there, became strong themselves — for the strong take refuge with the strong.
+**6.44.10**  Those monkey leaders, seeing Hanūmān stationed there, became strong themselves — for the strong take refuge with the strong.
 
-**6.44.11**  But Akampana poured arrows down upon Hanumān standing there like a mountain, just as Mahendra pours rain with streams of water.
+**6.44.11**  But Akampana poured arrows down upon Hanūmān standing there like a mountain, just as Mahendra pours rain with streams of water.
 
 **6.44.12**  Giving no thought to the sharp arrows that had fallen upon his body in floods, the mighty one fixed his mind on killing Akampana.
 
-**6.44.13**  Then, laughing aloud, the mighty Hanumān, son of the Wind, charged at that Rākṣasa, shaking the very earth as he ran.
+**6.44.13**  Then, laughing aloud, the mighty Hanūmān, son of the Wind, charged at that Rākṣasa, shaking the very earth as he ran.
 
 **6.44.14**  Of him who charged with a roar, blazing with splendor, there appeared a form irresistible, like that of blazing fire.
 
@@ -2923,23 +2923,23 @@ translator: thothica
 
 **6.44.18**  But Akampana, seeing that mountain peak raised aloft, split it from a distance with great crescent-headed arrows.
 
-**6.44.19**  Seeing that mountain peak split by the Rākṣasa's arrows and falling scattered through the sky, Hanumān was overcome with rage.
+**6.44.19**  Seeing that mountain peak split by the Rākṣasa's arrows and falling scattered through the sky, Hanūmān was overcome with rage.
 
 **6.44.20**  That monkey, filled with fury and pride, quickly went to an Aśvakarṇa tree and uprooted it as if it were a great risen mountain.
 
 **6.44.21**  Taking that Aśvakarṇa tree of great trunk, that one of great splendor, laughing with extreme delight, whirled it in battle.
 
-**6.44.22**  Running with great speed, swiftly shattering trees, Hanumān, supremely enraged, split the earth with his feet.
+**6.44.22**  Running with great speed, swiftly shattering trees, Hanūmān, supremely enraged, split the earth with his feet.
 
-**6.44.23**  The wise Hanumān slew elephants with their riders, charioteers with their chariots, and Rākṣasa foot soldiers as well.
+**6.44.23**  The wise Hanūmān slew elephants with their riders, charioteers with their chariots, and Rākṣasa foot soldiers as well.
 
-**6.44.24**  Seeing Hanumān in battle, angry as Death itself, a taker of life, the Rākṣasas fled in all directions.
+**6.44.24**  Seeing Hanūmān in battle, angry as Death itself, a taker of life, the Rākṣasas fled in all directions.
 
 **6.44.25**  The heroic Akampana saw him charging, supremely wrathful, the terror of Rākṣasas; he grew furious and bellowed.
 
-**6.44.26**  Akampana pierced the mighty Hanumān with fourteen sharp arrows that rent the body.
+**6.44.26**  Akampana pierced the mighty Hanūmān with fourteen sharp arrows that rent the body.
 
-**6.44.27**  Though thus pierced by those many showers of arrows, the heroic Hanumān appeared like a mountain in full bloom.
+**6.44.27**  Though thus pierced by those many showers of arrows, the heroic Hanūmān appeared like a mountain in full bloom.
 
 **6.44.28**  Then, uprooting another tree, and exerting his utmost speed, he quickly struck Akampana, lord of Rākṣasas, on the head.
 
@@ -2953,9 +2953,9 @@ translator: thothica
 
 **6.44.33**  They stumbled against one another and entered the city out of fear, completely bewildered, glancing back again and again.
 
-**6.44.34**  When those Rākṣasas had entered Laṅkā, all the mighty monkeys assembled and honored Hanumān.
+**6.44.34**  When those Rākṣasas had entered Laṅkā, all the mighty monkeys assembled and honored Hanūmān.
 
-**6.44.35**  And Hanumān, endowed with excellence, joyful in return, honored all those monkeys fittingly and graciously.
+**6.44.35**  And Hanūmān, endowed with excellence, joyful in return, honored all those monkeys fittingly and graciously.
 
 **6.44.36**  The monkeys roared with the breath of victory and dragged back there the Rākṣasas who were still alive.
 
@@ -2969,7 +2969,7 @@ translator: thothica
 
 **6.45.3**  He saw the city of Laṅkā, protected by hosts of Rākṣasas, surrounded by many garrisons, garlanded with banners and flags.
 
-**6.45.4**  Seeing the city besieged, Rāvaṇa, lord of Rākṣasas, in his anger spoke at the right moment to Prahastha, skilled in warfare:
+**6.45.4**  Seeing the city besieged, Rāvaṇa, lord of Rākṣasas, in his anger spoke at the right moment to Prahasta, skilled in warfare:
 
 **6.45.5**  "For a city suddenly besieged and oppressed, I see no other deliverance than battle, O master of warfare.
 
@@ -2981,11 +2981,11 @@ translator: thothica
 
 **6.45.9**  "For monkeys are fickle, undisciplined, and unstable of mind; they will not endure your roar, just as elephants cannot endure a lion's roar."
 
-**6.45.10**  "And when that army is scattered in flight, Rāma together with the son of Sumitrā will remain helpless without support, and will come under Prahastha's power."
+**6.45.10**  "And when that army is scattered in flight, Rāma together with the son of Sumitrā will remain helpless without support, and will come under Prahasta's power."
 
 **6.45.11**  "In calamity, the better course is the one fraught with doubt, not the certain one — or weigh what you consider favorable, for or against."
 
-**6.45.12**  Thus addressed by Rāvaṇa, Prahastha, commander of the army, spoke these words to the lord of Rākṣasas, as Uśanā speaks to the lord of Asuras:
+**6.45.12**  Thus addressed by Rāvaṇa, Prahasta, commander of the army, spoke these words to the lord of Rākṣasas, as Uśanā speaks to the lord of Asuras:
 
 **6.45.13**  "O king, we took counsel before with skilled ministers, and debate too arose among us as we examined the matter from every side.
 
@@ -2999,7 +2999,7 @@ translator: thothica
 
 **6.45.18**  "Today let the birds feast on the flesh of those forest dwellers slain in battle by the thunderbolt speed of my arrows."
 
-**6.45.19**  Thus addressed by Prahastha, the army commanders, making haste, mobilized the army in that Rākṣasa palace.
+**6.45.19**  Thus addressed by Prahasta, the army commanders, making haste, mobilized the army in that Rākṣasa palace.
 
 **6.45.20**  Within a moment Laṅkā was crowded with those heroic Rākṣasas bearing sharp and various weapons, thronging like elephants.
 
@@ -3007,23 +3007,23 @@ translator: thothica
 
 **6.45.22**  The Rākṣasas, ready for battle and joyful, took garlands of various kinds consecrated with sacred formulas and wore them then.
 
-**6.45.23**  The Rākṣasas, bearing bows and clad in armor, leaped up with speed, and gazing upon King Rāvaṇa, surrounded Prahastha.
+**6.45.23**  The Rākṣasas, bearing bows and clad in armor, leaped up with speed, and gazing upon King Rāvaṇa, surrounded Prahasta.
 
-**6.45.24**  Then, having taken leave of the king and beating the dreadful war drum, Prahastha mounted his divine chariot, fully equipped and made ready.
+**6.45.24**  Then, having taken leave of the king and beating the dreadful war drum, Prahasta mounted his divine chariot, fully equipped and made ready.
 
 **6.45.25**  Yoked with horses of great speed, properly fitted with a skilled charioteer, its sound like a great cloud's thunder, blazing like the sun and moon themselves —
 
 **6.45.26**  — Irresistible with its serpent-banner, well-fitted with a hood, bearing good arms, covered with a net of gold, and as if laughing with splendor —
 
-**6.45.27**  Then Prahastha, executing the command entrusted by Rāvaṇa, mounted that chariot and quickly marched out of Laṅkā, surrounded by a great army.
+**6.45.27**  Then Prahasta, executing the command entrusted by Rāvaṇa, mounted that chariot and quickly marched out of Laṅkā, surrounded by a great army.
 
 **6.45.28**  Then as the army commander marched forth, the sound of kettledrums like the rumble of rain clouds was heard, and the sound of conches as well.
 
-**6.45.29**  Rākṣasas of fearsome form and massive frame, roaring with terrible cries, marched at the fore as Prahastha's vanguard.
+**6.45.29**  Rākṣasas of fearsome form and massive frame, roaring with terrible cries, marched at the fore as Prahasta's vanguard.
 
 **6.45.30**  He marched out by the eastern gate in battle-array, exceedingly terrible, surrounded by a great army resembling a herd of elephants.
 
-**6.45.31**  Surrounded by that army resembling the ocean's flood, Prahastha marched out swiftly, wrathful, his anger like that of Death at the end of an age.
+**6.45.31**  Surrounded by that army resembling the ocean's flood, Prahasta marched out swiftly, wrathful, his anger like that of Death at the end of an age.
 
 **6.45.32**  At the sound of his march and the roaring of the Rākṣasas, all creatures in Laṅkā cried out with distorted voices.
 
@@ -3039,13 +3039,13 @@ translator: thothica
 
 **6.45.38**  The radiant glory of victory that had attended his march — dazzling and exceedingly rare — vanished in a moment, and on level ground his horses stumbled.
 
-**6.45.39**  But against Prahastha who marched forth, renowned for his strength and valor, the monkey army bearing various weapons advanced for battle.
+**6.45.39**  But against Prahasta who marched forth, renowned for his strength and valor, the monkey army bearing various weapons advanced for battle.
 
 **6.45.40**  Then a tremendous din arose from the monkeys as they tore up trees and seized heavy boulders.
 
 **6.45.41**  Both armies were eager — the hosts of Rākṣasas and the forest dwellers — swift, capable, each hungering to slay the other; a great din was heard as they challenged one another.
 
-**6.45.42**  Then Prahastha, of evil mind, charged at the monkey king's army for victory, and entered that swelling force with its growing momentum — as a moth seeking death enters fire.
+**6.45.42**  Then Prahasta, of evil mind, charged at the monkey king's army for victory, and entered that swelling force with its growing momentum — as a moth seeking death enters fire.
 
 **6.46.1**  Then the great monkey army beheld Prahasta marching forth — terrible, of terrible valour, roaring, of immense body, surrounded by rākṣasas.
 
@@ -3153,7 +3153,7 @@ translator: thothica
 
 **6.47.2**  Going to the lord of rākṣasas, they reported that the general had been struck down by the son of Pāvaka; and upon hearing those words of theirs, the lord of rākṣasas fell under the sway of rage.
 
-**6.47.3**  Having learned that Prahastha had been slain in battle, tormented by grief and with his mind consumed by anger, he addressed those foremost warriors of the rākṣasas even as Indra addresses the foremost warriors of the immortals.
+**6.47.3**  Having learned that Prahasta had been slain in battle, tormented by grief and with his mind consumed by anger, he addressed those foremost warriors of the rākṣasas even as Indra addresses the foremost warriors of the immortals.
 
 **6.47.4**  "No contempt is to be shown toward the enemy, by whom my general — the destroyer of Indra's host — has been slain along with his retinue and his elephants.
 
@@ -3607,7 +3607,7 @@ translator: thothica
 
 **6.49.7**  "Tell me — who is this great being, rākṣasa or asura? Never before have I seen a creature of this kind."
 
-**6.49.8**  Thus questioned by the royal prince Rāma, the tireless doer, the supremely wise Vibhīṣaṇa spoke to the descendant of Kakutstha.
+**6.49.8**  Thus questioned by the royal prince Rāma, the tireless doer, the supremely wise Vibhīṣaṇa spoke to the descendant of Kākutstha.
 
 **6.49.9**  "He by whom Vaivasvata Yama and Vāsava Indra were defeated in battle — he is that son of Viśravas, the mighty Kumbhakarṇa."
 
@@ -3663,7 +3663,7 @@ translator: thothica
 
 **6.49.35**  Instructed by Rāghava, Nīla, commander of the monkey host, that elephant among monkeys, duly marshalled the vānara army.
 
-**6.49.36**  Then Gavākṣa, Śarabha, Hanumān, Aṅgada, and Nala — mountain-like in form — grasping mountain peaks, advanced upon the gate.
+**6.49.36**  Then Gavākṣa, Śarabha, Hanūmān, Aṅgada, and Nala — mountain-like in form — grasping mountain peaks, advanced upon the gate.
 
 **6.49.37**  Then that fierce array of monkeys, trees and upraised peaks in their hands, drawn up near the mountain, shone resplendent — like a vast, threatening mass of storm-clouds.
 
@@ -4045,13 +4045,13 @@ translator: thothica
 
 **6.55.9**  Kumbhakarṇa of great strength shattered those mountain peaks with his spear and broke apart the shower of trees.
 
-**6.55.10**  Then that fierce army of monkeys fled; but Hanumān stood before him as he charged, grasping a mountain peak.
+**6.55.10**  Then that fierce army of monkeys fled; but Hanūmān stood before him as he charged, grasping a mountain peak.
 
 **6.55.11**  Enraged, he struck Kumbhakarṇa of terrible frame swiftly with the finest of mountains; Kumbhakarṇa was shaken thereby and overcome, his body dripping with fat and drenched in blood.
 
 **6.55.12**  He whirled his spear, blazing like lightning, and struck the son of the Wind between his arms, as Guha once struck the Krauñca mountain with his fierce lance.
 
-**6.55.13**  Hanumān, his great chest pierced by the spear, staggered and vomiting blood from his mouth, let out a terrible roar in the great battle, like the sound of thunder at the end of an age.
+**6.55.13**  Hanūmān, his great chest pierced by the spear, staggered and vomiting blood from his mouth, let out a terrible roar in the great battle, like the sound of thunder at the end of an age.
 
 **6.55.14**  Thereupon the hosts of rākṣasas suddenly roared with delight seeing him afflicted; the monkeys, distressed and overwhelmed with fear, fled from Kumbhakarṇa in the battle.
 
@@ -5025,7 +5025,7 @@ translator: thothica
 
 **6.61.52**  Approaching that lord of great mountains with its very lofty, foremost, and terrible peaks, he saw the holy great hermitages frequented by the foremost hosts of gods and seers.
 
-**6.61.53**  He saw Brahma's treasury, the Silver Abode, Indra's dwelling, the spot where Rudra released his arrow, the horse-faced Hayaśīrṣa, the blazing Brahmaśiras, and the attendants of Vaivasvata Yama.
+**6.61.53**  He saw Brahmā's treasury, the Silver Abode, Indra's dwelling, the spot where Rudra released his arrow, the horse-faced Hayaśīrṣa, the blazing Brahmaśiras, and the attendants of Vaivasvata Yama.
 
 **6.61.54**  He saw the abode of Vajra, the dwelling of Vaiśravaṇa bright as the sun, the tethering place of the sun, the seat of Brahmā, the bow of Śaṃkara, and the navel of the earth.
 
@@ -5637,15 +5637,15 @@ translator: thothica
 
 **6.70.1**  Rāghava too, upon hearing that vast tumult of battle from the forest-dwelling rākṣasas, then spoke to Jāmbavān.
 
-**6.70.2**  "Surely, gentle one, Hanumān has performed a deed most difficult to accomplish, for that fearful, immense clash of weapons is heard even here.
+**6.70.2**  "Surely, gentle one, Hanūmān has performed a deed most difficult to accomplish, for that fearful, immense clash of weapons is heard even here.
 
 **6.70.3**  Therefore go, lord of bears, surrounded by your own army, and render swift aid to that foremost of monkeys while he fights."
 
-**6.70.4**  The king of bears, saying "so be it," surrounded by his own forces, went to the western gate where the monkey Hanumān was.
+**6.70.4**  The king of bears, saying "so be it," surrounded by his own forces, went to the western gate where the monkey Hanūmān was.
 
-**6.70.5**  Then the lord of bears saw, on the road, Hanumān coming, surrounded by monkeys who had been fighting and were now panting with exhaustion.
+**6.70.5**  Then the lord of bears saw, on the road, Hanūmān coming, surrounded by monkeys who had been fighting and were now panting with exhaustion.
 
-**6.70.6**  Seeing on the road both Hanumān and that upraised bear-army, dark as a rain-cloud and fearsome, he checked his advance and turned back.
+**6.70.6**  Seeing on the road both Hanūmān and that upraised bear-army, dark as a rain-cloud and fearsome, he checked his advance and turned back.
 
 **6.70.7**  He of great renown, having quickly come into the presence of that monkey-army, spoke these words to Rāma in grief:
 
@@ -5731,11 +5731,11 @@ translator: thothica
 
 **6.71.6**  Seeing Vibhīṣaṇa's face and Sugrīva and those monkeys, Lakṣmaṇa spoke these words, his voice choked with tears:
 
-**6.71.7**  "Hearing, gentle one, from Hanumān's report that Sītā had been slain by Indrajit, Rāghava straightway fell into a swoon."
+**6.71.7**  "Hearing, gentle one, from Hanūmān's report that Sītā had been slain by Indrajit, Rāghava straightway fell into a swoon."
 
 **6.71.8**  Restraining Saumitri as he was speaking, Vibhīṣaṇa spoke these words of weighty import to the unconscious Rāma:
 
-**6.71.9**  "What has been told to you by Hanumān in the form of news fit for a lord of men — that I deem impossible, like the drying up of the ocean.
+**6.71.9**  "What has been told to you by Hanūmān in the form of news fit for a lord of men — that I deem impossible, like the drying up of the ocean.
 
 **6.71.10**  "I know the intention of the evil-souled Rāvaṇa regarding Sītā, O mighty-armed one — he will not bring about her killing.
 
@@ -5793,13 +5793,13 @@ translator: thothica
 
 **6.72.15**  Having heard Vibhīṣaṇa's words, Rāma then spoke: "I know the illusion of that terrible one, O you whose valour is truth.
 
-**6.72.16**  "He is skilled in the Brahma-weapon, wise, a great master of illusion, of great strength — in battle he renders even the gods together with Varuṇa unconscious.
+**6.72.16**  "He is skilled in the Brahmā-weapon, wise, a great master of illusion, of great strength — in battle he renders even the gods together with Varuṇa unconscious.
 
 **6.72.17**  "Of him moving through the sky in his chariot, O greatly renowned one, the course is not known, as the sun's course is unknown in a confluence of clouds.
 
 **6.72.18**  But Rāghava, having understood the illusory power of that evil-souled enemy, spoke these words to Lakṣmaṇa endowed with glory:
 
-**6.72.19**  "Surrounded by all of the monkey-king's forces, together with the troop-commanders headed by Hanumān, O Lakṣmaṇa,
+**6.72.19**  "Surrounded by all of the monkey-king's forces, together with the troop-commanders headed by Hanūmān, O Lakṣmaṇa,
 
 **6.72.20**  "surrounded by the army together with Jāmbavān, the lord of bears — slay that son of the rākṣasa, skilled in the power of illusion.
 
@@ -5819,7 +5819,7 @@ translator: thothica
 
 **6.72.28**  The royal prince Lakṣmaṇa of great majesty, accompanied by Vibhīṣaṇa, having received his brother's blessing, went forth swiftly.
 
-**6.72.29**  Hanumān, surrounded by many thousands of monkeys, and Vibhīṣaṇa with his ministers, then followed after Lakṣmaṇa.
+**6.72.29**  Hanūmān, surrounded by many thousands of monkeys, and Vibhīṣaṇa with his ministers, then followed after Lakṣmaṇa.
 
 **6.72.30**  Swiftly surrounded by the great monkey-army, he also beheld on the road the forces of the king of bears standing arrayed.
 
@@ -5861,11 +5861,11 @@ translator: thothica
 
 **6.73.16**  And upon seeing him stationed in his chariot, that army of rākṣasas of fearful speed, eager to fight with Lakṣmaṇa, rallied about.
 
-**6.73.17**  At that moment Hanumān, the subduer of enemies, resembling a bearer of the earth, raising an enormous tree that was very hard to face —
+**6.73.17**  At that moment Hanūmān, the subduer of enemies, resembling a bearer of the earth, raising an enormous tree that was very hard to face —
 
 **6.73.18**  — that monkey, like the fire of dissolution scorching the rākṣasas' army, rendered it insensible in battle with blow after blow of trees.
 
-**6.73.19**  Seeing the son of the Wind-god destroying them with speed, thousands of rākṣasas showered down upon Hanumān.
+**6.73.19**  Seeing the son of the Wind-god destroying them with speed, thousands of rākṣasas showered down upon Hanūmān.
 
 **6.73.20**  Those bearing sharp tridents with their tridents, those with swords in hand with their swords, those holding śaktis with their śaktis, those armed with paṭṭasas with their paṭṭasas —
 
@@ -5889,9 +5889,9 @@ translator: thothica
 
 **6.73.30**  "Fight with your bare arms if you desire single combat with me in battle — bear my speed, O dim-wit! Then you would indeed be the foremost among rākṣasas."
 
-**6.73.31**  Vibhīṣaṇa pointed out to Lakṣmaṇa the son of Rāvaṇa, intent on killing Hanumān and with his bow raised.
+**6.73.31**  Vibhīṣaṇa pointed out to Lakṣmaṇa the son of Rāvaṇa, intent on killing Hanūmān and with his bow raised.
 
-**6.73.32**  "He who conquered Vāsava [Indra], the very son born of Rāvaṇa himself — that one has mounted his chariot and seeks to kill Hanumān."
+**6.73.32**  "He who conquered Vāsava [Indra], the very son born of Rāvaṇa himself — that one has mounted his chariot and seeks to kill Hanūmān."
 
 **6.73.33**  "Slay Rāvaṇi, O son of Sumitrā, with arrows of incomparable form, enemy-rending, life-ending, and dreadful."
 
@@ -5947,7 +5947,7 @@ translator: thothica
 
 **6.74.25**  "Today disaster has come upon you — what more will you say here? You will not be able to enter the banyan tree, O vilest of rākṣasas."
 
-**6.74.26**  "Having offended the two descendants of Kakutstha, you cannot live. Fight in battle with the god among men, Lakṣmaṇa; slain, you will serve the gods' purpose in Yama's realm."
+**6.74.26**  "Having offended the two descendants of Kākutstha, you cannot live. Fight in battle with the god among men, Lakṣmaṇa; slain, you will serve the gods' purpose in Yama's realm."
 
 **6.74.27**  "Show your own strength, fully roused; expend all your weapons and arrows. Having come within range of Lakṣmaṇa's arrows today, you and your forces shall not go away alive."
 
@@ -7653,7 +7653,7 @@ translator: thothica
 
 **6.99.11**  The very moment your brother Khara, surrounded by many rākṣasas, was slain at Janasthāna — from that moment alone, he was no human being.
 
-**6.99.12**  The very moment Hanumān by his might entered the city of Laṅkā — difficult of entry even for gods — from that very moment we were distressed.
+**6.99.12**  The very moment Hanūmān by his might entered the city of Laṅkā — difficult of entry even for gods — from that very moment we were distressed.
 
 **6.99.13**  'Let there be no enmity with Rāghava' — so I said to you, and you would not accept it; the consequence of that has now arrived.
 
@@ -8345,7 +8345,7 @@ translator: thothica
 
 **6.111.6**  Indrajit, son of Rāvaṇa — also called Rāvaṇi — was slain in battle here by Lakṣmaṇa, and also the dreadful-eyed Virūpākṣa, Mahāpārśva, and Mahōdara.
 
-**6.111.7**  Akampana too was slain here, and other powerful Rākṣasas — Triśirās, Atikāya, Devāntaka, and Narāntaka.
+**6.111.7**  Akampana too was slain here, and other powerful Rākṣasas — Triśiras, Atikāya, Devāntaka, and Narāntaka.
 
 **6.111.8**  Here Mandodarī, his wife by name, lamented for him, surrounded by a thousand fellow-wives, all weeping.
 
@@ -8371,7 +8371,7 @@ translator: thothica
 
 **6.111.19**  That splendid forest tree in Janasthāna is visible yonder, O Sītā, O graceful one — the place where the great battle occurred for your sake between the cruel Rāvaṇa and the great-souled Jaṭāyus.
 
-**6.111.20**  There Khara was slain in combat, Dūṣaṇa was laid low, and the mighty Triśirās was felled by me with unerring arrows.
+**6.111.20**  There Khara was slain in combat, Dūṣaṇa was laid low, and the mighty Triśiras was felled by me with unerring arrows.
 
 **6.111.21**  That lovely, beautiful leaf-hut is also visible there — the place from which you were violently abducted by Rāvaṇa, lord of Rākṣasas.
 

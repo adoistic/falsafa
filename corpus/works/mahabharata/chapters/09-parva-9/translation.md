@@ -1276,7 +1276,7 @@ translator: thothica
 
 **9.13.25**  Then the son of Droṇa pierced Arjuna with twelve well-sharpened, gold-feathered shafts, and Vāsudeva with ten, O Bhārata.
 
-**9.13.26**  Then Bībhatsu, laughing, drew his Gāṇḍiva bow, having for a moment honored the teacher's son in that great battle.
+**9.13.26**  Then Bībhatsu, laughing, drew his Gāṇḍīva bow, having for a moment honored the teacher's son in that great battle.
 
 **9.13.27**  Savyasācin, the great car-warrior, made him bereft of horses, charioteer, and chariot, and then, after first sparing him, pierced him with three arrows.
 
@@ -1460,7 +1460,7 @@ translator: thothica
 
 **9.15.31**  Your son and the valiant king of the Madras received those onrushing warriors, the two of them standing firm like the mountains of the eastern and western horizons confronting a host of great storm-clouds.
 
-**9.15.32**  Śalya, glorying in battle, rained showers of arrows upon Yudhiṣṭhira, that tamer of foes, even as Maghavān pours down the rain.
+**9.15.32**  Śalya, glorying in battle, rained showers of arrows upon Yudhiṣṭhira, that tamer of foes, even as Maghavan pours down the rain.
 
 **9.15.33**  In like manner the high-souled king of the Kurus too, taking up his splendid bow, displayed the manifold lessons taught him by Droṇa.
 
@@ -4594,7 +4594,7 @@ translator: thothica
 
 **9.44.37**  Suvrata and Satyasaṃdha, two great-souled bearers of austerity and sacred knowledge—the Lord Mitra gave to the great-souled prince.
 
-**9.44.38**  Fair to look upon, granters of boons, renowned throughout the three worlds—the great-souled Suprabha and Śubhakarman, famed in the worlds, Vidhātṛ bestowed upon Kārttikeya.
+**9.44.38**  Fair to look upon, granters of boons, renowned throughout the three worlds—the great-souled Suprabhā and Śubhakarman, famed in the worlds, Vidhātṛ bestowed upon Kārttikeya.
 
 **9.44.39**  Pālitaka and Kālika, both masters of great illusion—these two attendants Pūṣan gave to Kārttikeya, O Bhārata.
 
@@ -4646,9 +4646,9 @@ translator: thothica
 
 **9.44.63**  Haṃsaja, Paṅkadigdhāṅga, and Samudronmādana, Raṇotkaṭa and Prahāsa, Śvetaśīrṣa, and Nandaka,
 
-**9.44.64**  Kālakaṇṭha and Prabhāsa, and the other Kumbhāṇḍaka, Kālakākṣa and Sita, and Bhūtalonmathana likewise,
+**9.44.64**  Kālakaṇṭha and Prabhāsa, and the other Kumbhāṇḍaka, Kālakākṣa and Sītā, and Bhūtalonmathana likewise,
 
-**9.44.65**  Yajñavāha and Pravāha, Devayājin and Somapa, the mighty Sajāla, and Kratha and Krātha, O Bhārata,
+**9.44.65**  Yajñavāha and Pravāha, Devayājin and Somapa, the mighty Sajāla, and Krātha and Krātha, O Bhārata,
 
 **9.44.66**  Tuhana and Tuhāna, and the valiant Citradeva, Madhura and Suprasāda, and the mighty Kirīṭin,
 
@@ -4750,19 +4750,19 @@ translator: thothica
 
 **9.45.5**  Vasudāmā and Sudāmā, Viśokā, and Nandinī, Ekacūḍā, Mahācūḍā, and Cakranemi, O Bhārata.
 
-**9.45.6**  Uttejanī, Jayatsenā, then Kamalākṣī and Śobhanā, and Śatruṃjayā likewise, Krodhanā, Śalabhī, Kharī.
+**9.45.6**  Uttejanī, Jayatsenā, then Kamalākṣī and Śobhanā, and Śatruṃjaya likewise, Krodhanā, Śalabhī, Kharī.
 
 **9.45.7**  Mādhavī and Śubhavaktrā, and Tīrthanemi, O Bhārata, Gītapriyā and Kalyāṇī, Kadrulā, and Amitāśanā.
 
 **9.45.8**  Meghasvanā, Bhogavatī, and Subhrū, and Kanakāvatī, Alātākṣī, Vīryavatī, and Vidyujjihvā, O Bhārata.
 
-**9.45.9**  Padmāvatī, Sunakṣatrā, Kandarā, Bahuyojanā, and Saṃtānikā, O Kaurava, and Kamalā the mighty.
+**9.45.9**  Padmāvatī, Sunakṣatrā, Kaṇḍarā, Bahuyojanā, and Saṃtānikā, O Kaurava, and Kamalā the mighty.
 
 **9.45.10**  Sudāmā and Bahudāmā, and Suprabhā the glorious, and Nṛtyapriyā, O lord of kings, and Śatolūkhalamekhalā, girt with a hundred mortars.
 
 **9.45.11**  Śataghaṇṭā, Śatānandā, and Bhaganandā the comely, Vapuṣmatī, Candraśītā, and Bhadrakālī, O Bhārata.
 
-**9.45.12**  Saṃkārikā, Niṣkuṭikā, Bhramā, Catvaravāsinī, Sumaṅgalā, Svastimatī, Vṛddhikāmā, Jayapriyā.
+**9.45.12**  Saṃkārikā, Niṣkuṭikā, Brahmā, Catvaravāsinī, Sumaṅgalā, Svastimatī, Vṛddhikāmā, Jayapriyā.
 
 **9.45.13**  Dhanadā and Suprasādā, and Bhavadā, and Jaleśvarī, Eḍī, Bheḍī, and Sameḍī, and Vetālajananī, mother of the ghoul, and Kaṇḍūti, and Kālikā, and Devamitrā, O Bhārata.
 
@@ -4772,7 +4772,7 @@ translator: thothica
 
 **9.45.16**  Manojavā, Kaṇṭakinī, Praghasā, and Pūtanā, Khaśayā, Curvyuṭi, Vāmā, Krośanā, and Taḍitprabhā, bright as the lightning.
 
-**9.45.17**  Maṇḍodarī and Tuṇḍā, and Koṭarā, Meghavāsinī, Subhagā, Lambinī, Lambā, Vasucūḍā, Vikatthanī.
+**9.45.17**  Mandodarī and Tuṇḍā, and Koṭarā, Meghavāsinī, Subhagā, Lambinī, Lambā, Vasucūḍā, Vikatthanī.
 
 **9.45.18**  And Ūrdhvaveṇīdharā, who wears her braid upturned, tawny-eyed Lohamekhalā girt with iron, broad-faced Pṛthuvaktrā, Madhurikā, and Madhukumbhā likewise.
 
@@ -4794,7 +4794,7 @@ translator: thothica
 
 **9.45.27**  And Catuṣpatharatā who delights in the crossways, Bhūtitīrthā, Anyagocarā, Paśudā giver of cattle, and Vittadā giver of wealth, and Sukhadā of great fame, giver of joy, Payodā giver of milk, Gomahiṣadā giver of cow and buffalo, and Suviṣāṇā the fair-horned, O Bhārata.
 
-**9.45.28**  Pratiṣṭhā and Supratiṣṭhā, Rocamānā, Surocanā, Gokarṇī and Sukarṇī, Sasirā, and Stherikā likewise, Ekacakrā, Megharavā whose roar is the thundercloud, Meghamālā garlanded with clouds, and Virocanā.
+**9.45.28**  Pratiṣṭhā and Supratiṣṭhā, Rocamāna, Surocanā, Gokarṇī and Sukarṇī, Sasirā, and Stherikā likewise, Ekacakrā, Megharavā whose roar is the thundercloud, Meghamālā garlanded with clouds, and Virocanā.
 
 **9.45.29**  These and many other mothers, O bull of the Bharatas, followers of Kārttikeya, of every form, by the thousand.
 
@@ -5960,7 +5960,7 @@ translator: thothica
 
 **9.57.47**  When that hero fell, the lord of all earthly kings, a great blazing meteor, loud-roaring, attended by thunderclaps and terrible to behold, fell as the master of the earth went down.
 
-**9.57.48**  So too, O Bhārata, Maghavān rained down a rain of blood and a rain of dust there, when your son was struck down.
+**9.57.48**  So too, O Bhārata, Maghavan rained down a rain of blood and a rain of dust there, when your son was struck down.
 
 **9.57.49**  A great roar of Yakṣas, of Rākṣasas, and of Piśācas as well was heard in the sky, O bull of the Bharatas.
 

@@ -30,11 +30,11 @@ translator: thothica
 
 **17.1.6**  Then Yudhiṣṭhira, summoning Yuyutsu and desiring to set forth in pursuit of dharma, made over the whole kingdom to that son born of a vaiśya woman.
 
-**17.1.7**  Having consecrated Parikṣit as king over his own realm, the eldest of the Pāṇḍavas, the king, sorely grieved, spoke to Subhadrā.
+**17.1.7**  Having consecrated Parīkṣit as king over his own realm, the eldest of the Pāṇḍavas, the king, sorely grieved, spoke to Subhadrā.
 
 **17.1.8**  This son of your son shall be the king of the Kurus; and Vajra, the survivor of the Yadus, has been made king.
 
-**17.1.9**  Parikṣit shall reign at Hāstinapura and the Yādava at Śakraprastha; Vajra the king is to be guarded by you. Set not your mind upon unrighteousness.
+**17.1.9**  Parīkṣit shall reign at Hāstinapura and the Yādava at Śakraprastha; Vajra the king is to be guarded by you. Set not your mind upon unrighteousness.
 
 **17.1.10**  Having spoken thus, the Dharma King performed, for the wise Vāsudeva, for his aged maternal uncle, and likewise for Rāma and the others,
 
@@ -42,7 +42,7 @@ translator: thothica
 
 **17.1.12**  He gave to the foremost of the twice-born jewels, garments, villages, horses, chariots, and women, and cows by the hundreds of thousands.
 
-**17.1.13**  Honouring the preceptor Kṛpa with wealth and high regard, the best of the Bharatas entrusted Parikṣit to him as his pupil.
+**17.1.13**  Honouring the preceptor Kṛpa with wealth and high regard, the best of the Bharatas entrusted Parīkṣit to him as his pupil.
 
 **17.1.14**  Then the royal sage Yudhiṣṭhira, having assembled all his subjects, declared to them his whole intended purpose.
 
@@ -68,7 +68,7 @@ translator: thothica
 
 **17.1.25**  Kṛpa and the others gathered about Yuyutsu; and Ulūpī, the daughter of the serpent, entered the Gaṅgā, O Kaurava.
 
-**17.1.26**  Citrāṅgadā too went away towards the city of Maṇipūra, while the other mothers who remained gathered about Parikṣit.
+**17.1.26**  Citrāṅgadā too went away towards the city of Maṇipūra, while the other mothers who remained gathered about Parīkṣit.
 
 **17.1.27**  And the great-souled Pāṇḍavas and the illustrious Draupadī, having undertaken their fasts, O Kaurava, then set forth facing the east.
 
@@ -180,7 +180,7 @@ translator: thothica
 
 **17.3.11**  Yudhiṣṭhira said: They declare the abandonment of one who is devoted to be a most grievous sin, equal in the world to the crime of slaying a brahmin. Therefore, O great Indra, never, in any way, will I today forsake this one for the sake of my own happiness.
 
-**17.3.12**  Indra said: Whatever is given, offered in sacrifice, set forth openly, or poured into the fire — the Krodhavaśās carry it off if it has been looked upon by a dog. Therefore make this abandonment of the dog; by abandoning the dog you shall attain the world of the gods.
+**17.3.12**  Indra said: Whatever is given, offered in sacrifice, set forth openly, or poured into the fire — the Krodhavaśas carry it off if it has been looked upon by a dog. Therefore make this abandonment of the dog; by abandoning the dog you shall attain the world of the gods.
 
 **17.3.13**  Having forsaken your brothers and even your beloved Kṛṣṇā, O hero, you have won this world by your own deeds. How then do you not forsake this dog? Established in renunciation entire, why are you bewildered now?
 

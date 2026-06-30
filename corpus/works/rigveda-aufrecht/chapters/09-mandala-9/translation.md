@@ -1658,7 +1658,7 @@ translator: thothica
 
 **9.91.3**  The roaring bull-stalk roars to the bull; the Pavamāna sends forth the shining milk of the cow. Equipped with a thousand lauds, the sun-like knower-of-speech travels by unobstructed paths to the narrow passage.
 
-**9.91.4**  Shattering even the firm abodes of the Rakṣasas, O Indu being purified, uncover the prizes. Those who are near or far from approach — smite them from above with the impetuous weapon of the bull-striker.
+**9.91.4**  Shattering even the firm abodes of the Rākṣasas, O Indu being purified, uncover the prizes. Those who are near or far from approach — smite them from above with the impetuous weapon of the bull-striker.
 
 **9.91.5**  As of old, O all-desired one, make open the eastward paths for the new hymn, for the well-sung praise. Those great ones difficult to vanquish, won by combat — may we obtain them through you, O much-acting, much-nourishing one.
 

@@ -419,7 +419,7 @@ translator: thothica
 
 **19.14.5**  She grew weary, O Aryaman, going to the assembly of others; O Aryaman, surely now another comes to her assembly.
 
-**19.14.6**  Dhātr has upheld the earth; Dhātr has upheld the sky and the sun; may Dhātr bestow upon this unmarried girl a desirable husband.
+**19.14.6**  Dhātṛ has upheld the earth; Dhātṛ has upheld the sky and the sun; may Dhātṛ bestow upon this unmarried girl a desirable husband.
 
 **19.14.7**  The waters sent sweetness to me; the Sun brought me radiant desire; for me the gods and all the heat-born ones — for me the god Savitr has established expanse.
 
@@ -665,7 +665,7 @@ translator: thothica
 
 **19.21.14**  Loosen the snares of the seizure that bind — her whom the wise ones guard with sacred formulas. O Agni, release their bonds; day after day may well-being follow for the one born of you.
 
-**19.21.15**  Turn back; do not go away — let the Revatī stars cling to us. O Agni and Soma, O Punarvasū, increase the wealth of this one.
+**19.21.15**  Turn back; do not go away — let the Revatī stars cling to us. O Agni and Soma, O Punarvasu, increase the wealth of this one.
 
 **19.21.16**  Turn these back again; bring these close again. Let Indra hold these back; let Agni come to them.
 
@@ -1073,7 +1073,7 @@ translator: thothica
 
 **19.34.9**  That sweetness which is in thy limbs and that love which is in thy heart — that we draw out from thee and cause to shine blazing in me.
 
-**19.34.10**  Be swift as the wind, O steed; being yoked, go at Indra's urging, swift as thought. Let the divine Maruts yoke thee; let Tvaṣṭr place swiftness in thy feet.
+**19.34.10**  Be swift as the wind, O steed; being yoked, go at Indra's urging, swift as thought. Let the divine Maruts yoke thee; let Tvaṣṭṛ place swiftness in thy feet.
 
 **19.34.11**  That swiftness of thine, O steed, stored in the secret place, which moves in the eagle and which moves in the wind — with that, O steed, strong with strength, win the race, able to carry through to the finish.
 

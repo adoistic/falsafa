@@ -298,7 +298,7 @@ translator: thothica
 
 **2.4.36**  Tonight Sītā and I must keep a fast together — so has my father commanded me, in the presence of the officiating priests and the preceptors."
 
-**2.4.37**  "Whatever auspicious rites are appropriate here for the consecration tomorrow — arrange them today for me and for the Vaidehi as well."
+**2.4.37**  "Whatever auspicious rites are appropriate here for the consecration tomorrow — arrange them today for me and for the Vaidehī as well."
 
 **2.4.38**  Hearing this long-cherished news, Kausalyā spoke these words to Rāma, her voice broken with tears of joy.
 
@@ -318,7 +318,7 @@ translator: thothica
 
 **2.5.1**  Having given instructions to Rāma regarding the consecration on the morrow, the king summoned his family priest Vasiṣṭha and spoke these words.
 
-**2.5.2**  "Go, O wealth of austerity, and cause the descendant of Kakutstha today to observe a fast, keeping his vow diligently together with his wife, for the attainment of royal glory, fame, and sovereignty."
+**2.5.2**  "Go, O wealth of austerity, and cause the descendant of Kākutstha today to observe a fast, keeping his vow diligently together with his wife, for the attainment of royal glory, fame, and sovereignty."
 
 **2.5.3**  Replying "So be it" to the king, the venerable Vasiṣṭha — best among those learned in the Veda — himself went to Rāma's dwelling.
 
@@ -334,9 +334,9 @@ translator: thothica
 
 **2.5.9**  "For in the morning your father, King Daśaratha, will consecrate you to the office of crown prince with loving delight, even as Nahuṣa once consecrated Yayāti."
 
-**2.5.10**  Having spoken thus, the sage then caused Rāma, diligently keeping his vow, to observe the fast together with the Vaidehi, in accordance with the prescribed Vedic rites.
+**2.5.10**  Having spoken thus, the sage then caused Rāma, diligently keeping his vow, to observe the fast together with the Vaidehī, in accordance with the prescribed Vedic rites.
 
-**2.5.11**  Then, having been duly worshipped by Rāma according to proper custom, the royal preceptor took his leave of the descendant of Kakutstha and departed from Rāma's dwelling.
+**2.5.11**  Then, having been duly worshipped by Rāma according to proper custom, the royal preceptor took his leave of the descendant of Kākutstha and departed from Rāma's dwelling.
 
 **2.5.12**  Rāma too, having been honoured there by his well-wishers, took leave of them all and entered his dwelling, dismissing them all with his blessing.
 
@@ -370,7 +370,7 @@ translator: thothica
 
 **2.6.3**  And having consumed the remainder of the oblation, invoking blessings upon himself, meditating upon the divine Nārāyaṇa, he lay upon a well-spread bed of kuśa-grass.
 
-**2.6.4**  Maintaining silence, with controlled mind, the son of the best of men lay in the beautiful shrine of Viṣṇu, together with the Vaidehi.
+**2.6.4**  Maintaining silence, with controlled mind, the son of the best of men lay in the beautiful shrine of Viṣṇu, together with the Vaidehī.
 
 **2.6.5**  When but one watch of the night remained, he awoke and caused the entire prescribed arrangement of decorations to be prepared throughout the dwelling.
 
@@ -380,7 +380,7 @@ translator: thothica
 
 **2.6.8**  Then their holy-day proclamations — deep, melodious, and resonant — filled all of Ayodhyā, re-echoing with the sound of musical instruments.
 
-**2.6.9**  All the inhabitants of Ayodhyā, upon hearing that the Rāghava had kept his fast together with the Vaidehi, were exceedingly joyful.
+**2.6.9**  All the inhabitants of Ayodhyā, upon hearing that the Rāghava had kept his fast together with the Vaidehī, were exceedingly joyful.
 
 **2.6.10**  Then all the citizens of the city, having heard of Rāma's consecration and seeing the night give way to dawn, made the city resplendent once more with supreme adornment.
 
@@ -1666,7 +1666,7 @@ translator: thothica
 
 **2.28.9**  "I shall constantly gather for you roots and fruits, and whatever other forest foods are the natural sustenance of ascetics."
 
-**2.28.10**  "While you take delight with the Vaidehi on mountain slopes, I shall do everything for you, whether you are awake or asleep."
+**2.28.10**  "While you take delight with the Vaidehī on mountain slopes, I shall do everything for you, whether you are awake or asleep."
 
 **2.28.11**  Rāma, greatly pleased by these words, replied to him: "Go take leave, O Saumitri, of all our dear friends."
 
@@ -1702,7 +1702,7 @@ translator: thothica
 
 **2.29.7**  "Convey, O gentle one, this necklace and golden thread to your wife; and now Sītā wishes to give you, dear friend, this girdle as well."
 
-**2.29.8**  "The Vaidehi also desires to bestow upon you this couch with its excellent coverlet adorned with manifold gems."
+**2.29.8**  "The Vaidehī also desires to bestow upon you this couch with its excellent coverlet adorned with manifold gems."
 
 **2.29.9**  "The elephant named Śatruṃjaya which my maternal uncle gave me — that elephant, worth a thousand common elephants, I give to you, O bull among the twice-born."
 
@@ -1742,7 +1742,7 @@ translator: thothica
 
 **2.29.27**  Then the great sage Trijaṭa, together with his wife, joyfully received the herd of cattle and in return offered to the great-souled one blessings that swelled with fame, strength, joy, and happiness.
 
-**2.30.1**  Having distributed abundant wealth to the brāhmaṇas together with the Vaidehi, the two Rāghavas set out together with Sītā to see their father.
+**2.30.1**  Having distributed abundant wealth to the brāhmaṇas together with the Vaidehī, the two Rāghavas set out together with Sītā to see their father.
 
 **2.30.2**  Then, with those terrible-to-behold weapons taken up and adorned by Sītā with garlands and strings of flowers, the two shone resplendent.
 
@@ -1880,7 +1880,7 @@ translator: thothica
 
 **2.32.8**  "Long-armed Bharata shall protect Ayodhyā; may glorious Rāma be fully provided with all that he desires and then return."
 
-**2.32.9**  As the scion of Kakutstha spoke thus, fear came upon Kaikeyī; her face grew parched and her voice choked.
+**2.32.9**  As the scion of Kākutstha spoke thus, fear came upon Kaikeyī; her face grew parched and her voice choked.
 
 **2.32.10**  Dejected and fearful, Kaikeyī spoke: "O virtuous one, a kingdom emptied of its people, like wine from which the cream has been drunk, utterly tasteless and barren — Bharata will not accept such."
 
@@ -2262,7 +2262,7 @@ translator: thothica
 
 **2.40.3**  For to the men dwelling in Ayodhyā, that one of great fame, endowed with every virtue, was as dear as the full moon.
 
-**2.40.4**  That descendant of Kakutstha, though entreated by his own subjects, held true his word to his father and went on into the forest.
+**2.40.4**  That descendant of Kākutstha, though entreated by his own subjects, held true his word to his father and went on into the forest.
 
 **2.40.5**  Gazing upon them with affection, drinking them in as it were with his eyes, Rāma addressed those subjects with the tenderness one shows one's own children.
 
@@ -3288,7 +3288,7 @@ translator: thothica
 
 **2.57.36**  'Remove the arrow from me, O king; the sharp shaft blocks my vital spot, causing swelling and pain, like a flood-current stopping up a soft riverbank.'
 
-**2.57.37**  'I am not a twice-born, O king — let there be no anguish in your mind. I was born of a Vaiśya father upon a Śūdrā woman, O lord of the land.'
+**2.57.37**  'I am not a twice-born, O king — let there be no anguish in your mind. I was born of a Vaiśya father upon a Śūdra woman, O lord of the land.'
 
 **2.57.38**  As he was speaking thus with difficulty — his vital spot struck by the arrow, his body bending — I drew out that arrow.
 
@@ -3658,7 +3658,7 @@ translator: thothica
 
 **2.65.10**  Having rested at Sarvatīrtha and crossed the river Uttānakā and various other rivers with mountain-bred horses,
 
-**2.65.11**  reaching Hastipṛṣṭhaka and passing through Kuṭikā, that tiger among men crossed the Kapīvatī at Lauhitya, and then the Ekasāla, Sthāṇumatī, and the river Gomatī at Vīṇatā.
+**2.65.11**  reaching Hastipṛṣṭhaka and passing through Kuṭikā, that tiger among men crossed the Kapīvatī at Lauhitya, and then the Ekasāla, Sthāṇumatī, and the river Gomatī at Vinatā.
 
 **2.65.12**  Then reaching the sāla forest near the city of Kaliṅga, Bharata arrived swiftly, though his horses were utterly exhausted.
 
@@ -4502,7 +4502,7 @@ translator: thothica
 
 **2.82.17**  "How does Rāghava — dark as a blue lotus, red-eyed, lovely to behold, and worthy of every comfort — lie here upon the earth, who deserves no hardship at all?"
 
-**2.82.18**  "The Vaidehi has truly achieved her purpose, having followed her husband into the forest; we are all left in uncertainty, bereft of that great-souled one."
+**2.82.18**  "The Vaidehī has truly achieved her purpose, having followed her husband into the forest; we are all left in uncertainty, bereft of that great-souled one."
 
 **2.82.19**  "With Daśaratha gone to heaven and Rāma retired to the forest, the earth appears to me like a rudderless ship, utterly empty."
 
@@ -5316,7 +5316,7 @@ translator: thothica
 
 **2.95.10**  So Rāma, lord of the earth, lay fallen on the ground, like an elephant exhausted by the battering of a riverbank and lying asleep.
 
-**2.95.11**  His brothers, weeping, together with the Vaidehi, sprinkled water on that great bowman who was worn thin by grief on every side.
+**2.95.11**  His brothers, weeping, together with the Vaidehī, sprinkled water on that great bowman who was worn thin by grief on every side.
 
 **2.95.12**  Regaining consciousness, shedding tears from both his eyes, the Kākutstha began to speak piteously at length.
 
@@ -5362,7 +5362,7 @@ translator: thothica
 
 **2.95.33**  Then the lord of the earth, reaching the doorway of the leaf-hut, took both Bharata and Lakṣmaṇa by the hands.
 
-**2.95.34**  From the sound of those brothers weeping together with the Vaidehi, an echo arose on the mountain, like the roaring of lions.
+**2.95.34**  From the sound of those brothers weeping together with the Vaidehī, an echo arose on the mountain, like the roaring of lions.
 
 **2.95.35**  Understanding the tumultuous sound, Bharata's soldiers were startled and said: "Surely Bharata has met with Rāma" — for that great sound was of those very men lamenting their dead father.
 
@@ -5434,7 +5434,7 @@ translator: thothica
 
 **2.96.22**  "Like a lotus scorched by the sun's heat, like a blue lotus withered, like gold obscured by dust, like the moon afflicted by clouds —"
 
-**2.96.23**  "— beholding your face, O Vaidehi, grief burns me like fire consuming a dry abode, blazing fiercely in my heart, born from the kindling-sticks of calamity."
+**2.96.23**  "— beholding your face, O Vaidehī, grief burns me like fire consuming a dry abode, blazing fiercely in my heart, born from the kindling-sticks of calamity."
 
 **2.96.24**  While his mother spoke thus in her distress, the elder brother of Bharata, the Rāghava, approached and clasped the feet of Vasiṣṭha.
 
@@ -5462,7 +5462,7 @@ translator: thothica
 
 **2.97.7**  "She, having failed to reap the fruit of the kingdom, widowed and emaciated by grief, my mother will fall into a most dreadful hell."
 
-**2.97.8**  "You should show grace to me who am your slave. Consecrate yourself today with the kingdom, as Maghavān [Indra] was consecrated."
+**2.97.8**  "You should show grace to me who am your slave. Consecrate yourself today with the kingdom, as Maghavan [Indra] was consecrated."
 
 **2.97.9**  "All these subjects, and those mothers who are now widowed, have come to your presence; you should show them your grace."
 
@@ -5814,7 +5814,7 @@ translator: thothica
 
 **2.102.21**  The valiant son of Asamañjas was Aṃśumān; the son of Aṃśumān was Dilīpa; from Dilīpa came Bhagīratha.
 
-**2.102.22**  From Bhagīratha came Kakutstha, from whom the Kākutsthas are remembered; the son of Kakutstha was Raghu, from whom the Rāghavas take their name.
+**2.102.22**  From Bhagīratha came Kākutstha, from whom the Kākutsthas are remembered; the son of Kākutstha was Raghu, from whom the Rāghavas take their name.
 
 **2.102.23**  The lustrous son of Raghu, grown great and given to devouring men, was known on earth as Kalmāṣapāda or Saudāsa.
 
