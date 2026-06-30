@@ -1,3 +1,23 @@
+---
+work_id: "d8cb694b-592d-5e56-801e-f095a302cbd1"
+work_slug: mahabharata
+work_title: Mahābhārata
+author_name: Vyāsa
+chapter_number: 18
+chapter_title: Parva 18
+chapter_slug: "18-parva-18"
+variant_id: "dcfea888-71f2-56a0-b6eb-6c02ff35d059"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 4746
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
+translator: thothica
+---
+
 **18.1.1**  Janamejaya said: Having reached heaven, the threefold celestial realm, what abodes did my forefathers attain—the Pāṇḍavas and the sons of Dhṛtarāṣṭra alike?
 
 **18.1.2**  This I wish to hear, for I hold you to be one who knows all things, sanctioned as you are by the great sage Vyāsa of wondrous deeds.

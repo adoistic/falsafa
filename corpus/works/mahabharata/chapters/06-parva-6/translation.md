@@ -1,3 +1,23 @@
+---
+work_id: "d8cb694b-592d-5e56-801e-f095a302cbd1"
+work_slug: mahabharata
+work_title: Mahābhārata
+author_name: Vyāsa
+chapter_number: 6
+chapter_title: Parva 6
+chapter_slug: "06-parva-6"
+variant_id: "aa8f6a55-7c01-527c-bfdf-a7ecf98883a9"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 136587
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
+translator: thothica
+---
+
 **6.1.1**  Janamejaya said: How did they wage war, those heroes — the Kurus, the Pāṇḍavas, and the Somakas — and the high-fortuned kings gathered from many lands?
 
 **6.1.2**  Vaiśaṃpāyana said: How those heroes — the Kurus, the Pāṇḍavas, and the Somakas — waged war upon Kurukṣetra, that field of austerities, hear it now, O lord of the earth.

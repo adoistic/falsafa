@@ -1,3 +1,23 @@
+---
+work_id: "d8cb694b-592d-5e56-801e-f095a302cbd1"
+work_slug: mahabharata
+work_title: Mahābhārata
+author_name: Vyāsa
+chapter_number: 5
+chapter_title: Parva 5
+chapter_slug: "05-parva-5"
+variant_id: "a7d0ddbf-355c-5061-8c3c-4bda977f019c"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 163495
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
+translator: thothica
+---
+
 **5.1.1**  Vaishampayana said: Having performed the marriage, the Kuru heroes — their own side gladdened on account of Abhimanyu — rested for four dawns and then, refreshed, proceeded to the hall of Virata.
 
 **5.1.2**  That hall of the lord of the Matsyas was splendid — adorned with the finest gems and precious stones, furnished with seats, garlanded, and fragrant. Into it entered those foremost of noble kings.

@@ -1,3 +1,23 @@
+---
+work_id: "d8cb694b-592d-5e56-801e-f095a302cbd1"
+work_slug: mahabharata
+work_title: Mahābhārata
+author_name: Vyāsa
+chapter_number: 16
+chapter_title: Parva 16
+chapter_slug: "16-parva-16"
+variant_id: "6f5a8a7a-5225-5052-8a33-5419f71aa136"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 7109
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
+translator: thothica
+---
+
 **16.1.1**  Vaiśaṃpāyana said: When the thirty-sixth year had come, Yudhiṣṭhira, joy of the Kurus, beheld portents of an evil and contrary kind.
 
 **16.1.2**  Harsh winds blew, attended by thunderclaps and showers of gravel, and the birds wheeled in their circling flights from the left.

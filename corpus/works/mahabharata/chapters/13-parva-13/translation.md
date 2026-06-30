@@ -1,3 +1,23 @@
+---
+work_id: "d8cb694b-592d-5e56-801e-f095a302cbd1"
+work_slug: mahabharata
+work_title: Mahābhārata
+author_name: Vyāsa
+chapter_number: 13
+chapter_title: Parva 13
+chapter_slug: "13-parva-13"
+variant_id: "5ad862cc-b6e3-5712-8267-ea38a8938bb9"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 180639
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
+translator: thothica
+---
+
 **13.1.1**  Yudhiṣṭhira said: Tranquillity, grandfather, you have called manifold in form and subtle; yet there is no peace in my heart, having done such a deed as this.
 
 **13.1.2**  On this matter, O sinless one, you have spoken of peace in its many kinds; but for one's own deed, what peace could there be, even through tranquillity of every manifold sort?

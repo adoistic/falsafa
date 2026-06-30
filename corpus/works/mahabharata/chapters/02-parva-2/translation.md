@@ -1,3 +1,23 @@
+---
+work_id: "d8cb694b-592d-5e56-801e-f095a302cbd1"
+work_slug: mahabharata
+work_title: Mahābhārata
+author_name: Vyāsa
+chapter_number: 2
+chapter_title: Parva 2
+chapter_slug: "02-parva-2"
+variant_id: "56d3de61-6e66-5e82-ad10-368e8174c09d"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 61266
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
+translator: thothica
+---
+
 **2.1.1**  Vaiśampāyana said: Then Maya spoke to Pārtha in the presence of Vāsudeva, with joined palms, honouring him again and again with gentle words.
 
 **2.1.2**  "By you I have been saved from this wrathful Kṛṣṇa and from Pāvaka who sought to burn me. O son of Kuntī, tell me — what shall I do for you?"

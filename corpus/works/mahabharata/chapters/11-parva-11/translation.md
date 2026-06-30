@@ -1,3 +1,23 @@
+---
+work_id: "d8cb694b-592d-5e56-801e-f095a302cbd1"
+work_slug: mahabharata
+work_title: Mahābhārata
+author_name: Vyāsa
+chapter_number: 11
+chapter_title: Parva 11
+chapter_slug: "11-parva-11"
+variant_id: "c92cbabc-7223-53ef-9761-d62d2a28f010"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 18859
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
+translator: thothica
+---
+
 **11.1.1**  Janamejaya said: When Duryodhana had been slain and the whole army utterly destroyed, what did the great king Dhṛtarāṣṭra do, O sage, on hearing of it?
 
 **11.1.2**  And likewise the great-souled Kaurava king, the son of Dharma, and Kṛpa and the rest — what did those three do?

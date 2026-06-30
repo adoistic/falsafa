@@ -1,3 +1,23 @@
+---
+work_id: "d8cb694b-592d-5e56-801e-f095a302cbd1"
+work_slug: mahabharata
+work_title: Mahābhārata
+author_name: Vyāsa
+chapter_number: 10
+chapter_title: Parva 10
+chapter_slug: "10-parva-10"
+variant_id: "24db57b2-8872-58cb-9ddf-144a78cf0945"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 20373
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
+translator: thothica
+---
+
 **10.1.1**  Saṃjaya said: Then those heroes, banded together, set out facing southward, and as the hour of sunset drew near they came to the neighborhood of the camp.
 
 **10.1.2**  Hastily unyoking their mounts, they grew afraid; and reaching a dense thicket, they settled there, hidden from view.

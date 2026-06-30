@@ -1,3 +1,23 @@
+---
+work_id: "d8cb694b-592d-5e56-801e-f095a302cbd1"
+work_slug: mahabharata
+work_title: Mahābhārata
+author_name: Vyāsa
+chapter_number: 15
+chapter_title: Parva 15
+chapter_slug: "15-parva-15"
+variant_id: "1c45e6a8-db21-5d70-b95a-5f39591374bf"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 26837
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
+translator: thothica
+---
+
 **15.1.1**  Janamejaya said: When my illustrious grandsires the Pāṇḍavas had won the kingdom, how did they conduct themselves toward the great-souled king Dhṛtarāṣṭra?
 
 **15.1.2**  That king, his counsellors slain, his sons slain, left without support and stripped of sovereignty—how did he fare, and how the renowned Gāndhārī?

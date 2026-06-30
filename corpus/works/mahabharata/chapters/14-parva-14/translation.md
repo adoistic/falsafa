@@ -1,3 +1,23 @@
+---
+work_id: "d8cb694b-592d-5e56-801e-f095a302cbd1"
+work_slug: mahabharata
+work_title: Mahābhārata
+author_name: Vyāsa
+chapter_number: 14
+chapter_title: Parva 14
+chapter_slug: "14-parva-14"
+variant_id: "458b3f6a-6e48-58b8-9894-6d7e8f7ad249"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 73184
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
+translator: thothica
+---
+
 **14.1.1**  Vaiśaṃpāyana said: Putting King Dhṛtarāṣṭra before him, once the water-offerings had been made, the mighty-armed Yudhiṣṭhira, his senses confounded with grief, climbed up from the river.
 
 **14.1.2**  And having ascended, the lord of the earth, his eyes brimming with tears, fell upon the bank of the Gaṅgā like an elephant struck down by a hunter.

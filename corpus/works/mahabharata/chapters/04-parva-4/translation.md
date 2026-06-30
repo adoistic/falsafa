@@ -1,3 +1,23 @@
+---
+work_id: "d8cb694b-592d-5e56-801e-f095a302cbd1"
+work_slug: mahabharata
+work_title: Mahābhārata
+author_name: Vyāsa
+chapter_number: 4
+chapter_title: Parva 4
+chapter_slug: "04-parva-4"
+variant_id: "63f8909e-e102-5999-a583-813b959a8b41"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 46973
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
+translator: thothica
+---
+
 **4.1.1**  Janamejaya said: How did my great-grandfathers dwell unrecognised in the city of Virāṭa, tormented by fear of Duryodhana?
 
 **4.1.2**  Vaiśaṃpāyana said: Having thus received boons from Dharma, that best upholder of righteousness among righteous men went to the hermitage and recounted everything to the brāhmaṇas.

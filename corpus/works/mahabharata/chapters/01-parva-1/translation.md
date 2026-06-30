@@ -1,3 +1,23 @@
+---
+work_id: "d8cb694b-592d-5e56-801e-f095a302cbd1"
+work_slug: mahabharata
+work_title: Mahābhārata
+author_name: Vyāsa
+chapter_number: 1
+chapter_title: Parva 1
+chapter_slug: "01-parva-1"
+variant_id: "8f271afd-019d-5d73-8f2d-ad439c5d6853"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 185961
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
+translator: thothica
+---
+
 **1.1.1**  Ugraśravā, the son of Lomaharṣaṇa, a sūta versed in the Purāṇas, came once to the twelve-year sacrificial session of Śaunaka, lord of the kula, in the Naimiṣa forest.
 
 **1.1.2**  The son of the sūta approached the brahmarṣis who were seated there, those of sharpened vows, bowing humbly before them.

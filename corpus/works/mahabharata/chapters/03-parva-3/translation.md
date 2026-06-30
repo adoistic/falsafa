@@ -1,3 +1,23 @@
+---
+work_id: "d8cb694b-592d-5e56-801e-f095a302cbd1"
+work_slug: mahabharata
+work_title: Mahābhārata
+author_name: Vyāsa
+chapter_number: 3
+chapter_title: Parva 3
+chapter_slug: "03-parva-3"
+variant_id: "c5cb22e2-06eb-5282-94b4-586e0b21026b"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 267856
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
+translator: thothica
+---
+
 **3.1.1**  Janamejaya said: Thus were the Pārthas conquered at dice and provoked by the wicked sons of Dhṛtarāṣṭra together with their ministers through treachery, O best of the twice-born.
 
 **3.1.2**  Made to hear harsh words by those who were sowing the highest enmity, what did my great forebears, the scions of Kuru, do?

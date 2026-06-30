@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-28T16:35:22.207Z",
+  "generated_at": "2026-06-30T07:14:47.069Z",
   "source": "neondb + Perseus Digital Library tranche (scripts/perseus/)",
   "counts": {
-    "works": 2017,
-    "authors": 621,
+    "works": 2018,
+    "authors": 622,
     "eras": 12,
     "genres": 34,
     "languages": 9
@@ -34894,82 +34894,6 @@
       "thothica_role": "gretil-root"
     },
     {
-      "slug": "rigveda-aufrecht",
-      "title": "Rigveda",
-      "author": "Aufrecht (ed.)",
-      "author_slug": "aufrecht-ed",
-      "era": "Ancient",
-      "era_slug": "ancient",
-      "genre": "Vedic Literature",
-      "genre_slug": "vedic-literature",
-      "language": "Sanskrit",
-      "language_slug": "sanskrit",
-      "language_direction": "ltr",
-      "total_logical_chapters": 10,
-      "total_variant_entries": 20,
-      "published_year": null,
-      "difficulty": "Advanced",
-      "description": "Rigveda, a Sanskrit Vedic Literature by Aufrecht (ed.), with transliteration and Thothica's English translation from the GRETIL source text.",
-      "thothica_role": "gretil-root"
-    },
-    {
-      "slug": "valmiki-ramayana",
-      "title": "Vālmīki Rāmāyaṇa",
-      "author": "Vālmīki",
-      "author_slug": "valmiki",
-      "era": "Ancient",
-      "era_slug": "ancient",
-      "genre": "Epic",
-      "genre_slug": "epic",
-      "language": "Sanskrit",
-      "language_slug": "sanskrit",
-      "language_direction": "ltr",
-      "total_logical_chapters": 7,
-      "total_variant_entries": 14,
-      "published_year": null,
-      "difficulty": "Advanced",
-      "description": "Vālmīki Rāmāyaṇa, a Sanskrit Epic by Vālmīki, with transliteration and Thothica's English translation from the GRETIL source text.",
-      "thothica_role": "gretil-root"
-    },
-    {
-      "slug": "atharvaveda-ps",
-      "title": "Atharvaveda (Paippalāda)",
-      "author": "Anonymous (Vedic)",
-      "author_slug": "anonymous-vedic",
-      "era": "Ancient",
-      "era_slug": "ancient",
-      "genre": "Vedic Literature",
-      "genre_slug": "vedic-literature",
-      "language": "Sanskrit",
-      "language_slug": "sanskrit",
-      "language_direction": "ltr",
-      "total_logical_chapters": 20,
-      "total_variant_entries": 40,
-      "published_year": null,
-      "difficulty": "Advanced",
-      "description": "Atharvaveda (Paippalāda), a Sanskrit Vedic Literature by Anonymous (Vedic), with transliteration and Thothica's English translation from the GRETIL source text.",
-      "thothica_role": "gretil-root"
-    },
-    {
-      "slug": "samaveda",
-      "title": "Sāmaveda",
-      "author": "Anonymous (Vedic)",
-      "author_slug": "anonymous-vedic",
-      "era": "Ancient",
-      "era_slug": "ancient",
-      "genre": "Vedic Literature",
-      "genre_slug": "vedic-literature",
-      "language": "Sanskrit",
-      "language_slug": "sanskrit",
-      "language_direction": "ltr",
-      "total_logical_chapters": 12,
-      "total_variant_entries": 24,
-      "published_year": null,
-      "difficulty": "Advanced",
-      "description": "Sāmaveda, a Sanskrit Vedic Literature by Anonymous (Vedic), with transliteration and Thothica's English translation from the GRETIL source text.",
-      "thothica_role": "gretil-root"
-    },
-    {
       "slug": "4th-earl-of-chesterfield-poems-5d0ffd",
       "title": "Poems",
       "author": "4th Earl of Chesterfield",
@@ -38157,6 +38081,101 @@
       "source_url": "https://www.gutenberg.org/ebooks/1041",
       "license": "Public domain — from Project Gutenberg (https://www.gutenberg.org)",
       "thothica_role": "catalog"
+    },
+    {
+      "slug": "rigveda-aufrecht",
+      "title": "Rigveda",
+      "author": "Aufrecht (ed.)",
+      "author_slug": "aufrecht-ed",
+      "era": "Ancient",
+      "era_slug": "ancient",
+      "genre": "Vedic Literature",
+      "genre_slug": "vedic-literature",
+      "language": "Sanskrit",
+      "language_slug": "sanskrit",
+      "language_direction": "ltr",
+      "total_logical_chapters": 10,
+      "total_variant_entries": 20,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Rigveda, a Sanskrit Vedic Literature by Aufrecht (ed.), with transliteration and Thothica's English translation from the GRETIL source text.",
+      "thothica_role": "gretil-root"
+    },
+    {
+      "slug": "valmiki-ramayana",
+      "title": "Vālmīki Rāmāyaṇa",
+      "author": "Vālmīki",
+      "author_slug": "valmiki",
+      "era": "Ancient",
+      "era_slug": "ancient",
+      "genre": "Epic",
+      "genre_slug": "epic",
+      "language": "Sanskrit",
+      "language_slug": "sanskrit",
+      "language_direction": "ltr",
+      "total_logical_chapters": 7,
+      "total_variant_entries": 14,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Vālmīki Rāmāyaṇa, a Sanskrit Epic by Vālmīki, with transliteration and Thothica's English translation from the GRETIL source text.",
+      "thothica_role": "gretil-root"
+    },
+    {
+      "slug": "atharvaveda-ps",
+      "title": "Atharvaveda (Paippalāda)",
+      "author": "Anonymous (Vedic)",
+      "author_slug": "anonymous-vedic",
+      "era": "Ancient",
+      "era_slug": "ancient",
+      "genre": "Vedic Literature",
+      "genre_slug": "vedic-literature",
+      "language": "Sanskrit",
+      "language_slug": "sanskrit",
+      "language_direction": "ltr",
+      "total_logical_chapters": 20,
+      "total_variant_entries": 40,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Atharvaveda (Paippalāda), a Sanskrit Vedic Literature by Anonymous (Vedic), with transliteration and Thothica's English translation from the GRETIL source text.",
+      "thothica_role": "gretil-root"
+    },
+    {
+      "slug": "samaveda",
+      "title": "Sāmaveda",
+      "author": "Anonymous (Vedic)",
+      "author_slug": "anonymous-vedic",
+      "era": "Ancient",
+      "era_slug": "ancient",
+      "genre": "Vedic Literature",
+      "genre_slug": "vedic-literature",
+      "language": "Sanskrit",
+      "language_slug": "sanskrit",
+      "language_direction": "ltr",
+      "total_logical_chapters": 12,
+      "total_variant_entries": 24,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Sāmaveda, a Sanskrit Vedic Literature by Anonymous (Vedic), with transliteration and Thothica's English translation from the GRETIL source text.",
+      "thothica_role": "gretil-root"
+    },
+    {
+      "slug": "mahabharata",
+      "title": "Mahābhārata",
+      "author": "Vyāsa",
+      "author_slug": "vyasa",
+      "era": "Ancient",
+      "era_slug": "ancient",
+      "genre": "Epic",
+      "genre_slug": "epic",
+      "language": "Sanskrit",
+      "language_slug": "sanskrit",
+      "language_direction": "ltr",
+      "total_logical_chapters": 18,
+      "total_variant_entries": 36,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Mahābhārata, a Sanskrit Epic by Vyāsa, with transliteration and Thothica's English translation from the GRETIL source text.",
+      "thothica_role": "gretil-root"
     }
   ],
   "authors": {
@@ -43281,6 +43300,12 @@
       "works": [
         "william-shakespeare-sonnets-65f289"
       ]
+    },
+    "vyasa": {
+      "name": "Vyāsa",
+      "works": [
+        "mahabharata"
+      ]
     }
   },
   "eras": {
@@ -43339,7 +43364,8 @@
         "rigveda-aufrecht",
         "valmiki-ramayana",
         "atharvaveda-ps",
-        "samaveda"
+        "samaveda",
+        "mahabharata"
       ]
     },
     "20th-century": {
@@ -47547,7 +47573,8 @@
     "epic": {
       "name": "Epic",
       "works": [
-        "valmiki-ramayana"
+        "valmiki-ramayana",
+        "mahabharata"
       ]
     }
   },
@@ -47589,7 +47616,8 @@
         "rigveda-aufrecht",
         "valmiki-ramayana",
         "atharvaveda-ps",
-        "samaveda"
+        "samaveda",
+        "mahabharata"
       ]
     },
     "urdu": {

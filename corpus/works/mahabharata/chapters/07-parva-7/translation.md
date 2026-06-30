@@ -1,3 +1,23 @@
+---
+work_id: "d8cb694b-592d-5e56-801e-f095a302cbd1"
+work_slug: mahabharata
+work_title: Mahābhārata
+author_name: Vyāsa
+chapter_number: 7
+chapter_title: Parva 7
+chapter_slug: "07-parva-7"
+variant_id: "c44aae7e-d844-5a47-bc60-7476123bf9bb"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 203946
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
+translator: thothica
+---
+
 **7.1.1**  Janamejaya said: When he had heard that Devavrata—peerless in courage, vigor, strength, valor, and prowess—had been slain by Śikhaṇḍin the Pāñcāla,
 
 **7.1.2**  what then did King Dhṛtarāṣṭra do, his mind distraught with grief, O sage among brahmins, when that valiant father of his had fallen?

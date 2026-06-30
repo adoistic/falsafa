@@ -1,3 +1,23 @@
+---
+work_id: "d8cb694b-592d-5e56-801e-f095a302cbd1"
+work_slug: mahabharata
+work_title: Mahābhārata
+author_name: Vyāsa
+chapter_number: 12
+chapter_title: Parva 12
+chapter_slug: "12-parva-12"
+variant_id: "5b97bc4e-b835-5374-919f-47804389a9e0"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 360821
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
+translator: thothica
+---
+
 **12.1.1**  Vaiśaṃpāyana said: When the sons of Pāṇḍu, together with Vidura and Dhṛtarāṣṭra and all the women of the Bharatas, had made the water-offerings for all their kinsmen,
 
 **12.1.2**  those great-souled delights of the Kurus dwelt there for one full month outside the city, to complete the rites of purification.

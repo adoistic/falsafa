@@ -1,3 +1,23 @@
+---
+work_id: "d8cb694b-592d-5e56-801e-f095a302cbd1"
+work_slug: mahabharata
+work_title: Mahābhārata
+author_name: Vyāsa
+chapter_number: 9
+chapter_title: Parva 9
+chapter_slug: "09-parva-9"
+variant_id: "8bf61b8a-2daa-5ea7-87a2-19c9e36fdd96"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 83892
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
+translator: thothica
+---
+
 **9.1.1**  Janamejaya said: When Karṇa had thus been struck down in battle by Savyasācin, and the Kurus were left but few, what then did they do, O brāhmaṇa?
 
 **9.1.2**  Seeing the host of the Pāṇḍavas surging upward and the hour come upon him, what course did King Suyodhana, the Kaurava, resolve upon?

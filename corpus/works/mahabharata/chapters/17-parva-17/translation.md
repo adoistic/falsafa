@@ -1,3 +1,23 @@
+---
+work_id: "d8cb694b-592d-5e56-801e-f095a302cbd1"
+work_slug: mahabharata
+work_title: Mahābhārata
+author_name: Vyāsa
+chapter_number: 17
+chapter_title: Parva 17
+chapter_slug: "17-parva-17"
+variant_id: "58e03e97-2f5a-5f83-aed7-d92f75be5b14"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 2752
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
+translator: thothica
+---
+
 **17.1.1**  Janamejaya said: Having thus heard of the slaughter at the iron clubs among the houses of the Vṛṣṇis and Andhakas, what did the Pāṇḍavas do when Kṛṣṇa too had gone to heaven?
 
 **17.1.2**  Vaiśaṃpāyana said: The moment the Kaurava king heard of the great destruction of the Vṛṣṇis, he set his mind upon departure and spoke these words to Arjuna.

@@ -1,3 +1,23 @@
+---
+work_id: "d8cb694b-592d-5e56-801e-f095a302cbd1"
+work_slug: mahabharata
+work_title: Mahābhārata
+author_name: Vyāsa
+chapter_number: 8
+chapter_title: Parva 8
+chapter_slug: "08-parva-8"
+variant_id: "21b599ea-08eb-5ff5-9655-ab3fbb885972"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 104464
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
+translator: thothica
+---
+
 **8.1.1**  Vaiśaṃpāyana said: Then, O king, when Droṇa had been slain, the kings led by Duryodhana, their minds sorely troubled, came to Droṇa's son.
 
 **8.1.2**  Grieving for Droṇa, their vigour struck down by despair, stricken with sorrow they gathered round the son of Śāradvatī's daughter.

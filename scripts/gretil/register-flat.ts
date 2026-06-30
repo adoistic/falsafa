@@ -121,6 +121,19 @@ const WORKS: WorkDef[] = [
     chapterTitleTemplate: "Prapāṭhaka {N}",
     chapterDirPattern: /^(\d+)-prapathaka-\d+$/,
   },
+  {
+    slug: "mahabharata",
+    title: "Mahābhārata",
+    author: "Vyāsa",
+    era: "Ancient",
+    genre: "Epic",
+    language: "Sanskrit",
+    layout: "verse",
+    transliteration_scheme: "latin",
+    thothica_role: "gretil-root",
+    chapterTitleTemplate: "Parva {N}",
+    chapterDirPattern: /^(\d+)-parva-\d+$/,
+  },
 ];
 
 // All works registered here are sourced from the GRETIL archive — stamp
