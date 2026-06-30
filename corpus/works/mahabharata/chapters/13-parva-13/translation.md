@@ -220,7 +220,7 @@ translator: thothica
 
 **13.2.25**  "For no small misdeed is this by which the fire has come to ruin—whether yours or mine; let this be pondered in its very truth."
 
-**13.2.26**  Hearing this speech of the king, those brahmins, O bull of the Bharatas, restrained and controlled in speech, took refuge with the Purifier, the fire.
+**13.2.26**  Hearing this speech of the king, those brahmins, O bull of the Bhāratas, restrained and controlled in speech, took refuge with the Purifier, the fire.
 
 **13.2.27**  Then the blessed bearer of oblations showed himself to them, assuming his own blazing form, radiant as the autumn sun.
 
@@ -392,15 +392,15 @@ translator: thothica
 
 **13.3.16**  These deeds of his, and others too, O Kaurava—done by a kṣatriya—it is from this that my curiosity has arisen.
 
-**13.3.17**  What is this? Tell me truly, O bull of the Bharatas: without taking on another body, how did he become a brahmin?
+**13.3.17**  What is this? Tell me truly, O bull of the Bhāratas: without taking on another body, how did he become a brahmin?
 
 **13.3.18**  All this you ought to recount to me truly, O king; and as the truth of Mataṅga was, so too tell me this.
 
-**13.3.19**  With reason did Mataṅga fail to attain brahmanhood, O bull of the Bharatas; for, born in the womb of a caṇḍāla, how could he attain brahmanhood?
+**13.3.19**  With reason did Mataṅga fail to attain brahmanhood, O bull of the Bhāratas; for, born in the womb of a caṇḍāla, how could he attain brahmanhood?
 
 **13.4.1**  Bhīṣma said: Let it be heard truly, O Pārtha, how of old Viśvāmitra attained to brahmanhood, my son, and likewise to the state of a brahmin-sage.
 
-**13.4.2**  In the lineage of Bharata there was a king named Ajamīḍha, O best of the Bharatas, a performer of sacrifices, foremost among upholders of dharma.
+**13.4.2**  In the lineage of Bharata there was a king named Ajamīḍha, O best of the Bhāratas, a performer of sacrifices, foremost among upholders of dharma.
 
 **13.4.3**  His son was the great lord of men named Jahnu, whose daughter the great-souled Gaṅgā became.
 
@@ -516,7 +516,7 @@ translator: thothica
 
 **13.4.59**  Therefore, O king, this Viśvāmitra of mighty austerities is no kṣatriya; this supreme brahminhood was implanted in him by Ṛcīka, O Yudhiṣṭhira.
 
-**13.4.60**  All this I have told you in truth, O bull of the Bharatas — the birth of Viśvāmitra, whose splendor was that of Soma, Sūrya, and Agni.
+**13.4.60**  All this I have told you in truth, O bull of the Bhāratas — the birth of Viśvāmitra, whose splendor was that of Soma, Sūrya, and Agni.
 
 **13.4.61**  And wherever a doubt may yet arise in you, O best of kings, there ask of me, and I shall sever your uncertainties.
 
@@ -680,7 +680,7 @@ translator: thothica
 
 **13.6.49**  By rousing fate through action duly undertaken, and by deeds performed according to the ordinance, a man may attain the road to heaven.
 
-**13.7.1**  Yudhiṣṭhira said: O bull of the Bharatas, of all good deeds, O foremost of the great, declare to me, who ask of you, their fruits.
+**13.7.1**  Yudhiṣṭhira said: O bull of the Bhāratas, of all good deeds, O foremost of the great, declare to me, who ask of you, their fruits.
 
 **13.7.2**  Bhīṣma said: Hear, Yudhiṣṭhira, the secret of the seers — by what means is attained, in the life after death, the long-desired goal.
 
@@ -760,7 +760,7 @@ translator: thothica
 
 **13.8.11**  Blessed should I be, O gentle one, were I born again even as a humble brāhmaṇa, sprung from a noble line, set upon the path of dharma, devoted to austerity and learning.
 
-**13.8.12**  There is none in this world dearer to me than you, O joy of Pāṇḍu; yet dearer to me than you are the brāhmaṇas, O bull of the Bharatas.
+**13.8.12**  There is none in this world dearer to me than you, O joy of Pāṇḍu; yet dearer to me than you are the brāhmaṇas, O bull of the Bhāratas.
 
 **13.8.13**  As the brāhmaṇas are dearer to me than you, O foremost of the Kurus — by that truth may I go to those worlds where Śaṃtanu dwells.
 
@@ -802,7 +802,7 @@ translator: thothica
 
 **13.9.4**  From the night that wretch is born to the night that he perishes, whatever good he has done in that interval, O Bhārata, and whatever oblation he has offered — all of it is undone.
 
-**13.9.5**  On this the people learned in the law-books have spoken this saying — hear it, O best of the Bharatas, with a mind most attentive.
+**13.9.5**  On this the people learned in the law-books have spoken this saying — hear it, O best of the Bhāratas, with a mind most attentive.
 
 **13.9.6**  And the people learned in the law-books cite this also: by a thousand horses with dark ears that man is released.
 
@@ -834,13 +834,13 @@ translator: thothica
 
 **13.9.20**  For this supreme splendor of the brāhmaṇa is seen here on earth, like that of the thousand-rayed Sun upon the face of the world.
 
-**13.9.21**  Therefore, once a promise is made, the gift must indeed be given, Yudhiṣṭhira, if one wishes to attain a fair birth, O best of the Bharatas.
+**13.9.21**  Therefore, once a promise is made, the gift must indeed be given, Yudhiṣṭhira, if one wishes to attain a fair birth, O best of the Bhāratas.
 
 **13.9.22**  For by what is given to a brāhmaṇa, the unsurpassed heaven can surely be won, and won abundantly; for giving is a mighty act.
 
 **13.9.23**  By what is given here the gods live, and the ancestors likewise; therefore the wise man should bestow his gifts upon the brāhmaṇas.
 
-**13.9.24**  For the brāhmaṇa, O best of the Bharatas, is called a great holy ford; at no fitting hour should a brāhmaṇa depart unhonored.
+**13.9.24**  For the brāhmaṇa, O best of the Bhāratas, is called a great holy ford; at no fitting hour should a brāhmaṇa depart unhonored.
 
 **13.10.1**  Yudhiṣṭhira said: When one, out of the goodwill of friendship, gives instruction to a man of lower birth, O royal sage—does fault arise for him or not?
 
@@ -850,21 +850,21 @@ translator: thothica
 
 **13.10.4**  Instruction should not be given to any man of base birth; a grave fault is declared to fall upon the teacher for such instruction.
 
-**13.10.5**  Hear from me this illustration, O king, O bull of the Bharatas—of the offense of ill-spoken words, Yudhiṣṭhira—of what came to pass of old at a brahmanic hermitage upon the fair flank of the Himavat.
+**13.10.5**  Hear from me this illustration, O king, O bull of the Bhāratas—of the offense of ill-spoken words, Yudhiṣṭhira—of what came to pass of old at a brahmanic hermitage upon the fair flank of the Himavat.
 
 **13.10.6**  There stood a holy hermitage, set amid clusters of many kinds of trees, thick with shrubs and creepers, frequented by deer and birds.
 
 **13.10.7**  Resounding with siddhas and cāraṇas, lovely, its groves in flower, thronged with many keepers of vows and graced by ascetics.
 
-**13.10.8**  Crowded too with brāhmaṇas of great fortune, resplendent as the sun and fire, perfect in restraints and vows—with ascetics, O best of the Bharatas, consecrated, sparing in food, their selves perfected.
+**13.10.8**  Crowded too with brāhmaṇas of great fortune, resplendent as the sun and fire, perfect in restraints and vows—with ascetics, O best of the Bhāratas, consecrated, sparing in food, their selves perfected.
 
-**13.10.9**  Filled with the murmur of Vedic recitation, O bull of the Bharatas, and frequented by many Vālakhilyas and by men of strict discipline.
+**13.10.9**  Filled with the murmur of Vedic recitation, O bull of the Bhāratas, and frequented by many Vālakhilyas and by men of strict discipline.
 
 **13.10.10**  There a certain śūdra, summoning his resolve, full of compassion, came to that hermitage and was honored by the ascetics.
 
 **13.10.11**  And seeing those hosts of sages, godlike and of great might, bearing their manifold vows, he was filled with joy, O Bhārata.
 
-**13.10.12**  Then his mind turned toward asceticism, O bull of the Bharatas; and so, clasping his feet, he addressed the head of the community, O Bhārata.
+**13.10.12**  Then his mind turned toward asceticism, O bull of the Bhāratas; and so, clasping his feet, he addressed the head of the community, O Bhārata.
 
 **13.10.13**  By your grace I wish to practice dharma, O bull among the twice-born; therefore, O blessed one, you ought to instruct me and to set me upon the ascetic's path.
 
@@ -874,7 +874,7 @@ translator: thothica
 
 **13.10.16**  Bhīṣma said: Thus addressed by the sage, that śūdra reflected, O king: "What am I to do in this? My faith in dharma is supreme. So be it—I shall do what is dear to my own soul."
 
-**13.10.17**  Going far from the hermitage, he built himself a hut of leaves; and there, having set in place an altar, a hallowed ground, and shrines for the deities, O best of the Bharatas, he abode happily, firm in his vows.
+**13.10.17**  Going far from the hermitage, he built himself a hut of leaves; and there, having set in place an altar, a hallowed ground, and shrines for the deities, O best of the Bhāratas, he abode happily, firm in his vows.
 
 **13.10.18**  Performing ablutions and observances, and offering the bali-oblation at the shrines, and pouring oblations into the fire, he worshiped the deities as well.
 
@@ -886,13 +886,13 @@ translator: thothica
 
 **13.10.22**  Having exchanged agreeable converse, the seer—of supreme splendor, righteous of soul, his senses controlled—questioned him duly.
 
-**13.10.23**  Thus, O bull of the Bharatas, that seer went many times to the śūdra's hermitage, O bull among men, to see the śūdra.
+**13.10.23**  Thus, O bull of the Bhāratas, that seer went many times to the śūdra's hermitage, O bull among men, to see the śūdra.
 
-**13.10.24**  Then the śūdra said to that ascetic, O bull of the Bharatas: "I shall perform a rite for the ancestors; in this grant me your favor."
+**13.10.24**  Then the śūdra said to that ascetic, O bull of the Bhāratas: "I shall perform a rite for the ancestors; in this grant me your favor."
 
-**13.10.25**  "So be it," the brāhmaṇa said to him, O bull of the Bharatas; and the śūdra, having purified himself, brought water for that seer's feet.
+**13.10.25**  "So be it," the brāhmaṇa said to him, O bull of the Bhāratas; and the śūdra, having purified himself, brought water for that seer's feet.
 
-**13.10.26**  Then darbha grass and wild herbs, O bull of the Bharatas, and a purifying strainer, a seat, and a grass cushion he brought near.
+**13.10.26**  Then darbha grass and wild herbs, O bull of the Bhāratas, and a purifying strainer, a seat, and a grass cushion he brought near.
 
 **13.10.27**  Then, turning it to the south, when the seer saw the cushion's head laid out the wrong way, contrary to rule, he spoke to him.
 
@@ -904,7 +904,7 @@ translator: thothica
 
 **13.10.31**  Then after a long time that śūdra-ascetic, performing his austerities, met dissolution in the forest; and by that good deed he was reborn, of great radiance, O great king, in a royal lineage of kings.
 
-**13.10.32**  And likewise that seer, my child, having met his appointed end, was reborn as a brāhmaṇa in the family of a royal chaplain, O bull of the Bharatas.
+**13.10.32**  And likewise that seer, my child, having met his appointed end, was reborn as a brāhmaṇa in the family of a royal chaplain, O bull of the Bhāratas.
 
 **13.10.33**  Thus the two of them—the śūdra and the sage—were both born there; and growing up in due course, both became skilled in the branches of learning.
 
@@ -912,7 +912,7 @@ translator: thothica
 
 **13.10.35**  And when his father had passed away, the prince, having completed the rites of purification, O Bhārata, was anointed king by the subjects; and by the anointed king that seer was anointed as chaplain.
 
-**13.10.36**  Placing him at his head, the king dwelt happily, O bull of the Bharatas, ruling his kingdom by dharma and guarding his subjects well.
+**13.10.36**  Placing him at his head, the king dwelt happily, O bull of the Bhāratas, ruling his kingdom by dharma and guarding his subjects well.
 
 **13.10.37**  At the proclaiming of auspicious days, and repeatedly in the rites of dharma, the king, on seeing the chaplain, would smile and even laugh; and thus, O king, many times did he laugh at the chaplain.
 
@@ -920,7 +920,7 @@ translator: thothica
 
 **13.10.39**  Then in a solitary place the chaplain, meeting with the king, delighted him with agreeable conversation.
 
-**13.10.40**  Then that chaplain said to the lord of men, O bull of the Bharatas: "One boon I desire, to be granted by you, O greatly radiant one."
+**13.10.40**  Then that chaplain said to the lord of men, O bull of the Bhāratas: "One boon I desire, to be granted by you, O greatly radiant one."
 
 **13.10.41**  The king said: A hundred boons would I grant you, how much more a single one, O best of the twice-born; for out of affection and high regard there is nothing I would withhold from you.
 
@@ -982,7 +982,7 @@ translator: thothica
 
 **13.10.70**  All this I have now declared to you: when instruction is given amiss, great affliction follows; therefore let no one give such instruction anywhere.
 
-**13.11.1**  Yudhiṣṭhira said: In what kind of man, dear sire, or in what kind of women, O bull of the Bharatas, does Śrī, the lotus-goddess, ever abide? Tell me that, grandfather.
+**13.11.1**  Yudhiṣṭhira said: In what kind of man, dear sire, or in what kind of women, O bull of the Bhāratas, does Śrī, the lotus-goddess, ever abide? Tell me that, grandfather.
 
 **13.11.2**  Bhīṣma said: On this I shall relate to you, as I have seen and as I have heard, how Rukmiṇī once questioned Śrī in the presence of the son of Devakī.
 
@@ -2242,7 +2242,7 @@ translator: thothica
 
 **13.18.59**  As many as are the pores of the hair upon his body, O Bhārata, for so many thousands of years does that man dwell in heaven.
 
-**13.19.1**  Yudhiṣṭhira said: "This thing that is called 'shared dharma,' O bull of the Bharatas—how has it come to be enjoined for women at the time of the taking of the hand in marriage?
+**13.19.1**  Yudhiṣṭhira said: "This thing that is called 'shared dharma,' O bull of the Bhāratas—how has it come to be enjoined for women at the time of the taking of the hand in marriage?
 
 **13.19.2**  Is this the law of the seers, or of Prajāpati, or indeed of the asuras—this 'shared dharma' that was declared of old by the great sages?
 
@@ -2530,7 +2530,7 @@ translator: thothica
 
 **13.22.19**  Having received that maiden as his most beautiful wife, he dwelt there gladly in his own hermitage, his fever of doubt now gone.
 
-**13.23.1**  Yudhiṣṭhira said: Whom, O best of the Bharatas, do the brāhmaṇas declare to be from of old a worthy recipient—the brāhmaṇa who bears the outward marks, or the brāhmaṇa without them?
+**13.23.1**  Yudhiṣṭhira said: Whom, O best of the Bhāratas, do the brāhmaṇas declare to be from of old a worthy recipient—the brāhmaṇa who bears the outward marks, or the brāhmaṇa without them?
 
 **13.23.2**  Bhīṣma said: To one who keeps to his proper conduct, whether he bears the marks or not, a gift should be given, O great king; for both of these are men of austerity.
 
@@ -2542,7 +2542,7 @@ translator: thothica
 
 **13.23.6**  Bhīṣma said: It is not the brāhmaṇa who brings the offering to fulfillment; it succeeds by the gods' ordinance. By the grace of the gods the sacrificers obtain their fruit, without doubt.
 
-**13.23.7**  The brāhmaṇas, O best of the Bharatas, are ever expounders of the sacred word; thus did the wise Mārkaṇḍeya declare of old here among the worlds.
+**13.23.7**  The brāhmaṇas, O best of the Bhāratas, are ever expounders of the sacred word; thus did the wise Mārkaṇḍeya declare of old here among the worlds.
 
 **13.23.8**  Yudhiṣṭhira said: Whether a man be a stranger or a learned one, or a kinsman, or an ascetic, or one given to sacrifice—how is it that such a one becomes a worthy recipient?
 
@@ -2634,7 +2634,7 @@ translator: thothica
 
 **13.24.11**  Whatever is served without the oblation of clarified butter, and what is eaten by men of evil conduct—that portion they know to belong to the rākṣasas.
 
-**13.24.12**  Those portions that are declared to belong to the rākṣasas have now been told, O bull of the Bharatas; henceforth hear the examination of the brāhmaṇa upon the giving away of the gift.
+**13.24.12**  Those portions that are declared to belong to the rākṣasas have now been told, O bull of the Bhāratas; henceforth hear the examination of the brāhmaṇa upon the giving away of the gift.
 
 **13.24.13**  All those brāhmaṇas who are fallen, and likewise the dull-witted and the mad—at the rite for the gods or for the ancestors, O king, they deserve no invitation.
 
@@ -2656,9 +2656,9 @@ translator: thothica
 
 **13.24.22**  The maker of debts, O king, and the twice-born who lives by usury, and he whose livelihood is the selling of living creatures, O king, deserve no invitation.
 
-**13.24.23**  Those who were once women, and the makers of arrow-shafts, all of them, O bull of the Bharatas, and brāhmaṇas who do not chant the sāvitrī—at a śrāddha they deserve no invitation.
+**13.24.23**  Those who were once women, and the makers of arrow-shafts, all of them, O bull of the Bhāratas, and brāhmaṇas who do not chant the sāvitrī—at a śrāddha they deserve no invitation.
 
-**13.24.24**  The brāhmaṇas who are debarred from the śrāddha and the offering to the gods have been named, O bull of the Bharatas; now hear again, of giver and receiver alike, who are worthy of favour.
+**13.24.24**  The brāhmaṇas who are debarred from the śrāddha and the offering to the gods have been named, O bull of the Bhāratas; now hear again, of giver and receiver alike, who are worthy of favour.
 
 **13.24.25**  Those who have fulfilled their vows and are endowed with virtues—even if they be tillers of the soil—if they know the sāvitrī and perform the rites, they, O king, are fit to be invited.
 
@@ -2666,11 +2666,11 @@ translator: thothica
 
 **13.24.27**  The brāhmaṇa who maintains the agnihotra fire, who dwells in the village, who is no thief and is mindful of guests—he, O king, is fit to be invited.
 
-**13.24.28**  He who chants the sāvitrī at the three junctures of the day, O bull of the Bharatas, who lives by alms and performs the rites—he, O king, is fit to be invited.
+**13.24.28**  He who chants the sāvitrī at the three junctures of the day, O bull of the Bhāratas, who lives by alms and performs the rites—he, O king, is fit to be invited.
 
 **13.24.29**  He who rises with the sun and rests at its setting, and likewise rests at its setting and rises with it, who does no harm and has but few faults—he, O king, is fit to be invited.
 
-**13.24.30**  The brāhmaṇa free from guile and free from idle cavil, O bull of the Bharatas, possessed of full awareness and living by alms—he, O king, is fit to be invited.
+**13.24.30**  The brāhmaṇa free from guile and free from idle cavil, O bull of the Bhāratas, possessed of full awareness and living by alms—he, O king, is fit to be invited.
 
 **13.24.31**  One who was vowless, a gambler, a thief, a seller of living creatures, and a trader, but who afterward has drunk the soma—he, O king, is fit to be invited.
 
@@ -2678,7 +2678,7 @@ translator: thothica
 
 **13.24.33**  Wealth got by the selling of sacred knowledge, wealth earned by a woman, and wealth gained through unmanliness—these are not to be given to the ancestors and the gods.
 
-**13.24.34**  When the concluding rite is being performed, the twice-born who does not utter what is fitting, O bull of the Bharatas—his transgression is as the falsehood that loses a cow.
+**13.24.34**  When the concluding rite is being performed, the twice-born who does not utter what is fitting, O bull of the Bhāratas—his transgression is as the falsehood that loses a cow.
 
 **13.24.35**  The brāhmaṇa is the right occasion for the śrāddha; fit also are curds and clarified butter when they come to hand, the waning of the moon, and the flesh of forest game, O Yudhiṣṭhira.
 
@@ -2728,7 +2728,7 @@ translator: thothica
 
 **13.24.58**  The ascetics steadfast in austerity, and those of them who wander seeking alms, who as suppliants desire some little thing—a gift given to them bears great fruit.
 
-**13.24.59**  The rule of great fruit in giving you have now heard, O bull of the Bharatas; now hear that by which men go to hell, and likewise to heaven.
+**13.24.59**  The rule of great fruit in giving you have now heard, O bull of the Bhāratas; now hear that by which men go to hell, and likewise to heaven.
 
 **13.24.60**  Save for the sake of one's teacher or to save a life, O Yudhiṣṭhira, those who utter falsehood—they indeed are bound for hell.
 
@@ -2760,9 +2760,9 @@ translator: thothica
 
 **13.24.74**  Sellers of weapons, O Yudhiṣṭhira, and the makers of barbed darts and of bows — they, indeed, are bound for hell.
 
-**13.24.75**  Those who block the road with spikes, with stakes, or with pits, O bull of the Bharatas — they, indeed, are bound for hell.
+**13.24.75**  Those who block the road with spikes, with stakes, or with pits, O bull of the Bhāratas — they, indeed, are bound for hell.
 
-**13.24.76**  Those who abandon their teachers, their servants, and their devoted dependents when these are helpless, O bull of the Bharatas — they, indeed, are bound for hell.
+**13.24.76**  Those who abandon their teachers, their servants, and their devoted dependents when these are helpless, O bull of the Bhāratas — they, indeed, are bound for hell.
 
 **13.24.77**  Those who break in beasts before their time, who pierce their noses, and who keep cattle in bondage — they, indeed, are bound for hell.
 
@@ -2772,7 +2772,7 @@ translator: thothica
 
 **13.24.80**  Those men who eat first, without first giving to the young, the old, and the servants — they, indeed, are bound for hell.
 
-**13.24.81**  These the ancient seers beheld and declared to be bound for hell. Now I shall tell you, O bull of the Bharatas, of those who share in the world of heaven.
+**13.24.81**  These the ancient seers beheld and declared to be bound for hell. Now I shall tell you, O bull of the Bhāratas, of those who share in the world of heaven.
 
 **13.24.82**  In all undertakings that begin with rites to the gods, O Bhārata, an affront committed against a brāhmaṇa destroys one's sons and all one's cattle entirely.
 
@@ -2800,7 +2800,7 @@ translator: thothica
 
 **13.24.94**  Those men who feast thousands, who give to thousands, and who are the protectors of thousands — they are bound for heaven.
 
-**13.24.95**  The givers of gold and of cattle, O bull of the Bharatas, and of carriages and draught-animals — they are bound for heaven.
+**13.24.95**  The givers of gold and of cattle, O bull of the Bhāratas, and of carriages and draught-animals — they are bound for heaven.
 
 **13.24.96**  Those who give maidens in marriage, who give attendants and garments, O Yudhiṣṭhira — they are bound for heaven.
 
@@ -2838,9 +2838,9 @@ translator: thothica
 
 **13.25.12**  He who in his folly sets loose fire upon a hermitage, a forest, a village, or a town — know that man to be a slayer of a brāhmaṇa.
 
-**13.26.1**  Yudhiṣṭhira said: The sight of the sacred fords is a blessing, and bathing in them too, O bull of the Bharatas; and hearing of them as well, O greatly wise one — I wish to hear of them truly.
+**13.26.1**  Yudhiṣṭhira said: The sight of the sacred fords is a blessing, and bathing in them too, O bull of the Bhāratas; and hearing of them as well, O greatly wise one — I wish to hear of them truly.
 
-**13.26.2**  Those holy fords that are upon the earth, O bull of the Bharatas, you ought to tell me of them; I shall listen, intent and self-restrained, O lord.
+**13.26.2**  Those holy fords that are upon the earth, O bull of the Bhāratas, you ought to tell me of them; I shall listen, intent and self-restrained, O lord.
 
 **13.26.3**  Bhīṣma said: This lineage of the sacred fords, declared by Aṅgiras, O one of great splendor, you ought to hear — blessings be upon you; you shall attain the highest dharma.
 
@@ -2906,9 +2906,9 @@ translator: thothica
 
 **13.26.34**  At the confluence of the Gaṅgā and the Yamunā, and upon Mount Kālaṃjara, touching the Ṣaṣṭi pool—no other gift surpasses what is gained there.
 
-**13.26.35**  Ten thousand sacred fords, and thirty million others besides, all gather at Prayāga in the month of Māgha, O bull of the Bharatas.
+**13.26.35**  Ten thousand sacred fords, and thirty million others besides, all gather at Prayāga in the month of Māgha, O bull of the Bhāratas.
 
-**13.26.36**  He who, restrained and firm in his vows, bathes at Prayāga during the month of Māgha, O best of the Bharatas, becomes spotless and attains heaven.
+**13.26.36**  He who, restrained and firm in his vows, bathes at Prayāga during the month of Māgha, O best of the Bhāratas, becomes spotless and attains heaven.
 
 **13.26.37**  Touching the waters at the Marudgaṇa, pure at the hermitage of the Fathers, and at the ford of Vaivasvata, a man himself becomes as holy as a sacred ford.
 
@@ -2974,7 +2974,7 @@ translator: thothica
 
 **13.27.2**  upon the son of Gaṅgā of abundant lustre, struck down by Arjuna in battle, Yudhiṣṭhira waited in attendance, together with his brothers and others.
 
-**13.27.3**  To that best of the Bharatas, the unshaken one lying upon his hero's bed and awaiting his appointed hour, the great sages came, desiring to behold him.
+**13.27.3**  To that best of the Bhāratas, the unshaken one lying upon his hero's bed and awaiting his appointed hour, the great sages came, desiring to behold him.
 
 **13.27.4**  Atri, Vasiṣṭha, and Bhṛgu, Pulastya, Pulaha, Kratu, Aṅgiras, Gautama, Agastya, Sumati, Svāyu the self-possessed,
 
@@ -3428,7 +3428,7 @@ translator: thothica
 
 **13.31.64**  So too has the lineage of Gṛtsamada been recounted by me to you in full, O great king. What else do you ask?
 
-**13.32.1**  Yudhiṣṭhira said: Who are to be honored, who are to be reverenced by men, O bull of the Bharatas? Tell me this in full, for I am not sated; let it be told.
+**13.32.1**  Yudhiṣṭhira said: Who are to be honored, who are to be reverenced by men, O bull of the Bhāratas? Tell me this in full, for I am not sated; let it be told.
 
 **13.32.2**  Bhīṣma said: On this too they recount this ancient tale, the dialogue of the two, Nārada and Vāsudeva.
 
@@ -3516,7 +3516,7 @@ translator: thothica
 
 **13.33.11**  Some practice farming and the tending of cattle, others live by begging; some are thieves, others liars, and yet others actors and dancers.
 
-**13.33.12**  They are seen in all occupations, the peaceful and the other kind, and endowed with manifold ways of life are the brahmans, O bull of the Bharatas.
+**13.33.12**  They are seen in all occupations, the peaceful and the other kind, and endowed with manifold ways of life are the brahmans, O bull of the Bhāratas.
 
 **13.33.13**  Engaged though they are in diverse occupations and living by many trades, they are knowers of dharma and good men; their praise one should ever proclaim.
 
@@ -3566,7 +3566,7 @@ translator: thothica
 
 **13.34.11**  From the brāhmaṇa alone arises that being whence creatures spring, whence this world comes forth, and whither it goes after death.
 
-**13.34.12**  He knows the path of heaven and likewise of hell, both what has come and what has not yet come—the brāhmaṇa, best of two-footed beings. The brāhmaṇa, O finest of the Bharatas, knows his own dharma by his wisdom.
+**13.34.12**  He knows the path of heaven and likewise of hell, both what has come and what has not yet come—the brāhmaṇa, best of two-footed beings. The brāhmaṇa, O finest of the Bhāratas, knows his own dharma by his wisdom.
 
 **13.34.13**  And those who follow him go not to ruin; they do not perish after death, nor do they come to downfall.
 
@@ -3574,13 +3574,13 @@ translator: thothica
 
 **13.34.15**  Of the kṣatriyas who blaze forth with energy and with might, their splendors and their powers find their quenching in the brāhmaṇas alone.
 
-**13.34.16**  The Bhṛgus conquered the Tālajaṅghas, the Aṅgirases conquered the Nīpas, and Bharadvāja conquered the Vaitahavyas and the Ailas, O bull of the Bharatas.
+**13.34.16**  The Bhṛgus conquered the Tālajaṅghas, the Aṅgirases conquered the Nīpas, and Bharadvāja conquered the Vaitahavyas and the Ailas, O bull of the Bhāratas.
 
 **13.34.17**  These, with the black antelope-skin for their banner, conquered even the Citrāyudhas; and having cast away the water-jars, one should set out upon him who would carry men across.
 
 **13.34.18**  Whatever is told in the world, whatever is heard or seen, all of that abides in the brāhmaṇas, as fire lies hidden in wood.
 
-**13.34.19**  On this point, too, they recite this ancient tale, the dialogue between Vāsudeva and the Earth, O bull of the Bharatas.
+**13.34.19**  On this point, too, they recite this ancient tale, the dialogue between Vāsudeva and the Earth, O bull of the Bhāratas.
 
 **13.34.20**  Vāsudeva said: O auspicious one, mother of all beings, I ask you my doubt: by what deed does a householder put away his sin?
 
@@ -3724,7 +3724,7 @@ translator: thothica
 
 **13.37.19**  in due order, with pure and well-cleansed action—thus the householder, performing his works, falls not away from his sacred duties.
 
-**13.38.1**  Yudhiṣṭhira said: I wish to hear of the nature of women, O best of the Bharatas; for women are the root of faults, and light of mind, O grandsire.
+**13.38.1**  Yudhiṣṭhira said: I wish to hear of the nature of women, O best of the Bhāratas; for women are the root of faults, and light of mind, O grandsire.
 
 **13.38.2**  Bhīṣma said: On this they relate an ancient tale of old—the dialogue between Nārada and the wanton apsaras Pañcacūḍā.
 
@@ -3812,7 +3812,7 @@ translator: thothica
 
 **13.40.2**  On this I shall relate to you an ancient tale—how of old a guarding was accomplished by the great-souled Vipula.
 
-**13.40.3**  And how women were created by Brahmā, O bull of the Bharatas, and to what end—that too I shall declare to you, my son, O lord of the earth.
+**13.40.3**  And how women were created by Brahmā, O bull of the Bhāratas, and to what end—that too I shall declare to you, my son, O lord of the earth.
 
 **13.40.4**  For there is nothing, my son, more given to wickedness than women; a woman is blazing fire, and the wiles born of Maya, O lord; the razor's edge, poison, the serpent, and Death on the one side—and women on the other.
 
@@ -3886,7 +3886,7 @@ translator: thothica
 
 **13.40.39**  See that the king of the gods does not lap up Ruci, O best of the Bhṛgus, as an evil-natured dog laps the oblation set down and placed at the sacrifice.
 
-**13.40.40**  Having thus spoken, that sage, the performer of the sacrifice, then departed—the greatly fortunate Devaśarman, O best of the Bharatas.
+**13.40.40**  Having thus spoken, that sage, the performer of the sacrifice, then departed—the greatly fortunate Devaśarman, O best of the Bhāratas.
 
 **13.40.41**  But Vipula, having heard his teacher's word, fell to brooding, and devised the utmost guard against the king of the gods of great might.
 
@@ -4106,7 +4106,7 @@ translator: thothica
 
 **13.43.22**  For these, O tiger among men, are fierce and of fierce vigor; there is none truly dear to them in union and intercourse with men.
 
-**13.43.23**  These are to be wooed and to be won and to be possessed, O bull of the Bharatas; yet these find no lasting delight in any single man, O joy of the Pāṇḍus.
+**13.43.23**  These are to be wooed and to be won and to be possessed, O bull of the Bhāratas; yet these find no lasting delight in any single man, O joy of the Pāṇḍus.
 
 **13.43.24**  No fondness, and likewise no jealousy, should be shown toward them by men, O lord of people; resting in patience and resting in dharma, let a man enjoy his lot.
 
@@ -4140,11 +4140,11 @@ translator: thothica
 
 **13.44.13**  A man of thirty years should take to wife a girl of ten, still a maiden; or one of twenty-one should win one of seven years.
 
-**13.44.14**  But her who has neither brother nor father, O bull of the Bharatas, one should never marry, for she is bound by the law of the appointed daughter.
+**13.44.14**  But her who has neither brother nor father, O bull of the Bhāratas, one should never marry, for she is bound by the law of the appointed daughter.
 
 **13.44.15**  A maiden who has reached her courses should wait three years; but when the fourth has come, she may herself win a husband.
 
-**13.44.16**  Her chance of offspring is lost, and her pleasure too, O bull of the Bharatas; one who acts otherwise becomes blameworthy before Prajāpati.
+**13.44.16**  Her chance of offspring is lost, and her pleasure too, O bull of the Bhāratas; one who acts otherwise becomes blameworthy before Prajāpati.
 
 **13.44.17**  One who is not a sapiṇḍa of his mother and not of the same gotra as his father—such a one should he take; that law Manu has declared.
 
@@ -4348,7 +4348,7 @@ translator: thothica
 
 **13.47.25**  But whatever wealth has been given by her father to a woman, O Yudhiṣṭhira, the unmarried daughter of a Brāhmaṇa woman shall inherit it; for she is even as a son, O king. She indeed is ordained to be the equal of a son, O delight of the Kurus.
 
-**13.47.26**  Thus has this been set forth among the laws, O bull of the Bharatas. Mindful of this law, a man should not amass wealth to no purpose.
+**13.47.26**  Thus has this been set forth among the laws, O bull of the Bhāratas. Mindful of this law, a man should not amass wealth to no purpose.
 
 **13.47.27**  Yudhiṣṭhira said: If the son born of a Brāhmaṇa upon a Śūdra woman is declared to have no claim to inheritance, on what distinction is even a tenth share assigned to him?
 
@@ -4400,9 +4400,9 @@ translator: thothica
 
 **13.47.51**  For a Vaiśya there shall be but one wife, O delight of the Kurus; or a second may be a Śūdra woman, though she is not held to be such by the rule of precedent.
 
-**13.47.52**  For a Vaiśya who lives with a Vaiśya woman, O bull of the Bharatas, and with a Śūdra woman as well, O son of Kuntī, the division between their offspring is thus declared.
+**13.47.52**  For a Vaiśya who lives with a Vaiśya woman, O bull of the Bhāratas, and with a Śūdra woman as well, O son of Kuntī, the division between their offspring is thus declared.
 
-**13.47.53**  The property of a Vaiśya is to be divided fivefold, O bull of the Bharatas; and the apportionment among the offspring of those two I shall declare, O lord of men.
+**13.47.53**  The property of a Vaiśya is to be divided fivefold, O bull of the Bhāratas; and the apportionment among the offspring of those two I shall declare, O lord of men.
 
 **13.47.54**  By the son of the Vaiśya woman four shares of the father's wealth are to be taken; the fifth share shall fall to the son of the Śūdra woman, O Bhārata.
 
@@ -4550,7 +4550,7 @@ translator: thothica
 
 **13.49.16**  For when a man desiring a son, for a son's sake, takes a woman, O lord of peoples, there the field is the measure, and the son is not reckoned as begotten of his own seed.
 
-**13.49.17**  In another case the son is marked as field-born, O bull of the Bharatas; for one's own self cannot be slain—this is borne out by the established example.
+**13.49.17**  In another case the son is marked as field-born, O bull of the Bhāratas; for one's own self cannot be slain—this is borne out by the established example.
 
 **13.49.18**  And some son is the made one, recognized merely by adoption; there neither seed nor field is the measure, O Yudhiṣṭhira.
 
@@ -4578,7 +4578,7 @@ translator: thothica
 
 **13.50.2**  Bhīṣma said: Come then, I shall relate to you an event of olden days, O greatly radiant one—the colloquy between Nahuṣa and the great sage Cyavana.
 
-**13.50.3**  Of old, O bull of the Bharatas, the great sage Cyavana of Bhṛgu's line, having undertaken a dwelling in the waters, became one of mighty vow.
+**13.50.3**  Of old, O bull of the Bhāratas, the great sage Cyavana of Bhṛgu's line, having undertaken a dwelling in the waters, became one of mighty vow.
 
 **13.50.4**  Having slain pride and anger, and elation and grief as well, the sage held fast to his vow of dwelling in the water for twelve years.
 
@@ -4590,7 +4590,7 @@ translator: thothica
 
 **13.50.8**  The Gaṅgā and the Yamunā, and the streams that follow after them, made their reverent circuit around the sage and did not afflict him.
 
-**13.50.9**  Beneath the water the great sage slept, become like a log of wood; and thereafter the wise one stood upright, O bull of the Bharatas.
+**13.50.9**  Beneath the water the great sage slept, become like a log of wood; and thereafter the wise one stood upright, O bull of the Bhāratas.
 
 **13.50.10**  He became a delight to behold for the creatures that dwell in the water, and the fishes, joyful in heart, came then and nuzzled him; and as he abode there a great span of time passed by.
 
@@ -4598,7 +4598,7 @@ translator: thothica
 
 **13.50.12**  Many Niṣādas, resolved upon hauling up fish, tall, strong, and bold, never turning back in the waters, came to that region, set upon the work of the net.
 
-**13.50.13**  And they fastened together their net with special care, O lord of men, having reached the fish-filled water, O best of the Bharatas.
+**13.50.13**  And they fastened together their net with special care, O lord of men, having reached the fish-filled water, O best of the Bhāratas.
 
 **13.50.14**  Then those fishermen, craving fish, by many contrivances cast their nets over the waters of the Gaṅgā and Yamunā.
 
@@ -4706,11 +4706,11 @@ translator: thothica
 
 **13.51.40**  Bhīṣma said: Then, by the grace of that great sage of purified soul, the Niṣādas, through that word, ascended to heaven together with the fish.
 
-**13.51.41**  Then King Nahuṣa was struck with wonder, beholding the fishermen, and the fish too, ascending to the threefold heaven, O bull of the Bharatas.
+**13.51.41**  Then King Nahuṣa was struck with wonder, beholding the fishermen, and the fish too, ascending to the threefold heaven, O bull of the Bhāratas.
 
 **13.51.42**  Then both the one born of a cow and Cyavana, the upholder of Bhṛgu's line, offered the king his choice of two fitting boons.
 
-**13.51.43**  Then the mighty King Nahuṣa, lord of the earth, well pleased, said "It is excellent," O best of the Bharatas.
+**13.51.43**  Then the mighty King Nahuṣa, lord of the earth, well pleased, said "It is excellent," O best of the Bhāratas.
 
 **13.51.44**  Then that king, equal to Indra, took up a firm standing in dharma; urged "So be it," he, well pleased, paid honor to those two sages in return.
 
@@ -4822,7 +4822,7 @@ translator: thothica
 
 **13.53.11**  When Bhārgava observed that the two remained unmoved, he rose all at once and entered the bathing-chamber; there the bathing appointments, befitting a king, stood already made ready.
 
-**13.53.12**  But the sage, scorning all that, vanished from the very spot once more before the king's eyes; and the royal couple, O bull of the Bharatas, harbored no resentment.
+**13.53.12**  But the sage, scorning all that, vanished from the very spot once more before the king's eyes; and the royal couple, O bull of the Bhāratas, harbored no resentment.
 
 **13.53.13**  Then, having bathed, the venerable lord, the delight of the Bhṛgus, seated upon a lion-throne, showed himself to Kuśika and his wife.
 
@@ -4902,7 +4902,7 @@ translator: thothica
 
 **13.53.51**  In a voice tender, deep, and most serene, Bhārgava said: "Let me grant the two of you a choicest boon; name it," O Bhārata.
 
-**13.53.52**  And that best of sages, the knowing one, touched the two tender ones with his hands, hands like ambrosia, out of affection, O best of the Bharatas.
+**13.53.52**  And that best of sages, the knowing one, touched the two tender ones with his hands, hands like ambrosia, out of affection, O best of the Bhāratas.
 
 **13.53.53**  Then the king spoke: "There is no weariness in us two here; by your power, O Bhārgava, by your very meditation, we are wholly rested."
 
@@ -5116,7 +5116,7 @@ translator: thothica
 
 **13.56.14**  In the third generation Brāhmaṇhood shall come to you, and you shall become a kinsman of the Bhṛgus, whose souls are refined.
 
-**13.56.15**  Bhīṣma said: When king Kuśika heard the words of the great-souled sage Cyavana, he was filled with joy, and that righteous one spoke this word: "So be it," O best of the Bharatas.
+**13.56.15**  Bhīṣma said: When king Kuśika heard the words of the great-souled sage Cyavana, he was filled with joy, and that righteous one spoke this word: "So be it," O best of the Bhāratas.
 
 **13.56.16**  But Cyavana of great brilliance again urged the lord of men to take a boon; and the king said to him:
 
@@ -5144,7 +5144,7 @@ translator: thothica
 
 **13.57.8**  By austerity heaven is won, by austerity fame is won; length of life and enjoyments too are gained by austerity, O mighty one.
 
-**13.57.9**  Knowledge, discernment, health, beauty, prosperity, and good fortune as well—all these are attained by austerity, O bull of the Bharatas.
+**13.57.9**  Knowledge, discernment, health, beauty, prosperity, and good fortune as well—all these are attained by austerity, O bull of the Bhāratas.
 
 **13.57.10**  By austerity one obtains wealth; silence bestows knowledge; enjoyments come through giving, and long life through chastity.
 
@@ -5212,7 +5212,7 @@ translator: thothica
 
 **13.57.42**  Vaiśaṃpāyana said: Having heard those words of his, the delighted son of the Kurus no longer favored dwelling in a hermitage, longing instead for the path of the hero.
 
-**13.57.43**  Then Yudhiṣṭhira, the bull of the Bharatas, that lord addressed the Pāṇḍavas: "Let the words of the Grandsire find favor with you."
+**13.57.43**  Then Yudhiṣṭhira, the bull of the Bhāratas, that lord addressed the Pāṇḍavas: "Let the words of the Grandsire find favor with you."
 
 **13.57.44**  Thereupon all the Pāṇḍavas, and the illustrious Draupadī, honored those words of Yudhiṣṭhira, saying, "So be it."
 
@@ -5222,7 +5222,7 @@ translator: thothica
 
 **13.58.3**  Bhīṣma said: Freedom from fear granted to all beings, and aid given in time of distress; and that which one gives, the very thing he longs for, to a thirsting suppliant who begs—
 
-**13.58.4**  that gift, after giving which one feels he has truly given, is called the best; for it is the gift whose merit follows after the giver, O bull of the Bharatas.
+**13.58.4**  that gift, after giving which one feels he has truly given, is called the best; for it is the gift whose merit follows after the giver, O bull of the Bhāratas.
 
 **13.58.5**  The gift of gold, the gift of cattle, and the gift of land—these indeed are purifying, and they carry across even the doer of evil.
 
@@ -5288,13 +5288,13 @@ translator: thothica
 
 **13.58.36**  Not my father is dearer to me, nor are you, my son, so dear, nor my father's father, O king, nor my own self, nor my life—
 
-**13.58.37**  and though there is none on earth dearer to me than you, yet even dearer to me than you, O bull of the Bharatas, are the brāhmaṇas.
+**13.58.37**  and though there is none on earth dearer to me than you, yet even dearer to me than you, O bull of the Bhāratas, are the brāhmaṇas.
 
 **13.58.38**  This truth I speak, O joy of Pāṇḍu, just as it is; and by that truth may I go to those worlds where Śaṃtanu dwells.
 
 **13.58.39**  And may I behold the pure worlds of the good, with the sacred power set foremost; thither, my son, I must go, both soon and for long to come.
 
-**13.58.40**  And I, having beheld such worlds, O best of the Bharatas, do not repent of what I have done for the brāhmaṇas, O son of Pṛthā.
+**13.58.40**  And I, having beheld such worlds, O best of the Bhāratas, do not repent of what I have done for the brāhmaṇas, O son of Pṛthā.
 
 **13.59.1**  Yudhiṣṭhira said: Of two men who are alike endowed with good conduct, and equal in learning and in birth—to which of these is the gift more excellent, to the one who does not beg or to the one who begs?
 
@@ -5568,9 +5568,9 @@ translator: thothica
 
 **13.61.92**  And what is given to the ancestors becomes imperishable—of this there is no doubt; therefore at śrāddhas let a brāhmaṇa recite this to the twice-born as they dine.
 
-**13.61.93**  Thus have I declared to you, O sinless one, that which is the foremost of all gifts, O tiger of the Bharatas; what more do you wish to hear?
+**13.61.93**  Thus have I declared to you, O sinless one, that which is the foremost of all gifts, O tiger of the Bhāratas; what more do you wish to hear?
 
-**13.62.1**  Yudhiṣṭhira said: What gifts in this world should a king desirous of giving bestow upon brāhmaṇas of surpassing merit, O best of the Bharatas?
+**13.62.1**  Yudhiṣṭhira said: What gifts in this world should a king desirous of giving bestow upon brāhmaṇas of surpassing merit, O best of the Bhāratas?
 
 **13.62.2**  By what are they at once made content, and what, when content, do they grant in return? Tell me this, O mighty-armed one—the great and holy fruit of such merit.
 
@@ -5652,7 +5652,7 @@ translator: thothica
 
 **13.62.41**  Thus food, and the sun, and the wind, and the seed are remembered as one single mass, from which all beings have been born.
 
-**13.62.42**  He who promptly gives food to a needy one come to his house bestows life-breath upon living beings, and splendor as well, O bull of the Bharatas.
+**13.62.42**  He who promptly gives food to a needy one come to his house bestows life-breath upon living beings, and splendor as well, O bull of the Bhāratas.
 
 **13.62.43**  Bhīṣma said: Thus addressed by Nārada, I gave food always, O king. Do you too, free of envy and freed of all fever of heart, give food therefore.
 
@@ -5838,7 +5838,7 @@ translator: thothica
 
 **13.65.28**  He in whose house a man born in a line of teachers, learned in the Vedas and of subdued senses, dwells contented—that giver attains the foremost world.
 
-**13.65.29**  Likewise, a great shelter for the sake of cattle, proof against cold and rain, redeems one's line down to the seventh generation, O best of the Bharatas.
+**13.65.29**  Likewise, a great shelter for the sake of cattle, proof against cold and rain, redeems one's line down to the seventh generation, O best of the Bhāratas.
 
 **13.65.30**  By giving farmland in this world, my son, a man would gain prosperity; and by bestowing a tract rich in gems, he would cause his family line to flourish.
 
@@ -5874,7 +5874,7 @@ translator: thothica
 
 **13.65.46**  This bull, the lord of the cows, is heaven in bodily form; whoever gives him to a brāhmaṇa endowed with virtues is himself exalted in heaven.
 
-**13.65.47**  These are declared to be the very life-breaths of living beings, O bull of the Bharatas; therefore he who gives a milch-cow gives life-breath itself.
+**13.65.47**  These are declared to be the very life-breaths of living beings, O bull of the Bhāratas; therefore he who gives a milch-cow gives life-breath itself.
 
 **13.65.48**  "Cows are the refuge of creatures," thus the knowers of the Veda know; therefore he who gives a milch-cow bestows refuge itself.
 
@@ -5902,7 +5902,7 @@ translator: thothica
 
 **13.65.60**  He who makes a gift of food on the full-moon day of Kārttika, in the bright fortnight, crosses over all straits and, after death, partakes of the infinite.
 
-**13.65.61**  He who, with collected mind, gives food to a guest before he himself has eaten, would surely attain the worlds of those who know Brahman, O bull of the Bharatas.
+**13.65.61**  He who, with collected mind, gives food to a guest before he himself has eaten, would surely attain the worlds of those who know Brahman, O bull of the Bhāratas.
 
 **13.65.62**  Though fallen into the direst calamity, the giver of food crosses over; he crosses beyond sin even here, and casts off his ill deeds.
 
@@ -5912,7 +5912,7 @@ translator: thothica
 
 **13.66.2**  And how is the gift of water supreme here, and of great fruit? This I wish to hear in full, O grandfather.
 
-**13.66.3**  Bhīṣma said: Come, I shall recount it to you faithfully, O bull of the Bharatas; hearken now as I tell it, O you whose valor is truth; beginning with the gift of water, I shall declare it all to you, O sinless one.
+**13.66.3**  Bhīṣma said: Come, I shall recount it to you faithfully, O bull of the Bhāratas; hearken now as I tell it, O you whose valor is truth; beginning with the gift of water, I shall declare it all to you, O sinless one.
 
 **13.66.4**  When a man, having given food and water, then enjoys their fruit—there is, in my judgment, no gift higher than this.
 
@@ -5998,7 +5998,7 @@ translator: thothica
 
 **13.67.26**  Likewise Yama praises lamps, desiring the welfare of the ancestors; therefore the giver of lamps forever carries the fathers across.
 
-**13.67.27**  Lamps should be given always, O most excellent of the Bharatas; for they are held to abide in the eyes of the gods and of the fathers, O lord.
+**13.67.27**  Lamps should be given always, O most excellent of the Bhāratas; for they are held to abide in the eyes of the gods and of the fathers, O lord.
 
 **13.67.28**  The gift of gems too is declared a very great merit, O ruler of men; for selling them, the brāhmaṇa, the giver of safety, performs sacrifice.
 
@@ -6112,7 +6112,7 @@ translator: thothica
 
 **13.69.29**  Granted leave by Kṛṣṇa, having bowed to Janārdana, he mounted a celestial chariot and went to heaven, O subduer of foes.
 
-**13.69.30**  Then, when Nṛga had reached heaven, O best of the Bharatas, Vāsudeva uttered this verse, O joy of the Kurus:
+**13.69.30**  Then, when Nṛga had reached heaven, O best of the Bhāratas, Vāsudeva uttered this verse, O joy of the Kurus:
 
 **13.69.31**  "A discerning man must never seize a brāhmaṇa's property; a brāhmaṇa's property, once seized, destroys, as the brāhmaṇa's cow destroyed Nṛga."
 
@@ -6372,7 +6372,7 @@ translator: thothica
 
 **13.73.10**  Gold they declare to be the purifier of lineages, O performer of a hundred rites; thus has the matter of the fee been told by me in brief, O greatly resplendent one.
 
-**13.73.11**  Bhīṣma said: This was spoken by the Grandsire to Indra, O bull of the Bharatas; Indra told it to Daśaratha, and the father then told it to Rāma.
+**13.73.11**  Bhīṣma said: This was spoken by the Grandsire to Indra, O bull of the Bhāratas; Indra told it to Daśaratha, and the father then told it to Rāma.
 
 **13.73.12**  Rāghava in turn told it to his dear brother, the glorious Lakṣmaṇa; and by Lakṣmaṇa, dwelling in the forest, it was told to the seers, O lord.
 
@@ -6732,7 +6732,7 @@ translator: thothica
 
 **13.80.2**  Bhīṣma said: Cattle are of great worth and are holy, and they carry men across; and these creatures they sustain with their milk and with the oblation.
 
-**13.80.3**  There is nothing more holy than cattle, O best of the Bharatas; they are pure and holy, unsurpassed throughout the three worlds.
+**13.80.3**  There is nothing more holy than cattle, O best of the Bhāratas; they are pure and holy, unsurpassed throughout the three worlds.
 
 **13.80.4**  And above even the gods the cattle have their dwelling; and by bestowing them, O lord of men, the wise go forth to heaven.
 
@@ -6748,7 +6748,7 @@ translator: thothica
 
 **13.80.10**  What is the highest of gifts, and what beyond that is the supreme rite of offering? And what is the purest of pure things — tell me that, O sinless one.
 
-**13.80.11**  Hearing these words, Vyāsa, supreme knower of dharma, told his son all of it truly, O bull of the Bharatas.
+**13.80.11**  Hearing these words, Vyāsa, supreme knower of dharma, told his son all of it truly, O bull of the Bhāratas.
 
 **13.80.12**  Vyāsa said: The cows are the foundation of all beings, and the cows are their refuge; the cows are holy and pure, the very means of purification and dharma itself.
 
@@ -6778,7 +6778,7 @@ translator: thothica
 
 **13.80.25**  There are golden mountains, masses of rock of gems and jewels, that shine with lovely upraised peaks made of every precious stone.
 
-**13.80.26**  There the trees, ever in flower and fruit, throng with birds, bearing blossoms and fruits of divine fragrance and savour, O bull of the Bharatas.
+**13.80.26**  There the trees, ever in flower and fruit, throng with birds, bearing blossoms and fruits of divine fragrance and savour, O bull of the Bhāratas.
 
 **13.80.27**  There the doers of holy deeds disport themselves forever, O Yudhiṣṭhira, every desire fulfilled, free of sorrow, their wrath departed.
 
@@ -6820,7 +6820,7 @@ translator: thothica
 
 **13.81.1**  Yudhiṣṭhira said: I have heard that the dung of cows is graced by Śrī. This I wish to hear, for herein my doubt is great.
 
-**13.81.2**  Bhīṣma said: On this too they recount an ancient tale, O king — a colloquy between the cows and Śrī, O best of the Bharatas.
+**13.81.2**  Bhīṣma said: On this too they recount an ancient tale, O king — a colloquy between the cows and Śrī, O best of the Bhāratas.
 
 **13.81.3**  Śrī, having assumed a lovely form, entered into the midst of the cows; and the cows, beholding the perfection of her beauty, were amazed.
 
@@ -6994,7 +6994,7 @@ translator: thothica
 
 **13.83.15**  Then, breaking through that arrangement of darbha grass, an arm rose up, adorned with a lovely armlet and with pendent ornaments, O lord of peoples.
 
-**13.83.16**  Seeing it risen up, I fell into utter astonishment, thinking, 'It is my father in person, come to receive the offering,' O bull of the Bharatas.
+**13.83.16**  Seeing it risen up, I fell into utter astonishment, thinking, 'It is my father in person, come to receive the offering,' O bull of the Bhāratas.
 
 **13.83.17**  Then my reason returned to me, and reflecting upon the scriptures I thought: 'This rule is not enjoined in the Vedas—that the offering be placed into a hand'; and this conviction arose in me, O lord.
 
@@ -7002,23 +7002,23 @@ translator: thothica
 
 **13.83.19**  Then, disregarding the appearance of my father's hand, mindful of the subtle rule on the authority of scripture, O king—
 
-**13.83.20**  I offered all of it upon the darbha grass, O bull of the Bharatas, following the path of scripture; know this, O bull among men.
+**13.83.20**  I offered all of it upon the darbha grass, O bull of the Bhāratas, following the path of scripture; know this, O bull among men.
 
 **13.83.21**  Thereupon that arm of my father vanished, O ruler of men; and then the fathers showed themselves to me at the close of a dream.
 
-**13.83.22**  And being well pleased they said to me: 'We are pleased, O bull of the Bharatas, by this discernment of yours, in that you are not led astray from dharma.'
+**13.83.22**  And being well pleased they said to me: 'We are pleased, O bull of the Bhāratas, by this discernment of yours, in that you are not led astray from dharma.'
 
 **13.83.23**  'For by making scripture your authority herein, O king, you have honored—as the great sages do—the self, dharma, sacred learning, the Vedas, and the fathers.'
 
 **13.83.24**  'The grandsire Brahmā himself, the teachers, and Prajāpati have been upheld as authority, and the established order has not been shaken.'
 
-**13.83.25**  'This rite has been rightly begun by you today, O bull of the Bharatas; but for the sake of land and cattle, let gold be given.'
+**13.83.25**  'This rite has been rightly begun by you today, O bull of the Bhāratas; but for the sake of land and cattle, let gold be given.'
 
 **13.83.26**  'Thus shall we, and dharma, and all our forefathers be purified; for that is the highest purification.'
 
 **13.83.27**  'Those who bestow gold carry across ten ancestors before them and ten descendants after'—thus did my fathers speak to me.
 
-**13.83.28**  Then, awakened in astonishment, O king, O lord of peoples, I set my mind upon the gift of gold, O best of the Bharatas.
+**13.83.28**  Then, awakened in astonishment, O king, O lord of peoples, I set my mind upon the gift of gold, O best of the Bhāratas.
 
 **13.83.29**  Hear too this ancient tale, O king, concerning the son of Jamadagni, O mighty one—a tale that bestows fortune and long life.
 
@@ -7580,7 +7580,7 @@ translator: thothica
 
 **13.90.17**  For as long as one unfit for the row gazes upon those eating in the row, so long does he strip the foolish giver of his reward.
 
-**13.90.18**  But these, O best of the Bharatas, are to be known as sanctifiers of the row; those who are such I shall now declare—examine these brāhmaṇas here.
+**13.90.18**  But these, O best of the Bhāratas, are to be known as sanctifiers of the row; those who are such I shall now declare—examine these brāhmaṇas here.
 
 **13.90.19**  Brāhmaṇas who have completed their study of the Veda and their vows of the bath are, every one, worthy of the row; and those whom I shall name as worthy should be known as sanctifiers of the row.
 
@@ -8070,7 +8070,7 @@ translator: thothica
 
 **13.96.1**  Bhīṣma said: On this very matter they recount an ancient tale—what came to pass on a pilgrimage to the holy fords, concerning an oath. Hear it.
 
-**13.96.2**  O best of the Bharatas, in olden days, O great king, a theft was committed over a lotus by royal seers and likewise by brāhmaṇa seers.
+**13.96.2**  O best of the Bhāratas, in olden days, O great king, a theft was committed over a lotus by royal seers and likewise by brāhmaṇa seers.
 
 **13.96.3**  The seers, gathered together in the west at Prabhāsa, took counsel among themselves: "Let us all roam the earth and its holy fords—that is our task; come now, let us all set out."
 
@@ -8176,7 +8176,7 @@ translator: thothica
 
 **13.96.54**  And whoever meditates upon this scripture, guarded by the seers, will go, O best of men, to the imperishable world of Brahmā.
 
-**13.97.1**  Yudhiṣṭhira said: O bull of the Bharatas, the umbrella and the pair of sandals that are given away in the rites of the funeral offering—by whom was this first set in motion? How did it come to be, and for what purpose is it given?
+**13.97.1**  Yudhiṣṭhira said: O bull of the Bhāratas, the umbrella and the pair of sandals that are given away in the rites of the funeral offering—by whom was this first set in motion? How did it come to be, and for what purpose is it given?
 
 **13.97.2**  Not only in the rite of the śrāddha, but in works of merit as well, is this given. I wish to hear of it in full and in truth, O king.
 
@@ -8264,17 +8264,17 @@ translator: thothica
 
 **13.98.17**  Therefore bestow upon brāhmaṇas the finest parasol and sandals; great indeed shall be your merit. Of this I have no doubt.
 
-**13.98.18**  For whoever, O best of the Bharatas, should give to a brāhmaṇa a parasol, white and of a hundred ribs, he, when he has departed, flourishes in happiness.
+**13.98.18**  For whoever, O best of the Bhāratas, should give to a brāhmaṇa a parasol, white and of a hundred ribs, he, when he has departed, flourishes in happiness.
 
-**13.98.19**  He dwells in the world of Śakra, ever honored by brāhmaṇas and by the apsarases and by the gods, O bull of the Bharatas.
+**13.98.19**  He dwells in the world of Śakra, ever honored by brāhmaṇas and by the apsarases and by the gods, O bull of the Bhāratas.
 
 **13.98.20**  He who gives a pair of sandals to a brāhmaṇa scorched by the heat, to a snātaka, O mighty-armed one, to a brāhmaṇa firm in his vows—
 
 **13.98.21**  he too attains worlds honored by the gods, and in the world of cows, filled with joy, he dwells when he has departed, O Bhārata.
 
-**13.98.22**  This, O best of the Bharatas, has been told by me in full—the fruit of the gift of parasol and sandals, O most excellent of the Bharatas.
+**13.98.22**  This, O best of the Bhāratas, has been told by me in full—the fruit of the gift of parasol and sandals, O most excellent of the Bhāratas.
 
-**13.99.1**  Yudhiṣṭhira said: O delight of the Kurus, the fruit that comes from groves and from reservoirs of water—that I wish to hear from you this day, O bull of the Bharatas.
+**13.99.1**  Yudhiṣṭhira said: O delight of the Kurus, the fruit that comes from groves and from reservoirs of water—that I wish to hear from you this day, O bull of the Bhāratas.
 
 **13.99.2**  Bhīṣma said: Fair to behold, clothed in forest, adorned with bright mineral ores, and furnished with all seeds—such land is here said to be the best.
 
@@ -8340,11 +8340,11 @@ translator: thothica
 
 **13.99.33**  Therefore let a man dig a reservoir, and let him plant pleasure-gardens; let him worship with sacrifices of many kinds, and let him speak the truth unfailingly.
 
-**13.100.1**  Yudhiṣṭhira said: Declare to me the whole duty of the householder, O bull of the Bharatas; by doing what, O king, does a man attain prosperity in this world?
+**13.100.1**  Yudhiṣṭhira said: Declare to me the whole duty of the householder, O bull of the Bhāratas; by doing what, O king, does a man attain prosperity in this world?
 
 **13.100.2**  Bhīṣma said: On this matter I shall relate to you an ancient happening, O lord of men, the dialogue of Vāsudeva and the Earth, O descendant of Bharata.
 
-**13.100.3**  Having praised the goddess Earth, the mighty Vāsudeva questioned her, O best of the Bharatas, on the very thing you now ask of me.
+**13.100.3**  Having praised the goddess Earth, the mighty Vāsudeva questioned her, O best of the Bhāratas, on the very thing you now ask of me.
 
 **13.100.4**  Vāsudeva said: For one who has taken up the householder's life, by me or by one of my kind, what, O Earth, must of necessity be done, and by doing what does a man become happy?
 
@@ -8390,7 +8390,7 @@ translator: thothica
 
 **13.100.25**  Thus mindful of the householder's duty, O ruler of men, you shall win fame in this world and, departing, shall attain heaven.
 
-**13.101.1**  Yudhiṣṭhira said: This thing called the giving of light—of what nature is it, O bull of the Bharatas? How did it arise, and what is its fruit? Tell me of it.
+**13.101.1**  Yudhiṣṭhira said: This thing called the giving of light—of what nature is it, O bull of the Bhāratas? How did it arise, and what is its fruit? Tell me of it.
 
 **13.101.2**  Bhīṣma said: On this too they cite an ancient tale, the discourse of Manu the Lord of Creatures and of Suvarṇa, O descendant of Bharata.
 
@@ -8520,7 +8520,7 @@ translator: thothica
 
 **13.101.65**  And Nārada too told these virtues to me, O greatly resplendent one; do you also, having understood all this here, act upon it, my son.
 
-**13.102.1**  Yudhiṣṭhira said: I have heard, O best of the Bharatas, the fruit of those who offer flowers and incense, and the rule of oblation; you should tell me more of it.
+**13.102.1**  Yudhiṣṭhira said: I have heard, O best of the Bhāratas, the fruit of those who offer flowers and incense, and the rule of oblation; you should tell me more of it.
 
 **13.102.2**  What is the fruit of giving incense, and likewise of the lamp, and for what purpose are oblations cast forth by householders?
 
@@ -8622,7 +8622,7 @@ translator: thothica
 
 **13.103.22**  Bhṛgu said: Since in wrath you struck this great sage upon the head with your foot, therefore become a serpent and go swiftly to the earth, O most wicked-minded one!
 
-**13.103.23**  Thus addressed by him, by Bhṛgu unseen, he then became a serpent and fell to the surface of the earth, O bull of the Bharatas.
+**13.103.23**  Thus addressed by him, by Bhṛgu unseen, he then became a serpent and fell to the surface of the earth, O bull of the Bhāratas.
 
 **13.103.24**  For had Nahuṣa beheld Bhṛgu, O lord of the earth, he would not have had the power to cast him down by his splendor.
 
@@ -8652,7 +8652,7 @@ translator: thothica
 
 **13.103.37**  For as many twinklings of the eye as the lamp burns, for so many years does the giver of the lamp become a man of beauty and of wealth.
 
-**13.104.1**  Yudhiṣṭhira said: Those dull men who steal the property of Brāhmaṇas, O bull of the Bharatas—the cruel-doing, deluded—whither do such men go?
+**13.104.1**  Yudhiṣṭhira said: Those dull men who steal the property of Brāhmaṇas, O bull of the Bhāratas—the cruel-doing, deluded—whither do such men go?
 
 **13.104.2**  Bhīṣma said: On this too they recount an ancient tale—the colloquy of a Caṇḍāla and a base-born Kṣatriya, O Bhārata.
 
@@ -8708,7 +8708,7 @@ translator: thothica
 
 **13.104.28**  Bhīṣma said: Thus addressed, O king, scorcher of foes, he then offered up his life in the forefront of battle for the sake of a Brahmin's property, and won the goal he had longed for.
 
-**13.104.29**  Therefore the property of Brahmins must be guarded by you, my son, O bull of the Bharatas, if you desire, O mighty-armed one, the eternal and supreme goal.
+**13.104.29**  Therefore the property of Brahmins must be guarded by you, my son, O bull of the Bhāratas, if you desire, O mighty-armed one, the eternal and supreme goal.
 
 **13.105.1**  Yudhiṣṭhira said: Is there but one world for all the doers of good deeds, O grandsire, or is there even there a diversity of worlds? Tell me this, O grandsire.
 
@@ -9160,7 +9160,7 @@ translator: thothica
 
 **13.107.121**  Facing the east, with collected mind, one should have the trimming of the beard performed, or else facing the north, O king of kings; thus one wins long life.
 
-**13.107.122**  One should utter no slander, neither of others nor of oneself; slander, it is declared, conduces not to righteousness, O bull of the Bharatas.
+**13.107.122**  One should utter no slander, neither of others nor of oneself; slander, it is declared, conduces not to righteousness, O bull of the Bhāratas.
 
 **13.107.123**  He should avoid a deformed woman, and likewise a deformed maiden, O best of men—and one bearing the same lineage-name (gotra), or one born of his own mother's family.
 
@@ -9214,7 +9214,7 @@ translator: thothica
 
 **13.107.148**  This, conferring fame, conferring long life, leading to heaven, a great means of well-being, was proclaimed by Brahmā out of compassion for all the classes of men.
 
-**13.108.1**  Yudhiṣṭhira said: How an elder should bear himself toward his juniors, O bull of the Bharatas, and how juniors should bear themselves toward an elder—that tell me.
+**13.108.1**  Yudhiṣṭhira said: How an elder should bear himself toward his juniors, O bull of the Bhāratas, and how juniors should bear themselves toward an elder—that tell me.
 
 **13.108.2**  Bhīṣma said: Bear yourself as an elder, my son, for you are ever the eldest; weightier is the conduct of the teacher than that of the pupil, O Bhārata.
 
@@ -9250,7 +9250,7 @@ translator: thothica
 
 **13.108.18**  These two, the father and the mother, bring forth the body, O Bhārata; but the birth that the teacher fashions by his instruction—that is the true one, free from age and death.
 
-**13.108.19**  An elder sister too is the equal of a mother, O bull of the Bharatas; and a brother's wife is likewise to be esteemed, at whose breast in childhood one may have drunk.
+**13.108.19**  An elder sister too is the equal of a mother, O bull of the Bhāratas; and a brother's wife is likewise to be esteemed, at whose breast in childhood one may have drunk.
 
 **13.109.1**  Yudhiṣṭhira said: Among all the classes, and even among the barbarian peoples, O grandsire, this inclination toward fasting exists; yet its cause we do not understand.
 
@@ -9260,17 +9260,17 @@ translator: thothica
 
 **13.109.4**  Fasting is the supreme merit; fasting is the highest refuge. By fasting here, O best of men, what fruit does one obtain?
 
-**13.109.5**  By what is one freed from unrighteousness, and how does one attain to righteousness? How does one win heaven and merit, O best of the Bharatas?
+**13.109.5**  By what is one freed from unrighteousness, and how does one attain to righteousness? How does one win heaven and merit, O best of the Bhāratas?
 
 **13.109.6**  And having fasted, what should be given thereafter, O ruler of men, by which, through righteousness, one might gain happiness and wealth—tell me that.
 
 **13.109.7**  Vaiśaṃpāyana said: To the son of Kuntī, knower of dharma, son of Dharma, as he spoke thus, Bhīṣma the son of Śaṃtanu, knower of the truth of dharma, said these words.
 
-**13.109.8**  Verily, O great king, this was heard of old—what excellent virtues lie in the practice of fasting, O bull of the Bharatas.
+**13.109.8**  Verily, O great king, this was heard of old—what excellent virtues lie in the practice of fasting, O bull of the Bhāratas.
 
 **13.109.9**  For I once questioned Aṅgiras, descendant of Prajāpati, O Bhārata; just as you question me, so did I question that sage rich in austerity.
 
-**13.109.10**  Questioned by me with this very question, the blessed one, sprung from fire, set forth the meritorious rule of fasting, O bull of the Bharatas.
+**13.109.10**  Questioned by me with this very question, the blessed one, sprung from fire, set forth the meritorious rule of fasting, O bull of the Bhāratas.
 
 **13.109.11**  Aṅgiras said: For the brāhmaṇa and the kṣatriya a fast of three nights is enjoined, O delight of the Kurus, and here also one of twice three nights is laid down, O bull among men.
 
@@ -9316,7 +9316,7 @@ translator: thothica
 
 **13.109.32**  He who, month by month for twelve years, fasts through three nights at a stretch attains lordship over hosts, free of rivals and unsullied.
 
-**13.109.33**  All these observances, O best of the Bharatas, are to be performed for twelve autumns by one who keeps to the round of active life.
+**13.109.33**  All these observances, O best of the Bhāratas, are to be performed for twelve autumns by one who keeps to the round of active life.
 
 **13.109.34**  But he who eats at dawn and again at evening, drinking nothing between, ever devoted to non-injury and pouring oblations into Jātavedas the fire—
 
@@ -9358,7 +9358,7 @@ translator: thothica
 
 **13.109.53**  And he who, even if afflicted or diseased, undertakes the fast unto death rejoices in heaven, O lord, for a hundred thousand years, and as he sleeps is roused by the sound of girdles and anklets.
 
-**13.109.54**  Borne in a celestial car yoked with a thousand swans, gleaming like the moon and thronged with a hundred women, he goes and there takes his delight, O bull of the Bharatas.
+**13.109.54**  Borne in a celestial car yoked with a thousand swans, gleaming like the moon and thronged with a hundred women, he goes and there takes his delight, O bull of the Bhāratas.
 
 **13.109.55**  For the wasted, replenishment is seen as good; for the wounded, the healing of the wound; for the diseased, a wealth of medicines; and for the angry, appeasement.
 
@@ -9656,9 +9656,9 @@ translator: thothica
 
 **13.110.133**  Having gone to heaven in his own body, O king, like an immortal, he enjoys the holy heaven at will, according to the ordinance.
 
-**13.110.134**  This, O best of the Bharatas, is the supreme ordinance of sacrifices, expounded to you in due order, which yields the fruit of fasting.
+**13.110.134**  This, O best of the Bhāratas, is the supreme ordinance of sacrifices, expounded to you in due order, which yields the fruit of fasting.
 
-**13.110.135**  Thus, O Pārtha, the fruit of sacrifice may be won even by men of no means; by performing this fast one shall attain the supreme goal, O best of the Bharatas, if he delights in the worship of gods and of the twice-born.
+**13.110.135**  Thus, O Pārtha, the fruit of sacrifice may be won even by men of no means; by performing this fast one shall attain the supreme goal, O best of the Bhāratas, if he delights in the worship of gods and of the twice-born.
 
 **13.110.136**  This ordinance of fasting has been proclaimed at length, ordained for the restrained, the vigilant, the pure, the great of soul,
 
@@ -9990,7 +9990,7 @@ translator: thothica
 
 **13.114.1**  Yudhiṣṭhira said: Non-harming, the rites enjoined by the Veda, meditation, the restraint of the senses, austerity, and service to one's elders — which of these is best for a man?
 
-**13.114.2**  Bṛhaspati said: All these, every one, are separate gateways of dharma; hear them, O bull of the Bharatas, all six as I proclaim them in full.
+**13.114.2**  Bṛhaspati said: All these, every one, are separate gateways of dharma; hear them, O bull of the Bhāratas, all six as I proclaim them in full.
 
 **13.114.3**  Come, I shall declare the unsurpassed and highest good of every creature: the dharma that rests upon non-harming, which a man should indeed bring to fulfillment.
 
@@ -10142,7 +10142,7 @@ translator: thothica
 
 **13.116.50**  The oblation hallowed by sacred verses, consecrated and sprinkled and pure, by the authority declared in the Veda and used in the rites for the ancestors—anything otherwise is flesh taken in vain and not to be eaten, so Manu has declared.
 
-**13.116.51**  Such eating bars heaven and renown and is fit for demons, O bull of the Bharatas; for in former times men ate flesh, O king, only according to the ordinance.
+**13.116.51**  Such eating bars heaven and renown and is fit for demons, O bull of the Bhāratas; for in former times men ate flesh, O king, only according to the ordinance.
 
 **13.116.52**  The man who would have himself wholly free from harm should in every way shun the flesh of living beings here.
 
@@ -10566,11 +10566,11 @@ translator: thothica
 
 **13.124.22**  And whoever reads this tale told to the Pāṇḍava, at each parva-juncture, will reach the world of the gods and dwell in supreme bliss in the Nandana grove.
 
-**13.125.1**  Yudhiṣṭhira said: By conciliation or by giving—which do you hold the better? Declare to me, O best of the Bharatas, which of the two prevails here.
+**13.125.1**  Yudhiṣṭhira said: By conciliation or by giving—which do you hold the better? Declare to me, O best of the Bhāratas, which of the two prevails here.
 
 **13.125.2**  Bhīṣma said: One man is won over by conciliation, and another by a gift; having understood a man's nature, one should resort to one of these two.
 
-**13.125.3**  But hear from me, O king, the virtues of gentle speech, O bull of the Bharatas—how even fierce creatures may be propitiated by gentleness.
+**13.125.3**  But hear from me, O king, the virtues of gentle speech, O bull of the Bhāratas—how even fierce creatures may be propitiated by gentleness.
 
 **13.125.4**  On this they cite an ancient tale: how a twice-born man, seized by a rākṣasa in the forest, was set free.
 
@@ -10646,7 +10646,7 @@ translator: thothica
 
 **13.126.2**  From you, O tamer of foes, I wish to hear what is joined with dharma and artha, bringing happiness in time to come, and a wonder to the world.
 
-**13.126.3**  This time has come upon us when kinsmen and friends are hard to keep, and there is no teacher for us but you, O bull of the Bharatas.
+**13.126.3**  This time has come upon us when kinsmen and friends are hard to keep, and there is no teacher for us but you, O bull of the Bhāratas.
 
 **13.126.4**  If I, together with my brothers, am worthy of your grace, O sinless one, then deign, O king, to answer us the question that I ask you.
 
@@ -12388,7 +12388,7 @@ translator: thothica
 
 **13.144.1**  Yudhiṣṭhira said: Tell me the fruit of honoring the Brāhmaṇas, O Madhusūdana; you are the knower of this matter, for the grandsire knows you well.
 
-**13.144.2**  Vāsudeva said: Listen attentively, O king, bull of the Bharatas, as I tell truly of the virtues of the twice-born, O best of the Kurus.
+**13.144.2**  Vāsudeva said: Listen attentively, O king, bull of the Bhāratas, as I tell truly of the virtues of the twice-born, O best of the Kurus.
 
 **13.144.3**  Pradyumna, vexed by certain Brāhmaṇas, once asked me: What fruit is there, O Madhusūdana, in honoring the Brāhmaṇas, for one who is himself a lord, both here and in the world beyond?
 
@@ -12482,11 +12482,11 @@ translator: thothica
 
 **13.144.48**  Then I was filled with wonder, seeing it all renewed and whole, and in my mind, O son of Rukmiṇī, I rendered homage to that Brāhmaṇa.
 
-**13.144.49**  Thus, O bull of the Bharatas, when the son of Rukmiṇī inquired, I then recounted in full the greatness of that foremost of the twice-born.
+**13.144.49**  Thus, O bull of the Bhāratas, when the son of Rukmiṇī inquired, I then recounted in full the greatness of that foremost of the twice-born.
 
 **13.144.50**  So you too, O son of Kuntī, O lord, ever honor the highly blessed Brāhmaṇas always, with words and with gifts.
 
-**13.144.51**  Thus did I obtain the reward born of the grace of the Brāhmaṇas; and what this Bhīṣma has told you is the truth, O bull of the Bharatas.
+**13.144.51**  Thus did I obtain the reward born of the grace of the Brāhmaṇas; and what this Bhīṣma has told you is the truth, O bull of the Bhāratas.
 
 **13.145.1**  Yudhiṣṭhira said: That knowledge which you then gained, O Madhusūdana, by the grace of Durvāsas—this you ought to expound to me.
 
@@ -12578,7 +12578,7 @@ translator: thothica
 
 **13.146.4**  His fierce and terrible body is Agni, the lightning, the sun; while his benign and gentle one is Dharma, the waters, and the moon.
 
-**13.146.5**  Half of his self is said to be Agni, O bull of the Bharatas; and that benign body of his practices chastity.
+**13.146.5**  Half of his self is said to be Agni, O bull of the Bhāratas; and that benign body of his practices chastity.
 
 **13.146.6**  His most terrible form, by which he dissolves the world—because of his lordship and his greatness he is therefore remembered as Maheśvara, the Great Lord.
 
@@ -12668,7 +12668,7 @@ translator: thothica
 
 **13.147.20**  The path of the three has been declared; act accordingly. No quibbling inquiry should be made by over-reasoning about dharma.
 
-**13.147.21**  Always, O best of the Bharatas, let there be no doubt in you here. Trusting like a blind, dull man, do what I tell you.
+**13.147.21**  Always, O best of the Bhāratas, let there be no doubt in you here. Trusting like a blind, dull man, do what I tell you.
 
 **13.147.22**  Non-violence, truth, freedom from anger, and giving—cultivate this fourfold practice, O Ajātaśatru; this is the eternal dharma.
 
@@ -12754,7 +12754,7 @@ translator: thothica
 
 **13.149.2**  In a time of non-gain one gains nothing even when effort is made; in a time of gain, without effort, one obtains abundant wealth. And by the hundreds men are seen whose efforts bear no fruit.
 
-**13.149.3**  If effort were decisive, a mortal would gain every fruit, and nothing unattainable would remain unattained for men, O best of the Bharatas.
+**13.149.3**  If effort were decisive, a mortal would gain every fruit, and nothing unattainable would remain unattained for men, O best of the Bhāratas.
 
 **13.149.4**  For one man is seen fruitless though he has made effort, seeking wealth by a hundred prudent ways; while another, taking no proper course at all, is happy.
 
@@ -12956,7 +12956,7 @@ translator: thothica
 
 **13.153.17**  With the officiating priests, who were like Brahmā himself, and with his brothers and with the imperishable Kṛṣṇa, he approached the one who lay upon the bed of arrows, encircled by sages—
 
-**13.153.18**  and the King of Dharma, Yudhiṣṭhira, together with his brothers, O Kaurava, spoke to that best of the Bharatas, the recumbent son of the river:
+**13.153.18**  and the King of Dharma, Yudhiṣṭhira, together with his brothers, O Kaurava, spoke to that best of the Bhāratas, the recumbent son of the river:
 
 **13.153.19**  "I am Yudhiṣṭhira, O king; homage to you, son of Jāhnavī. If you can hear me, O mighty-armed one, tell me—what may I do for you?
 
@@ -13034,7 +13034,7 @@ translator: thothica
 
 **13.154.6**  Like a great meteor, O lord of men, it issued forth from the region of Bhīṣma's head, entered the sky, and in a moment vanished from sight.
 
-**13.154.7**  Thus, O tiger among kings, the king, the son of Śaṃtanu, upholder of the line of the Bharatas, was then united with his own worlds.
+**13.154.7**  Thus, O tiger among kings, the king, the son of Śaṃtanu, upholder of the line of the Bhāratas, was then united with his own worlds.
 
 **13.154.8**  Then, taking timber and many varied fragrances, the great-souled Pāṇḍavas, and Vidura, and Yuyutsu the Kaurava, built the funeral pyre; the others stood by as onlookers.
 
@@ -13052,7 +13052,7 @@ translator: thothica
 
 **13.154.15**  And having performed the rites for the best of the Kurus, the son of Gaṅgā, those foremost of the Kurus, upholders of the Kuru line, went to the bank of the Bhāgīrathī, frequented by sages.
 
-**13.154.16**  Followed by Vyāsa, by Nārada and Asita, by Kṛṣṇa, by the women of the Bharatas, and by such townsfolk as had gathered there,
+**13.154.16**  Followed by Vyāsa, by Nārada and Asita, by Kṛṣṇa, by the women of the Bhāratas, and by such townsfolk as had gathered there,
 
 **13.154.17**  those best of kṣatriyas, and all that assembled folk, then offered the water-libation for the great-souled son of Gaṅgā, according to ordinance.
 

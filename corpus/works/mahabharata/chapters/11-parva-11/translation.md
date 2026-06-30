@@ -232,7 +232,7 @@ translator: thothica
 
 **11.5.15**  And upon the boughs of that tree, clinging to its branches, were bees of many kinds, dreadful of form and fearful to behold, settled there, having gathered honey before, born of the hive.
 
-**11.5.16**  Again and again they crave the honey, O bull of the Bharatas — honey so sweet to all creatures that not even a child is sated by it.
+**11.5.16**  Again and again they crave the honey, O bull of the Bhāratas — honey so sweet to all creatures that not even a child is sated by it.
 
 **11.5.17**  From that honey a stream flows down forever in many a trickle; and that man, hanging there, drinks of the stream without ceasing, yet his thirst is not stilled as he drinks on in his plight.
 
@@ -280,7 +280,7 @@ translator: thothica
 
 **11.7.5**  Therefore those versed in the scriptures call this very thing a road; and the thicket of worldly existence the thoughtful call a forest.
 
-**11.7.6**  This is the world's revolving round for mortals, O bull of the Bharatas, for moving and unmoving things alike; therein the wise man should not be greedy.
+**11.7.6**  This is the world's revolving round for mortals, O bull of the Bhāratas, for moving and unmoving things alike; therein the wise man should not be greedy.
 
 **11.7.7**  The diseases of mortals, whether of the body or of the mind, whether seen or unseen — these are declared by the wise to be the beasts of prey.
 
@@ -454,7 +454,7 @@ translator: thothica
 
 **11.10.3**  "Your son, O great king, having wrought a most arduous deed, has gone, O king, together with his followers, to the world of Indra, that guardian of the earth."
 
-**11.10.4**  "Of Duryodhana's host we three chariot-warriors alone are left; all the rest of your army has perished utterly, O bull of the Bharatas."
+**11.10.4**  "Of Duryodhana's host we three chariot-warriors alone are left; all the rest of your army has perished utterly, O bull of the Bhāratas."
 
 **11.10.5**  Having thus spoken to the king, Kṛpa the son of Śaradvat then addressed these words to Gāndhārī, stricken with grief for her sons.
 
@@ -502,7 +502,7 @@ translator: thothica
 
 **11.11.4**  Behind him went Draupadī, stricken with deep sorrow and wasted by grief, together with the women of Pāñcāla who had gathered there.
 
-**11.11.5**  Along the Gaṅgā, O best of the Bharatas, he beheld throngs of women crying out in their anguish like grieving ospreys.
+**11.11.5**  Along the Gaṅgā, O best of the Bhāratas, he beheld throngs of women crying out in their anguish like grieving ospreys.
 
 **11.11.6**  The king was surrounded by those weeping women in their thousands, who with arms upraised and stricken with grief spoke words both kind and bitter.
 
@@ -540,7 +540,7 @@ translator: thothica
 
 **11.11.23**  "Grieve not, Dhṛtarāṣṭra; this is no Bhīma you have slain. It was an iron image, O king, that you have struck down.
 
-**11.11.24**  Knowing you had fallen under the sway of wrath, O bull of the Bharatas, I drew the son of Kuntī away, though he had passed between the very fangs of death.
+**11.11.24**  Knowing you had fallen under the sway of wrath, O bull of the Bhāratas, I drew the son of Kuntī away, though he had passed between the very fangs of death.
 
 **11.11.25**  For there is none, O tiger among kings, who is your equal in strength. What man, O mighty-armed one, could endure the grip of your arms?
 
@@ -742,7 +742,7 @@ translator: thothica
 
 **11.16.18**  "Behold, lotus-eyed one, these daughters-in-law of mine, their lords slain, their hair dishevelled, shrieking like ospreys, O Mādhava!"
 
-**11.16.19**  "These women, having come together and remembering the bulls of the Bharatas, run, each apart, toward their sons, their brothers, their fathers, their husbands."
+**11.16.19**  "These women, having come together and remembering the bulls of the Bhāratas, run, each apart, toward their sons, their brothers, their fathers, their husbands."
 
 **11.16.20**  "The field, O mighty-armed one, is covered with mothers of heroes whose sons are slain, and here and there crowded with wives of heroes whose heroes are slain."
 

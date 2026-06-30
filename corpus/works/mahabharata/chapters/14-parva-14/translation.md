@@ -618,7 +618,7 @@ translator: thothica
 
 **14.11.18**  As he was thus seized by Vṛtra, a great bewilderment came over him; but Vasiṣṭha, my son, roused him again to consciousness with the Rathaṃtara hymn.
 
-**14.11.19**  Then the lord of a hundred sacrifices slew Vṛtra, who dwelt within his body, O bull of the Bharatas, with an unseen thunderbolt—so have we heard it here.
+**14.11.19**  Then the lord of a hundred sacrifices slew Vṛtra, who dwelt within his body, O bull of the Bhāratas, with an unseen thunderbolt—so have we heard it here.
 
 **14.11.20**  This secret of dharma was declared by Śakra among the great sages, and by the seers it was told to me; learn it now, O king.
 
@@ -642,7 +642,7 @@ translator: thothica
 
 **14.12.10**  And again, during the time of concealment, the kicking of Yājñasenī by Kīcaka—of that too, O Pārtha, you do not wish to remember.
 
-**14.12.11**  The war you waged against Droṇa and Bhīṣma, O subduer of foes—even such a war is now at hand for you, to be fought with the mind alone; therefore you must take it up for battle, O bull of the Bharatas.
+**14.12.11**  The war you waged against Droṇa and Bhīṣma, O subduer of foes—even such a war is now at hand for you, to be fought with the mind alone; therefore you must take it up for battle, O bull of the Bhāratas.
 
 **14.12.12**  It is the highest war, against that whose form is unmanifest, won by setting aside the highest through one's own deeds—wherein there is no need of arrows, nor of servants, nor of kinsmen; it must be fought with the self alone, and that war is now at hand for you.
 
@@ -784,7 +784,7 @@ translator: thothica
 
 **14.15.29**  "And the earth, my friend, sea-girt, with its mountains, woods, and forests, is set beneath the sway of the wise son of Dharma, heaped with jewels of many kinds — the earth of the Kuru king, O Pāṇḍava."
 
-**14.15.30**  "By righteousness let the king, the knower of righteousness, protect all the bounteous earth — attended by many perfected great souls and ever praised by the bards, O bull of the Bharatas."
+**14.15.30**  "By righteousness let the king, the knower of righteousness, protect all the bounteous earth — attended by many perfected great souls and ever praised by the bards, O bull of the Bhāratas."
 
 **14.15.31**  "So come with me now and ask leave of the king, the increaser of the Kurus, O tiger of the Kurus, for the journey toward Dvārakā."
 
@@ -822,7 +822,7 @@ translator: thothica
 
 **14.16.14**  A certain brāhmaṇa once came, O subduer of foes, from the world of heaven and from the world of Brahmā — one hard to assail — and by us he was duly honored.
 
-**14.16.15**  And being questioned by us, what he declared, O bull of the Bharatas, by a divine method, O Pārtha — hear that with an undoubting mind.
+**14.16.15**  And being questioned by us, what he declared, O bull of the Bhāratas, by a divine method, O Pārtha — hear that with an undoubting mind.
 
 **14.16.16**  The brāhmaṇa said: That which you ask of me, O Kṛṣṇa, resting upon the Law of liberation — for the sake of compassion toward beings, that which cuts away delusion, O Lord —
 
@@ -1128,7 +1128,7 @@ translator: thothica
 
 **14.19.51**  This, O Pārtha, is not easily understood by a man of distracted mind—so I hold—by one whose perception is unformed, who is shallow and whose self is unperfected.
 
-**14.19.52**  This great secret of the gods has been declared, O bull of the Bharatas. Surely, O Pārtha, this has not been heard by any other mortal?
+**14.19.52**  This great secret of the gods has been declared, O bull of the Bhāratas. Surely, O Pārtha, this has not been heard by any other mortal?
 
 **14.19.53**  For no other man than you is worthy to hear this, O sinless one; nor is it now easily understood by one whose inner self is confused.
 
@@ -1140,7 +1140,7 @@ translator: thothica
 
 **14.19.57**  How much more so, O Pārtha, the brāhmaṇas, or the kṣatriyas deeply learned, ever devoted to their own dharma and intent upon the world of Brahman.
 
-**14.19.58**  This has been set forth with its reasons, and the means for accomplishing it: the fruit of perfection, liberation, and the ending of sorrow. What other happiness could be higher than this, O bull of the Bharatas?
+**14.19.58**  This has been set forth with its reasons, and the means for accomplishing it: the fruit of perfection, liberation, and the ending of sorrow. What other happiness could be higher than this, O bull of the Bhāratas?
 
 **14.19.59**  The mortal who is learned, full of faith, and strenuous in effort, O son of Pāṇḍu, who casts off this worthless web of worldly affairs — by these means he would swiftly attain the supreme goal.
 
@@ -2780,7 +2780,7 @@ translator: thothica
 
 **14.50.48**  This very thing I told you before as well, when the hour of battle was at hand, O mighty-armed one; therefore fix your mind upon it.
 
-**14.50.49**  But it is long, O best of the Bharatas, since I have seen my father, O lord; I wish to see him, with your consent, O Phalguna.
+**14.50.49**  But it is long, O best of the Bhāratas, since I have seen my father, O lord; I wish to see him, with your consent, O Phalguna.
 
 **14.50.50**  Vaiśaṃpāyana said: To Kṛṣṇa, who had spoken these words, Dhanaṃjaya replied: Let us two go this very day, Kṛṣṇa, to the city named after the elephant.
 
@@ -2794,7 +2794,7 @@ translator: thothica
 
 **14.51.4**  Then the two, Kṛṣṇa and the son of Pāṇḍu, mounted the chariot and set forth, exchanging varied and delightful talk, well pleased with each other, O lord of peoples.
 
-**14.51.5**  To Vāsudeva, who stood within the chariot, the mighty Dhanaṃjaya once again spoke these words, O best of the Bharatas.
+**14.51.5**  To Vāsudeva, who stood within the chariot, the mighty Dhanaṃjaya once again spoke these words, O best of the Bhāratas.
 
 **14.51.6**  By your grace the king has won victory, O upholder of the Vṛṣṇi line; the foes have been slain, and a kingdom free of thorns has been gained.
 
@@ -2838,7 +2838,7 @@ translator: thothica
 
 **14.51.26**  And Vidura of great wisdom, and King Yudhiṣṭhira, and the unassailable Bhīmasena, and the two sons of Mādrī, the Pāṇḍavas, seated in attendance on Dhṛtarāṣṭra, and the unvanquished Yuyutsu.
 
-**14.51.27**  And Gāndhārī of great wisdom, and Pṛthā, and the lovely Kṛṣṇā, and Subhadrā and all the rest, all the women of the Bharatas—these they beheld, all standing about, gathered around Gāndhārī.
+**14.51.27**  And Gāndhārī of great wisdom, and Pṛthā, and the lovely Kṛṣṇā, and Subhadrā and all the rest, all the women of the Bhāratas—these they beheld, all standing about, gathered around Gāndhārī.
 
 **14.51.28**  Then the two subduers of foes, approaching King Dhṛtarāṣṭra, announced their own names and clasped his feet.
 
@@ -2898,7 +2898,7 @@ translator: thothica
 
 **14.51.56**  Then the crusher of throngs of foes, Janārdana, followed by the hero of Śini's line, set forth—even as Śatakratu, having slain the hosts of his enemies, goes to heaven, so the glorious one went to the city of the Ānartas.
 
-**14.52.1**  Vaiśaṃpāyana said: As the Vārṣṇeya thus set out for Dvārakā, those bulls among the Bharatas, those scorchers of foes, embraced him together with their retinue and turned back.
+**14.52.1**  Vaiśaṃpāyana said: As the Vārṣṇeya thus set out for Dvārakā, those bulls among the Bhāratas, those scorchers of foes, embraced him together with their retinue and turned back.
 
 **14.52.2**  Again and again Phalguna embraced the Vārṣṇeya, and again and again he gazed upon him so long as he remained within sight.
 
@@ -2924,7 +2924,7 @@ translator: thothica
 
 **14.52.13**  "And the kings, with the Kauravas pacified and with you as their protector, will they enjoy happiness in their own realms, O Mādhava?"
 
-**14.52.14**  "That esteem, my dear, which I have ever held toward you — has it been made fruitful by you, O Kṛṣṇa, with respect to the Bharatas?"
+**14.52.14**  "That esteem, my dear, which I have ever held toward you — has it been made fruitful by you, O Kṛṣṇa, with respect to the Bhāratas?"
 
 **14.52.15**  Vāsudeva said: "An effort was made by me, O brāhmaṇa, toward brotherhood among the Kauravas; but those who delighted in unrighteousness could not be reconciled by me."
 
@@ -3170,7 +3170,7 @@ translator: thothica
 
 **14.56.18**  Saudāsa said: You shall see her today at some forest-stream; for at the sixth hour she cannot be looked upon by me today.
 
-**14.56.19**  Uttaṅka, thus addressed, went forth, O bull of the Bharatas; and beholding Madayantī, he made known his errand.
+**14.56.19**  Uttaṅka, thus addressed, went forth, O bull of the Bhāratas; and beholding Madayantī, he made known his errand.
 
 **14.56.20**  Hearing the message of Saudāsa, that large-eyed lady then made reply to the deeply wise Uttaṅka, O Janamejaya:
 
@@ -3300,7 +3300,7 @@ translator: thothica
 
 **14.57.55**  Thus by that great soul, O Janamejaya, after he had traversed the three worlds, were those divine jeweled earrings brought back.
 
-**14.57.56**  Of such power was that sage Uttaṅka, O bull of the Bharatas, endowed with supreme austerity, about whom you question me.
+**14.57.56**  Of such power was that sage Uttaṅka, O bull of the Bhāratas, endowed with supreme austerity, about whom you question me.
 
 **14.58.1**  Janamejaya said: After granting the boon to Uttaṅka, O best of the twice-born, what did the mighty-armed Govinda of great renown do thereafter?
 
@@ -3328,7 +3328,7 @@ translator: thothica
 
 **14.58.13**  Furnished with holy retreats, O hero, frequented by doers of holy deeds, the pleasure-ground of the Vṛṣṇi warriors at the festival of Raivataka — that mountain, crowded with dwellings, shone like the world of the gods.
 
-**14.58.14**  And then, gaining the presence of Kṛṣṇa, O bull of the Bharatas, that king of mountains became the very likeness of the abode of Śakra.
+**14.58.14**  And then, gaining the presence of Kṛṣṇa, O bull of the Bhāratas, that king of mountains became the very likeness of the abode of Śakra.
 
 **14.58.15**  Then Govinda, being honored, entered the splendid palace, while Sātyaki too went off to his own dwelling.
 
@@ -3592,7 +3592,7 @@ translator: thothica
 
 **14.63.6**  That great king crossed over lakes and rivers, forests and groves, and at last drew near the mountain.
 
-**14.63.7**  And in that region, O lord of kings, where that supreme treasure lay, the Pāṇḍava king made his encampment together with his soldiers, on auspicious and level ground, O best of the Bharatas.
+**14.63.7**  And in that region, O lord of kings, where that supreme treasure lay, the Pāṇḍava king made his encampment together with his soldiers, on auspicious and level ground, O best of the Bhāratas.
 
 **14.63.8**  Placing in the van the brāhmaṇas, endowed with austerity, learning, and self-restraint, and his household priest, O Kaurava, versed in the Vedas and their auxiliary sciences.
 
@@ -3800,13 +3800,13 @@ translator: thothica
 
 **14.68.1**  Vaiśaṃpāyana said: Having thus piteously lamented, the suffering Uttarā, as though distraught, fell wretchedly to the ground, yearning for her son.
 
-**14.68.2**  Beholding her fallen, stripped of kin and of all that adorned her, Kuntī cried out, stricken with grief, and all the women of the Bharatas with her.
+**14.68.2**  Beholding her fallen, stripped of kin and of all that adorned her, Kuntī cried out, stricken with grief, and all the women of the Bhāratas with her.
 
 **14.68.3**  For a while, O king, the dwelling of the Pāṇḍavas became a thing one could not bear to look upon, resounding with cries of anguish.
 
 **14.68.4**  And for a while, O lord of kings, the daughter of Virāṭa, tormented by grief for her son, lay overcome by a swoon, O hero.
 
-**14.68.5**  But when Uttarā had regained her senses, O bull of the Bharatas, she set that son upon her lap and spoke these words:
+**14.68.5**  But when Uttarā had regained her senses, O bull of the Bhāratas, she set that son upon her lap and spoke these words:
 
 **14.68.6**  'Being the son of one who knew righteousness, do you yet take to unrighteousness — you who offer no salutation to the foremost hero of the Vṛṣṇis?'
 
@@ -3844,7 +3844,7 @@ translator: thothica
 
 **14.68.23**  'As Kaṃsa and Keśin were slain by me through righteousness — by that truth, let this child here come back again to life.'
 
-**14.68.24**  Thus spoken over by Vāsudeva, that child, O bull of the Bharatas, little by little, O great king, began to stir, returning to consciousness.
+**14.68.24**  Thus spoken over by Vāsudeva, that child, O bull of the Bhāratas, little by little, O great king, began to stir, returning to consciousness.
 
 **14.69.1**  Vaiśaṃpāyana said: When the Brahmā-weapon, O king, was withdrawn by Kṛṣṇa, then that chamber was lit up with the splendor of your father.
 
@@ -3852,13 +3852,13 @@ translator: thothica
 
 **14.69.3**  And that blazing weapon then departed to the Grandfather, and thereupon your father regained his breath, O lord of men, and that child stirred according to his vigor and strength.
 
-**14.69.4**  Then the women of the Bharatas were filled with joy, O king, and at Govinda's command they had the Brāhmaṇas recite their blessings.
+**14.69.4**  Then the women of the Bhāratas were filled with joy, O king, and at Govinda's command they had the Brāhmaṇas recite their blessings.
 
-**14.69.5**  Then all those women, rejoicing, praised Janārdana — the women of the lions among the Bharatas — like folk who reach the far shore on finding a boat.
+**14.69.5**  Then all those women, rejoicing, praised Janārdana — the women of the lions among the Bhāratas — like folk who reach the far shore on finding a boat.
 
 **14.69.6**  Kuntī, and the daughter of Drupada, and Subhadrā, and Uttarā, and the other women of those lions among men became glad of heart.
 
-**14.69.7**  There the wrestlers, the actors, the boxers, the reciters of legends, and those skilled in pleasant attendance, together with the throngs of bards and panegyrists, praised Janārdana, O bull of the Bharatas, blessing your house, the line of Kuru, with the recital of its glories.
+**14.69.7**  There the wrestlers, the actors, the boxers, the reciters of legends, and those skilled in pleasant attendance, together with the throngs of bards and panegyrists, praised Janārdana, O bull of the Bhāratas, blessing your house, the line of Kuru, with the recital of its glories.
 
 **14.69.8**  Rising at the proper hour, Uttarā, glad at heart, saluted the joy of the Yadus together with her son, O Bhārata; and well pleased, he gave to her in particular abundant jewels.
 
@@ -3896,7 +3896,7 @@ translator: thothica
 
 **14.70.5**  Approaching King Dhṛtarāṣṭra in due form, and proclaiming each his own name, they reverenced his feet.
 
-**14.70.6**  And after Dhṛtarāṣṭra those best of the Bharatas then saluted Gāndhārī, the daughter of Subala, and Kuntī, O tiger among kings.
+**14.70.6**  And after Dhṛtarāṣṭra those best of the Bhāratas then saluted Gāndhārī, the daughter of Subala, and Kuntī, O tiger among kings.
 
 **14.70.7**  And having honoured Vidura, and met with the son born of the Vaiśya woman, those heroes, themselves being honoured, shone forth, O lord of the people.
 
@@ -4018,7 +4018,7 @@ translator: thothica
 
 **14.72.15**  For this is the famed Gāṇḍīva bow of terrible roar. May he go in safety along a road unharmed and free from all fear; we shall behold him again upon his return"—thus too they spoke.
 
-**14.72.16**  Such, O bull of the Bharatas, were the sweet words of the men and women, spoken again and again, that he heard.
+**14.72.16**  Such, O bull of the Bhāratas, were the sweet words of the men and women, spoken again and again, that he heard.
 
 **14.72.17**  And a disciple of Yājñavalkya, skilled in the rites of sacrifice and versed to the end of the Vedas, set out together with the Pārtha to perform the propitiatory ceremonies.
 
@@ -4086,7 +4086,7 @@ translator: thothica
 
 **14.73.22**  Pierced sorely by it in the hand even as he was swiftly shooting, Vijaya let the Gāṇḍīva slip from his pain, and it fell upon the ground.
 
-**14.73.23**  As the bow fell from the hand of Savyasācin, O lord, its form was like that of Indra's weapon, O best of the Bharatas.
+**14.73.23**  As the bow fell from the hand of Savyasācin, O lord, its form was like that of Indra's weapon, O best of the Bhāratas.
 
 **14.73.24**  When that divine great bow had fallen, O king, Dhṛtavarman laughed aloud a ringing laugh in that great battle.
 
@@ -4112,7 +4112,7 @@ translator: thothica
 
 **14.74.1**  Vaiśaṃpāyana said: Then, coming to Prāgjyotiṣa, that excellent horse roamed about, and the son of Bhagadatta, fierce in battle, came forth there.
 
-**14.74.2**  As the horse of the son of Pāṇḍu reached the border of his realm, King Vajradatta, O best of the Bharatas, gave battle.
+**14.74.2**  As the horse of the son of Pāṇḍu reached the border of his realm, King Vajradatta, O best of the Bhāratas, gave battle.
 
 **14.74.3**  Sallying forth from the city, that king, the son of Bhagadatta, drove off the approaching horse and turned back toward the city.
 
@@ -4150,7 +4150,7 @@ translator: thothica
 
 **14.74.20**  That great elephant, pierced by them and streaming with blood, then shone like the Himālaya, lord of mountains, with its many cascades.
 
-**14.75.1**  Vaiśaṃpāyana said: Thus for three nights did that battle last, O bull of the Bharatas, between Arjuna and that king, as once between Vṛtra and the Performer of a Hundred Sacrifices.
+**14.75.1**  Vaiśaṃpāyana said: Thus for three nights did that battle last, O bull of the Bhāratas, between Arjuna and that king, as once between Vṛtra and the Performer of a Hundred Sacrifices.
 
 **14.75.2**  Then on the fourth day the mighty Vajradatta laughed aloud a ringing laugh and spoke these words:
 
@@ -4240,7 +4240,7 @@ translator: thothica
 
 **14.76.19**  Clouds the dusky color of an ass, bearing the rainbow and the lightning, covered the sky and rained down flesh and blood.
 
-**14.76.20**  Such were the omens then, when the hero was enveloped in showers of arrows; in this world, O best of the Bharatas, it seemed a thing of wonder.
+**14.76.20**  Such were the omens then, when the hero was enveloped in showers of arrows; in this world, O best of the Bhāratas, it seemed a thing of wonder.
 
 **14.76.21**  As he was covered on every side by that net of arrows, through a swoon the Gāṇḍīva and the quiver fell from his hand.
 
@@ -4314,7 +4314,7 @@ translator: thothica
 
 **14.77.24**  His bow laid aside, Pārtha then duly greeted his sister and said, "What shall I do?"; and she spoke these words to him.
 
-**14.77.25**  "This child, O best of the Bharatas, is the son of your sister's son; he salutes you, O hero. Behold him, O bull among men."
+**14.77.25**  "This child, O best of the Bhāratas, is the son of your sister's son; he salutes you, O hero. Behold him, O bull among men."
 
 **14.77.26**  Thus addressed, Arjuna then asked after the child's father, "Where is he?"; and thereupon, O king, Duḥśalā spoke these words.
 
@@ -4356,7 +4356,7 @@ translator: thothica
 
 **14.77.45**  And that steed, roaming as it pleased through one land after another at its ease and according to its desire, increased the glory of Pārtha's deeds.
 
-**14.77.46**  Thus wandering by stages, O bull of the Bharatas, that horse, accompanied by the Pāṇḍava, came to the realm of the lord of Maṇipūra.
+**14.77.46**  Thus wandering by stages, O bull of the Bhāratas, that horse, accompanied by the Pāṇḍava, came to the realm of the lord of Maṇipūra.
 
 **14.78.1**  Vaiśaṃpāyana said: When king Babhruvāhana heard that his heroic father had come, the noble one went forth in humility, with Brāhmaṇas bearing the offering of welcome before him.
 
@@ -4382,7 +4382,7 @@ translator: thothica
 
 **14.78.12**  "Fight with this Dhanaṃjaya, best of the Kurus, O subduer of foes; for thus, beyond doubt, will he be pleased with you."
 
-**14.78.13**  Thus roused by his mother, that king Babhruvāhana of great splendor set his mind upon battle, O bull of the Bharatas.
+**14.78.13**  Thus roused by his mother, that king Babhruvāhana of great splendor set his mind upon battle, O bull of the Bhāratas.
 
 **14.78.14**  Donning golden armor and a radiant helmet, crowded about with a hundred quivers, he mounted his great chariot.
 
@@ -4506,7 +4506,7 @@ translator: thothica
 
 **14.80.17**  Let all beings hear, both the moving and the unmoving, and you too, mother, O excellent serpent-maiden, that I speak the truth.
 
-**14.80.18**  If Jaya does not rise up, my father, that bull of the Bharatas, here on this very field of battle I shall let my body waste away.
+**14.80.18**  If Jaya does not rise up, my father, that bull of the Bhāratas, here on this very field of battle I shall let my body waste away.
 
 **14.80.19**  For having slain my father there is no atonement for me anywhere; tormented by the killing of my elder, I shall surely descend into hell.
 
@@ -4620,7 +4620,7 @@ translator: thothica
 
 **14.82.31**  This sacrificial steed goes where it will; may it be well with you — I must depart, for no stopping is allowed me.
 
-**14.82.32**  There, duly honored by him, the son of the chastiser of Pāka, taking leave of his two wives, departed — that best of the Bharatas.
+**14.82.32**  There, duly honored by him, the son of the chastiser of Pāka, taking leave of his two wives, departed — that best of the Bhāratas.
 
 **14.83.1**  Vaiśaṃpāyana said: But that horse, having wandered round this earth bounded by the ocean, turned back, O king, heading toward the city named for the elephant.
 
@@ -4642,7 +4642,7 @@ translator: thothica
 
 **14.83.10**  Thus addressed, the lord of Magadha struck first at the son of Pāṇḍu, scattering thousands of arrows as the thousand-eyed one pours down rains.
 
-**14.83.11**  Then the heroic bearer of the Gāṇḍīva, with arrows sped from the Gāṇḍīva, rendered those shafts vain without effort, O bull of the Bharatas.
+**14.83.11**  Then the heroic bearer of the Gāṇḍīva, with arrows sped from the Gāṇḍīva, rendered those shafts vain without effort, O bull of the Bhāratas.
 
 **14.83.12**  Having made the flood of his arrows fruitless, he of the ape-banner loosed blazing shafts like serpents with flaming mouths.
 
@@ -4712,7 +4712,7 @@ translator: thothica
 
 **14.84.15**  Then the lord of the Vṛṣṇis and Andhakas came forth from the city, together with Vāsudeva, the maternal uncle of the diademed hero.
 
-**14.84.16**  The two came up to the foremost of the Kurus and stood ready to honor that best of the Bharatas duly and with affection, with the highest homage; then, taking leave of them, he went on by the way the horse had gone.
+**14.84.16**  The two came up to the foremost of the Kurus and stood ready to honor that best of the Bhāratas duly and with affection, with the highest homage; then, taking leave of them, he went on by the way the horse had gone.
 
 **14.84.17**  Then the horse roamed in turn through the prosperous western country of the sea, and from there it came to the land of the Five Rivers.
 
@@ -4844,7 +4844,7 @@ translator: thothica
 
 **14.87.13**  For the whole of Jambūdvīpa, thronged with its many peoples and realms, seemed gathered into one place, O king, at that great rite of the king.
 
-**14.87.14**  Thither came thousands upon thousands of men of every caste from this place and that, bringing much wealth, O bull of the Bharatas.
+**14.87.14**  Thither came thousands upon thousands of men of every caste from this place and that, bringing much wealth, O bull of the Bhāratas.
 
 **14.87.15**  And kings too, garlanded and wearing well-polished jeweled earrings, waited upon those foremost of the twice-born, by hundreds and by thousands.
 
@@ -4994,7 +4994,7 @@ translator: thothica
 
 **14.90.25**  Not one of that wise king's assembled members was ignorant of the six auxiliary sciences; none was without his vows, without a teacher, or unequal to debate.
 
-**14.90.26**  Then, O bull of the Bharatas, when the time came for raising the sacrificial posts, they set up six of bilva wood, as many of khadira, and the same number wrought of bilva timber, of every kind.
+**14.90.26**  Then, O bull of the Bhāratas, when the time came for raising the sacrificial posts, they set up six of bilva wood, as many of khadira, and the same number wrought of bilva timber, of every kind.
 
 **14.90.27**  In the sacrifice of the lord of the Kurus the priests caused to be made two posts of devadāru wood and one of śleṣmātaka.
 
@@ -5026,7 +5026,7 @@ translator: thothica
 
 **14.91.2**  Then, O king, having duly quieted the horse, those bulls among priests had the high-minded daughter of Drupada lie down beside it, with the three portions performed according to rule.
 
-**14.91.3**  Drawing out its omentum according to the scriptures, O bull of the Bharatas, those bulls among the twice-born, unhurried, cooked it as the scriptures direct.
+**14.91.3**  Drawing out its omentum according to the scriptures, O bull of the Bhāratas, those bulls among the twice-born, unhurried, cooked it as the scriptures direct.
 
 **14.91.4**  And the Dharma-king, together with his younger brothers, then inhaled in due form that smoke-scent of the omentum, which takes away all sin.
 
@@ -5036,7 +5036,7 @@ translator: thothica
 
 **14.91.7**  Then Yudhiṣṭhira gave, according to ordinance, a thousand crores of gold coins to the assembled members, and to Vyāsa he gave the earth itself.
 
-**14.91.8**  Having accepted the earth, O king, Vyāsa the son of Satyavatī addressed the best of the Bharatas, the righteous-souled Yudhiṣṭhira:
+**14.91.8**  Having accepted the earth, O king, Vyāsa the son of Satyavatī addressed the best of the Bhāratas, the righteous-souled Yudhiṣṭhira:
 
 **14.91.9**  "This earth, O best of kings, which you have bestowed, is yours again; let a redemption-price be given to me instead, for brāhmaṇas are seekers of wealth."
 
@@ -5094,7 +5094,7 @@ translator: thothica
 
 **14.91.36**  Thus was that sacrifice of the wise Dharma-king — a flood of plentiful food, wealth, and jewels, an ocean of wine and spirituous liquor.
 
-**14.91.37**  There, O bull of the Bharatas, were lakes whose mire was clarified butter and many mountains of food, and streams whose mud was sweet rasālā.
+**14.91.37**  There, O bull of the Bhāratas, were lakes whose mire was clarified butter and many mountains of food, and streams whose mud was sweet rasālā.
 
 **14.91.38**  "Let dainties and condiments and relishes be prepared! Let them be eaten!" — and of the beasts being slaughtered no end could there be seen.
 
@@ -5102,13 +5102,13 @@ translator: thothica
 
 **14.91.40**  "Let it be given! Let it be eaten!" — thus, by day and night and without restraint, men dwelling in many lands told of that scene, like a great festival, thronged with people in the highest joy.
 
-**14.91.41**  Having rained down showers of wealth — of pleasures, jewels, and riches — the best of the Bharatas, freed of sin and his purpose fulfilled, entered the city.
+**14.91.41**  Having rained down showers of wealth — of pleasures, jewels, and riches — the best of the Bhāratas, freed of sin and his purpose fulfilled, entered the city.
 
 **14.92.1**  Janamejaya said: Whatever marvel there was in the sacrifice of my grandsire, the wise son of Dharma, that you ought to tell me.
 
 **14.92.2**  Vaiśaṃpāyana said: Hear, O tiger among kings, of the great and surpassing marvel that came to pass, O mighty one, when the great horse-sacrifice was concluded.
 
-**14.92.3**  When the foremost brāhmaṇas had been satisfied, and the kinsmen, relations, and friends, and the poor, the blind, and the wretched too, O best of the Bharatas —
+**14.92.3**  When the foremost brāhmaṇas had been satisfied, and the kinsmen, relations, and friends, and the poor, the blind, and the wretched too, O best of the Bhāratas —
 
 **14.92.4**  while the great gift was being proclaimed in all the quarters, O Bhārata, and showers of flowers were falling upon the head of the Dharma-king —
 
@@ -5422,7 +5422,7 @@ translator: thothica
 
 **14.95.10**  That food the reverend one had procured according to his power; and at that rite nothing whatever was unfit, for great sacrifices have been performed thus by many sages.
 
-**14.95.11**  But while the great sacrifice of Agastya, of such a kind, was going on, the thousand-eyed one did not send rain, O best of the Bharatas.
+**14.95.11**  But while the great sacrifice of Agastya, of such a kind, was going on, the thousand-eyed one did not send rain, O best of the Bhāratas.
 
 **14.95.12**  Then, in an interval of the rite of the high-souled Agastya, O king, this discourse arose among the sages of disciplined souls.
 

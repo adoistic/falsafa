@@ -1,402 +1,82 @@
 [
-  {
-    "ref": "1.112.4",
-    "sanskrit": "svargaṃ manujaśārdūla gaccheyaṃ sahitā tvayā apatyāya ca māṃ gaccha tvam eva kurunandana",
-    "english": "I would go to heaven together with you, O tiger among men; come to me for the sake of offspring, O joy of the Kurus."
-  },
-  {
-    "ref": "1.112.5",
-    "sanskrit": "na hy ahaṃ manasāpy anyaṃ gaccheyaṃ tvad ṛte naram tvattaḥ prativiśiṣṭaś ca ko 'nyo 'sti bhuvi mānavaḥ",
-    "english": "For I would not approach any other man even in thought apart from you; and who else is there in the world more excellent than you?"
-  },
-  {
-    "ref": "1.112.6",
-    "sanskrit": "imāṃ ca tāvad dharmyāṃ tvaṃ paurāṇīṃ śṛṇu me kathām pariśrutāṃ viśālākṣa kīrtayiṣyāmi yām aham",
-    "english": "Now hear this ancient story rooted in dharma from me, O wide-eyed one, which I shall recount — a tale widely celebrated."
-  },
-  {
-    "ref": "1.112.7",
-    "sanskrit": "vyuṣitāśva iti khyāto babhūva kila pārthivaḥ purā paramadharmiṣṭhaḥ pūror vaṃśavivardhanaḥ",
-    "english": "There was of old a king known as Vyushitashva, supremely devoted to righteousness, the extender of the lineage of Puru."
-  },
-  {
-    "ref": "1.112.8",
-    "sanskrit": "tasmiṃś ca yajamāne vai dharmātmani mahātmani upāgamaṃs tato devāḥ sendrāḥ saha maharṣibhiḥ",
-    "english": "When that righteous and great-souled one was performing sacrifice, the gods together with Indra and the great sages came thither."
-  },
-  {
-    "ref": "1.112.9",
-    "sanskrit": "amādyad indraḥ somena dakṣiṇābhir dvijātayaḥ vyuṣitāśvasya rājarṣes tato yajñe mahātmanaḥ",
-    "english": "Indra became exhilarated with soma, and the twice-born with the sacrificial fees, at the great sacrifice of that royal sage Vyushitashva."
-  },
-  {
-    "ref": "1.112.10",
-    "sanskrit": "vyuṣitāśvas tato rājann ati martyān vyarocata sarvabhūtāny ati yathā tapanaḥ śiśirātyaye",
-    "english": "Then Vyushitashva, O king, shone beyond all mortals, surpassing all creatures as the sun surpasses them at the end of winter."
-  },
-  {
-    "ref": "1.112.11",
-    "sanskrit": "sa vijitya gṛhītvā ca nṛpatīn rājasattamaḥ prācyān udīcyān madhyāṃś ca dakṣiṇātyān akālayat",
-    "english": "That best of kings, conquering and subduing the monarchs of the east, north, and the middle regions, brought the southern kings to submission."
-  },
-  {
-    "ref": "1.112.12",
-    "sanskrit": "aśvamedhe mahāyajñe vyuṣitāśvaḥ pratāpavān babhūva sa hi rājendro daśanāgabalānvitaḥ",
-    "english": "At the great horse sacrifice, the valorous Vyushitashva, that lord of kings, was possessed of the strength of ten elephants."
-  },
-  {
-    "ref": "1.112.13",
-    "sanskrit": "apy atra gāthāṃ gāyanti ye purāṇavido janāḥ vyuṣitāśvaḥ samudrāntāṃ vijityemāṃ vasuṃdharām apālayat sarvavarṇān pitā putrān ivaurasān",
-    "english": "Even now those who know the ancient lore sing this verse about him: Vyushitashva, having conquered this earth up to the shores of the sea, protected all the social orders as a father protects his own sons."
-  },
-  {
-    "ref": "1.112.14",
-    "sanskrit": "yajamāno mahāyajñair brāhmaṇebhyo dadau dhanam anantaratnāny ādāya ājahāra mahākratūn suṣāva ca bahūn somān somasaṃsthās tatāna ca",
-    "english": "Performing great sacrifices, he gave wealth to the brahmins; having collected unlimited riches, he conducted great rites, pressed many soma-libations, and spread out soma ceremonies."
-  },
-  {
-    "ref": "1.112.15",
-    "sanskrit": "āsīt kākṣīvatī cāsya bhāryā paramasaṃmatā bhadrā nāma manuṣyendra rūpeṇāsadṛśī bhuvi",
-    "english": "He had a wife most highly esteemed, Kakshivati's daughter, named Bhadra, O lord of men, unrivalled in beauty on earth."
-  },
-  {
-    "ref": "1.112.16",
-    "sanskrit": "kāmayām āsatus tau tu parasparam iti śrutiḥ sa tasyāṃ kāmasaṃmatto yakṣmāṇaṃ samapadyata",
-    "english": "They two loved each other passionately — so the tradition says; overcome with desire for her, he contracted consumption."
-  },
-  {
-    "ref": "1.112.17",
-    "sanskrit": "tenācireṇa kālena jagāmāstam ivāṃśumān tasmin prete manuṣyendre bhāryāsya bhṛśaduḥkhitā",
-    "english": "Before long he set like the sun, and when that lord of men was dead, his wife was overwhelmed with grief."
-  },
-  {
-    "ref": "1.112.18",
-    "sanskrit": "aputrā puruṣavyāghra vilalāpeti naḥ śrutam bhadrā paramaduḥkhārtā tan nibodha narādhipa",
-    "english": "Childless, the deeply afflicted Bhadra lamented piteously — so we have heard; know this, O lord of men."
-  },
-  {
-    "ref": "1.112.19",
-    "sanskrit": "nārī paramadharmajña sarvā putravinākṛtā patiṃ vinā jīvati yā na sā jīvati duḥkhitā",
-    "english": "O best knower of dharma, every woman deprived of a son who lives without her husband does not truly live — she lives in misery."
-  },
-  {
-    "ref": "1.112.20",
-    "sanskrit": "patiṃ vinā mṛtaṃ śreyo nāryāḥ kṣatriyapuṃgava tvadgatiṃ gantum icchāmi prasīdasva nayasva mām",
-    "english": "For a woman, death without her husband is better, O bull among Kṣatriyas; I wish to follow your path — be gracious and take me with you."
-  },
-  {
-    "ref": "1.112.21",
-    "sanskrit": "tvayā hīnā kṣaṇam api nāhaṃ jīvitum utsahe prasādaṃ kuru me rājann itas tūrṇaṃ nayasva mām",
-    "english": "Bereft of you I cannot bear to live even a moment; show grace to me, O king, take me swiftly from here."
-  },
-  {
-    "ref": "1.112.22",
-    "sanskrit": "pṛṣṭhato 'nugamiṣyāmi sameṣu viṣameṣu ca tvām ahaṃ naraśārdūla gacchantam anivartinam",
-    "english": "I shall follow behind you, O tiger among men, as you go on without turning back, through level and uneven paths alike."
-  },
-  {
-    "ref": "1.112.23",
-    "sanskrit": "chāyevānapagā rājan satataṃ vaśavartinī bhaviṣyāmi naravyāghra nityaṃ priyahite ratā",
-    "english": "Like a shadow that does not depart, O king, ever devoted to your will, I shall be, O tiger among men, always intent on your welfare and delight."
-  },
-  {
-    "ref": "1.112.24",
-    "sanskrit": "adya prabhṛti māṃ rājan kaṣṭā hṛdayaśoṣaṇāḥ ādhayo 'bhibhaviṣyanti tvad ṛte puṣkarekṣaṇa",
-    "english": "From this day forward, O king, terrible mental agonies that wither the heart will overwhelm me without you, O lotus-eyed one."
-  },
-  {
-    "ref": "1.112.25",
-    "sanskrit": "abhāgyayā mayā nūnaṃ viyuktāḥ sahacāriṇaḥ saṃyogā viprayuktā vā pūrvadeheṣu pārthiva",
-    "english": "Surely in my misfortune, O king, unions with companions were severed in previous lives, or associations were broken."
-  },
-  {
-    "ref": "1.112.26",
-    "sanskrit": "tad idaṃ karmabhiḥ pāpaiḥ pūrvadeheṣu saṃcitam duḥkhaṃ mām anusaṃprāptaṃ rājaṃs tvadviprayogajam",
-    "english": "And this sorrow born of separation from you has caught up with me now, O king — accumulated in former bodies by sinful deeds."
-  },
-  {
-    "ref": "1.112.27",
-    "sanskrit": "adya prabhṛty ahaṃ rājan kuśaprastaraśāyinī bhaviṣyāmy asukhāviṣṭā tvaddarśanaparāyaṇā",
-    "english": "From this day forward, O king, I shall lie on a bed of kusha grass, filled with wretchedness, my whole aim set only upon seeing you again."
-  },
-  {
-    "ref": "1.112.28",
-    "sanskrit": "darśayasva naravyāghra sādhu mām asukhānvitām dīnām anāthāṃ kṛpaṇāṃ vilapantīṃ nareśvara",
-    "english": "Show yourself to me, O tiger among men — to me who is wretched, helpless, miserable, and lamenting; be gracious, O lord of men."
-  },
-  {
-    "ref": "1.112.29",
-    "sanskrit": "evaṃ bahuvidhaṃ tasyāṃ vilapantyāṃ punaḥ punaḥ taṃ śavaṃ saṃpariṣvajya vāk kilāntarhitābravīt",
-    "english": "While she thus lamented in many ways again and again and clasped that corpse, a disembodied voice is said to have spoken."
-  },
-  {
-    "ref": "1.112.30",
-    "sanskrit": "uttiṣṭha bhadre gaccha tvaṃ dadānīha varaṃ tava janayiṣyāmy apatyāni tvayy ahaṃ cāruhāsini",
-    "english": "Rise, Bhadra; go — I will grant you a boon here; I shall beget offspring upon you, O fair-smiling one."
-  },
-  {
-    "ref": "1.112.31",
-    "sanskrit": "ātmīye ca varārohe śayanīye caturdaśīm aṣṭamīṃ vā ṛtusnātā saṃviśethā mayā saha",
-    "english": "On my own bed, O fair-limbed one, on the fourteenth or the eighth night after your purifying bath at the appointed season, lie down with me."
-  },
-  {
-    "ref": "1.112.32",
-    "sanskrit": "evam uktā tu sā devī tathā cakre pativratā yathoktam eva tad vākyaṃ bhadrā putrārthinī tadā",
-    "english": "Thus addressed, that goddess devoted to her husband did exactly as was said; Bhadra, desiring sons, did exactly as instructed."
-  },
-  {
-    "ref": "1.112.33",
-    "sanskrit": "sā tena suṣuve devī śavena manujādhipa trīñ śālvāṃś caturo madrān sutān bharatasattama",
-    "english": "That goddess bore sons by him — the corpse — O lord of men: three Śālvas and four sons of Madra, O best of the Bharatas."
-  },
-  {
-    "ref": "1.112.34",
-    "sanskrit": "tathā tvam api mayy eva manasā bharatarṣabha śakto janayituṃ putrāṃs tapoyogabalānvayāt",
-    "english": "In the same way you too, O bull of the Bharatas, are able by the power of austerity and spiritual discipline to beget sons in me by mental resolve alone."
-  },
-  {
-    "ref": "1.113.1",
-    "sanskrit": "vaiśaṃpāyana uvāca evam uktas tayā rājā tāṃ devīṃ punar abravīt dharmavid dharmasaṃyuktam idaṃ vacanam uttamam",
-    "english": "Vaiśaṃpāyana said: Thus addressed by her, the king, that knower of dharma, spoke again to that goddess this most excellent speech in accordance with righteousness."
-  },
-  {
-    "ref": "1.113.2",
-    "sanskrit": "evam etat purā kunti vyuṣitāśvaś cakāra ha yathā tvayoktaṃ kalyāṇi sa hy āsīd amaropamaḥ",
-    "english": "Exactly so did Vyushitashva act in former times, O Kuntī, as you have described, O auspicious one — for he was like an immortal."
-  },
-  {
-    "ref": "1.113.3",
-    "sanskrit": "atha tv imaṃ pravakṣyāmi dharmaṃ tv etaṃ nibodha me purāṇam ṛṣibhir dṛṣṭaṃ dharmavidbhir mahātmabhiḥ",
-    "english": "But now I shall speak of this dharma — hear it from me: the ancient usage seen by the great-souled knowers of dharma among the seers."
-  },
-  {
-    "ref": "1.113.4",
-    "sanskrit": "anāvṛtāḥ kila purā striya āsan varānane kāmacāravihāriṇyaḥ svatantrāś cārulocane",
-    "english": "Women were unrestrained in former times, O fair-faced one, roaming freely as they pleased, independent, O lovely-eyed one."
-  },
-  {
-    "ref": "1.113.5",
-    "sanskrit": "tāsāṃ vyuccaramāṇānāṃ kaumārāt subhage patīn nādharmo 'bhūd varārohe sa hi dharmaḥ purābhavat",
-    "english": "When they went to other men from girlhood, apart from their husbands, O blessed one, there was no unrighteousness, O fair-limbed one — for that was the law in ancient times."
-  },
-  {
-    "ref": "1.113.6",
-    "sanskrit": "taṃ caiva dharmaṃ paurāṇaṃ tiryagyonigatāḥ prajāḥ adyāpy anuvidhīyante kāmadveṣavivarjitāḥ purāṇadṛṣṭo dharmo 'yaṃ pūjyate ca maharṣibhiḥ",
-    "english": "Even today creatures born in animal wombs follow that ancient law, free from desire and aversion; this dharma as seen by the ancients is still honored by the great seers."
-  },
-  {
-    "ref": "1.113.7",
-    "sanskrit": "uttareṣu ca rambhoru kuruṣv adyāpi vartate strīṇām anugrahakaraḥ sa hi dharmaḥ sanātanaḥ",
-    "english": "Among the Northern Kurus even today that eternal dharma prevails, O Rambhoru, which confers freedom on women."
-  },
-  {
-    "ref": "1.113.8",
-    "sanskrit": "asmiṃs tu loke nacirān maryādeyaṃ śucismite sthāpitā yena yasmāc ca tan me vistarataḥ śṛṇu",
-    "english": "But in this world not long ago this boundary-rule was established, O pure-smiled one — hear from me at length by whom and for what reason."
-  },
-  {
-    "ref": "1.113.9",
-    "sanskrit": "babhūvoddālako nāma maharṣir iti naḥ śrutam śvetaketur iti khyātaḥ putras tasyābhavan muniḥ",
-    "english": "There was a great seer named Uddālaka — so we have heard; his son, the sage who became known as Śvetaketu."
-  },
-  {
-    "ref": "1.113.10",
-    "sanskrit": "maryādeyaṃ kṛtā tena mānuṣeṣv iti naḥ śrutam kopāt kamalapatrākṣi yadarthaṃ tan nibodha me",
-    "english": "This boundary-rule was established by him among humans — so we have heard — out of anger, O lotus-eyed one; hear from me the reason for it."
-  },
-  {
-    "ref": "1.113.11",
-    "sanskrit": "śvetaketoḥ kila purā samakṣaṃ mātaraṃ pituḥ jagrāha brāhmaṇaḥ pāṇau gacchāva iti cābravīt",
-    "english": "Before Śvetaketu's very eyes, a brahmin took his mother by the hand in his father's presence and said, \"Let us go.\""
-  },
-  {
-    "ref": "1.113.12",
-    "sanskrit": "ṛṣiputras tataḥ kopaṃ cakārāmarṣitas tadā mātaraṃ tāṃ tathā dṛṣṭvā nīyamānāṃ balād iva",
-    "english": "The son of the seer then became angry and indignant when he saw his mother being led away thus as if by force."
-  },
-  {
-    "ref": "1.113.13",
-    "sanskrit": "kruddhaṃ taṃ tu pitā dṛṣṭvā śvetaketum uvāca ha mā tāta kopaṃ kārṣīs tvam eṣa dharmaḥ sanātanaḥ",
-    "english": "Seeing him enraged, his father said to Śvetaketu: \"Do not be angry, my son — this is the eternal law.\""
-  },
-  {
-    "ref": "1.113.14",
-    "sanskrit": "anāvṛtā hi sarveṣāṃ varṇānām aṅganā bhuvi yathā gāvaḥ sthitās tāta sve sve varṇe tathā prajāḥ",
-    "english": "\"For the women of all social orders are unrestrained on earth, my son; just as cattle are, so are people, each within their own social order.\""
-  },
-  {
-    "ref": "1.113.15",
-    "sanskrit": "ṛṣiputro 'tha taṃ dharmaṃ śvetaketur na cakṣame cakāra caiva maryādām imāṃ strīpuṃsayor bhuvi",
-    "english": "But the seer's son Śvetaketu could not accept that law, and he established this boundary-rule for men and women on earth."
-  },
-  {
-    "ref": "1.113.16",
-    "sanskrit": "mānuṣeṣu mahābhāge na tv evānyeṣu jantuṣu tadā prabhṛti maryādā sthiteyam iti naḥ śrutam",
-    "english": "Among humans, O greatly blessed one, but not among other creatures — from that time this rule has been established, so we have heard."
-  },
-  {
-    "ref": "1.113.17",
-    "sanskrit": "vyuccarantyāḥ patiṃ nāryā adya prabhṛti pātakam bhrūṇahatyākṛtaṃ pāpaṃ bhaviṣyaty asukhāvaham",
-    "english": "From this day forward, for a woman who goes to another man abandoning her husband, the sin shall be equal to the slaying of an embryo — a painful transgression."
-  },
-  {
-    "ref": "1.113.18",
-    "sanskrit": "bhāryāṃ tathā vyuccarataḥ kaumārīṃ brahmacāriṇīm pativratām etad eva bhavitā pātakaṃ bhuvi",
-    "english": "Likewise for a man who violates a woman who was chaste from girlhood and devoted to her husband, this same sin will apply on earth."
-  },
-  {
-    "ref": "1.113.19",
-    "sanskrit": "patyā niyuktā yā caiva patny apatyārtham eva ca na kariṣyati tasyāś ca bhaviṣyaty etad eva hi",
-    "english": "And for the wife who is directed by her husband for the purpose of offspring yet refuses to comply, this same sin will befall her as well."
-  },
-  {
-    "ref": "1.113.20",
-    "sanskrit": "iti tena purā bhīru maryādā sthāpitā balāt uddālakasya putreṇa dharmyā vai śvetaketunā",
-    "english": "Thus in ancient times this righteous boundary-rule was forcibly established, O timid one, by Śvetaketu, the son of Uddālaka."
-  },
-  {
-    "ref": "1.113.21",
-    "sanskrit": "saudāsena ca rambhoru niyuktāpatyajanmani madayantī jagāmarṣiṃ vasiṣṭham iti naḥ śrutam",
-    "english": "And Madayantī, O Rambhoru, appointed for the production of offspring, went to the seer Vasiṣṭha by Saudāsa's direction — so we have heard."
-  },
-  {
-    "ref": "1.113.22",
-    "sanskrit": "tasmāl lebhe ca sā putram aśmakaṃ nāma bhāminī bhāryā kalmāṣapādasya bhartuḥ priyacikīrṣayā",
-    "english": "From this she received a son named Aśmaka, that beautiful woman, the wife of Kalmāṣapāda, desiring to please her husband."
-  },
-  {
-    "ref": "1.113.23",
-    "sanskrit": "asmākam api te janma viditaṃ kamalekṣaṇe kṛṣṇadvaipāyanād bhīru kurūṇāṃ vaṃśavṛddhaye",
-    "english": "Our own birth is also known to you, O lotus-eyed one — that we were born of Kṛṣṇa Dvaipāyana for the flourishing of the Kuru lineage, O timid one."
-  },
-  {
-    "ref": "1.113.24",
-    "sanskrit": "ata etāni sarvāṇi kāraṇāni samīkṣya vai mamaitad vacanaṃ dharmyaṃ kartum arhasy anindite",
-    "english": "Considering all these reasons, you ought to carry out this righteous request of mine, O blameless one."
-  },
-  {
-    "ref": "1.113.25",
-    "sanskrit": "ṛtāv ṛtau rājaputri striyā bhartā yatavrate nātivartavya ity evaṃ dharmaṃ dharmavido viduḥ",
-    "english": "\"A husband should not be disobeyed by his wife in each fertile season, O princess devoted to your vow\" — thus those who know dharma know this law."
-  },
-  {
-    "ref": "1.113.26",
-    "sanskrit": "śeṣeṣv anyeṣu kāleṣu svātantryaṃ strī kilārhati dharmam etaṃ janāḥ santaḥ purāṇaṃ paricakṣate",
-    "english": "In all other remaining times, a woman indeed is entitled to independence — good people describe this as the ancient dharma."
-  },
-  {
-    "ref": "1.113.27",
-    "sanskrit": "bhartā bhāryāṃ rājaputri dharmyaṃ vādharmyam eva vā yad brūyāt tat tathā kāryam iti dharmavido viduḥ",
-    "english": "Whatever a husband commands his wife, O princess, whether righteous or even unrighteous, that must be carried out accordingly — so those who know dharma declare."
-  },
-  {
-    "ref": "1.113.28",
-    "sanskrit": "viśeṣataḥ putragṛddhī hīnaḥ prajananāt svayam yathāham anavadyāṅgi putradarśanalālasaḥ",
-    "english": "Especially one who is eager for sons yet is himself lacking in the power of procreation — as I am, O blameless-limbed one, longing to behold a son."
-  },
-  {
-    "ref": "1.113.29",
-    "sanskrit": "tathā raktāṅgulitalaḥ padmapatranibhaḥ śubhe prasādārthaṃ mayā te 'yaṃ śirasy abhyudyato 'ñjaliḥ",
-    "english": "With palms reddened and resembling lotus petals, O auspicious one, this folded salutation is raised by me to your head to beg your grace."
-  },
-  {
-    "ref": "1.113.30",
-    "sanskrit": "manniyogāt sukeśānte dvijātes tapasādhikāt putrān guṇasamāyuktān utpādayitum arhasi tvatkṛte 'haṃ pṛthuśroṇi gaccheyaṃ putriṇāṃ gatim",
-    "english": "By my direction, O beautiful-haired one, from a twice-born man excelling in austerity, you ought to beget sons endowed with virtues; for your sake, O broad-hipped one, I would reach the path of those who have sons."
-  },
-  {
-    "ref": "1.113.31",
-    "sanskrit": "evam uktā tataḥ kuntī pāṇḍuṃ parapuraṃjayam pratyuvāca varārohā bhartuḥ priyahite ratā",
-    "english": "Thus addressed, Kuntī then replied to Pāṇḍu, the conqueror of enemy cities — that fair-limbed woman devoted to her husband's welfare and delight."
-  },
-  {
-    "ref": "1.113.32",
-    "sanskrit": "pitṛveśmany ahaṃ bālā niyuktātithipūjane ugraṃ paryacaraṃ tatra brāhmaṇaṃ saṃśitavratam",
-    "english": "\"As a young girl in my father's house, appointed to the honor of guests, I attended there upon a fierce brahmin of sharp-edged vow.\""
-  },
-  {
-    "ref": "1.113.33",
-    "sanskrit": "nigūḍhaniścayaṃ dharme yaṃ taṃ durvāsasaṃ viduḥ tam ahaṃ saṃśitātmānaṃ sarvayatnair atoṣayam",
-    "english": "\"He whose resolve in dharma is hidden — him they know as Durvasa; him I gratified with every effort, that one of disciplined soul.\""
-  },
-  {
-    "ref": "1.113.34",
-    "sanskrit": "sa me 'bhicārasaṃyuktam ācaṣṭa bhagavān varam mantragrāmaṃ ca me prādād abravīc caiva mām idam",
-    "english": "\"That blessed one declared to me a boon connected with invocation; he gave me a group of mantras and also spoke this to me.\""
-  },
-  {
-    "ref": "1.113.35",
-    "sanskrit": "yaṃ yaṃ devaṃ tvam etena mantreṇāvāhayiṣyasi akāmo vā sakāmo vā sa te vaśam upaiṣyati",
-    "english": "\"Whichever god you summon with this mantra, whether reluctantly or willingly, he will come under your control.\""
-  },
-  {
-    "ref": "1.113.36",
-    "sanskrit": "ity uktāhaṃ tadā tena pitṛveśmani bhārata brāhmaṇena vacas tathyaṃ tasya kālo 'yam āgataḥ",
-    "english": "\"So I was told at that time in my father's house by that brahmin, O Bharata — that true word of his; now the time for it has come.\""
-  },
-  {
-    "ref": "1.113.37",
-    "sanskrit": "anujñātā tvayā devam āhvayeyam ahaṃ nṛpa tena mantreṇa rājarṣe yathā syān nau prajā vibho",
-    "english": "\"With your permission, O king, I shall summon a god, O royal sage, with that mantra, so that we may have progeny, O lord.\""
-  },
-  {
-    "ref": "1.113.38",
-    "sanskrit": "āvāhayāmi kaṃ devaṃ brūhi tattvavidāṃ vara tvatto 'nujñāpratīkṣāṃ māṃ viddhy asmin karmaṇi sthitām",
-    "english": "\"Tell me which god I shall summon, O best of knowers of truth; know me as standing ready in this matter, awaiting your permission.\""
-  },
-  {
-    "ref": "1.113.39",
-    "sanskrit": "pāṇḍur uvāca adyaiva tvaṃ varārohe prayatasva yathāvidhi dharmam āvāhaya śubhe sa hi deveṣu puṇyabhāk",
-    "english": "Pāṇḍu said: This very day, O fair-limbed one, prepare yourself duly and summon Dharma, O auspicious one — for he is the meritorious one among the gods."
-  },
-  {
-    "ref": "1.113.40",
-    "sanskrit": "adharmeṇa na no dharmaḥ saṃyujyeta kathaṃ cana lokaś cāyaṃ varārohe dharmo 'yam iti maṃsyate",
-    "english": "\"Our son born of dharma will in no way be tainted by unrighteousness, O fair-limbed one; and this world will regard this as righteous.\""
-  },
-  {
-    "ref": "1.113.41",
-    "sanskrit": "dhārmikaś ca kurūṇāṃ sa bhaviṣyati na saṃśayaḥ dattasyāpi ca dharmeṇa nādharme raṃsyate manaḥ",
-    "english": "\"He will be righteous and the Kurus' heir — there is no doubt; even though begotten through delegation, his mind will not delight in unrighteousness.\""
-  },
-  {
-    "ref": "1.113.42",
-    "sanskrit": "tasmād dharmaṃ puraskṛtya niyatā tvaṃ śucismite upacārābhicārābhyāṃ dharmam ārādhayasva vai",
-    "english": "\"Therefore, placing dharma foremost, restrained and pure-smiled, worship Dharma with ritual service and invocation.\""
-  },
-  {
-    "ref": "1.113.43",
-    "sanskrit": "vaiśaṃpāyana uvāca sā tathoktā tathety uktvā tena bhartrā varāṅganā abhivādyābhyanujñātā pradakṣiṇam avartata",
-    "english": "Vaiśaṃpāyana said: Thus directed by her husband, that beautiful woman assented saying \"So be it\"; saluting him and receiving his leave, she circumambulated him."
-  },
-  {
-    "ref": "1.114.1",
-    "sanskrit": "vaiśaṃpāyana uvāca saṃvatsarāhite garbhe gāndhāryā janamejaya āhvayām āsa vai kuntī garbhārthaṃ dharmam acyutam",
-    "english": "Vaiśaṃpāyana said: When a year had passed since Gāndhārī's pregnancy, O Janamejaya, Kuntī summoned the infallible Dharma for the sake of a child."
-  },
-  {
-    "ref": "1.114.2",
-    "sanskrit": "sā baliṃ tvaritā devī dharmāyopajahāra ha jajāpa japyaṃ vidhivad dattaṃ durvāsasā purā",
-    "english": "That goddess hastened and offered oblations to Dharma; she muttered the mantra given long ago by Durvasa, according to prescribed rite."
-  },
-  {
-    "ref": "1.114.3",
-    "sanskrit": "saṃgamya sā tu dharmeṇa yogamūrtidhareṇa vai lebhe putraṃ varārohā sarvaprāṇabhṛtāṃ varam",
-    "english": "Uniting with Dharma who bore the form of yogic power, that fair-limbed woman obtained a son — the foremost among all living beings."
-  },
-  {
-    "ref": "1.114.4",
-    "sanskrit": "aindre candrasamāyukte muhūrte 'bhijite 'ṣṭame divā madhyagate sūrye tithau puṇye 'bhipūjite",
-    "english": "In the auspicious lunar mansion presided over by Indra, in the eighth muhurta called Abhijit, when the sun was at midday, on a holy and honored lunar day —"
-  },
-  {
-    "ref": "1.114.5",
-    "sanskrit": "samṛddhayaśasaṃ kuntī suṣāva samaye sutam jātamātre sute tasmin vāg uvācāśarīriṇī",
-    "english": "— Kuntī at the proper time brought forth a son of abundant glory; and the moment that son was born, a disembodied voice spoke."
-  },
-  {
-    "ref": "1.114.6",
-    "sanskrit": "eṣa dharmabhṛtāṃ śreṣṭho bhaviṣyati na saṃśayaḥ yudhiṣṭhira iti khyātaḥ pāṇḍoḥ prathamajaḥ sutaḥ",
-    "english": "\"This one will be the foremost among upholders of dharma — there is no doubt; known as Yudhiṣṭhira, the first-born son of Pāṇḍu.\""
-  }
+{"ref": "1.112.4", "sanskrit": "svargaṃ manujaśārdūla gaccheyaṃ sahitā tvayā apatyāya ca māṃ gaccha tvam eva kurunandana", "english": "I would go to heaven together with you, O tiger among men; come to me for the sake of offspring, O joy of the Kurus."},
+{"ref": "1.112.5", "sanskrit": "na hy ahaṃ manasāpy anyaṃ gaccheyaṃ tvad ṛte naram tvattaḥ prativiśiṣṭaś ca ko 'nyo 'sti bhuvi mānavaḥ", "english": "For I would not approach any other man even in thought apart from you; and who else is there in the world more excellent than you?"},
+{"ref": "1.112.6", "sanskrit": "imāṃ ca tāvad dharmyāṃ tvaṃ paurāṇīṃ śṛṇu me kathām pariśrutāṃ viśālākṣa kīrtayiṣyāmi yām aham", "english": "Now hear this ancient story rooted in dharma from me, O wide-eyed one, which I shall recount — a tale widely celebrated."},
+{"ref": "1.112.7", "sanskrit": "vyuṣitāśva iti khyāto babhūva kila pārthivaḥ purā paramadharmiṣṭhaḥ pūror vaṃśavivardhanaḥ", "english": "There was of old a king known as Vyushitashva, supremely devoted to righteousness, the extender of the lineage of Puru."},
+{"ref": "1.112.8", "sanskrit": "tasmiṃś ca yajamāne vai dharmātmani mahātmani upāgamaṃs tato devāḥ sendrāḥ saha maharṣibhiḥ", "english": "When that righteous and great-souled one was performing sacrifice, the gods together with Indra and the great sages came thither."},
+{"ref": "1.112.9", "sanskrit": "amādyad indraḥ somena dakṣiṇābhir dvijātayaḥ vyuṣitāśvasya rājarṣes tato yajñe mahātmanaḥ", "english": "Indra became exhilarated with soma, and the twice-born with the sacrificial fees, at the great sacrifice of that royal sage Vyushitashva."},
+{"ref": "1.112.10", "sanskrit": "vyuṣitāśvas tato rājann ati martyān vyarocata sarvabhūtāny ati yathā tapanaḥ śiśirātyaye", "english": "Then Vyushitashva, O king, shone beyond all mortals, surpassing all creatures as the sun surpasses them at the end of winter."},
+{"ref": "1.112.11", "sanskrit": "sa vijitya gṛhītvā ca nṛpatīn rājasattamaḥ prācyān udīcyān madhyāṃś ca dakṣiṇātyān akālayat", "english": "That best of kings, conquering and subduing the monarchs of the east, north, and the middle regions, brought the southern kings to submission."},
+{"ref": "1.112.12", "sanskrit": "aśvamedhe mahāyajñe vyuṣitāśvaḥ pratāpavān babhūva sa hi rājendro daśanāgabalānvitaḥ", "english": "At the great horse sacrifice, the valorous Vyushitashva, that lord of kings, was possessed of the strength of ten elephants."},
+{"ref": "1.112.13", "sanskrit": "apy atra gāthāṃ gāyanti ye purāṇavido janāḥ vyuṣitāśvaḥ samudrāntāṃ vijityemāṃ vasuṃdharām apālayat sarvavarṇān pitā putrān ivaurasān", "english": "Even now those who know the ancient lore sing this verse about him: Vyushitashva, having conquered this earth up to the shores of the sea, protected all the social orders as a father protects his own sons."},
+{"ref": "1.112.14", "sanskrit": "yajamāno mahāyajñair brāhmaṇebhyo dadau dhanam anantaratnāny ādāya ājahāra mahākratūn suṣāva ca bahūn somān somasaṃsthās tatāna ca", "english": "Performing great sacrifices, he gave wealth to the brahmins; having collected unlimited riches, he conducted great rites, pressed many soma-libations, and spread out soma ceremonies."},
+{"ref": "1.112.15", "sanskrit": "āsīt kākṣīvatī cāsya bhāryā paramasaṃmatā bhadrā nāma manuṣyendra rūpeṇāsadṛśī bhuvi", "english": "He had a wife most highly esteemed, Kakshivati's daughter, named Bhadra, O lord of men, unrivalled in beauty on earth."},
+{"ref": "1.112.16", "sanskrit": "kāmayām āsatus tau tu parasparam iti śrutiḥ sa tasyāṃ kāmasaṃmatto yakṣmāṇaṃ samapadyata", "english": "They two loved each other passionately — so the tradition says; overcome with desire for her, he contracted consumption."},
+{"ref": "1.112.17", "sanskrit": "tenācireṇa kālena jagāmāstam ivāṃśumān tasmin prete manuṣyendre bhāryāsya bhṛśaduḥkhitā", "english": "Before long he set like the sun, and when that lord of men was dead, his wife was overwhelmed with grief."},
+{"ref": "1.112.18", "sanskrit": "aputrā puruṣavyāghra vilalāpeti naḥ śrutam bhadrā paramaduḥkhārtā tan nibodha narādhipa", "english": "Childless, the deeply afflicted Bhadra lamented piteously — so we have heard; know this, O lord of men."},
+{"ref": "1.112.19", "sanskrit": "nārī paramadharmajña sarvā putravinākṛtā patiṃ vinā jīvati yā na sā jīvati duḥkhitā", "english": "O best knower of dharma, every woman deprived of a son who lives without her husband does not truly live — she lives in misery."},
+{"ref": "1.112.20", "sanskrit": "patiṃ vinā mṛtaṃ śreyo nāryāḥ kṣatriyapuṃgava tvadgatiṃ gantum icchāmi prasīdasva nayasva mām", "english": "For a woman, death without her husband is better, O bull among Kṣatriyas; I wish to follow your path — be gracious and take me with you."},
+{"ref": "1.112.21", "sanskrit": "tvayā hīnā kṣaṇam api nāhaṃ jīvitum utsahe prasādaṃ kuru me rājann itas tūrṇaṃ nayasva mām", "english": "Bereft of you I cannot bear to live even a moment; show grace to me, O king, take me swiftly from here."},
+{"ref": "1.112.22", "sanskrit": "pṛṣṭhato 'nugamiṣyāmi sameṣu viṣameṣu ca tvām ahaṃ naraśārdūla gacchantam anivartinam", "english": "I shall follow behind you, O tiger among men, as you go on without turning back, through level and uneven paths alike."},
+{"ref": "1.112.23", "sanskrit": "chāyevānapagā rājan satataṃ vaśavartinī bhaviṣyāmi naravyāghra nityaṃ priyahite ratā", "english": "Like a shadow that does not depart, O king, ever devoted to your will, I shall be, O tiger among men, always intent on your welfare and delight."},
+{"ref": "1.112.24", "sanskrit": "adya prabhṛti māṃ rājan kaṣṭā hṛdayaśoṣaṇāḥ ādhayo 'bhibhaviṣyanti tvad ṛte puṣkarekṣaṇa", "english": "From this day forward, O king, terrible mental agonies that wither the heart will overwhelm me without you, O lotus-eyed one."},
+{"ref": "1.112.25", "sanskrit": "abhāgyayā mayā nūnaṃ viyuktāḥ sahacāriṇaḥ saṃyogā viprayuktā vā pūrvadeheṣu pārthiva", "english": "Surely in my misfortune, O king, unions with companions were severed in previous lives, or associations were broken."},
+{"ref": "1.112.26", "sanskrit": "tad idaṃ karmabhiḥ pāpaiḥ pūrvadeheṣu saṃcitam duḥkhaṃ mām anusaṃprāptaṃ rājaṃs tvadviprayogajam", "english": "And this sorrow born of separation from you has caught up with me now, O king — accumulated in former bodies by sinful deeds."},
+{"ref": "1.112.27", "sanskrit": "adya prabhṛty ahaṃ rājan kuśaprastaraśāyinī bhaviṣyāmy asukhāviṣṭā tvaddarśanaparāyaṇā", "english": "From this day forward, O king, I shall lie on a bed of kusha grass, filled with wretchedness, my whole aim set only upon seeing you again."},
+{"ref": "1.112.28", "sanskrit": "darśayasva naravyāghra sādhu mām asukhānvitām dīnām anāthāṃ kṛpaṇāṃ vilapantīṃ nareśvara", "english": "Show yourself to me, O tiger among men — to me who is wretched, helpless, miserable, and lamenting; be gracious, O lord of men."},
+{"ref": "1.112.29", "sanskrit": "evaṃ bahuvidhaṃ tasyāṃ vilapantyāṃ punaḥ punaḥ taṃ śavaṃ saṃpariṣvajya vāk kilāntarhitābravīt", "english": "While she thus lamented in many ways again and again and clasped that corpse, a disembodied voice is said to have spoken."},
+{"ref": "1.112.30", "sanskrit": "uttiṣṭha bhadre gaccha tvaṃ dadānīha varaṃ tava janayiṣyāmy apatyāni tvayy ahaṃ cāruhāsini", "english": "Rise, Bhadra; go — I will grant you a boon here; I shall beget offspring upon you, O fair-smiling one."},
+{"ref": "1.112.31", "sanskrit": "ātmīye ca varārohe śayanīye caturdaśīm aṣṭamīṃ vā ṛtusnātā saṃviśethā mayā saha", "english": "On my own bed, O fair-limbed one, on the fourteenth or the eighth night after your purifying bath at the appointed season, lie down with me."},
+{"ref": "1.112.32", "sanskrit": "evam uktā tu sā devī tathā cakre pativratā yathoktam eva tad vākyaṃ bhadrā putrārthinī tadā", "english": "Thus addressed, that goddess devoted to her husband did exactly as was said; Bhadra, desiring sons, did exactly as instructed."},
+{"ref": "1.112.33", "sanskrit": "sā tena suṣuve devī śavena manujādhipa trīñ śālvāṃś caturo madrān sutān bharatasattama", "english": "That goddess bore sons by him — the corpse — O lord of men: three Śālvas and four sons of Madra, O best of the Bhāratas."},
+{"ref": "1.112.34", "sanskrit": "tathā tvam api mayy eva manasā bharatarṣabha śakto janayituṃ putrāṃs tapoyogabalānvayāt", "english": "In the same way you too, O bull of the Bhāratas, are able by the power of austerity and spiritual discipline to beget sons in me by mental resolve alone."},
+{"ref": "1.113.1", "sanskrit": "vaiśaṃpāyana uvāca evam uktas tayā rājā tāṃ devīṃ punar abravīt dharmavid dharmasaṃyuktam idaṃ vacanam uttamam", "english": "Vaiśaṃpāyana said: Thus addressed by her, the king, that knower of dharma, spoke again to that goddess this most excellent speech in accordance with righteousness."},
+{"ref": "1.113.2", "sanskrit": "evam etat purā kunti vyuṣitāśvaś cakāra ha yathā tvayoktaṃ kalyāṇi sa hy āsīd amaropamaḥ", "english": "Exactly so did Vyushitashva act in former times, O Kuntī, as you have described, O auspicious one — for he was like an immortal."},
+{"ref": "1.113.3", "sanskrit": "atha tv imaṃ pravakṣyāmi dharmaṃ tv etaṃ nibodha me purāṇam ṛṣibhir dṛṣṭaṃ dharmavidbhir mahātmabhiḥ", "english": "But now I shall speak of this dharma — hear it from me: the ancient usage seen by the great-souled knowers of dharma among the seers."},
+{"ref": "1.113.4", "sanskrit": "anāvṛtāḥ kila purā striya āsan varānane kāmacāravihāriṇyaḥ svatantrāś cārulocane", "english": "Women were unrestrained in former times, O fair-faced one, roaming freely as they pleased, independent, O lovely-eyed one."},
+{"ref": "1.113.5", "sanskrit": "tāsāṃ vyuccaramāṇānāṃ kaumārāt subhage patīn nādharmo 'bhūd varārohe sa hi dharmaḥ purābhavat", "english": "When they went to other men from girlhood, apart from their husbands, O blessed one, there was no unrighteousness, O fair-limbed one — for that was the law in ancient times."},
+{"ref": "1.113.6", "sanskrit": "taṃ caiva dharmaṃ paurāṇaṃ tiryagyonigatāḥ prajāḥ adyāpy anuvidhīyante kāmadveṣavivarjitāḥ purāṇadṛṣṭo dharmo 'yaṃ pūjyate ca maharṣibhiḥ", "english": "Even today creatures born in animal wombs follow that ancient law, free from desire and aversion; this dharma as seen by the ancients is still honored by the great seers."},
+{"ref": "1.113.7", "sanskrit": "uttareṣu ca rambhoru kuruṣv adyāpi vartate strīṇām anugrahakaraḥ sa hi dharmaḥ sanātanaḥ", "english": "Among the Northern Kurus even today that eternal dharma prevails, O Rambhoru, which confers freedom on women."},
+{"ref": "1.113.8", "sanskrit": "asmiṃs tu loke nacirān maryādeyaṃ śucismite sthāpitā yena yasmāc ca tan me vistarataḥ śṛṇu", "english": "But in this world not long ago this boundary-rule was established, O pure-smiled one — hear from me at length by whom and for what reason."},
+{"ref": "1.113.9", "sanskrit": "babhūvoddālako nāma maharṣir iti naḥ śrutam śvetaketur iti khyātaḥ putras tasyābhavan muniḥ", "english": "There was a great seer named Uddālaka — so we have heard; his son, the sage who became known as Śvetaketu."},
+{"ref": "1.113.10", "sanskrit": "maryādeyaṃ kṛtā tena mānuṣeṣv iti naḥ śrutam kopāt kamalapatrākṣi yadarthaṃ tan nibodha me", "english": "This boundary-rule was established by him among humans — so we have heard — out of anger, O lotus-eyed one; hear from me the reason for it."},
+{"ref": "1.113.11", "sanskrit": "śvetaketoḥ kila purā samakṣaṃ mātaraṃ pituḥ jagrāha brāhmaṇaḥ pāṇau gacchāva iti cābravīt", "english": "Before Śvetaketu's very eyes, a brahmin took his mother by the hand in his father's presence and said, \"Let us go.\""},
+{"ref": "1.113.12", "sanskrit": "ṛṣiputras tataḥ kopaṃ cakārāmarṣitas tadā mātaraṃ tāṃ tathā dṛṣṭvā nīyamānāṃ balād iva", "english": "The son of the seer then became angry and indignant when he saw his mother being led away thus as if by force."},
+{"ref": "1.113.13", "sanskrit": "kruddhaṃ taṃ tu pitā dṛṣṭvā śvetaketum uvāca ha mā tāta kopaṃ kārṣīs tvam eṣa dharmaḥ sanātanaḥ", "english": "Seeing him enraged, his father said to Śvetaketu: \"Do not be angry, my son — this is the eternal law.\""},
+{"ref": "1.113.14", "sanskrit": "anāvṛtā hi sarveṣāṃ varṇānām aṅganā bhuvi yathā gāvaḥ sthitās tāta sve sve varṇe tathā prajāḥ", "english": "\"For the women of all social orders are unrestrained on earth, my son; just as cattle are, so are people, each within their own social order.\""},
+{"ref": "1.113.15", "sanskrit": "ṛṣiputro 'tha taṃ dharmaṃ śvetaketur na cakṣame cakāra caiva maryādām imāṃ strīpuṃsayor bhuvi", "english": "But the seer's son Śvetaketu could not accept that law, and he established this boundary-rule for men and women on earth."},
+{"ref": "1.113.16", "sanskrit": "mānuṣeṣu mahābhāge na tv evānyeṣu jantuṣu tadā prabhṛti maryādā sthiteyam iti naḥ śrutam", "english": "Among humans, O greatly blessed one, but not among other creatures — from that time this rule has been established, so we have heard."},
+{"ref": "1.113.17", "sanskrit": "vyuccarantyāḥ patiṃ nāryā adya prabhṛti pātakam bhrūṇahatyākṛtaṃ pāpaṃ bhaviṣyaty asukhāvaham", "english": "From this day forward, for a woman who goes to another man abandoning her husband, the sin shall be equal to the slaying of an embryo — a painful transgression."},
+{"ref": "1.113.18", "sanskrit": "bhāryāṃ tathā vyuccarataḥ kaumārīṃ brahmacāriṇīm pativratām etad eva bhavitā pātakaṃ bhuvi", "english": "Likewise for a man who violates a woman who was chaste from girlhood and devoted to her husband, this same sin will apply on earth."},
+{"ref": "1.113.19", "sanskrit": "patyā niyuktā yā caiva patny apatyārtham eva ca na kariṣyati tasyāś ca bhaviṣyaty etad eva hi", "english": "And for the wife who is directed by her husband for the purpose of offspring yet refuses to comply, this same sin will befall her as well."},
+{"ref": "1.113.20", "sanskrit": "iti tena purā bhīru maryādā sthāpitā balāt uddālakasya putreṇa dharmyā vai śvetaketunā", "english": "Thus in ancient times this righteous boundary-rule was forcibly established, O timid one, by Śvetaketu, the son of Uddālaka."},
+{"ref": "1.113.21", "sanskrit": "saudāsena ca rambhoru niyuktāpatyajanmani madayantī jagāmarṣiṃ vasiṣṭham iti naḥ śrutam", "english": "And Madayantī, O Rambhoru, appointed for the production of offspring, went to the seer Vasiṣṭha by Saudāsa's direction — so we have heard."},
+{"ref": "1.113.22", "sanskrit": "tasmāl lebhe ca sā putram aśmakaṃ nāma bhāminī bhāryā kalmāṣapādasya bhartuḥ priyacikīrṣayā", "english": "From this she received a son named Aśmaka, that beautiful woman, the wife of Kalmāṣapāda, desiring to please her husband."},
+{"ref": "1.113.23", "sanskrit": "asmākam api te janma viditaṃ kamalekṣaṇe kṛṣṇadvaipāyanād bhīru kurūṇāṃ vaṃśavṛddhaye", "english": "Our own birth is also known to you, O lotus-eyed one — that we were born of Kṛṣṇa Dvaipāyana for the flourishing of the Kuru lineage, O timid one."},
+{"ref": "1.113.24", "sanskrit": "ata etāni sarvāṇi kāraṇāni samīkṣya vai mamaitad vacanaṃ dharmyaṃ kartum arhasy anindite", "english": "Considering all these reasons, you ought to carry out this righteous request of mine, O blameless one."},
+{"ref": "1.113.25", "sanskrit": "ṛtāv ṛtau rājaputri striyā bhartā yatavrate nātivartavya ity evaṃ dharmaṃ dharmavido viduḥ", "english": "\"A husband should not be disobeyed by his wife in each fertile season, O princess devoted to your vow\" — thus those who know dharma know this law."},
+{"ref": "1.113.26", "sanskrit": "śeṣeṣv anyeṣu kāleṣu svātantryaṃ strī kilārhati dharmam etaṃ janāḥ santaḥ purāṇaṃ paricakṣate", "english": "In all other remaining times, a woman indeed is entitled to independence — good people describe this as the ancient dharma."},
+{"ref": "1.113.27", "sanskrit": "bhartā bhāryāṃ rājaputri dharmyaṃ vādharmyam eva vā yad brūyāt tat tathā kāryam iti dharmavido viduḥ", "english": "Whatever a husband commands his wife, O princess, whether righteous or even unrighteous, that must be carried out accordingly — so those who know dharma declare."},
+{"ref": "1.113.28", "sanskrit": "viśeṣataḥ putragṛddhī hīnaḥ prajananāt svayam yathāham anavadyāṅgi putradarśanalālasaḥ", "english": "Especially one who is eager for sons yet is himself lacking in the power of procreation — as I am, O blameless-limbed one, longing to behold a son."},
+{"ref": "1.113.29", "sanskrit": "tathā raktāṅgulitalaḥ padmapatranibhaḥ śubhe prasādārthaṃ mayā te 'yaṃ śirasy abhyudyato 'ñjaliḥ", "english": "With palms reddened and resembling lotus petals, O auspicious one, this folded salutation is raised by me to your head to beg your grace."},
+{"ref": "1.113.30", "sanskrit": "manniyogāt sukeśānte dvijātes tapasādhikāt putrān guṇasamāyuktān utpādayitum arhasi tvatkṛte 'haṃ pṛthuśroṇi gaccheyaṃ putriṇāṃ gatim", "english": "By my direction, O beautiful-haired one, from a twice-born man excelling in austerity, you ought to beget sons endowed with virtues; for your sake, O broad-hipped one, I would reach the path of those who have sons."},
+{"ref": "1.113.31", "sanskrit": "evam uktā tataḥ kuntī pāṇḍuṃ parapuraṃjayam pratyuvāca varārohā bhartuḥ priyahite ratā", "english": "Thus addressed, Kuntī then replied to Pāṇḍu, the conqueror of enemy cities — that fair-limbed woman devoted to her husband's welfare and delight."},
+{"ref": "1.113.32", "sanskrit": "pitṛveśmany ahaṃ bālā niyuktātithipūjane ugraṃ paryacaraṃ tatra brāhmaṇaṃ saṃśitavratam", "english": "\"As a young girl in my father's house, appointed to the honor of guests, I attended there upon a fierce brahmin of sharp-edged vow.\""},
+{"ref": "1.113.33", "sanskrit": "nigūḍhaniścayaṃ dharme yaṃ taṃ durvāsasaṃ viduḥ tam ahaṃ saṃśitātmānaṃ sarvayatnair atoṣayam", "english": "\"He whose resolve in dharma is hidden — him they know as Durvasa; him I gratified with every effort, that one of disciplined soul.\""},
+{"ref": "1.113.34", "sanskrit": "sa me 'bhicārasaṃyuktam ācaṣṭa bhagavān varam mantragrāmaṃ ca me prādād abravīc caiva mām idam", "english": "\"That blessed one declared to me a boon connected with invocation; he gave me a group of mantras and also spoke this to me.\""},
+{"ref": "1.113.35", "sanskrit": "yaṃ yaṃ devaṃ tvam etena mantreṇāvāhayiṣyasi akāmo vā sakāmo vā sa te vaśam upaiṣyati", "english": "\"Whichever god you summon with this mantra, whether reluctantly or willingly, he will come under your control.\""},
+{"ref": "1.113.36", "sanskrit": "ity uktāhaṃ tadā tena pitṛveśmani bhārata brāhmaṇena vacas tathyaṃ tasya kālo 'yam āgataḥ", "english": "\"So I was told at that time in my father's house by that brahmin, O Bhārata — that true word of his; now the time for it has come.\""},
+{"ref": "1.113.37", "sanskrit": "anujñātā tvayā devam āhvayeyam ahaṃ nṛpa tena mantreṇa rājarṣe yathā syān nau prajā vibho", "english": "\"With your permission, O king, I shall summon a god, O royal sage, with that mantra, so that we may have progeny, O lord.\""},
+{"ref": "1.113.38", "sanskrit": "āvāhayāmi kaṃ devaṃ brūhi tattvavidāṃ vara tvatto 'nujñāpratīkṣāṃ māṃ viddhy asmin karmaṇi sthitām", "english": "\"Tell me which god I shall summon, O best of knowers of truth; know me as standing ready in this matter, awaiting your permission.\""},
+{"ref": "1.113.39", "sanskrit": "pāṇḍur uvāca adyaiva tvaṃ varārohe prayatasva yathāvidhi dharmam āvāhaya śubhe sa hi deveṣu puṇyabhāk", "english": "Pāṇḍu said: This very day, O fair-limbed one, prepare yourself duly and summon Dharma, O auspicious one — for he is the meritorious one among the gods."},
+{"ref": "1.113.40", "sanskrit": "adharmeṇa na no dharmaḥ saṃyujyeta kathaṃ cana lokaś cāyaṃ varārohe dharmo 'yam iti maṃsyate", "english": "\"Our son born of dharma will in no way be tainted by unrighteousness, O fair-limbed one; and this world will regard this as righteous.\""},
+{"ref": "1.113.41", "sanskrit": "dhārmikaś ca kurūṇāṃ sa bhaviṣyati na saṃśayaḥ dattasyāpi ca dharmeṇa nādharme raṃsyate manaḥ", "english": "\"He will be righteous and the Kurus' heir — there is no doubt; even though begotten through delegation, his mind will not delight in unrighteousness.\""},
+{"ref": "1.113.42", "sanskrit": "tasmād dharmaṃ puraskṛtya niyatā tvaṃ śucismite upacārābhicārābhyāṃ dharmam ārādhayasva vai", "english": "\"Therefore, placing dharma foremost, restrained and pure-smiled, worship Dharma with ritual service and invocation.\""},
+{"ref": "1.113.43", "sanskrit": "vaiśaṃpāyana uvāca sā tathoktā tathety uktvā tena bhartrā varāṅganā abhivādyābhyanujñātā pradakṣiṇam avartata", "english": "Vaiśaṃpāyana said: Thus directed by her husband, that beautiful woman assented saying \"So be it\"; saluting him and receiving his leave, she circumambulated him."},
+{"ref": "1.114.1", "sanskrit": "vaiśaṃpāyana uvāca saṃvatsarāhite garbhe gāndhāryā janamejaya āhvayām āsa vai kuntī garbhārthaṃ dharmam acyutam", "english": "Vaiśaṃpāyana said: When a year had passed since Gāndhārī's pregnancy, O Janamejaya, Kuntī summoned the infallible Dharma for the sake of a child."},
+{"ref": "1.114.2", "sanskrit": "sā baliṃ tvaritā devī dharmāyopajahāra ha jajāpa japyaṃ vidhivad dattaṃ durvāsasā purā", "english": "That goddess hastened and offered oblations to Dharma; she muttered the mantra given long ago by Durvasa, according to prescribed rite."},
+{"ref": "1.114.3", "sanskrit": "saṃgamya sā tu dharmeṇa yogamūrtidhareṇa vai lebhe putraṃ varārohā sarvaprāṇabhṛtāṃ varam", "english": "Uniting with Dharma who bore the form of yogic power, that fair-limbed woman obtained a son — the foremost among all living beings."},
+{"ref": "1.114.4", "sanskrit": "aindre candrasamāyukte muhūrte 'bhijite 'ṣṭame divā madhyagate sūrye tithau puṇye 'bhipūjite", "english": "In the auspicious lunar mansion presided over by Indra, in the eighth muhurta called Abhijit, when the sun was at midday, on a holy and honored lunar day —"},
+{"ref": "1.114.5", "sanskrit": "samṛddhayaśasaṃ kuntī suṣāva samaye sutam jātamātre sute tasmin vāg uvācāśarīriṇī", "english": "— Kuntī at the proper time brought forth a son of abundant glory; and the moment that son was born, a disembodied voice spoke."},
+{"ref": "1.114.6", "sanskrit": "eṣa dharmabhṛtāṃ śreṣṭho bhaviṣyati na saṃśayaḥ yudhiṣṭhira iti khyātaḥ pāṇḍoḥ prathamajaḥ sutaḥ", "english": "\"This one will be the foremost among upholders of dharma — there is no doubt; known as Yudhiṣṭhira, the first-born son of Pāṇḍu.\""}
 ]

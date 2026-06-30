@@ -1,402 +1,82 @@
 [
-  {
-    "ref": "1.93.12",
-    "sanskrit": "te sadārā vanaṃ tac ca vyacaranta samantataḥ remire ramaṇīyeṣu parvateṣu vaneṣu ca",
-    "english": "Those Vasus, together with their wives, roamed that forest in all directions and took delight in its charming mountains and woodland groves."
-  },
-  {
-    "ref": "1.93.13",
-    "sanskrit": "tatraikasya tu bhāryā vai vasor vāsavavikrama sā carantī vane tasmin gāṃ dadarśa sumadhyamā yā sā vasiṣṭhasya muneḥ sarvakāmadhug uttamā",
-    "english": "There, O hero rivalling Indra, the wife of one of those Vasus—a slender-waisted lady wandering in that forest—caught sight of the cow that was the wish-fulfilling gem of the sage Vasiṣṭha, supreme among all desire-yielding kine."
-  },
-  {
-    "ref": "1.93.14",
-    "sanskrit": "sā vismayasamāviṣṭā śīladraviṇasaṃpadā dive vai darśayām āsa tāṃ gāṃ govṛṣabhekṣaṇa",
-    "english": "Filled with wonder at the cow's wealth of virtue and beauty, she pointed her out to her husband Dyaus, O bull-eyed one."
-  },
-  {
-    "ref": "1.93.15",
-    "sanskrit": "svāpīnāṃ ca sudogdhrīṃ ca suvāladhimukhāṃ śubhām upapannāṃ guṇaiḥ sarvaiḥ śīlenānuttamena ca",
-    "english": "The cow was deep-uddered, gave milk freely, had a fine tail and a beautiful face, was endowed with every good quality, and possessed a character utterly without equal."
-  },
-  {
-    "ref": "1.93.16",
-    "sanskrit": "evaṃguṇasamāyuktāṃ vasave vasunandinī darśayām āsa rājendra purā pauravanandana",
-    "english": "The daughter of a Vasu, O lord of kings, O delight of the Pauravas, pointed out that cow, thus endowed with all these qualities, to her husband the Vasu Dyaus long ago."
-  },
-  {
-    "ref": "1.93.17",
-    "sanskrit": "dyaus tadā tāṃ tu dṛṣṭvaiva gāṃ gajendrendravikrama uvāca rājaṃs tāṃ devīṃ tasyā rūpaguṇān vadan",
-    "english": "Dyaus, upon seeing that cow, O king, mighty as the lord of elephants, spoke to his goddess-wife, describing the cow's beauty and virtues."
-  },
-  {
-    "ref": "1.93.18",
-    "sanskrit": "eṣā gaur uttamā devi vāruṇer asitekṣaṇe ṛṣes tasya varārohe yasyedaṃ vanam uttamam",
-    "english": "\"This, O goddess, O dark-eyed one, O fair-hipped lady, is the supreme cow of Varuni's son—that very sage whose this excellent forest is.\""
-  },
-  {
-    "ref": "1.93.19",
-    "sanskrit": "asyāḥ kṣīraṃ piben martyaḥ svādu yo vai sumadhyame daśa varṣasahasrāṇi sa jīvet sthirayauvanaḥ",
-    "english": "\"Whoever among mortals drinks the sweet milk of this cow, O slender-waisted one, shall live for ten thousand years with unfading youth.\""
-  },
-  {
-    "ref": "1.93.20",
-    "sanskrit": "etac chrutvā tu sā devī nṛpottama sumadhyamā tam uvācānavadyāṅgī bhartāraṃ dīptatejasam",
-    "english": "Hearing this, O best of kings, that slender-waisted, flawlessly-limbed goddess spoke to her blazingly radiant husband:"
-  },
-  {
-    "ref": "1.93.21",
-    "sanskrit": "asti me mānuṣe loke naradevātmajā sakhī nāmnā jinavatī nāma rūpayauvanaśālinī",
-    "english": "\"In the world of mortals I have a friend, a princess—her name is Jinavati, adorned with beauty and the bloom of youth.\""
-  },
-  {
-    "ref": "1.93.22",
-    "sanskrit": "uśīnarasya rājarṣeḥ satyasaṃdhasya dhīmataḥ duhitā prathitā loke mānuṣe rūpasaṃpadā",
-    "english": "\"She is the daughter of the royal sage Ushinarathe truthful and wise—and she is renowned throughout the mortal world for the wealth of her beauty.\""
-  },
-  {
-    "ref": "1.93.23",
-    "sanskrit": "tasyā hetor mahābhāga savatsāṃ gāṃ mamepsitām ānayasvāmaraśreṣṭha tvaritaṃ puṇyavardhana",
-    "english": "\"For her sake, O greatly fortunate one, O best of the immortals, O increaser of merit, quickly bring me this cow along with her calf—she is what I desire.\""
-  },
-  {
-    "ref": "1.93.24",
-    "sanskrit": "yāvad asyāḥ payaḥ pītvā sā sakhī mama mānada mānuṣeṣu bhavatv ekā jarārogavivarjitā",
-    "english": "\"So that my friend, drinking this cow's milk, may be the one among mortals who is free from old age and disease, O giver of honour.\""
-  },
-  {
-    "ref": "1.93.25",
-    "sanskrit": "etan mama mahābhāga kartum arhasy anindita priyaṃ priyataraṃ hy asmān nāsti me 'nyat kathaṃ cana",
-    "english": "\"You, O greatly fortunate one, O blameless one, must do this favour for me, for there is nothing dearer to me than this—nothing at all.\""
-  },
-  {
-    "ref": "1.93.26",
-    "sanskrit": "etac chrutvā vacas tasyā devyāḥ priyacikīrṣayā pṛthvādyair bhrātṛbhiḥ sārdhaṃ dyaus tadā tāṃ jahāra gām",
-    "english": "Hearing these words of his goddess-wife and wishing to please her, Dyaus then stole that cow together with his brothers led by Prithva."
-  },
-  {
-    "ref": "1.93.27",
-    "sanskrit": "tayā kamalapatrākṣyā niyukto dyaus tadā nṛpa ṛṣes tasya tapas tīvraṃ na śaśāka nirīkṣitum hṛtā gauḥ sā tadā tena prapātas tu na tarkitaḥ",
-    "english": "Impelled by that lotus-eyed goddess, Dyaus, O king, was unable to face the fierce austerities of that sage; he stole the cow then and there, and the fall that would follow was not foreseen."
-  },
-  {
-    "ref": "1.93.28",
-    "sanskrit": "athāśramapadaṃ prāptaḥ phalāny ādāya vāruṇiḥ na cāpaśyata gāṃ tatra savatsāṃ kānanottame",
-    "english": "Then Vasiṣṭha, son of Varuṇa, returned to his hermitage bearing fruits, but he did not see the cow with her calf anywhere in that excellent forest."
-  },
-  {
-    "ref": "1.93.29",
-    "sanskrit": "tataḥ sa mṛgayām āsa vane tasmiṃs tapodhanaḥ nādhyagacchac ca mṛgayaṃs tāṃ gāṃ munir udāradhīḥ",
-    "english": "That sage, rich in austerities and of noble intellect, searched for her throughout that forest, yet searching he could not find the cow."
-  },
-  {
-    "ref": "1.93.30",
-    "sanskrit": "jñātvā tathāpanītāṃ tāṃ vasubhir divyadarśanaḥ yayau krodhavaśaṃ sadyaḥ śaśāpa ca vasūṃs tadā",
-    "english": "Knowing by his divine sight that she had been carried off by the Vasus, he immediately fell under the sway of anger and then cursed those Vasus."
-  },
-  {
-    "ref": "1.93.31",
-    "sanskrit": "yasmān me vasavo jahrur gāṃ vai dogdhrīṃ suvāladhim tasmāt sarve janiṣyanti mānuṣeṣu na saṃśayaḥ",
-    "english": "\"Since the Vasus have stolen my milch-cow with her fine tail, therefore all of them shall without doubt be born among mortals.\""
-  },
-  {
-    "ref": "1.93.32",
-    "sanskrit": "evaṃ śaśāpa bhagavān vasūṃs tān munisattamaḥ vaśaṃ kopasya saṃprāpta āpavo bharatarṣabha",
-    "english": "Thus did the venerable Apava, best of sages, having come under the power of wrath, curse those Vasus, O bull of the Bharatas."
-  },
-  {
-    "ref": "1.93.33",
-    "sanskrit": "śaptvā ca tān mahābhāgas tapasy eva mano dadhe evaṃ sa śaptavān rājan vasūn aṣṭau tapodhanaḥ mahāprabhāvo brahmarṣir devān roṣasamanvitaḥ",
-    "english": "Having cursed them, that greatly fortunate one turned his mind once again to his austerities. Thus, O king, did that sage of mighty power—that brahmarishi, rich in penance—curse all eight Vasus while filled with wrath against those gods."
-  },
-  {
-    "ref": "1.93.34",
-    "sanskrit": "athāśramapadaṃ prāpya taṃ sma bhūyo mahātmanaḥ śaptāḥ sma iti jānanta ṛṣiṃ tam upacakramuḥ",
-    "english": "Then, coming again to that hermitage of the great-souled sage, the Vasus—knowing they had been cursed—approached that rishi."
-  },
-  {
-    "ref": "1.93.35",
-    "sanskrit": "prasādayantas tam ṛṣiṃ vasavaḥ pārthivarṣabha na lebhire ca tasmāt te prasādam ṛṣisattamāt āpavāt puruṣavyāghra sarvadharmaviśāradāt",
-    "english": "Though the Vasus sought to propitiate that sage, O bull of kings, they could not obtain grace from that best of rishis—from Apava, O tiger among men, who was versed in all the ways of dharma."
-  },
-  {
-    "ref": "1.93.36",
-    "sanskrit": "uvāca ca sa dharmātmā sapta yūyaṃ dharādayaḥ anu saṃvatsarāc chāpamokṣaṃ vai samavāpsyatha",
-    "english": "And that righteous-souled sage said: \"Seven of you—Dhara and the rest—will obtain release from the curse within a year.\""
-  },
-  {
-    "ref": "1.93.37",
-    "sanskrit": "ayaṃ tu yatkṛte yūyaṃ mayā śaptāḥ sa vatsyati dyaus tadā mānuṣe loke dīrghakālaṃ svakarmaṇā",
-    "english": "\"But this one—Dyaus—on whose account you were cursed by me, shall dwell for a long time in the world of mortals, reaping the fruit of his own deed.\""
-  },
-  {
-    "ref": "1.93.38",
-    "sanskrit": "nānṛtaṃ tac cikīrṣāmi yuṣmān kruddho yad abruvam na prajāsyati cāpy eṣa mānuṣeṣu mahāmanāḥ",
-    "english": "\"I do not wish to make false what I spoke to you in anger. Yet this high-minded one shall also beget no offspring among mortals.\""
-  },
-  {
-    "ref": "1.93.39",
-    "sanskrit": "bhaviṣyati ca dharmātmā sarvaśāstraviśāradaḥ pituḥ priyahite yuktaḥ strībhogān varjayiṣyati evam uktvā vasūn sarvāñ jagāma bhagavān ṛṣiḥ",
-    "english": "\"He shall be righteous-souled, versed in all the scriptures, devoted to what is dear and beneficial to his father, and he shall abstain from the enjoyment of women.\" Having spoken thus to all the Vasus, the venerable sage departed."
-  },
-  {
-    "ref": "1.93.40",
-    "sanskrit": "tato mām upajagmus te samastā vasavas tadā ayācanta ca māṃ rājan varaṃ sa ca mayā kṛtaḥ jātāñ jātān prakṣipāsmān svayaṃ gaṅge tvam ambhasi",
-    "english": "Thereupon all those Vasus came to me, O king, and begged a boon of me, and that boon I granted them: \"As each of us is born, O Gaṅgā, cast us yourself into the water.\""
-  },
-  {
-    "ref": "1.93.41",
-    "sanskrit": "evaṃ teṣām ahaṃ samyak śaptānāṃ rājasattama mokṣārthaṃ mānuṣāl lokād yathāvat kṛtavaty aham",
-    "english": "Thus, O best of kings, I duly did what was proper for the sake of releasing those who had been cursed—freeing them from the world of mortals."
-  },
-  {
-    "ref": "1.93.42",
-    "sanskrit": "ayaṃ śāpād ṛṣes tasya eka eva nṛpottama dyau rājan mānuṣe loke ciraṃ vatsyati bhārata",
-    "english": "This one alone, O best of kings, O Bharata—Dyaus—shall dwell long in the world of mortals because of that sage's curse."
-  },
-  {
-    "ref": "1.93.43",
-    "sanskrit": "etad ākhyāya sā devī tatraivāntaradhīyata ādāya ca kumāraṃ taṃ jagāmātha yathepsitam",
-    "english": "Having narrated all this, the goddess vanished from that very spot; and taking that prince with her, she departed as she wished."
-  },
-  {
-    "ref": "1.93.44",
-    "sanskrit": "sa tu devavrato nāma gāṅgeya iti cābhavat dvināmā śaṃtanoḥ putraḥ śaṃtanor adhiko guṇaiḥ",
-    "english": "That son of Shantanu bore two names—Devavrata and Gangeyaand he surpassed even Shantanu in virtues."
-  },
-  {
-    "ref": "1.93.45",
-    "sanskrit": "śaṃtanuś cāpi śokārto jagāma svapuraṃ tataḥ tasyāhaṃ kīrtayiṣyāmi śaṃtanor amitān guṇān",
-    "english": "And Shantanu, stricken with grief, then returned to his own city. I shall now recount the boundless virtues of Shantanu."
-  },
-  {
-    "ref": "1.93.46",
-    "sanskrit": "mahābhāgyaṃ ca nṛpater bhāratasya yaśasvinaḥ yasyetihāso dyutimān mahābhāratam ucyate",
-    "english": "And the great good fortune of that glorious Bharata king—the resplendent history of whom is called the Mahābhārata."
-  },
-  {
-    "ref": "1.94.1",
-    "sanskrit": "vaiśaṃpāyana uvāca sa evaṃ śaṃtanur dhīmān devarājarṣisatkṛtaḥ dharmātmā sarvalokeṣu satyavāg iti viśrutaḥ",
-    "english": "Vaiśaṃpāyana said: That wise Shantanu—honoured by gods, kings, and sages—was celebrated in all worlds as righteous-souled and true of speech."
-  },
-  {
-    "ref": "1.94.2",
-    "sanskrit": "damo dānaṃ kṣamā buddhir hrīr dhṛtis teja uttamam nityāny āsan mahāsattve śaṃtanau puruṣarṣabhe",
-    "english": "Self-restraint, generosity, forbearance, wisdom, modesty, steadfastness, and surpassing splendour—these were ever-present in the great-souled Shantanu, bull among men."
-  },
-  {
-    "ref": "1.94.3",
-    "sanskrit": "evaṃ sa guṇasaṃpanno dharmārthakuśalo nṛpaḥ āsīd bharatavaṃśasya goptā sādhujanasya ca",
-    "english": "So endowed with virtues, skilled in dharma and statecraft, that king was the protector of the Bharata lineage and of righteous people."
-  },
-  {
-    "ref": "1.94.4",
-    "sanskrit": "kambugrīvaḥ pṛthuvyaṃso mattavāraṇavikramaḥ dharma eva paraḥ kāmād arthāc ceti vyavasthitaḥ",
-    "english": "He had a conch-like neck, broad shoulders, and the gait of a lordly rutting elephant; he held firmly to the conviction that dharma stands supreme above desire and material gain."
-  },
-  {
-    "ref": "1.94.5",
-    "sanskrit": "etāny āsan mahāsattve śaṃtanau bharatarṣabha na cāsya sadṛśaḥ kaś cit kṣatriyo dharmato 'bhavat",
-    "english": "All these qualities dwelt in the great-souled Shantanu, O bull of the Bharatas, and no other kshatriya was his equal in righteousness."
-  },
-  {
-    "ref": "1.94.6",
-    "sanskrit": "vartamānaṃ hi dharme sve sarvadharmavidāṃ varam taṃ mahīpā mahīpālaṃ rājarājye 'bhyaṣecayan",
-    "english": "Because he abided in his own dharma and was the foremost of all who know dharma, the kings of the earth consecrated him as sovereign over kings."
-  },
-  {
-    "ref": "1.94.7",
-    "sanskrit": "vītaśokabhayābādhāḥ sukhasvapnavibodhanāḥ prati bhāratagoptāraṃ samapadyanta bhūmipāḥ",
-    "english": "Free from grief, fear, and affliction, waking from pleasant slumber, the kings of the earth rallied to him as protector of the Bharatas."
-  },
-  {
-    "ref": "1.94.8",
-    "sanskrit": "śaṃtanupramukhair gupte loke nṛpatibhis tadā niyamāt sarvavarṇānāṃ brahmottaram avartata",
-    "english": "When the world was protected by kings with Shantanu at their head, then by rule the order of all the varnas prevailed with brahminical excellence at the fore."
-  },
-  {
-    "ref": "1.94.9",
-    "sanskrit": "brahma paryacarat kṣatraṃ viśaḥ kṣatram anuvratāḥ brahmakṣatrānuraktāś ca śūdrāḥ paryacaran viśaḥ",
-    "english": "The brahmin order attended upon the kshatriyas; the vaishyas followed the kshatriyas dutifully; and the shudras, devoted to both brahmin and kshatriya, attended upon the vaishyas."
-  },
-  {
-    "ref": "1.94.10",
-    "sanskrit": "sa hāstinapure ramye kurūṇāṃ puṭabhedane vasan sāgaraparyantām anvaśād vai vasuṃdharām",
-    "english": "Dwelling in lovely Hāstinapura, the stronghold of the Kurus, he ruled the earth all the way to the ocean's edge."
-  },
-  {
-    "ref": "1.94.11",
-    "sanskrit": "sa devarājasadṛśo dharmajñaḥ satyavāg ṛjuḥ dānadharmatapoyogāc chriyā paramayā yutaḥ",
-    "english": "Comparable to the king of gods, he was a knower of dharma, true of speech, upright of conduct, and endowed with supreme royal glory through the practice of giving, righteousness, and austerity."
-  },
-  {
-    "ref": "1.94.12",
-    "sanskrit": "arāgadveṣasaṃyuktaḥ somavat priyadarśanaḥ tejasā sūryasaṃkāśo vāyuvegasamo jave antakapratimaḥ kope kṣamayā pṛthivīsamaḥ",
-    "english": "Free from passion and hatred, he was pleasant to behold as the moon; in splendour he resembled the sun; in swiftness he equalled the wind; in wrath he was like Death himself; and in forbearance he was equal to the earth."
-  },
-  {
-    "ref": "1.94.13",
-    "sanskrit": "vadhaḥ paśuvarāhāṇāṃ tathaiva mṛgapakṣiṇām śaṃtanau pṛthivīpāle nāvartata vṛthā nṛpa",
-    "english": "When Shantanu was the guardian of the earth, O king, there was no wanton slaughter of cattle, boars, deer, or birds."
-  },
-  {
-    "ref": "1.94.14",
-    "sanskrit": "dharmabrahmottare rājye śaṃtanur vinayātmavān samaṃ śaśāsa bhūtāni kāmarāgavivarjitaḥ",
-    "english": "In a realm where dharma and brahminical order stood supreme, the humble-souled Shantanu ruled all beings equally, free from desire and passion."
-  },
-  {
-    "ref": "1.94.15",
-    "sanskrit": "devarṣipitṛyajñārtham ārabhyanta tadā kriyāḥ na cādharmeṇa keṣāṃ cit prāṇinām abhavad vadhaḥ",
-    "english": "Rituals were then performed for the sake of gods, sages, and ancestors, and no living creature was slain contrary to dharma."
-  },
-  {
-    "ref": "1.94.16",
-    "sanskrit": "asukhānām anāthānāṃ tiryagyoniṣu vartatām sa eva rājā bhūtānāṃ sarveṣām abhavat pitā",
-    "english": "For the unhappy, the unprotected, and those dwelling in animal births—that king became the father of all beings."
-  },
-  {
-    "ref": "1.94.17",
-    "sanskrit": "tasmin kurupatiśreṣṭhe rājarājeśvare sati śritā vāg abhavat satyaṃ dānadharmāśritaṃ manaḥ",
-    "english": "While that best of Kuru lords, that sovereign of kings, reigned, speech was wedded to truth and the mind rested upon the dharma of giving."
-  },
-  {
-    "ref": "1.94.18",
-    "sanskrit": "sa samāḥ ṣoḍaśāṣṭau ca catasro 'ṣṭau tathāparāḥ ratim aprāpnuvan strīṣu babhūva vanagocaraḥ",
-    "english": "For sixteen years, then eight, then four, then eight more—finding no pleasure in women—he roamed the forests."
-  },
-  {
-    "ref": "1.94.19",
-    "sanskrit": "tathārūpas tathācāras tathāvṛttas tathāśrutaḥ gāṅgeyas tasya putro 'bhūn nāmnā devavrato vasuḥ",
-    "english": "Of such a form, such conduct, such behaviour, and such learning was his son by Gaṅgā—named Devavrata, also called Vasu."
-  },
-  {
-    "ref": "1.94.20",
-    "sanskrit": "sarvāstreṣu sa niṣṇātaḥ pārthiveṣv itareṣu ca mahābalo mahāsattvo mahāvīryo mahārathaḥ",
-    "english": "Deeply versed in all weapons, both divine and earthly, he was a man of great strength, great fortitude, great valour, and a mighty chariot-warrior."
-  },
-  {
-    "ref": "1.94.21",
-    "sanskrit": "sa kadā cin mṛgaṃ viddhvā gaṅgām anusaran nadīm bhāgīrathīm alpajalāṃ śaṃtanur dṛṣṭavān nṛpaḥ",
-    "english": "Once, having shot a deer and following the river, king Shantanu saw the Bhāgīrathī—the Gaṅgā—low in her waters."
-  },
-  {
-    "ref": "1.94.22",
-    "sanskrit": "tāṃ dṛṣṭvā cintayām āsa śaṃtanuḥ puruṣarṣabhaḥ syandate kiṃ nv iyaṃ nādya saricchreṣṭhā yathā purā",
-    "english": "Seeing this, Shantanu, bull among men, wondered: \"Why does this best of rivers not flow today as she did of old?\""
-  },
-  {
-    "ref": "1.94.23",
-    "sanskrit": "tato nimittam anvicchan dadarśa sa mahāmanāḥ kumāraṃ rūpasaṃpannaṃ bṛhantaṃ cārudarśanam",
-    "english": "Then, searching for the cause, that high-minded one beheld a youth—handsome of form, tall, and beautiful to behold."
-  },
-  {
-    "ref": "1.94.24",
-    "sanskrit": "divyam astraṃ vikurvāṇaṃ yathā devaṃ puraṃdaram kṛtsnāṃ gaṅgāṃ samāvṛtya śarais tīkṣṇair avasthitam",
-    "english": "He was wielding divine weapons like the god Indra himself, standing there having covered the whole Gaṅgā with sharp arrows."
-  },
-  {
-    "ref": "1.94.25",
-    "sanskrit": "tāṃ śarair āvṛtāṃ dṛṣṭvā nadīṃ gaṅgāṃ tadantike abhavad vismito rājā karma dṛṣṭvātimānuṣam",
-    "english": "Seeing the river Gaṅgā thus covered with arrows nearby, the king was filled with astonishment, beholding an act surpassing human capacity."
-  },
-  {
-    "ref": "1.94.26",
-    "sanskrit": "jātamātraṃ purā dṛṣṭaṃ taṃ putraṃ śaṃtanus tadā nopalebhe smṛtiṃ dhīmān abhijñātuṃ tam ātmajam",
-    "english": "Though Shantanu had seen that son immediately at birth long ago, the wise king could not now recall enough to recognise him as his own child."
-  },
-  {
-    "ref": "1.94.27",
-    "sanskrit": "sa tu taṃ pitaraṃ dṛṣṭvā mohayām āsa māyayā saṃmohya tu tataḥ kṣipraṃ tatraivāntaradhīyata",
-    "english": "But that youth, seeing his father, cast a spell of bewilderment upon him with his magic, and having bewildered him, vanished from that very spot."
-  },
-  {
-    "ref": "1.94.28",
-    "sanskrit": "tad adbhutaṃ tadā dṛṣṭvā tatra rājā sa śaṃtanuḥ śaṅkamānaḥ sutaṃ gaṅgām abravīd darśayeti ha",
-    "english": "Having witnessed that wonder, king Shantanu, suspecting this to be his son, called out to Gaṅgā: \"Show him to me!\""
-  },
-  {
-    "ref": "1.94.29",
-    "sanskrit": "darśayām āsa taṃ gaṅgā bibhratī rūpam uttamam gṛhītvā dakṣiṇe pāṇau taṃ kumāram alaṃkṛtam",
-    "english": "Then Gaṅgā, wearing her most beautiful form, showed him that adorned youth, taking him by the right hand."
-  },
-  {
-    "ref": "1.94.30",
-    "sanskrit": "alaṃkṛtām ābharaṇair arajombaradhāriṇīm dṛṣṭapūrvām api satīṃ nābhyajānāt sa śaṃtanuḥ",
-    "english": "Though Shantanu had seen her before, he did not recognise that faithful one, adorned with jewels and wearing spotless garments."
-  },
-  {
-    "ref": "1.94.31",
-    "sanskrit": "gaṅgovāca yaṃ putram aṣṭamaṃ rājaṃs tvaṃ purā mayy ajāyithāḥ sa te 'yaṃ puruṣavyāghra nayasvainaṃ gṛhāntikam",
-    "english": "Gaṅgā said: \"The eighth son whom you once begat upon me, O king—this is he, O tiger among men. Take him home with you.\""
-  },
-  {
-    "ref": "1.94.32",
-    "sanskrit": "vedān adhijage sāṅgān vasiṣṭhād eva vīryavān kṛtāstraḥ parameṣvāso devarājasamo yudhi",
-    "english": "\"He has mastered the Vedas with all their ancillary texts under Vasiṣṭha himself; skilled in arms, an incomparable archer, he equals the king of gods in battle.\""
-  },
-  {
-    "ref": "1.94.33",
-    "sanskrit": "surāṇāṃ saṃmato nityam asurāṇāṃ ca bhārata uśanā veda yac chāstram ayaṃ tad veda sarvaśaḥ",
-    "english": "\"He is ever honoured by both gods and demons, O Bharata; whatever scripture Uśanas knows, this one knows it all and completely.\""
-  },
-  {
-    "ref": "1.94.34",
-    "sanskrit": "tathaivāṅgirasaḥ putraḥ surāsuranamaskṛtaḥ yad veda śāstraṃ tac cāpi kṛtsnam asmin pratiṣṭhitam tava putre mahābāhau sāṅgopāṅgaṃ mahātmani",
-    "english": "\"Likewise, the son of Aṅgiras—Bṛhaspati, adored by gods and demons alike—whatever scripture he knows, all of that too is established fully in this mighty-armed, great-souled son of yours, with every supplement and sub-division.\""
-  },
-  {
-    "ref": "1.94.35",
-    "sanskrit": "ṛṣiḥ parair anādhṛṣyo jāmadagnyaḥ pratāpavān yad astraṃ veda rāmaś ca tad apy asmin pratiṣṭhitam",
-    "english": "\"The mighty sage Rāma Jamadagnya, invincible by any foe—whatever weapon-lore he knows, that too is established in this son of yours.\""
-  },
-  {
-    "ref": "1.94.36",
-    "sanskrit": "maheṣvāsam imaṃ rājan rājadharmārthakovidam mayā dattaṃ nijaṃ putraṃ vīraṃ vīra gṛhān naya",
-    "english": "\"This great archer, skilled in the laws and aims of kingship, O king—this, my own son, a hero—I give to you; O hero, take him home.\""
-  },
-  {
-    "ref": "1.94.37",
-    "sanskrit": "vaiśaṃpāyana uvāca tayaivaṃ samanujñātaḥ putram ādāya śaṃtanuḥ bhrājamānaṃ yathādityam āyayau svapuraṃ prati",
-    "english": "Vaiśaṃpāyana said: Thus sent off by her, Shantanu, taking his son who shone like the sun, set out toward his own city."
-  },
-  {
-    "ref": "1.94.38",
-    "sanskrit": "pauravaḥ svapuraṃ gatvā puraṃdarapuropamam sarvakāmasamṛddhārthaṃ mene ātmānam ātmanā pauraveṣu tataḥ putraṃ yauvarājye 'bhyaṣecayat",
-    "english": "That scion of Puru, arriving at his own city—rivalling the city of Indra, abundant in every desired object—considered himself fulfilled, and then installed his son as crown prince among the Pauravas."
-  },
-  {
-    "ref": "1.94.39",
-    "sanskrit": "pauravāñ śaṃtanoḥ putraḥ pitaraṃ ca mahāyaśāḥ rāṣṭraṃ ca rañjayām āsa vṛttena bharatarṣabha",
-    "english": "The greatly renowned son of Shantanu delighted the Pauravas, his father, and the kingdom by his conduct, O bull of the Bharatas."
-  },
-  {
-    "ref": "1.94.40",
-    "sanskrit": "sa tathā saha putreṇa ramamāṇo mahīpatiḥ vartayām āsa varṣāṇi catvāry amitavikramaḥ",
-    "english": "That king of boundless valour thus spent four years rejoicing together with his son."
-  },
-  {
-    "ref": "1.94.41",
-    "sanskrit": "sa kadā cid vanaṃ yāto yamunām abhito nadīm mahīpatir anirdeśyam ājighrad gandham uttamam",
-    "english": "Once, the king went to a forest near the river Yamunā, where he inhaled an indescribably excellent fragrance."
-  },
-  {
-    "ref": "1.94.42",
-    "sanskrit": "tasya prabhavam anvicchan vicacāra samantataḥ sa dadarśa tadā kanyāṃ dāśānāṃ devarūpiṇīm",
-    "english": "Seeking its source, he wandered in all directions and then saw a girl belonging to the fishermen's clan, beautiful as a goddess."
-  },
-  {
-    "ref": "1.94.43",
-    "sanskrit": "tām apṛcchat sa dṛṣṭvaiva kanyām asitalocanām kasya tvam asi kā cāsi kiṃ ca bhīru cikīrṣasi",
-    "english": "Having seen her, he asked that dark-eyed maiden: \"Whose daughter are you? Who are you? And what do you intend to do, O timid one?\""
-  },
-  {
-    "ref": "1.94.44",
-    "sanskrit": "sābravīd dāśakanyāsmi dharmārthaṃ vāhaye tarīm pitur niyogād bhadraṃ te dāśarājño mahātmanaḥ",
-    "english": "She replied: \"I am the daughter of a fisherman; by my father's command—the great-souled chief of the fishermen, blessings upon you—I ferry people across for the sake of dharma and livelihood.\""
-  },
-  {
-    "ref": "1.94.45",
-    "sanskrit": "rūpamādhuryagandhais tāṃ saṃyuktāṃ devarūpiṇīm samīkṣya rājā dāśeyīṃ kāmayām āsa śaṃtanuḥ",
-    "english": "Gazing upon her—endowed with beauty, sweetness, and fragrance, radiant as a goddess—king Shantanu desired that daughter of the fisherman."
-  }
+{"ref": "1.93.12", "sanskrit": "te sadārā vanaṃ tac ca vyacaranta samantataḥ remire ramaṇīyeṣu parvateṣu vaneṣu ca", "english": "Those Vasus, together with their wives, roamed that forest in all directions and took delight in its charming mountains and woodland groves."},
+{"ref": "1.93.13", "sanskrit": "tatraikasya tu bhāryā vai vasor vāsavavikrama sā carantī vane tasmin gāṃ dadarśa sumadhyamā yā sā vasiṣṭhasya muneḥ sarvakāmadhug uttamā", "english": "There, O hero rivalling Indra, the wife of one of those Vasus—a slender-waisted lady wandering in that forest—caught sight of the cow that was the wish-fulfilling gem of the sage Vasiṣṭha, supreme among all desire-yielding kine."},
+{"ref": "1.93.14", "sanskrit": "sā vismayasamāviṣṭā śīladraviṇasaṃpadā dive vai darśayām āsa tāṃ gāṃ govṛṣabhekṣaṇa", "english": "Filled with wonder at the cow's wealth of virtue and beauty, she pointed her out to her husband Dyaus, O bull-eyed one."},
+{"ref": "1.93.15", "sanskrit": "svāpīnāṃ ca sudogdhrīṃ ca suvāladhimukhāṃ śubhām upapannāṃ guṇaiḥ sarvaiḥ śīlenānuttamena ca", "english": "The cow was deep-uddered, gave milk freely, had a fine tail and a beautiful face, was endowed with every good quality, and possessed a character utterly without equal."},
+{"ref": "1.93.16", "sanskrit": "evaṃguṇasamāyuktāṃ vasave vasunandinī darśayām āsa rājendra purā pauravanandana", "english": "The daughter of a Vasu, O lord of kings, O delight of the Pauravas, pointed out that cow, thus endowed with all these qualities, to her husband the Vasu Dyaus long ago."},
+{"ref": "1.93.17", "sanskrit": "dyaus tadā tāṃ tu dṛṣṭvaiva gāṃ gajendrendravikrama uvāca rājaṃs tāṃ devīṃ tasyā rūpaguṇān vadan", "english": "Dyaus, upon seeing that cow, O king, mighty as the lord of elephants, spoke to his goddess-wife, describing the cow's beauty and virtues."},
+{"ref": "1.93.18", "sanskrit": "eṣā gaur uttamā devi vāruṇer asitekṣaṇe ṛṣes tasya varārohe yasyedaṃ vanam uttamam", "english": "\"This, O goddess, O dark-eyed one, O fair-hipped lady, is the supreme cow of Varuni's son—that very sage whose this excellent forest is.\""},
+{"ref": "1.93.19", "sanskrit": "asyāḥ kṣīraṃ piben martyaḥ svādu yo vai sumadhyame daśa varṣasahasrāṇi sa jīvet sthirayauvanaḥ", "english": "\"Whoever among mortals drinks the sweet milk of this cow, O slender-waisted one, shall live for ten thousand years with unfading youth.\""},
+{"ref": "1.93.20", "sanskrit": "etac chrutvā tu sā devī nṛpottama sumadhyamā tam uvācānavadyāṅgī bhartāraṃ dīptatejasam", "english": "Hearing this, O best of kings, that slender-waisted, flawlessly-limbed goddess spoke to her blazingly radiant husband:"},
+{"ref": "1.93.21", "sanskrit": "asti me mānuṣe loke naradevātmajā sakhī nāmnā jinavatī nāma rūpayauvanaśālinī", "english": "\"In the world of mortals I have a friend, a princess—her name is Jinavati, adorned with beauty and the bloom of youth.\""},
+{"ref": "1.93.22", "sanskrit": "uśīnarasya rājarṣeḥ satyasaṃdhasya dhīmataḥ duhitā prathitā loke mānuṣe rūpasaṃpadā", "english": "\"She is the daughter of the royal sage Ushinarathe truthful and wise—and she is renowned throughout the mortal world for the wealth of her beauty.\""},
+{"ref": "1.93.23", "sanskrit": "tasyā hetor mahābhāga savatsāṃ gāṃ mamepsitām ānayasvāmaraśreṣṭha tvaritaṃ puṇyavardhana", "english": "\"For her sake, O greatly fortunate one, O best of the immortals, O increaser of merit, quickly bring me this cow along with her calf—she is what I desire.\""},
+{"ref": "1.93.24", "sanskrit": "yāvad asyāḥ payaḥ pītvā sā sakhī mama mānada mānuṣeṣu bhavatv ekā jarārogavivarjitā", "english": "\"So that my friend, drinking this cow's milk, may be the one among mortals who is free from old age and disease, O giver of honour.\""},
+{"ref": "1.93.25", "sanskrit": "etan mama mahābhāga kartum arhasy anindita priyaṃ priyataraṃ hy asmān nāsti me 'nyat kathaṃ cana", "english": "\"You, O greatly fortunate one, O blameless one, must do this favour for me, for there is nothing dearer to me than this—nothing at all.\""},
+{"ref": "1.93.26", "sanskrit": "etac chrutvā vacas tasyā devyāḥ priyacikīrṣayā pṛthvādyair bhrātṛbhiḥ sārdhaṃ dyaus tadā tāṃ jahāra gām", "english": "Hearing these words of his goddess-wife and wishing to please her, Dyaus then stole that cow together with his brothers led by Prithva."},
+{"ref": "1.93.27", "sanskrit": "tayā kamalapatrākṣyā niyukto dyaus tadā nṛpa ṛṣes tasya tapas tīvraṃ na śaśāka nirīkṣitum hṛtā gauḥ sā tadā tena prapātas tu na tarkitaḥ", "english": "Impelled by that lotus-eyed goddess, Dyaus, O king, was unable to face the fierce austerities of that sage; he stole the cow then and there, and the fall that would follow was not foreseen."},
+{"ref": "1.93.28", "sanskrit": "athāśramapadaṃ prāptaḥ phalāny ādāya vāruṇiḥ na cāpaśyata gāṃ tatra savatsāṃ kānanottame", "english": "Then Vasiṣṭha, son of Varuṇa, returned to his hermitage bearing fruits, but he did not see the cow with her calf anywhere in that excellent forest."},
+{"ref": "1.93.29", "sanskrit": "tataḥ sa mṛgayām āsa vane tasmiṃs tapodhanaḥ nādhyagacchac ca mṛgayaṃs tāṃ gāṃ munir udāradhīḥ", "english": "That sage, rich in austerities and of noble intellect, searched for her throughout that forest, yet searching he could not find the cow."},
+{"ref": "1.93.30", "sanskrit": "jñātvā tathāpanītāṃ tāṃ vasubhir divyadarśanaḥ yayau krodhavaśaṃ sadyaḥ śaśāpa ca vasūṃs tadā", "english": "Knowing by his divine sight that she had been carried off by the Vasus, he immediately fell under the sway of anger and then cursed those Vasus."},
+{"ref": "1.93.31", "sanskrit": "yasmān me vasavo jahrur gāṃ vai dogdhrīṃ suvāladhim tasmāt sarve janiṣyanti mānuṣeṣu na saṃśayaḥ", "english": "\"Since the Vasus have stolen my milch-cow with her fine tail, therefore all of them shall without doubt be born among mortals.\""},
+{"ref": "1.93.32", "sanskrit": "evaṃ śaśāpa bhagavān vasūṃs tān munisattamaḥ vaśaṃ kopasya saṃprāpta āpavo bharatarṣabha", "english": "Thus did the venerable Apava, best of sages, having come under the power of wrath, curse those Vasus, O bull of the Bhāratas."},
+{"ref": "1.93.33", "sanskrit": "śaptvā ca tān mahābhāgas tapasy eva mano dadhe evaṃ sa śaptavān rājan vasūn aṣṭau tapodhanaḥ mahāprabhāvo brahmarṣir devān roṣasamanvitaḥ", "english": "Having cursed them, that greatly fortunate one turned his mind once again to his austerities. Thus, O king, did that sage of mighty power—that brahmarishi, rich in penance—curse all eight Vasus while filled with wrath against those gods."},
+{"ref": "1.93.34", "sanskrit": "athāśramapadaṃ prāpya taṃ sma bhūyo mahātmanaḥ śaptāḥ sma iti jānanta ṛṣiṃ tam upacakramuḥ", "english": "Then, coming again to that hermitage of the great-souled sage, the Vasus—knowing they had been cursed—approached that rishi."},
+{"ref": "1.93.35", "sanskrit": "prasādayantas tam ṛṣiṃ vasavaḥ pārthivarṣabha na lebhire ca tasmāt te prasādam ṛṣisattamāt āpavāt puruṣavyāghra sarvadharmaviśāradāt", "english": "Though the Vasus sought to propitiate that sage, O bull of kings, they could not obtain grace from that best of rishis—from Apava, O tiger among men, who was versed in all the ways of dharma."},
+{"ref": "1.93.36", "sanskrit": "uvāca ca sa dharmātmā sapta yūyaṃ dharādayaḥ anu saṃvatsarāc chāpamokṣaṃ vai samavāpsyatha", "english": "And that righteous-souled sage said: \"Seven of you—Dhara and the rest—will obtain release from the curse within a year.\""},
+{"ref": "1.93.37", "sanskrit": "ayaṃ tu yatkṛte yūyaṃ mayā śaptāḥ sa vatsyati dyaus tadā mānuṣe loke dīrghakālaṃ svakarmaṇā", "english": "\"But this one—Dyaus—on whose account you were cursed by me, shall dwell for a long time in the world of mortals, reaping the fruit of his own deed.\""},
+{"ref": "1.93.38", "sanskrit": "nānṛtaṃ tac cikīrṣāmi yuṣmān kruddho yad abruvam na prajāsyati cāpy eṣa mānuṣeṣu mahāmanāḥ", "english": "\"I do not wish to make false what I spoke to you in anger. Yet this high-minded one shall also beget no offspring among mortals.\""},
+{"ref": "1.93.39", "sanskrit": "bhaviṣyati ca dharmātmā sarvaśāstraviśāradaḥ pituḥ priyahite yuktaḥ strībhogān varjayiṣyati evam uktvā vasūn sarvāñ jagāma bhagavān ṛṣiḥ", "english": "\"He shall be righteous-souled, versed in all the scriptures, devoted to what is dear and beneficial to his father, and he shall abstain from the enjoyment of women.\" Having spoken thus to all the Vasus, the venerable sage departed."},
+{"ref": "1.93.40", "sanskrit": "tato mām upajagmus te samastā vasavas tadā ayācanta ca māṃ rājan varaṃ sa ca mayā kṛtaḥ jātāñ jātān prakṣipāsmān svayaṃ gaṅge tvam ambhasi", "english": "Thereupon all those Vasus came to me, O king, and begged a boon of me, and that boon I granted them: \"As each of us is born, O Gaṅgā, cast us yourself into the water.\""},
+{"ref": "1.93.41", "sanskrit": "evaṃ teṣām ahaṃ samyak śaptānāṃ rājasattama mokṣārthaṃ mānuṣāl lokād yathāvat kṛtavaty aham", "english": "Thus, O best of kings, I duly did what was proper for the sake of releasing those who had been cursed—freeing them from the world of mortals."},
+{"ref": "1.93.42", "sanskrit": "ayaṃ śāpād ṛṣes tasya eka eva nṛpottama dyau rājan mānuṣe loke ciraṃ vatsyati bhārata", "english": "This one alone, O best of kings, O Bhārata—Dyaus—shall dwell long in the world of mortals because of that sage's curse."},
+{"ref": "1.93.43", "sanskrit": "etad ākhyāya sā devī tatraivāntaradhīyata ādāya ca kumāraṃ taṃ jagāmātha yathepsitam", "english": "Having narrated all this, the goddess vanished from that very spot; and taking that prince with her, she departed as she wished."},
+{"ref": "1.93.44", "sanskrit": "sa tu devavrato nāma gāṅgeya iti cābhavat dvināmā śaṃtanoḥ putraḥ śaṃtanor adhiko guṇaiḥ", "english": "That son of Shantanu bore two names—Devavrata and Gangeyaand he surpassed even Shantanu in virtues."},
+{"ref": "1.93.45", "sanskrit": "śaṃtanuś cāpi śokārto jagāma svapuraṃ tataḥ tasyāhaṃ kīrtayiṣyāmi śaṃtanor amitān guṇān", "english": "And Shantanu, stricken with grief, then returned to his own city. I shall now recount the boundless virtues of Shantanu."},
+{"ref": "1.93.46", "sanskrit": "mahābhāgyaṃ ca nṛpater bhāratasya yaśasvinaḥ yasyetihāso dyutimān mahābhāratam ucyate", "english": "And the great good fortune of that glorious Bhārata king—the resplendent history of whom is called the Mahābhārata."},
+{"ref": "1.94.1", "sanskrit": "vaiśaṃpāyana uvāca sa evaṃ śaṃtanur dhīmān devarājarṣisatkṛtaḥ dharmātmā sarvalokeṣu satyavāg iti viśrutaḥ", "english": "Vaiśaṃpāyana said: That wise Shantanu—honoured by gods, kings, and sages—was celebrated in all worlds as righteous-souled and true of speech."},
+{"ref": "1.94.2", "sanskrit": "damo dānaṃ kṣamā buddhir hrīr dhṛtis teja uttamam nityāny āsan mahāsattve śaṃtanau puruṣarṣabhe", "english": "Self-restraint, generosity, forbearance, wisdom, modesty, steadfastness, and surpassing splendour—these were ever-present in the great-souled Shantanu, bull among men."},
+{"ref": "1.94.3", "sanskrit": "evaṃ sa guṇasaṃpanno dharmārthakuśalo nṛpaḥ āsīd bharatavaṃśasya goptā sādhujanasya ca", "english": "So endowed with virtues, skilled in dharma and statecraft, that king was the protector of the Bharata lineage and of righteous people."},
+{"ref": "1.94.4", "sanskrit": "kambugrīvaḥ pṛthuvyaṃso mattavāraṇavikramaḥ dharma eva paraḥ kāmād arthāc ceti vyavasthitaḥ", "english": "He had a conch-like neck, broad shoulders, and the gait of a lordly rutting elephant; he held firmly to the conviction that dharma stands supreme above desire and material gain."},
+{"ref": "1.94.5", "sanskrit": "etāny āsan mahāsattve śaṃtanau bharatarṣabha na cāsya sadṛśaḥ kaś cit kṣatriyo dharmato 'bhavat", "english": "All these qualities dwelt in the great-souled Shantanu, O bull of the Bhāratas, and no other kshatriya was his equal in righteousness."},
+{"ref": "1.94.6", "sanskrit": "vartamānaṃ hi dharme sve sarvadharmavidāṃ varam taṃ mahīpā mahīpālaṃ rājarājye 'bhyaṣecayan", "english": "Because he abided in his own dharma and was the foremost of all who know dharma, the kings of the earth consecrated him as sovereign over kings."},
+{"ref": "1.94.7", "sanskrit": "vītaśokabhayābādhāḥ sukhasvapnavibodhanāḥ prati bhāratagoptāraṃ samapadyanta bhūmipāḥ", "english": "Free from grief, fear, and affliction, waking from pleasant slumber, the kings of the earth rallied to him as protector of the Bhāratas."},
+{"ref": "1.94.8", "sanskrit": "śaṃtanupramukhair gupte loke nṛpatibhis tadā niyamāt sarvavarṇānāṃ brahmottaram avartata", "english": "When the world was protected by kings with Shantanu at their head, then by rule the order of all the varnas prevailed with brahminical excellence at the fore."},
+{"ref": "1.94.9", "sanskrit": "brahma paryacarat kṣatraṃ viśaḥ kṣatram anuvratāḥ brahmakṣatrānuraktāś ca śūdrāḥ paryacaran viśaḥ", "english": "The brahmin order attended upon the kshatriyas; the vaishyas followed the kshatriyas dutifully; and the shudras, devoted to both brahmin and kshatriya, attended upon the vaishyas."},
+{"ref": "1.94.10", "sanskrit": "sa hāstinapure ramye kurūṇāṃ puṭabhedane vasan sāgaraparyantām anvaśād vai vasuṃdharām", "english": "Dwelling in lovely Hāstinapura, the stronghold of the Kurus, he ruled the earth all the way to the ocean's edge."},
+{"ref": "1.94.11", "sanskrit": "sa devarājasadṛśo dharmajñaḥ satyavāg ṛjuḥ dānadharmatapoyogāc chriyā paramayā yutaḥ", "english": "Comparable to the king of gods, he was a knower of dharma, true of speech, upright of conduct, and endowed with supreme royal glory through the practice of giving, righteousness, and austerity."},
+{"ref": "1.94.12", "sanskrit": "arāgadveṣasaṃyuktaḥ somavat priyadarśanaḥ tejasā sūryasaṃkāśo vāyuvegasamo jave antakapratimaḥ kope kṣamayā pṛthivīsamaḥ", "english": "Free from passion and hatred, he was pleasant to behold as the moon; in splendour he resembled the sun; in swiftness he equalled the wind; in wrath he was like Death himself; and in forbearance he was equal to the earth."},
+{"ref": "1.94.13", "sanskrit": "vadhaḥ paśuvarāhāṇāṃ tathaiva mṛgapakṣiṇām śaṃtanau pṛthivīpāle nāvartata vṛthā nṛpa", "english": "When Shantanu was the guardian of the earth, O king, there was no wanton slaughter of cattle, boars, deer, or birds."},
+{"ref": "1.94.14", "sanskrit": "dharmabrahmottare rājye śaṃtanur vinayātmavān samaṃ śaśāsa bhūtāni kāmarāgavivarjitaḥ", "english": "In a realm where dharma and brahminical order stood supreme, the humble-souled Shantanu ruled all beings equally, free from desire and passion."},
+{"ref": "1.94.15", "sanskrit": "devarṣipitṛyajñārtham ārabhyanta tadā kriyāḥ na cādharmeṇa keṣāṃ cit prāṇinām abhavad vadhaḥ", "english": "Rituals were then performed for the sake of gods, sages, and ancestors, and no living creature was slain contrary to dharma."},
+{"ref": "1.94.16", "sanskrit": "asukhānām anāthānāṃ tiryagyoniṣu vartatām sa eva rājā bhūtānāṃ sarveṣām abhavat pitā", "english": "For the unhappy, the unprotected, and those dwelling in animal births—that king became the father of all beings."},
+{"ref": "1.94.17", "sanskrit": "tasmin kurupatiśreṣṭhe rājarājeśvare sati śritā vāg abhavat satyaṃ dānadharmāśritaṃ manaḥ", "english": "While that best of Kuru lords, that sovereign of kings, reigned, speech was wedded to truth and the mind rested upon the dharma of giving."},
+{"ref": "1.94.18", "sanskrit": "sa samāḥ ṣoḍaśāṣṭau ca catasro 'ṣṭau tathāparāḥ ratim aprāpnuvan strīṣu babhūva vanagocaraḥ", "english": "For sixteen years, then eight, then four, then eight more—finding no pleasure in women—he roamed the forests."},
+{"ref": "1.94.19", "sanskrit": "tathārūpas tathācāras tathāvṛttas tathāśrutaḥ gāṅgeyas tasya putro 'bhūn nāmnā devavrato vasuḥ", "english": "Of such a form, such conduct, such behaviour, and such learning was his son by Gaṅgā—named Devavrata, also called Vasu."},
+{"ref": "1.94.20", "sanskrit": "sarvāstreṣu sa niṣṇātaḥ pārthiveṣv itareṣu ca mahābalo mahāsattvo mahāvīryo mahārathaḥ", "english": "Deeply versed in all weapons, both divine and earthly, he was a man of great strength, great fortitude, great valour, and a mighty chariot-warrior."},
+{"ref": "1.94.21", "sanskrit": "sa kadā cin mṛgaṃ viddhvā gaṅgām anusaran nadīm bhāgīrathīm alpajalāṃ śaṃtanur dṛṣṭavān nṛpaḥ", "english": "Once, having shot a deer and following the river, king Shantanu saw the Bhāgīrathī—the Gaṅgā—low in her waters."},
+{"ref": "1.94.22", "sanskrit": "tāṃ dṛṣṭvā cintayām āsa śaṃtanuḥ puruṣarṣabhaḥ syandate kiṃ nv iyaṃ nādya saricchreṣṭhā yathā purā", "english": "Seeing this, Shantanu, bull among men, wondered: \"Why does this best of rivers not flow today as she did of old?\""},
+{"ref": "1.94.23", "sanskrit": "tato nimittam anvicchan dadarśa sa mahāmanāḥ kumāraṃ rūpasaṃpannaṃ bṛhantaṃ cārudarśanam", "english": "Then, searching for the cause, that high-minded one beheld a youth—handsome of form, tall, and beautiful to behold."},
+{"ref": "1.94.24", "sanskrit": "divyam astraṃ vikurvāṇaṃ yathā devaṃ puraṃdaram kṛtsnāṃ gaṅgāṃ samāvṛtya śarais tīkṣṇair avasthitam", "english": "He was wielding divine weapons like the god Indra himself, standing there having covered the whole Gaṅgā with sharp arrows."},
+{"ref": "1.94.25", "sanskrit": "tāṃ śarair āvṛtāṃ dṛṣṭvā nadīṃ gaṅgāṃ tadantike abhavad vismito rājā karma dṛṣṭvātimānuṣam", "english": "Seeing the river Gaṅgā thus covered with arrows nearby, the king was filled with astonishment, beholding an act surpassing human capacity."},
+{"ref": "1.94.26", "sanskrit": "jātamātraṃ purā dṛṣṭaṃ taṃ putraṃ śaṃtanus tadā nopalebhe smṛtiṃ dhīmān abhijñātuṃ tam ātmajam", "english": "Though Shantanu had seen that son immediately at birth long ago, the wise king could not now recall enough to recognise him as his own child."},
+{"ref": "1.94.27", "sanskrit": "sa tu taṃ pitaraṃ dṛṣṭvā mohayām āsa māyayā saṃmohya tu tataḥ kṣipraṃ tatraivāntaradhīyata", "english": "But that youth, seeing his father, cast a spell of bewilderment upon him with his magic, and having bewildered him, vanished from that very spot."},
+{"ref": "1.94.28", "sanskrit": "tad adbhutaṃ tadā dṛṣṭvā tatra rājā sa śaṃtanuḥ śaṅkamānaḥ sutaṃ gaṅgām abravīd darśayeti ha", "english": "Having witnessed that wonder, king Shantanu, suspecting this to be his son, called out to Gaṅgā: \"Show him to me!\""},
+{"ref": "1.94.29", "sanskrit": "darśayām āsa taṃ gaṅgā bibhratī rūpam uttamam gṛhītvā dakṣiṇe pāṇau taṃ kumāram alaṃkṛtam", "english": "Then Gaṅgā, wearing her most beautiful form, showed him that adorned youth, taking him by the right hand."},
+{"ref": "1.94.30", "sanskrit": "alaṃkṛtām ābharaṇair arajombaradhāriṇīm dṛṣṭapūrvām api satīṃ nābhyajānāt sa śaṃtanuḥ", "english": "Though Shantanu had seen her before, he did not recognise that faithful one, adorned with jewels and wearing spotless garments."},
+{"ref": "1.94.31", "sanskrit": "gaṅgovāca yaṃ putram aṣṭamaṃ rājaṃs tvaṃ purā mayy ajāyithāḥ sa te 'yaṃ puruṣavyāghra nayasvainaṃ gṛhāntikam", "english": "Gaṅgā said: \"The eighth son whom you once begat upon me, O king—this is he, O tiger among men. Take him home with you.\""},
+{"ref": "1.94.32", "sanskrit": "vedān adhijage sāṅgān vasiṣṭhād eva vīryavān kṛtāstraḥ parameṣvāso devarājasamo yudhi", "english": "\"He has mastered the Vedas with all their ancillary texts under Vasiṣṭha himself; skilled in arms, an incomparable archer, he equals the king of gods in battle.\""},
+{"ref": "1.94.33", "sanskrit": "surāṇāṃ saṃmato nityam asurāṇāṃ ca bhārata uśanā veda yac chāstram ayaṃ tad veda sarvaśaḥ", "english": "\"He is ever honoured by both gods and demons, O Bhārata; whatever scripture Uśanas knows, this one knows it all and completely.\""},
+{"ref": "1.94.34", "sanskrit": "tathaivāṅgirasaḥ putraḥ surāsuranamaskṛtaḥ yad veda śāstraṃ tac cāpi kṛtsnam asmin pratiṣṭhitam tava putre mahābāhau sāṅgopāṅgaṃ mahātmani", "english": "\"Likewise, the son of Aṅgiras—Bṛhaspati, adored by gods and demons alike—whatever scripture he knows, all of that too is established fully in this mighty-armed, great-souled son of yours, with every supplement and sub-division.\""},
+{"ref": "1.94.35", "sanskrit": "ṛṣiḥ parair anādhṛṣyo jāmadagnyaḥ pratāpavān yad astraṃ veda rāmaś ca tad apy asmin pratiṣṭhitam", "english": "\"The mighty sage Rāma Jamadagnya, invincible by any foe—whatever weapon-lore he knows, that too is established in this son of yours.\""},
+{"ref": "1.94.36", "sanskrit": "maheṣvāsam imaṃ rājan rājadharmārthakovidam mayā dattaṃ nijaṃ putraṃ vīraṃ vīra gṛhān naya", "english": "\"This great archer, skilled in the laws and aims of kingship, O king—this, my own son, a hero—I give to you; O hero, take him home.\""},
+{"ref": "1.94.37", "sanskrit": "vaiśaṃpāyana uvāca tayaivaṃ samanujñātaḥ putram ādāya śaṃtanuḥ bhrājamānaṃ yathādityam āyayau svapuraṃ prati", "english": "Vaiśaṃpāyana said: Thus sent off by her, Shantanu, taking his son who shone like the sun, set out toward his own city."},
+{"ref": "1.94.38", "sanskrit": "pauravaḥ svapuraṃ gatvā puraṃdarapuropamam sarvakāmasamṛddhārthaṃ mene ātmānam ātmanā pauraveṣu tataḥ putraṃ yauvarājye 'bhyaṣecayat", "english": "That scion of Puru, arriving at his own city—rivalling the city of Indra, abundant in every desired object—considered himself fulfilled, and then installed his son as crown prince among the Pauravas."},
+{"ref": "1.94.39", "sanskrit": "pauravāñ śaṃtanoḥ putraḥ pitaraṃ ca mahāyaśāḥ rāṣṭraṃ ca rañjayām āsa vṛttena bharatarṣabha", "english": "The greatly renowned son of Shantanu delighted the Pauravas, his father, and the kingdom by his conduct, O bull of the Bhāratas."},
+{"ref": "1.94.40", "sanskrit": "sa tathā saha putreṇa ramamāṇo mahīpatiḥ vartayām āsa varṣāṇi catvāry amitavikramaḥ", "english": "That king of boundless valour thus spent four years rejoicing together with his son."},
+{"ref": "1.94.41", "sanskrit": "sa kadā cid vanaṃ yāto yamunām abhito nadīm mahīpatir anirdeśyam ājighrad gandham uttamam", "english": "Once, the king went to a forest near the river Yamunā, where he inhaled an indescribably excellent fragrance."},
+{"ref": "1.94.42", "sanskrit": "tasya prabhavam anvicchan vicacāra samantataḥ sa dadarśa tadā kanyāṃ dāśānāṃ devarūpiṇīm", "english": "Seeking its source, he wandered in all directions and then saw a girl belonging to the fishermen's clan, beautiful as a goddess."},
+{"ref": "1.94.43", "sanskrit": "tām apṛcchat sa dṛṣṭvaiva kanyām asitalocanām kasya tvam asi kā cāsi kiṃ ca bhīru cikīrṣasi", "english": "Having seen her, he asked that dark-eyed maiden: \"Whose daughter are you? Who are you? And what do you intend to do, O timid one?\""},
+{"ref": "1.94.44", "sanskrit": "sābravīd dāśakanyāsmi dharmārthaṃ vāhaye tarīm pitur niyogād bhadraṃ te dāśarājño mahātmanaḥ", "english": "She replied: \"I am the daughter of a fisherman; by my father's command—the great-souled chief of the fishermen, blessings upon you—I ferry people across for the sake of dharma and livelihood.\""},
+{"ref": "1.94.45", "sanskrit": "rūpamādhuryagandhais tāṃ saṃyuktāṃ devarūpiṇīm samīkṣya rājā dāśeyīṃ kāmayām āsa śaṃtanuḥ", "english": "Gazing upon her—endowed with beauty, sweetness, and fragrance, radiant as a goddess—king Shantanu desired that daughter of the fisherman."}
 ]

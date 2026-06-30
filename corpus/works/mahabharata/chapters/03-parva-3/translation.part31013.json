@@ -1,402 +1,82 @@
 [
-  {
-    "ref": "3.31.13",
-    "sanskrit": "yad idaṃ vaiśvadevānte sāyaṃprātaḥ pradīyate tad dattvātithibhṛtyebhyo rājañ śeṣeṇa jīvasi",
-    "english": "That which is offered at the close of the Vaiśvadeva rite morning and evening — having given that to guests and servants, O king, you live on what remains."
-  },
-  {
-    "ref": "3.31.14",
-    "sanskrit": "iṣṭayaḥ paśubandhāś ca kāmyanaimittikāś ca ye vartante pākayajñāś ca yajñakarma ca nityadā",
-    "english": "Sacrificial rites, animal offerings, optional and occasional ceremonies, domestic fire sacrifices, and the daily performance of sacrificial duties — all these continue."
-  },
-  {
-    "ref": "3.31.15",
-    "sanskrit": "asminn api mahāraṇye vijane dasyusevite rāṣṭrād apetya vasato dhārmas te nāvasīdati",
-    "english": "Even here in this great wilderness, desolate and frequented by bandits, though you have left your kingdom and dwell in exile, your dharma does not decay."
-  },
-  {
-    "ref": "3.31.16",
-    "sanskrit": "aśvamedho rājasūyaḥ puṇḍarīko 'tha gosavaḥ etair api mahāyajñair iṣṭaṃ te bhūridakṣiṇaiḥ",
-    "english": "The Aśvamedha, the Rājasūya, the Puṇḍarīka, and the Gosava — you have performed even these great sacrifices with abundant gifts of honor."
-  },
-  {
-    "ref": "3.31.17",
-    "sanskrit": "rājan parītayā buddhyā viṣame 'kṣaparājaye rājyaṃ vasūny āyudhāni bhrātṝn māṃ cāsi nirjitaḥ",
-    "english": "O king, with a clouded mind at the calamitous dice defeat, you were vanquished — your kingdom, your wealth, your weapons, your brothers, and even me."
-  },
-  {
-    "ref": "3.31.18",
-    "sanskrit": "ṛjor mṛdor vadānyasya hrīmataḥ satyavādinaḥ katham akṣavyasanajā buddhir āpatitā tava",
-    "english": "For one who is upright, gentle, generous, modest, and truthful — how did a mind born of addiction to dice come to descend upon you?"
-  },
-  {
-    "ref": "3.31.19",
-    "sanskrit": "atīva moham āyāti manaś ca paridūyate niśāmya te duḥkham idam imāṃ cāpadam īdṛśīm",
-    "english": "Extreme delusion overtakes me and my heart is seared within, witnessing this suffering of yours and such a calamity as this."
-  },
-  {
-    "ref": "3.31.20",
-    "sanskrit": "atrāpy udāharantīmam itihāsaṃ purātanam īśvarasya vaśe lokas tiṣṭhate nātmano yathā",
-    "english": "On this topic they cite this ancient tale: the world abides under the sway of the Lord, not under the power of one's own self."
-  },
-  {
-    "ref": "3.31.21",
-    "sanskrit": "dhātaiva khalu bhūtānāṃ sukhaduḥkhe priyāpriye dadhāti sarvam īśānaḥ purastāc chukram uccaran",
-    "english": "The Creator alone indeed apportions pleasure and pain, the pleasant and the unpleasant, for all beings — the Lord who is supreme, who emits the seed from the beginning."
-  },
-  {
-    "ref": "3.31.22",
-    "sanskrit": "yathā dārumayī yoṣā naravīra samāhitā īrayaty aṅgam aṅgāni tathā rājann imāḥ prajāḥ",
-    "english": "Just as a wooden puppet, O hero among men, when set in motion, moves its limb after limb, so too, O king, does He move these creatures."
-  },
-  {
-    "ref": "3.31.23",
-    "sanskrit": "ākāśa iva bhūtāni vyāpya sarvāṇi bhārata īśvaro vidadhātīha kalyāṇaṃ yac ca pāpakam",
-    "english": "Like the sky pervading all beings, O descendant of Bharata, the Lord here ordains both the auspicious and the evil."
-  },
-  {
-    "ref": "3.31.24",
-    "sanskrit": "śakunis tantubaddho vā niyato 'yam anīśvaraḥ īśvarasya vaśe tiṣṭhan nānyeṣāṃ nātmanaḥ prabhuḥ",
-    "english": "Like a bird bound by a string, this creature is controlled and powerless; standing under the sway of the Lord, it is master neither of others nor of itself."
-  },
-  {
-    "ref": "3.31.25",
-    "sanskrit": "maṇiḥ sūtra iva proto nasyota iva govṛṣaḥ dhātur ādeśam anveti tanmayo hi tadarpaṇaḥ",
-    "english": "Like a gem threaded on a string, like a bull led by the nose-rope — it follows the Creator's command, for it is constituted of Him alone and wholly surrendered to Him."
-  },
-  {
-    "ref": "3.31.26",
-    "sanskrit": "nātmādhīno manuṣyo 'yaṃ kālaṃ bhavati kaṃ cana srotaso madhyam āpannaḥ kūlād vṛkśa iva cyutaḥ",
-    "english": "This human being is not self-governed for any span of time, like a tree fallen from its bank into the midst of a current."
-  },
-  {
-    "ref": "3.31.27",
-    "sanskrit": "ajño jantur anīśo 'yam ātmanaḥ sukhaduḥkhayoḥ īśvaraprerito gacchet svargaṃ narakam eva ca",
-    "english": "This ignorant creature is not master of its own pleasure and pain; impelled by the Lord, it may go to heaven or even to hell."
-  },
-  {
-    "ref": "3.31.28",
-    "sanskrit": "yathā vāyos tṛṇāgrāṇi vaśaṃ yānti balīyasaḥ dhātur evaṃ vaśaṃ yānti sarvabhūtāni bhārata",
-    "english": "Just as the tips of grass come under the sway of the mighty wind, so all beings come under the sway of the Creator, O descendant of Bharata."
-  },
-  {
-    "ref": "3.31.29",
-    "sanskrit": "āryakarmaṇi yuñjānaḥ pāpe vā punar īśvaraḥ vyāpya bhūtāni carate na cāyam iti lakṣyate",
-    "english": "Engaging beings in noble actions or again in sin, the Lord pervades and moves through all creatures — yet He is not perceived as such."
-  },
-  {
-    "ref": "3.31.30",
-    "sanskrit": "hetumātram idaṃ dhātuḥ śarīraṃ kṣetrasaṃjñitam yena kārayate karma śubhāśubhaphalaṃ vibhuḥ",
-    "english": "This body, known as the field, is merely the instrument of the Creator — through it the all-pervading Lord causes actions of auspicious and inauspicious fruit to be performed."
-  },
-  {
-    "ref": "3.31.31",
-    "sanskrit": "paśya māyāprabhāvo 'yam īśvareṇa yathā kṛtaḥ yo hanti bhūtair bhūtāni mohayitvātmamāyayā",
-    "english": "Behold this power of illusion fashioned by the Lord — He who slays beings by means of other beings, having deluded them with His own māyā."
-  },
-  {
-    "ref": "3.31.32",
-    "sanskrit": "anyathā paridṛṣṭāni munibhir vedadarśibhiḥ anyathā parivartante vegā iva nabhasvataḥ",
-    "english": "Things are seen one way by the sages who behold the Veda, yet they turn out otherwise — like the gusts of the wind."
-  },
-  {
-    "ref": "3.31.33",
-    "sanskrit": "anyathaiva hi manyante puruṣās tāni tāni ca anyathaiva prabhus tāni karoti vikaroti ca",
-    "english": "Men indeed think of those various things one way, yet the Lord makes and unmakes them in quite another way."
-  },
-  {
-    "ref": "3.31.34",
-    "sanskrit": "yathā kāṣṭhena vā kāṣṭham aśmānaṃ cāśmanā punaḥ ayasā cāpy ayaś chindyān nirviceṣṭam acetanam",
-    "english": "Just as wood may be split by wood, stone by stone, and iron by iron — all inert and insensate —"
-  },
-  {
-    "ref": "3.31.35",
-    "sanskrit": "evaṃ sa bhagavān devaḥ svayambhūḥ prapitāmahaḥ hinasti bhūtair bhūtāni chadma kṛtvā yudhiṣṭhira",
-    "english": "— so that blessed God, the Self-Existent, the great Progenitor, slays beings by means of other beings, assuming a disguise, O Yudhiṣṭhira."
-  },
-  {
-    "ref": "3.31.36",
-    "sanskrit": "saṃprayojya viyojyāyaṃ kāmakārakaraḥ prabhuḥ krīḍate bhagavan bhūtair bālaḥ krīḍanakair iva",
-    "english": "Joining and separating — this Lord who acts as He wills, the Blessed One, sports with beings as a child with toys."
-  },
-  {
-    "ref": "3.31.37",
-    "sanskrit": "na mātṛpitṛvad rājan dhātā bhūteṣu vartate roṣād iva pravṛtto 'yaṃ yathāyam itaro janaḥ",
-    "english": "The Creator does not behave toward creatures as a mother or father would, O king; He acts as if impelled by wrath, like any ordinary person."
-  },
-  {
-    "ref": "3.31.38",
-    "sanskrit": "āryāñ śīlavato dṛṣṭvā hrīmato vṛttikarśitān anāryān sukhinaś caiva vihvalāmīva cintayā",
-    "english": "Seeing the noble, the virtuous, the modest ground down in livelihood, while the ignoble are prosperous — I am overwhelmed, as it were, with anguish."
-  },
-  {
-    "ref": "3.31.39",
-    "sanskrit": "tavemām āpadaṃ dṛṣṭvā samṛddhiṃ ca suyodhane dhātāraṃ garhaye pārtha viṣamaṃ yo 'nupaśyati",
-    "english": "Seeing this calamity of yours and the prosperity of Suyodhana, I reproach the Creator, O Pārtha, who looks on unequally."
-  },
-  {
-    "ref": "3.31.40",
-    "sanskrit": "āryaśāstrātige krūre lubdhe dharmāpacāyini dhārtarāṣṭre śriyaṃ dattvā dhātā kiṃ phalam aśnute",
-    "english": "Having bestowed fortune on the son of Dhṛtarāṣṭra, who transgresses the codes of the noble, who is cruel, greedy, and contemptuous of dharma — what fruit does the Creator enjoy?"
-  },
-  {
-    "ref": "3.31.41",
-    "sanskrit": "karma cet kṛtam anveti kartāraṃ nānyam ṛcchati karmaṇā tena pāpena lipyate nūnam īśvaraḥ",
-    "english": "If the deed follows its doer and does not go to another, then surely the Lord is stained by that sinful act."
-  },
-  {
-    "ref": "3.31.42",
-    "sanskrit": "atha karma kṛtaṃ pāpaṃ na cet kartāram ṛcchati kāraṇaṃ balam eveha janāñ śocāmi durbalān",
-    "english": "Or if a sinful deed done does not return to its doer, then mere force is the only cause in this world — and I grieve for the powerless."
-  },
-  {
-    "ref": "3.32.1",
-    "sanskrit": "yudhiṣṭhira uvāca valgu citrapadaṃ ślakṣṇaṃ yājñaseni tvayā vacaḥ uktaṃ tac chrutam asmābhir nāstikyaṃ tu prabhāṣase",
-    "english": "Yudhiṣṭhira said: O Yājñasenī, what you have spoken is eloquent, adorned with varied phrases, and smooth — we have heard it; yet you speak in the manner of an atheist."
-  },
-  {
-    "ref": "3.32.2",
-    "sanskrit": "nāhaṃ dharmaphalānveṣī rājaputri carāmy uta dadāmi deyam ity eva yaje yaṣṭavyam ity uta",
-    "english": "I do not practice dharma in quest of its fruits, O princess; I give because it is to be given, I sacrifice because it is to be sacrificed."
-  },
-  {
-    "ref": "3.32.3",
-    "sanskrit": "astu vātra phalaṃ mā vā kartavyaṃ puruṣeṇa yat gṛhān āvasatā kṛṣṇe yathāśakti karomi tat",
-    "english": "Whether there be fruit in this or not — whatever a man living as a householder ought to do, O Kṛṣṇā, I do that to the best of my ability."
-  },
-  {
-    "ref": "3.32.4",
-    "sanskrit": "dharmaṃ carāmi suśroṇi na dharmaphalakāraṇāt āgamān anatikramya satāṃ vṛttam avekṣya ca dharma eva manaḥ kṛṣṇe svabhāvāc caiva me dhṛtam",
-    "english": "I practice dharma, O fair-hipped one, not for the sake of its fruit; not transgressing the scriptures, looking to the conduct of the virtuous — it is dharma alone, O Kṛṣṇā, to which my mind is held by its very nature."
-  },
-  {
-    "ref": "3.32.5",
-    "sanskrit": "na dharmaphalam āpnoti yo dharmaṃ dogdhum icchati yaś cainaṃ śaṅkate kṛtvā nāstikyāt pāpacetanaḥ",
-    "english": "He who wishes to milk dharma of its fruit does not attain the fruit of dharma; and he who, after practicing it, doubts it out of atheism, being of sinful mind — he too does not."
-  },
-  {
-    "ref": "3.32.6",
-    "sanskrit": "ativādān madāc caiva mā dharmam atiśaṅkithāḥ dharmātiśaṅkī puruṣas tiryaggatiparāyaṇaḥ",
-    "english": "Do not excessively doubt dharma out of arrogance or pride; a man who excessively doubts dharma is destined for the state of beasts."
-  },
-  {
-    "ref": "3.32.7",
-    "sanskrit": "dharmo yasyātiśaṅkyaḥ syād ārṣaṃ vā durbalātmanaḥ vedāc chūdra ivāpeyāt sa lokād ajarāmarāt",
-    "english": "He of weak spirit for whom dharma or the teaching of the seers would be a matter of excessive doubt — he falls away from the undying, undecaying world, as a śūdra falls away from the Veda."
-  },
-  {
-    "ref": "3.32.8",
-    "sanskrit": "vedādhyāyī dharmaparaḥ kule jāto yaśasvini sthavireṣu sa yoktavyo rājabhir dharmacāribhiḥ",
-    "english": "One who is a student of the Veda, devoted to dharma, born of an illustrious family — him should kings who walk in dharma employ among the elders."
-  },
-  {
-    "ref": "3.32.9",
-    "sanskrit": "pāpīyān hi sa śūdrebhyas taskarebhyo viśeṣataḥ śāstrātigo mandabuddhir yo dharmam atiśaṅkate",
-    "english": "He is more wicked than śūdras — especially more so than thieves — that dull-witted transgressor of scripture who excessively doubts dharma."
-  },
-  {
-    "ref": "3.32.10",
-    "sanskrit": "pratyakṣaṃ hi tvayā dṛṣṭa ṛṣir gacchan mahātapāḥ mārkaṇḍeyo 'prameyātmā dharmeṇa cirajīvitām",
-    "english": "For you have seen with your own eyes the great ascetic, the seer Mārkaṇḍeya of immeasurable spirit, who has attained long life through dharma."
-  },
-  {
-    "ref": "3.32.11",
-    "sanskrit": "vyāso vasiṣṭho maitreyo nārado lomaśaḥ śukaḥ anye ca ṛṣayaḥ siddhā dharmeṇaiva sucetasaḥ",
-    "english": "Vyāsa, Vasiṣṭha, Maitreya, Nārada, Lomaśa, Śuka, and other accomplished seers of pure minds — all have attained perfection through dharma alone."
-  },
-  {
-    "ref": "3.32.12",
-    "sanskrit": "pratyakṣaṃ paśyasi hy etān divyayogasamanvitān śāpānugrahaṇe śaktān devair api garīyasaḥ",
-    "english": "You see these very ones with your own eyes — endowed with divine yoga, capable of curse and benediction, weightier even than the gods."
-  },
-  {
-    "ref": "3.32.13",
-    "sanskrit": "ete hi dharmam evādau varṇayanti sadā mama kartavyam amaraprakhyāḥ pratyakṣāgamabuddhayaḥ",
-    "english": "These very ones, resplendent as immortals, whose understanding is grounded in direct scriptural knowledge, always declare dharma first as what must be done by me."
-  },
-  {
-    "ref": "3.32.14",
-    "sanskrit": "ato nārhasi kalyāṇi dhātāraṃ dharmam eva ca rajomūḍhena manasā kṣeptuṃ śaṅkitum eva ca",
-    "english": "Therefore, O auspicious one, you should not revile the Creator or dharma itself with a mind clouded by passion, nor should you doubt them."
-  },
-  {
-    "ref": "3.32.15",
-    "sanskrit": "dharmātiśaṅkī nānyasmin pramāṇam adhigacchati ātmapramāṇa unnaddhaḥ śreyaso hy avamanyakaḥ",
-    "english": "He who excessively doubts dharma finds no authority in anything else; puffed up with himself as his own authority, he is contemptuous of the good."
-  },
-  {
-    "ref": "3.32.16",
-    "sanskrit": "indriyaprītisaṃbaddhaṃ yad idaṃ lokasākṣikam etāvān manyate bālo moham anyatra gacchati",
-    "english": "The fool thinks that only this — what is witnessed by the world and bound up with the pleasure of the senses — is all there is, and falls into delusion regarding what lies beyond."
-  },
-  {
-    "ref": "3.32.17",
-    "sanskrit": "prāyaścittaṃ na tasyāsti yo dharmam atiśaṅkate dhyāyan sa kṛpaṇaḥ pāpo na lokān pratipadyate",
-    "english": "There is no expiation for him who excessively doubts dharma; brooding, that wretch and sinner does not attain the higher worlds."
-  },
-  {
-    "ref": "3.32.18",
-    "sanskrit": "pramāṇāny ativṛtto hi vedaśāstrārthanindakaḥ kāmalobhānugo mūḍho narakaṃ pratipadyate",
-    "english": "He who transgresses all authority, reviles the import of the Vedic scriptures, and follows desire and greed — that fool goes to hell."
-  },
-  {
-    "ref": "3.32.19",
-    "sanskrit": "yas tu nityaṃ kṛtamatir dharmam evābhipadyate aśaṅkamānaḥ kalyāṇi so 'mutrānantyam aśnute",
-    "english": "But he who is always resolute in mind, who resorts to dharma alone without doubting, O auspicious one — he attains eternity in the world beyond."
-  },
-  {
-    "ref": "3.32.20",
-    "sanskrit": "ārṣaṃ pramāṇam utkramya dharmān aparipālayan sarvaśāstrātigo mūḍhaḥ śaṃ janmasu na vindati",
-    "english": "He who transgresses the authority of the seers, does not protect the duties of dharma, and oversteps all scriptures — that fool finds no welfare across his births."
-  },
-  {
-    "ref": "3.32.21",
-    "sanskrit": "śiṣṭair ācaritaṃ dharmaṃ kṛṣṇe mā smātiśaṅkithāḥ purāṇam ṛṣibhiḥ proktaṃ sarvajñaiḥ sarvadarśibhiḥ",
-    "english": "O Kṛṣṇā, do not excessively doubt the dharma practiced by the disciplined, the ancient teaching proclaimed by the all-knowing, all-seeing seers."
-  },
-  {
-    "ref": "3.32.22",
-    "sanskrit": "dharma eva plavo nānyaḥ svargaṃ draupadi gacchatām saiva nauḥ sāgarasyeva vaṇijaḥ pāram ṛcchataḥ",
-    "english": "Dharma alone is the raft — there is no other — for those going to heaven, O Draupadī; it is the vessel, like a merchant's ship reaching the far shore of the ocean."
-  },
-  {
-    "ref": "3.32.23",
-    "sanskrit": "aphālo yadi dharmaḥ syāc carito dharmacāribhiḥ apratiṣṭhe tamasy etaj jagan majjed anindite",
-    "english": "If dharma, when practiced by those who walk in dharma, were to bear no fruit, this blameless world would sink into groundless darkness."
-  },
-  {
-    "ref": "3.32.24",
-    "sanskrit": "nirvāṇaṃ nādhigaccheyur jīveyuḥ paśujīvikām vighātenaiva yujyeyur na cārthaṃ kiṃ cid āpnuyuḥ",
-    "english": "Men would not attain liberation, they would live the life of beasts, they would be joined only with destruction, and they would attain nothing of value."
-  },
-  {
-    "ref": "3.32.25",
-    "sanskrit": "tapaś ca brahmacaryaṃ ca yajñaḥ svādhyāya eva ca dānam ārjavam etāni yadi syur aphalāni vai",
-    "english": "Austerity, celibacy, sacrifice, study, generosity, and uprightness — if all these were indeed fruitless —"
-  },
-  {
-    "ref": "3.32.26",
-    "sanskrit": "nācariṣyan pare dharmaṃ pare paratare ca ye vipralambho 'yam atyantaṃ yadi syur aphalāḥ kriyāḥ",
-    "english": "— then neither those here nor those far beyond would practice dharma; this would be utter deceit if all these acts were fruitless."
-  },
-  {
-    "ref": "3.32.27",
-    "sanskrit": "ṛṣayaś caiva devāś ca gandharvāsurarākṣasāḥ īśvarāḥ kasya hetos te careyur dharmam ādṛtāḥ",
-    "english": "The seers and the gods, the gandharvas, asuras, and rākṣasas — lords all — for what reason would they practice dharma with devotion?"
-  },
-  {
-    "ref": "3.32.28",
-    "sanskrit": "phaladaṃ tv iha vijñāya dhātāraṃ śreyasi dhruve dharmaṃ te hy ācaran kṛṣṇe tad dhi dharmasanātanam",
-    "english": "Knowing the Creator here to be the giver of fruit in the certain highest good, they practice dharma, O Kṛṣṇā — for that is the eternal dharma."
-  },
-  {
-    "ref": "3.32.29",
-    "sanskrit": "sa cāyaṃ saphalo dharmo na dharmo 'phala ucyate dṛśyante 'pi hi vidyānāṃ phalāni tapasāṃ tathā",
-    "english": "And this dharma is indeed fruitful; dharma is not said to be fruitless — for the fruits of learning and likewise of austerities are visibly seen."
-  },
-  {
-    "ref": "3.32.30",
-    "sanskrit": "tvayy etad vai vijānīhi janma kṛṣṇe yathā śrutam vettha cāpi yathā jāto dhṛṣṭadyumnaḥ pratāpavān",
-    "english": "Know this to be so in your own case, O Kṛṣṇā, as it has been heard; you also know how the valiant Dhṛṣṭadyumna was born."
-  },
-  {
-    "ref": "3.32.31",
-    "sanskrit": "etāvad eva paryāptam upamānaṃ śucismite karmaṇāṃ phalam astīti dhīro 'lpenāpi tuṣyati",
-    "english": "This much is sufficient illustration, O bright-smiling one — that there is fruit to actions; the wise man is satisfied even by a small example."
-  },
-  {
-    "ref": "3.32.32",
-    "sanskrit": "bahunāpi hy avidvāṃso naiva tuṣyanty abuddhayaḥ teṣāṃ na dharmajaṃ kiṃ cit pretya śarmāsti karma vā",
-    "english": "For the ignorant who lack understanding are never satisfied even by much; for them there is no solace born of dharma or of action after death."
-  },
-  {
-    "ref": "3.32.33",
-    "sanskrit": "karmaṇām uta puṇyānāṃ pāpānāṃ ca phalodayaḥ prabhavaś cāpyayaś caiva devaguhyāni bhāmini",
-    "english": "The arising of the fruit of actions — both meritorious and sinful — their origin and their dissolution: these are the secret mysteries of the gods, O passionate one."
-  },
-  {
-    "ref": "3.32.34",
-    "sanskrit": "naitāni veda yaḥ kaś cin muhyanty atra prajā imāḥ rakṣyāṇy etāni devānāṃ gūḍhamāyā hi devatāḥ",
-    "english": "No one whatsoever knows these things — creatures are bewildered in this matter; these are to be kept hidden by the gods, for the deities have concealed their mysteries."
-  },
-  {
-    "ref": "3.32.35",
-    "sanskrit": "kṛśāṅgāḥ suvratāś caiva tapasā dagdhakilbiṣāḥ prasannair mānasair yuktāḥ paśyanty etāni vai dvijāḥ",
-    "english": "Slender-limbed, of good vows, their sins burned away by austerity, endowed with serene minds — such brāhmaṇas indeed behold these things."
-  },
-  {
-    "ref": "3.32.36",
-    "sanskrit": "na phalādarśanād dharmaḥ śaṅkitavyo na devatāḥ yaṣṭavyaṃ cāpramattena dātavyaṃ cānasūyatā",
-    "english": "Dharma should not be doubted because its fruit is not visible, nor should the gods be doubted; one should sacrifice with diligence and give without envy."
-  },
-  {
-    "ref": "3.32.37",
-    "sanskrit": "karmaṇāṃ phalam astīti tathaitad dharma śāśvatam brahmā provāca putrāṇāṃ yad ṛṣir veda kaśyapaḥ",
-    "english": "\"There is fruit to actions\" — thus runs this eternal dharma; Brahmā declared it to his sons, and the seer Kaśyapa knows it."
-  },
-  {
-    "ref": "3.32.38",
-    "sanskrit": "tasmāt te saṃśayaḥ kṛṣṇe nīhāra iva naśyatu vyavasya sarvam astīti nāstikyaṃ bhāvam utsṛja",
-    "english": "Therefore, O Kṛṣṇā, let your doubt vanish like mist; resolve that all this exists, and abandon the disposition of atheism."
-  },
-  {
-    "ref": "3.32.39",
-    "sanskrit": "īśvaraṃ cāpi bhūtānāṃ dhātāraṃ mā vicikṣipaḥ śikṣasvainaṃ namasvainaṃ mā te bhūd buddhir īdṛśī",
-    "english": "Do not revile the Lord, the Creator of all beings; learn from Him, bow to Him — let such a disposition as this not be in you."
-  },
-  {
-    "ref": "3.32.40",
-    "sanskrit": "yasya prasādāt tadbhakto martyo gacchaty amartyatām uttamaṃ daivataṃ kṛṣṇe mātivocaḥ kathaṃ cana",
-    "english": "By whose grace His devotee, though mortal, attains immortality — O Kṛṣṇā, do not speak ill in any way of that supreme divinity."
-  },
-  {
-    "ref": "3.33.1",
-    "sanskrit": "draupady uvāca nāvamanye na garhe ca dharmaṃ pārtha kathaṃ cana īśvaraṃ kuta evāham avamaṃsye prajāpatim",
-    "english": "Draupadī said: I do not disrespect dharma, nor do I blame it in any way, O Pārtha; how should I disrespect the Lord, the Progenitor of creatures?"
-  },
-  {
-    "ref": "3.33.2",
-    "sanskrit": "ārtāhaṃ pralapāmīdam iti māṃ viddhi bhārata bhūyaś ca vilapiṣyāmi sumanās tan nibodha me",
-    "english": "Know me to be speaking thus in grief, O descendant of Bharata; and I shall lament yet further — hear that from me with a peaceful mind."
-  },
-  {
-    "ref": "3.33.3",
-    "sanskrit": "karma khalv iha kartavyaṃ jātenāmitrakarśana akarmāṇo hi jīvanti sthāvarā netare janāḥ",
-    "english": "Action must indeed be performed in this world by one who is born, O crusher of foes; for it is only the immobile that live without action — not other beings."
-  },
-  {
-    "ref": "3.33.4",
-    "sanskrit": "ā mātṛstanapānāc ca yāvac chayyopasarpaṇam jaṅgamāḥ karmaṇā vṛttim āpnuvanti yudhiṣṭhira",
-    "english": "From the drinking of the mother's breast right up to the approach of death's bed, mobile creatures gain their livelihood through action, O Yudhiṣṭhira."
-  },
-  {
-    "ref": "3.33.5",
-    "sanskrit": "jaṅgameṣu viśeṣeṇa manuṣyā bharatarṣabha icchanti karmaṇā vṛttim avāptuṃ pretya ceha ca",
-    "english": "Among mobile creatures, men in particular, O bull of the Bharatas, desire to obtain livelihood through action — both here and after death."
-  },
-  {
-    "ref": "3.33.6",
-    "sanskrit": "utthānam abhijānanti sarvabhūtāni bhārata pratyakṣaṃ phalam aśnanti karmaṇāṃ lokasākṣikam",
-    "english": "All beings know exertion, O descendant of Bharata; they enjoy the visible fruit of actions, witnessed by the world."
-  },
-  {
-    "ref": "3.33.7",
-    "sanskrit": "paśyāmi svaṃ samutthānam upajīvanti jantavaḥ api dhātā vidhātā ca yathāyam udake bakaḥ",
-    "english": "I see creatures living by their own exertion — even the Creator and the Ordainer do so, like this heron standing in the water."
-  },
-  {
-    "ref": "3.33.8",
-    "sanskrit": "svakarma kuru mā glāsīḥ karmaṇā bhava daṃśitaḥ kṛtyaṃ hi yo 'bhijānāti sahasre nāsti so 'sti vā",
-    "english": "Perform your own duty; do not be despondent; be armored by action. For among a thousand men, he who knows what is to be done — whether he be or not — truly is."
-  },
-  {
-    "ref": "3.33.9",
-    "sanskrit": "tasya cāpi bhavet kāryaṃ vivṛddhau rakṣaṇe tathā bhakṣyamāṇo hy anāvāpaḥ kṣīyate himavān api",
-    "english": "And even for him there would be something to be done — in increase and in protection; for even the Himālaya decays when eaten away without replenishment."
-  },
-  {
-    "ref": "3.33.10",
-    "sanskrit": "utsīderan prajāḥ sarvā na kuryuḥ karma ced yadi api cāpy aphalaṃ karma paśyāmaḥ kurvato janān nānyathā hy abhijānanti vṛttiṃ loke kathaṃ cana",
-    "english": "All creatures would perish if they were not to perform action; and even if we see men performing action whose fruit is nil, they know no other way whatsoever to sustain life in this world."
-  }
+{"ref": "3.31.13", "sanskrit": "yad idaṃ vaiśvadevānte sāyaṃprātaḥ pradīyate tad dattvātithibhṛtyebhyo rājañ śeṣeṇa jīvasi", "english": "That which is offered at the close of the Vaiśvadeva rite morning and evening — having given that to guests and servants, O king, you live on what remains."},
+{"ref": "3.31.14", "sanskrit": "iṣṭayaḥ paśubandhāś ca kāmyanaimittikāś ca ye vartante pākayajñāś ca yajñakarma ca nityadā", "english": "Sacrificial rites, animal offerings, optional and occasional ceremonies, domestic fire sacrifices, and the daily performance of sacrificial duties — all these continue."},
+{"ref": "3.31.15", "sanskrit": "asminn api mahāraṇye vijane dasyusevite rāṣṭrād apetya vasato dhārmas te nāvasīdati", "english": "Even here in this great wilderness, desolate and frequented by bandits, though you have left your kingdom and dwell in exile, your dharma does not decay."},
+{"ref": "3.31.16", "sanskrit": "aśvamedho rājasūyaḥ puṇḍarīko 'tha gosavaḥ etair api mahāyajñair iṣṭaṃ te bhūridakṣiṇaiḥ", "english": "The Aśvamedha, the Rājasūya, the Puṇḍarīka, and the Gosava — you have performed even these great sacrifices with abundant gifts of honor."},
+{"ref": "3.31.17", "sanskrit": "rājan parītayā buddhyā viṣame 'kṣaparājaye rājyaṃ vasūny āyudhāni bhrātṝn māṃ cāsi nirjitaḥ", "english": "O king, with a clouded mind at the calamitous dice defeat, you were vanquished — your kingdom, your wealth, your weapons, your brothers, and even me."},
+{"ref": "3.31.18", "sanskrit": "ṛjor mṛdor vadānyasya hrīmataḥ satyavādinaḥ katham akṣavyasanajā buddhir āpatitā tava", "english": "For one who is upright, gentle, generous, modest, and truthful — how did a mind born of addiction to dice come to descend upon you?"},
+{"ref": "3.31.19", "sanskrit": "atīva moham āyāti manaś ca paridūyate niśāmya te duḥkham idam imāṃ cāpadam īdṛśīm", "english": "Extreme delusion overtakes me and my heart is seared within, witnessing this suffering of yours and such a calamity as this."},
+{"ref": "3.31.20", "sanskrit": "atrāpy udāharantīmam itihāsaṃ purātanam īśvarasya vaśe lokas tiṣṭhate nātmano yathā", "english": "On this topic they cite this ancient tale: the world abides under the sway of the Lord, not under the power of one's own self."},
+{"ref": "3.31.21", "sanskrit": "dhātaiva khalu bhūtānāṃ sukhaduḥkhe priyāpriye dadhāti sarvam īśānaḥ purastāc chukram uccaran", "english": "The Creator alone indeed apportions pleasure and pain, the pleasant and the unpleasant, for all beings — the Lord who is supreme, who emits the seed from the beginning."},
+{"ref": "3.31.22", "sanskrit": "yathā dārumayī yoṣā naravīra samāhitā īrayaty aṅgam aṅgāni tathā rājann imāḥ prajāḥ", "english": "Just as a wooden puppet, O hero among men, when set in motion, moves its limb after limb, so too, O king, does He move these creatures."},
+{"ref": "3.31.23", "sanskrit": "ākāśa iva bhūtāni vyāpya sarvāṇi bhārata īśvaro vidadhātīha kalyāṇaṃ yac ca pāpakam", "english": "Like the sky pervading all beings, O descendant of Bharata, the Lord here ordains both the auspicious and the evil."},
+{"ref": "3.31.24", "sanskrit": "śakunis tantubaddho vā niyato 'yam anīśvaraḥ īśvarasya vaśe tiṣṭhan nānyeṣāṃ nātmanaḥ prabhuḥ", "english": "Like a bird bound by a string, this creature is controlled and powerless; standing under the sway of the Lord, it is master neither of others nor of itself."},
+{"ref": "3.31.25", "sanskrit": "maṇiḥ sūtra iva proto nasyota iva govṛṣaḥ dhātur ādeśam anveti tanmayo hi tadarpaṇaḥ", "english": "Like a gem threaded on a string, like a bull led by the nose-rope — it follows the Creator's command, for it is constituted of Him alone and wholly surrendered to Him."},
+{"ref": "3.31.26", "sanskrit": "nātmādhīno manuṣyo 'yaṃ kālaṃ bhavati kaṃ cana srotaso madhyam āpannaḥ kūlād vṛkśa iva cyutaḥ", "english": "This human being is not self-governed for any span of time, like a tree fallen from its bank into the midst of a current."},
+{"ref": "3.31.27", "sanskrit": "ajño jantur anīśo 'yam ātmanaḥ sukhaduḥkhayoḥ īśvaraprerito gacchet svargaṃ narakam eva ca", "english": "This ignorant creature is not master of its own pleasure and pain; impelled by the Lord, it may go to heaven or even to hell."},
+{"ref": "3.31.28", "sanskrit": "yathā vāyos tṛṇāgrāṇi vaśaṃ yānti balīyasaḥ dhātur evaṃ vaśaṃ yānti sarvabhūtāni bhārata", "english": "Just as the tips of grass come under the sway of the mighty wind, so all beings come under the sway of the Creator, O descendant of Bharata."},
+{"ref": "3.31.29", "sanskrit": "āryakarmaṇi yuñjānaḥ pāpe vā punar īśvaraḥ vyāpya bhūtāni carate na cāyam iti lakṣyate", "english": "Engaging beings in noble actions or again in sin, the Lord pervades and moves through all creatures — yet He is not perceived as such."},
+{"ref": "3.31.30", "sanskrit": "hetumātram idaṃ dhātuḥ śarīraṃ kṣetrasaṃjñitam yena kārayate karma śubhāśubhaphalaṃ vibhuḥ", "english": "This body, known as the field, is merely the instrument of the Creator — through it the all-pervading Lord causes actions of auspicious and inauspicious fruit to be performed."},
+{"ref": "3.31.31", "sanskrit": "paśya māyāprabhāvo 'yam īśvareṇa yathā kṛtaḥ yo hanti bhūtair bhūtāni mohayitvātmamāyayā", "english": "Behold this power of illusion fashioned by the Lord — He who slays beings by means of other beings, having deluded them with His own māyā."},
+{"ref": "3.31.32", "sanskrit": "anyathā paridṛṣṭāni munibhir vedadarśibhiḥ anyathā parivartante vegā iva nabhasvataḥ", "english": "Things are seen one way by the sages who behold the Veda, yet they turn out otherwise — like the gusts of the wind."},
+{"ref": "3.31.33", "sanskrit": "anyathaiva hi manyante puruṣās tāni tāni ca anyathaiva prabhus tāni karoti vikaroti ca", "english": "Men indeed think of those various things one way, yet the Lord makes and unmakes them in quite another way."},
+{"ref": "3.31.34", "sanskrit": "yathā kāṣṭhena vā kāṣṭham aśmānaṃ cāśmanā punaḥ ayasā cāpy ayaś chindyān nirviceṣṭam acetanam", "english": "Just as wood may be split by wood, stone by stone, and iron by iron — all inert and insensate —"},
+{"ref": "3.31.35", "sanskrit": "evaṃ sa bhagavān devaḥ svayambhūḥ prapitāmahaḥ hinasti bhūtair bhūtāni chadma kṛtvā yudhiṣṭhira", "english": "— so that blessed God, the Self-Existent, the great Progenitor, slays beings by means of other beings, assuming a disguise, O Yudhiṣṭhira."},
+{"ref": "3.31.36", "sanskrit": "saṃprayojya viyojyāyaṃ kāmakārakaraḥ prabhuḥ krīḍate bhagavan bhūtair bālaḥ krīḍanakair iva", "english": "Joining and separating — this Lord who acts as He wills, the Blessed One, sports with beings as a child with toys."},
+{"ref": "3.31.37", "sanskrit": "na mātṛpitṛvad rājan dhātā bhūteṣu vartate roṣād iva pravṛtto 'yaṃ yathāyam itaro janaḥ", "english": "The Creator does not behave toward creatures as a mother or father would, O king; He acts as if impelled by wrath, like any ordinary person."},
+{"ref": "3.31.38", "sanskrit": "āryāñ śīlavato dṛṣṭvā hrīmato vṛttikarśitān anāryān sukhinaś caiva vihvalāmīva cintayā", "english": "Seeing the noble, the virtuous, the modest ground down in livelihood, while the ignoble are prosperous — I am overwhelmed, as it were, with anguish."},
+{"ref": "3.31.39", "sanskrit": "tavemām āpadaṃ dṛṣṭvā samṛddhiṃ ca suyodhane dhātāraṃ garhaye pārtha viṣamaṃ yo 'nupaśyati", "english": "Seeing this calamity of yours and the prosperity of Suyodhana, I reproach the Creator, O Pārtha, who looks on unequally."},
+{"ref": "3.31.40", "sanskrit": "āryaśāstrātige krūre lubdhe dharmāpacāyini dhārtarāṣṭre śriyaṃ dattvā dhātā kiṃ phalam aśnute", "english": "Having bestowed fortune on the son of Dhṛtarāṣṭra, who transgresses the codes of the noble, who is cruel, greedy, and contemptuous of dharma — what fruit does the Creator enjoy?"},
+{"ref": "3.31.41", "sanskrit": "karma cet kṛtam anveti kartāraṃ nānyam ṛcchati karmaṇā tena pāpena lipyate nūnam īśvaraḥ", "english": "If the deed follows its doer and does not go to another, then surely the Lord is stained by that sinful act."},
+{"ref": "3.31.42", "sanskrit": "atha karma kṛtaṃ pāpaṃ na cet kartāram ṛcchati kāraṇaṃ balam eveha janāñ śocāmi durbalān", "english": "Or if a sinful deed done does not return to its doer, then mere force is the only cause in this world — and I grieve for the powerless."},
+{"ref": "3.32.1", "sanskrit": "yudhiṣṭhira uvāca valgu citrapadaṃ ślakṣṇaṃ yājñaseni tvayā vacaḥ uktaṃ tac chrutam asmābhir nāstikyaṃ tu prabhāṣase", "english": "Yudhiṣṭhira said: O Yājñasenī, what you have spoken is eloquent, adorned with varied phrases, and smooth — we have heard it; yet you speak in the manner of an atheist."},
+{"ref": "3.32.2", "sanskrit": "nāhaṃ dharmaphalānveṣī rājaputri carāmy uta dadāmi deyam ity eva yaje yaṣṭavyam ity uta", "english": "I do not practice dharma in quest of its fruits, O princess; I give because it is to be given, I sacrifice because it is to be sacrificed."},
+{"ref": "3.32.3", "sanskrit": "astu vātra phalaṃ mā vā kartavyaṃ puruṣeṇa yat gṛhān āvasatā kṛṣṇe yathāśakti karomi tat", "english": "Whether there be fruit in this or not — whatever a man living as a householder ought to do, O Kṛṣṇā, I do that to the best of my ability."},
+{"ref": "3.32.4", "sanskrit": "dharmaṃ carāmi suśroṇi na dharmaphalakāraṇāt āgamān anatikramya satāṃ vṛttam avekṣya ca dharma eva manaḥ kṛṣṇe svabhāvāc caiva me dhṛtam", "english": "I practice dharma, O fair-hipped one, not for the sake of its fruit; not transgressing the scriptures, looking to the conduct of the virtuous — it is dharma alone, O Kṛṣṇā, to which my mind is held by its very nature."},
+{"ref": "3.32.5", "sanskrit": "na dharmaphalam āpnoti yo dharmaṃ dogdhum icchati yaś cainaṃ śaṅkate kṛtvā nāstikyāt pāpacetanaḥ", "english": "He who wishes to milk dharma of its fruit does not attain the fruit of dharma; and he who, after practicing it, doubts it out of atheism, being of sinful mind — he too does not."},
+{"ref": "3.32.6", "sanskrit": "ativādān madāc caiva mā dharmam atiśaṅkithāḥ dharmātiśaṅkī puruṣas tiryaggatiparāyaṇaḥ", "english": "Do not excessively doubt dharma out of arrogance or pride; a man who excessively doubts dharma is destined for the state of beasts."},
+{"ref": "3.32.7", "sanskrit": "dharmo yasyātiśaṅkyaḥ syād ārṣaṃ vā durbalātmanaḥ vedāc chūdra ivāpeyāt sa lokād ajarāmarāt", "english": "He of weak spirit for whom dharma or the teaching of the seers would be a matter of excessive doubt — he falls away from the undying, undecaying world, as a śūdra falls away from the Veda."},
+{"ref": "3.32.8", "sanskrit": "vedādhyāyī dharmaparaḥ kule jāto yaśasvini sthavireṣu sa yoktavyo rājabhir dharmacāribhiḥ", "english": "One who is a student of the Veda, devoted to dharma, born of an illustrious family — him should kings who walk in dharma employ among the elders."},
+{"ref": "3.32.9", "sanskrit": "pāpīyān hi sa śūdrebhyas taskarebhyo viśeṣataḥ śāstrātigo mandabuddhir yo dharmam atiśaṅkate", "english": "He is more wicked than śūdras — especially more so than thieves — that dull-witted transgressor of scripture who excessively doubts dharma."},
+{"ref": "3.32.10", "sanskrit": "pratyakṣaṃ hi tvayā dṛṣṭa ṛṣir gacchan mahātapāḥ mārkaṇḍeyo 'prameyātmā dharmeṇa cirajīvitām", "english": "For you have seen with your own eyes the great ascetic, the seer Mārkaṇḍeya of immeasurable spirit, who has attained long life through dharma."},
+{"ref": "3.32.11", "sanskrit": "vyāso vasiṣṭho maitreyo nārado lomaśaḥ śukaḥ anye ca ṛṣayaḥ siddhā dharmeṇaiva sucetasaḥ", "english": "Vyāsa, Vasiṣṭha, Maitreya, Nārada, Lomaśa, Śuka, and other accomplished seers of pure minds — all have attained perfection through dharma alone."},
+{"ref": "3.32.12", "sanskrit": "pratyakṣaṃ paśyasi hy etān divyayogasamanvitān śāpānugrahaṇe śaktān devair api garīyasaḥ", "english": "You see these very ones with your own eyes — endowed with divine yoga, capable of curse and benediction, weightier even than the gods."},
+{"ref": "3.32.13", "sanskrit": "ete hi dharmam evādau varṇayanti sadā mama kartavyam amaraprakhyāḥ pratyakṣāgamabuddhayaḥ", "english": "These very ones, resplendent as immortals, whose understanding is grounded in direct scriptural knowledge, always declare dharma first as what must be done by me."},
+{"ref": "3.32.14", "sanskrit": "ato nārhasi kalyāṇi dhātāraṃ dharmam eva ca rajomūḍhena manasā kṣeptuṃ śaṅkitum eva ca", "english": "Therefore, O auspicious one, you should not revile the Creator or dharma itself with a mind clouded by passion, nor should you doubt them."},
+{"ref": "3.32.15", "sanskrit": "dharmātiśaṅkī nānyasmin pramāṇam adhigacchati ātmapramāṇa unnaddhaḥ śreyaso hy avamanyakaḥ", "english": "He who excessively doubts dharma finds no authority in anything else; puffed up with himself as his own authority, he is contemptuous of the good."},
+{"ref": "3.32.16", "sanskrit": "indriyaprītisaṃbaddhaṃ yad idaṃ lokasākṣikam etāvān manyate bālo moham anyatra gacchati", "english": "The fool thinks that only this — what is witnessed by the world and bound up with the pleasure of the senses — is all there is, and falls into delusion regarding what lies beyond."},
+{"ref": "3.32.17", "sanskrit": "prāyaścittaṃ na tasyāsti yo dharmam atiśaṅkate dhyāyan sa kṛpaṇaḥ pāpo na lokān pratipadyate", "english": "There is no expiation for him who excessively doubts dharma; brooding, that wretch and sinner does not attain the higher worlds."},
+{"ref": "3.32.18", "sanskrit": "pramāṇāny ativṛtto hi vedaśāstrārthanindakaḥ kāmalobhānugo mūḍho narakaṃ pratipadyate", "english": "He who transgresses all authority, reviles the import of the Vedic scriptures, and follows desire and greed — that fool goes to hell."},
+{"ref": "3.32.19", "sanskrit": "yas tu nityaṃ kṛtamatir dharmam evābhipadyate aśaṅkamānaḥ kalyāṇi so 'mutrānantyam aśnute", "english": "But he who is always resolute in mind, who resorts to dharma alone without doubting, O auspicious one — he attains eternity in the world beyond."},
+{"ref": "3.32.20", "sanskrit": "ārṣaṃ pramāṇam utkramya dharmān aparipālayan sarvaśāstrātigo mūḍhaḥ śaṃ janmasu na vindati", "english": "He who transgresses the authority of the seers, does not protect the duties of dharma, and oversteps all scriptures — that fool finds no welfare across his births."},
+{"ref": "3.32.21", "sanskrit": "śiṣṭair ācaritaṃ dharmaṃ kṛṣṇe mā smātiśaṅkithāḥ purāṇam ṛṣibhiḥ proktaṃ sarvajñaiḥ sarvadarśibhiḥ", "english": "O Kṛṣṇā, do not excessively doubt the dharma practiced by the disciplined, the ancient teaching proclaimed by the all-knowing, all-seeing seers."},
+{"ref": "3.32.22", "sanskrit": "dharma eva plavo nānyaḥ svargaṃ draupadi gacchatām saiva nauḥ sāgarasyeva vaṇijaḥ pāram ṛcchataḥ", "english": "Dharma alone is the raft — there is no other — for those going to heaven, O Draupadī; it is the vessel, like a merchant's ship reaching the far shore of the ocean."},
+{"ref": "3.32.23", "sanskrit": "aphālo yadi dharmaḥ syāc carito dharmacāribhiḥ apratiṣṭhe tamasy etaj jagan majjed anindite", "english": "If dharma, when practiced by those who walk in dharma, were to bear no fruit, this blameless world would sink into groundless darkness."},
+{"ref": "3.32.24", "sanskrit": "nirvāṇaṃ nādhigaccheyur jīveyuḥ paśujīvikām vighātenaiva yujyeyur na cārthaṃ kiṃ cid āpnuyuḥ", "english": "Men would not attain liberation, they would live the life of beasts, they would be joined only with destruction, and they would attain nothing of value."},
+{"ref": "3.32.25", "sanskrit": "tapaś ca brahmacaryaṃ ca yajñaḥ svādhyāya eva ca dānam ārjavam etāni yadi syur aphalāni vai", "english": "Austerity, celibacy, sacrifice, study, generosity, and uprightness — if all these were indeed fruitless —"},
+{"ref": "3.32.26", "sanskrit": "nācariṣyan pare dharmaṃ pare paratare ca ye vipralambho 'yam atyantaṃ yadi syur aphalāḥ kriyāḥ", "english": "— then neither those here nor those far beyond would practice dharma; this would be utter deceit if all these acts were fruitless."},
+{"ref": "3.32.27", "sanskrit": "ṛṣayaś caiva devāś ca gandharvāsurarākṣasāḥ īśvarāḥ kasya hetos te careyur dharmam ādṛtāḥ", "english": "The seers and the gods, the gandharvas, asuras, and rākṣasas — lords all — for what reason would they practice dharma with devotion?"},
+{"ref": "3.32.28", "sanskrit": "phaladaṃ tv iha vijñāya dhātāraṃ śreyasi dhruve dharmaṃ te hy ācaran kṛṣṇe tad dhi dharmasanātanam", "english": "Knowing the Creator here to be the giver of fruit in the certain highest good, they practice dharma, O Kṛṣṇā — for that is the eternal dharma."},
+{"ref": "3.32.29", "sanskrit": "sa cāyaṃ saphalo dharmo na dharmo 'phala ucyate dṛśyante 'pi hi vidyānāṃ phalāni tapasāṃ tathā", "english": "And this dharma is indeed fruitful; dharma is not said to be fruitless — for the fruits of learning and likewise of austerities are visibly seen."},
+{"ref": "3.32.30", "sanskrit": "tvayy etad vai vijānīhi janma kṛṣṇe yathā śrutam vettha cāpi yathā jāto dhṛṣṭadyumnaḥ pratāpavān", "english": "Know this to be so in your own case, O Kṛṣṇā, as it has been heard; you also know how the valiant Dhṛṣṭadyumna was born."},
+{"ref": "3.32.31", "sanskrit": "etāvad eva paryāptam upamānaṃ śucismite karmaṇāṃ phalam astīti dhīro 'lpenāpi tuṣyati", "english": "This much is sufficient illustration, O bright-smiling one — that there is fruit to actions; the wise man is satisfied even by a small example."},
+{"ref": "3.32.32", "sanskrit": "bahunāpi hy avidvāṃso naiva tuṣyanty abuddhayaḥ teṣāṃ na dharmajaṃ kiṃ cit pretya śarmāsti karma vā", "english": "For the ignorant who lack understanding are never satisfied even by much; for them there is no solace born of dharma or of action after death."},
+{"ref": "3.32.33", "sanskrit": "karmaṇām uta puṇyānāṃ pāpānāṃ ca phalodayaḥ prabhavaś cāpyayaś caiva devaguhyāni bhāmini", "english": "The arising of the fruit of actions — both meritorious and sinful — their origin and their dissolution: these are the secret mysteries of the gods, O passionate one."},
+{"ref": "3.32.34", "sanskrit": "naitāni veda yaḥ kaś cin muhyanty atra prajā imāḥ rakṣyāṇy etāni devānāṃ gūḍhamāyā hi devatāḥ", "english": "No one whatsoever knows these things — creatures are bewildered in this matter; these are to be kept hidden by the gods, for the deities have concealed their mysteries."},
+{"ref": "3.32.35", "sanskrit": "kṛśāṅgāḥ suvratāś caiva tapasā dagdhakilbiṣāḥ prasannair mānasair yuktāḥ paśyanty etāni vai dvijāḥ", "english": "Slender-limbed, of good vows, their sins burned away by austerity, endowed with serene minds — such brāhmaṇas indeed behold these things."},
+{"ref": "3.32.36", "sanskrit": "na phalādarśanād dharmaḥ śaṅkitavyo na devatāḥ yaṣṭavyaṃ cāpramattena dātavyaṃ cānasūyatā", "english": "Dharma should not be doubted because its fruit is not visible, nor should the gods be doubted; one should sacrifice with diligence and give without envy."},
+{"ref": "3.32.37", "sanskrit": "karmaṇāṃ phalam astīti tathaitad dharma śāśvatam brahmā provāca putrāṇāṃ yad ṛṣir veda kaśyapaḥ", "english": "\"There is fruit to actions\" — thus runs this eternal dharma; Brahmā declared it to his sons, and the seer Kaśyapa knows it."},
+{"ref": "3.32.38", "sanskrit": "tasmāt te saṃśayaḥ kṛṣṇe nīhāra iva naśyatu vyavasya sarvam astīti nāstikyaṃ bhāvam utsṛja", "english": "Therefore, O Kṛṣṇā, let your doubt vanish like mist; resolve that all this exists, and abandon the disposition of atheism."},
+{"ref": "3.32.39", "sanskrit": "īśvaraṃ cāpi bhūtānāṃ dhātāraṃ mā vicikṣipaḥ śikṣasvainaṃ namasvainaṃ mā te bhūd buddhir īdṛśī", "english": "Do not revile the Lord, the Creator of all beings; learn from Him, bow to Him — let such a disposition as this not be in you."},
+{"ref": "3.32.40", "sanskrit": "yasya prasādāt tadbhakto martyo gacchaty amartyatām uttamaṃ daivataṃ kṛṣṇe mātivocaḥ kathaṃ cana", "english": "By whose grace His devotee, though mortal, attains immortality — O Kṛṣṇā, do not speak ill in any way of that supreme divinity."},
+{"ref": "3.33.1", "sanskrit": "draupady uvāca nāvamanye na garhe ca dharmaṃ pārtha kathaṃ cana īśvaraṃ kuta evāham avamaṃsye prajāpatim", "english": "Draupadī said: I do not disrespect dharma, nor do I blame it in any way, O Pārtha; how should I disrespect the Lord, the Progenitor of creatures?"},
+{"ref": "3.33.2", "sanskrit": "ārtāhaṃ pralapāmīdam iti māṃ viddhi bhārata bhūyaś ca vilapiṣyāmi sumanās tan nibodha me", "english": "Know me to be speaking thus in grief, O descendant of Bharata; and I shall lament yet further — hear that from me with a peaceful mind."},
+{"ref": "3.33.3", "sanskrit": "karma khalv iha kartavyaṃ jātenāmitrakarśana akarmāṇo hi jīvanti sthāvarā netare janāḥ", "english": "Action must indeed be performed in this world by one who is born, O crusher of foes; for it is only the immobile that live without action — not other beings."},
+{"ref": "3.33.4", "sanskrit": "ā mātṛstanapānāc ca yāvac chayyopasarpaṇam jaṅgamāḥ karmaṇā vṛttim āpnuvanti yudhiṣṭhira", "english": "From the drinking of the mother's breast right up to the approach of death's bed, mobile creatures gain their livelihood through action, O Yudhiṣṭhira."},
+{"ref": "3.33.5", "sanskrit": "jaṅgameṣu viśeṣeṇa manuṣyā bharatarṣabha icchanti karmaṇā vṛttim avāptuṃ pretya ceha ca", "english": "Among mobile creatures, men in particular, O bull of the Bhāratas, desire to obtain livelihood through action — both here and after death."},
+{"ref": "3.33.6", "sanskrit": "utthānam abhijānanti sarvabhūtāni bhārata pratyakṣaṃ phalam aśnanti karmaṇāṃ lokasākṣikam", "english": "All beings know exertion, O descendant of Bharata; they enjoy the visible fruit of actions, witnessed by the world."},
+{"ref": "3.33.7", "sanskrit": "paśyāmi svaṃ samutthānam upajīvanti jantavaḥ api dhātā vidhātā ca yathāyam udake bakaḥ", "english": "I see creatures living by their own exertion — even the Creator and the Ordainer do so, like this heron standing in the water."},
+{"ref": "3.33.8", "sanskrit": "svakarma kuru mā glāsīḥ karmaṇā bhava daṃśitaḥ kṛtyaṃ hi yo 'bhijānāti sahasre nāsti so 'sti vā", "english": "Perform your own duty; do not be despondent; be armored by action. For among a thousand men, he who knows what is to be done — whether he be or not — truly is."},
+{"ref": "3.33.9", "sanskrit": "tasya cāpi bhavet kāryaṃ vivṛddhau rakṣaṇe tathā bhakṣyamāṇo hy anāvāpaḥ kṣīyate himavān api", "english": "And even for him there would be something to be done — in increase and in protection; for even the Himālaya decays when eaten away without replenishment."},
+{"ref": "3.33.10", "sanskrit": "utsīderan prajāḥ sarvā na kuryuḥ karma ced yadi api cāpy aphalaṃ karma paśyāmaḥ kurvato janān nānyathā hy abhijānanti vṛttiṃ loke kathaṃ cana", "english": "All creatures would perish if they were not to perform action; and even if we see men performing action whose fruit is nil, they know no other way whatsoever to sustain life in this world."}
 ]

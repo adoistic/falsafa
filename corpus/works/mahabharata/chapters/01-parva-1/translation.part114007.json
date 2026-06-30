@@ -1,402 +1,82 @@
 [
-  {
-    "ref": "1.114.7",
-    "sanskrit": "bhavitā prathito rājā triṣu lokeṣu viśrutaḥ yaśasā tejasā caiva vṛttena ca samanvitaḥ",
-    "english": "He will become a celebrated king, renowned in all three worlds, endowed with fame, splendour, and righteous conduct."
-  },
-  {
-    "ref": "1.114.8",
-    "sanskrit": "dhārmikaṃ taṃ sutaṃ labdhvā pāṇḍus tāṃ punar abravīt prāhuḥ kṣatraṃ balajyeṣṭhaṃ balajyeṣṭhaṃ sutaṃ vṛṇu",
-    "english": "Having obtained that righteous son, Pāṇḍu spoke to her again: 'They say the warrior class is highest by strength; choose a son who is greatest in strength.'"
-  },
-  {
-    "ref": "1.114.9",
-    "sanskrit": "tatas tathoktā patyā tu vāyum evājuhāva sā tasmāj jajñe mahābāhur bhīmo bhīmaparākramaḥ",
-    "english": "Commanded thus by her husband, she invoked Vāyu, the wind-god; from him was born the mighty-armed Bhīma, of terrible valour."
-  },
-  {
-    "ref": "1.114.10",
-    "sanskrit": "tam apy atibalaṃ jātaṃ vāg abhyavadad acyutam sarveṣāṃ balināṃ śreṣṭho jāto 'yam iti bhārata",
-    "english": "When even that one of surpassing strength was born, a bodiless voice proclaimed: 'This one born is the greatest among all the strong,' O Bharata."
-  },
-  {
-    "ref": "1.114.11",
-    "sanskrit": "idam atyadbhutaṃ cāsīj jātamātre vṛkodare yad aṅkāt patito mātuḥ śilāṃ gātrair acūrṇayat",
-    "english": "This too was a great wonder at the very birth of Vṛkodara: having fallen from his mother's lap, he shattered a rock with his limbs."
-  },
-  {
-    "ref": "1.114.12",
-    "sanskrit": "kuntī vyāghrabhayodvignā sahasotpatitā kila nānvabudhyata saṃsuptam utsaṅge sve vṛkodaram",
-    "english": "Kuntī, startled by fear of a tiger, had suddenly leapt up and did not notice that Vṛkodara was sleeping in her own lap."
-  },
-  {
-    "ref": "1.114.13",
-    "sanskrit": "tataḥ sa vajrasaṃghātaḥ kumāro 'bhyapatad girau patatā tena śatadhā śilā gātrair vicūrṇitā tāṃ śilāṃ cūrṇitāṃ dṛṣṭvā pāṇḍur vismayam āgamat",
-    "english": "Then that boy, compact as a thunderbolt, fell upon the mountain rock, and as he fell the rock was shattered into a hundred pieces by his limbs; seeing that rock crushed, Pāṇḍu was astonished."
-  },
-  {
-    "ref": "1.114.14",
-    "sanskrit": "yasminn ahani bhīmas tu jajñe bharatasattama duryodhano 'pi tatraiva prajajñe vasudhādhipa",
-    "english": "On the very day that Bhīma was born, O best of the Bharatas, Duryodhana too was born there, O lord of the earth."
-  },
-  {
-    "ref": "1.114.15",
-    "sanskrit": "jāte vṛkodare pāṇḍur idaṃ bhūyo 'nvacintayat kathaṃ nu me varaḥ putro lokaśreṣṭho bhaved iti",
-    "english": "After Vṛkodara was born, Pāṇḍu reflected further: 'How might I have an excellent son who is the finest in the world?'"
-  },
-  {
-    "ref": "1.114.16",
-    "sanskrit": "daive puruṣakāre ca loko 'yaṃ hi pratiṣṭhitaḥ tatra daivaṃ tu vidhinā kālayuktena labhyate",
-    "english": "This world indeed rests on both fate and human effort; of these, fate is attained through prescribed rites joined with the proper time."
-  },
-  {
-    "ref": "1.114.17",
-    "sanskrit": "indro hi rājā devānāṃ pradhāna iti naḥ śrutam aprameyabalotsāho vīryavān amitadyutiḥ",
-    "english": "We have heard that Indra is the king and chief of the gods, of immeasurable strength and enterprise, endowed with heroism, of boundless splendour."
-  },
-  {
-    "ref": "1.114.18",
-    "sanskrit": "taṃ toṣayitvā tapasā putraṃ lapsye mahābalam yaṃ dāsyati sa me putraṃ sa varīyān bhaviṣyati karmaṇā manasā vācā tasmāt tapsye mahat tapaḥ",
-    "english": "By satisfying him through austerity I shall obtain a son of great might; the son he grants me will be most excellent. By deed, thought, and word I shall therefore perform great penance."
-  },
-  {
-    "ref": "1.114.19",
-    "sanskrit": "tataḥ pāṇḍur mahātejā mantrayitvā maharṣibhiḥ dideśa kuntyāḥ kauravyo vrataṃ sāṃvatsaraṃ śubham",
-    "english": "Then Pāṇḍu of great splendour, having consulted with the great seers, enjoined on Kuntī, the scion of the Kauravas, the auspicious vow lasting a full year."
-  },
-  {
-    "ref": "1.114.20",
-    "sanskrit": "ātmanā ca mahābāhur ekapādasthito 'bhavat ugraṃ sa tapa ātasthe parameṇa samādhinā",
-    "english": "And the mighty-armed one himself stood on one foot and undertook fierce austerity with the highest concentration of mind."
-  },
-  {
-    "ref": "1.114.21",
-    "sanskrit": "ārirādhayiṣur devaṃ tridaśānāṃ tam īśvaram sūryeṇa saha dharmātmā paryavartata bhārata",
-    "english": "Desiring to propitiate that lord of the thirty gods, the righteous-souled one revolved together with the sun, O Bharata."
-  },
-  {
-    "ref": "1.114.22",
-    "sanskrit": "taṃ tu kālena mahatā vāsavaḥ pratyabhāṣata putraṃ tava pradāsyāmi triṣu lokeṣu viśrutam",
-    "english": "After a long time, Vāsava spoke to him in reply: 'I shall grant you a son renowned in all three worlds.'"
-  },
-  {
-    "ref": "1.114.23",
-    "sanskrit": "devānāṃ brāhmaṇānāṃ ca suhṛdāṃ cārthasādhakam sutaṃ te 'gryaṃ pradāsyāmi sarvāmitravināśanam",
-    "english": "I shall give you a foremost son who will accomplish the purposes of gods, brahmins, and friends, and who will destroy all enemies."
-  },
-  {
-    "ref": "1.114.24",
-    "sanskrit": "ity uktaḥ kauravo rājā vāsavena mahātmanā uvāca kuntīṃ dharmātmā devarājavacaḥ smaran",
-    "english": "Addressed thus by the great-souled Vāsava, the Kaurava king, righteous in soul, spoke to Kuntī, recalling the words of the king of gods."
-  },
-  {
-    "ref": "1.114.25",
-    "sanskrit": "nītimantaṃ mahātmānam ādityasamatejasam durādharṣaṃ kriyāvantam atīvādbhutadarśanam",
-    "english": "One possessed of policy, great-souled, equal in splendour to the sun, difficult to assail, active in deeds, of truly wondrous appearance —"
-  },
-  {
-    "ref": "1.114.26",
-    "sanskrit": "putraṃ janaya suśroṇi dhāma kṣatriyatejasām labdhaḥ prasādo devendrāt tam āhvaya śucismite",
-    "english": "— such a son do you bear, O fair-hipped one, the very embodiment of kingly valour. The favour has been obtained from the lord of gods; invoke him, O bright-smiling one."
-  },
-  {
-    "ref": "1.114.27",
-    "sanskrit": "evam uktā tataḥ śakram ājuhāva yaśasvinī athājagāma devendro janayām āsa cārjunam",
-    "english": "Thus addressed, the illustrious one invoked Śakra; Devendra came and begot Arjuna."
-  },
-  {
-    "ref": "1.114.28",
-    "sanskrit": "jātamātre kumāre tu vāg uvācāśarīriṇī mahāgambhīranirghoṣā nabho nādayatī tadā",
-    "english": "At the very moment the boy was born, a bodiless voice spoke, of deep and resonant sound, causing the sky to reverberate."
-  },
-  {
-    "ref": "1.114.29",
-    "sanskrit": "kārtavīryasamaḥ kunti śibitulyaparākramaḥ eṣa śakra ivājeyo yaśas te prathayiṣyati",
-    "english": "O Kuntī, equal to Kārtavīrya, of valour comparable to Śibi's, this one unconquerable like Śakra will spread your fame."
-  },
-  {
-    "ref": "1.114.30",
-    "sanskrit": "adityā viṣṇunā prītir yathābhūd abhivardhitā tathā viṣṇusamaḥ prītiṃ vardhayiṣyati te 'rjunaḥ",
-    "english": "Just as Aditi's joy was increased by Viṣṇu, so Arjuna, equal to Viṣṇu, will increase your joy."
-  },
-  {
-    "ref": "1.114.31",
-    "sanskrit": "eṣa madrān vaśe kṛtvā kurūṃś ca saha kekayaiḥ cedikāśikarūṣāṃś ca kurulakṣma sudhāsyati",
-    "english": "This one, having brought the Madras under his sway and the Kurus along with the Kekayas, and the Cedis, Kāśis, and Karūṣas, will adorn the glory of the Kuru line."
-  },
-  {
-    "ref": "1.114.32",
-    "sanskrit": "etasya bhujavīryeṇa khāṇḍave havyavāhanaḥ medasā sarvabhūtānāṃ tṛptiṃ yāsyati vai parām",
-    "english": "By the strength of this one's arms, the fire-god in the Khandava forest will attain the utmost satisfaction with the fat of all creatures."
-  },
-  {
-    "ref": "1.114.33",
-    "sanskrit": "grāmaṇīś ca mahīpālān eṣa jitvā mahābalaḥ bhrātṛbhiḥ sahito vīras trīn medhān āhariṣyati",
-    "english": "Having conquered chieftains and rulers of the earth, this mighty hero, together with his brothers, will perform three great sacrifices."
-  },
-  {
-    "ref": "1.114.34",
-    "sanskrit": "jāmadagnyasamaḥ kunti viṣṇutulyaparākramaḥ eṣa vīryavatāṃ śreṣṭho bhaviṣyaty aparājitaḥ",
-    "english": "O Kuntī, equal to Jamadagni's son, of valour comparable to Viṣṇu's, this one will be the foremost of the heroic and will remain undefeated."
-  },
-  {
-    "ref": "1.114.35",
-    "sanskrit": "tathā divyāni cāstrāṇi nikhilāny āhariṣyati vipranaṣṭāṃ śriyaṃ cāyam āhartā puruṣarṣabhaḥ",
-    "english": "Likewise this bull among men will acquire all divine weapons in their entirety, and will restore the prosperity that was lost to the brahmins."
-  },
-  {
-    "ref": "1.114.36",
-    "sanskrit": "etām atyadbhutāṃ vācaṃ kuntīputrasya sūtake uktavān vāyur ākāśe kuntī śuśrāva cāsya tām",
-    "english": "The wind spoke this most wondrous speech in the sky at the birth of Kuntī's son, and Kuntī heard it."
-  },
-  {
-    "ref": "1.114.37",
-    "sanskrit": "vācam uccāritām uccais tāṃ niśamya tapasvinām babhūva paramo harṣaḥ śataśṛṅganivāsinām",
-    "english": "Hearing that speech spoken aloud, the ascetics dwelling on mount Shatashringa were filled with the utmost joy."
-  },
-  {
-    "ref": "1.114.38",
-    "sanskrit": "tathā devaṛṣīṇāṃ ca sendrāṇāṃ ca divaukasām ākāśe dundubhīnāṃ ca babhūva tumulaḥ svanaḥ",
-    "english": "Likewise among the divine sages and the celestials together with Indra, and in the sky, there arose a tumultuous sound of kettledrums."
-  },
-  {
-    "ref": "1.114.39",
-    "sanskrit": "udatiṣṭhan mahāghoṣaḥ puṣpavṛṣṭibhir āvṛtaḥ samavetya ca devānāṃ gaṇāḥ pārtham apūjayan",
-    "english": "A great clamour arose, accompanied by showers of flowers; and the hosts of gods, having assembled, honoured Pārtha."
-  },
-  {
-    "ref": "1.114.40",
-    "sanskrit": "kādraveyā vainateyā gandharvāpsarasas tathā prajānāṃ patayaḥ sarve sapta caiva maharṣayaḥ",
-    "english": "The sons of Kadrū, the sons of Vinatā, the Gandharvas and Apsaras, all the lords of creatures, and the seven great sages as well —"
-  },
-  {
-    "ref": "1.114.41",
-    "sanskrit": "bharadvājaḥ kaśyapo gautamaś ca; viśvāmitro jamadagnir vasiṣṭhaḥ yaś codito bhāskare 'bhūt pranaṣṭe; so 'py atrātrir bhagavān ājagāma",
-    "english": "— Bharadvaja, Kaśyapa, and Gautama; Viśvāmitra, Jamadagni, Vasiṣṭha; and the one who appeared when the sun was eclipsed — that very blessed Atri also came there."
-  },
-  {
-    "ref": "1.114.42",
-    "sanskrit": "marīcir aṅgirāś caiva pulastyaḥ pulahaḥ kratuḥ dakṣaḥ prajāpatiś caiva gandharvāpsarasas tathā",
-    "english": "Marīci, Aṅgiras, Pulastya, Pulaha, Kratu, Dakṣa, Prajāpati, and the Gandharvas and Apsaras likewise —"
-  },
-  {
-    "ref": "1.114.43",
-    "sanskrit": "divyamālyāmbaradharāḥ sarvālaṃkārabhūṣitāḥ upagāyanti bībhatsum upanṛtyanti cāpsarāḥ gandharvaiḥ sahitaḥ śrīmān prāgāyata ca tumburuḥ",
-    "english": "— wearing divine garlands and garments, adorned with all ornaments, the Apsaras sang and danced before Bībhatsu; the glorious Tumburu together with the Gandharvas sang."
-  },
-  {
-    "ref": "1.114.44",
-    "sanskrit": "bhīmasenograsenau ca ūrṇāyur anaghas tathā gopatir dhṛtarāṣṭraś ca sūryavarcāś ca saptamaḥ",
-    "english": "Bhīmasena, Ugrasena, Urnayu, Anagha, Gopati, Dhṛtarāṣṭra, and Suryavarcas as the seventh —"
-  },
-  {
-    "ref": "1.114.45",
-    "sanskrit": "yugapas tṛṇapaḥ kārṣṇir nandiś citrarathas tathā trayodaśaḥ śāliśirāḥ parjanyaś ca caturdaśaḥ",
-    "english": "Yugapa, Trinapha, Kārṣṇi, Nandi, Citraratha as well, Shalisiras as the thirteenth, and Parjanya as the fourteenth —"
-  },
-  {
-    "ref": "1.114.46",
-    "sanskrit": "kaliḥ pañcadaśaś cātra nāradaś caiva ṣoḍaśaḥ sad vā bṛhad vā bṛhakaḥ karālaś ca mahāyaśāḥ",
-    "english": "Kali as the fifteenth here, and Nārada as the sixteenth; Sat, Brihad, Brihaka, and the greatly renowned Karāla —"
-  },
-  {
-    "ref": "1.114.47",
-    "sanskrit": "brahmacārī bahuguṇaḥ suparṇaś ceti viśrutaḥ viśvāvasur bhumanyuś ca sucandro daśamas tathā",
-    "english": "Brahmachari, Bahuguna, the famous Suparṇa, Viśvāvasu, Bhumanyu, and Sucandra as the tenth —"
-  },
-  {
-    "ref": "1.114.48",
-    "sanskrit": "gītamādhuryasaṃpannau vikhyātau ca hahāhuhū ity ete devagandharvā jagus tatra nararṣabham",
-    "english": "The famous Haha and Hūhū, endowed with sweetness of song — these divine Gandharvas all sang there for that bull among men."
-  },
-  {
-    "ref": "1.114.49",
-    "sanskrit": "tathaivāpsaraso hṛṣṭāḥ sarvālaṃkārabhūṣitāḥ nanṛtur vai mahābhāgā jaguś cāyatalocanāḥ",
-    "english": "Likewise the greatly blessed Apsaras, joyful and adorned with all ornaments, danced and sang, their eyes wide and lovely."
-  },
-  {
-    "ref": "1.114.50",
-    "sanskrit": "anūnā cānavadyā ca priyamukhyā guṇāvarā adrikā ca tathā sācī miśrakeśī alambusā",
-    "english": "Anuna, Anavadya, Priyamukha, Gunavara, Adrika, Śacī, Miśrakeśī, and Alambusa —"
-  },
-  {
-    "ref": "1.114.51",
-    "sanskrit": "marīciḥ śicukā caiva vidyutparṇā tilottamā agnikā lakṣaṇā kṣemā devī rambhā manoramā",
-    "english": "Marīci, Shicuka, Vidyutparna, Tilottamā, Agnika, Lakshana, Kṣema, Devi, Rambha, and Manorama —"
-  },
-  {
-    "ref": "1.114.52",
-    "sanskrit": "asitā ca subāhuś ca supriyā suvapus tathā puṇḍarīkā sugandhā ca surathā ca pramāthinī",
-    "english": "Asita, Subāhu, Supriya, Supavus, Pundarika, Sugandha, Suratha, and Pramathini —"
-  },
-  {
-    "ref": "1.114.53",
-    "sanskrit": "kāmyā śāradvatī caiva nanṛtus tatra saṃghaśaḥ menakā sahajanyā ca parṇikā puñjikasthalā",
-    "english": "Kamya and Sharadavati danced there in groups; Menaka, Sahajanya, Parnika, Puñjikasthalā —"
-  },
-  {
-    "ref": "1.114.54",
-    "sanskrit": "kratusthalā ghṛtācī ca viśvācī pūrvacitty api umlocety abhivikhyātā pramloceti ca tā daśa urvaśy ekādaśīty etā jagur āyatalocanāḥ",
-    "english": "Kratusthala, Ghṛtācī, Vishvaci, Purvacitti, the well-known Umloca, Pramloca — these ten, and Urvaśī as the eleventh — all these long-eyed ones sang."
-  },
-  {
-    "ref": "1.114.55",
-    "sanskrit": "dhātāryamā ca mitraś ca varuṇo 'ṃśo bhagas tathā indro vivasvān pūṣā ca tvaṣṭā ca savitā tathā",
-    "english": "Dhata, Aryaman, Mitra, Varuṇa, Amsha, Bhaga, Indra, Vivasvat, Pusha, Tvaṣṭā, and Savitā —"
-  },
-  {
-    "ref": "1.114.56",
-    "sanskrit": "parjanyaś caiva viṣṇuś ca ādityāḥ pāvakārciṣaḥ mahimānaṃ pāṇḍavasya vardhayanto 'mbare sthitāḥ",
-    "english": "Parjanya and Viṣṇu — these Ādityas, blazing like fire, stood in the sky, magnifying the glory of the Pāṇḍava."
-  },
-  {
-    "ref": "1.114.57",
-    "sanskrit": "mṛgavyādhaś ca śarvaś ca nirṛtiś ca mahāyaśāḥ ajaikapād ahirbudhnyaḥ pinākī ca paraṃtapaḥ",
-    "english": "Mrigavyadha, Śarva, the greatly renowned Nirrita, Ajakapada, Ahirbudhnya, and Pinaki the scorcher of foes —"
-  },
-  {
-    "ref": "1.114.58",
-    "sanskrit": "dahano 'theśvaraś caiva kapālī ca viśāṃ pate sthāṇur bhavaś ca bhagavān rudrās tatrāvatasthire",
-    "english": "Dahana, Ishvara, Kapali, O lord of people, Sthāṇu, and the blessed Bhava — these Rudras stood there."
-  },
-  {
-    "ref": "1.114.59",
-    "sanskrit": "aśvinau vasavaś cāṣṭau marutaś ca mahābalāḥ viśvedevās tathā sādhyās tatrāsan parisaṃsthitāḥ",
-    "english": "The two Aśvins, the eight Vasus, the mighty Maruts, the Viśvedevas, and the Sādhyas — all these were assembled and stationed there."
-  },
-  {
-    "ref": "1.114.60",
-    "sanskrit": "karkoṭako 'tha śeṣaś ca vāsukiś ca bhujaṃgamaḥ kacchapaś cāpakuṇḍaś ca takṣakaś ca mahoragaḥ",
-    "english": "Karkoṭaka, Śeṣa, the serpent Vāsuki, Kacchapa, Apakunda, and the great serpent Takṣaka —"
-  },
-  {
-    "ref": "1.114.61",
-    "sanskrit": "āyayus tejasā yuktā mahākrodhā mahābalāḥ ete cānye ca bahavas tatra nāgā vyavasthitāḥ",
-    "english": "— endowed with splendour, of great wrath, of great strength, they came; these and many other Nāgas were stationed there."
-  },
-  {
-    "ref": "1.114.62",
-    "sanskrit": "tārkṣyaś cāriṣṭanemiś ca garuḍaś cāsitadhvajaḥ aruṇaś cāruṇiś caiva vainateyā vyavasthitāḥ",
-    "english": "Tarkhya, Ariṣṭanemi, Garuḍa of the dark banner, Aruṇa, and Aruni — the sons of Vinatā were stationed there."
-  },
-  {
-    "ref": "1.114.63",
-    "sanskrit": "tad dṛṣṭvā mahad āścaryaṃ vismitā munisattamāḥ adhikāṃ sma tato vṛttim avartan pāṇḍavān prati",
-    "english": "Seeing that great wonder, the best of sages were astonished and thenceforth showed even greater regard toward the Pāṇḍavas."
-  },
-  {
-    "ref": "1.114.64",
-    "sanskrit": "pāṇḍus tu punar evaināṃ putralobhān mahāyaśāḥ prāhiṇod darśanīyāṅgīṃ kuntī tv enam athābravīt",
-    "english": "But Pāṇḍu of great fame, out of desire for a son, urged the fair-limbed one again; Kuntī then spoke to him thus."
-  },
-  {
-    "ref": "1.114.65",
-    "sanskrit": "nātaś caturthaṃ prasavam āpatsv api vadanty uta ataḥ paraṃ cāriṇī syāt pañcame bandhakī bhavet",
-    "english": "A fourth delivery is not sanctioned even in dire necessity, so they say; beyond that a woman becomes wanton, and at the fifth a harlot."
-  },
-  {
-    "ref": "1.114.66",
-    "sanskrit": "sa tvaṃ vidvan dharmam imaṃ buddhigamyaṃ kathaṃ nu mām apatyārthaṃ samutkramya pramādād iva bhāṣase",
-    "english": "You who know this dharma, comprehensible to the intellect — how then do you speak to me, as if in heedlessness, urging me to transgress it for the sake of offspring?"
-  },
-  {
-    "ref": "1.115.1",
-    "sanskrit": "vaiśaṃpāyana uvāca kuntīputreṣu jāteṣu dhṛtarāṣṭrātmajeṣu ca madrarājasutā pāṇḍuṃ raho vacanam abravīt",
-    "english": "Vaiśaṃpāyana said: When the sons of Kuntī and the sons of Dhṛtarāṣṭra had been born, the daughter of the king of Madra spoke privately to Pāṇḍu."
-  },
-  {
-    "ref": "1.115.2",
-    "sanskrit": "na me 'sti tvayi saṃtāpo viguṇe 'pi paraṃtapa nāvaratve varārhāyāḥ sthitvā cānagha nityadā",
-    "english": "O scorcher of foes, I feel no sorrow toward you even in your affliction; nor in the inferiority of one who deserves the best, O sinless one, while dwelling with you always."
-  },
-  {
-    "ref": "1.115.3",
-    "sanskrit": "gāndhāryāś caiva nṛpate jātaṃ putraśataṃ tathā śrutvā na me tathā duḥkham abhavat kurunandana",
-    "english": "O king, O delight of the Kurus, even hearing that a hundred sons have been born to Gāndhārī, my grief was not as great as this."
-  },
-  {
-    "ref": "1.115.4",
-    "sanskrit": "idaṃ tu me mahad duḥkhaṃ tulyatāyām aputratā diṣṭyā tv idānīṃ bhartur me kuntyām apy asti saṃtatiḥ",
-    "english": "But this is my great sorrow — to be equal in status yet without a son. By good fortune, however, there is now offspring through Kuntī for my husband."
-  },
-  {
-    "ref": "1.115.5",
-    "sanskrit": "yadi tv apatyasaṃtānaṃ kuntirājasutā mayi kuryād anugraho me syāt tava cāpi hitaṃ bhavet",
-    "english": "If the daughter of the Kuntiraja king would extend the lineage of offspring through me, it would be a favour to me and would also serve your welfare."
-  },
-  {
-    "ref": "1.115.6",
-    "sanskrit": "stambho hi me sapatnītvād vaktuṃ kuntisutāṃ prati yadi tu tvaṃ prasanno me svayam enāṃ pracodaya",
-    "english": "For I am inhibited by rivalry with a co-wife from speaking to Kuntī's daughter myself; but if you are pleased with me, urge her yourself."
-  },
-  {
-    "ref": "1.115.7",
-    "sanskrit": "pāṇḍur uvāca mamāpy eṣa sadā mādri hṛdy arthaḥ parivartate na tu tvāṃ prasahe vaktum iṣṭāniṣṭavivakṣayā",
-    "english": "Pāṇḍu said: O Mādrī, this very wish has always revolved in my heart too; but I did not venture to speak to you, weighing what is desirable and what is not."
-  },
-  {
-    "ref": "1.115.8",
-    "sanskrit": "tava tv idaṃ mataṃ jñātvā prayatiṣyāmy ataḥ param manye dhruvaṃ mayoktā sā vaco me pratipatsyate",
-    "english": "But knowing this to be your wish, I shall endeavour henceforth; I believe that when spoken to by me she will certainly accept my words."
-  },
-  {
-    "ref": "1.115.9",
-    "sanskrit": "vaiśaṃpāyana uvāca tataḥ kuntīṃ punaḥ pāṇḍur vivikta idam abravīt kulasya mama saṃtānaṃ lokasya ca kuru priyam",
-    "english": "Vaiśaṃpāyana said: Then Pāṇḍu spoke these words to Kuntī again in private: 'Do what is dear to my lineage and to the world.'"
-  },
-  {
-    "ref": "1.115.10",
-    "sanskrit": "mama cāpiṇḍanāśāya pūrveṣām api cātmanaḥ matpriyārthaṃ ca kalyāṇi kuru kalyāṇam uttamam",
-    "english": "For the sake of preventing the extinction of offerings to me and to my ancestors, and for my own sake, O auspicious one, do this highest good deed."
-  },
-  {
-    "ref": "1.115.11",
-    "sanskrit": "yaśaso 'rthāya caiva tvaṃ kuru karma suduṣkaram prāpyādhipatyam indreṇa yajñair iṣṭaṃ yaśorthinā",
-    "english": "For the sake of renown also, perform this most difficult act — just as Indra, desiring glory, obtained his lordship through sacrifices."
-  },
-  {
-    "ref": "1.115.12",
-    "sanskrit": "tathā mantravido viprās tapas taptvā suduṣkaram gurūn abhyupagacchanti yaśaso 'rthāya bhāmini",
-    "english": "Likewise, O beautiful one, brahmins who know the mantras, having performed most arduous austerity, approach their teachers for the sake of renown."
-  },
-  {
-    "ref": "1.115.13",
-    "sanskrit": "tathā rājarṣayaḥ sarve brāhmaṇāś ca tapodhanāḥ cakrur uccāvacaṃ karma yaśaso 'rthāya duṣkaram",
-    "english": "Likewise all the royal sages and the brahmins whose wealth is austerity have performed various difficult deeds, both high and low, for the sake of renown."
-  },
-  {
-    "ref": "1.115.14",
-    "sanskrit": "sā tvaṃ mādrīṃ plaveneva tārayemām anindite apatyasaṃvibhāgena parāṃ kīrtim avāpnuhi",
-    "english": "O blameless one, you — as if by a raft — ferry Mādrī across; by sharing offspring with her, attain the highest glory."
-  },
-  {
-    "ref": "1.115.15",
-    "sanskrit": "evam uktābravīn mādrīṃ sakṛc cintaya daivatam tasmāt te bhavitāpatyam anurūpam asaṃśayam",
-    "english": "Thus addressed, she said to Mādrī: 'Think of a deity just once; from that a fitting offspring will certainly be born to you, without doubt.'"
-  },
-  {
-    "ref": "1.115.16",
-    "sanskrit": "tato mādrī vicāryaiva jagāma manasāśvinau tāv āgamya sutau tasyāṃ janayām āsatur yamau",
-    "english": "Then Mādrī, having deliberated, went to the Aśvins in her mind; the two of them came and begot twin sons upon her."
-  },
-  {
-    "ref": "1.115.17",
-    "sanskrit": "nakulaṃ sahadevaṃ ca rūpeṇāpratimau bhuvi tathaiva tāv api yamau vāg uvācāśarīriṇī",
-    "english": "Nakula and Sahadeva, unmatched in beauty in the world — at the birth of those twins too, a bodiless voice spoke."
-  },
-  {
-    "ref": "1.115.18",
-    "sanskrit": "rūpasattvaguṇopetāv etāv anyāñ janān ati bhāsatas tejasātyarthaṃ rūpadraviṇasaṃpadā",
-    "english": "These two, endowed with beauty, courage, and virtue, surpass all other men, blazing exceedingly with splendour and with the wealth of beauty."
-  },
-  {
-    "ref": "1.115.19",
-    "sanskrit": "nāmāni cakrire teṣāṃ śataśṛṅganivāsinaḥ bhaktyā ca karmaṇā caiva tathāśīrbhir viśāṃ pate",
-    "english": "The dwellers of Shatashringa gave names to them with devotion, with ritual acts, and with blessings, O lord of peoples."
-  },
-  {
-    "ref": "1.115.20",
-    "sanskrit": "jyeṣṭhaṃ yudhiṣṭhirety āhur bhīmaseneti madhyamam arjuneti tṛtīyaṃ ca kuntīputrān akalpayan",
-    "english": "The eldest of Kuntī's sons they called Yudhiṣṭhira, the middle one Bhīmasena, and the third Arjuna."
-  }
+{"ref": "1.114.7", "sanskrit": "bhavitā prathito rājā triṣu lokeṣu viśrutaḥ yaśasā tejasā caiva vṛttena ca samanvitaḥ", "english": "He will become a celebrated king, renowned in all three worlds, endowed with fame, splendour, and righteous conduct."},
+{"ref": "1.114.8", "sanskrit": "dhārmikaṃ taṃ sutaṃ labdhvā pāṇḍus tāṃ punar abravīt prāhuḥ kṣatraṃ balajyeṣṭhaṃ balajyeṣṭhaṃ sutaṃ vṛṇu", "english": "Having obtained that righteous son, Pāṇḍu spoke to her again: 'They say the warrior class is highest by strength; choose a son who is greatest in strength.'"},
+{"ref": "1.114.9", "sanskrit": "tatas tathoktā patyā tu vāyum evājuhāva sā tasmāj jajñe mahābāhur bhīmo bhīmaparākramaḥ", "english": "Commanded thus by her husband, she invoked Vāyu, the wind-god; from him was born the mighty-armed Bhīma, of terrible valour."},
+{"ref": "1.114.10", "sanskrit": "tam apy atibalaṃ jātaṃ vāg abhyavadad acyutam sarveṣāṃ balināṃ śreṣṭho jāto 'yam iti bhārata", "english": "When even that one of surpassing strength was born, a bodiless voice proclaimed: 'This one born is the greatest among all the strong,' O Bhārata."},
+{"ref": "1.114.11", "sanskrit": "idam atyadbhutaṃ cāsīj jātamātre vṛkodare yad aṅkāt patito mātuḥ śilāṃ gātrair acūrṇayat", "english": "This too was a great wonder at the very birth of Vṛkodara: having fallen from his mother's lap, he shattered a rock with his limbs."},
+{"ref": "1.114.12", "sanskrit": "kuntī vyāghrabhayodvignā sahasotpatitā kila nānvabudhyata saṃsuptam utsaṅge sve vṛkodaram", "english": "Kuntī, startled by fear of a tiger, had suddenly leapt up and did not notice that Vṛkodara was sleeping in her own lap."},
+{"ref": "1.114.13", "sanskrit": "tataḥ sa vajrasaṃghātaḥ kumāro 'bhyapatad girau patatā tena śatadhā śilā gātrair vicūrṇitā tāṃ śilāṃ cūrṇitāṃ dṛṣṭvā pāṇḍur vismayam āgamat", "english": "Then that boy, compact as a thunderbolt, fell upon the mountain rock, and as he fell the rock was shattered into a hundred pieces by his limbs; seeing that rock crushed, Pāṇḍu was astonished."},
+{"ref": "1.114.14", "sanskrit": "yasminn ahani bhīmas tu jajñe bharatasattama duryodhano 'pi tatraiva prajajñe vasudhādhipa", "english": "On the very day that Bhīma was born, O best of the Bhāratas, Duryodhana too was born there, O lord of the earth."},
+{"ref": "1.114.15", "sanskrit": "jāte vṛkodare pāṇḍur idaṃ bhūyo 'nvacintayat kathaṃ nu me varaḥ putro lokaśreṣṭho bhaved iti", "english": "After Vṛkodara was born, Pāṇḍu reflected further: 'How might I have an excellent son who is the finest in the world?'"},
+{"ref": "1.114.16", "sanskrit": "daive puruṣakāre ca loko 'yaṃ hi pratiṣṭhitaḥ tatra daivaṃ tu vidhinā kālayuktena labhyate", "english": "This world indeed rests on both fate and human effort; of these, fate is attained through prescribed rites joined with the proper time."},
+{"ref": "1.114.17", "sanskrit": "indro hi rājā devānāṃ pradhāna iti naḥ śrutam aprameyabalotsāho vīryavān amitadyutiḥ", "english": "We have heard that Indra is the king and chief of the gods, of immeasurable strength and enterprise, endowed with heroism, of boundless splendour."},
+{"ref": "1.114.18", "sanskrit": "taṃ toṣayitvā tapasā putraṃ lapsye mahābalam yaṃ dāsyati sa me putraṃ sa varīyān bhaviṣyati karmaṇā manasā vācā tasmāt tapsye mahat tapaḥ", "english": "By satisfying him through austerity I shall obtain a son of great might; the son he grants me will be most excellent. By deed, thought, and word I shall therefore perform great penance."},
+{"ref": "1.114.19", "sanskrit": "tataḥ pāṇḍur mahātejā mantrayitvā maharṣibhiḥ dideśa kuntyāḥ kauravyo vrataṃ sāṃvatsaraṃ śubham", "english": "Then Pāṇḍu of great splendour, having consulted with the great seers, enjoined on Kuntī, the scion of the Kauravas, the auspicious vow lasting a full year."},
+{"ref": "1.114.20", "sanskrit": "ātmanā ca mahābāhur ekapādasthito 'bhavat ugraṃ sa tapa ātasthe parameṇa samādhinā", "english": "And the mighty-armed one himself stood on one foot and undertook fierce austerity with the highest concentration of mind."},
+{"ref": "1.114.21", "sanskrit": "ārirādhayiṣur devaṃ tridaśānāṃ tam īśvaram sūryeṇa saha dharmātmā paryavartata bhārata", "english": "Desiring to propitiate that lord of the thirty gods, the righteous-souled one revolved together with the sun, O Bhārata."},
+{"ref": "1.114.22", "sanskrit": "taṃ tu kālena mahatā vāsavaḥ pratyabhāṣata putraṃ tava pradāsyāmi triṣu lokeṣu viśrutam", "english": "After a long time, Vāsava spoke to him in reply: 'I shall grant you a son renowned in all three worlds.'"},
+{"ref": "1.114.23", "sanskrit": "devānāṃ brāhmaṇānāṃ ca suhṛdāṃ cārthasādhakam sutaṃ te 'gryaṃ pradāsyāmi sarvāmitravināśanam", "english": "I shall give you a foremost son who will accomplish the purposes of gods, brahmins, and friends, and who will destroy all enemies."},
+{"ref": "1.114.24", "sanskrit": "ity uktaḥ kauravo rājā vāsavena mahātmanā uvāca kuntīṃ dharmātmā devarājavacaḥ smaran", "english": "Addressed thus by the great-souled Vāsava, the Kaurava king, righteous in soul, spoke to Kuntī, recalling the words of the king of gods."},
+{"ref": "1.114.25", "sanskrit": "nītimantaṃ mahātmānam ādityasamatejasam durādharṣaṃ kriyāvantam atīvādbhutadarśanam", "english": "One possessed of policy, great-souled, equal in splendour to the sun, difficult to assail, active in deeds, of truly wondrous appearance —"},
+{"ref": "1.114.26", "sanskrit": "putraṃ janaya suśroṇi dhāma kṣatriyatejasām labdhaḥ prasādo devendrāt tam āhvaya śucismite", "english": "— such a son do you bear, O fair-hipped one, the very embodiment of kingly valour. The favour has been obtained from the lord of gods; invoke him, O bright-smiling one."},
+{"ref": "1.114.27", "sanskrit": "evam uktā tataḥ śakram ājuhāva yaśasvinī athājagāma devendro janayām āsa cārjunam", "english": "Thus addressed, the illustrious one invoked Śakra; Devendra came and begot Arjuna."},
+{"ref": "1.114.28", "sanskrit": "jātamātre kumāre tu vāg uvācāśarīriṇī mahāgambhīranirghoṣā nabho nādayatī tadā", "english": "At the very moment the boy was born, a bodiless voice spoke, of deep and resonant sound, causing the sky to reverberate."},
+{"ref": "1.114.29", "sanskrit": "kārtavīryasamaḥ kunti śibitulyaparākramaḥ eṣa śakra ivājeyo yaśas te prathayiṣyati", "english": "O Kuntī, equal to Kārtavīrya, of valour comparable to Śibi's, this one unconquerable like Śakra will spread your fame."},
+{"ref": "1.114.30", "sanskrit": "adityā viṣṇunā prītir yathābhūd abhivardhitā tathā viṣṇusamaḥ prītiṃ vardhayiṣyati te 'rjunaḥ", "english": "Just as Aditi's joy was increased by Viṣṇu, so Arjuna, equal to Viṣṇu, will increase your joy."},
+{"ref": "1.114.31", "sanskrit": "eṣa madrān vaśe kṛtvā kurūṃś ca saha kekayaiḥ cedikāśikarūṣāṃś ca kurulakṣma sudhāsyati", "english": "This one, having brought the Madras under his sway and the Kurus along with the Kekayas, and the Cedis, Kāśis, and Karūṣas, will adorn the glory of the Kuru line."},
+{"ref": "1.114.32", "sanskrit": "etasya bhujavīryeṇa khāṇḍave havyavāhanaḥ medasā sarvabhūtānāṃ tṛptiṃ yāsyati vai parām", "english": "By the strength of this one's arms, the fire-god in the Khandava forest will attain the utmost satisfaction with the fat of all creatures."},
+{"ref": "1.114.33", "sanskrit": "grāmaṇīś ca mahīpālān eṣa jitvā mahābalaḥ bhrātṛbhiḥ sahito vīras trīn medhān āhariṣyati", "english": "Having conquered chieftains and rulers of the earth, this mighty hero, together with his brothers, will perform three great sacrifices."},
+{"ref": "1.114.34", "sanskrit": "jāmadagnyasamaḥ kunti viṣṇutulyaparākramaḥ eṣa vīryavatāṃ śreṣṭho bhaviṣyaty aparājitaḥ", "english": "O Kuntī, equal to Jamadagni's son, of valour comparable to Viṣṇu's, this one will be the foremost of the heroic and will remain undefeated."},
+{"ref": "1.114.35", "sanskrit": "tathā divyāni cāstrāṇi nikhilāny āhariṣyati vipranaṣṭāṃ śriyaṃ cāyam āhartā puruṣarṣabhaḥ", "english": "Likewise this bull among men will acquire all divine weapons in their entirety, and will restore the prosperity that was lost to the brahmins."},
+{"ref": "1.114.36", "sanskrit": "etām atyadbhutāṃ vācaṃ kuntīputrasya sūtake uktavān vāyur ākāśe kuntī śuśrāva cāsya tām", "english": "The wind spoke this most wondrous speech in the sky at the birth of Kuntī's son, and Kuntī heard it."},
+{"ref": "1.114.37", "sanskrit": "vācam uccāritām uccais tāṃ niśamya tapasvinām babhūva paramo harṣaḥ śataśṛṅganivāsinām", "english": "Hearing that speech spoken aloud, the ascetics dwelling on mount Shatashringa were filled with the utmost joy."},
+{"ref": "1.114.38", "sanskrit": "tathā devaṛṣīṇāṃ ca sendrāṇāṃ ca divaukasām ākāśe dundubhīnāṃ ca babhūva tumulaḥ svanaḥ", "english": "Likewise among the divine sages and the celestials together with Indra, and in the sky, there arose a tumultuous sound of kettledrums."},
+{"ref": "1.114.39", "sanskrit": "udatiṣṭhan mahāghoṣaḥ puṣpavṛṣṭibhir āvṛtaḥ samavetya ca devānāṃ gaṇāḥ pārtham apūjayan", "english": "A great clamour arose, accompanied by showers of flowers; and the hosts of gods, having assembled, honoured Pārtha."},
+{"ref": "1.114.40", "sanskrit": "kādraveyā vainateyā gandharvāpsarasas tathā prajānāṃ patayaḥ sarve sapta caiva maharṣayaḥ", "english": "The sons of Kadrū, the sons of Vinatā, the Gandharvas and Apsaras, all the lords of creatures, and the seven great sages as well —"},
+{"ref": "1.114.41", "sanskrit": "bharadvājaḥ kaśyapo gautamaś ca; viśvāmitro jamadagnir vasiṣṭhaḥ yaś codito bhāskare 'bhūt pranaṣṭe; so 'py atrātrir bhagavān ājagāma", "english": "— Bharadvaja, Kaśyapa, and Gautama; Viśvāmitra, Jamadagni, Vasiṣṭha; and the one who appeared when the sun was eclipsed — that very blessed Atri also came there."},
+{"ref": "1.114.42", "sanskrit": "marīcir aṅgirāś caiva pulastyaḥ pulahaḥ kratuḥ dakṣaḥ prajāpatiś caiva gandharvāpsarasas tathā", "english": "Marīci, Aṅgiras, Pulastya, Pulaha, Kratu, Dakṣa, Prajāpati, and the Gandharvas and Apsaras likewise —"},
+{"ref": "1.114.43", "sanskrit": "divyamālyāmbaradharāḥ sarvālaṃkārabhūṣitāḥ upagāyanti bībhatsum upanṛtyanti cāpsarāḥ gandharvaiḥ sahitaḥ śrīmān prāgāyata ca tumburuḥ", "english": "— wearing divine garlands and garments, adorned with all ornaments, the Apsaras sang and danced before Bībhatsu; the glorious Tumburu together with the Gandharvas sang."},
+{"ref": "1.114.44", "sanskrit": "bhīmasenograsenau ca ūrṇāyur anaghas tathā gopatir dhṛtarāṣṭraś ca sūryavarcāś ca saptamaḥ", "english": "Bhīmasena, Ugrasena, Urnayu, Anagha, Gopati, Dhṛtarāṣṭra, and Suryavarcas as the seventh —"},
+{"ref": "1.114.45", "sanskrit": "yugapas tṛṇapaḥ kārṣṇir nandiś citrarathas tathā trayodaśaḥ śāliśirāḥ parjanyaś ca caturdaśaḥ", "english": "Yugapa, Trinapha, Kārṣṇi, Nandi, Citraratha as well, Shalisiras as the thirteenth, and Parjanya as the fourteenth —"},
+{"ref": "1.114.46", "sanskrit": "kaliḥ pañcadaśaś cātra nāradaś caiva ṣoḍaśaḥ sad vā bṛhad vā bṛhakaḥ karālaś ca mahāyaśāḥ", "english": "Kali as the fifteenth here, and Nārada as the sixteenth; Sat, Brihad, Brihaka, and the greatly renowned Karāla —"},
+{"ref": "1.114.47", "sanskrit": "brahmacārī bahuguṇaḥ suparṇaś ceti viśrutaḥ viśvāvasur bhumanyuś ca sucandro daśamas tathā", "english": "Brahmachari, Bahuguna, the famous Suparṇa, Viśvāvasu, Bhumanyu, and Sucandra as the tenth —"},
+{"ref": "1.114.48", "sanskrit": "gītamādhuryasaṃpannau vikhyātau ca hahāhuhū ity ete devagandharvā jagus tatra nararṣabham", "english": "The famous Haha and Hūhū, endowed with sweetness of song — these divine Gandharvas all sang there for that bull among men."},
+{"ref": "1.114.49", "sanskrit": "tathaivāpsaraso hṛṣṭāḥ sarvālaṃkārabhūṣitāḥ nanṛtur vai mahābhāgā jaguś cāyatalocanāḥ", "english": "Likewise the greatly blessed Apsaras, joyful and adorned with all ornaments, danced and sang, their eyes wide and lovely."},
+{"ref": "1.114.50", "sanskrit": "anūnā cānavadyā ca priyamukhyā guṇāvarā adrikā ca tathā sācī miśrakeśī alambusā", "english": "Anuna, Anavadya, Priyamukha, Gunavara, Adrika, Śacī, Miśrakeśī, and Alambusa —"},
+{"ref": "1.114.51", "sanskrit": "marīciḥ śicukā caiva vidyutparṇā tilottamā agnikā lakṣaṇā kṣemā devī rambhā manoramā", "english": "Marīci, Shicuka, Vidyutparna, Tilottamā, Agnika, Lakshana, Kṣema, Devi, Rambha, and Manorama —"},
+{"ref": "1.114.52", "sanskrit": "asitā ca subāhuś ca supriyā suvapus tathā puṇḍarīkā sugandhā ca surathā ca pramāthinī", "english": "Asita, Subāhu, Supriya, Supavus, Pundarika, Sugandha, Suratha, and Pramathini —"},
+{"ref": "1.114.53", "sanskrit": "kāmyā śāradvatī caiva nanṛtus tatra saṃghaśaḥ menakā sahajanyā ca parṇikā puñjikasthalā", "english": "Kamya and Sharadavati danced there in groups; Menaka, Sahajanya, Parnika, Puñjikasthalā —"},
+{"ref": "1.114.54", "sanskrit": "kratusthalā ghṛtācī ca viśvācī pūrvacitty api umlocety abhivikhyātā pramloceti ca tā daśa urvaśy ekādaśīty etā jagur āyatalocanāḥ", "english": "Kratusthala, Ghṛtācī, Vishvaci, Purvacitti, the well-known Umloca, Pramloca — these ten, and Urvaśī as the eleventh — all these long-eyed ones sang."},
+{"ref": "1.114.55", "sanskrit": "dhātāryamā ca mitraś ca varuṇo 'ṃśo bhagas tathā indro vivasvān pūṣā ca tvaṣṭā ca savitā tathā", "english": "Dhata, Aryaman, Mitra, Varuṇa, Amsha, Bhaga, Indra, Vivasvat, Pusha, Tvaṣṭā, and Savitā —"},
+{"ref": "1.114.56", "sanskrit": "parjanyaś caiva viṣṇuś ca ādityāḥ pāvakārciṣaḥ mahimānaṃ pāṇḍavasya vardhayanto 'mbare sthitāḥ", "english": "Parjanya and Viṣṇu — these Ādityas, blazing like fire, stood in the sky, magnifying the glory of the Pāṇḍava."},
+{"ref": "1.114.57", "sanskrit": "mṛgavyādhaś ca śarvaś ca nirṛtiś ca mahāyaśāḥ ajaikapād ahirbudhnyaḥ pinākī ca paraṃtapaḥ", "english": "Mrigavyadha, Śarva, the greatly renowned Nirrita, Ajakapada, Ahirbudhnya, and Pinaki the scorcher of foes —"},
+{"ref": "1.114.58", "sanskrit": "dahano 'theśvaraś caiva kapālī ca viśāṃ pate sthāṇur bhavaś ca bhagavān rudrās tatrāvatasthire", "english": "Dahana, Ishvara, Kapali, O lord of people, Sthāṇu, and the blessed Bhava — these Rudras stood there."},
+{"ref": "1.114.59", "sanskrit": "aśvinau vasavaś cāṣṭau marutaś ca mahābalāḥ viśvedevās tathā sādhyās tatrāsan parisaṃsthitāḥ", "english": "The two Aśvins, the eight Vasus, the mighty Maruts, the Viśvedevas, and the Sādhyas — all these were assembled and stationed there."},
+{"ref": "1.114.60", "sanskrit": "karkoṭako 'tha śeṣaś ca vāsukiś ca bhujaṃgamaḥ kacchapaś cāpakuṇḍaś ca takṣakaś ca mahoragaḥ", "english": "Karkoṭaka, Śeṣa, the serpent Vāsuki, Kacchapa, Apakunda, and the great serpent Takṣaka —"},
+{"ref": "1.114.61", "sanskrit": "āyayus tejasā yuktā mahākrodhā mahābalāḥ ete cānye ca bahavas tatra nāgā vyavasthitāḥ", "english": "— endowed with splendour, of great wrath, of great strength, they came; these and many other Nāgas were stationed there."},
+{"ref": "1.114.62", "sanskrit": "tārkṣyaś cāriṣṭanemiś ca garuḍaś cāsitadhvajaḥ aruṇaś cāruṇiś caiva vainateyā vyavasthitāḥ", "english": "Tarkhya, Ariṣṭanemi, Garuḍa of the dark banner, Aruṇa, and Aruni — the sons of Vinatā were stationed there."},
+{"ref": "1.114.63", "sanskrit": "tad dṛṣṭvā mahad āścaryaṃ vismitā munisattamāḥ adhikāṃ sma tato vṛttim avartan pāṇḍavān prati", "english": "Seeing that great wonder, the best of sages were astonished and thenceforth showed even greater regard toward the Pāṇḍavas."},
+{"ref": "1.114.64", "sanskrit": "pāṇḍus tu punar evaināṃ putralobhān mahāyaśāḥ prāhiṇod darśanīyāṅgīṃ kuntī tv enam athābravīt", "english": "But Pāṇḍu of great fame, out of desire for a son, urged the fair-limbed one again; Kuntī then spoke to him thus."},
+{"ref": "1.114.65", "sanskrit": "nātaś caturthaṃ prasavam āpatsv api vadanty uta ataḥ paraṃ cāriṇī syāt pañcame bandhakī bhavet", "english": "A fourth delivery is not sanctioned even in dire necessity, so they say; beyond that a woman becomes wanton, and at the fifth a harlot."},
+{"ref": "1.114.66", "sanskrit": "sa tvaṃ vidvan dharmam imaṃ buddhigamyaṃ kathaṃ nu mām apatyārthaṃ samutkramya pramādād iva bhāṣase", "english": "You who know this dharma, comprehensible to the intellect — how then do you speak to me, as if in heedlessness, urging me to transgress it for the sake of offspring?"},
+{"ref": "1.115.1", "sanskrit": "vaiśaṃpāyana uvāca kuntīputreṣu jāteṣu dhṛtarāṣṭrātmajeṣu ca madrarājasutā pāṇḍuṃ raho vacanam abravīt", "english": "Vaiśaṃpāyana said: When the sons of Kuntī and the sons of Dhṛtarāṣṭra had been born, the daughter of the king of Madra spoke privately to Pāṇḍu."},
+{"ref": "1.115.2", "sanskrit": "na me 'sti tvayi saṃtāpo viguṇe 'pi paraṃtapa nāvaratve varārhāyāḥ sthitvā cānagha nityadā", "english": "O scorcher of foes, I feel no sorrow toward you even in your affliction; nor in the inferiority of one who deserves the best, O sinless one, while dwelling with you always."},
+{"ref": "1.115.3", "sanskrit": "gāndhāryāś caiva nṛpate jātaṃ putraśataṃ tathā śrutvā na me tathā duḥkham abhavat kurunandana", "english": "O king, O delight of the Kurus, even hearing that a hundred sons have been born to Gāndhārī, my grief was not as great as this."},
+{"ref": "1.115.4", "sanskrit": "idaṃ tu me mahad duḥkhaṃ tulyatāyām aputratā diṣṭyā tv idānīṃ bhartur me kuntyām apy asti saṃtatiḥ", "english": "But this is my great sorrow — to be equal in status yet without a son. By good fortune, however, there is now offspring through Kuntī for my husband."},
+{"ref": "1.115.5", "sanskrit": "yadi tv apatyasaṃtānaṃ kuntirājasutā mayi kuryād anugraho me syāt tava cāpi hitaṃ bhavet", "english": "If the daughter of the Kuntiraja king would extend the lineage of offspring through me, it would be a favour to me and would also serve your welfare."},
+{"ref": "1.115.6", "sanskrit": "stambho hi me sapatnītvād vaktuṃ kuntisutāṃ prati yadi tu tvaṃ prasanno me svayam enāṃ pracodaya", "english": "For I am inhibited by rivalry with a co-wife from speaking to Kuntī's daughter myself; but if you are pleased with me, urge her yourself."},
+{"ref": "1.115.7", "sanskrit": "pāṇḍur uvāca mamāpy eṣa sadā mādri hṛdy arthaḥ parivartate na tu tvāṃ prasahe vaktum iṣṭāniṣṭavivakṣayā", "english": "Pāṇḍu said: O Mādrī, this very wish has always revolved in my heart too; but I did not venture to speak to you, weighing what is desirable and what is not."},
+{"ref": "1.115.8", "sanskrit": "tava tv idaṃ mataṃ jñātvā prayatiṣyāmy ataḥ param manye dhruvaṃ mayoktā sā vaco me pratipatsyate", "english": "But knowing this to be your wish, I shall endeavour henceforth; I believe that when spoken to by me she will certainly accept my words."},
+{"ref": "1.115.9", "sanskrit": "vaiśaṃpāyana uvāca tataḥ kuntīṃ punaḥ pāṇḍur vivikta idam abravīt kulasya mama saṃtānaṃ lokasya ca kuru priyam", "english": "Vaiśaṃpāyana said: Then Pāṇḍu spoke these words to Kuntī again in private: 'Do what is dear to my lineage and to the world.'"},
+{"ref": "1.115.10", "sanskrit": "mama cāpiṇḍanāśāya pūrveṣām api cātmanaḥ matpriyārthaṃ ca kalyāṇi kuru kalyāṇam uttamam", "english": "For the sake of preventing the extinction of offerings to me and to my ancestors, and for my own sake, O auspicious one, do this highest good deed."},
+{"ref": "1.115.11", "sanskrit": "yaśaso 'rthāya caiva tvaṃ kuru karma suduṣkaram prāpyādhipatyam indreṇa yajñair iṣṭaṃ yaśorthinā", "english": "For the sake of renown also, perform this most difficult act — just as Indra, desiring glory, obtained his lordship through sacrifices."},
+{"ref": "1.115.12", "sanskrit": "tathā mantravido viprās tapas taptvā suduṣkaram gurūn abhyupagacchanti yaśaso 'rthāya bhāmini", "english": "Likewise, O beautiful one, brahmins who know the mantras, having performed most arduous austerity, approach their teachers for the sake of renown."},
+{"ref": "1.115.13", "sanskrit": "tathā rājarṣayaḥ sarve brāhmaṇāś ca tapodhanāḥ cakrur uccāvacaṃ karma yaśaso 'rthāya duṣkaram", "english": "Likewise all the royal sages and the brahmins whose wealth is austerity have performed various difficult deeds, both high and low, for the sake of renown."},
+{"ref": "1.115.14", "sanskrit": "sā tvaṃ mādrīṃ plaveneva tārayemām anindite apatyasaṃvibhāgena parāṃ kīrtim avāpnuhi", "english": "O blameless one, you — as if by a raft — ferry Mādrī across; by sharing offspring with her, attain the highest glory."},
+{"ref": "1.115.15", "sanskrit": "evam uktābravīn mādrīṃ sakṛc cintaya daivatam tasmāt te bhavitāpatyam anurūpam asaṃśayam", "english": "Thus addressed, she said to Mādrī: 'Think of a deity just once; from that a fitting offspring will certainly be born to you, without doubt.'"},
+{"ref": "1.115.16", "sanskrit": "tato mādrī vicāryaiva jagāma manasāśvinau tāv āgamya sutau tasyāṃ janayām āsatur yamau", "english": "Then Mādrī, having deliberated, went to the Aśvins in her mind; the two of them came and begot twin sons upon her."},
+{"ref": "1.115.17", "sanskrit": "nakulaṃ sahadevaṃ ca rūpeṇāpratimau bhuvi tathaiva tāv api yamau vāg uvācāśarīriṇī", "english": "Nakula and Sahadeva, unmatched in beauty in the world — at the birth of those twins too, a bodiless voice spoke."},
+{"ref": "1.115.18", "sanskrit": "rūpasattvaguṇopetāv etāv anyāñ janān ati bhāsatas tejasātyarthaṃ rūpadraviṇasaṃpadā", "english": "These two, endowed with beauty, courage, and virtue, surpass all other men, blazing exceedingly with splendour and with the wealth of beauty."},
+{"ref": "1.115.19", "sanskrit": "nāmāni cakrire teṣāṃ śataśṛṅganivāsinaḥ bhaktyā ca karmaṇā caiva tathāśīrbhir viśāṃ pate", "english": "The dwellers of Shatashringa gave names to them with devotion, with ritual acts, and with blessings, O lord of peoples."},
+{"ref": "1.115.20", "sanskrit": "jyeṣṭhaṃ yudhiṣṭhirety āhur bhīmaseneti madhyamam arjuneti tṛtīyaṃ ca kuntīputrān akalpayan", "english": "The eldest of Kuntī's sons they called Yudhiṣṭhira, the middle one Bhīmasena, and the third Arjuna."}
 ]

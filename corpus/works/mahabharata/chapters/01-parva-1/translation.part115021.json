@@ -1,402 +1,82 @@
 [
-  {
-    "ref": "1.115.21",
-    "sanskrit": "pūrvajaṃ nakulety evaṃ sahadeveti cāparam mādrīputrāv akathayaṃs te viprāḥ prītamānasāḥ anusaṃvatsaraṃ jātā api te kurusattamāḥ",
-    "english": "The Brahmins, with joyful hearts, named the elder of Mādrī's sons Nakula and the other Sahadeva. Those best of Kurus were born year after year."
-  },
-  {
-    "ref": "1.115.22",
-    "sanskrit": "kuntīm atha punaḥ pāṇḍur mādryarthe samacodayat tam uvāca pṛthā rājan rahasy uktā satī sadā",
-    "english": "Then Pāṇḍu urged Kuntī again on Mādrī's behalf. Pṛthā said to him: 'O king, I was told this in private only once.'"
-  },
-  {
-    "ref": "1.115.23",
-    "sanskrit": "uktā sakṛd dvandvam eṣā lebhe tenāsmi vañcitā bibhemy asyāḥ paribhavān nārīṇāṃ gatir īdṛśī",
-    "english": "'When spoken to once, she obtained a twin—by that I was deceived. I fear being surpassed by her; such is the way of women.'"
-  },
-  {
-    "ref": "1.115.24",
-    "sanskrit": "nājñāsiṣam ahaṃ mūḍhā dvandvāhvāne phaladvayam tasmān nāhaṃ niyoktavyā tvayaiṣo 'stu varo mama",
-    "english": "'Foolish that I was, I did not know that invoking for a pair yields two sons. Therefore I should not be urged by you again—let this be my boon from you.'"
-  },
-  {
-    "ref": "1.115.25",
-    "sanskrit": "evaṃ pāṇḍoḥ sutāḥ pañca devadattā mahābalāḥ saṃbhūtāḥ kīrtimantas te kuruvaṃśavivardhanāḥ",
-    "english": "Thus the five sons of Pāṇḍu, given by the gods and of great strength, were born—renowned and extenders of the Kuru lineage."
-  },
-  {
-    "ref": "1.115.26",
-    "sanskrit": "śubhalakṣaṇasaṃpannāḥ somavat priyadarśanāḥ siṃhadarpā maheṣvāsāḥ siṃhavikrāntagāminaḥ siṃhagrīvā manuṣyendrā vavṛdhur devavikramāḥ",
-    "english": "Endowed with auspicious marks, lovely to behold as the moon, proud as lions, great archers, striding with a lion's valor, lion-necked lords of men—they grew up with godlike might."
-  },
-  {
-    "ref": "1.115.27",
-    "sanskrit": "vivardhamānās te tatra puṇye haimavate girau vismayaṃ janayām āsur maharṣīṇāṃ sameyuṣām",
-    "english": "As they grew on that holy Himalayan mountain, they caused wonder among the great seers who gathered there."
-  },
-  {
-    "ref": "1.115.28",
-    "sanskrit": "te ca pañca śataṃ caiva kuruvaṃśavivardhanāḥ sarve vavṛdhur alpena kālenāpsv iva nīrajāḥ",
-    "english": "And those five, together with a hundred, who all enlarged the Kuru race, grew in a short time like lotuses in water."
-  },
-  {
-    "ref": "1.116.1",
-    "sanskrit": "vaiśaṃpāyana uvāca darśanīyāṃs tataḥ putrān pāṇḍuḥ pañca mahāvane tān paśyan parvate reme svabāhubalapālitān",
-    "english": "Vaiśaṃpāyana said: Pāṇḍu then rejoiced on the mountain in the great forest, beholding his five handsome sons, guarded by the strength of his own arms."
-  },
-  {
-    "ref": "1.116.2",
-    "sanskrit": "supuṣpitavane kāle kadā cin madhumādhave bhūtasaṃmohane rājā sabhāryo vyacarad vanam",
-    "english": "Once, in the sweet spring season when the forest was in full bloom and all creatures were bewildered with desire, the king wandered through the forest with his wife."
-  },
-  {
-    "ref": "1.116.3",
-    "sanskrit": "palāśais tilakais cūtaiś campakaiḥ pāribhadrakaiḥ anyaiś ca bahubhir vṛkṣaiḥ phalapuṣpasamṛddhibhiḥ",
-    "english": "The forest was rich with palāśa, tilaka, mango, campaka, and pāribhadraka trees, and many other trees laden with fruits and flowers."
-  },
-  {
-    "ref": "1.116.4",
-    "sanskrit": "jalasthānaiś ca vividhaiḥ padminībhiś ca śobhitam pāṇḍor vanaṃ tu saṃprekṣya prajajñe hṛdi manmathaḥ",
-    "english": "Adorned with various bodies of water and with lotus ponds, the forest captivated Pāṇḍu's gaze, and desire awakened in his heart."
-  },
-  {
-    "ref": "1.116.5",
-    "sanskrit": "prahṛṣṭamanasaṃ tatra viharantaṃ yathāmaram taṃ mādry anujagāmaikā vasanaṃ bibhratī śubham",
-    "english": "As he roamed there with a joyful mind, carefree as an immortal, Mādrī alone followed him, wearing a beautiful garment."
-  },
-  {
-    "ref": "1.116.6",
-    "sanskrit": "samīkṣamāṇaḥ sa tu tāṃ vayaḥsthāṃ tanuvāsasam tasya kāmaḥ pravavṛdhe gahane 'gnir ivotthitaḥ",
-    "english": "Beholding her in the fullness of her youth, clad in thin garments, his desire blazed up like fire in a thicket."
-  },
-  {
-    "ref": "1.116.7",
-    "sanskrit": "rahasy ātmasamāṃ dṛṣṭvā rājā rājīvalocanām na śaśāka niyantuṃ taṃ kāmaṃ kāmabalātkṛtaḥ",
-    "english": "Seeing her lotus-eyed and equal to himself in a secluded place, the king, overpowered by the force of desire, could not restrain that longing."
-  },
-  {
-    "ref": "1.116.8",
-    "sanskrit": "tata enāṃ balād rājā nijagrāha rahogatām vāryamāṇas tayā devyā visphurantyā yathābalam",
-    "english": "Then the king forcibly seized her in that solitary place, though the queen struggled and restrained him with all her strength."
-  },
-  {
-    "ref": "1.116.9",
-    "sanskrit": "sa tu kāmaparītātmā taṃ śāpaṃ nānvabudhyata mādrīṃ maithunadharmeṇa gacchamāno balād iva",
-    "english": "His soul consumed by desire, he did not recall the curse as he came forcibly upon Mādrī in the act of union."
-  },
-  {
-    "ref": "1.116.10",
-    "sanskrit": "jīvitāntāya kauravyo manmathasya vaśaṃ gataḥ śāpajaṃ bhayam utsṛjya jagāmaiva balāt priyām",
-    "english": "The Kaurava, fallen under the sway of Kāma to the end of his life, casting aside the fear born of the curse, came forcibly upon his beloved."
-  },
-  {
-    "ref": "1.116.11",
-    "sanskrit": "tasya kāmātmano buddhiḥ sākṣāt kālena mohitā saṃpramathyendriyagrāmaṃ pranaṣṭā saha cetasā",
-    "english": "His intellect, enslaved to desire, was directly deluded by Fate itself; churned by the tumult of the senses, it vanished along with his consciousness."
-  },
-  {
-    "ref": "1.116.12",
-    "sanskrit": "sa tayā saha saṃgamya bhāryayā kurunandana pāṇḍuḥ paramadharmātmā yuyuje kāladharmaṇā",
-    "english": "Having united with his wife, O joy of the Kurus, the supremely virtuous Pāṇḍu met with the law of death."
-  },
-  {
-    "ref": "1.116.13",
-    "sanskrit": "tato mādrī samāliṅgya rājānaṃ gatacetasam mumoca duḥkhajaṃ śabdaṃ punaḥ punar atīva ha",
-    "english": "Then Mādrī embraced the king, whose consciousness had departed, and cried out again and again in inconsolable grief."
-  },
-  {
-    "ref": "1.116.14",
-    "sanskrit": "saha putrais tataḥ kuntī mādrīputrau ca pāṇḍavau ājagmuḥ sahitās tatra yatra rājā tathāgataḥ",
-    "english": "Then Kuntī, together with her sons and the two Pāṇḍava sons of Mādrī, all came together to where the king lay thus."
-  },
-  {
-    "ref": "1.116.15",
-    "sanskrit": "tato mādry abravīd rājann ārtā kuntīm idaṃ vacaḥ ekaiva tvam ihāgaccha tiṣṭhantv atraiva dārakāḥ",
-    "english": "Then Mādrī, distressed, spoke these words to Kuntī: 'Come here alone; let the children stay right there.'"
-  },
-  {
-    "ref": "1.116.16",
-    "sanskrit": "tac chrutvā vacanaṃ tasyās tatraivāvārya dārakān hatāham iti vikruśya sahasopajagāma ha",
-    "english": "Hearing those words, Kuntī stopped the children right there, and crying out 'I am undone!' she quickly came forward."
-  },
-  {
-    "ref": "1.116.17",
-    "sanskrit": "dṛṣṭvā pāṇḍuṃ ca mādrīṃ ca śayānau dharaṇītale kuntī śokaparītāṅgī vilalāpa suduḥkhitā",
-    "english": "Seeing Pāṇḍu and Mādrī lying on the ground, Kuntī's body was seized with grief, and she lamented in deep sorrow."
-  },
-  {
-    "ref": "1.116.18",
-    "sanskrit": "rakṣyamāṇo mayā nityaṃ vīraḥ satatam ātmavān kathaṃ tvam abhyatikrāntaḥ śāpaṃ jānan vanaukasaḥ",
-    "english": "'O hero, always self-possessed, ever guarded by me—how did you transgress the curse knowingly, you who dwell in the forest?'"
-  },
-  {
-    "ref": "1.116.19",
-    "sanskrit": "nanu nāma tvayā mādri rakṣitavyo janādhipaḥ sā kathaṃ lobhitavatī vijane tvaṃ narādhipam",
-    "english": "'O Mādrī, was it not your duty to protect the lord of men? How did you entice the king of men into a lonely place?'"
-  },
-  {
-    "ref": "1.116.20",
-    "sanskrit": "kathaṃ dīnasya satataṃ tvām āsādya rahogatām taṃ vicintayataḥ śāpaṃ praharṣaḥ samajāyata",
-    "english": "'How could delight arise in one who was always afflicted, who had reached you alone in a secluded place, pondering that very curse?'"
-  },
-  {
-    "ref": "1.116.21",
-    "sanskrit": "dhanyā tvam asi bāhlīki matto bhāgyatarā tathā dṛṣṭavaty asi yad vaktraṃ prahṛṣṭasya mahīpateḥ",
-    "english": "'You are fortunate, O princess of Bāhlika, more blessed than I; for you have seen the face of the king in his moment of joy.'"
-  },
-  {
-    "ref": "1.116.22",
-    "sanskrit": "mādry uvāca vilobhyamānena mayā vāryamāṇena cāsakṛt ātmā na vārito 'nena satyaṃ diṣṭaṃ cikīrṣuṇā",
-    "english": "Mādrī said: 'Though I enticed him and though I restrained him repeatedly, he could not be stopped by me. Truly, he wished to fulfill his fate.'"
-  },
-  {
-    "ref": "1.116.23",
-    "sanskrit": "kunty uvāca ahaṃ jyeṣṭhā dharmapatnī jyeṣṭhaṃ dharmaphalaṃ mama avaśyaṃ bhāvino bhāvān mā māṃ mādri nivartaya",
-    "english": "Kuntī said: 'I am the elder lawful wife; the foremost reward of dharma is mine. What must be shall be—O Mādrī, do not turn me away.'"
-  },
-  {
-    "ref": "1.116.24",
-    "sanskrit": "anveṣyāmīha bhartāram ahaṃ pretavaśaṃ gatam uttiṣṭha tvaṃ visṛjyainam imān rakṣasva dārakān",
-    "english": "'I shall follow my husband who has passed into the realm of the dead. Rise, leave him to me, and protect these children.'"
-  },
-  {
-    "ref": "1.116.25",
-    "sanskrit": "mādry uvāca aham evānuyāsyāmi bhartāram apalāyinam na hi tṛptāsmi kāmānāṃ taj jyeṣṭhā anumanyatām",
-    "english": "Mādrī said: 'I shall follow the husband who did not flee. I am not yet satisfied in my desires—let the elder consent to this.'"
-  },
-  {
-    "ref": "1.116.26",
-    "sanskrit": "māṃ cābhigamya kṣīṇo 'yaṃ kāmād bharatasattamaḥ tam ucchindyām asya kāmaṃ kathaṃ nu yamasādane",
-    "english": "'This best of Bharatas was exhausted coming to me in desire—how could I cut off his desire and leave him unsatisfied in Yama's abode?'"
-  },
-  {
-    "ref": "1.116.27",
-    "sanskrit": "na cāpy ahaṃ vartayantī nirviśeṣaṃ suteṣu te vṛttim ārye cariṣyāmi spṛśed enas tathā hi mām",
-    "english": "'Nor could I, O noble lady, treat your sons and mine without distinction; sin would touch me if I were to do so.'"
-  },
-  {
-    "ref": "1.116.28",
-    "sanskrit": "tasmān me sutayoḥ kunti vartitavyaṃ svaputravat māṃ hi kāmayamāno 'yaṃ rājā pretavaśaṃ gataḥ",
-    "english": "'Therefore, O Kuntī, you must treat my two sons as your own; for this king who desired me has passed into the realm of the dead.'"
-  },
-  {
-    "ref": "1.116.29",
-    "sanskrit": "rājñaḥ śarīreṇa saha mamāpīdaṃ kalevaram dagdhavyaṃ supraticchannam etad ārye priyaṃ kuru",
-    "english": "'Along with the king's body, this body of mine too must be burned, well adorned. O noble one, do me this kindness.'"
-  },
-  {
-    "ref": "1.116.30",
-    "sanskrit": "dārakeṣv apramattā ca bhavethāś ca hitā mama ato 'nyan na prapaśyāmi saṃdeṣṭavyaṃ hi kiṃ cana",
-    "english": "'And be vigilant and beneficent toward the children for my sake. I see nothing else that I need entrust to you.'"
-  },
-  {
-    "ref": "1.116.31",
-    "sanskrit": "vaiśaṃpāyana uvāca ity uktvā taṃ citāgnisthaṃ dharmapatnī nararṣabham madrarājātmajā tūrṇam anvārohad yaśasvinī",
-    "english": "Vaiśaṃpāyana said: Having spoken thus, that glorious lawful wife, daughter of the Madra king, quickly mounted the funeral pyre beside the bull among men."
-  },
-  {
-    "ref": "1.117.1",
-    "sanskrit": "vaiśaṃpāyana uvāca pāṇḍor avabhṛthaṃ kṛtvā devakalpā maharṣayaḥ tato mantram akurvanta te sametya tapasvinaḥ",
-    "english": "Vaiśaṃpāyana said: After performing the final purificatory rites for Pāṇḍu, the god-like great seers and ascetics assembled and took counsel."
-  },
-  {
-    "ref": "1.117.2",
-    "sanskrit": "hitvā rājyaṃ ca rāṣṭraṃ ca sa mahātmā mahātapāḥ asmin sthāne tapas taptuṃ tāpasāñ śaraṇaṃ gataḥ",
-    "english": "'That great-souled one of great austerity, abandoning kingdom and realm, came to this place seeking refuge among ascetics to practice tapas.'"
-  },
-  {
-    "ref": "1.117.3",
-    "sanskrit": "sa jātamātrān putrāṃś ca dārāṃś ca bhavatām iha pradāyopanidhiṃ rājā pāṇḍuḥ svargam ito gataḥ",
-    "english": "'King Pāṇḍu, having entrusted his newborn sons and his wives here to your care as a trust, has departed from this place to heaven.'"
-  },
-  {
-    "ref": "1.117.4",
-    "sanskrit": "te parasparam āmantrya sarvabhūtahite ratāḥ pāṇḍoḥ putrān puraskṛtya nagaraṃ nāgasāhvayam",
-    "english": "Taking leave of one another, those devoted to the welfare of all beings, placing Pāṇḍu's sons at their head, resolved to go to the city named for the elephant—Hāstinapura."
-  },
-  {
-    "ref": "1.117.5",
-    "sanskrit": "udāramanasaḥ siddhā gamane cakrire manaḥ bhīṣmāya pāṇḍavān dātuṃ dhṛtarāṣṭrāya caiva hi",
-    "english": "Those noble-minded perfected ones set their minds on the journey, intending to deliver the Pāṇḍavas to Bhīṣma and to Dhṛtarāṣṭra."
-  },
-  {
-    "ref": "1.117.6",
-    "sanskrit": "tasminn eva kṣaṇe sarve tān ādāya pratasthire pāṇḍor dārāṃś ca putrāṃś ca śarīraṃ caiva tāpasāḥ",
-    "english": "At that very moment all the ascetics set out, taking with them Pāṇḍu's wives, his sons, and also his body."
-  },
-  {
-    "ref": "1.117.7",
-    "sanskrit": "sukhinī sā purā bhūtvā satataṃ putravatsalā prapannā dīrgham adhvānaṃ saṃkṣiptaṃ tad amanyata",
-    "english": "She who had once been happy, always tender toward her children, though she had undertaken a long journey, felt it as brief."
-  },
-  {
-    "ref": "1.117.8",
-    "sanskrit": "sā nadīrgheṇa kālena saṃprāptā kurujāṅgalam vardhamānapuradvāram āsasāda yaśasvinī",
-    "english": "In no great time that glorious one reached the Kuru countryside and arrived at the gate of the city of Vardhamāna."
-  },
-  {
-    "ref": "1.117.9",
-    "sanskrit": "taṃ cāraṇasahasrāṇāṃ munīnām āgamaṃ tadā śrutvā nāgapure nṝṇāṃ vismayaḥ samajāyata",
-    "english": "Hearing of the arrival of thousands of wandering bards and sages at that time, the people of Nāgapura were filled with wonder."
-  },
-  {
-    "ref": "1.117.10",
-    "sanskrit": "muhūrtodita āditye sarve dharmapuraskṛtāḥ sadārās tāpasān draṣṭuṃ niryayuḥ puravāsinaḥ",
-    "english": "As the sun rose a short while later, all the city's residents, placing dharma foremost, went out with their wives to see the ascetics."
-  },
-  {
-    "ref": "1.117.11",
-    "sanskrit": "strīsaṃghāḥ kṣatrasaṃghāś ca yānasaṃghān samāsthitāḥ brāhmaṇaiḥ saha nirjagmur brāhmaṇānāṃ ca yoṣitaḥ",
-    "english": "Groups of women and groups of Kṣatriyas mounted on conveyances went out together with Brahmins, and the wives of Brahmins as well."
-  },
-  {
-    "ref": "1.117.12",
-    "sanskrit": "tathā viṭśūdrasaṃghānāṃ mahān vyatikaro 'bhavat na kaś cid akarod īrṣyām abhavan dharmabuddhayaḥ",
-    "english": "Likewise there was a great mingling of groups of Vaiśyas and Śūdras; no one acted with jealousy—they all came with minds turned to dharma."
-  },
-  {
-    "ref": "1.117.13",
-    "sanskrit": "tathā bhīṣmaḥ śāṃtanavaḥ somadatto 'tha bāhlikaḥ prajñācakṣuś ca rājarṣiḥ kṣattā ca viduraḥ svayam",
-    "english": "So too Bhīṣma son of Śantanu, and Somadatta, and Bāhlika, the royal sage who sees with the eyes of wisdom, and the charioteer's son Vidura himself."
-  },
-  {
-    "ref": "1.117.14",
-    "sanskrit": "sā ca satyavatī devī kausalyā ca yaśasvinī rājadāraiḥ parivṛtā gāndhārī ca viniryayau",
-    "english": "And the goddess Satyavatī, and the glorious Kausalyā, and Gāndhārī surrounded by the royal women—all went out."
-  },
-  {
-    "ref": "1.117.15",
-    "sanskrit": "dhṛtarāṣṭrasya dāyādā duryodhanapurogamāḥ bhūṣitā bhūṣaṇaiś citraiḥ śatasaṃkhyā viniryayuḥ",
-    "english": "The heirs of Dhṛtarāṣṭra, led by Duryodhana, adorned with varied ornaments, went out numbering a hundred."
-  },
-  {
-    "ref": "1.117.16",
-    "sanskrit": "tān maharṣigaṇān sarvāñ śirobhir abhivādya ca upopaviviśuḥ sarve kauravyāḥ sapurohitāḥ",
-    "english": "All the Kauravas, bowing their heads in salutation to all those groups of great seers, sat down near them together with their priests."
-  },
-  {
-    "ref": "1.117.17",
-    "sanskrit": "tathaiva śirasā bhūmāv abhivādya praṇamya ca upopaviviśuḥ sarve paurajānapadā api",
-    "english": "In the same way all the city folk and country people bowed their heads to the ground in reverence and sat down nearby."
-  },
-  {
-    "ref": "1.117.18",
-    "sanskrit": "tam akūjam ivājñāya janaughaṃ sarvaśas tadā bhīṣmo rājyaṃ ca rāṣṭraṃ ca maharṣibhyo nyavedayat",
-    "english": "Perceiving that multitude of people to be silent, as if mute, Bhīṣma then reported to the great seers the state of the kingdom and the realm."
-  },
-  {
-    "ref": "1.117.19",
-    "sanskrit": "teṣām atho vṛddhatamaḥ pratyutthāya jaṭājinī maharṣimatam ājñāya maharṣir idam abravīt",
-    "english": "Then the eldest among them, wearing matted locks and a deerskin, rose up, and discerning the mind of the great seers, that great seer spoke thus."
-  },
-  {
-    "ref": "1.117.20",
-    "sanskrit": "yaḥ sa kauravyadāyādaḥ pāṇḍur nāma narādhipaḥ kāmabhogān parityajya śataśṛṅgam ito gataḥ",
-    "english": "'He who was the Kaurava heir, the lord of men named Pāṇḍu, renouncing pleasures and enjoyments, departed from here to Śataśṛṅga.'"
-  },
-  {
-    "ref": "1.117.21",
-    "sanskrit": "brahmacaryavratasthasya tasya divyena hetunā sākṣād dharmād ayaṃ putras tasya jāto yudhiṣṭhiraḥ",
-    "english": "'While he abided in the vow of celibacy, by a divine cause, Yudhiṣṭhira, this son of his, was born directly from Dharma himself.'"
-  },
-  {
-    "ref": "1.117.22",
-    "sanskrit": "tathemaṃ balināṃ śreṣṭhaṃ tasya rājño mahātmanaḥ mātariśvā dadau putraṃ bhīmaṃ nāma mahābalam",
-    "english": "'Likewise, to that great-souled king, Mātariśvan—the Wind—gave this son Bhīma by name, foremost of the strong and of great might.'"
-  },
-  {
-    "ref": "1.117.23",
-    "sanskrit": "puruhūtād ayaṃ jajñe kuntyāṃ satyaparākramaḥ yasya kīrtir maheṣvāsān sarvān abhibhaviṣyati",
-    "english": "'This one of true valor was born to Kuntī from Indra, the lord of many; his glory will surpass all great archers.'"
-  },
-  {
-    "ref": "1.117.24",
-    "sanskrit": "yau tu mādrī maheṣvāsāv asūta kurusattamau aśvibhyāṃ manujavyāghrāv imau tāv api tiṣṭhataḥ",
-    "english": "'And these two great archers, the best of Kurus and tigers among men, whom Mādrī bore from the Aśvins—they too stand here.'"
-  },
-  {
-    "ref": "1.117.25",
-    "sanskrit": "caratā dharmanityena vanavāsaṃ yaśasvinā eṣa paitāmaho vaṃśaḥ pāṇḍunā punar uddhṛtaḥ",
-    "english": "'By the glorious Pāṇḍu who dwelt in the forest, ever constant in dharma, this ancestral lineage has been raised up once more.'"
-  },
-  {
-    "ref": "1.117.26",
-    "sanskrit": "putrāṇāṃ janma vṛddhiṃ ca vaidikādhyayanāni ca paśyataḥ satataṃ pāṇḍoḥ śaśvat prītir avardhata",
-    "english": "'As Pāṇḍu watched the birth, the growth, and the Vedic studies of his sons, his joy grew ever and always.'"
-  },
-  {
-    "ref": "1.117.27",
-    "sanskrit": "vartamānaḥ satāṃ vṛtte putralābham avāpya ca pitṛlokaṃ gataḥ pāṇḍur itaḥ saptadaśe 'hani",
-    "english": "'Abiding in the conduct of the good, having attained the gift of sons, Pāṇḍu departed from here to the world of the ancestors on the seventeenth day.'"
-  },
-  {
-    "ref": "1.117.28",
-    "sanskrit": "taṃ citāgatam ājñāya vaiśvānaramukhe hutam praviṣṭā pāvakaṃ mādrī hitvā jīvitam ātmanaḥ",
-    "english": "'Learning that he had been placed on the funeral pyre and offered to Vaiśvānara, Mādrī entered the fire, abandoning her own life.'"
-  },
-  {
-    "ref": "1.117.29",
-    "sanskrit": "sā gatā saha tenaiva patilokam anuvratā tasyās tasya ca yat kāryaṃ kriyatāṃ tadanantaram",
-    "english": "'She has gone, devoted, to the world of her husband along with him. Let whatever rites are due for them both be performed forthwith.'"
-  },
-  {
-    "ref": "1.117.30",
-    "sanskrit": "ime tayoḥ śarīre dve sutāś ceme tayor varāḥ kriyābhir anugṛhyantāṃ saha mātrā paraṃtapāḥ",
-    "english": "'Here are their two bodies, and here are their noble sons, scorchers of foes—let them be honored with the rites together with their mother.'"
-  },
-  {
-    "ref": "1.117.31",
-    "sanskrit": "pretakārye ca nirvṛtte pitṛmedhaṃ mahāyaśāḥ labhatāṃ sarvadharmajñaḥ pāṇḍuḥ kurukulodvahaḥ",
-    "english": "'And when the funeral rites are completed, let Pāṇḍu of great glory, the upholder of the Kuru house, who knows all dharma, receive the ancestral offering.'"
-  },
-  {
-    "ref": "1.117.32",
-    "sanskrit": "evam uktvā kurūn sarvān kurūṇām eva paśyatām kṣaṇenāntarhitāḥ sarve cāraṇā guhyakaiḥ saha",
-    "english": "Having spoken thus to all the Kurus, while the Kurus themselves watched, all the wandering bards together with the Guhyakas vanished in an instant."
-  },
-  {
-    "ref": "1.117.33",
-    "sanskrit": "gandharvanagarākāraṃ tatraivāntarhitaṃ punaḥ ṛṣisiddhagaṇaṃ dṛṣṭvā vismayaṃ te paraṃ yayuḥ",
-    "english": "Seeing that assembly of seers and perfected ones vanish right there like a city of the Gandharvas, they were overcome with supreme wonder."
-  },
-  {
-    "ref": "1.118.1",
-    "sanskrit": "dhṛtarāṣṭra uvāca pāṇḍor vidura sarvāṇi pretakāryāṇi kāraya rājavad rājasiṃhasya mādryāś caiva viśeṣataḥ",
-    "english": "Dhṛtarāṣṭra said: 'O Vidura, have all the funeral rites performed for Pāṇḍu in a manner befitting a king, for the lion among kings, and especially for Mādrī as well.'"
-  },
-  {
-    "ref": "1.118.2",
-    "sanskrit": "paśūn vāsāṃsi ratnāni dhanāni vividhāni ca pāṇḍoḥ prayaccha mādryāś ca yebhyo yāvac ca vāñchitam",
-    "english": "'Distribute cattle, garments, jewels, and various wealth for Pāṇḍu and Mādrī—to whosoever wishes, as much as they desire.'"
-  },
-  {
-    "ref": "1.118.3",
-    "sanskrit": "yathā ca kuntī satkāraṃ kuryān mādryās tathā kuru yathā na vāyur nādityaḥ paśyetāṃ tāṃ susaṃvṛtām",
-    "english": "'Arrange also that Kuntī performs honor to Mādrī's rites; see that she is well-protected so that neither the wind nor the sun may look upon her.'"
-  },
-  {
-    "ref": "1.118.4",
-    "sanskrit": "na śocyaḥ pāṇḍur anaghaḥ praśasyaḥ sa narādhipaḥ yasya pañca sutā vīrā jātāḥ surasutopamāḥ",
-    "english": "'Sinless Pāṇḍu is not to be mourned; that lord of men is praiseworthy—five heroic sons equal to sons of the gods have been born to him.'"
-  },
-  {
-    "ref": "1.118.5",
-    "sanskrit": "vaiśaṃpāyana uvāca viduras taṃ tathety uktvā bhīṣmeṇa saha bhārata pāṇḍuṃ saṃskārayām āsa deśe paramasaṃvṛte",
-    "english": "Vaiśaṃpāyana said: Vidura, having said 'so be it' to him, O Bhārata, together with Bhīṣma, performed the funerary consecration for Pāṇḍu in a most secluded spot."
-  },
-  {
-    "ref": "1.118.6",
-    "sanskrit": "tatas tu nagarāt tūrṇam ājyahomapuraskṛtāḥ nirhṛtāḥ pāvakā dīptāḥ pāṇḍo rājapurohitaiḥ",
-    "english": "Then from the city, blazing fires preceded by oblations of clarified butter were swiftly brought out by Pāṇḍu's royal priests."
-  },
-  {
-    "ref": "1.118.7",
-    "sanskrit": "athainam ārtavair gandhair mālyaiś ca vividhair varaiḥ śibikāṃ samalaṃcakrur vāsasācchādya sarvaśaḥ",
-    "english": "Then they adorned the bier with seasonal fragrances and various choice garlands, covering it all over with cloth."
-  },
-  {
-    "ref": "1.118.8",
-    "sanskrit": "tāṃ tathā śobhitāṃ mālyair vāsobhiś ca mahādhanaiḥ amātyā jñātayaś caiva suhṛdaś copatasthire",
-    "english": "The ministers, kinsmen, and friends attended upon that bier thus adorned with garlands and with the most precious garments."
-  }
+{"ref": "1.115.21", "sanskrit": "pūrvajaṃ nakulety evaṃ sahadeveti cāparam mādrīputrāv akathayaṃs te viprāḥ prītamānasāḥ anusaṃvatsaraṃ jātā api te kurusattamāḥ", "english": "The Brahmins, with joyful hearts, named the elder of Mādrī's sons Nakula and the other Sahadeva. Those best of Kurus were born year after year."},
+{"ref": "1.115.22", "sanskrit": "kuntīm atha punaḥ pāṇḍur mādryarthe samacodayat tam uvāca pṛthā rājan rahasy uktā satī sadā", "english": "Then Pāṇḍu urged Kuntī again on Mādrī's behalf. Pṛthā said to him: 'O king, I was told this in private only once.'"},
+{"ref": "1.115.23", "sanskrit": "uktā sakṛd dvandvam eṣā lebhe tenāsmi vañcitā bibhemy asyāḥ paribhavān nārīṇāṃ gatir īdṛśī", "english": "'When spoken to once, she obtained a twin—by that I was deceived. I fear being surpassed by her; such is the way of women.'"},
+{"ref": "1.115.24", "sanskrit": "nājñāsiṣam ahaṃ mūḍhā dvandvāhvāne phaladvayam tasmān nāhaṃ niyoktavyā tvayaiṣo 'stu varo mama", "english": "'Foolish that I was, I did not know that invoking for a pair yields two sons. Therefore I should not be urged by you again—let this be my boon from you.'"},
+{"ref": "1.115.25", "sanskrit": "evaṃ pāṇḍoḥ sutāḥ pañca devadattā mahābalāḥ saṃbhūtāḥ kīrtimantas te kuruvaṃśavivardhanāḥ", "english": "Thus the five sons of Pāṇḍu, given by the gods and of great strength, were born—renowned and extenders of the Kuru lineage."},
+{"ref": "1.115.26", "sanskrit": "śubhalakṣaṇasaṃpannāḥ somavat priyadarśanāḥ siṃhadarpā maheṣvāsāḥ siṃhavikrāntagāminaḥ siṃhagrīvā manuṣyendrā vavṛdhur devavikramāḥ", "english": "Endowed with auspicious marks, lovely to behold as the moon, proud as lions, great archers, striding with a lion's valor, lion-necked lords of men—they grew up with godlike might."},
+{"ref": "1.115.27", "sanskrit": "vivardhamānās te tatra puṇye haimavate girau vismayaṃ janayām āsur maharṣīṇāṃ sameyuṣām", "english": "As they grew on that holy Himalayan mountain, they caused wonder among the great seers who gathered there."},
+{"ref": "1.115.28", "sanskrit": "te ca pañca śataṃ caiva kuruvaṃśavivardhanāḥ sarve vavṛdhur alpena kālenāpsv iva nīrajāḥ", "english": "And those five, together with a hundred, who all enlarged the Kuru race, grew in a short time like lotuses in water."},
+{"ref": "1.116.1", "sanskrit": "vaiśaṃpāyana uvāca darśanīyāṃs tataḥ putrān pāṇḍuḥ pañca mahāvane tān paśyan parvate reme svabāhubalapālitān", "english": "Vaiśaṃpāyana said: Pāṇḍu then rejoiced on the mountain in the great forest, beholding his five handsome sons, guarded by the strength of his own arms."},
+{"ref": "1.116.2", "sanskrit": "supuṣpitavane kāle kadā cin madhumādhave bhūtasaṃmohane rājā sabhāryo vyacarad vanam", "english": "Once, in the sweet spring season when the forest was in full bloom and all creatures were bewildered with desire, the king wandered through the forest with his wife."},
+{"ref": "1.116.3", "sanskrit": "palāśais tilakais cūtaiś campakaiḥ pāribhadrakaiḥ anyaiś ca bahubhir vṛkṣaiḥ phalapuṣpasamṛddhibhiḥ", "english": "The forest was rich with palāśa, tilaka, mango, campaka, and pāribhadraka trees, and many other trees laden with fruits and flowers."},
+{"ref": "1.116.4", "sanskrit": "jalasthānaiś ca vividhaiḥ padminībhiś ca śobhitam pāṇḍor vanaṃ tu saṃprekṣya prajajñe hṛdi manmathaḥ", "english": "Adorned with various bodies of water and with lotus ponds, the forest captivated Pāṇḍu's gaze, and desire awakened in his heart."},
+{"ref": "1.116.5", "sanskrit": "prahṛṣṭamanasaṃ tatra viharantaṃ yathāmaram taṃ mādry anujagāmaikā vasanaṃ bibhratī śubham", "english": "As he roamed there with a joyful mind, carefree as an immortal, Mādrī alone followed him, wearing a beautiful garment."},
+{"ref": "1.116.6", "sanskrit": "samīkṣamāṇaḥ sa tu tāṃ vayaḥsthāṃ tanuvāsasam tasya kāmaḥ pravavṛdhe gahane 'gnir ivotthitaḥ", "english": "Beholding her in the fullness of her youth, clad in thin garments, his desire blazed up like fire in a thicket."},
+{"ref": "1.116.7", "sanskrit": "rahasy ātmasamāṃ dṛṣṭvā rājā rājīvalocanām na śaśāka niyantuṃ taṃ kāmaṃ kāmabalātkṛtaḥ", "english": "Seeing her lotus-eyed and equal to himself in a secluded place, the king, overpowered by the force of desire, could not restrain that longing."},
+{"ref": "1.116.8", "sanskrit": "tata enāṃ balād rājā nijagrāha rahogatām vāryamāṇas tayā devyā visphurantyā yathābalam", "english": "Then the king forcibly seized her in that solitary place, though the queen struggled and restrained him with all her strength."},
+{"ref": "1.116.9", "sanskrit": "sa tu kāmaparītātmā taṃ śāpaṃ nānvabudhyata mādrīṃ maithunadharmeṇa gacchamāno balād iva", "english": "His soul consumed by desire, he did not recall the curse as he came forcibly upon Mādrī in the act of union."},
+{"ref": "1.116.10", "sanskrit": "jīvitāntāya kauravyo manmathasya vaśaṃ gataḥ śāpajaṃ bhayam utsṛjya jagāmaiva balāt priyām", "english": "The Kaurava, fallen under the sway of Kāma to the end of his life, casting aside the fear born of the curse, came forcibly upon his beloved."},
+{"ref": "1.116.11", "sanskrit": "tasya kāmātmano buddhiḥ sākṣāt kālena mohitā saṃpramathyendriyagrāmaṃ pranaṣṭā saha cetasā", "english": "His intellect, enslaved to desire, was directly deluded by Fate itself; churned by the tumult of the senses, it vanished along with his consciousness."},
+{"ref": "1.116.12", "sanskrit": "sa tayā saha saṃgamya bhāryayā kurunandana pāṇḍuḥ paramadharmātmā yuyuje kāladharmaṇā", "english": "Having united with his wife, O joy of the Kurus, the supremely virtuous Pāṇḍu met with the law of death."},
+{"ref": "1.116.13", "sanskrit": "tato mādrī samāliṅgya rājānaṃ gatacetasam mumoca duḥkhajaṃ śabdaṃ punaḥ punar atīva ha", "english": "Then Mādrī embraced the king, whose consciousness had departed, and cried out again and again in inconsolable grief."},
+{"ref": "1.116.14", "sanskrit": "saha putrais tataḥ kuntī mādrīputrau ca pāṇḍavau ājagmuḥ sahitās tatra yatra rājā tathāgataḥ", "english": "Then Kuntī, together with her sons and the two Pāṇḍava sons of Mādrī, all came together to where the king lay thus."},
+{"ref": "1.116.15", "sanskrit": "tato mādry abravīd rājann ārtā kuntīm idaṃ vacaḥ ekaiva tvam ihāgaccha tiṣṭhantv atraiva dārakāḥ", "english": "Then Mādrī, distressed, spoke these words to Kuntī: 'Come here alone; let the children stay right there.'"},
+{"ref": "1.116.16", "sanskrit": "tac chrutvā vacanaṃ tasyās tatraivāvārya dārakān hatāham iti vikruśya sahasopajagāma ha", "english": "Hearing those words, Kuntī stopped the children right there, and crying out 'I am undone!' she quickly came forward."},
+{"ref": "1.116.17", "sanskrit": "dṛṣṭvā pāṇḍuṃ ca mādrīṃ ca śayānau dharaṇītale kuntī śokaparītāṅgī vilalāpa suduḥkhitā", "english": "Seeing Pāṇḍu and Mādrī lying on the ground, Kuntī's body was seized with grief, and she lamented in deep sorrow."},
+{"ref": "1.116.18", "sanskrit": "rakṣyamāṇo mayā nityaṃ vīraḥ satatam ātmavān kathaṃ tvam abhyatikrāntaḥ śāpaṃ jānan vanaukasaḥ", "english": "'O hero, always self-possessed, ever guarded by me—how did you transgress the curse knowingly, you who dwell in the forest?'"},
+{"ref": "1.116.19", "sanskrit": "nanu nāma tvayā mādri rakṣitavyo janādhipaḥ sā kathaṃ lobhitavatī vijane tvaṃ narādhipam", "english": "'O Mādrī, was it not your duty to protect the lord of men? How did you entice the king of men into a lonely place?'"},
+{"ref": "1.116.20", "sanskrit": "kathaṃ dīnasya satataṃ tvām āsādya rahogatām taṃ vicintayataḥ śāpaṃ praharṣaḥ samajāyata", "english": "'How could delight arise in one who was always afflicted, who had reached you alone in a secluded place, pondering that very curse?'"},
+{"ref": "1.116.21", "sanskrit": "dhanyā tvam asi bāhlīki matto bhāgyatarā tathā dṛṣṭavaty asi yad vaktraṃ prahṛṣṭasya mahīpateḥ", "english": "'You are fortunate, O princess of Bāhlika, more blessed than I; for you have seen the face of the king in his moment of joy.'"},
+{"ref": "1.116.22", "sanskrit": "mādry uvāca vilobhyamānena mayā vāryamāṇena cāsakṛt ātmā na vārito 'nena satyaṃ diṣṭaṃ cikīrṣuṇā", "english": "Mādrī said: 'Though I enticed him and though I restrained him repeatedly, he could not be stopped by me. Truly, he wished to fulfill his fate.'"},
+{"ref": "1.116.23", "sanskrit": "kunty uvāca ahaṃ jyeṣṭhā dharmapatnī jyeṣṭhaṃ dharmaphalaṃ mama avaśyaṃ bhāvino bhāvān mā māṃ mādri nivartaya", "english": "Kuntī said: 'I am the elder lawful wife; the foremost reward of dharma is mine. What must be shall be—O Mādrī, do not turn me away.'"},
+{"ref": "1.116.24", "sanskrit": "anveṣyāmīha bhartāram ahaṃ pretavaśaṃ gatam uttiṣṭha tvaṃ visṛjyainam imān rakṣasva dārakān", "english": "'I shall follow my husband who has passed into the realm of the dead. Rise, leave him to me, and protect these children.'"},
+{"ref": "1.116.25", "sanskrit": "mādry uvāca aham evānuyāsyāmi bhartāram apalāyinam na hi tṛptāsmi kāmānāṃ taj jyeṣṭhā anumanyatām", "english": "Mādrī said: 'I shall follow the husband who did not flee. I am not yet satisfied in my desires—let the elder consent to this.'"},
+{"ref": "1.116.26", "sanskrit": "māṃ cābhigamya kṣīṇo 'yaṃ kāmād bharatasattamaḥ tam ucchindyām asya kāmaṃ kathaṃ nu yamasādane", "english": "'This best of Bhāratas was exhausted coming to me in desire—how could I cut off his desire and leave him unsatisfied in Yama's abode?'"},
+{"ref": "1.116.27", "sanskrit": "na cāpy ahaṃ vartayantī nirviśeṣaṃ suteṣu te vṛttim ārye cariṣyāmi spṛśed enas tathā hi mām", "english": "'Nor could I, O noble lady, treat your sons and mine without distinction; sin would touch me if I were to do so.'"},
+{"ref": "1.116.28", "sanskrit": "tasmān me sutayoḥ kunti vartitavyaṃ svaputravat māṃ hi kāmayamāno 'yaṃ rājā pretavaśaṃ gataḥ", "english": "'Therefore, O Kuntī, you must treat my two sons as your own; for this king who desired me has passed into the realm of the dead.'"},
+{"ref": "1.116.29", "sanskrit": "rājñaḥ śarīreṇa saha mamāpīdaṃ kalevaram dagdhavyaṃ supraticchannam etad ārye priyaṃ kuru", "english": "'Along with the king's body, this body of mine too must be burned, well adorned. O noble one, do me this kindness.'"},
+{"ref": "1.116.30", "sanskrit": "dārakeṣv apramattā ca bhavethāś ca hitā mama ato 'nyan na prapaśyāmi saṃdeṣṭavyaṃ hi kiṃ cana", "english": "'And be vigilant and beneficent toward the children for my sake. I see nothing else that I need entrust to you.'"},
+{"ref": "1.116.31", "sanskrit": "vaiśaṃpāyana uvāca ity uktvā taṃ citāgnisthaṃ dharmapatnī nararṣabham madrarājātmajā tūrṇam anvārohad yaśasvinī", "english": "Vaiśaṃpāyana said: Having spoken thus, that glorious lawful wife, daughter of the Madra king, quickly mounted the funeral pyre beside the bull among men."},
+{"ref": "1.117.1", "sanskrit": "vaiśaṃpāyana uvāca pāṇḍor avabhṛthaṃ kṛtvā devakalpā maharṣayaḥ tato mantram akurvanta te sametya tapasvinaḥ", "english": "Vaiśaṃpāyana said: After performing the final purificatory rites for Pāṇḍu, the god-like great seers and ascetics assembled and took counsel."},
+{"ref": "1.117.2", "sanskrit": "hitvā rājyaṃ ca rāṣṭraṃ ca sa mahātmā mahātapāḥ asmin sthāne tapas taptuṃ tāpasāñ śaraṇaṃ gataḥ", "english": "'That great-souled one of great austerity, abandoning kingdom and realm, came to this place seeking refuge among ascetics to practice tapas.'"},
+{"ref": "1.117.3", "sanskrit": "sa jātamātrān putrāṃś ca dārāṃś ca bhavatām iha pradāyopanidhiṃ rājā pāṇḍuḥ svargam ito gataḥ", "english": "'King Pāṇḍu, having entrusted his newborn sons and his wives here to your care as a trust, has departed from this place to heaven.'"},
+{"ref": "1.117.4", "sanskrit": "te parasparam āmantrya sarvabhūtahite ratāḥ pāṇḍoḥ putrān puraskṛtya nagaraṃ nāgasāhvayam", "english": "Taking leave of one another, those devoted to the welfare of all beings, placing Pāṇḍu's sons at their head, resolved to go to the city named for the elephant—Hāstinapura."},
+{"ref": "1.117.5", "sanskrit": "udāramanasaḥ siddhā gamane cakrire manaḥ bhīṣmāya pāṇḍavān dātuṃ dhṛtarāṣṭrāya caiva hi", "english": "Those noble-minded perfected ones set their minds on the journey, intending to deliver the Pāṇḍavas to Bhīṣma and to Dhṛtarāṣṭra."},
+{"ref": "1.117.6", "sanskrit": "tasminn eva kṣaṇe sarve tān ādāya pratasthire pāṇḍor dārāṃś ca putrāṃś ca śarīraṃ caiva tāpasāḥ", "english": "At that very moment all the ascetics set out, taking with them Pāṇḍu's wives, his sons, and also his body."},
+{"ref": "1.117.7", "sanskrit": "sukhinī sā purā bhūtvā satataṃ putravatsalā prapannā dīrgham adhvānaṃ saṃkṣiptaṃ tad amanyata", "english": "She who had once been happy, always tender toward her children, though she had undertaken a long journey, felt it as brief."},
+{"ref": "1.117.8", "sanskrit": "sā nadīrgheṇa kālena saṃprāptā kurujāṅgalam vardhamānapuradvāram āsasāda yaśasvinī", "english": "In no great time that glorious one reached the Kuru countryside and arrived at the gate of the city of Vardhamāna."},
+{"ref": "1.117.9", "sanskrit": "taṃ cāraṇasahasrāṇāṃ munīnām āgamaṃ tadā śrutvā nāgapure nṝṇāṃ vismayaḥ samajāyata", "english": "Hearing of the arrival of thousands of wandering bards and sages at that time, the people of Nāgapura were filled with wonder."},
+{"ref": "1.117.10", "sanskrit": "muhūrtodita āditye sarve dharmapuraskṛtāḥ sadārās tāpasān draṣṭuṃ niryayuḥ puravāsinaḥ", "english": "As the sun rose a short while later, all the city's residents, placing dharma foremost, went out with their wives to see the ascetics."},
+{"ref": "1.117.11", "sanskrit": "strīsaṃghāḥ kṣatrasaṃghāś ca yānasaṃghān samāsthitāḥ brāhmaṇaiḥ saha nirjagmur brāhmaṇānāṃ ca yoṣitaḥ", "english": "Groups of women and groups of Kṣatriyas mounted on conveyances went out together with Brahmins, and the wives of Brahmins as well."},
+{"ref": "1.117.12", "sanskrit": "tathā viṭśūdrasaṃghānāṃ mahān vyatikaro 'bhavat na kaś cid akarod īrṣyām abhavan dharmabuddhayaḥ", "english": "Likewise there was a great mingling of groups of Vaiśyas and Śūdras; no one acted with jealousy—they all came with minds turned to dharma."},
+{"ref": "1.117.13", "sanskrit": "tathā bhīṣmaḥ śāṃtanavaḥ somadatto 'tha bāhlikaḥ prajñācakṣuś ca rājarṣiḥ kṣattā ca viduraḥ svayam", "english": "So too Bhīṣma son of Śantanu, and Somadatta, and Bāhlika, the royal sage who sees with the eyes of wisdom, and the charioteer's son Vidura himself."},
+{"ref": "1.117.14", "sanskrit": "sā ca satyavatī devī kausalyā ca yaśasvinī rājadāraiḥ parivṛtā gāndhārī ca viniryayau", "english": "And the goddess Satyavatī, and the glorious Kausalyā, and Gāndhārī surrounded by the royal women—all went out."},
+{"ref": "1.117.15", "sanskrit": "dhṛtarāṣṭrasya dāyādā duryodhanapurogamāḥ bhūṣitā bhūṣaṇaiś citraiḥ śatasaṃkhyā viniryayuḥ", "english": "The heirs of Dhṛtarāṣṭra, led by Duryodhana, adorned with varied ornaments, went out numbering a hundred."},
+{"ref": "1.117.16", "sanskrit": "tān maharṣigaṇān sarvāñ śirobhir abhivādya ca upopaviviśuḥ sarve kauravyāḥ sapurohitāḥ", "english": "All the Kauravas, bowing their heads in salutation to all those groups of great seers, sat down near them together with their priests."},
+{"ref": "1.117.17", "sanskrit": "tathaiva śirasā bhūmāv abhivādya praṇamya ca upopaviviśuḥ sarve paurajānapadā api", "english": "In the same way all the city folk and country people bowed their heads to the ground in reverence and sat down nearby."},
+{"ref": "1.117.18", "sanskrit": "tam akūjam ivājñāya janaughaṃ sarvaśas tadā bhīṣmo rājyaṃ ca rāṣṭraṃ ca maharṣibhyo nyavedayat", "english": "Perceiving that multitude of people to be silent, as if mute, Bhīṣma then reported to the great seers the state of the kingdom and the realm."},
+{"ref": "1.117.19", "sanskrit": "teṣām atho vṛddhatamaḥ pratyutthāya jaṭājinī maharṣimatam ājñāya maharṣir idam abravīt", "english": "Then the eldest among them, wearing matted locks and a deerskin, rose up, and discerning the mind of the great seers, that great seer spoke thus."},
+{"ref": "1.117.20", "sanskrit": "yaḥ sa kauravyadāyādaḥ pāṇḍur nāma narādhipaḥ kāmabhogān parityajya śataśṛṅgam ito gataḥ", "english": "'He who was the Kaurava heir, the lord of men named Pāṇḍu, renouncing pleasures and enjoyments, departed from here to Śataśṛṅga.'"},
+{"ref": "1.117.21", "sanskrit": "brahmacaryavratasthasya tasya divyena hetunā sākṣād dharmād ayaṃ putras tasya jāto yudhiṣṭhiraḥ", "english": "'While he abided in the vow of celibacy, by a divine cause, Yudhiṣṭhira, this son of his, was born directly from Dharma himself.'"},
+{"ref": "1.117.22", "sanskrit": "tathemaṃ balināṃ śreṣṭhaṃ tasya rājño mahātmanaḥ mātariśvā dadau putraṃ bhīmaṃ nāma mahābalam", "english": "'Likewise, to that great-souled king, Mātariśvan—the Wind—gave this son Bhīma by name, foremost of the strong and of great might.'"},
+{"ref": "1.117.23", "sanskrit": "puruhūtād ayaṃ jajñe kuntyāṃ satyaparākramaḥ yasya kīrtir maheṣvāsān sarvān abhibhaviṣyati", "english": "'This one of true valor was born to Kuntī from Indra, the lord of many; his glory will surpass all great archers.'"},
+{"ref": "1.117.24", "sanskrit": "yau tu mādrī maheṣvāsāv asūta kurusattamau aśvibhyāṃ manujavyāghrāv imau tāv api tiṣṭhataḥ", "english": "'And these two great archers, the best of Kurus and tigers among men, whom Mādrī bore from the Aśvins—they too stand here.'"},
+{"ref": "1.117.25", "sanskrit": "caratā dharmanityena vanavāsaṃ yaśasvinā eṣa paitāmaho vaṃśaḥ pāṇḍunā punar uddhṛtaḥ", "english": "'By the glorious Pāṇḍu who dwelt in the forest, ever constant in dharma, this ancestral lineage has been raised up once more.'"},
+{"ref": "1.117.26", "sanskrit": "putrāṇāṃ janma vṛddhiṃ ca vaidikādhyayanāni ca paśyataḥ satataṃ pāṇḍoḥ śaśvat prītir avardhata", "english": "'As Pāṇḍu watched the birth, the growth, and the Vedic studies of his sons, his joy grew ever and always.'"},
+{"ref": "1.117.27", "sanskrit": "vartamānaḥ satāṃ vṛtte putralābham avāpya ca pitṛlokaṃ gataḥ pāṇḍur itaḥ saptadaśe 'hani", "english": "'Abiding in the conduct of the good, having attained the gift of sons, Pāṇḍu departed from here to the world of the ancestors on the seventeenth day.'"},
+{"ref": "1.117.28", "sanskrit": "taṃ citāgatam ājñāya vaiśvānaramukhe hutam praviṣṭā pāvakaṃ mādrī hitvā jīvitam ātmanaḥ", "english": "'Learning that he had been placed on the funeral pyre and offered to Vaiśvānara, Mādrī entered the fire, abandoning her own life.'"},
+{"ref": "1.117.29", "sanskrit": "sā gatā saha tenaiva patilokam anuvratā tasyās tasya ca yat kāryaṃ kriyatāṃ tadanantaram", "english": "'She has gone, devoted, to the world of her husband along with him. Let whatever rites are due for them both be performed forthwith.'"},
+{"ref": "1.117.30", "sanskrit": "ime tayoḥ śarīre dve sutāś ceme tayor varāḥ kriyābhir anugṛhyantāṃ saha mātrā paraṃtapāḥ", "english": "'Here are their two bodies, and here are their noble sons, scorchers of foes—let them be honored with the rites together with their mother.'"},
+{"ref": "1.117.31", "sanskrit": "pretakārye ca nirvṛtte pitṛmedhaṃ mahāyaśāḥ labhatāṃ sarvadharmajñaḥ pāṇḍuḥ kurukulodvahaḥ", "english": "'And when the funeral rites are completed, let Pāṇḍu of great glory, the upholder of the Kuru house, who knows all dharma, receive the ancestral offering.'"},
+{"ref": "1.117.32", "sanskrit": "evam uktvā kurūn sarvān kurūṇām eva paśyatām kṣaṇenāntarhitāḥ sarve cāraṇā guhyakaiḥ saha", "english": "Having spoken thus to all the Kurus, while the Kurus themselves watched, all the wandering bards together with the Guhyakas vanished in an instant."},
+{"ref": "1.117.33", "sanskrit": "gandharvanagarākāraṃ tatraivāntarhitaṃ punaḥ ṛṣisiddhagaṇaṃ dṛṣṭvā vismayaṃ te paraṃ yayuḥ", "english": "Seeing that assembly of seers and perfected ones vanish right there like a city of the Gandharvas, they were overcome with supreme wonder."},
+{"ref": "1.118.1", "sanskrit": "dhṛtarāṣṭra uvāca pāṇḍor vidura sarvāṇi pretakāryāṇi kāraya rājavad rājasiṃhasya mādryāś caiva viśeṣataḥ", "english": "Dhṛtarāṣṭra said: 'O Vidura, have all the funeral rites performed for Pāṇḍu in a manner befitting a king, for the lion among kings, and especially for Mādrī as well.'"},
+{"ref": "1.118.2", "sanskrit": "paśūn vāsāṃsi ratnāni dhanāni vividhāni ca pāṇḍoḥ prayaccha mādryāś ca yebhyo yāvac ca vāñchitam", "english": "'Distribute cattle, garments, jewels, and various wealth for Pāṇḍu and Mādrī—to whosoever wishes, as much as they desire.'"},
+{"ref": "1.118.3", "sanskrit": "yathā ca kuntī satkāraṃ kuryān mādryās tathā kuru yathā na vāyur nādityaḥ paśyetāṃ tāṃ susaṃvṛtām", "english": "'Arrange also that Kuntī performs honor to Mādrī's rites; see that she is well-protected so that neither the wind nor the sun may look upon her.'"},
+{"ref": "1.118.4", "sanskrit": "na śocyaḥ pāṇḍur anaghaḥ praśasyaḥ sa narādhipaḥ yasya pañca sutā vīrā jātāḥ surasutopamāḥ", "english": "'Sinless Pāṇḍu is not to be mourned; that lord of men is praiseworthy—five heroic sons equal to sons of the gods have been born to him.'"},
+{"ref": "1.118.5", "sanskrit": "vaiśaṃpāyana uvāca viduras taṃ tathety uktvā bhīṣmeṇa saha bhārata pāṇḍuṃ saṃskārayām āsa deśe paramasaṃvṛte", "english": "Vaiśaṃpāyana said: Vidura, having said 'so be it' to him, O Bhārata, together with Bhīṣma, performed the funerary consecration for Pāṇḍu in a most secluded spot."},
+{"ref": "1.118.6", "sanskrit": "tatas tu nagarāt tūrṇam ājyahomapuraskṛtāḥ nirhṛtāḥ pāvakā dīptāḥ pāṇḍo rājapurohitaiḥ", "english": "Then from the city, blazing fires preceded by oblations of clarified butter were swiftly brought out by Pāṇḍu's royal priests."},
+{"ref": "1.118.7", "sanskrit": "athainam ārtavair gandhair mālyaiś ca vividhair varaiḥ śibikāṃ samalaṃcakrur vāsasācchādya sarvaśaḥ", "english": "Then they adorned the bier with seasonal fragrances and various choice garlands, covering it all over with cloth."},
+{"ref": "1.118.8", "sanskrit": "tāṃ tathā śobhitāṃ mālyair vāsobhiś ca mahādhanaiḥ amātyā jñātayaś caiva suhṛdaś copatasthire", "english": "The ministers, kinsmen, and friends attended upon that bier thus adorned with garlands and with the most precious garments."}
 ]

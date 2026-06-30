@@ -38,7 +38,7 @@ translator: thothica
 
 **5.1.10**  Kṛṣṇa said: It is known to all of you how Yudhiṣṭhira was defeated at dice by the son of Subala through trickery, and how his kingdom was taken away, and how the compact was made for a further period of exile.
 
-**5.1.11**  Though capable of conquering the earth by force, and steadfast in truth, those foremost of the Bharatas, the sons of Pāṇḍu, fulfilled that severe vow — thirteen years in exile.
+**5.1.11**  Though capable of conquering the earth by force, and steadfast in truth, those foremost of the Bhāratas, the sons of Pāṇḍu, fulfilled that severe vow — thirteen years in exile.
 
 **5.1.12**  And this thirteenth year, most difficult to endure — spent unrecognized in your midst, enduring unbearable hardships — how it was passed is known to all of you.
 
@@ -318,7 +318,7 @@ translator: thothica
 
 **5.7.26**  I shall not be the ally of the Pārthas, nor indeed of Duryodhana — this is my firm resolve, having weighed Vāsudeva's decision.
 
-**5.7.27**  You are born in the Bhārata lineage, honoured by all kings; go, fight in accordance with the warrior's dharma, O bull of the Bharatas.
+**5.7.27**  You are born in the Bhārata lineage, honoured by all kings; go, fight in accordance with the warrior's dharma, O bull of the Bhāratas.
 
 **5.7.28**  Thus addressed, Duryodhana then embraced the wielder of the plough; and knowing that Kṛṣṇa had been secured away from the battle, he reckoned the victory already won.
 
@@ -348,7 +348,7 @@ translator: thothica
 
 **5.8.5**  As if distressing all creatures and making the earth tremble, he slowly rested his army and marched toward where the Pāṇḍava was.
 
-**5.8.6**  Then Duryodhana, hearing that the great warrior with his great army was approaching, ran out and honoured him in person, O Bharata.
+**5.8.6**  Then Duryodhana, hearing that the great warrior with his great army was approaching, ran out and honoured him in person, O Bhārata.
 
 **5.8.7**  Duryodhana caused to be built for his honour rest-houses adorned with jewels and well decorated, in pleasant spots along the way.
 
@@ -378,13 +378,13 @@ translator: thothica
 
 **5.8.20**  A very difficult thing has been accomplished, O king — dwelling in the uninhabited forest together with your brothers and with this Kṛṣṇa (Draupadī), O lord of kings.
 
-**5.8.21**  The terrible year of incognito living was also endured with difficulty. Where indeed is happiness for one bereft of his kingdom? Only suffering, O Bharata.
+**5.8.21**  The terrible year of incognito living was also endured with difficulty. Where indeed is happiness for one bereft of his kingdom? Only suffering, O Bhārata.
 
 **5.8.22**  From this great sorrow caused by the son of Dhṛtarāṣṭra, you shall attain happiness, O king, having slain your enemies, O scorcher of foes.
 
 **5.8.23**  The truth of the world is known to you, O great king, O lord of men; therefore, my dear, nothing caused by greed is found in you.
 
-**5.8.24**  Then the king told him of his encounter with Duryodhana — all the hospitable service he had received and the granting of the boon, O Bharata.
+**5.8.24**  Then the king told him of his encounter with Duryodhana — all the hospitable service he had received and the granting of the boon, O Bhārata.
 
 **5.8.25**  Yudhiṣṭhira said: Well done, O king! What you, O hero, promised by word to Duryodhana was done with a rejoicing heart. Yet one thing I wish to be done, may it go well with you, O lord of the earth.
 
@@ -410,11 +410,11 @@ translator: thothica
 
 **5.8.36**  For great souls encounter sufferings, O Yudhiṣṭhira; even by the gods have sufferings been encountered, O lord of the earth.
 
-**5.8.37**  It is heard, O king, that Indra, together with his wife, that great soul, the king of the gods, experienced great suffering, O Bharata.
+**5.8.37**  It is heard, O king, that Indra, together with his wife, that great soul, the king of the gods, experienced great suffering, O Bhārata.
 
 **5.9.1**  Yudhiṣṭhira said: How did Indra, together with his wife, that great soul, O king of kings, come to experience extreme and terrible suffering? I wish to know this.
 
-**5.9.2**  Śalya said: Hear, O king, this ancient history of former times — how Indra together with his wife came to experience suffering, O Bharata.
+**5.9.2**  Śalya said: Hear, O king, this ancient history of former times — how Indra together with his wife came to experience suffering, O Bhārata.
 
 **5.9.3**  Tvaṣṭṛ was a lord of creatures (Prajāpati), the foremost of the gods, of great austerity. He created a son named Triśiras (Three-headed) out of enmity toward Indra.
 
@@ -428,7 +428,7 @@ translator: thothica
 
 **5.9.8**  'How can he be made to attach himself to pleasures and not perform great austerity? As Triśiras grows, he might devour all three worlds.'
 
-**5.9.9**  Thinking in many ways, that wise one, O bull of the Bharatas, commanded the apsaras (celestial nymphs) to go and tempt the son of Tvaṣṭṛ.
+**5.9.9**  Thinking in many ways, that wise one, O bull of the Bhāratas, commanded the apsaras (celestial nymphs) to go and tempt the son of Tvaṣṭṛ.
 
 **5.9.10**  'So that Triśiras may be deeply attached to the pleasures of desire, quickly do this, go forth, seduce him — do not delay!'
 
@@ -486,7 +486,7 @@ translator: thothica
 
 **5.9.37**  From the mouth with which he had gazed upon all directions as if drinking them in, O king, tittira birds flew forth from his mouth, O Pāṇḍava.
 
-**5.9.38**  And from the mouth of Triśiras that had drunk liquor, kalaviṅka (sparrow) birds flew forth, O bull of the Bharatas.
+**5.9.38**  And from the mouth of Triśiras that had drunk liquor, kalaviṅka (sparrow) birds flew forth, O bull of the Bhāratas.
 
 **5.9.39**  Then, with those heads cut off, Maghavan (Indra) was free from fever and went joyfully to the three heavens; the carpenter too went to his own home.
 
@@ -508,7 +508,7 @@ translator: thothica
 
 **5.9.48**  As Vṛtra yawned and his mouth gaped open, the slayer of Bala contracted his own limbs and slipped out. From that time onward, the yawn has dwelt among living creatures in the world.
 
-**5.9.49**  All the gods rejoiced on seeing Śakra come out. Then the terrible battle between Vṛtra and Vāsava began again, both furious, lasting a long while, O bull of the Bharatas.
+**5.9.49**  All the gods rejoiced on seeing Śakra come out. Then the terrible battle between Vṛtra and Vāsava began again, both furious, lasting a long while, O bull of the Bhāratas.
 
 **5.9.50**  When Vṛtra, empowered by the strength of Tvaṣṭṛ's austerities, grew mightier in battle, the wise Śakra then turned back.
 
@@ -576,7 +576,7 @@ translator: thothica
 
 **5.10.30**  '— under these conditions may I be slain by Śakra together with the gods, O foremost of brahmins. Such a peace with Śakra pleases me forever.'
 
-**5.10.31**  'So be it,' the sages said to him, O bull of the Bharatas. With peace thus established, Vṛtra became joyful.
+**5.10.31**  'So be it,' the sages said to him, O bull of the Bhāratas. With peace thus established, Vṛtra became joyful.
 
 **5.10.32**  But Śakra, the slayer of Bala and Vṛtra, was ever vigilant and filled with resentment, constantly thinking of means for killing Vṛtra, perpetually anxious and watching for an opening.
 
@@ -882,7 +882,7 @@ translator: thothica
 
 **5.16.10**  Fire then entered the waters — oceans, lakes, and ponds alike — and, concealed, came to that lake where the hundred-sacrificer lay hidden.
 
-**5.16.11**  Then, searching through the lotus plants there, O bull of the Bharatas, Agni perceived the lord of the gods standing concealed within the lotus stalks.
+**5.16.11**  Then, searching through the lotus plants there, O bull of the Bhāratas, Agni perceived the lord of the gods standing concealed within the lotus stalks.
 
 **5.16.12**  Coming back swiftly, he reported to Bṛhaspati that the lord was abiding within the lotus filaments, his body reduced to the size of an atom.
 
@@ -1010,7 +1010,7 @@ translator: thothica
 
 **5.18.20**  He shall know no fear born of enemies, nor shall he be without sons; he shall meet with no calamity whatsoever, shall gain long life, shall attain victory everywhere, and shall never suffer defeat.
 
-**5.18.21**  Vaiśaṃpāyana said: Thus consoled by Śalya, O bull among Bharatas, the king — foremost of those who uphold righteousness — honoured Śalya according to proper rite.
+**5.18.21**  Vaiśaṃpāyana said: Thus consoled by Śalya, O bull among Bhāratas, the king — foremost of those who uphold righteousness — honoured Śalya according to proper rite.
 
 **5.18.22**  Having heard Śalya's words, the mighty-armed son of Kuntī, Yudhiṣṭhira, replied to the king of the Madras with these words.
 
@@ -1070,7 +1070,7 @@ translator: thothica
 
 **5.19.25**  And the five Kekaya kings, those tiger-like men and full brothers, gladdening the Kaurava chief, rushed forward with one akṣauhiṇī.
 
-**5.19.26**  From here and there, three other armies of all those great earth-lords assembled, O bull among Bharatas.
+**5.19.26**  From here and there, three other armies of all those great earth-lords assembled, O bull among Bhāratas.
 
 **5.19.27**  Thus eleven complete armies of Duryodhana, eager to fight the sons of Kuntī, were crowded with varied banners.
 
@@ -1244,7 +1244,7 @@ translator: thothica
 
 **5.22.38**  Having assembled the Pāṇḍavas and the Sṛñjayas, inquire after the welfare of Janārdana, Yuyudhāna, and Virāṭa in my name; and likewise of all the five sons of Draupadī.
 
-**5.22.39**  Whatever you deem timely there, on behalf of our opponents, and whatever is beneficial for the Bharatas — all that speak out, O Sañjaya, in the assembly of kings, so that no one may faint and that there be no war.
+**5.22.39**  Whatever you deem timely there, on behalf of our opponents, and whatever is beneficial for the Bhāratas — all that speak out, O Sañjaya, in the assembly of kings, so that no one may faint and that there be no war.
 
 **5.23.1**  Vaiśaṃpāyana said: Having heard the words of King Dhṛtarāṣṭra, Sañjaya went to Upaplavya to see the Pāṇḍavas of immeasurable might.
 
@@ -1254,7 +1254,7 @@ translator: thothica
 
 **5.23.4**  'The aged king Dhṛtarāṣṭra, son of Ambikā, that wise one, inquires after your welfare. Is Bhīma, foremost of the Pāṇḍavas, in good health? And Dhanañjaya? And the two sons of Mādrī?'
 
-**5.23.5**  'Is Kṛṣṇa Draupadī, the royal princess, that one firm in her vow, wife of heroes, together with her sons, that high-minded lady, well? And wherever you desire, O Bharata, do you obtain your cherished wishes? May you be blessed.'
+**5.23.5**  'Is Kṛṣṇa Draupadī, the royal princess, that one firm in her vow, wife of heroes, together with her sons, that high-minded lady, well? And wherever you desire, O Bhārata, do you obtain your cherished wishes? May you be blessed.'
 
 **5.23.6**  Yudhiṣṭhira said: 'O son of Gavalgaṇa, O Sañjaya, welcome to you. I greet you with a glad heart, O charioteer. I declare that I am well; and together with my brothers I am in good health, O wise one.'
 
@@ -1272,7 +1272,7 @@ translator: thothica
 
 **5.23.13**  'Is the son of a vaishya woman, that most wise royal son Yuyutsu, in good health, O dear one? Is Karṇa, the minister, in good health, O dear one — whose Suyodhana is the dull and obedient tool?'
 
-**5.23.14**  'The aged women, the mothers of the Bharatas, the ladies of the kitchen, the wives of servants, O charioteer — the daughters-in-law, the sons, the nephews, the sisters, and the daughters' sons — are all of these also well?'
+**5.23.14**  'The aged women, the mothers of the Bhāratas, the ladies of the kitchen, the wives of servants, O charioteer — the daughters-in-law, the sons, the nephews, the sisters, and the daughters' sons — are all of these also well?'
 
 **5.23.15**  'Does the king conduct himself toward the brahmins duly, as formerly, O dear one? Does the son of Dhṛtarāṣṭra fail to withhold the shares belonging to me for the twice-born ones, O Sañjaya?'
 
@@ -1404,7 +1404,7 @@ translator: thothica
 
 **5.26.27**  You know the suffering that has been inflicted upon us; honoring you, O Sañjaya, I would endure it. And what the Kauravas did to us in the past — the treatment we received from the son of Dhṛtarāṣṭra — that too I could bear.
 
-**5.26.28**  Even now let all that continue as it is there; I shall pursue peace as you say. Let Indraprastha be my kingdom alone — let Suyodhana, foremost of the Bharatas, grant that much.
+**5.26.28**  Even now let all that continue as it is there; I shall pursue peace as you say. Let Indraprastha be my kingdom alone — let Suyodhana, foremost of the Bhāratas, grant that much.
 
 **5.27.1**  Sañjaya said: Your conduct, O Pāṇḍava, is ever fixed in dharma; it is heard of and seen in the world, O Pārtha. Life is a great torrent and also impermanent — perceive this, O Pāṇḍava; do not bring yourself to ruin.
 
@@ -1626,7 +1626,7 @@ translator: thothica
 
 **5.30.18**  He who is unrivaled at dicing and gambling, of concealed stratagems, skilled at playing with dice, he who is unconquerable in the battle of dice — that Citrasena should be asked of his welfare, dear friend.
 
-**5.30.19**  He whose constant desire has ever been that there be no other way for the Bharatas than peace — that bull of the Bāhlīkas, noble-minded, may he greet me with affection as he did before.
+**5.30.19**  He whose constant desire has ever been that there be no other way for the Bhāratas than peace — that bull of the Bāhlīkas, noble-minded, may he greet me with affection as he did before.
 
 **5.30.20**  Endowed with many excellent virtues, possessed of wisdom and never harsh, he who always bears anger out of affection — that Somadatta is worthy of reverence in my estimation.
 
@@ -1682,7 +1682,7 @@ translator: thothica
 
 **5.30.46**  This further message, O Sañjaya, you should convey to Suyodhana, the son of Dhṛtarāṣṭra: "The desire that torments your heart in your body — I shall instruct the Kurus without a rival."
 
-**5.30.47**  There is no expedient in this matter. We would not be such as to please you. Either give me Indra's city as my own, or fight — O foremost of the Bharatas, O hero.
+**5.30.47**  There is no expedient in this matter. We would not be such as to please you. Either give me Indra's city as my own, or fight — O foremost of the Bhāratas, O hero.
 
 **5.31.1**  Yudhiṣṭhira said: The Creator brings under his sway, O Sañjaya, both the virtuous and the wicked, both the young and the old, both the weak and the strong.
 
@@ -1698,7 +1698,7 @@ translator: thothica
 
 **5.31.7**  All of this together is not enough for any single one, O Sañjaya. Let us live united, dear one — let us not fall into the power of our enemies.
 
-**5.31.8**  Likewise pay reverent salutation with your head to Bhīṣma, the son of Shantanu, the grandsire of the Bharatas, while announcing my name.
+**5.31.8**  Likewise pay reverent salutation with your head to Bhīṣma, the son of Shantanu, the grandsire of the Bhāratas, while announcing my name.
 
 **5.31.9**  Having paid reverence, then say to our grandsire: "By you the lineage of Shantanu, which had sunk down, has been raised up again."
 
@@ -1726,7 +1726,7 @@ translator: thothica
 
 **5.31.21**  "Let brother seek out brother, let the father be united with his son. Let the Pāñcālas come smiling together with the Kurus."
 
-**5.31.22**  "I desire that we may see the Kurus and Pāñcālas unharmed. Let all of us, dear one, be of good cheer and be at peace, O bull of the Bharatas."
+**5.31.22**  "I desire that we may see the Kurus and Pāñcālas unharmed. Let all of us, dear one, be of good cheer and be at peace, O bull of the Bhāratas."
 
 **5.31.23**  I am indeed ready for peace and equally for war, O Sañjaya. I am also ready for righteousness and for gain, for mildness and for severity.
 
@@ -1750,7 +1750,7 @@ translator: thothica
 
 **5.32.10**  Sañjaya said: The son of Pāṇḍu is well together with his ministers. And furthermore, what you previously had in your mind — he who carries out righteousness and gain with purity, who is noble-minded, well-versed in scripture, of far-sighted wisdom, and possessed of good character —
 
-**5.32.11**  — the highest virtue of the Pāṇḍava is his freedom from cruelty; righteousness is rated by him higher than the accumulation of wealth. The son of Pṛthā does not accommodate what is dear and pleasant when it is devoid of righteousness — know this of him, O Bharata.
+**5.32.11**  — the highest virtue of the Pāṇḍava is his freedom from cruelty; righteousness is rated by him higher than the accumulation of wealth. The son of Pṛthā does not accommodate what is dear and pleasant when it is devoid of righteousness — know this of him, O Bhārata.
 
 **5.32.12**  A man acts when impelled by another, like a wooden puppet threaded on a string. Seeing this restraint of the Pāṇḍava, I consider fate to be superior to human action.
 
@@ -1760,7 +1760,7 @@ translator: thothica
 
 **5.32.15**  Understand the action of your own limbs, O king — that which is devoid of righteousness, gain, and noble conduct. You have incurred reproach here, O king; do not let sin also cling to you in the next world.
 
-**5.32.16**  You, subjugated by your sons, now hope for doubtful gain without them. And a great cry of unrighteousness spreads through the earth — this conduct is not worthy of you, O foremost of the Bharatas.
+**5.32.16**  You, subjugated by your sons, now hope for doubtful gain without them. And a great cry of unrighteousness spreads through the earth — this conduct is not worthy of you, O foremost of the Bhāratas.
 
 **5.32.17**  One of inferior understanding, of low birth, cruel, nursing long enmity, unsteady in the knowledge of the warrior's art — a man of such qualities cannot cross over misfortune, and he who is of feeble valor becomes ungoverned.
 
@@ -1830,7 +1830,7 @@ translator: thothica
 
 **5.33.20**  He whose active intelligence follows righteousness and worldly gain, and who chooses wealth through proper desire — he is truly called a wise man.
 
-**5.33.21**  The wise undertake tasks according to their ability and execute them according to their ability; they despise nothing, O bull of the Bharatas.
+**5.33.21**  The wise undertake tasks according to their ability and execute them according to their ability; they despise nothing, O bull of the Bhāratas.
 
 **5.33.22**  He comprehends quickly, listens patiently, and having understood the matter pursues it free from selfish desire; he does not interfere in another's affairs unbidden — this is the foremost wisdom of a wise man.
 
@@ -1838,7 +1838,7 @@ translator: thothica
 
 **5.33.24**  He who sets out only after deliberating fully, who does not halt midway in an undertaking, who wastes no time and is master of himself — he is truly called a wise man.
 
-**5.33.25**  The wise delight in noble actions, perform deeds that bring prosperity, and do not envy what is beneficial to others, O bull of the Bharatas.
+**5.33.25**  The wise delight in noble actions, perform deeds that bring prosperity, and do not envy what is beneficial to others, O bull of the Bhāratas.
 
 **5.33.26**  He who does not exult at personal honour and is not distressed by dishonour, remaining unshakeable like a deep pool of the Gaṅgā — he is called a wise man.
 
@@ -1856,7 +1856,7 @@ translator: thothica
 
 **5.33.33**  He who makes a friend of an enemy, who hates and injures a friend, and who undertakes wicked actions — they call him a man of foolish mind.
 
-**5.33.34**  He who entangles his tasks in endless complications, who hesitates about everything, and who takes a long time over what should be done quickly — he is a fool, O bull of the Bharatas.
+**5.33.34**  He who entangles his tasks in endless complications, who hesitates about everything, and who takes a long time over what should be done quickly — he is a fool, O bull of the Bhāratas.
 
 **5.33.35**  He who enters without being invited, speaks at length without being asked, and places trust in the vigilant — such a fool is the lowest of men.
 
@@ -1898,7 +1898,7 @@ translator: thothica
 
 **5.33.54**  With regard to wealth lawfully acquired, two transgressions should be understood: giving it to an unworthy recipient, and withholding it from a worthy one.
 
-**5.33.55**  O bull of the Bharatas, three standards are spoken of for men; those who know the Vedas understand them as the inferior, the middling, and the best.
+**5.33.55**  O bull of the Bhāratas, three standards are spoken of for men; those who know the Vedas understand them as the inferior, the middling, and the best.
 
 **5.33.56**  O king, men are of three kinds — superior, inferior, and middling; one should employ them properly in tasks of three corresponding kinds.
 
@@ -1912,7 +1912,7 @@ translator: thothica
 
 **5.33.61**  They are: the resolve of the gods, the majesty of the wise, the humility of those accomplished in knowledge, and the destruction of those who commit wicked deeds.
 
-**5.33.62**  O bull of the Bharatas, five fires must be tended by a man with great care: father, mother, fire, the self, and the teacher.
+**5.33.62**  O bull of the Bhāratas, five fires must be tended by a man with great care: father, mother, fire, the self, and the teacher.
 
 **5.33.63**  He who honours these five alone attains glory in the world: the gods, the ancestors, men, mendicants, and guests as the fifth.
 
@@ -1944,7 +1944,7 @@ translator: thothica
 
 **5.33.77**  He does not think of them in times of duty, and when asked he responds with envy. A wise man, having understood these faults with his intelligence, should abandon them.
 
-**5.33.78**  O Bharata, these eight are the fresh butter of joy — they are seen to be present in life, and each one brings great happiness.
+**5.33.78**  O Bhārata, these eight are the fresh butter of joy — they are seen to be present in life, and each one brings great happiness.
 
 **5.33.79**  The coming together with friends, the great arrival of wealth, the embrace of a son, and the union in conjugal love.
 
@@ -2008,7 +2008,7 @@ translator: thothica
 
 **5.34.5**  Therefore, O king, wishing welfare for the Kurus, I shall speak to you words that are beneficial and righteous — hear them from me as I speak.
 
-**5.34.6**  O Bharata, those deeds which, though falsely undertaken, might succeed without application of the proper means — do not set your mind upon them.
+**5.34.6**  O Bhārata, those deeds which, though falsely undertaken, might succeed without application of the proper means — do not set your mind upon them.
 
 **5.34.7**  Likewise, O king, a deed ordained by application of means may still not succeed; the intelligent man should not weary his mind over that either.
 
@@ -2090,7 +2090,7 @@ translator: thothica
 
 **5.34.46**  Character is foremost in a man; for one in whom it perishes here, there is no use for him in life, nor in wealth, nor in kinsmen.
 
-**5.34.47**  For the wealthy the highest food is meat; for those of middling means the best is dairy produce; for the destitute, O bull of the Bharatas, salt is what tops their meal.
+**5.34.47**  For the wealthy the highest food is meat; for those of middling means the best is dairy produce; for the destitute, O bull of the Bhāratas, salt is what tops their meal.
 
 **5.34.48**  The poor always eat food that is in fact more excellent; for hunger produces sweetness, and that sweetness is very hard to obtain among the rich.
 
@@ -2136,7 +2136,7 @@ translator: thothica
 
 **5.34.69**  Freedom from envy, straightforwardness, purity, contentment, pleasant speech, self-restraint, truthfulness, and ease of conduct — these do not belong to the evil-natured.
 
-**5.34.70**  Self-knowledge, ease of conduct, forbearance, constant adherence to duty, guarded speech, and generosity — O Bharata, these are not found among the lowest.
+**5.34.70**  Self-knowledge, ease of conduct, forbearance, constant adherence to duty, guarded speech, and generosity — O Bhārata, these are not found among the lowest.
 
 **5.34.71**  The ignorant injure the wise through abuse and slander; the speaker acquires sin, while the one who forgives is set free.
 
@@ -2156,7 +2156,7 @@ translator: thothica
 
 **5.34.79**  When the intellect has become turbid and destruction is imminent, wrong policy, wearing the appearance of right policy, does not depart from the heart.
 
-**5.34.80**  Such, O Bharata, is the understanding that has seized you — through hostility to your sons, the Pāṇḍavas — and you do not perceive it.
+**5.34.80**  Such, O Bhārata, is the understanding that has seized you — through hostility to your sons, the Pāṇḍavas — and you do not perceive it.
 
 **5.34.81**  O Dhṛtarāṣṭra, let Yudhiṣṭhira — who is endowed with kingly qualities and could be king of all three worlds — be your pupil and rule under your guidance.
 
@@ -2292,11 +2292,11 @@ translator: thothica
 
 **5.35.64**  Three kinds of men gather the golden flowers of the earth: the brave, the learned, and one who knows how to serve.
 
-**5.35.65**  Deeds of intellect are the highest, O Bharata; deeds of the arms are middling; those of the legs are the lowest, being akin to burden-bearing.
+**5.35.65**  Deeds of intellect are the highest, O Bhārata; deeds of the arms are middling; those of the legs are the lowest, being akin to burden-bearing.
 
 **5.35.66**  Having placed sovereignty in the foolish Duryodhana, Śakuni, Duḥśāsana, and Karṇa, how do you seek prosperity?
 
-**5.35.67**  The Pāṇḍavas, O bull of the Bharatas, are endowed with every virtue and conduct themselves toward you as toward a father; conduct yourself toward them as toward sons.
+**5.35.67**  The Pāṇḍavas, O bull of the Bhāratas, are endowed with every virtue and conduct themselves toward you as toward a father; conduct yourself toward them as toward sons.
 
 **5.36.1**  Vidura said: On this point they cite this ancient legend — the dialogue between Atreya and the Sādhyas, as we have heard it.
 
@@ -2350,7 +2350,7 @@ translator: thothica
 
 **5.36.26**  By destruction of the property of gods, by seizure of priestly wealth, and by transgression against Brahmins, families fall into the state of non-families.
 
-**5.36.27**  By disrespect toward Brahmins, by slander of them, O Bharata, and by misappropriation of deposits entrusted to one's care, families fall into the state of non-families.
+**5.36.27**  By disrespect toward Brahmins, by slander of them, O Bhārata, and by misappropriation of deposits entrusted to one's care, families fall into the state of non-families.
 
 **5.36.28**  Families well endowed with cattle, men, and horses do not attain the rank of great families if they are deficient in right conduct.
 
@@ -2412,7 +2412,7 @@ translator: thothica
 
 **5.36.57**  Threads, though individually slender and always extended, when they are many, because of their multitude bear many hardships — this is the simile of the righteous.
 
-**5.36.58**  Kindred separated from one another smolder and die out; united they blaze — like firebrands, O Dhṛtarāṣṭra, O bull of the Bharatas.
+**5.36.58**  Kindred separated from one another smolder and die out; united they blaze — like firebrands, O Dhṛtarāṣṭra, O bull of the Bhāratas.
 
 **5.36.59**  Those who are violent toward Brahmins, women, kinsmen, and cattle — they fall, O Dhṛtarāṣṭra, like a ripe fruit from its stalk.
 
@@ -2462,7 +2462,7 @@ translator: thothica
 
 **5.37.10**  These sharp weapons cut short the lifespans of embodied beings — these things kill men, not death itself — may it be well with you.
 
-**5.37.11**  He who violates the wife of one who trusts him, he who sleeps with his guru's wife, the brahmin who has married a low-caste woman, and he who is addicted to drink, O Bharata —
+**5.37.11**  He who violates the wife of one who trusts him, he who sleeps with his guru's wife, the brahmin who has married a low-caste woman, and he who is addicted to drink, O Bhārata —
 
 **5.37.12**  — and he who kills one who has sought refuge — all these are equal to slayers of brahmins. The Vedic teaching declares that expiation must be performed by those who associate with such persons.
 
@@ -2542,7 +2542,7 @@ translator: thothica
 
 **5.37.50**  What is the innate strength of a man, O king, descended from father and grandfather — that is called the strength of noble birth and is remembered as the fourth strength.
 
-**5.37.51**  But that by which all these are gathered together, O Bharata — that which is the best of all strengths — is called the strength of wisdom.
+**5.37.51**  But that by which all these are gathered together, O Bhārata — that which is the best of all strengths — is called the strength of wisdom.
 
 **5.37.52**  When a man is capable of doing great harm to another man, having incurred his enmity, one should not take comfort saying 'I am far away.'
 
@@ -2550,7 +2550,7 @@ translator: thothica
 
 **5.37.54**  For a creature struck by the arrow of wisdom, there are no healers, no medicines, no oblation-mantras, no auspicious rites, no Atharvavedic remedies, not even highly perfected antidotes.
 
-**5.37.55**  A serpent, fire, a lion, and a son of good family, O Bharata — none of these should be treated with contempt by a man, for all of them are of exceeding power.
+**5.37.55**  A serpent, fire, a lion, and a son of good family, O Bhārata — none of these should be treated with contempt by a man, for all of them are of exceeding power.
 
 **5.37.56**  Fire, that great power in the world, lies hidden in wood and does not consume that wood as long as it is not kindled by others.
 
@@ -2622,7 +2622,7 @@ translator: thothica
 
 **5.38.30**  Intellect alone does not bring wealth, nor does dullness alone lead to poverty; the wise man understands the cyclic turns of the world's affairs — others do not.
 
-**5.38.31**  A fool always disregards those great in learning, character, and age, those great in wisdom, and those great in wealth and lineage, O Bharata.
+**5.38.31**  A fool always disregards those great in learning, character, and age, those great in wisdom, and those great in wealth and lineage, O Bhārata.
 
 **5.38.32**  Misfortunes swiftly come to him who behaves ignobly, who is unwise, envious, unrighteous, foul-tongued, and wrathful.
 
@@ -2636,27 +2636,27 @@ translator: thothica
 
 **5.38.37**  He who, being himself at fault, angers blameless members of his own household, does not sleep in peace at night — like one whose house contains a serpent.
 
-**5.38.38**  Those whose enmity would threaten one's prosperity and security, O Bharata — one should always propitiate them as one propitiates the gods.
+**5.38.38**  Those whose enmity would threaten one's prosperity and security, O Bhārata — one should always propitiate them as one propitiates the gods.
 
 **5.38.39**  Wealth that is entrusted to women, wealth placed in the hands of those newly risen, and wealth dependent on the ignoble — all such wealth is in a state of uncertainty.
 
 **5.38.40**  Where a woman rules, where a gambler rules, where a child gives commands — those lands sink helplessly, like stones in a river.
 
-**5.38.41**  Those who are devoted to essential purposes and not to outward distinctions, O Bharata — those I consider truly wise; for distinctions are the province of attachment.
+**5.38.41**  Those who are devoted to essential purposes and not to outward distinctions, O Bhārata — those I consider truly wise; for distinctions are the province of attachment.
 
 **5.38.42**  The man whom gamblers praise, whom wandering bards praise, whom prostitutes praise — such a man does not truly live.
 
-**5.38.43**  Having abandoned those supreme archers, the Pāṇḍavas of boundless might, you have placed the great sovereignty of the Bharatas in Duryodhana's hands.
+**5.38.43**  Having abandoned those supreme archers, the Pāṇḍavas of boundless might, you have placed the great sovereignty of the Bhāratas in Duryodhana's hands.
 
 **5.38.44**  You will very soon see him fallen from that sovereignty — him who is stupefied by the pride of power — just as Bali was cast down from the three worlds.
 
 **5.39.1**  Dhṛtarāṣṭra said: This man is not his own master in prosperity or adversity; like a wooden doll strung on threads, he is subject to the ordainer's decree of fate. Therefore, speak — I am attentive, all ears.
 
-**5.39.2**  Vidura said: Even Bṛhaspati, if he speaks at the wrong moment, receives only contempt for his wisdom and disrespect, O Bharata.
+**5.39.2**  Vidura said: Even Bṛhaspati, if he speaks at the wrong moment, receives only contempt for his wisdom and disrespect, O Bhārata.
 
 **5.39.3**  One person becomes dear through giving, another through pleasant speech, another through the strength of counsel and fundamental support; he who is dear in that last way is truly dear.
 
-**5.39.4**  One who is disliked does not appear virtuous, intelligent, or learned; to one who is loved, auspicious deeds are attributed; to one who is disliked, evil ones, O Bharata.
+**5.39.4**  One who is disliked does not appear virtuous, intelligent, or learned; to one who is loved, auspicious deeds are attributed; to one who is disliked, evil ones, O Bhārata.
 
 **5.39.5**  That is not truly a loss, O great king, which brings growth in its wake; what should be regarded as true loss here is that which, once suffered, destroys much more.
 
@@ -2682,7 +2682,7 @@ translator: thothica
 
 **5.39.16**  Kinsmen should be nurtured by those who desire their own welfare and the growth of their family, O lord of kings; therefore conduct yourself well.
 
-**5.39.17**  By honoring your kinsmen you will be united with what is best, O king; even kinsmen who are lacking in virtue must be protected, O bull among the Bharatas.
+**5.39.17**  By honoring your kinsmen you will be united with what is best, O king; even kinsmen who are lacking in virtue must be protected, O bull among the Bhāratas.
 
 **5.39.18**  How much more so then, when they are virtuous and yearn for your grace? Show grace to the afflicted Pāṇḍavas, O lord of the people.
 
@@ -2690,7 +2690,7 @@ translator: thothica
 
 **5.39.20**  For you, as an elder, the protection of your sons is your duty, dear one; and by me too what is beneficial must be spoken — know me to be one who desires your good.
 
-**5.39.21**  Conflict with kinsmen should not be made by one who desires prosperity, dear one; pleasures are to be enjoyed together with one's kinsmen, O bull of the Bharatas.
+**5.39.21**  Conflict with kinsmen should not be made by one who desires prosperity, dear one; pleasures are to be enjoyed together with one's kinsmen, O bull of the Bhāratas.
 
 **5.39.22**  Eating together, conversing together, and mutual affection — these are the things to be done with kinsmen; conflict with them should never occur under any circumstances.
 
@@ -2808,7 +2808,7 @@ translator: thothica
 
 **5.40.9**  A she-goat, sandalwood, a lute, a mirror, honey and ghee, poison, an udumbara fruit, a conch shell, gold, a navel piece, and yellow pigment —
 
-**5.40.10**  — these auspicious items ought to be kept in the house, said Manu, O Bharata, for the worship of gods and brahmins, and for the reception of guests.
+**5.40.10**  — these auspicious items ought to be kept in the house, said Manu, O Bhārata, for the worship of gods and brahmins, and for the reception of guests.
 
 **5.40.11**  And this supreme counsel I declare to you, the most meritorious and distinguished of teachings, O dear one: Never abandon dharma — not for desire, not for fear, not for greed, not even for the sake of your own life.
 
@@ -2826,7 +2826,7 @@ translator: thothica
 
 **5.40.18**  If you are able to hear all this counsel and act accordingly, you will attain supreme glory in the world of the living; and there will be no fear for you in the next world, nor in this one.
 
-**5.40.19**  The self is a river of sacred fords, O Bharata — its waters are truth, its banks are fortitude, its waves are self-restraint. One who bathes in it, performing virtuous deeds, is purified. For the self is always holy water itself.
+**5.40.19**  The self is a river of sacred fords, O Bhārata — its waters are truth, its banks are fortitude, its waves are self-restraint. One who bathes in it, performing virtuous deeds, is purified. For the self is always holy water itself.
 
 **5.40.20**  Making a boat of steadfastness, cross the river whose waters are the five senses and whose crocodiles are desire and anger — cross the difficult straits of rebirth.
 
@@ -2852,7 +2852,7 @@ translator: thothica
 
 **5.41.1**  Dhṛtarāṣṭra said: If there is anything, O Vidura, that you have left unsaid, tell me who am eager to hear. You speak of many wondrous things.
 
-**5.41.2**  Vidura said: O Dhṛtarāṣṭra, the ancient and eternal youth Sanatsujata declared, O Bharata, that there is no death.
+**5.41.2**  Vidura said: O Dhṛtarāṣṭra, the ancient and eternal youth Sanatsujata declared, O Bhārata, that there is no death.
 
 **5.41.3**  He, the foremost among all the wise, will expound to you all the secret and the manifest teachings that reside in the heart, O great king.
 
@@ -2864,7 +2864,7 @@ translator: thothica
 
 **5.41.7**  Dhṛtarāṣṭra said: Tell me, O Vidura, of that ancient and eternal one. How can a meeting with him happen right here through this body?
 
-**5.41.8**  Vaiśaṃpāyana said: Vidura meditated upon that sage of sharpened vows; and that sage, knowing he had been thought of, revealed himself, O Bharata.
+**5.41.8**  Vaiśaṃpāyana said: Vidura meditated upon that sage of sharpened vows; and that sage, knowing he had been thought of, revealed himself, O Bhārata.
 
 **5.41.9**  Vidura received him with the rites prescribed by the scriptures. When the sage was comfortably seated and rested, Vidura spoke to him.
 
@@ -2976,7 +2976,7 @@ translator: thothica
 
 **5.43.20**  One who exists with things given up and does not use them through desire, who is not diminished in actions on that account — like a student in mind — such a man who is endowed with all these qualities, even if he possesses wealth, would be so.
 
-**5.43.21**  Vigilance has eight faults that should be abandoned: from the five senses and from the mind, O Bharata, and from past and future — one freed from these becomes happy.
+**5.43.21**  Vigilance has eight faults that should be abandoned: from the five senses and from the mind, O Bhārata, and from past and future — one freed from these becomes happy.
 
 **5.43.22**  That which is freed from these faults and endowed with these qualities — this is the complete and fully abundant austerity alone, about which you ask me, O king. What more do you wish to hear?
 
@@ -3018,7 +3018,7 @@ translator: thothica
 
 **5.44.4**  Sanatsujata said: Those who conquer desires in this world, who endure seeking the brahmic state — they extract the self from the bodies here, established in pure being, like the reed from the munja grass.
 
-**5.44.5**  The father and mother make this body, O Bharata. The teacher-instructor gives birth to a true birth — that birth is real, that birth is ageless and immortal.
+**5.44.5**  The father and mother make this body, O Bhārata. The teacher-instructor gives birth to a true birth — that birth is real, that birth is ageless and immortal.
 
 **5.44.6**  Those who enter here into the womb of the teacher, becoming as an embryo and practicing brahmacharya — they become makers of scripture in this very world; casting off the body, they attain the supreme yoga.
 
@@ -3108,7 +3108,7 @@ translator: thothica
 
 **5.45.25**  I alone am your mother; I am your father; I am your son again. I am the Self of all — both what does not exist and what does exist.
 
-**5.45.26**  I am the aged grandfather, the father, and the son, O Bharata. You all dwell in my Self — yet you are not mine, nor am I yours.
+**5.45.26**  I am the aged grandfather, the father, and the son, O Bhārata. You all dwell in my Self — yet you are not mine, nor am I yours.
 
 **5.45.27**  The Self alone is my abode; the Self is my birth. I am declared by the Vedas, established in the ageless one.
 
@@ -3126,7 +3126,7 @@ translator: thothica
 
 **5.46.6**  Bhīṣma, Droṇa, Kṛpa, Śalya, Kṛtavarmā, Jayadratha, Aśvatthāmā, Vikarṇa, Somadatta, and Bahlika —
 
-**5.46.7**  And the greatly wise Vidura, and Yuyutsu the great warrior, and all those assembled heroes, the kings — placing Dhṛtarāṣṭra in front, they entered that auspicious assembly, O bull of the Bharatas.
+**5.46.7**  And the greatly wise Vidura, and Yuyutsu the great warrior, and all those assembled heroes, the kings — placing Dhṛtarāṣṭra in front, they entered that auspicious assembly, O bull of the Bhāratas.
 
 **5.46.8**  Duḥśāsana, Citrasena, Śakuni the son of Subala, Durmukha, Duhsaha, Karṇa, Ulūka, and Viviṃśati —
 
@@ -3136,7 +3136,7 @@ translator: thothica
 
 **5.46.11**  Those great archers, splendid in assembly, having entered, took their places on the most worthy seats, resplendent as the sun.
 
-**5.46.12**  When all those kings were seated on their thrones, O Bharata, the doorkeeper announced that the charioteer's son had arrived.
+**5.46.12**  When all those kings were seated on their thrones, O Bhārata, the doorkeeper announced that the charioteer's son had arrived.
 
 **5.46.13**  That chariot comes which went to the Pāṇḍavas on our behalf; the envoy has returned quickly, drawn by excellent Sindhu horses.
 
@@ -3376,7 +3376,7 @@ translator: thothica
 
 **5.48.11**  Then, when a terrible fear had arisen for the heavenly ones in the battle between gods and demons, he besought the great-souled Nara and Nārāyaṇa for a boon.
 
-**5.48.12**  Those two said, 'Choose.' Then, O best of the Bharatas, Śakra spoke to those two: 'Let your aid be given to us.'
+**5.48.12**  Those two said, 'Choose.' Then, O best of the Bhāratas, Śakra spoke to those two: 'Let your aid be given to us.'
 
 **5.48.13**  Then those two said to Indra, 'We shall do whatever you wish.' Together with them, Indra conquered the Daityas and Dānavas.
 
@@ -3406,7 +3406,7 @@ translator: thothica
 
 **5.48.26**  If you do not accept this counsel, you shall hear of very many slain. For all the Kurus attend upon your opinion alone.
 
-**5.48.27**  Yet you alone approve as truth the counsel of only three — including Karṇa who has been cursed by Rāma as well, O bull of the Bharatas.
+**5.48.27**  Yet you alone approve as truth the counsel of only three — including Karṇa who has been cursed by Rāma as well, O bull of the Bhāratas.
 
 **5.48.28**  The base-born son of a charioteer, Śakuni the son of Subala, and likewise your wretched, sinful brother Duḥśāsana.
 
@@ -3434,11 +3434,11 @@ translator: thothica
 
 **5.48.40**  'Was it not there too that those Gandharvas were defeated by Pārtha, by the great-souled Bhīma, and by the twins who came to the rescue?'
 
-**5.48.41**  'These are the many false boasts of this man, O bull of the Bharatas — he who is ever a braggart, ever transgressing dharma and artha. May good fortune attend you.'
+**5.48.41**  'These are the many false boasts of this man, O bull of the Bhāratas — he who is ever a braggart, ever transgressing dharma and artha. May good fortune attend you.'
 
 **5.48.42**  Vaiśaṃpāyana said: Having heard Bhīṣma's words, the great-minded son of Bharadvaja — Droṇa — honoring him, spoke thus to Dhṛtarāṣṭra in the midst of the kings:
 
-**5.48.43**  'What the foremost of the Bharatas, Bhīṣma, has said — let that be done, O king. You should not act on the word of those who are greedy for gain at the cost of desire.'
+**5.48.43**  'What the foremost of the Bhāratas, Bhīṣma, has said — let that be done, O king. You should not act on the word of those who are greedy for gain at the cost of desire.'
 
 **5.48.44**  'Before the battle, I think it good to come to terms with the Pāṇḍavas. The words that were spoken by Arjuna and reported by Sañjaya —'
 
@@ -3508,7 +3508,7 @@ translator: thothica
 
 **5.49.30**  'By that Sahadeva, the younger, the hero among men, the joy of Mādrī, the Pāṇḍavas have engaged against you.'
 
-**5.49.31**  'She who was the virtuous princess of Kāśi and performed terrible austerities of old, even after death wishing for the slaying of Bhīṣma, O bull of the Bharatas —'
+**5.49.31**  'She who was the virtuous princess of Kāśi and performed terrible austerities of old, even after death wishing for the slaying of Bhīṣma, O bull of the Bhāratas —'
 
 **5.49.32**  'She was born as the daughter of the Pāñcāla king, and by fate he was born again as a male — that tiger among men who knows the qualities and defects of both woman and man.'
 
@@ -3532,7 +3532,7 @@ translator: thothica
 
 **5.49.42**  'He who is the refuge of the Pāṇḍavas as Vāsava is the refuge of the gods — by that Vāsudeva the Pāṇḍavas have engaged against you.'
 
-**5.49.43**  'Likewise the brother of the Cedi king, Śarabha, O bull of the Bharatas, together with Karakarṣa — by those two they have engaged against you.'
+**5.49.43**  'Likewise the brother of the Cedi king, Śarabha, O bull of the Bhāratas, together with Karakarṣa — by those two they have engaged against you.'
 
 **5.49.44**  'Jarāsandha's son Sahadeva, and Jayadratha — both of them — and Drupada of great splendor, surrounded by a great force, having dedicated himself, stands ready to fight for the sake of the Pāṇḍavas.'
 
@@ -3690,7 +3690,7 @@ translator: thothica
 
 **5.51.15**  I seem to see a blazing fire of arrows lit everywhere by the Gāṇḍīva, burning the army of my sons on the battlefield.
 
-**5.51.16**  I seem to see that great Bharata army, terrified by the thunder of Savyasācin's chariot, trembling and overwhelmed with fear.
+**5.51.16**  I seem to see that great Bhārata army, terrified by the thunder of Savyasācin's chariot, trembling and overwhelmed with fear.
 
 **5.51.17**  As a fire blazing and ranging everywhere with its great flames, fanned by the wind, burns through dry grass — so will he burn my people.
 
@@ -3734,7 +3734,7 @@ translator: thothica
 
 **5.53.2**  But this I do not understand about you, steadfast as you always are — that you, who know the true nature of things, have come under the sway of your son regarding the left-handed archer.
 
-**5.53.3**  This is not the time, O great king, for you who have always been the offender — for it was you yourself who first wronged the sons of Pṛthā, O bull among Bharatas.
+**5.53.3**  This is not the time, O great king, for you who have always been the offender — for it was you yourself who first wronged the sons of Pṛthā, O bull among Bhāratas.
 
 **5.53.4**  A father is the best friend, and one who is properly focused in his inner self — his beneficial counsel should be followed. One who causes harm is not called a guardian.
 
@@ -3756,7 +3756,7 @@ translator: thothica
 
 **5.53.13**  The glowing monkey is the best of banners among the bannered. Bearing all these on his chariot with white horses in battle, O king, he will destroy us like a revolving wheel of time raised on high.
 
-**5.53.14**  Today the entire earth belongs to him, O king, O bull among Bharatas — the king who has Bhīma and Arjuna as his warriors. He is the best of kings.
+**5.53.14**  Today the entire earth belongs to him, O king, O bull among Bhāratas — the king who has Bhīma and Arjuna as his warriors. He is the best of kings.
 
 **5.53.15**  Likewise, seeing your army nearly slain by Bhīma and sinking, the Kauravas led by Duryodhana will come to ruin.
 
@@ -3780,7 +3780,7 @@ translator: thothica
 
 **5.54.6**  The lords of men spoke of the necessity of recovering the kingdom, desiring to utterly destroy you along with your kinsmen.
 
-**5.54.7**  Hearing this, Bhīṣma, Droṇa, and Kṛpa were then addressed by me, O king, as I was frightened by fear of the destruction of kinsmen, O bull among Bharatas.
+**5.54.7**  Hearing this, Bhīṣma, Droṇa, and Kṛpa were then addressed by me, O king, as I was frightened by fear of the destruction of kinsmen, O bull among Bhāratas.
 
 **5.54.8**  "The Pāṇḍavas will not abide by the agreement" — such is my conviction. For Vāsudeva desires the complete destruction of us all.
 
@@ -3810,11 +3810,11 @@ translator: thothica
 
 **5.54.21**  "That best of Kurus, enraged, slew very many of them; then they took refuge with this Devavrata out of fear."
 
-**5.54.22**  "This Bhīṣma, supremely capable, together with us in battle, will conquer the enemies. Therefore let your fear depart, O bull among Bharatas." This was indeed the firm conviction of those of immeasurable energy at that time.
+**5.54.22**  "This Bhīṣma, supremely capable, together with us in battle, will conquer the enemies. Therefore let your fear depart, O bull among Bhāratas." This was indeed the firm conviction of those of immeasurable energy at that time.
 
 **5.54.23**  "Formerly the whole earth was under the sway of the enemies; but now these men are not capable of defeating us in battle. For the Pāṇḍavas today have their wings clipped and are devoid of valor."
 
-**5.54.24**  "The earth stands under our control, O bull among Bharatas; and the kings, united in purpose in pleasure and pain, have been brought over by me."
+**5.54.24**  "The earth stands under our control, O bull among Bhāratas; and the kings, united in purpose in pleasure and pain, have been brought over by me."
 
 **5.54.25**  "Even into fire they would enter, or into the ocean, O scorcher of foes — all those kings for my sake. Know this, O best of Kurus."
 
@@ -3848,7 +3848,7 @@ translator: thothica
 
 **5.54.40**  "Therefore let that fear of Vṛkodara depart from you in the great battle — I will remove him. Do not be downcast, O king."
 
-**5.54.41**  "When he is swiftly slain by me, many chariot-warriors equal and superior in form will assail Arjuna, O bull among Bharatas."
+**5.54.41**  "When he is swiftly slain by me, many chariot-warriors equal and superior in form will assail Arjuna, O bull among Bhāratas."
 
 **5.54.42**  "Bhīṣma, Droṇa, Kṛpa, the son of Droṇa, Karṇa, Bhūriśravas, the lord of Prāgjyotiṣa, Śalya, and Jayadratha the king of the Sindhu —"
 
@@ -3858,7 +3858,7 @@ translator: thothica
 
 **5.54.45**  "By Bhīṣma's torrents of arrows — hundreds and thousands of them — and by Droṇa, the son of Droṇa, and Kṛpa as well, the son of Pṛthā will go to the realm of Yama."
 
-**5.54.46**  For the grandsire Bhīṣma, son of Gaṅgā, born of Shantanu, O Bharata, was born equal to a brahmarishi and even the gods find him hard to overcome. His pleased father told him: "You shall not die against your will."
+**5.54.46**  For the grandsire Bhīṣma, son of Gaṅgā, born of Shantanu, O Bhārata, was born equal to a brahmarishi and even the gods find him hard to overcome. His pleased father told him: "You shall not die against your will."
 
 **5.54.47**  And Droṇa was born of the brahmarishi Bharadvaja, from the vessel called Droni. From Droṇa in turn was born Aśvatthāman, O great king, who is supreme in knowledge of weapons.
 
@@ -3866,21 +3866,21 @@ translator: thothica
 
 **5.54.49**  These three — father, mother, and maternal uncle — were not born of a womb, O great king. Aśvatthāman too is a hero, and he stands on my side.
 
-**5.54.50**  All of these, O great king, are great chariot-warriors equal to the gods; in battle they would cause even Indra distress, O bull of the Bharatas.
+**5.54.50**  All of these, O great king, are great chariot-warriors equal to the gods; in battle they would cause even Indra distress, O bull of the Bhāratas.
 
-**5.54.51**  Karṇa I consider equal to Bhīṣma, Droṇa, and Kṛpa. And Parashurama sanctioned him saying, "You are my equal," O Bharata.
+**5.54.51**  Karṇa I consider equal to Bhīṣma, Droṇa, and Kṛpa. And Parashurama sanctioned him saying, "You are my equal," O Bhārata.
 
 **5.54.52**  Karṇa had two beautiful, auspicious, natural earrings. He, the scorcher of foes, was asked by great Indra for them on behalf of Śacī, O great king, and was given instead an infallible, supremely terrible spear.
 
 **5.54.53**  How could Dhanañjaya survive once that spear is employed against him? Victory is certain for me, O king, like a fruit already placed in hand; and the complete defeat of the enemy on this earth is manifest.
 
-**5.54.54**  In a single day Bhīṣma slays ten thousand warriors, O Bharata. And Droṇa, Aśvatthāman, and Kṛpa are equal to him in their prowess as great bowmen.
+**5.54.54**  In a single day Bhīṣma slays ten thousand warriors, O Bhārata. And Droṇa, Aśvatthāman, and Kṛpa are equal to him in their prowess as great bowmen.
 
 **5.54.55**  And bands of sworn warriors among the kshatriyas, O scorcher of foes, have taken the oath: "Either Arjuna or we" — so shall Dhanañjaya meet them.
 
 **5.54.56**  The kings consider these warriors sufficient for the slaying of Savyasācin. O lord, why then, O king, do you suddenly feel distress?
 
-**5.54.57**  If Bhīmasena is slain, who else among the enemy would fight? Tell me that, O Bharata, if you know it, O scorcher of foes.
+**5.54.57**  If Bhīmasena is slain, who else among the enemy would fight? Tell me that, O Bhārata, if you know it, O scorcher of foes.
 
 **5.54.58**  Your five brothers, then Dhṛṣṭadyumna, and Sātyaki — these seven warriors of the enemy, O king, constitute their supreme strength.
 
@@ -3894,11 +3894,11 @@ translator: thothica
 
 **5.54.63**  Bṛhaspati has said that a force three times weaker may still be fought. My army, O king, is three times greater than the enemy's.
 
-**5.54.64**  I see many deficiencies in the enemy, O Bharata, and I see many virtues and abundant merits on my own side, O lord of men.
+**5.54.64**  I see many deficiencies in the enemy, O Bhārata, and I see many virtues and abundant merits on my own side, O lord of men.
 
-**5.54.65**  Having assessed all this — my supreme strength, O Bharata, and the weakness of the Pāṇḍavas — you ought not to fall into delusion.
+**5.54.65**  Having assessed all this — my supreme strength, O Bhārata, and the weakness of the Pāṇḍavas — you ought not to fall into delusion.
 
-**5.54.66**  Vaiśaṃpāyana said: Having spoken thus, O Bharata, he who was the conqueror of enemy cities, wishing to know what was timely and understanding the moment, questioned Sañjaya further.
+**5.54.66**  Vaiśaṃpāyana said: Having spoken thus, O Bhārata, he who was the conqueror of enemy cities, wishing to know what was timely and understanding the moment, questioned Sañjaya further.
 
 **5.55.1**  Duryodhana said: Having obtained seven akshauhinis together with allied kings, O Sañjaya, what does Yudhiṣṭhira, son of Kuntī, who is eager for battle, intend?
 
@@ -3970,7 +3970,7 @@ translator: thothica
 
 **5.56.19**  All the sons of Duryodhana, and likewise those of Duḥśāsana, and also king Bṛhadbala — these were assigned as the portion of Abhimanyu, son of Subhadrā.
 
-**5.56.20**  The sons of Draupadī, great bowmen bearing banners adorned with gold, led by Dhṛṣṭadyumna, will march against Droṇa, O Bharata.
+**5.56.20**  The sons of Draupadī, great bowmen bearing banners adorned with gold, led by Dhṛṣṭadyumna, will march against Droṇa, O Bhārata.
 
 **5.56.21**  Cekitāna desires to fight Somadatta in single-chariot combat. And Yuyudhāna desires to fight the Bhoja, Kṛtavarman.
 
@@ -4012,7 +4012,7 @@ translator: thothica
 
 **5.56.40**  The Pāṇḍavas are not capable of looking upon my forces. I am fully prepared to fight the sons of Pāṇḍu together with their sons in battle.
 
-**5.56.41**  All the kings who desire to do what pleases me, O Bharata, will bind them as with a thread, like black deer.
+**5.56.41**  All the kings who desire to do what pleases me, O Bhārata, will bind them as with a thread, like black deer.
 
 **5.56.42**  Attacked by my great forces of chariots and by my nets of arrows, the Pāñcālas together with the Pāṇḍavas will be overwhelmed.
 
@@ -4024,7 +4024,7 @@ translator: thothica
 
 **5.56.46**  Who is it that keeps inflaming those vigorous Pāṇḍavas — those blazing great bowmen — as one feeds fire with oblations?
 
-**5.56.47**  Sañjaya said: It is Dhṛṣṭadyumna, O Bharata, who constantly inflames them, saying, "Fight! Do not fear battle, O best of Bharatas!"
+**5.56.47**  Sañjaya said: It is Dhṛṣṭadyumna, O Bhārata, who constantly inflames them, saying, "Fight! Do not fear battle, O best of Bhāratas!"
 
 **5.56.48**  Whatever kings are there, assembled under the banner of Dhṛtarāṣṭra's son, will come together in battle — in the tumultuous sea of armour.
 
@@ -4054,7 +4054,7 @@ translator: thothica
 
 **5.57.1**  Dhṛtarāṣṭra said: That Pāṇḍava (Arjuna) has the martial fire of a warrior and has been a celibate student from his very boyhood. Only the foolish — who lament like me — would go to battle against him.
 
-**5.57.2**  "Turn back from war, O Duryodhana, O best of the Bharatas. War is not to be praised in any and every circumstance, O subduer of foes."
+**5.57.2**  "Turn back from war, O Duryodhana, O best of the Bhāratas. War is not to be praised in any and every circumstance, O subduer of foes."
 
 **5.57.3**  "Half of the earth is enough for you and your ministers to live upon. Give to the sons of Pāṇḍu what is rightfully theirs, O subduer of foes."
 
@@ -4074,7 +4074,7 @@ translator: thothica
 
 **5.57.11**  "Nor on Satyavrata, nor on Purumitra, nor again on Bhūriśravas, nor on any others of your party do I lay a burden — and yet I give challenge."
 
-**5.57.12**  "I and Karṇa, O father, having spread the sacrificial battle and made Yudhiṣṭhira the sacrificial victim, are consecrated for it, O bull of the Bharatas."
+**5.57.12**  "I and Karṇa, O father, having spread the sacrificial battle and made Yudhiṣṭhira the sacrificial victim, are consecrated for it, O bull of the Bhāratas."
 
 **5.57.13**  "The chariot is the sacrificial altar; the sword is the ladle; the mace is the large spoon; the armour is the assembly hall; the four-priest rite is my chariot-team; my arrows are the sacrificial grass; glory is the oblation."
 
@@ -4092,7 +4092,7 @@ translator: thothica
 
 **5.57.20**  "As tigers — the foremost of those who strike — slay the finest among herds of deer, so the Pāṇḍavas, assembled together in battle, will slay the best of your men one by one."
 
-**5.57.21**  "It seems to me as something running against the current — that the wife of Bharata (Draupadī), her hair parted, was flung down, terrified, and dishonoured by the long-armed one (Duḥśāsana)."
+**5.57.21**  "It seems to me as something running against the current — that the wife of Bhārata (Draupadī), her hair parted, was flung down, terrified, and dishonoured by the long-armed one (Duḥśāsana)."
 
 **5.57.22**  "Mādhava (Kṛṣṇa) will go on replenishing the already full strength of Pārtha's forces, and Sātyaki, the descendant of Śini, will stand in battle, scattering arrows like seeds."
 
@@ -4112,7 +4112,7 @@ translator: thothica
 
 **5.58.1**  Dhṛtarāṣṭra said: Tell me what those two great-souled ones, Vāsudeva and Dhanañjaya, said to each other — O greatly wise one, I am eager to hear your words.
 
-**5.58.2**  Sañjaya said: Listen, O king, to how I saw Kṛṣṇa and Dhanañjaya, and what those two heroes said to each other — that I shall tell you, O Bharata.
+**5.58.2**  Sañjaya said: Listen, O king, to how I saw Kṛṣṇa and Dhanañjaya, and what those two heroes said to each other — that I shall tell you, O Bhārata.
 
 **5.58.3**  "Keeping my eyes fixed on the tips of my toes, with reverence and hands joined in salutation, I entered the inner chamber, O king, to deliver the message to those two lords of men."
 
@@ -4210,7 +4210,7 @@ translator: thothica
 
 **5.59.20**  In this great and terrible conflict, I see that great bowman Arjuna, protected by Mahendra and Upendra, striking down enemies as it were.
 
-**5.59.21**  Thus reflecting upon all of this day and night, O Bharata, I am sleepless and joyless, consumed by thoughts of peace for the Kurus.
+**5.59.21**  Thus reflecting upon all of this day and night, O Bhārata, I am sleepless and joyless, consumed by thoughts of peace for the Kurus.
 
 **5.59.22**  A very great rise and fall of the Kurus is at hand; and for this conflict there is no end other than peace.
 
@@ -4220,21 +4220,21 @@ translator: thothica
 
 **5.60.2**  O best of kings, let that fear of yours depart — that fear in which you think the Pāṇḍavas would be aided by the gods and thus impossible to overcome.
 
-**5.60.3**  O Bharata, the gods attained their divine status by freedom from desire and hatred, by abstaining from treachery and greed, and by equanimity in their dispositions.
+**5.60.3**  O Bhārata, the gods attained their divine status by freedom from desire and hatred, by abstaining from treachery and greed, and by equanimity in their dispositions.
 
 **5.60.4**  Thus Dvaipāyana Vyāsa, and Nārada the great ascetic, and Rāma the son of Jamadagni once told us this teaching.
 
-**5.60.5**  The gods never act as humans do — out of desire, greed, compassion, or hatred, O bull of the Bharatas.
+**5.60.5**  The gods never act as humans do — out of desire, greed, compassion, or hatred, O bull of the Bhāratas.
 
 **5.60.6**  For if Agni, Vāyu, Dharma, Indra, and the two Aśvins were to act out of passionate attachment, the Pāṇḍavas would not have suffered as they did.
 
-**5.60.7**  Therefore you should never worry about this, O Bharata; for these gods are always evenhanded in their regard for all things.
+**5.60.7**  Therefore you should never worry about this, O Bhārata; for these gods are always evenhanded in their regard for all things.
 
 **5.60.8**  But if divine authority were seen in the gods to stem from desire, hatred, or greed, it would never hold sway.
 
 **5.60.9**  Agni, the knower of all things born, whom I have always energized with my mantras, ever blazes with the desire to burn all the worlds, encircling them on all sides.
 
-**5.60.10**  Whatever supreme energy the celestial beings possess — know, O Bharata, that I have an energy beyond theirs, incomparable and surpassing.
+**5.60.10**  Whatever supreme energy the celestial beings possess — know, O Bhārata, that I have an energy beyond theirs, incomparable and surpassing.
 
 **5.60.11**  O king, when the earth is splitting apart and the peaks of mountains are crumbling, I stabilize them through my incantations, even as the world watches.
 
@@ -4272,7 +4272,7 @@ translator: thothica
 
 **5.60.28**  Whatever the grandsire Bhīṣma, Droṇa, Kṛpa, Śalya, and Śala know in the science of weapons — all of that resides in me.
 
-**5.60.29**  Having spoken thus, O Bharata, O subduer of enemies, he who sought battle questioned Sañjaya again, wishing to know what tasks needed to be done at the right moment.
+**5.60.29**  Having spoken thus, O Bhārata, O subduer of enemies, he who sought battle questioned Sañjaya again, wishing to know what tasks needed to be done at the right moment.
 
 **5.61.1**  Vaiśaṃpāyana said: But as that son of Vicitravīrya was thus eagerly inquiring about the Pāṇḍavas, Karṇa, disregarding him, spoke to the son of Dhṛtarāṣṭra, gladdening the assembly of the Kauravas.
 
@@ -4344,9 +4344,9 @@ translator: thothica
 
 **5.62.17**  In that age when all men of good will serve and honour their elders, they become invincible, like a forest protected by a lion.
 
-**5.62.18**  Those who, having obtained wealth, sit dejected and despondent, hand over their prosperity to their enemies, O bull of the Bharata line.
+**5.62.18**  Those who, having obtained wealth, sit dejected and despondent, hand over their prosperity to their enemies, O bull of the Bhārata line.
 
-**5.62.19**  Kinsmen separated from each other smoulder like firebrands of Dhṛtarāṣṭra; united, they blaze brightly, O bull of the Bharatas.
+**5.62.19**  Kinsmen separated from each other smoulder like firebrands of Dhṛtarāṣṭra; united, they blaze brightly, O bull of the Bhāratas.
 
 **5.62.20**  I will now tell you something else that I myself witnessed on a mountain. Hear it too, O Kauravya, and act for your own good accordingly.
 
@@ -4396,7 +4396,7 @@ translator: thothica
 
 **5.63.12**  And heed me as I counsel you for the good of the Kurus. Listen also to Droṇa, Kṛpa, Vikarṇa, and the great king Bahlika.
 
-**5.63.13**  These men you should regard just as you regard me, O Bharata; for all of them are versed in Dharma and bear equal affection for you.
+**5.63.13**  These men you should regard just as you regard me, O Bhārata; for all of them are versed in Dharma and bear equal affection for you.
 
 **5.63.14**  What happened in the city of Virāṭa, when your army, panic-stricken, abandoned the cattle and scattered before Arjuna and his brothers —
 
@@ -4530,7 +4530,7 @@ translator: thothica
 
 **5.68.3**  Because he dwells in all beings, because of his divinity as Vasu, and because of his divine origin — he is known as Vāsudeva. Because of his righteousness he is called Vṛṣṇi.
 
-**5.68.4**  Know that Mādhava is so called because of his silence, meditation, and yoga, O Bharata; and Madhusūdana, the slayer of Madhu, is so called because he dissolves into all principles of reality.
+**5.68.4**  Know that Mādhava is so called because of his silence, meditation, and yoga, O Bhārata; and Madhusūdana, the slayer of Madhu, is so called because he dissolves into all principles of reality.
 
 **5.68.5**  The syllable 'kri' denotes existence, and 'na' denotes bliss; by the union of these two meanings Kṛṣṇa eternally becomes Kṛṣṇa.
 
@@ -4574,7 +4574,7 @@ translator: thothica
 
 **5.70.4**  Just as you protect the Vṛṣṇis in all calamities, O conqueror of enemies, so must the Pāṇḍavas be protected by you — protect us from this great danger.
 
-**5.70.5**  The Lord said: Here I am, O mighty-armed one — speak what you wish to say. I shall do everything that you tell me, O Bharata.
+**5.70.5**  The Lord said: Here I am, O mighty-armed one — speak what you wish to say. I shall do everything that you tell me, O Bhārata.
 
 **5.70.6**  Yudhiṣṭhira said: You have heard the intentions of Dhṛtarāṣṭra along with his son — for Sañjaya told me everything in full, O Kṛṣṇa.
 
@@ -4776,7 +4776,7 @@ translator: thothica
 
 **5.71.12**  — he who is given to charity, gentle, self-controlled, devoted to dharma, and faithful — that you, O king, he deceived by fraud through gambling; and that wicked, cruel man feels no shame on account of that act.
 
-**5.71.13**  With one of such character and conduct, O king, do not show affection; he deserves to be slain by all the world — how much more so by you, O Bharata.
+**5.71.13**  With one of such character and conduct, O king, do not show affection; he deserves to be slain by all the world — how much more so by you, O Bhārata.
 
 **5.71.14**  With words utterly unfitting, he taunted one who did not deserve it; he boasts and speaks joyfully among his brothers.
 
@@ -4816,7 +4816,7 @@ translator: thothica
 
 **5.71.32**  And going to all the Kurus, without sacrificing your interests, I will strive to bring about peace and I will observe their conduct closely.
 
-**5.71.33**  And going there, having observed the Kauravas' course of action — one bent on war — I will return for the sake of your victory, O Bharata.
+**5.71.33**  And going there, having observed the Kauravas' course of action — one bent on war — I will return for the sake of your victory, O Bhārata.
 
 **5.71.34**  In every way I foresee war with our enemies; for all the omens appear to me as portending just that.
 
@@ -4914,7 +4914,7 @@ translator: thothica
 
 **5.73.21**  This is a great wonder to me — like a mountain moving — that you, Bhīmasena, should speak words so unlike yourself.
 
-**5.73.22**  Seeing your own deeds and your birth in this lineage, O Bharata, rise up! Do not give way to despondency, O hero — be steadfast.
+**5.73.22**  Seeing your own deeds and your birth in this lineage, O Bhārata, rise up! Do not give way to despondency, O hero — be steadfast.
 
 **5.73.23**  This faint-heartedness is not fitting for you, O crusher of foes. What a warrior cannot win through prowess, he cannot enjoy either.
 
@@ -4970,7 +4970,7 @@ translator: thothica
 
 **5.75.8**  Even what is well-counselled, well-ordered, properly supported, and rightly done by human effort is opposed by fate.
 
-**5.75.9**  Divine fate too, if unassisted by action, is foiled by human exertion — just as cold, heat, rain, hunger, and thirst are overcome, O Bharata.
+**5.75.9**  Divine fate too, if unassisted by action, is foiled by human exertion — just as cold, heat, rain, hunger, and thirst are overcome, O Bhārata.
 
 **5.75.10**  Whatever a person who is disposed to his appointed fate accomplishes through his own doing — beyond that there is no obstruction; that is the mark of it.
 
@@ -5052,11 +5052,11 @@ translator: thothica
 
 **5.77.9**  Nor will that evil-minded king of dharma consent to give up the kingdom even when entreated; even when begged, he will not give it.
 
-**5.77.10**  Yet I do not think he is the one who should be told the instruction of Yudhiṣṭhira — the purpose has already been stated there by the king of dharma, O Bharata.
+**5.77.10**  Yet I do not think he is the one who should be told the instruction of Yudhiṣṭhira — the purpose has already been stated there by the king of dharma, O Bhārata.
 
 **5.77.11**  Yet that sinful Kaurava will not do all of that; and when he refuses to act accordingly, he shall become worthy of death in the eyes of the world.
 
-**5.77.12**  And he is deserving of death at my hands as well, O Bharata — and in the eyes of the world — for he wronged all of you even in your boyhood.
+**5.77.12**  And he is deserving of death at my hands as well, O Bhārata — and in the eyes of the world — for he wronged all of you even in your boyhood.
 
 **5.77.13**  Your kingdom has been seized by that cruel, wicked-souled one; and the sinner is not appeased even when he beholds the prosperity of Yudhiṣṭhira.
 
@@ -5216,7 +5216,7 @@ translator: thothica
 
 **5.80.43**  She of the full breasts and rounded hips, her two breasts drenched together, shed tears from her eyes as if releasing water made burning hot and melted.
 
-**5.80.44**  The mighty-armed Keśava spoke to her, consoling her: "O Kṛṣṇā, before long you shall see the women of the Bharata line weeping."
+**5.80.44**  The mighty-armed Keśava spoke to her, consoling her: "O Kṛṣṇā, before long you shall see the women of the Bhārata line weeping."
 
 **5.80.45**  "Thus, O timid one, O passionate lady, they shall weep — those whose kinsmen and relatives have been slain, whose allies are slain, whose armies are destroyed — they at whom your wrath is directed."
 
@@ -5232,7 +5232,7 @@ translator: thothica
 
 **5.81.2**  You are capable, O Keśava, of bringing about the well-being that must be secured between the Pāṇḍavas and the sons of Dhṛtarāṣṭra, and of bringing peace to them.
 
-**5.81.3**  From here, O lotus-eyed one, O slayer of enemies, you could speak to wrathful Suyodhana whatever must be said for the sake of peace among the Bhāratas.
+**5.81.3**  From here, O lotus-eyed one, O slayer of enemies, you could speak to wrathful Suyodhana whatever must be said for the sake of peace among the Bharatas.
 
 **5.81.4**  If what is spoken by you — auspicious, wholesome, grounded in dharma and artha — is not accepted by that fool, then he will fall under the power of fate.
 
@@ -5400,11 +5400,11 @@ translator: thothica
 
 **5.82.14**  Women came together along the road to scatter fragrant wild flowers upon that great soul who was devoted to the welfare of all beings.
 
-**5.82.15**  He passed through a beautiful tract of rice fields filled with all manner of crops, pleasant and most righteous, O bull of the Bharatas.
+**5.82.15**  He passed through a beautiful tract of rice fields filled with all manner of crops, pleasant and most righteous, O bull of the Bhāratas.
 
 **5.82.16**  Beholding villages rich in cattle, lovely and heart-pleasing, he passed through towns and various kingdoms.
 
-**5.82.17**  Always joyful and cheerful of mind, protected by the Bhāratas, the people were untroubled, unaware of the misdeeds of enemy forces.
+**5.82.17**  Always joyful and cheerful of mind, protected by the Bharatas, the people were untroubled, unaware of the misdeeds of enemy forces.
 
 **5.82.18**  Then the townsfolk, having learned of his coming from Upaplavya, stood together on the road, eager to see Viṣvaksena.
 
@@ -5586,7 +5586,7 @@ translator: thothica
 
 **5.86.22**  I cannot in any way bear to listen to words full of such ruinous intent from this sinful, cruel, dharma-forsaking, evil-minded one.
 
-**5.86.23**  Vaiśaṃpāyana said: Having spoken thus, Bhīṣma, best of the Bharatas, old but filled with great fury, rose from his seat and departed, he whose valor is in truth.
+**5.86.23**  Vaiśaṃpāyana said: Having spoken thus, Bhīṣma, best of the Bhāratas, old but filled with great fury, rose from his seat and departed, he whose valor is in truth.
 
 **5.87.1**  Vaiśaṃpāyana said: Rising early in the morning, Kṛṣṇa performed all his daily rites; then, blessed by the Brāhmaṇas, he set out toward the city.
 
@@ -5600,7 +5600,7 @@ translator: thothica
 
 **5.87.6**  For the sake of honoring Kṛṣṇa, the city was beautifully adorned and the royal roads were strewn with many jewels.
 
-**5.87.7**  Not a single person remained at home, O king, O bull of the Bharatas — no woman, no elder, no child — all out of eagerness to see Vāsudeva.
+**5.87.7**  Not a single person remained at home, O king, O bull of the Bhāratas — no woman, no elder, no child — all out of eagerness to see Vāsudeva.
 
 **5.87.8**  The men on the royal road could scarcely touch the ground, so great, O king, was the press at the entry of Hṛṣīkeśa.
 
@@ -6120,7 +6120,7 @@ translator: thothica
 
 **5.92.45**  Then polished seats, great and wide, adorned with gems and gold, were brought from here and there.
 
-**5.92.46**  When they had been seated there and had received their respectful offerings, O Bharata, Kṛṣṇa took his seat, and the kings took their seats each in his proper place.
+**5.92.46**  When they had been seated there and had received their respectful offerings, O Bhārata, Kṛṣṇa took his seat, and the kings took their seats each in his proper place.
 
 **5.92.47**  Duḥśāsana gave an excellent seat to Sātyaki; Viviṃśati gave a golden stool to Kṛtavarman.
 
@@ -6140,13 +6140,13 @@ translator: thothica
 
 **5.93.2**  Like a rain-cloud at summer's end, making the entire assembly hear his words, the Mādhava, looking toward Dhṛtarāṣṭra, spoke.
 
-**5.93.3**  "I have come here to attempt, without great effort, that there might be peace between the Kurus and the Pāṇḍavas, O Bharata."
+**5.93.3**  "I have come here to attempt, without great effort, that there might be peace between the Kurus and the Pāṇḍavas, O Bhārata."
 
 **5.93.4**  "O king, there is no other word to speak for your ultimate good — for everything that ought to be known is already known to you, O subduer of foes."
 
 **5.93.5**  "This lineage stands today as foremost among all kings, O lord of earth — endowed with learning and good conduct, complete in all virtues."
 
-**5.93.6**  "Compassion, fellow-feeling, tender-heartedness, harmlessness, straightforwardness, forbearance, truth — these are pre-eminent among the Kurus, O Bharata."
+**5.93.6**  "Compassion, fellow-feeling, tender-heartedness, harmlessness, straightforwardness, forbearance, truth — these are pre-eminent among the Kurus, O Bhārata."
 
 **5.93.7**  "In so great a family endowed with such qualities, O king, what is unseemly and improper is not fitting here — most especially on your account."
 
@@ -6154,11 +6154,11 @@ translator: thothica
 
 **5.93.9**  "Those sons of yours, O Kauravya, headed by Duryodhana, having cast dharma and artha behind them, conduct themselves cruelly."
 
-**5.93.10**  "Ill-mannered, having abandoned all limits, their minds stolen by greed — toward their own foremost kinsmen — this you know, O bull of the Bharatas."
+**5.93.10**  "Ill-mannered, having abandoned all limits, their minds stolen by greed — toward their own foremost kinsmen — this you know, O bull of the Bhāratas."
 
 **5.93.11**  "This most terrible calamity that has arisen among the Kurus themselves — if ignored, O Kauravya, will destroy the earth."
 
-**5.93.12**  "And this can be pacified, if you are willing, O Bharata — for in my view the peace here is not difficult, O bull of the Bharatas."
+**5.93.12**  "And this can be pacified, if you are willing, O Bhārata — for in my view the peace here is not difficult, O bull of the Bhāratas."
 
 **5.93.13**  "Peace depends on you, O king, and on me, O lord of men. You restrain your sons, O Kauravya, and I shall restrain the others."
 
@@ -6176,7 +6176,7 @@ translator: thothica
 
 **5.93.20**  "— and Saindhava, and the king of Kaliṅga, and Sudakṣiṇa of Kāmboja, and Yudhiṣṭhira, Bhīmasena, Savyasācī, and the twins as well —"
 
-**5.93.21**  "— and the greatly resplendent Sātyaki and Yuyutsu the great chariot-warrior — what perverse soul would fight against them, O bull of the Bharatas?"
+**5.93.21**  "— and the greatly resplendent Sātyaki and Yuyutsu the great chariot-warrior — what perverse soul would fight against them, O bull of the Bhāratas?"
 
 **5.93.22**  "Lordship over the world and invincibility before enemies — this you shall again attain, O slayer of foes, united with the Kurus and Pāṇḍavas."
 
@@ -6186,13 +6186,13 @@ translator: thothica
 
 **5.93.25**  "With these Pāṇḍavas placed before you and honored as before, you shall enjoy the entire earth without remainder, O protector of the earth."
 
-**5.93.26**  "For united with all these Pāṇḍavas and your own men, O Bharata, you shall conquer other enemies — this is your complete self-interest."
+**5.93.26**  "For united with all these Pāṇḍavas and your own men, O Bhārata, you shall conquer other enemies — this is your complete self-interest."
 
 **5.93.27**  "And you shall enjoy the earth won by those very ones, O scorcher of foes, if you come to terms with them, together with your sons and ministers, O lord of men."
 
 **5.93.28**  "In battle, O great king, a very great destruction is seen; and with destruction on both sides, O king, what dharma do you perceive?"
 
-**5.93.29**  "Whatever happiness you would find, O king, from the Pāṇḍavas being slain in battle, or from your own mighty sons being slain — tell me that, O bull of the Bharatas."
+**5.93.29**  "Whatever happiness you would find, O king, from the Pāṇḍavas being slain in battle, or from your own mighty sons being slain — tell me that, O bull of the Bhāratas."
 
 **5.93.30**  "For all are heroes and trained in weapons, all longing for battle — the Pāṇḍavas and your own men. Protect them from this great peril."
 
@@ -6206,13 +6206,13 @@ translator: thothica
 
 **5.93.35**  "May these lords of the earth meet one another auspiciously, eat and drink together, and return home each to his own house."
 
-**5.93.36**  "Clad in fine garments and wearing garlands, having been properly honored, O bull of the Bharatas, and with wrath and enmities set aside, O scorcher of foes."
+**5.93.36**  "Clad in fine garments and wearing garlands, having been properly honored, O bull of the Bhāratas, and with wrath and enmities set aside, O scorcher of foes."
 
-**5.93.37**  "Whatever affection was in your heart toward the Pāṇḍavas before this wasting of life's span arrived — let that same be yours now and always, O bull of the Bharatas."
+**5.93.37**  "Whatever affection was in your heart toward the Pāṇḍavas before this wasting of life's span arrived — let that same be yours now and always, O bull of the Bhāratas."
 
-**5.93.38**  "They were children deprived of their father and were raised by you yourself — protect them as is right and just, as your own sons, O bull of the Bharatas."
+**5.93.38**  "They were children deprived of their father and were raised by you yourself — protect them as is right and just, as your own sons, O bull of the Bhāratas."
 
-**5.93.39**  "For they are to be protected by you especially in times of adversity — let not your dharma and likewise your artha perish, O bull of the Bharatas."
+**5.93.39**  "For they are to be protected by you especially in times of adversity — let not your dharma and likewise your artha perish, O bull of the Bhāratas."
 
 **5.93.40**  "The Pāṇḍavas say this to you, O king, paying homage and seeking to propitiate you: 'Under your command we have endured suffering together with our followers.'"
 
@@ -6220,25 +6220,25 @@ translator: thothica
 
 **5.93.42**  "'Being resolved that you would stand by the agreement as a father, we did not abandon the covenant, dear father — and the brahmanas know this of us.'"
 
-**5.93.43**  "'Stand by that covenant with us who have stood by it, O bull of the Bharatas; though we have ever been afflicted, O king, may we obtain our share of the royal domain.'"
+**5.93.43**  "'Stand by that covenant with us who have stood by it, O bull of the Bhāratas; though we have ever been afflicted, O king, may we obtain our share of the royal domain.'"
 
 **5.93.44**  "'You, who are engaged rightly in dharma and artha, ought to protect us properly; looking to your greatness, we have endured many afflictions.'"
 
-**5.93.45**  "'May you act toward us as a mother and father; greater than a teacher's conduct is that of a disciple, O Bharata.'"
+**5.93.45**  "'May you act toward us as a mother and father; greater than a teacher's conduct is that of a disciple, O Bhārata.'"
 
 **5.93.46**  "'For we who have taken to a wrong path are to be set right by a father — establish us in the right paths; abide yourself, O king, in your own way.'"
 
-**5.93.47**  "And your sons say regarding this assembly, O bull of the Bharatas: 'Among those seated in the assembly who know dharma, what is unseemly and improper is not fitting here.'"
+**5.93.47**  "And your sons say regarding this assembly, O bull of the Bhāratas: 'Among those seated in the assembly who know dharma, what is unseemly and improper is not fitting here.'"
 
 **5.93.48**  "Where dharma is slain by adharma, and where truth is slain by falsehood, while those present look on — those members of the assembly are themselves slain."
 
 **5.93.49**  "Where dharma, wounded by adharma, enters an assembly, and they do not remove its dart — the members of that assembly are themselves wounded; dharma roots them out as a river uproots trees growing on its bank."
 
-**5.93.50**  "Those who, perceiving dharma, sit silent in contemplation — they speak the truth and dharma and what is right, O bull of the Bharatas."
+**5.93.50**  "Those who, perceiving dharma, sit silent in contemplation — they speak the truth and dharma and what is right, O bull of the Bhāratas."
 
 **5.93.51**  "What else can be said to you, O lord of men, besides 'give'? Let the lords of earth who are seated in this assembly speak — I speak truly, having fully weighed dharma and artha."
 
-**5.93.52**  "Free these kshatriyas from the noose of death, O bull among kshatriyas; be pacified, O foremost of the Bharatas — do not follow the path of anger."
+**5.93.52**  "Free these kshatriyas from the noose of death, O bull among kshatriyas; be pacified, O foremost of the Bhāratas — do not follow the path of anger."
 
 **5.93.53**  "Having given to the Pāṇḍavas their paternal share as is fitting, then enjoy the pleasures with your sons, your purpose accomplished, O scorcher of foes."
 
@@ -6252,7 +6252,7 @@ translator: thothica
 
 **5.93.58**  "He, having reached that condition, seeing Draupadī brought into the assembly, Yudhiṣṭhira of immeasurable soul, true to the dharma of the kshatriya, did not waver."
 
-**5.93.59**  "I desire the good of both you and them, O Bharata — in dharma, in artha, and in happiness. Let the people not be destroyed, O king."
+**5.93.59**  "I desire the good of both you and them, O Bhārata — in dharma, in artha, and in happiness. Let the people not be destroyed, O king."
 
 **5.93.60**  "Your sons, who consider what is harmful to be beneficial and what is beneficial to themselves to be harmful, who have gone too far into greed — restrain them, O lord of men."
 
@@ -6302,7 +6302,7 @@ translator: thothica
 
 **5.94.21**  "Nara and Nārāyaṇa said: 'This hermitage is free of anger and greed, O best of kings; in this hermitage there is no room for battle, no room for weapons, no room for falsehood. Seek battle elsewhere — there are many Kṣatriyas on earth.'"
 
-**5.94.22**  "Rāma said: Though spoken to thus, and though forgiven and soothed again and again, O Bharata, Dambhodbhava, intent on battle, challenged the two ascetics once more."
+**5.94.22**  "Rāma said: Though spoken to thus, and though forgiven and soothed again and again, O Bhārata, Dambhodbhava, intent on battle, challenged the two ascetics once more."
 
 **5.94.23**  "Then Nara, taking up a handful of grass-stalks, O Kaurava, said: 'Come then and fight, O Kṣatriya who craves battle!'"
 
@@ -6344,9 +6344,9 @@ translator: thothica
 
 **5.94.42**  "Know, O great king, that those two — Nara and Nārāyaṇa — are none other than Arjuna and Keśava, those two foremost heroes, those two bulls among men."
 
-**5.94.43**  "If you know this to be true and do not greatly distrust me, then, taking recourse to a noble resolve, make peace with the Pāṇḍavas, O Bharata."
+**5.94.43**  "If you know this to be true and do not greatly distrust me, then, taking recourse to a noble resolve, make peace with the Pāṇḍavas, O Bhārata."
 
-**5.94.44**  "Or if you consider it best that there be no breach between us, then, O best of the Bharatas, make peace and do not set your mind on war."
+**5.94.44**  "Or if you consider it best that there be no breach between us, then, O best of the Bhāratas, make peace and do not set your mind on war."
 
 **5.94.45**  "Your family, O best of the Kurus, is highly esteemed on earth — let it remain so. May you fare well; consider your own true interest."
 
@@ -7700,11 +7700,11 @@ translator: thothica
 
 **5.123.16**  As was declared by Jamadagnya, Arjuna is even greater than that; for Kṛṣṇa, the son of Devakī, is one impossible to withstand even for the gods.
 
-**5.123.17**  What use is there in saying to you what is pleasing and comfortable, O bull of the Bharatas? All of this has been told to you; do as you wish. I do not dare to say more to you, O best of the Bharatas.
+**5.123.17**  What use is there in saying to you what is pleasing and comfortable, O bull of the Bhāratas? All of this has been told to you; do as you wish. I do not dare to say more to you, O best of the Bhāratas.
 
 **5.123.18**  While that speech was still unfinished, Vidura the Kṣattā also spoke a word, looking toward Duryodhana, the wrathful son of Dhṛtarāṣṭra.
 
-**5.123.19**  O Duryodhana, I do not grieve for you, O bull of the Bharatas; but I grieve for these two elders — Gāndhārī and your father.
+**5.123.19**  O Duryodhana, I do not grieve for you, O bull of the Bhāratas; but I grieve for these two elders — Gāndhārī and your father.
 
 **5.123.20**  Those two shall wander without a protector, with you as their protector but hard-hearted, their friends slain, their ministers slain, like two birds with clipped wings.
 
@@ -7746,11 +7746,11 @@ translator: thothica
 
 **5.124.12**  Let Yudhiṣṭhira the Dharma-king, that elephant among kings, receive you with both hands as you bow your head in obeisance.
 
-**5.124.13**  Let the dexterous one place his right arm, marked with the signs of flag and goad and banner, upon your shoulder — for peace, O bull of the Bharatas.
+**5.124.13**  Let the dexterous one place his right arm, marked with the signs of flag and goad and banner, upon your shoulder — for peace, O bull of the Bhāratas.
 
 **5.124.14**  Let him stroke your back with a hand bearing jeweled finger-rings and adorned with gems and medicinal substances, as you sit before him.
 
-**5.124.15**  Let Vṛkodara, your kinsman, with shoulders like a sala tree and mighty arms, also address you with conciliatory words — for peace, O bull of the Bharatas.
+**5.124.15**  Let Vṛkodara, your kinsman, with shoulders like a sala tree and mighty arms, also address you with conciliatory words — for peace, O bull of the Bhāratas.
 
 **5.124.16**  Having been saluted by Arjuna and the twin sons of Mādrī, those three, smell their heads in affection and greet them with love, O king.
 
@@ -7816,7 +7816,7 @@ translator: thothica
 
 **5.126.3**  And as for your thinking, O fool, 'There is no transgression of mine against the Pāṇḍavas' — hear all that, O lords of men.
 
-**5.126.4**  Burning with envy at the prosperity of the great-souled Pāṇḍavas, the dice game was wickedly devised by you and by the son of Subala, O Bharata.
+**5.126.4**  Burning with envy at the prosperity of the great-souled Pāṇḍavas, the dice game was wickedly devised by you and by the son of Subala, O Bhārata.
 
 **5.126.5**  And how should kinsmen who are noble and honored by the good, themselves straightforward in conduct, lend themselves to such injustice through crooked means?
 
@@ -7878,7 +7878,7 @@ translator: thothica
 
 **5.126.34**  I deem that the timely action to be taken there is this — listen all of you, O destroyers of foes, O sinless ones: if it is done, good will come of it.
 
-**5.126.35**  What I shall speak is beneficial counsel that is evident to all of you — if it pleases you, O Bharatas, with your agreement.
+**5.126.35**  What I shall speak is beneficial counsel that is evident to all of you — if it pleases you, O Bhāratas, with your agreement.
 
 **5.126.36**  Kaṃsa, the ill-conducted and self-abandoned son of the old Bhoja king, seized his living father's power and fell under the sway of wrath.
 
@@ -7890,7 +7890,7 @@ translator: thothica
 
 **5.126.40**  Moreover, O king, Parameṣṭhin the lord of creatures spoke, when the divine-demonic war was arrayed and weapons were raised:
 
-**5.126.41**  When the worlds were split into two factions and were perishing, O Bharata, the lord god, the creator and sustainer of worlds, spoke:
+**5.126.41**  When the worlds were split into two factions and were perishing, O Bhārata, the lord god, the creator and sustainer of worlds, spoke:
 
 **5.126.42**  The Asuras — Daityas together with Dānavas — shall be defeated; the Ādityas, Vasus, and Rudras shall prevail as the heaven-dwellers.
 
@@ -7948,7 +7948,7 @@ translator: thothica
 
 **5.127.20**  By your becoming calm, reverence would be shown to Bhīṣma, to your father, to me, and to the well-wishers headed by Droṇa.
 
-**5.127.21**  O greatly wise one, O bull of the Bharatas, a kingdom cannot be won, protected, or enjoyed by one's own mere desire.
+**5.127.21**  O greatly wise one, O bull of the Bhāratas, a kingdom cannot be won, protected, or enjoyed by one's own mere desire.
 
 **5.127.22**  One whose senses are ungoverned cannot enjoy a kingdom for a long time; but the intelligent man who has conquered himself can protect a kingdom.
 
@@ -7992,11 +7992,11 @@ translator: thothica
 
 **5.127.42**  Give to the sons of Pāṇḍu what is proper, O crusher of enemies, if you wish to enjoy, together with your ministers, half of the kingdom of earth.
 
-**5.127.43**  Half the earth is enough for your life together with your ministers; standing by the counsel of well-wishers, you shall attain fame, O Bharata.
+**5.127.43**  Half the earth is enough for your life together with your ministers; standing by the counsel of well-wishers, you shall attain fame, O Bhārata.
 
 **5.127.44**  Conflict with the prosperous, self-possessed, wise, and sense-subduing Pāṇḍavas, dear son, would cause you to fall from great happiness.
 
-**5.127.45**  Restraining the resentment of well-wishers, rule the kingdom as is proper, having given the Pāṇḍavas their share, O bull of the Bharatas.
+**5.127.45**  Restraining the resentment of well-wishers, rule the kingdom as is proper, having given the Pāṇḍavas their share, O bull of the Bhāratas.
 
 **5.127.46**  Enough — this insult has been sustained for thirteen years; pacify it now, O greatly wise one — this anger and resentment that has been inflamed by desire and wrath.
 
@@ -8012,7 +8012,7 @@ translator: thothica
 
 **5.127.52**  If these men give up their lives out of fear of their royal obligation, they still shall not be able to face King Yudhiṣṭhira.
 
-**5.127.53**  Prosperity of men through greed is not seen here; therefore enough of greed, dear son — be calm, O bull of the Bharatas.
+**5.127.53**  Prosperity of men through greed is not seen here; therefore enough of greed, dear son — be calm, O bull of the Bhāratas.
 
 **5.128.1**  Vaiśaṃpāyana said: But disregarding that meaningful word spoken by his mother, he departed again in anger toward those of unconquered selves.
 
@@ -8102,7 +8102,7 @@ translator: thothica
 
 **5.128.44**  "When Śauri had gone to Prāgjyotiṣa, Naraka together with his danavas could not seize him there. Yet you seek to seize him by force."
 
-**5.128.45**  "For by this one, even as a child, Putana was slain; and Govardhana was lifted up for the sake of the cows, O bull of the Bharatas."
+**5.128.45**  "For by this one, even as a child, Putana was slain; and Govardhana was lifted up for the sake of the cows, O bull of the Bhāratas."
 
 **5.128.46**  "Ariṣṭa, Dhenuka, the mighty Cāṇūra, the king of horses — all were slain, as was Kaṃsa who acted wickedly."
 
@@ -8146,7 +8146,7 @@ translator: thothica
 
 **5.129.14**  Beholding that great wonder of Mādhava in the hall of the assembly, divine kettledrums sounded and a shower of flowers fell.
 
-**5.129.15**  The whole earth trembled and the ocean was agitated; the kings were filled with utmost wonder, O bull of the Bharatas.
+**5.129.15**  The whole earth trembled and the ocean was agitated; the kings were filled with utmost wonder, O bull of the Bhāratas.
 
 **5.129.16**  Then that tiger among men, that subduer of enemies, withdrew his own divine, wondrous, brilliant, and glorious form.
 
@@ -8180,7 +8180,7 @@ translator: thothica
 
 **5.129.31**  Dhṛtarāṣṭra, the lord of the earth, declaring himself powerless, takes leave of all of you — I shall go to Yudhiṣṭhira.
 
-**5.129.32**  Having bidden farewell to Śauri as he set out, mounted on his chariot — that bull among men — the great archers, the heroic bulls of the Bharata line, followed after him.
+**5.129.32**  Having bidden farewell to Śauri as he set out, mounted on his chariot — that bull among men — the great archers, the heroic bulls of the Bhārata line, followed after him.
 
 **5.129.33**  Bhīṣma, Droṇa, Kṛpa, Vidura, and then Dhṛtarāṣṭra, Bahlika, Aśvatthāmā, Vikarṇa, and the great chariot-warrior Yuyutsu.
 
@@ -8206,7 +8206,7 @@ translator: thothica
 
 **5.130.10**  Then King Mucukunda duly governed the earth, won by the strength of his arms, steadfastly devoted to the dharma of the Kṣatriya.
 
-**5.130.11**  Of whatever dharma the subjects practice here, well protected by the king, the king, O Bharata, obtains a fourth share of that merit.
+**5.130.11**  Of whatever dharma the subjects practice here, well protected by the king, the king, O Bhārata, obtains a fourth share of that merit.
 
 **5.130.12**  If the king practices dharma, he qualifies for divinity; if he practices adharma, he goes straight to hell.
 
@@ -8606,7 +8606,7 @@ translator: thothica
 
 **5.136.8**  And these men headed by Karṇa, and you yourself — armoured and mounted on your chariot — were all released by him during the cattle-raid excursion. That example alone is sufficient.
 
-**5.136.9**  Make peace, O foremost of the Bharatas, with the Pāṇḍava brothers, and let us protect this whole earth which has entered the jaws of death.
+**5.136.9**  Make peace, O foremost of the Bhāratas, with the Pāṇḍava brothers, and let us protect this whole earth which has entered the jaws of death.
 
 **5.136.10**  The eldest brother is righteous in conduct, affectionate, gentle of speech, and pure; go to him, that tiger among men, and remove the sin from here.
 
@@ -8658,7 +8658,7 @@ translator: thothica
 
 **5.137.8**  Even when restrained from evil, the evil-souled man desires evil; even when urged toward evil, the pure-souled man desires good.
 
-**5.137.9**  For these faults, O best of the Bharatas, though seemingly friendly while being indulged, lead only to harm.
+**5.137.9**  For these faults, O best of the Bhāratas, though seemingly friendly while being indulged, lead only to harm.
 
 **5.137.10**  You have been counselled by the elder of the Kurus, by me, by Vidura, and by Vāsudeva, yet you do not take the path of your own welfare.
 
@@ -8694,7 +8694,7 @@ translator: thothica
 
 **5.138.4**  Sañjaya said: In due order, words that were smooth and gentle, affectionate, grounded in dharma, truthful, and beneficial —
 
-**5.138.5**  — words that would capture the heart — these the immeasurable-souled Madhusūdana spoke to Rādheya; hear them from me, O Bharata.
+**5.138.5**  — words that would capture the heart — these the immeasurable-souled Madhusūdana spoke to Rādheya; hear them from me, O Bhārata.
 
 **5.138.6**  Vāsudeva said: O Rādheya, you have attended upon Brāhmaṇas who have mastered the Vedas, and questioned them on the true meaning with discipline and without envy.
 
@@ -8852,7 +8852,7 @@ translator: thothica
 
 **5.139.55**  As long as the mountains and rivers shall stand, O Janārdana, so long shall this fame-born, eternal renown endure.
 
-**5.139.56**  Brahmins shall tell of the great Bharata battle at their assemblies, O Vārṣṇeya — that battle which upholds the glory of the kshatriyas.
+**5.139.56**  Brahmins shall tell of the great Bhārata battle at their assemblies, O Vārṣṇeya — that battle which upholds the glory of the kshatriyas.
 
 **5.139.57**  Bring the son of Kuntī to battle against me, O Keśava, always keeping your counsels concealed, O scorcher of foes.
 
@@ -9016,7 +9016,7 @@ translator: thothica
 
 **5.142.11**  Shame on wealth, for the sake of which this great destruction among kinsmen will occur — for in this war the defeat of these friends shall surely come to pass.
 
-**5.142.12**  If the Pāṇḍavas, the Cedis, the Pāñcālas, and the Yādavas, assembled together, fight against the Bhāratas, what sorrow could be greater than this?
+**5.142.12**  If the Pāṇḍavas, the Cedis, the Pāñcālas, and the Yādavas, assembled together, fight against the Bharatas, what sorrow could be greater than this?
 
 **5.142.13**  I see only certain calamity in this war, and defeat in this war as well. Death is better than poverty, for victory is no victory when it comes through the slaughter of kinsmen.
 
@@ -9198,7 +9198,7 @@ translator: thothica
 
 **5.145.34**  Having thus appeased my mother and the people, I then besought the great sage Vyāsa regarding wives for my brothers.
 
-**5.145.35**  Together with my mother, O great king, having propitiated that sage, I begged him for offspring. He granted the grace, and he then fathered three sons, O best of the Bharatas.
+**5.145.35**  Together with my mother, O great king, having propitiated that sage, I begged him for offspring. He granted the grace, and he then fathered three sons, O best of the Bhāratas.
 
 **5.145.36**  Because he was blind and lacking faculties, your father was not king. Rather, the great-souled Pāṇḍu became king, renowned throughout the world.
 
@@ -9290,7 +9290,7 @@ translator: thothica
 
 **5.147.5**  And then there was Pūru, the younger, who is the increaser of our lineage, born of Śarmiṣṭhā, daughter of Vṛṣaparvan.
 
-**5.147.6**  And Yadu, O best of the Bharatas, was the son of Devayānī, the grandson of Śukra Kāvya of immeasurable splendor, dear boy.
+**5.147.6**  And Yadu, O best of the Bhāratas, was the son of Devayānī, the grandson of Śukra Kāvya of immeasurable splendor, dear boy.
 
 **5.147.7**  He, the founder of the Yādava lineage, was mighty and esteemed for his valor. But filled with pride and of very dull wit, he disrespected the warrior class.
 
@@ -9468,7 +9468,7 @@ translator: thothica
 
 **5.149.40**  In great battle, these men could strike fear even in Indra himself — what then of the greedy, evil-minded sons of Dhṛtarāṣṭra?
 
-**5.149.41**  I too, O mighty-armed slayer of foes, made great effort for your sake — hoping there might be peace, O Bharata. The debt of dharma has been paid; those who wish to speak cannot reproach us.
+**5.149.41**  I too, O mighty-armed slayer of foes, made great effort for your sake — hoping there might be peace, O Bhārata. The debt of dharma has been paid; those who wish to speak cannot reproach us.
 
 **5.149.42**  That childish, unwise Dhṛtarāṣṭra's son considers himself accomplished. The afflicted one considers himself strong — a fool's self-delusion.
 
@@ -9534,7 +9534,7 @@ translator: thothica
 
 **5.149.73**  Having reached the sacred river Hiraṇvatī in Kurukṣetra — blessed with good fords, with pure water, free of gravel and mire —
 
-**5.149.74**  — there, O Bharata, Keśava had a moat dug for protection, and, having stationed guards, he settled the army in that place.
+**5.149.74**  — there, O Bhārata, Keśava had a moat dug for protection, and, having stationed guards, he settled the army in that place.
 
 **5.149.75**  Whatever the arrangement of the camp had been for the great-souled Pāṇḍavas — Keśava had the camps of all the kings laid out in the same manner.
 
@@ -9552,7 +9552,7 @@ translator: thothica
 
 **5.149.82**  Elephants harnessed in mail-armor, covered with iron-plate barding, were seen there — mountain-like, each capable of fighting hundreds and thousands of foes.
 
-**5.149.83**  Learning that the Pāṇḍavas were encamped there, O Bharata, their allies came streaming in as appointed, with their forces and vehicles.
+**5.149.83**  Learning that the Pāṇḍavas were encamped there, O Bhārata, their allies came streaming in as appointed, with their forces and vehicles.
 
 **5.149.84**  Those kings who had observed celibacy, drunken the soma, and performed sacrifices with lavish gifts came together for the victory of the sons of Pāṇḍu.
 
@@ -9602,7 +9602,7 @@ translator: thothica
 
 **5.150.23**  And foot-soldiers, men bearing all kinds of weapons, attached to their bodies gold-inlaid arms in manifold ways.
 
-**5.150.24**  Like a great festival, the city of Dhṛtarāṣṭra's son was thronged with delighted men, joyfully astir, O Bharata.
+**5.150.24**  Like a great festival, the city of Dhṛtarāṣṭra's son was thronged with delighted men, joyfully astir, O Bhārata.
 
 **5.150.25**  A whirlpool of the waters of human multitudes, filled with chariots, elephants, and horses as fish — resounding with conches and kettledrums — heaped with treasuries of gems —
 
@@ -9640,7 +9640,7 @@ translator: thothica
 
 **5.151.15**  Nor do we at all desire peace with the Kauravas through excessive concession — after that, war is the only recourse.
 
-**5.151.16**  Having heard these words of Vāsudeva, all the kings, O Bharata, looked silently at the face of the king, saying nothing.
+**5.151.16**  Having heard these words of Vāsudeva, all the kings, O Bhārata, looked silently at the face of the king, saying nothing.
 
 **5.151.17**  Yudhiṣṭhira, perceiving the intent of the kings, ordered the march together with Bhīma, Arjuna, and the twins.
 
@@ -9664,7 +9664,7 @@ translator: thothica
 
 **5.151.27**  Then those Pāṇḍavas, O great king, resolved upon war, dwelt that night in comfort together with their soldiers.
 
-**5.152.1**  Vaiśaṃpāyana said: When the night had passed, King Duryodhana then arrayed those armies — eleven in all, O Bharata.
+**5.152.1**  Vaiśaṃpāyana said: When the night had passed, King Duryodhana then arrayed those armies — eleven in all, O Bhārata.
 
 **5.152.2**  Among foot-soldiers, elephants, chariots, and horses — the excellent, the middling, and the inferior — the king of the earth assigned each to all these divisions.
 
@@ -9722,7 +9722,7 @@ translator: thothica
 
 **5.152.29**  The son of Droṇa, and Karṇa, and Bhūriśravas, and Śakuni the son of Subala, and the great chariot-warrior Bahlika —
 
-**5.152.30**  Day after day, and at every watch, O Bharata, he arranged various signals among them, and confirmed them in his own presence again and again.
+**5.152.30**  Day after day, and at every watch, O Bhārata, he arranged various signals among them, and confirmed them in his own presence again and again.
 
 **5.152.31**  Thus all of them were disciplined, and those soldiers who followed in their footsteps, O king, were desirous of pleasing the king.
 
@@ -9756,7 +9756,7 @@ translator: thothica
 
 **5.153.15**  May you march ahead of us as Pavaki leads the gods; we shall follow you as the sons of Surabhī follow the bull.
 
-**5.153.16**  Bhīṣma said: O mighty-armed one, it is even as you say, O Bharata; just as you are to me, so too are the Pāṇḍavas to me.
+**5.153.16**  Bhīṣma said: O mighty-armed one, it is even as you say, O Bhārata; just as you are to me, so too are the Pāṇḍavas to me.
 
 **5.153.17**  And yet, O lord of men, I must speak what is good for them; but I shall fight for your cause, as that agreement was made.
 
@@ -9810,7 +9810,7 @@ translator: thothica
 
 **5.154.7**  "Patrol the armies, stand ready, clad in armor. The battle with your grandfather will come first. Therefore look upon the seven leaders of my forces."
 
-**5.154.8**  Vāsudeva said: "As befits you to speak at this time that has arrived, so too this meaningful speech has been uttered by you, O bull of the Bharatas."
+**5.154.8**  Vāsudeva said: "As befits you to speak at this time that has arrived, so too this meaningful speech has been uttered by you, O bull of the Bhāratas."
 
 **5.154.9**  "It pleases me, O mighty-armed one. Let what follows be done: let seven commanders be consecrated for your army."
 
@@ -9854,7 +9854,7 @@ translator: thothica
 
 **5.154.29**  But Madhusūdana did not heed that counsel of mine; he was wholly committed with all his being, with eyes fixed on Dhanañjaya.
 
-**5.154.30**  Victory of the Pāṇḍavas is certain—this is my firm conviction; for such indeed is the absorption of Vāsudeva, O Bharata.
+**5.154.30**  Victory of the Pāṇḍavas is certain—this is my firm conviction; for such indeed is the absorption of Vāsudeva, O Bhārata.
 
 **5.154.31**  And I cannot bear to witness the world without Kṛṣṇa; therefore I shall follow what Keśava intends to do.
 
@@ -9930,7 +9930,7 @@ translator: thothica
 
 **5.155.33**  I am not afraid, O mighty-armed one, nor do I have any need of an ally. Go wherever you wish, however you see fit, or remain elsewhere."
 
-**5.155.34**  Then Rukmi turned back with his ocean-like army and went to Duryodhana in the same manner, O bull of the Bharatas.
+**5.155.34**  Then Rukmi turned back with his ocean-like army and went to Duryodhana in the same manner, O bull of the Bhāratas.
 
 **5.155.35**  And having approached him likewise, he said the same things to that king, and was equally rejected by him who thought himself a hero.
 
@@ -9938,11 +9938,11 @@ translator: thothica
 
 **5.155.37**  With Rāma departed on his pilgrimage to sacred fords, and the son of Bhīṣmaka likewise withdrawn, the Pāṇḍavas sat down once again to take counsel.
 
-**5.155.38**  That assembly of the king of dharma, crowded with lords of the earth, shone resplendent — like the sky bright with stars and the moon, O Bharata.
+**5.155.38**  That assembly of the king of dharma, crowded with lords of the earth, shone resplendent — like the sky bright with stars and the moon, O Bhārata.
 
 **5.156.1**  Janamejaya said: When the armies had thus been arrayed on the field of Kurukṣetra, O bull among twice-born, what did the Kurus do, impelled by time?
 
-**5.156.2**  Vaiśaṃpāyana said: When those armies had thus been arrayed, O bull of the Bharatas, the great king Dhṛtarāṣṭra spoke these words to Sañjaya.
+**5.156.2**  Vaiśaṃpāyana said: When those armies had thus been arrayed, O bull of the Bhāratas, the great king Dhṛtarāṣṭra spoke these words to Sañjaya.
 
 **5.156.3**  "Come, Sañjaya — tell me everything without remainder: whatever has occurred at the camp among the armies of the Kurus and Pāṇḍavas."
 
@@ -9970,7 +9970,7 @@ translator: thothica
 
 **5.156.15**  "Some are directed by the Lord, some by chance, and others by the actions of former lives — this threefold force pulls men apart."
 
-**5.157.1**  Sañjaya said: When the great-souled Pāṇḍavas had encamped on the Hiraṇvatī, O great king, Duryodhana — together with Karṇa, O Bharata —
+**5.157.1**  Sañjaya said: When the great-souled Pāṇḍavas had encamped on the Hiraṇvatī, O great king, Duryodhana — together with Karṇa, O Bhārata —
 
 **5.157.2**  — and with Śakuni the son of Subala, O king of kings, and with Duḥśāsana — having summoned Ulūka aside, O king, spoke thus:
 
@@ -10114,7 +10114,7 @@ translator: thothica
 
 **5.159.13**  Pārtha does not even deign to look at you, nor does King Yudhiṣṭhira, nor Bhīmasena, nor the twins — you who speak so contrarily.
 
-**5.160.1**  Sañjaya said: Upon hearing those words of Duryodhana, the bull of the Bharatas gazed at the son of the gambler with eyes that had turned deep crimson.
+**5.160.1**  Sañjaya said: Upon hearing those words of Duryodhana, the bull of the Bhāratas gazed at the son of the gambler with eyes that had turned deep crimson.
 
 **5.160.2**  He, the great-glorious Guḍākeśa, glancing toward Keśava, stretched out his mighty arm and addressed the son of the gambler.
 
@@ -10164,7 +10164,7 @@ translator: thothica
 
 **5.160.25**  Turning back from the Pāṇḍavas, the son of the gambler went to the son of Dhṛtarāṣṭra and reported everything exactly as it had been said, in the assembly of the Kurus.
 
-**5.160.26**  Having heard the words of Keśava and Arjuna, that bull of the Bharatas addressed Duḥśāsana, Karṇa, and Śakuni.
+**5.160.26**  Having heard the words of Keśava and Arjuna, that bull of the Bhāratas addressed Duḥśāsana, Karṇa, and Śakuni.
 
 **5.160.27**  He commanded the kings and their forces and the allied contingents that the entire army should stand ready and equipped before sunrise.
 
@@ -10240,7 +10240,7 @@ translator: thothica
 
 **5.162.22**  These high-spirited sons of Dhṛtarāṣṭra, their offenses done by the sons of Pāṇḍu weighing upon them, shall slay in battle the battle-maddened Pāñcālas.
 
-**5.162.23**  Then I, O best of Bharatas, your supreme commander, shall destroy your enemies, reducing the Pāṇḍavas to naught — though it is not for me to extol my own qualities; you know me well.
+**5.162.23**  Then I, O best of Bhāratas, your supreme commander, shall destroy your enemies, reducing the Pāṇḍavas to naught — though it is not for me to extol my own qualities; you know me well.
 
 **5.162.24**  Kṛtavarman of the Bhojas, a great chariot-warrior, the foremost of those who strike — he shall without doubt accomplish your objectives in battle.
 
@@ -10318,7 +10318,7 @@ translator: thothica
 
 **5.164.6**  His wrath and fiery splendor were gathered through the austerity of the hermitage-dweller, and that noble-minded one was favored by Droṇa with celestial weapons.
 
-**5.164.7**  Yet one great fault he has, on whose account, O bull of the Bharatas, I count him neither a chariot-warrior nor a great chariot-warrior, O best of kings.
+**5.164.7**  Yet one great fault he has, on whose account, O bull of the Bhāratas, I count him neither a chariot-warrior nor a great chariot-warrior, O best of kings.
 
 **5.164.8**  Life is exceedingly dear to him; this brāhmaṇa ever longs to live. Yet none is his equal in either of the two armies.
 
@@ -10478,7 +10478,7 @@ translator: thothica
 
 **5.166.21**  Lion-framed are all the sons of Pāṇḍu, of mighty strength; all have kept the vow of chastity and all are men of surpassing austerity.
 
-**5.166.22**  Modest, tigers among men, fierce in strength like tigers; in speed, in the striking blow, and in the press of battle every one of them is more than human; all of them, O bull of the Bharatas, have subdued the kings of the earth in their conquest of the quarters.
+**5.166.22**  Modest, tigers among men, fierce in strength like tigers; in speed, in the striking blow, and in the press of battle every one of them is more than human; all of them, O bull of the Bhāratas, have subdued the kings of the earth in their conquest of the quarters.
 
 **5.166.23**  And no men can ever match them in handling their weapons, maces, and arrows, O Kaurava—neither in stringing the bow, nor in lifting the heavy mace, nor in drawing the shaft to the head.
 
@@ -10632,17 +10632,17 @@ translator: thothica
 
 **5.169.20**  For that Śikhaṇḍin was once a woman, O king, if you have heard it: having first been a maiden, he was born a man; with him I shall not fight, O descendant of Bharata.
 
-**5.169.21**  But all the other kings I shall slay, O bull of the Bharatas, whomever I meet in battle—save the sons of Kuntī, O king.
+**5.169.21**  But all the other kings I shall slay, O bull of the Bhāratas, whomever I meet in battle—save the sons of Kuntī, O king.
 
-**5.170.1**  Duryodhana said: For what reason, O best of the Bharatas, would you not slay Śikhaṇḍin, even seeing him in battle with arrow raised and bent on assault?
+**5.170.1**  Duryodhana said: For what reason, O best of the Bhāratas, would you not slay Śikhaṇḍin, even seeing him in battle with arrow raised and bent on assault?
 
 **5.170.2**  Having said before, O mighty-armed one, 'I shall slay the Pāṇḍavas together with the Somakas,' O son of Gaṅgā—tell me of this, grandfather.
 
 **5.170.3**  Bhīṣma said: Hear, Duryodhana, together with these lords of the earth, the tale of why I would not slay Śikhaṇḍin even when I see him in battle.
 
-**5.170.4**  The great king, my father Śaṃtanu, bull of the Bharatas, righteous in soul, reached his appointed end in due time, O bull among men.
+**5.170.4**  The great king, my father Śaṃtanu, bull of the Bhāratas, righteous in soul, reached his appointed end in due time, O bull among men.
 
-**5.170.5**  Then I, O best of the Bharatas, keeping my vow, consecrated my brother Citrāṅgada to the great kingship.
+**5.170.5**  Then I, O best of the Bhāratas, keeping my vow, consecrated my brother Citrāṅgada to the great kingship.
 
 **5.170.6**  And when he met his death, abiding by Satyavatī's wish, I consecrated Vicitravīrya as king according to the rites.
 
@@ -10652,11 +10652,11 @@ translator: thothica
 
 **5.170.9**  Then I heard, O mighty-armed one, that three maidens at a self-choice ceremony, all of matchless beauty, daughters of the king of Kāśi—Ambā, and Ambikā, and Ambālikā the third.
 
-**5.170.10**  And the kings of the earth were summoned, O bull of the Bharatas. Ambā was the eldest of them, Ambikā the middle one, and Ambālikā, O lord of kings, was the youngest of those royal maidens.
+**5.170.10**  And the kings of the earth were summoned, O bull of the Bhāratas. Ambā was the eldest of them, Ambikā the middle one, and Ambālikā, O lord of kings, was the youngest of those royal maidens.
 
 **5.170.11**  I, going to the city of the king of Kāśi with but a single chariot, saw those three maidens, O mighty-armed one, well adorned, and the kings, the assembled princes, O lord of the earth.
 
-**5.170.12**  Then, challenging all those kings who stood ready for battle, I made those maidens mount my chariot, O bull of the Bharatas.
+**5.170.12**  Then, challenging all those kings who stood ready for battle, I made those maidens mount my chariot, O bull of the Bhāratas.
 
 **5.170.13**  Knowing that they were to be won by valour as their price, having set them upon my chariot, I addressed all the princes gathered there, again and again: 'Bhīṣma, the son of Śaṃtanu, carries off the maidens!'
 
@@ -10678,7 +10678,7 @@ translator: thothica
 
 **5.170.22**  Then those maidens, O descendant of Bharata, won for my brother's sake, and that deed too, O mighty-armed one, I reported to Satyavatī.
 
-**5.171.1**  Bhīṣma said: Then, O best of the Bharatas, approaching my mother, the mother of a hero, the daughter of the fisherman, and clasping her feet, I spoke these words.
+**5.171.1**  Bhīṣma said: Then, O best of the Bhāratas, approaching my mother, the mother of a hero, the daughter of the fisherman, and clasping her feet, I spoke these words.
 
 **5.171.2**  'These daughters of the king of Kāśi, won at the price of valour, I have gained for Vicitravīrya's sake, having vanquished the kings.'
 
@@ -10692,7 +10692,7 @@ translator: thothica
 
 **5.171.7**  'How, O king, having studied the scriptures, would you keep me in your house, Bhīṣma, when my heart longs for another—you, of all men, being a Kaurava?'
 
-**5.171.8**  'Having weighed this and resolved it in your mind, O bull of the Bharatas, whatever is fitting for you, that, mighty-armed one, you ought to undertake here.'
+**5.171.8**  'Having weighed this and resolved it in your mind, O bull of the Bhāratas, whatever is fitting for you, that, mighty-armed one, you ought to undertake here.'
 
 **5.171.9**  'Plainly the king of Śālva awaits me, O lord of peoples. Show mercy to me, O mighty-armed one, best of the upholders of dharma; for you, O hero, are known throughout the earth as true to your vows—so have we heard.'
 
@@ -10728,9 +10728,9 @@ translator: thothica
 
 **5.172.16**  'Take me to yourself, O wide-eyed one—a maiden come of her own accord, who has belonged to no other, O lord of kings, longing for your favour.'
 
-**5.172.17**  But Śālva cast off that daughter of the king of Kāśi as she spoke thus, O best of the Bharatas, as a serpent casts off its worn-out skin.
+**5.172.17**  But Śālva cast off that daughter of the king of Kāśi as she spoke thus, O best of the Bhāratas, as a serpent casts off its worn-out skin.
 
-**5.172.18**  Though entreated thus by her with words of many kinds, O sinless one, the lord of Śālva put no faith in the maiden, O bull of the Bharatas.
+**5.172.18**  Though entreated thus by her with words of many kinds, O sinless one, the lord of Śālva put no faith in the maiden, O bull of the Bhāratas.
 
 **5.172.19**  Then that eldest daughter of the king of Kāśi, possessed by anguish, spoke with tearful eyes, in a voice broken by weeping.
 
@@ -10844,7 +10844,7 @@ translator: thothica
 
 **5.175.7**  Then all those sages rose up by the thousands, and that aged king Hotravāhana, of the Sṛñjayas, as well.
 
-**5.175.8**  Then, having greeted one another in due form, those forest-dwellers, O best of the Bharatas, sat down together, surrounding him.
+**5.175.8**  Then, having greeted one another in due form, those forest-dwellers, O best of the Bhāratas, sat down together, surrounding him.
 
 **5.175.9**  Then they told one tale after another, delightful, lovely and sublime, O great king, full of love and joy and gladness.
 
@@ -10918,7 +10918,7 @@ translator: thothica
 
 **5.176.14**  Whether Bhīṣma or King Śālva—whomever you find at fault—chastise that one, O mighty-armed one, on whose account I am so deeply afflicted.
 
-**5.176.15**  Bhīṣma said: As they were thus conversing, that day passed away, and the night too, O best of the Bharatas, with its breezes pleasantly cool and warm.
+**5.176.15**  Bhīṣma said: As they were thus conversing, that day passed away, and the night too, O best of the Bhāratas, with its breezes pleasantly cool and warm.
 
 **5.176.16**  Then Rāma appeared, blazing as it were with his splendour, surrounded by his disciples, O king—the sage wearing matted locks and garments of bark.
 
@@ -11108,7 +11108,7 @@ translator: thothica
 
 **5.179.5**  "Undeserving of such grief is that blessed river, daughter of Bhagīratha, who bore you—a fool, sick with the lust for war."
 
-**5.179.6**  "Come, go with me, Bhīṣma; let the battle take place this very day. Take up all your gear—chariot and the rest—O Kaurava, bull of the Bharatas."
+**5.179.6**  "Come, go with me, Bhīṣma; let the battle take place this very day. Take up all your gear—chariot and the rest—O Kaurava, bull of the Bhāratas."
 
 **5.179.7**  To Rāma, conqueror of hostile cities, as he spoke thus, I bowed my head, O king, and said, "So be it."
 
@@ -11122,11 +11122,11 @@ translator: thothica
 
 **5.179.12**  yoked with a well-bred charioteer many times proven in action—I, mailed in white armor that lent splendor to my frame,
 
-**5.179.13**  taking up a white bow, set forth, O best of the Bharatas, with a white parasol held above my head,
+**5.179.13**  taking up a white bow, set forth, O best of the Bhāratas, with a white parasol held above my head,
 
 **5.179.14**  fanned with white yak-tail whisks, O lord of men, clad in white, turbaned in white, adorned with ornaments all of white,
 
-**5.179.15**  hymned with blessings of victory, I went forth from the City named for the Elephant and came to Kurukṣetra, the field of battle, O bull of the Bharatas.
+**5.179.15**  hymned with blessings of victory, I went forth from the City named for the Elephant and came to Kurukṣetra, the field of battle, O bull of the Bhāratas.
 
 **5.179.16**  Urged on by that charioteer toward the great fight, those horses, swift as thought and wind, bore me swiftly onward, O king.
 
@@ -11148,7 +11148,7 @@ translator: thothica
 
 **5.179.25**  "Is not Rāma known to you, my son—the slayer of kṣatriyas, whose valor equals Hara's—that you wish to do battle with him?"
 
-**5.179.26**  Then, saluting the goddess with joined palms, I told her all, O best of the Bharatas—everything that had befallen at the bride-choosing,
+**5.179.26**  Then, saluting the goddess with joined palms, I told her all, O best of the Bhāratas—everything that had befallen at the bride-choosing,
 
 **5.179.27**  and how Rāma had earlier been entreated by me, O king of kings, and what the long-standing desire of the daughter of the king of Kāśi had been.
 
@@ -11212,7 +11212,7 @@ translator: thothica
 
 **5.180.26**  "Behold the prowess of my bow, behold the strength of my arms. Lo, hero, I split your bow in two, arrow and all."
 
-**5.180.27**  I let fly at him a sharp broad-headed shaft, O bull of the Bharatas; by it the tip of his bow was severed and fell to the ground.
+**5.180.27**  I let fly at him a sharp broad-headed shaft, O bull of the Bhāratas; by it the tip of his bow was severed and fell to the ground.
 
 **5.180.28**  And nine hundred arrows, straight-jointed and fledged with heron-feathers, I sent flying at the chariot of the son of Jamadagni.
 
@@ -11230,7 +11230,7 @@ translator: thothica
 
 **5.180.35**  Sorely afflicted by those sharp arrows, blazing like fire and the sun and like venomous snakes, Rāma seemed to grow faint of mind.
 
-**5.180.36**  Then, overcome with pity, reproaching myself within myself, I cried, 'Shame, shame upon this battle and upon the warrior's calling!' O bull of the Bharatas.
+**5.180.36**  Then, overcome with pity, reproaching myself within myself, I cried, 'Shame, shame upon this battle and upon the warrior's calling!' O bull of the Bhāratas.
 
 **5.180.37**  And again and again I said, O king, swept away by the surge of grief: 'Alas, what an evil deed I have done through this warrior's office!'
 
@@ -11266,7 +11266,7 @@ translator: thothica
 
 **5.181.14**  Then, turning me to his left, O king, that foremost of brāhmaṇas, the mighty son of Jamadagni, in his fury pierced me in the chest.
 
-**5.181.15**  Then I, O best of the Bharatas, sank down upon my noble car, and the charioteer, seeing me overcome with faintness and sorely afflicted by Rāma's arrow, swiftly bore me away a krośa's distance, O best of the Bharatas.
+**5.181.15**  Then I, O best of the Bhāratas, sank down upon my noble car, and the charioteer, seeing me overcome with faintness and sorely afflicted by Rāma's arrow, swiftly bore me away a krośa's distance, O best of the Bhāratas.
 
 **5.181.16**  Then, seeing me borne off, grievously wounded and senseless, Rāma's followers — Akṛtavraṇa foremost among them, and the maiden of Kāśī — all rejoiced and raised a shout, O Bhārata.
 
@@ -11308,9 +11308,9 @@ translator: thothica
 
 **5.181.35**  Then I too, with arrows like venomous serpents, cut those down in battle, O king, and brought them to earth like so many snakes.
 
-**5.181.36**  Thus did that battle go, O best of the Bharatas; and when the hour of twilight had passed, my teacher withdrew.
+**5.181.36**  Thus did that battle go, O best of the Bhāratas; and when the hour of twilight had passed, my teacher withdrew.
 
-**5.182.1**  Bhīṣma said: When I had joined battle with Rāma once more, the next day there was again a fight most terrible and tumultuous, O best of the Bharatas.
+**5.182.1**  Bhīṣma said: When I had joined battle with Rāma once more, the next day there was again a fight most terrible and tumultuous, O best of the Bhāratas.
 
 **5.182.2**  Then the hero, knower of celestial weapons, that righteous and mighty lord, deployed divine arms in great number, day after day.
 
@@ -11358,7 +11358,7 @@ translator: thothica
 
 **5.183.8**  It fell, O king, between my collarbones — that blood-drinking shaft — and along with me, O lord of kings, it went down to the surface of the earth.
 
-**5.183.9**  Believing me slain, then, O bull of the Bharatas, Rāma roared aloud like a thundercloud and rejoiced again and again.
+**5.183.9**  Believing me slain, then, O bull of the Bhāratas, Rāma roared aloud like a thundercloud and rejoiced again and again.
 
 **5.183.10**  And when I had fallen thus, O king, Rāma, filled with joy, raised a great shout together with those his followers.
 
@@ -11378,7 +11378,7 @@ translator: thothica
 
 **5.183.18**  Then I myself, taking up the reins of those wind-swift horses, fought on against the son of Jamadagni as the day waned, O Bhārata.
 
-**5.183.19**  Then, O best of the Bharatas, in that battle I loosed against Rāma a swift and mighty arrow that would cleave his heart.
+**5.183.19**  Then, O best of the Bhāratas, in that battle I loosed against Rāma a swift and mighty arrow that would cleave his heart.
 
 **5.183.20**  Then Rāma, sorely afflicted by the arrow's force, sank to the earth upon his knees, let his bow fall, and passed into a swoon.
 
@@ -11390,7 +11390,7 @@ translator: thothica
 
 **5.183.24**  In a quarter of the sky that blazed, a jackal howled grimly again and again, and kettledrums, untouched by any hand, resounded with a deafening din.
 
-**5.183.25**  Such was the dreadful array of portents, O most excellent of the Bharatas, when the great-souled Rāma, well-nigh senseless, had sunk to the ground.
+**5.183.25**  Such was the dreadful array of portents, O most excellent of the Bhāratas, when the great-souled Rāma, well-nigh senseless, had sunk to the ground.
 
 **5.183.26**  Then the sun, its orb of rays grown dim and sunk deep within heaped clouds of dust, went down to its setting; night drew on with its pleasant, cooling breeze, and so we two withdrew from battle.
 
@@ -11414,7 +11414,7 @@ translator: thothica
 
 **5.184.9**  "Arise, fear not, O son of Gaṅgā; there is no danger whatsoever for you. We guard you, O tiger among men, for you are to us as our own body."
 
-**5.184.10**  "Rāma, the son of Jamadagni, shall in no way conquer you in battle; it is you who shall vanquish Rāma in the fray, O bull of the Bharatas."
+**5.184.10**  "Rāma, the son of Jamadagni, shall in no way conquer you in battle; it is you who shall vanquish Rāma in the fray, O bull of the Bhāratas."
 
 **5.184.11**  "This well-beloved weapon you shall recognize anew, for it was known to you as well in your former bearing of a body."
 
@@ -11442,7 +11442,7 @@ translator: thothica
 
 **5.185.5**  Its touch was like the thunderbolt of Indra, its splendor like the rod of Yama, blazing like fire in the fight and licking out flames on every side.
 
-**5.185.6**  Then, O tiger of the Bharatas, like a blazing meteor coursing through the sky, that spear struck me swiftly upon the region of the shoulder, O Bhārata.
+**5.185.6**  Then, O tiger of the Bhāratas, like a blazing meteor coursing through the sky, that spear struck me swiftly upon the region of the shoulder, O Bhārata.
 
 **5.185.7**  Then my blood flowed dreadfully, like the red-ochre ore from a mountainside, O mighty-armed one, where Rāma had wounded me, O you whose eyes are red as blood.
 
@@ -11464,7 +11464,7 @@ translator: thothica
 
 **5.185.16**  Then, to counter it, the same most excellent Brahmā weapon, loosed by me, blazed forth, showing as it were the end of an age.
 
-**5.185.17**  Between those two Brahmā weapons there came a clash in mid-course, before either could reach Rāma or me, O most excellent of the Bharatas.
+**5.185.17**  Between those two Brahmā weapons there came a clash in mid-course, before either could reach Rāma or me, O most excellent of the Bhāratas.
 
 **5.185.18**  Then in the sky there appeared nothing but a sheer blaze of fire, and all beings fell into anguish, O lord of peoples.
 
@@ -11488,7 +11488,7 @@ translator: thothica
 
 **5.186.5**  Then I beheld those eight expounders of the Veda standing in the heavens; smiling upon me, O lord of kings, they gently spoke this word.
 
-**5.186.6**  "As Nārada bids you, O best of the Bharatas, so do; for this is the highest good of the worlds, O bull of the Bharatas."
+**5.186.6**  "As Nārada bids you, O best of the Bhāratas, so do; for this is the highest good of the worlds, O bull of the Bhāratas."
 
 **5.186.7**  Then, withdrawing that sleep-bringing weapon in the fray, I kindled forth the Brahmā weapon in that battle, according to the rite.
 
@@ -11736,7 +11736,7 @@ translator: thothica
 
 **5.190.17**  Śikhaṇḍin too, O great king, lived in the royal household after the manner of a man, full of joy, in no way relishing womanhood.
 
-**5.190.18**  Then after a few days, O bull of the Bharatas, hearing this, King Hiraṇyavarman, O lord of kings, was driven to anguish by his fury.
+**5.190.18**  Then after a few days, O bull of the Bhāratas, hearing this, King Hiraṇyavarman, O lord of kings, was driven to anguish by his fury.
 
 **5.190.19**  Then the Daśārṇaka king, filled with fierce wrath, dispatched a messenger to the dwelling of Drupada.
 
@@ -11802,7 +11802,7 @@ translator: thothica
 
 **5.192.7**  In that time of peril, O Bhārata, the king secured on every side his city—naturally well guarded and fully arrayed for defence, O lord of kings.
 
-**5.192.8**  And the king, together with his wife, fell into the deepest distress over the strife with the lord of the Daśārṇas, O bull of the Bharatas.
+**5.192.8**  And the king, together with his wife, fell into the deepest distress over the strife with the lord of the Daśārṇas, O bull of the Bhāratas.
 
 **5.192.9**  "How may there be no great quarrel between me and my kinsman?"—thus reflecting in his mind, he then worshipped the gods.
 
@@ -11848,7 +11848,7 @@ translator: thothica
 
 **5.192.30**  Only until that king draws near my city—until then, O great yakṣa, O guhyaka, show me your favour."
 
-**5.193.1**  Bhīṣma said: Hearing the words of Śikhaṇḍin, O bull of the Bharatas, that yakṣa, pressed by fate, reflected in his mind and spoke—for it was destined to be, and to my own sorrow, O Kaurava:
+**5.193.1**  Bhīṣma said: Hearing the words of Śikhaṇḍin, O bull of the Bhāratas, that yakṣa, pressed by fate, reflected in his mind and spoke—for it was destined to be, and to my own sorrow, O Kaurava:
 
 **5.193.2**  "Gentle one, I shall do your will, but mark my condition. For a certain space of time I shall give you this my own manhood; but you must return at the appointed time. This I tell you truly.
 
@@ -11888,7 +11888,7 @@ translator: thothica
 
 **5.193.20**  That speech, fraught with reproach, the king was made to hear, in the midst of his counsellors, from the chaplain who was envoy of the Daśārṇa lord.
 
-**5.193.21**  Then Drupada, O best of the Bharatas, bowing in conciliation, said: "As for the speech your honour, O brāhmaṇa, has spoken to me at the bidding of my kinsman, an envoy of mine shall himself bear the answer in reply to it."
+**5.193.21**  Then Drupada, O best of the Bhāratas, bowing in conciliation, said: "As for the speech your honour, O brāhmaṇa, has spoken to me at the bidding of my kinsman, an envoy of mine shall himself bear the answer in reply to it."
 
 **5.193.22**  Then Drupada too sent forth to the great-souled Hiraṇyavarman an envoy, a brāhmaṇa who had reached the far shore of the Veda.
 
@@ -11966,7 +11966,7 @@ translator: thothica
 
 **5.193.59**  Thus, O great king, this son of Drupada, woman-and-man, came into being—Śikhaṇḍin, O best of the Kauravas, the foremost of warriors on the car.
 
-**5.193.60**  The eldest daughter of the lord of Kāśi, renowned by the name of Ambā, was born in the line of Drupada as Śikhaṇḍin, O bull of the Bharatas.
+**5.193.60**  The eldest daughter of the lord of Kāśi, renowned by the name of Ambā, was born in the line of Drupada as Śikhaṇḍin, O bull of the Bhāratas.
 
 **5.193.61**  Even for a moment I would not look upon him, bow in hand and come forward eager to fight; nor would I strike him.
 
@@ -12024,7 +12024,7 @@ translator: thothica
 
 **5.194.22**  do you presume so, O Rādheya. For that reason you may go on boasting like this as much as you please."
 
-**5.195.1**  Vaiśaṃpāyana said: Hearing this, the son of Kuntī, O best of the Bharatas, summoned all his brothers aside in private and spoke these words.
+**5.195.1**  Vaiśaṃpāyana said: Hearing this, the son of Kuntī, O best of the Bhāratas, summoned all his brothers aside in private and spoke these words.
 
 **5.195.2**  "The spies of mine who move among the armies of Dhṛtarāṣṭra's son bring me this report, now that the night has passed:
 

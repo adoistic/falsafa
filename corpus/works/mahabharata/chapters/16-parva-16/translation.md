@@ -394,7 +394,7 @@ translator: thothica
 
 **16.8.27**  Then the young sons of the Vṛṣṇi heroes, with Vajra at their head, and the women too, all offered the water-libations to the great-souled one.
 
-**16.8.28**  Having had this rite duly performed without omitting any sacred duty, Phalguna went, O bull of the Bharatas, to the place where the Vṛṣṇis had perished.
+**16.8.28**  Having had this rite duly performed without omitting any sacred duty, Phalguna went, O bull of the Bhāratas, to the place where the Vṛṣṇis had perished.
 
 **16.8.29**  Beholding them fallen in that slaughter, the descendant of Kuru was sorely grieved, and he performed for them the rites due at such a time.
 
@@ -498,7 +498,7 @@ translator: thothica
 
 **16.9.5**  'Has some stain that comes not from valour befallen you? Or has a Brāhmaṇa been slain by you? Or have you been vanquished in battle? You seem like one whose splendour has departed.'
 
-**16.9.6**  I do not recognize you as the man you were. What has happened, O bull of the Bharatas? If it is fit for me to hear, O Pārtha, you should tell it to me at once.
+**16.9.6**  I do not recognize you as the man you were. What has happened, O bull of the Bhāratas? If it is fit for me to hear, O Pārtha, you should tell it to me at once.
 
 **16.9.7**  Arjuna said: He whose body was the very form of wisdom, the glorious one with great lotus eyes—that Kṛṣṇa, together with Rāma, has cast off his body and gone to heaven.
 
@@ -558,7 +558,7 @@ translator: thothica
 
 **16.9.35**  Your weapons, their work accomplished, have today gone the way by which they came; they will return again to your hand when the time shall be.
 
-**16.9.36**  It is time for you too to go upon the highest path, O Bhārata; this I hold to be your supreme good, O bull of the Bharatas.
+**16.9.36**  It is time for you too to go upon the highest path, O Bhārata; this I hold to be your supreme good, O bull of the Bhāratas.
 
 **16.9.37**  Heeding this counsel of Vyāsa of boundless splendor, and granted leave, Pārtha set out for the city named after the elephant.
 

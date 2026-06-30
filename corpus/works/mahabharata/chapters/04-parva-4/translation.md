@@ -30,7 +30,7 @@ translator: thothica
 
 **4.1.6**  Therefore, O son of Kuntī, O Arjuna, please choose well a place of residence from here, where all of us may dwell entirely unrecognised by our enemies.
 
-**4.1.7**  Arjuna said: By the very boon of Dharma himself, O lord of men, O bull of the Bharatas, we shall move about unrecognised among people.
+**4.1.7**  Arjuna said: By the very boon of Dharma himself, O lord of men, O bull of the Bhāratas, we shall move about unrecognised among people.
 
 **4.1.8**  Yet I shall name certain kingdoms that are pleasant and well-concealed as places to reside; please choose whichever one of them appeals to you.
 
@@ -266,7 +266,7 @@ translator: thothica
 
 **4.5.6**  'Clearly the capital of Virāṭa must be far away. Let us spend the night here — my fatigue is great.'
 
-**4.5.7**  Yudhiṣṭhira said: Dhanañjaya, O Bharata, take up Pāñcālī and carry her; we shall dwell in the capital, freed at last from forest life.
+**4.5.7**  Yudhiṣṭhira said: Dhanañjaya, O Bhārata, take up Pāñcālī and carry her; we shall dwell in the capital, freed at last from forest life.
 
 **4.5.8**  Vaiśaṃpāyana said: Arjuna quickly took Draupadī and, like a lordly elephant, having reached the vicinity of the city, Arjuna set her down.
 
@@ -280,9 +280,9 @@ translator: thothica
 
 **4.5.13**  'And there is no one at all to be found here, O king, for it has grown in a pathless forest frequented by deer and serpents.'
 
-**4.5.14**  'Let us hang our weapons on this tree and go toward the city; thus we shall move about here as we please, O Bharata.'
+**4.5.14**  'Let us hang our weapons on this tree and go toward the city; thus we shall move about here as we please, O Bhārata.'
 
-**4.5.15**  Vaiśaṃpāyana said: Having spoken thus to the righteous-souled king Yudhiṣṭhira, he proceeded to deposit the weapons, O bull of the Bharatas.
+**4.5.15**  Vaiśaṃpāyana said: Having spoken thus to the righteous-souled king Yudhiṣṭhira, he proceeded to deposit the weapons, O bull of the Bhāratas.
 
 **4.5.16**  With which bow the son of Kuru's joy, alone on his chariot, had conquered gods, men, and serpents, and had subdued other flourishing kingdoms —
 
@@ -888,7 +888,7 @@ translator: thothica
 
 **4.18.25**  Thinking again and again on Sahadeva's deeds, I cannot find, O mighty-armed, any misdeed of Sahadeva by reason of which a man of such true valour should suffer this kind of sorrow.
 
-**4.18.26**  I burn with pain, O foremost of Bharatas, seeing your dear brother, resembling a mighty bull among cattle, set to work among cattle by Matsya.
+**4.18.26**  I burn with pain, O foremost of Bhāratas, seeing your dear brother, resembling a mighty bull among cattle, set to work among cattle by Matsya.
 
 **4.18.27**  When I see him full of spirit, dressed in red, walking at the head of the cowherds, saluting Virāṭa — then fever seizes me.
 
@@ -934,7 +934,7 @@ translator: thothica
 
 **4.19.12**  With brothers, fathers-in-law, and many sons — a woman thus richly provided — what other woman could be so afflicted, O slayer of enemy heroes?
 
-**4.19.13**  Surely I must have offended fate in my childhood — by whose displeasure I have come to this ill fate, O bull of the Bharatas.
+**4.19.13**  Surely I must have offended fate in my childhood — by whose displeasure I have come to this ill fate, O bull of the Bhāratas.
 
 **4.19.14**  See also, O Pāṇḍava, the situation of my complexion — the space for colour that was not there in my extremest grief then.
 
@@ -1318,7 +1318,7 @@ translator: thothica
 
 **4.24.15**  Having searched as was proper and having come to know the truth of the matter, the charioteers arrived at Dvāravatī without the Pārthas, O scorcher of foes.
 
-**4.24.16**  The Pāṇḍavas were not there, O king, nor was Kṛṣṇā the devoted wife. They have disappeared altogether. We bow to you, O bull of the Bharatas.
+**4.24.16**  The Pāṇḍavas were not there, O king, nor was Kṛṣṇā the devoted wife. They have disappeared altogether. We bow to you, O bull of the Bhāratas.
 
 **4.24.17**  We do not know the movement of those great-souled Pāṇḍavas, nor their dwelling, nor their doings, nor the deeds done by them. Instruct us, O lord of men, O lord of people, as to what we should do hereafter.
 
@@ -1384,9 +1384,9 @@ translator: thothica
 
 **4.26.10**  Therefore, having understood this, let action be taken; and let us search further through learned Brahmins, accomplished spies, and others who have knowledge of such matters."
 
-**4.27.1**  Vaiśaṃpāyana said: Then Bhīṣma, the son of Śaṃtanu, the grandfather of the Bharatas, learned, knowing time and place, knowing truth, and versed in all dharma,
+**4.27.1**  Vaiśaṃpāyana said: Then Bhīṣma, the son of Śaṃtanu, the grandfather of the Bhāratas, learned, knowing time and place, knowing truth, and versed in all dharma,
 
-**4.27.2**  when the teacher's speech had ended, taking up that speech and joining it to his own for the sake of their welfare, he spoke this address to the Bharatas:
+**4.27.2**  when the teacher's speech had ended, taking up that speech and joining it to his own for the sake of their welfare, he spoke this address to the Bhāratas:
 
 **4.27.3**  Bhīṣma there spoke a speech anchored in Yudhiṣṭhira, the knower of dharma, resting on dharma, ever rare among the wicked, always beloved of the good — a speech honored by the virtuous.
 
@@ -1458,7 +1458,7 @@ translator: thothica
 
 **4.28.9**  Dear one, I think all of this is so — understand your own strength, fixed as it is in relation to all your allies, the powerful and the weak alike."
 
-**4.28.10**  Having assessed the forces as high, middling, or low, O Bharata, and knowing who is pleased and who is not, let us then make peace with our enemies accordingly.
+**4.28.10**  Having assessed the forces as high, middling, or low, O Bhārata, and knowing who is pleased and who is not, let us then make peace with our enemies accordingly.
 
 **4.28.11**  Through conciliation, through sowing discord, through gifts, through chastisement, through tribute — bring the powerful to submission by righteous means, and bend the weak by force.
 
@@ -1580,7 +1580,7 @@ translator: thothica
 
 **4.30.28**  Eight thousand chariots, ten hundred elephants, and sixty thousand horses of the Matsyas, ready, obedient, joyful, and following, sallied forth.
 
-**4.30.29**  That army of Virāṭa shone brilliantly, O bull of the Bharatas, O great king, as it marched forth to retrieve the track of the cattle.
+**4.30.29**  That army of Virāṭa shone brilliantly, O bull of the Bhāratas, O great king, as it marched forth to retrieve the track of the cattle.
 
 **4.30.30**  That foremost army of Virāṭa set out and shone with splendor, crowded with men bearing firm weapons, thronged with elephants, horses, and chariots.
 
@@ -1954,7 +1954,7 @@ translator: thothica
 
 **4.36.45**  "Enter this chariot army that is unassailable and hard to approach; be the charioteer, O best of men, while I fight with the Kurus."
 
-**4.36.46**  Speaking thus, the invincible Bībhatsu, O bull of the Bharata line, for a moment comforted that prince Uttara, the son of Virāṭa.
+**4.36.46**  Speaking thus, the invincible Bībhatsu, O bull of the Bhārata line, for a moment comforted that prince Uttara, the son of Virāṭa.
 
 **4.36.47**  Then Pārtha, the foremost of warriors, mounted him — unwilling and oppressed with fear and struggling — onto the chariot.
 
@@ -2596,7 +2596,7 @@ translator: thothica
 
 **4.49.12**  Pierced by that king who was a foremost chariot-fighter, Arjuna, plunging deeper into the Kuru host, quickly struck Śatruṃtapa with five arrows and then killed his charioteer with ten.
 
-**4.49.13**  Then he, pierced by that bull of the Bharatas with an arrow that penetrated his body-armor, fell lifeless upon the field, like a great elephant toppling from a mountain peak uprooted by the wind.
+**4.49.13**  Then he, pierced by that bull of the Bhāratas with an arrow that penetrated his body-armor, fell lifeless upon the field, like a great elephant toppling from a mountain peak uprooted by the wind.
 
 **4.49.14**  Those bulls among chariot-warriors, those heroes, broken in battle by that still greater hero, trembled as great forests shaken by the force of the wind in the season of storms.
 
@@ -2778,7 +2778,7 @@ translator: thothica
 
 **4.53.12**  Seeing those two chariots, filled with valor, at the front of the battle — the teacher and the pupil, both unconquered, both accomplished in all learning, both resolute of mind —
 
-**4.53.13**  — seeing Droṇa and Pārtha, both of great might, thus engaged with each other, the great army of the Bharatas trembled again and again.
+**4.53.13**  — seeing Droṇa and Pārtha, both of great might, thus engaged with each other, the great army of the Bhāratas trembled again and again.
 
 **4.53.14**  And Pārtha, filled with joy, as if smiling, that heroic great chariot warrior, drew alongside Droṇa's chariot with his own.
 
@@ -2868,7 +2868,7 @@ translator: thothica
 
 **4.53.57**  And seeing Pārtha's ceaseless skill, swiftness, and ability to shoot at distant targets in battle, Droṇa too was filled with wonder.
 
-**4.53.58**  Then, O bull of the Bharatas, the intolerant Pārtha, taking up his divine Gāṇḍīva bow, drew it with both arms in battle.
+**4.53.58**  Then, O bull of the Bhāratas, the intolerant Pārtha, taking up his divine Gāṇḍīva bow, drew it with both arms in battle.
 
 **4.53.59**  His rain of arrows, like an extending swarm of locusts — even the wind could not pass through the gaps between those shafts.
 
@@ -2878,7 +2878,7 @@ translator: thothica
 
 **4.53.62**  Then hundreds of thousands of arrows with smooth joints descended upon Droṇa's chariot simultaneously from close range.
 
-**4.53.63**  As Droṇa was being showered by the arrows of the Gāṇḍīva-bearer, O bull of the Bharatas, a great cry of "Ah! Ah!" rose from the troops.
+**4.53.63**  As Droṇa was being showered by the arrows of the Gāṇḍīva-bearer, O bull of the Bhāratas, a great cry of "Ah! Ah!" rose from the troops.
 
 **4.53.64**  Maghavan (Indra) honored the Pāṇḍava's swift weaponry, and so did the gandharvas, the apsaras, and all who had assembled there.
 
@@ -3038,7 +3038,7 @@ translator: thothica
 
 **4.56.28**  The invincible Bībhatsu, the son of Kuntī, wearing the diadem and garlands, mighty and having attained his aim, swooped upon all directions.
 
-**4.57.1**  Vaiśaṃpāyana said: Then all the great warriors of the Kauravas, coming together, joined forces and vigilantly fought back against Arjuna, O Bharata.
+**4.57.1**  Vaiśaṃpāyana said: Then all the great warriors of the Kauravas, coming together, joined forces and vigilantly fought back against Arjuna, O Bhārata.
 
 **4.57.2**  He of immeasurable spirit covered those great warriors on all sides with nets of arrows, like mist covering mountains.
 
@@ -3062,13 +3062,13 @@ translator: thothica
 
 **4.57.12**  The earth shone covered with limbs torn apart by arrows, and with arms still clutching bows, adorned with bracelets and other ornaments.
 
-**4.57.13**  O bull of the Bharata line, as heads were being felled by sharp arrows, it was as though a rain of stones fell from the sky.
+**4.57.13**  O bull of the Bhārata line, as heads were being felled by sharp arrows, it was as though a rain of stones fell from the sky.
 
 **4.57.14**  Having thus revealed his terrible form, with the valor of Rudra himself, Pārtha the son of Pāṇḍu — who had been constrained and wandering for thirteen years — now unleashed the dreadful fire of his wrath upon the sons of Dhṛtarāṣṭra.
 
 **4.57.15**  Seeing him burn the army and beholding his valor, all the warriors of Dhṛtarāṣṭra's son became intent on making peace, while their king looked on.
 
-**4.57.16**  Having terrified that army and routed the great chariot-warriors, Arjuna, the foremost among the victorious, wheeled about, O Bharata.
+**4.57.16**  Having terrified that army and routed the great chariot-warriors, Arjuna, the foremost among the victorious, wheeled about, O Bhārata.
 
 **4.57.17**  He set in motion a dreadful river with waves of torrential blood, choked with bones serving as its moss, fashioned by Time at the end of an age.
 
@@ -3100,7 +3100,7 @@ translator: thothica
 
 **4.58.12**  All the chariot-warriors everywhere became terrified; becoming intent on peace, they could not collect their own thoughts. All those warriors turned their faces away from battle, their spirits broken.
 
-**4.58.13**  Thus, O bull of the Bharata line, all the armies were broken and fled in every direction, without hope for their own lives.
+**4.58.13**  Thus, O bull of the Bhārata line, all the armies were broken and fled in every direction, without hope for their own lives.
 
 **4.59.1**  Vaiśaṃpāyana said: Then Bhīṣma, son of Shantanu — irresistible and of great prowess — charged at Dhanañjaya while the warriors were being slaughtered.
 
@@ -3178,7 +3178,7 @@ translator: thothica
 
 **4.59.38**  Both were celebrated for their deeds, both were skilled in battle, both performed equal feats, both were unapproachable in combat.
 
-**4.59.39**  Thus addressed, O Bharata, the king of the gods honored the encounter of Pārtha and Bhīṣma with a divine shower of flowers.
+**4.59.39**  Thus addressed, O Bhārata, the king of the gods honored the encounter of Pārtha and Bhīṣma with a divine shower of flowers.
 
 **4.59.40**  Then Bhīṣma, son of Shantanu, having taken aim and found an opening, planted a shaft in the left side of Savyasācin (Arjuna) as he was shooting.
 
@@ -3488,7 +3488,7 @@ translator: thothica
 
 **4.64.36**  Then the son of Kuntī privately counselled with Uttara about everything that needed to be done — the entire course of action — regarding king Yudhiṣṭhira.
 
-**4.64.37**  And so the bull among men, bull among Bharatas, duly arranged all of that, joyful, together with the son of Matsya.
+**4.64.37**  And so the bull among men, bull among Bhāratas, duly arranged all of that, joyful, together with the son of Matsya.
 
 **4.65.1**  Vaiśaṃpāyana said: On the third day thereafter, the five Pāṇḍava brothers, bathed, clad in white garments, having fulfilled the vow that was theirs to keep —
 
@@ -3588,7 +3588,7 @@ translator: thothica
 
 **4.66.28**  Thus addressed, the king of dharma glanced at Pārtha Dhanaṃjaya; and Arjuna, so regarded by his brother, spoke these words to Matsya:
 
-**4.66.29**  'I accept your daughter as a daughter-in-law, O king; the alliance between us two is fitting — the best of the Matsyas and the best of the Bharatas.'
+**4.66.29**  'I accept your daughter as a daughter-in-law, O king; the alliance between us two is fitting — the best of the Matsyas and the best of the Bhāratas.'
 
 **4.67.1**  Virāṭa said: Why, O foremost of the Pāṇḍavas, do you not wish to take my daughter, offered by me, as your own wife here?
 
@@ -3664,4 +3664,4 @@ translator: thothica
 
 **4.67.37**  Thousands of cows, jewels, garments of every kind, choice ornaments, vehicles, and couches —
 
-**4.67.38**  That city of the Matsya king, resembling a great festival, thronged with happy and well-fed people, shone brilliantly, O bull of the Bharatas.
+**4.67.38**  That city of the Matsya king, resembling a great festival, thronged with happy and well-fed people, shone brilliantly, O bull of the Bhāratas.

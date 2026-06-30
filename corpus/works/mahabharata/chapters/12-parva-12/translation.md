@@ -230,7 +230,7 @@ translator: thothica
 
 **12.3.33**  Thus addressed by Rāma, he duly departed; and coming to Duryodhana, he declared, "I am now accomplished in arms."
 
-**12.4.1**  Nārada said: Having gained this weapon from the son of Bhṛgu, Karṇa, together with Duryodhana, rejoiced, O bull of the Bharatas.
+**12.4.1**  Nārada said: Having gained this weapon from the son of Bhṛgu, Karṇa, together with Duryodhana, rejoiced, O bull of the Bhāratas.
 
 **12.4.2**  Then once, O king, the kings gathered together at the bride-choosing of Citrāṅgada, the king in the Kaliṅga country.
 
@@ -558,7 +558,7 @@ translator: thothica
 
 **12.10.1**  Bhīma said: Like that of some dull, unlettered reciter of scripture, O king, your understanding is deadened by recitations and does not perceive the true meaning of things.
 
-**12.10.2**  You who have set your heart upon idleness and who spurn the duty of kings—in the destruction of Dhṛtarāṣṭra's sons, what fruit will there be, O bull of the Bharatas?
+**12.10.2**  You who have set your heart upon idleness and who spurn the duty of kings—in the destruction of Dhṛtarāṣṭra's sons, what fruit will there be, O bull of the Bhāratas?
 
 **12.10.3**  For one who treads the warrior's path, no forbearance, pity, compassion, or gentleness toward a kinsman has any place in the moment between you and him.
 
@@ -612,7 +612,7 @@ translator: thothica
 
 **12.10.28**  Behold how the world is busied, each thing with its own several deeds; therefore it is action alone that must be performed; there is no perfection for the man without action.
 
-**12.11.1**  Arjuna said: On this very matter they tell this ancient tale, the colloquy of Śakra with certain ascetics, O bull of the Bharatas.
+**12.11.1**  Arjuna said: On this very matter they tell this ancient tale, the colloquy of Śakra with certain ascetics, O bull of the Bhāratas.
 
 **12.11.2**  Certain brāhmaṇas, forsaking their homes, went away to the forest—dull-witted, their beards not yet grown, born of good family, they took to the wandering life.
 
@@ -692,7 +692,7 @@ translator: thothica
 
 **12.12.12**  He who keeps in view worldly gain, desire, and heaven alike, O descendant of Bharata—this is the path of the great sages, this the course of those who know the worlds.
 
-**12.12.13**  He who shapes his disposition thus is the true renouncer, O bull of the Bharatas—not he who abandons his home and goes to the forest like one bewildered.
+**12.12.13**  He who shapes his disposition thus is the true renouncer, O bull of the Bhāratas—not he who abandons his home and goes to the forest like one bewildered.
 
 **12.12.14**  When the crooked man who hunts the snare of righteousness merely to gratify his desires looks upon those desires, then the king of death binds him by the throat with the noose of death.
 
@@ -764,7 +764,7 @@ translator: thothica
 
 **12.13.12**  You are my father, you my mother, you my brother, you my teacher; therefore you should forgive me, a man in distress, the grief-stricken lamentations I have uttered.
 
-**12.13.13**  Whether what I have here spoken be true or untrue, know it to be spoken out of devotion, O protector of the earth, O best of the Bharatas.
+**12.13.13**  Whether what I have here spoken be true or untrue, know it to be spoken out of devotion, O protector of the earth, O best of the Bhāratas.
 
 **12.14.1**  Vaiśaṃpāyana said: While Yudhiṣṭhira, the son of Kuntī, the king of righteousness, kept silent, and his brothers were declaring their various certainties drawn from the Veda—
 
@@ -834,7 +834,7 @@ translator: thothica
 
 **12.14.34**  For he who acts thus foolishly and does not attain his good is to be treated with fumigations, salves, nasal remedies, and drugs—he who walks upon a wayward path is one to be healed.
 
-**12.14.35**  And so I, O best of the Bharatas, am the basest of all women in the world—I who, though our foes have been brought low, still wish to go on living.
+**12.14.35**  And so I, O best of the Bhāratas, am the basest of all women in the world—I who, though our foes have been brought low, still wish to go on living.
 
 **12.14.36**  To these men who strive, prosperity comes of its own accord; but you, having won the whole earth, fashion calamity for yourself.
 
@@ -1004,7 +1004,7 @@ translator: thothica
 
 **12.16.22**  If you give up your life in this war while it is yet unconquered, then, taking up another body, you will have to fight that very same battle once again.
 
-**12.16.23**  Therefore this very day you must press to the end of that war, O bull of the Bharatas; for having won it, great king, you will have accomplished all that is to be done.
+**12.16.23**  Therefore this very day you must press to the end of that war, O bull of the Bhāratas; for having won it, great king, you will have accomplished all that is to be done.
 
 **12.16.24**  Having grasped with sure resolve this knowledge of the coming and going of all creatures, govern the kingdom as is fitting, in the way of your fathers and forefathers.
 
@@ -1260,13 +1260,13 @@ translator: thothica
 
 **12.22.4**  For brāhmaṇas, austerity and renunciation are declared the ordained means to the world beyond; but for kṣatriyas, O lord, death in battle is appointed.
 
-**12.22.5**  The dharma of the kṣatriya is most fierce, ever bound to the sword, it is declared—and slaying too, O best of the Bharatas, with the weapon in battle at its proper hour.
+**12.22.5**  The dharma of the kṣatriya is most fierce, ever bound to the sword, it is declared—and slaying too, O best of the Bhāratas, with the weapon in battle at its proper hour.
 
 **12.22.6**  Even for a brāhmaṇa, O king, who abides by the dharma of the kṣatriya, life is praised in this world; for the kṣatriya order is grounded in the brahman.
 
 **12.22.7**  Neither renunciation, nor begging, nor austerity, O lord of men, are ordained for the kṣatriya, nor living upon the goods of another.
 
-**12.22.8**  And you are the knower of all dharmas, devoted with your whole being, O bull of the Bharatas, a king, wise and skilled, who in this world has seen both the higher and the lower.
+**12.22.8**  And you are the knower of all dharmas, devoted with your whole being, O bull of the Bhāratas, a king, wise and skilled, who in this world has seen both the higher and the lower.
 
 **12.22.9**  Cast off the grief born of anguish and gird yourself for action; the heart of a kṣatriya above all is hard as the thunderbolt.
 
@@ -1280,7 +1280,7 @@ translator: thothica
 
 **12.22.14**  Grieve not at all over what has come to pass, O bull among kṣatriyas; those who fell have gone, by the dharma of the kṣatriya and purified by the sword, to the supreme goal.
 
-**12.22.15**  What has come to pass had to be so, O bull of the Bharatas; for what is ordained, O tiger among kings, cannot be overstepped.
+**12.22.15**  What has come to pass had to be so, O bull of the Bhāratas; for what is ordained, O tiger among kings, cannot be overstepped.
 
 **12.23.1**  Vaiśaṃpāyana said: Thus addressed by Guḍākeśa, the son of Kuntī, O Bhārata, the Kaurava said nothing at all; whereupon Dvaipāyana spoke.
 
@@ -1378,7 +1378,7 @@ translator: thothica
 
 **12.25.2**  Dear son, those longings that your austere brothers cherished, O great king Yudhiṣṭhira, while they dwelt in the forest—
 
-**12.25.3**  let these mighty warriors, O best of the Bharatas, now attain them. Rule the earth, O Pārtha, as Yayāti, the son of Nahuṣa, ruled it.
+**12.25.3**  let these mighty warriors, O best of the Bhāratas, now attain them. Rule the earth, O Pārtha, as Yayāti, the son of Nahuṣa, ruled it.
 
 **12.25.4**  A sorrowful sojourn in the forest has been endured by these austere men; now, at the end of their sorrow, let these tigers among men taste happiness.
 
@@ -2158,7 +2158,7 @@ translator: thothica
 
 **12.32.3**  "Hold fast, O king, to the station of your fathers and forefathers; and the dharma that lies among the brāhmaṇas is eternal, established by the Veda."
 
-**12.32.4**  "That is the standard of standards, everlasting, O bull of the Bharatas; and of that dharma in its entirety the kṣatriya is the protector."
+**12.32.4**  "That is the standard of standards, everlasting, O bull of the Bhāratas; and of that dharma in its entirety the kṣatriya is the protector."
 
 **12.32.5**  "And whatever man within his realm strikes against his command, that wrecker of the world's course is to be restrained by force of arms."
 
@@ -2536,7 +2536,7 @@ translator: thothica
 
 **12.37.42**  A fool who destroys the offerings due to the gods and the ancestors, an enemy who carries off their substance, does not deserve to attain the higher worlds.
 
-**12.37.43**  All this has been told to you as it truly came to pass, O Yudhiṣṭhira; in brief it has been declared, yet it is a great matter to be heard, O bull of the Bharatas.
+**12.37.43**  All this has been told to you as it truly came to pass, O Yudhiṣṭhira; in brief it has been declared, yet it is a great matter to be heard, O bull of the Bhāratas.
 
 **12.38.1**  Yudhiṣṭhira said: I wish to hear at length, O venerable one, O great sage, O best of the twice-born, the whole of the duties of kings and of all the four castes.
 
@@ -2562,7 +2562,7 @@ translator: thothica
 
 **12.38.12**  He who of old learned from the eldest son of the grandsire, the youth of blazing splendor, who knew the true nature of the path of the inmost Self.
 
-**12.38.13**  From the mouth of Mārkaṇḍeya he gained the whole law of the ascetics, and from Rāma weapons, and from Śakra he obtained them too, O bull of the Bharatas.
+**12.38.13**  From the mouth of Mārkaṇḍeya he gained the whole law of the ascetics, and from Rāma weapons, and from Śakra he obtained them too, O bull of the Bhāratas.
 
 **12.38.14**  He whose death, though born among men, comes only by his own will; and though he is without offspring, the holy worlds in heaven are said to be his.
 
@@ -2728,7 +2728,7 @@ translator: thothica
 
 **12.39.46**  Then the twice-born, enraged and provoked by his outrage, mighty in speech, shall burn up the wicked one, and so he shall come to destruction.
 
-**12.39.47**  Here lies that rākṣasa Cārvāka, slain by the rod of Brahman, O best of kings; grieve not, O bull of the Bharatas.
+**12.39.47**  Here lies that rākṣasa Cārvāka, slain by the rod of Brahman, O best of kings; grieve not, O bull of the Bhāratas.
 
 **12.39.48**  Your kinsmen, O sovereign, were slain by the law of the warrior, and the high-souled heroes, those bulls among kṣatriyas, have gone to heaven.
 
@@ -3014,7 +3014,7 @@ translator: thothica
 
 **12.46.35**  yoked well with the finest horses led by Sugrīva and Sainya, swift as thought, their bodies adorned with gold—Dāruka, with palms joined, announced it ready to Acyuta, O lion among kings.
 
-**12.47.1**  Janamejaya said: But lying upon his bed of arrows, the grandsire of the Bharatas, how did he relinquish his body, and what yoga did he hold to?
+**12.47.1**  Janamejaya said: But lying upon his bed of arrows, the grandsire of the Bhāratas, how did he relinquish his body, and what yoga did he hold to?
 
 **12.47.2**  Vaiśaṃpāyana said: Listen attentively, O king, having become pure and composed, to the relinquishing of his body by the great-souled Bhīṣma, O tiger of the Kurus.
 
@@ -3266,7 +3266,7 @@ translator: thothica
 
 **12.49.39**  His sons were exceedingly strong, but through the curse they became the instruments of their father's slaying—arrogant they were, and cruel at all times.
 
-**12.49.40**  They carried off the calf of Jamadagni's cow, O bull of the Bharatas, without the knowledge of the wise Kārtavīrya, lord of the Haihayas.
+**12.49.40**  They carried off the calf of Jamadagni's cow, O bull of the Bhāratas, without the knowledge of the wise Kārtavīrya, lord of the Haihayas.
 
 **12.49.41**  Then the son of Jamadagni, endowed with manly valor, severed the arms of Arjuna and brought back to his own hermitage the lowing calf from their inner apartments, O lord of kings, that mighty lord.
 
@@ -3308,7 +3308,7 @@ translator: thothica
 
 **12.49.60**  But Kaśyapa, O great king, having received this earth and placed it under the governance of the Brahmins, entered the great forest.
 
-**12.49.61**  Then the Śūdras and the Vaiśyas, acting wantonly each as he pleased, behaved disgracefully toward the wives of the foremost of the twice-born, O bull of the Bharatas.
+**12.49.61**  Then the Śūdras and the Vaiśyas, acting wantonly each as he pleased, behaved disgracefully toward the wives of the foremost of the twice-born, O bull of the Bhāratas.
 
 **12.49.62**  In a kingless world the weak are oppressed by the stronger, and no man here holds secure ownership over his wealth.
 
@@ -3588,7 +3588,7 @@ translator: thothica
 
 **12.54.5**  And the kings who had survived the slaughter, with Yudhiṣṭhira at their head, and Dhṛtarāṣṭra and Kṛṣṇa, and Bhīma, Arjuna, and the twins as well.
 
-**12.54.6**  Those great-souled ones, drawing near to the grandsire of the Bharatas, the son of Gaṅgā, grieved over him as over the fallen sun.
+**12.54.6**  Those great-souled ones, drawing near to the grandsire of the Bhāratas, the son of Gaṅgā, grieved over him as over the fallen sun.
 
 **12.54.7**  And having reflected for a moment, Nārada, whose vision is godlike, spoke to all the Pāṇḍavas and to the surviving princes.
 
@@ -3654,7 +3654,7 @@ translator: thothica
 
 **12.54.38**  "And it should be spoken by the learned — so the wise declare to be dharma; for a grievous fault befalls one who does not answer, O lord."
 
-**12.54.39**  "Therefore, being questioned about the eternal duties of dharma by sons and grandsons who seek to know, do you, learned one, expound them, O bull of the Bharatas."
+**12.54.39**  "Therefore, being questioned about the eternal duties of dharma by sons and grandsons who seek to know, do you, learned one, expound them, O bull of the Bhāratas."
 
 **12.55.1**  Vaiśaṃpāyana said: Then the mighty-splendored delight of the Kurus spoke these words: "So be it — I shall declare the duties of dharma; firm now are my speech and my mind by your grace, O Govinda, for you are the eternal self of all beings."
 
@@ -3710,7 +3710,7 @@ translator: thothica
 
 **12.56.7**  As the rising sun destroys the demonic darkness, so do the duties of kings cast off the inauspicious course that leads from the bright worlds.
 
-**12.56.8**  Therefore, first of all, declare the very essence of the duties of kings, O grandsire, best of the Bharatas; for you are the foremost among the wise.
+**12.56.8**  Therefore, first of all, declare the very essence of the duties of kings, O grandsire, best of the Bhāratas; for you are the foremost among the wise.
 
 **12.56.9**  From you comes the highest tradition for us all, O scorcher of foes; for Vāsudeva himself accounts you supreme in wisdom.
 
@@ -3986,7 +3986,7 @@ translator: thothica
 
 **12.59.10**  By the contentment of one man the whole world grows content; when he is troubled, all the world is troubled too—such is the settled truth.
 
-**12.59.11**  All this I wish to hear truly, O bull of the Bharatas; expound it to me as it really is, O best of speakers.
+**12.59.11**  All this I wish to hear truly, O bull of the Bhāratas; expound it to me as it really is, O best of speakers.
 
 **12.59.12**  No small cause can this be, O lord of peoples, that before one man the whole world bows down as before a god."
 
@@ -3998,7 +3998,7 @@ translator: thothica
 
 **12.59.16**  Fallen under the sway of delusion, O bull among men, those men, through the bewildering of their judgment, let their dharma perish.
 
-**12.59.17**  And when their judgment was lost, the men, mastered by delusion, then fell one and all under the sway of greed, O best of the Bharatas.
+**12.59.17**  And when their judgment was lost, the men, mastered by delusion, then fell one and all under the sway of greed, O best of the Bhāratas.
 
 **12.59.18**  Then, as men reached out to grasp at what was not theirs, another thing called desire arose there among them, O lord.
 
@@ -4030,7 +4030,7 @@ translator: thothica
 
 **12.59.32**  The self, the place, and the time, the means, the deed to be done, the allies, and the cause as well: this is remembered as the sixfold set born of statecraft.
 
-**12.59.33**  The triple Veda, and philosophic inquiry, and economy, O bull of the Bharatas, and the broad science of statecraft: these branches of knowledge are there shown forth.
+**12.59.33**  The triple Veda, and philosophic inquiry, and economy, O bull of the Bhāratas, and the broad science of statecraft: these branches of knowledge are there shown forth.
 
 **12.59.34**  The safeguarding and surveillance of ministers, the guarding of the king's son, espionage by manifold means, and surveillance of various kinds.
 
@@ -4056,7 +4056,7 @@ translator: thothica
 
 **12.59.45**  The manifold marshalings of men, elephants, chariots, and horses, battle arrays of various name, and the wondrous skill of warfare.
 
-**12.59.46**  Portents and downfalls, the well-fought fight and the well-managed retreat, and the lore of tempering weapons, O bull of the Bharatas.
+**12.59.46**  Portents and downfalls, the well-fought fight and the well-managed retreat, and the lore of tempering weapons, O bull of the Bhāratas.
 
 **12.59.47**  The disasters of an army are set forth, and likewise the rousing of an army to joy; the time for harrying and assault, and the time of peril, O Pāṇḍava.
 
@@ -4084,7 +4084,7 @@ translator: thothica
 
 **12.59.59**  The fierce vices born of wrath, and likewise those born of desire, ten in all, O best of the Kurus, are here declared.
 
-**12.59.60**  Hunting, dicing, drink, and women, O bull of the Bharatas, the teachers call those born of desire, and they were here proclaimed by the Self-Born.
+**12.59.60**  Hunting, dicing, drink, and women, O bull of the Bhāratas, the teachers call those born of desire, and they were here proclaimed by the Self-Born.
 
 **12.59.61**  Harshness of speech, and ferocity, and harshness in punishment, oppression of oneself, prodigality, and the squandering of wealth.
 
@@ -4100,7 +4100,7 @@ translator: thothica
 
 **12.59.67**  How a man should rise unaided, truthfulness, sweet words, the holding of festivals and assemblies, and the rites that arise on the raising of standards.
 
-**12.59.68**  Conduct both open and concealed in all the offices of state, O tiger of the Bharatas, and constant vigilance.
+**12.59.68**  Conduct both open and concealed in all the offices of state, O tiger of the Bhāratas, and constant vigilance.
 
 **12.59.69**  The immunity of brāhmaṇas from punishment, the just infliction of punishment, and the safeguarding of merit on behalf of dependents and one's own kindred.
 
@@ -4246,13 +4246,13 @@ translator: thothica
 
 **12.59.140**  Therefore in the world, O lord of kings, it has ever been proclaimed by the wise: "The gods and the gods among men are equal," O lord of peoples.
 
-**12.59.141**  All this concerning the greatness that resides in kings has now been related to you in full, O best of the Bharatas. What else shall be set forth here?
+**12.59.141**  All this concerning the greatness that resides in kings has now been related to you in full, O best of the Bhāratas. What else shall be set forth here?
 
 **12.60.1**  Vaiśaṃpāyana said: Then once more, having saluted the grandsire, the son of Gaṅgā, and having become composed with palms joined, Yudhiṣṭhira put his question.
 
 **12.60.2**  "What are the duties common to all the orders, and what severally are those of the four castes? What are held to be the duties of the four stages of life, and what the duties of a king?"
 
-**12.60.3**  "By what does a realm prosper, by what does a king grow great, and by what do the citizens and the retainers flourish, O bull of the Bharatas?"
+**12.60.3**  "By what does a realm prosper, by what does a king grow great, and by what do the citizens and the retainers flourish, O bull of the Bhāratas?"
 
 **12.60.4**  "As for treasury, army, and fortress, and allies and counselors, as well as officiating priests, household priests, and teachers—what manner of men should a king shun?"
 
@@ -4396,7 +4396,7 @@ translator: thothica
 
 **12.62.1**  Yudhiṣṭhira said: Tell me of those duties—auspicious, pleasant, of great consequence, free of harm, approved by the world, easy of means, and bringing happiness to such as I am.
 
-**12.62.2**  Bhīṣma said: For the brāhmaṇa, O lord, four stages of life are ordained here; the three other varṇas follow after them, O best of the Bharatas.
+**12.62.2**  Bhīṣma said: For the brāhmaṇa, O lord, four stages of life are ordained here; the three other varṇas follow after them, O best of the Bhāratas.
 
 **12.62.3**  Many heaven-winning duties have been declared, O king, that have the kṣatriya for their mainstay; these are not recorded among matters of illustration, for in the warrior's code everything is ordained in due order.
 
@@ -4460,7 +4460,7 @@ translator: thothica
 
 **12.63.22**  In the manner of a royal seer, O lord of kings, by following the path of the mendicant's begging, even one who has left behind the householder's dharma may roam abroad out of his desire to live.
 
-**12.63.23**  Yet this is not the final, perfected work of the three—nor of the four orders of those who dwell in the stages of life, O tiger among kings, so they declare, O bull of the Bharatas.
+**12.63.23**  Yet this is not the final, perfected work of the three—nor of the four orders of those who dwell in the stages of life, O tiger among kings, so they declare, O bull of the Bhāratas.
 
 **12.63.24**  Much depends on the kṣatriyas, who practise the dharma highest among men in the world; all the duties of the three varṇas, together with their subsidiary duties, derive from the dharma of the king—so I hear from the Veda.
 
@@ -4478,7 +4478,7 @@ translator: thothica
 
 **12.64.1**  Bhīṣma said: The duties of the four orders of life and the duties of birth, O Pāṇḍava, and those that have the guardians of the worlds for their height, are all established within the kṣatriya's dharma.
 
-**12.64.2**  All these duties rest in the kṣatriya's code, O best of the Bharatas; in the world of the living, the cravingless too are established within the kṣatriya's dharma.
+**12.64.2**  All these duties rest in the kṣatriya's code, O best of the Bhāratas; in the world of the living, the cravingless too are established within the kṣatriya's dharma.
 
 **12.64.3**  The dharma of those who dwell in the orders of life is unseen and of many gates; its nature they expound as eternal, by scriptural tradition alone.
 
@@ -4754,7 +4754,7 @@ translator: thothica
 
 **12.67.38**  Let him be grateful, firm in devotion, generous in sharing, master of his senses; when looked upon, let him look back gently, frankly, and graciously.
 
-**12.68.1**  Yudhiṣṭhira said: Why do the brāhmaṇas call the king a divinity, O bull of the Bharatas—him who is sovereign over men? Tell me that, grandfather.
+**12.68.1**  Yudhiṣṭhira said: Why do the brāhmaṇas call the king a divinity, O bull of the Bhāratas—him who is sovereign over men? Tell me that, grandfather.
 
 **12.68.2**  Bhīṣma said: On this too they recite an ancient tale—how Vasumanas questioned Bṛhaspati, O Bhārata.
 
@@ -4896,7 +4896,7 @@ translator: thothica
 
 **12.69.10**  In the city and in the countryside, and among the neighboring kings, the agents to be deployed should be so placed that they do not know one another.
 
-**12.69.11**  And he should detect the spies sent in by the enemy, O bull of the Bharatas—in the marketplaces, in the pleasure-houses, in the gatherings, and among the mendicants;
+**12.69.11**  And he should detect the spies sent in by the enemy, O bull of the Bhāratas—in the marketplaces, in the pleasure-houses, in the gatherings, and among the mendicants;
 
 **12.69.12**  in the gardens and the parks, in the assemblies of the learned, in the brothels and at the crossroads, in the council-halls and the rest-houses.
 
@@ -5078,7 +5078,7 @@ translator: thothica
 
 **12.70.30**  Drawing the boundary lines of the world, fostering the world, the science of punishment well administered is as a mother and as a father.
 
-**12.70.31**  In her all beings have their being—know this, O bull of the Bharatas. This is the supreme dharma: that the king be wielder of the science of punishment.
+**12.70.31**  In her all beings have their being—know this, O bull of the Bhāratas. This is the supreme dharma: that the king be wielder of the science of punishment.
 
 **12.70.32**  Therefore, O Kaurava, guard your people by dharma, skilled in policy; conducting yourself thus and protecting the people, you shall win that heaven hard to win.
 
@@ -5438,7 +5438,7 @@ translator: thothica
 
 **12.77.14**  But if, once his livelihood has been provided, he does not mend his ways, O scorcher of foes, then he should be banished from that land, together with his kinsmen.
 
-**12.78.1**  Yudhiṣṭhira said: Over whose wealth has the king mastery, O bull of the Bharatas, and by what manner of life should he conduct himself? Tell me this, O grandsire.
+**12.78.1**  Yudhiṣṭhira said: Over whose wealth has the king mastery, O bull of the Bhāratas, and by what manner of life should he conduct himself? Tell me this, O grandsire.
 
 **12.78.2**  Bhīṣma said: The king is the owner of the wealth of non-Brāhmaṇas — so declares the sacred Veda — and likewise of those Brāhmaṇas, whoever they be, who take to unfitting work.
 
@@ -5510,7 +5510,7 @@ translator: thothica
 
 **12.79.2**  Bhīṣma said: One unable to subsist by the Kṣatriya's dharma may live by the Vaiśya's dharma, taking up farming and cattle-tending in calamity, when his livelihood has failed.
 
-**12.79.3**  Yudhiṣṭhira said: Selling which wares does a Brāhmaṇa, living by the Vaiśya's dharma, not fall from the heavenly worlds, O bull of the Bharatas?
+**12.79.3**  Yudhiṣṭhira said: Selling which wares does a Brāhmaṇa, living by the Vaiśya's dharma, not fall from the heavenly worlds, O bull of the Bhāratas?
 
 **12.79.4**  Bhīṣma said: Liquor and salt, sesame, lions and other beasts, bulls, honey and flesh, and cooked food, O Yudhiṣṭhira —
 
@@ -6170,7 +6170,7 @@ translator: thothica
 
 **12.87.33**  This, in brief, is the summary of the marks I have declared to you — of the kind of city in which a king ought himself to dwell.
 
-**12.88.1**  Yudhiṣṭhira said: To me who would rightly understand it, O king, declare the protection of the realm and likewise the gathering-in of the realm, O bull of the Bharatas.
+**12.88.1**  Yudhiṣṭhira said: To me who would rightly understand it, O king, declare the protection of the realm and likewise the gathering-in of the realm, O bull of the Bhāratas.
 
 **12.88.2**  Bhīṣma said: The protection of the realm and the gathering-in of the realm — come, I shall declare it all to you rightly; listen with single-minded attention to the truth.
 
@@ -6182,7 +6182,7 @@ translator: thothica
 
 **12.88.6**  Whatever the village affords for enjoyment, the village-headman may partake of; by him the lord of ten is to be maintained, and by the latter the lord of twenty.
 
-**12.88.7**  The overseer of a hundred villages, held in honor, is entitled to enjoy a village — a great one, O best of the Bharatas, thronged with prosperous people; for therein much that belongs to the king is at stake, O Bhārata.
+**12.88.7**  The overseer of a hundred villages, held in honor, is entitled to enjoy a village — a great one, O best of the Bhāratas, thronged with prosperous people; for therein much that belongs to the king is at stake, O Bhārata.
 
 **12.88.8**  But the lord of a thousand deserves a great market-town as his portion; that high officer of the realm is entitled to enjoy it through the revenue of grain and gold.
 
@@ -6388,7 +6388,7 @@ translator: thothica
 
 **12.91.17**  For that reason, O tiger among kings, righteousness is remembered as supreme; he is a king who governs the people, a doer of good, a bull among men.
 
-**12.91.18**  Disregarding desire and wrath, let him uphold righteousness alone; righteousness is the surest bringer of welfare to kings, O best of the Bharatas.
+**12.91.18**  Disregarding desire and wrath, let him uphold righteousness alone; righteousness is the surest bringer of welfare to kings, O best of the Bhāratas.
 
 **12.91.19**  The brāhmaṇas are the womb of righteousness; therefore let him ever honor them, and let him, free of grudging, O Māndhātṛ, fulfill the desires of the brāhmaṇas.
 
@@ -6440,7 +6440,7 @@ translator: thothica
 
 **12.92.5**  That kṣatriya among them who knows how to scour away faults of conduct, as one scours soiled garments clean, is a father to his people—he is their Prajāpati.
 
-**12.92.6**  Kṛta, Tretā, Dvāpara, and Kali, O bull of the Bharatas, are all the workings of the king; the king himself is called the very age.
+**12.92.6**  Kṛta, Tretā, Dvāpara, and Kali, O bull of the Bhāratas, are all the workings of the king; the king himself is called the very age.
 
 **12.92.7**  The fourfold order of varṇas, the Vedas, and the four stages of life—all this falls into confusion when the king grows heedless.
 
@@ -6534,7 +6534,7 @@ translator: thothica
 
 **12.92.52**  Such was the conduct of Vāsava, of Yama, and of Varuṇa, and of all the royal sages: do you too uphold it.
 
-**12.92.53**  Do that, O great king—that course which the royal sages have followed; set your feet without delay upon the heavenly path, O bull of the Bharatas.
+**12.92.53**  Do that, O great king—that course which the royal sages have followed; set your feet without delay upon the heavenly path, O bull of the Bhāratas.
 
 **12.92.54**  For a king of righteous conduct, O Bhārata, in the world hereafter and in this one, the gods, the sages, the fathers, and the gandharvas, boundless in might, sing his praise.
 
@@ -6726,7 +6726,7 @@ translator: thothica
 
 **12.97.1**  Bhīṣma said: Let not the lord of the world seek to conquer the earth by unrighteousness; what king, having won a victory by unrighteousness, would approve of it?
 
-**12.97.2**  A victory bound up with unrighteousness is fleeting and bars the way to heaven; it brings down both the king and his realm, O bull of the Bharatas.
+**12.97.2**  A victory bound up with unrighteousness is fleeting and bars the way to heaven; it brings down both the king and his realm, O bull of the Bhāratas.
 
 **12.97.3**  The man whose armor is shattered, who says, "I am yours," who folds his hands in supplication and has laid down his weapon — having captured him, one must not do him harm.
 
@@ -6770,9 +6770,9 @@ translator: thothica
 
 **12.97.23**  Or let the king who desires his own prosperity seek victory through surpassing mastery of every branch of knowledge—never through deceit, never through fraud.
 
-**12.98.1**  Yudhiṣṭhira said: There is no dharma more grievous than the dharma of the kṣatriya, O bull of the Bharatas, for in marching forth and in battle the king destroys a great multitude of people.
+**12.98.1**  Yudhiṣṭhira said: There is no dharma more grievous than the dharma of the kṣatriya, O bull of the Bhāratas, for in marching forth and in battle the king destroys a great multitude of people.
 
-**12.98.2**  Then tell me, O learned one, O bull of the Bharatas, to me who longs to know: by what deed does a king win the higher worlds?
+**12.98.2**  Then tell me, O learned one, O bull of the Bhāratas, to me who longs to know: by what deed does a king win the higher worlds?
 
 **12.98.3**  Bhīṣma said: By the restraint of the wicked and the support of the good, by sacrifices and by gifts, kings become pure and free of stain.
 
@@ -6968,7 +6968,7 @@ translator: thothica
 
 **12.100.18**  For in the three worlds there is nothing higher than valor; the hero protects all, and upon the hero all things rest.
 
-**12.101.1**  Yudhiṣṭhira said: How those who seek victory lead an army, even by straining dharma a little—tell me that, O grandfather, bull of the Bharatas.
+**12.101.1**  Yudhiṣṭhira said: How those who seek victory lead an army, even by straining dharma a little—tell me that, O grandfather, bull of the Bhāratas.
 
 **12.101.2**  Bhīṣma said: Some duties rest upon truth, others upon sound reasoning, some upon the conduct of the good, and some upon expediency. I shall expound the duties of expedient means, which fulfill the aims of both profit and dharma.
 
@@ -7514,7 +7514,7 @@ translator: thothica
 
 **12.108.9**  This I wish to hear in full, O scorcher of foes; and how they may not be split apart — that too tell me, O king.
 
-**12.108.10**  Bhīṣma said: For corporations, for clans, and for kings, O bull of the Bharatas, these two — greed and resentment — are the kindlers of enmity, O lord of men.
+**12.108.10**  Bhīṣma said: For corporations, for clans, and for kings, O bull of the Bhāratas, these two — greed and resentment — are the kindlers of enmity, O lord of men.
 
 **12.108.11**  One man embraces greed, and from that, resentment follows hard upon; the two, bound up with loss and waste, take their support each from the other.
 
@@ -7538,7 +7538,7 @@ translator: thothica
 
 **12.108.21**  Those who are wealthy and brave, skilled in arms and masters of the scriptures — they carry across the corporations that are bewildered in grievous calamities.
 
-**12.108.22**  Wrath, division, terror, the rod of punishment, oppression, coercion, and slaughter swiftly lead confederacies under the enemy's sway, O best of the Bharatas.
+**12.108.22**  Wrath, division, terror, the rod of punishment, oppression, coercion, and slaughter swiftly lead confederacies under the enemy's sway, O best of the Bhāratas.
 
 **12.108.23**  Therefore the chiefs of the confederacy must above all be honored, for upon them, O son of Pṛthā, the greater course of worldly affairs depends.
 
@@ -7614,7 +7614,7 @@ translator: thothica
 
 **12.109.28**  All this has been set forth by way of injunction, as what a man ought to do here in the world; this is the highest good, and nothing surpasses it; surveying every duty, this has been declared.
 
-**12.110.1**  Yudhiṣṭhira said: How should a man conduct himself who wishes to abide in dharma, O Bhārata? Learned one, declare it to me who would know, O bull of the Bharatas.
+**12.110.1**  Yudhiṣṭhira said: How should a man conduct himself who wishes to abide in dharma, O Bhārata? Learned one, declare it to me who would know, O bull of the Bhāratas.
 
 **12.110.2**  Both truth and falsehood stand pervading the worlds; of the two, O king, which should a man resolved upon dharma practice?
 
@@ -7918,7 +7918,7 @@ translator: thothica
 
 **12.113.11**  Then a jackal, his limbs gripped by cold and worn with hunger, together with his mate, tormented by the water, quickly entered that cave.
 
-**12.113.12**  And that flesh-eater, beholding it and sorely wasted with hunger, thereupon devoured the neck of the camel, O bull of the Bharatas.
+**12.113.12**  And that flesh-eater, beholding it and sorely wasted with hunger, thereupon devoured the neck of the camel, O bull of the Bhāratas.
 
 **12.113.13**  But when that beast became aware that he himself was being eaten, then, grievously pained, he made an effort to draw his neck back in.
 
@@ -7938,7 +7938,7 @@ translator: thothica
 
 **12.113.21**  This was told of old by the good who know the law, O you whose majesty equals great Indra's; and I too have spoken it to you according to the vision of the scriptures—so apply yourself diligently to it and go forth, O king.
 
-**12.114.1**  Yudhiṣṭhira said: When a weak king, O bull of the Bharatas, has obtained a kingdom, how should he hold his ground, without resources, against an enemy of overwhelming strength?
+**12.114.1**  Yudhiṣṭhira said: When a weak king, O bull of the Bhāratas, has obtained a kingdom, how should he hold his ground, without resources, against an enemy of overwhelming strength?
 
 **12.114.2**  Bhīṣma said: On this too they recount an ancient tale, a dialogue of the rivers and the ocean, O Bhārata.
 
@@ -8030,7 +8030,7 @@ translator: thothica
 
 **12.116.12**  For no king, bereft of servants, can be a protector all alone; and as for this realm, all people of good birth proclaim it so.
 
-**12.116.13**  For a kingdom cannot be governed by one alone, O Bhārata; without helpers, dear son, no aims whatsoever can be won—nor, once won, ever kept secure, O bull of the Bharatas.
+**12.116.13**  For a kingdom cannot be governed by one alone, O Bhārata; without helpers, dear son, no aims whatsoever can be won—nor, once won, ever kept secure, O bull of the Bhāratas.
 
 **12.116.14**  Bhīṣma said: He whose every servant is skilled in knowledge and discernment, well-wishing, of good birth, and affectionate—he enjoys the fruit of kingship.
 
@@ -8236,7 +8236,7 @@ translator: thothica
 
 **12.120.1**  Yudhiṣṭhira said: Many a course of royal conduct you have set forth, O Bhārata—observances ordained of old by the ancients, who knew the dharma and the purposes of kingship.
 
-**12.120.2**  That very teaching, declared at length, seen by the ancients and held to be the opinion of the good—the essence of the duties of kings—expound to me, O bull of the Bharatas.
+**12.120.2**  That very teaching, declared at length, seen by the ancients and held to be the opinion of the good—the essence of the duties of kings—expound to me, O bull of the Bhāratas.
 
 **12.120.3**  Bhīṣma said: The protection of all beings—this is held to be the highest duty of the warrior caste. Hear, O lord of earth, how he may render such protection.
 
@@ -8350,7 +8350,7 @@ translator: thothica
 
 **12.121.4**  Thus has it been declared by you that all things, moving and unmoving, are subject to the Rod; and the world is seen to cling to it—gods, asuras, and men alike.
 
-**12.121.5**  This I wish to know in its true essence, O bull of the Bharatas: What is the Rod? Of what kind is the Rod? What is its form? What is its final ground?
+**12.121.5**  This I wish to know in its true essence, O bull of the Bhāratas: What is the Rod? Of what kind is the Rod? What is its form? What is its final ground?
 
 **12.121.6**  What is its nature? How does it come to be? How many forms does it bear? How does it hold sway? How does that Rod keep watch, attentive of spirit, over the people?
 
@@ -8952,9 +8952,9 @@ translator: thothica
 
 **12.128.4**  When conciliation cannot be had, nor the sowing of division for want of pressure to apply—and life itself is at stake, or wealth—what then is the righteous course?
 
-**12.128.5**  Bhīṣma said: A secret matter of dharma you have asked of me, O bull of the Bharatas; unasked, I should not venture to declare this dharma, Yudhiṣṭhira.
+**12.128.5**  Bhīṣma said: A secret matter of dharma you have asked of me, O bull of the Bhāratas; unasked, I should not venture to declare this dharma, Yudhiṣṭhira.
 
-**12.128.6**  For dharma, O bull of the Bharatas, is subtler than speech and than thought; only when one has heard it and waited upon it through good conduct does a man somewhere become virtuous.
+**12.128.6**  For dharma, O bull of the Bhāratas, is subtler than speech and than thought; only when one has heard it and waited upon it through good conduct does a man somewhere become virtuous.
 
 **12.128.7**  By action governed by intelligence a man becomes wealthy, or else he does not; such is the question you have pressed, and it must be resolved by you with your own discernment.
 
@@ -9126,7 +9126,7 @@ translator: thothica
 
 **12.131.7**  It is by reason of his fortune that a king receives the highest honor; and that fortune conceals his faults, as a garment conceals the secret parts of a woman.
 
-**12.131.8**  The very people he once wronged now court his prosperity, yet he finds them ever like jackals, as though bent on his destruction. Whence, O best of the Bharatas, can there be happiness for such a king?
+**12.131.8**  The very people he once wronged now court his prosperity, yet he finds them ever like jackals, as though bent on his destruction. Whence, O best of the Bhāratas, can there be happiness for such a king?
 
 **12.131.9**  Let him strive on and never grow weary, for exertion itself is manliness; he would sooner break, even where there is no joint to break, than bend before anyone here.
 
@@ -9298,7 +9298,7 @@ translator: thothica
 
 **12.136.1**  Yudhiṣṭhira said: In every case you have declared intelligence the best, O bull of the Bhāratas—the foresight that reaches what is yet to come, and that which meets what has arisen; while the procrastinating mind is the bringer of ruin.
 
-**12.136.2**  This I wish to hear, O best of the Bharatas: that supreme wisdom by which a king, though surrounded by enemies, would not lose his way.
+**12.136.2**  This I wish to hear, O best of the Bhāratas: that supreme wisdom by which a king, though surrounded by enemies, would not lose his way.
 
 **12.136.3**  O you who are skilled in dharma and statecraft, wise one, master of all the śāstras, I ask you, best of the Kurus; you ought to expound this to me.
 
@@ -9308,7 +9308,7 @@ translator: thothica
 
 **12.136.6**  Pressed on every side, weak against the mighty, alone and without help—how could such a one possibly hold his ground?
 
-**12.136.7**  How, O bull of the Bharatas, should he tell friend from foe, and how should he act in the space between an enemy and a friend?
+**12.136.7**  How, O bull of the Bhāratas, should he tell friend from foe, and how should he act in the space between an enemy and a friend?
 
 **12.136.8**  When, O king, an enemy of well-known character turns to friendship, what should a man do, and by doing what would he be at ease?
 
@@ -9528,7 +9528,7 @@ translator: thothica
 
 **12.136.116**  And the grey one, released from that danger and from his dreaded foe, entered his burrow, while the shaggy cat took to a branch.
 
-**12.136.117**  The outcast, taking up his trap and looking all about, his hopes ruined, in a moment withdrew from that place and went home, O bull of the Bharatas.
+**12.136.117**  The outcast, taking up his trap and looking all about, his hopes ruined, in a moment withdrew from that place and went home, O bull of the Bhāratas.
 
 **12.136.118**  Then, released from that danger and his hard-won life regained, the shaggy one, perched at the treetop, spoke to the grey one in his burrow:
 
@@ -9934,7 +9934,7 @@ translator: thothica
 
 **12.137.108**  Bhīṣma said: Having thus spoken, the bird, taking leave of King Brahmadatta, the ruler of men, departed to the quarter she desired.
 
-**12.137.109**  This converse of Brahmadatta with Pūjanī I have now recounted to you, O best of the Bharatas. What else do you wish to hear?
+**12.137.109**  This converse of Brahmadatta with Pūjanī I have now recounted to you, O best of the Bhāratas. What else do you wish to hear?
 
 **12.138.1**  Yudhiṣṭhira said: When, through the waning of the age, dharma has dwindled away and the world too, O Bhārata, is oppressed by bandits, how should one conduct oneself, O grandsire?
 
@@ -10094,7 +10094,7 @@ translator: thothica
 
 **12.139.9**  Bhīṣma said: Rooted in the king, O great monarch, are security, prosperity, and good rains—and so too, among the people, are diseases, death, and the terrors that beset them.
 
-**12.139.10**  The Kṛta age, the Tretā, the Dvāpara, and the Kali, O bull of the Bharatas—all of these are rooted in the king; of this I have no doubt.
+**12.139.10**  The Kṛta age, the Tretā, the Dvāpara, and the Kali, O bull of the Bhāratas—all of these are rooted in the king; of this I have no doubt.
 
 **12.139.11**  But when that time has come which works the undoing of the people, then one must live by taking one's stand upon the strength of discernment.
 
@@ -10188,7 +10188,7 @@ translator: thothica
 
 **12.139.56**  For one who knows, the unsanctioned path is not to be taken; the confounding of dharma must not be wrought. Forsake not dharma—you, the foremost of those who know it."
 
-**12.139.57**  Then, O king, bull of the Bharatas, thus addressed, Viśvāmitra the great sage, tormented by hunger, answered him once again:
+**12.139.57**  Then, O king, bull of the Bhāratas, thus addressed, Viśvāmitra the great sage, tormented by hunger, answered him once again:
 
 **12.139.58**  "A very long time has passed for me without food as I have run about, and no means whatever is to be found for sustaining my life.
 
@@ -10328,7 +10328,7 @@ translator: thothica
 
 **12.140.32**  Hard is this duty of the warrior, in whom such tenderness abides; you were created for fierce action—therefore rule the kingdom.
 
-**12.140.33**  The constant restraint of the unruly, the guarding of the well-disciplined—thus spoke the wise Śakra concerning times of distress, O bull of the Bharatas.
+**12.140.33**  The constant restraint of the unruly, the guarding of the well-disciplined—thus spoke the wise Śakra concerning times of distress, O bull of the Bhāratas.
 
 **12.140.34**  Yudhiṣṭhira said: Is there indeed a limit even of robbers that another should not overstep? I ask you, O best of the good—tell me this, grandfather.
 
@@ -10340,7 +10340,7 @@ translator: thothica
 
 **12.141.1**  Yudhiṣṭhira said: Grandfather, great in wisdom, versed in all the scriptures, tell me the dharma of one who protects a suppliant who has sought his shelter.
 
-**12.141.2**  Bhīṣma said: Great is the dharma, O great king, in the protection of one who has come for refuge; and you indeed are worthy to ask this question, best of the Bharatas.
+**12.141.2**  Bhīṣma said: Great is the dharma, O great king, in the protection of one who has come for refuge; and you indeed are worthy to ask this question, best of the Bhāratas.
 
 **12.141.3**  Kings beginning with Nṛga, O king, having protected those who came to them for refuge, attained, O great monarch, the highest perfection.
 
@@ -10350,7 +10350,7 @@ translator: thothica
 
 **12.141.6**  Bhīṣma said: Hear, O king, a divine tale, destroyer of all sins, told to King Mucukunda by Bhārgava of old.
 
-**12.141.7**  This very matter, O Pārtha, the king Mucukunda asked of Bhārgava in days gone by, bowing low, O bull of the Bharatas.
+**12.141.7**  This very matter, O Pārtha, the king Mucukunda asked of Bhārgava in days gone by, bowing low, O bull of the Bhāratas.
 
 **12.141.8**  To him as he sat attentive, Bhārgava told the tale of how perfection was won by the dove, O lord of men.
 
@@ -10462,7 +10462,7 @@ translator: thothica
 
 **12.142.35**  "We keep no hoard, like the sages in the wood." Having spoken thus, the bird's face turned pale.
 
-**12.142.36**  "How then is this to be done?"—sunk in this anxious thought, O best of the Bharatas, he kept reproaching his own way of life.
+**12.142.36**  "How then is this to be done?"—sunk in this anxious thought, O best of the Bhāratas, he kept reproaching his own way of life.
 
 **12.142.37**  But after a moment, regaining his composure, the bird said to the slayer of birds: "I shall satisfy you; wait but a moment."
 
@@ -10546,7 +10546,7 @@ translator: thothica
 
 **12.145.11**  Then, with a heart full of gladness, seeking the release of his body, the fowler ran toward that swelling fire.
 
-**12.145.12**  Then, consumed by that fire, the fowler, his sins destroyed, attained the supreme perfection, O best of the Bharatas.
+**12.145.12**  Then, consumed by that fire, the fowler, his sins destroyed, attained the supreme perfection, O best of the Bhāratas.
 
 **12.145.13**  Then, his anguish gone, he beheld himself established in heaven, shining like Indra amid the yakṣas, gandharvas, and siddhas.
 
@@ -10560,7 +10560,7 @@ translator: thothica
 
 **12.145.18**  O Yudhiṣṭhira, great is this dharma, O best of the upholders of dharma. Even for slayers of cattle there may be expiation of their sinful deed; but there is no expiation for him who would slay one who has come to him for refuge.
 
-**12.146.1**  Yudhiṣṭhira said: One who commits a sin unknowingly, O best of the Bharatas—how is he freed from that wrong? Tell me this.
+**12.146.1**  Yudhiṣṭhira said: One who commits a sin unknowingly, O best of the Bhāratas—how is he freed from that wrong? Tell me this.
 
 **12.146.2**  Bhīṣma said: On this matter I shall relate to you an ancient tale—what Indrota the brāhmaṇa, son of Śunaka, said to Janamejaya.
 
@@ -10938,13 +10938,13 @@ translator: thothica
 
 **12.149.114**  And see how in a short time, through resolve and persistent seeking, those grieving ones, having won Śaṃkara's grace, attained their joy.
 
-**12.149.115**  Amazed and overjoyed at the bringing back to life of their son, O best of the Bharatas, they were made glad once more by the grace of Śaṃkara.
+**12.149.115**  Amazed and overjoyed at the bringing back to life of their son, O best of the Bhāratas, they were made glad once more by the grace of Śaṃkara.
 
 **12.149.116**  Then, O king, having known a grief born of calamity, they made haste and, taking up their son, entered the city with glad hearts. Such is the wisdom set forth for all men within the four orders of society.
 
 **12.149.117**  By hearing this auspicious tale, bound up with dharma, worldly gain, and liberation, a man rejoices forever, both here and after death.
 
-**12.150.1**  Bhīṣma said: On this too they tell an ancient tale, O best of the Bharatas—the dialogue between the silk-cotton tree and the Wind.
+**12.150.1**  Bhīṣma said: On this too they tell an ancient tale, O best of the Bhāratas—the dialogue between the silk-cotton tree and the Wind.
 
 **12.150.2**  On the slopes of the Himālaya there stood a mighty forest-lord, grown great over a host of years, rich in branches, trunk, and foliage.
 
@@ -10954,7 +10954,7 @@ translator: thothica
 
 **12.150.5**  Caravan-folk and merchants, ascetics and forest-dwellers, travelers upon the road, would take their lodging in that loveliest, most excellent of trees.
 
-**12.150.6**  Seeing its broad branches and its trunks on every side, Nārada drew near and addressed it, O bull of the Bharatas.
+**12.150.6**  Seeing its broad branches and its trunks on every side, Nārada drew near and addressed it, O bull of the Bhāratas.
 
 **12.150.7**  'Ah, how delightful you are, and ah, how you charm the heart! We take everlasting joy in you, O silk-cotton tree, foremost of trees.'
 
@@ -11084,7 +11084,7 @@ translator: thothica
 
 **12.151.34**  The duties of kings and the duties for times of distress have been told you at length, O Bhārata; what more, O great king, shall I declare to you?
 
-**12.152.1**  Yudhiṣṭhira said: That which is the seat of sin, the source from which sin springs forth — this I wish to know in its very truth, O bull of the Bharatas.
+**12.152.1**  Yudhiṣṭhira said: That which is the seat of sin, the source from which sin springs forth — this I wish to know in its very truth, O bull of the Bhāratas.
 
 **12.152.2**  Bhīṣma said: Hear, O ruler of men, what the seat of sin is. Greed alone is the great devourer; from greed all sin proceeds.
 
@@ -11390,13 +11390,13 @@ translator: thothica
 
 **12.158.12**  But he who first gives the choicest portion to the brāhmaṇas and then eats together with his friends—he gains heaven hereafter, and even here enjoys an unending abundance.
 
-**12.158.13**  Thus, O best of the Bharatas, has the cruel man been described to you; he is ever to be shunned by any man who wishes to fare well.
+**12.158.13**  Thus, O best of the Bhāratas, has the cruel man been described to you; he is ever to be shunned by any man who wishes to fare well.
 
 **12.159.1**  Bhīṣma said: One whose purpose is accomplished, who is about to perform sacrifice, who has mastered the whole of the Vedānta, and who seeks alms for the sake of his teacher, his ancestors, his wife, or for the sake of his own recitation of the sacred texts—
 
 **12.159.2**  these are seen to be worthy brāhmaṇas who beg for the sake of righteousness; to them a gift should be given even from what is not one's own surplus, in proportion to their special learning.
 
-**12.159.3**  Apart from these, O best of the Bharatas, the sacrificial fee that is to be given is given to others outside the altar; but uncooked food is not ordained for them.
+**12.159.3**  Apart from these, O best of the Bhāratas, the sacrificial fee that is to be given is given to others outside the altar; but uncooked food is not ordained for them.
 
 **12.159.4**  The king should bestow all manner of precious things, each as is fitting; and the brāhmaṇas and the sacrifices alike should be furnished with food and with sacrificial fees.
 
@@ -11706,7 +11706,7 @@ translator: thothica
 
 **12.160.85**  This teaching of the seers, O son of Mādrī, you should hold as authoritative; and the sword must ever be honored by those skilled in war.
 
-**12.160.86**  Thus this first rite has been expounded to you at full length, O bull of the Bharatas — the origin and tradition of the sword, just as it is.
+**12.160.86**  Thus this first rite has been expounded to you at full length, O bull of the Bhāratas — the origin and tradition of the sword, just as it is.
 
 **12.160.87**  Hearing in every way this supreme discipline of the sword, a man attains fame in this world and, after death, partakes of the eternal.
 
@@ -12024,7 +12024,7 @@ translator: thothica
 
 **12.165.11**  As those foremost of the twice-born came, O lord of peoples, Virūpākṣa received each according to his due with rites prescribed by ordinance.
 
-**12.165.12**  By command of the lord of the rākṣasas seats of grass were laid out for them, spread with choice coverlets upon the ground by his servants, O best of the Bharatas.
+**12.165.12**  By command of the lord of the rākṣasas seats of grass were laid out for them, spread with choice coverlets upon the ground by his servants, O best of the Bhāratas.
 
 **12.165.13**  Honored by the king and seated upon them, those most excellent of the twice-born shone forth, O great king, like the lords of the constellations.
 
@@ -12166,7 +12166,7 @@ translator: thothica
 
 **12.168.2**  Bhīṣma said: Dharma is ordained everywhere, and leads to heaven; austerity has truth for its fruit. Of dharma, which has many gateways, no act here is fruitless.
 
-**12.168.3**  Whatever discipline a man comes to settle upon, that very one he acknowledges and no other, O best of the Bharatas.
+**12.168.3**  Whatever discipline a man comes to settle upon, that very one he acknowledges and no other, O best of the Bhāratas.
 
 **12.168.4**  And the more one comes to grasp how the fabric of the world is without substance, the more does dispassion toward it arise—of this there is no doubt.
 
@@ -14152,13 +14152,13 @@ translator: thothica
 
 **12.200.1**  Yudhiṣṭhira said: O grandsire of vast wisdom, of the lotus-eyed, unfallen Acyuta—Viṣṇu, the maker who is himself unmade, the origin and dissolution of all beings—
 
-**12.200.2**  of Nārāyaṇa, Hṛṣīkeśa, Govinda the unconquered—O best of the Bharatas, I wish to hear of Keśava in his very truth.
+**12.200.2**  of Nārāyaṇa, Hṛṣīkeśa, Govinda the unconquered—O best of the Bhāratas, I wish to hear of Keśava in his very truth.
 
 **12.200.3**  Bhīṣma said: This matter I have heard as it was spoken by Rāma, son of Jamadagni, and by the divine sage Nārada, and by Kṛṣṇa Dvaipāyana,
 
 **12.200.4**  and by Asita Devala, my child, and by Vālmīki of great austerities, and by Mārkaṇḍeya, who tells of Govinda a great and wondrous tale.
 
-**12.200.5**  Keśava, O best of the Bharatas, is the Lord, the sovereign, the master; that he is the Person who is all, the all-pervading One, is heard told in many ways.
+**12.200.5**  Keśava, O best of the Bhāratas, is the Lord, the sovereign, the master; that he is the Person who is all, the all-pervading One, is heard told in many ways.
 
 **12.200.6**  Yet hear now, O mighty-armed Yudhiṣṭhira, those greatnesses of the wielder of the Śārṅga bow which the brāhmaṇas in the world know of.
 
@@ -14186,7 +14186,7 @@ translator: thothica
 
 **12.200.18**  Marīci, my child, brought forth Kaśyapa as his eldest son, a mind-born and radiant one, most excellent in sacred knowledge.
 
-**12.200.19**  From his thumb Brahmā created one even prior to Marīci; he became, O best of the Bharatas, the lord of creatures named Dakṣa.
+**12.200.19**  From his thumb Brahmā created one even prior to Marīci; he became, O best of the Bhāratas, the lord of creatures named Dakṣa.
 
 **12.200.20**  To that lord of creatures, O Bhārata, there were first born thirteen daughters; the eldest among them was Diti.
 
@@ -14212,13 +14212,13 @@ translator: thothica
 
 **12.200.31**  Then the mighty-armed Kṛṣṇa, O Yudhiṣṭhira, the Lord, brought forth once more from his mouth a hundred excellent brāhmaṇas.
 
-**12.200.32**  From his arms a hundred kṣatriyas, from his thighs a hundred vaiśyas, and from his feet a hundred śūdras did Keśava bring forth, O bull of the Bharatas.
+**12.200.32**  From his arms a hundred kṣatriyas, from his thighs a hundred vaiśyas, and from his feet a hundred śūdras did Keśava bring forth, O bull of the Bhāratas.
 
 **12.200.33**  Having thus brought forth the four classes, that Lord of great fame made the Ordainer the overseer of all beings.
 
 **12.200.34**  For just so long as men had the will to sustain their bodies, just so long did they live; and there was no fear wrought by Yama.
 
-**12.200.35**  Nor was there among them the custom of sexual union, O bull of the Bharatas; their offspring came into being by mere will.
+**12.200.35**  Nor was there among them the custom of sexual union, O bull of the Bhāratas; their offspring came into being by mere will.
 
 **12.200.36**  There in the age of the Tretā, offspring were born by will; nor was there among them either the custom of sexual union, O ruler of men.
 
@@ -14232,19 +14232,19 @@ translator: thothica
 
 **12.200.41**  These evildoers, my child, roam this earth, sharing the nature of dogs, crows, vultures, and the strong birds of prey, O ruler of men.
 
-**12.200.42**  These did not roam this earth in the Kṛta age, my child; only from the Tretā onward do those peoples exist, O bull of the Bharatas.
+**12.200.42**  These did not roam this earth in the Kṛta age, my child; only from the Tretā onward do those peoples exist, O bull of the Bhāratas.
 
 **12.200.43**  Then in that most terrible twilight time at the ending of an age, kings clashed together, falling each upon the other.
 
 **12.200.44**  Thus, O best of the Kurus, did the divine sage Nārada, beholder of all worlds, declare this manifestation of the great-souled one.
 
-**12.200.45**  And Nārada too, O ruler of men, deemed the eternity of Kṛṣṇa supreme, rightly so, O mighty-armed bull of the Bharatas.
+**12.200.45**  And Nārada too, O ruler of men, deemed the eternity of Kṛṣṇa supreme, rightly so, O mighty-armed bull of the Bhāratas.
 
 **12.200.46**  Thus is this mighty-armed Keśava, of true valor, the inconceivable, the lotus-eyed one; he is no mere mortal man.
 
-**12.201.1**  Yudhiṣṭhira said: Who were the lords of creatures in former times, O bull of the Bharatas? And who are the illustrious sages remembered for each of the several quarters of the sky?
+**12.201.1**  Yudhiṣṭhira said: Who were the lords of creatures in former times, O bull of the Bhāratas? And who are the illustrious sages remembered for each of the several quarters of the sky?
 
-**12.201.2**  Bhīṣma said: Hear, O best of the Bharatas, that which you ask of me—who were the lords of creatures remembered for each of the several quarters.
+**12.201.2**  Bhīṣma said: Hear, O best of the Bhāratas, that which you ask of me—who were the lords of creatures remembered for each of the several quarters.
 
 **12.201.3**  There is one self-existent Lord, the primeval and eternal Brahmā; and of that self-existent Brahmā there are seven great-souled sons.
 
@@ -14314,7 +14314,7 @@ translator: thothica
 
 **12.202.1**  Yudhiṣṭhira said: O grandsire, deeply wise, whose valour in battle is unfailing as truth, I wish to hear in full of Kṛṣṇa, the undecaying Lord.
 
-**12.202.2**  His most vast splendour, and his deeds of old — tell me all of that as it truly is, O bull of the Bharatas.
+**12.202.2**  His most vast splendour, and his deeds of old — tell me all of that as it truly is, O bull of the Bhāratas.
 
 **12.202.3**  How did Hari come to bear a form born in the animal womb, and for the accomplishing of what task? Tell me that, O grandsire.
 
@@ -14350,7 +14350,7 @@ translator: thothica
 
 **12.202.19**  Then those lords of the Dānavas fell into wonder, and then, from fear, by the thousand they deemed their own selves brought to peril.
 
-**12.202.20**  Then that foremost god of gods, whose self is yoga, the charioteer of yoga, the Lord, taking his stand in yoga, O best of the Bharatas —
+**12.202.20**  Then that foremost god of gods, whose self is yoga, the charioteer of yoga, the Lord, taking his stand in yoga, O best of the Bhāratas —
 
 **12.202.21**  roared out a mighty roar, throwing the Daityas and Dānavas into turmoil — a roar by which all the worlds and all the ten quarters were made to resound.
 
@@ -15466,7 +15466,7 @@ translator: thothica
 
 **12.220.1**  Yudhiṣṭhira said: For a man sunk in grievous calamity, in the loss of his kin, O guardian of the earth, or again in the loss of his kingdom—what is the better course?
 
-**12.220.2**  For you are our highest expounder in this world, O bull of the Bharatas; this I ask of you, and you should declare it to me here.
+**12.220.2**  For you are our highest expounder in this world, O bull of the Bhāratas; this I ask of you, and you should declare it to me here.
 
 **12.220.3**  Bhīṣma said: For one parted from sons and wife, from comforts and from wealth, sunk in grievous calamity, steadfastness is the better course, O king.
 
@@ -15938,7 +15938,7 @@ translator: thothica
 
 **12.223.1**  Yudhiṣṭhira said: Who indeed is the man on earth dear to the whole world, welcomed by all beings, and endowed with every excellence?
 
-**12.223.2**  Bhīṣma said: On this, since you ask, O bull of the Bharatas, I shall recount to you the dialogue of Ugrasena and Keśava concerning Nārada.
+**12.223.2**  Bhīṣma said: On this, since you ask, O bull of the Bhāratas, I shall recount to you the dialogue of Ugrasena and Keśava concerning Nārada.
 
 **12.223.3**  Ugrasena said: See how the world warms to the praise of Nārada; I deem him rich in virtues. Tell me this, for I ask you.
 
@@ -17382,7 +17382,7 @@ translator: thothica
 
 **12.250.20**  Then going off again, O king, she kept the most exalted silence within the waters for eight thousand years, O ruler of earth.
 
-**12.250.21**  Then that maiden went to the Kauśikī, O bull of the Bharatas; and there, feeding on wind and water, she again practised her vow.
+**12.250.21**  Then that maiden went to the Kauśikī, O bull of the Bhāratas; and there, feeding on wind and water, she again practised her vow.
 
 **12.250.22**  Then the greatly blessed one went on to the Gaṅgā and to lonely Meru, and stood there motionless as a log, out of her desire for the good of living beings.
 
@@ -18416,7 +18416,7 @@ translator: thothica
 
 **12.263.16**  There the gods bestow kingdoms and wealth; moved by auspicious deeds they grant, and in the case of inauspicious ones they cut these off.
 
-**12.263.17**  Then, while the yakṣas looked on, Kuṇḍadhāra of great splendor flung himself down and fell to the ground before the gods, O bull of the Bharatas.
+**12.263.17**  Then, while the yakṣas looked on, Kuṇḍadhāra of great splendor flung himself down and fell to the ground before the gods, O bull of the Bhāratas.
 
 **12.263.18**  Then, at the bidding of the gods, the greatly renowned Maṇibhadra spoke to Kuṇḍadhāra, who had fallen to the ground: "What is it that you desire?"
 
@@ -18536,7 +18536,7 @@ translator: thothica
 
 **12.265.2**  Bhīṣma said: All the dharmas are known to you; you ask for the sake of confirming them. Hear of liberation together with world-weariness, and of evil and of dharma, from their very root.
 
-**12.265.3**  For the sake of perceiving the objects of the five senses, desire first sets to work; and on attaining them, craving or aversion is born, O bull of the Bharatas.
+**12.265.3**  For the sake of perceiving the objects of the five senses, desire first sets to work; and on attaining them, craving or aversion is born, O bull of the Bhāratas.
 
 **12.265.4**  Then for the sake of that he strives, and undertakes action anew, and seeks to make a habit of the pleasing forms and scents he loves.
 
@@ -18972,9 +18972,9 @@ translator: thothica
 
 **12.272.3**  This has been told by you, and I believe it, O unfaltering one; yet a further thought has arisen in me from this glimpse of the Unmanifest.
 
-**12.272.4**  How was Vṛtra slain by Śakra, O bull of the Bharatas — he so righteous, so devoted to Viṣṇu, and so versed in the truth of that abode's order?
+**12.272.4**  How was Vṛtra slain by Śakra, O bull of the Bhāratas — he so righteous, so devoted to Viṣṇu, and so versed in the truth of that abode's order?
 
-**12.272.5**  Resolve this doubt of mine, who ask it, O bull of the Bharatas — how Vṛtra was vanquished by Śakra, O tiger among kings.
+**12.272.5**  Resolve this doubt of mine, who ask it, O bull of the Bhāratas — how Vṛtra was vanquished by Śakra, O tiger among kings.
 
 **12.272.6**  And tell me too how the battle came to be, O grandsire, in full detail, O mighty-armed one; for great is my curiosity.
 
@@ -18998,7 +18998,7 @@ translator: thothica
 
 **12.272.16**  And all the hosts of the gods, with the Grandsire at their head, and the greatly blessed seers, came to behold that battle.
 
-**12.272.17**  In their finest sky-chariots, O great king, the Siddhas, O bull of the Bharatas, and the Gandharvas in their finest chariots, came together with the Apsarases.
+**12.272.17**  In their finest sky-chariots, O great king, the Siddhas, O bull of the Bhāratas, and the Gandharvas in their finest chariots, came together with the Apsarases.
 
 **12.272.18**  Then Vṛtra, foremost of the upholders of righteousness, overspreading the firmament, showered down upon Indra a rain of stones from the mountain.
 
@@ -19068,7 +19068,7 @@ translator: thothica
 
 **12.273.7**  That thunderbolt of mighty splendour, like unto the fire of universal doom, swiftly struck down the vast-bodied Daitya Vṛtra.
 
-**12.273.8**  Then once more a great cry arose on every side from the gods, O bull of the Bharatas, when they beheld Vṛtra slain.
+**12.273.8**  Then once more a great cry arose on every side from the gods, O bull of the Bhāratas, when they beheld Vṛtra slain.
 
 **12.273.9**  Having slain Vṛtra with the thunderbolt charged with Viṣṇu's power, the illustrious lord, foe of the Dānavas, ascended into heaven itself.
 
@@ -19076,9 +19076,9 @@ translator: thothica
 
 **12.273.11**  With jagged teeth, dreadful, deformed, black and tawny, her hair flying loose, her eyes terrible, O Bhārata,
 
-**12.273.12**  garlanded with skulls and gaunt, O bull of the Bharatas, drenched in blood, O knower of dharma, clad in rags she was.
+**12.273.12**  garlanded with skulls and gaunt, O bull of the Bhāratas, drenched in blood, O knower of dharma, clad in rags she was.
 
-**12.273.13**  Coming forth in that fearful shape, O lord of kings, she then set out in search of the wielder of the thunderbolt, O best of the Bharatas.
+**12.273.13**  Coming forth in that fearful shape, O lord of kings, she then set out in search of the wielder of the thunderbolt, O best of the Bhāratas.
 
 **12.273.14**  After a certain time, O delight of the Kurus, the slayer of Vṛtra set forth toward heaven, desiring the welfare of the worlds.
 
@@ -19090,9 +19090,9 @@ translator: thothica
 
 **12.273.18**  Śakra made the utmost effort to be rid of her, yet the king of the gods could not drive off that Brahmahatyā.
 
-**12.273.19**  Held fast by her, O bull of the Bharatas, the king of the gods approached the Grandsire and did him homage, bowing his head.
+**12.273.19**  Held fast by her, O bull of the Bhāratas, the king of the gods approached the Grandsire and did him homage, bowing his head.
 
-**12.273.20**  Knowing that Śakra was held fast by the sin of slaying a foremost of the twice-born, Brahmā then fell to pondering, O best of the Bharatas.
+**12.273.20**  Knowing that Śakra was held fast by the sin of slaying a foremost of the twice-born, Brahmā then fell to pondering, O best of the Bhāratas.
 
 **12.273.21**  O mighty-armed one, the Grandsire then addressed that Brahmahatyā in a sweet voice, as if to soothe her, O Bhārata:
 
@@ -19142,7 +19142,7 @@ translator: thothica
 
 **12.273.44**  Brahmā said: "Whatever man shall have intercourse with women in their courses, to him she shall swiftly pass. Let the fever of your minds depart."
 
-**12.273.45**  Bhīṣma said: Saying "So be it" with gladdened hearts, the troops of Apsarases reached their own abodes and made merry, O bull of the Bharatas.
+**12.273.45**  Bhīṣma said: Saying "So be it" with gladdened hearts, the troops of Apsarases reached their own abodes and made merry, O bull of the Bhāratas.
 
 **12.273.46**  Then the god of mighty austerity, maker of the three worlds, once more called the Waters to mind, and being so summoned they came.
 
@@ -19260,7 +19260,7 @@ translator: thothica
 
 **12.274.40**  That mighty being burned up the sacrifice as a fire burns dry brushwood, and all the gods, stricken with fear, fled then to the ten directions.
 
-**12.274.41**  As that being ranged about, O lord of peoples, the earth itself shook violently, O king, O bull of the Bharatas.
+**12.274.41**  As that being ranged about, O lord of peoples, the earth itself shook violently, O king, O bull of the Bhāratas.
 
 **12.274.42**  When a clamor of "Alas! Alas!" had broken out, a cry that struck terror into the worlds, the Grandsire, addressing Mahādeva, made plain his thought and replied:
 
@@ -19626,7 +19626,7 @@ translator: thothica
 
 **12.278.37**  Then, bowing to the boon-granting god and to the goddess Umā, the wise Uśanas, the great sage, attained the course he desired.
 
-**12.278.38**  This deed of the great-souled descendant of Bhṛgu I have related to you, dear son, O best of the Bharatas, as you have asked of me.
+**12.278.38**  This deed of the great-souled descendant of Bhṛgu I have related to you, dear son, O best of the Bhāratas, as you have asked of me.
 
 **12.279.1**  Yudhiṣṭhira said: Beyond this, O mighty-armed one, tell me what is best; I am not sated with your words, as if with nectar, O grandsire.
 
@@ -20340,7 +20340,7 @@ translator: thothica
 
 **12.289.25**  Neither Yama, nor the wrathful Ender, nor Death of terrible prowess hold sway, O king, over the yogin whose splendor is measureless.
 
-**12.289.26**  Having attained power, O bull of the Bharatas, yoga can fashion many thousands of selves, and with all of these the yogin may roam the earth.
+**12.289.26**  Having attained power, O bull of the Bhāratas, yoga can fashion many thousands of selves, and with all of these the yogin may roam the earth.
 
 **12.289.27**  He may take possession of objects of sense, and again practice fierce austerity, and again draw them back in, O Pārtha, as the sun draws back the rays of its splendor.
 
@@ -20348,7 +20348,7 @@ translator: thothica
 
 **12.289.29**  These powers in yoga have been declared by me, O lord of peoples; and by way of illustration I shall now further expound to you its subtle aspects.
 
-**12.289.30**  Concerning the concentration of the self and concerning steady fixation, O sovereign lord, hear from me the subtle illustrations, O bull of the Bharatas.
+**12.289.30**  Concerning the concentration of the self and concerning steady fixation, O sovereign lord, hear from me the subtle illustrations, O bull of the Bhāratas.
 
 **12.289.31**  As the unwavering archer, fully composed, strikes the mark, so the yogin, rightly disciplined, attains liberation beyond all doubt.
 
@@ -20388,7 +20388,7 @@ translator: thothica
 
 **12.289.49**  the great-souled ones, free from passion, of vast wisdom, kindle the subtle Self by the self through the riches of meditation and study.
 
-**12.289.50**  But this is held to be a hard road, that of the learned brāhmaṇas; for none travels upon it in safety, O bull of the Bharatas.
+**12.289.50**  But this is held to be a hard road, that of the learned brāhmaṇas; for none travels upon it in safety, O bull of the Bhāratas.
 
 **12.289.51**  As some young man might safely make his way through a dreadful forest, full of many snakes and creeping things, pitted with holes, devoid of water, hard to pass, thick with thorns—
 
@@ -20482,7 +20482,7 @@ translator: thothica
 
 **12.290.34**  having understood the Self thus lodged, and the various yogas, O king, and of creatures sunk in darkness, their selves enveloped by what seems pleasant—
 
-**12.290.35**  and of creatures of the quality of goodness—what is despicable, O bull of the Bharatas, and what is censured in the estimation of the great, the Sāṃkhyas who know the Self—
+**12.290.35**  and of creatures of the quality of goodness—what is despicable, O bull of the Bhāratas, and what is censured in the estimation of the great, the Sāṃkhyas who know the Self—
 
 **12.290.36**  having beheld the dread eclipses of the moon and likewise of the sun, the falling of the stars, and the wheeling round of the constellations—
 
@@ -20572,7 +20572,7 @@ translator: thothica
 
 **12.290.79**  I deem the dharma marked by active engagement the highest, O king; for to one immersed in the supreme knowledge, what could be more painful than such remembering?
 
-**12.290.80**  Bhīṣma said: Rightly, my son, have you asked a most difficult question; even the awakened are bewildered in this matter, O bull of the Bharatas. Yet hear herein the supreme truth, well set forth by me.
+**12.290.80**  Bhīṣma said: Rightly, my son, have you asked a most difficult question; even the awakened are bewildered in this matter, O bull of the Bhāratas. Yet hear herein the supreme truth, well set forth by me.
 
 **12.290.81**  There where the supreme understanding of the great-souled followers of Kapila abides, even the senses come to awareness, O king, of the embodied one's own body; those are the instruments of the self, and the subtle one perceives through them.
 
@@ -20614,7 +20614,7 @@ translator: thothica
 
 **12.290.100**  the brāhmaṇas longing for him proclaim him, their minds set on the qualities—rightly disciplined the followers of Yoga, and the Sāṃkhyas of boundless vision.
 
-**12.290.101**  Of him who is without form, O son of Kuntī, the Sāṃkhya is his form—so runs the sacred tradition; these, they say, are the marks by which he is known, O bull of the Bharatas.
+**12.290.101**  Of him who is without form, O son of Kuntī, the Sāṃkhya is his form—so runs the sacred tradition; these, they say, are the marks by which he is known, O bull of the Bhāratas.
 
 **12.290.102**  Twofold are the beings here upon the earth, O lord of the earth, named the moving and the unmoving; but the moving is the more excellent.
 
@@ -21832,7 +21832,7 @@ translator: thothica
 
 **12.306.108**  This secret doctrine Yājñavalkya then imparted of old to King Janaka — that by which, when the eternal and imperishable is reckoned and known, one attains the auspicious, sorrowless state of immortality.
 
-**12.307.1**  Yudhiṣṭhira said: Having won great lordship, O bull of the Bharatas, or wealth, or having gained a long span of life — how then may one pass beyond death?
+**12.307.1**  Yudhiṣṭhira said: Having won great lordship, O bull of the Bhāratas, or wealth, or having gained a long span of life — how then may one pass beyond death?
 
 **12.307.2**  By great austerity, by action, by sacred learning, or by the application of elixirs — by what means does one escape old age and death?
 
@@ -23382,7 +23382,7 @@ translator: thothica
 
 **12.320.38**  Thus consoled by the blessed Lord Rudra himself, O descendant of Bharata, that sage, beholding the shadow, returned home with the highest joy.
 
-**12.320.39**  Thus the birth and the destiny of Śuka, O bull of the Bharatas, have I recounted to you in full, even as you questioned me.
+**12.320.39**  Thus the birth and the destiny of Śuka, O bull of the Bhāratas, have I recounted to you in full, even as you questioned me.
 
 **12.320.40**  This the divine seer Nārada related to me of old, O king, and so too the great yogin Vyāsa, again and again in our converse.
 
@@ -23500,7 +23500,7 @@ translator: thothica
 
 **12.322.13**  Yudhiṣṭhira said: Beyond the senses, without food, unmoving, fragrant — how were these men born, and what is their highest goal?
 
-**12.322.14**  This indeed is the mark of those men who become liberated here, O best of the Bharatas — the mark of the dwellers of Śvetadvīpa.
+**12.322.14**  This indeed is the mark of those men who become liberated here, O best of the Bhāratas — the mark of the dwellers of Śvetadvīpa.
 
 **12.322.15**  Therefore cut away my doubt, for great is my curiosity; for you are the pleasure-garden of all tales, and upon you we have taken our stand.
 
@@ -25404,7 +25404,7 @@ translator: thothica
 
 **12.340.2**  Bhīṣma said: Everywhere duty is ordained that leads to heaven and yields the fruit of truth; of duty, which has many doors, no act here is barren.
 
-**12.340.3**  But in whatever sphere a man arrives at his settled conviction, that alone he comes to know, and no other, O best of the Bharatas.
+**12.340.3**  But in whatever sphere a man arrives at his settled conviction, that alone he comes to know, and no other, O best of the Bhāratas.
 
 **12.340.4**  And moreover, O tiger among men, you should hear from me a tale told long ago to Śakra by the divine seer Nārada.
 
@@ -25738,7 +25738,7 @@ translator: thothica
 
 **12.353.3**  And by the Bhārgava too, O lord of kings, in the dwelling of Janaka, this holy tale was told to the great-souled Nārada.
 
-**12.353.4**  And by Nārada too, O lord of kings, in the dwelling of the lord of the gods, it was told when he was asked, O best of the Bharatas, he of untiring deeds.
+**12.353.4**  And by Nārada too, O lord of kings, in the dwelling of the lord of the gods, it was told when he was asked, O best of the Bhāratas, he of untiring deeds.
 
 **12.353.5**  And by the king of the gods of old, this auspicious tale was told to all the renowned Vasus together, O lord of the earth.
 

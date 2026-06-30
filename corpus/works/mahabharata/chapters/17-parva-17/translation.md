@@ -42,7 +42,7 @@ translator: thothica
 
 **17.1.12**  He gave to the foremost of the twice-born jewels, garments, villages, horses, chariots, and women, and cows by the hundreds of thousands.
 
-**17.1.13**  Honouring the preceptor Kṛpa with wealth and high regard, the best of the Bharatas entrusted Parīkṣit to him as his pupil.
+**17.1.13**  Honouring the preceptor Kṛpa with wealth and high regard, the best of the Bhāratas entrusted Parīkṣit to him as his pupil.
 
 **17.1.14**  Then the royal sage Yudhiṣṭhira, having assembled all his subjects, declared to them his whole intended purpose.
 
@@ -56,7 +56,7 @@ translator: thothica
 
 **17.1.19**  Bhīma and Arjuna, the twins, and the illustrious Draupadī—all of them likewise took up the bark garments, O lord of men.
 
-**17.1.20**  Having duly performed the final sacrifice, O bull of the Bharatas, and cast their sacred fires into the waters, those bulls among men set forth.
+**17.1.20**  Having duly performed the final sacrifice, O bull of the Bhāratas, and cast their sacred fires into the waters, those bulls among men set forth.
 
 **17.1.21**  Then all the women wept aloud, seeing those bulls among men setting forth with Draupadī as the sixth, as of old when they had been beaten at the dice.
 
@@ -76,7 +76,7 @@ translator: thothica
 
 **17.1.29**  Yudhiṣṭhira went in front, Bhīma next after him, Arjuna following him, and the twins in their order.
 
-**17.1.30**  And behind them went Draupadī, the fair-hipped, dark-hued, lotus-petal-eyed, best of women, O best of the Bharatas.
+**17.1.30**  And behind them went Draupadī, the fair-hipped, dark-hued, lotus-petal-eyed, best of women, O best of the Bhāratas.
 
 **17.1.31**  And a single dog followed the Pāṇḍavas as they set forth into the forest. Step by step those heroes journeyed to the Lauhitya, the watery ocean.
 
@@ -98,13 +98,13 @@ translator: thothica
 
 **17.1.40**  Then all the brothers urged Dhanaṃjaya, and he cast into the water both the bow and the two inexhaustible great quivers.
 
-**17.1.41**  Then Agni, O best of the Bharatas, vanished on the very spot; and the heroic Pāṇḍavas went on thereafter, facing southward.
+**17.1.41**  Then Agni, O best of the Bhāratas, vanished on the very spot; and the heroic Pāṇḍavas went on thereafter, facing southward.
 
-**17.1.42**  Then, along the northern shore of the salt sea, O tiger of the Bharatas, they journeyed towards the south-western quarter.
+**17.1.42**  Then, along the northern shore of the salt sea, O tiger of the Bhāratas, they journeyed towards the south-western quarter.
 
 **17.1.43**  Then, turning again, they came to the western quarter, and there they saw Dvārakā engulfed by the ocean.
 
-**17.1.44**  Turning once more to the north, those best of the Bharatas, devoted to the discipline of yoga, journeyed on, desiring to make their circumambulation of the earth.
+**17.1.44**  Turning once more to the north, those best of the Bhāratas, devoted to the discipline of yoga, journeyed on, desiring to make their circumambulation of the earth.
 
 **17.2.1**  Vaiśaṃpāyana said: Then those self-controlled ones, holding to the northern quarter and yoked in yoga, beheld the great mountain Himavat.
 
@@ -166,9 +166,9 @@ translator: thothica
 
 **17.3.4**  "The princess too, so delicate and worthy of every comfort, O Purandara—let her come with us; may you grant this."
 
-**17.3.5**  Indra said: Your brothers and your sons, who have gone before to the third heaven, you shall behold—all of them, together with Kṛṣṇā. Grieve not, O bull of the Bharatas.
+**17.3.5**  Indra said: Your brothers and your sons, who have gone before to the third heaven, you shall behold—all of them, together with Kṛṣṇā. Grieve not, O bull of the Bhāratas.
 
-**17.3.6**  Having laid aside their human bodies, they have gone there, O bull of the Bharatas; but you shall go to heaven in this very body—of that there is no doubt.
+**17.3.6**  Having laid aside their human bodies, they have gone there, O bull of the Bhāratas; but you shall go to heaven in this very body—of that there is no doubt.
 
 **17.3.7**  Yudhiṣṭhira said: This dog, O lord of what is and what shall be, has been devoted to me always. Let him go along with me, for my mind is set on freedom from cruelty.
 
@@ -198,7 +198,7 @@ translator: thothica
 
 **17.3.20**  "This dog is devoted to me" — for this very reason you have refused the celestial chariot. Therefore, O ruler of men, there is none in heaven equal to you.
 
-**17.3.21**  Hence imperishable worlds are yours in your own body, O Bhārata; you have attained, O best of the Bharatas, a divine and unsurpassed destiny.
+**17.3.21**  Hence imperishable worlds are yours in your own body, O Bhārata; you have attained, O best of the Bhāratas, a divine and unsurpassed destiny.
 
 **17.3.22**  Then Dharma and Śakra, the Maruts too and the Aśvins, the gods and the divine sages, having set the son of Pāṇḍu upon the chariot —
 

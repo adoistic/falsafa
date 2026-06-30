@@ -1,402 +1,82 @@
 [
-  {
-    "ref": "6.66.13",
-    "sanskrit": "tasmin mahābhaye ghore tumule lomaharṣaṇe vavarṣuḥ śaravarṣāṇi kṣatriyā yuddhadurmadāḥ",
-    "english": "In that dread and fearful tumult, that hair-raising turmoil, the warriors, drunk with the frenzy of battle, poured down their showers of arrows."
-  },
-  {
-    "ref": "6.66.14",
-    "sanskrit": "krośanti kuñjarās tatra śaravarṣapratāpitāḥ tāvakānāṃ pareṣāṃ ca saṃyuge bharatottama aśvāś ca paryadhāvanta hatārohā diśo daśa",
-    "english": "There the elephants, scorched by the rain of arrows, trumpeted in agony—both yours and the enemy's, O best of the Bharatas, in that clash—and the horses, their riders slain, fled wildly across the ten directions."
-  },
-  {
-    "ref": "6.66.15",
-    "sanskrit": "utpatya nipatanty anye śaraghātaprapīḍitāḥ tāvakānāṃ pareṣāṃ ca yodhānāṃ bharatarṣabha",
-    "english": "Others, tormented by the blows of arrows, leaped up and fell again—warriors of yours and of the foe alike, O bull of the Bharatas."
-  },
-  {
-    "ref": "6.66.16",
-    "sanskrit": "aśvānāṃ kuñjarāṇāṃ ca rathānāṃ cātivartatām saṃghātāḥ sma pradṛśyante tatra tatra viśāṃ pate",
-    "english": "Heaped-up masses of horses, of elephants, and of careering chariots could be seen here and there, O lord of peoples."
-  },
-  {
-    "ref": "6.66.17",
-    "sanskrit": "gadābhir asibhiḥ prāsair bāṇaiś ca nataparvabhiḥ jaghnuḥ parasparaṃ tatra kṣatriyāḥ kālacoditāḥ",
-    "english": "With maces and swords, with javelins and with smooth-jointed shafts, the warriors, driven on by Death, struck one another there."
-  },
-  {
-    "ref": "6.66.18",
-    "sanskrit": "apare bāhubhir vīrā niyuddhakuśalā yudhi bahudhā samasajjanta āyasaiḥ parighair iva",
-    "english": "Other heroes, skilled in unarmed combat, grappled in the fray with their bare arms in many a way, as though with bars of iron."
-  },
-  {
-    "ref": "6.66.19",
-    "sanskrit": "muṣṭibhir jānubhiś caiva talaiś caiva viśāṃ pate anyonyaṃ jaghnire vīrās tāvakāḥ pāṇḍavaiḥ saha",
-    "english": "With fists and knees and open palms, O lord of peoples, the heroes smote each other—your men together with the Pāṇḍavas."
-  },
-  {
-    "ref": "6.66.20",
-    "sanskrit": "virathā rathinaś cātra nistriṃśavaradhāriṇaḥ anyonyam abhidhāvanta parasparavadhaiṣiṇaḥ",
-    "english": "And there chariot-warriors stripped of their cars, wielding their excellent swords, rushed upon one another, each bent on the other's slaughter."
-  },
-  {
-    "ref": "6.66.21",
-    "sanskrit": "tato duryodhano rājā kaliṅgair bahubhir vṛtaḥ puraskṛtya raṇe bhīṣmaṃ pāṇḍavān abhyavartata",
-    "english": "Then King Duryodhana, surrounded by a host of Kaliṅgas, placing Bhīṣma at the head of the battle, advanced against the Pāṇḍavas."
-  },
-  {
-    "ref": "6.66.22",
-    "sanskrit": "tathaiva pāṇḍavāḥ sarve parivārya vṛkodaram bhīṣmam abhyadravan kruddhā raṇe rabhasavāhanāḥ",
-    "english": "And so too all the Pāṇḍavas, ranging themselves about Vṛkodara, charged in fury upon Bhīṣma in battle, their steeds borne on with headlong speed."
-  },
-  {
-    "ref": "6.67.1",
-    "sanskrit": "saṃjaya uvāca dṛṣṭvā bhīṣmeṇa saṃsaktān bhrātṝn anyāṃś ca pārthivān tam abhyadhāvad gāṅgeyam udyatāstro dhanaṃjayaḥ",
-    "english": "Saṃjaya said: Seeing his brothers and the other princes locked in combat with Bhīṣma, Dhanaṃjaya, his weapon upraised, rushed upon the son of Gaṅgā."
-  },
-  {
-    "ref": "6.67.2",
-    "sanskrit": "pāñcajanyasya nirghoṣaṃ dhanuṣo gāṇḍivasya ca dhvajaṃ ca dṛṣṭvā pārthasya sarvān no bhayam āviśat",
-    "english": "At the blare of the Pāñcajanya and of the Gāṇḍīva bow, and at the sight of Pārtha's banner, terror entered into us all."
-  },
-  {
-    "ref": "6.67.3",
-    "sanskrit": "asajjamānaṃ vṛkṣeṣu dhūmaketum ivotthitam bahuvarṇaṃ ca citraṃ ca divyaṃ vānaralakṣaṇam apaśyāma mahārāja dhvajaṃ gāṇḍivadhanvanaḥ",
-    "english": "Catching upon no tree, risen like a blazing comet, many-hued and wondrous, divine and bearing the mark of the ape—such, O great king, did we behold the banner of the wielder of the Gāṇḍīva."
-  },
-  {
-    "ref": "6.67.4",
-    "sanskrit": "vidyutaṃ meghamadhyasthāṃ bhrājamānām ivāmbare dadṛśur gāṇḍivaṃ yodhā rukmapṛṣṭhaṃ mahārathe",
-    "english": "Like lightning set amid the clouds, gleaming in the sky, the warriors beheld the gold-backed Gāṇḍīva in the hands of that mighty car-warrior."
-  },
-  {
-    "ref": "6.67.5",
-    "sanskrit": "aśuśruma bhṛśaṃ cāsya śakrasyevābhigarjataḥ sughoraṃ talayoḥ śabdaṃ nighnatas tava vāhinīm",
-    "english": "And we heard, loud as the thunder of Śakra, the dread clap of his palms as he smote down your host."
-  },
-  {
-    "ref": "6.67.6",
-    "sanskrit": "caṇḍavāto yathā meghaḥ savidyutstanayitnumān diśaḥ saṃplāvayan sarvāḥ śaravarṣaiḥ samantataḥ",
-    "english": "As a storm-cloud driven by a fierce wind, charged with lightning and thunder, floods all the quarters with rain, so on every side he deluged them with showers of arrows."
-  },
-  {
-    "ref": "6.67.7",
-    "sanskrit": "abhyadhāvata gāṅgeyaṃ bhairavāstro dhanaṃjayaḥ diśaṃ prācīṃ pratīcīṃ ca na jānīmo 'stramohitāḥ",
-    "english": "Dhanaṃjaya, wielding his terrible weapons, rushed upon the son of Gaṅgā; bewildered by his missiles, we no longer knew the east from the west."
-  },
-  {
-    "ref": "6.67.8",
-    "sanskrit": "kāṃdigbhūtāḥ śrāntapatrā hatāstrā hatacetasaḥ anyonyam abhisaṃśliṣya yodhās te bharatarṣabha",
-    "english": "Lost as to which way to turn, their plumes drooping, their weapons spent and their wits undone, those warriors clung one to another, O bull of the Bharatas."
-  },
-  {
-    "ref": "6.67.9",
-    "sanskrit": "bhīṣmam evābhilīyanta saha sarvais tavātmajaiḥ teṣām ārtāyanam abhūd bhīṣmaḥ śaṃtanavo raṇe",
-    "english": "They sought refuge with Bhīṣma alone, together with all your sons; in that battle Bhīṣma, son of Śaṃtanu, became the haven of the afflicted."
-  },
-  {
-    "ref": "6.67.10",
-    "sanskrit": "samutpatanta vitrastā rathebhyo rathinas tadā sādinaś cāśvapṛṣṭhebhyo bhūmau cāpi padātayaḥ",
-    "english": "Then the car-warriors in terror leaped from their chariots, the horsemen from the backs of their steeds, and the foot-soldiers sank to the ground."
-  },
-  {
-    "ref": "6.67.11",
-    "sanskrit": "śrutvā gāṇḍīvanirghoṣaṃ visphūrjitam ivāśaneḥ sarvasainyāni bhītāni vyavalīyanta bhārata",
-    "english": "Hearing the roar of the Gāṇḍīva, like the crash of a thunderbolt, all the armies in their fear melted away, O Bhārata."
-  },
-  {
-    "ref": "6.67.12",
-    "sanskrit": "atha kāmbojamukhyais tu bṛhadbhiḥ śīghragāmibhiḥ gopānāṃ bahusāhasrair balair govāsano vṛtaḥ",
-    "english": "Then the lord of the cowherds, Govāsana, came surrounded by the foremost Kāmbojas—tall and swift of foot—and by the many thousands of herdsmen's forces."
-  },
-  {
-    "ref": "6.67.13",
-    "sanskrit": "madrasauvīragāndhārais trigartaiś ca viśāṃ pate sarvakāliṅgamukhyaiś ca kaliṅgādhipatir vṛtaḥ",
-    "english": "And the lord of the Kaliṅgas was ringed about by the Madras, Sauvīras, and Gāndhāras, by the Trigartas, O lord of peoples, and by all the chief warriors of the Kaliṅgas."
-  },
-  {
-    "ref": "6.67.14",
-    "sanskrit": "nāgā naragaṇaughāś ca duḥśāsanapuraḥsarāḥ jayadrathaś ca nṛpatiḥ sahitaḥ sarvarājabhiḥ",
-    "english": "Elephants and great hosts of men, with Duḥśāsana at their head, and King Jayadratha together with all the kings—"
-  },
-  {
-    "ref": "6.67.15",
-    "sanskrit": "hayārohavarāś caiva tava putreṇa coditāḥ caturdaśa sahasrāṇi saubalaṃ paryavārayan",
-    "english": "and excellent horsemen, fourteen thousand strong, urged on by your son, encircled the son of Subala."
-  },
-  {
-    "ref": "6.67.16",
-    "sanskrit": "tatas te sahitāḥ sarve vibhaktarathavāhanāḥ pāṇḍavān samare jagmus tāvakā bharatarṣabha",
-    "english": "Then all your men together, with their chariots and mounts marshalled apart, advanced upon the Pāṇḍavas in battle, O bull of the Bharatas."
-  },
-  {
-    "ref": "6.67.17",
-    "sanskrit": "rathibhir vāraṇair aśvaiḥ padātaiś ca samīritam ghoram āyodhanaṃ jajñe mahābhrasadṛśaṃ rajaḥ",
-    "english": "Stirred up by car-warriors, elephants, horses, and foot-soldiers, the dread dust of battle arose, resembling a great mass of clouds."
-  },
-  {
-    "ref": "6.67.18",
-    "sanskrit": "tomaraprāsanārācagajāśvarathayodhinām balena mahatā bhīṣmaḥ samasajjat kirīṭinā",
-    "english": "With a mighty host of warriors fighting with lances, javelins, and iron shafts, mounted on elephants, horses, and chariots, Bhīṣma closed with the Diademed one."
-  },
-  {
-    "ref": "6.67.19",
-    "sanskrit": "āvantyaḥ kāśirājena bhīmasenena saindhavaḥ ajātaśatrur madrāṇām ṛṣabheṇa yaśasvinā sahaputraḥ sahāmātyaḥ śalyena samasajjata",
-    "english": "The lord of Avanti closed with the king of Kāśi, the lord of Sindhu with Bhīmasena; and Ajātaśatru, with his sons and counsellors, engaged the glorious bull of the Madras, Śalya."
-  },
-  {
-    "ref": "6.67.20",
-    "sanskrit": "vikarṇaḥ sahadevena citrasenaḥ śikhaṇḍinā matsyā duryodhanaṃ jagmuḥ śakuniṃ ca viśāṃ pate",
-    "english": "Vikarṇa engaged Sahadeva, Citrasena engaged Śikhaṇḍin, and the Matsyas advanced against Duryodhana and against Śakuni, O lord of peoples."
-  },
-  {
-    "ref": "6.67.21",
-    "sanskrit": "drupadaś cekitānaś ca sātyakiś ca mahārathaḥ droṇena samasajjanta saputreṇa mahātmanā kṛpaś ca kṛtavarmā ca dhṛṣṭaketum abhidrutau",
-    "english": "Drupada, Cekitāna, and the great car-warrior Sātyaki closed with the high-souled Droṇa and his son; while Kṛpa and Kṛtavarman rushed together upon Dhṛṣṭaketu."
-  },
-  {
-    "ref": "6.67.22",
-    "sanskrit": "evaṃ prajavitāśvāni bhrāntanāgarathāni ca sainyāni samasajjanta prayuddhāni samantataḥ",
-    "english": "Thus the armies, their horses galloping and their elephants and chariots wheeling about, closed and grappled in furious combat on every side."
-  },
-  {
-    "ref": "6.67.23",
-    "sanskrit": "nirabhre vidyutas tīvrā diśaś ca rajasāvṛtāḥ prādurāsan maholkāś ca sanirghātā viśāṃ pate",
-    "english": "Though the sky was cloudless, fierce lightnings flashed and the quarters were veiled in dust; great meteors appeared, attended by crashing thunderclaps, O lord of peoples."
-  },
-  {
-    "ref": "6.67.24",
-    "sanskrit": "pravavau ca mahāvātaḥ pāṃsuvarṣaṃ papāta ca nabhasy antardadhe sūryaḥ sainyena rajasāvṛtaḥ",
-    "english": "A great wind blew, a rain of dust came down, and in the heavens the sun was hidden away, mantled by the dust raised by the host."
-  },
-  {
-    "ref": "6.67.25",
-    "sanskrit": "pramohaḥ sarvasattvānām atīva samapadyata rajasā cābhibhūtānām astrajālaiś ca tudyatām",
-    "english": "An utter bewilderment came upon all living things, overwhelmed as they were by the dust and tormented by the nets of weapons."
-  },
-  {
-    "ref": "6.67.26",
-    "sanskrit": "vīrabāhuvisṛṣṭānāṃ sarvāvaraṇabhedinām saṃghātaḥ śarajālānāṃ tumulaḥ samapadyata",
-    "english": "A tumultuous massing of webs of arrows arose—shafts loosed from the arms of heroes, piercing through every kind of armour."
-  },
-  {
-    "ref": "6.67.27",
-    "sanskrit": "prakāśaṃ cakrur ākāśam udyatāni bhujottamaiḥ nakṣatravimalābhāni śastrāṇi bharatarṣabha",
-    "english": "Weapons upraised by mighty arms, bright as the stars, lit up the firmament, O bull of the Bharatas."
-  },
-  {
-    "ref": "6.67.28",
-    "sanskrit": "ārṣabhāṇi vicitrāṇi rukmajālāvṛtāni ca saṃpetur dikṣu sarvāsu carmāṇi bharatarṣabha",
-    "english": "Shields of bull's hide, of varied hue and overlaid with networks of gold, flew through all the quarters, O bull of the Bharatas."
-  },
-  {
-    "ref": "6.67.29",
-    "sanskrit": "sūryavarṇaiś ca nistriṃśaiḥ pātyamānāni sarvaśaḥ dikṣu sarvāsv adṛśyanta śarīrāṇi śirāṃsi ca",
-    "english": "Struck down on every side by swords bright as the sun, bodies and heads were seen falling throughout all the quarters."
-  },
-  {
-    "ref": "6.67.30",
-    "sanskrit": "bhagnacakrākṣanīḍāś ca nipātitamahādhvajāḥ hatāśvāḥ pṛthivīṃ jagmus tatra tatra mahārathāḥ",
-    "english": "With wheels, axles, and chariot-boxes shattered, their tall banners cast down and their horses slain, the great car-warriors sank to the earth here and there."
-  },
-  {
-    "ref": "6.67.31",
-    "sanskrit": "paripetur hayāś cātra ke cic chastrakṛtavraṇāḥ rathān viparikarṣanto hateṣu rathayodhiṣu",
-    "english": "And here some horses, wounded by weapons, ran wildly about, dragging the chariots after them, their car-warriors slain."
-  },
-  {
-    "ref": "6.67.32",
-    "sanskrit": "śarāhatā bhinnadehā baddhayoktrā hayottamāḥ yugāni paryakarṣanta tatra tatra sma bhārata",
-    "english": "Struck by arrows, their bodies torn, yet still bound in their harness, the finest of steeds dragged the yokes about here and there, O Bhārata."
-  },
-  {
-    "ref": "6.67.33",
-    "sanskrit": "adṛśyanta sasūtāś ca sāśvāḥ sarathayodhinaḥ ekena balinā rājan vāraṇena hatā rathāḥ",
-    "english": "Chariots could be seen, with their drivers, their horses, and their fighting men, all slain together by a single mighty elephant, O king."
-  },
-  {
-    "ref": "6.67.34",
-    "sanskrit": "gandhahastimadasrāvam āghrāya bahavo raṇe saṃnipāte balaughānāṃ vītam ādadire gajāḥ",
-    "english": "Catching in the battle the scent of the rut flowing from the lordly tuskers, many an elephant, at the clash of those floods of troops, took to flight."
-  },
-  {
-    "ref": "6.67.35",
-    "sanskrit": "satomaramahāmātrair nipatadbhir gatāsubhiḥ babhūvāyodhanaṃ channaṃ nārācābhihatair gajaiḥ",
-    "english": "The field of battle was covered over with elephants struck down by iron shafts, falling lifeless together with their lances and their mighty riders."
-  },
-  {
-    "ref": "6.67.36",
-    "sanskrit": "saṃnipāte balaughānāṃ preṣitair varavāraṇaiḥ nipetur yudhi saṃbhagnāḥ sayodhāḥ sadhvajā rathāḥ",
-    "english": "At the clash of those floods of troops, chariots—shattered by the lordly elephants hurled against them—fell in battle together with their warriors and their banners."
-  },
-  {
-    "ref": "6.67.37",
-    "sanskrit": "nāgarājopamair hastair nāgair ākṣipya saṃyuge vyadṛśyanta mahārāja saṃbhagnā rathakūbarāḥ",
-    "english": "Seized in battle by the trunks of elephants huge as the king of serpents, chariot-poles could be seen snapped asunder, O great king."
-  },
-  {
-    "ref": "6.67.38",
-    "sanskrit": "viśīrṇarathajālāś ca keśeṣv ākṣipya dantibhiḥ drumaśākhā ivāvidhya niṣpiṣṭā rathino raṇe",
-    "english": "Their lattice-work of chariots smashed, the car-warriors were seized by the hair by the tuskers, whirled about like the branches of trees, and ground to pieces in the fray."
-  },
-  {
-    "ref": "6.67.39",
-    "sanskrit": "ratheṣu ca rathān yuddhe saṃsaktān varavāraṇāḥ vikarṣanto diśaḥ sarvāḥ saṃpetuḥ sarvaśabdagāḥ",
-    "english": "Dragging chariot upon chariot, locked together in the fight, the lordly elephants rushed in every direction, plunging through every clamour."
-  },
-  {
-    "ref": "6.67.40",
-    "sanskrit": "teṣāṃ tathā karṣatāṃ ca gajānāṃ rūpam ābabhau saraḥsu nalinījālaṃ viṣaktam iva karṣatām",
-    "english": "As they dragged their burdens so, those elephants had the look of beasts hauling a tangle of lotus-stalks caught fast in the pools."
-  },
-  {
-    "ref": "6.67.41",
-    "sanskrit": "evaṃ saṃchāditaṃ tatra babhūvāyodhanaṃ mahat sādibhiś ca padātaiś ca sadhvajaiś ca mahārathaiḥ",
-    "english": "Thus was that vast field of battle covered over with horsemen and foot-soldiers and with great car-warriors and their banners."
-  },
-  {
-    "ref": "6.68.1",
-    "sanskrit": "saṃjaya uvāca śikhaṇḍī saha matsyena virāṭena viśāṃ pate bhīṣmam āśu maheṣvāsam āsasāda sudurjayam",
-    "english": "Saṃjaya said: Śikhaṇḍin, together with Virāṭa of the Matsyas, O lord of peoples, swiftly fell upon Bhīṣma, that great archer most hard to conquer."
-  },
-  {
-    "ref": "6.68.2",
-    "sanskrit": "droṇaṃ kṛpaṃ vikarṇaṃ ca maheṣvāsān mahābalān rājñaś cānyān raṇe śūrān bahūn ārchad dhanaṃjayaḥ",
-    "english": "Dhanaṃjaya assailed Droṇa, Kṛpa, and Vikarṇa—great archers of mighty strength—and many other heroic kings in the battle."
-  },
-  {
-    "ref": "6.68.3",
-    "sanskrit": "saindhavaṃ ca maheṣvāsaṃ sāmātyaṃ saha bandhubhiḥ prācyāṃś ca dākṣiṇātyāṃś ca bhūmipān bhūmiparṣabha",
-    "english": "And the lord of Sindhu, that great archer, with his counsellors and kinsmen, and the kings of the East and of the South, O bull among lords of the earth—"
-  },
-  {
-    "ref": "6.68.4",
-    "sanskrit": "putraṃ ca te maheṣvāsaṃ duryodhanam amarṣaṇam duḥsahaṃ caiva samare bhīmaseno 'bhyavartata",
-    "english": "and against your son, the great archer, the unforgiving Duryodhana, and against Duḥsaha as well, did Bhīmasena advance in battle."
-  },
-  {
-    "ref": "6.68.5",
-    "sanskrit": "sahadevas tu śakunim ulūkaṃ ca mahāratham pitāputrau maheṣvāsāv abhyavartata durjayau",
-    "english": "But Sahadeva advanced upon Śakuni and the great car-warrior Ulūka—father and son, both great archers hard to vanquish."
-  },
-  {
-    "ref": "6.68.6",
-    "sanskrit": "yudhiṣṭhiro mahārāja gajānīkaṃ mahārathaḥ samavartata saṃgrāme putreṇa nikṛtas tava",
-    "english": "Yudhiṣṭhira, O great king, that mighty car-warrior, met in battle the host of elephants—he whom your son had so wronged."
-  },
-  {
-    "ref": "6.68.7",
-    "sanskrit": "mādrīputras tu nakulaḥ śūraḥ saṃkrandano yudhi trigartānāṃ rathodāraiḥ samasajjata pāṇḍavaḥ",
-    "english": "And the son of Mādrī, the valiant Nakula, raising his war-cry in the fray, that Pāṇḍava engaged the noble chariot-warriors of the Trigartas."
-  },
-  {
-    "ref": "6.68.8",
-    "sanskrit": "abhyavartanta durdharṣāḥ samare śālvakekayān sātyakiś cekitānaś ca saubhadraś ca mahārathaḥ",
-    "english": "The unassailable Sātyaki, Cekitāna, and the great car-warrior, son of Subhadrā, advanced in battle against the Śālvas and Kekayas."
-  },
-  {
-    "ref": "6.68.9",
-    "sanskrit": "dhṛṣṭaketuś ca samare rākṣasaś ca ghaṭotkacaḥ putrāṇāṃ te rathānīkaṃ pratyudyātāḥ sudurjayāḥ",
-    "english": "And Dhṛṣṭaketu and the rākṣasa Ghaṭotkaca, hard indeed to overcome, advanced in battle against the chariot-host of your sons."
-  },
-  {
-    "ref": "6.68.10",
-    "sanskrit": "senāpatir ameyātmā dhṛṣṭadyumno mahābalaḥ droṇena samare rājan samiyāyendrakarmaṇā",
-    "english": "The commander of the army, the immeasurable-souled and mighty Dhṛṣṭadyumna, closed in battle, O king, with Droṇa, whose deeds were like Indra's."
-  },
-  {
-    "ref": "6.68.11",
-    "sanskrit": "evam ete maheṣvāsās tāvakāḥ pāṇḍavaiḥ saha sametya samare śūrāḥ saṃprahāraṃ pracakrire",
-    "english": "Thus did these great archers, your heroes, meeting the Pāṇḍavas in battle, set to and join the fight."
-  },
-  {
-    "ref": "6.68.12",
-    "sanskrit": "madhyaṃdinagate sūrye nabhasy ākulatāṃ gate kuravaḥ pāṇḍaveyāś ca nijaghnur itaretaram",
-    "english": "When the sun had reached the midst of the sky and the heavens had fallen into turmoil, the Kurus and the sons of Pāṇḍu slew one another."
-  },
-  {
-    "ref": "6.68.13",
-    "sanskrit": "dhvajino hemacitrāṅgā vicaranto raṇājire sapatākā rathā rejur vaiyāghraparivāraṇāḥ",
-    "english": "Bearing their standards, their frames bright with gold, ranging over the field of battle, the chariots with their pennons and their coverings of tiger-skin shone resplendent."
-  },
-  {
-    "ref": "6.68.14",
-    "sanskrit": "sametānāṃ ca samare jigīṣūṇāṃ parasparam babhūva tumulaḥ śabdaḥ siṃhānām iva nardatām",
-    "english": "From those who had met in battle, each longing to overcome the other, there arose a tumultuous din, like that of roaring lions."
-  },
-  {
-    "ref": "6.68.15",
-    "sanskrit": "tatrādbhutam apaśyāma saṃprahāraṃ sudāruṇam yam akurvan raṇe vīrāḥ sṛñjayāḥ kurubhiḥ saha",
-    "english": "There we beheld a wondrous and most terrible encounter, which the heroic Sṛñjayas waged in battle against the Kurus."
-  },
-  {
-    "ref": "6.68.16",
-    "sanskrit": "naiva khaṃ na diśo rājan na sūryaṃ śatrutāpana vidiśo vāpy apaśyāma śarair muktaiḥ samantataḥ",
-    "english": "Neither the sky nor the quarters, O king, nor the sun, O scorcher of foes, nor even the intermediate points could we see, for the arrows loosed on every side."
-  },
-  {
-    "ref": "6.68.17",
-    "sanskrit": "śaktīnāṃ vimalāgrāṇāṃ tomarāṇāṃ tathāsyatām nistriṃśānāṃ ca pītānāṃ nīlotpalanibhāḥ prabhāḥ",
-    "english": "From the spears with their gleaming points, from the lances hurled, and from the burnished swords, came radiances like the hue of blue lotuses."
-  },
-  {
-    "ref": "6.68.18",
-    "sanskrit": "kavacānāṃ vicitrāṇāṃ bhūṣaṇānāṃ prabhās tathā khaṃ diśaḥ pradiśaś caiva bhāsayām āsur ojasā virarāja tadā rājaṃs tatra tatra raṇāṅgaṇam",
-    "english": "The splendours of the many-coloured cuirasses and of the ornaments lit up with their brilliance the sky, the quarters, and the intermediate quarters; and there, O king, the field of battle shone resplendent in every part."
-  },
-  {
-    "ref": "6.68.19",
-    "sanskrit": "rathasiṃhāsanavyāghrāḥ samāyāntaś ca saṃyuge virejuḥ samare rājan grahā iva nabhastale",
-    "english": "Tigers among men upon their lion-thrones of chariots, advancing into the fray, shone forth in battle, O king, like the planets in the vault of heaven."
-  },
-  {
-    "ref": "6.68.20",
-    "sanskrit": "bhīṣmas tu rathināṃ śreṣṭho bhīmasenaṃ mahābalam avārayata saṃkruddhaḥ sarvasainyasya paśyataḥ",
-    "english": "But Bhīṣma, the best of car-warriors, in his wrath held back the mighty Bhīmasena before the eyes of the whole army."
-  },
-  {
-    "ref": "6.68.21",
-    "sanskrit": "tato bhīṣmavinirmuktā rukmapuṅkhāḥ śilāśitāḥ abhyaghnan samare bhīmaṃ tailadhautāḥ sutejanāḥ",
-    "english": "Then shafts loosed by Bhīṣma, gold-feathered and whetted on stone, polished with oil and keen-edged, smote Bhīma in the battle."
-  },
-  {
-    "ref": "6.68.22",
-    "sanskrit": "tasya śaktiṃ mahāvegāṃ bhīmaseno mahābalaḥ kruddhāśīviṣasaṃkāśāṃ preṣayām āsa bhārata",
-    "english": "Against him the mighty Bhīmasena hurled a swift-flying spear, like an enraged venomous serpent, O Bhārata."
-  },
-  {
-    "ref": "6.68.23",
-    "sanskrit": "tām āpatantīṃ sahasā rukmadaṇḍāṃ durāsadām ciccheda samare bhīṣmaḥ śaraiḥ saṃnataparvabhiḥ",
-    "english": "As it came rushing on, that gold-shafted and irresistible spear, Bhīṣma cut asunder in the battle with his smooth-jointed arrows."
-  },
-  {
-    "ref": "6.68.24",
-    "sanskrit": "tato 'pareṇa bhallena pītena niśitena ca kārmukaṃ bhīmasenasya dvidhā ciccheda bhārata",
-    "english": "Then with another broad-headed arrow, burnished and keen, he cut the bow of Bhīmasena in two, O Bhārata."
-  },
-  {
-    "ref": "6.68.25",
-    "sanskrit": "sātyakis tu tatas tūrṇaṃ bhīṣmam āsādya saṃyuge śarair bahubhir ānarchat pitaraṃ te janeśvara",
-    "english": "But Sātyaki then swiftly closed with Bhīṣma in the fray and assailed your sire with a multitude of arrows, O lord of men."
-  },
-  {
-    "ref": "6.68.26",
-    "sanskrit": "tataḥ saṃdhāya vai tīkṣṇaṃ śaraṃ paramadāruṇam vārṣṇeyasya rathād bhīṣmaḥ pātayām āsa sārathim",
-    "english": "Then, fitting to his bow a sharp and most dreadful arrow, Bhīṣma struck down the charioteer of the Vṛṣṇi hero from his car."
-  },
-  {
-    "ref": "6.68.27",
-    "sanskrit": "tasyāśvāḥ pradrutā rājan nihate rathasārathau tena tenaiva dhāvanti manomārutaraṃhasaḥ",
-    "english": "His charioteer slain, his horses bolted, O king, and ran this way and that with the speed of thought and of the wind."
-  },
-  {
-    "ref": "6.68.28",
-    "sanskrit": "tataḥ sarvasya sainyasya nisvanas tumulo 'bhavat hāhākāraś ca saṃjajñe pāṇḍavānāṃ mahātmanām",
-    "english": "Then from the whole army arose a tumultuous uproar, and a cry of dismay broke forth among the high-souled Pāṇḍavas."
-  },
-  {
-    "ref": "6.68.29",
-    "sanskrit": "abhidravata gṛhṇīta hayān yacchata dhāvata ity āsīt tumulaḥ śabdo yuyudhānarathaṃ prati",
-    "english": "\"Rush in! Seize them! Hold the horses! Run!\"—such was the tumultuous clamour that arose about the chariot of Yuyudhāna."
-  }
+{"ref": "6.66.13", "sanskrit": "tasmin mahābhaye ghore tumule lomaharṣaṇe vavarṣuḥ śaravarṣāṇi kṣatriyā yuddhadurmadāḥ", "english": "In that dread and fearful tumult, that hair-raising turmoil, the warriors, drunk with the frenzy of battle, poured down their showers of arrows."},
+{"ref": "6.66.14", "sanskrit": "krośanti kuñjarās tatra śaravarṣapratāpitāḥ tāvakānāṃ pareṣāṃ ca saṃyuge bharatottama aśvāś ca paryadhāvanta hatārohā diśo daśa", "english": "There the elephants, scorched by the rain of arrows, trumpeted in agony—both yours and the enemy's, O best of the Bhāratas, in that clash—and the horses, their riders slain, fled wildly across the ten directions."},
+{"ref": "6.66.15", "sanskrit": "utpatya nipatanty anye śaraghātaprapīḍitāḥ tāvakānāṃ pareṣāṃ ca yodhānāṃ bharatarṣabha", "english": "Others, tormented by the blows of arrows, leaped up and fell again—warriors of yours and of the foe alike, O bull of the Bhāratas."},
+{"ref": "6.66.16", "sanskrit": "aśvānāṃ kuñjarāṇāṃ ca rathānāṃ cātivartatām saṃghātāḥ sma pradṛśyante tatra tatra viśāṃ pate", "english": "Heaped-up masses of horses, of elephants, and of careering chariots could be seen here and there, O lord of peoples."},
+{"ref": "6.66.17", "sanskrit": "gadābhir asibhiḥ prāsair bāṇaiś ca nataparvabhiḥ jaghnuḥ parasparaṃ tatra kṣatriyāḥ kālacoditāḥ", "english": "With maces and swords, with javelins and with smooth-jointed shafts, the warriors, driven on by Death, struck one another there."},
+{"ref": "6.66.18", "sanskrit": "apare bāhubhir vīrā niyuddhakuśalā yudhi bahudhā samasajjanta āyasaiḥ parighair iva", "english": "Other heroes, skilled in unarmed combat, grappled in the fray with their bare arms in many a way, as though with bars of iron."},
+{"ref": "6.66.19", "sanskrit": "muṣṭibhir jānubhiś caiva talaiś caiva viśāṃ pate anyonyaṃ jaghnire vīrās tāvakāḥ pāṇḍavaiḥ saha", "english": "With fists and knees and open palms, O lord of peoples, the heroes smote each other—your men together with the Pāṇḍavas."},
+{"ref": "6.66.20", "sanskrit": "virathā rathinaś cātra nistriṃśavaradhāriṇaḥ anyonyam abhidhāvanta parasparavadhaiṣiṇaḥ", "english": "And there chariot-warriors stripped of their cars, wielding their excellent swords, rushed upon one another, each bent on the other's slaughter."},
+{"ref": "6.66.21", "sanskrit": "tato duryodhano rājā kaliṅgair bahubhir vṛtaḥ puraskṛtya raṇe bhīṣmaṃ pāṇḍavān abhyavartata", "english": "Then King Duryodhana, surrounded by a host of Kaliṅgas, placing Bhīṣma at the head of the battle, advanced against the Pāṇḍavas."},
+{"ref": "6.66.22", "sanskrit": "tathaiva pāṇḍavāḥ sarve parivārya vṛkodaram bhīṣmam abhyadravan kruddhā raṇe rabhasavāhanāḥ", "english": "And so too all the Pāṇḍavas, ranging themselves about Vṛkodara, charged in fury upon Bhīṣma in battle, their steeds borne on with headlong speed."},
+{"ref": "6.67.1", "sanskrit": "saṃjaya uvāca dṛṣṭvā bhīṣmeṇa saṃsaktān bhrātṝn anyāṃś ca pārthivān tam abhyadhāvad gāṅgeyam udyatāstro dhanaṃjayaḥ", "english": "Saṃjaya said: Seeing his brothers and the other princes locked in combat with Bhīṣma, Dhanaṃjaya, his weapon upraised, rushed upon the son of Gaṅgā."},
+{"ref": "6.67.2", "sanskrit": "pāñcajanyasya nirghoṣaṃ dhanuṣo gāṇḍivasya ca dhvajaṃ ca dṛṣṭvā pārthasya sarvān no bhayam āviśat", "english": "At the blare of the Pāñcajanya and of the Gāṇḍīva bow, and at the sight of Pārtha's banner, terror entered into us all."},
+{"ref": "6.67.3", "sanskrit": "asajjamānaṃ vṛkṣeṣu dhūmaketum ivotthitam bahuvarṇaṃ ca citraṃ ca divyaṃ vānaralakṣaṇam apaśyāma mahārāja dhvajaṃ gāṇḍivadhanvanaḥ", "english": "Catching upon no tree, risen like a blazing comet, many-hued and wondrous, divine and bearing the mark of the ape—such, O great king, did we behold the banner of the wielder of the Gāṇḍīva."},
+{"ref": "6.67.4", "sanskrit": "vidyutaṃ meghamadhyasthāṃ bhrājamānām ivāmbare dadṛśur gāṇḍivaṃ yodhā rukmapṛṣṭhaṃ mahārathe", "english": "Like lightning set amid the clouds, gleaming in the sky, the warriors beheld the gold-backed Gāṇḍīva in the hands of that mighty car-warrior."},
+{"ref": "6.67.5", "sanskrit": "aśuśruma bhṛśaṃ cāsya śakrasyevābhigarjataḥ sughoraṃ talayoḥ śabdaṃ nighnatas tava vāhinīm", "english": "And we heard, loud as the thunder of Śakra, the dread clap of his palms as he smote down your host."},
+{"ref": "6.67.6", "sanskrit": "caṇḍavāto yathā meghaḥ savidyutstanayitnumān diśaḥ saṃplāvayan sarvāḥ śaravarṣaiḥ samantataḥ", "english": "As a storm-cloud driven by a fierce wind, charged with lightning and thunder, floods all the quarters with rain, so on every side he deluged them with showers of arrows."},
+{"ref": "6.67.7", "sanskrit": "abhyadhāvata gāṅgeyaṃ bhairavāstro dhanaṃjayaḥ diśaṃ prācīṃ pratīcīṃ ca na jānīmo 'stramohitāḥ", "english": "Dhanaṃjaya, wielding his terrible weapons, rushed upon the son of Gaṅgā; bewildered by his missiles, we no longer knew the east from the west."},
+{"ref": "6.67.8", "sanskrit": "kāṃdigbhūtāḥ śrāntapatrā hatāstrā hatacetasaḥ anyonyam abhisaṃśliṣya yodhās te bharatarṣabha", "english": "Lost as to which way to turn, their plumes drooping, their weapons spent and their wits undone, those warriors clung one to another, O bull of the Bhāratas."},
+{"ref": "6.67.9", "sanskrit": "bhīṣmam evābhilīyanta saha sarvais tavātmajaiḥ teṣām ārtāyanam abhūd bhīṣmaḥ śaṃtanavo raṇe", "english": "They sought refuge with Bhīṣma alone, together with all your sons; in that battle Bhīṣma, son of Śaṃtanu, became the haven of the afflicted."},
+{"ref": "6.67.10", "sanskrit": "samutpatanta vitrastā rathebhyo rathinas tadā sādinaś cāśvapṛṣṭhebhyo bhūmau cāpi padātayaḥ", "english": "Then the car-warriors in terror leaped from their chariots, the horsemen from the backs of their steeds, and the foot-soldiers sank to the ground."},
+{"ref": "6.67.11", "sanskrit": "śrutvā gāṇḍīvanirghoṣaṃ visphūrjitam ivāśaneḥ sarvasainyāni bhītāni vyavalīyanta bhārata", "english": "Hearing the roar of the Gāṇḍīva, like the crash of a thunderbolt, all the armies in their fear melted away, O Bhārata."},
+{"ref": "6.67.12", "sanskrit": "atha kāmbojamukhyais tu bṛhadbhiḥ śīghragāmibhiḥ gopānāṃ bahusāhasrair balair govāsano vṛtaḥ", "english": "Then the lord of the cowherds, Govāsana, came surrounded by the foremost Kāmbojas—tall and swift of foot—and by the many thousands of herdsmen's forces."},
+{"ref": "6.67.13", "sanskrit": "madrasauvīragāndhārais trigartaiś ca viśāṃ pate sarvakāliṅgamukhyaiś ca kaliṅgādhipatir vṛtaḥ", "english": "And the lord of the Kaliṅgas was ringed about by the Madras, Sauvīras, and Gāndhāras, by the Trigartas, O lord of peoples, and by all the chief warriors of the Kaliṅgas."},
+{"ref": "6.67.14", "sanskrit": "nāgā naragaṇaughāś ca duḥśāsanapuraḥsarāḥ jayadrathaś ca nṛpatiḥ sahitaḥ sarvarājabhiḥ", "english": "Elephants and great hosts of men, with Duḥśāsana at their head, and King Jayadratha together with all the kings—"},
+{"ref": "6.67.15", "sanskrit": "hayārohavarāś caiva tava putreṇa coditāḥ caturdaśa sahasrāṇi saubalaṃ paryavārayan", "english": "and excellent horsemen, fourteen thousand strong, urged on by your son, encircled the son of Subala."},
+{"ref": "6.67.16", "sanskrit": "tatas te sahitāḥ sarve vibhaktarathavāhanāḥ pāṇḍavān samare jagmus tāvakā bharatarṣabha", "english": "Then all your men together, with their chariots and mounts marshalled apart, advanced upon the Pāṇḍavas in battle, O bull of the Bhāratas."},
+{"ref": "6.67.17", "sanskrit": "rathibhir vāraṇair aśvaiḥ padātaiś ca samīritam ghoram āyodhanaṃ jajñe mahābhrasadṛśaṃ rajaḥ", "english": "Stirred up by car-warriors, elephants, horses, and foot-soldiers, the dread dust of battle arose, resembling a great mass of clouds."},
+{"ref": "6.67.18", "sanskrit": "tomaraprāsanārācagajāśvarathayodhinām balena mahatā bhīṣmaḥ samasajjat kirīṭinā", "english": "With a mighty host of warriors fighting with lances, javelins, and iron shafts, mounted on elephants, horses, and chariots, Bhīṣma closed with the Diademed one."},
+{"ref": "6.67.19", "sanskrit": "āvantyaḥ kāśirājena bhīmasenena saindhavaḥ ajātaśatrur madrāṇām ṛṣabheṇa yaśasvinā sahaputraḥ sahāmātyaḥ śalyena samasajjata", "english": "The lord of Avanti closed with the king of Kāśi, the lord of Sindhu with Bhīmasena; and Ajātaśatru, with his sons and counsellors, engaged the glorious bull of the Madras, Śalya."},
+{"ref": "6.67.20", "sanskrit": "vikarṇaḥ sahadevena citrasenaḥ śikhaṇḍinā matsyā duryodhanaṃ jagmuḥ śakuniṃ ca viśāṃ pate", "english": "Vikarṇa engaged Sahadeva, Citrasena engaged Śikhaṇḍin, and the Matsyas advanced against Duryodhana and against Śakuni, O lord of peoples."},
+{"ref": "6.67.21", "sanskrit": "drupadaś cekitānaś ca sātyakiś ca mahārathaḥ droṇena samasajjanta saputreṇa mahātmanā kṛpaś ca kṛtavarmā ca dhṛṣṭaketum abhidrutau", "english": "Drupada, Cekitāna, and the great car-warrior Sātyaki closed with the high-souled Droṇa and his son; while Kṛpa and Kṛtavarman rushed together upon Dhṛṣṭaketu."},
+{"ref": "6.67.22", "sanskrit": "evaṃ prajavitāśvāni bhrāntanāgarathāni ca sainyāni samasajjanta prayuddhāni samantataḥ", "english": "Thus the armies, their horses galloping and their elephants and chariots wheeling about, closed and grappled in furious combat on every side."},
+{"ref": "6.67.23", "sanskrit": "nirabhre vidyutas tīvrā diśaś ca rajasāvṛtāḥ prādurāsan maholkāś ca sanirghātā viśāṃ pate", "english": "Though the sky was cloudless, fierce lightnings flashed and the quarters were veiled in dust; great meteors appeared, attended by crashing thunderclaps, O lord of peoples."},
+{"ref": "6.67.24", "sanskrit": "pravavau ca mahāvātaḥ pāṃsuvarṣaṃ papāta ca nabhasy antardadhe sūryaḥ sainyena rajasāvṛtaḥ", "english": "A great wind blew, a rain of dust came down, and in the heavens the sun was hidden away, mantled by the dust raised by the host."},
+{"ref": "6.67.25", "sanskrit": "pramohaḥ sarvasattvānām atīva samapadyata rajasā cābhibhūtānām astrajālaiś ca tudyatām", "english": "An utter bewilderment came upon all living things, overwhelmed as they were by the dust and tormented by the nets of weapons."},
+{"ref": "6.67.26", "sanskrit": "vīrabāhuvisṛṣṭānāṃ sarvāvaraṇabhedinām saṃghātaḥ śarajālānāṃ tumulaḥ samapadyata", "english": "A tumultuous massing of webs of arrows arose—shafts loosed from the arms of heroes, piercing through every kind of armour."},
+{"ref": "6.67.27", "sanskrit": "prakāśaṃ cakrur ākāśam udyatāni bhujottamaiḥ nakṣatravimalābhāni śastrāṇi bharatarṣabha", "english": "Weapons upraised by mighty arms, bright as the stars, lit up the firmament, O bull of the Bhāratas."},
+{"ref": "6.67.28", "sanskrit": "ārṣabhāṇi vicitrāṇi rukmajālāvṛtāni ca saṃpetur dikṣu sarvāsu carmāṇi bharatarṣabha", "english": "Shields of bull's hide, of varied hue and overlaid with networks of gold, flew through all the quarters, O bull of the Bhāratas."},
+{"ref": "6.67.29", "sanskrit": "sūryavarṇaiś ca nistriṃśaiḥ pātyamānāni sarvaśaḥ dikṣu sarvāsv adṛśyanta śarīrāṇi śirāṃsi ca", "english": "Struck down on every side by swords bright as the sun, bodies and heads were seen falling throughout all the quarters."},
+{"ref": "6.67.30", "sanskrit": "bhagnacakrākṣanīḍāś ca nipātitamahādhvajāḥ hatāśvāḥ pṛthivīṃ jagmus tatra tatra mahārathāḥ", "english": "With wheels, axles, and chariot-boxes shattered, their tall banners cast down and their horses slain, the great car-warriors sank to the earth here and there."},
+{"ref": "6.67.31", "sanskrit": "paripetur hayāś cātra ke cic chastrakṛtavraṇāḥ rathān viparikarṣanto hateṣu rathayodhiṣu", "english": "And here some horses, wounded by weapons, ran wildly about, dragging the chariots after them, their car-warriors slain."},
+{"ref": "6.67.32", "sanskrit": "śarāhatā bhinnadehā baddhayoktrā hayottamāḥ yugāni paryakarṣanta tatra tatra sma bhārata", "english": "Struck by arrows, their bodies torn, yet still bound in their harness, the finest of steeds dragged the yokes about here and there, O Bhārata."},
+{"ref": "6.67.33", "sanskrit": "adṛśyanta sasūtāś ca sāśvāḥ sarathayodhinaḥ ekena balinā rājan vāraṇena hatā rathāḥ", "english": "Chariots could be seen, with their drivers, their horses, and their fighting men, all slain together by a single mighty elephant, O king."},
+{"ref": "6.67.34", "sanskrit": "gandhahastimadasrāvam āghrāya bahavo raṇe saṃnipāte balaughānāṃ vītam ādadire gajāḥ", "english": "Catching in the battle the scent of the rut flowing from the lordly tuskers, many an elephant, at the clash of those floods of troops, took to flight."},
+{"ref": "6.67.35", "sanskrit": "satomaramahāmātrair nipatadbhir gatāsubhiḥ babhūvāyodhanaṃ channaṃ nārācābhihatair gajaiḥ", "english": "The field of battle was covered over with elephants struck down by iron shafts, falling lifeless together with their lances and their mighty riders."},
+{"ref": "6.67.36", "sanskrit": "saṃnipāte balaughānāṃ preṣitair varavāraṇaiḥ nipetur yudhi saṃbhagnāḥ sayodhāḥ sadhvajā rathāḥ", "english": "At the clash of those floods of troops, chariots—shattered by the lordly elephants hurled against them—fell in battle together with their warriors and their banners."},
+{"ref": "6.67.37", "sanskrit": "nāgarājopamair hastair nāgair ākṣipya saṃyuge vyadṛśyanta mahārāja saṃbhagnā rathakūbarāḥ", "english": "Seized in battle by the trunks of elephants huge as the king of serpents, chariot-poles could be seen snapped asunder, O great king."},
+{"ref": "6.67.38", "sanskrit": "viśīrṇarathajālāś ca keśeṣv ākṣipya dantibhiḥ drumaśākhā ivāvidhya niṣpiṣṭā rathino raṇe", "english": "Their lattice-work of chariots smashed, the car-warriors were seized by the hair by the tuskers, whirled about like the branches of trees, and ground to pieces in the fray."},
+{"ref": "6.67.39", "sanskrit": "ratheṣu ca rathān yuddhe saṃsaktān varavāraṇāḥ vikarṣanto diśaḥ sarvāḥ saṃpetuḥ sarvaśabdagāḥ", "english": "Dragging chariot upon chariot, locked together in the fight, the lordly elephants rushed in every direction, plunging through every clamour."},
+{"ref": "6.67.40", "sanskrit": "teṣāṃ tathā karṣatāṃ ca gajānāṃ rūpam ābabhau saraḥsu nalinījālaṃ viṣaktam iva karṣatām", "english": "As they dragged their burdens so, those elephants had the look of beasts hauling a tangle of lotus-stalks caught fast in the pools."},
+{"ref": "6.67.41", "sanskrit": "evaṃ saṃchāditaṃ tatra babhūvāyodhanaṃ mahat sādibhiś ca padātaiś ca sadhvajaiś ca mahārathaiḥ", "english": "Thus was that vast field of battle covered over with horsemen and foot-soldiers and with great car-warriors and their banners."},
+{"ref": "6.68.1", "sanskrit": "saṃjaya uvāca śikhaṇḍī saha matsyena virāṭena viśāṃ pate bhīṣmam āśu maheṣvāsam āsasāda sudurjayam", "english": "Saṃjaya said: Śikhaṇḍin, together with Virāṭa of the Matsyas, O lord of peoples, swiftly fell upon Bhīṣma, that great archer most hard to conquer."},
+{"ref": "6.68.2", "sanskrit": "droṇaṃ kṛpaṃ vikarṇaṃ ca maheṣvāsān mahābalān rājñaś cānyān raṇe śūrān bahūn ārchad dhanaṃjayaḥ", "english": "Dhanaṃjaya assailed Droṇa, Kṛpa, and Vikarṇa—great archers of mighty strength—and many other heroic kings in the battle."},
+{"ref": "6.68.3", "sanskrit": "saindhavaṃ ca maheṣvāsaṃ sāmātyaṃ saha bandhubhiḥ prācyāṃś ca dākṣiṇātyāṃś ca bhūmipān bhūmiparṣabha", "english": "And the lord of Sindhu, that great archer, with his counsellors and kinsmen, and the kings of the East and of the South, O bull among lords of the earth—"},
+{"ref": "6.68.4", "sanskrit": "putraṃ ca te maheṣvāsaṃ duryodhanam amarṣaṇam duḥsahaṃ caiva samare bhīmaseno 'bhyavartata", "english": "and against your son, the great archer, the unforgiving Duryodhana, and against Duḥsaha as well, did Bhīmasena advance in battle."},
+{"ref": "6.68.5", "sanskrit": "sahadevas tu śakunim ulūkaṃ ca mahāratham pitāputrau maheṣvāsāv abhyavartata durjayau", "english": "But Sahadeva advanced upon Śakuni and the great car-warrior Ulūka—father and son, both great archers hard to vanquish."},
+{"ref": "6.68.6", "sanskrit": "yudhiṣṭhiro mahārāja gajānīkaṃ mahārathaḥ samavartata saṃgrāme putreṇa nikṛtas tava", "english": "Yudhiṣṭhira, O great king, that mighty car-warrior, met in battle the host of elephants—he whom your son had so wronged."},
+{"ref": "6.68.7", "sanskrit": "mādrīputras tu nakulaḥ śūraḥ saṃkrandano yudhi trigartānāṃ rathodāraiḥ samasajjata pāṇḍavaḥ", "english": "And the son of Mādrī, the valiant Nakula, raising his war-cry in the fray, that Pāṇḍava engaged the noble chariot-warriors of the Trigartas."},
+{"ref": "6.68.8", "sanskrit": "abhyavartanta durdharṣāḥ samare śālvakekayān sātyakiś cekitānaś ca saubhadraś ca mahārathaḥ", "english": "The unassailable Sātyaki, Cekitāna, and the great car-warrior, son of Subhadrā, advanced in battle against the Śālvas and Kekayas."},
+{"ref": "6.68.9", "sanskrit": "dhṛṣṭaketuś ca samare rākṣasaś ca ghaṭotkacaḥ putrāṇāṃ te rathānīkaṃ pratyudyātāḥ sudurjayāḥ", "english": "And Dhṛṣṭaketu and the rākṣasa Ghaṭotkaca, hard indeed to overcome, advanced in battle against the chariot-host of your sons."},
+{"ref": "6.68.10", "sanskrit": "senāpatir ameyātmā dhṛṣṭadyumno mahābalaḥ droṇena samare rājan samiyāyendrakarmaṇā", "english": "The commander of the army, the immeasurable-souled and mighty Dhṛṣṭadyumna, closed in battle, O king, with Droṇa, whose deeds were like Indra's."},
+{"ref": "6.68.11", "sanskrit": "evam ete maheṣvāsās tāvakāḥ pāṇḍavaiḥ saha sametya samare śūrāḥ saṃprahāraṃ pracakrire", "english": "Thus did these great archers, your heroes, meeting the Pāṇḍavas in battle, set to and join the fight."},
+{"ref": "6.68.12", "sanskrit": "madhyaṃdinagate sūrye nabhasy ākulatāṃ gate kuravaḥ pāṇḍaveyāś ca nijaghnur itaretaram", "english": "When the sun had reached the midst of the sky and the heavens had fallen into turmoil, the Kurus and the sons of Pāṇḍu slew one another."},
+{"ref": "6.68.13", "sanskrit": "dhvajino hemacitrāṅgā vicaranto raṇājire sapatākā rathā rejur vaiyāghraparivāraṇāḥ", "english": "Bearing their standards, their frames bright with gold, ranging over the field of battle, the chariots with their pennons and their coverings of tiger-skin shone resplendent."},
+{"ref": "6.68.14", "sanskrit": "sametānāṃ ca samare jigīṣūṇāṃ parasparam babhūva tumulaḥ śabdaḥ siṃhānām iva nardatām", "english": "From those who had met in battle, each longing to overcome the other, there arose a tumultuous din, like that of roaring lions."},
+{"ref": "6.68.15", "sanskrit": "tatrādbhutam apaśyāma saṃprahāraṃ sudāruṇam yam akurvan raṇe vīrāḥ sṛñjayāḥ kurubhiḥ saha", "english": "There we beheld a wondrous and most terrible encounter, which the heroic Sṛñjayas waged in battle against the Kurus."},
+{"ref": "6.68.16", "sanskrit": "naiva khaṃ na diśo rājan na sūryaṃ śatrutāpana vidiśo vāpy apaśyāma śarair muktaiḥ samantataḥ", "english": "Neither the sky nor the quarters, O king, nor the sun, O scorcher of foes, nor even the intermediate points could we see, for the arrows loosed on every side."},
+{"ref": "6.68.17", "sanskrit": "śaktīnāṃ vimalāgrāṇāṃ tomarāṇāṃ tathāsyatām nistriṃśānāṃ ca pītānāṃ nīlotpalanibhāḥ prabhāḥ", "english": "From the spears with their gleaming points, from the lances hurled, and from the burnished swords, came radiances like the hue of blue lotuses."},
+{"ref": "6.68.18", "sanskrit": "kavacānāṃ vicitrāṇāṃ bhūṣaṇānāṃ prabhās tathā khaṃ diśaḥ pradiśaś caiva bhāsayām āsur ojasā virarāja tadā rājaṃs tatra tatra raṇāṅgaṇam", "english": "The splendours of the many-coloured cuirasses and of the ornaments lit up with their brilliance the sky, the quarters, and the intermediate quarters; and there, O king, the field of battle shone resplendent in every part."},
+{"ref": "6.68.19", "sanskrit": "rathasiṃhāsanavyāghrāḥ samāyāntaś ca saṃyuge virejuḥ samare rājan grahā iva nabhastale", "english": "Tigers among men upon their lion-thrones of chariots, advancing into the fray, shone forth in battle, O king, like the planets in the vault of heaven."},
+{"ref": "6.68.20", "sanskrit": "bhīṣmas tu rathināṃ śreṣṭho bhīmasenaṃ mahābalam avārayata saṃkruddhaḥ sarvasainyasya paśyataḥ", "english": "But Bhīṣma, the best of car-warriors, in his wrath held back the mighty Bhīmasena before the eyes of the whole army."},
+{"ref": "6.68.21", "sanskrit": "tato bhīṣmavinirmuktā rukmapuṅkhāḥ śilāśitāḥ abhyaghnan samare bhīmaṃ tailadhautāḥ sutejanāḥ", "english": "Then shafts loosed by Bhīṣma, gold-feathered and whetted on stone, polished with oil and keen-edged, smote Bhīma in the battle."},
+{"ref": "6.68.22", "sanskrit": "tasya śaktiṃ mahāvegāṃ bhīmaseno mahābalaḥ kruddhāśīviṣasaṃkāśāṃ preṣayām āsa bhārata", "english": "Against him the mighty Bhīmasena hurled a swift-flying spear, like an enraged venomous serpent, O Bhārata."},
+{"ref": "6.68.23", "sanskrit": "tām āpatantīṃ sahasā rukmadaṇḍāṃ durāsadām ciccheda samare bhīṣmaḥ śaraiḥ saṃnataparvabhiḥ", "english": "As it came rushing on, that gold-shafted and irresistible spear, Bhīṣma cut asunder in the battle with his smooth-jointed arrows."},
+{"ref": "6.68.24", "sanskrit": "tato 'pareṇa bhallena pītena niśitena ca kārmukaṃ bhīmasenasya dvidhā ciccheda bhārata", "english": "Then with another broad-headed arrow, burnished and keen, he cut the bow of Bhīmasena in two, O Bhārata."},
+{"ref": "6.68.25", "sanskrit": "sātyakis tu tatas tūrṇaṃ bhīṣmam āsādya saṃyuge śarair bahubhir ānarchat pitaraṃ te janeśvara", "english": "But Sātyaki then swiftly closed with Bhīṣma in the fray and assailed your sire with a multitude of arrows, O lord of men."},
+{"ref": "6.68.26", "sanskrit": "tataḥ saṃdhāya vai tīkṣṇaṃ śaraṃ paramadāruṇam vārṣṇeyasya rathād bhīṣmaḥ pātayām āsa sārathim", "english": "Then, fitting to his bow a sharp and most dreadful arrow, Bhīṣma struck down the charioteer of the Vṛṣṇi hero from his car."},
+{"ref": "6.68.27", "sanskrit": "tasyāśvāḥ pradrutā rājan nihate rathasārathau tena tenaiva dhāvanti manomārutaraṃhasaḥ", "english": "His charioteer slain, his horses bolted, O king, and ran this way and that with the speed of thought and of the wind."},
+{"ref": "6.68.28", "sanskrit": "tataḥ sarvasya sainyasya nisvanas tumulo 'bhavat hāhākāraś ca saṃjajñe pāṇḍavānāṃ mahātmanām", "english": "Then from the whole army arose a tumultuous uproar, and a cry of dismay broke forth among the high-souled Pāṇḍavas."},
+{"ref": "6.68.29", "sanskrit": "abhidravata gṛhṇīta hayān yacchata dhāvata ity āsīt tumulaḥ śabdo yuyudhānarathaṃ prati", "english": "\"Rush in! Seize them! Hold the horses! Run!\"—such was the tumultuous clamour that arose about the chariot of Yuyudhāna."}
 ]

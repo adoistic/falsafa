@@ -1,402 +1,82 @@
 [
-  {
-    "ref": "8.55.3",
-    "sanskrit": "āyāntam aśvair himaśaṅkhavarṇaiḥ; suvarṇamuktāmaṇijālanaddhaiḥ jambhaṃ jighāṃsuṃ pragṛhītavajraṃ; jayāya devendram ivogramanyum",
-    "english": "He came on, drawn by horses white as snow and conch-shell, harnessed with nets of gold, pearl, and gem—like Indra, lord of the gods, in fierce wrath, gripping the thunderbolt and bent on victory over Jambha."
-  },
-  {
-    "ref": "8.55.4",
-    "sanskrit": "rathāśvamātaṅgapadātisaṃghā; bāṇasvanair nemikhurasvanaiś ca saṃnādayanto vasudhāṃ diśaś ca; kruddhā nṛsiṃhā jayam abhyudīyuḥ",
-    "english": "Hosts of chariots, horses, elephants, and foot-soldiers—those lions among men, enraged—rose up against him for victory, making earth and the quarters resound with the twang of arrows and the din of wheel-rims and hooves."
-  },
-  {
-    "ref": "8.55.5",
-    "sanskrit": "teṣāṃ ca pārthasya mahat tadāsīd; dehāsupāpmakṣapaṇaṃ suyuddham trailokyahetor asurair yathāsīd; devasya viṣṇor jayatāṃ varasya",
-    "english": "Then between them and Pārtha there raged a mighty, fair-fought battle—destroyer of bodies, of lives, and of sin—even as once it was for the god Viṣṇu, best of the victorious, against the Asuras for the sake of the three worlds."
-  },
-  {
-    "ref": "8.55.6",
-    "sanskrit": "tair astam uccāvacam āyudhaugham; ekaḥ praciccheda kirīṭamālī kṣurārdhacandrair niśitaiś ca bāṇaiḥ; śirāṃsi teṣāṃ bahudhā ca bāhūn",
-    "english": "The diadem-crowned hero, alone, cut to pieces the flood of weapons high and low that they hurled, and with razor-edged and crescent-headed shafts, with whetted arrows, lopped off in numbers their heads and arms."
-  },
-  {
-    "ref": "8.55.7",
-    "sanskrit": "chatrāṇi vālavyajanāni ketūn; aśvān rathān pattigaṇān dvipāṃś ca te petur urvyāṃ bahudhā virūpā; vātaprabhagnāni yathā vanāni",
-    "english": "Parasols, yak-tail fans, banners, horses, chariots, throngs of footmen, and elephants—mangled in countless ways, they fell to the earth like forests shattered by the wind."
-  },
-  {
-    "ref": "8.55.8",
-    "sanskrit": "suvarṇajālāvatatā mahāgajāḥ; savaijayantīdhvajayodhakalpitāḥ suvarṇapuṅkhair iṣubhiḥ samācitāś; cakāśire prajvalitā yathācalāḥ",
-    "english": "Great elephants, draped in nets of gold and arrayed with triumphal flags, standards, and warriors, studded with gold-feathered arrows, blazed like mountains afire."
-  },
-  {
-    "ref": "8.55.9",
-    "sanskrit": "vidārya nāgāṃś ca rathāṃś ca vājinaḥ; śarottamair vāsavavajrasaṃnibhaiḥ drutaṃ yayau karṇajighāṃsayā tathā; yathā marutvān balabhedane purā",
-    "english": "Rending elephants and chariots and horses with peerless shafts like Indra's thunderbolt, he sped swiftly on, eager to slay Karṇa, as of old the lord of the Maruts went forth to break Bala."
-  },
-  {
-    "ref": "8.55.10",
-    "sanskrit": "tataḥ sa puruṣavyāghraḥ sūtasainyam ariṃdama praviveśa mahābāhur makaraḥ sāgaraṃ yathā",
-    "english": "Then that tiger among men, O tamer of foes, the mighty-armed one, plunged into the army of the Sūta's son as a sea-monster plunges into the ocean."
-  },
-  {
-    "ref": "8.55.11",
-    "sanskrit": "taṃ dṛṣṭvā tāvakā rājan rathapattisamanvitāḥ gajāśvasādibahulāḥ pāṇḍavaṃ samupādravan",
-    "english": "Seeing him, O king, your men, with chariots and footmen, thronged with elephants, horses, and riders, rushed upon the Pāṇḍava."
-  },
-  {
-    "ref": "8.55.12",
-    "sanskrit": "tatrābhidravatāṃ pārtham ārāvaḥ sumahān abhūt sāgarasyeva mattasya yathā syāt salilasvanaḥ",
-    "english": "As they charged upon Pārtha there arose a tremendous roar, like the surging clamor of waters in a frenzied ocean."
-  },
-  {
-    "ref": "8.55.13",
-    "sanskrit": "te tu taṃ puruṣavyāghraṃ vyāghrā iva mahārathāḥ abhyadravanta saṃgrāme tyaktvā prāṇakṛtaṃ bhayam",
-    "english": "Those mighty car-warriors, like tigers, fell upon that tiger among men in battle, casting off all fear for their lives."
-  },
-  {
-    "ref": "8.55.14",
-    "sanskrit": "teṣām āpatatāṃ tatra śaravarṣāṇi muñcatām arjuno vyadhamat sainyaṃ mahāvāto ghanān iva",
-    "english": "As they bore down on him, loosing showers of arrows, Arjuna scattered their host as a great wind scatters the clouds."
-  },
-  {
-    "ref": "8.55.15",
-    "sanskrit": "te 'rjunaṃ sahitā bhūtvā rathavaṃśaiḥ prahāriṇaḥ abhiyāya maheṣvāsā vivyadhur niśitaiḥ śaraiḥ",
-    "english": "Those mighty bowmen, banding together with their lines of chariots, charged Arjuna and pierced him with whetted shafts."
-  },
-  {
-    "ref": "8.55.16",
-    "sanskrit": "tato 'rjunaḥ sahasrāṇi rathavāraṇavājinām preṣayām āsa viśikhair yamasya sadanaṃ prati",
-    "english": "Then with his arrows Arjuna dispatched thousands of chariots, elephants, and horses to the abode of Yama."
-  },
-  {
-    "ref": "8.55.17",
-    "sanskrit": "te vadhyamānāḥ samare pārthacāpacyutaiḥ śaraiḥ tatra tatra sma līyante bhaye jāte mahārathāḥ",
-    "english": "Slaughtered in the fray by the shafts loosed from Pārtha's bow, those great car-warriors, as terror seized them, slunk away in this direction and that."
-  },
-  {
-    "ref": "8.55.18",
-    "sanskrit": "teṣāṃ catuḥśatān vīrān yatamānān mahārathān arjuno niśitair bāṇair anayad yamasādanam",
-    "english": "Four hundred of their heroes, great car-warriors striving hard, Arjuna sent with his whetted arrows to the dwelling of Yama."
-  },
-  {
-    "ref": "8.55.19",
-    "sanskrit": "te vadhyamānāḥ samare nānāliṅgaiḥ śitaiḥ śaraiḥ arjunaṃ samabhityajya dudruvur vai diśo bhayāt",
-    "english": "Cut down in battle by his whetted arrows of many forms, they abandoned Arjuna and fled in terror to every quarter."
-  },
-  {
-    "ref": "8.55.20",
-    "sanskrit": "teṣāṃ śabdo mahān āsīd dravatāṃ vāhinīmukhe mahaughasyeva bhadraṃ te girim āsādya dīryataḥ",
-    "english": "Loud was the din of those fleeing at the army's front, like that of a great flood—good fortune be yours—bursting apart as it strikes a mountain."
-  },
-  {
-    "ref": "8.55.21",
-    "sanskrit": "tāṃ tu senāṃ bhṛśaṃ viddhvā drāvayitvārjunaḥ śaraiḥ prāyād abhimukhaḥ pārthaḥ sūtānīkāni māriṣa",
-    "english": "Having sorely pierced that army and routed it with his arrows, Pārtha, O excellent one, advanced straight against the divisions of the Sūta's son."
-  },
-  {
-    "ref": "8.55.22",
-    "sanskrit": "tasya śabdo mahān āsīt parān abhimukhasya vai garuḍasyeva patataḥ pannagārthe yathā purā",
-    "english": "Great was the sound of him as he bore down upon the foe, like that of Garuḍa swooping of old for the sake of the serpents."
-  },
-  {
-    "ref": "8.55.23",
-    "sanskrit": "taṃ tu śabdam abhiśrutya bhīmaseno mahābalaḥ babhūva paramaprītaḥ pārthadarśanalālasaḥ",
-    "english": "Hearing that sound, the mighty Bhīmasena was filled with the highest joy, longing to behold Pārtha."
-  },
-  {
-    "ref": "8.55.24",
-    "sanskrit": "śrutvaiva pārtham āyāntaṃ bhīmasenaḥ pratāpavān tyaktvā prāṇān mahārāja senāṃ tava mamarda ha",
-    "english": "The valiant Bhīmasena, the moment he heard that Pārtha was coming, set his life at naught, O great king, and crushed your host."
-  },
-  {
-    "ref": "8.55.25",
-    "sanskrit": "sa vāyuvegapratimo vāyuvegasamo jave vāyuvad vyacarad bhīmo vāyuputraḥ pratāpavān",
-    "english": "Matching the wind in fury, equal to the wind's rush in speed, the valiant Bhīma, son of the Wind, ranged the field like the wind itself."
-  },
-  {
-    "ref": "8.55.26",
-    "sanskrit": "tenārdyamānā rājendra senā tava viśāṃ pate vyabhrāmyata mahārāja bhinnā naur iva sāgare",
-    "english": "Tormented by him, O lord of kings, O lord of peoples, your army reeled, O great king, like a foundering ship upon the sea."
-  },
-  {
-    "ref": "8.55.27",
-    "sanskrit": "tāṃ tu senāṃ tadā bhīmo darśayan pāṇilāghavam śarair avacakartograiḥ preṣayiṣyan yamakṣayam",
-    "english": "Displaying the deftness of his hand, Bhīma then hewed at that army with cruel shafts, minded to send it to the realm of Yama."
-  },
-  {
-    "ref": "8.55.28",
-    "sanskrit": "tatra bhārata bhīmasya balaṃ dṛṣṭvātimānuṣam vyatrasyanta raṇe yodhāḥ kālasyeva yugakṣaye",
-    "english": "Beholding there Bhīma's more-than-human might, O Bhārata, the warriors trembled in battle as before Time at the ending of an age."
-  },
-  {
-    "ref": "8.55.29",
-    "sanskrit": "tathārditān bhīmabalān bhīmasenena bhārata dṛṣṭvā duryodhano rājā idaṃ vacanam abravīt",
-    "english": "Seeing his fearsome forces thus tormented by Bhīmasena, O Bhārata, King Duryodhana spoke these words."
-  },
-  {
-    "ref": "8.55.30",
-    "sanskrit": "sainikān sa maheṣvāso yodhāṃś ca bharatarṣabha samādiśad raṇe sarvān hata bhīmam iti sma ha tasmin hate hataṃ manye sarvasainyam aśeṣataḥ",
-    "english": "That mighty bowman, O bull of the Bharatas, commanded all his soldiers and warriors in the battle: \"Slay Bhīma! Once he is slain, I deem the whole army slain to the last man.\""
-  },
-  {
-    "ref": "8.55.31",
-    "sanskrit": "pratigṛhya ca tām ājñāṃ tava putrasya pārthivāḥ bhīmaṃ pracchādayām āsuḥ śaravarṣaiḥ samantataḥ",
-    "english": "Accepting that command of your son, the kings veiled Bhīma on every side with showers of arrows."
-  },
-  {
-    "ref": "8.55.32",
-    "sanskrit": "gajāś ca bahulā rājan narāś ca jayagṛddhinaḥ rathā hayāś ca rājendra parivavrur vṛkodaram",
-    "english": "Elephants in multitudes, O king, and men greedy for victory, chariots and horses, O lord of kings, encircled Vṛkodara."
-  },
-  {
-    "ref": "8.55.33",
-    "sanskrit": "sa taiḥ parivṛtaḥ śūraiḥ śūro rājan samantataḥ śuśubhe bharataśreṣṭha nakṣatrair iva candramāḥ",
-    "english": "Hemmed in on all sides by those heroes, the hero, O king, O best of the Bharatas, shone like the moon amid the stars."
-  },
-  {
-    "ref": "8.55.34",
-    "sanskrit": "sa rarāja tathā saṃkhye darśanīyo narottamaḥ nirviśeṣaṃ mahārāja yathā hi vijayas tathā",
-    "english": "That comely best of men so blazed in the battle, O great king, no whit different from Vijaya himself."
-  },
-  {
-    "ref": "8.55.35",
-    "sanskrit": "tatra te pārthivāḥ sarve śaravṛṣṭīḥ samāsṛjan krodharaktekṣaṇāḥ krūrā hantukāmā vṛkodaram",
-    "english": "There all those kings, their eyes red with rage, cruel and bent on killing Vṛkodara, let loose their showers of arrows."
-  },
-  {
-    "ref": "8.55.36",
-    "sanskrit": "sa vidārya mahāsenāṃ śaraiḥ saṃnataparvabhiḥ niścakrāma raṇād bhīmo matsyo jālād ivāmbhasi",
-    "english": "Cleaving that great host with his smooth-jointed shafts, Bhīma broke free of the fray as a fish breaks from the net in the water."
-  },
-  {
-    "ref": "8.55.37",
-    "sanskrit": "hatvā daśa sahasrāṇi gajānām anivartinām nṛṇāṃ śatasahasre dve dve śate caiva bhārata",
-    "english": "Having slain ten thousand elephants that never turn back, and two hundred thousand men and two hundred more, O Bhārata,"
-  },
-  {
-    "ref": "8.55.38",
-    "sanskrit": "pañca cāśvasahasrāṇi rathānāṃ śatam eva ca hatvā prāsyandayad bhīmo nadīṃ śoṇitakardamām",
-    "english": "and having slain five thousand horses and a full hundred chariots, Bhīma set flowing a river of mire and blood."
-  },
-  {
-    "ref": "8.55.39",
-    "sanskrit": "śoṇitodāṃ rathāvartāṃ hastigrāhasamākulām naramīnām aśvanakrāṃ keśaśaivalaśādvalām",
-    "english": "Its waters were blood, its eddies chariots, thronged with elephants for crocodiles; men were its fish, horses its alligators, and hair its moss and grasses."
-  },
-  {
-    "ref": "8.55.40",
-    "sanskrit": "saṃchinnabhujanāgendrāṃ bahuratnāpahāriṇīm ūrugrāhāṃ majjapaṅkāṃ śīrṣopalasamākulām",
-    "english": "Severed arms were its serpents, great elephants its waves; it bore off jewels in plenty, thighs were its seizing crocodiles, marrow its mud, and it teemed with heads for stones."
-  },
-  {
-    "ref": "8.55.41",
-    "sanskrit": "dhanuṣkāśāṃ śarāvāpāṃ gadāparighaketanām yodhavrātavatīṃ saṃkhye vahantīṃ yamasādanam",
-    "english": "Bows were its reeds, arrows its strewn rushes, maces and iron bars its banners; bearing throngs of warriors in the battle, it flowed toward the abode of Yama."
-  },
-  {
-    "ref": "8.55.42",
-    "sanskrit": "kṣaṇena puruṣavyāghraḥ prāvartayata nimnagām yathā vaitaraṇīm ugrāṃ dustarām akṛtātmabhiḥ",
-    "english": "In a moment that tiger among men set that river flowing, like the dread Vaitaraṇī, impassable to the unrighteous of soul."
-  },
-  {
-    "ref": "8.55.43",
-    "sanskrit": "yato yataḥ pāṇḍaveyaḥ pravṛtto rathasattamaḥ tatas tato 'pātayata yodhāñ śatasahasraśaḥ",
-    "english": "Wherever that best of car-warriors, the son of Pāṇḍu, turned his course, there he struck down warriors by the hundreds of thousands."
-  },
-  {
-    "ref": "8.55.44",
-    "sanskrit": "evaṃ dṛṣṭvā kṛtaṃ karma bhīmasenena saṃyuge duryodhano mahārāja śakuniṃ vākyam abravīt",
-    "english": "Seeing this deed wrought by Bhīmasena in the battle, Duryodhana, O great king, spoke thus to Śakuni."
-  },
-  {
-    "ref": "8.55.45",
-    "sanskrit": "jaya mātula saṃgrāme bhīmasenaṃ mahābalam asmiñ jite jitaṃ manye pāṇḍaveyaṃ mahābalam",
-    "english": "\"Conquer the mighty Bhīmasena in battle, O uncle. Once he is conquered, I deem the mighty sons of Pāṇḍu conquered.\""
-  },
-  {
-    "ref": "8.55.46",
-    "sanskrit": "tataḥ prāyān mahārāja saubaleyaḥ pratāpavān raṇāya mahate yukto bhrātṛbhiḥ parivāritaḥ",
-    "english": "Then, O great king, the valiant son of Subala set forth for the great combat, made ready and surrounded by his brothers."
-  },
-  {
-    "ref": "8.55.47",
-    "sanskrit": "sa samāsādya saṃgrāme bhīmaṃ bhīmaparākramam vārayām āsa taṃ vīro veleva makarālayam sa nyavartata taṃ bhīmo vāryamāṇaḥ śitaiḥ śaraiḥ",
-    "english": "Coming upon Bhīma of fearsome valor in the battle, that hero held him back as the shore holds back the abode of sea-monsters; yet Bhīma, though checked, turned upon him with his whetted shafts."
-  },
-  {
-    "ref": "8.55.48",
-    "sanskrit": "śakunis tasya rājendra vāme pārśve stanāntare preṣayām āsa nārācān rukmapuṅkhāñ śilāśitān",
-    "english": "Śakuni, O lord of kings, sped into his left side, between the breasts, iron shafts gold-feathered and whetted on stone."
-  },
-  {
-    "ref": "8.55.49",
-    "sanskrit": "varma bhittvā tu sauvarṇaṃ bāṇās tasya mahātmanaḥ nyamajjanta mahārāja kaṅkabarhiṇavāsasaḥ",
-    "english": "Piercing the golden mail of that great soul, the arrows, fledged with heron and peacock feathers, sank deep, O great king."
-  },
-  {
-    "ref": "8.55.50",
-    "sanskrit": "so 'tividdho raṇe bhīmaḥ śaraṃ hemavibhūṣitam preṣayām āsa sahasā saubalaṃ prati bhārata",
-    "english": "Sorely pierced in the fray, Bhīma at once sped a gold-adorned shaft against the son of Subala, O Bhārata."
-  },
-  {
-    "ref": "8.55.51",
-    "sanskrit": "tam āyāntaṃ śaraṃ ghoraṃ śakuniḥ śatrutāpanaḥ ciccheda śatadhā rājan kṛtahasto mahābalaḥ",
-    "english": "That terrible oncoming shaft Śakuni, scorcher of foes, cut into a hundred pieces, O king—mighty and deft of hand."
-  },
-  {
-    "ref": "8.55.52",
-    "sanskrit": "tasmin nipatite bhūmau bhīmaḥ kruddho viśāṃ pate dhanuś ciccheda bhallena saubalasya hasann iva",
-    "english": "When it had fallen to the earth, Bhīma in wrath, O lord of peoples, severed with a broad-headed arrow the bow of Subala's son, as though laughing."
-  },
-  {
-    "ref": "8.55.53",
-    "sanskrit": "tad apāsya dhanuś chinnaṃ saubaleyaḥ pratāpavān anyad ādatta vegena dhanur bhallāṃś ca ṣoḍaśa",
-    "english": "Casting aside the sundered bow, the valiant son of Subala swiftly took up another bow and sixteen broad-headed shafts."
-  },
-  {
-    "ref": "8.55.54",
-    "sanskrit": "tais tasya tu mahārāja bhallaiḥ saṃnataparvabhiḥ caturbhiḥ sārathiṃ hy ārcchad bhīmaṃ pañcabhir eva ca",
-    "english": "With those smooth-jointed broad-headed shafts, O great king, he struck the charioteer with four and Bhīma with five."
-  },
-  {
-    "ref": "8.55.55",
-    "sanskrit": "dhvajam ekena ciccheda chatraṃ dvābhyāṃ viśāṃ pate caturbhiś caturo vāhān vivyādha subalātmajaḥ",
-    "english": "With one he cut the banner, with two the parasol, O lord of peoples, and with four the son of Subala pierced the four horses."
-  },
-  {
-    "ref": "8.55.56",
-    "sanskrit": "tataḥ kruddho mahārāja bhīmasenaḥ pratāpavān śaktiṃ cikṣepa samare rukmadaṇḍām ayasmayīm",
-    "english": "Then in wrath, O great king, the valiant Bhīmasena hurled in the battle an iron spear with a haft of gold."
-  },
-  {
-    "ref": "8.55.57",
-    "sanskrit": "sā bhīmabhujanirmuktā nāgajihveva cañcalā nipapāta rathe tūrṇaṃ saubalasya mahātmanaḥ",
-    "english": "Loosed from Bhīma's arm, flickering like a serpent's tongue, it fell swiftly upon the chariot of the great-souled son of Subala."
-  },
-  {
-    "ref": "8.55.58",
-    "sanskrit": "tatas tām eva saṃgṛhya śaktiṃ kanakabhūṣaṇām bhīmasenāya cikṣepa kruddharūpo viśāṃ pate",
-    "english": "Then, seizing that very gold-decked spear, he, fierce of aspect, hurled it back at Bhīmasena, O lord of peoples."
-  },
-  {
-    "ref": "8.55.59",
-    "sanskrit": "sā nirbhidya bhujaṃ savyaṃ pāṇḍavasya mahātmanaḥ papāta ca tato bhūmau yathā vidyun nabhaścyutā",
-    "english": "Piercing the left arm of the great-souled Pāṇḍava, it then fell to the earth like a flash of lightning loosed from the sky."
-  },
-  {
-    "ref": "8.55.60",
-    "sanskrit": "athotkruṣṭaṃ mahārāja dhārtarāṣṭraiḥ samantataḥ na tu taṃ mamṛṣe bhīmaḥ siṃhanādaṃ tarasvinām",
-    "english": "Then a great shout went up, O great king, from Dhṛtarāṣṭra's men on every side; but Bhīma could not brook that lion's roar of the swift ones."
-  },
-  {
-    "ref": "8.55.61",
-    "sanskrit": "sa saṃgṛhya dhanuḥ sajyaṃ tvaramāṇo mahārathaḥ muhūrtād iva rājendra chādayām āsa sāyakaiḥ saubalasya balaṃ saṃkhye tyaktvātmānaṃ mahābalaḥ",
-    "english": "Grasping his strung bow in haste, that great car-warrior, O lord of kings, in but a moment veiled with his shafts the host of Subala's son in battle, the mighty one heedless of his own life."
-  },
-  {
-    "ref": "8.55.62",
-    "sanskrit": "tasyāśvāṃś caturo hatvā sūtaṃ caiva viśāṃ pate dhvajaṃ ciccheda bhallena tvaramāṇaḥ parākramī",
-    "english": "Having slain his four horses and his charioteer, O lord of peoples, the valorous one in haste cut down his banner with a broad-headed shaft."
-  },
-  {
-    "ref": "8.55.63",
-    "sanskrit": "hatāśvaṃ ratham utsṛjya tvaramāṇo narottamaḥ tasthau visphārayaṃś cāpaṃ krodharaktekṣaṇaḥ śvasan śaraiś ca bahudhā rājan bhīmam ārcchat samantataḥ",
-    "english": "Abandoning in haste his car with its slain horses, that best of men stood twanging his bow, his eyes red with rage and panting; and with many arrows, O king, he assailed Bhīma on every side."
-  },
-  {
-    "ref": "8.55.64",
-    "sanskrit": "pratihatya tu vegena bhīmasenaḥ pratāpavān dhanuś ciccheda saṃkruddho vivyādha ca śitaiḥ śaraiḥ",
-    "english": "But the valiant Bhīmasena swiftly warded him off, and in fury severed his bow and pierced him with whetted shafts."
-  },
-  {
-    "ref": "8.55.65",
-    "sanskrit": "so 'tividdho balavatā śatruṇā śatrukarśanaḥ nipapāta tato bhūmau kiṃ cit prāṇo narādhipa",
-    "english": "Sorely pierced by his mighty foe, that harrier of foes fell then to the earth, barely alive, O ruler of men."
-  },
-  {
-    "ref": "8.55.66",
-    "sanskrit": "tatas taṃ vihvalaṃ jñātvā putras tava viśāṃ pate apovāha rathenājau bhīmasenasya paśyataḥ",
-    "english": "Then, knowing him stricken, your son, O lord of peoples, bore him away from the battle on his chariot before Bhīmasena's very eyes."
-  },
-  {
-    "ref": "8.55.67",
-    "sanskrit": "rathasthe tu naravyāghre dhārtarāṣṭrāḥ parāṅmukhāḥ pradudruvur diśo bhītā bhīmāj jāte mahābhaye",
-    "english": "When that tiger among men was on the chariot, the men of Dhṛtarāṣṭra turned their backs and fled in fear to every quarter, as great dread of Bhīma arose."
-  },
-  {
-    "ref": "8.55.68",
-    "sanskrit": "saubale nirjite rājan bhīmasenena dhanvinā bhayena mahatā bhagnaḥ putro duryodhanas tava apāyāj javanair aśvaiḥ sāpekṣo mātulaṃ prati",
-    "english": "When the son of Subala had been vanquished, O king, by the bowman Bhīmasena, your son Duryodhana, broken by great fear, withdrew on his swift horses, anxious for his uncle."
-  },
-  {
-    "ref": "8.55.69",
-    "sanskrit": "parāṅmukhaṃ tu rājānaṃ dṛṣṭvā sainyāni bhārata viprajagmuḥ samutsṛjya dvairathāni samantataḥ",
-    "english": "Seeing the king turn his back, O Bhārata, the troops broke and scattered, abandoning their single combats on every side."
-  },
-  {
-    "ref": "8.55.70",
-    "sanskrit": "tān dṛṣṭvātirathān sarvān dhārtarāṣṭrān parāṅmukhān javenābhyapatad bhīmaḥ kirañ śaraśatān bahūn",
-    "english": "Seeing all those great car-warriors of Dhṛtarāṣṭra turn away, Bhīma swiftly fell upon them, scattering many hundreds of shafts."
-  },
-  {
-    "ref": "8.55.71",
-    "sanskrit": "te vadhyamānā bhīmena dhārtarāṣṭrāḥ parāṅmukhāḥ karṇam āsādya samare sthitā rājan samantataḥ sa hi teṣāṃ mahāvīryo dvīpo 'bhūt sumahābalaḥ",
-    "english": "Slaughtered by Bhīma, the men of Dhṛtarāṣṭra, turned in flight, reached Karṇa and made their stand around him on every side, O king; for that one of great prowess and mighty strength had become their island of refuge."
-  },
-  {
-    "ref": "8.55.72",
-    "sanskrit": "bhinnanaukā yathā rājan dvīpam āsādya nirvṛtāḥ bhavanti puruṣavyāghra nāvikāḥ kālaparyaye",
-    "english": "As shipwrecked sailors, O king, O tiger among men, find peace upon reaching an island when their hour of doom is past,"
-  },
-  {
-    "ref": "8.55.73",
-    "sanskrit": "tathā karṇaṃ samāsādya tāvakā bharatarṣabha samāśvastāḥ sthitā rājan saṃprahṛṣṭāḥ parasparam samājagmuś ca yuddhāya mṛtyuṃ kṛtvā nivartanam",
-    "english": "even so, having reached Karṇa, your men, O bull of the Bharatas, took heart and stood firm, O king, rejoicing one with another, and came together again for battle, making their stand against death."
-  },
-  {
-    "ref": "8.56.1",
-    "sanskrit": "dhṛtarāṣṭra uvāca tato bhagneṣu sainyeṣu bhīmasenena saṃyuge duryodhano 'bravīt kiṃ nu saubalo vāpi saṃjaya",
-    "english": "Dhṛtarāṣṭra said: When the armies had been broken by Bhīmasena in the battle, what did Duryodhana say, and what the son of Subala, O Saṃjaya?"
-  },
-  {
-    "ref": "8.56.2",
-    "sanskrit": "karṇo vā jayatāṃ śreṣṭho yodhā vā māmakā yudhi kṛpo vā kṛtavarmā ca drauṇir duḥśāsano 'pi vā",
-    "english": "Or Karṇa, best of the victorious, or my warriors in the fight, or Kṛpa and Kṛtavarman, or the son of Droṇa, or even Duḥśāsana?"
-  },
-  {
-    "ref": "8.56.3",
-    "sanskrit": "atyadbhutam idaṃ manye pāṇḍaveyasya vikramam yathāpratijñaṃ yodhānāṃ rādheyaḥ kṛtavān api",
-    "english": "Most wondrous, I deem, was this prowess of the son of Pāṇḍu; yet Rādheya too made good his vow concerning the warriors."
-  },
-  {
-    "ref": "8.56.4",
-    "sanskrit": "kurūṇām api sarveṣāṃ karṇaḥ śatruniṣūdanaḥ śarma varma pratiṣṭhā ca jīvitāśā ca saṃjaya",
-    "english": "For all the Kurus, Karṇa the slayer of foes was their shelter, their armor, their mainstay, and their hope of life, O Saṃjaya."
-  },
-  {
-    "ref": "8.56.5",
-    "sanskrit": "tat prabhagnaṃ balaṃ dṛṣṭvā kaunteyenāmitaujasā rādheyānām adhirathaḥ karṇaḥ kim akarod yudhi",
-    "english": "Seeing that host shattered by the son of Kuntī of measureless might, what did Karṇa the great car-warrior, son of Rādhā, do in the fight?"
-  },
-  {
-    "ref": "8.56.6",
-    "sanskrit": "putrā vā mama durdharṣā rājāno vā mahārathāḥ etan me sarvam ācakṣva kuśalo hy asi saṃjaya",
-    "english": "And my unassailable sons, and the kings, those great car-warriors—tell me all of this, for you are skilled, O Saṃjaya."
-  },
-  {
-    "ref": "8.56.7",
-    "sanskrit": "saṃjaya uvāca aparāhṇe mahārāja sūtaputraḥ pratāpavān jaghāna somakān sarvān bhīmasenasya paśyataḥ bhīmo 'py atibalaḥ sainyaṃ dhārtarāṣṭraṃ vyapothayat",
-    "english": "Saṃjaya said: In the afternoon, O great king, the valiant son of the Sūta slew all the Somakas before Bhīmasena's very eyes; and Bhīma too, of surpassing strength, crushed the host of Dhṛtarāṣṭra."
-  },
-  {
-    "ref": "8.56.8",
-    "sanskrit": "drāvyamāṇaṃ balaṃ dṛṣṭvā bhīmasenena dhīmatā yantāram abravīt karṇaḥ pāñcālān eva mā vaha",
-    "english": "Seeing his force routed by the wise Bhīmasena, Karṇa said to his driver: \"Bear me straight against the Pāñcālas.\""
-  },
-  {
-    "ref": "8.56.9",
-    "sanskrit": "madrarājas tataḥ śalyaḥ śvetān aśvān mahājavān prāhiṇoc cedipāñcālān karūṣāṃś ca mahābalaḥ",
-    "english": "Then Śalya, king of the Madras, the mighty one, urged on his white horses of great speed against the Cedis, the Pāñcālas, and the Karūṣas."
-  }
+{"ref": "8.55.3", "sanskrit": "āyāntam aśvair himaśaṅkhavarṇaiḥ; suvarṇamuktāmaṇijālanaddhaiḥ jambhaṃ jighāṃsuṃ pragṛhītavajraṃ; jayāya devendram ivogramanyum", "english": "He came on, drawn by horses white as snow and conch-shell, harnessed with nets of gold, pearl, and gem—like Indra, lord of the gods, in fierce wrath, gripping the thunderbolt and bent on victory over Jambha."},
+{"ref": "8.55.4", "sanskrit": "rathāśvamātaṅgapadātisaṃghā; bāṇasvanair nemikhurasvanaiś ca saṃnādayanto vasudhāṃ diśaś ca; kruddhā nṛsiṃhā jayam abhyudīyuḥ", "english": "Hosts of chariots, horses, elephants, and foot-soldiers—those lions among men, enraged—rose up against him for victory, making earth and the quarters resound with the twang of arrows and the din of wheel-rims and hooves."},
+{"ref": "8.55.5", "sanskrit": "teṣāṃ ca pārthasya mahat tadāsīd; dehāsupāpmakṣapaṇaṃ suyuddham trailokyahetor asurair yathāsīd; devasya viṣṇor jayatāṃ varasya", "english": "Then between them and Pārtha there raged a mighty, fair-fought battle—destroyer of bodies, of lives, and of sin—even as once it was for the god Viṣṇu, best of the victorious, against the Asuras for the sake of the three worlds."},
+{"ref": "8.55.6", "sanskrit": "tair astam uccāvacam āyudhaugham; ekaḥ praciccheda kirīṭamālī kṣurārdhacandrair niśitaiś ca bāṇaiḥ; śirāṃsi teṣāṃ bahudhā ca bāhūn", "english": "The diadem-crowned hero, alone, cut to pieces the flood of weapons high and low that they hurled, and with razor-edged and crescent-headed shafts, with whetted arrows, lopped off in numbers their heads and arms."},
+{"ref": "8.55.7", "sanskrit": "chatrāṇi vālavyajanāni ketūn; aśvān rathān pattigaṇān dvipāṃś ca te petur urvyāṃ bahudhā virūpā; vātaprabhagnāni yathā vanāni", "english": "Parasols, yak-tail fans, banners, horses, chariots, throngs of footmen, and elephants—mangled in countless ways, they fell to the earth like forests shattered by the wind."},
+{"ref": "8.55.8", "sanskrit": "suvarṇajālāvatatā mahāgajāḥ; savaijayantīdhvajayodhakalpitāḥ suvarṇapuṅkhair iṣubhiḥ samācitāś; cakāśire prajvalitā yathācalāḥ", "english": "Great elephants, draped in nets of gold and arrayed with triumphal flags, standards, and warriors, studded with gold-feathered arrows, blazed like mountains afire."},
+{"ref": "8.55.9", "sanskrit": "vidārya nāgāṃś ca rathāṃś ca vājinaḥ; śarottamair vāsavavajrasaṃnibhaiḥ drutaṃ yayau karṇajighāṃsayā tathā; yathā marutvān balabhedane purā", "english": "Rending elephants and chariots and horses with peerless shafts like Indra's thunderbolt, he sped swiftly on, eager to slay Karṇa, as of old the lord of the Maruts went forth to break Bala."},
+{"ref": "8.55.10", "sanskrit": "tataḥ sa puruṣavyāghraḥ sūtasainyam ariṃdama praviveśa mahābāhur makaraḥ sāgaraṃ yathā", "english": "Then that tiger among men, O tamer of foes, the mighty-armed one, plunged into the army of the Sūta's son as a sea-monster plunges into the ocean."},
+{"ref": "8.55.11", "sanskrit": "taṃ dṛṣṭvā tāvakā rājan rathapattisamanvitāḥ gajāśvasādibahulāḥ pāṇḍavaṃ samupādravan", "english": "Seeing him, O king, your men, with chariots and footmen, thronged with elephants, horses, and riders, rushed upon the Pāṇḍava."},
+{"ref": "8.55.12", "sanskrit": "tatrābhidravatāṃ pārtham ārāvaḥ sumahān abhūt sāgarasyeva mattasya yathā syāt salilasvanaḥ", "english": "As they charged upon Pārtha there arose a tremendous roar, like the surging clamor of waters in a frenzied ocean."},
+{"ref": "8.55.13", "sanskrit": "te tu taṃ puruṣavyāghraṃ vyāghrā iva mahārathāḥ abhyadravanta saṃgrāme tyaktvā prāṇakṛtaṃ bhayam", "english": "Those mighty car-warriors, like tigers, fell upon that tiger among men in battle, casting off all fear for their lives."},
+{"ref": "8.55.14", "sanskrit": "teṣām āpatatāṃ tatra śaravarṣāṇi muñcatām arjuno vyadhamat sainyaṃ mahāvāto ghanān iva", "english": "As they bore down on him, loosing showers of arrows, Arjuna scattered their host as a great wind scatters the clouds."},
+{"ref": "8.55.15", "sanskrit": "te 'rjunaṃ sahitā bhūtvā rathavaṃśaiḥ prahāriṇaḥ abhiyāya maheṣvāsā vivyadhur niśitaiḥ śaraiḥ", "english": "Those mighty bowmen, banding together with their lines of chariots, charged Arjuna and pierced him with whetted shafts."},
+{"ref": "8.55.16", "sanskrit": "tato 'rjunaḥ sahasrāṇi rathavāraṇavājinām preṣayām āsa viśikhair yamasya sadanaṃ prati", "english": "Then with his arrows Arjuna dispatched thousands of chariots, elephants, and horses to the abode of Yama."},
+{"ref": "8.55.17", "sanskrit": "te vadhyamānāḥ samare pārthacāpacyutaiḥ śaraiḥ tatra tatra sma līyante bhaye jāte mahārathāḥ", "english": "Slaughtered in the fray by the shafts loosed from Pārtha's bow, those great car-warriors, as terror seized them, slunk away in this direction and that."},
+{"ref": "8.55.18", "sanskrit": "teṣāṃ catuḥśatān vīrān yatamānān mahārathān arjuno niśitair bāṇair anayad yamasādanam", "english": "Four hundred of their heroes, great car-warriors striving hard, Arjuna sent with his whetted arrows to the dwelling of Yama."},
+{"ref": "8.55.19", "sanskrit": "te vadhyamānāḥ samare nānāliṅgaiḥ śitaiḥ śaraiḥ arjunaṃ samabhityajya dudruvur vai diśo bhayāt", "english": "Cut down in battle by his whetted arrows of many forms, they abandoned Arjuna and fled in terror to every quarter."},
+{"ref": "8.55.20", "sanskrit": "teṣāṃ śabdo mahān āsīd dravatāṃ vāhinīmukhe mahaughasyeva bhadraṃ te girim āsādya dīryataḥ", "english": "Loud was the din of those fleeing at the army's front, like that of a great flood—good fortune be yours—bursting apart as it strikes a mountain."},
+{"ref": "8.55.21", "sanskrit": "tāṃ tu senāṃ bhṛśaṃ viddhvā drāvayitvārjunaḥ śaraiḥ prāyād abhimukhaḥ pārthaḥ sūtānīkāni māriṣa", "english": "Having sorely pierced that army and routed it with his arrows, Pārtha, O excellent one, advanced straight against the divisions of the Sūta's son."},
+{"ref": "8.55.22", "sanskrit": "tasya śabdo mahān āsīt parān abhimukhasya vai garuḍasyeva patataḥ pannagārthe yathā purā", "english": "Great was the sound of him as he bore down upon the foe, like that of Garuḍa swooping of old for the sake of the serpents."},
+{"ref": "8.55.23", "sanskrit": "taṃ tu śabdam abhiśrutya bhīmaseno mahābalaḥ babhūva paramaprītaḥ pārthadarśanalālasaḥ", "english": "Hearing that sound, the mighty Bhīmasena was filled with the highest joy, longing to behold Pārtha."},
+{"ref": "8.55.24", "sanskrit": "śrutvaiva pārtham āyāntaṃ bhīmasenaḥ pratāpavān tyaktvā prāṇān mahārāja senāṃ tava mamarda ha", "english": "The valiant Bhīmasena, the moment he heard that Pārtha was coming, set his life at naught, O great king, and crushed your host."},
+{"ref": "8.55.25", "sanskrit": "sa vāyuvegapratimo vāyuvegasamo jave vāyuvad vyacarad bhīmo vāyuputraḥ pratāpavān", "english": "Matching the wind in fury, equal to the wind's rush in speed, the valiant Bhīma, son of the Wind, ranged the field like the wind itself."},
+{"ref": "8.55.26", "sanskrit": "tenārdyamānā rājendra senā tava viśāṃ pate vyabhrāmyata mahārāja bhinnā naur iva sāgare", "english": "Tormented by him, O lord of kings, O lord of peoples, your army reeled, O great king, like a foundering ship upon the sea."},
+{"ref": "8.55.27", "sanskrit": "tāṃ tu senāṃ tadā bhīmo darśayan pāṇilāghavam śarair avacakartograiḥ preṣayiṣyan yamakṣayam", "english": "Displaying the deftness of his hand, Bhīma then hewed at that army with cruel shafts, minded to send it to the realm of Yama."},
+{"ref": "8.55.28", "sanskrit": "tatra bhārata bhīmasya balaṃ dṛṣṭvātimānuṣam vyatrasyanta raṇe yodhāḥ kālasyeva yugakṣaye", "english": "Beholding there Bhīma's more-than-human might, O Bhārata, the warriors trembled in battle as before Time at the ending of an age."},
+{"ref": "8.55.29", "sanskrit": "tathārditān bhīmabalān bhīmasenena bhārata dṛṣṭvā duryodhano rājā idaṃ vacanam abravīt", "english": "Seeing his fearsome forces thus tormented by Bhīmasena, O Bhārata, King Duryodhana spoke these words."},
+{"ref": "8.55.30", "sanskrit": "sainikān sa maheṣvāso yodhāṃś ca bharatarṣabha samādiśad raṇe sarvān hata bhīmam iti sma ha tasmin hate hataṃ manye sarvasainyam aśeṣataḥ", "english": "That mighty bowman, O bull of the Bhāratas, commanded all his soldiers and warriors in the battle: \"Slay Bhīma! Once he is slain, I deem the whole army slain to the last man.\""},
+{"ref": "8.55.31", "sanskrit": "pratigṛhya ca tām ājñāṃ tava putrasya pārthivāḥ bhīmaṃ pracchādayām āsuḥ śaravarṣaiḥ samantataḥ", "english": "Accepting that command of your son, the kings veiled Bhīma on every side with showers of arrows."},
+{"ref": "8.55.32", "sanskrit": "gajāś ca bahulā rājan narāś ca jayagṛddhinaḥ rathā hayāś ca rājendra parivavrur vṛkodaram", "english": "Elephants in multitudes, O king, and men greedy for victory, chariots and horses, O lord of kings, encircled Vṛkodara."},
+{"ref": "8.55.33", "sanskrit": "sa taiḥ parivṛtaḥ śūraiḥ śūro rājan samantataḥ śuśubhe bharataśreṣṭha nakṣatrair iva candramāḥ", "english": "Hemmed in on all sides by those heroes, the hero, O king, O best of the Bhāratas, shone like the moon amid the stars."},
+{"ref": "8.55.34", "sanskrit": "sa rarāja tathā saṃkhye darśanīyo narottamaḥ nirviśeṣaṃ mahārāja yathā hi vijayas tathā", "english": "That comely best of men so blazed in the battle, O great king, no whit different from Vijaya himself."},
+{"ref": "8.55.35", "sanskrit": "tatra te pārthivāḥ sarve śaravṛṣṭīḥ samāsṛjan krodharaktekṣaṇāḥ krūrā hantukāmā vṛkodaram", "english": "There all those kings, their eyes red with rage, cruel and bent on killing Vṛkodara, let loose their showers of arrows."},
+{"ref": "8.55.36", "sanskrit": "sa vidārya mahāsenāṃ śaraiḥ saṃnataparvabhiḥ niścakrāma raṇād bhīmo matsyo jālād ivāmbhasi", "english": "Cleaving that great host with his smooth-jointed shafts, Bhīma broke free of the fray as a fish breaks from the net in the water."},
+{"ref": "8.55.37", "sanskrit": "hatvā daśa sahasrāṇi gajānām anivartinām nṛṇāṃ śatasahasre dve dve śate caiva bhārata", "english": "Having slain ten thousand elephants that never turn back, and two hundred thousand men and two hundred more, O Bhārata,"},
+{"ref": "8.55.38", "sanskrit": "pañca cāśvasahasrāṇi rathānāṃ śatam eva ca hatvā prāsyandayad bhīmo nadīṃ śoṇitakardamām", "english": "and having slain five thousand horses and a full hundred chariots, Bhīma set flowing a river of mire and blood."},
+{"ref": "8.55.39", "sanskrit": "śoṇitodāṃ rathāvartāṃ hastigrāhasamākulām naramīnām aśvanakrāṃ keśaśaivalaśādvalām", "english": "Its waters were blood, its eddies chariots, thronged with elephants for crocodiles; men were its fish, horses its alligators, and hair its moss and grasses."},
+{"ref": "8.55.40", "sanskrit": "saṃchinnabhujanāgendrāṃ bahuratnāpahāriṇīm ūrugrāhāṃ majjapaṅkāṃ śīrṣopalasamākulām", "english": "Severed arms were its serpents, great elephants its waves; it bore off jewels in plenty, thighs were its seizing crocodiles, marrow its mud, and it teemed with heads for stones."},
+{"ref": "8.55.41", "sanskrit": "dhanuṣkāśāṃ śarāvāpāṃ gadāparighaketanām yodhavrātavatīṃ saṃkhye vahantīṃ yamasādanam", "english": "Bows were its reeds, arrows its strewn rushes, maces and iron bars its banners; bearing throngs of warriors in the battle, it flowed toward the abode of Yama."},
+{"ref": "8.55.42", "sanskrit": "kṣaṇena puruṣavyāghraḥ prāvartayata nimnagām yathā vaitaraṇīm ugrāṃ dustarām akṛtātmabhiḥ", "english": "In a moment that tiger among men set that river flowing, like the dread Vaitaraṇī, impassable to the unrighteous of soul."},
+{"ref": "8.55.43", "sanskrit": "yato yataḥ pāṇḍaveyaḥ pravṛtto rathasattamaḥ tatas tato 'pātayata yodhāñ śatasahasraśaḥ", "english": "Wherever that best of car-warriors, the son of Pāṇḍu, turned his course, there he struck down warriors by the hundreds of thousands."},
+{"ref": "8.55.44", "sanskrit": "evaṃ dṛṣṭvā kṛtaṃ karma bhīmasenena saṃyuge duryodhano mahārāja śakuniṃ vākyam abravīt", "english": "Seeing this deed wrought by Bhīmasena in the battle, Duryodhana, O great king, spoke thus to Śakuni."},
+{"ref": "8.55.45", "sanskrit": "jaya mātula saṃgrāme bhīmasenaṃ mahābalam asmiñ jite jitaṃ manye pāṇḍaveyaṃ mahābalam", "english": "\"Conquer the mighty Bhīmasena in battle, O uncle. Once he is conquered, I deem the mighty sons of Pāṇḍu conquered.\""},
+{"ref": "8.55.46", "sanskrit": "tataḥ prāyān mahārāja saubaleyaḥ pratāpavān raṇāya mahate yukto bhrātṛbhiḥ parivāritaḥ", "english": "Then, O great king, the valiant son of Subala set forth for the great combat, made ready and surrounded by his brothers."},
+{"ref": "8.55.47", "sanskrit": "sa samāsādya saṃgrāme bhīmaṃ bhīmaparākramam vārayām āsa taṃ vīro veleva makarālayam sa nyavartata taṃ bhīmo vāryamāṇaḥ śitaiḥ śaraiḥ", "english": "Coming upon Bhīma of fearsome valor in the battle, that hero held him back as the shore holds back the abode of sea-monsters; yet Bhīma, though checked, turned upon him with his whetted shafts."},
+{"ref": "8.55.48", "sanskrit": "śakunis tasya rājendra vāme pārśve stanāntare preṣayām āsa nārācān rukmapuṅkhāñ śilāśitān", "english": "Śakuni, O lord of kings, sped into his left side, between the breasts, iron shafts gold-feathered and whetted on stone."},
+{"ref": "8.55.49", "sanskrit": "varma bhittvā tu sauvarṇaṃ bāṇās tasya mahātmanaḥ nyamajjanta mahārāja kaṅkabarhiṇavāsasaḥ", "english": "Piercing the golden mail of that great soul, the arrows, fledged with heron and peacock feathers, sank deep, O great king."},
+{"ref": "8.55.50", "sanskrit": "so 'tividdho raṇe bhīmaḥ śaraṃ hemavibhūṣitam preṣayām āsa sahasā saubalaṃ prati bhārata", "english": "Sorely pierced in the fray, Bhīma at once sped a gold-adorned shaft against the son of Subala, O Bhārata."},
+{"ref": "8.55.51", "sanskrit": "tam āyāntaṃ śaraṃ ghoraṃ śakuniḥ śatrutāpanaḥ ciccheda śatadhā rājan kṛtahasto mahābalaḥ", "english": "That terrible oncoming shaft Śakuni, scorcher of foes, cut into a hundred pieces, O king—mighty and deft of hand."},
+{"ref": "8.55.52", "sanskrit": "tasmin nipatite bhūmau bhīmaḥ kruddho viśāṃ pate dhanuś ciccheda bhallena saubalasya hasann iva", "english": "When it had fallen to the earth, Bhīma in wrath, O lord of peoples, severed with a broad-headed arrow the bow of Subala's son, as though laughing."},
+{"ref": "8.55.53", "sanskrit": "tad apāsya dhanuś chinnaṃ saubaleyaḥ pratāpavān anyad ādatta vegena dhanur bhallāṃś ca ṣoḍaśa", "english": "Casting aside the sundered bow, the valiant son of Subala swiftly took up another bow and sixteen broad-headed shafts."},
+{"ref": "8.55.54", "sanskrit": "tais tasya tu mahārāja bhallaiḥ saṃnataparvabhiḥ caturbhiḥ sārathiṃ hy ārcchad bhīmaṃ pañcabhir eva ca", "english": "With those smooth-jointed broad-headed shafts, O great king, he struck the charioteer with four and Bhīma with five."},
+{"ref": "8.55.55", "sanskrit": "dhvajam ekena ciccheda chatraṃ dvābhyāṃ viśāṃ pate caturbhiś caturo vāhān vivyādha subalātmajaḥ", "english": "With one he cut the banner, with two the parasol, O lord of peoples, and with four the son of Subala pierced the four horses."},
+{"ref": "8.55.56", "sanskrit": "tataḥ kruddho mahārāja bhīmasenaḥ pratāpavān śaktiṃ cikṣepa samare rukmadaṇḍām ayasmayīm", "english": "Then in wrath, O great king, the valiant Bhīmasena hurled in the battle an iron spear with a haft of gold."},
+{"ref": "8.55.57", "sanskrit": "sā bhīmabhujanirmuktā nāgajihveva cañcalā nipapāta rathe tūrṇaṃ saubalasya mahātmanaḥ", "english": "Loosed from Bhīma's arm, flickering like a serpent's tongue, it fell swiftly upon the chariot of the great-souled son of Subala."},
+{"ref": "8.55.58", "sanskrit": "tatas tām eva saṃgṛhya śaktiṃ kanakabhūṣaṇām bhīmasenāya cikṣepa kruddharūpo viśāṃ pate", "english": "Then, seizing that very gold-decked spear, he, fierce of aspect, hurled it back at Bhīmasena, O lord of peoples."},
+{"ref": "8.55.59", "sanskrit": "sā nirbhidya bhujaṃ savyaṃ pāṇḍavasya mahātmanaḥ papāta ca tato bhūmau yathā vidyun nabhaścyutā", "english": "Piercing the left arm of the great-souled Pāṇḍava, it then fell to the earth like a flash of lightning loosed from the sky."},
+{"ref": "8.55.60", "sanskrit": "athotkruṣṭaṃ mahārāja dhārtarāṣṭraiḥ samantataḥ na tu taṃ mamṛṣe bhīmaḥ siṃhanādaṃ tarasvinām", "english": "Then a great shout went up, O great king, from Dhṛtarāṣṭra's men on every side; but Bhīma could not brook that lion's roar of the swift ones."},
+{"ref": "8.55.61", "sanskrit": "sa saṃgṛhya dhanuḥ sajyaṃ tvaramāṇo mahārathaḥ muhūrtād iva rājendra chādayām āsa sāyakaiḥ saubalasya balaṃ saṃkhye tyaktvātmānaṃ mahābalaḥ", "english": "Grasping his strung bow in haste, that great car-warrior, O lord of kings, in but a moment veiled with his shafts the host of Subala's son in battle, the mighty one heedless of his own life."},
+{"ref": "8.55.62", "sanskrit": "tasyāśvāṃś caturo hatvā sūtaṃ caiva viśāṃ pate dhvajaṃ ciccheda bhallena tvaramāṇaḥ parākramī", "english": "Having slain his four horses and his charioteer, O lord of peoples, the valorous one in haste cut down his banner with a broad-headed shaft."},
+{"ref": "8.55.63", "sanskrit": "hatāśvaṃ ratham utsṛjya tvaramāṇo narottamaḥ tasthau visphārayaṃś cāpaṃ krodharaktekṣaṇaḥ śvasan śaraiś ca bahudhā rājan bhīmam ārcchat samantataḥ", "english": "Abandoning in haste his car with its slain horses, that best of men stood twanging his bow, his eyes red with rage and panting; and with many arrows, O king, he assailed Bhīma on every side."},
+{"ref": "8.55.64", "sanskrit": "pratihatya tu vegena bhīmasenaḥ pratāpavān dhanuś ciccheda saṃkruddho vivyādha ca śitaiḥ śaraiḥ", "english": "But the valiant Bhīmasena swiftly warded him off, and in fury severed his bow and pierced him with whetted shafts."},
+{"ref": "8.55.65", "sanskrit": "so 'tividdho balavatā śatruṇā śatrukarśanaḥ nipapāta tato bhūmau kiṃ cit prāṇo narādhipa", "english": "Sorely pierced by his mighty foe, that harrier of foes fell then to the earth, barely alive, O ruler of men."},
+{"ref": "8.55.66", "sanskrit": "tatas taṃ vihvalaṃ jñātvā putras tava viśāṃ pate apovāha rathenājau bhīmasenasya paśyataḥ", "english": "Then, knowing him stricken, your son, O lord of peoples, bore him away from the battle on his chariot before Bhīmasena's very eyes."},
+{"ref": "8.55.67", "sanskrit": "rathasthe tu naravyāghre dhārtarāṣṭrāḥ parāṅmukhāḥ pradudruvur diśo bhītā bhīmāj jāte mahābhaye", "english": "When that tiger among men was on the chariot, the men of Dhṛtarāṣṭra turned their backs and fled in fear to every quarter, as great dread of Bhīma arose."},
+{"ref": "8.55.68", "sanskrit": "saubale nirjite rājan bhīmasenena dhanvinā bhayena mahatā bhagnaḥ putro duryodhanas tava apāyāj javanair aśvaiḥ sāpekṣo mātulaṃ prati", "english": "When the son of Subala had been vanquished, O king, by the bowman Bhīmasena, your son Duryodhana, broken by great fear, withdrew on his swift horses, anxious for his uncle."},
+{"ref": "8.55.69", "sanskrit": "parāṅmukhaṃ tu rājānaṃ dṛṣṭvā sainyāni bhārata viprajagmuḥ samutsṛjya dvairathāni samantataḥ", "english": "Seeing the king turn his back, O Bhārata, the troops broke and scattered, abandoning their single combats on every side."},
+{"ref": "8.55.70", "sanskrit": "tān dṛṣṭvātirathān sarvān dhārtarāṣṭrān parāṅmukhān javenābhyapatad bhīmaḥ kirañ śaraśatān bahūn", "english": "Seeing all those great car-warriors of Dhṛtarāṣṭra turn away, Bhīma swiftly fell upon them, scattering many hundreds of shafts."},
+{"ref": "8.55.71", "sanskrit": "te vadhyamānā bhīmena dhārtarāṣṭrāḥ parāṅmukhāḥ karṇam āsādya samare sthitā rājan samantataḥ sa hi teṣāṃ mahāvīryo dvīpo 'bhūt sumahābalaḥ", "english": "Slaughtered by Bhīma, the men of Dhṛtarāṣṭra, turned in flight, reached Karṇa and made their stand around him on every side, O king; for that one of great prowess and mighty strength had become their island of refuge."},
+{"ref": "8.55.72", "sanskrit": "bhinnanaukā yathā rājan dvīpam āsādya nirvṛtāḥ bhavanti puruṣavyāghra nāvikāḥ kālaparyaye", "english": "As shipwrecked sailors, O king, O tiger among men, find peace upon reaching an island when their hour of doom is past,"},
+{"ref": "8.55.73", "sanskrit": "tathā karṇaṃ samāsādya tāvakā bharatarṣabha samāśvastāḥ sthitā rājan saṃprahṛṣṭāḥ parasparam samājagmuś ca yuddhāya mṛtyuṃ kṛtvā nivartanam", "english": "even so, having reached Karṇa, your men, O bull of the Bhāratas, took heart and stood firm, O king, rejoicing one with another, and came together again for battle, making their stand against death."},
+{"ref": "8.56.1", "sanskrit": "dhṛtarāṣṭra uvāca tato bhagneṣu sainyeṣu bhīmasenena saṃyuge duryodhano 'bravīt kiṃ nu saubalo vāpi saṃjaya", "english": "Dhṛtarāṣṭra said: When the armies had been broken by Bhīmasena in the battle, what did Duryodhana say, and what the son of Subala, O Saṃjaya?"},
+{"ref": "8.56.2", "sanskrit": "karṇo vā jayatāṃ śreṣṭho yodhā vā māmakā yudhi kṛpo vā kṛtavarmā ca drauṇir duḥśāsano 'pi vā", "english": "Or Karṇa, best of the victorious, or my warriors in the fight, or Kṛpa and Kṛtavarman, or the son of Droṇa, or even Duḥśāsana?"},
+{"ref": "8.56.3", "sanskrit": "atyadbhutam idaṃ manye pāṇḍaveyasya vikramam yathāpratijñaṃ yodhānāṃ rādheyaḥ kṛtavān api", "english": "Most wondrous, I deem, was this prowess of the son of Pāṇḍu; yet Rādheya too made good his vow concerning the warriors."},
+{"ref": "8.56.4", "sanskrit": "kurūṇām api sarveṣāṃ karṇaḥ śatruniṣūdanaḥ śarma varma pratiṣṭhā ca jīvitāśā ca saṃjaya", "english": "For all the Kurus, Karṇa the slayer of foes was their shelter, their armor, their mainstay, and their hope of life, O Saṃjaya."},
+{"ref": "8.56.5", "sanskrit": "tat prabhagnaṃ balaṃ dṛṣṭvā kaunteyenāmitaujasā rādheyānām adhirathaḥ karṇaḥ kim akarod yudhi", "english": "Seeing that host shattered by the son of Kuntī of measureless might, what did Karṇa the great car-warrior, son of Rādhā, do in the fight?"},
+{"ref": "8.56.6", "sanskrit": "putrā vā mama durdharṣā rājāno vā mahārathāḥ etan me sarvam ācakṣva kuśalo hy asi saṃjaya", "english": "And my unassailable sons, and the kings, those great car-warriors—tell me all of this, for you are skilled, O Saṃjaya."},
+{"ref": "8.56.7", "sanskrit": "saṃjaya uvāca aparāhṇe mahārāja sūtaputraḥ pratāpavān jaghāna somakān sarvān bhīmasenasya paśyataḥ bhīmo 'py atibalaḥ sainyaṃ dhārtarāṣṭraṃ vyapothayat", "english": "Saṃjaya said: In the afternoon, O great king, the valiant son of the Sūta slew all the Somakas before Bhīmasena's very eyes; and Bhīma too, of surpassing strength, crushed the host of Dhṛtarāṣṭra."},
+{"ref": "8.56.8", "sanskrit": "drāvyamāṇaṃ balaṃ dṛṣṭvā bhīmasenena dhīmatā yantāram abravīt karṇaḥ pāñcālān eva mā vaha", "english": "Seeing his force routed by the wise Bhīmasena, Karṇa said to his driver: \"Bear me straight against the Pāñcālas.\""},
+{"ref": "8.56.9", "sanskrit": "madrarājas tataḥ śalyaḥ śvetān aśvān mahājavān prāhiṇoc cedipāñcālān karūṣāṃś ca mahābalaḥ", "english": "Then Śalya, king of the Madras, the mighty one, urged on his white horses of great speed against the Cedis, the Pāñcālas, and the Karūṣas."}
 ]

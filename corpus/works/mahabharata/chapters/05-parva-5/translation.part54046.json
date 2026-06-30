@@ -1,402 +1,82 @@
 [
-  {
-    "ref": "5.54.46",
-    "sanskrit": "pitāmaho hi gāṅgeyaḥ śaṃtanor adhi bhārata brahmarṣisadṛśo jajñe devair api durutsahaḥ pitrā hy uktaḥ prasannena nākāmas tvaṃ mariṣyasi",
-    "english": "For the grandsire Bhīṣma, son of Gaṅgā, born of Shantanu, O Bharata, was born equal to a brahmarishi and even the gods find him hard to overcome. His pleased father told him: \"You shall not die against your will.\""
-  },
-  {
-    "ref": "5.54.47",
-    "sanskrit": "brahmarṣeś ca bharadvājād droṇyāṃ droṇo vyajāyata droṇāj jajñe mahārāja drauṇiś ca paramāstravit",
-    "english": "And Droṇa was born of the brahmarishi Bharadvaja, from the vessel called Droni. From Droṇa in turn was born Aśvatthāman, O great king, who is supreme in knowledge of weapons."
-  },
-  {
-    "ref": "5.54.48",
-    "sanskrit": "kṛpaś cācāryamukhyo 'yaṃ maharṣer gautamād api śarastambodbhavaḥ śrīmān avadhya iti me matiḥ",
-    "english": "And Kṛpa, foremost among teachers, was born from the great sage Gautama, having sprung from a clump of reeds. He is glorious, and in my judgment he is invincible."
-  },
-  {
-    "ref": "5.54.49",
-    "sanskrit": "ayonijaṃ trayaṃ hy etat pitā mātā ca mātulaḥ aśvatthāmno mahārāja sa ca śūraḥ sthito mama",
-    "english": "These three — father, mother, and maternal uncle — were not born of a womb, O great king. Aśvatthāman too is a hero, and he stands on my side."
-  },
-  {
-    "ref": "5.54.50",
-    "sanskrit": "sarva ete mahārāja devakalpā mahārathāḥ śakrasyāpi vyathāṃ kuryuḥ saṃyuge bharatarṣabha",
-    "english": "All of these, O great king, are great chariot-warriors equal to the gods; in battle they would cause even Indra distress, O bull of the Bharatas."
-  },
-  {
-    "ref": "5.54.51",
-    "sanskrit": "bhīṣmadroṇakṛpāṇāṃ ca tulyaḥ karṇo mato mama anujñātaś ca rāmeṇa matsamo 'sīti bhārata",
-    "english": "Karṇa I consider equal to Bhīṣma, Droṇa, and Kṛpa. And Parashurama sanctioned him saying, \"You are my equal,\" O Bharata."
-  },
-  {
-    "ref": "5.54.52",
-    "sanskrit": "kuṇḍale rucire cāstāṃ karṇasya sahaje śubhe te śacyarthe mahendreṇa yācitaḥ sa paraṃtapaḥ amoghayā mahārāja śaktyā paramabhīmayā",
-    "english": "Karṇa had two beautiful, auspicious, natural earrings. He, the scorcher of foes, was asked by great Indra for them on behalf of Śacī, O great king, and was given instead an infallible, supremely terrible spear."
-  },
-  {
-    "ref": "5.54.53",
-    "sanskrit": "tasya śaktyopagūḍhasya kasmāj jīved dhanaṃjayaḥ vijayo me dhruvaṃ rājan phalaṃ pāṇāv ivāhitam abhivyaktaḥ pareṣāṃ ca kṛtsno bhuvi parājayaḥ",
-    "english": "How could Dhanañjaya survive once that spear is employed against him? Victory is certain for me, O king, like a fruit already placed in hand; and the complete defeat of the enemy on this earth is manifest."
-  },
-  {
-    "ref": "5.54.54",
-    "sanskrit": "ahnā hy ekena bhīṣmo 'yam ayutaṃ hanti bhārata tat samāś ca maheṣvāsā droṇadrauṇikṛpā api",
-    "english": "In a single day Bhīṣma slays ten thousand warriors, O Bharata. And Droṇa, Aśvatthāman, and Kṛpa are equal to him in their prowess as great bowmen."
-  },
-  {
-    "ref": "5.54.55",
-    "sanskrit": "saṃśaptāni ca vṛndāni kṣatriyāṇāṃ paraṃtapa arjunaṃ vayam asmān vā dhanaṃjaya iti sma ha",
-    "english": "And bands of sworn warriors among the kshatriyas, O scorcher of foes, have taken the oath: \"Either Arjuna or we\" — so shall Dhanañjaya meet them."
-  },
-  {
-    "ref": "5.54.56",
-    "sanskrit": "tāṃś cālam iti manyante savyasācivadhe vibho pārthivāḥ sa bhavān rājann akasmād vyathate katham",
-    "english": "The kings consider these warriors sufficient for the slaying of Savyasācin. O lord, why then, O king, do you suddenly feel distress?"
-  },
-  {
-    "ref": "5.54.57",
-    "sanskrit": "bhīmasene ca nihate ko 'nyo yudhyeta bhārata pareṣāṃ tan mamācakṣva yadi vettha paraṃtapa",
-    "english": "If Bhīmasena is slain, who else among the enemy would fight? Tell me that, O Bharata, if you know it, O scorcher of foes."
-  },
-  {
-    "ref": "5.54.58",
-    "sanskrit": "pañca te bhrātaraḥ sarve dhṛṣṭadyumno 'tha sātyakiḥ pareṣāṃ sapta ye rājan yodhāḥ paramakaṃ balam",
-    "english": "Your five brothers, then Dhṛṣṭadyumna, and Sātyaki — these seven warriors of the enemy, O king, constitute their supreme strength."
-  },
-  {
-    "ref": "5.54.59",
-    "sanskrit": "asmākaṃ tu viśiṣṭā ye bhīṣmadroṇakṛpādayaḥ drauṇir vaikartanaḥ karṇaḥ somadatto 'tha bāhlikaḥ",
-    "english": "On our side the distinguished ones are Bhīṣma, Droṇa, Kṛpa and others; Aśvatthāman, Karṇa son of the charioteer, Somadatta, and Bahlika."
-  },
-  {
-    "ref": "5.54.60",
-    "sanskrit": "prāgjyotiṣādhipaḥ śalya āvantyo 'tha jayadrathaḥ duḥśāsano durmukhaś ca duḥsahaś ca viśāṃ pate",
-    "english": "The lord of Prāgjyotiṣa, Śalya, the king of Avanti, Jayadratha, Duḥśāsana, Durmukha, and Duhsaha, O lord of men."
-  },
-  {
-    "ref": "5.54.61",
-    "sanskrit": "śrutāyuś citrasenaś ca purumitro viviṃśatiḥ śalo bhūriśravāś cobhau vikarṇaś ca tavātmajaḥ",
-    "english": "Śrutāyus, Citrasena, Purumitra, Vivingsati, Śala, both Bhūriśravas, and Vikarṇa — your own son."
-  },
-  {
-    "ref": "5.54.62",
-    "sanskrit": "akṣauhiṇyo hi me rājan daśaikā ca samāhṛtāḥ nyūnāḥ pareṣāṃ saptaiva kasmān me syāt parājayaḥ",
-    "english": "I have assembled eleven akshauhinis, O king, while the enemy has only seven — how then could I be defeated?"
-  },
-  {
-    "ref": "5.54.63",
-    "sanskrit": "balaṃ triguṇato hīnaṃ yodhyaṃ prāha bṛhaspatiḥ parebhyas triguṇā ceyaṃ mama rājann anīkinī",
-    "english": "Bṛhaspati has said that a force three times weaker may still be fought. My army, O king, is three times greater than the enemy's."
-  },
-  {
-    "ref": "5.54.64",
-    "sanskrit": "guṇahīnaṃ pareṣāṃ ca bahu paśyāmi bhārata guṇodayaṃ bahuguṇam ātmanaś ca viśāṃ pate",
-    "english": "I see many deficiencies in the enemy, O Bharata, and I see many virtues and abundant merits on my own side, O lord of men."
-  },
-  {
-    "ref": "5.54.65",
-    "sanskrit": "etat sarvaṃ samājñāya balāgryaṃ mama bhārata nyūnatāṃ pāṇḍavānāṃ ca na mohaṃ gantum arhasi",
-    "english": "Having assessed all this — my supreme strength, O Bharata, and the weakness of the Pāṇḍavas — you ought not to fall into delusion."
-  },
-  {
-    "ref": "5.54.66",
-    "sanskrit": "vaiśaṃpāyana uvāca ity uktvā saṃjayaṃ bhūyaḥ paryapṛcchata bhārata vidhitsuḥ prāptakālāni jñātvā parapuraṃjayaḥ",
-    "english": "Vaiśaṃpāyana said: Having spoken thus, O Bharata, he who was the conqueror of enemy cities, wishing to know what was timely and understanding the moment, questioned Sañjaya further."
-  },
-  {
-    "ref": "5.55.1",
-    "sanskrit": "duryodhana uvāca akṣauhiṇīḥ sapta labdhvā rājabhiḥ saha saṃjaya kiṃ svid icchati kaunteyo yuddhaprepsur yudhiṣṭhiraḥ",
-    "english": "Duryodhana said: Having obtained seven akshauhinis together with allied kings, O Sañjaya, what does Yudhiṣṭhira, son of Kuntī, who is eager for battle, intend?"
-  },
-  {
-    "ref": "5.55.2",
-    "sanskrit": "saṃjaya uvāca atīva mudito rājan yuddhaprepsur yudhiṣṭhiraḥ bhīmasenārjunau cobhau yamāv api na bibhyataḥ",
-    "english": "Sañjaya said: Yudhiṣṭhira is exceedingly joyful, O king, and eager for war. Both Bhīmasena and Arjuna, and even the twins, feel no fear."
-  },
-  {
-    "ref": "5.55.3",
-    "sanskrit": "rathaṃ tu divyaṃ kaunteyaḥ sarvā vibhrājayan diśaḥ mantraṃ jijñāsamānaḥ san bībhatsuḥ samayojayat",
-    "english": "Arjuna, son of Kuntī, illuminating all directions, yoked his divine chariot, and Bībhatsu, wishing to recite his mantras, did so."
-  },
-  {
-    "ref": "5.55.4",
-    "sanskrit": "tam apaśyāma saṃnaddhaṃ meghaṃ vidyutprabhaṃ yathā sa mantrān samabhidhyāya hṛṣyamāṇo 'bhyabhāṣata",
-    "english": "We saw him arrayed, shining like a lightning-lit cloud. After meditating upon his mantras, filled with joy, he spoke thus."
-  },
-  {
-    "ref": "5.55.5",
-    "sanskrit": "pūrvarūpam idaṃ paśya vayaṃ jeṣyāma saṃjaya bībhatsur māṃ yathovāca tathāvaimy aham apy uta",
-    "english": "\"See this as a good omen — we shall be victorious, O Sañjaya.\" Whatever Bībhatsu said to me, I find it to be true as well."
-  },
-  {
-    "ref": "5.55.6",
-    "sanskrit": "duryodhana uvāca praśaṃsasy abhinandaṃs tān pārthān akṣaparājitān arjunasya rathe brūhi katham aśvāḥ kathaṃ dhvajaḥ",
-    "english": "Duryodhana said: You praise and glorify those sons of Pṛthā who were defeated at dice. Tell me about the horses on Arjuna's chariot, and about his banner."
-  },
-  {
-    "ref": "5.55.7",
-    "sanskrit": "saṃjaya uvāca bhauvanaḥ saha śakreṇa bahucitraṃ viśāṃ pate rūpāṇi kalpayām āsa tvaṣṭā dhātrā sahābhibho",
-    "english": "Sañjaya said: Viśvakarmā, the son of Bhuvana, together with Indra, O lord of men, fashioned many wondrous forms, as did Tvaṣṭṛ together with Dhata, O lord."
-  },
-  {
-    "ref": "5.55.8",
-    "sanskrit": "dhvaje hi tasmin rūpāṇi cakrus te devamāyayā mahādhanāni divyāni mahānti ca laghūni ca",
-    "english": "On that banner they placed forms through divine illusion — forms of great value, celestial, both large and small."
-  },
-  {
-    "ref": "5.55.9",
-    "sanskrit": "sarvā diśo yojanamātram antaraṃ; sa tiryag ūrdhvaṃ ca rurodha vai dhvajaḥ na saṃsajjet tarubhiḥ saṃvṛto 'pi; tathā hi māyā vihitā bhauvanena",
-    "english": "That banner blocked all directions to a distance of a yojana, horizontally and upward; yet it would not catch on trees even when surrounded by them — such was the illusion arranged by the son of Bhuvana."
-  },
-  {
-    "ref": "5.55.10",
-    "sanskrit": "yathākāśe śakradhanuḥ prakāśate; na caikavarṇaṃ na ca vidma kiṃ nu tat tathā dhvajo vihito bhauvanena; bahvākāraṃ dṛśyate rūpam asya",
-    "english": "Just as Indra's rainbow shines in the sky — not one color, and we cannot tell what it is — so too the banner fashioned by the son of Bhuvana: its form appears in many shapes."
-  },
-  {
-    "ref": "5.55.11",
-    "sanskrit": "yathāgnidhūmo divam eti ruddhvā; varṇān bibhrat taijasaṃ tac charīram tathā dhvajo vihito bhauvanena; na ced bhāro bhavitā nota rodhaḥ",
-    "english": "Just as smoke from fire rises filling the sky, bearing luminous hues in its fiery body, so too the banner fashioned by the son of Bhuvana — it would be no burden and would cause no obstruction."
-  },
-  {
-    "ref": "5.55.12",
-    "sanskrit": "śvetās tasmin vātavegāḥ sadaśvā; divyā yuktāś citrarathena dattāḥ śataṃ yat tat pūryate nityakālaṃ; hataṃ hataṃ dattavaraṃ purastāt",
-    "english": "White horses swift as the wind, noble and divine, given by Chitraratha, were yoked to it. Whenever they fell they were replaced — such was the boon granted beforehand."
-  },
-  {
-    "ref": "5.55.13",
-    "sanskrit": "tathā rājño dantavarṇā bṛhanto; rathe yuktā bhānti tadvīryatulyāḥ ṛśyaprakhyā bhīmasenasya vāhā; raṇe vāyos tulyavegā babhūvuḥ",
-    "english": "Similarly, the king's horses, ivory-colored and large, yoked to the chariot, shine forth, equal to him in valor. Bhīmasena's steeds, resembling spotted deer, were equal in speed to the wind in battle."
-  },
-  {
-    "ref": "5.55.14",
-    "sanskrit": "kalmāṣāṅgās tittiricitrapṛṣṭhā; bhrātrā dattāḥ prīyatā phalgunena bhrātur vīrasya svais turaṃgair viśiṣṭā; mudā yuktāḥ sahadevaṃ vahanti",
-    "english": "Dapple-bodied horses with partridge-speckled backs, given joyfully by his brother Phalguna, superior to his heroic brother's own horses, were joyfully yoked and carried Sahadeva."
-  },
-  {
-    "ref": "5.55.15",
-    "sanskrit": "mādrīputraṃ nakulaṃ tv ājamīḍhaṃ; mahendradattā harayo vājimukhyāḥ samā vāyor balavantas tarasvino; vahanti vīraṃ vṛtraśatruṃ yathendram",
-    "english": "Nakula, son of Mādrī, of the Ajamidha lineage, was carried by tawny horses, foremost of steeds, given by great Indra — powerful as the wind in speed — carrying the hero like Indra slayer of Vṛtra."
-  },
-  {
-    "ref": "5.55.16",
-    "sanskrit": "tulyāś caibhir vayasā vikrameṇa; javena caivāpratirūpāḥ sadaśvāḥ saubhadrādīn draupadeyān kumārān; vahanty aśvā devadattā bṛhantaḥ",
-    "english": "Horses equal to these in age, valor, and speed — unmatched, noble steeds, large and god-given — carry the young princes, Abhimanyu and the sons of Draupadī."
-  },
-  {
-    "ref": "5.56.1",
-    "sanskrit": "dhṛtarāṣṭra uvāca kāṃs tatra saṃjayāpaśyaḥ pratyarthena samāgatān ye yotsyante pāṇḍavārthe putrasya mama vāhinīm",
-    "english": "Dhṛtarāṣṭra said: Whom did you see there, O Sañjaya, who had come as allies to fight the army of my son on behalf of the Pāṇḍavas?"
-  },
-  {
-    "ref": "5.56.2",
-    "sanskrit": "saṃjaya uvāca mukhyam andhakavṛṣṇīnām apaśyaṃ kṛṣṇam āgatam cekitānaṃ ca tatraiva yuyudhānaṃ ca sātyakim",
-    "english": "Sañjaya said: I saw the foremost of the Andhakas and Vṛṣṇis, Kṛṣṇa, who had arrived; and there also Cekitāna and Yuyudhāna the Sātyaki."
-  },
-  {
-    "ref": "5.56.3",
-    "sanskrit": "pṛthag akṣauhiṇībhyāṃ tau pāṇḍavān abhisaṃśritau mahārathau samākhyātāv ubhau puruṣamāninau",
-    "english": "These two great chariot-warriors, each with separate akshauhinis, had joined the Pāṇḍavas. Both are renowned and consider themselves great men."
-  },
-  {
-    "ref": "5.56.4",
-    "sanskrit": "akṣauhiṇyātha pāñcālyo daśabhis tanayair vṛtaḥ satyajitpramukhair vīrair dhṛṣṭadyumnapurogamaiḥ",
-    "english": "Then the Pāñcāla king with an akshauhini, surrounded by his ten sons with Satyajit at their head, with Dhṛṣṭadyumna as their leader."
-  },
-  {
-    "ref": "5.56.5",
-    "sanskrit": "drupado vardhayan mānaṃ śikhaṇḍiparipālitaḥ upāyāt sarvasainyānāṃ praticchādya tadā vapuḥ",
-    "english": "Drupada, enhancing his glory, protected by Śikhaṇḍī, advanced, at that time overwhelming the body of all the armies."
-  },
-  {
-    "ref": "5.56.6",
-    "sanskrit": "virāṭaḥ saha putrābhyāṃ śaṅkhenaivottareṇa ca sūryadattādibhir vīrair madirāśvapurogamaiḥ",
-    "english": "Virāṭa together with his two sons Śaṅkha and Uttara, and with heroes led by Suryadatta, with Madirāśva at their head."
-  },
-  {
-    "ref": "5.56.7",
-    "sanskrit": "sahitaḥ pṛthivīpālo bhrātṛbhis tanayais tathā akṣauhiṇyaiva sainyasya vṛtaḥ pārthaṃ samāśritaḥ",
-    "english": "That guardian of the earth, together with his brothers and sons, surrounded by a full akshauhini of soldiers, had joined Pārtha's side."
-  },
-  {
-    "ref": "5.56.8",
-    "sanskrit": "jārāsaṃdhir māgadhaś ca dhṛṣṭaketuś ca cedirāṭ pṛthak pṛthag anuprāptau pṛthag akṣauhiṇīvṛtau",
-    "english": "Jarasandhi of Magadha and Dhṛṣṭaketu king of the Cedis had arrived separately, each surrounded by separate akshauhinis."
-  },
-  {
-    "ref": "5.56.9",
-    "sanskrit": "kekayā bhrātaraḥ pañca sarve lohitakadhvajāḥ akṣauhiṇīparivṛtāḥ pāṇḍavān abhisaṃśritāḥ",
-    "english": "The five brothers of Kekaya, all bearing crimson banners, surrounded by an akshauhini, had joined the Pāṇḍavas."
-  },
-  {
-    "ref": "5.56.10",
-    "sanskrit": "etān etāvatas tatra yān apaśyaṃ samāgatān ye pāṇḍavārthe yotsyanti dhārtarāṣṭrasya vāhinīm",
-    "english": "These and so many others I saw assembled there, who will fight the army of Dhṛtarāṣṭra's son on behalf of the Pāṇḍavas."
-  },
-  {
-    "ref": "5.56.11",
-    "sanskrit": "yo veda mānuṣaṃ vyūhaṃ daivaṃ gāndharvam āsuram sa tasya senāpramukhe dhṛṣṭadyumno mahāmanāḥ",
-    "english": "He who knows the human battle-array, the divine, the gandharva, and the demonic — that great-minded Dhṛṣṭadyumna stands at the head of their army."
-  },
-  {
-    "ref": "5.56.12",
-    "sanskrit": "bhīṣmaḥ śāṃtanavo rājan bhāgaḥ kḷptaḥ śikhaṇḍinaḥ taṃ virāṭo 'nu saṃyātā saha matsyaiḥ prahāribhiḥ",
-    "english": "Bhīṣma, son of Shantanu, O king, has been assigned as the portion of Śikhaṇḍī. Virāṭa with the Matsyas, who are fierce fighters, shall follow in that battle."
-  },
-  {
-    "ref": "5.56.13",
-    "sanskrit": "jyeṣṭhasya pāṇḍuputrasya bhāgo madrādhipo balī tau tu tatrābruvan ke cid viṣamau no matāv iti",
-    "english": "The powerful lord of the Madras was assigned as the portion of the eldest son of Pāṇḍu. But some of them said there: \"The two of them seem unequal to us.\""
-  },
-  {
-    "ref": "5.56.14",
-    "sanskrit": "duryodhanaḥ sahasutaḥ sārdhaṃ bhrātṛśatena ca prācyāś ca dākṣiṇātyāś ca bhīmasenasya bhāgataḥ",
-    "english": "Duryodhana with his hundred sons, along with his hundred brothers, and the eastern and southern kings — these were assigned as the portion of Bhīmasena."
-  },
-  {
-    "ref": "5.56.15",
-    "sanskrit": "arjunasya tu bhāgena karṇo vaikartano mataḥ aśvatthāmā vikarṇaś ca saindhavaś ca jayadrathaḥ",
-    "english": "As Arjuna's appointed portion: Karṇa the son of the charioteer, Aśvatthāman, Vikarṇa, and Jayadratha the king of Sindhu."
-  },
-  {
-    "ref": "5.56.16",
-    "sanskrit": "aśakyāś caiva ye ke cit pṛthivyāṃ śūramāninaḥ sarvāṃs tān arjunaḥ pārthaḥ kalpayām āsa bhāgataḥ",
-    "english": "And whoever on earth considers himself a hero and is difficult to overcome — all of them Arjuna, son of Pṛthā, has assigned as his own portion."
-  },
-  {
-    "ref": "5.56.17",
-    "sanskrit": "maheṣvāsā rājaputrā bhrātaraḥ pañca kekayāḥ kekayān eva bhāgena kṛtvā yotsyanti saṃyuge",
-    "english": "The five brothers, princes of Kekaya, great bowmen, have designated the Kekayas as their own portion and will fight them in battle."
-  },
-  {
-    "ref": "5.56.18",
-    "sanskrit": "teṣām eva kṛto bhāgo mālavāḥ śālvakekayāḥ trigartānāṃ ca dvau mukhyau yau tau saṃśaptakāv iti",
-    "english": "Their assigned portion also includes the Mālavas and the Śālva-Kekayas, and the two chief leaders of the Trigartas who are known as the sworn warriors."
-  },
-  {
-    "ref": "5.56.19",
-    "sanskrit": "duryodhanasutāḥ sarve tathā duḥśāsanasya ca saubhadreṇa kṛto bhāgo rājā caiva bṛhadbalaḥ",
-    "english": "All the sons of Duryodhana, and likewise those of Duḥśāsana, and also king Bṛhadbala — these were assigned as the portion of Abhimanyu, son of Subhadrā."
-  },
-  {
-    "ref": "5.56.20",
-    "sanskrit": "draupadeyā maheṣvāsāḥ suvarṇavikṛtadhvajāḥ dhṛṣṭadyumnamukhā droṇam abhiyāsyanti bhārata",
-    "english": "The sons of Draupadī, great bowmen bearing banners adorned with gold, led by Dhṛṣṭadyumna, will march against Droṇa, O Bharata."
-  },
-  {
-    "ref": "5.56.21",
-    "sanskrit": "cekitānaḥ somadattaṃ dvairathe yoddhum icchati bhojaṃ tu kṛtavarmāṇaṃ yuyudhāno yuyutsati",
-    "english": "Cekitāna desires to fight Somadatta in single-chariot combat. And Yuyudhāna desires to fight the Bhoja, Kṛtavarman."
-  },
-  {
-    "ref": "5.56.22",
-    "sanskrit": "sahadevas tu mādreyaḥ śūraḥ saṃkrandano yudhi svam aṃśaṃ kalpayām āsa śyālaṃ te subalātmajam",
-    "english": "Sahadeva, son of Mādrī, a hero who makes enemies cry out in battle, assigned as his own portion your brother-in-law, the son of Subala."
-  },
-  {
-    "ref": "5.56.23",
-    "sanskrit": "ulūkaṃ cāpi kaitavyaṃ ye ca sārasvatā gaṇāḥ nakulaḥ kalpayām āsa bhāgaṃ mādravatīsutaḥ",
-    "english": "Ulūka the son of the gambler, and the tribes of the Sārasvata region — Nakula, son of Mādravatī, assigned these as his portion."
-  },
-  {
-    "ref": "5.56.24",
-    "sanskrit": "ye cānye pārthivā rājan pratyudyāsyanti saṃyuge samāhvānena tāṃś cāpi pāṇḍuputrā akalpayan",
-    "english": "Whatever other kings, O king, shall march forth in battle to face them — the sons of Pāṇḍu have by challenge assigned those as well."
-  },
-  {
-    "ref": "5.56.25",
-    "sanskrit": "evam eṣām anīkāni pravibhaktāni bhāgaśaḥ yat te kāryaṃ saputrasya kriyatāṃ tad akālikam",
-    "english": "Thus their armies have been divided into portions. Whatever needs to be done regarding you and your sons, let it be done without delay."
-  },
-  {
-    "ref": "5.56.26",
-    "sanskrit": "dhṛtarāṣṭra uvāca na santi sarve putrā me mūḍhā durdyūtadevinaḥ yeṣāṃ yuddhaṃ balavatā bhīmena raṇamūrdhani",
-    "english": "Dhṛtarāṣṭra said: All my sons are fools, addicted to crooked gambling — those whose battle with the mighty Bhīma will come at the forefront of the fight."
-  },
-  {
-    "ref": "5.56.27",
-    "sanskrit": "rājānaḥ pārthivāḥ sarve prokṣitāḥ kāladharmaṇā gāṇḍīvāgniṃ pravekṣyanti pataṅgā iva pāvakam",
-    "english": "All the kings, all those rulers of earth, already sprinkled by the law of Time, will enter the fire of the Gāṇḍīva bow like moths entering a flame."
-  },
-  {
-    "ref": "5.56.28",
-    "sanskrit": "vidrutāṃ vāhinīṃ manye kṛtavairair mahātmabhiḥ tāṃ raṇe ke 'nuyāsyanti prabhagnāṃ pāṇḍavair yudhi",
-    "english": "I believe the army will be scattered by those great-souled ones who have been made into enemies. Who will follow it in battle once it has been shattered by the Pāṇḍavas in war?"
-  },
-  {
-    "ref": "5.56.29",
-    "sanskrit": "sarve hy atirathāḥ śūrāḥ kīrtimantaḥ pratāpinaḥ sūryapāvakayos tulyās tejasā samitiṃjayāḥ",
-    "english": "For they are all atirathas — great warriors, heroes, glorious, blazing with energy — equal in brilliance to the sun and fire, conquerors in battle."
-  },
-  {
-    "ref": "5.56.30",
-    "sanskrit": "yeṣāṃ yudhiṣṭhiro netā goptā ca madhusūdanaḥ yodhau ca pāṇḍavau vīrau savyasācivṛkodarau",
-    "english": "Whose leader is Yudhiṣṭhira and whose protector is the slayer of Madhu, and whose warriors are the two heroic Pāṇḍavas Savyasācin and Vṛkodara."
-  },
-  {
-    "ref": "5.56.31",
-    "sanskrit": "nakulaḥ sahadevaś ca dhṛṣṭadyumnaś ca pārṣataḥ sātyakir drupadaś caiva dhṛṣṭadyumnasya cātmajaḥ",
-    "english": "Nakula and Sahadeva, and Dhṛṣṭadyumna son of Pṛṣata, and Sātyaki, and Drupada, and the son of Dhṛṣṭadyumna."
-  },
-  {
-    "ref": "5.56.32",
-    "sanskrit": "uttamaujāś ca pāñcālyo yudhāmanyuś ca durjayaḥ śikhaṇḍī kṣatradevaś ca tathā vairāṭir uttaraḥ",
-    "english": "And Uttamaujas the Pāñcāla, and the unconquerable Yudhāmanyu, and Śikhaṇḍī, and Kṣatradeva, and Uttara son of Virāṭa."
-  },
-  {
-    "ref": "5.56.33",
-    "sanskrit": "kāśayaś cedayaś caiva matsyāḥ sarve ca sṛñjayāḥ virāṭaputro babhrūś ca pāñcālāś ca prabhadrakāḥ",
-    "english": "The Kāśis and the Cedis, all the Matsyas and all the Sṛñjayas, and Babhru son of Virāṭa, and the Pāñcālas and the Prabhadrakas."
-  },
-  {
-    "ref": "5.56.34",
-    "sanskrit": "yeṣām indro 'py akāmānāṃ na haret pṛthivīm imām vīrāṇāṃ raṇadhīrāṇāṃ ye bhindyuḥ parvatān api",
-    "english": "From whom not even Indra could wrest this earth against their will — those heroes, steadfast in battle, who could cleave even mountains."
-  },
-  {
-    "ref": "5.56.35",
-    "sanskrit": "tān sarvān guṇasaṃpannān amanuṣyapratāpinaḥ krośato mama duṣputro yoddhum icchati saṃjaya",
-    "english": "Against all these, endowed with virtues, blazing with superhuman energy, my wicked son, while I cry out, desires to fight, O Sañjaya."
-  },
-  {
-    "ref": "5.56.36",
-    "sanskrit": "duryodhana uvāca ubhau sva ekajātīyau tathobhau bhūmigocarau atha kasmāt pāṇḍavānām ekato manyase jayam",
-    "english": "Duryodhana said: Both sides are of the same birth, and both move on the same earth. Why then do you consider victory to rest on the side of the Pāṇḍavas alone?"
-  },
-  {
-    "ref": "5.56.37",
-    "sanskrit": "pitāmahaṃ ca droṇaṃ ca kṛpaṃ karṇaṃ ca durjayam jayadrathaṃ somadattam aśvatthāmānam eva ca",
-    "english": "The grandsire and Droṇa, and Kṛpa, and the unconquerable Karṇa, and Jayadratha, Somadatta, and Aśvatthāman —"
-  },
-  {
-    "ref": "5.56.38",
-    "sanskrit": "sucetaso maheṣvāsān indro 'pi sahito 'maraiḥ aśaktaḥ samare jetuṃ kiṃ punas tāta pāṇḍavāḥ",
-    "english": "— wise-minded great bowmen whom even Indra together with the immortals is unable to conquer in battle — how then can the Pāṇḍavas, O father?"
-  },
-  {
-    "ref": "5.56.39",
-    "sanskrit": "sarvā ca pṛthivī sṛṣṭā madarthe tāta pāṇḍavān āryān dhṛtimataḥ śūrān agnikalpān prabādhitum",
-    "english": "And all this earth has been created for my sake, O father, to crush those noble, resolute, heroic, fire-like Pāṇḍavas."
-  },
-  {
-    "ref": "5.56.40",
-    "sanskrit": "na māmakān pāṇḍavās te samarthāḥ prativīkṣitum parākrānto hy ahaṃ pāṇḍūn saputrān yoddhum āhave",
-    "english": "The Pāṇḍavas are not capable of looking upon my forces. I am fully prepared to fight the sons of Pāṇḍu together with their sons in battle."
-  },
-  {
-    "ref": "5.56.41",
-    "sanskrit": "matpriyaṃ pārthivāḥ sarve ye cikīrṣanti bhārata te tān āvārayiṣyanti aiṇeyān iva tantunā",
-    "english": "All the kings who desire to do what pleases me, O Bharata, will bind them as with a thread, like black deer."
-  },
-  {
-    "ref": "5.56.42",
-    "sanskrit": "mahatā rathavaṃśena śarajālaiś ca māmakaiḥ abhidrutā bhaviṣyanti pāñcālāḥ pāṇḍavaiḥ saha",
-    "english": "Attacked by my great forces of chariots and by my nets of arrows, the Pāñcālas together with the Pāṇḍavas will be overwhelmed."
-  },
-  {
-    "ref": "5.56.43",
-    "sanskrit": "dhṛtarāṣṭra uvāca unmatta iva me putro vilapaty eṣa saṃjaya na hi śakto yudhā jetuṃ dharmarājaṃ yudhiṣṭhiram",
-    "english": "Dhṛtarāṣṭra said: My son raves like a madman, O Sañjaya. For he is not capable of conquering Dharmarāja Yudhiṣṭhira in battle."
-  }
+{"ref": "5.54.46", "sanskrit": "pitāmaho hi gāṅgeyaḥ śaṃtanor adhi bhārata brahmarṣisadṛśo jajñe devair api durutsahaḥ pitrā hy uktaḥ prasannena nākāmas tvaṃ mariṣyasi", "english": "For the grandsire Bhīṣma, son of Gaṅgā, born of Shantanu, O Bhārata, was born equal to a brahmarishi and even the gods find him hard to overcome. His pleased father told him: \"You shall not die against your will.\""},
+{"ref": "5.54.47", "sanskrit": "brahmarṣeś ca bharadvājād droṇyāṃ droṇo vyajāyata droṇāj jajñe mahārāja drauṇiś ca paramāstravit", "english": "And Droṇa was born of the brahmarishi Bharadvaja, from the vessel called Droni. From Droṇa in turn was born Aśvatthāman, O great king, who is supreme in knowledge of weapons."},
+{"ref": "5.54.48", "sanskrit": "kṛpaś cācāryamukhyo 'yaṃ maharṣer gautamād api śarastambodbhavaḥ śrīmān avadhya iti me matiḥ", "english": "And Kṛpa, foremost among teachers, was born from the great sage Gautama, having sprung from a clump of reeds. He is glorious, and in my judgment he is invincible."},
+{"ref": "5.54.49", "sanskrit": "ayonijaṃ trayaṃ hy etat pitā mātā ca mātulaḥ aśvatthāmno mahārāja sa ca śūraḥ sthito mama", "english": "These three — father, mother, and maternal uncle — were not born of a womb, O great king. Aśvatthāman too is a hero, and he stands on my side."},
+{"ref": "5.54.50", "sanskrit": "sarva ete mahārāja devakalpā mahārathāḥ śakrasyāpi vyathāṃ kuryuḥ saṃyuge bharatarṣabha", "english": "All of these, O great king, are great chariot-warriors equal to the gods; in battle they would cause even Indra distress, O bull of the Bhāratas."},
+{"ref": "5.54.51", "sanskrit": "bhīṣmadroṇakṛpāṇāṃ ca tulyaḥ karṇo mato mama anujñātaś ca rāmeṇa matsamo 'sīti bhārata", "english": "Karṇa I consider equal to Bhīṣma, Droṇa, and Kṛpa. And Parashurama sanctioned him saying, \"You are my equal,\" O Bhārata."},
+{"ref": "5.54.52", "sanskrit": "kuṇḍale rucire cāstāṃ karṇasya sahaje śubhe te śacyarthe mahendreṇa yācitaḥ sa paraṃtapaḥ amoghayā mahārāja śaktyā paramabhīmayā", "english": "Karṇa had two beautiful, auspicious, natural earrings. He, the scorcher of foes, was asked by great Indra for them on behalf of Śacī, O great king, and was given instead an infallible, supremely terrible spear."},
+{"ref": "5.54.53", "sanskrit": "tasya śaktyopagūḍhasya kasmāj jīved dhanaṃjayaḥ vijayo me dhruvaṃ rājan phalaṃ pāṇāv ivāhitam abhivyaktaḥ pareṣāṃ ca kṛtsno bhuvi parājayaḥ", "english": "How could Dhanañjaya survive once that spear is employed against him? Victory is certain for me, O king, like a fruit already placed in hand; and the complete defeat of the enemy on this earth is manifest."},
+{"ref": "5.54.54", "sanskrit": "ahnā hy ekena bhīṣmo 'yam ayutaṃ hanti bhārata tat samāś ca maheṣvāsā droṇadrauṇikṛpā api", "english": "In a single day Bhīṣma slays ten thousand warriors, O Bhārata. And Droṇa, Aśvatthāman, and Kṛpa are equal to him in their prowess as great bowmen."},
+{"ref": "5.54.55", "sanskrit": "saṃśaptāni ca vṛndāni kṣatriyāṇāṃ paraṃtapa arjunaṃ vayam asmān vā dhanaṃjaya iti sma ha", "english": "And bands of sworn warriors among the kshatriyas, O scorcher of foes, have taken the oath: \"Either Arjuna or we\" — so shall Dhanañjaya meet them."},
+{"ref": "5.54.56", "sanskrit": "tāṃś cālam iti manyante savyasācivadhe vibho pārthivāḥ sa bhavān rājann akasmād vyathate katham", "english": "The kings consider these warriors sufficient for the slaying of Savyasācin. O lord, why then, O king, do you suddenly feel distress?"},
+{"ref": "5.54.57", "sanskrit": "bhīmasene ca nihate ko 'nyo yudhyeta bhārata pareṣāṃ tan mamācakṣva yadi vettha paraṃtapa", "english": "If Bhīmasena is slain, who else among the enemy would fight? Tell me that, O Bhārata, if you know it, O scorcher of foes."},
+{"ref": "5.54.58", "sanskrit": "pañca te bhrātaraḥ sarve dhṛṣṭadyumno 'tha sātyakiḥ pareṣāṃ sapta ye rājan yodhāḥ paramakaṃ balam", "english": "Your five brothers, then Dhṛṣṭadyumna, and Sātyaki — these seven warriors of the enemy, O king, constitute their supreme strength."},
+{"ref": "5.54.59", "sanskrit": "asmākaṃ tu viśiṣṭā ye bhīṣmadroṇakṛpādayaḥ drauṇir vaikartanaḥ karṇaḥ somadatto 'tha bāhlikaḥ", "english": "On our side the distinguished ones are Bhīṣma, Droṇa, Kṛpa and others; Aśvatthāman, Karṇa son of the charioteer, Somadatta, and Bahlika."},
+{"ref": "5.54.60", "sanskrit": "prāgjyotiṣādhipaḥ śalya āvantyo 'tha jayadrathaḥ duḥśāsano durmukhaś ca duḥsahaś ca viśāṃ pate", "english": "The lord of Prāgjyotiṣa, Śalya, the king of Avanti, Jayadratha, Duḥśāsana, Durmukha, and Duhsaha, O lord of men."},
+{"ref": "5.54.61", "sanskrit": "śrutāyuś citrasenaś ca purumitro viviṃśatiḥ śalo bhūriśravāś cobhau vikarṇaś ca tavātmajaḥ", "english": "Śrutāyus, Citrasena, Purumitra, Vivingsati, Śala, both Bhūriśravas, and Vikarṇa — your own son."},
+{"ref": "5.54.62", "sanskrit": "akṣauhiṇyo hi me rājan daśaikā ca samāhṛtāḥ nyūnāḥ pareṣāṃ saptaiva kasmān me syāt parājayaḥ", "english": "I have assembled eleven akshauhinis, O king, while the enemy has only seven — how then could I be defeated?"},
+{"ref": "5.54.63", "sanskrit": "balaṃ triguṇato hīnaṃ yodhyaṃ prāha bṛhaspatiḥ parebhyas triguṇā ceyaṃ mama rājann anīkinī", "english": "Bṛhaspati has said that a force three times weaker may still be fought. My army, O king, is three times greater than the enemy's."},
+{"ref": "5.54.64", "sanskrit": "guṇahīnaṃ pareṣāṃ ca bahu paśyāmi bhārata guṇodayaṃ bahuguṇam ātmanaś ca viśāṃ pate", "english": "I see many deficiencies in the enemy, O Bhārata, and I see many virtues and abundant merits on my own side, O lord of men."},
+{"ref": "5.54.65", "sanskrit": "etat sarvaṃ samājñāya balāgryaṃ mama bhārata nyūnatāṃ pāṇḍavānāṃ ca na mohaṃ gantum arhasi", "english": "Having assessed all this — my supreme strength, O Bhārata, and the weakness of the Pāṇḍavas — you ought not to fall into delusion."},
+{"ref": "5.54.66", "sanskrit": "vaiśaṃpāyana uvāca ity uktvā saṃjayaṃ bhūyaḥ paryapṛcchata bhārata vidhitsuḥ prāptakālāni jñātvā parapuraṃjayaḥ", "english": "Vaiśaṃpāyana said: Having spoken thus, O Bhārata, he who was the conqueror of enemy cities, wishing to know what was timely and understanding the moment, questioned Sañjaya further."},
+{"ref": "5.55.1", "sanskrit": "duryodhana uvāca akṣauhiṇīḥ sapta labdhvā rājabhiḥ saha saṃjaya kiṃ svid icchati kaunteyo yuddhaprepsur yudhiṣṭhiraḥ", "english": "Duryodhana said: Having obtained seven akshauhinis together with allied kings, O Sañjaya, what does Yudhiṣṭhira, son of Kuntī, who is eager for battle, intend?"},
+{"ref": "5.55.2", "sanskrit": "saṃjaya uvāca atīva mudito rājan yuddhaprepsur yudhiṣṭhiraḥ bhīmasenārjunau cobhau yamāv api na bibhyataḥ", "english": "Sañjaya said: Yudhiṣṭhira is exceedingly joyful, O king, and eager for war. Both Bhīmasena and Arjuna, and even the twins, feel no fear."},
+{"ref": "5.55.3", "sanskrit": "rathaṃ tu divyaṃ kaunteyaḥ sarvā vibhrājayan diśaḥ mantraṃ jijñāsamānaḥ san bībhatsuḥ samayojayat", "english": "Arjuna, son of Kuntī, illuminating all directions, yoked his divine chariot, and Bībhatsu, wishing to recite his mantras, did so."},
+{"ref": "5.55.4", "sanskrit": "tam apaśyāma saṃnaddhaṃ meghaṃ vidyutprabhaṃ yathā sa mantrān samabhidhyāya hṛṣyamāṇo 'bhyabhāṣata", "english": "We saw him arrayed, shining like a lightning-lit cloud. After meditating upon his mantras, filled with joy, he spoke thus."},
+{"ref": "5.55.5", "sanskrit": "pūrvarūpam idaṃ paśya vayaṃ jeṣyāma saṃjaya bībhatsur māṃ yathovāca tathāvaimy aham apy uta", "english": "\"See this as a good omen — we shall be victorious, O Sañjaya.\" Whatever Bībhatsu said to me, I find it to be true as well."},
+{"ref": "5.55.6", "sanskrit": "duryodhana uvāca praśaṃsasy abhinandaṃs tān pārthān akṣaparājitān arjunasya rathe brūhi katham aśvāḥ kathaṃ dhvajaḥ", "english": "Duryodhana said: You praise and glorify those sons of Pṛthā who were defeated at dice. Tell me about the horses on Arjuna's chariot, and about his banner."},
+{"ref": "5.55.7", "sanskrit": "saṃjaya uvāca bhauvanaḥ saha śakreṇa bahucitraṃ viśāṃ pate rūpāṇi kalpayām āsa tvaṣṭā dhātrā sahābhibho", "english": "Sañjaya said: Viśvakarmā, the son of Bhuvana, together with Indra, O lord of men, fashioned many wondrous forms, as did Tvaṣṭṛ together with Dhata, O lord."},
+{"ref": "5.55.8", "sanskrit": "dhvaje hi tasmin rūpāṇi cakrus te devamāyayā mahādhanāni divyāni mahānti ca laghūni ca", "english": "On that banner they placed forms through divine illusion — forms of great value, celestial, both large and small."},
+{"ref": "5.55.9", "sanskrit": "sarvā diśo yojanamātram antaraṃ; sa tiryag ūrdhvaṃ ca rurodha vai dhvajaḥ na saṃsajjet tarubhiḥ saṃvṛto 'pi; tathā hi māyā vihitā bhauvanena", "english": "That banner blocked all directions to a distance of a yojana, horizontally and upward; yet it would not catch on trees even when surrounded by them — such was the illusion arranged by the son of Bhuvana."},
+{"ref": "5.55.10", "sanskrit": "yathākāśe śakradhanuḥ prakāśate; na caikavarṇaṃ na ca vidma kiṃ nu tat tathā dhvajo vihito bhauvanena; bahvākāraṃ dṛśyate rūpam asya", "english": "Just as Indra's rainbow shines in the sky — not one color, and we cannot tell what it is — so too the banner fashioned by the son of Bhuvana: its form appears in many shapes."},
+{"ref": "5.55.11", "sanskrit": "yathāgnidhūmo divam eti ruddhvā; varṇān bibhrat taijasaṃ tac charīram tathā dhvajo vihito bhauvanena; na ced bhāro bhavitā nota rodhaḥ", "english": "Just as smoke from fire rises filling the sky, bearing luminous hues in its fiery body, so too the banner fashioned by the son of Bhuvana — it would be no burden and would cause no obstruction."},
+{"ref": "5.55.12", "sanskrit": "śvetās tasmin vātavegāḥ sadaśvā; divyā yuktāś citrarathena dattāḥ śataṃ yat tat pūryate nityakālaṃ; hataṃ hataṃ dattavaraṃ purastāt", "english": "White horses swift as the wind, noble and divine, given by Chitraratha, were yoked to it. Whenever they fell they were replaced — such was the boon granted beforehand."},
+{"ref": "5.55.13", "sanskrit": "tathā rājño dantavarṇā bṛhanto; rathe yuktā bhānti tadvīryatulyāḥ ṛśyaprakhyā bhīmasenasya vāhā; raṇe vāyos tulyavegā babhūvuḥ", "english": "Similarly, the king's horses, ivory-colored and large, yoked to the chariot, shine forth, equal to him in valor. Bhīmasena's steeds, resembling spotted deer, were equal in speed to the wind in battle."},
+{"ref": "5.55.14", "sanskrit": "kalmāṣāṅgās tittiricitrapṛṣṭhā; bhrātrā dattāḥ prīyatā phalgunena bhrātur vīrasya svais turaṃgair viśiṣṭā; mudā yuktāḥ sahadevaṃ vahanti", "english": "Dapple-bodied horses with partridge-speckled backs, given joyfully by his brother Phalguna, superior to his heroic brother's own horses, were joyfully yoked and carried Sahadeva."},
+{"ref": "5.55.15", "sanskrit": "mādrīputraṃ nakulaṃ tv ājamīḍhaṃ; mahendradattā harayo vājimukhyāḥ samā vāyor balavantas tarasvino; vahanti vīraṃ vṛtraśatruṃ yathendram", "english": "Nakula, son of Mādrī, of the Ajamidha lineage, was carried by tawny horses, foremost of steeds, given by great Indra — powerful as the wind in speed — carrying the hero like Indra slayer of Vṛtra."},
+{"ref": "5.55.16", "sanskrit": "tulyāś caibhir vayasā vikrameṇa; javena caivāpratirūpāḥ sadaśvāḥ saubhadrādīn draupadeyān kumārān; vahanty aśvā devadattā bṛhantaḥ", "english": "Horses equal to these in age, valor, and speed — unmatched, noble steeds, large and god-given — carry the young princes, Abhimanyu and the sons of Draupadī."},
+{"ref": "5.56.1", "sanskrit": "dhṛtarāṣṭra uvāca kāṃs tatra saṃjayāpaśyaḥ pratyarthena samāgatān ye yotsyante pāṇḍavārthe putrasya mama vāhinīm", "english": "Dhṛtarāṣṭra said: Whom did you see there, O Sañjaya, who had come as allies to fight the army of my son on behalf of the Pāṇḍavas?"},
+{"ref": "5.56.2", "sanskrit": "saṃjaya uvāca mukhyam andhakavṛṣṇīnām apaśyaṃ kṛṣṇam āgatam cekitānaṃ ca tatraiva yuyudhānaṃ ca sātyakim", "english": "Sañjaya said: I saw the foremost of the Andhakas and Vṛṣṇis, Kṛṣṇa, who had arrived; and there also Cekitāna and Yuyudhāna the Sātyaki."},
+{"ref": "5.56.3", "sanskrit": "pṛthag akṣauhiṇībhyāṃ tau pāṇḍavān abhisaṃśritau mahārathau samākhyātāv ubhau puruṣamāninau", "english": "These two great chariot-warriors, each with separate akshauhinis, had joined the Pāṇḍavas. Both are renowned and consider themselves great men."},
+{"ref": "5.56.4", "sanskrit": "akṣauhiṇyātha pāñcālyo daśabhis tanayair vṛtaḥ satyajitpramukhair vīrair dhṛṣṭadyumnapurogamaiḥ", "english": "Then the Pāñcāla king with an akshauhini, surrounded by his ten sons with Satyajit at their head, with Dhṛṣṭadyumna as their leader."},
+{"ref": "5.56.5", "sanskrit": "drupado vardhayan mānaṃ śikhaṇḍiparipālitaḥ upāyāt sarvasainyānāṃ praticchādya tadā vapuḥ", "english": "Drupada, enhancing his glory, protected by Śikhaṇḍī, advanced, at that time overwhelming the body of all the armies."},
+{"ref": "5.56.6", "sanskrit": "virāṭaḥ saha putrābhyāṃ śaṅkhenaivottareṇa ca sūryadattādibhir vīrair madirāśvapurogamaiḥ", "english": "Virāṭa together with his two sons Śaṅkha and Uttara, and with heroes led by Suryadatta, with Madirāśva at their head."},
+{"ref": "5.56.7", "sanskrit": "sahitaḥ pṛthivīpālo bhrātṛbhis tanayais tathā akṣauhiṇyaiva sainyasya vṛtaḥ pārthaṃ samāśritaḥ", "english": "That guardian of the earth, together with his brothers and sons, surrounded by a full akshauhini of soldiers, had joined Pārtha's side."},
+{"ref": "5.56.8", "sanskrit": "jārāsaṃdhir māgadhaś ca dhṛṣṭaketuś ca cedirāṭ pṛthak pṛthag anuprāptau pṛthag akṣauhiṇīvṛtau", "english": "Jarasandhi of Magadha and Dhṛṣṭaketu king of the Cedis had arrived separately, each surrounded by separate akshauhinis."},
+{"ref": "5.56.9", "sanskrit": "kekayā bhrātaraḥ pañca sarve lohitakadhvajāḥ akṣauhiṇīparivṛtāḥ pāṇḍavān abhisaṃśritāḥ", "english": "The five brothers of Kekaya, all bearing crimson banners, surrounded by an akshauhini, had joined the Pāṇḍavas."},
+{"ref": "5.56.10", "sanskrit": "etān etāvatas tatra yān apaśyaṃ samāgatān ye pāṇḍavārthe yotsyanti dhārtarāṣṭrasya vāhinīm", "english": "These and so many others I saw assembled there, who will fight the army of Dhṛtarāṣṭra's son on behalf of the Pāṇḍavas."},
+{"ref": "5.56.11", "sanskrit": "yo veda mānuṣaṃ vyūhaṃ daivaṃ gāndharvam āsuram sa tasya senāpramukhe dhṛṣṭadyumno mahāmanāḥ", "english": "He who knows the human battle-array, the divine, the gandharva, and the demonic — that great-minded Dhṛṣṭadyumna stands at the head of their army."},
+{"ref": "5.56.12", "sanskrit": "bhīṣmaḥ śāṃtanavo rājan bhāgaḥ kḷptaḥ śikhaṇḍinaḥ taṃ virāṭo 'nu saṃyātā saha matsyaiḥ prahāribhiḥ", "english": "Bhīṣma, son of Shantanu, O king, has been assigned as the portion of Śikhaṇḍī. Virāṭa with the Matsyas, who are fierce fighters, shall follow in that battle."},
+{"ref": "5.56.13", "sanskrit": "jyeṣṭhasya pāṇḍuputrasya bhāgo madrādhipo balī tau tu tatrābruvan ke cid viṣamau no matāv iti", "english": "The powerful lord of the Madras was assigned as the portion of the eldest son of Pāṇḍu. But some of them said there: \"The two of them seem unequal to us.\""},
+{"ref": "5.56.14", "sanskrit": "duryodhanaḥ sahasutaḥ sārdhaṃ bhrātṛśatena ca prācyāś ca dākṣiṇātyāś ca bhīmasenasya bhāgataḥ", "english": "Duryodhana with his hundred sons, along with his hundred brothers, and the eastern and southern kings — these were assigned as the portion of Bhīmasena."},
+{"ref": "5.56.15", "sanskrit": "arjunasya tu bhāgena karṇo vaikartano mataḥ aśvatthāmā vikarṇaś ca saindhavaś ca jayadrathaḥ", "english": "As Arjuna's appointed portion: Karṇa the son of the charioteer, Aśvatthāman, Vikarṇa, and Jayadratha the king of Sindhu."},
+{"ref": "5.56.16", "sanskrit": "aśakyāś caiva ye ke cit pṛthivyāṃ śūramāninaḥ sarvāṃs tān arjunaḥ pārthaḥ kalpayām āsa bhāgataḥ", "english": "And whoever on earth considers himself a hero and is difficult to overcome — all of them Arjuna, son of Pṛthā, has assigned as his own portion."},
+{"ref": "5.56.17", "sanskrit": "maheṣvāsā rājaputrā bhrātaraḥ pañca kekayāḥ kekayān eva bhāgena kṛtvā yotsyanti saṃyuge", "english": "The five brothers, princes of Kekaya, great bowmen, have designated the Kekayas as their own portion and will fight them in battle."},
+{"ref": "5.56.18", "sanskrit": "teṣām eva kṛto bhāgo mālavāḥ śālvakekayāḥ trigartānāṃ ca dvau mukhyau yau tau saṃśaptakāv iti", "english": "Their assigned portion also includes the Mālavas and the Śālva-Kekayas, and the two chief leaders of the Trigartas who are known as the sworn warriors."},
+{"ref": "5.56.19", "sanskrit": "duryodhanasutāḥ sarve tathā duḥśāsanasya ca saubhadreṇa kṛto bhāgo rājā caiva bṛhadbalaḥ", "english": "All the sons of Duryodhana, and likewise those of Duḥśāsana, and also king Bṛhadbala — these were assigned as the portion of Abhimanyu, son of Subhadrā."},
+{"ref": "5.56.20", "sanskrit": "draupadeyā maheṣvāsāḥ suvarṇavikṛtadhvajāḥ dhṛṣṭadyumnamukhā droṇam abhiyāsyanti bhārata", "english": "The sons of Draupadī, great bowmen bearing banners adorned with gold, led by Dhṛṣṭadyumna, will march against Droṇa, O Bhārata."},
+{"ref": "5.56.21", "sanskrit": "cekitānaḥ somadattaṃ dvairathe yoddhum icchati bhojaṃ tu kṛtavarmāṇaṃ yuyudhāno yuyutsati", "english": "Cekitāna desires to fight Somadatta in single-chariot combat. And Yuyudhāna desires to fight the Bhoja, Kṛtavarman."},
+{"ref": "5.56.22", "sanskrit": "sahadevas tu mādreyaḥ śūraḥ saṃkrandano yudhi svam aṃśaṃ kalpayām āsa śyālaṃ te subalātmajam", "english": "Sahadeva, son of Mādrī, a hero who makes enemies cry out in battle, assigned as his own portion your brother-in-law, the son of Subala."},
+{"ref": "5.56.23", "sanskrit": "ulūkaṃ cāpi kaitavyaṃ ye ca sārasvatā gaṇāḥ nakulaḥ kalpayām āsa bhāgaṃ mādravatīsutaḥ", "english": "Ulūka the son of the gambler, and the tribes of the Sārasvata region — Nakula, son of Mādravatī, assigned these as his portion."},
+{"ref": "5.56.24", "sanskrit": "ye cānye pārthivā rājan pratyudyāsyanti saṃyuge samāhvānena tāṃś cāpi pāṇḍuputrā akalpayan", "english": "Whatever other kings, O king, shall march forth in battle to face them — the sons of Pāṇḍu have by challenge assigned those as well."},
+{"ref": "5.56.25", "sanskrit": "evam eṣām anīkāni pravibhaktāni bhāgaśaḥ yat te kāryaṃ saputrasya kriyatāṃ tad akālikam", "english": "Thus their armies have been divided into portions. Whatever needs to be done regarding you and your sons, let it be done without delay."},
+{"ref": "5.56.26", "sanskrit": "dhṛtarāṣṭra uvāca na santi sarve putrā me mūḍhā durdyūtadevinaḥ yeṣāṃ yuddhaṃ balavatā bhīmena raṇamūrdhani", "english": "Dhṛtarāṣṭra said: All my sons are fools, addicted to crooked gambling — those whose battle with the mighty Bhīma will come at the forefront of the fight."},
+{"ref": "5.56.27", "sanskrit": "rājānaḥ pārthivāḥ sarve prokṣitāḥ kāladharmaṇā gāṇḍīvāgniṃ pravekṣyanti pataṅgā iva pāvakam", "english": "All the kings, all those rulers of earth, already sprinkled by the law of Time, will enter the fire of the Gāṇḍīva bow like moths entering a flame."},
+{"ref": "5.56.28", "sanskrit": "vidrutāṃ vāhinīṃ manye kṛtavairair mahātmabhiḥ tāṃ raṇe ke 'nuyāsyanti prabhagnāṃ pāṇḍavair yudhi", "english": "I believe the army will be scattered by those great-souled ones who have been made into enemies. Who will follow it in battle once it has been shattered by the Pāṇḍavas in war?"},
+{"ref": "5.56.29", "sanskrit": "sarve hy atirathāḥ śūrāḥ kīrtimantaḥ pratāpinaḥ sūryapāvakayos tulyās tejasā samitiṃjayāḥ", "english": "For they are all atirathas — great warriors, heroes, glorious, blazing with energy — equal in brilliance to the sun and fire, conquerors in battle."},
+{"ref": "5.56.30", "sanskrit": "yeṣāṃ yudhiṣṭhiro netā goptā ca madhusūdanaḥ yodhau ca pāṇḍavau vīrau savyasācivṛkodarau", "english": "Whose leader is Yudhiṣṭhira and whose protector is the slayer of Madhu, and whose warriors are the two heroic Pāṇḍavas Savyasācin and Vṛkodara."},
+{"ref": "5.56.31", "sanskrit": "nakulaḥ sahadevaś ca dhṛṣṭadyumnaś ca pārṣataḥ sātyakir drupadaś caiva dhṛṣṭadyumnasya cātmajaḥ", "english": "Nakula and Sahadeva, and Dhṛṣṭadyumna son of Pṛṣata, and Sātyaki, and Drupada, and the son of Dhṛṣṭadyumna."},
+{"ref": "5.56.32", "sanskrit": "uttamaujāś ca pāñcālyo yudhāmanyuś ca durjayaḥ śikhaṇḍī kṣatradevaś ca tathā vairāṭir uttaraḥ", "english": "And Uttamaujas the Pāñcāla, and the unconquerable Yudhāmanyu, and Śikhaṇḍī, and Kṣatradeva, and Uttara son of Virāṭa."},
+{"ref": "5.56.33", "sanskrit": "kāśayaś cedayaś caiva matsyāḥ sarve ca sṛñjayāḥ virāṭaputro babhrūś ca pāñcālāś ca prabhadrakāḥ", "english": "The Kāśis and the Cedis, all the Matsyas and all the Sṛñjayas, and Babhru son of Virāṭa, and the Pāñcālas and the Prabhadrakas."},
+{"ref": "5.56.34", "sanskrit": "yeṣām indro 'py akāmānāṃ na haret pṛthivīm imām vīrāṇāṃ raṇadhīrāṇāṃ ye bhindyuḥ parvatān api", "english": "From whom not even Indra could wrest this earth against their will — those heroes, steadfast in battle, who could cleave even mountains."},
+{"ref": "5.56.35", "sanskrit": "tān sarvān guṇasaṃpannān amanuṣyapratāpinaḥ krośato mama duṣputro yoddhum icchati saṃjaya", "english": "Against all these, endowed with virtues, blazing with superhuman energy, my wicked son, while I cry out, desires to fight, O Sañjaya."},
+{"ref": "5.56.36", "sanskrit": "duryodhana uvāca ubhau sva ekajātīyau tathobhau bhūmigocarau atha kasmāt pāṇḍavānām ekato manyase jayam", "english": "Duryodhana said: Both sides are of the same birth, and both move on the same earth. Why then do you consider victory to rest on the side of the Pāṇḍavas alone?"},
+{"ref": "5.56.37", "sanskrit": "pitāmahaṃ ca droṇaṃ ca kṛpaṃ karṇaṃ ca durjayam jayadrathaṃ somadattam aśvatthāmānam eva ca", "english": "The grandsire and Droṇa, and Kṛpa, and the unconquerable Karṇa, and Jayadratha, Somadatta, and Aśvatthāman —"},
+{"ref": "5.56.38", "sanskrit": "sucetaso maheṣvāsān indro 'pi sahito 'maraiḥ aśaktaḥ samare jetuṃ kiṃ punas tāta pāṇḍavāḥ", "english": "— wise-minded great bowmen whom even Indra together with the immortals is unable to conquer in battle — how then can the Pāṇḍavas, O father?"},
+{"ref": "5.56.39", "sanskrit": "sarvā ca pṛthivī sṛṣṭā madarthe tāta pāṇḍavān āryān dhṛtimataḥ śūrān agnikalpān prabādhitum", "english": "And all this earth has been created for my sake, O father, to crush those noble, resolute, heroic, fire-like Pāṇḍavas."},
+{"ref": "5.56.40", "sanskrit": "na māmakān pāṇḍavās te samarthāḥ prativīkṣitum parākrānto hy ahaṃ pāṇḍūn saputrān yoddhum āhave", "english": "The Pāṇḍavas are not capable of looking upon my forces. I am fully prepared to fight the sons of Pāṇḍu together with their sons in battle."},
+{"ref": "5.56.41", "sanskrit": "matpriyaṃ pārthivāḥ sarve ye cikīrṣanti bhārata te tān āvārayiṣyanti aiṇeyān iva tantunā", "english": "All the kings who desire to do what pleases me, O Bhārata, will bind them as with a thread, like black deer."},
+{"ref": "5.56.42", "sanskrit": "mahatā rathavaṃśena śarajālaiś ca māmakaiḥ abhidrutā bhaviṣyanti pāñcālāḥ pāṇḍavaiḥ saha", "english": "Attacked by my great forces of chariots and by my nets of arrows, the Pāñcālas together with the Pāṇḍavas will be overwhelmed."},
+{"ref": "5.56.43", "sanskrit": "dhṛtarāṣṭra uvāca unmatta iva me putro vilapaty eṣa saṃjaya na hi śakto yudhā jetuṃ dharmarājaṃ yudhiṣṭhiram", "english": "Dhṛtarāṣṭra said: My son raves like a madman, O Sañjaya. For he is not capable of conquering Dharmarāja Yudhiṣṭhira in battle."}
 ]

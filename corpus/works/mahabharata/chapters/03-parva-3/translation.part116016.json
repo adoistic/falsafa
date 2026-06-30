@@ -1,402 +1,82 @@
 [
-  {
-    "ref": "3.116.16",
-    "sanskrit": "mamedaṃ vacanāt tāta kṛtaṃ te karma duṣkaram vṛṇīṣva kāmān dharmajña yāvato vāñchase hṛdā",
-    "english": "This difficult deed has been done by you at my word, dear son. Now choose as many boons as your heart desires, O knower of dharma."
-  },
-  {
-    "ref": "3.116.17",
-    "sanskrit": "sa vavre mātur utthānam asmṛtiṃ ca vadhasya vai pāpena tena cāsparśaṃ bhrātṝṇāṃ prakṛtiṃ tathā",
-    "english": "He chose the revival of his mother, her forgetting of the killing, the freedom of his brothers from that sin's taint, and the restoration of their natural dispositions."
-  },
-  {
-    "ref": "3.116.18",
-    "sanskrit": "apratidvandvatāṃ yuddhe dīrgham āyuś ca bhārata dadau ca sarvān kāmāṃs tāñ jamadagnir mahātapāḥ",
-    "english": "Invincibility in battle and a long life — all these boons the great ascetic Jamadagni granted, O Bharata."
-  },
-  {
-    "ref": "3.116.19",
-    "sanskrit": "kadā cit tu tathaivāsya viniṣkrāntāḥ sutāḥ prabho athānūpapatir vīraḥ kārtavīryo 'bhyavartata",
-    "english": "Then one day, when his sons had gone out, the heroic king of the river-land, Kārtavīrya, came to that hermitage, O lord."
-  },
-  {
-    "ref": "3.116.20",
-    "sanskrit": "tam āśramapadaṃ prāptam ṛṣer bhāryā samarcayat sa yuddhamadasaṃmatto nābhyanandat tathārcanam",
-    "english": "The sage's wife duly honored the king when he arrived at the hermitage, but intoxicated with the pride of battle, he did not acknowledge that hospitality."
-  },
-  {
-    "ref": "3.116.21",
-    "sanskrit": "pramathya cāśramāt tasmād dhomadhenvās tadā balāt jahāra vatsaṃ krośantyā babhañja ca mahādrumān",
-    "english": "Forcibly overpowering the hermitage, he then seized the calf of the sacrificial cow by force even as she lowed in distress, and he broke the great trees."
-  },
-  {
-    "ref": "3.116.22",
-    "sanskrit": "āgatāya ca rāmāya tadācaṣṭa pitā svayam gāṃ ca rorūyatīṃ dṛṣṭvā kopo rāmaṃ samāviśat",
-    "english": "When Rāma returned, his father himself told him what had happened; and seeing the cow bellowing in grief, anger entered Rāma."
-  },
-  {
-    "ref": "3.116.23",
-    "sanskrit": "sa manyuvaśam āpannaḥ kārtavīryam upādravat tasyātha yudhi vikramya bhārgavaḥ paravīrahā",
-    "english": "Seized by wrath, he charged at Kārtavīrya; and in battle the Bhārgava, slayer of enemy heroes, displayed his valor."
-  },
-  {
-    "ref": "3.116.24",
-    "sanskrit": "ciccheda niśitair bhallair bāhūn parighasaṃnibhān sahasrasaṃmitān rājan pragṛhya ruciraṃ dhanuḥ",
-    "english": "Taking up his splendid bow, O king, he cut off Kārtavīrya's arms — a thousand of them, like iron clubs — with sharp broad-headed arrows."
-  },
-  {
-    "ref": "3.116.25",
-    "sanskrit": "arjunasyātha dāyādā rāmeṇa kṛtamanyavaḥ āśramasthaṃ vinā rāmaṃ jamadagnim upādravan",
-    "english": "Then the sons of Arjuna Kārtavīrya, enraged at what Rāma had done, attacked Jamadagni in his hermitage when Rāma was absent."
-  },
-  {
-    "ref": "3.116.26",
-    "sanskrit": "te taṃ jaghnur mahāvīryam ayudhyantaṃ tapasvinam asakṛd rāma rāmeti vikrośantam anāthavat",
-    "english": "They killed that mighty ascetic who would not fight, crying out again and again \"Rāma! Rāma!\" as if helpless and without a protector."
-  },
-  {
-    "ref": "3.116.27",
-    "sanskrit": "kārtavīryasya putrās tu jamadagniṃ yudhiṣṭhira ghātayitvā śarair jagmur yathāgatam ariṃdamāḥ",
-    "english": "The sons of Kārtavīrya, O Yudhiṣṭhira, after slaying Jamadagni with their arrows, departed the way they had come, O subduer of foes."
-  },
-  {
-    "ref": "3.116.28",
-    "sanskrit": "apakrānteṣu caiteṣu jamadagnau tathāgate samitpāṇir upāgacchad āśramaṃ bhṛgunandanaḥ",
-    "english": "After they had departed and Jamadagni lay thus fallen, the son of the Bhṛgu clan, with fuel-sticks in hand, returned to the hermitage."
-  },
-  {
-    "ref": "3.116.29",
-    "sanskrit": "sa dṛṣṭvā pitaraṃ vīras tathā mṛtyuvaśaṃ gatam anarhantaṃ tathābhūtaṃ vilalāpa suduḥkhitaḥ",
-    "english": "Seeing his father the hero had fallen thus under the power of death — he who deserved no such fate — he lamented in deep grief."
-  },
-  {
-    "ref": "3.117.1",
-    "sanskrit": "rāma uvāca mamāparādhāt taiḥ kṣudrair hatas tvaṃ tāta bāliśaiḥ kārtavīryasya dāyādair vane mṛga iveṣubhiḥ",
-    "english": "Rāma said: Through my fault you have been killed, dear father, by those petty fools, the sons of Kārtavīrya, in the forest like a deer by arrows."
-  },
-  {
-    "ref": "3.117.2",
-    "sanskrit": "dharmajñasya kathaṃ tāta vartamānasya satpathe mṛtyur evaṃvidho yuktaḥ sarvabhūteṣv anāgasaḥ",
-    "english": "How is such a death fitting for one who knows dharma and walks the righteous path, O father — one who has never wronged any living being?"
-  },
-  {
-    "ref": "3.117.3",
-    "sanskrit": "kiṃ nu tair na kṛtaṃ pāpaṃ yair bhavāṃs tapasi sthitaḥ ayudhyamāno vṛddhaḥ san hataḥ śaraśataiḥ śitaiḥ",
-    "english": "What sin have those men not committed, by whom you — established in austerity, an old man who would not fight — were slain with hundreds of sharp arrows?"
-  },
-  {
-    "ref": "3.117.4",
-    "sanskrit": "kiṃ nu te tatra vakṣyanti saciveṣu suhṛtsu ca ayudhyamānaṃ dharmajñam ekaṃ hatvānapatrapāḥ",
-    "english": "What shall those shameless ones say to their counselors and friends, having slain a single man who knew dharma and would not fight?"
-  },
-  {
-    "ref": "3.117.5",
-    "sanskrit": "akṛtavraṇa uvāca vilapyaivaṃ sa karuṇaṃ bahu nānāvidhaṃ nṛpa pretakāryāṇi sarvāṇi pituś cakre mahātapāḥ",
-    "english": "Akṛtavraṇa said: Having lamented thus in grief in many various ways, O king, that great ascetic performed all the funeral rites for his father."
-  },
-  {
-    "ref": "3.117.6",
-    "sanskrit": "dadāha pitaraṃ cāgnau rāmaḥ parapuraṃjayaḥ pratijajñe vadhaṃ cāpi sarvakṣatrasya bhārata",
-    "english": "Rāma, the conqueror of enemy citadels, burned his father on the funeral pyre and vowed to exterminate the entire Kṣatriya order, O Bharata."
-  },
-  {
-    "ref": "3.117.7",
-    "sanskrit": "saṃkruddho 'tibalaḥ śūraḥ śastram ādāya vīryavān jaghnivān kārtavīryasya sutān eko 'ntakopamaḥ",
-    "english": "In fierce anger, that exceedingly mighty hero, taking up his weapon, single-handedly slew the sons of Kārtavīrya, like Death himself."
-  },
-  {
-    "ref": "3.117.8",
-    "sanskrit": "teṣāṃ cānugatā ye ca kṣatriyāḥ kṣatriyarṣabha tāṃś ca sarvān avāmṛdnād rāmaḥ praharatāṃ varaḥ",
-    "english": "And those Kṣatriyas who were their followers — Rāma, best among warriors, crushed them all, O bull among Kṣatriyas."
-  },
-  {
-    "ref": "3.117.9",
-    "sanskrit": "triḥsaptakṛtvaḥ pṛthivīṃ kṛtvā niḥkṣatriyāṃ prabhuḥ samantapañcake pañca cakāra rudhirahradān",
-    "english": "Having cleared the earth of Kṣatriyas twenty-one times, the lord made five lakes of blood at Samantapañcaka."
-  },
-  {
-    "ref": "3.117.10",
-    "sanskrit": "sa teṣu tarpayām āsa pitṝn bhṛgukulodvahaḥ sākṣād dadarśa carcīkaṃ sa ca rāmaṃ nyavārayat",
-    "english": "With those lakes of blood he propitiated his ancestors; the upholder of the Bhṛgu clan saw Richika in person, and Richika restrained Rāma."
-  },
-  {
-    "ref": "3.117.11",
-    "sanskrit": "tato yajñena mahatā jāmadagnyaḥ pratāpavān tarpayām āsa devendram ṛtvigbhyaś ca mahīṃ dadau",
-    "english": "Then the illustrious son of Jamadagni, through a great sacrifice, propitiated the lord of the gods, and gave the earth to the officiating priests."
-  },
-  {
-    "ref": "3.117.12",
-    "sanskrit": "vedīṃ cāpy adadad dhaimīṃ kaśyapāya mahātmane daśavyāmāyatāṃ kṛtvā navotsedhāṃ viśāṃ pate",
-    "english": "He also gave to the great-souled Kaśyapa a golden sacrificial altar, ten fathoms in length and nine in height, O lord of the people."
-  },
-  {
-    "ref": "3.117.13",
-    "sanskrit": "tāṃ kaśyapasyānumate brāhmaṇāḥ khaṇḍaśas tadā vyabhajaṃs tena te rājan prakhyātāḥ khāṇḍavāyanāḥ",
-    "english": "With Kaśyapa's consent those Brahmins then divided it into pieces; hence, O king, they became renowned as the Khandavayanas."
-  },
-  {
-    "ref": "3.117.14",
-    "sanskrit": "sa pradāya mahīṃ tasmai kaśyapāya mahātmane asmin mahendre śailendre vasaty amitavikramaḥ",
-    "english": "Having given the earth to that great-souled Kaśyapa, Rāma of immeasurable valor dwells on this chief of mountains, Mahendra."
-  },
-  {
-    "ref": "3.117.15",
-    "sanskrit": "evaṃ vairam abhūt tasya kṣatriyair lokavāsibhiḥ pṛthivī cāpi vijitā rāmeṇāmitatejasā",
-    "english": "Thus arose his enmity with the Kṣatriyas who dwell in the world, and the earth was conquered by Rāma of immeasurable splendor."
-  },
-  {
-    "ref": "3.117.16",
-    "sanskrit": "vaiśaṃpāyana uvāca tataś caturdaśīṃ rāmaḥ samayena mahāmanāḥ darśayām āsa tān viprān dharmarājaṃ ca sānujam",
-    "english": "Vaiśaṃpāyana said: Then at the appointed time on the fourteenth day, the great-souled Rāma appeared before those Brahmins and the king of dharma together with his brothers."
-  },
-  {
-    "ref": "3.117.17",
-    "sanskrit": "sa tam ānarca rājendro bhrātṛbhiḥ sahitaḥ prabhuḥ dvijānāṃ ca parāṃ pūjāṃ cakre nṛpatisattamaḥ",
-    "english": "That lord, best of kings, honored him together with his brothers; and the foremost of kings paid the highest homage to the twice-born."
-  },
-  {
-    "ref": "3.117.18",
-    "sanskrit": "arcayitvā jāmadagnyaṃ pūjitas tena cābhibhūḥ mahendra uṣya tāṃ rātriṃ prayayau dakṣiṇāmukhaḥ",
-    "english": "After honoring the son of Jamadagni and being honored by him in return, the invincible one spent that night on Mahendra and then departed facing south."
-  },
-  {
-    "ref": "3.118.1",
-    "sanskrit": "vaiśaṃpāyana uvāca gacchan sa tīrthāni mahānubhāvaḥ; puṇyāni ramyāṇi dadarśa rājā sarvāṇi viprair upaśobhitāni; kva cit kva cid bhārata sāgarasya",
-    "english": "Vaiśaṃpāyana said: Traveling onward, the great and mighty king visited the sacred and lovely tirthas of the ocean here and there, all beautified by Brahmins, O Bharata."
-  },
-  {
-    "ref": "3.118.2",
-    "sanskrit": "sa vṛttavāṃs teṣu kṛtābhiṣekaḥ; sahānujaḥ pārthivaputrapautraḥ samudragāṃ puṇyatamāṃ praśastāṃ; jagāma pārikṣita pāṇḍuputraḥ",
-    "english": "Having bathed and performed the prescribed rites there, the son of Pāṇḍu — heir of kings, accompanied by his brothers — went to the most sacred and celebrated river flowing to the sea, O descendant of Parīkṣit."
-  },
-  {
-    "ref": "3.118.3",
-    "sanskrit": "tatrāpi cāplutya mahānubhāvaḥ; saṃtarpayām āsa pitṝn surāṃś ca dvijātimukhyeṣu dhanaṃ visṛjya; godāvariṃ sāgaragām agacchat",
-    "english": "Having bathed there also, that great and mighty one propitiated the ancestors and gods, distributed wealth to the foremost among the twice-born, and went on to the Godāvarī flowing to the sea."
-  },
-  {
-    "ref": "3.118.4",
-    "sanskrit": "tato vipāpmā draviḍeṣu rājan; samudram āsādya ca lokapuṇyam agastyatīrthaṃ ca pavitrapuṇyaṃ; nārītīrthāny atha vīro dadarśa",
-    "english": "Then that pure one, O king, in the Dravida country, reaching the ocean sacred to the world, visited the pure and holy tirtha of Agastya and then the hero visited the tirthas of Nari."
-  },
-  {
-    "ref": "3.118.5",
-    "sanskrit": "tatrārjunasyāgryadhanurdharasya; niśamya tat karma parair asahyam saṃpūjyamānaḥ paramarṣisaṃghaiḥ; parāṃ mudaṃ pāṇḍusutaḥ sa lebhe",
-    "english": "There, hearing of the deed of Arjuna — the foremost archer — that was unendurable for enemies, and honored by hosts of great sages, the son of Pāṇḍu was filled with great joy."
-  },
-  {
-    "ref": "3.118.6",
-    "sanskrit": "sa teṣu tīrtheṣv abhiṣiktagātraḥ; kṛṣṇāsahāyaḥ sahito 'nujaiś ca saṃpūjayan vikramam arjunasya; reme mahīpālapatiḥ pṛthivyām",
-    "english": "Having bathed at those tirthas, his body purified, accompanied by Kṛṣṇa and his younger brothers, and extolling the valor of Arjuna, the lord of earth's kings rejoiced upon the earth."
-  },
-  {
-    "ref": "3.118.7",
-    "sanskrit": "tataḥ sahasrāṇi gavāṃ pradāya; tīrtheṣu teṣv ambudharottamasya hṛṣṭaḥ saha bhrātṛbhir arjunasya; saṃkīrtayām āsa gavāṃ pradānam",
-    "english": "Then, having given thousands of cows at those tirthas of the finest ocean, delighted together with his brothers, he celebrated the gifting of cows in honor of Arjuna."
-  },
-  {
-    "ref": "3.118.8",
-    "sanskrit": "sa tāni tīrthāni ca sāgarasya; puṇyāni cānyāni bahūni rājan krameṇa gacchan paripūrṇakāmaḥ; śūrpārakaṃ puṇyatamaṃ dadarśa",
-    "english": "He, his desires fully fulfilled, visiting in order those sacred tirthas of the ocean and many other holy places, O king, came to Śūrpāraka, most holy of all."
-  },
-  {
-    "ref": "3.118.9",
-    "sanskrit": "tatrodadheḥ kaṃ cid atītya deśaṃ; khyātaṃ pṛthivyāṃ vanam āsasāda taptaṃ surair yatra tapaḥ purastād; iṣṭaṃ tathā puṇyatamair narendraiḥ",
-    "english": "There, passing through a certain region of the ocean, he reached a forest renowned throughout the earth, where gods had formerly performed austerities and the most virtuous of kings had performed sacrifices."
-  },
-  {
-    "ref": "3.118.10",
-    "sanskrit": "sa tatra tām agryadhanurdharasya; vedīṃ dadarśāyatapīnabāhuḥ ṛcīkaputrasya tapasvisaṃghaiḥ; samāvṛtāṃ puṇyakṛd arcanīyām",
-    "english": "There that long-armed, meritorious king saw the altar of the foremost archer, the son of Richika, surrounded by hosts of ascetics and worthy of worship."
-  },
-  {
-    "ref": "3.118.11",
-    "sanskrit": "tato vasūnāṃ vasudhādhipaḥ sa; marudgaṇānāṃ ca tathāśvinoś ca vaivasvatādityadhaneśvarāṇām; indrasya viṣṇoḥ savitur vibhoś ca",
-    "english": "Then that lord of the earth made offerings to the Vasus, the Marut-hosts, the Aśvins, Vivasvat, Āditya, the lord of wealth, Indra, Viṣṇu, Savitar, and the Vibhu."
-  },
-  {
-    "ref": "3.118.12",
-    "sanskrit": "bhagasya candrasya divākarasya; pater apāṃ sādhyagaṇasya caiva dhātuḥ pitṝṇāṃ ca tathā mahātmā; rudrasya rājan sagaṇasya caiva",
-    "english": "To Bhaga, the moon, the sun, the lord of waters, the host of Sādhyas, Dhātar, the ancestors, the great-souled Rudra together with his hosts, O king —"
-  },
-  {
-    "ref": "3.118.13",
-    "sanskrit": "sarasvatyāḥ siddhagaṇasya caiva; pūṣṇaś ca ye cāpy amarās tathānye puṇyāni cāpy āyatanāni teṣāṃ; dadarśa rājā sumanoharāṇi",
-    "english": "To Sarasvatī, the host of Siddhas, Pūṣan, and all other immortals — the king saw their sacred and beautiful shrines."
-  },
-  {
-    "ref": "3.118.14",
-    "sanskrit": "teṣūpavāsān vividhān upoṣya; dattvā ca ratnāni mahādhanāni tīrtheṣu sarveṣu pariplutāṅgaḥ; punaḥ sa śūrpārakam ājagāma",
-    "english": "Having observed various fasts there, and given gems and great wealth at all the tirthas, his body immersed in the sacred waters, he returned again to Śūrpāraka."
-  },
-  {
-    "ref": "3.118.15",
-    "sanskrit": "sa tena tīrthena tu sāgarasya; punaḥ prayātaḥ saha sodarīyaiḥ dvijaiḥ pṛthivyāṃ prathitaṃ mahadbhis; tīrthaṃ prabhāsaṃ samupājagāma",
-    "english": "Departing from that tirtha of the ocean with his brothers and the twice-born, accompanied by great men, he reached the tirtha of Prabhāsa, celebrated throughout the earth."
-  },
-  {
-    "ref": "3.118.16",
-    "sanskrit": "tatrābhiṣiktaḥ pṛthulohitākṣaḥ; sahānujair devagaṇān pitṝṃś ca saṃtarpayām āsa tathaiva kṛṣṇā; te cāpi viprāḥ saha lomaśena",
-    "english": "There, bathed and with wide red eyes, he propitiated the hosts of gods and the ancestors together with his brothers, and so too did Kṛṣṇa; and the Brahmins as well with Lomaśa."
-  },
-  {
-    "ref": "3.118.17",
-    "sanskrit": "sa dvādaśāhaṃ jalavāyubhakṣaḥ; kurvan kṣapāhaḥsu tadābhiṣekam samantato 'gnīn upadīpayitvā; tepe tapo dharmabhṛtāṃ variṣṭhaḥ",
-    "english": "For twelve days, subsisting only on water and air, performing the ritual bath each night and day, kindling fires on all sides, he practiced austerities — the foremost of those who uphold dharma."
-  },
-  {
-    "ref": "3.118.18",
-    "sanskrit": "tam ugram āsthāya tapaś carantaṃ; śuśrāva rāmaś ca janārdanaś ca tau sarvavṛṣṇipravarau sasainyau; yudhiṣṭhiraṃ jagmatur ājamīḍham",
-    "english": "Hearing of him performing this fierce austerity, both Rāma and Janārdana — the foremost of all the Vṛṣṇis — came with their armies to Yudhiṣṭhira, the Ajamidha."
-  },
-  {
-    "ref": "3.118.19",
-    "sanskrit": "te vṛṣṇayaḥ pāṇḍusutān samīkṣya; bhūmau śayānān maladigdhagātrān anarhatīṃ draupadīṃ cāpi dṛṣṭvā; suduḥkhitāś cukruśur ārtanādam",
-    "english": "The Vṛṣṇis, seeing the sons of Pāṇḍu lying on the ground, their bodies smeared with dirt, and seeing Draupadī who deserved no such fate, cried out in deep grief and anguish."
-  },
-  {
-    "ref": "3.118.20",
-    "sanskrit": "tataḥ sa rāmaṃ ca janārdanaṃ ca; kārṣṇiṃ ca sāmbaṃ ca śineś ca pautram anyāṃś ca vṛṣṇīn upagamya pūjāṃ; cakre yathādharmam adīnasattvaḥ",
-    "english": "Then, approaching Rāma and Janārdana, Pradyumna and Samba, the grandson of Śini, and the other Vṛṣṇis, that undaunted one honored them all as prescribed by dharma."
-  },
-  {
-    "ref": "3.118.21",
-    "sanskrit": "te cāpi sarvān pratipūjya pārthāṃs; taiḥ satkṛtāḥ pāṇḍusutais tathaiva yudhiṣṭhiraṃ saṃparivārya rājann; upāviśan devagaṇā yathendram",
-    "english": "And they in turn honored all the Pārthas; honored by the sons of Pāṇḍu, they took their seats surrounding Yudhiṣṭhira as the host of gods surrounds Indra, O king."
-  },
-  {
-    "ref": "3.118.22",
-    "sanskrit": "teṣāṃ sa sarvaṃ caritaṃ pareṣāṃ; vane ca vāsaṃ paramapratītaḥ astrārtham indrasya gataṃ ca pārthaṃ; kṛṣṇe śaśaṃsāmararājaputram",
-    "english": "With great confidence he told them all that had been done to them by their enemies, the forest exile, and Pārtha's journey to Indra's realm for weapons — he told all this to Kṛṣṇa, son of the king of immortals."
-  },
-  {
-    "ref": "3.118.23",
-    "sanskrit": "śrutvā tu te tasya vacaḥ pratītās; tāṃś cāpi dṛṣṭvā sukṛśān atīva netrodbhavaṃ saṃmumucur daśārhā; duḥkhārtijaṃ vāri mahānubhāvāḥ",
-    "english": "Hearing his words and with confidence, yet seeing them all exceedingly emaciated, those great and mighty Dāśārhas shed tears welling from their eyes, born of grief and pain."
-  },
-  {
-    "ref": "3.119.1",
-    "sanskrit": "janamejaya uvāca prabhāsatīrthaṃ saṃprāpya vṛṣṇayaḥ pāṇḍavās tathā kim akurvan kathāś caiṣāṃ kās tatrāsaṃs tapodhana",
-    "english": "Janamejaya said: When the Vṛṣṇis and Pāṇḍavas had come together at the tirtha of Prabhāsa, what did they do? And what conversations took place there, O storehouse of austerities?"
-  },
-  {
-    "ref": "3.119.2",
-    "sanskrit": "te hi sarve mahātmānaḥ sarvaśāstraviśāradāḥ vṛṣṇayaḥ pāṇḍavāś caiva suhṛdaś ca parasparam",
-    "english": "For all of them were great-souled, all were versed in every branch of learning — the Vṛṣṇis and the Pāṇḍavas alike, and they were friends to one another."
-  },
-  {
-    "ref": "3.119.3",
-    "sanskrit": "vaiśaṃpāyana uvāca prabhāsatīrthaṃ saṃprāpya puṇyaṃ tīrthaṃ mahodadheḥ vṛṣṇayaḥ pāṇḍavān vīrān parivāryopatasthire",
-    "english": "Vaiśaṃpāyana said: Having reached the sacred tirtha of Prabhāsa on the great ocean, the Vṛṣṇis surrounded and attended upon the heroic Pāṇḍavas."
-  },
-  {
-    "ref": "3.119.4",
-    "sanskrit": "tato gokṣīrakundendumṛṇālarajataprabhaḥ vanamālī halī rāmo babhāṣe puṣkarekṣaṇam",
-    "english": "Then Rāma, wearing a forest garland, bearing the plough, radiant as cow's milk, jasmine, the moon, a lotus stalk, or silver, spoke to the lotus-eyed one."
-  },
-  {
-    "ref": "3.119.5",
-    "sanskrit": "na kṛṣṇa dharmaś carito bhavāya; jantor adharmaś ca parābhavāya yudhiṣṭhiro yatra jaṭī mahātmā; vanāśrayaḥ kliśyati cīravāsāḥ",
-    "english": "\"It seems, O Kṛṣṇa, that dharma practiced does not bring prosperity to a being, nor does adharma bring defeat — for where the great-souled Yudhiṣṭhira, wearing matted locks, dwelling in the forest, wearing bark, suffers so."
-  },
-  {
-    "ref": "3.119.6",
-    "sanskrit": "duryodhanaś cāpi mahīṃ praśāsti; na cāsya bhūmir vivaraṃ dadāti dharmād adharmaś carito garīyān; itīva manyeta naro 'lpabuddhiḥ",
-    "english": "While Duryodhana rules the earth and the earth does not open to swallow him — one might think, if of little understanding, that adharma practiced is weightier than dharma."
-  },
-  {
-    "ref": "3.119.7",
-    "sanskrit": "duryodhane cāpi vivardhamāne; yudhiṣṭhire cāsukha āttarājye kiṃ nv adya kartavyam iti prajābhiḥ; śaṅkā mithaḥ saṃjanitā narāṇām",
-    "english": "With Duryodhana prospering and Yudhiṣṭhira in misery, stripped of his kingdom, doubt has arisen among men — what indeed is to be done now? — whispering among themselves."
-  },
-  {
-    "ref": "3.119.8",
-    "sanskrit": "ayaṃ hi dharmaprabhavo narendro; dharme rataḥ satyadhṛtiḥ pradātā caled dhi rājyāc ca sukhāc ca pārtho; dharmād apetaś ca kathaṃ vivardhet",
-    "english": "For this king born of dharma, devoted to dharma, firm in truth, a generous giver — how could Pārtha be displaced from his kingdom and happiness, and one who has strayed from dharma prosper?"
-  },
-  {
-    "ref": "3.119.9",
-    "sanskrit": "kathaṃ nu bhīṣmaś ca kṛpaś ca vipro; droṇaś ca rājā ca kulasya vṛddhaḥ pravrājya pārthān sukham āpnuvanti; dhik pāpabuddhīn bharatapradhānān",
-    "english": "How can Bhīṣma, Kṛpa the brahmin, Droṇa, and the king — the elders of the clan — having exiled the Pārthas, enjoy happiness? Shame on those evil-minded leaders of the Bharatas!"
-  },
-  {
-    "ref": "3.119.10",
-    "sanskrit": "kiṃ nāma vakṣyaty avanipradhānaḥ; pitṝn samāgamya paratra pāpaḥ putreṣu samyak caritaṃ mayeti; putrān apāpān avaropya rājyāt",
-    "english": "What will that chief of earth's kings — that sinner — say when he meets his ancestors in the next world: 'I have dealt well with my sons' — he who deposed innocent sons from the kingdom?"
-  },
-  {
-    "ref": "3.119.11",
-    "sanskrit": "nāsau dhiyā saṃpratipaśyati sma; kiṃ nāma kṛtvāham acakṣur evam jātaḥ pṛthivyām iti pārthiveṣu; pravrājya kaunteyam athāpi rājyāt",
-    "english": "He cannot see even now with his understanding: 'What have I done, born thus blind among kings upon earth?' — having exiled the son of Kuntī even from the kingdom."
-  },
-  {
-    "ref": "3.119.12",
-    "sanskrit": "nūnaṃ samṛddhān pitṛlokabhūmau; cāmīkarābhān kṣitijān praphullān vicitravīryasya sutaḥ saputraḥ; kṛtvā nṛśaṃsaṃ bata paśyati sma",
-    "english": "Surely the son of Vichitraveerya together with his sons sees, alas, those who were flourishing on the earth of the ancestral realm, golden as the horizon at sunrise, reduced to misery — having perpetrated this cruelty."
-  },
-  {
-    "ref": "3.119.13",
-    "sanskrit": "vyūḍhottarāṃsān pṛthulohitākṣān; nemān sma pṛcchan sa śṛṇoti nūnam prasthāpayad yat sa vanaṃ hy aśaṅko; yudhiṣṭhiraṃ sānujam āttaśastram",
-    "english": "With high broad shoulders and wide red eyes — he, without asking or heeding these men who were armed, fearlessly sent Yudhiṣṭhira with his brothers, weapon-bearing, to the forest."
-  },
-  {
-    "ref": "3.119.14",
-    "sanskrit": "yo 'yaṃ pareṣāṃ pṛtanāṃ samṛddhāṃ; nirāyudho dīrghabhujo nihanyāt śrutvaiva śabdaṃ hi vṛkodarasya; muñcanti sainyāni śakṛt samūtram",
-    "english": "He who would slay well-arrayed enemy armies unarmed, that long-armed one — at the mere sound of Vṛkodara's roar the armies void their bowels and urine."
-  },
-  {
-    "ref": "3.119.15",
-    "sanskrit": "sa kṣutpipāsādhvakṛśas tarasvī; sametya nānāyudhabāṇapāṇiḥ vane smaran vāsam imaṃ sughoraṃ; śeṣaṃ na kuryād iti niścitaṃ me",
-    "english": "That swift one, emaciated by hunger and thirst and travel, arming himself with weapons and arrows of every kind, remembering this most dreadful forest exile — he will leave none remaining: this is my certain conviction."
-  },
-  {
-    "ref": "3.119.16",
-    "sanskrit": "na hy asya vīryeṇa balena kaś cit; samaḥ pṛthivyāṃ bhavitā nareṣu śītoṣṇavātātapakarśitāṅgo; na śeṣam ājāv asuhṛtsu kuryāt",
-    "english": "For none on earth among men can equal him in valor and strength; his body hardened by cold, heat, wind, and sun — he will leave none of his enemies remaining on the battlefield."
-  },
-  {
-    "ref": "3.119.17",
-    "sanskrit": "prācyāṃ nṛpān ekarathena jitvā; vṛkodaraḥ sānucarān raṇeṣu svastyāgamad yo 'tirathas tarasvī; so 'yaṃ vane kliśyati cīravāsāḥ",
-    "english": "Vṛkodara, who alone with his chariot and retinue conquered the eastern kings in battle and returned in triumph — that foremost of charioteers, that swift hero — now suffers in the forest wearing bark garments."
-  },
-  {
-    "ref": "3.119.18",
-    "sanskrit": "yo dantakūre vyajayan nṛdevān; samāgatān dākṣiṇātyān mahīpān taṃ paśyatemaṃ sahadevam adya; tapasvinaṃ tāpasaveṣarūpam",
-    "english": "He who conquered at Dantakura the godlike kings and the assembled southern monarchs — look now at that Sahadeva, clad as an ascetic, in the garb of a forest dweller."
-  },
-  {
-    "ref": "3.119.19",
-    "sanskrit": "yaḥ pārthivān ekarathena vīro; diśaṃ pratīcīṃ prati yuddhaśauṇḍaḥ so 'yaṃ vane mūlaphalena jīvañ; jaṭī caraty adya malācitāṅgaḥ",
-    "english": "He who, that heroic lover of battle, single-handedly with his chariot conquered kings of the western quarter — now that one wanders in the forest, living on roots and fruits, matted-haired, his body smeared with dirt."
-  },
-  {
-    "ref": "3.119.20",
-    "sanskrit": "satre samṛddhe 'ti rathasya rājño; vedītalād utpatitā sutā yā seyaṃ vane vāsam imaṃ suduḥkhaṃ; kathaṃ sahaty adya satī sukhārhā",
-    "english": "She who sprang from the altar floor of the great sacrifice of that foremost of chariot-warriors, the king — how does she, faithful and deserving of happiness, endure this most painful forest dwelling now?"
-  },
-  {
-    "ref": "3.119.21",
-    "sanskrit": "trivargamukhyasya samīraṇasya; deveśvarasyāpy atha vāśvinoś ca eṣāṃ surāṇāṃ tanayāḥ kathaṃ nu; vane caranty alpasukhāḥ sukhārhāḥ",
-    "english": "Sons of the foremost of the three — the wind god, the lord of gods Indra, and the Aśvins — sons of these gods, deserving of happiness, how do they wander in the forest with so little joy?"
-  },
-  {
-    "ref": "3.119.22",
-    "sanskrit": "jite hi dharmasya sute sabhārye; sabhrātṛke sānucare niraste duryodhane cāpi vivardhamāne; kathaṃ na sīdaty avaniḥ saśailā",
-    "english": "When the son of Dharma together with his wife, brothers, and followers has been thus vanquished and expelled, and Duryodhana prospers — how does the earth with its mountains not sink?"
-  },
-  {
-    "ref": "3.120.1",
-    "sanskrit": "sātyakir uvāca na rāma kālaḥ paridevanāya; yad uttaraṃ tatra tad eva sarve samācarāmo hy anatītakālaṃ; yudhiṣṭhiro yady api nāha kiṃ cit",
-    "english": "Sātyaki said: Now is not the time for lamentation, O Rāma. Let us all take that very action that is called for — while time has not yet passed — even if Yudhiṣṭhira says nothing."
-  },
-  {
-    "ref": "3.120.2",
-    "sanskrit": "ye nāthavanto hi bhavanti loke; te nātmanā karma samārabhante teṣāṃ tu kāryeṣu bhavanti nāthāḥ; śaibyādayo rāma yathā yayāteḥ",
-    "english": "Those who have protectors in this world do not undertake action by themselves; in their affairs their protectors act — as Śaibya and others were to Yayāti, O Rāma."
-  },
-  {
-    "ref": "3.120.3",
-    "sanskrit": "yeṣāṃ tathā rāma samārabhante; kāryāṇi nāthāḥ svamatena loke te nāthavantaḥ puruṣapravīrā; nānāthavat kṛcchram avāpnuvanti",
-    "english": "Those heroic men whose protectors thus undertake their affairs in the world according to their own judgment — they have true protectors and do not fall into distress as if they had none."
-  }
+{"ref": "3.116.16", "sanskrit": "mamedaṃ vacanāt tāta kṛtaṃ te karma duṣkaram vṛṇīṣva kāmān dharmajña yāvato vāñchase hṛdā", "english": "This difficult deed has been done by you at my word, dear son. Now choose as many boons as your heart desires, O knower of dharma."},
+{"ref": "3.116.17", "sanskrit": "sa vavre mātur utthānam asmṛtiṃ ca vadhasya vai pāpena tena cāsparśaṃ bhrātṝṇāṃ prakṛtiṃ tathā", "english": "He chose the revival of his mother, her forgetting of the killing, the freedom of his brothers from that sin's taint, and the restoration of their natural dispositions."},
+{"ref": "3.116.18", "sanskrit": "apratidvandvatāṃ yuddhe dīrgham āyuś ca bhārata dadau ca sarvān kāmāṃs tāñ jamadagnir mahātapāḥ", "english": "Invincibility in battle and a long life — all these boons the great ascetic Jamadagni granted, O Bhārata."},
+{"ref": "3.116.19", "sanskrit": "kadā cit tu tathaivāsya viniṣkrāntāḥ sutāḥ prabho athānūpapatir vīraḥ kārtavīryo 'bhyavartata", "english": "Then one day, when his sons had gone out, the heroic king of the river-land, Kārtavīrya, came to that hermitage, O lord."},
+{"ref": "3.116.20", "sanskrit": "tam āśramapadaṃ prāptam ṛṣer bhāryā samarcayat sa yuddhamadasaṃmatto nābhyanandat tathārcanam", "english": "The sage's wife duly honored the king when he arrived at the hermitage, but intoxicated with the pride of battle, he did not acknowledge that hospitality."},
+{"ref": "3.116.21", "sanskrit": "pramathya cāśramāt tasmād dhomadhenvās tadā balāt jahāra vatsaṃ krośantyā babhañja ca mahādrumān", "english": "Forcibly overpowering the hermitage, he then seized the calf of the sacrificial cow by force even as she lowed in distress, and he broke the great trees."},
+{"ref": "3.116.22", "sanskrit": "āgatāya ca rāmāya tadācaṣṭa pitā svayam gāṃ ca rorūyatīṃ dṛṣṭvā kopo rāmaṃ samāviśat", "english": "When Rāma returned, his father himself told him what had happened; and seeing the cow bellowing in grief, anger entered Rāma."},
+{"ref": "3.116.23", "sanskrit": "sa manyuvaśam āpannaḥ kārtavīryam upādravat tasyātha yudhi vikramya bhārgavaḥ paravīrahā", "english": "Seized by wrath, he charged at Kārtavīrya; and in battle the Bhārgava, slayer of enemy heroes, displayed his valor."},
+{"ref": "3.116.24", "sanskrit": "ciccheda niśitair bhallair bāhūn parighasaṃnibhān sahasrasaṃmitān rājan pragṛhya ruciraṃ dhanuḥ", "english": "Taking up his splendid bow, O king, he cut off Kārtavīrya's arms — a thousand of them, like iron clubs — with sharp broad-headed arrows."},
+{"ref": "3.116.25", "sanskrit": "arjunasyātha dāyādā rāmeṇa kṛtamanyavaḥ āśramasthaṃ vinā rāmaṃ jamadagnim upādravan", "english": "Then the sons of Arjuna Kārtavīrya, enraged at what Rāma had done, attacked Jamadagni in his hermitage when Rāma was absent."},
+{"ref": "3.116.26", "sanskrit": "te taṃ jaghnur mahāvīryam ayudhyantaṃ tapasvinam asakṛd rāma rāmeti vikrośantam anāthavat", "english": "They killed that mighty ascetic who would not fight, crying out again and again \"Rāma! Rāma!\" as if helpless and without a protector."},
+{"ref": "3.116.27", "sanskrit": "kārtavīryasya putrās tu jamadagniṃ yudhiṣṭhira ghātayitvā śarair jagmur yathāgatam ariṃdamāḥ", "english": "The sons of Kārtavīrya, O Yudhiṣṭhira, after slaying Jamadagni with their arrows, departed the way they had come, O subduer of foes."},
+{"ref": "3.116.28", "sanskrit": "apakrānteṣu caiteṣu jamadagnau tathāgate samitpāṇir upāgacchad āśramaṃ bhṛgunandanaḥ", "english": "After they had departed and Jamadagni lay thus fallen, the son of the Bhṛgu clan, with fuel-sticks in hand, returned to the hermitage."},
+{"ref": "3.116.29", "sanskrit": "sa dṛṣṭvā pitaraṃ vīras tathā mṛtyuvaśaṃ gatam anarhantaṃ tathābhūtaṃ vilalāpa suduḥkhitaḥ", "english": "Seeing his father the hero had fallen thus under the power of death — he who deserved no such fate — he lamented in deep grief."},
+{"ref": "3.117.1", "sanskrit": "rāma uvāca mamāparādhāt taiḥ kṣudrair hatas tvaṃ tāta bāliśaiḥ kārtavīryasya dāyādair vane mṛga iveṣubhiḥ", "english": "Rāma said: Through my fault you have been killed, dear father, by those petty fools, the sons of Kārtavīrya, in the forest like a deer by arrows."},
+{"ref": "3.117.2", "sanskrit": "dharmajñasya kathaṃ tāta vartamānasya satpathe mṛtyur evaṃvidho yuktaḥ sarvabhūteṣv anāgasaḥ", "english": "How is such a death fitting for one who knows dharma and walks the righteous path, O father — one who has never wronged any living being?"},
+{"ref": "3.117.3", "sanskrit": "kiṃ nu tair na kṛtaṃ pāpaṃ yair bhavāṃs tapasi sthitaḥ ayudhyamāno vṛddhaḥ san hataḥ śaraśataiḥ śitaiḥ", "english": "What sin have those men not committed, by whom you — established in austerity, an old man who would not fight — were slain with hundreds of sharp arrows?"},
+{"ref": "3.117.4", "sanskrit": "kiṃ nu te tatra vakṣyanti saciveṣu suhṛtsu ca ayudhyamānaṃ dharmajñam ekaṃ hatvānapatrapāḥ", "english": "What shall those shameless ones say to their counselors and friends, having slain a single man who knew dharma and would not fight?"},
+{"ref": "3.117.5", "sanskrit": "akṛtavraṇa uvāca vilapyaivaṃ sa karuṇaṃ bahu nānāvidhaṃ nṛpa pretakāryāṇi sarvāṇi pituś cakre mahātapāḥ", "english": "Akṛtavraṇa said: Having lamented thus in grief in many various ways, O king, that great ascetic performed all the funeral rites for his father."},
+{"ref": "3.117.6", "sanskrit": "dadāha pitaraṃ cāgnau rāmaḥ parapuraṃjayaḥ pratijajñe vadhaṃ cāpi sarvakṣatrasya bhārata", "english": "Rāma, the conqueror of enemy citadels, burned his father on the funeral pyre and vowed to exterminate the entire Kṣatriya order, O Bhārata."},
+{"ref": "3.117.7", "sanskrit": "saṃkruddho 'tibalaḥ śūraḥ śastram ādāya vīryavān jaghnivān kārtavīryasya sutān eko 'ntakopamaḥ", "english": "In fierce anger, that exceedingly mighty hero, taking up his weapon, single-handedly slew the sons of Kārtavīrya, like Death himself."},
+{"ref": "3.117.8", "sanskrit": "teṣāṃ cānugatā ye ca kṣatriyāḥ kṣatriyarṣabha tāṃś ca sarvān avāmṛdnād rāmaḥ praharatāṃ varaḥ", "english": "And those Kṣatriyas who were their followers — Rāma, best among warriors, crushed them all, O bull among Kṣatriyas."},
+{"ref": "3.117.9", "sanskrit": "triḥsaptakṛtvaḥ pṛthivīṃ kṛtvā niḥkṣatriyāṃ prabhuḥ samantapañcake pañca cakāra rudhirahradān", "english": "Having cleared the earth of Kṣatriyas twenty-one times, the lord made five lakes of blood at Samantapañcaka."},
+{"ref": "3.117.10", "sanskrit": "sa teṣu tarpayām āsa pitṝn bhṛgukulodvahaḥ sākṣād dadarśa carcīkaṃ sa ca rāmaṃ nyavārayat", "english": "With those lakes of blood he propitiated his ancestors; the upholder of the Bhṛgu clan saw Richika in person, and Richika restrained Rāma."},
+{"ref": "3.117.11", "sanskrit": "tato yajñena mahatā jāmadagnyaḥ pratāpavān tarpayām āsa devendram ṛtvigbhyaś ca mahīṃ dadau", "english": "Then the illustrious son of Jamadagni, through a great sacrifice, propitiated the lord of the gods, and gave the earth to the officiating priests."},
+{"ref": "3.117.12", "sanskrit": "vedīṃ cāpy adadad dhaimīṃ kaśyapāya mahātmane daśavyāmāyatāṃ kṛtvā navotsedhāṃ viśāṃ pate", "english": "He also gave to the great-souled Kaśyapa a golden sacrificial altar, ten fathoms in length and nine in height, O lord of the people."},
+{"ref": "3.117.13", "sanskrit": "tāṃ kaśyapasyānumate brāhmaṇāḥ khaṇḍaśas tadā vyabhajaṃs tena te rājan prakhyātāḥ khāṇḍavāyanāḥ", "english": "With Kaśyapa's consent those Brahmins then divided it into pieces; hence, O king, they became renowned as the Khandavayanas."},
+{"ref": "3.117.14", "sanskrit": "sa pradāya mahīṃ tasmai kaśyapāya mahātmane asmin mahendre śailendre vasaty amitavikramaḥ", "english": "Having given the earth to that great-souled Kaśyapa, Rāma of immeasurable valor dwells on this chief of mountains, Mahendra."},
+{"ref": "3.117.15", "sanskrit": "evaṃ vairam abhūt tasya kṣatriyair lokavāsibhiḥ pṛthivī cāpi vijitā rāmeṇāmitatejasā", "english": "Thus arose his enmity with the Kṣatriyas who dwell in the world, and the earth was conquered by Rāma of immeasurable splendor."},
+{"ref": "3.117.16", "sanskrit": "vaiśaṃpāyana uvāca tataś caturdaśīṃ rāmaḥ samayena mahāmanāḥ darśayām āsa tān viprān dharmarājaṃ ca sānujam", "english": "Vaiśaṃpāyana said: Then at the appointed time on the fourteenth day, the great-souled Rāma appeared before those Brahmins and the king of dharma together with his brothers."},
+{"ref": "3.117.17", "sanskrit": "sa tam ānarca rājendro bhrātṛbhiḥ sahitaḥ prabhuḥ dvijānāṃ ca parāṃ pūjāṃ cakre nṛpatisattamaḥ", "english": "That lord, best of kings, honored him together with his brothers; and the foremost of kings paid the highest homage to the twice-born."},
+{"ref": "3.117.18", "sanskrit": "arcayitvā jāmadagnyaṃ pūjitas tena cābhibhūḥ mahendra uṣya tāṃ rātriṃ prayayau dakṣiṇāmukhaḥ", "english": "After honoring the son of Jamadagni and being honored by him in return, the invincible one spent that night on Mahendra and then departed facing south."},
+{"ref": "3.118.1", "sanskrit": "vaiśaṃpāyana uvāca gacchan sa tīrthāni mahānubhāvaḥ; puṇyāni ramyāṇi dadarśa rājā sarvāṇi viprair upaśobhitāni; kva cit kva cid bhārata sāgarasya", "english": "Vaiśaṃpāyana said: Traveling onward, the great and mighty king visited the sacred and lovely tirthas of the ocean here and there, all beautified by Brahmins, O Bhārata."},
+{"ref": "3.118.2", "sanskrit": "sa vṛttavāṃs teṣu kṛtābhiṣekaḥ; sahānujaḥ pārthivaputrapautraḥ samudragāṃ puṇyatamāṃ praśastāṃ; jagāma pārikṣita pāṇḍuputraḥ", "english": "Having bathed and performed the prescribed rites there, the son of Pāṇḍu — heir of kings, accompanied by his brothers — went to the most sacred and celebrated river flowing to the sea, O descendant of Parīkṣit."},
+{"ref": "3.118.3", "sanskrit": "tatrāpi cāplutya mahānubhāvaḥ; saṃtarpayām āsa pitṝn surāṃś ca dvijātimukhyeṣu dhanaṃ visṛjya; godāvariṃ sāgaragām agacchat", "english": "Having bathed there also, that great and mighty one propitiated the ancestors and gods, distributed wealth to the foremost among the twice-born, and went on to the Godāvarī flowing to the sea."},
+{"ref": "3.118.4", "sanskrit": "tato vipāpmā draviḍeṣu rājan; samudram āsādya ca lokapuṇyam agastyatīrthaṃ ca pavitrapuṇyaṃ; nārītīrthāny atha vīro dadarśa", "english": "Then that pure one, O king, in the Dravida country, reaching the ocean sacred to the world, visited the pure and holy tirtha of Agastya and then the hero visited the tirthas of Nari."},
+{"ref": "3.118.5", "sanskrit": "tatrārjunasyāgryadhanurdharasya; niśamya tat karma parair asahyam saṃpūjyamānaḥ paramarṣisaṃghaiḥ; parāṃ mudaṃ pāṇḍusutaḥ sa lebhe", "english": "There, hearing of the deed of Arjuna — the foremost archer — that was unendurable for enemies, and honored by hosts of great sages, the son of Pāṇḍu was filled with great joy."},
+{"ref": "3.118.6", "sanskrit": "sa teṣu tīrtheṣv abhiṣiktagātraḥ; kṛṣṇāsahāyaḥ sahito 'nujaiś ca saṃpūjayan vikramam arjunasya; reme mahīpālapatiḥ pṛthivyām", "english": "Having bathed at those tirthas, his body purified, accompanied by Kṛṣṇa and his younger brothers, and extolling the valor of Arjuna, the lord of earth's kings rejoiced upon the earth."},
+{"ref": "3.118.7", "sanskrit": "tataḥ sahasrāṇi gavāṃ pradāya; tīrtheṣu teṣv ambudharottamasya hṛṣṭaḥ saha bhrātṛbhir arjunasya; saṃkīrtayām āsa gavāṃ pradānam", "english": "Then, having given thousands of cows at those tirthas of the finest ocean, delighted together with his brothers, he celebrated the gifting of cows in honor of Arjuna."},
+{"ref": "3.118.8", "sanskrit": "sa tāni tīrthāni ca sāgarasya; puṇyāni cānyāni bahūni rājan krameṇa gacchan paripūrṇakāmaḥ; śūrpārakaṃ puṇyatamaṃ dadarśa", "english": "He, his desires fully fulfilled, visiting in order those sacred tirthas of the ocean and many other holy places, O king, came to Śūrpāraka, most holy of all."},
+{"ref": "3.118.9", "sanskrit": "tatrodadheḥ kaṃ cid atītya deśaṃ; khyātaṃ pṛthivyāṃ vanam āsasāda taptaṃ surair yatra tapaḥ purastād; iṣṭaṃ tathā puṇyatamair narendraiḥ", "english": "There, passing through a certain region of the ocean, he reached a forest renowned throughout the earth, where gods had formerly performed austerities and the most virtuous of kings had performed sacrifices."},
+{"ref": "3.118.10", "sanskrit": "sa tatra tām agryadhanurdharasya; vedīṃ dadarśāyatapīnabāhuḥ ṛcīkaputrasya tapasvisaṃghaiḥ; samāvṛtāṃ puṇyakṛd arcanīyām", "english": "There that long-armed, meritorious king saw the altar of the foremost archer, the son of Richika, surrounded by hosts of ascetics and worthy of worship."},
+{"ref": "3.118.11", "sanskrit": "tato vasūnāṃ vasudhādhipaḥ sa; marudgaṇānāṃ ca tathāśvinoś ca vaivasvatādityadhaneśvarāṇām; indrasya viṣṇoḥ savitur vibhoś ca", "english": "Then that lord of the earth made offerings to the Vasus, the Marut-hosts, the Aśvins, Vivasvat, Āditya, the lord of wealth, Indra, Viṣṇu, Savitar, and the Vibhu."},
+{"ref": "3.118.12", "sanskrit": "bhagasya candrasya divākarasya; pater apāṃ sādhyagaṇasya caiva dhātuḥ pitṝṇāṃ ca tathā mahātmā; rudrasya rājan sagaṇasya caiva", "english": "To Bhaga, the moon, the sun, the lord of waters, the host of Sādhyas, Dhātar, the ancestors, the great-souled Rudra together with his hosts, O king —"},
+{"ref": "3.118.13", "sanskrit": "sarasvatyāḥ siddhagaṇasya caiva; pūṣṇaś ca ye cāpy amarās tathānye puṇyāni cāpy āyatanāni teṣāṃ; dadarśa rājā sumanoharāṇi", "english": "To Sarasvatī, the host of Siddhas, Pūṣan, and all other immortals — the king saw their sacred and beautiful shrines."},
+{"ref": "3.118.14", "sanskrit": "teṣūpavāsān vividhān upoṣya; dattvā ca ratnāni mahādhanāni tīrtheṣu sarveṣu pariplutāṅgaḥ; punaḥ sa śūrpārakam ājagāma", "english": "Having observed various fasts there, and given gems and great wealth at all the tirthas, his body immersed in the sacred waters, he returned again to Śūrpāraka."},
+{"ref": "3.118.15", "sanskrit": "sa tena tīrthena tu sāgarasya; punaḥ prayātaḥ saha sodarīyaiḥ dvijaiḥ pṛthivyāṃ prathitaṃ mahadbhis; tīrthaṃ prabhāsaṃ samupājagāma", "english": "Departing from that tirtha of the ocean with his brothers and the twice-born, accompanied by great men, he reached the tirtha of Prabhāsa, celebrated throughout the earth."},
+{"ref": "3.118.16", "sanskrit": "tatrābhiṣiktaḥ pṛthulohitākṣaḥ; sahānujair devagaṇān pitṝṃś ca saṃtarpayām āsa tathaiva kṛṣṇā; te cāpi viprāḥ saha lomaśena", "english": "There, bathed and with wide red eyes, he propitiated the hosts of gods and the ancestors together with his brothers, and so too did Kṛṣṇa; and the Brahmins as well with Lomaśa."},
+{"ref": "3.118.17", "sanskrit": "sa dvādaśāhaṃ jalavāyubhakṣaḥ; kurvan kṣapāhaḥsu tadābhiṣekam samantato 'gnīn upadīpayitvā; tepe tapo dharmabhṛtāṃ variṣṭhaḥ", "english": "For twelve days, subsisting only on water and air, performing the ritual bath each night and day, kindling fires on all sides, he practiced austerities — the foremost of those who uphold dharma."},
+{"ref": "3.118.18", "sanskrit": "tam ugram āsthāya tapaś carantaṃ; śuśrāva rāmaś ca janārdanaś ca tau sarvavṛṣṇipravarau sasainyau; yudhiṣṭhiraṃ jagmatur ājamīḍham", "english": "Hearing of him performing this fierce austerity, both Rāma and Janārdana — the foremost of all the Vṛṣṇis — came with their armies to Yudhiṣṭhira, the Ajamidha."},
+{"ref": "3.118.19", "sanskrit": "te vṛṣṇayaḥ pāṇḍusutān samīkṣya; bhūmau śayānān maladigdhagātrān anarhatīṃ draupadīṃ cāpi dṛṣṭvā; suduḥkhitāś cukruśur ārtanādam", "english": "The Vṛṣṇis, seeing the sons of Pāṇḍu lying on the ground, their bodies smeared with dirt, and seeing Draupadī who deserved no such fate, cried out in deep grief and anguish."},
+{"ref": "3.118.20", "sanskrit": "tataḥ sa rāmaṃ ca janārdanaṃ ca; kārṣṇiṃ ca sāmbaṃ ca śineś ca pautram anyāṃś ca vṛṣṇīn upagamya pūjāṃ; cakre yathādharmam adīnasattvaḥ", "english": "Then, approaching Rāma and Janārdana, Pradyumna and Samba, the grandson of Śini, and the other Vṛṣṇis, that undaunted one honored them all as prescribed by dharma."},
+{"ref": "3.118.21", "sanskrit": "te cāpi sarvān pratipūjya pārthāṃs; taiḥ satkṛtāḥ pāṇḍusutais tathaiva yudhiṣṭhiraṃ saṃparivārya rājann; upāviśan devagaṇā yathendram", "english": "And they in turn honored all the Pārthas; honored by the sons of Pāṇḍu, they took their seats surrounding Yudhiṣṭhira as the host of gods surrounds Indra, O king."},
+{"ref": "3.118.22", "sanskrit": "teṣāṃ sa sarvaṃ caritaṃ pareṣāṃ; vane ca vāsaṃ paramapratītaḥ astrārtham indrasya gataṃ ca pārthaṃ; kṛṣṇe śaśaṃsāmararājaputram", "english": "With great confidence he told them all that had been done to them by their enemies, the forest exile, and Pārtha's journey to Indra's realm for weapons — he told all this to Kṛṣṇa, son of the king of immortals."},
+{"ref": "3.118.23", "sanskrit": "śrutvā tu te tasya vacaḥ pratītās; tāṃś cāpi dṛṣṭvā sukṛśān atīva netrodbhavaṃ saṃmumucur daśārhā; duḥkhārtijaṃ vāri mahānubhāvāḥ", "english": "Hearing his words and with confidence, yet seeing them all exceedingly emaciated, those great and mighty Dāśārhas shed tears welling from their eyes, born of grief and pain."},
+{"ref": "3.119.1", "sanskrit": "janamejaya uvāca prabhāsatīrthaṃ saṃprāpya vṛṣṇayaḥ pāṇḍavās tathā kim akurvan kathāś caiṣāṃ kās tatrāsaṃs tapodhana", "english": "Janamejaya said: When the Vṛṣṇis and Pāṇḍavas had come together at the tirtha of Prabhāsa, what did they do? And what conversations took place there, O storehouse of austerities?"},
+{"ref": "3.119.2", "sanskrit": "te hi sarve mahātmānaḥ sarvaśāstraviśāradāḥ vṛṣṇayaḥ pāṇḍavāś caiva suhṛdaś ca parasparam", "english": "For all of them were great-souled, all were versed in every branch of learning — the Vṛṣṇis and the Pāṇḍavas alike, and they were friends to one another."},
+{"ref": "3.119.3", "sanskrit": "vaiśaṃpāyana uvāca prabhāsatīrthaṃ saṃprāpya puṇyaṃ tīrthaṃ mahodadheḥ vṛṣṇayaḥ pāṇḍavān vīrān parivāryopatasthire", "english": "Vaiśaṃpāyana said: Having reached the sacred tirtha of Prabhāsa on the great ocean, the Vṛṣṇis surrounded and attended upon the heroic Pāṇḍavas."},
+{"ref": "3.119.4", "sanskrit": "tato gokṣīrakundendumṛṇālarajataprabhaḥ vanamālī halī rāmo babhāṣe puṣkarekṣaṇam", "english": "Then Rāma, wearing a forest garland, bearing the plough, radiant as cow's milk, jasmine, the moon, a lotus stalk, or silver, spoke to the lotus-eyed one."},
+{"ref": "3.119.5", "sanskrit": "na kṛṣṇa dharmaś carito bhavāya; jantor adharmaś ca parābhavāya yudhiṣṭhiro yatra jaṭī mahātmā; vanāśrayaḥ kliśyati cīravāsāḥ", "english": "\"It seems, O Kṛṣṇa, that dharma practiced does not bring prosperity to a being, nor does adharma bring defeat — for where the great-souled Yudhiṣṭhira, wearing matted locks, dwelling in the forest, wearing bark, suffers so."},
+{"ref": "3.119.6", "sanskrit": "duryodhanaś cāpi mahīṃ praśāsti; na cāsya bhūmir vivaraṃ dadāti dharmād adharmaś carito garīyān; itīva manyeta naro 'lpabuddhiḥ", "english": "While Duryodhana rules the earth and the earth does not open to swallow him — one might think, if of little understanding, that adharma practiced is weightier than dharma."},
+{"ref": "3.119.7", "sanskrit": "duryodhane cāpi vivardhamāne; yudhiṣṭhire cāsukha āttarājye kiṃ nv adya kartavyam iti prajābhiḥ; śaṅkā mithaḥ saṃjanitā narāṇām", "english": "With Duryodhana prospering and Yudhiṣṭhira in misery, stripped of his kingdom, doubt has arisen among men — what indeed is to be done now? — whispering among themselves."},
+{"ref": "3.119.8", "sanskrit": "ayaṃ hi dharmaprabhavo narendro; dharme rataḥ satyadhṛtiḥ pradātā caled dhi rājyāc ca sukhāc ca pārtho; dharmād apetaś ca kathaṃ vivardhet", "english": "For this king born of dharma, devoted to dharma, firm in truth, a generous giver — how could Pārtha be displaced from his kingdom and happiness, and one who has strayed from dharma prosper?"},
+{"ref": "3.119.9", "sanskrit": "kathaṃ nu bhīṣmaś ca kṛpaś ca vipro; droṇaś ca rājā ca kulasya vṛddhaḥ pravrājya pārthān sukham āpnuvanti; dhik pāpabuddhīn bharatapradhānān", "english": "How can Bhīṣma, Kṛpa the brahmin, Droṇa, and the king — the elders of the clan — having exiled the Pārthas, enjoy happiness? Shame on those evil-minded leaders of the Bhāratas!"},
+{"ref": "3.119.10", "sanskrit": "kiṃ nāma vakṣyaty avanipradhānaḥ; pitṝn samāgamya paratra pāpaḥ putreṣu samyak caritaṃ mayeti; putrān apāpān avaropya rājyāt", "english": "What will that chief of earth's kings — that sinner — say when he meets his ancestors in the next world: 'I have dealt well with my sons' — he who deposed innocent sons from the kingdom?"},
+{"ref": "3.119.11", "sanskrit": "nāsau dhiyā saṃpratipaśyati sma; kiṃ nāma kṛtvāham acakṣur evam jātaḥ pṛthivyām iti pārthiveṣu; pravrājya kaunteyam athāpi rājyāt", "english": "He cannot see even now with his understanding: 'What have I done, born thus blind among kings upon earth?' — having exiled the son of Kuntī even from the kingdom."},
+{"ref": "3.119.12", "sanskrit": "nūnaṃ samṛddhān pitṛlokabhūmau; cāmīkarābhān kṣitijān praphullān vicitravīryasya sutaḥ saputraḥ; kṛtvā nṛśaṃsaṃ bata paśyati sma", "english": "Surely the son of Vichitraveerya together with his sons sees, alas, those who were flourishing on the earth of the ancestral realm, golden as the horizon at sunrise, reduced to misery — having perpetrated this cruelty."},
+{"ref": "3.119.13", "sanskrit": "vyūḍhottarāṃsān pṛthulohitākṣān; nemān sma pṛcchan sa śṛṇoti nūnam prasthāpayad yat sa vanaṃ hy aśaṅko; yudhiṣṭhiraṃ sānujam āttaśastram", "english": "With high broad shoulders and wide red eyes — he, without asking or heeding these men who were armed, fearlessly sent Yudhiṣṭhira with his brothers, weapon-bearing, to the forest."},
+{"ref": "3.119.14", "sanskrit": "yo 'yaṃ pareṣāṃ pṛtanāṃ samṛddhāṃ; nirāyudho dīrghabhujo nihanyāt śrutvaiva śabdaṃ hi vṛkodarasya; muñcanti sainyāni śakṛt samūtram", "english": "He who would slay well-arrayed enemy armies unarmed, that long-armed one — at the mere sound of Vṛkodara's roar the armies void their bowels and urine."},
+{"ref": "3.119.15", "sanskrit": "sa kṣutpipāsādhvakṛśas tarasvī; sametya nānāyudhabāṇapāṇiḥ vane smaran vāsam imaṃ sughoraṃ; śeṣaṃ na kuryād iti niścitaṃ me", "english": "That swift one, emaciated by hunger and thirst and travel, arming himself with weapons and arrows of every kind, remembering this most dreadful forest exile — he will leave none remaining: this is my certain conviction."},
+{"ref": "3.119.16", "sanskrit": "na hy asya vīryeṇa balena kaś cit; samaḥ pṛthivyāṃ bhavitā nareṣu śītoṣṇavātātapakarśitāṅgo; na śeṣam ājāv asuhṛtsu kuryāt", "english": "For none on earth among men can equal him in valor and strength; his body hardened by cold, heat, wind, and sun — he will leave none of his enemies remaining on the battlefield."},
+{"ref": "3.119.17", "sanskrit": "prācyāṃ nṛpān ekarathena jitvā; vṛkodaraḥ sānucarān raṇeṣu svastyāgamad yo 'tirathas tarasvī; so 'yaṃ vane kliśyati cīravāsāḥ", "english": "Vṛkodara, who alone with his chariot and retinue conquered the eastern kings in battle and returned in triumph — that foremost of charioteers, that swift hero — now suffers in the forest wearing bark garments."},
+{"ref": "3.119.18", "sanskrit": "yo dantakūre vyajayan nṛdevān; samāgatān dākṣiṇātyān mahīpān taṃ paśyatemaṃ sahadevam adya; tapasvinaṃ tāpasaveṣarūpam", "english": "He who conquered at Dantakura the godlike kings and the assembled southern monarchs — look now at that Sahadeva, clad as an ascetic, in the garb of a forest dweller."},
+{"ref": "3.119.19", "sanskrit": "yaḥ pārthivān ekarathena vīro; diśaṃ pratīcīṃ prati yuddhaśauṇḍaḥ so 'yaṃ vane mūlaphalena jīvañ; jaṭī caraty adya malācitāṅgaḥ", "english": "He who, that heroic lover of battle, single-handedly with his chariot conquered kings of the western quarter — now that one wanders in the forest, living on roots and fruits, matted-haired, his body smeared with dirt."},
+{"ref": "3.119.20", "sanskrit": "satre samṛddhe 'ti rathasya rājño; vedītalād utpatitā sutā yā seyaṃ vane vāsam imaṃ suduḥkhaṃ; kathaṃ sahaty adya satī sukhārhā", "english": "She who sprang from the altar floor of the great sacrifice of that foremost of chariot-warriors, the king — how does she, faithful and deserving of happiness, endure this most painful forest dwelling now?"},
+{"ref": "3.119.21", "sanskrit": "trivargamukhyasya samīraṇasya; deveśvarasyāpy atha vāśvinoś ca eṣāṃ surāṇāṃ tanayāḥ kathaṃ nu; vane caranty alpasukhāḥ sukhārhāḥ", "english": "Sons of the foremost of the three — the wind god, the lord of gods Indra, and the Aśvins — sons of these gods, deserving of happiness, how do they wander in the forest with so little joy?"},
+{"ref": "3.119.22", "sanskrit": "jite hi dharmasya sute sabhārye; sabhrātṛke sānucare niraste duryodhane cāpi vivardhamāne; kathaṃ na sīdaty avaniḥ saśailā", "english": "When the son of Dharma together with his wife, brothers, and followers has been thus vanquished and expelled, and Duryodhana prospers — how does the earth with its mountains not sink?"},
+{"ref": "3.120.1", "sanskrit": "sātyakir uvāca na rāma kālaḥ paridevanāya; yad uttaraṃ tatra tad eva sarve samācarāmo hy anatītakālaṃ; yudhiṣṭhiro yady api nāha kiṃ cit", "english": "Sātyaki said: Now is not the time for lamentation, O Rāma. Let us all take that very action that is called for — while time has not yet passed — even if Yudhiṣṭhira says nothing."},
+{"ref": "3.120.2", "sanskrit": "ye nāthavanto hi bhavanti loke; te nātmanā karma samārabhante teṣāṃ tu kāryeṣu bhavanti nāthāḥ; śaibyādayo rāma yathā yayāteḥ", "english": "Those who have protectors in this world do not undertake action by themselves; in their affairs their protectors act — as Śaibya and others were to Yayāti, O Rāma."},
+{"ref": "3.120.3", "sanskrit": "yeṣāṃ tathā rāma samārabhante; kāryāṇi nāthāḥ svamatena loke te nāthavantaḥ puruṣapravīrā; nānāthavat kṛcchram avāpnuvanti", "english": "Those heroic men whose protectors thus undertake their affairs in the world according to their own judgment — they have true protectors and do not fall into distress as if they had none."}
 ]

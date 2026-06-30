@@ -1,402 +1,82 @@
 [
-  {
-    "ref": "3.113.17",
-    "sanskrit": "saṃprāpya satkāram atīva tebhyaḥ; provāca kasya prathitāḥ stha saumyāḥ ūcus tatas te 'bhyupagamya sarve; dhanaṃ tavedaṃ vihitaṃ sutasya",
-    "english": "Having received exceptional honour from them, he asked: 'Whose celebrated ones are you, O gentle ones?' Then all of them approached and said: 'This wealth has been appointed for your son.'"
-  },
-  {
-    "ref": "3.113.18",
-    "sanskrit": "deśe tu deśe tu sa pūjyamānas; tāṃś caiva śṛṇvan madhurān pralāpān praśāntabhūyiṣṭharajāḥ prahṛṣṭaḥ; samāsasādāṅgapatiṃ purastham",
-    "english": "Honoured in every region, listening to those sweet words, with his passion now largely appeased and his heart gladdened, he approached the lord of Aṅga who stood before him."
-  },
-  {
-    "ref": "3.113.19",
-    "sanskrit": "saṃpūjitas tena nararṣabheṇa; dadarśa putraṃ divi devaṃ yathendram śāntāṃ snuṣāṃ caiva dadarśa tatra; saudāminīm uccarantīṃ yathaiva",
-    "english": "Duly honoured by that bull among men, he saw his son radiant as a god in heaven like Indra; and there too he saw his daughter-in-law Shanta, rising up like a flash of lightning."
-  },
-  {
-    "ref": "3.113.20",
-    "sanskrit": "grāmāṃś ca ghoṣāṃś ca sutaṃ ca dṛṣṭvā; śāntāṃ ca śānto 'sya paraḥ sa kopaḥ cakāra tasmai paramaṃ prasādaṃ; vibhāṇḍako bhūmipater narendra",
-    "english": "Having seen the villages, the settlements, his son, and Shanta, his great anger was pacified; Vibhāṇḍaka bestowed his highest blessing on that lord of the earth, O king of kings."
-  },
-  {
-    "ref": "3.113.21",
-    "sanskrit": "sa tatra nikṣipya sutaṃ maharṣir; uvāca sūryāgnisamaprabhāvam jāte putre vanam evāvrajethā; rājñaḥ priyāṇy asya sarvāṇi kṛtvā",
-    "english": "There the great seer, having entrusted his son of solar and fiery brilliance, spoke: 'When a son is born, you should return to the forest, having done all that is pleasing to this king.'"
-  },
-  {
-    "ref": "3.113.22",
-    "sanskrit": "sa tadvacaḥ kṛtavān ṛśyaśṛṅgo; yayau ca yatrāsya pitā babhūva śāntā cainaṃ paryacarad yathāvat; khe rohiṇī somam ivānukūlā",
-    "english": "Rishyashringa did as his father instructed and went to where his father had been; and Shanta attended upon him faithfully, as Rohiṇī in the sky attends upon the moon in harmony."
-  },
-  {
-    "ref": "3.113.23",
-    "sanskrit": "arundhatī vā subhagā vasiṣṭhaṃ; lopāmudrā vāpi yathā hy agastyam nalasya vā damayantī yathābhūd; yathā śacī vajradharasya caiva",
-    "english": "As the blessed Arundhati served Vasiṣṭha, or as Lopamudra served Agastya, or as Damayantī was to Nala, or as Śacī to the wielder of the thunderbolt—"
-  },
-  {
-    "ref": "3.113.24",
-    "sanskrit": "nāḍāyanī cendrasenā yathaiva; vaśyā nityaṃ mudgalasyājamīḍha tathā śāntā ṛśyaśṛṅgaṃ vanasthaṃ; prītyā yuktā paryacaran narendra",
-    "english": "And as Nadayani Indrasena was ever devoted to Mudgala, O descendant of Ajamidha — so Shanta, filled with love, waited upon Rishyashringa dwelling in the forest, O king."
-  },
-  {
-    "ref": "3.113.25",
-    "sanskrit": "tasyāśramaḥ puṇya eṣo vibhāti; mahāhradaṃ śobhayan puṇyakīrteḥ atra snātaḥ kṛtakṛtyo viśuddhas; tīrthāny anyāny anusaṃyāhi rājan",
-    "english": "This holy hermitage of his, renowned for its sanctity, shines forth, adorning the great lake. Having bathed here, with all duties fulfilled and purified, go on, O king, to visit the other sacred tirthas."
-  },
-  {
-    "ref": "3.114.1",
-    "sanskrit": "vaiśaṃpāyana uvāca tataḥ prayātaḥ kauśikyāḥ pāṇḍavo janamejaya ānupūrvyeṇa sarvāṇi jagāmāyatanāny uta",
-    "english": "Vaiśaṃpāyana said: Then the Pāṇḍava departed from the Kauśikī, O Janamejaya, and visited all the sacred shrines in due order."
-  },
-  {
-    "ref": "3.114.2",
-    "sanskrit": "sa sāgaraṃ samāsādya gaṅgāyāḥ saṃgame nṛpa nadīśatānāṃ pañcānāṃ madhye cakre samāplavam",
-    "english": "Reaching the ocean at the confluence of the Gaṅgā, O king, he bathed together with hundreds of rivers at the meeting of five streams."
-  },
-  {
-    "ref": "3.114.3",
-    "sanskrit": "tataḥ samudratīreṇa jagāma vasudhādhipaḥ bhrātṛbhiḥ sahito vīraḥ kaliṅgān prati bhārata",
-    "english": "Then along the seashore that lord of the earth, the hero, accompanied by his brothers, proceeded toward the Kaliṅgas, O Bharata."
-  },
-  {
-    "ref": "3.114.4",
-    "sanskrit": "lomaśa uvāca ete kaliṅgāḥ kaunteya yatra vaitaraṇī nadī yatrāyajata dharmo 'pi devāñ śaraṇam etya vai",
-    "english": "Lomaśa said: These are the Kaliṅgas, O son of Kuntī, where the river Vaitaraṇī flows — where even Dharma himself sought refuge with the gods and performed sacrifice."
-  },
-  {
-    "ref": "3.114.5",
-    "sanskrit": "ṛṣibhiḥ samupāyuktaṃ yajñiyaṃ giriśobhitam uttaraṃ tīram etad dhi satataṃ dvijasevitam",
-    "english": "This northern bank, adorned with mountains, consecrated for sacrifice, enriched by sages, is always frequented by the twice-born."
-  },
-  {
-    "ref": "3.114.6",
-    "sanskrit": "samena devayānena pathā svargam upeyuṣaḥ atra vai ṛṣayo 'nye 'pi purā kratubhir ījire",
-    "english": "Those who have attained heaven by the straight Devayana path — here too other sages in former times performed sacrifices with great rites."
-  },
-  {
-    "ref": "3.114.7",
-    "sanskrit": "atraiva rudro rājendra paśum ādattavān makhe rudraḥ paśuṃ mānavendra bhāgo 'yam iti cābravīt",
-    "english": "Right here, O king of kings, Rudra seized the sacrificial animal at the sacrifice; Rudra said, O lord of men: 'This is my share.'"
-  },
-  {
-    "ref": "3.114.8",
-    "sanskrit": "hṛte paśau tadā devās tam ūcur bharatarṣabha mā parasvam abhidrogdhā mā dharmān sakalānn aśīḥ",
-    "english": "When the animal was taken, the gods then said to him, O bull of the Bharatas: 'Do not seize what belongs to another; do not transgress all the laws of dharma.'"
-  },
-  {
-    "ref": "3.114.9",
-    "sanskrit": "tataḥ kalyāṇarūpābhir vāgbhis te rudram astuvan iṣṭyā cainaṃ tarpayitvā mānayāṃ cakrire tadā",
-    "english": "Then with words of auspicious form they praised Rudra, and having propitiated him with offerings they then honoured him."
-  },
-  {
-    "ref": "3.114.10",
-    "sanskrit": "tataḥ sa paśum utsṛjya devayānena jagmivān atrānuvaṃśo rudrasya taṃ nibodha yudhiṣṭhira",
-    "english": "Then he released the animal and departed by the Devayana path. Hear now the lineage of Rudra that is associated with this place, O Yudhiṣṭhira."
-  },
-  {
-    "ref": "3.114.11",
-    "sanskrit": "ayātayāmaṃ sarvebhyo bhāgebhyo bhāgam uttamam devāḥ saṃkalpayām āsur bhayād rudrasya śāśvatam",
-    "english": "Out of fear of Rudra, the gods forever resolved that the choicest, freshest share — the best of all portions — would always belong to him."
-  },
-  {
-    "ref": "3.114.12",
-    "sanskrit": "imāṃ gāthām atra gāyann apaḥ spṛśati yo naraḥ devayānas tasya panthāś cakṣuś caiva prakāśate",
-    "english": "Whoever sings this hymn here and touches the waters — the Devayana path and his eyes shall become illumined for him."
-  },
-  {
-    "ref": "3.114.13",
-    "sanskrit": "vaiśaṃpāyana uvāca tato vaitaraṇīṃ sarve pāṇḍavā draupadī tathā avatīrya mahābhāgā tarpayāṃ cakrire pitṝn",
-    "english": "Vaiśaṃpāyana said: Then all the Pāṇḍavas, and Draupadī of great fortune, descended into the Vaitaraṇī and made offerings to the ancestors."
-  },
-  {
-    "ref": "3.114.14",
-    "sanskrit": "yudhiṣṭhira uvāca upaspṛśyaiva bhagavann asyāṃ nadyāṃ tapodhana mānuṣād asmi viṣayād apetaḥ paśya lomaśa",
-    "english": "Yudhiṣṭhira said: Having touched the waters of this river, O blessed one, O treasure of austerity, I feel as though I have passed beyond the human realm — behold, O Lomaśa."
-  },
-  {
-    "ref": "3.114.15",
-    "sanskrit": "sarvāṃl lokān prapaśyāmi prasādāt tava suvrata vaikhānasānāṃ japatām eṣa śabdo mahātmanām",
-    "english": "By your grace, O one of good vows, I behold all the worlds; this is the sound of the great-souled Vaikhanasa sages engaged in recitation."
-  },
-  {
-    "ref": "3.114.16",
-    "sanskrit": "lomaśa uvāca triśataṃ vai sahasrāṇi yojanānāṃ yudhiṣṭhira yatra dhvaniṃ śṛṇoṣy enaṃ tūṣṇīm āssva viśāṃ pate",
-    "english": "Lomaśa said: Three hundred thousand yojanas distant is the place where you hear that sound, O Yudhiṣṭhira — be silent, O lord of the people."
-  },
-  {
-    "ref": "3.114.17",
-    "sanskrit": "etat svayaṃbhuvo rājan vanaṃ ramyaṃ prakāśate yatrāyajata kaunteya viśvakarmā pratāpavān",
-    "english": "This, O king, is the delightful forest of Svayambhu that shines forth, where the mighty Viśvakarman performed his sacrifice, O son of Kuntī."
-  },
-  {
-    "ref": "3.114.18",
-    "sanskrit": "yasmin yajñe hi bhūr dattā kaśyapāya mahātmane saparvatavanoddeśā dakṣiṇā vai svayaṃbhuvā",
-    "english": "At that sacrifice, the entire earth — with its mountains and forests — was given by Svayambhu as the sacrificial fee to the great-souled Kaśyapa."
-  },
-  {
-    "ref": "3.114.19",
-    "sanskrit": "avāsīdac ca kaunteya dattamātrā mahī tadā uvāca cāpi kupitā lokeśvaram idaṃ prabhum",
-    "english": "And no sooner was the earth given than it sank down, O son of Kuntī; and it spoke in anger to that lord of the worlds, its master."
-  },
-  {
-    "ref": "3.114.20",
-    "sanskrit": "na māṃ martyāya bhagavan kasmai cid dātum arhasi pradānaṃ mogham etat te yāsyāmy eṣā rasātalam",
-    "english": "'O blessed one, you ought not give me to any mortal; this gift of yours is in vain — I shall sink into the nether world.'"
-  },
-  {
-    "ref": "3.114.21",
-    "sanskrit": "viṣīdantīṃ tu tāṃ dṛṣṭvā kaśyapo bhagavān ṛṣiḥ prasādayāṃ babhūvātha tato bhūmiṃ viśāṃ pate",
-    "english": "Seeing her despondent, the blessed sage Kaśyapa then began to appease the earth, O lord of the people."
-  },
-  {
-    "ref": "3.114.22",
-    "sanskrit": "tataḥ prasannā pṛthivī tapasā tasya pāṇḍava punar unmajjya salilād vedīrūpā sthitā babhau",
-    "english": "Then the earth, appeased by his austerity, O Pāṇḍava, rose up again from the waters and stood shining in the form of an altar."
-  },
-  {
-    "ref": "3.114.23",
-    "sanskrit": "saiṣā prakāśate rājan vedī saṃsthānalakṣaṇā āruhyātra mahārāja vīryavān vai bhaviṣyasi",
-    "english": "This is that altar shining here, O king, marked by its distinctive form; ascend it, O great king, and you shall become mighty."
-  },
-  {
-    "ref": "3.114.24",
-    "sanskrit": "ahaṃ ca te svastyayanaṃ prayokṣye; yathā tvam enām adhirokṣyase 'dya spṛṣṭā hi martyena tataḥ samudram; eṣā vedī praviśaty ājamīḍha",
-    "english": "And I shall perform a benedictory rite for you, so that you may ascend it today; for once touched by a mortal, this altar sinks into the ocean, O descendant of Ajamidha."
-  },
-  {
-    "ref": "3.114.25",
-    "sanskrit": "agnir mitro yonir āpo 'tha devyo; viṣṇo retas tvam amṛtasya nābhiḥ evaṃ bruvan pāṇḍava satyavākyaṃ; vedīm imāṃ tvaṃ tarasādhiroha",
-    "english": "Speaking these true words, O Pāṇḍava: 'You are Agni, you are Mitra, you are the womb, you are the divine waters, you are the seed of Viṣṇu, you are the navel of immortality' — swiftly ascend this altar."
-  },
-  {
-    "ref": "3.114.26",
-    "sanskrit": "vaiśaṃpāyana uvāca tataḥ kṛtasvastyayano mahātmā; yudhiṣṭhiraḥ sāgaragām agacchat kṛtvā ca tacchāsanam asya sarvaṃ; mahendram āsādya niśām uvāsa",
-    "english": "Vaiśaṃpāyana said: Then the great-souled Yudhiṣṭhira, the benediction performed, proceeded to the ocean; and having done all that Lomaśa commanded, he reached Mahendra and spent the night there."
-  },
-  {
-    "ref": "3.115.1",
-    "sanskrit": "vaiśaṃpāyana uvāca sa tatra tām uṣitvaikāṃ rajanīṃ pṛthivīpatiḥ tāpasānāṃ paraṃ cakre satkāraṃ bhrātṛbhiḥ saha",
-    "english": "Vaiśaṃpāyana said: Having spent that one night there, the lord of the earth offered the highest honour to the ascetics together with his brothers."
-  },
-  {
-    "ref": "3.115.2",
-    "sanskrit": "lomaśaś cāsya tān sarvān ācakhyau tatra tāpasān bhṛgūn aṅgirasaś caiva vāsiṣṭhān atha kāśyapān",
-    "english": "And Lomaśa introduced to him all those ascetics there — the Bhṛgus, the Aṅgirases, the Vasishthyas, and the Kashyapas."
-  },
-  {
-    "ref": "3.115.3",
-    "sanskrit": "tān sametya sa rājarṣir abhivādya kṛtāñjaliḥ rāmasyānucaraṃ vīram apṛcchad akṛtavraṇam",
-    "english": "Meeting them, that royal seer paid his respects with joined palms and then asked Akṛtavraṇa, the heroic companion of Rāma."
-  },
-  {
-    "ref": "3.115.4",
-    "sanskrit": "kadā nu rāmo bhagavāṃs tāpasān darśayiṣyati tenaivāhaṃ prasaṅgena draṣṭum icchāmi bhārgavam",
-    "english": "'When will the blessed Rāma show himself to the ascetics? On that very occasion I wish to behold the descendant of Bhṛgu.'"
-  },
-  {
-    "ref": "3.115.5",
-    "sanskrit": "akṛtavraṇa uvāca āyān evāsi vidito rāmasya viditātmanaḥ prītis tvayi ca rāmasya kṣipraṃ tvāṃ darśayiṣyati",
-    "english": "Akṛtavraṇa said: Your coming is already known to Rāma, who knows all souls; and Rāma's affection for you is such that he will show himself to you soon."
-  },
-  {
-    "ref": "3.115.6",
-    "sanskrit": "caturdaśīm aṣṭamīṃ ca rāmaṃ paśyanti tāpasāḥ asyāṃ rātryāṃ vyatītāyāṃ bhavitrī ca caturdaśī",
-    "english": "The ascetics see Rāma on the fourteenth and the eighth lunar days; when this night has passed, the fourteenth will arrive."
-  },
-  {
-    "ref": "3.115.7",
-    "sanskrit": "yudhiṣṭhira uvāca bhavān anugato vīraṃ jāmadagnyaṃ mahābalam pratyakṣadarśī sarvasya pūrvavṛttasya karmaṇaḥ",
-    "english": "Yudhiṣṭhira said: You have accompanied that hero, the son of Jamadagni, of great might, and are an eyewitness to all his past deeds."
-  },
-  {
-    "ref": "3.115.8",
-    "sanskrit": "sa bhavān kathayatv etad yathā rāmeṇa nirjitāḥ āhave kṣatriyāḥ sarve kathaṃ kena ca hetunā",
-    "english": "Let you therefore tell us how Rāma conquered all the kshatriyas in battle, and by what means and for what reason."
-  },
-  {
-    "ref": "3.115.9",
-    "sanskrit": "akṛtavraṇa uvāca kanyakubje mahān āsīt pārthivaḥ sumahābalaḥ gādhīti viśruto loke vanavāsaṃ jagāma saḥ",
-    "english": "Akṛtavraṇa said: In Kanyakubja there was a great and exceedingly mighty king, renowned in the world as Gādhi; he went to live in the forest."
-  },
-  {
-    "ref": "3.115.10",
-    "sanskrit": "vane tu tasya vasataḥ kanyā jajñe 'psaraḥsamā ṛcīko bhārgavas tāṃ ca varayām āsa bhārata",
-    "english": "While he lived in the forest, a daughter was born to him who was like an apsara; the Bhārgava Richika sought her in marriage, O Bharata."
-  },
-  {
-    "ref": "3.115.11",
-    "sanskrit": "tam uvāca tato rājā brāhmaṇaṃ saṃśitavratam ucitaṃ naḥ kule kiṃ cit pūrvair yat saṃpravartitam",
-    "english": "Then the king said to that brahmin of rigorous vows: 'There is something customary in our family, established by our ancestors—'"
-  },
-  {
-    "ref": "3.115.12",
-    "sanskrit": "ekataḥ śyāmakarṇānāṃ pāṇḍurāṇāṃ tarasvinām sahasraṃ vājināṃ śulkam iti viddhi dvijottama",
-    "english": "'Know this as the bride-price, O best of twice-born: a thousand swift white horses, each with one black ear.'"
-  },
-  {
-    "ref": "3.115.13",
-    "sanskrit": "na cāpi bhagavān vācyo dīyatām iti bhārgava deyā me duhitā ceyaṃ tvadvidhāya mahātmane",
-    "english": "'And do not say, O blessed Bhārgava, that the price should be waived — my daughter is to be given to a great soul such as you.'"
-  },
-  {
-    "ref": "3.115.14",
-    "sanskrit": "ṛcīka uvāca ekataḥśyāmakarṇānāṃ pāṇḍurāṇāṃ tarasvinām dāsyāmy aśvasahasraṃ te mama bhāryā sutāstu te",
-    "english": "Richika said: I will give you a thousand swift white horses, each with one black ear; let your daughter be my wife and your son-in-law be me."
-  },
-  {
-    "ref": "3.115.15",
-    "sanskrit": "akṛtavraṇa uvāca sa tatheti pratijñāya rājan varuṇam abravīt ekataḥśyāmakarṇānāṃ pāṇḍurāṇāṃ tarasvinām sahasraṃ vājinām ekaṃ śulkārthaṃ me pradīyatām",
-    "english": "Akṛtavraṇa said: Having agreed to this, O king, he addressed Varuṇa: 'For the bride-price, let a thousand swift white horses, each with one black ear, be given to me.'"
-  },
-  {
-    "ref": "3.115.16",
-    "sanskrit": "tasmai prādāt sahasraṃ vai vājināṃ varuṇas tadā tad aśvatīrthaṃ vikhyātam utthitā yatra te hayāḥ",
-    "english": "Varuṇa gave him a thousand horses at that time; that place is known as Ashvatirtha, where those horses emerged."
-  },
-  {
-    "ref": "3.115.17",
-    "sanskrit": "gaṅgāyāṃ kanyakubje vai dadau satyavatīṃ tadā tato gādhiḥ sutāṃ tasmai janyāś cāsan surās tadā labdhvā hayasahasraṃ tu tāṃś ca dṛṣṭvā divaukasaḥ",
-    "english": "At Kanyakubja on the Gaṅgā, Gādhi then gave his daughter Satyavatī to him; and upon receiving the thousand horses and seeing them, the gods dwellers in heaven rejoiced."
-  },
-  {
-    "ref": "3.115.18",
-    "sanskrit": "dharmeṇa labdhvā tāṃ bhāryām ṛcīko dvijasattamaḥ yathākāmaṃ yathājoṣaṃ tayā reme sumadhyayā",
-    "english": "Having won her as his wife by righteous means, Richika, the best of twice-born, sported with that slender-waisted one to his heart's content and delight."
-  },
-  {
-    "ref": "3.115.19",
-    "sanskrit": "taṃ vivāhe kṛte rājan sabhāryam avalokakaḥ ājagāma bhṛguśreṣṭhaḥ putraṃ dṛṣṭvā nananda ca",
-    "english": "After the marriage was performed, O king, the foremost of the Bhṛgus came to look upon his son together with his wife, and upon seeing him was filled with joy."
-  },
-  {
-    "ref": "3.115.20",
-    "sanskrit": "bhāryāpatī tam āsīnaṃ guruṃ suragaṇārcitam arcitvā paryupāsīnau prāñjalī tasthatus tadā",
-    "english": "The husband and wife, honouring that teacher who was worshipped even by the host of gods, stood attending him on either side with joined palms."
-  },
-  {
-    "ref": "3.115.21",
-    "sanskrit": "tataḥ snuṣāṃ sa bhagavān prahṛṣṭo bhṛgur abravīt varaṃ vṛṇīṣva subhage dātā hy asmi tavepsitam",
-    "english": "Then the blessed Bhṛgu, delighted, said to his daughter-in-law: 'Choose a boon, O fortunate one, for I am here to grant what you desire.'"
-  },
-  {
-    "ref": "3.115.22",
-    "sanskrit": "sā vai prasādayām āsa taṃ guruṃ putrakāraṇāt ātmanaś caiva mātuś ca prasādaṃ ca cakāra saḥ",
-    "english": "She then propitiated that teacher for the sake of children — both for herself and for her mother; and he granted his grace to both."
-  },
-  {
-    "ref": "3.115.23",
-    "sanskrit": "bhṛgur uvāca ṛtau tvaṃ caiva mātā ca snāte puṃsavanāya vai āliṅgetāṃ pṛthag vṛkṣau sāśvatthaṃ tvam udumbaram",
-    "english": "Bhṛgu said: 'At the proper season, you and your mother, having bathed with the rite of pumsavana for a male child, must each embrace a different tree — you the udumbara, and the ashvattha.'"
-  },
-  {
-    "ref": "3.115.24",
-    "sanskrit": "āliṅgane tu te rājaṃś cakratuḥ sma viparyayam kadā cid bhṛgur āgacchat taṃ ca veda viparyayam",
-    "english": "But the two of them, O king, exchanged the trees in their embrace; and when Bhṛgu came by, he discerned the exchange."
-  },
-  {
-    "ref": "3.115.25",
-    "sanskrit": "athovāca mahātejā bhṛguḥ satyavatīṃ snuṣām brāhmaṇaḥ kṣatravṛttir vai tava putro bhaviṣyati",
-    "english": "Then the greatly splendid Bhṛgu said to his daughter-in-law Satyavatī: 'Your son will be a brahmin who follows the conduct of a kshatriya.'"
-  },
-  {
-    "ref": "3.115.26",
-    "sanskrit": "kṣatriyo brāhmaṇācāro mātus tava suto mahān bhaviṣyati mahāvīryaḥ sādhūnāṃ mārgam āsthitaḥ",
-    "english": "'And your mother's great son will be a kshatriya who follows brahminical conduct — of great valour and treading the path of the righteous.'"
-  },
-  {
-    "ref": "3.115.27",
-    "sanskrit": "tataḥ prasādayām āsa śvaśuraṃ sā punaḥ punaḥ na me putro bhaved īdṛk kāmaṃ pautro bhaved iti",
-    "english": "Then she repeatedly propitiated her father-in-law, saying: 'Let not my son be such — let my grandson be so instead, if you will.'"
-  },
-  {
-    "ref": "3.115.28",
-    "sanskrit": "evam astv iti sā tena pāṇḍava pratinanditā jamadagniṃ tataḥ putraṃ sā jajñe kāla āgate tejasā varcasā caiva yuktaṃ bhārgavanandanam",
-    "english": "'So be it,' said he; she was thus granted her wish, O Pāṇḍava; and in time she gave birth to her son Jamadagni, the delight of the Bhṛgus, endowed with brilliance and radiance."
-  },
-  {
-    "ref": "3.115.29",
-    "sanskrit": "sa vardhamānas tejasvī vedasyādhyayanena vai bahūn ṛṣīn mahātejāḥ pāṇḍaveyātyavartata",
-    "english": "Growing up, that splendid one, of great brilliance, surpassed many sages through his study of the Vedas, O descendant of the Pāṇḍavas."
-  },
-  {
-    "ref": "3.115.30",
-    "sanskrit": "taṃ tu kṛtsno dhanurvedaḥ pratyabhād bharatarṣabha caturvidhāni cāstrāṇi bhāskaropamavarcasam",
-    "english": "The entire science of archery, along with the fourfold knowledge of weapons, became manifest to him, O bull of the Bharatas, whose radiance was like the sun."
-  },
-  {
-    "ref": "3.116.1",
-    "sanskrit": "akṛtavraṇa uvāca sa vedādhyayane yukto jamadagnir mahātapāḥ tapas tepe tato devān niyamād vaśam ānayat",
-    "english": "Akṛtavraṇa said: Jamadagni, of great austerity, devoted to Vedic study, performed tapas and thereby brought the gods under his control by his discipline."
-  },
-  {
-    "ref": "3.116.2",
-    "sanskrit": "sa prasenajitaṃ rājann adhigamya narādhipam reṇukāṃ varayām āsa sa ca tasmai dadau nṛpaḥ",
-    "english": "Approaching king Prasenajit, O king, lord of men, he sought Renuka in marriage; and the king gave her to him."
-  },
-  {
-    "ref": "3.116.3",
-    "sanskrit": "reṇukāṃ tv atha saṃprāpya bhāryāṃ bhārgavanandanaḥ āśramasthas tayā sārdhaṃ tapas tepe 'nukūlayā",
-    "english": "Having thus obtained Renuka as his wife, the delight of the Bhṛgus lived in the hermitage and performed austerities together with her, who was devoted and compliant."
-  },
-  {
-    "ref": "3.116.4",
-    "sanskrit": "tasyāḥ kumārāś catvāro jajñire rāmapañcamāḥ sarveṣām ajaghanyas tu rāma āsīj jaghanyajaḥ",
-    "english": "Four sons were born to her, Rāma being the fifth; Rāma, the last-born, was the youngest of them all."
-  },
-  {
-    "ref": "3.116.5",
-    "sanskrit": "phalāhāreṣu sarveṣu gateṣv atha suteṣu vai reṇukā snātum agamat kadā cin niyatavratā",
-    "english": "One day, all the sons having gone out to gather fruits, Renuka, steadfast in her vows, went to bathe."
-  },
-  {
-    "ref": "3.116.6",
-    "sanskrit": "sā tu citrarathaṃ nāma mārttikāvatakaṃ nṛpam dadarśa reṇukā rājann āgacchantī yadṛcchayā",
-    "english": "And Renuka, as she was going along, happened by chance to see a king named Chitraratha, the lord of Martikavata, O king."
-  },
-  {
-    "ref": "3.116.7",
-    "sanskrit": "krīḍantaṃ salile dṛṣṭvā sabhāryaṃ padmamālinam ṛddhimantaṃ tatas tasya spṛhayām āsa reṇukā",
-    "english": "Seeing him sporting in the water with his wife, garlanded with lotuses, in the full flush of his prosperity, Renuka was filled with longing for him."
-  },
-  {
-    "ref": "3.116.8",
-    "sanskrit": "vyabhicārāt tu sā tasmāt klinnāmbhasi vicetanā praviveśāśramaṃ trastā tāṃ vai bhartānvabudhyata",
-    "english": "On account of that transgression in her mind, she came back trembling and distraught, her clothes still wet from the water, and entered the hermitage; her husband perceived it in her."
-  },
-  {
-    "ref": "3.116.9",
-    "sanskrit": "sa tāṃ dṛṣṭvā cyutāṃ dhairyād brāhmyā lakṣmyā vivarjitām dhikśabdena mahātejā garhayām āsa vīryavān",
-    "english": "Seeing her fallen from her steadfastness and stripped of her brahminical radiance, the greatly splendid and valiant one censured her with words of reproach."
-  },
-  {
-    "ref": "3.116.10",
-    "sanskrit": "tato jyeṣṭho jāmadagnyo rumaṇvān nāma nāmataḥ ājagāma suṣeṇaś ca vasur viśvāvasus tathā",
-    "english": "Then the eldest son of Jamadagni named Rumanvan arrived, and Suṣeṇa, and Vasu, and Viśvāvasu as well."
-  },
-  {
-    "ref": "3.116.11",
-    "sanskrit": "tān ānupūrvyād bhagavān vadhe mātur acodayat na ca te jātasaṃmohāḥ kiṃ cid ūcur vicetasaḥ",
-    "english": "The blessed one urged them each in turn to kill their mother; but they, overcome with confusion, said nothing, standing senseless."
-  },
-  {
-    "ref": "3.116.12",
-    "sanskrit": "tataḥ śaśāpa tān kopāt te śaptāś cetanāṃ jahuḥ mṛgapakṣisadharmāṇaḥ kṣipram āsañ jaḍopamāḥ",
-    "english": "Then in anger he cursed them; cursed, they lost their consciousness and quickly became like inert beings, taking on the nature of animals and birds."
-  },
-  {
-    "ref": "3.116.13",
-    "sanskrit": "tato rāmo 'bhyagāt paścād āśramaṃ paravīrahā tam uvāca mahāmanyur jamadagnir mahātapāḥ",
-    "english": "Then Rāma, the slayer of enemy heroes, came to the hermitage afterward; and Jamadagni, greatly wrathful and of great austerity, said to him—"
-  },
-  {
-    "ref": "3.116.14",
-    "sanskrit": "jahīmāṃ mātaraṃ pāpāṃ mā ca putra vyathāṃ kṛthāḥ tata ādāya paraśuṃ rāmo mātuḥ śiro 'harat",
-    "english": "'Kill this sinful mother, and let not grief afflict you, my son.' Then taking up the axe, Rāma struck off his mother's head."
-  },
-  {
-    "ref": "3.116.15",
-    "sanskrit": "tatas tasya mahārāja jamadagner mahātmanaḥ kopo agacchat sahasā prasannaś cābravīd idam",
-    "english": "Then, O great king, the anger of the great-souled Jamadagni suddenly departed; and, now pleased, he spoke these words."
-  }
+{"ref": "3.113.17", "sanskrit": "saṃprāpya satkāram atīva tebhyaḥ; provāca kasya prathitāḥ stha saumyāḥ ūcus tatas te 'bhyupagamya sarve; dhanaṃ tavedaṃ vihitaṃ sutasya", "english": "Having received exceptional honour from them, he asked: 'Whose celebrated ones are you, O gentle ones?' Then all of them approached and said: 'This wealth has been appointed for your son.'"},
+{"ref": "3.113.18", "sanskrit": "deśe tu deśe tu sa pūjyamānas; tāṃś caiva śṛṇvan madhurān pralāpān praśāntabhūyiṣṭharajāḥ prahṛṣṭaḥ; samāsasādāṅgapatiṃ purastham", "english": "Honoured in every region, listening to those sweet words, with his passion now largely appeased and his heart gladdened, he approached the lord of Aṅga who stood before him."},
+{"ref": "3.113.19", "sanskrit": "saṃpūjitas tena nararṣabheṇa; dadarśa putraṃ divi devaṃ yathendram śāntāṃ snuṣāṃ caiva dadarśa tatra; saudāminīm uccarantīṃ yathaiva", "english": "Duly honoured by that bull among men, he saw his son radiant as a god in heaven like Indra; and there too he saw his daughter-in-law Shanta, rising up like a flash of lightning."},
+{"ref": "3.113.20", "sanskrit": "grāmāṃś ca ghoṣāṃś ca sutaṃ ca dṛṣṭvā; śāntāṃ ca śānto 'sya paraḥ sa kopaḥ cakāra tasmai paramaṃ prasādaṃ; vibhāṇḍako bhūmipater narendra", "english": "Having seen the villages, the settlements, his son, and Shanta, his great anger was pacified; Vibhāṇḍaka bestowed his highest blessing on that lord of the earth, O king of kings."},
+{"ref": "3.113.21", "sanskrit": "sa tatra nikṣipya sutaṃ maharṣir; uvāca sūryāgnisamaprabhāvam jāte putre vanam evāvrajethā; rājñaḥ priyāṇy asya sarvāṇi kṛtvā", "english": "There the great seer, having entrusted his son of solar and fiery brilliance, spoke: 'When a son is born, you should return to the forest, having done all that is pleasing to this king.'"},
+{"ref": "3.113.22", "sanskrit": "sa tadvacaḥ kṛtavān ṛśyaśṛṅgo; yayau ca yatrāsya pitā babhūva śāntā cainaṃ paryacarad yathāvat; khe rohiṇī somam ivānukūlā", "english": "Rishyashringa did as his father instructed and went to where his father had been; and Shanta attended upon him faithfully, as Rohiṇī in the sky attends upon the moon in harmony."},
+{"ref": "3.113.23", "sanskrit": "arundhatī vā subhagā vasiṣṭhaṃ; lopāmudrā vāpi yathā hy agastyam nalasya vā damayantī yathābhūd; yathā śacī vajradharasya caiva", "english": "As the blessed Arundhati served Vasiṣṭha, or as Lopamudra served Agastya, or as Damayantī was to Nala, or as Śacī to the wielder of the thunderbolt—"},
+{"ref": "3.113.24", "sanskrit": "nāḍāyanī cendrasenā yathaiva; vaśyā nityaṃ mudgalasyājamīḍha tathā śāntā ṛśyaśṛṅgaṃ vanasthaṃ; prītyā yuktā paryacaran narendra", "english": "And as Nadayani Indrasena was ever devoted to Mudgala, O descendant of Ajamidha — so Shanta, filled with love, waited upon Rishyashringa dwelling in the forest, O king."},
+{"ref": "3.113.25", "sanskrit": "tasyāśramaḥ puṇya eṣo vibhāti; mahāhradaṃ śobhayan puṇyakīrteḥ atra snātaḥ kṛtakṛtyo viśuddhas; tīrthāny anyāny anusaṃyāhi rājan", "english": "This holy hermitage of his, renowned for its sanctity, shines forth, adorning the great lake. Having bathed here, with all duties fulfilled and purified, go on, O king, to visit the other sacred tirthas."},
+{"ref": "3.114.1", "sanskrit": "vaiśaṃpāyana uvāca tataḥ prayātaḥ kauśikyāḥ pāṇḍavo janamejaya ānupūrvyeṇa sarvāṇi jagāmāyatanāny uta", "english": "Vaiśaṃpāyana said: Then the Pāṇḍava departed from the Kauśikī, O Janamejaya, and visited all the sacred shrines in due order."},
+{"ref": "3.114.2", "sanskrit": "sa sāgaraṃ samāsādya gaṅgāyāḥ saṃgame nṛpa nadīśatānāṃ pañcānāṃ madhye cakre samāplavam", "english": "Reaching the ocean at the confluence of the Gaṅgā, O king, he bathed together with hundreds of rivers at the meeting of five streams."},
+{"ref": "3.114.3", "sanskrit": "tataḥ samudratīreṇa jagāma vasudhādhipaḥ bhrātṛbhiḥ sahito vīraḥ kaliṅgān prati bhārata", "english": "Then along the seashore that lord of the earth, the hero, accompanied by his brothers, proceeded toward the Kaliṅgas, O Bhārata."},
+{"ref": "3.114.4", "sanskrit": "lomaśa uvāca ete kaliṅgāḥ kaunteya yatra vaitaraṇī nadī yatrāyajata dharmo 'pi devāñ śaraṇam etya vai", "english": "Lomaśa said: These are the Kaliṅgas, O son of Kuntī, where the river Vaitaraṇī flows — where even Dharma himself sought refuge with the gods and performed sacrifice."},
+{"ref": "3.114.5", "sanskrit": "ṛṣibhiḥ samupāyuktaṃ yajñiyaṃ giriśobhitam uttaraṃ tīram etad dhi satataṃ dvijasevitam", "english": "This northern bank, adorned with mountains, consecrated for sacrifice, enriched by sages, is always frequented by the twice-born."},
+{"ref": "3.114.6", "sanskrit": "samena devayānena pathā svargam upeyuṣaḥ atra vai ṛṣayo 'nye 'pi purā kratubhir ījire", "english": "Those who have attained heaven by the straight Devayana path — here too other sages in former times performed sacrifices with great rites."},
+{"ref": "3.114.7", "sanskrit": "atraiva rudro rājendra paśum ādattavān makhe rudraḥ paśuṃ mānavendra bhāgo 'yam iti cābravīt", "english": "Right here, O king of kings, Rudra seized the sacrificial animal at the sacrifice; Rudra said, O lord of men: 'This is my share.'"},
+{"ref": "3.114.8", "sanskrit": "hṛte paśau tadā devās tam ūcur bharatarṣabha mā parasvam abhidrogdhā mā dharmān sakalānn aśīḥ", "english": "When the animal was taken, the gods then said to him, O bull of the Bhāratas: 'Do not seize what belongs to another; do not transgress all the laws of dharma.'"},
+{"ref": "3.114.9", "sanskrit": "tataḥ kalyāṇarūpābhir vāgbhis te rudram astuvan iṣṭyā cainaṃ tarpayitvā mānayāṃ cakrire tadā", "english": "Then with words of auspicious form they praised Rudra, and having propitiated him with offerings they then honoured him."},
+{"ref": "3.114.10", "sanskrit": "tataḥ sa paśum utsṛjya devayānena jagmivān atrānuvaṃśo rudrasya taṃ nibodha yudhiṣṭhira", "english": "Then he released the animal and departed by the Devayana path. Hear now the lineage of Rudra that is associated with this place, O Yudhiṣṭhira."},
+{"ref": "3.114.11", "sanskrit": "ayātayāmaṃ sarvebhyo bhāgebhyo bhāgam uttamam devāḥ saṃkalpayām āsur bhayād rudrasya śāśvatam", "english": "Out of fear of Rudra, the gods forever resolved that the choicest, freshest share — the best of all portions — would always belong to him."},
+{"ref": "3.114.12", "sanskrit": "imāṃ gāthām atra gāyann apaḥ spṛśati yo naraḥ devayānas tasya panthāś cakṣuś caiva prakāśate", "english": "Whoever sings this hymn here and touches the waters — the Devayana path and his eyes shall become illumined for him."},
+{"ref": "3.114.13", "sanskrit": "vaiśaṃpāyana uvāca tato vaitaraṇīṃ sarve pāṇḍavā draupadī tathā avatīrya mahābhāgā tarpayāṃ cakrire pitṝn", "english": "Vaiśaṃpāyana said: Then all the Pāṇḍavas, and Draupadī of great fortune, descended into the Vaitaraṇī and made offerings to the ancestors."},
+{"ref": "3.114.14", "sanskrit": "yudhiṣṭhira uvāca upaspṛśyaiva bhagavann asyāṃ nadyāṃ tapodhana mānuṣād asmi viṣayād apetaḥ paśya lomaśa", "english": "Yudhiṣṭhira said: Having touched the waters of this river, O blessed one, O treasure of austerity, I feel as though I have passed beyond the human realm — behold, O Lomaśa."},
+{"ref": "3.114.15", "sanskrit": "sarvāṃl lokān prapaśyāmi prasādāt tava suvrata vaikhānasānāṃ japatām eṣa śabdo mahātmanām", "english": "By your grace, O one of good vows, I behold all the worlds; this is the sound of the great-souled Vaikhanasa sages engaged in recitation."},
+{"ref": "3.114.16", "sanskrit": "lomaśa uvāca triśataṃ vai sahasrāṇi yojanānāṃ yudhiṣṭhira yatra dhvaniṃ śṛṇoṣy enaṃ tūṣṇīm āssva viśāṃ pate", "english": "Lomaśa said: Three hundred thousand yojanas distant is the place where you hear that sound, O Yudhiṣṭhira — be silent, O lord of the people."},
+{"ref": "3.114.17", "sanskrit": "etat svayaṃbhuvo rājan vanaṃ ramyaṃ prakāśate yatrāyajata kaunteya viśvakarmā pratāpavān", "english": "This, O king, is the delightful forest of Svayambhu that shines forth, where the mighty Viśvakarman performed his sacrifice, O son of Kuntī."},
+{"ref": "3.114.18", "sanskrit": "yasmin yajñe hi bhūr dattā kaśyapāya mahātmane saparvatavanoddeśā dakṣiṇā vai svayaṃbhuvā", "english": "At that sacrifice, the entire earth — with its mountains and forests — was given by Svayambhu as the sacrificial fee to the great-souled Kaśyapa."},
+{"ref": "3.114.19", "sanskrit": "avāsīdac ca kaunteya dattamātrā mahī tadā uvāca cāpi kupitā lokeśvaram idaṃ prabhum", "english": "And no sooner was the earth given than it sank down, O son of Kuntī; and it spoke in anger to that lord of the worlds, its master."},
+{"ref": "3.114.20", "sanskrit": "na māṃ martyāya bhagavan kasmai cid dātum arhasi pradānaṃ mogham etat te yāsyāmy eṣā rasātalam", "english": "'O blessed one, you ought not give me to any mortal; this gift of yours is in vain — I shall sink into the nether world.'"},
+{"ref": "3.114.21", "sanskrit": "viṣīdantīṃ tu tāṃ dṛṣṭvā kaśyapo bhagavān ṛṣiḥ prasādayāṃ babhūvātha tato bhūmiṃ viśāṃ pate", "english": "Seeing her despondent, the blessed sage Kaśyapa then began to appease the earth, O lord of the people."},
+{"ref": "3.114.22", "sanskrit": "tataḥ prasannā pṛthivī tapasā tasya pāṇḍava punar unmajjya salilād vedīrūpā sthitā babhau", "english": "Then the earth, appeased by his austerity, O Pāṇḍava, rose up again from the waters and stood shining in the form of an altar."},
+{"ref": "3.114.23", "sanskrit": "saiṣā prakāśate rājan vedī saṃsthānalakṣaṇā āruhyātra mahārāja vīryavān vai bhaviṣyasi", "english": "This is that altar shining here, O king, marked by its distinctive form; ascend it, O great king, and you shall become mighty."},
+{"ref": "3.114.24", "sanskrit": "ahaṃ ca te svastyayanaṃ prayokṣye; yathā tvam enām adhirokṣyase 'dya spṛṣṭā hi martyena tataḥ samudram; eṣā vedī praviśaty ājamīḍha", "english": "And I shall perform a benedictory rite for you, so that you may ascend it today; for once touched by a mortal, this altar sinks into the ocean, O descendant of Ajamidha."},
+{"ref": "3.114.25", "sanskrit": "agnir mitro yonir āpo 'tha devyo; viṣṇo retas tvam amṛtasya nābhiḥ evaṃ bruvan pāṇḍava satyavākyaṃ; vedīm imāṃ tvaṃ tarasādhiroha", "english": "Speaking these true words, O Pāṇḍava: 'You are Agni, you are Mitra, you are the womb, you are the divine waters, you are the seed of Viṣṇu, you are the navel of immortality' — swiftly ascend this altar."},
+{"ref": "3.114.26", "sanskrit": "vaiśaṃpāyana uvāca tataḥ kṛtasvastyayano mahātmā; yudhiṣṭhiraḥ sāgaragām agacchat kṛtvā ca tacchāsanam asya sarvaṃ; mahendram āsādya niśām uvāsa", "english": "Vaiśaṃpāyana said: Then the great-souled Yudhiṣṭhira, the benediction performed, proceeded to the ocean; and having done all that Lomaśa commanded, he reached Mahendra and spent the night there."},
+{"ref": "3.115.1", "sanskrit": "vaiśaṃpāyana uvāca sa tatra tām uṣitvaikāṃ rajanīṃ pṛthivīpatiḥ tāpasānāṃ paraṃ cakre satkāraṃ bhrātṛbhiḥ saha", "english": "Vaiśaṃpāyana said: Having spent that one night there, the lord of the earth offered the highest honour to the ascetics together with his brothers."},
+{"ref": "3.115.2", "sanskrit": "lomaśaś cāsya tān sarvān ācakhyau tatra tāpasān bhṛgūn aṅgirasaś caiva vāsiṣṭhān atha kāśyapān", "english": "And Lomaśa introduced to him all those ascetics there — the Bhṛgus, the Aṅgirases, the Vasishthyas, and the Kashyapas."},
+{"ref": "3.115.3", "sanskrit": "tān sametya sa rājarṣir abhivādya kṛtāñjaliḥ rāmasyānucaraṃ vīram apṛcchad akṛtavraṇam", "english": "Meeting them, that royal seer paid his respects with joined palms and then asked Akṛtavraṇa, the heroic companion of Rāma."},
+{"ref": "3.115.4", "sanskrit": "kadā nu rāmo bhagavāṃs tāpasān darśayiṣyati tenaivāhaṃ prasaṅgena draṣṭum icchāmi bhārgavam", "english": "'When will the blessed Rāma show himself to the ascetics? On that very occasion I wish to behold the descendant of Bhṛgu.'"},
+{"ref": "3.115.5", "sanskrit": "akṛtavraṇa uvāca āyān evāsi vidito rāmasya viditātmanaḥ prītis tvayi ca rāmasya kṣipraṃ tvāṃ darśayiṣyati", "english": "Akṛtavraṇa said: Your coming is already known to Rāma, who knows all souls; and Rāma's affection for you is such that he will show himself to you soon."},
+{"ref": "3.115.6", "sanskrit": "caturdaśīm aṣṭamīṃ ca rāmaṃ paśyanti tāpasāḥ asyāṃ rātryāṃ vyatītāyāṃ bhavitrī ca caturdaśī", "english": "The ascetics see Rāma on the fourteenth and the eighth lunar days; when this night has passed, the fourteenth will arrive."},
+{"ref": "3.115.7", "sanskrit": "yudhiṣṭhira uvāca bhavān anugato vīraṃ jāmadagnyaṃ mahābalam pratyakṣadarśī sarvasya pūrvavṛttasya karmaṇaḥ", "english": "Yudhiṣṭhira said: You have accompanied that hero, the son of Jamadagni, of great might, and are an eyewitness to all his past deeds."},
+{"ref": "3.115.8", "sanskrit": "sa bhavān kathayatv etad yathā rāmeṇa nirjitāḥ āhave kṣatriyāḥ sarve kathaṃ kena ca hetunā", "english": "Let you therefore tell us how Rāma conquered all the kshatriyas in battle, and by what means and for what reason."},
+{"ref": "3.115.9", "sanskrit": "akṛtavraṇa uvāca kanyakubje mahān āsīt pārthivaḥ sumahābalaḥ gādhīti viśruto loke vanavāsaṃ jagāma saḥ", "english": "Akṛtavraṇa said: In Kanyakubja there was a great and exceedingly mighty king, renowned in the world as Gādhi; he went to live in the forest."},
+{"ref": "3.115.10", "sanskrit": "vane tu tasya vasataḥ kanyā jajñe 'psaraḥsamā ṛcīko bhārgavas tāṃ ca varayām āsa bhārata", "english": "While he lived in the forest, a daughter was born to him who was like an apsara; the Bhārgava Richika sought her in marriage, O Bhārata."},
+{"ref": "3.115.11", "sanskrit": "tam uvāca tato rājā brāhmaṇaṃ saṃśitavratam ucitaṃ naḥ kule kiṃ cit pūrvair yat saṃpravartitam", "english": "Then the king said to that brahmin of rigorous vows: 'There is something customary in our family, established by our ancestors—'"},
+{"ref": "3.115.12", "sanskrit": "ekataḥ śyāmakarṇānāṃ pāṇḍurāṇāṃ tarasvinām sahasraṃ vājināṃ śulkam iti viddhi dvijottama", "english": "'Know this as the bride-price, O best of twice-born: a thousand swift white horses, each with one black ear.'"},
+{"ref": "3.115.13", "sanskrit": "na cāpi bhagavān vācyo dīyatām iti bhārgava deyā me duhitā ceyaṃ tvadvidhāya mahātmane", "english": "'And do not say, O blessed Bhārgava, that the price should be waived — my daughter is to be given to a great soul such as you.'"},
+{"ref": "3.115.14", "sanskrit": "ṛcīka uvāca ekataḥśyāmakarṇānāṃ pāṇḍurāṇāṃ tarasvinām dāsyāmy aśvasahasraṃ te mama bhāryā sutāstu te", "english": "Richika said: I will give you a thousand swift white horses, each with one black ear; let your daughter be my wife and your son-in-law be me."},
+{"ref": "3.115.15", "sanskrit": "akṛtavraṇa uvāca sa tatheti pratijñāya rājan varuṇam abravīt ekataḥśyāmakarṇānāṃ pāṇḍurāṇāṃ tarasvinām sahasraṃ vājinām ekaṃ śulkārthaṃ me pradīyatām", "english": "Akṛtavraṇa said: Having agreed to this, O king, he addressed Varuṇa: 'For the bride-price, let a thousand swift white horses, each with one black ear, be given to me.'"},
+{"ref": "3.115.16", "sanskrit": "tasmai prādāt sahasraṃ vai vājināṃ varuṇas tadā tad aśvatīrthaṃ vikhyātam utthitā yatra te hayāḥ", "english": "Varuṇa gave him a thousand horses at that time; that place is known as Ashvatirtha, where those horses emerged."},
+{"ref": "3.115.17", "sanskrit": "gaṅgāyāṃ kanyakubje vai dadau satyavatīṃ tadā tato gādhiḥ sutāṃ tasmai janyāś cāsan surās tadā labdhvā hayasahasraṃ tu tāṃś ca dṛṣṭvā divaukasaḥ", "english": "At Kanyakubja on the Gaṅgā, Gādhi then gave his daughter Satyavatī to him; and upon receiving the thousand horses and seeing them, the gods dwellers in heaven rejoiced."},
+{"ref": "3.115.18", "sanskrit": "dharmeṇa labdhvā tāṃ bhāryām ṛcīko dvijasattamaḥ yathākāmaṃ yathājoṣaṃ tayā reme sumadhyayā", "english": "Having won her as his wife by righteous means, Richika, the best of twice-born, sported with that slender-waisted one to his heart's content and delight."},
+{"ref": "3.115.19", "sanskrit": "taṃ vivāhe kṛte rājan sabhāryam avalokakaḥ ājagāma bhṛguśreṣṭhaḥ putraṃ dṛṣṭvā nananda ca", "english": "After the marriage was performed, O king, the foremost of the Bhṛgus came to look upon his son together with his wife, and upon seeing him was filled with joy."},
+{"ref": "3.115.20", "sanskrit": "bhāryāpatī tam āsīnaṃ guruṃ suragaṇārcitam arcitvā paryupāsīnau prāñjalī tasthatus tadā", "english": "The husband and wife, honouring that teacher who was worshipped even by the host of gods, stood attending him on either side with joined palms."},
+{"ref": "3.115.21", "sanskrit": "tataḥ snuṣāṃ sa bhagavān prahṛṣṭo bhṛgur abravīt varaṃ vṛṇīṣva subhage dātā hy asmi tavepsitam", "english": "Then the blessed Bhṛgu, delighted, said to his daughter-in-law: 'Choose a boon, O fortunate one, for I am here to grant what you desire.'"},
+{"ref": "3.115.22", "sanskrit": "sā vai prasādayām āsa taṃ guruṃ putrakāraṇāt ātmanaś caiva mātuś ca prasādaṃ ca cakāra saḥ", "english": "She then propitiated that teacher for the sake of children — both for herself and for her mother; and he granted his grace to both."},
+{"ref": "3.115.23", "sanskrit": "bhṛgur uvāca ṛtau tvaṃ caiva mātā ca snāte puṃsavanāya vai āliṅgetāṃ pṛthag vṛkṣau sāśvatthaṃ tvam udumbaram", "english": "Bhṛgu said: 'At the proper season, you and your mother, having bathed with the rite of pumsavana for a male child, must each embrace a different tree — you the udumbara, and the ashvattha.'"},
+{"ref": "3.115.24", "sanskrit": "āliṅgane tu te rājaṃś cakratuḥ sma viparyayam kadā cid bhṛgur āgacchat taṃ ca veda viparyayam", "english": "But the two of them, O king, exchanged the trees in their embrace; and when Bhṛgu came by, he discerned the exchange."},
+{"ref": "3.115.25", "sanskrit": "athovāca mahātejā bhṛguḥ satyavatīṃ snuṣām brāhmaṇaḥ kṣatravṛttir vai tava putro bhaviṣyati", "english": "Then the greatly splendid Bhṛgu said to his daughter-in-law Satyavatī: 'Your son will be a brahmin who follows the conduct of a kshatriya.'"},
+{"ref": "3.115.26", "sanskrit": "kṣatriyo brāhmaṇācāro mātus tava suto mahān bhaviṣyati mahāvīryaḥ sādhūnāṃ mārgam āsthitaḥ", "english": "'And your mother's great son will be a kshatriya who follows brahminical conduct — of great valour and treading the path of the righteous.'"},
+{"ref": "3.115.27", "sanskrit": "tataḥ prasādayām āsa śvaśuraṃ sā punaḥ punaḥ na me putro bhaved īdṛk kāmaṃ pautro bhaved iti", "english": "Then she repeatedly propitiated her father-in-law, saying: 'Let not my son be such — let my grandson be so instead, if you will.'"},
+{"ref": "3.115.28", "sanskrit": "evam astv iti sā tena pāṇḍava pratinanditā jamadagniṃ tataḥ putraṃ sā jajñe kāla āgate tejasā varcasā caiva yuktaṃ bhārgavanandanam", "english": "'So be it,' said he; she was thus granted her wish, O Pāṇḍava; and in time she gave birth to her son Jamadagni, the delight of the Bhṛgus, endowed with brilliance and radiance."},
+{"ref": "3.115.29", "sanskrit": "sa vardhamānas tejasvī vedasyādhyayanena vai bahūn ṛṣīn mahātejāḥ pāṇḍaveyātyavartata", "english": "Growing up, that splendid one, of great brilliance, surpassed many sages through his study of the Vedas, O descendant of the Pāṇḍavas."},
+{"ref": "3.115.30", "sanskrit": "taṃ tu kṛtsno dhanurvedaḥ pratyabhād bharatarṣabha caturvidhāni cāstrāṇi bhāskaropamavarcasam", "english": "The entire science of archery, along with the fourfold knowledge of weapons, became manifest to him, O bull of the Bhāratas, whose radiance was like the sun."},
+{"ref": "3.116.1", "sanskrit": "akṛtavraṇa uvāca sa vedādhyayane yukto jamadagnir mahātapāḥ tapas tepe tato devān niyamād vaśam ānayat", "english": "Akṛtavraṇa said: Jamadagni, of great austerity, devoted to Vedic study, performed tapas and thereby brought the gods under his control by his discipline."},
+{"ref": "3.116.2", "sanskrit": "sa prasenajitaṃ rājann adhigamya narādhipam reṇukāṃ varayām āsa sa ca tasmai dadau nṛpaḥ", "english": "Approaching king Prasenajit, O king, lord of men, he sought Renuka in marriage; and the king gave her to him."},
+{"ref": "3.116.3", "sanskrit": "reṇukāṃ tv atha saṃprāpya bhāryāṃ bhārgavanandanaḥ āśramasthas tayā sārdhaṃ tapas tepe 'nukūlayā", "english": "Having thus obtained Renuka as his wife, the delight of the Bhṛgus lived in the hermitage and performed austerities together with her, who was devoted and compliant."},
+{"ref": "3.116.4", "sanskrit": "tasyāḥ kumārāś catvāro jajñire rāmapañcamāḥ sarveṣām ajaghanyas tu rāma āsīj jaghanyajaḥ", "english": "Four sons were born to her, Rāma being the fifth; Rāma, the last-born, was the youngest of them all."},
+{"ref": "3.116.5", "sanskrit": "phalāhāreṣu sarveṣu gateṣv atha suteṣu vai reṇukā snātum agamat kadā cin niyatavratā", "english": "One day, all the sons having gone out to gather fruits, Renuka, steadfast in her vows, went to bathe."},
+{"ref": "3.116.6", "sanskrit": "sā tu citrarathaṃ nāma mārttikāvatakaṃ nṛpam dadarśa reṇukā rājann āgacchantī yadṛcchayā", "english": "And Renuka, as she was going along, happened by chance to see a king named Chitraratha, the lord of Martikavata, O king."},
+{"ref": "3.116.7", "sanskrit": "krīḍantaṃ salile dṛṣṭvā sabhāryaṃ padmamālinam ṛddhimantaṃ tatas tasya spṛhayām āsa reṇukā", "english": "Seeing him sporting in the water with his wife, garlanded with lotuses, in the full flush of his prosperity, Renuka was filled with longing for him."},
+{"ref": "3.116.8", "sanskrit": "vyabhicārāt tu sā tasmāt klinnāmbhasi vicetanā praviveśāśramaṃ trastā tāṃ vai bhartānvabudhyata", "english": "On account of that transgression in her mind, she came back trembling and distraught, her clothes still wet from the water, and entered the hermitage; her husband perceived it in her."},
+{"ref": "3.116.9", "sanskrit": "sa tāṃ dṛṣṭvā cyutāṃ dhairyād brāhmyā lakṣmyā vivarjitām dhikśabdena mahātejā garhayām āsa vīryavān", "english": "Seeing her fallen from her steadfastness and stripped of her brahminical radiance, the greatly splendid and valiant one censured her with words of reproach."},
+{"ref": "3.116.10", "sanskrit": "tato jyeṣṭho jāmadagnyo rumaṇvān nāma nāmataḥ ājagāma suṣeṇaś ca vasur viśvāvasus tathā", "english": "Then the eldest son of Jamadagni named Rumanvan arrived, and Suṣeṇa, and Vasu, and Viśvāvasu as well."},
+{"ref": "3.116.11", "sanskrit": "tān ānupūrvyād bhagavān vadhe mātur acodayat na ca te jātasaṃmohāḥ kiṃ cid ūcur vicetasaḥ", "english": "The blessed one urged them each in turn to kill their mother; but they, overcome with confusion, said nothing, standing senseless."},
+{"ref": "3.116.12", "sanskrit": "tataḥ śaśāpa tān kopāt te śaptāś cetanāṃ jahuḥ mṛgapakṣisadharmāṇaḥ kṣipram āsañ jaḍopamāḥ", "english": "Then in anger he cursed them; cursed, they lost their consciousness and quickly became like inert beings, taking on the nature of animals and birds."},
+{"ref": "3.116.13", "sanskrit": "tato rāmo 'bhyagāt paścād āśramaṃ paravīrahā tam uvāca mahāmanyur jamadagnir mahātapāḥ", "english": "Then Rāma, the slayer of enemy heroes, came to the hermitage afterward; and Jamadagni, greatly wrathful and of great austerity, said to him—"},
+{"ref": "3.116.14", "sanskrit": "jahīmāṃ mātaraṃ pāpāṃ mā ca putra vyathāṃ kṛthāḥ tata ādāya paraśuṃ rāmo mātuḥ śiro 'harat", "english": "'Kill this sinful mother, and let not grief afflict you, my son.' Then taking up the axe, Rāma struck off his mother's head."},
+{"ref": "3.116.15", "sanskrit": "tatas tasya mahārāja jamadagner mahātmanaḥ kopo agacchat sahasā prasannaś cābravīd idam", "english": "Then, O great king, the anger of the great-souled Jamadagni suddenly departed; and, now pleased, he spoke these words."}
 ]

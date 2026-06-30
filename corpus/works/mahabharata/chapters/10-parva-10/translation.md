@@ -800,7 +800,7 @@ translator: thothica
 
 **10.8.86**  There some men, in fear, flung themselves flat upon the earth, and the elephants and horses crushed them as they lay fallen.
 
-**10.8.87**  While all this was going on, O bull among men, the demons, glutted, roared aloud in their glee, O best of the Bharatas.
+**10.8.87**  While all this was going on, O bull among men, the demons, glutted, roared aloud in their glee, O best of the Bhāratas.
 
 **10.8.88**  That sound, O king, raised by the hosts of spirits in their joy, filled all the quarters and the very heavens, a mighty roar.
 
@@ -840,7 +840,7 @@ translator: thothica
 
 **10.8.106**  Cleaving some warriors clean through the middle with his sword, the valiant son of Droṇa, in his fury, felled them as one cuts down stalks of sesame.
 
-**10.8.107**  With the finest of men, horses, and elephants—crying out, sorely afflicted, and fallen—the earth was strewn over, O bull of the Bharatas.
+**10.8.107**  With the finest of men, horses, and elephants—crying out, sorely afflicted, and fallen—the earth was strewn over, O bull of the Bhāratas.
 
 **10.8.108**  As men were slain and fallen by the thousand, many headless trunks rose up, and having risen, fell again.
 
@@ -964,7 +964,7 @@ translator: thothica
 
 **10.9.17**  That lord whom kings once attended for the sake of gain—alas! struck down in a moment he lies. Behold the turning of Time!
 
-**10.9.18**  Saṃjaya said: Then, O best of the Bharatas, looking upon that foremost of kings as he lay there, Aśvatthāman lamented piteously.
+**10.9.18**  Saṃjaya said: Then, O best of the Bhāratas, looking upon that foremost of kings as he lay there, Aśvatthāman lamented piteously.
 
 **10.9.19**  They called you, O tiger among kings, the foremost of all bowmen, in battle the peer of the Lord of Wealth, the pupil of Saṃkarṣaṇa himself.
 
@@ -1172,7 +1172,7 @@ translator: thothica
 
 **10.12.2**  O Pāṇḍava, O descendant of Bharata, this brother of yours, unable to endure his grief for the slain sons, goes forth with intent to kill, this scion of Bharata's line, into the fray.
 
-**10.12.3**  O bull of the Bharatas, Bhīma is dearer to you than all your brothers; why do you not now go to his aid when he is fallen into danger?
+**10.12.3**  O bull of the Bhāratas, Bhīma is dearer to you than all your brothers; why do you not now go to his aid when he is fallen into danger?
 
 **10.12.4**  That weapon which Droṇa, conqueror of hostile cities, taught to his son, the weapon named Brahmaśiras, which could burn up even the earth—
 
@@ -1198,7 +1198,7 @@ translator: thothica
 
 **10.12.15**  Taking from me that divine weapon, O best of the Yadus, give me in return your weapon, the discus that destroys foes in battle."
 
-**10.12.16**  O king, as he begged earnestly of me with joined palms for the weapon, I too, well-pleased, said to him, O bull of the Bharatas:
+**10.12.16**  O king, as he begged earnestly of me with joined palms for the weapon, I too, well-pleased, said to him, O bull of the Bhāratas:
 
 **10.12.17**  "Gods, demons, gandharvas, men, birds, and serpents, all together, are not equal to even a hundredth part of my strength.
 
@@ -1266,7 +1266,7 @@ translator: thothica
 
 **10.13.9**  From the swift-going horses that bore the wielder of Śārṅga there arose a great sound, like that of birds in flight.
 
-**10.13.10**  Those tigers among men, O bull of the Bharatas, swiftly pursuing, overtook in a moment the great bowman Bhīmasena.
+**10.13.10**  Those tigers among men, O bull of the Bhāratas, swiftly pursuing, overtook in a moment the great bowman Bhīmasena.
 
 **10.13.11**  But the son of Kuntī, blazing with wrath and bent upon his enemy's destruction, even those great chariot-warriors, though they came up with him, could not turn back.
 
@@ -1472,7 +1472,7 @@ translator: thothica
 
 **10.17.7**  For when gracious, Mahādeva would grant even immortality, and the Mountain-dweller would grant such valor that one might lay even Indra low.
 
-**10.17.8**  For I know Mahādeva in his very essence, O bull of the Bharatas, and the many ancient deeds that are his.
+**10.17.8**  For I know Mahādeva in his very essence, O bull of the Bhāratas, and the many ancient deeds that are his.
 
 **10.17.9**  For he is the beginning of all beings, their middle and their end, O Bhārata; and this whole world moves by his action alone.
 

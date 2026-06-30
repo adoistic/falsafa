@@ -158,11 +158,11 @@ translator: thothica
 
 **8.3.1**  Vaiśaṃpāyana said: When he had heard this, O great king, Dhṛtarāṣṭra the son of Ambikā, seeing no end to his grief and believing Suyodhana slain, fell distraught upon the ground like an elephant bereft of consciousness.
 
-**8.3.2**  When that best of kings, distraught, had fallen upon the ground, there arose a great cry of anguish from the women, O best of the Bharatas.
+**8.3.2**  When that best of kings, distraught, had fallen upon the ground, there arose a great cry of anguish from the women, O best of the Bhāratas.
 
 **8.3.3**  That sound filled the whole earth on every side; the women of the Bharatas were plunged in a vast and terrible ocean of sorrow.
 
-**8.3.4**  And drawing near to the king, O bull of the Bharatas, Gāndhārī fell senseless to the ground, and so did all the women of the inner apartments.
+**8.3.4**  And drawing near to the king, O bull of the Bhāratas, Gāndhārī fell senseless to the ground, and so did all the women of the inner apartments.
 
 **8.3.5**  Then Saṃjaya, O king, comforted those stricken women, who were swooning again and again and shedding the water born of their eyes.
 
@@ -624,7 +624,7 @@ translator: thothica
 
 **8.6.2**  as the host of the Kauravas streamed away in flight, O great king, the son of Pṛthā drew up his own army in array and stood firm together with his brothers.
 
-**8.6.3**  Knowing him to stand his ground, O bull of the Bharatas, and seeing his own force in flight, your son by his manly might held it back.
+**8.6.3**  Knowing him to stand his ground, O bull of the Bhāratas, and seeing his own force in flight, your son by his manly might held it back.
 
 **8.6.4**  Having steadied his own ranks and taken his stand upon the strength of his arms, he fought for a long while with the Pāṇḍavas, O descendant of Bharata—
 
@@ -696,7 +696,7 @@ translator: thothica
 
 **8.6.38**  He was seated upon a throne of fig-wood draped with linen, consecrated by the rite seen in the scriptures and with the requisites well assembled.
 
-**8.6.39**  "Conquer the sons of Pṛthā, with Govinda and their followers, in the great battle!" Thus, O bull of the Bharatas, the bards and the twice-born addressed him.
+**8.6.39**  "Conquer the sons of Pṛthā, with Govinda and their followers, in the great battle!" Thus, O bull of the Bhāratas, the bards and the twice-born addressed him.
 
 **8.6.40**  "Strike down the sons of Pṛthā with the Pāñcālas, O Rādheya, for our victory, as the ever-rising Sun strikes the darkness with his fierce rays!"
 
@@ -716,7 +716,7 @@ translator: thothica
 
 **8.7.2**  having ordered the army to make ready when the Sun had risen, what did that man of great wisdom do? Tell me that, Saṃjaya.
 
-**8.7.3**  Saṃjaya said: Learning Karṇa's purpose, O bull of the Bharatas, your son ordered the array to be made ready, heralded by auspicious music.
+**8.7.3**  Saṃjaya said: Learning Karṇa's purpose, O bull of the Bhāratas, your son ordered the array to be made ready, heralded by auspicious music.
 
 **8.7.4**  In the great hours before dawn, O honored one, there arose all at once in your son's host a mighty din: "To arms! To arms!"
 
@@ -786,7 +786,7 @@ translator: thothica
 
 **8.7.37**  The neighing of horses, the trumpeting of elephants, and the fierce rumble of chariot-wheels arose, O lord of men.
 
-**8.7.38**  No one took to heart the calamity of Droṇa, O bull of the Bharatas, on seeing the great archer Karṇa, mailed, at the front of the array.
+**8.7.38**  No one took to heart the calamity of Droṇa, O bull of the Bhāratas, on seeing the great archer Karṇa, mailed, at the front of the array.
 
 **8.7.39**  Both armies, of great might, with men and elephants exultant, eager to fight, stood ready, O king, to slay one another at once.
 
@@ -884,7 +884,7 @@ translator: thothica
 
 **8.8.44**  Slain, his sword still in hand and his life gone, he fell beside his own elephant, like a lion struck by the thunderbolt beside a mountain riven by the same.
 
-**8.8.45**  Beholding slain the glorious king of the Kulūtas, thy army, O bull of the Bharatas, fled away in distress.
+**8.8.45**  Beholding slain the glorious king of the Kulūtas, thy army, O bull of the Bhāratas, fled away in distress.
 
 **8.9.1**  Saṃjaya said: Then Karṇa, the great archer, that hero, smote the host of the Pāṇḍavas in battle with his straight-jointed shafts.
 
@@ -1178,7 +1178,7 @@ translator: thothica
 
 **8.12.34**  "Having shut us within a house of arrows, he thinks us slain; this resolve of his I shall undo by skill and by strength."
 
-**8.12.35**  Cutting each of the arrows loosed by Aśvatthāman into three and three, the best of the Bharatas scattered them as the wind scatters mist.
+**8.12.35**  Cutting each of the arrows loosed by Aśvatthāman into three and three, the best of the Bhāratas scattered them as the wind scatters mist.
 
 **8.12.36**  Then the son of Pāṇḍu once more pierced the Saṃśaptakas — with their horses, drivers, chariots, and elephants, their banners and bands of foot — with fierce arrows.
 
@@ -1384,7 +1384,7 @@ translator: thothica
 
 **8.14.41**  "With the severed heads of those bull-eyed men, bound with choice crest-jewels and wearing earrings, the earth is resplendent."
 
-**8.14.42**  "With headless trunks smeared with blood, their limbs and necks lopped off, the earth shines, O best of the Bharatas, as if with fires whose flames have died."
+**8.14.42**  "With headless trunks smeared with blood, their limbs and necks lopped off, the earth shines, O best of the Bhāratas, as if with fires whose flames have died."
 
 **8.14.43**  "Behold the chariots of many sorts, broken, fair with their golden bells, and the horses too, in many places drenched with blood."
 
@@ -1840,7 +1840,7 @@ translator: thothica
 
 **8.18.4**  Casting aside that severed bow, Yuyutsu, his eyes red with rage, took up another very great and more powerful bow.
 
-**8.18.5**  And then, O bull of the Bharatas, he pierced the son of Śakuni with sixty arrows, struck his charioteer with three, and wounded him yet again.
+**8.18.5**  And then, O bull of the Bhāratas, he pierced the son of Śakuni with sixty arrows, struck his charioteer with three, and wounded him yet again.
 
 **8.18.6**  But Ulūka, having pierced him with twenty gold-decked shafts, then in his wrath cut down his golden standard in the battle.
 
@@ -1848,7 +1848,7 @@ translator: thothica
 
 **8.18.8**  Seeing his standard struck down, Yuyutsu, swooning with rage, smote Ulūka in the middle of the breast with five arrows.
 
-**8.18.9**  With a broad-headed shaft burnished in oil, O honored one, Ulūka instantly struck off the head of his charioteer, O best of the Bharatas.
+**8.18.9**  With a broad-headed shaft burnished in oil, O honored one, Ulūka instantly struck off the head of his charioteer, O best of the Bhāratas.
 
 **8.18.10**  He slew the four horses too and pierced him with five arrows; sorely wounded by the mighty one, Yuyutsu withdrew to another chariot.
 
@@ -2336,7 +2336,7 @@ translator: thothica
 
 **8.22.27**  Dreadful wrongs were committed by you against the sons of Pāṇḍu; and because of you this fearful destruction of the kings' folk comes to pass.
 
-**8.22.28**  But now let that be past; grieve not, O bull of the Bharatas. Hear all the dreadful carnage just as it befell, O steadfast one.
+**8.22.28**  But now let that be past; grieve not, O bull of the Bhāratas. Hear all the dreadful carnage just as it befell, O steadfast one.
 
 **8.22.29**  When night had brightened into dawn, Karṇa went to the king; and the mighty-armed one, drawing near, addressed Duryodhana.
 
@@ -2384,7 +2384,7 @@ translator: thothica
 
 **8.22.51**  Let Śalya, hard for foes to overcome, become my charioteer; and let wagons carry my iron shafts fletched with vulture feathers.
 
-**8.22.52**  And let chief chariots, O lord of kings, yoked with the finest horses, follow ever close behind me, O bull of the Bharatas.
+**8.22.52**  And let chief chariots, O lord of kings, yoked with the finest horses, follow ever close behind me, O bull of the Bhāratas.
 
 **8.22.53**  Thus shall I surpass Pṛthā's son in advantages; for Śalya excels Kṛṣṇa, even as I excel Arjuna.
 
@@ -2510,7 +2510,7 @@ translator: thothica
 
 **8.23.53**  Yet I have one condition, O hero, with regard to Vaikartana: that I may utter freely in his presence whatever words I please.
 
-**8.23.54**  Saṃjaya said: 'So be it,' O king, said your son together with Karṇa, O Bhārata, to the son of the Madra king, O best of the Bharatas.
+**8.23.54**  Saṃjaya said: 'So be it,' O king, said your son together with Karṇa, O Bhārata, to the son of the Madra king, O best of the Bhāratas.
 
 **8.24.1**  Duryodhana said: Yet further, O lord of the Madras, hear what I shall tell you—how this came to pass of old in the war between the gods and the asuras, O mighty one.
 
@@ -2842,7 +2842,7 @@ translator: thothica
 
 **8.25.4**  If, O king, you so judge it, O son of Gāndhārī, fair to behold, then whatever is dear to you, all that I shall do.
 
-**8.25.5**  O best of the Bharatas, in whatsoever task I am at any time fit, there, devoting myself wholly to it, I shall take up the burden of your work.
+**8.25.5**  O best of the Bhāratas, in whatsoever task I am at any time fit, there, devoting myself wholly to it, I shall take up the burden of your work.
 
 **8.25.6**  But whatever I, seeking his good, may say to Karṇa, be it pleasant or unpleasant — let your honor and Karṇa pardon me all of it utterly.
 
@@ -3034,7 +3034,7 @@ translator: thothica
 
 **8.27.15**  Then the thunder of drums and tabors on every side, the lion-roar mingled with instruments, and the trumpeting of elephants —
 
-**8.27.16**  — arose then, O king, in your army, O bull of the Bharatas; and such was the clamor of the warriors in their high joy.
+**8.27.16**  — arose then, O king, in your army, O bull of the Bhāratas; and such was the clamor of the warriors in their high joy.
 
 **8.27.17**  And while the army thus rejoiced, the king of the Madras, with a laugh, addressed these words in reply to Rādheya, that tormentor of foes, who, sweeping along on his great chariot, was boasting in the midst of battle:
 
@@ -3606,7 +3606,7 @@ translator: thothica
 
 **8.31.2**  advanced with the thunder of his chariot, with lion-roars, and with the blare of instruments, as though making the earth itself tremble.
 
-**8.31.3**  Quivering, as it were, with rage, that battle-mad scorcher of foes, the mighty-splendored one, drew up his ranks in due order, O bull of the Bharatas,
+**8.31.3**  Quivering, as it were, with rage, that battle-mad scorcher of foes, the mighty-splendored one, drew up his ranks in due order, O bull of the Bhāratas,
 
 **8.31.4**  and scattered the Pāṇḍava host as Maghavat scatters the army of the Asuras; bearing down upon Yudhiṣṭhira, he turned him to his left.
 
@@ -3774,7 +3774,7 @@ translator: thothica
 
 **8.32.18**  That fight, which made an end of them, destroyed the sins of their bodies; for those warriors—Śūdra, Vaiśya, and Kṣatriya—it was righteous, heaven-winning, and bestowing fame.
 
-**8.32.19**  Duryodhana too, O bull of the Bharatas, together with his brothers, guarded by the foremost Kuru heroes and the great car-warriors of the Madras,
+**8.32.19**  Duryodhana too, O bull of the Bhāratas, together with his brothers, guarded by the foremost Kuru heroes and the great car-warriors of the Madras,
 
 **8.32.20**  —that Kuru hero shielded Karṇa as he fought in the field against the Pāṇḍavas with the Pāñcālas, the Cedis, and Sātyaki.
 
@@ -4032,7 +4032,7 @@ translator: thothica
 
 **8.33.63**  Those who sought victory made for its farther shore, some crossing by the fords, some swimming, and yet others sinking and rising up again.
 
-**8.33.64**  Their limbs smeared with blood, their armor, weapons, and garments dyed red, they bathed in that river, drank of its gore, and grew faint, O bull of the Bharatas.
+**8.33.64**  Their limbs smeared with blood, their armor, weapons, and garments dyed red, they bathed in that river, drank of its gore, and grew faint, O bull of the Bhāratas.
 
 **8.33.65**  Chariots, horses, men, and elephants, weapons and ornaments, garments and armor, the dying and the dead, the earth, the sky, the heavens, and all the quarters—nearly everything we saw was crimson.
 
@@ -4054,7 +4054,7 @@ translator: thothica
 
 **8.34.4**  Urged on, O great king, by Śalya who shone in battle, those horses, reaching Bhīmasena's chariot, were brought to a halt.
 
-**8.34.5**  Seeing Karṇa drawing near, Bhīma, filled with wrath, set his mind upon Karṇa's destruction, O bull of the Bharatas.
+**8.34.5**  Seeing Karṇa drawing near, Bhīma, filled with wrath, set his mind upon Karṇa's destruction, O bull of the Bhāratas.
 
 **8.34.6**  He said to the hero Sātyaki and to Dhṛṣṭadyumna, son of Pṛṣata: 'Guard this king, the righteous-souled Yudhiṣṭhira, who, before my very eyes, has just barely escaped from a great peril.'
 
@@ -4176,7 +4176,7 @@ translator: thothica
 
 **8.35.23**  Then in a moment, O lord of kings, without much effort, smiling as it were, Karṇa made Bhīma of terrible deeds bereft of his chariot.
 
-**8.35.24**  Bereft of his chariot, that best of the Bharatas, laughing aloud, the mighty-armed one, peer of the wind, mace in hand, leapt down from his excellent car.
+**8.35.24**  Bereft of his chariot, that best of the Bhāratas, laughing aloud, the mighty-armed one, peer of the wind, mace in hand, leapt down from his excellent car.
 
 **8.35.25**  Seven hundred war-elephants, O king, with tusks like chariot-poles and trained to strike, Bhīma the scorcher of foes, his form fierce with wrath, struck down all at once.
 
@@ -4192,7 +4192,7 @@ translator: thothica
 
 **8.35.31**  Scorched by the sun and by the great-souled Bhīma, your army shrank together like a hide cast into fire.
 
-**8.35.32**  Stricken with terror of Bhīma, O bull of the Bharatas, your warriors forsook him in the battle and fled in all ten directions.
+**8.35.32**  Stricken with terror of Bhīma, O bull of the Bhāratas, your warriors forsook him in the battle and fled in all ten directions.
 
 **8.35.33**  Five hundred other chariots, clattering, their warriors clad in shields and armor, rushed swiftly upon Bhīma with showers of arrows on every side.
 
@@ -4498,7 +4498,7 @@ translator: thothica
 
 **8.39.4**  Veiled by the arrows of Drauṇāyani, nothing whatever could be discerned; that whole front of the battlefield had become one mass of arrows.
 
-**8.39.5**  That web of arrows poised in the sky, adorned with a meshwork of gold, shone forth, O best of the Bharatas, like a great canopy stretched overhead.
+**8.39.5**  That web of arrows poised in the sky, adorned with a meshwork of gold, shone forth, O best of the Bhāratas, like a great canopy stretched overhead.
 
 **8.39.6**  With that gleaming net of arrows veiling the battle, O king, a shade as of clouds arose, the very sky barred over by shafts.
 
@@ -4544,7 +4544,7 @@ translator: thothica
 
 **8.39.27**  Then the great chariot-warrior, son of Droṇa, blazing with a hundred shafts for his flames, burned up the thicket of the army in battle as fire burns dry brush in the forest.
 
-**8.39.28**  That army of the son of Pāṇḍu, scorched by Droṇa's son, was thrown into tumult, O best of the Bharatas, as a river's mouth is troubled by a great sea-monster.
+**8.39.28**  That army of the son of Pāṇḍu, scorched by Droṇa's son, was thrown into tumult, O best of the Bhāratas, as a river's mouth is troubled by a great sea-monster.
 
 **8.39.29**  And beholding, O great king, the prowess of Droṇa's son, they deemed all the Pāṇḍavas already slain by the son of Droṇa.
 
@@ -4578,13 +4578,13 @@ translator: thothica
 
 **8.40.6**  Those warriors, consumed by those three who were like fire, went to destruction in the battle, O king, through your evil counsel.
 
-**8.40.7**  Then Duryodhana, enraged, pierced Nakula with nine arrows, O best of the Bharatas, and his four steeds as well.
+**8.40.7**  Then Duryodhana, enraged, pierced Nakula with nine arrows, O best of the Bhāratas, and his four steeds as well.
 
 **8.40.8**  Then again your son, the immeasurable-souled lord of men, with a razor-headed shaft cut down the golden standard of Sahadeva.
 
 **8.40.9**  Then Nakula, enraged, struck your son with twenty-one shafts in the battle, O king, and Sahadeva with five.
 
-**8.40.10**  Both those best of the Bharatas, foremost of all bowmen, he in great wrath pierced in the breast, with five arrows and five.
+**8.40.10**  Both those best of the Bhāratas, foremost of all bowmen, he in great wrath pierced in the breast, with five arrows and five.
 
 **8.40.11**  Then with two more broad-headed arrows he cut through the bows of the twins, O king, laughing, and pierced them with seven.
 
@@ -4618,7 +4618,7 @@ translator: thothica
 
 **8.40.26**  Blazing as it were with impetuosity, his eyes red with fury, the great-bowman Dhṛṣṭadyumna, though wounded, shone resplendent.
 
-**8.40.27**  He, Dhṛṣṭadyumna, seeking to slay that best of the Bharatas, let fly fifteen iron arrows like hissing serpents.
+**8.40.27**  He, Dhṛṣṭadyumna, seeking to slay that best of the Bhāratas, let fly fifteen iron arrows like hissing serpents.
 
 **8.40.28**  Those stone-whetted shafts, fledged with heron and peacock feathers, piercing the king's gold-wrought armor, sank with force into the earth.
 
@@ -4638,7 +4638,7 @@ translator: thothica
 
 **8.40.36**  The bright standard of the Kuru lord, bearing the figure of an elephant wrought in gems and banded with refined gold, all the kings beheld cut down.
 
-**8.40.37**  Duryodhana, chariotless, all his weapons cut away in the battle, his own brothers guarded round about, O bull of the Bharatas.
+**8.40.37**  Duryodhana, chariotless, all his weapons cut away in the battle, his own brothers guarded round about, O bull of the Bhāratas.
 
 **8.40.38**  Setting that lord of men upon his car, O king, Daṇḍadhāra in alarm bore him away, before the very eyes of Dhṛṣṭadyumna.
 
@@ -4912,7 +4912,7 @@ translator: thothica
 
 **8.42.36**  But Drauṇi too, O lord of kings, that great chariot-warrior, swift of hand and firm in arms, the hero swiftly cut these asunder in the fray with broad-headed shafts — and that, while he had not stepped down from his chariot, seemed a marvel.
 
-**8.42.37**  Yet Dhṛṣṭadyumna — chariotless, his horses slain, his bow cut, pierced again and again by shafts and hewn to pieces by weapons — that great chariot-warrior, for all his striving, the foremost of the Bharatas could not overcome.
+**8.42.37**  Yet Dhṛṣṭadyumna — chariotless, his horses slain, his bow cut, pierced again and again by shafts and hewn to pieces by weapons — that great chariot-warrior, for all his striving, the foremost of the Bhāratas could not overcome.
 
 **8.42.38**  When Drauṇi could not make an end of him with his arrows, O king, then the hero, casting aside his bow, hastily pursued the Pārṣata.
 
@@ -4986,13 +4986,13 @@ translator: thothica
 
 **8.43.16**  As Pārtha fought thus in the engagement with self-possessed soul, his armor was stripped away even by other great chariot-warriors.
 
-**8.43.17**  Wasted by fasting, O best of the Bharatas, the king stands firm in the strength of the brahman, not, O lord, in the overwhelming strength of the warrior.
+**8.43.17**  Wasted by fasting, O best of the Bhāratas, the king stands firm in the strength of the brahman, not, O lord, in the overwhelming strength of the warrior.
 
 **8.43.18**  I think, O Pārtha, that the great king Yudhiṣṭhira no longer lives, since the wrathful Bhīmasena now endures these lion-roars.
 
 **8.43.19**  of the sons of Dhṛtarāṣṭra, O subduer of foes, who again and again roar and blow their great conches in the battle, flushed with the look of conquest—
 
-**8.43.20**  "Yudhiṣṭhira the Pāṇḍava is slain!"—so, O bull of the Bharatas, does Karṇa urge on the mighty sons of Dhṛtarāṣṭra.
+**8.43.20**  "Yudhiṣṭhira the Pāṇḍava is slain!"—so, O bull of the Bhāratas, does Karṇa urge on the mighty sons of Dhṛtarāṣṭra.
 
 **8.43.21**  Veiling the king with the Sthūṇākarṇa, the Indrajāla, and the Pāśupata weapons, O Pārtha, the great chariot-warriors pursue him. I deem the king to be in distress, O Bhārata, and in need of being attended to.
 
@@ -5042,7 +5042,7 @@ translator: thothica
 
 **8.43.44**  That evil-souled one, together with all these, must be slain with effort by you who desire glory and kingdom and the highest happiness.
 
-**8.43.45**  Considering yourself, your soul made perfect, O bull of the Bharatas, and Rādheya, who has done wrong against the righteous Yudhiṣṭhira—
+**8.43.45**  Considering yourself, your soul made perfect, O bull of the Bhāratas, and Rādheya, who has done wrong against the righteous Yudhiṣṭhira—
 
 **8.43.46**  set yourself against Rādheya, for the time has come at once; fixing your mind on the noble resolve in war, advance against that leader of chariot-bands.
 
@@ -5050,11 +5050,11 @@ translator: thothica
 
 **8.43.48**  Five thousand elephants, twice as many horses, O son of Kuntī, and footmen by the myriad, all banded together—that host, each guarding the other, O hero, moves against you.
 
-**8.43.49**  Against the Sūta's son, that great archer, show yourself by your own might; summoning your utmost effort, O bull of the Bharatas, go forth to meet him.
+**8.43.49**  Against the Sūta's son, that great archer, show yourself by your own might; summoning your utmost effort, O bull of the Bhāratas, go forth to meet him.
 
 **8.43.50**  Yonder Karṇa, in fury, rushes upon the Pāñcālas; for I see his banner moving toward Dhṛṣṭadyumna's chariot. He will utterly destroy the Pāñcālas, I think, O scorcher of foes.
 
-**8.43.51**  I tell you glad tidings, O Pārtha, and thus it is, O bull of the Bharatas: the king lives, the Kaurava Yudhiṣṭhira, the son of Dharma!
+**8.43.51**  I tell you glad tidings, O Pārtha, and thus it is, O bull of the Bhāratas: the king lives, the Kaurava Yudhiṣṭhira, the son of Dharma!
 
 **8.43.52**  Yonder the mighty-armed Bhīma has turned back at the head of the host, surrounded by the Sṛñjaya troops and by Sātyaki, O Bhārata.
 
@@ -5062,7 +5062,7 @@ translator: thothica
 
 **8.43.54**  For the army of Dhṛtarāṣṭra's son has turned its face from the battle and flees in haste, smitten by Bhīma's arrows.
 
-**8.43.55**  Like a field whose crop has failed, drenched with blood, the Bhārata army, O best of the Bharatas, is a piteous sight to behold.
+**8.43.55**  Like a field whose crop has failed, drenched with blood, the Bhārata army, O best of the Bhāratas, is a piteous sight to behold.
 
 **8.43.56**  Behold, O son of Kuntī, Bhīmasena, that lord of warriors, returned like a furious venomous serpent; before him the host takes flight.
 
@@ -5100,7 +5100,7 @@ translator: thothica
 
 **8.43.73**  Slaying seven and seven of those elephants together with their pennons and banners with sharp arrows, the elder of the Pārtha cut them down—each single elephant slain by ten iron shafts.
 
-**8.43.74**  Nor is that clamor of the sons of Dhṛtarāṣṭra now heard, since that bull of the Bharatas, equal to Puraṃdara in his wrath, has returned to the fray.
+**8.43.74**  Nor is that clamor of the sons of Dhṛtarāṣṭra now heard, since that bull of the Bhāratas, equal to Puraṃdara in his wrath, has returned to the fray.
 
 **8.43.75**  Three full divisions of Dhṛtarāṣṭra's son, banded together, were thus checked by the wrathful lion among men, Bhīmasena.
 
@@ -5170,7 +5170,7 @@ translator: thothica
 
 **8.44.30**  Then that son of Pṛṣata in fury cut his bow apart, O honored one, with a keen-edged razor-shaft, whereupon the people raised a great shout.
 
-**8.44.31**  Then, taking up another bow, your son, O bull of the Bharatas, hemmed in Dhṛṣṭadyumna on every side with showers of arrows.
+**8.44.31**  Then, taking up another bow, your son, O bull of the Bhāratas, hemmed in Dhṛṣṭadyumna on every side with showers of arrows.
 
 **8.44.32**  Beholding the prowess of your high-souled son, the warriors in the field, the Siddhas, and the hosts of Apsarases broke into joyous acclaim.
 
@@ -5198,7 +5198,7 @@ translator: thothica
 
 **8.44.44**  Then Sātyaki struck him back with sharpened arrows and tormented his charioteer, O great king, with three shafts; and swiftly with his arrows he sent his horses to the abode of Yama.
 
-**8.44.45**  Then Śakuni, that great chariot-warrior, leaping down at once, O bull of the Bharatas, swiftly mounted Ulūka's car and was quickly borne away from the battle-loving grandson of Śini.
+**8.44.45**  Then Śakuni, that great chariot-warrior, leaping down at once, O bull of the Bhāratas, swiftly mounted Ulūka's car and was quickly borne away from the battle-loving grandson of Śini.
 
 **8.44.46**  Then Sātyaki in the battle, O king, rushed with speed upon the host of your men, and thereupon the array was broken.
 
@@ -5342,7 +5342,7 @@ translator: thothica
 
 **8.45.61**  that foremost of the Pāṇḍavas, that great-souled one, has today been brought into peril by Karṇa in battle. Go quickly now to learn of him, O Bhīma; I shall stand here, holding back the enemy hosts."
 
-**8.45.62**  Bhīma said: "Go you yourself, great-souled one, to learn the news of the king, that bull of the Bharatas; for if I go there, Arjuna, the warriors will say of me, 'He is afraid.'"
+**8.45.62**  Bhīma said: "Go you yourself, great-souled one, to learn the news of the king, that bull of the Bhāratas; for if I go there, Arjuna, the warriors will say of me, 'He is afraid.'"
 
 **8.45.63**  Then Arjuna said to Bhīmasena: "The sworn warriors stand arrayed against me; without slaying these, I cannot withdraw from here, from this throng of the enemy host."
 
@@ -5368,7 +5368,7 @@ translator: thothica
 
 **8.46.1**  Saṃjaya said: But seeing those two of great spirit, Keśava and Arjuna, come together, he supposed the son of Adhiratha had been slain in battle by the wielder of the Gāṇḍīva.
 
-**8.46.2**  The son of Kuntī welcomed them with words most gracious and kind, that slayer of foes honoring them with a smile, O bull of the Bharatas.
+**8.46.2**  The son of Kuntī welcomed them with words most gracious and kind, that slayer of foes honoring them with a smile, O bull of the Bhāratas.
 
 **8.46.3**  Yudhiṣṭhira said: "Welcome, son of Devakī! Welcome to you, Dhanaṃjaya! Dear to me indeed is the sight of you both, O Acyuta and Arjuna.
 
@@ -5520,7 +5520,7 @@ translator: thothica
 
 **8.48.15**  Better had you miscarried in the fifth, the perilous, month, or had Pṛthā's womb never borne you at all! That, O prince, would have spared you this toil — better that than to flee from battle, O base-souled one!
 
-**8.49.1**  Saṃjaya said: Thus addressed by Yudhiṣṭhira, the son of Kuntī, he of the white steeds, in a great rage seized his sword, bent on slaying the bull of the Bharatas.
+**8.49.1**  Saṃjaya said: Thus addressed by Yudhiṣṭhira, the son of Kuntī, he of the white steeds, in a great rage seized his sword, bent on slaying the bull of the Bhāratas.
 
 **8.49.2**  Seeing his fury, Keśava, the knower of hearts, then said: "What is this, O Pārtha — why have you taken up your sword?"
 
@@ -5568,7 +5568,7 @@ translator: thothica
 
 **8.49.24**  How, O Pārtha, would you slay your elder, claiming to be mindful of dharma, without having weighed the course of duties — a course subtle and hard to trace?
 
-**8.49.25**  And I shall declare to you this secret of dharma, O bull of the Bharatas — what Bhīṣma, or the dharma-knowing Yudhiṣṭhira, might tell you,
+**8.49.25**  And I shall declare to you this secret of dharma, O bull of the Bhāratas — what Bhīṣma, or the dharma-knowing Yudhiṣṭhira, might tell you,
 
 **8.49.26**  or what Vidura the steward, or even the renowned Kuntī, might say — that I shall tell you in its truth; mark it well, O Dhanaṃjaya.
 
@@ -5770,9 +5770,9 @@ translator: thothica
 
 **8.50.9**  Then Arjuna, O great king, filled with shame, fell with his head at the feet of the Dharma-king, O sinless one.
 
-**8.50.10**  He said, O best of the Bharatas: 'Be gracious,' again and again; 'forgive, O king, what was spoken by one who loves dharma and is fearful of it.'
+**8.50.10**  He said, O best of the Bhāratas: 'Be gracious,' again and again; 'forgive, O king, what was spoken by one who loves dharma and is fearful of it.'
 
-**8.50.11**  Seeing Dhanaṃjaya, the slayer of foes, fallen at his feet and weeping, O bull of the Bharatas, the Dharma-king Yudhiṣṭhira —
+**8.50.11**  Seeing Dhanaṃjaya, the slayer of foes, fallen at his feet and weeping, O bull of the Bhāratas, the Dharma-king Yudhiṣṭhira —
 
 **8.50.12**  — the king, the Dharma-king, raised up his brother Dhanaṃjaya and, embracing him with affection, the lord of earth burst into tears.
 
@@ -5786,13 +5786,13 @@ translator: thothica
 
 **8.50.17**  O hero, if today you do not slay that son of a charioteer, I shall abandon my very breath of life — for what use have I of living?"
 
-**8.50.18**  Thus addressed, the Ever-Victorious replied, O bull of the Bharatas: "By truth I swear to you, O king, and by your own favor, and by Bhīma, O best of men, and by the twins, O lord of the earth —
+**8.50.18**  Thus addressed, the Ever-Victorious replied, O bull of the Bhāratas: "By truth I swear to you, O king, and by your own favor, and by Bhīma, O best of men, and by the twins, O lord of the earth —
 
 **8.50.19**  that this very day in battle I shall slay Karṇa, or else, slain, I shall fall upon the earth. By truth I lay my hand upon my weapon."
 
 **8.50.20**  Having spoken thus to the king, he addressed these words to Mādhava: "This day in battle I shall slay Karṇa, O Kṛṣṇa — there is no doubt. Set your mind, may you prosper, upon the death of that evil-souled one."
 
-**8.50.21**  Thus addressed, Keśava said to Pārtha, O best of kings: "I am able, O best of the Bharatas, to make every effort according to my strength.
+**8.50.21**  Thus addressed, Keśava said to Pārtha, O best of kings: "I am able, O best of the Bhāratas, to make every effort according to my strength.
 
 **8.50.22**  And this too has ever been my desire, O great chariot-warrior; my thought is always how you might slay Karṇa in battle."
 
@@ -5826,7 +5826,7 @@ translator: thothica
 
 **8.50.37**  Let the well-trained horses and the skilled horsemen, with all the gear of the chariot, come forth in haste."
 
-**8.50.38**  When this was spoken, O great king, by the high-souled Phalguna, Kṛṣṇa said to Dāruka: "Do all as Arjuna, best of the Bharatas, foremost of all bowmen, has said."
+**8.50.38**  When this was spoken, O great king, by the high-souled Phalguna, Kṛṣṇa said to Dāruka: "Do all as Arjuna, best of the Bhāratas, foremost of all bowmen, has said."
 
 **8.50.39**  Then, commanded by Kṛṣṇa, Dāruka, O best of kings, yoked that tiger-skinned chariot, the scorcher of foes.
 
@@ -6062,7 +6062,7 @@ translator: thothica
 
 **8.51.90**  Then, beholding Adhiratha's son slain by you, let Suyodhana this day despair of his life and of his kingdom alike, O Dhanaṃjaya.
 
-**8.51.91**  See, O best of the Bharatas, the Pāñcālas, eager to rescue the Pāṇḍavas, take flight as they are cut down by Karṇa's keen arrows.
+**8.51.91**  See, O best of the Bhāratas, the Pāñcālas, eager to rescue the Pāṇḍavas, take flight as they are cut down by Karṇa's keen arrows.
 
 **8.51.92**  The Pāñcālas, the sons of Draupadī, Dhṛṣṭadyumna and Śikhaṇḍin, the sons of Dhṛṣṭadyumna, and Śatānīka the son of Nakula—
 
@@ -6096,7 +6096,7 @@ translator: thothica
 
 **8.51.107**  I see no warrior in Yudhiṣṭhira's host save you who, having encountered the son of Rādhā, could return home unscathed.
 
-**8.51.108**  Slay him this day with your whetted arrows, O bull of the Bharatas, and fulfilling your vow, O Pārtha, win renown.
+**8.51.108**  Slay him this day with your whetted arrows, O bull of the Bhāratas, and fulfilling your vow, O Pārtha, win renown.
 
 **8.51.109**  For you alone are able in battle to conquer the Kauravas, Karṇa and all; no other warrior can, O best of fighters. This truth I tell you.
 
@@ -6312,13 +6312,13 @@ translator: thothica
 
 **8.55.29**  Seeing his fearsome forces thus tormented by Bhīmasena, O Bhārata, King Duryodhana spoke these words.
 
-**8.55.30**  That mighty bowman, O bull of the Bharatas, commanded all his soldiers and warriors in the battle: "Slay Bhīma! Once he is slain, I deem the whole army slain to the last man."
+**8.55.30**  That mighty bowman, O bull of the Bhāratas, commanded all his soldiers and warriors in the battle: "Slay Bhīma! Once he is slain, I deem the whole army slain to the last man."
 
 **8.55.31**  Accepting that command of your son, the kings veiled Bhīma on every side with showers of arrows.
 
 **8.55.32**  Elephants in multitudes, O king, and men greedy for victory, chariots and horses, O lord of kings, encircled Vṛkodara.
 
-**8.55.33**  Hemmed in on all sides by those heroes, the hero, O king, O best of the Bharatas, shone like the moon amid the stars.
+**8.55.33**  Hemmed in on all sides by those heroes, the hero, O king, O best of the Bhāratas, shone like the moon amid the stars.
 
 **8.55.34**  That comely best of men so blazed in the battle, O great king, no whit different from Vijaya himself.
 
@@ -6398,7 +6398,7 @@ translator: thothica
 
 **8.55.72**  As shipwrecked sailors, O king, O tiger among men, find peace upon reaching an island when their hour of doom is past,
 
-**8.55.73**  even so, having reached Karṇa, your men, O bull of the Bharatas, took heart and stood firm, O king, rejoicing one with another, and came together again for battle, making their stand against death.
+**8.55.73**  even so, having reached Karṇa, your men, O bull of the Bhāratas, took heart and stood firm, O king, rejoicing one with another, and came together again for battle, making their stand against death.
 
 **8.56.1**  Dhṛtarāṣṭra said: When the armies had been broken by Bhīmasena in the battle, what did Duryodhana say, and what the son of Subala, O Saṃjaya?
 
@@ -6720,7 +6720,7 @@ translator: thothica
 
 **8.59.5**  Slain by the arrows of many forms loosed by the Diademed One, they fell as Siddhas with their celestial cars fall from heaven when their merit is spent.
 
-**8.59.6**  Then the Kurus, with their chariots, elephants, and horses, fearlessly bore down, O best of the Kurus, upon Phalguna, the foremost of the Bharatas.
+**8.59.6**  Then the Kurus, with their chariots, elephants, and horses, fearlessly bore down, O best of the Kurus, upon Phalguna, the foremost of the Bhāratas.
 
 **8.59.7**  That great army of your sons—strained to the utmost, its weapons not yet spent, its mighty elephants reared up—Dhanaṃjaya held in check.
 
@@ -6748,7 +6748,7 @@ translator: thothica
 
 **8.59.19**  In that moment the strength of the Pāṇḍava's arms was made manifest, for alone in battle he conquered cavalry and elephants and chariots.
 
-**8.59.20**  Then, O bull of the Bharatas, seeing the Diademed One surrounded by a great threefold host, O king, Bhīmasena—
+**8.59.20**  Then, O bull of the Bhāratas, seeing the Diademed One surrounded by a great threefold host, O king, Bhīmasena—
 
 **8.59.21**  leaving behind the few chariots of your side that survived the slaughter, charged with speed, O king, toward Dhanaṃjaya's chariot.
 
@@ -7068,7 +7068,7 @@ translator: thothica
 
 **8.63.22**  Beholding those two great warriors in their splendor, O mighty king, wonder took hold of the hosts of the Siddhas and the Cāraṇas.
 
-**8.63.23**  Then the sons of Dhṛtarāṣṭra with their forces, O bull of the Bharatas, swiftly closed in around the great-souled Karṇa, resplendent in the fray.
+**8.63.23**  Then the sons of Dhṛtarāṣṭra with their forces, O bull of the Bhāratas, swiftly closed in around the great-souled Karṇa, resplendent in the fray.
 
 **8.63.24**  In the same way the Pāṇḍavas, exultant and led by Dhṛṣṭadyumna, closed in around the great-souled Pārtha, who had no equal in battle.
 
@@ -7082,7 +7082,7 @@ translator: thothica
 
 **8.63.29**  Both longed to strike each other down on every side, like Indra and Vṛtra; terrible of form, they stood like two great smoke-wreathed planets of ill omen.
 
-**8.63.30**  Then in the sky, O bull of the Bharatas, there arose taunting wrangles and mutual divisions among the beings over Karṇa and Arjuna; the quarters were split, my lord, and all the worlds took different sides.
+**8.63.30**  Then in the sky, O bull of the Bhāratas, there arose taunting wrangles and mutual divisions among the beings over Karṇa and Arjuna; the quarters were split, my lord, and all the worlds took different sides.
 
 **8.63.31**  Gods, Dānavas, and Gandharvas, Piśācas, serpents, and Rākṣasas took up opposing partisanships at the encounter of Karṇa and Arjuna.
 
@@ -7300,7 +7300,7 @@ translator: thothica
 
 **8.65.23**  'I now bring forth this great and terrible weapon, for the welfare of the world and for the slaying of the charioteer's son; for this let me have leave from you, and from the gods, from Brahmā, from Bhava, and from all who know the Brahman.'
 
-**8.65.24**  Having spoken thus, he brought forth, governed by his mind, the unbearable weapon of Brahmā; then that one of abundant splendor veiled all the quarters and intermediate quarters with his shafts, and the bull of the Bharatas loosed his arrows by the hundredfold, as if they were one, of headlong speed.
+**8.65.24**  Having spoken thus, he brought forth, governed by his mind, the unbearable weapon of Brahmā; then that one of abundant splendor veiled all the quarters and intermediate quarters with his shafts, and the bull of the Bhāratas loosed his arrows by the hundredfold, as if they were one, of headlong speed.
 
 **8.65.25**  By Vaikartana likewise, there in the midst of battle, were loosed masses of arrows by the thousand; roaring, they bore down upon the Pāṇḍava, like streams of water released by the rain-cloud.
 

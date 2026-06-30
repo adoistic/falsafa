@@ -1,402 +1,82 @@
 [
-  {
-    "ref": "1.103.10",
-    "sanskrit": "iti śrutvā ca tattvena bhīṣmaḥ kurupitāmahaḥ tato gāndhārarājasya preṣayām āsa bhārata",
-    "english": "Having truly heard this, Bhīṣma, the grandsire of the Kurus, thereupon dispatched a messenger to the king of Gāndhāra, O Bharata."
-  },
-  {
-    "ref": "1.103.11",
-    "sanskrit": "acakṣur iti tatrāsīt subalasya vicāraṇā kulaṃ khyātiṃ ca vṛttaṃ ca buddhyā tu prasamīkṣya saḥ dadau tāṃ dhṛtarāṣṭrāya gāndhārīṃ dharmacāriṇīm",
-    "english": "There was hesitation on the part of Subala on account of Dhṛtarāṣṭra's blindness; but weighing carefully with his intellect the family, the fame, and the conduct of the Kurus, he gave Gāndhārī, that virtuous woman, to Dhṛtarāṣṭra."
-  },
-  {
-    "ref": "1.103.12",
-    "sanskrit": "gāndhārī tv api śuśrāva dhṛtarāṣṭram acakṣuṣam ātmānaṃ ditsitaṃ cāsmai pitrā mātrā ca bhārata",
-    "english": "Gāndhārī too had heard that Dhṛtarāṣṭra was blind and that she was being given to him by her father and mother, O Bharata."
-  },
-  {
-    "ref": "1.103.13",
-    "sanskrit": "tataḥ sā paṭṭam ādāya kṛtvā bahuguṇaṃ śubhā babandha netre sve rājan pativrataparāyaṇā nātyaśnīyāṃ patim aham ity evaṃ kṛtaniścayā",
-    "english": "Then that auspicious woman, devoted to her vow of fidelity to her husband, resolved that she would not surpass her lord; she took a strip of cloth, folded it many times, and bound it over her own eyes, O king."
-  },
-  {
-    "ref": "1.103.14",
-    "sanskrit": "tato gāndhārarājasya putraḥ śakunir abhyayāt svasāraṃ parayā lakṣmyā yuktām ādāya kauravān",
-    "english": "Then Śakuni, son of the king of Gāndhāra, came bringing his sister, endowed with great beauty, to the Kauravas."
-  },
-  {
-    "ref": "1.103.15",
-    "sanskrit": "dattvā sa bhaginīṃ vīro yathārhaṃ ca paricchadam punar āyāt svanagaraṃ bhīṣmeṇa pratipūjitaḥ",
-    "english": "That hero, having given his sister along with fitting gifts and apparel, returned to his own city, having been honored by Bhīṣma."
-  },
-  {
-    "ref": "1.103.16",
-    "sanskrit": "gāndhāry api varārohā śīlācāraviceṣṭitaiḥ tuṣṭiṃ kurūṇāṃ sarveṣāṃ janayām āsa bhārata",
-    "english": "Gāndhārī too, that most excellent woman, through her conduct, deportment, and behavior, gave satisfaction to all the Kurus, O Bharata."
-  },
-  {
-    "ref": "1.103.17",
-    "sanskrit": "vṛttenārādhya tān sarvān pativrataparāyaṇā vācāpi puruṣān anyān suvratā nānvakīrtayat",
-    "english": "Devoted to her vow of chastity, she propitiated them all by her conduct; and firm in her vow, she never praised even in speech any other man."
-  },
-  {
-    "ref": "1.104.1",
-    "sanskrit": "vaiśaṃpāyana uvāca śūro nāma yaduśreṣṭho vasudevapitābhavat tasya kanyā pṛthā nāma rūpeṇāsadṛśī bhuvi",
-    "english": "Vaiśaṃpāyana said: There was a foremost of the Yadus named Śūra who was the father of Vāsudeva; he had a daughter named Pṛthā, unequaled in beauty on earth."
-  },
-  {
-    "ref": "1.104.2",
-    "sanskrit": "paitṛṣvaseyāya sa tām anapatyāya vīryavān agryam agre pratijñāya svasyāpatyasya vīryavān",
-    "english": "That mighty hero, having first made a solemn promise to his father's sister's son who was childless, gave to him the first-born of his own offspring."
-  },
-  {
-    "ref": "1.104.3",
-    "sanskrit": "agrajāteti tāṃ kanyām agryānugrahakāṅkṣiṇe pradadau kuntibhojāya sakhā sakhye mahātmane",
-    "english": "He gave that first-born daughter, whom he had pledged as the foremost gift, to Kuntibhoja, his great-souled friend — given friend to friend."
-  },
-  {
-    "ref": "1.104.4",
-    "sanskrit": "sā niyuktā pitur gehe devatātithipūjane ugraṃ paryacarad ghoraṃ brāhmaṇaṃ saṃśitavratam",
-    "english": "She, appointed in her father's house to the service of gods and guests, attended with devotion a fierce and terrible Brahmin of intense austerity."
-  },
-  {
-    "ref": "1.104.5",
-    "sanskrit": "nigūḍhaniścayaṃ dharme yaṃ taṃ durvāsasaṃ viduḥ tam ugraṃ saṃśitātmānaṃ sarvayatnair atoṣayat",
-    "english": "Him of deep resolve in righteousness, whom they know as Durvasa — that fierce one of sharpened spirit — she pleased by every effort."
-  },
-  {
-    "ref": "1.104.6",
-    "sanskrit": "tasyai sa pradadau mantram āpaddharmānvavekṣayā abhicārābhisaṃyuktam abravīc caiva tāṃ muniḥ",
-    "english": "Considering the dharma applicable in times of difficulty, he gave her a mantra endowed with power to summon, and the sage spoke thus to her."
-  },
-  {
-    "ref": "1.104.7",
-    "sanskrit": "yaṃ yaṃ devaṃ tvam etena mantreṇāvāhayiṣyasi tasya tasya prasādena putras tava bhaviṣyati",
-    "english": "Whichever deity you invoke with this mantra, by that deity's favor a son shall be born to you."
-  },
-  {
-    "ref": "1.104.8",
-    "sanskrit": "tathoktā sā tu vipreṇa tena kautūhalāt tadā kanyā satī devam arkam ājuhāva yaśasvinī",
-    "english": "Thus addressed by that Brahmin, that virtuous and glorious maiden, out of curiosity, then invoked the sun-god Arka."
-  },
-  {
-    "ref": "1.104.9",
-    "sanskrit": "sā dadarśa tam āyāntaṃ bhāskaraṃ lokabhāvanam vismitā cānavadyāṅgī dṛṣṭvā tan mahad adbhutam",
-    "english": "She saw the sun, the illuminator of worlds, coming toward her; that woman of flawless limbs was filled with wonder upon beholding that great marvel."
-  },
-  {
-    "ref": "1.104.10",
-    "sanskrit": "prakāśakarmā tapanas tasyāṃ garbhaṃ dadhau tataḥ ajījanat tato vīraṃ sarvaśastrabhṛtāṃ varam āmuktakavacaḥ śrīmān devagarbhaḥ śriyāvṛtaḥ",
-    "english": "Then the sun, whose work is to shine, placed his seed in her; she thereupon gave birth to a hero, the foremost of all who bear weapons — born already wearing his armor, splendid, divine in origin, and invested with radiance."
-  },
-  {
-    "ref": "1.104.11",
-    "sanskrit": "sahajaṃ kavacaṃ bibhrat kuṇḍaloddyotitānanaḥ ajāyata sutaḥ karṇaḥ sarvalokeṣu viśrutaḥ",
-    "english": "Bearing his natural armor and with his face lit by his earrings, was born the son Karṇa, renowned in all the worlds."
-  },
-  {
-    "ref": "1.104.12",
-    "sanskrit": "prādāc ca tasyāḥ kanyātvaṃ punaḥ sa paramadyutiḥ dattvā ca dadatāṃ śreṣṭho divam ācakrame tataḥ",
-    "english": "That most resplendent one, best among givers, restored her maidenhood to her, and having given thus, ascended to heaven."
-  },
-  {
-    "ref": "1.104.13",
-    "sanskrit": "gūhamānāpacāraṃ taṃ bandhupakṣabhayāt tadā utsasarja jale kuntī taṃ kumāraṃ salakṣaṇam",
-    "english": "Concealing that transgression out of fear of her kinsmen, Kuntī then cast that auspiciously marked infant into the water."
-  },
-  {
-    "ref": "1.104.14",
-    "sanskrit": "tam utsṛṣṭaṃ tadā garbhaṃ rādhābhartā mahāyaśāḥ putratve kalpayām āsa sabhāryaḥ sūtanandanaḥ",
-    "english": "That abandoned child was then adopted as a son by the greatly renowned husband of Rādhā, a son of a suta, together with his wife."
-  },
-  {
-    "ref": "1.104.15",
-    "sanskrit": "nāmadheyaṃ ca cakrāte tasya bālasya tāv ubhau vasunā saha jāto 'yaṃ vasuṣeṇo bhavatv iti",
-    "english": "Those two gave a name to that infant: \"Since he was born along with wealth, let him be called Vasushena.\""
-  },
-  {
-    "ref": "1.104.16",
-    "sanskrit": "sa vardhamāno balavān sarvāstreṣūdyato 'bhavat ā pṛṣṭhatāpād ādityam upatasthe sa vīryavān",
-    "english": "Growing up and becoming powerful, he applied himself to all weapons; that mighty hero would stand in worship of the sun until the heat touched his back."
-  },
-  {
-    "ref": "1.104.17",
-    "sanskrit": "yasmin kāle japann āste sa vīraḥ satyasaṃgaraḥ nādeyaṃ brāhmaṇeṣv āsīt tasmin kāle mahātmanaḥ",
-    "english": "At the time when that hero of truthful pledge sat muttering prayers, there was nothing that this great-souled one would refuse to give to Brahmins."
-  },
-  {
-    "ref": "1.104.18",
-    "sanskrit": "tam indro brāhmaṇo bhūtvā bhikṣārthaṃ bhūtabhāvanaḥ kuṇḍale prārthayām āsa kavacaṃ ca mahādyutiḥ",
-    "english": "Indra, the nourisher of all beings and of great splendor, taking the form of a Brahmin, approached him as a suppliant and begged for his earrings and his armor."
-  },
-  {
-    "ref": "1.104.19",
-    "sanskrit": "utkṛtya vimanāḥ svāṅgāt kavacaṃ rudhirasravam karṇas tu kuṇḍale chittvā prāyacchat sa kṛtāñjaliḥ",
-    "english": "Karṇa, though pained, cut off from his own body his armor dripping with blood, and severing his earrings, gave them with joined palms."
-  },
-  {
-    "ref": "1.104.20",
-    "sanskrit": "śaktiṃ tasmai dadau śakraḥ vismito vākyam abravīt devāsuramanuṣyāṇāṃ gandharvoragarakṣasām yasmai kṣepsyasi ruṣṭaḥ san so 'nayā na bhaviṣyati",
-    "english": "Śakra, astonished, gave him the Shakti weapon and said: \"Among gods, asuras, men, gandharvas, serpents, and rakshasas — at whomever you hurl this in anger, he shall be no more.\""
-  },
-  {
-    "ref": "1.104.21",
-    "sanskrit": "purā nāma tu tasyāsīd vasuṣeṇa iti śrutam tato vaikartanaḥ karṇaḥ karmaṇā tena so 'bhavat",
-    "english": "His former name had been known as Vasushena; thereafter by that deed he became Vaikartana Karṇa — the cutter of his own flesh."
-  },
-  {
-    "ref": "1.105.1",
-    "sanskrit": "vaiśaṃpāyana uvāca rūpasattvaguṇopetā dharmārāmā mahāvratā duhitā kuntibhojasya kṛte pitrā svayaṃvare",
-    "english": "Vaiśaṃpāyana said: The daughter of Kuntibhoja, endowed with beauty, valor, and virtue, devoted to righteousness and of great vows, was presented by her father at a swayamvara."
-  },
-  {
-    "ref": "1.105.2",
-    "sanskrit": "siṃhadaṃṣṭraṃ gajaskandham ṛṣabhākṣaṃ mahābalam bhūmipālasahasrāṇāṃ madhye pāṇḍum avindata",
-    "english": "She chose Pāṇḍu — lion-fanged, elephant-shouldered, bull-eyed, and of great might — from among thousands of kings."
-  },
-  {
-    "ref": "1.105.3",
-    "sanskrit": "sa tayā kuntibhojasya duhitrā kurunandanaḥ yuyuje 'mitasaubhāgyaḥ paulomyā maghavān iva",
-    "english": "That joy of the Kurus, of immeasurable good fortune, was united with her, the daughter of Kuntibhoja, as Maghavan was united with Paulomi."
-  },
-  {
-    "ref": "1.105.4",
-    "sanskrit": "yātvā devavratenāpi madrāṇāṃ puṭabhedanam viśrutā triṣu lokeṣu mādrī madrapateḥ sutā",
-    "english": "By Devavrata's going also to the capital of the Madras, Mādrī, daughter of the lord of the Madras, renowned in the three worlds, was obtained."
-  },
-  {
-    "ref": "1.105.5",
-    "sanskrit": "sarvarājasu vikhyātā rūpeṇāsadṛśī bhuvi pāṇḍor arthe parikrītā dhanena mahatā tadā vivāhaṃ kārayām āsa bhīṣmaḥ pāṇḍor mahātmanaḥ",
-    "english": "She was celebrated among all kings and unequaled in beauty on earth; she was purchased for Pāṇḍu's sake with great wealth, and then Bhīṣma caused the marriage of the great-souled Pāṇḍu."
-  },
-  {
-    "ref": "1.105.6",
-    "sanskrit": "siṃhoraskaṃ gajaskandham ṛṣabhākṣaṃ manasvinam pāṇḍuṃ dṛṣṭvā naravyāghraṃ vyasmayanta narā bhuvi",
-    "english": "Seeing Pāṇḍu — lion-chested, elephant-shouldered, bull-eyed, high-minded, that tiger among men — people on earth were filled with wonder."
-  },
-  {
-    "ref": "1.105.7",
-    "sanskrit": "kṛtodvāhas tataḥ pāṇḍur balotsāhasamanvitaḥ jigīṣamāṇo vasudhāṃ yayau śatrūn anekaśaḥ",
-    "english": "Then Pāṇḍu, having wed, endowed with strength and enthusiasm, desiring to conquer the earth, went against enemies on many fronts."
-  },
-  {
-    "ref": "1.105.8",
-    "sanskrit": "pūrvam āgaskṛto gatvā daśārṇāḥ samare jitāḥ pāṇḍunā narasiṃhena kauravāṇāṃ yaśobhṛtā",
-    "english": "Going first against those who had given offence, the Daśārṇas were conquered in battle by Pāṇḍu, that lion among men, the bearer of the Kauravas' glory."
-  },
-  {
-    "ref": "1.105.9",
-    "sanskrit": "tataḥ senām upādāya pāṇḍur nānāvidhadhvajām prabhūtahastyaśvarathāṃ padātigaṇasaṃkulām",
-    "english": "Then Pāṇḍu, taking an army bearing banners of many kinds, rich in elephants, horses, and chariots, and teeming with masses of foot-soldiers —"
-  },
-  {
-    "ref": "1.105.10",
-    "sanskrit": "āgaskṛt sarvavīrāṇāṃ vairī sarvamahībhṛtām goptā magadharāṣṭrasya dārvo rājagṛhe hataḥ",
-    "english": "— the foe of all heroes, the adversary of all lords of the earth: Darva, the protector of the Magadha realm, was slain at Rājagṛha."
-  },
-  {
-    "ref": "1.105.11",
-    "sanskrit": "tataḥ kośaṃ samādāya vāhanāni balāni ca pāṇḍunā mithilāṃ gatvā videhāḥ samare jitāḥ",
-    "english": "Then, after taking treasury, conveyances, and forces, Pāṇḍu marched to Mithilā and conquered the Videhas in battle."
-  },
-  {
-    "ref": "1.105.12",
-    "sanskrit": "tathā kāśiṣu suhmeṣu puṇḍreṣu bharatarṣabha svabāhubalavīryeṇa kurūṇām akarod yaśaḥ",
-    "english": "Likewise among the Kāśis, the Suhmas, and the Puṇḍras, O bull of the Bharatas, by the strength and valor of his own arms he brought glory to the Kurus."
-  },
-  {
-    "ref": "1.105.13",
-    "sanskrit": "taṃ śaraughamahājvālam astrārciṣam ariṃdamam pāṇḍupāvakam āsādya vyadahyanta narādhipāḥ",
-    "english": "Coming against him — that tamer of foes blazing like a great fire with showers of arrows and flames of weapons, that Pāṇḍu-conflagration — kings were burned up."
-  },
-  {
-    "ref": "1.105.14",
-    "sanskrit": "te sasenāḥ sasenena vidhvaṃsitabalā nṛpāḥ pāṇḍunā vaśagāḥ kṛtvā karakarmasu yojitāḥ",
-    "english": "Those kings, their forces shattered by Pāṇḍu and his forces, were brought into submission and assigned to the works of tribute."
-  },
-  {
-    "ref": "1.105.15",
-    "sanskrit": "tena te nirjitāḥ sarve pṛthivyāṃ sarvapārthivāḥ tam ekaṃ menire śūraṃ deveṣv iva puraṃdaram",
-    "english": "By him all those kings of the earth were vanquished; they regarded him alone as the great hero, as the gods regard Purandara."
-  },
-  {
-    "ref": "1.105.16",
-    "sanskrit": "taṃ kṛtāñjalayaḥ sarve praṇatā vasudhādhipāḥ upājagmur dhanaṃ gṛhya ratnāni vividhāni ca",
-    "english": "All those lords of the earth came to him with joined palms, bowing low, bearing wealth and various jewels."
-  },
-  {
-    "ref": "1.105.17",
-    "sanskrit": "maṇimuktāpravālaṃ ca suvarṇaṃ rajataṃ tathā goratnāny aśvaratnāni ratharatnāni kuñjarān",
-    "english": "Gems, pearls, and coral, gold and silver, choice cattle, choice horses, choice chariots, and elephants —"
-  },
-  {
-    "ref": "1.105.18",
-    "sanskrit": "kharoṣṭramahiṣāṃś caiva yac ca kiṃ cid ajāvikam tat sarvaṃ pratijagrāha rājā nāgapurādhipaḥ",
-    "english": "— and donkeys, camels, and buffaloes, and whatever sheep and goats there were — all this the king, the lord of Hāstinapura, accepted."
-  },
-  {
-    "ref": "1.105.19",
-    "sanskrit": "tad ādāya yayau pāṇḍuḥ punar muditavāhanaḥ harṣayiṣyan svarāṣṭrāṇi puraṃ ca gajasāhvayam",
-    "english": "Taking all that, Pāṇḍu set out again with his army rejoicing, intending to gladden his own kingdom and the city of Hāstinapura."
-  },
-  {
-    "ref": "1.105.20",
-    "sanskrit": "śaṃtano rājasiṃhasya bharatasya ca dhīmataḥ pranaṣṭaḥ kīrtijaḥ śabdaḥ pāṇḍunā punar uddhṛtaḥ",
-    "english": "The fame born of glory that had been lost to Shantanu, that lion among kings, and to the wise Bharata, was raised up again by Pāṇḍu."
-  },
-  {
-    "ref": "1.105.21",
-    "sanskrit": "ye purā kururāṣṭrāṇi jahruḥ kurudhanāni ca te nāgapurasiṃhena pāṇḍunā karadāḥ kṛtāḥ",
-    "english": "Those who had formerly seized the Kuru kingdoms and the wealth of the Kurus were made tribute-paying by Pāṇḍu, the lion of Hāstinapura."
-  },
-  {
-    "ref": "1.105.22",
-    "sanskrit": "ity abhāṣanta rājāno rājāmātyāś ca saṃgatāḥ pratītamanaso hṛṣṭāḥ paurajānapadaiḥ saha",
-    "english": "So spoke the assembled kings and their ministers, their minds filled with satisfaction and joy, together with the townspeople and country folk."
-  },
-  {
-    "ref": "1.105.23",
-    "sanskrit": "pratyudyayus taṃ saṃprāptaṃ sarve bhīṣmapurogamāḥ te nadūram ivādhvānaṃ gatvā nāgapurālayāḥ āvṛtaṃ dadṛśur lokaṃ hṛṣṭā bahuvidhair janaiḥ",
-    "english": "All went forth to meet him on his arrival, led by Bhīṣma; those dwellers of Hāstinapura, going as if the road were not far, saw joyfully that the whole world was thronged with many kinds of people."
-  },
-  {
-    "ref": "1.105.24",
-    "sanskrit": "nānāyānasamānītai ratnair uccāvacais tathā hastyaśvaratharatnaiś ca gobhir uṣṭrair athāvikaiḥ nāntaṃ dadṛśur āsādya bhīṣmeṇa saha kauravāḥ",
-    "english": "With jewels of high and low quality brought on various vehicles, with choice elephants, horses, and chariots, with cattle, camels, and sheep — the Kauravas together with Bhīṣma, coming upon it all, could see no end to it."
-  },
-  {
-    "ref": "1.105.25",
-    "sanskrit": "so 'bhivādya pituḥ pādau kausalyānandavardhanaḥ yathārhaṃ mānayām āsa paurajānapadān api",
-    "english": "He, the increaser of Kausalyā's joy, paid reverence to his father's feet, and duly honored the townspeople and country folk as well."
-  },
-  {
-    "ref": "1.105.26",
-    "sanskrit": "pramṛdya pararāṣṭrāṇi kṛtārthaṃ punarāgatam putram āsādya bhīṣmas tu harṣād aśrūṇy avartayat",
-    "english": "Bhīṣma, meeting his son who had returned fulfilled in purpose after crushing enemy kingdoms, shed tears of joy."
-  },
-  {
-    "ref": "1.105.27",
-    "sanskrit": "sa tūryaśatasaṃghānāṃ bherīṇāṃ ca mahāsvanaiḥ harṣayan sarvaśaḥ paurān viveśa gajasāhvayam",
-    "english": "To the great sounds of hundreds of musical instruments and kettledrums, gladdening the citizens on all sides, he entered Hāstinapura."
-  },
-  {
-    "ref": "1.106.1",
-    "sanskrit": "vaiśaṃpāyana uvāca dhṛtarāṣṭrābhyanujñātaḥ svabāhuvijitaṃ dhanam bhīṣmāya satyavatyai ca mātre copajahāra saḥ",
-    "english": "Vaiśaṃpāyana said: With Dhṛtarāṣṭra's permission, he presented the wealth conquered by his own arms to Bhīṣma, to Satyavatī, and to his mother."
-  },
-  {
-    "ref": "1.106.2",
-    "sanskrit": "vidurāya ca vai pāṇḍuḥ preṣayām āsa tad dhanam suhṛdaś cāpi dharmātmā dhanena samatarpayat",
-    "english": "Pāṇḍu also sent that wealth to Vidura; and that righteous soul fully satisfied his friends with treasure."
-  },
-  {
-    "ref": "1.106.3",
-    "sanskrit": "tataḥ satyavatīṃ bhīṣmaḥ kausalyāṃ ca yaśasvinīm śubhaiḥ pāṇḍujitai ratnais toṣayām āsa bhārata",
-    "english": "Then Bhīṣma satisfied Satyavatī and the glorious Kausalyā with auspicious jewels won by Pāṇḍu, O Bharata."
-  },
-  {
-    "ref": "1.106.4",
-    "sanskrit": "nananda mātā kausalyā tam apratimatejasam jayantam iva paulomī pariṣvajya nararṣabham",
-    "english": "His mother Kausalyā rejoiced, embracing that bull among men of matchless splendor, even as Paulomi embraces the victorious Jayanta."
-  },
-  {
-    "ref": "1.106.5",
-    "sanskrit": "tasya vīrasya vikrāntaiḥ sahasraśatadakṣiṇaiḥ aśvamedhaśatair īje dhṛtarāṣṭro mahāmakhaiḥ",
-    "english": "With the conquests of that hero, Dhṛtarāṣṭra performed a hundred horse-sacrifices — great rites with hundreds of thousands in sacrificial gifts."
-  },
-  {
-    "ref": "1.106.6",
-    "sanskrit": "saṃprayuktaś ca kuntyā ca mādryā ca bharatarṣabha jitatandrīs tadā pāṇḍur babhūva vanagocaraḥ",
-    "english": "Joined together with Kuntī and with Mādrī, O bull of the Bharatas, Pāṇḍu, free from sloth, then became a wanderer of the forests."
-  },
-  {
-    "ref": "1.106.7",
-    "sanskrit": "hitvā prāsādanilayaṃ śubhāni śayanāni ca araṇyanityaḥ satataṃ babhūva mṛgayāparaḥ",
-    "english": "Abandoning his palace dwelling and his fine beds, he became constantly given to forest life, ever devoted to the hunt."
-  },
-  {
-    "ref": "1.106.8",
-    "sanskrit": "sa caran dakṣiṇaṃ pārśvaṃ ramyaṃ himavato gireḥ uvāsa giripṛṣṭheṣu mahāśālavaneṣu ca",
-    "english": "Roaming the lovely southern slopes of the Himalayan mountain, he dwelt on mountain ridges and in forests of great shala trees."
-  },
-  {
-    "ref": "1.106.9",
-    "sanskrit": "rarāja kuntyā mādryā ca pāṇḍuḥ saha vane vasan kareṇvor iva madhyasthaḥ śrīmān pauraṃdaro gajaḥ",
-    "english": "Pāṇḍu shone in the forest dwelling together with Kuntī and Mādrī, like the splendid elephant of Purandara standing between two she-elephants."
-  },
-  {
-    "ref": "1.106.10",
-    "sanskrit": "bhārataṃ saha bhāryābhyāṃ bāṇakhaḍgadhanurdharam vicitrakavacaṃ vīraṃ paramāstravidaṃ nṛpam devo 'yam ity amanyanta carantaṃ vanavāsinaḥ",
-    "english": "The forest dwellers, seeing that Bharata king roaming with his two wives, bearing arrows, sword, and bow, wearing varied armor, a hero and master of weapons supreme, thought him a god."
-  },
-  {
-    "ref": "1.106.11",
-    "sanskrit": "tasya kāmāṃś ca bhogāṃś ca narā nityam atandritāḥ upajahrur vanānteṣu dhṛtarāṣṭreṇa coditāḥ",
-    "english": "Men, ever diligent and urged on by Dhṛtarāṣṭra, brought constantly to the forest his desires and enjoyments."
-  },
-  {
-    "ref": "1.106.12",
-    "sanskrit": "atha pāraśavīṃ kanyāṃ devakasya mahīpateḥ rūpayauvanasaṃpannāṃ sa śuśrāvāpagāsutaḥ",
-    "english": "Then the son of the Gaṅgā heard of a Pāraśava maiden, daughter of King Devaka, endowed with beauty and youth."
-  },
-  {
-    "ref": "1.106.13",
-    "sanskrit": "tatas tu varayitvā tām ānāyya puruṣarṣabhaḥ vivāhaṃ kārayām āsa vidurasya mahāmateḥ",
-    "english": "Then that bull among men, having wooed and brought her, caused the marriage of the great-minded Vidura."
-  },
-  {
-    "ref": "1.106.14",
-    "sanskrit": "tasyāṃ cotpādayām āsa viduraḥ kurunandanaḥ putrān vinayasaṃpannān ātmanaḥ sadṛśān guṇaiḥ",
-    "english": "And Vidura, the joy of the Kurus, begot upon her sons possessed of good breeding, equal to himself in qualities."
-  },
-  {
-    "ref": "1.107.1",
-    "sanskrit": "vaiśaṃpāyana uvāca tataḥ putraśataṃ jajñe gāndhāryāṃ janamejaya dhṛtarāṣṭrasya vaiśyāyām ekaś cāpi śatāt paraḥ",
-    "english": "Vaiśaṃpāyana said: Then, O Janamejaya, a hundred sons were born to Dhṛtarāṣṭra through Gāndhārī, and one more beyond the hundred through a Vaiśya woman."
-  },
-  {
-    "ref": "1.107.2",
-    "sanskrit": "pāṇḍoḥ kuntyāṃ ca mādryāṃ ca pañca putrā mahārathāḥ devebhyaḥ samapadyanta saṃtānāya kulasya vai",
-    "english": "To Pāṇḍu through Kuntī and through Mādrī were born five great warriors, obtained from the gods for the continuation of the family line."
-  },
-  {
-    "ref": "1.107.3",
-    "sanskrit": "janamejaya uvāca kathaṃ putraśataṃ jajñe gāndhāryāṃ dvijasattama kiyatā caiva kālena teṣām āyuś ca kiṃ param",
-    "english": "Janamejaya said: How were a hundred sons born to Gāndhārī, O best of twice-born? And in how much time? And what was their highest lifespan?"
-  },
-  {
-    "ref": "1.107.4",
-    "sanskrit": "kathaṃ caikaḥ sa vaiśyāyāṃ dhṛtarāṣṭrasuto 'bhavat kathaṃ ca sadṛśīṃ bhāryāṃ gāndhārīṃ dharmacāriṇīm ānukūlye vartamānāṃ dhṛtarāṣṭro 'tyavartata",
-    "english": "How did that one son of Dhṛtarāṣṭra come to be through the Vaiśya woman? And how did Dhṛtarāṣṭra transgress against Gāndhārī his wife — a woman of righteous conduct equal to himself, living in devotion to him?"
-  },
-  {
-    "ref": "1.107.5",
-    "sanskrit": "kathaṃ ca śaptasya sataḥ pāṇḍos tena mahātmanā samutpannā daivatebhyaḥ pañca putrā mahārathāḥ",
-    "english": "And how, from Pāṇḍu who had been cursed by that great soul, were born five sons, great warriors, from the gods?"
-  },
-  {
-    "ref": "1.107.6",
-    "sanskrit": "etad vidvan yathāvṛttaṃ vistareṇa tapodhana kathayasva na me tṛptiḥ kathyamāneṣu bandhuṣu",
-    "english": "Knowing all this as it happened, tell it in full, O wealth of austerity; I am not satisfied when my kinsmen are being told of."
-  },
-  {
-    "ref": "1.107.7",
-    "sanskrit": "vaiśaṃpāyana uvāca kṣucchramābhipariglānaṃ dvaipāyanam upasthitam toṣayām āsa gāndhārī vyāsas tasyai varaṃ dadau",
-    "english": "Vaiśaṃpāyana said: Gāndhārī satisfied Dvaipāyana when he came, worn out by hunger and fatigue; and Vyāsa gave her a boon."
-  },
-  {
-    "ref": "1.107.8",
-    "sanskrit": "sā vavre sadṛśaṃ bhartuḥ putrāṇāṃ śatam ātmanaḥ tataḥ kālena sā garbhaṃ dhṛtarāṣṭrād athāgrahīt",
-    "english": "She chose a hundred sons equal to her husband and herself; then in time she conceived through Dhṛtarāṣṭra."
-  },
-  {
-    "ref": "1.107.9",
-    "sanskrit": "saṃvatsaradvayaṃ taṃ tu gāndhārī garbham āhitam aprajā dhārayām āsa tatas tāṃ duḥkham āviśat",
-    "english": "Gāndhārī, childless, bore that planted embryo for two full years; then sorrow overtook her."
-  },
-  {
-    "ref": "1.107.10",
-    "sanskrit": "śrutvā kuntīsutaṃ jātaṃ bālārkasamatejasam udarasyātmanaḥ sthairyam upalabhyānvacintayat",
-    "english": "Hearing that a son of Kuntī had been born, blazing in splendor like the morning sun, she reflected upon the steadfastness of her own womb."
-  }
+{"ref": "1.103.10", "sanskrit": "iti śrutvā ca tattvena bhīṣmaḥ kurupitāmahaḥ tato gāndhārarājasya preṣayām āsa bhārata", "english": "Having truly heard this, Bhīṣma, the grandsire of the Kurus, thereupon dispatched a messenger to the king of Gāndhāra, O Bhārata."},
+{"ref": "1.103.11", "sanskrit": "acakṣur iti tatrāsīt subalasya vicāraṇā kulaṃ khyātiṃ ca vṛttaṃ ca buddhyā tu prasamīkṣya saḥ dadau tāṃ dhṛtarāṣṭrāya gāndhārīṃ dharmacāriṇīm", "english": "There was hesitation on the part of Subala on account of Dhṛtarāṣṭra's blindness; but weighing carefully with his intellect the family, the fame, and the conduct of the Kurus, he gave Gāndhārī, that virtuous woman, to Dhṛtarāṣṭra."},
+{"ref": "1.103.12", "sanskrit": "gāndhārī tv api śuśrāva dhṛtarāṣṭram acakṣuṣam ātmānaṃ ditsitaṃ cāsmai pitrā mātrā ca bhārata", "english": "Gāndhārī too had heard that Dhṛtarāṣṭra was blind and that she was being given to him by her father and mother, O Bhārata."},
+{"ref": "1.103.13", "sanskrit": "tataḥ sā paṭṭam ādāya kṛtvā bahuguṇaṃ śubhā babandha netre sve rājan pativrataparāyaṇā nātyaśnīyāṃ patim aham ity evaṃ kṛtaniścayā", "english": "Then that auspicious woman, devoted to her vow of fidelity to her husband, resolved that she would not surpass her lord; she took a strip of cloth, folded it many times, and bound it over her own eyes, O king."},
+{"ref": "1.103.14", "sanskrit": "tato gāndhārarājasya putraḥ śakunir abhyayāt svasāraṃ parayā lakṣmyā yuktām ādāya kauravān", "english": "Then Śakuni, son of the king of Gāndhāra, came bringing his sister, endowed with great beauty, to the Kauravas."},
+{"ref": "1.103.15", "sanskrit": "dattvā sa bhaginīṃ vīro yathārhaṃ ca paricchadam punar āyāt svanagaraṃ bhīṣmeṇa pratipūjitaḥ", "english": "That hero, having given his sister along with fitting gifts and apparel, returned to his own city, having been honored by Bhīṣma."},
+{"ref": "1.103.16", "sanskrit": "gāndhāry api varārohā śīlācāraviceṣṭitaiḥ tuṣṭiṃ kurūṇāṃ sarveṣāṃ janayām āsa bhārata", "english": "Gāndhārī too, that most excellent woman, through her conduct, deportment, and behavior, gave satisfaction to all the Kurus, O Bhārata."},
+{"ref": "1.103.17", "sanskrit": "vṛttenārādhya tān sarvān pativrataparāyaṇā vācāpi puruṣān anyān suvratā nānvakīrtayat", "english": "Devoted to her vow of chastity, she propitiated them all by her conduct; and firm in her vow, she never praised even in speech any other man."},
+{"ref": "1.104.1", "sanskrit": "vaiśaṃpāyana uvāca śūro nāma yaduśreṣṭho vasudevapitābhavat tasya kanyā pṛthā nāma rūpeṇāsadṛśī bhuvi", "english": "Vaiśaṃpāyana said: There was a foremost of the Yadus named Śūra who was the father of Vāsudeva; he had a daughter named Pṛthā, unequaled in beauty on earth."},
+{"ref": "1.104.2", "sanskrit": "paitṛṣvaseyāya sa tām anapatyāya vīryavān agryam agre pratijñāya svasyāpatyasya vīryavān", "english": "That mighty hero, having first made a solemn promise to his father's sister's son who was childless, gave to him the first-born of his own offspring."},
+{"ref": "1.104.3", "sanskrit": "agrajāteti tāṃ kanyām agryānugrahakāṅkṣiṇe pradadau kuntibhojāya sakhā sakhye mahātmane", "english": "He gave that first-born daughter, whom he had pledged as the foremost gift, to Kuntibhoja, his great-souled friend — given friend to friend."},
+{"ref": "1.104.4", "sanskrit": "sā niyuktā pitur gehe devatātithipūjane ugraṃ paryacarad ghoraṃ brāhmaṇaṃ saṃśitavratam", "english": "She, appointed in her father's house to the service of gods and guests, attended with devotion a fierce and terrible Brahmin of intense austerity."},
+{"ref": "1.104.5", "sanskrit": "nigūḍhaniścayaṃ dharme yaṃ taṃ durvāsasaṃ viduḥ tam ugraṃ saṃśitātmānaṃ sarvayatnair atoṣayat", "english": "Him of deep resolve in righteousness, whom they know as Durvasa — that fierce one of sharpened spirit — she pleased by every effort."},
+{"ref": "1.104.6", "sanskrit": "tasyai sa pradadau mantram āpaddharmānvavekṣayā abhicārābhisaṃyuktam abravīc caiva tāṃ muniḥ", "english": "Considering the dharma applicable in times of difficulty, he gave her a mantra endowed with power to summon, and the sage spoke thus to her."},
+{"ref": "1.104.7", "sanskrit": "yaṃ yaṃ devaṃ tvam etena mantreṇāvāhayiṣyasi tasya tasya prasādena putras tava bhaviṣyati", "english": "Whichever deity you invoke with this mantra, by that deity's favor a son shall be born to you."},
+{"ref": "1.104.8", "sanskrit": "tathoktā sā tu vipreṇa tena kautūhalāt tadā kanyā satī devam arkam ājuhāva yaśasvinī", "english": "Thus addressed by that Brahmin, that virtuous and glorious maiden, out of curiosity, then invoked the sun-god Arka."},
+{"ref": "1.104.9", "sanskrit": "sā dadarśa tam āyāntaṃ bhāskaraṃ lokabhāvanam vismitā cānavadyāṅgī dṛṣṭvā tan mahad adbhutam", "english": "She saw the sun, the illuminator of worlds, coming toward her; that woman of flawless limbs was filled with wonder upon beholding that great marvel."},
+{"ref": "1.104.10", "sanskrit": "prakāśakarmā tapanas tasyāṃ garbhaṃ dadhau tataḥ ajījanat tato vīraṃ sarvaśastrabhṛtāṃ varam āmuktakavacaḥ śrīmān devagarbhaḥ śriyāvṛtaḥ", "english": "Then the sun, whose work is to shine, placed his seed in her; she thereupon gave birth to a hero, the foremost of all who bear weapons — born already wearing his armor, splendid, divine in origin, and invested with radiance."},
+{"ref": "1.104.11", "sanskrit": "sahajaṃ kavacaṃ bibhrat kuṇḍaloddyotitānanaḥ ajāyata sutaḥ karṇaḥ sarvalokeṣu viśrutaḥ", "english": "Bearing his natural armor and with his face lit by his earrings, was born the son Karṇa, renowned in all the worlds."},
+{"ref": "1.104.12", "sanskrit": "prādāc ca tasyāḥ kanyātvaṃ punaḥ sa paramadyutiḥ dattvā ca dadatāṃ śreṣṭho divam ācakrame tataḥ", "english": "That most resplendent one, best among givers, restored her maidenhood to her, and having given thus, ascended to heaven."},
+{"ref": "1.104.13", "sanskrit": "gūhamānāpacāraṃ taṃ bandhupakṣabhayāt tadā utsasarja jale kuntī taṃ kumāraṃ salakṣaṇam", "english": "Concealing that transgression out of fear of her kinsmen, Kuntī then cast that auspiciously marked infant into the water."},
+{"ref": "1.104.14", "sanskrit": "tam utsṛṣṭaṃ tadā garbhaṃ rādhābhartā mahāyaśāḥ putratve kalpayām āsa sabhāryaḥ sūtanandanaḥ", "english": "That abandoned child was then adopted as a son by the greatly renowned husband of Rādhā, a son of a suta, together with his wife."},
+{"ref": "1.104.15", "sanskrit": "nāmadheyaṃ ca cakrāte tasya bālasya tāv ubhau vasunā saha jāto 'yaṃ vasuṣeṇo bhavatv iti", "english": "Those two gave a name to that infant: \"Since he was born along with wealth, let him be called Vasushena.\""},
+{"ref": "1.104.16", "sanskrit": "sa vardhamāno balavān sarvāstreṣūdyato 'bhavat ā pṛṣṭhatāpād ādityam upatasthe sa vīryavān", "english": "Growing up and becoming powerful, he applied himself to all weapons; that mighty hero would stand in worship of the sun until the heat touched his back."},
+{"ref": "1.104.17", "sanskrit": "yasmin kāle japann āste sa vīraḥ satyasaṃgaraḥ nādeyaṃ brāhmaṇeṣv āsīt tasmin kāle mahātmanaḥ", "english": "At the time when that hero of truthful pledge sat muttering prayers, there was nothing that this great-souled one would refuse to give to Brahmins."},
+{"ref": "1.104.18", "sanskrit": "tam indro brāhmaṇo bhūtvā bhikṣārthaṃ bhūtabhāvanaḥ kuṇḍale prārthayām āsa kavacaṃ ca mahādyutiḥ", "english": "Indra, the nourisher of all beings and of great splendor, taking the form of a Brahmin, approached him as a suppliant and begged for his earrings and his armor."},
+{"ref": "1.104.19", "sanskrit": "utkṛtya vimanāḥ svāṅgāt kavacaṃ rudhirasravam karṇas tu kuṇḍale chittvā prāyacchat sa kṛtāñjaliḥ", "english": "Karṇa, though pained, cut off from his own body his armor dripping with blood, and severing his earrings, gave them with joined palms."},
+{"ref": "1.104.20", "sanskrit": "śaktiṃ tasmai dadau śakraḥ vismito vākyam abravīt devāsuramanuṣyāṇāṃ gandharvoragarakṣasām yasmai kṣepsyasi ruṣṭaḥ san so 'nayā na bhaviṣyati", "english": "Śakra, astonished, gave him the Shakti weapon and said: \"Among gods, asuras, men, gandharvas, serpents, and rakshasas — at whomever you hurl this in anger, he shall be no more.\""},
+{"ref": "1.104.21", "sanskrit": "purā nāma tu tasyāsīd vasuṣeṇa iti śrutam tato vaikartanaḥ karṇaḥ karmaṇā tena so 'bhavat", "english": "His former name had been known as Vasushena; thereafter by that deed he became Vaikartana Karṇa — the cutter of his own flesh."},
+{"ref": "1.105.1", "sanskrit": "vaiśaṃpāyana uvāca rūpasattvaguṇopetā dharmārāmā mahāvratā duhitā kuntibhojasya kṛte pitrā svayaṃvare", "english": "Vaiśaṃpāyana said: The daughter of Kuntibhoja, endowed with beauty, valor, and virtue, devoted to righteousness and of great vows, was presented by her father at a swayamvara."},
+{"ref": "1.105.2", "sanskrit": "siṃhadaṃṣṭraṃ gajaskandham ṛṣabhākṣaṃ mahābalam bhūmipālasahasrāṇāṃ madhye pāṇḍum avindata", "english": "She chose Pāṇḍu — lion-fanged, elephant-shouldered, bull-eyed, and of great might — from among thousands of kings."},
+{"ref": "1.105.3", "sanskrit": "sa tayā kuntibhojasya duhitrā kurunandanaḥ yuyuje 'mitasaubhāgyaḥ paulomyā maghavān iva", "english": "That joy of the Kurus, of immeasurable good fortune, was united with her, the daughter of Kuntibhoja, as Maghavan was united with Paulomi."},
+{"ref": "1.105.4", "sanskrit": "yātvā devavratenāpi madrāṇāṃ puṭabhedanam viśrutā triṣu lokeṣu mādrī madrapateḥ sutā", "english": "By Devavrata's going also to the capital of the Madras, Mādrī, daughter of the lord of the Madras, renowned in the three worlds, was obtained."},
+{"ref": "1.105.5", "sanskrit": "sarvarājasu vikhyātā rūpeṇāsadṛśī bhuvi pāṇḍor arthe parikrītā dhanena mahatā tadā vivāhaṃ kārayām āsa bhīṣmaḥ pāṇḍor mahātmanaḥ", "english": "She was celebrated among all kings and unequaled in beauty on earth; she was purchased for Pāṇḍu's sake with great wealth, and then Bhīṣma caused the marriage of the great-souled Pāṇḍu."},
+{"ref": "1.105.6", "sanskrit": "siṃhoraskaṃ gajaskandham ṛṣabhākṣaṃ manasvinam pāṇḍuṃ dṛṣṭvā naravyāghraṃ vyasmayanta narā bhuvi", "english": "Seeing Pāṇḍu — lion-chested, elephant-shouldered, bull-eyed, high-minded, that tiger among men — people on earth were filled with wonder."},
+{"ref": "1.105.7", "sanskrit": "kṛtodvāhas tataḥ pāṇḍur balotsāhasamanvitaḥ jigīṣamāṇo vasudhāṃ yayau śatrūn anekaśaḥ", "english": "Then Pāṇḍu, having wed, endowed with strength and enthusiasm, desiring to conquer the earth, went against enemies on many fronts."},
+{"ref": "1.105.8", "sanskrit": "pūrvam āgaskṛto gatvā daśārṇāḥ samare jitāḥ pāṇḍunā narasiṃhena kauravāṇāṃ yaśobhṛtā", "english": "Going first against those who had given offence, the Daśārṇas were conquered in battle by Pāṇḍu, that lion among men, the bearer of the Kauravas' glory."},
+{"ref": "1.105.9", "sanskrit": "tataḥ senām upādāya pāṇḍur nānāvidhadhvajām prabhūtahastyaśvarathāṃ padātigaṇasaṃkulām", "english": "Then Pāṇḍu, taking an army bearing banners of many kinds, rich in elephants, horses, and chariots, and teeming with masses of foot-soldiers —"},
+{"ref": "1.105.10", "sanskrit": "āgaskṛt sarvavīrāṇāṃ vairī sarvamahībhṛtām goptā magadharāṣṭrasya dārvo rājagṛhe hataḥ", "english": "— the foe of all heroes, the adversary of all lords of the earth: Darva, the protector of the Magadha realm, was slain at Rājagṛha."},
+{"ref": "1.105.11", "sanskrit": "tataḥ kośaṃ samādāya vāhanāni balāni ca pāṇḍunā mithilāṃ gatvā videhāḥ samare jitāḥ", "english": "Then, after taking treasury, conveyances, and forces, Pāṇḍu marched to Mithilā and conquered the Videhas in battle."},
+{"ref": "1.105.12", "sanskrit": "tathā kāśiṣu suhmeṣu puṇḍreṣu bharatarṣabha svabāhubalavīryeṇa kurūṇām akarod yaśaḥ", "english": "Likewise among the Kāśis, the Suhmas, and the Puṇḍras, O bull of the Bhāratas, by the strength and valor of his own arms he brought glory to the Kurus."},
+{"ref": "1.105.13", "sanskrit": "taṃ śaraughamahājvālam astrārciṣam ariṃdamam pāṇḍupāvakam āsādya vyadahyanta narādhipāḥ", "english": "Coming against him — that tamer of foes blazing like a great fire with showers of arrows and flames of weapons, that Pāṇḍu-conflagration — kings were burned up."},
+{"ref": "1.105.14", "sanskrit": "te sasenāḥ sasenena vidhvaṃsitabalā nṛpāḥ pāṇḍunā vaśagāḥ kṛtvā karakarmasu yojitāḥ", "english": "Those kings, their forces shattered by Pāṇḍu and his forces, were brought into submission and assigned to the works of tribute."},
+{"ref": "1.105.15", "sanskrit": "tena te nirjitāḥ sarve pṛthivyāṃ sarvapārthivāḥ tam ekaṃ menire śūraṃ deveṣv iva puraṃdaram", "english": "By him all those kings of the earth were vanquished; they regarded him alone as the great hero, as the gods regard Purandara."},
+{"ref": "1.105.16", "sanskrit": "taṃ kṛtāñjalayaḥ sarve praṇatā vasudhādhipāḥ upājagmur dhanaṃ gṛhya ratnāni vividhāni ca", "english": "All those lords of the earth came to him with joined palms, bowing low, bearing wealth and various jewels."},
+{"ref": "1.105.17", "sanskrit": "maṇimuktāpravālaṃ ca suvarṇaṃ rajataṃ tathā goratnāny aśvaratnāni ratharatnāni kuñjarān", "english": "Gems, pearls, and coral, gold and silver, choice cattle, choice horses, choice chariots, and elephants —"},
+{"ref": "1.105.18", "sanskrit": "kharoṣṭramahiṣāṃś caiva yac ca kiṃ cid ajāvikam tat sarvaṃ pratijagrāha rājā nāgapurādhipaḥ", "english": "— and donkeys, camels, and buffaloes, and whatever sheep and goats there were — all this the king, the lord of Hāstinapura, accepted."},
+{"ref": "1.105.19", "sanskrit": "tad ādāya yayau pāṇḍuḥ punar muditavāhanaḥ harṣayiṣyan svarāṣṭrāṇi puraṃ ca gajasāhvayam", "english": "Taking all that, Pāṇḍu set out again with his army rejoicing, intending to gladden his own kingdom and the city of Hāstinapura."},
+{"ref": "1.105.20", "sanskrit": "śaṃtano rājasiṃhasya bharatasya ca dhīmataḥ pranaṣṭaḥ kīrtijaḥ śabdaḥ pāṇḍunā punar uddhṛtaḥ", "english": "The fame born of glory that had been lost to Shantanu, that lion among kings, and to the wise Bharata, was raised up again by Pāṇḍu."},
+{"ref": "1.105.21", "sanskrit": "ye purā kururāṣṭrāṇi jahruḥ kurudhanāni ca te nāgapurasiṃhena pāṇḍunā karadāḥ kṛtāḥ", "english": "Those who had formerly seized the Kuru kingdoms and the wealth of the Kurus were made tribute-paying by Pāṇḍu, the lion of Hāstinapura."},
+{"ref": "1.105.22", "sanskrit": "ity abhāṣanta rājāno rājāmātyāś ca saṃgatāḥ pratītamanaso hṛṣṭāḥ paurajānapadaiḥ saha", "english": "So spoke the assembled kings and their ministers, their minds filled with satisfaction and joy, together with the townspeople and country folk."},
+{"ref": "1.105.23", "sanskrit": "pratyudyayus taṃ saṃprāptaṃ sarve bhīṣmapurogamāḥ te nadūram ivādhvānaṃ gatvā nāgapurālayāḥ āvṛtaṃ dadṛśur lokaṃ hṛṣṭā bahuvidhair janaiḥ", "english": "All went forth to meet him on his arrival, led by Bhīṣma; those dwellers of Hāstinapura, going as if the road were not far, saw joyfully that the whole world was thronged with many kinds of people."},
+{"ref": "1.105.24", "sanskrit": "nānāyānasamānītai ratnair uccāvacais tathā hastyaśvaratharatnaiś ca gobhir uṣṭrair athāvikaiḥ nāntaṃ dadṛśur āsādya bhīṣmeṇa saha kauravāḥ", "english": "With jewels of high and low quality brought on various vehicles, with choice elephants, horses, and chariots, with cattle, camels, and sheep — the Kauravas together with Bhīṣma, coming upon it all, could see no end to it."},
+{"ref": "1.105.25", "sanskrit": "so 'bhivādya pituḥ pādau kausalyānandavardhanaḥ yathārhaṃ mānayām āsa paurajānapadān api", "english": "He, the increaser of Kausalyā's joy, paid reverence to his father's feet, and duly honored the townspeople and country folk as well."},
+{"ref": "1.105.26", "sanskrit": "pramṛdya pararāṣṭrāṇi kṛtārthaṃ punarāgatam putram āsādya bhīṣmas tu harṣād aśrūṇy avartayat", "english": "Bhīṣma, meeting his son who had returned fulfilled in purpose after crushing enemy kingdoms, shed tears of joy."},
+{"ref": "1.105.27", "sanskrit": "sa tūryaśatasaṃghānāṃ bherīṇāṃ ca mahāsvanaiḥ harṣayan sarvaśaḥ paurān viveśa gajasāhvayam", "english": "To the great sounds of hundreds of musical instruments and kettledrums, gladdening the citizens on all sides, he entered Hāstinapura."},
+{"ref": "1.106.1", "sanskrit": "vaiśaṃpāyana uvāca dhṛtarāṣṭrābhyanujñātaḥ svabāhuvijitaṃ dhanam bhīṣmāya satyavatyai ca mātre copajahāra saḥ", "english": "Vaiśaṃpāyana said: With Dhṛtarāṣṭra's permission, he presented the wealth conquered by his own arms to Bhīṣma, to Satyavatī, and to his mother."},
+{"ref": "1.106.2", "sanskrit": "vidurāya ca vai pāṇḍuḥ preṣayām āsa tad dhanam suhṛdaś cāpi dharmātmā dhanena samatarpayat", "english": "Pāṇḍu also sent that wealth to Vidura; and that righteous soul fully satisfied his friends with treasure."},
+{"ref": "1.106.3", "sanskrit": "tataḥ satyavatīṃ bhīṣmaḥ kausalyāṃ ca yaśasvinīm śubhaiḥ pāṇḍujitai ratnais toṣayām āsa bhārata", "english": "Then Bhīṣma satisfied Satyavatī and the glorious Kausalyā with auspicious jewels won by Pāṇḍu, O Bhārata."},
+{"ref": "1.106.4", "sanskrit": "nananda mātā kausalyā tam apratimatejasam jayantam iva paulomī pariṣvajya nararṣabham", "english": "His mother Kausalyā rejoiced, embracing that bull among men of matchless splendor, even as Paulomi embraces the victorious Jayanta."},
+{"ref": "1.106.5", "sanskrit": "tasya vīrasya vikrāntaiḥ sahasraśatadakṣiṇaiḥ aśvamedhaśatair īje dhṛtarāṣṭro mahāmakhaiḥ", "english": "With the conquests of that hero, Dhṛtarāṣṭra performed a hundred horse-sacrifices — great rites with hundreds of thousands in sacrificial gifts."},
+{"ref": "1.106.6", "sanskrit": "saṃprayuktaś ca kuntyā ca mādryā ca bharatarṣabha jitatandrīs tadā pāṇḍur babhūva vanagocaraḥ", "english": "Joined together with Kuntī and with Mādrī, O bull of the Bhāratas, Pāṇḍu, free from sloth, then became a wanderer of the forests."},
+{"ref": "1.106.7", "sanskrit": "hitvā prāsādanilayaṃ śubhāni śayanāni ca araṇyanityaḥ satataṃ babhūva mṛgayāparaḥ", "english": "Abandoning his palace dwelling and his fine beds, he became constantly given to forest life, ever devoted to the hunt."},
+{"ref": "1.106.8", "sanskrit": "sa caran dakṣiṇaṃ pārśvaṃ ramyaṃ himavato gireḥ uvāsa giripṛṣṭheṣu mahāśālavaneṣu ca", "english": "Roaming the lovely southern slopes of the Himalayan mountain, he dwelt on mountain ridges and in forests of great shala trees."},
+{"ref": "1.106.9", "sanskrit": "rarāja kuntyā mādryā ca pāṇḍuḥ saha vane vasan kareṇvor iva madhyasthaḥ śrīmān pauraṃdaro gajaḥ", "english": "Pāṇḍu shone in the forest dwelling together with Kuntī and Mādrī, like the splendid elephant of Purandara standing between two she-elephants."},
+{"ref": "1.106.10", "sanskrit": "bhārataṃ saha bhāryābhyāṃ bāṇakhaḍgadhanurdharam vicitrakavacaṃ vīraṃ paramāstravidaṃ nṛpam devo 'yam ity amanyanta carantaṃ vanavāsinaḥ", "english": "The forest dwellers, seeing that Bhārata king roaming with his two wives, bearing arrows, sword, and bow, wearing varied armor, a hero and master of weapons supreme, thought him a god."},
+{"ref": "1.106.11", "sanskrit": "tasya kāmāṃś ca bhogāṃś ca narā nityam atandritāḥ upajahrur vanānteṣu dhṛtarāṣṭreṇa coditāḥ", "english": "Men, ever diligent and urged on by Dhṛtarāṣṭra, brought constantly to the forest his desires and enjoyments."},
+{"ref": "1.106.12", "sanskrit": "atha pāraśavīṃ kanyāṃ devakasya mahīpateḥ rūpayauvanasaṃpannāṃ sa śuśrāvāpagāsutaḥ", "english": "Then the son of the Gaṅgā heard of a Pāraśava maiden, daughter of King Devaka, endowed with beauty and youth."},
+{"ref": "1.106.13", "sanskrit": "tatas tu varayitvā tām ānāyya puruṣarṣabhaḥ vivāhaṃ kārayām āsa vidurasya mahāmateḥ", "english": "Then that bull among men, having wooed and brought her, caused the marriage of the great-minded Vidura."},
+{"ref": "1.106.14", "sanskrit": "tasyāṃ cotpādayām āsa viduraḥ kurunandanaḥ putrān vinayasaṃpannān ātmanaḥ sadṛśān guṇaiḥ", "english": "And Vidura, the joy of the Kurus, begot upon her sons possessed of good breeding, equal to himself in qualities."},
+{"ref": "1.107.1", "sanskrit": "vaiśaṃpāyana uvāca tataḥ putraśataṃ jajñe gāndhāryāṃ janamejaya dhṛtarāṣṭrasya vaiśyāyām ekaś cāpi śatāt paraḥ", "english": "Vaiśaṃpāyana said: Then, O Janamejaya, a hundred sons were born to Dhṛtarāṣṭra through Gāndhārī, and one more beyond the hundred through a Vaiśya woman."},
+{"ref": "1.107.2", "sanskrit": "pāṇḍoḥ kuntyāṃ ca mādryāṃ ca pañca putrā mahārathāḥ devebhyaḥ samapadyanta saṃtānāya kulasya vai", "english": "To Pāṇḍu through Kuntī and through Mādrī were born five great warriors, obtained from the gods for the continuation of the family line."},
+{"ref": "1.107.3", "sanskrit": "janamejaya uvāca kathaṃ putraśataṃ jajñe gāndhāryāṃ dvijasattama kiyatā caiva kālena teṣām āyuś ca kiṃ param", "english": "Janamejaya said: How were a hundred sons born to Gāndhārī, O best of twice-born? And in how much time? And what was their highest lifespan?"},
+{"ref": "1.107.4", "sanskrit": "kathaṃ caikaḥ sa vaiśyāyāṃ dhṛtarāṣṭrasuto 'bhavat kathaṃ ca sadṛśīṃ bhāryāṃ gāndhārīṃ dharmacāriṇīm ānukūlye vartamānāṃ dhṛtarāṣṭro 'tyavartata", "english": "How did that one son of Dhṛtarāṣṭra come to be through the Vaiśya woman? And how did Dhṛtarāṣṭra transgress against Gāndhārī his wife — a woman of righteous conduct equal to himself, living in devotion to him?"},
+{"ref": "1.107.5", "sanskrit": "kathaṃ ca śaptasya sataḥ pāṇḍos tena mahātmanā samutpannā daivatebhyaḥ pañca putrā mahārathāḥ", "english": "And how, from Pāṇḍu who had been cursed by that great soul, were born five sons, great warriors, from the gods?"},
+{"ref": "1.107.6", "sanskrit": "etad vidvan yathāvṛttaṃ vistareṇa tapodhana kathayasva na me tṛptiḥ kathyamāneṣu bandhuṣu", "english": "Knowing all this as it happened, tell it in full, O wealth of austerity; I am not satisfied when my kinsmen are being told of."},
+{"ref": "1.107.7", "sanskrit": "vaiśaṃpāyana uvāca kṣucchramābhipariglānaṃ dvaipāyanam upasthitam toṣayām āsa gāndhārī vyāsas tasyai varaṃ dadau", "english": "Vaiśaṃpāyana said: Gāndhārī satisfied Dvaipāyana when he came, worn out by hunger and fatigue; and Vyāsa gave her a boon."},
+{"ref": "1.107.8", "sanskrit": "sā vavre sadṛśaṃ bhartuḥ putrāṇāṃ śatam ātmanaḥ tataḥ kālena sā garbhaṃ dhṛtarāṣṭrād athāgrahīt", "english": "She chose a hundred sons equal to her husband and herself; then in time she conceived through Dhṛtarāṣṭra."},
+{"ref": "1.107.9", "sanskrit": "saṃvatsaradvayaṃ taṃ tu gāndhārī garbham āhitam aprajā dhārayām āsa tatas tāṃ duḥkham āviśat", "english": "Gāndhārī, childless, bore that planted embryo for two full years; then sorrow overtook her."},
+{"ref": "1.107.10", "sanskrit": "śrutvā kuntīsutaṃ jātaṃ bālārkasamatejasam udarasyātmanaḥ sthairyam upalabhyānvacintayat", "english": "Hearing that a son of Kuntī had been born, blazing in splendor like the morning sun, she reflected upon the steadfastness of her own womb."}
 ]

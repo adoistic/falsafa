@@ -250,7 +250,7 @@ translator: thothica
 
 **18.3.36**  Neither Savyasācin nor Bhīma, nor the twins, those bulls among men, nor the truthful, heroic Karṇa deserve to remain long in hell, O king.
 
-**18.3.37**  Nor does the princess Kṛṣṇā deserve hell, Yudhiṣṭhira. Come, come, O best of the Bharatas; behold the Gaṅgā that flows through the three worlds."
+**18.3.37**  Nor does the princess Kṛṣṇā deserve hell, Yudhiṣṭhira. Come, come, O best of the Bhāratas; behold the Gaṅgā that flows through the three worlds."
 
 **18.3.38**  Thus addressed, that royal sage, your forefather of old, went on together with Dharma and with all the dwellers of the threefold heaven.
 
@@ -310,11 +310,11 @@ translator: thothica
 
 **18.5.6**  The Sūta said: Thus addressed, that sage among brahmins, given leave by the high-souled Vyāsa, began to recount it to that king.
 
-**18.5.7**  Vaiśaṃpāyana said: At the end of his deeds everyone must depart, O lord of men. Hear this secret of the gods, O king, O bull of the Bharatas, which the one of great splendour, of divine sight, the mighty—
+**18.5.7**  Vaiśaṃpāyana said: At the end of his deeds everyone must depart, O lord of men. Hear this secret of the gods, O king, O bull of the Bhāratas, which the one of great splendour, of divine sight, the mighty—
 
 **18.5.8**  the ancient sage, O Kauravya, the son of Parāśara of great vows, of fathomless intellect, omniscient, knowing the destinies of all deeds—declared.
 
-**18.5.9**  Bhīṣma of great splendour and great brilliance attained the Vasus themselves; for indeed only eight Vasus are now seen, O bull of the Bharatas.
+**18.5.9**  Bhīṣma of great splendour and great brilliance attained the Vasus themselves; for indeed only eight Vasus are now seen, O bull of the Bhāratas.
 
 **18.5.10**  Then Droṇa entered into Bṛhaspati, the best of the line of Aṅgiras; and Kṛtavarman the son of Hṛdika entered the host of the Maruts.
 
@@ -372,7 +372,7 @@ translator: thothica
 
 **18.5.37**  Whatever sin one commits by day, whether through the senses or even through the mind, by reciting the Mahābhārata one is afterward freed of it at the twilight prayer.
 
-**18.5.38**  In dharma, in artha, in kāma, and in mokṣa, O bull of the Bharatas—whatever is here may be found elsewhere; but what is not here is found nowhere at all.
+**18.5.38**  In dharma, in artha, in kāma, and in mokṣa, O bull of the Bhāratas—whatever is here may be found elsewhere; but what is not here is found nowhere at all.
 
 **18.5.39**  This history is named Jaya, the Victory, and should be heard by one who desires prosperity—by a king, by princes, and even by a woman with child.
 
