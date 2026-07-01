@@ -219,6 +219,31 @@ export interface OntologyCitation {
   justification: string;
 }
 
+/**
+ * Quote-level relation extracted from the ontology layer.
+ *
+ * This is intentionally more granular than a work-level citation edge:
+ * it records the exact passage, the exact quoted snippet, and the person/work/author
+ * being quoted or invoked at that point in the text.
+ */
+export interface OntologyQuoteEvent {
+  paragraph_id: string;     // real p-id
+  quote: string;            // verbatim snippet from that paragraph
+  kind: "direct_quote" | "reported_speech" | "citation_quote";
+  /** Person/figure speaking inside the quoted or reported speech, when knowable. */
+  speaker?: string;
+  /** Person/figure whose words or position are being quoted, when knowable. */
+  quoted_person?: string;
+  /** Work being quoted/cited, when knowable. */
+  quoted_work?: string;
+  /** Author/source being quoted/cited, when knowable. */
+  quoted_author?: string;
+  /** Citation stance, when this quote event comes from the citation layer. */
+  stance?: ReferenceStance;
+  source: "citation" | "entity_mention" | "manual";
+  justification: string;
+}
+
 /** The combined per-work ontology output written to corpus/graph/ontology/v1/<slug>.json */
 export interface OntologyWork {
   work_slug: string;
@@ -228,4 +253,5 @@ export interface OntologyWork {
   entities: OntologyEntityRaw[];
   themes: OntologyTheme[];
   citations: OntologyCitation[];
+  quote_events?: OntologyQuoteEvent[];
 }
