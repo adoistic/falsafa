@@ -526,7 +526,7 @@ translator: thothica
 
 **4.22.1**  What Indra has enjoyed and what he desires — that let the great, even the mighty one do for us. The prayer, the hymn, the bountiful one, the soma, the laud — he who bearing the stone goes with might.
 
-**4.22.2**  The bull hurling the four-square bolted udder — the fierce one, most manly with both arms, powerful. Glowing with beauty he wrapped the Parūṣṇī in wool, whose joints he covered over for friendship.
+**4.22.2**  The bull hurling the four-square bolted udder — the fierce one, most manly with both arms, powerful. Glowing with beauty he wrapped the Paruṣṇī in wool, whose joints he covered over for friendship.
 
 **4.22.3**  The god who, being born, is most god-like — with great prizes and great forces — holding the eager bolt in his arms, he shook heaven and earth with his rush.
 

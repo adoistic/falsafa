@@ -166,7 +166,7 @@ Then, the determination of prescribed and proscribed acts in an intercalary mont
 The deliberation on what is to be done and not done during the juvenility, etc., of Jupiter and Venus.
 Among the times for ancestral rites (*śrāddha*): the new moon day (*amāvāsyā*), the *aṣṭakās*, the *anvaṣṭakā*.
 Then, the day before the *aṣṭakā*, the *vṛddhi* rite, the dark fortnight (*pakṣa*).
-Then, the dark fortnight of Āśvayuj, and therein the Bharanī *nakṣatra*.
+Then, the dark fortnight of Āśvayuj, and therein the Bharaṇī *nakṣatra*.
 The thirteenth and fourteenth *tithis* are ascertained here in order.
 Then, the miscellaneous times for *śrāddha*, then the days for optional (*kāmya*) *śrāddha*.
 Then, the beginnings of the cosmic ages (*yugādi*), the ends of the cosmic ages (*yugānta*), then the beginnings of the Manvantaras.
@@ -2017,7 +2017,7 @@ And this *aruṇodaya-vedha* is only for Vaiṣṇavas.
 
 > If the dawn is conjoined with Daśamī, it should not be fasted on by a Vaiṣṇava; that is not the Ekādaśī vow. //
 
-This is from the *Gāruḍa Purāṇa*.
+This is from the *Garuḍa Purāṇa*.
 
 As for the verse on *sūryodaya-vedha*:
 
@@ -2032,7 +2032,7 @@ Some, however, say that the *aruṇodaya-vedha* is also for everyone, because of
 > If Ekādaśī pervades for three *ghaṭikās* before sunrise, it is called a doubtful Ekādaśī, to be rejected by those who desire *dharma*. //
 > For the sake of prosperity of sons and kingdom, one should fast on Dvādaśī. Therein is the merit of a hundred sacrifices, and the *pāraṇa* is on Trayodaśī. //
 
-This is from the *Gāruḍa Purāṇa*. And it should not be argued that this should be restricted to Vaiṣṇavas alone. Because for them, a general prohibition of fasting is stated by "it should not be fasted on."
+This is from the *Garuḍa Purāṇa*. And it should not be argued that this should be restricted to Vaiṣṇavas alone. Because for them, a general prohibition of fasting is stated by "it should not be fasted on."
 
 When there is an increase of Ekādaśī or Dvādaśī, it also applies to the obligatory fast for everyone.
 
@@ -4294,7 +4294,7 @@ He states the Cūḍāmaṇi (*Cūḍāmaṇi* (चूडामणि)) yoga for
 Vyāsa says:
 
 > The eclipse of the sun on a Sunday, and the eclipse of the moon on a Monday, /
-> is known as Cūḍāmaṇi (*Cūḍāmaṇiḥ* (चूडामणिः)); there one obtains infinite fruit. //
+> is known as Cūḍāmaṇi (*Cūḍāmaṇi* (चूडामणिः)); there one obtains infinite fruit. //
 
 In the *Prabhāsa Khaṇḍa*:
 
@@ -6292,7 +6292,7 @@ For this very reason, in the *Bhīmaparākrama*:
 
 Thus it is said.
 
-Here, although it is established by "that has another time," the mention of marriage, etc., again is for the purpose of prohibiting them even when they have no other time, says the Smārta.
+Here, although it is established by "that has another time," the mention of marriage, etc., again is for the purpose of prohibiting them even when they have no other time, says the Smārtta.
 
 Anointing (*abhiṣeka*) is of a king, and that is the first one.
 
@@ -8235,7 +8235,7 @@ Here, from the hearing of "especially," the *śrāddha* also occurs on the brigh
 If that is not known, then because the dark fortnight is most praised for rites for the ancestors, and because of the statement "especially," the dark Ekādaśī is the primary time.
 In its absence, however, the bright Ekādaśī is the time. Thus says the *Viveka*.
 This is also the true sense of Hemādri and all the Southern and Maithila treatises.
-The Smārta Bhaṭṭa, however, says that with respect to the Amāvāsyā stated in the previously cited verse of Bṛhaspati, the dark Ekādaśī is the primary time, and for this reason, it is said "especially."
+The Smārtta Bhaṭṭa, however, says that with respect to the Amāvāsyā stated in the previously cited verse of Bṛhaspati, the dark Ekādaśī is the primary time, and for this reason, it is said "especially."
 And it should not be argued that in that case, "especially" in "when a *śrāddha* is obstructed" would be inconsistent, because Amāvāsyā is not enjoined there.
 > When a *śrāddha* is obstructed by an intervening period of birth or death impurity, /
 > one should perform it on the new moon day, and when one is pure, say some wise men. //
@@ -8284,7 +8284,7 @@ Otherwise—
 And this is a new, different time in the case of the ignorance of all three, due to the complexity.
 Rather, it is merely a restatement of the time of Amāvāsyā, etc., which is enjoined in the case of the ignorance of one or two, and which is obtained by implication even in the case of the ignorance of both.
 And because it is a restatement, the word 'Amā' is indicative of the primary dark Ekādaśī and the secondary bright Ekādaśī, and the word 'Māgha', etc., is indicative of Bhādra, etc., which is not a fault.
-For this very reason, the Smārta, in accordance with his own view, in the explanation of this verse, has said that Amāvāsyā should be taken only in the absence of the dark Ekādaśī.
+For this very reason, the Smārtta, in accordance with his own view, in the explanation of this verse, has said that Amāvāsyā should be taken only in the absence of the dark Ekādaśī.
 And so, 'not' means by any sign, such as death, departure, or hearing of death.
 And so, when the month related to the death is known, the departure-*tithi* of the month of death should be taken, etc., is also indicated.
 And here, when the *tithi*, etc., related to the death is unknown, and the *tithi*, etc., related to the departure and the hearing of the death are known, only the *tithi*, etc., related to the departure should be taken.
@@ -8295,7 +8295,7 @@ And there is no contradiction with the verse of Bṛhaspati.
 Because the sixth case in "of the death" means a mere connection, there is no harm even if it is through the medium of the hearing, like "the seventeen-cubit post of the Vājapeya."
 (a. 3, pā. 1, adhi. 9) Therefore, when the *tithi*, etc., related to the death is unknown, the *tithi*, etc., related to the hearing should be taken; when that is unknown, the *tithi*, etc., related to the departure should be taken;
 when that is also unknown, the time stated in the *Prabhāsa Khaṇḍa* should be taken. This is the correct view.
-As for what is said here by Vācaspati, that when the month is unknown, the rite should not be performed because there is no basis, that should be disregarded, because the previously cited verses of Bṛhaspati, etc., cited by the *Kālādarśa*, *Hemādri*, Smārta Bhaṭṭācārya, etc., have enjoined the months of Bhādra, etc., when the month is unknown.
+As for what is said here by Vācaspati, that when the month is unknown, the rite should not be performed because there is no basis, that should be disregarded, because the previously cited verses of Bṛhaspati, etc., cited by the *Kālādarśa*, *Hemādri*, Smārtta Bhaṭṭācārya, etc., have enjoined the months of Bhādra, etc., when the month is unknown.
 For one who has gone to an unknown country, and for whom, after waiting for fifteen years, the final rites beginning with the burning of an effigy are performed because his being alive or dead is not determined, the month, fortnight, and *tithi* of the same kind as the *tithi*, etc., related to the burning should be taken.
 And so—
 Jātūkarṇya says:
@@ -9640,7 +9640,7 @@ Thus it is said.
 
 Thus it is said.
 
-When Dvitīyā, Saptamī, and Dvādaśī, which are Bhadrā *tithis*, and Punarvasu, Uttarāphālgunī, Viśākhā, Uttarāṣāḍhā, and Pūrvābhādrapadā, which are *nakṣatras*, and Sunday, Tuesday, and Saturday combine, it is Tripuṣkara; when two combine, it is Dvipuṣkara.
+When Dvitīyā, Saptamī, and Dvādaśī, which are Bhadrā *tithis*, and Punarvasu, Uttarāphalgunī, Viśākhā, Uttarāṣāḍhā, and Pūrvābhādrapadā, which are *nakṣatras*, and Sunday, Tuesday, and Saturday combine, it is Tripuṣkara; when two combine, it is Dvipuṣkara.
 
 Nandās are Pratipad, Ṣaṣṭhī, and Ekādaśī.
 
@@ -12514,7 +12514,7 @@ In the *Pañcarātra*:
 > and likewise on Amāvāsyā, having designated the time, the preceptor /
 > should begin the preliminary consecration one, two, or three days before. //
 
-In the *Tattvasāgarasaṃhitā* also:
+In the *Tatvasāgarasaṃhitā* also:
 
 > Paurṇamāsī is said for Brahmā; Dvādaśī, for the wielder of the discus.
 

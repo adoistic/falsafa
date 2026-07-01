@@ -3008,7 +3008,7 @@ translator: thothica
 
 **4.56.13**  I alone will sweep them from their chariot-nests with bent-jointed arrows, as the Wielder of the Thunderbolt swept away the demons.
 
-**4.56.14**  From Rudra I obtained the Raudra weapon, from Varuṇa the Varuṇa weapon, from Agni the Āgneya weapon, from the wind-god the Vāyavya weapon, and from Indra the thunderbolt and other weapons.
+**4.56.14**  From Rudra I obtained the Raudra weapon, from Varuṇa the Vāruṇa weapon, from Agni the Āgneya weapon, from the wind-god the Vāyavya weapon, and from Indra the thunderbolt and other weapons.
 
 **4.56.15**  I will uproot the terrible forest of the sons of Dhṛtarāṣṭra, guarded by human lions; let your fear depart, O son of Virāṭa.
 
@@ -3090,7 +3090,7 @@ translator: thothica
 
 **4.58.7**  As he was covered on all sides by those divine weapons, not even two finger-breadths of his body remained uncovered.
 
-**4.58.8**  Then Bībhatsu, that great chariot-warrior, smiled and invoked upon the Gāṇḍīva the divine weapon of Indra, blazing like the sun.
+**4.58.8**  Then Bībhatsu, that great chariot-warrior, smiled and invoked upon the Gāṇḍīva the divine Aindra weapon, blazing like the sun.
 
 **4.58.9**  Like the sun with its rays, the mighty diademed son of Kuntī, blazing in battle, covered over all the Kurus.
 
@@ -3142,7 +3142,7 @@ translator: thothica
 
 **4.59.20**  Those two bulls among men, of great power, countering weapons with weapons as if at play, bewildered the eyes of all creatures.
 
-**4.59.21**  Those two great-souled ones moved about in battle employing the weapons of Prajāpati, Indra, the terrible weapon of Agni, those of Kubera, Varuṇa, Yama, and the wind-god.
+**4.59.21**  Those two great-souled ones moved about in battle employing the weapons of Prajāpati, Indra, the terrible Āgneya weapon, those of Kubera, Varuṇa, Yama, and the wind-god.
 
 **4.59.22**  Then all beings were astonished, seeing the two in combat, and cried out "Well done, Pārtha, mighty-armed! Well done, Bhīṣma!"
 

@@ -2572,7 +2572,7 @@ translator: thothica
 
 **4.40.10**  the Mekhala lands and the Utkala country, the cities of Daśārṇa, and Avanti and Abhravantī — search all of these.
 
-**4.40.11**  The Vidarbhas, the lovely Ṛṣikas, the Māhiṣakas as well, and likewise the Baṅgas, the Kaliṅgas, and the Kauśikas on all sides.
+**4.40.11**  The Vidarbhas, the lovely Ṛṣikas, the Māhiṣakas as well, and likewise the Vaṅgas, the Kaliṅgas, and the Kauśikas on all sides.
 
 **4.40.12**  Having searched the Daṇḍaka forest with its mountains, rivers, and caves, and the river Godāvarī — inspect all of it.
 

@@ -339,7 +339,7 @@ translator: thothica
 
 **8.14.11**  Thus, O Agni, growing through the kindling-sticks, shine brilliantly upon us, O purifier, with splendor. May Mitra and Varuṇa magnify that for us, Aditi, Sindhu, Earth, and Heaven.
 
-**8.15.1**  He who is of the lineage of Jamadagni here, he who is a Kauśika, he who is of the lineage of Atri, and he who is a Kāśyapa — the Bharadvājas, Gotamas, and those who are Vasiṣṭhas — to them we here declare the transgressions.
+**8.15.1**  He who is of the lineage of Jamadagni here, he who is a Kauśika, he who is of the lineage of Atri, and he who is a Kaśyapa — the Bharadvājas, Gotamas, and those who are Vasiṣṭhas — to them we here declare the transgressions.
 
 **8.15.2**  The Agastyas, Kaṇvas, Kutsas, Prasravaṇas, Virūpas, Gargas, Mudgalas, Yaskas, Śūnakas — the Saṃkṛtis, all brāhmaṇas who have not been wronged — to them we here declare the transgressions.
 

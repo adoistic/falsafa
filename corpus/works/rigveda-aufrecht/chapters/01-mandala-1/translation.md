@@ -2226,7 +2226,7 @@ translator: thothica
 
 **1.100.15**  Neither the gods and divine powers, nor mortals, nor even the waters have reached the limit of his might. He, the wandering one, with his skill fills both earth and sky—may Indra with the Maruts be for our aid.
 
-**1.100.16**  The ruddy-and-dark dappled mare, of beautiful bite, wearing ornaments, belonging to the celestial wealth of Ṛjrāśva—she, the pleasant one, bearing a bull-led chariot in the yoke-teams, has been seen among the Nāhuṣa folk.
+**1.100.16**  The ruddy-and-dark dappled mare, of beautiful bite, wearing ornaments, belonging to the celestial wealth of Ṛjrāśva—she, the pleasant one, bearing a bull-led chariot in the yoke-teams, has been seen among the Nahuṣa folk.
 
 **1.100.17**  This is indeed that praise of thine, O bull Indra, the bounty which the Vārṣāgiras celebrate. Ṛjrāśva with yoked teams, Ambarīṣa, Sahadevas, Bhayamāna, Surādhās—these sing thee.
 
@@ -2602,7 +2602,7 @@ translator: thothica
 
 **1.116.19**  Bearing wealth, good lordship, long life, and heroic might, O Nāsatyas — you came to the Jāhnavī river with prizes, as she who receives her share three times daily, with harmonious mind.
 
-**1.116.20**  You carried Jāhūṣa, hemmed in on all sides, through the night by easy passages across the dust-clouds. With the Vibhindhu chariot, O ever-youthful Nāsatyas, you cleft the mountains as you went.
+**1.116.20**  You carried Jāhuṣa, hemmed in on all sides, through the night by easy passages across the dust-clouds. With the Vibhindhu chariot, O ever-youthful Nāsatyas, you cleft the mountains as you went.
 
 **1.116.21**  In a single day, O Aśvins, you came to help Vaśa win a thousand in the prize contest. You two mighty ones, allied with Indra, drove away misfortune from the far-famed Pṛthuśravas.
 

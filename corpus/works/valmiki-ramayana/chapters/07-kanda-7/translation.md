@@ -2612,7 +2612,7 @@ translator: thothica
 
 **7.35.18**  "But if, O Rāghava, you have desire to hear it, collect your mind, O Rāma, and listen — I shall tell it.
 
-**7.35.19**  "There is a mountain named Sumeru, of gold granted as a boon by the Sun; there his father — Keśarī by name — governs a kingdom.
+**7.35.19**  "There is a mountain named Sumeru, of gold granted as a boon by the Sun; there his father — Kesarī by name — governs a kingdom.
 
 **7.35.20**  "His beloved wife was known as Añjanā. In her, Vāyu begot a most excellent son.
 
@@ -2766,7 +2766,7 @@ translator: thothica
 
 **7.36.30**  The sages, knowing that Brahmā had made him invulnerable to all of Brahmā's weapons, always bore with him.
 
-**7.36.31**  When even though restrained by Keśarī and by Vāyu and by Añjanā, this monkey continues to transgress all bounds —
+**7.36.31**  When even though restrained by Kesarī and by Vāyu and by Añjanā, this monkey continues to transgress all bounds —
 
 **7.36.32**  — then the great sages, of the lineage of Bhṛgu and Aṅgiras, O foremost of the Raghu line, cursed him — not with excessive anger or extreme wrath:
 

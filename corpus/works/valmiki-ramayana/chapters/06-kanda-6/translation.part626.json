@@ -1,632 +1,128 @@
 [
-  {
-    "ref": "6.76.1",
-    "sanskrit": "tataḥ śaraṃ dāśarathiḥ saṃdhāyāmitrakarśanaḥ sasarja rākṣasendrāya kruddhaḥ sarpa iva śvasan",
-    "english": "Then the son of Daśaratha, crusher of enemies, fitted an arrow to his bow and discharged it at the lord of rākṣasas, hissing in rage like a serpent."
-  },
-  {
-    "ref": "6.76.2",
-    "sanskrit": "tasya jyātalanirghoṣaṃ sa śrutvā rāvaṇātmajaḥ vivarṇavadano bhūtvā lakṣmaṇaṃ samudaikṣata",
-    "english": "Hearing that twang of the bowstring, the son of Rāvaṇa turned pale in the face and stared at Lakṣmaṇa."
-  },
-  {
-    "ref": "6.76.3",
-    "sanskrit": "taṃ viṣaṇṇamukhaṃ dṛṣṭvā rākṣasaṃ rāvaṇātmajam saumitriṃ yuddhasaṃsaktaṃ pratyuvāca vibhīṣaṇaḥ",
-    "english": "Seeing the rākṣasa, son of Rāvaṇa, with downcast face, Vibhīṣaṇa addressed Saumitri who was intent on battle."
-  },
-  {
-    "ref": "6.76.4",
-    "sanskrit": "nimittāny anupaśyāmi yāny asmin rāvaṇātmaje tvara tena mahābāho bhagna eṣa na saṃśayaḥ",
-    "english": "\"I observe the omens in this son of Rāvaṇa — hasten, O mighty-armed one; this one is broken, without doubt.\""
-  },
-  {
-    "ref": "6.76.5",
-    "sanskrit": "tataḥ saṃdhāya saumitriḥ śarān agniśikhopamān mumoca niśitāṃs tasmai sarvān iva viṣolbaṇān",
-    "english": "Then Saumitri fitted sharp arrows resembling flames of fire and released them all at him, each blazing with venom as it were."
-  },
-  {
-    "ref": "6.76.6",
-    "sanskrit": "śakrāśanisamasparśair lakṣmaṇenāhataḥ śaraiḥ muhūrtam abhavan mūḍhaḥ sarvasaṃkṣubhitendriyaḥ",
-    "english": "Struck by Lakṣmaṇa's arrows, whose impact equalled Indra's thunderbolt, he became bewildered for a moment, all his senses convulsed."
-  },
-  {
-    "ref": "6.76.7",
-    "sanskrit": "upalabhya muhūrtena saṃjñāṃ pratyāgatendriyaḥ dadarśāvasthitaṃ vīraṃ vīro daśarathātmajam",
-    "english": "Regaining consciousness after a moment, his senses restored, the hero beheld the hero, the son of Daśaratha, standing firm before him."
-  },
-  {
-    "ref": "6.76.8",
-    "sanskrit": "so 'bhicakrāma saumitriṃ roṣāt saṃraktalocanaḥ abravīc cainam āsādya punaḥ sa paruṣaṃ vacaḥ",
-    "english": "His eyes red with fury, he charged at Saumitri, and approaching him, spoke harsh words once again."
-  },
-  {
-    "ref": "6.76.9",
-    "sanskrit": "kiṃ na smarasi tad yuddhe prathame matparākramam nibaddhas tvaṃ saha bhrātrā yadā yudhi viceṣṭase",
-    "english": "\"Do you not remember my valor in that earlier battle, when you and your brother lay bound, writhing on the field?\""
-  },
-  {
-    "ref": "6.76.10",
-    "sanskrit": "yuvā khalu mahāyuddhe śakrāśanisamaiḥ śaraiḥ śāyinau prathamaṃ bhūmau visaṃjñau sapuraḥsarau",
-    "english": "\"Both of you in that great battle were struck down to the earth first by arrows equal to Indra's thunderbolt, lying unconscious together with your vanguard.\""
-  },
-  {
-    "ref": "6.76.11",
-    "sanskrit": "smṛtir vā nāsti te manye vyaktaṃ vā yamasādanam gantum icchasi yasmāt tvaṃ māṃ dharṣayitum icchasi",
-    "english": "\"Either you have no memory of it, I think, or you clearly wish to go to the abode of Yama, since you desire to challenge me.\""
-  },
-  {
-    "ref": "6.76.12",
-    "sanskrit": "yadi te prathame yuddhe na dṛṣṭo matparākramaḥ adya tvāṃ darśayiṣyāmi tiṣṭhedānīṃ vyavasthitaḥ",
-    "english": "\"If you did not witness my valor in the first battle, today I shall show it to you — stand firm now, resolute!\""
-  },
-  {
-    "ref": "6.76.13",
-    "sanskrit": "ity uktvā saptabhir bāṇair abhivivyādha lakṣmaṇam daśabhiś ca hanūmantaṃ tīkṣṇadhāraiḥ śarottamaiḥ",
-    "english": "Having spoken thus, he pierced Lakṣmaṇa with seven arrows, and Hanūmant with ten excellent keen-edged shafts."
-  },
-  {
-    "ref": "6.76.14",
-    "sanskrit": "tataḥ śaraśatenaiva suprayuktena vīryavān krodhād dviguṇasaṃrabdho nirbibheda vibhīṣaṇam",
-    "english": "Then the valiant one, his fury doubled by wrath, pierced Vibhīṣaṇa with a hundred well-aimed arrows."
-  },
-  {
-    "ref": "6.76.15",
-    "sanskrit": "tad dṛṣṭvendrajitaḥ karma kṛtaṃ rāmānujas tadā acintayitvā prahasan naitat kiṃ cid iti bruvan",
-    "english": "Seeing that act of Indrajit accomplished, Rāma's younger brother then, giving it no thought, laughed and declared: \"This is nothing.\""
-  },
-  {
-    "ref": "6.76.16",
-    "sanskrit": "mumoca sa śarān ghorān saṃgṛhya narapuṃgavaḥ abhītavadanaḥ kruddho rāvaṇiṃ lakṣmaṇo yudhi",
-    "english": "That bull among men, Lakṣmaṇa, undaunted of countenance and furious, drew and released terrible arrows at Rāvaṇi in battle."
-  },
-  {
-    "ref": "6.76.17",
-    "sanskrit": "naivaṃ raṇagataḥ śūrāḥ praharanti niśācara laghavaś cālpavīryāś ca sukhā hīme śarās tava",
-    "english": "\"Heroes who have entered battle do not strike in this fashion, O night-wanderer — these arrows of yours are light, feeble in power, and easily endured.\""
-  },
-  {
-    "ref": "6.76.18",
-    "sanskrit": "naivaṃ śūrās tu yudhyante samare jayakāṅkṣiṇaḥ ity evaṃ taṃ bruvāṇas tu śaravarṣair avākirat",
-    "english": "\"Heroes who aspire to victory in battle do not fight in such a manner.\" Saying this to him, Lakṣmaṇa covered him with a shower of arrows."
-  },
-  {
-    "ref": "6.76.19",
-    "sanskrit": "tasya bāṇais tu vidhvastaṃ kavacaṃ hemabhūṣitam vyaśīryata rathopasthe tārājālam ivāmbarāt",
-    "english": "His gold-adorned armor, shattered by those arrows, crumbled onto the floor of the chariot like a net of stars falling from the sky."
-  },
-  {
-    "ref": "6.76.20",
-    "sanskrit": "vidhūtavarmā nārācair babhūva sa kṛtavraṇaḥ indrajit samare śūraḥ prarūḍha iva sānumān",
-    "english": "His armor stripped by the iron shafts, his body covered with wounds, the valiant Indrajit in battle resembled a mountain overgrown with flowering plants."
-  },
-  {
-    "ref": "6.76.21",
-    "sanskrit": "abhīkṣṇaṃ niśvasantau hi yudhyetāṃ tumulaṃ yudhi śarasaṃkṛttasarvāṅgo sarvato rudhirokṣitau",
-    "english": "Hissing repeatedly, they fought a tumultuous fight; the limbs of each were cut all over by arrows, and both were drenched in blood on every side."
-  },
-  {
-    "ref": "6.76.22",
-    "sanskrit": "astrāṇy astravidāṃ śreṣṭhau darśayantau punaḥ punaḥ śarān uccāvacākārān antarikṣe babandhatuḥ",
-    "english": "Those two foremost knowers of weapons, displaying their missiles again and again, wove arrows of every shape and form into nets across the sky."
-  },
-  {
-    "ref": "6.76.23",
-    "sanskrit": "vyapetadoṣam asyantau laghucitraṃ ca suṣṭhu ca ubhau tu tumulaṃ ghoraṃ cakratur nararākṣasau",
-    "english": "Shooting with flawless precision, swiftly and with wonderful skill, the two — man and rākṣasa — made a tumultuous and terrible combat."
-  },
-  {
-    "ref": "6.76.24",
-    "sanskrit": "tayoḥ pṛthakpṛthag bhīmaḥ śuśruve talanisvanaḥ sughorayor niṣṭanator gagane meghayor iva",
-    "english": "From those two, one after the other, a dreadful clap of palms upon bows was heard — like two terrifying clouds thundering in the sky."
-  },
-  {
-    "ref": "6.76.25",
-    "sanskrit": "te gātrayor nipatitā rukmapuṅkhāḥ śarā yudhi asṛgdigdhā viniṣpetur viviśur dharaṇītalam",
-    "english": "The gold-feathered arrows that fell upon their bodies in the fight, smeared with blood, flew out and sank into the earth."
-  },
-  {
-    "ref": "6.76.26",
-    "sanskrit": "anyaiḥ suniśitaiḥ śastrair ākāśe saṃjaghaṭṭire babhañjuś cicchiduś cāpi tayor bāṇāḥ sahasraśaḥ",
-    "english": "With other sharpened weapons they clashed in the sky; their arrows shattered and split each other by the thousands."
-  },
-  {
-    "ref": "6.76.27",
-    "sanskrit": "sa babhūva raṇe ghoras tayor bāṇamayaś cayaḥ agnibhyām iva dīptābhyāṃ satre kuśamayaś cayaḥ",
-    "english": "That terrible pile of arrows heaped in the battle between them was like a pile of sacrificial kuśa grass kindled by two blazing fires."
-  },
-  {
-    "ref": "6.76.28",
-    "sanskrit": "tayoḥ kṛtavraṇau dehau śuśubhāte mahātmanoḥ sapuṣpāv iva niṣpatrau vane śālmalikuṃśukau",
-    "english": "The wound-covered bodies of those two great-souled warriors shone beautifully, like leafless but flowering śalmali and kuṃśuka trees in the forest."
-  },
-  {
-    "ref": "6.76.29",
-    "sanskrit": "cakratus tumulaṃ ghoraṃ saṃnipātaṃ muhur muhuḥ indrajil lakṣmaṇaś caiva parasparajayaiṣiṇau",
-    "english": "Indrajit and Lakṣmaṇa, each desiring victory over the other, made a tumultuous and terrible clash again and again."
-  },
-  {
-    "ref": "6.76.30",
-    "sanskrit": "lakṣmaṇo rāvaṇiṃ yuddhe rāvaṇiś cāpi lakṣmaṇam anyonyaṃ tāv abhighnantau na śramaṃ pratyapadyatām",
-    "english": "Lakṣmaṇa striking Rāvaṇi in battle, and Rāvaṇi striking Lakṣmaṇa — the two of them, smiting each other, felt no fatigue."
-  },
-  {
-    "ref": "6.76.31",
-    "sanskrit": "bāṇajālaiḥ śarīrasthair avagāḍhais tarasvinau śuśubhāte mahāvīrau virūḍhāv iva parvatau",
-    "english": "With networks of arrows lodged deep in their bodies, those two swift great warriors shone like two mountains overgrown with creepers."
-  },
-  {
-    "ref": "6.76.32",
-    "sanskrit": "tayo rudhirasiktāni saṃvṛtāni śarair bhṛśam babhrājuḥ sarvagātrāṇi jvalanta iva pāvakāḥ",
-    "english": "All the limbs of those two, soaked in blood and thickly covered with arrows, blazed brilliantly, like fires aflame."
-  },
-  {
-    "ref": "6.76.33",
-    "sanskrit": "tayor atha mahān kālo vyatīyād yudhyamānayoḥ na ca tau yuddhavaimukhyaṃ śramaṃ vāpy upajagmatuḥ",
-    "english": "A great span of time passed as they fought, yet neither of them turned away from battle nor experienced fatigue."
-  },
-  {
-    "ref": "6.76.34",
-    "sanskrit": "atha samarapariśramaṃ nihantuṃ samaramukheṣv ajitasya lakṣmaṇasya priyahitam upapādayan mahaujāḥ samaram upetya vibhīṣaṇo 'vatasthe",
-    "english": "Then, to dispel the battle-weariness and render service to the unvanquished Lakṣmaṇa at the fore of the fights, mighty Vibhīṣaṇa came forward and stood at the battlefront."
-  },
-  {
-    "ref": "6.77.1",
-    "sanskrit": "yudhyamānau tu tau dṛṣṭvā prasaktau nararākṣasau śūraḥ sa rāvaṇabhrātā tasthau saṃgrāmamūrdhani",
-    "english": "Seeing those two — the man and the rākṣasa — engaged in combat, that brave brother of Rāvaṇa stood at the head of the battle."
-  },
-  {
-    "ref": "6.77.2",
-    "sanskrit": "tato visphārayām āsa mahad dhanur avasthitaḥ utsasarja ca tīkṣṇāgrān rākṣaseṣu mahāśarān",
-    "english": "Taking his stand, he drew his great bow and discharged sharp-pointed great arrows at the rākṣasas."
-  },
-  {
-    "ref": "6.77.3",
-    "sanskrit": "te śarāḥ śikhisaṃkāśā nipatantaḥ samāhitāḥ rākṣasān dārayām āsur vajrā iva mahāgirīn",
-    "english": "Those arrows, resembling flames, fell with concentrated force and split the rākṣasas asunder, as thunderbolts split great mountains."
-  },
-  {
-    "ref": "6.77.4",
-    "sanskrit": "vibhīṣaṇasyānucarās te 'pi śūlāsipaṭṭasaiḥ ciccheduḥ samare vīrān rākṣasān rākṣasottamāḥ",
-    "english": "Vibhīṣaṇa's attendants too, those foremost rākṣasas, cut down the valiant rākṣasa warriors in battle with spears, swords, and broad-bladed weapons."
-  },
-  {
-    "ref": "6.77.5",
-    "sanskrit": "rākṣasais taiḥ parivṛtaḥ sa tadā tu vibhīṣaṇaḥ babhau madhye prahṛṣṭānāṃ kalabhānām iva dvipaḥ",
-    "english": "Vibhīṣaṇa surrounded by those rākṣasas shone like an elephant in the midst of exultant young elephants."
-  },
-  {
-    "ref": "6.77.6",
-    "sanskrit": "tataḥ saṃcodayāno vai harīn rakṣoraṇapriyān uvāca vacanaṃ kāle kālajño rakṣasāṃ varaḥ",
-    "english": "Then, urging on the monkeys who were eager for battle against the rākṣasas, that foremost of rākṣasas, knowing the right moment, spoke at the right time."
-  },
-  {
-    "ref": "6.77.7",
-    "sanskrit": "eko 'yaṃ rākṣasendrasya parāyaṇam iva sthitaḥ etac cheṣaṃ balaṃ tasya kiṃ tiṣṭhata harīśvarāḥ",
-    "english": "\"This one alone stands here like the last refuge of the lord of rākṣasas — this is the remaining force of his army. Why do you lords of monkeys hold back?\""
-  },
-  {
-    "ref": "6.77.8",
-    "sanskrit": "asmin vinihate pāpe rākṣase raṇamūrdhani rāvaṇaṃ varjayitvā tu śeṣam asya balaṃ hatam",
-    "english": "\"When this wicked rākṣasa is slain at the head of battle, excluding Rāvaṇa himself, the remainder of his army will be destroyed.\""
-  },
-  {
-    "ref": "6.77.9",
-    "sanskrit": "prahasto nihato vīro nikumbhaś ca mahābalaḥ kumbhakarṇaś ca kumbhaś ca dhūmrākṣaś ca niśācaraḥ",
-    "english": "\"The valiant Prahasta has been slain, and the mighty Nikumbha, Kumbhakarṇa and Kumbha, and the night-wanderer Dhūmrākṣa —\""
-  },
-  {
-    "ref": "6.77.10",
-    "sanskrit": "akampanaḥ supārśvaś ca cakramālī ca rākṣasaḥ kampanaḥ sattvavantaś ca devāntakanarāntakau",
-    "english": "\"— Akampana and Supārśva, the rākṣasa Cakramālī, Kampana, and those powerful ones Devāntaka and Narāntaka —\""
-  },
-  {
-    "ref": "6.77.11",
-    "sanskrit": "etān nihatyātibalān bahūn rākṣasasattamān bāhubhyāṃ sāgaraṃ tīrtvā laṅghyatāṃ goṣpadaṃ laghu",
-    "english": "\"— having slain these many exceedingly powerful foremost rākṣasas, having crossed the ocean with their arms, let the rest be crossed like a mere cow's hoofprint!\""
-  },
-  {
-    "ref": "6.77.12",
-    "sanskrit": "etāvad iha śeṣaṃ vo jetavyam iha vānarāḥ hatāḥ sarve samāgamya rākṣasā baladarpitāḥ",
-    "english": "\"This much alone remains for you to conquer here, O monkeys; all those rākṣasas proud of their strength have been slain when they came together.\""
-  },
-  {
-    "ref": "6.77.13",
-    "sanskrit": "ayuktaṃ nidhanaṃ kartuṃ putrasya janitur mama ghṛṇām apāsya rāmārthe nihanyāṃ bhrātur ātmajam",
-    "english": "\"It is improper for me to cause the death of my elder brother's son; yet, setting aside compassion, for Rāma's sake I shall slay my brother's child.\""
-  },
-  {
-    "ref": "6.77.14",
-    "sanskrit": "hantukāmasya me bāṣpaṃ cakśuś caiva nirudhyate tad evaiṣa mahābāhur lakṣmaṇaḥ śamayiṣyati vānarā ghnantuṃ saṃbhūya bhṛtyān asya samīpagān",
-    "english": "\"Even as I wish to kill him, tears well up and obstruct my eyes — but the mighty-armed Lakṣmaṇa himself shall settle that. O monkeys, gather together and slay his attendants who are near him!\""
-  },
-  {
-    "ref": "6.77.15",
-    "sanskrit": "iti tenātiyaśasā rākṣasenābhicoditāḥ vānarendrā jahṛṣire lāṅgalāni ca vivyadhuḥ",
-    "english": "Urged on by that greatly renowned rākṣasa, the lords of monkeys rejoiced and brandished their tails."
-  },
-  {
-    "ref": "6.77.16",
-    "sanskrit": "tatas te kapiśārdūlāḥ kṣveḍantaś ca muhur muhuḥ mumucur vividhān nādān meghān dṛṣṭveva barhiṇaḥ",
-    "english": "Then those tiger-like monkeys, shrieking again and again, raised various cries — like peacocks at the sight of clouds."
-  },
-  {
-    "ref": "6.77.17",
-    "sanskrit": "jāmbavān api taiḥ sarvaiḥ svayūthair abhisaṃvṛtaḥ aśmabhis tāḍayām āsa nakhair dantaiś ca rākṣasān",
-    "english": "Jāmbavān too, surrounded by all of them along with his own troops, struck the rākṣasas with rocks, claws, and teeth."
-  },
-  {
-    "ref": "6.77.18",
-    "sanskrit": "nighnantam ṛkṣādhipatiṃ rākṣasās te mahābalāḥ parivavrur bhayaṃ tyaktvā tam anekavidhāyudhāḥ",
-    "english": "Those mighty rākṣasas, setting aside fear and bearing weapons of many kinds, surrounded the lord of bears as he was striking them down."
-  },
-  {
-    "ref": "6.77.19",
-    "sanskrit": "śaraiḥ paraśubhis tīkṣṇaiḥ paṭṭasair yaṣṭitomaraiḥ jāmbavantaṃ mṛdhe jaghnur nighnantaṃ rākṣasīṃ camūm",
-    "english": "With arrows, sharp axes, broad-bladed swords, clubs, and javelins, they struck Jāmbavant in battle as he was smiting the rākṣasa army."
-  },
-  {
-    "ref": "6.77.20",
-    "sanskrit": "sa saṃprahāras tumulaḥ saṃjajñe kapirākṣasām devāsurāṇāṃ kruddhānāṃ yathā bhīmo mahāsvanaḥ",
-    "english": "That tumultuous clash between the monkeys and rākṣasas arose, fierce and of great sound, like the terrible roar of the wrathful gods and asuras."
-  },
-  {
-    "ref": "6.77.21",
-    "sanskrit": "hanūmān api saṃkruddhaḥ sālam utpāṭya parvatāt rakṣasāṃ kadanaṃ cakre samāsādya sahasraśaḥ",
-    "english": "Hanūmant too, blazing with rage, uprooted a sāla tree from the mountain and, rushing forward, made a slaughter of the rākṣasas by the thousands."
-  },
-  {
-    "ref": "6.77.22",
-    "sanskrit": "sa dattvā tumulaṃ yuddhaṃ pitṛvyasyendrajid yudhi lakṣmaṇaṃ paravīraghnaṃ punar evābhyadhāvata",
-    "english": "Having given tumultuous battle to his paternal uncle Vibhīṣaṇa in the fight, Indrajit rushed again at Lakṣmaṇa, slayer of enemy heroes."
-  },
-  {
-    "ref": "6.77.23",
-    "sanskrit": "tau prayuddhau tadā vīrau mṛdhe lakṣmaṇarākṣasau śaraughān abhivarṣantau jaghnatus tau parasparam",
-    "english": "Those two heroes — Lakṣmaṇa and the rākṣasa — fought once again in battle, raining torrents of arrows and striking each other."
-  },
-  {
-    "ref": "6.77.24",
-    "sanskrit": "abhīkṣṇam antardadhatuḥ śarajālair mahābalau candrādityāv ivoṣṇānte yathā meghais tarasvinau",
-    "english": "Those two mighty and swift ones repeatedly concealed each other with networks of arrows, like the moon and sun in the hot season hidden by clouds."
-  },
-  {
-    "ref": "6.77.25",
-    "sanskrit": "na hy ādānaṃ na saṃdhānaṃ dhanuṣo vā parigrahaḥ na vipramokṣo bāṇānāṃ na vikarṣo na vigrahaḥ",
-    "english": "There was no perceiving the taking up of arrows, nor the fitting of them to the bow, nor the grasping of the bow itself, nor the releasing of shafts, nor the drawing back, nor any pause —"
-  },
-  {
-    "ref": "6.77.26",
-    "sanskrit": "na muṣṭipratisaṃdhānaṃ na lakṣyapratipādanam adṛśyata tayos tatra yudhyatoḥ pāṇilāghavāt",
-    "english": "— nor the positioning of the fist, nor the aiming at the target could be seen in those two fighting there, such was the swiftness of their hands."
-  },
-  {
-    "ref": "6.77.27",
-    "sanskrit": "cāpavegapramuktaiś ca bāṇajālaiḥ samantataḥ antarikṣe 'bhisaṃchanne na rūpāṇi cakāśire tamasā pihitaṃ sarvam āsīd bhīmataraṃ mahat",
-    "english": "With nets of arrows launched at great speed from their bows covering the sky on all sides, no forms could be discerned — everything was covered in darkness, vast and all the more terrible."
-  },
-  {
-    "ref": "6.77.28",
-    "sanskrit": "na tadānīṃ vavau vāyur na jajvāla ca pāvakaḥ svastyas tu lokebhya iti jajalpaś ca maharṣayaḥ saṃpetuś cātra saṃprāptā gandharvāḥ saha cāraṇaiḥ",
-    "english": "At that time the wind did not blow, nor did fire blaze; the great sages murmured \"may the worlds be safe!\" and the gandharvas along with cāraṇas gathered and descended there."
-  },
-  {
-    "ref": "6.77.29",
-    "sanskrit": "atha rākṣasasiṃhasya kṛṣṇān kanakabhūṣaṇān śaraiś caturbhiḥ saumitrir vivyādha caturo hayān",
-    "english": "Then Saumitri, with four arrows, pierced the four dark horses of that lion among rākṣasas, who were adorned with gold trappings."
-  },
-  {
-    "ref": "6.77.30",
-    "sanskrit": "tato 'pareṇa bhallena sūtasya vicariṣyataḥ lāghavād rāghavaḥ śrīmāñ śiraḥ kāyād apāharat",
-    "english": "Then with another broad-headed shaft, the glorious scion of the Rāghu line, with swift dexterity, severed the head of the charioteer who was about to drive away."
-  },
-  {
-    "ref": "6.77.31",
-    "sanskrit": "nihataṃ sārathiṃ dṛṣṭvā samare rāvaṇātmajaḥ prajahau samaroddharṣaṃ viṣaṇṇaḥ sa babhūva ha",
-    "english": "Seeing the charioteer slain in battle, the son of Rāvaṇa abandoned his battle-fury and was overcome with dejection."
-  },
-  {
-    "ref": "6.77.32",
-    "sanskrit": "viṣaṇṇavadanaṃ dṛṣṭvā rākṣasaṃ hariyūthapāḥ tataḥ paramasaṃhṛṣṭo lakṣmaṇaṃ cābhyapūjayan",
-    "english": "Seeing the rākṣasa with downcast face, the leaders of the monkey troops were supremely jubilant and praised Lakṣmaṇa."
-  },
-  {
-    "ref": "6.77.33",
-    "sanskrit": "tataḥ pramāthī śarabho rabhaso gandhamādanaḥ amṛṣyamāṇāś catvāraś cakrur vegaṃ harīśvarāḥ",
-    "english": "Then Pramāthī, Śarabha, Rabhasa, and Gandhamādana — those four lords of monkeys, unable to tolerate it, sprang into action."
-  },
-  {
-    "ref": "6.77.34",
-    "sanskrit": "te cāsya hayamukhyeṣu tūrṇam utpatya vānarāḥ caturṣu sumahāvīryā nipetur bhīmavikramāḥ",
-    "english": "Those monkeys of exceedingly great valor and terrible might leaped up swiftly and fell upon his four foremost horses."
-  },
-  {
-    "ref": "6.77.35",
-    "sanskrit": "teṣām adhiṣṭhitānāṃ tair vānaraiḥ parvatopamaiḥ mukhebhyo rudhiraṃ vyaktaṃ hayānāṃ samavartata",
-    "english": "Ridden down by those mountain-like monkeys, blood poured visibly from the mouths of the horses."
-  },
-  {
-    "ref": "6.77.36",
-    "sanskrit": "te nihatya hayāṃs tasya pramathya ca mahāratham punar utpatya vegena tasthur lakṣmaṇapārśvataḥ",
-    "english": "They slew his horses and smashed his great chariot, then leaped up again swiftly and stood at Lakṣmaṇa's side."
-  },
-  {
-    "ref": "6.77.37",
-    "sanskrit": "sa hatāśvād avaplutya rathān mathitasāratheḥ śaravarṣeṇa saumitrim abhyadhāvata rāvaṇiḥ",
-    "english": "Rāvaṇi, leaping down from the chariot whose horses were slain and whose charioteer was destroyed, charged at Saumitri with a rain of arrows."
-  },
-  {
-    "ref": "6.77.38",
-    "sanskrit": "tato mahendrapratimaḥ sa lakṣmaṇaḥ padātinaṃ taṃ niśitaiḥ śarottamaiḥ sṛjantam ādau niśitāñ śarottamān bhṛśaṃ tadā bāṇagaṇair nyavārayat",
-    "english": "Then Lakṣmaṇa, resembling great Indra himself, repelled with massed shafts that foot-warrior who was discharging keen excellent arrows first — blocking him thoroughly with multitudes of arrows."
-  },
-  {
-    "ref": "6.78.1",
-    "sanskrit": "sa hatāśvo mahātejā bhūmau tiṣṭhan niśācaraḥ indrajit paramakruddhaḥ saṃprajajvāla tejasā",
-    "english": "That night-wanderer of great splendor, Indrajit, his horses slain, standing on the ground, ablaze with supreme wrath, blazed with his own energy."
-  },
-  {
-    "ref": "6.78.2",
-    "sanskrit": "tau dhanvinau jighāṃsantāv anyonyam iṣubhir bhṛśam vijayenābhiniṣkrāntau vane gajavṛṣāv iva",
-    "english": "Those two bowmen, eagerly desiring to kill each other, came forth with victory as their purpose, like two bull-elephants emerging from a forest."
-  },
-  {
-    "ref": "6.78.3",
-    "sanskrit": "nibarhayantaś cānyonyaṃ te rākṣasavanaukasaḥ bhartāraṃ na jahur yuddhe saṃpatantas tatas tataḥ",
-    "english": "The rākṣasas and forest-dwelling monkeys, striking each other down, did not abandon their master in battle as they rushed hither and thither."
-  },
-  {
-    "ref": "6.78.4",
-    "sanskrit": "sa lakṣmaṇaṃ samuddiśya paraṃ lāghavam āsthitaḥ vavarṣa śaravarṣāṇi varṣāṇīva puraṃdaraḥ",
-    "english": "He, resorting to extreme swiftness, rained showers of arrows upon Lakṣmaṇa as Indra rains showers of rain."
-  },
-  {
-    "ref": "6.78.5",
-    "sanskrit": "muktam indrajitā tat tu śaravarṣam ariṃdamaḥ avārayad asaṃbhrānto lakṣmaṇaḥ sudurāsadam",
-    "english": "But Lakṣmaṇa, crusher of enemies, without agitation, repelled that shower of arrows released by Indrajit, though it was exceedingly difficult to withstand."
-  },
-  {
-    "ref": "6.78.6",
-    "sanskrit": "abhedyakacanaṃ matvā lakṣmaṇaṃ rāvaṇātmajaḥ lalāṭe lakṣmaṇaṃ bāṇaiḥ supuṅkhais tribhir indrajit avidhyat paramakruddhaḥ śīghram astraṃ pradarśayan",
-    "english": "Considering Lakṣmaṇa unpierceable by any weapon, the son of Rāvaṇa, Indrajit, supremely enraged, swiftly displaying his weapon-skill, pierced Lakṣmaṇa on the forehead with three well-feathered arrows."
-  },
-  {
-    "ref": "6.78.7",
-    "sanskrit": "taiḥ pṛṣatkair lalāṭasthaiḥ śuśubhe raghunandanaḥ raṇāgre samaraślāghī triśṛṅga iva parvataḥ",
-    "english": "With those arrows fixed in his forehead, the glorious scion of the Raghu line shone at the forefront of battle, as a mountain with three peaks."
-  },
-  {
-    "ref": "6.78.8",
-    "sanskrit": "sa tathāpy ardito bāṇai rākṣasena mahāmṛdhe tam āśu prativivyādha lakṣmaṇaḥ panabhiḥ śaraiḥ",
-    "english": "Even so, though afflicted by the rākṣasa's arrows in the great battle, Lakṣmaṇa quickly shot him back with ten arrows."
-  },
-  {
-    "ref": "6.78.9",
-    "sanskrit": "lakṣmaṇendrajitau vīrau mahābalaśarāsanau anyonyaṃ jaghnatur bāṇair viśikhair bhīmavikramau",
-    "english": "Lakṣmaṇa and Indrajit, two heroes of mighty strength and bow, of terrible prowess, struck each other with pointed shafts."
-  },
-  {
-    "ref": "6.78.10",
-    "sanskrit": "tau parasparam abhyetya sarvagātreṣu dhanvinau ghorair vivyadhatur bāṇaiḥ kṛtabhāvāv ubhau jaye",
-    "english": "Those two bowmen, advancing upon each other, pierced one another all over the body with terrible arrows, both of them resolved upon victory."
-  },
-  {
-    "ref": "6.78.11",
-    "sanskrit": "tasmai dṛḍhataraṃ kruddho hatāśvāya vibhīṣaṇaḥ vajrasparśasamān pañca sasarjorasi mārgaṇān",
-    "english": "At him whose horses were slain, the more enraged Vibhīṣaṇa discharged five shafts upon his chest, equal in impact to the thunderbolt."
-  },
-  {
-    "ref": "6.78.12",
-    "sanskrit": "te tasya kāyaṃ nirbhidya rukmapuṅkhā nimittagāḥ babhūvur lohitādigdhā raktā iva mahoragāḥ",
-    "english": "Those gold-feathered arrows, aimed true, piercing his body, emerged smeared with blood, red like great serpents."
-  },
-  {
-    "ref": "6.78.13",
-    "sanskrit": "sa pitṛvyasya saṃkruddha indrajic charam ādade uttamaṃ rakṣasāṃ madhye yamadattaṃ mahābalaḥ",
-    "english": "Incensed at his paternal uncle, the mighty Indrajit, in the midst of the rākṣasas, took up a supreme arrow, bestowed by Yama."
-  },
-  {
-    "ref": "6.78.14",
-    "sanskrit": "taṃ samīkṣya mahātejā maheṣuṃ tena saṃhitam lakṣmaṇo 'py ādade bāṇam anyaṃ bhīmaparākramaḥ",
-    "english": "Seeing that great arrow fitted to his bow, Lakṣmaṇa of great splendor and terrible valor took up another arrow of his own."
-  },
-  {
-    "ref": "6.78.15",
-    "sanskrit": "kubereṇa svayaṃ svapne yad dattam amitātmanā durjayaṃ durviṣahyaṃ ca sendrair api surāsuraiḥ",
-    "english": "It was the one personally given by Kubera of immeasurable spirit in a dream — unconquerable, unbearable even by the gods and asuras together with Indra."
-  },
-  {
-    "ref": "6.78.16",
-    "sanskrit": "tābhyāṃ tau dhanuṣi śreṣṭhe saṃhitau sāyakottamau vikṛṣyamāṇau vīrābhyāṃ bhṛśaṃ jajvalatuḥ śriyā",
-    "english": "Those two excellent arrows, fitted to their excellent bows and being drawn taut by the two heroes, blazed mightily with glory."
-  },
-  {
-    "ref": "6.78.17",
-    "sanskrit": "tau bhāsayantāv ākāśaṃ dhanurbhyāṃ viśikhau cyutau mukhena mukham āhatya saṃnipetatur ojasā",
-    "english": "Those two shafts, illuminating the sky as they flew from the bows, struck each other face to face and fell down together with force."
-  },
-  {
-    "ref": "6.78.18",
-    "sanskrit": "tau mahāgrahasaṃkāśāv anyonyaṃ saṃnipatya ca saṃgrāme śatadhā yātau medinyāṃ vinipetatuḥ",
-    "english": "Those two, resembling great meteors, colliding with each other in battle, split into a hundred pieces and fell to the ground."
-  },
-  {
-    "ref": "6.78.19",
-    "sanskrit": "śarau pratihatau dṛṣṭvā tāv ubhau raṇamūrdhani vrīḍito jātaroṣau ca lakṣmaṇendrajitāv ubhau",
-    "english": "Seeing their arrows deflected at the head of battle, both Lakṣmaṇa and Indrajit were at once abashed and overcome with fresh rage."
-  },
-  {
-    "ref": "6.78.20",
-    "sanskrit": "susaṃrabdhas tu saumitrir astraṃ vāruṇam ādade raudraṃ mahedrajid yuddhe vyasṛjad yudhi viṣṭhitaḥ",
-    "english": "Greatly enraged, Saumitri took up the water-weapon of Varuṇa; the great Indrajit, standing firm in battle, discharged the terrible weapon of Rudra."
-  },
-  {
-    "ref": "6.78.21",
-    "sanskrit": "tayoḥ sutumulaṃ yuddhaṃ saṃbabhūvādbhutopamam gaganasthāni bhūtāni lakṣmaṇaṃ paryavārayan",
-    "english": "A supremely tumultuous battle ensued between them, resembling a marvel; the beings dwelling in the sky surrounded Lakṣmaṇa on all sides."
-  },
-  {
-    "ref": "6.78.22",
-    "sanskrit": "bhairavābhirute bhīme yuddhe vānararākṣasām bhūtair bahubhir ākāśaṃ vismitair āvṛtaṃ babhau",
-    "english": "In the dreadful battle, frightful with terrifying sounds, between the monkeys and rākṣasas, the sky appeared covered with many astonished beings."
-  },
-  {
-    "ref": "6.78.23",
-    "sanskrit": "ṛṣayaḥ pitaro devā gandharvā garuṇoragāḥ śatakratuṃ puraskṛtya rarakṣur lakṣmaṇaṃ raṇe",
-    "english": "Sages, ancestral spirits, gods, gandharvas, garuḍas, and serpents, placing Śatakratu (Indra) at their head, protected Lakṣmaṇa in battle."
-  },
-  {
-    "ref": "6.78.24",
-    "sanskrit": "athānyaṃ mārgaṇaśreṣṭhaṃ saṃdadhe rāvaṇānujaḥ hutāśanasamasparśaṃ rāvaṇātmajadāruṇam",
-    "english": "Then the younger brother of Rāvaṇa (Vibhīṣaṇa) fitted another foremost shaft — one whose touch was like the sacred fire, and terrible for the son of Rāvaṇa."
-  },
-  {
-    "ref": "6.78.25",
-    "sanskrit": "supatram anuvṛttāṅgaṃ suparvāṇaṃ susaṃsthitam suvarṇavikṛtaṃ vīraḥ śarīrāntakaraṃ śaram",
-    "english": "A shaft with beautiful feathers, smooth-bodied, with fine joints, well-formed, wrought with gold — the hero fitted an arrow that would end a life."
-  },
-  {
-    "ref": "6.78.26",
-    "sanskrit": "durāvāraṃ durviṣahaṃ rākṣasānāṃ bhayāvaham āśīviṣaviṣaprakhyaṃ devasaṃghaiḥ samarcitam",
-    "english": "Hard to ward off, hard to endure, inspiring fear in the rākṣasas, like the venom of a deadly serpent, honored by the hosts of gods —"
-  },
-  {
-    "ref": "6.78.27",
-    "sanskrit": "yena śakro mahātejā dānavān ajayat prabhuḥ purā devāsure yuddhe vīryavān harivāhanaḥ",
-    "english": "— with which the mighty lord Indra, of great splendor, mounted on his bay steeds, had long ago conquered the dānavas in the battle of gods and asuras —"
-  },
-  {
-    "ref": "6.78.28",
-    "sanskrit": "tad aindram astraṃ saumitriḥ saṃyugeṣv aparājitam śaraśreṣṭhaṃ dhanuḥ śreṣṭhe naraśreṣṭho 'bhisaṃdadhe",
-    "english": "— that weapon of Indra, unconquered in battles, that foremost of shafts — the foremost of men, Saumitri, fitted it to his foremost bow."
-  },
-  {
-    "ref": "6.78.29",
-    "sanskrit": "saṃdhāyāmitradalanaṃ vicakarṣa śarāsanam sajyam āyamya durdharśaḥ kālo lokakṣaye yathā",
-    "english": "Having fitted the enemy-destroying arrow, he drew the strung bow taut — unapproachable, like Time at the dissolution of the worlds."
-  },
-  {
-    "ref": "6.78.30",
-    "sanskrit": "saṃdhāya dhanuṣi śreṣṭhe vikarṣann idam abravīt lakṣmīvāṃl lakṣmaṇo vākyam arthasādhakam ātmanaḥ",
-    "english": "Having fitted it to the excellent bow and drawing back, the glorious Lakṣmaṇa spoke these words that would accomplish his purpose."
-  },
-  {
-    "ref": "6.78.31",
-    "sanskrit": "dharmātmā satyasaṃdhaś ca rāmo dāśarathir yadi pauruṣe cāpratidvandvas tad enaṃ jahi rāvaṇim",
-    "english": "\"If Rāma, the son of Daśaratha, is truly righteous in soul and true to his vows, and if he is without rival in valor, then slay this son of Rāvaṇa!\""
-  },
-  {
-    "ref": "6.78.32",
-    "sanskrit": "ity uktvā bāṇam ākarṇaṃ vikṛṣya tam ajihmagam lakṣmaṇaḥ samare vīraḥ sasarjendrajitaṃ prati aindrāstreṇa samāyujya lakṣmaṇaḥ paravīrahā",
-    "english": "Having spoken thus, the heroic Lakṣmaṇa, slayer of enemy heroes, drew that straight arrow back to his ear and discharged it at Indrajit, joined with the Aindra weapon."
-  },
-  {
-    "ref": "6.78.33",
-    "sanskrit": "tac chiraḥ saśiras trāṇaṃ śrīmaj jvalitakuṇḍalam pramathyendrajitaḥ kāyāt papāta dharaṇītale",
-    "english": "That head, along with its helmet and its glowing earrings in their glory, was torn from Indrajit's body and fell upon the ground."
-  },
-  {
-    "ref": "6.78.34",
-    "sanskrit": "tad rākṣasatanūjasya chinnaskandhaṃ śiro mahat tapanīyanibhaṃ bhūmau dadṛśe rudhirokṣitam",
-    "english": "The great head of that son of a rākṣasa, severed at the neck, resembling burnished gold, was seen on the ground soaked in blood."
-  },
-  {
-    "ref": "6.78.35",
-    "sanskrit": "hatas tu nipapātāśu dharaṇyāṃ rāvaṇātmajaḥ kavacī saśirastrāṇo vidhvastaḥ saśarāsanaḥ",
-    "english": "Slain, the son of Rāvaṇa fell swiftly to the earth, clad in his armor, still wearing his head-guard, shattered, bow in hand."
-  },
-  {
-    "ref": "6.78.36",
-    "sanskrit": "cukruśus te tataḥ sarve vānarāḥ savibhīṣaṇāḥ hṛṣyanto nihate tasmin devā vṛtravadhe yathā",
-    "english": "Then all the monkeys together with Vibhīṣaṇa roared aloud, rejoicing at his slaying, as the gods had at the slaying of Vṛtra."
-  },
-  {
-    "ref": "6.78.37",
-    "sanskrit": "athāntarikṣe bhūtānām ṛṣīṇāṃ ca mahātmanām abhijajñe ca saṃnādo gandharvāpsarasām api",
-    "english": "Then in the sky there arose the roar of the beings, of the great-souled sages, and of the gandharvas and apsarases as well."
-  },
-  {
-    "ref": "6.78.38",
-    "sanskrit": "patitaṃ samabhijñāya rākṣasī sā mahācamūḥ vadhyamānā diśo bheje haribhir jitakāśibhiḥ",
-    "english": "Recognizing their lord as fallen, that great rākṣasa army, being slaughtered, fled in all directions from the monkeys who now shone with victory."
-  },
-  {
-    "ref": "6.78.39",
-    "sanskrit": "vanarair vadhyamānās te śastrāṇy utsṛjya rākṣasāḥ laṅkām abhimukhāḥ sarve naṣṭasaṃjñāḥ pradhāvitāḥ",
-    "english": "Slaughtered by the monkeys, those rākṣasas cast away their weapons and ran, all turned toward Laṅkā, their senses lost."
-  },
-  {
-    "ref": "6.78.40",
-    "sanskrit": "dudruvur bahudhā bhītā rākṣasāḥ śataśo diśaḥ tyaktvā praharaṇān sarve paṭṭasāsiparaśvadhān",
-    "english": "The rākṣasas, terrified, fled by hundreds in every direction, all abandoning their weapons — broad-bladed swords, axes, and halberds."
-  },
-  {
-    "ref": "6.78.41",
-    "sanskrit": "ke cil laṅkāṃ paritrastāḥ praviṣṭā vānarārditāḥ samudre patitāḥ ke cit ke cit parvatam āśritāḥ",
-    "english": "Some, stricken with panic and tormented by the monkeys, fled into Laṅkā; some fell into the ocean; some took refuge on the mountain."
-  },
-  {
-    "ref": "6.78.42",
-    "sanskrit": "hatam indrajitaṃ dṛṣṭvā śayānaṃ samarakṣitau rākṣasānāṃ sahasreṣu na kaś cit pratyadṛśyata",
-    "english": "Seeing Indrajit, who had been the protector in battle, lying slain, not a single one among thousands of rākṣasas was to be seen standing firm."
-  },
-  {
-    "ref": "6.78.43",
-    "sanskrit": "yathāstaṃ gata āditye nāvatiṣṭhanti raśmayaḥ tathā tasmin nipatite rākṣasās te gatā diśaḥ",
-    "english": "As the rays of the sun do not remain when the sun has set, so when he had fallen, those rākṣasas dispersed in all directions."
-  },
-  {
-    "ref": "6.78.44",
-    "sanskrit": "śāntarakśmir ivādityo nirvāṇa iva pāvakaḥ sa babhūva mahātejā vyapāsta gatajīvitaḥ",
-    "english": "That one of great energy became like the sun with its rays extinguished, like a fire that has been quenched — cast aside, his life departed."
-  },
-  {
-    "ref": "6.78.45",
-    "sanskrit": "praśāntapīḍā bahulo vinaṣṭāriḥ praharṣavān babhūva lokaḥ patite rākṣasendrasute tadā",
-    "english": "When the son of the lord of rākṣasas had fallen, the world was relieved of its torment in great measure, its enemy destroyed, full of jubilation."
-  },
-  {
-    "ref": "6.78.46",
-    "sanskrit": "harṣaṃ ca śakro bhagavān saha sarvaiḥ surarṣabhaiḥ jagāma nihate tasmin rākṣase pāpakarmaṇi",
-    "english": "The blessed Indra, together with all the foremost gods, was filled with joy when that rākṣasa of evil deeds was slain."
-  },
-  {
-    "ref": "6.78.47",
-    "sanskrit": "śuddhā āpo nabhaś caiva jahṛṣur daityadānavāḥ ājagmuḥ patite tasmin sarvalokabhayāvahe",
-    "english": "The waters became pure, and the sky rejoiced; the daityas and dānavas came forth when he who had been a terror to all the worlds had fallen."
-  },
-  {
-    "ref": "6.78.48",
-    "sanskrit": "ūcuś ca sahitāḥ sarve devagandharvadānavāḥ vijvarāḥ śāntakaluṣā brāhmaṇā vicarantv iti",
-    "english": "And all of them — gods, gandharvas, and dānavas — said together, freed from fever, their impurities calmed: \"Let the brāhmaṇas move about freely!\""
-  },
-  {
-    "ref": "6.78.49",
-    "sanskrit": "tato 'bhyanandan saṃhṛṣṭāḥ samare hariyūthapāḥ tam apratibalaṃ dṛṣṭvā hataṃ nairṛtapuṃgavam",
-    "english": "Then, supremely delighted, the leaders of the monkey troops in battle applauded, seeing that foremost of rākṣasas who was unmatched in strength lying slain."
-  },
-  {
-    "ref": "6.78.50",
-    "sanskrit": "vibhīṣaṇo hanūmāṃś ca jāmbavāṃś carkṣayūthapaḥ vijayenābhinandantas tuṣṭuvuś cāpi lakṣmaṇam",
-    "english": "Vibhīṣaṇa, Hanūmant, and Jāmbavant the lord of the bear troops, felicitating him with victory, also praised Lakṣmaṇa."
-  },
-  {
-    "ref": "6.78.51",
-    "sanskrit": "kṣveḍantaś ca nadantaś ca garjantaś ca plavaṃgamāḥ labdhalakṣā raghusutaṃ parivāryopatasthire",
-    "english": "The monkeys, shrieking, roaring, and thundering, having accomplished their aim, surrounded and attended upon the son of the Raghu line."
-  },
-  {
-    "ref": "6.78.52",
-    "sanskrit": "lāṅgūlāni pravidhyantaḥ sphoṭayantaś ca vānarāḥ lakṣmaṇo jayatīty evaṃ vākyaṃ vyaśrāvayaṃs tadā",
-    "english": "The monkeys, whirling their tails and clapping their hands, then proclaimed these words aloud: \"Victory to Lakṣmaṇa!\""
-  },
-  {
-    "ref": "6.78.53",
-    "sanskrit": "anyonyaṃ ca samāśliṣya kapayo hṛṣṭamānasāḥ cakrur uccāvacaguṇā rāghavāśrayajāḥ kathāḥ",
-    "english": "The monkeys, joyful at heart, embracing one another, engaged in tales of all kinds of valor rooted in their devotion to Rāghava."
-  },
-  {
-    "ref": "6.78.54",
-    "sanskrit": "tad asukaram athābhivīkṣya hṛṣṭāḥ priyasuhṛdo yudhi lakṣmaṇasya karma paramam upalabhan manaḥpraharṣaṃ vinihatam indraripuṃ niśamya devāḥ",
-    "english": "Beholding that difficult feat of Lakṣmaṇa in battle, his beloved companions were filled with joy; and the gods, hearing that the enemy of Indra had been slain, achieved the highest delight of heart."
-  }
+{"ref": "6.76.1", "sanskrit": "tataḥ śaraṃ dāśarathiḥ saṃdhāyāmitrakarśanaḥ sasarja rākṣasendrāya kruddhaḥ sarpa iva śvasan", "english": "Then the son of Daśaratha, crusher of enemies, fitted an arrow to his bow and discharged it at the lord of rākṣasas, hissing in rage like a serpent."},
+{"ref": "6.76.2", "sanskrit": "tasya jyātalanirghoṣaṃ sa śrutvā rāvaṇātmajaḥ vivarṇavadano bhūtvā lakṣmaṇaṃ samudaikṣata", "english": "Hearing that twang of the bowstring, the son of Rāvaṇa turned pale in the face and stared at Lakṣmaṇa."},
+{"ref": "6.76.3", "sanskrit": "taṃ viṣaṇṇamukhaṃ dṛṣṭvā rākṣasaṃ rāvaṇātmajam saumitriṃ yuddhasaṃsaktaṃ pratyuvāca vibhīṣaṇaḥ", "english": "Seeing the rākṣasa, son of Rāvaṇa, with downcast face, Vibhīṣaṇa addressed Saumitri who was intent on battle."},
+{"ref": "6.76.4", "sanskrit": "nimittāny anupaśyāmi yāny asmin rāvaṇātmaje tvara tena mahābāho bhagna eṣa na saṃśayaḥ", "english": "\"I observe the omens in this son of Rāvaṇa — hasten, O mighty-armed one; this one is broken, without doubt.\""},
+{"ref": "6.76.5", "sanskrit": "tataḥ saṃdhāya saumitriḥ śarān agniśikhopamān mumoca niśitāṃs tasmai sarvān iva viṣolbaṇān", "english": "Then Saumitri fitted sharp arrows resembling flames of fire and released them all at him, each blazing with venom as it were."},
+{"ref": "6.76.6", "sanskrit": "śakrāśanisamasparśair lakṣmaṇenāhataḥ śaraiḥ muhūrtam abhavan mūḍhaḥ sarvasaṃkṣubhitendriyaḥ", "english": "Struck by Lakṣmaṇa's arrows, whose impact equalled Indra's thunderbolt, he became bewildered for a moment, all his senses convulsed."},
+{"ref": "6.76.7", "sanskrit": "upalabhya muhūrtena saṃjñāṃ pratyāgatendriyaḥ dadarśāvasthitaṃ vīraṃ vīro daśarathātmajam", "english": "Regaining consciousness after a moment, his senses restored, the hero beheld the hero, the son of Daśaratha, standing firm before him."},
+{"ref": "6.76.8", "sanskrit": "so 'bhicakrāma saumitriṃ roṣāt saṃraktalocanaḥ abravīc cainam āsādya punaḥ sa paruṣaṃ vacaḥ", "english": "His eyes red with fury, he charged at Saumitri, and approaching him, spoke harsh words once again."},
+{"ref": "6.76.9", "sanskrit": "kiṃ na smarasi tad yuddhe prathame matparākramam nibaddhas tvaṃ saha bhrātrā yadā yudhi viceṣṭase", "english": "\"Do you not remember my valor in that earlier battle, when you and your brother lay bound, writhing on the field?\""},
+{"ref": "6.76.10", "sanskrit": "yuvā khalu mahāyuddhe śakrāśanisamaiḥ śaraiḥ śāyinau prathamaṃ bhūmau visaṃjñau sapuraḥsarau", "english": "\"Both of you in that great battle were struck down to the earth first by arrows equal to Indra's thunderbolt, lying unconscious together with your vanguard.\""},
+{"ref": "6.76.11", "sanskrit": "smṛtir vā nāsti te manye vyaktaṃ vā yamasādanam gantum icchasi yasmāt tvaṃ māṃ dharṣayitum icchasi", "english": "\"Either you have no memory of it, I think, or you clearly wish to go to the abode of Yama, since you desire to challenge me.\""},
+{"ref": "6.76.12", "sanskrit": "yadi te prathame yuddhe na dṛṣṭo matparākramaḥ adya tvāṃ darśayiṣyāmi tiṣṭhedānīṃ vyavasthitaḥ", "english": "\"If you did not witness my valor in the first battle, today I shall show it to you — stand firm now, resolute!\""},
+{"ref": "6.76.13", "sanskrit": "ity uktvā saptabhir bāṇair abhivivyādha lakṣmaṇam daśabhiś ca hanūmantaṃ tīkṣṇadhāraiḥ śarottamaiḥ", "english": "Having spoken thus, he pierced Lakṣmaṇa with seven arrows, and Hanūmant with ten excellent keen-edged shafts."},
+{"ref": "6.76.14", "sanskrit": "tataḥ śaraśatenaiva suprayuktena vīryavān krodhād dviguṇasaṃrabdho nirbibheda vibhīṣaṇam", "english": "Then the valiant one, his fury doubled by wrath, pierced Vibhīṣaṇa with a hundred well-aimed arrows."},
+{"ref": "6.76.15", "sanskrit": "tad dṛṣṭvendrajitaḥ karma kṛtaṃ rāmānujas tadā acintayitvā prahasan naitat kiṃ cid iti bruvan", "english": "Seeing that act of Indrajit accomplished, Rāma's younger brother then, giving it no thought, laughed and declared: \"This is nothing.\""},
+{"ref": "6.76.16", "sanskrit": "mumoca sa śarān ghorān saṃgṛhya narapuṃgavaḥ abhītavadanaḥ kruddho rāvaṇiṃ lakṣmaṇo yudhi", "english": "That bull among men, Lakṣmaṇa, undaunted of countenance and furious, drew and released terrible arrows at Rāvaṇi in battle."},
+{"ref": "6.76.17", "sanskrit": "naivaṃ raṇagataḥ śūrāḥ praharanti niśācara laghavaś cālpavīryāś ca sukhā hīme śarās tava", "english": "\"Heroes who have entered battle do not strike in this fashion, O night-wanderer — these arrows of yours are light, feeble in power, and easily endured.\""},
+{"ref": "6.76.18", "sanskrit": "naivaṃ śūrās tu yudhyante samare jayakāṅkṣiṇaḥ ity evaṃ taṃ bruvāṇas tu śaravarṣair avākirat", "english": "\"Heroes who aspire to victory in battle do not fight in such a manner.\" Saying this to him, Lakṣmaṇa covered him with a shower of arrows."},
+{"ref": "6.76.19", "sanskrit": "tasya bāṇais tu vidhvastaṃ kavacaṃ hemabhūṣitam vyaśīryata rathopasthe tārājālam ivāmbarāt", "english": "His gold-adorned armor, shattered by those arrows, crumbled onto the floor of the chariot like a net of stars falling from the sky."},
+{"ref": "6.76.20", "sanskrit": "vidhūtavarmā nārācair babhūva sa kṛtavraṇaḥ indrajit samare śūraḥ prarūḍha iva sānumān", "english": "His armor stripped by the iron shafts, his body covered with wounds, the valiant Indrajit in battle resembled a mountain overgrown with flowering plants."},
+{"ref": "6.76.21", "sanskrit": "abhīkṣṇaṃ niśvasantau hi yudhyetāṃ tumulaṃ yudhi śarasaṃkṛttasarvāṅgo sarvato rudhirokṣitau", "english": "Hissing repeatedly, they fought a tumultuous fight; the limbs of each were cut all over by arrows, and both were drenched in blood on every side."},
+{"ref": "6.76.22", "sanskrit": "astrāṇy astravidāṃ śreṣṭhau darśayantau punaḥ punaḥ śarān uccāvacākārān antarikṣe babandhatuḥ", "english": "Those two foremost knowers of weapons, displaying their missiles again and again, wove arrows of every shape and form into nets across the sky."},
+{"ref": "6.76.23", "sanskrit": "vyapetadoṣam asyantau laghucitraṃ ca suṣṭhu ca ubhau tu tumulaṃ ghoraṃ cakratur nararākṣasau", "english": "Shooting with flawless precision, swiftly and with wonderful skill, the two — man and rākṣasa — made a tumultuous and terrible combat."},
+{"ref": "6.76.24", "sanskrit": "tayoḥ pṛthakpṛthag bhīmaḥ śuśruve talanisvanaḥ sughorayor niṣṭanator gagane meghayor iva", "english": "From those two, one after the other, a dreadful clap of palms upon bows was heard — like two terrifying clouds thundering in the sky."},
+{"ref": "6.76.25", "sanskrit": "te gātrayor nipatitā rukmapuṅkhāḥ śarā yudhi asṛgdigdhā viniṣpetur viviśur dharaṇītalam", "english": "The gold-feathered arrows that fell upon their bodies in the fight, smeared with blood, flew out and sank into the earth."},
+{"ref": "6.76.26", "sanskrit": "anyaiḥ suniśitaiḥ śastrair ākāśe saṃjaghaṭṭire babhañjuś cicchiduś cāpi tayor bāṇāḥ sahasraśaḥ", "english": "With other sharpened weapons they clashed in the sky; their arrows shattered and split each other by the thousands."},
+{"ref": "6.76.27", "sanskrit": "sa babhūva raṇe ghoras tayor bāṇamayaś cayaḥ agnibhyām iva dīptābhyāṃ satre kuśamayaś cayaḥ", "english": "That terrible pile of arrows heaped in the battle between them was like a pile of sacrificial kuśa grass kindled by two blazing fires."},
+{"ref": "6.76.28", "sanskrit": "tayoḥ kṛtavraṇau dehau śuśubhāte mahātmanoḥ sapuṣpāv iva niṣpatrau vane śālmalikuṃśukau", "english": "The wound-covered bodies of those two great-souled warriors shone beautifully, like leafless but flowering śalmali and kuṃśuka trees in the forest."},
+{"ref": "6.76.29", "sanskrit": "cakratus tumulaṃ ghoraṃ saṃnipātaṃ muhur muhuḥ indrajil lakṣmaṇaś caiva parasparajayaiṣiṇau", "english": "Indrajit and Lakṣmaṇa, each desiring victory over the other, made a tumultuous and terrible clash again and again."},
+{"ref": "6.76.30", "sanskrit": "lakṣmaṇo rāvaṇiṃ yuddhe rāvaṇiś cāpi lakṣmaṇam anyonyaṃ tāv abhighnantau na śramaṃ pratyapadyatām", "english": "Lakṣmaṇa striking Rāvaṇi in battle, and Rāvaṇi striking Lakṣmaṇa — the two of them, smiting each other, felt no fatigue."},
+{"ref": "6.76.31", "sanskrit": "bāṇajālaiḥ śarīrasthair avagāḍhais tarasvinau śuśubhāte mahāvīrau virūḍhāv iva parvatau", "english": "With networks of arrows lodged deep in their bodies, those two swift great warriors shone like two mountains overgrown with creepers."},
+{"ref": "6.76.32", "sanskrit": "tayo rudhirasiktāni saṃvṛtāni śarair bhṛśam babhrājuḥ sarvagātrāṇi jvalanta iva pāvakāḥ", "english": "All the limbs of those two, soaked in blood and thickly covered with arrows, blazed brilliantly, like fires aflame."},
+{"ref": "6.76.33", "sanskrit": "tayor atha mahān kālo vyatīyād yudhyamānayoḥ na ca tau yuddhavaimukhyaṃ śramaṃ vāpy upajagmatuḥ", "english": "A great span of time passed as they fought, yet neither of them turned away from battle nor experienced fatigue."},
+{"ref": "6.76.34", "sanskrit": "atha samarapariśramaṃ nihantuṃ samaramukheṣv ajitasya lakṣmaṇasya priyahitam upapādayan mahaujāḥ samaram upetya vibhīṣaṇo 'vatasthe", "english": "Then, to dispel the battle-weariness and render service to the unvanquished Lakṣmaṇa at the fore of the fights, mighty Vibhīṣaṇa came forward and stood at the battlefront."},
+{"ref": "6.77.1", "sanskrit": "yudhyamānau tu tau dṛṣṭvā prasaktau nararākṣasau śūraḥ sa rāvaṇabhrātā tasthau saṃgrāmamūrdhani", "english": "Seeing those two — the man and the rākṣasa — engaged in combat, that brave brother of Rāvaṇa stood at the head of the battle."},
+{"ref": "6.77.2", "sanskrit": "tato visphārayām āsa mahad dhanur avasthitaḥ utsasarja ca tīkṣṇāgrān rākṣaseṣu mahāśarān", "english": "Taking his stand, he drew his great bow and discharged sharp-pointed great arrows at the rākṣasas."},
+{"ref": "6.77.3", "sanskrit": "te śarāḥ śikhisaṃkāśā nipatantaḥ samāhitāḥ rākṣasān dārayām āsur vajrā iva mahāgirīn", "english": "Those arrows, resembling flames, fell with concentrated force and split the rākṣasas asunder, as thunderbolts split great mountains."},
+{"ref": "6.77.4", "sanskrit": "vibhīṣaṇasyānucarās te 'pi śūlāsipaṭṭasaiḥ ciccheduḥ samare vīrān rākṣasān rākṣasottamāḥ", "english": "Vibhīṣaṇa's attendants too, those foremost rākṣasas, cut down the valiant rākṣasa warriors in battle with spears, swords, and broad-bladed weapons."},
+{"ref": "6.77.5", "sanskrit": "rākṣasais taiḥ parivṛtaḥ sa tadā tu vibhīṣaṇaḥ babhau madhye prahṛṣṭānāṃ kalabhānām iva dvipaḥ", "english": "Vibhīṣaṇa surrounded by those rākṣasas shone like an elephant in the midst of exultant young elephants."},
+{"ref": "6.77.6", "sanskrit": "tataḥ saṃcodayāno vai harīn rakṣoraṇapriyān uvāca vacanaṃ kāle kālajño rakṣasāṃ varaḥ", "english": "Then, urging on the monkeys who were eager for battle against the rākṣasas, that foremost of rākṣasas, knowing the right moment, spoke at the right time."},
+{"ref": "6.77.7", "sanskrit": "eko 'yaṃ rākṣasendrasya parāyaṇam iva sthitaḥ etac cheṣaṃ balaṃ tasya kiṃ tiṣṭhata harīśvarāḥ", "english": "\"This one alone stands here like the last refuge of the lord of rākṣasas — this is the remaining force of his army. Why do you lords of monkeys hold back?\""},
+{"ref": "6.77.8", "sanskrit": "asmin vinihate pāpe rākṣase raṇamūrdhani rāvaṇaṃ varjayitvā tu śeṣam asya balaṃ hatam", "english": "\"When this wicked rākṣasa is slain at the head of battle, excluding Rāvaṇa himself, the remainder of his army will be destroyed.\""},
+{"ref": "6.77.9", "sanskrit": "prahasto nihato vīro nikumbhaś ca mahābalaḥ kumbhakarṇaś ca kumbhaś ca dhūmrākṣaś ca niśācaraḥ", "english": "\"The valiant Prahasta has been slain, and the mighty Nikumbha, Kumbhakarṇa and Kumbha, and the night-wanderer Dhūmrākṣa —\""},
+{"ref": "6.77.10", "sanskrit": "akampanaḥ supārśvaś ca cakramālī ca rākṣasaḥ kampanaḥ sattvavantaś ca devāntakanarāntakau", "english": "\"— Akampana and Supārśva, the rākṣasa Cakramālī, Kampana, and those powerful ones Devāntaka and Narāntaka —\""},
+{"ref": "6.77.11", "sanskrit": "etān nihatyātibalān bahūn rākṣasasattamān bāhubhyāṃ sāgaraṃ tīrtvā laṅghyatāṃ goṣpadaṃ laghu", "english": "\"— having slain these many exceedingly powerful foremost rākṣasas, having crossed the ocean with their arms, let the rest be crossed like a mere cow's hoofprint!\""},
+{"ref": "6.77.12", "sanskrit": "etāvad iha śeṣaṃ vo jetavyam iha vānarāḥ hatāḥ sarve samāgamya rākṣasā baladarpitāḥ", "english": "\"This much alone remains for you to conquer here, O monkeys; all those rākṣasas proud of their strength have been slain when they came together.\""},
+{"ref": "6.77.13", "sanskrit": "ayuktaṃ nidhanaṃ kartuṃ putrasya janitur mama ghṛṇām apāsya rāmārthe nihanyāṃ bhrātur ātmajam", "english": "\"It is improper for me to cause the death of my elder brother's son; yet, setting aside compassion, for Rāma's sake I shall slay my brother's child.\""},
+{"ref": "6.77.14", "sanskrit": "hantukāmasya me bāṣpaṃ cakśuś caiva nirudhyate tad evaiṣa mahābāhur lakṣmaṇaḥ śamayiṣyati vānarā ghnantuṃ saṃbhūya bhṛtyān asya samīpagān", "english": "\"Even as I wish to kill him, tears well up and obstruct my eyes — but the mighty-armed Lakṣmaṇa himself shall settle that. O monkeys, gather together and slay his attendants who are near him!\""},
+{"ref": "6.77.15", "sanskrit": "iti tenātiyaśasā rākṣasenābhicoditāḥ vānarendrā jahṛṣire lāṅgalāni ca vivyadhuḥ", "english": "Urged on by that greatly renowned rākṣasa, the lords of monkeys rejoiced and brandished their tails."},
+{"ref": "6.77.16", "sanskrit": "tatas te kapiśārdūlāḥ kṣveḍantaś ca muhur muhuḥ mumucur vividhān nādān meghān dṛṣṭveva barhiṇaḥ", "english": "Then those tiger-like monkeys, shrieking again and again, raised various cries — like peacocks at the sight of clouds."},
+{"ref": "6.77.17", "sanskrit": "jāmbavān api taiḥ sarvaiḥ svayūthair abhisaṃvṛtaḥ aśmabhis tāḍayām āsa nakhair dantaiś ca rākṣasān", "english": "Jāmbavān too, surrounded by all of them along with his own troops, struck the rākṣasas with rocks, claws, and teeth."},
+{"ref": "6.77.18", "sanskrit": "nighnantam ṛkṣādhipatiṃ rākṣasās te mahābalāḥ parivavrur bhayaṃ tyaktvā tam anekavidhāyudhāḥ", "english": "Those mighty rākṣasas, setting aside fear and bearing weapons of many kinds, surrounded the lord of bears as he was striking them down."},
+{"ref": "6.77.19", "sanskrit": "śaraiḥ paraśubhis tīkṣṇaiḥ paṭṭasair yaṣṭitomaraiḥ jāmbavantaṃ mṛdhe jaghnur nighnantaṃ rākṣasīṃ camūm", "english": "With arrows, sharp axes, broad-bladed swords, clubs, and javelins, they struck Jāmbavant in battle as he was smiting the rākṣasa army."},
+{"ref": "6.77.20", "sanskrit": "sa saṃprahāras tumulaḥ saṃjajñe kapirākṣasām devāsurāṇāṃ kruddhānāṃ yathā bhīmo mahāsvanaḥ", "english": "That tumultuous clash between the monkeys and rākṣasas arose, fierce and of great sound, like the terrible roar of the wrathful gods and asuras."},
+{"ref": "6.77.21", "sanskrit": "hanūmān api saṃkruddhaḥ sālam utpāṭya parvatāt rakṣasāṃ kadanaṃ cakre samāsādya sahasraśaḥ", "english": "Hanūmant too, blazing with rage, uprooted a sāla tree from the mountain and, rushing forward, made a slaughter of the rākṣasas by the thousands."},
+{"ref": "6.77.22", "sanskrit": "sa dattvā tumulaṃ yuddhaṃ pitṛvyasyendrajid yudhi lakṣmaṇaṃ paravīraghnaṃ punar evābhyadhāvata", "english": "Having given tumultuous battle to his paternal uncle Vibhīṣaṇa in the fight, Indrajit rushed again at Lakṣmaṇa, slayer of enemy heroes."},
+{"ref": "6.77.23", "sanskrit": "tau prayuddhau tadā vīrau mṛdhe lakṣmaṇarākṣasau śaraughān abhivarṣantau jaghnatus tau parasparam", "english": "Those two heroes — Lakṣmaṇa and the rākṣasa — fought once again in battle, raining torrents of arrows and striking each other."},
+{"ref": "6.77.24", "sanskrit": "abhīkṣṇam antardadhatuḥ śarajālair mahābalau candrādityāv ivoṣṇānte yathā meghais tarasvinau", "english": "Those two mighty and swift ones repeatedly concealed each other with networks of arrows, like the moon and sun in the hot season hidden by clouds."},
+{"ref": "6.77.25", "sanskrit": "na hy ādānaṃ na saṃdhānaṃ dhanuṣo vā parigrahaḥ na vipramokṣo bāṇānāṃ na vikarṣo na vigrahaḥ", "english": "There was no perceiving the taking up of arrows, nor the fitting of them to the bow, nor the grasping of the bow itself, nor the releasing of shafts, nor the drawing back, nor any pause —"},
+{"ref": "6.77.26", "sanskrit": "na muṣṭipratisaṃdhānaṃ na lakṣyapratipādanam adṛśyata tayos tatra yudhyatoḥ pāṇilāghavāt", "english": "— nor the positioning of the fist, nor the aiming at the target could be seen in those two fighting there, such was the swiftness of their hands."},
+{"ref": "6.77.27", "sanskrit": "cāpavegapramuktaiś ca bāṇajālaiḥ samantataḥ antarikṣe 'bhisaṃchanne na rūpāṇi cakāśire tamasā pihitaṃ sarvam āsīd bhīmataraṃ mahat", "english": "With nets of arrows launched at great speed from their bows covering the sky on all sides, no forms could be discerned — everything was covered in darkness, vast and all the more terrible."},
+{"ref": "6.77.28", "sanskrit": "na tadānīṃ vavau vāyur na jajvāla ca pāvakaḥ svastyas tu lokebhya iti jajalpaś ca maharṣayaḥ saṃpetuś cātra saṃprāptā gandharvāḥ saha cāraṇaiḥ", "english": "At that time the wind did not blow, nor did fire blaze; the great sages murmured \"may the worlds be safe!\" and the gandharvas along with cāraṇas gathered and descended there."},
+{"ref": "6.77.29", "sanskrit": "atha rākṣasasiṃhasya kṛṣṇān kanakabhūṣaṇān śaraiś caturbhiḥ saumitrir vivyādha caturo hayān", "english": "Then Saumitri, with four arrows, pierced the four dark horses of that lion among rākṣasas, who were adorned with gold trappings."},
+{"ref": "6.77.30", "sanskrit": "tato 'pareṇa bhallena sūtasya vicariṣyataḥ lāghavād rāghavaḥ śrīmāñ śiraḥ kāyād apāharat", "english": "Then with another broad-headed shaft, the glorious scion of the Rāghu line, with swift dexterity, severed the head of the charioteer who was about to drive away."},
+{"ref": "6.77.31", "sanskrit": "nihataṃ sārathiṃ dṛṣṭvā samare rāvaṇātmajaḥ prajahau samaroddharṣaṃ viṣaṇṇaḥ sa babhūva ha", "english": "Seeing the charioteer slain in battle, the son of Rāvaṇa abandoned his battle-fury and was overcome with dejection."},
+{"ref": "6.77.32", "sanskrit": "viṣaṇṇavadanaṃ dṛṣṭvā rākṣasaṃ hariyūthapāḥ tataḥ paramasaṃhṛṣṭo lakṣmaṇaṃ cābhyapūjayan", "english": "Seeing the rākṣasa with downcast face, the leaders of the monkey troops were supremely jubilant and praised Lakṣmaṇa."},
+{"ref": "6.77.33", "sanskrit": "tataḥ pramāthī śarabho rabhaso gandhamādanaḥ amṛṣyamāṇāś catvāraś cakrur vegaṃ harīśvarāḥ", "english": "Then Pramāthī, Śarabha, Rabhasa, and Gandhamādana — those four lords of monkeys, unable to tolerate it, sprang into action."},
+{"ref": "6.77.34", "sanskrit": "te cāsya hayamukhyeṣu tūrṇam utpatya vānarāḥ caturṣu sumahāvīryā nipetur bhīmavikramāḥ", "english": "Those monkeys of exceedingly great valor and terrible might leaped up swiftly and fell upon his four foremost horses."},
+{"ref": "6.77.35", "sanskrit": "teṣām adhiṣṭhitānāṃ tair vānaraiḥ parvatopamaiḥ mukhebhyo rudhiraṃ vyaktaṃ hayānāṃ samavartata", "english": "Ridden down by those mountain-like monkeys, blood poured visibly from the mouths of the horses."},
+{"ref": "6.77.36", "sanskrit": "te nihatya hayāṃs tasya pramathya ca mahāratham punar utpatya vegena tasthur lakṣmaṇapārśvataḥ", "english": "They slew his horses and smashed his great chariot, then leaped up again swiftly and stood at Lakṣmaṇa's side."},
+{"ref": "6.77.37", "sanskrit": "sa hatāśvād avaplutya rathān mathitasāratheḥ śaravarṣeṇa saumitrim abhyadhāvata rāvaṇiḥ", "english": "Rāvaṇi, leaping down from the chariot whose horses were slain and whose charioteer was destroyed, charged at Saumitri with a rain of arrows."},
+{"ref": "6.77.38", "sanskrit": "tato mahendrapratimaḥ sa lakṣmaṇaḥ padātinaṃ taṃ niśitaiḥ śarottamaiḥ sṛjantam ādau niśitāñ śarottamān bhṛśaṃ tadā bāṇagaṇair nyavārayat", "english": "Then Lakṣmaṇa, resembling great Indra himself, repelled with massed shafts that foot-warrior who was discharging keen excellent arrows first — blocking him thoroughly with multitudes of arrows."},
+{"ref": "6.78.1", "sanskrit": "sa hatāśvo mahātejā bhūmau tiṣṭhan niśācaraḥ indrajit paramakruddhaḥ saṃprajajvāla tejasā", "english": "That night-wanderer of great splendor, Indrajit, his horses slain, standing on the ground, ablaze with supreme wrath, blazed with his own energy."},
+{"ref": "6.78.2", "sanskrit": "tau dhanvinau jighāṃsantāv anyonyam iṣubhir bhṛśam vijayenābhiniṣkrāntau vane gajavṛṣāv iva", "english": "Those two bowmen, eagerly desiring to kill each other, came forth with victory as their purpose, like two bull-elephants emerging from a forest."},
+{"ref": "6.78.3", "sanskrit": "nibarhayantaś cānyonyaṃ te rākṣasavanaukasaḥ bhartāraṃ na jahur yuddhe saṃpatantas tatas tataḥ", "english": "The rākṣasas and forest-dwelling monkeys, striking each other down, did not abandon their master in battle as they rushed hither and thither."},
+{"ref": "6.78.4", "sanskrit": "sa lakṣmaṇaṃ samuddiśya paraṃ lāghavam āsthitaḥ vavarṣa śaravarṣāṇi varṣāṇīva puraṃdaraḥ", "english": "He, resorting to extreme swiftness, rained showers of arrows upon Lakṣmaṇa as Indra rains showers of rain."},
+{"ref": "6.78.5", "sanskrit": "muktam indrajitā tat tu śaravarṣam ariṃdamaḥ avārayad asaṃbhrānto lakṣmaṇaḥ sudurāsadam", "english": "But Lakṣmaṇa, crusher of enemies, without agitation, repelled that shower of arrows released by Indrajit, though it was exceedingly difficult to withstand."},
+{"ref": "6.78.6", "sanskrit": "abhedyakacanaṃ matvā lakṣmaṇaṃ rāvaṇātmajaḥ lalāṭe lakṣmaṇaṃ bāṇaiḥ supuṅkhais tribhir indrajit avidhyat paramakruddhaḥ śīghram astraṃ pradarśayan", "english": "Considering Lakṣmaṇa unpierceable by any weapon, the son of Rāvaṇa, Indrajit, supremely enraged, swiftly displaying his weapon-skill, pierced Lakṣmaṇa on the forehead with three well-feathered arrows."},
+{"ref": "6.78.7", "sanskrit": "taiḥ pṛṣatkair lalāṭasthaiḥ śuśubhe raghunandanaḥ raṇāgre samaraślāghī triśṛṅga iva parvataḥ", "english": "With those arrows fixed in his forehead, the glorious scion of the Raghu line shone at the forefront of battle, as a mountain with three peaks."},
+{"ref": "6.78.8", "sanskrit": "sa tathāpy ardito bāṇai rākṣasena mahāmṛdhe tam āśu prativivyādha lakṣmaṇaḥ panabhiḥ śaraiḥ", "english": "Even so, though afflicted by the rākṣasa's arrows in the great battle, Lakṣmaṇa quickly shot him back with ten arrows."},
+{"ref": "6.78.9", "sanskrit": "lakṣmaṇendrajitau vīrau mahābalaśarāsanau anyonyaṃ jaghnatur bāṇair viśikhair bhīmavikramau", "english": "Lakṣmaṇa and Indrajit, two heroes of mighty strength and bow, of terrible prowess, struck each other with pointed shafts."},
+{"ref": "6.78.10", "sanskrit": "tau parasparam abhyetya sarvagātreṣu dhanvinau ghorair vivyadhatur bāṇaiḥ kṛtabhāvāv ubhau jaye", "english": "Those two bowmen, advancing upon each other, pierced one another all over the body with terrible arrows, both of them resolved upon victory."},
+{"ref": "6.78.11", "sanskrit": "tasmai dṛḍhataraṃ kruddho hatāśvāya vibhīṣaṇaḥ vajrasparśasamān pañca sasarjorasi mārgaṇān", "english": "At him whose horses were slain, the more enraged Vibhīṣaṇa discharged five shafts upon his chest, equal in impact to the thunderbolt."},
+{"ref": "6.78.12", "sanskrit": "te tasya kāyaṃ nirbhidya rukmapuṅkhā nimittagāḥ babhūvur lohitādigdhā raktā iva mahoragāḥ", "english": "Those gold-feathered arrows, aimed true, piercing his body, emerged smeared with blood, red like great serpents."},
+{"ref": "6.78.13", "sanskrit": "sa pitṛvyasya saṃkruddha indrajic charam ādade uttamaṃ rakṣasāṃ madhye yamadattaṃ mahābalaḥ", "english": "Incensed at his paternal uncle, the mighty Indrajit, in the midst of the rākṣasas, took up a supreme arrow, bestowed by Yama."},
+{"ref": "6.78.14", "sanskrit": "taṃ samīkṣya mahātejā maheṣuṃ tena saṃhitam lakṣmaṇo 'py ādade bāṇam anyaṃ bhīmaparākramaḥ", "english": "Seeing that great arrow fitted to his bow, Lakṣmaṇa of great splendor and terrible valor took up another arrow of his own."},
+{"ref": "6.78.15", "sanskrit": "kubereṇa svayaṃ svapne yad dattam amitātmanā durjayaṃ durviṣahyaṃ ca sendrair api surāsuraiḥ", "english": "It was the one personally given by Kubera of immeasurable spirit in a dream — unconquerable, unbearable even by the gods and asuras together with Indra."},
+{"ref": "6.78.16", "sanskrit": "tābhyāṃ tau dhanuṣi śreṣṭhe saṃhitau sāyakottamau vikṛṣyamāṇau vīrābhyāṃ bhṛśaṃ jajvalatuḥ śriyā", "english": "Those two excellent arrows, fitted to their excellent bows and being drawn taut by the two heroes, blazed mightily with glory."},
+{"ref": "6.78.17", "sanskrit": "tau bhāsayantāv ākāśaṃ dhanurbhyāṃ viśikhau cyutau mukhena mukham āhatya saṃnipetatur ojasā", "english": "Those two shafts, illuminating the sky as they flew from the bows, struck each other face to face and fell down together with force."},
+{"ref": "6.78.18", "sanskrit": "tau mahāgrahasaṃkāśāv anyonyaṃ saṃnipatya ca saṃgrāme śatadhā yātau medinyāṃ vinipetatuḥ", "english": "Those two, resembling great meteors, colliding with each other in battle, split into a hundred pieces and fell to the ground."},
+{"ref": "6.78.19", "sanskrit": "śarau pratihatau dṛṣṭvā tāv ubhau raṇamūrdhani vrīḍito jātaroṣau ca lakṣmaṇendrajitāv ubhau", "english": "Seeing their arrows deflected at the head of battle, both Lakṣmaṇa and Indrajit were at once abashed and overcome with fresh rage."},
+{"ref": "6.78.20", "sanskrit": "susaṃrabdhas tu saumitrir astraṃ vāruṇam ādade raudraṃ mahedrajid yuddhe vyasṛjad yudhi viṣṭhitaḥ", "english": "Greatly enraged, Saumitri took up the Vāruṇa water-weapon; the great Indrajit, standing firm in battle, discharged the terrible Raudra weapon."},
+{"ref": "6.78.21", "sanskrit": "tayoḥ sutumulaṃ yuddhaṃ saṃbabhūvādbhutopamam gaganasthāni bhūtāni lakṣmaṇaṃ paryavārayan", "english": "A supremely tumultuous battle ensued between them, resembling a marvel; the beings dwelling in the sky surrounded Lakṣmaṇa on all sides."},
+{"ref": "6.78.22", "sanskrit": "bhairavābhirute bhīme yuddhe vānararākṣasām bhūtair bahubhir ākāśaṃ vismitair āvṛtaṃ babhau", "english": "In the dreadful battle, frightful with terrifying sounds, between the monkeys and rākṣasas, the sky appeared covered with many astonished beings."},
+{"ref": "6.78.23", "sanskrit": "ṛṣayaḥ pitaro devā gandharvā garuṇoragāḥ śatakratuṃ puraskṛtya rarakṣur lakṣmaṇaṃ raṇe", "english": "Sages, ancestral spirits, gods, gandharvas, garuḍas, and serpents, placing Śatakratu (Indra) at their head, protected Lakṣmaṇa in battle."},
+{"ref": "6.78.24", "sanskrit": "athānyaṃ mārgaṇaśreṣṭhaṃ saṃdadhe rāvaṇānujaḥ hutāśanasamasparśaṃ rāvaṇātmajadāruṇam", "english": "Then the younger brother of Rāvaṇa (Vibhīṣaṇa) fitted another foremost shaft — one whose touch was like the sacred fire, and terrible for the son of Rāvaṇa."},
+{"ref": "6.78.25", "sanskrit": "supatram anuvṛttāṅgaṃ suparvāṇaṃ susaṃsthitam suvarṇavikṛtaṃ vīraḥ śarīrāntakaraṃ śaram", "english": "A shaft with beautiful feathers, smooth-bodied, with fine joints, well-formed, wrought with gold — the hero fitted an arrow that would end a life."},
+{"ref": "6.78.26", "sanskrit": "durāvāraṃ durviṣahaṃ rākṣasānāṃ bhayāvaham āśīviṣaviṣaprakhyaṃ devasaṃghaiḥ samarcitam", "english": "Hard to ward off, hard to endure, inspiring fear in the rākṣasas, like the venom of a deadly serpent, honored by the hosts of gods —"},
+{"ref": "6.78.27", "sanskrit": "yena śakro mahātejā dānavān ajayat prabhuḥ purā devāsure yuddhe vīryavān harivāhanaḥ", "english": "— with which the mighty lord Indra, of great splendor, mounted on his bay steeds, had long ago conquered the dānavas in the battle of gods and asuras —"},
+{"ref": "6.78.28", "sanskrit": "tad aindram astraṃ saumitriḥ saṃyugeṣv aparājitam śaraśreṣṭhaṃ dhanuḥ śreṣṭhe naraśreṣṭho 'bhisaṃdadhe", "english": "— that Aindra weapon, unconquered in battles, that foremost of shafts — the foremost of men, Saumitri, fitted it to his foremost bow."},
+{"ref": "6.78.29", "sanskrit": "saṃdhāyāmitradalanaṃ vicakarṣa śarāsanam sajyam āyamya durdharśaḥ kālo lokakṣaye yathā", "english": "Having fitted the enemy-destroying arrow, he drew the strung bow taut — unapproachable, like Time at the dissolution of the worlds."},
+{"ref": "6.78.30", "sanskrit": "saṃdhāya dhanuṣi śreṣṭhe vikarṣann idam abravīt lakṣmīvāṃl lakṣmaṇo vākyam arthasādhakam ātmanaḥ", "english": "Having fitted it to the excellent bow and drawing back, the glorious Lakṣmaṇa spoke these words that would accomplish his purpose."},
+{"ref": "6.78.31", "sanskrit": "dharmātmā satyasaṃdhaś ca rāmo dāśarathir yadi pauruṣe cāpratidvandvas tad enaṃ jahi rāvaṇim", "english": "\"If Rāma, the son of Daśaratha, is truly righteous in soul and true to his vows, and if he is without rival in valor, then slay this son of Rāvaṇa!\""},
+{"ref": "6.78.32", "sanskrit": "ity uktvā bāṇam ākarṇaṃ vikṛṣya tam ajihmagam lakṣmaṇaḥ samare vīraḥ sasarjendrajitaṃ prati aindrāstreṇa samāyujya lakṣmaṇaḥ paravīrahā", "english": "Having spoken thus, the heroic Lakṣmaṇa, slayer of enemy heroes, drew that straight arrow back to his ear and discharged it at Indrajit, joined with the Aindra weapon."},
+{"ref": "6.78.33", "sanskrit": "tac chiraḥ saśiras trāṇaṃ śrīmaj jvalitakuṇḍalam pramathyendrajitaḥ kāyāt papāta dharaṇītale", "english": "That head, along with its helmet and its glowing earrings in their glory, was torn from Indrajit's body and fell upon the ground."},
+{"ref": "6.78.34", "sanskrit": "tad rākṣasatanūjasya chinnaskandhaṃ śiro mahat tapanīyanibhaṃ bhūmau dadṛśe rudhirokṣitam", "english": "The great head of that son of a rākṣasa, severed at the neck, resembling burnished gold, was seen on the ground soaked in blood."},
+{"ref": "6.78.35", "sanskrit": "hatas tu nipapātāśu dharaṇyāṃ rāvaṇātmajaḥ kavacī saśirastrāṇo vidhvastaḥ saśarāsanaḥ", "english": "Slain, the son of Rāvaṇa fell swiftly to the earth, clad in his armor, still wearing his head-guard, shattered, bow in hand."},
+{"ref": "6.78.36", "sanskrit": "cukruśus te tataḥ sarve vānarāḥ savibhīṣaṇāḥ hṛṣyanto nihate tasmin devā vṛtravadhe yathā", "english": "Then all the monkeys together with Vibhīṣaṇa roared aloud, rejoicing at his slaying, as the gods had at the slaying of Vṛtra."},
+{"ref": "6.78.37", "sanskrit": "athāntarikṣe bhūtānām ṛṣīṇāṃ ca mahātmanām abhijajñe ca saṃnādo gandharvāpsarasām api", "english": "Then in the sky there arose the roar of the beings, of the great-souled sages, and of the gandharvas and apsarases as well."},
+{"ref": "6.78.38", "sanskrit": "patitaṃ samabhijñāya rākṣasī sā mahācamūḥ vadhyamānā diśo bheje haribhir jitakāśibhiḥ", "english": "Recognizing their lord as fallen, that great rākṣasa army, being slaughtered, fled in all directions from the monkeys who now shone with victory."},
+{"ref": "6.78.39", "sanskrit": "vanarair vadhyamānās te śastrāṇy utsṛjya rākṣasāḥ laṅkām abhimukhāḥ sarve naṣṭasaṃjñāḥ pradhāvitāḥ", "english": "Slaughtered by the monkeys, those rākṣasas cast away their weapons and ran, all turned toward Laṅkā, their senses lost."},
+{"ref": "6.78.40", "sanskrit": "dudruvur bahudhā bhītā rākṣasāḥ śataśo diśaḥ tyaktvā praharaṇān sarve paṭṭasāsiparaśvadhān", "english": "The rākṣasas, terrified, fled by hundreds in every direction, all abandoning their weapons — broad-bladed swords, axes, and halberds."},
+{"ref": "6.78.41", "sanskrit": "ke cil laṅkāṃ paritrastāḥ praviṣṭā vānarārditāḥ samudre patitāḥ ke cit ke cit parvatam āśritāḥ", "english": "Some, stricken with panic and tormented by the monkeys, fled into Laṅkā; some fell into the ocean; some took refuge on the mountain."},
+{"ref": "6.78.42", "sanskrit": "hatam indrajitaṃ dṛṣṭvā śayānaṃ samarakṣitau rākṣasānāṃ sahasreṣu na kaś cit pratyadṛśyata", "english": "Seeing Indrajit, who had been the protector in battle, lying slain, not a single one among thousands of rākṣasas was to be seen standing firm."},
+{"ref": "6.78.43", "sanskrit": "yathāstaṃ gata āditye nāvatiṣṭhanti raśmayaḥ tathā tasmin nipatite rākṣasās te gatā diśaḥ", "english": "As the rays of the sun do not remain when the sun has set, so when he had fallen, those rākṣasas dispersed in all directions."},
+{"ref": "6.78.44", "sanskrit": "śāntarakśmir ivādityo nirvāṇa iva pāvakaḥ sa babhūva mahātejā vyapāsta gatajīvitaḥ", "english": "That one of great energy became like the sun with its rays extinguished, like a fire that has been quenched — cast aside, his life departed."},
+{"ref": "6.78.45", "sanskrit": "praśāntapīḍā bahulo vinaṣṭāriḥ praharṣavān babhūva lokaḥ patite rākṣasendrasute tadā", "english": "When the son of the lord of rākṣasas had fallen, the world was relieved of its torment in great measure, its enemy destroyed, full of jubilation."},
+{"ref": "6.78.46", "sanskrit": "harṣaṃ ca śakro bhagavān saha sarvaiḥ surarṣabhaiḥ jagāma nihate tasmin rākṣase pāpakarmaṇi", "english": "The blessed Indra, together with all the foremost gods, was filled with joy when that rākṣasa of evil deeds was slain."},
+{"ref": "6.78.47", "sanskrit": "śuddhā āpo nabhaś caiva jahṛṣur daityadānavāḥ ājagmuḥ patite tasmin sarvalokabhayāvahe", "english": "The waters became pure, and the sky rejoiced; the daityas and dānavas came forth when he who had been a terror to all the worlds had fallen."},
+{"ref": "6.78.48", "sanskrit": "ūcuś ca sahitāḥ sarve devagandharvadānavāḥ vijvarāḥ śāntakaluṣā brāhmaṇā vicarantv iti", "english": "And all of them — gods, gandharvas, and dānavas — said together, freed from fever, their impurities calmed: \"Let the brāhmaṇas move about freely!\""},
+{"ref": "6.78.49", "sanskrit": "tato 'bhyanandan saṃhṛṣṭāḥ samare hariyūthapāḥ tam apratibalaṃ dṛṣṭvā hataṃ nairṛtapuṃgavam", "english": "Then, supremely delighted, the leaders of the monkey troops in battle applauded, seeing that foremost of rākṣasas who was unmatched in strength lying slain."},
+{"ref": "6.78.50", "sanskrit": "vibhīṣaṇo hanūmāṃś ca jāmbavāṃś carkṣayūthapaḥ vijayenābhinandantas tuṣṭuvuś cāpi lakṣmaṇam", "english": "Vibhīṣaṇa, Hanūmant, and Jāmbavant the lord of the bear troops, felicitating him with victory, also praised Lakṣmaṇa."},
+{"ref": "6.78.51", "sanskrit": "kṣveḍantaś ca nadantaś ca garjantaś ca plavaṃgamāḥ labdhalakṣā raghusutaṃ parivāryopatasthire", "english": "The monkeys, shrieking, roaring, and thundering, having accomplished their aim, surrounded and attended upon the son of the Raghu line."},
+{"ref": "6.78.52", "sanskrit": "lāṅgūlāni pravidhyantaḥ sphoṭayantaś ca vānarāḥ lakṣmaṇo jayatīty evaṃ vākyaṃ vyaśrāvayaṃs tadā", "english": "The monkeys, whirling their tails and clapping their hands, then proclaimed these words aloud: \"Victory to Lakṣmaṇa!\""},
+{"ref": "6.78.53", "sanskrit": "anyonyaṃ ca samāśliṣya kapayo hṛṣṭamānasāḥ cakrur uccāvacaguṇā rāghavāśrayajāḥ kathāḥ", "english": "The monkeys, joyful at heart, embracing one another, engaged in tales of all kinds of valor rooted in their devotion to Rāghava."},
+{"ref": "6.78.54", "sanskrit": "tad asukaram athābhivīkṣya hṛṣṭāḥ priyasuhṛdo yudhi lakṣmaṇasya karma paramam upalabhan manaḥpraharṣaṃ vinihatam indraripuṃ niśamya devāḥ", "english": "Beholding that difficult feat of Lakṣmaṇa in battle, his beloved companions were filled with joy; and the gods, hearing that the enemy of Indra had been slain, achieved the highest delight of heart."}
 ]

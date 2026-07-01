@@ -467,7 +467,7 @@ translator: thothica
 
 **3.34.5**  Rouse Aryaman, Bṛhaspati, and Indra to give; rouse Vāta, Viṣṇu, Sarasvatī, and Savitār, the prize-winner, to give.
 
-**3.34.6**  We invoke King Soma for aid, and Agni with hymns; we invoke Āditya, Viṣṇu, Sūrya, and Brahmāṇaspati.
+**3.34.6**  We invoke King Soma for aid, and Agni with hymns; we invoke Āditya, Viṣṇu, Sūrya, and Brahmaṇaspati.
 
 **3.34.7**  Indra-and-Vāyu and Bṛhaspati — we invoke them here as easy to call, so that at our assembly the whole world may be well-disposed toward us.
 

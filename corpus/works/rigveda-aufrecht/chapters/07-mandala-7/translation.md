@@ -84,7 +84,7 @@ translator: thothica
 
 **7.2.7**  Two inspired crafters — so I think — at human sacrifices do we invoke you both, O Jātavedas pair, to worship; make our sacrifice stand upright among the invocations; win for us the desirable things among the gods.
 
-**7.2.8**  May Bhāratī with the Bhāratī goddesses, Iḷā with gods and men, and Agni, and Sarasvatī with the Sārasvatī beings come hither — may the three goddesses sit upon this sacred grass.
+**7.2.8**  May Bhāratī with the Bhāratī goddesses, Iḷā with gods and men, and Agni, and Sarasvatī with the Sarasvatī beings come hither — may the three goddesses sit upon this sacred grass.
 
 **7.2.9**  Pour that nourishing sap upon us, O god Tvaṣṭṛ, granting freely; from which is born the heroic, capable man of action, well-skilled, who works the pressing stones and desires the gods.
 

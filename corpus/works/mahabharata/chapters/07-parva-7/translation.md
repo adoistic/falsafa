@@ -758,7 +758,7 @@ translator: thothica
 
 **7.10.15**  He conquered in battle the Aṅgas, Vaṅgas, and Kaliṅgas, the Māgadhas, the men of Kāśi and Kosala, the Vatsas, Gargas, and Karūṣas, and the Puṇḍras as well.
 
-**7.10.16**  The Āvantyas and the southern peoples, the mountain-dwellers and the Daśerakas, the Kāśmīrakas, the Aurasakas, and the Piśācas with the Mandaras—
+**7.10.16**  The Āvantyas and the southern peoples, the mountain-dwellers and the Dāśerakas, the Kāśmīrakas, the Aurasakas, and the Piśācas with the Mandaras—
 
 **7.10.17**  the Kāmbojas and Vāṭadhānas, the Colas and Pāṇḍyas, Saṃjaya, the Trigartas, the Mālavas, and the Daradas so hard to conquer—
 
@@ -1536,7 +1536,7 @@ translator: thothica
 
 **7.19.6**  Its two eyes were Kṛtavarman and the descendant of Gotama, the best of bowmen, together with Bhūtavarman, Kṣemaśarman, and the valiant Karakarṣa.
 
-**7.19.7**  The Kaliṅgas, the Siṃhalas, the Easterners, the valiant Ābhīras, the Daśerakas, the Śakas, the Yavanas, the Kāmbojas, and those who were the Haṃsapadas,
+**7.19.7**  The Kaliṅgas, the Siṃhalas, the Easterners, the valiant Ābhīras, the Dāśerakas, the Śakas, the Yavanas, the Kāmbojas, and those who were the Haṃsapadas,
 
 **7.19.8**  and the Śūrasenas, the Daradas, the Madras, and the Kekayas stood at the neck, a flood of elephants, horses, chariots, and foot-soldiers in their hundreds of thousands.
 
@@ -2076,7 +2076,7 @@ translator: thothica
 
 **7.24.48**  The Ambaṣṭha pierced him through with a bone-cleaving dart, and he, letting go bow and arrow, fell from his chariot to the ground.
 
-**7.24.49**  Kṛpa, son of Śaradvat, no mean warrior, with small arrows held off from Droṇa the wrathful-seeming Vārddhakṣemi of the Vṛṣṇis.
+**7.24.49**  Kṛpa, son of Śaradvat, no mean warrior, with small arrows held off from Droṇa the wrathful-seeming Vārdhakṣemi of the Vṛṣṇis.
 
 **7.24.50**  Those who watched Kṛpa and the Vṛṣṇi fighting, brilliant in combat, became so engrossed in the battle that they marked no other doings.
 
@@ -2666,7 +2666,7 @@ translator: thothica
 
 **7.31.50**  Hearing that cry of the men who sought refuge, the son of Adhiratha answered, "Fear not!", and advanced to meet Arjuna face to face.
 
-**7.31.51**  That best of Bhārata car-warriors, the delight of all the Bhāratas, foremost of those who knew weapons, brought forth the fiery weapon of Agni.
+**7.31.51**  That best of Bhārata car-warriors, the delight of all the Bhāratas, foremost of those who knew weapons, brought forth the fiery Āgneya weapon.
 
 **7.31.52**  Against him, blazing with floods of arrows and wielding a flaming bow, Dhanaṃjaya scattered those streams of shafts with a net of his own; and warding off weapon with weapon, he roared aloud as he loosed his arrows.
 
@@ -5968,7 +5968,7 @@ translator: thothica
 
 **7.73.45**  Then, O great king, wrathful, that master who had reached the far shore of the science of archery raised a celestial weapon to slay Yuyudhāna.
 
-**7.73.46**  Marking that terrible foe-destroying weapon of Agni, that mighty archer raised in answer the celestial weapon of Varuṇa.
+**7.73.46**  Marking that terrible foe-destroying Āgneya weapon, that mighty archer raised in answer the celestial Vāruṇa weapon.
 
 **7.73.47**  A great cry of dismay went up at the sight of the two wielders of celestial arms, and the very creatures that move through the sky ceased to range the heavens.
 
@@ -8498,7 +8498,7 @@ translator: thothica
 
 **7.101.11**  Then, O great king, there came wonder upon your army, beholding that most arduous feat performed by Bṛhatkṣatra.
 
-**7.101.12**  Then, O great king, Droṇa of mighty austerities, singling out the Kekaya prince, brought forth in battle the divine Brahmā weapon.
+**7.101.12**  Then, O great king, Droṇa of mighty austerities, singling out the Kekaya prince, brought forth in battle the divine Brāhma weapon.
 
 **7.101.13**  That weapon, O king, the unshaken Kaikeya of mighty arms warded off in the fray, countering it with the very Brahmā weapon as it was launched.
 
@@ -11632,11 +11632,11 @@ translator: thothica
 
 **7.132.30**  Those weapons, hurled and being hurled, the mighty-armed son of Dharma, unshaken before the pitcher-born one, struck down with weapons of his own.
 
-**7.132.31**  But wishing to make good his vow, the pitcher-born one, intent upon your sons' welfare and bent on slaying the son of Dharma, brought forth the weapon of Indra and that of Prajāpati, O Bhārata.
+**7.132.31**  But wishing to make good his vow, the pitcher-born one, intent upon your sons' welfare and bent on slaying the son of Dharma, brought forth the Aindra weapon and that of Prajāpati, O Bhārata.
 
 **7.132.32**  The lord of the Kurus, moving with the gait of elephant and lion, broad of chest, large and red of eye, undiminished in splendor, brought forth another weapon, the missile of great Indra, and therewith destroyed those two weapons of his.
 
-**7.132.33**  His weapons being thwarted, Droṇa, filled with wrath and longing to slay Yudhiṣṭhira, raised up the weapon of Brahmā.
+**7.132.33**  His weapons being thwarted, Droṇa, filled with wrath and longing to slay Yudhiṣṭhira, raised up the Brāhma weapon.
 
 **7.132.34**  Then I could perceive nothing at all, for a dreadful darkness shrouded everything, and all beings were seized with utmost terror, O lord of the earth.
 
@@ -14656,7 +14656,7 @@ translator: thothica
 
 **7.163.42**  Thus spoke, O great king, beholding those two bulls among men, the invisible beings and the visible ones, in throng upon throng.
 
-**7.163.43**  Then the great-minded Droṇa brought forth the Brahmā weapon, scorching in the battle both Pārtha and the unseen beings.
+**7.163.43**  Then the great-minded Droṇa brought forth the Brāhma weapon, scorching in the battle both Pārtha and the unseen beings.
 
 **7.163.44**  Then the earth trembled with its mountains, forests, and trees; a turbulent wind blew, and the oceans too were stirred to their depths.
 
@@ -14826,7 +14826,7 @@ translator: thothica
 
 **7.164.78**  As he ranged thus through the battle, twenty thousand of those bulls among men of the Pāñcālas showered him with arrows from every side.
 
-**7.164.79**  Then Droṇa, scorcher of foes, in his fury brought forth the weapon of Brahmā for the destruction of those heroic Pāñcālas.
+**7.164.79**  Then Droṇa, scorcher of foes, in his fury brought forth the Brāhma weapon for the destruction of those heroic Pāñcālas.
 
 **7.164.80**  Then Droṇa blazed forth, striking down all the Somakas; in that great battle he made the heads of the Pāñcālas fall, and likewise their arms, shaped like iron clubs and adorned with gold.
 
@@ -14844,7 +14844,7 @@ translator: thothica
 
 **7.164.87**  Viśvāmitra, Jamadagni, Bharadvāja, and Gautama, Vasiṣṭha, Kaśyapa, and Atri, desiring to lead him to the world of Brahmā —
 
-**7.164.88**  the Sikatās, the Pṛśnis, the Gargas, the Bālakhilyas, the Marīcipas, the Bhṛgus and the Aṅgirases, and other subtle great seers —
+**7.164.88**  the Sikatās, the Pṛśnis, the Gargas, the Vālakhilyas, the Marīcipas, the Bhṛgus and the Aṅgirases, and other subtle great seers —
 
 **7.164.89**  all these said to Droṇa, resplendent in battle: "Unrighteously has this war been waged; the hour of your death has come."
 
@@ -14926,7 +14926,7 @@ translator: thothica
 
 **7.164.128**  Then the scorcher of foes, enraged, pierced the wrathful-looking Dhṛṣṭadyumna with nine keen arrows that bring life to its end.
 
-**7.164.129**  That great chariot-warrior of measureless soul mingled the horses of Dhṛṣṭadyumna's car with the horses of his own, and loosed the weapon of Brahmā.
+**7.164.129**  That great chariot-warrior of measureless soul mingled the horses of Dhṛṣṭadyumna's car with the horses of his own, and loosed the Brāhma weapon.
 
 **7.164.130**  Thus mingled, those swift steeds, fleet as the wind, shone splendidly—some dove-colored, some red, O bull of the Bhāratas.
 
@@ -15186,7 +15186,7 @@ translator: thothica
 
 **7.165.99**  Then, when the battle was joined, the Kurus and Somakas, mingling together and roaring at one another, brought down each other's bodies with their weapons.
 
-**7.165.100**  Then Droṇa, that bull among men, wielding the Brahmā weapon, slew his foes with broad-headed shafts by hundreds and by thousands.
+**7.165.100**  Then Droṇa, that bull among men, wielding the Brāhma weapon, slew his foes with broad-headed shafts by hundreds and by thousands.
 
 **7.165.101**  The Pāṇḍavas, the Kekayas, the Matsyas, and the Pāñcālas above all, coming up against Droṇa's chariot in battle, perished, driven on by fate.
 
@@ -15240,7 +15240,7 @@ translator: thothica
 
 **7.166.1**  Dhṛtarāṣṭra said: When he heard, Saṃjaya, that his aged father, the brāhmaṇa, had been slain unrighteously by Dhṛṣṭadyumna, what did Aśvatthāman say?
 
-**7.166.2**  He, the mighty one, in whom were ever established the human weapon, those of Varuṇa and Agni, the weapon of Brahmā, that of Indra, and the Nārāyaṇa weapon as well—
+**7.166.2**  He, the mighty one, in whom were ever established the human weapon, those of Varuṇa and Agni, the Brāhma weapon, that of Indra, and the Nārāyaṇa weapon as well—
 
 **7.166.3**  When he heard, Saṃjaya, that the teacher, most righteous of men, had been slain unrighteously by Dhṛṣṭadyumna, what did Aśvatthāman say?
 
@@ -15982,7 +15982,7 @@ translator: thothica
 
 **7.172.31**  Never had we seen or even heard, O king, of such a weapon as the unforgiving son of Droṇa let loose.
 
-**7.172.32**  But Arjuna, O great king, raised up the Brahmā weapon, ordained by the Lotus-born to counter every other weapon.
+**7.172.32**  But Arjuna, O great king, raised up the Brāhma weapon, ordained by the Lotus-born to counter every other weapon.
 
 **7.172.33**  Then within a moment that darkness was stilled; a cool wind blew, and the quarters grew clear.
 

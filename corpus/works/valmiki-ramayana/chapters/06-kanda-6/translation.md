@@ -4805,7 +4805,7 @@ translator: thothica
 
 **6.59.97**  "He has received a boon from Brahmā and is protected by impenetrable armour. Pierce him with the Brahmā weapon — he can be slain by no other means."
 
-**6.59.98**  Then Saumitri, whose valour matches Indra's, hearing the words of Vāyu, instantly took up an arrow of unfailing speed and charged it at once with that Brahmā weapon.
+**6.59.98**  Then Saumitri, whose valour matches Indra's, hearing the words of Vāyu, instantly took up an arrow of unfailing speed and charged it at once with that Brāhma weapon.
 
 **6.59.99**  As that supreme weapon was being charged by Saumitri onto his best arrow with sharp tip, the directions with moon, sun, and great planets, the sky itself, trembled and roared, and the earth shook.
 
@@ -4873,7 +4873,7 @@ translator: thothica
 
 **6.60.25**  With its flames turning clockwise, resembling heated gold, fire itself rose up and accepted those oblations.
 
-**6.60.26**  He, foremost among those versed in weapons, summoned the Brahmā weapon and consecrated his bow, his chariot, and all his armaments with sacred mantras there.
+**6.60.26**  He, foremost among those versed in weapons, summoned the Brāhma weapon and consecrated his bow, his chariot, and all his armaments with sacred mantras there.
 
 **6.60.27**  As that weapon was being invoked and as the fire was being fed with oblations, the sky together with sun, planets, moon, and stars trembled with fear.
 
@@ -4927,9 +4927,9 @@ translator: thothica
 
 **6.61.3**  "Do not be afraid; this is not a time for despair even though the two noble princes lie helpless and afflicted — it is because they are honoring the word of the Self-Born One that they have been struck down by Indrajit's web of weapons."
 
-**6.61.4**  "This supreme Brahmā weapon of unfailing force was granted by the Self-Born; if the two princes have been laid low while honoring it, what cause is there for despair here?"
+**6.61.4**  "This supreme Brāhma weapon of unfailing force was granted by the Self-Born; if the two princes have been laid low while honoring it, what cause is there for despair here?"
 
-**6.61.5**  Then the wise Māruti, having honored the Brahmā weapon, and having heard the words of Vibhīṣaṇa, spoke to him.
+**6.61.5**  Then the wise Māruti, having honored the Brāhma weapon, and having heard the words of Vibhīṣaṇa, spoke to him.
 
 **6.61.6**  "Now that this army of swift monkeys has been struck down, let us go and reassure each one who still holds to life."
 
@@ -6199,7 +6199,7 @@ translator: thothica
 
 **6.78.19**  Seeing their arrows deflected at the head of battle, both Lakṣmaṇa and Indrajit were at once abashed and overcome with fresh rage.
 
-**6.78.20**  Greatly enraged, Saumitri took up the water-weapon of Varuṇa; the great Indrajit, standing firm in battle, discharged the terrible weapon of Rudra.
+**6.78.20**  Greatly enraged, Saumitri took up the Vāruṇa water-weapon; the great Indrajit, standing firm in battle, discharged the terrible Raudra weapon.
 
 **6.78.21**  A supremely tumultuous battle ensued between them, resembling a marvel; the beings dwelling in the sky surrounded Lakṣmaṇa on all sides.
 
@@ -6215,7 +6215,7 @@ translator: thothica
 
 **6.78.27**  — with which the mighty lord Indra, of great splendor, mounted on his bay steeds, had long ago conquered the dānavas in the battle of gods and asuras —
 
-**6.78.28**  — that weapon of Indra, unconquered in battles, that foremost of shafts — the foremost of men, Saumitri, fitted it to his foremost bow.
+**6.78.28**  — that Aindra weapon, unconquered in battles, that foremost of shafts — the foremost of men, Saumitri, fitted it to his foremost bow.
 
 **6.78.29**  Having fitted the enemy-destroying arrow, he drew the strung bow taut — unapproachable, like Time at the dissolution of the worlds.
 
@@ -7119,7 +7119,7 @@ translator: thothica
 
 **6.90.9**  "This chariot, O Kākutstha, has been given by the thousand-eyed Indra for your victory—this auspicious chariot that destroys enemies, O great being."
 
-**6.90.10**  "Here is the great bow of Indra, and armour resembling fire, and arrows bright as the sun, and a śakti lance, pure and keen."
+**6.90.10**  "Here is the great Aindra bow, and armour resembling fire, and arrows bright as the sun, and a śakti lance, pure and keen."
 
 **6.90.11**  "Mount this chariot, O hero, and slay the rākṣasa Rāvaṇa, with me as your charioteer, O Rāma—even as great Indra slew the dānavas."
 
@@ -7361,7 +7361,7 @@ translator: thothica
 
 **6.94.10**  Then the ten-headed one, enraged, his eyes wide and copper-red, assailed Rāma, who stood facing him in the chariot, with a volley of arrows.
 
-**6.94.11**  Rāma, of exceeding splendour, stung with indignation at that assault, his steadiness overpowered by wrath, took up in battle the bow of Indra of immense velocity, along with arrows blazing bright as the sun's rays.
+**6.94.11**  Rāma, of exceeding splendour, stung with indignation at that assault, his steadiness overpowered by wrath, took up in battle the Aindra bow of immense velocity, along with arrows blazing bright as the sun's rays.
 
 **6.94.12**  Then a great battle was joined between those two, each eager to slay the other, facing one another like two proud lions.
 

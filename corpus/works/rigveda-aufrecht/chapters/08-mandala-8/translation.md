@@ -386,7 +386,7 @@ translator: thothica
 
 **8.6.23**  Bring to us, O Indra, the great refreshment; break through like a fort rich in cattle; and offspring and heroic strength.
 
-**8.6.24**  And that swiftness of horses, O Indra, which shone at the head of the Nāhuṣa peoples.
+**8.6.24**  And that swiftness of horses, O Indra, which shone at the head of the Nahuṣa peoples.
 
 **8.6.25**  Like the sun you stretch out to the nearby-visible fold; when you, O Indra, show us favour.
 

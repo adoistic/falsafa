@@ -1210,7 +1210,7 @@ translator: thothica
 
 **3.17.11**  Taking up his bow, Sāmba, delighted, engaged in battle in that conflict with Śālva's minister, the army-commander Kṣemavṛddhi.
 
-**3.17.12**  The son of Jāmbāvatī released a great shower of arrows upon him, O foremost of the Bhāratas, as the thousand-eyed Indra releases rain.
+**3.17.12**  The son of Jāmbavatī released a great shower of arrows upon him, O foremost of the Bhāratas, as the thousand-eyed Indra releases rain.
 
 **3.17.13**  That army-commander Kṣemavṛddhi endured that tumultuous shower of arrows, O great king, as immovable as the Himālaya.
 
@@ -3002,7 +3002,7 @@ translator: thothica
 
 **3.41.7**  Arjuna said: "O Blessed One, if you grant me my wish with affection, O lord whose banner bears the bull, I desire that terrible divine weapon, the Pāśupata, O lord."
 
-**3.41.8**  "That which is called Brahmaśiras, that weapon of Rudra of terrible power — which at the dreadful end of an age destroys the entire world."
+**3.41.8**  "That which is called Brahmaśiras, that Raudra weapon of terrible power — which at the dreadful end of an age destroys the entire world."
 
 **3.41.9**  "With which I could burn in battle the Dānavas and the Rākṣasas, and also beings, Piśācas, Gandharvas, and serpents."
 
@@ -3642,7 +3642,7 @@ translator: thothica
 
 **3.50.14**  And Nala, the tiger among men, was unequaled on earth in beauty — like the god of love embodied in form itself.
 
-**3.50.15**  In her presence they praised Nala out of curiosity, and in the presence of the Niṣādha king they praised Damayantī again and again.
+**3.50.15**  In her presence they praised Nala out of curiosity, and in the presence of the Niṣadha king they praised Damayantī again and again.
 
 **3.50.16**  Love arose between the two of them who constantly heard each other's virtues without having seen each other, O son of Kuntī — and that longing of the heart kept growing toward each other.
 
@@ -3674,7 +3674,7 @@ translator: thothica
 
 **3.50.30**  Thus addressed by the goose, Damayantī, O lord of the people, said to that goose there: "Say the same to Nala as well."
 
-**3.50.31**  The bird, having said "So be it" to the daughter of the lord of Vidarbha, O lord of the people, came back again to the Niṣādha country and reported everything to Nala.
+**3.50.31**  The bird, having said "So be it" to the daughter of the lord of Vidarbha, O lord of the people, came back again to the Niṣadha country and reported everything to Nala.
 
 **3.51.1**  Bṛhadaśva said: Damayantī, having heard that word of the goose, O Bhārata, from that time onward became unsettled in mind regarding Nala.
 
@@ -5714,7 +5714,7 @@ translator: thothica
 
 **3.80.120**  By bathing at Nāgodbheda a man attains the world of the serpents; and reaching the tirtha called Shashayanu, which is difficult to attain, O king of kings, where the lotus ponds are covered in the form of hares, O Bhārata —
 
-**3.80.121**  — on the Sarasvatī, O great king, they bathe every year throughout the year, O best of the Bhāratas, always on the Kārtika full-moon day.
+**3.80.121**  — on the Sarasvatī, O great king, they bathe every year throughout the year, O best of the Bhāratas, always on the Kārttika full-moon day.
 
 **3.80.122**  By bathing there, O tiger among men, one shines forever like the moon, and obtains the merit of a thousand cows, O bull of the Bhāratas.
 
@@ -6242,7 +6242,7 @@ translator: thothica
 
 **3.82.73**  Having touched the waters of the great river and offered libations to ancestors and gods, one attains imperishable worlds and also lifts up one's lineage.
 
-**3.82.74**  Then one should go to Brahmasaras, beautified by the Dharmaraṇya forest; one obtains the Pauṇḍarīka sacrifice even by the dawn of the very same night.
+**3.82.74**  Then one should go to Brahmasaras, beautified by the Dharmāraṇya forest; one obtains the Pauṇḍarīka sacrifice even by the dawn of the very same night.
 
 **3.82.75**  In that lake, O best of kings, stands the sacrificial post of Brahmā; by circumambulating that post clockwise, one obtains the fruit of the Vājapeya sacrifice.
 
@@ -6700,7 +6700,7 @@ translator: thothica
 
 **3.86.2**  In that direction is found the holy river Godāvarī, abounding in gardens, rich in water, frequented by ascetics, auspicious.
 
-**3.86.3**  Both the Venna and the Bhīmarathī — two rivers that dispel fear of sin, filled with deer and birds, adorned with the dwellings of ascetics.
+**3.86.3**  Both the Vena and the Bhīmarathī — two rivers that dispel fear of sin, filled with deer and birds, adorned with the dwellings of ascetics.
 
 **3.86.4**  And there the river of the royal sage Nṛga, O bull of the Bhāratas — the Payoṣṇī, with lovely tirthas, rich in water, frequented by twice-born sages.
 
@@ -9464,7 +9464,7 @@ translator: thothica
 
 **3.142.3**  This burns my limbs like fire burns a heap of cotton — the fact that I do not see the hero Dhanañjaya near at hand.
 
-**3.142.4**  The thirst to see him burns me, dwelling in the forest with my younger brothers; and the injury done to Yājñasena's daughter also burns me, O hero.
+**3.142.4**  The thirst to see him burns me, dwelling in the forest with my younger brothers; and the injury done to Yajñasena's daughter also burns me, O hero.
 
 **3.142.5**  I do not see that Pārtha, elder brother of Nakula, of immeasurable might, that unconquerable wielder of the fierce bow — by that I am tormented, O Vṛkodara.
 
@@ -11062,7 +11062,7 @@ translator: thothica
 
 **3.160.25**  Having reached the western mountain and passed through twilight, the day-maker, this fire-bright one, then courses toward the northern quarter.
 
-**3.160.26**  Circumambulating Meru, O Pāṇḍava, the god Sāvitrī turns eastward again, ever devoted to the welfare of all beings.
+**3.160.26**  Circumambulating Meru, O Pāṇḍava, the god Savitṛ turns eastward again, ever devoted to the welfare of all beings.
 
 **3.160.27**  Dividing the month and time in many ways at the junctures of fortnights, likewise the blessed Moon travels together with the constellations.
 
@@ -11080,7 +11080,7 @@ translator: thothica
 
 **3.160.34**  The one of very great brilliance, nurturing stationary and moving beings with rain, wind, heat, and pleasant seasons, turns back once more.
 
-**3.160.35**  Thus Sāvitrī, O Pārtha, moving tirelessly and drawing all beings along, revolves the wheel of time.
+**3.160.35**  Thus Savitṛ, O Pārtha, moving tirelessly and drawing all beings along, revolves the wheel of time.
 
 **3.160.36**  His motion is unceasing; he never stands still, O Pāṇḍava — having drawn up the vitality of beings, he releases it again.
 
@@ -12328,7 +12328,7 @@ translator: thothica
 
 **3.179.15**  Those heroes, those firm bowmen, rejoiced indeed, beholding the Sarasvatī with its clear, auspicious, brimming waters.
 
-**3.179.16**  For them dwelling there, the most auspicious night was that autumnal Kārtika night at the conjunction of the lunar fortnight, O Janamejaya.
+**3.179.16**  For them dwelling there, the most auspicious night was that autumnal Kārttika night at the conjunction of the lunar fortnight, O Janamejaya.
 
 **3.179.17**  Together with ascetics of great souls who had performed meritorious deeds, the Pāṇḍavas, best of the Bhāratas, assembled there and practised the highest yoga.
 
@@ -15142,7 +15142,7 @@ translator: thothica
 
 **3.214.21**  Taking up that foremost of bows, the powerful one then roared, as if bewildering these three worlds with all their moving and unmoving beings.
 
-**3.214.22**  Hearing his roar, which sounded like the thunder of great clouds, two great serpents leapt up — Chitra and Airāvata.
+**3.214.22**  Hearing his roar, which sounded like the thunder of great clouds, two great serpents leapt up — Citra and Airāvata.
 
 **3.214.23**  Seeing them rushing at him, he who blazed like the rising sun seized those two with two of his hands, held his spear in another hand, and with yet another arm clasped the crimson-crested cock, son of Agni's lineage.
 

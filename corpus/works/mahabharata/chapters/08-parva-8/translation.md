@@ -532,7 +532,7 @@ translator: thothica
 
 **8.5.66**  he whose celestial serpent-mouthed shaft, gold-adorned and feathered, the destroyer of foes, lay resting amid the sandalwood—
 
-**8.5.67**  he who, scorning such heroes and great chariot-warriors as Bhīṣma and Droṇa, learned from the son of Jamadagni the most terrible Brahmā weapon—
+**8.5.67**  he who, scorning such heroes and great chariot-warriors as Bhīṣma and Droṇa, learned from the son of Jamadagni the most terrible Brāhma weapon—
 
 **8.5.68**  he, the mighty-armed, who when he saw Droṇa and the rest turned away and tormented by arrows, shattered with his shafts the bow of Subhadrā's son—
 
@@ -2026,7 +2026,7 @@ translator: thothica
 
 **8.19.21**  Then all the Saṃśaptakas, surrounding Dhanaṃjaya, crushed him with floods of weapons in their wrath, making the ten directions resound.
 
-**8.19.22**  But Jiṣṇu, sorely pressed by them, equal to Śakra in prowess, the immeasurable-souled great car-warrior, brought forth the weapon of Indra; and then arrows by the thousand sprang into being, O lord of peoples.
+**8.19.22**  But Jiṣṇu, sorely pressed by them, equal to Śakra in prowess, the immeasurable-souled great car-warrior, brought forth the Aindra weapon; and then arrows by the thousand sprang into being, O lord of peoples.
 
 **8.19.23**  Of banners being cut down, and of bows, in the encounter, of chariots with their pennons, of quivers along with their arrows,
 
@@ -3954,7 +3954,7 @@ translator: thothica
 
 **8.33.24**  With diverse and dreadful weapons the riders of chariots, elephants, and horses rushed at Karṇa from every side, hemming him in with intent to kill.
 
-**8.33.25**  Beset on all sides by the foremost of the Pāṇḍavas, he invoked the Brahmā weapon, filling the quarters with his arrows.
+**8.33.25**  Beset on all sides by the foremost of the Pāṇḍavas, he invoked the Brāhma weapon, filling the quarters with his arrows.
 
 **8.33.26**  Then the fire that was Karṇa, with arrows for its mighty flames and his valor for its heat, ranged gracefully through the battle, consuming the forest of the Pāṇḍavas.
 
@@ -4390,7 +4390,7 @@ translator: thothica
 
 **8.37.30**  Then Suśarman, O king, having pierced Arjuna in the heart with a smooth-jointed arrow, struck him again with three more shafts; deeply wounded and pained, Arjuna sank down upon the floor of his chariot.
 
-**8.37.31**  Then recovering his senses, he of the white horses and Kṛṣṇa for charioteer, that immeasurable one, swiftly brought forth the weapon of Indra; and thereupon thousands of arrows came into being, O honoured one.
+**8.37.31**  Then recovering his senses, he of the white horses and Kṛṣṇa for charioteer, that immeasurable one, swiftly brought forth the Aindra weapon; and thereupon thousands of arrows came into being, O honoured one.
 
 **8.37.32**  In every quarter they were seen, destroying in battle elephants, horses, and chariots with their weapons by the hundreds of thousands, O king.
 
@@ -6182,7 +6182,7 @@ translator: thothica
 
 **8.53.7**  Śatānīka, son of Nakula, a youth, assailed the youthful Vṛṣasena, son of Karṇa, with floods of arrows; and the heroic son of Karṇa, in turn, struck the prince of Pāñcāla with many showers of shafts.
 
-**8.53.8**  The bull among chariot-warriors, Nakula son of Mādrī, skilled in varied modes of fighting, came against Kṛtavarman; and the lord of the Pāñcālas, son of Yājñasena, came against the commander Karṇa with his troops.
+**8.53.8**  The bull among chariot-warriors, Nakula son of Mādrī, skilled in varied modes of fighting, came against Kṛtavarman; and the lord of the Pāñcālas, son of Yajñasena, came against the commander Karṇa with his troops.
 
 **8.53.9**  Duḥśāsana, O Bhārata, and the mighty host of the Saṃśaptakas of the Bhāratas then closed in battle with Bhīma, foremost of weapon-bearers, whose onset none could withstand.
 
@@ -7300,7 +7300,7 @@ translator: thothica
 
 **8.65.23**  'I now bring forth this great and terrible weapon, for the welfare of the world and for the slaying of the charioteer's son; for this let me have leave from you, and from the gods, from Brahmā, from Bhava, and from all who know the Brahman.'
 
-**8.65.24**  Having spoken thus, he brought forth, governed by his mind, the unbearable weapon of Brahmā; then that one of abundant splendor veiled all the quarters and intermediate quarters with his shafts, and the bull of the Bhāratas loosed his arrows by the hundredfold, as if they were one, of headlong speed.
+**8.65.24**  Having spoken thus, he brought forth, governed by his mind, the unbearable Brāhma weapon; then that one of abundant splendor veiled all the quarters and intermediate quarters with his shafts, and the bull of the Bhāratas loosed his arrows by the hundredfold, as if they were one, of headlong speed.
 
 **8.65.25**  By Vaikartana likewise, there in the midst of battle, were loosed masses of arrows by the thousand; roaring, they bore down upon the Pāṇḍava, like streams of water released by the rain-cloud.
 

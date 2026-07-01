@@ -188,9 +188,9 @@ translator: thothica
 
 **2.4.9**  Baka Dālbhya, Sthulasiras, Krishnadvapayana, Śuka, Sumantru, Jaimini, Paila — the disciples of Vyāsa — and ourselves were likewise present.
 
-**2.4.10**  Tittiri, Yājñavalkya with his son, Lomaharṣaṇa, Apsuhomya, Dhaumya, and also Aṇimāṇḍavya and Kauśika were there.
+**2.4.10**  Tittiri, Yājñavalkya with his son, Lomaharṣaṇa, Apsuhomya, Dhaumya, and also Aṇīmāṇḍavya and Kauśika were there.
 
-**2.4.11**  Damoshniṣa, Traivaṇi, Parṇada, Ghaṭajanuka, Mauñjayana, Vayubhaksha, Parasharya, and the two known as Sarika were present.
+**2.4.11**  Damoshniṣa, Traivaṇi, Parṇāda, Ghaṭajanuka, Mauñjayana, Vayubhaksha, Parasharya, and the two known as Sarika were present.
 
 **2.4.12**  Balavaka, Shinivaka, Sutyapala, Kṛtaśrama, Jatukarṇa, Shikhavant, Subala, and Parijataka were also there.
 
@@ -3258,7 +3258,7 @@ translator: thothica
 
 **2.48.14**  The Ambaṣṭhas, Kaukuras, Tarkshyas, Vastrapas together with the Pahlavas, the Vasatayas, Saumeyas, together with the Kshudrakas and Mālavas —
 
-**2.48.15**  The Shaundis, Kukkuras, and Śakas, O lord of the people; the Aṅgas, Vaṅgas, Puṇḍras, the Shanavatyas, and the Gayas —
+**2.48.15**  The Shaundis, Kukuras, and Śakas, O lord of the people; the Aṅgas, Vaṅgas, Puṇḍras, the Shanavatyas, and the Gayas —
 
 **2.48.16**  Well-born, organized in guilds, noble, weapons in hand — these Kṣatriyas brought wealth by the hundreds for him who has no enemies.
 

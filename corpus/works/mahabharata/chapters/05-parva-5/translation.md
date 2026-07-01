@@ -4858,7 +4858,7 @@ translator: thothica
 
 **5.72.16**  Sahaja among the Cedi-Matsyas, Bṛhadbala among the Pracetas, Dhāraṇa among the Indravatsas, Vigahana among the Mukutas —
 
-**5.72.17**  And Shama among the Nandivegas — these disgracers of their families, O Kṛṣṇa, were born at the end of their respective ages as the lowest of men within their clans.
+**5.72.17**  And Sama among the Nandivegas — these disgracers of their families, O Kṛṣṇa, were born at the end of their respective ages as the lowest of men within their clans.
 
 **5.72.18**  Could this Duryodhana be for us Kurus that brand upon the family, nurtured by time at the end of the age — the lowest of men, a sinful wretch?
 
@@ -6128,7 +6128,7 @@ translator: thothica
 
 **5.92.49**  Śakuni, king of Gāndhāra, guarded by the Gāndhāras, sat on his seat together with his son, O lord of men.
 
-**5.92.50**  Vidura, the great-minded one, took his seat on a jeweled stool spread with a white antelope skin, touching the seat of the Shaura.
+**5.92.50**  Vidura, the great-minded one, took his seat on a jeweled stool spread with a white antelope skin, touching the seat of the Saura.
 
 **5.92.51**  Beholding the scion of Dāśārha after a long time, all the kings, all the lords of earth, were not satiated in gazing at Janārdana, as if looking upon nectar.
 
@@ -8098,7 +8098,7 @@ translator: thothica
 
 **5.128.42**  "— desiring to capture him, striving with every effort to seize Mādhava, he could not grasp him there. Yet you seek to seize him by force."
 
-**5.128.43**  "At Nirmochana, six thousand great asuras, having bound him with nooses, could not capture him. Yet you seek to seize him by force."
+**5.128.43**  "At Nirmocana, six thousand great asuras, having bound him with nooses, could not capture him. Yet you seek to seize him by force."
 
 **5.128.44**  "When Śauri had gone to Prāgjyotiṣa, Naraka together with his danavas could not seize him there. Yet you seek to seize him by force."
 
@@ -8790,7 +8790,7 @@ translator: thothica
 
 **5.139.24**  The earth and the kingdom belong to him whose great warrior is Bhīma, and who has Nakula, Sahadeva, and the sons of Draupadī, O Mādhava.
 
-**5.139.25**  Uttamaujas, Yudhāmanyu, the Somaka of true dharma, Chaidya, Cekitāna, and the unvanquished Śikhaṇḍī —
+**5.139.25**  Uttamaujas, Yudhāmanyu, the Somaka of true dharma, Caidya, Cekitāna, and the unvanquished Śikhaṇḍī —
 
 **5.139.26**  — those of Indragopaka hue, the Kekaya brothers as well, and Kuntibhoja the great warrior, of the colour of Indra's rainbow —
 
@@ -8912,7 +8912,7 @@ translator: thothica
 
 **5.141.8**  'And Mars, having turned retrograde in Jyeshtha, O Madhusūdana, moves toward Anuradha, as though appeasing Mitra.'
 
-**5.141.9**  'Surely a great terror has come upon the Kurus, O Kṛṣṇa; for particularly, O Vārṣṇeya, a planet afflicts the star Chitra.'
+**5.141.9**  'Surely a great terror has come upon the Kurus, O Kṛṣṇa; for particularly, O Vārṣṇeya, a planet afflicts the star Citra.'
 
 **5.141.10**  'The mark of the moon has shifted; Rāhu will approach the sun; and from the sky these meteors fall with thunderclaps and tremors.'
 
@@ -9872,7 +9872,7 @@ translator: thothica
 
 **5.155.4**  the mighty-armed one who obtained the bow Mahendra, equal in splendor to the Gāṇḍīva, and the divine inexhaustible Śārṅga which is on a par with it—
 
-**5.155.5**  these three are the only divine bows that traverse the heavens: the Varuṇa bow called Gāṇḍīva, the Mahendra called Vijaya,
+**5.155.5**  these three are the only divine bows that traverse the heavens: the Vāruṇa bow called Gāṇḍīva, the Mahendra called Vijaya,
 
 **5.155.6**  and Śārṅga, they say, the Vaiṣṇava bow, divine and made of pure radiance—which Kṛṣṇa bore, striking terror into enemy armies.
 
@@ -11460,9 +11460,9 @@ translator: thothica
 
 **5.185.14**  Then his friend, the brāhmaṇa Akṛtavraṇa, great in austerity, embraced him and comforted him in many ways with gracious words.
 
-**5.185.15**  Then Rāma, recovered and filled with wrath and indignation, that hero of mighty vows, brought forth the supreme weapon of Brahmā.
+**5.185.15**  Then Rāma, recovered and filled with wrath and indignation, that hero of mighty vows, brought forth the supreme Brāhma weapon.
 
-**5.185.16**  Then, to counter it, the same most excellent Brahmā weapon, loosed by me, blazed forth, showing as it were the end of an age.
+**5.185.16**  Then, to counter it, the same most excellent Brāhma weapon, loosed by me, blazed forth, showing as it were the end of an age.
 
 **5.185.17**  Between those two Brahmā weapons there came a clash in mid-course, before either could reach Rāma or me, O most excellent of the Bhāratas.
 
@@ -11718,9 +11718,9 @@ translator: thothica
 
 **5.190.8**  Bhīṣma said: Then the husband and wife, having made their decision in that matter, sought as bride the daughter of the lord of the Daśārṇas.
 
-**5.190.9**  Then King Drupada, that lion among kings, having reviewed all the kings by their lineage, sought as a wife for Śikhaṇḍin the daughter of the Daśārṇaka king.
+**5.190.9**  Then King Drupada, that lion among kings, having reviewed all the kings by their lineage, sought as a wife for Śikhaṇḍin the daughter of the Dāśārṇaka king.
 
-**5.190.10**  The king known as Hiraṇyavarman, that Daśārṇaka, that protector of the earth, gave his daughter to that Śikhaṇḍin.
+**5.190.10**  The king known as Hiraṇyavarman, that Dāśārṇaka, that protector of the earth, gave his daughter to that Śikhaṇḍin.
 
 **5.190.11**  And that king Hiraṇyavarman was a great lord of the earth among the Daśārṇas—unassailable, master of a mighty army, lofty of mind.
 
@@ -11738,7 +11738,7 @@ translator: thothica
 
 **5.190.18**  Then after a few days, O bull of the Bhāratas, hearing this, King Hiraṇyavarman, O lord of kings, was driven to anguish by his fury.
 
-**5.190.19**  Then the Daśārṇaka king, filled with fierce wrath, dispatched a messenger to the dwelling of Drupada.
+**5.190.19**  Then the Dāśārṇaka king, filled with fierce wrath, dispatched a messenger to the dwelling of Drupada.
 
 **5.190.20**  Then the messenger of Kāñcanavarman, coming to Drupada, drew him aside alone and spoke in secret these words.
 
@@ -11784,7 +11784,7 @@ translator: thothica
 
 **5.191.18**  Tell me then the truth, as I ask, for our deliverance from all this, so that I may take measures in this matter, O fair-hipped, bright-smiling one; and do not fear for Śikhaṇḍin—I shall surely make provision there.
 
-**5.191.19**  By my own deed, O lovely one, I have been deceived as to the office of a son; and the Daśārṇaka king too, that lord of the earth, has been deceived by me. So tell me, O blessed one, and I shall do in this what is best.
+**5.191.19**  By my own deed, O lovely one, I have been deceived as to the office of a son; and the Dāśārṇaka king too, that lord of the earth, has been deceived by me. So tell me, O blessed one, and I shall do in this what is best.
 
 **5.191.20**  Though the king knew the truth, he urged it openly so as to make it plain to the other; and the queen replied to the lord of the earth.
 
@@ -11798,7 +11798,7 @@ translator: thothica
 
 **5.192.5**  Hearing this, Drupada Yajñasena, O king, laid the whole truth before his counsellors versed in deliberation, and took counsel as to whatever was fitting for the protection of his people.
 
-**5.192.6**  And having weighed the kinship-bond with that Daśārṇaka king, O lord of men—since he had himself wrought the deceit as it had happened—intent upon his counsel, he came to a resolve.
+**5.192.6**  And having weighed the kinship-bond with that Dāśārṇaka king, O lord of men—since he had himself wrought the deceit as it had happened—intent upon his counsel, he came to a resolve.
 
 **5.192.7**  In that time of peril, O Bhārata, the king secured on every side his city—naturally well guarded and fully arrayed for defence, O lord of kings.
 

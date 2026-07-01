@@ -598,7 +598,7 @@ translator: thothica
 
 **1.2.80**  The keeping of his vow; and the protection of Citrāṅgada; and upon Citrāṅgada's death, the protection of his younger brother.
 
-**1.2.81**  The installation of Vicitravīrya in the kingdom; and the birth of Dharma among humans, arising from the curse of the sage Aṇimāṇḍavya.
+**1.2.81**  The installation of Vicitravīrya in the kingdom; and the birth of Dharma among humans, arising from the curse of the sage Aṇīmāṇḍavya.
 
 **1.2.82**  And the begetting by Kṛṣṇa Dvaipāyana, born of a boon; the births of Dhṛtarāṣṭra, Pāṇḍu, and the Pāṇḍavas.
 
@@ -2478,7 +2478,7 @@ translator: thothica
 
 **1.31.5**  Śeṣa was born first, then Vāsuki; and Airāvata, Takṣaka, and Karkoṭaka and Dhanaṃjaya.
 
-**1.31.6**  Kāliya and Maṇināga, and the serpent Apūraṇa, and also the serpent Piñjaraka, then Elāpatra and Vāmana.
+**1.31.6**  Kālīya and Maṇināga, and the serpent Apūraṇa, and also the serpent Piñjaraka, then Elāpatra and Vāmana.
 
 **1.31.7**  The two serpents Nīla and Anīla, and also Kalmāṣa and Śabala, and Āryaka and Ādika, and also the serpent Śalapotaka.
 
@@ -2494,7 +2494,7 @@ translator: thothica
 
 **1.31.13**  Aparājita, Jyotika the serpent, and Śrīvaha; Kauravya, Dhṛtarāṣṭra, Puṣkara, and also Śalyaka.
 
-**1.31.14**  Virajā, Subāhu, and the mighty Śālipiṇḍa, Hastibhadra, Piṭharaka, Mukhara, and Koṇavāsana.
+**1.31.14**  Virajā, Subāhu, and the mighty Śālipiṇḍa, Hastibhadra, Pīṭharaka, Mukhara, and Koṇavāsana.
 
 **1.31.15**  Kuñjara, Kurara, and also the serpent Prabhākara, Kumuda and Kumudākṣa, Tittiri and Halika, and both Karkara and Akarkara, and Kuṇḍodara and Mahodara.
 
@@ -4224,7 +4224,7 @@ translator: thothica
 
 **1.59.23**  — Ayaḥśirā, Ashvashira, and the mighty Ayahshanku; Gaganamurdha, the swift Ketumān —
 
-**1.59.24**  — Svarbhānu, Aśva, Aśvapati, Vṛṣaparvā and Ajaka; Ashvagrīva, Sukshma, and the great asura Tuhunda —
+**1.59.24**  — Svarbhānu, Aśva, Aśvapati, Vṛṣaparvā and Ajaka; Aśvagrīva, Sukshma, and the great asura Tuhunda —
 
 **1.59.25**  — Isripa, Ekacakra, Virūpākṣa, Hara and Ahara; Nicandra, Nikumbha, Kupatha, and Kapatha —
 
@@ -7096,7 +7096,7 @@ translator: thothica
 
 **1.96.36**  And in his fury he spoke to his charioteer: "Drive where that king stands, that I may today slay him as the king of birds slays a serpent."
 
-**1.96.37**  Then the Kaurava duly invoked the Varuṇa weapon, O lord of men, and with it he crushed the four horses of Śālva's king.
+**1.96.37**  Then the Kaurava duly invoked the Vāruṇa weapon, O lord of men, and with it he crushed the four horses of Śālva's king.
 
 **1.96.38**  Warding off the weapons of Śālva's king with his own weapons, that Kaurava Bhīṣma, O tiger among kings, slew Śālva's charioteer, and with a single weapon further struck down his finest horses.
 
@@ -9254,9 +9254,9 @@ translator: thothica
 
 **1.128.16**  But remembering his enmity with Droṇa, Drupada did not rest, and he saw no way to defeat him by Kṣatriya force alone.
 
-**1.128.17**  Knowing himself to be inferior in Brahminic power, that king resolved to seek the birth of a son — and Droṇa took possession of the territory of Ahicchattra.
+**1.128.17**  Knowing himself to be inferior in Brahminic power, that king resolved to seek the birth of a son — and Droṇa took possession of the territory of Ahicchatra.
 
-**1.128.18**  Thus, O king, was the city of Ahicchattra along with its surrounding provinces conquered in battle by Arjuna and delivered to Droṇa.
+**1.128.18**  Thus, O king, was the city of Ahicchatra along with its surrounding provinces conquered in battle by Arjuna and delivered to Droṇa.
 
 **1.129.1**  Vaiśaṃpāyana said: Duryodhana the evil-minded, observing Bhīmasena who was superior in physical strength and Dhanañjaya who had mastered every science, burned with envy.
 

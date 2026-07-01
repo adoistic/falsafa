@@ -86,7 +86,7 @@ translator: thothica
 
 **1.1.33**  Slaying the demon Virādha, he visited Śarabhaṅga, then Sutīkṣṇa, then Agastya, and Agastya's brother as well.
 
-**1.1.34**  At Agastya's word, and greatly pleased, he received the bow of Indra, a sword, and two quivers of inexhaustible arrows.
+**1.1.34**  At Agastya's word, and greatly pleased, he received the Aindra bow, a sword, and two quivers of inexhaustible arrows.
 
 **1.1.35**  While Rāma was dwelling in the forest among the forest-dwellers, all the sages came to him seeking the destruction of the Asuras and Rākṣasas.
 
@@ -1442,7 +1442,7 @@ translator: thothica
 
 **1.26.5**  "Then, O hero, the Dharmacakra and likewise the Kālacakra; the Viṣṇucakra, which is extremely fierce, and likewise the Indracakra."
 
-**1.26.6**  "The Vajra weapon, O best of men, and likewise Śiva's excellent Śūla; the Brahmaśiras weapon, and also the Aiṣīka, O Rāghava—I give to you, O mighty-armed one, the incomparable Brahmā weapon."
+**1.26.6**  "The Vajra weapon, O best of men, and likewise Śiva's excellent Śūla; the Brahmaśiras weapon, and also the Aiṣīka, O Rāghava—I give to you, O mighty-armed one, the incomparable Brāhma weapon."
 
 **1.26.7**  "Two maces also, O Kākutstha—Modakī and Śikharī, both blazing—I bestow upon you, O tiger among men, son of a king."
 

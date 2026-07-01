@@ -234,7 +234,7 @@ translator: thothica
 
 **2.11.18**  Assume the might, O hero, with which you broke down Vṛtra, Dānu, and Aurṇavābha. You revealed the light for the Ārya; the Dasyu was made to sit on his left side, O Indra.
 
-**2.11.19**  May we be of those who, with your help, crossing over, overcome all rivals and Dasyus for the Ārya. You have subjected to us for the friendship of Trita that Tvaṣṭra-born thing of all forms.
+**2.11.19**  May we be of those who, with your help, crossing over, overcome all rivals and Dasyus for the Ārya. You have subjected to us for the friendship of Trita that Tvāṣṭra-born thing of all forms.
 
 **2.11.20**  Growing great on the pressed, exhilarating drink of Trita, he has struck down the myriad serpents. Indra with the Aṅgirases has turned the sun like a wheel; he has cloven Vala.
 
@@ -750,7 +750,7 @@ translator: thothica
 
 **2.35.15**  I have obtained for the people, O Agni, a good dwelling; I have also obtained excellent praise for the bountiful ones. All that is auspicious which the gods protect — may we speak aloud in the assembly, with fine heroes.
 
-**2.36.1**  Urging for you, O Vāsiṣṭha, the men milked the kine and the waters with sheep-wool and pressing-stones. Drink, O Indra, the Soma that has been offered with Svāhā, consecrated with Vaṣaṭ, from the Hotṛ's station — you who as first have the sovereignty.
+**2.36.1**  Urging for you, O Vasiṣṭha, the men milked the kine and the waters with sheep-wool and pressing-stones. Drink, O Indra, the Soma that has been offered with Svāhā, consecrated with Vaṣaṭ, from the Hotṛ's station — you who as first have the sovereignty.
 
 **2.36.2**  Mingled with the sacrifices and with the dappled mares and spears, beautiful in their anointing on the path, and dear — O sons of Bharata, having taken your seat on the sacred grass, O men of heaven, drink the Soma from the Potṛ's station.
 

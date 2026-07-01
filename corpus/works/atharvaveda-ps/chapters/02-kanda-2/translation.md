@@ -487,7 +487,7 @@ translator: thothica
 
 **2.49.3**  The western quarter, the Vāmadevya [Sāman] is its deity. [Whatever sin this person has committed among gods, among the ancestors, among human beings — you are the expiation of that. Release him from this wasting disease, from this affliction.] Svāhā!
 
-**2.49.4**  The northern quarter, the Yajñāyajñīya [Sāman] is its deity. [Whatever sin this person has committed among gods, among the ancestors, among human beings — you are the expiation of that. Release him from this wasting disease, from this affliction.] Svāhā!
+**2.49.4**  The northern quarter, the Yajñāyajñiya [Sāman] is its deity. [Whatever sin this person has committed among gods, among the ancestors, among human beings — you are the expiation of that. Release him from this wasting disease, from this affliction.] Svāhā!
 
 **2.49.5**  The upward quarter, the Bṛhat [Sāman] is its deity. Whatever sin this person has committed among gods, among the ancestors, among human beings — you are the expiation of that. Release him from this wasting disease, from this affliction. Svāhā!
 

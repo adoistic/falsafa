@@ -11172,7 +11172,7 @@ translator: thothica
 
 **12.153.12**  From its ignorance comes greed, and from greed comes ignorance again; thus all faults arise from greed, and therefore one should renounce greed.
 
-**12.153.13**  Janaka and Yuvanāśva, Vṛṣadarbhi and Prasenajit, by the destruction of greed attained heaven, and so likewise did other lords of men.
+**12.153.13**  Janaka and Yuvanāśva, Vṛṣādarbhi and Prasenajit, by the destruction of greed attained heaven, and so likewise did other lords of men.
 
 **12.153.14**  Plainly, then, O best of the Kurus, renounce greed here and now by your own resolve; having renounced greed, you shall dwell in happiness in this world and after death as well.
 

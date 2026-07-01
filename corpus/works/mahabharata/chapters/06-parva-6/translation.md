@@ -702,7 +702,7 @@ translator: thothica
 
 **6.10.52**  The Kāśmīras, the Sindhus and Sauvīras, the Gāndhāras, and the Darśakas likewise, the Abhīsāras, the Kulūtas, the Śaivalas, and the Bāhlīkas as well.
 
-**6.10.53**  The Darvīkas with the Kacas, the Darvas, the Vātadhānas, the Amarathas, the Uragas, the Bahuvādyas too, O Kaurava, the Sudāmans, and the Sumallikas.
+**6.10.53**  The Darvīkas with the Kacas, the Darvas, the Vāṭadhānas, the Amarathas, the Uragas, the Bahuvādyas too, O Kaurava, the Sudāmans, and the Sumallikas.
 
 **6.10.54**  The Vadhras and the Karīṣakas too, and the Kulindas of the foothills likewise, the Vanāyus, the Daśāpārśvas, the Romans, and the Kuśabindus.
 
@@ -4752,7 +4752,7 @@ translator: thothica
 
 **6.55.126**  Those Cedis, Pāñcālas, Karūṣas, and Matsyas, and all the sons of Pṛthā together, roared aloud, scattering in terror the army of the host-commanders, as a lion the gathered herds of deer; and those two, filled with surpassing joy, sounded forth—the bearer of the Gāṇḍīva and Janārdana.
 
-**6.55.127**  Then, seeing the sun with its web of rays withdrawn, and gazing up at that weapon of Indra spread wide and most dreadful, unbearable, like the end of an age, their limbs sorely gashed by weapons,
+**6.55.127**  Then, seeing the sun with its web of rays withdrawn, and gazing up at that Aindra weapon spread wide and most dreadful, unbearable, like the end of an age, their limbs sorely gashed by weapons,
 
 **6.55.128**  the Kurus, with Bhīṣma, and with Droṇa, Duryodhana, and Bāhlika, made their retreat, seeing the night drawing on, edged with the reddish streaks of the fading sun.
 
@@ -6514,7 +6514,7 @@ translator: thothica
 
 **6.77.39**  The gods, the divine seers, the Gandharvas, and the great serpents were struck with the utmost wonder to behold the two Kṛṣṇas brought to such a pass.
 
-**6.77.40**  Then, in his wrath, O king, Arjuna sent forth the weapon of Indra; and there we beheld the marvellous prowess of the Victor.
+**6.77.40**  Then, in his wrath, O king, Arjuna sent forth the Aindra weapon; and there we beheld the marvellous prowess of the Victor.
 
 **6.77.41**  For with floods of arrows he warded off the rain of weapons loosed by his foes; and yet there was not one there, O lord of peoples, who was left unpierced.
 
@@ -6600,7 +6600,7 @@ translator: thothica
 
 **6.78.38**  Therein we beheld a marvel of valor in the grandson of Śini: even while struck down by keen shafts in the battle, he was not dismayed.
 
-**6.78.39**  Then the scion of the Vṛṣṇis fitted to his bow the weapon of Indra, O Bhārata, which the illustrious Mādhava had obtained from Vijaya.
+**6.78.39**  Then the scion of the Vṛṣṇis fitted to his bow the Aindra weapon, O Bhārata, which the illustrious Mādhava had obtained from Vijaya.
 
 **6.78.40**  That weapon reduced the Rākṣasa illusion to ashes; and then he covered Alambusa on every side with dreadful shafts, as a rain-cloud in the wet season drenches a mountain with its streams of water.
 
@@ -8552,7 +8552,7 @@ translator: thothica
 
 **6.98.17**  For alone he warded it off, as the wind scatters the masses of clouds; at that feat of Pārtha the gods and dānavas rejoiced.
 
-**6.98.18**  Then in wrath, O Bhārata, Pārtha loosed against the Trigartas in the battle the weapon of Vāyu, O great king, at the head of the host.
+**6.98.18**  Then in wrath, O Bhārata, Pārtha loosed against the Trigartas in the battle the Vāyavya weapon, O great king, at the head of the host.
 
 **6.98.19**  Thereupon a wind arose, churning the vault of heaven, felling clusters of trees and smiting down the soldiers.
 
