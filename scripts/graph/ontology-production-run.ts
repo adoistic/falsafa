@@ -649,6 +649,9 @@ async function chatCompletion(window: WorkWindow, model: string, baseUrl: string
         messages: [{ role: "user", content: window.prompt }],
         temperature: 0,
         max_tokens: Number.parseInt(process.env["ONTOLOGY_MAX_TOKENS"] ?? String(DEFAULT_MAX_TOKENS), 10),
+        chat_template_kwargs: {
+          enable_thinking: process.env["ONTOLOGY_ENABLE_THINKING"] !== "0",
+        },
       }),
     });
     const text = await response.text();
