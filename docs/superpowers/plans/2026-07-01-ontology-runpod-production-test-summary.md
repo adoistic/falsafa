@@ -37,7 +37,14 @@ Approximate RunPod spend should be read from the RunPod billing dashboard. The t
 
 ## Recommendation
 
-The next production attempt should not start with ModelScope on RunPod unless the pod can be observed through the RunPod web console. The most practical route is:
+The next production attempt should use ModelScope's hosted OpenAI-compatible inference endpoint for a production canary before returning to self-hosted RunPod:
+
+1. Set `ONTOLOGY_OPENAI_BASE_URL=https://api-inference.modelscope.ai/v1`.
+2. Set `ONTOLOGY_MODEL=zai-org/GLM-5.2`.
+3. Set `ONTOLOGY_API_KEY` from a ModelScope token without committing it or writing it to logs.
+4. Run a one-window smoke test, then small hosted-API concurrency tests.
+
+If self-hosting is still required after the hosted canary, do not start with ModelScope on RunPod unless the pod can be observed through the RunPod web console. The most practical self-hosted route is:
 
 1. Recreate the official vLLM image pod with a Hugging Face token supplied as `HF_TOKEN` and `HUGGING_FACE_HUB_TOKEN`.
 2. Use `zai-org/GLM-5.2-FP8` from Hugging Face.
