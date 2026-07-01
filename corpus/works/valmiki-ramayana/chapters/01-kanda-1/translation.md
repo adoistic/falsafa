@@ -1446,7 +1446,7 @@ translator: thothica
 
 **1.26.7**  "Two maces also, O Kākutstha—Modakī and Śikharī, both blazing—I bestow upon you, O tiger among men, son of a king."
 
-**1.26.8**  "The Dharmapāśa, O Rāma, and likewise the Kālapāśa, and also the incomparable Varuṇa noose-weapon—these I give you."
+**1.26.8**  "The Dharmapāśa, O Rāma, and likewise the Kālapāśa, and also the incomparable Vāruṇa noose-weapon—these I give you."
 
 **1.26.9**  "Two thunderbolts I bestow upon you, O delight of the Raghu clan—one dry and one wet."
 
