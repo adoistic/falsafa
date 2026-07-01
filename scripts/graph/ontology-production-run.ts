@@ -27,7 +27,7 @@ interface Manifest {
   works: ManifestWork[];
 }
 
-interface SourceParagraph {
+export interface SourceParagraph {
   id: string;
   offset?: number;
   text: string;
@@ -88,7 +88,7 @@ interface QuoteEvent {
   justification: string;
 }
 
-interface OntologyOutput {
+export interface OntologyOutput {
   work_slug: string;
   extracted_at: string;
   ontology_version: "anchor-range-v1";
@@ -99,7 +99,7 @@ interface OntologyOutput {
   quote_events: QuoteEvent[];
 }
 
-interface WorkWindow {
+export interface WorkWindow {
   window_id: string;
   work_slug: string;
   title: string;
@@ -114,7 +114,7 @@ interface WorkWindow {
   meta_path: string;
 }
 
-interface AttemptMeta {
+export interface AttemptMeta {
   started_at: string;
   finished_at: string;
   latency_ms: number;
@@ -123,13 +123,13 @@ interface AttemptMeta {
   usage: Usage | null;
 }
 
-interface Usage {
+export interface Usage {
   prompt_tokens?: number;
   completion_tokens?: number;
   total_tokens?: number;
 }
 
-interface WindowMeta {
+export interface WindowMeta {
   window_id: string;
   work_slug: string;
   chapter_tokens: string[];
@@ -147,14 +147,14 @@ interface WindowMeta {
   usage: Usage | null;
 }
 
-interface ValidationResult {
+export interface ValidationResult {
   valid_json: boolean;
   schema_valid: boolean;
   paragraph_anchor_valid: boolean;
   errors: string[];
 }
 
-interface EnrichmentResult {
+export interface EnrichmentResult {
   success: boolean;
   evidence_objects: number;
   quotes_attached: number;
@@ -188,9 +188,9 @@ interface SegmentSummary {
   decision: string;
 }
 
-const ROOT = resolve(import.meta.dir, "..", "..");
-const CORPUS = join(ROOT, "corpus");
-const PROMPT_PATH = join(ROOT, "scripts", "graph", "prompts", "ontology-anchor-range-v1.md");
+export const ROOT = resolve(import.meta.dir, "..", "..");
+export const CORPUS = join(ROOT, "corpus");
+export const PROMPT_PATH = join(ROOT, "scripts", "graph", "prompts", "ontology-anchor-range-v1.md");
 const DEFAULT_RUN_ID = "2026-07-01-glm52-runpod";
 const MAX_WINDOW_CHARS = 40_000;
 const DEFAULT_MAX_TOKENS = 32_768;
@@ -366,7 +366,7 @@ function windowPaths(runDir: string, windowId: string): Pick<WorkWindow, "anchor
   };
 }
 
-function buildWindows(runDir: string): WorkWindow[] {
+export function buildWindows(runDir: string): WorkWindow[] {
   const manifest = readJson<Manifest>(join(CORPUS, "manifest.json"));
   const sorted = [...manifest.works].sort((a, b) => priorityScore(b) - priorityScore(a));
   const windows: WorkWindow[] = [];
@@ -398,7 +398,7 @@ function buildWindows(runDir: string): WorkWindow[] {
   return windows;
 }
 
-function extractJson(text: string): unknown {
+export function extractJson(text: string): unknown {
   try {
     return JSON.parse(text);
   } catch {
@@ -458,7 +458,7 @@ function validateEvidence(path: string, evidence: unknown, ids: Set<string>, ord
   }
 }
 
-function validateOntology(value: unknown, window: WorkWindow): ValidationResult {
+export function validateOntology(value: unknown, window: WorkWindow): ValidationResult {
   const errors: string[] = [];
   const ids = new Set(window.paragraphs.map((p) => p.id));
   const order = new Map(window.paragraphs.map((p, i) => [p.id, i]));
@@ -589,7 +589,7 @@ function expandEvidence(evidence: Evidence, order: Map<string, number>, paragrap
   return paragraphs.slice(start, end + 1).map((p) => p.id);
 }
 
-function enrichOntology(output: OntologyOutput, window: WorkWindow): { output: OntologyOutput; result: EnrichmentResult } {
+export function enrichOntology(output: OntologyOutput, window: WorkWindow): { output: OntologyOutput; result: EnrichmentResult } {
   const errors: string[] = [];
   const order = new Map(window.paragraphs.map((p, i) => [p.id, i]));
   const byId = new Map(window.paragraphs.map((p) => [p.id, p]));
@@ -763,7 +763,7 @@ async function mapPool<T, R>(items: T[], concurrency: number, fn: (item: T) => P
   return results;
 }
 
-function percentile(values: number[], p: number): number | null {
+export function percentile(values: number[], p: number): number | null {
   if (values.length === 0) return null;
   const sorted = [...values].sort((a, b) => a - b);
   const index = Math.min(sorted.length - 1, Math.ceil((p / 100) * sorted.length) - 1);
@@ -954,8 +954,10 @@ async function main(): Promise<void> {
   }
 }
 
-main().catch((err) => {
-  const message = err instanceof Error ? err.stack ?? err.message : String(err);
-  console.error(`${basename(import.meta.path)} failed:\n${message}`);
-  process.exit(1);
-});
+if (import.meta.main) {
+  main().catch((err) => {
+    const message = err instanceof Error ? err.stack ?? err.message : String(err);
+    console.error(`${basename(import.meta.path)} failed:\n${message}`);
+    process.exit(1);
+  });
+}
