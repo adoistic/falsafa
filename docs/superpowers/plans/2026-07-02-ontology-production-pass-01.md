@@ -220,6 +220,19 @@ scheduled task (02:21 IST daily) was hardened with a rate-limit self-heal so a
 fire slightly before the ~02:00 usage-window reset waits and retries rather than
 stalling for a day.
 
+**Update — prod-ramp-22 (to 199 valid, 1.56%): the 5-hour cap hit and the run
+auto-recovered.** Mid-batch (Euclid parts 15–22) the session hit its 5-hour usage
+limit (reset 02:10 IST); 6 of 8 subagents were killed with a limit error. After
+the reset the autonomous restart re-ran the missing windows with no manual
+intervention — all 8 landed and validated. This is the first live proof that the
+grind survives a real cap and resumes idempotently from disk. 199/12,797 valid;
+6,407 entities, 1,809 themes, 1,971 citations, 3,545 quote events; 94,868 quotes.
+Valid JSON/anchor/enrichment 100%, 0 quote leaks; cost/valid ~$0.25. Root cause of
+the Euclid reversed-range slips identified: the Euclid source **reuses the same
+paragraph id** across propositions (e.g. a recurring "Q.E.D." id), so a range
+built from the first occurrence of an end-id can precede its start — using
+`paragraph_ids`-only resolves it (and flags a dedup task for reconciliation).
+
 As of prod-ramp-09: **95 / 12,797 windows valid (0.74%)**. Cumulative extraction:
 3,595 entities, 886 themes, 1,226 citations, 2,219 quote events; 46,921 quotes
 attached. Cost/valid window ~$0.28 (Vīramitrodaya digests are citation-dense, so
