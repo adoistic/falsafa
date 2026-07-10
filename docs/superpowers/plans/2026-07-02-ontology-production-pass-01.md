@@ -187,6 +187,18 @@ cost/valid ~$0.25. The corpus coverage now spans the full Indic dharmaśāstra
 tranche, the Kawi/Old-Javanese cluster, and Greek philosophy (all of Plato +
 Aristotle's Ethics).
 
+**Update — prod-ramp-17..18 (to 167 valid, 1.30%).** Aristotle (Ethics 13–18, On
+Virtues, Constitution of the Athenians), Hippocrates (Aphorisms, De Diaeta), and
+the first Latin work — Lucretius *De Rerum Natura*, including a **951-paragraph
+verse window** that validated clean once forced to `paragraph_ids`-only.
+167/12,797 valid; 5,737 entities, 1,561 themes, 1,600 citations, 3,089 quote
+events; 64,658 quotes. Valid JSON/anchor/enrichment all 100%, 0 quote leaks across
+18 in-session batches; cost/valid ~$0.25. Residual failure mode: a fast subagent
+run (≤2 tool calls, no self-check) occasionally drops one `evidence_hint` or
+reverses one range — all single-retry-recovered; for the largest verse windows,
+forcing `paragraph_ids`-only for every evidence object eliminates reversed ranges
+entirely.
+
 As of prod-ramp-09: **95 / 12,797 windows valid (0.74%)**. Cumulative extraction:
 3,595 entities, 886 themes, 1,226 citations, 2,219 quote events; 46,921 quotes
 attached. Cost/valid window ~$0.28 (Vīramitrodaya digests are citation-dense, so
