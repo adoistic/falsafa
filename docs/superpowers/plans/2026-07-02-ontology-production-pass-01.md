@@ -229,6 +229,11 @@ in-session batches; cost/valid ~$0.25. The autonomous restart was proven under a
 real 5-hour cap earlier this run (limit hit mid-batch, windows re-ran after the
 reset, nothing lost).
 
+**Update — prod-ramp-28 (to 247 valid, 1.93%).** Seneca's *On Mercy* and the full
+*On Anger* (7 parts). 247/12,797 valid; 7,967 entities, 2,326 citations; 104,854
+quotes. Valid JSON/anchor/enrichment all 100%, 0 quote leaks across 29 in-session
+batches; cost/valid ~$0.25.
+
 **Update — prod-ramp-21 (to 191 valid, 1.49%).** Euclid's *Elements* completed (14
 parts). 191/12,797 valid; 6,289 entities, 1,762 themes, 1,780 citations, 3,343
 quote events; 89,087 quotes. Valid JSON/anchor/enrichment all 100%, 0 quote leaks
