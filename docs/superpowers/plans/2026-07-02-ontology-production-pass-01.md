@@ -242,6 +242,12 @@ across 30 in-session batches; cost/valid ~$0.25. A third (rare) failure mode
 appeared once — a `figure_kind` field on a non-figure entity — recovered by the
 same single retry.
 
+**Update — prod-ramp-30 (to 263 valid, 2.06% — crossed 2% of the archive).** Seneca
+*On Tranquillity of Mind* and Cicero *On Moral Ends* (De Finibus). 263/12,797 valid;
+8,926 entities, 2,532 citations, 4,712 quote events; 109,462 quotes. Valid
+JSON/anchor/enrichment all 100%, 0 quote leaks across 31 in-session batches;
+cost/valid ~$0.25.
+
 **Update — prod-ramp-21 (to 191 valid, 1.49%).** Euclid's *Elements* completed (14
 parts). 191/12,797 valid; 6,289 entities, 1,762 themes, 1,780 citations, 3,343
 quote events; 89,087 quotes. Valid JSON/anchor/enrichment all 100%, 0 quote leaks
