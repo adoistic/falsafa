@@ -172,6 +172,13 @@ simply re-ran the missing window. Lesson: disk headroom is a real production
 constraint for a long local grind; the scheduled task should check free space and
 pause/alert rather than write into a near-full disk.
 
+**Update — prod-ramp-13..14 (to 135 valid, 1.05%).** Two batches of Plato's
+Republic (parts 1–16). 135/12,797 valid; 4,786 entities, 1,270 themes, 1,471
+citations, 2,815 quote events; 56,792 quotes. Valid JSON/anchor/enrichment all
+100%, 0 quote leaks. 15 in-session batches total; cost/valid ~$0.26. Failure
+modes unchanged (occasional missing `evidence_hint` or reversed range, all
+single-retry-recovered).
+
 As of prod-ramp-09: **95 / 12,797 windows valid (0.74%)**. Cumulative extraction:
 3,595 entities, 886 themes, 1,226 citations, 2,219 quote events; 46,921 quotes
 attached. Cost/valid window ~$0.28 (Vīramitrodaya digests are citation-dense, so
