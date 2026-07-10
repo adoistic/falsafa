@@ -145,6 +145,17 @@ work — each future session just runs `prepare --count N` → dispatch → `fin
 | prod-ramp-07 | 79 | 100% | 100% | 100% | 0 | Viṣṇu Smṛti 3–7, Vīramitrodaya 1–3 |
 | prod-ramp-08 | 87 | 100% | 100% | 100% | 0 | Vīramitrodaya 4–11 (large, >300p — 0 repairs after the large-window mitigation) |
 | prod-ramp-09 | 95 | 100% | 100% | 100% | 0 | Vīramitrodaya 12–19 |
+| prod-ramp-10 | 103 | 100% | 100% | 100% | 0 | Vīramitrodaya 20–21, Kawi Vratiśāsana 1–3, Vṛhaspatitattva 1–3 |
+
+As of prod-ramp-10 (end of in-session grind): **103 / 12,797 windows valid (0.80%)**
+across 33 distinct works. Cumulative extraction: 3,841 entities, 957 themes, 1,329
+citations, 2,390 quote events; 50,108 quotes attached (30.3% paragraph-fallback).
+Cost/valid window ~$0.28; full-archive est. ~$3,575. Across all 103 windows and
+~14,000 evidence objects: valid JSON 100%, paragraph-anchor validity 100%,
+enrichment 100%, **0 quote leaks**. Every failure was a single-retry-recoverable
+structure slip (leftover key, reversed range, transient API error) — 0 unrecovered.
+The remaining ~12,694 windows continue via the `ontology-archive-grind` scheduled
+task (see below).
 
 As of prod-ramp-09: **95 / 12,797 windows valid (0.74%)**. Cumulative extraction:
 3,595 entities, 886 themes, 1,226 citations, 2,219 quote events; 46,921 quotes
