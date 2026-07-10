@@ -154,8 +154,23 @@ Cost/valid window ~$0.28; full-archive est. ~$3,575. Across all 103 windows and
 ~14,000 evidence objects: valid JSON 100%, paragraph-anchor validity 100%,
 enrichment 100%, **0 quote leaks**. Every failure was a single-retry-recoverable
 structure slip (leftover key, reversed range, transient API error) — 0 unrecovered.
-The remaining ~12,694 windows continue via the `ontology-archive-grind` scheduled
+The remaining windows continue via the `ontology-archive-grind` scheduled
 task (see below).
+
+**Update — prod-ramp-11..12 (to 119 valid).** Two more batches: Yama & Yājñavalkya
+Smṛti (finishing the Indic dharmaśāstra tranche) and the first Greek-philosophy
+windows (Plato Apology, Crito, Phaedo, Symposium — the priority score sorts Indic
+law first, so Greek philosophy begins around here). 119/12,797 valid; 4,347
+entities, 1,110 themes, 1,403 citations, 2,615 quote events; 54,721 quotes. Valid
+JSON/anchor/enrichment all 100%, 0 quote leaks. **Environmental blocker hit and
+cleared:** the machine's Data volume filled to ~99% mid-batch and one extraction
+subagent failed with ENOSPC (no output written); freeing ~5 GiB of regenerable
+build artifacts (node_modules/.next/.venv) from four untouched sibling projects
+restored headroom (28 GiB free), and the one casualty (Yājñavalkya part005) was
+re-dispatched and validated. No ontology output was lost — the idempotent driver
+simply re-ran the missing window. Lesson: disk headroom is a real production
+constraint for a long local grind; the scheduled task should check free space and
+pause/alert rather than write into a near-full disk.
 
 As of prod-ramp-09: **95 / 12,797 windows valid (0.74%)**. Cumulative extraction:
 3,595 entities, 886 themes, 1,226 citations, 2,219 quote events; 46,921 quotes
