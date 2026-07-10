@@ -212,6 +212,13 @@ one still produced valid output, so no window was lost, but the wrapper should s
 few repeated paragraph ids within a window — benign for validation (the id is in
 the allowed set) but worth a dedup pass during reconciliation.
 
+**Update — prod-ramp-24..25 (to 223 valid, 1.74%).** Marcus Aurelius' *Meditations*
+(9 parts) plus a run of short Cicero and Seneca Stoic works (Stoic Paradoxes,
+Timaeus, Academica, On Fate; On Leisure, On Providence, On Steadfastness).
+223/12,797 valid; 7,127 entities, 2,144 citations, and **over 100,000 quotes
+attached** (100,416). Valid JSON/anchor/enrichment all 100%, 0 quote leaks across
+26 in-session batches; cost/valid ~$0.24.
+
 **Update — prod-ramp-21 (to 191 valid, 1.49%).** Euclid's *Elements* completed (14
 parts). 191/12,797 valid; 6,289 entities, 1,762 themes, 1,780 citations, 3,343
 quote events; 89,087 quotes. Valid JSON/anchor/enrichment all 100%, 0 quote leaks
