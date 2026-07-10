@@ -212,6 +212,14 @@ one still produced valid output, so no window was lost, but the wrapper should s
 few repeated paragraph ids within a window — benign for validation (the id is in
 the allowed set) but worth a dedup pass during reconciliation.
 
+**Update — prod-ramp-21 (to 191 valid, 1.49%).** Euclid's *Elements* completed (14
+parts). 191/12,797 valid; 6,289 entities, 1,762 themes, 1,780 citations, 3,343
+quote events; 89,087 quotes. Valid JSON/anchor/enrichment all 100%, 0 quote leaks
+across 21 in-session batches; cost/valid ~$0.25. The `ontology-archive-grind`
+scheduled task (02:21 IST daily) was hardened with a rate-limit self-heal so a
+fire slightly before the ~02:00 usage-window reset waits and retries rather than
+stalling for a day.
+
 As of prod-ramp-09: **95 / 12,797 windows valid (0.74%)**. Cumulative extraction:
 3,595 entities, 886 themes, 1,226 citations, 2,219 quote events; 46,921 quotes
 attached. Cost/valid window ~$0.28 (Vīramitrodaya digests are citation-dense, so
