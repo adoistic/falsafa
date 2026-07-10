@@ -143,6 +143,15 @@ work — each future session just runs `prepare --count N` → dispatch → `fin
 | prod-ramp-05 | 63 | 100% | 100% | 100% | 0 | Nāradasmṛti 1, Parāśara Smṛti 1–3, Kawi Buddhist (Kamahāyānikan 1–3, Mahājñāna 1) |
 | prod-ramp-06 | 71 | 100% | 100% | 100% | 0 | Kawi (Tattvajñāna 1–3, Ślokāntara 1–3), Viṣṇu Smṛti 1–2 |
 | prod-ramp-07 | 79 | 100% | 100% | 100% | 0 | Viṣṇu Smṛti 3–7, Vīramitrodaya 1–3 |
+| prod-ramp-08 | 87 | 100% | 100% | 100% | 0 | Vīramitrodaya 4–11 (large, >300p — 0 repairs after the large-window mitigation) |
+| prod-ramp-09 | 95 | 100% | 100% | 100% | 0 | Vīramitrodaya 12–19 |
+
+As of prod-ramp-09: **95 / 12,797 windows valid (0.74%)**. Cumulative extraction:
+3,595 entities, 886 themes, 1,226 citations, 2,219 quote events; 46,921 quotes
+attached. Cost/valid window ~$0.28 (Vīramitrodaya digests are citation-dense, so
+completion tokens run higher). The large-window mitigation (prefer `paragraph_ids`
+>300p) closed the loop: prod-ramp-08 was 8/8 first-attempt on exactly the window
+type that failed 3/8 in prod-ramp-07.
 
 As of prod-ramp-07: **79 / 12,797 windows valid (0.62%)** across 30 distinct works.
 Cumulative extraction: 2,913 entities, 779 themes, 520 citations, 1,202 quote
