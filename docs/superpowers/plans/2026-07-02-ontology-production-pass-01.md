@@ -220,6 +220,11 @@ scheduled task (02:21 IST daily) was hardened with a rate-limit self-heal so a
 fire slightly before the ~02:00 usage-window reset waits and retries rather than
 stalling for a day.
 
+**Update — prod-ramp-23 (to 207 valid, 1.62%).** Euclid's *Elements* fully
+complete (28 parts) and Marcus Aurelius' *Meditations* processed. 207/12,797
+valid; 6,592 entities, 2,052 citations, 97,661 quotes. Valid JSON/anchor/
+enrichment all 100%, 0 quote leaks across 24 in-session batches; cost/valid ~$0.24.
+
 **Update — prod-ramp-22 (to 199 valid, 1.56%): the 5-hour cap hit and the run
 auto-recovered.** Mid-batch (Euclid parts 15–22) the session hit its 5-hour usage
 limit (reset 02:10 IST); 6 of 8 subagents were killed with a limit error. After
