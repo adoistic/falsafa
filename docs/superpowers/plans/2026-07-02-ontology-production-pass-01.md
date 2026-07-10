@@ -11,10 +11,28 @@ This remains the practical route because RunPod/ModelScope GLM-5.2 never reached
 healthy endpoint and no external API key is present in-env — the session's own
 Sonnet subagents are the available model.
 
-**Result: 8 new real windows, 8/8 fully valid after a single repair pass. Total
-valid on disk: 24 / 12,797 (0.19%). Sonnet accepted for full production, with the
-single-retry repair path made mandatory.** The archive is not complete; the
-blocker is operational throughput (documented below), not pipeline correctness.
+**Result: two production batches (prod-ramp-01 = 8 windows, prod-ramp-02 = 16
+windows), all 24 new windows fully valid after repair. Total valid on disk: 40 /
+12,797 (0.31%). Sonnet accepted for full production, with the single-retry repair
+path made mandatory and subagent concurrency capped at ≤8.** The archive is not
+complete in this session; the blocker is operational throughput (documented
+below), not pipeline correctness. An idempotent daily resume task
+(`ontology-archive-grind`, 02:21 local) now continues the run autonomously until
+the archive is complete — see "Autonomous resume" below.
+
+> **Update — prod-ramp-02 (16 windows, mixed Sanskrit Law + Kawi).** 16/16 valid
+> after repair. First-attempt full-validity 10/16 (of the 13 that produced output;
+> 3 hit transient API Overloaded / Connection-closed errors at concurrency 16 and
+> wrote nothing — **lesson: cap subagent concurrency at ≤8**). All 6 re-dispatched
+> windows validated; one (brhaspati part004) needed a second retry for a reversed
+> range its own self-check missed. Cumulative across 40 windows: valid JSON 100%,
+> paragraph-anchor validity 100%, enrichment 100%, **0 quote leaks**. Batch cost
+> ~$3.57 ($0.22/valid window; ~10.3k prompt + 12.8k completion tokens avg — cheaper
+> than prod-ramp-01 because the Kawi texts are shorter than dharmaśāstra).
+> Extraction volume (40 windows): 1,649 entities, 383 themes, 228 citations, 591
+> quote events; 16,845 quotes attached (29.8% paragraph-level fallback). Kawi names
+> preserved in original transliteration (Kuñjarakarṇa, Pūrṇavijaya, Gandhavatī) per
+> the source-anchored rule — no Sanskrit-IAST normalization.
 
 ## Method
 
@@ -41,7 +59,12 @@ blocker is operational throughput (documented below), not pipeline correctness.
 | batch-8 (benchmark) | 7 | 7 | 100.0% | 0 | 276.0s | 73.9 | $1.54 | $0.2194 | healthy |
 | batch-16 (benchmark) | 8 | 8 | 100.0% | 2 | 1111.0s | 25.2 | $2.48 | $0.3100 | healthy |
 | **prod-ramp-01** | **8** | **8** | **100.0%** | **5** | **276.0s / 419.0s repair** | **~131 @16w (8.2/worker)** | **$2.04** | **$0.2550** | **healthy after repair** |
-| cumulative | 24 | 24 | 100.0% | 7 | — | concurrency-bound | $6.40 | $0.2665 | healthy |
+| **prod-ramp-02** | **16** | **16** | **100.0%** | **7** | **~5–6m** | **≤8 workers (16 overloaded API)** | **$3.57** | **$0.2229** | **healthy after repair** |
+| cumulative | 40 | 40 | 100.0% | 14 | — | concurrency-bound | $9.96 | $0.2490 | healthy |
+
+prod-ramp-02 first-attempt full-validity was 10/16 (3 windows hit transient API
+Overloaded/Connection-closed at concurrency 16 and wrote nothing; 3 had structure
+slips). All recovered on retry — one needed a second retry. **Cap concurrency ≤8.**
 
 `prod-ramp-01` first-attempt full-validity was **3/8 (37.5%)**; one targeted repair
 pass took it to **8/8 (100%)**.
@@ -108,6 +131,21 @@ The pipeline is proven correct; the blocker is purely operational throughput:
 `ontology-sonnet-production.ts` is idempotent by design (skips already-valid
 windows, quarantines failures), so the run resumes incrementally without redoing
 work — each future session just runs `prepare --count N` → dispatch → `finalize`.
+
+## Autonomous resume
+
+A local scheduled task **`ontology-archive-grind`** (daily at 02:21 local, aligned
+to the usage-window reset) resumes the run unattended: each firing loops
+`prepare --count 24` → dispatch ≤8 concurrent Sonnet subagents per window →
+`finalize` → single-retry the failure queue, until the 5-hour window is exhausted
+or `prepare` reports 0 remaining (archive complete). It is fully self-contained
+(a fresh session has no memory of this one) and safe to re-run because the driver
+skips already-valid and already-claimed windows. A cloud routine could not be used
+— the run dir and corpus live on the local filesystem, which cloud agents can't
+reach. At ~8 valid windows/hr/worker and ≤8 workers within each ~5h window, the
+remaining ~12,757 windows complete over roughly 3–6 weeks of daily runs; provide a
+funded metered API route to `ontology-production-run.ts` to compress that to
+~24–49h.
 
 ## Recommendation
 
