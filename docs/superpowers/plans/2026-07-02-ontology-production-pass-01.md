@@ -179,6 +179,14 @@ citations, 2,815 quote events; 56,792 quotes. Valid JSON/anchor/enrichment all
 modes unchanged (occasional missing `evidence_hint` or reversed range, all
 single-retry-recovered).
 
+**Update — prod-ramp-15..16 (to 151 valid, 1.18%).** Finished Plato's Republic
+and processed Aristotle's Nicomachean Ethics (parts 1–12). 151/12,797 valid; 5,223
+entities, 1,422 themes, 1,537 citations, 2,948 quote events; 59,745 quotes. Valid
+JSON/anchor/enrichment all 100%, 0 quote leaks across 16 in-session batches;
+cost/valid ~$0.25. The corpus coverage now spans the full Indic dharmaśāstra
+tranche, the Kawi/Old-Javanese cluster, and Greek philosophy (all of Plato +
+Aristotle's Ethics).
+
 As of prod-ramp-09: **95 / 12,797 windows valid (0.74%)**. Cumulative extraction:
 3,595 entities, 886 themes, 1,226 citations, 2,219 quote events; 46,921 quotes
 attached. Cost/valid window ~$0.28 (Vīramitrodaya digests are citation-dense, so
