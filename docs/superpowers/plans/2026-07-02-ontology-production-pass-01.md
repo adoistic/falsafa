@@ -221,6 +221,14 @@ enrichment all 100%, 0 quote leaks across 27 in-session batches; cost/valid ~$0.
 The steady residual failure mode remains ~1–2 reversed ranges per batch on
 medium/large windows, always recovered by a single paragraph_ids-only retry.
 
+**Update — prod-ramp-27 (to 239 valid, 1.87%).** More Seneca dialogues (On the
+Shortness of Life, To Polybius, On the Happy Life, On Mercy) and Cicero's Lucullus
+completed. 239/12,797 valid; 7,760 entities, 2,287 citations, 4,205 quote events;
+103,615 quotes. Valid JSON/anchor/enrichment all 100%, 0 quote leaks across 28
+in-session batches; cost/valid ~$0.25. The autonomous restart was proven under a
+real 5-hour cap earlier this run (limit hit mid-batch, windows re-ran after the
+reset, nothing lost).
+
 **Update — prod-ramp-21 (to 191 valid, 1.49%).** Euclid's *Elements* completed (14
 parts). 191/12,797 valid; 6,289 entities, 1,762 themes, 1,780 citations, 3,343
 quote events; 89,087 quotes. Valid JSON/anchor/enrichment all 100%, 0 quote leaks
