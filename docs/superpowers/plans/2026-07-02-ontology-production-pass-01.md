@@ -234,6 +234,14 @@ reset, nothing lost).
 quotes. Valid JSON/anchor/enrichment all 100%, 0 quote leaks across 29 in-session
 batches; cost/valid ~$0.25.
 
+**Update — prod-ramp-29 (to 255 valid, 1.99%).** Cicero's *On the Nature of the
+Gods* (8 parts) — theology-dense, up to 127 entities/window (gods, constellations,
+philosophical schools). 255/12,797 valid; 8,521 entities, 2,421 citations, 4,515
+quote events; 107,178 quotes. Valid JSON/anchor/enrichment all 100%, 0 quote leaks
+across 30 in-session batches; cost/valid ~$0.25. A third (rare) failure mode
+appeared once — a `figure_kind` field on a non-figure entity — recovered by the
+same single retry.
+
 **Update — prod-ramp-21 (to 191 valid, 1.49%).** Euclid's *Elements* completed (14
 parts). 191/12,797 valid; 6,289 entities, 1,762 themes, 1,780 citations, 3,343
 quote events; 89,087 quotes. Valid JSON/anchor/enrichment all 100%, 0 quote leaks
