@@ -141,14 +141,23 @@ work — each future session just runs `prepare --count N` → dispatch → `fin
 | prod-ramp-03 | 48 | 100% | 100% | 100% | 0 | Manusmṛti 3–10 |
 | prod-ramp-04 | 55 | 100% | 100% | 100% | 0 | Manusmṛti 11–14, Nāradasmṛti 2–4 |
 | prod-ramp-05 | 63 | 100% | 100% | 100% | 0 | Nāradasmṛti 1, Parāśara Smṛti 1–3, Kawi Buddhist (Kamahāyānikan 1–3, Mahājñāna 1) |
+| prod-ramp-06 | 71 | 100% | 100% | 100% | 0 | Kawi (Tattvajñāna 1–3, Ślokāntara 1–3), Viṣṇu Smṛti 1–2 |
+| prod-ramp-07 | 79 | 100% | 100% | 100% | 0 | Viṣṇu Smṛti 3–7, Vīramitrodaya 1–3 |
 
-As of prod-ramp-05: **63 / 12,797 windows valid (0.49%)**. Cumulative extraction:
-2,373 entities, 611 themes, 341 citations, 843 quote events; 25,577 quotes
-attached (29.6% paragraph-fallback). Cost/valid window $0.23; full-archive est.
-~$3,000. First-attempt schema-validity climbed batch over batch as the dispatch
-reminders sharpened (prod-ramp-05 needed **zero** repairs). The single recurring
-failure mode is a `paragraph_range` evidence object carrying a leftover
-`paragraph_ids` key — now pre-empted by an explicit "no leftover key" reminder.
+As of prod-ramp-07: **79 / 12,797 windows valid (0.62%)** across 30 distinct works.
+Cumulative extraction: 2,913 entities, 779 themes, 520 citations, 1,202 quote
+events; 32,936 quotes attached (32.5% paragraph-fallback). Cost/valid window
+$0.24; full-archive est. ~$3,090.
+
+Two recurring failure modes, both fully recovered by the single-retry repair path
+(0 unrecovered, 0 quote leaks across all 79):
+1. A `paragraph_range` evidence object carrying a leftover `paragraph_ids` key —
+   pre-empted by an explicit "no leftover key" reminder (prod-ramp-04/05/06 hit 0).
+2. A reversed `paragraph_range` (start after end), concentrated in **large windows
+   (>300 paragraphs)** where paragraph order is hard to self-verify — all 3 of
+   prod-ramp-07's failures were Viṣṇu Smṛti windows of 345–501 paragraphs.
+   Mitigation carried into the dispatch/resume prompt: **for windows >300
+   paragraphs, prefer explicit `paragraph_ids` over `paragraph_range`.**
 
 ## Autonomous resume
 
