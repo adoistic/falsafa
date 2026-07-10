@@ -199,6 +199,19 @@ reverses one range — all single-retry-recovered; for the largest verse windows
 forcing `paragraph_ids`-only for every evidence object eliminates reversed ranges
 entirely.
 
+**Update — prod-ramp-19..20 (to 183 valid, 1.43%, 45 works).** All remaining
+Lucretius *De Rerum Natura* windows (13 parts, many 800–990 paragraphs of verse)
+and Euclid's *Elements* (a new mathematical domain — its "citations" are largely
+internal proposition cross-references). 183/12,797 valid; 6,157 entities, 1,711
+themes, 1,715 citations, 3,254 quote events; 80,229 quotes. Valid
+JSON/anchor/enrichment all 100%, 0 quote leaks across 20 in-session batches;
+cost/valid ~$0.25. Two operational notes: (1) one extraction subagent misread its
+task and recursively spawned nested sub-agents rather than writing — the deepest
+one still produced valid output, so no window was lost, but the wrapper should say
+"do the extraction yourself; do not spawn sub-agents"; (2) the Euclid source has a
+few repeated paragraph ids within a window — benign for validation (the id is in
+the allowed set) but worth a dedup pass during reconciliation.
+
 As of prod-ramp-09: **95 / 12,797 windows valid (0.74%)**. Cumulative extraction:
 3,595 entities, 886 themes, 1,226 citations, 2,219 quote events; 46,921 quotes
 attached. Cost/valid window ~$0.28 (Vīramitrodaya digests are citation-dense, so
