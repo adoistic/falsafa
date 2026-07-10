@@ -132,6 +132,24 @@ The pipeline is proven correct; the blocker is purely operational throughput:
 windows, quarantines failures), so the run resumes incrementally without redoing
 work — each future session just runs `prepare --count N` → dispatch → `finalize`.
 
+## Progress log (in-session grind)
+
+| through batch | cumulative valid | valid JSON | anchor validity | enrichment | quote leaks | new material |
+| --- | ---: | ---: | ---: | ---: | ---: | --- |
+| prod-ramp-01 | 24 | 100% | 100% | 100% | 0 | Āṅgirasa/Bṛhaspati Smṛti |
+| prod-ramp-02 | 40 | 100% | 100% | 100% | 0 | Kātyāyana Smṛti, Kawi (Ganapatitattva, Kuñjarakarṇa, Kalpabuddha), Manu 1–2 |
+| prod-ramp-03 | 48 | 100% | 100% | 100% | 0 | Manusmṛti 3–10 |
+| prod-ramp-04 | 55 | 100% | 100% | 100% | 0 | Manusmṛti 11–14, Nāradasmṛti 2–4 |
+| prod-ramp-05 | 63 | 100% | 100% | 100% | 0 | Nāradasmṛti 1, Parāśara Smṛti 1–3, Kawi Buddhist (Kamahāyānikan 1–3, Mahājñāna 1) |
+
+As of prod-ramp-05: **63 / 12,797 windows valid (0.49%)**. Cumulative extraction:
+2,373 entities, 611 themes, 341 citations, 843 quote events; 25,577 quotes
+attached (29.6% paragraph-fallback). Cost/valid window $0.23; full-archive est.
+~$3,000. First-attempt schema-validity climbed batch over batch as the dispatch
+reminders sharpened (prod-ramp-05 needed **zero** repairs). The single recurring
+failure mode is a `paragraph_range` evidence object carrying a leftover
+`paragraph_ids` key — now pre-empted by an explicit "no leftover key" reminder.
+
 ## Autonomous resume
 
 A local scheduled task **`ontology-archive-grind`** (daily at 02:21 local, aligned
