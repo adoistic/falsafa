@@ -242,6 +242,17 @@ across 30 in-session batches; cost/valid ~$0.25. A third (rare) failure mode
 appeared once — a `figure_kind` field on a non-figure entity — recovered by the
 same single retry.
 
+**Update — prod-ramp-31..33 (to 287 valid, 2.24% — crossed 10,000 entities).**
+Cicero *Tusculan Disputations* (12 parts, entity-dense — this material stresses
+ranges, ~5 reversed-range slips in one batch, all paragraph_ids-recovered) and
+Seneca *On Benefits*. 287/12,797 valid; 10,166 entities, 2,834 citations; 114,485
+quotes. Valid JSON/anchor/enrichment all 100%, 0 quote leaks across 34 in-session
+batches; cost/valid ~$0.25. Data note: the Seneca *On Benefits* source is not
+paragraph-segmented — each "part" is one giant single-paragraph window, so all its
+entities anchor to one id (coarse granularity; flag for reconciliation). A
+one-time reset-aligned resume task (07:25 IST) supplements the daily 02:21 task so
+a cap hit before the mid-morning reset also auto-resumes.
+
 **Update — prod-ramp-30 (to 263 valid, 2.06% — crossed 2% of the archive).** Seneca
 *On Tranquillity of Mind* and Cicero *On Moral Ends* (De Finibus). 263/12,797 valid;
 8,926 entities, 2,532 citations, 4,712 quote events; 109,462 quotes. Valid
