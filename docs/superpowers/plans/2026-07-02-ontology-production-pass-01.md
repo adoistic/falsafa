@@ -350,3 +350,47 @@ Preserved on disk under `corpus/graph/ontology-runs/2026-07-02-sonnet-benchmark/
 `production-run-summary.{json,md}`, `production-batches.json`, `prod-timings.json`,
 and the per-window `windows/*.{anchor,enriched,meta}.json`.
 Committed: `scripts/graph/ontology-sonnet-production.ts` and this note.
+
+## Cloud resume (claude.ai Claude Code) via R2
+
+The run state is NOT in git (the run dir is git-ignored, 152 MB). To resume the
+grind in a fresh claude.ai cloud session — which only sees the pushed GitHub
+branch `feat/citation-graph-pipeline` — the **399 model responses (23 MB)** were
+copied to a dedicated Cloudflare R2 bucket. `finalize` deterministically rebuilds
+the 128 MB of `enriched`/`meta` from those responses + the corpus, so responses
+are the only state that must travel.
+
+- **Bucket / prefix:** `r2:falsafa-ontology-runs/2026-07-02-sonnet-benchmark/`
+  (isolated from the live-site bucket `falsafaai`, whose deploy does a destructive
+  `rclone sync`; never point the site deploy at this bucket). Holds
+  `responses/*.response.txt` (399), plus `production-batches.json`,
+  `production-run-summary.json`, `HANDOFF-FIRST-SESSION.md`. Uploaded with
+  `rclone copy` (never `sync`), so re-uploads are additive.
+- **Credentials:** the cloud sandbox has none of the local secrets. Add the R2 S3
+  vars from `~/.config/falsafa-deploy.env` (`RCLONE_CONFIG_R2_TYPE=s3`,
+  `RCLONE_CONFIG_R2_PROVIDER=Cloudflare`, `RCLONE_CONFIG_R2_ACCESS_KEY_ID`,
+  `RCLONE_CONFIG_R2_SECRET_ACCESS_KEY`, `RCLONE_CONFIG_R2_ENDPOINT`) as
+  environment secrets in the claude.ai project settings. Do NOT commit their
+  values. (Optional simplification: make the bucket public-read and pull the
+  responses over HTTPS with `curl`, no creds — the payload is non-sensitive.)
+- **Resume steps in the cloud session:**
+  ```bash
+  # 0. rclone present? else: curl -fsSL https://rclone.org/install.sh | sudo bash
+  cd <repo> && bun install
+  RUN=corpus/graph/ontology-runs/2026-07-02-sonnet-benchmark
+  mkdir -p "$RUN/responses"
+  rclone copy r2:falsafa-ontology-runs/2026-07-02-sonnet-benchmark/responses "$RUN/responses"
+  rclone copy r2:falsafa-ontology-runs/2026-07-02-sonnet-benchmark/production-batches.json "$RUN/"
+  bun scripts/graph/ontology-sonnet-production.ts finalize   # rebuilds enriched+meta → reports ~399 valid
+  # then continue the normal loop: prepare --count 8 --batch prod-ramp-NN → dispatch ≤8 → finalize
+  ```
+- **Push new state back:** at each cloud session boundary, mirror the freshly
+  written responses back so the next resume sees them:
+  `rclone copy "$RUN/responses" r2:falsafa-ontology-runs/2026-07-02-sonnet-benchmark/responses`.
+- **Caveat:** claude.ai Claude Code draws on the **same** Claude subscription /
+  5-hour usage window as local. It moves the grind off the laptop (cloud,
+  unattended) but grants no extra throughput and does not resolve the
+  no-metered-route blocker; running cloud + local at once competes for one limit.
+
+The full paste-in continuation prompt is `HANDOFF-FIRST-SESSION.md` (on disk +
+in R2).
