@@ -232,7 +232,7 @@ reset, nothing lost).
 **Update — prod-ramp-28 (to 247 valid, 1.93%).** Seneca's *On Mercy* and the full
 *On Anger* (7 parts). 247/12,797 valid; 7,967 entities, 2,326 citations; 104,854
 quotes. Valid JSON/anchor/enrichment all 100%, 0 quote leaks across 29 in-session
-batches; cost/valid ~$0.25.
+batches; cost/valid ~$0.25. prod-ramp-31 added Cicero On Moral Ends (De Finibus, complete) + Tusculan Disputations start → 271 valid (2.12%), 9,340 entities, 111,655 quotes. A one-time reset-aligned resume task (07:25 IST 2026-07-11) was added to catch the mid-morning usage-window reset in addition to the daily 02:21 task.
 
 **Update — prod-ramp-29 (to 255 valid, 1.99%).** Cicero's *On the Nature of the
 Gods* (8 parts) — theology-dense, up to 127 entities/window (gods, constellations,
@@ -246,7 +246,7 @@ same single retry.
 *On Tranquillity of Mind* and Cicero *On Moral Ends* (De Finibus). 263/12,797 valid;
 8,926 entities, 2,532 citations, 4,712 quote events; 109,462 quotes. Valid
 JSON/anchor/enrichment all 100%, 0 quote leaks across 31 in-session batches;
-cost/valid ~$0.25.
+cost/valid ~$0.25. prod-ramp-31 added Cicero On Moral Ends (De Finibus, complete) + Tusculan Disputations start → 271 valid (2.12%), 9,340 entities, 111,655 quotes. A one-time reset-aligned resume task (07:25 IST 2026-07-11) was added to catch the mid-morning usage-window reset in addition to the daily 02:21 task.
 
 **Update — prod-ramp-21 (to 191 valid, 1.49%).** Euclid's *Elements* completed (14
 parts). 191/12,797 valid; 6,289 entities, 1,762 themes, 1,780 citations, 3,343
