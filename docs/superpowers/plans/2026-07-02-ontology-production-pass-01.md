@@ -381,7 +381,7 @@ are the only state that must travel.
 - **Resume steps in the cloud session (no creds):**
   ```bash
   cd <repo> && bun install
-  BASE=https://pub-<hash>.r2.dev/2026-07-02-sonnet-benchmark   # from dashboard
+  BASE=https://pub-88ffad6f37754be2b0e33466951a5135.r2.dev/2026-07-02-sonnet-benchmark   # from dashboard
   RUN=corpus/graph/ontology-runs/2026-07-02-sonnet-benchmark
   mkdir -p "$RUN/responses"
   curl -fsSL "$BASE/responses-manifest.txt" -o "$RUN/responses-manifest.txt"
