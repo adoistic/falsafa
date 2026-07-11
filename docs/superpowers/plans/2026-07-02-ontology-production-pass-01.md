@@ -242,6 +242,13 @@ across 30 in-session batches; cost/valid ~$0.25. A third (rare) failure mode
 appeared once — a `figure_kind` field on a non-figure entity — recovered by the
 same single retry.
 
+**Update — prod-ramp-34..35 (to 303 valid, 2.37% — crossed 3,000 citations).**
+Cicero *On the Commonwealth* (De Re Publica) and the start of Seneca's *Letters to
+Lucilius*. 303/12,797 valid; 10,807 entities, 3,001 citations; 118,318 quotes.
+Valid JSON/anchor/enrichment all 100%, 0 quote leaks across 36 in-session batches;
+cost/valid ~$0.25. The `figure_kind`-on-a-non-figure slip recurred (2nd time) —
+still single-retry-recovered.
+
 **Update — prod-ramp-31..33 (to 287 valid, 2.24% — crossed 10,000 entities).**
 Cicero *Tusculan Disputations* (12 parts, entity-dense — this material stresses
 ranges, ~5 reversed-range slips in one batch, all paragraph_ids-recovered) and
