@@ -366,27 +366,39 @@ are the only state that must travel.
   `responses/*.response.txt` (399), plus `production-batches.json`,
   `production-run-summary.json`, `HANDOFF-FIRST-SESSION.md`. Uploaded with
   `rclone copy` (never `sync`), so re-uploads are additive.
-- **Credentials:** the cloud sandbox has none of the local secrets. Add the R2 S3
-  vars from `~/.config/falsafa-deploy.env` (`RCLONE_CONFIG_R2_TYPE=s3`,
-  `RCLONE_CONFIG_R2_PROVIDER=Cloudflare`, `RCLONE_CONFIG_R2_ACCESS_KEY_ID`,
-  `RCLONE_CONFIG_R2_SECRET_ACCESS_KEY`, `RCLONE_CONFIG_R2_ENDPOINT`) as
-  environment secrets in the claude.ai project settings. Do NOT commit their
-  values. (Optional simplification: make the bucket public-read and pull the
-  responses over HTTPS with `curl`, no creds — the payload is non-sensitive.)
-- **Resume steps in the cloud session:**
+- **Access = public read, no credentials.** The bucket is served over its R2
+  public dev URL (`https://pub-<hash>.r2.dev`), so the cloud sandbox pulls with
+  plain `curl` — no secrets to paste. The payload is non-sensitive (ontology JSON
+  over public-domain texts). Enable once (management-plane op; the local wrangler
+  OAuth lacks R2-admin scope, so do it in the dashboard: **R2 → falsafa-ontology-runs
+  → Settings → Public access → R2.dev subdomain → Allow Access**, or
+  `wrangler login` then `wrangler r2 bucket dev-url enable falsafa-ontology-runs`).
+  The command/dashboard prints the `pub-<hash>.r2.dev` base URL — substitute it for
+  `$BASE` below.
+- **Listing:** r2.dev serves objects by key but cannot list a bucket, so a flat
+  `responses-manifest.txt` (399 keys) sits at the prefix root alongside the
+  responses and the metadata files.
+- **Resume steps in the cloud session (no creds):**
   ```bash
-  # 0. rclone present? else: curl -fsSL https://rclone.org/install.sh | sudo bash
   cd <repo> && bun install
+  BASE=https://pub-<hash>.r2.dev/2026-07-02-sonnet-benchmark   # from dashboard
   RUN=corpus/graph/ontology-runs/2026-07-02-sonnet-benchmark
   mkdir -p "$RUN/responses"
-  rclone copy r2:falsafa-ontology-runs/2026-07-02-sonnet-benchmark/responses "$RUN/responses"
-  rclone copy r2:falsafa-ontology-runs/2026-07-02-sonnet-benchmark/production-batches.json "$RUN/"
+  curl -fsSL "$BASE/responses-manifest.txt" -o "$RUN/responses-manifest.txt"
+  curl -fsSL "$BASE/production-batches.json" -o "$RUN/production-batches.json"
+  # pull all 399 seed responses in parallel
+  xargs -P16 -I{} curl -fsSL "$BASE/{}" --create-dirs -o "$RUN/{}" < "$RUN/responses-manifest.txt"
   bun scripts/graph/ontology-sonnet-production.ts finalize   # rebuilds enriched+meta → reports ~399 valid
   # then continue the normal loop: prepare --count 8 --batch prod-ramp-NN → dispatch ≤8 → finalize
   ```
-- **Push new state back:** at each cloud session boundary, mirror the freshly
-  written responses back so the next resume sees them:
-  `rclone copy "$RUN/responses" r2:falsafa-ontology-runs/2026-07-02-sonnet-benchmark/responses`.
+- **Persisting new progress (public URL is read-only):** the cloud session cannot
+  write back over the public URL. Cheapest path — since claude.ai Claude Code is
+  already git-authenticated to the connected repo — have it force-add its new
+  responses to a progress branch and push:
+  `git add -f "$RUN/responses" "$RUN/production-batches.json" && git commit -m "cloud grind prod-ramp-NN" && git push origin HEAD`.
+  The next cloud session then already has them via git (R2 was only the one-time
+  seed to avoid an initial 24 MB git commit). Alternative: mint a bucket-scoped
+  **Object Read & Write** token and `rclone copy` new responses back to R2.
 - **Caveat:** claude.ai Claude Code draws on the **same** Claude subscription /
   5-hour usage window as local. It moves the grind off the laptop (cloud,
   unattended) but grants no extra throughput and does not resolve the
