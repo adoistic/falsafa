@@ -1,0 +1,44 @@
+{
+  "work_slug": "mary-jones-poems-b9b9d2",
+  "work_title": "Poems",
+  "chapter_number": 44,
+  "chapter_title": "Written on some Ivory Leaves.",
+  "chapter_slug": "44-written-on-some-ivory-leaves",
+  "author": "Mary Jones",
+  "author_slug": "mary-jones",
+  "ecpa_poem_id": "pjo50-w0440",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "occasional poem"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "sestet (6 lines)"
+    ],
+    "rhyme": "aabbcc",
+    "syllable_pattern": "8.8.8.8.8.8",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/",
+    "line_count": 6
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9dc0304b-3fce-5441-b919-855928410480",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 43,
+      "line_count": 7,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "work_slug": "anne-hunter-poems-81c841",
+  "work_title": "Poems",
+  "chapter_number": 14,
+  "chapter_title": "CARISBROOK CASTLE, A POEM, WITH NOTES.",
+  "chapter_slug": "14-carisbrook-castle-a-poem-with-notes",
+  "author": "Anne Hunter",
+  "author_slug": "anne-hunter",
+  "ecpa_poem_id": "bah18-w0140",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "octet (8 lines)"
+    ],
+    "rhyme": "ababccdd",
+    "syllable_pattern": "8.8.8.8.8.8.8.12",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+|-+|-+/",
+    "line_count": 176
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1d841cf6-0c98-5c5a-8e8d-8447d64eb357",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1133,
+      "line_count": 178,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

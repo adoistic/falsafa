@@ -1,0 +1,44 @@
+{
+  "work_slug": "thomas-paine-poems-68a852",
+  "work_title": "Poems",
+  "chapter_number": 7,
+  "chapter_title": "Death of General Wolfe Set to Music by a gentleman of this country, the words by Atlanticus",
+  "chapter_slug": "07-death-of-general-wolfe-set-to-music-by-a-gentlem",
+  "author": "Thomas Paine",
+  "author_slug": "thomas-paine",
+  "ecpa_poem_id": "tpc26-w0070",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "fable"
+    ],
+    "foot": "anapaestic (˘˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "octet (8 lines)"
+    ],
+    "rhyme": "xaxaxbxb",
+    "syllable_pattern": "11.8.11.8.11.8.11.8",
+    "metrical_pattern": "-+|--+|--+|--+/ -+|--+|--+/ -+|--+|--+|--+/ -+|--+|--+/ -+|--+|--+|--+/ -+|--+|--+/ -+|--+|--+|--+/ -+|--+|--+/",
+    "line_count": 32
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2a911eff-4bc3-510f-96b4-86ae69a28b50",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 272,
+      "line_count": 38,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

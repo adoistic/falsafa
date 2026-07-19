@@ -1,0 +1,46 @@
+{
+  "work_slug": "william-collins-poems-b390dd",
+  "work_title": "Poems",
+  "chapter_number": 16,
+  "chapter_title": "ODE, to a LADY. On the Death of Col. Charles Ross, in the Action at Fontenoy. Written May 1745.",
+  "chapter_slug": "16-ode-to-a-lady-on-the-death-of-col-charles-ross-i",
+  "author": "William Collins",
+  "author_slug": "william-collins",
+  "ecpa_poem_id": "o5152-w0360",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "Song to David-stanza",
+      "ode",
+      "elegy"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "sestet (6 lines)"
+    ],
+    "rhyme": "aabccb",
+    "syllable_pattern": "8.8.6.8.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/     -+|-+|-+|-+/     -+|-+|-+/     -+|-+|-+|-+/     -+|-+|-+|-+/     -+|-+|-+/",
+    "line_count": 48
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "66e1cfa9-fba1-55c9-a10c-45c192f91737",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 301,
+      "line_count": 59,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

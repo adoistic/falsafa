@@ -1,0 +1,41 @@
+{
+  "work_slug": "hannah-cowley-poems-76f581",
+  "work_title": "Poems",
+  "chapter_number": 2,
+  "chapter_title": "LINES IN IMITATION OF COWLEY.",
+  "chapter_slug": "02-lines-in-imitation-of-cowley",
+  "author": "Hannah Cowley",
+  "author_slug": "hannah-cowley",
+  "ecpa_poem_id": "o4029-w0020",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "imitation"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "rhyme": "aabbcddc",
+    "syllable_pattern": "8.8.8.8.10.8.8.10",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+|-+/",
+    "line_count": 24
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f484ff68-5904-55d7-bdb6-3585a99b19ad",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 170,
+      "line_count": 25,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

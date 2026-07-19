@@ -1,0 +1,40 @@
+{
+  "work_slug": "james-macpherson-poems-bc4ce0",
+  "work_title": "Poems",
+  "chapter_number": 17,
+  "chapter_title": "COMÁLA: A DRAMATIC POEM.",
+  "chapter_slug": "17-comala-a-dramatic-poem",
+  "author": "James Macpherson",
+  "author_slug": "james-macpherson",
+  "ecpa_poem_id": "o5164-w0020",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "prose poem",
+      "imitation",
+      "translation",
+      "paraphrase",
+      "drama"
+    ],
+    "line_count": 28
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "54c80d81-ff97-58bb-9f0f-5b9cebf91190",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1491,
+      "line_count": 57,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "work_slug": "elizabeth-hands-poems-def5d6",
+  "work_title": "Poems",
+  "chapter_number": 8,
+  "chapter_title": "A PASTORAL. [Young Corydon, a blithesome swain]",
+  "chapter_slug": "08-a-pastoral-young-corydon-a-blithesome-swain",
+  "author": "Elizabeth Hands",
+  "author_slug": "elizabeth-hands",
+  "ecpa_poem_id": "peh89-w0080",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "pastoral"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "xaxa",
+    "syllable_pattern": "8.6.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 52
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "cb144464-5e49-5e82-a360-ac714a1778e5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 307,
+      "line_count": 56,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

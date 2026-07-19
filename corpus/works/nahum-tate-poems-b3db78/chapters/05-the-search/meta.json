@@ -1,0 +1,37 @@
+{
+  "work_slug": "nahum-tate-poems-b3db78",
+  "work_title": "Poems",
+  "chapter_number": 5,
+  "chapter_title": "The Search.",
+  "chapter_slug": "05-the-search",
+  "author": "Nahum Tate",
+  "author_slug": "nahum-tate",
+  "ecpa_poem_id": "oat77-w0050",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "stanzas": [
+      "triplet (3 lines)"
+    ],
+    "metrical_pattern": "irregular",
+    "line_count": 89
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f0380448-afb5-5379-bd1d-e2ade6e43782",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 568,
+      "line_count": 94,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

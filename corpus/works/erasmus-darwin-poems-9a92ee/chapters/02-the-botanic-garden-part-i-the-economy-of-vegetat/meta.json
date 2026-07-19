@@ -1,0 +1,45 @@
+{
+  "work_slug": "erasmus-darwin-poems-9a92ee",
+  "work_title": "Poems",
+  "chapter_number": 2,
+  "chapter_title": "[THE BOTANIC GARDEN. PART I. THE ECONOMY OF VEGETATION.]",
+  "chapter_slug": "02-the-botanic-garden-part-i-the-economy-of-vegetat",
+  "author": "Erasmus Darwin",
+  "author_slug": "erasmus-darwin",
+  "ecpa_poem_id": "o4671-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "essay"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 2440
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "28ebcc3d-b3c3-5d34-b4f6-b7d7edb5d71a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 18771,
+      "line_count": 2458,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

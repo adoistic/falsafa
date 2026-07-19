@@ -1,0 +1,45 @@
+{
+  "work_slug": "george-bubb-dodington-poems-37232e",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "To the Right Hon. Sir ROBERT WALPOLE.",
+  "chapter_slug": "04-to-the-right-hon-sir-robert-walpole",
+  "author": "George Bubb Dodington",
+  "author_slug": "george-bubb-dodington",
+  "ecpa_poem_id": "o5157-w0150",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "epistle"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 166
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "49864f19-27b1-5def-96ec-a6fe5e64b5f8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1329,
+      "line_count": 168,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

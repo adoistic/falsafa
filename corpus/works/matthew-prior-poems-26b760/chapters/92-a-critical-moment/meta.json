@@ -1,0 +1,44 @@
+{
+  "work_slug": "matthew-prior-poems-26b760",
+  "work_title": "Poems",
+  "chapter_number": 92,
+  "chapter_title": "A Critical Moment.",
+  "chapter_slug": "92-a-critical-moment",
+  "author": "Matthew Prior",
+  "author_slug": "matthew-prior",
+  "ecpa_poem_id": "pmp18-w0860",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "epigram"
+    ],
+    "foot": "anapaestic (˘˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "12.12",
+    "metrical_pattern": "--+|--+|--+|--+/ --+|--+|--+|--+/",
+    "line_count": 2
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7f0317de-6d80-56ae-8962-0b898836a802",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 23,
+      "line_count": 3,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

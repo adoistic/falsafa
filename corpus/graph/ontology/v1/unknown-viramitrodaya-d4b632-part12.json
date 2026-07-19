@@ -1,0 +1,912 @@
+{
+  "slug": "unknown-viramitrodaya-d4b632",
+  "window": "01:2404-2628",
+  "entities": [
+    {
+      "canonical_name": "Bṛhaspati",
+      "surface_names": ["Bṛhaspati", "preceptor of the gods", "Jupiter (deity)"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-064d45",
+          "quote": "Bṛhaspati also says: One should perform the obligatory and occasional rites with restraint in an intercalary month.",
+          "role": "cited authority on intercalary month rites"
+        },
+        {
+          "paragraph_id": "p-f9ccc7",
+          "quote": "Bṛhaspati says: One should perform the obligatory and occasional rites with restraint in an intercalary month.",
+          "role": "cited authority confirming obligatory rites rule"
+        },
+        {
+          "paragraph_id": "p-3cd041",
+          "quote": "Bṛhaspati says: When Venus is in its juvenility, old age, or has set, one should avoid these as in an intercalary month, and the seeing of a deity.",
+          "role": "cited authority on Venus invisibility prohibitions"
+        }
+      ],
+      "description": "Ancient sage and legal authority whose smṛti verses are cited repeatedly to establish rules about rites in intercalary months and during Venus's invisibility.",
+      "justification": "Bṛhaspati is cited by name three times in the window as a textual authority on dharmaśāstra rules."
+    },
+    {
+      "canonical_name": "Yama",
+      "surface_names": ["Yama"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-20652e",
+          "quote": "Yama says: Bathing at an eclipse of the moon and sun, the ancestral rite, giving, recitation, etc., should be performed even in an intercalary month.",
+          "role": "cited authority permitting certain rites in intercalary month"
+        },
+        {
+          "paragraph_id": "p-ae2ce5",
+          "quote": "Yama also says: The annual rite that is the first, that one should perform in an intercalary month.",
+          "role": "cited authority on the first annual śrāddha"
+        }
+      ],
+      "description": "The deity of death and dharmic authority, whose smṛti statements are cited to permit certain ancestral and eclipse-related rites even in an intercalary month.",
+      "justification": "Yama is named as the speaker of two separate quoted verses within this window."
+    },
+    {
+      "canonical_name": "Vyāsa",
+      "surface_names": ["Vyāsa"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-2c4357",
+          "quote": "The ancestral rite at the Jātakarma, and the ancestral rite on the new moon day likewise, should be performed even in an intercalary month; this is the word of Vyāsa.",
+          "role": "cited authority on new-moon śrāddha"
+        },
+        {
+          "paragraph_id": "p-ef3af4",
+          "quote": "by this verse of Vyāsa, it is understood that the ancestral rite on the new moon day should also be performed in an intercalary month",
+          "role": "textual basis for pārvaṇa śrāddha in intercalary month"
+        },
+        {
+          "paragraph_id": "p-a2db7e",
+          "quote": "For those who have died in an extra month, one should resort to the solar reckoning. That very day is his for the śrāddha, piṇḍa, water, etc.",
+          "role": "cited authority on annual śrāddha for those who died in intercalary month"
+        }
+      ],
+      "description": "The legendary sage and compiler whose smṛti verses are cited to determine rules for the pārvaṇa ancestral rite and the annual śrāddha for those who died in intercalary months.",
+      "justification": "Vyāsa is named three times as a verse-source within the window."
+    },
+    {
+      "canonical_name": "Hārīta",
+      "surface_names": ["Hārīta", "Laghu Hārīta"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-a6fbc9",
+          "quote": "Hārīta says: The first annual rite should be performed by the twice-born even in a month without a saṅkrānti.",
+          "role": "cited authority on first annual śrāddha"
+        },
+        {
+          "paragraph_id": "p-e5ebe2",
+          "quote": "in this verse of Laghu Hārīta, after stating 'the Fathers and Soma at the end,' and then stating the nature of the intercalary month",
+          "role": "textual basis for Piṇḍapitṛyajña in intercalary month"
+        },
+        {
+          "paragraph_id": "p-6c642d",
+          "quote": "Laghu Hārīta also says: The offering of the piṇḍa should be performed by the sons year after year in the twelfth month.",
+          "role": "cited authority on annual piṇḍa offering"
+        }
+      ],
+      "description": "Dharmaśāstra authority (cited both as 'Hārīta' and 'Laghu Hārīta') whose verses govern the timing of the first annual śrāddha and piṇḍa offerings relative to intercalary months.",
+      "justification": "Hārīta/Laghu Hārīta is cited by name three times in the window with quoted verses."
+    },
+    {
+      "canonical_name": "Marīci",
+      "surface_names": ["Marīci"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-38ec9f",
+          "quote": "Because by this verse of Marīci, it is understood that they should be performed even in an intercalary month.",
+          "role": "cited authority on occasional rites in intercalary month"
+        },
+        {
+          "paragraph_id": "p-0d32de",
+          "quote": "say that from the verses of Marīci, etc.: In each month, on the day of death, the śrāddha that is performed every year",
+          "role": "cited authority on Yugādi śrāddha in both months"
+        }
+      ],
+      "description": "A smṛti authority cited for permitting occasional rites in intercalary months and for the rule that Yugādi śrāddha should be performed in both the intercalary and pure month.",
+      "justification": "Marīci is cited by name twice in the window as a verse-source for specific śrāddha rules."
+    },
+    {
+      "canonical_name": "Kauthumi",
+      "surface_names": ["Kauthumi"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-e6476b",
+          "quote": "As for the verse of Kauthumi: The month that is the thirteenth, in excess of the year, in that thirteenth month, one should not perform an ancestral rite at the waning of the moon.",
+          "role": "cited authority restricting ancestral rite in intercalary month"
+        },
+        {
+          "paragraph_id": "p-03dc4c",
+          "quote": "Kauthumi says: For a year, one should give a pot of water, and curd, and also well-prepared food.",
+          "role": "cited authority on year-long water-pot giving"
+        },
+        {
+          "paragraph_id": "p-55cc5e",
+          "quote": "Kauthumi says: The annual celebration, anointing, etc., should not be performed in an extra month.",
+          "role": "cited authority prohibiting annual celebration in intercalary month"
+        }
+      ],
+      "description": "A smṛti authority cited three times on the prohibition of certain ancestral rites and annual celebrations in intercalary months, and on year-long mortuary giving.",
+      "justification": "Kauthumi is named three times in the window as the speaker of quoted smṛti verses."
+    },
+    {
+      "canonical_name": "Jīmūtavāhana",
+      "surface_names": ["Jīmūtavāhana"],
+      "kind": "figure",
+      "figure_kind": "scholar",
+      "mentions": [
+        {
+          "paragraph_id": "p-349c00",
+          "quote": "As for what is said here by Jīmūtavāhana—'For one who died on a new moon day, the monthly rite occasioned by that should not be increased when the month is increased'—that is not correct.",
+          "role": "opponent view being refuted"
+        },
+        {
+          "paragraph_id": "p-84b25c",
+          "quote": "As for what is said by Anantabhaṭṭa, Hemādri, Jīmūtavāhana, Śūlapāṇi, and others, that the word 'giving' refers to great gifts, and therefore only they are prohibited here, that is not correct.",
+          "role": "opposing commentator whose view is rejected"
+        }
+      ],
+      "description": "Medieval dharmaśāstra scholar (author of Kālaviveka) whose interpretations on the monthly śrāddha and on 'giving' in intercalary months are cited and refuted by the Vīramitrodaya's author.",
+      "justification": "Jīmūtavāhana is named twice and his positions are explicitly contested in the window."
+    },
+    {
+      "canonical_name": "Hemādri",
+      "surface_names": ["Hemādri"],
+      "kind": "figure",
+      "figure_kind": "scholar",
+      "mentions": [
+        {
+          "paragraph_id": "p-84b25c",
+          "quote": "As for what is said by Anantabhaṭṭa, Hemādri, Jīmūtavāhana, Śūlapāṇi, and others, that the word 'giving' refers to great gifts",
+          "role": "opposing commentator on meaning of 'giving'"
+        },
+        {
+          "paragraph_id": "p-1fdca3",
+          "quote": "Hemādri, however, says that only the commencement of an optional rite is prohibited in an intercalary month.",
+          "role": "authority on optional rite completion rule"
+        },
+        {
+          "paragraph_id": "p-6f49f8",
+          "quote": "Hemādri, however, says that 'except for the first year' is connected with 'after the Sapiṇḍīkaraṇa.'",
+          "role": "alternative interpretive position on first-year rites"
+        }
+      ],
+      "description": "Influential dharmaśāstra encyclopedist (author of Caturvargacintāmaṇi) cited three times; his views on optional rites and first-year śrāddha rites are engaged as authoritative alternatives.",
+      "justification": "Hemādri is named three times with distinct opinions on intercalary-month ritual rules."
+    },
+    {
+      "canonical_name": "Śūlapāṇi",
+      "surface_names": ["Śūlapāṇi"],
+      "kind": "figure",
+      "figure_kind": "scholar",
+      "mentions": [
+        {
+          "paragraph_id": "p-84b25c",
+          "quote": "As for what is said by Anantabhaṭṭa, Hemādri, Jīmūtavāhana, Śūlapāṇi, and others",
+          "role": "opposing commentator on 'giving'"
+        },
+        {
+          "paragraph_id": "p-a4954d",
+          "quote": "Śūlapāṇi, however, says: The first annual rite should be performed by the twice-born even in a month without a saṅkrānti.",
+          "role": "authority citing Laghu Hārīta on first monthly śrāddha"
+        },
+        {
+          "paragraph_id": "p-a20ffc",
+          "quote": "In the view of Śūlapāṇi, etc., however, since the fifth fortnight itself, without regard for a connection with Virgo, is the time for the śrāddha",
+          "role": "authority on Mahālaya timing"
+        }
+      ],
+      "description": "Bengal-school dharmaśāstra scholar cited three times for views on dāna, the first annual śrāddha, and the timing of the Mahālaya ancestral rite.",
+      "justification": "Śūlapāṇi is named three times with specific ritual-law opinions."
+    },
+    {
+      "canonical_name": "Vasiṣṭha",
+      "surface_names": ["Vasiṣṭha"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-5649de",
+          "quote": "Vasiṣṭha says: If there is an extra month in the year, one should increase one day for the monthly rite.",
+          "role": "cited authority on increasing monthly rite in intercalary year"
+        },
+        {
+          "paragraph_id": "p-a0182b",
+          "quote": "The verse of Vasiṣṭha: If an extra month should fall when the day of the śrāddha has arrived, one should perform two śrāddhas.",
+          "role": "cited authority on performing two śrāddhas"
+        }
+      ],
+      "description": "Ancient sage-authority cited twice for rules about how to adapt the monthly ancestral rite when an intercalary month occurs within the year of mourning.",
+      "justification": "Vasiṭha is named as the speaker of two quoted verse-passages in the window."
+    },
+    {
+      "canonical_name": "Nārada",
+      "surface_names": ["Nārada"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-155923",
+          "quote": "As for the statement of Nārada: The consecration of a well, pool, tank, etc., and the performance of a sacrifice, one should not perform in an intercalary month, nor great gifts and vows.",
+          "role": "cited authority prohibiting consecrations and mahādānas"
+        }
+      ],
+      "description": "Divine sage whose smṛti verse is cited to establish the prohibition on consecrating structures and making great gifts in an intercalary month.",
+      "justification": "Nārada is cited by name with a verse on prohibitions in intercalary months."
+    },
+    {
+      "canonical_name": "Lalla",
+      "surface_names": ["Lalla"],
+      "kind": "figure",
+      "figure_kind": "scholar",
+      "mentions": [
+        {
+          "paragraph_id": "p-8fffe8",
+          "quote": "For this very reason, Lalla says:",
+          "role": "cited authority at close of window on Jupiter/Venus rules"
+        },
+        {
+          "paragraph_id": "p-b651a1",
+          "quote": "Lalla also says: When the preceptor of the gods is in his debilitation, in retrograde motion, in accelerated motion, in juvenility, old age, or has set, or is in the sign of Leo … renunciation, a journey to a deity, a vow … should be avoided by the good with effort.",
+          "role": "cited jyotiṣa authority on Jupiter-related prohibitions"
+        }
+      ],
+      "description": "Jyotiṣa and dharmaśāstra authority cited for the comprehensive list of rites to be avoided when Jupiter is in various unfavorable states including setting, debilitation, and Leo.",
+      "justification": "Lalla is cited by name with a quoted verse on Jupiter's states and ritual prohibitions."
+    },
+    {
+      "canonical_name": "Garga",
+      "surface_names": ["Garga"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-ddcfb6",
+          "quote": "This verse of Garga, which prohibits the Jātakarma, etc., should be known to apply to those that are not performed at their primary time.",
+          "role": "cited authority on saṃskāra prohibitions in inauspicious times"
+        }
+      ],
+      "description": "Smṛti authority whose verse on saṃskāras (naming, Jātakarma, marriage, etc.) during inauspicious times including intercalary months is cited and carefully qualified.",
+      "justification": "Garga is cited by name as the author of a verse prohibiting saṃskāras in an intercalary month."
+    },
+    {
+      "canonical_name": "Mihira",
+      "surface_names": ["Mihira", "Varāhamihira"],
+      "kind": "figure",
+      "figure_kind": "scholar",
+      "mentions": [
+        {
+          "paragraph_id": "p-162143",
+          "quote": "Mihira says: Many times have been shown in juvenility and also in old age. The greater of them should be taken; the rest are due to a difference of region or in an emergency.",
+          "role": "cited jyotiṣa authority on reconciling different measures of planetary juvenility"
+        }
+      ],
+      "description": "The astronomer Varāhamihira, cited to resolve contradictions between different smṛti sources on the duration of Venus's and Jupiter's juvenility and old age.",
+      "justification": "Mihira is cited by name with a verse resolving regional and emergency variation in planetary-phase durations."
+    },
+    {
+      "canonical_name": "Jyotiḥparāśara",
+      "surface_names": ["Jyotiḥparāśara"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-170bd5",
+          "quote": "Jyotiḥparāśara says: The establishment of the sacred fires, consecration, sacrifices, giving, and vows … should be avoided in an intercalary month.",
+          "role": "cited authority on comprehensive list of prohibited rites"
+        },
+        {
+          "paragraph_id": "p-fa4b14",
+          "quote": "For the worship of an eternal deity, a fault of time does not exist … Because it would lead to a contradiction with this verse of Jyotiḥparāśara.",
+          "role": "authority countering prohibition on repeated deity-worship"
+        }
+      ],
+      "description": "Jyotiṣa-dharmaśāstra authority cited for the comprehensive catalogue of rites forbidden in an intercalary month and for the counter-rule permitting regular deity-worship.",
+      "justification": "Jyotiḥparāśara is named twice as the source of key prohibition verses in this window."
+    },
+    {
+      "canonical_name": "Gauḍas",
+      "surface_names": ["Gauḍas"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-f54087",
+          "quote": "The Gauḍas, however, say that the word 'obligatory' does not mean the necessarily performed pārvaṇa ancestral rite, etc.",
+          "role": "regional school whose interpretive position is presented"
+        }
+      ],
+      "description": "The Bengal-region (Gauḍa) school of dharmaśāstra scholars who offer an alternative reading of 'obligatory' (nitya) rites, restricting its scope to daily rites rather than the pārvaṇa śrāddha.",
+      "justification": "The Gauḍas are named as a collective interpretive school with a distinct hermeneutical position."
+    },
+    {
+      "canonical_name": "Smārtas",
+      "surface_names": ["Smārtas", "Smārta"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-53419f",
+          "quote": "The Smārtas, however, say that the one stated by Varāha should be taken:",
+          "role": "school advocating Varāha's definition of Gajacchāyā"
+        },
+        {
+          "paragraph_id": "p-5b605a",
+          "quote": "the mention of marriage, etc., again is for the purpose of prohibiting them even when they have no other time, says the Smārta.",
+          "role": "authority on scope of intercalary-month prohibition"
+        }
+      ],
+      "description": "The Smārta school of dharmaśāstra practitioners, cited twice for their positions on the Gajacchāyā definition and on the scope of marriage prohibitions in intercalary months.",
+      "justification": "The Smārtas are cited by name as a school with collective positions in two separate interpretive contexts."
+    },
+    {
+      "canonical_name": "Gajacchāyā",
+      "surface_names": ["Gajacchāyā"],
+      "kind": "event",
+      "mentions": [
+        {
+          "paragraph_id": "p-2bff96",
+          "quote": "Here, the Gajacchāyā is the shadow of an elephant itself, as stated by Viśvāmitra",
+          "role": "auspicious moment defined by elephant's shadow"
+        },
+        {
+          "paragraph_id": "p-b4f3f1",
+          "quote": "When the moon is in the lunar mansion of the Fathers, and the sun is in Hasta, and the tithi is the southern one, that is proclaimed as Gajacchāyā.",
+          "role": "astronomical definition of Gajacchāyā"
+        },
+        {
+          "paragraph_id": "p-ca6951",
+          "quote": "When the son of Siṃhikā swallows the sun at the junctions of the festival day, that is proclaimed as Gajacchāyā; one should perform an ancestral rite there.",
+          "role": "Varāha's eclipse-based definition"
+        }
+      ],
+      "description": "An auspicious astronomical conjunction (literally 'elephant's shadow') identified by three competing definitions — the literal shadow of an elephant, an astronomical alignment of moon in Pitṛ-nakṣatra with sun in Hasta, and a solar eclipse — when ancestral rites are especially meritorious.",
+      "justification": "The Gajacchāyā is discussed across three paragraphs with distinct definitional traditions explicitly debated."
+    },
+    {
+      "canonical_name": "Mahālaya",
+      "surface_names": ["Mahālaya"],
+      "kind": "event",
+      "mentions": [
+        {
+          "paragraph_id": "p-ba57a2",
+          "quote": "the Mahālaya, the Aṣṭakā ancestral rite, the Upākarma, etc., whatever rite is enjoined by the clear name of a specific month, one should avoid in an impurity.",
+          "role": "listed among rites prohibited in intercalary month"
+        },
+        {
+          "paragraph_id": "p-1c967b",
+          "quote": "As for the one occasioned by the Mahālaya, if an extra month falls in Śrāvaṇa or Bhādra, then from the verse of the Nāgarakhaṇḍa … since it is enjoined for the seventh fortnight from Āṣāḍhī, the prohibition in an intercalary month is quite clear.",
+          "role": "ancestral rite with specific timing rules relative to intercalary months"
+        },
+        {
+          "paragraph_id": "p-df2705",
+          "quote": "the enumeration of the Mahālaya among the rites to be performed in the Kālādarśa … refers to the sacred ford named Mahālaya.",
+          "role": "disambiguated as a place-name in one text"
+        }
+      ],
+      "description": "The fortnight-long ancestral rite (pitṛpakṣa) in the dark half of Bhādrapada; its precise timing relative to the Virgo solar ingress and to intercalary months is debated at length, with the prohibition in an intercalary Āśvina carefully argued.",
+      "justification": "The Mahālaya is discussed across multiple paragraphs with specific astronomical and textual arguments about its correct timing."
+    },
+    {
+      "canonical_name": "Sapiṇḍīkaraṇa",
+      "surface_names": ["Sapiṇḍīkaraṇa", "Sapiṇḍana"],
+      "kind": "event",
+      "mentions": [
+        {
+          "paragraph_id": "p-3093ec",
+          "quote": "in the Sapiṇḍīkaraṇa, and in the daily rite, one should not avoid an extra month.",
+          "role": "listed among rites permissible in intercalary month"
+        },
+        {
+          "paragraph_id": "p-1a5886",
+          "quote": "the Sapiṇḍana would be impossible. For one who died in Kārttika, the annual rite would fall in Āśvina.",
+          "role": "timing constraint establishing when first annual rite must precede it"
+        },
+        {
+          "paragraph_id": "p-637c49",
+          "quote": "this prohibition of the śrāddha that comes after the Sapiṇḍīkaraṇa applies to rites other than the yugādi śrāddha.",
+          "role": "post-Sapiṇḍana śrāddhas subject to intercalary-month prohibition"
+        }
+      ],
+      "description": "The ritual of joining the deceased into the ancestral community performed during the first year of mourning; it is classified as an occasional rite permissible in intercalary months, and its timing governs when the first annual śrāddha must fall.",
+      "justification": "The Sapiṇḍīkaraṇa appears in three paragraphs as a key ritual whose timing is central to the window's arguments about first-year śrāddhas."
+    },
+    {
+      "canonical_name": "Kapilaṣaṣṭhī",
+      "surface_names": ["Kapilaṣaṣṭhī"],
+      "kind": "event",
+      "mentions": [
+        {
+          "paragraph_id": "p-eb3e68",
+          "quote": "the eclipse of the moon and sun is indicative of an unobtainable conjunction, such as the Kapilaṣaṣṭhī.",
+          "role": "example of an unobtainable conjunction permitting rites"
+        }
+      ],
+      "description": "A rare astronomical conjunction (the sixth tithi associated with Kapila) used as an example of an 'unobtainable' occasion at which rites may be performed even in an intercalary month.",
+      "justification": "The Kapilaṣaṣṭhī is explicitly named as an exemplar of the category of unobtainable conjunctions."
+    },
+    {
+      "canonical_name": "Gayā",
+      "surface_names": ["Gayā"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-9b5cc4",
+          "quote": "At Gayā, at all times, a wise man should give the piṇḍa. In an extra month, on one's birthday, and when Jupiter and Venus have set.",
+          "role": "sacred site where piṇḍa may be given at all times"
+        },
+        {
+          "paragraph_id": "p-180922",
+          "quote": "At the Godāvarī, at Gayā, and at Śrīśaila, at the two eclipses, the fault of the invisibility of the preceptors of the gods and demons does not exist.",
+          "role": "sacred site exempt from planetary invisibility prohibitions"
+        }
+      ],
+      "description": "The sacred site in Bihar where ancestral piṇḍa offerings may be made at all times, even in intercalary months and when Jupiter or Venus has set, providing an explicit counter-injunction to the general prohibitions.",
+      "justification": "Gayā is named twice as a special exemption-site in two different prohibition contexts."
+    },
+    {
+      "canonical_name": "Godāvarī",
+      "surface_names": ["Godāvarī"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-180922",
+          "quote": "At the Godāvarī, at Gayā, and at Śrīśaila, at the two eclipses, the fault of the invisibility of the preceptors of the gods and demons does not exist.",
+          "role": "sacred river exempt from planetary invisibility prohibitions"
+        }
+      ],
+      "description": "A sacred river in the Deccan listed alongside Gayā and Śrīśaila as a site where the fault of performing rites during Jupiter's or Venus's invisibility does not apply.",
+      "justification": "The Godāvarī is named as one of three exemption-sites in the closing section of the window."
+    },
+    {
+      "canonical_name": "Śrīśaila",
+      "surface_names": ["Śrīśaila"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-180922",
+          "quote": "At the Godāvarī, at Gayā, and at Śrīśaila, at the two eclipses, the fault of the invisibility of the preceptors of the gods and demons does not exist.",
+          "role": "sacred site exempt from planetary invisibility prohibitions"
+        }
+      ],
+      "description": "The sacred hill of the Śrī Mallikārjuna temple, listed as one of three special pilgrimage sites where planetary invisibility prohibitions are lifted.",
+      "justification": "Śrīśaila is named as an exemption-site in the same verse as Gayā and Godāvarī."
+    },
+    {
+      "canonical_name": "Gaṅgā",
+      "surface_names": ["Gaṅgā"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-1e72ec",
+          "quote": "At the Gaṅgā, at all times, a wise man should give the piṇḍa. In an extra month, on one's birthday, and when Jupiter and Venus have set.",
+          "role": "sacred river where piṇḍa may be given at all times"
+        }
+      ],
+      "description": "The sacred Ganges river, where ancestral piṇḍa offerings may be performed at all times, including intercalary months and when Jupiter and Venus have set, parallel to the Gayā exemption.",
+      "justification": "The Gaṅgā is explicitly named as an exemption site in the Vāyu Purāṇa verse cited in the window."
+    },
+    {
+      "canonical_name": "Vindhyas",
+      "surface_names": ["Vindhyas"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-da8229",
+          "quote": "Venus and Jupiter, in the east and in the west, are in their juvenility in the Vindhyas for ten days; in Avanti, for seven nights.",
+          "role": "region with its own duration of planetary juvenility"
+        }
+      ],
+      "description": "The Vindhya mountain range, cited as a regional zone with a distinctive (ten-day) measure for the juvenility phase of Venus and Jupiter.",
+      "justification": "The Vindhyas is named as a region in Gārgya's regional-variation verse on planetary juvenility durations."
+    },
+    {
+      "canonical_name": "Avanti",
+      "surface_names": ["Avanti"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-da8229",
+          "quote": "Venus and Jupiter, in the east and in the west, are in their juvenility in the Vindhyas for ten days; in Avanti, for seven nights.",
+          "role": "region with its own duration of planetary juvenility"
+        }
+      ],
+      "description": "The ancient region of Avanti (modern Ujjain area), cited as having a seven-night measure for the juvenility phase of Venus and Jupiter, illustrating regional variation in dharmaśāstra rules.",
+      "justification": "Avanti is named alongside the Vindhyas in Gārgya's regional-variation verse."
+    },
+    {
+      "canonical_name": "Vaṅgas",
+      "surface_names": ["Vaṅgas"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-a34a42",
+          "quote": "In the Vaṅgas and Hūṇas, for six and five",
+          "role": "regions with shorter planetary juvenility durations"
+        }
+      ],
+      "description": "The Vaṅga region (Bengal), cited as having a six-day measure for planetary juvenility, as part of a regionally differentiated table of durations.",
+      "justification": "Vaṅgas is named as a regional category in Gārgya's geographic scheme for planetary-phase durations."
+    },
+    {
+      "canonical_name": "Viṣṇu",
+      "surface_names": ["Viṣṇu", "Hari", "Blessed Lord", "son of Siṃhikā (Rāhu — contextually as swallower)"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-192eff",
+          "quote": "When a double Āṣāḍha has occurred, in Cancer is the sleep of Hari.",
+          "role": "deity whose cosmic sleep (śayana) is astronomically tied to the intercalary Āṣāḍha"
+        },
+        {
+          "paragraph_id": "p-b65ad8",
+          "quote": "When the sun is in Gemini and touches two new moon days, that should be known as a double Āṣāḍha; Viṣṇu sleeps in Cancer.",
+          "role": "deity entering cosmic sleep when sun is in Gemini at a double Āṣāḍha"
+        }
+      ],
+      "description": "The deity Viṣṇu (Hari), whose four-month cosmic sleep (Cāturmāsya) beginning when the sun enters Cancer is astronomically correlated with the occurrence of a double (intercalary) Āṣāḍha month.",
+      "justification": "Viṣṇu/Hari is named in two paragraphs where his sleep is used to determine the proper timing of festivals when an intercalary month occurs."
+    },
+    {
+      "canonical_name": "Durgā",
+      "surface_names": ["Durgā", "Pārvatī", "Śacī's husband's worship — contextually the Navarātra"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-86840c",
+          "quote": "In Virgo, however, Śacī's husband is worshipped by the hosts of gods; then he rises. And Durgā is in the ingress into Libra, when it is extra; the rest of the gods are then.",
+          "role": "deity whose festival falls in Libra when an extra month shifts the calendar"
+        },
+        {
+          "paragraph_id": "p-192eff",
+          "quote": "Ākhaṇḍala is in Virgo, and Pārvatī likewise in Libra.",
+          "role": "Pārvatī/Durgā's worship placed in Libra in intercalary-Āṣāḍha year"
+        }
+      ],
+      "description": "The goddess Durgā (also called Pārvatī), whose seasonal worship (Navarātra/Durgāpūjā) is assigned to the Libra solar ingress when a double Āṣāḍha pushes the calendar, as determined by jyotiṣa texts.",
+      "justification": "Durgā/Pārvatī is named in two paragraphs as the deity whose festival timing shifts with the intercalary month."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Intercalary month (adhimāsa/malimluc) as a ritual impurity period",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-197732",
+          "quote": "the thirteenth nature of the intercalary month is with reference to the twelve pure months that have a saṅkrānti, not in reality"
+        },
+        {
+          "paragraph_id": "p-36f6ba",
+          "quote": "it is the cessation of optional rites only, not of obligatory and occasional ones"
+        },
+        {
+          "paragraph_id": "p-ee2a3f",
+          "quote": "Thus ends the determination of what is to be done and not done in an intercalary month."
+        }
+      ],
+      "justification": "The dominant topic of the entire window is adjudicating which dharmic rites are permitted or prohibited in an intercalary month, organizing smṛti citations by the obligatory/optional/occasional taxonomy."
+    },
+    {
+      "topic": "Hermeneutical harmonization of conflicting smṛti authorities",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-333915",
+          "quote": "that applies to the ancestral rite for a specific fruit … Or, it applies to the optional ancestral rite … But not to the obligatory ancestral rite"
+        },
+        {
+          "paragraph_id": "p-84b25c",
+          "quote": "As for what is said by Anantabhaṭṭa, Hemādri, Jīmūtavāhana, Śūlapāṇi, and others … that is not correct."
+        },
+        {
+          "paragraph_id": "p-20f0ae",
+          "quote": "in the contradiction of the measure, the arrangement is by a difference of region or is occasioned by an emergency"
+        }
+      ],
+      "justification": "Throughout the window the Vīramitrodaya systematically reconciles contradictory smṛti verses through scope-restriction, regional variation, or contextual disambiguation."
+    },
+    {
+      "topic": "Annual śrāddha timing for deceased persons: intercalary month complications",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-e6b4d2",
+          "quote": "The ancestral rite that is performed year after year, on the day of death of one's mother and father, should not be performed in an intercalary month"
+        },
+        {
+          "paragraph_id": "p-ae8ec8",
+          "quote": "for those who died in an intercalary month, the annual rite should be performed again in that very intercalary month, not in the pure one"
+        },
+        {
+          "paragraph_id": "p-cd5ab9",
+          "quote": "For those who died in a pure month, however, the second, etc., annual rite is in the pure month; the first annual rite, however, is in the intercalary month."
+        }
+      ],
+      "justification": "A substantial portion of the window is devoted to the complex rules for when to perform the annual death-anniversary śrāddha when an intercalary month falls in the mourning year."
+    },
+    {
+      "topic": "Regional variation in ritual law",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-9ec561",
+          "quote": "The Southerners also say this."
+        },
+        {
+          "paragraph_id": "p-da8229",
+          "quote": "Venus and Jupiter, in the east and in the west, are in their juvenility in the Vindhyas for ten days; in Avanti, for seven nights."
+        },
+        {
+          "paragraph_id": "p-f54087",
+          "quote": "This is also the true sense of all the Southern treatises."
+        }
+      ],
+      "justification": "The window implicitly acknowledges regional schools (Southerners, Gauḍas, Smārtas) and regional astronomical calendars as sources of legitimate variation in dharmaśāstra application."
+    },
+    {
+      "topic": "Astronomical determination of ritual eligibility (jyotiṣa-dharmaśāstra interface)",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-71d9e8",
+          "quote": "Now, the determination of what is to be done and not done during the invisibility (mauḍhya), etc., of Jupiter and Venus."
+        },
+        {
+          "paragraph_id": "p-35a7f4",
+          "quote": "The setting of other planets with the sun is called their invisibility (asta). Before that is old age from the invisibility; after it, juvenility is proclaimed."
+        },
+        {
+          "paragraph_id": "p-52ad27",
+          "quote": "from the statement 'from Vṛṣādi,' it is understood that the Daśaharā is only when the sun is in Taurus, and the Yugādis are only when it is in Libra, Capricorn, Aries, and Leo"
+        }
+      ],
+      "justification": "The closing section of the window transitions to jyotiṣa-based rules, where the rising, setting, juvenility, and debilitation of Venus and Jupiter determine which rites may be performed."
+    },
+    {
+      "topic": "The distinction between commencement and continuation of vows/rites",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-bdc838",
+          "quote": "the avoidance of pure optional rites is only of their commencement and completion"
+        },
+        {
+          "paragraph_id": "p-96e5b8",
+          "quote": "The continuation, however, should be performed even there."
+        },
+        {
+          "paragraph_id": "p-1fdca3",
+          "quote": "Hemādri, however, says that only the commencement of an optional rite is prohibited in an intercalary month. Its completion, however, should be performed even in an intercalary month"
+        }
+      ],
+      "justification": "A recurring hermeneutical distinction in the window is that intercalary months prohibit commencement and completion of optional rites but not their continuation, debated across several authorities."
+    },
+    {
+      "topic": "Sacred fords (tīrthas) as countering normal temporal prohibitions",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-ccdf8b",
+          "quote": "Bathing at a sacred ford is repeated. Because the prohibition of what is not repeated will be stated. And that is occasioned by a sacred ford, because what is occasioned by a sacred ford is obtained by the force of the occasion itself."
+        },
+        {
+          "paragraph_id": "p-9b5cc4",
+          "quote": "At Gayā, at all times, a wise man should give the piṇḍa. In an extra month, on one's birthday, and when Jupiter and Venus have set."
+        },
+        {
+          "paragraph_id": "p-180922",
+          "quote": "At the Godāvarī, at Gayā, and at Śrīśaila, at the two eclipses, the fault of the invisibility of the preceptors of the gods and demons does not exist."
+        }
+      ],
+      "justification": "Implicitly running through the window is the principle that occasion-based rites at pilgrimage sites (tīrthas) override normal time-based prohibitions, including intercalary months and planetary invisibility."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Kāṭhaka Gṛhya",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-37de0a",
+      "quote": "And so, in the Kāṭhaka Gṛhya: In an impurity, one should perform the obligatory and occasional rite that has no other time.",
+      "justification": "The Kāṭhaka Gṛhya is quoted as an authoritative śrauta-gṛhya text establishing the rule for obligatory rites in impurity periods."
+    },
+    {
+      "cited_work": "Gṛhyapariśiṣṭa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-99903b",
+      "quote": "In the Gṛhyapariśiṣṭa, etc.: The oblations that do not have the vaṣaṭ call, and the festival day, and the Āgrayaṇa, should be performed even in an intercalary month",
+      "justification": "The Gṛhyapariśiṣṭa is cited as an authoritative supplement to the Gṛhyasūtras listing rites permissible in intercalary months."
+    },
+    {
+      "cited_work": "Madanaratna",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-e9626d",
+      "quote": "Because in the Madanaratna, only the commencement is prohibited.",
+      "justification": "The Madanaratna (a medieval dharmaśāstra digest) is cited to restrict the prohibition to commencement of certain rites."
+    },
+    {
+      "cited_work": "Mātsya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-03dc4c",
+      "quote": "From the Mātsya, it is in accordance with this.",
+      "justification": "The Mātsya Purāṇa is cited in support of the rule about daily ancestral rites in the first year."
+    },
+    {
+      "cited_work": "Kālaviveka",
+      "cited_author": "Jīmūtavāhana",
+      "stance": "authority",
+      "paragraph_id": "p-84b25c",
+      "quote": "because they are found in Jīmūtavāhana's Kālaviveka, the Smārtta treatises, etc.",
+      "justification": "Jīmūtavāhana's Kālaviveka is cited as a source (even while his specific interpretation is refuted) to show the verses under discussion have textual grounding."
+    },
+    {
+      "cited_work": "Samayaprakāśa",
+      "cited_author": null,
+      "stance": "refute",
+      "paragraph_id": "p-922b7c",
+      "quote": "And the explanation of the author of the Samayaprakāśa, that this verse is for the purpose of stating that for one who died in an intercalary month, the annual rite should always be performed by the solar month, is not proper.",
+      "justification": "The Samayaprakāśa's interpretation of the Vyāsa verse is explicitly refuted by the Vīramitrodaya author."
+    },
+    {
+      "cited_work": "Bhīmaparākrama",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-7bbc01",
+      "quote": "For this very reason, in the Bhīmaparākrama: In an extra month, one should not perform a marriage, travel, tonsure, or sacred thread ceremony",
+      "justification": "The Bhīmaparākrama is cited as a dharmaśāstra authority listing prohibited saṃskāras in an intercalary month."
+    },
+    {
+      "cited_work": "Brahmasiddhānta",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-a082f8",
+      "quote": "This is from the Brahmasiddhānta.",
+      "justification": "The Brahmasiddhānta is cited as the source of the verse prohibiting commencement and completion of vows in months without a saṅkrānti."
+    },
+    {
+      "cited_work": "Brahmasiddhānta",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-35a7f4",
+      "quote": "The definitions of juvenility, etc., are stated in the Brahmasiddhānta: The setting of other planets with the sun is called their invisibility.",
+      "justification": "The Brahmasiddhānta is cited again for technical jyotiṣa definitions of planetary juvenility and old age."
+    },
+    {
+      "cited_work": "Kāṭhaka Gṛhyapariśiṣṭa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-ba57a2",
+      "quote": "And some of them are shown in the Kāṭhaka Gṛhyapariśiṣṭa: The rites of the Soma sacrifice, etc., even if obligatory, in an intercalary month … one should avoid in an impurity.",
+      "justification": "The Kāṭhaka Gṛhyapariśiṣṭa is cited listing rites with another available time that must be avoided in intercalary months."
+    },
+    {
+      "cited_work": "Kāṭhaka Gṛhya",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-bed6a2",
+      "quote": "in the Kāṭhaka Gṛhya, which states the completion of an optional rite even in an intercalary month … applies to rites such as the kṛcchra, cāndrāyaṇa, ahīna, and satra, which are based on the civil reckoning.",
+      "justification": "The Kāṭhaka Gṛhya is cited a second time for the rule permitting completion of civil-reckoning rites in intercalary months."
+    },
+    {
+      "cited_work": "Smṛti (unspecified, cited via Mādhava)",
+      "cited_author": "Mādhava",
+      "stance": "authority",
+      "paragraph_id": "p-584f22",
+      "quote": "And so, in a smṛti cited by Mādhava: The ancestral rite, the Jātaka, and the naming, and the rites and vows, should be performed even in an intercalary month",
+      "justification": "A smṛti quoted through Mādhava's commentary is cited to authorize Jātakarma and naming rites in intercalary months."
+    },
+    {
+      "cited_work": "Skanda Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-75357b",
+      "quote": "This is from the Skanda Purāṇa.",
+      "justification": "The Skanda Purāṇa is cited as the source of the verse on avoiding first visits to eternal deities in intercalary months."
+    },
+    {
+      "cited_work": "Nāgarakhaṇḍa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-1c967b",
+      "quote": "from the verse of the Nāgarakhaṇḍa, 'If Nabhas or Nabhasya is an intercalary month, the seventh fortnight would be the one for the ancestors; in other cases, however, it is the fifth'",
+      "justification": "The Nāgarakhaṇḍa (a Purāṇic section) is cited for the specific rule on Mahālaya timing when Śrāvaṇa or Bhādra is intercalary."
+    },
+    {
+      "cited_work": "Kāladarśa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-df2705",
+      "quote": "the enumeration of the Mahālaya among the rites to be performed in the Kālādarśa, 'In the annual rite, the water-pot, the Manvādi, the Mahālaya, and the Yugādi'",
+      "justification": "The Kāladarśa (a dharmaśāstra text on time-rules) is cited for a list of rites, with the Vīramitrodaya reinterpreting 'Mahālaya' as a tīrtha rather than the ancestral fortnight."
+    },
+    {
+      "cited_work": "Vāyu Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-9b5cc4",
+      "quote": "In the Vāyu Purāṇa: At Gayā, at all times, a wise man should give the piṇḍa. In an extra month, on one's birthday, and when Jupiter and Venus have set.",
+      "justification": "The Vāyu Purāṇa is cited for the special exemption at Gayā from all time-based prohibitions."
+    },
+    {
+      "cited_work": "Vāyu Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-1e72ec",
+      "quote": "At the Gaṅgā, at all times, a wise man should give the piṇḍa. In an extra month, on one's birthday, and when Jupiter and Venus have set.",
+      "justification": "The Vāyu Purāṇa is cited a second time for the parallel exemption at the Gaṅgā."
+    },
+    {
+      "cited_work": "Bhaviṣya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-62b761",
+      "quote": "A special rule for the annual rite of one who died in an elided month is in the Hemādri, in the Bhaviṣya",
+      "justification": "The Bhaviṣya Purāṇa (quoted through Hemādri's Caturvargacintāmaṇi) is cited for the rule on the annual rite for those who died in an elided (kṣaya) month."
+    },
+    {
+      "cited_work": "Pariśiṣṭa (jyotiṣa)",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-192eff",
+      "quote": "In the Pariśiṣṭa also: When a double Āṣāḍha has occurred, in Cancer is the sleep of Hari.",
+      "justification": "A jyotiṣa Pariśiṣṭa text is cited to correlate the double Āṣāḍha with Viṣṇu's sleep and the placement of festivals in subsequent zodiac signs."
+    },
+    {
+      "cited_work": "Smṛtisaṅgraha",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-67ac69",
+      "quote": "As for the verse in the Smṛtisaṅgraha: During the juvenility, old age, or invisibility of Venus … the first Upākṛti should not be performed",
+      "justification": "The Smṛtisaṅgraha is cited as a digest-authority for prohibiting the first Upākarma during Venus's unfavorable phases and intercalary months."
+    },
+    {
+      "cited_work": "Bārhaspatya",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-d42f1d",
+      "quote": "In the Bārhaspatya also: Venus, having risen in the east and west, is a child for five and seven days.",
+      "justification": "The Bārhaspatya (a jyotiṣa text associated with Bṛhaspati) is cited for its measure of Venus's juvenility, contrasted with the Brahmasiddhānta's measure."
+    },
+    {
+      "cited_work": "Brāhma Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-5d674e",
+      "quote": "An exception to this is in the Brāhma: The tonsure and a fast on the Gautamyā, when the sun is in Leo, and on the Kṛṣṇā when it is in Virgo",
+      "justification": "The Brāhma Purāṇa is cited for a specific exception to the general Jupiter-invisibility prohibition, permitting tonsure at particular rivers when the sun is in Leo or Virgo."
+    },
+    {
+      "cited_work": "Jyotiṣa (unspecified text)",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-86840c",
+      "quote": "As was said in the Jyotiṣa: If there is an extra month when the sun is in Gemini, then in Cancer the blessed Lord sleeps and awakens in Scorpio",
+      "justification": "An unnamed jyotiṣa text is cited for the rule about how a double Āṣāḍha shifts Viṣṇu's sleep, Indra's worship in Virgo, and Durgā's worship to Libra."
+    },
+    {
+      "cited_work": "Kṛtyacintāmaṇi",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-68e627",
+      "quote": "In the Kṛtyacintāmaṇi, however, the reading is 'travel' (yānam) instead of 'giving' (dānam).",
+      "justification": "The Kṛtyacintāmaṇi is cited as an alternative textual witness with a different variant reading of the verse on prohibited acts in intercalary months."
+    }
+  ]
+}

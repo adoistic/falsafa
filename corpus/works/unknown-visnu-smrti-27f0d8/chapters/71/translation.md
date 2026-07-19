@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 71**
+**Viṣṇu Smriti 71**
 
 Now, he shall not despise anyone. // Vi_71.1 //
 

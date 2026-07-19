@@ -1,0 +1,896 @@
+{
+  "slug": "unknown-viramitrodaya-d4b632",
+  "window": "01:2629-2918",
+  "entities": [
+    {
+      "canonical_name": "Jupiter (Bṛhaspati)",
+      "surface_names": ["Jupiter", "preceptor of the gods"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-0b069f",
+          "quote": "even at the setting of the preceptors of the gods and demons",
+          "role": "astronomical phenomenon marking auspicious pilgrimage time"
+        },
+        {
+          "paragraph_id": "p-f93450",
+          "quote": "Thus ends the determination of the invisibility, etc., of Jupiter, Venus, etc.",
+          "role": "subject of prior astronomical-ritual determination"
+        }
+      ],
+      "description": "Bṛhaspati (Jupiter), preceptor of the gods, whose astronomical setting marks an auspicious moment for pilgrimage to sacred fords.",
+      "justification": "Named explicitly in closing summary (p-f93450) and implicitly as 'preceptor of the gods' in the preceding verse (p-0b069f)."
+    },
+    {
+      "canonical_name": "Venus (Śukra)",
+      "surface_names": ["Venus", "preceptor of the demons", "Śukra"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-0b069f",
+          "quote": "even at the setting of the preceptors of the gods and demons",
+          "role": "astronomical phenomenon marking auspicious pilgrimage time"
+        },
+        {
+          "paragraph_id": "p-f93450",
+          "quote": "Thus ends the determination of the invisibility, etc., of Jupiter, Venus, etc.",
+          "role": "subject of prior astronomical-ritual determination"
+        }
+      ],
+      "description": "Śukra (Venus), preceptor of the demons, whose astronomical setting is co-listed with Jupiter as a marker for sacred ford pilgrimage.",
+      "justification": "Named explicitly at p-f93450 alongside Jupiter in the section-closing formula, and implied as 'preceptor of the demons' at p-0b069f."
+    },
+    {
+      "canonical_name": "Yama",
+      "surface_names": ["Yama"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-ab5cce",
+          "quote": "Yama says:",
+          "role": "cited authority on ancestral-rite timing"
+        }
+      ],
+      "description": "Yama, the deity of the dead, cited as a smṛti authority prescribing afternoon performance of ancestral rites at the end of the fortnight.",
+      "justification": "Invoked as a named textual authority at p-ab5cce with a verse on the timing of śrāddha for the ancestors."
+    },
+    {
+      "canonical_name": "Sinīvālī",
+      "surface_names": ["Sinīvālī"],
+      "kind": "idea",
+      "mentions": [
+        {
+          "paragraph_id": "p-3baafd",
+          "quote": "one who has established the sacred fires should take Sinīvālī",
+          "role": "prescribed new-moon tithi for fire-maintaining householders"
+        },
+        {
+          "paragraph_id": "p-839dff",
+          "quote": "Sinīvālī is when the moon is seen",
+          "role": "definition of lunar phase"
+        }
+      ],
+      "description": "Sinīvālī, the new moon phase when the crescent is just visible, prescribed as the correct tithi for fire-maintaining (sāgnika) householders to perform ancestral rites.",
+      "justification": "Defined and prescribed at p-839dff and p-3baafd as the proper lunar occasion for sāgnikas."
+    },
+    {
+      "canonical_name": "Kuhū",
+      "surface_names": ["Kuhū"],
+      "kind": "idea",
+      "mentions": [
+        {
+          "paragraph_id": "p-3baafd",
+          "quote": "for one without fires, etc., Kuhū is remembered",
+          "role": "prescribed new-moon tithi for those without sacred fires"
+        },
+        {
+          "paragraph_id": "p-61727e",
+          "quote": "Kuhū should be performed by women and Śūdras, and likewise by twice-born who are without fires",
+          "role": "tithi enjoined upon specific social categories"
+        },
+        {
+          "paragraph_id": "p-839dff",
+          "quote": "Kuhū is remembered as when the moon is lost",
+          "role": "definition of lunar phase"
+        }
+      ],
+      "description": "Kuhū, the dark new-moon phase when the moon is invisible, prescribed for women, Śūdras, and twice-born householders without sacred fires.",
+      "justification": "Defined at p-839dff and explicitly enjoined upon those without fires, women, and Śūdras at p-3baafd and p-61727e."
+    },
+    {
+      "canonical_name": "Hemādri",
+      "surface_names": ["Hemādri"],
+      "kind": "figure",
+      "figure_kind": "scholar",
+      "mentions": [
+        {
+          "paragraph_id": "p-63ca54",
+          "quote": "Hemādri, however, says that by those without fires, the one pervading the kutapa time should be taken",
+          "role": "dissenting commentarial authority on tithi determination"
+        },
+        {
+          "paragraph_id": "p-079821",
+          "quote": "In the Hemādri, Vasiṣṭha says:",
+          "role": "digest text from which Vasiṣṭha is quoted"
+        },
+        {
+          "paragraph_id": "p-2858",
+          "quote": "There, for one who is unable, a single performance is stated in the Hemādri, in the Nāgarakhaṇḍa",
+          "role": "source text for single-performance concession"
+        },
+        {
+          "paragraph_id": "p-d3e0ed",
+          "quote": "In the Hemādri and Mādhava:",
+          "role": "named digest source for nakṣatra exception"
+        }
+      ],
+      "description": "Hemādri, the 13th-century nibandha (digest) author, frequently cited for rulings on śrāddha timing and for transmitting earlier smṛti verses.",
+      "justification": "Cited by name multiple times as a digesting authority at p-63ca54, p-079821, p-d3e0ed, and p-bebc23."
+    },
+    {
+      "canonical_name": "Mādhava",
+      "surface_names": ["Mādhava"],
+      "kind": "figure",
+      "figure_kind": "scholar",
+      "mentions": [
+        {
+          "paragraph_id": "p-c202b5",
+          "quote": "This is from a verse cited by Mādhava.",
+          "role": "authority who transmits a verse on Amāvāsyā determination"
+        },
+        {
+          "paragraph_id": "p-d3e0ed",
+          "quote": "In the Hemādri and Mādhava:",
+          "role": "named digest source alongside Hemādri"
+        }
+      ],
+      "description": "Mādhava, the commentator and nibandha writer cited as transmitter of verses on tithi determination and nakṣatra exceptions for śrāddha.",
+      "justification": "Named as source of a verse on Amāvāsyā at p-c202b5 and co-cited with Hemādri at p-d3e0ed."
+    },
+    {
+      "canonical_name": "Varāha",
+      "surface_names": ["Varāha"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-8b0b22",
+          "quote": "one should perform it on Paurṇamāsī, as is the word of Varāha",
+          "role": "divine authority enjoining Paurṇamāsī śrāddha for Nāndīmukha ancestors"
+        }
+      ],
+      "description": "Varāha (the boar-avatāra of Viṣṇu), cited as divine authority for performing a Mahālaya śrāddha on the full moon day for Nāndīmukha ancestors.",
+      "justification": "Explicitly named as divine textual authority at p-8b0b22 in the context of the sixteen-tithi Mahālaya discussion."
+    },
+    {
+      "canonical_name": "Nāndīmukha ancestors",
+      "surface_names": ["Nāndīmukha ancestors"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-58ba50",
+          "quote": "one should satisfy the ancestors named Nāndīmukha according to the rules",
+          "role": "recipients of vṛddhi śrāddha"
+        },
+        {
+          "paragraph_id": "p-8b0b22",
+          "quote": "For the Nāndīmukha ancestors, every year, when the sun is in the sign of Virgo, one should perform it on Paurṇamāsī",
+          "role": "recipients of special Mahālaya Paurṇamāsī performance"
+        }
+      ],
+      "description": "The Nāndīmukha ancestors, a specific class of ancestral spirits propitiated in vṛddhi (prosperity) śrāddhas and in the Mahālaya fortnight.",
+      "justification": "Named explicitly as recipients of śrāddha in the vṛddhi context (p-58ba50) and in the Mahālaya context (p-8b0b22)."
+    },
+    {
+      "canonical_name": "Bhānūpādhyāya",
+      "surface_names": ["Bhānūpādhyāya"],
+      "kind": "figure",
+      "figure_kind": "scholar",
+      "mentions": [
+        {
+          "paragraph_id": "p-0e016f",
+          "quote": "The authors of the Pārijāta, Pradīpa, Prakāśa, the commentary, the Śrāddhaviveka, the Prītahastaka, Bhānūpādhyāya, and others also hold this view.",
+          "role": "named scholar holding a position on tithi-counting"
+        },
+        {
+          "paragraph_id": "p-fb9c42",
+          "quote": "Bhānūpādhyāya, Nīlāmbarācārya, and others also say this.",
+          "role": "scholar endorsing the Mahālaya option ruling"
+        },
+        {
+          "paragraph_id": "p-14119b",
+          "quote": "say the author of the Viveka and Bhānūpādhyāya",
+          "role": "co-authority on meaning of 'half'"
+        },
+        {
+          "paragraph_id": "p-fec424",
+          "quote": "Bhānūpādhyāya, however, says that for those for whom there is no śrāddha on Caturdaśī, the option is from Dvādaśī",
+          "role": "dissenting authority on the beginning-tithi for Mahālaya option"
+        },
+        {
+          "paragraph_id": "p-8de7ac",
+          "quote": "The authors of the Kalpataru, Bhānūpādhyāya, Nīlāmbarācārya, and others also say this.",
+          "role": "scholar endorsing weapon-death Caturdaśī rule"
+        }
+      ],
+      "description": "Bhānūpādhyāya, a commentarial authority repeatedly cited on the structuring of Mahālaya śrāddha options and the calculation of fortnightly tithis.",
+      "justification": "Named in multiple passages (p-0e016f, p-fb9c42, p-14119b, p-fec424, p-8de7ac) as a recognised nibandha scholar."
+    },
+    {
+      "canonical_name": "Nīlāmbarācārya",
+      "surface_names": ["Nīlāmbarācārya"],
+      "kind": "figure",
+      "figure_kind": "scholar",
+      "mentions": [
+        {
+          "paragraph_id": "p-fb9c42",
+          "quote": "Bhānūpādhyāya, Nīlāmbarācārya, and others also say this.",
+          "role": "co-authority on Mahālaya option ruling"
+        },
+        {
+          "paragraph_id": "p-8de7ac",
+          "quote": "The authors of the Kalpataru, Bhānūpādhyāya, Nīlāmbarācārya, and others also say this.",
+          "role": "co-authority endorsing Caturdaśī restriction"
+        }
+      ],
+      "description": "Nīlāmbarācārya, a named nibandha scholar cited alongside Bhānūpādhyāya on questions of Mahālaya tithi-counting and Caturdaśī restrictions.",
+      "justification": "Named at p-fb9c42 and p-8de7ac as a recognised authority whose view on Mahālaya and Caturdaśī is endorsed."
+    },
+    {
+      "canonical_name": "Dhanañjaya",
+      "surface_names": ["Dhanañjaya"],
+      "kind": "figure",
+      "figure_kind": "scholar",
+      "mentions": [
+        {
+          "paragraph_id": "p-f62018",
+          "quote": "Because of this verse written by Dhanañjaya, Halāyudha, etc.",
+          "role": "authority cited for the Paurṇamāsī śrāddha for Nāndīmukha ancestors"
+        }
+      ],
+      "description": "Dhanañjaya, a scholar who composed or transmitted a verse enjoining śrāddha for Nāndīmukha ancestors on Paurṇamāsī during Virgo.",
+      "justification": "Named at p-f62018 as the author of the verse supporting the Paurṇamāsī śrāddha for Nāndīmukha ancestors."
+    },
+    {
+      "canonical_name": "Halāyudha",
+      "surface_names": ["Halāyudha"],
+      "kind": "figure",
+      "figure_kind": "scholar",
+      "mentions": [
+        {
+          "paragraph_id": "p-f62018",
+          "quote": "Because of this verse written by Dhanañjaya, Halāyudha, etc.",
+          "role": "co-author or transmitter of Paurṇamāsī śrāddha verse"
+        }
+      ],
+      "description": "Halāyudha, cited alongside Dhanañjaya as an authority supporting the Paurṇamāsī śrāddha for Nāndīmukha ancestors during Mahālaya.",
+      "justification": "Named at p-f62018 as co-authority alongside Dhanañjaya."
+    },
+    {
+      "canonical_name": "Rohiṇī nakṣatra",
+      "surface_names": ["Rohiṇī", "Prājāpatya"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-8d12c3",
+          "quote": "'In the three birth-nakṣatras' means in the three nakṣatras of Rohiṇī, etc.",
+          "role": "birth-nakṣatra in which śrāddha is prohibited"
+        },
+        {
+          "paragraph_id": "p-da53a4",
+          "quote": "Prājāpatya = Rohiṇī",
+          "role": "identification of Prājāpatya nakṣatra as Rohiṇī"
+        }
+      ],
+      "description": "Rohiṇī (also called Prājāpatya), a nakṣatra identified as one of the three birth-nakṣatras in which śrāddha is generally prohibited.",
+      "justification": "Explicitly identified at p-da53a4 and p-8d12c3 as one of three prohibited birth-nakṣatras for śrāddha performance."
+    },
+    {
+      "canonical_name": "Revatī nakṣatra",
+      "surface_names": ["Revatī", "Pauṣṇa"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-da53a4",
+          "quote": "Pauṣṇa = Revatī",
+          "role": "birth-nakṣatra in which śrāddha is prohibited"
+        }
+      ],
+      "description": "Revatī (also called Pauṣṇa), identified as one of the three prohibited birth-nakṣatras for śrāddha.",
+      "justification": "Explicitly identified at p-da53a4 as the second of three prohibited birth-nakṣatras."
+    },
+    {
+      "canonical_name": "Maghā nakṣatra",
+      "surface_names": ["Maghā", "ancestral ṛkṣa"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-da53a4",
+          "quote": "ancestral = Maghā",
+          "role": "birth-nakṣatra in which śrāddha is prohibited"
+        }
+      ],
+      "description": "Maghā (the ancestral nakṣatra), identified as one of the three prohibited birth-nakṣatras for śrāddha performance.",
+      "justification": "Explicitly identified at p-da53a4 as the third prohibited birth-nakṣatra alongside Rohiṇī and Revatī."
+    },
+    {
+      "canonical_name": "Virgo (solar ingress)",
+      "surface_names": ["Virgo", "Kanyā", "sign of Virgo"],
+      "kind": "event",
+      "mentions": [
+        {
+          "paragraph_id": "p-2807",
+          "quote": "The four-times-a-year option is when the sun is in Virgo, Aquarius, Taurus, and Libra",
+          "role": "primary solar station for śrāddha timing"
+        },
+        {
+          "paragraph_id": "p-97554e",
+          "quote": "### [The Dark Fortnight when the Sun is in Virgo (Mahālaya)]",
+          "role": "sectional topic heading defining the Mahālaya"
+        },
+        {
+          "paragraph_id": "p-d8f9e7",
+          "quote": "the statement that the sun is in Virgo is for the sake of praise, not that that alone is the time for the śrāddha",
+          "role": "astronomical qualifier of Mahālaya fortnight"
+        }
+      ],
+      "description": "The sun's entry into Virgo (Kanyā), the primary astronomical marker that defines the Mahālaya fortnight and is extensively debated as the defining or merely praising condition for the ancestral rites.",
+      "justification": "The entire section at p-97554e onwards is devoted to the Virgo-ingress as a temporal anchor for śrāddha, with the debate on its necessity elaborated at p-d8f9e7 and p-2a3806."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Hierarchical structuring of śrāddha timing by capacity",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-d22c78",
+          "quote": "Now, the time for ancestral rites (śrāddhakāla)."
+        },
+        {
+          "paragraph_id": "p-4816",
+          "quote": "For one who is unable, Gautama says: 'Or from Pañcamī onwards of the dark fortnight.'"
+        },
+        {
+          "paragraph_id": "p-4f4045",
+          "quote": "If one is even less able, Manu says:"
+        },
+        {
+          "paragraph_id": "p-4ed1d1",
+          "quote": "If one is unable to do even this, Devala says it should be done four times in the middle of the year."
+        }
+      ],
+      "justification": "The entire window organises śrāddha time-determinations in a cascade of decreasing stringency (from daily to annual), making capacity-based hierarchy the central structural principle."
+    },
+    {
+      "topic": "Digest harmonisation of conflicting smṛti authorities",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-1e2065",
+          "quote": "Because if in the verse of Manu, tarpaṇa were taken by the word pitṛyajña, the name piṇḍānvāhāryaka would be impossible."
+        },
+        {
+          "paragraph_id": "p-2730",
+          "quote": "And thus, in the Brahma Purāṇa and Viṣṇudharmottara, the three stated are those of winter and the cool season, other than the dark Aṣṭamī of Phālguna."
+        },
+        {
+          "paragraph_id": "p-3d2992",
+          "quote": "Therefore, from the sight of both verses, the option is proper, and it is a structured one."
+        }
+      ],
+      "justification": "The Vīramitrodaya systematically reconciles divergent rulings from Manu, Kātyāyana, the Purāṇas, and nibandha authors through Mīmāṃsā reasoning, characterising the text as a digest (nibandha)."
+    },
+    {
+      "topic": "Mīmāṃsā hermeneutics applied to ritual injunctions",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-3e4e82",
+          "quote": "For that is a name by the tatprakhyanyāya (the Mīmāṃsā maxim of naming from a prominent feature)."
+        },
+        {
+          "paragraph_id": "p-f7dd84",
+          "quote": "Since an obligatory (nitya) rite has no fruit, there is no hierarchy of fruit. Rather, it is a structured option based on capacity."
+        },
+        {
+          "paragraph_id": "p-70f98c",
+          "quote": "as in the case of the holding of the sixteenth cup (ṣoḍaśigrahaṇa), it is proper to infer a greater abundance of fruit."
+        }
+      ],
+      "justification": "The author repeatedly deploys Mīmāṃsā categories (tatprakhyanyāya, nitya vs. kāmya, vīpsā, syntactical unity) to resolve ritual ambiguities, making Mīmāṃsā hermeneutics the operative interpretive framework."
+    },
+    {
+      "topic": "Distinction between obligatory (nitya) and optional (kāmya) śrāddha",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-91785d",
+          "quote": "And this is obligatory (nitya), from the statement of Kātyāyana: 'One should not transgress the dark fortnight, even with vegetables.'"
+        },
+        {
+          "paragraph_id": "p-173625",
+          "quote": "And it is also optional (kāmya)."
+        },
+        {
+          "paragraph_id": "p-03096d",
+          "quote": "The sixteen days that are stated as the time for the śrāddha, they apply to another, optional (kāmya) śrāddha"
+        }
+      ],
+      "justification": "The nitya/kāmya distinction recurs at p-91785d, p-173625, and p-03096d, structuring the normative evaluation of whether a given śrāddha performance is required or supererogatory."
+    },
+    {
+      "topic": "Lunar and solar astronomy as the framework for ritual timing",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-0b069f",
+          "quote": "At an eclipse of the moon and sun, at a partial rising, or on the Kapilaṣaṣṭhī"
+        },
+        {
+          "paragraph_id": "p-3561a1",
+          "quote": "In the eighth part of Caturdaśī, the moon becomes waning. In the eighth part of Amāvāsyā, it is said to become a particle again."
+        },
+        {
+          "paragraph_id": "p-2807",
+          "quote": "The four-times-a-year option is when the sun is in Virgo, Aquarius, Taurus, and Libra"
+        }
+      ],
+      "justification": "From solar ingresses (Virgo) to tithis to the waning of the moon, the entire window is organised around an astronomical calendar that determines when rites must, may, or may not be performed."
+    },
+    {
+      "topic": "Social differentiation in ritual eligibility (varṇa, gender, fire-status)",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-3baafd",
+          "quote": "one who has established the sacred fires should take Sinīvālī; for one without fires, etc., Kuhū is remembered"
+        },
+        {
+          "paragraph_id": "p-61727e",
+          "quote": "Kuhū should be performed by women and Śūdras, and likewise by twice-born who are without fires"
+        },
+        {
+          "paragraph_id": "p-85376f",
+          "quote": "since such a thing is possible only for one who maintains the sacred fires (sāgnika), who is entitled to the Piṇḍapitṛyajña, this verse … applies only to him, not to all"
+        }
+      ],
+      "justification": "The text systematically differentiates rules based on the performer's fire-maintaining status (sāgnika vs. niragnika), varṇa (Brahmin, Śūdra), and gender, showing social stratification as a governing variable in ritual law."
+    },
+    {
+      "topic": "Mahālaya — the ancestral fortnight in Āśvina",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-97554e",
+          "quote": "### [The Dark Fortnight when the Sun is in Virgo (Mahālaya)]"
+        },
+        {
+          "paragraph_id": "p-2855",
+          "quote": "The śrāddha on Caturdaśī in Mahālaya is only for one killed by a weapon."
+        },
+        {
+          "paragraph_id": "p-d6d04e",
+          "quote": "In a single performance at Mahālaya, the tithi, etc., should be examined."
+        }
+      ],
+      "justification": "Mahālaya is explicitly introduced as a section header (p-97554e) and recurs as the named occasion for the sixteen-tithi ancestral rite and its many sub-rules, making it the central ritual event in the latter half of the window."
+    },
+    {
+      "topic": "Piṇḍa and piṇḍapitṛyajña — offering rice-balls to the ancestors",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-dbdf5c",
+          "quote": "Having performed the Pitṛyajña, a Brahmin who maintains the sacred fires … should perform the piṇḍānvāhāryaka śrāddha month after month."
+        },
+        {
+          "paragraph_id": "p-1e2065",
+          "quote": "Because if in the verse of Manu, tarpaṇa were taken by the word pitṛyajña, the name piṇḍānvāhāryaka would be impossible."
+        },
+        {
+          "paragraph_id": "p-2757",
+          "quote": "He should give the piṇḍas up to the marriage"
+        }
+      ],
+      "justification": "The piṇḍapitṛyajña and its name piṇḍānvāhāryaka are debated at length at p-fd46f2, p-1e2065, and p-85376f, and piṇḍa-offering recurs as the core act of the ancestral rite throughout the window."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Manusmṛti",
+      "cited_author": "Manu",
+      "stance": "authority",
+      "paragraph_id": "p-bf923a",
+      "quote": "Manu says:",
+      "justification": "Manu is invoked as a primary smṛti authority for the prescription of piṇḍānvāhāryaka śrāddha after the Pitṛyajña (p-bf923a, verse at p-dbdf5c, ref. a. 3, ślo. 122)."
+    },
+    {
+      "cited_work": "Mātsya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-1a87e7",
+      "quote": "by the word pitṛyajña, in accordance with the Mātsya:",
+      "justification": "The Mātsya Purāṇa is cited at p-1a87e7 and p-2656 for its verse on tarpaṇa and the piṇḍapitṛyajña, and later at p-15227f for the three-times-a-year śrāddha schedule."
+    },
+    {
+      "cited_work": "Chandogapariśiṣṭa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-a5416a",
+      "quote": "In the Chandogapariśiṣṭa:",
+      "justification": "Cited multiple times (p-a5416a, p-0cff55, p-0908bd) as a supplementary Vedic text prescribing śrāddha rules including the piṇḍa-gift, fire-holder timing, and prohibitions within ancestral rites."
+    },
+    {
+      "cited_work": "Pariśiṣṭa (Śrautapariśiṣṭa)",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-3cad4b",
+      "quote": "And because of this verse of the Pariśiṣṭa.",
+      "justification": "The Pariśiṣṭa is invoked at p-3cad4b, p-f086da, and p-682 for rules on Amāvāsyā timing and the pervasion of the afternoon by the tithi."
+    },
+    {
+      "cited_work": "Yājñavalkyasmṛti",
+      "cited_author": "Yājñavalkya",
+      "stance": "authority",
+      "paragraph_id": "p-3add42",
+      "quote": "Therein, Yājñavalkya says:",
+      "justification": "Cited at p-3add42 (verse at p-fd79cc, ref. a. 1, ślo. 264) and p-99c6cf for the enumeration of śrāddha times and the rule on those killed by weapons."
+    },
+    {
+      "cited_work": "Gautamasmṛti / Gautama Dharmasūtra",
+      "cited_author": "Gautama",
+      "stance": "authority",
+      "paragraph_id": "p-24fbcd",
+      "quote": "For one who is unable, Gautama says: 'Or from Pañcamī onwards of the dark fortnight.'",
+      "justification": "Gautama is cited at p-24fbcd and p-4f6a6a as a primary dharmaśāstra authority on reduced śrāddha schedules and on capacity-based time regulation."
+    },
+    {
+      "cited_work": "Kātyāyanasmṛti",
+      "cited_author": "Kātyāyana",
+      "stance": "authority",
+      "paragraph_id": "p-63c79b",
+      "quote": "Kātyāyana says:",
+      "justification": "Kātyāyana is cited at p-63c79b (piṇḍānvāhāryaka timing), p-65a19d (dark-fortnight option from fourth tithi), and p-91785d and p-4ba070 (obligatory nature of dark-fortnight śrāddha and death-tithi rule)."
+    },
+    {
+      "cited_work": "Śātātapasmṛti",
+      "cited_author": "Śātātapa",
+      "stance": "authority",
+      "paragraph_id": "p-8d5fc4",
+      "quote": "Therein, Śātātapa says:",
+      "justification": "Śātātapa is cited at p-8d5fc4 (pārvaṇa śrāddha on Amāvāsyā), p-ebb04f (no Vedic rite without prior śrāddha), and p-7a7264 (early morning timing for vṛddhi)."
+    },
+    {
+      "cited_work": "Devalasmṛti",
+      "cited_author": "Devala",
+      "stance": "authority",
+      "paragraph_id": "p-4ed1d1",
+      "quote": "If one is unable to do even this, Devala says it should be done four times in the middle of the year.",
+      "justification": "Devala is cited as the authority for the reduced four-, three-, two-, and one-time-per-year śrāddha options at p-4ed1d1, p-2b2015, p-44713c."
+    },
+    {
+      "cited_work": "Matsya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-15227f",
+      "quote": "This is from the Matsya Purāṇa.",
+      "justification": "The Matsya Purāṇa is cited at p-15227f for the rule prescribing śrāddha three times a year when the sun is in Virgo, Aquarius, and Taurus."
+    },
+    {
+      "cited_work": "Mārkaṇḍeya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-1e83f1",
+      "quote": "This is from the Mārkaṇḍeya Purāṇa, beginning with 'Pratipad for the gain of wealth.'",
+      "justification": "The Mārkaṇḍeya Purāṇa is cited at p-1e83f1 as the source establishing the optional (kāmya) nature of the dark-fortnight śrāddha."
+    },
+    {
+      "cited_work": "Brāhma Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-42af8e",
+      "quote": "In the Brāhma:",
+      "justification": "Cited at p-42af8e for occasions enjoining the vṛddhi śrāddha, and at p-a8aaf1 for the Mahālaya day-by-day śrāddha rule; also at p-d6614b for fruit of sixteen tithis."
+    },
+    {
+      "cited_work": "Viṣṇu Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-b4c8ee",
+      "quote": "In the Viṣṇu Purāṇa:",
+      "justification": "Cited at p-b4c8ee for the list of occasions requiring vṛddhi śrāddha (sacrifice, marriage, bull-release, etc.)."
+    },
+    {
+      "cited_work": "Viṣṇusmṛti",
+      "cited_author": "Viṣṇu",
+      "stance": "authority",
+      "paragraph_id": "p-e89dba",
+      "quote": "Viṣṇu also says: 'Three Anvaṣṭakās,' and 'three on the preceding day.'",
+      "justification": "Viṣṇusmṛti is cited at p-e89dba and p-412225 for the number of Aṣṭakā and Anvaṣṭakā rites."
+    },
+    {
+      "cited_work": "Vāyu Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-b91924",
+      "quote": "The obligatory nature of the Aṣṭakā is stated in the Vāyu Purāṇa:",
+      "justification": "Cited at p-b91924 (obligatory nature of Aṣṭakā) and p-59ecdf (three Aṣṭakā listing), and p-d6614b (sixteen-tithi fruit)."
+    },
+    {
+      "cited_work": "Padma Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-5fae96",
+      "quote": "In the Padma Purāṇa, however:",
+      "justification": "Cited at p-5fae96 for the additional Aṣṭakā on the dark eighth day of Bhādrapada (Prauṣṭhapadī Aṣṭakā)."
+    },
+    {
+      "cited_work": "Brahmāṇḍa Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-76152a",
+      "quote": "Although in the Brahmāṇḍa Purāṇa:",
+      "justification": "Cited at p-76152a for the four Aṣṭakā substances (vegetables, meat, cakes, and rainy-season vegetables) ascribed to the four occasions."
+    },
+    {
+      "cited_work": "Brahma Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-572d52",
+      "quote": "from another verse of the Brahma Purāṇa, 'On the dark Aṣṭakā of Pauṣa, one should satisfy the ancestors with vegetables'",
+      "justification": "Cited at p-572d52 for identifying the three Aṣṭakās with Pauṣa, Māgha, and Phālguna."
+    },
+    {
+      "cited_work": "Kūrma Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-c34218",
+      "quote": "In the Kūrma Purāṇa, however, it is clearly stated that the three are those that fall in Pauṣa, etc.",
+      "justification": "Cited at p-c34218 and p-39f561 for an explicit enumeration of the three Aṣṭakā months (Pauṣa, Māgha, Phālguna)."
+    },
+    {
+      "cited_work": "Viṣṇudharmottara Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-1eab49",
+      "quote": "This is from the Viṣṇudharmottara.",
+      "justification": "Cited multiple times (p-1eab49, p-60eeb1, p-1eab49/2836) for Aṣṭakā month-counting, the definition of a lunar day as a tithi, and Mahālaya fortnight-option boundaries."
+    },
+    {
+      "cited_work": "Brahmavaivarta Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-59ecdf",
+      "quote": "In the Brahmavaivarta and Vāyu Purāṇas, however:",
+      "justification": "Co-cited with Vāyu Purāṇa at p-59ecdf for an alternative listing of three Aṣṭakās and their ritual substances."
+    },
+    {
+      "cited_work": "Āśvalāyana Gṛhyasūtra / Śrautasūtra",
+      "cited_author": "Āśvalāyana",
+      "stance": "authority",
+      "paragraph_id": "p-8711e7",
+      "quote": "Therein, Āśvalāyana says: 'In the four latter fortnights of winter and the cool season, on the eighth days, are the Aṣṭakās.'",
+      "justification": "Āśvalāyana is the primary sūtra authority on Aṣṭakā (p-8711e7, p-897c0a, p-cd3f70) and on Anvaṣṭakā (p-4794ca) and on the daughter-inclusion rule (p-e802b6)."
+    },
+    {
+      "cited_work": "Gobhila Gṛhyasūtra",
+      "cited_author": "Gobhila",
+      "stance": "authority",
+      "paragraph_id": "p-cd2268",
+      "quote": "Gobhila, however, having said, 'Winter has four Aṣṭakās; one should wish to perform them all with meat'",
+      "justification": "Gobhila is cited at p-cd2268 as an authority specifying four Aṣṭakās in winter, and is used to confirm the five-Aṣṭakā annual total."
+    },
+    {
+      "cited_work": "Āpastamba Dharmasūtra",
+      "cited_author": "Āpastamba",
+      "stance": "authority",
+      "paragraph_id": "p-ed65f7",
+      "quote": "Because by Āpastamba, 'The dvyaṣṭakā that is after the Māghī Paurṇamāsī, the Aṣṭamī in it is connected with Jyeṣṭhā; they call that the Ekāṣṭakā'",
+      "justification": "Cited at p-ed65f7 to identify the Ekāṣṭakā (Phālguna Aṣṭamī) and explain the two-time nature of dvyaṣṭakā."
+    },
+    {
+      "cited_work": "Vasiṣṭhasmṛti",
+      "cited_author": "Vasiṣṭha",
+      "stance": "authority",
+      "paragraph_id": "p-079821",
+      "quote": "In the Hemādri, Vasiṣṭha says:",
+      "justification": "Vasiṣṭha is cited via Hemādri at p-fc5d12 for the three-day timing of vṛddhi śrāddha (mothers, fathers, maternal grandfathers), and at p-c60733 for prohibited tithis."
+    },
+    {
+      "cited_work": "Vṛddha Śātātapa",
+      "cited_author": "Vṛddha Śātātapa",
+      "stance": "authority",
+      "paragraph_id": "p-79acee",
+      "quote": "Vṛddha Śātātapa says:",
+      "justification": "Cited at p-79acee and p-88a97b as a senior recension of Śātātapa prescribing condensed timing for the three vṛddhi śrāddhas when separate days are unavailable."
+    },
+    {
+      "cited_work": "Vṛddha Manusmṛti",
+      "cited_author": "Vṛddha Manu",
+      "stance": "authority",
+      "paragraph_id": "p-9f1212",
+      "quote": "If this is not possible, Vṛddha Manu says:",
+      "justification": "Cited at p-9f1212 for the three-in-one-forenoon option for nāndīśrāddhas when separate times are impossible."
+    },
+    {
+      "cited_work": "Atrisamhitā / Atri",
+      "cited_author": "Atri",
+      "stance": "authority",
+      "paragraph_id": "p-7cfc6c",
+      "quote": "This is from the verse of Atri.",
+      "justification": "Cited at p-7cfc6c for the rule that vṛddhi is in the forenoon except at the birth of a son."
+    },
+    {
+      "cited_work": "Laugākṣi Gṛhyasūtra",
+      "cited_author": "Laugākṣi",
+      "stance": "authority",
+      "paragraph_id": "p-0d3d3c",
+      "quote": "This is from a verse of Laugākṣi.",
+      "justification": "Laugākṣi is cited twice: at p-0d3d3c for Kuhū being the obligation of women and Śūdras, and at p-0d3d3c/2786 for the immediate-performance rule for unfixed occasions."
+    },
+    {
+      "cited_work": "Pāraskara Gṛhyasūtra",
+      "cited_author": "Pāraskara",
+      "stance": "authority",
+      "paragraph_id": "p-f93a45",
+      "quote": "Because by this verse of Pāraskara, the time of the vṛddhi śrāddha is extended.",
+      "justification": "Pāraskara is cited at p-f93a45 for extending vṛddhi śrāddha time to include conception rites, Soma sacrifice, and Sīmantonnayana."
+    },
+    {
+      "cited_work": "Jābāli Sūtra",
+      "cited_author": "Jābāli",
+      "stance": "authority",
+      "paragraph_id": "p-b8413b",
+      "quote": "This is from a verse of Jābāli.",
+      "justification": "Jābāli is cited at p-b8413b for the rule distinguishing sāgnikas (Sinīvālī) from niragnikas (Kuhū) when the new moon does not pervade both afternoons."
+    },
+    {
+      "cited_work": "Vyāsasmṛti",
+      "cited_author": "Vyāsa",
+      "stance": "authority",
+      "paragraph_id": "p-41fe8a",
+      "quote": "The definitions of Sinīvālī, etc., are stated by Vyāsa:",
+      "justification": "Vyāsa is cited at p-41fe8a for the defining verse distinguishing Sinīvālī (moon visible) from Kuhū (moon lost)."
+    },
+    {
+      "cited_work": "Kalpataru",
+      "cited_author": null,
+      "stance": "refute",
+      "paragraph_id": "p-ec0aa5",
+      "quote": "By this, the statement of the Kalpataru, 'day by day' (ahanyahani), is refuted.",
+      "justification": "The Kalpataru's interpretation of 'day by day' as civil days is refuted at p-ec0aa5 by the argument that 'day' means tithi in the lunar calendar."
+    },
+    {
+      "cited_work": "Śrāddhaviveka",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-0e016f",
+      "quote": "The authors of the Pārijāta, Pradīpa, Prakāśa, the commentary, the Śrāddhaviveka, the Prītahastaka, Bhānūpādhyāya, and others also hold this view.",
+      "justification": "Cited at p-0e016f, p-b44dd1, p-14119b, and p-b25015 as a digest authority on Mahālaya option boundaries and the hierarchy-of-fruit question."
+    },
+    {
+      "cited_work": "Nāgarakhaṇḍa (of Skanda Purāṇa)",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-bebc23",
+      "quote": "There, for one who is unable, a single performance is stated in the Hemādri, in the Nāgarakhaṇḍa:",
+      "justification": "Cited at p-bebc23 for the single-performance concession in the fifth Mahālaya fortnight, and at p-92b139 for the seventh-fortnight rule in intercalary months."
+    },
+    {
+      "cited_work": "Āditya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-1df8c8",
+      "quote": "Because in the Āditya Purāṇa, it is stated that it should be disregarded.",
+      "justification": "Cited at p-1df8c8 to support the view that the sun's being in Virgo is only a praising condition, not an absolute requirement for Mahālaya."
+    },
+    {
+      "cited_work": "Bṛhanmanu",
+      "cited_author": "Bṛhanmanu",
+      "stance": "authority",
+      "paragraph_id": "p-2d0f77",
+      "quote": "Bṛhanmanu:",
+      "justification": "Cited at p-2d0f77 for the verse stating the entire fortnight in which the sun enters Virgo (whether at the beginning, middle, or end) is suitable for śrāddha."
+    },
+    {
+      "cited_work": "Śāṭhyāyani",
+      "cited_author": "Śāṭhyāyani",
+      "stance": "authority",
+      "paragraph_id": "p-0d6569",
+      "quote": "By Śāṭhyāyani, however—",
+      "justification": "Cited at p-0d6569 and p-f0ec98 for the injunction specifying sixteen tithis in the dark fortnight of Nabhasya conjoined with Virgo as the Mahālaya śrāddha time."
+    },
+    {
+      "cited_work": "Sūryasiddhānta",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-77a5dc",
+      "quote": "As for what is in the Sūryasiddhānta—",
+      "justification": "The Sūryasiddhānta is cited at p-77a5dc as an astronomical authority specifying the solar degrees at which Virgo begins and stating the sixteen days of Mahālaya as equivalent to sacrifices."
+    },
+    {
+      "cited_work": "Nārada (in Pṛthvīcandrodaya)",
+      "cited_author": "Nārada",
+      "stance": "authority",
+      "paragraph_id": "p-3c35e5",
+      "quote": "This is from the statement of Nārada in the Pṛthvīcandrodaya.",
+      "justification": "Nārada is cited via the Pṛthvīcandrodaya at p-3c35e5 for the examination of prohibited tithi etc. in a single Mahālaya performance."
+    },
+    {
+      "cited_work": "Vṛddhagārgya",
+      "cited_author": "Vṛddhagārgya",
+      "stance": "authority",
+      "paragraph_id": "p-b1c8e1",
+      "quote": "The same is stated by Vṛddhagārgya:",
+      "justification": "Cited at p-b1c8e1 for the prohibition of śrāddha in Prājāpatya, Pauṣṇa, and ancestral nakṣatras and on Bhārgava's day."
+    },
+    {
+      "cited_work": "Marīci Smṛti",
+      "cited_author": "Marīci",
+      "stance": "authority",
+      "paragraph_id": "p-1563aa",
+      "quote": "By this statement of Marīci",
+      "justification": "Marīci is cited at p-1563aa for the Caturdaśī rule specifying who (those killed by poison, snake, beast, fire, wild animal, or Brahmin) may have śrāddha on Caturdaśī."
+    },
+    {
+      "cited_work": "Kārṣṇājini",
+      "cited_author": "Kārṣṇājini",
+      "stance": "authority",
+      "paragraph_id": "p-85c175",
+      "quote": "This is from the statement of Kārṣṇājini.",
+      "justification": "Kārṣṇājini is cited at p-85c175 for the rule that in daily Mahālaya śrāddha, Nandā and Caturdaśī need not be avoided."
+    },
+    {
+      "cited_work": "Madanapārijāta",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-3890bd",
+      "quote": "the word 'one who has established the sacred fires' here is also indicative of one who maintains the smārta fire, says the Madanapārijāta.",
+      "justification": "The Madanapārijāta is cited at p-3890bd as an interpretive authority extending the sāgnika category to smārta-fire maintainers for purposes of Sinīvālī/Kuhū determination."
+    },
+    {
+      "cited_work": "Devala",
+      "cited_author": "Devala",
+      "stance": "authority",
+      "paragraph_id": "p-8b1a84",
+      "quote": "Because of this statement of Devala, a śrāddha is enjoined there as well.",
+      "justification": "Devala is cited at p-8b1a84 for the statement that the bright Pratipad with the sixteen days has the nature of Darśa and merits śrāddha, and earlier for reduced-schedule options."
+    },
+    {
+      "cited_work": "Gobhilabhāṣya",
+      "cited_author": "Gobhila (bhāṣyakāra)",
+      "stance": "authority",
+      "paragraph_id": "p-bf2918",
+      "quote": "The sense of the Gobhilabhāṣya and Śabara is also thus.",
+      "justification": "The Gobhilabhāṣya is co-cited with Śabara at p-bf2918 to support the rule for partial-pervasion determination in Amāvāsyā timing."
+    },
+    {
+      "cited_work": "Śabarabhāṣya (on Mīmāṃsāsūtra)",
+      "cited_author": "Śabara",
+      "stance": "authority",
+      "paragraph_id": "p-bf2918",
+      "quote": "The sense of the Gobhilabhāṣya and Śabara is also thus.",
+      "justification": "Śabara's Mīmāṃsā commentary is invoked at p-bf2918 for the determination of partial-pervasion of the Amāvāsyā tithi."
+    },
+    {
+      "cited_work": "Medhātithi (commentary on Manusmṛti)",
+      "cited_author": "Medhātithi",
+      "stance": "refute",
+      "paragraph_id": "p-317990",
+      "quote": "And that is not the tarpaṇa in the form of the pitṛyajña that is part of the five great sacrifices, as stated by Medhātithi, because since that is accomplished by concomitance on the day of the śrāddha, an injunction of its being after that is impossible.",
+      "justification": "Medhātithi's interpretation is explicitly refuted at p-317990, where his identification of tarpaṇa with the five-great-sacrifice pitṛyajña is rejected on logical grounds."
+    },
+    {
+      "cited_work": "Pariśiṣṭaprakāśa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-0cff55",
+      "quote": "says the author of the Pariśiṣṭaprakāśa",
+      "justification": "Cited at p-0cff55 and p-4fbead for interpretive rulings on Amāvāsyā timing applicability and on the full-moon-ending nature of Jyeṣṭha and Mārgaśīrṣa."
+    }
+  ]
+}

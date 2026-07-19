@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 62**
+**Viṣṇu Smriti 62**
 
 Now, for the twice-born, at the root of the little finger is the *sacred part of the hand* called Prājāpatya.[^1] // Vi_62.1 //
 

@@ -1,0 +1,41 @@
+{
+  "work_slug": "george-bubb-dodington-poems-37232e",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "VERSES SENT BY LORD MELCOMBE TO DR. YOUNG, NOT LONG BEFORE HIS LORDSHIP'S DEATH.",
+  "chapter_slug": "01-verses-sent-by-lord-melcombe-to-dr-young-not-lon",
+  "author": "George Bubb Dodington",
+  "author_slug": "george-bubb-dodington",
+  "ecpa_poem_id": "o4984-w0680",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "foot": "trochaic (′˘)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "7",
+    "metrical_pattern": "+-|+-|+-|+/",
+    "line_count": 18
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "366f6c60-4edd-5e12-8c9d-c198e3edc43e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 117,
+      "line_count": 19,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

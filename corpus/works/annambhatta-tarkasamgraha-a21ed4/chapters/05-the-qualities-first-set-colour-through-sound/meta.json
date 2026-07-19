@@ -1,0 +1,38 @@
+{
+  "work_slug": "annambhatta-tarkasamgraha-a21ed4",
+  "work_title": "Tarkasaṃgraha",
+  "chapter_number": 5,
+  "chapter_title": "The qualities — first set (colour through sound)",
+  "chapter_slug": "05-the-qualities-first-set-colour-through-sound",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "2188c640-ef27-5ae7-b457-d98166905352",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "iast",
+      "word_count": 230,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b801ed33-ff47-5806-8a06-9f23a2f3cf65",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 559,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    }
+  ]
+}

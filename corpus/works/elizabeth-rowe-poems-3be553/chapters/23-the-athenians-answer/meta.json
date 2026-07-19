@@ -1,0 +1,40 @@
+{
+  "work_slug": "elizabeth-rowe-poems-3be553",
+  "work_title": "Poems",
+  "chapter_number": 23,
+  "chapter_title": "The Athenians Answer.",
+  "chapter_slug": "23-the-athenians-answer",
+  "author": "Elizabeth Rowe",
+  "author_slug": "elizabeth-rowe",
+  "ecpa_poem_id": "oar96-w0220",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "answer/reply"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 57
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4896236c-624e-5c91-824c-df17c0924f1f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 452,
+      "line_count": 58,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "mahabharata",
+  "work_title": "Mahābhārata",
+  "chapter_number": 7,
+  "chapter_title": "Parva 7",
+  "chapter_slug": "07-parva-7",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "eb38bbfc-1d91-5660-8883-69890c5d7967",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 101774,
+      "paragraph_count": 8152,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c44aae7e-d844-5a47-bc60-7476123bf9bb",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 203946,
+      "paragraph_count": 8152,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    }
+  ]
+}

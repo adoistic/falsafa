@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 42**
+**Viṣṇu Smriti 42**
 
 What has not been mentioned is a miscellaneous sin (*prakīrṇaka*). // Vi_42.1 //
 

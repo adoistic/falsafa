@@ -7,8 +7,8 @@
  * The browser-bundled MCP tools (apps/site/src/islands/byok/browserTools.ts)
  * consume these static URLs. With a symlink, `bun run dev` serves the
  * live corpus directly with no copy step; `astro build` follows the
- * symlink and bundles the corpus into dist/, which Vercel/Netlify/
- * Cloudflare Pages serve as static files.
+ * symlink and bundles the corpus into dist/, which the Cloudflare Worker
+ * serves from R2 as static files (see /DEPLOY.md).
  *
  * Idempotent: skips if the symlink already exists and points at the
  * right target. Run automatically by predev / prebuild.

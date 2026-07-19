@@ -1,0 +1,44 @@
+{
+  "work_slug": "william-collins-poems-b390dd",
+  "work_title": "Poems",
+  "chapter_number": 3,
+  "chapter_title": "ODE TO PITY.",
+  "chapter_slug": "03-ode-to-pity",
+  "author": "William Collins",
+  "author_slug": "william-collins",
+  "ecpa_poem_id": "o4985-w0030",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "sestet (6 lines)"
+    ],
+    "rhyme": "aabccb",
+    "syllable_pattern": "8.8.6.8.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 42
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c7ca5338-990b-5ad9-ba7c-1417a65d880c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 249,
+      "line_count": 44,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

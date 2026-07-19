@@ -1,0 +1,45 @@
+{
+  "work_slug": "william-gerard-hamilton-poems-ad0994",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "ODE TO THE Right Honourable the Lady ****, ON THE DEATH OF HER SON.",
+  "chapter_slug": "04-ode-to-the-right-honourable-the-lady-on-the-deat",
+  "author": "William Gerard Hamilton",
+  "author_slug": "william-gerard-hamilton",
+  "ecpa_poem_id": "o4984-w0230",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode",
+      "elegy"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "sestet (6 lines)"
+    ],
+    "rhyme": "aabccb",
+    "syllable_pattern": "8.8.6.8.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 120
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "62d4c5b2-4b04-5bdc-905d-45187e887721",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 700,
+      "line_count": 122,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

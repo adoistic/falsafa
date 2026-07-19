@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 67**
+**Viṣṇu Smriti 67**
 
 Now, having swept around the fire, sprinkled it with water, spread sacred grass around it, and poured water around it, having taken the first portion from all the cooked food, he shall offer it. // Vi_67.1 //
 
@@ -42,7 +42,7 @@ At the door, to Dharma and Adharma, and to Mṛtyu (Death). // Vi_67.10 //
 
 At the water-pot, to Varuṇa. // Vi_67.11 //
 
-At the mortar, to Vishnu. // Vi_67.12 //
+At the mortar, to Viṣṇu. // Vi_67.12 //
 
 At the grinding-stone, to the Maruts. // Vi_67.13 //
 

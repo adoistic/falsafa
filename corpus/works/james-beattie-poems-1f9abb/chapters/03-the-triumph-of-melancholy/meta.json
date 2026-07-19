@@ -1,0 +1,44 @@
+{
+  "work_slug": "james-beattie-poems-1f9abb",
+  "work_title": "Poems",
+  "chapter_number": 3,
+  "chapter_title": "THE TRIUMPH OF MELANCHOLY.",
+  "chapter_slug": "03-the-triumph-of-melancholy",
+  "author": "James Beattie",
+  "author_slug": "james-beattie",
+  "ecpa_poem_id": "o4987-w0260",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "lament"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "10.10.10.10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/",
+    "line_count": 212
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7596e0af-8ec2-59c4-b2d0-7191d5a14231",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1623,
+      "line_count": 214,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

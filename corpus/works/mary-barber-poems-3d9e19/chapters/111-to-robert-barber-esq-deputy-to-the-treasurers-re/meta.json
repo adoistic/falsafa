@@ -1,0 +1,45 @@
+{
+  "work_slug": "mary-barber-poems-3d9e19",
+  "work_title": "Poems",
+  "chapter_number": 111,
+  "chapter_title": "To Robert Barber Esq; Deputy to the Treasurer's Remembrancer in the Court of Exchequer, on his attending, whilst his Son repeated Gay's Fable of the Hare and Many Friends.",
+  "chapter_slug": "111-to-robert-barber-esq-deputy-to-the-treasurers-re",
+  "author": "Mary Barber",
+  "author_slug": "mary-barber",
+  "ecpa_poem_id": "pba35-w1280",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "epigram"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 8
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "07197665-4e13-5a44-a051-bb148377c601",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 84,
+      "line_count": 9,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

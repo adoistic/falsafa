@@ -24,21 +24,21 @@ He who does not teach the craft but makes the pupil do other work shall incur th
 
 An apprentice, even after being taught, should perform the desired work for his master for a period. The fruit of the work he does there belongs to the master. // K_714 //
 
-Bhṛgu declares that slavery arises from the voluntary surrender of one's independence, like that of a wife. This is to be known for the three castes; slavery never exists for a Brahmin. // K_715 //
+Bhṛgu declares that slavery arises from the voluntary surrender of one's independence, like that of a wife. This is to be known for the three castes; slavery never exists for a Brāhmaṇa. // K_715 //
 
-Slavery is in the natural order of the castes, not in the reverse order, for a Kshatriya, Vaishya, and Shudra who renounce their independence. // K_716 //
+Slavery is in the natural order of the castes, not in the reverse order, for a Kṣatriya, Vaiśya, and Śūdra who renounce their independence. // K_716 //
 
-Even a man of the same caste should never make a Brahmin a slave. For by the slavery of a Brahmin, the king's majesty is diminished. // K_717 //
+Even a man of the same caste should never make a Brāhmaṇa a slave. For by the slavery of a Brāhmaṇa, the king's majesty is diminished. // K_717 //
 
-A Kshatriya, Vaishya, or Shudra may sometimes be made to perform the work of a slave by one of the same caste, but never a Brahmin, says Bṛhaspati. // K_718 //
+A Kṣatriya, Vaiśya, or Śūdra may sometimes be made to perform the work of a slave by one of the same caste, but never a Brāhmaṇa, says Bṛhaspati. // K_718 //
 
 One who is endowed with good character and learning may, at will, make one who is inferior to him in these respects perform work. Even there, a best of the twice-born should not perform any impure task. // K_719 //
 
 The removal of urine and feces, and being naked for rubbing—these tasks, and the catching of cows and the like, should generally be done by the sons of female slaves. // K_720 //
 
-Where the three castes, the twice-born and others, have abandoned their ascetic vows, the king should banish a Brahmin, and make a Kshatriya or Vaishya a slave. // K_721 //
+Where the three castes, the twice-born and others, have abandoned their ascetic vows, the king should banish a Brāhmaṇa, and make a Kṣatriya or Vaiśya a slave. // K_721 //
 
-But a Shudra he may make a slave, whether bought or not. For he was created by the Self-existent One for servitude itself. // K_722 //
+But a Śūdra he may make a slave, whether bought or not. For he was created by the Self-existent One for servitude itself. // K_722 //
 
 He who has intercourse with his own female slave, and she gives birth from it, considering the seed, she should be made free, and she is not a slave along with her issue. // K_723 //
 
@@ -46,7 +46,7 @@ Whatever wealth a slave may have, his master is remembered as its lord. But the 
 
 A free woman married by a slave also attains the state of slavery, because her husband is her lord, and the lord is dependent on his master. // K_725 //
 
-He who takes a Brahmin woman or sells her, the king should annul that act, and all of them shall be punishable. // K_726 //
+He who takes a Brāhmaṇa woman or sells her, the king should annul that act, and all of them shall be punishable. // K_726 //
 
 He who, out of lust, makes a woman of good family his slave, or transfers her to another, shall be punished, and that act shall be undone. // K_727 //
 

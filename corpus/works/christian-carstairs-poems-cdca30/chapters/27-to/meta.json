@@ -1,0 +1,44 @@
+{
+  "work_slug": "christian-carstairs-poems-cdca30",
+  "work_title": "Poems",
+  "chapter_number": 27,
+  "chapter_title": "To —.",
+  "chapter_slug": "27-to",
+  "author": "Christian Carstairs",
+  "author_slug": "christian-carstairs",
+  "ecpa_poem_id": "pcc86-w0270",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "address"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 11
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "97e995e9-06f2-59e5-bb46-d1ab465b3e2e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 85,
+      "line_count": 12,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

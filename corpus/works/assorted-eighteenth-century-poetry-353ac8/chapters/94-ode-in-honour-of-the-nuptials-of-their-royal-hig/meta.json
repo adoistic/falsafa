@@ -1,0 +1,41 @@
+{
+  "work_slug": "assorted-eighteenth-century-poetry-353ac8",
+  "work_title": "An Assorted Collection of Eighteenth-Century Poetry",
+  "chapter_number": 94,
+  "chapter_title": "ODE: IN HONOUR OF THE NUPTIALS OF THEIR ROYAL HIGHNESSES THE PRINCE AND PRINCESS OF WALES.",
+  "chapter_slug": "94-ode-in-honour-of-the-nuptials-of-their-royal-hig",
+  "author": "Charles Dibdin",
+  "author_slug": "charles-dibdin",
+  "ecpa_poem_id": "o3396-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "epithalamion"
+    ],
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "metrical_pattern": "irregular",
+    "line_count": 235
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a1166d54-4775-55a9-b307-99b3eaf06847",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1529,
+      "line_count": 255,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

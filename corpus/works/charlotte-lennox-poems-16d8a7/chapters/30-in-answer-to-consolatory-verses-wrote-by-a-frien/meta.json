@@ -1,0 +1,45 @@
+{
+  "work_slug": "charlotte-lennox-poems-16d8a7",
+  "work_title": "Poems",
+  "chapter_number": 30,
+  "chapter_title": "In Answer to Consolatory Verses wrote by a Friend.",
+  "chapter_slug": "30-in-answer-to-consolatory-verses-wrote-by-a-frien",
+  "author": "Charlotte Lennox",
+  "author_slug": "charlotte-lennox",
+  "ecpa_poem_id": "o5247-w0290",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "answer/reply"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 12
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4d4a05a7-d2bf-5399-b804-bb2db90c57d4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 101,
+      "line_count": 13,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

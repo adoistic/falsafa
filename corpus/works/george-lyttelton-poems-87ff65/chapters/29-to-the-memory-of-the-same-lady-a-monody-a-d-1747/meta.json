@@ -1,0 +1,39 @@
+{
+  "work_slug": "george-lyttelton-poems-87ff65",
+  "work_title": "Poems",
+  "chapter_number": 29,
+  "chapter_title": "To the Memory of the same LADY, A MONODY. A. D. 1747.",
+  "chapter_slug": "29-to-the-memory-of-the-same-lady-a-monody-a-d-1747",
+  "author": "George Lyttelton",
+  "author_slug": "george-lyttelton",
+  "ecpa_poem_id": "o5153-w0290",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode",
+      "elegy"
+    ],
+    "rhyme": "irregular",
+    "metrical_pattern": "irregular",
+    "line_count": 292
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3a12df34-55db-5bd7-9606-a75902b6b765",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1950,
+      "line_count": 314,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

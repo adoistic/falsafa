@@ -1,0 +1,41 @@
+{
+  "work_slug": "lady-mary-chudleigh-poems-f0cfc5",
+  "work_title": "Poems",
+  "chapter_number": 33,
+  "chapter_title": "One of Lucian's Dialogues of the Dead Paraphras'd.",
+  "chapter_slug": "33-one-of-lucians-dialogues-of-the-dead-paraphrasd",
+  "author": "Lady Mary Chudleigh",
+  "author_slug": "lady-mary-chudleigh",
+  "ecpa_poem_id": "clc03-w0330",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 122
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2ff207e7-39ee-55f8-b808-bb3f6e4e196e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 970,
+      "line_count": 136,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

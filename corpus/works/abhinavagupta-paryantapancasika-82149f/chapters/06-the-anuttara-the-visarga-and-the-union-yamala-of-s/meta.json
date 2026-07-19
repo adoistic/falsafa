@@ -1,0 +1,38 @@
+{
+  "work_slug": "abhinavagupta-paryantapancasika-82149f",
+  "work_title": "Paryantapañcāśikā",
+  "chapter_number": 6,
+  "chapter_title": "The Anuttara, the visarga, and the union (yāmala) of Śiva and Śakti",
+  "chapter_slug": "06-the-anuttara-the-visarga-and-the-union-yamala-of-s",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "0ed3c19d-9fc7-5216-bd71-9407d01e4ab4",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "iast",
+      "word_count": 170,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4b24de36-04f8-5509-9c43-85d0dc2434e7",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 430,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    }
+  ]
+}

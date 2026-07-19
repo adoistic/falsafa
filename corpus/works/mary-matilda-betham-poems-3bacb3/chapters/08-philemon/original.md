@@ -1,0 +1,147 @@
+---
+work_id: "3bacb3ef-6179-50ff-872e-0c6374127a19"
+work_slug: "mary-matilda-betham-poems-3bacb3"
+work_title: Poems
+author: (Mary) Matilda Betham
+author_slug: "mary-matilda-betham"
+ecpa_poem_id: "bmb97-w0080"
+chapter_number: 8
+chapter_title: PHILEMON.
+chapter_slug: "08-philemon"
+variant_id: "f55e9591-d39b-5a85-af9d-277bbec97608"
+content_type: original
+layout: verse
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 684
+source_url: "https://www.eighteenthcenturypoetry.org/"
+license: "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+genres:
+  - heroic quatrain
+  - ode
+metrical_foot: iambic (˘′)
+metrical_count: pentameter (5 feet)
+stanza_form:
+  - quatrain (4 lines)
+rhyme_scheme: abab
+syllable_pattern: 10.10.10.10
+---
+
+PHILEMON. 
+
+YE blooming youth, possest of every grace,
+ Which can delight the eye, or please the ear,
+ Who boast a polish'd mind and faultless face,
+ Awhile the councils of Philemon hear! 
+
+Let not pride lift the thoughtless head too high,
+ Temerity arch o'er the scornful brow,
+ Contemptuous glances arm the sparkling eye,
+ Or the high heart with self-complacence glow! 
+
+Alas! full soon the eve of life arrives,
+ Though pale Disease's train approach not nigh;
+ Short is the summer of the happiest lives,
+ If no rude storm disturbs the smiling sky. 
+
+This wretched body, bending to the earth,
+ Once, on the wings of health, alert and gay,
+ Shone forth the foremost in the train of mirth,
+ And cloudless skies announc'd a beauteous day. 
+
+My parents oft, with fond complacence view'd,
+ The elegance of my external form;
+ And thought my mind with excellence endued,
+ Bright as my genius, as my fancy warm. 
+
+There was a time, poor as I now appear,
+ I admiration met in every look;
+ And, harsh as now my words may grate your ear,
+ Each tongue was silent when Philemon spoke. 
+
+Once could this voice make every bosom thrill,
+ As it pour'd forth the light or plaintive lay;
+ And once these fingers, with superior skill,
+ Upon the lute could eloquently play. 
+
+By partial friendship sooth'd, by flattery fann'd,
+ I learnt with conscious grace the dance to lead,
+ To guide the Phaeton with careless hand,
+ And rules with flowing rein, the prancing steed. 
+
+Sick with the glory of a trifler's fame,
+ By folly nurtur'd, I was proud and vain;
+ Till Chastisement in kindest mercy came,
+ Though then her just decrees I dar'd arraign. 
+
+The form that sought so late the public view,
+ That glow'd with transport, as the world admir'd,
+ Fill'd with false shame, from every eye withdrew,
+ And to the shades of solitude retir'd. 
+
+Consum'd by fevers, spiritless, forlorn,
+ Blasted by apoplexy's dreadful rage,
+ My bleeding heart by keen remembrance torn,
+ I past my prime in premature old age. 
+
+I heard my parent's ill-suppressed sighs,
+ And wish'd myself upon the peaceful bier;
+ I saw the anguish of their sleepless eyes,
+ The smile dissembled, and the secret tear. 
+
+Oft, with a kind of gratifying woe,
+ I recollected every former charm,
+ And, with the spleen of a malicious foe,
+ Delighted still to keep my sorrows warm. 
+
+ "Where is the lustre of the gladsome eye,
+" The airy smile, the animated mien,
+ "The rounding lip of liveliest crimson dye,
+" So lately envied, now no longer seen. 
+
+ "I too have gloried in my waving hair,
+" No ringlets now remain to raise my pride;
+ "Nor can I now lay the white forebead bare,
+" And push the too luxuriant locks aside. " 
+
+Thus, like a child, I sigh'd for pleasures past,
+ And lost my hours in a delusive dream;
+ But Reason op'd my blinded eyes at last,
+ And clear'd each mist by her refulgent beam. 
+
+I saw futurity before me spread,
+ A scourge or sceptre offer'd to my view,
+ Alarm'd, from Folly's erring mazes fled,
+ And to my God with humble rev'rence drew. 
+
+I bow'd, submissive, at the holy shrine,
+ His mercy with warm gratitude confest,
+ Which had reveal'd the spark of life divine,
+ That slumber'd in my earth-enamoured breast. 
+
+Had I, as friendship and self-love desir'd,
+ Still suck'd delirium at the fane of praise,
+ I might, my conscience lull'd and passions fir'd,
+ Have lost my soul in the bewitching blaze. 
+
+Dear rising train, let not my words offend! 
+Nor the pure dictates of my love despise;
+ To one, late like yourselves, attention lend,
+ And, taught by his experience, be wise! 
+
+Ah! banish from your eye the fiend Disdain;
+ Let fair simplicity supply its place;
+ Nor longer let conceit the bosom stain;
+ The child of weakness, follow'd by disgrace. 
+
+Should time from you each glowing beauty wrest,
+ You will not then those self-reproaches feel,
+ Which every eye awaken'd in my breast,
+ And twenty winters scarce suffic'd to heel. 
+
+Nor will your friends observe each faded charm,
+ Since still your countenance its smile retains,
+ And the same lov'd companion, kind and warm,
+ With unassuming manners, yet remains.

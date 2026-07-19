@@ -1,0 +1,46 @@
+{
+  "work_slug": "joseph-addison-poems-ca1079",
+  "work_title": "Poems",
+  "chapter_number": 2,
+  "chapter_title": "THE CAMPAIGN, A POEM, To His GRACE the DUKE of MARLBOROUGH.",
+  "chapter_slug": "02-the-campaign-a-poem-to-his-grace-the-duke-of-mar",
+  "author": "Joseph Addison",
+  "author_slug": "joseph-addison",
+  "ecpa_poem_id": "o3499-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "dedication",
+      "panegyric"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 476
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9a07cb67-bc4e-596d-88e7-e54d69b8e90b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3562,
+      "line_count": 477,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

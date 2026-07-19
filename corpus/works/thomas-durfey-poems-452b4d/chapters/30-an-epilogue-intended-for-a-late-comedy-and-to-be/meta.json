@@ -1,0 +1,44 @@
+{
+  "work_slug": "thomas-durfey-poems-452b4d",
+  "work_title": "Poems",
+  "chapter_number": 30,
+  "chapter_title": "An Epilogue intended for a late COMEDY, and to be spoke by Mr. MONFORD, in a long Presbyterian Cloak.",
+  "chapter_slug": "30-an-epilogue-intended-for-a-late-comedy-and-to-be",
+  "author": "Thomas D'Urfey",
+  "author_slug": "thomas-durfey",
+  "ecpa_poem_id": "oau90-w0300",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "epilogue"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 50
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7a9041f6-5b13-532a-85a8-d140f605c3ff",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 420,
+      "line_count": 51,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

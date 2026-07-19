@@ -1,0 +1,44 @@
+{
+  "work_slug": "elizabeth-hands-poems-def5d6",
+  "work_title": "Poems",
+  "chapter_number": 30,
+  "chapter_title": "An ELEGY.",
+  "chapter_slug": "30-an-elegy",
+  "author": "Elizabeth Hands",
+  "author_slug": "elizabeth-hands",
+  "ecpa_poem_id": "peh89-w0300",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "elegy"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "sestet (6 lines)"
+    ],
+    "rhyme": "aabccb",
+    "syllable_pattern": "8.8.6.8.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 36
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f230f91c-5e13-5674-b270-09e03551aac6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 200,
+      "line_count": 37,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "work_slug": "john-dalton-poems-98baf0",
+  "work_title": "Poems",
+  "chapter_number": 3,
+  "chapter_title": "EPISTLE TO THE Right Honble. the Countess of HERTFORD, AT PERCY LODGE: WRITTEN IN THE YEAR MDCCXLIV.",
+  "chapter_slug": "03-epistle-to-the-right-honble-the-countess-of-hert",
+  "author": "John Dalton",
+  "author_slug": "john-dalton",
+  "ecpa_poem_id": "o4984-w0050",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "epistle",
+      "prospect poem / topographical poem"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 271
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ad4b78e0-274e-5669-bcb5-fdb7f0b255b2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1697,
+      "line_count": 274,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

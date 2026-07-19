@@ -1,0 +1,38 @@
+{
+  "work_slug": "abhinavagupta-paryantapancasika-82149f",
+  "work_title": "Paryantapañcāśikā",
+  "chapter_number": 5,
+  "chapter_title": "Teaching to the disciple: the means that is no-means (anupāya)",
+  "chapter_slug": "05-teaching-to-the-disciple-the-means-that-is-no-mean",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "56051684-72fa-5967-96fd-398f789a30f7",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "iast",
+      "word_count": 141,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d21521af-b36d-5465-9e0b-3f0948f78f03",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 325,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    }
+  ]
+}

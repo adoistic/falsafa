@@ -1,0 +1,44 @@
+{
+  "work_slug": "mark-akenside-poems-7a5821",
+  "work_title": "Poems",
+  "chapter_number": 6,
+  "chapter_title": "ODE VI. On the Absence of the Poetic Inclination.",
+  "chapter_slug": "06-ode-vi-on-the-absence-of-the-poetic-inclination",
+  "author": "Mark Akenside",
+  "author_slug": "mark-akenside",
+  "ecpa_poem_id": "o3776-w0060",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "nine-line stanza"
+    ],
+    "rhyme": "aabbccddd",
+    "syllable_pattern": "8.8.8.8.8.8.8.8.10",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/  -+|-+|-+|-+/ -+|-+|-+|-+|-+/",
+    "line_count": 27
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "bc300f7d-738e-5f3d-8f5f-0a3534c8c933",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 180,
+      "line_count": 28,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

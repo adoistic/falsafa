@@ -1,0 +1,38 @@
+{
+  "work_slug": "simananda-samkhyatattvavivecana-69b94a",
+  "work_title": "Sāṃkhyatattvavivecana",
+  "chapter_number": 6,
+  "chapter_title": "Evolution (forward creation)",
+  "chapter_slug": "06-evolution-forward-creation",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "a0fd5dc5-4a49-51ff-9644-a05f5eb07694",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "iast",
+      "word_count": 33,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "adc9e3b7-3082-5d06-a153-a8f186dc50bf",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 76,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    }
+  ]
+}

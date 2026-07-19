@@ -1,0 +1,44 @@
+{
+  "work_slug": "william-taylor-poems-a36e7a",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "A very gallant Copy of VERSES, (but somewhat silly) upon the Ladies, and their fine Cloaths at a Ball.",
+  "chapter_slug": "01-a-very-gallant-copy-of-verses-but-somewhat-silly",
+  "author": "William Taylor",
+  "author_slug": "william-taylor",
+  "ecpa_poem_id": "o5156-w0980",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "epigram"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "aabb",
+    "syllable_pattern": "10.10.10.10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/         -+|-+|-+|-+|-+/         -+|-+|-+|-+|-+/         -+|-+|-+|-+|-+/",
+    "line_count": 8
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "804f4997-4112-5d50-a105-0897b1a012bb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 83,
+      "line_count": 10,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

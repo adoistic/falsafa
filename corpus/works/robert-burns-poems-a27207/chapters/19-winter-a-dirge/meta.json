@@ -1,0 +1,44 @@
+{
+  "work_slug": "robert-burns-poems-a27207",
+  "work_title": "Poems",
+  "chapter_number": 19,
+  "chapter_title": "WINTER, A DIRGE.",
+  "chapter_slug": "19-winter-a-dirge",
+  "author": "Robert Burns",
+  "author_slug": "robert-burns",
+  "ecpa_poem_id": "cbu86-w0190",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "lament"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "octet (8 lines)"
+    ],
+    "rhyme": "xaxaxbxb",
+    "syllable_pattern": "8.6.8.6.8.6.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 24
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e32a0ca1-85b5-5714-a4b7-64c0bc1f62e0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 147,
+      "line_count": 29,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

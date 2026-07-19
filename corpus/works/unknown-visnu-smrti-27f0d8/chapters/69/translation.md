@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 69**
+**Viṣṇu Smriti 69**
 
 He shall not approach his wife on the eighth, fourteenth, and fifteenth days of the lunar fortnight. // Vi_69.1 //
 

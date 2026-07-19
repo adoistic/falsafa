@@ -1,0 +1,44 @@
+{
+  "work_slug": "isabella-kelly-poems-dc1cc7",
+  "work_title": "Poems",
+  "chapter_number": 29,
+  "chapter_title": "THE EAGLE, THE KITE, AND THE COCK. An Emblematic Fable, most respectfully addressed to the Right Hon. General C——y. Written in the year 1788.",
+  "chapter_slug": "29-the-eagle-the-kite-and-the-cock-an-emblematic-fa",
+  "author": "Isabella Kelly",
+  "author_slug": "isabella-kelly",
+  "ecpa_poem_id": "pik94-w0290",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "fable"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 331
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5cb2dd51-c100-574f-9cfd-94030e62812e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2167,
+      "line_count": 333,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,626 @@
+{
+  "slug": "unknown-visnu-smrti-27f0d8",
+  "window": "52-67",
+  "entities": [
+    {
+      "canonical_name": "Vishnu (Vāsudeva)",
+      "surface_names": ["Vāsudeva", "Vishnu", "Puruṣa"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-2d1729",
+          "quote": "he shall worship the blessed Vāsudeva, who is without beginning or end",
+          "role": "object of worship"
+        },
+        {
+          "paragraph_id": "p-2d84be",
+          "quote": "To Vāsudeva, Saṃkarṣaṇa, Pradyumna, Aniruddha, Puruṣa, Satya, Acyuta, and Vāsudeva",
+          "role": "recipient of ritual food offering"
+        },
+        {
+          "paragraph_id": "p-a09891",
+          "quote": "At the mortar, to Vishnu",
+          "role": "recipient of bali offering"
+        },
+        {
+          "paragraph_id": "p-8d031e",
+          "quote": "Or the verse \"tadviṣṇoḥ paramaṃ padam.\"",
+          "role": "deity invoked in bathing ritual"
+        }
+      ],
+      "description": "The supreme deity Vishnu/Vāsudeva, described as without beginning or end, who is the central object of daily worship and whose multiple forms receive ritual food offerings.",
+      "justification": "Vāsudeva is the principal deity addressed in chapters 65 and 67, receiving elaborate ritual worship including water, flowers, garments, incense, lamps, and food offerings, and is identified with the cosmic Puruṣa."
+    },
+    {
+      "canonical_name": "Prajāpati",
+      "surface_names": ["Prajāpati"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-f75de3",
+          "quote": "The syllable A, the syllable U, and the syllable M, Prajāpati / Drew forth from the three Vedas, and also \"bhūr bhuvaḥ svaḥ\"",
+          "role": "cosmic creator who drew forth sacred syllables"
+        },
+        {
+          "paragraph_id": "p-f75de3",
+          "quote": "That is the \"tat\" of this Ṛg verse, the Sāvitrī, from the supreme Prajāpati",
+          "role": "source of the Gāyatrī/Sāvitrī mantra"
+        },
+        {
+          "paragraph_id": "p-5cbd30",
+          "quote": "Prajāpati has deemed acceptable, even from one who has done evil deeds",
+          "role": "divine authority on gift-giving rules"
+        },
+        {
+          "paragraph_id": "p-d7fd75",
+          "quote": "Then to Agni, Soma, Mitra, Varuṇa, Indra, Indra and Agni, the Viśvedevas, Prajāpati, Anumati, Dhanvantari, Vāstoṣpati, and Agni Sviṣṭakṛt",
+          "role": "recipient of ritual food offering"
+        }
+      ],
+      "description": "The divine progenitor who extracted the sacred syllable Om and the Gāyatrī mantra from the three Vedas, and whose authority governs the rules of gift acceptance.",
+      "justification": "Prajāpati is cited both as the cosmic source of the Om syllable and Sāvitrī mantra and as a normative authority for accepting alms, and receives offerings in the Vaiśvadeva rite."
+    },
+    {
+      "canonical_name": "Agni",
+      "surface_names": ["Agni", "Agni Sviṣṭakṛt"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-d7fd75",
+          "quote": "Then to Agni, Soma, Mitra, Varuṇa, Indra, Indra and Agni, the Viśvedevas, Prajāpati, Anumati, Dhanvantari, Vāstoṣpati, and Agni Sviṣṭakṛt",
+          "role": "recipient of ritual food offering"
+        },
+        {
+          "paragraph_id": "p-6cf875",
+          "quote": "The oblation into the fire is the sacrifice to the gods",
+          "role": "medium for divine sacrifice"
+        }
+      ],
+      "description": "The fire deity who receives ritual food offerings in the household Vaiśvadeva rite and serves as the medium through which oblations reach the gods.",
+      "justification": "Agni appears both as a named recipient in the list of deities receiving food offerings and implicitly as the fire into which oblations are poured as the sacrifice to the gods."
+    },
+    {
+      "canonical_name": "Indra",
+      "surface_names": ["Indra", "Śakra"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-d7fd75",
+          "quote": "Then to Agni, Soma, Mitra, Varuṇa, Indra, Indra and Agni, the Viśvedevas, Prajāpati",
+          "role": "recipient of ritual food offering"
+        },
+        {
+          "paragraph_id": "p-5a246c",
+          "quote": "In the eastern part, to Indra and the followers of Indra",
+          "role": "guardian of the eastern direction"
+        },
+        {
+          "paragraph_id": "p-f75de3",
+          "quote": "a householder goes to the abode of Śakra",
+          "role": "lord of heaven, destination for virtuous householders"
+        }
+      ],
+      "description": "The king of gods and guardian of the eastern direction, whose heavenly abode is promised to the virtuous householder who fulfills all obligations.",
+      "justification": "Indra/Śakra is the guardian of the east in the bali ritual, receives food offerings, and his heaven is the eschatological reward for the dutiful householder in chapter 59."
+    },
+    {
+      "canonical_name": "Yama",
+      "surface_names": ["Yama", "Mṛtyu"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-1686c5",
+          "quote": "In the southern part, to Yama and the followers of Yama",
+          "role": "guardian of the southern direction"
+        },
+        {
+          "paragraph_id": "p-9c341a",
+          "quote": "The suffering of torment in the realm of Yama, one who bathes daily does not see",
+          "role": "lord of the afterlife realm of punishment"
+        },
+        {
+          "paragraph_id": "p-954f8f",
+          "quote": "At the door, to Dharma and Adharma, and to Mṛtyu (Death)",
+          "role": "death personified, receiving bali at the door"
+        }
+      ],
+      "description": "The god of death and guardian of the southern direction, whose realm of torment is avoided by those who perform daily bathing and follow dharmic rules.",
+      "justification": "Yama governs the south in the bali ritual and his punitive realm is invoked as a deterrent for the householder who neglects prescribed purification."
+    },
+    {
+      "canonical_name": "Varuṇa",
+      "surface_names": ["Varuṇa"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-d7fd75",
+          "quote": "Then to Agni, Soma, Mitra, Varuṇa, Indra, Indra and Agni",
+          "role": "recipient of ritual food offering"
+        },
+        {
+          "paragraph_id": "p-cb8ba7",
+          "quote": "In the western part, to Varuṇa and the followers of Varuṇa",
+          "role": "guardian of the western direction"
+        },
+        {
+          "paragraph_id": "p-2eadc0",
+          "quote": "At the water-pot, to Varuṇa",
+          "role": "deity associated with water, receiving bali at the water-pot"
+        }
+      ],
+      "description": "The deity of cosmic order and water, guardian of the western direction, who receives food offerings and a bali at the household water-pot.",
+      "justification": "Varuṇa is associated with water in the ritual layout — receiving bali at the water-pot and presiding over the west — consistent with his Vedic role as lord of waters and cosmic law."
+    },
+    {
+      "canonical_name": "Soma",
+      "surface_names": ["Soma"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-d7fd75",
+          "quote": "Then to Agni, Soma, Mitra, Varuṇa, Indra",
+          "role": "recipient of ritual food offering"
+        },
+        {
+          "paragraph_id": "p-236bb6",
+          "quote": "In the northern part, to Soma and the followers of Soma",
+          "role": "guardian of the northern direction"
+        },
+        {
+          "paragraph_id": "p-08b489",
+          "quote": "Every year, with Soma",
+          "role": "sacred plant/deity offered in annual sacrifice"
+        }
+      ],
+      "description": "The moon deity and sacred plant, guardian of the northern direction, who receives both food offerings in the Vaiśvadeva rite and the annual Soma sacrifice performed by the householder.",
+      "justification": "Soma appears as a recipient in multiple ritual contexts: the annual sacrifice, the Vaiśvadeva offering list, and the directional bali for the north."
+    },
+    {
+      "canonical_name": "Brahman (deity)",
+      "surface_names": ["Brahman", "Brahma"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-c120c7",
+          "quote": "In the middle, to Brahman and the followers of Brahman",
+          "role": "deity presiding over the center of the house"
+        },
+        {
+          "paragraph_id": "p-c5c380",
+          "quote": "The study of the Veda is the sacrifice to Brahma",
+          "role": "recipient of the Vedic study sacrifice"
+        },
+        {
+          "paragraph_id": "p-f75de3",
+          "quote": "The three great imperishable sacred utterances, preceded by the syllable Om, / And the three-footed Gāyatrī are to be known as the mouth of Brahman",
+          "role": "cosmic absolute whose mouth is the Gāyatrī"
+        }
+      ],
+      "description": "The cosmic deity presiding over the center of the household and the recipient of Vedic study as sacrifice, identified with the supreme absolute through the Gāyatrī mantra.",
+      "justification": "Brahman occupies the central position in the bali ritual spatial scheme, receives Vedic study as his specific sacrifice, and is identified with the Om syllable and Gāyatrī in chapter 55."
+    },
+    {
+      "canonical_name": "Vaiśravaṇa (Kubera)",
+      "surface_names": ["King Vaiśravaṇa"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-90ac47",
+          "quote": "In the upper part of the house, to King Vaiśravaṇa and to the spirits",
+          "role": "deity receiving bali in the upper part of the house"
+        }
+      ],
+      "description": "The god of wealth Kubera (Vaiśravaṇa), who receives a bali offering at the upper part of the household along with the spirits.",
+      "justification": "Vaiśravaṇa is assigned the upper spatial region of the household bali ritual, reflecting his role as king of the yakṣas and lord of wealth stationed above."
+    },
+    {
+      "canonical_name": "Śrī (Lakṣmī)",
+      "surface_names": ["Śrī"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-7ce9f7",
+          "quote": "At the main post, to Dhruvā, Śrī, Hiraṇyakeśī, and to the Vanaspatis",
+          "role": "goddess receiving bali at the main post"
+        }
+      ],
+      "description": "The goddess of prosperity Śrī (Lakṣmī), who receives a bali offering at the main post of the household along with Dhruvā and Hiraṇyakeśī.",
+      "justification": "Śrī is listed among the goddesses receiving bali at the main post (sthūṇa), a position of household centrality, consistent with her role as the deity of domestic auspiciousness."
+    },
+    {
+      "canonical_name": "Dharma (personified)",
+      "surface_names": ["Dharma", "Adharma"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-954f8f",
+          "quote": "At the door, to Dharma and Adharma, and to Mṛtyu (Death)",
+          "role": "pair receiving bali at the doorway"
+        }
+      ],
+      "description": "The personified forces of Dharma (righteousness) and Adharma (unrighteousness) stationed at the door of the household, receiving ritual food offerings alongside Death.",
+      "justification": "Dharma and Adharma are treated as deities in the bali scheme, stationed at the threshold — a liminal space — symbolizing the choice between righteous and unrighteous conduct in daily life."
+    },
+    {
+      "canonical_name": "Dhanvantari",
+      "surface_names": ["Dhanvantari"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-d7fd75",
+          "quote": "Prajāpati, Anumati, Dhanvantari, Vāstoṣpati, and Agni Sviṣṭakṛt",
+          "role": "recipient of ritual food offering"
+        }
+      ],
+      "description": "The divine physician Dhanvantari, listed among the deities receiving food offerings in the household Vaiśvadeva rite.",
+      "justification": "Dhanvantari appears in the ritual food-offering list of chapter 67, receiving offerings alongside other deities as part of the five great daily sacrifices."
+    },
+    {
+      "canonical_name": "Caṇḍāla",
+      "surface_names": ["Caṇḍāla", "Caṇḍāla woman"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-fa17f9",
+          "quote": "For intercourse with a Caṇḍāla woman, he attains her state",
+          "role": "lowcaste group whose pollution transfers through intercourse"
+        }
+      ],
+      "description": "The ritually impure outcast community (Caṇḍālas), whose pollution is considered transmissible through sexual contact, causing the transgressor to adopt the social status of the Caṇḍāla.",
+      "justification": "The Caṇḍāla is invoked in chapter 53 as a paradigm of ritual impurity so severe that intercourse with a Caṇḍāla woman causes permanent degradation of varna status."
+    },
+    {
+      "canonical_name": "Brāhmaṇa",
+      "surface_names": ["Brāhmaṇa", "Brahmin", "twice-born"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-0074fb",
+          "quote": "The sin which a twice-born man commits in one night by intercourse with a vṛṣalī, / He removes in three years by subsisting on alms and constantly muttering prayers",
+          "role": "subject of penance obligation"
+        },
+        {
+          "paragraph_id": "p-1005e0",
+          "quote": "By accepting gifts, the brāhmaṃ tejaḥ (a Brāhmaṇa's spiritual power) of Brāhmaṇas perishes",
+          "role": "bearers of spiritual power threatened by gift-acceptance"
+        },
+        {
+          "paragraph_id": "p-571c76",
+          "quote": "As the Brāhmaṇa is the lord of the varṇas, as the husband is of women, so is the atithi of the householder",
+          "role": "lord of the social hierarchy"
+        },
+        {
+          "paragraph_id": "p-f75de3",
+          "quote": "A Brāhmaṇa may attain perfection by muttering prayers alone, there is no doubt",
+          "role": "subject of spiritual attainment through japa"
+        }
+      ],
+      "description": "The priestly varna who stands at the apex of the social hierarchy, possessing the brahmic spiritual power (tejas) that is safeguarded through gift-refusal and purified through japa.",
+      "justification": "Brāhmaṇas are the primary normative subject of chapters 52–67, governing penance obligations, gift rules, ritual precedence, and spiritual advancement through Vedic recitation."
+    },
+    {
+      "canonical_name": "Gāyatrī (Sāvitrī) mantra",
+      "surface_names": ["Gāyatrī", "Sāvitrī", "Sāvitrī mantra"],
+      "kind": "object",
+      "mentions": [
+        {
+          "paragraph_id": "p-6832c7",
+          "quote": "A gold-thief, by muttering the Gāyatrī mantra ten thousand times",
+          "role": "expiatory recitation for the gold-thief"
+        },
+        {
+          "paragraph_id": "p-f75de3",
+          "quote": "the Gāyatrī with its head, / He who recites it three times with controlled breath, that is called breath-control",
+          "role": "central element of prāṇāyāma"
+        },
+        {
+          "paragraph_id": "p-f75de3",
+          "quote": "The single syllable is the supreme Brahman, breath-controls are the supreme austerity; / There is nothing higher than the Sāvitrī",
+          "role": "supreme mantra above all others"
+        },
+        {
+          "paragraph_id": "p-1c0f50",
+          "quote": "Especially the Sāvitrī",
+          "role": "primary mantra to mutter after bathing"
+        }
+      ],
+      "description": "The Gāyatrī/Sāvitrī mantra, declared the supreme mantra above all others, used for expiation, breath-control (prāṇāyāma), daily recitation at twilight, and worship after bathing.",
+      "justification": "The Gāyatrī is declared unsurpassed ('nothing higher than the Sāvitrī') in chapter 55 and is the most frequently prescribed mantra across chapters 55, 64, and 65."
+    },
+    {
+      "canonical_name": "Puruṣasūkta",
+      "surface_names": ["Puruṣasūkta"],
+      "kind": "object",
+      "mentions": [
+        {
+          "paragraph_id": "p-203322",
+          "quote": "One who violates his preceptor's bed, by fasting for three nights and by muttering and offering oblations with the Puruṣasūkta",
+          "role": "expiatory hymn for violating the preceptor's bed"
+        },
+        {
+          "paragraph_id": "p-b3db19",
+          "quote": "And the Puruṣasūkta",
+          "role": "purifying hymn listed among the purifiers of the Veda"
+        },
+        {
+          "paragraph_id": "p-058866",
+          "quote": "Or the Puruṣasūkta",
+          "role": "mantra for recitation while bathing"
+        },
+        {
+          "paragraph_id": "p-49881a",
+          "quote": "Having thus worshipped, he shall then mutter the Puruṣasūkta; / With that same hymn he shall offer clarified butter, if he desires the eternal state",
+          "role": "hymn for post-worship oblation seeking eternal state"
+        }
+      ],
+      "description": "The Puruṣasūkta, a Vedic hymn to the cosmic Person (Puruṣa), used for expiation, purification, bathing ritual, and worship of Vāsudeva to attain the eternal state.",
+      "justification": "The Puruṣasūkta appears in four distinct ritual contexts across chapters 55, 56, 64, and 65, making it one of the most functionally versatile hymns in this section."
+    },
+    {
+      "canonical_name": "Aghamarṣaṇa hymn",
+      "surface_names": ["Aghamarṣaṇa", "Aghamarṣaṇa vow", "Aghamarṣaṇa prayer"],
+      "kind": "object",
+      "mentions": [
+        {
+          "paragraph_id": "p-ecc733",
+          "quote": "A liquor-drinker becomes pure by the Aghamarṣaṇa vow",
+          "role": "expiatory vow for liquor-drinking"
+        },
+        {
+          "paragraph_id": "p-857dd9",
+          "quote": "The Aghamarṣaṇa",
+          "role": "listed first among the purifiers of the Veda"
+        },
+        {
+          "paragraph_id": "p-f75de3",
+          "quote": "the Aghamarṣaṇa hymn is the remover of all sin",
+          "role": "universal sin-remover comparable to the horse-sacrifice"
+        },
+        {
+          "paragraph_id": "p-49f2bd",
+          "quote": "he shall mutter the Aghamarṣaṇa prayer three times",
+          "role": "mantra recited while submerged during bathing"
+        }
+      ],
+      "description": "The Aghamarṣaṇa, a Vedic purificatory hymn equated with the horse-sacrifice as a universal sin-remover, used for expiation of liquor-drinking and as the first among Vedic purifiers.",
+      "justification": "The Aghamarṣaṇa hymn is called the 'remover of all sin' in chapter 55 and is listed first in the Vedic purifiers chapter (56), establishing its preeminence in the expiation system."
+    },
+    {
+      "canonical_name": "Ganges",
+      "surface_names": ["Ganges"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-fa83d7",
+          "quote": "water from the Ganges is holiest of all",
+          "role": "supreme sacred water source"
+        }
+      ],
+      "description": "The Ganges River, declared the holiest water source, surpassing ground water, flowing water, river water, and water consecrated by holy men in a hierarchy of sacred purity.",
+      "justification": "The Ganges is explicitly positioned at the apex of a five-tier water purity hierarchy in chapter 64, establishing it as the supreme purificatory medium."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Penance and expiation (prāyaścitta) as a graduated system",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-87875f",
+          "quote": "A gold-thief, proclaiming his deed, shall offer a club to the king"
+        },
+        {
+          "paragraph_id": "p-310a15",
+          "quote": "For the misappropriation of a man, a woman, a well, a field, or a pond, the cāndrāyaṇa penance"
+        },
+        {
+          "paragraph_id": "p-28777f",
+          "quote": "wearing a garment of bark in the forest for a year, he shall perform the prājāpatya penance"
+        },
+        {
+          "paragraph_id": "p-b202b7",
+          "quote": "For the removal of sins for which no expiation has been mentioned, / Having considered the ability and the sin, one should devise a penance"
+        }
+      ],
+      "justification": "Chapters 52–55 comprise a systematic classification of sins with precisely calibrated expiations, forming the core penance jurisprudence of the Viṣṇu Smṛti, ranging from theft to sexual transgression to false testimony."
+    },
+    {
+      "topic": "Ritual purity and pollution (śauca) governing the householder's body",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-4601ac",
+          "quote": "This is the śauca for householders, double for brahmacārīs, / Triple for forest-dwellers, and quadruple for ascetics"
+        },
+        {
+          "paragraph_id": "p-d04dc6",
+          "quote": "At the hour of Brahma, he shall rise and perform the evacuation of urine and feces"
+        },
+        {
+          "paragraph_id": "p-50ff55",
+          "quote": "Not facing the wind, fire, moon, sun, a woman, a preceptor, or a Brāhmaṇa"
+        }
+      ],
+      "justification": "Chapters 60–64 constitute a detailed regimen for bodily purity — from defecation orientation to tooth-brushing rules to bathing procedures — reflecting the centrality of bodily śauca in dharmaśāstra."
+    },
+    {
+      "topic": "The japa (mantra recitation) as the highest form of sacrifice",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-f75de3",
+          "quote": "The sacrifice of muttering prayers is superior to the sacrifice of prescribed rites by ten times; / Inaudible, it is a hundred times superior; mental, it is remembered as a thousand times superior"
+        },
+        {
+          "paragraph_id": "p-f75de3",
+          "quote": "The four domestic sacrifices, together with the sacrifice of prescribed rites, / All of them are not worth the sixteenth part of the sacrifice of muttering prayers"
+        },
+        {
+          "paragraph_id": "p-f75de3",
+          "quote": "A Brāhmaṇa may attain perfection by muttering prayers alone, there is no doubt"
+        }
+      ],
+      "justification": "Chapter 55 presents a hierarchical scale where japa (muttering prayers) exceeds the value of all external rites by factors of 10, 100, and 1000 depending on mode, representing a significant spiritualization of sacrifice within the text."
+    },
+    {
+      "topic": "Varna hierarchy and its ritual implications",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-50e851",
+          "quote": "A Rājanya, for two days. A Vaiśya, for one day. A Śūdra, at night",
+          "paragraph_id": "p-50e851"
+        },
+        {
+          "paragraph_id": "p-0f1cda",
+          "quote": "Wealth acquired by the occupation of the next lower varṇa is speckled"
+        },
+        {
+          "paragraph_id": "p-571c76",
+          "quote": "As the Brāhmaṇa is the lord of the varṇas, as the husband is of women, so is the atithi of the householder"
+        },
+        {
+          "paragraph_id": "p-9ebd28",
+          "quote": "A younger brother who marries before his elder... shall perform the cāndrāyaṇa penance"
+        }
+      ],
+      "justification": "Chapters 52–67 consistently calibrate ritual obligations, penance durations, gift rules, and wealth classification by varna status, making social hierarchy a structural principle of the entire section."
+    },
+    {
+      "topic": "Householder (gṛhastha) as the foundational āśrama",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-3f300c",
+          "quote": "The householder alone sacrifices, the householder performs austerity, / The householder also gives; therefore, the householder stage of life is the best"
+        },
+        {
+          "paragraph_id": "p-3f300c",
+          "quote": "The sages, the ancestors, the gods, the spirits, and the guests / Look to the householders for support; therefore, the householder stage of life is the best"
+        },
+        {
+          "paragraph_id": "p-8b8069",
+          "quote": "And for their expiation, he shall perform the pañca mahāyajña (the five great daily sacrifices)"
+        }
+      ],
+      "justification": "Chapters 58–67 systematically elaborate the householder's ritual duties, and chapter 59 explicitly argues for the superiority of the householder āśrama over all others, since all other orders depend on it."
+    },
+    {
+      "topic": "Gift-giving and gift-acceptance rules (dāna norms)",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-1005e0",
+          "quote": "By accepting gifts, the brāhmaṃ tejaḥ (a Brāhmaṇa's spiritual power) of Brāhmaṇas perishes"
+        },
+        {
+          "paragraph_id": "p-37c517",
+          "quote": "He who, without knowing the rule for accepting gifts of various things, accepts a gift, he sinks together with the giver"
+        },
+        {
+          "paragraph_id": "p-5cbd30",
+          "quote": "One who wishes to support his teachers and dependents, and to worship his ancestors and gods, / May accept gifts from anyone, but he should not satisfy himself with them"
+        }
+      ],
+      "justification": "Chapter 57 devotes extended analysis to the spiritual consequences of improper gift-acceptance, establishing that indiscriminate acceptance destroys a Brāhmaṇa's tejas, while chapter 54 penalizes sellers of forbidden goods — both reflecting a unified dharmaśāstra concern with economic purity."
+    },
+    {
+      "topic": "Wealth typology (śukla/śabala/asita) and karmic consequence",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-7223c6",
+          "quote": "Śukla (white/pure), śabala (speckled/mixed), and asita (black/impure)"
+        },
+        {
+          "paragraph_id": "p-20c5ee",
+          "quote": "By the post-mortem rites which he performs with white wealth, he attains the state of a deity"
+        },
+        {
+          "paragraph_id": "p-e8c48f",
+          "quote": "With black wealth, the state of an animal"
+        },
+        {
+          "paragraph_id": "p-cd1302",
+          "quote": "With whatever kind of wealth a man performs any act, / That same kind of fruit he obtains, both after death and in this world"
+        }
+      ],
+      "justification": "Chapter 58 presents a unique three-tier classification of wealth based on its mode of acquisition, directly linking economic ethics to posthumous rebirth outcomes (deity/human/animal), making material purity an eschatological concern."
+    },
+    {
+      "topic": "Directional cosmology in household ritual space",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-5a246c",
+          "quote": "In the eastern part, to Indra and the followers of Indra"
+        },
+        {
+          "paragraph_id": "p-1686c5",
+          "quote": "In the southern part, to Yama and the followers of Yama"
+        },
+        {
+          "paragraph_id": "p-cb8ba7",
+          "quote": "In the western part, to Varuṇa and the followers of Varuṇa"
+        },
+        {
+          "paragraph_id": "p-236bb6",
+          "quote": "In the northern part, to Soma and the followers of Soma"
+        }
+      ],
+      "justification": "Chapter 67's bali ritual implicitly maps the household onto a cosmic directional scheme (Indra/east, Yama/south, Varuṇa/west, Soma/north, Brahman/center) that mirrors Vedic lokapāla cosmology, encoding cosmic order into domestic space."
+    },
+    {
+      "topic": "Guest hospitality (atithi-pūjā) as supreme householder duty",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-a3a277",
+          "quote": "he shall take the utmost care in the worship of a guest (atithi)",
+          "paragraph_id": "p-a3a277"
+        },
+        {
+          "paragraph_id": "p-653828",
+          "quote": "By the study of the Veda, by the Agnihotra sacrifice, by sacrifice, and by austerity, / A householder does not attain those worlds which he does by the worship of an atithi"
+        },
+        {
+          "paragraph_id": "p-653828",
+          "quote": "The atithi from whose house he turns away with his hopes broken, / From him he takes away his merit and gives him his own sin"
+        }
+      ],
+      "justification": "Chapter 67 devotes its second half entirely to atithi-pūjā, arguing it surpasses Vedic study, Agnihotra, and sacrifice in spiritual efficacy, and establishing a detailed hierarchy for feeding guests, women, the sick, pregnant women, and servants."
+    },
+    {
+      "topic": "Karma and reciprocity as moral law",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-39ccbc",
+          "quote": "Whatever a man takes from others without restraint, / Of that very thing he shall be deprived, wherever he may be born"
+        },
+        {
+          "paragraph_id": "p-cd1302",
+          "quote": "With whatever kind of wealth a man performs any act, / That same kind of fruit he obtains, both after death and in this world"
+        },
+        {
+          "paragraph_id": "p-653828",
+          "quote": "From him he takes away his merit and gives him his own sin"
+        }
+      ],
+      "justification": "Across chapters 52, 58, and 67 a consistent principle of moral reciprocity appears: what one takes, one loses; the quality of one's wealth determines one's rebirth; and denying a guest transfers one's merit to the guest and the host receives the guest's sin."
+    }
+  ],
+  "citations": []
+}

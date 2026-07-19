@@ -1,0 +1,44 @@
+{
+  "work_slug": "anna-laetitia-barbauld-poems-8731a3",
+  "work_title": "Poems",
+  "chapter_number": 17,
+  "chapter_title": "SONG V.",
+  "chapter_slug": "17-song-v",
+  "author": "Anna Laetitia Barbauld",
+  "author_slug": "anna-laetitia-barbauld",
+  "ecpa_poem_id": "o3555-w0170",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "song"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "sestet (6 lines)"
+    ],
+    "rhyme": "aabccb",
+    "syllable_pattern": "8.8.8.8.8.8",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/",
+    "line_count": 30
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2f9deee3-93e6-5e68-bbb7-f8a607018e0a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 184,
+      "line_count": 31,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

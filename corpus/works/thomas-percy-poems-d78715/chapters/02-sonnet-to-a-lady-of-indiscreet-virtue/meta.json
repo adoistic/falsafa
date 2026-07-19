@@ -1,0 +1,41 @@
+{
+  "work_slug": "thomas-percy-poems-d78715",
+  "work_title": "Poems",
+  "chapter_number": 2,
+  "chapter_title": "SONNET. TO A LADY OF INDISCREET VIRTUE.",
+  "chapter_slug": "02-sonnet-to-a-lady-of-indiscreet-virtue",
+  "author": "Thomas Percy",
+  "author_slug": "thomas-percy",
+  "ecpa_poem_id": "o4986-w0870",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "sonnet"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "rhyme": "ababbcbccdcdee",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 14
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9cf09871-23ec-5745-9a8b-e9b4246900a4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 115,
+      "line_count": 18,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

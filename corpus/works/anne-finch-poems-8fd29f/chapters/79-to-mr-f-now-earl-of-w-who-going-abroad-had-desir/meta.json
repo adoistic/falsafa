@@ -1,0 +1,44 @@
+{
+  "work_slug": "anne-finch-poems-8fd29f",
+  "work_title": "Poems",
+  "chapter_number": 79,
+  "chapter_title": "To Mr. F. now Earl of W. Who going abroad, had desired ARDELIA to write some Verses upon whatever Subject she thought fit, against his Return in the Evening.",
+  "chapter_slug": "79-to-mr-f-now-earl-of-w-who-going-abroad-had-desir",
+  "author": "Anne Finch",
+  "author_slug": "anne-finch",
+  "ecpa_poem_id": "o4784-w0790",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "address"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "sestet (6 lines)"
+    ],
+    "rhyme": "aabccb",
+    "syllable_pattern": "8.8.6.8.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 96
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8a80e693-6bc9-5d0f-8848-fcafdeb9ea8f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 562,
+      "line_count": 99,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

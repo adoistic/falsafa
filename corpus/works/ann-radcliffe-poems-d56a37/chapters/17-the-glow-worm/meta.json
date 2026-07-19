@@ -1,0 +1,41 @@
+{
+  "work_slug": "ann-radcliffe-poems-d56a37",
+  "work_title": "Poems",
+  "chapter_number": 17,
+  "chapter_title": "THE GLOW-WORM.",
+  "chapter_slug": "17-the-glow-worm",
+  "author": "Ann Radcliffe",
+  "author_slug": "ann-radcliffe",
+  "ecpa_poem_id": "par19-w0170",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "foot": "anapaestic (˘˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "12.12.12.12",
+    "metrical_pattern": "--+|--+|--+|--+/ --+|--+|--+|--+/ --+|--+|--+|--+/ --+|--+|--+|--+/",
+    "line_count": 48
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3204af10-b186-5249-819f-2095d3a607ad",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 496,
+      "line_count": 49,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

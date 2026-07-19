@@ -1,0 +1,998 @@
+{
+  "slug": "unknown-viramitrodaya-d4b632",
+  "window": "01:1020-1303",
+  "entities": [
+    {
+      "canonical_name": "Nṛsiṃha",
+      "surface_names": ["Siṃha", "Nṛsiṃha"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-c94f52",
+          "quote": "Siṃha (Nṛsiṃha), in the bright fortnight of Bhādrapada, on Haritithi (Dvādaśī)",
+          "role": "subject of jayantī calendar listing"
+        }
+      ],
+      "description": "The lion-man avatāra of Viṣṇu whose Jayantī falls on Dvādaśī in the bright fortnight of Bhādrapada.",
+      "justification": "Nṛsiṃha is explicitly named as a divine avatāra figure with a prescribed festival date in the Jayantī list."
+    },
+    {
+      "canonical_name": "Vāmana",
+      "surface_names": ["Śrī Vāmana", "Vāmana"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-c94f52",
+          "quote": "Śrī Vāmana, in Mādhava (Vaiśākha); At midday were Vāmana and the two Rāmas",
+          "role": "subject of jayantī calendar listing"
+        }
+      ],
+      "description": "The dwarf avatāra of Viṣṇu whose Jayantī falls in Vaiśākha and whose worship time is midday.",
+      "justification": "Vāmana is listed as a distinct avatāra with a specific festival date and time-of-day rule in the Jayantī enumeration."
+    },
+    {
+      "canonical_name": "Paraśurāma",
+      "surface_names": ["Rāma (Paraśurāma)", "Paraśurāma"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-c94f52",
+          "quote": "Rāma (Paraśurāma), on Gaurī's tithi (Tṛtīyā); At midday were Vāmana and the two Rāmas",
+          "role": "subject of jayantī calendar listing"
+        }
+      ],
+      "description": "The brahmin-warrior avatāra of Viṣṇu whose Jayantī falls on Tṛtīyā and whose worship time is midday.",
+      "justification": "Paraśurāma is explicitly identified as one of the two Rāmas, distinguished from Dāśarathi Rāma, in the Jayantī list."
+    },
+    {
+      "canonical_name": "Rāma",
+      "surface_names": ["Rāma (Dāśarathi)", "Dāśarathi"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-c94f52",
+          "quote": "Rāma (Dāśarathi) was on the Navamī of Madhu (Caitra)",
+          "role": "subject of jayantī calendar listing"
+        }
+      ],
+      "description": "The son of Daśaratha and hero-avatāra of Viṣṇu whose Jayantī (Rāmanavamī) falls on Navamī in Caitra.",
+      "justification": "Dāśarathi Rāma is named explicitly in the Jayantī calendar as the seventh avatāra with his festival on Caitra Navamī."
+    },
+    {
+      "canonical_name": "Kṛṣṇa",
+      "surface_names": ["Kṛṣṇa"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-c94f52",
+          "quote": "Kṛṣṇa, on the Aṣṭamī of Nabhas (Śrāvaṇa); Kṛṣṇa at night",
+          "role": "subject of jayantī calendar listing"
+        }
+      ],
+      "description": "The avatāra of Viṣṇu whose Janmāṣṭamī (Jayantī) falls on the Aṣṭamī of Śrāvaṇa, with worship at night.",
+      "justification": "Kṛṣṇa appears in the Jayantī list with both a date and a prescribed time-of-day for worship."
+    },
+    {
+      "canonical_name": "Buddha",
+      "surface_names": ["Buddha"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-c94f52",
+          "quote": "in the bright fortnight of Āśvina, on what was Daśamī, Buddha; Buddha, and Kalki in the evening",
+          "role": "subject of jayantī calendar listing"
+        }
+      ],
+      "description": "The ninth avatāra of Viṣṇu whose Jayantī falls on Daśamī in the bright fortnight of Āśvina, with worship in the evening.",
+      "justification": "Buddha is listed among the ten avatāras in the Jayantī calendar with prescribed date and time."
+    },
+    {
+      "canonical_name": "Kalki",
+      "surface_names": ["Kalki"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-c94f52",
+          "quote": "Kalki was on the bright Ṣaṣṭhī of Nabhas (Śrāvaṇa); Buddha, and Kalki in the evening",
+          "role": "subject of jayantī calendar listing"
+        }
+      ],
+      "description": "The tenth (future) avatāra of Viṣṇu whose Jayantī falls on the bright Ṣaṣṭhī of Śrāvaṇa, with worship in the evening.",
+      "justification": "Kalki is enumerated as the final avatāra in the Jayantī list with a calendar date and time designation."
+    },
+    {
+      "canonical_name": "Matsya",
+      "surface_names": ["Matsya"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-c94f52",
+          "quote": "Matsya and Kroḍa (Vārāha) in the afternoon part",
+          "role": "subject of jayantī calendar listing"
+        }
+      ],
+      "description": "The fish avatāra of Viṣṇu whose worship time is the afternoon.",
+      "justification": "Matsya is named in the Jayantī time-of-day classification alongside Vārāha as an afternoon deity."
+    },
+    {
+      "canonical_name": "Vārāha",
+      "surface_names": ["Kroḍa", "Vārāha"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-c94f52",
+          "quote": "Matsya and Kroḍa (Vārāha) in the afternoon part",
+          "role": "subject of jayantī calendar listing"
+        }
+      ],
+      "description": "The boar avatāra of Viṣṇu (also called Kroḍa) whose worship time is the afternoon.",
+      "justification": "Vārāha appears in the Jayantī time-of-day grouping, identified as Kroḍa in the verse."
+    },
+    {
+      "canonical_name": "Kūrma",
+      "surface_names": ["Kūrma"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-c94f52",
+          "quote": "Kūrma, Siṃha, Buddha, and Kalki in the evening",
+          "role": "subject of jayantī calendar listing"
+        }
+      ],
+      "description": "The tortoise avatāra of Viṣṇu whose worship time is the evening.",
+      "justification": "Kūrma is placed in the evening-worship group in the Jayantī time-of-day classification."
+    },
+    {
+      "canonical_name": "Rudra",
+      "surface_names": ["Rudra", "Śiva", "Mahādeva", "Śaṅkara", "Śambhu", "the enemy of the three cities"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-74ead7",
+          "quote": "the dark Caturdaśī of Māgha is called Śivarātri; it is dear to the enemy of the three cities",
+          "role": "object of veneration"
+        },
+        {
+          "paragraph_id": "p-be93ba",
+          "quote": "fell, O great king, upon the head of Śambhu on the ground",
+          "role": "recipient of accidental worship"
+        },
+        {
+          "paragraph_id": "p-ddd554",
+          "quote": "The creature who does not worship with devotion the Lord Rudra, the lord of the three worlds, wanders through a thousand births",
+          "role": "deity whose non-worship brings consequences"
+        },
+        {
+          "paragraph_id": "p-c9c9be",
+          "quote": "Because at night the Bhūtas, Śaktis, and the wielder of the trident roam",
+          "role": "nocturnal lord of Bhūtas and Śaktis"
+        },
+        {
+          "paragraph_id": "p-3625a4",
+          "quote": "having bathed, the goddess Viśveśvarī worshipped Viśveśvara",
+          "role": "deity worshipped at Maṇikarṇikā"
+        }
+      ],
+      "description": "Śiva/Rudra, the deity central to the Śivarātri vow, lord of the trident, worshipped with fasting, vigil, and liṅga-pūjā on the dark Caturdaśī of Māgha.",
+      "justification": "Rudra/Śiva is the primary deity of the entire Śivarātri section, appearing under multiple epithets as the object of mandatory and optional vow observance."
+    },
+    {
+      "canonical_name": "Viṣṇu",
+      "surface_names": ["Viṣṇu", "Hari", "Hayagrīva"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-fc0346",
+          "quote": "On the bright Caturdaśī of Māgha, from the body of Viṣṇu, rays issued forth",
+          "role": "source of solar rays on Āraṭantī"
+        },
+        {
+          "paragraph_id": "p-099c9a",
+          "quote": "one who has fasted should worship Hari at night, with the senses restrained",
+          "role": "deity worshipped on Vaikuṇṭha-caturdaśī"
+        },
+        {
+          "paragraph_id": "p-c0a1f6",
+          "quote": "On Śrāvaṇī, in the Śravaṇa nakṣatra, Hari with the horse's head was formerly born",
+          "role": "deity born as Hayagrīva on Śrāvaṇī"
+        },
+        {
+          "paragraph_id": "p-c500a2",
+          "quote": "Having killed those two demons who dwelt in the netherworld, the god, having brought back those Vedas, the guru of the world himself gave them to him",
+          "role": "slayer of Madhu and Kaiṭabha and restorer of the Vedas"
+        }
+      ],
+      "description": "Viṣṇu/Hari appears in this window as the source of light on Āraṭantī, the deity of Vaikuṇṭha-caturdaśī, and as Hayagrīva who slew Madhu and Kaiṭabha to restore the Vedas to Brahmā.",
+      "justification": "Viṣṇu is named under multiple forms in connection with specific festival observances, establishing his role alongside Śiva in the tithi-determination discourse."
+    },
+    {
+      "canonical_name": "Brahmā",
+      "surface_names": ["Brahmā", "the lotus-born one"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-46449d",
+          "quote": "Brahmā himself with his four faces, and I with my five, am not able, O Pārvatī, to state the fruit of each morsel",
+          "role": "divine witness to the fruit of pāraṇa"
+        },
+        {
+          "paragraph_id": "p-c500a2",
+          "quote": "They stole the Vedas from the lotus-born one who was accepting them. Brahmā, having regained the Vedas, again on the festival day at sunrise",
+          "role": "recipient and re-recipient of the Vedas"
+        }
+      ],
+      "description": "Brahmā, the four-faced creator god, figures as the deity who received the Vedas and then had them restored by Viṣṇu after Madhu and Kaiṭabha stole them.",
+      "justification": "Brahmā appears in two distinct narrative contexts — the Śivarātri pāraṇa praise and the Kālikā Purāṇa myth explaining the audayika rule for Upākarma."
+    },
+    {
+      "canonical_name": "Gaurī",
+      "surface_names": ["Gaurī", "Pārvatī"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-c94f52",
+          "quote": "Rāma (Paraśurāma), on Gaurī's tithi (Tṛtīyā)",
+          "role": "deity whose tithi anchors Paraśurāma's Jayantī"
+        },
+        {
+          "paragraph_id": "p-ceb1d8",
+          "quote": "one who eats stones should worship Gaurī with a night-meal (nakta)",
+          "role": "deity of Pāṣāṇa-caturdaśī vow"
+        },
+        {
+          "paragraph_id": "p-46449d",
+          "quote": "am not able, O Pārvatī, to state the fruit of each morsel",
+          "role": "addressee in Śivarātri pāraṇa verse"
+        }
+      ],
+      "description": "Gaurī/Pārvatī is the consort of Śiva, invoked as the owner of Tṛtīyā, the deity of the Pāṣāṇa-caturdaśī vow, and the addressee of Śiva's speech in Purāṇic citations.",
+      "justification": "Gaurī appears under two names as both a calendar anchor and an object of worship in the text's festival determinations."
+    },
+    {
+      "canonical_name": "Viśveśvara",
+      "surface_names": ["Viśveśvara", "Viśveśvarī"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-e7e4f8",
+          "quote": "this very day is the day of the consecration of Viśveśvara",
+          "role": "deity consecrated on Vaikuṇṭha-caturdaśī"
+        },
+        {
+          "paragraph_id": "p-3625a4",
+          "quote": "having bathed, the goddess Viśveśvarī worshipped Viśveśvara",
+          "role": "deity worshipped at Maṇikarṇikā on Kārtika Caturdaśī"
+        }
+      ],
+      "description": "Viśveśvara (Lord of the Universe, a form of Śiva) whose consecration at Maṇikarṇikā is commemorated on Kārtika bright Caturdaśī.",
+      "justification": "Viśveśvara is the named deity of a specific Kāśī consecration event that determines the dawn-pervasion rule for Vaikuṇṭha-caturdaśī."
+    },
+    {
+      "canonical_name": "Yama",
+      "surface_names": ["Yama", "the sun of dissolution"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-fc0346",
+          "quote": "the king Yama, the sun of dissolution, should be worshipped there",
+          "role": "deity worshipped on Āraṭantī"
+        }
+      ],
+      "description": "Yama, the god of death, is prescribed to be worshipped on the bright Caturdaśī of Māgha (Āraṭantī) before sunrise.",
+      "justification": "Yama is named as the object of pre-dawn worship on Āraṭantī in the Brahma Purāṇa citation."
+    },
+    {
+      "canonical_name": "Madhu and Kaiṭabha",
+      "surface_names": ["Madhu", "Kaiṭabha", "the two demons"],
+      "kind": "figure",
+      "figure_kind": "demon",
+      "mentions": [
+        {
+          "paragraph_id": "p-c500a2",
+          "quote": "On Caturdaśī, the two demons Madhu and Kaiṭabha were born. They stole the Vedas from the lotus-born one who was accepting them",
+          "role": "demonic antagonists who stole the Vedas"
+        }
+      ],
+      "description": "Madhu and Kaiṭabha are the two demons born on Caturdaśī who stole the Vedas from Brahmā, providing the mythological rationale for the audayika rule in Upākarma.",
+      "justification": "Their birth and theft of the Vedas on Caturdaśī is cited from the Kālikā Purāṇa to explain why the Upākarma festival day must be reckoned from sunrise."
+    },
+    {
+      "canonical_name": "Sāvitrī",
+      "surface_names": ["Sāvitrī"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-b4b3c5",
+          "quote": "Those who worship Sāvitrī on the dark Caturdaśī of Jyeṣṭha, at the root of a banyan tree, with a fast, they do not suffer widowhood",
+          "role": "goddess worshipped in the Vaṭasāvitrī vow"
+        }
+      ],
+      "description": "Sāvitrī is the goddess worshipped in the Vaṭasāvitrī vow on the Paurṇamāsī (or according to the Gauḍas, the Caturdaśī) of Jyeṣṭha at the root of a banyan tree.",
+      "justification": "Sāvitrī is named as the object of worship in the vow that protects women from widowhood, with the verse from Parāśara pinning her festival to Jyeṣṭha."
+    },
+    {
+      "canonical_name": "Hayagrīva",
+      "surface_names": ["Hayagrīva", "Hari with the horse's head"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-c0a1f6",
+          "quote": "On Śrāvaṇī, in the Śravaṇa nakṣatra, Hari with the horse's head was formerly born",
+          "role": "deity born on Śrāvaṇī Paurṇamāsī"
+        }
+      ],
+      "description": "Hayagrīva is the horse-headed form of Viṣṇu whose birth on Śrāvaṇī (Śravaṇa nakṣatra) is celebrated and associated with the Upākarma observances.",
+      "justification": "Hayagrīva's birth is cited as a sacred event on Śrāvaṇī, grounding the sanctity of that day for Vedic ritual observances."
+    },
+    {
+      "canonical_name": "Maṇikarṇikā",
+      "surface_names": ["Maṇikarṇikā"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-3625a4",
+          "quote": "in the Brāhma muhūrta, at Maṇikarṇikā, having bathed, the goddess Viśveśvarī worshipped Viśveśvara",
+          "role": "sacred bathing site of Viśveśvara's consecration"
+        }
+      ],
+      "description": "Maṇikarṇikā is the sacred tīrtha in Kāśī (Vārāṇasī) where Viśveśvarī bathed and worshipped Viśveśvara, providing the mythological basis for the dawn-pervasion rule on Vaikuṇṭha-caturdaśī.",
+      "justification": "Maṇikarṇikā is the named place of the Viśveśvara consecration event cited from the Sanatkumāra Saṃhitā."
+    },
+    {
+      "canonical_name": "Himālaya",
+      "surface_names": ["Himālaya"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-ed37c4",
+          "quote": "If the ocean should dry up, if the Himālaya should waste away",
+          "role": "cosmic landmark cited as hypothetically impermanent"
+        }
+      ],
+      "description": "The Himālaya mountain range is invoked as a cosmic landmark that could hypothetically waste away, in contrast to the immovable obligation of Śiva's vow.",
+      "justification": "The Himālaya appears in a rhetorical comparison establishing the eternal obligatory nature of Śivarātri."
+    },
+    {
+      "canonical_name": "Meru",
+      "surface_names": ["Meru"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-ed37c4",
+          "quote": "Meru, Mandara, Laṅkā, Śrīśaila, and Vindhya too",
+          "role": "cosmic mountain cited as hypothetically movable"
+        }
+      ],
+      "description": "Mount Meru, the cosmic axial mountain, is cited among the supposedly immovable landmarks that are nevertheless declared more movable than the Śivarātri vow.",
+      "justification": "Meru is one of five cosmic landmarks named to rhetorically underline the absolute obligatory character of the Śivarātri observance."
+    },
+    {
+      "canonical_name": "Laṅkā",
+      "surface_names": ["Laṅkā"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-ed37c4",
+          "quote": "Meru, Mandara, Laṅkā, Śrīśaila, and Vindhya too",
+          "role": "geographic landmark cited in rhetorical comparison"
+        }
+      ],
+      "description": "Laṅkā (the island kingdom of Rāvaṇa) is cited as a supposedly immovable place that might still move, in contrast to the eternal Śivarātri vow.",
+      "justification": "Laṅkā appears in the list of five geographic landmarks used to amplify the obligatory nature of Śivarātri."
+    },
+    {
+      "canonical_name": "Caṇḍāla",
+      "surface_names": ["Caṇḍāla"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-4add98",
+          "quote": "For all men, down to the Caṇḍāla, it bestows worldly enjoyment and liberation",
+          "role": "lowest social group included in universal entitlement"
+        }
+      ],
+      "description": "The Caṇḍāla (lowest social group) is named to mark the absolute universality of the Śivarātri vow's entitlement, which extends to all persons regardless of social status.",
+      "justification": "Caṇḍāla functions as the limiting case in the Īśāna Saṃhitā's statement of universal eligibility for the Śivarātri vow."
+    },
+    {
+      "canonical_name": "Bahvṛcas",
+      "surface_names": ["Bahvṛcas", "followers of the Ṛgveda"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-60e33c",
+          "quote": "the Bahvṛcas (followers of the Ṛgveda) should perform it on any day in the month of Śrāvaṇa conjoined with Śravaṇa",
+          "role": "Vedic school with specific Upākarma rule"
+        }
+      ],
+      "description": "The Bahvṛcas are the followers of the Ṛgveda whose Upākarma is prescribed for any day in Śrāvaṇa conjoined with the Śravaṇa nakṣatra.",
+      "justification": "The Bahvṛcas are identified as a distinct Vedic school community with a specific temporal rule for the Upākarma, differentiated from Yājuṣas and Sāmagas."
+    },
+    {
+      "canonical_name": "Yājuṣas",
+      "surface_names": ["Yājuṣas", "followers of the Yajurveda", "Taittirīyakas", "Vājasaneyins"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-dda6f6",
+          "quote": "The Yājuṣas (followers of the Yajurveda) should perform it in the order of Śrāvaṇa Paurṇamāsī, etc.",
+          "role": "Vedic school with specific Upākarma sequence"
+        }
+      ],
+      "description": "The Yājuṣas (Yajurveda followers, including Taittirīyakas and Vājasaneyins) whose Upākarma order begins with Śrāvaṇa Paurṇamāsī.",
+      "justification": "The Yājuṣas are a major Vedic school division whose specific ordering for Upākarma is debated extensively in the window."
+    },
+    {
+      "canonical_name": "Sāmagas",
+      "surface_names": ["Sāmagas", "followers of the Sāmaveda", "Chandogas"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-dda6f6",
+          "quote": "The Sāmagas' (followers of the Sāmaveda) order is Hasta, etc.",
+          "role": "Vedic school with specific Upākarma sequence"
+        },
+        {
+          "paragraph_id": "p-e538c9",
+          "quote": "The Chandogas, having gathered, should perform the Utsarga of all the Vedas",
+          "role": "group performing Utsarga in Leo"
+        }
+      ],
+      "description": "The Sāmagas (Sāmaveda followers, also called Chandogas) whose Upākarma begins with the Hasta nakṣatra and whose Utsarga rite is in the solar month of Leo.",
+      "justification": "The Sāmagas/Chandogas are the third major Vedic school whose distinct calendar sequence for Upākarma is specified by Gobhila and Gārgya."
+    },
+    {
+      "canonical_name": "Gauḍas",
+      "surface_names": ["Gauḍas"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-699b1b",
+          "quote": "the Gauḍas say it is pervasion of the morning time",
+          "role": "regional authority on Dīpāvalī bathing rule"
+        },
+        {
+          "paragraph_id": "p-d1209d",
+          "quote": "The Gauḍas, however, say it is on Caturdaśī, from the verse of Parāśara",
+          "role": "regional authority on Vaṭasāvitrī vow date"
+        }
+      ],
+      "description": "The Gauḍas are the scholars of the northern/Bengal region who are cited for divergent opinions on the time of Dīpāvalī bathing and the date of the Vaṭasāvitrī vow.",
+      "justification": "The Gauḍas appear twice as a named regional authority group whose views are contrasted with 'Southerners' (Dakṣiṇātyas) on calendar-determination questions."
+    },
+    {
+      "canonical_name": "Narmadā",
+      "surface_names": ["Narmadā"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-1485d3",
+          "quote": "In the region north of the Narmadā, it should be performed when it is in Leo. And in the south, one should perform the Upākarma when the sun is in Cancer",
+          "role": "geographic dividing line for Upākarma solar-month rules"
+        }
+      ],
+      "description": "The Narmadā river serves as the geographic boundary dividing the northern region (Upākarma in Leo) from the southern region (Upākarma in Cancer).",
+      "justification": "The Narmadā is the named dividing boundary in the Bṛhaspati verse that determines the regional variation in the Upākarma solar-month rule."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Determination of festival dates (tithi-nirṇaya)",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-31eb5d",
+          "quote": "Thus ends the determination of the Jayantīs."
+        },
+        {
+          "paragraph_id": "p-b5bf7d",
+          "quote": "Thus ends the determination of Śivarātri."
+        },
+        {
+          "paragraph_id": "p-ebe59e",
+          "quote": "### [Determination of Paurṇamāsī]"
+        }
+      ],
+      "justification": "The entire window is structured as a series of tithi-determinations (Jayantī, Śivarātri, Paurṇamāsī, Upākarma), constituting the core methodological theme of the Vīramitrodaya's digest function."
+    },
+    {
+      "topic": "Obligatory versus optional vows (nitya-kāmya distinction)",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-1e25ee",
+          "quote": "This Śivarātri vow, like Janmāṣṭamī, by the maxim of the inseparability of the conjunction, is both obligatory (nitya) and optional (kāmya).",
+          "role": null
+        },
+        {
+          "paragraph_id": "p-e940ee",
+          "quote": "Its optional nature (kāmyatā) is also stated in the Skanda Purāṇa from the hearing of a fruit (phala)"
+        }
+      ],
+      "justification": "The nitya/kāmya distinction is explicitly debated for Śivarātri and its dual character (mandatory from non-performance consequence, optional from specified fruit) is a major analytical theme."
+    },
+    {
+      "topic": "Conflict and harmonization of Purāṇic and smṛti sources",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-ca47c4",
+          "quote": "Mādhava and the author of the Tithitattva, however, say that in such a case, the latter day should be taken because it has a greater duration.",
+          "role": null
+        },
+        {
+          "paragraph_id": "p-ee5317",
+          "quote": "That is incorrect, because it would lead to the verses of the Padma Purāṇa, etc., being without scope"
+        }
+      ],
+      "justification": "The text repeatedly cites competing authorities (Mādhava, Hemādri, Tithitattva) and reconciles contradictory scriptural injunctions, making source-harmonization a pervasive structural theme."
+    },
+    {
+      "topic": "Regional variation in ritual practice",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-699b1b",
+          "quote": "the Gauḍas say it is pervasion of the morning time. The Southerners, however, say the reading is 'at the rise of the moon'.",
+          "role": null
+        },
+        {
+          "paragraph_id": "p-1485d3",
+          "quote": "In the region north of the Narmadā, it should be performed when it is in Leo. And in the south, one should perform the Upākarma when the sun is in Cancer."
+        }
+      ],
+      "justification": "The text consistently notes that ritual timing rules vary between northern (Gauḍa) and southern (Dakṣiṇa) traditions, establishing geographic variation as a recognized hermeneutical category."
+    },
+    {
+      "topic": "Universal eligibility for devotional vows",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-4add98",
+          "quote": "The vow called Śivarātri destroys all sins. For all men, down to the Caṇḍāla, it bestows worldly enjoyment and liberation."
+        }
+      ],
+      "justification": "The Īśāna Saṃhitā verse asserting universal eligibility including the Caṇḍāla marks an explicit theme about the accessibility of Śivarātri across social groups."
+    },
+    {
+      "topic": "Mythological foundation of ritual rules (arthavāda)",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-c500a2",
+          "quote": "On Caturdaśī, the two demons Madhu and Kaiṭabha were born. They stole the Vedas from the lotus-born one who was accepting them."
+        },
+        {
+          "paragraph_id": "p-b0388f",
+          "quote": "On the dark Caturdaśī of Māgha, the primeval god, in the deep of night, manifested Himself in the form of a liṅga"
+        }
+      ],
+      "justification": "Mythological narratives (Śiva's self-manifestation as liṅga, Viṣṇu's slaying of Madhu-Kaiṭabha) are embedded to provide cosmological grounding for calendar rules, a classic arthavāda technique."
+    },
+    {
+      "topic": "Vedic school affiliation as determinant of ritual timing",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-dda6f6",
+          "quote": "The Yājuṣas (followers of the Yajurveda) should perform it in the order of Śrāvaṇa Paurṇamāsī, etc. The Sāmagas' (followers of the Sāmaveda) order is Hasta, etc."
+        },
+        {
+          "paragraph_id": "p-5cf8a5",
+          "quote": "these times are regulated according to one's own gṛhya text"
+        }
+      ],
+      "justification": "The extensive differentiation of Upākarma timing rules by Vedic school (Bahvṛca, Yājuṣa, Sāmaga) establishes śākhā-based differentiation as a central hermeneutical principle."
+    },
+    {
+      "topic": "The threefold structure of Śivarātri observance (fasting, worship, vigil)",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-eeeeeb",
+          "quote": "This Śivarātri vow (vrata) should be known as comprising fasting (upavāsa), worship (pūjā), and a vigil (jāgaraṇa)."
+        },
+        {
+          "paragraph_id": "p-448337",
+          "quote": "By the power of the fast, and by the force of the vigil, and by the worship of the liṅga on that Śivarātri"
+        }
+      ],
+      "justification": "The triple obligation of upavāsa, pūjā, and jāgaraṇa is repeatedly cited across multiple Purāṇic verses as the canonical structure of Śivarātri, making it a central doctrinal theme."
+    },
+    {
+      "topic": "Pollution and purity affecting ritual performance (eclipse, solar ingress, impurity)",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-584ede",
+          "quote": "On a solar ingress, during an eclipse, and also during a period of birth or death impurity, one should not perform the gaṇaśrāddha"
+        },
+        {
+          "paragraph_id": "p-a04e44",
+          "quote": "In an obligatory rite, an occasional rite, recitation, oblation, and sacrificial rites, in Upākarma and Utsarga, the conjunction of an eclipse is not considered."
+        }
+      ],
+      "justification": "The conditions under which Upākarma is postponed or exempt from postponement due to eclipses, solar ingresses, and ritual impurity constitute a major analytical section in the window."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Mātsya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-c5e120",
+      "quote": "This is from the statement of the Mātsya Purāṇa: In Jyeṣṭha, one who performs the five-fire austerity and gives a golden cow in the evening goes to heaven.",
+      "justification": "The Mātsya Purāṇa is quoted as the scriptural authority for the five-fire austerity and golden-cow gift on Jyeṣṭha Caturdaśī."
+    },
+    {
+      "cited_work": "Bhaviṣya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-5e756d",
+      "quote": "This is from the statement of the Bhaviṣya Purāṇa: In Kārtika, in the dark fortnight, on Caturdaśī, at the rise of day, a bath must be performed by those who fear hell.",
+      "justification": "The Bhaviṣya Purāṇa is cited as authority for the Dīpāvalī bathing rule, and appears again for the Rakṣābandhana and Sāvitrī vow contexts."
+    },
+    {
+      "cited_work": "Pṛthvīcandrodaya",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-859cfe",
+      "quote": "This is from a verse cited in the Pṛthvīcandrodaya: On the Caturdaśī conjoined with the preceding day, in the other than bright fortnight of Kārtika, at the time of dawn, one should perform a bath there with effort.",
+      "justification": "The Pṛthvīcandrodaya (a nibandha text) is cited as a secondary source compiling a verse on the Dīpāvalī bathing time-rule."
+    },
+    {
+      "cited_work": "Devī Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-ceb1d8",
+      "quote": "This is from the statement of the Devī Purāṇa: In Kārtika, in the bright fortnight, which is Pāṣāṇa-caturdaśī, on it, one who eats stones should worship Gaurī with a night-meal (nakta).",
+      "justification": "The Devī Purāṇa is the source for the Pāṣāṇa-caturdaśī vow to Gaurī on the bright Caturdaśī of Kārtika."
+    },
+    {
+      "cited_work": "Bhaviṣya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-099c9a",
+      "quote": "This is from the statement of the Bhaviṣya Purāṇa: In the bright fortnight of Kārtika, on Caturdaśī, O king! one who has fasted should worship Hari at night, with the senses restrained.",
+      "justification": "A second citation of the Bhaviṣya Purāṇa provides the Vaikuṇṭha-caturdaśī Hari-worship rule."
+    },
+    {
+      "cited_work": "Sanatkumāra Saṃhitā",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-3625a4",
+      "quote": "This is from the statement of the Sanatkumāra Saṃhitā: In the year named Hemalamba, in the glorious month of Kārtika, in the bright fortnight, on Caturdaśī, towards the rise of dawn, on the tithi of Mahādeva, in the Brāhma muhūrta, at Maṇikarṇikā, having bathed, the goddess Viśveśvarī worshipped Viśveśvara.",
+      "justification": "The Sanatkumāra Saṃhitā is cited for the mythological account of Viśveśvara's consecration at Maṇikarṇikā that grounds the dawn-pervasion rule."
+    },
+    {
+      "cited_work": "Brahma Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-fc0346",
+      "quote": "This is from the Brahma Purāṇa: On the bright Caturdaśī of Māgha, from the body of Viṣṇu, rays issued forth, in the form of sesame seeds, by the hundreds and thousands.",
+      "justification": "The Brahma Purāṇa is cited for the Āraṭantī observance and again for the Śivarātri fasting rule, establishing it as a multi-context authority."
+    },
+    {
+      "cited_work": "Śivarahasya",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-74ead7",
+      "quote": "Its nature is in the Śivarahasya: From then on, O divine sage, the dark Caturdaśī of Māgha is called Śivarātri; it is dear to the enemy of the three cities.",
+      "justification": "The Śivarahasya is the primary source defining Śivarātri and is cited again for the Trayodaśī-conjunction rule."
+    },
+    {
+      "cited_work": "Skanda Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-5ba3e9",
+      "quote": "The dark Caturdaśī that falls between Māgha and Phālguna is known as Śivarātri, the most excellent of all sacrifices.",
+      "justification": "The Skanda Purāṇa is the most frequently cited Purāṇa in this window, appearing over a dozen times for Śivarātri rules covering obligatory nature, optional fruit, conjunction rules, pāraṇa, and Upākarma."
+    },
+    {
+      "cited_work": "Nāgarakhaṇḍa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-448337",
+      "quote": "And so, in the Nāgarakhaṇḍa: By the power of the fast, and by the force of the vigil, and by the worship of the liṅga on that Śivarātri, one obtains imperishable enjoyments and attains union with Śiva.",
+      "justification": "The Nāgarakhaṇḍa (a section of the Skanda Purāṇa) is cited for the threefold Śivarātri observance and its fruit of union with Śiva."
+    },
+    {
+      "cited_work": "Sahyakhaṇḍa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-fedee1",
+      "quote": "And in the Sahyakhaṇḍa: Having himself worshipped the liṅga, with a fast and a vigil, even unknowingly, the sinless hunter attained the state of a Gaṇa.",
+      "justification": "The Sahyakhaṇḍa (another section of the Skanda Purāṇa) is cited for the story of the hunter who unknowingly performed Śivarātri observances and attained liberation."
+    },
+    {
+      "cited_work": "Īśāna Saṃhitā",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-45290d",
+      "quote": "A special rule for the optional vow is in the Īśāna Saṃhitā: A votary should perform this vow in this way every year. It may be for twelve years, or for twenty-four years.",
+      "justification": "The Īśāna Saṃhitā is cited for the optional vow duration and the universal eligibility of Śivarātri including the Caṇḍāla."
+    },
+    {
+      "cited_work": "Vāyu Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-14b493",
+      "quote": "In the Vāyu Purāṇa: When the sun has set on Trayodaśī, for just four nāḍis, and it is conjoined with Bhūta, one should perform the Śivarātri vow there.",
+      "justification": "The Vāyu Purāṇa is cited for the four-nāḍī Trayodaśī conjunction rule that governs when Śivarātri can be observed."
+    },
+    {
+      "cited_work": "Nāradīya Saṃhitā",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-3b8c96",
+      "quote": "In the Nāradīya Saṃhitā: The Māgha-kṛṣṇa-caturdaśī that is conjoined with midnight, he who performs the Śivarātri vow there obtains the fruit of an Aśvamedha.",
+      "justification": "The Nāradīya Saṃhitā is cited for the midnight-pervasion rule and the Aśvamedha-equivalent fruit of Śivarātri observance."
+    },
+    {
+      "cited_work": "Padma Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-ee5317",
+      "quote": "That is incorrect, because it would lead to the verses of the Padma Purāṇa, etc., being without scope",
+      "justification": "The Padma Purāṇa is invoked as the authority whose verses would be rendered meaningless if Mādhava's ruling on the latter-day preference were accepted."
+    },
+    {
+      "cited_work": "Kāmika",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-5e2427",
+      "quote": "the verse from the Kāmika: When Caturdaśī is on two nights, the former should be rejected, the latter is auspicious.",
+      "justification": "The Kāmika (an Āgama text) is cited alongside a smṛti verse for the exceptional case where Caturdaśī falls on two consecutive nights."
+    },
+    {
+      "cited_work": "Brahmavaivarta Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-3d37ac",
+      "quote": "This is from the Brahmavaivarta Purāṇa. Darśa (Amāvāsyā) and Pūrṇā (Paurṇamāsī) should never be performed when conjoined with Bhūta (Caturdaśī)",
+      "justification": "The Brahmavaivarta Purāṇa is the source for the prohibition against performing Paurṇamāsī/Amāvāsyā rites when conjoined with Caturdaśī (except for Sāvitrī)."
+    },
+    {
+      "cited_work": "Nigama",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-5d0a2b",
+      "quote": "This is from the Nigama. Kṛṣṇāṣṭamī, Bṛhattapā, Sāvitrī, Vaṭapaitṛkī, Anaṅgatrayodaśī, and Rambhā should be fasted on when conjoined with the preceding day.",
+      "justification": "The Nigama is cited for a list of vows requiring pūrvaviddhā (preceding-day conjunction), including Vaṭasāvitrī and Vaṭapaitṛkī."
+    },
+    {
+      "cited_work": "Saṅgraha",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-700060",
+      "quote": "This is from the Saṅgraha. Two things should not be done in Bhadrā: Śrāvaṇī and Phālgunī.",
+      "justification": "The Saṅgraha is cited as the authority prohibiting Śrāvaṇī and Phālgunī observances during the Bhadrā period."
+    },
+    {
+      "cited_work": "Āśvalāyana Gṛhyasūtra",
+      "cited_author": "Āśvalāyana",
+      "stance": "authority",
+      "paragraph_id": "p-6e10f1",
+      "quote": "From the sūtra of Āśvalāyana, which begins with 'On Śrāvaṇī Paurṇamāsī, the Śravaṇākarma,' and says, 'when the sun has set, having cooked the sthālīpāka'",
+      "justification": "Āśvalāyana's Gṛhyasūtra is cited as the primary gṛhya authority for the Śravaṇākarma and Upākarma timing on Śrāvaṇī."
+    },
+    {
+      "cited_work": "Yājñavalkya Smṛti",
+      "cited_author": "Yājñavalkya",
+      "stance": "authority",
+      "paragraph_id": "p-7e07e8",
+      "quote": "Therein, Yājñavalkya says: The Upākarma of the Vedas should be on Śrāvaṇī, or with Śravaṇa, or when the herbs have appeared, with Hasta on the fifth of Śrāvaṇa.",
+      "justification": "Yājñavalkya is cited as the smṛti authority enumerating the primary Upākarma timing options including Śrāvaṇī, Śravaṇa, and Hasta-Pañcamī."
+    },
+    {
+      "cited_work": "Pāraskara Gṛhyasūtra",
+      "cited_author": "Pāraskara",
+      "stance": "authority",
+      "paragraph_id": "p-431f1b",
+      "quote": "And so, Pāraskara says: 'Now, the Upākarma of the Vedas, when the herbs have appeared, with Śravaṇa on Śrāvaṇī Paurṇamāsī, or on the fifth of Śrāvaṇa with Hasta.'",
+      "justification": "Pāraskara's Gṛhyasūtra is cited as the gṛhya authority restricting 'Śrāvaṇī' to Śrāvaṇa Paurṇamāsī specifically, against broader readings from Pāṇini."
+    },
+    {
+      "cited_work": "Baudhāyana Gṛhyasūtra",
+      "cited_author": "Baudhāyana",
+      "stance": "authority",
+      "paragraph_id": "p-a11d4a",
+      "quote": "Baudhāyana also states another time: 'Having performed the Upākarma on Śrāvaṇī Paurṇamāsī or on Āṣāḍhī, one should study the Vedas.'",
+      "justification": "Baudhāyana's Gṛhyasūtra is cited for an alternative Upākarma timing adding Āṣāḍhī as a valid date, and specifically restricts his followers to Āṣāḍhī when other times are unavailable."
+    },
+    {
+      "cited_work": "Manusmṛti",
+      "cited_author": "Manu",
+      "stance": "authority",
+      "paragraph_id": "p-66d5d2",
+      "quote": "Manu also: Having performed the Upākarma according to the rules on Śrāvaṇī or Prauṣṭhapadī, a Brahmin, being restrained, should study the Vedas for four and a half months.",
+      "justification": "Manu is cited as a smṛti authority for the Upākarma timing on Śrāvaṇī or Prauṣṭhapadī and for the four-and-a-half-month study period."
+    },
+    {
+      "cited_work": "Kātyāyana Smṛti",
+      "cited_author": "Kātyāyana",
+      "stance": "authority",
+      "paragraph_id": "p-3918fd",
+      "quote": "Kātyāyana also: 'Having performed the Upākarma in the northern transit, a knower of dharma should then study.'",
+      "justification": "Kātyāyana is cited for the northern-transit (uttarāyaṇa-related) condition for Upākarma and for the rule that the Upākarma should not be postponed."
+    },
+    {
+      "cited_work": "Gobhila Gṛhyasūtra",
+      "cited_author": "Gobhila",
+      "stance": "authority",
+      "paragraph_id": "p-316534",
+      "quote": "Gobhila also: 'on Prauṣṭhapadī with Hasta.' 'Prauṣṭhapadī' is to be supplied with 'having reached'. Therefore, it means on any day in the month of Bhādrapada conjoined with Hasta.",
+      "justification": "Gobhila's Gṛhyasūtra is cited as the primary gṛhya authority for the Sāmagas' Hasta-based Upākarma in Bhādrapada."
+    },
+    {
+      "cited_work": "Bahvṛcagṛhyakārikā",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-0a74e4",
+      "quote": "And so, in the Bahvṛcagṛhyakārikā: If the herbs have not appeared in that month due to lack of rain, then in the month of Bhādrapada, it is desired with Śravaṇa.",
+      "justification": "The Bahvṛcagṛhyakārikā is cited for the fallback rule allowing Bahvṛcas to perform Upākarma in Bhādrapada when the herbs have not appeared in Śrāvaṇa."
+    },
+    {
+      "cited_work": "Smṛtimahārṇava",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-614f97",
+      "quote": "And when the festival day is afflicted by an eclipse or solar ingress, the rule for the time is stated in the Smṛtimahārṇava",
+      "justification": "The Smṛtimahārṇava is cited as the authority for the substitute timing rule (Hasta Pañcamī) when the Upākarma festival day is afflicted by an eclipse or solar ingress."
+    },
+    {
+      "cited_work": "Kūrma Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-cce504",
+      "quote": "In the month of Śrāvaṇa, on Paurṇamāsī, O best of the twice-born, or on Āṣāḍhī or Prauṣṭhapadī, the Upākaraṇa of the Veda is remembered.",
+      "justification": "The Kūrma Purāṇa is cited alongside Manu to establish the range of valid Upākarma times for those whose Gṛhyasūtra does not specify Pañcamī."
+    },
+    {
+      "cited_work": "Kālikā Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-c500a2",
+      "quote": "And so, in the Kālikā Purāṇa: On Caturdaśī, the two demons Madhu and Kaiṭabha were born. They stole the Vedas from the lotus-born one who was accepting them.",
+      "justification": "The Kālikā Purāṇa provides the mythological rationale (Madhu-Kaiṭabha stealing the Vedas on Caturdaśī) for why the audayika festival day is required for Upākarma."
+    },
+    {
+      "cited_work": "Bhaviṣyottara Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-8e0582",
+      "quote": "In the Bhaviṣyottara also: When the end of Śrāvaṇa has arrived, on Paurṇamāsī, at the rise of day, a wise man should perform a bath according to the rules of śruti and smṛti.",
+      "justification": "The Bhaviṣyottara (supplement to the Bhaviṣya Purāṇa) is cited as a supporting authority for the audayika Śrāvaṇī Paurṇamāsī rule."
+    },
+    {
+      "cited_work": "Gṛhyapariśiṣṭa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-0c30ac",
+      "quote": "And so, in the Gṛhyapariśiṣṭa: Conjoined with Dhaniṣṭhā and Pratipad, and with the Tvāṣṭra ṛkṣa, the followers of the Ṛg, Yajur, and Sāma Vedas should perform the Śrāvaṇa rite.",
+      "justification": "The Gṛhyapariśiṣṭa is cited for the multi-school listing of nakṣatras (Dhaniṣṭhā, Pratipad, Citrā) valid for the Śrāvaṇa rite, applicable to all three Vedic traditions."
+    },
+    {
+      "cited_work": "Vyāsa Smṛti",
+      "cited_author": "Vyāsa",
+      "stance": "authority",
+      "paragraph_id": "p-ba5d8f",
+      "quote": "And so, Vyāsa says: The rite that is with Śravaṇa, conjoined with Uttarāṣāḍha, the study performed for a year is destroyed from that moment.",
+      "justification": "Vyāsa is cited as the authority for the prohibition against performing the Śrāvaṇa rite when conjoined with Uttarāṣāḍha, and for naming the Upākaraṇa."
+    },
+    {
+      "cited_work": "Mādhavīya",
+      "cited_author": "Mādhava",
+      "stance": "authority",
+      "paragraph_id": "p-85680a",
+      "quote": "A special rule on this is in the Mādhavīya",
+      "justification": "The Mādhavīya (Mādhava's digest on dharmaśāstra) is cited for the special rule restricting the Upākarma to Leo rather than Cancer for northern India."
+    },
+    {
+      "cited_work": "Prayogapārijāta",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-f843c8",
+      "quote": "In the Prayogapārijāta, however, it is said that it is in the afternoon for all.",
+      "justification": "The Prayogapārijāta is cited twice — for the Bṛhaspati verse on regional Upākarma timing (Leo vs. Cancer by Narmadā) and for the rule that Upākarma is in the afternoon for all."
+    },
+    {
+      "cited_work": "Smṛtisaṅgraha",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-311e93",
+      "quote": "And so, in the Smṛtisaṅgraha: During the juvenility, old age, or invisibility of Jupiter and Venus, and also in an intercalary month, saṃsarpa, malamāsa, etc., O twice-born, the first Upākarma should not be performed",
+      "justification": "The Smṛtisaṅgraha is cited for the prohibition on performing the first Upākarma during planetary debility or intercalary months."
+    },
+    {
+      "cited_work": "Madanaratna",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-7c8ab7",
+      "quote": "From this verse, and from the smṛti verse written in the Kālādarśa, Madanaratna, Mādhava, etc.",
+      "justification": "The Madanaratna (a nibandha) is cited alongside Kālādarśa and Mādhava as a secondary digest source for the Śivarātri pāraṇa rule."
+    },
+    {
+      "cited_work": "Hemādri",
+      "cited_author": "Hemādri",
+      "stance": "authority",
+      "paragraph_id": "p-e33416",
+      "quote": "So says Hemādri.",
+      "justification": "Hemādri (the 13th-century nibandha author) is cited as an authority on the Śivarātri nighttime-worship rule and on the Purāṇa verse about Śivarātri timing."
+    },
+    {
+      "cited_work": "Tithitattva",
+      "cited_author": null,
+      "stance": "refute",
+      "paragraph_id": "p-ca47c4",
+      "quote": "Mādhava and the author of the Tithitattva, however, say that in such a case, the latter day should be taken because it has a greater duration. That is incorrect",
+      "justification": "The Tithitattva's position that the latter day should be preferred for Śivarātri when Caturdaśī falls on two days is explicitly refuted by the Vīramitrodaya."
+    },
+    {
+      "cited_work": "Parāśara Smṛti",
+      "cited_author": "Parāśara",
+      "stance": "authority",
+      "paragraph_id": "p-b4b3c5",
+      "quote": "The Gauḍas, however, say it is on Caturdaśī, from the verse of Parāśara: When the sun is in Aries or Taurus, one should designate that as Sāvitrī.",
+      "justification": "Parāśara's smṛti is cited by the Gauḍas as the authority for performing the Vaṭasāvitrī vow on Caturdaśī rather than Paurṇamāsī."
+    },
+    {
+      "cited_work": "Bahvṛcapariśiṣṭa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-81c1c0",
+      "quote": "And it should not be argued that from the verse of the Bahvṛcapariśiṣṭa: The Taittirīyakas should perform the Śrāvaṇī on the festival day at sunrise. The Bahvṛcas should perform it in Śravaṇa, when it is free from an eclipse or solar ingress.",
+      "justification": "The Bahvṛcapariśiṣṭa is cited for the differentiated Upākarma rule by Vedic school (Taittirīya vs. Bahvṛca), though the Vīramitrodaya argues its mention of Taittirīya is anuvāda, not a fresh injunction."
+    },
+    {
+      "cited_work": "Gārgya Smṛti",
+      "cited_author": "Gārgya",
+      "stance": "authority",
+      "paragraph_id": "p-cd1caf",
+      "quote": "A special rule on this is from Gārgya: If the solar ingress or eclipse is before midnight, one should perform the Upākarma; if it is after, it is not a fault.",
+      "justification": "Gārgya is cited for the midnight-threshold rule governing eclipse/solar-ingress deferrals of Upākarma, and also for the Sāmaga afternoon/forenoon rule."
+    },
+    {
+      "cited_work": "Devala Smṛti",
+      "cited_author": "Devala",
+      "stance": "authority",
+      "paragraph_id": "p-53e7e1",
+      "quote": "The nature of the deep of night (mahāniśā) is stated by Devala: The deep of night is two ghaṭikās of the middle of the two middle yāmas of the night.",
+      "justification": "Devala is cited as the technical authority defining mahāniśā (the deep of night) as two ghaṭikās at the precise midpoint of the night's middle watches, essential for the Śivarātri tithi rule."
+    },
+    {
+      "cited_work": "Nigama",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-9a133d",
+      "quote": "In the Nigama also: On Śrāvaṇī or Prauṣṭhapadī, if Pratipad conjoins for six muhūrtas, the Upākarma and Utsarjana of the Vedas should be performed there.",
+      "justification": "The Nigama (different citation from the Vaṭasāvitrī reference) is cited for the six-muhūrta Pratipad rule that determines the sangatva (touching) of the Upākarma festival day."
+    },
+    {
+      "cited_work": "Praceta Smṛti",
+      "cited_author": "Praceta",
+      "stance": "authority",
+      "paragraph_id": "p-d2e89d",
+      "quote": "From this verse of Praceta, the forenoon is also prescribed.",
+      "justification": "Praceta is cited as the authority prescribing the forenoon time for Upākarma for non-Chandoga schools."
+    }
+  ]
+}

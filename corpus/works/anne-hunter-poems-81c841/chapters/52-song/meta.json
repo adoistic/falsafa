@@ -1,0 +1,46 @@
+{
+  "work_slug": "anne-hunter-poems-81c841",
+  "work_title": "Poems",
+  "chapter_number": 52,
+  "chapter_title": "SONG.",
+  "chapter_slug": "52-song",
+  "author": "Anne Hunter",
+  "author_slug": "anne-hunter",
+  "ecpa_poem_id": "bah18-w0520",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "song",
+      "refrain"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "sestet (6 lines)",
+      "sesta rima (6 lines [ababcc])"
+    ],
+    "rhyme": "ababcc",
+    "syllable_pattern": "8.8.8.8.9.9",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+|-/ -+|-+|-+|-+|-/",
+    "line_count": 12
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "cb88019c-97a1-5780-a35a-c202fcbe0f68",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 80,
+      "line_count": 13,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -48,7 +48,7 @@ They do not examine beauty, nor do they care about age; "He is a man," they thin
 
 On account of their promiscuity, their fickle-mindedness, and their lack of affection by nature, they become unfaithful to their husbands here, even when diligently protected. // Mn_9.15 //
 
-Knowing this nature of theirs, which was created by Prajapati at the beginning, a man should make the utmost effort towards their protection. // Mn_9.16 //
+Knowing this nature of theirs, which was created by Prajāpati at the beginning, a man should make the utmost effort towards their protection. // Mn_9.16 //
 
 A bed, a seat, ornament, desire, anger, crookedness, a malicious disposition, and bad conduct—these Manu assigned to women. // Mn_9.17 //
 
@@ -62,7 +62,7 @@ Whatever undesirable thing she contemplates in her mind against her husband, thi
 
 With a husband of whatever quality a woman is united according to the rule, of that same quality she becomes, like a river with the ocean. // Mn_9.22 //
 
-Akshamala, born of a low womb, being united with Vasishtha, and Sharangi with Mandapala, attained venerability. // Mn_9.23 //
+Akshamala, born of a low womb, being united with Vasiṣṭha, and Sharangi with Mandapala, attained venerability. // Mn_9.23 //
 
 These and other women of low birth in this world have attained excellence by the auspicious qualities of their respective husbands. // Mn_9.24 //
 
@@ -106,9 +106,9 @@ Just as an arrow shot at a target in the air is lost when another is shot after 
 
 The knowers of old know this earth to be the wife of Prithu; they call the field of one who cuts down the stump, and the deer of one who owns the rice. // Mn_9.44 //
 
-A man is only so much as his wife, himself, and his progeny; thus the Brahmanas declare this, that he who is the husband, she is remembered as the wife. // Mn_9.45 //
+A man is only so much as his wife, himself, and his progeny; thus the Brāhmaṇas declare this, that he who is the husband, she is remembered as the wife. // Mn_9.45 //
 
-A wife is not freed from her husband by sale or by abandonment; thus we know the Dharma, created by Prajapati in the beginning. // Mn_9.46 //
+A wife is not freed from her husband by sale or by abandonment; thus we know the Dharma, created by Prajāpati in the beginning. // Mn_9.46 //
 
 Once does the inheritance fall, once is a maiden given away, once does one say, "I will give"—these three things are done once by the good. // Mn_9.47 //
 
@@ -175,7 +175,7 @@ But a woman who has been superseded, who goes out from the house in anger, she m
 But she who, even though forbidden, drinks liquor even on festive occasions, or goes to a public spectacle or gathering, shall be fined six *kṛṣṇalas*. // Mn_9.84 //
 If twice-born men should marry wives of their own and of other *varnas*, their seniority, honor, and dwelling shall be according to the order of their *varna*. // Mn_9.85 //
 The personal service of her husband and the daily performance of religious duties, his wife of the same *varna* alone should perform for all of them; one of a different caste, never. // Mn_9.86 //
-But he who, out of delusion, has that work done by another wife while his wife of the same caste is present, he is just as he was seen of old, like a Brahmana-Chandala. // Mn_9.87 //
+But he who, out of delusion, has that work done by another wife while his wife of the same caste is present, he is just as he was seen of old, like a Brāhmaṇa-Caṇḍāla. // Mn_9.87 //
 To a suitor who is excellent, handsome, and of equal rank, one should give the maiden according to the rule, even if she has not yet reached the proper age. // Mn_9.88 //
 It is better that a maiden should stay in her father's house until death, even after she has reached puberty, but he should never give her to a man devoid of good qualities. // Mn_9.89 //
 A maiden, having reached puberty, should wait for three years; but after that time, she may find a husband of equal rank. // Mn_9.90 //
@@ -186,7 +186,7 @@ A man of thirty years should marry a pleasing maiden of twelve years; or a man o
 A husband obtains a wife given by the gods, not by his own will; by cherishing that virtuous wife always, he does what is pleasing to the gods. // Mn_9.95 //
 Women were created for the sake of procreation, and man for the sake of continuing the line; therefore, a common Dharma is declared in the *Śruti* to be performed together with the wife. // Mn_9.96 //
 If the giver of the bride-price should die after a bride-price has been given for a maiden, she should be given to his younger brother, if the maiden consents. // Mn_9.97 //
-Not even a Shudra should take a bride-price when giving a daughter; for by taking a bride-price, he performs a clandestine sale of a daughter. // Mn_9.98 //
+Not even a Śūdra should take a bride-price when giving a daughter; for by taking a bride-price, he performs a clandestine sale of a daughter. // Mn_9.98 //
 This the ancients did not do, nor did other virtuous men ever do this: that having been promised to one, she is then given to another. // Mn_9.99 //
 We have never heard, even in former births, of a clandestine sale of a daughter for a price under the name of a bride-price. // Mn_9.100 //
 Mutual fidelity until death—this, in summary, should be known as the highest Dharma for husband and wife. // Mn_9.101 //
@@ -216,7 +216,7 @@ But the eldest son born of the eldest wife shall take sixteen bulls; thereafter,
 Of sons born of wives of equal rank, without distinction, there is no seniority based on the mother; seniority is declared to be by birth. // Mn_9.125 //
 And the calling out by seniority of birth is remembered even in the Subrahmanya litanies; and in the case of twins born in the womb, seniority is remembered to be by birth. // Mn_9.126 //
 A man without a son may, by this rule, make his daughter a `putrikā` (an appointed daughter), saying: "Whatever offspring may be born of her, that shall be mine for performing the ancestral rites." // Mn_9.127 //
-By this rule, in ancient times, Daksha Prajapati himself made appointed daughters for the sake of the increase of his own lineage. // Mn_9.128 //
+By this rule, in ancient times, Daksha Prajāpati himself made appointed daughters for the sake of the increase of his own lineage. // Mn_9.128 //
 He gave ten to Dharma, thirteen to Kashyapa, and twenty-seven to King Soma, with a pleased mind and after honoring them. // Mn_9.129 //
 As is the self, so is the son; a daughter is equal to a son. While she, who is his very self, is present, how can another take the wealth? // Mn_9.130 //
 Whatever is the mother's `yautaka`, that is the share of the unmarried daughter alone; and the daughter's son shall take the entire wealth of a man who dies without a son. // Mn_9.131 //
@@ -237,15 +237,15 @@ A son born of an appointed wife shall inherit there like an `aurasa` son; for th
 He who supports the wealth of his deceased brother, and also his wife, having begotten a child for his brother, should give that wealth to him alone. // Mn_9.146 //
 That son whom a woman, who has been appointed, obtains from another man or from a brother-in-law, they declare to be born of desire, unworthy of inheritance, and born in vain. // Mn_9.147 //
 This rule of partition is to be known for those of a single womb; now learn it for those born of one man but in different wives. // Mn_9.148 //
-If a Brahmana has four wives in due order, and sons are born of them, this is the rule remembered for the partition. // Mn_9.149 //
-A ploughman, a bull, a vehicle, an ornament, and a house are to be given as the special portion to the Brahmana son, and one pre-eminent share. // Mn_9.150 //
-The Brahmana son shall take three shares of the inheritance; the son of the Kshatriya wife, two shares; the son of the Vaishya wife, a share and a half; and the son of the Shudra wife shall take one share. // Mn_9.151 //
+If a Brāhmaṇa has four wives in due order, and sons are born of them, this is the rule remembered for the partition. // Mn_9.149 //
+A ploughman, a bull, a vehicle, an ornament, and a house are to be given as the special portion to the Brāhmaṇa son, and one pre-eminent share. // Mn_9.150 //
+The Brāhmaṇa son shall take three shares of the inheritance; the son of the Kṣatriya wife, two shares; the son of the Vaiśya wife, a share and a half; and the son of the Śūdra wife shall take one share. // Mn_9.151 //
 Or, having divided that entire estate into ten parts, a knower of Dharma should make a righteous partition by this rule: // Mn_9.152 //
-The Brahmana son shall take four shares; the son of the Kshatriya wife, three shares; the son of the Vaishya wife shall take two shares; and the son of the Shudra wife shall take one share. // Mn_9.153 //
-Whether he has a legitimate son or not, one should not, according to Dharma, give more than a tenth part to the son of a Shudra wife. // Mn_9.154 //
-The son of a Shudra wife is not a sharer in the inheritance of a Brahmana, Kshatriya, or Vaishya; whatever his father may give him, that alone shall be his wealth. // Mn_9.155 //
+The Brāhmaṇa son shall take four shares; the son of the Kṣatriya wife, three shares; the son of the Vaiśya wife shall take two shares; and the son of the Śūdra wife shall take one share. // Mn_9.153 //
+Whether he has a legitimate son or not, one should not, according to Dharma, give more than a tenth part to the son of a Śūdra wife. // Mn_9.154 //
+The son of a Śūdra wife is not a sharer in the inheritance of a Brāhmaṇa, Kṣatriya, or Vaiśya; whatever his father may give him, that alone shall be his wealth. // Mn_9.155 //
 Or if all the sons of the twice-born are born of wives of equal *varna*, having given the special portion to the eldest, the others shall divide equally. // Mn_9.156 //
-For a Shudra, a wife of his own *varna* alone is prescribed, and no other; sons born of her shall have equal shares, even if there are a hundred sons. // Mn_9.157 //
+For a Śūdra, a wife of his own *varna* alone is prescribed, and no other; sons born of her shall have equal shares, even if there are a hundred sons. // Mn_9.157 //
 The twelve sons whom Svayambhuva Manu has declared for men—of them, six are kinsmen and heirs, and six are not heirs but are kinsmen. // Mn_9.158 //
 The `aurasa`, the `kṣetraja`, the `datta`, the `kṛtrima`, the `gūḍhotpanna`, and the `apaviddha`—these six are heirs and kinsmen. // Mn_9.159 //
 The `kānīna`, the `sahoḍha`, the `krīta`, and likewise the `paunarbhava`, the `svayaṃdatta`, and the `pāraśava`—these six are not heirs but are kinsmen. // Mn_9.160 //
@@ -266,8 +266,8 @@ He whom one may buy for the sake of having a son from his mother and father, he 
 She who, having been abandoned by her husband or being a widow, of her own free will, having become a wife again, gives birth, he is called a `paunarbhava`. // Mn_9.175 //
 If she is a virgin, or if she has returned after having gone away, she is worthy of a second consecration with a husband who has remarried. // Mn_9.176 //
 He who is without a mother and father, or who has been abandoned without cause, and who offers himself to someone, he is remembered as a `svayaṃdatta`. // Mn_9.177 //
-That son whom a Brahmana may beget on a Shudra woman out of lust, he, being a living corpse, is therefore remembered as a `pāraśava`. // Mn_9.178 //
-That son who is born to a Shudra from a female slave or from the female slave of a slave, he, being permitted, shall take a share; this is the established Dharma. // Mn_9.179 //
+That son whom a Brāhmaṇa may beget on a Śūdra woman out of lust, he, being a living corpse, is therefore remembered as a `pāraśava`. // Mn_9.178 //
+That son who is born to a Śūdra from a female slave or from the female slave of a slave, he, being permitted, shall take a share; this is the established Dharma. // Mn_9.179 //
 These eleven sons, the `kṣetraja` and the others, as they have been stated, the wise call substitutes for a son, on account of a failure of religious rites. // Mn_9.180 //
 These sons who have been mentioned, born incidentally from the seed of another, they belong to him from whose seed they were born, and not to the other. // Mn_9.181 //
 Of brothers born of one father, if one should have a son, Manu has said that all of them are possessed of a son through that son. // Mn_9.182 //
@@ -276,8 +276,8 @@ In the absence of a better son, a worse one is entitled to the inheritance; but 
 Not the brothers, nor the fathers, but the sons are the heirs to the father's inheritance; but the father shall take the inheritance of a sonless man, and the brothers as well. // Mn_9.185 //
 To three ancestors, water must be offered; for three, the *piṇḍa* is performed; the fourth is the giver of these; the fifth has no connection. // Mn_9.186 //
 The one who is nearest to a *sapiṇḍa*, his shall be the wealth; after him, a *sakulya* shall be the heir, or the *ācārya*, or the pupil. // Mn_9.187 //
-But in the absence of all of these, the Brahmanas are the heirs to the inheritance, those learned in the three Vedas, pure, and self-controlled; thus Dharma is not violated. // Mn_9.188 //
-The property of a Brahmana must never be taken by the king; this is the established rule. But for the other *varnas*, in the absence of all heirs, the king may take it. // Mn_9.189 //
+But in the absence of all of these, the Brāhmaṇas are the heirs to the inheritance, those learned in the three Vedas, pure, and self-controlled; thus Dharma is not violated. // Mn_9.188 //
+The property of a Brāhmaṇa must never be taken by the king; this is the established rule. But for the other *varnas*, in the absence of all heirs, the king may take it. // Mn_9.189 //
 Of one who has died without issue, one should procure a son from his own lineage; whatever estate there may be, that should be delivered to him. // Mn_9.190 //
 But if two should dispute over the wealth of a woman, both being born of her, whichever paternal property belongs to whom, he shall take that, and not the other. // Mn_9.191 //
 When the mother has died, all the uterine brothers should divide the maternal inheritance equally, and the uterine sisters as well. // Mn_9.192 //
@@ -286,7 +286,7 @@ What is given before the nuptial fire, what is given at the bridal procession, w
 And what is given after marriage, and whatever is given by her husband out of affection, that wealth shall belong to her offspring, even if she dies while her husband is alive. // Mn_9.195 //
 In the `Brāhma`, `Daiva`, `Ārṣa`, `Gāndharva`, and `Prājāpatya` forms of marriage, whatever wealth there is, if she dies without issue, it is desired to belong to her husband alone. // Mn_9.196 //
 But whatever wealth may have been given to her in the `Āsura` and other forms of marriage, if she dies without issue, it is desired to belong to her mother and father. // Mn_9.197 //
-Whatever property may have been given by her father to a woman in any way, that the Brahmana maiden shall take, or it shall belong to her offspring. // Mn_9.198 //
+Whatever property may have been given by her father to a woman in any way, that the Brāhmaṇa maiden shall take, or it shall belong to her offspring. // Mn_9.198 //
 Women should not make an expenditure from the family property which is common to many, nor even from their own wealth, without the permission of their husband. // Mn_9.199 //
 Whatever ornament may have been worn by women while their husband is alive, the heirs should not divide it; those who divide it become outcastes. // Mn_9.200 //
 The impotent and the outcaste are not sharers, nor one who is blind and deaf by birth, nor the insane, the idiotic, and the mute, nor any who are devoid of a sense organ. // Mn_9.201 //
@@ -312,36 +312,36 @@ This partition has been declared to you, and the rule of action for sons; now le
 Gambling and betting, the king should banish from his realm; these two vices are destroyers of the kingdom of princes. // Mn_9.221 //
 This is open theft, that which is gambling and betting; in the constant suppression of these two, a king should be diligent. // Mn_9.222 //
 What is done with inanimate objects, that is called gambling in the world; but what is done with living creatures, that is to be known as betting. // Mn_9.223 //
-He who should perform or cause to be performed gambling and betting, all them the king should slay, and also Shudras who wear the marks of the twice-born. // Mn_9.224 //
+He who should perform or cause to be performed gambling and betting, all them the king should slay, and also Śūdras who wear the marks of the twice-born. // Mn_9.224 //
 Gamblers, dancers and singers, cruel men, and men belonging to heretical sects, those engaged in forbidden acts, and sellers of liquor, he should quickly banish from the city. // Mn_9.225 //
 These, remaining in the king's realm, are secret thieves; by their forbidden actions, they constantly afflict the good subjects. // Mn_9.226 //
 This gambling was seen in a former age to be a great cause of enmity; therefore, a wise man should not practice gambling, even for amusement. // Mn_9.227 //
 Whatever man should engage in it, whether secretly or openly, for him there shall be a choice of punishments, as the king may wish. // Mn_9.228 //
-A man of the Kshatriya, Vaishya, or Shudra caste who is unable to pay a fine shall discharge his debt by labor; a Brahmana shall pay it slowly, little by little. // Mn_9.229 //
+A man of the Kṣatriya, Vaiśya, or Śūdra caste who is unable to pay a fine shall discharge his debt by labor; a Brāhmaṇa shall pay it slowly, little by little. // Mn_9.229 //
 For women, children, the insane, the old, the poor, and the sick, the king should inflict punishment with a thin stick, a split bamboo, a rope, and the like. // Mn_9.230 //
 Those who, having been appointed to duties, should ruin the affairs of their employers, being heated by the fire of wealth, the king should make them destitute. // Mn_9.231 //
-Makers of forged documents, and corrupters of the people, and slayers of women, children, and Brahmanas, and those who serve his enemies, he should slay. // Mn_9.232 //
+Makers of forged documents, and corrupters of the people, and slayers of women, children, and Brāhmaṇas, and those who serve his enemies, he should slay. // Mn_9.232 //
 Whatever has been decided and instructed, wherever it may be, that which has been done should be known as done according to Dharma; one should not reverse it again. // Mn_9.233 //
 Whatever affair ministers or a judge should conduct otherwise, that the king should conduct himself, and he should fine them a thousand. // Mn_9.234 //
-A slayer of a Brahmana, a drinker of liquor, a thief, and a defiler of a *guru's* bed—all these are to be known separately as men who have committed a great sin. // Mn_9.235 //
+A slayer of a Brāhmaṇa, a drinker of liquor, a thief, and a defiler of a *guru's* bed—all these are to be known separately as men who have committed a great sin. // Mn_9.235 //
 For all four of these who do not perform the penance, he should ordain a corporal punishment combined with a fine, which is righteous. // Mn_9.236 //
-For defiling a *guru's* bed, the mark of a vulva should be made; for drinking liquor, the mark of a liquor-seller's flag; for theft, the mark of a dog's foot; and for the slayer of a Brahmana, a headless man. // Mn_9.237 //
+For defiling a *guru's* bed, the mark of a vulva should be made; for drinking liquor, the mark of a liquor-seller's flag; for theft, the mark of a dog's foot; and for the slayer of a Brāhmaṇa, a headless man. // Mn_9.237 //
 They are not to be eaten with, not to be sacrificed for, not to be taught, and not to be married; they should wander the earth, wretched and excluded from all Dharma. // Mn_9.238 //
 These, having been marked, must be abandoned by their kinsmen and relatives; they are to be shown no mercy and no salutation; this is the command of Manu. // Mn_9.239 //
 But those of all *varnas* who are performing the prescribed penance should not be marked on the forehead by the king, but they should be made to pay the highest amercement. // Mn_9.240 //
-In the case of a Brahmana's offenses, the middle amercement should be imposed; or he may be banished from the realm with his property and belongings. // Mn_9.241 //
+In the case of a Brāhmaṇa's offenses, the middle amercement should be imposed; or he may be banished from the realm with his property and belongings. // Mn_9.241 //
 But others who have committed these sins unintentionally are liable to the confiscation of all their property; but if intentionally, to banishment. // Mn_9.242 //
 A virtuous king should not take the wealth of one who has committed a great sin; but by taking it out of greed, he is tainted with that same fault. // Mn_9.243 //
-Having cast that fine into the waters, he should offer it to Varuna; or he should bestow it on a Brahmana who is endowed with learning and good conduct. // Mn_9.244 //
-Varuna is the lord of punishment, for he is the wielder of the rod for kings; a Brahmana who has mastered the Veda is the lord of the entire world. // Mn_9.245 //
+Having cast that fine into the waters, he should offer it to Varuṇa; or he should bestow it on a Brāhmaṇa who is endowed with learning and good conduct. // Mn_9.244 //
+Varuṇa is the lord of punishment, for he is the wielder of the rod for kings; a Brāhmaṇa who has mastered the Veda is the lord of the entire world. // Mn_9.245 //
 Where the king refrains from taking wealth from evil-doers, there men are born in due time and are long-lived. // Mn_9.246 //
 And the crops of the common people ripen as they were sown, separately; and children do not die prematurely, and nothing deformed is born. // Mn_9.247 //
-A king should slay with various means of execution that cause terror a man of a lower *varna* who, out of desire, harasses Brahmanas. // Mn_9.248 //
+A king should slay with various means of execution that cause terror a man of a lower *varna* who, out of desire, harasses Brāhmaṇas. // Mn_9.248 //
 As great a non-Dharma is seen for a king in the slaying of one who should not be slain, as in the release of one who should be slain; but Dharma is in punishing. // Mn_9.249 //
 This has been declared to you at length, the determination of legal proceedings in the eighteen paths for those who are disputing with each other. // Mn_9.250 //
 Thus a great king, by duly performing his righteous duties, should desire to obtain countries that have not been obtained, and should protect those that have been obtained. // Mn_9.251 //
 Having established his country well, and having built a fortress according to the sacred treatises, he should always apply the utmost effort in the removal of "thorns." // Mn_9.252 //
-By the protection of the Aryan-like virtuous and by the cleansing of "thorns," kings who are intent on the protection of their subjects go to heaven. // Mn_9.253 //
+By the protection of the Ārya-like virtuous and by the cleansing of "thorns," kings who are intent on the protection of their subjects go to heaven. // Mn_9.253 //
 
 His kingdom is thrown into confusion, and he is deprived of heaven. // Mn_9.254 //
 
@@ -371,7 +371,7 @@ A king should have such places patrolled by stationary and moving detachments of
 
 He should discover and suppress them with the help of their associates, who know their various activities, and by means of skillful former thieves. // Mn_9.267 //
 
-By offering them food and drink, by showing them Brahmanas, and by pretending to perform heroic deeds, they should bring about a meeting with them. // Mn_9.268 //
+By offering them food and drink, by showing them Brāhmaṇas, and by pretending to perform heroic deeds, they should bring about a meeting with them. // Mn_9.268 //
 
 Those who do not approach there, and those who are the original instigators, the king should slay them by force, along with their friends, kinsmen, and relatives. // Mn_9.269 //
 
@@ -437,11 +437,11 @@ And all oppressions and afflictions as well; he should then begin an action, hav
 
 He should begin actions, though weary, again and again; for fortune serves the man who is beginning actions. // Mn_9.300 //
 
-The Krita, the Treta, and the Dvapara, and the Kali as well—all these are the conduct of the king; for the king is said to be the age. // Mn_9.301 //
+The Kṛta, the Tretā, and the Dvāpara, and the Kali as well—all these are the conduct of the king; for the king is said to be the age. // Mn_9.301 //
 
-The Kali is when he is asleep; when he is awake, it is the Dvapara age; when he is ready for action, the Treta; but when he is active, it is the Krita age. // Mn_9.302 //
+The Kali is when he is asleep; when he is awake, it is the Dvāpara age; when he is ready for action, the Tretā; but when he is active, it is the Kṛta age. // Mn_9.302 //
 
-A king should follow the brilliant conduct of Indra, of the Sun, of the Wind, of Yama, of Varuna, of the Moon, of Agni, and of the Earth. // Mn_9.303 //
+A king should follow the brilliant conduct of Indra, of the Sun, of the Wind, of Yama, of Varuṇa, of the Moon, of Agni, and of the Earth. // Mn_9.303 //
 
 As Indra sends down rain for the four months of the rainy season, so should he shower his kingdom with favors, observing the vow of Indra. // Mn_9.304 //
 
@@ -451,7 +451,7 @@ As the Wind moves, having entered all beings, so should he enter everywhere with
 
 As Yama restrains both the beloved and the hated when their time has come, so should the subjects be restrained by the king; for that is the vow of Yama. // Mn_9.307 //
 
-As one is seen bound by the fetters of Varuna, so should he restrain the sinful; for this is the vow of Varuna. // Mn_9.308 //
+As one is seen bound by the fetters of Varuṇa, so should he restrain the sinful; for this is the vow of Varuṇa. // Mn_9.308 //
 
 As men rejoice on seeing the full moon, so is that king in whom his subjects rejoice one who observes the vow of the Moon. // Mn_9.309 //
 
@@ -461,7 +461,7 @@ As the Earth supports all beings equally, so is the supporting of all beings the
 
 By these and other means, being ever unwearied, a king should restrain thieves in his own kingdom and in that of another. // Mn_9.312 //
 
-Even when he has reached the greatest distress, he must not provoke Brahmanas; for they, being angered, could slay him immediately, with his army and vehicles. // Mn_9.313 //
+Even when he has reached the greatest distress, he must not provoke Brāhmaṇas; for they, being angered, could slay him immediately, with his army and vehicles. // Mn_9.313 //
 
 By whom fire was made to consume all things, and the great ocean undrinkable, and the waning Soma made to wax again—who would not perish by provoking them? // Mn_9.314 //
 
@@ -469,29 +469,29 @@ They who, being angered, could create other worlds and other world-protectors, a
 
 They on whom the worlds and the gods always depend for support, and whose wealth is the Veda itself—who, wishing to live, would harm them? // Mn_9.316 //
 
-A Brahmana, whether unlearned or learned, is a great deity; just as fire, whether consecrated or unconsecrated, is a great deity. // Mn_9.317 //
+A Brāhmaṇa, whether unlearned or learned, is a great deity; just as fire, whether consecrated or unconsecrated, is a great deity. // Mn_9.317 //
 
 Even in cremation grounds, the brilliant fire is not defiled; and when oblations are offered to it in sacrifices, it increases yet more. // Mn_9.318 //
 
-Thus, even if they engage in all kinds of undesirable actions, Brahmanas are to be honored in every way; for that is the supreme deity. // Mn_9.319 //
+Thus, even if they engage in all kinds of undesirable actions, Brāhmaṇas are to be honored in every way; for that is the supreme deity. // Mn_9.319 //
 
-When the Kshatra power has grown too great against the Brahmanas in every way, the Brahma power itself shall be the restrainer; for the Kshatra is born from the Brahma. // Mn_9.320 //
+When the Kṣatra power has grown too great against the Brāhmaṇas in every way, the Brahma power itself shall be the restrainer; for the Kṣatra is born from the Brahma. // Mn_9.320 //
 
-From water, fire arose; from the Brahma, the Kshatra; from stone, iron. Their all-pervading energy is pacified in their own sources. // Mn_9.321 //
+From water, fire arose; from the Brahma, the Kṣatra; from stone, iron. Their all-pervading energy is pacified in their own sources. // Mn_9.321 //
 
-The Kshatra does not prosper without the Brahma; the Brahma does not increase without the Kshatra. The Brahma and the Kshatra, being united, prosper in this world and in the next. // Mn_9.322 //
+The Kṣatra does not prosper without the Brahma; the Brahma does not increase without the Kṣatra. The Brahma and the Kṣatra, being united, prosper in this world and in the next. // Mn_9.322 //
 
-But having given to Brahmanas the wealth arising from all fines, having entrusted the kingdom to his son, he should make his last journey in battle. // Mn_9.323 //
+But having given to Brāhmaṇas the wealth arising from all fines, having entrusted the kingdom to his son, he should make his last journey in battle. // Mn_9.323 //
 
 A king, thus acting, always engaged in the Dharmas of kings, should employ all his servants in what is beneficial for the world. // Mn_9.324 //
 
-This entire eternal rule of action has been declared for a king; one should know this rule of action, in order, for the Vaishya and the Shudra. // Mn_9.325 //
+This entire eternal rule of action has been declared for a king; one should know this rule of action, in order, for the Vaiśya and the Śūdra. // Mn_9.325 //
 
-But a Vaishya, having received the consecrating rites and having taken a wife, should be ever engaged in economics and in the protection of cattle. // Mn_9.326 //
+But a Vaiśya, having received the consecrating rites and having taken a wife, should be ever engaged in economics and in the protection of cattle. // Mn_9.326 //
 
-For Prajapati, having created cattle, entrusted them to the Vaishya; and to the Brahmana and the king, he entrusted all the subjects. // Mn_9.327 //
+For Prajāpati, having created cattle, entrusted them to the Vaiśya; and to the Brāhmaṇa and the king, he entrusted all the subjects. // Mn_9.327 //
 
-And a Vaishya should not have the desire, "I will not protect the cattle"; for if a Vaishya wishes it so, they must not be protected by another in any way. // Mn_9.328 //
+And a Vaiśya should not have the desire, "I will not protect the cattle"; for if a Vaiśya wishes it so, they must not be protected by another in any way. // Mn_9.328 //
 
 Of jewels, pearls, and coral, of metals and of woven cloth, of perfumes and of savory liquids, he should know the relative value. // Mn_9.329 //
 
@@ -503,8 +503,8 @@ And he should know the wages of servants, and the various languages of men, and 
 
 And he should make the utmost effort in the increase of his wealth by righteous means; and he should diligently give food to all beings. // Mn_9.333 //
 
-But service alone to the Brahmanas who know the Veda, who are householders and are famous, is the highest Dharma for a Shudra, leading to the supreme good. // Mn_9.334 //
+But service alone to the Brāhmaṇas who know the Veda, who are householders and are famous, is the highest Dharma for a Śūdra, leading to the supreme good. // Mn_9.334 //
 
-Pure, serving the superior, gentle in speech, without arrogance, always taking refuge in the Brahmanas and others, he attains a superior birth. // Mn_9.335 //
+Pure, serving the superior, gentle in speech, without arrogance, always taking refuge in the Brāhmaṇas and others, he attains a superior birth. // Mn_9.335 //
 
 This auspicious rule of action has been declared for the *varnas* in a time of no distress; but what is for them in a time of distress, learn that in order. // Mn_9.336 //

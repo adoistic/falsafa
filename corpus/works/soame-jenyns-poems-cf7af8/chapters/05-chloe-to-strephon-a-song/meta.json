@@ -1,0 +1,46 @@
+{
+  "work_slug": "soame-jenyns-poems-cf7af8",
+  "work_title": "Poems",
+  "chapter_number": 5,
+  "chapter_title": "CHLOE to STREPHON. A SONG.",
+  "chapter_slug": "05-chloe-to-strephon-a-song",
+  "author": "Soame Jenyns",
+  "author_slug": "soame-jenyns",
+  "ecpa_poem_id": "o5154-w0260",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ballad metre",
+      "Chevy Chase stanza",
+      "song"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "8.6.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/          -+|-+|-+/         -+|-+|-+|-+/          -+|-+|-+/",
+    "line_count": 24
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c8963b28-237c-5175-95fe-4f6e11f765fc",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 147,
+      "line_count": 27,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

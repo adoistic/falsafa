@@ -1,0 +1,44 @@
+{
+  "work_slug": "thomas-paine-poems-68a852",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "The Injur’d Ghost of Liberty",
+  "chapter_slug": "01-the-injur-d-ghost-of-liberty",
+  "author": "Thomas Paine",
+  "author_slug": "thomas-paine",
+  "ecpa_poem_id": "tpc26-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "allegory"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "xaxa",
+    "syllable_pattern": "8.6.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 144
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "fabb1cb2-8975-5c1d-90ef-80eb9ceab426",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 912,
+      "line_count": 183,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

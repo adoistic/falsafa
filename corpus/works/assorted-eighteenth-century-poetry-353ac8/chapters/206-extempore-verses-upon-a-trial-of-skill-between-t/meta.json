@@ -1,0 +1,44 @@
+{
+  "work_slug": "assorted-eighteenth-century-poetry-353ac8",
+  "work_title": "An Assorted Collection of Eighteenth-Century Poetry",
+  "chapter_number": 206,
+  "chapter_title": "Extempore Verses upon a Trial of Skill between the two great Masters of Defence, Messieurs FIGG and SUTTON.",
+  "chapter_slug": "206-extempore-verses-upon-a-trial-of-skill-between-t",
+  "author": "John Byrom",
+  "author_slug": "john-byrom",
+  "ecpa_poem_id": "o5157-w0710",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "occasional poem"
+    ],
+    "foot": "anapaestic (˘˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "octet (8 lines)"
+    ],
+    "rhyme": "aabbccdd",
+    "syllable_pattern": "12.12.12.12.12.12.12.12",
+    "metrical_pattern": "--+|--+|--+|--+/         --+|--+|--+|--+/         --+|--+|--+|--+/         --+|--+|--+|--+/         --+|--+|--+|--+/         --+|--+|--+|--+/         --+|--+|--+|--+/         --+|--+|--+|--+/",
+    "line_count": 80
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "564341be-ff8b-5f21-89aa-d3d73364759b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 790,
+      "line_count": 92,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "william-lisle-bowles-poems-44faf8",
+  "work_title": "Poems",
+  "chapter_number": 65,
+  "chapter_title": "WARDOUR CASTLE.",
+  "chapter_slug": "65-wardour-castle",
+  "author": "William Lisle Bowles",
+  "author_slug": "william-lisle-bowles",
+  "ecpa_poem_id": "glb19-w0650",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "rhyme": "abbacddceeffgghhiikk",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 20
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4d37fc8a-6f10-5366-97d9-8f6e2dbc11da",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 155,
+      "line_count": 21,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

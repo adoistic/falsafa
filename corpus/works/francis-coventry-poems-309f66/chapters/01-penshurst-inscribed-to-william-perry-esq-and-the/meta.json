@@ -1,0 +1,44 @@
+{
+  "work_slug": "francis-coventry-poems-309f66",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "PENSHURST. INSCRIBED TO WILLIAM PERRY, Esq; AND The Honourable Mrs. ELIZABETH PERRY.",
+  "chapter_slug": "01-penshurst-inscribed-to-william-perry-esq-and-the",
+  "author": "Francis Coventry",
+  "author_slug": "francis-coventry",
+  "ecpa_poem_id": "o5155-w0040",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "Country House poem"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 290
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "761d49ba-2fea-5fee-a635-09145f604a31",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1725,
+      "line_count": 293,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

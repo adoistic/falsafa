@@ -1,0 +1,44 @@
+{
+  "work_slug": "eliza-day-poems-281dff",
+  "work_title": "Poems",
+  "chapter_number": 46,
+  "chapter_title": "THOUGHTS OCCASIONED BY THE DEATH OF AN AMIABLE YOUTH, WHILE HIS FRIENDS WERE MET TO CELEBRATE HIS BIRTH-DAY.",
+  "chapter_slug": "46-thoughts-occasioned-by-the-death-of-an-amiable-y",
+  "author": "Eliza Day",
+  "author_slug": "eliza-day",
+  "ecpa_poem_id": "bed98-w0460",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "occasional poem"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "xaxa",
+    "syllable_pattern": "8.6.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 16
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1e95ea3b-7e0c-5eb9-a318-ba4c53dd6add",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 110,
+      "line_count": 18,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

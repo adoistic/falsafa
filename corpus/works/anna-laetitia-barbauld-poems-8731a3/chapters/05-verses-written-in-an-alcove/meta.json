@@ -1,0 +1,44 @@
+{
+  "work_slug": "anna-laetitia-barbauld-poems-8731a3",
+  "work_title": "Poems",
+  "chapter_number": 5,
+  "chapter_title": "VERSES written in an Alcove.",
+  "chapter_slug": "05-verses-written-in-an-alcove",
+  "author": "Anna Laetitia Barbauld",
+  "author_slug": "anna-laetitia-barbauld",
+  "ecpa_poem_id": "o3555-w0050",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "pastoral"
+    ],
+    "foot": "trochaic (′˘)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "xaxa",
+    "syllable_pattern": "8.6.8.6",
+    "metrical_pattern": "+-|+-|+-|+-/ +-|+-|+-/ +-|+-|+-|+-/ +-|+-|+-/",
+    "line_count": 56
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "93b504af-c3a2-5ef2-a6cf-5be29857b45b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 315,
+      "line_count": 57,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

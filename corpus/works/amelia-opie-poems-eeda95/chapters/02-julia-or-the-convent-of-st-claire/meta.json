@@ -1,0 +1,46 @@
+{
+  "work_slug": "amelia-opie-poems-eeda95",
+  "work_title": "Poems",
+  "chapter_number": 2,
+  "chapter_title": "JULIA, OR THE CONVENT OF ST. CLAIRE.",
+  "chapter_slug": "02-julia-or-the-convent-of-st-claire",
+  "author": "Amelia Opie",
+  "author_slug": "amelia-opie",
+  "ecpa_poem_id": "bao18-w0020",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ballad metre",
+      "lyric",
+      "narrative verse"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "xaxa",
+    "syllable_pattern": "8.8.8.8",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/",
+    "line_count": 284
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2fd8c473-8cbd-5815-b5e7-56894d3cae6b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1841,
+      "line_count": 287,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

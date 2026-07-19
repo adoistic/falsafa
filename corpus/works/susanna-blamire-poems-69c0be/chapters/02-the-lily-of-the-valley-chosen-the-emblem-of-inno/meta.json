@@ -1,0 +1,44 @@
+{
+  "work_slug": "susanna-blamire-poems-69c0be",
+  "work_title": "Poems",
+  "chapter_number": 2,
+  "chapter_title": "THE LILY OF THE VALLEY, CHOSEN THE EMBLEM OF INNOCENCE.",
+  "chapter_slug": "02-the-lily-of-the-valley-chosen-the-emblem-of-inno",
+  "author": "Susanna Blamire",
+  "author_slug": "susanna-blamire",
+  "ecpa_poem_id": "bsb18-w0020",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "narrative verse"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 76
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5ed846ef-8b1b-5016-a9ea-f63f71991bc4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 503,
+      "line_count": 78,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

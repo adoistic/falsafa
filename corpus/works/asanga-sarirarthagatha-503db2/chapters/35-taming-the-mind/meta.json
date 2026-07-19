@@ -1,0 +1,38 @@
+{
+  "work_slug": "asanga-sarirarthagatha-503db2",
+  "work_title": "Śarīrārthagāthā",
+  "chapter_number": 35,
+  "chapter_title": "Taming the mind",
+  "chapter_slug": "35-taming-the-mind",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "2b85f064-a965-5bd3-a09a-b06675a090bc",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "iast",
+      "word_count": 12,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "063688c8-caa0-5bd7-bfd0-a22be152cf79",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 21,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    }
+  ]
+}

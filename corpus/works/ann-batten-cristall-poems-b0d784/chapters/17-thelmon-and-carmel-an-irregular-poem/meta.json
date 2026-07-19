@@ -1,0 +1,38 @@
+{
+  "work_slug": "ann-batten-cristall-poems-b0d784",
+  "work_title": "Poems",
+  "chapter_number": 17,
+  "chapter_title": "THELMON AND CARMEL; AN IRREGULAR POEM.",
+  "chapter_slug": "17-thelmon-and-carmel-an-irregular-poem",
+  "author": "Ann Batten Cristall",
+  "author_slug": "ann-batten-cristall",
+  "ecpa_poem_id": "cac95-w0170",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "narrative verse"
+    ],
+    "rhyme": "irregular",
+    "metrical_pattern": "irregular",
+    "line_count": 297
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7579b168-c1d0-5f47-b4b6-5b8caef47f92",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2300,
+      "line_count": 307,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

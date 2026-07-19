@@ -1,0 +1,28 @@
+{
+  "work_slug": "william-shakespeare-sonnets-65f289",
+  "work_title": "Sonnets",
+  "chapter_number": 124,
+  "chapter_title": "Sonnet 124",
+  "chapter_slug": "124-sonnet-124",
+  "incipit": "If my dear love were but the child of state,",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "093270bd-5d47-56f6-9192-04acdb28f5ef",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 109,
+      "line_count": 14,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1041",
+      "license": "Public domain — from Project Gutenberg (https://www.gutenberg.org)"
+    }
+  ]
+}

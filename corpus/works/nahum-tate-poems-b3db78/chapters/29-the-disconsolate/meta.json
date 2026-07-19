@@ -1,0 +1,34 @@
+{
+  "work_slug": "nahum-tate-poems-b3db78",
+  "work_title": "Poems",
+  "chapter_number": 29,
+  "chapter_title": "The Disconsolate.",
+  "chapter_slug": "29-the-disconsolate",
+  "author": "Nahum Tate",
+  "author_slug": "nahum-tate",
+  "ecpa_poem_id": "oat77-w0290",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "metrical_pattern": "irregular",
+    "line_count": 37
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6f454602-72ec-5d53-a932-d251005f9fbe",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 263,
+      "line_count": 39,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "work_slug": "james-thomson-poems-24b480",
+  "work_title": "Poems",
+  "chapter_number": 13,
+  "chapter_title": "On the Report of a WOODEN BRIDGE to be built at Westminster.",
+  "chapter_slug": "13-on-the-report-of-a-wooden-bridge-to-be-built-at-",
+  "author": "James Thomson",
+  "author_slug": "james-thomson",
+  "ecpa_poem_id": "o5154-w0040",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "occasional poem"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 16
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c1b0edb6-0216-54a0-bcc1-2c39663c09b7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 141,
+      "line_count": 18,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

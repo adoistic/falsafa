@@ -1,0 +1,44 @@
+{
+  "work_slug": "anne-hunter-poems-81c841",
+  "work_title": "Poems",
+  "chapter_number": 23,
+  "chapter_title": "TO A FRIEND ON NEW YEAR'S DAY.",
+  "chapter_slug": "23-to-a-friend-on-new-years-day",
+  "author": "Anne Hunter",
+  "author_slug": "anne-hunter",
+  "ecpa_poem_id": "bah18-w0230",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "occasional poem"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 32
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "023dbe45-116e-5ac6-873a-be302b0df13a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 250,
+      "line_count": 33,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

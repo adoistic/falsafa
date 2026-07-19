@@ -1,0 +1,44 @@
+{
+  "work_slug": "anne-hunter-poems-81c841",
+  "work_title": "Poems",
+  "chapter_number": 17,
+  "chapter_title": "LAURA TO PETRARCH.",
+  "chapter_slug": "17-laura-to-petrarch",
+  "author": "Anne Hunter",
+  "author_slug": "anne-hunter",
+  "ecpa_poem_id": "bah18-w0170",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "address"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 43
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "42e7d57d-4295-57ac-9032-2a0e48f866f0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 349,
+      "line_count": 44,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

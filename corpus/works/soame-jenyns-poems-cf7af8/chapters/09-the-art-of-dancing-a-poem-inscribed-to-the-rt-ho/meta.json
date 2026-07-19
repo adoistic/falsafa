@@ -1,0 +1,44 @@
+{
+  "work_slug": "soame-jenyns-poems-cf7af8",
+  "work_title": "Poems",
+  "chapter_number": 9,
+  "chapter_title": "The ART of DANCING. A POEM. Inscribed to the Rt. Hon. the Lady FANNY FIELDING. Written in the Year 1730.",
+  "chapter_slug": "09-the-art-of-dancing-a-poem-inscribed-to-the-rt-ho",
+  "author": "Soame Jenyns",
+  "author_slug": "soame-jenyns",
+  "ecpa_poem_id": "o5154-w0300",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 561
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b22c54ff-6eeb-5d1b-97cb-37c82e01d78e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4332,
+      "line_count": 566,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

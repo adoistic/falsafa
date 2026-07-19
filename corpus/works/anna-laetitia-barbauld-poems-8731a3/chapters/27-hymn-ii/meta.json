@@ -1,0 +1,44 @@
+{
+  "work_slug": "anna-laetitia-barbauld-poems-8731a3",
+  "work_title": "Poems",
+  "chapter_number": 27,
+  "chapter_title": "HYMN II.",
+  "chapter_slug": "27-hymn-ii",
+  "author": "Anna Laetitia Barbauld",
+  "author_slug": "anna-laetitia-barbauld",
+  "ecpa_poem_id": "o3555-w0270",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "hymn"
+    ],
+    "foot": "trochaic (′˘)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "aabb",
+    "syllable_pattern": "8.8.8.8",
+    "metrical_pattern": "+-|+-|+-|+-/ +-|+-|+-/ +-|+-|+-|+-/ +-|+-|+-/",
+    "line_count": 36
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e8251870-6576-54a1-a727-4cd6f569c3dd",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 206,
+      "line_count": 37,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

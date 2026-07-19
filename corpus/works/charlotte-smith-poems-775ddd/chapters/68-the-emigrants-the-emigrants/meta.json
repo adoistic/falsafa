@@ -1,0 +1,40 @@
+{
+  "work_slug": "charlotte-smith-poems-775ddd",
+  "work_title": "Poems",
+  "chapter_number": 68,
+  "chapter_title": "[THE EMIGRANTS.] THE EMIGRANTS.",
+  "chapter_slug": "68-the-emigrants-the-emigrants",
+  "author": "Charlotte Smith",
+  "author_slug": "charlotte-smith",
+  "ecpa_poem_id": "o3919-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "blank verse"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 826
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8ffadd96-13f8-5689-b930-d96f4016125e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6162,
+      "line_count": 835,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

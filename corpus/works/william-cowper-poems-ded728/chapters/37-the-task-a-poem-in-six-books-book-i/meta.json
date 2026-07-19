@@ -1,0 +1,43 @@
+{
+  "work_slug": "william-cowper-poems-ded728",
+  "work_title": "Poems",
+  "chapter_number": 37,
+  "chapter_title": "[THE TASK, A POEM, IN SIX BOOKS.] BOOK I.",
+  "chapter_slug": "37-the-task-a-poem-in-six-books-book-i",
+  "author": "William Cowper",
+  "author_slug": "william-cowper",
+  "ecpa_poem_id": "o3795-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "blank verse",
+      "narrative verse",
+      "georgic",
+      "philosophic poetry"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 774
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b0c77d39-3201-54f1-a414-55b3fb4e8e25",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5781,
+      "line_count": 777,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

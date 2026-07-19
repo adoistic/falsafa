@@ -1,0 +1,44 @@
+{
+  "work_slug": "hannah-cowley-poems-76f581",
+  "work_title": "Poems",
+  "chapter_number": 5,
+  "chapter_title": "WRITTEN THE MORNING AFTER ANNA MATILDA's RETURN FROM A FRIEND's HOUSE, Close on the verge of WINDSOR FOREST.",
+  "chapter_slug": "05-written-the-morning-after-anna-matildas-return-f",
+  "author": "Hannah Cowley",
+  "author_slug": "hannah-cowley",
+  "ecpa_poem_id": "o4739-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "occasional poem"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 12
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "af1c4c11-f917-552b-b063-5c7e1a7d8fe2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 111,
+      "line_count": 14,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

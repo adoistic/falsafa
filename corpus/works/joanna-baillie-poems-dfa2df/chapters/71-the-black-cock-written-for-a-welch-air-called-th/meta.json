@@ -1,0 +1,44 @@
+{
+  "work_slug": "joanna-baillie-poems-dfa2df",
+  "work_title": "Poems",
+  "chapter_number": 71,
+  "chapter_title": "THE BLACK COCK, WRITTEN FOR A WELCH AIR, CALLED “THE NOTE OF THE BLACK COCK.”",
+  "chapter_slug": "71-the-black-cock-written-for-a-welch-air-called-th",
+  "author": "Joanna Baillie",
+  "author_slug": "joanna-baillie",
+  "ecpa_poem_id": "bjb18-w0710",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "song"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "octet (8 lines)"
+    ],
+    "rhyme": "aabbccdd",
+    "syllable_pattern": "8.8.8.8.8.8.8.8",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/",
+    "line_count": 24
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c8eca0b4-8ceb-54f9-a170-0a76653c6d8d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 167,
+      "line_count": 26,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "work_slug": "isaac-watts-poems-398499",
+  "work_title": "Poems",
+  "chapter_number": 40,
+  "chapter_title": "TO Mr. JOHN SHUTE ON Mr. LOCK's Dangerous Sickness sometime after he had retired to study the Scriptures.",
+  "chapter_slug": "40-to-mr-john-shute-on-mr-locks-dangerous-sickness-",
+  "author": "Isaac Watts",
+  "author_slug": "isaac-watts",
+  "ecpa_poem_id": "o4672-w0400",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "address",
+      "ode"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "septet (7 lines)"
+    ],
+    "rhyme": "aabcccb",
+    "syllable_pattern": "8.8.6.8.8.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 21
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "baaa089e-913f-5456-a6b3-edc67d64db25",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 154,
+      "line_count": 25,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

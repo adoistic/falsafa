@@ -1,0 +1,44 @@
+{
+  "work_slug": "anthony-whistler-poems-1b8670",
+  "work_title": "Poems",
+  "chapter_number": 3,
+  "chapter_title": "To ******",
+  "chapter_slug": "03-to",
+  "author": "Anthony Whistler",
+  "author_slug": "anthony-whistler",
+  "ecpa_poem_id": "o5156-w0260",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "riddle"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 35
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "cb1c2eee-a819-5fa1-908d-1b93d04560d1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 228,
+      "line_count": 37,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

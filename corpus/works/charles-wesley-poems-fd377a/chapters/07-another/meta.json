@@ -1,0 +1,44 @@
+{
+  "work_slug": "charles-wesley-poems-fd377a",
+  "work_title": "Poems",
+  "chapter_number": 7,
+  "chapter_title": "Another.",
+  "chapter_slug": "07-another",
+  "author": "Charles Wesley",
+  "author_slug": "charles-wesley",
+  "ecpa_poem_id": "o3900-w0250",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "hymn"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "8.6.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 32
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ebf2503d-81e2-5e6b-90e2-6297f2711b89",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 192,
+      "line_count": 41,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

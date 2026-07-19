@@ -1,0 +1,41 @@
+{
+  "work_slug": "thomas-gray-poems-f921bb",
+  "work_title": "Poems",
+  "chapter_number": 52,
+  "chapter_title": "Stanzas to Mr Bentley",
+  "chapter_slug": "52-stanzas-to-mr-bentley",
+  "author": "Thomas Gray",
+  "author_slug": "thomas-gray",
+  "ecpa_poem_id": "tgaen-wstbe",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "10.10.10.10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/",
+    "line_count": 28
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5e5fc054-1df8-5500-a006-2f7ba6a1abde",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 197,
+      "line_count": 29,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

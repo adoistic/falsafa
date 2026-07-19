@@ -1,0 +1,38 @@
+{
+  "work_slug": "asanga-sarirarthagatha-503db2",
+  "work_title": "Śarīrārthagāthā",
+  "chapter_number": 14,
+  "chapter_title": "The maiden's question (second set): the solitary meditator",
+  "chapter_slug": "14-the-maidens-question-second-set-the-solitary-medit",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "f2fdcdb2-c95e-5488-8685-9e1c81e0d11c",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "iast",
+      "word_count": 55,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8f246f38-d3da-5e62-ad98-3b25091668ed",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 97,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    }
+  ]
+}

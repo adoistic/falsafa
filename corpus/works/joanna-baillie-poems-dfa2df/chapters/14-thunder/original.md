@@ -1,0 +1,119 @@
+---
+work_id: "dfa2df52-e948-5cbe-bac0-580530bd88e8"
+work_slug: "joanna-baillie-poems-dfa2df"
+work_title: Poems
+author: Joanna Baillie
+author_slug: "joanna-baillie"
+ecpa_poem_id: "bjb18-w0140"
+chapter_number: 14
+chapter_title: THUNDER.
+chapter_slug: "14-thunder"
+variant_id: "55d3c703-ecac-5351-9849-9f28a607654a"
+content_type: original
+layout: verse
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 591
+source_url: "https://www.eighteenthcenturypoetry.org/"
+license: "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+genres:
+  - blank verse
+  - narrative verse
+metrical_foot: iambic (˘′)
+metrical_count: pentameter (5 feet)
+syllable_pattern: 10
+---
+
+THUNDER.
+
+SPIRIT of strength! to whom in wrath 'tis given,
+ To mar the earth and shake its vasty dome,
+ Behold the sombre robes whose gathering folds,
+ Thy secret majesty conceal. Their skirts
+ Spread on mid air move slow and silently,
+ O'er noon-day's beam thy sultry shroud is cast,
+ Advancing clouds from every point of heaven,
+ Like hosts of gathering foes in pitchy volumes,
+ Grandly dilated, clothe the fields of air,
+ And brood aloft o'er the empurpled earth. 
+Spirit of strength! it is thy awful hour;
+ The wind of every hill is laid to rest,
+ And far o'er sea and land deep silence reigns. 
+
+Wild creatures of the forest homeward hie,
+ And in their dens with fear unwonted cower;
+ Pride in the lordly palace is put down,
+ While in his humble cot the poor man sits
+ With all his family round him hushed and still,
+ In awful expectation. On his way
+ The traveller stands aghast and looks to heaven. 
+On the horizon's verge thy lightning gleams,
+ And the first utterance of thy deep voice
+ Is heard in reverence and holy fear. 
+
+From nearer clouds bright burst more vivid gleams,
+ As instantly in closing darkness lost;
+ Pale sheeted flashes cross the wide expanse
+ While over boggy moor or swampy plain,
+ A streaming cataract of flame appears,
+ To meet a nether fire from earth cast up,
+ Commingling terribly; appalling gloom
+ Succeeds, and lo! the rifted centre pours
+ A general blaze, and from the war of clouds,
+ Red, writhing falls the embodied bolt of heaven. 
+Then swells the roiling peal, full, deep'ning, grand,
+ And in its strength lifts the tremendous roar,
+ With mingled discord, rattling, hissing, growling;
+ Crashing like rocky fragments downward hurled,
+ Like the upbreaking of a ruined world,
+ In awful majesty the explosion bursts
+ Wide and astounding o'er the trembling land. 
+Mountain, and cliff, repeat the dread turmoil,
+ And all to man's distinctive senses known,
+ Is lost in the immensity of sound. 
+Peal after peal, succeeds with waning strength,
+ And hushed and deep each solemn pause between. 
+
+Upon the lofty mountain's side
+ The kindled forest blazes wide;
+ Huge fragments of the rugged steep
+ Are tumbled to the lashing deep;
+ Firm rooted in his cloven rock,
+ Crashing falls the stubborn oak. 
+The lightning keen in wasteful ire
+ Darts fiercely on the pointed spire,
+ Rending in twain the iron-knit stone,
+ And stately towers to earth are thrown. 
+No human strength may brave the storm,
+ Nor shelter skreen the shrinking form,
+ Nor castle wall its fury stay,
+ Nor massy gate impede its way:
+ It visits those of low estate,
+ It shakes the dwellings of the great,
+ It looks athwart the vaulted tomb,
+ And glares upon the prison's gloom. 
+Then dungeons black in unknown light,
+ Flash hideous on the wretches' sight,
+ And strangely groans the downward cell,
+ Where silence deep is wont to dwell. 
+
+Now eyes, to heaven up-cast, adore,
+ Knees bend that never bent before,
+ The stoutest hearts begin to fail,
+ And many a manly face is pale;
+ Benumbing fear awhile up-binds,
+ The palsied action of their minds,
+ Till waked to dreadful sense they lift their eyes,
+ And round the stricken corse shrill shrieks of horror rise. 
+
+Now rattling hailstones, bounding as they fall
+ To earth, spread motley winter o'er the plain,
+ Receding peals sound fainter on the ear,
+ And roll their distant grumbling far away:
+ The lightning doth in paler flashes gleam,
+ And through the rent cloud, silvered with his rays,
+ The sun on all this wild affray looks down,
+ As, high enthroned above all mortal ken,
+ A higher Power beholds the strife of men.

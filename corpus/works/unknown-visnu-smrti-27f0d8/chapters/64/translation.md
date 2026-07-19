@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 64**
+**Viṣṇu Smriti 64**
 
 He shall not perform bathing in another's pond. // Vi_64.1 //
 

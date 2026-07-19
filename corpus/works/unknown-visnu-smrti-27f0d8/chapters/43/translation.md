@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 43**
+**Viṣṇu Smriti 43**
 
 Now, the hells (*narakas*). // Vi_43.1 //
 

@@ -1,0 +1,44 @@
+{
+  "work_slug": "william-cowper-poems-ded728",
+  "work_title": "Poems",
+  "chapter_number": 33,
+  "chapter_title": "BOADICEA, AN ODE.",
+  "chapter_slug": "33-boadicea-an-ode",
+  "author": "William Cowper",
+  "author_slug": "william-cowper",
+  "ecpa_poem_id": "o3794-w0400",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "foot": "trochaic (′˘)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "7.7.7.7",
+    "metrical_pattern": "+-|+-|+-|+/ +-|+-|+-|+/ +-|+-|+-|+/ +-|+-|+-|+/",
+    "line_count": 44
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2640ac99-32f6-5258-9062-c9beba9e7b2e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 250,
+      "line_count": 57,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

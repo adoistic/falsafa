@@ -1,0 +1,44 @@
+{
+  "work_slug": "amelia-opie-poems-eeda95",
+  "work_title": "Poems",
+  "chapter_number": 13,
+  "chapter_title": "THE ORIGIN OF THE SAIL.",
+  "chapter_slug": "13-the-origin-of-the-sail",
+  "author": "Amelia Opie",
+  "author_slug": "amelia-opie",
+  "ecpa_poem_id": "bao18-w0130",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ballad metre"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "8.8.8.8",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/",
+    "line_count": 60
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5d877904-5661-51b3-957a-23a037a7f606",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 383,
+      "line_count": 61,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

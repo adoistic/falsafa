@@ -1,0 +1,44 @@
+{
+  "work_slug": "john-gay-poems-1b43b7",
+  "work_title": "Poems",
+  "chapter_number": 6,
+  "chapter_title": "FABLE [05] V. The Wild Boar and the Ram.",
+  "chapter_slug": "06-fable-05-v-the-wild-boar-and-the-ram",
+  "author": "John Gay",
+  "author_slug": "john-gay",
+  "ecpa_poem_id": "ojg27-w0060",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "fable"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 28
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "38a20b5d-9ff1-5697-9bf0-ad2bd51878bd",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 188,
+      "line_count": 30,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

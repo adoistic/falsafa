@@ -1,0 +1,41 @@
+{
+  "work_slug": "charlotte-smith-poems-775ddd",
+  "work_title": "Poems",
+  "chapter_number": 56,
+  "chapter_title": "SONNET [56] LVI. The Captive escaped in the Wilds of America. Addressed to the Honourable Mrs. O'Neill.",
+  "chapter_slug": "56-sonnet-56-lvi-the-captive-escaped-in-the-wilds-o",
+  "author": "Charlotte Smith",
+  "author_slug": "charlotte-smith",
+  "ecpa_poem_id": "n22cs-w0560",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "sonnet"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "rhyme": "ababcdcdefefef",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 14
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "255f386f-b8ef-50fb-bdd8-6618139a6eb2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 125,
+      "line_count": 15,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

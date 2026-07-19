@@ -1,0 +1,28 @@
+{
+  "work_slug": "william-shakespeare-sonnets-65f289",
+  "work_title": "Sonnets",
+  "chapter_number": 69,
+  "chapter_title": "Sonnet 69",
+  "chapter_slug": "069-sonnet-69",
+  "incipit": "Those parts of thee that the world’s eye doth view",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "aa5f39ad-fe8b-5f05-babc-e269520c38b8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 123,
+      "line_count": 14,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1041",
+      "license": "Public domain — from Project Gutenberg (https://www.gutenberg.org)"
+    }
+  ]
+}

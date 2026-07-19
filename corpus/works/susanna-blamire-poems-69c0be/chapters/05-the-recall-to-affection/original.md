@@ -1,0 +1,99 @@
+---
+work_id: "69c0be5d-b049-595f-945f-61d90942ccd8"
+work_slug: "susanna-blamire-poems-69c0be"
+work_title: Poems
+author: Susanna Blamire
+author_slug: "susanna-blamire"
+ecpa_poem_id: "bsb18-w0050"
+chapter_number: 5
+chapter_title: THE RECALL TO AFFECTION.
+chapter_slug: "05-the-recall-to-affection"
+variant_id: "4e7ad6d4-cbd4-53cd-a1a0-796679fd9f40"
+content_type: original
+layout: verse
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 436
+source_url: "https://www.eighteenthcenturypoetry.org/"
+license: "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+genres:
+  - narrative verse
+metrical_foot: iambic (˘′)
+metrical_count: tetrameter (4 feet)
+stanza_form:
+  - couplet (2 lines)
+rhyme_scheme: aa
+syllable_pattern: 8
+---
+
+THE RECALL TO AFFECTION.
+
+Oh! stay Affection; pray thee stay! 
+What have I said — or meant to say? 
+'Twas love, e'en love the trespass caus'd
+ That warmth of speech, which scarce was clos'd
+ Ere the hard sentence tore my frame,
+ And dy'd my cheek with honest shame. 
+Regret came shivering through my veins,
+ And bound my tongue in iron chains;
+ My soul in prison seem'd to be,
+ And ever must if torn from thee;
+ One look of thine, when sweetly kind,
+ Can overturn a world of mind! 
+The stern resolves that pride has made,
+ At thy soft touch in vapour fade;
+ Thy smile, that rules the inmost soul,
+ Can every harsh resolve control. 
+
+Return, my lov'd companion dear,
+ The solace of each former year! 
+Else life, through many a sickening day,
+ Must slowly, slowly creep away;
+ E'en when thou bound'st this aching brow,
+ And sweetly cheer'd, I know not how,
+ Yet the dull hour, with weary knell,
+ Seem'd to toll on the passing bell. 
+
+If not for thee, this throbbing breast
+ Had ne'er enjoy'd the balm of rest;
+ Rest! — did I say? no bliss had known,
+ The blush of Nature by had flown,
+ Or o'er the senses vainly stray'd,
+ Hadst thou not wander'd in the shade;
+ Hadst thou not seen the clouds of morn,
+ On purple pinions lightly borne,
+ Uprear the canopy of day,
+ And e'er his chariot float away;
+ Hadst thou not mark'd the evening shade,
+ In all her changeful colours fade; —
+ The golden glow, the sapphire hue,
+ The rosy red, the melting blue,
+ The soft sea-green with yellow tinge,
+ The curling clouds with skirts of fringe; —
+ This eye had ne'er beheld one charm,
+ Or felt the glow of nature warm;
+ Nor had she seen one dropping shower
+ Bring back to life the fainting flower;
+ Or the tall woods their arches spread
+ In Gothic cloister over head;
+ While the pale moon, with lamp-like beam,
+ In tremors lent her silvery stream;
+ "Yon drops of flame that stud the sky"
+ Had seem'd plain stars to my poor eye,
+ Until these orbs, with glory bound,
+ By thee were call'd fair worlds around! 
+
+No; source of pleasure! 'twas thy soul
+ That brought me to conceive the whole. 
+The wish to please new thoughts inspir'd,
+ And I grew learn'd where thou admir'd;
+ To be companion meet I strove,
+ With all the self-taught lore of love,
+ Lov'd Nature as she ought to be;
+ For loving her, was loving thee! 
+But should'st thou leave this vacant heart,
+ And should we, should we ever part,
+ E'en Nature's self would grow less dear,
+ And I still shed the fretful tear.

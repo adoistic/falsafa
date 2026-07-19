@@ -1,0 +1,44 @@
+{
+  "work_slug": "eliza-day-poems-281dff",
+  "work_title": "Poems",
+  "chapter_number": 18,
+  "chapter_title": "ON THE BIRTH DAY OF THREE YOUNG LADIES.",
+  "chapter_slug": "18-on-the-birth-day-of-three-young-ladies",
+  "author": "Eliza Day",
+  "author_slug": "eliza-day",
+  "ecpa_poem_id": "bed98-w0180",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "occasional poem"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "xaxa",
+    "syllable_pattern": "8.8.8.8",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/",
+    "line_count": 28
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2f68b20e-fc05-517a-9489-5b8db17236f7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 192,
+      "line_count": 32,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

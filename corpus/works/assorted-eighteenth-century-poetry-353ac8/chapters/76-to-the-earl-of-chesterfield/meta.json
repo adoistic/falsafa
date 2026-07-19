@@ -1,0 +1,41 @@
+{
+  "work_slug": "assorted-eighteenth-century-poetry-353ac8",
+  "work_title": "An Assorted Collection of Eighteenth-Century Poetry",
+  "chapter_number": 76,
+  "chapter_title": "To the Earl of CHESTERFIELD.",
+  "chapter_slug": "76-to-the-earl-of-chesterfield",
+  "author": "Anonymous",
+  "author_slug": "anonymous",
+  "ecpa_poem_id": "o5154-w0640",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "foot": "anapaestic (˘˘′)",
+    "footnum": "trimeter (3 feet)",
+    "stanzas": [
+      "octet (8 lines)"
+    ],
+    "rhyme": "ababcdcd",
+    "syllable_pattern": "8.8.8.8.8.8.8.8",
+    "metrical_pattern": "-+|--+|--+/         -+|--+|--+/         -+|--+|--+/         -+|--+|--+/         -+|--+|--+/         -+|--+|--+/         -+|--+|--+/         -+|--+|--+/",
+    "line_count": 16
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "10be5214-f0f8-517b-9e41-bcc3d6ef1f49",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 102,
+      "line_count": 17,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

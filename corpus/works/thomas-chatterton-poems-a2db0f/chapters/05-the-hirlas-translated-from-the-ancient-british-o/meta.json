@@ -1,0 +1,39 @@
+{
+  "work_slug": "thomas-chatterton-poems-a2db0f",
+  "work_title": "Poems",
+  "chapter_number": 5,
+  "chapter_title": "THE HIRLAS, Translated from the ancient British of OWEN CYFELIOG, Prince of Powys.",
+  "chapter_slug": "05-the-hirlas-translated-from-the-ancient-british-o",
+  "author": "Thomas Chatterton",
+  "author_slug": "thomas-chatterton",
+  "ecpa_poem_id": "o4039-w0050",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "prose poem",
+      "imitation",
+      "translation",
+      "paraphrase"
+    ],
+    "line_count": 21
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "61f5a278-2e37-54d7-ab5a-2c9fddbeeeca",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 792,
+      "line_count": 23,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

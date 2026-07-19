@@ -1,0 +1,42 @@
+{
+  "work_slug": "isaac-watts-poems-398499",
+  "work_title": "Poems",
+  "chapter_number": 14,
+  "chapter_title": "THE Day of Judgment. An ODE, Attempted in English Sapphick.",
+  "chapter_slug": "14-the-day-of-judgment-an-ode-attempted-in-english-",
+  "author": "Isaac Watts",
+  "author_slug": "isaac-watts",
+  "ecpa_poem_id": "o4672-w0140",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "hymn"
+    ],
+    "footnum": "monometer (1 foot)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "syllable_pattern": "11.11.11.5",
+    "metrical_pattern": "+-+-+--+-++/ +-+-+--+-++/ +-+-+--+-++/ +--+-/",
+    "line_count": 36
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b9b664b5-8bb7-583a-8097-e9a0b8474bdc",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 266,
+      "line_count": 47,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

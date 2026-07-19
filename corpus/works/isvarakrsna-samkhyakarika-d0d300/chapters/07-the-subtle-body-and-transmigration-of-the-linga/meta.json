@@ -1,0 +1,38 @@
+{
+  "work_slug": "isvarakrsna-samkhyakarika-d0d300",
+  "work_title": "Sāṃkhyakārikā",
+  "chapter_number": 7,
+  "chapter_title": "The subtle body and transmigration of the liṅga",
+  "chapter_slug": "07-the-subtle-body-and-transmigration-of-the-linga",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "6a137164-8aa5-5b67-87f2-d3f9a2011388",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "IAST (normalized from Ruzsa's Velthuis-derived edition: sandhi-apparatus glyphs ' ` ^ * resolved into standard IAST sandhi, '.a' rendered as avagraha ’, AA/II rendered as Ā/Ī; compound hyphenation retained as a parsing aid)",
+      "word_count": 69,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "95e80256-f452-53f2-9bc6-d8f829750c70",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 183,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    }
+  ]
+}

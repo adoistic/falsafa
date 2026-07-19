@@ -1,0 +1,44 @@
+{
+  "work_slug": "william-cowper-poems-ded728",
+  "work_title": "Poems",
+  "chapter_number": 9,
+  "chapter_title": "THE DOVES.",
+  "chapter_slug": "09-the-doves",
+  "author": "William Cowper",
+  "author_slug": "william-cowper",
+  "ecpa_poem_id": "o3794-w0090",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "advice"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "8.6.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 40
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b5cd600a-75b4-5a5d-ad66-e23185251851",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 233,
+      "line_count": 51,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

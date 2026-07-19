@@ -1,0 +1,45 @@
+{
+  "work_slug": "thomas-parnell-poems-2f0378",
+  "work_title": "Poems",
+  "chapter_number": 12,
+  "chapter_title": "HEALTH, an ECLOGUE.",
+  "chapter_slug": "12-health-an-eclogue",
+  "author": "Thomas Parnell",
+  "author_slug": "thomas-parnell",
+  "ecpa_poem_id": "o4106-w0110",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "eclogue"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 78
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "fe31b632-1a88-5444-8715-b87abf5cf181",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 611,
+      "line_count": 80,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

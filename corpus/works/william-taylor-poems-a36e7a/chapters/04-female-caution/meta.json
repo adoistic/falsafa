@@ -1,0 +1,44 @@
+{
+  "work_slug": "william-taylor-poems-a36e7a",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "FEMALE CAUTION.",
+  "chapter_slug": "04-female-caution",
+  "author": "William Taylor",
+  "author_slug": "william-taylor",
+  "ecpa_poem_id": "o5156-w1010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "comic verse"
+    ],
+    "foot": "anapaestic (˘˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "12",
+    "metrical_pattern": "--+|--+|--+|--+/",
+    "line_count": 27
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6fe9bab9-a205-5597-accc-0bfd66451980",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 252,
+      "line_count": 29,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

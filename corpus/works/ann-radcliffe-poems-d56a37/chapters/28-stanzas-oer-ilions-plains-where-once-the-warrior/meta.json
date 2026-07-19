@@ -1,0 +1,44 @@
+{
+  "work_slug": "ann-radcliffe-poems-d56a37",
+  "work_title": "Poems",
+  "chapter_number": 28,
+  "chapter_title": "STANZAS. [O'er Ilion's plains, where once the warrior bled]",
+  "chapter_slug": "28-stanzas-oer-ilions-plains-where-once-the-warrior",
+  "author": "Ann Radcliffe",
+  "author_slug": "ann-radcliffe",
+  "ecpa_poem_id": "par19-w0280",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "narrative verse"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "10.10.10.10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/",
+    "line_count": 72
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "37b8ce3d-6665-5326-ba0a-fcfbe5b96a3e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 578,
+      "line_count": 73,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

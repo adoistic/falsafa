@@ -1,0 +1,45 @@
+{
+  "work_slug": "thomas-durfey-poems-452b4d",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "A NEW ESSAY In Defence of VERSE, With a SATYR Upon the Enemies of POETRY.",
+  "chapter_slug": "01-a-new-essay-in-defence-of-verse-with-a-satyr-upo",
+  "author": "Thomas D'Urfey",
+  "author_slug": "thomas-durfey",
+  "ecpa_poem_id": "oau90-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "essay",
+      "satire"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 310
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "600ac70d-ef68-5cf8-abd5-18f4041f59ac",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2408,
+      "line_count": 311,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

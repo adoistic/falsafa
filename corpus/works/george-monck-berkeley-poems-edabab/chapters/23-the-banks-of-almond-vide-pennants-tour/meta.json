@@ -1,0 +1,41 @@
+{
+  "work_slug": "george-monck-berkeley-poems-edabab",
+  "work_title": "Poems",
+  "chapter_number": 23,
+  "chapter_title": "THE BANKS OF ALMOND. (VIDE PENNANT'S TOUR.)",
+  "chapter_slug": "23-the-banks-of-almond-vide-pennants-tour",
+  "author": "George Monck Berkeley",
+  "author_slug": "george-monck-berkeley",
+  "ecpa_poem_id": "o5280-w0220",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "blank verse",
+      "occasional poem"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 31
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b58fae61-6eac-5780-a69d-89936b196598",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 257,
+      "line_count": 34,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

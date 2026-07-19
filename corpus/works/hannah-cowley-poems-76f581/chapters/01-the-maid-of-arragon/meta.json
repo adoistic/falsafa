@@ -1,0 +1,41 @@
+{
+  "work_slug": "hannah-cowley-poems-76f581",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "THE MAID OF ARRAGON.",
+  "chapter_slug": "01-the-maid-of-arragon",
+  "author": "Hannah Cowley",
+  "author_slug": "hannah-cowley",
+  "ecpa_poem_id": "o4029-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "blank verse",
+      "narrative verse"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 1455
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "adafe1ae-3db1-5616-8242-c8e88564e235",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 11238,
+      "line_count": 1456,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

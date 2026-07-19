@@ -1,0 +1,606 @@
+{
+  "slug": "plato-republic-2bf014",
+  "window": "02:17-26",
+  "entities": [
+    {
+      "canonical_name": "Socrates",
+      "surface_names": ["Socrates", "I"],
+      "kind": "figure",
+      "figure_kind": "philosopher",
+      "mentions": [
+        {
+          "paragraph_id": "p-bca30b",
+          "quote": "We shall go to war as the next step, Glaucon—or what will happen?",
+          "role": "speaker/interlocutor"
+        },
+        {
+          "paragraph_id": "p-2d9bf4",
+          "quote": "Not if you, said I, and we all were right in the admission we made when we were molding our city.",
+          "role": "speaker/interlocutor"
+        },
+        {
+          "paragraph_id": "p-409c3e",
+          "quote": "Do you think, said I, that there is any difference between the nature of a well-bred hound for this watch-dog's work and of a well-born lad?",
+          "role": "speaker/interlocutor"
+        },
+        {
+          "paragraph_id": "p-9b69cc",
+          "quote": "Don't you understand, I said, that we begin by telling children fables",
+          "role": "speaker/interlocutor"
+        },
+        {
+          "paragraph_id": "p-8529f5",
+          "quote": "we are not poets, you and I at present, but founders of a state",
+          "role": "speaker/interlocutor"
+        }
+      ],
+      "description": "Socrates, the main speaker of the dialogue, who drives the argument about the just city, guardians, and theological censorship.",
+      "justification": "Socrates is the named primary interlocutor whose speech runs throughout the window, constructing arguments about the city's guardians and poetic norms."
+    },
+    {
+      "canonical_name": "Glaucon",
+      "surface_names": ["Glaucon"],
+      "kind": "figure",
+      "figure_kind": "interlocutor",
+      "mentions": [
+        {
+          "paragraph_id": "p-bca30b",
+          "quote": "We shall go to war as the next step, Glaucon—or what will happen? What you say, he said.",
+          "role": "respondent"
+        },
+        {
+          "paragraph_id": "p-2d9bf4",
+          "quote": "Great indeed, he said, would be the value of tools in that case.",
+          "role": "respondent"
+        },
+        {
+          "paragraph_id": "p-409c3e",
+          "quote": "Not easily, by Zeus, said he.",
+          "role": "respondent"
+        }
+      ],
+      "description": "Glaucon, Plato's brother and key interlocutor in the Republic, who responds to Socrates in the discussion of the luxurious city, guardian selection, and war.",
+      "justification": "Glaucon is addressed by name and provides responses throughout the earlier paragraphs of this window."
+    },
+    {
+      "canonical_name": "Adeimantus",
+      "surface_names": ["Adeimantus", "Glaucon's brother"],
+      "kind": "figure",
+      "figure_kind": "interlocutor",
+      "mentions": [
+        {
+          "paragraph_id": "p-9aac7a",
+          "quote": "And Glaucon's brother replied, Certainly, I expect that this inquiry will bring us nearer to that end.",
+          "role": "respondent"
+        },
+        {
+          "paragraph_id": "p-9aac7a",
+          "quote": "Certainly, then, my dear Adeimantus, said I, we must not abandon it even if it prove to be rather long.",
+          "role": "addressee"
+        },
+        {
+          "paragraph_id": "p-b23747",
+          "quote": "Yes, and they are not to be told, Adeimantus, in our city",
+          "role": "addressee"
+        },
+        {
+          "paragraph_id": "p-8529f5",
+          "quote": "And I replied, Adeimantus, we are not poets, you and I at present, but founders of a state.",
+          "role": "addressee"
+        },
+        {
+          "paragraph_id": "p-d04ba9",
+          "quote": "But what of this: If anything went out from its own form, would it not be displaced and changed... do you think, Adeimantus",
+          "role": "addressee"
+        }
+      ],
+      "description": "Adeimantus, Plato's brother and interlocutor, addressed by name as the discussion turns to theological censorship and the norms for representing the gods.",
+      "justification": "Adeimantus is explicitly named and becomes the primary respondent from p-9aac7a onward as the conversation pivots to education and the theology of poetry."
+    },
+    {
+      "canonical_name": "Uranus",
+      "surface_names": ["Uranus"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-b23747",
+          "quote": "which was no pretty invention of him who told how Uranus did what Hesiod says he did to Cronos",
+          "role": "subject of condemned myth"
+        }
+      ],
+      "description": "Uranus, the primordial sky god of Greek theogony, cited as the perpetrator of acts against Cronos that Socrates condemns as unfit stories for the young.",
+      "justification": "Uranus is named as the subject of Hesiod's offensive theogonic narrative, which Socrates identifies as the paradigm case of theological falsehood to be censored."
+    },
+    {
+      "canonical_name": "Cronos",
+      "surface_names": ["Cronos"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-b23747",
+          "quote": "how Uranus did what Hesiod says he did to Cronos, and how Cronos in turn took his revenge; and then there are the doings and sufferings of Cronos at the hands of his son",
+          "role": "subject of condemned myth"
+        }
+      ],
+      "description": "Cronos, the Titan ruler in Greek mythology, whose violent acts against Uranus and his own punishment at the hands of Zeus are cited as myths unfit for the young.",
+      "justification": "Cronos appears as both victim and aggressor in the theogonic cycle Socrates singles out as most harmful to young listeners' moral formation."
+    },
+    {
+      "canonical_name": "Zeus",
+      "surface_names": ["Zeus"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-b23747",
+          "quote": "the doings and sufferings of Cronos at the hands of his son",
+          "role": "subject of condemned myth (implicit)"
+        },
+        {
+          "paragraph_id": "p-8529f5",
+          "quote": "Two urns stand on the floor of the palace of Zeus and are filled with Dooms he allots, one of blessings, the other of gifts that are evil",
+          "role": "subject of condemned Homeric passage"
+        },
+        {
+          "paragraph_id": "p-d04ba9",
+          "quote": "the violation of the oaths and the truce by Pandarus, if anyone affirms it to have been brought about by the action of Athena and Zeus, we will not approve",
+          "role": "subject of condemned Homeric attribution"
+        },
+        {
+          "paragraph_id": "p-d04ba9",
+          "quote": "nor that the strife and contention of the gods was the doing of Themis and Zeus",
+          "role": "subject of condemned attribution"
+        },
+        {
+          "paragraph_id": "p-1d6d90",
+          "quote": "the sending of the dream by Zeus to Agamemnon",
+          "role": "subject of condemned Homeric episode"
+        }
+      ],
+      "description": "Zeus, chief Olympian god, cited across multiple condemned Homeric and Hesiodic passages as wrongly depicted as the dispenser of evil or the instigator of deception and strife.",
+      "justification": "Zeus appears repeatedly as the deity whose poetic representation Socrates finds theologically objectionable, making him a pivot of the censorship argument."
+    },
+    {
+      "canonical_name": "Hephaestus",
+      "surface_names": ["Hephaestus"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-b23747",
+          "quote": "the hurling out of heaven of Hephaestus by his father when he was trying to save his mother from a beating",
+          "role": "subject of condemned Homeric myth"
+        }
+      ],
+      "description": "Hephaestus, the smith god, referenced via the Homeric episode of his expulsion from Olympus by Zeus, which Socrates condemns as unsuitable for the young.",
+      "justification": "Hephaestus is named in the list of Homeric scenes depicting divine violence that Socrates argues should be excluded from the city's educational canon."
+    },
+    {
+      "canonical_name": "Hera",
+      "surface_names": ["Hera"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-b23747",
+          "quote": "Hera's fetterings by her son",
+          "role": "subject of condemned myth"
+        },
+        {
+          "paragraph_id": "p-d04ba9",
+          "quote": "nor again must mothers under the influence of such poets terrify their children with harmful tales... in the likeness of many strangers from all manner of lands",
+          "role": "implied context (divine disguise myths)"
+        }
+      ],
+      "description": "Hera, queen of the Olympians, referenced via the Homeric episode of her binding by Hephaestus, which Socrates condemns as unfit for inclusion in the city's stories.",
+      "justification": "Hera's binding is explicitly cited as one of the Homeric depictions of divine conflict that must not be admitted into the ideal city."
+    },
+    {
+      "canonical_name": "Athena",
+      "surface_names": ["Athena"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-d04ba9",
+          "quote": "the violation of the oaths and the truce by Pandarus, if anyone affirms it to have been brought about by the action of Athena and Zeus, we will not approve",
+          "role": "subject of condemned attribution"
+        }
+      ],
+      "description": "Athena, goddess of wisdom and war, cited as wrongly depicted in Homer as instigating Pandarus's treacherous arrow-shot breaking the truce at Troy.",
+      "justification": "Athena is named as a deity whose Homeric role in the Pandarus episode exemplifies the kind of divine causation of evil that Socrates's new theological norm would prohibit."
+    },
+    {
+      "canonical_name": "Pandarus",
+      "surface_names": ["Pandarus"],
+      "kind": "figure",
+      "figure_kind": "hero",
+      "mentions": [
+        {
+          "paragraph_id": "p-d04ba9",
+          "quote": "the violation of the oaths and the truce by Pandarus, if anyone affirms it to have been brought about by the action of Athena and Zeus, we will not approve",
+          "role": "agent of condemned deed"
+        }
+      ],
+      "description": "Pandarus, the Trojan archer in the Iliad, whose oath-breaking arrow-shot is the Homeric example Socrates uses to illustrate the impermissible attribution of evil acts to gods.",
+      "justification": "Pandarus is named as the human actor in the Homeric scene used to ground the theological censorship argument against depicting gods as causes of wrongdoing."
+    },
+    {
+      "canonical_name": "Themis",
+      "surface_names": ["Themis"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-d04ba9",
+          "quote": "nor that the strife and contention of the gods was the doing of Themis and Zeus",
+          "role": "subject of condemned attribution"
+        }
+      ],
+      "description": "Themis, goddess of divine law and order, cited as wrongly depicted in Homer as a co-instigator of divine strife, which Socrates's theological norms would prohibit.",
+      "justification": "Themis is named alongside Zeus as a deity whose Homeric role in stirring divine conflict exemplifies the impermissible poetic attributions to be censored."
+    },
+    {
+      "canonical_name": "Niobe",
+      "surface_names": ["Niobe"],
+      "kind": "figure",
+      "figure_kind": "hero",
+      "mentions": [
+        {
+          "paragraph_id": "p-d04ba9",
+          "quote": "if any poets compose a Sorrows of Niobe, the poem that contains these iambics, or a tale of the Pelopidae or of Troy",
+          "role": "subject of condemned mythic narrative"
+        }
+      ],
+      "description": "Niobe, the Theban queen whose suffering was the subject of a tragic poem, cited as an example of a narrative that must not attribute divine-caused suffering to God's evil intent.",
+      "justification": "Niobe is referenced as the protagonist of a poem whose account of suffering caused by the gods exemplifies the theological misattribution Socrates seeks to prohibit."
+    },
+    {
+      "canonical_name": "Proteus",
+      "surface_names": ["Proteus"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-d04ba9",
+          "quote": "Nor must anyone tell falsehoods about Proteus and Thetis",
+          "role": "subject of prohibited mythic depiction"
+        }
+      ],
+      "description": "Proteus, the shape-shifting sea deity of Greek mythology, cited as a figure whose traditional mythic mutability must not be told in the ideal city since it misrepresents divine constancy.",
+      "justification": "Proteus is explicitly named as a deity whose shape-shifting stories Socrates prohibits as contradicting the theological principle that gods do not alter their form."
+    },
+    {
+      "canonical_name": "Thetis",
+      "surface_names": ["Thetis"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-d04ba9",
+          "quote": "Nor must anyone tell falsehoods about Proteus and Thetis",
+          "role": "subject of prohibited mythic depiction"
+        },
+        {
+          "paragraph_id": "p-1d6d90",
+          "quote": "nor shall we approve of Aeschylus when his Thetis avers that Apollo singing at her wedding, foretold the happy fortunes of her issue",
+          "role": "speaker in condemned Aeschylean passage"
+        }
+      ],
+      "description": "Thetis, the sea-nymph and mother of Achilles, cited both as a figure whose mythic falsehoods must not be told and as the speaker in the Aeschylean passage condemning Apollo's false prophecy.",
+      "justification": "Thetis appears twice in this window: first as a deity whose stories are banned alongside Proteus, and then as the dramatic voice in an Aeschylean fragment that Socrates rejects for misrepresenting Apollo."
+    },
+    {
+      "canonical_name": "Apollo",
+      "surface_names": ["Apollo", "Phoebus"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-1d6d90",
+          "quote": "Aeschylus when his Thetis avers that Apollo singing at her wedding, foretold the happy fortunes of her issue... But he himself, the singer, himself who sat at meat with us, himself who promised all, Is now himself the slayer of my son.",
+          "role": "subject of condemned Aeschylean depiction"
+        }
+      ],
+      "description": "Apollo, god of prophecy and poetry, cited via the Aeschylean fragment in which Thetis accuses him of lying prophecy, a depiction Socrates condemns as incompatible with divine truthfulness.",
+      "justification": "Apollo is the deity whose false prophecy at Thetis's wedding, as rendered by Aeschylus, exemplifies the theological lie Socrates's second theological canon would prohibit."
+    },
+    {
+      "canonical_name": "Agamemnon",
+      "surface_names": ["Agamemnon"],
+      "kind": "figure",
+      "figure_kind": "hero",
+      "mentions": [
+        {
+          "paragraph_id": "p-1d6d90",
+          "quote": "the sending of the dream by Zeus to Agamemnon",
+          "role": "recipient of divine deception in condemned Homeric episode"
+        }
+      ],
+      "description": "Agamemnon, the Achaean commander-in-chief in the Iliad, referenced as the recipient of Zeus's deceptive dream, which Socrates cites as a paradigm example of forbidden divine deception.",
+      "justification": "Agamemnon is named as the human target of the Homeric deceptive dream-sending by Zeus, which serves as the concrete Homeric example of the second theological violation Socrates prohibits."
+    },
+    {
+      "canonical_name": "Inachus",
+      "surface_names": ["Inachus", "the Argive stream"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-d04ba9",
+          "quote": "bring in Hera disguised as a priestess collecting alms for the life-giving sons of Inachus, the Argive stream",
+          "role": "referenced divine lineage marker"
+        }
+      ],
+      "description": "Inachus, the river god of Argos and legendary first king, referenced as the divine ancestor whose sons are invoked in the condemned poetic scene of Hera's disguise.",
+      "justification": "Inachus is named as the Argive river deity whose sons are the context for the scene of divine disguise that Socrates prohibits, grounding the prohibition in a specific poetic tradition."
+    },
+    {
+      "canonical_name": "Hesiod",
+      "surface_names": ["Hesiod"],
+      "kind": "figure",
+      "figure_kind": "poet",
+      "mentions": [
+        {
+          "paragraph_id": "p-b23747",
+          "quote": "him who told how Uranus did what Hesiod says he did to Cronos",
+          "role": "author of condemned theological narrative"
+        },
+        {
+          "paragraph_id": "p-9b69cc",
+          "quote": "Those, I said, that Hesiod and Homer and the other poets related. These, methinks, composed false stories which they told and still tell to mankind.",
+          "role": "author of condemned stories"
+        }
+      ],
+      "description": "Hesiod, the archaic Greek poet and author of the Theogony and Works and Days, cited as one of the chief composers of theologically false stories about the gods that Socrates proposes to censor.",
+      "justification": "Hesiod is named as the source of the Uranus-Cronos myth and, alongside Homer, as the representative of the poetic tradition whose theological falsehoods the ideal city must prohibit."
+    },
+    {
+      "canonical_name": "Homer",
+      "surface_names": ["Homer"],
+      "kind": "figure",
+      "figure_kind": "poet",
+      "mentions": [
+        {
+          "paragraph_id": "p-9b69cc",
+          "quote": "Those, I said, that Hesiod and Homer and the other poets related. These, methinks, composed false stories which they told and still tell to mankind.",
+          "role": "author of condemned stories"
+        },
+        {
+          "paragraph_id": "p-b23747",
+          "quote": "the battles of the gods in Homer's verse are things that we must not admit into our city either wrought in allegory or without allegory",
+          "role": "author of condemned divine battle narratives"
+        },
+        {
+          "paragraph_id": "p-8529f5",
+          "quote": "we must not accept from Homer or any other poet the folly of such error as this about the gods when he says Two urns stand on the floor of the palace of Zeus",
+          "role": "author of condemned theological passage"
+        },
+        {
+          "paragraph_id": "p-1d6d90",
+          "quote": "though there are many other things that we praise in Homer, this we will not applaud, the sending of the dream by Zeus to Agamemnon",
+          "role": "author of condemned deception episode"
+        }
+      ],
+      "description": "Homer, the legendary author of the Iliad and Odyssey, cited most frequently as the source of theologically objectionable passages depicting gods warring, deceiving, and dispensing evil.",
+      "justification": "Homer is the single most cited author in this window, named in connection with four distinct condemned passages, making him central to Socrates's case for poetic censorship on theological grounds."
+    },
+    {
+      "canonical_name": "Aeschylus",
+      "surface_names": ["Aeschylus"],
+      "kind": "figure",
+      "figure_kind": "poet",
+      "mentions": [
+        {
+          "paragraph_id": "p-d04ba9",
+          "quote": "nor again must we permit our youth to hear what Aeschylus says— A god implants the guilty cause in men When he would utterly destroy a house",
+          "role": "author of condemned theological statement"
+        },
+        {
+          "paragraph_id": "p-1d6d90",
+          "quote": "nor shall we approve of Aeschylus when his Thetis avers that Apollo singing at her wedding, foretold the happy fortunes of her issue",
+          "role": "author of condemned deceptive-prophecy scene"
+        }
+      ],
+      "description": "Aeschylus, the Athenian tragedian, cited for two passages: one attributing calamity to divine agency and one depicting Apollo as a false prophet, both condemned under Socrates's theological norms.",
+      "justification": "Aeschylus is named twice as the source of lines that violate both of Socrates's proposed theological canons—that God is not the cause of evil and that God does not deceive."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "The luxurious city and the origin of war",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-bca30b",
+          "quote": "the entire class of huntsmen, and the imitators, many of them occupied with figures and colors and many with music—the poets and their assistants, rhapsodists, actors, chorus-dancers"
+        },
+        {
+          "paragraph_id": "p-bca30b",
+          "quote": "We shall go to war as the next step, Glaucon—or what will happen?"
+        }
+      ],
+      "justification": "Paragraphs 17-18 explicitly develop the argument that the expanded, luxury-driven city generates an army and war as direct consequences of unlimited material desire, identifying war's origin in the excess of wants beyond necessity."
+    },
+    {
+      "topic": "Division of labor and the specialization of the guardian class",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-2d9bf4",
+          "quote": "It is impossible for one man to do the work of many arts well."
+        },
+        {
+          "paragraph_id": "p-2d9bf4",
+          "quote": "the business of fighting is an art and a profession"
+        }
+      ],
+      "justification": "Paragraph 18 extends the Republic's founding principle of occupational specialization to warfare, arguing the guardian art is a full-time profession requiring exclusive dedication and therefore a distinct professional class."
+    },
+    {
+      "topic": "The philosophic nature: spiritedness and the love of wisdom as jointly necessary for guardians",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-409c3e",
+          "quote": "will a creature be ready to be brave that is not high-spirited, whether horse or dog or anything else?"
+        },
+        {
+          "paragraph_id": "p-9aac7a",
+          "quote": "The love of wisdom, then, and high spirit and quickness and strength will be combined for us in the nature of him who is to be a good and true guardian of the state."
+        }
+      ],
+      "justification": "Paragraphs 19-20 argue for the paradoxical combination of fierce spiritedness (thumos) and philosophical love of learning as jointly necessary in the guardian, using the dog analogy to show these are naturally compatible."
+    },
+    {
+      "topic": "Education through music and mythos before gymnastics",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-9aac7a",
+          "quote": "And under music you include tales, do you not? I do. And tales are of two species, the one true and the other false?"
+        },
+        {
+          "paragraph_id": "p-9b69cc",
+          "quote": "the beginning in every task is the chief thing, especially for any creature that is young and tender? For it is then that it is best molded"
+        }
+      ],
+      "justification": "Paragraphs 20-21 establish the educational sequence (music before gymnastics, fable before truth) and the rationale that early impressions are indelible, grounding the urgency of censoring children's stories."
+    },
+    {
+      "topic": "Censorship of poetry on theological grounds (first canon: God is not cause of evil)",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-9b69cc",
+          "quote": "we must begin, then, it seems, by a censorship over our storymakers, and what they do well we must pass and what not, reject"
+        },
+        {
+          "paragraph_id": "p-8529f5",
+          "quote": "the good is not the cause of all things, but of things that are well it is the cause—of things that are ill it is blameless"
+        },
+        {
+          "paragraph_id": "p-d04ba9",
+          "quote": "as to saying that God, who is good, becomes the cause of evil to anyone, we must contend in every way that neither should anyone assert this in his own city"
+        }
+      ],
+      "justification": "Paragraphs 21-24 develop and codify the first theological canon—that God is the cause only of good—as the foundational censorship principle, tested against Hesiodic theogony and multiple Homeric passages."
+    },
+    {
+      "topic": "Censorship of poetry on theological grounds (second canon: God does not deceive or change form)",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-d04ba9",
+          "quote": "Do you think that God is a wizard and capable of manifesting himself by design, now in one aspect, now in another... or that he is simple and less likely than anything else to depart from his own form?"
+        },
+        {
+          "paragraph_id": "p-389f8a",
+          "quote": "the veritable lie, if the expression is permissible, is a thing that all gods and men abhor"
+        },
+        {
+          "paragraph_id": "p-1d6d90",
+          "quote": "God is altogether simple and true in deed and word, and neither changes himself nor deceives others by visions or words or the sending of signs in waking or in dreams."
+        }
+      ],
+      "justification": "Paragraphs 24-26 elaborate the second theological canon—God is simple, unchanging, and wholly truthful—concluding the window's censorship argument and applying it to Homeric and Aeschylean depictions of divine deception."
+    },
+    {
+      "topic": "The ontology of falsehood: real (psychic) vs. verbal lies",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-389f8a",
+          "quote": "deception in the soul about realities, to have been deceived and to be blindly ignorant and to have and hold the falsehood there, is what all men would least of all accept"
+        },
+        {
+          "paragraph_id": "p-389f8a",
+          "quote": "Essential falsehood, then, is hated not only by gods but by men."
+        }
+      ],
+      "justification": "Paragraph 25 embeds a philosophical distinction between the 'veritable lie' (ignorance in the soul) and verbal falsehood (a copy of the soul's state), an implicit epistemological subtheme that grounds the theological argument about divine truthfulness."
+    },
+    {
+      "topic": "The philosopher-statesman distinction from the poet",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-8529f5",
+          "quote": "we are not poets, you and I at present, but founders of a state. And to founders it pertains to know the patterns on which poets must compose their fables and from which their poems must not be allowed to deviate"
+        }
+      ],
+      "justification": "Paragraph 23 implicitly elaborates the Republic's broader theme of the proper authority of reason over art: the philosopher-founder legislates the norms that constrain poets but does not himself create poetry, marking a hierarchy of epistemic roles."
+    },
+    {
+      "topic": "The allegory problem: children cannot distinguish allegory from literal truth",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-b23747",
+          "quote": "the young are not able to distinguish what is and what is not allegory, but whatever opinions are taken into the mind at that age are wont to prove indelible and unalterable"
+        }
+      ],
+      "justification": "Paragraph 22 explicitly argues that allegorical interpretation is cognitively unavailable to young children, making the literal content of myths the decisive moral variable and ruling out allegorical defense of objectionable stories."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Theogony",
+      "cited_author": "Hesiod",
+      "stance": "refute",
+      "paragraph_id": "p-b23747",
+      "quote": "him who told how Uranus did what Hesiod says he did to Cronos, and how Cronos in turn took his revenge",
+      "justification": "Socrates explicitly cites Hesiod's Theogony as the prime example of the greatest theological lie, the Uranus-Cronos castration myth, condemning it as unfit for young listeners and refuting it as a model for acceptable speech about the gods."
+    },
+    {
+      "cited_work": "Iliad (Two Urns passage, Il. 24.527-532)",
+      "cited_author": "Homer",
+      "stance": "refute",
+      "paragraph_id": "p-8529f5",
+      "quote": "Two urns stand on the floor of the palace of Zeus and are filled with Dooms he allots, one of blessings, the other of gifts that are evil",
+      "justification": "Socrates quotes the Homeric passage depicting Zeus dispensing evil fates to mortals and explicitly rejects it as incompatible with the theological norm that God is the cause only of good."
+    },
+    {
+      "cited_work": "Iliad (Pandarus episode, Il. 4)",
+      "cited_author": "Homer",
+      "stance": "refute",
+      "paragraph_id": "p-d04ba9",
+      "quote": "the violation of the oaths and the truce by Pandarus, if anyone affirms it to have been brought about by the action of Athena and Zeus, we will not approve",
+      "justification": "Socrates refers to the Iliadic scene where Athena and Zeus engineer Pandarus's oath-breaking shot and explicitly rejects attributing this evil act to divine instigation, applying the first theological canon."
+    },
+    {
+      "cited_work": "Iliad (Theomachies / battles of gods)",
+      "cited_author": "Homer",
+      "stance": "refute",
+      "paragraph_id": "p-b23747",
+      "quote": "the battles of the gods in Homer's verse are things that we must not admit into our city either wrought in allegory or without allegory",
+      "justification": "Socrates cites the Homeric Theomachies as narratives of divine conflict incompatible with the ideal city's theological requirements, rejecting even allegorical readings as insufficient defense."
+    },
+    {
+      "cited_work": "Iliad (dream of Agamemnon, Il. 2.1-35)",
+      "cited_author": "Homer",
+      "stance": "refute",
+      "paragraph_id": "p-1d6d90",
+      "quote": "the sending of the dream by Zeus to Agamemnon",
+      "justification": "Socrates cites the Homeric episode of the false dream sent by Zeus to Agamemnon as a concrete instance of divine deception that violates the second theological canon."
+    },
+    {
+      "cited_work": "Tragedy (Niobe / Pelopidae, unidentified)",
+      "cited_author": "Aeschylus",
+      "stance": "refute",
+      "paragraph_id": "p-d04ba9",
+      "quote": "nor again must we permit our youth to hear what Aeschylus says— A god implants the guilty cause in men When he would utterly destroy a house",
+      "justification": "Socrates quotes an Aeschylean tragic fragment asserting divine instigation of human ruin and explicitly forbids it, applying the first theological canon that God is not the cause of evil."
+    },
+    {
+      "cited_work": "Nereids (lost tragedy, Thetis-Apollo fragment)",
+      "cited_author": "Aeschylus",
+      "stance": "refute",
+      "paragraph_id": "p-1d6d90",
+      "quote": "nor shall we approve of Aeschylus when his Thetis avers that Apollo singing at her wedding, foretold the happy fortunes of her issue... But he himself, the singer... Is now himself the slayer of my son.",
+      "justification": "Socrates quotes Aeschylus's depiction of Thetis accusing Apollo of false prophecy and explicitly rejects it as incompatible with the second theological canon that God does not deceive."
+    }
+  ]
+}

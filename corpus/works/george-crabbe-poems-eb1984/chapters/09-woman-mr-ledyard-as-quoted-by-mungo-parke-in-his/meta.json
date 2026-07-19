@@ -1,0 +1,41 @@
+{
+  "work_slug": "george-crabbe-poems-eb1984",
+  "work_title": "Poems",
+  "chapter_number": 9,
+  "chapter_title": "WOMAN! MR. LEDYARD, AS QUOTED BY MUNGO PARKE IN HIS TRAVELS INTO AFRICA —",
+  "chapter_slug": "09-woman-mr-ledyard-as-quoted-by-mungo-parke-in-his",
+  "author": "George Crabbe",
+  "author_slug": "george-crabbe",
+  "ecpa_poem_id": "pcr18-w0090",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 62
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "33be6eaf-8fca-5d6f-a838-459742c9a9ca",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 433,
+      "line_count": 64,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

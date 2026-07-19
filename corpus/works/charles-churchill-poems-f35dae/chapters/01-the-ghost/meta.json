@@ -1,0 +1,44 @@
+{
+  "work_slug": "charles-churchill-poems-f35dae",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "THE GHOST.",
+  "chapter_slug": "01-the-ghost",
+  "author": "Charles Churchill",
+  "author_slug": "charles-churchill",
+  "ecpa_poem_id": "o3552-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "satire"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 1214
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f3f6ac2e-8fb8-5fca-85c4-88f8b2ae3110",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7476,
+      "line_count": 1216,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

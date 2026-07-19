@@ -1,0 +1,45 @@
+{
+  "work_slug": "susanna-blamire-poems-69c0be",
+  "work_title": "Poems",
+  "chapter_number": 75,
+  "chapter_title": "BEHOLD, MY AMANDA.",
+  "chapter_slug": "75-behold-my-amanda",
+  "author": "Susanna Blamire",
+  "author_slug": "susanna-blamire",
+  "ecpa_poem_id": "bsb18-w0750",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "song",
+      "address"
+    ],
+    "foot": "anapaestic (˘˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "sestet (6 lines)"
+    ],
+    "rhyme": "aabbcc",
+    "syllable_pattern": "12.12.12.12.12.12",
+    "metrical_pattern": "--+|--+|--+|--+/ --+|--+|--+|--+/ --+|--+|--+|--+/ --+|--+|--+|--+/ --+|--+|--+|--+/ --+|--+|--+|--+/",
+    "line_count": 12
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f4b2e347-2d50-52af-8f0f-dc72b2609605",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 112,
+      "line_count": 13,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

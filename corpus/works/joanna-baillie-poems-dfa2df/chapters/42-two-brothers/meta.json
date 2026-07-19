@@ -1,0 +1,38 @@
+{
+  "work_slug": "joanna-baillie-poems-dfa2df",
+  "work_title": "Poems",
+  "chapter_number": 42,
+  "chapter_title": "TWO BROTHERS.",
+  "chapter_slug": "42-two-brothers",
+  "author": "Joanna Baillie",
+  "author_slug": "joanna-baillie",
+  "ecpa_poem_id": "bjb18-w0420",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "address"
+    ],
+    "rhyme": "aa",
+    "metrical_pattern": "irregular",
+    "line_count": 78
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8e622183-93f6-53f0-9dc8-efce1b69d9bf",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 559,
+      "line_count": 79,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

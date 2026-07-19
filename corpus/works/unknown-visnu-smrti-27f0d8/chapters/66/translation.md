@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 66**
+**Viṣṇu Smriti 66**
 
 He shall not perform rites for the gods and ancestors with water collected at night. // Vi_66.1 //
 

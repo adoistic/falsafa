@@ -1,0 +1,41 @@
+{
+  "work_slug": "sir-james-marriott-poems-531359",
+  "work_title": "Poems",
+  "chapter_number": 15,
+  "chapter_title": "To a LADY making a Pin-Basket,",
+  "chapter_slug": "15-to-a-lady-making-a-pin-basket",
+  "author": "Sir James Marriott",
+  "author_slug": "sir-james-marriott",
+  "ecpa_poem_id": "o5155-w0650",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 48
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "83e95437-5502-5ef3-a99a-bcb53da6211d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 317,
+      "line_count": 50,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

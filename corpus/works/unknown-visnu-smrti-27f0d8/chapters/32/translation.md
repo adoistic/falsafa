@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 32**
+**Viṣṇu Smriti 32**
 
 A king, a priest, a Vedic scholar, one who forbids unrighteousness, a paid teacher, a paternal uncle, a maternal grandfather, a maternal uncle, a father-in-law, an elder brother, and relatives are to be treated like a teacher. // Vi_32.1 //
 

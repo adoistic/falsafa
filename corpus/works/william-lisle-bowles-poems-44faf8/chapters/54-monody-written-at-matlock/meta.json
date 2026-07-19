@@ -1,0 +1,40 @@
+{
+  "work_slug": "william-lisle-bowles-poems-44faf8",
+  "work_title": "Poems",
+  "chapter_number": 54,
+  "chapter_title": "MONODY, WRITTEN AT MATLOCK.",
+  "chapter_slug": "54-monody-written-at-matlock",
+  "author": "William Lisle Bowles",
+  "author_slug": "william-lisle-bowles",
+  "ecpa_poem_id": "glb19-w0540",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "monody"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 178
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "49cc7168-8e52-51d2-b6e8-ca3caf850565",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1401,
+      "line_count": 179,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

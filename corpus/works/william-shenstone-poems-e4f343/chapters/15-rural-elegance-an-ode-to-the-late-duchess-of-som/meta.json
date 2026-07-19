@@ -1,0 +1,38 @@
+{
+  "work_slug": "william-shenstone-poems-e4f343",
+  "work_title": "Poems",
+  "chapter_number": 15,
+  "chapter_title": "RURAL ELEGANCE: An ODE to the late Duchess of SOMERSET. Written 1750.",
+  "chapter_slug": "15-rural-elegance-an-ode-to-the-late-duchess-of-som",
+  "author": "William Shenstone",
+  "author_slug": "william-shenstone",
+  "ecpa_poem_id": "o5156-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "rhyme": "irregular",
+    "metrical_pattern": "irregular",
+    "line_count": 294
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f2bdea50-fd7c-594d-ad59-b875853c612f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1933,
+      "line_count": 324,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "joanna-baillie-poems-dfa2df",
+  "work_title": "Poems",
+  "chapter_number": 78,
+  "chapter_title": "HYMN.",
+  "chapter_slug": "78-hymn",
+  "author": "Joanna Baillie",
+  "author_slug": "joanna-baillie",
+  "ecpa_poem_id": "bjb18-w0780",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "hymn"
+    ],
+    "rhyme": "aa",
+    "metrical_pattern": "irregular",
+    "line_count": 44
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "74376e21-a3ab-5107-bfdb-966559dedf48",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 294,
+      "line_count": 45,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

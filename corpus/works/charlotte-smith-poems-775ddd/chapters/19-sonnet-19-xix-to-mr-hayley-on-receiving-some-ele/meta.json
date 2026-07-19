@@ -1,0 +1,41 @@
+{
+  "work_slug": "charlotte-smith-poems-775ddd",
+  "work_title": "Poems",
+  "chapter_number": 19,
+  "chapter_title": "SONNET [19] XIX. To Mr. Hayley. On receiving some elegant Lines from him.",
+  "chapter_slug": "19-sonnet-19-xix-to-mr-hayley-on-receiving-some-ele",
+  "author": "Charlotte Smith",
+  "author_slug": "charlotte-smith",
+  "ecpa_poem_id": "n22cs-w0190",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "sonnet"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "rhyme": "ababcdcdefefgg",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 14
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "dbb1d4b3-bfca-53dd-bb61-d93faaffe7ea",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 124,
+      "line_count": 15,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

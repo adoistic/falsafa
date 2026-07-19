@@ -1,0 +1,28 @@
+{
+  "work_slug": "william-shakespeare-sonnets-65f289",
+  "work_title": "Sonnets",
+  "chapter_number": 104,
+  "chapter_title": "Sonnet 104",
+  "chapter_slug": "104-sonnet-104",
+  "incipit": "To me, fair friend, you never can be old,",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b297f117-a889-5a9d-b031-2ef3a6e9b7f3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 117,
+      "line_count": 14,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1041",
+      "license": "Public domain — from Project Gutenberg (https://www.gutenberg.org)"
+    }
+  ]
+}

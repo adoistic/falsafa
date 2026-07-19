@@ -1,0 +1,41 @@
+{
+  "work_slug": "phillis-wheatley-poems-6ba250",
+  "work_title": "Poems",
+  "chapter_number": 3,
+  "chapter_title": "LIBERTY and PEACE.",
+  "chapter_slug": "03-liberty-and-peace",
+  "author": "Phillis Wheatley",
+  "author_slug": "phillis-wheatley",
+  "ecpa_poem_id": "n12pw-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 64
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1d84029f-a8a2-5160-9d5d-5adbc68a22dc",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 456,
+      "line_count": 65,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

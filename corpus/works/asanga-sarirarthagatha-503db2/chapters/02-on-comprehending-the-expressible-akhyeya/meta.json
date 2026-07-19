@@ -1,0 +1,38 @@
+{
+  "work_slug": "asanga-sarirarthagatha-503db2",
+  "work_title": "Śarīrārthagāthā",
+  "chapter_number": 2,
+  "chapter_title": "On comprehending the expressible (ākhyeya)",
+  "chapter_slug": "02-on-comprehending-the-expressible-akhyeya",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "02ded66c-27e7-5d5e-a212-70f8122878a1",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "iast",
+      "word_count": 79,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "90b0693b-fc89-582e-a66b-510564ef905a",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 130,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    }
+  ]
+}

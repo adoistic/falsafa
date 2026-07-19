@@ -1,0 +1,45 @@
+{
+  "work_slug": "william-julius-mickle-poems-de833b",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "POLLIO: AN ELEGIAC ODE.",
+  "chapter_slug": "04-pollio-an-elegiac-ode",
+  "author": "William Julius Mickle",
+  "author_slug": "william-julius-mickle",
+  "ecpa_poem_id": "o4986-w0040",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "elegy",
+      "ode"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "10.10.10.10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/",
+    "line_count": 136
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "491ea0fe-edb5-505e-8f05-2246c0017107",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1068,
+      "line_count": 140,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

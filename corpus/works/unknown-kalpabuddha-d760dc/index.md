@@ -5,8 +5,8 @@ title: Kalpabuddha
 author:
   name: Unknown
   biography: Anonymous or collectively transmitted authorship spanning the Sanskrit Dharmaśāstra (smṛti) tradition, Old Javanese tutur and kakawin literature, and Old English elegiac verse. These texts carry inherited law, ritual, cosmology, and lament shaped over generations rather than by a single named author.
-era: Medieval
-genre: Indic
+era: Ancient
+genre: Philosophy of Religion
 language: Kawi
 language_direction: ltr
 description: 
@@ -14,7 +14,7 @@ difficulty: Intermediate
 total_logical_chapters: 6
 total_variant_entries: 12
 cover_image_url: "/objects/uploads/a5bbacc8-5213-44a8-9dce-eee792ba678e"
-thothica_role: catalog
+thothica_role: "gretil-root"
 ---
 
 # Kalpabuddha

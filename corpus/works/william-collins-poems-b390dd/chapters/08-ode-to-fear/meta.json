@@ -1,0 +1,39 @@
+{
+  "work_slug": "william-collins-poems-b390dd",
+  "work_title": "Poems",
+  "chapter_number": 8,
+  "chapter_title": "ODE TO FEAR.",
+  "chapter_slug": "08-ode-to-fear",
+  "author": "William Collins",
+  "author_slug": "william-collins",
+  "ecpa_poem_id": "o4985-w0080",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode",
+      "dialogue"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "line_count": 71
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "985b8f12-38a2-5fa3-b66d-e12097c0731a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 500,
+      "line_count": 75,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

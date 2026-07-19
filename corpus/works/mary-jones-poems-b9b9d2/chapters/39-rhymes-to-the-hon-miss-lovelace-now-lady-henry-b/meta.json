@@ -1,0 +1,45 @@
+{
+  "work_slug": "mary-jones-poems-b9b9d2",
+  "work_title": "Poems",
+  "chapter_number": 39,
+  "chapter_title": "RHYMES to the Hon. Miss LOVELACE; now Lady HENRY BEAUCLERK. On her attending Miss CHARLOT CLAYTON In the SMALL-POX.",
+  "chapter_slug": "39-rhymes-to-the-hon-miss-lovelace-now-lady-henry-b",
+  "author": "Mary Jones",
+  "author_slug": "mary-jones",
+  "ecpa_poem_id": "pjo50-w0390",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "address"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 50
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9bc33d55-bd11-5e1b-b58f-13bd5c4cd11b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 392,
+      "line_count": 52,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "work_slug": "elizabeth-hands-poems-def5d6",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "WIT AND BEAUTY. A PASTORAL.",
+  "chapter_slug": "04-wit-and-beauty-a-pastoral",
+  "author": "Elizabeth Hands",
+  "author_slug": "elizabeth-hands",
+  "ecpa_poem_id": "peh89-w0040",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "pastoral"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "8.8.8.8",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/",
+    "line_count": 48
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ad61f71a-64be-53c0-b311-138edc7f827e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 321,
+      "line_count": 60,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

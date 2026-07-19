@@ -1,0 +1,44 @@
+{
+  "work_slug": "janet-little-poems-df0dac",
+  "work_title": "Poems",
+  "chapter_number": 52,
+  "chapter_title": "FROM FLAVIA TO CARLOS.",
+  "chapter_slug": "52-from-flavia-to-carlos",
+  "author": "Janet Little",
+  "author_slug": "janet-little",
+  "ecpa_poem_id": "bjl92-w0530",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "epistle"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 47
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "08c52c8e-7a5a-56d8-97c8-eadae073e4a9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 303,
+      "line_count": 48,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

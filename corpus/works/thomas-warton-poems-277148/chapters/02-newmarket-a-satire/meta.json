@@ -1,0 +1,45 @@
+{
+  "work_slug": "thomas-warton-poems-277148",
+  "work_title": "Poems",
+  "chapter_number": 2,
+  "chapter_title": "NEWMARKET. A SATIRE.",
+  "chapter_slug": "02-newmarket-a-satire",
+  "author": "Thomas Warton",
+  "author_slug": "thomas-warton",
+  "ecpa_poem_id": "o4984-w0450",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "satire"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 236
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "712cc89e-f4d8-5be9-be77-b8a748e165c3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1818,
+      "line_count": 239,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

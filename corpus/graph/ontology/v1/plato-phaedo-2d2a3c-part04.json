@@ -1,0 +1,568 @@
+{
+  "slug": "plato-phaedo-2d2a3c",
+  "window": "01-phaedo:146-174",
+  "entities": [
+    {
+      "canonical_name": "Socrates",
+      "surface_names": ["Socrates"],
+      "kind": "figure",
+      "figure_kind": "philosopher",
+      "mentions": [
+        {
+          "paragraph_id": "p-0525fe",
+          "quote": "All, I think, said Socrates, would agree that God and the Principle of life, and anything else that is immortal, can never perish.",
+          "role": "speaker / arguer"
+        },
+        {
+          "paragraph_id": "p-080689",
+          "quote": "Not only that, Simmias, said Socrates, but our first assumptions ought to be more carefully examined",
+          "role": "speaker / moral exhorter"
+        },
+        {
+          "paragraph_id": "p-788e49",
+          "quote": "You, Simmias and Cebes and the rest, he said, will go hereafter, each in his own time; but I am now already, as a tragedian would say, called by fate",
+          "role": "protagonist facing death"
+        },
+        {
+          "paragraph_id": "p-33da05",
+          "quote": "looking up at the man with wide open eyes, as was his custom, said: What do you say about pouring a libation to some deity from this cup?",
+          "role": "condemned man drinking hemlock"
+        },
+        {
+          "paragraph_id": "p-119afc",
+          "quote": "Crito, we owe a cock to Aesculapius. Pay it and do not neglect it.",
+          "role": "dying speaker / last words"
+        }
+      ],
+      "description": "The Athenian philosopher who is the dialogue's central figure, here concluding his argument for the soul's immortality and then dying by hemlock.",
+      "justification": "Socrates is the primary speaker and protagonist throughout the window, culminating in his death scene and famous last words."
+    },
+    {
+      "canonical_name": "Cebes",
+      "surface_names": ["Cebes"],
+      "kind": "figure",
+      "figure_kind": "interlocutor",
+      "mentions": [
+        {
+          "paragraph_id": "p-080689",
+          "quote": "Phaedo. Then, Cebes, said he, it is perfectly certain that the soul is immortal and imperishable, and our souls will exist somewhere in another world. I, said Cebes, have nothing more to say against that",
+          "role": "interlocutor accepting the argument"
+        }
+      ],
+      "description": "A Theban interlocutor who, at the opening of this window, concedes that Socrates' argument for immortality is conclusive.",
+      "justification": "Cebes is explicitly named as accepting the immortality argument, marking a dialectical resolution."
+    },
+    {
+      "canonical_name": "Simmias",
+      "surface_names": ["Simmias"],
+      "kind": "figure",
+      "figure_kind": "interlocutor",
+      "mentions": [
+        {
+          "paragraph_id": "p-080689",
+          "quote": "But, said Simmias, I don't see how I can doubt, either, as to the result of the discussion; but the subject is so great, and I have such a poor opinion of human weakness, that I cannot help having some doubt in my own mind",
+          "role": "interlocutor expressing residual doubt"
+        },
+        {
+          "paragraph_id": "p-1ce3f1",
+          "quote": "And Simmias said, What do you mean, Socrates? I have heard a good deal about the earth myself, but not what you believe",
+          "role": "interlocutor prompting the cosmological myth"
+        },
+        {
+          "paragraph_id": "p-dc190d",
+          "quote": "If I may tell a story, Simmias, about the things on the earth that is below the heaven",
+          "role": "addressee of the myth"
+        },
+        {
+          "paragraph_id": "p-788e49",
+          "quote": "You, Simmias and Cebes and the rest, he said, will go hereafter, each in his own time",
+          "role": "person addressed in farewell"
+        }
+      ],
+      "description": "A Theban interlocutor who accepts the immortality argument with residual human doubt and whose question prompts Socrates' cosmological myth of the true earth.",
+      "justification": "Simmias participates substantively both as a philosophical interlocutor and as an addressee of the mythological cosmology."
+    },
+    {
+      "canonical_name": "Crito",
+      "surface_names": ["Crito"],
+      "kind": "figure",
+      "figure_kind": "companion",
+      "mentions": [
+        {
+          "paragraph_id": "p-f90617",
+          "quote": "When he had finished speaking, Crito said: Well, Socrates, do you wish to leave any directions with us about your children or anything else",
+          "role": "companion asking final instructions"
+        },
+        {
+          "paragraph_id": "p-f90617",
+          "quote": "he thinks I am the one whom he will presently see as a corpse, and he asks how to bury me",
+          "role": "figure misidentifying the soul with the body"
+        },
+        {
+          "paragraph_id": "p-ba54d8",
+          "quote": "Crito had got up and gone away even before I did, because he could not restrain his tears.",
+          "role": "mourning companion"
+        },
+        {
+          "paragraph_id": "p-119afc",
+          "quote": "Crito, we owe a cock to Aesculapius. Pay it and do not neglect it.",
+          "role": "recipient of final instructions"
+        }
+      ],
+      "description": "A loyal Athenian companion of Socrates who asks about burial arrangements and is entrusted with the last religious obligation—offering a cock to Asclepius.",
+      "justification": "Crito is a named speaking participant in the death scene and the recipient of Socrates' final words."
+    },
+    {
+      "canonical_name": "Phaedo",
+      "surface_names": ["Phaedo"],
+      "kind": "figure",
+      "figure_kind": "narrator",
+      "mentions": [
+        {
+          "paragraph_id": "p-080689",
+          "quote": "Phaedo.",
+          "role": "narrator framing the account"
+        },
+        {
+          "paragraph_id": "p-ba54d8",
+          "quote": "in spite of myself my tears rolled down in floods, so that I wrapped my face in my cloak and wept for myself; for it was not for him that I wept, but for my own misfortune in being deprived of such a friend.",
+          "role": "eyewitness narrator weeping"
+        },
+        {
+          "paragraph_id": "p-119afc",
+          "quote": "Such was the end, Echecrates, of our friend, who was, as we may say, of all those of his time whom we have known, the best and wisest and most righteous man.",
+          "role": "narrator delivering final eulogy"
+        }
+      ],
+      "description": "The eyewitness narrator of the dialogue who weeps at Socrates' death and delivers the closing eulogy to Echecrates.",
+      "justification": "Phaedo is the frame-narrator whose paragraph labels mark speaker changes and who gives the final judgment on Socrates."
+    },
+    {
+      "canonical_name": "Apollodorus",
+      "surface_names": ["Apollodorus"],
+      "kind": "figure",
+      "figure_kind": "companion",
+      "mentions": [
+        {
+          "paragraph_id": "p-ba54d8",
+          "quote": "But Apollodorus, who had been weeping all the time before, then wailed aloud in his grief and made us all break down, except Socrates himself.",
+          "role": "mourner whose grief breaks the group's composure"
+        }
+      ],
+      "description": "A companion of Socrates present at the death scene, known for intense emotional grief.",
+      "justification": "Apollodorus is explicitly named as triggering the general weeping among those present at the death."
+    },
+    {
+      "canonical_name": "Echecrates",
+      "surface_names": ["Echecrates"],
+      "kind": "figure",
+      "figure_kind": "interlocutor",
+      "mentions": [
+        {
+          "paragraph_id": "p-33da05",
+          "quote": "He took it, and very gently, Echecrates, without trembling or changing color or expression",
+          "role": "addressee of the narrated account"
+        },
+        {
+          "paragraph_id": "p-119afc",
+          "quote": "Such was the end, Echecrates, of our friend",
+          "role": "addressee of closing eulogy"
+        }
+      ],
+      "description": "The Phliasian interlocutor to whom Phaedo narrates the account of Socrates' death; addressed twice within this window.",
+      "justification": "Echecrates is the named narrative addressee who gives the reported conversation its dramatic frame."
+    },
+    {
+      "canonical_name": "Asclepius",
+      "surface_names": ["Aesculapius", "Asclepius"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-119afc",
+          "quote": "Crito, we owe a cock to Aesculapius. Pay it and do not neglect it.",
+          "role": "deity to whom a votive offering is owed"
+        }
+      ],
+      "description": "The Greek god of healing and medicine to whom Socrates directs that a cock be offered as his last act—traditionally interpreted as a thank-offering for the cure from the disease of life.",
+      "justification": "Asclepius is named explicitly in Socrates' last words, making this the most discussed religious reference in the dialogue."
+    },
+    {
+      "canonical_name": "Tartarus",
+      "surface_names": ["Tartarus"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-c8675c",
+          "quote": "which elsewhere he and many other poets have called Tartarus. For all the rivers flow together into this chasm and flow out of it again",
+          "role": "cosmological underworld chasm receiving all rivers"
+        },
+        {
+          "paragraph_id": "p-1d2f7e",
+          "quote": "and flow again into Tartarus, some much below the point where they were sucked out",
+          "role": "ultimate sink of underworld rivers"
+        },
+        {
+          "paragraph_id": "p-23131c",
+          "quote": "are cast by their fitting destiny into Tartarus, whence they never emerge.",
+          "role": "place of permanent punishment for the incurably wicked"
+        },
+        {
+          "paragraph_id": "p-fe4880",
+          "quote": "these must needs be thrown into Tartarus, and when they have been there a year the wave casts them out",
+          "role": "place of temporary purgative punishment"
+        }
+      ],
+      "description": "The deepest chasm of the earth in Platonic cosmology, serving both as the hydraulic axis of underworld rivers and as the place of permanent or temporary punishment for souls.",
+      "justification": "Tartarus is the central cosmological and eschatological locus of the underworld myth, named repeatedly with different functions."
+    },
+    {
+      "canonical_name": "Acheron",
+      "surface_names": ["Acheron"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-f9ca40",
+          "quote": "opposite this, flowing in the opposite direction, is Acheron, which flows through various desert places and, passing under the earth, comes to the Acherusian lake.",
+          "role": "one of the four primary underworld rivers"
+        }
+      ],
+      "description": "One of the four great underworld rivers in Plato's myth, flowing through desert places to the Acherusian lake where most souls await rebirth.",
+      "justification": "Acheron is named as a primary underworld river in the cosmological myth of the four rivers."
+    },
+    {
+      "canonical_name": "Acherusian Lake",
+      "surface_names": ["Acherusian lake"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-f9ca40",
+          "quote": "passing under the earth, comes to the Acherusian lake. To this lake the souls of most of the dead go and, after remaining there the appointed time, which is for some longer and for others shorter, are sent back to be born again",
+          "role": "place of purgation and waiting before rebirth"
+        },
+        {
+          "paragraph_id": "p-fe4880",
+          "quote": "they shout and cry out, calling to those whom they have slain or outraged, begging and beseeching them to be gracious and to let them come out into the lake",
+          "role": "place of absolution for partially guilty souls"
+        }
+      ],
+      "description": "The lake in the underworld to which most souls travel via Acheron; a place of purgation, reincarnation dispatch, and appeals for forgiveness from those in Tartarus.",
+      "justification": "The Acherusian lake is a key node in the eschatological geography described in the myth, explicitly linked to the soul's cycle of rebirth."
+    },
+    {
+      "canonical_name": "Oceanus",
+      "surface_names": ["Oceanus"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-f9ca40",
+          "quote": "among the many are four streams, the greatest and outermost of which is that called Oceanus, which flows round in a circle",
+          "role": "outermost of the four underworld rivers, flowing in a circle"
+        }
+      ],
+      "description": "In Plato's myth the greatest of the four underworld rivers, circling the earth, corresponding to the Homeric cosmic ocean.",
+      "justification": "Oceanus is explicitly named as the largest and outermost of the four rivers in the Platonic cosmological myth."
+    },
+    {
+      "canonical_name": "Pyriphlegethon",
+      "surface_names": ["Pyriphlegethon"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-634bab",
+          "quote": "This is the river which is called Pyriphlegethon, and the streams of lava which spout up at various places on earth are offshoots from it.",
+          "role": "fire river whose surface offshoots are volcanic lava streams"
+        },
+        {
+          "paragraph_id": "p-fe4880",
+          "quote": "those who have outraged their parents by way of Pyriphlegethon",
+          "role": "river through which parricidal souls are expelled from Tartarus"
+        }
+      ],
+      "description": "The third of the four underworld rivers in Plato's myth: a fiery river linked to volcanic activity on earth's surface and used to expel souls who abused their parents.",
+      "justification": "Pyriphlegethon is explicitly named with its physical characteristics and eschatological function for certain categories of sinners."
+    },
+    {
+      "canonical_name": "Styx",
+      "surface_names": ["Styx", "Stygian river"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-e5ea9f",
+          "quote": "This is called the Stygian river, and the lake which it forms by flowing in is the Styx. And when the river has flowed in here and has received fearful powers into its waters, it passes under the earth",
+          "role": "fourth underworld river of fearful power, forming the Styx lake"
+        }
+      ],
+      "description": "The fourth underworld river in Plato's myth: dark blue in color, of fearful power, flowing opposite to Pyriphlegethon and finally entering Tartarus.",
+      "justification": "The Styx/Stygian river is named and its properties described in the cosmological myth of the four rivers."
+    },
+    {
+      "canonical_name": "Cocytus",
+      "surface_names": ["Cocytus"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-e5ea9f",
+          "quote": "and the name of this river, as the Poets say, is Cocytus.",
+          "role": "name given to the Stygian river by the Poets"
+        },
+        {
+          "paragraph_id": "p-fe4880",
+          "quote": "the homicides by way of Cocytus",
+          "role": "river through which murderous souls are expelled from Tartarus"
+        }
+      ],
+      "description": "The name given by poets to the Stygian river; in Plato's eschatology it is the conduit through which murderous souls are expelled from Tartarus toward the Acherusian lake.",
+      "justification": "Cocytus is named explicitly by reference to poetic tradition and given a specific eschatological function for homicidal souls."
+    },
+    {
+      "canonical_name": "Pillars of Hercules",
+      "surface_names": ["pillars of Hercules"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-b77a1b",
+          "quote": "we who dwell between the pillars of Hercules and the river Phasis live in a small part of it about the sea",
+          "role": "western geographical boundary of the known inhabited world"
+        }
+      ],
+      "description": "The Straits of Gibraltar, marking the western limit of the Mediterranean world known to the Greeks; used by Socrates to delimit the small inhabited strip humans occupy on the true earth.",
+      "justification": "The Pillars of Hercules are named as a concrete geographical boundary in Socrates' cosmological description of the earth's true size."
+    },
+    {
+      "canonical_name": "River Phasis",
+      "surface_names": ["river Phasis"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-b77a1b",
+          "quote": "we who dwell between the pillars of Hercules and the river Phasis live in a small part of it about the sea",
+          "role": "eastern geographical boundary of the known inhabited world"
+        }
+      ],
+      "description": "A river in the Caucasus region (modern Rioni), marking the eastern boundary of the Greek-known world; paired with the Pillars of Hercules to define the narrow human habitat.",
+      "justification": "The river Phasis is named as the eastern counterpart to the Pillars of Hercules in Socrates' cosmological argument about the earth's true extent."
+    },
+    {
+      "canonical_name": "Sicily",
+      "surface_names": ["Sicily"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-a2acaa",
+          "quote": "like the rivers of mud that flow before the lava in Sicily, and the lava itself",
+          "role": "earthly analogue for underworld mud-and-lava rivers"
+        }
+      ],
+      "description": "The Mediterranean island used as a concrete reference point for volcanic lava flows as analogues to the fiery underground rivers in Plato's cosmological myth.",
+      "justification": "Sicily's volcanic activity (Mount Etna) is invoked as a real-world comparison to illustrate the underground rivers of fire and mud."
+    },
+    {
+      "canonical_name": "Mediterranean Sea",
+      "surface_names": ["our Mediterranean sea"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-f9ca40",
+          "quote": "it falls into a vast region burning with a great fire and makes a lake larger than our Mediterranean sea, boiling with water and mud.",
+          "role": "size reference for the boiling underworld lake of the third river"
+        }
+      ],
+      "description": "Used as a size comparison to convey the vast scale of the fiery underworld lake formed by the third river (Pyriphlegethon).",
+      "justification": "The Mediterranean Sea is explicitly named to give scale to the cosmological geography described in the myth."
+    },
+    {
+      "canonical_name": "Glaucus",
+      "surface_names": ["Glaucus"],
+      "kind": "figure",
+      "figure_kind": "mythological",
+      "mentions": [
+        {
+          "paragraph_id": "p-1ce3f1",
+          "quote": "I do not think I need the art of Glaucus to tell what it is. But to prove that it is true would, I think, be too hard for the art of Glaucus",
+          "role": "proverbial standard of supreme skill or craft"
+        }
+      ],
+      "description": "Glaucus of Chios, a legendary craftsman proverbially associated with supreme technical skill; invoked by Socrates to distinguish describing the earth's form (easy) from proving it true (beyond even supreme skill).",
+      "justification": "Glaucus is named twice as a proverbial limit-case of human art, marking the epistemic humility of Socrates' mythological account."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Soul's immortality entails imperishability: the logical completion of the immortality argument",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-0525fe",
+          "quote": "if it is conceded that the immortal is imperishable, the soul would be imperishable as well as immortal"
+        },
+        {
+          "paragraph_id": "p-0525fe",
+          "quote": "Then when death comes to a man, his mortal part, it seems, dies, but the immortal part goes away unharmed and undestroyed, withdrawing from death."
+        }
+      ],
+      "justification": "The opening paragraph closes the dialogue's central argument by showing that immortality logically requires imperishability, completing the main philosophical project of the Phaedo."
+    },
+    {
+      "topic": "Human epistemic limitation and philosophical humility regarding eschatological claims",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-080689",
+          "quote": "the subject is so great, and I have such a poor opinion of human weakness, that I cannot help having some doubt in my own mind about what has been said"
+        },
+        {
+          "paragraph_id": "p-ebdd47",
+          "quote": "Now it would not be fitting for a man of sense to maintain that all this is just as I have described it, but that this or something like it is true concerning our souls and their abodes"
+        }
+      ],
+      "justification": "Both Simmias's residual doubt and Socrates' own hedging of the myth enact a recurring Platonic theme: claims about the afterlife are held with fitting, not dogmatic, confidence."
+    },
+    {
+      "topic": "Moral urgency of soul-care: the soul carries its education and character into the afterlife",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-080689",
+          "quote": "we must care for it, not only in respect to this time, which we call life, but in respect to all time … For the soul takes with it to the other world nothing but its education and nurture"
+        },
+        {
+          "paragraph_id": "p-5d9b04",
+          "quote": "we ought to do our best to acquire virtue and wisdom in life. For the prize is fair and the hope great."
+        }
+      ],
+      "justification": "Socrates makes the practical-ethical implication of immortality explicit: if the soul persists, moral formation in this life is of unbounded importance."
+    },
+    {
+      "topic": "Eschatological geography: the structure and rivers of the underworld as a moral cosmology",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-f9ca40",
+          "quote": "among the many are four streams, the greatest and outermost of which is that called Oceanus … opposite this, flowing in the opposite direction, is Acheron"
+        },
+        {
+          "paragraph_id": "p-23131c",
+          "quote": "those who are found to have lived neither well nor ill, go to the Acheron … But those who appear to be incurable … are cast by their fitting destiny into Tartarus, whence they never emerge."
+        }
+      ],
+      "justification": "The detailed cosmological myth maps the four rivers and lakes onto a graduated moral scheme of punishment, purgation, and reward, making geography a vehicle for ethics."
+    },
+    {
+      "topic": "The 'true earth' myth: the gap between human perception and cosmic reality",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-b77a1b",
+          "quote": "we dwell in a hollow of the earth and think we dwell on its upper surface; and the air we call the heaven, and think that is the heaven in which the stars move"
+        },
+        {
+          "paragraph_id": "p-989c4e",
+          "quote": "this earth of ours, and the stones and the whole region where we live, are injured and corroded, as in the sea things are injured by the brine"
+        }
+      ],
+      "justification": "The myth of the true earth uses the analogy of ocean-floor dwellers to argue that human beings systematically mistake a degraded, corroded environment for the genuine one—an epistemological and metaphysical claim about the limits of embodied perception."
+    },
+    {
+      "topic": "Philosophy as purification: those who have philosophized live without bodies in the highest abodes",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-5d9b04",
+          "quote": "all who have duly purified themselves by philosophy live henceforth altogether without bodies, and pass to still more beautiful abodes"
+        },
+        {
+          "paragraph_id": "p-ebdd47",
+          "quote": "a man should be of good cheer about his soul, who in his life has rejected the pleasures and ornaments of the body … and has sought eagerly for those of learning"
+        }
+      ],
+      "justification": "The passage explicitly identifies philosophical practice as the highest form of purification, granting the philosophically pure a post-mortem existence entirely free of bodily entanglement."
+    },
+    {
+      "topic": "Soul-body distinction enacted at the death scene: Socrates corrects Crito's confusion of person with corpse",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-f90617",
+          "quote": "he thinks I am the one whom he will presently see as a corpse, and he asks how to bury me … such wrong words are not only undesirable in themselves, but they infect the soul with evil."
+        },
+        {
+          "paragraph_id": "p-a82750",
+          "quote": "No, you must be of good courage, and say that you bury my body"
+        }
+      ],
+      "justification": "The dialogue puts its main philosophical thesis—the soul is not the body—into practice at Socrates' deathbed, where he must correct even his closest friends' habitual identification of the person with the corpse."
+    },
+    {
+      "topic": "Death as equanimity and philosophical completion: the composure of the philosopher in dying",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-33da05",
+          "quote": "He took it, and very gently, Echecrates, without trembling or changing color or expression … said: What do you say about pouring a libation to some deity from this cup?"
+        },
+        {
+          "paragraph_id": "p-ba54d8",
+          "quote": "I sent the women away chiefly for this very reason, that they might not behave in this absurd way; for I have heard that it is best to die in silence. Keep quiet and be brave."
+        }
+      ],
+      "justification": "Socrates' calm, measured death is presented as the embodiment of the philosophical life's thesis: the soul faces death without fear because it has been separated from the body through philosophical practice."
+    },
+    {
+      "topic": "Metempsychosis and rebirth: the cycle of souls between lives",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-f9ca40",
+          "quote": "To this lake the souls of most of the dead go and, after remaining there the appointed time, which is for some longer and for others shorter, are sent back to be born again into living beings."
+        },
+        {
+          "paragraph_id": "p-080689",
+          "quote": "and when they have there received their due and remained through the time appointed, another guide brings them back after many long periods of time."
+        }
+      ],
+      "justification": "The myth explicitly describes the cycle of souls being purified, judged, and returned to embodied life, placing the Phaedo within the broader Platonic doctrine of metempsychosis."
+    },
+    {
+      "topic": "Myth as heuristic: the role of likely stories (eikota mythoi) in transmitting eschatological truth",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-ebdd47",
+          "quote": "he ought to repeat such things to himself as if they were magic charms, which is the reason why I have been lengthening out the story so long."
+        },
+        {
+          "paragraph_id": "p-080689",
+          "quote": "But really there seem to be many forks of the road and many windings; this I infer from the rites and ceremonies practiced here on earth."
+        }
+      ],
+      "justification": "Socrates frames the cosmological myth not as demonstrable fact but as a likely account worth repeating therapeutically—gesturing at Plato's broader use of myth as a vehicle for truths that resist dialectical proof."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Telephus (play)",
+      "cited_author": "Aeschylus",
+      "stance": "refute",
+      "paragraph_id": "p-73cf06",
+      "quote": "the journey is not as Telephus says in the play of Aeschylus",
+      "justification": "Socrates explicitly cites Aeschylus's Telephus to reject its depiction of a single simple path to the underworld, using the citation as a foil to introduce the more complex geography of the soul's journey."
+    },
+    {
+      "cited_work": "Iliad or Odyssey (implied Homeric reference to Tartarus)",
+      "cited_author": "Homer",
+      "stance": "authority",
+      "paragraph_id": "p-a71baa",
+      "quote": "One of the chasms of the earth is greater than the rest, and is bored right through the whole earth; this is the one which Homer means when he says: Far off, the lowest abyss beneath the earth",
+      "justification": "Homer is cited as an authoritative poetic source whose description of the deepest abyss is adopted by Socrates to ground the cosmological description of Tartarus."
+    },
+    {
+      "cited_work": "Poetic tradition on Cocytus",
+      "cited_author": "the Poets",
+      "stance": "authority",
+      "paragraph_id": "p-e5ea9f",
+      "quote": "and the name of this river, as the Poets say, is Cocytus.",
+      "justification": "An unnamed collective of poets is invoked as the traditional authority for the name Cocytus, with Socrates incorporating the poetic tradition into his mythological cosmology."
+    }
+  ]
+}

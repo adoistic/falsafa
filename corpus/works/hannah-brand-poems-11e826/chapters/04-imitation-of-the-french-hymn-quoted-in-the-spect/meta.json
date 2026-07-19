@@ -1,0 +1,41 @@
+{
+  "work_slug": "hannah-brand-poems-11e826",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "IMITATION OF THE FRENCH HYMN, Quoted in the Spectator, No. 513.",
+  "chapter_slug": "04-imitation-of-the-french-hymn-quoted-in-the-spect",
+  "author": "Hannah Brand",
+  "author_slug": "hannah-brand",
+  "ecpa_poem_id": "o4091-w0040",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "imitation"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "rhyme": "abab",
+    "syllable_pattern": "8.8.8.8",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/",
+    "line_count": 36
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "36d2b1e7-6435-5fa7-bf8e-33a51ba2f3b7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 245,
+      "line_count": 38,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

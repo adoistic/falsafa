@@ -1,0 +1,38 @@
+{
+  "work_slug": "ann-batten-cristall-poems-b0d784",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "BEFORE TWILIGHT.",
+  "chapter_slug": "01-before-twilight",
+  "author": "Ann Batten Cristall",
+  "author_slug": "ann-batten-cristall",
+  "ecpa_poem_id": "cac95-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "meditation"
+    ],
+    "rhyme": "irregular",
+    "metrical_pattern": "irregular",
+    "line_count": 108
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7972fd3b-6354-5b9a-9525-0f548213201c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 656,
+      "line_count": 115,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

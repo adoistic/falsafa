@@ -1,0 +1,44 @@
+{
+  "work_slug": "helen-maria-williams-poems-8735a3",
+  "work_title": "Poems",
+  "chapter_number": 42,
+  "chapter_title": "TO A FRIEND, WHO SENT ME FLOWERS, WHEN CONFINED BY ILLNESS.",
+  "chapter_slug": "42-to-a-friend-who-sent-me-flowers-when-confined-by",
+  "author": "Helen Maria Williams",
+  "author_slug": "helen-maria-williams",
+  "ecpa_poem_id": "bhw18-w0410",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "address"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 18
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "50c5b89f-b845-58ae-a43b-46fb03a3089a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 122,
+      "line_count": 20,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

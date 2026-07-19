@@ -1,0 +1,44 @@
+{
+  "work_slug": "mary-barber-poems-3d9e19",
+  "work_title": "Poems",
+  "chapter_number": 40,
+  "chapter_title": "An Apology written for my Son to the Reverend Mr. Sampson, who had invited some Friends to celebrate Lord Carteret's Birth-Day, at Mount-Carteret near Dublin; and desir'd my Son to write on that Occasion.",
+  "chapter_slug": "40-an-apology-written-for-my-son-to-the-reverend-mr",
+  "author": "Mary Barber",
+  "author_slug": "mary-barber",
+  "ecpa_poem_id": "pba35-w0420",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "panegyric"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 36
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "137ab127-654c-5fe6-9edf-7ad2033be32f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 264,
+      "line_count": 37,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

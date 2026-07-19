@@ -1,0 +1,37 @@
+{
+  "work_slug": "nahum-tate-poems-b3db78",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "ON THE Present Corrupted State OF POETRY.",
+  "chapter_slug": "04-on-the-present-corrupted-state-of-poetry",
+  "author": "Nahum Tate",
+  "author_slug": "nahum-tate",
+  "ecpa_poem_id": "oat77-w0040",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "metrical_pattern": "irregular",
+    "line_count": 85
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5ccdbf64-7613-512d-a1db-3945084ebbb0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 556,
+      "line_count": 90,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

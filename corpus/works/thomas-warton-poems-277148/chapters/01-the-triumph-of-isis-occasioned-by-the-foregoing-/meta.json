@@ -1,0 +1,46 @@
+{
+  "work_slug": "thomas-warton-poems-277148",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "THE TRIUMPH OF ISIS. OCCASIONED BY THE FOREGOING POEM.",
+  "chapter_slug": "01-the-triumph-of-isis-occasioned-by-the-foregoing-",
+  "author": "Thomas Warton",
+  "author_slug": "thomas-warton",
+  "ecpa_poem_id": "o4984-w0440",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "prospect poem / topographical poem",
+      "answer/reply"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 248
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "39a09e65-1bdf-50ce-9244-b9b59f79718c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1895,
+      "line_count": 251,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

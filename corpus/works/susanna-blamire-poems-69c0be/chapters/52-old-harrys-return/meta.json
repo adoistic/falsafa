@@ -1,0 +1,44 @@
+{
+  "work_slug": "susanna-blamire-poems-69c0be",
+  "work_title": "Poems",
+  "chapter_number": 52,
+  "chapter_title": "OLD HARRY'S RETURN.",
+  "chapter_slug": "52-old-harrys-return",
+  "author": "Susanna Blamire",
+  "author_slug": "susanna-blamire",
+  "ecpa_poem_id": "bsb18-w0520",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "song"
+    ],
+    "foot": "anapaestic (˘˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "octet (8 lines)"
+    ],
+    "rhyme": "aabbccdd",
+    "syllable_pattern": "12.12.12.12.12.12.12.12",
+    "metrical_pattern": "--+|--+|--+|--+/ --+|--+|--+|--+/ --+|--+|--+|--+/ --+|--+|--+|--+/ --+|--+|--+|--+/ --+|--+|--+|--+/ --+|--+|--+|--+/ --+|--+|--+|--+/",
+    "line_count": 32
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "43f175b6-810d-5ccf-b939-1d9e62ed96c1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 333,
+      "line_count": 33,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -14,8 +14,8 @@ falsafa.ai.
 - NEVER run bare convert.ts — only `bun run scripts/perseus/apply.ts
   marxists-works.json marxists-audit.json` (additive; preserves chapter
   splits/wiki).
-- No full local site builds (2.6 GB dist). Build+deploy via
-  `gh workflow run deploy-netlify.yml -R adoistic/falsafa --ref main`.
+- Build+deploy via `bun run deploy` (build dist locally + rclone sync to
+  Cloudflare R2; see DEPLOY.md).
 - English-facing; originals optional, don't block.
 - Neutral historical framing, full canon regardless of ideology.
 
@@ -85,8 +85,8 @@ falsafa.ai.
      chapter boundaries. Deploy held until corpus-doctor waves A+B done.
      Plan: docs/CORPUS-DOCTOR-PLAN.md (census numbers + architecture).
    - [ ] rebuild search.db + cross-links; corpus release tar + mcp tag bump
-   - [ ] commit, push, `gh workflow run deploy-netlify.yml`, wait for CI
-   - [ ] QA on falsafaai.netlify.app + falsafa.ai (work pages, chapters,
+   - [ ] commit, push, `bun run deploy` (build + rclone sync to R2)
+   - [ ] QA on falsafa.ai (work pages, chapters,
          search, sitemap, MIA credit on /about#sources)
 
 ## Errors encountered

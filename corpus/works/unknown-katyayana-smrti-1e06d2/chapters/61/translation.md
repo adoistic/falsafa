@@ -24,7 +24,7 @@ A group of various city-dwellers is declared to be a *naigama*; a band of men be
 
 A group of traders and others is declared to be a *pūga*; those who have abandoned their ascetic vows are declared to be *pāṣaṇḍas*. // K_679 //
 
-A group of Brahmins is declared to be a *gaṇa*; those who live by a craft are declared to be *śilpins*. // K_680 //
+A group of Brāhmaṇas is declared to be a *gaṇa*; those who live by a craft are declared to be *śilpins*. // K_680 //
 
 A group of Ārhatas and Saugatas (Jains and Buddhists) is called a *saṅgha*; a group of Chāṇḍālas, Śvapacas, and others is called a *gulma*. // K_681 //
 

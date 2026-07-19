@@ -1,0 +1,38 @@
+{
+  "work_slug": "thomas-durfey-poems-452b4d",
+  "work_title": "Poems",
+  "chapter_number": 44,
+  "chapter_title": "The Law of Nature; A SONG set to an Excellent new Tune.",
+  "chapter_slug": "44-the-law-of-nature-a-song-set-to-an-excellent-new",
+  "author": "Thomas D'Urfey",
+  "author_slug": "thomas-durfey",
+  "ecpa_poem_id": "oau90-w0440",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "song"
+    ],
+    "rhyme": "irregular",
+    "metrical_pattern": "irregular",
+    "line_count": 47
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ebc17855-e11f-5c86-91d9-53ea9c0d7622",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 250,
+      "line_count": 50,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

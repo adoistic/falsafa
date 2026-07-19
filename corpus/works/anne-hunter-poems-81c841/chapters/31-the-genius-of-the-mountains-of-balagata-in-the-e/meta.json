@@ -1,0 +1,44 @@
+{
+  "work_slug": "anne-hunter-poems-81c841",
+  "work_title": "Poems",
+  "chapter_number": 31,
+  "chapter_title": "THE GENIUS OF THE MOUNTAINS OF BALAGATA, IN THE EAST INDIES, BEWAILS THE MISERIES BOUGHT UPON HIS COUNTRY.",
+  "chapter_slug": "31-the-genius-of-the-mountains-of-balagata-in-the-e",
+  "author": "Anne Hunter",
+  "author_slug": "anne-hunter",
+  "ecpa_poem_id": "bah18-w0310",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "song"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "aabb",
+    "syllable_pattern": "8.8.8.8",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/",
+    "line_count": 28
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0258c7cc-673e-5f56-b043-529d5cb05f23",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 192,
+      "line_count": 31,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

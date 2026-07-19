@@ -1,0 +1,45 @@
+{
+  "work_slug": "thomas-chatterton-poems-a2db0f",
+  "work_title": "Poems",
+  "chapter_number": 15,
+  "chapter_title": "TO MISS B—SH, OF BRISTOL.",
+  "chapter_slug": "15-to-miss-b-sh-of-bristol",
+  "author": "Thomas Chatterton",
+  "author_slug": "thomas-chatterton",
+  "ecpa_poem_id": "o4039-w0150",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode",
+      "address"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "sestet (6 lines)"
+    ],
+    "rhyme": "aabccb",
+    "syllable_pattern": "8.8.6.8.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 36
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7c094acc-7ebf-569b-bc83-e8efa6ec701c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 212,
+      "line_count": 37,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

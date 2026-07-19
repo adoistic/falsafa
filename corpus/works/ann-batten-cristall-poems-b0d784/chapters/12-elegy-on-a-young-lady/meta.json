@@ -1,0 +1,38 @@
+{
+  "work_slug": "ann-batten-cristall-poems-b0d784",
+  "work_title": "Poems",
+  "chapter_number": 12,
+  "chapter_title": "ELEGY ON A YOUNG LADY.",
+  "chapter_slug": "12-elegy-on-a-young-lady",
+  "author": "Ann Batten Cristall",
+  "author_slug": "ann-batten-cristall",
+  "ecpa_poem_id": "cac95-w0120",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "elegy"
+    ],
+    "rhyme": "irregular",
+    "metrical_pattern": "irregular",
+    "line_count": 100
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f4185b6f-0382-5f28-8a68-dd5369010206",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 614,
+      "line_count": 101,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

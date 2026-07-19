@@ -1,0 +1,41 @@
+{
+  "work_slug": "nathaniel-cotton-poems-076182",
+  "work_title": "Poems",
+  "chapter_number": 3,
+  "chapter_title": "The FIRE-SIDE.",
+  "chapter_slug": "03-the-fire-side",
+  "author": "Nathaniel Cotton",
+  "author_slug": "nathaniel-cotton",
+  "ecpa_poem_id": "o5155-w0510",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "sestet (6 lines)"
+    ],
+    "rhyme": "aabccb",
+    "syllable_pattern": "8.8.6.8.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/         -+|-+|-+|-+/         -+|-+|-+/         -+|-+|-+|-+/         -+|-+|-+|-+/         -+|-+|-+/",
+    "line_count": 84
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d311b78b-5c8f-52d6-9c52-d6e9078c5986",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 502,
+      "line_count": 100,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

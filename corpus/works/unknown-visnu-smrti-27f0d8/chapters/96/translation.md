@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 96**
+**Viṣṇu Smriti 96**
 
 Then, having been purified of his passions in the three stages of life, having performed the Prājāpatya sacrifice and given his entire wealth as a sacrificial fee, he shall become a renunciant (*pravrajyāśramī* (प्रव्रज्याश्रमी)). // Vi_96.1 //
 Having placed the sacred fires within himself, he shall go to a village to beg for alms. // Vi_96.2 //

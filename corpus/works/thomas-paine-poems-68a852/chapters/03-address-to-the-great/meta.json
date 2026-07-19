@@ -1,0 +1,44 @@
+{
+  "work_slug": "thomas-paine-poems-68a852",
+  "work_title": "Poems",
+  "chapter_number": 3,
+  "chapter_title": "Address to the Great",
+  "chapter_slug": "03-address-to-the-great",
+  "author": "Thomas Paine",
+  "author_slug": "thomas-paine",
+  "ecpa_poem_id": "tpc26-w0030",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "address"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "8.6.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 24
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "28f200f6-0dbb-544a-86d6-fe5ea2002369",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 151,
+      "line_count": 26,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

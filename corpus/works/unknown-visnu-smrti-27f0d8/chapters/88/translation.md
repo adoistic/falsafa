@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 88**
+**Viṣṇu Smriti 88**
 
 Now, a cow in the act of giving birth becomes the earth. // Vi_88.1 //
 

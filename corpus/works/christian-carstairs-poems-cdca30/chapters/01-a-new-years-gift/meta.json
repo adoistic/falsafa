@@ -1,0 +1,44 @@
+{
+  "work_slug": "christian-carstairs-poems-cdca30",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "A NEW YEAR's GIFT.",
+  "chapter_slug": "01-a-new-years-gift",
+  "author": "Christian Carstairs",
+  "author_slug": "christian-carstairs",
+  "ecpa_poem_id": "pcc86-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "address"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "aabb",
+    "syllable_pattern": "10.10.10.10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/",
+    "line_count": 4
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a8bbd165-8d5d-5890-8463-7308b430a395",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 32,
+      "line_count": 5,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

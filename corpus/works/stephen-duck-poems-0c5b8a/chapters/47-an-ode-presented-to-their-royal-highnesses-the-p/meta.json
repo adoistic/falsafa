@@ -1,0 +1,44 @@
+{
+  "work_slug": "stephen-duck-poems-0c5b8a",
+  "work_title": "Poems",
+  "chapter_number": 47,
+  "chapter_title": "An ODE, presented to their Royal Highnesses the Prince and Princess of WALES, in Richmond Gardens, on Thursday, May 6. 1736.",
+  "chapter_slug": "47-an-ode-presented-to-their-royal-highnesses-the-p",
+  "author": "Stephen Duck",
+  "author_slug": "stephen-duck",
+  "ecpa_poem_id": "o4741-w0470",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "occasional poem"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "8.6.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 24
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "52449660-bce9-5786-a6c3-598f71784f8c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 149,
+      "line_count": 25,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

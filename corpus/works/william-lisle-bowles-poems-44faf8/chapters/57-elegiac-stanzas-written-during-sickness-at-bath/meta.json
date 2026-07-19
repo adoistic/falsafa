@@ -1,0 +1,44 @@
+{
+  "work_slug": "william-lisle-bowles-poems-44faf8",
+  "work_title": "Poems",
+  "chapter_number": 57,
+  "chapter_title": "ELEGIAC STANZAS. WRITTEN DURING SICKNESS AT BATH.",
+  "chapter_slug": "57-elegiac-stanzas-written-during-sickness-at-bath",
+  "author": "William Lisle Bowles",
+  "author_slug": "william-lisle-bowles",
+  "ecpa_poem_id": "glb19-w0570",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "elegy"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "10.10.10.10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/",
+    "line_count": 96
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8cd36f81-9f7e-5cff-89f8-73de4ff7730f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 764,
+      "line_count": 98,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

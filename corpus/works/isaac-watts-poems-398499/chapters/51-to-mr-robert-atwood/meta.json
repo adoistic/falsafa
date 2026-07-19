@@ -1,0 +1,42 @@
+{
+  "work_slug": "isaac-watts-poems-398499",
+  "work_title": "Poems",
+  "chapter_number": 51,
+  "chapter_title": "TO Mr. Robert Atwood.",
+  "chapter_slug": "51-to-mr-robert-atwood",
+  "author": "Isaac Watts",
+  "author_slug": "isaac-watts",
+  "ecpa_poem_id": "o4672-w0510",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "blank verse",
+      "address",
+      "ode"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 104
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a4c3c027-6fb5-5403-9331-0362f15c8351",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 834,
+      "line_count": 108,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

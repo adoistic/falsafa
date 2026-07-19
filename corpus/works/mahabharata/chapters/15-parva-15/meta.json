@@ -1,0 +1,38 @@
+{
+  "work_slug": "mahabharata",
+  "work_title": "Mahābhārata",
+  "chapter_number": 15,
+  "chapter_title": "Parva 15",
+  "chapter_slug": "15-parva-15",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "bf588d32-3d17-56f8-bc04-76b204876e62",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 13941,
+      "paragraph_count": 1062,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1c45e6a8-db21-5d70-b95a-5f39591374bf",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 26837,
+      "paragraph_count": 1062,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    }
+  ]
+}

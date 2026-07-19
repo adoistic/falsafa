@@ -1,0 +1,44 @@
+{
+  "work_slug": "anne-finch-poems-8fd29f",
+  "work_title": "Poems",
+  "chapter_number": 78,
+  "chapter_title": "A SONG.",
+  "chapter_slug": "78-a-song",
+  "author": "Anne Finch",
+  "author_slug": "anne-finch",
+  "ecpa_poem_id": "o4784-w0780",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "song"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "8.8.8.8",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/",
+    "line_count": 16
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "cd7ad56d-92ad-5083-96eb-5fa8826ff294",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 106,
+      "line_count": 17,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

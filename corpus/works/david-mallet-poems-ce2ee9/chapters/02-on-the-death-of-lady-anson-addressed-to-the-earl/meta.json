@@ -1,0 +1,45 @@
+{
+  "work_slug": "david-mallet-poems-ce2ee9",
+  "work_title": "Poems",
+  "chapter_number": 2,
+  "chapter_title": "ON THE DEATH OF LADY ANSON. ADDRESSED TO THE EARL OF HARDWICKE, HER FATHER, 1761.",
+  "chapter_slug": "02-on-the-death-of-lady-anson-addressed-to-the-earl",
+  "author": "David Mallet",
+  "author_slug": "david-mallet",
+  "ecpa_poem_id": "o4984-w0170",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "elegy"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 78
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "503819a6-81aa-5cfb-b55b-c08279679505",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 631,
+      "line_count": 81,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "work_slug": "thomas-paine-poems-68a852",
+  "work_title": "Poems",
+  "chapter_number": 9,
+  "chapter_title": "O What a Pity!",
+  "chapter_slug": "09-o-what-a-pity",
+  "author": "Thomas Paine",
+  "author_slug": "thomas-paine",
+  "ecpa_poem_id": "tpc26-w0090",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 67
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6511d4c2-d852-5233-b29c-32107709578b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 529,
+      "line_count": 68,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

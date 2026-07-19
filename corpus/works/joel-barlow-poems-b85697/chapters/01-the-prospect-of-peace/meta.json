@@ -1,0 +1,41 @@
+{
+  "work_slug": "joel-barlow-poems-b85697",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "THE PROSPECT OF PEACE.",
+  "chapter_slug": "01-the-prospect-of-peace",
+  "author": "Joel Barlow",
+  "author_slug": "joel-barlow",
+  "ecpa_poem_id": "n12jb-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 234
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8f611280-b2b3-55e5-bc1d-e123b9921500",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1771,
+      "line_count": 235,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

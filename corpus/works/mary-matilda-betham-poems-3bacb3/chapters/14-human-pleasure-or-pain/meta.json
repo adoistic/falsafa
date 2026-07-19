@@ -1,0 +1,44 @@
+{
+  "work_slug": "mary-matilda-betham-poems-3bacb3",
+  "work_title": "Poems",
+  "chapter_number": 14,
+  "chapter_title": "HUMAN PLEASURE OR PAIN.",
+  "chapter_slug": "14-human-pleasure-or-pain",
+  "author": "(Mary) Matilda Betham",
+  "author_slug": "mary-matilda-betham",
+  "ecpa_poem_id": "bmb97-w0140",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "xaxa",
+    "syllable_pattern": "8.6.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 20
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "76d79dd3-0b48-5b52-ab53-f9b1db7ccd7c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 113,
+      "line_count": 21,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

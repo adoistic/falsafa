@@ -1,0 +1,46 @@
+{
+  "work_slug": "thomas-brerewood-poems-640ca3",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "WINTER.",
+  "chapter_slug": "04-winter",
+  "author": "Thomas Brerewood",
+  "author_slug": "thomas-brerewood",
+  "ecpa_poem_id": "o4985-w0190",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "pastoral",
+      "song",
+      "ballad metre"
+    ],
+    "foot": "anapaestic (˘˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "12.9.12.9",
+    "metrical_pattern": "--+|--+|--+|--+/ --+|--+|--+/ --+|--+|--+|--+/ --+|--+|--+/",
+    "line_count": 28
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1673f8c2-6c9d-5ac0-98bb-4a01429ccf01",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 239,
+      "line_count": 30,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

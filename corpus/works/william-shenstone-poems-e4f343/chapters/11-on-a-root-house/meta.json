@@ -1,0 +1,44 @@
+{
+  "work_slug": "william-shenstone-poems-e4f343",
+  "work_title": "Poems",
+  "chapter_number": 11,
+  "chapter_title": "On a ROOT-HOUSE.",
+  "chapter_slug": "11-on-a-root-house",
+  "author": "William Shenstone",
+  "author_slug": "william-shenstone",
+  "ecpa_poem_id": "o5155-w0940",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "inscription"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "sestet (6 lines)"
+    ],
+    "rhyme": "aabbcc",
+    "syllable_pattern": "8.8.8.8.8.8",
+    "metrical_pattern": "-+|-+|-+|-+/              -+|-+|-+|-+/              -+|-+|-+|-+/              -+|-+|-+|-+/              -+|-+|-+|-+/              -+|-+|-+|-+/",
+    "line_count": 24
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "fd2b3c07-019f-5d58-9b78-25c9b6f3da3a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 161,
+      "line_count": 25,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

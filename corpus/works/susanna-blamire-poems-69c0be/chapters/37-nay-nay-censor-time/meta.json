@@ -1,0 +1,44 @@
+{
+  "work_slug": "susanna-blamire-poems-69c0be",
+  "work_title": "Poems",
+  "chapter_number": 37,
+  "chapter_title": "NAY, NAY, CENSOR TIME.",
+  "chapter_slug": "37-nay-nay-censor-time",
+  "author": "Susanna Blamire",
+  "author_slug": "susanna-blamire",
+  "ecpa_poem_id": "bsb18-w0370",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "song"
+    ],
+    "foot": "anapaestic (˘˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "12.9.12.9",
+    "metrical_pattern": "--+|--+|--+|--+/ --+|--+|--+/ --+|--+|--+|--+/ --+|--+|--+/",
+    "line_count": 20
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0f23b269-1035-5088-9f3f-686d972630e5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 181,
+      "line_count": 21,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

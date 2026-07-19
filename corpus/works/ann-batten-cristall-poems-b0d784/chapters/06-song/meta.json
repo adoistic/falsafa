@@ -1,0 +1,38 @@
+{
+  "work_slug": "ann-batten-cristall-poems-b0d784",
+  "work_title": "Poems",
+  "chapter_number": 6,
+  "chapter_title": "SONG.",
+  "chapter_slug": "06-song",
+  "author": "Ann Batten Cristall",
+  "author_slug": "ann-batten-cristall",
+  "ecpa_poem_id": "cac95-w0060",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "song"
+    ],
+    "rhyme": "irregular",
+    "metrical_pattern": "irregular",
+    "line_count": 52
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e6696806-691b-5c84-b59e-7796136514e0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 326,
+      "line_count": 53,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

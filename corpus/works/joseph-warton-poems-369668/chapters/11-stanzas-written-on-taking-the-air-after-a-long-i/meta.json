@@ -1,0 +1,41 @@
+{
+  "work_slug": "joseph-warton-poems-369668",
+  "work_title": "Poems",
+  "chapter_number": 11,
+  "chapter_title": "STANZAS written on taking the Air after a long Illness.",
+  "chapter_slug": "11-stanzas-written-on-taking-the-air-after-a-long-i",
+  "author": "Joseph Warton",
+  "author_slug": "joseph-warton",
+  "ecpa_poem_id": "o5154-w0190",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "10.10.10.10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/         -+|-+|-+|-+|-+/         -+|-+|-+|-+|-+/         -+|-+|-+|-+|-+/",
+    "line_count": 24
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7e402f7d-5531-559d-b319-17583c45ba92",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 204,
+      "line_count": 32,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "work_slug": "mary-barber-poems-3d9e19",
+  "work_title": "Poems",
+  "chapter_number": 65,
+  "chapter_title": "Written at Dr. Mead's House in Ormond-Street, to Mrs. Mead.",
+  "chapter_slug": "65-written-at-dr-meads-house-in-ormond-street-to-mr",
+  "author": "Mary Barber",
+  "author_slug": "mary-barber",
+  "ecpa_poem_id": "pba35-w0680",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "epigram"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "aabb",
+    "syllable_pattern": "8.8.8.8",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/",
+    "line_count": 4
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9c2eccf1-3be6-5987-8763-7ecdcaa84977",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 36,
+      "line_count": 5,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

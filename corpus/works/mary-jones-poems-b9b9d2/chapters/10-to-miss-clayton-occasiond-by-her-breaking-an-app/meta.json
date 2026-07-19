@@ -1,0 +1,45 @@
+{
+  "work_slug": "mary-jones-poems-b9b9d2",
+  "work_title": "Poems",
+  "chapter_number": 10,
+  "chapter_title": "To Miss CLAYTON. Occasion'd by her breaking an appointment to visit the AUTHOR.",
+  "chapter_slug": "10-to-miss-clayton-occasiond-by-her-breaking-an-app",
+  "author": "Mary Jones",
+  "author_slug": "mary-jones",
+  "ecpa_poem_id": "pjo50-w0100",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ballad metre",
+      "address"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "xaxa",
+    "syllable_pattern": "8.6.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 44
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1c7edfad-ecc6-5fc1-810f-a105b87d6c62",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 275,
+      "line_count": 46,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

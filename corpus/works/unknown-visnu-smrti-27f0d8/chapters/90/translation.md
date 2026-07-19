@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 90**
+**Viṣṇu Smriti 90**
 
 On the fifteenth day of the bright fortnight of *Mārgaśīrṣa*, when it is conjoined with the Mṛgaśiras constellation, he shall have one *prastha* of powdered salt with a golden navel given to a Brāhmaṇa at moonrise. // Vi_90.1 //
 

@@ -1,0 +1,41 @@
+{
+  "work_slug": "charlotte-smith-poems-775ddd",
+  "work_title": "Poems",
+  "chapter_number": 29,
+  "chapter_title": "SONNET [29] XXIX. To Miss C****. On being desired to attempt writing a Comedy.",
+  "chapter_slug": "29-sonnet-29-xxix-to-miss-c-on-being-desired-to-att",
+  "author": "Charlotte Smith",
+  "author_slug": "charlotte-smith",
+  "ecpa_poem_id": "n22cs-w0290",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "sonnet"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "rhyme": "abbacddcefefef",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 14
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "18b0f49e-9756-5d1a-b480-dd3d8a61a442",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 127,
+      "line_count": 15,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

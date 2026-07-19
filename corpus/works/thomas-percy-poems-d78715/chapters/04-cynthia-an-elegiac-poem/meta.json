@@ -1,0 +1,45 @@
+{
+  "work_slug": "thomas-percy-poems-d78715",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "CYNTHIA, an Elegiac POEM.",
+  "chapter_slug": "04-cynthia-an-elegiac-poem",
+  "author": "Thomas Percy",
+  "author_slug": "thomas-percy",
+  "ecpa_poem_id": "o5157-w0490",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic quatrain",
+      "elegy"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "10.10.10.10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/         -+|-+|-+|-+|-+/         -+|-+|-+|-+|-+/         -+|-+|-+|-+|-+/",
+    "line_count": 96
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "678639b0-4ccd-53e4-bb57-bd1202d068ca",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 794,
+      "line_count": 99,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

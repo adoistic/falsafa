@@ -1,0 +1,39 @@
+{
+  "work_slug": "john-pomfret-poems-70be05",
+  "work_title": "Poems",
+  "chapter_number": 20,
+  "chapter_title": "Dies Novissima: OR, THE LAST EPIPHANY. A Pindarick Ode, on Christ's Second Appearance to Judge the World.",
+  "chapter_slug": "20-dies-novissima-or-the-last-epiphany-a-pindarick-",
+  "author": "John Pomfret",
+  "author_slug": "john-pomfret",
+  "ecpa_poem_id": "ppo24-w0200",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "Pindaric ode",
+      "ode"
+    ],
+    "rhyme": "irregular",
+    "metrical_pattern": "irregular",
+    "line_count": 223
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "84abc5a2-1a6e-5f65-8a39-0afc1b5c6d20",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1623,
+      "line_count": 242,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

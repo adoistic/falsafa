@@ -1,0 +1,44 @@
+{
+  "work_slug": "ann-batten-cristall-poems-b0d784",
+  "work_title": "Poems",
+  "chapter_number": 28,
+  "chapter_title": "ODE ON TRUTH. ADDRESSED TO GEORGE DYER.",
+  "chapter_slug": "28-ode-on-truth-addressed-to-george-dyer",
+  "author": "Ann Batten Cristall",
+  "author_slug": "ann-batten-cristall",
+  "ecpa_poem_id": "cac95-w0280",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "sestet (6 lines)"
+    ],
+    "rhyme": "ababcc",
+    "syllable_pattern": "10.10.10.10.10.10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/",
+    "line_count": 42
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ab2fbb69-4507-5334-b4e6-5df15f79a818",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 328,
+      "line_count": 44,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

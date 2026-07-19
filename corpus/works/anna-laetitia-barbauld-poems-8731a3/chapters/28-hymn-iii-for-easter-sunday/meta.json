@@ -1,0 +1,44 @@
+{
+  "work_slug": "anna-laetitia-barbauld-poems-8731a3",
+  "work_title": "Poems",
+  "chapter_number": 28,
+  "chapter_title": "HYMN III. For EASTER-SUNDAY.",
+  "chapter_slug": "28-hymn-iii-for-easter-sunday",
+  "author": "Anna Laetitia Barbauld",
+  "author_slug": "anna-laetitia-barbauld",
+  "ecpa_poem_id": "o3555-w0280",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "hymn"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "xaxa",
+    "syllable_pattern": "8.6.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 44
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e0c7fde4-2248-5370-9d09-890bfa94474c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 247,
+      "line_count": 46,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

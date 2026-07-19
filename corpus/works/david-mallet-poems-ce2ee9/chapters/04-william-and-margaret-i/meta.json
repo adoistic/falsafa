@@ -1,0 +1,44 @@
+{
+  "work_slug": "david-mallet-poems-ce2ee9",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "WILLIAM AND MARGARET. I.",
+  "chapter_slug": "04-william-and-margaret-i",
+  "author": "David Mallet",
+  "author_slug": "david-mallet",
+  "ecpa_poem_id": "o5089-w0110",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ballad metre"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "xaxa",
+    "syllable_pattern": "8.6.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 68
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "28207b3b-260a-5554-aa89-248a2f779554",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 431,
+      "line_count": 87,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

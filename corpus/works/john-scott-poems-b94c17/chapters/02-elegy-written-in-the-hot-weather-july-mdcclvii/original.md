@@ -1,0 +1,126 @@
+---
+work_id: "b94c17fa-0852-5a3c-a62d-e497d9c49d14"
+work_slug: "john-scott-poems-b94c17"
+work_title: Poems
+author: John Scott
+author_slug: "john-scott"
+ecpa_poem_id: "o4984-w0520"
+chapter_number: 2
+chapter_title: ELEGY. WRITTEN IN THE HOT WEATHER, JULY MDCCLVII.
+chapter_slug: "02-elegy-written-in-the-hot-weather-july-mdcclvii"
+variant_id: "635bf767-8d37-576e-8712-7cb33e481a82"
+content_type: original
+layout: verse
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 568
+source_url: "https://www.eighteenthcenturypoetry.org/"
+license: "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+genres:
+  - heroic quatrain
+  - elegy
+metrical_foot: iambic (˘′)
+metrical_count: pentameter (5 feet)
+stanza_form:
+  - quatrain (4 lines)
+rhyme_scheme: abab
+syllable_pattern: 10.10.10.10
+---
+
+ELEGY.
+
+WRITTEN IN THE HOT WEATHER, JULY MDCCLVII.
+
+BY THE SAME.
+
+THREE hours from noon the passing shadow shows,
+ The sultry breeze glides faintly o'er the plains,
+ The dazzling aether fierce and fiercer glows,
+ And human nature scarce its rage sustains. 
+
+Now still and vacant is the dusty street,
+ And still and vacant where yon fields extend,
+ Save where those swains, oppress'd with toil and heat,
+ The grassy harvest of the mead attend. 
+
+Lost is the lively aspect of the ground,
+ Low are the springs, the reedy ditches dry;
+ No verdant spot in all the vale is found,
+ Save what yon stream's unfailing stores supply,
+
+Where are the flowers that made the garden gay? 
+Where is their beauty, where their fragrance sled? 
+Their stems relax, fast fall their leaves away,
+ They fade and mingle with their dusty bed:
+
+All but the natives of the torrid zone,
+ What Afric's wilds, or Peru's fields display,
+ Pleas'd with a clime that imitates their own,
+ They lovelier bloom beneath the parching ray. 
+
+Where is wild nature's heart-reviving song,
+ That fill'd in genial Spring the verdant bowers? 
+Silent in gloomy woods the feather'd throng
+ Pine thro' this long, long course of sultry hours. 
+
+Where is the dream of bliss by Summer brought? 
+The walk along the riv'let-water'd vale? 
+The field with verdure clad, with fragrance fraught,
+ The sun mild-beaming, and the fanning gale? 
+
+The weary soul Imagination chears,
+ Her pleasing colours paint the future gay;
+ Time passes on, the truth itself appears,
+ The pleasing colours instant fade away:
+
+In different seasons different joys we place,
+ And these shall Spring supply, and Summer these;
+ Yet frequent storms the bloom of Spring deface,
+ And Summer scarcely brings a day to please. 
+
+O for some secret shady cool recess! 
+Some Gothic dome o'erhung with darksome trees,
+ Where thick damp walls this raging heat repress;
+ Where the long isle invites the lazy breeze:
+
+But why these plaints? — amid his wastes of sand,
+ Far more than this the wandering Arab feels;
+ Far more the Indian in Columbus' land,
+ While Phoebus o'er him rolls his fiery wheels:
+
+Far more the sensible of mind sustains,
+ Rack'd with the poignant pangs of fear or shame:
+ The hopeless lover, bound in beauty's chains,
+ And he, whom envy robs of hard-earn'd same:
+
+He, who a father or a mother mourns,
+ Or lovely consort lost in early bloom,
+ He, whom the dreaded rage of fever burns,
+ Or slow disease leads lingering to the tomb. —
+
+Lest man should sink beneath the present pain;
+ Lest man should triumph in the present joy;
+ For him th' unvarying "Laws of heaven ordain,"
+ Hope in his ills, and to his bliss alloy. 
+
+Fierce and oppressive is the sun we share,
+ Yet not unuseful to our humid soil;
+ Hence shall our fruits a richer flavour bear,
+ Hence shall our plains with riper harvests smile:
+
+Reflect and be content — for mankind's good
+ Heaven gives the due degrees of drought or rain;
+ To-morrow ceaseless showers may swell the flood,
+ Nor soon yon sun rise blazing fierce again:
+
+Ev'n now behold the grateful change at hand,
+ Hark, in the east loud blustering gales arise;
+ Wide and more wide the darkening clouds expand,
+ And distant lightnings flash along the skies:
+
+O in the awful concert of the storm,
+ While hail and rain, and wind and thunder join! 
+Let the great Ruler's praise my song inform,
+ Let wonder, reverence, gratitude be mine.

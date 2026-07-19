@@ -1,0 +1,44 @@
+{
+  "work_slug": "eliza-day-poems-281dff",
+  "work_title": "Poems",
+  "chapter_number": 76,
+  "chapter_title": "MERCY.",
+  "chapter_slug": "76-mercy",
+  "author": "Eliza Day",
+  "author_slug": "eliza-day",
+  "ecpa_poem_id": "bed98-w0760",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "hymn"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "aabb",
+    "syllable_pattern": "8.8.8.8",
+    "metrical_pattern": "-+|-+|-+|-+|-/ -+|-+|-+|-+/ -+|-+|-+|-+|-/ -+|-+|-+|-+/",
+    "line_count": 24
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a41efca9-06df-5d35-a614-82a4190b79fb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 152,
+      "line_count": 25,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

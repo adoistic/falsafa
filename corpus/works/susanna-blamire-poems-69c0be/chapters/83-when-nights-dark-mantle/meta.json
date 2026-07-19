@@ -1,0 +1,44 @@
+{
+  "work_slug": "susanna-blamire-poems-69c0be",
+  "work_title": "Poems",
+  "chapter_number": 83,
+  "chapter_title": "WHEN NIGHT'S DARK MANTLE.",
+  "chapter_slug": "83-when-nights-dark-mantle",
+  "author": "Susanna Blamire",
+  "author_slug": "susanna-blamire",
+  "ecpa_poem_id": "bsb18-w0830",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "song"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "octet (8 lines)"
+    ],
+    "rhyme": "ababcdcd",
+    "syllable_pattern": "8.8.8.8.8.8.8.8",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/  -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/  -+|-+|-+|-+/",
+    "line_count": 24
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "233f9e93-07c8-5dc9-a06f-10ad67f7db89",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 160,
+      "line_count": 25,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

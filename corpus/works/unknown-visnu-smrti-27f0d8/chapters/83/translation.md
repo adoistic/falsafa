@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 83**
+**Viṣṇu Smriti 83**
 
 Now, the *paṅktipāvanas* (पङ्क्तिपावनs) (purifiers of the row). // Vi_83.1 //
 
@@ -26,7 +26,7 @@ A *Triṇāciketa* (त्रिणाचिकेत) (one who has studied the 
 
 A *Pañcāgni* (पञ्चाग्नि) (one who maintains five sacred fires). // Vi_83.3 //
 
-A *Jyeṣṭhasāmaga* (ज्येष्ठसामग) (a singer of the Jyeshtha Sāman). // Vi_83.4 //
+A *Jyeṣṭhasāmaga* (ज्येष्ठसामग) (a singer of the Jyeṣṭha Sāman). // Vi_83.4 //
 
 One who has mastered the Vedas. // Vi_83.5 //
 

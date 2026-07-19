@@ -1,0 +1,44 @@
+{
+  "work_slug": "anna-seward-poems-4e63bb",
+  "work_title": "Poems",
+  "chapter_number": 2,
+  "chapter_title": "VERSES ON WREXHAM, AND THE INHABITANTS OF ITS ENVIRONS.",
+  "chapter_slug": "02-verses-on-wrexham-and-the-inhabitants-of-its-env",
+  "author": "Anna Seward",
+  "author_slug": "anna-seward",
+  "ecpa_poem_id": "bse96-w0020",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "narrative verse"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 50
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b42a2b22-aeea-5cd0-8427-f060add51e34",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 375,
+      "line_count": 52,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

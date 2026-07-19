@@ -1,0 +1,46 @@
+{
+  "work_slug": "william-shenstone-poems-e4f343",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "THE SCHOOL-MISTRESS. A POEM, In Imitation of Spenser.",
+  "chapter_slug": "01-the-school-mistress-a-poem-in-imitation-of-spens",
+  "author": "William Shenstone",
+  "author_slug": "william-shenstone",
+  "ecpa_poem_id": "o5152-w0320",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "alexandrine",
+      "Spenserian stanza",
+      "imitation"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "nine-line stanza"
+    ],
+    "rhyme": "ababbcbcc",
+    "syllable_pattern": "10.10.10.10.10.10.10.10.12",
+    "metrical_pattern": "-+|-+|-+|-+|-+/     -+|-+|-+|-+|-+/     -+|-+|-+|-+|-+/     -+|-+|-+|-+|-+/     -+|-+|-+|-+|-+/     -+|-+|-+|-+|-+/     -+|-+|-+|-+|-+/     -+|-+|-+|-+|-+/     -+|-+|-+|-+|-+|-+/",
+    "line_count": 315
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "84c7833f-0f34-5c82-967d-13f225b7dccb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2549,
+      "line_count": 353,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

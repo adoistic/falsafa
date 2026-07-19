@@ -1,0 +1,45 @@
+{
+  "work_slug": "assorted-eighteenth-century-poetry-353ac8",
+  "work_title": "An Assorted Collection of Eighteenth-Century Poetry",
+  "chapter_number": 154,
+  "chapter_title": "VERSES ON THE EXPECTED ARRIVAL OF QUEEN CHARLOTTE, IN AN EPISTLE TO A FRIEND, 1761.",
+  "chapter_slug": "154-verses-on-the-expected-arrival-of-queen-charlott",
+  "author": "Anonymous",
+  "author_slug": "anonymous",
+  "ecpa_poem_id": "o4987-w0850",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "epistle",
+      "parody"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 110
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "bf064757-f429-5b03-9ced-5809d18947ab",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 721,
+      "line_count": 112,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

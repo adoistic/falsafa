@@ -1,0 +1,42 @@
+{
+  "work_slug": "charles-wesley-poems-fd377a",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "SOLITUDE. From the Latin.",
+  "chapter_slug": "01-solitude-from-the-latin",
+  "author": "Charles Wesley",
+  "author_slug": "charles-wesley",
+  "ecpa_poem_id": "o3900-w0020",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "hymn",
+      "translation"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 36
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2e86b2d1-803c-5ea9-ac08-27a998b9aa3c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 203,
+      "line_count": 38,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

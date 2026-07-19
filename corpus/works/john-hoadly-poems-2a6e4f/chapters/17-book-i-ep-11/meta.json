@@ -1,0 +1,47 @@
+{
+  "work_slug": "john-hoadly-poems-2a6e4f",
+  "work_title": "Poems",
+  "chapter_number": 17,
+  "chapter_title": "BOOK I. Ep. 11.",
+  "chapter_slug": "17-book-i-ep-11",
+  "author": "John Hoadly",
+  "author_slug": "john-hoadly",
+  "ecpa_poem_id": "o5156-w1231",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "epigram",
+      "imitation",
+      "translation",
+      "paraphrase"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "aabb",
+    "syllable_pattern": "8.8.8.8",
+    "metrical_pattern": "-+|-+|-+|-+/          -+|-+|-+|-+/          -+|-+|-+|-+/          -+|-+|-+|-+/",
+    "line_count": 4
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c8b631c7-f7a3-55a2-a470-dcb39862513c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 28,
+      "line_count": 5,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

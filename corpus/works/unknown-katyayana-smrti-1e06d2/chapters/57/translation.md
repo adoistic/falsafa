@@ -28,7 +28,7 @@ Excluding the whole property and the house, whatever property is more than what 
 
 And therefore, a father's power over his son and wife is in matters of discipline; he has no power over his son in matters of sale or gift. // K_641 //
 
-He who, of his own will, promises a gift to a Brahmin but does not give it, shall be made to pay it like a debt and shall incur the first amercement. // K_642 //
+He who, of his own will, promises a gift to a Brāhmaṇa but does not give it, shall be made to pay it like a debt and shall incur the first amercement. // K_642 //
 
 By not giving what was promised and by concealing what was given, a mortal is born in the wombs of animals for a hundred crore kalpas. // K_643 //
 

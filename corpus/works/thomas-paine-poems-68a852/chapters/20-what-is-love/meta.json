@@ -1,0 +1,38 @@
+{
+  "work_slug": "thomas-paine-poems-68a852",
+  "work_title": "Poems",
+  "chapter_number": 20,
+  "chapter_title": "What Is Love?",
+  "chapter_slug": "20-what-is-love",
+  "author": "Thomas Paine",
+  "author_slug": "thomas-paine",
+  "ecpa_poem_id": "tpc26-w0200",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 29
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e37332e5-6cbd-54bc-aed9-d7e954c8190f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 237,
+      "line_count": 30,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

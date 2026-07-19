@@ -1,0 +1,300 @@
+{
+  "slug": "unknown-manusmrti-347b76",
+  "window": "04:180-225",
+  "entities": [
+    {
+      "canonical_name": "Brahma",
+      "surface_names": ["Brahma", "world of Brahma"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-c151f5",
+          "quote": "The *ācārya* is the lord of the world of Brahma",
+          "role": "cosmic realm associated with the ācārya's spiritual authority"
+        }
+      ],
+      "description": "The supreme divine being whose cosmic realm is presided over by the ācārya (teacher) in the cosmological hierarchy of worlds.",
+      "justification": "Brahma is named as the deity whose world (realm) the ācārya lords over, establishing a divine cosmological mapping in the text."
+    },
+    {
+      "canonical_name": "Prajapati",
+      "surface_names": ["Prajapati", "world of Prajapati"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-c151f5",
+          "quote": "the father is the lord in the world of Prajapati",
+          "role": "cosmic realm associated with the father's authority"
+        }
+      ],
+      "description": "The lord of creatures whose cosmic realm is presided over by the father in the cosmological hierarchy of social roles.",
+      "justification": "Prajapati is explicitly named in the mapping of human roles to divine worlds, linking paternal authority to his realm."
+    },
+    {
+      "canonical_name": "Indra",
+      "surface_names": ["Indra", "world of Indra"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-c151f5",
+          "quote": "the guest is the lord of the world of Indra",
+          "role": "cosmic realm associated with the guest's honour"
+        }
+      ],
+      "description": "The king of the gods whose cosmic realm is symbolically presided over by the honoured guest in the social-cosmic mapping.",
+      "justification": "Indra is named as the deity whose world the guest lords over, making him a touchstone for guest-honour ethics."
+    },
+    {
+      "canonical_name": "Apsaras",
+      "surface_names": ["Apsaras", "world of the Apsaras"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-99309f",
+          "quote": "The daughters-in-law are lords in the world of the Apsaras",
+          "role": "cosmic realm associated with daughters-in-law"
+        }
+      ],
+      "description": "Celestial nymphs of the heavenly realm whose world is linked to daughters-in-law in the cosmological role-mapping.",
+      "justification": "The Apsaras are named as the divine inhabitants of the world governed by daughters-in-law in the social-cosmic hierarchy."
+    },
+    {
+      "canonical_name": "Vishve-devas",
+      "surface_names": ["Vishve-devas"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-99309f",
+          "quote": "the kinsmen, of the Vishve-devas",
+          "role": "cosmic realm associated with kinsmen"
+        }
+      ],
+      "description": "The 'All-Gods,' a collective group of deities whose world is linked to kinsmen in the social-cosmic hierarchy.",
+      "justification": "Vishve-devas are named as the collective deity group whose realm is presided over by kinsmen, continuing the cosmological mapping."
+    },
+    {
+      "canonical_name": "Tamisra",
+      "surface_names": ["Tamisra"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-eda94c",
+          "quote": "wanders for a hundred years in the hell called Tamisra",
+          "role": "place of punishment for threatening a Brahmana"
+        }
+      ],
+      "description": "A named hell realm ('Darkness') to which a twice-born who threatens to kill a Brahmana is condemned for a hundred years.",
+      "justification": "Tamisra is explicitly named as the hell a would-be Brahmana-killer wanders in, grounding it as a concrete punitive place."
+    },
+    {
+      "canonical_name": "Śruti",
+      "surface_names": ["Śruti"],
+      "kind": "object",
+      "mentions": [
+        {
+          "paragraph_id": "p-2c7f78",
+          "quote": "the rule of good conduct, which is the root of Dharma, as declared in *Śruti* and *Smṛti*",
+          "role": "scriptural authority for the rule of good conduct"
+        }
+      ],
+      "description": "The revealed scriptural corpus ('that which is heard') cited as one of the two foundational authorities for the rule of good conduct.",
+      "justification": "Śruti is explicitly invoked alongside Smṛti as the scriptural warrant for the conduct rules the text is prescribing."
+    },
+    {
+      "canonical_name": "Smṛti",
+      "surface_names": ["Smṛti"],
+      "kind": "object",
+      "mentions": [
+        {
+          "paragraph_id": "p-2c7f78",
+          "quote": "the rule of good conduct, which is the root of Dharma, as declared in *Śruti* and *Smṛti*",
+          "role": "scriptural authority for the rule of good conduct"
+        }
+      ],
+      "description": "The remembered/traditional corpus of law and custom cited alongside Śruti as the twin authorities authorising the conduct rules.",
+      "justification": "Smṛti is explicitly named as the second scriptural authority for the good-conduct rules prescribed in this window."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Good conduct (ācāra) as the root of Dharma and source of prosperity",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-2c7f78",
+          "quote": "the rule of good conduct, which is the root of Dharma, as declared in *Śruti* and *Smṛti*"
+        },
+        {
+          "paragraph_id": "p-dfa3d8",
+          "quote": "From good conduct one indeed obtains long life; from good conduct, desired progeny; from good conduct, imperishable wealth"
+        },
+        {
+          "paragraph_id": "p-123f13",
+          "quote": "a man of bad conduct is condemned in the world; he is a constant partaker of sorrow, is afflicted with disease, and is short-lived"
+        },
+        {
+          "paragraph_id": "p-36e74b",
+          "quote": "Even a man devoid of all auspicious marks, if he is of good conduct, full of faith, and free from envy, lives for a hundred years"
+        }
+      ],
+      "justification": "Multiple consecutive verses (Mn_4.155–4.158) define good conduct as the foundational religious and social virtue, treating it as causally productive of all worldly and spiritual goods."
+    },
+    {
+      "topic": "Autonomy and self-reliance as the criterion of happiness",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-36a0c1",
+          "quote": "Whatever action is dependent on others, that he should diligently avoid; but whatever is dependent on himself, that he should diligently perform"
+        },
+        {
+          "paragraph_id": "p-1b9b5d",
+          "quote": "All that is dependent on others is suffering; all that is dependent on oneself is happiness"
+        },
+        {
+          "paragraph_id": "p-848e7e",
+          "quote": "That action in the performance of which his inner soul finds satisfaction, that he should perform with diligence"
+        }
+      ],
+      "justification": "Verses Mn_4.159–4.161 form a compact teaching that equates dependence with suffering and inner satisfaction with the guide for right action, presenting a philosophy of self-determination."
+    },
+    {
+      "topic": "Non-violence toward Brahmanas and the karmic consequences of harming them",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-eda94c",
+          "quote": "A twice-born who, with the desire to kill, merely threatens a Brahmana, wanders for a hundred years in the hell called Tamisra"
+        },
+        {
+          "paragraph_id": "p-54abd6",
+          "quote": "Having struck him in anger and intentionally, even with a blade of grass, he is born for twenty-one births in sinful wombs"
+        },
+        {
+          "paragraph_id": "p-521a1b",
+          "quote": "A man who, through foolishness, causes blood to flow from the body of a Brahmana who is not fighting, obtains very great suffering after death"
+        },
+        {
+          "paragraph_id": "p-fa0d25",
+          "quote": "a learned man should never even threaten a twice-born, nor strike him even with a blade of grass, nor cause blood to flow from his body"
+        }
+      ],
+      "justification": "A sequence of verses (Mn_4.165–4.169) elaborates graded punishments—hellish wandering, rebirth in sinful wombs, post-mortem torment—for progressively serious acts of violence against Brahmanas."
+    },
+    {
+      "topic": "Karma, delayed retribution, and the gradual fruition of unrighteousness",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-a9cb17",
+          "quote": "Unrighteousness practiced in this world does not bear fruit immediately, like a cow; but turning slowly, it cuts the roots of the doer"
+        },
+        {
+          "paragraph_id": "p-4c1767",
+          "quote": "If not upon himself, then upon his sons; if not upon his sons, then upon his grandsons; but an unrighteous act once done is never fruitless"
+        },
+        {
+          "paragraph_id": "p-2ee675",
+          "quote": "Through unrighteousness one prospers for a time, then one sees good things, then one conquers one's enemies; but in the end, one perishes to the root"
+        }
+      ],
+      "justification": "Verses Mn_4.172–4.174 develop a sustained theory of delayed but inevitable karmic retribution, using the cow and tree-root as analogies for slow but certain fruition."
+    },
+    {
+      "topic": "Cosmological mapping of social roles onto divine worlds",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-c151f5",
+          "quote": "The *ācārya* is the lord of the world of Brahma; the father is the lord in the world of Prajapati; the guest is the lord of the world of Indra"
+        },
+        {
+          "paragraph_id": "p-99309f",
+          "quote": "The daughters-in-law are lords in the world of the Apsaras; the kinsmen, of the Vishve-devas; the relatives, of the world of the waters"
+        },
+        {
+          "paragraph_id": "p-a26b8b",
+          "quote": "The child, the old, the emaciated, and the sick are to be known as lords of the ether; an elder brother is equal to a father"
+        }
+      ],
+      "justification": "Verses Mn_4.182–4.184 systematically assign every social role (teacher, father, guest, kin, wife, servants) a corresponding divine cosmic realm, encoding social ethics in a cosmological framework."
+    },
+    {
+      "topic": "Dangers of accepting gifts for unlearned or unqualified Brahmanas",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-09dd42",
+          "quote": "by accepting gifts, his spiritual luster is quickly extinguished"
+        },
+        {
+          "paragraph_id": "p-7f8c0d",
+          "quote": "A wise man, without knowing the righteous rule for accepting various things, should not accept a gift, even if he is perishing from hunger"
+        },
+        {
+          "paragraph_id": "p-0d61d8",
+          "quote": "An unlearned man who accepts gold, land, a horse, a cow, food, clothes, sesame seeds, or ghee is reduced to ashes like a piece of wood"
+        },
+        {
+          "paragraph_id": "p-b53be1",
+          "quote": "A twice-born who has not performed *tapas* and has not studied, but is fond of accepting gifts, sinks with that gift, like one crossing water on a raft of stone"
+        },
+        {
+          "paragraph_id": "p-a854f8",
+          "quote": "an unlearned man should be afraid of accepting a gift from any source whatsoever; for even with a small gift, an unlearned man sinks like a cow in the mud"
+        }
+      ],
+      "justification": "A cluster of verses (Mn_4.186–4.191) repeatedly warns that receiving gifts without the requisite learning and tapas destroys the recipient spiritually, treating gift-acceptance as a major ethical hazard for unqualified twice-born."
+    },
+    {
+      "topic": "Avoidance of hypocrites who use Dharma as a cloak for vice (cat's vow / heron's mode)",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-1c4c64",
+          "quote": "A knower of Dharma should not give even water to a twice-born who follows the cat's vow, nor to a sinful one who follows the heron's mode of life"
+
+        },
+        {
+          "paragraph_id": "p-c7d753",
+          "quote": "He who makes a banner of his Dharma, is always greedy, deceitful, a hypocrite in the eyes of the world, violent, and a slanderer of all—he is to be known as one who follows the cat's vow"
+        }
+      ],
+      "justification": "Verses Mn_4.192 and 4.195 frame religious hypocrisy—using Dharma as a public banner while being inwardly greedy and violent—as a distinct ethical category deserving complete social exclusion."
+    },
+    {
+      "topic": "Ancestral path and following the conduct of one's forebears",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-015984",
+          "quote": "The path by which his fathers have gone, by which his grandfathers have gone—by that path of the good he should go; by going that way, he is not harmed"
+        }
+      ],
+      "justification": "Verse Mn_4.178 valorises adherence to ancestral precedent as a protective and ethically sufficient guide, grounding the conservative norm of tradition-following."
+    },
+    {
+      "topic": "Avoidance of disputes with household members and the liberating effect of such restraint",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-7c002b",
+          "quote": "With a sacrificial priest, a family priest, an *ācārya*, a maternal uncle, a guest, a dependent, a child, an old man, a sick person, a physician, a kinsman, a relative, and a friend"
+        },
+        {
+          "paragraph_id": "p-772c7e",
+          "quote": "With his mother and father, with his daughters-in-law, with his brother, son, and wife, with his daughter, and with his servants—he should not engage in a dispute"
+        },
+        {
+          "paragraph_id": "p-39db6f",
+          "quote": "By abandoning disputes with these, he is freed from all sins; and by conquering these, a householder conquers all these worlds"
+        }
+      ],
+      "justification": "Verses Mn_4.179–4.181 enumerate an exhaustive list of persons with whom dispute is forbidden, promising liberation from sin and cosmic conquest as the reward for restraint."
+    }
+  ],
+  "citations": []
+}

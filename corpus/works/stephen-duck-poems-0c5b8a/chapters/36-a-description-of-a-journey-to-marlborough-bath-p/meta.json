@@ -1,0 +1,46 @@
+{
+  "work_slug": "stephen-duck-poems-0c5b8a",
+  "work_title": "Poems",
+  "chapter_number": 36,
+  "chapter_title": "A Description of a Journey To Marlborough, Bath, Portsmouth, &c. To the Right Honourable the Lord Viscount PALMERSTON.",
+  "chapter_slug": "36-a-description-of-a-journey-to-marlborough-bath-p",
+  "author": "Stephen Duck",
+  "author_slug": "stephen-duck",
+  "ecpa_poem_id": "o4741-w0360",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "occasional poem",
+      "address"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 492
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "557a7cc4-8c5e-59fa-a607-cd45becba3fd",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3693,
+      "line_count": 494,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

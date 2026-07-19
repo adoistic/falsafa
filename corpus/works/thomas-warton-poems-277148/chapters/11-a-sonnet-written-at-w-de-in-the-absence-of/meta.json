@@ -1,0 +1,41 @@
+{
+  "work_slug": "thomas-warton-poems-277148",
+  "work_title": "Poems",
+  "chapter_number": 11,
+  "chapter_title": "A SONNET; written at W—DE in the Absence of —.",
+  "chapter_slug": "11-a-sonnet-written-at-w-de-in-the-absence-of",
+  "author": "Thomas Warton",
+  "author_slug": "thomas-warton",
+  "ecpa_poem_id": "o5155-w0400",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "sonnet"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "rhyme": "abbaabbacdcdcd",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 14
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6fab60ea-97cb-59de-bb68-b7bdfdf55221",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 125,
+      "line_count": 16,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

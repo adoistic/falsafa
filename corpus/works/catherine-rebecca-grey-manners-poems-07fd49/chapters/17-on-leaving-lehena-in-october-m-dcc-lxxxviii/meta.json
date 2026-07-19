@@ -1,0 +1,44 @@
+{
+  "work_slug": "catherine-rebecca-grey-manners-poems-07fd49",
+  "work_title": "Poems",
+  "chapter_number": 17,
+  "chapter_title": "On Leaving Lehena, in October, M DCC LXXXVIII.",
+  "chapter_slug": "17-on-leaving-lehena-in-october-m-dcc-lxxxviii",
+  "author": "Catherine Rebecca Grey Manners",
+  "author_slug": "catherine-rebecca-grey-manners",
+  "ecpa_poem_id": "pcm93-w0170",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "occasional poem"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "10.10.10.10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/",
+    "line_count": 64
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "fe9ba6d5-74d3-5d3d-88cf-2d9ec9fc631d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 492,
+      "line_count": 66,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

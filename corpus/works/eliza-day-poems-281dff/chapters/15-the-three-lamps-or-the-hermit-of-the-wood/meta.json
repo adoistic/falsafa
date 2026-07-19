@@ -1,0 +1,44 @@
+{
+  "work_slug": "eliza-day-poems-281dff",
+  "work_title": "Poems",
+  "chapter_number": 15,
+  "chapter_title": "THE THREE LAMPS; OR, THE HERMIT OF THE WOOD.",
+  "chapter_slug": "15-the-three-lamps-or-the-hermit-of-the-wood",
+  "author": "Eliza Day",
+  "author_slug": "eliza-day",
+  "ecpa_poem_id": "bed98-w0150",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "tale"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 278
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0fd24539-9892-5e76-b89b-63a53811efcb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2077,
+      "line_count": 280,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

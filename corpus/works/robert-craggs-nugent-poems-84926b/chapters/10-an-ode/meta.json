@@ -1,0 +1,44 @@
+{
+  "work_slug": "robert-craggs-nugent-poems-84926b",
+  "work_title": "Poems",
+  "chapter_number": 10,
+  "chapter_title": "An ODE.",
+  "chapter_slug": "10-an-ode",
+  "author": "Robert Craggs Nugent",
+  "author_slug": "robert-craggs-nugent",
+  "ecpa_poem_id": "o5153-w0420",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "8.8.8.8",
+    "metrical_pattern": "-+|-+|-+|-+/     -+|-+|-+|-+/     -+|-+|-+|-+/     -+|-+|-+|-+/",
+    "line_count": 24
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0fae9759-04c9-58ff-a2d1-5129aac5333a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 151,
+      "line_count": 32,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+---
+work_id: "df0dacf1-35cd-57f0-98f9-98e7e398c858"
+work_slug: "janet-little-poems-df0dac"
+work_title: Poems
+author: Janet Little
+author_slug: "janet-little"
+ecpa_poem_id: "bjl92-w0030"
+chapter_number: 3
+chapter_title: TO HOPE.
+chapter_slug: "03-to-hope"
+variant_id: "02a26d65-72cd-5cfd-bcd3-0fbf41e0539f"
+content_type: original
+layout: verse
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 355
+source_url: "https://www.eighteenthcenturypoetry.org/"
+license: "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+genres:
+  - address
+metrical_foot: iambic (˘′)
+metrical_count: trimeter (3 feet)
+stanza_form:
+  - "fourteen-line stanza"
+rhyme_scheme: aabccbdedexfxf
+syllable_pattern: 8.8.6.8.8.6.8.6.8.6.6.6.6.6
+---
+
+TO HOPE.
+
+I.
+
+HAIL meek-ey'd maid! of matchless worth! 
+Our best companion here on earth;
+ To thee sole pow'r is giv'n,
+ T' illume our dark and dreary way,
+ As through life's mazy path we stray,
+ And bend our steps to heav'n. 
+'Tis thine to smooth the rugged vale,
+ To stem the trickling tear;
+ Thy whispers, as the spicy gale,
+ Do drooping trav'llers cheer. 
+Incline thou, to shine now
+ Upon me as I go;
+ Thy favour shall ever
+ Alleviate my wo. 
+
+II.
+
+Thy presence calms the raging seas,
+ And to the throbbing breast gives ease
+ Amid the tempest's howl,
+ When waves appear as mountains high,
+ When swelling surges dash the sky,
+ And foaming billows roll;
+ When danger, with uplifted hand,
+ Proclaims th' approaching doom,
+ Thou gently dost the stroke withstand,
+ And dissipates the gloom. 
+When caring, despairing,
+ And deeming all as lost,
+ Thy rays will portray still
+ The long expected coast. 
+
+III.
+
+Thou animates the hero's flame;
+ To him presents a deathless name
+ In the ensanguin'd field:
+ Thou dost his nerves with valour brace,
+ Bids him, with bold undaunted face,
+ Destructive weapons wield. 
+War's trumpet, breathing rude alarms,
+ Strikes terror all around;
+ Thy voice of fame, and honour's charms,
+ Outvies the direful sound. 
+When falling, appalling
+ The tumults wild increase,
+ On wings then, thou brings then
+ The harbinger of peace. 
+
+IV.
+
+Thy power elates the student's views;
+ The paths of science kindly strews
+ With never-fading flow'rs. 
+Depriv'd of thee, how lovers mourn
+ Dejected, restless and forlorn,
+ In unfrequented bow'rs! 
+Attending still on Hymen's rites,
+ Thou decorates the chain;
+ Thy smile the sprightly maid invites
+ And lures the youthful swain:
+ Still easing, and pleasing,
+ When stern misfortune stares,
+ 'Mid losses, and crosses,
+ Thou lightens all their cares. 
+
+V.
+
+From life's fair dawn to liart eve,
+ We all thy flatt'ring tales believe,
+ Enamour'd of thy art:
+ Thy soft and salutary voice
+ Gives birth to unexpected joys,
+ And soothes the bleeding heart:
+ And even at our latest hour,
+ When earthly comforts fly,
+ Thou dost, by a superior Pow'r,
+ Death's terrors all defy. 
+Not grieving, when leaving
+ This scene of dole and care,
+ But viewing, pursuing
+ A more exalted sphere.

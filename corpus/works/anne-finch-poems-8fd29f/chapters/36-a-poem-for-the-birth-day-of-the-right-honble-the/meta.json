@@ -1,0 +1,44 @@
+{
+  "work_slug": "anne-finch-poems-8fd29f",
+  "work_title": "Poems",
+  "chapter_number": 36,
+  "chapter_title": "A POEM for the Birth-day of the Right Honble the Lady CATHARINE TUFTON. Occasion'd by sight of some Verses upon that Subject for the preceding Year, compos'd by no Eminent Hand.",
+  "chapter_slug": "36-a-poem-for-the-birth-day-of-the-right-honble-the",
+  "author": "Anne Finch",
+  "author_slug": "anne-finch",
+  "ecpa_poem_id": "o4784-w0360",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "occasional poem"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 76
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1c31f9a7-9f28-5dc0-b806-298007701d65",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 496,
+      "line_count": 78,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

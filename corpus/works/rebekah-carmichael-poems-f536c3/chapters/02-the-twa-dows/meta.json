@@ -1,0 +1,44 @@
+{
+  "work_slug": "rebekah-carmichael-poems-f536c3",
+  "work_title": "Poems",
+  "chapter_number": 2,
+  "chapter_title": "THE TWA DOWS",
+  "chapter_slug": "02-the-twa-dows",
+  "author": "Rebekah Carmichael",
+  "author_slug": "rebekah-carmichael",
+  "ecpa_poem_id": "prc90-w0020",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "tale"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "sestet (6 lines)"
+    ],
+    "rhyme": "aabccb",
+    "syllable_pattern": "8.8.5.8.8.5",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-/",
+    "line_count": 42
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "cbe2b4d4-ba43-536e-aed4-b37f723cfb5e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 247,
+      "line_count": 43,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

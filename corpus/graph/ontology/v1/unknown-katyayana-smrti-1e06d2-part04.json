@@ -1,0 +1,713 @@
+{
+  "slug": "unknown-katyayana-smrti-1e06d2",
+  "window": "62-76",
+  "entities": [
+    {
+      "canonical_name": "Brahmin",
+      "surface_names": ["Brahmin", "twice-born", "best of the twice-born"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-fbeb35",
+          "quote": "slavery never exists for a Brahmin",
+          "role": "protected class exempt from slavery"
+        },
+        {
+          "paragraph_id": "p-690070",
+          "quote": "Even a man of the same caste should never make a Brahmin a slave. For by the slavery of a Brahmin, the king's majesty is diminished.",
+          "role": "subject of legal protection"
+        },
+        {
+          "paragraph_id": "p-6d8cc0",
+          "quote": "never a Brahmin, says Bṛhaspati",
+          "role": "exempt from slave labor"
+        },
+        {
+          "paragraph_id": "p-b94e91",
+          "quote": "a best of the twice-born should not perform any impure task",
+          "role": "subject of purity restrictions"
+        },
+        {
+          "paragraph_id": "p-3b6081",
+          "quote": "even a Brahmin is to be killed",
+          "role": "subject of capital punishment exception"
+        },
+        {
+          "paragraph_id": "p-7de34f",
+          "quote": "He who takes a Brahmin woman or sells her, the king should annul that act",
+          "role": "protected group"
+        }
+      ],
+      "description": "The priestly/scholarly caste exempt from enslavement and impure labor, whose degradation is said to diminish royal authority.",
+      "justification": "Brahmins are consistently named as a category bearing special legal immunity from slavery across chapters 63 and 67."
+    },
+    {
+      "canonical_name": "Kshatriya",
+      "surface_names": ["Kshatriya"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-93d629",
+          "quote": "Slavery is in the natural order of the castes, not in the reverse order, for a Kshatriya, Vaishya, and Shudra who renounce their independence.",
+          "role": "caste subject to slavery in natural order"
+        },
+        {
+          "paragraph_id": "p-6d8cc0",
+          "quote": "A Kshatriya, Vaishya, or Shudra may sometimes be made to perform the work of a slave by one of the same caste",
+          "role": "caste that may be enslaved within caste"
+        },
+        {
+          "paragraph_id": "p-0cb9e9",
+          "quote": "the king should banish a Brahmin, and make a Kshatriya or Vaishya a slave",
+          "role": "subject of royal punishment"
+        }
+      ],
+      "description": "The warrior caste, which unlike Brahmins can be enslaved within natural caste order or punished by the king with enslavement.",
+      "justification": "Kshatriyas are explicitly named alongside Vaishyas and Shudras as castes subject to slavery in chapter 63."
+    },
+    {
+      "canonical_name": "Vaishya",
+      "surface_names": ["Vaishya"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-93d629",
+          "quote": "Slavery is in the natural order of the castes, not in the reverse order, for a Kshatriya, Vaishya, and Shudra who renounce their independence.",
+          "role": "caste subject to slavery"
+        },
+        {
+          "paragraph_id": "p-0cb9e9",
+          "quote": "the king should banish a Brahmin, and make a Kshatriya or Vaishya a slave",
+          "role": "subject of royal punishment"
+        }
+      ],
+      "description": "The merchant/farming caste, which may be enslaved within natural caste order as punishment for abandoning ascetic vows.",
+      "justification": "Vaishyas are named in chapter 63 among castes subject to slavery in natural caste ordering."
+    },
+    {
+      "canonical_name": "Shudra",
+      "surface_names": ["Shudra"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-18a088",
+          "quote": "But a Shudra he may make a slave, whether bought or not. For he was created by the Self-existent One for servitude itself.",
+          "role": "lowest caste, inherently subject to servitude"
+        },
+        {
+          "paragraph_id": "p-93d629",
+          "quote": "for a Kshatriya, Vaishya, and Shudra who renounce their independence",
+          "role": "subject to slavery"
+        }
+      ],
+      "description": "The servile caste declared by Katyayana to have been created for servitude, and therefore enslaved freely by the king.",
+      "justification": "The Shudra is singled out in chapter 63 (p-18a088) as uniquely created for slavery by the Self-existent One."
+    },
+    {
+      "canonical_name": "Bhṛgu",
+      "surface_names": ["Bhṛgu", "Bhrgu"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-fbeb35",
+          "quote": "Bhṛgu declares that slavery arises from the voluntary surrender of one's independence, like that of a wife.",
+          "role": "cited legal authority on slavery"
+        },
+        {
+          "paragraph_id": "p-4d7dfc",
+          "quote": "For cutting off the ear, lip, nose, foot, eye, tongue, penis, or hand, the highest fine; for splitting them, the middle fine, says Bhṛgu.",
+          "role": "cited legal authority on bodily injury"
+        },
+        {
+          "paragraph_id": "p-d8dc21",
+          "quote": "Household utensils, vehicles, milch animals, ornaments, and servants, being visible, are divided. Bhṛgu said the treasury is divided when it is concealed.",
+          "role": "cited authority on partition"
+        },
+        {
+          "paragraph_id": "p-817e7b",
+          "quote": "What is acquired by a promise of learning, and what is received from a pupil … this is wealth acquired through learning, says Bhṛgu.",
+          "role": "cited authority on impartible property"
+        },
+        {
+          "paragraph_id": "p-611c9b",
+          "quote": "Whatever law of a country, caste, corporation, or village has been declared by Bhṛgu, one should arrange the partition of inheritance according to that.",
+          "role": "authoritative lawgiver"
+        },
+        {
+          "paragraph_id": "p-c89ac8",
+          "quote": "Property that was mutually concealed … should be divided in equal shares, says Bhṛgu.",
+          "role": "cited on re-partition"
+        },
+        {
+          "paragraph_id": "p-323fe7",
+          "quote": "A pasture for cows … is for use and not to be divided … says Bṛhaspati.",
+          "role": "cited authority (note: this verse credits Bṛhaspati, not Bhṛgu)"
+        },
+        {
+          "paragraph_id": "p-e81992",
+          "quote": "What is received by a woman out of affection after her marriage ceremony from her husband or parents, that is a subsequent gift (*anvādheya*), says Bhṛgu.",
+          "role": "cited authority on strīdhana categories"
+        }
+      ],
+      "description": "A revered Vedic sage cited repeatedly throughout these chapters as a primary authority on slavery, inheritance partition, bodily injury fines, and women's property.",
+      "justification": "Bhṛgu is invoked by name as a law-giving sage in chapters 63, 66, 71, 72, 73, and 75 to authorize specific legal rulings."
+    },
+    {
+      "canonical_name": "Bṛhaspati",
+      "surface_names": ["Bṛhaspati", "Brihaspati"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-6d8cc0",
+          "quote": "never a Brahmin, says Bṛhaspati",
+          "role": "cited authority on caste-slavery restriction"
+        },
+        {
+          "paragraph_id": "p-92d874",
+          "quote": "whatever wealth is acquired through valor is to be divided, says Bṛhaspati",
+          "role": "cited authority on impartible property"
+        },
+        {
+          "paragraph_id": "p-2dcaef",
+          "quote": "Bṛhaspati says one should know that as wealth acquired through learning (*vidyādhana*), not to be divided",
+          "role": "cited authority on vidyādhana"
+        },
+        {
+          "paragraph_id": "p-323fe7",
+          "quote": "A pasture for cows, its protection, and clothing worn on the body are for use and not to be divided … says Bṛhaspati.",
+          "role": "cited authority on impartible use-property"
+        }
+      ],
+      "description": "A sage-lawgiver cited as an authority on slavery restrictions for Brahmins, on wealth acquired through valor, and on categories of impartible property.",
+      "justification": "Bṛhaspati is quoted by name in chapters 63 and 72 as a legal opinion holder whose rulings the text endorses."
+    },
+    {
+      "canonical_name": "Manu",
+      "surface_names": ["Manu", "followers of Manu"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-8d2588",
+          "quote": "For causing the death of living beings, one should give a substitute for it, or one should give its equivalent value; thus said Manu.",
+          "role": "cited legal authority on compensation for killing"
+        },
+        {
+          "paragraph_id": "p-1ecf0c",
+          "quote": "The followers of Manu say that thieves caught with the stolen goods should be banished immediately.",
+          "role": "cited school of legal opinion on theft"
+        }
+      ],
+      "description": "The primordial lawgiver whose pronouncements on compensation for killing animals and on punishment of thieves are cited as authoritative precedents.",
+      "justification": "Manu is named as a direct authority in chapter 66 (p-8d2588) and his school is mentioned in chapter 68 (p-1ecf0c)."
+    },
+    {
+      "canonical_name": "Gautama",
+      "surface_names": ["Gautama", "followers of Gautama"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-1ecf0c",
+          "quote": "This is disliked by the followers of Gautama, as it is censured for destroying a living being.",
+          "role": "dissenting legal school on punishment of thieves"
+        }
+      ],
+      "description": "A legal authority whose school disputes the Manu school's ruling that thieves caught with goods should be immediately banished, on grounds of ahiṃsā.",
+      "justification": "The followers of Gautama are contrasted with Manu's followers in chapter 68 (p-1ecf0c) on the question of punishing thieves."
+    },
+    {
+      "canonical_name": "Kauśika",
+      "surface_names": ["Kauśika"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-ecceef",
+          "quote": "Guarded in iron fetters, on a meager diet, and being strong, they should perform work for the king until death; thus says Kauśika.",
+          "role": "cited legal authority on penal labor for thieves"
+        }
+      ],
+      "description": "A lawgiver who prescribes lifelong penal servitude in iron fetters for thieves as an alternative to banishment or mutilation.",
+      "justification": "Kauśika is named as the source of the ruling on lifetime forced labor for thieves in chapter 68 (p-ecceef)."
+    },
+    {
+      "canonical_name": "Arundhatī",
+      "surface_names": ["Arundhatī", "Arundhati"],
+      "kind": "figure",
+      "figure_kind": "mythological",
+      "mentions": [
+        {
+          "paragraph_id": "p-198921",
+          "quote": "The virtuous woman who, after her husband's death, remains established in celibacy, she, with conduct like Arundhatī's, is glorified in the world of Brahmā.",
+          "role": "exemplar of wifely chastity and celibacy"
+        }
+      ],
+      "description": "The celestial exemplar of wifely virtue and celibacy after widowhood, invoked as the ideal model for a widow who remains chaste.",
+      "justification": "Arundhatī is named in chapter 70 (p-198921) as the paradigmatic virtuous widow, whose world is the world of Brahmā."
+    },
+    {
+      "canonical_name": "Brahmā",
+      "surface_names": ["Brahmā", "Brahma"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-198921",
+          "quote": "she, with conduct like Arundhatī's, is glorified in the world of Brahmā",
+          "role": "divine realm promised to virtuous widows"
+        }
+      ],
+      "description": "The creator deity whose celestial world is promised as a posthumous reward for chaste widows who follow Arundhatī's example.",
+      "justification": "Brahmā's world (brahmaloka) is named in chapter 70 (p-198921) as the eschatological destination of the virtuous celibate widow."
+    },
+    {
+      "canonical_name": "the Self-existent One",
+      "surface_names": ["Self-existent One", "Svayambhū"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-18a088",
+          "quote": "For he was created by the Self-existent One for servitude itself.",
+          "role": "cosmic creator who ordained Shudra servitude"
+        }
+      ],
+      "description": "The self-born creator deity (identified with Brahmā or Manu-Svāyambhuva) invoked to cosmologically justify the Shudra's servile status.",
+      "justification": "The Self-existent One is cited in chapter 63 (p-18a088) as the divine authority behind the social ordering that places Shudras in servitude."
+    },
+    {
+      "canonical_name": "Lotus",
+      "surface_names": ["lotus"],
+      "kind": "object",
+      "mentions": [
+        {
+          "paragraph_id": "p-0edb58",
+          "quote": "those contiguous to the contiguous neighbors are declared to be in the shape of a lotus",
+          "role": "geometric metaphor for concentric neighborly witness rings"
+        }
+      ],
+      "description": "Used as a spatial metaphor to describe the concentric arrangement of neighboring landowners whose testimony is relevant in boundary disputes.",
+      "justification": "The lotus-shape comparison in chapter 64 (p-0edb58) is a descriptive legal concept explaining the layered witness hierarchy."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Commercial law and rescission of sale",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-1574a6",
+          "quote": "Rescission of Sale and Purchase, and Non-Delivery after Sale"
+        },
+        {
+          "paragraph_id": "p-915ac1",
+          "quote": "He who, having bought and received an article, does not take it, or does not give it if it is unflawed, shall, after paying a tenth part of the price, get his own article."
+        },
+        {
+          "paragraph_id": "p-ba40ab",
+          "quote": "A fraudulent contract, an exchange, or an unequal transaction by more than a third, and a purchase made even by command, may be annulled within ten years."
+        },
+        {
+          "paragraph_id": "p-a2299a",
+          "quote": "Even with a small payment of the price, the validity of the sale is established."
+        }
+      ],
+      "justification": "Chapter 62 is entirely devoted to rules for rescinding commercial transactions, penalties for non-delivery, and criteria for valid versus void sales."
+    },
+    {
+      "topic": "Slavery, servitude, and caste hierarchy",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-fbeb35",
+          "quote": "Bhṛgu declares that slavery arises from the voluntary surrender of one's independence, like that of a wife."
+        },
+        {
+          "paragraph_id": "p-18a088",
+          "quote": "But a Shudra he may make a slave, whether bought or not. For he was created by the Self-existent One for servitude itself."
+        },
+        {
+          "paragraph_id": "p-2617af",
+          "quote": "He who has intercourse with his own female slave, and she gives birth from it … she should be made free, and she is not a slave along with her issue."
+        }
+      ],
+      "justification": "Chapter 63 systematically maps slavery onto caste order, defines its origins, specifies who may and may not be enslaved, and addresses the status of slave offspring."
+    },
+    {
+      "topic": "Land rights, boundary determination, and neighborly testimony",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-23102b",
+          "quote": "Boundary Disputes"
+        },
+        {
+          "paragraph_id": "p-430d92",
+          "quote": "Excess or deficiency in a share, its existence or non-existence, enjoyment without title, and the boundary—these are the six causes of a land dispute."
+        },
+        {
+          "paragraph_id": "p-eccd03",
+          "quote": "Sometimes, one person desired by both may trace the boundary, placing earth on his head, wearing red garments, and being composed."
+        },
+        {
+          "paragraph_id": "p-12d13f",
+          "quote": "In the ordeal of walking the boundary, in the ordeal of the sacred water, and in the ordeal of touching the foot, a divine or royal calamity is expected within three fortnights, a fortnight, or a week."
+        }
+      ],
+      "justification": "Chapter 64 is entirely organized around the causes, witnesses, and resolution procedures for boundary and land-title disputes, including divine ordeals."
+    },
+    {
+      "topic": "Verbal injury, defamation, and its gradations",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-36f241",
+          "quote": "Verbal Assault"
+        },
+        {
+          "paragraph_id": "p-d192a5",
+          "quote": "A snort of contempt, a cough, and whatever is censured in the world, to imitate or repeat it, is called verbal assault (*vākpāruṣya*)."
+        },
+        {
+          "paragraph_id": "p-07de00",
+          "quote": "It is remembered as three-fold, due to its being harsh, abusive, or grave."
+        }
+      ],
+      "justification": "Chapter 65 classifies verbal injury into a three-tier taxonomy (harsh, abusive, grave) and specifies the conditions and fines for each type."
+    },
+    {
+      "topic": "Physical violence, bodily injury, and proportionate punishment",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-444138",
+          "quote": "Physical Assault"
+        },
+        {
+          "paragraph_id": "p-fb2b52",
+          "quote": "When a blow is struck to cause pain to men or animals, the punishment should be inflicted in proportion to the pain caused."
+        },
+        {
+          "paragraph_id": "p-52a9df",
+          "quote": "In case of destruction of the body or a sense organ, just as the punishment is fixed, so also should compensation for satisfaction be given, and the cost of recovery (*samutthāna*)."
+        }
+      ],
+      "justification": "Chapter 66 governs proportionate fines and compensation for bodily injury to both humans and animals, with specific attention to caste-sensitive scaling."
+    },
+    {
+      "topic": "Violent crime (sāhasa), self-defense, and the felonious aggressor (ātatāyin)",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-8edf27",
+          "quote": "An act that is done with force (*sahasā*) is declared to be a violent crime (*sāhasa*)."
+        },
+        {
+          "paragraph_id": "p-57acd4",
+          "quote": "One may kill without hesitation an aggressor who comes with the intent to destroy."
+        },
+        {
+          "paragraph_id": "p-fa31ce",
+          "quote": "one who violates another's wife, and one who is intent on finding a weakness—one should know these and the like to be all felonious aggressors (*ātatāyins*)."
+        }
+      ],
+      "justification": "Chapter 67 develops a specific legal concept of the ātatāyin (felonious aggressor) whose killing is lawful, and distinguishes categories of violent crime."
+    },
+    {
+      "topic": "Theft, property seizure, and state responsibility for crime",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-84f1ee",
+          "quote": "Theft"
+        },
+        {
+          "paragraph_id": "p-818f9e",
+          "quote": "Whether secretly or openly, by night or by day, whatever seizure of another's property occurs, that is declared to be theft (*steya*)."
+        },
+        {
+          "paragraph_id": "p-df5fc8",
+          "quote": "Whatever is stolen from anyone in his own country must be restored by the king. The king should himself search for and recover what was lost."
+        }
+      ],
+      "justification": "Chapter 68 defines theft broadly and places royal responsibility for restitution at the center of the theft regime."
+    },
+    {
+      "topic": "Sexual violence, complicity, and collective punishment",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-44424e",
+          "quote": "When a man forcibly has carnal enjoyment with women, he should be put to death, for that is a transgression of duty."
+        },
+        {
+          "paragraph_id": "p-4ad22c",
+          "quote": "The instigator, the accomplice, the one who shows the way, the one who gives shelter, the one who gives a weapon, and the one who gives food to wrongdoers"
+        },
+        {
+          "paragraph_id": "p-2c1e55",
+          "quote": "all are considered perpetrators of that act. One should fix a punishment for them according to their ability and role."
+        }
+      ],
+      "justification": "Chapter 69 extends criminal liability for sexual offenses to the full ring of enablers—instigators, helpers, bystanders—creating a doctrine of collective responsibility."
+    },
+    {
+      "topic": "Wifely duty, chastity, and the ideal of the devoted wife",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-64d13c",
+          "quote": "A wife who is not separated from her husband, being disciplined, should serve the sacred fire, desiring good fortune, the state of non-widowhood, and being devoted to her husband."
+        },
+        {
+          "paragraph_id": "p-198921",
+          "quote": "The virtuous woman who, after her husband's death, remains established in celibacy, she, with conduct like Arundhatī's, is glorified in the world of Brahmā."
+        }
+      ],
+      "justification": "Chapter 70 articulates the normative ideal for a wife's behavior both during marriage (serving the sacred fire) and after the husband's death (celibacy)."
+    },
+    {
+      "topic": "Partition of inheritance: rules, shares, and eligibility",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-d58e52",
+          "quote": "Partition of Inheritance"
+        },
+        {
+          "paragraph_id": "p-5c1b8a",
+          "quote": "When fathers and brothers take the entire mass of property in equal shares, that is called a righteous partition."
+        },
+        {
+          "paragraph_id": "p-6aa65c",
+          "quote": "The son of a woman married out of order, one born from a person of the same *gotra*, and one who has abandoned his ascetic vows—they are not entitled to the inheritance."
+        }
+      ],
+      "justification": "Chapter 71 is an extensive treatment of inheritance shares, eligible heirs, and disqualifications, including distinctions based on caste and marriage order."
+    },
+    {
+      "topic": "Impartible property: vidyādhana, valor-wealth, and strīdhana",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-85507d",
+          "quote": "Impartible Properties"
+        },
+        {
+          "paragraph_id": "p-2bb7a6",
+          "quote": "the wealth that is acquired by that learning is called wealth acquired through learning (*vidyāprāpta*)."
+        },
+        {
+          "paragraph_id": "p-7aa195",
+          "quote": "Wealth acquired through valor and through learning, and what is remembered as Woman's Property (*strīdhana*)—all this is not to be divided by the heirs at a partition."
+        }
+      ],
+      "justification": "Chapter 72 systematically enumerates classes of property immune from partition at inheritance: skill-wealth, valor-wealth, and women's property."
+    },
+    {
+      "topic": "Women's property (strīdhana): definition, types, and autonomy",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-27f589",
+          "quote": "The Definition and Types of Woman's Property"
+        },
+        {
+          "paragraph_id": "p-b8596e",
+          "quote": "Woman's Property (*strīdhana*) is remembered as six-fold."
+        },
+        {
+          "paragraph_id": "p-1677e2",
+          "quote": "Over *saudāyika* wealth, the independence of women is always declared, in sale and in gift at their pleasure, even in the case of immovable property."
+        },
+        {
+          "paragraph_id": "p-d79a71",
+          "quote": "Neither the husband, nor the son, nor the father, nor the brothers have power over *strīdhana* in taking or giving it away."
+        }
+      ],
+      "justification": "Chapters 75–76 constitute a dedicated treatise on strīdhana, establishing its six categories, its inviolability from male family members, and the one exception (saudāyika) where women have full independent disposal rights."
+    },
+    {
+      "topic": "Divine ordeal as legal proof",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-12d13f",
+          "quote": "In the ordeal of walking the boundary, in the ordeal of the sacred water, and in the ordeal of touching the foot, a divine or royal calamity is expected within three fortnights, a fortnight, or a week."
+        },
+        {
+          "paragraph_id": "p-82a255",
+          "quote": "If one cannot determine the cause of a physical assault by motive and other means, one should employ witnesses or a divine ordeal there."
+        }
+      ],
+      "justification": "Divine ordeals appear across chapters 64 and 66 as a residual evidentiary device when documentary and testimonial proof fails, reflecting a shared theological-legal logic underlying the text."
+    },
+    {
+      "topic": "King's duty to administer justice and protect subjects",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-df5fc8",
+          "quote": "Whatever is stolen from anyone in his own country must be restored by the king. The king should himself search for and recover what was lost."
+        },
+        {
+          "paragraph_id": "p-690070",
+          "quote": "For by the slavery of a Brahmin, the king's majesty is diminished."
+        },
+        {
+          "paragraph_id": "p-a44104",
+          "quote": "The king should carefully investigate what has been reported untruthfully."
+        },
+        {
+          "paragraph_id": "p-73ba7b",
+          "quote": "Those who are destroyers of their own country and those who block the highways, the king, having confiscated all their property, should have them impaled on a stake."
+        }
+      ],
+      "justification": "Throughout chapters 65–68, royal duty appears as an implicit organizing principle: the king investigates, restores stolen property, protects Brahmins, and punishes banditry — this is a background norm enabling the entire legal framework."
+    },
+    {
+      "topic": "Defect, fraud, and good faith in commercial transactions",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-fd947d",
+          "quote": "What was bought without being known to be defective, and is later found to be so, that must be returned to the owner if it is within the time limit."
+        },
+        {
+          "paragraph_id": "p-0e9650",
+          "quote": "He who, having shown a flawless article, delivers a flawed one, shall be made to pay double the price and an equal amount as a fine."
+        },
+        {
+          "paragraph_id": "p-770af8",
+          "quote": "What is sold by one who is intoxicated or insane, or for a low price out of fear, or by one who is not independent or is deluded, that must be given back to him."
+        }
+      ],
+      "justification": "Chapter 62 implicitly constructs a doctrine of good-faith dealing: consent and accurate representation are treated as conditions of a valid sale, with fraud or incapacity voiding the transaction."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "teachings/rulings of Bhṛgu",
+      "cited_author": "Bhṛgu",
+      "stance": "authority",
+      "paragraph_id": "p-fbeb35",
+      "quote": "Bhṛgu declares that slavery arises from the voluntary surrender of one's independence, like that of a wife.",
+      "justification": "The text explicitly attributes this legal ruling to Bhṛgu, treating him as a named authoritative source within the dharmaśāstra tradition."
+    },
+    {
+      "cited_work": "teachings/rulings of Bhṛgu",
+      "cited_author": "Bhṛgu",
+      "stance": "authority",
+      "paragraph_id": "p-4d7dfc",
+      "quote": "For cutting off the ear, lip, nose, foot, eye, tongue, penis, or hand, the highest fine; for splitting them, the middle fine, says Bhṛgu.",
+      "justification": "Bhṛgu is invoked as a named authority to confirm the graduated fines for bodily mutilation."
+    },
+    {
+      "cited_work": "teachings/rulings of Bṛhaspati",
+      "cited_author": "Bṛhaspati",
+      "stance": "authority",
+      "paragraph_id": "p-6d8cc0",
+      "quote": "A Kshatriya, Vaishya, or Shudra may sometimes be made to perform the work of a slave by one of the same caste, but never a Brahmin, says Bṛhaspati.",
+      "justification": "Bṛhaspati is cited as the source of the rule restricting Brahmin enslavement."
+    },
+    {
+      "cited_work": "teachings/rulings of Manu",
+      "cited_author": "Manu",
+      "stance": "authority",
+      "paragraph_id": "p-8d2588",
+      "quote": "For causing the death of living beings, one should give a substitute for it, or one should give its equivalent value; thus said Manu.",
+      "justification": "Manu is directly cited as the source of the rule on compensation for killing animals."
+    },
+    {
+      "cited_work": "school of Manu",
+      "cited_author": "Manu",
+      "stance": "authority",
+      "paragraph_id": "p-1ecf0c",
+      "quote": "The followers of Manu say that thieves caught with the stolen goods should be banished immediately.",
+      "justification": "The Manu school is cited as one of two opposing positions on the punishment of thieves caught in the act."
+    },
+    {
+      "cited_work": "school of Gautama",
+      "cited_author": "Gautama",
+      "stance": "refute",
+      "paragraph_id": "p-1ecf0c",
+      "quote": "This is disliked by the followers of Gautama, as it is censured for destroying a living being.",
+      "justification": "The Gautama school explicitly dissents from the Manu school position, making this a genuine intertextual dispute recorded in the text."
+    },
+    {
+      "cited_work": "teachings/rulings of Kauśika",
+      "cited_author": "Kauśika",
+      "stance": "authority",
+      "paragraph_id": "p-ecceef",
+      "quote": "Guarded in iron fetters, on a meager diet, and being strong, they should perform work for the king until death; thus says Kauśika.",
+      "justification": "Kauśika is named as the authoritative source for the rule mandating lifetime penal labor for thieves."
+    },
+    {
+      "cited_work": "teachings/rulings of Bṛhaspati",
+      "cited_author": "Bṛhaspati",
+      "stance": "authority",
+      "paragraph_id": "p-92d874",
+      "quote": "Among brothers in a family who have been educated by their father, whatever wealth is acquired through valor is to be divided, says Bṛhaspati.",
+      "justification": "Bṛhaspati is the named source for the rule on dividing valor-wealth among educated brothers."
+    },
+    {
+      "cited_work": "teachings/rulings of Bṛhaspati",
+      "cited_author": "Bṛhaspati",
+      "stance": "authority",
+      "paragraph_id": "p-2dcaef",
+      "quote": "Bṛhaspati says one should know that as wealth acquired through learning (*vidyādhana*), not to be divided.",
+      "justification": "Bṛhaspati is cited to confirm that wager-won learning-wealth is impartible."
+    },
+    {
+      "cited_work": "teachings/rulings of Bhṛgu",
+      "cited_author": "Bhṛgu",
+      "stance": "authority",
+      "paragraph_id": "p-817e7b",
+      "quote": "What is acquired by a promise of learning … this is wealth acquired through learning, says Bhṛgu.",
+      "justification": "Bhṛgu is named as the authority for this definition of vidyādhana."
+    },
+    {
+      "cited_work": "teachings/rulings of Bṛhaspati",
+      "cited_author": "Bṛhaspati",
+      "stance": "authority",
+      "paragraph_id": "p-323fe7",
+      "quote": "A pasture for cows, its protection, and clothing worn on the body are for use and not to be divided … says Bṛhaspati.",
+      "justification": "Bṛhaspati is cited as the source of the rule on impartible use-property in chapter 72."
+    },
+    {
+      "cited_work": "teachings/rulings of Bhṛgu",
+      "cited_author": "Bhṛgu",
+      "stance": "authority",
+      "paragraph_id": "p-611c9b",
+      "quote": "Whatever law of a country, caste, corporation, or village has been declared by Bhṛgu, one should arrange the partition of inheritance according to that.",
+      "justification": "Bhṛgu is invoked as a comprehensive legal authority whose rulings on local law govern inheritance partition."
+    },
+    {
+      "cited_work": "teachings/rulings of Bhṛgu",
+      "cited_author": "Bhṛgu",
+      "stance": "authority",
+      "paragraph_id": "p-c89ac8",
+      "quote": "Property that was mutually concealed … should be divided in equal shares, says Bhṛgu.",
+      "justification": "Bhṛgu is the named source for the rule on re-dividing discovered concealed property."
+    },
+    {
+      "cited_work": "teachings/rulings of Bhṛgu",
+      "cited_author": "Bhṛgu",
+      "stance": "authority",
+      "paragraph_id": "p-e81992",
+      "quote": "What is received by a woman out of affection after her marriage ceremony from her husband or parents, that is a subsequent gift (*anvādheya*), says Bhṛgu.",
+      "justification": "Bhṛgu is cited as the authority for classifying post-marriage gifts as anvādheya strīdhana."
+    },
+    {
+      "cited_work": "teachings/rulings of Bhṛgu",
+      "cited_author": "Bhṛgu",
+      "stance": "authority",
+      "paragraph_id": "p-d8dc21",
+      "quote": "Household utensils, vehicles, milch animals, ornaments, and servants, being visible, are divided. Bhṛgu said the treasury is divided when it is concealed.",
+      "justification": "Bhṛgu is cited to extend the partition rule to concealed treasury, contrasting with visible property."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "work_slug": "anne-finch-poems-8fd29f",
+  "work_title": "Poems",
+  "chapter_number": 84,
+  "chapter_title": "Democritus and his Neighbours. Imitated from Fontaine.",
+  "chapter_slug": "84-democritus-and-his-neighbours-imitated-from-font",
+  "author": "Anne Finch",
+  "author_slug": "anne-finch",
+  "ecpa_poem_id": "o4784-w0840",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "imitation",
+      "translation"
+    ],
+    "rhyme": "irregular",
+    "metrical_pattern": "irregular",
+    "line_count": 73
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "37de92f5-be48-596f-a84f-a2ac72945de2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 525,
+      "line_count": 75,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

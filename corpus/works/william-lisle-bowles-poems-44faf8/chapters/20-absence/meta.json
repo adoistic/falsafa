@@ -1,0 +1,41 @@
+{
+  "work_slug": "william-lisle-bowles-poems-44faf8",
+  "work_title": "Poems",
+  "chapter_number": 20,
+  "chapter_title": "ABSENCE.",
+  "chapter_slug": "20-absence",
+  "author": "William Lisle Bowles",
+  "author_slug": "william-lisle-bowles",
+  "ecpa_poem_id": "glb19-w0200",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "sonnet"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "rhyme": "abbacddceffegg",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 14
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b5bf7a08-6c94-53c1-b8c7-5af01fed2e06",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 114,
+      "line_count": 15,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

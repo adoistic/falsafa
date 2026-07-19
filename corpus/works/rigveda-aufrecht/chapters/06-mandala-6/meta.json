@@ -1,0 +1,38 @@
+{
+  "work_slug": "rigveda-aufrecht",
+  "work_title": "Rigveda",
+  "chapter_number": 6,
+  "chapter_title": "Maṇḍala 6",
+  "chapter_slug": "06-mandala-6",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "2f0ed523-3968-5ae1-bfbe-56b0dba8da6e",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 14525,
+      "paragraph_count": 765,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ab769d7a-846a-504d-a1f5-d10c1dfcf1fe",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 24420,
+      "paragraph_count": 765,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    }
+  ]
+}

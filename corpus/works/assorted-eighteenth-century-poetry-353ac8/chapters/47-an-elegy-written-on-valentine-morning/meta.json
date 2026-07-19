@@ -1,0 +1,45 @@
+{
+  "work_slug": "assorted-eighteenth-century-poetry-353ac8",
+  "work_title": "An Assorted Collection of Eighteenth-Century Poetry",
+  "chapter_number": 47,
+  "chapter_title": "An ELEGY, written on VALENTINE Morning.",
+  "chapter_slug": "47-an-elegy-written-on-valentine-morning",
+  "author": "Anonymous",
+  "author_slug": "anonymous",
+  "ecpa_poem_id": "o5157-w0400",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic quatrain",
+      "elegy"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "10.10.10.10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/         -+|-+|-+|-+|-+/         -+|-+|-+|-+|-+/         -+|-+|-+|-+|-+/",
+    "line_count": 92
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "736ad122-8008-55a0-bdb1-9f0f0a8e71b9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 731,
+      "line_count": 94,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

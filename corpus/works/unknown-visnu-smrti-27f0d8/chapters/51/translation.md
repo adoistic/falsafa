@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 51**
+**Viṣṇu Smriti 51**
 
 A *surāpa* (a liquor-drinker), excluded from all rites, shall eat grain-husks for a year. // Vi_51.1 //
 

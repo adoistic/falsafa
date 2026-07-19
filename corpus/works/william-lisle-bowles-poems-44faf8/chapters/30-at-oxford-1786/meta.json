@@ -1,0 +1,41 @@
+{
+  "work_slug": "william-lisle-bowles-poems-44faf8",
+  "work_title": "Poems",
+  "chapter_number": 30,
+  "chapter_title": "AT OXFORD, 1786.",
+  "chapter_slug": "30-at-oxford-1786",
+  "author": "William Lisle Bowles",
+  "author_slug": "william-lisle-bowles",
+  "ecpa_poem_id": "glb19-w0300",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "sonnet"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "rhyme": "abbacddceffegg",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 14
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0a37f4b6-263f-56c0-a50f-d4f2561508c6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 121,
+      "line_count": 15,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

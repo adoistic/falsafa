@@ -1,0 +1,44 @@
+{
+  "work_slug": "john-gay-poems-1b43b7",
+  "work_title": "Poems",
+  "chapter_number": 31,
+  "chapter_title": "FABLE [30] XXX. The Setting-dog and the Partridge.",
+  "chapter_slug": "31-fable-30-xxx-the-setting-dog-and-the-partridge",
+  "author": "John Gay",
+  "author_slug": "john-gay",
+  "ecpa_poem_id": "ojg27-w0310",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "fable"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 38
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "fa783b61-de3a-57ff-8f11-d660e038fe2b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 249,
+      "line_count": 40,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

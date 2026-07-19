@@ -1,0 +1,44 @@
+{
+  "work_slug": "anne-finch-poems-8fd29f",
+  "work_title": "Poems",
+  "chapter_number": 25,
+  "chapter_title": "The CAUTIOUS LOVERS.",
+  "chapter_slug": "25-the-cautious-lovers",
+  "author": "Anne Finch",
+  "author_slug": "anne-finch",
+  "ecpa_poem_id": "o4784-w0250",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "epigram"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "8.6.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 56
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3d105839-cd8e-5994-b814-db90f0f2f630",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 327,
+      "line_count": 57,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "work_slug": "ann-radcliffe-poems-d56a37",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "TO THE VISIONS OF FANCY.",
+  "chapter_slug": "01-to-the-visions-of-fancy",
+  "author": "Ann Radcliffe",
+  "author_slug": "ann-radcliffe",
+  "ecpa_poem_id": "par19-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "sonnet"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "rhyme": "ababcdcdefefgg",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 14
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "67b8c881-c272-5058-b560-45f42123208d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 117,
+      "line_count": 15,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

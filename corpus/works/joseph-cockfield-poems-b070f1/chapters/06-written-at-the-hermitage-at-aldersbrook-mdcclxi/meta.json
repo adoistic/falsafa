@@ -1,0 +1,41 @@
+{
+  "work_slug": "joseph-cockfield-poems-b070f1",
+  "work_title": "Poems",
+  "chapter_number": 6,
+  "chapter_title": "WRITTEN AT THE HERMITAGE AT ALDERSBROOK, MDCCLXI.",
+  "chapter_slug": "06-written-at-the-hermitage-at-aldersbrook-mdcclxi",
+  "author": "Joseph Cockfield",
+  "author_slug": "joseph-cockfield",
+  "ecpa_poem_id": "o4987-w0460",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "sonnet"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "rhyme": "ababcdcdefefgg",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 14
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "56ba8174-3924-59c4-bc9b-99adf0efa1aa",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 121,
+      "line_count": 16,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

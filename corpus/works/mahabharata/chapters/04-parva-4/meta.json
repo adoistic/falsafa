@@ -1,0 +1,38 @@
+{
+  "work_slug": "mahabharata",
+  "work_title": "Mahābhārata",
+  "chapter_number": 4,
+  "chapter_title": "Parva 4",
+  "chapter_slug": "04-parva-4",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "c8aa304c-19e9-51b3-b3ca-3446a3b93698",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 24629,
+      "paragraph_count": 1824,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "63f8909e-e102-5999-a583-813b959a8b41",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 46973,
+      "paragraph_count": 1824,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    }
+  ]
+}

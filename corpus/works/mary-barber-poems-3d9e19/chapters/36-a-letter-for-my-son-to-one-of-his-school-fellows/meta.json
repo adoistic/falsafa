@@ -1,0 +1,44 @@
+{
+  "work_slug": "mary-barber-poems-3d9e19",
+  "work_title": "Poems",
+  "chapter_number": 36,
+  "chapter_title": "A Letter for my Son to one of his School-fellows, Son to Henry Rose, Esq;",
+  "chapter_slug": "36-a-letter-for-my-son-to-one-of-his-school-fellows",
+  "author": "Mary Barber",
+  "author_slug": "mary-barber",
+  "ecpa_poem_id": "pba35-w0360",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "epistle"
+    ],
+    "foot": "anapaestic (˘˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "12",
+    "metrical_pattern": "--+|--+|--+|--+/",
+    "line_count": 32
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3d3fb011-4ec6-5090-810e-d818cec0aea1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 305,
+      "line_count": 33,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

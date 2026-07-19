@@ -1,0 +1,45 @@
+{
+  "work_slug": "john-wesley-poems-176469",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "The CHANGE. From the German.",
+  "chapter_slug": "04-the-change-from-the-german",
+  "author": "John Wesley",
+  "author_slug": "john-wesley",
+  "ecpa_poem_id": "o3900-w0640",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "hymn",
+      "translation"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "octet (8 lines)"
+    ],
+    "rhyme": "ababcdcd",
+    "syllable_pattern": "8.8.8.8.8.8.8.8",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/",
+    "line_count": 48
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "411379e0-185d-5094-8e53-54637fda9aff",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 339,
+      "line_count": 56,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

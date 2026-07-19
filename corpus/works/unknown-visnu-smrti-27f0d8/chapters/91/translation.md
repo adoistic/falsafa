@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 91**
+**Viṣṇu Smriti 91**
 
 Now, for the maker of a well, half of his evil deeds perish when water begins to flow in it. // Vi_91.1 //
 

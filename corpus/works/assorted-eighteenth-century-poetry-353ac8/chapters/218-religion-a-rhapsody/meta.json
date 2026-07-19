@@ -1,0 +1,44 @@
+{
+  "work_slug": "assorted-eighteenth-century-poetry-353ac8",
+  "work_title": "An Assorted Collection of Eighteenth-Century Poetry",
+  "chapter_number": 218,
+  "chapter_title": "RELIGION. A RHAPSODY.",
+  "chapter_slug": "218-religion-a-rhapsody",
+  "author": "George Alexander Stevens",
+  "author_slug": "george-alexander-stevens",
+  "ecpa_poem_id": "o4154-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 179
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7fb651e8-a9e2-5699-a5b3-5b06ebc2cfb5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1351,
+      "line_count": 181,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

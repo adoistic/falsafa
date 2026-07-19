@@ -1,0 +1,42 @@
+{
+  "work_slug": "ann-yearsley-poems-4d0e6f",
+  "work_title": "Poems",
+  "chapter_number": 13,
+  "chapter_title": "ADDRESS TO FRIENDSHIP.",
+  "chapter_slug": "13-address-to-friendship",
+  "author": "Ann Yearsley",
+  "author_slug": "ann-yearsley",
+  "ecpa_poem_id": "pye85-w0130",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "blank verse",
+      "address",
+      "fragment"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 86
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "85342781-7d0d-552f-b4fb-ed5baa8a5434",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 617,
+      "line_count": 87,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

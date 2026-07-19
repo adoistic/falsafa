@@ -1,0 +1,42 @@
+{
+  "work_slug": "edward-young-poems-c01d7e",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "[The Complaint: or, Night-Thoughts on Life, Death & Immortality.] Night I. On life, death, and immortality.",
+  "chapter_slug": "01-the-complaint-or-night-thoughts-on-life-death-im",
+  "author": "Edward Young",
+  "author_slug": "edward-young",
+  "ecpa_poem_id": "ayo19-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "blank verse",
+      "meditation",
+      "graveyard school"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 461
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "cce387d8-bbf3-5f06-92bf-e162b36da147",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3476,
+      "line_count": 464,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

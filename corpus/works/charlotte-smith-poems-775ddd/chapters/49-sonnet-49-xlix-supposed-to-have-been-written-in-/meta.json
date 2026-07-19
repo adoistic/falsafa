@@ -1,0 +1,41 @@
+{
+  "work_slug": "charlotte-smith-poems-775ddd",
+  "work_title": "Poems",
+  "chapter_number": 49,
+  "chapter_title": "SONNET [49] XLIX. Supposed to have been written in a Church Yard, over the Grave of a Young Woman of nineteen. From the Novel of Celestina.",
+  "chapter_slug": "49-sonnet-49-xlix-supposed-to-have-been-written-in-",
+  "author": "Charlotte Smith",
+  "author_slug": "charlotte-smith",
+  "ecpa_poem_id": "n22cs-w0490",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "sonnet"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "rhyme": "ababcddcefefgg",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 14
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8e2bcf78-3174-573d-9076-46cd8846a586",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 135,
+      "line_count": 15,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

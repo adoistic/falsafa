@@ -1,0 +1,44 @@
+{
+  "work_slug": "robert-burns-poems-a27207",
+  "work_title": "Poems",
+  "chapter_number": 23,
+  "chapter_title": "EPISTLE TO A YOUNG FRIEND.",
+  "chapter_slug": "23-epistle-to-a-young-friend",
+  "author": "Robert Burns",
+  "author_slug": "robert-burns",
+  "ecpa_poem_id": "cbu86-w0230",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "epistle"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "octet (8 lines)"
+    ],
+    "rhyme": "ababcdcd",
+    "syllable_pattern": "8.8.8.8.8.8.8.8",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/",
+    "line_count": 88
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "48fec175-07cc-550b-b852-d4b333d5030b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 498,
+      "line_count": 100,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

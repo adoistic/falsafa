@@ -1,0 +1,44 @@
+{
+  "work_slug": "sarah-fyge-egerton-poems-e1b5c5",
+  "work_title": "Poems",
+  "chapter_number": 9,
+  "chapter_title": "On my leaving London, June the 29.",
+  "chapter_slug": "09-on-my-leaving-london-june-the-29",
+  "author": "Sarah Fyge Egerton",
+  "author_slug": "sarah-fyge-egerton",
+  "ecpa_poem_id": "pse03-w0080",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 41
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6bd18d03-ac7e-5c8f-9040-9b78c4fb42e2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 336,
+      "line_count": 42,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "work_slug": "elizabeth-hands-poems-def5d6",
+  "work_title": "Poems",
+  "chapter_number": 18,
+  "chapter_title": "The RURAL MAID in LONDON, To her FRIEND in the COUNTRY. An EPISTLE.",
+  "chapter_slug": "18-the-rural-maid-in-london-to-her-friend-in-the-co",
+  "author": "Elizabeth Hands",
+  "author_slug": "elizabeth-hands",
+  "ecpa_poem_id": "peh89-w0180",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "epistle"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 40
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "556534cf-142e-5b32-9f27-8dc440638410",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 333,
+      "line_count": 42,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

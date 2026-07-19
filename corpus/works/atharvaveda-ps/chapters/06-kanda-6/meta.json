@@ -1,0 +1,38 @@
+{
+  "work_slug": "atharvaveda-ps",
+  "work_title": "Atharvaveda (Paippalāda)",
+  "chapter_number": 6,
+  "chapter_title": "Kāṇḍa 6",
+  "chapter_slug": "06-kanda-6",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "f404a34e-7fae-5c48-b502-be2a1c6e0729",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 3712,
+      "paragraph_count": 234,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "53dcc32c-ffd4-51f0-9b3c-a14546d0671f",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 6385,
+      "paragraph_count": 234,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    }
+  ]
+}

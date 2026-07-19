@@ -1,0 +1,38 @@
+{
+  "work_slug": "abhinavagupta-paramarthasara-3b0d5e",
+  "work_title": "Paramārthasāra",
+  "chapter_number": 2,
+  "chapter_title": "Emanation: how the one Lord manifests the fourfold universe and the 36 tattvas",
+  "chapter_slug": "02-emanation-how-the-one-lord-manifests-the-fourfold-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "f58db1b8-a789-5e10-a83d-3bd6c6c538d6",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "iast",
+      "word_count": 139,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "504a64f5-7b29-5ae2-8870-b2c646de1c51",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 398,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    }
+  ]
+}

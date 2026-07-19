@@ -1,0 +1,46 @@
+{
+  "work_slug": "mary-leapor-poems-1431de",
+  "work_title": "Poems",
+  "chapter_number": 6,
+  "chapter_title": "DAMON and STREPHON. A Pastoral Complaint.",
+  "chapter_slug": "06-damon-and-strephon-a-pastoral-complaint",
+  "author": "Mary Leapor",
+  "author_slug": "mary-leapor",
+  "ecpa_poem_id": "o5125-w0060",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "pastoral",
+      "dialogue"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 45
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d9fa1861-e579-57c1-869a-1a442f4e7ad4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 385,
+      "line_count": 58,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

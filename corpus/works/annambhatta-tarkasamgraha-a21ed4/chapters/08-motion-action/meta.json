@@ -1,0 +1,38 @@
+{
+  "work_slug": "annambhatta-tarkasamgraha-a21ed4",
+  "work_title": "Tarkasaṃgraha",
+  "chapter_number": 8,
+  "chapter_title": "Motion / Action",
+  "chapter_slug": "08-motion-action",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "799cd5e4-ea38-5057-abab-8ac8e8c9d506",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "iast",
+      "word_count": 22,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3211f636-4cdc-59af-b30f-70fd05f33816",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 74,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    }
+  ]
+}

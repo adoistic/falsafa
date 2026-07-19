@@ -1,0 +1,45 @@
+{
+  "work_slug": "matthew-prior-poems-26b760",
+  "work_title": "Poems",
+  "chapter_number": 79,
+  "chapter_title": "AN ODE, Humbly Inscrib'd to the QUEEN. ON THE Glorious Success OF Her MAJESTY's Arms, 1706. Written in Imitation of Spencer's Style.",
+  "chapter_slug": "79-an-ode-humbly-inscribd-to-the-queen-on-the-glori",
+  "author": "Matthew Prior",
+  "author_slug": "matthew-prior",
+  "ecpa_poem_id": "pmp18-w0730",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "Spenserian stanza",
+      "narrative verse"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "ten-line stanza"
+    ],
+    "rhyme": "ababcdcdee",
+    "syllable_pattern": "10.10.10.10.10.10.10.10.10.12",
+    "metrical_pattern": "-+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+|-+/",
+    "line_count": 350
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "85ad7b8c-8fb5-5455-8aa6-c28ecc613d71",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2754,
+      "line_count": 387,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

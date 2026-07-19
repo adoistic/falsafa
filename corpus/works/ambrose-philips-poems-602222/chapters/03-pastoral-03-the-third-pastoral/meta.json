@@ -1,0 +1,45 @@
+{
+  "work_slug": "ambrose-philips-poems-602222",
+  "work_title": "Poems",
+  "chapter_number": 3,
+  "chapter_title": "[PASTORAL 03] THE THIRD PASTORAL.",
+  "chapter_slug": "03-pastoral-03-the-third-pastoral",
+  "author": "Ambrose Philips",
+  "author_slug": "ambrose-philips",
+  "ecpa_poem_id": "sap09-w0030",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "pastoral"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 108
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "21ff8c0f-5392-5cc1-8cd1-b59174586a4b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 833,
+      "line_count": 112,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

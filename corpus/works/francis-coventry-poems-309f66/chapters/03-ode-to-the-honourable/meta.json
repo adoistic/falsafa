@@ -1,0 +1,39 @@
+{
+  "work_slug": "francis-coventry-poems-309f66",
+  "work_title": "Poems",
+  "chapter_number": 3,
+  "chapter_title": "ODE to the Honourable ****",
+  "chapter_slug": "03-ode-to-the-honourable",
+  "author": "Francis Coventry",
+  "author_slug": "francis-coventry",
+  "ecpa_poem_id": "o5157-w0420",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "rhyme": "abab",
+    "line_count": 44
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2d1facd2-cd53-5b22-9382-228ff79bd32c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 299,
+      "line_count": 46,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

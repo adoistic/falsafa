@@ -1,0 +1,42 @@
+{
+  "work_slug": "nahum-tate-poems-b3db78",
+  "work_title": "Poems",
+  "chapter_number": 30,
+  "chapter_title": "Sliding on Skates in very hard Frost.",
+  "chapter_slug": "30-sliding-on-skates-in-very-hard-frost",
+  "author": "Nahum Tate",
+  "author_slug": "nahum-tate",
+  "ecpa_poem_id": "oat77-w0300",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)",
+      "triplet (3 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 14
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "07cc50ce-fc67-5f86-a455-6adf7da57c83",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 111,
+      "line_count": 15,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

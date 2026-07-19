@@ -1,0 +1,40 @@
+{
+  "work_slug": "mary-leapor-poems-1431de",
+  "work_title": "Poems",
+  "chapter_number": 38,
+  "chapter_title": "The FIELDS of MELANCHOLY and CHEARFULNESS.",
+  "chapter_slug": "38-the-fields-of-melancholy-and-chearfulness",
+  "author": "Mary Leapor",
+  "author_slug": "mary-leapor",
+  "ecpa_poem_id": "o5125-w0380",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "blank verse"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 173
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2cd58db3-bba2-5b2f-9f32-b5927552a337",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1331,
+      "line_count": 174,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

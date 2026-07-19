@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 28**
+**Viṣṇu Smriti 28**
 
 Now, the residence in the teacher's household for a *brahmacārī* (a religious student under a vow of celibacy). // Vi_28.1 //
 

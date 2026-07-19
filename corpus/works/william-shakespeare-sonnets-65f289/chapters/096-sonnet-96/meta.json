@@ -1,0 +1,28 @@
+{
+  "work_slug": "william-shakespeare-sonnets-65f289",
+  "work_title": "Sonnets",
+  "chapter_number": 96,
+  "chapter_title": "Sonnet 96",
+  "chapter_slug": "096-sonnet-96",
+  "incipit": "Some say thy fault is youth, some wantonness;",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ecfb3f68-3cca-5b5b-909b-ccd23a7a0c58",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 120,
+      "line_count": 14,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1041",
+      "license": "Public domain — from Project Gutenberg (https://www.gutenberg.org)"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "work_slug": "christian-carstairs-poems-cdca30",
+  "work_title": "Poems",
+  "chapter_number": 30,
+  "chapter_title": "To Miss M— B.",
+  "chapter_slug": "30-to-miss-m-b",
+  "author": "Christian Carstairs",
+  "author_slug": "christian-carstairs",
+  "ecpa_poem_id": "pcc86-w0300",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "address"
+    ],
+    "foot": "trochaic (′˘)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "7",
+    "metrical_pattern": "+-|+-|+-|+/",
+    "line_count": 12
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2e085f70-695c-5f7f-92ae-ebd0583518e7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 75,
+      "line_count": 13,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

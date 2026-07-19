@@ -1,0 +1,44 @@
+{
+  "work_slug": "matthew-prior-poems-26b760",
+  "work_title": "Poems",
+  "chapter_number": 11,
+  "chapter_title": "TO THE COUNTESS of DORSET. Written in her Milton.",
+  "chapter_slug": "11-to-the-countess-of-dorset-written-in-her-milton",
+  "author": "Matthew Prior",
+  "author_slug": "matthew-prior",
+  "ecpa_poem_id": "pmp18-w0060",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "address"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "octet (8 lines)"
+    ],
+    "rhyme": "aabbccdd",
+    "syllable_pattern": "10.10.10.10.10.10.10.10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/",
+    "line_count": 8
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "93078e5b-0d28-5a67-a82b-8334dc9ce4c4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 78,
+      "line_count": 11,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

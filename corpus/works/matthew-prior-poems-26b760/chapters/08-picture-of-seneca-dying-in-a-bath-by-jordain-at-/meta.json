@@ -1,0 +1,44 @@
+{
+  "work_slug": "matthew-prior-poems-26b760",
+  "work_title": "Poems",
+  "chapter_number": 8,
+  "chapter_title": "Picture of Seneca dying in a Bath. By Jordain. At the Right Honorable the Earl of Exeter's at Burleigh-House.",
+  "chapter_slug": "08-picture-of-seneca-dying-in-a-bath-by-jordain-at-",
+  "author": "Matthew Prior",
+  "author_slug": "matthew-prior",
+  "ecpa_poem_id": "pmp18-w0030",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "occasional poem"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 14
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4bfca074-c9be-595d-a987-04f4f6d643af",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 105,
+      "line_count": 15,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

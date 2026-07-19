@@ -1,0 +1,38 @@
+{
+  "work_slug": "mahabharata",
+  "work_title": "Mahābhārata",
+  "chapter_number": 6,
+  "chapter_title": "Parva 6",
+  "chapter_slug": "06-parva-6",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "097122cf-9d8d-5bfe-bcdf-83b4a5327a86",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 68788,
+      "paragraph_count": 5406,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "aa8f6a55-7c01-527c-bfdf-a7ecf98883a9",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 136587,
+      "paragraph_count": 5406,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    }
+  ]
+}

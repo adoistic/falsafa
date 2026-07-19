@@ -1,0 +1,48 @@
+{
+  "work_slug": "soame-jenyns-poems-cf7af8",
+  "work_title": "Poems",
+  "chapter_number": 13,
+  "chapter_title": "On the IMMORTALITY of the SOUL.",
+  "chapter_slug": "13-on-the-immortality-of-the-soul",
+  "author": "Soame Jenyns",
+  "author_slug": "soame-jenyns",
+  "ecpa_poem_id": "o5157-w0090",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "philosophic poetry",
+      "imitation",
+      "translation",
+      "paraphrase"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 830
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8aee3592-8587-5395-9b1a-741c7c59660e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6280,
+      "line_count": 835,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

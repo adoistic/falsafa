@@ -1,0 +1,38 @@
+{
+  "work_slug": "elizabeth-rowe-poems-3be553",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "To Mr. — — on his POEM.",
+  "chapter_slug": "04-to-mr-on-his-poem",
+  "author": "Elizabeth Rowe",
+  "author_slug": "elizabeth-rowe",
+  "ecpa_poem_id": "oar96-w0030",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "rhyme": "irregular",
+    "metrical_pattern": "irregular",
+    "line_count": 21
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "53b6717c-3182-5862-91d4-b2d8f66153c1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 158,
+      "line_count": 24,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

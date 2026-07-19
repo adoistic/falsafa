@@ -1,0 +1,45 @@
+{
+  "work_slug": "matthew-prior-poems-26b760",
+  "work_title": "Poems",
+  "chapter_number": 96,
+  "chapter_title": "The THIEF AND THE CORDELIER, A BALLAD.",
+  "chapter_slug": "96-the-thief-and-the-cordelier-a-ballad",
+  "author": "Matthew Prior",
+  "author_slug": "matthew-prior",
+  "ecpa_poem_id": "pmp18-w0900",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ballad metre",
+      "refrain"
+    ],
+    "foot": "anapaestic (˘˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "aabb",
+    "syllable_pattern": "12.12.12.12",
+    "metrical_pattern": "--+|--+|--+|--+/ --+|--+|--+|--+/ --+|--+|--+|--+/ --+|--+|--+|--+/",
+    "line_count": 48
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b859938d-9b8a-55fe-987c-8cb43a21f9a5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 460,
+      "line_count": 49,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

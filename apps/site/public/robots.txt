@@ -1,0 +1,7 @@
+# Falsafa — https://falsafa.ai
+# LLM/agent discovery: /llms.txt (curated) and /llms-full.txt (complete index)
+
+User-agent: *
+Allow: /
+
+Sitemap: https://falsafa.ai/sitemap-index.xml

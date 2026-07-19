@@ -1,0 +1,343 @@
+---
+work_id: "cd25864e-7679-52be-ba0b-2f8796bfc12b"
+work_slug: "atharvaveda-ps"
+work_title: Atharvaveda (Paippalāda)
+author_name: Anonymous (Vedic)
+chapter_number: 14
+chapter_title: Kāṇḍa 14
+chapter_slug: "14-kanda-14"
+variant_id: "b8251c9f-d8bd-5fe5-8b2b-0ff84dcb9b9e"
+content_type: transliteration
+layout: verse
+language: Sanskrit
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 1464
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
+transliterator: thothica
+---
+
+**14.1.1**
+
+endro bāhubhyām abharac cikitvān apo devīr varuṇāya prajānan | tam ādityā abhy aṣiñcanta sarve rājānam ugraṃ bṛhate raṇāya tā na āpo rājasūyā avantu ||
+
+**14.1.2**
+
+hiraṇyavarṇā iti catasraḥ ||
+
+**14.1.6**
+
+apo devīr madhumatīr agṛhṇata- -ūrjasvatī rājasūyā mayobhuvaḥ | yābhir mitrāvaruṇāv abhyasiñcan tāḥ (…) ||
+
+**14.1.7**
+
+varuṇena preṣitā yanti śubhrā utsaṃ devīr dadhate yā hiraṇyayam | yā brahmaṇā punate saṃvidānās tāḥ (…) ||
+
+**14.1.8**
+
+apaḥ samudrād divam ud vahanti divas pṛthivīm abhi yāḥ sṛjanti | yābhir īśānā marutaś caranti tāḥ (…) ||
+
+**14.1.9**
+
+yā amṛtaṃ bibhrati yā madhu priyaṃ yā agṛbhṇan ṛṣayo devasakhye | yābhir indram aty anayann arātīs tāḥ (…) ||
+
+**14.1.10**
+
+yā jīvadhanyā dhanam utpṛṇanti devāyate dāśuṣe martyāya | yāsāṃ payo akṣitam akṣitānāṃ tāḥ (…) ||
+
+**14.2.1**
+
+hiraṇyaupaśā dhvajanīḥ punānā yāḥ samudram abhyarcanti dhenavaḥ | yāḥ parjanyo vahaty antarikṣe tāḥ (…) ||
+
+**14.2.2**
+
+rathantare bṛhati gīyamāne kṣatraṃ jinvanti pra tiranty āyuḥ | yābhis trayān vājino vājayanti tāḥ (…) ||
+
+**14.2.3**
+
+yābhiḥ saha vṛtrahā somam indro vasor īśāno apibat sutasya | yāḥ sapta ṛṣayaḥ kavayaḥ punanti tāḥ (…) ||
+
+**14.2.4**
+
+sapta ṛṣayo bharatam abhy aṣiñcann āsmin rāṣṭram adadhur dakṣiṇāvat | prajāyai manum asumavanta devās tāḥ (…) ||
+
+**14.2.5**
+
+yābhir yajñaṃ prāñcam ukṣayanti dhīrā yābhiḥ somaṃ madhupṛcaṃ punanti | yābhir idaṃ jīvati viśvam ejat tāḥ (…) ||
+
+**14.2.6**
+
+yāsāṃ stokā madhumayā babhūvur ghṛtaṃ saṃjñānaṃ madhu pinvate yāḥ | yāḥ soma āpaḥ praṇayanti brahmaṇā tāḥ (…) ||
+
+**14.2.7**
+
+yāsāṃ pador ājyaṃ vājinaṃ tu somasya prasavam anu yāḥ pavante | antarvatīs taruṇavatsā ghṛtācīs tā na āpo rājasūyā avantu ||
+
+**14.2.8**
+
+ajījananta matayaḥ svarvida ā brahmaṇā sūktadheyāny aguḥ | asūṣuta rājasūyāḥ payāṃsi prāsāvīd devaḥ savitā bhuvanāni viśvā ||
+
+**14.2.9**
+
+somo rājā bhavo rājā paśupatiḥ paśūnāṃ varuṇo dhṛtavrataḥ | ye rājasūye asūyanta devās te te kṣatraṃ dadhatv āyur ojaḥ ||
+
+**14.2.10**
+
+āsthād ud asthād ajaniṣṭa vipro mṛdho vy āsthad aśasīta bāhū | āre avādhiṣṭa nirṛtiṃ parācaiḥ samapṛkta raśmibhiḥ sūryaś ca ||
+
+**14.3.1**
+
+apaśyaṃ tvāvarohantaṃ divataḥ pṛthivīm iva | apaśyam asyantaṃ rudraṃ nīlagrīvaṃ śikhaṇḍinam ||
+
+**14.3.2**
+
+diva ugro 'vārukṣat praty aṣṭhād bhūmyām adhi | janāsaḥ paśyatemaṃ nīlagrīvaṃ vilohitam ||
+
+**14.3.3**
+
+eṣa aity avīrahā rudro jalāṣabheṣajī | vi te kṣepam anīnaśad vātīkāro vy etu te ||
+
+**14.3.4**
+
+namas te bhava bhāmāya namas te bhava manyave | namas te astu bāhūbhyām uto ta iṣave namaḥ ||
+
+**14.3.5**
+
+yām iṣaṃ giriśanta haste bibharṣy astave | śivāṃ giriśa tāṃ kṛṇu mā hiṃsīḥ puruṣān mama ||
+
+**14.3.6**
+
+śivena vacasā tvā giriśācchā vadāmasi | yathā naḥ sarvam ij jagad ayakṣmaṃ sumano asat ||
+
+**14.3.7**
+
+yā ta iṣuḥ śivatamā śivaṃ babhūva te dhanuḥ | śivā śaravyā yā tava tayā no mṛḍa jīvase ||
+
+**14.3.8**
+
+yā te rudra śivā tanūr aghorāpāpakāśinī | tayā nas tanvā śantamayā giriśantābhi cākaśa ||
+
+**14.3.9**
+
+asau yas tāmro aruṇa uta babhrur vilohitaḥ | ye ceme abhito rudrā dikṣu śritāḥ sahasraśo 'vaiṣāṃ heḍa īmahe ||
+
+**14.3.10**
+
+adṛśaṃ tvāvarohantaṃ nīlagrīvaṃ vilohitam | uta tvā gopā adṛśann uta tvodāhāryaḥ | uto tvā viśvā bhūtāni tasmai dṛṣṭāya te namaḥ ||
+
+**14.4.1**
+
+namo 'stu nīlaśikhaṇḍāya sahasrākṣāya vājine | atho ye asya satvānas tebhyo 'ham akaraṃ namaḥ ||
+
+**14.4.2**
+
+namāṃsi ta āyudhāya- -anātatāya dhṛṣṇave | ubhābhyām akaraṃ namo bāhubhyāṃ tava dhanvane ||
+
+**14.4.3**
+
+pra muñca dhanvanas pary ubhayor ātnyor jyām | yāś ca te hasta iṣavaḥ parā tā bhagavo vapa ||
+
+**14.4.4**
+
+avatatya dhanus tvaṃ sahasrākṣa śateṣudhe | niśīrya śalyānāṃ mukhā śivo naḥ śambhur ā cara ||
+
+**14.4.5**
+
+vijyaṃ dhanuḥ śikhaṇḍino viśalyo bāṇavām̐ uta | aneśann asyeṣavaḥ śivo asya niṣaṅgatiḥ ||
+
+**14.4.6**
+
+pari te dhanvano hetir asmān vṛṇaktu viśvataḥ | atho ya iṣudhis tava- -āre asmin ni dhehi tam ||
+
+**14.4.7**
+
+yā te hetir mīḍhuṣṭama haste babhūva te dhanuḥ | tayā tvaṃ viśvato asmān ayakṣmayā pari bhuja ||
+
+**14.5.1**
+
+supārśvā kāmadughā na āgañ chataudanā payasā pinvamānā | ūrjaṃ duhānā anapasphurantī yajamānasya pra tiranty āyuḥ ||
+
+**14.5.2**
+
+gṛbhṇāmi medhyām uśatīṃ svastaya ūrjasvatīm anamīvāṃ svādhyām | viśvo loko mama deveṣv astu śataudanāṃ śraddadhānaḥ pacāmi ||
+
+**14.5.3**
+
+badhāna devīm abhi dhehi muñjatīṃ śataudanāṃ kāmadughā hy eṣā | maināṃ hiṃsīr aśmanā jahṛṣāṇo 'py etu devām̐ ati gacchati dviṣaḥ ||
+
+**14.5.4**
+
+ā rabhasva brahmaṇā vaiśvadevīṃ śataudanāṃ śatapāpmāno asyāḥ | samarpayann aśmanā parvatena svargaṃ lokam adhi rohayainam ||
+
+**14.5.5**
+
+dhṛṣṇu hy enāṃ vikṛtā vikṛntann apaghnaṃś carmerayā saṃ sṛjainām | virājo duhiterayā samaktā kāmaṃ kāmaṃ yajamānāya duhām ||
+
+**14.5.6**
+
+yathāparu viśasannāti maṃsthāḥ kṛṇuṣvā me nāvadheyāni pṛthak | agan devān mānuṣī yā purābhūc chataudanā pururūpā suvarṇā ||
+
+**14.5.7**
+
+dvipād dvihastaḥ puruṣo mahādamo vanaspatiṃ bibharti sāyakāgram | tena parūṃṣi pravidvān aghnyāyāḥ śataudanāṃ devīṃ śatadhā vy asya ||
+
+**14.5.8**
+
+etaṃ bradhnaṃ carmaṇaḥ kṛnta sādhu tam u pramāya śatadhā vy asya | sam ut sṛjann avadhānāni sarvā rāyaspoṣaṃ yajamānāya dhehi ||
+
+**14.5.9**
+
+ṛcā kumbhīm adhy agnau śrayāmi bhūmyāṃ tvā bhūmim adhi dhārayāmi | apo māṃsaṃ bibhratī mā vyathiṣṭhā mā tvā vadhiṣur menibhiḥ piśācāḥ ||
+
+**14.5.10**
+
+ūrdhva prehi mā saṃ vikthā vy asya rajo antaram | rakṣāṃsi sarvā tīrtvā- -athā roha divaṃ tvam ||
+
+**14.6.1**
+
+divaṃ prehi śataudane sahasrasyāyanaṃ bhava | ayutaṃ prayutaṃ bhava- -akṣitir bhavatāt tvaṃ svargaṃ lokam āruhaḥ ||
+
+**14.6.2**
+
+śataudanāṃ śatadhā bhakṣayanti śataṃ rohān rohati yo dadāti | vāmadevyaṃ naudhasam asyāḥ pakṣau tṛtīye nāke adhi viṣṭapi śritā ||
+
+**14.6.3**
+
+śataudanāṃ śatadhā kalpamānā śataṃ rūpāṇi kṛṇute svaryatī | sā no devī suhavā śarma yacchatv atho mṛḍātīdṛśe ||
+
+**14.6.4**
+
+śataudanā dvādaśāhena saṃmitā śataṃ pṛṣṭhāni sasṛje svaryatī | sarvān yajñān pariyatī parastāt sā dātāraṃ rāyaspoṣe dadhātu ||
+
+**14.6.5**
+
+abhi prehi śataudana ījānān somasatvanaḥ | yajñāṃs tvaṃ sarvān āptvā kāmaprasyāyanaṃ bhava ||
+
+**14.6.6**
+
+abhi prehi śataudane yajñenāyajvanas tara | ā devayūn arūruho yatrādas tridivaṃ divaḥ ||
+
+**14.6.7**
+
+īrāpadī prathamā śataudanā satyaṃ ha madhyam amṛtaṃ śiras tava | ubhe devī rodasī ā pṛṇāsi ||
+
+**14.6.8**
+
+ṛtaṃ ha śroṇī uta sakthau tanvā- -ojo ha bāhū uta tad balāya kam | anuṣṭhu jaṭharam ād u pārśve sarvām̐l lokāṃ chataudanā samāpa ||
+
+**14.6.9**
+
+cakṣuṣmatī prathamā śataudanā sūryo ha cakṣur uta candramās tava | viśvair devair ṛtubhiḥ saṃvidānā sā dātāraṃ tṛptyā tarpayāsi ||
+
+**14.6.10**
+
+śataṃ payāṃsi śatam asyā vatsāḥ śatadhā pakvāṃ vi bhajanty enām | sapta lokā divy ārpitā ye tāṃ jigetha prathamā śataudane ||
+
+**14.7.1**
+
+sahasreṇa śatamānā yad eṣi lokāṃ jigetha prathamā śataudane | sarvavedasam uta vājapeyaṃ sarvām̐l lokāṃ chataudanā samāpa ||
+
+**14.7.2**
+
+indraḥ papāta prathamaḥ śataudanāṃ sapta ṛṣibhyaḥ sumanasyamānaḥ | tayāsurāṇāṃ balam oja ā dade tayā ruroha viṣṭapo devalokān ||
+
+**14.7.3**
+
+viśvāmitro 'yaṃ jamadagnir atrir bharadvājo gotamo 'yaṃ vasiṣṭhaḥ | idaṃ pakvaṃ kaśyapasaptamāḥ prāśnantu prathamāḥ śataudanām ||
+
+**14.7.4**
+
+jyotiṣmatī prathamā śataudanā trīṇi jyotīṃṣi kṛṇute svar yatī | tāṃ dātāra upa jīvanti yatra tatra devaiḥ sadhamādaṃ madanti ||
+
+**14.7.5**
+
+chandaḥpakṣā bṛhatī śataudanā trīṇi cchandāṃsi sasṛje svar yatī | ṛtūṇām adhirājaṃ saṃvatsaraṃ patim asyā vindan ||
+
+**14.7.6**
+
+atikramyāgniṣṭomam atirātraṃ śataudane | yajñāṃs tvaṃ sarvān āptvā cityam agniṃ vy aśnuhi ||
+
+**14.7.7**
+
+aśvamedhyam atikramya dvādaśāhaṃ śataudane | trirātraṃ sāhnam āptvā vājapeyena kalpate ||
+
+**14.7.8**
+
+ye sahasrair ījānā agnihotrahutaś ca ye | yajñair ye sarvair ījānās tān āpnoti śataudanā ||
+
+**14.7.9**
+
+śaṃ te parūṃṣi subhage dadhāmi śaṃ te māṃsāny attathā bhavanti | asthi yat te śamitā śaśāra tat te tvaṣṭā vihṛtaṃ niṣ kṛṇotu ||
+
+**14.7.10**
+
+ye yajñena jitā lokā yā nu cchandāṃsi bhejire | sarvāṃs tām̐l lokān āpnoti yo dadāti śataudanām ||
+
+**14.8.1**
+
+iṣirā yoṣā yuvatīr damūnā rātrī devasya savitur bhagasya | aśvakṣatā suhavā saṃbhṛtaśrīr ā paprau dyāvāpṛthivī mahitvā ||
+
+**14.8.2**
+
+ava viśvāny aruhad gabhīrā- -udvarṣiṣṭham aruhad aśramiṣṭhā | uśatī rātry anu sānu bhadrād vi tiṣṭhate mitra iva svadhābhiḥ ||
+
+**14.8.3**
+
+narye vandye subhage sujāta ā cāgan rātri sumanā iha syām | asmāṃs trāyasva naryāṇi jātā- -aśvyā yāni gavyāni puṣṭā ||
+
+**14.8.4**
+
+siṃhasya rātry uśatī piśasya vyāghrasya dvīpino varca ā dade | aśvasya bradhnaṃ puruṣasya māyaṃ puru rūpāṇi kṛṇuṣe vibhātī ||
+
+**14.8.5**
+
+śivāṃ rātrim ahni sūryaṃ ca himasya mātā suhavā no astu | asya stomasya subhage ni bodha yena tvā vande viśvāsu dikṣu ||
+
+**14.8.6**
+
+stomasya no vibhāvari rātri rājeva joṣasai | asāma sarvavīrā bhavāma sarvavedaso vyucchantīr anūṣasaḥ ||
+
+**14.8.7**
+
+śamyā ha nāma dadhiṣe mama dipsanti ye dhanā | rātrīha tān asad apa- -atha steno na vidyate atha ripur na vidyate ||
+
+**14.8.8**
+
+bhadrāsi rātri camaso na piṣṭo viśvaṃ gorūpaṃ yuvatir bibharṣi | cakṣuṣmatī me mṛśatī vapūṃṣi prādityān divyān rukmām̐ amukthāḥ ||
+
+**14.8.9**
+
+yo adya stena āyaty aghāyur martyo ripuḥ | rātrī tasya pratītya pra grīvā pra śiro hanat ||
+
+**14.8.10**
+
+pra pādau na yathāyati pra hastau na yathāśiṣat | yo malimlar upāyati sa saṃpiṣṭo apāyati | apāyati sv apāyati śuṣke sthāṇāv apāyata ||
+
+**14.9.1**
+
+andhaṃ rātri tiṣṭhadhūmam aśīrṣāṇam ahiṃ kṛṇu | akṣau vṛkasya nir jahy ā stenaṃ drupade jahi ||
+
+**14.9.2**
+
+ye te rātry anaḍvāhas tīkṣṇaśṛṅgāḥ svāśavaḥ | tebhir no adya pāraya- -ati durgāṇi viśvahā ||
+
+**14.9.3**
+
+rātriṃ rātrim ariṣyantas tarema tanvā vayam | gambhīram aplavā iva na tareyur arātayaḥ ||
+
+**14.9.4**
+
+yathā śāmyākaḥ prapatan predivān nānu vidyate | evā rātri pra pātaya yo asmām̐ abhy aghāyati ||
+
+**14.9.5**
+
+apa stenaṃ vāsomathaṃ goajam uta taskaram | atho yo arvataḥ śiro +'bhidhāya ninīṣati ||
+
+**14.9.6**
+
+yad adya rātri subhage vibhajanty ayovasu | yad ehy asmān bhrājaya- -athed anyān upāyasi ||
+
+**14.9.7**
+
+uṣase naḥ pari dehi sarvān rātry anāgasaḥ | uṣā no ahna ā bhajād ahas tubhyaṃ vibhāvari ||

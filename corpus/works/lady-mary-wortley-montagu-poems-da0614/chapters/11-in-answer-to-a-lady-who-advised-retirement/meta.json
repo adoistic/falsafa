@@ -1,0 +1,45 @@
+{
+  "work_slug": "lady-mary-wortley-montagu-poems-da0614",
+  "work_title": "Poems",
+  "chapter_number": 11,
+  "chapter_title": "In Answer to a LADY who advised RETIREMENT.",
+  "chapter_slug": "11-in-answer-to-a-lady-who-advised-retirement",
+  "author": "Lady Mary Wortley Montagu",
+  "author_slug": "lady-mary-wortley-montagu",
+  "ecpa_poem_id": "o5155-w0320",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "answer/reply"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 12
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "46936596-67a5-5d6f-9b14-5ced3391b918",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 100,
+      "line_count": 14,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

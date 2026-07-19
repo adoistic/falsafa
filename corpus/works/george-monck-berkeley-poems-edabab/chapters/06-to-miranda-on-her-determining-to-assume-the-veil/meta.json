@@ -1,0 +1,45 @@
+{
+  "work_slug": "george-monck-berkeley-poems-edabab",
+  "work_title": "Poems",
+  "chapter_number": 6,
+  "chapter_title": "TO MIRANDA, ON HER DETERMINING TO ASSUME THE VEIL.",
+  "chapter_slug": "06-to-miranda-on-her-determining-to-assume-the-veil",
+  "author": "George Monck Berkeley",
+  "author_slug": "george-monck-berkeley",
+  "ecpa_poem_id": "o5280-w0050",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "address"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 38
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ba85d9a6-5269-5b6a-abf0-e847114a7f53",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 305,
+      "line_count": 40,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

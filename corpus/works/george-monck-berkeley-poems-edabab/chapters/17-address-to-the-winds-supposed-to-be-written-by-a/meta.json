@@ -1,0 +1,45 @@
+{
+  "work_slug": "george-monck-berkeley-poems-edabab",
+  "work_title": "Poems",
+  "chapter_number": 17,
+  "chapter_title": "ADDRESS TO THE WINDS. SUPPOSED TO BE WRITTEN BY A LADY DURING THE ABSENCE OF HER LOVER.",
+  "chapter_slug": "17-address-to-the-winds-supposed-to-be-written-by-a",
+  "author": "George Monck Berkeley",
+  "author_slug": "george-monck-berkeley",
+  "ecpa_poem_id": "o5280-w0160",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "address",
+      "occasional poem"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 12
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "98f0b418-46f1-52c1-b16c-6b78c975fb9f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 94,
+      "line_count": 15,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

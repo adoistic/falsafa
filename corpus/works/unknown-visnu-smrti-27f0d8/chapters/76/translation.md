@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 76**
+**Viṣṇu Smriti 76**
 
 The new moon day, the three *aṣṭakās* (अष्टकाs), the three *anvaṣṭakās* (अन्वष्टकाs), the full moon of *Māgha*, the thirteenth day of the dark fortnight after the full moon of *Prauṣṭhapada*, and the ripening of rice and barley. // Vi_76.1 //
 

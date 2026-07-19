@@ -1,0 +1,45 @@
+{
+  "work_slug": "william-whitehead-poems-1bdb04",
+  "work_title": "Poems",
+  "chapter_number": 14,
+  "chapter_title": "ELEGY I. Written at the CONVENT of HAUT VILLERS in CHAMPAGNE, 1754.",
+  "chapter_slug": "14-elegy-i-written-at-the-convent-of-haut-villers-i",
+  "author": "William Whitehead",
+  "author_slug": "william-whitehead",
+  "ecpa_poem_id": "o5157-w0070",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "elegy"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "10.10.10.10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/     -+|-+|-+|-+|-+/     -+|-+|-+|-+|-+/     -+|-+|-+|-+|-+/",
+    "line_count": 68
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b62279bf-f36d-5245-b6a0-16754a52bb28",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 527,
+      "line_count": 70,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "work_slug": "john-gay-poems-1b43b7",
+  "work_title": "Poems",
+  "chapter_number": 27,
+  "chapter_title": "FABLE [26] XXVI. The Cur and the Mastiff.",
+  "chapter_slug": "27-fable-26-xxvi-the-cur-and-the-mastiff",
+  "author": "John Gay",
+  "author_slug": "john-gay",
+  "ecpa_poem_id": "ojg27-w0270",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "fable"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 36
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "11437919-f0b6-52d1-b05d-e5611e53b0a2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 236,
+      "line_count": 38,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

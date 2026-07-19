@@ -1,0 +1,44 @@
+{
+  "work_slug": "eliza-day-poems-281dff",
+  "work_title": "Poems",
+  "chapter_number": 32,
+  "chapter_title": "ON THE DEATH OF A YOUNG GENTLEMAN.",
+  "chapter_slug": "32-on-the-death-of-a-young-gentleman",
+  "author": "Eliza Day",
+  "author_slug": "eliza-day",
+  "ecpa_poem_id": "bed98-w0320",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "occasional poem"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "10.10.10.10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/",
+    "line_count": 24
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9689c9a7-2e66-54ba-8ecf-54b893ba5c91",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 194,
+      "line_count": 25,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "work_slug": "william-lisle-bowles-poems-44faf8",
+  "work_title": "Poems",
+  "chapter_number": 60,
+  "chapter_title": "THE BATTLE OF THE NILE.",
+  "chapter_slug": "60-the-battle-of-the-nile",
+  "author": "William Lisle Bowles",
+  "author_slug": "william-lisle-bowles",
+  "ecpa_poem_id": "glb19-w0600",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "narrative verse"
+    ],
+    "metrical_pattern": "irregular",
+    "line_count": 197
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "115ca337-faf8-58ec-a70c-713e04585b14",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1301,
+      "line_count": 198,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

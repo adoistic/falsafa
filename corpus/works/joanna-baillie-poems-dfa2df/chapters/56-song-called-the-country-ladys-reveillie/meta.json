@@ -1,0 +1,44 @@
+{
+  "work_slug": "joanna-baillie-poems-dfa2df",
+  "work_title": "Poems",
+  "chapter_number": 56,
+  "chapter_title": "SONG, CALLED THE COUNTRY LADY'S REVEILLIE.",
+  "chapter_slug": "56-song-called-the-country-ladys-reveillie",
+  "author": "Joanna Baillie",
+  "author_slug": "joanna-baillie",
+  "ecpa_poem_id": "bjb18-w0560",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "song"
+    ],
+    "foot": "anapaestic (˘˘′)",
+    "footnum": "trimeter (3 feet)",
+    "stanzas": [
+      "octet (8 lines)"
+    ],
+    "rhyme": "aaabcccb",
+    "syllable_pattern": "6.6.6.4.6.6.6.4",
+    "metrical_pattern": "-+|--+|-/ -+|--+|-/ -+|--+|-/ -+|-+/ -+|--+|-/ -+|--+|-/ -+|--+|-/ -+|-+/",
+    "line_count": 24
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ee7a398f-75fb-5f6c-b3a6-59b9d313a7b5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 93,
+      "line_count": 26,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "work_slug": "john-pomfret-poems-70be05",
+  "work_title": "Poems",
+  "chapter_number": 12,
+  "chapter_title": "Cruelty and Lust. An Epistolary Essay.",
+  "chapter_slug": "12-cruelty-and-lust-an-epistolary-essay",
+  "author": "John Pomfret",
+  "author_slug": "john-pomfret",
+  "ecpa_poem_id": "ppo24-w0120",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "epistle",
+      "essay"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 412
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5c83284d-9b0e-5576-b669-94c80ac3bf3c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3136,
+      "line_count": 414,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "work_slug": "oliver-goldsmith-poems-7b74c6",
+  "work_title": "Poems",
+  "chapter_number": 8,
+  "chapter_title": "A NEW SIMILE, IN THE MANNER OF SWIFT.",
+  "chapter_slug": "08-a-new-simile-in-the-manner-of-swift",
+  "author": "Oliver Goldsmith",
+  "author_slug": "oliver-goldsmith",
+  "ecpa_poem_id": "o5346-w0050",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "imitation"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 64
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "46b62f20-8e4c-5312-996d-b86aa2bc9cda",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 417,
+      "line_count": 65,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

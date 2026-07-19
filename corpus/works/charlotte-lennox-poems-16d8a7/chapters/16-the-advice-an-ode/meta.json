@@ -1,0 +1,44 @@
+{
+  "work_slug": "charlotte-lennox-poems-16d8a7",
+  "work_title": "Poems",
+  "chapter_number": 16,
+  "chapter_title": "The ADVICE, An ODE.",
+  "chapter_slug": "16-the-advice-an-ode",
+  "author": "Charlotte Lennox",
+  "author_slug": "charlotte-lennox",
+  "ecpa_poem_id": "o5247-w0150",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "8.8.8.8",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/",
+    "line_count": 64
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a0971a27-cf97-5e63-b54d-2611629fad39",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 414,
+      "line_count": 82,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

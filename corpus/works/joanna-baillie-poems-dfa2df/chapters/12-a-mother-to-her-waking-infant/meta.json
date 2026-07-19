@@ -1,0 +1,44 @@
+{
+  "work_slug": "joanna-baillie-poems-dfa2df",
+  "work_title": "Poems",
+  "chapter_number": 12,
+  "chapter_title": "A MOTHER TO HER WAKING INFANT.",
+  "chapter_slug": "12-a-mother-to-her-waking-infant",
+  "author": "Joanna Baillie",
+  "author_slug": "joanna-baillie",
+  "ecpa_poem_id": "bjb18-w0120",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "address"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "sestet (6 lines)"
+    ],
+    "rhyme": "aabbcc",
+    "syllable_pattern": "8.8.8.8.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 50
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6cd546a7-10c8-590e-a093-2c5ee5120e1a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 325,
+      "line_count": 51,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

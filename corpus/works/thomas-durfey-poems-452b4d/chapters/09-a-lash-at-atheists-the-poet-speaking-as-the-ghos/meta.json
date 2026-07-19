@@ -1,0 +1,41 @@
+{
+  "work_slug": "thomas-durfey-poems-452b4d",
+  "work_title": "Poems",
+  "chapter_number": 9,
+  "chapter_title": "A LASH AT ATHEISTS: The POET speaking, as the Ghost of a Quondam Libertine, suppos'd to be the late E. of R. Reflects on that part of Seneca's Troas, beginning atPost Mortem nihil est, Ipsaq; Mors nihilVelocis spatii meta Novissima:Spem ponant avidi seliciti metum.Quaeris quo Iaceas post Obitum locoQuo non Nata Iacent.",
+  "chapter_slug": "09-a-lash-at-atheists-the-poet-speaking-as-the-ghos",
+  "author": "Thomas D'Urfey",
+  "author_slug": "thomas-durfey",
+  "ecpa_poem_id": "oau90-w0090",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 83
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1ac3659d-9afb-5b9c-87a7-79be19430c49",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 672,
+      "line_count": 85,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

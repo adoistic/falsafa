@@ -1,0 +1,437 @@
+{
+  "slug": "unknown-visnu-smrti-27f0d8",
+  "window": "68-86",
+  "entities": [
+    {
+      "canonical_name": "Brāhmaṇa",
+      "surface_names": ["Brāhmaṇas", "Brahmin", "Brahmins", "paṅktidūṣakas", "paṅktipāvanas"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-a3b151", "quote": "He shall not eat during an eclipse affecting cows or Brāhmaṇas.", "role": "protected class"},
+        {"paragraph_id": "p-8c4ba3", "quote": "he shall seat the Brāhmaṇas, who have bathed well and rinsed their mouths, according to their age", "role": "ritual functionary"},
+        {"paragraph_id": "p-acf316", "quote": "having offered the food in suitable vessels, especially of silver, first to those facing east, saying, 'Salutation to the Viśvedevas.'", "role": "recipient of śrāddha offerings"},
+        {"paragraph_id": "p-805f91", "quote": "These are declared to be the dregs of Brāhmaṇas, the paṅktidūṣakas (defilers of the row)", "role": "disqualified category"},
+        {"paragraph_id": "p-51f445", "quote": "Now, the paṅktipāvanas (purifiers of the row).", "role": "qualified category"},
+        {"paragraph_id": "p-d26585", "quote": "At that time, he shall honor a Brāhmaṇa or, with the permission of the Brāhmaṇas, a mendicant.", "role": "honored guest"},
+        {"paragraph_id": "p-9f0010", "quote": "In the presence of a fire, a deity, or a Brāhmaṇa, he shall raise his right hand.", "role": "object of reverence"}
+      ],
+      "description": "The priestly class (varṇa) whose presence, conduct, and qualification are central to the śrāddha ritual throughout these chapters.",
+      "justification": "Brāhmaṇas appear as the primary ritual agents, guests, and evaluative category across chapters 71–86, with extensive rulings on which types qualify or disqualify them."
+    },
+    {
+      "canonical_name": "Prajāpati",
+      "surface_names": ["Prajāpati"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-aee574", "quote": "These times for śrāddha Prajāpati declared to be obligatory (nitya)", "role": "divine lawgiver"},
+        {"paragraph_id": "p-40ae81", "quote": "These times for śrāddha Prajāpati declared to be optional (kāmya)", "role": "divine lawgiver"}
+      ],
+      "description": "The creator deity cited as the divine authority who declared both the obligatory and optional times for performing the śrāddha rite.",
+      "justification": "Prajāpati is directly named as the source of ritual calendar law in chapters 76 and 77, grounding the śrāddha schedule in divine mandate."
+    },
+    {
+      "canonical_name": "Rāhu",
+      "surface_names": ["Rāhu"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-40ae81", "quote": "A śrāddha should not be performed by the wise at twilight or at night; But it should be performed even at those times, if there is a sighting of Rāhu (an eclipse).", "role": "astrological exception"},
+        {"paragraph_id": "p-40ae81", "quote": "For a śrāddha given at the sighting of Rāhu lasts as long as the moon and stars", "role": "auspicious trigger"}
+      ],
+      "description": "The eclipse deity whose sighting overrides normal prohibitions on nighttime śrāddha, conferring eternal merit on offerings made during his appearance.",
+      "justification": "Rāhu appears in chapter 77 as the named cause of solar/lunar eclipses, and his sighting functions as a special ritual opportunity that supersedes standard calendar restrictions."
+    },
+    {
+      "canonical_name": "Viśvedevas",
+      "surface_names": ["Viśvedevas", "Vaiśvadeva"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-7bd078", "quote": "And when he thinks the Vaiśvadeva has also been performed.", "role": "precondition for eating"},
+        {"paragraph_id": "p-acf316", "quote": "having offered the food in suitable vessels, especially of silver, first to those facing east, saying, 'Salutation to the Viśvedevas.'", "role": "ritual recipient"},
+        {"paragraph_id": "p-5a0943", "quote": "having said, 'May the Viśvedevas be pleased,' to those facing east", "role": "deity to be propitiated"}
+      ],
+      "description": "The collective 'All-Gods' who receive the first portion of the śrāddha offering from Brāhmaṇas seated facing east, and for whom a daily domestic fire rite (Vaiśvadeva) must be performed.",
+      "justification": "The Viśvedevas are explicitly addressed in the śrāddha ritual protocol of chapter 73 as the divine recipients of the rite-for-the-gods portion."
+    },
+    {
+      "canonical_name": "Soma",
+      "surface_names": ["King Soma"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-30b93c", "quote": "may we not be subject to our enemy, O King Soma.", "role": "divine protector invoked in vṛṣotsarga"}
+      ],
+      "description": "The moon deity invoked in the vṛṣotsarga (bull-release) rite as King Soma, addressed as a protector against enemies.",
+      "justification": "Soma is directly addressed in the bull-release verse of chapter 86 as a royal divine protector during the ritual dedication of the heifers."
+    },
+    {
+      "canonical_name": "Dharma",
+      "surface_names": ["Dharma", "the blessed lord"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-30b93c", "quote": "For Dharma, the blessed lord, is declared to have four feet; I choose him with devotion; may he protect me in every way.", "role": "deity invoked in vṛṣotsarga"}
+      ],
+      "description": "Dharma as a personified deity described as having four feet, invoked with devotion in the bull-release ritual of chapter 86.",
+      "justification": "The text in chapter 86 explicitly personifies Dharma as a 'blessed lord' with four feet to whom the sacrificer pledges devotion, reflecting the cosmic/divine dimension of dharmic order."
+    },
+    {
+      "canonical_name": "Pūṣan",
+      "surface_names": ["Pūṣan"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-254831", "quote": "having offered it with the verses 'May Pūṣan follow the cows'", "role": "deity invoked to protect the herd"}
+      ],
+      "description": "The Vedic deity of cattle and paths, invoked in the vṛṣotsarga rite to follow and protect the cows.",
+      "justification": "Pūṣan is named in chapter 86 as the recipient deity of the sacrificial oblation offered before the bull is branded and released, linking the rite to traditional Vedic cattle-protection theology."
+    },
+    {
+      "canonical_name": "Agastya",
+      "surface_names": ["Agastya"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {"paragraph_id": "p-32083f", "quote": "In the hermitage of Agastya.", "role": "eponymous sacred site"}
+      ],
+      "description": "The Vedic sage whose hermitage is listed in chapter 85 as a sacred bathing place (tīrtha) where śrāddha and austerities yield imperishable merit.",
+      "justification": "Agastya's hermitage is enumerated among the major tīrthas in chapter 85, attesting to the sage's persistent association with sacred geography."
+    },
+    {
+      "canonical_name": "Kaṇva",
+      "surface_names": ["Kaṇva"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {"paragraph_id": "p-c31107", "quote": "In the hermitage of Kaṇva.", "role": "eponymous sacred site"}
+      ],
+      "description": "The Vedic sage whose hermitage is listed as a purifying tīrtha in chapter 85.",
+      "justification": "Kaṇva's hermitage appears alongside Agastya's in the tīrtha list of chapter 85, grounding its authority in a well-known Vedic tradition."
+    },
+    {
+      "canonical_name": "Śūdra",
+      "surface_names": ["Śūdras", "Śūdra"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-b05d2c", "quote": "He shall not give advice to a Śūdra.", "role": "restricted recipient"},
+        {"paragraph_id": "p-32622a", "quote": "He shall not reside in a kingdom ruled by a Śūdra.", "role": "disqualifying social context"},
+        {"paragraph_id": "p-9bd8ad", "quote": "Those who sacrifice for a Śūdra.", "role": "disqualifying association"},
+        {"paragraph_id": "p-6012ee", "quote": "Nor Śūdras.", "role": "excluded from śrāddha witnessing"}
+      ],
+      "description": "The fourth varṇa, systematically excluded from receiving Vedic instruction, dharma teaching, sacrificial offerings, and from witnessing the śrāddha; residing under Śūdra rule is also prohibited.",
+      "justification": "Śūdras appear across chapters 71, 81, 82, and 84 as a boundary-marking social category defining ritual and social exclusions central to the text's varṇa ideology."
+    },
+    {
+      "canonical_name": "Mleccha",
+      "surface_names": ["Mlecchas", "mlecchadeśa"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-d63ad2", "quote": "Not to Mlecchas or outcastes.", "role": "prohibited addressee"},
+        {"paragraph_id": "p-e5a586", "quote": "One shall not perform a śrāddha in a mlecchadeśa (land of barbarians).", "role": "ritually disqualifying location"},
+        {"paragraph_id": "p-5ba938", "quote": "The country where the system of the four varṇas is not established, That is to be known as a mlecchadeśa; Āryāvarta is beyond that.", "role": "defined social-geographic category"}
+      ],
+      "description": "Foreigners and their territories (mlecchadeśa) defined as outside the four-varṇa system, contrasted with Āryāvarta; speech and ritual in their presence or lands is prohibited.",
+      "justification": "Mlecchas and mlecchadeśa are defined and prohibited across chapters 71 and 84, structuring the text's conception of ritually valid geographic and social space."
+    },
+    {
+      "canonical_name": "Āryāvarta",
+      "surface_names": ["Āryāvarta"],
+      "kind": "place",
+      "mentions": [
+        {"paragraph_id": "p-5ba938", "quote": "The country where the system of the four varṇas is not established, That is to be known as a mlecchadeśa; Āryāvarta is beyond that.", "role": "ideal ritual territory"}
+      ],
+      "description": "The 'Land of the Āryas', defined in chapter 84 as the territory where the four-varṇa system is established, contrasted with the mlecchadeśa.",
+      "justification": "Āryāvarta is explicitly defined and named as the normative ritual geography in chapter 84, providing the geographic basis for much of the text's ritual law."
+    },
+    {
+      "canonical_name": "Puṣkara",
+      "surface_names": ["Puṣkara"],
+      "kind": "place",
+      "mentions": [
+        {"paragraph_id": "p-a49b09", "quote": "a śrāddha performed at Puṣkara is imperishable.", "role": "supreme sacred site"},
+        {"paragraph_id": "p-4d0647", "quote": "By merely bathing at Puṣkara, one is purified from all sins.", "role": "purifying tīrtha"}
+      ],
+      "description": "The holy lake in Rajasthan, cited in chapter 85 as the premier tīrtha where śrāddha, prayers, and bathing all yield imperishable merit and full purification from sin.",
+      "justification": "Puṣkara heads the tīrtha list in chapter 85, receiving the strongest merit-claim of any single site."
+    },
+    {
+      "canonical_name": "Gayāśīrṣa",
+      "surface_names": ["Gayāśīrṣa", "Gayā"],
+      "kind": "place",
+      "mentions": [
+        {"paragraph_id": "p-3e875d", "quote": "Likewise at Gayāśīrṣa.", "role": "purifying tīrtha"},
+        {"paragraph_id": "p-8b6d6c", "quote": "Who would perform a śrāddha for us with a concentrated mind at the Vaṭa tree in Gayāśīrṣa.", "role": "śrāddha site"},
+        {"paragraph_id": "p-8b6d6c", "quote": "Many sons are to be desired, so that at least one may go to Gayā", "role": "pilgrimage destination"}
+      ],
+      "description": "The sacred site in Bihar (Gayā) where the Vaṭa (banyan) tree stands; performing śrāddha here is declared imperishable and the destination of pilgrimage for ancestral rites.",
+      "justification": "Gayāśīrṣa appears prominently in both the tīrtha list of chapter 85 and in the ancestral verse (pitṛgītā gāthā) as the most desired site for śrāddha."
+    },
+    {
+      "canonical_name": "Ganges",
+      "surface_names": ["Ganges", "Gaṅgādvāra", "Mahāgaṅgā", "confluence of the Ganges and the ocean"],
+      "kind": "place",
+      "mentions": [
+        {"paragraph_id": "p-56eece", "quote": "And especially on the Ganges.", "role": "premier sacred river"},
+        {"paragraph_id": "p-51556b", "quote": "At Gaṅgādvāra.", "role": "sacred tīrtha"},
+        {"paragraph_id": "p-7889c9", "quote": "At the Mahāgaṅgā.", "role": "sacred tīrtha"},
+        {"paragraph_id": "p-d931db", "quote": "At the confluence of the Ganges and the ocean.", "role": "sacred tīrtha"}
+      ],
+      "description": "The Ganges River and its associated sites (source, mouth, tributaries) are listed as among the most meritorious tīrthas for śrāddha in chapter 85.",
+      "justification": "The Ganges is singled out with 'especially' in the tīrtha enumeration of chapter 85, indicating its supreme status among sacred rivers."
+    },
+    {
+      "canonical_name": "Narmadā",
+      "surface_names": ["Narmadā"],
+      "kind": "place",
+      "mentions": [
+        {"paragraph_id": "p-f954ce", "quote": "Anywhere on the bank of the Narmadā.", "role": "sacred river tīrtha"}
+      ],
+      "description": "The Narmadā River, listed in chapter 85 as a tīrtha where śrāddha and austerities yield imperishable merit.",
+      "justification": "The Narmadā is explicitly named in the tīrtha list of chapter 85."
+    },
+    {
+      "canonical_name": "Yamunā",
+      "surface_names": ["Yamunā"],
+      "kind": "place",
+      "mentions": [
+        {"paragraph_id": "p-7c8df8", "quote": "On the bank of the Yamunā.", "role": "sacred river tīrtha"}
+      ],
+      "description": "The Yamunā River, listed in chapter 85 as a sacred bathing place for the performance of śrāddha.",
+      "justification": "The Yamunā is named in the tīrtha list of chapter 85."
+    },
+    {
+      "canonical_name": "Prayāga",
+      "surface_names": ["Prayāga"],
+      "kind": "place",
+      "mentions": [
+        {"paragraph_id": "p-7624ff", "quote": "And at Prayāga.", "role": "sacred tīrtha"}
+      ],
+      "description": "The sacred confluence site (modern Allahabad/Prayagraj) at the meeting of Ganges, Yamunā, and Sarasvatī, listed as a premier tīrtha in chapter 85.",
+      "justification": "Prayāga is named in the tīrtha list of chapter 85 in proximity to Gaṅgādvāra, reflecting its canonical status as a confluence tīrtha."
+    },
+    {
+      "canonical_name": "Vārāṇasī",
+      "surface_names": ["Vārāṇasī"],
+      "kind": "place",
+      "mentions": [
+        {"paragraph_id": "p-c69cde", "quote": "And especially in Vārāṇasī.", "role": "supreme sacred city"}
+      ],
+      "description": "The holy city of Vārāṇasī (Benares/Kashi), singled out as 'especially' meritorious in the tīrtha list of chapter 85.",
+      "justification": "Vārāṇasī receives the qualifier 'especially' in the tīrtha enumeration, marking it as one of the most significant sacred sites."
+    },
+    {
+      "canonical_name": "Sarasvatī",
+      "surface_names": ["Sarasvatī"],
+      "kind": "place",
+      "mentions": [
+        {"paragraph_id": "p-bb9f92", "quote": "Anywhere on the Sarasvatī, especially.", "role": "premier sacred river tīrtha"}
+      ],
+      "description": "The sacred Sarasvatī river, marked with 'especially' in the tīrtha list of chapter 85 as a place of supreme merit for śrāddha.",
+      "justification": "The Sarasvatī is singled out with 'especially' in the river tīrthas of chapter 85, reflecting its Vedic prestige."
+    },
+    {
+      "canonical_name": "Naimiṣa forest",
+      "surface_names": ["Naimiṣa forest"],
+      "kind": "place",
+      "mentions": [
+        {"paragraph_id": "p-603468", "quote": "Constantly in the Naimiṣa forest.", "role": "perpetually sacred tīrtha"}
+      ],
+      "description": "The Naimiṣa forest, a famous sacred forest site associated with Vedic recitation and śrāddha performance, listed in the tīrtha catalog of chapter 85.",
+      "justification": "The Naimiṣa forest is named with the qualifier 'constantly' in chapter 85, indicating continuous ritual efficacy."
+    },
+    {
+      "canonical_name": "Agnihotra",
+      "surface_names": ["Agnihotra"],
+      "kind": "event",
+      "mentions": [
+        {"paragraph_id": "p-c42601", "quote": "he shall eat when he thinks the Agnihotra has been performed.", "role": "prerequisite domestic rite"}
+      ],
+      "description": "The twice-daily oblation into the household sacred fire that must be (or be presumed to have been) performed before the householder may eat.",
+      "justification": "The Agnihotra is named in chapter 68 as a ritual precondition for eating, tying food prohibitions to Vedic domestic fire-maintenance."
+    },
+    {
+      "canonical_name": "Śrāddha",
+      "surface_names": ["śrāddha", "śrāddhas"],
+      "kind": "event",
+      "mentions": [
+        {"paragraph_id": "p-93388a", "quote": "one who wishes to perform a śrāddha shall invite Brāhmaṇas on the preceding day.", "role": "ancestor-feeding ritual"},
+        {"paragraph_id": "p-aee574", "quote": "These times for śrāddha Prajāpati declared to be obligatory (nitya)", "role": "obligatory ritual occasion"},
+        {"paragraph_id": "p-a00665", "quote": "he shall perform the śrāddha in a secluded place.", "role": "ritual requiring seclusion"}
+      ],
+      "description": "The ancestral offering rite that forms the organizing subject of chapters 73–86, with extensive rules covering timing, eligible Brāhmaṇas, permissible foods and locations, and ritual procedure.",
+      "justification": "The śrāddha rite is the dominant subject of chapters 73–86, governing nearly every rule in those chapters."
+    },
+    {
+      "canonical_name": "Vṛṣotsarga",
+      "surface_names": ["vṛṣotsarga"],
+      "kind": "event",
+      "mentions": [
+        {"paragraph_id": "p-241439", "quote": "Now, the vṛṣotsarga (the setting free of a bull).", "role": "named ritual"},
+        {"paragraph_id": "p-22c348", "quote": "On the full moon day of Kārttika or Āśvayuja.", "role": "timing of the rite"}
+      ],
+      "description": "The rite of releasing a sacred bull, performed on the full moon of Kārttika or Āśvayuja, described in chapter 86 with instructions for selecting, branding, bathing, and dedicating the animal.",
+      "justification": "Chapter 86 is devoted to the vṛṣotsarga, providing the name and full procedural detail for this bovine release rite."
+    },
+    {
+      "canonical_name": "Piṇḍa",
+      "surface_names": ["piṇḍa", "piṇḍas"],
+      "kind": "object",
+      "mentions": [
+        {"paragraph_id": "p-1bc935", "quote": "he shall place one piṇḍa for his father with the words, 'The earth is the ladle, inexhaustible.'", "role": "ancestral offering object"},
+        {"paragraph_id": "p-2d2036", "quote": "he shall perform the offering of piṇḍas.", "role": "ritual offering"}
+      ],
+      "description": "Rice-ball offerings placed for deceased ancestors during the śrāddha, each assigned to a specific generation (father, grandfather, great-grandfather) with prescribed mantras.",
+      "justification": "Piṇḍas are central ritual objects in chapters 73–75, with explicit rules on their placement, associated mantras, and genealogical assignment."
+    },
+    {
+      "canonical_name": "Kuśa grass",
+      "surface_names": ["kuśa", "darbha", "kāśa", "dūrvā"],
+      "kind": "object",
+      "mentions": [
+        {"paragraph_id": "p-8c4ba3", "quote": "on seats with kuśa grass on top", "role": "ritual substrate"},
+        {"paragraph_id": "p-d1c138", "quote": "in the absence of kuśa grass, in place of kuśa, one may give kāśa grass or dūrvā grass.", "role": "substitutable ritual item"},
+        {"paragraph_id": "p-aa5e57", "quote": "he shall rub his hands at the root of the darbha grass.", "role": "ritual implement"}
+      ],
+      "description": "The sacred grass used as seats for invited Brāhmaṇas, as a medium for offering water, and in multiple śrāddha ritual actions; kāśa and dūrvā are permitted substitutes.",
+      "justification": "Kuśa/darbha grass is a recurrent ritual object in chapters 73–79, with rules governing its use and substitution in the śrāddha."
+    },
+    {
+      "canonical_name": "Gāyatrī mantra",
+      "surface_names": ["Gāyatrī mantra"],
+      "kind": "object",
+      "mentions": [
+        {"paragraph_id": "p-9f25ab", "quote": "One devoted to muttering the Gāyatrī mantra.", "role": "qualificatory practice"}
+      ],
+      "description": "The sacred Vedic mantra whose constant recitation qualifies a Brāhmaṇa as a 'purifier of the row' (paṅktipāvana) and hence a worthy śrāddha guest.",
+      "justification": "Devotion to the Gāyatrī is listed in chapter 83 as one of the qualifications elevating a Brāhmaṇa to paṅktipāvana status."
+    },
+    {
+      "canonical_name": "Bhagavad Gītā",
+      "surface_names": ["Bhagavad Gita"],
+      "kind": "object",
+      "mentions": [
+        {"paragraph_id": "p-96bf03", "quote": "This verse is identical to Bhagavad Gita 2.70, illustrating the Smriti's integration of high philosophical concepts.", "role": "parallel text cited by translator"}
+      ],
+      "description": "The Bhagavad Gītā, noted by the translator in a footnote as containing a verse identical to Vi_72.7, indicating textual overlap or shared source.",
+      "justification": "The translator's footnote in chapter 73 explicitly identifies the verse in Vi_72.7 (desires entering an ocean) as identical to Bhagavad Gītā 2.70."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Ritual purity and dietary prohibitions",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-f39db7", "quote": "He shall not eat during an eclipse of the moon or sun."},
+        {"paragraph_id": "p-90b64d", "quote": "while in a state of impurity, he shall not take clarified butter."},
+        {"paragraph_id": "p-bdaf6d", "quote": "Not with wet clothes."},
+        {"paragraph_id": "p-63d68c", "quote": "Not naked."}
+      ],
+      "justification": "Chapter 68 presents an exhaustive list of dietary and bodily purity conditions governing when and how one may eat, framing food as a domain of ritual discipline."
+    },
+    {
+      "topic": "Proper conduct (ācāra) as the foundation of dharma and long life",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-7df635", "quote": "Thus he shall be a follower of proper conduct."},
+        {"paragraph_id": "p-e41043", "quote": "From proper conduct one obtains long life, from proper conduct the desired state, From proper conduct imperishable wealth, and proper conduct destroys inauspicious marks."},
+        {"paragraph_id": "p-e41043", "quote": "That which is declared by the Veda and the Smṛti to be righteous, and which is practiced by the good, A man who desires dharma and has conquered his senses shall practice that proper conduct."}
+      ],
+      "justification": "Chapter 71 concludes with a doctrinal statement that proper conduct (ācāra) ordained by Veda and Smṛti is the path to longevity, wealth, and liberation from inauspiciousness."
+    },
+    {
+      "topic": "Self-control (dama) as the supreme virtue",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-a622a8", "quote": "He shall abide by self-control (dama)."},
+        {"paragraph_id": "p-97fcce", "quote": "Self-control is the supreme purifier, self-control is the supreme good fortune; By self-control one obtains everything, whatever one desires in one's mind."},
+        {"paragraph_id": "p-97fcce", "quote": "He who travels in a chariot yoked with five horses, with the mind as the driver, following the path of the Āryas, If the horses do not carry away that chariot, then the enemies do not overcome him who has thus gone."}
+      ],
+      "justification": "Chapter 72 presents dama (self-control/sense-restraint) as a metaphysically supreme value through both direct declaration and the chariot-of-the-body metaphor."
+    },
+    {
+      "topic": "Ancestral veneration through śrāddha",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-93388a", "quote": "one who wishes to perform a śrāddha shall invite Brāhmaṇas on the preceding day."},
+        {"paragraph_id": "p-c68d08", "quote": "he shall invoke the ancestors."},
+        {"paragraph_id": "p-8b6d6c", "quote": "Many sons are to be desired, so that at least one may go to Gayā, Or perform a horse-sacrifice, or set free a dark-blue bull."}
+      ],
+      "justification": "Chapters 73–86 are centrally organized around the śrāddha rite as the primary mechanism for feeding and satisfying deceased ancestors, with extensive procedural, temporal, and social specifications."
+    },
+    {
+      "topic": "Sacred geography and the tīrtha pilgrimage tradition",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-a49b09", "quote": "a śrāddha performed at Puṣkara is imperishable."},
+        {"paragraph_id": "p-4d0647", "quote": "By merely bathing at Puṣkara, one is purified from all sins."},
+        {"paragraph_id": "p-56eece", "quote": "And especially on the Ganges."},
+        {"paragraph_id": "p-c69cde", "quote": "And especially in Vārāṇasī."}
+      ],
+      "justification": "Chapter 85 provides an extensive catalogue of sacred tīrthas where śrāddha and bathing confer imperishable merit, encoding a pan-subcontinent sacred geography."
+    },
+    {
+      "topic": "Varṇa hierarchy and social boundary maintenance",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-b05d2c", "quote": "He shall not give advice to a Śūdra."},
+        {"paragraph_id": "p-32622a", "quote": "He shall not reside in a kingdom ruled by a Śūdra."},
+        {"paragraph_id": "p-5ba938", "quote": "The country where the system of the four varṇas is not established, That is to be known as a mlecchadeśa; Āryāvarta is beyond that."},
+        {"paragraph_id": "p-6012ee", "quote": "Nor Śūdras."}
+      ],
+      "justification": "Throughout chapters 71, 81, 82, and 84, the four-varṇa system structures who may perform, witness, or benefit from rituals, and defines sacred vs. profane territory."
+    },
+    {
+      "topic": "Ritual calendar and astrological timing of religious obligations",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-aee574", "quote": "These times for śrāddha Prajāpati declared to be obligatory (nitya); He who does not perform a śrāddha on these days goes to hell."},
+        {"paragraph_id": "p-40ae81", "quote": "These times for śrāddha Prajāpati declared to be optional (kāmya); What is given at a śrāddha on these days is destined for eternity."},
+        {"paragraph_id": "p-89041e", "quote": "By constantly performing a śrāddha on Sunday, he obtains health."},
+        {"paragraph_id": "p-d18e5f", "quote": "Heaven in the Kṛttikā constellation."}
+      ],
+      "justification": "Chapters 76–78 systematically map ritual obligations onto the lunar calendar, weekdays, and nakṣatras, reflecting a comprehensive astrological framework for religious timing."
+    },
+    {
+      "topic": "Qualified and disqualified Brāhmaṇas for ritual participation",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-805f91", "quote": "These are declared to be the dregs of Brāhmaṇas, the paṅktidūṣakas (defilers of the row); A wise man shall avoid these with effort in the rite of śrāddha."},
+        {"paragraph_id": "p-51f445", "quote": "Now, the paṅktipāvanas (purifiers of the row)."},
+        {"paragraph_id": "p-a4df11", "quote": "May that one be in our family who would feed a yogin, A learned Brāhmaṇa, at a śrāddha with effort, by which we may be satisfied."}
+      ],
+      "justification": "Chapters 82 and 83 provide paired lists of disqualifying and qualifying characteristics for Brāhmaṇas invited to the śrāddha, reflecting a detailed sociology of ritual purity."
+    },
+    {
+      "topic": "Pollution avoidance during ritual acts",
+      "implicit": true,
+      "mentions": [
+        {"paragraph_id": "p-ebffee", "quote": "Having dismissed the demons with the two verses beginning 'apayantv asurāḥ' by scattering sesame seeds."},
+        {"paragraph_id": "p-eefac7", "quote": "He shall dismiss the demons with sesame seeds or mustard seeds."},
+        {"paragraph_id": "p-214bb7", "quote": "He shall not look at a menstruating woman."},
+        {"paragraph_id": "p-ac4c2b", "quote": "Nor a dog."}
+      ],
+      "justification": "Across chapters 73 and 81, demonic entities, ritually impure persons, and certain animals (dog, pig, chicken) must be kept away from the śrāddha, reflecting an implicit pollution-cosmology."
+    },
+    {
+      "topic": "Meritorious acts and their karmic rewards",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-89041e", "quote": "By constantly performing a śrāddha on Sunday, he obtains health."},
+        {"paragraph_id": "p-e41043", "quote": "A man who is endowed with good conduct, even if he is devoid of all auspicious marks, Who has faith and is free from envy, lives for a hundred years."},
+        {"paragraph_id": "p-30b93c", "quote": "In whatever body of water the released bull drinks, That entire body of water goes to his ancestors."}
+      ],
+      "justification": "Throughout chapters 71, 78, and 86, specific actions are linked to specific rewards (health, longevity, wealth, ancestral benefit), encoding an explicit karmic-merit economy."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Bhagavad Gītā",
+      "cited_author": "unknown",
+      "stance": "neutral",
+      "paragraph_id": "p-96bf03",
+      "quote": "This verse is identical to Bhagavad Gita 2.70, illustrating the Smriti's integration of high philosophical concepts.",
+      "justification": "The translator's footnote in chapter 73 explicitly identifies Vi_72.7 (the ocean-of-desires verse) as identical to Bhagavad Gītā 2.70, constituting a cross-work parallel noted as a citation relationship."
+    }
+  ]
+}

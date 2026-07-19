@@ -1,0 +1,44 @@
+{
+  "work_slug": "david-garrick-poems-5df7b4",
+  "work_title": "Poems",
+  "chapter_number": 3,
+  "chapter_title": "ADVICE to the Marquis of ROCKINGHAM, upon a late Occasion. Written in 1765, by an OLD COURTIER.",
+  "chapter_slug": "03-advice-to-the-marquis-of-rockingham-upon-a-late-",
+  "author": "David Garrick",
+  "author_slug": "david-garrick",
+  "ecpa_poem_id": "o5089-w0290",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "advice"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "sestet (6 lines)"
+    ],
+    "rhyme": "aabccb",
+    "syllable_pattern": "8.8.6.8.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 36
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7a01b45f-6d92-51d9-b631-7509de05ee83",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 245,
+      "line_count": 38,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

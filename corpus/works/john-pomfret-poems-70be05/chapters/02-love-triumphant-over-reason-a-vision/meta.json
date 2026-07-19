@@ -1,0 +1,46 @@
+{
+  "work_slug": "john-pomfret-poems-70be05",
+  "work_title": "Poems",
+  "chapter_number": 2,
+  "chapter_title": "LOVE Triumphant over REASON. A Vision.",
+  "chapter_slug": "02-love-triumphant-over-reason-a-vision",
+  "author": "John Pomfret",
+  "author_slug": "john-pomfret",
+  "ecpa_poem_id": "ppo24-w0020",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "dream vision",
+      "narrative verse"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 620
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8a68c494-7bfd-537f-9e5c-4588b79107d3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4641,
+      "line_count": 622,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

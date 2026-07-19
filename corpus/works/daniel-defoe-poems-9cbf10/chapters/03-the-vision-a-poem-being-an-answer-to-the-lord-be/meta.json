@@ -1,0 +1,44 @@
+{
+  "work_slug": "daniel-defoe-poems-9cbf10",
+  "work_title": "Poems",
+  "chapter_number": 3,
+  "chapter_title": "The Vision, A POEM. Being an ANSWER to the Lord Beilhaven's SPEECH.",
+  "chapter_slug": "03-the-vision-a-poem-being-an-answer-to-the-lord-be",
+  "author": "Daniel Defoe",
+  "author_slug": "daniel-defoe",
+  "ecpa_poem_id": "o3736-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "answer/reply"
+    ],
+    "foot": "anapaestic (˘˘′)",
+    "footnum": "trimeter (3 feet)",
+    "stanzas": [
+      "nine-line stanza"
+    ],
+    "rhyme": "ababcccdd",
+    "syllable_pattern": "8.8.8.8.6.6.11.11.11",
+    "metrical_pattern": "-+|--+|--+/ -+|--+|--+/ -+|--+|--+/ -+|--+|--+/ --+|--+/ --+|--+/ -+|--+|--+|--+/ -+|--+|--+|--+/ -+|--+|--+|--+/",
+    "line_count": 126
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "27f42a56-8e86-50e9-8841-c29551cd3bc1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 882,
+      "line_count": 129,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

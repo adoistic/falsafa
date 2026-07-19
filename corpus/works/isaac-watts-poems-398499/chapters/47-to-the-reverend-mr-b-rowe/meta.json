@@ -1,0 +1,39 @@
+{
+  "work_slug": "isaac-watts-poems-398499",
+  "work_title": "Poems",
+  "chapter_number": 47,
+  "chapter_title": "TO THE Reverend Mr. B. Rowe.",
+  "chapter_slug": "47-to-the-reverend-mr-b-rowe",
+  "author": "Isaac Watts",
+  "author_slug": "isaac-watts",
+  "ecpa_poem_id": "o4672-w0470",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "address",
+      "ode"
+    ],
+    "rhyme": "irregular",
+    "metrical_pattern": "irregular",
+    "line_count": 34
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a3886472-957b-5afe-b31a-460dfa99eec6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 220,
+      "line_count": 41,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

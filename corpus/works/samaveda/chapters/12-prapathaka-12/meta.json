@@ -1,0 +1,38 @@
+{
+  "work_slug": "samaveda",
+  "work_title": "Sāmaveda",
+  "chapter_number": 12,
+  "chapter_title": "Prapāṭhaka 12",
+  "chapter_slug": "12-prapathaka-12",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "f65f7232-3d93-58e7-9a84-2b555434970e",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 1176,
+      "paragraph_count": 56,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "238ed660-96dd-59ea-ad69-666e30235866",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 2453,
+      "paragraph_count": 56,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "work_slug": "mary-barber-poems-3d9e19",
+  "work_title": "Poems",
+  "chapter_number": 34,
+  "chapter_title": "Occasion'd by reading the Memoirs of Anne of Austria, written by Madam de Motteville. Inscrib'd to the Right Honourable the Countess of Hertford.",
+  "chapter_slug": "34-occasiond-by-reading-the-memoirs-of-anne-of-aust",
+  "author": "Mary Barber",
+  "author_slug": "mary-barber",
+  "ecpa_poem_id": "pba35-w0340",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "essay"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 58
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "bab82b83-fbb7-5cc2-af49-dd3e616660c6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 463,
+      "line_count": 60,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

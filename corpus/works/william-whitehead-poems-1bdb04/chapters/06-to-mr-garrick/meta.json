@@ -1,0 +1,44 @@
+{
+  "work_slug": "william-whitehead-poems-1bdb04",
+  "work_title": "Poems",
+  "chapter_number": 6,
+  "chapter_title": "To Mr. GARRICK.",
+  "chapter_slug": "06-to-mr-garrick",
+  "author": "William Whitehead",
+  "author_slug": "william-whitehead",
+  "ecpa_poem_id": "o5153-w0500",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "address"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 110
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2569df44-6d1e-545f-8a2b-4892c8780a2b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 682,
+      "line_count": 112,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

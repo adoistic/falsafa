@@ -1,0 +1,558 @@
+{
+  "slug": "plato-phaedo-2d2a3c",
+  "window": "01-phaedo:60-102",
+  "entities": [
+    {
+      "canonical_name": "Socrates",
+      "surface_names": ["Socrates", "he"],
+      "kind": "figure",
+      "figure_kind": "philosopher",
+      "mentions": [
+        {
+          "paragraph_id": "p-81c713",
+          "quote": "Now see, said he, if this is true. We say there is such a thing as equality.",
+          "role": "interlocutor leading argument on recollection and abstract equality"
+        },
+        {
+          "paragraph_id": "p-a30e23",
+          "quote": "You are right, Simmias, said Cebes. It seems to me that we have proved only half of what is required",
+          "role": "dialogue participant developing proof of soul's pre-existence and post-mortem existence"
+        },
+        {
+          "paragraph_id": "p-3ee4ee",
+          "quote": "to the realm of the god of the other world in truth, to the good and wise god, whither, if God will, my soul is soon to go",
+          "role": "condemned philosopher facing death, reflecting on the soul's fate"
+        },
+        {
+          "paragraph_id": "p-c300ec",
+          "quote": "And you seem to think I am inferior in prophetic power to the swans who sing at other times also, but when they feel that they are to die, sing most and best in their joy",
+          "role": "speaker comparing himself prophetically to Apollo's swans"
+        },
+        {
+          "paragraph_id": "p-dc0b5c",
+          "quote": "And I think that I am myself a fellow-servant of the swans; and am consecrated to the same God and have received from our master a gift of prophecy no whit inferior to theirs",
+          "role": "self-identifying as servant of Apollo with prophetic gift"
+        },
+        {
+          "paragraph_id": "p-6c787b",
+          "quote": "He stroked my head and gathered the hair on the back of my neck into his hand—he had a habit of playing with my hair on occasion",
+          "role": "portrayed in intimate human gesture comforting Phaedo before death"
+        },
+        {
+          "paragraph_id": "p-f4ce58",
+          "quote": "The danger of becoming misologists or haters of argument, said he, as people become misanthropists or haters of man",
+          "role": "warning against misology as the gravest philosophical danger"
+        }
+      ],
+      "description": "Socrates is the principal interlocutor and condemned Athenian philosopher whose arguments for the soul's immortality, pre-existence of knowledge, transmigration, and warning against misology constitute the dialogue's core.",
+      "justification": "Socrates drives every major argument in this window, from the recollection proof through the two-worlds distinction, transmigration doctrine, and the misology warning in the final paragraph."
+    },
+    {
+      "canonical_name": "Simmias",
+      "surface_names": ["Simmias"],
+      "kind": "figure",
+      "figure_kind": "philosopher",
+      "mentions": [
+        {
+          "paragraph_id": "p-81c713",
+          "quote": "And on seeing a picture of Simmias he can be reminded of Simmias himself?",
+          "role": "used as paradigm example in explanation of recollection by likeness"
+        },
+        {
+          "paragraph_id": "p-bcb105",
+          "quote": "Then, Simmias, you do not think all men know these things? By no means.",
+          "role": "interlocutor conceding that souls must have pre-existed to possess innate knowledge"
+        },
+        {
+          "paragraph_id": "p-9224ba",
+          "quote": "He is fully convinced, I think, said Simmias",
+          "role": "partly satisfied by proof of pre-natal soul but still doubts post-mortem survival"
+        },
+        {
+          "paragraph_id": "p-4f451b",
+          "quote": "that one might use the same argument about harmony and a lyre with its strings",
+          "role": "raises the harmony objection to Socrates' proof of soul's immortality"
+        },
+        {
+          "paragraph_id": "p-d0b7c1",
+          "quote": "A soul which has been nurtured in this way, Simmias and Cebes, is not likely to fear",
+          "role": "addressed as one who should be persuaded by the philosophical life argument"
+        }
+      ],
+      "description": "Simmias of Thebes is a key interlocutor who accepts the pre-existence argument but then poses the damaging harmony objection, likening the soul to the tuning of a lyre which perishes when the instrument is destroyed.",
+      "justification": "Simmias is named explicitly throughout as both object of recollection examples and as the author of the harmony objection that destabilizes Socrates' earlier proof."
+    },
+    {
+      "canonical_name": "Cebes",
+      "surface_names": ["Cebes"],
+      "kind": "figure",
+      "figure_kind": "philosopher",
+      "mentions": [
+        {
+          "paragraph_id": "p-a30e23",
+          "quote": "You are right, Simmias, said Cebes. It seems to me that we have proved only half of what is required",
+          "role": "voices the demand for proof of post-mortem survival, not just pre-natal existence"
+        },
+        {
+          "paragraph_id": "p-41c747",
+          "quote": "Hellas, Cebes, he replied, is a large country, in which there are many good men",
+          "role": "asks where a good teacher of comforting arguments can be found after Socrates dies"
+        },
+        {
+          "paragraph_id": "p-f19eb8",
+          "quote": "Beyond a doubt, said Cebes, they pass into such creatures",
+          "role": "concedes the transmigration of unjust souls into predatory animals"
+        },
+        {
+          "paragraph_id": "p-50cca5",
+          "quote": "The argument seems to me to be just where it was, and to be still open to the objection I made before",
+          "role": "raises the weaver-and-cloak objection, questioning whether a stronger soul outlasts the body"
+        },
+        {
+          "paragraph_id": "p-9d8a55",
+          "quote": "I would take an oath, like the Argives, not to let my hair grow until I had renewed the fight and won a victory over the argument of Simmias and Cebes",
+          "role": "his objection named alongside Simmias's as the two challenges to be overcome"
+        }
+      ],
+      "description": "Cebes of Thebes is the most persistent sceptic in the dialogue, who grants the soul's pre-existence but doubts its post-mortem survival and frames the weaver-cloak analogy as a counter to the immortality argument.",
+      "justification": "Cebes is explicitly named as author of the second major objection and as the more obstinately incredulous interlocutor whose doubt about post-mortem survival drives the dialogue's dialectical tension."
+    },
+    {
+      "canonical_name": "Phaedo",
+      "surface_names": ["Phaedo", "I"],
+      "kind": "figure",
+      "figure_kind": "philosopher",
+      "mentions": [
+        {
+          "paragraph_id": "p-81c713",
+          "quote": "Phaedo.",
+          "role": "narrator framing the dialogue being recounted to Echecrates"
+        },
+        {
+          "paragraph_id": "p-267142",
+          "quote": "Phaedo. Echecrates, I have often wondered at Socrates, but never did I admire him more than then.",
+          "role": "eyewitness narrator expressing admiration for Socrates' composure under criticism"
+        },
+        {
+          "paragraph_id": "p-6c787b",
+          "quote": "I was sitting at his right hand on a low stool beside his couch",
+          "role": "present beside Socrates at the moment of death, subject of the hair-cutting exchange"
+        },
+        {
+          "paragraph_id": "p-9d8a55",
+          "quote": "But, I replied, they say that even Heracles is not a match for two.",
+          "role": "participating in the mythological banter about calling Heracles against two opponents"
+        }
+      ],
+      "description": "Phaedo is the narrator and eyewitness who recounts Socrates' final day to Echecrates, occasionally appearing as a minor participant in the discussion and as the subject of Socrates' affectionate hair-stroking gesture.",
+      "justification": "Phaedo is identified by name as the speaker at multiple paragraph markers and as the person sitting beside Socrates whose hair he stroked, making him a grounded presence in this window."
+    },
+    {
+      "canonical_name": "Echecrates",
+      "surface_names": ["Echecrates"],
+      "kind": "figure",
+      "figure_kind": "philosopher",
+      "mentions": [
+        {
+          "paragraph_id": "p-5b7c69",
+          "quote": "Echecrates. By the gods, Phaedo, I sympathize with you",
+          "role": "external interlocutor expressing sympathetic dismay at the weakening of Socrates' argument"
+        },
+        {
+          "paragraph_id": "p-dd763e",
+          "quote": "For the doctrine that the soul is a kind of harmony has always had (and has now) a wonderful hold upon me",
+          "role": "confesses prior belief in the harmony theory of soul, intensifying the drama of Simmias's objection"
+        },
+        {
+          "paragraph_id": "p-c7c172",
+          "quote": "Echecrates. How did he do it?",
+          "role": "asks Phaedo how Socrates rallied those present after the arguments were shaken"
+        }
+      ],
+      "description": "Echecrates is the Phliasian interlocutor to whom Phaedo is narrating the events of Socrates' final day; he reveals his own past sympathy with the harmony theory of the soul.",
+      "justification": "Echecrates is named explicitly as the frame-dialogue interlocutor in paragraphs p-5b7c69, p-dd763e, and p-c7c172, and his personal attachment to the harmony theory is stated in his own words."
+    },
+    {
+      "canonical_name": "Apollo",
+      "surface_names": ["Apollo", "the same God", "our master"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-dc0b5c",
+          "quote": "since they are Apollo's birds, I believe they have prophetic vision",
+          "role": "divine patron whose sacred birds the swans are and whose prophetic gift Socrates claims to share"
+        },
+        {
+          "paragraph_id": "p-dc0b5c",
+          "quote": "And I think that I am myself a fellow-servant of the swans; and am consecrated to the same God and have received from our master a gift of prophecy no whit inferior to theirs",
+          "role": "named as the god to whom Socrates is consecrated as a fellow servant of the swans"
+        }
+      ],
+      "description": "Apollo is the Olympian god of prophecy and the divine patron of the sacred swans; Socrates identifies himself as Apollo's servant whose prophetic joy in approaching death matches that of the swans.",
+      "justification": "Apollo is explicitly named in p-dc0b5c as the god whose birds the swans are and to whom Socrates says he is consecrated, grounding the prophetic analogy that justifies Socrates' serenity before death."
+    },
+    {
+      "canonical_name": "Heracles",
+      "surface_names": ["Heracles"],
+      "kind": "figure",
+      "figure_kind": "hero",
+      "mentions": [
+        {
+          "paragraph_id": "p-9d8a55",
+          "quote": "they say that even Heracles is not a match for two",
+          "role": "invoked as proverbial exemplar of strength to frame the two-against-one dialectical challenge"
+        }
+      ],
+      "description": "Heracles is the legendary Greek hero cited by Phaedo through the proverb that even he could not fight two opponents at once, used to describe the difficulty of answering both Simmias's and Cebes's objections together.",
+      "justification": "Heracles is named explicitly in p-9d8a55 via a well-known Greek proverb to characterise the double challenge posed by Simmias and Cebes's objections."
+    },
+    {
+      "canonical_name": "Iolaus",
+      "surface_names": ["Iolaus"],
+      "kind": "figure",
+      "figure_kind": "hero",
+      "mentions": [
+        {
+          "paragraph_id": "p-9d8a55",
+          "quote": "Well, said he, call me to help you, as your Iolaus, while there is still light. I call you to help, then, said I, not as Heracles calling Iolaus, but as Iolaus calling Heracles.",
+          "role": "mythological companion of Heracles invoked to frame Socrates as the helper in the two-against-one battle of arguments"
+        }
+      ],
+      "description": "Iolaus, the nephew and companion of Heracles, is invoked by Socrates and Phaedo in a playful role-reversal where each claims to be Iolaus calling for the other as Heracles, illustrating the cooperative spirit needed to answer the dual objections.",
+      "justification": "Iolaus is named directly in p-9d8a55 alongside Heracles in a specific mythological allusion where the roles of the two heroes are consciously swapped by the speakers."
+    },
+    {
+      "canonical_name": "Penelope",
+      "surface_names": ["Penelope"],
+      "kind": "figure",
+      "figure_kind": "figure",
+      "mentions": [
+        {
+          "paragraph_id": "p-b51b25",
+          "quote": "like Penelope unweaving the web she wove",
+          "role": "literary figure used as a negative analogy for futile oscillation between philosophy and bodily pleasure"
+        }
+      ],
+      "description": "Penelope, the faithful wife of Odysseus known for weaving and unweaving her shroud, is cited as a metaphor for the self-defeating conduct of a soul that philosophy frees only for it to return to bodily bondage.",
+      "justification": "Penelope is named explicitly in p-b51b25 as the mythological figure whose weaving and unweaving represents the futile toil of a soul that escapes philosophy's liberation only to re-enslave itself to pleasure and pain."
+    },
+    {
+      "canonical_name": "Hellas",
+      "surface_names": ["Hellas", "Greece"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-41c747",
+          "quote": "Hellas, Cebes, he replied, is a large country, in which there are many good men",
+          "role": "geographical reference establishing the scope of the search for a philosophical comforter after Socrates' death"
+        }
+      ],
+      "description": "Hellas (Greece) is named as the large country where Cebes is urged to search for a philosopher capable of dispelling the childish fear of death.",
+      "justification": "Hellas is explicitly named in p-41c747 as the geographical area where Socrates directs Cebes to search for a teacher of comforting arguments."
+    },
+    {
+      "canonical_name": "Egypt",
+      "surface_names": ["Egypt"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-3ee4ee",
+          "quote": "For when the body is shrunk and embalmed, as is done in Egypt, it remains almost entire for an incalculable time.",
+          "role": "cited as a place known for mummification, supporting Socrates' argument that the body can endure long after death"
+        }
+      ],
+      "description": "Egypt is referenced as the origin of the practice of embalming, which Socrates uses to illustrate that even the durable body eventually decays, making the soul's indestructibility by analogy even more certain.",
+      "justification": "Egypt is explicitly named in p-3ee4ee in the context of embalming practices used to contrast the body's temporary durability with the soul's claimed imperishability."
+    },
+    {
+      "canonical_name": "The Argives",
+      "surface_names": ["Argives", "the Argives"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-9d8a55",
+          "quote": "I would take an oath, like the Argives, not to let my hair grow until I had renewed the fight and won a victory",
+          "role": "historical group cited as exemplar of a vow of disgrace (uncut hair) until battle is won"
+        }
+      ],
+      "description": "The Argives are cited as a historical Greek people who were said to have sworn an oath not to cut their hair until they had won a military victory, used here by Socrates as a model for philosophical persistence.",
+      "justification": "The Argives are named explicitly in p-9d8a55 as the source of the vow metaphor that Socrates applies to the need to defeat the objections of Simmias and Cebes before dying."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Anamnesis (recollection) as proof of the soul's pre-existence",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-81c713",
+          "quote": "We say there is such a thing as equality. I do not mean one piece of wood equal to another, or one stone to another, or anything of that sort, but something beyond that—equality in the abstract."
+        },
+        {
+          "paragraph_id": "p-e174cc",
+          "quote": "Did we not, by seeing equal pieces of wood or stones or other things, derive from them a knowledge of abstract equality, which is another thing?"
+        },
+        {
+          "paragraph_id": "p-5ef755",
+          "quote": "Then we must have had knowledge of equality before the time when we first saw equal things and thought, 'All these things are aiming to be like equality but fall short.'"
+        },
+        {
+          "paragraph_id": "p-af7271",
+          "quote": "Then it appears that we must have acquired it before we were born."
+        },
+        {
+          "paragraph_id": "p-c26293",
+          "quote": "if we acquired knowledge before we were born and lost it at birth, but afterwards by the use of our senses regained the knowledge which we had previously possessed, would not the process which we call learning really be recovering knowledge which is our own?"
+        },
+        {
+          "paragraph_id": "p-bcb105",
+          "quote": "Then, Simmias, the souls existed previously, before they were in human form, apart from bodies, and they had intelligence."
+        }
+      ],
+      "justification": "The opening section of this window (p-81c713 through p-bcb105) is devoted entirely to the argument from anamnesis: sensory experience of imperfect equals triggers recollection of perfect abstract Equality, which we could only have known before birth, proving the soul's pre-natal existence."
+    },
+    {
+      "topic": "The theory of Forms (abstract essences) as ontological foundation",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-af7271",
+          "quote": "For our present argument is no more concerned with the equal than with absolute beauty and the absolute good and the just and the holy, and, in short, with all those things which we stamp with the seal of absolute in our dialectic process of questions and answers"
+        },
+        {
+          "paragraph_id": "p-ab045d",
+          "quote": "Is the absolute essence, which we in our dialectic process of question and answer call true being, always the same or is it liable to change? Absolute equality, absolute beauty, any absolute existence, true being—do they ever admit of any change whatsoever?"
+        },
+        {
+          "paragraph_id": "p-bcb105",
+          "quote": "If, as we are always saying, the beautiful exists, and the good, and every essence of that kind, and if we refer all our sensations to these, which we find existed previously and are now ours"
+        },
+        {
+          "paragraph_id": "p-36363b",
+          "quote": "shall we assume two kinds of existences, one visible, the other invisible?"
+        }
+      ],
+      "justification": "The Forms are the structural bedrock of every argument in this window: the recollection proof depends on pre-known abstract Equality, the two-worlds doctrine distinguishes Form-like invisible unchanging essences from visible changing particulars, and the soul's immortality is argued through its kinship with the Forms."
+    },
+    {
+      "topic": "The two-worlds doctrine: visible-changeable vs. invisible-unchanging",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-70689a",
+          "quote": "how about the many things, for example, men, or horses, or cloaks, or any other such things, which bear the same names as the absolute essences and are called beautiful or equal or the like? Are they always the same? Or are they, in direct opposition to the essences, constantly changing in themselves"
+        },
+        {
+          "paragraph_id": "p-36363b",
+          "quote": "Now, said he, shall we assume two kinds of existences, one visible, the other invisible? Let us assume them, said Cebes. And that the invisible is always the same and the visible constantly changing?"
+        },
+        {
+          "paragraph_id": "p-3f8644",
+          "quote": "when the soul makes use of the body for any inquiry, either through seeing or hearing or any of the other senses—then it is dragged by the body to things which never remain the same, and it wanders about and is confused and dizzy"
+        },
+        {
+          "paragraph_id": "p-adaed7",
+          "quote": "the soul is most like the divine and immortal and intellectual and uniform and indissoluble and ever unchanging, and the body, on the contrary, most like the human and mortal and multiform and unintellectual and dissoluble and ever changing"
+        }
+      ],
+      "justification": "Paragraphs p-70689a through p-adaed7 develop a systematic binary ontology: visible/changing/composite/mortal vs. invisible/unchanging/simple/immortal, with the soul mapped onto the latter and the body onto the former."
+    },
+    {
+      "topic": "The soul's affinity with the divine and its kinship with the Forms",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-3f8644",
+          "quote": "when the soul inquires alone by itself, it departs into the realm of the pure, the everlasting, the immortal and the changeless, and being akin to these it dwells always with them whenever it is by itself"
+        },
+        {
+          "paragraph_id": "p-adaed7",
+          "quote": "which seems to you like the divine, and which like the mortal? Or do you not think that the divine is by nature fitted to rule and lead, and the mortal to obey and serve?"
+        },
+        {
+          "paragraph_id": "p-8f585b",
+          "quote": "it goes away into that which is like itself, into the invisible, divine, immortal, and wise, and when it arrives there it is happy, freed from error and folly and fear"
+        }
+      ],
+      "justification": "A recurring argument across p-3f8644, p-adaed7, and p-8f585b is that the soul is naturally akin to the divine, invisible, and unchanging realm, so its proper destiny is communion with that realm after separating from the body."
+    },
+    {
+      "topic": "Bodily imprisonment of the soul and philosophy as liberation",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-f19eb8",
+          "quote": "when philosophy first takes possession of their soul it is entirely fastened and welded to the body and is compelled to regard realities through the body as through prison bars, not with its own unhindered vision"
+        },
+        {
+          "paragraph_id": "p-0c6177",
+          "quote": "philosophy, taking possession of the soul when it is in this state, encourages it gently and tries to set it free, pointing out that the eyes and the ears and the other senses are full of deceit"
+        },
+        {
+          "paragraph_id": "p-0b8a88",
+          "quote": "each pleasure or pain nails it as with a nail to the body and rivets it on and makes it corporeal, so that it fancies the things are true which the body says are true"
+        },
+        {
+          "paragraph_id": "p-b51b25",
+          "quote": "the soul of the philosopher would not reason as others do, and would not think it right that philosophy should set it free, and that then when set free it should give itself again into bondage to pleasure and pain"
+        }
+      ],
+      "justification": "Paragraphs p-f19eb8 through p-b51b25 develop the image of the body as a prison from which philosophy liberates the soul; pleasure and pain are described as 'nailing' the soul to the body, making philosophical detachment the only genuine escape."
+    },
+    {
+      "topic": "Transmigration (metempsychosis): moral character determines the soul's next incarnation",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-8f585b",
+          "quote": "those who have indulged in gluttony and violence and drunkenness, and have taken no pains to avoid them, are likely to pass into the bodies of asses and other beasts of that sort"
+        },
+        {
+          "paragraph_id": "p-f19eb8",
+          "quote": "those who have chosen injustice and tyranny and robbery pass into the bodies of wolves and hawks and kites"
+        },
+        {
+          "paragraph_id": "p-f19eb8",
+          "quote": "the happiest of those, and those who go to the best place, are those who have practiced, by nature and habit, without philosophy or reason, the social and civil virtues which are called moderation and justice"
+        }
+      ],
+      "justification": "Paragraphs p-8f585b and p-f19eb8 present a graduated doctrine of reincarnation where the type of animal or social creature into which the soul passes corresponds to the dominant vice or civic virtue of the soul's previous life."
+    },
+    {
+      "topic": "The harmony objection to the soul's immortality",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-4f451b",
+          "quote": "one might use the same argument about harmony and a lyre with its strings. One might say that the harmony is invisible and incorporeal, and very beautiful and divine in the well attuned lyre, but the lyre itself and its strings are bodies"
+        },
+        {
+          "paragraph_id": "p-4f451b",
+          "quote": "we believe the soul to be something after this fashion; that our body is strung and held together by heat, cold, moisture, dryness, and the like, and the soul is a mixture and a harmony of these same elements"
+        },
+        {
+          "paragraph_id": "p-dd763e",
+          "quote": "the doctrine that the soul is a kind of harmony has always had (and has now) a wonderful hold upon me"
+        }
+      ],
+      "justification": "Simmias's harmony objection in p-4f451b, and Echecrates' confession of sympathy with it in p-dd763e, constitute the central philosophical crisis of this window: if the soul is merely the attunement of the body's physical elements, it perishes with the body."
+    },
+    {
+      "topic": "The weaver-and-cloak analogy: survival of the soul across multiple bodies",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-50cca5",
+          "quote": "It seems to me that it is much as if one should say about an old weaver who had died, that the man had not perished but was safe and sound somewhere, and should offer as a proof of this the fact that the cloak which the man had woven and used to wear was still whole"
+        },
+        {
+          "paragraph_id": "p-50cca5",
+          "quote": "each soul wears out many bodies, especially if the man lives many years. For if the body is constantly changing and being destroyed while the man still lives, and the soul is always weaving anew that which wears out, then when the soul perishes it must necessarily have on its last garment"
+        },
+        {
+          "paragraph_id": "p-228ed7",
+          "quote": "there is nothing to prevent some of them from continuing to exist and from being born and dying again many times after we are dead, because the soul is naturally so strong that it can endure repeated births"
+        }
+      ],
+      "justification": "Cebes' weaver analogy in p-50cca5 and its extension in p-228ed7 argue that even if the soul outlasts many bodies as a weaver outlasts many cloaks, it may still eventually perish in a final death, challenging the proof of absolute immortality."
+    },
+    {
+      "topic": "Misology (hatred of argument) as a philosophical and moral danger",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-f4ce58",
+          "quote": "The danger of becoming misologists or haters of argument, said he, as people become misanthropists or haters of man; for no worse evil can happen to a man than to hate argument."
+        },
+        {
+          "paragraph_id": "p-f4ce58",
+          "quote": "Misology and misanthropy arise from similar causes. For misanthropy arises from trusting someone implicitly without sufficient knowledge."
+        }
+      ],
+      "justification": "In the final paragraph p-f4ce58 Socrates introduces misology as the gravest philosophical disease, structurally parallel to misanthropy and arising from naive over-trust in arguments followed by disillusionment when arguments fail."
+    },
+    {
+      "topic": "The philosophical life as preparation for death (meletē thanatou)",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-297958",
+          "quote": "if it departs pure, dragging with it nothing of the body, because it never willingly associated with the body in life, but avoided it and gathered itself into itself alone, since this has always been its constant study—but this means nothing else than that it pursued philosophy rightly and really practiced being in a state of death"
+        },
+        {
+          "paragraph_id": "p-0c6177",
+          "quote": "the soul of the true philosopher believes that it must not resist this deliverance, and therefore it stands aloof from pleasures and lusts and griefs and fears"
+        },
+        {
+          "paragraph_id": "p-d0b7c1",
+          "quote": "A soul which has been nurtured in this way, Simmias and Cebes, is not likely to fear that it will be torn asunder at its departure from the body"
+        }
+      ],
+      "justification": "Paragraphs p-297958 through p-d0b7c1 make explicit that philosophy is the practice of dying: the philosopher's soul habitually withdraws from bodily desires and thereby rehearses the separation of soul from body that death accomplishes, making the philosophical life itself the best preparation for a calm death."
+    },
+    {
+      "topic": "Epistemic humility and the use of argument as a raft",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-62ff39",
+          "quote": "he must take whatever human doctrine is best and hardest to disprove and, embarking upon it as upon a raft, sail upon it through life in the midst of dangers, unless he can sail upon some stronger vessel, some divine revelation"
+        },
+        {
+          "paragraph_id": "p-62ff39",
+          "quote": "I think, Socrates, as perhaps you do yourself, that it is either impossible or very difficult to acquire clear knowledge about these matters in this life."
+        }
+      ],
+      "justification": "Simmias's speech in p-62ff39 articulates a position of deliberate epistemic humility: since certainty about immortality may be unattainable, the best one can do is find the strongest available argument and use it as a raft, while remaining open to a firmer footing if one appears."
+    },
+    {
+      "topic": "Prophetic serenity: the philosopher's joy in approaching death",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-c300ec",
+          "quote": "And you seem to think I am inferior in prophetic power to the swans who sing at other times also, but when they feel that they are to die, sing most and best in their joy that they are to go to the god whose servants they are."
+        },
+        {
+          "paragraph_id": "p-730127",
+          "quote": "men, because of their own fear of death, misrepresent the swans and say that they sing for sorrow, in mourning for their own death."
+        },
+        {
+          "paragraph_id": "p-dc0b5c",
+          "quote": "I go out from life with as little sorrow as they."
+        }
+      ],
+      "justification": "The swan passage (p-c300ec through p-dc0b5c) embeds an implicit philosophical claim: the fear of death is rooted in misunderstanding, and genuine prophetic or philosophical insight transforms approaching death into a source of joy rather than grief, a claim about the phenomenology of the well-prepared philosopher's inner state."
+    },
+    {
+      "topic": "Purity of the soul and moral pollution from bodily attachments",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-8f585b",
+          "quote": "if when it departs from the body it is defiled and impure, because it was always with the body and cared for it and loved it and was fascinated by it and its desires and pleasures"
+        },
+        {
+          "paragraph_id": "p-8f585b",
+          "quote": "And, my friend, we must believe that the corporeal is burdensome and heavy and earthly and visible. And such a soul is weighed down by this and is dragged back into the visible world, through fear of the invisible and of the other world"
+        },
+        {
+          "paragraph_id": "p-0b8a88",
+          "quote": "and so it sinks quickly into another body again and grows into it, like seed that is sown. Therefore it has no part in the communion with the divine and pure and absolute."
+        }
+      ],
+      "justification": "Paragraphs p-8f585b and p-0b8a88 develop a doctrine of spiritual pollution: attachment to bodily pleasures leaves the soul contaminated and weighted down, unable to ascend to the invisible realm, and instead drawn back into reincarnation."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Odyssey (implied via Penelope's weaving)",
+      "cited_author": "Homer",
+      "stance": "neutral",
+      "paragraph_id": "p-b51b25",
+      "quote": "like Penelope unweaving the web she wove",
+      "justification": "The reference to Penelope's weaving and unweaving her web is a well-known Homeric episode from the Odyssey; Socrates alludes to it as a cultural commonplace to illustrate futile oscillation, constituting an implicit citation of the Homeric tradition."
+    }
+  ]
+}

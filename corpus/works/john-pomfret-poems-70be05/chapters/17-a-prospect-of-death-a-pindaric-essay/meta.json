@@ -1,0 +1,40 @@
+{
+  "work_slug": "john-pomfret-poems-70be05",
+  "work_title": "Poems",
+  "chapter_number": 17,
+  "chapter_title": "A Prospect of Death. A Pindaric Essay.",
+  "chapter_slug": "17-a-prospect-of-death-a-pindaric-essay",
+  "author": "John Pomfret",
+  "author_slug": "john-pomfret",
+  "ecpa_poem_id": "ppo24-w0170",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "Pindaric ode",
+      "essay",
+      "ode"
+    ],
+    "rhyme": "irregular",
+    "metrical_pattern": "irregular",
+    "line_count": 226
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8b7a3d3b-0f25-5cba-b352-99c70a54866a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1594,
+      "line_count": 238,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

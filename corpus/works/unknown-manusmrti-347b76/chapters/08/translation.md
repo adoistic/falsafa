@@ -20,9 +20,9 @@ translator: thothica
 
 A thing given with faith, according to the rule of place and time, to a worthy recipient—that is the means of accomplishing Dharma. // Mn_7.87M //
 
-A king, being challenged by one who is his equal, his superior, or his inferior, while protecting his subjects, must not turn back from battle, remembering the Dharma of a Kshatriya. // Mn_7.87[88M] //
+A king, being challenged by one who is his equal, his superior, or his inferior, while protecting his subjects, must not turn back from battle, remembering the Dharma of a Kṣatriya. // Mn_7.87[88M] //
 
-Not turning back in battles, the protection of the subjects, and the service of Brahmanas are the highest means of welfare for kings. // Mn_7.88[89M] //
+Not turning back in battles, the protection of the subjects, and the service of Brāhmaṇas are the highest means of welfare for kings. // Mn_7.88[89M] //
 
 Kings who, seeking to slay one another in battle, fight with their utmost power without turning their backs, go to heaven. // Mn_7.89[90M] //
 
@@ -42,7 +42,7 @@ A chariot and horse, an elephant, an umbrella, wealth, grain, cattle, women, all
 
 And they should give a choice portion to the king; this is the Vedic revelation. And the king should give to all the warriors what has been won together. // Mn_7.97[98M] //
 
-This has been declared as the eternal, unblemished Dharma of warriors; a Kshatriya, while slaying his enemies in battle, should not swerve from this Dharma. // Mn_7.98[99M] //
+This has been declared as the eternal, unblemished Dharma of warriors; a Kṣatriya, while slaying his enemies in battle, should not swerve from this Dharma. // Mn_7.98[99M] //
 
 He should strive to obtain what has not been obtained, and what has been obtained, he should protect with effort; what has been protected, he should increase, and what has been increased, he should bestow on worthy recipients. // Mn_7.99[100M] //
 
@@ -112,7 +112,7 @@ He may also take a sixth part of trees, meat, honey, and ghee, of perfumes, herb
 
 And of leaves, vegetables, and grasses, of hides and of things made of split cane, of earthen vessels, and of everything made of stone. // Mn_7.132[133M] //
 
-Even if he is dying, a king must not take a tax from a *śrotriya* (a Brahmana learned in the Veda); nor should a *śrotriya* dwelling in his domain ever perish from hunger. // Mn_7.133[134M] //
+Even if he is dying, a king must not take a tax from a *śrotriya* (a Brāhmaṇa learned in the Veda); nor should a *śrotriya* dwelling in his domain ever perish from hunger. // Mn_7.133[134M] //
 
 The kingdom of that king in whose domain a *śrotriya* perishes from hunger, that kingdom too, through that hunger, will soon perish. // Mn_7.134[135M] //
 
@@ -122,7 +122,7 @@ The Dharma which he, being protected by the king, performs daily, by that the ki
 
 Whatever the king may make a common person living by trade pay in his kingdom, that is called a tax, for the year. // Mn_7.137[138M] //
 
-The king should make artisans and craftsmen, and Shudras who live by their own labor, perform one day of work each month. // Mn_7.138[139M] //
+The king should make artisans and craftsmen, and Śūdras who live by their own labor, perform one day of work each month. // Mn_7.138[139M] //
 
 He should not cut his own root, nor that of others, through excessive greed; for by cutting his own root, he torments himself and them. // Mn_7.139[140M] //
 
@@ -134,9 +134,9 @@ Thus having arranged all this, his own duty, he should, being diligent and not c
 
 That king from whose kingdom subjects are carried off by robbers, crying out, while he and his servants look on—he is dead, not alive. // Mn_7.143[144M] //
 
-The highest Dharma of a Kshatriya is the protection of his subjects; for the king who enjoys the specified fruits is joined with Dharma. // Mn_7.144[145M] //
+The highest Dharma of a Kṣatriya is the protection of his subjects; for the king who enjoys the specified fruits is joined with Dharma. // Mn_7.144[145M] //
 
-Having risen in the last watch of the night, having performed his purification and being self-controlled, having offered oblations in the fire and honored the Brahmanas, he should enter his auspicious assembly hall. // Mn_7.145[146M] //
+Having risen in the last watch of the night, having performed his purification and being self-controlled, having offered oblations in the fire and honored the Brāhmaṇas, he should enter his auspicious assembly hall. // Mn_7.145[146M] //
 
 Standing there, having greeted all his subjects, he should dismiss them; and having dismissed all his subjects, he should take counsel with his ministers. // Mn_7.146[147M] //
 
@@ -208,7 +208,7 @@ He should suborn those who are subornable, and he should be aware of what is don
 He should strive to conquer his enemies by conciliation, by gifts, and by division, either all together or separately, but never by battle. // Mn_7.198[199M] //
 Because victory is seen to be uncertain for those who are fighting, and defeat also in battle, therefore he should avoid war. // Mn_7.199[200M] //
 But when the three aforementioned expedients are impossible, then he should fight, being well-prepared, in such a way that he may conquer his enemies. // Mn_7.200[201M] //
-Having conquered, he should worship the gods and also righteous Brahmanas; he should grant exemptions and proclaim promises of safety. // Mn_7.201[202M] //
+Having conquered, he should worship the gods and also righteous Brāhmaṇas; he should grant exemptions and proclaim promises of safety. // Mn_7.201[202M] //
 But having ascertained in summary what all of them desire, he should establish a member of that same dynasty there and make a treaty. // Mn_7.202[203M] //
 And he should make their Dharmas, as they have been declared, the standard; and he should honor him with jewels, together with his chief men. // Mn_7.203[204M] //
 Taking is an unpleasant act, and giving is a pleasant one; but a timely taking of desired things is praised. // Mn_7.204[205M] //
@@ -237,7 +237,7 @@ And having performed his twilight devotions, he should, bearing a weapon in his 
 Having gone to another inner apartment and having dismissed those people, he should again enter the inner apartments, surrounded by women, for the purpose of eating. // Mn_7.224[228M] //
 There, having eaten again a little, and being gladdened by the sounds of musical instruments, he should go to bed at the proper time and rise free from fatigue. // Mn_7.255[229M] //
 A lord of the earth who is healthy should follow this rule; but if he is unwell, he should entrust all this to his servants. // Mn_7.226[230M] //
-But a king, desiring to adjudicate lawsuits, should enter the court of justice, being humble, together with Brahmanas and with ministers skilled in counsel. // Mn_8.1 //
+But a king, desiring to adjudicate lawsuits, should enter the court of justice, being humble, together with Brāhmaṇas and with ministers skilled in counsel. // Mn_8.1 //
 There, seated or standing, having raised his right hand, modest in his dress and ornaments, he should look into the affairs of the litigants. // Mn_8.2 //
 Daily, he should examine the cases, which are bound to the eighteen titles of law, separately, according to reasons based on local custom and on the sacred treatises. // Mn_8.3 //
 Of these, the first is non-payment of debt; deposit; sale without ownership; partnership; and the non-delivery of what has been given. // Mn_8.4 //
@@ -245,9 +245,9 @@ And also the non-payment of wages; breach of contract; rescission of sale and pu
 And the law concerning boundary disputes; assault and defamation; theft and violence; and also adultery. // Mn_8.6 //
 The law concerning husband and wife; inheritance; and gambling and betting—these are the eighteen titles of law in the administration of justice here. // Mn_8.7 //
 In these matters, where disputes most frequently arise among men, he should make a decision on the case, taking refuge in the eternal Dharma. // Mn_8.8 //
-But when the king cannot personally conduct the examination of cases, then he should appoint a learned Brahmana for the examination of cases. // Mn_8.9 //
+But when the king cannot personally conduct the examination of cases, then he should appoint a learned Brāhmaṇa for the examination of cases. // Mn_8.9 //
 He should examine his cases, surrounded by three assessors; having entered the excellent court of justice, seated or standing. // Mn_8.10 //
-That place where three Brahmanas learned in the Veda sit, and the learned man appointed by the king—that they know to be the court of Brahma. // Mn_8.11 //
+That place where three Brāhmaṇas learned in the Veda sit, and the learned man appointed by the king—that they know to be the court of Brahma. // Mn_8.11 //
 Where Dharma, pierced by non-Dharma, approaches the court, and they do not cut out its dart—there the members of the court are pierced. // Mn_8.12 //
 One should either not enter the court, or one should speak justly; for a man who says nothing or who speaks falsely becomes a sinner. // Mn_8.13 //
 Where Dharma is slain by non-Dharma, and truth by falsehood, while the members of the court look on—there the members of the court are slain. // Mn_8.14 //
@@ -256,9 +256,9 @@ For the divine Dharma is a bull; he who violates it, him the gods know as a `v�
 Dharma is the one friend who follows even in death; for everything else goes to destruction along with the body. // Mn_8.17 //
 A quarter of the non-Dharma goes to the doer, a quarter goes to the witness, a quarter to all the members of the court, and a quarter goes to the king. // Mn_8.18 //
 But the king becomes free from guilt, and the members of the court are released, and the sin goes to the doer, where the one deserving of censure is censured. // Mn_8.19 //
-Let a mere Brahmana by birth, or one who calls himself a Brahmana, be the expounder of Dharma for the king, but never a Shudra. // Mn_8.20 //
-The kingdom of that king for whom a Shudra performs the investigation of Dharma sinks, like a cow in the mud, as he looks on. // Mn_8.21 //
-That kingdom which is full of Shudras, overrun by atheists, and devoid of the twice-born, that whole kingdom quickly perishes, afflicted by famine and disease. // Mn_8.22 //
+Let a mere Brāhmaṇa by birth, or one who calls himself a Brāhmaṇa, be the expounder of Dharma for the king, but never a Śūdra. // Mn_8.20 //
+The kingdom of that king for whom a Śūdra performs the investigation of Dharma sinks, like a cow in the mud, as he looks on. // Mn_8.21 //
+That kingdom which is full of Śūdras, overrun by atheists, and devoid of the twice-born, that whole kingdom quickly perishes, afflicted by famine and disease. // Mn_8.22 //
 Having ascended the seat of justice, with his limbs covered and his mind concentrated, having bowed to the world-protectors, he should begin the examination of cases. // Mn_8.23 //
 Having understood both advantage and disadvantage, and Dharma and non-Dharma alone, he should examine all the cases of the litigants in the order of the *varnas*. // Mn_8.24 //
 He should discern the inner disposition of men by external signs: by their voice, color, gestures, and appearance, by their eyes, and by their movements. // Mn_8.25 //
@@ -273,7 +273,7 @@ Then the king should take a sixth part of property that was lost and found; or a
 Property that was lost and found should remain under the care of appointed officials; and whatever thieves he may catch there, the king should have them slain by an elephant. // Mn_8.34 //
 That man who truthfully says, "This treasure trove is mine," from him the king should take a sixth part, or a twelfth part. // Mn_8.35 //
 But if he speaks an untruth, he should be punished with an eighth part of his own property, or with a smaller fraction of that same treasure trove, according to its value. // Mn_8.36 //
-But a learned Brahmana, having found a treasure trove previously deposited, may take it in its entirety; for he is the lord of all. // Mn_8.38 //
+But a learned Brāhmaṇa, having found a treasure trove previously deposited, may take it in its entirety; for he is the lord of all. // Mn_8.38 //
 But if the king should find an ancient treasure trove hidden in the earth, from that he should give half to the twice-born and place half in his treasury. // Mn_8.38 //
 Of ancient treasure troves and of metals in the earth, the king is entitled to half on account of his protection, for he is the lord of the earth. // Mn_8.39 //
 Wealth stolen by thieves must be restored by the king to all the *varnas*; a king who uses it for himself incurs the sin of a thief. // Mn_8.40 //
@@ -296,36 +296,36 @@ And he who, when told "Speak!", does not speak, and does not prove what he has s
 He who, having said, "I have witnesses," and being told, "Point them out," does not point them out—the judge should declare him also defeated for these reasons. // Mn_8.57 //
 If the plaintiff does not speak, he should be confined and fined according to the law; if he does not speak within three fortnights, he is defeated in respect to the law. // Mn_8.58 //
 However much a man may falsely deny, or however much he may falsely claim—those two, being ignorant of Dharma, should be made to pay a fine of double that amount by the king. // Mn_8.59 //
-But one who, being questioned, denies a debt, after a formal claim has been made by the one seeking the money, should be convicted by at least three witnesses in the presence of the king and Brahmanas. // Mn_8.60 //
+But one who, being questioned, denies a debt, after a formal claim has been made by the one seeking the money, should be convicted by at least three witnesses in the presence of the king and Brāhmaṇas. // Mn_8.60 //
 What kind of witnesses should be appointed by creditors in legal proceedings, such I will now declare, and how they should speak the truth. // Mn_8.61 //
-Householders with sons, of established lineage, born of the Kshatriya, Vaishya, and Shudra *varnas*, when called by the plaintiff, are fit to give evidence, but not just anyone, except in a time of distress. // Mn_8.62 //
+Householders with sons, of established lineage, born of the Kṣatriya, Vaiśya, and Śūdra *varnas*, when called by the plaintiff, are fit to give evidence, but not just anyone, except in a time of distress. // Mn_8.62 //
 Trustworthy men from all *varnas* should be appointed as witnesses in lawsuits, who know all the Dharmas and are not greedy; but he should avoid those who are the opposite. // Mn_8.63 //
 Those connected by wealth, nor close relatives, nor helpers, nor enemies, nor those with a proven fault, nor those afflicted by disease, nor the defamed should be appointed. // Mn_8.64 //
 A king should not be appointed as a witness, nor an artisan or an actor, nor a *śrotriya*, nor one wearing the garb of a religious order, nor one who has renounced worldly associations. // Mn_8.65 //
 Not one who is overly dependent, nor one who should not be spoken to, nor a robber, nor one who does forbidden acts, nor an old man, nor a child, nor one alone, nor one of the lowest caste, nor one with impaired senses. // Mn_8.66 //
 Not one in distress, nor one intoxicated, nor one insane, nor one afflicted by hunger or thirst, nor one weary from exertion, nor one afflicted by desire, nor one who is angry, nor a thief. // Mn_8.67 //
-Women should give evidence for women, and for the twice-born, similar twice-born; and virtuous Shudras for Shudras, and those of the lowest birth for the lowest castes. // Mn_8.68 //
+Women should give evidence for women, and for the twice-born, similar twice-born; and virtuous Śūdras for Śūdras, and those of the lowest birth for the lowest castes. // Mn_8.68 //
 But anyone who has witnessed it may give evidence for the litigants in a case that occurred inside a house, or in a forest, or in a matter of life and death. // Mn_8.69 //
 In the absence of a suitable witness, evidence may be given by a woman, by a child, or by an old man, by a pupil, by a kinsman, by a slave, or by a hired servant. // Mn_8.70 //
 In the evidence of children, the old, and the sick who speak falsely, one should recognize their speech as unsteady, and likewise that of those with an agitated mind. // Mn_8.71 //
 In all cases of violence, of theft and adultery, and of verbal and physical assault, one should not examine the witnesses too strictly. // Mn_8.72 //
 In a conflict of witnesses, the king should accept the majority; but if the numbers are equal, he should accept those who are superior in quality; and in a conflict of quality, the best of the twice-born. // Mn_8.73 //
 Evidence is established by seeing with one's own eyes, and also by hearing; there, a witness who speaks the truth is not deprived of Dharma and wealth. // Mn_8.74 //
-A witness who, in the assembly of the Aryans, speaks of anything other than what he has seen or heard, goes headlong to hell and, after death, is deprived of heaven. // Mn_8.75 //
+A witness who, in the assembly of the Āryas, speaks of anything other than what he has seen or heard, goes headlong to hell and, after death, is deprived of heaven. // Mn_8.75 //
 Where one, even if not appointed, sees or hears anything, there too, when asked, he should speak it as it was seen or as it was heard. // Mn_8.76 //
 One man who is not greedy may be a witness, but not many women, even if they are pure, on account of the unsteadiness of a woman's intellect, and also others who are tainted with faults. // Mn_8.77 //
 What they speak from their own nature, that should be accepted in a legal matter; what they speak otherwise for the sake of Dharma is irrelevant. // Mn_8.78 //
 The chief judge should question the witnesses who have arrived in the court, in the presence of the plaintiff and defendant, by this rule, consoling them. // Mn_8.79 //
 "Whatever you know of the mutual conduct of these two in this affair, speak all that truthfully, for here you are the witnesses." // Mn_8.80 //
 A witness who speaks the truth in his evidence obtains abundant worlds, and here on earth, unsurpassed fame; this speech is praised by Brahma. // Mn_8.81 //
-He who speaks an untruth in his evidence is bound fast by the fetters of Varuna, helpless, for a hundred births; therefore, one should speak the truth in evidence. // Mn_8.82 //
+He who speaks an untruth in his evidence is bound fast by the fetters of Varuṇa, helpless, for a hundred births; therefore, one should speak the truth in evidence. // Mn_8.82 //
 A witness is purified by truth; Dharma is increased by truth; therefore, truth must be spoken by witnesses of all *varnas*. // Mn_8.83 //
 The Self is indeed the witness of the Self, and the Self is the refuge of the Self; do not despise your own Self, the supreme witness of men. // Mn_8.84 //
 The doers of sin think, "No one sees us"; but the gods see them, and the inner person within themselves. // Mn_8.85 //
 Heaven, earth, water, the heart, the moon, sun, fire, Yama, and the wind, night, the two twilights, and Dharma—these know the conduct of all embodied beings. // Mn_8.86 //
-In the presence of the gods and Brahmanas, a pure judge should question pure twice-born men about the truth, facing north or east, in the forenoon. // Mn_8.87 //
-He should question a Brahmana with "Speak"; a Kshatriya with "Speak the truth"; a Vaishya by his cows, grain, and gold; and a Shudra by all sins. // Mn_8.88 //
-Those worlds which are remembered for the slayer of a Brahmana, and those for the slayer of a woman or a child, for a betrayer of a friend, and for an ungrateful man—those shall be yours if you speak falsely. // Mn_8.89 //
+In the presence of the gods and Brāhmaṇas, a pure judge should question pure twice-born men about the truth, facing north or east, in the forenoon. // Mn_8.87 //
+He should question a Brāhmaṇa with "Speak"; a Kṣatriya with "Speak the truth"; a Vaiśya by his cows, grain, and gold; and a Śūdra by all sins. // Mn_8.88 //
+Those worlds which are remembered for the slayer of a Brāhmaṇa, and those for the slayer of a woman or a child, for a betrayer of a friend, and for an ungrateful man—those shall be yours if you speak falsely. // Mn_8.89 //
 Whatever merit, O gentle one, you have acquired since your birth, all that will go to a dog if you speak otherwise. // Mn_8.90 //
 You who think, O good one, "I am alone," you do not know that this sage, the constant observer of merit and sin, is seated in your heart. // Mn_8.91 //
 If you have no dispute with Yama, the son of Vivasvat, the god who is seated in your heart, then do not go to the Ganga, nor to the Kurus. // Mn_8.92 //
@@ -338,18 +338,18 @@ He slays five by a falsehood concerning cattle, he slays ten by a falsehood conc
 He who speaks a falsehood for the sake of gold slays those who are born and those who are unborn; he slays all by a falsehood concerning land; do not speak a falsehood concerning land. // Mn_8.99 //
 They say it is like a falsehood concerning land in the case of water, and in the enjoyment of women and in sexual union, and in pearls and jewels, and in all things made of stone. // Mn_8.100 //
 Having considered all these faults in speaking an untruth, speak everything straightforwardly, as it was heard and as it was seen. // Mn_8.101 //
-A Brahmana should treat cowherds, traders, artisans, actors, servants, and usurers like Shudras. // Mn_8.102 //
+A Brāhmaṇa should treat cowherds, traders, artisans, actors, servants, and usurers like Śūdras. // Mn_8.102 //
 A man who, for the sake of Dharma in certain matters, speaks otherwise than he knows, does not fall from the world of heaven; they call that a divine speech. // Mn_8.103 //
-Where the death of a Shudra, Vaishya, Kshatriya, or Brahmana would result from speaking the truth, there a falsehood should be spoken; for it is superior to the truth. // Mn_8.104 //
-They should offer sacrifices to Sarasvati with oblations sacred to the deity of speech, performing the highest expiation for that sin of falsehood. // Mn_8.105 //
-Or he should offer ghee in the fire according to the rule with the Kushmanda texts, or with the Rik verse beginning "ud," which is sacred to Varuna, or with the three verses sacred to the water deities. // Mn_8.106 //
+Where the death of a Śūdra, Vaiśya, Kṣatriya, or Brāhmaṇa would result from speaking the truth, there a falsehood should be spoken; for it is superior to the truth. // Mn_8.104 //
+They should offer sacrifices to Sarasvatī with oblations sacred to the deity of speech, performing the highest expiation for that sin of falsehood. // Mn_8.105 //
+Or he should offer ghee in the fire according to the rule with the Kushmanda texts, or with the Ṛc verse beginning "ud," which is sacred to Varuṇa, or with the three verses sacred to the water deities. // Mn_8.106 //
 A man who, being healthy, does not give evidence in cases of debt and so on within three fortnights, shall incur the whole debt, and a tenth part of it as a fine from all sides. // Mn_8.107 //
 That witness of whom, within a week of having given his testimony, a disease, a fire, or the death of a kinsman is seen—he should be made to pay the debt and a fine. // Mn_8.108 //
 But in matters where there are no witnesses, between two who are disputing with each other, if one cannot find the truth in fact, one may ascertain it even by an oath. // Mn_8.109 //
-Oaths have been made by the great sages and by the gods for the sake of a matter; and Vasishtha also swore an oath in the case of king Paijavana. // Mn_8.110 //
+Oaths have been made by the great sages and by the gods for the sake of a matter; and Vasiṣṭha also swore an oath in the case of king Paijavana. // Mn_8.110 //
 A wise man should not swear an oath for no reason, even in a small matter; for one who swears an oath for no reason perishes both after death and in this world. // Mn_8.111 //
-In matters concerning women, in marriages, in food for cows, and likewise in fuel, and in the protection of a Brahmana, there is no sin in an oath. // Mn_8.112 //
-He should make a Brahmana swear by the truth; a Kshatriya by his vehicle and weapons; a Vaishya by his cows, grain, and gold; and a Shudra by all sins. // Mn_8.113 //
+In matters concerning women, in marriages, in food for cows, and likewise in fuel, and in the protection of a Brāhmaṇa, there is no sin in an oath. // Mn_8.112 //
+He should make a Brāhmaṇa swear by the truth; a Kṣatriya by his vehicle and weapons; a Vaiśya by his cows, grain, and gold; and a Śūdra by all sins. // Mn_8.113 //
 Or he should make him carry fire, or make him plunge into water; or he should make him touch the heads of his son and wife separately. // Mn_8.114 //
 He whom the blazing fire does not burn, whom the waters do not cause to rise up, and who does not quickly meet with misfortune—he is to be known as pure in his oath. // Mn_8.115 //
 For of Vatsa, who was formerly accused by his younger brother, the fire did not burn even a hair, because of the truth, O spy of the world. // Mn_8.116 //
@@ -365,9 +365,9 @@ From lust, ten times the first; from anger, three times the highest; from ignora
 
 These punishments, declared by the wise for false evidence, they have stated for the sake of the unwaveringness of Dharma and for the restraint of non-Dharma. // Mn_8.122 //
 
-A righteous king, having fined the three *varnas* who give false evidence, should banish them; but a Brahmana he should merely banish. // Mn_8.123 //
+A righteous king, having fined the three *varnas* who give false evidence, should banish them; but a Brāhmaṇa he should merely banish. // Mn_8.123 //
 
-Svayambhuva Manu declared ten places of punishment, which may be applied to the three *varnas*; but a Brahmana should depart uninjured. // Mn_8.124 //
+Svayambhuva Manu declared ten places of punishment, which may be applied to the three *varnas*; but a Brāhmaṇa should depart uninjured. // Mn_8.124 //
 
 The generative organ, the belly, the tongue, the two hands, and the feet as the fifth; the eye, the nose, and the two ears, and also wealth and the body. // Mn_8.125 //
 
@@ -399,7 +399,7 @@ Two hundred and fifty *paṇas* are remembered as the first amercement; the midd
 
 When a debt is acknowledged and is to be paid, a fine of five percent is proper; on denial, it is double that; this is the ordinance of Manu. // Mn_8.139 //
 
-A moneylender may take the interest prescribed by Vasishtha for the increase of his capital, taking the eightieth part per month on each hundred. // Mn_8.140 //
+A moneylender may take the interest prescribed by Vasiṣṭha for the increase of his capital, taking the eightieth part per month on each hundred. // Mn_8.140 //
 
 Or, remembering the Dharma of the good, he may take two percent; for by taking two percent, he does not become a sinner for the sake of wealth. // Mn_8.141 //
 
@@ -457,7 +457,7 @@ Whatever transaction a dependent may make for the sake of the family, whether in
 
 What is given by force, enjoyed by force, and also what is written by force—all things done by force, Manu has declared to be undone. // Mn_8.168 //
 
-Three suffer for the sake of another: witnesses, a surety, and the family; but four prosper: a Brahmana, a rich man, a merchant, and a king. // Mn_8.169 //
+Three suffer for the sake of another: witnesses, a surety, and the family; but four prosper: a Brāhmaṇa, a rich man, a merchant, and a king. // Mn_8.169 //
 
 A king, even if he is impoverished, should not take what ought not to be taken; nor, even if he is prosperous, should he relinquish what ought to be taken, even if it is a trifling amount. // Mn_8.170 //
 
@@ -657,9 +657,9 @@ If a boundary cannot be determined, the king himself, knowing the Dharma, should
 
 This has been declared in its entirety as the law for the determination of boundaries; hereafter I will declare the determination of verbal assault. // Mn_8.266 //
 
-A Kshatriya who insults a Brahmana deserves a fine of one hundred; a Vaishya, one hundred and fifty or two hundred; but a Shudra deserves corporal punishment. // Mn_8.267 //
+A Kṣatriya who insults a Brāhmaṇa deserves a fine of one hundred; a Vaiśya, one hundred and fifty or two hundred; but a Śūdra deserves corporal punishment. // Mn_8.267 //
 
-A Brahmana shall be fined fifty for defaming a Kshatriya; for a Vaishya, it shall be twenty-five; for a Shudra, the fine is twelve. // Mn_8.268 //
+A Brāhmaṇa shall be fined fifty for defaming a Kṣatriya; for a Vaiśya, it shall be twenty-five; for a Śūdra, the fine is twelve. // Mn_8.268 //
 
 For a transgression among men of the same *varna* among the twice-born, the fine is twelve; but for unspeakable words in disputes, it shall be double that. // Mn_8.269 //
 
@@ -667,7 +667,7 @@ A man of a single birth who assails the twice-born with harsh speech shall have 
 
 If he mentions their name and caste with malice, an iron nail, ten fingers long and glowing hot, shall be thrust into his mouth. // Mn_8.271 //
 
-If he arrogantly gives religious instruction to Brahmanas, the king shall have hot oil poured into his mouth and ear. // Mn_8.272 //
+If he arrogantly gives religious instruction to Brāhmaṇas, the king shall have hot oil poured into his mouth and ear. // Mn_8.272 //
 
 He who out of arrogance falsely speaks of another's learning, country, caste, or bodily form, shall be made to pay a fine of two hundred. // Mn_8.273 //
 
@@ -675,9 +675,9 @@ He who calls another one-eyed, or lame, or by any other such name, even truthful
 
 He who reviles his mother, father, wife, brother, son, or *guru*, and he who does not give way to his *guru*, shall be made to pay one hundred. // Mn_8.275 //
 
-For a dispute between a Brahmana and a Kshatriya, a fine should be imposed by one who knows; for a Brahmana, the first amercement; and for a Kshatriya, the middle one. // Mn_8.276 //
+For a dispute between a Brāhmaṇa and a Kṣatriya, a fine should be imposed by one who knows; for a Brāhmaṇa, the first amercement; and for a Kṣatriya, the middle one. // Mn_8.276 //
 
-For a Vaishya and a Shudra, it is just the same, in truth, against their own caste; the imposition of punishment, excluding mutilation, is the decision. // Mn_8.277 //
+For a Vaiśya and a Śūdra, it is just the same, in truth, against their own caste; the imposition of punishment, excluding mutilation, is the decision. // Mn_8.277 //
 
 This rule of punishment for verbal assault has been declared in truth; hereafter I will declare the determination of physical assault. // Mn_8.278 //
 
@@ -757,7 +757,7 @@ Carrying on his shoulder a pestle, or a club of Khadira wood, or a spear sharp a
 
 Whether by punishment or by pardon, the thief is freed from the theft; but by not punishing him, the king incurs the sin of the thief. // Mn_8.316 //
 
-The slayer of a learned Brahmana wipes his sin on one who eats his food; an unfaithful wife, on her husband; a pupil and one for whom a sacrifice is performed, on the *guru*; and a thief, on the king. // Mn_8.317 //
+The slayer of a learned Brāhmaṇa wipes his sin on one who eats his food; an unfaithful wife, on her husband; a pupil and one for whom a sacrifice is performed, on the *guru*; and a thief, on the king. // Mn_8.317 //
 
 But men who have committed sins and have been punished by kings, they go to heaven, pure, like the virtuous who have done good deeds. // Mn_8.318 //
 
@@ -773,7 +773,7 @@ For the abduction of men of noble family, and especially of women, and for the t
 
 For the theft of large cattle, of weapons, and of medicine, the king should impose a punishment, having considered the time and the purpose. // Mn_8.324 //
 
-For cattle belonging to Brahmanas, for piercing with a dagger, and for the theft of cattle, the cutting off of half a foot should be done immediately. // Mn_8.325 //
+For cattle belonging to Brāhmaṇas, for piercing with a dagger, and for the theft of cattle, the cutting off of half a foot should be done immediately. // Mn_8.325 //
 
 For thread, cotton, yeast, cow-dung, and molasses; // Mn_8.326 //
 
@@ -797,13 +797,13 @@ A father, an *ācārya*, a friend, a mother, a wife, a son, or a family priest�
 
 Where a common man would be fined one *kārṣāpaṇa*, there the king shall be fined a thousand; this is the established rule. // Mn_8.336 //
 
-For a theft, the guilt of a Shudra shall be eightfold; of a Vaishya, sixteenfold; of a Kshatriya, thirty-twofold. // Mn_8.337 //
+For a theft, the guilt of a Śūdra shall be eightfold; of a Vaiśya, sixteenfold; of a Kṣatriya, thirty-twofold. // Mn_8.337 //
 
-For a Brahmana, it shall be sixty-fourfold, or a full hundred, or even twice sixty-four; for he is a knower of the good and bad qualities of that act. // Mn_8.338 //
+For a Brāhmaṇa, it shall be sixty-fourfold, or a full hundred, or even twice sixty-four; for he is a knower of the good and bad qualities of that act. // Mn_8.338 //
 
 Fruit and roots from a wild tree, wood for the sake of a fire, and likewise grass for the sake of feeding cows—Manu has declared this not to be theft. // Mn_8.339 //
 
-A Brahmana who desires to obtain wealth from the hand of one who takes what is not given, even by sacrificing or teaching for him, he is just like a thief. // Mn_8.340 //
+A Brāhmaṇa who desires to obtain wealth from the hand of one who takes what is not given, even by sacrificing or teaching for him, he is just like a thief. // Mn_8.340 //
 
 A twice-born traveler whose livelihood is exhausted, by taking two sugarcanes or two roots from another's field, does not deserve to pay a fine. // Mn_8.341 //
 
@@ -821,9 +821,9 @@ A king must not, for the sake of a friend or from a great influx of wealth, let 
 
 A weapon may be taken up by the twice-born when Dharma is obstructed, and in a calamity caused by time that afflicts the twice-born and the *varnas*. // Mn_8.348 //
 
-And in the protection of oneself, and in a conflict over sacrificial fees, and in the defense of women and Brahmanas, one who slays according to Dharma is not tainted. // Mn_8.349 //
+And in the protection of oneself, and in a conflict over sacrificial fees, and in the defense of women and Brāhmaṇas, one who slays according to Dharma is not tainted. // Mn_8.349 //
 
-One may slay without hesitation an aggressor who is approaching, whether he be a *guru*, a child, an old man, or a Brahmana of great learning. // Mn_8.350 //
+One may slay without hesitation an aggressor who is approaching, whether he be a *guru*, a child, an old man, or a Brāhmaṇa of great learning. // Mn_8.350 //
 
 There is no fault whatsoever for the slayer in the slaying of an aggressor, whether openly or secretly; fury meets fury. // Mn_8.351 //
 
@@ -841,7 +841,7 @@ Offering services, dallying, touching her ornaments and clothes, and sitting wit
 
 He who touches a woman in an improper place, or who, being touched, allows it, with mutual consent—all this is remembered as adultery. // Mn_8.358 //
 
-A non-Brahmana deserves the punishment of death for adultery; for the wives of all four *varnas* must always be most carefully protected. // Mn_8.359 //
+A non-Brāhmaṇa deserves the punishment of death for adultery; for the wives of all four *varnas* must always be most carefully protected. // Mn_8.359 //
 
 Mendicants and bards, those initiated for a sacrifice, and likewise artisans, may hold conversation with women without being prevented. // Mn_8.360 //
 
@@ -869,31 +869,31 @@ That woman who, proud of her family and her qualities, transgresses against her 
 
 He should have the sinful man burned on a heated iron bed; and they should pile wood on it, and there the sinner shall be burned. // Mn_8.372 //
 
-For one who has been accused for a year, the fine for the offense is double; for intercourse with a Vratya woman, and likewise with a Chandala woman, it is the same. // Mn_8.373 //
+For one who has been accused for a year, the fine for the offense is double; for intercourse with a Vratya woman, and likewise with a Caṇḍāla woman, it is the same. // Mn_8.373 //
 
-A Shudra who has intercourse with a twice-born woman, whether she is guarded or unguarded, shall be deprived of his limb and all his property if she is unguarded; of everything, if she is guarded. // Mn_8.374 //
+A Śūdra who has intercourse with a twice-born woman, whether she is guarded or unguarded, shall be deprived of his limb and all his property if she is unguarded; of everything, if she is guarded. // Mn_8.374 //
 
-A Vaishya shall be punished with the confiscation of all his property after a year's imprisonment; a Kshatriya shall be fined a thousand and deserves to have his head shaved with urine. // Mn_8.375 //
+A Vaiśya shall be punished with the confiscation of all his property after a year's imprisonment; a Kṣatriya shall be fined a thousand and deserves to have his head shaved with urine. // Mn_8.375 //
 
-If a Vaishya or a Kshatriya should have intercourse with an unguarded Brahmana woman, he should fine the Vaishya five hundred, and the Kshatriya a thousand. // Mn_8.376 //
+If a Vaiśya or a Kṣatriya should have intercourse with an unguarded Brāhmaṇa woman, he should fine the Vaiśya five hundred, and the Kṣatriya a thousand. // Mn_8.376 //
 
-But both of them, if they have intercourse with a guarded Brahmana woman, having been defiled, shall be punished like a Shudra, or they shall be burned in a fire of straw. // Mn_8.377 //
+But both of them, if they have intercourse with a guarded Brāhmaṇa woman, having been defiled, shall be punished like a Śūdra, or they shall be burned in a fire of straw. // Mn_8.377 //
 
-A Brahmana who forcibly has intercourse with a guarded Brahmana woman shall be fined a thousand; but he shall be fined five hundred if he has intercourse with a willing one. // Mn_8.378 //
+A Brāhmaṇa who forcibly has intercourse with a guarded Brāhmaṇa woman shall be fined a thousand; but he shall be fined five hundred if he has intercourse with a willing one. // Mn_8.378 //
 
-Shaving the head is prescribed as a capital punishment for a Brahmana; but for the other *varnas*, the punishment shall be capital. // Mn_8.379 //
+Shaving the head is prescribed as a capital punishment for a Brāhmaṇa; but for the other *varnas*, the punishment shall be capital. // Mn_8.379 //
 
-One must never slay a Brahmana, even if he is involved in all sins; one should banish him from the kingdom with all his property and uninjured. // Mn_8.380 //
+One must never slay a Brāhmaṇa, even if he is involved in all sins; one should banish him from the kingdom with all his property and uninjured. // Mn_8.380 //
 
-No greater non-Dharma is known on earth than the slaying of a Brahmana; therefore, a king must not contemplate his slaying even in his mind. // Mn_8.381 //
+No greater non-Dharma is known on earth than the slaying of a Brāhmaṇa; therefore, a king must not contemplate his slaying even in his mind. // Mn_8.381 //
 
-If a Vaishya has intercourse with a guarded Kshatriya woman, or a Kshatriya with a Vaishya woman, they both deserve the same punishment as for an unguarded Brahmana woman. // Mn_8.382 //
+If a Vaiśya has intercourse with a guarded Kṣatriya woman, or a Kṣatriya with a Vaiśya woman, they both deserve the same punishment as for an unguarded Brāhmaṇa woman. // Mn_8.382 //
 
-A Brahmana shall be made to pay a fine of a thousand for having intercourse with those two when they are guarded; for intercourse with a Shudra woman, the fine for a Kshatriya or a Vaishya shall be a thousand. // Mn_8.383 //
+A Brāhmaṇa shall be made to pay a fine of a thousand for having intercourse with those two when they are guarded; for intercourse with a Śūdra woman, the fine for a Kṣatriya or a Vaiśya shall be a thousand. // Mn_8.383 //
 
-For intercourse with an unguarded Kshatriya woman, the fine for a Vaishya is five hundred; but a Kshatriya should receive the punishment of having his head shaved with urine, or a fine. // Mn_8.384 //
+For intercourse with an unguarded Kṣatriya woman, the fine for a Vaiśya is five hundred; but a Kṣatriya should receive the punishment of having his head shaved with urine, or a fine. // Mn_8.384 //
 
-A Brahmana who has intercourse with an unguarded Kshatriya or Vaishya woman, or with a Shudra woman, shall be fined five hundred; but for an outcaste woman, a thousand. // Mn_8.385 //
+A Brāhmaṇa who has intercourse with an unguarded Kṣatriya or Vaiśya woman, or with a Śūdra woman, shall be fined five hundred; but for an outcaste woman, a thousand. // Mn_8.385 //
 
 That king in whose city there is no thief, no adulterer, no one of abusive speech, no one who wields the rod of violence—he is a partaker of the world of Indra. // Mn_8.386 //
 
@@ -905,9 +905,9 @@ A mother, a father, a wife, and a son do not deserve to be abandoned; one who ab
 
 When the twice-born in their *āśramas* are disputing with each other about a matter, a king, desiring his own welfare, should not declare the Dharma. // Mn_8.390 //
 
-Having honored them according to their merit, the king, together with Brahmanas, should first pacify them with conciliation and then establish them in their own Dharma. // Mn_8.391 //
+Having honored them according to their merit, the king, together with Brāhmaṇas, should first pacify them with conciliation and then establish them in their own Dharma. // Mn_8.391 //
 
-A Brahmana who does not feed his worthy immediate and next-door neighbors at an auspicious ceremony with twenty twice-born guests deserves a fine of one *māṣaka*. // Mn_8.392 //
+A Brāhmaṇa who does not feed his worthy immediate and next-door neighbors at an auspicious ceremony with twenty twice-born guests deserves a fine of one *māṣaka*. // Mn_8.392 //
 
 A *śrotriya* who does not feed a virtuous *śrotriya* at rites for prosperity shall be made to pay double the value of that food, and also a gold piece of one *māṣaka*. // Mn_8.393 //
 
@@ -937,29 +937,29 @@ Vehicles full of goods shall be made to pay a toll according to their value; emp
 
 For a long journey, the toll shall be according to the place and time; one should know this for riverbanks; on the sea, there is no fixed rule. // Mn_8.406 //
 
-A woman who is two or more months pregnant, and likewise a wandering ascetic, a sage, and Brahmanas wearing the marks of their order, are not to be made to pay a ferry-toll. // Mn_8.407 //
+A woman who is two or more months pregnant, and likewise a wandering ascetic, a sage, and Brāhmaṇas wearing the marks of their order, are not to be made to pay a ferry-toll. // Mn_8.407 //
 
 Whatever on a boat should be damaged through the fault of the boatmen, that must be paid by the boatmen themselves, having come together, from their own shares. // Mn_8.408 //
 
 This has been declared as the decision for legal proceedings concerning boat-travelers; for damage in the water due to the fault of the boatmen, but for an act of God, there is no punishment. // Mn_8.409 //
 
-He should make a Vaishya engage in trade, money-lending, and agriculture, and also in the protection of cattle; and a Shudra, in the service of the twice-born. // Mn_8.410 //
+He should make a Vaiśya engage in trade, money-lending, and agriculture, and also in the protection of cattle; and a Śūdra, in the service of the twice-born. // Mn_8.410 //
 
-A Brahmana should, out of compassion, support a Kshatriya and a Vaishya who are distressed for a livelihood, making them perform their own duties. // Mn_8.411 //
+A Brāhmaṇa should, out of compassion, support a Kṣatriya and a Vaiśya who are distressed for a livelihood, making them perform their own duties. // Mn_8.411 //
 
-But a Brahmana who, out of greed, makes initiated twice-born men perform the work of a slave against their will, through his power, shall be fined six hundred by the king. // Mn_8.412 //
+But a Brāhmaṇa who, out of greed, makes initiated twice-born men perform the work of a slave against their will, through his power, shall be fined six hundred by the king. // Mn_8.412 //
 
-But he should make a Shudra perform the work of a slave, whether bought or not bought; for he was created by the Self-existent One for the service of a Brahmana. // Mn_8.413 //
+But he should make a Śūdra perform the work of a slave, whether bought or not bought; for he was created by the Self-existent One for the service of a Brāhmaṇa. // Mn_8.413 //
 
-A Shudra, even if released by his master, is not freed from servitude; for that is innate in him; who then can remove that from him? // Mn_8.414 //
+A Śūdra, even if released by his master, is not freed from servitude; for that is innate in him; who then can remove that from him? // Mn_8.414 //
 
 One captured under a banner, one who becomes a slave for food, one born in the house, one who is bought, one who is given, one inherited from his father, and one who becomes a slave to pay off a fine—these are the seven origins of slaves. // Mn_8.415 //
 
 A wife, a son, and a slave—these three are remembered as having no property; whatever they acquire, that property belongs to him to whom they belong. // Mn_8.416 //
 
-A Brahmana may confidently take property from a Shudra; for he has nothing of his own, for his property may be taken by his master. // Mn_8.417 //
+A Brāhmaṇa may confidently take property from a Śūdra; for he has nothing of his own, for his property may be taken by his master. // Mn_8.417 //
 
-He should diligently make the Vaishya and the Shudra perform their own duties; for those two, having fallen from their duties, would throw this world into confusion. // Mn_8.418 //
+He should diligently make the Vaiśya and the Śūdra perform their own duties; for those two, having fallen from their duties, would throw this world into confusion. // Mn_8.418 //
 
 Day by day he should inspect the workshops and the vehicles, and the fixed income and expenditure, the mines, and the treasury. // Mn_8.419 //
 

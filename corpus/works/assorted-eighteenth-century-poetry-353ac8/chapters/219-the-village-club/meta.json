@@ -1,0 +1,44 @@
+{
+  "work_slug": "assorted-eighteenth-century-poetry-353ac8",
+  "work_title": "An Assorted Collection of Eighteenth-Century Poetry",
+  "chapter_number": 219,
+  "chapter_title": "THE VILLAGE CLUB.",
+  "chapter_slug": "219-the-village-club",
+  "author": "Catherine Gilpin",
+  "author_slug": "catherine-gilpin",
+  "ecpa_poem_id": "bsb18-w0850",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "song"
+    ],
+    "foot": "anapaestic (˘˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "xaxa",
+    "syllable_pattern": "9.8.9.8",
+    "metrical_pattern": "--+|--+|--+|-/ -+|--+|--+/ --+|--+|--+|-/ -+|--+|--+/",
+    "line_count": 32
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b7f57a9c-e4f3-56df-bcf8-c2ac1586643f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 238,
+      "line_count": 33,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

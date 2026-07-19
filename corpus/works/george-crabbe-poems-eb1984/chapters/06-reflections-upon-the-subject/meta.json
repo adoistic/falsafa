@@ -1,0 +1,38 @@
+{
+  "work_slug": "george-crabbe-poems-eb1984",
+  "work_title": "Poems",
+  "chapter_number": 6,
+  "chapter_title": "REFLECTIONS UPON THE SUBJECT — —",
+  "chapter_slug": "06-reflections-upon-the-subject",
+  "author": "George Crabbe",
+  "author_slug": "george-crabbe",
+  "ecpa_poem_id": "pcr18-w0060",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "rhyme": "abab",
+    "syllable_pattern": "8.8.8.8",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/",
+    "line_count": 108
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4397051a-8e71-59eb-8942-5a9d535dbd5d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 696,
+      "line_count": 109,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

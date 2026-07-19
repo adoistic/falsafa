@@ -1,0 +1,45 @@
+{
+  "work_slug": "mary-barber-poems-3d9e19",
+  "work_title": "Poems",
+  "chapter_number": 88,
+  "chapter_title": "On imagining a Friend had treated the Author with Indifference.",
+  "chapter_slug": "88-on-imagining-a-friend-had-treated-the-author-wit",
+  "author": "Mary Barber",
+  "author_slug": "mary-barber",
+  "ecpa_poem_id": "pba35-w0920",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "occasional poem"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "sestet (6 lines)",
+      "sesta rima (6 lines [ababcc])"
+    ],
+    "rhyme": "ababcc",
+    "syllable_pattern": "8.6.8.6.8.8",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/",
+    "line_count": 6
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "46863397-42df-5075-af7e-e62deaa7bddc",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 42,
+      "line_count": 7,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

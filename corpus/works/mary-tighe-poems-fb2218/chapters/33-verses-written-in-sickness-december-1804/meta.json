@@ -1,0 +1,44 @@
+{
+  "work_slug": "mary-tighe-poems-fb2218",
+  "work_title": "Poems",
+  "chapter_number": 33,
+  "chapter_title": "Verses Written in Sickness. December, 1804.",
+  "chapter_slug": "33-verses-written-in-sickness-december-1804",
+  "author": "Mary Tighe",
+  "author_slug": "mary-tighe",
+  "ecpa_poem_id": "pmt18-w0280",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "occasional poem"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "8.8.8.8",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/",
+    "line_count": 56
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e0111383-dc7e-59b5-83cf-6ced9fbf9330",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 352,
+      "line_count": 58,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

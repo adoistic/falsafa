@@ -1,0 +1,38 @@
+{
+  "work_slug": "asanga-sarirarthagatha-503db2",
+  "work_title": "Śarīrārthagāthā",
+  "chapter_number": 32,
+  "chapter_title": "Free of the four yokes, beyond rebirth",
+  "chapter_slug": "32-free-of-the-four-yokes-beyond-rebirth",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "283908d3-803c-5bcb-abb6-c1f705ae37ee",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "iast",
+      "word_count": 17,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f8575993-0c13-59eb-af71-9631a0da167b",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 36,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    }
+  ]
+}

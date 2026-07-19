@@ -1,0 +1,28 @@
+{
+  "work_slug": "william-shakespeare-sonnets-65f289",
+  "work_title": "Sonnets",
+  "chapter_number": 117,
+  "chapter_title": "Sonnet 117",
+  "chapter_slug": "117-sonnet-117",
+  "incipit": "Accuse me thus: that I have scanted all,",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "199729c3-cd0b-5df1-8d68-0c25f9dc7810",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 110,
+      "line_count": 14,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1041",
+      "license": "Public domain — from Project Gutenberg (https://www.gutenberg.org)"
+    }
+  ]
+}

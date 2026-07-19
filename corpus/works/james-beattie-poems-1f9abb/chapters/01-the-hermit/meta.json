@@ -1,0 +1,41 @@
+{
+  "work_slug": "james-beattie-poems-1f9abb",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "THE HERMIT.",
+  "chapter_slug": "01-the-hermit",
+  "author": "James Beattie",
+  "author_slug": "james-beattie",
+  "ecpa_poem_id": "o4986-w0140",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "foot": "anapaestic (˘˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "octet (8 lines)"
+    ],
+    "rhyme": "ababcdcd",
+    "syllable_pattern": "12.12.12.12.12.12.12.12",
+    "metrical_pattern": "--+|--+|--+|--+/ --+|--+|--+|--+/ --+|--+|--+|--+/ --+|--+|--+|--+/ --+|--+|--+|--+/ --+|--+|--+|--+/ --+|--+|--+|--+/ --+|--+|--+|--+/",
+    "line_count": 32
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c5ba29a6-a9cc-5c11-936b-ad797661eadc",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 294,
+      "line_count": 33,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

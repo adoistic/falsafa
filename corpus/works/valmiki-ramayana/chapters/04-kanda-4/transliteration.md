@@ -1,0 +1,7967 @@
+---
+work_id: "024dffd8-3c46-5746-9b2b-5525ce1a3e1c"
+work_slug: "valmiki-ramayana"
+work_title: Vālmīki Rāmāyaṇa
+author_name: Vālmīki
+chapter_number: 4
+chapter_title: Kāṇḍa 4
+chapter_slug: "04-kanda-4"
+variant_id: "194718fe-4ac9-578f-b9c4-e392c2a81a67"
+content_type: transliteration
+layout: verse
+language: Sanskrit
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 24441
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
+transliterator: thothica
+---
+
+**4.1.1**
+
+sa tāṃ puṣkariṇīṃ gatvā padmotpalajhaṣākulām rāmaḥ saumitrisahito vilalāpākulendriyaḥ
+
+**4.1.2**
+
+tasya dṛṣṭvaiva tāṃ harṣād indriyāṇi cakampire sa kāmavaśam āpannaḥ saumitrim idam abravīt
+
+**4.1.3**
+
+saumitre paśya pampāyāḥ kānanaṃ śubhadarśanam yatra rājanti śailābhā drumāḥ saśikharā iva
+
+**4.1.4**
+
+māṃ tu śokābhisaṃtaptam ādhayaḥ pīḍayanti vai bharatasya ca duḥkhena vaidehyā haraṇena ca
+
+**4.1.5**
+
+adhikaṃ pravibhāty etan nīlapītaṃ tu śādvalam drumāṇāṃ vividhaiḥ puṣpaiḥ paristomair ivārpitam
+
+**4.1.6**
+
+sukhānilo 'yaṃ saumitre kālaḥ pracuramanmathaḥ gandhavān surabhir māso jātapuṣpaphaladrumaḥ
+
+**4.1.7**
+
+paśya rūpāṇi saumitre vanānāṃ puṣpaśālinām sṛjatāṃ puṣpavarṣāṇi varṣaṃ toyamucām iva
+
+**4.1.8**
+
+prastareṣu ca ramyeṣu vividhāḥ kānanadrumāḥ vāyuvegapracalitāḥ puṣpair avakiranti gām
+
+**4.1.9**
+
+mārutaḥ sukhaṃ saṃsparśe vāti candanaśītalaḥ ṣaṭpadair anukūjadbhir vaneṣu madhugandhiṣu
+
+**4.1.10**
+
+giriprastheṣu ramyeṣu puṣpavadbhir manoramaiḥ saṃsaktaśikharā śailā virājanti mahādrumaiḥ
+
+**4.1.11**
+
+puṣpitāgrāṃś ca paśyemān karṇikārān samantataḥ hāṭakapratisaṃchannān narān pītāmbarān iva
+
+**4.1.12**
+
+ayaṃ vasantaḥ saumitre nānāvihaganāditaḥ sītayā viprahīṇasya śokasaṃdīpano mama
+
+**4.1.13**
+
+māṃ hi śokasamākrāntaṃ saṃtāpayati manmathaḥ hṛṣṭaḥ pravadamānaś ca samāhvayati kokilaḥ
+
+**4.1.14**
+
+eṣa dātyūhako hṛṣṭo ramye māṃ vananirjhare praṇadan manmathāviṣṭaṃ śocayiṣyati lakṣmaṇa
+
+**4.1.15**
+
+vimiśrā vihagāḥ pumbhir ātmavyūhābhinanditāḥ bhṛṅgarājapramuditāḥ saumitre madhurasvarāḥ
+
+**4.1.16**
+
+māṃ hi sā mṛgaśāvākṣī cintāśokabalātkṛtam saṃtāpayati saumitre krūraś caitravanānilaḥ
+
+**4.1.17**
+
+śikhinībhiḥ parivṛtā mayūrā girisānuṣu manmathābhiparītasya mama manmathavardhanāḥ
+
+**4.1.18**
+
+paśya lakṣṇama nṛtyantaṃ mayūram upanṛtyati śikhinī manmathārtaiṣā bhartāraṃ girisānuṣu
+
+**4.1.19**
+
+mayūrasya vane nūnaṃ rakṣasā na hṛtā priyā mama tv ayaṃ vinā vāsaḥ puṣpamāse suduḥsahaḥ
+
+**4.1.20**
+
+paśya lakṣmaṇa puṣpāṇi niṣphalāni bhavanti me puṣpabhārasamṛddhānāṃ vanānāṃ śiśirātyaye
+
+**4.1.21**
+
+vadanti rāvaṃ muditāḥ śakunāḥ saṃghaśaḥ kalam āhvayanta ivānyonyaṃ kāmonmādakarā mama
+
+**4.1.22**
+
+nūnaṃ paravaśā sītā sāpi śocaty ahaṃ yathā śyāmā padmapalāśākṣī mṛdubhāṣā ca me priyā
+
+**4.1.23**
+
+eṣa puṣpavaho vāyuḥ sukhasparśo himāvahaḥ tāṃ vicintayataḥ kāntāṃ pāvakapratimo mama
+
+**4.1.24**
+
+tāṃ vinātha vihaṃgo 'sau pakṣī praṇaditas tadā vāyasaḥ pādapagataḥ prahṛṣṭam abhinardati
+
+**4.1.25**
+
+eṣa vai tatra vaidehyā vihagaḥ pratihārakaḥ pakṣī māṃ tu viśālākṣyāḥ samīpam upaneṣyati
+
+**4.1.26**
+
+paśya lakṣmaṇa saṃnādaṃ vane madavivardhanam puṣpitāgreṣu vṛkṣeṣu dvijānām upakūjatām
+
+**4.1.27**
+
+saumitre paśya pampāyāś citrāsu vanarājiṣu nalināni prakāśante jale taruṇasūryavat
+
+**4.1.28**
+
+eṣā prasannasalilā padmanīlotpalāyatā haṃsakāraṇḍavākīrṇā pampā saugandhikāyutā
+
+**4.1.29**
+
+cakravākayutā nityaṃ citraprasthavanāntarā mātaṅgamṛgayūthaiś ca śobhate salilārthibhiḥ
+
+**4.1.30**
+
+padmakośapalāśāni draṣṭuṃ dṛṣṭir hi manyate sītāyā netrakośābhyāṃ sadṛśānīti lakṣmaṇa
+
+**4.1.31**
+
+padmakesarasaṃsṛṣṭo vṛkṣāntaraviniḥsṛtaḥ niḥśvāsa iva sītāyā vāti vāyur manoharaḥ
+
+**4.1.32**
+
+saumitre paśya pampāyā dakṣiṇe girisānuni puṣpitāṃ karṇikārasya yaṣṭiṃ paramaśobhanām
+
+**4.1.33**
+
+adhikaṃ śailarājo 'yaṃ dhātubhis tu vibhūṣitaḥ vicitraṃ sṛjate reṇuṃ vāyuvegavighaṭṭitam
+
+**4.1.34**
+
+giriprasthās tu saumitre sarvataḥ saṃprapuṣpitaiḥ niṣpatraiḥ sarvato ramyaiḥ pradīpā iva kuṃśukaiḥ
+
+**4.1.35**
+
+pampātīraruhāś ceme saṃsaktā madhugandhinaḥ mālatīmallikāṣaṇḍāḥ karavīrāś ca puṣpitāḥ
+
+**4.1.36**
+
+ketakyaḥ sinduvārāś ca vāsantyaś ca supuṣpitāḥ mādhavyo gandhapūrṇāś ca kundagulmāś ca sarvaśaḥ
+
+**4.1.37**
+
+ciribilvā madhūkāś ca vañjulā bakulās tathā campakās tilakāś caiva nāgavṛkṣāś ca puṣpitāḥ
+
+**4.1.38**
+
+nīpāś ca varaṇāś caiva kharjūrāś ca supuṣpitāḥ aṅkolāś ca kuraṇṭāś ca cūrṇakāḥ pāribhadrakāḥ
+
+**4.1.39**
+
+cūtāḥ pāṭalayaś caiva kovidārāś ca puṣpitāḥ mucukundārjunāś caiva dṛśyante girisānuṣu
+
+**4.1.40**
+
+ketakoddālakāś caiva śirīṣāḥ śiṃśapā dhavāḥ śālmalyaḥ kiṃśukāś caiva raktāḥ kurabakās tathā tiniśā nakta mālāś ca candanāḥ syandanās tathā
+
+**4.1.41**
+
+vividhā vividhaiḥ puṣpais tair eva nagasānuṣu vikīrṇaiḥ pītaraktābhāḥ saumitre prastarāḥ kṛtāḥ
+
+**4.1.42**
+
+himānte paśya saumitre vṛkṣāṇāṃ puṣpasaṃbhavam puṣpamāse hi taravaḥ saṃgharṣād iva puṣpitāḥ
+
+**4.1.43**
+
+paśya śītajalāṃ cemāṃ saumitre puṣkarāyutām cakravākānucaritāṃ kāraṇḍavaniṣevitām plavaiḥ krauñcaiś ca saṃpūrṇāṃ varāhamṛgasevitām
+
+**4.1.44**
+
+adhikaṃ śobhate pampāvikūjadbhir vihaṃgamaiḥ
+
+**4.1.45**
+
+dīpayantīva me kāmaṃ vividhā muditā dvijāḥ śyāmāṃ candramukhīṃ smṛtvā priyāṃ padmanibhekṣaṇām
+
+**4.1.46**
+
+paya sānuṣu citreṣu mṛgībhiḥ sahitān mṛgān māṃ punar mṛgaśāvākṣyā vaidehyā virahīkṛtam
+
+**4.1.47**
+
+evaṃ sa vilapaṃs tatra śokopahatacetanaḥ avekṣata śivāṃ pampāṃ ramyavārivahāṃ śubhām
+
+**4.1.48**
+
+nirīkṣamāṇaḥ sahasā mahātmā sarvaṃ vanaṃ nirjharakandaraṃ ca udvignacetāḥ saha lakṣmaṇena vicārya duḥkhopahataḥ pratasthe
+
+**4.1.49**
+
+tāv ṛṣyamūkaṃ sahitau prayātau sugrīvaśākhāmṛgasevitaṃ tam trastās tu dṛṣṭvā harayo babhūvur mahaujasau rāghavalakṣmaṇau tau
+
+**4.2.1**
+
+tau tu dṛṣṭvā mahātmānau bhrātarau rāmalakṣmaṇau varāyudhadharau vīrau sugrīvaḥ śaṅkito 'bhavat
+
+**4.2.2**
+
+udvignahṛdayaḥ sarvā diśaḥ samavalokayan na vyatiṣṭhata kasmiṃś cid deśe vānarapuṃgavaḥ
+
+**4.2.3**
+
+naiva cakre manaḥ sthāne vīkṣamāṇo mahābalau kapeḥ paramabhītasya cittaṃ vyavasasāda ha
+
+**4.2.4**
+
+cintayitvā sa dharmātmā vimṛśya gurulāghavam sugrīvaḥ paramodvignaḥ sarvair anucaraiḥ saha
+
+**4.2.5**
+
+tataḥ sa sacivebhyas tu sugrīvaḥ plavagādhipaḥ śaśaṃsa paramodvignaḥ paśyaṃs tau rāmalakṣmaṇau
+
+**4.2.6**
+
+etau vanam idaṃ durgaṃ vālipraṇihitau dhruvam chadmanā cīravasanau pracarantāv ihāgatau
+
+**4.2.7**
+
+tataḥ sugrīvasacivā dṛṣṭvā paramadhanvinau jagmur giritaṭāt tasmād anyac chikharam uttamam
+
+**4.2.8**
+
+te kṣipram abhigamyātha yūthapā yūthaparṣabham harayo vānaraśreṣṭhaṃ parivāryopatasthire
+
+**4.2.9**
+
+ekam ekāyanagatāḥ plavamānā girer girim prakampayanto vegena girīṇāṃ śikharāṇi ca
+
+**4.2.10**
+
+tataḥ śākhāmṛgāḥ sarve plavamānā mahābalāḥ babhañjuś ca nagāṃs tatra puṣpitān durgasaṃśritān
+
+**4.2.11**
+
+āplavanto harivarāḥ sarvatas taṃ mahāgirim mṛgamārjāraśārdūlāṃs trāsayanto yayus tadā
+
+**4.2.12**
+
+tataḥ sugrīvasacivāḥ parvatendraṃ samāśritāḥ saṃgamya kapimukhyena sarve prāñjalayaḥ sthitāḥ
+
+**4.2.13**
+
+tatas taṃ bhayasaṃtrastaṃ vālikilbiṣaśaṅkitam uvāca hanumān vākyaṃ sugrīvaṃ vākyakovidaḥ
+
+**4.2.14**
+
+yasmād udvignacetās tvaṃ pradruto haripuṃgava taṃ krūradarśanaṃ krūraṃ neha paśyāmi vālinam
+
+**4.2.15**
+
+yasmāt tava bhayaṃ saumya pūrvajāt pāpakarmaṇaḥ sa neha vālī duṣṭātmā na te paśyāmy ahaṃ bhayam
+
+**4.2.16**
+
+aho śākhāmṛgatvaṃ te vyaktam eva plavaṃgama laghucittatayātmānaṃ na sthāpayasi yo matau
+
+**4.2.17**
+
+buddhivijñānasaṃpanna iṅgitaiḥ sarvam ācara na hy abuddhiṃ gato rājā sarvabhūtāni śāsti hi
+
+**4.2.18**
+
+sugrīvas tu śubhaṃ vākyaṃ śrutvā sarvaṃ hanūmataḥ tataḥ śubhataraṃ vākyaṃ hanūmantam uvāca ha
+
+**4.2.19**
+
+dīrghabāhū viśālākṣau śaracāpāsidhāriṇau kasya na syād bhayaṃ dṛṣṭvā etau surasutopamau
+
+**4.2.20**
+
+vālipraṇihitāv etau śaṅke 'haṃ puruṣottamau rājāno bahumitrāś ca viśvāso nātra hi kṣamaḥ
+
+**4.2.21**
+
+arayaś ca manuṣyeṇa vijñeyāś channacāriṇaḥ viśvastānām aviśvastāś chidreṣu praharanti hi
+
+**4.2.22**
+
+kṛtyeṣu vālī medhāvī rājāno bahudarśanāḥ bhavanti parahantāras te jñeyāḥ prākṛtair naraiḥ
+
+**4.2.23**
+
+tau tvayā prākṛtenaiva gatvā jñeyau plavaṃgama śaṅkitānāṃ prakāraiś ca rūpavyābhāṣaṇena ca
+
+**4.2.24**
+
+lakṣayasva tayor bhāvaṃ prahṛṣṭamanasau yadi viśvāsayan praśaṃsābhir iṅgitaiś ca punaḥ punaḥ
+
+**4.2.25**
+
+mamaivābhimukhaṃ sthitvā pṛccha tvaṃ haripuṃgava prayojanaṃ praveśasya vanasyāsya dhanurdharau
+
+**4.2.26**
+
+śuddhātmānau yadi tv etau jānīhi tvaṃ plavaṃgama vyābhāṣitair vā rūpair vā vijñeyā duṣṭatānayoḥ
+
+**4.2.27**
+
+ity evaṃ kapirājena saṃdiṣṭo mārutātmajaḥ cakāra gamane buddhiṃ yatra tau rāmalakṣmaṇau
+
+**4.2.28**
+
+tatheti saṃpūjya vacas tu tasya kapeḥ subhītasya durāsadasya mahānubhāvo hanumān yayau tadā sa yatra rāmo 'tibalaś ca lakṣmaṇaḥ
+
+**4.3.1**
+
+vaco vijñāya hanumān sugrīvasya mahātmanaḥ parvatād ṛśyamūkāt tu pupluve yatra rāghavau
+
+**4.3.2**
+
+sa tatra gatvā hanumān balavān vānarottamaḥ upacakrāma tau vāgbhir mṛdvībhiḥ satyavikramaḥ
+
+**4.3.3**
+
+svakaṃ rūpaṃ parityajya bhikṣurūpeṇa vānaraḥ ābabhāṣe ca tau vīrau yathāvat praśaṃsa ca
+
+**4.3.4**
+
+rājarṣidevapratimau tāpasau saṃśitavratau deśaṃ katham imaṃ prāptau bhavantau varavarṇinau
+
+**4.3.5**
+
+trāsayantau mṛgagaṇān anyāṃś ca vanacāriṇaḥ pampātīraruhān vṛkṣān vīkṣamāṇau samantataḥ
+
+**4.3.6**
+
+imāṃ nadīṃ śubhajalāṃ śobhayantau tarasvinau dhairyavantau suvarṇābhau kau yuvāṃ cīravāsasau
+
+**4.3.7**
+
+siṃhaviprekṣitau vīrau siṃhātibalavikramau śakracāpanibhe cāpe pragṛhya vipulair bhujaiḥ
+
+**4.3.8**
+
+śrīmantau rūpasaṃpannau vṛṣabhaśreṣṭhavikramau hastihastopamabhujau dyutimantau nararṣabhau
+
+**4.3.9**
+
+prabhayā parvatendro 'yaṃ yuvayor avabhāsitaḥ rājyārhāv amaraprakhyau kathaṃ deśam ihāgatau
+
+**4.3.10**
+
+padmapatrekṣaṇau vīrau jaṭāmaṇḍaladhāriṇau anyonyasadṛśau vīrau devalokād ivāgatau
+
+**4.3.11**
+
+yadṛcchayeva saṃprāptau candrasūryau vasuṃdharām viśālavakṣasau vīrau mānuṣau devarūpiṇau
+
+**4.3.12**
+
+siṃhaskandhau mahāsattvau samadāv iva govṛṣau āyatāś ca suvṛttāś ca bāhavaḥ parighottamāḥ sarvabhūṣaṇabhūṣārhāḥ kim arthaṃ na vibhūṣitaḥ
+
+**4.3.13**
+
+ubhau yogyāv ahaṃ manye rakṣituṃ pṛthivīm imām sasāgaravanāṃ kṛtsnāṃ vindhyameruvibhūṣitām
+
+**4.3.14**
+
+ime ca dhanuṣī citre ślakṣṇe citrānulepane prakāśete yathendrasya vajre hemavibhūṣite
+
+**4.3.15**
+
+saṃpūrṇā niśitair bāṇair tūṇāś ca śubhadarśanāḥ jīvitāntakarair ghorair jvaladbhir iva pannagaiḥ
+
+**4.3.16**
+
+mahāpramāṇau vipulau taptahāṭakabhūṣitau khaḍgāv etau virājete nirmuktabhujagāv iva
+
+**4.3.17**
+
+evaṃ māṃ paribhāṣantaṃ kasmād vai nābhibhāṣathaḥ
+
+**4.3.18**
+
+sugrīvo nāma dharmātmā kaś cid vānarayūthapaḥ vīro vinikṛto bhrātrā jagad bhramati duḥkhitaḥ
+
+**4.3.19**
+
+prāpto 'haṃ preṣitas tena sugrīveṇa mahātmanā rājñā vānaramukhyānāṃ hanumān nāma vānaraḥ
+
+**4.3.20**
+
+yuvābhyāṃ saha dharmātmā sugrīvaḥ sakhyam icchati tasya māṃ sacivaṃ vittaṃ vānaraṃ pavanātmajam
+
+**4.3.21**
+
+bhikṣurūpapraticchannaṃ sugrīvapriyakāmyayā ṛśyamūkād iha prāptaṃ kāmagaṃ kāmarūpiṇam
+
+**4.3.22**
+
+evam uktvā tu hanumāṃs tau vīrau rāmalakṣmaṇau vākyajñau vākyakuśalaḥ punar novāca kiṃ cana
+
+**4.3.23**
+
+etac chrutvā vacas tasya rāmo lakṣmaṇam abravīt prahṛṣṭavadanaḥ śrīmān bhrātaraṃ pārśvataḥ sthitam
+
+**4.3.24**
+
+sacivo 'yaṃ kapīndrasya sugrīvasya mahātmanaḥ tam eva kāṅkṣamāṇasya mamāntikam upāgataḥ
+
+**4.3.25**
+
+tam abhyabhāṣa saumitre sugrīvasacivaṃ kapim vākyajñaṃ madhurair vākyaiḥ snehayuktam ariṃdamam
+
+**4.4.1**
+
+tataḥ prahṛṣṭo hanumān kṛtyavān iti tad vacaḥ śrutvā madhurasaṃbhāṣaṃ sugrīvaṃ manasā gataḥ
+
+**4.4.2**
+
+bhavyo rājyāgamas tasya sugrīvasya mahātmanaḥ yad ayaṃ kṛtyavān prāptaḥ kṛtyaṃ caitad upāgatam
+
+**4.4.3**
+
+tataḥ paramasaṃhṛṣṭo hanūmān plavagarṣabhaḥ pratyuvāca tato vākyaṃ rāmaṃ vākyaviśāradaḥ
+
+**4.4.4**
+
+kimarthaṃ tvaṃ vanaṃ ghoraṃ pampākānanamaṇḍitam āgataḥ sānujo durgaṃ nānāvyālamṛgāyutam
+
+**4.4.5**
+
+tasya tad vacanaṃ śrutvā lakṣmaṇo rāmacoditaḥ ācacakṣe mahātmānaṃ rāmaṃ daśarathātmajam
+
+**4.4.6**
+
+rājā daśaratho nāma dyutimān dharmavatsalaḥ tasyāyaṃ pūrvajaḥ putro rāmo nāma janaiḥ śrutaḥ
+
+**4.4.7**
+
+śaraṇyaḥ sarvabhūtānāṃ pitur nirdeśapāragaḥ vīro daśarathasyāyaṃ putrāṇāṃ guṇavattaraḥ
+
+**4.4.8**
+
+rājyād bhraṣṭo vane vastuṃ mayā sārdham ihāgataḥ bhāryayā ca mahātejāḥ sītayānugato vaśī dinakṣaye mahātejāḥ prabhayeva divākaraḥ
+
+**4.4.9**
+
+aham asyāvaro bhrātā guṇair dāsyam upāgataḥ kṛtajñasya bahujñasya lakṣmaṇo nāma nāmataḥ
+
+**4.4.10**
+
+sukhārhasya mahārhasya sarvabhūtahitātmanaḥ aiśvaryeṇa vihīnasya vanavāsāśritasya ca
+
+**4.4.11**
+
+rakṣasāpahṛtā bhāryā rahite kāmarūpiṇā tac ca na jñāyate rakṣaḥ patnī yenāsya sā hṛtā
+
+**4.4.12**
+
+danur nāma śriyaḥ putraḥ śāpād rākṣasatāṃ gataḥ ākhyātas tena sugrīvaḥ samartho vānarādhipaḥ
+
+**4.4.13**
+
+sa jñāsyati mahāvīryas tava bhāryāpahāriṇam evam uktvā danuḥ svargaṃ bhrājamāno gataḥ sukham
+
+**4.4.14**
+
+etat te sarvam ākhyātaṃ yāthātathyena pṛcchataḥ ahaṃ caiva hi rāmaś ca sugrīvaṃ śaraṇaṃ gatau
+
+**4.4.15**
+
+eṣa dattvā ca vittāni prāpya cānuttamaṃ yaśaḥ lokanāthaḥ purā bhūtvā sugrīvaṃ nātham icchati
+
+**4.4.16**
+
+śokābhibhūte rāme tu śokārte śaraṇaṃ gate kartum arhati sugrīvaḥ prasādaṃ saha yūthapaiḥ
+
+**4.4.17**
+
+evaṃ bruvāṇaṃ saumitriṃ karuṇaṃ sāśrupātanam hanūmān pratyuvācedaṃ vākyaṃ vākyaviśāradaḥ
+
+**4.4.18**
+
+īdṛśā buddhisaṃpannā jitakrodhā jitendriyāḥ draṣṭavyā vānarendreṇa diṣṭyā darśanam āgatāḥ
+
+**4.4.19**
+
+sa hi rājyāc ca vibhraṣṭaḥ kṛtavairaś ca vālinā hṛtadāro vane trasto bhrātrā vinikṛto bhṛśam
+
+**4.4.20**
+
+kariṣyati sa sāhāyyaṃ yuvayor bhāskarātmajaḥ sugrīvaḥ saha cāsmābhiḥ sītāyāḥ parimārgaṇe
+
+**4.4.21**
+
+ity evam uktvā hanumāñ ślakṣṇaṃ madhurayā girā babhāṣe so 'bhigacchāmaḥ sugrīvam iti rāghavam
+
+**4.4.22**
+
+evaṃ bruvāṇaṃ dharmātmā hanūmantaṃ sa lakṣmaṇaḥ pratipūjya yathānyāyam idaṃ provāca rāghavam
+
+**4.4.23**
+
+kapiḥ kathayate hṛṣṭo yathāyaṃ mārutātmajaḥ kṛtyavān so 'pi saṃprāptaḥ kṛtakṛtyo 'si rāghava
+
+**4.4.24**
+
+prasannamukhavarṇaś ca vyaktaṃ hṛṣṭaś ca bhāṣate nānṛtaṃ vakṣyate vīro hanūmān mārutātmajaḥ
+
+**4.4.25**
+
+tataḥ sa tu mahāprājño hanūmān mārutātmajaḥ jagāmādāya tau vīrau harirājāya rāghavau
+
+**4.4.26**
+
+sa tu vipula yaśāḥ kapipravīraḥ pavanasutaḥ kṛtakṛtyavat prahṛṣṭaḥ girivaram uruvikramaḥ prayātaḥ sa śubhamatiḥ saha rāmalakṣmaṇābhyām
+
+**4.5.1**
+
+ṛśyamūkāt tu hanumān gatvā taṃ malayaṃ giram ācacakṣe tadā vīrau kapirājāya rāghavau
+
+**4.5.2**
+
+ayaṃ rāmo mahāprājñaḥ saṃprāpto dṛḍhavikramaḥ lakṣmaṇena saha bhrātrā rāmo 'yaṃ satyavikramaḥ
+
+**4.5.3**
+
+ikṣvākūṇāṃ kule jāto rāmo daśarathātmajaḥ dharme nigaditaś caiva pitur nirdeśapālakaḥ
+
+**4.5.4**
+
+tasyāsya vasato 'raṇye niyatasya mahātmanaḥ rakṣasāpahṛtā bhāryā sa tvāṃ śaraṇam āgataḥ
+
+**4.5.5**
+
+rājasūyāśvamedhaiś ca vahnir yenābhitarpitaḥ dakṣiṇāś ca tathotsṛṣṭā gāvaḥ śatasahasraśaḥ
+
+**4.5.6**
+
+tapasā satyavākyena vasudhā yena pālitā strīhetos tasya putro 'yaṃ rāmas tvāṃ śaraṇaṃ gataḥ
+
+**4.5.7**
+
+bhavatā sakhyakāmau tau bhrātarau rāmalakṣmaṇau pratigṛhyārcayasvemau pūjanīyatamāv ubhau
+
+**4.5.8**
+
+śrutvā hanumato vākyaṃ sugrīvo hṛṣṭamānasaḥ bhayaṃ sa rāghavād ghoraṃ prajahau vigatajvaraḥ
+
+**4.5.9**
+
+sa kṛtvā mānuṣaṃ rūpaṃ sugrīvaḥ plavagādhipaḥ darśanīyatamo bhūtvā prītyā provāca rāghavam
+
+**4.5.10**
+
+bhavān dharmavinītaś ca vikrāntaḥ sarvavatsalaḥ ākhyātā vāyuputreṇa tattvato me bhavadguṇāḥ
+
+**4.5.11**
+
+tan mamaivaiṣa satkāro lābhaś caivottamaḥ prabho yat tvam icchasi sauhārdaṃ vānareṇa mayā saha
+
+**4.5.12**
+
+rocate yadi vā sakhyaṃ bāhur eṣa prasāritaḥ gṛhyatāṃ pāṇinā pāṇir maryādā vadhyatāṃ dhruvā
+
+**4.5.13**
+
+etat tu vacanaṃ śrutvā sugrīvasya subhāṣitam saṃprahṛṣṭamanā hastaṃ pīḍayām āsa pāṇinā hṛdyaṃ sauhṛdam ālambya paryaṣvajata pīḍitam
+
+**4.5.14**
+
+tato hanūmān saṃtyajya bhikṣurūpam ariṃdamaḥ kāṣṭhayoḥ svena rūpeṇa janayām āsa pāvakam
+
+**4.5.15**
+
+dīpyamānaṃ tato vahniṃ puṣpair abhyarcya satkṛtam tayor madhye tu suprīto nidadhe susamāhitaḥ
+
+**4.5.16**
+
+tato 'gniṃ dīpyamānaṃ tau cakratuś ca pradakṣiṇam sugrīvo rāghavaś caiva vayasyatvam upāgatau
+
+**4.5.17**
+
+tataḥ suprīta manasau tāv ubhau harirāghavau anyonyam abhivīkṣantau na tṛptim upajagmatuḥ
+
+**4.5.18**
+
+tataḥ sarvārthavidvāṃsaṃ rāmaṃ daśarathātmajam sugrīvaḥ prāha tejasvī vākyam ekamanās tadā
+
+**4.6.1**
+
+ayam ākhyāti me rāma sacivo mantrisattamaḥ hanumān yannimittaṃ tvaṃ nirjanaṃ vanam āgataḥ
+
+**4.6.2**
+
+lakṣmaṇena saha bhrātrā vasataś ca vane tava rakṣasāpahṛtā bhāryā maithilī janakātmajā
+
+**4.6.3**
+
+tvayā viyuktā rudatī lakṣmaṇena ca dhīmatā antaraṃ prepsunā tena hatvā gṛdhraṃ jaṭāyuṣam
+
+**4.6.4**
+
+bhāryāviyogajaṃ duḥkhaṃ nacirāt tvaṃ vimokṣyase ahaṃ tām ānayiṣyāmi naṣṭāṃ vedaśrutiṃ yathā
+
+**4.6.5**
+
+rasātale vā vartantīṃ vartantīṃ vā nabhastale aham ānīya dāsyāmi tava bhāryām ariṃdama
+
+**4.6.6**
+
+idaṃ tathyaṃ mama vacas tvam avehi ca rāghava tyaja śokaṃ mahābāho tāṃ kāntām ānayāmi te
+
+**4.6.7**
+
+anumānāt tu jānāmi maithilī sā na saṃśayaḥ hriyamāṇā mayā dṛṣṭā rakṣasā krūrakarmaṇā
+
+**4.6.8**
+
+krośantī rāma rāmeti lakṣmaṇeti ca visvaram sphurantī rāvaṇasyāṅke pannagendravadhūr yathā
+
+**4.6.9**
+
+ātmanā pañcamaṃ māṃ hi dṛṣṭvā śailataṭe sthitam uttarīyaṃ tayā tyaktaṃ śubhāny ābharaṇāni ca
+
+**4.6.10**
+
+tāny asmābhir gṛhītāni nihitāni ca rāghava ānayiṣyāmy ahaṃ tāni pratyabhijñātum arhasi
+
+**4.6.11**
+
+tam abravīt tato rāmaḥ sugrīvaṃ priyavādinam ānayasva sakhe śīghraṃ kimarthaṃ pravilambase
+
+**4.6.12**
+
+evam uktas tu sugrīvaḥ śailasya gahanāṃ guhām praviveśa tataḥ śīghraṃ rāghavapriyakāmyayā
+
+**4.6.13**
+
+uttarīyaṃ gṛhītvā tu śubhāny ābharaṇāni ca idaṃ paśyeti rāmāya darśayām āsa vānaraḥ
+
+**4.6.14**
+
+tato gṛhītvā tadvāsaḥ śubhāny ābharaṇāni ca abhavad bāṣpasaṃruddho nīhāreṇeva candramāḥ
+
+**4.6.15**
+
+sītāsnehapravṛttena sa tu bāṣpeṇa dūṣitaḥ hā priyeti rudan dhairyam utsṛjya nyapatat kṣitau
+
+**4.6.16**
+
+hṛdi kṛtvā sa bahuśas tam alaṃkāram uttamam niśaśvāsa bhṛśaṃ sarpo bilastha iva roṣitaḥ
+
+**4.6.17**
+
+avicchinnāśruvegas tu saumitriṃ vīkṣya pārśvataḥ paridevayituṃ dīnaṃ rāmaḥ samupacakrame
+
+**4.6.18**
+
+paśya lakṣmaṇa vaidehyā saṃtyaktaṃ hriyamāṇayā uttarīyam idaṃ bhūmau śarīrād bhūṣaṇāni ca
+
+**4.6.19**
+
+śādvalinyāṃ dhruvaṃ bhūmyāṃ sītayā hriyamāṇayā utsṛṣṭaṃ bhūṣaṇam idaṃ tathārūpaṃ hi dṛśyate
+
+**4.6.20**
+
+brūhi sugrīva kaṃ deśaṃ hriyantī lakṣitā tvayā rakṣasā raudrarūpeṇa mama prāṇasamā priyā
+
+**4.6.21**
+
+kva vā vasati tad rakṣo mahad vyasanadaṃ mama yannimittam ahaṃ sarvān nāśayiṣyāmi rākṣasān
+
+**4.6.22**
+
+haratā maithilīṃ yena māṃ ca roṣayatā bhṛśam ātmano jīvitāntāya mṛtyudvāram apāvṛtam
+
+**4.6.23**
+
+mama dayitatamā hṛtā vanād rajanicareṇa vimathya yena sā kathaya mama ripuṃ tam adya vai pravagapate yamasaṃnidhiṃ nayāmi
+
+**4.7.1**
+
+evam uktas tu sugrīvo rāmeṇārtena vānaraḥ abravīt prāñjalir vākyaṃ sabāṣpaṃ bāṣpagadgadaḥ
+
+**4.7.2**
+
+na jāne nilayaṃ tasya sarvathā pāparakṣasaḥ sāmarthyaṃ vikramaṃ vāpi dauṣkuleyasya vā kulam
+
+**4.7.3**
+
+satyaṃ tu pratijānāmi tyaja śokam ariṃdama kariṣyāmi tathā yatnaṃ yathā prāpsyasi maithilīm
+
+**4.7.4**
+
+rāvaṇaṃ sagaṇaṃ hatvā paritoṣyātmapauruṣam tathāsmi kartā nacirād yathā prīto bhaviṣyasi
+
+**4.7.5**
+
+alaṃ vaiklavyam ālambya dhairyam ātmagataṃ smara tvadvidhānāṃ na sadṛśam īdṛśaṃ buddhilāghavam
+
+**4.7.6**
+
+mayāpi vyasanaṃ prāptaṃ bhāryā haraṇajaṃ mahat na cāham evaṃ śocāmi na ca dhairyaṃ parityaje
+
+**4.7.7**
+
+nāhaṃ tām anuśocāmi prākṛto vānaro 'pi san mahātmā ca vinītaś cā kiṃ punar dhṛtimān bhavān
+
+**4.7.8**
+
+bāṣpam āpatitaṃ dhairyān nigrahītuṃ tvam arhasi maryādāṃ sattvayuktānāṃ dhṛtiṃ notsraṣṭum arhasi
+
+**4.7.9**
+
+vyasane vārtha kṛcchre vā bhaye vā jīvitāntage vimṛśan vai svayā buddhyā dhṛtimān nāvasīdati
+
+**4.7.10**
+
+bāliśas tu naro nityaṃ vaiklavyaṃ yo 'nuvartate sa majjaty avaśaḥ śoke bhārākrānteva naur jale
+
+**4.7.11**
+
+eṣo 'ñjalir mayā baddhaḥ praṇayāt tvāṃ prasādaye pauruṣaṃ śraya śokasya nāntaraṃ dātum arhasi
+
+**4.7.12**
+
+ye śokam anuvartante na teṣāṃ vidyate sukham tejaś ca kṣīyate teṣāṃ na tvaṃ śocitum arhasi
+
+**4.7.13**
+
+hitaṃ vayasya bhāvena brūhi nopadiśāmi te vayasyatāṃ pūjayan me na tvaṃ śocitum arhasi
+
+**4.7.14**
+
+madhuraṃ sāntvitas tena sugrīveṇa sa rāghavaḥ mukham aśrupariklinnaṃ vastrāntena pramārjayat
+
+**4.7.15**
+
+prakṛtiṣṭhas tu kākutsthaḥ sugrīvavacanāt prabhuḥ saṃpariṣvajya sugrīvam idaṃ vacanam abravīt
+
+**4.7.16**
+
+kartavyaṃ yad vayasyena snigdhena ca hitena ca anurūpaṃ ca yuktaṃ ca kṛtaṃ sugrīva tat tvayā
+
+**4.7.17**
+
+eṣa ca prakṛtiṣṭho 'ham anunītas tvayā sakhe durlabho hīdṛśo bandhur asmin kāle viśeṣataḥ
+
+**4.7.18**
+
+kiṃ tu yatnas tvayā kāryo maithilyāḥ parimārgaṇe rākṣasasya ca raudrasya rāvaṇasya durātmanaḥ
+
+**4.7.19**
+
+mayā ca yad anuṣṭheyaṃ visrabdhena tad ucyatām varṣāsv iva ca sukṣetre sarvaṃ saṃpadyate tava
+
+**4.7.20**
+
+mayā ca yad idaṃ vākyam abhimānāt samīritam tat tvayā hariśārdūla tattvam ity upadhāryatām
+
+**4.7.21**
+
+anṛtaṃ noktapūrvaṃ me na ca vakṣye kadā cana etat te pratijānāmi satyenaiva śapāmi te
+
+**4.7.22**
+
+tataḥ prahṛṣṭaḥ sugrīvo vānaraiḥ sacivaiḥ saha rāghavasya vacaḥ śrutvā pratijñātaṃ viśeṣataḥ
+
+**4.7.23**
+
+mahānubhāvasya vaco niśamya harir narāṇām ṛṣabhasya tasya kṛtaṃ sa mene harivīra mukhyas tadā svakāryaṃ hṛdayena vidvān
+
+**4.8.1**
+
+parituṣṭas tu sugrīvas tena vākyena vānaraḥ lakṣmaṇasyāgrajaṃ rāmam idaṃ vacanam abravīt
+
+**4.8.2**
+
+sarvathāham anugrāhyo devatānām asaṃśayaḥ upapannaguṇopetaḥ sakhā yasya bhavān mama
+
+**4.8.3**
+
+śakyaṃ khalu bhaved rāma sahāyena tvayānagha surarājyam api prāptuṃ svarājyaṃ kiṃ punaḥ prabho
+
+**4.8.4**
+
+so 'haṃ sabhājyo bandhūnāṃ suhṛdāṃ caiva rāghava yasyāgnisākṣikaṃ mitraṃ labdhaṃ rāghavavaṃśajam
+
+**4.8.5**
+
+aham apy anurūpas te vayasyo jñāsyase śanaiḥ na tu vaktuṃ samartho 'haṃ svayam ātmagatān guṇān
+
+**4.8.6**
+
+mahātmanāṃ tu bhūyiṣṭhaṃ tvadvidhānāṃ kṛtātmanām niścalā bhavati prītir dhairyam ātmavatām iva
+
+**4.8.7**
+
+rajataṃ vā suvarṇaṃ vā vastrāṇy ābharaṇāni vā avibhaktāni sādhūnām avagacchanti sādhavaḥ
+
+**4.8.8**
+
+āḍhyo vāpi daridro vā duḥkhitaḥ sukhito 'pi vā nirdoṣo vā sadoṣo vā vayasyaḥ paramā gatiḥ
+
+**4.8.9**
+
+dhanatyāgaḥ sukhatyāgo dehatyāgo 'pi vā punaḥ vayasyārthe pravartante snehaṃ dṛṣṭvā tathāvidham
+
+**4.8.10**
+
+tat tathety abravīd rāmaḥ sugrīvaṃ priyavādinam lakṣmaṇasyāgrato lakṣmyā vāsavasyeva dhīmataḥ
+
+**4.8.11**
+
+tato rāmaṃ sthitaṃ dṛṣṭvā lakṣmaṇaṃ ca mahābalam sugrīvaḥ sarvataś cakṣur vane lolam apātayat
+
+**4.8.12**
+
+sa dadarśa tataḥ sālam avidūre harīśvaraḥ supuṣpam īṣatpatrāḍhyaṃ bhramarair upaśobhitam
+
+**4.8.13**
+
+tasyaikāṃ parṇabahulāṃ bhaṅktvā śākhāṃ supuṣpitām sālasyāstīrya sugrīvo niṣasāda sarāghavaḥ
+
+**4.8.14**
+
+tāv āsīnau tato dṛṣṭvā hanūmān api lakṣmaṇam sālaśākhāṃ samutpāṭya vinītam upaveśayat
+
+**4.8.15**
+
+tataḥ prahṛṣṭaḥ sugrīvaḥ ślakṣṇaṃ madhurayā girā uvāca praṇayād rāmaṃ harṣavyākulitākṣaram
+
+**4.8.16**
+
+ahaṃ vinikṛto bhrātrā carāmy eṣa bhayārditaḥ ṛśyamūkaṃ girivaraṃ hṛtabhāryaḥ suduḥkhitaḥ
+
+**4.8.17**
+
+so 'haṃ trasto bhaye magno vasāmy udbhrāntacetanaḥ vālinā nikṛto bhrātrā kṛtavairaś ca rāghava
+
+**4.8.18**
+
+vālino me bhayārtasya sarvalokābhayaṃkara mamāpi tvam anāthasya prasādaṃ kartum arhasi
+
+**4.8.19**
+
+evam uktas tu tejasvī dharmajño dharmavatsalaḥ pratyuvāca sa kākutsthaḥ sugrīvaṃ prahasann iva
+
+**4.8.20**
+
+upakāraphalaṃ mitram apakāro 'rilakṣaṇam adyaiva taṃ haniṣyāmi tava bhāryāpahāriṇam
+
+**4.8.21**
+
+ime hi me mahāvegāḥ patriṇas tigmatejasaḥ kārtikeyavanodbhūtāḥ śarā hemavibhūṣitāḥ
+
+**4.8.22**
+
+kaṅkapatrapraticchannā mahendrāśanisaṃnibhāḥ suparvāṇaḥ sutīkṣṇāgrā saroṣā bhujagā iva
+
+**4.8.23**
+
+bhrātṛsaṃjñam amitraṃ te vālinaṃ kṛtakilbiṣam śarair vinihataṃ paśya vikīrṇam iva parvatam
+
+**4.8.24**
+
+rāghavasya vacaḥ śrutvā sugrīvo vāhinīpatiḥ praharṣam atulaṃ lebhe sādhu sādhv iti cābravīt
+
+**4.8.25**
+
+rāmaśokābhibhūto 'haṃ śokārtānāṃ bhavān gatiḥ vayasya iti kṛtvā hi tvayy ahaṃ paridevaye
+
+**4.8.26**
+
+tvaṃ hi pāṇipradānena vayasyo so 'gnisākṣikaḥ kṛtaḥ prāṇair bahumataḥ satyenāpi śapāmy aham
+
+**4.8.27**
+
+vayasya iti kṛtvā ca visrabdhaṃ pravadāmy aham duḥkham antargataṃ yan me mano dahati nityaśaḥ
+
+**4.8.28**
+
+etāvad uktvā vacanaṃ bāṣpadūṣitalocanaḥ bāṣpopahatayā vācā noccaiḥ śaknoti bhāṣitum
+
+**4.8.29**
+
+bāṣpavegaṃ tu sahasā nadīvegam ivāgatam dhārayām āsa dhairyeṇa sugrīvo rāmasaṃnidhau
+
+**4.8.30**
+
+saṃnigṛhya tu taṃ bāṣpaṃ pramṛjya nayane śubhe viniḥśvasya ca tejasvī rāghavaṃ punar abravīt
+
+**4.8.31**
+
+purāhaṃ valinā rāma rājyāt svād avaropitaḥ paruṣāṇi ca saṃśrāvya nirdhūto 'smi balīyasā
+
+**4.8.32**
+
+hṛtā bhāryā ca me tena prāṇebhyo 'pi garīyasī suhṛdaś ca madīyā ye saṃyatā bandhaneṣu te
+
+**4.8.33**
+
+yatnavāṃś ca suduṣṭātmā mad vināśāya rāghava bahuśas tat prayuktāś ca vānarā nihatā mayā
+
+**4.8.34**
+
+śaṅkayā tv etayā cāhaṃ dṛṣṭvā tvām api rāghava nopasarpāmy ahaṃ bhīto bhaye sarve hi bibhyati
+
+**4.8.35**
+
+kevalaṃ hi sahāyā me hanumat pramukhās tv ime ato 'haṃ dhārayāmy adya prāṇān kṛcchra gato 'pi san
+
+**4.8.36**
+
+ete hi kapayaḥ snigdhā māṃ rakṣanti samantataḥ saha gacchanti gantavye nityaṃ tiṣṭhanti ca sthite
+
+**4.8.37**
+
+saṃkṣepas tv eṣa me rāma kim uktvā vistaraṃ hi te sa me jyeṣṭho ripur bhrātā vālī viśrutapauruṣaḥ
+
+**4.8.38**
+
+tadvināśād dhi me duḥkhaṃ pranaṣṭaṃ syād anantaram sukhaṃ me jīvitaṃ caiva tadvināśanibandhanam
+
+**4.8.39**
+
+eṣa me rāma śokāntaḥ śokārtena niveditaḥ duḥkhito 'duḥkhito vāpi sakhyur nityaṃ sakhā gatiḥ
+
+**4.8.40**
+
+śrutvaitac ca vaco rāmaḥ sugrīvam idam abravīt kiṃnimittam abhūd vairaṃ śrotum icchāmi tattvataḥ
+
+**4.8.41**
+
+sukhaṃ hi kāraṇaṃ śrutvā vairasya tava vānara ānantaryaṃ vidhāsyāmi saṃpradhārya balābalam
+
+**4.8.42**
+
+balavān hi mamāmarṣaḥ śrutvā tvām avamānitam vardhate hṛdayotkampī prāvṛḍvega ivāmbhasaḥ
+
+**4.8.43**
+
+hṛṣṭaḥ kathaya visrabdho yāvad āropyate dhanuḥ sṛṣṭaś ca hi mayā bāṇo nirastaś ca ripus tava
+
+**4.8.44**
+
+evam uktas tu sugrīvaḥ kākutsthena mahātmanā praharṣam atulaṃ lebhe caturbhiḥ saha vānaraiḥ
+
+**4.8.45**
+
+tataḥ prahṛṣṭavadanaḥ sugrīvo lakṣmaṇāgraje vairasya kāraṇaṃ tattvam ākhyātum upacakrame
+
+**4.9.1**
+
+vālī nāma mama bhrātā jyeṣṭhaḥ śatruniṣūdanaḥ pitur bahumato nityaṃ mama cāpi tathā purā
+
+**4.9.2**
+
+pitary uparate 'smākaṃ jyeṣṭho 'yam iti mantribhiḥ kapīnām īśvaro rājye kṛtaḥ paramasaṃmataḥ
+
+**4.9.3**
+
+rājyaṃ praśāsatas tasya pitṛpaitāmahaṃ mahat ahaṃ sarveṣu kāleṣu praṇataḥ preṣyavat sthitaḥ
+
+**4.9.4**
+
+māyāvī nāma tejasvī pūrvajo dundubheḥ sutaḥ tena tasya mahad vairaṃ strīkṛtaṃ viśrutaṃ purā
+
+**4.9.5**
+
+sa tu supte jane rātrau kiṣkindhād vāram āgataḥ nardati sma susaṃrabdho vālinaṃ cāhvayad raṇe
+
+**4.9.6**
+
+prasuptas tu mama bhrātā narditaṃ bhairavasvanam śrutvā na mamṛṣe vālī niṣpapāta javāt tadā
+
+**4.9.7**
+
+sa tu vai niḥsṛtaḥ krodhāt taṃ hantum asurottamam vāryamāṇas tataḥ strībhir mayā ca praṇatātmanā
+
+**4.9.8**
+
+sa tu nirdhūya sarvānno nirjagāma mahābalaḥ tato 'ham api sauhārdān niḥsṛto vālinā saha
+
+**4.9.9**
+
+sa tu me bhrātaraṃ dṛṣṭvā māṃ ca dūrād avasthitam asuro jātasaṃtrāsaḥ pradudrāva tadā bhṛśam
+
+**4.9.10**
+
+tasmin dravati saṃtraste hy āvāṃ drutataraṃ gatau prakāśo 'pi kṛto mārgaś candreṇodgacchatā tadā
+
+**4.9.11**
+
+sa tṛṇair āvṛtaṃ durgaṃ dharaṇyā vivaraṃ mahat praviveśāsuro vegād āvām āsādya viṣṭhitau
+
+**4.9.12**
+
+taṃ praviṣṭaṃ ripuṃ dṛṣṭvā bilaṃ roṣavaśaṃ gataḥ mām uvāca tadā vālī vacanaṃ kṣubhitendriyaḥ
+
+**4.9.13**
+
+iha tvaṃ tiṣṭha sugrīva biladvāri samāhitaḥ yāvad atra praviśyāhaṃ nihanmi samare ripum
+
+**4.9.14**
+
+mayā tv etad vacaḥ śrutvā yācitaḥ sa paraṃtapa śāpayitvā ca māṃ padbhyāṃ praviveśa bilaṃ tadā
+
+**4.9.15**
+
+tasya praviṣṭasya bilaṃ sāgraḥ saṃvatsaro gataḥ sthitasya ca mama dvāri sa kālo vyatyavartata
+
+**4.9.16**
+
+ahaṃ tu naṣṭaṃ taṃ jñātvā snehād āgatasaṃbhramaḥ bhrātaraṃ na hi paśyāmi pāpaśaṅki ca me manaḥ
+
+**4.9.17**
+
+atha dīrghasya kālasya bilāt tasmād viniḥsṛtam saphenaṃ rudhiraṃ raktam ahaṃ dṛṣṭvā suduḥkhitaḥ
+
+**4.9.18**
+
+nardatām asurāṇāṃ ca dhvanir me śrotram āgataḥ nirastasya ca saṃgrāme krośato niḥsvano guroḥ
+
+**4.9.19**
+
+ahaṃ tv avagato buddhyā cihnais tair bhrātaraṃ hatam pidhāya ca biladvāraṃ śilayā girimātrayā śokārtaś codakaṃ kṛtvā kiṣkindhām āgataḥ sakhe
+
+**4.9.20**
+
+gūhamānasya me tattvaṃ yatnato mantribhiḥ śrutam tato 'haṃ taiḥ samāgamya sametair abhiṣecitaḥ
+
+**4.9.21**
+
+rājyaṃ praśāsatas tasya nyāyato mama rāghava ājagāma ripuṃ hatvā vālī tam asurottamam
+
+**4.9.22**
+
+abhiṣiktaṃ tu māṃ dṛṣṭvā krodhāt saṃraktalocanaḥ madīyān mantriṇo baddhvā paruṣaṃ vākyam abravīt
+
+**4.9.23**
+
+nigrahe 'pi samarthasya taṃ pāpaṃ prati rāghava na prāvartata me buddhir bhrātṛgauravayantritā
+
+**4.9.24**
+
+mānayaṃs taṃ mahātmānaṃ yathāvac cābhyavādayam uktāś ca nāśiṣas tena saṃtuṣṭenāntarātmanā
+
+**4.10.1**
+
+tataḥ krodhasamāviṣṭaṃ saṃrabdhaṃ tam upāgatam ahaṃ prasādayāṃ cakre bhrātaraṃ priyakāmyayā
+
+**4.10.2**
+
+diṣṭyāsi kuśalī prāpto nihataś ca tvayā ripuḥ anāthasya hi me nāthas tvam eko 'nāthanandanaḥ
+
+**4.10.3**
+
+idaṃ bahuśalākaṃ te pūrṇacandram ivoditam chatraṃ savālavyajanaṃ pratīcchasva mayodyatam
+
+**4.10.4**
+
+tvam eva rājā mānārhaḥ sadā cāhaṃ yathāpurā nyāsabhūtam idaṃ rājyaṃ tava niryātayāmy aham
+
+**4.10.5**
+
+mā ca roṣaṃ kṛthāḥ saumya mayi śatrunibarhaṇa yāce tvāṃ śirasā rājan mayā baddho 'yam añjaliḥ
+
+**4.10.6**
+
+balād asmi samāgamya mantribhiḥ puravāsibhiḥ rājabhāve niyukto 'haṃ śūnyadeśajigīṣayā
+
+**4.10.7**
+
+snigdham evaṃ bruvāṇaṃ māṃ sa tu nirbhartsya vānaraḥ dhik tvām iti ca mām uktvā bahu tat tad uvāca ha
+
+**4.10.8**
+
+prakṛtīś ca samānīya mantriṇaś caiva saṃmatān mām āha suhṛdāṃ madhye vākyaṃ paramagarhitam
+
+**4.10.9**
+
+viditaṃ vo yathā rātrau māyāvī sa mahāsuraḥ māṃ samāhvayata krūro yuddhākāṅkṣī sudurmatiḥ
+
+**4.10.10**
+
+tasya tad garjitaṃ śrutvā niḥsṛto 'haṃ nṛpālayāt anuyātaś ca māṃ tūrṇam ayaṃ bhrātā sudāruṇaḥ
+
+**4.10.11**
+
+sa tu dṛṣṭvaiva māṃ rātrau sadvitīyaṃ mahābalaḥ prādravad bhayasaṃtrasto vīkṣyāvāṃ tam anudrutau anudrutas tu vegena praviveśa mahābilam
+
+**4.10.12**
+
+taṃ praviṣṭaṃ viditvā tu sughoraṃ sumahad bilam ayam ukto 'tha me bhrātā mayā tu krūradarśanaḥ
+
+**4.10.13**
+
+ahatvā nāsti me śaktiḥ pratigantum itaḥ purīm biladvāri pratīkṣa tvaṃ yāvad enaṃ nihanmy aham
+
+**4.10.14**
+
+sthito 'yam iti matvā tu praviṣṭo 'haṃ durāsadam taṃ ca me mārgamāṇasya gataḥ saṃvatsaras tadā
+
+**4.10.15**
+
+sa tu dṛṣṭo mayā śatrur anirvedād bhayāvahaḥ nihataś ca mayā tatra so 'suro bandhubhiḥ saha
+
+**4.10.16**
+
+tasyāsyāt tu pravṛttena rudhiraugheṇa tad bilam pūrṇam āsīd durākrāmaṃ stanatas tasya bhūtale
+
+**4.10.17**
+
+sūdayitvā tu taṃ śatruṃ vikrāntaṃ dundubheḥ sutam niṣkrāmann eva paśyāmi bilasya pihitaṃ mukham
+
+**4.10.18**
+
+vikrośamānasya tu me sugrīveti punaḥ punaḥ yadā prativaco nāsti tato 'haṃ bhṛśaduḥkhitaḥ
+
+**4.10.19**
+
+pādaprahārais tu mayā bahuśas tad vidāritam tato 'haṃ tena niṣkramya yathā punar upāgataḥ
+
+**4.10.20**
+
+tatrānenāsmi saṃruddho rājyaṃ mārgayatātmanaḥ sugrīveṇa nṛśaṃsena vismṛtya bhrātṛsauhṛdam
+
+**4.10.21**
+
+evam uktvā tu māṃ tatra vastreṇaikena vānaraḥ tadā nirvāsayām āsa vālī vigatasādhvasaḥ
+
+**4.10.22**
+
+tenāham apaviddhaś ca hṛtadāraś ca rāghava tadbhayāc ca mahīkṛtsnā krānteyaṃ savanārṇavā
+
+**4.10.23**
+
+ṛśyamūkaṃ girivaraṃ bhāryāharaṇaduḥkhitaḥ praviṣṭo 'smi durādharṣaṃ vālinaḥ kāraṇāntare
+
+**4.10.24**
+
+etat te sarvam ākhyātaṃ vairānukathanaṃ mahat anāgasā mayā prāptaṃ vyasanaṃ paśya rāghava
+
+**4.10.25**
+
+vālinas tu bhayārtasya sarvalokābhayaṃkara kartum arhasi me vīra prasādaṃ tasya nigrahāt
+
+**4.10.26**
+
+evam uktaḥ sa tejasvī dharmajño dharmasaṃhitam vacanaṃ vaktum ārebhe sugrīvaṃ prahasann iva
+
+**4.10.27**
+
+amoghāḥ sūryasaṃkāśā mameme niśitāḥ śarāḥ tasmin vālini durvṛtte patiṣyanti ruṣānvitāḥ
+
+**4.10.28**
+
+yāvat taṃ na hi paśyeyaṃ tava bhāryāpahāriṇam tāvat sa jīvet pāpātmā vālī cāritradūṣakaḥ
+
+**4.10.29**
+
+ātmānumānāt paśyāmi magnaṃ tvāṃ śokasāgare tvām ahaṃ tārayiṣyāmi kāmaṃ prāpsyasi puṣkalam
+
+**4.11.1**
+
+rāmasya vacanaṃ śrutvā harṣapauruṣavardhanam sugrīvaḥ pūjayāṃ cakre rāghavaṃ praśaśaṃsa ca
+
+**4.11.2**
+
+asaṃśayaṃ prajvalitais tīkṣṇair marmātigaiḥ śaraiḥ tvaṃ daheḥ kupito lokān yugānta iva bhāskaraḥ
+
+**4.11.3**
+
+vālinaḥ pauruṣaṃ yat tad yac ca vīryaṃ dhṛtiś ca yā tan mamaikamanāḥ śrutvā vidhatsva yadanantaram
+
+**4.11.4**
+
+samudrāt paścimāt pūrvaṃ dakṣiṇād api cottaram krāmaty anudite sūrye vālī vyapagataklamaḥ
+
+**4.11.5**
+
+agrāṇy āruhya śailānāṃ śikharāṇi mahānty api ūrdhvam utkṣipya tarasā pratigṛhṇāti vīryavān
+
+**4.11.6**
+
+bahavaḥ sāravantaś ca vaneṣu vividhā drumāḥ vālinā tarasā bhagnā balaṃ prathayatātmanaḥ
+
+**4.11.7**
+
+mahiṣo dundubhir nāma kailāsaśikharaprabhaḥ balaṃ nāgasahasrasya dhārayām āsa vīryavān
+
+**4.11.8**
+
+vīryotsekena duṣṭātmā varadānāc ca mohitaḥ jagāma sa mahākāyaḥ samudraṃ saritāṃ patim
+
+**4.11.9**
+
+ūrmimantam atikramya sāgaraṃ ratnasaṃcayam mama yuddhaṃ prayaccheti tam uvāca mahārṇavam
+
+**4.11.10**
+
+tataḥ samudro dharmātmā samutthāya mahābalaḥ abravīd vacanaṃ rājann asuraṃ kālacoditam
+
+**4.11.11**
+
+samartho nāsmi te dātuṃ yuddhaṃ yuddhaviśārada śrūyatām abhidhāsyāmi yas te yuddhaṃ pradāsyati
+
+**4.11.12**
+
+śailarājo mahāraṇye tapasviśaraṇaṃ param śaṃkaraśvaśuro nāmnā himavān iti viśrutaḥ
+
+**4.11.13**
+
+guhā prasravaṇopeto bahukandaranirjharaḥ sa samarthas tava prītim atulāṃ kartum āhave
+
+**4.11.14**
+
+taṃ bhītam iti vijñāya samudram asurottamaḥ himavadvanam āgacchac charaś cāpād iva cyutaḥ
+
+**4.11.15**
+
+tatas tasya gireḥ śvetā gajendravipulāḥ śilāḥ cikṣepa bahudhā bhūmau dundubhir vinanāda ca
+
+**4.11.16**
+
+tataḥ śvetāmbudākāraḥ saumyaḥ prītikarākṛtiḥ himavān abravīd vākyaṃ sva eva śikhare sthitaḥ
+
+**4.11.17**
+
+kleṣṭum arhasi māṃ na tvaṃ dundubhe dharmavatsala raṇakarmasv akuśalas tapasviśaraṇaṃ hy aham
+
+**4.11.18**
+
+tasya tad vacanaṃ śrutvā girirājasya dhīmataḥ uvāca dundubhir vākyaṃ krodhāt saṃraktalocanaḥ
+
+**4.11.19**
+
+yadi yuddhe 'samarthas tvaṃ madbhayād vā nirudyamaḥ tam ācakṣva pradadyān me yo 'dya yuddhaṃ yuyutsataḥ
+
+**4.11.20**
+
+himavān abravīd vākyaṃ śrutvā vākyaviśāradaḥ anuktapūrvaṃ dharmātmā krodhāt tam asurottamam
+
+**4.11.21**
+
+vālī nāma mahāprājñaḥ śakratulyaparākramaḥ adhyāste vānaraḥ śrīmān kiṣkindhām atulaprabhām
+
+**4.11.22**
+
+sa samartho mahāprājñas tava yuddhaviśāradaḥ dvandvayuddhaṃ mahad dātuṃ namucer iva vāsavaḥ
+
+**4.11.23**
+
+taṃ śīghram abhigaccha tvaṃ yadi yuddham ihecchasi sa hi durdharṣaṇo nityaṃ śūraḥ samarakarmaṇi
+
+**4.11.24**
+
+śrutvā himavato vākyaṃ krodhāviṣṭaḥ sa dundubhiḥ jagāma tāṃ purīṃ tasya kiṣkindhāṃ vālinas tadā
+
+**4.11.25**
+
+dhārayan māhiṣaṃ rūpaṃ tīkṣṇaśṛṅgo bhayāvahaḥ prāvṛṣīva mahāmeghas toyapūrṇo nabhastale
+
+**4.11.26**
+
+tatas tu dvāram āgamya kiṣkindhāyā mahābalaḥ nanarda kampayan bhūmiṃ dundubhir dundubhir yathā
+
+**4.11.27**
+
+samīpajān drumān bhañjan vasudhāṃ dārayan khuraiḥ viṣāṇenollekhan darpāt taddvāraṃ dvirado yathā
+
+**4.11.28**
+
+antaḥpuragato vālī śrutvā śabdam amarṣaṇaḥ niṣpapāta saha strībhis tārābhir iva candramāḥ
+
+**4.11.29**
+
+mitaṃ vyaktākṣarapadaṃ tam uvāca sa dundubhim harīṇām īśvaro vālī sarveṣāṃ vanacāriṇām
+
+**4.11.30**
+
+kimarthaṃ nagaradvāram idaṃ ruddhvā vinardasi dundubhe vidito me 'si rakṣa prāṇān mahābala
+
+**4.11.31**
+
+tasya tad vacanaṃ śrutvā vānarendrasya dhīmataḥ uvāca dundubhir vākyaṃ krodhāt saṃraktalocanaḥ
+
+**4.11.32**
+
+na tvaṃ strīsaṃnidhau vīra vacanaṃ vaktum arhasi mama yuddhaṃ prayaccha tvaṃ tato jñāsyāmi te balam
+
+**4.11.33**
+
+atha vā dhārayiṣyāmi krodham adya niśām imām gṛhyatām udayaḥ svairaṃ kāmabhogeṣu vānara
+
+**4.11.34**
+
+yo hi mattaṃ pramattaṃ vā suptaṃ vā rahitaṃ bhṛśam hanyāt sa bhrūṇahā loke tvadvidhaṃ madamohitam
+
+**4.11.35**
+
+sa prahasyābravīn mandaṃ krodhāt tam asurottamam visṛjya tāḥ striyaḥ sarvās tārāprabhṛtikās tadā
+
+**4.11.36**
+
+matto 'yam iti mā maṃsthā yady abhīto 'si saṃyuge mado 'yaṃ saṃprahāre 'smin vīrapānaṃ samarthyatām
+
+**4.11.37**
+
+tam evam uktvā saṃkruddho mālām utkṣipya kāñcanīm pitrā dattāṃ mahendreṇa yuddhāya vyavatiṣṭhata
+
+**4.11.38**
+
+viṣāṇayor gṛhītvā taṃ dundubhiṃ girisaṃnibham vālī vyāpātayāṃ cakre nanarda ca mahāsvanam
+
+**4.11.39**
+
+yuddhe prāṇahare tasmin niṣpiṣṭo dundubhis tadā śrotrābhyām atha raktaṃ tu tasya susrāva pātyataḥ papāta ca mahākāyaḥ kṣitau pañcatvam āgataḥ
+
+**4.11.40**
+
+taṃ tolayitvā bāhubhyāṃ gatasattvam acetanam cikṣepa vegavān vālī vegenaikena yojanam
+
+**4.11.41**
+
+tasya vegapraviddhasya vaktrāt kṣatajabindavaḥ prapetur mārutotkṣiptā mataṅgasyāśramaṃ prati
+
+**4.11.42**
+
+tān dṛṣṭvā patitāṃs tatra muniḥ śoṇitavipruṣaḥ utsasarja mahāśāpaṃ kṣeptāraṃ vālinaṃ prati iha tenāpraveṣṭavyaṃ praviṣṭasya badho bhavet
+
+**4.11.43**
+
+sa maharṣiṃ samāsādya yācate sma kṛtāñjaliḥ
+
+**4.11.44**
+
+tataḥ śāpabhayād bhīta ṛśyamūkaṃ mahāgirim praveṣṭuṃ necchati harir draṣṭuṃ vāpi nareśvara
+
+**4.11.45**
+
+tasyāpraveśaṃ jñātvāham idaṃ rāma mahāvanam vicarāmi sahāmātyo viṣādena vivarjitaḥ
+
+**4.11.46**
+
+eṣo 'sthinicayas tasya dundubheḥ saṃprakāśate vīryotsekān nirastasya girikūṭanibho mahān
+
+**4.11.47**
+
+ime ca vipulāḥ sālāḥ sapta śākhāvalambinaḥ yatraikaṃ ghaṭate vālī niṣpatrayitum ojasā
+
+**4.11.48**
+
+etad asyāsamaṃ vīryaṃ mayā rāma prakāśitam kathaṃ taṃ vālinaṃ hantuṃ samare śakṣyase nṛpa
+
+**4.11.49**
+
+yadi bhindyād bhavān sālān imāṃs tv ekeṣuṇā tataḥ jānīyāṃ tvāṃ mahābāho samarthaṃ vālino vadhe
+
+**4.11.50**
+
+tasya tad vacanaṃ śrutvā sugrīvasya mahātmanaḥ rāghavo dundubheḥ kāyaṃ pādāṅguṣṭhena līlayā tolayitvā mahābāhuś cikṣepa daśayojanam
+
+**4.11.51**
+
+kṣiptaṃ dṛṣṭvā tataḥ kāyaṃ sugrīvaḥ punar abravīt lakṣmaṇasyāgrato rāmam idaṃ vacanam arthavat
+
+**4.11.52**
+
+ārdraḥ samāṃsapratyagraḥ kṣiptaḥ kāyaḥ purā sakhe laghuḥ saṃprati nirmāṃsas tṛṇabhūtaś ca rāghava nātra śakyaṃ balaṃ jñātuṃ tava vā tasya vādhikam
+
+**4.12.1**
+
+etac ca vacanaṃ śrutvā sugrīveṇa subhāṣitam pratyayārthaṃ mahātejā rāmo jagrāha kārmukam
+
+**4.12.2**
+
+sa gṛhītvā dhanur ghoraṃ śaram ekaṃ ca mānadaḥ sālān uddiśya cikṣepa jyāsvanaiḥ pūrayan diśaḥ
+
+**4.12.3**
+
+sa visṛṣṭo balavatā bāṇaḥ svarṇapariṣkṛtaḥ bhittvā sālān giriprasthe sapta bhūmiṃ viveśa ha
+
+**4.12.4**
+
+praviṣṭas tu muhūrtena rasāṃ bhittvā mahājavaḥ niṣpatya ca punas tūrṇaṃ svatūṇīṃ praviveśa ha
+
+**4.12.5**
+
+tān dṛṣṭvā sapta nirbhinnān sālān vānarapuṃgavaḥ rāmasya śaravegena vismayaṃ paramaṃ gataḥ
+
+**4.12.6**
+
+sa mūrdhnā nyapatad bhūmau pralambīkṛtabhūṣaṇaḥ sugrīvaḥ paramaprīto rāghavāya kṛtāñjaliḥ
+
+**4.12.7**
+
+idaṃ covāca dharmajñaṃ karmaṇā tena harṣitaḥ rāmaṃ sarvāstraviduṣāṃ śreṣṭhaṃ śūram avasthitam
+
+**4.12.8**
+
+sendrān api surān sarvāṃs tvaṃ bāṇaiḥ puruṣarṣabha samarthaḥ samare hantuṃ kiṃ punar vālinaṃ prabho
+
+**4.12.9**
+
+yena sapta mahāsālā girir bhūmiś ca dāritāḥ bāṇenaikena kākutstha sthātā te ko raṇāgrataḥ
+
+**4.12.10**
+
+adya me vigataḥ śokaḥ prītir adya parā mama suhṛdaṃ tvāṃ samāsādya mahendravaruṇopamam
+
+**4.12.11**
+
+tam adyaiva priyārthaṃ me vairiṇaṃ bhrātṛrūpiṇam vālinaṃ jahi kākutstha mayā baddho 'yam añjaliḥ
+
+**4.12.12**
+
+tato rāmaḥ pariṣvajya sugrīvaṃ priyadarśanam pratyuvāca mahāprājño lakṣmaṇānumataṃ vacaḥ
+
+**4.12.13**
+
+asmād gacchāma kiṣkindhāṃ kṣipraṃ gaccha tvam agrataḥ gatvā cāhvaya sugrīva vālinaṃ bhrātṛgandhinam
+
+**4.12.14**
+
+sarve te tvaritaṃ gatvā kiṣkindhāṃ vālinaḥ purīm vṛkṣair ātmānam āvṛtya vyatiṣṭhan gahane vane
+
+**4.12.15**
+
+sugrīvo vyanadad ghoraṃ vālino hvānakāraṇāt gāḍhaṃ parihito vegān nādair bhindann ivāmbaram
+
+**4.12.16**
+
+taṃ śrutvā ninadaṃ bhrātuḥ kruddho vālī mahābalaḥ niṣpapāta susaṃrabdho bhāskaro 'stataṭād iva
+
+**4.12.17**
+
+tataḥ sutumulaṃ yuddhaṃ vālisugrīvayor abhūt gagane grahayor ghoraṃ budhāṅgārakayor iva
+
+**4.12.18**
+
+talair aśanikalpaiś ca vajrakalpaiś ca muṣṭibhiḥ jaghnatuḥ samare 'nyonyaṃ bhrātarau krodhamūrchitau
+
+**4.12.19**
+
+tato rāmo dhanuṣpāṇis tāv ubhau samudīkṣya tu anyonyasadṛśau vīrāv ubhau devāv ivāśvinau
+
+**4.12.20**
+
+yan nāvagacchat sugrīvaṃ vālinaṃ vāpi rāghavaḥ tato na kṛtavān buddhiṃ moktum antakaraṃ śaram
+
+**4.12.21**
+
+etasminn antare bhagnaḥ sugrīvas tena vālinā apaśyan rāghavaṃ nātham ṛśyamūkaṃ pradudruve
+
+**4.12.22**
+
+klānto rudhirasiktāṅgaḥ prahārair jarjarīkṛtaḥ vālinābhidrutaḥ krodhāt praviveśa mahāvanam
+
+**4.12.23**
+
+taṃ praviṣṭaṃ vanaṃ dṛṣṭvā vālī śāpabhayāt tataḥ mukto hy asi tvam ity uktvā sa nivṛtto mahābalaḥ
+
+**4.12.24**
+
+rāghavo 'pi saha bhrātrā saha caiva hanūmatā tad eva vanam āgacchat sugrīvo yatra vānaraḥ
+
+**4.12.25**
+
+taṃ samīkṣyāgataṃ rāmaṃ sugrīvaḥ sahalakṣmaṇam hrīmān dīnam uvācedaṃ vasudhām avalokayan
+
+**4.12.26**
+
+āhvayasveti mām uktvā darśayitvā ca vikramam vairiṇā ghātayitvā ca kim idānīṃ tvayā kṛtam
+
+**4.12.27**
+
+tām eva velāṃ vaktavyaṃ tvayā rāghava tattvataḥ vālinaṃ na nihanmīti tato nāham ito vraje
+
+**4.12.28**
+
+tasya caivaṃ bruvāṇasya sugrīvasya mahātmanaḥ karuṇaṃ dīnayā vācā rāghavaḥ punar abravīt
+
+**4.12.29**
+
+sugrīva śrūyatāṃ tātaḥ krodhaś ca vyapanīyatām kāraṇaṃ yena bāṇo 'yaṃ na mayā sa visarjitaḥ
+
+**4.12.30**
+
+alaṃkāreṇa veṣeṇa pramāṇena gatena ca tvaṃ ca sugrīva vālī ca sadṛśau sthaḥ parasparam
+
+**4.12.31**
+
+svareṇa varcasā caiva prekṣitena ca vānara vikrameṇa ca vākyaiś ca vyaktiṃ vāṃ nopalakṣaye
+
+**4.12.32**
+
+tato 'haṃ rūpasādṛśyān mohito vānarottama notsṛjāmi mahāvegaṃ śaraṃ śatrunibarhaṇam
+
+**4.12.33**
+
+etanmuhūrte tu mayā paśya vālinam āhave nirastam iṣuṇaikena veṣṭamānaṃ mahītale
+
+**4.12.34**
+
+abhijñānaṃ kuruṣva tvam ātmano vānareśvara yena tvām abhijānīyāṃ dvandvayuddham upāgatam
+
+**4.12.35**
+
+gajapuṣpīm imāṃ phullām utpāṭya śubhalakṣaṇām kuru lakṣmaṇa kaṇṭhe 'sya sugrīvasya mahātmanaḥ
+
+**4.12.36**
+
+tato giritaṭe jātām utpāṭya kusumāyutām lakṣmaṇo gajapuṣpīṃ tāṃ tasya kaṇṭhe vyasarjayat
+
+**4.12.37**
+
+sa tathā śuśubhe śrīmāṃl latayā kaṇṭhasaktayā mālayeva balākānāṃ sasaṃdhya iva toyadaḥ
+
+**4.12.38**
+
+vibhrājamāno vapuṣā rāmavākyasamāhitaḥ jagāma saha rāmeṇa kiṣkindhāṃ vālipālitām
+
+**4.13.1**
+
+ṛśyamūkāt sa dharmātmā kiṣkindhāṃ lakṣmaṇāgrajaḥ jagāma sahasugrīvo vālivikramapālitām
+
+**4.13.2**
+
+samudyamya mahac cāpaṃ rāmaḥ kāñcanabhūṣitam śarāṃś cāditya saṃkāśān gṛhītvā raṇasādhakān
+
+**4.13.3**
+
+agratas tu yayau tasya rāghavasya mahātmanaḥ sugrīvaḥ saṃhatagrīvo lakṣmaṇaś ca mahābalaḥ
+
+**4.13.4**
+
+pṛṣṭhato hanumān vīro nalo nīlaś ca vānaraḥ tāraś caiva mahātejā hariyūthapa yūthapāḥ
+
+**4.13.5**
+
+te vīkṣamāṇā vṛkṣāṃś ca puṣpabhārāvalambinaḥ prasannāmbuvahāś caiva saritaḥ sāgaraṃ gamāḥ
+
+**4.13.6**
+
+kandarāṇi ca śailāṃś ca nirjharāṇi guhās tathā śikharāṇi ca mukhyāni darīś ca priyadarśanāḥ
+
+**4.13.7**
+
+vaidūryavimalaiḥ parṇaiḥ padmaiś cākāśakuḍmalaiḥ śobhitān sajalān mārge taṭākāṃś ca vyalokayan
+
+**4.13.8**
+
+kāraṇḍaiḥ sārasair haṃsair vañjūlair jalakukkuṭaiḥ cakravākais tathā cānyaiḥ śakunaiḥ pratināditān
+
+**4.13.9**
+
+mṛduśaṣpāṅkurāhārān nirbhayān vanagocarān carataḥ sarvato 'paśyan sthalīṣu hariṇān sthitān
+
+**4.13.10**
+
+taṭākavairiṇaś cāpi śukladantavibhūṣitān ghorān ekacarān vanyān dviradān kūlaghātinaḥ
+
+**4.13.11**
+
+vane vanacarāṃś cānyān khecarāṃś ca vihaṃgamān paśyantas tvaritā jagmuḥ sugrīvavaśavartinaḥ
+
+**4.13.12**
+
+teṣāṃ tu gacchatāṃ tatra tvaritaṃ raghunandanaḥ drumaṣaṇḍaṃ vanaṃ dṛṣṭvā rāmaḥ sugrīvam abravīt
+
+**4.13.13**
+
+eṣa megha ivākāśe vṛkṣaṣaṇḍaḥ prakāśate meghasaṃghātavipulaḥ paryantakadalīvṛtaḥ
+
+**4.13.14**
+
+kim etaj jñātum icchāmi sakhe kautūhalaṃ mama kautūhalāpanayanaṃ kartum icchāmy ahaṃ tvayā
+
+**4.13.15**
+
+tasya tad vacanaṃ śrutvā rāghavasya mahātmanaḥ gacchann evācacakṣe 'tha sugrīvas tan mahad vanam
+
+**4.13.16**
+
+etad rāghava vistīrṇam āśramaṃ śramanāśanam udyānavanasaṃpannaṃ svādumūlaphalodakam
+
+**4.13.17**
+
+atra saptajanā nāma munayaḥ saṃśitavratāḥ saptaivāsann adhaḥśīrṣā niyataṃ jalaśāyinaḥ
+
+**4.13.18**
+
+saptarātrakṛtāhārān vāyunā vanavāsinaḥ divaṃ varṣaśatair yātāḥ saptabhiḥ sakalevarāḥ
+
+**4.13.19**
+
+teṣām evaṃ prabhāvena drumaprākārasaṃvṛtam āśramaṃ sudurādharṣam api sendraiḥ surāsuraiḥ
+
+**4.13.20**
+
+pakṣiṇo varjayanty etat tathānye vanacāriṇaḥ viśanti mohād ye 'py atra nivartante na te punaḥ
+
+**4.13.21**
+
+vibhūṣaṇaravāś cātra śrūyante sakalākṣarāḥ tūryagītasvanāś cāpi gandho divyaś ca rāghava
+
+**4.13.22**
+
+tretāgnayo 'pi dīpyante dhūmo hy eṣa pradṛśyate veṣṭayann iva vṛkṣāgrān kapotāṅgāruṇo ghanaḥ
+
+**4.13.23**
+
+kuru praṇāmaṃ dharmātmaṃs tān samuddiśya rāghavaḥ lakṣmaṇena saha bhrātrā prayataḥ saṃyatāñjaliḥ
+
+**4.13.24**
+
+praṇamanti hi ye teṣām ṛṣīṇāṃ bhāvitātmanām na teṣām aśubhaṃ kiṃ cic charīre rāma dṛśyate
+
+**4.13.25**
+
+tato rāmaḥ saha bhrātrā lakṣmaṇena kṛtāñjaliḥ samuddiśya mahātmānas tān ṛṣīn abhyavādayat
+
+**4.13.26**
+
+abhivādya ca dharmātmā rāmo bhrātā ca lakṣmaṇaḥ sugrīvo vānarāś caiva jagmuḥ saṃhṛṣṭamānasāḥ
+
+**4.13.27**
+
+te gatvā dūram adhvānaṃ tasmāt saptajanāśramāt dadṛśus tāṃ durādharṣāṃ kiṣkindhāṃ vālipālitām
+
+**4.14.1**
+
+sarve te tvaritaṃ gatvā kiṣkindhāṃ vālipālitām vṛkṣair ātmānam āvṛtya vyatiṣṭhan gahane vane
+
+**4.14.2**
+
+vicārya sarvato dṛṣṭiṃ kānane kānanapriyaḥ sugrīvo vipulagrīvaḥ krodham āhārayad bhṛśam
+
+**4.14.3**
+
+tataḥ sa ninadaṃ ghoraṃ kṛtvā yuddhāya cāhvayat parivāraiḥ parivṛto nādair bhindann ivāmbaram
+
+**4.14.4**
+
+atha bālārkasadṛśo dṛptasiṃhagatis tadā dṛṣṭvā rāmaṃ kriyādakṣaṃ sugrīvo vākyam abravīt
+
+**4.14.5**
+
+harivāgurayā vyāptaṃ taptakāñcanatoraṇām prāptāḥ sma dhvajayantrāḍhyāṃ kiṣkindhāṃ vālinaḥ purīm
+
+**4.14.6**
+
+pratijñā yā tvayā vīra kṛtā vālivadhe purā saphalāṃ tāṃ kuru kṣipraṃ latāṃ kāla ivāgataḥ
+
+**4.14.7**
+
+evam uktas tu dharmātmā sugrīveṇa sa rāghavaḥ tam athovāca sugrīvaṃ vacanaṃ śatrusūdanaḥ
+
+**4.14.8**
+
+kṛtābhijñāna cihnas tvam anayā gajasāhvayā viparīta ivākāśe sūryo nakṣatra mālayā
+
+**4.14.9**
+
+adya vālisamutthaṃ te bhayaṃ vairaṃ ca vānara ekenāhaṃ pramokṣyāmi bāṇamokṣeṇa saṃyuge
+
+**4.14.10**
+
+mama darśaya sugrīvavairiṇaṃ bhrātṛrūpiṇam vālī vinihato yāvad vane pāṃsuṣu veṣṭate
+
+**4.14.11**
+
+yadi dṛṣṭipathaṃ prāpto jīvan sa vinivartate tato doṣeṇa mā gacchet sadyo garhec ca mā bhavān
+
+**4.14.12**
+
+pratyakṣaṃ sapta te sālā mayā bāṇena dāritāḥ tato vetsi balenādya bālinaṃ nihataṃ mayā
+
+**4.14.13**
+
+anṛtaṃ noktapūrvaṃ me vīra kṛcchre 'pi tiṣṭhatā dharmalobhaparītena na ca vakṣye kathaṃ cana
+
+**4.14.14**
+
+saphalāṃ ca kariṣyāmi pratijñāṃ jahi saṃbhramam prasūtaṃ kalamaṃ kṣetre varṣeṇeva śatakratuḥ
+
+**4.14.15**
+
+tadāhvānanimittaṃ tvaṃ vālino hemamālinaḥ sugrīva kuru taṃ śabdaṃ niṣpated yena vānaraḥ
+
+**4.14.16**
+
+jitakāśī jayaślāghī tvayā cādharṣitaḥ purāt niṣpatiṣyaty asaṃgena vālī sa priyasaṃyugaḥ
+
+**4.14.17**
+
+ripūṇāṃ dharṣaṇaṃ śūrā marṣayanti na saṃyuge jānantas tu svakaṃ vīryaṃ strīsamakṣaṃ viśeṣataḥ
+
+**4.14.18**
+
+sa tu rāmavacaḥ śrutvā sugrīvo hemapiṅgalaḥ nanarda krūranādena vinirbhindann ivāmbaram
+
+**4.14.19**
+
+tasya śabdena vitrastā gāvo yānti hataprabhāḥ rājadoṣaparāmṛṣṭāḥ kulastriya ivākulāḥ
+
+**4.14.20**
+
+dravanti ca mṛgāḥ śīghraṃ bhagnā iva raṇe hayāḥ patanti ca khagā bhūmau kṣīṇapuṇyā iva grahāḥ
+
+**4.14.21**
+
+tataḥ sa jīmūtagaṇapraṇādo nādaṃ vyamuñcat tvarayā pratītaḥ sūryātmajaḥ śauryavivṛddhatejāḥ saritpatir vānilacañcalormiḥ
+
+**4.15.1**
+
+atha tasya ninādaṃ taṃ sugrīvasya mahātmanaḥ śuśrāvāntaḥpuragato vālī bhrātur amarṣaṇaḥ
+
+**4.15.2**
+
+śrutvā tu tasya ninadaṃ sarvabhūtaprakampanam madaś caikapade naṣṭaḥ krodhaś cāpatito mahān
+
+**4.15.3**
+
+sa tu roṣaparītāṅgo vālī saṃdhyātapaprabhaḥ uparakta ivādityaḥ sadyo niṣprabhatāṃ gataḥ
+
+**4.15.4**
+
+vālī daṃṣṭrā karālas tu krodhād dīptāgnisaṃnibhaḥ bhāty utpatitapadmābhaḥ samṛṇāla iva hradaḥ
+
+**4.15.5**
+
+śabdaṃ durmarṣaṇaṃ śrutvā niṣpapāta tato hariḥ vegena caraṇanyāsair dārayann iva medinīm
+
+**4.15.6**
+
+taṃ tu tārā pariṣvajya snehād darśitasauhṛdā uvāca trastasaṃbhrāntā hitodarkam idaṃ vacaḥ
+
+**4.15.7**
+
+sādhu krodham imaṃ vīra nadī vegam ivāgatam śayanād utthitaḥ kālyaṃ tyaja bhuktām iva srajam
+
+**4.15.8**
+
+sahasā tava niṣkrāmo mama tāvan na rocate śrūyatām abhidhāsyāmi yannimittaṃ nivāryase
+
+**4.15.9**
+
+pūrvam āpatitaḥ krodhāt sa tvām āhvayate yudhi niṣpatya ca nirastas te hanyamāno diśo gataḥ
+
+**4.15.10**
+
+tvayā tasya nirastasya pīḍitasya viśeṣataḥ ihaitya punar āhvānaṃ śaṅkāṃ janayatīva me
+
+**4.15.11**
+
+darpaś ca vyavasāyaś ca yādṛśas tasya nardataḥ ninādasya ca saṃrambho naitad alpaṃ hi kāraṇam
+
+**4.15.12**
+
+nāsahāyam ahaṃ manye sugrīvaṃ tam ihāgatam avaṣṭabdhasahāyaś ca yam āśrityaiṣa garjati
+
+**4.15.13**
+
+prakṛtyā nipuṇaś caiva buddhimāṃś caiva vānaraḥ aparīkṣitavīryeṇa sugrīvaḥ saha naiṣyati
+
+**4.15.14**
+
+pūrvam eva mayā vīra śrutaṃ kathayato vacaḥ aṅgadasya kumārasya vakṣyāmi tvā hitaṃ vacaḥ
+
+**4.15.15**
+
+tava bhrātur hi vikhyātaḥ sahāyo raṇakarkaśaḥ rāmaḥ parabalāmardī yugāntāgnir ivotthitaḥ
+
+**4.15.16**
+
+nivāsavṛkṣaḥ sādhūnām āpannānāṃ parā gatiḥ ārtānāṃ saṃśrayaś caiva yaśasaś caikabhājanam
+
+**4.15.17**
+
+jñānavijñānasaṃpanno nideśo nirataḥ pituḥ dhātūnām iva śailendro guṇānām ākaro mahān
+
+**4.15.18**
+
+tatkṣamaṃ na virodhas te saha tena mahātmanā durjayenāprameyena rāmeṇa raṇakarmasu
+
+**4.15.19**
+
+śūra vakṣyāmi te kiṃ cin na cecchāmy abhyasūyitum śrūyatāṃ kriyatāṃ caiva tava vakṣyāmi yad dhitam
+
+**4.15.20**
+
+yauvarājyena sugrīvaṃ tūrṇaṃ sādhv abhiṣecaya vigrahaṃ mā kṛthā vīra bhrātrā rājan balīyasā
+
+**4.15.21**
+
+ahaṃ hi te kṣamaṃ manye tava rāmeṇa sauhṛdam sugrīveṇa ca saṃprītiṃ vairam utsṛjya dūrataḥ
+
+**4.15.22**
+
+lālanīyo hi te bhrātā yavīyān eṣa vānaraḥ tatra vā sann ihastho vā sarvathā bandhur eva te
+
+**4.15.23**
+
+yadi te matpriyaṃ kāryaṃ yadi cāvaiṣi māṃ hitām yācyamānaḥ prayatnena sādhu vākyaṃ kuruṣva me
+
+**4.16.1**
+
+tām evaṃ bruvatīṃ tārāṃ tārādhipanibhānanām vālī nirbhartsayām āsa vacanaṃ cedam abravīt
+
+**4.16.2**
+
+garjato 'sya ca saṃrambhaṃ bhrātuḥ śatror viśeṣataḥ marṣayiṣyāmy ahaṃ kena kāraṇena varānane
+
+**4.16.3**
+
+adharṣitānāṃ śūrāṇāṃ samareṣv anivartinām dharṣaṇāmarṣaṇaṃ bhīru maraṇād atiricyate
+
+**4.16.4**
+
+soḍhuṃ na ca samartho 'haṃ yuddhakāmasya saṃyuge sugrīvasya ca saṃrambhaṃ hīnagrīvasya garjataḥ
+
+**4.16.5**
+
+na ca kāryo viṣādas te rāghavaṃ prati matkṛte dharmajñaś ca kṛtajñaś ca kathaṃ pāpaṃ kariṣyati
+
+**4.16.6**
+
+nivartasva saha strībhiḥ kathaṃ bhūyo 'nugacchasi sauhṛdaṃ darśitaṃ tāre mayi bhaktiḥ kṛtā tvayā
+
+**4.16.7**
+
+pratiyotsyāmy ahaṃ gatvā sugrīvaṃ jahi saṃbhramam darpaṃ cāsya vineṣyāmi na ca prāṇair vimokṣyate
+
+**4.16.8**
+
+śāpitāsi mama prāṇair nivartasva jayena ca ahaṃ jitvā nivartiṣye tam alaṃ bhrātaraṃ raṇe
+
+**4.16.9**
+
+taṃ tu tārā pariṣvajya vālinaṃ priyavādinī cakāra rudatī mandaṃ dakṣiṇā sā pradakṣiṇam
+
+**4.16.10**
+
+tataḥ svastyayanaṃ kṛtvā mantravad vijayaiṣiṇī antaḥpuraṃ saha strībhiḥ praviṣṭā śokamohitā
+
+**4.16.11**
+
+praviṣṭāyāṃ tu tārāyāṃ saha strībhiḥ svam ālayam nagarān niryayau kruddho mahāsarpa iva śvasan
+
+**4.16.12**
+
+sa niḥśvasya mahāvego vālī paramaroṣaṇaḥ sarvataś cārayan dṛṣṭiṃ śatrudarśanakāṅkṣayā
+
+**4.16.13**
+
+sa dadarśa tataḥ śrīmān sugrīvaṃ hemapiṅgalam susaṃvītam avaṣṭabdhaṃ dīpyamānam ivānalam
+
+**4.16.14**
+
+sa taṃ dṛṣṭvā mahāvīryaṃ sugrīvaṃ paryavasthitam gāḍhaṃ paridadhe vāso vālī paramaroṣaṇaḥ
+
+**4.16.15**
+
+sa vālī gāḍhasaṃvīto muṣṭim udyamya vīryavān sugrīvam evābhimukho yayau yoddhuṃ kṛtakṣaṇaḥ
+
+**4.16.16**
+
+śliṣṭamuṣṭiṃ samudyamya saṃrabdhataram āgataḥ sugrīvo 'pi samuddiśya vālinaṃ hemamālinam
+
+**4.16.17**
+
+taṃ vālī krodhatāmrākṣaḥ sugrīvaṃ raṇapaṇḍitam āpatantaṃ mahāvegam idaṃ vacanam abravīt
+
+**4.16.18**
+
+eṣa muṣṭir mayā baddho gāḍhaḥ sunihitāṅguliḥ mayā vegavimuktas te prāṇān ādāya yāsyati
+
+**4.16.19**
+
+evam uktas tu sugrīvaḥ kruddho vālinam abravīt tavaiva ca haran prāṇān muṣṭiḥ patatu mūrdhani
+
+**4.16.20**
+
+tāḍitas tena saṃkruddhaḥ samabhikramya vegataḥ abhavac choṇitodgārī sotpīḍa iva parvataḥ
+
+**4.16.21**
+
+sugrīveṇa tu niḥsaṃgaṃ sālam utpāṭya tejasā gātreṣv abhihato vālī vajreṇeva mahāgiriḥ
+
+**4.16.22**
+
+sa tu vālī pracaritaḥ sālatāḍanavihvalaḥ gurubhārasamākrāntā sāgare naur ivābhavat
+
+**4.16.23**
+
+tau bhīmabalavikrāntau suparṇasamaveginau pravṛddhau ghoravapuṣau candrasūryāv ivāmbare
+
+**4.16.24**
+
+vālinā bhagnadarpas tu sugrīvo mandavikramaḥ vālinaṃ prati sāmarṣo darśayām āsa lāghavam
+
+**4.16.25**
+
+tato dhanuṣi saṃdhāya śaram āśīviṣopamam rāghaveṇa mahābāṇo vālivakṣasi pātitaḥ
+
+**4.16.26**
+
+vegenābhihato vālī nipapāta mahītale
+
+**4.16.27**
+
+athokṣitaḥ śoṇitatoyavisravaiḥ supuṣpitāśoka ivāniloddhataḥ vicetano vāsavasūnur āhave prabhraṃśitendradhvajavat kṣitiṃ gataḥ
+
+**4.17.1**
+
+tataḥ śareṇābhihato rāmeṇa raṇakarkaśaḥ papāta sahasā vālī nikṛtta iva pādapaḥ
+
+**4.17.2**
+
+sa bhūmau nyastasarvāṅgas taptakāñcanabhūṣaṇaḥ apatad devarājasya muktaraśmir iva dhvajaḥ
+
+**4.17.3**
+
+tasmin nipatite bhūmau haryṛṣāṇāṃ gaṇeśvare naṣṭacandram iva vyoma na vyarājata bhūtalam
+
+**4.17.4**
+
+bhūmau nipatitasyāpi tasya dehaṃ mahātmanaḥ na śrīr jahāti na prāṇā na tejo na parākramaḥ
+
+**4.17.5**
+
+śakradattā varā mālā kāñcanī ratnabhūṣitā dadhāra harimukhyasya prāṇāṃs tejaḥ śriyaṃ ca sā
+
+**4.17.6**
+
+sa tayā mālayā vīro haimayā hariyūthapaḥ saṃdhyānugataparyantaḥ payodhara ivābhavat
+
+**4.17.7**
+
+tasya mālā ca dehaś ca marmaghātī ca yaḥ śaraḥ tridheva racitā lakṣmīḥ patitasyāpi śobhate
+
+**4.17.8**
+
+tad astraṃ tasya vīrasya svargamārgaprabhāvanam rāmabāṇāsanakṣiptam āvahat paramāṃ gatim
+
+**4.17.9**
+
+taṃ tathā patitaṃ saṃkhye gatārciṣam ivānalam yayātim iva puṇyānte devalokāt paricyutam
+
+**4.17.10**
+
+ādityam iva kālena yugānte bhuvi pātitam mahendram iva durdharṣaṃ mahendram iva duḥsaham
+
+**4.17.11**
+
+mahendraputraṃ patitaṃ vālinaṃ hemamālinam siṃhoraskaṃ mahābāhuṃ dīptāsyaṃ harilocanam lakṣmaṇānugato rāmo dadarśopasasarpa ca
+
+**4.17.12**
+
+sa dṛṣṭvā rāghavaṃ vālī lakṣmaṇaṃ ca mahābalam abravīt praśritaṃ vākyaṃ paruṣaṃ dharmasaṃhitam
+
+**4.17.13**
+
+parāṅmukhavadhaṃ kṛtvā ko nu prāptas tvayā guṇaḥ yad ahaṃ yuddhasaṃrabdhas tvatkṛte nidhanaṃ gataḥ
+
+**4.17.14**
+
+kulīnaḥ sattvasaṃpannas tejasvī caritavrataḥ rāmaḥ karuṇavedī ca prajānāṃ ca hite rataḥ
+
+**4.17.15**
+
+sānukrośo mahotsāhaḥ samayajño dṛḍhavrataḥ iti te sarvabhūtāni kathayanti yaśo bhuvi
+
+**4.17.16**
+
+tān guṇān saṃpradhāryāham agryaṃ cābhijanaṃ tava tārayā pratiṣiddhaḥ san sugrīveṇa samāgataḥ
+
+**4.17.17**
+
+na mām anyena saṃrabdhaṃ pramattaṃ veddhum arhasi iti me buddhir utpannā babhūvādarśane tava
+
+**4.17.18**
+
+na tvāṃ vinihatātmānaṃ dharmadhvajam adhārmikam jāne pāpasamācāraṃ tṛṇaiḥ kūpam ivāvṛtam
+
+**4.17.19**
+
+satāṃ veṣadharaṃ pāpaṃ pracchannam iva pāvakam nāhaṃ tvām abhijānāni dharmacchadmābhisaṃvṛtam
+
+**4.17.20**
+
+viṣaye vā pure vā te yadā nāpakaromy aham na ca tvāṃ pratijāne 'haṃ kasmāt tvaṃ haṃsy akilbiṣam
+
+**4.17.21**
+
+phalamūlāśanaṃ nityaṃ vānaraṃ vanagocaram mām ihāpratiyudhyantam anyena ca samāgatam
+
+**4.17.22**
+
+tvaṃ narādhipateḥ putraḥ pratītaḥ priyadarśanaḥ liṅgam apy asti te rājan dṛśyate dharmasaṃhitam
+
+**4.17.23**
+
+kaḥ kṣatriyakule jātaḥ śrutavān naṣṭasaṃśayaḥ dharmaliṅga praticchannaḥ krūraṃ karma samācaret
+
+**4.17.24**
+
+rāma rājakule jāto dharmavān iti viśrutaḥ abhavyo bhavyarūpeṇa kimarthaṃ paridhāvasi
+
+**4.17.25**
+
+sāma dānaṃ kṣamā dharmaḥ satyaṃ dhṛtiparākramau pārthivānāṃ guṇā rājan daṇḍaś cāpy apakāriṣu
+
+**4.17.26**
+
+vayaṃ vanacarā rāma mṛgā mūlaphalāśanāḥ eṣā prakṛtir asmākaṃ puruṣas tvaṃ nareśvaraḥ
+
+**4.17.27**
+
+bhūmir hiraṇyaṃ rūpyaṃ ca nigrahe kāraṇāni ca tatra kas te vane lobho madīyeṣu phaleṣu vā
+
+**4.17.28**
+
+nayaś ca vinayaś cobhau nigrahānugrahāv api rājavṛttir asaṃkīrṇā na nṛpāḥ kāmavṛttayaḥ
+
+**4.17.29**
+
+tvaṃ tu kāmapradhānaś ca kopanaś cānavasthitaḥ rājavṛttaiś ca saṃkīrṇaḥ śarāsanaparāyaṇaḥ
+
+**4.17.30**
+
+na te 'sty apacitir dharme nārthe buddhir avasthitā indriyaiḥ kāmavṛttaḥ san kṛṣyase manujeśvara
+
+**4.17.31**
+
+hatvā bāṇena kākutstha mām ihānaparādhinam kiṃ vakṣyasi satāṃ madhye karma kṛtvā jugupsitam
+
+**4.17.32**
+
+rājahā brahmahā goghnaś coraḥ prāṇivadhe rataḥ nāstikaḥ parivettā ca sarve nirayagāminaḥ
+
+**4.17.33**
+
+adhāryaṃ carma me sadbhī romāṇy asthi ca varjitam abhakṣyāṇi ca māṃsāni tvadvidhair dharmacāribhiḥ
+
+**4.17.34**
+
+pañca pañcanakhā bhakṣyā brahmakṣatreṇa rāghava śalyakaḥ śvāvidho godhā śaśaḥ kūrmaś ca pañcamaḥ
+
+**4.17.35**
+
+carma cāsthi ca me rājan na spṛśanti manīṣiṇaḥ abhakṣyāṇi ca māṃsāni so 'haṃ pañcanakho hataḥ
+
+**4.17.36**
+
+tvayā nāthena kākutstha na sanāthā vasuṃdharā pramadā śīlasaṃpannā dhūrtena patitā yathā
+
+**4.17.37**
+
+śaṭho naikṛtikaḥ kṣudro mithyā praśritamānasaḥ kathaṃ daśarathena tvaṃ jātaḥ pāpo mahātmanā
+
+**4.17.38**
+
+chinnacāritryakakṣyeṣu satāṃ dharmātivartinā tyaktadharmāṅkuśenāhaṃ nihato rāmahastinā
+
+**4.17.39**
+
+dṛśyamānas tu yudhyethā mayā yudhi nṛpātmaja adya vaivasvataṃ devaṃ paśyes tvaṃ nihato mayā
+
+**4.17.40**
+
+tvayādṛśyena tu raṇe nihato 'haṃ durāsadaḥ prasuptaḥ pannageneva naraḥ pānavaśaṃ gataḥ
+
+**4.17.41**
+
+sugrīvapriyakāmena yad ahaṃ nihatas tvayā kaṇṭhe baddhvā pradadyāṃ te 'nihataṃ rāvaṇaṃ raṇe
+
+**4.17.42**
+
+nyastāṃ sāgaratoye vā pātāle vāpi maithilīm jānayeyaṃ tavādeśāc chvetām aśvatarīm iva
+
+**4.17.43**
+
+yuktaṃ yat prapnuyād rājyaṃ sugrīvaḥ svargate mayi ayuktaṃ yad adharmeṇa tvayāhaṃ nihato raṇe
+
+**4.17.44**
+
+kāmam evaṃvidhaṃ lokaḥ kālane viniyujyate kṣamaṃ ced bhavatā prāptam uttaraṃ sādhu cintyatām
+
+**4.17.45**
+
+ity evam uktvā pariśuṣkavaktraḥ śarābhighātād vyathito mahātmā samīkṣya rāmaṃ ravisaṃnikāśaṃ tūṣṇīṃ babhūvāmararājasūnuḥ
+
+**4.18.1**
+
+ity uktaḥ praśritaṃ vākyaṃ dharmārthasahitaṃ hitam paruṣaṃ vālinā rāmo nihatena vicetasā
+
+**4.18.2**
+
+taṃ niṣprabham ivādityaṃ muktatoyam ivāmbudam uktavākyaṃ hariśreṣṭham upaśāntam ivānalam
+
+**4.18.3**
+
+dharmārthaguṇasaṃpannaṃ harīśvaram anuttamam adhikṣiptas tadā rāmaḥ paścād vālinam abravīt
+
+**4.18.4**
+
+dharmam arthaṃ ca kāmaṃ ca samayaṃ cāpi laukikam avijñāya kathaṃ bālyān mām ihādya vigarhase
+
+**4.18.5**
+
+apṛṣṭvā buddhisaṃpannān vṛddhān ācāryasaṃmatān saumya vānaracāpalyāt tvaṃ māṃ vaktum ihecchasi
+
+**4.18.6**
+
+ikṣvākūṇām iyaṃ bhūmiḥ saśailavanakānanā mṛgapakṣimanuṣyāṇāṃ nigrahānugrahāv api
+
+**4.18.7**
+
+tāṃ pālayati dharmātmā bharataḥ satyavāg ṛjuḥ dharmakāmārthatattvajño nigrahānugrahe rataḥ
+
+**4.18.8**
+
+nayaś ca vinayaś cobhau yasmin satyaṃ ca susthitam vikramaś ca yathā dṛṣṭaḥ sa rājā deśakālavit
+
+**4.18.9**
+
+tasya dharmakṛtādeśā vayam anye ca pārthivaḥ carāmo vasudhāṃ kṛtsnāṃ dharmasaṃtānam icchavaḥ
+
+**4.18.10**
+
+tasmin nṛpatiśārdūla bharate dharmavatsale pālayaty akhilāṃ bhūmiṃ kaś cared dharmanigraham
+
+**4.18.11**
+
+te vayaṃ mārgavibhraṣṭaṃ svadharme parame sthitāḥ bharatājñāṃ puraskṛtam nigṛhṇīmo yathāvidhi
+
+**4.18.12**
+
+tvaṃ tu saṃkliṣṭadharmā ca karmaṇā ca vigarhitaḥ kāmatantrapradhānaś ca na sthito rājavartmani
+
+**4.18.13**
+
+jyeṣṭho bhrātā pitā caiva yaś ca vidyāṃ prayacchati trayas te pitaro jñeyā dharme ca pathi vartinaḥ
+
+**4.18.14**
+
+yavīyān ātmanaḥ putraḥ śiṣyaś cāpi guṇoditaḥ putravat te trayaś cintyā dharmaś ced atra kāraṇam
+
+**4.18.15**
+
+sūkṣmaḥ paramadurjñeyaḥ satāṃ dharmaḥ plavaṃgama hṛdisthaḥ sarvabhūtānām ātmā veda śubhāśubham
+
+**4.18.16**
+
+capalaś capalaiḥ sārdhaṃ vānarair akṛtātmabhiḥ jātyandha iva jātyandhair mantrayan drakṣyase nu kim
+
+**4.18.17**
+
+ahaṃ tu vyaktatām asya vacanasya bravīmi te na hi māṃ kevalaṃ roṣāt tvaṃ vigarhitum arhasi
+
+**4.18.18**
+
+tad etat kāraṇaṃ paśya yadarthaṃ tvaṃ mayā hataḥ bhrātur vartasi bhāryāyāṃ tyaktvā dharmaṃ sanātanam
+
+**4.18.19**
+
+asya tvaṃ dharamāṇasya sugrīvasya mahātmanaḥ rumāyāṃ vartase kāmāt snuṣāyāṃ pāpakarmakṛt
+
+**4.18.20**
+
+tad vyatītasya te dharmāt kāmavṛttasya vānara bhrātṛbhāryābhimarśe 'smin daṇḍo 'yaṃ pratipāditaḥ
+
+**4.18.21**
+
+na hi dharmaviruddhasya lokavṛttād apeyuṣaḥ daṇḍād anyatra paśyāmi nigrahaṃ hariyūthapa
+
+**4.18.22**
+
+aurasīṃ bhaginīṃ vāpi bhāryāṃ vāpy anujasya yaḥ pracareta naraḥ kāmāt tasya daṇḍo vadhaḥ smṛtaḥ
+
+**4.18.23**
+
+bharatas tu mahīpālo vayaṃ tv ādeśavartinaḥ tvaṃ ca dharmād atikrāntaḥ kathaṃ śakyam upekṣitum
+
+**4.18.24**
+
+gurudharmavyatikrāntaṃ prājño dharmeṇa pālayan bharataḥ kāmavṛttānāṃ nigrahe paryavasthitaḥ
+
+**4.18.25**
+
+vayaṃ tu bharatādeśaṃ vidhiṃ kṛtvā harīśvara tvadvidhān bhinnamaryādān niyantuṃ paryavasthitāḥ
+
+**4.18.26**
+
+sugrīveṇa ca me sakhyaṃ lakṣmaṇena yathā tathā dārarājyanimittaṃ ca niḥśreyasi rataḥ sa me
+
+**4.18.27**
+
+pratijñā ca mayā dattā tadā vānarasaṃnidhau pratijñā ca kathaṃ śakyā madvidhenānavekṣitum
+
+**4.18.28**
+
+tad ebhiḥ kāraṇaiḥ sarvair mahadbhir dharmasaṃhitaiḥ śāsanaṃ tava yad yuktaṃ tad bhavān anumanyatām
+
+**4.18.29**
+
+sarvathā dharma ity eva draṣṭavyas tava nigrahaḥ vayasyasyopakartavyaṃ dharmam evānupaśyatā
+
+**4.18.30**
+
+rājabhir dhṛtadaṇḍās tu kṛtvā pāpāni mānavāḥ nirmalāḥ svargam āyānti santaḥ sukṛtino yathā
+
+**4.18.31**
+
+āryeṇa mama māndhātrā vyasanaṃ ghoram īpsitam śramaṇena kṛte pāpe yathā pāpaṃ kṛtaṃ tvayā
+
+**4.18.32**
+
+anyair api kṛtaṃ pāpaṃ pramattair vasudhādhipaiḥ prāyaścittaṃ ca kurvanti tena tac chāmyate rajaḥ
+
+**4.18.33**
+
+tad alaṃ paritāpena dharmataḥ parikalpitaḥ vadho vānaraśārdūla na vayaṃ svavaśe sthitāḥ
+
+**4.18.34**
+
+vāgurābhiś ca pāśaiś ca kūṭaiś ca vividhair narāḥ praticchannāś ca dṛśyāś ca gṛhṇanti subahūn mṛgān pradhāvitān vā vitrastān visrabdhān ativiṣṭhitān
+
+**4.18.35**
+
+pramattān apramattān vā narā māṃsārthino bhṛśam vidhyanti vimukhāṃś cāpi na ca doṣo 'tra vidyate
+
+**4.18.36**
+
+yānti rājarṣayaś cātra mṛgayāṃ dharmakovidāḥ tasmāt tvaṃ nihato yuddhe mayā bāṇena vānara ayudhyan pratiyudhyan vā yasmāc chākhāmṛgo hy asi
+
+**4.18.37**
+
+durlabhasya ca dharmasya jīvitasya śubhasya ca rājāno vānaraśreṣṭha pradātāro na saṃśayaḥ
+
+**4.18.38**
+
+tān na hiṃsyān na cākrośen nākṣipen nāpriyaṃ vadet devā mānuṣarūpeṇa caranty ete mahītale
+
+**4.18.39**
+
+tvaṃ tu dharmam avijñāya kevalaṃ roṣam āsthitaḥ pradūṣayasi māṃ dharme pitṛpaitāmahe sthitam
+
+**4.18.40**
+
+evam uktas tu rāmeṇa vālī pravyathito bhṛśam pratyuvāca tato rāmaṃ prāñjalir vānareśvaraḥ
+
+**4.18.41**
+
+yat tvam āttha naraśreṣṭha tad evaṃ nātra saṃśayaḥ prativaktuṃ prakṛṣṭe hi nāpakṛṣṭas tu śaknuyāt
+
+**4.18.42**
+
+yad ayuktaṃ mayā pūrvaṃ pramādād vākyam apriyam tatrāpi khalu me doṣaṃ kartuṃ nārhasi rāghava
+
+**4.18.43**
+
+tvaṃ hi dṛṣṭārthatattvajñaḥ prajānāṃ ca hite rataḥ kāryakāraṇasiddhau te prasannā buddhir avyayā
+
+**4.18.44**
+
+mām apy avagataṃ dharmād vyatikrāntapuraskṛtam dharmasaṃhitayā vācā dharmajña paripālaya
+
+**4.18.45**
+
+bāṣpasaṃruddhakaṇṭhas tu vālī sārtaravaḥ śanaiḥ uvāca rāmaṃ saṃprekṣya paṅkalagna iva dvipaḥ
+
+**4.18.46**
+
+na tv ātmānam ahaṃ śoce na tārāṃ nāpi bāndhavān yathā putraṃ guṇaśreṣṭham aṅgadaṃ kanakāṅgadam
+
+**4.18.47**
+
+sa mamādarśanād dīno bālyāt prabhṛti lālitaḥ taṭāka iva pītāmbur upaśoṣaṃ gamiṣyati
+
+**4.18.48**
+
+sugrīve cāṅgade caiva vidhatsva matim uttamām tvaṃ hi śāstā ca goptā ca kāryākāryavidhau sthitaḥ
+
+**4.18.49**
+
+yā te narapate vṛttir bharate lakṣmaṇe ca yā sugrīve cāṅgade rājaṃs tāṃ cintayitum arhasi
+
+**4.18.50**
+
+maddoṣakṛtadoṣāṃ tāṃ yathā tārāṃ tapasvinīm sugrīvo nāvamanyeta tathāvasthātum arhasi
+
+**4.18.51**
+
+tvayā hy anugṛhītena śakyaṃ rājyam upāsitum tvadvaśe vartamānena tava cittānuvartinā
+
+**4.18.52**
+
+sa tam āśvāsayad rāmo vālinaṃ vyaktadarśanam
+
+**4.18.53**
+
+na vayaṃ bhavatā cintyā nāpy ātmā harisattama vayaṃ bhavadviśeṣeṇa dharmataḥ kṛtaniścayāḥ
+
+**4.18.54**
+
+daṇḍye yaḥ pātayed daṇḍaṃ daṇḍyo yaś cāpi daṇḍyate kāryakāraṇasiddhārthāv ubhau tau nāvasīdataḥ
+
+**4.18.55**
+
+tad bhavān daṇḍasaṃyogād asmād vigatakalmaṣaḥ gataḥ svāṃ prakṛtiṃ dharmyāṃ dharmadṛṣṭtena vartmanā
+
+**4.18.56**
+
+sa tasya vākyaṃ madhuraṃ mahātmanaḥ samāhitaṃ dharmapathānuvartinaḥ niśamya rāmasya raṇāvamardino vacaḥ suyuktaṃ nijagāda vānaraḥ
+
+**4.18.57**
+
+śarābhitaptena vicetasā mayā pradūṣitas tvaṃ yad ajānatā prabho idaṃ mahendropamabhīmavikrama prasāditas tvaṃ kṣama me mahīśvara
+
+**4.19.1**
+
+sa vānaramahārājaḥ śayānaḥ śaravikṣataḥ pratyukto hetumadvākyair nottaraṃ pratyapadyata
+
+**4.19.2**
+
+aśmabhiḥ paribhinnāṅgaḥ pādapair āhato bhṛśam rāmabāṇena cākrānto jīvitānte mumoha saḥ
+
+**4.19.3**
+
+taṃ bhāryābāṇamokṣeṇa rāmadattena saṃyuge hataṃ plavagaśārdūlaṃ tārā śuśrāva vālinam
+
+**4.19.4**
+
+sā saputrāpriyaṃ śrutvā vadhaṃ bhartuḥ sudāruṇam niṣpapāta bhṛśaṃ trastā vividhād girigahvarāt
+
+**4.19.5**
+
+ye tv aṅgadaparīvārā vānarā hi mahābalāḥ te sakārmukam ālokya rāmaṃ trastāḥ pradudruvuḥ
+
+**4.19.6**
+
+sā dadarśa tatas trastān harīn āpatato drutam yūthād iva paribhraṣṭān mṛgān nihatayūthapān
+
+**4.19.7**
+
+tān uvāca samāsādya duḥkhitān duḥkhitā satī rāma vitrāsitān sarvān anubaddhān iveṣubhiḥ
+
+**4.19.8**
+
+vānarā rājasiṃhasya yasya yūyaṃ puraḥsarāḥ taṃ vihāya suvitrastāḥ kasmād dravata durgatāḥ
+
+**4.19.9**
+
+rājyahetoḥ sa ced bhrātā bhrātā raudreṇa pātitaḥ rāmeṇa prasṛtair dūrān mārgaṇair dūra pātibhiḥ
+
+**4.19.10**
+
+kapipatnyā vacaḥ śrutvā kapayaḥ kāmarūpiṇaḥ prāptakālam aviśliṣṭam ūcur vacanam aṅganām
+
+**4.19.11**
+
+jīva putre nivartasya putraṃ rakṣasva cāndagam antako rāma rūpeṇa hatvā nayati vālinam
+
+**4.19.12**
+
+kṣiptān vṛkṣān samāvidhya vipulāś ca śilās tathā vālī vajrasamair bāṇair vajreṇeva nipātitaḥ
+
+**4.19.13**
+
+abhidrutam idaṃ sarvaṃ vidrutaṃ prasṛtaṃ balam asmin plavagaśārdūle hate śakrasamaprabhe
+
+**4.19.14**
+
+rakṣyatāṃ nagaraṃ śūrair aṅgadaś cābhiṣicyatām padasthaṃ vālinaḥ putraṃ bhajiṣyanti plavaṃgamāḥ
+
+**4.19.15**
+
+atha vā ruciraṃ sthānam iha te rucirānane āviśanti hi durgāṇi kṣipram adyaiva vānarāḥ
+
+**4.19.16**
+
+abhāryāḥ saha bhāryāś ca santy atra vanacāriṇaḥ lubdhebhyo viprayuktebhyaḥ svebhyo nas tumulaṃ bhayam
+
+**4.19.17**
+
+alpāntaragatānāṃ tu śrutvā vacanam aṅganā ātmanaḥ pratirūpaṃ sā babhāṣe cāruhāsinī
+
+**4.19.18**
+
+putreṇa mama kiṃ kāryaṃ kiṃ rājyena kim ātmanā kapisiṃhe mahābhāge tasmin bhartari naśyati
+
+**4.19.19**
+
+pādamūlaṃ gamiṣyāmi tasyaivāhaṃ mahātmanaḥ yo 'sau rāmaprayuktena śareṇa vinipātitaḥ
+
+**4.19.20**
+
+evam uktvā pradudrāva rudatī śokakarśitā śiraś coraś ca bāhubhyāṃ duḥkhena samabhighnatī
+
+**4.19.21**
+
+āvrajantī dadarśātha patiṃ nipatitaṃ bhuvi hantāraṃ dānavendrāṇāṃ samareṣv anivartinām
+
+**4.19.22**
+
+kṣeptāraṃ parvatendrāṇāṃ vajrāṇām iva vāsavam mahāvātasamāviṣṭaṃ mahāmeghaughaniḥsvanam
+
+**4.19.23**
+
+śakratulyaparākrāntaṃ vṛṣṭvevoparataṃ ghanam nardantaṃ nardatāṃ bhīmaṃ śūraṃ śūreṇa pātitam
+
+**4.19.24**
+
+śārdūlenāmiṣasyārthe mṛgarājaṃ yathā hatam arcitaṃ sarvalokasya sapatākaṃ savedikam
+
+**4.19.25**
+
+nāgahetoḥ suparṇena caityam unmathitaṃ yathā avaṣṭabhyāvatiṣṭhantaṃ dadarśa dhanur ūrjitam
+
+**4.19.26**
+
+rāmaṃ rāmānujaṃ caiva bhartuś caivānujaṃ śubhā tān atītya samāsādya bhartāraṃ nihataṃ raṇe
+
+**4.19.27**
+
+samīkṣya vyathitā bhūmau saṃbhrāntā nipapāta ha supteva punar utthāya āryaputreti krośatī
+
+**4.19.28**
+
+ruroda sā patiṃ dṛṣṭvā saṃditaṃ mṛtyudāmabhiḥ tām avekṣya tu sugrīvaḥ krośantīṃ kurarīm iva
+
+**4.19.29**
+
+viṣādam agamat kaṣṭaṃ dṛṣṭvā cāṅgadam āgatam
+
+**4.20.1**
+
+rāmacāpavisṛṣṭena śareṇāntakareṇa tam dṛṣṭvā vinihataṃ bhūmau tārā tārādhipānanā
+
+**4.20.2**
+
+sā samāsādya bhartāraṃ paryaṣvajata bhāminī iṣuṇābhihataṃ dṛṣṭvā vālinaṃ kuñjaropamam
+
+**4.20.3**
+
+vānarendraṃ mahendrābhaṃ śokasaṃtaptamānasā tārā tarum ivonmūlaṃ paryadevayad āturā
+
+**4.20.4**
+
+raṇe dāruṇavikrānta pravīra plavatāṃ vara kiṃ dīnām apurobhāgām adya tvaṃ nābhibhāṣase
+
+**4.20.5**
+
+uttiṣṭha hariśārdūla bhajasva śayanottamam naivaṃvidhāḥ śerate hi bhūmau nṛpatisattamāḥ
+
+**4.20.6**
+
+atīva khalu te kāntā vasudhā vasudhādhipa gatāsur api yāṃ gātrair māṃ vihāya niṣevase
+
+**4.20.7**
+
+vyaktam anyā tvayā vīra dharmataḥ saṃpravartatā kiṣkindheva purī ramyā svargamārge vinirmitā
+
+**4.20.8**
+
+yāny asmābhis tvayā sārdhaṃ vaneṣu madhugandhiṣu vihṛtāni tvayā kāle teṣām uparamaḥ kṛtaḥ
+
+**4.20.9**
+
+nirānandā nirāśāhaṃ nimagnā śokasāgare tvayi pañcatvam āpanne mahāyūthapayūthape
+
+**4.20.10**
+
+hṛdayaṃ susthiraṃ mahyaṃ dṛṣṭvā vinihataṃ bhuvi yan na śokābhisaṃtaptaṃ sphuṭate 'dya sahasradhā
+
+**4.20.11**
+
+sugrīvasya tvayā bhāryā hṛtā sa ca vivāsitaḥ yat tat tasya tvayā vyuṣṭiḥ prāpteyaṃ plavagādhipa
+
+**4.20.12**
+
+niḥśreyasaparā mohāt tvayā cāhaṃ vigarhitā yaiṣābruvaṃ hitaṃ vākyaṃ vānarendrahitaiṣiṇī
+
+**4.20.13**
+
+kālo niḥsaṃśayo nūnaṃ jīvitāntakaras tava balād yenāvapanno 'si sugrīvasyāvaśo vaśam
+
+**4.20.14**
+
+vaidhavyaṃ śokasaṃtāpaṃ kṛpaṇaṃ kṛpaṇā satī aduḥkhopacitā pūrvaṃ vartayiṣyāmy anāthavat
+
+**4.20.15**
+
+lālitaś cāṅgado vīraḥ sukumāraḥ sukhocitaḥ vatsyate kām avasthāṃ me pitṛvye krodhamūrchite
+
+**4.20.16**
+
+kuruṣva pitaraṃ putra sudṛṣṭaṃ dharmavatsalam durlabhaṃ darśanaṃ tv asya tava vatsa bhaviṣyati
+
+**4.20.17**
+
+samāśvāsaya putraṃ tvaṃ saṃdeśaṃ saṃdiśasva ca mūrdhni cainaṃ samāghrāya pravāsaṃ prasthito hy asi
+
+**4.20.18**
+
+rāmeṇa hi mahat karma kṛtaṃ tvām abhinighnatā ānṛṇyaṃ tu gataṃ tasya sugrīvasya pratiśrave
+
+**4.20.19**
+
+sakāmo bhava sugrīva rumāṃ tvaṃ pratipatsyase bhuṅkṣva rājyam anudvignaḥ śasto bhrātā ripus tava
+
+**4.20.20**
+
+kiṃ mām evaṃ vilapatīṃ preṃṇā tvaṃ nābhibhāṣase imāḥ paśya varā bahvīr bhāryās te vānareśvara
+
+**4.20.21**
+
+tasyā vilapitaṃ śrutvā vānaryaḥ sarvataś ca tāḥ parigṛhyāṅgadaṃ dīnaṃ duḥkhārtāḥ paricukruśuḥ
+
+**4.20.22**
+
+kim aṅgadaṃ sāṅgada vīra bāho vihāya yāsy adya cirapravāsaṃ na yuktam evaṃ guṇasaṃnikṛṣṭaṃ vihāya putraṃ priyaputra gantum
+
+**4.20.23**
+
+kim apriyaṃ te priyacāruveṣa kṛtaṃ mayā nātha sutena vā te sahāyinīm adya vihāya vīra yamakṣayaṃ gacchasi durvinītam
+
+**4.20.24**
+
+yady apriyaṃ kiṃ cid asaṃpradhārya kṛtaṃ mayā syāt tava dīrghabāho kṣamasva me tad dharivaṃśa nātha vrajāmi mūrdhnā tava vīra pādau
+
+**4.20.25**
+
+tathā tu tārā karuṇaṃ rudantī bhartuḥ samīpe saha vānarībhiḥ vyavasyata prāyam anindyavarṇā upopaveṣṭuṃ bhuvi yatra vālī
+
+**4.21.1**
+
+tato nipatitāṃ tārāṃ cyutāṃ tārām ivāmbarāt śanair āśvāsayām āsa hanūmān hariyūthapaḥ
+
+**4.21.2**
+
+guṇadoṣakṛtaṃ jantuḥ svakarmaphalahetukam avyagras tad avāpnoti sarvaṃ pretya śubhāśubham
+
+**4.21.3**
+
+śocyā śocasi kaṃ śocyaṃ dīnaṃ dīnānukampase kaś ca kasyānuśocyo 'sti dehe 'smin budbudopame
+
+**4.21.4**
+
+aṅgadas tu kumāro 'yaṃ draṣṭavyo jīvaputrayā āyatyā ca vidheyāni samarthāny asya cintaya
+
+**4.21.5**
+
+jānāsy aniyatām evaṃ bhūtānām āgatiṃ gatim tasmāc chubhaṃ hi kartavyaṃ paṇḍite naihalaukikam
+
+**4.21.6**
+
+yasmin harisahasrāṇi prayutāny arbudāni ca vartayanti kṛtāṃśāni so 'yaṃ diṣṭāntam āgataḥ
+
+**4.21.7**
+
+yad ayaṃ nyāyadṛṣṭārthaḥ sāmadānakṣamāparaḥ gato dharmajitāṃ bhūmiṃ nainaṃ śocitum arhasi
+
+**4.21.8**
+
+sarve ca hariśārdūla putraś cāyaṃ tavāṅgadaḥ haryṛṣkapatirājyaṃ ca tvatsanātham anindite
+
+**4.21.9**
+
+tāv imau śokasaṃtaptau śanaiḥ preraya bhāmini tvayā parigṛhīto 'yam aṅgadaḥ śāstu medinīm
+
+**4.21.10**
+
+saṃtatiś ca yathādṛṣṭā kṛtyaṃ yac cāpi sāmpratam rājñas tat kriyatāṃ sarvam eṣa kālasya niścayaḥ
+
+**4.21.11**
+
+saṃskāryo harirājas tu aṅgadaś cābhiṣicyatām siṃhāsanagataṃ putraṃ paśyantī śāntim eṣyasi
+
+**4.21.12**
+
+sā tasya vacanaṃ śrutvā bhartṛvyasanapīḍitā abravīd uttaraṃ tārā hanūmantam avasthitam
+
+**4.21.13**
+
+aṅgada pratirūpāṇāṃ putrāṇām ekataḥ śatam hatasyāpy asya vīrasya gātrasaṃśleṣaṇaṃ varam
+
+**4.21.14**
+
+na cāhaṃ harirājasya prabhavāmy aṅgadasya vā pitṛvyastasya sugrīvaḥ sarvakāryeṣv anantaraḥ
+
+**4.21.15**
+
+na hy eṣā buddhir āstheyā hanūmann aṅgadaṃ prati pitā hi bandhuḥ putrasya na mātā harisattama
+
+**4.21.16**
+
+na hi mama harirājasaṃśrayāt kṣamataram asti paratra ceha vā abhimukhahatavīrasevitaṃ śayanam idaṃ mama sevituṃ kṣamam
+
+**4.22.1**
+
+vīkṣamāṇas tu mandāsuḥ sarvato mandam ucchvasan ādāv eva tu sugrīvaṃ dadarśa tv ātmajāgrataḥ
+
+**4.22.2**
+
+taṃ prāptavijayaṃ vālī sugrīvaṃ plavageśvaram ābhāṣya vyaktayā vācā sasneham idam abravīt
+
+**4.22.3**
+
+sugrīvadoṣeṇa na māṃ gantum arhasi kilbiṣāt kṛṣyamāṇaṃ bhaviṣyeṇa buddhimohena māṃ balāt
+
+**4.22.4**
+
+yugapadvihitaṃ tāta na manye sukham āvayoḥ sauhārdaṃ bhrātṛyuktaṃ hi tad idaṃ jātam anyathā
+
+**4.22.5**
+
+pratipadya tvam adyaiva rājyam eṣāṃ vanaukasām mām apy adyaiva gacchantaṃ viddhi vaivasvatakṣayam
+
+**4.22.6**
+
+jīvitaṃ ca hi rājyaṃ ca śriyaṃ ca vipulām imām prajahāmy eṣa vai tūrṇaṃ mahac cāgarhitaṃ yaśaḥ
+
+**4.22.7**
+
+asyāṃ tv aham avasthāyāṃ vīra vakṣyāmi yad vacaḥ yady apy asukaraṃ rājan kartum eva tad arhasi
+
+**4.22.8**
+
+sukhārhaṃ sukhasaṃvṛddhaṃ bālam enam abāliśam bāṣpapūrṇamukhaṃ paśya bhūmau patitam aṅgadam
+
+**4.22.9**
+
+mama prāṇaiḥ priyataraṃ putraṃ putram ivaurasaṃ mayā hīnam ahīnārthaṃ sarvataḥ paripālaya
+
+**4.22.10**
+
+tvam apy asya hi dātā ca paritrātā ca sarvataḥ bhayeṣv abhayadaś caiva yathāhaṃ plavageśvara
+
+**4.22.11**
+
+eṣa tārātmajaḥ śrīmāṃs tvayā tulyaparākramaḥ rakṣasāṃ tu vadhe teṣām agratas te bhaviṣyati
+
+**4.22.12**
+
+anurūpāṇi karmāṇi vikramya balavān raṇe kariṣyaty eṣa tāreyas tarasvī taruṇo 'ṅgadaḥ
+
+**4.22.13**
+
+suṣeṇaduhitā ceyam arthasūkṣmaviniścaye autpātike ca vividhe sarvataḥ pariniṣṭhitā
+
+**4.22.14**
+
+yad eṣā sādhv iti brūyāt kāryaṃ tan muktasaṃśayam na hi tārāmataṃ kiṃ cid anyathā parivartate
+
+**4.22.15**
+
+rāghavasya ca te kāryaṃ kartavyam aviśaṅkayā syād adharmo hy akaraṇe tvāṃ ca hiṃsyād vimānitaḥ
+
+**4.22.16**
+
+imāṃ ca mālām ādhatsva divyāṃ sugrīvakāñcanīm udārā śrīḥ sthitā hy asyāṃ saṃprajahyān mṛte mayi
+
+**4.22.17**
+
+ity evam uktaḥ sugrīvo vālinā bhrātṛsauhṛdāt harṣaṃ tyaktvā punar dīno grahagrasta ivoḍurāṭ
+
+**4.22.18**
+
+tad vālivacanāc chāntaḥ kurvan yuktam atandritaḥ jagrāha so 'bhyanujñāto mālāṃ tāṃ caiva kāñcanīm
+
+**4.22.19**
+
+tāṃ mālāṃ kāñcanīṃ dattvā vālī dṛṣṭvātmajaṃ sthitam saṃsiddhaḥ pretya bhāvāya snehād aṅgadam abravīt
+
+**4.22.20**
+
+deśakālau bhajasvādya kṣamamāṇaḥ priyāpriye sukhaduḥkhasahaḥ kāle sugrīvavaśago bhava
+
+**4.22.21**
+
+yathā hi tvaṃ mahābāho lālitaḥ satataṃ mayā na tathā vartamānaṃ tvāṃ sugrīvo bahu maṃsyate
+
+**4.22.22**
+
+māsyāmitrair gataṃ gaccher mā śatrubhir ariṃdama bhartur arthaparo dāntaḥ sugrīvavaśago bhava
+
+**4.22.23**
+
+na cātipraṇayaḥ kāryaḥ kartavyo 'praṇayaś ca te ubhayaṃ hi mahādoṣaṃ tasmād antaradṛg bhava
+
+**4.22.24**
+
+ity uktvātha vivṛttākṣaḥ śarasaṃpīḍito bhṛśam vivṛtair daśanair bhīmair babhūvotkrāntajīvitaḥ
+
+**4.22.25**
+
+hate tu vīre plavagādhipe tadā plavaṃgamās tatra na śarma lebhire vanecarāḥ siṃhayute mahāvane yathā hi gāvo nihate gavāṃ patau
+
+**4.22.26**
+
+tatas tu tārā vyasanārṇava plutā mṛtasyā bhartur vadanaṃ samīkṣya sā jagāma bhūmiṃ parirabhya vālinaṃ mahādrumaṃ chinnam ivāśritā latā
+
+**4.23.1**
+
+tataḥ samupajighrantī kapirājasya tanmukham patiṃ lokāc cyutaṃ tārā mṛtaṃ vacanam abravīt
+
+**4.23.2**
+
+śeṣe tvaṃ viṣame duḥkham akṛtvā vacanaṃ mama upalopacite vīra suduḥkhe vasudhātale
+
+**4.23.3**
+
+mattaḥ priyatarā nūnaṃ vānarendra mahī tava śeṣe hi tāṃ pariṣvajya māṃ ca na pratibhāṣase
+
+**4.23.4**
+
+sugrīva eva vikrānto vīra sāhasika priya ṛkṣavānaramukhyās tvāṃ balinaṃ paryupāsate
+
+**4.23.5**
+
+eṣāṃ vilapitaṃ kṛcchram aṅgadasya ca śocataḥ mama cemāṃ giraṃ śrutvā kiṃ tvaṃ na pratibudhyase
+
+**4.23.6**
+
+idaṃ tac chūraśayanaṃ yatra śeṣe hato yudhi śāyitā nihatā yatra tvayaiva ripavaḥ purā
+
+**4.23.7**
+
+viśuddhasattvābhijana priyayuddha mama priya mām anāthāṃ vihāyaikāṃ gatas tvam asi mānada
+
+**4.23.8**
+
+śūrāya na pradātavyā kanyā khalu vipaścitā śūrabhāryāṃ hatāṃ paśya sadyo māṃ vidhavāṃ kṛtām
+
+**4.23.9**
+
+avabhagnaś ca me māno bhagnā me śāśvatī gatiḥ agādhe ca nimagnāsmi vipule śokasāgare
+
+**4.23.10**
+
+aśmasāramayaṃ nūnam idaṃ me hṛdayaṃ dṛḍham bhartāraṃ nihataṃ dṛṣṭvā yan nādya śatadhā gatam
+
+**4.23.11**
+
+suhṛc caiva hi bhartā ca prakṛtyā ca mama priyaḥ āhave ca parākrāntaḥ śūraḥ pañcatvam āgataḥ
+
+**4.23.12**
+
+patihīnā tu yā nārī kāmaṃ bhavatu putriṇī dhanadhānyaiḥ supūrṇāpi vidhavety ucyate budhaiḥ
+
+**4.23.13**
+
+svagātraprabhave vīra śeṣe rudhiramaṇḍale kṛmirāgaparistome tvam evaṃ śayane yathā
+
+**4.23.14**
+
+reṇuśoṇitasaṃvītaṃ gātraṃ tava samantataḥ parirabdhuṃ na śaknomi bhujābhyāṃ plavagarṣabha
+
+**4.23.15**
+
+kṛtakṛtyo 'dya sugrīvo vaire 'sminn atidāruṇe yasya rāmavimuktena hṛtam ekeṣuṇā bhayam
+
+**4.23.16**
+
+śareṇa hṛdi lagnena gātrasaṃsparśane tava vāryāmi tvāṃ nirīkṣantī tvayi pañcatvam āgate
+
+**4.23.17**
+
+udbabarha śaraṃ nīlas tasya gātragataṃ tadā girigahvarasaṃlīnaṃ dīptam āśīviṣaṃ yathā
+
+**4.23.18**
+
+tasya niṣkṛṣyamāṇasya bāṇasya ca babhau dyutiḥ astamastakasaṃruddho raśmir dinakarād iva
+
+**4.23.19**
+
+petuḥ kṣatajadhārās tu vraṇebhyas tasya sarvaśaḥ tāmragairikasaṃpṛktā dhārā iva dharādharāt
+
+**4.23.20**
+
+avakīrṇaṃ vimārjantī bhartāraṃ raṇareṇunā asrair nayanajaiḥ śūraṃ siṣecāstrasamāhatam
+
+**4.23.21**
+
+rudhirokṣitasarvāṅgaṃ dṛṣṭvā vinihataṃ patim uvāca tārā piṅgākṣaṃ putram aṅgadam aṅganā
+
+**4.23.22**
+
+avasthāṃ paścimāṃ paśya pituḥ putra sudāruṇām saṃprasaktasya vairasya gato 'ntaḥ pāpakarmaṇā
+
+**4.23.23**
+
+bālasūryodayatanuṃ prayāntaṃ yamasādanam abhivādaya rājānaṃ pitaraṃ putra mānadam
+
+**4.23.24**
+
+evam uktaḥ samutthāya jagrāha caraṇau pituḥ bhujābhyāṃ pīnavṛtābhyām aṅgado 'ham iti bruvan
+
+**4.23.25**
+
+abhivādayamānaṃ tvām aṅgadaṃ tvaṃ yathāpurā dīrghāyur bhava putreti kimarthaṃ nābhibhāṣase
+
+**4.23.26**
+
+ahaṃ putrasahāyā tvām upāse gatacetanam siṃhena nihataṃ sadyo gauḥ savatseva govṛṣam
+
+**4.23.27**
+
+iṣṭvā saṃgrāmayajñena nānāpraharaṇāmbhasā asminn avabhṛthe snātaḥ kathaṃ patnyā mayā vinā
+
+**4.23.28**
+
+yā dattā devarājena tava tuṣṭena saṃyuge śātakumbhamayīṃ mālāṃ tāṃ te paśyāmi neha kim
+
+**4.23.29**
+
+rājaśrīr na jahāti tvāṃ gatāsum api mānada sūryasyāvartamānasya śailarājam iva prabhā
+
+**4.23.30**
+
+na me vacaḥ pathyam idaṃ tvayā kṛtaṃ na cāsmi śaktā hi nivāraṇe tava hatā saputrāsmi hatena saṃyuge saha tvayā śrīr vijahāti mām iha
+
+**4.24.1**
+
+gatāsuṃ vālinaṃ dṛṣṭvā rāghavas tadanantaram abravīt praśritaṃ vākyaṃ sugrīvaṃ śatrutāpanaḥ
+
+**4.24.2**
+
+na śokaparitāpena śreyasā yujyate mṛtaḥ yad atrānantaraṃ kāryaṃ tat samādhātum arhatha
+
+**4.24.3**
+
+lokavṛttam anuṣṭheyaṃ kṛtaṃ vo bāṣpamokṣaṇam na kālād uttaraṃ kiṃ cit karma śakyam upāsitum
+
+**4.24.4**
+
+niyataḥ kāraṇaṃ loke niyatiḥ karmasādhanam niyatiḥ sarvabhūtānāṃ niyogeṣv iha kāraṇam
+
+**4.24.5**
+
+na kartā kasya cit kaś cin niyoge cāpi neśvaraḥ svabhāve vartate lokas tasya kālaḥ parāyaṇam
+
+**4.24.6**
+
+na kālaḥ kālam atyeti na kālaḥ parihīyate svabhāvaṃ vā samāsādya na kaś cid ativartate
+
+**4.24.7**
+
+na kālasyāsti bandhutvaṃ na hetur na parākramaḥ na mitrajñātisaṃbandhaḥ kāraṇaṃ nātmano vaśaḥ
+
+**4.24.8**
+
+kiṃ tu kāla parīṇāmo draṣṭavyaḥ sādhu paśyatā dharmaś cārthaś ca kāmaś ca kālakramasamāhitāḥ
+
+**4.24.9**
+
+itaḥ svāṃ prakṛtiṃ vālī gataḥ prāptaḥ kriyāphalam dharmārthakāmasaṃyogaiḥ pavitraṃ plavageśvara
+
+**4.24.10**
+
+svadharmasya ca saṃyogāj jitas tena mahātmanā svargaḥ parigṛhītaś ca prāṇān aparirakṣatā
+
+**4.24.11**
+
+eṣā vai niyatiḥ śreṣṭhā yāṃ gato hariyūthapaḥ tad alaṃ paritāpena prāptakālam upāsyatām
+
+**4.24.12**
+
+vacanānte tu rāmasya lakṣmaṇaḥ paravīrahā avadat praśritaṃ vākyaṃ sugrīvaṃ gatacetasaṃ
+
+**4.24.13**
+
+kuru tvam asya sugrīva pretakāryam anantaram tārāṅgadābhyāṃ sahito vālino dahanaṃ prati
+
+**4.24.14**
+
+samājñāpaya kāṣṭhāni śuṣkāṇi ca bahūni ca candanāni ca divyāni vālisaṃskārakāraṇāt
+
+**4.24.15**
+
+samāśvāsaya cainaṃ tvam aṅgadaṃ dīnacetasaṃ mā bhūr bāliśabuddhis tvaṃ tvadadhīnam idaṃ puram
+
+**4.24.16**
+
+aṅgadas tv ānayen mālyaṃ vastrāṇi vividhāni ca ghṛtaṃ tailam atho gandhān yac cātra samanantaram
+
+**4.24.17**
+
+tvaṃ tāra śibikāṃ śīghram ādāyāgaccha saṃbhramāt tvarā guṇavatī yuktā hy asmin kāle viśeṣataḥ
+
+**4.24.18**
+
+sajjībhavantu plavagāḥ śibikāvāhanocitāḥ samarthā balinaś caiva nirhariṣyanti vālinam
+
+**4.24.19**
+
+evam uktvā tu sugrīvaṃ sumitrānandavardhanaḥ tasthau bhrātṛsamīpastho lakṣmaṇaḥ paravīrahā
+
+**4.24.20**
+
+lakṣmaṇasya vacaḥ śrutvā tāraḥ saṃbhrāntamānasaḥ praviveśa guhāṃ śīghraṃ śibikāsaktamānasaḥ
+
+**4.24.21**
+
+ādāya śibikāṃ tāraḥ sa tu paryāpayat punaḥ vānarair uhyamānāṃ tāṃ śūrair udvahanocitaiḥ
+
+**4.24.22**
+
+tato vālinam udyamya sugrīvaḥ śibikāṃ tadā āropayata vikrośann aṅgadena sahaiva tu
+
+**4.24.23**
+
+āropya śibikāṃ caiva vālinaṃ gatajīvitam alaṃkāraiś ca vividhair mālyair vastraiś ca bhūṣitam
+
+**4.24.24**
+
+ājñāpayat tadā rājā sugrīvaḥ plavageśvaraḥ aurdhvadehikam āryasya kriyatām anurūpataḥ
+
+**4.24.25**
+
+viśrāṇayanto ratnāni vividhāni bahūni ca agrataḥ plavagā yāntu śibikā tadanantaram
+
+**4.24.26**
+
+rājñām ṛddhiviśeṣā hi dṛśyante bhuvi yādṛśāḥ tādṛśaṃ vālinaḥ kṣipraṃ prākurvann aurdhvadehikam
+
+**4.24.27**
+
+aṅgadam aprigṛhyāśu tāraprabhṛtayas tathā krośantaḥ prayayuḥ sarve vānarā hatabāndhavāḥ
+
+**4.24.28**
+
+tārāprabhṛtayaḥ sarvā vānaryo hatayūthapāḥ anujagmur hi bhartāraṃ krośantyaḥ karuṇasvanāḥ
+
+**4.24.29**
+
+tāsāṃ ruditaśabdena vānarīṇāṃ vanāntare vanāni girayaś ca sarve vikrośantīva sarvataḥ
+
+**4.24.30**
+
+puline girinadyās tu vivikte jalasaṃvṛte citāṃ cakruḥ subahavo vānarā vanacāriṇaḥ
+
+**4.24.31**
+
+avaropya tataḥ skandhāc chibikāṃ vahanocitāḥ tasthur ekāntam āśritya sarve śokasamanvitāḥ
+
+**4.24.32**
+
+tatas tārā patiṃ dṛṣṭvā śibikātalaśāyinam āropyāṅke śiras tasya vilalāpa suduḥkhitā
+
+**4.24.33**
+
+janaṃ ca paśyasīmaṃ tvaṃ kasmāc chokābhipīḍitam prahṛṣṭam iva te vaktraṃ gatāsor api mānada astārkasamavarṇaṃ ca lakṣyate jīvato yathā
+
+**4.24.34**
+
+eṣa tvāṃ rāmarūpeṇa kālaḥ karṣati vānara yena sma vidhavāḥ sarvāḥ kṛtā ekeṣuṇā raṇe
+
+**4.24.35**
+
+imās tās tava rājendravānaryo vallabhāḥ sadā pādair vikṛṣṭam adhvānam āgatāḥ kiṃ na budhyase
+
+**4.24.36**
+
+taveṣṭā nanu nāmaitā bhāryāś candranibhānanāḥ idānīṃ nekṣase kasmāt sugrīvaṃ plavageśvaram
+
+**4.24.37**
+
+ete hi sacivā rājaṃs tāraprabhṛtayas tava puravāsijanaś cāyaṃ parivāryāsate 'nagha
+
+**4.24.38**
+
+visarjayainān pravalān yathocitam ariṃdama tataḥ krīḍāmahe sarvā vaneṣu madirotkaṭāḥ
+
+**4.24.39**
+
+evaṃ vilapatīṃ tārāṃ patiśokapariplutām utthāpayanti sma tadā vānaryaḥ śokakarśitāḥ
+
+**4.24.40**
+
+sugrīveṇa tataḥ sārdham aṅgadaḥ pitaraṃ rudan citām āropayām āsa śokenābhihatendriyaḥ
+
+**4.24.41**
+
+tato 'gniṃ vidhivad dattvā so 'pasavyaṃ cakāra ha pitaraṃ dīrgham adhvānaṃ prasthitaṃ vyākulendriyaḥ
+
+**4.24.42**
+
+saṃskṛtya vālinaṃ te tu vidhipūrvaṃ plavaṃgamāḥ ājagmur udakaṃ kartuṃ nadīṃ śītajalāṃ śubhām
+
+**4.24.43**
+
+tatas te sahitās tatra aṅgadaṃ sthāpya cāgrataḥ sugrīvatārāsahitāḥ siṣicur vāline jalam
+
+**4.24.44**
+
+sugrīveṇaiva dīnena dīno bhūtvā mahābalaḥ samānaśokaḥ kākutsthaḥ pretakāryāṇy akārayat
+
+**4.25.1**
+
+tataḥ śokābhisaṃtaptaṃ sugrīvaṃ klinnavāsanam śākhāmṛgamahāmātrāḥ parivāryopatasthire
+
+**4.25.2**
+
+abhigamya mahābāhuṃ rāmam akliṣṭakāriṇam sthitāḥ prāñjalayaḥ sarve pitāmaham ivarṣayaḥ
+
+**4.25.3**
+
+tataḥ kāñcanaśailābhas taruṇārkanibhānanaḥ abravīt prāñjalir vākyaṃ hanumān mārutātmajaḥ
+
+**4.25.4**
+
+bhavatprasādāt sugrīvaḥ pitṛpaitāmahaṃ mahat vānarāṇāṃ suduṣprāpaṃ prāpto rājyam idaṃ prabho
+
+**4.25.5**
+
+bhavatā samanujñātaḥ praviśya nagaraṃ śubham saṃvidhāsyati kāryāṇi sarvāṇi sasuhṛjjanaḥ
+
+**4.25.6**
+
+snāto 'yaṃ vividhair gandhair auṣadhaiś ca yathāvidhi arcayiṣyati ratnaiś ca mālyaiś ca tvāṃ viśeṣataḥ
+
+**4.25.7**
+
+imāṃ giriguhāṃ ramyām abhigantum ito 'rhasi kuruṣva svāmi saṃbandhaṃ vānarān saṃpraharṣayan
+
+**4.25.8**
+
+evam ukto hanumatā rāghavaḥ paravīrahā pratyuvāca hanūmantaṃ buddhimān vākyakovidaḥ
+
+**4.25.9**
+
+caturdaśasamāḥ saumya grāmaṃ vā yadi vā puram na pravekṣyāmi hanuman pitur nirdeśapālakaḥ
+
+**4.25.10**
+
+susamṛddhāṃ guhāṃ divyāṃ sugrīvo vānararṣabhaḥ praviṣṭo vidhivad vīraḥ kṣipraṃ rājye 'bhiṣicyatām
+
+**4.25.11**
+
+evam uktvā hanūmantaṃ rāmaḥ sugrīvam abravīt imam apy aṅgadaṃ vīra yauvarājye 'bhiṣecaya
+
+**4.25.12**
+
+pūrvo 'yaṃ vārṣiko māsaḥ śrāvaṇaḥ salilāgamaḥ pravṛttāḥ saumya catvāro māsā vārṣikasaṃjñitāḥ
+
+**4.25.13**
+
+nāyam udyogasamayaḥ praviśa tvaṃ purīṃ śubhām asmin vatsyāmy ahaṃ saumya parvate sahalakṣmaṇaḥ
+
+**4.25.14**
+
+iyaṃ giriguhā ramyā viśālā yuktamārutā prabhūtasalilā saumya prabhūtakamalotpalā
+
+**4.25.15**
+
+kārtike samanuprāpte tvaṃ rāvaṇavadhe yata eṣa naḥ samayaḥ saumya praviśa tvaṃ svam ālayam abhiṣiñcasva rājye ca suhṛdaḥ saṃpraharṣaya
+
+**4.25.16**
+
+iti rāmābhyanujñātaḥ sugrīvo vānararṣabhaḥ praviveśa purīṃ ramyāṃ kiṣkindhāṃ vālipālitām
+
+**4.25.17**
+
+taṃ vānarasahasrāṇi praviṣṭaṃ vānareśvaram abhivādya prahṛṣṭāni sarvataḥ paryavārayan
+
+**4.25.18**
+
+tataḥ prakṛtayaḥ sarvā dṛṣṭvā harigaṇeśvaram praṇamya mūrdhnā patitā vasudhāyāṃ samāhitāḥ
+
+**4.25.19**
+
+sugrīvaḥ prakṛtīḥ sarvāḥ saṃbhāṣyotthāpya vīryavān bhrātur antaḥpuraṃ saumyaṃ praviveśa mahābalaḥ
+
+**4.25.20**
+
+praviśya tv abhiniṣkrāntaṃ sugrīvaṃ vānararṣabham abhyaṣiñcanta suhṛdaḥ sahasrākṣam ivāmarāḥ
+
+**4.25.21**
+
+tasya pāṇḍuram ājahruś chatraṃ hemapariṣkṛtam śukle ca bālavyajane hemadaṇḍe yaśaskare
+
+**4.25.22**
+
+tathā sarvāṇi ratnāni sarvabījauṣadhāni ca sakṣīrāṇāṃ ca vṛkṣāṇāṃ prarohān kusumāni ca
+
+**4.25.23**
+
+śuklāni caiva vastrāṇi śvetaṃ caivānulepanam sugandhīni ca mālyāni sthalajāny ambujāni ca
+
+**4.25.24**
+
+candanāni ca divyāni gandhāṃś ca vividhān bahūn akṣataṃ jātarūpaṃ ca priyaṅgumadhusarpiṣī
+
+**4.25.25**
+
+dadhicarma ca vaiyāghraṃ vārāhī cāpy upānahau samālambhanam ādāya rocanāṃ samanaḥśilām ājagmus tatra muditā varāḥ kanyās tu ṣoḍaśa
+
+**4.25.26**
+
+tatas te vānaraśreṣṭhaṃ yathākālaṃ yathāvidhi ratnair vastraiś ca bhakṣyaiś ca toṣayitvā dvijarṣabhān
+
+**4.25.27**
+
+tataḥ kuśaparistīrṇaṃ samiddhaṃ jātavedasaṃ mantrapūtena haviṣā hutvā mantravido janāḥ
+
+**4.25.28**
+
+tato hemapratiṣṭhāne varāstaraṇasaṃvṛte prāsādaśikhare ramye citramālyopaśobhite
+
+**4.25.29**
+
+prāṅmukhaṃ vividhair mantraiḥ sthāpayitvā varāsane nadīnadebhyaḥ saṃhṛtya tīrthebhyaś ca samantataḥ
+
+**4.25.30**
+
+āhṛtya ca samudrebhyaḥ sarvebhyo vānararṣabhāḥ apaḥ kanakakumbheṣu nidhāya vimalāḥ śubhāḥ
+
+**4.25.31**
+
+śubhair vṛṣabhaśṛṅgaiś ca kalaśaiś cāpi kāñcanaiḥ śāstradṛṣṭena vidhinā maharṣivihitena ca
+
+**4.25.32**
+
+gajo gavākṣo gavayaḥ śarabho gandhamādanaḥ maindaś ca dvividaś caiva hanūmāñ jāmbavān nalaḥ
+
+**4.25.33**
+
+abhyaṣiñcanta sugrīvaṃ prasannena sugandhinā salilena sahasrākṣaṃ vasavo vāsavaṃ yathā
+
+**4.25.34**
+
+abhiṣikte tu sugrīve sarve vānarapuṃgavāḥ pracukruśur mahātmāno hṛṣṭās tatra sahasraśaḥ
+
+**4.25.35**
+
+rāmasya tu vacaḥ kurvan sugrīvo haripuṃgavaḥ aṅgadaṃ saṃpariṣvajya yauvarājye 'bhiṣecayat
+
+**4.25.36**
+
+aṅgade cābhiṣikte tu sānukrośāḥ plavaṃgamāḥ sādhu sādhv iti sugrīvaṃ mahātmāno 'bhyapūjayan
+
+**4.25.37**
+
+hṛṣṭapuṣṭajanākīrṇā patākādhvajaśobhitā babhūva nagarī ramyā kṣikindhā girigahvare
+
+**4.25.38**
+
+nivedya rāmāya tadā mahātmane mahābhiṣekaṃ kapivāhinīpatiḥ rumāṃ ca bhāryāṃ pratilabhya vīryavān avāpa rājyaṃ tridaśādhipo yathā
+
+**4.26.1**
+
+abhiṣikte tu sugrīve praviṣṭe vānare guhām ājagāma saha bhrātrā rāmaḥ prasravaṇaṃ girim
+
+**4.26.2**
+
+śārdūlamṛgasaṃghuṣṭaṃ siṃhair bhīmaravair vṛtam nānāgulmalatāgūḍhaṃ bahupādapasaṃkulam
+
+**4.26.3**
+
+ṛkṣavānaragopucchair mārjāraiś ca niṣevitam megharāśinibhaṃ śailaṃ nityaṃ śucijalāśrayam
+
+**4.26.4**
+
+tasya śailasya śikhare mahatīm āyatāṃ guhām pratyagṛhṇata vāsārthaṃ rāmaḥ saumitriṇā saha
+
+**4.26.5**
+
+avasat tatra dharmātmā rāghavaḥ sahalakṣmaṇaḥ bahudṛśyadarīkuñje tasmin prasravaṇe girau
+
+**4.26.6**
+
+susukhe 'pi bahudravye tasmin hi dharaṇīdhare vasatas tasya rāmasya ratir alpāpi nābhavat hṛtāṃ hi bhāryāṃ smarataḥ prāṇebhyo 'pi garīyasīm
+
+**4.26.7**
+
+udayābhyuditaṃ dṛṣṭvā śaśāṅkaṃ ca viśeṣataḥ āviveśa na taṃ nidrā niśāsu śayanaṃ gatam
+
+**4.26.8**
+
+tat samutthena śokena bāṣpopahatacetasaṃ taṃ śocamānaṃ kākutsthaṃ nityaṃ śokaparāyaṇam tulyaduḥkho 'bravīd bhrātā lakṣmaṇo 'nunayan vacaḥ
+
+**4.26.9**
+
+alaṃ vīra vyathāṃ gatvā na tvaṃ śocitum arhasi śocato hy avasīdanti sarvārthā viditaṃ hi te
+
+**4.26.10**
+
+bhavān kriyāparo loke bhavān devaparāyaṇaḥ āstiko dharmaśīlaś ca vyavasāyī ca rāghava
+
+**4.26.11**
+
+na hy avyavasitaḥ śatruṃ rākṣasaṃ taṃ viśeṣataḥ samarthas tvaṃ raṇe hantuṃ vikramair jihmakāriṇam
+
+**4.26.12**
+
+samunmūlaya śokaṃ tvaṃ vyavasāyaṃ sthiraṃ kuru tataḥ saparivāraṃ taṃ nirmūlaṃ kuru rākṣasaṃ
+
+**4.26.13**
+
+pṛthivīm api kākutstha sasāgaravanācalām parivartayituṃ śaktaḥ kim aṅga puna rāvaṇam
+
+**4.26.14**
+
+ahaṃ tu khalu te vīryaṃ prasuptaṃ pratibodhaye dīptair āhutibhiḥ kāle bhasmac channam ivānalam
+
+**4.26.15**
+
+lakṣmaṇasya tu tad vākyaṃ pratipūjya hitaṃ śubham rāghavaḥ suhṛdaṃ snigdham idaṃ vacanam abravīt
+
+**4.26.16**
+
+vācyaṃ yad anuraktena snigdhena ca hitena ca satyavikrama yuktena tad uktaṃ lakṣmaṇa tvayā
+
+**4.26.17**
+
+eṣa śokaḥ parityaktaḥ sarvakāryāvasādakaḥ vikrameṣv apratihataṃ tejaḥ protsāhayāmy aham
+
+**4.26.18**
+
+śaratkālaṃ pratīkṣe 'ham iyaṃ prāvṛḍ upasthitā tataḥ sarāṣṭraṃ sagaṇaṃ rākṣasaṃ taṃ nihanmy aham
+
+**4.26.19**
+
+tasya tad vacanaṃ śrutvā hṛṣṭo rāmasya lakṣmaṇaḥ punar evābravīd vākyaṃ saumitrir mitranandanaḥ
+
+**4.26.20**
+
+etat te sadṛśaṃ vākyam uktaṃ śatrunibarhaṇa idānīm asi kākutstha prakṛtiṃ svām upāgataḥ
+
+**4.26.21**
+
+vijñāya hy ātmano vīryaṃ tathyaṃ bhavitum arhasi etat sadṛśam uktaṃ te śrutasyābhijanasya ca
+
+**4.26.22**
+
+tasmāt puruṣaśārdūla cintayañ śatrunigraham varṣārātram anuprāptam atikrāmaya rāghava
+
+**4.26.23**
+
+niyamya kopaṃ pratipālyatāṃ śarat kṣamasva māsāṃś caturo mayā saha vasācale 'smin mṛgarājasevite saṃvardhayañ śatruvadhe samudyataḥ
+
+**4.27.1**
+
+sa tadā vālinaṃ hatvā sugrīvam abhiṣicya ca vasan mālyavataḥ pṛṣṭhe rāmo lakṣmaṇam abravīt
+
+**4.27.2**
+
+ayaṃ sa kālaḥ saṃprāptaḥ samayo 'dya jalāgamaḥ saṃpaśya tvaṃ nabho meghaiḥ saṃvṛtaṃ girisaṃnibhaiḥ
+
+**4.27.3**
+
+nava māsa dhṛtaṃ garbhaṃ bhāskārasya gabhastibhiḥ pītvā rasaṃ samudrāṇāṃ dyauḥ prasūte rasāyanam
+
+**4.27.4**
+
+śakyam ambaram āruhya meghasopānapaṅktibhiḥ kuṭajārjunamālābhir alaṃkartuṃ divākaram
+
+**4.27.5**
+
+saṃdhyārāgotthitais tāmrair anteṣv adhikapāṇḍuraiḥ snigdhair abhrapaṭacchadair baddhavraṇam ivāmbaram
+
+**4.27.6**
+
+mandamārutaniḥśvāsaṃ saṃdhyācandanarañjitam āpāṇḍujaladaṃ bhāti kāmāturam ivāmbaram
+
+**4.27.7**
+
+eṣā dharmaparikliṣṭā navavāripariplutā sīteva śokasaṃtaptā mahī bāṣpaṃ vimuñcati
+
+**4.27.8**
+
+meghodaravinirmuktāḥ kahlārasukhaśītalāḥ śakyam añjalibhiḥ pātuṃ vātāḥ ketakigandhinaḥ
+
+**4.27.9**
+
+eṣa phullārjunaḥ śailaḥ ketakair adhivāsitaḥ sugrīva iva śāntārir dhārābhir abhiṣicyate
+
+**4.27.10**
+
+meghakṛṣṇājinadharā dhārāyajñopavītinaḥ mārutāpūritaguhāḥ prādhītā iva parvatāḥ
+
+**4.27.11**
+
+kaśābhir iva haimībhiḥ vidyudbhir iva tāḍitam antaḥstanitanirghoṣaṃ savedanam ivāmbaram
+
+**4.27.12**
+
+nīlameghāśritā vidyut sphurantī pratibhāti me sphurantī rāvaṇasyāṅke vaidehīva tapasvinī
+
+**4.27.13**
+
+imās tā manmathavatāṃ hitāḥ pratihatā diśaḥ anuliptā iva ghanair naṣṭagrahaniśākarāḥ
+
+**4.27.14**
+
+kva cid bāṣpābhisaṃruddhān varṣāgamasamutsukān kuṭajān paśya saumitre puṣṭitān girisānuṣu mama śokābhibhūtasya kāmasaṃdīpanān sthitān
+
+**4.27.15**
+
+rajaḥ praśāntaṃ sahimo 'dya vāyur nidāghadoṣaprasarāḥ praśāntāḥ sthitā hi yātrā vasudhādhipānāṃ pravāsino yānti narāḥ svadeśān
+
+**4.27.16**
+
+saṃprasthitā mānasavāsalubdhāḥ priyānvitāḥ saṃprati cakravākaḥ abhīkṣṇavarṣodakavikṣateṣu yānāni mārgeṣu na saṃpatanti
+
+**4.27.17**
+
+kva cit prakāśaṃ kva cid aprakāśaṃ nabhaḥ prakīrṇāmbudharaṃ vibhāti kva cit kva cit parvatasaṃniruddhaṃ rūpaṃ yathā śāntamahārṇavasya
+
+**4.27.18**
+
+vyāmiśritaṃ sarjakadambapuṣpair navaṃ jalaṃ parvatadhātutāmram mayūrakekābhir anuprayātaṃ śailāpagāḥ śīghrataraṃ vahanti
+
+**4.27.19**
+
+rasākulaṃ ṣaṭpadasaṃnikāśaṃ prabhujyate jambuphalaṃ prakāmam anekavarṣaṃ pavanāvadhūtaṃ bhūmau pataty āmraphalaṃ vipakvam
+
+**4.27.20**
+
+vidyutpatākābhir alaṃkṛtānām udīrṇagambhīramahāravāṇām vibhānti rūpāṇi balāhakānāṃ raṇodyatānām iva vāraṇānām
+
+**4.27.21**
+
+meghābhikāmī parisaṃpatantī saṃmoditā bhāti balākapaṅktiḥ vātāvadhūtā varapauṇḍarīkī lambeva mālā racitāmbarasya
+
+**4.27.22**
+
+nidrā śanaiḥ keśavam abhyupaiti drutaṃ nadī sāgaram abhyupaiti hṛṣṭā balākā ghanam abhyupaiti kāntā sakāmā priyam abhyupaiti
+
+**4.27.23**
+
+jātā vanāntāḥ śikhisupranṛttā jātāḥ kadambāḥ sakadambaśākhāḥ jātā vṛṣā goṣu samānakāmā jātā mahī sasyavanābhirāmā
+
+**4.27.24**
+
+vahanti varṣanti nadanti bhānti dhyāyanti nṛtyanti samāśvasanti nadyo ghanā mattagajā vanāntāḥ priyāvinīhāḥ śikhinaḥ plavaṃgāḥ
+
+**4.27.25**
+
+praharṣitāḥ ketakapuṣpagandham āghrāya hṛṣṭā vananirjhareṣu prapāta śabdākulitā gajendrāḥ sārdhaṃ mayūraiḥ samadā nadanti
+
+**4.27.26**
+
+dhārānipātair abhihanyamānāḥ kadambaśākhāsu vilambamānāḥ kṣaṇārjitaṃ puṣparasāvagāḍhaṃ śanair madaṃ ṣaṭcaraṇās tyajanti
+
+**4.27.27**
+
+aṅgāracūrṇotkarasaṃnikāśaiḥ phalaiḥ suparyāpta rasaiḥ samṛddhaiḥ jambūdrumāṇāṃ pravibhānti śākhā nilīyamānā iva ṣaṭpadaughaiḥ
+
+**4.27.28**
+
+taḍitpatākābhir alaṃkṛtānām udīrṇagambhīramahāravāṇām vibhānti rūpāṇi balāhakānāṃ raṇodyatānām iva vāraṇānām
+
+**4.27.29**
+
+mārgānugaḥ śailavanānusārī saṃprasthito megharavaṃ niśamya yuddhābhikāmaḥ pratināgaśaṅkī matto gajendraḥ pratisaṃnivṛttaḥ
+
+**4.27.30**
+
+muktāsakāśaṃ salilaṃ patad vai sunirmalaṃ patrapuṭeṣu lagnam hṛṣṭā vivarṇacchadanā vihaṃgāḥ surendradattaṃ tṛṣitāḥ pibanti
+
+**4.27.31**
+
+nīleṣu nīlā navavāripūrṇā megheṣu meghāḥ pravibhānti saktāḥ davāgnidagdheṣu davāgnidagdhāḥ śaileṣu śailā iva baddhamūlāḥ
+
+**4.27.32**
+
+mattā gajendrā muditā gavendrā vaneṣu viśrāntatarā mṛgendrāḥ ramyā nagendrā nibhṛtā nagendrāḥ prakrīḍito vāridharaiḥ surendraḥ
+
+**4.27.33**
+
+vṛttā yātrā narendrāṇāṃ senā pratinivartate vairāṇi caiva mārgāś ca salilena samīkṛtāḥ
+
+**4.27.34**
+
+māsi prauṣṭhapade brahma brāhmaṇānāṃ vivakṣatām ayam adhyāyasamayaḥ sāmagānām upasthitaḥ
+
+**4.27.35**
+
+nivṛttakarmāyatano nūnaṃ saṃcitasaṃcayaḥ āṣāḍhīm abhyupagato bharataḥ koṣakādhipaḥ
+
+**4.27.36**
+
+nūnam āpūryamāṇāyāḥ sarayvā vadhate rayaḥ māṃ samīkṣya samāyāntam ayodhyāyā iva svanaḥ
+
+**4.27.37**
+
+imāḥ sphītaguṇā varṣāḥ sugrīvaḥ sukham aśnute vijitāriḥ sadāraś ca rājye mahati ca sthitaḥ
+
+**4.27.38**
+
+ahaṃ tu hṛtadāraś ca rājyāc ca mahataś cyutaḥ nadīkūlam iva klinnam avasīdāmi lakṣmaṇa
+
+**4.27.39**
+
+śokaś ca mama vistīrṇo varṣāś ca bhṛśadurgamāḥ rāvaṇaś ca mahāñ śatrur apāraṃ pratibhāti me
+
+**4.27.40**
+
+ayātrāṃ caiva dṛṣṭvemāṃ mārgāṃś ca bhṛśadurgamān praṇate caiva sugrīve na mayā kiṃ cid īritam
+
+**4.27.41**
+
+api cātiparikliṣṭaṃ cirād dāraiḥ samāgatam ātmakāryagarīyastvād vaktuṃ necchāmi vānaram
+
+**4.27.42**
+
+svayam eva hi viśramya jñātvā kālam upāgatam upakāraṃ ca sugrīvo vetsyate nātra saṃśayaḥ
+
+**4.27.43**
+
+tasmāt kālapratīkṣo 'haṃ sthito 'smi śubhalakṣaṇa sugrīvasya nadīnāṃ ca prasādam anupālayan
+
+**4.27.44**
+
+upakāreṇa vīro hi pratikāreṇa yujyate akṛtajño 'pratikṛto hanti sattvavatāṃ manaḥ
+
+**4.27.45**
+
+athaivam uktaḥ praṇidhāya lakṣmaṇaḥ kṛtāñjalis tat pratipūjya bhāṣitam uvāca rāmaṃ svabhirāma darśanaṃ pradarśayan darśanam ātmanaḥ śubham
+
+**4.27.46**
+
+yathoktam etat tava sarvam īpsitaṃ narendra kartā nacirād dharīśvaraḥ śaratpratīkṣaḥ kṣamatām imaṃ bhavāñ jalaprapātaṃ ripunigrahe dhṛtaḥ
+
+**4.28.1**
+
+samīkṣya vimalaṃ vyoma gatavidyudbalāhakam sārasāravasaṃghuṣṭaṃ ramyajyotsnānulepanam
+
+**4.28.2**
+
+samṛddhārthaṃ ca sugrīvaṃ mandadharmārthasaṃgraham atyartham asatāṃ mārgam ekāntagatamānasaṃ
+
+**4.28.3**
+
+nivṛttakāryaṃ siddhārthaṃ pramadābhirataṃ sadā prāptavantam abhipretān sarvān eva manorathān
+
+**4.28.4**
+
+svāṃ ca pātnīm abhipretāṃ tārāṃ cāpi samīpsitām viharantam ahorātraṃ kṛtārthaṃ vigatajvalam
+
+**4.28.5**
+
+krīḍantam iva deveśaṃ nandane 'psarasāṃ gaṇaiḥ mantriṣu nyastakāryaṃ ca mantriṇām anavekṣakam
+
+**4.28.6**
+
+utsannarājyasaṃdeśaṃ kāmavṛttam avasthitam niścitārtho 'rthatattvajñaḥ kāladharmaviśeṣavit
+
+**4.28.7**
+
+prasādya vākyair madhurair hetumadbhir manoramaiḥ vākyavid vākyatattvajñaṃ harīśaṃ mārutātmajaḥ
+
+**4.28.8**
+
+hitaṃ tathyaṃ ca pathyaṃ ca sāmadharmārthanītimat praṇayaprītisaṃyuktaṃ viśvāsakṛtaniścayam harīśvaram upāgamya hanumān vākyam abravīt
+
+**4.28.9**
+
+rājyaṃ prāptaṃ yaśaś caiva kaulī śrīr abhivarthitā mitrāṇāṃ saṃgrahaḥ śeṣas tad bhavān kartum arhati
+
+**4.28.10**
+
+yo hi mitreṣu kālajñaḥ satataṃ sādhu vartate tasya rājyaṃ ca kīrtiś ca pratāpaś cābhivardhate
+
+**4.28.11**
+
+yasya kośaś ca daṇḍaś ca mitrāṇy ātmā ca bhūmipa samavetāni sarvāṇi sa rājyaṃ mahad aśnute
+
+**4.28.12**
+
+tad bhavān vṛttasaṃpannaḥ sthitaḥ pathi niratyaye mitrārtham abhinītārthaṃ yathāvat kartum arhati
+
+**4.28.13**
+
+yas tu kālavyatīteṣu mitrakāryeṣu vartate sa kṛtvā mahato 'py arthān na mitrārthena yujyate
+
+**4.28.14**
+
+kriyatāṃ rāghavasyaitad vaidehyāḥ parimārgaṇam tad idaṃ vīra kāryaṃ te kālātītam ariṃdama
+
+**4.28.15**
+
+na ca kālam atītaṃ te nivedayati kālavit tvaramāṇo 'pi san prājñas tava rājan vaśānugaḥ
+
+**4.28.16**
+
+kulasya ketuḥ sphītasya dīrghabandhuś ca rāghavaḥ aprameyaprabhāvaś ca svayaṃ cāpratimo guṇaiḥ
+
+**4.28.17**
+
+tasya tvaṃ kuru vai kāryaṃ pūrvaṃ tena kṛtaṃ tava harīśvara hariśreṣṭhān ājñāpayitum arhati
+
+**4.28.18**
+
+na hi tāvad bhavet kālo vyatītaś codanād ṛte coditasya hi kāryasya bhavet kālavyatikramaḥ
+
+**4.28.19**
+
+akartur api kāryasya bhavān kartā harīśvara kiṃ punaḥ pratikartus te rājyena ca dhanena ca
+
+**4.28.20**
+
+śaktimān asi vikrānto vānararṣka gaṇeśvara kartuṃ dāśaratheḥ prītim ājñāyāṃ kiṃ nu sajjase
+
+**4.28.21**
+
+kāmaṃ khalu śarair śaktaḥ surāsuramahoragān vaśe dāśarathiḥ kartuṃ tvatpratijñāṃ tu kāṅkṣate
+
+**4.28.22**
+
+prāṇatyāgāviśaṅkena kṛtaṃ tena tava priyam tasya mārgāma vaidehīṃ pṛthivyām api cāmbare
+
+**4.28.23**
+
+na devā na ca gandharvā nāsurā na marudgaṇāḥ na ca yakṣā bhayaṃ tasya kuryuḥ kim uta rākṣasāḥ
+
+**4.28.24**
+
+tad evaṃ śaktiyuktasya pūrvaṃ priyakṛtas tathā rāmasyārhasi piṅgeśa kartuṃ sarvātmanā priyam
+
+**4.28.25**
+
+nādhastād avanau nāpsu gatir nopari cāmbare kasya cit sajjate 'smākaṃ kapīśvara tavājñayā
+
+**4.28.26**
+
+tad ājñāpaya kaḥ kiṃ te kṛte vasatu kutra cit harayo hy apradhṛṣyās te santi koṭyagrato 'nagha
+
+**4.28.27**
+
+tasya tad vacanaṃ śrutvā kāle sādhuniveditam sugrīvaḥ sattvasaṃpannaś cakāra matim uttamām
+
+**4.28.28**
+
+sa saṃdideśābhimataṃ nīlaṃ nityakṛtodyamam dikṣu sarvāsu sarveṣāṃ sainyānām upasaṃgrahe
+
+**4.28.29**
+
+yathā senā samagrā me yūthapālāś ca sarvaśaḥ samāgacchanty asaṃgena senāgrāṇi tathā kuru
+
+**4.28.30**
+
+ye tv antapālāḥ plavagāḥ śīghragā vyavasāyinaḥ samānayantu te sainyaṃ tvaritāḥ śāsanān mama svayaṃ cānantaraṃ sainyaṃ bhavān evānupaśyatu
+
+**4.28.31**
+
+tripañcarātrād ūrdhvaṃ yaḥ prāpnuyān neha vānaraḥ tasya prāṇāntiko daṇḍo nātra kāryā vicāraṇā
+
+**4.28.32**
+
+harīṃś ca vṛddhān upayātu sāṅgado bhavān mamājñām adhikṛtya niścitām iti vyavasthāṃ haripuṃgaveśvaro vidhāya veśma praviveśa vīryavān
+
+**4.29.1**
+
+guhāṃ praviṣṭe sugrīve vimukte gagane ghanaiḥ varṣarātroṣito rāmaḥ kāmaśokābhipīḍitaḥ
+
+**4.29.2**
+
+pāṇḍuraṃ gaganaṃ dṛṣṭvā vimalaṃ candramaṇḍalam śāradīṃ rajanīṃ caiva dṛṣṭvā jyotsnānulepanām
+
+**4.29.3**
+
+kāmavṛttaṃ ca sugrīvaṃ naṣṭāṃ ca janakātmajām buddhvā kālam atītaṃ ca mumoha paramāturaḥ
+
+**4.29.4**
+
+sa tu saṃjñām upāgamya muhūrtān matimān punaḥ manaḥsthām api vaidehīṃ cintayām āsa rāghavaḥ
+
+**4.29.5**
+
+āsīnaḥ parvatasyāgre hemadhātuvibhūṣite śāradaṃ gaganaṃ dṛṣṭva jagāma manasā priyām
+
+**4.29.6**
+
+dṛṣṭvā ca vimalaṃ vyoma gatavidyudbalāhakam sārasāravasaṃghuṣṭaṃ vilalāpārtayā girā
+
+**4.29.7**
+
+sārasāravasaṃnādaiḥ sārasāravanādinī yāśrame ramate bālā sādya me ramate katham
+
+**4.29.8**
+
+puṣpitāṃś cāsanān dṛṣṭvā kāñcanān iva nirmalān kathaṃ sa ramate bālā paśyantī mām apaśyatī
+
+**4.29.9**
+
+yā purā kalahaṃsānāṃ svareṇa kalabhāṣiṇī budhyate cārusarvāṅgī sādya me budhyate katham
+
+**4.29.10**
+
+niḥsvanaṃ cakravākānāṃ niśamya sahacāriṇām puṇḍarīkaviśālākṣī katham eṣā bhaviṣyati
+
+**4.29.11**
+
+sarāṃsi sarito vāpīḥ kānanāni vanāni ca tāṃ vinā mṛgaśāvākṣīṃ caran nādya sukhaṃ labhe
+
+**4.29.12**
+
+api tāṃ madviyogāc ca saukumāryāc ca bhāminīm na dūraṃ pīḍayet kāmaḥ śaradguṇanirantaraḥ
+
+**4.29.13**
+
+evamādi naraśreṣṭho vilalāpa nṛpātmajaḥ vihaṃga iva sāraṅgaḥ salilaṃ tridaśeśvarāt
+
+**4.29.14**
+
+tataś cañcūrya ramyeṣu phalārthī girisānuṣu dadarśa paryupāvṛtto lakṣmīvāṃl lakṣmaṇo 'grajam
+
+**4.29.15**
+
+taṃ cintayā duḥsahayā parītaṃ visaṃjñam ekaṃ vijane manasvī bhrātur viṣādāt paritāpadīnaḥ samīkṣya saumitrir uvāca rāmam
+
+**4.29.16**
+
+kim ārya kāmasya vaśaṃgatena kim ātmapauruṣyaparābhavena ayaṃ sadā saṃhṛiyate samādhiḥ kim atra yogena nivartitena
+
+**4.29.17**
+
+kriyābhiyogaṃ manasaḥ prasādaṃ samādhiyogānugataṃ ca kālam sahāyasāmarthyam adīnasattva svakarmahetuṃ ca kuruṣva hetum
+
+**4.29.18**
+
+na jānakī mānavavaṃśanātha tvayā sanāthā sulabhā pareṇa na cāgnicūḍāṃ jvalitām upetya na dahyate vīravarārha kaś cit
+
+**4.29.19**
+
+salakṣmaṇaṃ lakṣmaṇam apradhṛṣyaṃ svabhāvajaṃ vākyam uvāca rāmaḥ hitaṃ ca pathyaṃ ca nayaprasaktaṃ sasāmadharmārthasamāhitaṃ ca
+
+**4.29.20**
+
+niḥsaṃśayaṃ kāryam avekṣitavyaṃ kriyāviśeṣo hy anuvartitavyaḥ nanu pravṛttasya durāsadasya kumārakāryasya phalaṃ na cintyam
+
+**4.29.21**
+
+atha padmapalāśākṣīṃ maithilīm anucintayan uvāca lakṣmaṇaṃ rāmo mukhena pariśuṣyatā
+
+**4.29.22**
+
+tarpayitvā sahasrākṣaḥ salilena vasuṃdharām nirvartayitvā sasyāni kṛtakarmā vyavasthitaḥ
+
+**4.29.23**
+
+snigdhagambhīranirghoṣāḥ śailadrumapurogamāḥ visṛjya salilaṃ meghāḥ pariśrāntā nṛpātmaja
+
+**4.29.24**
+
+nīlotpaladalaśyāmaḥ śyāmīkṛtvā diśo daśa vimadā iva mātaṅgāḥ śāntavegāḥ payodharāḥ
+
+**4.29.25**
+
+jalagarbhā mahāvegāḥ kuṭajārjunagandhinaḥ caritvā viratāḥ saumya vṛṣṭivātāḥ samudyatāḥ
+
+**4.29.26**
+
+ghanānāṃ vāraṇānāṃ ca mayūrāṇāṃ ca lakṣmaṇa nādaḥ prasravaṇānāṃ ca praśāntaḥ sahasānagha
+
+**4.29.27**
+
+abhivṛṣṭā mahāmeghair nirmalāś citrasānavaḥ anuliptā ivābhānti girayaś candraraśmibhiḥ
+
+**4.29.28**
+
+darśayanti śarannadyaḥ pulināni śanaiḥ śanaiḥ navasaṃgamasavrīḍā jaghanānīva yoṣitaḥ
+
+**4.29.29**
+
+prasannasalilāḥ saumya kurarībhir vināditāḥ cakravākagaṇākīrṇā vibhānti salilāśayāḥ
+
+**4.29.30**
+
+anyonyabaddhavairāṇāṃ jigīṣūṇāṃ nṛpātmaja udyogasamayaḥ saumya pārthivānām upasthitaḥ
+
+**4.29.31**
+
+iyaṃ sā prathamā yātrā pārthivānāṃ nṛpātmaja na ca paśyāmi sugrīvam udyogaṃ vā tathāvidham
+
+**4.29.32**
+
+catvāro vārṣikā māsā gatā varṣaśatopamāḥ mama śokābhitaptasya saumya sītām apaśyataḥ
+
+**4.29.33**
+
+priyāvihīne duḥkhārte hṛtarājye vivāsite kṛpāṃ na kurute rājā sugrīvo mayi lakṣmaṇa
+
+**4.29.34**
+
+anātho hṛtarājyo 'yaṃ rāvaṇena ca dharṣitaḥ dīno dūragṛhaḥ kāmī māṃ caiva śaraṇaṃ gataḥ
+
+**4.29.35**
+
+ity etaiḥ kāraṇaiḥ saumya sugrīvasya durātmanaḥ ahaṃ vānararājasya paribhūtaḥ paraṃtapa
+
+**4.29.36**
+
+sa kālaṃ parisaṃkhyāya sītāyāḥ parimārgaṇe kṛtārthaḥ samayaṃ kṛtvā durmatir nāvabudhyate
+
+**4.29.37**
+
+tvaṃ praviśya ca kiṣkindhāṃ brūhi vānarapuṃgavam mūrkhaṃ grāmya sukhe saktaṃ sugrīvaṃ vacanān mama
+
+**4.29.38**
+
+arthinām upapannānāṃ pūrvaṃ cāpy upakāriṇām āśāṃ saṃśrutya yo hanti sa loke puruṣādhamaḥ
+
+**4.29.39**
+
+śubhaṃ vā yadi vā pāpaṃ yo hi vākyam udīritam satyena parigṛhṇāti sa vīraḥ sa puruṣottamaḥ
+
+**4.29.40**
+
+kṛtārthā hy akṛtārthānāṃ mitrāṇāṃ na bhavanti ye tān mṛtān api kravyādaḥ kṛtaghnān nopabhuñjate
+
+**4.29.41**
+
+nūnaṃ kāñcanapṛṣṭhasya vikṛṣṭasya mayā raṇe draṣṭum icchanti cāpasya rūpaṃ vidyudgaṇopamam
+
+**4.29.42**
+
+ghoraṃ jyātalanirghoṣaṃ kruddhasya mama saṃyuge nirghoṣam iva vajrasya punaḥ saṃśrotum icchati
+
+**4.29.43**
+
+kāmam evaṃgate 'py asya parijñāte parākrame tvatsahāyasya me vīra na cintā syān nṛpātmaja
+
+**4.29.44**
+
+yadartham ayam ārambhaḥ kṛtaḥ parapuraṃjaya samayaṃ nābhijānāti kṛtārthaḥ plavageśvaraḥ
+
+**4.29.45**
+
+varṣāsamayakālaṃ tu pratijñāya harīśvaraḥ vyatītāṃś caturo māsān viharan nāvabudhyate
+
+**4.29.46**
+
+sāmātyapariṣat krīḍan pānam evopasevate śokadīneṣu nāsmāsu sugrīvaḥ kurute dayām
+
+**4.29.47**
+
+ucyatāṃ gaccha sugrīvas tvayā vatsa mahābala mama roṣasya yadrūpaṃ brūyāś cainam idaṃ vacaḥ
+
+**4.29.48**
+
+na ca saṃkucitaḥ panthā yena vālī hato gataḥ samaye tiṣṭha sugrīvamā vālipatham anvagāḥ
+
+**4.29.49**
+
+eka eva raṇe vālī śareṇa nihato mayā tvāṃ tu satyād atikrāntaṃ haniṣyāmi sabāndhavam
+
+**4.29.50**
+
+tad evaṃ vihite kārye yad dhitaṃ puruṣarṣabha tat tad brūhi naraśreṣṭha tvara kālavyatikramaḥ
+
+**4.29.51**
+
+kuruṣva satyaṃ mayi vānareśvara pratiśrutaṃ dharmam avekṣya śāśvatam mā vālinaṃ pretya gato yamakṣayaṃ tvam adya paśyer mama coditaiḥ śaraiḥ
+
+**4.29.52**
+
+sa pūrvajaṃ tīvravivṛddhakopaṃ lālapyamānaṃ prasamīkṣya dīnam cakāra tīvrāṃ matim ugratejā harīśvaramānavavaṃśanāthaḥ
+
+**4.30.1**
+
+sa kāminaṃ dīnam adīnasattvaḥ śokābhipannaṃ samudīrṇakopam narendrasūnur naradevaputraṃ rāmānujaḥ pūrvajam ity uvāca
+
+**4.30.2**
+
+na vānaraḥ sthāsyati sādhuvṛtte na maṃsyate kāryaphalānuṣaṅgān na bhakṣyate vānararājyalakṣmīṃ tathā hi nābhikramate 'sya buddhiḥ
+
+**4.30.3**
+
+matikṣayād grāmyasukheṣu saktas tava prasādāpratikārabuddhiḥ hato 'grajaṃ paśyatu vālinaṃ sa na rājyam evaṃ viguṇasya deyam
+
+**4.30.4**
+
+na dhāraye kopam udīrṇavegaṃ nihanmi sugrīvam asatyam adya haripravīraiḥ saha vāliputro narendrapatnyā vicayaṃ karotu
+
+**4.30.5**
+
+tam āttabāṇāsanam utpatantaṃ niveditārthaṃ raṇacaṇḍakopam uvaca rāmaḥ paravīrahantā svavekṣitaṃ sānunayaṃ ca vākyam
+
+**4.30.6**
+
+na hi vai tvadvidho loke pāpam evaṃ samācaret pāpam āryeṇa yo hanti sa vīraḥ puruṣottamaḥ
+
+**4.30.7**
+
+nedam adya tvayā grāhyaṃ sādhuvṛttena lakṣmaṇa tāṃ prītim anuvartasva pūrvavṛttaṃ ca saṃgatam
+
+**4.30.8**
+
+sāmopahitayā vācā rūkṣāṇi parivarjayan vaktum arhasi sugrīvaṃ vyatītaṃ kālaparyaye
+
+**4.30.9**
+
+so' grajenānuśiṣṭārtho yathāvat puruṣarṣabhaḥ praviveśa purīṃ vīro lakṣmaṇaḥ paravīrahā
+
+**4.30.10**
+
+tataḥ śubhamatiḥ prājño bhrātuḥ priyahite rataḥ lakṣmaṇaḥ pratisaṃrabdho jagāma bhavanaṃ kapeḥ
+
+**4.30.11**
+
+śakrabāṇāsanaprakhyaṃ dhanuḥ kālāntakopamaḥ pragṛhya giriśṛṅgābhaṃ mandaraḥ sānumān iva
+
+**4.30.12**
+
+yathoktakārī vacanam uttaraṃ caiva sottaram bṛhaspatisamo buddhyā mattvā rāmānujas tadā
+
+**4.30.13**
+
+kāmakrodhasamutthena bhrātuḥ kopāgninā vṛtaḥ prabhañjana ivāprītaḥ prayayau lakṣmaṇas tadā
+
+**4.30.14**
+
+sālatālāśvakarṇāṃś ca tarasā pātayan bahūn paryasyan girikūṭāni drumān anyāṃś ca vegataḥ
+
+**4.30.15**
+
+śilāś ca śakalīkurvan padbhyāṃ gaja ivāśugaḥ dūram ekapadaṃ tyaktvā yayau kāryavaśād drutam
+
+**4.30.16**
+
+tām apaśyad balākīrṇāṃ harirājamahāpurīm durgām ikṣvākuśārdūlaḥ kiṣkindhāṃ girisaṃkaṭe
+
+**4.30.17**
+
+roṣāt prasphuramāṇauṣṭhaḥ sugrīvaṃ prati lakṣmaṇaḥ dadarśa vānarān bhīmān kiṣkindhāyā bahiścarān
+
+**4.30.18**
+
+śailaśṛṅgāṇi śataśaḥ pravṛddhāṃś ca mahīruhān jagṛhuḥ kuñjaraprakhyā vānarāḥ parvatāntare
+
+**4.30.19**
+
+tān gṛhītapraharaṇān harīn dṛṣṭvā tu lakṣmaṇaḥ babhūva dviguṇaṃ kruddho bahvindhana ivānalaḥ
+
+**4.30.20**
+
+taṃ te bhayaparītāṅgāḥ kruddhaṃ dṛṣṭvā plavaṃgamāḥ kālamṛtyuyugāntābhaṃ śataśo vidrutā diśaḥ
+
+**4.30.21**
+
+tataḥ sugrīvabhavanaṃ praviśya haripuṃgavāḥ krodham āgamanaṃ caiva lakṣmaṇasya nyavedayan
+
+**4.30.22**
+
+tārayā sahitaḥ kāmī saktaḥ kapivṛṣo rahaḥ na teṣāṃ kapivīrāṇāṃ śuśrāva vacanaṃ tadā
+
+**4.30.23**
+
+tataḥ sacivasaṃdiṣṭā harayo romaharṣaṇāḥ girikuñjarameghābhā nagaryā niryayus tadā
+
+**4.30.24**
+
+nakhadaṃṣṭrāyudhā ghorāḥ sarve vikṛtadarśanāḥ sarve śārdūladarpāś ca sarve ca vikṛtānanāḥ
+
+**4.30.25**
+
+daśanāgabalāḥ ke cit ke cid daśaguṇottarāḥ ke cin nāgasahasrasya babhūvus tulyavikramāḥ
+
+**4.30.26**
+
+kṛtsnāṃ hi kapibhir vyāptāṃ drumahastair mahābalaiḥ apaśyal lakṣmaṇaḥ kruddhaḥ kiṣkindhāṃ tāṃ durāsadam
+
+**4.30.27**
+
+tatas te harayaḥ sarve prākāraparikhāntarāt niṣkramyodagrasattvās tu tasthur āviṣkṛtaṃ tadā
+
+**4.30.28**
+
+sugrīvasya pramādaṃ ca pūrvajaṃ cārtam ātmavān buddhvā kopavaśaṃ vīraḥ punar eva jagāma saḥ
+
+**4.30.29**
+
+sa dīrghoṣṇamahocchvāsaḥ kopasaṃraktalocanaḥ babhūva naraśārdūlasadhūma iva pāvakaḥ
+
+**4.30.30**
+
+bāṇaśalyasphurajjihvaḥ sāyakāsanabhogavān svatejoviṣasaṃghātaḥ pañcāsya iva pannagaḥ
+
+**4.30.31**
+
+taṃ dīptam iva kālāgniṃ nāgendram iva kopitam samāsādyāṅgadas trāsād viṣādam agamad bhṛśam
+
+**4.30.32**
+
+so 'ṅgadaṃ roṣatāmrākṣaḥ saṃdideśa mahāyaśāḥ sugrīvaḥ kathyatāṃ vatsa mamāgamanam ity uta
+
+**4.30.33**
+
+eṣa rāmānujaḥ prāptas tvatsakāśam ariṃdamaḥ bhrātur vyasanasaṃtapto dvāri tiṣṭhati lakṣmaṇaḥ
+
+**4.30.34**
+
+lakṣmaṇasya vacaḥ śrutvā śokāviṣṭo 'ṅgado 'bravīt pituḥ samīpam āgamya saumitrir ayam āgataḥ
+
+**4.30.35**
+
+te mahaughanibhaṃ dṛṣṭvā vajrāśanisamasvanam siṃhanādaṃ samaṃ cakrur lakṣmaṇasya samīpataḥ
+
+**4.30.36**
+
+tena śabdena mahatā pratyabudhyata vānaraḥ madavihvalatāmrākṣo vyākulasragvibhūṣaṇaḥ
+
+**4.30.37**
+
+athāṅgadavacaḥ śrutvā tenaiva ca samāgatau mantriṇo vānarendrasya saṃmatodāradarśinau
+
+**4.30.38**
+
+plakṣaś caiva prabhāvaś ca mantriṇāv arthadharmayoḥ vaktum uccāvacaṃ prāptaṃ lakṣmaṇaṃ tau śaśaṃsatuḥ
+
+**4.30.39**
+
+prasādayitvā sugrīvaṃ vacanaiḥ sāmaniścitaiḥ āsīnaṃ paryupāsīnau yathā śakraṃ marutpatim
+
+**4.30.40**
+
+satyasaṃdhau mahābhāgau bhrātarau rāmalakṣmaṇau vayasya bhāvaṃ saṃprāptau rājyārhau rājyadāyinau
+
+**4.30.41**
+
+tayor eko dhanuṣpāṇir dvāri tiṣṭhati lakṣmaṇaḥ yasya bhītāḥ pravepante nādān muñcanti vānarāḥ
+
+**4.30.42**
+
+sa eṣa rāghavabhrātā lakṣmaṇo vākyasārathiḥ vyavasāya rathaḥ prāptas tasya rāmasya śāsanāt
+
+**4.30.43**
+
+tasya mūrdhnā praṇamya tvaṃ saputraḥ saha bandhubhiḥ rājans tiṣṭha svasamaye bhava satyapratiśravaḥ
+
+**4.31.1**
+
+aṅgadasya vacaḥ śrutvā sugrīvaḥ sacivaiḥ saha lakṣmaṇaṃ kupitaṃ śrutvā mumocāsanam ātmavān
+
+**4.31.2**
+
+sacivān abravīd vākyaṃ niścitya gurulāghavam mantrajñān mantrakuśalo mantreṣu pariniṣṭhitaḥ
+
+**4.31.3**
+
+na me durvyāhṛtaṃ kiṃ cin nāpi me duranuṣṭhitam lakṣmaṇo rāghavabhrātā kruddhaḥ kim iti cintaye
+
+**4.31.4**
+
+asuhṛdbhir mamāmitrair nityam antaradarśibhiḥ mama doṣān asaṃbhūtāñ śrāvito rāghavānujaḥ
+
+**4.31.5**
+
+atra tāvad yathābuddhi sarvair eva yathāvidhi bhavadbhir niścayas tasya vijñeyo nipuṇaṃ śanaiḥ
+
+**4.31.6**
+
+na khalv asti mama trāso lakṣmaṇān nāpi rāghavāt mitraṃ tv asthāna kupitaṃ janayaty eva saṃbhramam
+
+**4.31.7**
+
+sarvathā sukaraṃ mitraṃ duṣkaraṃ paripālanam anityatvāt tu cittānāṃ prītir alpe 'pi bhidyate
+
+**4.31.8**
+
+atonimittaṃ trasto 'haṃ rāmeṇa tu mahātmanā yan mamopakṛtaṃ śakyaṃ pratikartuṃ na tan mayā
+
+**4.31.9**
+
+sugrīveṇaivam uktas tu hanumān haripuṃgavaḥ uvāca svena tarkeṇa madhye vānaramantriṇām
+
+**4.31.10**
+
+sarvathā naitad āścaryaṃ yat tvaṃ harigaṇeśvara na vismarasi susnigdham upakārakṛtaṃ śubham
+
+**4.31.11**
+
+rāghaveṇa tu śūreṇa bhayam utsṛjya dūrataḥ tvatpriyārthaṃ hato vālī śakratulyaparākramaḥ
+
+**4.31.12**
+
+sarvathā praṇayāt kruddho rāghavo nātra saṃśayaḥ bhrātaraṃ sa prahitavāṃl lakṣmaṇaṃ lakṣmivardhanam
+
+**4.31.13**
+
+tvaṃ pramatto na jānīṣe kālaṃ kalavidāṃ vara phullasaptacchadaśyāmā pravṛttā tu śarac chivā
+
+**4.31.14**
+
+nirmala grahanakṣatrā dyauḥ pranaṣṭabalāhakā prasannāś ca diśaḥ sarvāḥ saritaś ca sarāṃsi ca
+
+**4.31.15**
+
+prāptam udyogakālaṃ tu nāvaiṣi haripuṃgava tvaṃ pramatta iti vyaktaṃ lakṣmaṇo 'yam ihāgataḥ
+
+**4.31.16**
+
+ārtasya hṛtadārasya paruṣaṃ puruṣāntarāt vacanaṃ marṣaṇīyaṃ te rāghavasya mahātmanaḥ
+
+**4.31.17**
+
+kṛtāparādhasya hi te nānyat paśyāmy ahaṃ kṣamam antareṇāñjaliṃ baddhvā lakṣmaṇasya prasādanāt
+
+**4.31.18**
+
+niyuktair mantribhir vācyo avaśyaṃ pārthivo hitam ata eva bhayaṃ tyaktvā bravīmy avadhṛtaṃ vacaḥ
+
+**4.31.19**
+
+abhikruddhaḥ samartho hi cāpam udyamya rāghavaḥ sadevāsuragandharvaṃ vaśe sthāpayituṃ jagat
+
+**4.31.20**
+
+na sa kṣamaḥ kopayituṃ yaḥ prasādya punar bhavet pūrvopakāraṃ smaratā kṛtajñena viśeṣataḥ
+
+**4.31.21**
+
+tasya mūrdhnā praṇamya tvaṃ saputraḥ sasuhṛjjanaḥ rājaṃs tiṣṭha svasamaye bhartur bhāryeva tadvaśe
+
+**4.31.22**
+
+na rāmarāmānujaśāsanaṃ tvayā kapīndrayuktaṃ manasāpy apohitum mano hi te jñāsyati mānuṣaṃ balaṃ sarāghavasyāsya surendravarcasaḥ
+
+**4.32.1**
+
+atha pratisamādiṣṭo lakṣmaṇaḥ paravīrahā praviveśa guhāṃ ghorāṃ kiṣkindhāṃ rāmaśāsanāt
+
+**4.32.2**
+
+dvārasthā harayas tatra mahākāyā mahābalāḥ babhūvur lakṣmaṇaṃ dṛṣṭvā sarve prāñjalayaḥ sthitāḥ
+
+**4.32.3**
+
+niḥśvasantaṃ tu taṃ dṛṣṭvā kruddhaṃ daśarathātmajam babhūvur harayas trastā na cainaṃ paryavārayan
+
+**4.32.4**
+
+sa taṃ ratnamayīṃ śrīmān divyāṃ puṣpitakānanām ramyāṃ ratnasamākīrṇāṃ dadarśa mahatīṃ guhām
+
+**4.32.5**
+
+harmyaprāsādasaṃbādhāṃ nānāpaṇyopaśobhitām sarvakāmaphalair vṛkṣaiḥ puṣpitair upaśobhitām
+
+**4.32.6**
+
+devagandharvaputraiś ca vānaraiḥ kāmarūpibhiḥ divya mālyāmbaradhāraiḥ śobhitāṃ priyadarśanaiḥ
+
+**4.32.7**
+
+candanāgarupadmānāṃ gandhaiḥ surabhigandhinām maireyāṇāṃ madhūnāṃ ca saṃmoditamahāpathām
+
+**4.32.8**
+
+vindhyamerugiriprasthaiḥ prāsādair naikabhūmibhiḥ dadarśa girinadyaś ca vimalās tatra rāghavaḥ
+
+**4.32.9**
+
+aṅgadasya gṛhaṃ ramyaṃ maindasya dvividasya ca gavayasya gavākṣasya gajasya śarabhasya ca
+
+**4.32.10**
+
+vidyunmāleś ca saṃpāteḥ sūryākṣasya hanūmataḥ vīrabāhoḥ subāhoś ca nalasya ca mahātmanaḥ
+
+**4.32.11**
+
+kumudasya suṣeṇasya tārajāmbavatos tathā dadhivaktrasya nīlasya supāṭalasunetrayoḥ
+
+**4.32.12**
+
+eteṣāṃ kapimukhyānāṃ rājamārge mahātmanām dadarśa gṛhamukhyāni mahāsārāṇi lakṣmaṇaḥ
+
+**4.32.13**
+
+pāṇḍurābhraprakāśāni divyamālyayutāni ca prabhūtadhanadhānyāni strīratnaiḥ śobhitāni ca
+
+**4.32.14**
+
+pāṇḍureṇa tu śailena parikṣiptaṃ durāsadam vānarendragṛhaṃ ramyaṃ mahendrasadanopamam
+
+**4.32.15**
+
+śulkaiḥ prāsādaśikharaiḥ kailāsaśikharopamaiḥ sarvakāmaphalair vṛkṣaiḥ puṣṭitair upaśobhitam
+
+**4.32.16**
+
+mahendradattaiḥ śrīmadbhir nīlajīmūtasaṃnibhaiḥ divyapuṣpaphalair vṛkṣaiḥ śītacchāyair manoramaiḥ
+
+**4.32.17**
+
+haribhiḥ saṃvṛtadvāraṃ balibhiḥ śastrapāṇibhiḥ divyamālyāvṛtaṃ śubhraṃ taptakāñcanatoraṇam
+
+**4.32.18**
+
+sugrīvasya gṛhaṃ ramyaṃ praviveśa mahābalaḥ avāryamāṇaḥ saumitrir mahābhram iva bhāskaraḥ
+
+**4.32.19**
+
+sa sapta kakṣyā dharmātmā yānāsanasamāvṛtāḥ praviśya sumahad guptaṃ dadarśāntaḥpuraṃ mahat
+
+**4.32.20**
+
+haimarājataparyaṅkair bahubhiś ca varāsanaiḥ mahārhāstaraṇopetais tatra tatropaśobhitam
+
+**4.32.21**
+
+praviśann eva satataṃ śuśrāva madhurasvaram tantrīgītasamākīrṇaṃ samagītapadākṣaram
+
+**4.32.22**
+
+bahvīś ca vividhākārā rūpayauvanagarvitāḥ striyaḥ sugrīvabhavane dadarśa sa mahābalaḥ
+
+**4.32.23**
+
+dṛṣṭvābhijanasaṃpannāś citramālyakṛtasrajaḥ varamālyakṛtavyagrā bhūṣaṇottamabhūṣitāḥ
+
+**4.32.24**
+
+nātṛptān nāti ca vyagrān nānudāttaparicchadān sugrīvānucarāṃś cāpi lakṣayām āsa lakṣmaṇaḥ
+
+**4.32.25**
+
+tataḥ sugrīvam āsīnaṃ kāñcane paramāsane mahārhāstaraṇopete dadarśādityasaṃnibham
+
+**4.32.26**
+
+divyābharaṇacitrāṅgaṃ divyarūpaṃ yaśasvinam divyamālyāmbaradharaṃ mahendram iva durjayam divyābharaṇamālyābhiḥ pramadābhiḥ samāvṛtam
+
+**4.32.27**
+
+rumāṃ tu vīraḥ parirabhya gāḍhaṃ varāsanastho varahemavarṇaḥ dadarśa saumitrim adīnasattvaṃ viśālanetraḥ suviśālanetram
+
+**4.33.1**
+
+tam apratihataṃ kruddhaṃ praviṣṭaṃ puruṣarṣabham sugrīvo lakṣmaṇaṃ dṛṣṭvā babhūva vyathitendriyaḥ
+
+**4.33.2**
+
+kruddhaṃ niḥśvasamānaṃ taṃ pradīptam iva tejasā bhrātur vyasanasaṃtaptaṃ dṛṣṭaṃ daśarathātmajam
+
+**4.33.3**
+
+utpapāta hariśreṣṭho hitvā sauvarṇam āsanam mahān mahendrasya yathā svalaṃkṛta iva dhvajaḥ
+
+**4.33.4**
+
+utpatantam anūtpetū rumāprabhṛtayaḥ striyaḥ sugrīvaṃ gagane pūrṇaṃ candraṃ tārāgaṇā iva
+
+**4.33.5**
+
+saṃraktanayanaḥ śrīmān vicacāla kṛtāñjaliḥ babhūvāvasthitas tatra kalpavṛkṣo mahān iva
+
+**4.33.6**
+
+rumā dvitīyaṃ sugrīvaṃ nārīmadhyagataṃ sthitam abravīl lakṣmaṇaḥ kruddhaḥ satāraṃ śaśinaṃ yathā
+
+**4.33.7**
+
+sattvābhijanasaṃpannaḥ sānukrośo jitendriyaḥ kṛtajñaḥ satyavādī ca rājā loke mahīyate
+
+**4.33.8**
+
+yas tu rājā sthito 'dharme mitrāṇām upakāriṇām mithyāpratijñāṃ kurute ko nṛśaṃsataras tataḥ
+
+**4.33.9**
+
+śatam aśvānṛte hanti sahasraṃ tu gavānṛte ātmānaṃ svajanaṃ hanti puruṣaḥ puruṣānṛte
+
+**4.33.10**
+
+pūrvaṃ kṛtārtho mitrāṇāṃ na tat pratikaroti yaḥ kṛtaghnaḥ sarvabhūtānāṃ sa vadhyaḥ plavageśvara
+
+**4.33.11**
+
+gīto 'yaṃ brahmaṇā ślokaḥ sarvalokanamaskṛtaḥ dṛṣṭvā kṛtaghnaṃ kruddhena taṃ nibodha plavaṃgama
+
+**4.33.12**
+
+brahmaghne ca surāpe ca core bhagnavrate tathā niṣkṛtir vihitā sadbhiḥ kṛtaghne nāsti niṣkṛtiḥ
+
+**4.33.13**
+
+anāryas tvaṃ kṛtaghnaś ca mithyāvādī ca vānara pūrvaṃ kṛtārtho rāmasya na tat pratikaroṣi yat
+
+**4.33.14**
+
+nanu nāma kṛtārthena tvayā rāmasya vānara sītāyā mārgaṇe yatnaḥ kartavyaḥ kṛtam icchatā
+
+**4.33.15**
+
+sa tvaṃ grāmyeṣu bhogeṣu sakto mithyā pratiśravaḥ na tvāṃ rāmo vijānīte sarpaṃ maṇḍūkarāviṇam
+
+**4.33.16**
+
+mahābhāgena rāmeṇa pāpaḥ karuṇavedinā harīṇāṃ prāpito rājyaṃ tvaṃ durātmā mahātmanā
+
+**4.33.17**
+
+kṛtaṃ cen nābhijānīṣe rāmasyākliṣṭakarmaṇaḥ sadyas tvaṃ niśitair bāṇair hato drakṣyasi vālinam
+
+**4.33.18**
+
+na ca saṃkucitaḥ panthā yena vālī hato gataḥ samaye tiṣṭha sugrīva mā vālipatham anvagāḥ
+
+**4.33.19**
+
+na nūnam ikṣvākuvarasya kārmukāc cyutāñ śarān paśyasi vajrasaṃnibhān tataḥ sukhaṃ nāma niṣevase sukhī na rāmakāryaṃ manasāpy avekṣase
+
+**4.34.1**
+
+tathā bruvāṇaṃ saumitriṃ pradīptam iva tejasā abravīl lakṣmaṇaṃ tārā tārādhipanibhānanā
+
+**4.34.2**
+
+naivaṃ lakṣmaṇa vaktavyo nāyaṃ paruṣam arhati harīṇām īśvaraḥ śrotuṃ tava vaktrād viśeṣataḥ
+
+**4.34.3**
+
+naivākṛtajñaḥ sugrīvo na śaṭho nāpi dāruṇaḥ naivānṛtakatho vīra na jihmaś ca kapīśvaraḥ
+
+**4.34.4**
+
+upakāraṃ kṛtaṃ vīro nāpy ayaṃ vismṛtaḥ kapiḥ rāmeṇa vīra sugrīvo yad anyair duṣkaraṃ raṇe
+
+**4.34.5**
+
+rāmaprasādāt kīrtiṃ ca kapirājyaṃ ca śāśvatam prāptavān iha sugrīvo rumāṃ māṃ ca paraṃtapa
+
+**4.34.6**
+
+suduḥkhaṃ śāyitaḥ pūrvaṃ prāpyedaṃ sukham uttamam prāptakālaṃ na jānīte viśvāmitro yathā muniḥ
+
+**4.34.7**
+
+ghṛtācyāṃ kila saṃsakto daśavarṣāṇi lakṣmaṇa aho 'manyata dharmātmā viśvāmitro mahāmuniḥ
+
+**4.34.8**
+
+sa hi prāptaṃ na jānīte kālaṃ kālavidāṃ varaḥ viśvāmitro mahātejāḥ kiṃ punar yaḥ pṛthagjanaḥ
+
+**4.34.9**
+
+dehadharmaṃ gatasyāsya pariśrāntasya lakṣmaṇa avitṛptasya kāmeṣu rāmaḥ kṣantum ihārhati
+
+**4.34.10**
+
+na ca roṣavaśaṃ tāta gantum arhasi lakṣmaṇa niścayārtham avijñāya sahasā prākṛto yathā
+
+**4.34.11**
+
+sattvayuktā hi puruṣās tvadvidhāḥ puruṣarṣabha avimṛśya na roṣasya sahasā yānti vaśyatām
+
+**4.34.12**
+
+prasādaye tvāṃ dharmajña sugrīvārthe samāhitā mahān roṣasamutpannaḥ saṃrambhas tyajyatām ayam
+
+**4.34.13**
+
+rumāṃ māṃ kapirājyaṃ ca dhanadhānyavasūni ca rāmapriyārthaṃ sugrīvas tyajed iti matir mama
+
+**4.34.14**
+
+samāneṣvyati sugrīvaḥ sītayā saha rāghavam śaśāṅkam iva rohiṣyā nihatvā rāvaṇaṃ raṇe
+
+**4.34.15**
+
+śatakoṭisahasrāṇi laṅkāyāṃ kila rakṣasām ayutāni ca ṣaṭtriṃśat sahasrāṇi śatāni ca
+
+**4.34.16**
+
+ahatvā tāṃś ca durdharṣān rākṣasān kāmarūpiṇaḥ na śakyo rāvaṇo hantuṃ yena sā maithilī hṛtā
+
+**4.34.17**
+
+te na śakyā raṇe hantum asahāyena lakṣmaṇa rāvaṇaḥ krūrakarmā ca sugrīveṇa viśeṣataḥ
+
+**4.34.18**
+
+evam ākhyātavān vālī sa hy abhijño harīśvaraḥ āgamas tu na me vyaktaḥ śravāt tasya bravīmy aham
+
+**4.34.19**
+
+tvatsahāyanimittaṃ vai preṣitā haripuṃgavāḥ ānetuṃ vānarān yuddhe subahūn hariyūthapān
+
+**4.34.20**
+
+tāṃś ca pratīkṣamāṇo 'yaṃ vikrāntān sumahābalān rāghavasyārthasiddhyarthaṃ na niryāti harīśvaraḥ
+
+**4.34.21**
+
+kṛtā tu saṃsthā saumitre sugrīveṇa yathāpurā adya tair vānarair sarvair āgantavyaṃ mahābalaiḥ
+
+**4.34.22**
+
+ṛkṣakoṭisahasrāṇi golāṅgūlaśatāni ca adya tvām upayāsyanti jahi kopam ariṃdama koṭyo 'nekās tu kākutstha kapīnāṃ dīptatejasām
+
+**4.34.23**
+
+tava hi mukham idaṃ nirīkṣya kopāt kṣatajanibhe nayane nirīkṣamāṇāḥ harivaravanitā na yānti śāntiṃ prathamabhayasya hi śaṅkitāḥ sma sarvāḥ
+
+**4.35.1**
+
+ity uktas tārayā vākyaṃ praśritaṃ dharmasaṃhitam mṛdusvabhāvaḥ saumitriḥ pratijagrāha tad vacaḥ
+
+**4.35.2**
+
+tasmin pratigṛhīte tu vākye harigaṇeśvaraḥ lakṣmaṇāt sumahat trāsaṃ vastraṃ klinnam ivātyajat
+
+**4.35.3**
+
+tataḥ kaṇṭhagataṃ mālyaṃ citraṃ bahuguṇaṃ mahat ciccheda vimadaś cāsīt sugrīvo vānareśvaraḥ
+
+**4.35.4**
+
+sa lakṣmaṇaṃ bhīmabalaṃ sarvavānarasattamaḥ abravīt praśritaṃ vākyaṃ sugrīvaḥ saṃpraharṣayan
+
+**4.35.5**
+
+pranaṣṭā śrīś ca kīrtiś ca kapirājyaṃ ca śāśvatam rāmaprasādāt saumitre punaḥ prāptam idaṃ mayā
+
+**4.35.6**
+
+kaḥ śaktas tasya devasya khyātasya svena karmaṇā tādṛśaṃ vikramaṃ vīra pratikartum ariṃdama
+
+**4.35.7**
+
+sītāṃ prāpsyati dharmātmā vadhiṣyati ca rāvaṇam sahāyamātreṇa mayā rāghavaḥ svena tejasā
+
+**4.35.8**
+
+sahāyakṛtyaṃ hi tasya yena sapta mahādrumāḥ śailaś ca vasudhā caiva bāṇenaikena dāritāḥ
+
+**4.35.9**
+
+dhanur visphāramāṇasya yasya śabdena lakṣmaṇa saśailā kampitā bhūmiḥ sahāyais tasya kiṃ nu vai
+
+**4.35.10**
+
+anuyātrāṃ narendrasya kariṣye 'haṃ nararṣabha gacchato rāvaṇaṃ hantuṃ vairiṇaṃ sapuraḥsaram
+
+**4.35.11**
+
+yadi kiṃ cid atikrāntaṃ viśvāsāt praṇayena vā preṣyasya kṣamitavyaṃ me na kaś cin nāparādhyati
+
+**4.35.12**
+
+iti tasya bruvāṇasya sugrīvasya mahātmanaḥ abhaval lakṣmaṇaḥ prītaḥ preṃṇā cedam uvāca ha
+
+**4.35.13**
+
+sarvathā hi mama bhrātā sanātho vānareśvara tvayā nāthena sugrīva praśritena viśeṣataḥ
+
+**4.35.14**
+
+yas te prabhāvaḥ sugrīva yac ca te śaucam uttamam arhas taṃ kapirājyasya śriyaṃ bhoktum anuttamām
+
+**4.35.15**
+
+sahāyena ca sugrīva tvayā rāmaḥ pratāpavān vadhiṣyati raṇe śatrūn acirān nātra saṃśayaḥ
+
+**4.35.16**
+
+dharmajñasya kṛtajñasya saṃgrāmeṣv anivartinaḥ upapannaṃ ca yuktaṃ ca sugrīva tava bhāṣitam
+
+**4.35.17**
+
+doṣajñaḥ sati sāmarthye ko 'nyo bhāṣitum arhati varjayitvā mama jyeṣṭhaṃ tvāṃ ca vānarasattama
+
+**4.35.18**
+
+sadṛśaś cāsi rāmasya vikrameṇa balena ca sahāyo daivatair dattaś cirāya haripuṃgava
+
+**4.35.19**
+
+kiṃ tu śīghram ito vīra niṣkrāma tvaṃ mayā saha sāntvayasva vayasyaṃ ca bhāryāharaṇaduḥkhitam
+
+**4.35.20**
+
+yac ca śokābhibhūtasya śrutvā rāmasya bhāṣitam mayā tvaṃ paruṣāṇy uktas tac ca tvaṃ kṣantum arhasi
+
+**4.36.1**
+
+evam uktas tu sugrīvo lakṣmaṇena mahātmanā hanumantaṃ sthitaṃ pārśve sacivaṃ vākyam abravīt
+
+**4.36.2**
+
+mahendrahimavadvindhyakailāsaśikhareṣu ca mandare pāṇḍuśikhare pañcaśaileṣu ye sthitāḥ
+
+**4.36.3**
+
+taruṇādityavarṇeṣu bhrājamāneṣu sarvaśaḥ parvateṣu samudrānte paścimasyāṃ tu ye diśi
+
+**4.36.4**
+
+ādityabhavane caiva girau saṃdhyābhrasaṃnibhe padmatālavanaṃ bhīmaṃ saṃśritā haripuṃgavāḥ
+
+**4.36.5**
+
+añjanāmbudasaṃkāśāḥ kuñjarapratimaujasaḥ añjane parate caiva ye vasanti plavaṃgamāḥ
+
+**4.36.6**
+
+manaḥśilā guhāvāsā vānarāḥ kanakaprabhāḥ merupārśvagatāś caiva ye ca dhūmragiriṃ śritāḥ
+
+**4.36.7**
+
+taruṇādityavarṇāś ca parvate ye mahāruṇe pibanto madhumaireyaṃ bhīmavegāḥ plavaṃgamāḥ
+
+**4.36.8**
+
+vaneṣu ca suramyeṣu sugandhiṣu mahatsu ca tāpasānāṃ ca ramyeṣu vanānteṣu samantataḥ
+
+**4.36.9**
+
+tāṃs tāṃs tvam ānaya kṣipraṃ pṛthivyāṃ sarvavānarān sāmadānādibhiḥ kalpair āśu preṣaya vānarān
+
+**4.36.10**
+
+preṣitāḥ prathamaṃ ye ca mayā dūtā mahājavāḥ tvaraṇārthaṃ tu bhūyas tvaṃ harīn saṃpreṣayāparān
+
+**4.36.11**
+
+ye prasaktāś ca kāmeṣu dīrghasūtrāś ca vānarāḥ ihānayasva tān sarvāñ śīghraṃ tu mama śāsanāt
+
+**4.36.12**
+
+ahobhir daśabhir ye ca nāgacchanti mamājñayā hantavyās te durātmāno rājaśāsanadūṣakāḥ
+
+**4.36.13**
+
+śatāny atha sahasrāṇi koṭyaś ca mama śāsanāt prayāntu kapisiṃhānāṃ diśo mama mate sthitāḥ
+
+**4.36.14**
+
+meghaparvatasaṃkāśāś chādayanta ivāmbaram ghorarūpāḥ kapiśreṣṭhā yāntu macchāsanād itaḥ
+
+**4.36.15**
+
+te gatijñā gatiṃ gatvā pṛthivyāṃ sarvavānarāḥ ānayantu harīn sarvāṃs tvaritāḥ śāsanān mama
+
+**4.36.16**
+
+tasya vānararājasya śrutvā vāyusuto vacaḥ dikṣu sarvāsu vikrāntān preṣayām āsa vānarān
+
+**4.36.17**
+
+te padaṃ viṣṇuvikrāntaṃ patatrijyotiradhvagāḥ prayātāḥ prahitā rājñā harayas tatkṣaṇena vai
+
+**4.36.18**
+
+te samudreṣu giriṣu vaneṣu ca saritsu ca vānarā vānarān sarvān rāmahetor acodayan
+
+**4.36.19**
+
+mṛtyukālopamasyājñāṃ rājarājasya vānarāḥ sugrīvasyāyayuḥ śrutvā sugrīvabhayadarśinaḥ
+
+**4.36.20**
+
+tatas te 'ñjanasaṃkāśā gires tasmān mahājavāḥ tisraḥ koṭyaḥ plavaṃgānāṃ niryayur yatra rāghavaḥ
+
+**4.36.21**
+
+astaṃ gacchati yatrārkas tasmin girivare ratāḥ taptahemasamābhāsās tasmāt koṭyo daśacyutāḥ
+
+**4.36.22**
+
+kailāsa śikharebhyaś ca siṃhakesaravarcasām tataḥ koṭisahasrāṇi vānarāṇām upāgaman
+
+**4.36.23**
+
+phalamūlena jīvanto himavantam upāśritāḥ teṣāṃ koṭisahasrāṇāṃ sahasraṃ samavartata
+
+**4.36.24**
+
+aṅgāraka samānānāṃ bhīmānāṃ bhīmakarmaṇām vindhyād vānarakoṭīnāṃ sahasrāṇy apatan drutam
+
+**4.36.25**
+
+kṣīrodavelānilayās tamālavanavāsinaḥ nārikelāśanāś caiva teṣāṃ saṃkhyā na vidyate
+
+**4.36.26**
+
+vanebhyo gahvarebhyaś ca saridbhyaś ca mahājavāḥ āgacchad vānarī senā pibantīva divākaram
+
+**4.36.27**
+
+ye tu tvarayituṃ yātā vānarāḥ sarvavānarān te vīrā himavac chailaṃ dadṛśus taṃ mahādrumam
+
+**4.36.28**
+
+tasmin girivare ramye yajño maheśvaraḥ purā sarvadevamanastoṣo babhau divyo manoharaḥ
+
+**4.36.29**
+
+annaviṣyandajātāni mūlāni ca phalāni ca amṛtasvādukalpāni dadṛśus tatra vānarāḥ
+
+**4.36.30**
+
+tad anna saṃbhavaṃ divyaṃ phalaṃ mūlaṃ manoharam yaḥ kaś cit sakṛd aśnāti māsaṃ bhavati tarpitaḥ
+
+**4.36.31**
+
+tāni mūlāni divyāni phalāni ca phalāśanāḥ auṣadhāni ca divyāni jagṛhur hariyūthapāḥ
+
+**4.36.32**
+
+tasmāc ca yajñāyatanāt puṣpāṇi surabhīṇi ca āninyur vānarā gatvā sugrīvapriyakāraṇāt
+
+**4.36.33**
+
+te tu sarve harivarāḥ pṛthivyāṃ sarvavānarān saṃcodayitvā tvaritaṃ yūthānāṃ jagmur agrataḥ
+
+**4.36.34**
+
+te tu tena muhūrtena yūthapāḥ śīghrakāriṇaḥ kiṣkindhāṃ tvarayā prāptāḥ sugrīvo yatra vānaraḥ
+
+**4.36.35**
+
+te gṛhītvauṣadhīḥ sarvāḥ phalaṃ mūlaṃ ca vānarāḥ taṃ pratigrāhayām āsur vacanaṃ cedam abruvan
+
+**4.36.36**
+
+sarve parigatāḥ śailāḥ samudrāś ca vanāni ca pṛthivyāṃ vānarāḥ sarve śāsanād upayānti te
+
+**4.36.37**
+
+evaṃ śrutvā tato hṛṣṭaḥ sugrīvaḥ plavagādhipaḥ pratijagrāha ca prītas teṣāṃ sarvam upāyanam
+
+**4.37.1**
+
+pratigṛhya ca tat sarvam upānayam upāhṛtam vānarān sāntvayitvā ca sarvān eva vyasarjayat
+
+**4.37.2**
+
+visarjayitvā sa harīñ śūrāṃs tān kṛtakarmaṇaḥ mene kṛtārtham ātmānaṃ rāghavaṃ ca mahābalam
+
+**4.37.3**
+
+sa lakṣmaṇo bhīmabalaṃ sarvavānarasattamam abravīt praśritaṃ vākyaṃ sugrīvaṃ saṃpraharṣayan kiṣkindhāyā viniṣkrāma yadi te saumya rocate
+
+**4.37.4**
+
+tasya tad vacanaṃ śrutvā lakṣmaṇasya subhāṣitam sugrīvaḥ paramaprīto vākyam etad uvāca ha
+
+**4.37.5**
+
+evaṃ bhavatu gacchāmaḥ stheyaṃ tvacchāsane mayā tam evam uktvā sugrīvo lakṣmaṇaṃ śubhalakṣmaṇam
+
+**4.37.6**
+
+visarjayām āsa tadā tārām anyāś ca yoṣitaḥ etety uccair harivarān sugrīvaḥ samudāharat
+
+**4.37.7**
+
+tasya tad vacanaṃ śrutvā harayaḥ śīghram āyayuḥ baddhāñjalipuṭāḥ sarve ye syuḥ strīdarśanakṣamāḥ
+
+**4.37.8**
+
+tān uvāca tataḥ prāptān rājārkasadṛśaprabhaḥ upasthāpayata kṣipraṃ śibikāṃ mama vānarāḥ
+
+**4.37.9**
+
+śrutvā tu vacanaṃ tasya harayaḥ śīghravikramāḥ samupasthāpayām āsuḥ śibikāṃ priyadarśanām
+
+**4.37.10**
+
+tām upasthāpitāṃ dṛṣṭvā śibikāṃ vānarādhipaḥ lakṣmaṇāruhyatāṃ śīghram iti saumitrim abravīt
+
+**4.37.11**
+
+ity uktvā kāñcanaṃ yānaṃ sugrīvaḥ sūryasaṃnibham bṛhadbhir haribhir yuktam āruroha salakṣmaṇaḥ
+
+**4.37.12**
+
+pāṇḍureṇātapatreṇa dhriyamāṇena mūrdhani śuklaiś ca bālavyajanair dhūyamānaiḥ samantataḥ
+
+**4.37.13**
+
+śaṅkhabherīninādaiś ca bandibhiś cābhivanditaḥ niryayau prāpya sugrīvo rājyaśriyam anuttamām
+
+**4.37.14**
+
+sa vānaraśatais tīṣkṇair bahubhiḥ śastrapāṇibhiḥ parikīrṇo yayau tatra yatra rāmo vyavasthitaḥ
+
+**4.37.15**
+
+sa taṃ deśam anuprāpya śreṣṭhaṃ rāmaniṣevitam avātaran mahātejāḥ śibikāyāḥ salakṣmaṇaḥ
+
+**4.37.16**
+
+āsādya ca tato rāmaṃ kṛtāñjalipuṭo 'bhavat kṛtāñjalau sthite tasmin vānarāś cabhavaṃs tathā
+
+**4.37.17**
+
+taṭākam iva tad dṛṣṭvā rāmaḥ kuḍmalapaṅkajam vānarāṇāṃ mahat sainyaṃ sugrīve prītimān abhūt
+
+**4.37.18**
+
+pādayoḥ patitaṃ mūrdhnā tam utthāpya harīśvaram preṃṇā ca bahumānāc ca rāghavaḥ pariṣasvaje
+
+**4.37.19**
+
+pariṣvajya ca dharmātmā niṣīdeti tato 'bravīt taṃ niṣaṇṇaṃ tato dṛṣṭvā kṣitau rāmo 'bravīd vacaḥ
+
+**4.37.20**
+
+dharmam arthaṃ ca kāmaṃ ca kāle yas tu niṣevate vibhajya satataṃ vīra sa rājā harisattama
+
+**4.37.21**
+
+hitvā dharmaṃ tathārthaṃ ca kāmaṃ yas tu niṣevate sa vṛkṣāgre yathā suptaḥ patitaḥ pratibudhyate
+
+**4.37.22**
+
+amitrāṇāṃ vadhe yukto mitrāṇāṃ saṃgrahe rataḥ trivargaphalabhoktā tu rājā dharmeṇa yujyate
+
+**4.37.23**
+
+udyogasamayas tv eṣa prāptaḥ śatruvināśana saṃcintyatāṃ hi piṅgeśa haribhiḥ saha mantribhiḥ
+
+**4.37.24**
+
+evam uktas tu sugrīvo rāmaṃ vacanam abravīt
+
+**4.37.25**
+
+pranaṣṭā śrīś ca kīrtiś ca kapirājyaṃ ca śāśvatam tvatprasādān mahābāho punaḥ prāptam idaṃ mayā
+
+**4.37.26**
+
+tava devaprasadāc ca bhrātuś ca jayatāṃ vara kṛtaṃ na pratikuryād yaḥ puruṣāṇāṃ sa dūṣakaḥ
+
+**4.37.27**
+
+ete vānaramukhyāś ca śataśaḥ śatrusūdana prāptāś cādāya balinaḥ pṛthivyāṃ sarvavānarān
+
+**4.37.28**
+
+ṛkṣāś cāvahitāḥ śūrā golāṅgūlāś ca rāghava kāntāra vanadurgāṇām abhijñā ghoradarśanāḥ
+
+**4.37.29**
+
+devagandharvaputrāś ca vānarāḥ kāmarūpiṇaḥ svaiḥ svaiḥ parivṛtāḥ sainyair vartante pathi rāghava
+
+**4.37.30**
+
+śataiḥ śatasahasraiś ca koṭibhiś ca plavaṃgamāḥ ayutaiś cāvṛtā vīrā śaṅkubhiś ca paraṃtapa
+
+**4.37.31**
+
+arbudair arbudaśatair madhyaiś cāntaiś ca vānarāḥ samudraiś ca parārdhaiś ca harayo hariyūthapāḥ
+
+**4.37.32**
+
+āgamiṣyanti te rājan mahendrasamavikramāḥ merumandarasaṃkāśā vindhyamerukṛtālayāḥ
+
+**4.37.33**
+
+te tvām abhigamiṣyanti rākṣasaṃ ye sabāndhavam nihatya rāvaṇaṃ saṃkhye hy ānayiṣyanti maithilīm
+
+**4.37.34**
+
+tatas tam udyogam avekṣya buddhimān haripravīrasya nideśavartinaḥ babhūva harṣād vasudhādhipātmajaḥ prabuddhanīlotpalatulyadarśanaḥ
+
+**4.38.1**
+
+iti bruvāṇaṃ sugrīvaṃ rāmo dharmabhṛtāṃ varaḥ bāhubhyāṃ saṃpariṣvajya pratyuvāca kṛtāñjalim
+
+**4.38.2**
+
+yad indro varṣate varṣaṃ na tac citraṃ bhaved bhuvi ādityo vā sahasrāṃśuḥ kuryād vitimiraṃ nabhaḥ
+
+**4.38.3**
+
+candramā raśmibhiḥ kuryāt pṛthivīṃ saumya nirmalām tvadvidho vāpi mitrāṇāṃ pratikuryāt paraṃtapa
+
+**4.38.4**
+
+evaṃ tvayi na tac citraṃ bhaved yat saumya śobhanam jānāmy ahaṃ tvāṃ sugrīva satataṃ priyavādinam
+
+**4.38.5**
+
+tvatsanāthaḥ sakhe saṃkhye jetāsmi sakalān arīn tvam eva me suhṛn mitraṃ sāhāyyaṃ kartum arhasi
+
+**4.38.6**
+
+jahārātmavināśāya vaidehīṃ rākṣasādhamaḥ vañcayitvā tu paulomīm anuhlādo yathā śacīm
+
+**4.38.7**
+
+nacirāt taṃ haniṣyāmi rāvaṇaṃ niśitaiḥ śaraiḥ paulomyāḥ pitaraṃ dṛptaṃ śatakratur ivārihā
+
+**4.38.8**
+
+etasminn antare caiva rajaḥ samabhivartata uṣṇāṃ tīvrāṃ sahasrāṃśoś chādayad gagane prabhām
+
+**4.38.9**
+
+diśaḥ paryākulāś cāsan rajasā tena mūrchitāḥ cacāla ca mahī sarvā saśailavanakānanā
+
+**4.38.10**
+
+tato nagendrasaṃkāśais tīkṣṇa daṃṣṭrair mahābalaiḥ kṛtsnā saṃchāditā bhūmir asaṃkhyeyaiḥ plavaṃgamaiḥ
+
+**4.38.11**
+
+nimeṣāntaramātreṇa tatas tair hariyūthapaiḥ koṭīśataparīvāraiḥ kāmarūpibhir āvṛtā
+
+**4.38.12**
+
+nādeyaiḥ pārvatīyaiś ca sāmudraiś ca mahābalaiḥ haribhir meghanirhrādair anyaiś ca vanacāribhiḥ
+
+**4.38.13**
+
+taruṇādityavarṇaiś ca śaśigauraiś ca vānaraiḥ padmakesaravarṇaiś ca śvetair merukṛtālayaiḥ
+
+**4.38.14**
+
+koṭīsahasrair daśabhiḥ śrīmān parivṛtas tadā vīraḥ śatabalir nāma vānaraḥ pratyadṛśyata
+
+**4.38.15**
+
+tataḥ kāñcanaśailābhas tārāyā vīryavān pitā anekair daśasāhasraiḥ koṭibhiḥ pratyadṛśyata
+
+**4.38.16**
+
+padmakesarasaṃkāśas taruṇārkanibhānanaḥ buddhimān vānaraśreṣṭhaḥ sarvavānarasattamaḥ
+
+**4.38.17**
+
+anīkair bahusāhasrair vānarāṇāṃ samanvitaḥ pitā hanumataḥ śrīmān kesarī pratyadṛśyata
+
+**4.38.18**
+
+golāṅgūlamahārājo gavākṣo bhīmavikramaḥ vṛtaḥ koṭisahasreṇa vānarāṇām adṛśyata
+
+**4.38.19**
+
+ṛkṣāṇāṃ bhīmavegānāṃ dhūmraḥ śatrunibarhaṇaḥ vṛtaḥ koṭisahasrābhyāṃ dvābhyāṃ samabhivartata
+
+**4.38.20**
+
+mahācalanibhair ghoraiḥ panaso nāma yūthapaḥ ājagāma mahāvīryas tisṛbhiḥ koṭibhir vṛtaḥ
+
+**4.38.21**
+
+nīlāñjanacayākāro nīlo nāmātha yūthapaḥ adṛśyata mahākāyaḥ koṭibhir daśabhir vṛtaḥ
+
+**4.38.22**
+
+darīmukhaś ca balavān yūthapo 'bhyāyayau tadā vṛtaḥ koṭisahasreṇa sugrīvaṃ samupasthitaḥ
+
+**4.38.23**
+
+maindaś ca dvividaś cobhāv aśviputrau mahāvalau koṭikoṭisahasreṇa vānarāṇām adṛśyatām
+
+**4.38.24**
+
+tataḥ koṭisahasrāṇāṃ sahasreṇa śatena ca pṛṣṭhato 'nugataḥ prāpto haribhir gandhamādanaḥ
+
+**4.38.25**
+
+tataḥ padmasahasreṇa vṛtaḥ śaṅkuśatena ca yuvarājo 'ṅgadaḥ prāptaḥ pitṛtulyaparākramaḥ
+
+**4.38.26**
+
+tatas tārādyutis tāro harir bhīmaparākramaḥ pañcabhir harikoṭībhir dūrataḥ pratyadṛśyata
+
+**4.38.27**
+
+indrajānuḥ kapir vīro yūthapaḥ pratyadṛśyata ekādaśānāṃ koṭīnām īśvaras taiś ca saṃvṛtaḥ
+
+**4.38.28**
+
+tato rambhas tv anuprāptas taruṇādityasaṃnibhaḥ ayutena vṛtaś caiva sahasreṇa śatena ca
+
+**4.38.29**
+
+tato yūthapatir vīro durmukho nāma vānaraḥ pratyadṛśyata koṭibhyāṃ dvābhyāṃ parivṛto balī
+
+**4.38.30**
+
+kailāsaśikharākārair vānarair bhīmavikramaiḥ vṛtaḥ koṭisahasreṇa hanumān pratyadṛśyata
+
+**4.38.31**
+
+nalaś cāpi mahāvīryaḥ saṃvṛto drumavāsibhiḥ koṭīśatena saṃprāptaḥ sahasreṇa śatena ca
+
+**4.38.32**
+
+śarabhaḥ kumudo vahnir vānaro rambha eva ca ete cānye ca bahavo vānarāḥ kāmarūpiṇaḥ
+
+**4.38.33**
+
+āvṛtya pṛthivīṃ sarvāṃ parvatāṃś ca vanāni ca āplavantaḥ plavantaś ca garjantaś ca plavaṃgamāḥ abhyavartanta sugrīvaṃ sūryam abhragaṇā iva
+
+**4.38.34**
+
+kurvāṇā bahuśabdāṃś ca prahṛṣṭā balaśālinaḥ śirobhir vānarendrāya sugrīvāya nyavedayan
+
+**4.38.35**
+
+apare vānaraśreṣṭhāḥ saṃgamya ca yathocitam sugrīveṇa samāgamya sthitāḥ prāñjalayas tadā
+
+**4.38.36**
+
+sugrīvas tvarito rāme sarvāṃs tān vānararṣabhān nivedayitvā dharmajñaḥ sthitaḥ prāñjalir abravīt
+
+**4.38.37**
+
+yathā sukhaṃ parvatanirjhareṣu vaneṣu sarveṣu ca vānarendrāḥ niveśayitvā vidhivad balāni balaṃ balajñaḥ pratipattum īṣṭe
+
+**4.39.1**
+
+atha rājā samṛddhārthaḥ sugrīvaḥ plavageśvaraḥ uvāca naraśārdūlaṃ rāmaṃ parabalārdanam
+
+**4.39.2**
+
+āgatā viniviṣṭāś ca balinaḥ kāmarūpiṇaḥ vānarendrā mahendrābhā ye madviṣayavāsinaḥ
+
+**4.39.3**
+
+ta ime bahusāhasrair haribhir bhīmavikramaiḥ āgatā vānarā ghorā daityadānavasaṃnibhāḥ
+
+**4.39.4**
+
+khyātakarmāpadānāś ca balavanto jitaklamāḥ parākrameṣu vikhyātā vyavasāyeṣu cottamāḥ
+
+**4.39.5**
+
+pṛthivyambucarā rāma nānānaganivāsinaḥ koṭyagraśa ime prāptā vānarās tava kiṃkarāḥ
+
+**4.39.6**
+
+nideśavartinaḥ sarve sarve guruhite ratāḥ abhipretam anuṣṭhātuṃ tava śakṣyanty ariṃdama
+
+**4.39.7**
+
+yan manyase naravyāghra prāptakālaṃ tad ucyatām tat sainyaṃ tvadvaśe yuktam ājñāpayitum arhasi
+
+**4.39.8**
+
+kāmam eṣām idaṃ kāryaṃ viditaṃ mama tattvataḥ tathāpi tu yathā tattvam ājñāpayitum arhasi
+
+**4.39.9**
+
+tathā bruvāṇaṃ sugrīvaṃ rāmo daśarathātmajaḥ bāhubhyāṃ saṃpariṣvajya idaṃ vacanam abravīt
+
+**4.39.10**
+
+jñāyatāṃ saumya vaidehī yadi jīvati vā na vā sa ca deśo mahāprājña yasmin vasati rāvaṇaḥ
+
+**4.39.11**
+
+adhigamya ca vaidehīṃ nilayaṃ rāvaṇasya ca prāptakālaṃ vidhāsyāmi tasmin kāle saha tvayā
+
+**4.39.12**
+
+nāham asmin prabhuḥ kārye vānareśa na lakṣmaṇaḥ tvam asya hetuḥ kāryasya prabhuś ca plavageśvara
+
+**4.39.13**
+
+tvam evājñāpaya vibho mama kāryaviniścayam tvaṃ hi jānāsi yat kāryaṃ mama vīra na saṃśayaḥ
+
+**4.39.14**
+
+suhṛddvitīyo vikrāntaḥ prājñaḥ kālaviśeṣavit bhavān asmaddhite yuktaḥ sukṛtārtho 'rthavittamaḥ
+
+**4.39.15**
+
+evam uktas tu sugrīvo vinataṃ nāma yūthapam abravīd rāma sāmnidhye lakṣmaṇasya ca dhīmataḥ śailābhaṃ meghanirghoṣam ūrjitaṃ plavageśvaram
+
+**4.39.16**
+
+somasūryātmajaiḥ sārdhaṃ vānarair vānarottama deśakālanayair yuktaḥ kāryākāryaviniścaye
+
+**4.39.17**
+
+vṛtaḥ śatasahasreṇa vānarāṇāṃ tarasvinām adhigaccha diśaṃ pūrvāṃ saśailavanakānanām
+
+**4.39.18**
+
+tatra sītāṃ ca vaidehīṃ nilayaṃ rāvaṇasya ca mārgadhvaṃ giridurgeṣu vaneṣu ca nadīṣu ca
+
+**4.39.19**
+
+nadīṃ bhāgīrathīṃ ramyāṃ sarayūṃ kauśikīṃ tathā kālindīṃ yamunāṃ ramyāṃ yāmunaṃ ca mahāgirim
+
+**4.39.20**
+
+sarasvatīṃ ca sindhuṃ ca śoṇaṃ maṇinibhodakam mahīṃ kālamahīṃ caiva śailakānanaśobhitām
+
+**4.39.21**
+
+brahmamālān videhāṃś ca mālavān kāśikosalān māgadhāṃś ca mahāgrāmān puṇḍrān vaṅgāṃs tathaiva ca
+
+**4.39.22**
+
+pattanaṃ kośakārāṇāṃ bhūmiṃ ca rajatākarām sarvam etad vicetavyaṃ mṛgayadbhir tatas tataḥ
+
+**4.39.23**
+
+rāmasya dayitāṃ bhāryāṃ sītāṃ daśarataḥ snuṣām samudram avagāḍhāś ca parvatān pattanāni ca
+
+**4.39.24**
+
+mandarasya ca ye koṭiṃ saṃśritāḥ ke cid āyatām karṇaprāvaraṇāś caiva tathā cāpy oṣṭhakarṇakāḥ
+
+**4.39.25**
+
+ghorā lohamukhāś caiva javanāś caikapādakāḥ akṣayā balavantaś ca puruṣāḥ puruṣādakāḥ
+
+**4.39.26**
+
+kirātāḥ karṇacūḍāś ca hemāṅgāḥ priyadarśanāḥ āmamīnāśanās tatra kirātā dvīpavāsinaḥ
+
+**4.39.27**
+
+antarjalacarā ghorā naravyāghrā iti śrutāḥ eteṣām ālayāḥ sarve viceyāḥ kānanaukasaḥ
+
+**4.39.28**
+
+giribhir ye ca gamyante plavanena plavena ca ratnavantaṃ yavadvīpaṃ saptarājyopaśobhitam
+
+**4.39.29**
+
+suvarṇarūpyakaṃ caiva suvarṇākaramaṇḍitam yavadvīpam atikramya śiśiro nāma parvataḥ
+
+**4.39.30**
+
+divaṃ spṛśati śṛṅgeṇa devadānavasevitaḥ eteṣāṃ giridurgeṣu pratāpeṣu vaneṣu ca
+
+**4.39.31**
+
+rāvaṇaḥ saha vaidehyā mārgitavyas tatas tataḥ tataḥ samudradvīpāṃś ca subhīmān draṣṭum arhatha
+
+**4.39.32**
+
+tatrāsurā mahākāyāś chāyāṃ gṛhṇanti nityaśaḥ brahmaṇā samanujñātā dīrghakālaṃ bubhukṣitāḥ
+
+**4.39.33**
+
+taṃ kālameghapratimaṃ mahoraganiṣevitam abhigamya mahānādaṃ tīrthenaiva mahodadhim
+
+**4.39.34**
+
+tato raktajalaṃ bhīmaṃ lohitaṃ nāma sāgaram gatā drakṣyatha tāṃ caiva bṛhatīṃ kūṭaśālmalīm
+
+**4.39.35**
+
+gṛhaṃ ca vainateyasya nānāratnavibhūṣitam tatra kailāsasaṃkāśaṃ vihitaṃ viśvakarmaṇā
+
+**4.39.36**
+
+tatra śailanibhā bhīmā mandehā nāma rākṣasāḥ śailaśṛṅgeṣu lambante nānārūpā bhayāvahāḥ
+
+**4.39.37**
+
+te patanti jale nityaṃ sūryasyodayanaṃ prati abhitaptāś ca sūryeṇa lambante sma punaḥ punaḥ
+
+**4.39.38**
+
+tataḥ pāṇḍurameghābhaṃ kṣīraudaṃ nāma sāgaram gatā drakṣyatha durdharṣā mukhā hāram ivormibhiḥ
+
+**4.39.39**
+
+tasya madhye mahāśveta ṛṣabho nāma parvataḥ divyagandhaiḥ kusumitai rajataiś ca nagair vṛtaḥ
+
+**4.39.40**
+
+saraś ca rājataiḥ padmair jvalitair hemakesaraiḥ nāmnā sudarśanaṃ nāma rājahaṃsaiḥ samākulam
+
+**4.39.41**
+
+vibudhāś cāraṇā yakṣāḥ kiṃnarāḥ sāpsarogaṇāḥ hṛṣṭāḥ samabhigacchanti nalinīṃ tāṃ riraṃsavaḥ
+
+**4.39.42**
+
+kṣīrodaṃ samatikramya tato drakṣyatha vānarāḥ jalodaṃ sāgaraśreṣṭhaṃ sarvabhūtabhayāvaham
+
+**4.39.43**
+
+tatra tat kopajaṃ tejaḥ kṛtaṃ hayamukhaṃ mahat asyāhus tan mahāvegam odanaṃ sacarācaram
+
+**4.39.44**
+
+tatra vikrośatāṃ nādo bhūtānāṃ sāgaraukasām śrūyate cāsamarthānāṃ dṛṣṭvā tad vaḍavāmukham
+
+**4.39.45**
+
+svādūdasyottare deśe yojanāni trayodaśa jātarūpaśilo nāma mahān kanakaparvataḥ
+
+**4.39.46**
+
+āsīnaṃ parvatasyāgre sarvabhūtanamaskṛtam sahasraśirasaṃ devam anantaṃ nīlavāsasaṃ
+
+**4.39.47**
+
+triśirāḥ kāñcanaḥ ketus tālas tasya mahātmanaḥ sthāpitaḥ parvatasyāgre virājati savedikaḥ
+
+**4.39.48**
+
+pūrvasyāṃ diśi nirmāṇaṃ kṛtaṃ tat tridaśeśvaraiḥ tataḥ paraṃ hemamayaḥ śrīmān udayaparvataḥ
+
+**4.39.49**
+
+tasya koṭir divaṃ spṛṣṭvā śatayojanam āyatā jātarūpamayī divyā virājati savedikā
+
+**4.39.50**
+
+sālais tālais tamālaiś ca karṇikāraiś ca puṣpitaiḥ jātarūpamayair divyaiḥ śobhate sūryasaṃnibhaiḥ
+
+**4.39.51**
+
+tatra yojanavistāram ucchritaṃ daśayojanam śṛṅgaṃ saumanasaṃ nāma jātarūpamayaṃ dhruvam
+
+**4.39.52**
+
+tatra pūrvaṃ padaṃ kṛtvā purā viṣṇus trivikrame dvitīyaṃ śikharaṃ meroś cakāra puruṣottamaḥ
+
+**4.39.53**
+
+uttareṇa parikramya jambūdvīpaṃ divākaraḥ dṛśyo bhavati bhūyiṣṭhaṃ śikharaṃ tan mahocchrayam
+
+**4.39.54**
+
+tatra vaikhānasā nāma vālakhilyā maharṣayaḥ prakāśamānā dṛśyante sūryavarṇās tapasvinaḥ
+
+**4.39.55**
+
+ayaṃ sudarśano dvīpaḥ puro yasya prakāśate yasmiṃs tejaś ca cakṣuś ca sarvaprānabhṛtām api
+
+**4.39.56**
+
+śailasya tasya kuñjeṣu kandareṣu vaneṣu ca rāvaṇaḥ saha vaidehyā mārgitavyas tatas tataḥ
+
+**4.39.57**
+
+kāñcanasya ca śailasya sūryasya ca mahātmanaḥ āviṣṭā tejasā saṃdhyā pūrvā raktā prakāśate
+
+**4.39.58**
+
+tataḥ paramagamyā syād dik pūrvā tridaśāvṛtā rahitā candrasūryābhyām adṛśyā timirāvṛtā
+
+**4.39.59**
+
+śaileṣu teṣu sarveṣu kandareṣu vaneṣu ca ya ca noktā mayā deśā viceyā teṣu jānakī
+
+**4.39.60**
+
+etāvad vānaraiḥ śakyaṃ gantuṃ vānarapuṃgavāḥ abhāskaram amaryādaṃ na jānīmas tataḥ param
+
+**4.39.61**
+
+adhigamya tu vaidehīṃ nilayaṃ rāvaṇasya ca māse pūrṇe nivartadhvam udayaṃ prāpya parvatam
+
+**4.39.62**
+
+ūrdhvaṃ māsān na vastavyaṃ vasan vadhyo bhaven mama siddhārthāḥ saṃnivartadhvam adhigamya ca maithilīm
+
+**4.39.63**
+
+mahendrakāntāṃ vanaṣaṇḍa maṇḍitāṃ diśaṃ caritvā nipuṇena vānarāḥ avāpya sītāṃ raghuvaṃśajapriyāṃ tato nivṛttāḥ sukhito bhaviṣyatha
+
+**4.40.1**
+
+tataḥ prasthāpya sugrīvas tan mahad vānaraṃ balam dakṣiṇāṃ preṣayām āsa vānarān abhilakṣitān
+
+**4.40.2**
+
+nīlam agnisutaṃ caiva hanumantaṃ ca vānaram pitāmahasutaṃ caiva jāmbavantaṃ mahākapim
+
+**4.40.3**
+
+suhotraṃ ca śarīraṃ ca śaragulmaṃ tathaiva ca gajaṃ gavākṣaṃ gavayaṃ suṣeṇam ṛṣabhaṃ tathā
+
+**4.40.4**
+
+maindaṃ ca dvividaṃ caiva vijayaṃ gandhamādanam ulkāmukham asaṅgaṃ ca hutāśana sutāv ubhau
+
+**4.40.5**
+
+aṅgadapramukhān vīrān vīraḥ kapigaṇeśvaraḥ vegavikramasaṃpannān saṃdideśa viśeṣavit
+
+**4.40.6**
+
+teṣām agreṣaraṃ caiva mahad balam asaṃgagam vidhāya harivīrāṇām ādiśad dakṣiṇāṃ diśam
+
+**4.40.7**
+
+ye ke cana samuddeśās tasyāṃ diśi sudurgamāḥ kapīśaḥ kapimukhyānāṃ sa teṣāṃ tān udāharat
+
+**4.40.8**
+
+sahasraśirasaṃ vindhyaṃ nānādrumalatāvṛtam narmadāṃ ca nadīṃ durgāṃ mahoraganiṣevitām
+
+**4.40.9**
+
+tato godāvarīṃ ramyāṃ kṛṣṇāveṇīṃ mahānadīm varadāṃ ca mahābhāgāṃ mahoraganiṣevitām
+
+**4.40.10**
+
+mekhalān utkalāṃś caiva daśārṇanagarāṇy api avantīm abhravantīṃ ca sarvam evānupaśyata
+
+**4.40.11**
+
+vidarbhān ṛṣikāṃś caiva ramyān māhiṣakān api tathā baṅgān kaliṅgāṃś ca kauśikāṃś ca samantataḥ
+
+**4.40.12**
+
+anvīkṣya daṇḍakāraṇyaṃ saparvatanadīguham nadīṃ godāvarīṃ caiva sarvam evānupaśyata
+
+**4.40.13**
+
+tathaivāndhrāṃś ca puṇḍrāṃś ca colān pāṇḍyān sakeralān ayomukhaś ca gantavyaḥ parvato dhātumaṇḍitaḥ
+
+**4.40.14**
+
+vicitraśikharaḥ śrīmāṃś citrapuṣpitakānanaḥ sacandanavanoddeśo mārgitavyo mahāgiriḥ
+
+**4.40.15**
+
+tatas tām āpagāṃ divyāṃ prasannasalilāṃ śivām tatra drakṣyatha kāverīṃ vihṛtām apsarogaṇaiḥ
+
+**4.40.16**
+
+tasyāsīnaṃ nagasyāgre malayasya mahaujasaṃ drakṣyathādityasaṃkāśam agastyam ṛṣisattamam
+
+**4.40.17**
+
+tatas tenābhyanujñātāḥ prasannena mahātmanā tāmraparṇīṃ grāhajuṣṭāṃ tariṣyatha mahānadīm
+
+**4.40.18**
+
+sā candanavanair divyaiḥ pracchannā dvīpa śālinī kānteva yuvatiḥ kāntaṃ samudram avagāhate
+
+**4.40.19**
+
+tato hemamayaṃ divyaṃ muktāmaṇivibhūṣitam yuktaṃ kavāṭaṃ pāṇḍyānāṃ gatā drakṣyatha vānarāḥ
+
+**4.40.20**
+
+tataḥ samudram āsādya saṃpradhāryārthaniścayam agastyenāntare tatra sāgare viniveśitaḥ
+
+**4.40.21**
+
+citranānānagaḥ śrīmān mahendraḥ parvatottamaḥ jātarūpamayaḥ śrīmān avagāḍho mahārṇavam
+
+**4.40.22**
+
+nānāvidhair nagaiḥ phullair latābhiś copaśobhitam devarṣiyakṣapravarair apsarobhiś ca sevitam
+
+**4.40.23**
+
+siddhacāraṇasaṃghaiś ca prakīrṇaṃ sumanoharam tam upaiti sahasrākṣaḥ sadā parvasu parvasu
+
+**4.40.24**
+
+dvīpas tasyāpare pāre śatayojanam āyataḥ agamyo mānuṣair dīptas taṃ mārgadhvaṃ samantataḥ tatra sarvātmanā sītā mārgitavyā viśeṣataḥ
+
+**4.40.25**
+
+sa hi deśas tu vadhyasya rāvaṇasya durātmanaḥ rākṣasādhipater vāsaḥ sahasrākṣasamadyuteḥ
+
+**4.40.26**
+
+dakṣiṇasya samudrasya madhye tasya tu rākṣasī aṅgāraketi vikhyātā chāyām ākṣipya bhojinī
+
+**4.40.27**
+
+tam atikramya lakṣmīvān samudre śatayojane giriḥ puṣpitako nāma siddhacāraṇasevitaḥ
+
+**4.40.28**
+
+candrasūryāṃśusaṃkāśaḥ sāgarāmbusamāvṛtaḥ bhrājate vipulaiḥ śṛṅgair ambaraṃ vilikhann iva
+
+**4.40.29**
+
+tasyaikaṃ kāñcanaṃ śṛṅgaṃ sevate yaṃ divākaraḥ śvetaṃ rājatam ekaṃ ca sevate yaṃ niśākaraḥ
+
+**4.40.30**
+
+na taṃ kṛtaghnāḥ paśyanti na nṛśaṃsā na nāstikāḥ praṇamya śirasā śailaṃ taṃ vimārgata vānarāḥ
+
+**4.40.31**
+
+tam atikramya durdharṣāḥ sūryavān nāma parvataḥ adhvanā durvigāhena yojanāni caturdaśa
+
+**4.40.32**
+
+tatas tam apy atikramya vaidyuto nāma parvataḥ sarvakāmaphalair vṛkṣaiḥ sarvakālamanoharaiḥ
+
+**4.40.33**
+
+tatra bhuktvā varārhāṇi mūlāni ca phalāni ca madhūni pītvā mukhyāni paraṃ gacchata vānarāḥ
+
+**4.40.34**
+
+tatra netramanaḥkāntaḥ kuñjaro nāma parvataḥ agastyabhavanaṃ yatra nirmitaṃ viśvakarmaṇā
+
+**4.40.35**
+
+tatra yojanavistāram ucchritaṃ daśayojanam śaraṇaṃ kāñcanaṃ divyaṃ nānāratnavibhūṣitam
+
+**4.40.36**
+
+tatra bhogavatī nāma sarpāṇām ālayaḥ purī viśālarathyā durdharṣā sarvataḥ parirakṣitā rakṣitā pannagair ghorais tīkṣṇadaṃṣṭrair mahāviṣaiḥ
+
+**4.40.37**
+
+sarparājo mahāghoro yasyāṃ vasati vāsukiḥ niryāya mārgitavyā ca sā ca bhogavatī purī
+
+**4.40.38**
+
+taṃ ca deśam atikramya mahān ṛṣabhasaṃsthitaḥ sarvaratnamayaḥ śrīmān ṛṣabho nāma parvataḥ
+
+**4.40.39**
+
+gośīrṣakaṃ padmakaṃ ca hariśyāmaṃ ca candanam divyam utpadyate yatra tac caivāgnisamaprabham
+
+**4.40.40**
+
+na tu tac candanaṃ dṛṣṭvā spraṣṭavyaṃ ca kadā cana rohitā nāma gandharvā ghorā rakṣanti tad vanam
+
+**4.40.41**
+
+tatra gandharvapatayaḥ pañcasūryasamaprabhāḥ śailūṣo grāmaṇīr bhikṣuḥ śubhro babhrus tathaiva ca
+
+**4.40.42**
+
+ante pṛthivyā durdharṣās tatra svargajitaḥ sthitāḥ tataḥ paraṃ na vaḥ sevyaḥ pitṛlokaḥ sudāruṇaḥ rājadhānī yamasyaiṣā kaṣṭena tamasāvṛtā
+
+**4.40.43**
+
+etāvad eva yuṣmābhir vīrā vānarapuṃgavāḥ śakyaṃ vicetuṃ gantuṃ vā nāto gatimatāṃ gatiḥ
+
+**4.40.44**
+
+sarvam etat samālokya yac cānyad api dṛśyate gatiṃ viditvā vaidehyāḥ saṃnivartitam arhatha
+
+**4.40.45**
+
+yas tu māsān nivṛtto 'gre dṛṣṭā sīteti vakṣyati mattulyavibhavo bhogaiḥ sukhaṃ sa vihariṣyati
+
+**4.40.46**
+
+tataḥ priyataro nāsti mama prāṇād viśeṣataḥ kṛtāparādho bahuśo mama bandhur bhaviṣyati
+
+**4.40.47**
+
+amitabalaparākramā bhavanto vipulaguṇeṣu kuleṣu ca prasūtāḥ manujapatisutāṃ yathā labhadhvaṃ tad adhiguṇaṃ puruṣārtham ārabhadhvam
+
+**4.41.1**
+
+tataḥ prasthāpya sugrīvas tān harīn dakṣiṇāṃ diśam buddhivikramasaṃpannān vāyuvegasamāñjave
+
+**4.41.2**
+
+athāhūya mahātejāḥ suṣeṇaṃ nāma yūthapam tārāyāḥ pitaraṃ rājā śvaśurabhīmavikramam
+
+**4.41.3**
+
+abravīt prāñjalir vākyam abhigamya praṇamya ca sāhāyyaṃ kuru rāmasya kṛtye 'smin samupasthite
+
+**4.41.4**
+
+vṛtaḥ śatasahasreṇa vānarāṇāṃ tarasvinām abhigaccha diśaṃ saumya paścimāṃ vāruṇīṃ prabho
+
+**4.41.5**
+
+surāṣṭrān saha bāhlīkāñ śūrābhīrāṃs tathaiva ca sphītāñjanapadān ramyān vipulāni purāṇi ca
+
+**4.41.6**
+
+puṃnāgagahanaṃ kukṣiṃ bahuloddālakākulam tathā ketakaṣaṇḍāṃś ca mārgadhvaṃ hariyūthapāḥ
+
+**4.41.7**
+
+pratyak srotogamāś caiva nadyaḥ śītajalāḥ śivāḥ tāpasānām araṇyāni kāntārā girayaś ca ye
+
+**4.41.8**
+
+girijālāvṛtāṃ durgāṃ mārgitvā paścimāṃ diśam tataḥ paścimam āsādya samudraṃ draṣṭum arhatha timi nakrāyuta jalam akṣobhyam atha vānaraḥ
+
+**4.41.9**
+
+tataḥ ketakaṣaṇḍeṣu tamālagahaneṣu ca kapayo vihariṣyanti nārikelavaneṣu ca
+
+**4.41.10**
+
+tatra sītāṃ ca mārgadhvaṃ nilayaṃ rāvaṇasya ca marīcipattanaṃ caiva ramyaṃ caiva jaṭīpuram
+
+**4.41.11**
+
+avantīm aṅgalopāṃ ca tathā cālakṣitaṃ vanam rāṣṭrāṇi ca viśālāni pattanāni tatas tataḥ
+
+**4.41.12**
+
+sindhusāgarayoś caiva saṃgame tatra parvataḥ mahān hemagirir nāma śataśṛṅgo mahādrumaḥ
+
+**4.41.13**
+
+tasya prastheṣu ramyeṣu siṃhāḥ pakṣagamāḥ sthitāḥ timimatsyagajāṃś caiva nīḍāny āropayanti te
+
+**4.41.14**
+
+tāni nīḍāni siṃhānāṃ giriśṛṅgagatāś ca ye dṛptās tṛptāś ca mātaṅgās toyadasvananiḥsvanāḥ vicaranti viśāle 'smiṃs toyapūrṇe samantataḥ
+
+**4.41.15**
+
+tasya śṛṅgaṃ divasparśaṃ kāñcanaṃ citrapādapam sarvam āśu vicetavyaṃ kapibhiḥ kāmarūpibhiḥ
+
+**4.41.16**
+
+koṭiṃ tatra samudre tu kāñcanīṃ śatayojanam durdarśāṃ pariyātrasya gatā drakṣyatha vānarāḥ
+
+**4.41.17**
+
+koṭyas tatra caturviṃśad gandharvāṇāṃ tarasvinām vasanty agninikāśānāṃ ghorāṇāṃ kāmarūpiṇām
+
+**4.41.18**
+
+nātyāsādayitavyās te vānarair bhīmavikramaiḥ nādeyaṃ ca phalaṃ tasmād deśāt kiṃ cit plavaṃgamaiḥ
+
+**4.41.19**
+
+durāsadā hi te vīrāḥ sattvavanto mahābalāḥ phalamūlāni te tatra rakṣante bhīmavikramāḥ
+
+**4.41.20**
+
+tatra yatnaś ca kartavyo mārgitavyā ca jānakī na hi tebhyo bhayaṃ kiṃ cit kapitvam anuvartatām
+
+**4.41.21**
+
+caturbhāge samudrasya cakravān nāma parvataḥ tatra cakraṃ sahasrāraṃ nirmitaṃ viśvakarmaṇā
+
+**4.41.22**
+
+tatra pañcajanaṃ hatvā hayagrīvaṃ ca dānavam ājahāra tataś cakraṃ śaṅkhaṃ ca puruṣottamaḥ
+
+**4.41.23**
+
+tasya sānuṣu citreṣu viśālāsu guhāsu ca rāvaṇaḥ saha vaidehyā mārgitavyas tatas tataḥ
+
+**4.41.24**
+
+yojanāni catuḥṣaṣṭir varāho nāma parvataḥ suvarṇaśṛṅgaḥ suśrīmān agādhe varuṇālaye
+
+**4.41.25**
+
+tatra prāgjyotiṣaṃ nāma jātarūpamayaṃ puram yasmin vasti duṣṭātmā narako nāma guhāsu ca
+
+**4.41.26**
+
+tasya sānuṣu citreṣu viśālāsu guhāsu ca rāvaṇaḥ saha vaidehyā mārgitavyas tatas tataḥ
+
+**4.41.27**
+
+tam atikramya śailendraṃ kāñcanāntaranirdaraḥ parvataḥ sarvasauvarṇo dhārā prasravaṇāyutaḥ
+
+**4.41.28**
+
+taṃ gajāś ca varāhāś ca siṃhā vyāghrāś ca sarvataḥ abhigarjanti satataṃ tena śabdena darpitāḥ
+
+**4.41.29**
+
+tasmin harihayaḥ śrīmān mahendraḥ pākaśāsanaḥ abhiṣiktaḥ surai rājā meghavān nāma parvataḥ
+
+**4.41.30**
+
+tam atikramya śailendraṃ mahendraparipālitam ṣaṣṭiṃ girisahasrāṇi kāñcanāni gamiṣyatha
+
+**4.41.31**
+
+taruṇādityavarṇāni bhrājamānāni sarvataḥ jātarūpamayair vṛkṣaiḥ śobhitāni supuṣpitaiḥ
+
+**4.41.32**
+
+teṣāṃ madhye sthito rājā merur uttamaparvataḥ ādityena prasannena śailo dattavaraḥ purā
+
+**4.41.33**
+
+tenaivam uktaḥ śailendraḥ sarva eva tvadāśrayāḥ matprasādād bhaviṣyanti divārātrau ca kāñcanāḥ
+
+**4.41.34**
+
+tvayi ye cāpi vatsyanti devagandharvadānavāḥ te bhaviṣyanti raktāś ca prabhayā kāñcanaprabhāḥ
+
+**4.41.35**
+
+ādityā vasavo rudrā marutaś ca divaukasaḥ āgamya paścimāṃ saṃdhyāṃ merum uttamaparvatam
+
+**4.41.36**
+
+ādityam upatiṣṭhanti taiś ca sūryo 'bhipūjitaḥ adṛśyaḥ sarvabhūtānām astaṃ gacchati parvatam
+
+**4.41.37**
+
+yojanānāṃ sahasrāṇi daśatāni divākaraḥ muhūrtārdhena taṃ śīghram abhiyāti śiloccayam
+
+**4.41.38**
+
+śṛṅge tasya mahad divyaṃ bhavanaṃ sūryasaṃnibham prāsādaguṇasaṃbādhaṃ vihitaṃ viśvakarmaṇā
+
+**4.41.39**
+
+śobhitaṃ tarubhiś citrair nānāpakṣisamākulaiḥ niketaṃ pāśahastasya varuṇasya mahātmanaḥ
+
+**4.41.40**
+
+antarā merum astaṃ ca tālo daśaśirā mahān jātarūpamayaḥ śrīmān bhrājate citravedikaḥ
+
+**4.41.41**
+
+teṣu sarveṣu durgeṣu saraḥsu ca saritsu ca rāvaṇaḥ saha vaidehyā mārgitavyas tatas tataḥ
+
+**4.41.42**
+
+yatra tiṣṭhati dharmātmā tapasā svena bhāvitaḥ merusāvarṇir ity eva khyāto vai brahmaṇā samaḥ
+
+**4.41.43**
+
+praṣṭavyo merusāvarṇir maharṣiḥ sūryasaṃnibhaḥ praṇamya śirasā bhūmau pravṛttiṃ maithilīṃ prati
+
+**4.41.44**
+
+etāvaj jīvalokasya bhāskaro rajanīkṣaye kṛtvā vitimiraṃ sarvam astaṃ gacchati parvatam
+
+**4.41.45**
+
+etāvad vānaraiḥ śakyaṃ gantuṃ vānarapuṃgavāḥ abhāskaram amaryādaṃ na jānīmas tataḥ param
+
+**4.41.46**
+
+adhigamya tu vaidehīṃ nilayaṃ rāvaṇasya ca astaṃ parvatam āsādya pūrṇe māse nivartata
+
+**4.41.47**
+
+ūrdhvaṃ māsān na vastavyaṃ vasan vadhyo bhaven mama sahaiva śūro yuṣmābhiḥ śvaśuro me gamiṣyati
+
+**4.41.48**
+
+śrotavyaṃ sarvam etasya bhavadbhir diṣṭa kāribhiḥ gurur eṣa mahābāhuḥ śvaśuro me mahābalaḥ
+
+**4.41.49**
+
+bhavantaś cāpi vikrāntāḥ pramāṇaṃ sarvakarmasu pramāṇam enaṃ saṃsthāpya paśyadhvaṃ paścimāṃ diśam
+
+**4.41.50**
+
+dṛṣṭāyāṃ tu narendrasyā patnyām amitatejasaḥ kṛtakṛtyā bhaviṣyāmaḥ kṛtasya pratikarmaṇā
+
+**4.41.51**
+
+ato 'nyad api yat kiṃ cit kāryasyāsya hitaṃ bhavet saṃpradhārya bhavadbhiś ca deśakālārthasaṃhitam
+
+**4.41.52**
+
+tataḥ suṣeṇa pramukhāḥ plavaṃgamāḥ sugrīvavākyaṃ nipuṇaṃ niśamya āmantrya sarve plavagādhipaṃ te jagmur diśaṃ tāṃ varuṇābhiguptām
+
+**4.42.1**
+
+tataḥ saṃdiśya sugrīvaḥ śvaśuraṃ paścimāṃ diśam vīraṃ śatabaliṃ nāma vānaraṃ vānararṣabhaḥ
+
+**4.42.2**
+
+uvāca rājā mantrajñaḥ sarvavānarasaṃmatam vākyam ātmahitaṃ caiva rāmasya ca hitaṃ tathā
+
+**4.42.3**
+
+vṛtaḥ śatasahasreṇa tvadvidhānāṃ vanaukasām vaivasvata sutaiḥ sārdhaṃ pratiṣṭhasva svamantribhiḥ
+
+**4.42.4**
+
+diśaṃ hy udīcīṃ vikrāntāṃ himaśailāvataṃsakām sarvataḥ parimārgadhvaṃ rāmapatnīm aninditām
+
+**4.42.5**
+
+asmin kārye vinivṛtte kṛte dāśaratheḥ priye ṛṇān muktā bhaviṣyāmaḥ kṛtārthārthavidāṃ varāḥ
+
+**4.42.6**
+
+kṛtaṃ hi priyam asmākaṃ rāghaveṇa mahātmanā tasya cet pratikāro 'sti saphalaṃ jīvitaṃ bhavet
+
+**4.42.7**
+
+etāṃ buddhiṃ samāsthāya dṛśyate jānakī yathā tathā bhavadbhiḥ kartavyam asmatpriyahitaiṣibhiḥ
+
+**4.42.8**
+
+ayaṃ hi sarvabhūtānāṃ mānyas tu narasattamaḥ asmāsu cāgataprītī rāmaḥ parapuraṃjayaḥ
+
+**4.42.9**
+
+imāni vanadurgāṇi nadyaḥ śailāntarāṇi ca bhavantaḥ parimārgaṃs tu buddhivikramasaṃpadā
+
+**4.42.10**
+
+tatra mlecchān pulindāṃś ca śūrasenāṃs tathaiva ca prasthālān bharatāṃś caiva kurūṃś ca saha madrakaiḥ
+
+**4.42.11**
+
+kāmbojān yavanāṃś caiva śakān āraṭṭakān api bāhlīkān ṛṣikāṃś caiva pauravān atha ṭaṅkaṇān
+
+**4.42.12**
+
+cīnān paramacīnāṃś ca nīhārāṃś ca punaḥ punaḥ anviṣya daradāṃś caiva himavantaṃ vicinvatha
+
+**4.42.13**
+
+lodhrapadmakaṣaṇḍeṣu devadāruvaneṣu ca rāvaṇaḥ saha vaidehya mārgitavyas tatas tataḥ
+
+**4.42.14**
+
+tataḥ somāśramaṃ gatvā devagandharvasevitam kālaṃ nāma mahāsānuṃ parvataṃ taṃ gamiṣyatha
+
+**4.42.15**
+
+mahatsu tasya śṛṅgeṣu nirdareṣu guhāsu ca vicinudhvaṃ mahābhāgāṃ rāmapatnīṃ yaśasvinīm
+
+**4.42.16**
+
+tam atikramya śailendraṃ hemavargaṃ mahāgirim tataḥ sudarśanaṃ nāma parvataṃ gantum arhatha
+
+**4.42.17**
+
+tasya kānanaṣaṇḍeṣu nirdareṣu guhāsu ca rāvaṇaḥ saha vaidehyā mārgitavyas tatas tataḥ
+
+**4.42.18**
+
+tam atikramya cākāśaṃ sarvataḥ śatayojanam aparvatanadī vṛkṣaṃ sarvasattvavivarjitam
+
+**4.42.19**
+
+taṃ tu śīghram atikramya kāntāraṃ romaharṣaṇam kailāsaṃ pāṇḍuraṃ śailaṃ prāpya hṛṣṭā bhaviṣyatha
+
+**4.42.20**
+
+tatra pāṇḍurameghābhaṃ jāmbūnadapariṣkṛtam kuberabhavanaṃ divyaṃ nirmitaṃ viśvakarmaṇā
+
+**4.42.21**
+
+viśālā nalinī yatra prabhūtakamalotpalā haṃsakāraṇḍavākīrṇā apsarogaṇasevitā
+
+**4.42.22**
+
+tatra vaiśravaṇo rājā sarvabhūtanamaskṛtaḥ dhanado ramate śrīmān guhyakaiḥ saha yakṣarāṭ
+
+**4.42.23**
+
+tasya candranikaśeṣu parvateṣu guhāsu ca rāvaṇaḥ saha vaidehyā mārgitavyas tatas tataḥ
+
+**4.42.24**
+
+krauñcaṃ tu girim āsādya bilaṃ tasya sudurgamam apramattaiḥ praveṣṭavyaṃ duṣpraveśaṃ hi tat smṛtam
+
+**4.42.25**
+
+vasanti hi mahātmānas tatra sūryasamaprabhāḥ devair apy arcitāḥ samyag devarūpā maharṣayaḥ
+
+**4.42.26**
+
+krauñcasya tu guhāś cānyāḥ sānūni śikharāṇi ca nirdarāś ca nitambāś ca vicetavyās tatas tataḥ
+
+**4.42.27**
+
+krauñcasya śikharaṃ cāpi nirīkṣya ca tatas tataḥ avṛkṣaṃ kāmaśailaṃ ca mānasaṃ vihagālayam
+
+**4.42.28**
+
+na gatis tatra bhūtānāṃ devadānavarakṣasām sa ca sarvair vicetavyaḥ sasānuprasthabhūdharaḥ
+
+**4.42.29**
+
+krauñcaṃ girim atikramya maināko nāma parvataḥ mayasya bhavanaṃ tatra dānavasya svayaṃ kṛtam
+
+**4.42.30**
+
+mainākas tu vicetavyaḥ sasānuprasthakandaraḥ strīṇām aśvamukhīnāṃ ca niketās tatra tatra tu
+
+**4.42.31**
+
+taṃ deśaṃ samatikramya āśramaṃ siddhasevitam siddhā vaikhānasās tatra vālakhilyāś ca tāpasāḥ
+
+**4.42.32**
+
+vandyās te tu tapaḥsiddhās tāpasā vītakalmaṣāḥ praṣṭavyāś cāpi sītāyāḥ pravṛttaṃ vinayānvitaiḥ
+
+**4.42.33**
+
+hemapuṣkarasaṃchannaṃ tatra vaikhānasaṃ saraḥ taruṇādityasaṃkāśair haṃsair vicaritaṃ śubhaiḥ
+
+**4.42.34**
+
+aupavāhyaḥ kuberasya sarvabhauma iti smṛtaḥ gajaḥ paryeti taṃ deśaṃ sadā saha kareṇubhiḥ
+
+**4.42.35**
+
+tat sāraḥ samatikramya naṣṭacandradivākaram anakṣatragaṇaṃ vyoma niṣpayodam anādimat
+
+**4.42.36**
+
+gabhastibhir ivārkasya sa tu deśaḥ prakāśate viśrāmyadbhis tapaḥ siddhair devakalpaiḥ svayamprabhaiḥ
+
+**4.42.37**
+
+taṃ tu deśam atikramya śailodā nāma nimnagā ubhayos tīrayor yasyāḥ kīcakā nāma veṇavaḥ
+
+**4.42.38**
+
+te nayanti paraṃ tīraṃ siddhān pratyānayanti ca uttarāḥ kuravas tatra kṛtapuṇyapratiśriyāḥ
+
+**4.42.39**
+
+tataḥ kāñcanapadmābhiḥ padminībhiḥ kṛtodakāḥ nīlavaidūryapatrāḍhyā nadyas tatra sahasraśaḥ
+
+**4.42.40**
+
+raktotpalavanaiś cātra maṇḍitāś ca hiraṇmayaiḥ taruṇādityasadṛśair bhānti tatra jalāśayāḥ
+
+**4.42.41**
+
+mahārhamaṇipatraiś ca kāñcanaprabha kesaraiḥ nīlotpalavanaiś citraiḥ sa deśaḥ sarvatovṛtaḥ
+
+**4.42.42**
+
+nistulābhiś ca muktābhir maṇibhiś ca mahādhanaiḥ udbhūtapulinās tatra jātarūpaiś ca nimnagāḥ
+
+**4.42.43**
+
+sarvaratnamayaiś citraiś avagāḍhā nagottamaiḥ jātarūpamayaiś cāpi hutāśanasamaprabhaiḥ
+
+**4.42.44**
+
+nityapuṣpaphalāś cātra nagāḥ patrarathākulāḥ divyagandharasasparśāḥ sarvakāmān sravanti ca
+
+**4.42.45**
+
+nānākārāṇi vāsāṃsi phalanty anye nagottamāḥ muktāvaidūryacitrāṇi bhūṣaṇāni tathaiva ca
+
+**4.42.46**
+
+strīṇāṃ yāny anurūpāṇi puruṣāṇāṃ tathaiva ca sarvartusukhasevyāni phalanty anye nagottamāḥ
+
+**4.42.47**
+
+mahārhāṇi vicitrāṇi haimāny anye nagottamāḥ śayanāni prasūyante citrāstāraṇavanti ca
+
+**4.42.48**
+
+manaḥkāntāni mālyāni phalanty atrāpare drumāḥ pānāni ca mahārhāṇi bhakṣyāṇi vividhāni ca
+
+**4.42.49**
+
+striyaś ca guṇasaṃpannā rūpayauvanalakṣitāḥ gandharvāḥ kiṃnarā siddhā nāgā vidyādharās tathā ramante sahitās tatra nārībhir bhāskaraprabhāḥ
+
+**4.42.50**
+
+sarve sukṛtakarmāṇaḥ sarve ratiparāyaṇāḥ sarve kāmārthasahitā vasanti saha yoṣitaḥ
+
+**4.42.51**
+
+gītavāditranirghoṣaḥ sotkṛṣṭahasitasvanaḥ śrūyate satataṃ tatra sarvabhūtamanoharaḥ
+
+**4.42.52**
+
+tatra nāmuditaḥ kaś cin nāsti kaś cid asatpriyaḥ ahany ahani vardhante guṇās tatra manoramāḥ
+
+**4.42.53**
+
+samatikramya taṃ deśam uttaras toyasāṃ nidhiḥ tatra somagirir nāma madhye hemamayo mahān
+
+**4.42.54**
+
+indralokagatā ye ca brahmalokagatāś ca ye devās taṃ samavekṣante girirājaṃ divaṃ gatam
+
+**4.42.55**
+
+sa tu deśo visūryo 'pi tasya bhāsā prakāśate sūryalakṣmyābhivijñeyas tapaseva vivasvatā
+
+**4.42.56**
+
+bhagavān api viśvātmā śambhur ekādaśātmakaḥ brahmā vasati deveśo brahmarṣiparivāritaḥ
+
+**4.42.57**
+
+na kathaṃ cana gantavyaṃ kurūṇām uttareṇa vaḥ anyeṣām api bhūtānāṃ nātikrāmati vai gatiḥ
+
+**4.42.58**
+
+sā hi somagirir nāma devānām api durgamaḥ tam ālokya tataḥ kṣipram upāvartitum arhatha
+
+**4.42.59**
+
+etāvad vānaraiḥ śakyaṃ gantuṃ vānarapuṃgavāḥ abhāskaram amaryādaṃ na jānīmas tataḥ param
+
+**4.42.60**
+
+sarvam etad vicetavyaṃ yan mayā parikīrtitam yad anyad api noktaṃ ca tatrāpi kriyatāṃ matiḥ
+
+**4.42.61**
+
+tataḥ kṛtaṃ dāśarather mahat priyaṃ mahattaraṃ cāpi tato mama priyam kṛtaṃ bhaviṣyaty anilānalopamā videhajā darśanajena karmaṇā
+
+**4.42.62**
+
+tataḥ kṛtārthāḥ sahitāḥ sabāndhavā mayārcitāḥ sarvaguṇair manoramaiḥ cariṣyathorvīṃ pratiśāntaśatravaḥ sahapriyā bhūtadharāḥ plavaṃgamāḥ
+
+**4.43.1**
+
+viśeṣeṇa tu sugrīvo hanumatyartham uktavān sa hi tasmin hariśreṣṭhe niścitārtho 'rthasādhane
+
+**4.43.2**
+
+na bhūmau nāntarikṣe vā nāmbare nāmarālaye nāpsu vā gatisaṃgaṃ te paśyāmi haripuṃgava
+
+**4.43.3**
+
+sāsurāḥ sahagandharvāḥ sanāganaradevatāḥ viditāḥ sarvalokās te sasāgaradharādharāḥ
+
+**4.43.4**
+
+gatir vegaś ca tejaś ca lāghavaṃ ca mahākape pitus te sadṛśaṃ vīra mārutasya mahaujasaḥ
+
+**4.43.5**
+
+tejasā vāpi te bhūtaṃ samaṃ bhuvi na vidyate tad yathā labhyate sītā tattvam evopapādaya
+
+**4.43.6**
+
+tvayy eva hanumann asti balaṃ buddhiḥ parākramaḥ deśakālānuvṛttaś ca nayaś ca nayapaṇḍita
+
+**4.43.7**
+
+tataḥ kāryasamāsaṃgam avagamya hanūmati viditvā hanumantaṃ ca cintayām āsa rāghavaḥ
+
+**4.43.8**
+
+sarvathā niścitārtho 'yaṃ hanūmati harīśvaraḥ niścitārthataraś cāpi hanūmān kāryasādhane
+
+**4.43.9**
+
+tad evaṃ prasthitasyāsya parijñātasya karmabhiḥ bhartrā parigṛhītasya dhruvaḥ kāryaphalodayaḥ
+
+**4.43.10**
+
+taṃ samīkṣya mahātejā vyavasāyottaraṃ harim kṛtārtha iva saṃvṛttaḥ prahṛṣṭendriyamānasaḥ
+
+**4.43.11**
+
+dadau tasya tataḥ prītaḥ svanāmāṅkopaśobhitam aṅgulīyam abhijñānaṃ rājaputryāḥ paraṃtapaḥ
+
+**4.43.12**
+
+anena tvāṃ hariśreṣṭha cihnena janakātmajā matsakāśād anuprāptam anudvignānupaśyati
+
+**4.43.13**
+
+vyavasāyaś ca te vīra sattvayuktaś ca vikramaḥ sugrīvasya ca saṃdeśaḥ siddhiṃ kathayatīva me
+
+**4.43.14**
+
+sa tad gṛhya hariśreṣṭhaḥ sthāpya mūrdhni kṛtāñjaliḥ vanditvā caraṇau caiva prasthitaḥ plavagottamaḥ
+
+**4.43.15**
+
+sa tat prakarṣan hariṇāṃ balaṃ mahad babhūva vīraḥ pavanātmajaḥ kapi gatāmbude vyomni viśuddhamaṇḍalaḥ śaśīva nakṣatragaṇopaśobhitaḥ
+
+**4.43.16**
+
+atibalabalam āśritas tavāhaṃ harivaravikramavikramair analpaiḥ pavanasuta yathābhigamyate sā janakasutā hanumaṃs tathā kuruṣva
+
+**4.44.1**
+
+tad ugraśāsanaṃ bhartur vijñāya haripuṃgavāḥ śalabhā iva saṃchādya medinīṃ saṃpratasthire
+
+**4.44.2**
+
+rāmaḥ prasravaṇe tasmin nyavasat sahalakṣmaṇaḥ pratīkṣamāṇas taṃ māsaṃ yaḥ sītādhigame kṛtaḥ
+
+**4.44.3**
+
+uttarāṃ tu diśaṃ ramyāṃ girirājasamāvṛtām pratasthe sahasā vīro hariḥ śatabalis tadā
+
+**4.44.4**
+
+pūrvāṃ diśaṃ prati yayau vinato hariyūthapaḥ
+
+**4.44.5**
+
+tārāṅgadādi sahitaḥ plavagaḥ pavanātmajaḥ agastyacaritām āśāṃ dakṣiṇāṃ hariyūthapaḥ
+
+**4.44.6**
+
+paścimāṃ tu diśaṃ ghorāṃ suṣeṇaḥ plavageśvaraḥ pratasthe hariśārdūlo bhṛśaṃ varuṇapālitām
+
+**4.44.7**
+
+tataḥ sarvā diśo rājā codayitvā yathā tatham kapisenā patīn mukhyān mumoda sukhitaḥ sukham
+
+**4.44.8**
+
+evaṃ saṃcoditāḥ sarve rājñā vānarayūthapāḥ svāṃ svāṃ diśam abhipretya tvaritāḥ saṃpratasthire
+
+**4.44.9**
+
+nadantaś connadantaś ca garjantaś ca plavaṃgamāḥ kṣvelanto dhāvamānāś ca yayuḥ plavagasattamāḥ ānayiṣyāmahe sītāṃ haniṣyāmaś ca rāvaṇam
+
+**4.44.10**
+
+aham eko haniṣyāmi prāptaṃ rāvaṇam āhave tataś conmathya sahasā hariṣye janakātmajām
+
+**4.44.11**
+
+vepamānaṃ śrameṇādya bhavadbhiḥ sthīyatām iti eka evāhariṣyāmi pātālād api jānakīm
+
+**4.44.12**
+
+vidhamiṣyāmy ahaṃ vṛkṣān dārayiṣyāmy ahaṃ girīn dharaṇīṃ dārayiṣyāmi kṣobhayiṣyāmi sāgarān
+
+**4.44.13**
+
+ahaṃ yojanasaṃkhyāyāḥ plavitā nātra saṃśayaḥ śataṃ yojanasaṃkhyāyāḥ śataṃ samadhikaṃ hy aham
+
+**4.44.14**
+
+bhūtale sāgare vāpi śaileṣu ca vaneṣu ca pātālasyāpi vā madhye na mamācchidyate gatiḥ
+
+**4.44.15**
+
+ity ekaikaṃ tadā tatra vānarā baladarpitāḥ ūcuś ca vacanaṃ tasmin harirājasya saṃnidhau
+
+**4.45.1**
+
+gateṣu vānarendreṣu rāmaḥ sugrīvam abravīt kathaṃ bhavān vinājīte sarvaṃ vai maṇḍalaṃ bhuvaḥ
+
+**4.45.2**
+
+sugrīvas tu tato rāmam uvāca praṇatātmavān śrūyatāṃ sarvam ākhyāsye vistareṇa nararṣabha
+
+**4.45.3**
+
+yadā tu dundubhiṃ nāma dānavaṃ mahiṣākṛtim parikālayate vālī malayaṃ prati parvatam
+
+**4.45.4**
+
+tadā viveśa mahiṣo malayasya guhāṃ prati viveśa vālī tatrāpi malayaṃ tajjighāṃsayā
+
+**4.45.5**
+
+tato 'haṃ tatra nikṣipto guhād vārivinītavat na ca niṣkramate vālī tadā saṃvatsare gate
+
+**4.45.6**
+
+tataḥ kṣatajavegena āpupūre tadā bilam tad ahaṃ vismito dṛṣṭvā bhrātṛśokaviṣārditaḥ
+
+**4.45.7**
+
+athāhaṃ kṛtabuddhis tu suvyaktaṃ nihato guruḥ śilāparvatasaṃkāśā biladvāri mayā kṛtā aśaknuvan niṣkramituṃ mahiṣo vinaśed iti
+
+**4.45.8**
+
+tato 'ham āgāṃ kiṣkindhāṃ nirāśas tasya jīvite rājyaṃ ca sumahat prāptaṃ tārā ca rumayā saha mitraiś ca sahitas tatra vasāmi vigatajvaraḥ
+
+**4.45.9**
+
+ājagāma tato vālī hatvā taṃ dānavarṣabham tato 'ham adadāṃ rājyaṃ gauravād bhayayantritaḥ
+
+**4.45.10**
+
+sa māṃ jighāṃsur duṣṭātmā vālī pravyathitendriyaḥ parilākayate krodhād dhāvantaṃ sacivaiḥ saha
+
+**4.45.11**
+
+tato 'haṃ vālinā tena sānubandhaḥ pradhāvitaḥ nadīś ca vividhāḥ paśyan vanāni nagarāṇi ca
+
+**4.45.12**
+
+ādarśatalasaṃkāśā tato vai pṛthivī mayā alātacakrapratimā dṛṣṭā goṣpadavat tadā
+
+**4.45.13**
+
+tataḥ pūrvam ahaṃ gatvā dakṣiṇām aham āśritaḥ diśaṃ ca paścimāṃ bhūyo gato 'smi bhayaśaṅkitaḥ uttarāṃ tu diśaṃ yāntaṃ hanumān mām athābravīt
+
+**4.45.14**
+
+idānīṃ me smṛtaṃ rājan yathā vālī harīśvaraḥ mataṅgena tadā śapto hy asminn āśramamaṇḍale
+
+**4.45.15**
+
+praviśed yadi vā vālī mūrdhāsya śatadhā bhavet tatra vāsaḥ sukho 'smākaṃ nirudvigno bhaviṣyati
+
+**4.45.16**
+
+tataḥ parvatam āsādya ṛśyamūkaṃ nṛpātmaja na viveśa tadā vālī mataṅgasya bhayāt tadā
+
+**4.45.17**
+
+evaṃ mayā tadā rājan pratyakṣam upalakṣitam pṛthivīmaṇḍalaṃ kṛtsnaṃ guhām asmy āgatas tataḥ
+
+**4.46.1**
+
+darśanārthaṃ tu vaidehyāḥ sarvataḥ kapiyūthapāḥ vyādiṣṭāḥ kapirājena yathoktaṃ jagmur añjasā
+
+**4.46.2**
+
+sarāṃsi saritaḥ kakṣān ākāśaṃ nagarāṇi ca nadīdurgāṃs tathā śailān vicinvanti samantataḥ
+
+**4.46.3**
+
+sugrīveṇa samākhyātān sarve vānarayūthapāḥ pradeśān pravicinvanti saśailavanakānanān
+
+**4.46.4**
+
+vicintya divasaṃ sarve sītādhigamane dhṛtāḥ samāyānti sma medinyāṃ niśākāleśu vānarāḥ
+
+**4.46.5**
+
+sarvartukāṃś ca deśeṣu vānarāḥ saphalān drumān āsādya rajanīṃ śayyāṃ cakruḥ sarveṣv ahaḥsu te
+
+**4.46.6**
+
+tad ahaḥ prathamaṃ kṛtvā māse prasravaṇaṃ gatāḥ kapirājena saṃgamya nirāśāḥ kapiyūthapāḥ
+
+**4.46.7**
+
+vicitya tu diśaṃ pūrvāṃ yathoktāṃ sacivaiḥ saha adṛṣṭvā vinataḥ sītām ājagāma mahābalaḥ
+
+**4.46.8**
+
+uttarāṃ tu diśaṃ sarvāṃ vicitya sa mahākapiḥ āgataḥ saha sainyena vīraḥ śatabalis tadā
+
+**4.46.9**
+
+suṣeṇaḥ paścimām āśāṃ vicitya saha vānaraiḥ sametya māse saṃpūrṇe sugrīvam upacakrame
+
+**4.46.10**
+
+taṃ prasravaṇapṛṣṭhasthaṃ samāsādyābhivādya ca āsīnaṃ saha rāmeṇa sugrīvam idam abruvan
+
+**4.46.11**
+
+vicitāḥ parvatāḥ sarve vanāni nagarāṇi ca nimnagāḥ sāgarāntāś ca sarve janapadās tathā
+
+**4.46.12**
+
+guhāś ca vicitāḥ sarvā yās tvayā parikīrtitāḥ vicitāś ca mahāgulmā latāvitatasaṃtatāḥ
+
+**4.46.13**
+
+gahaneṣu ca deśeṣu durgeṣu viṣameṣu ca sattvāny atipramāṇāni vicitāni hatāni ca ye caiva gahanā deśā vicitās te punaḥ punaḥ
+
+**4.46.14**
+
+udārasattvābhijano mahātmā sa maithilīṃ drakṣyati vānarendraḥ diśaṃ tu yām eva gatā tu sītā tām āsthito vāyusuto hanūmān
+
+**4.47.1**
+
+sahatārāṅgadābhyāṃ tu gatvā sa hanumān kapiḥ sugrīveṇa yathoddiṣṭaṃ taṃ deśam upacakrame
+
+**4.47.2**
+
+sa tu dūram upāgamya sarvais taiḥ kapisattamaiḥ vicinoti sma vindhyasya guhāś ca gahanāni ca
+
+**4.47.3**
+
+parvatāgrān nadīdurgān sarāṃsi vipulān drumān vṛkṣaṣaṇḍāṃś ca vividhān parvatān ghanapādapān
+
+**4.47.4**
+
+anveṣamāṇās te sarve vānarāḥ sarvato diśam na sītāṃ dadṛśur vīrā maithilīṃ janakātmajām
+
+**4.47.5**
+
+te bhakṣayanto mūlāni phalāni vividhāni ca anveṣamāṇā durdharṣā nyavasaṃs tatra tatra ha sa tu deśo duranveṣo guhāgahanavān mahān
+
+**4.47.6**
+
+tyaktvā tu taṃ tadā deśaṃ sarve vai hariyūthapāḥ deśam anyaṃ durādharṣaṃ viviśuś cākutobhayāḥ
+
+**4.47.7**
+
+yatra vandhyaphalā vṛkṣā vipuṣpāḥ parṇavarjitāḥ nistoyāḥ sarito yatra mūlaṃ yatra sudurlabham
+
+**4.47.8**
+
+na santi mahiṣā yatra na mṛgā na ca hastinaḥ śārdūlāḥ pakṣiṇo vāpi ye cānye vanagocarāḥ
+
+**4.47.9**
+
+snigdhapatrāḥ sthale yatra padminyaḥ phullapaṅkajāḥ prekṣaṇīyāḥ sugandhāś ca bhramaraiś cāpi varjitāḥ
+
+**4.47.10**
+
+kaṇḍur nāma mahābhāgaḥ satyavādī tapodhanaḥ maharṣiḥ paramāmarṣī niyamair duṣpradharṣaṇaḥ
+
+**4.47.11**
+
+tasya tasmin vane putro bālako daśavārṣikaḥ pranaṣṭo jīvitāntāya kruddhas tatra mahāmuniḥ
+
+**4.47.12**
+
+tena dharmātmanā śaptaṃ kṛtsnaṃ tatra mahad vanam aśaraṇyaṃ durādharṣaṃ mṛgapakṣivivarjitam
+
+**4.47.13**
+
+tasya te kānanāntāṃs tu girīṇāṃ kandarāṇi ca prabhavāni nadīnāṃca vicinvanti samāhitāḥ
+
+**4.47.14**
+
+tatra cāpi mahātmāno nāpaśyañ janakātmajām hartāraṃ rāvaṇaṃ vāpi sugrīvapriyakāriṇaḥ
+
+**4.47.15**
+
+te praviśya tu taṃ bhīmaṃ latāgulmasamāvṛtam dadṛśuḥ krūrakarmāṇam asuraṃ suranirbhayam
+
+**4.47.16**
+
+taṃ dṛṣṭvā vanarā ghoraṃ sthitaṃ śailam ivāparam gāḍhaṃ parihitāḥ sarve dṛṣṭvā taṃ parvatopamam
+
+**4.47.17**
+
+so 'pi tān vānarān sarvān naṣṭāḥ sthety abravīd balī abhyadhāvata saṃkruddho muṣṭim udyamya saṃhitam
+
+**4.47.18**
+
+tam āpatantaṃ sahasā vāliputro 'ṅgadas tadā rāvaṇo 'yam iti jñātvā talenābhijaghāna ha
+
+**4.47.19**
+
+sa vāliputrābhihato vaktrāc choṇitam udvaman asuro nyapatad bhūmau paryasta iva parvataḥ
+
+**4.47.20**
+
+te tu tasmin nirucchvāse vānarā jitakāśinaḥ vyacinvan prāyaśas tatra sarvaṃ tad girigahvaram
+
+**4.47.21**
+
+vicitaṃ tu tataḥ kṛtvā sarve te kānanaṃ punaḥ anyadevāparaṃ ghoraṃ viviśur girigahvaram
+
+**4.47.22**
+
+te vicintya punaḥ khinnā viniṣpatya samāgatāḥ ekānte vṛkṣamūle tu niṣedur dīnamānasāḥ
+
+**4.48.1**
+
+athāṅgadas tadā sarvān vānarān idam abravīt pariśrānto mahāprājñaḥ samāśvāsya śanair vacaḥ
+
+**4.48.2**
+
+vanāni girayo nadyo durgāṇi gahanāni ca daryo giriguhāś caiva vicitā naḥ samantataḥ
+
+**4.48.3**
+
+tatra tatra sahāsmābhir jānakī na ca dṛśyate tad vā rakṣo hṛtā yena sītā surasutopamā
+
+**4.48.4**
+
+kālaś ca no mahān yātaḥ sugrīvaś cograśāsanaḥ tasmād bhavantaḥ sahitā vicinvantu samantataḥ
+
+**4.48.5**
+
+vihāya tandrīṃ śokaṃ ca nidrāṃ caiva samutthitām vicinudhvaṃ yathā sītāṃ paśyāmo janakātmajām
+
+**4.48.6**
+
+anirvedaṃ ca dākṣyaṃ ca manasaś cāparājayam kāryasiddhikarāṇy āhus tasmād etad bravīmy aham
+
+**4.48.7**
+
+adyāpīdaṃ vanaṃ durgaṃ vicinvantu vanaukasaḥ khedaṃ tyaktvā punaḥ sarvaṃ vanam etad vicīyatām
+
+**4.48.8**
+
+avaśyaṃ kriyamāṇasya dṛśyate karmaṇaḥ phalam alaṃ nirvedam āgamya na hi no malinaṃ kṣamam
+
+**4.48.9**
+
+sugrīvaḥ krodhano rājā tīkṣṇadaṇḍaś ca vānarāḥ bhetavyaṃ tasya satataṃ rāmasya ca mahātmanaḥ
+
+**4.48.10**
+
+hitārtham etad uktaṃ vaḥ kriyatāṃ yadi rocate ucyatāṃ vā kṣamaṃ yan naḥ sarveṣām eva vānarāḥ
+
+**4.48.11**
+
+aṅgadasya vacaḥ śrutvā vacanaṃ gandhamādanaḥ uvācāvyaktayā vācā pipāsā śramakhinnayā
+
+**4.48.12**
+
+sadṛśaṃ khalu vo vākyam aṅgado yad uvāca ha hitaṃ caivānukūlaṃ ca kriyatām asya bhāṣitam
+
+**4.48.13**
+
+punar mārgāmahe śailān kandarāṃś ca darīs tathā kānanāni ca śūnyāni giriprasravaṇāni ca
+
+**4.48.14**
+
+yathoddiṣṭhāni sarvāṇi sugrīveṇa mahātmanā vicinvantu vanaṃ sarve giridurgāṇi sarvaśaḥ
+
+**4.48.15**
+
+tataḥ samutthāya punar vānarās te mahābalāḥ vindhyakānanasaṃkīrṇāṃ vicerur dakṣiṇāṃ diśam
+
+**4.48.16**
+
+te śāradābhrapratimaṃ śrīmadrajataparvatam śṛṅgavantaṃ darīvantam adhiruhya ca vānarāḥ
+
+**4.48.17**
+
+tatra lodhravanaṃ ramyaṃ saptaparṇavanāni ca vicinvanto harivarāḥ sītādarśanakāṅkṣiṇaḥ
+
+**4.48.18**
+
+tasyāgram adhirūḍhās te śrāntā vipulavikramāḥ na paśyanti sma vaidehīṃ rāmasya mahiṣīṃ priyām
+
+**4.48.19**
+
+te tu dṛṣṭigataṃ kṛtvā taṃ śailaṃ bahukandaram avārohanta harayo vīkṣamāṇāḥ samantataḥ
+
+**4.48.20**
+
+avaruhya tato bhūmiṃ śrāntā vigatacetasaḥ sthitvā muhūrtaṃ tatrātha vṛkṣamūlam upāśritāḥ
+
+**4.48.21**
+
+te muhūrtaṃ samāśvastāḥ kiṃ cid bhagnapariśramāḥ punar evodyatāḥ kṛtsnāṃ mārgituṃ dakṣiṇāṃ diśam
+
+**4.48.22**
+
+hanumatpramukhās te tu prasthitāḥ plavagarṣabhāḥ vindhyam evāditas tāvad vicerus te samantataḥ
+
+**4.49.1**
+
+saha tārāṅgadābhyāṃ tu saṃgamya hanumān kapiḥ vicinoti sma vindhyasya guhāś ca gahanāni ca
+
+**4.49.2**
+
+siṃhaśārdūlajuṣṭāś ca guhāś ca paritas tathā viṣameṣu nagendrasya mahāprasravaṇeṣu ca
+
+**4.49.3**
+
+teṣāṃ tatraiva vasatāṃ sa kālo vyatyavartata
+
+**4.49.4**
+
+sa hi deśo duranveṣo guhā gahanavān mahān tatra vāyusutaḥ sarvaṃ vicinoti sma parvatam
+
+**4.49.5**
+
+paraspareṇa rahitā anyonyasyāvidūrataḥ gajo gavākṣo gavayaḥ śarabho gandhamādanaḥ
+
+**4.49.6**
+
+maindaś ca dvividaś caiva hanumāñ jāmbavān api aṅgado yuvarājaś ca tāraś ca vanagocaraḥ
+
+**4.49.7**
+
+girijālāvṛtān deśān mārgitvā dakṣiṇāṃ diśam kṣutpipāsā parītāś ca śrāntāś ca salilārthinaḥ avakīrṇaṃ latāvṛkṣair dadṛśus te mahābilam
+
+**4.49.8**
+
+tataḥ krauñcāś ca haṃsāś ca sārasāś cāpi niṣkraman jalārdrāś cakravākāś ca raktāṅgāḥ padmareṇubhiḥ
+
+**4.49.9**
+
+tatas tad bilam āsādya sugandhi duratikramam vismayavyagramanaso babhūvur vānararṣabhāḥ
+
+**4.49.10**
+
+saṃjātapariśaṅkās te tad bilaṃ plavagottamāḥ abhyapadyanta saṃhṛṣṭās tejovanto mahābalāḥ
+
+**4.49.11**
+
+tataḥ parvatakūṭābho hanumān mārutātmajaḥ abravīd vānarān sarvān kāntāra vanakovidaḥ
+
+**4.49.12**
+
+girijālāvṛtān deśān mārgitvā dakṣiṇāṃ diśam vayaṃ sarve pariśrāntā na ca paśyāmi maithilīm
+
+**4.49.13**
+
+asmāc cāpi bilād dhaṃsāḥ krauñcāś ca saha sārasaiḥ jalārdrāś cakravākāś ca niṣpatanti sma sarvaśaḥ
+
+**4.49.14**
+
+nūnaṃ salilavān atra kūpo vā yadi vā hradaḥ tathā ceme biladvāre snigdhās tiṣṭhanti pādapāḥ
+
+**4.49.15**
+
+ity uktās tad bilaṃ sarve viviśus timirāvṛtam acandrasūryaṃ harayo dadṛśū romaharṣaṇam
+
+**4.49.16**
+
+tatas tasmin bile durge nānāpādapasaṃkule anyonyaṃ saṃpariṣvajya jagmur yojanam antaram
+
+**4.49.17**
+
+te naṣṭasaṃjñās tṛṣitāḥ saṃbhrāntāḥ salilārthinaḥ paripetur bile tasmin kaṃ cit kālam atandritāḥ
+
+**4.49.18**
+
+te kṛśā dīnavadanāḥ pariśrāntāḥ plavaṃgamāḥ ālokaṃ dadṛśur vīrā nirāśā jīvite tadā
+
+**4.49.19**
+
+tatas taṃ deśam āgamya saumyaṃ vitimiraṃ vanam dadṛśuḥ kāñcanān vṛkṣān dīptavaiśvānaraprabhān
+
+**4.49.20**
+
+sālāṃs tālāṃś ca puṃnāgān kakubhān vañjulān dhavān campakān nāgavṛkṣāṃś ca karṇikārāṃś ca puṣpitān
+
+**4.49.21**
+
+taruṇādityasaṃkāśān vaidūryamayavedikān nīlavaidūryavarṇāś ca padminīḥ patagāvṛtāḥ
+
+**4.49.22**
+
+mahadbhiḥ kāñcanair vṛkṣair vṛtaṃ bālārka saṃnibhaiḥ jātarūpamayair matsyair mahadbhiś ca sakacchapaiḥ
+
+**4.49.23**
+
+nalinīs tatra dadṛśuḥ prasannasalilāyutāḥ kāñcanāni vimānāni rājatāni tathaiva ca
+
+**4.49.24**
+
+tapanīyagavākṣāṇi muktājālāvṛtāni ca haimarājatabhaumāni vaidūryamaṇimanti ca
+
+**4.49.25**
+
+dadṛśus tatra harayo gṛhamukhyāni sarvaśaḥ puṣpitān phalino vṛkṣān pravālamaṇisaṃnibhān
+
+**4.49.26**
+
+kāñcanabhramarāṃś caiva madhūni ca samantataḥ maṇikāñcanacitrāṇi śayanāny āsanāni ca
+
+**4.49.27**
+
+mahārhāṇi ca yānāni dadṛśus te samantataḥ haimarājatakāṃsyānāṃ bhājanānāṃ ca saṃcayān
+
+**4.49.28**
+
+agarūṇāṃ ca divyānāṃ candanānāṃ ca saṃcayān śucīny abhyavahāryāṇi mūlāni ca phalāni ca
+
+**4.49.29**
+
+mahārhāṇi ca pānāni madhūni rasavanti ca divyānām ambarāṇāṃ ca mahārhāṇāṃ ca saṃcayān kambalānāṃ ca citrāṇām ajinānāṃ ca saṃcayān
+
+**4.49.30**
+
+tatra tatra vicinvanto bile tatra mahāprabhāḥ dadṛśur vānarāḥ śūrāḥ striyaṃ kāṃ cid adūrataḥ
+
+**4.49.31**
+
+tāṃ dṛṣṭvā bhṛśasaṃtrastāś cīrakṛṣṇājināmbarām tāpasīṃ niyatāhārāṃ jvalantīm iva tejasā
+
+**4.49.32**
+
+tato hanūmān girisaṃnikāśaḥ kṛtāñjalis tām abhivādya vṛddhām papraccha kā tvaṃ bhavanaṃ bilaṃ ca ratnāni cemāni vadasva kasya
+
+**4.50.1**
+
+ity uktvā hanumāṃs tatra punaḥ kṛṣṇājināmbarām abravīt tāṃ mahābhāgāṃ tāpasīṃ dharmacāriṇīm
+
+**4.50.2**
+
+idaṃ praviṣṭāḥ sahasā bilaṃ timirasaṃvṛtam kṣutpipāsā pariśrāntāḥ parikhinnāś ca sarvaśaḥ
+
+**4.50.3**
+
+mahad dhiraṇyā vivaraṃ praviṣṭāḥ sma pipāsitāḥ imāṃs tv evaṃ vidhān bhāvān vividhān adbhutopamān dṛṣṭvā vayaṃ pravyathitāḥ saṃbhrāntāḥ naṣṭacetasaḥ
+
+**4.50.4**
+
+kasyeme kāñcanā vṛkṣās taruṇādityasaṃnibhāḥ śucīny abhyavahāryāṇi mūlāni ca phalāni ca
+
+**4.50.5**
+
+kāñcanāni vimānāni rājatāni gṛhāṇi ca tapanīya gavākṣāṇi maṇijālāvṛtāni ca
+
+**4.50.6**
+
+puṣpitāḥ phālavantaś ca puṇyāś surabhigandhinaḥ ime jāmbūnadamayāḥ pādapāḥ kasya tejasā
+
+**4.50.7**
+
+kāñcanāni ca padmāni jātāni vimale jale kathaṃ matsyāś ca sauvarṇā caranti saha kacchapaiḥ
+
+**4.50.8**
+
+ātmānam anubhāvaṃ ca kasya caitat tapobalam ajānatāṃ naḥ sarveṣāṃ sarvam ākhyātum arhasi
+
+**4.50.9**
+
+evam uktā hanumatā tāpasī dharmacāriṇī pratyuvāca hanūmantaṃ sarvabhūtahite ratā
+
+**4.50.10**
+
+mayo nāma mahātejā māyāvī dānavarṣabhaḥ tenedaṃ nirmitaṃ sarvaṃ māyayā kāñcanaṃ vanam
+
+**4.50.11**
+
+purā dānavamukhyānāṃ viśvakarmā babhūva ha yenedaṃ kāñcanaṃ divyaṃ nirmitaṃ bhavanottamam
+
+**4.50.12**
+
+sa tu varṣasahasrāṇi tapas taptvā mahāvane pitāmahād varaṃ lebhe sarvam auśasanaṃ dhanam
+
+**4.50.13**
+
+vidhāya sarvaṃ balavān sarvakāmeśvaras tadā uvāsa sukhitaḥ kālaṃ kaṃ cid asmin mahāvane
+
+**4.50.14**
+
+tam apsarasi hemāyāṃ saktaṃ dānavapuṃgavam vikramyaivāśaniṃ gṛhya jaghāneśaḥ puraṃdaraḥ
+
+**4.50.15**
+
+idaṃ ca brahmaṇā dattaṃ hemāyai vanam uttamam śāśvataḥ kāmabhogaś ca gṛhaṃ cedaṃ hiraṇmayam
+
+**4.50.16**
+
+duhitā merusāvarṇer ahaṃ tasyāḥ svayaṃ prabhā idaṃ rakṣāmi bhavanaṃ hemāyā vānarottama
+
+**4.50.17**
+
+mama priyasakhī hemā nṛttagītaviśāradā tayā dattavarā cāsmi rakṣāmi bhavanottamam
+
+**4.50.18**
+
+kiṃ kāryaṃ kasya vā hetoḥ kāntārāṇi prapadyatha kathaṃ cedaṃ vanaṃ durgaṃ yuṣmābhir upalakṣitam
+
+**4.50.19**
+
+imāny abhyavahāryāṇi mūlāni ca phalāni ca bhuktvā pītvā ca pānīyaṃ sarvaṃ me vaktum arhatha
+
+**4.51.1**
+
+atha tān abravīt sarvān viśrāntān hariyūthapān idaṃ vacanam ekāgrā tāpasī dharmacāriṇī
+
+**4.51.2**
+
+vānarā yadi vaḥ khedaḥ pranaṣṭaḥ phalabhakṣaṇāt yadi caitan mayā śrāvyaṃ śrotum icchāmi kathyatām
+
+**4.51.3**
+
+tasyās tad vacanaṃ śrutvā hanumān mārutātmajaḥ ārjavena yathātattvam ākhyātum upacakrame
+
+**4.51.4**
+
+rājā sarvasya lokasya mahendravaruṇopamaḥ rāmo dāśarathiḥ śrīmān praviṣṭo daṇḍakāvanam
+
+**4.51.5**
+
+lakṣmaṇena saha bhrātrā vaidehyā cāpi bhāryayā tasya bhāryā janasthānād rāvaṇena hṛtā balāt
+
+**4.51.6**
+
+vīras tasya sakhā rājñaḥ sugrīvo nāma vānaraḥ rājā vānaramukhyānāṃ yena prasthāpitā vayam
+
+**4.51.7**
+
+agastyacaritām āśāṃ dakṣiṇāṃ yamarakṣitām sahaibhir vānarair mukhyair aṅgadapramukhair vayam
+
+**4.51.8**
+
+rāvaṇaṃ sahitāḥ sarve rākṣasaṃ kāmarūpiṇam sītayā saha vaidehyā mārgadhvam iti coditāḥ
+
+**4.51.9**
+
+vicitya tu vayaṃ sarve samagrāṃ dakṣiṇāṃ diśam bubhukṣitāḥ pariśrāntā vṛkṣamūlam upāśritāḥ
+
+**4.51.10**
+
+vivarṇavadanāḥ sarve sarve dhyānaparāyaṇāḥ nādhigacchāmahe pāraṃ magnāś cintāmahārṇave
+
+**4.51.11**
+
+cārayantas tataś cakṣur dṛṣṭavanto mahad bilam latāpādapasaṃchannaṃ timireṇa samāvṛtam
+
+**4.51.12**
+
+asmād dhaṃsā jalaklinnāḥ pakṣaiḥ salilareṇubhiḥ kurarāḥ sārasāś caiva niṣpatanti patatriṇaḥ sādhv atra praviśāmeti mayā tūktāḥ plavaṃgamāḥ
+
+**4.51.13**
+
+teṣām api hi sarveṣām anumānam upāgatam gacchāmaḥ praviśāmeti bhartṛkāryatvarānvitāḥ
+
+**4.51.14**
+
+tato gāḍhaṃ nipatitā gṛhya hastau parasparam idaṃ praviṣṭāḥ sahasā bilaṃ timirasaṃvṛtam
+
+**4.51.15**
+
+etan naḥ kāyam etena kṛtyena vayam āgatāḥ tvāṃ caivopagatāḥ sarve paridyūnā bubhukṣitāḥ
+
+**4.51.16**
+
+ātithyadharmadattāni mūlāni ca phalāni ca asmābhir upabhuktāni bubhukṣāparipīḍitaiḥ
+
+**4.51.17**
+
+yat tvayā rakṣitāḥ sarve mriyamāṇā bubhukṣayā brūhi pratyupakārārthaṃ kiṃ te kurvantu vānarāḥ
+
+**4.51.18**
+
+evam uktā tu sarvajñā vānarais taiḥ svayaṃprabhā pratyuvāca tataḥ sarvān idaṃ vānarayūthapam
+
+**4.51.19**
+
+sarveṣāṃ parituṣṭāsmi vānarāṇāṃ tarasvinām carantyā mama dharmeṇa na kāryam iha kena cit
+
+**4.52.1**
+
+evam uktaḥ śubhaṃ vākyaṃ tāpasyā dharmasaṃhitam uvāca hanumān vākyaṃ tām aninditaceṣṭitām
+
+**4.52.2**
+
+śaraṇaṃ tvāṃ prapannāḥ smaḥ sarve vai dharmacāriṇi yaḥ kṛtaḥ samayo 'smākaṃ sugrīveṇa mahātmanā sa tu kālo vyatikrānto bile ca parivartatām
+
+**4.52.3**
+
+sā tvam asmād bilād ghorād uttārayitum arhasi
+
+**4.52.4**
+
+tasmāt sugrīvavacanād atikrāntān gatāyuṣaḥ trātum arhasi naḥ sarvān sugrīvabhayaśaṅkitān
+
+**4.52.5**
+
+mahac ca kāryam asmābhiḥ kartavyaṃ dharmacāriṇi tac cāpi na kṛtaṃ kāryam asmābhir iha vāsibhiḥ
+
+**4.52.6**
+
+evam uktā hanumatā tāpasī vākyam abravīt jīvatā duṣkaraṃ manye praviṣṭena nivartitum
+
+**4.52.7**
+
+tapasas tu prabhāvena niyamopārjitena ca sarvān eva bilād asmād uddhariṣyāmi vānarān
+
+**4.52.8**
+
+nimīlayata cakṣūṃṣi sarve vānarapuṃgavāḥ na hi niṣkramituṃ śakyam animīlitalocanaiḥ
+
+**4.52.9**
+
+tataḥ saṃmīlitāḥ sarve sukumārāṅgulaiḥ karaiḥ sahasā pidadhur dṛṣṭiṃ hṛṣṭā gamanakāṅkṣiṇaḥ
+
+**4.52.10**
+
+vānarās tu mahātmāno hastaruddhamukhās tadā nimeṣāntaramātreṇa bilād uttāritās tayā
+
+**4.52.11**
+
+tatas tān vānarān sarvāṃs tāpasī dharmacāriṇī niḥsṛtān viṣamāt tasmāt samāśvāsyedam abravīt
+
+**4.52.12**
+
+eṣa vindhyo giriḥ śrīmān nānādrumalatāyutaḥ eṣa prasavaṇaḥ śailaḥ sāgaro 'yaṃ mahodadhiḥ
+
+**4.52.13**
+
+svasti vo 'stu gamiṣyāmi bhavanaṃ vānararṣabhāḥ ity uktvā tad bilaṃ śrīmat praviveśa svayaṃprabhā
+
+**4.52.14**
+
+tatas te dadṛśur ghoraṃ sāgaraṃ varuṇālayam apāram abhigarjantaṃ ghorair ūrmibhir ākulam
+
+**4.52.15**
+
+mayasya māyā vihitaṃ giridurgaṃ vicinvatām teṣāṃ māso vyatikrānto yo rājñā samayaḥ kṛtaḥ
+
+**4.52.16**
+
+vindhyasya tu gireḥ pāde saṃprapuṣpitapādape upaviśya mahābhāgāś cintām āpedire tadā
+
+**4.52.17**
+
+tataḥ puṣpātibhārāgrāṃl latāśatasamāvṛtān drumān vāsantikān dṛṣṭvā babhūvur bhayaśaṅkitāḥ
+
+**4.52.18**
+
+te vasantam anuprāptaṃ prativedya parasparam naṣṭasaṃdeśakālārthā nipetur dharaṇītale
+
+**4.52.19**
+
+sa tu siṃharṣabha skandhaḥ pīnāyatabhujaḥ kapiḥ yuvarājo mahāprājña aṅgado vākyam abravīt
+
+**4.52.20**
+
+śāsanāt kapirājasya vayaṃ sarve vinirgatāḥ māsaḥ pūrṇo bilasthānāṃ harayaḥ kiṃ na budhyate
+
+**4.52.21**
+
+tasminn atīte kāle tu sugrīveṇa kṛte svayam prāyopaveśanaṃ yuktaṃ sarveṣāṃ ca vanaukasām
+
+**4.52.22**
+
+tīkṣṇaḥ prakṛtyā sugrīvaḥ svāmibhāve vyavasthitaḥ na kṣamiṣyati naḥ sarvān aparādhakṛto gatān
+
+**4.52.23**
+
+apravṛttau ca sītāyāḥ pāpam eva kariṣyati tasmāt kṣamam ihādyaiva prāyopaviśanaṃ hi naḥ
+
+**4.52.24**
+
+tyaktvā putrāṃś ca dārāṃś ca dhanāni ca gṛhāṇi ca yāvan na ghātayed rājā sarvān pratigatān itaḥ vadhenāpratirūpeṇa śreyān mṛtyur ihaiva naḥ
+
+**4.52.25**
+
+na cāhaṃ yauvarājyena sugrīveṇābhiṣecitaḥ narendreṇābhiṣikto 'smi rāmeṇākliṣṭakarmaṇā
+
+**4.52.26**
+
+sa pūrvaṃ baddhavairo māṃ rājā dṛṣṭvā vyatikramam ghātayiṣyati daṇḍena tīkṣṇena kṛtaniścayaḥ
+
+**4.52.27**
+
+kiṃ me suhṛdbhir vyasanaṃ paśyadbhir jīvitāntare ihaiva prāyam āsiṣye puṇye sāgararodhasi
+
+**4.52.28**
+
+etac chrutvā kumāreṇa yuvarājena bhāṣitam sarve te vānaraśreṣṭhāḥ karuṇaṃ vākyam abruvan
+
+**4.52.29**
+
+tīkṣṇaḥ prakṛtyā sugrīvaḥ priyāsaktaś ca rāghavaḥ adṛṣṭāyāṃ ca vaidehyāṃ dṛṣṭvāsmāṃś ca samāgatān
+
+**4.52.30**
+
+rāghavapriyakāmārthaṃ ghātayiṣyaty asaṃśayam na kṣamaṃ cāparāddhānāṃ gamanaṃ svāmipārśvataḥ
+
+**4.52.31**
+
+plavaṃgamānāṃ tu bhayārditānāṃ śrutvā vacas tāra idaṃ babhāṣe alaṃ viṣādena bilaṃ praviśya vasāma sarve yadi rocate vaḥ
+
+**4.52.32**
+
+idaṃ hi māyā vihitaṃ sudurgamaṃ prabhūtavṛkṣodakabhojyapeyam ihāsti no naiva bhayaṃ puraṃdarān na rāghavād vānararājato 'pi vā
+
+**4.52.33**
+
+śrutvāṅgadasyāpi vaco 'nukūlam ūcuś ca sarve harayaḥ pratītāḥ yathā na hanyema tathāvidhānam asaktam adyaiva vidhīyatāṃ naḥ
+
+**4.53.1**
+
+tathā bruvati tāre tu tārādhipativarcasi atha mene hṛtaṃ rājyaṃ hanumān aṅgadena tat
+
+**4.53.2**
+
+buddhyā hy aṣṭāṅgayā yuktaṃ caturbalasamanvitam caturdaśaguṇaṃ mene hanumān vālinaḥ sutam
+
+**4.53.3**
+
+āpūryamāṇaṃ śaśvac ca tejobalaparākramaiḥ śaśinaṃ śuklapakṣādau vardhamānam iva śriyā
+
+**4.53.4**
+
+bṛhaspatisamaṃ buddhyā vikrame sadṛśaṃ pituḥ śuśrūṣamāṇaṃ tārasya śukrasyeva puraṃdaram
+
+**4.53.5**
+
+bhartur arthe pariśrāntaṃ sarvaśāstraviśāradam abhisaṃdhātum ārebhe hanumān aṅgadaṃ tataḥ
+
+**4.53.6**
+
+sa caturṇām upāyānāṃ tṛtīyam upavarṇayan bhedayām āsa tān sarvān vānarān vākyasaṃpadā
+
+**4.53.7**
+
+teṣu sarveṣu bhinneṣu tato 'bhīṣayad aṅgadam bhīṣaṇair bahubhir vākyaiḥ kopopāyasamanvitam
+
+**4.53.8**
+
+tvaṃ samarthataraḥ pitrā yuddhe tāreya vai dhuram dṛḍhaṃ dhārayituṃ śaktaḥ kapirājyaṃ yathā pitā
+
+**4.53.9**
+
+nityam asthiracittā hi kapayo haripuṃgava nājñāpyaṃ viṣahiṣyanti putradārān vinā tvayā
+
+**4.53.10**
+
+tvāṃ naite hy anuyuñjeyuḥ pratyakṣaṃ pravadāmi te yathāyaṃ jāmbavān nīlaḥ suhotraś ca mahākapiḥ
+
+**4.53.11**
+
+na hy ahaṃ ta ime sarve sāmadānādibhir guṇaiḥ daṇḍena na tvayā śakyāḥ sugrīvād apakarṣitum
+
+**4.53.12**
+
+vigṛhyāsanam apy āhur durbalena balīyasaḥ ātmarakṣākaras tasmān na vigṛhṇīta durbalaḥ
+
+**4.53.13**
+
+yāṃ cemāṃ manyase dhātrīm etad bilam iti śrutam etal lakṣmaṇabāṇānām īṣatkāryaṃ vidāraṇe
+
+**4.53.14**
+
+svalpaṃ hi kṛtam indreṇa kṣipatā hy aśaniṃ purā lakṣmaṇo niśitair bāṇair bhindyāt patrapuṭaṃ yathā lakṣmaṇasya ca nārācā bahavaḥ santi tadvidhāḥ
+
+**4.53.15**
+
+avasthāne yadaiva tvam āsiṣyasi paraṃtapa tadaiva harayaḥ sarve tyakṣyanti kṛtaniścayāḥ
+
+**4.53.16**
+
+smarantaḥ putradārāṇāṃ nityodvignā bubhukṣitāḥ kheditā duḥkhaśayyābhis tvāṃ kariṣyanti pṛṣṭhataḥ
+
+**4.53.17**
+
+sa tvaṃ hīnaḥ suhṛdbhiś ca hitakāmaiś ca bandhubhiḥ tṛṇād api bhṛśodvignaḥ spandamānād bhaviṣyasi
+
+**4.53.18**
+
+na ca jātu na hiṃsyus tvāṃ ghorā lakṣmaṇasāyakāḥ apavṛttaṃ jighāṃsanto mahāvegā durāsadāḥ
+
+**4.53.19**
+
+asmābhis tu gataṃ sārdhaṃ vinītavad upasthitam ānupūrvyāt tu sugrīvo rājye tvāṃ sthāpayiṣyati
+
+**4.53.20**
+
+dharmakāmaḥ pitṛvyas te prītikāmo dṛḍhavrataḥ śuciḥ satyapratijñaś ca nā tvāṃ jātu jighāṃsati
+
+**4.53.21**
+
+priyakāmaś ca te mātus tadarthaṃ cāsya jīvitam tasyāpatyaṃ ca nāsty anyat tasmād aṅgada gamyatām
+
+**4.54.1**
+
+śrutvā hanumato vākyaṃ praśritaṃ dharmasaṃhitam svāmisatkārasaṃyuktam aṅgado vākyam abravīt
+
+**4.54.2**
+
+sthairyaṃ sarvātmanā śaucam ānṛśaṃsyam athārjavam vikramaiś caiva dhairyaṃ ca sugrīve nopapadyate
+
+**4.54.3**
+
+bhrātur jyeṣṭhasya yo bhāryāṃ jīvito mahiṣīṃ priyām dharmeṇa mātaraṃ yas tu svīkaroti jugupsitaḥ
+
+**4.54.4**
+
+kathaṃ sa dharmaṃ jānīte yena bhrātrā durātmanā yuddhāyābhiniyuktena bilasya pihitaṃ mukham
+
+**4.54.5**
+
+satyāt pāṇigṛhītaś ca kṛtakarmā mahāyaśāḥ vismṛto rāghavo yena sa kasya sukṛtaṃ smaret
+
+**4.54.6**
+
+lakṣmaṇasya bhayād yena nādharmabhayabhīruṇā ādiṣṭā mārgituṃ sītāṃ dharmam asmin kathaṃ bhavet
+
+**4.54.7**
+
+tasmin pāpe kṛtaghne tu smṛtihīne calātmani āryaḥ ko viśvasej jātu tat kulīno jijīviṣuḥ
+
+**4.54.8**
+
+rājye putraṃ pratiṣṭhāpya saguṇo nirguṇo 'pi vā kathaṃ śatrukulīnaṃ māṃ sugrīvo jīvayiṣyati
+
+**4.54.9**
+
+bhinnamantro 'parāddhaś ca hīnaśaktiḥ kathaṃ hy aham kiṣkindhāṃ prāpya jīveyam anātha iva durbalaḥ
+
+**4.54.10**
+
+upāṃśudaṇḍena hi māṃ bandhanenopapādayet śaṭhaḥ krūro nṛśaṃsaś ca sugrīvo rājyakāraṇāt
+
+**4.54.11**
+
+bandhanāc cāvasādān me śreyaḥ prāyopaveśanam anujānīta māṃ sarve gṛhān gacchantu vānarāḥ
+
+**4.54.12**
+
+ahaṃ vaḥ pratijānāmi na gamiṣyāmy ahaṃ purīm ihaiva prāyam āsiṣye śreyo maraṇam eva me
+
+**4.54.13**
+
+abhivādanapūrvaṃ tu rājā kuśalam eva ca vācyas tato yavīyān me sugrīvo vānareśvaraḥ
+
+**4.54.14**
+
+ārogyapūrvaṃ kuśalaṃ vācyā mātā rumā ca me mātaraṃ caiva me tārām āśvāsayitum arhatha
+
+**4.54.15**
+
+prakṛtyā priyaputrā sā sānukrośā tapasvinī vinaṣṭaṃ mām iha śrutvā vyaktaṃ hāsyati jīvitam
+
+**4.54.16**
+
+etāvad uktvā vacanaṃ vṛddhān apy abhivādya ca saṃviveśāṅgado bhūmau rudan darbheṣu durmanāḥ
+
+**4.54.17**
+
+tasya saṃviśatas tatra rudanto vānararṣabhāḥ nayanebhyaḥ pramumucur uṣṇaṃ vai vāriduḥkhitāḥ
+
+**4.54.18**
+
+sugrīvaṃ caiva nindantaḥ praśaṃsantaś ca vālinam parivāryāṅgado sarve vyavasyan prāyam āsitum
+
+**4.54.19**
+
+mataṃ tad vāliputrasya vijñāya plavagarṣabhāḥ upaspṛśyodakaṃ sarve prāṅmukhāḥ samupāviśan dakṣiṇāgreṣu darbheṣu udaktīraṃ samāśritāḥ
+
+**4.54.20**
+
+sa saṃviśadbhir bahubhir mahīdharo mahādrikūṭapramitaiḥ plavaṃgamaiḥ
+
+**4.54.21**
+
+babhūva saṃnāditanirjharāntaro bhṛśaṃ nadadbhir jaladair ivolbaṇaiḥ
+
+**4.55.1**
+
+upaviṣṭās tu te sarve yasmin prāyaṃ giristhale harayo gṛdhrarājaś ca taṃ deśam upacakrame
+
+**4.55.2**
+
+sāmpātir nāma nāmnā tu cirajīvī vihaṃgamaḥ bhrātā jaṭāyuṣaḥ śrīmān prakhyātabalapauruṣaḥ
+
+**4.55.3**
+
+kandarād abhiniṣkramya sa vindhyasya mahāgireḥ upaviṣṭān harīn dṛṣṭvā hṛṣṭātmā giram abravīt
+
+**4.55.4**
+
+vidhiḥ kila naraṃ loke vidhānenānuvartate yathāyaṃ vihito bhakṣyaś cirān mahyam upāgataḥ
+
+**4.55.5**
+
+paramparāṇāṃ bhakṣiṣye vānarāṇāṃ mṛtaṃ mṛtam uvācaivaṃ vacaḥ pakṣī tān nirīkṣya plavaṃgamān
+
+**4.55.6**
+
+tasya tad vacanaṃ śrutvā bhakṣalubdhasya pakṣiṇaḥ aṅgadaḥ param āyasto hanūmantam athābravīt
+
+**4.55.7**
+
+paśya sītāpadeśena sākṣād vaivasvato yamaḥ imaṃ deśam anuprāpto vānarāṇāṃ vipattaye
+
+**4.55.8**
+
+rāmasya na kṛtaṃ kāryaṃ rājño na ca vacaḥ kṛtam harīṇām iyam ajñātā vipattiḥ sahasāgatā
+
+**4.55.9**
+
+vaidehyāḥ priyakāmena kṛtaṃ karma jaṭāyuṣā gṛdhrarājena yat tatra śrutaṃ vas tad aśeṣataḥ
+
+**4.55.10**
+
+tathā sarvāṇi bhūtāni tiryagyonigatāny api priyaṃ kurvanti rāmasya tyaktvā prāṇān yathā vayam
+
+**4.55.11**
+
+rāghavārthe pariśrāntā vayaṃ saṃtyaktajīvitāḥ kāntārāṇi prapannāḥ sma na ca paśyāma maithilīm
+
+**4.55.12**
+
+sa sukhī gṛdhrarājas tu rāvaṇena hato raṇe muktaś ca sugrīvabhayād gataś ca paramāṃ gatim
+
+**4.55.13**
+
+jaṭāyuṣo vināśena rājño daśarathasya ca haraṇena ca vaidehyāḥ saṃśayaṃ harayo gatāḥ
+
+**4.55.14**
+
+rāmalakṣmaṇayor vāsām araṇye saha sītayā rāghavasya ca bāṇena vālinaś ca tathā vadhaḥ
+
+**4.55.15**
+
+rāmakopād aśeṣāṇāṃ rākṣasānāṃ tathā vadhaḥ kaikeyyā varadānena idaṃ hi vikṛtaṃ kṛtam
+
+**4.55.16**
+
+tat tu śrutvā tadā vākyam aṅgadasya mukhodgatam abravīd vacanaṃ gṛdhras tīkṣṇatuṇḍo mahāsvanaḥ
+
+**4.55.17**
+
+ko 'yaṃ girā ghoṣayati prāṇaiḥ priyatarasya me jaṭāyuṣo vadhaṃ bhrātuḥ kampayann iva me manaḥ
+
+**4.55.18**
+
+katham āsīj janasthāne yuddhaṃ rākṣasagṛdhrayoḥ nāmadheyam idaṃ bhrātuś cirasyādya mayā śrutam
+
+**4.55.19**
+
+yavīyaso guṇajñasya ślāghanīyasya vikramaiḥ tad iccheyam ahaṃ śrotuṃ vināśaṃ vānararṣabhāḥ
+
+**4.55.20**
+
+bhrātur jaṭāyuṣas tasya janasthānanivāsinaḥ tasyaiva ca mama bhrātuḥ sakhā daśarathaḥ katham yasya rāmaḥ priyaḥ putro jyeṣṭho gurujanapriyaḥ
+
+**4.55.21**
+
+sūryāṃśudagdhapakṣatvān na śaknomi visarpitum iccheyaṃ parvatād asmād avatartum ariṃdamāḥ
+
+**4.56.1**
+
+śokād bhraṣṭasvaram api śrutvā te hariyūthapāḥ śraddadhur naiva tad vākyaṃ karmaṇā tasya śaṅkitāḥ
+
+**4.56.2**
+
+te prāyam upaviṣṭās tu dṛṣṭvā gṛdhraṃ plavaṃgamāḥ cakrur buddhiṃ tadā raudrāṃ sarvān no bhakṣayiṣyati
+
+**4.56.3**
+
+sarvathā prāyam āsīnān yadi no bhakṣayiṣyati kṛtakṛtyā bhaviṣyāmaḥ kṣipraṃ siddhim ito gatāḥ
+
+**4.56.4**
+
+etāṃ buddhiṃ tataś cakruḥ sarve te vānararṣabhāḥ avatārya gireḥ śṛṅgād gṛdhram āhāṅgadas tadā
+
+**4.56.5**
+
+babhūvur kṣarajo nāma vānarendraḥ pratāpavān mamāryaḥ pārthivaḥ pakṣin dhārmikau tasya cātmajau
+
+**4.56.6**
+
+sugrīvaś caiva valī ca putrāv oghabalāv ubhau loke viśrutakarmābhūd rājā vālī pitā mama
+
+**4.56.7**
+
+rājā kṛtsnasya jagata ikṣvākūṇāṃ mahārathaḥ rāmo dāśarathiḥ śrīmān praviṣṭo daṇḍakāvanam
+
+**4.56.8**
+
+lakṣmaṇena saha bhrātrā vaidehyā cāpi bhāryayā pitur nideśanirato dharmyaṃ panthānam āśritaḥ tasya bhāryā janasthānād rāvaṇena hṛtā balāt
+
+**4.56.9**
+
+rāmasya ca pitur mitraṃ jaṭāyur nāma gṛdhrarāṭ dadarśa sītāṃ vaidehīṃ hriyamāṇāṃ vihāyasā
+
+**4.56.10**
+
+rāvaṇaṃ virathaṃ kṛtvā sthāpayitvā ca maithilīm pariśrāntaś ca vṛddhaś ca rāvaṇena hato raṇe
+
+**4.56.11**
+
+evaṃ gṛdhro hatas tena rāvaṇena bahīyasā saṃskṛtaś cāpi rāmeṇa gataś ca gatim uttamām
+
+**4.56.12**
+
+tato mama pitṛvyeṇa sugrīveṇa mahātmanā cakāra rāghavaḥ sakhyaṃ so 'vadhīt pitaraṃ mama
+
+**4.56.13**
+
+māma pitrā viruddho hi sugrīvaḥ sacivaiḥ saha nihatya vālinaṃ rāmas tatas tam abhiṣecayat
+
+**4.56.14**
+
+sa rājye sthāpitas tena sugrīvo vānareśvaraḥ rājā vānaramukhyānāṃ yena prasthāpitā vayam
+
+**4.56.15**
+
+evaṃ rāmaprayuktās tu mārgamāṇās tatas tataḥ vaidehīṃ nādhigacchāmo rātrau sūryaprabhām iva
+
+**4.56.16**
+
+te vayaṃ daṇdakāraṇyaṃ vicitya susamāhitāḥ ajñānāt tu praviṣṭāḥ sma dharaṇyā vivṛtaṃ bilam
+
+**4.56.17**
+
+mayasya māyā vihitaṃ tad bilaṃ ca vicinvatām vyatītas tatra no māso yo rājñā sāmayaḥ kṛtaḥ
+
+**4.56.18**
+
+te vayaṃ kapirājasya sarve vacanakāriṇaḥ kṛtāṃ saṃsthām atikrāntā bhayāt prāyam upāsmahe
+
+**4.56.19**
+
+kruddhe tasmiṃs tu kākutsthe sugrīve ca salakṣmaṇe gatānām api sarveṣāṃ tatra no nāsti jīvitam
+
+**4.57.1**
+
+ity uktaḥ karuṇaṃ vākyaṃ vānarais tyaktajīvitaiḥ sabāṣpo vānarān gṛdhraḥ pratyuvāca mahāsvanaḥ
+
+**4.57.2**
+
+yavīyān mama sa bhrātā jaṭāyur nāma vānarāḥ yamākhyāta hataṃ yuddhe rāvaṇena balīyasā
+
+**4.57.3**
+
+vṛddhabhāvād apakṣatvāc chṛṇvaṃs tad api marṣaye na hi me śaktir adyāsti bhrātur vairavimokṣaṇe
+
+**4.57.4**
+
+purā vṛtravadhe vṛtte sa cāhaṃ ca jayaiṣiṇau ādityam upayātau svo jvalantaṃ raśmimālinam
+
+**4.57.5**
+
+āvṛtyākāśamārgeṇa javena sma gatau bhṛśam madhyaṃ prāpte ca sūrye ca jaṭāyur avasīdati
+
+**4.57.6**
+
+tam ahaṃ bhrātaraṃ dṛṣṭvā sūryaraśmibhir arditam pakṣābhyaṃ chādayām āsa snehāt paramavihvalam
+
+**4.57.7**
+
+nirdagdhapakṣaḥ patito vindhye 'haṃ vānarottamāḥ aham asmin vasan bhrātuḥ pravṛttiṃ nopalakṣaye
+
+**4.57.8**
+
+jaṭāyuṣas tv evam ukto bhrātrā saṃpātinā tadā yuvarājo mahāprājñaḥ pratyuvācāṅgadas tadā
+
+**4.57.9**
+
+jaṭāyuṣo yadi bhrātā śrutaṃ te gaditaṃ mayā ākhyāhi yadi jānāsi nilayaṃ tasya rakṣasaḥ
+
+**4.57.10**
+
+adīrghadarśinaṃ taṃ vā rāvaṇaṃ rākṣasādhipam antike yadi vā dūre yadi jānāsi śaṃsa naḥ
+
+**4.57.11**
+
+tato 'bravīn mahātejā jyeṣṭho bhrātā jaṭāyuṣaḥ ātmānurūpaṃ vacanaṃ vānarān saṃpraharṣayan
+
+**4.57.12**
+
+nirdagdhapakṣo gṛdhro 'haṃ gatavīryaḥ plavaṃgamāḥ vāṅmātreṇa tu rāmasya kariṣye sāhyam uttamam
+
+**4.57.13**
+
+jānāmi vāruṇāl lokān viṣṇos traivikramān api devāsuravimardāṃś ca amṛtasya ca manthanam
+
+**4.57.14**
+
+rāmasya yad idaṃ kāryaṃ kartavyaṃ prathamaṃ mayā jarayā ca hṛtaṃ tejaḥ prāṇāś ca śithilā mama
+
+**4.57.15**
+
+taruṇī rūpasaṃpannā sarvābharaṇabhūṣitā hriyamāṇā mayā dṛṣṭā rāvaṇena durātmanā
+
+**4.57.16**
+
+krośantī rāma rāmeti lakṣmaṇeti ca bhāminī bhūṣaṇāny apavidhyantī gātrāṇi ca vidhunvatī
+
+**4.57.17**
+
+sūryaprabheva śailāgre tasyāḥ kauśeyam uttamam asite rākṣase bhāti yathā vā taḍidambude
+
+**4.57.18**
+
+tāṃ tu sītām ahaṃ manye rāmasya parikīrtanāt śrūyatāṃ me kathayato nilayaṃ tasya rakṣasaḥ
+
+**4.57.19**
+
+putro viśravasaḥ sākṣād bhrātā vaiśravaṇasya ca adhyāste nagarīṃ laṅkāṃ rāvaṇo nāma rākasaḥ
+
+**4.57.20**
+
+ito dvīpe samudrasya saṃpūrṇe śatayojane tasmiṃl laṅkā purī ramyā nirmitā viśvakarmaṇā
+
+**4.57.21**
+
+tasyāṃ vasati vaidehī dīnā kauśeyavāsinī rāvaṇāntaḥpure ruddhā rākṣasībhiḥ surakṣitā
+
+**4.57.22**
+
+janakasyātmajāṃ rājñas tasyāṃ drakṣyatha maithilīm laṅkāyām atha guptāyāṃ sāgareṇa samantataḥ
+
+**4.57.23**
+
+saṃprāpya sāgarasyāntaṃ saṃpūrṇaṃ śatayojanam āsādya dakṣiṇaṃ kūlaṃ tato drakṣyatha rāvaṇam
+
+**4.57.24**
+
+tatraiva tvaritāḥ kṣipraṃ vikramadhvaṃ plavaṃgamāḥ jñānena khalu paśyāmi dṛṣṭvā pratyāgamiṣyatha
+
+**4.57.25**
+
+ādyaḥ panthāḥ kuliṅgānāṃ ye cānye dhānyajīvinaḥ dvitīyo balibhojānāṃ ye ca vṛkṣaphalāśinaḥ
+
+**4.57.26**
+
+bhāsās tṛtīyaṃ gacchanti krauñcāś ca kuraraiḥ saha śyenāś caturthaṃ gacchanti gṛdhrā gacchanti pañcamam
+
+**4.57.27**
+
+balavīryopapannānāṃ rūpayauvanaśālinām ṣaṣṭhas tu panthā haṃsānāṃ vainateyagatiḥ parā vainateyāc ca no janma sarveṣāṃ vānararṣabhāḥ
+
+**4.57.28**
+
+garhitaṃ tu kṛtaṃ karma yena sma piśitāśanāḥ ihastho 'haṃ prapaśyāmi rāvaṇaṃ jānakīṃ tathā
+
+**4.57.29**
+
+asmākam api sauvarṇaṃ divyaṃ cakṣurbalaṃ tathā tasmād āhāravīryeṇa nisargeṇa ca vānarāḥ āyojanaśatāt sāgrād vayaṃ paśyāma nityaśaḥ
+
+**4.57.30**
+
+asmākaṃ vihitā vṛttir nisārgeṇa ca dūrataḥ vihitā pādamūle tu vṛttiś caraṇayodhinām
+
+**4.57.31**
+
+upāyo dṛśyatāṃ kaś cil laṅghane lavaṇāmbhasaḥ abhigamya tu vaidehīṃ samṛddhārthā gamiṣyatha
+
+**4.57.32**
+
+samudraṃ netum icchāmi bhavadbhir varuṇālayam pradāsyāmy udakaṃ bhrātuḥ svargatasya mahātmanaḥ
+
+**4.57.33**
+
+tato nītvā tu taṃ deśaṃ tīre nadanadīpateḥ nirdagdhapakṣaṃ saṃpātiṃ vānarāḥ sumahaujasaḥ
+
+**4.57.34**
+
+punaḥ pratyānayitvā vai taṃ deśaṃ patageśvaram babhūvur vānarā hṛṣṭāḥ pravṛttim upalabhya te
+
+**4.58.1**
+
+tatas tad amṛtāsvādaṃ gṛdhrarājena bhāṣitam niśamya vadato hṛṣṭās te vacaḥ plavagarṣabhāḥ
+
+**4.58.2**
+
+jāmbavān vai hariśreṣṭhaḥ saha sarvaiḥ plavaṃgamaiḥ bhūtalāt sahasotthāya gṛdhrarājānam abravīt
+
+**4.58.3**
+
+kva sītā kena vā dṛṣṭā ko vā harati maithilīm tad ākhyātu bhavān sarvaṃ gatir bhava vanaukasām
+
+**4.58.4**
+
+ko dāśarathibāṇānāṃ vajraveganipātinām svayaṃ lakṣmaṇam uktānāṃ na cintayati vikramam
+
+**4.58.5**
+
+sa harīn prītisaṃyuktān sītā śrutisamāhitān punar āśvāsayan prīta idaṃ vacanam abravīt
+
+**4.58.6**
+
+śrūyatām iha vaidehyā yathā me haraṇaṃ śrutam yena cāpi mamākhyātaṃ yatra cāyatalocanā
+
+**4.58.7**
+
+aham asmin girau durge bahuyojanam āyate cirān nipatito vṛddhaḥ kṣīṇaprāṇaparākramaḥ
+
+**4.58.8**
+
+taṃ mām evaṃgataṃ putraḥ supārśvo nāma nāmataḥ āhāreṇa yathākālaṃ bibharti patatāṃ varaḥ
+
+**4.58.9**
+
+tīkṣṇakāmās tu gandharvās tīkṣṇakopā bhujaṃgamāḥ mṛgāṇāṃ tu bhayaṃ tīkṣṇaṃ tatas tīkṣṇakṣudhā vayam
+
+**4.58.10**
+
+sa kadā cit kṣudhārtasya mama cāhārakāṅkṣiṇaḥ gatasūryo 'hani prāpto mama putro hy anāmiṣaḥ
+
+**4.58.11**
+
+sa mayā vṛddhabhāvāc ca kopāc ca paribhartsitaḥ kṣutpipāsā parītena kumāraḥ patatāṃ varaḥ
+
+**4.58.12**
+
+sa mamāhārasaṃrodhāt pīḍitaḥ prītivardhanaḥ anumānya yathātattvam idaṃ vacanam abravīt
+
+**4.58.13**
+
+ahaṃ tāta yathākālam āmiṣārthī kham āplutaḥ mahendrasya girer dvāram āvṛtya ca samāsthitaḥ
+
+**4.58.14**
+
+tatra sattvasahasrāṇāṃ sāgarāntaracāriṇām panthānam eko 'dhyavasaṃ saṃniroddhum avāṅmukhaḥ
+
+**4.58.15**
+
+tatra kaś cin mayā dṛṣṭaḥ sūryodayasamaprabhām striyam ādāya gacchan vai bhinnāñjanacayopamaḥ
+
+**4.58.16**
+
+so 'ham abhyavahārārthī tau dṛṣṭvā kṛtaniścayaḥ tena sāmnā vinītena panthānam abhiyācitaḥ
+
+**4.58.17**
+
+na hi sāmopapannānāṃ prahartā vidyate kva cit nīceṣv api janaḥ kaś cit kim aṅga bata madvidhaḥ
+
+**4.58.18**
+
+sa yātas tejasā vyoma saṃkṣipann iva vegataḥ athāhaṃ khe carair bhūtair abhigamya sabhājitaḥ
+
+**4.58.19**
+
+diṣṭyā jīvasi tāteti abruvan māṃ maharṣayaḥ kathaṃ cit sakalatro 'sau gatas te svasty asaṃśayam
+
+**4.58.20**
+
+evam uktas tato 'haṃ taiḥ siddhaiḥ paramaśobhanaiḥ sa ca me rāvaṇo rājā rakṣasāṃ prativeditaḥ
+
+**4.58.21**
+
+haran dāśarather bhāryāṃ rāmasya janakātmajām bhraṣṭābharaṇakauśeyāṃ śokavegaparājitām
+
+**4.58.22**
+
+rāmalakṣmaṇayor nāma krośantīṃ muktamūrdhajām eṣa kālātyayas tāvad iti vākyavidāṃ varaḥ
+
+**4.58.23**
+
+etam arthaṃ samagraṃ me supārśvaḥ pratyavedayat tac chrutvāpi hi me buddhir nāsīt kā cit parākrame
+
+**4.58.24**
+
+apakṣo hi kathaṃ pakṣī karma kiṃ cid upakramet yat tu śakyaṃ mayā kartuṃ vāgbuddhiguṇavartinā
+
+**4.58.25**
+
+śrūyatāṃ tat pravakṣyāmi bhavatāṃ pauruṣāśrayam vāṅmatibhyāṃ hi sārveṣāṃ kariṣyāmi priyaṃ hi vaḥ yad dhi dāśaratheḥ kāryaṃ mama tan nātra saṃśayaḥ
+
+**4.58.26**
+
+te bhavanto matiśreṣṭhā balavanto manasvinaḥ sahitāḥ kapirājena devair api durāsadāḥ
+
+**4.58.27**
+
+rāmalakṣmaṇabāṇāś ca niśitāḥ kaṅkapatriṇaḥ trayāṇām api lokānāṃ paryāptās trāṇanigrahe
+
+**4.58.28**
+
+kāmaṃ khalu daśagrīvas tejobalasamanvitaḥ bhavatāṃ tu samarthānāṃ na kiṃ cid api duṣkaram
+
+**4.58.29**
+
+tad alaṃ kālasaṃgena kriyatāṃ buddhiniścayaḥ na hi karmasu sajjante buddhimanto bhavadvidhāḥ
+
+**4.59.1**
+
+tataḥ kṛtodakaṃ snātaṃ taṃ gṛdhraṃ hariyūthapāḥ upaviṣṭā girau durge parivārya samantataḥ
+
+**4.59.2**
+
+tam aṅgadam upāsīnaṃ taiḥ sarvair haribhir vṛtam janitapratyayo harṣāt saṃpātiḥ punar abravīt
+
+**4.59.3**
+
+kṛtvā niḥśabdam ekāgrāḥ śṛṇvantu harayo mama tattvaṃ saṃkīrtayiṣyāmi yathā jānāmi maithilīm
+
+**4.59.4**
+
+asya vindhyasya śikhare patito 'smi purā vane sūryātapaparītāṅgo nirdagdhaḥ sūryaraśmibhiḥ
+
+**4.59.5**
+
+labdhasaṃjñas tu ṣaḍrātrād vivaśo vihvalann iva vīkṣamāṇo diśaḥ sarvā nābhijānāmi kiṃ cana
+
+**4.59.6**
+
+tatas tu sāgarāñ śailān nadīḥ sarvāḥ sarāṃsi ca vanāny aṭavideśāṃś ca samīkṣya matir āgamat
+
+**4.59.7**
+
+hṛṣṭapakṣigaṇākīrṇaḥ kandarāntarakūṭavān dakṣiṇasyodadhes tīre vindhyo 'yam iti niścitaḥ
+
+**4.59.8**
+
+āsīc cātrāśramaṃ puṇyaṃ surair api supūjitam ṛṣir niśākaro nāma yasminn ugratapābhavat
+
+**4.59.9**
+
+aṣṭau varṣasahasrāṇi tenāsminn ṛṣiṇā vinā vasato mama dharmajñāḥ svargate tu niśākare
+
+**4.59.10**
+
+avatīrya ca vindhyāgrāt kṛcchreṇa viṣamāc chanaiḥ tīkṣṇadarbhāṃ vasumatīṃ duḥkhena punar āgataḥ
+
+**4.59.11**
+
+tam ṛṣiṃ draṣṭu kāmo 'smi duḥkhenābhyāgato bhṛśam jaṭāyuṣā mayā caiva bahuśo 'bhigato hi saḥ
+
+**4.59.12**
+
+tasyāśramapadābhyāśe vavur vātāḥ sugandhinaḥ vṛkṣo nāpuṣpitaḥ kaś cid aphalo vā na dṛśyate
+
+**4.59.13**
+
+upetya cāśramaṃ puṇyaṃ vṛkṣamūlam upāśritaḥ draṣṭukāmaḥ pratīkṣe ca bhagavantaṃ niśākaram
+
+**4.59.14**
+
+athāpaśyam adūrastham ṛṣiṃ jvalitatejasaṃ kṛtābhiṣekaṃ durdharṣam upāvṛttam udaṅmukham
+
+**4.59.15**
+
+tam ṛkṣāḥ sṛmarā vyāghrāḥ siṃhā nāgāḥ sarīsṛpāḥ parivāryopagacchanti dātāraṃ prāṇino yathā
+
+**4.59.16**
+
+tataḥ prāptam ṛṣiṃ jñātvā tāni sattvāni vai yayuḥ praviṣṭe rājani yathā sarvaṃ sāmātyakaṃ balam
+
+**4.59.17**
+
+ṛṣis tu dṛṣṭvā māṃ tuṣṭaḥ praviṣṭaś cāśramaṃ punaḥ muhūrtamātrān niṣkramya tataḥ kāryam apṛcchata
+
+**4.59.18**
+
+saumya vaikalyatāṃ dṛṣṭvā roṃṇāṃ te nāvagamyate agnidagdhāv imau pakṣau tvak caiva vraṇitā tava
+
+**4.59.19**
+
+dvau gṛdhrau dṛṣṭapūrvau me mātariśvasamau jave gṛdhrāṇāṃ caiva rājānau bhrātarau kāmarūpiṇau
+
+**4.59.20**
+
+jyeṣṭhas tvaṃ tu ca saṃpātir jaṭāyur anujas tava mānuṣaṃ rūpam āsthāya gṛhṇītāṃ caraṇau mama
+
+**4.59.21**
+
+kiṃ te vyādhisamutthānaṃ pakṣayoḥ patanaṃ katham daṇḍo vāyaṃ dhṛtaḥ kena sarvam ākhyāhi pṛcchataḥ
+
+**4.60.1**
+
+tatas tad dāruṇaṃ karma duṣkaraṃ sāhasāt kṛtam ācacakṣe muneḥ sarvaṃ sūryānugamanaṃ tathā
+
+**4.60.2**
+
+bhagavan vraṇayuktatvāl lajjayā cākulendriyaḥ pariśrānto na śaknomi vacanaṃ paribhāṣitum
+
+**4.60.3**
+
+ahaṃ caiva jaṭāyuś ca saṃgharṣād darpamohitau ākāśaṃ patitau vīrau jighāsantau parākramam
+
+**4.60.4**
+
+kailāsaśikhare baddhvā munīnām agrataḥ paṇam raviḥ syād anuyātavyo yāvad astaṃ mahāgirim
+
+**4.60.5**
+
+athāvāṃ yugapat prāptāv apaśyāva mahītale rathacakrapramāṇāni nagarāṇi pṛthak pṛthak
+
+**4.60.6**
+
+kva cid vāditraghoṣāṃś ca brahmaghoṣāṃś ca śuśruva gāyantīś cāṅganā bahvīḥ paśyāvo raktavāsasaḥ
+
+**4.60.7**
+
+tūrṇam utpatya cākāśam ādityapatham āsthitau āvām ālokayāvas tad vanaṃ śādvalasaṃsthitam
+
+**4.60.8**
+
+upalair iva saṃchannā dṛśyate bhūḥ śiloccayaiḥ āpagābhiś ca saṃvītā sūtrair iva vasuṃdharā
+
+**4.60.9**
+
+himavāṃś caiva vindhyaś ca meruś ca sumahān nagaḥ bhūtale saṃprakāśante nāgā iva jalāśaye
+
+**4.60.10**
+
+tīvrasvedaś ca khedaś ca bhayaṃ cāsīt tadāvayoḥ samāviśata mohaś ca mohān mūrchā ca dāruṇā
+
+**4.60.11**
+
+na dig vijñāyate yāmyā nāgenyā na ca vāruṇī yugānte niyato loko hato dagdha ivāgninā
+
+**4.60.12**
+
+yatnena mahatā bhūyo raviḥ samavalokitaḥ tulyaḥ pṛthvīpramāṇena bhāskaraḥ pratibhāti nau
+
+**4.60.13**
+
+jaṭāyur mām anāpṛcchya nipapāta mahīṃ tataḥ taṃ dṛṣṭvā tūrṇam ākāśād ātmānaṃ muktavān aham
+
+**4.60.14**
+
+pakṣibhyāṃ ca mayā gupto jaṭāyur na pradahyata pramādāt tatra nirdagdhaḥ patan vāyupathād aham
+
+**4.60.15**
+
+āśaṅke taṃ nipatitaṃ janasthāne jaṭāyuṣam ahaṃ tu patito vindhye dagdhapakṣo jaḍīkṛtaḥ
+
+**4.60.16**
+
+rājyena hīno bhrātrā ca pakṣābhyāṃ vikrameṇa ca sarvathā martum evecchan patiṣye śikharād gireḥ
+
+**4.61.1**
+
+evam uktvā muniśreṣṭham arudaṃ duḥkhito bhṛśam atha dhyātvā muhūrtaṃ tu bhagavān idam abravīt
+
+**4.61.2**
+
+pakṣau ca te prapakṣau ca punar anyau bhaviṣyataḥ cakṣuṣī caiva prāṇāś ca vikramaś ca balaṃ ca te
+
+**4.61.3**
+
+purāṇe sumahat kāryaṃ bhaviṣyaṃ hi mayā śrutam dṛṣṭaṃ me tapasā caiva śrutvā ca viditaṃ mama
+
+**4.61.4**
+
+rājā daśaratho nāma kaś cid ikṣvākunandanaḥ tasya putro mahātejā rāmo nāma bhaviṣyati
+
+**4.61.5**
+
+araṇyaṃ ca saha bhrātrā lakṣmaṇena gamiṣyati tasminn arthe niyuktaḥ san pitrā satyaparākramaḥ
+
+**4.61.6**
+
+nairṛto rāvaṇo nāma tasyā bhāryāṃ hariṣyati rākṣasendro janasthānād avadhyaḥ suradānavaiḥ
+
+**4.61.7**
+
+sā ca kāmaiḥ pralobhyantī bhakṣyair bhojyaiś ca maithilī na bhokṣyati mahābhāgā duḥkhamagnā yaśasvinī
+
+**4.61.8**
+
+paramānnaṃ tu vaidehyā jñātvā dāsyati vāsavaḥ yad annam amṛtaprakhyaṃ surāṇām api durlabham
+
+**4.61.9**
+
+tad annaṃ maithilī prāpya vijñāyendrād idaṃ tv iti agram uddhṛtya rāmāya bhūtale nirvapiṣyati
+
+**4.61.10**
+
+yadi jīvati me bhartā lakṣmaṇena saha prabhuḥ devatvaṃ gatayor vāpi tayor annam idaṃ tv iti
+
+**4.61.11**
+
+eṣyanty anveṣakās tasyā rāmadūtāḥ plavaṃgamāḥ ākhyeyā rāmamahiṣī tvayā tebhyo vihaṃgama
+
+**4.61.12**
+
+sarvathā tu na gantavyam īdṛśaḥ kva gamiṣyasi deśakālau pratīkṣasva pakṣau tvaṃ pratipatsyase
+
+**4.61.13**
+
+utsaheyam ahaṃ kartum adyaiva tvāṃ sapakṣakam ihasthas tvaṃ tu lokānāṃ hitaṃ kāryaṃ kariṣyasi
+
+**4.61.14**
+
+tvayāpi khalu tat kāryaṃ tayoś ca nṛpaputrayoḥ brāhmaṇānāṃ surāṇāṃ ca munīnāṃ vāsavasya ca
+
+**4.61.15**
+
+icchāmy aham api draṣṭuṃ bhrātaru rāmalakṣmaṇau necche ciraṃ dhārayituṃ prāṇāṃs tyakṣye kalevaram
+
+**4.62.1**
+
+etair anyaiś ca bahubhir vākyair vākyaviśāradaḥ māṃ praśasyābhyanujñāpya praviṣṭaḥ sa svam āśramam
+
+**4.62.2**
+
+kandarāt tu visarpitvā parvatasya śanaiḥ śanaiḥ ahaṃ vindhyaṃ samāruhya bhavataḥ pratipālaye
+
+**4.62.3**
+
+adya tv etasya kālasya sāgraṃ varṣaśataṃ gatam deśakālapratīkṣo 'smi hṛdi kṛtvā muner vacaḥ
+
+**4.62.4**
+
+mahāprasthānam āsādya svargate tu niśākare māṃ nirdahati saṃtāpo vitarkair bahubhir vṛtam
+
+**4.62.5**
+
+utthitāṃ maraṇe buddhiṃ muni vākyair nivartaye buddhir yā tena me dattā prāṇasaṃrakṣaṇāya tu sā me 'panayate duḥkhaṃ dīptevāgniśikhā tamaḥ
+
+**4.62.6**
+
+budhyatā ca mayā vīryaṃ rāvaṇasya durātmanaḥ putraḥ saṃtarjito vāgbhir na trātā maithilī katham
+
+**4.62.7**
+
+tasyā vilapitaṃ śrutvā tau ca sītā vinākṛtau na me daśarathasnehāt putreṇotpāditaṃ priyam
+
+**4.62.8**
+
+tasya tv evaṃ bruvāṇasya saṃpāter vānaraiḥ saha utpetatus tadā pakṣau samakṣaṃ vanacāriṇām
+
+**4.62.9**
+
+sa dṛṣṭvā svāṃ tanuṃ pakṣair udgatair aruṇacchadaiḥ praharṣam atulaṃ lebhe vānarāṃś cedam abravīt
+
+**4.62.10**
+
+niśākarasya maharṣeḥ prabhāvād amitātmanaḥ ādityaraśminirdagdhau pakṣau me punar utthitau
+
+**4.62.11**
+
+yauvane vartamānasya mamāsīd yaḥ parākramaḥ tam evādyāvagacchāmi balaṃ pauruṣam eva ca
+
+**4.62.12**
+
+sarvathā kriyatāṃ yatnaḥ sītām adhigamiṣyatha pakṣalābho mamāyaṃ vaḥ siddhipratyaya kārakaḥ
+
+**4.62.13**
+
+ity uktvā tān harīn sarvān saṃpātiḥ patatāṃ varaḥ utpapāta gireḥ śṛṅgāj jijñāsuḥ khagamo gatim
+
+**4.62.14**
+
+tasya tad vacanaṃ śrutvā prītisaṃhṛṣṭamānasāḥ babhūvur hariśārdūlā vikramābhyudayonmukhāḥ
+
+**4.62.15**
+
+atha pavanasamānavikramāḥ plavagavarāḥ pratilabdha pauruṣāḥ abhijidabhimukhāṃ diśaṃ yayur janakasutā parimārgaṇonmukhāḥ
+
+**4.63.1**
+
+ākhyātā gṛdhrarājena samutpatya plavaṃgamāḥ saṃgatāḥ prītisaṃyuktā vineduḥ siṃhavikramāḥ
+
+**4.63.2**
+
+saṃpāter vacanaṃ śrutvā harayo rāvaṇakṣayam hṛṣṭāḥ sāgaram ājagmuḥ sītādarśanakāṅkṣiṇaḥ
+
+**4.63.3**
+
+abhikramya tu taṃ deśaṃ dadṛśur bhīmavikramāḥ kṛtsnaṃ lokasya mahataḥ pratibimbam iva sthitam
+
+**4.63.4**
+
+dakṣiṇasya samudrasya samāsādyottarāṃ diśam saṃniveśaṃ tataś cakruḥ sahitā vānarottamāḥ
+
+**4.63.5**
+
+sattvair mahadbhir vikṛtaiḥ krīḍadbhir vividhair jale vyāttāsyaiḥ sumahākāyair ūrmibhiś ca samākulam
+
+**4.63.6**
+
+prasuptam iva cānyatra krīḍantam iva cānyataḥ kva cit parvatamātraiś ca jalarāśibhir āvṛtam
+
+**4.63.7**
+
+saṃkulaṃ dānavendraiś ca pātālatalavāsibhiḥ romaharṣakaraṃ dṛṣṭvā viṣeduḥ kapikuñjarāḥ
+
+**4.63.8**
+
+ākāśam iva duṣpāraṃ sāgaraṃ prekṣya vānarāḥ viṣeduḥ sahasā sarve kathaṃ kāryam iti bruvan
+
+**4.63.9**
+
+viṣaṇṇāṃ vāhinīṃ dṛṣṭvā sāgarasya nirīkṣaṇāt āśvāsayām āsa harīn bhayārtān harisattamaḥ
+
+**4.63.10**
+
+na niṣādena naḥ kāryaṃ viṣādo doṣavattaraḥ viṣādo hanti puruṣaṃ bālaṃ kruddha ivoragaḥ
+
+**4.63.11**
+
+viṣādo 'yaṃ prasahate vikrame paryupasthite tejasā tasya hīnasya puruṣārtho na sidhyati
+
+**4.63.12**
+
+tasyāṃ rātryāṃ vyatītāyām aṅgado vānaraiḥ saha harivṛddhaiḥ samāgamya punar mantram amantrayat
+
+**4.63.13**
+
+sā vānarāṇāṃ dhvajinī parivāryāṅgadaṃ babhau vāsavaṃ parivāryeva marutāṃ vāhinī sthitā
+
+**4.63.14**
+
+ko 'nyas tāṃ vānarīṃ senāṃ śaktaḥ stambhayituṃ bhavet anyatra vālitanayād anyatra ca hanūmataḥ
+
+**4.63.15**
+
+tatas tān harivṛddhāṃś ca tac ca sainyam ariṃdamaḥ anumānyāṅgadaḥ śrīmān vākyam arthavad abravīt
+
+**4.63.16**
+
+ka idānīṃ mahātejā laṅghayiṣyati sāgaram kaḥ kariṣyati sugrīvaṃ satyasaṃdham ariṃdamam
+
+**4.63.17**
+
+ko vīro yojanaśataṃ laṅghayeta plavagarṣabhāḥ imāṃś ca yūthapān sarvān mocayet ko mahābhayāt
+
+**4.63.18**
+
+kasya prasādād dārāṃś ca putrāṃś caiva gṛhāṇi ca ito nivṛttāḥ paśyema siddhārthāḥ sukhino vayam
+
+**4.63.19**
+
+kasya prasādād rāmaṃ ca lakṣmaṇaṃ ca mahābalam abhigacchema saṃhṛṣṭāḥ sugrīvaṃ ca mahābalam
+
+**4.63.20**
+
+yadi kaś cit samartho vaḥ sāgaraplavane hariḥ sa dadātv iha naḥ śīghraṃ puṇyām abhayadakṣiṇām
+
+**4.63.21**
+
+aṅgadasya vacaḥ śrutvā na kaś cit kiṃ cid abravīt stimitevābhavat sarvā sā tatra harivāhinī
+
+**4.63.22**
+
+punar evāṅgadaḥ prāha tān harīn harisattamaḥ sarve balavatāṃ śreṣṭhā bhavanto dṛḍhavikramāḥ
+
+**4.63.23**
+
+vyapadeśya kule jātāḥ pūjitāś cāpy abhīkṣṇaśaḥ na hi vo gamane saṃgaḥ kadā cid api kasya cit
+
+**4.63.24**
+
+bruvadhvaṃ yasya yā śaktir gamane plavagarṣabhāḥ
+
+**4.64.1**
+
+tato 'ṅgadavacaḥ śrutvā sarve te vānarottamāḥ svaṃ svaṃ gatau samutsāham āhus tatra yathākramam
+
+**4.64.2**
+
+gajo gavākṣo gavayaḥ śarabho gandhamādanaḥ maindaś ca dvividaś caiva suṣeṇo jāmbavāṃs tathā
+
+**4.64.3**
+
+ābabhāṣe gajas tatra plaveyaṃ daśayojanam gavākṣo yojanāny āha gamiṣyāmīti viṃśatim
+
+**4.64.4**
+
+gavayo vānaras tatra vānarāṃs tān uvāca ha triṃśataṃ tu gamiṣyāmi yojanānāṃ plavaṃgamāḥ
+
+**4.64.5**
+
+śarabho vānaras tatra vānarāṃs tān uvāca ha catvāriṃśad gamiṣyāmi yojanānāṃ na saṃśayaḥ
+
+**4.64.6**
+
+vānarāṃs tu mahātejā abravīd gandhamādanaḥ yojanānāṃ gamiṣyāmi pañcāśat tu na saṃśayaḥ
+
+**4.64.7**
+
+maindas tu vānaras tatra vānarāṃs tān uvāca ha yojanānāṃ paraṃ ṣaṣṭim ahaṃ plavitum utsahe
+
+**4.64.8**
+
+tatas tatra mahātejā dvividaḥ pratyabhāṣata gamiṣyāmi na saṃdehaḥ saptatiṃ yojanāny aham
+
+**4.64.9**
+
+suṣeṇas tu hariśreṣṭhaḥ proktavān kapisattamān aśītiṃ yojanānāṃ tu plaveyaṃ plavagarṣabhāḥ
+
+**4.64.10**
+
+teṣāṃ kathayatāṃ tatra sarvāṃs tān anumānya ca tato vṛddhatamas teṣāṃ jāmbavān pratyabhāṣata
+
+**4.64.11**
+
+pūrvam asmākam apy āsīt kaś cid gatiparākramaḥ te vayaṃ vayasaḥ pāram anuprāptāḥ sma sāmpratam
+
+**4.64.12**
+
+kiṃ tu naivaṃ gate śakyam idaṃ kāryam upekṣitum yad arthaṃ kapirājaś ca rāmaś ca kṛtaniścayau
+
+**4.64.13**
+
+sāmprataṃ kālabhedena yā gatis tāṃ nibodhata navatiṃ yojanānāṃ tu gamiṣyāmi na saṃśayaḥ
+
+**4.64.14**
+
+tāṃś ca sarvān hariśreṣṭhāñ jāmbavān punar abravīt na khalv etāvad evāsīd gamane me parākramaḥ
+
+**4.64.15**
+
+mayā mahābalaiś caiva yajñe viṣṇuḥ sanātanaḥ pradakṣiṇīkṛtaḥ pūrvaṃ kramamāṇas trivikramaḥ
+
+**4.64.16**
+
+sa idānīm ahaṃ vṛddhaḥ plavane mandavikramaḥ yauvane ca tadāsīn me balam apratimaṃ paraiḥ
+
+**4.64.17**
+
+saṃpraty etāvatīṃ śaktiṃ gamane tarkayāmy aham naitāvatā ca saṃsiddhiḥ kāryasyāsya bhaviṣyati
+
+**4.64.18**
+
+athottaram udārārtham abravīd aṅgadas tadā anumānya mahāprājño jāmbavantaṃ mahākapim
+
+**4.64.19**
+
+aham etad gamiṣyāmi yojanānāṃ śataṃ mahat nivartane tu me śaktis syān na veti na niścitam
+
+**4.64.20**
+
+tam uvāca hariśreṣṭho jāmbavān vākyakovidaḥ jñāyate gamane śaktis tava haryṛkṣasattama
+
+**4.64.21**
+
+kāmaṃ śatasahasraṃ vā na hy eṣa vidhir ucyate yojanānāṃ bhavāñ śakto gantuṃ pratinivartitum
+
+**4.64.22**
+
+na hi preṣayitā tata svāmī preṣyaḥ kathaṃ cana bhavatāyaṃ janaḥ sarvaḥ preṣyaḥ plavagasattama
+
+**4.64.23**
+
+bhavān kalatram asmākaṃ svāmibhāve vyavasthitaḥ svāmī kalatraṃ sainyasya gatir eṣā paraṃtapa
+
+**4.64.24**
+
+tasmāt kalatravat tāta pratipālyaḥ sadā bhavān api caitasya kāryasya bhavān mūlam ariṃdama
+
+**4.64.25**
+
+mūlam arthasya saṃrakṣyam eṣa kāryavidāṃ nayaḥ mūle hi sati sidhyanti guṇāḥ puṣpaphalādayaḥ
+
+**4.64.26**
+
+tad bhavān asyā kāryasya sādhane satyavikramaḥ buddhivikramasaṃpanno hetur atra paraṃtapaḥ
+
+**4.64.27**
+
+guruś ca guruputraś ca tvaṃ hi naḥ kapisattama bhavantam āśritya vayaṃ samarthā hy arthasādhane
+
+**4.64.28**
+
+uktavākyaṃ mahāprājñaṃ jāmbavantaṃ mahākapiḥ pratyuvācottaraṃ vākyaṃ vālisūnur athāṅgadaḥ
+
+**4.64.29**
+
+yadi nāhaṃ gamiṣyāmi nānyo vānarapuṃgavaḥ punaḥ khalv idam asmābhiḥ kāryaṃ prāyopaveśanam
+
+**4.64.30**
+
+na hy akṛtvā haripateḥ saṃdeśaṃ tasya dhīmataḥ tatrāpi gatvā prāṇānāṃ paśyāmi parirakṣaṇam
+
+**4.64.31**
+
+sa hi prasāde cātyarthaṃ kope ca harir īśvaraḥ atītya tasya saṃdeśaṃ vināśo gamane bhavet
+
+**4.64.32**
+
+tad yathā hy asya kāryasya na bhavaty anyathā gatiḥ tad bhavān eva dṛṣṭārthaḥ saṃcintayitum arhati
+
+**4.64.33**
+
+so 'ṅgadena tadā vīraḥ pratyuktaḥ plavagarṣabhaḥ jāmbavān uttaraṃ vākyaṃ provācedaṃ tato 'ṅgadam
+
+**4.64.34**
+
+asya te vīra kāryasya na kiṃ cit parihīyate eṣa saṃcodayāmy enaṃ yaḥ kāryaṃ sādhayiṣyati
+
+**4.64.35**
+
+tataḥ pratītaṃ plavatāṃ variṣṭham ekāntam āśritya sukhopaviṣṭam saṃcodayām āsa haripravīro haripravīraṃ hanumantam eva
+
+**4.65.1**
+
+anekaśatasāhasrīṃ viṣaṇṇāṃ harivāhinīm jāmbavān samudīkṣyaivaṃ hanumantam athābravīt
+
+**4.65.2**
+
+vīra vānaralokasya sarvaśāstravidāṃ vara tūṣṇīm ekāntam āśritya hanuman kiṃ na jalpasi
+
+**4.65.3**
+
+hanuman harirājasya sugrīvasya samo hy asi rāmalakṣmaṇayoś cāpi tejasā ca balena ca
+
+**4.65.4**
+
+ariṣṭaneminaḥ putrau vainateyo mahābalaḥ garutmān iva vikhyāta uttamaḥ sarvapakṣiṇām
+
+**4.65.5**
+
+bahuśo hi mayā dṛṣṭaḥ sāgare sa mahābalaḥ bhujagān uddharan pakṣī mahāvego mahāyaśāḥ
+
+**4.65.6**
+
+pakṣayor yad balaṃ tasya tāvad bhujabalaṃ tava vikramaś cāpi vegaś ca na te tenāpahīyate
+
+**4.65.7**
+
+balaṃ buddhiś ca tejaś ca sattvaṃ ca harisattama viśiṣṭaṃ sarvabhūteṣu kim ātmānaṃ na budhyase
+
+**4.65.8**
+
+apsarāpsarasāṃ śreṣṭhā vikhyātā puñjikasthalā ajñaneti parikhyātā patnī kesariṇo hareḥ
+
+**4.65.9**
+
+abhiśāpād abhūt tāta vānarī kāmarūpiṇī duhitā vānarendrasya kuñjarasya mahātmanaḥ
+
+**4.65.10**
+
+kapitve cārusarvāṅgī kadā cit kāmarūpiṇī mānuṣaṃ vigrahaṃ kṛtvā yauvanottamaśālinī
+
+**4.65.11**
+
+acarat parvatasyāgre prāvṛḍambudasaṃnibhe vicitramālyābharaṇā mahārhakṣaumavāsinī
+
+**4.65.12**
+
+tasyā vastraṃ viśālākṣyāḥ pītaṃ raktadaśaṃ śubham sthitāyāḥ parvatasyāgre māruto 'paharac chanaiḥ
+
+**4.65.13**
+
+sa dadarśa tatas tasyā vṛttāv ūrū susaṃhatau stanau ca pīnau sahitau sujātaṃ cāru cānanam
+
+**4.65.14**
+
+tāṃ viśālāyataśroṇīṃ tanumadhyāṃ yaśasvinīm dṛṣṭvaiva śubhasarvāgnīṃ pavanaḥ kāmamohitaḥ
+
+**4.65.15**
+
+sa tāṃ bhujābhyāṃ pīnābhyāṃ paryaṣvajata mārutaḥ manmathāviṣṭasarvāṅgo gatātmā tām aninditām
+
+**4.65.16**
+
+sā tu tatraiva saṃbhrāntā suvṛttā vākyam abravīt ekapatnīvratam idaṃ ko nāśayitum icchati
+
+**4.65.17**
+
+añjanāyā vacaḥ śrutvā mārutaḥ pratyabhāṣata na tvāṃ hiṃsāmi suśroṇi mā bhūt te subhage bhayam
+
+**4.65.18**
+
+manasāsmi gato yat tvāṃ pariṣvajya yaśasvini vīryavān buddhisaṃpannaḥ putras tava bhaviṣyati
+
+**4.65.19**
+
+abhyutthitaṃ tataḥ sūryaṃ bālo dṛṣṭvā mahāvane phalaṃ ceti jighṛkṣus tvam utplutyābhyapato divam
+
+**4.65.20**
+
+śatāni trīṇi gatvātha yojanānāṃ mahākape tejasā tasya nirdhūto na viṣādaṃ tato gataḥ
+
+**4.65.21**
+
+tāvad āpatatas tūrṇam antarikṣaṃ mahākape kṣiptam indreṇa te vajraṃ krodhāviṣṭena dhīmatā
+
+**4.65.22**
+
+tataḥ śailāgraśikhare vāmo hanur abhajyata tato hi nāmadheyaṃ te hanumān iti kīrtyate
+
+**4.65.23**
+
+tatas tvāṃ nihataṃ dṛṣṭvā vāyur gandhavahaḥ svayam trailokye bhṛśasaṃkruddho na vavau vai prabhañjanaḥ
+
+**4.65.24**
+
+saṃbhrāntāś ca surāḥ sarve trailokye kṣubhite sati prasādayanti saṃkruddhaṃ mārutaṃ bhuvaneśvarāḥ
+
+**4.65.25**
+
+prasādite ca pavane brahmā tubhyaṃ varaṃ dadau aśastravadhyatāṃ tāta samare satyavikrama
+
+**4.65.26**
+
+vajrasya ca nipātena virujaṃ tvāṃ samīkṣya ca sahasranetraḥ prītātmā dadau te varam uttamam
+
+**4.65.27**
+
+svacchandataś ca maraṇaṃ te bhūyād iti vai prabho sa tvaṃ kesariṇaḥ putraḥ kṣetrajo bhīmavikramaḥ
+
+**4.65.28**
+
+mārutasyaurasaḥ putras tejasā cāpi tatsamaḥ tvaṃ hi vāyusuto vatsa plavane cāpi tatsamaḥ
+
+**4.65.29**
+
+vayam adya gataprāṇā bhavān asmāsu sāmpratam dākṣyavikramasaṃpannaḥ pakṣirāja ivāparaḥ
+
+**4.65.30**
+
+trivikrame mayā tāta saśailavanakānanā triḥ saptakṛtvaḥ pṛthivī parikrāntā pradakṣiṇam
+
+**4.65.31**
+
+tadā cauṣadhayo 'smābhiḥ saṃcitā devaśāsanāt niṣpannam amṛtaṃ yābhis tadāsīn no mahad balam
+
+**4.65.32**
+
+sa idānīm ahaṃ vṛddhaḥ parihīnaparākramaḥ sāmprataṃ kālam asmākaṃ bhavān sarvaguṇānvitaḥ
+
+**4.65.33**
+
+tad vijṛmbhasva vikrāntaḥ plavatām uttamo hy asi tvadvīryaṃ draṣṭukāmeyaṃ sarvā vānaravāhinī
+
+**4.65.34**
+
+uttiṣṭha hariśārdūla laṅghayasva mahārṇavam parā hi sarvabhūtānāṃ hanuman yā gatis tava
+
+**4.65.35**
+
+viṣāṇṇā harayaḥ sarve hanuman kim upekṣase vikramasva mahāvego viṣṇus trīn vikramān iva
+
+**4.65.36**
+
+tatas tu vai jāmbavatābhicoditaḥ pratītavegaḥ pavanātmajaḥ kapiḥ praharṣayaṃs tāṃ harivīra vāhinīṃ cakāra rūpaṃ mahad ātmanas tadā
+
+**4.66.1**
+
+saṃstūyamāno hanumān vyavardhata mahābalaḥ samāvidhya ca lāṅgūlaṃ harṣāc ca balam eyivān
+
+**4.66.2**
+
+tasya saṃstūyamānasya sarvair vānarapuṃgavaiḥ tejasāpūryamāṇasya rūpam āsīd anuttamam
+
+**4.66.3**
+
+yathā vijṛmbhate siṃho vivṛddho girigahvare mārutasyaurasaḥ putras tathā saṃprati jṛmbhate
+
+**4.66.4**
+
+aśobhata mukhaṃ tasya jṛmbhamāṇasya dhīmataḥ ambarīṣopamaṃ dīptaṃ vidhūma iva pāvakaḥ
+
+**4.66.5**
+
+harīṇām utthito madhyāt saṃprahṛṣṭatanūruhaḥ abhivādya harīn vṛddhān hanumān idam abravīt
+
+**4.66.6**
+
+arujan parvatāgrāṇi hutāśanasakho 'nilaḥ balavān aprameyaś ca vāyur ākāśagocaraḥ
+
+**4.66.7**
+
+tasyāhaṃ śīghravegasya śīghragasya mahātmanaḥ mārutasyaurasaḥ putraḥ plavane nāsti me samaḥ
+
+**4.66.8**
+
+utsaheyaṃ hi vistīrṇam ālikhantam ivāmbaram meruṃ girim asaṃgena parigantuṃ sahasraśaḥ
+
+**4.66.9**
+
+bāhuvegapraṇunnena sāgareṇāham utsahe samāplāvayituṃ lokaṃ saparvatanadīhradam
+
+**4.66.10**
+
+mamorujaṅghāvegena bhaviṣyati samutthitaḥ saṃmūrchitamahāgrāhaḥ samudro varuṇālayaḥ
+
+**4.66.11**
+
+pannagāśanam ākāśe patantaṃ pakṣisevitam vainateyam ahaṃ śaktaḥ parigantuṃ sahasraśaḥ
+
+**4.66.12**
+
+udayāt prasthitaṃ vāpi jvalantaṃ raśmimālinam anastamitam ādityam abhigantuṃ samutsahe
+
+**4.66.13**
+
+tato bhūmim asaṃspṛśya punar āgantum utsahe pravegenaiva mahatā bhīmena plavagarṣabhāḥ
+
+**4.66.14**
+
+utsaheyam atikrāntuṃ sarvān ākāśagocarān sāgaraṃ kṣobhayiṣyāmi dārayiṣyāmi medinīm
+
+**4.66.15**
+
+parvatān kampayiṣyāmi plavamānaḥ plavaṃgamāḥ hariṣye coruvegena plavamāno mahārṇavam
+
+**4.66.16**
+
+latānāṃ vīrudhāṃ puṣpaṃ pādapānāṃ ca sarvaśaḥ anuyāsyati mām adya plavamānaṃ vihāyasā bhaviṣyati hi me panthāḥ svāteḥ panthā ivāmbare
+
+**4.66.17**
+
+carantaṃ ghoram ākāśam utpatiṣyantam eva ca drakṣyanti nipatantaṃ ca sarvabhūtāni vānarāḥ
+
+**4.66.18**
+
+mahāmerupratīkāśaṃ māṃ drakṣyadhvaṃ plavaṃgamāḥ divam āvṛtya gacchantaṃ grasamānam ivāmbaram
+
+**4.66.19**
+
+vidhamiṣyāmi jīmūtān kampayiṣyāmi parvatān sāgaraṃ kṣobhayiṣyāmi plavamānaḥ samāhitaḥ
+
+**4.66.20**
+
+vainateyasya vā śaktir mama vā mārutasya vā ṛte suparṇarājānaṃ mārutaṃ vā mahābalam na hi bhūtaṃ prapaśyāmi yo māṃ plutam anuvrajet
+
+**4.66.21**
+
+nimeṣāntaramātreṇa nirālambhanam ambaram sahasā nipatiṣyāmi ghanād vidyud ivotthitā
+
+**4.66.22**
+
+bhaviṣyati hi me rūpaṃ plavamānasya sāgaram viṣṇoḥ prakramamāṇasya tadā trīn vikramān iva
+
+**4.66.23**
+
+buddhyā cāhaṃ prapaśyāmi manaś ceṣṭā ca me tathā ahaṃ drakṣyāmi vaidehīṃ pramodadhvaṃ plavaṃgamāḥ
+
+**4.66.24**
+
+mārutasya samo vege garuḍasya samo jave ayutaṃ yojanānāṃ tu gamiṣyāmīti me matiḥ
+
+**4.66.25**
+
+vāsavasya savajrasya brahmaṇo vā svayambhuvaḥ vikramya sahasā hastād amṛtaṃ tad ihānaye laṅkāṃ vāpi samutkṣipya gaccheyam iti me matiḥ
+
+**4.66.26**
+
+tam evaṃ vānaraśreṣṭhaṃ garjantam amitaujasaṃ uvāca parisaṃhṛṣṭo jāmbavān harisattamaḥ
+
+**4.66.27**
+
+vīra kesariṇaḥ putra vegavan mārutātmaja jñātīnāṃ vipulaṃ śokas tvayā tāta praṇāśitaḥ
+
+**4.66.28**
+
+tava kalyāṇarucayaḥ kapimukhyāḥ samāgatāḥ maṅgalaṃ kāryasiddhyarthaṃ kariṣyanti samāhitāḥ
+
+**4.66.29**
+
+ṛṣīṇāṃ ca prasādena kapivṛddhamatena ca gurūṇāṃ ca prasādena plavasva tvaṃ mahārṇavam
+
+**4.66.30**
+
+sthāsyāmaś caikapādena yāvadāgamanaṃ tava tvadgatāni ca sarveṣāṃ jīvitāni vanaukasām
+
+**4.66.31**
+
+tatas tu hariśārdūlas tān uvāca vanaukasaḥ neyaṃ mama mahī vegaṃ plavane dhārayiṣyati
+
+**4.66.32**
+
+etāni hi nagasyāsya śilāsaṃkaṭaśālinaḥ śikharāṇi mahendrasya sthirāṇi ca mahānti ca
+
+**4.66.33**
+
+etāni mama niṣpeṣaṃ pādayoḥ patatāṃ varāḥ plavato dhārayiṣyanti yojanānām itaḥ śatam
+
+**4.66.34**
+
+tatas tu mārutaprakhyaḥ sa harir mārutātmajaḥ āruroha nagaśreṣṭhaṃ mahendram arimardanaḥ
+
+**4.66.35**
+
+vṛtaṃ nānāvidhair vṛkṣair mṛgasevitaśādvalam latākusumasaṃbādhaṃ nityapuṣpaphaladrumam
+
+**4.66.36**
+
+siṃhaśārdūlacaritaṃ mattamātaṅgasevitam mattadvijagaṇodghuṣṭaṃ salilotpīḍasaṃkulam
+
+**4.66.37**
+
+mahadbhir ucchritaṃ śṛṅgair mahendraṃ sa mahābalaḥ vicacāra hariśreṣṭho mahendrasamavikramaḥ
+
+**4.66.38**
+
+pādābhyāṃ pīḍitas tena mahāśailo mahātmanā rarāsa siṃhābhihato mahān matta iva dvipaḥ
+
+**4.66.39**
+
+mumoca salilotpīḍān viprakīrṇaśiloccayaḥ vitrastamṛgamātaṅgaḥ prakampitamahādrumaḥ
+
+**4.66.40**
+
+nānāgandharvamithunaiḥ pānasaṃsargakarkaśaiḥ utpatadbhir vihaṃgaiś ca vidyādharagaṇair api
+
+**4.66.41**
+
+tyajyamānamahāsānuḥ saṃnilīnamahoragaḥ śailaśṛṅgaśilodghātas tadābhūt sa mahāgiriḥ
+
+**4.66.42**
+
+niḥśvasadbhis tadā tais tu bhujagair ardhaniḥsṛtaiḥ sapatāka ivābhāti sa tadā dharaṇīdharaḥ
+
+**4.66.43**
+
+ṛṣibhis trāsa saṃbhrāntais tyajyamānaḥ śiloccayaḥ sīdan mahati kāntāre sārthahīna ivādhvagaḥ
+
+**4.66.44**
+
+sa vegavān vegasamāhitātmā haripravīraḥ paravīrahantā manaḥ samādhāya mahānubhāvo jagāma laṅkāṃ manasā manasvī

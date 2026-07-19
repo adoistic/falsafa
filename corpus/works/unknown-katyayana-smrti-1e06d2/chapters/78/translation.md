@@ -40,6 +40,6 @@ If a divided man dies, in the absence of a son, the father shall take the proper
 
 For a woman who is not authorized by her father, husband, or son, whatever she does for the sake of the deceased becomes fruitless for her. // K_930 //
 
-Property without an heir goes to the king, after setting aside what is for the woman's maintenance and for funeral rites. But the property of a learned Brahmin should be given to other learned Brahmins. // K_931 //
+Property without an heir goes to the king, after setting aside what is for the woman's maintenance and for funeral rites. But the property of a learned Brāhmaṇa should be given to other learned Brāhmaṇas. // K_931 //
 
 Of reunited coparceners (*saṃsṛṣṭas*), the reunited are heirs; of separated ones, the separated. In the absence of issue, they are heirs to each other's shares. // K_932 //

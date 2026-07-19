@@ -1,0 +1,39 @@
+{
+  "work_slug": "helen-maria-williams-poems-8735a3",
+  "work_title": "Poems",
+  "chapter_number": 18,
+  "chapter_title": "PART OF AN IRREGULAR FRAGMENT.",
+  "chapter_slug": "18-part-of-an-irregular-fragment",
+  "author": "Helen Maria Williams",
+  "author_slug": "helen-maria-williams",
+  "ecpa_poem_id": "bhw18-w0170",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode",
+      "fragment"
+    ],
+    "rhyme": "irregular",
+    "metrical_pattern": "irregular",
+    "line_count": 208
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9d9a9aa3-70b2-5cf3-ada7-6086b2966017",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1356,
+      "line_count": 219,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

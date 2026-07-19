@@ -1,0 +1,44 @@
+{
+  "work_slug": "isaac-watts-poems-398499",
+  "work_title": "Poems",
+  "chapter_number": 17,
+  "chapter_title": "A Song of Praise TO GOD. PSALM C. In Trissyllable Feet.",
+  "chapter_slug": "17-a-song-of-praise-to-god-psalm-c-in-trissyllable-",
+  "author": "Isaac Watts",
+  "author_slug": "isaac-watts",
+  "ecpa_poem_id": "o4672-w0170",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "hymn"
+    ],
+    "foot": "anapaestic (˘˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "12.12.12.12",
+    "metrical_pattern": "--+|--+|--+|--+/ --+|--+|--+|--+/ --+|--+|--+|--+/ --+|--+|--+|--+/",
+    "line_count": 20
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f3090b19-5817-579d-8f55-d0edd388f987",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 197,
+      "line_count": 27,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

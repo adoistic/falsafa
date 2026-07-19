@@ -1,0 +1,48 @@
+{
+  "work_slug": "king-of-prussia-frederick-ii-poems-26b31a",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "ODE ON DEATH. WRITTEN IN FRENCH BY HIS MAJESTY THE KING OF PRUSSIA.",
+  "chapter_slug": "01-ode-on-death-written-in-french-by-his-majesty-th",
+  "author": "King of Prussia Frederick II",
+  "author_slug": "king-of-prussia-frederick-ii",
+  "ecpa_poem_id": "o4987-w0030",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "elegy",
+      "imitation",
+      "translation",
+      "paraphrase"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quintet (5 lines)",
+      "couplet (2 lines)"
+    ],
+    "rhyme": "abbaa",
+    "syllable_pattern": "8.10.8.10.12",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+|-+/",
+    "line_count": 120
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ec462ecd-b8cb-528f-b667-cd090978c381",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 926,
+      "line_count": 123,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

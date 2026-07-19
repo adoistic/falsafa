@@ -1,0 +1,44 @@
+{
+  "work_slug": "stephen-duck-poems-0c5b8a",
+  "work_title": "Poems",
+  "chapter_number": 38,
+  "chapter_title": "An EPIGRAM.",
+  "chapter_slug": "38-an-epigram",
+  "author": "Stephen Duck",
+  "author_slug": "stephen-duck",
+  "ecpa_poem_id": "o4741-w0380",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "epigram"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "8.6.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 4
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "21edc74a-36f5-5e59-a480-e1023a540042",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 23,
+      "line_count": 5,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

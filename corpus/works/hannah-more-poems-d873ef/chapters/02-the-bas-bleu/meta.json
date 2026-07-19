@@ -1,0 +1,44 @@
+{
+  "work_slug": "hannah-more-poems-d873ef",
+  "work_title": "Poems",
+  "chapter_number": 2,
+  "chapter_title": "THE BAS BLEU.",
+  "chapter_slug": "02-the-bas-bleu",
+  "author": "Hannah More",
+  "author_slug": "hannah-more",
+  "ecpa_poem_id": "o3982-w0020",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "address"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 351
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "98994b8f-5933-5c5f-97e5-352c79bff21f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2108,
+      "line_count": 352,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

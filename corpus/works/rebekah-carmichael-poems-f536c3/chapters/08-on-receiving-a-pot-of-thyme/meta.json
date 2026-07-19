@@ -1,0 +1,44 @@
+{
+  "work_slug": "rebekah-carmichael-poems-f536c3",
+  "work_title": "Poems",
+  "chapter_number": 8,
+  "chapter_title": "ON RECEIVING A POT OF THYME",
+  "chapter_slug": "08-on-receiving-a-pot-of-thyme",
+  "author": "Rebekah Carmichael",
+  "author_slug": "rebekah-carmichael",
+  "ecpa_poem_id": "prc90-w0080",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "occasional poem"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "sestet (6 lines)"
+    ],
+    "rhyme": "aabbcc",
+    "syllable_pattern": "10.10.10.10.10.10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/",
+    "line_count": 6
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "227f1792-e9ac-5be8-a114-6f4e08d8da35",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 56,
+      "line_count": 7,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

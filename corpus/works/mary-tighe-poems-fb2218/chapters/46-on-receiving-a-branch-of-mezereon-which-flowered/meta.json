@@ -1,0 +1,44 @@
+{
+  "work_slug": "mary-tighe-poems-fb2218",
+  "work_title": "Poems",
+  "chapter_number": 46,
+  "chapter_title": "On Receiving a Branch of Mezereon Which Flowered at Woodstock. DECEMBER, 1809.",
+  "chapter_slug": "46-on-receiving-a-branch-of-mezereon-which-flowered",
+  "author": "Mary Tighe",
+  "author_slug": "mary-tighe",
+  "ecpa_poem_id": "pmt18-w0410",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "occasional poem"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "octet (8 lines)"
+    ],
+    "rhyme": "ababcdcd",
+    "syllable_pattern": "8.6.8.6.8.6.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 48
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "06ef9448-7969-554a-beae-df328c824e53",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 283,
+      "line_count": 50,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

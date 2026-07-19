@@ -1,0 +1,40 @@
+{
+  "work_slug": "james-thomson-poems-24b480",
+  "work_title": "Poems",
+  "chapter_number": 3,
+  "chapter_title": "[The Seasons:] AUTUMN.",
+  "chapter_slug": "03-the-seasons-autumn",
+  "author": "James Thomson",
+  "author_slug": "james-thomson",
+  "ecpa_poem_id": "o3549-w0030",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "blank verse"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 1268
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9a6be8d8-2dd1-5ca7-a887-02ef0fa7c5b5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 9232,
+      "line_count": 1269,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

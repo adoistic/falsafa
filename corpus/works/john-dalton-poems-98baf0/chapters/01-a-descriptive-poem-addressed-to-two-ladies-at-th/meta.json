@@ -1,0 +1,44 @@
+{
+  "work_slug": "john-dalton-poems-98baf0",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "A DESCRIPTIVE POEM: ADDRESSED TO TWO LADIES, AT THEIR RETURN FROM VIEWING THE MINES NEAR WHITEHAVEN.",
+  "chapter_slug": "01-a-descriptive-poem-addressed-to-two-ladies-at-th",
+  "author": "John Dalton",
+  "author_slug": "john-dalton",
+  "ecpa_poem_id": "o4984-w0030",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "prospect poem / topographical poem"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 331
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "45191ccf-e18f-54e8-8760-353829f80cc9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1997,
+      "line_count": 333,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "work_slug": "thomas-lisle-poems-d6a267",
+  "work_title": "Poems",
+  "chapter_number": 3,
+  "chapter_title": "The POWER of MUSIC. A SONG.",
+  "chapter_slug": "03-the-power-of-music-a-song",
+  "author": "Thomas Lisle",
+  "author_slug": "thomas-lisle",
+  "ecpa_poem_id": "o5157-w0290",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "song"
+    ],
+    "foot": "anapaestic (˘˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "12.9.12.9",
+    "metrical_pattern": "--+|--+|--+|--+/         --+|--+|--+/         --+|--+|--+|--+/         --+|--+|--+/",
+    "line_count": 16
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "cd008fc5-c55d-5056-80b6-a5c202585993",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 145,
+      "line_count": 25,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

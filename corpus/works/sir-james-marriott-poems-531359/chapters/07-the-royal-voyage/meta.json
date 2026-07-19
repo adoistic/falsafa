@@ -1,0 +1,38 @@
+{
+  "work_slug": "sir-james-marriott-poems-531359",
+  "work_title": "Poems",
+  "chapter_number": 7,
+  "chapter_title": "THE ROYAL VOYAGE.",
+  "chapter_slug": "07-the-royal-voyage",
+  "author": "Sir James Marriott",
+  "author_slug": "sir-james-marriott",
+  "ecpa_poem_id": "o4987-w0020",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "rhyme": "irregular",
+    "metrical_pattern": "irregular",
+    "line_count": 67
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5cc2c9fc-06c7-5e7a-b85d-18f40ab1a4e2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 463,
+      "line_count": 72,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

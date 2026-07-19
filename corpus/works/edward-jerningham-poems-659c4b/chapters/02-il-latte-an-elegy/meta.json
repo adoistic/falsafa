@@ -1,0 +1,45 @@
+{
+  "work_slug": "edward-jerningham-poems-659c4b",
+  "work_title": "Poems",
+  "chapter_number": 2,
+  "chapter_title": "IL LATTE: AN ELEGY.",
+  "chapter_slug": "02-il-latte-an-elegy",
+  "author": "Edward Jerningham",
+  "author_slug": "edward-jerningham",
+  "ecpa_poem_id": "o4985-w0230",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "elegy",
+      "admonition"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "10.10.10.10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/",
+    "line_count": 100
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "db21b6e0-a49f-5462-9f1d-2cef59e5d6ae",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 742,
+      "line_count": 103,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "work_slug": "assorted-eighteenth-century-poetry-353ac8",
+  "work_title": "An Assorted Collection of Eighteenth-Century Poetry",
+  "chapter_number": 187,
+  "chapter_title": "The PLEASURE of POETRY. An ODE.",
+  "chapter_slug": "187-the-pleasure-of-poetry-an-ode",
+  "author": "Robert Vansittart",
+  "author_slug": "robert-vansittart",
+  "ecpa_poem_id": "o5154-w0450",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "sestet (6 lines)"
+    ],
+    "rhyme": "ababcc",
+    "syllable_pattern": "8.8.8.8.10.12",
+    "metrical_pattern": "-+|-+|-+|-+/         -+|-+|-+|-+/         -+|-+|-+|-+/         -+|-+|-+|-+/         -+|-+|-+|-+|-+/         -+|-+|-+|-+|-+|-+/",
+    "line_count": 114
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8a1e5a5b-f991-5a6f-a3c5-e9950263844f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 790,
+      "line_count": 136,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

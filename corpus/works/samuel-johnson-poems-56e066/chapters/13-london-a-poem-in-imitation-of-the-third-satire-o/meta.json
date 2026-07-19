@@ -1,0 +1,48 @@
+{
+  "work_slug": "samuel-johnson-poems-56e066",
+  "work_title": "Poems",
+  "chapter_number": 13,
+  "chapter_title": "LONDON: A POEM, In Imitation of the Third SATIRE of JUVENAL.",
+  "chapter_slug": "13-london-a-poem-in-imitation-of-the-third-satire-o",
+  "author": "Samuel Johnson",
+  "author_slug": "samuel-johnson",
+  "ecpa_poem_id": "o5152-w0270",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "satire",
+      "imitation",
+      "translation",
+      "paraphrase"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 263
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d9ae5c4a-3399-55b8-92b3-1d0229104b4b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1982,
+      "line_count": 266,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "work_slug": "thomas-warton-poems-277148",
+  "work_title": "Poems",
+  "chapter_number": 14,
+  "chapter_title": "A PANEGYRIC on ALE.",
+  "chapter_slug": "14-a-panegyric-on-ale",
+  "author": "Thomas Warton",
+  "author_slug": "thomas-warton",
+  "ecpa_poem_id": "o5157-w0570",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "blank verse",
+      "essay"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 125
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ca44ff5e-b604-5881-95e4-02e97f4426b1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 865,
+      "line_count": 127,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

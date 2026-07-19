@@ -1,0 +1,41 @@
+{
+  "work_slug": "robert-lowth-poems-3a5966",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "THE GENEALOGY OF CHRIST, AS IT IS REPRESENTED ON THE EAST WINDOW OF WINCHESTER COLL. CHAPEL,",
+  "chapter_slug": "01-the-genealogy-of-christ-as-it-is-represented-on-",
+  "author": "Robert Lowth",
+  "author_slug": "robert-lowth",
+  "ecpa_poem_id": "o4987-w0380",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 264
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0a590ce5-55c0-5aaf-a6d6-7f0513e1f7e9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2057,
+      "line_count": 266,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

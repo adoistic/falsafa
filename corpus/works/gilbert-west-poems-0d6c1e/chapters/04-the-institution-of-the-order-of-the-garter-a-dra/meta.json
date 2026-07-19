@@ -1,0 +1,38 @@
+{
+  "work_slug": "gilbert-west-poems-0d6c1e",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "THE INSTITUTION OF THE ORDER OF THE GARTER. A Dramatic POEM.",
+  "chapter_slug": "04-the-institution-of-the-order-of-the-garter-a-dra",
+  "author": "Gilbert West",
+  "author_slug": "gilbert-west",
+  "ecpa_poem_id": "o5153-w0320",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "drama"
+    ],
+    "rhyme": "irregular",
+    "metrical_pattern": "irregular",
+    "line_count": 1378
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e6850314-a547-565c-b718-799efde5894d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 9614,
+      "line_count": 1427,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

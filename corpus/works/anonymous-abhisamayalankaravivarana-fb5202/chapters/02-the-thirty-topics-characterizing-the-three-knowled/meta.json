@@ -1,0 +1,38 @@
+{
+  "work_slug": "anonymous-abhisamayalankaravivarana-fb5202",
+  "work_title": "Abhisamayālaṅkāravivaraṇa",
+  "chapter_number": 2,
+  "chapter_title": "The Thirty Topics characterizing the Three Knowledges (first group of the Seventy)",
+  "chapter_slug": "02-the-thirty-topics-characterizing-the-three-knowled",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "f7af26a9-0bf6-50f7-85d8-02b5f901ac27",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "iast",
+      "word_count": 1135,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "44c3a23c-dbef-5822-8ebf-0eb3b12d5895",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 3012,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    }
+  ]
+}

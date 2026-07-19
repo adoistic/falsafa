@@ -1,0 +1,38 @@
+{
+  "work_slug": "adisesa-paramarthasara-67524a",
+  "work_title": "Paramārthasāra",
+  "chapter_number": 6,
+  "chapter_title": "Liberation-in-life, the liberated sage, and the fruit",
+  "chapter_slug": "06-liberation-in-life-the-liberated-sage-and-the-frui",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "9f05fedb-fa7b-5c15-a78b-c5475713bfd6",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "iast",
+      "word_count": 284,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d2c626a3-1441-57ae-bd4d-908da3b96ad2",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 805,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "work_slug": "helen-maria-williams-poems-8735a3",
+  "work_title": "Poems",
+  "chapter_number": 61,
+  "chapter_title": "EDWIN AND ELTRUDA.",
+  "chapter_slug": "61-edwin-and-eltruda",
+  "author": "Helen Maria Williams",
+  "author_slug": "helen-maria-williams",
+  "ecpa_poem_id": "o4668-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "narrative verse"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "8.6.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 492
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "553893a3-0a15-510a-b78f-145ce0ec64a2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2875,
+      "line_count": 493,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

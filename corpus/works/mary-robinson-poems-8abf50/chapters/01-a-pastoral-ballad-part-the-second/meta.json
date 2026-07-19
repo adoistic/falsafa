@@ -1,0 +1,45 @@
+{
+  "work_slug": "mary-robinson-poems-8abf50",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "A PASTORAL BALLAD. PART THE SECOND.",
+  "chapter_slug": "01-a-pastoral-ballad-part-the-second",
+  "author": "Mary Robinson",
+  "author_slug": "mary-robinson",
+  "ecpa_poem_id": "pro75-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "pastoral",
+      "ballad metre"
+    ],
+    "foot": "anapaestic (˘˘′)",
+    "footnum": "trimeter (3 feet)",
+    "stanzas": [
+      "octet (8 lines)"
+    ],
+    "rhyme": "ababcdcd",
+    "syllable_pattern": "9.9.9.9.9.9.9.9",
+    "metrical_pattern": "--+|--+|--+/ --+|--+|--+/ --+|--+|--+/ --+|--+|--+/ --+|--+|--+/ --+|--+|--+/ --+|--+|--+/ --+|--+|--+/",
+    "line_count": 96
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3d33e941-74e9-5fdb-914b-67389a472cc1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 666,
+      "line_count": 110,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

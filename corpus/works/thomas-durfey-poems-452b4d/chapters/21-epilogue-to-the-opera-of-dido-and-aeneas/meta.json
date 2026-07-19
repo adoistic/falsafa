@@ -1,0 +1,41 @@
+{
+  "work_slug": "thomas-durfey-poems-452b4d",
+  "work_title": "Poems",
+  "chapter_number": 21,
+  "chapter_title": "Epilogue to the Opera of DIDO and AENEAS,",
+  "chapter_slug": "21-epilogue-to-the-opera-of-dido-and-aeneas",
+  "author": "Thomas D'Urfey",
+  "author_slug": "thomas-durfey",
+  "ecpa_poem_id": "oau90-w0210",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 29
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a5af11e9-9385-5f07-afd6-e5499e5548c2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 266,
+      "line_count": 31,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

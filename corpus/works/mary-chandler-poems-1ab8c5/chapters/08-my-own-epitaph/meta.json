@@ -1,0 +1,44 @@
+{
+  "work_slug": "mary-chandler-poems-1ab8c5",
+  "work_title": "Poems",
+  "chapter_number": 8,
+  "chapter_title": "My Own EPITAPH.",
+  "chapter_slug": "08-my-own-epitaph",
+  "author": "Mary Chandler",
+  "author_slug": "mary-chandler",
+  "ecpa_poem_id": "pmc36-w0080",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "epitaph"
+    ],
+    "foot": "anapaestic (˘˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "12",
+    "metrical_pattern": "--+|--+|--+|--+/",
+    "line_count": 16
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "54495c82-ac4e-5cad-b491-3e2f9001e0c3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 146,
+      "line_count": 17,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

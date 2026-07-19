@@ -1,0 +1,44 @@
+{
+  "work_slug": "william-collins-poems-b390dd",
+  "work_title": "Poems",
+  "chapter_number": 17,
+  "chapter_title": "ODE, Written in the same Year.",
+  "chapter_slug": "17-ode-written-in-the-same-year",
+  "author": "William Collins",
+  "author_slug": "william-collins",
+  "ecpa_poem_id": "o5152-w0370",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "sestet (6 lines)"
+    ],
+    "rhyme": "aabbcc",
+    "syllable_pattern": "8.8.8.8.8.8",
+    "metrical_pattern": "-+|-+|-+|-+/     -+|-+|-+|-+/     -+|-+|-+|-+/     -+|-+|-+|-+/     -+|-+|-+|-+/     -+|-+|-+|-+/",
+    "line_count": 12
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6f7d3a1e-e866-5f7f-96b6-b741c91487b8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 87,
+      "line_count": 15,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

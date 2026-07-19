@@ -1,0 +1,45 @@
+{
+  "work_slug": "stephen-duck-poems-0c5b8a",
+  "work_title": "Poems",
+  "chapter_number": 37,
+  "chapter_title": "PENELOPE to ULYSSES. Paraphras'd from OVID.",
+  "chapter_slug": "37-penelope-to-ulysses-paraphrasd-from-ovid",
+  "author": "Stephen Duck",
+  "author_slug": "stephen-duck",
+  "ecpa_poem_id": "o4741-w0370",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "paraphrase"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 166
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "82f65371-6de8-54a3-8ed0-4d2f1a7debd0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1306,
+      "line_count": 168,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

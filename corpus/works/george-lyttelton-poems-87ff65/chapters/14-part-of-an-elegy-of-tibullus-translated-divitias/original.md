@@ -1,0 +1,111 @@
+---
+work_id: "87ff6539-e93c-55fe-aa26-8e57b4dcc6b7"
+work_slug: "george-lyttelton-poems-87ff65"
+work_title: Poems
+author: George Lyttelton
+author_slug: "george-lyttelton"
+ecpa_poem_id: "o5153-w0140"
+chapter_number: 14
+chapter_title: "Part of an Elegy of Tibullus, translated. (Divitias alius fulvo sibi congerat Auro.) 1729-30."
+chapter_slug: "14-part-of-an-elegy-of-tibullus-translated-divitias"
+variant_id: "45e45084-04f3-5ea8-8b7a-164eaa572880"
+content_type: original
+layout: verse
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 573
+source_url: "https://www.eighteenthcenturypoetry.org/"
+license: "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+genres:
+  - heroic couplet
+  - imitation
+  - translation
+  - paraphrase
+metrical_foot: iambic (˘′)
+metrical_count: pentameter (5 feet)
+stanza_form:
+  - couplet (2 lines)
+rhyme_scheme: aa
+syllable_pattern: 10
+---
+
+Part of an Elegy of Tibullus, translated. 
+
+(Divitias alius fulvo sibi congerat Auro.) 1729-30.
+
+By the Same.
+
+LET others heap of wealth a shining store,
+And much possessing labour still for more;
+Let them, disquieted with dire alarms,
+Aspire to win a dang'rous fame in arms:
+Me tranquil poverty shall lull to rest,
+Humbly secure and indolently blest;
+Warm'd by the blaze of my own cheerful hearth,
+I'll waste the wintry hours in social mirth;
+In summer pleas'd attend to harvest toils,
+In autumn press the vineyard's purple spoils,
+And oft to Delia in my bosom bear
+Some kid, or lamb that wants its mother's care:
+With her I'll celebrate each gladsome day,
+When swains their sportive rites to Bacchus pay:
+With her new milk on Pales' altar pour,
+And deck with ripen'd fruits Pomona's bow'r.
+At night how soothing wou'd it be to hear,
+Shelter'd and warm, the tempest whistling near;
+And while my charmer in my arms I strain,
+Slumber assisted by the beating rain!
+Ah! how much happier, than the fool who braves
+In search of wealth the black tempestuous waves!
+While I, contented with my little store,
+In tedious voyage seek no distant shore,
+But idle lolling on some shady seat,
+Near cooling fountains shun the dog-star's heat;
+For what reward so rich cou'd Fortune give
+That I by absence shou'd my Delia grieve?
+Let great Messalla shine in martial toils,
+And grace his palace with triumphal spoils;
+Me beauty holds in strong, tho' gentle chains,
+Far from tumultuous war and dusty plains.
+With thee, my love, to pass my tranquil days,
+How would I slight ambition's painful praise!
+How would I joy with thee, my love, to yoke
+The ox, and feed my solitary flock!
+On thy soft breast might I but lean my head,
+How downy shou'd I think the woodland bed!
+
+The wretch who sleeps not by his fair one's side,
+Detests the gilded couch's useless pride,
+Nor knows his weary, weeping eyes to close,
+Tho' murm'ring rills invite him to repose.
+Hard was his heart, who thee, my fair, cou'd leave
+For all the honours prosp'rous War can give;
+Tho' through the vanquish'd east he spread his fame,
+And Parthian tyrants tremble at his name;
+Tho' bright in arms, while hosts around him bleed,
+With martial pride he press'd his foaming steed.
+No pomps like these my humble vows require;
+I ask, in thy embraces to expire:
+Thee may my closing eyes in death behold!
+Thee may my fault'ring hand yet strive to hold!
+Then, Delia, then thy heart will melt in woe,
+Then o'er my breathless clay thy tears will flow;
+Thy tears will flow, for gentle is thy mind,
+Nor dost thou think it weakness to be kind.
+With thee each youth and tender maid shall join
+In grief, and mix their friendly sighs with thine;
+But ah! my Delia, I conjure thee spare
+Thy heaving breasts and loose dishevell'd hair:
+Wound not thy form; lest on th' Elysian coast
+Thy anguish shou'd disturb my peaceful ghost.
+
+But now nor death, nor parting should employ
+Our sprightly thought, or damp our bridal joy:
+We'll live, my Delia, and from life remove
+All care, all bus'ness, but delightful Love.
+Old age in vain those pleasures wou'd retrieve,
+Which youth alone can taste, alone can give;
+Then let us snatch the moment to be blest,
+This hour is Love's — be Fortune's all the rest.

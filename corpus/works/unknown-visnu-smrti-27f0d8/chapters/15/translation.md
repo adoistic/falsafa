@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 15**
+**Viṣṇu Smriti 15**
 
 Now, there are twelve kinds of sons. // Vi_15.1 //
 

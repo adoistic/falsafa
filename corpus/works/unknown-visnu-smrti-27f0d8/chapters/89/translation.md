@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 89**
+**Viṣṇu Smriti 89**
 
 The month of *Kārttika* (कार्तिक) belongs to the deity Agni. // Vi_89.1 //
 

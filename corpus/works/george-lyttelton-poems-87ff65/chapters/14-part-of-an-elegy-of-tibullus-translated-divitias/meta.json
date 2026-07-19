@@ -1,0 +1,47 @@
+{
+  "work_slug": "george-lyttelton-poems-87ff65",
+  "work_title": "Poems",
+  "chapter_number": 14,
+  "chapter_title": "Part of an Elegy of Tibullus, translated. (Divitias alius fulvo sibi congerat Auro.) 1729-30.",
+  "chapter_slug": "14-part-of-an-elegy-of-tibullus-translated-divitias",
+  "author": "George Lyttelton",
+  "author_slug": "george-lyttelton",
+  "ecpa_poem_id": "o5153-w0140",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "imitation",
+      "translation",
+      "paraphrase"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 70
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "45e45084-04f3-5ea8-8b7a-164eaa572880",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 573,
+      "line_count": 73,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

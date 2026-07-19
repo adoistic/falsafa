@@ -1,0 +1,41 @@
+{
+  "work_slug": "nahum-tate-poems-b3db78",
+  "work_title": "Poems",
+  "chapter_number": 41,
+  "chapter_title": "The Confinement.",
+  "chapter_slug": "41-the-confinement",
+  "author": "Nahum Tate",
+  "author_slug": "nahum-tate",
+  "ecpa_poem_id": "oat77-w0410",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 20
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1d0b7171-e4fd-5c32-b4b3-13080ed879a1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 156,
+      "line_count": 21,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

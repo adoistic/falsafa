@@ -1,0 +1,38 @@
+{
+  "work_slug": "lady-mary-chudleigh-poems-f0cfc5",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "On the Death of his Highness the Duke of Glocester.",
+  "chapter_slug": "01-on-the-death-of-his-highness-the-duke-of-glocest",
+  "author": "Lady Mary Chudleigh",
+  "author_slug": "lady-mary-chudleigh",
+  "ecpa_poem_id": "clc03-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "eulogy"
+    ],
+    "rhyme": "irregular",
+    "metrical_pattern": "irregular",
+    "line_count": 378
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a2894db6-596f-551f-96fa-074c8be5e688",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2753,
+      "line_count": 395,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

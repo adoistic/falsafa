@@ -1,0 +1,446 @@
+{
+  "slug": "unknown-brhaspati-smrti-0fd070",
+  "window": "01:0-245",
+  "entities": [
+    {
+      "canonical_name": "Bṛhaspati",
+      "surface_names": ["Brhaspati", "Bṛhaspati"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-64a926",
+          "quote": "The Revered Smṛti of Bṛhaspati",
+          "role": "author"
+        },
+        {
+          "paragraph_id": "p-fe7ce5",
+          "quote": "thus Bṛhaspati has declared the four topics arising from violence",
+          "role": "lawgiver"
+        }
+      ],
+      "description": "The divine sage and lawgiver to whom this Smṛti is attributed; he is both the titular authority and an occasional self-referential speaker in the text.",
+      "justification": "The text opens with his name as title-holder and closes an enumeration of legal topics with an attribution to him as the authoritative declarer."
+    },
+    {
+      "canonical_name": "Soma",
+      "surface_names": ["Soma"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-cf6fee",
+          "quote": "from Soma, Agni, the Sun, the Wind, Indra, the Lord of Wealth, the Lord of Waters, and Yama",
+          "role": "cosmological source of the king's nature"
+        }
+      ],
+      "description": "Vedic lunar deity from whom essential particles of energy were extracted to form the king.",
+      "justification": "Paragraph p-cf6fee names Soma explicitly as one of the eight divine sources from whose essence the ideal king was cosmologically constituted."
+    },
+    {
+      "canonical_name": "Agni",
+      "surface_names": ["Agni", "fire"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-cf6fee",
+          "quote": "from Soma, Agni, the Sun, the Wind, Indra, the Lord of Wealth, the Lord of Waters, and Yama",
+          "role": "cosmological source of the king's nature"
+        },
+        {
+          "paragraph_id": "p-b78f56",
+          "quote": "Gold, fire, water, and the treatises on dharma— the king should place these pure and beneficial things in the middle of the court",
+          "role": "instrument of proof"
+        }
+      ],
+      "description": "Vedic fire deity invoked as one of the divine sources of the king's essence and also as a physical element used in ordeals and court ritual.",
+      "justification": "Agni appears in two distinct roles: first as one of the eight deities whose particles formed the king (p-cf6fee), then as a ritual element placed in court for ordeals (p-b78f56)."
+    },
+    {
+      "canonical_name": "Indra",
+      "surface_names": ["Indra"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-cf6fee",
+          "quote": "from Soma, Agni, the Sun, the Wind, Indra, the Lord of Wealth, the Lord of Waters, and Yama",
+          "role": "cosmological source of the king's nature"
+        }
+      ],
+      "description": "Chief Vedic deity of storms and war, one of the eight divine sources whose essence was extracted to create the ideal king.",
+      "justification": "Paragraph p-cf6fee lists Indra explicitly among the eight deities whose essential particles constituted the form of the king."
+    },
+    {
+      "canonical_name": "Yama",
+      "surface_names": ["Yama"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-cf6fee",
+          "quote": "from Soma, Agni, the Sun, the Wind, Indra, the Lord of Wealth, the Lord of Waters, and Yama",
+          "role": "cosmological source of the king's nature"
+        },
+        {
+          "paragraph_id": "p-402a26",
+          "quote": "Just as Yama restrains both friend and foe when their time has come, so should the king restrain his subjects; this indeed is the vow of Yama",
+          "role": "normative model for the king"
+        }
+      ],
+      "description": "God of death and cosmic impartial justice, cited both as a source of the king's divine nature and as the model for the king's impartial administration of restraint.",
+      "justification": "Yama appears first as one of the eight divine sources of the king (p-cf6fee), then explicitly as the normative model the king must emulate in restraining subjects (p-402a26)."
+    },
+    {
+      "canonical_name": "Viṣṇu",
+      "surface_names": ["Viṣṇu", "Vishnu"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-a2641e",
+          "quote": "In a sacrifice, Viṣṇu is worshipped; in a legal dispute, the king",
+          "role": "sacrificial analogy for the king in litigation"
+        }
+      ],
+      "description": "Hindu deity of preservation, invoked as the divine object of worship in sacrifice to draw an analogy with the king's role in legal procedure.",
+      "justification": "Paragraph p-a2641e uses the worship of Viṣṇu in sacrifice as a direct structural analogy to illustrate the king's sovereign position in legal proceedings."
+    },
+    {
+      "canonical_name": "Manu",
+      "surface_names": ["Manu"],
+      "kind": "figure",
+      "figure_kind": "lawgiver",
+      "mentions": [
+        {
+          "paragraph_id": "p-c1c3c5",
+          "quote": "The treatises of Manu and others should be followed, but never the treatise on polity alone",
+          "role": "authoritative lawgiver"
+        }
+      ],
+      "description": "The primordial lawgiver whose Smṛti is held as the supreme authority in dharmaśāstra, explicitly cited by Bṛhaspati as the standard against which other treatises must be measured.",
+      "justification": "Paragraph p-c1c3c5 explicitly names Manu's treatises as the primary legal authority to be followed, and any contradicting Smṛti is declared subordinate to Manu's meaning."
+    },
+    {
+      "canonical_name": "prāḍvivāka",
+      "surface_names": ["prāḍvivāka", "prāḍ", "chief legal officer"],
+      "kind": "figure",
+      "figure_kind": "official",
+      "mentions": [
+        {
+          "paragraph_id": "p-abfb1b",
+          "quote": "He who asks a question related to a legal dispute is a prāḍ; he who analyzes the dispute therein is a vivāka; hence he is remembered as a prāḍvivāka",
+          "role": "judicial officer"
+        },
+        {
+          "paragraph_id": "p-78bec1",
+          "quote": "The king, or else a Brahmin prāḍvivāka, should examine the legal cases",
+          "role": "presiding examiner"
+        },
+        {
+          "paragraph_id": "p-23f23f",
+          "quote": "If, in undecided cases, the prāḍvivāka converses in private with a party, he should be punished",
+          "role": "subject of judicial conduct rules"
+        }
+      ],
+      "description": "The chief presiding legal officer of the court, etymologically explained as one who questions and analyzes disputes; he may substitute for the king as the principal examiner.",
+      "justification": "The text dedicates multiple verses (p-abfb1b, p-e14a4a, p-78bec1) to defining and regulating the prāḍvivāka, making him one of the central institutional figures of the legal system described."
+    },
+    {
+      "canonical_name": "the King",
+      "surface_names": ["king", "rājan", "ruler"],
+      "kind": "figure",
+      "figure_kind": "ruler",
+      "mentions": [
+        {
+          "paragraph_id": "p-cf6fee",
+          "quote": "Understand the origin of him who properly investigates these matters: from Soma, Agni, the Sun, the Wind, Indra, the Lord of Wealth, the Lord of Waters, and Yama",
+          "role": "cosmologically constituted sovereign"
+        },
+        {
+          "paragraph_id": "p-cb5a36",
+          "quote": "I shall now declare in due order the qualities and duties of a king",
+          "role": "primary subject of legal procedure"
+        },
+        {
+          "paragraph_id": "p-d8a012",
+          "quote": "The Brahmin is the root of the tree of dharma; the king is its trunk and branches",
+          "role": "structural pillar of dharmic order"
+        }
+      ],
+      "description": "The sovereign ruler whose proper qualities, duties, and conduct in legal procedure are the central subject of the first chapter; the king embodies divine justice on earth.",
+      "justification": "The king is the primary human actor throughout the text, from his divine origin (p-cf6fee) to his role as the supreme authority in all legal disputes (p-105 onward)."
+    },
+    {
+      "canonical_name": "Brahmin",
+      "surface_names": ["Brahmin", "Brahmin prāḍvivāka", "Brahmin priest", "brāhmaṇabruva"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-d8a012",
+          "quote": "The Brahmin is the root of the tree of dharma",
+          "role": "foundational social-religious class"
+        },
+        {
+          "paragraph_id": "p-f4962a",
+          "quote": "The kingdom of a king who, setting aside Brahmins, examines legal cases with low-born men, decays",
+          "role": "indispensable legal functionary"
+        },
+        {
+          "paragraph_id": "p-a55c51",
+          "quote": "Verbal reprimand and censure are both under the authority of the Brahmin",
+          "role": "holder of non-corporal punishments"
+        }
+      ],
+      "description": "The priestly varna whose presence is constitutive of a legitimate court; Brahmins serve as assessors, ministers, and the prāḍvivāka, and their exclusion from the court is said to cause a kingdom's ruin.",
+      "justification": "Multiple passages (p-d8a012, p-f4962a, p-a55c51, p-d69cc1) establish the Brahmin class as the indispensable backbone of the legal system and of dharmic order."
+    },
+    {
+      "canonical_name": "Kshatriya",
+      "surface_names": ["Kshatriya", "Kshatriyas"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-d19896",
+          "quote": "Having brought Brahmins learned in the Vedas and sciences, and Kshatriyas who maintain the sacred fire, he should settle them there",
+          "role": "required settlers of the royal fortress"
+        },
+        {
+          "paragraph_id": "p-90a287",
+          "quote": "Where there is no learned Brahmin, there he should appoint a Kshatriya",
+          "role": "fallback judicial authority"
+        }
+      ],
+      "description": "The warrior-ruler varna who maintain the sacred fire and may serve as a substitute judicial authority only in the absence of a learned Brahmin.",
+      "justification": "Paragraph p-90a287 explicitly ranks the Kshatriya as a second-order judicial appointment behind the Brahmin, establishing the varna hierarchy within the court system."
+    },
+    {
+      "canonical_name": "Vaishya",
+      "surface_names": ["Vaishya", "Vaishyas"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-193272",
+          "quote": "Brahmins, Vaishyas, merchants, artisans, craftsmen, and guards",
+          "role": "urban residents of the fortress town"
+        },
+        {
+          "paragraph_id": "p-90a287",
+          "quote": "or a Vaishya learned in the treatises on dharma; he should carefully avoid a Shudra",
+          "role": "third-order judicial authority"
+        }
+      ],
+      "description": "The merchant-farmer varna, ranked third as a possible judicial appointee and listed among the social classes who populate the fortress city.",
+      "justification": "Paragraph p-90a287 establishes the Vaishya as the third viable choice for a judicial officer, after Brahmin and Kshatriya, within a graded hierarchy of varna authority."
+    },
+    {
+      "canonical_name": "Shudra",
+      "surface_names": ["Shudra", "low-born men", "vṛṣala"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-90a287",
+          "quote": "he should carefully avoid a Shudra",
+          "role": "explicitly excluded from judicial office"
+        },
+        {
+          "paragraph_id": "p-f4962a",
+          "quote": "setting aside Brahmins, examines legal cases with low-born men (vṛṣala), decays",
+          "role": "marker of illegitimate court composition"
+        }
+      ],
+      "description": "The servile varna explicitly prohibited from holding judicial office; their involvement in legal proceedings is presented as a cause of royal ruin.",
+      "justification": "Paragraphs p-90a287 and p-f4962a together construct the Shudra as the categorical limit of judicial legitimacy, to be scrupulously avoided."
+    },
+    {
+      "canonical_name": "guardians of the directions",
+      "surface_names": ["guardians of the world", "guardians of the directions", "lokapāla"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-92d4ce",
+          "quote": "having bowed to the guardians of the world",
+          "role": "recipients of the king's ritual obeisance before court"
+        },
+        {
+          "paragraph_id": "p-e2346a",
+          "quote": "He should imagine the Sun, Moon, and other gods and the guardians of the directions to be there",
+          "role": "imagined divine witnesses in court"
+        }
+      ],
+      "description": "The eight (or ten) directional guardian deities whose presence is ritually invoked in the court of justice, serving as invisible divine witnesses to legal proceedings.",
+      "justification": "Paragraphs p-92d4ce and p-e2346a prescribe both physical obeisance to and mental visualization of the directional guardians as part of the court's sanctification ritual."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Divine origin and cosmological legitimacy of kingship",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-cf6fee",
+          "quote": "from Soma, Agni, the Sun, the Wind, Indra, the Lord of Wealth, the Lord of Waters, and Yama"
+        },
+        {
+          "paragraph_id": "p-4128d6",
+          "quote": "For the form of the king was created by extracting essential particles of energy from them; Before him, all beings, moving and stationary, shine with splendor"
+        }
+      ],
+      "justification": "The text opens the section on the king's qualities by grounding royal authority in the extraction of divine essences from eight cosmic deities, establishing a theological foundation for kingship."
+    },
+    {
+      "topic": "The court of justice as a ritual sacrifice",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-a2641e",
+          "quote": "In a sacrifice, Viṣṇu is worshipped; in a legal dispute, the king"
+        },
+        {
+          "paragraph_id": "p-3506e6",
+          "quote": "The plaint and the reply are the beginning; the solemn declaration is remembered as the oblation; the three Vedas are the sacred treatises; the assessors are the priests"
+        },
+        {
+          "paragraph_id": "p-d69cc1",
+          "quote": "Where seven, five, or three excellent Brahmins, learned in the Veda, its auxiliaries, and dharma, are seated, that court is like a sacrifice"
+        }
+      ],
+      "justification": "The text systematically maps the elements of a Vedic sacrifice onto those of a legal proceeding, legitimizing legal procedure through sacrificial analogy and presenting the court as a sacred space."
+    },
+    {
+      "topic": "Varna hierarchy as the organizing principle of judicial legitimacy",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-f4962a",
+          "quote": "The kingdom of a king who, setting aside Brahmins, examines legal cases with low-born men (vṛṣala), decays"
+        },
+        {
+          "paragraph_id": "p-90a287",
+          "quote": "Where there is no learned Brahmin, there he should appoint a Kshatriya, or a Vaishya learned in the treatises on dharma; he should carefully avoid a Shudra"
+        }
+      ],
+      "justification": "The text encodes the four-varna hierarchy directly into the rules for staffing the court, with each varna assigned a ranked fallback position and Shudras categorically excluded."
+    },
+    {
+      "topic": "The king's duty to impartial administration of dharma",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-4d9beb",
+          "quote": "The king, having become impartial, should carry out the decision of dharma in disputes, casting aside greed and other such faults"
+        },
+        {
+          "paragraph_id": "p-402a26",
+          "quote": "Just as Yama restrains both friend and foe when their time has come, so should the king restrain his subjects"
+        }
+      ],
+      "justification": "Impartiality modeled on Yama's cosmic justice is repeatedly prescribed as the essential virtue of the king as judge, and failure to embody it leads to ruin and hell."
+    },
+    {
+      "topic": "Supremacy of dharmaśāstra over arthaśāstra in legal disputes",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-c1c3c5",
+          "quote": "The treatises of Manu and others should be followed, but never the treatise on polity alone; in case of a conflict between the two, what is stated in the treatise on dharma must be done"
+        },
+        {
+          "paragraph_id": "p-7409b9",
+          "quote": "By dharma, by legal procedure, by custom, and by the king's edict; a fourfold means is declared for deciding a doubtful matter"
+        }
+      ],
+      "justification": "The text establishes a hierarchy of legal authority with dharmaśāstra (Manu's treatises) at the apex, explicitly subordinating treatises on polity (arthaśāstra) to it in cases of conflict."
+    },
+    {
+      "topic": "Regional and caste-based legal pluralism",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-e0c098",
+          "quote": "The Laws of Regions and Castes are to be Upheld in the Same Way"
+        },
+        {
+          "paragraph_id": "p-746ab7",
+          "quote": "By southerners, the daughter of a maternal uncle is married by the twice-born; in the middle country, laborers and artisans"
+        },
+        {
+          "paragraph_id": "p-c6fbb3",
+          "quote": "the law must be carefully protected in the case of all those living in fortresses"
+        }
+      ],
+      "justification": "The text devotes an entire subsection (1.10) to recognizing that different regions and communities have different customs, and instructs the king to uphold these local norms rather than override them with a universal standard."
+    },
+    {
+      "topic": "Procedural formalism of the plaint and its faults",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-01737b",
+          "quote": "A plaint that is unknown, faulty, meaningless, purposeless, impossible to prove, or contradictory, the king should reject"
+        },
+        {
+          "paragraph_id": "p-58c5ff",
+          "quote": "the plaintiff should frame the plaint: faultless, containing a specific claim, and not too long"
+        }
+      ],
+      "justification": "Chapter 2 opens a systematic taxonomy of plaint faults and requirements, establishing that legal procedure is governed by strict formal rules whose violation invalidates the case."
+    },
+    {
+      "topic": "Collective and delegated justice through guilds, families, and corporations",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-73f920",
+          "quote": "Families, guilds, corporations, and the appointed king; these are the foundations of legal procedures, each succeeding one stronger than the previous"
+        },
+        {
+          "paragraph_id": "p-447ef7",
+          "quote": "The heads of families, guilds, and corporations are declared to be decision-makers; a matter that has not been decided by them goes to the king"
+        }
+      ],
+      "justification": "The text describes a tiered, bottom-up dispute resolution hierarchy in which families, guilds, and corporations serve as the primary adjudicators before matters escalate to royal authority."
+    },
+    {
+      "topic": "Kingless realm as the condition of origin for law",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-789019",
+          "quote": "Formerly, men were devoted to dharma and non-violent; For those overcome by greed and hatred, legal procedure was established"
+        },
+        {
+          "paragraph_id": "p-bf73f8",
+          "quote": "In a kingless realm, there is no agriculture, trade, money-lending, or protection; therefore, he was created of old as the lord"
+        }
+      ],
+      "justification": "The text opens with an implicit myth-of-origin: legal procedure arose because of human moral degeneration, and kingship itself was cosmologically created to address the chaos that would prevail without governance — a foundational social-contract trope of the Smṛti genre."
+    },
+    {
+      "topic": "Brahmin as mediating figure between sacred knowledge and royal power",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-d8a012",
+          "quote": "The Brahmin is the root of the tree of dharma; the king is its trunk and branches"
+        },
+        {
+          "paragraph_id": "p-e53dae",
+          "quote": "A king should appoint as his minister a Brahmin who knows the meaning of all sacred treatises, is not greedy, speaks justly"
+        }
+      ],
+      "justification": "The metaphor of the dharma-tree and the repeated prescription that the king's key legal functionaries must be Brahmins reveals an implicit structural claim: royal power is legitimate only when mediated by Brahminic knowledge."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Treatises of Manu (Manusmṛti)",
+      "cited_author": "Manu",
+      "stance": "authority",
+      "paragraph_id": "p-c1c3c5",
+      "quote": "The treatises of Manu and others should be followed, but never the treatise on polity alone; in case of a conflict between the two, what is stated in the treatise on dharma must be done",
+      "justification": "Bṛhaspati explicitly names Manu's treatises as the supreme dharmaśāstra authority that must prevail over treatises on polity in cases of conflict, establishing Manu as the foundational legal cite."
+    }
+  ]
+}

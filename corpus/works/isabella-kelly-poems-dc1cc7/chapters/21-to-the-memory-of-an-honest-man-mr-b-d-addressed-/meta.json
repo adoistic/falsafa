@@ -1,0 +1,45 @@
+{
+  "work_slug": "isabella-kelly-poems-dc1cc7",
+  "work_title": "Poems",
+  "chapter_number": 21,
+  "chapter_title": "TO THE MEMORY OF AN HONEST MAN, MR. B. D., ADDRESSED TO HIS WIDOW.",
+  "chapter_slug": "21-to-the-memory-of-an-honest-man-mr-b-d-addressed-",
+  "author": "Isabella Kelly",
+  "author_slug": "isabella-kelly",
+  "ecpa_poem_id": "pik94-w0210",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "address"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 59
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "51150778-6a2c-58e8-b736-51ed74de4bd7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 469,
+      "line_count": 60,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

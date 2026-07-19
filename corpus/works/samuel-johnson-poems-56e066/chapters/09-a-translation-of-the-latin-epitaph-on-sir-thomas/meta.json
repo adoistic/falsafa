@@ -1,0 +1,44 @@
+{
+  "work_slug": "samuel-johnson-poems-56e066",
+  "work_title": "Poems",
+  "chapter_number": 9,
+  "chapter_title": "A TRANSLATION OF THE LATIN EPITAPH ON SIR THOMAS HANMER.",
+  "chapter_slug": "09-a-translation-of-the-latin-epitaph-on-sir-thomas",
+  "author": "Samuel Johnson",
+  "author_slug": "samuel-johnson",
+  "ecpa_poem_id": "o4986-w0690",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "epitaph"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 44
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5fad7046-c502-5ef1-aded-792e1ecb202d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 339,
+      "line_count": 46,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "work_slug": "john-langhorne-poems-115d60",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "RURAL SIMPLICITY. AN ODE.",
+  "chapter_slug": "04-rural-simplicity-an-ode",
+  "author": "John Langhorne",
+  "author_slug": "john-langhorne",
+  "ecpa_poem_id": "o4987-w0620",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "sestet (6 lines)"
+    ],
+    "rhyme": "abbacc",
+    "syllable_pattern": "8.8.8.8.8.8",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/",
+    "line_count": 48
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a48f7d47-d1f4-57e5-a9ee-5f5387226114",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 289,
+      "line_count": 51,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

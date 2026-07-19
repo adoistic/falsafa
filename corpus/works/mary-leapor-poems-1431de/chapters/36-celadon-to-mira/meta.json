@@ -1,0 +1,44 @@
+{
+  "work_slug": "mary-leapor-poems-1431de",
+  "work_title": "Poems",
+  "chapter_number": 36,
+  "chapter_title": "CELADON to MIRA.",
+  "chapter_slug": "36-celadon-to-mira",
+  "author": "Mary Leapor",
+  "author_slug": "mary-leapor",
+  "ecpa_poem_id": "o5125-w0360",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 123
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f985b4f4-0836-515c-a1e2-de0c2d31a620",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 980,
+      "line_count": 124,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

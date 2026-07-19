@@ -1,0 +1,44 @@
+{
+  "work_slug": "rebekah-carmichael-poems-f536c3",
+  "work_title": "Poems",
+  "chapter_number": 6,
+  "chapter_title": "A ROMANTIC SCENE Which happened in the year 1746.",
+  "chapter_slug": "06-a-romantic-scene-which-happened-in-the-year-1746",
+  "author": "Rebekah Carmichael",
+  "author_slug": "rebekah-carmichael",
+  "ecpa_poem_id": "prc90-w0060",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "pastoral"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "sestet (6 lines)"
+    ],
+    "rhyme": "aabccb",
+    "syllable_pattern": "8.8.6.8.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 186
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1d51c34c-bda4-5411-83d5-2dd44302fce3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1132,
+      "line_count": 188,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

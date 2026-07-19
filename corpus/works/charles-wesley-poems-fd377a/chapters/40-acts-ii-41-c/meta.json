@@ -1,0 +1,44 @@
+{
+  "work_slug": "charles-wesley-poems-fd377a",
+  "work_title": "Poems",
+  "chapter_number": 40,
+  "chapter_title": "ACTS ii. 41, &c.",
+  "chapter_slug": "40-acts-ii-41-c",
+  "author": "Charles Wesley",
+  "author_slug": "charles-wesley",
+  "ecpa_poem_id": "o3900-w1200",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "hymn"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "8.8.8.8",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/",
+    "line_count": 28
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "bc797407-81fc-5d68-add0-ade0e946c3b5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 176,
+      "line_count": 36,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

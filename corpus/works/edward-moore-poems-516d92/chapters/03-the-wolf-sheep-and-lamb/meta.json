@@ -1,0 +1,45 @@
+{
+  "work_slug": "edward-moore-poems-516d92",
+  "work_title": "Poems",
+  "chapter_number": 3,
+  "chapter_title": "THE WOLF, SHEEP, AND LAMB.",
+  "chapter_slug": "03-the-wolf-sheep-and-lamb",
+  "author": "Edward Moore",
+  "author_slug": "edward-moore",
+  "ecpa_poem_id": "o5089-w0710",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "fable",
+      "advice"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 104
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3b8e4248-7afc-55e8-bac3-7acc13ef6ec0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 659,
+      "line_count": 106,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

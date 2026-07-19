@@ -1,0 +1,44 @@
+{
+  "work_slug": "charles-wesley-poems-fd377a",
+  "work_title": "Poems",
+  "chapter_number": 30,
+  "chapter_title": "JUSTIFIED, but not SANCTIFIED.",
+  "chapter_slug": "30-justified-but-not-sanctified",
+  "author": "Charles Wesley",
+  "author_slug": "charles-wesley",
+  "ecpa_poem_id": "o3900-w0990",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "hymn"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "octet (8 lines)"
+    ],
+    "rhyme": "ababcdcd",
+    "syllable_pattern": "8.8.8.8.8.8.8.8",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/",
+    "line_count": 72
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "292864a1-2003-5172-9ef7-c9c0d70a5728",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 495,
+      "line_count": 82,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

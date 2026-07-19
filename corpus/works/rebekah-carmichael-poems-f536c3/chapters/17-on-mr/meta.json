@@ -1,0 +1,45 @@
+{
+  "work_slug": "rebekah-carmichael-poems-f536c3",
+  "work_title": "Poems",
+  "chapter_number": 17,
+  "chapter_title": "ON MR ******",
+  "chapter_slug": "17-on-mr",
+  "author": "Rebekah Carmichael",
+  "author_slug": "rebekah-carmichael",
+  "ecpa_poem_id": "prc90-w0170",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "address"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 14
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1345475c-ca3c-5bb7-a396-143f18145787",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 115,
+      "line_count": 15,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

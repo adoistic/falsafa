@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 27**
+**Viṣṇu Smriti 27**
 
 When the embryo is clearly discernible, the rite of conception (*niṣeka*). // Vi_27.1 //
 

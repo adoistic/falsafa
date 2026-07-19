@@ -1,0 +1,38 @@
+{
+  "work_slug": "james-scott-poems-af3a56",
+  "work_title": "Poems",
+  "chapter_number": 9,
+  "chapter_title": "An ODE to SCULPTURE.",
+  "chapter_slug": "09-an-ode-to-sculpture",
+  "author": "James Scott",
+  "author_slug": "james-scott",
+  "ecpa_poem_id": "o5157-w0670",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "rhyme": "irregular",
+    "metrical_pattern": "irregular",
+    "line_count": 98
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1f73b36f-e015-5c0e-ae1c-954f403a761c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 634,
+      "line_count": 99,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

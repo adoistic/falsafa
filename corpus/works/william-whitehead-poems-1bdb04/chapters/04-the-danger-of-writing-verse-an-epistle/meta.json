@@ -1,0 +1,45 @@
+{
+  "work_slug": "william-whitehead-poems-1bdb04",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "The DANGER of Writing VERSE. An EPISTLE.",
+  "chapter_slug": "04-the-danger-of-writing-verse-an-epistle",
+  "author": "William Whitehead",
+  "author_slug": "william-whitehead",
+  "ecpa_poem_id": "o5153-w0480",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "epistle"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 274
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c1001f7c-015b-518a-9a29-6ad285563191",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2149,
+      "line_count": 278,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

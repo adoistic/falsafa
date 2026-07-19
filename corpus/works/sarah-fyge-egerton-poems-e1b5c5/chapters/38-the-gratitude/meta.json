@@ -1,0 +1,44 @@
+{
+  "work_slug": "sarah-fyge-egerton-poems-e1b5c5",
+  "work_title": "Poems",
+  "chapter_number": 38,
+  "chapter_title": "The Gratitude.",
+  "chapter_slug": "38-the-gratitude",
+  "author": "Sarah Fyge Egerton",
+  "author_slug": "sarah-fyge-egerton",
+  "ecpa_poem_id": "pse03-w0370",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 51
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "96d8d255-e37b-5f69-bfe3-931bd3ca99f9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 408,
+      "line_count": 52,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

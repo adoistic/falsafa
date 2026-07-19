@@ -1,0 +1,45 @@
+{
+  "work_slug": "robert-craggs-nugent-poems-84926b",
+  "work_title": "Poems",
+  "chapter_number": 15,
+  "chapter_title": "EPIGRAM I.",
+  "chapter_slug": "15-epigram-i",
+  "author": "Robert Craggs Nugent",
+  "author_slug": "robert-craggs-nugent",
+  "ecpa_poem_id": "o5153-w0790",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "epigram",
+      "comic verse"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "8.8.8.8",
+    "metrical_pattern": "-+|-+|-+|-+/      -+|-+|-+|-+/      -+|-+|-+|-+/      -+|-+|-+|-+/",
+    "line_count": 4
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0e9415c2-54c4-5d31-a0a8-ba92e1b778be",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 26,
+      "line_count": 5,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

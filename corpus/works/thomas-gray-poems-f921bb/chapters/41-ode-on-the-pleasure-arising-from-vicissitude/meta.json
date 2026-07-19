@@ -1,0 +1,44 @@
+{
+  "work_slug": "thomas-gray-poems-f921bb",
+  "work_title": "Poems",
+  "chapter_number": 41,
+  "chapter_title": "[Ode on the Pleasure Arising from Vicissitude]",
+  "chapter_slug": "41-ode-on-the-pleasure-arising-from-vicissitude",
+  "author": "Thomas Gray",
+  "author_slug": "thomas-gray",
+  "ecpa_poem_id": "tgaen-woopv",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "octet (8 lines)"
+    ],
+    "rhyme": "ababccdd",
+    "syllable_pattern": "7.7.8.6.8.8.8.8",
+    "metrical_pattern": "+|-+|-+|-+/ +|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/",
+    "line_count": 59
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "403203be-5811-5c28-a6f4-240bde245fff",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 331,
+      "line_count": 60,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

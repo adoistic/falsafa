@@ -2,7 +2,8 @@ import { defineConfig } from "astro/config";
 import preact from "@astrojs/preact";
 import sitemap from "@astrojs/sitemap";
 
-// Falsafa site — fully static; built in CI and served by Netlify.
+// Falsafa site — fully static; built locally and served by a Cloudflare Worker
+// from R2 (see /DEPLOY.md). No Netlify/Vercel/PaaS build step.
 // View transitions for the "feels like a single document" reading experience.
 // Preact powers the interactive launch islands (BYOK demo, eval explorer).
 export default defineConfig({

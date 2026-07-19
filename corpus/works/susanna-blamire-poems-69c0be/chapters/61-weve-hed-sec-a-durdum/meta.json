@@ -1,0 +1,44 @@
+{
+  "work_slug": "susanna-blamire-poems-69c0be",
+  "work_title": "Poems",
+  "chapter_number": 61,
+  "chapter_title": "WE'VE HED SEC A DURDUM.",
+  "chapter_slug": "61-weve-hed-sec-a-durdum",
+  "author": "Susanna Blamire",
+  "author_slug": "susanna-blamire",
+  "ecpa_poem_id": "bsb18-w0610",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "song"
+    ],
+    "foot": "anapaestic (˘˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "octet (8 lines)"
+    ],
+    "rhyme": "xaxaxbxb",
+    "syllable_pattern": "12.11.12.11.12.11.12.11",
+    "metrical_pattern": "-+|--+|--+|--+|-/ -+|--+|--+|--+/ -+|--+|--+|--+|-/ -+|--+|--+|--+/ -+|--+|--+|--+|-/ -+|--+|--+|--+/ -+|--+|--+|--+|-/ -+|--+|--+|--+/",
+    "line_count": 32
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c33ec9c6-59dd-541e-8019-3d85dbe01204",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 326,
+      "line_count": 33,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

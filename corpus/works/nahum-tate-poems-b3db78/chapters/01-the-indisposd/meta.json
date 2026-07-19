@@ -1,0 +1,37 @@
+{
+  "work_slug": "nahum-tate-poems-b3db78",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "The Indispos'd.",
+  "chapter_slug": "01-the-indisposd",
+  "author": "Nahum Tate",
+  "author_slug": "nahum-tate",
+  "ecpa_poem_id": "oat77-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "metrical_pattern": "irregular",
+    "line_count": 28
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8ba55dda-732c-585d-a50d-e70149a1be2a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 186,
+      "line_count": 32,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

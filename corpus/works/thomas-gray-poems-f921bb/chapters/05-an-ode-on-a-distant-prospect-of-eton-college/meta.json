@@ -1,0 +1,44 @@
+{
+  "work_slug": "thomas-gray-poems-f921bb",
+  "work_title": "Poems",
+  "chapter_number": 5,
+  "chapter_title": "An ODE On a distant Prospect of ETON COLLEGE.",
+  "chapter_slug": "05-an-ode-on-a-distant-prospect-of-eton-college",
+  "author": "Thomas Gray",
+  "author_slug": "thomas-gray",
+  "ecpa_poem_id": "o5153-w0560",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "ten-line stanza"
+    ],
+    "rhyme": "ababccdeed",
+    "syllable_pattern": "8.6.8.6.8.8.8.8.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/     -+|-+|-+/     -+|-+|-+|-+/     -+|-+|-+/     -+|-+|-+|-+/     -+|-+|-+|-+/     -+|-+|-+|-+/     -+|-+|-+|-+/     -+|-+|-+|-+/     -+|-+|-+/",
+    "line_count": 100
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a3a121e5-20dc-5a9c-aaea-f978339eded8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 565,
+      "line_count": 102,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

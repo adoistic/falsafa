@@ -54,7 +54,7 @@ Just as milk, over time, produces curd endowed with flavor, so does possession, 
 
 Possession that is continuous and long-standing is powerful in law. Even if it is interrupted, it is to be recognized if it was previously established. // K_329 //
 
-One should not establish a claim by possession in the case of women, the property of gods and kings, and the wealth of a minor or a learned Brahmin, which comes from the mother's or father's side respectively. // K_330 //
+One should not establish a claim by possession in the case of women, the property of gods and kings, and the wealth of a minor or a learned Brāhmaṇa, which comes from the mother's or father's side respectively. // K_330 //
 
 A student observing celibacy may live for thirty-six years without following the vow. A man seeking wealth may reside in another country for a long time. // K_331 //
 

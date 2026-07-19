@@ -1,0 +1,675 @@
+{
+  "slug": "unknown-visnu-smrti-27f0d8",
+  "window": "01-05",
+  "entities": [
+    {
+      "canonical_name": "Vishnu",
+      "surface_names": ["Madhusūdana", "Keśava", "Janārdana", "Hari", "Nārāyaṇa", "Jagannātha", "Padmanābha", "Hṛṣīkeśa", "Govinda", "Puruṣottama", "Vāsudeva", "Acyuta", "Varāha", "Hiraṇyakeśa", "Viśvākṣa", "Yajñamūrte", "Viṣvaksena"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-88086c",
+          "quote": "Vishnu, desiring to create beings, and knowing the Earth was submerged in water",
+          "role": "protagonist; cosmic creator who lifts the Earth"
+        },
+        {
+          "paragraph_id": "p-bb3692",
+          "quote": "Took on the auspicious form of the Boar, delighting in sport in the water, as in previous cosmic ages, And lifted up the Earth.",
+          "role": "theriomorphic deity acting as the cosmic Boar (Varāha)"
+        },
+        {
+          "paragraph_id": "p-6be982",
+          "quote": "Madhusūdana (Vishnu) then distributed the waters to their proper places",
+          "role": "cosmic orderer distributing waters after lifting Earth"
+        },
+        {
+          "paragraph_id": "p-bcb2db",
+          "quote": "Therein she saw Madhusūdana, resting upon the couch of Śeṣa.",
+          "role": "the sovereign deity seated on the cosmic serpent"
+        },
+        {
+          "paragraph_id": "p-199ee0",
+          "quote": "Good people who delight in the practices of the varṇas and āśramas, devoted solely to the scriptures, They, O Dhara, will support you",
+          "role": "divine lawgiver declaring the support of Earth depends on righteous humans"
+        }
+      ],
+      "description": "The supreme deity Vishnu, cosmic creator and lawgiver who in Boar form lifts the submerged Earth, dwells in the Ocean of Milk, and reveals the eternal dharma of varṇas and āśramas.",
+      "justification": "Vishnu is the central divine authority of the entire work, addressed by numerous epithets across chapter 1 and named explicitly as the revealer of dharma throughout chapters 1–5."
+    },
+    {
+      "canonical_name": "Pṛthivī (Earth)",
+      "surface_names": ["Dhara", "Vasudhā", "Vasumatī", "Earth goddess"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-4aab46",
+          "quote": "Having made this resolve, the divine goddess, taking the form of a woman, Went to see Kashyapa",
+          "role": "divine petitioner seeking dharmic instruction"
+        },
+        {
+          "paragraph_id": "p-9ec137",
+          "quote": "I was lifted up by you, O god, when I had sunk to the bottom of the netherworld",
+          "role": "recipient of cosmic rescue by Vishnu; frames the narrative"
+        },
+        {
+          "paragraph_id": "p-e8a664",
+          "quote": "Vasumatī (the Earth) spoke to the god of gods: Tell me the eternal laws (dharma) of the varṇas and the āśramas.",
+          "role": "interlocutor soliciting the dharmaśāstra revelation"
+        },
+        {
+          "paragraph_id": "p-747786",
+          "quote": "Thus, O Dhara (Earth), the law of punishment has been declared to you in summary",
+          "role": "addressee at the close of the punishment chapter"
+        }
+      ],
+      "description": "The Earth goddess, personified as a beautiful woman, who was rescued by Vishnu's Boar incarnation and serves as the disciple-interlocutor receiving the revelation of dharma.",
+      "justification": "Earth (Dhara/Vasudhā) is the frame-narrative audience to whom Vishnu reveals all the laws enumerated in chapters 2–5, and her question triggers the entire discourse."
+    },
+    {
+      "canonical_name": "Kashyapa",
+      "surface_names": ["Kashyapa"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-491a37",
+          "quote": "I will go and ask Kashyapa; he will tell me, without a doubt. That great sage constantly bears my concerns in his mind.",
+          "role": "wise sage whom the Earth consults before approaching Vishnu"
+        },
+        {
+          "paragraph_id": "p-ec5720",
+          "quote": "Seeing her approach, Kashyapa honored her and then Spoke to her, O lovely one, O large-eyed Dhara (Earth), I know what is in your heart.",
+          "role": "omniscient sage who redirects Earth to Vishnu"
+        },
+        {
+          "paragraph_id": "p-2b042c",
+          "quote": "I have learned through the yoga of meditation that his abode is in the Ocean of Milk",
+          "role": "mediating sage who directs Earth to Vishnu's cosmic abode"
+        }
+      ],
+      "description": "The great vedic sage Kashyapa whom the Earth first approaches after Vishnu's departure; he perceives her need through yogic insight and directs her to Vishnu in the Ocean of Milk.",
+      "justification": "Kashyapa appears in chapter 1 as the transitional figure who bridges the Earth's need with Vishnu's instruction, establishing the chain of transmission."
+    },
+    {
+      "canonical_name": "Śeṣa",
+      "surface_names": ["Śeṣa"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-a34343",
+          "quote": "Like the cast-off skin of the serpent Śeṣa, it was immensely vast and endless.",
+          "role": "cosmic serpent whose shed skin is compared to the Ocean of Milk"
+        },
+        {
+          "paragraph_id": "p-bcb2db",
+          "quote": "Therein she saw Madhusūdana, resting upon the couch of Śeṣa.",
+          "role": "divine couch/bed upon which Vishnu reclines"
+        },
+        {
+          "paragraph_id": "p-9084e3",
+          "quote": "His lotus-face was hard to discern due to the radiance of the jewels on the hoods of the serpent Śeṣa",
+          "role": "serpent whose jeweled hoods surround and illuminate Vishnu"
+        }
+      ],
+      "description": "The cosmic serpent Śeṣa (Ananta) upon whose coils Vishnu reclines in the Ocean of Milk, depicted with gem-studded hoods that radiate light.",
+      "justification": "Śeṣa is named three times in chapter 1 as an essential element of Vishnu's cosmic abode, functioning as both environment and throne."
+    },
+    {
+      "canonical_name": "Lakṣmī",
+      "surface_names": ["Lakṣmī"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-0e45da",
+          "quote": "His pair of feet were being massaged by the auspicious palms of Lakṣmī",
+          "role": "consort serving the reclining Vishnu in the Ocean of Milk"
+        }
+      ],
+      "description": "The goddess Lakṣmī, Vishnu's consort, shown attending to Vishnu by massaging his feet in his cosmic abode.",
+      "justification": "Lakṣmī is explicitly named in chapter 1 as part of Vishnu's court in the Ocean of Milk, indicating divine hierarchy within the Vaishnava cosmological scene."
+    },
+    {
+      "canonical_name": "Varāha (Boar avatāra)",
+      "surface_names": ["Boar", "sacrificial Boar", "Varāha"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-bb3692",
+          "quote": "Took on the auspicious form of the Boar, delighting in sport in the water, as in previous cosmic ages, And lifted up the Earth.",
+          "role": "theriomorphic form of Vishnu that rescues the Earth"
+        },
+        {
+          "paragraph_id": "p-979e7a",
+          "quote": "He, the great ascetic, whose feet were the Vedas, whose tusks were the sacrificial post, whose teeth were the sacrifice, whose mouth was the fire-altar",
+          "role": "cosmic Boar whose body is identified with the entire sacrificial apparatus"
+        },
+        {
+          "paragraph_id": "p-1ffd5f",
+          "quote": "Thus, having become the sacrificial Boar for the benefit of all beings, The divine Earth goddess, who had sunk to the netherworld, was lifted up.",
+          "role": "sacrifice-embodying deity who lifts the Earth"
+        },
+        {
+          "paragraph_id": "p-639b0a",
+          "quote": "O Varāha (Boar), O Bhīma (Terrible one), O Govinda, O ancient Puruṣottama (Supreme Person).",
+          "role": "epithets invoked by Earth in her hymn to Vishnu"
+        }
+      ],
+      "description": "The Varāha (Boar) avatāra of Vishnu, which lifted the submerged Earth from the cosmic ocean; its body is allegorically mapped to every element of Vedic sacrifice.",
+      "justification": "The Boar form is the opening mythological event of chapter 1 and is treated as both cosmic rescuer and living embodiment of the Vedic sacrifice, making it a distinct theological entity."
+    },
+    {
+      "canonical_name": "Brahma",
+      "surface_names": ["Brahma", "Lotus-born"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-88086c",
+          "quote": "When the night of Brahma had passed, and the Lotus-born had awakened",
+          "role": "cosmic timekeeper whose night marks the preceding dissolution"
+        }
+      ],
+      "description": "Brahma, the creator god, whose cosmic night ends at the opening of the narrative, setting the temporal frame for Vishnu's act of world-recreation.",
+      "justification": "Brahma's night-and-awakening provides the cosmological time-frame for the entire creation narrative at the start of chapter 1."
+    },
+    {
+      "canonical_name": "Seven Sages",
+      "surface_names": ["seven sages", "saptarṣi"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-1af09a",
+          "quote": "He created the guardians of places, the guardians of the worlds, the rivers, mountains, and trees, The seven sages learned in dharma, the Vedas with their ancillary sciences, and the gods and anti-gods",
+          "role": "one of the categories of beings created by Vishnu after lifting Earth"
+        }
+      ],
+      "description": "The seven primordial sages (saptarṣis) described as learned in dharma and created by Vishnu as part of world-ordering after the Earth's rescue.",
+      "justification": "The seven sages are listed among the first beings Vishnu creates, signifying their foundational role in transmitting dharma."
+    },
+    {
+      "canonical_name": "Ocean of Milk",
+      "surface_names": ["Ocean of Milk", "Kṣīrasāgara"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-2b042c",
+          "quote": "I have learned through the yoga of meditation that his abode is in the Ocean of Milk",
+          "role": "divine abode of Vishnu, destination of the Earth"
+        },
+        {
+          "paragraph_id": "p-8c3edf",
+          "quote": "Vasudhā honored Kashyapa and then Proceeded to the Ocean of Milk to see Keśava (Vishnu).",
+          "role": "location to which the Earth travels to receive dharmic instruction"
+        },
+        {
+          "paragraph_id": "p-41b3f8",
+          "quote": "She saw the treasure-house of nectar, as lovely as the rays of the moon, Rippling with hundreds of waves born from the churning of the wind.",
+          "role": "described as the luminous cosmic ocean housing Vishnu"
+        }
+      ],
+      "description": "The mythological Ocean of Milk, Vishnu's cosmic abode, described as moon-white, wave-rippled, and jewel-rich, where Earth travels to receive the revelation of dharma.",
+      "justification": "The Ocean of Milk is the pivotal cosmological setting of chapter 1, the locus of the divine encounter that frames the entire legal revelation."
+    },
+    {
+      "canonical_name": "Brāhmaṇa",
+      "surface_names": ["Brāhmaṇa", "Brahmin"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-883be2",
+          "quote": "The Brāhmaṇa, the Kṣatriya, the Vaiśya, and the Śūdra—these are the four varṇas (social orders).",
+          "role": "first and highest of the four varṇas"
+        },
+        {
+          "paragraph_id": "p-354ee5",
+          "quote": "The duty of a Brāhmaṇa is teaching.",
+          "role": "defined by the dharmic duty of teaching"
+        },
+        {
+          "paragraph_id": "p-6eee71",
+          "quote": "He shall not levy tax from Brāhmaṇas.",
+          "role": "exempt from royal taxation; spiritual tax-payers to the king"
+        },
+        {
+          "paragraph_id": "p-90f6c1",
+          "quote": "A Brāhmaṇa who finds a treasure shall take the whole of it.",
+          "role": "privileged in treasure-finding rules"
+        },
+        {
+          "paragraph_id": "p-8c285b",
+          "quote": "There shall be no corporal punishment for a Brāhmaṇa.",
+          "role": "exempt from corporal punishment; branded and banished instead"
+        }
+      ],
+      "description": "The priestly varṇa, the highest social order in the fourfold system, with duties of teaching and officiating at sacrifices, exempt from tax and corporal punishment, to whom gifts and land are to be given by the king.",
+      "justification": "Brāhmaṇas are the most frequently invoked group in chapters 2–5, structuring the entire legal and fiscal system around their ritual supremacy and royal patronage."
+    },
+    {
+      "canonical_name": "Kṣatriya",
+      "surface_names": ["Kṣatriya"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-883be2",
+          "quote": "The Brāhmaṇa, the Kṣatriya, the Vaiśya, and the Śūdra—these are the four varṇas (social orders).",
+          "role": "second of the four varṇas"
+        },
+        {
+          "paragraph_id": "p-f4e97b",
+          "quote": "The duty of a Kṣatriya is constant practice with arms.",
+          "role": "defined by the dharmic duty of martial training"
+        },
+        {
+          "paragraph_id": "p-8c4c9d",
+          "quote": "A Kṣatriya shall give a fourth part to the king, a fourth part to Brāhmaṇas, and take half for himself.",
+          "role": "specific treasure-sharing rule applied to this varṇa"
+        }
+      ],
+      "description": "The warrior-ruler varṇa, the second social order, whose duty is martial training, who protects the earth, and who has specific rules regarding taxation, treasure, and punishment.",
+      "justification": "The Kṣatriya is consistently named as the second varṇa throughout chapters 2–5, with distinct duties, livelihoods, and legal obligations."
+    },
+    {
+      "canonical_name": "Vaiśya",
+      "surface_names": ["Vaiśya"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-883be2",
+          "quote": "The Brāhmaṇa, the Kṣatriya, the Vaiśya, and the Śūdra—these are the four varṇas (social orders).",
+          "role": "third of the four varṇas"
+        },
+        {
+          "paragraph_id": "p-6910e1",
+          "quote": "The duty of a Vaiśya is the tending of cattle.",
+          "role": "defined by agricultural and pastoral duties"
+        },
+        {
+          "paragraph_id": "p-2559c0",
+          "quote": "For a Vaiśya, agriculture, cattle-rearing, trade, money-lending, and cultivation.",
+          "role": "the varṇa with the most diverse economic livelihoods"
+        }
+      ],
+      "description": "The merchant-farmer varṇa, the third social order, with duties including tending cattle, agriculture, trade, and money-lending, with specific rules for treasure and taxation.",
+      "justification": "The Vaiśya is consistently delineated as the third varṇa in chapters 2–3, assigned commercial and agricultural functions."
+    },
+    {
+      "canonical_name": "Śūdra",
+      "surface_names": ["Śūdra"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-883be2",
+          "quote": "The Brāhmaṇa, the Kṣatriya, the Vaiśya, and the Śūdra—these are the four varṇas (social orders).",
+          "role": "fourth and lowest of the four varṇas"
+        },
+        {
+          "paragraph_id": "p-f34593",
+          "quote": "The duty of a Śūdra is service to the twice-born.",
+          "role": "defined by servile duty toward the upper three varṇas"
+        },
+        {
+          "paragraph_id": "p-338114",
+          "quote": "A Śūdra, having found a treasure, shall divide it into twelve parts, give five parts to the king, five parts to Brāhmaṇas, and take two parts for himself.",
+          "role": "lowest share of treasure reflects lowest varṇa status"
+        },
+        {
+          "paragraph_id": "p-04c386",
+          "quote": "With whatever limb a man of a lower varṇa offends one of a higher varṇa, that very limb of his shall be cut off.",
+          "role": "subject to the most severe inter-varṇa punishment rules"
+        }
+      ],
+      "description": "The lowest of the four social orders, whose duty is service to the twice-born, who perform all crafts, receive the smallest share in treasure rules, and face severe corporal penalties for offenses against higher varṇas.",
+      "justification": "The Śūdra is named in every chapter of the window as the lowest varṇa and is used structurally to define the boundary conditions of the legal hierarchy."
+    },
+    {
+      "canonical_name": "Brahman (metaphysical absolute)",
+      "surface_names": ["highest Brahman", "Brahman"],
+      "kind": "idea",
+      "mentions": [
+        {
+          "paragraph_id": "p-979e7a",
+          "quote": "whose head was the highest Brahman",
+          "role": "the metaphysical absolute identified with the crown of the cosmic Boar"
+        },
+        {
+          "paragraph_id": "p-43667b",
+          "quote": "you are the refuge of those who speak of Brahman",
+          "role": "the supreme reality whose knowers are protected by Vishnu"
+        }
+      ],
+      "description": "The impersonal metaphysical absolute identified with the head of the cosmic Boar and as the refuge of Vishnu's devotees, connecting ritual cosmology with Upanishadic philosophy.",
+      "justification": "Brahman appears explicitly as both the head of the sacrificial Boar body and as the goal of Vishnu's devotees, linking the ritual and philosophical registers of the text."
+    },
+    {
+      "canonical_name": "Dharma (cosmic and social order)",
+      "surface_names": ["dharma", "sacred law"],
+      "kind": "idea",
+      "mentions": [
+        {
+          "paragraph_id": "p-8081a1",
+          "quote": "The glorious one, composed of dharma (sacred law) and truth",
+          "role": "dharma as a cosmic substance composing Vishnu's body"
+        },
+        {
+          "paragraph_id": "p-199ee0",
+          "quote": "Good people who delight in the practices of the varṇas and āśramas, devoted solely to the scriptures, They, O Dhara, will support you",
+          "role": "observance of dharma as the support of the Earth"
+        },
+        {
+          "paragraph_id": "p-b44991",
+          "quote": "And their duties (dharma) are as follows",
+          "role": "varṇa-specific dharma as the content of the legal code"
+        },
+        {
+          "paragraph_id": "p-aad632",
+          "quote": "O knower of dharma and adharma, O embodiment of dharma, O source of dharma, O giver of boons",
+          "role": "Vishnu himself is identified as the embodiment and source of dharma"
+        }
+      ],
+      "description": "The foundational concept of cosmic and social order, identified with Vishnu's own body, the support of the Earth, and the organizing principle of all the legal and ritual rules in the text.",
+      "justification": "Dharma is the governing concept of the entire work; it appears in every chapter as both a metaphysical reality and a practical legal norm, making it the text's central idea."
+    },
+    {
+      "canonical_name": "Daṇḍa (rod of justice / punishment)",
+      "surface_names": ["daṇḍa", "rod of justice"],
+      "kind": "idea",
+      "mentions": [
+        {
+          "paragraph_id": "p-636919",
+          "quote": "Where the dark, red-eyed rod of justice (daṇḍa) moves without fear, There the subjects prosper, if the leader judges well.",
+          "role": "the instrument and principle of royal punishment that ensures social order"
+        }
+      ],
+      "description": "Daṇḍa, the royal rod of punishment, personified as a dark, red-eyed entity whose fearless application by the king ensures the prosperity of subjects.",
+      "justification": "Daṇḍa is the central mechanism of royal dharma expounded throughout chapters 3 and 5, and is here briefly personified as an autonomous principle of justice."
+    },
+    {
+      "canonical_name": "Varṇāśrama system",
+      "surface_names": ["varṇas and āśramas", "four varṇas", "āśramas"],
+      "kind": "idea",
+      "mentions": [
+        {
+          "paragraph_id": "p-199ee0",
+          "quote": "Good people who delight in the practices of the varṇas and āśramas, devoted solely to the scriptures, They, O Dhara, will support you",
+          "role": "the social-religious system whose practitioners sustain the Earth"
+        },
+        {
+          "paragraph_id": "p-2445ca",
+          "quote": "The establishment of the varṇas (social orders) and āśramas (stages of life) in their respective duties.",
+          "role": "the king's primary duty: maintaining the fourfold social-religious order"
+        },
+        {
+          "paragraph_id": "p-883be2",
+          "quote": "The Brāhmaṇa, the Kṣatriya, the Vaiśya, and the Śūdra—these are the four varṇas (social orders).",
+          "role": "the foundational enumeration of the four varṇas"
+        }
+      ],
+      "description": "The fourfold social order (varṇas) combined with the four stages of life (āśramas), constituting the entire social-religious framework whose dharmic practices sustain the Earth and are the subject of the revelation.",
+      "justification": "The varṇāśrama system is the explicit subject of the Earth's question and Vishnu's answer, and every chapter of the window is organized around it."
+    },
+    {
+      "canonical_name": "Piśācas",
+      "surface_names": ["Piśācas"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-d72184",
+          "quote": "The Piśācas, Urāgas, Gandharvas, Yakṣas, Rākṣasas, and humans",
+          "role": "one of the categories of beings created by Vishnu in the cosmogony"
+        }
+      ],
+      "description": "The Piśācas, a class of demonic or ghostly beings created by Vishnu as part of the cosmic re-ordering after lifting the Earth.",
+      "justification": "Named explicitly in chapter 1 among the beings created by Vishnu, establishing the full spectrum of cosmic hierarchy."
+    },
+    {
+      "canonical_name": "Gandharvas",
+      "surface_names": ["Gandharvas"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-d72184",
+          "quote": "The Piśācas, Urāgas, Gandharvas, Yakṣas, Rākṣasas, and humans",
+          "role": "one of the categories of beings created by Vishnu in the cosmogony"
+        }
+      ],
+      "description": "The Gandharvas, celestial musicians and semi-divine beings, listed among the types of beings created by Vishnu during the re-establishment of the world.",
+      "justification": "Explicitly named in chapter 1 as part of the full cosmic taxonomy established by Vishnu after lifting the Earth."
+    },
+    {
+      "canonical_name": "Yakṣas",
+      "surface_names": ["Yakṣas"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-d72184",
+          "quote": "The Piśācas, Urāgas, Gandharvas, Yakṣas, Rākṣasas, and humans",
+          "role": "one of the categories of beings created by Vishnu in the cosmogony"
+        }
+      ],
+      "description": "The Yakṣas, a class of nature spirits, included among the beings created by Vishnu in the cosmological ordering.",
+      "justification": "Explicitly named in chapter 1 as part of the cosmic hierarchy established after the rescue of the Earth."
+    },
+    {
+      "canonical_name": "Rākṣasas",
+      "surface_names": ["Rākṣasas"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-d72184",
+          "quote": "The Piśācas, Urāgas, Gandharvas, Yakṣas, Rākṣasas, and humans",
+          "role": "one of the categories of beings created by Vishnu in the cosmogony"
+        }
+      ],
+      "description": "The Rākṣasas, demonic beings, listed among the classes of beings created by Vishnu as part of his cosmic ordering.",
+      "justification": "Explicitly named in chapter 1 as one of the fundamental categories in Vishnu's created order."
+    },
+    {
+      "canonical_name": "Śakra (Indra)",
+      "surface_names": ["Śakra", "Indra"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-c0e53c",
+          "quote": "Resembling the frontal lobes of Indra's elephant and gleaming like refined gold.",
+          "role": "possessor of the elephant (Airāvata) used as a simile for Earth's form"
+        },
+        {
+          "paragraph_id": "p-cf2b2a",
+          "quote": "he partakes of the world of Śakra (Indra).",
+          "role": "the heavenly world of Indra as reward for the just king"
+        }
+      ],
+      "description": "Indra (Śakra), king of the gods, invoked as the owner of the celestial elephant used in a simile and as the occupant of a heavenly world promised to just kings.",
+      "justification": "Indra appears twice in the window—once as a benchmark of divine splendor and once as the patron of the heavenly reward for righteous royal governance."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Cosmogony and cosmic rescue of the Earth",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-88086c",
+          "quote": "Vishnu, desiring to create beings, and knowing the Earth was submerged in water"
+        },
+        {
+          "paragraph_id": "p-6af139",
+          "quote": "For the welfare of the worlds, lifted it up on the tip of his tusk. The primeval god, the great master of yoga, thus made the world anew."
+        }
+      ],
+      "justification": "Chapter 1 opens with the Varāha cosmogony—Vishnu lifting the submerged Earth as the foundational cosmic event that motivates the entire legal revelation."
+    },
+    {
+      "topic": "The body of sacrifice: cosmic Boar as living yajña",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-979e7a",
+          "quote": "whose feet were the Vedas, whose tusks were the sacrificial post, whose teeth were the sacrifice, whose mouth was the fire-altar"
+        },
+        {
+          "paragraph_id": "p-582b13",
+          "quote": "Whose path of movement was the various poetic meters, whose seat was the secret Upanishads"
+        }
+      ],
+      "justification": "Eight consecutive verses (Vi_1.3–1.9) map every part of the Boar's body to a component of Vedic sacrifice, presenting Vishnu's avatāra as the cosmic totalization of ritual."
+    },
+    {
+      "topic": "Dharma as the support of the Earth",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-199ee0",
+          "quote": "Good people who delight in the practices of the varṇas and āśramas, devoted solely to the scriptures, They, O Dhara, will support you"
+        },
+        {
+          "paragraph_id": "p-e8a664",
+          "quote": "Tell me the eternal laws (dharma) of the varṇas and the āśramas."
+        }
+      ],
+      "justification": "The pivotal theological claim of chapter 1 is that righteous observance of varṇāśrama dharma, not physical geography, sustains the Earth—which frames all subsequent legislation."
+    },
+    {
+      "topic": "Varṇa hierarchy and differentiated duties",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-883be2",
+          "quote": "The Brāhmaṇa, the Kṣatriya, the Vaiśya, and the Śūdra—these are the four varṇas (social orders)."
+        },
+        {
+          "paragraph_id": "p-354ee5",
+          "quote": "The duty of a Brāhmaṇa is teaching."
+        }
+      ],
+      "justification": "Chapter 2 is entirely devoted to specifying distinct duties and livelihoods for each varṇa, establishing the hierarchical social order that permeates the rest of the text."
+    },
+    {
+      "topic": "Royal dharma: governance, taxation, and military conduct",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-6528bf",
+          "quote": "Now, the duties of a king (rājadharma)."
+        },
+        {
+          "paragraph_id": "p-8e7e9a",
+          "quote": "The sovereign, the minister, the fortress, the treasury, the army, the territory, and the ally are the constituent elements of a state."
+        }
+      ],
+      "justification": "Chapter 3 is dedicated exclusively to rājadharma, covering taxation, military strategy, administration, and royal virtues, constituting a compact theory of kingship."
+    },
+    {
+      "topic": "Punishment graduated by varṇa",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-04c386",
+          "quote": "With whatever limb a man of a lower varṇa offends one of a higher varṇa, that very limb of his shall be cut off."
+        },
+        {
+          "paragraph_id": "p-38e5f6",
+          "quote": "For defiling a Kṣatriya, half of that."
+        }
+      ],
+      "justification": "A pervasive principle across chapter 5 is that the severity of punishment scales with the varṇa of both offender and victim, structurally encoding social hierarchy in penal law."
+    },
+    {
+      "topic": "Metrological and monetary standards",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-388f29",
+          "quote": "A speck of dust seen in a sunbeam passing through a lattice is called a trasareṇu."
+        },
+        {
+          "paragraph_id": "p-34c611",
+          "quote": "Two hundred and fifty paṇas is known as the first amercement (sāhasa); The middle is known to be five hundred; and one thousand is the highest."
+        }
+      ],
+      "justification": "Chapter 4 is entirely devoted to establishing a precise metrology from the smallest dust-particle up to coins and the three levels of financial amercement that govern all fines in chapter 5."
+    },
+    {
+      "topic": "Brāhmaṇa privilege and fiscal exemption",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-6eee71",
+          "quote": "He shall not levy tax from Brāhmaṇas."
+        },
+        {
+          "paragraph_id": "p-7626ba",
+          "quote": "For they are the tax-payers for the king in the form of religious merit."
+        }
+      ],
+      "justification": "A recurrent theme across chapters 3 and 5 is the systematic fiscal and penal exemption of Brāhmaṇas, justified by their role as spiritual tributaries who earn merit on behalf of the king."
+    },
+    {
+      "topic": "Self-defense and the ātatāyin doctrine",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-3335d1",
+          "quote": "The slayer is not tainted by guilt in the killing of animals with claws, horns, or tusks, or of ātatāyins (felonious aggressors)"
+        },
+        {
+          "paragraph_id": "p-ffa2e6",
+          "quote": "And one who violates another's wife—know these seven to be ātatāyins."
+        }
+      ],
+      "justification": "Vi_5.189–5.193 introduce the ātatāyin concept—an unprovoked aggressor against whom defensive killing is legally and morally guiltless—constituting a distinct doctrine of justified homicide."
+    },
+    {
+      "topic": "Commercial regulation and market integrity",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-0ee1ec",
+          "quote": "And merchants who conspire to hoard merchandise at an unfair price."
+        },
+        {
+          "paragraph_id": "p-931a34",
+          "quote": "He who, having received the price, does not deliver the merchandise to the buyer, shall be made to pay it with interest."
+        }
+      ],
+      "justification": "A cluster of verses in chapter 5 addresses market fraud—hoarding, price-fixing, non-delivery, false weights—revealing a concern for market integrity as a dimension of royal dharma."
+    },
+    {
+      "topic": "Property, possession, and inheritance by adverse possession",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-5523b6",
+          "quote": "Land that has been enjoyed according to rule by three generations of men, The fourth shall obtain it, even in the absence of a written document."
+        },
+        {
+          "paragraph_id": "p-9a00c8",
+          "quote": "Property which was enjoyed by the father according to the righteous rule of possession, After he is deceased, no claim can be made against the son"
+        }
+      ],
+      "justification": "Vi_5.186–5.188 articulate a doctrine of adverse possession and hereditary title that constitutes a coherent theory of property law distinct from punishment rules."
+    },
+    {
+      "topic": "Just kingship as the path to heaven",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-404192",
+          "quote": "The king who is happy in his subjects' happiness, and who is unhappy in their sorrow, He, endowed with fame in this world, is glorified in heaven after death."
+        },
+        {
+          "paragraph_id": "p-cf2b2a",
+          "quote": "The king in whose city there is no thief, no adulterer, no one of abusive speech... he partakes of the world of Śakra (Indra)."
+        }
+      ],
+      "justification": "Chapters 3 and 5 close with explicit statements that just and effective kingship earns heavenly reward, framing legal governance as a soteriological practice."
+    }
+  ],
+  "citations": []
+}

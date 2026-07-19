@@ -575,10 +575,10 @@ The master of yoga can assume any form at will. Whatever form he wishes for—wh
 
 Now, this is what is called *īśitva* (the power of lordship):
 
-> If he always goes to the realms of Brahmā, Viṣṇu, Indra, and Sūrya,
+> If he always goes to the realms of Brahma, Viṣṇu, Indra, and Sūrya,
 > for the sake of devotion favorable to the gods, the name *īśitva* is spoken. || 72
 
-If he goes on a pleasure trip to the celestial realms, he is able to command Brahmā, Viṣṇu, Indra, and Sūrya in their heavens, and even more so the entire host of gods. For the Lord, the master, is in the master of yoga. That is why he has authority over all the gods. That is what is called *īśitva*.
+If he goes on a pleasure trip to the celestial realms, he is able to command Brahma, Viṣṇu, Indra, and Sūrya in their heavens, and even more so the entire host of gods. For the Lord, the master, is in the master of yoga. That is why he has authority over all the gods. That is what is called *īśitva*.
 
 Now, this is what is called *vaśitva* (the power of control):
 

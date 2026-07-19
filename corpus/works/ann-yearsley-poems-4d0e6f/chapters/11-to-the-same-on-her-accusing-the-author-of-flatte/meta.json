@@ -1,0 +1,44 @@
+{
+  "work_slug": "ann-yearsley-poems-4d0e6f",
+  "work_title": "Poems",
+  "chapter_number": 11,
+  "chapter_title": "To the Same; ON HER ACCUSING THE AUTHOR OF FLATTERY, AND OF Ascribing to the Creature that Praise which is due only to the Creator.",
+  "chapter_slug": "11-to-the-same-on-her-accusing-the-author-of-flatte",
+  "author": "Ann Yearsley",
+  "author_slug": "ann-yearsley",
+  "ecpa_poem_id": "pye85-w0110",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "address"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 24
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9891d2d8-6a7a-51eb-94d9-7ea2aa1f1fcf",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 211,
+      "line_count": 26,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

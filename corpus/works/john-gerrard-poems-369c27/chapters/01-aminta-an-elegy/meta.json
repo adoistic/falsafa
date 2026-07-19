@@ -1,0 +1,44 @@
+{
+  "work_slug": "john-gerrard-poems-369c27",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "AMINTA. AN ELEGY.",
+  "chapter_slug": "01-aminta-an-elegy",
+  "author": "John Gerrard",
+  "author_slug": "john-gerrard",
+  "ecpa_poem_id": "o4987-w0860",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "elegy"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "10.10.10.10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/",
+    "line_count": 92
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "dbc772ea-13cb-5894-87e5-94a97a32d75f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 744,
+      "line_count": 95,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

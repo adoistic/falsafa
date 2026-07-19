@@ -1,0 +1,46 @@
+{
+  "work_slug": "george-lyttelton-poems-87ff65",
+  "work_title": "Poems",
+  "chapter_number": 11,
+  "chapter_title": "SONG. Written in the Year 1733.",
+  "chapter_slug": "11-song-written-in-the-year-1733",
+  "author": "George Lyttelton",
+  "author_slug": "george-lyttelton",
+  "ecpa_poem_id": "o5153-w0110",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ballad metre",
+      "Chevy Chase stanza",
+      "song"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "8.6.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/     -+|-+|-+/     -+|-+|-+|-+/     -+|-+|-+/",
+    "line_count": 24
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4df183cd-1a32-555a-a57c-6b2e74e05a06",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 162,
+      "line_count": 33,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

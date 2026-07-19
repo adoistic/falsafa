@@ -1,0 +1,416 @@
+{
+  "slug": "unknown-naradasmrti-7650d2",
+  "window": "01:0-253",
+  "entities": [
+    {
+      "canonical_name": "Yama",
+      "surface_names": ["Yama"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-e4829c",
+          "quote": "the king, free from envy, should be impartial to all beings, observing the vow of Yama",
+          "role": "exemplar of impartiality invoked as a model for the king"
+        }
+      ],
+      "description": "The deity Yama, whose vow of impartiality the king is enjoined to emulate when adjudicating legal disputes.",
+      "justification": "Yama is explicitly named as a divine exemplar whose conduct (his vow) the king must observe in the conduct of justice."
+    },
+    {
+      "canonical_name": "Māṇḍavya",
+      "surface_names": ["Māṇḍavya"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-9872e0",
+          "quote": "Māṇḍavya, though not a thief, acquired the character of one through legal procedure",
+          "role": "historical cautionary example of wrongful conviction by legal process"
+        }
+      ],
+      "description": "A sage cited as a canonical case of an innocent man wrongly branded a thief through defective legal procedure.",
+      "justification": "Māṇḍavya is named as a real named figure whose miscarriage of justice illustrates the danger of flawed legal proceedings."
+    },
+    {
+      "canonical_name": "Manu Prajāpati",
+      "surface_names": ["Manu Prajāpati", "Manu"],
+      "kind": "figure",
+      "figure_kind": "legendary-authority",
+      "mentions": [
+        {
+          "paragraph_id": "p-905702",
+          "quote": "the interest on these is unlimited, so said Manu Prajāpati",
+          "role": "cited authority for the rule on unlimited interest on certain commodities"
+        }
+      ],
+      "description": "Manu Prajāpati, the primordial lawgiver, cited as the authority for the rule that interest on bricks and certain goods is unlimited.",
+      "justification": "Manu Prajāpati is explicitly named as the source of a specific legal ruling on interest rates."
+    },
+    {
+      "canonical_name": "the Self-existent One",
+      "surface_names": ["Self-existent One"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-802d25",
+          "quote": "This is the introduction to legal procedure, first declared by the Self-existent One",
+          "role": "divine originator of the Nāradasmṛti's legal introduction"
+        }
+      ],
+      "description": "The Self-existent One (Svayambhū/Brahmā), credited as the primordial declarer of the framework of legal procedure set out in the Mātṛkā.",
+      "justification": "The text explicitly attributes the foundational legal introduction to the Self-existent One, marking the text's divine authority."
+    },
+    {
+      "canonical_name": "Brāhmaṇa",
+      "surface_names": ["Brāhmaṇa", "Brāhmaṇas", "twice-born men"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-7eb28d",
+          "quote": "The specific wealth of a Brāhmaṇa is known to be of three kinds: what is received by accepting gifts, from sacrificial fees, and from pupils",
+          "role": "social group with prescribed lawful means of wealth acquisition"
+        },
+        {
+          "paragraph_id": "p-38b968",
+          "quote": "A Brāhmaṇa should never perform the work of a Śūdra, nor a Śūdra the work of a Brāhmaṇa",
+          "role": "caste whose occupational restrictions are defined"
+        },
+        {
+          "paragraph_id": "p-1b07ab",
+          "quote": "A Brāhmaṇa who sells what is forbidden for sale has fallen from the path",
+          "role": "subject of commercial prohibitions"
+        },
+        {
+          "paragraph_id": "p-87d704",
+          "quote": "Those of Śūdra origin who bring false accusations against twice-born men",
+          "role": "victims of false accusations by Śūdras"
+        }
+      ],
+      "description": "The priestly varna, whose lawful occupations, commercial prohibitions, debt obligations, and ritual prerogatives are extensively regulated throughout this window.",
+      "justification": "Brāhmaṇas appear repeatedly as the primary subjects of caste-specific rules governing wealth, commerce, occupation, and social standing."
+    },
+    {
+      "canonical_name": "Kṣatriya",
+      "surface_names": ["Kṣatriya"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-3a52d6",
+          "quote": "They declare the specific wealth of a Kṣatriya also to be of three kinds: what is obtained in battle, taxes, and fines from legal proceedings",
+          "role": "social group with prescribed lawful means of wealth acquisition"
+        }
+      ],
+      "description": "The warrior-ruler varna whose lawful wealth sources are battle-spoils, taxes, and judicial fines.",
+      "justification": "Kṣatriyas are named as a distinct group with their own tripartite wealth categories distinct from those of the other varnas."
+    },
+    {
+      "canonical_name": "Vaiśya",
+      "surface_names": ["Vaiśya"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-b85a1c",
+          "quote": "The specific wealth of a Vaiśya is also known to be of three kinds: from agriculture, cattle-rearing, and commerce",
+          "role": "social group with prescribed lawful means of wealth acquisition"
+        },
+        {
+          "paragraph_id": "p-cdaa21",
+          "quote": "A Vaiśya may overcome a calamity by the practice of usury if he wishes",
+          "role": "group permitted usury in times of calamity"
+        }
+      ],
+      "description": "The merchant-farmer varna whose lawful wealth derives from agriculture, cattle, and commerce, and who alone (among twice-born) may practice usury in extremity.",
+      "justification": "Vaiśyas are repeatedly distinguished as a group with specific occupational privileges and permissions around usury that differ from Brāhmaṇas."
+    },
+    {
+      "canonical_name": "Śūdra",
+      "surface_names": ["Śūdra", "Śūdras"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-b85a1c",
+          "quote": "For a Śūdra, it is through service to these",
+          "role": "lowest varna whose lawful wealth is service to higher varnas"
+        },
+        {
+          "paragraph_id": "p-87d704",
+          "quote": "Those of Śūdra origin who bring false accusations against twice-born men, the king should have their tongues cut out",
+          "role": "group subject to severe punishment for false accusation against twice-born"
+        }
+      ],
+      "description": "The servile varna whose only lawful wealth-source is service, and who faces extreme bodily punishment for false accusations against twice-born men.",
+      "justification": "Śūdras are named explicitly in two contrasting rules — their restricted occupational sphere and their disproportionate punishment — marking their inferior legal status."
+    },
+    {
+      "canonical_name": "king",
+      "surface_names": ["king", "lord of the earth"],
+      "kind": "figure",
+      "figure_kind": "political-role",
+      "mentions": [
+        {
+          "paragraph_id": "p-fc9704",
+          "quote": "the king was made the wielder of the rod of punishment and the overseer of disputes",
+          "role": "institutional origin of royal judicial authority"
+        },
+        {
+          "paragraph_id": "p-e4829c",
+          "quote": "the king, free from envy, should be impartial to all beings, observing the vow of Yama",
+          "role": "ideal judge required to embody Yama's impartiality"
+        },
+        {
+          "paragraph_id": "p-15045c",
+          "quote": "All subjects are dependent; the lord of the earth is independent",
+          "role": "apex of legal independence"
+        }
+      ],
+      "description": "The king is the ultimate judicial authority, wielder of the rod of punishment, apex of independent persons, and subject of extensive norms governing impartial adjudication.",
+      "justification": "The king recurs throughout as the institutional locus of judicial power and the primary subject of obligations regarding impartial justice."
+    },
+    {
+      "canonical_name": "Gandhamādana mountain",
+      "surface_names": ["Gandhamādana mountain"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-af1cd7",
+          "quote": "It was given to him by me while he was on the Gandhamādana mountain",
+          "role": "example of an unverifiable, impractical location cited to illustrate a defective plaint"
+        }
+      ],
+      "description": "The mythological mountain Gandhamādana, cited as an example of an unrealistic location that renders a legal plaint unprovable and therefore invalid.",
+      "justification": "Gandhamādana is explicitly named as a place so remote or legendary that a claim grounded in it falls outside 'practical Dharma' and cannot be established."
+    },
+    {
+      "canonical_name": "Dharmaśāstra",
+      "surface_names": ["Dharmaśāstra"],
+      "kind": "object",
+      "mentions": [
+        {
+          "paragraph_id": "p-7016ba",
+          "quote": "Putting the Dharmaśāstra first, and abiding by the opinion of the chief judge",
+          "role": "primary normative source the king must consult"
+        },
+        {
+          "paragraph_id": "p-17968e",
+          "quote": "Where there is a conflict between the Dharmaśāstra and the Arthaśāstra, one should discard the rule of the Arthaśāstra",
+          "role": "superior source in the hierarchy of legal authority"
+        }
+      ],
+      "description": "The genre of sacred jurisprudential texts (law books) that constitutes the primary normative source for legal procedure, superior to the Arthaśāstra.",
+      "justification": "Dharmaśāstra is repeatedly invoked as the authoritative text-genre the king must follow and that overrides the Arthaśāstra in case of conflict."
+    },
+    {
+      "canonical_name": "Arthaśāstra",
+      "surface_names": ["Arthaśāstra"],
+      "kind": "object",
+      "mentions": [
+        {
+          "paragraph_id": "p-17968e",
+          "quote": "Where there is a conflict between the Dharmaśāstra and the Arthaśāstra, one should discard the rule of the Arthaśāstra",
+          "role": "secondary normative source subordinate to Dharmaśāstra"
+        },
+        {
+          "paragraph_id": "p-b28206",
+          "quote": "following a path that does not conflict with the Dharmaśāstra and the Arthaśāstra",
+          "role": "co-authoritative practical guide for legal procedure"
+        }
+      ],
+      "description": "The genre of political-economic treatises on governance and statecraft, treated as a secondary normative source for legal procedure subordinate to Dharmaśāstra.",
+      "justification": "The Arthaśāstra is named twice as a recognized but subordinate legal source, yielding to Dharmaśāstra when the two conflict."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Origins and decay of Dharma as the foundation of legal procedure",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-962160",
+          "quote": "When men were devoted solely to Dharma and were speakers of truth, then there was no legal procedure, nor hatred, nor envy"
+        },
+        {
+          "paragraph_id": "p-fc9704",
+          "quote": "When Dharma was lost among men, legal procedure was introduced"
+        }
+      ],
+      "justification": "The text opens by grounding the very existence of legal procedure in the historical decline of Dharma, framing the whole juridical system as a response to moral degeneration."
+    },
+    {
+      "topic": "Hierarchy of legal authority: Dharma, procedure, custom, royal edict",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-6a3e92",
+          "quote": "Dharma, legal procedure, custom, and royal edict—this legal procedure has four feet; each succeeding one overrules the preceding one"
+        },
+        {
+          "paragraph_id": "p-e026e6",
+          "quote": "Therein, Dharma is based on truth; legal procedure on witnesses; custom on what is recorded by the people; and the royal edict on the king's command"
+        }
+      ],
+      "justification": "The fourfold hierarchy of sources is the structural spine of the entire jurisprudential framework presented in Mātṛkā 1."
+    },
+    {
+      "topic": "The king's duty of impartial and dharmic adjudication",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-e4829c",
+          "quote": "the king, free from envy, should be impartial to all beings, observing the vow of Yama"
+        },
+        {
+          "paragraph_id": "p-6662ab",
+          "quote": "For a king of purified soul who settles legal disputes according to Dharma, seven virtues arise, like the seven flames of a fire"
+        }
+      ],
+      "justification": "The text repeatedly enjoins the king to conduct judicial proceedings impartially and in accordance with Dharma, listing the spiritual and worldly rewards for doing so."
+    },
+    {
+      "topic": "Procedural fairness: plaint, counter-plaint, evidence, and decision",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-41cf7d",
+          "quote": "The essence of legal procedures is said to be the formal claim. If it fails, the plaintiff is defeated; by proving it, he becomes the victor"
+        },
+        {
+          "paragraph_id": "p-1cac61",
+          "quote": "Evidence is said to be of two kinds: human and divine. Human evidence consists of documents and witnesses; divine evidence is remembered as the ordeal by balance and so on"
+        }
+      ],
+      "justification": "A systematic account of how a legal dispute is initiated, how the parties must state their cases, what forms of evidence are admissible, and how a verdict is rendered runs through Mātṛkā 1 and 2."
+    },
+    {
+      "topic": "Varna-based occupational and commercial restrictions",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-38b968",
+          "quote": "A Brāhmaṇa should never perform the work of a Śūdra, nor a Śūdra the work of a Brāhmaṇa. For both of them, these are acts that cause loss of caste"
+        },
+        {
+          "paragraph_id": "p-b85a1c",
+          "quote": "The specific wealth of a Vaiśya is also known to be of three kinds: from agriculture, cattle-rearing, and commerce. For a Śūdra, it is through service to these"
+        }
+      ],
+      "justification": "The section on wealth classification ties legal liability and legitimate economic activity explicitly to varna identity, making caste hierarchy a structural feature of the property law exposition."
+    },
+    {
+      "topic": "Debt inheritance and familial liability across generations",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-396817",
+          "quote": "A debt incurred by an undivided paternal uncle or brother, or by the mother for the sake of the family, all the heirs must pay"
+        },
+        {
+          "paragraph_id": "p-f8847f",
+          "quote": "A debt of the grandfather, which has come down in due succession and has not been paid by the sons, the grandsons shall pay; it ceases with the fourth descendant"
+        }
+      ],
+      "justification": "A substantial portion of the first chapter of the Eighteen Topics is dedicated to tracing the transmission of debt obligations through family lines, defining how far generational responsibility extends."
+    },
+    {
+      "topic": "The three categories of wealth and their moral valence",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-c54077",
+          "quote": "It is known to be of three kinds: white, speckled, and black"
+        },
+        {
+          "paragraph_id": "p-db310d",
+          "quote": "That which is acquired through bribery, gambling, dacoity, fraud, forgery, crimes of violence, or by any deceitful means, is declared to be black"
+        }
+      ],
+      "justification": "The tripartite classification of wealth into white (virtuous), speckled (mixed), and black (sinful) introduces a moral-cosmological dimension into the law of property and debt."
+    },
+    {
+      "topic": "Documentary evidence: validity, defects, and probative weight",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-a8d0b3",
+          "quote": "A written document, witnesses, and possession are remembered as the three kinds of evidence, by which a creditor recovers his wealth"
+        },
+        {
+          "paragraph_id": "p-2f958b",
+          "quote": "A document made by one who is intoxicated, accused of a crime, a woman, a child, or by force, is not a valid instrument"
+        }
+      ],
+      "justification": "The text devotes an entire concluding sequence to the rules governing documentary evidence — when documents are valid, what defects invalidate them, and how they rank against other proofs."
+    },
+    {
+      "topic": "Legal competence, dependency, and the status of minors, women, and slaves",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-39b80c",
+          "quote": "One who has not reached the age of legal competence is not liable for debt, even if he is independent"
+        },
+        {
+          "paragraph_id": "p-af7558",
+          "quote": "Likewise, an act done by a slave is considered not done, unless by the master's command, for a slave is not his own master"
+        }
+      ],
+      "justification": "The text systematically defines who is legally competent to incur debt or make valid transactions, drawing sharp distinctions between independent agents and those — women, sons, slaves, minors — whose acts require a superior's authority."
+    },
+    {
+      "topic": "Possession, title, and the ten-year limitation on property claims",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-8c5cea",
+          "quote": "Whatever property a creditor sees being enjoyed by others for ten years, while he remains silent, he is not entitled to recover it"
+        },
+        {
+          "paragraph_id": "p-039290",
+          "quote": "Where possession is seen without title, and no title is seen anywhere, title is the cause there, not possession"
+        }
+      ],
+      "justification": "The extended discussion of possession (bhoktṛtva) as a form of evidence introduces a doctrine of adverse possession qualified by the requirement of title, structuring the relationship between factual control and legal right."
+    },
+    {
+      "topic": "Sin and spiritual consequences of judicial misconduct",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-bfdc2b",
+          "quote": "A quarter of the adharma goes to the perpetrator, a quarter goes to the witness, a quarter goes to all the court assessors, and a quarter goes to the king"
+        },
+        {
+          "paragraph_id": "p-8ee224",
+          "quote": "a court assessor, having entered the assembly, free from passion and hatred, should speak such words that he does not fall into hell"
+        }
+      ],
+      "justification": "The text embeds legal procedure within a karmic framework, making the spiritual pollution of adharma transferable among all actors in a corrupt proceeding — a theological underpinning of judicial ethics that is implicit rather than the surface topic."
+    },
+    {
+      "topic": "Usury, interest-rate categories, and commodity-specific lending rules",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-976fc7",
+          "quote": "The giving and taking of a loan is desired for the sake of the profit from its location. This is called usury, and by it is the livelihood of usurers"
+        },
+        {
+          "paragraph_id": "p-880b5a",
+          "quote": "It is remembered in the sacred texts as being of four kinds: physical interest, periodical interest, stipulated interest, and compound interest"
+        }
+      ],
+      "justification": "The Nāradasmṛti includes a detailed taxonomy of interest types and commodity-specific rate ceilings, framing commercial lending within a dharmic regulatory scheme."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Manusmṛti",
+      "cited_author": "Manu Prajāpati",
+      "stance": "authority",
+      "paragraph_id": "p-905702",
+      "quote": "the interest on these is unlimited, so said Manu Prajāpati",
+      "justification": "Manu Prajāpati is named as the authority for the rule that interest on bricks and certain listed goods is unlimited, constituting an explicit appeal to the Manusmṛti tradition."
+    }
+  ]
+}

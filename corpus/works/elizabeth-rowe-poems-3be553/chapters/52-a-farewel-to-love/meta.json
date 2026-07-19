@@ -1,0 +1,45 @@
+{
+  "work_slug": "elizabeth-rowe-poems-3be553",
+  "work_title": "Poems",
+  "chapter_number": 52,
+  "chapter_title": "A Farewel to LOVE.",
+  "chapter_slug": "52-a-farewel-to-love",
+  "author": "Elizabeth Rowe",
+  "author_slug": "elizabeth-rowe",
+  "ecpa_poem_id": "oar96-w0510",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "occasional poem"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 79
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e1d829cb-30e8-5bbd-b123-c7dc97342848",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 625,
+      "line_count": 80,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

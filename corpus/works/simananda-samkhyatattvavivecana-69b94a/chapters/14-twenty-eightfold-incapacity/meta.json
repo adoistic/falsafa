@@ -1,0 +1,38 @@
+{
+  "work_slug": "simananda-samkhyatattvavivecana-69b94a",
+  "work_title": "Sāṃkhyatattvavivecana",
+  "chapter_number": 14,
+  "chapter_title": "Twenty-eightfold incapacity",
+  "chapter_slug": "14-twenty-eightfold-incapacity",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "0993400b-54c3-53af-8c18-2939193017eb",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "iast",
+      "word_count": 139,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fbad2001-16cc-5bd5-bb2d-ef6c4c53ddab",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 445,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    }
+  ]
+}

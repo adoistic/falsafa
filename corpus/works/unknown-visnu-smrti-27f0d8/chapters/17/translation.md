@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 17**
+**Viṣṇu Smriti 17**
 
 If a father divides the property among his sons, he has free choice in regard to his self-acquired property. // Vi_17.1 //
 

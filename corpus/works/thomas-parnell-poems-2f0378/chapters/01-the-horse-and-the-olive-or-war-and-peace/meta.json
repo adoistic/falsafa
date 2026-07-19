@@ -1,0 +1,45 @@
+{
+  "work_slug": "thomas-parnell-poems-2f0378",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "THE Horse and the Olive: OR, WAR and PEACE.",
+  "chapter_slug": "01-the-horse-and-the-olive-or-war-and-peace",
+  "author": "Thomas Parnell",
+  "author_slug": "thomas-parnell",
+  "ecpa_poem_id": "o3316-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic quatrain",
+      "narrative verse"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "10.10.10.10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/",
+    "line_count": 48
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1384f163-d3da-50fe-ac96-8a7515d8689f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 366,
+      "line_count": 50,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

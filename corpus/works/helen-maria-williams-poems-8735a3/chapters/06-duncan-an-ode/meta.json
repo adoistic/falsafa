@@ -1,0 +1,41 @@
+{
+  "work_slug": "helen-maria-williams-poems-8735a3",
+  "work_title": "Poems",
+  "chapter_number": 6,
+  "chapter_title": "DUNCAN, AN ODE.",
+  "chapter_slug": "06-duncan-an-ode",
+  "author": "Helen Maria Williams",
+  "author_slug": "helen-maria-williams",
+  "ecpa_poem_id": "bhw18-w0050",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "stanzas": [
+      "twelve-line stanza"
+    ],
+    "rhyme": "aabcbcdedeff",
+    "metrical_pattern": "irregular",
+    "line_count": 96
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "56750afd-2f54-5aee-add8-76b7b4adc4f2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 607,
+      "line_count": 106,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

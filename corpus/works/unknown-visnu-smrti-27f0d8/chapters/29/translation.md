@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 29**
+**Viṣṇu Smriti 29**
 
 He who, having performed the *upanayana* and given the vows, teaches the Veda, one should know him to be an *ācārya* (spiritual preceptor). // Vi_29.1 //
 

@@ -1,0 +1,44 @@
+{
+  "work_slug": "george-crabbe-poems-eb1984",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "THE PARISH REGISTER. IN THREE PARTS.",
+  "chapter_slug": "04-the-parish-register-in-three-parts",
+  "author": "George Crabbe",
+  "author_slug": "george-crabbe",
+  "ecpa_poem_id": "pcr18-w0040",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "narrative verse"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 2377
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5025b2d2-9eed-556d-b425-348d9cb9f94e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 19705,
+      "line_count": 2382,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

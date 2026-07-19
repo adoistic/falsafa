@@ -1,0 +1,536 @@
+{
+  "slug": "unknown-katyayana-smrti-1e06d2",
+  "window": "37-61",
+  "entities": [
+    {
+      "canonical_name": "Śṛṅgin poison",
+      "surface_names": ["Śṛṅgin", "Śṛṅgin poison"],
+      "kind": "object",
+      "mentions": [
+        {
+          "paragraph_id": "p-a774ff",
+          "quote": "Dark like a goat's horn, swelling, originating from a horn, and when broken, resembling ginger—this is known as Śṛṅgin poison.",
+          "role": "substance described for ordeal of poison"
+        },
+        {
+          "paragraph_id": "p-3a4862",
+          "quote": "It makes blood black, and it is hard; this is its characteristic.",
+          "role": "properties enumerated"
+        }
+      ],
+      "description": "A horn-derived poison used in the divine ordeal of poison, dark in color, blood-blackening, and hard in texture.",
+      "justification": "Identified by name and described with specific physical and physiological characteristics in the context of the poison ordeal."
+    },
+    {
+      "canonical_name": "Vatsanābhaka poison",
+      "surface_names": ["Vatsanābha", "Vatsanābhaka"],
+      "kind": "object",
+      "mentions": [
+        {
+          "paragraph_id": "p-82545e",
+          "quote": "Resembling Vatsanābha, yellow—the determination is by the knowledge of its color. When broken, it has the form of a cowrie or conch shell; one should know it as Vatsanābhaka.",
+          "role": "substance described for ordeal of poison"
+        }
+      ],
+      "description": "A yellow poison used in the divine ordeal, identifiable by its color and the form of a cowrie or conch when broken.",
+      "justification": "Named and characterized explicitly in the chapter on the procedure for the ordeal of poison."
+    },
+    {
+      "canonical_name": "Bṛhaspati",
+      "surface_names": ["Bṛhaspati"],
+      "kind": "figure",
+      "figure_kind": "sage/authority",
+      "mentions": [
+        {
+          "paragraph_id": "p-a69afd",
+          "quote": "He who, having denied everything, then privately admits even a little of the accusation, shall be made to pay the entire amount, says Bṛhaspati.",
+          "role": "cited legal authority"
+        },
+        {
+          "paragraph_id": "p-006aee",
+          "quote": "After the father's death, he is not liable for another's debt, says Bṛhaspati.",
+          "role": "cited legal authority"
+        },
+        {
+          "paragraph_id": "p-825353",
+          "quote": "Bṛhaspati allows the seizure and beating of animals that have entered.",
+          "role": "cited legal authority"
+        },
+        {
+          "paragraph_id": "p-81ac83",
+          "quote": "Gaṇas, pāṣaṇḍas, pūgas, vrātas, and śreṇis, and other groups of people, are called vargas by Bṛhaspati.",
+          "role": "cited as definer of group terminology"
+        }
+      ],
+      "description": "A revered legal sage repeatedly cited as a named authority on debt, adjudication, suretyship, property rights, and group classification.",
+      "justification": "Explicitly invoked by name across multiple chapters as a source of legal rulings on diverse topics."
+    },
+    {
+      "canonical_name": "Bhṛgu",
+      "surface_names": ["Bhṛgu"],
+      "kind": "figure",
+      "figure_kind": "sage/authority",
+      "mentions": [
+        {
+          "paragraph_id": "p-a2e0d1",
+          "quote": "Bhṛgu has said this for merchants, farmers, and artisans.",
+          "role": "cited legal authority on debt recovery"
+        },
+        {
+          "paragraph_id": "p-5a7235",
+          "quote": "Where an improper act has been done in a situation of mortal peril, there shall be no punishment; this is the law remembered by Bhṛgu.",
+          "role": "cited as source of a legal maxim"
+        },
+        {
+          "paragraph_id": "p-0284d4",
+          "quote": "a debt incurred for the family even without the permission of the absent master, by a slave, wife, mother, or pupil, must be paid, or by the son, says Bhṛgu.",
+          "role": "cited authority on family debt"
+        },
+        {
+          "paragraph_id": "p-605b19",
+          "quote": "A debt seen by the father, which has come down in succession from the grandfather, if it is without defect and was not discharged by the sons, must be paid by the grandsons, says Bhṛgu.",
+          "role": "cited authority on hereditary debt"
+        },
+        {
+          "paragraph_id": "p-763075",
+          "quote": "For merchants, farmers, and artisans, Bhṛgu has said they should be made to pay according to the custom of the region.",
+          "role": "cited as authority on enforcement customs"
+        },
+        {
+          "paragraph_id": "p-84f30f",
+          "quote": "A violent person, a creator of dissension, and a destroyer of the group's property—all these are to be expelled after being publicly proclaimed to the king, says Bhṛgu.",
+          "role": "cited authority on group discipline"
+        }
+      ],
+      "description": "A prominent legal sage cited repeatedly as an authority on punishment, debt recovery, family obligations, and group conventions.",
+      "justification": "Named explicitly across multiple chapters as the source of specific legal rules covering a wide range of civil and commercial law."
+    },
+    {
+      "canonical_name": "Manu",
+      "surface_names": ["Manu"],
+      "kind": "figure",
+      "figure_kind": "sage/authority",
+      "mentions": [
+        {
+          "paragraph_id": "p-81c7ce",
+          "quote": "Manu says that by taking her personal property, the paternal debt should be cleared there.",
+          "role": "cited authority on a widow-and-son debt scenario"
+        }
+      ],
+      "description": "The foundational lawgiver cited once in the context of a mother's personal property being used to clear paternal debt.",
+      "justification": "Named explicitly as the source of a ruling about a woman with a capable son and the clearance of paternal debt."
+    },
+    {
+      "canonical_name": "Kātyāyana",
+      "surface_names": ["Kātyāyana"],
+      "kind": "figure",
+      "figure_kind": "sage/authority",
+      "mentions": [
+        {
+          "paragraph_id": "p-259895",
+          "quote": "When something unspecified and something specified are written in one document, the specifically written one is stronger; thus said Kātyāyana.",
+          "role": "self-referential authorial citation"
+        }
+      ],
+      "description": "The author of the text, who cites himself by name in the context of a rule about the priority of specified over unspecified pledges in a single document.",
+      "justification": "The text names Kātyāyana as the speaker of a specific legal ruling, marking this as an authorial self-citation."
+    },
+    {
+      "canonical_name": "Ārhatas and Saugatas",
+      "surface_names": ["Ārhatas", "Saugatas", "Jains", "Buddhists"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-0c480e",
+          "quote": "A group of Ārhatas and Saugatas (Jains and Buddhists) is called a saṅgha.",
+          "role": "defined as a recognized social/religious collective (saṅgha)"
+        }
+      ],
+      "description": "Jain and Buddhist communities grouped together and identified as forming a saṅgha (assembly/congregation) in the text's taxonomy of social collectives.",
+      "justification": "Explicitly named and classified as a distinct group type within the legal taxonomy of guilds and congregations."
+    },
+    {
+      "canonical_name": "Chāṇḍālas",
+      "surface_names": ["Chāṇḍālas", "Śvapacas"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-0c480e",
+          "quote": "a group of Chāṇḍālas, Śvapacas, and others is called a gulma.",
+          "role": "classified as a low-caste collective (gulma)"
+        }
+      ],
+      "description": "Outcast and low-status communities classified as a gulma in the text's taxonomy of social groups.",
+      "justification": "Named together with Śvapacas and designated with the group term gulma, situating them within the legal framework of collective entities."
+    },
+    {
+      "canonical_name": "Brahmins",
+      "surface_names": ["Brahmin", "Brahmins", "gaṇa"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-e50e16",
+          "quote": "The king should make a Brahmin pay his master by gentle means only.",
+          "role": "caste granted special procedural protection"
+        },
+        {
+          "paragraph_id": "p-2a0f68",
+          "quote": "One should never kill a Brahmin, even if he is guilty of all sins. He should be banished from the kingdom with all his wealth intact.",
+          "role": "protected class exempt from capital punishment"
+        },
+        {
+          "paragraph_id": "p-b0afd8",
+          "quote": "for the same offense the fine for a Kshatriya and a Brahmin shall be double and double again, respectively.",
+          "role": "subject to graduated higher fines than lower castes"
+        },
+        {
+          "paragraph_id": "p-9784c6",
+          "quote": "In a confluence of multiple debts, whichever was incurred first should be paid first, after the king's dues and then a learned Brahmin's.",
+          "role": "creditor with priority status"
+        },
+        {
+          "paragraph_id": "p-91217e",
+          "quote": "A group of Brahmins is declared to be a gaṇa.",
+          "role": "defined as a recognized collective type"
+        },
+        {
+          "paragraph_id": "p-35f181",
+          "quote": "He who, of his own will, promises a gift to a Brahmin but does not give it, shall be made to pay it like a debt.",
+          "role": "recipient of legally enforceable gifts"
+        }
+      ],
+      "description": "The highest varna (priestly class) accorded special legal protections including exemption from death penalty, preferential debt recovery status, and higher fines scaled to their rank.",
+      "justification": "Brahmins appear across multiple chapters as a legally privileged group with both protections and higher obligations in the text's caste-differentiated legal code."
+    },
+    {
+      "canonical_name": "Kshatriyas",
+      "surface_names": ["Kshatriya", "Kshatriyas"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-65d273",
+          "quote": "Farmers and those of the Kshatriya, Vaishya, and Shudra classes who are able-bodied should be made to pay.",
+          "role": "liable to physical labor for debt recovery"
+        },
+        {
+          "paragraph_id": "p-b0afd8",
+          "quote": "for that same offense the fine for a Kshatriya and a Brahmin shall be double and double again, respectively.",
+          "role": "subject to scaled fines higher than Shudras"
+        }
+      ],
+      "description": "The warrior/ruling varna subject to scaled punishments and debt enforcement by physical labor or coercion.",
+      "justification": "Mentioned in conjunction with the other varnas in chapters on punishment and debt recovery, showing a graded legal system by caste."
+    },
+    {
+      "canonical_name": "Five Rivers region",
+      "surface_names": ["region of the five rivers", "Punjab"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-2ed0f1",
+          "quote": "In the region of the five rivers, this practical terminology should be known: a kārṣāpaṇa is to be known as an aṇḍikā.",
+          "role": "regional context for monetary terminology"
+        }
+      ],
+      "description": "The Punjab (land of the five rivers), cited as a region with its own local monetary terminology for standard denominations.",
+      "justification": "Geographically identified by its classical epithet 'region of the five rivers' as the locus of distinct commercial currency usage."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Divine ordeals as judicial proof",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-8575d3",
+          "quote": "The Procedure for the Ordeal of Poison"
+        },
+        {
+          "paragraph_id": "p-407ff9",
+          "quote": "In the ordeal of poison, water, fire, the balance, consecrated water, rice grains, and the hot coin, one should determine the punishment in descending order."
+        },
+        {
+          "paragraph_id": "p-c9837e",
+          "quote": "If there is a (negative) reaction, he is impure; otherwise, he is pure and should be controlled."
+        }
+      ],
+      "justification": "Chapters 37–40 are organized around a taxonomy of seven divine ordeals (poison, fire, water, balance, consecrated water, rice grains, hot coin) used as judicial evidence, with graduated fines tied to each."
+    },
+    {
+      "topic": "Caste-differentiated legal treatment",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-b0afd8",
+          "quote": "For whatever offense a Shudra is lawfully fined, for that same offense the fine for a Kshatriya and a Brahmin shall be double and double again, respectively."
+        },
+        {
+          "paragraph_id": "p-e50e16",
+          "quote": "The king should make a Brahmin pay his master by gentle means only."
+        },
+        {
+          "paragraph_id": "p-7a8cd1",
+          "quote": "A Shudra who has become an ascetic and is devoted to chanting and fire-sacrifices, one should punish that sinner with death."
+        }
+      ],
+      "justification": "Throughout chapters 43–53, punishment, enforcement methods, and debt recovery procedures are explicitly scaled according to varna, demonstrating a systematically caste-differentiated legal code."
+    },
+    {
+      "topic": "Intergenerational debt inheritance",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-605b19",
+          "quote": "A debt seen by the father, which has come down in succession from the grandfather, if it is without defect and was not discharged by the sons, must be paid by the grandsons."
+        },
+        {
+          "paragraph_id": "p-d4a974",
+          "quote": "In the absence of a son, the debt must be paid by the grandson with diligence. It is not to be paid by the fourth in descent; from him, it is discharged."
+        },
+        {
+          "paragraph_id": "p-15ff43",
+          "quote": "Fathers desire sons because by their birth and by their giving, they are released from the debt of their ancestors and from the lowest state."
+        }
+      ],
+      "justification": "Chapter 52 is devoted to the detailed rules of debt passing through three generations, with explicit limits at the fourth generation and theological motivation tied to ancestral liberation."
+    },
+    {
+      "topic": "Legal capacity and agency of dependents",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-98c774",
+          "quote": "What is given or done by one who is insane, intoxicated, or in another state of mind, is not valid proof."
+        },
+        {
+          "paragraph_id": "p-cff4c1",
+          "quote": "A son whose father is alive is not independent, nor is a brother, a nephew, a younger brother in an undivided family, a slave, or a servant."
+        },
+        {
+          "paragraph_id": "p-b03fba",
+          "quote": "He who is empowered for a certain matter is the master in that matter. His master cannot annul the act done by him."
+        }
+      ],
+      "justification": "Chapter 41 systematically defines the limits of legal capacity for dependents (sons, slaves, the insane), establishing when their transactions require ratification by a master."
+    },
+    {
+      "topic": "Written documents and witness testimony as evidence",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-579d3a",
+          "quote": "When a pledge, sale, or gift is made by a written document and with witnesses, if they are in conflict over a single transaction, the written document prevails.",
+          "role": "hierarchy of proof"
+        },
+        {
+          "paragraph_id": "p-259895",
+          "quote": "When something unspecified and something specified are written in one document, the specifically written one is stronger."
+        },
+        {
+          "paragraph_id": "p-c46c34",
+          "quote": "That plea which is determined by the assessors as false or true, that is declared to be a settled and instructed judgment based on the testimony of witnesses."
+        }
+      ],
+      "justification": "Multiple chapters treat the relative evidentiary weight of documents versus oral testimony versus witnesses, articulating a hierarchy of proof central to the text's procedural law."
+    },
+    {
+      "topic": "Monetary denominations and regional currency",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-afe9c5",
+          "quote": "A māṣa should be known as the twentieth part of a kārṣāpaṇa. A kākaṇī is the fourth part of a māṣaka and of a paṇa."
+        },
+        {
+          "paragraph_id": "p-2ed0f1",
+          "quote": "In the region of the five rivers, this practical terminology should be known: a kārṣāpaṇa is to be known as an aṇḍikā; four of these are a dhānaka; twelve of those are a suvarṇa, which is also called a dīnāra or citraka."
+        },
+        {
+          "paragraph_id": "p-1a1efa",
+          "quote": "Where the fine is stated in māṣakas, it should be understood as silver. Where it is stated in kṛṣṇalas, it is as stated."
+        }
+      ],
+      "justification": "Chapter 43 specifies a detailed system of monetary units (māṣa, kārṣāpaṇa, kākaṇī, paṇa) and acknowledges regional variation in the Punjab, grounding legal fines in a concrete monetary framework."
+    },
+    {
+      "topic": "The social taxonomy of guilds, corporations, and groups",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-8ef7ce",
+          "quote": "A group of various city-dwellers is declared to be a naigama; a band of men bearing various weapons is declared to be a vrāta."
+        },
+        {
+          "paragraph_id": "p-df777c",
+          "quote": "A group of traders and others is declared to be a pūga; those who have abandoned their ascetic vows are declared to be pāṣaṇḍas."
+        },
+        {
+          "paragraph_id": "p-81ac83",
+          "quote": "Gaṇas, pāṣaṇḍas, pūgas, vrātas, and śreṇis, and other groups of people, are called vargas by Bṛhaspati."
+        }
+      ],
+      "justification": "Chapter 61 provides a systematic enumeration of social group types (naigama, vrāta, pūga, pāṣaṇḍa, gaṇa, śilpin, saṅgha, gulma), forming a sociological taxonomy with legal implications established in the preceding chapters."
+    },
+    {
+      "topic": "Karmic consequences for legal transgressions",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-21ea0c",
+          "quote": "By not giving what was promised and by concealing what was given, a mortal is born in the wombs of animals for a hundred crore kalpas.",
+          "role": "cosmic punishment for reneging on a gift"
+        },
+        {
+          "paragraph_id": "p-d9eb02",
+          "quote": "A debt should not be paid by one who has not reached the age of legal competence... otherwise, they will dwell in hell.",
+          "role": "hellish consequence for untimely debt payment"
+        },
+        {
+          "paragraph_id": "p-657412",
+          "quote": "He who, having collected a debt or other property, does not give it to his master, becomes his slave, servant, wife, or beast in his house.",
+          "role": "karmic rebirth consequence for misappropriation"
+        }
+      ],
+      "justification": "Interspersed across the civil law chapters are explicit warnings of rebirth in animal wombs, hell, or servitude as karmic consequences for violations, embedding the legal code within a soteriological framework."
+    },
+    {
+      "topic": "Bribery and corrupt transactions",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-467ba8",
+          "quote": "A bribe that is promised for the accomplishment of a task should not be given under any circumstances, even if that task is accomplished.",
+          "role": "absolute prohibition on bribes"
+        },
+        {
+          "paragraph_id": "p-fd3c64",
+          "quote": "If it has been given beforehand, it must be forcibly taken back. The Gārgīya and Mānava texts state a fine of eleven times the amount.",
+          "role": "penalty for bribery"
+        },
+        {
+          "paragraph_id": "p-9ab392",
+          "quote": "He who is appointed to a task, if he receives a bribe, shall be made to pay that entire amount and a fine of eleven times more.",
+          "role": "penalty for official bribery"
+        }
+      ],
+      "justification": "Chapter 57 develops a theory of illegitimate gifts (bribes), distinguishing them from legitimate fees and rewards, with severe fines prescribed and citation of other texts as authorities."
+    },
+    {
+      "topic": "Property rights of women",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-ae679a",
+          "quote": "One should never lend to women, slaves, or children; the lender will not get it back.",
+          "role": "women's restricted legal capacity in lending"
+        },
+        {
+          "paragraph_id": "p-a9c6a6",
+          "quote": "A wealthy woman who, without her son's consent, takes another man as a consort—her wealth is to be taken away by her son alone.",
+          "role": "son's power over mother's property"
+        },
+        {
+          "paragraph_id": "p-81c7ce",
+          "quote": "Manu says that by taking her personal property, the paternal debt should be cleared there.",
+          "role": "woman's personal property used to clear debt"
+        },
+        {
+          "paragraph_id": "p-f22948",
+          "quote": "In all offenses, whatever monetary fine is prescribed for a man, women should pay half of that.",
+          "role": "gendered penalty scale"
+        }
+      ],
+      "justification": "Women's legal status emerges implicitly across chapters on lending, punishment, and debt: they are restricted in borrowing, their personal property is subject to male kin control, and their fines are halved relative to men."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Bṛhaspati Smṛti",
+      "cited_author": "Bṛhaspati",
+      "stance": "authority",
+      "paragraph_id": "p-a69afd",
+      "quote": "He who, having denied everything, then privately admits even a little of the accusation, shall be made to pay the entire amount, says Bṛhaspati.",
+      "justification": "Bṛhaspati is named as the authority for a specific ruling on partial admission of liability, indicating reliance on a distinct Bṛhaspati legal text."
+    },
+    {
+      "cited_work": "Bṛhaspati Smṛti",
+      "cited_author": "Bṛhaspati",
+      "stance": "authority",
+      "paragraph_id": "p-006aee",
+      "quote": "After the father's death, he is not liable for another's debt, says Bṛhaspati.",
+      "justification": "Bṛhaspati is explicitly invoked by name as the source of the rule that a son is not liable after his father's death for another's debt."
+    },
+    {
+      "cited_work": "Bṛhaspati Smṛti",
+      "cited_author": "Bṛhaspati",
+      "stance": "authority",
+      "paragraph_id": "p-825353",
+      "quote": "Bṛhaspati allows the seizure and beating of animals that have entered.",
+      "justification": "A ruling on trespass by animals is explicitly attributed to Bṛhaspati, citing his legal authority on property disputes between owners and herdsmen."
+    },
+    {
+      "cited_work": "Bṛhaspati Smṛti",
+      "cited_author": "Bṛhaspati",
+      "stance": "authority",
+      "paragraph_id": "p-81ac83",
+      "quote": "Gaṇas, pāṣaṇḍas, pūgas, vrātas, and śreṇis, and other groups of people, are called vargas by Bṛhaspati.",
+      "justification": "The collective term varga and the taxonomy of social groups is attributed directly to Bṛhaspati as a definitional authority."
+    },
+    {
+      "cited_work": "Bhṛgu Smṛti",
+      "cited_author": "Bhṛgu",
+      "stance": "authority",
+      "paragraph_id": "p-a2e0d1",
+      "quote": "Bhṛgu has said this for merchants, farmers, and artisans.",
+      "justification": "Bhṛgu is cited as the authority behind the rule on debt recovery by stratagem for certain occupational groups."
+    },
+    {
+      "cited_work": "Bhṛgu Smṛti",
+      "cited_author": "Bhṛgu",
+      "stance": "authority",
+      "paragraph_id": "p-5a7235",
+      "quote": "Where an improper act has been done in a situation of mortal peril, there shall be no punishment; this is the law remembered by Bhṛgu.",
+      "justification": "The duress exemption from punishment is attributed to Bhṛgu's remembered legal teaching."
+    },
+    {
+      "cited_work": "Bhṛgu Smṛti",
+      "cited_author": "Bhṛgu",
+      "stance": "authority",
+      "paragraph_id": "p-0284d4",
+      "quote": "a debt incurred for the family even without the permission of the absent master, by a slave, wife, mother, or pupil, must be paid, or by the son, says Bhṛgu.",
+      "justification": "Bhṛgu is explicitly cited as the authority for the rule that family debts incurred by dependents in the master's absence are binding."
+    },
+    {
+      "cited_work": "Bhṛgu Smṛti",
+      "cited_author": "Bhṛgu",
+      "stance": "authority",
+      "paragraph_id": "p-605b19",
+      "quote": "A debt seen by the father, which has come down in succession from the grandfather, if it is without defect and was not discharged by the sons, must be paid by the grandsons, says Bhṛgu.",
+      "justification": "The three-generation rule of debt inheritance is ascribed to Bhṛgu as the originating legal authority."
+    },
+    {
+      "cited_work": "Manusmṛti",
+      "cited_author": "Manu",
+      "stance": "authority",
+      "paragraph_id": "p-81c7ce",
+      "quote": "Manu says that by taking her personal property, the paternal debt should be cleared there.",
+      "justification": "Manu is cited by name as the authority for a specific ruling about using a mother's personal property to clear paternal debt when she abandons her capable son."
+    },
+    {
+      "cited_work": "Gārgīya text",
+      "cited_author": "Gārgīya",
+      "stance": "authority",
+      "paragraph_id": "p-fd3c64",
+      "quote": "The Gārgīya and Mānava texts state a fine of eleven times the amount.",
+      "justification": "Two distinct legal texts (Gārgīya and Mānava) are cited together as the source for the eleven-fold fine on bribery."
+    },
+    {
+      "cited_work": "Mānava text",
+      "cited_author": "Mānava",
+      "stance": "authority",
+      "paragraph_id": "p-fd3c64",
+      "quote": "The Gārgīya and Mānava texts state a fine of eleven times the amount.",
+      "justification": "The Mānava text (likely related to the Manu tradition) is cited alongside the Gārgīya as a joint authority for the eleven-fold bribery fine."
+    }
+  ]
+}

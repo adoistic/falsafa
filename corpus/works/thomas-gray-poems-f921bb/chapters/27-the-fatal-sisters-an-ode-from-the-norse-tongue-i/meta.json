@@ -1,0 +1,46 @@
+{
+  "work_slug": "thomas-gray-poems-f921bb",
+  "work_title": "Poems",
+  "chapter_number": 27,
+  "chapter_title": "The Fatal Sisters. An Ode (From the Norse-Tongue,) in the ORCADES of Thormodus Torfaeus; Hafniae, 1697, Folio: and also in Bartholinus. Vitt er orpit fyrir valfalli, &c.",
+  "chapter_slug": "27-the-fatal-sisters-an-ode-from-the-norse-tongue-i",
+  "author": "Thomas Gray",
+  "author_slug": "thomas-gray",
+  "ecpa_poem_id": "tgaen-wfsio",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode",
+      "Ossianic verse",
+      "prophecy"
+    ],
+    "foot": "trochaic (′˘)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "8.8.8.8",
+    "metrical_pattern": "+-|+-|+-|+-/ +-|+-|+-|+-/ +-|+-|+-|+-/ +-|+-|+-|+-/",
+    "line_count": 64
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "36fb3138-fcd3-5901-88d1-de227430b330",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 381,
+      "line_count": 66,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "work_slug": "mary-alcock-poems-e4bcfc",
+  "work_title": "Poems",
+  "chapter_number": 7,
+  "chapter_title": "THE CHIMNEY-SWEEPER'S COMPLAINT.",
+  "chapter_slug": "07-the-chimney-sweepers-complaint",
+  "author": "Mary Alcock",
+  "author_slug": "mary-alcock",
+  "ecpa_poem_id": "pma99-w0070",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "complaint"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "xaxa",
+    "syllable_pattern": "8.6.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 32
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ed01c621-6802-5df7-9118-adf9d42a6f9c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 195,
+      "line_count": 33,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

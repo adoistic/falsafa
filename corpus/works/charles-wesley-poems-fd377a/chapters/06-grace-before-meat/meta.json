@@ -1,0 +1,44 @@
+{
+  "work_slug": "charles-wesley-poems-fd377a",
+  "work_title": "Poems",
+  "chapter_number": 6,
+  "chapter_title": "GRACE before MEAT.",
+  "chapter_slug": "06-grace-before-meat",
+  "author": "Charles Wesley",
+  "author_slug": "charles-wesley",
+  "ecpa_poem_id": "o3900-w0240",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "hymn"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "8.6.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 16
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f57307fb-07dc-549c-a7ed-6ba0427ceb70",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 97,
+      "line_count": 21,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

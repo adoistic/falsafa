@@ -1,0 +1,38 @@
+{
+  "work_slug": "assorted-eighteenth-century-poetry-353ac8",
+  "work_title": "An Assorted Collection of Eighteenth-Century Poetry",
+  "chapter_number": 179,
+  "chapter_title": "The GROTTO: An ODE to SILENCE.",
+  "chapter_slug": "179-the-grotto-an-ode-to-silence",
+  "author": "Thomas Cole",
+  "author_slug": "thomas-cole",
+  "ecpa_poem_id": "o5157-w0110",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "rhyme": "irregular",
+    "metrical_pattern": "irregular",
+    "line_count": 80
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c1a41a9f-87a7-56e4-a2ec-6c8775add3e6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 563,
+      "line_count": 83,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

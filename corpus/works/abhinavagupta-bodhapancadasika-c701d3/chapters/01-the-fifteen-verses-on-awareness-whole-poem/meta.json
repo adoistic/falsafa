@@ -1,0 +1,38 @@
+{
+  "work_slug": "abhinavagupta-bodhapancadasika-c701d3",
+  "work_title": "Bodhapañcadaśikā",
+  "chapter_number": 1,
+  "chapter_title": "The Fifteen Verses on Awareness (whole poem)",
+  "chapter_slug": "01-the-fifteen-verses-on-awareness-whole-poem",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "49b62f23-2652-5964-8ae5-44c6e80ed37c",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "iast",
+      "word_count": 182,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7b7f6f6d-e4c4-536c-b0bd-329e84909d3d",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 598,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "work_slug": "assorted-eighteenth-century-poetry-353ac8",
+  "work_title": "An Assorted Collection of Eighteenth-Century Poetry",
+  "chapter_number": 121,
+  "chapter_title": "VERSES sent to Dean SWIFT on his Birth-day, with PINE'S HORACE finely bound.",
+  "chapter_slug": "121-verses-sent-to-dean-swift-on-his-birth-day-with-",
+  "author": "John Sican",
+  "author_slug": "john-sican",
+  "ecpa_poem_id": "o5155-w0290",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "occasional poem"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 66
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9a2fa601-b44f-50d3-88eb-946e9d9f077a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 435,
+      "line_count": 69,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

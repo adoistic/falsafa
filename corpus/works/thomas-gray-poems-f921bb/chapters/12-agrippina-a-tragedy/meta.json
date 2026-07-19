@@ -1,0 +1,42 @@
+{
+  "work_slug": "thomas-gray-poems-f921bb",
+  "work_title": "Poems",
+  "chapter_number": 12,
+  "chapter_title": "Agrippina, a Tragedy",
+  "chapter_slug": "12-agrippina-a-tragedy",
+  "author": "Thomas Gray",
+  "author_slug": "thomas-gray",
+  "ecpa_poem_id": "tgaen-wagtr",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "blank verse",
+      "drama",
+      "fragment"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 194
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7a6eba5b-59a1-56df-a505-9f6df048e85a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1526,
+      "line_count": 204,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "work_slug": "christian-carstairs-poems-cdca30",
+  "work_title": "Poems",
+  "chapter_number": 18,
+  "chapter_title": "To Miss A. H—.",
+  "chapter_slug": "18-to-miss-a-h",
+  "author": "Christian Carstairs",
+  "author_slug": "christian-carstairs",
+  "ecpa_poem_id": "pcc86-w0180",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "address"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 6
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9b52a74b-7c17-5629-9051-4fbd5a59d91c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 59,
+      "line_count": 7,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "work_slug": "william-melmoth-poems-87b019",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "Of Active and Retired Life. AN EPISTLE to H. C. Esq;",
+  "chapter_slug": "04-of-active-and-retired-life-an-epistle-to-h-c-esq",
+  "author": "William Melmoth",
+  "author_slug": "william-melmoth",
+  "ecpa_poem_id": "o5152-w0290",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "epistle"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 281
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d96e5da4-7162-5688-a177-210050d8e241",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2147,
+      "line_count": 285,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

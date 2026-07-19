@@ -1,0 +1,28 @@
+{
+  "work_slug": "william-shakespeare-sonnets-65f289",
+  "work_title": "Sonnets",
+  "chapter_number": 23,
+  "chapter_title": "Sonnet 23",
+  "chapter_slug": "023-sonnet-23",
+  "incipit": "As an unperfect actor on the stage,",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a98fb2b3-b68f-5bad-a54d-7b534ed43a85",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 114,
+      "line_count": 14,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1041",
+      "license": "Public domain — from Project Gutenberg (https://www.gutenberg.org)"
+    }
+  ]
+}

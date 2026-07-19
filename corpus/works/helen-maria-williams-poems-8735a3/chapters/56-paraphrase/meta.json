@@ -1,0 +1,44 @@
+{
+  "work_slug": "helen-maria-williams-poems-8735a3",
+  "work_title": "Poems",
+  "chapter_number": 56,
+  "chapter_title": "PARAPHRASE.",
+  "chapter_slug": "56-paraphrase",
+  "author": "Helen Maria Williams",
+  "author_slug": "helen-maria-williams",
+  "ecpa_poem_id": "bhw18-w0560",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "paraphrase"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "octet (8 lines)"
+    ],
+    "rhyme": "aabbccdd",
+    "syllable_pattern": "8.8.8.8.8.8.8.8",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/",
+    "line_count": 32
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "bafd1bf4-99d5-5f8a-ac30-f5553ff21823",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 216,
+      "line_count": 37,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "work_slug": "mary-chandler-poems-1ab8c5",
+  "work_title": "Poems",
+  "chapter_number": 18,
+  "chapter_title": "To Mrs. Jacob, On her Seat called, The Rocks, in Gloucestershire.",
+  "chapter_slug": "18-to-mrs-jacob-on-her-seat-called-the-rocks-in-glo",
+  "author": "Mary Chandler",
+  "author_slug": "mary-chandler",
+  "ecpa_poem_id": "pmc36-w0180",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "occasional poem"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "xaxa",
+    "syllable_pattern": "8.6.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 44
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9890745b-020c-59a0-9a65-12a166e596b4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 236,
+      "line_count": 45,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

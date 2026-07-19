@@ -16,7 +16,6 @@ build/
 .astro/
 .output/
 .vercel/
-.netlify/
 
 # Test outputs
 coverage/
@@ -74,6 +73,11 @@ apps/mcp/corpus/
 
 # FTS5 search index: large binary, rebuilt by scripts/build-search-index.ts
 corpus/search.db
+
+# Citation-graph pipeline output (regenerable via scripts/graph/run.ts)
+corpus/graph/*
+# ...except the canonical step-1 ontology — a committed durable asset
+!corpus/graph/ontology/
 
 # Ingester build artifacts (regenerable; corpus/ holds the built output)
 /perseus-works.json

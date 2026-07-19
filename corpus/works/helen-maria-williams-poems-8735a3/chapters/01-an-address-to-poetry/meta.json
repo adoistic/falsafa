@@ -1,0 +1,42 @@
+{
+  "work_slug": "helen-maria-williams-poems-8735a3",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "AN ADDRESS TO POETRY.",
+  "chapter_slug": "01-an-address-to-poetry",
+  "author": "Helen Maria Williams",
+  "author_slug": "helen-maria-williams",
+  "ecpa_poem_id": "bhw18-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "address",
+      "ode"
+    ],
+    "stanzas": [
+      "octet (8 lines)"
+    ],
+    "rhyme": "irregular",
+    "metrical_pattern": "irregular",
+    "line_count": 224
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6f535ab3-4b58-5f05-9890-7d257408177c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1539,
+      "line_count": 253,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

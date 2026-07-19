@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 65**
+**Viṣṇu Smriti 65**
 
 Now, therefore, having bathed well, with hands and feet well washed, and having rinsed his mouth, in a place for the worship of deities or on the ground, he shall worship the blessed Vāsudeva, who is without beginning or end. // Vi_65.1 //
 

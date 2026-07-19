@@ -1,0 +1,44 @@
+{
+  "work_slug": "elizabeth-craven-poems-7a848f",
+  "work_title": "Poems",
+  "chapter_number": 2,
+  "chapter_title": "On Dreaming That She Saw her Heart at her Feet.",
+  "chapter_slug": "02-on-dreaming-that-she-saw-her-heart-at-her-feet",
+  "author": "Elizabeth Craven",
+  "author_slug": "elizabeth-craven",
+  "ecpa_poem_id": "ilc19-w0020",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 96
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9ddeabe5-30f1-5a7c-9ea1-22faafc3d9a7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 800,
+      "line_count": 97,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

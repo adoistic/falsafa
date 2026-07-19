@@ -1,0 +1,46 @@
+{
+  "work_slug": "alexander-pope-poems-2de8d3",
+  "work_title": "Poems",
+  "chapter_number": 6,
+  "chapter_title": "EPISTLES OF HORACE. BOOK I.",
+  "chapter_slug": "06-epistles-of-horace-book-i",
+  "author": "Alexander Pope",
+  "author_slug": "alexander-pope",
+  "ecpa_poem_id": "o3677-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "imitation",
+      "translation"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 188
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d2f84342-64aa-55c1-9e0a-098f4a11b5eb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1547,
+      "line_count": 191,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

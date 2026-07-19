@@ -22,7 +22,7 @@ translator: thothica
 
 ## The Qualities of a King
 
-A king should be disciplined, well-versed in the sacred texts, possessed of a full treasury and valor, devoted to Brahmins, charitable, and dedicated to truth and *Dharma* (sacred law, righteousness, and duty). // K_001 //
+A king should be disciplined, well-versed in the sacred texts, possessed of a full treasury and valor, devoted to Brāhmaṇas, charitable, and dedicated to truth and *Dharma* (sacred law, righteousness, and duty). // K_001 //
 
 He should be free from arrogance, cruelty, slander, fickleness, and anger; eloquent, humble yet dignified, pleasant in speech, and pleasing to behold. // K_002 //
 

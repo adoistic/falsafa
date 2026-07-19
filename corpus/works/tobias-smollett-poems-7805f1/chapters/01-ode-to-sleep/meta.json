@@ -1,0 +1,44 @@
+{
+  "work_slug": "tobias-smollett-poems-7805f1",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "ODE TO SLEEP.",
+  "chapter_slug": "01-ode-to-sleep",
+  "author": "Tobias Smollett",
+  "author_slug": "tobias-smollett",
+  "ecpa_poem_id": "o4987-w0520",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 20
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "74dded89-3466-5c8a-8b54-cdd768091140",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 123,
+      "line_count": 22,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

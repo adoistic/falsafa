@@ -1,0 +1,44 @@
+{
+  "work_slug": "anne-finch-poems-8fd29f",
+  "work_title": "Poems",
+  "chapter_number": 22,
+  "chapter_title": "The Hog, the Sheep, and Goat carrying to a FAIR.",
+  "chapter_slug": "22-the-hog-the-sheep-and-goat-carrying-to-a-fair",
+  "author": "Anne Finch",
+  "author_slug": "anne-finch",
+  "ecpa_poem_id": "o4784-w0220",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "fable"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "quintet (5 lines)"
+    ],
+    "rhyme": "ababb",
+    "syllable_pattern": "10.8.10.10.12",
+    "metrical_pattern": "-+|-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+|-+/",
+    "line_count": 30
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4f20cf20-4021-575c-8b1e-b3205a566367",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 252,
+      "line_count": 31,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

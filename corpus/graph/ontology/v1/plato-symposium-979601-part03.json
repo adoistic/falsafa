@@ -1,0 +1,695 @@
+{
+  "slug": "plato-symposium-979601",
+  "window": "01-symposium:60-85",
+  "entities": [
+    {
+      "canonical_name": "Diotima",
+      "surface_names": ["Diotima", "Mantinean woman", "madam", "she"],
+      "kind": "figure",
+      "figure_kind": "mortal",
+      "mentions": [
+        {
+          "paragraph_id": "p-c44ddc",
+          "quote": "Who then, Diotima, I asked, are the followers of wisdom",
+          "role": "interlocutor and teacher of Socrates on the nature of Love"
+        },
+        {
+          "paragraph_id": "p-62ec73",
+          "quote": "That is the next question, Socrates, she replied, on which I will try to enlighten you.",
+          "role": "teacher explaining the purpose of Love to Socrates"
+        },
+        {
+          "paragraph_id": "p-4c5a5d",
+          "quote": "Well, I will tell you, said she; it is begetting on a beautiful thing by means of both the body and the soul.",
+          "role": "teacher explaining Love as begetting"
+        },
+        {
+          "paragraph_id": "p-a5d685",
+          "quote": "said the Mantinean woman, a man finds it truly worth while to live, as he contemplates essential beauty.",
+          "role": "teacher revealing the final vision of Beauty"
+        },
+        {
+          "paragraph_id": "p-4c4f02",
+          "quote": "This, Phaedrus and you others, is what Diotima told me, and I am persuaded of it",
+          "role": "authority whose doctrine Socrates endorses and transmits"
+        }
+      ],
+      "description": "Diotima of Mantinea, the wise woman who initiates Socrates into the mysteries of Eros, culminating in the vision of Beauty itself.",
+      "justification": "She is the principal teacher in this window, instructing Socrates on Love, begetting, immortality, and the ascent to the Form of Beauty."
+    },
+    {
+      "canonical_name": "Socrates",
+      "surface_names": ["Socrates", "him", "our Marsyas", "satyr", "the fellow"],
+      "kind": "figure",
+      "figure_kind": "mortal",
+      "mentions": [
+        {
+          "paragraph_id": "p-c44ddc",
+          "quote": "Such, my good Socrates, is the nature of this spirit.",
+          "role": "pupil of Diotima receiving instruction on Love"
+        },
+        {
+          "paragraph_id": "p-4c4f02",
+          "quote": "This, Phaedrus and you others, is what Diotima told me, and I am persuaded of it",
+          "role": "narrator and advocate of the Diotiman doctrine of Love"
+        },
+        {
+          "paragraph_id": "p-81b4ae",
+          "quote": "For I say he is likest to the Silenus-figures that sit in the statuaries' shops",
+          "role": "subject of Alcibiades' encomium, compared to Silenus and Marsyas"
+        },
+        {
+          "paragraph_id": "p-bb1985",
+          "quote": "he spends his whole life in chaffing and making game of his fellow-men",
+          "role": "philosopher whose inner divine nature is concealed beneath ironic exterior"
+        },
+        {
+          "paragraph_id": "p-72ffa9",
+          "quote": "I had lighted on a man such as I never would have dreamt of meeting—so sensible and so resolute.",
+          "role": "exemplar of philosophical self-mastery and chastity"
+        }
+      ],
+      "description": "Socrates, the philosopher who reports Diotima's teaching and is praised by Alcibiades for his extraordinary inner beauty, philosophical power, and erotic self-restraint.",
+      "justification": "He is the central human figure in this window: Diotima's pupil in paragraphs 60–74 and the subject of Alcibiades' praise in paragraphs 75–85."
+    },
+    {
+      "canonical_name": "Alcibiades",
+      "surface_names": ["Alcibiades", "he", "his"],
+      "kind": "figure",
+      "figure_kind": "mortal",
+      "mentions": [
+        {
+          "paragraph_id": "p-fee443",
+          "quote": "they heard the voice of Alcibiades in the forecourt, very drunken and bawling loud",
+          "role": "dramatic intruder who disrupts the symposium and shifts its focus"
+        },
+        {
+          "paragraph_id": "p-77d052",
+          "quote": "The way I shall take, gentlemen, in my praise of Socrates, is by similitudes.",
+          "role": "eulogist who praises Socrates through comparison with Silenus and Marsyas"
+        },
+        {
+          "paragraph_id": "p-c4ef50",
+          "quote": "I saw them one day, and thought them so divine and golden, so perfectly fair and wondrous",
+          "role": "witness to Socrates' inner divine images"
+        },
+        {
+          "paragraph_id": "p-72ffa9",
+          "quote": "all this, you know, had already happened to me when we later went on a campaign together to Potidaea",
+          "role": "lover rejected by Socrates on the basis of philosophical principle"
+        }
+      ],
+      "description": "Alcibiades, the drunken Athenian statesman who arrives late, crowns Agathon and Socrates, and delivers a personal encomium on Socrates' character and erotic integrity.",
+      "justification": "His arrival and speech constitute the entire dramatic action of paragraphs 75–85, making him the most active figure in the second half of this window."
+    },
+    {
+      "canonical_name": "Agathon",
+      "surface_names": ["Agathon"],
+      "kind": "figure",
+      "figure_kind": "mortal",
+      "mentions": [
+        {
+          "paragraph_id": "p-fee443",
+          "quote": "Go and see to it, said Agathon to the servants",
+          "role": "host who bids servants receive the newcomer"
+        },
+        {
+          "paragraph_id": "p-77d052",
+          "quote": "he sat, and he saluted Agathon and began to twine his head.",
+          "role": "recipient of Alcibiades' first garland"
+        },
+        {
+          "paragraph_id": "p-77d052",
+          "quote": "Agathon, do your best to protect me",
+          "role": "mediator invoked by Socrates against Alcibiades' jealousy"
+        }
+      ],
+      "description": "Agathon, the tragedian and host of the symposium, who receives the first garland from Alcibiades and is placed between Alcibiades and Socrates.",
+      "justification": "He appears as the host and social anchor in the arrival scene, triggering the seating dynamic that frames Alcibiades' speech."
+    },
+    {
+      "canonical_name": "Aristophanes",
+      "surface_names": ["Aristophanes"],
+      "kind": "figure",
+      "figure_kind": "mortal",
+      "mentions": [
+        {
+          "paragraph_id": "p-fee443",
+          "quote": "there was applause from all the company except Aristophanes, who was beginning to remark on the allusion which Socrates' speech had made to his own",
+          "role": "dissenting speaker whose response to Socrates is interrupted by Alcibiades' arrival"
+        },
+        {
+          "paragraph_id": "p-2ff1ca",
+          "quote": "there is a Phaedrus, an Agathon, an Eryximachus, a Pausanias, an Aristodemus, and an Aristophanes",
+          "role": "named member of the audience who has experienced philosophical frenzy"
+        }
+      ],
+      "description": "Aristophanes, the comic playwright present at the symposium, whose speech Socrates had implicitly referenced and who is about to object when Alcibiades arrives.",
+      "justification": "He is named twice in this window: once as the only dissenter after Socrates' speech and once in Alcibiades' list of philosophically affected companions."
+    },
+    {
+      "canonical_name": "Marsyas",
+      "surface_names": ["Marsyas", "the satyr Marsyas"],
+      "kind": "figure",
+      "figure_kind": "mythological",
+      "mentions": [
+        {
+          "paragraph_id": "p-81b4ae",
+          "quote": "And I further suggest that he resembles the satyr Marsyas.",
+          "role": "mythological comparandum for Socrates' transformative musical power"
+        },
+        {
+          "paragraph_id": "p-81b4ae",
+          "quote": "the music of Olympus' flute belonged, I may tell you, to Marsyas his teacher",
+          "role": "teacher of Olympus whose enchanting music is the model for Socrates' prose"
+        },
+        {
+          "paragraph_id": "p-bb1985",
+          "quote": "Such then is the effect that our satyr can work upon me and many another with his piping",
+          "role": "sustained epithet identifying Socrates with the satyr's musical enchantment"
+        }
+      ],
+      "description": "Marsyas, the Phrygian satyr famed for pipe-playing, invoked by Alcibiades as the closest mythological analogy for Socrates' power to entrance souls through speech.",
+      "justification": "Alcibiades explicitly identifies Socrates with Marsyas across multiple statements in paragraphs 81–82, making the satyr a structuring figure in his praise."
+    },
+    {
+      "canonical_name": "Eryximachus",
+      "surface_names": ["Eryximachus"],
+      "kind": "figure",
+      "figure_kind": "mortal",
+      "mentions": [
+        {
+          "paragraph_id": "p-39c7f1",
+          "quote": "What procedure is this, Alcibiades? asked Eryximachus.",
+          "role": "symposiast who challenges Alcibiades' proposal to drink without speeches"
+        },
+        {
+          "paragraph_id": "p-39c7f1",
+          "quote": "Ha, Eryximachus, of noblest, soberest sire most noble son",
+          "role": "interlocutor addressed in comic verse by Alcibiades"
+        },
+        {
+          "paragraph_id": "p-2ff1ca",
+          "quote": "there is a Phaedrus, an Agathon, an Eryximachus, a Pausanias, an Aristodemus, and an Aristophanes",
+          "role": "named member of the philosophically affected assembly"
+        }
+      ],
+      "description": "Eryximachus the physician, present at the symposium, who upbraids Alcibiades' drinking and prompts him to deliver his speech on Socrates.",
+      "justification": "He appears as the procedural voice who enforces the speech-for-cup rule that occasions Alcibiades' encomium of Socrates."
+    },
+    {
+      "canonical_name": "Phaedrus",
+      "surface_names": ["Phaedrus"],
+      "kind": "figure",
+      "figure_kind": "mortal",
+      "mentions": [
+        {
+          "paragraph_id": "p-4c4f02",
+          "quote": "This, Phaedrus and you others, is what Diotima told me, and I am persuaded of it",
+          "role": "addressee of Socrates' closing exhortation to honor Love"
+        },
+        {
+          "paragraph_id": "p-2ff1ca",
+          "quote": "there is a Phaedrus, an Agathon, an Eryximachus",
+          "role": "named member of the philosophically affected company"
+        }
+      ],
+      "description": "Phaedrus, the first speaker in the symposium and original proposer of the praise-of-Eros topic, whom Socrates explicitly addresses at the close of his speech.",
+      "justification": "He is named as the primary addressee of Socrates' concluding dedication, giving him structural prominence at the junction between the Diotima section and Alcibiades' arrival."
+    },
+    {
+      "canonical_name": "Silenus",
+      "surface_names": ["Silenus", "Silenus-figures", "Sileni"],
+      "kind": "figure",
+      "figure_kind": "mythological",
+      "mentions": [
+        {
+          "paragraph_id": "p-81b4ae",
+          "quote": "For I say he is likest to the Silenus-figures that sit in the statuaries' shops; those, I mean, which our craftsmen make with pipes or flutes in their hands: when their two halves are pulled open, they are found to contain images of gods.",
+          "role": "primary similitude for Socrates' combination of ugly exterior and divine inner content"
+        },
+        {
+          "paragraph_id": "p-bb1985",
+          "quote": "he is utterly stupid and ignorant, as he affects. Is not this like a Silenus? Exactly. It is an outward casing he wears, similarly to the sculptured Silenus.",
+          "role": "repeated mythological figure reinforcing the contrast between Socrates' ironic surface and inner divinity"
+        }
+      ],
+      "description": "Silenus, the satyr companion of Dionysus, whose hollow figurines conceal god-images inside—Alcibiades' governing metaphor for Socrates' hidden divine inner beauty.",
+      "justification": "The Silenus comparison is the central conceit of Alcibiades' encomium, introduced in paragraph 81 and sustained through paragraph 82."
+    },
+    {
+      "canonical_name": "Alcestis",
+      "surface_names": ["Alcestis"],
+      "kind": "figure",
+      "figure_kind": "mythological",
+      "mentions": [
+        {
+          "paragraph_id": "p-668491",
+          "quote": "Do you suppose, she asked, that Alcestis would have died for Admetus",
+          "role": "exemplar of love-driven self-sacrifice in pursuit of immortal renown"
+        }
+      ],
+      "description": "Alcestis, the mythological wife who died in place of her husband Admetus, cited by Diotima as proof that the desire for immortal glory motivates even the greatest sacrifices.",
+      "justification": "Diotima invokes Alcestis to illustrate how love of immortal distinction drives mortals to sacrifice their lives."
+    },
+    {
+      "canonical_name": "Achilles",
+      "surface_names": ["Achilles"],
+      "kind": "figure",
+      "figure_kind": "mythological",
+      "mentions": [
+        {
+          "paragraph_id": "p-668491",
+          "quote": "or Achilles have sought death on the corpse of Patroclus",
+          "role": "hero who chose death for love of Patroclus and immortal glory"
+        }
+      ],
+      "description": "Achilles, the Greek hero of the Trojan War, cited by Diotima as one who sacrificed his life for immortal renown born of love.",
+      "justification": "He appears alongside Alcestis and Codrus as a mythological proof-case for Diotima's argument that love aims at immortality through glorious deeds."
+    },
+    {
+      "canonical_name": "Patroclus",
+      "surface_names": ["Patroclus"],
+      "kind": "figure",
+      "figure_kind": "mythological",
+      "mentions": [
+        {
+          "paragraph_id": "p-668491",
+          "quote": "or Achilles have sought death on the corpse of Patroclus",
+          "role": "beloved companion whose death motivates Achilles' sacrifice"
+        }
+      ],
+      "description": "Patroclus, Achilles' companion whose death provokes Achilles' return to battle and voluntary death, cited as evidence of love motivating self-sacrifice for immortality.",
+      "justification": "He is named as the object of Achilles' love in Diotima's argument about the connection between Eros and the pursuit of immortal glory."
+    },
+    {
+      "canonical_name": "Codrus",
+      "surface_names": ["Codrus"],
+      "kind": "figure",
+      "figure_kind": "mythological",
+      "mentions": [
+        {
+          "paragraph_id": "p-668491",
+          "quote": "or your own Codrus have welcomed it to save the children of his queen",
+          "role": "Athenian king who died to preserve his people and is cited as proof of love of immortal renown"
+        }
+      ],
+      "description": "Codrus, the legendary last king of Athens who sacrificed himself to save his city, cited by Diotima as a third exemplar of mortals driven by love of immortal fame.",
+      "justification": "Diotima uses Codrus alongside Alcestis and Achilles to show that erotic love of immortal glory motivates the greatest human self-sacrifice."
+    },
+    {
+      "canonical_name": "Admetus",
+      "surface_names": ["Admetus"],
+      "kind": "figure",
+      "figure_kind": "mythological",
+      "mentions": [
+        {
+          "paragraph_id": "p-668491",
+          "quote": "that Alcestis would have died for Admetus",
+          "role": "husband for whom Alcestis died, the object of her self-sacrificing love"
+        }
+      ],
+      "description": "Admetus, the mythological king of Pherae for whom Alcestis gave her life, mentioned in Diotima's argument as the object of love that motivates immortality-seeking sacrifice.",
+      "justification": "He is named as the beneficiary of Alcestis' sacrifice in Diotima's list of lovers who acted for immortal renown."
+    },
+    {
+      "canonical_name": "Olympus",
+      "surface_names": ["Olympus"],
+      "kind": "figure",
+      "figure_kind": "mythological",
+      "mentions": [
+        {
+          "paragraph_id": "p-81b4ae",
+          "quote": "for the music of Olympus' flute belonged, I may tell you, to Marsyas his teacher",
+          "role": "pupil of Marsyas whose enchanting music is the mythological precedent for Socrates' prose"
+        }
+      ],
+      "description": "Olympus, the legendary Phrygian musician and pupil of Marsyas, whose divine flute music is invoked by Alcibiades as the mythological antecedent for Socrates' soul-entrancing speech.",
+      "justification": "Alcibiades traces the lineage of Socrates' enchanting power through Marsyas to Olympus, grounding the comparison in Phrygian musical mythology."
+    },
+    {
+      "canonical_name": "Homer",
+      "surface_names": ["Homer"],
+      "kind": "figure",
+      "figure_kind": "mortal",
+      "mentions": [
+        {
+          "paragraph_id": "p-81b4ae",
+          "quote": "merely from turning a glance upon Homer and Hesiod and all the other good poets, and envying the fine offspring they leave behind",
+          "role": "exemplar of the poet whose deathless 'offspring' (works) procure lasting fame"
+        }
+      ],
+      "description": "Homer, cited by Diotima as a supreme example of a soul-pregnant poet whose immortal literary offspring guarantee eternal renown.",
+      "justification": "Diotima holds Homer up as proof that soul-pregnancy (verse) yields children more deathless than biological offspring."
+    },
+    {
+      "canonical_name": "Hesiod",
+      "surface_names": ["Hesiod"],
+      "kind": "figure",
+      "figure_kind": "mortal",
+      "mentions": [
+        {
+          "paragraph_id": "p-81b4ae",
+          "quote": "merely from turning a glance upon Homer and Hesiod and all the other good poets",
+          "role": "paired with Homer as exemplar of immortal poetic offspring"
+        }
+      ],
+      "description": "Hesiod, cited alongside Homer as a soul-pregnant poet whose lasting works demonstrate the superior deathlessness of intellectual over biological progeny.",
+      "justification": "Diotima names Hesiod as a parallel case to Homer: both beget deathless literary children that procure immortal fame."
+    },
+    {
+      "canonical_name": "Lycurgus",
+      "surface_names": ["Lycurgus"],
+      "kind": "figure",
+      "figure_kind": "mortal",
+      "mentions": [
+        {
+          "paragraph_id": "p-81b4ae",
+          "quote": "what fine children whom Lycurgus left behind him in Lacedaemon to deliver his country and—I may almost say—the whole of Greece",
+          "role": "lawgiver whose laws are his immortal offspring that saved Sparta and Greece"
+        }
+      ],
+      "description": "Lycurgus, the Spartan lawgiver, cited by Diotima as an example of a soul-pregnant figure whose 'children' (laws) delivered Lacedaemon and the wider Greek world.",
+      "justification": "Diotima uses Lycurgus to show that legislative soul-pregnancy produces offspring (laws) more lasting and publicly beneficial than children of the body."
+    },
+    {
+      "canonical_name": "Solon",
+      "surface_names": ["Solon"],
+      "kind": "figure",
+      "figure_kind": "mortal",
+      "mentions": [
+        {
+          "paragraph_id": "p-81b4ae",
+          "quote": "while Solon is highly esteemed among you for begetting his laws",
+          "role": "Athenian lawgiver praised for his law-code as immortal intellectual progeny"
+        }
+      ],
+      "description": "Solon, the Athenian statesman and lawgiver, held up by Diotima as a prime Athenian example of the soul-pregnant man whose laws constitute deathless intellectual children.",
+      "justification": "Diotima cites Solon alongside Lycurgus as proof that law-giving is a form of erotic soul-pregnancy yielding immortal civic offspring."
+    },
+    {
+      "canonical_name": "Pericles",
+      "surface_names": ["Pericles"],
+      "kind": "figure",
+      "figure_kind": "mortal",
+      "mentions": [
+        {
+          "paragraph_id": "p-81b4ae",
+          "quote": "when I listened to Pericles and other skilled orators I thought them eloquent, but I never felt anything like this",
+          "role": "contrasting orator whose skilled speech lacks the transformative power of Socrates"
+        }
+      ],
+      "description": "Pericles, the great Athenian statesman and orator, invoked by Alcibiades as a foil to Socrates: a skilled speaker whose words left the soul undisturbed.",
+      "justification": "Alcibiades uses Pericles as the anti-example to demonstrate what makes Socrates' discourse uniquely soul-moving."
+    },
+    {
+      "canonical_name": "Aristodemus",
+      "surface_names": ["Aristodemus"],
+      "kind": "figure",
+      "figure_kind": "mortal",
+      "mentions": [
+        {
+          "paragraph_id": "p-2ff1ca",
+          "quote": "there is a Phaedrus, an Agathon, an Eryximachus, a Pausanias, an Aristodemus, and an Aristophanes",
+          "role": "named member of the company who has undergone philosophical frenzy from Socrates' words"
+        }
+      ],
+      "description": "Aristodemus, a follower of Socrates and one of the symposium's participants, named by Alcibiades among those who have felt the sting of Socrates' philosophic discourses.",
+      "justification": "Alcibiades names Aristodemus in his catalogue of companions all marked by Socratic philosophical frenzy."
+    },
+    {
+      "canonical_name": "Pausanias",
+      "surface_names": ["Pausanias"],
+      "kind": "figure",
+      "figure_kind": "mortal",
+      "mentions": [
+        {
+          "paragraph_id": "p-2ff1ca",
+          "quote": "there is a Phaedrus, an Agathon, an Eryximachus, a Pausanias, an Aristodemus, and an Aristophanes",
+          "role": "named symposiast who has experienced philosophical frenzy through Socrates"
+        }
+      ],
+      "description": "Pausanias, another speaker at the symposium, named by Alcibiades as one of those affected by Socrates' philosophical discourses.",
+      "justification": "He appears in Alcibiades' roster of philosophically bitten companions, affirming the breadth of Socrates' effect on the assembled company."
+    },
+    {
+      "canonical_name": "Eros",
+      "surface_names": ["Love", "Eros", "the spirit"],
+      "kind": "figure",
+      "figure_kind": "divine",
+      "mentions": [
+        {
+          "paragraph_id": "p-c44ddc",
+          "quote": "Love is a love directed to what is fair; so that Love must needs be a friend of wisdom, and, as such, must be between wise and ignorant.",
+          "role": "intermediate daimon defined as lover of wisdom and of the beautiful"
+        },
+        {
+          "paragraph_id": "p-62ec73",
+          "quote": "While Love is of such nature and origin as I have related, he is also set on beautiful things",
+          "role": "divine force oriented toward beautiful things as its proper object"
+        },
+        {
+          "paragraph_id": "p-4c5a5d",
+          "quote": "the lover is in love with what is immortal. Now if love is always for this, she proceeded, what is the method of those who pursue it",
+          "role": "desire aimed at possessing the good forever and at immortality"
+        },
+        {
+          "paragraph_id": "p-4c4f02",
+          "quote": "every man should honor Love, as I myself do honor all love-matters with especial devotion",
+          "role": "divine power to be honored as the best human helper toward the good"
+        }
+      ],
+      "description": "Eros, the daimon of love, whom Diotima defines as intermediate between wisdom and ignorance, between mortal and divine, and whose proper aim is the perpetual possession of the good through beauty and immortality.",
+      "justification": "Eros is the central theological and philosophical subject of the Diotima section (paragraphs 60–74), the entity whose nature, function, and telos the entire passage analyzes."
+    },
+    {
+      "canonical_name": "Poros",
+      "surface_names": ["wise and resourceful father", "Poros"],
+      "kind": "figure",
+      "figure_kind": "divine",
+      "mentions": [
+        {
+          "paragraph_id": "p-c44ddc",
+          "quote": "while he comes of a wise and resourceful father, his mother is unwise and resourceless",
+          "role": "divine father of Eros whose wisdom and resource Eros inherits partially"
+        }
+      ],
+      "description": "Poros (Resource), the divine father of Eros in Diotima's genealogy, whose wisdom and resourcefulness partially account for Eros's intermediate nature.",
+      "justification": "Diotima appeals to Eros's paternal lineage from Poros to explain why Eros is a lover of wisdom rather than wholly ignorant."
+    },
+    {
+      "canonical_name": "Penia",
+      "surface_names": ["unwise and resourceless mother", "Penia"],
+      "kind": "figure",
+      "figure_kind": "divine",
+      "mentions": [
+        {
+          "paragraph_id": "p-c44ddc",
+          "quote": "his mother is unwise and resourceless",
+          "role": "divine mother of Eros whose poverty and ignorance equally shape Eros's intermediate condition"
+        }
+      ],
+      "description": "Penia (Poverty), the divine mother of Eros in Diotima's genealogy, whose lack of wisdom and resource explains why Eros is always in need and never fully satisfied.",
+      "justification": "Diotima cites Penia as the maternal origin of Eros's perpetual lack, balancing the paternal gift of resourcefulness."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Love as intermediary between wisdom and ignorance",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-c44ddc",
+          "quote": "Love must needs be a friend of wisdom, and, as such, must be between wise and ignorant."
+        }
+      ],
+      "justification": "Diotima's core ontological claim in this opening passage is that Eros occupies a middle position (metaxy) between wisdom and ignorance, which explains his nature as a daimon rather than a god."
+    },
+    {
+      "topic": "Eros as desire for perpetual possession of the good",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-c5628e",
+          "quote": "love loves the good to be one's own for ever. That is the very truth, I said."
+        }
+      ],
+      "justification": "Diotima redefines love from desire for the beautiful to desire for the eternal possession of the good, a pivot that grounds the subsequent argument about immortality."
+    },
+    {
+      "topic": "Love and the desire for immortality",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-b7f72f",
+          "quote": "we needs must yearn for immortality no less than for good, since love loves good to be one's own for ever."
+        },
+        {
+          "paragraph_id": "p-668491",
+          "quote": "They are in love with what is immortal."
+        }
+      ],
+      "justification": "The drive for immortality is the explicit conclusion Diotima draws from the definition of Love as desire for the eternal good, and it governs the biological, poetic, and civic examples that follow."
+    },
+    {
+      "topic": "Erotic begetting as the mortal route to immortality",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-4c5a5d",
+          "quote": "it is begetting on a beautiful thing by means of both the body and the soul."
+        },
+        {
+          "paragraph_id": "p-e5e4b1",
+          "quote": "Because this is something ever-existent and immortal in our mortal life."
+        }
+      ],
+      "justification": "Diotima argues that the act of begetting—whether physical children or intellectual offspring—is how mortal nature participates in immortality, making it the functional mechanism of Love."
+    },
+    {
+      "topic": "Soul-pregnancy and intellectual offspring superior to bodily offspring",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-81b4ae",
+          "quote": "But pregnancy of soul—for there are persons who in their souls still more than in their bodies conceive those things which are proper for soul to conceive and bring forth."
+        },
+        {
+          "paragraph_id": "p-81b4ae",
+          "quote": "men in this condition enjoy a far fuller community with each other than that which comes with children, and a far surer friendship, since the children of their union are fairer and more deathless."
+        }
+      ],
+      "justification": "Diotima distinguishes two types of pregnancy—bodily and psychic—and ranks psychic offspring (virtue, prudence, laws, poems) as more deathless and more beautiful than biological children."
+    },
+    {
+      "topic": "The ascent from particular beauties to Beauty itself (the ladder of love)",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-8c4d7e",
+          "quote": "Beginning from obvious beauties he must for the sake of that highest beauty be ever climbing aloft, as on the rungs of a ladder, from one to two, and from two to all beautiful bodies."
+        },
+        {
+          "paragraph_id": "p-a5d685",
+          "quote": "suddenly he will have revealed to him, as he draws to the close of his dealings in love, a wondrous vision, beautiful in its nature."
+        }
+      ],
+      "justification": "The graduated ascent through bodies, souls, observances, laws, and knowledge toward the Form of Beauty itself is the climactic pedagogical doctrine of the Diotima section and the passage's most developed philosophical argument."
+    },
+    {
+      "topic": "The Form of Beauty as transcendent, unchanging, and singular",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-a5d685",
+          "quote": "First of all, it is ever-existent and neither comes to be nor perishes, neither waxes nor wanes; next, it is not beautiful in part and in part ugly."
+        }
+      ],
+      "justification": "Diotima's description of the vision at the summit of the ascent characterizes the Form of Beauty in explicitly Platonic terms—eternal, self-identical, non-relational, and independent of particular things."
+    },
+    {
+      "topic": "Philosophical initiation as erotic mystery religion",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-8c4d7e",
+          "quote": "Into these love-matters even you, Socrates, might haply be initiated; but I doubt if you could approach the rites and revelations to which these, for the properly instructed, are merely the avenue."
+        },
+        {
+          "paragraph_id": "p-a5d685",
+          "quote": "Such is the right approach or induction to love-matters."
+        }
+      ],
+      "justification": "Diotima consistently frames philosophical ascent in the language of mystery initiation (epopteia, teletai), implicitly placing philosophy in the same register as Eleusinian or Orphic religion."
+    },
+    {
+      "topic": "Continuous self-renewal as the mortal substitute for divine permanence",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-668491",
+          "quote": "The mortal nature ever seeks, as best it can, to be immortal. In one way only can it succeed, and that is by generation."
+        },
+        {
+          "paragraph_id": "p-668491",
+          "quote": "Every mortal thing is preserved in this way; not by keeping it exactly the same for ever, like the divine, but by replacing what goes off or is antiquated with something fresh, in the semblance of the original."
+        }
+      ],
+      "justification": "Diotima explains biological and intellectual generation as a process of serial self-replacement that mimics divine permanence, providing the metaphysical grounding for all the forms of love she describes."
+    },
+    {
+      "topic": "Erotic frenzy as philosophical transformation",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-81b4ae",
+          "quote": "For when I hear him I am worse than any wild fanatic; I find my heart leaping and my tears gushing forth at the sound of his speech."
+        },
+        {
+          "paragraph_id": "p-2ff1ca",
+          "quote": "I have been bitten by a more painful creature, in the most painful way that one can be bitten: in my heart, or my soul, or whatever one is to call it, I am stricken and stung by his philosophic discourses."
+        }
+      ],
+      "justification": "Alcibiades' speech enacts the erotic-philosophical theme Diotima had theorized: encounter with Socrates produces a frenzy indistinguishable from the symptoms of Eros, collapsing the distinction between erotic and philosophical experience."
+    },
+    {
+      "topic": "The concealed inner life versus the ironic exterior",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-81b4ae",
+          "quote": "when their two halves are pulled open, they are found to contain images of gods."
+        },
+        {
+          "paragraph_id": "p-c4ef50",
+          "quote": "I saw them one day, and thought them so divine and golden, so perfectly fair and wondrous."
+        }
+      ],
+      "justification": "The Silenus/Marsyas metaphor articulates a broader theme about the disjunction between outward appearance and inward reality that governs Socratic irony and underpins the entire epistemology of the ascent."
+    },
+    {
+      "topic": "Philosophical self-mastery and erotic renunciation",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-72ffa9",
+          "quote": "when I arose I had in no more particular sense slept a night with Socrates than if it had been with my father or my elder brother."
+        },
+        {
+          "paragraph_id": "p-bb1985",
+          "quote": "all the beauty a man may have is nothing to him; he despises it more than any of you can believe."
+        }
+      ],
+      "justification": "Alcibiades' anecdote of the night spent with Socrates dramatizes the theme—implicit in Diotima's ascent—that the philosophical lover eventually transcends the pull of bodily beauty through self-mastery."
+    },
+    {
+      "topic": "Ambition and the love of glory (philotimia) as a form of Eros",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-668491",
+          "quote": "you will have to wonder at the unreasonableness of what I have told you, unless you are careful to consider how singularly they are affected with the love of winning a name, and laying up fame immortal for all time to come."
+        }
+      ],
+      "justification": "Diotima explicitly classifies political ambition and the love of fame as one expression of Eros's immortality-seeking structure, connecting the philosophical to the political-heroic imagination."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Iliad",
+      "cited_author": "Homer",
+      "stance": "authority",
+      "paragraph_id": "p-668491",
+      "quote": "Achilles have sought death on the corpse of Patroclus",
+      "justification": "Diotima invokes the Iliadic episode of Achilles' grief-driven return to battle as a mythological authority for her argument that love of immortal glory motivates self-sacrifice."
+    },
+    {
+      "cited_work": "Alcestis (myth / earlier tradition)",
+      "cited_author": "traditional (Euripides / mythological tradition)",
+      "stance": "authority",
+      "paragraph_id": "p-668491",
+      "quote": "Alcestis would have died for Admetus",
+      "justification": "Diotima cites the Alcestis myth as an exemplary authority for the claim that love drives mortals to sacrifice life in exchange for immortal renown."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "work_slug": "anne-hunter-poems-81c841",
+  "work_title": "Poems",
+  "chapter_number": 50,
+  "chapter_title": "SONG.",
+  "chapter_slug": "50-song",
+  "author": "Anne Hunter",
+  "author_slug": "anne-hunter",
+  "ecpa_poem_id": "bah18-w0500",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "song"
+    ],
+    "foot": "trochaic (′˘)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "octet (8 lines)"
+    ],
+    "rhyme": "aabbccdd",
+    "syllable_pattern": "7.8.7.8.7.8.7.8",
+    "metrical_pattern": "+-|+-|+-|+/ -|+-|+-|+-|+/ +-|+-|+-|+/ -|+-|+-|+-|+/ +-|+-|+-|+/ -|+-|+-|+-|+/ +-|+-|+-|+/ -|+-|+-|+-|+/",
+    "line_count": 8
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5a02713f-f57a-57df-a446-64bb44da4db6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 51,
+      "line_count": 9,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

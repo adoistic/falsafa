@@ -1,0 +1,44 @@
+{
+  "work_slug": "sarah-fyge-egerton-poems-e1b5c5",
+  "work_title": "Poems",
+  "chapter_number": 17,
+  "chapter_title": "To Alexis, on his absence.",
+  "chapter_slug": "17-to-alexis-on-his-absence",
+  "author": "Sarah Fyge Egerton",
+  "author_slug": "sarah-fyge-egerton",
+  "ecpa_poem_id": "pse03-w0160",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 35
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "fb91d789-76f4-5638-a3b6-ffb180d1ef91",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 295,
+      "line_count": 36,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

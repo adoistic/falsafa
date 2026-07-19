@@ -1,0 +1,472 @@
+{
+  "slug": "plato-phaedo-2d2a3c",
+  "window": "01-phaedo:0-59",
+  "entities": [
+    {
+      "canonical_name": "Socrates",
+      "surface_names": ["Socrates"],
+      "kind": "figure",
+      "figure_kind": "philosopher",
+      "mentions": [
+        {"paragraph_id": "p-64989e", "quote": "Were you with Socrates yourself, Phaedo, on the day when he drank the poison in prison", "role": "protagonist"},
+        {"paragraph_id": "p-b15e47", "quote": "Socrates passed a long time in prison between his trial and his death", "role": "protagonist"},
+        {"paragraph_id": "p-273534", "quote": "he seemed to me to be happy, both in his bearing and his words, he was meeting death so fearlessly and nobly", "role": "protagonist"},
+        {"paragraph_id": "p-bf9801", "quote": "Socrates sat up on his couch and bent his leg and rubbed it with his hand", "role": "protagonist"},
+        {"paragraph_id": "p-911ff5", "quote": "I wish now to explain to you, my judges, the reason why I think a man who has really spent his life in philosophy is naturally of good courage when he is to die", "role": "speaker"},
+        {"paragraph_id": "p-2f14d3", "quote": "the gods are our guardians and that we men are one of the chattels of the gods", "role": "speaker"},
+        {"paragraph_id": "p-2d5b31", "quote": "the only right coinage, for which all those things must be exchanged and by means of and with which all these things are to be bought and sold, is in fact wisdom", "role": "speaker"}
+      ],
+      "description": "Athenian philosopher whose final day in prison, dialogue with friends before drinking hemlock, and arguments for the soul's immortality are the subject of the dialogue.",
+      "justification": "Socrates is the central figure of the Phaedo, present in every section of this window as the protagonist and primary philosophical voice."
+    },
+    {
+      "canonical_name": "Phaedo",
+      "surface_names": ["Phaedo"],
+      "kind": "figure",
+      "figure_kind": "philosopher",
+      "mentions": [
+        {"paragraph_id": "p-64989e", "quote": "Were you with Socrates yourself, Phaedo, on the day when he drank the poison in prison", "role": "narrator"},
+        {"paragraph_id": "p-b120b7", "quote": "Phaedo. I was there myself, Echecrates.", "role": "narrator"},
+        {"paragraph_id": "p-273534", "quote": "For my part, I had strange emotions when I was there", "role": "eyewitness narrator"}
+      ],
+      "description": "Disciple of Socrates from Elis who was present at Socrates' death and recounts the events and conversations of that day to Echecrates.",
+      "justification": "Phaedo is the narrator-frame character who witnessed the events and provides the entire account of the dialogue."
+    },
+    {
+      "canonical_name": "Echecrates",
+      "surface_names": ["Echecrates"],
+      "kind": "figure",
+      "figure_kind": "philosopher",
+      "mentions": [
+        {"paragraph_id": "p-64989e", "quote": "Were you with Socrates yourself, Phaedo, on the day when he drank the poison in prison, or did you hear about it from someone else?", "role": "interlocutor"},
+        {"paragraph_id": "p-6c31e6", "quote": "Yes, some one told us about that, and we wondered that although it took place a long time ago, he was put to death much later", "role": "questioner"},
+        {"paragraph_id": "p-311250", "quote": "Echecrates. To be sure I do.", "role": "listener"}
+      ],
+      "description": "Pythagorean philosopher from Phlius who questions Phaedo about Socrates' final day and receives the account of the dialogue.",
+      "justification": "Echecrates opens the dialogue and frames the narration, serving as the external interlocutor whose questions structure Phaedo's account."
+    },
+    {
+      "canonical_name": "Cebes",
+      "surface_names": ["Cebes"],
+      "kind": "figure",
+      "figure_kind": "philosopher",
+      "mentions": [
+        {"paragraph_id": "p-a32aa8", "quote": "Simmias of Thebes and Cebes and Phaedonides", "role": "present at death scene"},
+        {"paragraph_id": "p-bf9801", "quote": "Here Cebes interrupted and said, By Zeus, Socrates, I am glad you reminded me.", "role": "interlocutor"},
+        {"paragraph_id": "p-137728", "quote": "Then Cebes asked him: What do you mean by this, Socrates, that it is not permitted to take one's life", "role": "questioner"},
+        {"paragraph_id": "p-c960d1", "quote": "Cebes answered and said: Socrates, I agree to the other things you say, but in regard to the soul men are very prone to disbelief", "role": "philosophical objector"},
+        {"paragraph_id": "p-0eb808", "quote": "Cebes rejoined, if it is true, Socrates, as you are fond of saying, that our learning is nothing else than recollection", "role": "interlocutor"}
+      ],
+      "description": "Theban philosopher and pupil of Philolaus who is present at Socrates' death and poses persistent objections to Socrates' arguments for the soul's immortality.",
+      "justification": "Cebes is the most active philosophical interlocutor in this window, raising the key objection that the soul's pre-existence does not prove its post-mortem survival."
+    },
+    {
+      "canonical_name": "Simmias",
+      "surface_names": ["Simmias"],
+      "kind": "figure",
+      "figure_kind": "philosopher",
+      "mentions": [
+        {"paragraph_id": "p-a32aa8", "quote": "Simmias of Thebes and Cebes and Phaedonides", "role": "present at death scene"},
+        {"paragraph_id": "p-d758f3", "quote": "And Simmias said, What a message that is, Socrates, for Evenus!", "role": "interlocutor"},
+        {"paragraph_id": "p-911ff5", "quote": "Simmias laughed and said, By Zeus, Socrates, I don't feel much like laughing just now, but you made me laugh", "role": "respondent"},
+        {"paragraph_id": "p-979138", "quote": "this is impossible if our soul did not exist somewhere before being born in this human form; and so by this argument also it appears that the soul is immortal", "role": "conceding interlocutor"}
+      ],
+      "description": "Theban philosopher and pupil of Philolaus present at Socrates' death who participates in the philosophical dialogue, ultimately accepting the pre-existence argument while noting post-mortem survival remains unproven.",
+      "justification": "Simmias is a main interlocutor who engages with the argument from recollection and concedes the pre-existence of souls while raising concerns about survival after death."
+    },
+    {
+      "canonical_name": "Apollodorus",
+      "surface_names": ["Apollodorus"],
+      "kind": "figure",
+      "figure_kind": "follower of Socrates",
+      "mentions": [
+        {"paragraph_id": "p-c7dd68", "quote": "sometimes laughing and sometimes weeping; especially one of us, Apollodorus; you know him and his character.", "role": "emotionally present witness"},
+        {"paragraph_id": "p-9c16e1", "quote": "Of native Athenians there was this Apollodorus", "role": "named witness"}
+      ],
+      "description": "Devoted Athenian follower of Socrates known for emotional intensity, identified as one of the witnesses present at Socrates' death.",
+      "justification": "Apollodorus is singled out as an especially emotional presence among those gathered at Socrates' execution."
+    },
+    {
+      "canonical_name": "Crito",
+      "surface_names": ["Crito"],
+      "kind": "figure",
+      "figure_kind": "follower of Socrates",
+      "mentions": [
+        {"paragraph_id": "p-bf9801", "quote": "Socrates glanced at Crito and said, Crito, let somebody take her home.", "role": "present, addressed directly"},
+        {"paragraph_id": "p-497ed0", "quote": "Only, Socrates, said Crito, that the man who is to administer the poison to you has been telling me for some time to warn you to talk as little as possible", "role": "messenger"}
+      ],
+      "description": "Wealthy Athenian and close friend of Socrates who is present at the death scene, relays the poison-keeper's warning, and is sent to escort Xanthippe away.",
+      "justification": "Crito appears twice in this window in practical roles mediating between Socrates and the circumstances of his execution."
+    },
+    {
+      "canonical_name": "Xanthippe",
+      "surface_names": ["Xanthippe"],
+      "kind": "figure",
+      "figure_kind": "wife of Socrates",
+      "mentions": [
+        {"paragraph_id": "p-bf9801", "quote": "found Socrates just released from his fetters and Xanthippe—you know her—with his little son in her arms, sitting beside him", "role": "grieving spouse"},
+        {"paragraph_id": "p-bf9801", "quote": "when Xanthippe saw us, she cried out and said the kind of thing that women always do say: Oh Socrates, this is the last time now that your friends will speak to you or you to them", "role": "lamenting"}
+      ],
+      "description": "Wife of Socrates, present with their infant son at the opening of the death scene; she is escorted away weeping before the philosophical dialogue begins.",
+      "justification": "Xanthippe's emotional departure marks the threshold between domestic grief and philosophical discourse in the death scene."
+    },
+    {
+      "canonical_name": "Plato",
+      "surface_names": ["Plato"],
+      "kind": "figure",
+      "figure_kind": "philosopher",
+      "mentions": [
+        {"paragraph_id": "p-9c16e1", "quote": "But Plato, I think, was ill.", "role": "noted absence"}
+      ],
+      "description": "Athenian philosopher and author of the Phaedo, noted by Phaedo as absent from Socrates' final day due to illness.",
+      "justification": "Plato's absence is specifically noted, distinguishing him from the other disciples present and signalling his significance."
+    },
+    {
+      "canonical_name": "Evenus",
+      "surface_names": ["Evenus"],
+      "kind": "figure",
+      "figure_kind": "sophist/poet",
+      "mentions": [
+        {"paragraph_id": "p-9e7913", "quote": "Evenus asked me the day before yesterday why you never wrote any poetry before, composed these verses after you came to prison", "role": "enquirer"},
+        {"paragraph_id": "p-d758f3", "quote": "Is not Evenus a philosopher? I think so, said Simmias. Then Evenus will take my advice", "role": "subject of discussion"}
+      ],
+      "description": "Sophist and poet from Paros referenced as having asked Cebes about Socrates' poetry and subsequently discussed as a potential philosopher who should 'follow Socrates' to death.",
+      "justification": "Evenus is the catalyst for the discussion of Socrates' prison poetry and philosophy's relationship to death, serving as a foil for the true philosopher."
+    },
+    {
+      "canonical_name": "Philolaus",
+      "surface_names": ["Philolaus"],
+      "kind": "figure",
+      "figure_kind": "philosopher",
+      "mentions": [
+        {"paragraph_id": "p-137728", "quote": "Have you and Simmias, who are pupils of Philolaus, not heard about such things?", "role": "teacher of interlocutors"},
+        {"paragraph_id": "p-137728", "quote": "I heard Philolaus, when he was living in our city, say the same thing you just said", "role": "cited authority on suicide prohibition"}
+      ],
+      "description": "Pythagorean philosopher from Croton who taught Simmias and Cebes and reportedly affirmed the prohibition against self-killing.",
+      "justification": "Philolaus is cited as the Pythagorean authority from whom Simmias and Cebes derived the doctrine that one must not take one's own life."
+    },
+    {
+      "canonical_name": "Aesop",
+      "surface_names": ["Aesop"],
+      "kind": "figure",
+      "figure_kind": "fabulist",
+      "mentions": [
+        {"paragraph_id": "p-bf9801", "quote": "And I think, he said, if Aesop had thought of them, he would have made a fable telling how they were at war and god wished to reconcile them", "role": "hypothetical fabulist"},
+        {"paragraph_id": "p-9e7913", "quote": "the metrical versions of Aesop's fables", "role": "source adapted by Socrates"},
+        {"paragraph_id": "p-da02cc", "quote": "I took the myths of Aesop, which I had at hand and knew, and turned into verse the first I came upon", "role": "source adapted by Socrates"}
+      ],
+      "description": "Ancient Greek fabulist whose tales Socrates versified in prison, and whose style of allegorical narrative Socrates invokes to illustrate the relationship of pleasure and pain.",
+      "justification": "Aesop is mentioned explicitly as the source of Socrates' prison poetry and as the model for a hypothetical fable about the unity of pleasure and pain."
+    },
+    {
+      "canonical_name": "Anaxagoras",
+      "surface_names": ["Anaxagoras"],
+      "kind": "figure",
+      "figure_kind": "philosopher",
+      "mentions": [
+        {"paragraph_id": "p-0eb808", "quote": "the saying of Anaxagoras, all things are chaos, would soon come true", "role": "cited philosopher"}
+      ],
+      "description": "Pre-Socratic philosopher whose saying 'all things are chaos' (all things mixed together) is cited as a reductio to illustrate what would happen if cyclical generation ceased.",
+      "justification": "Anaxagoras is explicitly named and his doctrine cited to support the argument that without cyclical opposites all would collapse into undifferentiated chaos."
+    },
+    {
+      "canonical_name": "Theseus",
+      "surface_names": ["Theseus"],
+      "kind": "figure",
+      "figure_kind": "mythological hero",
+      "mentions": [
+        {"paragraph_id": "p-e5d092", "quote": "This is the ship, as the Athenians say, in which Theseus once went to Crete with the fourteen youths and maidens, and saved them and himself.", "role": "mythological originator of ritual"}
+      ],
+      "description": "Legendary Athenian hero whose voyage to Crete to defeat the Minotaur and rescue the youths and maidens is the mythological origin of the annual Delian mission that delayed Socrates' execution.",
+      "justification": "Theseus's voyage establishes the ritual context for the Athenian sacred ship to Delos that directly caused the delay between Socrates' trial and death."
+    },
+    {
+      "canonical_name": "Endymion",
+      "surface_names": ["Endymion"],
+      "kind": "figure",
+      "figure_kind": "mythological figure",
+      "mentions": [
+        {"paragraph_id": "p-0eb808", "quote": "that would make the sleeping Endymion mere nonsense; he would be nowhere, for everything else would be in the same state as he, sound asleep", "role": "mythological illustration"}
+      ],
+      "description": "Mythological figure famed for eternal sleep, cited as a reductio: if waking did not exist as the opposite of sleep, Endymion's perpetual sleep would be meaningless because all things would be asleep.",
+      "justification": "Endymion's myth is used to illustrate the logical necessity of cyclical opposites—without waking, perpetual sleep has no meaning."
+    },
+    {
+      "canonical_name": "Apollo",
+      "surface_names": ["Apollo", "the god"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-e5d092", "quote": "the Athenians made a vow to Apollo, as the story goes, that if they were saved they would send a mission every year to Delos", "role": "divine recipient of vow"},
+        {"paragraph_id": "p-9e7913", "quote": "the metrical versions of Aesop's fables and the hymn to Apollo", "role": "subject of hymn"},
+        {"paragraph_id": "p-da02cc", "quote": "I composed a hymn to the god whose festival it was", "role": "recipient of hymn"}
+      ],
+      "description": "Greek god of music and prophecy honored by the annual Athenian sacred mission to Delos; Socrates composed a hymn to Apollo during his imprisonment.",
+      "justification": "Apollo is the divine figure whose festival and votive mission to Delos directly determine the timing of Socrates' execution, and to whom Socrates addresses his prison hymn."
+    },
+    {
+      "canonical_name": "the Muses",
+      "surface_names": ["the Muses"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-9e7913", "quote": "I was neglecting no duty in case their repeated commands meant that I must cultivate the Muses in this way", "role": "divine command source"}
+      ],
+      "description": "Greek goddesses of artistic and philosophical inspiration whose commands Socrates interprets his recurrent dream as conveying, leading him to compose poetry in prison.",
+      "justification": "The Muses are invoked as the divine source of the repeated dream-command to 'make music,' which Socrates ultimately obeys through his prison poetry."
+    },
+    {
+      "canonical_name": "Athens",
+      "surface_names": ["Athens", "the city"],
+      "kind": "place",
+      "mentions": [
+        {"paragraph_id": "p-2716ba", "quote": "no stranger has come from there for a long time, who could tell us anything definite about this matter", "role": "setting of events"},
+        {"paragraph_id": "p-e5d092", "quote": "it is their law that after the mission begins the city must be pure and no one may be publicly executed", "role": "city governing ritual law"}
+      ],
+      "description": "City-state where Socrates was tried and imprisoned, and whose sacred ritual involving the ship to Delos delayed his execution.",
+      "justification": "Athens is the civic and narrative locus from which Phaedo reports and whose laws and rituals frame the entire circumstances of Socrates' death."
+    },
+    {
+      "canonical_name": "Delos",
+      "surface_names": ["Delos"],
+      "kind": "place",
+      "mentions": [
+        {"paragraph_id": "p-e5d092", "quote": "the ship has gone to Delos and back", "role": "destination of sacred mission"},
+        {"paragraph_id": "p-7731f2", "quote": "we heard that the ship had arrived from Delos", "role": "voyage destination"}
+      ],
+      "description": "Sacred island in the Aegean, site of Apollo's birthplace, to which the Athenians sent an annual ship in fulfillment of Theseus's vow, its return marking the end of the period of ritual purity during which no executions could occur.",
+      "justification": "The ship's return from Delos is the concrete event that triggers the final day of Socrates' life and the philosophical discussion recounted in the dialogue."
+    },
+    {
+      "canonical_name": "Crete",
+      "surface_names": ["Crete"],
+      "kind": "place",
+      "mentions": [
+        {"paragraph_id": "p-e5d092", "quote": "in which Theseus once went to Crete with the fourteen youths and maidens, and saved them and himself", "role": "mythological destination of Theseus"}
+      ],
+      "description": "Island to which Theseus sailed to defeat the Minotaur and save the Athenian tribute-youths, whose myth underlies the Athenian sacred mission to Delos.",
+      "justification": "Crete is the mythological setting of Theseus's voyage that generated the ritual context for the Delian ship and thereby the timing of Socrates' death."
+    },
+    {
+      "canonical_name": "Phlius",
+      "surface_names": ["Phlius", "Phliasians"],
+      "kind": "place",
+      "mentions": [
+        {"paragraph_id": "p-2716ba", "quote": "nowadays none of the Phliasians go to Athens at all", "role": "home location of Echecrates"}
+      ],
+      "description": "City in the Peloponnese, home of Echecrates and a center of Pythagorean philosophy, the setting of the outer frame of the dialogue.",
+      "justification": "Phlius is established as the location of the outer dialogue where Echecrates hears Phaedo's account, framing the narrative geography of the work."
+    },
+    {
+      "canonical_name": "Thebes",
+      "surface_names": ["Thebes"],
+      "kind": "place",
+      "mentions": [
+        {"paragraph_id": "p-a32aa8", "quote": "Simmias of Thebes and Cebes", "role": "origin city of Simmias and Cebes"}
+      ],
+      "description": "Greek city from which Simmias and Cebes come, and where Philolaus resided and taught them.",
+      "justification": "Thebes is identified as the home city of the two main philosophical interlocutors and the location of Philolaus's teaching."
+    },
+    {
+      "canonical_name": "Megara",
+      "surface_names": ["Megara"],
+      "kind": "place",
+      "mentions": [
+        {"paragraph_id": "p-a32aa8", "quote": "from Megara Euclides and Terpsion", "role": "origin city of Euclides and Terpsion"}
+      ],
+      "description": "Greek city-state from which Euclides (founder of the Megarian school) and Terpsion attended Socrates' final day.",
+      "justification": "Megara is cited as the origin of two named witnesses, reflecting the broad geographical reach of Socrates' philosophical community."
+    },
+    {
+      "canonical_name": "Aegina",
+      "surface_names": ["Aegina"],
+      "kind": "place",
+      "mentions": [
+        {"paragraph_id": "p-f1b512", "quote": "No. They were said to be in Aegina.", "role": "location explaining absence of Aristippus and Cleombrotus"}
+      ],
+      "description": "Greek island where Aristippus and Cleombrotus were said to be staying, explaining their absence from Socrates' death.",
+      "justification": "Aegina is given as the reason two notable associates of Socrates were not present at his execution."
+    },
+    {
+      "canonical_name": "the Athenian sacred ship",
+      "surface_names": ["the ship", "the ship which the Athenians send to Delos"],
+      "kind": "object",
+      "mentions": [
+        {"paragraph_id": "p-e5d092", "quote": "This is the ship, as the Athenians say, in which Theseus once went to Crete", "role": "ritual object with mythological lineage"},
+        {"paragraph_id": "p-b15e47", "quote": "the stern of the ship which the Athenians send to Delos was crowned on the day before the trial", "role": "ritual object triggering legal delay"},
+        {"paragraph_id": "p-7731f2", "quote": "we heard that the ship had arrived from Delos", "role": "event triggering execution day"}
+      ],
+      "description": "The Athenian sacred vessel sent annually to Delos in honor of Apollo; its crowning delays executions while it is away, directly determining when Socrates was put to death.",
+      "justification": "The ship's ritual status and voyage are the concrete mechanisms that link the Theseus myth to the timing of Socrates' execution, giving the object narrative centrality."
+    },
+    {
+      "canonical_name": "Orphic-Pythagorean mysteries",
+      "surface_names": ["the mysteries", "those who established the mysteries"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-2d5b31", "quote": "those men who established the mysteries were not unenlightened, but in reality had a hidden meaning when they said long ago that whoever goes uninitiated and unsanctified to the other world will lie in the mire", "role": "cited religious authority"},
+        {"paragraph_id": "p-2d5b31", "quote": "the thyrsus-bearers are many, but the mystics few", "role": "mystery teaching cited"}
+      ],
+      "description": "The initiatory religious tradition (Orphic-Pythagorean) whose doctrines about the fate of the soul in the underworld—purified vs. uninitiated—Socrates invokes to support the philosophical life as the path to dwelling with the gods.",
+      "justification": "Socrates explicitly appeals to the founders of the mysteries and their eschatological teachings as hidden philosophical truths that parallel his argument about wisdom and purification."
+    },
+    {
+      "canonical_name": "Socrates' prison",
+      "surface_names": ["the prison", "in prison"],
+      "kind": "place",
+      "mentions": [
+        {"paragraph_id": "p-64989e", "quote": "on the day when he drank the poison in prison", "role": "setting of death"},
+        {"paragraph_id": "p-7731f2", "quote": "every day we used to wait about, talking with each other, until the prison was opened", "role": "setting of daily visits"},
+        {"paragraph_id": "p-bf9801", "quote": "found Socrates just released from his fetters", "role": "specific scene within prison"}
+      ],
+      "description": "The Athenian prison where Socrates spent the time between his trial and his execution, and where the philosophical conversations of the Phaedo take place.",
+      "justification": "The prison is the physical setting of the entire dialogue's inner frame, where Socrates' final philosophical conversations and death occur."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "The philosopher's attitude toward death",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-911ff5", "quote": "a man who has really spent his life in philosophy is naturally of good courage when he is to die, and has strong hopes that when he is dead he will attain the greatest blessings in that other land"},
+        {"paragraph_id": "p-1cb403", "quote": "the true philosophers practice dying, and death is less terrible to them than to any other men"},
+        {"paragraph_id": "p-33b916", "quote": "shall he who is really in love with wisdom and has a firm belief that he can find it nowhere else than in the other world grieve when he dies and not be glad to go there?"}
+      ],
+      "justification": "The passage's central explicit concern is why the philosopher, uniquely among humans, should welcome rather than fear death, developed through the argument that the philosophical life is a practice of dying."
+    },
+    {
+      "topic": "Soul-body dualism and the body as obstacle to knowledge",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-5fd94d", "quote": "death is the separation of the soul from the body, and that the state of being dead is the state in which the body is separated from the soul and exists alone by itself"},
+        {"paragraph_id": "p-ae5edd", "quote": "the body fills us with passions and desires and fears, and all sorts of fancies and foolishness, so that, as they say, it really and truly makes it impossible for us to think at all"},
+        {"paragraph_id": "p-71ed91", "quote": "the soul of the philosopher greatly despises the body and avoids it and strives to be alone by itself"}
+      ],
+      "justification": "A sustained argument runs through this window that the body is an epistemic obstacle—distorting sensation, producing desires, and preventing the soul from attaining pure knowledge—making death philosophically desirable."
+    },
+    {
+      "topic": "Immortality of the soul",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-c960d1", "quote": "the souls of men who have died are in the nether world or not. There is an ancient tradition, which we remember, that they go there from here and come back here again"},
+        {"paragraph_id": "p-80c9de", "quote": "From the dead, then, Cebes, the living, both things and persons, are generated? Evidently, said he"},
+        {"paragraph_id": "p-979138", "quote": "this is impossible if our soul did not exist somewhere before being born in this human form; and so by this argument also it appears that the soul is immortal"}
+      ],
+      "justification": "The immortality of the soul is the central metaphysical thesis of this passage, argued for through the cyclical-opposites argument and the argument from recollection."
+    },
+    {
+      "topic": "Recollection (anamnesis) as evidence for the pre-existence of the soul",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-0eb808", "quote": "if it is true, Socrates, as you are fond of saying, that our learning is nothing else than recollection, then this would be an additional argument that we must necessarily have learned in some previous time what we now remember"},
+        {"paragraph_id": "p-979138", "quote": "when people are questioned, if you put the questions well, they answer correctly of themselves about everything; and yet if they had not within them some knowledge and right reason, they could not do this"},
+        {"paragraph_id": "p-979138", "quote": "our learning is nothing else than recollection, then this would be an additional argument that we must necessarily have learned in some previous time what we now remember"}
+      ],
+      "justification": "The anamnesis argument is developed at length in the latter part of the window: genuine knowledge, especially of Forms like Equality, could only have been acquired before birth, proving pre-natal existence of the soul."
+    },
+    {
+      "topic": "The Theory of Forms (absolute essences)",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-71ed91", "quote": "Do we think there is such a thing as absolute justice, or not? We certainly think there is. And absolute beauty and goodness."},
+        {"paragraph_id": "p-71ed91", "quote": "Do we think there is such a thing as absolute justice, or not? We certainly think there is. And absolute beauty and goodness. Of course. Well, did you ever see anything of that kind with your eyes?"},
+        {"paragraph_id": "p-d91537", "quote": "he who prepares himself most carefully to understand the true essence of each thing that he examines would come nearest to the knowledge of it"}
+      ],
+      "justification": "The passage introduces and repeatedly invokes the Platonic Forms (absolute Equality, Beauty, Goodness, Justice) as the real objects of philosophical knowledge, in contrast to changing sensible particulars."
+    },
+    {
+      "topic": "The cyclical generation of opposites as proof of survival",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-c960d1", "quote": "Let us consider it by asking whether it is inevitable that everything which has an opposite be generated from its opposite and from it only"},
+        {"paragraph_id": "p-80c9de", "quote": "What is this process? Coming to life again. Then, said Socrates, our souls exist in the other world."},
+        {"paragraph_id": "p-0eb808", "quote": "For if generation did not proceed from opposite to opposite and back again, going round, as it were in a circle, but always went forward in a straight line without turning back or curving, then, you know, in the end all things would have the same form"}
+      ],
+      "justification": "Socrates argues that the living are generated from the dead just as the dead are generated from the living, and that without this cyclical process all generation would cease—proving the soul must survive death."
+    },
+    {
+      "topic": "Purification (katharsis) as the philosophical life's goal",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-1cb403", "quote": "freeing ourselves from the foolishness of the body and being pure, we shall, I think, be with the pure and shall know of ourselves all that is pure"},
+        {"paragraph_id": "p-2d5b31", "quote": "truth is in fact a purification from all these things, and self-restraint and justice and courage and wisdom itself are a kind of purification"},
+        {"paragraph_id": "p-2d5b31", "quote": "whoever goes uninitiated and unsanctified to the other world will lie in the mire, but he who arrives there initiated and purified will dwell with the gods"}
+      ],
+      "justification": "Purification (katharsis) is presented as both the epistemic process (separating soul from body) and the eschatological reward, linking Platonic philosophy to mystery-religion language about initiation and purification."
+    },
+    {
+      "topic": "True virtue requires wisdom, not mere exchange of pleasures and pains",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-2d5b31", "quote": "the only right coinage, for which all those things must be exchanged and by means of and with which all these things are to be bought and sold, is in fact wisdom"},
+        {"paragraph_id": "p-9f5aa1", "quote": "And self-restraint—that which is commonly called self-restraint, which consists in not being excited by the passions and in being superior to them and acting in a seemly way—is not that characteristic of those alone who despise the body"},
+        {"paragraph_id": "p-00f48a", "quote": "they are self-restrained because of a kind of self-indulgence"}
+      ],
+      "justification": "Socrates argues that conventional virtue—courage, temperance, justice—practiced without wisdom is a counterfeit, a mere exchange economy of pleasures and pains; only wisdom-grounded virtue is genuine."
+    },
+    {
+      "topic": "Divine guardianship: humans as chattels of the gods",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-2f14d3", "quote": "the gods are our guardians and that we men are one of the chattels of the gods"},
+        {"paragraph_id": "p-270d8b", "quote": "if one of your chattels should kill itself when you had not indicated that you wished it to die, would you be angry with it"},
+        {"paragraph_id": "p-270d8b", "quote": "a man must not kill himself until god sends some necessity upon him, such as has now come upon me"}
+      ],
+      "justification": "The passage develops the Pythagorean prohibition on suicide through the analogy of humans as divine property, establishing why only divine permission (as in Socrates' case) makes death permissible."
+    },
+    {
+      "topic": "Socrates' piety and obedience to divine commands",
+      "implicit": true,
+      "mentions": [
+        {"paragraph_id": "p-da02cc", "quote": "I thought it was safer not to go hence before making sure that I had done what I ought, by obeying the dream and composing verses"},
+        {"paragraph_id": "p-273534", "quote": "even in going to the abode of the dead he was not going without the protection of the gods"},
+        {"paragraph_id": "p-497ed0", "quote": "if I did not believe, said he, that I was going to other wise and good gods, and, moreover, to men who have died, better men than those here, I should be wrong in not grieving at death"}
+      ],
+      "justification": "Throughout the passage, Socrates' actions—composing the hymn, accepting death, remaining in prison—are framed as acts of religious obedience that implicitly defend him against the charge of impiety underlying his trial."
+    },
+    {
+      "topic": "The limits of sense-perception as a path to truth",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-147a4f", "quote": "Have the sight and hearing of men any truth in them, or is it true, as the poets are always telling us, that we neither hear nor see any thing accurately?"},
+        {"paragraph_id": "p-71ed91", "quote": "when does the soul attain to truth? For when it tries to consider anything in company with the body, it is evidently deceived by it"},
+        {"paragraph_id": "p-d91537", "quote": "he who prepares himself most carefully to understand the true essence of each thing that he examines would come nearest to the knowledge of it"}
+      ],
+      "justification": "A sustained epistemological argument runs through the middle of the window that the senses systematically deceive, and that pure intellectual reasoning—unaided by the body—is the only path to genuine knowledge of the Forms."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Fables of Aesop",
+      "cited_author": "Aesop",
+      "stance": "neutral",
+      "paragraph_id": "p-9e7913",
+      "quote": "the metrical versions of Aesop's fables and the hymn to Apollo",
+      "justification": "Socrates explicitly identifies Aesop's fables as the source text he versified while in prison, citing them as the mythological raw material he worked from."
+    },
+    {
+      "cited_work": "Fables of Aesop",
+      "cited_author": "Aesop",
+      "stance": "neutral",
+      "paragraph_id": "p-da02cc",
+      "quote": "I took the myths of Aesop, which I had at hand and knew, and turned into verse the first I came upon",
+      "justification": "Socrates again names Aesop's myths as the specific texts he used for his prison versification, confirming them as a genuine textual reference."
+    },
+    {
+      "cited_work": "Pythagorean oral teachings on suicide",
+      "cited_author": "Philolaus",
+      "stance": "authority",
+      "paragraph_id": "p-137728",
+      "quote": "I heard Philolaus, when he was living in our city, say the same thing you just said, and I have heard it from others, too, that one must not do this",
+      "justification": "Cebes cites Philolaus's oral teaching as the authoritative source for the Pythagorean prohibition against self-killing, treating it as a doctrine Socrates now must explain."
+    },
+    {
+      "cited_work": "Doctrine on chaos / mixture",
+      "cited_author": "Anaxagoras",
+      "stance": "neutral",
+      "paragraph_id": "p-0eb808",
+      "quote": "the saying of Anaxagoras, all things are chaos, would soon come true",
+      "justification": "Socrates explicitly names Anaxagoras and quotes his doctrine that 'all things were mixed together' as the absurd conclusion that would follow if cyclical generation ceased, using it as a reductio."
+    }
+  ]
+}

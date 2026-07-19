@@ -1,0 +1,44 @@
+{
+  "work_slug": "john-gay-poems-1b43b7",
+  "work_title": "Poems",
+  "chapter_number": 37,
+  "chapter_title": "FABLE [36] XXXVI. Pythagoras and the Countryman.",
+  "chapter_slug": "37-fable-36-xxxvi-pythagoras-and-the-countryman",
+  "author": "John Gay",
+  "author_slug": "john-gay",
+  "ecpa_poem_id": "ojg27-w0370",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "fable"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 40
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a7096b82-6375-5af3-8b50-5e42bc095730",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 256,
+      "line_count": 42,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

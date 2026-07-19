@@ -1,0 +1,41 @@
+{
+  "work_slug": "daniel-defoe-poems-9cbf10",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "THE Fifteen Comforts OF A Scotch-Man.",
+  "chapter_slug": "04-the-fifteen-comforts-of-a-scotch-man",
+  "author": "Daniel Defoe",
+  "author_slug": "daniel-defoe",
+  "ecpa_poem_id": "o4298-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 164
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e203a65c-6d35-5617-ab71-c017e8ae0a9a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1323,
+      "line_count": 180,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

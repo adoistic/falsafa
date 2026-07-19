@@ -26,11 +26,11 @@ He who is able to give to strangers while his own family lives in distress—tha
 
 Whatever rite for the next world one performs by obstructing one's dependents, that has an unhappy result, both for him who is living and for him who is dead. // Mn_11.10[09M] //
 
-If a sacrifice of a sacrificer should be obstructed by one single element, especially of a Brahmana, while a righteous king is ruling; // Mn_11.11[10M] //
+If a sacrifice of a sacrificer should be obstructed by one single element, especially of a Brāhmaṇa, while a righteous king is ruling; // Mn_11.11[10M] //
 
-Whatever Vaishya may be rich in cattle, but who has not performed the lesser sacrifices and does not drink Soma, from his family one may take that property for the completion of the sacrifice. // Mn_11.12[11M] //
+Whatever Vaiśya may be rich in cattle, but who has not performed the lesser sacrifices and does not drink Soma, from his family one may take that property for the completion of the sacrifice. // Mn_11.12[11M] //
 
-One may take three or two things at will from the house of a Shudra; for a Shudra has no connection with sacrifices. // Mn_11.13[12M] //
+One may take three or two things at will from the house of a Śūdra; for a Śūdra has no connection with sacrifices. // Mn_11.13[12M] //
 
 He who has not established the sacred fire but has a hundred cows, and he who does not sacrifice but has a thousand cows, from the families of both of them one may take without hesitation. // Mn_11.14[13M] //
 
@@ -40,55 +40,55 @@ Likewise, at the seventh mealtime, having fasted for six mealtimes, one may take
 
 From a threshing floor, from a field, from a house, or from wherever it may be found; but it must be declared to him, if he should ask. // Mn_11.17[16M] //
 
-The property of a Brahmana must never be taken by a Kshatriya; but he who is unable to live may take the property of a barbarian or of one who does not perform sacrifices. // Mn_11.18[17M] //
+The property of a Brāhmaṇa must never be taken by a Kṣatriya; but he who is unable to live may take the property of a barbarian or of one who does not perform sacrifices. // Mn_11.18[17M] //
 
 He who, having taken wealth from the unrighteous, gives it to the righteous, he, having made a raft of himself, carries them both across. // Mn_11.19[18M] //
 
 Whatever wealth belongs to those who are devoted to sacrifice, that the wise know to be the property of the gods; but whatever wealth belongs to those who do not sacrifice, that is called the property of the Asuras. // Mn_11.20[19M] //
 
-A righteous lord of the earth should not inflict punishment on him for that; for it is through the foolishness of a Kshatriya that a Brahmana suffers from hunger. // Mn_11.21[20M] //
+A righteous lord of the earth should not inflict punishment on him for that; for it is through the foolishness of a Kṣatriya that a Brāhmaṇa suffers from hunger. // Mn_11.21[20M] //
 
 Having ascertained the number of his dependents from his own family, and having learned of his sacred learning and conduct, the king should arrange a righteous livelihood for him. // Mn_11.22[21M] //
 
 And having arranged his livelihood, he should protect him from all sides; for the king obtains a sixth part of the Dharma from him who is protected. // Mn_11.23[22M] //
 
-A Brahmana must never beg for wealth from a Shudra for the sake of a sacrifice; for a sacrificer who begs for it is reborn after death as a Chandala. // Mn_11.24[23M] //
+A Brāhmaṇa must never beg for wealth from a Śūdra for the sake of a sacrifice; for a sacrificer who begs for it is reborn after death as a Caṇḍāla. // Mn_11.24[23M] //
 
-That Brahmana who, having begged for wealth for a sacrifice, does not give it all away, he becomes a hawk or a crow for a hundred years. // Mn_11.25[24M] //
+That Brāhmaṇa who, having begged for wealth for a sacrifice, does not give it all away, he becomes a hawk or a crow for a hundred years. // Mn_11.25[24M] //
 
-He who, out of greed, misappropriates the property of the gods or the property of a Brahmana, that sinful-souled one lives in the next world on the leftovers of vultures. // Mn_11.26[25M] //
+He who, out of greed, misappropriates the property of the gods or the property of a Brāhmaṇa, that sinful-souled one lives in the next world on the leftovers of vultures. // Mn_11.26[25M] //
 
 One should perform the Vaishvanari sacrifice daily at the end of the year, for the atonement of the prescribed animal and Soma sacrifices, if they are not possible. // Mn_11.27[26M] //
 
 That twice-born who, not in a time of distress, performs a Dharma by the rule for a time of distress, he does not obtain the fruit of it in the next world; this is the considered opinion. // Mn_11.28[27M] //
 
-By all the Vishve-devas, by the Sadhyas, and by the Brahmanas and great sages, who were afraid of death in times of distress, a substitute for the rule was made. // Mn_11.29[28M] //
+By all the Vishve-devas, by the Sādhyas, and by the Brāhmaṇas and great sages, who were afraid of death in times of distress, a substitute for the rule was made. // Mn_11.29[28M] //
 
 He who is able to follow the primary rule but lives by the secondary rule, for that foolish-minded one, there is no fruit in the next world. // Mn_11.30[29M] //
 
-A Brahmana who knows the Dharma should not report anything to the king; by his own power alone he should discipline those men who are his injurers. // Mn_11.31[30M] //
+A Brāhmaṇa who knows the Dharma should not report anything to the king; by his own power alone he should discipline those men who are his injurers. // Mn_11.31[30M] //
 
 Between one's own power and the king's power, one's own power is stronger; therefore, a twice-born should restrain his enemies by his own power alone. // Mn_11.32[31M] //
 
-He should use the sacred texts of the Atharva-Angirasas without hesitation; for the weapon of a Brahmana is speech; with that a twice-born should slay his enemies. // Mn_11.33[32M] //
+He should use the sacred texts of the Atharva-Angirasas without hesitation; for the weapon of a Brāhmaṇa is speech; with that a twice-born should slay his enemies. // Mn_11.33[32M] //
 
-A Kshatriya should overcome his own distress by the power of his arms; a Vaishya and a Shudra, by wealth; but a best of the twice-born, by recitation and fire-oblations. // Mn_11.34[33M] //
+A Kṣatriya should overcome his own distress by the power of his arms; a Vaiśya and a Śūdra, by wealth; but a best of the twice-born, by recitation and fire-oblations. // Mn_11.34[33M] //
 
-The ordainer, the ruler, the speaker, the friend—a Brahmana is called; to him one should not speak ill, nor utter a harsh word. // Mn_11.35[34M] //
+The ordainer, the ruler, the speaker, the friend—a Brāhmaṇa is called; to him one should not speak ill, nor utter a harsh word. // Mn_11.35[34M] //
 
 Neither a maiden, nor a young woman, nor one of little learning, nor a simpleton, may be the Hotri priest of an Agnihotra, nor one who is sick, nor one who is uninitiated. // Mn_11.36[35M] //
 
 For these, while offering, fall into hell, and he whose sacrifice it is; therefore, a Hotri priest should be one who is skilled in the Veda and has mastered it. // Mn_11.37[36M] //
 
-A Brahmana who has wealth but does not give the horse sacred to Prajapati as the fee for the establishment of the sacred fire becomes one who has not established the sacred fire. // Mn_11.38[37M] //
+A Brāhmaṇa who has wealth but does not give the horse sacred to Prajāpati as the fee for the establishment of the sacred fire becomes one who has not established the sacred fire. // Mn_11.38[37M] //
 
 He may perform other meritorious acts, being full of faith and with his senses controlled; but he must not in any way sacrifice here with sacrifices that have small fees. // Mn_11.39[38M] //
 
 A sacrifice with a small fee destroys the senses, fame, heaven, lifespan, glory, progeny, and cattle; therefore, one who has little wealth should not sacrifice. // Mn_11.40[39M] //
 
-A Brahmana who maintains the sacred fire, who abandons his fires out of desire, should perform the `Cāndrāyaṇa` penance for a month; for that is equal to the slaying of a hero. // Mn_11.41[40M] //
+A Brāhmaṇa who maintains the sacred fire, who abandons his fires out of desire, should perform the `Cāndrāyaṇa` penance for a month; for that is equal to the slaying of a hero. // Mn_11.41[40M] //
 
-Those who, having acquired wealth from a Shudra, maintain the Agnihotra, they are indeed the sacrificial priests of Shudras, condemned among those who expound the Veda. // Mn_11.42[41M] //
+Those who, having acquired wealth from a Śūdra, maintain the Agnihotra, they are indeed the sacrificial priests of Śūdras, condemned among those who expound the Veda. // Mn_11.42[41M] //
 
 Of them who are ever ignorant, who serve the fire of a `vṛṣala` (a low man), the donor, having stepped on their heads with his foot, shall cross over difficulties. // Mn_11.43[42M] //
 
@@ -102,7 +102,7 @@ A twice-born who has become liable to penance, whether by fate or by a former de
 
 Here, some evil-souled men, through their evil conduct, and some through their former deeds, obtain a disfigurement of their form. // Mn_11.48[47M] //
 
-A gold thief obtains diseased nails; a liquor-drinker, black teeth; a slayer of a Brahmana, consumptive disease; and a defiler of a guru's bed, skin disease. // Mn_11.49[48M] //
+A gold thief obtains diseased nails; a liquor-drinker, black teeth; a slayer of a Brāhmaṇa, consumptive disease; and a defiler of a guru's bed, skin disease. // Mn_11.49[48M] //
 
 A slanderer obtains a stinking nose; an informer, a stinking mouth; a grain-thief, a deficient limb; and an adulterator, a superfluous one. // Mn_11.50[49M] //
 
@@ -112,9 +112,9 @@ Thus, by a particular action, they are born, condemned by the good, as idiots, m
 
 Therefore, a penance must always be performed for the sake of purification; for those whose sins are unexpiated are born marked with reprehensible signs. // Mn_11.53[52M] //
 
-The slaying of a Brahmana, the drinking of liquor, theft, the defiling of a guru's bed—these they call great sins, and also association with them. // Mn_11.54[53M] //
+The slaying of a Brāhmaṇa, the drinking of liquor, theft, the defiling of a guru's bed—these they call great sins, and also association with them. // Mn_11.54[53M] //
 
-False boasting, and slander that reaches the king, and a false accusation against a *guru*—these are equal to the slaying of a Brahmana. // Mn_11.55[54M] //
+False boasting, and slander that reaches the king, and a false accusation against a *guru*—these are equal to the slaying of a Brāhmaṇa. // Mn_11.55[54M] //
 
 Forgetting the Veda, reviling the Veda, false testimony, the slaying of a friend, and the eating of forbidden and inedible foods—these six are equal to the drinking of liquor. // Mn_11.56[55M] //
 
@@ -136,53 +136,53 @@ The felling of green trees for the sake of fuel, undertaking actions for one's o
 
 Not maintaining the sacred fire, theft, the non-payment of debts, the study of unrighteous treatises, and the practice of a base profession. // Mn_11.65[64M] //
 
-The theft of grain, base metals, or cattle, consorting with a woman who drinks liquor, the slaying of a woman, a Shudra, a Vaishya, or a Kshatriya, and atheism are minor sins. // Mn_11.66[65M] //
+The theft of grain, base metals, or cattle, consorting with a woman who drinks liquor, the slaying of a woman, a Śūdra, a Vaiśya, or a Kṣatriya, and atheism are minor sins. // Mn_11.66[65M] //
 
-Causing injury to a Brahmana, smelling things that should not be smelled and liquor, crookedness, and sexual intercourse with a man are remembered as sins causing loss of caste. // Mn_11.67[66M] //
+Causing injury to a Brāhmaṇa, smelling things that should not be smelled and liquor, crookedness, and sexual intercourse with a man are remembered as sins causing loss of caste. // Mn_11.67[66M] //
 
 The slaying of a donkey, a horse, a camel, a deer, or an elephant, and of a goat or a sheep, is to be known as a sin causing a mixture of castes, and likewise of a fish, a snake, or a buffalo. // Mn_11.68[67M] //
 
-Taking wealth from the condemned, trade, and service to a Shudra are to be known as sins making one unworthy to receive gifts, as is the speaking of an untruth. // Mn_11.69[68M] //
+Taking wealth from the condemned, trade, and service to a Śūdra are to be known as sins making one unworthy to receive gifts, as is the speaking of an untruth. // Mn_11.69[68M] //
 
 The killing of worms, insects, and birds, eating food associated with liquor, the theft of fruit, fuel, or flowers, and impatience are sins causing impurity. // Mn_11.70[69M] //
 
 All these sins, as they have been stated, separately, by which vows they are removed, hear those in their entirety. // Mn_11.71[70M] //
 
-A slayer of a Brahmana should live for twelve years in a hut made in the forest, begging for alms for his own purification, having made a skull his banner. // Mn_11.72[71M] //
+A slayer of a Brāhmaṇa should live for twelve years in a hut made in the forest, begging for alms for his own purification, having made a skull his banner. // Mn_11.72[71M] //
 
 Or, at his own will, he may become a target for men bearing weapons who know the law; or he may cast himself headlong three times into a blazing fire. // Mn_11.73[72M] //
 
 Or he may sacrifice with a horse-sacrifice, or a Svarjit, or a Gosava; or with an Abhijit or a Vishvajit, or with a Trivrit Agnishtut. // Mn_11.74[73M] //
 
-Or, reciting one of the Vedas, he may walk a hundred leagues, eating little and with his senses controlled, for the removal of the sin of slaying a Brahmana. // Mn_11.75[74M] //
+Or, reciting one of the Vedas, he may walk a hundred leagues, eating little and with his senses controlled, for the removal of the sin of slaying a Brāhmaṇa. // Mn_11.75[74M] //
 
-He should offer all his property to a Brahmana who knows the Veda; or wealth sufficient for a livelihood, or a house with its furniture. // Mn_11.76[75M] //
+He should offer all his property to a Brāhmaṇa who knows the Veda; or wealth sufficient for a livelihood, or a house with its furniture. // Mn_11.76[75M] //
 
-Or, eating sacrificial food, he may follow the Sarasvati river upstream; or, with a controlled diet, he may recite the Samhita of the Veda three times. // Mn_11.77[76M] //
+Or, eating sacrificial food, he may follow the Sarasvatī river upstream; or, with a controlled diet, he may recite the Samhita of the Veda three times. // Mn_11.77[76M] //
 
-Having had his head shaven, he should dwell at the edge of a village, or in a cow-pen, or in a hermitage, or at the root of a tree, intent on the welfare of cows and Brahmanas. // Mn_11.78[77M] //
+Having had his head shaven, he should dwell at the edge of a village, or in a cow-pen, or in a hermitage, or at the root of a tree, intent on the welfare of cows and Brāhmaṇas. // Mn_11.78[77M] //
 
-He who immediately gives up his life for the sake of a Brahmana or a cow is freed from the sin of slaying a Brahmana, as is a protector of a cow or a Brahmana. // Mn_11.79[78M] //
+He who immediately gives up his life for the sake of a Brāhmaṇa or a cow is freed from the sin of slaying a Brāhmaṇa, as is a protector of a cow or a Brāhmaṇa. // Mn_11.79[78M] //
 
-Or he who resists three times, or who recovers all the property, or who loses his life for the sake of a Brahmana, is released. // Mn_11.80[79M] //
+Or he who resists three times, or who recovers all the property, or who loses his life for the sake of a Brāhmaṇa, is released. // Mn_11.80[79M] //
 
-Thus, being firm in his vow, always a celibate student and self-controlled, at the end of the twelfth year, he removes the sin of slaying a Brahmana. // Mn_11.81[80M] //
+Thus, being firm in his vow, always a celibate student and self-controlled, at the end of the twelfth year, he removes the sin of slaying a Brāhmaṇa. // Mn_11.81[80M] //
 
 Or, having confessed his sin in an assembly of gods on earth and lords of men, having bathed at the concluding rite of a horse-sacrifice, he is released. // Mn_11.82[81M] //
 
-The Brahmana is the root of Dharma, the ruler is called its crown; therefore, in an assembly of them, by proclaiming his sin, he is purified. // Mn_11.83[82M] //
+The Brāhmaṇa is the root of Dharma, the ruler is called its crown; therefore, in an assembly of them, by proclaiming his sin, he is purified. // Mn_11.83[82M] //
 
-By his very birth, a Brahmana is a deity even for the gods, and he is the authority for the world; for Brahma is indeed the cause in this matter. // Mn_11.84[83M] //
+By his very birth, a Brāhmaṇa is a deity even for the gods, and he is the authority for the world; for Brahma is indeed the cause in this matter. // Mn_11.84[83M] //
 
 Three of them who know the Veda should declare the complete expiation for his sin; that shall be for their purification, for the word of the learned is purifying. // Mn_11.85[84M] //
 
-A Brahmana, having adopted one of these rules, being self-controlled, removes the sin committed by slaying a Brahmana, by his self-possession. // Mn_11.86[85M] //
+A Brāhmaṇa, having adopted one of these rules, being self-controlled, removes the sin committed by slaying a Brāhmaṇa, by his self-possession. // Mn_11.86[85M] //
 
-For killing an unknown embryo, one should perform this same vow; and also for a Kshatriya and a Vaishya who are performing a sacrifice, and for a woman of the Atri clan. // Mn_11.87[86M] //
+For killing an unknown embryo, one should perform this same vow; and also for a Kṣatriya and a Vaiśya who are performing a sacrifice, and for a woman of the Atri clan. // Mn_11.87[86M] //
 
 And for having given false evidence, and for having falsely accused a *guru*, and for having stolen a deposit, and for having slain a woman or a friend. // Mn_11.88[87M] //
 
-This purification has been declared for unintentionally slaying a twice-born; for the intentional slaying of a Brahmana, no expiation is prescribed. // Mn_11.89[88M] //
+This purification has been declared for unintentionally slaying a twice-born; for the intentional slaying of a Brāhmaṇa, no expiation is prescribed. // Mn_11.89[88M] //
 
 A twice-born who, out of delusion, has drunk liquor, should drink liquor of the color of fire; when his body has been burned by it, he is then freed from that guilt. // Mn_11.90[89M] //
 
@@ -190,23 +190,23 @@ Or he should drink cow's urine of the color of fire, or water, or milk, or ghee,
 
 Or he may eat grains or oil-cake once at night for a year, wearing a garment of hair, with matted locks and a banner, for the removal of the sin of drinking liquor. // Mn_11.92[91M] //
 
-Liquor is indeed the filth of food, and sin is also called filth; therefore, a Brahmana, a ruler, and a Vaishya must not drink liquor. // Mn_11.93[92M] //
+Liquor is indeed the filth of food, and sin is also called filth; therefore, a Brāhmaṇa, a ruler, and a Vaiśya must not drink liquor. // Mn_11.93[92M] //
 
 That made from molasses, that from flour, and that from honey—liquor is to be known as threefold; as is one, so are all; they must not be drunk by the best of the twice-born. // Mn_11.94[93M] //
 
-The food of Yakshas, Rakshasas, and Pisachas is liquor, meat, and distilled spirits; that must not be eaten by a Brahmana who eats the oblations of the gods. // Mn_11.95[94M] //
+The food of Yakshas, Rākṣasas, and Piśācas is liquor, meat, and distilled spirits; that must not be eaten by a Brāhmaṇa who eats the oblations of the gods. // Mn_11.95[94M] //
 
-A Brahmana, intoxicated and deluded by passion, may fall into an impure place, or may recite a Vedic text, or may do some other forbidden act. // Mn_11.96[95M] //
+A Brāhmaṇa, intoxicated and deluded by passion, may fall into an impure place, or may recite a Vedic text, or may do some other forbidden act. // Mn_11.96[95M] //
 
-He in whose body the Veda is once flooded with liquor, his Brahmanhood departs and he attains the state of a Shudra. // Mn_11.97[96M] //
+He in whose body the Veda is once flooded with liquor, his Brahmanhood departs and he attains the state of a Śūdra. // Mn_11.97[96M] //
 
 This varied expiation for the drinking of liquor has been declared; hereafter I will declare the expiation for the theft of gold. // Mn_11.98[97M] //
 
-A Brahmana who has committed the theft of gold should go to the king and, proclaiming his own deed, say, "Let your majesty punish me." // Mn_11.99[98M] //
+A Brāhmaṇa who has committed the theft of gold should go to the king and, proclaiming his own deed, say, "Let your majesty punish me." // Mn_11.99[98M] //
 
-The king, having taken a club, should strike him once himself; by death the thief is purified, but a Brahmana by *tapas* alone. // Mn_11.100[99M] //
+The king, having taken a club, should strike him once himself; by death the thief is purified, but a Brāhmaṇa by *tapas* alone. // Mn_11.100[99M] //
 
-But a twice-born who wishes to remove by *tapas* the impurity caused by the theft of gold should, wearing a wretched garment, perform the vow of a slayer of a Brahmana in the forest. // Mn_11.101[100M] //
+But a twice-born who wishes to remove by *tapas* the impurity caused by the theft of gold should, wearing a wretched garment, perform the vow of a slayer of a Brāhmaṇa in the forest. // Mn_11.101[100M] //
 
 By these vows, a twice-born should remove the sin committed by theft; but the sin of defiling a guru's wife, he should remove by these vows. // Mn_11.102[101M] //
 
@@ -242,7 +242,7 @@ Twice-born who have committed a minor sin should perform this same vow for their
 
 But a student who has broken his vow of chastity should, at a crossroads, sacrifice a one-eyed donkey to Nirriti at night, by the rule of the `pākayajña`. // Mn_11.118[117M] //
 
-Having offered the oblations in the fire according to the rule, and at the end having come together with a Rik verse, he should offer oblations of ghee to the Wind, Indra, the Guru, and the Fire. // Mn_11.119[118M] //
+Having offered the oblations in the fire according to the rule, and at the end having come together with a Ṛc verse, he should offer oblations of ghee to the Wind, Indra, the Guru, and the Fire. // Mn_11.119[118M] //
 
 The emission of seed out of desire by a twice-born who is under a vow, the knowers of Dharma who expound the Veda call a transgression of the vow. // Mn_11.120[119M] //
 
@@ -256,17 +256,17 @@ Having intentionally committed any of the sins causing loss of caste, one should
 
 For acts causing a mixture of castes and making one unworthy to receive gifts, the purification is the lunar penance for a month; for those causing impurity, one should live on hot barley-gruel for three days. // Mn_11.125[124M] //
 
-In the slaying of a Kshatriya, a fourth part of the penance for the slaying of a Brahmana is remembered; for a Vaishya of good conduct, an eighth part; but for a Shudra, a sixteenth part is to be known. // Mn_11.126[125M] //
+In the slaying of a Kṣatriya, a fourth part of the penance for the slaying of a Brāhmaṇa is remembered; for a Vaiśya of good conduct, an eighth part; but for a Śūdra, a sixteenth part is to be known. // Mn_11.126[125M] //
 
-But a best of the twice-born who has unintentionally slain a Kshatriya should give one thousand cows and one bull, having well-performed his vow. // Mn_11.127[126M] //
+But a best of the twice-born who has unintentionally slain a Kṣatriya should give one thousand cows and one bull, having well-performed his vow. // Mn_11.127[126M] //
 
-Or he should perform the vow of a slayer of a Brahmana for three years, with controlled senses and matted hair, dwelling far from a village, with the root of a tree as his home. // Mn_11.128[127M] //
+Or he should perform the vow of a slayer of a Brāhmaṇa for three years, with controlled senses and matted hair, dwelling far from a village, with the root of a tree as his home. // Mn_11.128[127M] //
 
-A best of the twice-born should perform this same penance for a year for having slain a Vaishya of good conduct, and he should give one hundred and one cows. // Mn_11.129[128M] //
+A best of the twice-born should perform this same penance for a year for having slain a Vaiśya of good conduct, and he should give one hundred and one cows. // Mn_11.129[128M] //
 
-A slayer of a Shudra should perform this entire vow for six months, or he should give eleven white cows and one bull to a Brahmana. // Mn_11.130[129M] //
+A slayer of a Śūdra should perform this entire vow for six months, or he should give eleven white cows and one bull to a Brāhmaṇa. // Mn_11.130[129M] //
 
-For killing a cat, a mongoose, a blue jay, or a frog, and a dog, an iguana, an owl, or a crow, one should perform the vow for the slaying of a Shudra. // Mn_11.131[130M] //
+For killing a cat, a mongoose, a blue jay, or a frog, and a dog, an iguana, an owl, or a crow, one should perform the vow for the slaying of a Śūdra. // Mn_11.131[130M] //
 
 Or he should drink milk for three nights, or walk a league, or bathe in a river, or recite the hymn to the water deities. // Mn_11.132[131M] //
 
@@ -274,7 +274,7 @@ A best of the twice-born, having killed a snake, should give an iron spade; for 
 
 For a partridge, a `droṇa` of sesame seeds; for a parrot, a two-year-old calf; and for killing a crane, a three-year-old calf. // Mn_11.134[133M] //
 
-Having killed a swan, a heron, a crane, or a peacock, a monkey, a hawk, or a vulture, he should give a cow to a Brahmana. // Mn_11.135[134M] //
+Having killed a swan, a heron, a crane, or a peacock, a monkey, a hawk, or a vulture, he should give a cow to a Brāhmaṇa. // Mn_11.135[134M] //
 
 Having killed a horse, he should give a garment; an elephant, five black bulls; a goat or a sheep, a bull; and having killed a donkey, a one-year-old calf. // Mn_11.136[135M] //
 
@@ -284,11 +284,11 @@ For the sake of purification, he should give separately a leather bag, a bow, an
 
 A twice-born who is unable to make the expiation for the slaying of a snake and the others by a gift should perform a `Kṛcchra` for each one for the removal of his sin. // Mn_11.139[138M] //
 
-For the slaying of a thousand creatures with bones, and for a full cartload of those without bones, one should perform the vow for the slaying of a Shudra. // Mn_11.140[139M] //
+For the slaying of a thousand creatures with bones, and for a full cartload of those without bones, one should perform the vow for the slaying of a Śūdra. // Mn_11.140[139M] //
 
-But for the slaying of creatures with bones, he should give something to a Brahmana; and for violence to those without bones, he is purified by a suppression of the breath. // Mn_11.141[140M] //
+But for the slaying of creatures with bones, he should give something to a Brāhmaṇa; and for violence to those without bones, he is purified by a suppression of the breath. // Mn_11.141[140M] //
 
-For the cutting of fruit-bearing trees, the recitation of a hundred Rik verses is prescribed; and for shrubs, creepers, and climbing plants, and for flowering plants. // Mn_11.142[141M] //
+For the cutting of fruit-bearing trees, the recitation of a hundred Ṛc verses is prescribed; and for shrubs, creepers, and climbing plants, and for flowering plants. // Mn_11.142[141M] //
 
 For creatures born in food, and for all those born in savory liquids, and for those born of fruits and flowers, the eating of ghee is the purification. // Mn_11.143[142M] //
 
@@ -300,15 +300,15 @@ Having drunk liquor unknowingly, one is purified by a second consecration; if in
 
 Having drunk water that was in a liquor-vessel, and likewise that in a liquor-pot, one should drink for five nights milk boiled with Shankhapushpi. // Mn_11.147[146M] //
 
-Having touched or given liquor, or having received it according to the rule, and having drunk water from the leftovers of a Shudra, one should drink Kusha-water for three days. // Mn_11.148[147M] //
+Having touched or given liquor, or having received it according to the rule, and having drunk water from the leftovers of a Śūdra, one should drink Kuśa-water for three days. // Mn_11.148[147M] //
 
-A Brahmana who drinks Soma, having smelled the scent of a liquor-drinker, is purified by thrice suppressing his breath in water and eating ghee. // Mn_11.149[148M] //
+A Brāhmaṇa who drinks Soma, having smelled the scent of a liquor-drinker, is purified by thrice suppressing his breath in water and eating ghee. // Mn_11.149[148M] //
 
 Having unknowingly eaten feces or urine, or what has been touched by liquor, the three *varnas* of the twice-born are entitled to a second consecration. // Mn_11.150[149M] //
 
 Shaving, the sacred girdle, the staff, the begging of alms, and the vows—these are discontinued for the twice-born in the rite of a second consecration. // Mn_11.151[150M] //
 
-Having eaten the food of those whose food should not be eaten, and the leftovers of a woman or a Shudra, and having eaten forbidden meat, one should drink barley-gruel for seven nights. // Mn_11.152[151M] //
+Having eaten the food of those whose food should not be eaten, and the leftovers of a woman or a Śūdra, and having eaten forbidden meat, one should drink barley-gruel for seven nights. // Mn_11.152[151M] //
 
 A twice-born who has drunk sour things and astringent liquids, even if they are pure, remains impure until it passes downwards. // Mn_11.153[152M] //
 
@@ -354,9 +354,9 @@ A man who has emitted seed in non-human females, in a woman in her monthly perio
 
 A twice-born who has engaged in sexual intercourse with a man or a woman, in a bullock-cart, in water, or by day, should bathe with his clothes on. // Mn_11.174[173M] //
 
-A Brahmana who unknowingly goes to women of the Chandala and lowest castes, or eats their food, or accepts gifts from them, falls; but if knowingly, he attains equality with them. // Mn_11.175[174M] //
+A Brāhmaṇa who unknowingly goes to women of the Caṇḍāla and lowest castes, or eats their food, or accepts gifts from them, falls; but if knowingly, he attains equality with them. // Mn_11.175[174M] //
 
-A husband should confine a wife who has been defiled by a Brahmana in a single room; whatever penance is for a man with another's wife, that vow he should make her perform. // Mn_11.176[175M] //
+A husband should confine a wife who has been defiled by a Brāhmaṇa in a single room; whatever penance is for a man with another's wife, that vow he should make her perform. // Mn_11.176[175M] //
 
 If she should be defiled again, being solicited by a man of equal rank, a `Kṛcchra` and a `Cāndrāyaṇa` are remembered as her purification. // Mn_11.177[176M] //
 
@@ -377,37 +377,37 @@ One must not have any dealings with sinners who have not performed their expiati
 One should not associate with slayers of children, nor with the ungrateful, nor with slayers of those who have sought refuge, nor with slayers of women, even if they have been purified according to Dharma. // Mn_11.190[189M] //
 Those twice-born for whom the Savitri has not been recited according to the rule, having made them perform three `Kṛcchras`, one should initiate them according to the rule. // Mn_11.191[190M] //
 Those twice-born who are engaged in forbidden acts but wish to perform penance, and those who have been abandoned by the Brahmanical community, for them too one should prescribe this. // Mn_11.192[191M] //
-Whatever wealth Brahmanas acquire by a reprehensible action, they are purified by the renunciation of it, by recitation, and by *tapas*. // Mn_11.193[192M] //
+Whatever wealth Brāhmaṇas acquire by a reprehensible action, they are purified by the renunciation of it, by recitation, and by *tapas*. // Mn_11.193[192M] //
 Having recited the Savitri three thousand times with a concentrated mind, and having drunk milk for a month in a cow-pen, one is freed from the sin of accepting an improper gift. // Mn_11.194[193M] //
 When he has returned from the cow-pen, emaciated by fasting, they should ask him as he bows, "O gentle one, do you wish for equality?" // Mn_11.195[194M] //
-Having spoken the truth to the Brahmanas, he should scatter fodder for the cows; when the sacred place has been trodden by the cows, they should perform his reception. // Mn_11.196[195M] //
+Having spoken the truth to the Brāhmaṇas, he should scatter fodder for the cows; when the sacred place has been trodden by the cows, they should perform his reception. // Mn_11.196[195M] //
 Having sacrificed for `vrātyas`, having performed the final rites for others, and having performed sorcery and the `Ahīna` sacrifice, one removes the sin with three `Kṛcchras`. // Mn_11.197[196M] //
 A twice-born who abandons one who has sought refuge and who perverts the Veda, by living on barley for a year, removes that sin. // Mn_11.198[197M] //
 Having been bitten by a dog, a jackal, or a donkey, by village carnivorous animals, or by a man, a horse, a camel, or a pig, one is purified by breath control. // Mn_11.199[198M] //
 Eating only at the sixth mealtime for a month, or the recitation of the Samhita, and the regular performance of all fire-oblations are the purification for those unfit to eat with. // Mn_11.200[199M] //
-A Brahmana who has willfully ridden on a camel or a donkey, having bathed naked, is purified by breath control. // Mn_11.201[200M] //
+A Brāhmaṇa who has willfully ridden on a camel or a donkey, having bathed naked, is purified by breath control. // Mn_11.201[200M] //
 Having discharged his bodily functions without water, or in water when in distress, having plunged into water outside with his clothes on and touched a cow, he is purified. // Mn_11.202[201M] //
 For the transgression of the daily rites prescribed by the Veda, and for the breaking of the vows of a *snātaka*, the penance is fasting. // Mn_11.203[202M] //
-Having said "hum" to a Brahmana, and "you" to a superior, having bathed and fasted for the rest of the day, he should appease him by saluting him. // Mn_11.204[203M] //
+Having said "hum" to a Brāhmaṇa, and "you" to a superior, having bathed and fasted for the rest of the day, he should appease him by saluting him. // Mn_11.204[203M] //
 Having struck him even with a blade of grass, or having bound him by the neck with a cloth, or having defeated him in a dispute, he should appease him by prostrating himself. // Mn_11.205[204M] //
-By threatening a Brahmana, one goes to hell for a hundred years; by striking him, for a thousand; and by desiring to kill him, one goes to hell. // Mn_11.206[205M] //
+By threatening a Brāhmaṇa, one goes to hell for a hundred years; by striking him, for a thousand; and by desiring to kill him, one goes to hell. // Mn_11.206[205M] //
 For as many specks of dust as the blood gathers from the surface of the earth, for so many thousands of years does the one who caused it dwell in hell. // Mn_11.207[206M] //
-For threatening, one should perform a `Kṛcchra`; for striking, an `Atikṛcchra`; for causing a Brahmana to bleed, one should perform a `Kṛcchra` and an `Atikṛcchra`. // Mn_11.208[207M] //
+For threatening, one should perform a `Kṛcchra`; for striking, an `Atikṛcchra`; for causing a Brāhmaṇa to bleed, one should perform a `Kṛcchra` and an `Atikṛcchra`. // Mn_11.208[207M] //
 For the removal of sins for which no expiation has been prescribed, one should ordain a penance, having considered the ability of the sinner and the gravity of the sin. // Mn_11.209[208M] //
 Those means by which a man removes his sins, those means, practiced by gods, sages, and ancestors, I will declare to you. // Mn_11.210[209M] //
 A twice-born performing a `Prājāpatya` should eat for three days in the morning, for three days in the evening, for three days what is received unsolicited, and for the next three days he should not eat. // Mn_11.211[210M] //
-Cow's urine, cow-dung, milk, curds, ghee, and Kusha-water, and a fast for one night—this is remembered as the `Sāṃtapana Kṛcchra`. // Mn_11.212[211M] //
+Cow's urine, cow-dung, milk, curds, ghee, and Kuśa-water, and a fast for one night—this is remembered as the `Sāṃtapana Kṛcchra`. // Mn_11.212[211M] //
 A twice-born performing an `Atikṛcchra` should eat one mouthful at each of the three daily periods as before, and for the last three days he should fast. // Mn_11.213[212M] //
-A Brahmana performing a `Taptakṛcchra` should drink hot water, milk, ghee, and air for three days each, bathing once a day with a concentrated mind. // Mn_11.214[213M] //
+A Brāhmaṇa performing a `Taptakṛcchra` should drink hot water, milk, ghee, and air for three days each, bathing once a day with a concentrated mind. // Mn_11.214[213M] //
 A fast of twelve days for one who is self-controlled and not careless—this `Kṛcchra` is named `Parāka`, the remover of all sins. // Mn_11.215[214M] //
 One should decrease one mouthful each day during the dark fortnight and increase it during the bright fortnight, sipping water at the three daily libations; this is remembered as the `Cāndrāyaṇa`. // Mn_11.216[215M] //
 One should follow this same entire rule in the `Yavamadhya` form of the `Cāndrāyaṇa` vow, being self-controlled and beginning in the bright fortnight. // Mn_11.217[216M] //
 One performing the `Yaticāndrāyaṇa` should eat eight mouthfuls of sacrificial food at midday, with a controlled soul. // Mn_11.218[217M] //
-A Brahmana with a concentrated mind should eat four mouthfuls in the morning and four after the sun has set; this is remembered as the `Śiśucāndrāyaṇa`. // Mn_11.219[218M] //
+A Brāhmaṇa with a concentrated mind should eat four mouthfuls in the morning and four after the sun has set; this is remembered as the `Śiśucāndrāyaṇa`. // Mn_11.219[218M] //
 He who, with a concentrated mind, eats three times eighty mouthfuls of sacrificial food in a month, in any way whatsoever, attains the same world as the moon. // Mn_11.220[219M] //
-This vow the Rudras, the Adityas, and the Vasus performed, and the Maruts with the great sages, for their release from all that is inauspicious. // Mn_11.221[220M] //
+This vow the Rudras, the Ādityas, and the Vasus performed, and the Maruts with the great sages, for their release from all that is inauspicious. // Mn_11.221[220M] //
 The fire-oblation with the great `vyāhṛtis` must be performed by oneself daily; and one should practice non-violence, truthfulness, absence of anger, and straightforwardness. // Mn_11.222[221M] //
-Three times by day and three times by night, he should enter the water with his clothes on; and he must never converse with women, Shudras, or outcastes. // Mn_11.223[222M] //
+Three times by day and three times by night, he should enter the water with his clothes on; and he must never converse with women, Śūdras, or outcastes. // Mn_11.223[222M] //
 He should pass his time by standing and sitting; if unable, he should lie on the ground; he should be a celibate, a performer of vows, and a worshipper of his *guru*, the gods, and the twice-born. // Mn_11.224[223M] //
 And he should constantly recite the Savitri and other purifying texts according to his ability; thus he should be devoted to all vows for the sake of penance. // Mn_11.225[224M] //
 By these vows, twice-born whose sins are manifest should be purified; but those whose sins are unmanifest, one should purify with mantras and fire-oblations. // Mn_11.226[225M] //
@@ -419,39 +419,39 @@ Having thus contemplated in his mind the arising of the fruit of his actions aft
 Having committed a reprehensible act, whether from ignorance or from knowledge, desiring release from it, he should not commit a second one. // Mn_11.232[231M] //
 For whatever action, when it is done, his mind feels no ease, for that he should perform *tapas* until it becomes a cause of satisfaction. // Mn_11.233[232M] //
 All this happiness of gods and men has *tapas* as its root; it is said by the wise to have *tapas* in its middle, and by the seers of the Veda to have *tapas* as its end. // Mn_11.234[233M] //
-The *tapas* of a Brahmana is knowledge; the *tapas* of a Kshatriya is protection; the *tapas* of a Vaishya is trade and economics; and the *tapas* of a Shudra is service. // Mn_11.235[234M] //
+The *tapas* of a Brāhmaṇa is knowledge; the *tapas* of a Kṣatriya is protection; the *tapas* of a Vaiśya is trade and economics; and the *tapas* of a Śūdra is service. // Mn_11.235[234M] //
 The sages, with controlled souls, living on fruits, roots, and air, by *tapas* alone perceive the three worlds with their movable and immovable beings. // Mn_11.236[235M] //
 Medicines, freedom from disease, learning, and the various states of the gods are achieved by *tapas* alone; for *tapas* is their means. // Mn_11.237[236M] //
 What is difficult to cross, what is difficult to obtain, what is difficult to reach, and what is difficult to do—all that is achievable by *tapas*; for *tapas* is difficult to surpass. // Mn_11.238[237M] //
 Those who have committed great sins, and the others who have done forbidden acts, are freed from that guilt by well-practiced *tapas*. // Mn_11.239[238M] //
 Insects, snakes, and moths, and beasts and birds, and immovable beings, go to heaven by the power of *tapas*. // Mn_11.240[239M] //
 Whatever sin men commit with their mind, speech, or body, all that those whose wealth is *tapas* quickly burn away by *tapas* alone. // Mn_11.241[240M] //
-The gods accept the sacrifices of a Brahmana who has been purified by *tapas*, and they increase his desires. // Mn_11.242[241M] //
-The lord Prajapati created this sacred treatise by *tapas* alone; and likewise the sages received the Vedas by *tapas*. // Mn_11.243[242M] //
+The gods accept the sacrifices of a Brāhmaṇa who has been purified by *tapas*, and they increase his desires. // Mn_11.242[241M] //
+The lord Prajāpati created this sacred treatise by *tapas* alone; and likewise the sages received the Vedas by *tapas*. // Mn_11.243[242M] //
 Thus the gods proclaim the great good fortune of *tapas*, seeing the supreme merit of *tapas* in all this. // Mn_11.244[243M] //
 The daily study of the Veda according to one's ability, the performance of the great sacrifices, and forbearance quickly destroy sins, even those born of great sins. // Mn_11.245[244M] //
 Just as fire with its energy instantly burns what it has received, so a knower of the Veda burns all sin with the fire of knowledge. // Mn_11.246[245M] //
 Thus this penance for sins has been declared according to the rule; hereafter, learn the penance of the secret texts. // Mn_11.247[246M] //
-Sixteen breath-control exercises with the `vyāhṛtis` and the `praṇava`, performed daily, purify even the slayer of a learned Brahmana in a month. // Mn_11.248[247M] //
-Having recited the hymn of Kautsa, "āpa ity etad," the Rik verse "pratīty" of Vasishtha, the `Māhitra`, and the `Śuddhavatīs`, even a liquor-drinker is purified. // Mn_11.249[248M] //
+Sixteen breath-control exercises with the `vyāhṛtis` and the `praṇava`, performed daily, purify even the slayer of a learned Brāhmaṇa in a month. // Mn_11.248[247M] //
+Having recited the hymn of Kautsa, "āpa ity etad," the Ṛc verse "pratīty" of Vasiṣṭha, the `Māhitra`, and the `Śuddhavatīs`, even a liquor-drinker is purified. // Mn_11.249[248M] //
 Having once recited the `Asyavāmīya` hymn and the `Śivasaṃkalpa`, having stolen gold, one becomes pure in an instant. // Mn_11.250[249M] //
 Having practiced the `Haviṣpāntīya` hymn and "na tamaṃha iti," and having recited the `Puruṣa Sūkta`, a defiler of a guru's bed is released. // Mn_11.251[250M] //
-Desiring to remove great and small sins, one should recite for a year the Rik verse "avety," or "yat kiṃ cedam." // Mn_11.252[251M] //
+Desiring to remove great and small sins, one should recite for a year the Ṛc verse "avety," or "yat kiṃ cedam." // Mn_11.252[251M] //
 Having accepted an unacceptable gift, and having eaten reprehensible food, a man is purified in three days by reciting the `Taratsamandīya` hymn. // Mn_11.253[252M] //
 One who has committed many sins is purified by practicing the `Somāraudra` hymn for a month, performing his bath in a flowing river, and reciting the three verses beginning "aryamṇām." // Mn_11.254[253M] //
 A sinner should recite the seven verses beginning "indram" for half a year; having done an unpraiseworthy act, he should remain in water for a month, living on alms. // Mn_11.255[254M] //
-A twice-born, having offered ghee for a year with the mantras of the `Śākalahomas`, removes even a very great sin, or by reciting the Rik verse "nama ity." // Mn_11.256[255M] //
+A twice-born, having offered ghee for a year with the mantras of the `Śākalahomas`, removes even a very great sin, or by reciting the Ṛc verse "nama ity." // Mn_11.256[255M] //
 One who is joined with a great sin should follow cows with a concentrated mind; by practicing the `Pāvamānī` hymns for a year, living on alms, he is purified. // Mn_11.257[256M] //
 Or, being pure, having practiced the Veda-Samhita three times in the forest, one is freed from all sins, having been purified by three `Parākas`. // Mn_11.258[257M] //
 One should fast for three days, being self-controlled, sipping water three times a day; one is freed from all sins by reciting the `Aghamarṣaṇa` hymn three times. // Mn_11.259[258M] //
 Just as the horse-sacrifice, the king of sacrifices, is the remover of all sins, so is the `Aghamarṣaṇa` hymn the remover of all sins. // Mn_11.260[259M] //
-Having slain even these three worlds, and eating from anywhere, a Brahmana who retains the Rigveda in his memory incurs no sin whatsoever. // Mn_11.261[260M] //
-Having practiced the Rik-Samhita three times, or that of the Yajus, with a concentrated mind, or that of the Samans with its secret texts, one is freed from all sins. // Mn_11.262[261M] //
+Having slain even these three worlds, and eating from anywhere, a Brāhmaṇa who retains the Rigveda in his memory incurs no sin whatsoever. // Mn_11.261[260M] //
+Having practiced the Ṛc-Samhita three times, or that of the Yajus, with a concentrated mind, or that of the Samans with its secret texts, one is freed from all sins. // Mn_11.262[261M] //
 Just as a clod of earth, having reached a great lake, is destroyed when thrown in, so all evil conduct sinks into the threefold Veda. // Mn_11.263[262M] //
 The Riks, the Yajus, and the other various Samans—this is to be known as the threefold Veda; he who knows this is a knower of the Veda. // Mn_11.264[263M] //
 That which is the first, the three-syllabled Brahma, in which the threefold Veda is established—that is the other, secret, threefold Veda; he who knows it is a knower of the Veda. // Mn_11.265[264M] //
 "This entire Dharma of the four-*varna* system has been declared by you, O sinless one; now tell us truly the supreme fulfillment of the fruit of actions." // Mn_12.1 //
-That righteous-souled Bhrigu, descendant of Manu, said to those great sages: "Listen to the determination of this entire connection with `karma`." // Mn_12.2 //
+That righteous-souled Bhṛgu, descendant of Manu, said to those great sages: "Listen to the determination of this entire connection with `karma`." // Mn_12.2 //
 Action, which springs from the mind, speech, and body, has good and bad results; the states of men, high, low, and middle, are born of their `karma`. // Mn_12.3 //
 Of this threefold action with its three bases, for an embodied being, endowed with ten characteristics, one should know the mind to be the instigator. // Mn_12.4 //
 Coveting the property of others, thinking of what is undesirable with the mind, and adherence to falsehood—this is the threefold mental action. // Mn_12.5 //
@@ -492,24 +492,24 @@ By which of these `guṇas` one enters into which cycles of rebirth, those I wil
 The `sāttvic` go to the state of gods; the `rājasic`, to the state of men; the `tāmasic` always go to the state of beasts; this is the threefold state. // Mn_12.40 //
 This threefold state, arising from the `guṇas`, is to be known as threefold again: low, middle, and high, according to the specifics of action and knowledge. // Mn_12.41 //
 Immovable things, worms and insects, fish, snakes, and tortoises, and cattle and wild animals—this is the lowest `tāmasic` state. // Mn_12.42 //
-Elephants and horses, Shudras and reprehensible Mlecchas, lions, tigers, and boars—this is the middle `tāmasic` state. // Mn_12.43 //
-`Cāraṇas`, `suparṇas`, and hypocritical men, Rakshasas and Pisachas—this is the highest `tāmasic` state. // Mn_12.44 //
+Elephants and horses, Śūdras and reprehensible Mlecchas, lions, tigers, and boars—this is the middle `tāmasic` state. // Mn_12.43 //
+`Cāraṇas`, `suparṇas`, and hypocritical men, Rākṣasas and Piśācas—this is the highest `tāmasic` state. // Mn_12.44 //
 `Jhalla` and `malla` acrobats, actors, and men who live by the sword, and those addicted to gambling and drinking—this is the lowest `rājasic` state. // Mn_12.45 //
-Kings and Kshatriyas, and the family priests of kings, and those who delight in disputes and battles—this is the middle `rājasic` state. // Mn_12.46 //
+Kings and Kṣatriyas, and the family priests of kings, and those who delight in disputes and battles—this is the middle `rājasic` state. // Mn_12.46 //
 Gandharvas, `guhyakas`, Yakshas, and those who are attendants of the gods, and likewise all the `apsaras`—this is the highest `rājasic` state. // Mn_12.47 //
-Ascetics, mendicants, Brahmanas, and the hosts of celestial beings, the constellations and the Daityas—this is the first `sāttvic` state. // Mn_12.48 //
+Ascetics, mendicants, Brāhmaṇas, and the hosts of celestial beings, the constellations and the Daityas—this is the first `sāttvic` state. // Mn_12.48 //
 Sacrificers, sages, gods, the Vedas, the heavenly lights, the years, the ancestors, and the `sādhyas`—this is the second `sāttvic` state. // Mn_12.49 //
 Brahma, the creators of the world, Dharma, the Great One, and the Unmanifest—this the wise call the highest `sāttvic` state. // Mn_12.50 //
 This entire cycle of rebirth, which affects all beings, of three kinds, threefold and threefold again, has been declared for the three kinds of action. // Mn_12.51 //
 Through attachment to the senses and through the non-practice of Dharma, ignorant and base men go to sinful cycles of rebirth. // Mn_12.52 //
 To whatever womb this living soul goes, and by whatever action here, that all, in due order, you must learn. // Mn_12.53 //
 Having obtained dreadful hells for many hosts of years, at their expiration, those who have committed great sins enter into these cycles of rebirth. // Mn_12.54 //
-A slayer of a Brahmana enters the womb of a dog, a pig, a donkey, or a camel, of a cow, a goat, a sheep, a wild animal, or a bird, or of a Chandala or a Pukkasa. // Mn_12.55 //
-A Brahmana who drinks liquor shall go to the state of worms, insects, and moths, and of birds that eat filth, and of violent creatures. // Mn_12.56 //
-A Brahmana who is a thief enters a thousand times the wombs of spiders, snakes, and lizards, and of beasts and water-creatures, and of violent Pisachas. // Mn_12.57 //
+A slayer of a Brāhmaṇa enters the womb of a dog, a pig, a donkey, or a camel, of a cow, a goat, a sheep, a wild animal, or a bird, or of a Caṇḍāla or a Pukkasa. // Mn_12.55 //
+A Brāhmaṇa who drinks liquor shall go to the state of worms, insects, and moths, and of birds that eat filth, and of violent creatures. // Mn_12.56 //
+A Brāhmaṇa who is a thief enters a thousand times the wombs of spiders, snakes, and lizards, and of beasts and water-creatures, and of violent Piśācas. // Mn_12.57 //
 A defiler of a guru's bed enters a hundred times the wombs of grasses, shrubs, and creepers, and of carnivorous and fanged animals, and of those who do cruel deeds. // Mn_12.58 //
 Violent men become carnivorous; eaters of impure things, worms; thieves, eaters of each other; and those who serve the lowest women, spirits after death. // Mn_12.59 //
-Having had intercourse with outcastes, and with the wife of another, and having stolen the property of a Brahmana, one becomes a Brahma-rakshasa. // Mn_12.60 //
+Having had intercourse with outcastes, and with the wife of another, and having stolen the property of a Brāhmaṇa, one becomes a Brahma-rakshasa. // Mn_12.60 //
 A man who, out of greed, has stolen jewels, pearls, coral, and various kinds of gems, is born among goldsmiths. // Mn_12.61 //
 Having stolen grain, one becomes a rat; bronze, a swan; water, a diver-bird; honey, a gadfly; milk, a crow; savory liquid, a dog; and ghee, a mongoose. // Mn_12.62 //
 Meat, a vulture; fat, a grebe; oil, an oil-eating bird; salt, a cricket; curds, a white crane. // Mn_12.63 //
@@ -520,8 +520,8 @@ A wolf for a deer or an elephant; a tiger for a horse; a monkey for fruit or roo
 Whatever property of another a man forcibly steals, he inevitably goes to the state of a beast, and also for having eaten an unconsecrated oblation. // Mn_12.68 //
 Women also, by this rule, having stolen, obtain sin; they enter into the state of being the wives of these same creatures. // Mn_12.69 //
 The *varnas* that have fallen from their own duties, not in a time of distress, having passed through sinful cycles of rebirth, go to a state of servitude to their enemies. // Mn_12.70 //
-A Brahmana who has fallen from his own Dharma becomes a `Vāntāśī` or `Ulkāmukha` spirit; a Kshatriya, an eater of impure corpses, a `Kaṭapūtana` spirit. // Mn_12.71 //
-A Vaishya becomes a `Maitrākṣajyotika` spirit, an eater of pus; and a Shudra who has fallen from his own Dharma becomes a `Cailāśaka` spirit. // Mn_12.72 //
+A Brāhmaṇa who has fallen from his own Dharma becomes a `Vāntāśī` or `Ulkāmukha` spirit; a Kṣatriya, an eater of impure corpses, a `Kaṭapūtana` spirit. // Mn_12.71 //
+A Vaiśya becomes a `Maitrākṣajyotika` spirit, an eater of pus; and a Śūdra who has fallen from his own Dharma becomes a `Cailāśaka` spirit. // Mn_12.72 //
 As men of worldly nature indulge in sense-objects, so their skill in those same things increases. // Mn_12.73 //
 By the practice of those sinful actions, those of little intellect obtain sufferings in these various wombs here. // Mn_12.74 //
 And the revolving in dreadful hells, such as Tamisra and the others; the Asipatravana and the like, and bonds and mutilations. // Mn_12.75 //
@@ -531,7 +531,7 @@ Dwelling again and again in the womb, and dreadful births; and harsh bonds, and 
 And separation from friends and loved ones, and dwelling with evil people; and the acquisition and loss of wealth, and the acquisition of friends and enemies. // Mn_12.79 //
 And old age without remedy, and being afflicted by diseases; and those various kinds of sufferings, and death which is difficult to conquer. // Mn_12.80 //
 With whatever disposition one performs any action, with a body of that same kind one enjoys the fruit of that action. // Mn_12.81 //
-This entire arising of the fruit of actions has been declared to you; now learn this action of a Brahmana which leads to the highest good. // Mn_12.82 //
+This entire arising of the fruit of actions has been declared to you; now learn this action of a Brāhmaṇa which leads to the highest good. // Mn_12.82 //
 The study of the Veda, *tapas*, knowledge, the restraint of the senses, non-violence, and service to a *guru* are the supreme means to the highest good. // Mn_12.83 //
 Of all these good actions here, is any one action declared to be more conducive to the highest good for a man? // Mn_12.84 //
 Of all these, knowledge of the Self (`ātmajñāna`) is remembered as the highest; for that is the foremost of all sciences, for from it immortality is obtained. // Mn_12.85 //
@@ -542,7 +542,7 @@ Action done with desire, here or in the next world, is called active (`pravṛtt
 By serving active `karma`, one attains equality with the gods; but by serving renunciatory `karma`, one passes beyond the five elements. // Mn_12.90 //
 Seeing the Self equally in all beings, and all beings in the Self, he who sacrifices to the Self attains `svārājya` (sovereignty over the Self). // Mn_12.91 //
 A best of the twice-born, having abandoned even the actions prescribed, should be diligent in knowledge of the Self, in tranquility, and in the study of the Veda. // Mn_12.92 //
-For this is the fulfillment of birth, especially for a Brahmana; for having obtained this, a twice-born has done all that needs to be done, and not otherwise. // Mn_12.93 //
+For this is the fulfillment of birth, especially for a Brāhmaṇa; for having obtained this, a twice-born has done all that needs to be done, and not otherwise. // Mn_12.93 //
 The Veda is the eternal eye of the ancestors, gods, and men; the Veda-shastra is impossible and immeasurable; this is the established rule. // Mn_12.94 //
 Those `Smṛtis` which are outside the Veda, and whatever bad doctrines there are, all of them are fruitless after death, for they are remembered as founded on darkness. // Mn_12.95 //
 Whatever other things arise and pass away, apart from this, they are fruitless and untrue on account of their recent origin. // Mn_12.96 //
@@ -553,28 +553,28 @@ Command of an army, and kingship, and the wielding of the rod of punishment, and
 Just as fire with its power kindled burns even wet trees, so a knower of the Veda burns the fault of his self, which is born of `karma`. // Mn_12.101 //
 He who knows the truth and meaning of the Veda and the sacred treatises, dwelling in whatever `āśrama` he may be, abiding in this very world, he is fit for becoming one with Brahma. // Mn_12.102 //
 Those who know the texts are superior to the ignorant; those who retain them are better than those who know the texts; those who have knowledge are superior to those who retain them; and those who act on their knowledge are superior to those who have knowledge. // Mn_12.103 //
-*Tapas* and learning are the supreme means to the highest good for a Brahmana; by *tapas* he destroys guilt, and by learning he enjoys immortality. // Mn_12.104 //
+*Tapas* and learning are the supreme means to the highest good for a Brāhmaṇa; by *tapas* he destroys guilt, and by learning he enjoys immortality. // Mn_12.104 //
 Direct perception, inference, and the sacred treatises of various traditions—these three must be well-known by one who desires the purity of Dharma. // Mn_12.105 //
 He who investigates the teaching of Dharma of the sages with reasoning that is not contrary to the Veda-shastras, he knows Dharma, and no other. // Mn_12.106 //
 This action which leads to the highest good has been declared in its entirety as prescribed; the secret of this `Mānava Śāstra` is taught. // Mn_12.107 //
 In matters of Dharma not laid down, if the question should arise, 'How should it be?'... // Mn_12.107 //
 
-Whatever the learned and virtuous Brahmanas may declare, that shall be the unquestioned *Dharma*. // Mn_12.108 //
-Those Brahmanas by whom the Veda, together with its auxiliary texts, has been acquired according to *Dharma*, they are to be known as the learned and virtuous, for whom the *Śruti* (श्रुति) is the direct source of knowledge. // Mn_12.109 //
+Whatever the learned and virtuous Brāhmaṇas may declare, that shall be the unquestioned *Dharma*. // Mn_12.108 //
+Those Brāhmaṇas by whom the Veda, together with its auxiliary texts, has been acquired according to *Dharma*, they are to be known as the learned and virtuous, for whom the *Śruti* (श्रुति) is the direct source of knowledge. // Mn_12.109 //
 Whatever *Dharma* an assembly (*pariṣad* (परिषद्)) of at least ten may determine, or an assembly of at least three who are established in their duties, that *Dharma* one must not question. // Mn_12.110 //
 One who knows the three Vedas, a logician, a reasoner, an etymologist, one who recites the Dharma-shastras, and three from the first *āśramas* (आश्रम)—this shall be an assembly (*pariṣad*) of at least ten. // Mn_12.111 //
 One who knows the Rigveda, one who knows the Yajurveda, and also one who knows the Samaveda—this is to be known as an assembly (*pariṣad*) of at least three for the determination of doubtful points of *Dharma*. // Mn_12.112 //
 Whatever *Dharma* even one twice-born who knows the Veda may determine, that should be known as the supreme *Dharma*, not what is uttered by ten thousand ignorant men. // Mn_12.113 //
 For thousands of those who are without vows, without sacred formulas, and who live by their birth alone, when they have come together, the status of an assembly (*pariṣad*) does not exist. // Mn_12.114 //
 Whatever *Dharma* fools who are overcome by darkness (*tamas*), who do not know the truth, may declare, that sin, having become a hundredfold, pursues its declarers. // Mn_12.115 //
-All this has been declared to you, that which brings the highest good. A Brahmana who does not swerve from this attains the supreme state. // Mn_12.116 //
+All this has been declared to you, that which brings the highest good. A Brāhmaṇa who does not swerve from this attains the supreme state. // Mn_12.116 //
 Thus that divine Lord, with a desire for the welfare of the worlds, has declared to me this entire supreme secret of *Dharma*. // Mn_12.117 //
 With a concentrated mind, one should see all things, both the existent and the non-existent, in the Self (*Ātman* (आत्मन्)); for one who sees all things in the Self does not set his mind on unrighteousness. // Mn_12.118 //
 The Self alone is all the deities; everything is established in the Self. For the Self indeed produces the connection with action for embodied beings. // Mn_12.119 //
 He should place the space (of the body) in cosmic Space, the organs of motion and touch in the Wind; in the powers of digestion and sight, the supreme Fire; in the bodily fluids, Water; and in the solid parts, Earth. // Mn_12.120 //
-In the mind, the Moon; in the ear, the Directions; in the power of movement, Vishnu; in strength, Hara; in speech, Agni; in the organ of excretion, Mitra; and in the organ of generation, Prajapati. // Mn_12.121 //
+In the mind, the Moon; in the ear, the Directions; in the power of movement, Vishnu; in strength, Hara; in speech, Agni; in the organ of excretion, Mitra; and in the organ of generation, Prajāpati. // Mn_12.121 //
 One should know him as the ruler of all, subtler than the subtle, of golden hue, attainable by the intellect in the state of dream—that supreme *Puruṣa* (पुरुष). // Mn_12.122 //
-Some call him Agni, others Manu, others Prajapati; some call him Indra, others Prana, others the eternal *Brahma* (ब्रह्म). // Mn_12.123 //
+Some call him Agni, others Manu, others Prajāpati; some call him Indra, others Prana, others the eternal *Brahma* (ब्रह्म). // Mn_12.123 //
 He, having pervaded all beings with his five forms, constantly causes them to revolve like a wheel, through birth, growth, and decay. // Mn_12.124 //
 He who thus sees the Self in all beings by means of the self, he, having attained equanimity towards all, attains the supreme state of *Brahma*. // Mn_12.125 //
-Thus, a twice-born who studies this *Mānava Śāstra* (मानवं शास्त्रं) declared by Bhrigu becomes ever endowed with good conduct and attains whatever state he may desire. // Mn_12.126 //
+Thus, a twice-born who studies this *Mānava Śāstra* (मानवं शास्त्रं) declared by Bhṛgu becomes ever endowed with good conduct and attains whatever state he may desire. // Mn_12.126 //

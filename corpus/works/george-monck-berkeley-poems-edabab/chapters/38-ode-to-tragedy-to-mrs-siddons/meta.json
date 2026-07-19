@@ -1,0 +1,44 @@
+{
+  "work_slug": "george-monck-berkeley-poems-edabab",
+  "work_title": "Poems",
+  "chapter_number": 38,
+  "chapter_title": "ODE TO TRAGEDY. TO MRS. SIDDONS.",
+  "chapter_slug": "38-ode-to-tragedy-to-mrs-siddons",
+  "author": "George Monck Berkeley",
+  "author_slug": "george-monck-berkeley",
+  "ecpa_poem_id": "o5280-w0370",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "sestet (6 lines)"
+    ],
+    "rhyme": "aabccb",
+    "syllable_pattern": "8.8.8.8.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 46
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e285041b-0623-5e25-b76a-e3c308890af3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 275,
+      "line_count": 48,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "asanga-sarirarthagatha-503db2",
+  "work_title": "Śarīrārthagāthā",
+  "chapter_number": 12,
+  "chapter_title": "The brāhmaṇa's task and the one gone to the far shore",
+  "chapter_slug": "12-the-brahmanas-task-and-the-one-gone-to-the-far-sho",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "2836be22-57d7-56ba-8bdd-5a6b99b90d87",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "iast",
+      "word_count": 62,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "73e4f328-b4dd-5069-9db8-7b2af7e317c2",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 149,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    }
+  ]
+}

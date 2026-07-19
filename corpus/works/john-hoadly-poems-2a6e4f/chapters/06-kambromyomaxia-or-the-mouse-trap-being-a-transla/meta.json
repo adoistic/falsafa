@@ -1,0 +1,41 @@
+{
+  "work_slug": "john-hoadly-poems-2a6e4f",
+  "work_title": "Poems",
+  "chapter_number": 6,
+  "chapter_title": "KAMBROMYOMAXIA: OR THE MOUSE-TRAP; Being a Translation of Mr. HOLDSWORTH'S MUSCIPULA, 1737.",
+  "chapter_slug": "06-kambromyomaxia-or-the-mouse-trap-being-a-transla",
+  "author": "John Hoadly",
+  "author_slug": "john-hoadly",
+  "ecpa_poem_id": "o5156-w0880",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "blank verse",
+      "mock heroic"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 291
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f3b44dec-26de-5b08-9e03-823267d7207a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2165,
+      "line_count": 294,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "work_slug": "rebekah-carmichael-poems-f536c3",
+  "work_title": "Poems",
+  "chapter_number": 14,
+  "chapter_title": "A TALE",
+  "chapter_slug": "14-a-tale",
+  "author": "Rebekah Carmichael",
+  "author_slug": "rebekah-carmichael",
+  "ecpa_poem_id": "prc90-w0140",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "narrative verse"
+    ],
+    "foot": "trochaic (′˘)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "xaxa",
+    "syllable_pattern": "8.7.8.7",
+    "metrical_pattern": "+-|+-|+-|+-/ +-|+-|+-|+/ +-|+-|+-|+-/ +-|+-|+-|+/",
+    "line_count": 68
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "89db75da-41a2-55c8-be1b-db86c6a9b90d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 397,
+      "line_count": 69,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

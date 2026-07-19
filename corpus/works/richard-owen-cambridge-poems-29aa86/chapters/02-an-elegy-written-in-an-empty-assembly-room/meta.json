@@ -1,0 +1,45 @@
+{
+  "work_slug": "richard-owen-cambridge-poems-29aa86",
+  "work_title": "Poems",
+  "chapter_number": 2,
+  "chapter_title": "An Elegy written in an empty Assembly-Room.",
+  "chapter_slug": "02-an-elegy-written-in-an-empty-assembly-room",
+  "author": "Richard Owen Cambridge",
+  "author_slug": "richard-owen-cambridge",
+  "ecpa_poem_id": "o5157-w0810",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "elegy"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 91
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "16bfbd15-980c-5f9e-b2ce-d3131cf9978c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 708,
+      "line_count": 93,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

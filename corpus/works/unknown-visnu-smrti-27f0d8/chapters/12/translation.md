@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 12**
+**Viṣṇu Smriti 12**
 
 Now, the ordeal of water (*udaka*). // Vi_12.1 //
 

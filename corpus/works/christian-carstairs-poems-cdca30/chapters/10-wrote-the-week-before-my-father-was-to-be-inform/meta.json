@@ -1,0 +1,44 @@
+{
+  "work_slug": "christian-carstairs-poems-cdca30",
+  "work_title": "Poems",
+  "chapter_number": 10,
+  "chapter_title": "Wrote the week before my Father was to be informed of my Brother's death.",
+  "chapter_slug": "10-wrote-the-week-before-my-father-was-to-be-inform",
+  "author": "Christian Carstairs",
+  "author_slug": "christian-carstairs",
+  "ecpa_poem_id": "pcc86-w0100",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "lament"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "triplet (3 lines)"
+    ],
+    "rhyme": "aax",
+    "syllable_pattern": "8.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 18
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a01c6aab-4bf0-5cd7-938d-6ec7a6de0c2b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 126,
+      "line_count": 19,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

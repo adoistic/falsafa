@@ -1,0 +1,44 @@
+{
+  "work_slug": "ann-yearsley-poems-4d0e6f",
+  "work_title": "Poems",
+  "chapter_number": 9,
+  "chapter_title": "To Mrs. M—S.",
+  "chapter_slug": "09-to-mrs-m-s",
+  "author": "Ann Yearsley",
+  "author_slug": "ann-yearsley",
+  "ecpa_poem_id": "pye85-w0090",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "address"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 44
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7cc9c0b1-ebef-5427-a9cb-86473951bc87",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 349,
+      "line_count": 45,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

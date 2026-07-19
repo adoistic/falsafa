@@ -1,0 +1,46 @@
+{
+  "work_slug": "james-merrick-poems-485d0d",
+  "work_title": "Poems",
+  "chapter_number": 3,
+  "chapter_title": "VERSES WRITTEN ORIGINALLY IN THE PERSIC LANGUAGE.",
+  "chapter_slug": "03-verses-written-originally-in-the-persic-language",
+  "author": "James Merrick",
+  "author_slug": "james-merrick",
+  "ecpa_poem_id": "o4984-w0270",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "imitation",
+      "translation",
+      "paraphrase"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "8.6.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 12
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b7c3c33c-faf0-5aac-b5ea-1fc71172460b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 77,
+      "line_count": 14,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

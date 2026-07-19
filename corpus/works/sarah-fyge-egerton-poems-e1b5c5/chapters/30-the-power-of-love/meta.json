@@ -1,0 +1,44 @@
+{
+  "work_slug": "sarah-fyge-egerton-poems-e1b5c5",
+  "work_title": "Poems",
+  "chapter_number": 30,
+  "chapter_title": "The Power of Love.",
+  "chapter_slug": "30-the-power-of-love",
+  "author": "Sarah Fyge Egerton",
+  "author_slug": "sarah-fyge-egerton",
+  "ecpa_poem_id": "pse03-w0290",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 33
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2e5ece82-2f8a-54c9-9c73-0b6c416b1007",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 264,
+      "line_count": 34,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

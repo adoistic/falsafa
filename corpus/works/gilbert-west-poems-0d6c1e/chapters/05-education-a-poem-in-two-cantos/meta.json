@@ -1,0 +1,42 @@
+{
+  "work_slug": "gilbert-west-poems-0d6c1e",
+  "work_title": "Poems",
+  "chapter_number": 5,
+  "chapter_title": "EDUCATION. A POEM: IN TWO CANTOS.",
+  "chapter_slug": "05-education-a-poem-in-two-cantos",
+  "author": "Gilbert West",
+  "author_slug": "gilbert-west",
+  "ecpa_poem_id": "o5155-w0030",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "alexandrine",
+      "Spenserian stanza"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "rhyme": "ababbcbcc",
+    "syllable_pattern": "10.10.10.10.10.10.10.10.12",
+    "metrical_pattern": "-+|-+|-+|-+|-+/          -+|-+|-+|-+|-+/          -+|-+|-+|-+|-+/          -+|-+|-+|-+|-+/          -+|-+|-+|-+|-+/          -+|-+|-+|-+|-+/          -+|-+|-+|-+|-+/          -+|-+|-+|-+|-+/          -+|-+|-+|-+|-+|-+/",
+    "line_count": 864
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "25d7f309-32a7-5ed5-a666-849e0754bf30",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6486,
+      "line_count": 961,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

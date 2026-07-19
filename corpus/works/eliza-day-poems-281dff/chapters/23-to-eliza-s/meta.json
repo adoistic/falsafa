@@ -1,0 +1,44 @@
+{
+  "work_slug": "eliza-day-poems-281dff",
+  "work_title": "Poems",
+  "chapter_number": 23,
+  "chapter_title": "TO ELIZA S — —.",
+  "chapter_slug": "23-to-eliza-s",
+  "author": "Eliza Day",
+  "author_slug": "eliza-day",
+  "ecpa_poem_id": "bed98-w0230",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "address"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "xaxa",
+    "syllable_pattern": "9.8.9.8",
+    "metrical_pattern": "-+|-+|-+|-+|-/ -+|-+|-+|-+/ -+|-+|-+|-+|-/ -+|-+|-+|-+/",
+    "line_count": 52
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a256a09b-7edd-5b6b-86df-8f75b3813978",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 310,
+      "line_count": 53,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

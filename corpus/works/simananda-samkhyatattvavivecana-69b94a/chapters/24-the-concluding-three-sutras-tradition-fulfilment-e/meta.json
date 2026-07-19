@@ -1,0 +1,38 @@
+{
+  "work_slug": "simananda-samkhyatattvavivecana-69b94a",
+  "work_title": "Sāṃkhyatattvavivecana",
+  "chapter_number": 24,
+  "chapter_title": "The concluding three sūtras (tradition, fulfilment, end of suffering)",
+  "chapter_slug": "24-the-concluding-three-sutras-tradition-fulfilment-e",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "fe0223ad-4d6f-5a73-8694-d94da3f9f662",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "iast",
+      "word_count": 17,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "eb1264e9-73e8-522b-bdef-e225866b1c69",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 56,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    }
+  ]
+}

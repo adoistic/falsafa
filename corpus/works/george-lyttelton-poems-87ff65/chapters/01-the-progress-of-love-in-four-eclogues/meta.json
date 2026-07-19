@@ -1,0 +1,45 @@
+{
+  "work_slug": "george-lyttelton-poems-87ff65",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "THE PROGRESS of LOVE. IN Four ECLOGUES.",
+  "chapter_slug": "01-the-progress-of-love-in-four-eclogues",
+  "author": "George Lyttelton",
+  "author_slug": "george-lyttelton",
+  "ecpa_poem_id": "o5153-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "eclogue"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 370
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c59281a1-208a-53ac-94e0-b391c92ab74f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2943,
+      "line_count": 376,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

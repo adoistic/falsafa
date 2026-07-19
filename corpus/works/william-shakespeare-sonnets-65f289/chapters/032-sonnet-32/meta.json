@@ -1,0 +1,28 @@
+{
+  "work_slug": "william-shakespeare-sonnets-65f289",
+  "work_title": "Sonnets",
+  "chapter_number": 32,
+  "chapter_title": "Sonnet 32",
+  "chapter_slug": "032-sonnet-32",
+  "incipit": "If thou survive my well-contented day,",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "aaa63038-0018-598a-a846-19d6fa4dbc52",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 114,
+      "line_count": 14,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1041",
+      "license": "Public domain — from Project Gutenberg (https://www.gutenberg.org)"
+    }
+  ]
+}

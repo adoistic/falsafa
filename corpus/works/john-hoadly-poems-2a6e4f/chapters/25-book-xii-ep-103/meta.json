@@ -1,0 +1,47 @@
+{
+  "work_slug": "john-hoadly-poems-2a6e4f",
+  "work_title": "Poems",
+  "chapter_number": 25,
+  "chapter_title": "BOOK XII. Ep 103.",
+  "chapter_slug": "25-book-xii-ep-103",
+  "author": "John Hoadly",
+  "author_slug": "john-hoadly",
+  "ecpa_poem_id": "o5156-w1239",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "epigram",
+      "imitation",
+      "translation",
+      "paraphrase"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "aabb",
+    "syllable_pattern": "10.10.10.10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/           -+|-+|-+|-+|-+/           -+|-+|-+|-+|-+/           -+|-+|-+|-+|-+/",
+    "line_count": 4
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "35ccbc9b-cc87-51d7-a8b4-ea06f936706d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 38,
+      "line_count": 5,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,323 @@
+{
+  "slug": "plato-republic-2bf014",
+  "window": "01:16-28",
+  "entities": [
+    {
+      "canonical_name": "Thrasymachus",
+      "surface_names": ["Thrasymachus", "friend Thrasymachus"],
+      "kind": "figure",
+      "figure_kind": "human",
+      "mentions": [
+        {
+          "paragraph_id": "p-6e70d7",
+          "quote": "But surely, Thrasymachus, the arts do hold rule and are stronger than that of which they are the arts.",
+          "role": "interlocutor being refuted on the claim that rulers serve themselves"
+        },
+        {
+          "paragraph_id": "p-5f5e4a",
+          "quote": "you are so far out concerning the just and justice and the unjust and injustice that you don't know that justice and the just are literally the other fellow's good—the advantage of the stronger and the ruler",
+          "role": "proponent of the thesis that justice is the advantage of the stronger"
+        },
+        {
+          "paragraph_id": "p-2cbbcb",
+          "quote": "Thus, Socrates, injustice on a sufficiently large scale is a stronger, freer, and a more masterful thing than justice",
+          "role": "advocate for the superiority of injustice, especially tyranny"
+        },
+        {
+          "paragraph_id": "p-213b52",
+          "quote": "while you began by taking the physician in the true sense of the word, you did not think fit afterwards to be consistent and maintain with precision the notion of the true shepherd",
+          "role": "subject of Socrates' critique of inconsistency"
+        },
+        {
+          "paragraph_id": "p-9cf431",
+          "quote": "This point then I by no means concede to Thrasymachus, that justice is the advantage of the superior.",
+          "role": "named as the target of Socrates' explicit rejection"
+        },
+        {
+          "paragraph_id": "p-85dca7",
+          "quote": "Come then, Thrasymachus, I said, go back to the beginning and answer us. You affirm that perfect and complete injustice is more profitable than justice that is complete.",
+          "role": "respondent defending injustice as virtue and wisdom"
+        },
+        {
+          "paragraph_id": "p-7c8908",
+          "quote": "Thrasymachus made all these admissions not as I now lightly narrate them, but with much baulking and reluctance and prodigious sweating, it being summer, and it was then I beheld what I had never seen before—Thrasymachus blushing.",
+          "role": "interlocutor reduced to blushing reluctant admission that justice is virtue"
+        },
+        {
+          "paragraph_id": "p-b961db",
+          "quote": "A feast furnished by you, Thrasymachus, I said, now that you have become gentle with me and are no longer angry.",
+          "role": "interlocutor who becomes gentle at the close of the argument"
+        }
+      ],
+      "description": "Sophist interlocutor who argues that justice is the advantage of the stronger and that complete injustice (tyranny) is more profitable and powerful than justice.",
+      "justification": "Thrasymachus is named repeatedly across the window as the primary antagonist whose position Socrates systematically dismantles through the arts-function argument and the musician analogy."
+    },
+    {
+      "canonical_name": "Socrates",
+      "surface_names": ["Socrates", "I", "simple-minded Socrates"],
+      "kind": "figure",
+      "figure_kind": "human",
+      "mentions": [
+        {
+          "paragraph_id": "p-5f5e4a",
+          "quote": "And you must look at the matter, my simple-minded Socrates, in this way",
+          "role": "primary questioner ironically mocked by Thrasymachus"
+        },
+        {
+          "paragraph_id": "p-9cf431",
+          "quote": "That was why, friend Thrasymachus, I was just now saying that no one of his own will chooses to hold rule and office",
+          "role": "narrator and arguer developing the wages-of-rule thesis"
+        },
+        {
+          "paragraph_id": "p-b961db",
+          "quote": "So that for me the present outcome of the discussion is that I know nothing.",
+          "role": "self-declared aporist confessing ignorance at the dialogue's end"
+        }
+      ],
+      "description": "Narrator and principal interlocutor who deploys the arts-function argument, the ergon argument, and the wages analogy to refute Thrasymachus and establish that justice is virtue and the source of happiness.",
+      "justification": "Socrates speaks throughout the window in the first-person, driving every argumentative stage from the arts refutation through the final aporia."
+    },
+    {
+      "canonical_name": "Glaucon",
+      "surface_names": ["Glaucon"],
+      "kind": "figure",
+      "figure_kind": "human",
+      "mentions": [
+        {
+          "paragraph_id": "p-9cf431",
+          "quote": "What do you mean by that, Socrates? said Glaucon. The two wages I recognize, but the penalty you speak of and described as a form of wage I don't understand.",
+          "role": "interlocutor who prompts Socrates to explain the third 'wage' (penalty)"
+        },
+        {
+          "paragraph_id": "p-9cf431",
+          "quote": "Which now do you choose, Glaucon? said I, and which seems to you to be the truer statement? That the life of the just man is more profitable, I say, he replied.",
+          "role": "witness who affirms the just life is more profitable"
+        },
+        {
+          "paragraph_id": "p-85dca7",
+          "quote": "Did you hear, said I, all the goods that Thrasymachus just now enumerated for the life of the unjust man? I heard, he said, but I am not convinced.",
+          "role": "silent ally of Socrates who endorses the just life"
+        }
+      ],
+      "description": "Son of Ariston and secondary interlocutor who questions Socrates' wages analogy and consistently sides with the superiority of the just life.",
+      "justification": "Glaucon appears by name in p-9cf431 and p-85dca7, asking clarifying questions and affirming the just life as more profitable."
+    },
+    {
+      "canonical_name": "Bendis",
+      "surface_names": ["Bendis", "festival of Bendis"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-b961db",
+          "quote": "Let this complete your entertainment, Socrates, at the festival of Bendis.",
+          "role": "goddess whose festival provides the dramatic setting for the dialogue's close"
+        }
+      ],
+      "description": "Thracian goddess whose festival at the Peiraeus is the occasion for the dialogue, invoked at the close of Book 1 as the feast metaphor concludes.",
+      "justification": "Bendis is named explicitly in p-b961db as the deity whose festival frames the entire Book 1 conversation."
+    },
+    {
+      "canonical_name": "tyranny",
+      "surface_names": ["tyranny", "the tyrant", "complete injustice"],
+      "kind": "idea",
+      "mentions": [
+        {
+          "paragraph_id": "p-2cbbcb",
+          "quote": "And this is tyranny, which both by stealth and by force takes away what belongs to others, both sacred and profane, both private and public, not little by little but at one swoop.",
+          "role": "presented by Thrasymachus as the consummate form of profitable injustice"
+        },
+        {
+          "paragraph_id": "p-8de9e4",
+          "quote": "A city, you would say, may be unjust and try to enslave other cities unjustly, have them enslaved and hold many of them in subjection.",
+          "role": "collective-scale tyranny used as test case for whether injustice needs justice to function"
+        }
+      ],
+      "description": "The most complete form of injustice in Thrasymachus's account, whereby an individual seizes everything by force and stealth and is praised rather than blamed.",
+      "justification": "Tyranny is explicitly defined in p-2cbbcb as Thrasymachus's paradigm case for the profitability of injustice, and revisited at the city-scale in p-8de9e4."
+    },
+    {
+      "canonical_name": "soul",
+      "surface_names": ["soul", "the soul"],
+      "kind": "idea",
+      "mentions": [
+        {
+          "paragraph_id": "p-62c2e8",
+          "quote": "The soul, has it a work which you couldn't accomplish with anything else in the world, as for example, management, rule, deliberation, and the like, is there anything else than soul to which you could rightly assign these and say that they were its peculiar work?",
+          "role": "subject of the ergon argument: soul's function is management, rule, and deliberation"
+        },
+        {
+          "paragraph_id": "p-62c2e8",
+          "quote": "The just soul and the just man then will live well and the unjust ill.",
+          "role": "conclusion linking soul's virtue (justice) to living well"
+        }
+      ],
+      "description": "The psychic entity whose specific function (ergon) is management, rule, and deliberation; its proper excellence is justice and its defect injustice.",
+      "justification": "Soul is introduced in p-62c2e8 as the pivot of Socrates' ergon argument that connects justice-as-virtue to the good life."
+    },
+    {
+      "canonical_name": "city (polis)",
+      "surface_names": ["city", "cities", "state", "polis"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-5f5e4a",
+          "quote": "the rulers in our cities, I mean the real rulers, differ at all in their thoughts of the governed from a man's attitude towards his sheep",
+          "role": "the political community whose real rulers Thrasymachus analogizes to shepherds exploiting flocks"
+        },
+        {
+          "paragraph_id": "p-8de9e4",
+          "quote": "A city, you would say, may be unjust and try to enslave other cities unjustly, have them enslaved and hold many of them in subjection.",
+          "role": "collective agent used to test whether injustice requires internal justice to function"
+        },
+        {
+          "paragraph_id": "p-df3436",
+          "quote": "And is it not apparent that its force is such that wherever it is found in city, family, camp, or in anything else it first renders the thing incapable of cooperation with itself owing to faction and difference",
+          "role": "site where injustice produces faction and self-destruction"
+        }
+      ],
+      "description": "The political community treated as the collective-scale analogue of the individual soul; used to show that injustice produces faction and that the unjust city is self-undermining.",
+      "justification": "The city appears across p-5f5e4a, p-8de9e4, and p-df3436 as the macrocosmic frame for arguments about justice and injustice that are then applied to the individual."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Arts serve the ruled, not the ruler: the function-of-craft argument",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-6e70d7",
+          "quote": "no art considers or enjoins the advantage of the stronger but every art that of the weaker which is ruled by it"
+        },
+        {
+          "paragraph_id": "p-d3a701",
+          "quote": "no art or office provides what is beneficial for itself—but as we said long ago it provides and enjoins what is beneficial to its subject, considering the advantage of that, the weaker, and not the advantage the stronger"
+        }
+      ],
+      "justification": "Paragraphs p-6e70d7 and p-d3a701 systematically develop the argument that every techne (medicine, navigation, shepherding) aims at the good of its object, demolishing Thrasymachus's premise that rulers serve themselves."
+    },
+    {
+      "topic": "The wages of rule: why good people govern only under compulsion",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-9cf431",
+          "quote": "there must be imposed some compulsion and penalty to constrain them to rule if they are to consent to hold office"
+        },
+        {
+          "paragraph_id": "p-9cf431",
+          "quote": "the chief penalty is to be governed by someone worse if a man will not himself hold office and rule"
+        }
+      ],
+      "justification": "Paragraph p-9cf431 articulates the paradox that virtuous people avoid office not for gain but to avoid being ruled by inferiors, introducing money, honor, and penalty as the three forms of wage."
+    },
+    {
+      "topic": "Injustice as faction and self-destruction: the unity argument",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-8de9e4",
+          "quote": "For factions, Thrasymachus, are the outcome of injustice, and hatreds and internecine conflicts, but justice brings oneness of mind and love."
+        },
+        {
+          "paragraph_id": "p-df3436",
+          "quote": "wherever it is found in city, family, camp, or in anything else it first renders the thing incapable of cooperation with itself owing to faction and difference, and secondly an enemy to itself"
+        }
+      ],
+      "justification": "Paragraphs p-8de9e4 and p-df3436 argue that injustice, even among accomplices, generates internal strife, making wholly unjust collective action impossible — undercutting Thrasymachus's claim that injustice is powerful."
+    },
+    {
+      "topic": "The epistemic analogy: just man is like the skilled expert, unjust like the ignorant",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-20e21a",
+          "quote": "the just man does not seek to take advantage of his like but of his unlike, but the unjust man of both"
+        },
+        {
+          "paragraph_id": "p-7c8908",
+          "quote": "Then the just man has turned out on our hands to be good and wise and the unjust man bad and ignorant."
+        }
+      ],
+      "justification": "Paragraphs p-20e21a and p-7c8908 exploit the musician/physician analogy to equate the just man's restraint with the expert's calibration, and unjust overreaching with the ignoramus's boundlessness."
+    },
+    {
+      "topic": "Ergon (function) argument: the soul's virtue is justice, hence justice enables happiness",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-62c2e8",
+          "quote": "The soul, has it a work which you couldn't accomplish with anything else in the world, as for example, management, rule, deliberation, and the like"
+        },
+        {
+          "paragraph_id": "p-b961db",
+          "quote": "But furthermore, he who lives well is blessed and happy, and he who does not the contrary. Of course. Then the just is happy and the unjust miserable."
+        }
+      ],
+      "justification": "Paragraphs p-62c2e8 and p-b961db form the ergon syllogism: soul's function is rule/deliberation; its virtue is justice; a soul with its virtue performs its function well; therefore the just person lives well and is happy."
+    },
+    {
+      "topic": "Socratic aporia: the dialogue ends in self-confessed ignorance about what justice is",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-b961db",
+          "quote": "So that for me the present outcome of the discussion is that I know nothing. For if I don't know what the just is, I shall hardly know whether it is a virtue or not, and whether its possessor is or is not happy."
+        }
+      ],
+      "justification": "Paragraph p-b961db closes Book 1 with Socrates' characteristic aporia — having refuted Thrasymachus and shown the just man happy, he acknowledges the foundational question of what justice is was never settled."
+    },
+    {
+      "topic": "Shepherd-and-flock analogy: rulers as exploiters vs. genuine caretakers",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-5f5e4a",
+          "quote": "the shepherds and the neat-herds are considering the good of the sheep and the cattle and fatten and tend them with anything else in view than the good of their masters and themselves"
+        },
+        {
+          "paragraph_id": "p-213b52",
+          "quote": "you apparently think that he herds his sheep in his quality of shepherd not with regard to what is best for the sheep but as if he were a banqueter about to be feasted"
+        }
+      ],
+      "justification": "Paragraphs p-5f5e4a and p-213b52 deploy the shepherd-flock image as a contested analogy: Thrasymachus uses it to show rulers exploit citizens for private gain; Socrates uses it to insist the true shepherd tends solely for the flock's benefit."
+    },
+    {
+      "topic": "The profitability of injustice vs. justice as the central question of the good life",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-2cbbcb",
+          "quote": "injustice on a sufficiently large scale is a stronger, freer, and a more masterful thing than justice",
+          "paragraph_id_2": "p-213b52"
+        },
+        {
+          "paragraph_id": "p-9cf431",
+          "quote": "A far weightier matter seems to me Thrasymachus's present statement, his assertion that the life of the unjust man is better than that of the just."
+        }
+      ],
+      "justification": "From p-2cbbcb through p-b961db the window's overarching question is whether injustice or justice is more profitable — Socrates identifies this as the central question about the conduct of life."
+    },
+    {
+      "topic": "Divine endorsement of justice: the gods favor the just",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-df3436",
+          "quote": "But, my friend, the gods too are just. Have it that they are, he said. So to the gods also, it seems, the unjust man will be hateful, but the just man dear."
+        }
+      ],
+      "justification": "Paragraph p-df3436 introduces the gods' justice as an implicit background premise — the cosmological endorsement of justice — without sustained argument, so it functions as an assumed theological underpinning."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "unknown (implied poetic or popular source on shepherd-kings)",
+      "cited_author": "unknown",
+      "stance": "neutral",
+      "paragraph_id": "p-5f5e4a",
+      "quote": "because you think that the shepherds and the neat-herds are considering the good of the sheep and the cattle and fatten and tend them with anything else in view than the good of their masters and themselves",
+      "justification": "Thrasymachus invokes a common topos about shepherds and herdsmen exploiting their flocks, but attributes it to no specific author; this is popular wisdom, not a named-text citation."
+    }
+  ]
+}

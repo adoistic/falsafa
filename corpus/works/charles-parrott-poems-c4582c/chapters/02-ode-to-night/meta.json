@@ -1,0 +1,44 @@
+{
+  "work_slug": "charles-parrott-poems-c4582c",
+  "work_title": "Poems",
+  "chapter_number": 2,
+  "chapter_title": "ODE to NIGHT.",
+  "chapter_slug": "02-ode-to-night",
+  "author": "Charles Parrott",
+  "author_slug": "charles-parrott",
+  "ecpa_poem_id": "o5155-w0720",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "sestet (6 lines)"
+    ],
+    "rhyme": "aabbcc",
+    "syllable_pattern": "8.8.8.8.10.12",
+    "metrical_pattern": "-+|-+|-+|-+/         -+|-+|-+|-+/         -+|-+|-+|-+/         -+|-+|-+|-+/         -+|-+|-+|-+|-+/         -+|-+|-+|-+|-+|-+/",
+    "line_count": 66
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "397d004c-d7b2-5af7-a9f2-766e23155f8f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 466,
+      "line_count": 67,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

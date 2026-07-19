@@ -1,0 +1,126 @@
+---
+work_id: "75a57284-b2db-5623-8a60-ad81b5187d2e"
+work_slug: "thomas-tickell-poems-75a572"
+work_title: Poems
+author: Thomas Tickell
+author_slug: "thomas-tickell"
+ecpa_poem_id: "o5089-w0210"
+chapter_number: 1
+chapter_title: To a LADY before MARRIAGE.
+chapter_slug: "01-to-a-lady-before-marriage"
+variant_id: "3adad846-d3db-5fa2-a664-418a2e847092"
+content_type: original
+layout: verse
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 740
+source_url: "https://www.eighteenthcenturypoetry.org/"
+license: "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+genres:
+  - heroic couplet
+metrical_foot: iambic (˘′)
+metrical_count: pentameter (5 feet)
+stanza_form:
+  - couplet (2 lines)
+rhyme_scheme: aa
+syllable_pattern: 10
+---
+
+To a LADY before MARRIAGE.
+
+By the late Ingenious Mr. TICKEL. Not published in his Works.
+
+OH! form'd by nature, and refin'd by art,
+ With charms to win, and sense to fix the heart! 
+By thousands sought, Clotilda, can'st thou free
+ Thy crowd of captives, and descend to me? 
+Content in shades obscure to waste thy life,
+ A hidden beauty, and a country-wife. 
+O! listen while thy summers are my theme,
+ Ah! sooth thy partner in his waking dream! 
+In some small hamlet on the lonely plain,
+ Where Thames, thro' meadows, rolls his mazy train;
+ Or where high Windsor, thick with greens array'd,
+ Waves his old oaks, and spreads his ample shade,
+ Fancy has figur'd out our calm retreat;
+ Already round the visionary seat
+ Our limes begin to shoot, our flow'rs to spring,
+ The brooks to murmur, and the birds to sing. 
+Where dost thou lie, thou thinly-peopled green? 
+Thou nameless lawn, and village yet unseen? 
+Where sons, contented with their native ground,
+ Ne'er travell'd further than ten furlongs round;
+ And the tann'd peasant, and his ruddy bride,
+ Were born together, and together died. 
+Where early larks best tell tho morning-light,
+ And only Philomel disturbs the night,
+ 'Midst gardens here my humble pile shall rise,
+ With sweets surrounded of ten thousand dies;
+ All savage where th' embroider'd gardens end,
+ The haunt of echoes shall my woods ascend;
+ And oh! if heav'n th' ambitious thought approve,
+ A rill shall warble cross the gloomy grove,
+ A little rill, o'er pebbly beds convey'd,
+ Gush down the steep, and glitter thro' the glade. 
+What cheering scents those bord'ring banks exhale! 
+How loud that heifer lows from yonder vale! 
+That thrush, how shrill! his note so clear, so high,
+ He drowns each feather'd minstrel of the sky. 
+Here let me trace, beneath the purpled morn,
+ The deep-mouth'd beagle, and the sprightly horn;
+ Or lure the trout with well-dissembled flies,
+ Or fetch the flutt'ring partridge from the skies,
+ Nor shall thy hand disdain to crop the vine,
+ The downy peach, or flavour'd nectarine;
+ Or rob the bee-hive of its golden hoard,
+ And bear th' unbought luxuriance to thy board. 
+Sometimes my books by day shall kill the hours,
+ While from thy needle rise the silken flow'rs,
+ And, thou by turns to ease my feeble sight,
+ Resume the volume, and deceive the night. 
+Oh! when I mark thy twinkling eyes opprest,
+ Soft whisp'ring, let me warn my love to rest;
+ Then watch thee, charm'd, while sleep locks every sense,
+ And to sweet heav'n commend thy innocence. 
+Thus reign'd our fathers o'er the rural fold,
+ Wise, hale, and honest, in the days of old;
+ Till courts arose, where substance pays for show,
+ And specious joys are bought with real wo. 
+See Flavia's pendants, large, well spread, and right,
+ The ear that wears them hears a fool each night:
+ Mark how th' embroider'd col'nel sneaks away,
+ To shun the with'ring dame that made him gay;
+ That knave, to gain a title, lost his fame;
+ That rais'd his credit by a daughter's shame;
+ This coxcomb's riband cost him half his land,
+ And oaks, unnumber'd, bought that fool a wand. 
+Fond man, as all his sorrows were too few,
+ Acquires strange wants that nature never knew. 
+By midnight-lamps he emulates the day,
+ And sleeps perverse, the chearful suns away;
+ From goblets, high emboss'd, his wine must glide,
+ Round his clos'd sight the gorgeous curtain slide;
+ Fruits, ere their time, to grace his pomp must rise,
+ And three untasted courses glut his eyes. 
+For this are nature's gentle calls withstood,
+ The voice of conscience, and the bonds of blood;
+ This wisdom thy reward for ev'ry pain,
+ And this gay glory all thy mighty gain. 
+Fair phantoms woo'd and scorn'd from age to age,
+ Since bards began to laugh, or priests to rage. 
+And yet, just curse on man's aspiring kind,
+ Prone to ambition, to example blind,
+ Our children's children shall our steps pursue,
+ And the same errors be for ever new. 
+Mean while, in hope a guiltless country swain,
+ My reed with warblings chears th' imagin'd plain. 
+Hail humble shades, where truth and silence dwell! 
+Thou noisy town, and faithless court farewel! 
+Farewel ambition, once my darling flame! 
+The thirst of lucre, and the charm of fame! 
+In life's by-road, that winds thro' paths unknown,
+ My days, tho' number'd, shall be all my own. 
+Here shall they end, (O might they twice begin),
+ And all be white the fates intend to spin.

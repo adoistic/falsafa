@@ -1,0 +1,38 @@
+{
+  "work_slug": "abhinavagupta-paramarthasara-3b0d5e",
+  "work_title": "Paramārthasāra",
+  "chapter_number": 10,
+  "chapter_title": "Colophon-verses: the fruit of meditation and the author's own statement",
+  "chapter_slug": "10-colophon-verses-the-fruit-of-meditation-and-the-au",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "f8475c37-e4a9-5e7b-9c4c-43ebc9ff7803",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "iast",
+      "word_count": 23,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "91091cef-280b-5b85-bd51-b148215c2550",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 64,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    }
+  ]
+}

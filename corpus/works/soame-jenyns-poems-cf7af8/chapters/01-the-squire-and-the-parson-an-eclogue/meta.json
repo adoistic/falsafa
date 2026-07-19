@@ -1,0 +1,46 @@
+{
+  "work_slug": "soame-jenyns-poems-cf7af8",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "THE 'SQUIRE AND THE PARSON. AN ECLOGUE.",
+  "chapter_slug": "01-the-squire-and-the-parson-an-eclogue",
+  "author": "Soame Jenyns",
+  "author_slug": "soame-jenyns",
+  "ecpa_poem_id": "o4984-w0710",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "dialogue",
+      "satire"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 98
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "910bfb1a-0038-5132-882d-8de4c0e184d4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 827,
+      "line_count": 119,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

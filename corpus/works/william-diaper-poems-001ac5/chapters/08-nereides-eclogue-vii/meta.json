@@ -1,0 +1,47 @@
+{
+  "work_slug": "william-diaper-poems-001ac5",
+  "work_title": "Poems",
+  "chapter_number": 8,
+  "chapter_title": "[Nereides:] Eclogue VII.",
+  "chapter_slug": "08-nereides-eclogue-vii",
+  "author": "William Diaper",
+  "author_slug": "william-diaper",
+  "ecpa_poem_id": "pdi12-w0080",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "dialogue",
+      "pastoral",
+      "eclogue"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 68
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5b3ca2fc-e96f-5c94-8359-124f3602420a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 551,
+      "line_count": 83,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

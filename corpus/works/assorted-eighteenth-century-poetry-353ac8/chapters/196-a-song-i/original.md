@@ -1,0 +1,166 @@
+---
+work_id: "353ac83c-1a56-5075-8f90-c830a422aee4"
+work_slug: "assorted-eighteenth-century-poetry-353ac8"
+work_title: "An Assorted Collection of Eighteenth-Century Poetry"
+author: Patrick Delany
+author_slug: "patrick-delany"
+ecpa_poem_id: "o5089-w0610"
+chapter_number: 196
+chapter_title: A SONG. I.
+chapter_slug: "196-a-song-i"
+variant_id: "2de25005-5c85-59e1-8d5e-3410257e7e1c"
+content_type: original
+layout: verse
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 505
+source_url: "https://www.eighteenthcenturypoetry.org/"
+license: "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+genres:
+  - song
+metrical_foot: anapaestic (˘˘′)
+metrical_count: dimeter (2 feet)
+stanza_form:
+  - sestet (6 lines)
+rhyme_scheme: aabccb
+syllable_pattern: 6.6.9.6.6.9
+---
+
+A SONG.
+
+I.
+
+SHALL Pope sing his flames
+ With quality dames,
+ And dutchesses toast when he dines;
+ Shall Swift ballads compose
+ On the girls at the Rose,
+ Whilst unsung is my fair Charlotte Lynes? 
+
+II.
+
+O! were Phoebus my friend,
+ Or would Bacchus but lend
+ Me the spirits that flow from his wines,
+ The lass of the mill,
+ Molly Mogg, and Lepell,
+ Shou'd be dowdies to fair Charlotte Lynes. 
+
+III.
+
+The astronomer cries
+ Look up to yon skies,
+ And view the bright heavenly signs;
+ For a sight brighter far
+ Than sun, moon, or star,
+ Let him look at my fair Charlotte Lynes. 
+
+IV.
+
+The miser for gain
+ Thinks nothing of pain,
+ And contentedly digs in the mines:
+ Let him take all Peru,
+ And rich Mexico too,
+ What are these to my fair Charlotte Lynes? 
+
+V.
+
+Any porter may serve
+ For a copy to carve
+ An Alcides with muscular chines;
+ But a Venus to draw,
+ Bright as eye ever saw,
+ He must copy my fair Charlotte Lynes. 
+
+VI.
+
+The favourite child,
+ Whom her fondness has spoil'd,
+ For mamma often whimpers and whines;
+ And this hour let me die
+ But I languish and sigh,
+ When I'm absent from fair Charlotte Lynes. 
+
+VII.
+
+For quadrille when the fair
+ Cards and counters prepare,
+ They cast out the tens, eights, and nines;
+ And in love 'tis my fear
+ The like fate I shall share,
+ Discarded by fair Charlotte Lynes. 
+
+VIII.
+
+Astrologers prove
+ The conjunctions above,
+ With their houses, squares, circles, and signs:
+ But oh! could they show
+ One conjunction below
+ Between me and my fair Charlotte Lynes. 
+
+IX.
+
+With hearts full of rapture,
+ Our good dean and chapter
+ Count over, and finger their fines:
+ But I'd give their estate,
+ Was it ten times as great,
+ For one kiss from my fair Charlotte Lynes. 
+
+X.
+
+In the midst of gay sights,
+ And foreign delights,
+ For his country the banish'd man pines:
+ Thus from her when away,
+ Tho' my eyes they may stray,
+ Yet my heart is with fair Charlotte Lynes. 
+
+XI.
+
+Antiquity's page,
+ The rev'rend sage
+ Explains from old medals and coins;
+ But no comment so fit
+ On youth, beauty, and wit,
+ Can they find as my fair Charlotte Lynes. 
+
+XII.
+
+It is Atropos' sport
+ With her sheers to cut short
+ The thread which dame Lachesis twines:
+ But forbear, you curst jade,
+ Or cut mine, not the thread
+ That was spun for my fair Charlotte Lynes. 
+
+XIII.
+
+The young pair for a crown,
+ On his book paid him down,
+ The sacrist obsequiously joins;
+ Was I bishop, I swear
+ I'd resign him my chair,
+ To unite me with fair Charlotte Lynes. 
+
+XIV.
+
+For my first night I'd go
+ To those regions of snow,
+ Where the sun for six months never shines;
+ And, oh! there shou'd complain
+ He too soon came again
+ To disturb me with fair Charlotte Lynes. 
+
+XV.
+
+The pastures, the sheep,
+ Shall exchange for the deep,
+ And mackrel shall grow on the vines;
+ The sun shall burn blue,
+ Ere my heart proves untrue,
+ Or forgets to love fair Charlotte Lynes.

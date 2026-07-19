@@ -1,0 +1,44 @@
+{
+  "work_slug": "robert-merry-poems-f2c622",
+  "work_title": "Poems",
+  "chapter_number": 3,
+  "chapter_title": "TO ANNA MATILDA.",
+  "chapter_slug": "03-to-anna-matilda",
+  "author": "Robert Merry",
+  "author_slug": "robert-merry",
+  "ecpa_poem_id": "o4739-w0100",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "address"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 68
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "786147fe-7282-5c69-b3b5-599a2d3febf5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 410,
+      "line_count": 69,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

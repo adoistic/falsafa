@@ -1,0 +1,28 @@
+{
+  "work_slug": "william-shakespeare-sonnets-65f289",
+  "work_title": "Sonnets",
+  "chapter_number": 19,
+  "chapter_title": "Sonnet 19",
+  "chapter_slug": "019-sonnet-19",
+  "incipit": "Devouring Time, blunt thou the lion’s paws,",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "728c065e-35f2-595b-a189-6486f852312d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 115,
+      "line_count": 14,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1041",
+      "license": "Public domain — from Project Gutenberg (https://www.gutenberg.org)"
+    }
+  ]
+}

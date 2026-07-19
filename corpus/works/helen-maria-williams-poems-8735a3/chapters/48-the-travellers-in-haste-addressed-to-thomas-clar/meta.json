@@ -1,0 +1,45 @@
+{
+  "work_slug": "helen-maria-williams-poems-8735a3",
+  "work_title": "Poems",
+  "chapter_number": 48,
+  "chapter_title": "THE TRAVELLERS IN HASTE; ADDRESSED TO THOMAS CLARKSON, ESQ. IN 1814, WHEN MANY ENGLISH ARRIVED AT PARIS, BUT REMAINED A VERY SHORT TIME.",
+  "chapter_slug": "48-the-travellers-in-haste-addressed-to-thomas-clar",
+  "author": "Helen Maria Williams",
+  "author_slug": "helen-maria-williams",
+  "ecpa_poem_id": "bhw18-w0480",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "occasional poem",
+      "address"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 52
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e7e30a43-d978-5eb5-a9a4-2c16c789af8f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 354,
+      "line_count": 54,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

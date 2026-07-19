@@ -1,0 +1,45 @@
+{
+  "work_slug": "catherine-rebecca-grey-manners-poems-07fd49",
+  "work_title": "Poems",
+  "chapter_number": 23,
+  "chapter_title": "Written on Leicester Abbey.",
+  "chapter_slug": "23-written-on-leicester-abbey",
+  "author": "Catherine Rebecca Grey Manners",
+  "author_slug": "catherine-rebecca-grey-manners",
+  "ecpa_poem_id": "pcm93-w0230",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic quatrain",
+      "occasional poem"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "10.10.10.10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/",
+    "line_count": 88
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d749caf3-c221-5cce-a1f7-318641b4a56b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 639,
+      "line_count": 89,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

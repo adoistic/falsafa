@@ -1,0 +1,681 @@
+{
+  "slug": "unknown-parasara-smrti-2259be",
+  "window": "10-12",
+  "entities": [
+    {
+      "canonical_name": "Parāśara",
+      "surface_names": ["Parāśara", "Parāśara Śāstra"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-4d4cf0",
+          "quote": "Parāśara has declared this to be the purification",
+          "role": "author/authority"
+        },
+        {
+          "paragraph_id": "p-cbaada",
+          "quote": "Parāśara has declared this to be the purification",
+          "role": "author/authority"
+        },
+        {
+          "paragraph_id": "p-eda058",
+          "quote": "thus has Parāśara declared",
+          "role": "author/authority"
+        },
+        {
+          "paragraph_id": "p-409a5c",
+          "quote": "Parāśara has declared this to be the purification",
+          "role": "author/authority"
+        },
+        {
+          "paragraph_id": "p-de6d1a",
+          "quote": "This is the Parāśara Śāstra, a compendium of dharmaśāstra",
+          "role": "named author of the work"
+        }
+      ],
+      "description": "The sage Parāśara, the traditional author of this Smṛti text, cited repeatedly as the authority behind its rulings on expiation and purification.",
+      "justification": "Parāśara is directly named as the lawgiver-authority in multiple verses across chapters 10–12, confirming his role as the text's attributed author."
+    },
+    {
+      "canonical_name": "Manu",
+      "surface_names": ["Manu", "Svāyaṃbhuva"],
+      "kind": "figure",
+      "figure_kind": "sage-lawgiver",
+      "mentions": [
+        {
+          "paragraph_id": "p-227a3e",
+          "quote": "Svāyaṃbhuva (Manu) has declared this to be the purification",
+          "role": "authority cited"
+        },
+        {
+          "paragraph_id": "p-7e5d94",
+          "quote": "so has Manu declared",
+          "role": "authority cited"
+        },
+        {
+          "paragraph_id": "p-0e2f81",
+          "quote": "thus has Manu declared",
+          "role": "authority cited"
+        },
+        {
+          "paragraph_id": "p-1d763f",
+          "quote": "thus has Manu declared",
+          "role": "authority cited"
+        }
+      ],
+      "description": "Manu (also called Svāyaṃbhuva), the primordial lawgiver, invoked as an authority on matters of purity, food rules, and reincarnation consequences.",
+      "justification": "Manu is explicitly named as an earlier authority whose rulings are cited to support the present text's prescriptions in chapters 11 and 12."
+    },
+    {
+      "canonical_name": "Uśanas",
+      "surface_names": ["Uśanas"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-bbbb53",
+          "quote": "so said the sage Uśanas",
+          "role": "authority cited"
+        }
+      ],
+      "description": "The sage Uśanas, cited as an authority on the purification rules for a menstruating woman (rajasvalā).",
+      "justification": "Uśanas is explicitly named as the source of the ruling on the purification period for a rajasvalā in chapter 12."
+    },
+    {
+      "canonical_name": "Rāmacandra",
+      "surface_names": ["Rāmacandra", "Rāma"],
+      "kind": "figure",
+      "figure_kind": "avatar-hero",
+      "mentions": [
+        {
+          "paragraph_id": "p-c7529c",
+          "quote": "built by the accumulation of materials by Nala, as commanded by Rāmacandra",
+          "role": "commander who ordered the bridge's construction"
+        },
+        {
+          "paragraph_id": "p-eccb1b",
+          "quote": "pilgrimage to the sea-bridge as the prāyaścitta. On the path to Setubandha (Rāma's bridge)",
+          "role": "associated with the sacred pilgrimage site Setubandha"
+        }
+      ],
+      "description": "Rāmacandra (Rāma), the heroic avatar, referenced as the figure who commanded the construction of the sea-bridge (Setubandha) that serves as a major pilgrimage site for expiation.",
+      "justification": "Rāmacandra is named in chapter 12 as the divine commander of Nala's bridge-building, grounding the pilgrimage site's sacred authority."
+    },
+    {
+      "canonical_name": "Nala",
+      "surface_names": ["Nala"],
+      "kind": "figure",
+      "figure_kind": "architect-hero",
+      "mentions": [
+        {
+          "paragraph_id": "p-c7529c",
+          "quote": "built by the accumulation of materials by Nala, as commanded by Rāmacandra",
+          "role": "builder of the sea-bridge"
+        }
+      ],
+      "description": "Nala, the divine architect who built the sea-bridge (Setubandha) at Rāma's command, making it a sacred site for pilgrimage and expiation.",
+      "justification": "Nala is explicitly named as the builder of the Setubandha bridge in chapter 12, establishing the mythological origin of the pilgrimage site."
+    },
+    {
+      "canonical_name": "Varuṇa",
+      "surface_names": ["Varuṇa"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-cf83d1",
+          "quote": "Varuṇa is in the cow's urine",
+          "role": "deity indwelling in a pañcagavya element"
+        }
+      ],
+      "description": "Varuṇa, the Vedic deity of cosmic order and water, said to be present in the cow's urine component of the purificatory pañcagavya mixture.",
+      "justification": "Varuṇa is identified as the divine presence within one of the five sacred cow-products in chapter 11, explaining the theological basis of pañcagavya's purifying power."
+    },
+    {
+      "canonical_name": "Soma",
+      "surface_names": ["Soma"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-cf83d1",
+          "quote": "Soma in the milk",
+          "role": "deity indwelling in a pañcagavya element"
+        }
+      ],
+      "description": "Soma, the lunar deity and sacred ritual drink, said to be present in the milk component of the pañcagavya mixture.",
+      "justification": "Soma is identified as the divine presence within milk in the pañcagavya ritual in chapter 11."
+    },
+    {
+      "canonical_name": "Rāhu",
+      "surface_names": ["Rāhu"],
+      "kind": "figure",
+      "figure_kind": "celestial-demon",
+      "mentions": [
+        {
+          "paragraph_id": "p-80cdca",
+          "quote": "Bathing at night is not praised, except for the sighting of Rāhu (an eclipse)",
+          "role": "eclipse-causing celestial body that creates an exception to normal ritual rules"
+        },
+        {
+          "paragraph_id": "p-3f70d9",
+          "quote": "Bathing, charity, recitation, and fire offerings should be performed at the sighting of Rāhu",
+          "role": "trigger for special ritual obligations"
+        },
+        {
+          "paragraph_id": "p-88e5c9",
+          "quote": "All water is equal to the Gaṅgā when the sun is seized by Rāhu (a solar eclipse)",
+          "role": "agent causing solar eclipse that sanctifies all water"
+        }
+      ],
+      "description": "Rāhu, the demon-node who causes eclipses by seizing the sun or moon, whose appearance creates special ritual windows for bathing, charity, and other meritorious acts.",
+      "justification": "Rāhu is named across three verses in chapter 12 as the agent of eclipses that suspend ordinary rules and mandate or amplify ritual merit."
+    },
+    {
+      "canonical_name": "Caṇḍāla",
+      "surface_names": ["Caṇḍāla", "caṇḍālas", "outcaste"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-08e64c",
+          "quote": "A dvija who has intercourse with a Caṇḍāla woman or a Śvapāka woman",
+          "role": "subject of purity violation scenario"
+        },
+        {
+          "paragraph_id": "p-b78cda",
+          "quote": "If a Kṣatriya or a Vaiśya has intercourse with a Caṇḍāla woman",
+          "role": "subject of purity violation scenario"
+        },
+        {
+          "paragraph_id": "p-8ab781",
+          "quote": "If a Śūdra has intercourse with a Śvapāka woman or a Caṇḍāla woman",
+          "role": "subject of purity violation scenario"
+        },
+        {
+          "paragraph_id": "p-7119ba",
+          "quote": "The woman who then has contact with outcastes (caṇḍālas) should select ten excellent Brāhmaṇas",
+          "role": "impurity-causing social group"
+        },
+        {
+          "paragraph_id": "p-6192d6",
+          "quote": "a sacred fig tree, a funeral pyre, a sacrificial post, a caṇḍāla, and a seller of Soma—a Brāhmaṇa, having touched these, must enter the water",
+          "role": "source of ritual impurity requiring bathing"
+        },
+        {
+          "paragraph_id": "p-ec3433",
+          "quote": "the distance to be kept, in descending order, from a caṇḍāla, a woman who has just given birth",
+          "role": "social group requiring maximum spatial distance"
+        }
+      ],
+      "description": "Caṇḍālas, the group regarded as outcastes in this text's social taxonomy, whose contact or proximity creates the highest degree of ritual impurity requiring specific expiations.",
+      "justification": "Caṇḍālas appear across chapters 10, 11, and 12 as the paradigmatic group whose contact with twice-born or higher-caste persons triggers extensive purity regulations."
+    },
+    {
+      "canonical_name": "Brāhmaṇa",
+      "surface_names": ["Brāhmaṇa", "vipra", "dvija", "Brahmin"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-bbf3dc",
+          "quote": "One should give two cows and a pair of garments to the Brāhmaṇas as the sacrificial fee",
+          "role": "recipients of sacrificial fees"
+        },
+        {
+          "paragraph_id": "p-b50cf8",
+          "quote": "if this is eaten by a Brāhmaṇa, he should perform the Kṛcchra and Cāndrāyaṇa penances",
+          "role": "subject of purity laws"
+        },
+        {
+          "paragraph_id": "p-94e29d",
+          "quote": "Those who have fallen away from the fire-rite, who have abandoned twilight worship, and who do not study the Veda—all of them are remembered as vṛṣalas",
+          "role": "subject of degradation when duties are abandoned"
+        },
+        {
+          "paragraph_id": "p-de6d1a",
+          "quote": "This is the Parāśara Śāstra, a compendium of dharmaśāstra",
+          "role": "implied primary audience"
+        }
+      ],
+      "description": "Brāhmaṇas, the priestly class occupying the top of the varṇa hierarchy, who are both the primary subjects and administrators of the purity and expiation rules throughout these chapters.",
+      "justification": "Brāhmaṇas are the central reference point for all expiation calculations in chapters 10–12, with other classes defined in relation to them."
+    },
+    {
+      "canonical_name": "Setubandha",
+      "surface_names": ["Setubandha", "sea-bridge", "bridge of the sea"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-eccb1b",
+          "quote": "pilgrimage to the sea-bridge as the prāyaścitta. On the path to Setubandha (Rāma's bridge)",
+          "role": "prescribed pilgrimage destination for brahmin-killer"
+        },
+        {
+          "paragraph_id": "p-c7529c",
+          "quote": "Ten yojanas wide and one hundred yojanas long, built by the accumulation of materials by Nala",
+          "role": "described sacred monument"
+        },
+        {
+          "paragraph_id": "p-24f3a8",
+          "quote": "having seen the bridge of the sea, one casts off the sin of killing a Brāhmaṇa",
+          "role": "site of expiation for brahmahatya"
+        }
+      ],
+      "description": "Setubandha, the legendary sea-bridge built by Nala at Rāma's command, described as a major pilgrimage site whose mere sight removes the gravest sin of killing a Brāhmaṇa.",
+      "justification": "Setubandha is described in detail in chapter 12 as the prescribed destination for the expiation of brahmahatya (killing a Brāhmaṇa), with its dimensions and mythological origin specified."
+    },
+    {
+      "canonical_name": "Gaṅgā",
+      "surface_names": ["Gaṅgā", "Ganges"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-857754",
+          "quote": "Having bathed in that, a man becomes as one who has bathed in the Gaṅgā",
+          "role": "ultimate standard for purificatory bathing"
+        },
+        {
+          "paragraph_id": "p-88e5c9",
+          "quote": "All water is equal to the Gaṅgā when the sun is seized by Rāhu",
+          "role": "standard of purity all water equals during eclipse"
+        }
+      ],
+      "description": "The Gaṅgā (Ganges) river, invoked as the supreme standard of purificatory water, against which the merit of other bathing is measured.",
+      "justification": "The Gaṅgā is used as the benchmark of maximum purification in two verses of chapter 12, establishing its paradigmatic sacred status."
+    },
+    {
+      "canonical_name": "Prabhāsa",
+      "surface_names": ["Prabhāsa"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-0e2f81",
+          "quote": "Prabhāsa and other pilgrimage sites, and the Gaṅgā and other rivers, all reside in a Brāhmaṇa's right ear",
+          "role": "named sacred pilgrimage site"
+        }
+      ],
+      "description": "Prabhāsa, a prominent sacred pilgrimage site mentioned alongside the Gaṅgā as among the holy places believed to reside in a Brāhmaṇa's right ear.",
+      "justification": "Prabhāsa is named first among pilgrimage sites in the verse about the sanctity of a Brāhmaṇa's right ear in chapter 12."
+    },
+    {
+      "canonical_name": "pañcagavya",
+      "surface_names": ["pañcagavya", "pañcagavya ritual", "five cow-products"],
+      "kind": "object",
+      "mentions": [
+        {
+          "paragraph_id": "p-fbbcd6",
+          "quote": "She should make a decoction of the root, leaf, flower, or fruit of the Śaṅkhapuṣpī plant with gold and pañcagavya",
+          "role": "purificatory substance"
+        },
+        {
+          "paragraph_id": "p-adf2aa",
+          "quote": "Cow's urine, cow dung, milk, curd, clarified butter, and water with Kuśa grass—this is specified as pañcagavya, holy and purifying from sin",
+          "role": "defined purificatory mixture"
+        },
+        {
+          "paragraph_id": "p-658b82",
+          "quote": "The cow's urine should be from a black cow, the cow dung from a white one",
+          "role": "prescription for sourcing its components"
+        },
+        {
+          "paragraph_id": "p-4ffac6",
+          "quote": "with these he should take up the pañcagavya and offer it as an oblation according to the rule",
+          "role": "ritual use"
+        }
+      ],
+      "description": "Pañcagavya, the five-fold mixture of cow-derived substances (urine, dung, milk, curd, clarified butter, plus Kuśa-infused water), the central purificatory liquid prescribed throughout these chapters.",
+      "justification": "Pañcagavya is defined, its components individually specified with rules for sourcing and mantras, and prescribed for numerous impurity scenarios across all three chapters."
+    },
+    {
+      "canonical_name": "Cāndrāyaṇa",
+      "surface_names": ["Cāndrāyaṇa"],
+      "kind": "idea",
+      "mentions": [
+        {
+          "paragraph_id": "p-2b9a87",
+          "quote": "For the sin of agamyā gamana, one should perform the Cāndrāyaṇa penance for purification",
+          "role": "prescribed penance"
+        },
+        {
+          "paragraph_id": "p-849aa4",
+          "quote": "One should decrease the mouthfuls of food by one each day during the dark fortnight and increase them during the bright fortnight. On the new moon day, one should not eat at all; this is the rule of the Cāndrāyaṇa",
+          "role": "defined penance practice"
+        },
+        {
+          "paragraph_id": "p-50dfe1",
+          "quote": "He should perform three Cāndrāyaṇa penances",
+          "role": "prescribed penance"
+        }
+      ],
+      "description": "The Cāndrāyaṇa, a lunar fasting penance calibrated to the waxing and waning moon, one of the two chief penances (alongside Kṛcchra) prescribed throughout the text for grave transgressions.",
+      "justification": "The Cāndrāyaṇa is defined in detail in chapter 10 and repeatedly prescribed across all three chapters as the primary penance for major ritual and sexual transgressions."
+    },
+    {
+      "canonical_name": "Kṛcchra",
+      "surface_names": ["Kṛcchra", "Prājāpatya Kṛcchra", "Sāṃtapana Kṛcchra", "Atikṛcchra"],
+      "kind": "idea",
+      "mentions": [
+        {
+          "paragraph_id": "p-60d414",
+          "quote": "he should perform three Kṛcchra penances",
+          "role": "prescribed penance"
+        },
+        {
+          "paragraph_id": "p-d13aba",
+          "quote": "While reciting the Gāyatrī, one should perform the Sāṃtapana Kṛcchra",
+          "role": "prescribed penance with mantra"
+        },
+        {
+          "paragraph_id": "p-7f3f80",
+          "quote": "An Atikṛcchra for drawing blood; a Kṛcchra for internal bleeding",
+          "role": "graded penance for physical harm"
+        }
+      ],
+      "description": "The Kṛcchra, a family of graded dietary penances (Prājāpatya, Sāṃtapana, Atikṛcchra) involving controlled fasting, forming alongside Cāndrāyaṇa the core technology of expiation in this text.",
+      "justification": "Kṛcchra penances in their various forms are the most frequently prescribed expiations across all three chapters, covering sexual, dietary, and interpersonal transgressions."
+    },
+    {
+      "canonical_name": "dharma",
+      "surface_names": ["dharma", "dharmaśāstra"],
+      "kind": "idea",
+      "mentions": [
+        {
+          "paragraph_id": "p-1d8197",
+          "quote": "due to a fault in one's disposition, there is neither dharma nor purification",
+          "role": "normative standard linked to purification"
+        },
+        {
+          "paragraph_id": "p-f967a3",
+          "quote": "is described by the sages who know the truth of dharma as an apaca",
+          "role": "truth that sages know"
+        },
+        {
+          "paragraph_id": "p-9978c0",
+          "quote": "A householder, filled with compassion, should always reflect on dharma",
+          "role": "object of householder's contemplation"
+        },
+        {
+          "paragraph_id": "p-de6d1a",
+          "quote": "This is the Parāśara Śāstra, a compendium of dharmaśāstra",
+          "role": "genre identifier for the text itself"
+        }
+      ],
+      "description": "Dharma, the normative order encompassing ritual duty, moral law, and proper conduct, the overarching framework within which all the purity and expiation rules of this text operate.",
+      "justification": "Dharma is invoked throughout chapters 10–12 as both the standard against which transgressions are measured and the goal that penances restore."
+    },
+    {
+      "canonical_name": "prāyaścitta",
+      "surface_names": ["prāyaścitta", "expiation", "penance"],
+      "kind": "idea",
+      "mentions": [
+        {
+          "paragraph_id": "p-2b9a87",
+          "quote": "I shall now declare the beneficial expiation for all in the four-class system",
+          "role": "announced subject of the chapter"
+        },
+        {
+          "paragraph_id": "p-bbf3dc",
+          "quote": "after the prāyaścitta is completed, one should arrange a feeding of Brāhmaṇas",
+          "role": "completed ritual restoring purity"
+        },
+        {
+          "paragraph_id": "p-5bcc86",
+          "quote": "what is the prāyaścitta prescribed for them, for each varṇa?",
+          "role": "varṇa-differentiated ritual question"
+        }
+      ],
+      "description": "Prāyaścitta, the systematic technology of expiation through penances, fasts, donations, and pilgrimages that forms the primary subject of chapters 10–12.",
+      "justification": "Prāyaścitta is the announced topic of the text's final chapters and frames every ruling as a prescription for removing specific categories of ritual pollution."
+    },
+    {
+      "canonical_name": "cāturvarṇya",
+      "surface_names": ["cāturvarṇya", "four-class system", "four social classes", "varṇa"],
+      "kind": "idea",
+      "mentions": [
+        {
+          "paragraph_id": "p-2b9a87",
+          "quote": "I shall now declare the beneficial expiation for all in the four-class system (cāturvarṇya)",
+          "role": "social framework for expiation rules"
+        },
+        {
+          "paragraph_id": "p-b5ebdb",
+          "quote": "For the women of the four social classes (cāturvarṇya), the Kṛcchra and Cāndrāyaṇa are the vows",
+          "role": "social framework for penance application"
+        },
+        {
+          "paragraph_id": "p-5bcc86",
+          "quote": "what is the prāyaścitta prescribed for them, for each varṇa?",
+          "role": "basis for differentiated prescriptions"
+        }
+      ],
+      "description": "Cāturvarṇya, the four-fold social class system (Brāhmaṇa, Kṣatriya, Vaiśya, Śūdra), the primary organizing principle that determines differential penalties and prescriptions throughout these chapters.",
+      "justification": "Nearly every ruling in chapters 10–12 is differentiated by varṇa, making cāturvarṇya the structural logic underlying the entire expiation system."
+    },
+    {
+      "canonical_name": "Gāyatrī mantra",
+      "surface_names": ["Gāyatrī", "Gāyatrī mantra"],
+      "kind": "object",
+      "mentions": [
+        {
+          "paragraph_id": "p-4a2c24",
+          "quote": "He should take the cow's urine with (the mantra) Gāyatrī",
+          "role": "mantra used in pañcagavya ritual"
+        },
+        {
+          "paragraph_id": "p-7a2874",
+          "quote": "Purification from the sūtaka of a Śūdra is by eight thousand recitations of the Gāyatrī",
+          "role": "recitation prescribed for purification"
+        },
+        {
+          "paragraph_id": "p-db216a",
+          "quote": "the Gāyatrī, repeated ten thousand times, is the supreme purification",
+          "role": "supreme purificatory recitation"
+        },
+        {
+          "paragraph_id": "p-9f7c75",
+          "quote": "he should recite the Gāyatrī one thousand times, along with three breath-control exercises",
+          "role": "prescribed recitation for expiation"
+        }
+      ],
+      "description": "The Gāyatrī mantra, the most sacred Vedic verse, prescribed in large numbers of recitations as a primary means of purification and declared the supreme expiation when all other sins are mixed.",
+      "justification": "The Gāyatrī is prescribed across chapters 11 and 12 in quantities ranging from one thousand to ten thousand recitations for various categories of pollution, culminating in the declaration of ten thousand recitations as the supreme purification."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Graded expiation calibrated to varṇa and severity of transgression",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-2b9a87",
+          "quote": "I shall now declare the beneficial expiation for all in the four-class system"
+        },
+        {
+          "paragraph_id": "p-b78cda",
+          "quote": "If a Kṣatriya or a Vaiśya has intercourse with a Caṇḍāla woman, he should perform two Prājāpatya penances and give two pairs of cows"
+        },
+        {
+          "paragraph_id": "p-7a2874",
+          "quote": "Purification from the sūtaka of a Śūdra is by eight thousand recitations of the Gāyatrī; from that of a Vaiśya, by five thousand; from that of a Kṣatriya, by three thousand"
+        }
+      ],
+      "justification": "The entire text operates on a principle that the severity and form of expiation varies systematically by the offender's varṇa and the gravity of the act, governing every ruling across all three chapters."
+    },
+    {
+      "topic": "Ritual purity of food and the politics of commensality",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-b50cf8",
+          "quote": "Impure semen, cow's flesh, or the food of an outcaste—if this is eaten by a Brāhmaṇa, he should perform the Kṛcchra and Cāndrāyaṇa penances"
+        },
+        {
+          "paragraph_id": "p-82adbe",
+          "quote": "A Śūdra who is ever addicted to liquor and meat and engaged in low deeds—a Brāhmaṇa should avoid him from afar"
+        },
+        {
+          "paragraph_id": "p-18f54c",
+          "quote": "if even one of them gives up his plate, the remaining food should not be eaten"
+        }
+      ],
+      "justification": "Chapter 11 extensively regulates which foods, from which social sources, are permissible, establishing a detailed food-purity matrix that encodes social hierarchy through eating."
+    },
+    {
+      "topic": "Purificatory power of cow-products and the cow as sacred substance",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-adf2aa",
+          "quote": "Cow's urine, cow dung, milk, curd, clarified butter, and water with Kuśa grass—this is specified as pañcagavya, holy and purifying from sin"
+        },
+        {
+          "paragraph_id": "p-658b82",
+          "quote": "The cow's urine should be from a black cow, the cow dung from a white one, the milk is taken from a copper-colored one"
+        },
+        {
+          "paragraph_id": "p-297d1c",
+          "quote": "One who has intercourse with a cow is purified by a three-night fast and by giving one cow to a Brāhmaṇa"
+        }
+      ],
+      "justification": "The cow occupies a unique ritual position across these chapters: its products constitute the chief purificatory substance (pañcagavya), and even violations involving the cow are expiated through cow-related acts."
+    },
+    {
+      "topic": "Women's bodies as sites of purity regulation and social control",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-b5ebdb",
+          "quote": "A woman is like the earth; therefore, one should not defile her",
+          "quote": "For the women of the four social classes, the Kṛcchra and Cāndrāyaṇa are the vows"
+        },
+        {
+          "paragraph_id": "p-eda058",
+          "quote": "A woman who is enjoyed by a captor, who has been seized, bound, and taken by force or out of fear, is purified by performing the Sāṃtapana Kṛcchra"
+        },
+        {
+          "paragraph_id": "p-b1fbfc",
+          "quote": "one should abandon her in another country as a fallen, sinful woman"
+        }
+      ],
+      "justification": "Chapters 10 and 12 treat the female body as a central locus of purity anxiety, prescribing detailed rules for women who are violated, who leave the household, or who menstruate, framing their bodies as territory requiring ritual management."
+    },
+    {
+      "topic": "Brahmahatya (killing a Brāhmaṇa) as the supreme sin requiring extraordinary expiation",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-9f7c75",
+          "quote": "For a killer of a Brāhmaṇa, one who is endowed with the four sciences should duly prescribe the prāyaścitta"
+        },
+        {
+          "paragraph_id": "p-eccb1b",
+          "quote": "He should prescribe a pilgrimage to the sea-bridge as the prāyaścitta"
+        },
+        {
+          "paragraph_id": "p-24f3a8",
+          "quote": "having seen the bridge of the sea, one casts off the sin of killing a Brāhmaṇa"
+        }
+      ],
+      "justification": "The killing of a Brāhmaṇa is the only sin in these chapters that requires a prescribed pilgrimage to a specific geographic site (Setubandha), indicating its status as the gravest transgression in the text's moral taxonomy."
+    },
+    {
+      "topic": "Eclipse as sacred time that transforms ordinary ritual obligations",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-3f70d9",
+          "quote": "Bathing, charity, recitation, and fire offerings should be performed at the sighting of Rāhu"
+        },
+        {
+          "paragraph_id": "p-88e5c9",
+          "quote": "All water is equal to the Gaṅgā when the sun is seized by Rāhu (a solar eclipse)"
+        },
+        {
+          "paragraph_id": "p-cd6510",
+          "quote": "The Maruts, Vasus, Rudras, and the Āditya deities—all merge into the moon; therefore, charity should be given during its eclipse"
+        }
+      ],
+      "justification": "Chapter 12 devotes multiple verses to eclipses (both solar and lunar) as special liminal times when ordinary restrictions on night activities are suspended and meritorious acts acquire extraordinary power."
+    },
+    {
+      "topic": "Intentionality (jñāna/ajñāna) as a mitigating factor in assigning expiation",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-1d8197",
+          "quote": "due to a fault in one's disposition, there is neither dharma nor purification"
+        },
+        {
+          "paragraph_id": "p-cbaada",
+          "quote": "He who has intercourse out of ignorance should perform two Cāndrāyaṇa penances"
+        },
+        {
+          "paragraph_id": "p-2a909e",
+          "quote": "if this is eaten by a Brāhmaṇa, out of ignorance or in a time of distress, upon realizing it he should perform the purifying Kṛcchra and Brahmakūrca penances"
+        }
+      ],
+      "justification": "Throughout all three chapters, whether an act was done knowingly or out of ignorance consistently affects the prescribed penance, implying an implicit theory of moral intentionality within the dharmaśāstra framework."
+    },
+    {
+      "topic": "Degradation and social death as consequences of ritual failure",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-94e29d",
+          "quote": "Those who have fallen away from the fire-rite, who have abandoned twilight worship, and who do not study the Veda—all of them are remembered as vṛṣalas (fallen or degraded Brāhmaṇas)"
+        },
+        {
+          "paragraph_id": "p-adf39f",
+          "quote": "that dvija, excluded from rites for the ancestors and gods, goes to the Raurava hell"
+        },
+        {
+          "paragraph_id": "p-1d763f",
+          "quote": "For twelve births he becomes a vulture, for ten births a pig, and for seven births he is in the womb of a dog"
+        }
+      ],
+      "justification": "Chapters 11 and 12 repeatedly describe ritual failure as producing not just temporary impurity but permanent social demotion (vṛṣala status), exclusion from ancestor rites, and rebirth in degraded animal forms, articulating a comprehensive theory of ritual-social-cosmological linkage."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Manusmṛti",
+      "cited_author": "Manu",
+      "stance": "authority",
+      "paragraph_id": "p-227a3e",
+      "quote": "Svāyaṃbhuva (Manu) has declared this to be the purification",
+      "justification": "Manu/Svāyaṃbhuva is invoked as the original law-giving authority whose declaration validates the expiation rule for a fallen dvija, indicating the Parāśara Smṛti situates itself in relation to the Mānava dharmaśāstra tradition."
+    },
+    {
+      "cited_work": "Manusmṛti",
+      "cited_author": "Manu",
+      "stance": "authority",
+      "paragraph_id": "p-7e5d94",
+      "quote": "so has Manu declared",
+      "justification": "Manu is cited as authority for the rule permitting Brāhmaṇas to eat Śūdra food at a riverbank, integrating the Parāśara Smṛti's ruling within the broader Manu-based legal tradition."
+    },
+    {
+      "cited_work": "Manusmṛti",
+      "cited_author": "Manu",
+      "stance": "authority",
+      "paragraph_id": "p-0e2f81",
+      "quote": "thus has Manu declared",
+      "justification": "Manu is cited as the source for the doctrine that all sacred pilgrimage sites reside in a Brāhmaṇa's right ear."
+    },
+    {
+      "cited_work": "Manusmṛti",
+      "cited_author": "Manu",
+      "stance": "authority",
+      "paragraph_id": "p-1d763f",
+      "quote": "thus has Manu declared",
+      "justification": "Manu is cited as the authority for the doctrine of rebirth as vulture, pig, and dog for a dvija who eats Śūdra food during death-impurity."
+    },
+    {
+      "cited_work": "Uśanas Smṛti (or Uśanas dharmaśāstra)",
+      "cited_author": "Uśanas",
+      "stance": "authority",
+      "paragraph_id": "p-bbbb53",
+      "quote": "so said the sage Uśanas",
+      "justification": "Uśanas is explicitly named as a prior authority for the rule on how long a rajasvalā woman may be purified by bathing alone before stricter rites are required, indicating citation of a separate dharmaśāstra tradition."
+    }
+  ]
+}

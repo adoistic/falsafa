@@ -1,0 +1,45 @@
+{
+  "work_slug": "charlotte-lennox-poems-16d8a7",
+  "work_title": "Poems",
+  "chapter_number": 6,
+  "chapter_title": "AMINTA and DELIA. A PASTORAL.",
+  "chapter_slug": "06-aminta-and-delia-a-pastoral",
+  "author": "Charlotte Lennox",
+  "author_slug": "charlotte-lennox",
+  "ecpa_poem_id": "o5247-w0050",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "pastoral"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 50
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "35488962-992b-5aca-8b26-009e6a0b606b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 397,
+      "line_count": 62,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

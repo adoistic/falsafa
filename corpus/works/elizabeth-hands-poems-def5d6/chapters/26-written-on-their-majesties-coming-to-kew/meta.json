@@ -1,0 +1,44 @@
+{
+  "work_slug": "elizabeth-hands-poems-def5d6",
+  "work_title": "Poems",
+  "chapter_number": 26,
+  "chapter_title": "Written on Their MAJESTIES coming to Kew.",
+  "chapter_slug": "26-written-on-their-majesties-coming-to-kew",
+  "author": "Elizabeth Hands",
+  "author_slug": "elizabeth-hands",
+  "ecpa_poem_id": "peh89-w0260",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "occasional poem"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "8.6.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 24
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4a56eaf8-16bb-5988-99ce-23f2773cf628",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 144,
+      "line_count": 25,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

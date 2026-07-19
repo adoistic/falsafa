@@ -1,0 +1,40 @@
+{
+  "work_slug": "ann-radcliffe-poems-d56a37",
+  "work_title": "Poems",
+  "chapter_number": 33,
+  "chapter_title": "TO THE WINDS.",
+  "chapter_slug": "33-to-the-winds",
+  "author": "Ann Radcliffe",
+  "author_slug": "ann-radcliffe",
+  "ecpa_poem_id": "par19-w0330",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "address"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 25
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "881c8dd3-db26-527b-a5ad-80ef13e06302",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 221,
+      "line_count": 26,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

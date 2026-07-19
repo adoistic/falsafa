@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 46**
+**Viṣṇu Smriti 46**
 
 Now, there are the *kṛcchras* (types of penance). // Vi_46.1 //
 

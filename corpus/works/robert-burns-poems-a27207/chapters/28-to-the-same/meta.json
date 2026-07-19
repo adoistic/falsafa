@@ -1,0 +1,44 @@
+{
+  "work_slug": "robert-burns-poems-a27207",
+  "work_title": "Poems",
+  "chapter_number": 28,
+  "chapter_title": "TO THE SAME.",
+  "chapter_slug": "28-to-the-same",
+  "author": "Robert Burns",
+  "author_slug": "robert-burns",
+  "ecpa_poem_id": "cbu86-w0280",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "epistle"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "sestet (6 lines)"
+    ],
+    "rhyme": "aaabab",
+    "syllable_pattern": "8.8.8.4.8.4",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+/ -+|-+|-+|-+/ -+|-+/",
+    "line_count": 108
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "37b44c3f-746c-56ec-9464-08be04c178a2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 624,
+      "line_count": 109,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

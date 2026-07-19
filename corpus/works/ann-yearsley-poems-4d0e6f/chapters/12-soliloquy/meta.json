@@ -1,0 +1,40 @@
+{
+  "work_slug": "ann-yearsley-poems-4d0e6f",
+  "work_title": "Poems",
+  "chapter_number": 12,
+  "chapter_title": "SOLILOQUY.",
+  "chapter_slug": "12-soliloquy",
+  "author": "Ann Yearsley",
+  "author_slug": "ann-yearsley",
+  "ecpa_poem_id": "pye85-w0120",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "blank verse"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 40
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a6cb27d6-9098-5542-bd1b-5f9844312945",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 301,
+      "line_count": 41,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,809 @@
+{
+  "slug": "unknown-viramitrodaya-d4b632",
+  "window": "01:2919-3179",
+  "entities": [
+    {
+      "canonical_name": "Hemādri",
+      "surface_names": ["Hemādri"],
+      "kind": "figure",
+      "figure_kind": "scholar",
+      "mentions": [
+        {"paragraph_id": "p-631266", "quote": "what is said by Hemādri, that in the abhyāsa option, the giving of the fee is at the end and the Brahmin is one, that is to be reconsidered", "role": "authority cited and critiqued"},
+        {"paragraph_id": "p-b6679c", "quote": "The secondary time (gauṇakāla) for not performing the śrāddha in Mahālaya is stated in the Hemādri", "role": "source text"},
+        {"paragraph_id": "p-936086", "quote": "This verse has been explained by Hemādri in two ways", "role": "commentator"},
+        {"paragraph_id": "p-5f7f6f", "quote": "Equal to the Kṛta age means that the attainment of the full dharma of the Kṛta age occurs on this one tithi, says Hemādri", "role": "authority quoted"},
+        {"paragraph_id": "p-cd7ae5", "quote": "Hemādri says that from the verse of Ṛṣyaśṛṅga", "role": "authority cited"},
+        {"paragraph_id": "p-a170d1", "quote": "In the Hemādri, in another Purāṇa", "role": "source text"},
+        {"paragraph_id": "p-29e212", "quote": "In the Hemādri, Yājñavalkya says", "role": "source text"},
+        {"paragraph_id": "p-1b2a7c", "quote": "In the Hemādri, in another smṛti", "role": "source text"},
+        {"paragraph_id": "p-2d054f", "quote": "Pāśābhidhānā = Dvādaśī, says Hemādri", "role": "glossator"}
+      ],
+      "description": "Medieval Sanskrit digest-writer and commentator whose work Hemādri is repeatedly cited as a source-text and interpretive authority on śrāddha rules throughout this window.",
+      "justification": "Hemādri is named by name in multiple paragraphs as both an author whose positions are being quoted and as a commentator whose interpretations are engaged."
+    },
+    {
+      "canonical_name": "Śūlapāṇi",
+      "surface_names": ["Śūlapāṇi"],
+      "kind": "figure",
+      "figure_kind": "scholar",
+      "mentions": [
+        {"paragraph_id": "p-14b3c8", "quote": "Here, Śūlapāṇi says— When Prauṣṭhapadī has passed, having reached Trayodaśī conjoined with Maghā", "role": "authority cited"},
+        {"paragraph_id": "p-402c1b", "quote": "Śūlapāṇi, however, says that since this is without foundation, they are only optional", "role": "authority whose view is noted"}
+      ],
+      "description": "A distinguished Sanskrit scholar-commentator whose rulings on śrāddha timing and the Manvantarādis are quoted and engaged in the digest.",
+      "justification": "Śūlapāṇi is named in paragraphs p-14b3c8 and p-402c1b as an authority whose interpretations are directly cited."
+    },
+    {
+      "canonical_name": "Yama",
+      "surface_names": ["Yama"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-c17401", "quote": "Yama: When the sun is in Virgo during the rainy season, a householder / should perform it between the two Pañcamīs of both fortnights, even with vegetables.", "role": "lawgiver cited"},
+        {"paragraph_id": "p-14361d", "quote": "Yama: What is given at the sight of Rāhu is said to be an infinite śrāddha.", "role": "authority cited"},
+        {"paragraph_id": "p-eeaa27", "quote": "Yama: On Āṣāḍhī, Kārttikī, and Māghī, three or five twice-born, / one should satisfy, with the ancestors first", "role": "lawgiver cited"}
+      ],
+      "description": "God of death and dharma, cited multiple times in this window as a dharmaśāstra authority prescribing rules for śrāddha timing.",
+      "justification": "Yama is explicitly named as an authority for quoted śrāddha injunctions in paragraphs p-c17401, p-14361d, and p-eeaa27."
+    },
+    {
+      "canonical_name": "Rāhu",
+      "surface_names": ["Rāhu"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-14361d", "quote": "What is given at the sight of Rāhu is said to be an infinite śrāddha", "role": "celestial occasion"},
+        {"paragraph_id": "p-ba893e", "quote": "What is given at the sight of Rāhu is said to be an infinite śrāddha. / It is endowed with qualities, fulfills all desires, and reaches the ancestors.", "role": "celestial occasion"},
+        {"paragraph_id": "p-103dbe", "quote": "Even with all one's wealth, a śrāddha should be performed at the sight of Rāhu", "role": "celestial occasion"}
+      ],
+      "description": "The shadow planet or eclipse-demon whose sighting occasions an obligatory śrāddha of infinite merit according to multiple authorities cited.",
+      "justification": "Rāhu is named in paragraphs p-14361d, p-ba893e, and p-103dbe as the celestial phenomenon whose sighting triggers a special śrāddha rule."
+    },
+    {
+      "canonical_name": "Vasiṣṭha",
+      "surface_names": ["Vasiṣṭha"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {"paragraph_id": "p-343f15", "quote": "Because in this verse of Vasiṣṭha, even Maghā alone is stated as a time for śrāddha", "role": "authority cited"},
+        {"paragraph_id": "p-cd6abd", "quote": "Vasiṣṭha says: When there is a triad of tithis in a single civil day, / that is proclaimed as a day-elision", "role": "authority cited"}
+      ],
+      "description": "Vedic sage whose smṛti statements on śrāddha timing (Maghā as independent occasion; definition of the elided day) are cited as authorities.",
+      "justification": "Vasiṣṭha is named as the source of quoted injunctions in paragraphs p-343f15 and p-cd6abd."
+    },
+    {
+      "canonical_name": "Manu",
+      "surface_names": ["Manu", "Vṛddha Manu"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {"paragraph_id": "p-785ae3", "quote": "Likewise, (Manu Smṛti, a. 3, ślo. 273) Whatever is mixed with honey, one should give on Trayodaśī.", "role": "authority cited"},
+        {"paragraph_id": "p-852001", "quote": "Likewise, (Manu Smṛti, a. 3, ślo. 274) May he be in our family who would give us on Trayodaśī / rice pudding with honey and ghee, in the eastern shadow of an elephant.", "role": "authority cited"},
+        {"paragraph_id": "p-0b5dec", "quote": "Manu says: (a. 3, ślo. 277) By performing it on even nakṣatras, he obtains all desires.", "role": "authority cited"},
+        {"paragraph_id": "p-1ac9d5", "quote": "Vṛddha Manu has stated it differently: When Amāvāsyā, conjoined with Śravaṇa…falls on a Sunday, that is called Vyatīpāta.", "role": "alternative authority cited"}
+      ],
+      "description": "Legendary lawgiver whose Manu Smṛti is quoted several times for specific śrāddha tithi rules, and whose variant tradition (Vṛddha Manu) also gives a different definition of Vyatīpāta.",
+      "justification": "Manu is cited by name with specific chapter and verse references in paragraphs p-785ae3, p-852001, p-0b5dec, and as Vṛddha Manu in p-1ac9d5."
+    },
+    {
+      "canonical_name": "Yājñavalkya",
+      "surface_names": ["Yājñavalkya"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {"paragraph_id": "p-dd15d3", "quote": "Likewise, in the Yogiyājñavalkya: In the rainy season, on Trayodaśī, and in Maghā especially.", "role": "authority cited"},
+        {"paragraph_id": "p-216c28", "quote": "Yājñavalkya says: (a. 1, śrā. pra. 265-268) Heaven, offspring, vigor, valor, land, and strength…", "role": "authority cited"},
+        {"paragraph_id": "p-29e212", "quote": "In the Hemādri, Yājñavalkya says: A hundred thousand times at its arising, a crore times in the nāḍikā of its revolution.", "role": "authority cited"}
+      ],
+      "description": "Vedic sage whose smṛti (Yājñavalkyasmṛti / Yogiyājñavalkya) is cited for rules on Trayodaśī śrāddha, optional śrāddha fruits by nakṣatra, and Vyatīpāta merit.",
+      "justification": "Yājñavalkya is named with specific verse references in paragraphs p-dd15d3, p-216c28, and p-29e212."
+    },
+    {
+      "canonical_name": "Śaṅkha",
+      "surface_names": ["Śaṅkha"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {"paragraph_id": "p-c1b0b3", "quote": "in these verses of Śaṅkha, the Brahma Purāṇa, Manu, etc., only Trayodaśī conjoined with Maghā is heard", "role": "authority cited"},
+        {"paragraph_id": "p-4add04", "quote": "Because a direct injunction is heard in this verse of Śaṅkha. May he be in our family who would give us on Trayodaśī.", "role": "authority cited"},
+        {"paragraph_id": "p-70c135", "quote": "This is from the statement of Śaṅkha.", "role": "source of quoted verse"}
+      ],
+      "description": "Ancient lawgiver whose verses on Trayodaśī śrāddha and its fruits are quoted and discussed as providing a direct injunction.",
+      "justification": "Śaṅkha is named as the author of specific cited injunctions in paragraphs p-c1b0b3, p-4add04, and p-70c135."
+    },
+    {
+      "canonical_name": "Prajāpati",
+      "surface_names": ["Prajāpati"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-3b4a8c", "quote": "These times for śrāddha, Prajāpati has declared as obligatory. / He who does not perform a śrāddha in these goes to hell.", "role": "divine authority"},
+        {"paragraph_id": "p-5dafe3", "quote": "as is the word of Varāha", "role": "alternate divine authority in same passage"}
+      ],
+      "description": "The Creator deity cited as the divine authority who declared certain śrāddha times obligatory, including Trayodaśī.",
+      "justification": "Prajāpati is named in paragraph p-3b4a8c as the deity who declared specific śrāddha tithis obligatory."
+    },
+    {
+      "canonical_name": "Viṣṇu",
+      "surface_names": ["Viṣṇu", "Janārdana"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-ba893e", "quote": "Viṣṇu: What is given at the sight of Rāhu is said to be an infinite śrāddha.", "role": "authority cited"},
+        {"paragraph_id": "p-b021b5", "quote": "Viṣṇu says: By constantly performing a śrāddha on Sunday, one obtains health", "role": "authority cited"},
+        {"paragraph_id": "p-7a2cf4", "quote": "The soul of all, Janārdana, gives up sleep at that time.", "role": "divine subject"},
+        {"paragraph_id": "p-dd740d", "quote": "Viṣṇu says: What is given on Vaidhṛti and Vyatīpāta becomes imperishable.", "role": "authority cited"}
+      ],
+      "description": "Supreme deity cited both as a divine authority for śrāddha rules and as the cosmic being (Janārdana) who 'wakes' at Āśvina, lending sanctity to that period.",
+      "justification": "Viṣṇu is named as the source of quoted injunctions and as Janārdana in paragraphs p-ba893e, p-b021b5, p-7a2cf4, and p-dd740d."
+    },
+    {
+      "canonical_name": "Kātyāyana",
+      "surface_names": ["Kātyāyana"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {"paragraph_id": "p-22415a", "quote": "Kātyāyana says: Now, the optional ones. On Pratipad, one obtains unattractive wives…", "role": "authority cited"}
+      ],
+      "description": "Ancient smṛti author whose comprehensive list of optional śrāddha tithis and their fruits is quoted.",
+      "justification": "Kātyāyana is named in paragraph p-22415a as the authority for the systematic list of optional śrāddha results by tithi."
+    },
+    {
+      "canonical_name": "Devala",
+      "surface_names": ["Devala"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {"paragraph_id": "p-2d5b72", "quote": "Devala: All the odd tithis are more venerable than the even ones.", "role": "authority cited"},
+        {"paragraph_id": "p-185765", "quote": "Here, Devala states a special praise from a specific nakṣatra: The bright Tṛtīyā of Vaiśākha, conjoined with Rohiṇī, is auspicious.", "role": "authority cited"}
+      ],
+      "description": "Smṛti author whose rulings on the relative superiority of odd tithis and the special auspiciousness of nakṣatra-tithi conjunctions for śrāddha are cited.",
+      "justification": "Devala is named in paragraphs p-2d5b72 and p-185765 as the author of quoted authoritative statements."
+    },
+    {
+      "canonical_name": "Ṛṣyaśṛṅga",
+      "surface_names": ["Ṛṣyaśṛṅga"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {"paragraph_id": "p-cd7ae5", "quote": "Hemādri says that from the verse of Ṛṣyaśṛṅga: There is no postponement for the Daśaharās, nor for the four Yugādis", "role": "authority cited via Hemādri"}
+      ],
+      "description": "Vedic sage whose verse ruling out postponement of Daśaharās, Yugādis, and other fixed occasions is cited through Hemādri to support solar-month interpretation.",
+      "justification": "Ṛṣyaśṛṅga is named in paragraph p-cd7ae5 as the author of a verse quoted by Hemādri."
+    },
+    {
+      "canonical_name": "Marīci",
+      "surface_names": ["Marīci"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {"paragraph_id": "p-337bba", "quote": "Marīci: For those killed by poison, a snake, a beast of prey, fire, a wild animal, or a Brahmin, / the rites should be performed on Caturdaśī", "role": "authority cited"}
+      ],
+      "description": "Progenitor-sage whose smṛti statement restricts the Caturdaśī śrāddha to those who died violently or unnaturally.",
+      "justification": "Marīci is named in paragraph p-337bba as the authority for the Caturdaśī śrāddha rule for victims of violent death."
+    },
+    {
+      "canonical_name": "Gārgya",
+      "surface_names": ["Gārgya"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {"paragraph_id": "p-096d64", "quote": "This is from the statement of Gārgya.", "role": "source of quoted verse on Caturdaśī ekoddiṣṭa procedure"}
+      ],
+      "description": "Vedic sage whose statement prescribing the ekoddiṣṭa procedure for the Caturdaśī śrāddha for those killed by weapons is quoted.",
+      "justification": "Gārgya is named in paragraph p-096d64 as the source of the preceding quotation on Caturdaśī procedure."
+    },
+    {
+      "canonical_name": "Hārīta",
+      "surface_names": ["Hārīta"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {"paragraph_id": "p-84293f", "quote": "And also from the statement of Hārīta: At a sacred ford, and when materials are available, one should not determine the time.", "role": "authority cited"}
+      ],
+      "description": "Dharmaśāstra author whose statement on the immediacy of śrāddha obligation when a worthy Brahmin is available is quoted to support the obligatory classification.",
+      "justification": "Hārīta is named in paragraph p-84293f as the source of a quoted verse on śrāddha obligation."
+    },
+    {
+      "canonical_name": "Pulastya",
+      "surface_names": ["Pulastya"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {"paragraph_id": "p-ad382a", "quote": "This is from the statement of Pulastya.", "role": "source of quoted verse on piṇḍa prohibition at solstices"}
+      ],
+      "description": "Sage whose statement prohibiting the offering of piṇḍas at solstices and equinoxes is cited in the discussion of Trayodaśī śrāddha restrictions.",
+      "justification": "Pulastya is named in paragraph p-ad382a as the author of the preceding verse on piṇḍa prohibition."
+    },
+    {
+      "canonical_name": "Kārṣṇājini",
+      "surface_names": ["Kārṣṇājini"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {"paragraph_id": "p-d514f6", "quote": "Kārṣṇājini: One should not begin a śrāddha for a single line of ancestors on Trayodaśī.", "role": "authority cited"}
+      ],
+      "description": "Smṛti author whose verse prohibiting śrāddha for a single ancestral line on Trayodaśī is discussed in detail.",
+      "justification": "Kārṣṇājini is named in paragraph p-d514f6 as the source of a quoted prohibition."
+    },
+    {
+      "canonical_name": "Jyotirbṛhaspati",
+      "surface_names": ["Jyotirbṛhaspati"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {"paragraph_id": "p-fb864e", "quote": "As for the prohibition of a śrāddha here, shown by Jyotirbṛhaspati: The man who performs a śrāddha on the dark Trayodaśī, / know for certain the death of his eldest son.", "role": "authority cited for restriction"}
+      ],
+      "description": "Smṛti authority whose verse warning of danger to the eldest son from dark Trayodaśī śrāddha is cited and then limited to ekavarga (single-line) śrāddha.",
+      "justification": "Jyotirbṛhaspati is named in paragraph p-fb864e as the authority for the quoted prohibition."
+    },
+    {
+      "canonical_name": "Āpastamba",
+      "surface_names": ["Āpastamba"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {"paragraph_id": "p-c12ffc", "quote": "as is seen in the sūtra of Āpastamba, etc., the possibility of performing it for a single line arises", "role": "authority cited"},
+        {"paragraph_id": "p-256311", "quote": "By Āpastamba— On Trayodaśī, one has many sons, many friends, and beautiful offspring, but they die young.", "role": "authority cited"}
+      ],
+      "description": "Vedic sūtra author whose Āpastamba Sūtra is cited for the permissibility of single-line śrāddha and for the mixed boon-and-curse outcome of Trayodaśī śrāddha.",
+      "justification": "Āpastamba is named in paragraphs p-c12ffc and p-256311 as the authority for two distinct śrāddha rulings."
+    },
+    {
+      "canonical_name": "Bṛhatparāśara",
+      "surface_names": ["Bṛhatparāśara"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {"paragraph_id": "p-f61872", "quote": "Because by Bṛhatparāśara, the offering of the piṇḍa is specifically prohibited in the dark-fortnight Trayodaśī śrāddha", "role": "authority cited"}
+      ],
+      "description": "Smṛti authority cited for the specific prohibition against piṇḍa offering on dark-fortnight Trayodaśī.",
+      "justification": "Bṛhatparāśara is named in paragraph p-f61872 as the source of the piṇḍa prohibition ruling."
+    },
+    {
+      "canonical_name": "Bhāradvāja",
+      "surface_names": ["Bhāradvāja"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {"paragraph_id": "p-dd740d", "quote": "Bhāradvāja also says: Of what is given on Vyatīpāta and Vaidhṛti, no end is found.", "role": "authority cited"}
+      ],
+      "description": "Vedic sage whose statement on the imperishable merit of gifts given on Vyatīpāta and Vaidhṛti yogas is quoted.",
+      "justification": "Bhāradvāja is named in paragraph p-dd740d as the source of a quoted statement on the merit of Vyatīpāta/Vaidhṛti gifts."
+    },
+    {
+      "canonical_name": "Bhṛgu",
+      "surface_names": ["Bhṛgu", "Bhārgava"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {"paragraph_id": "p-3f8f7b", "quote": "Bhṛgu says: The time of the equality of declination is said by the great sages to be equal to a solar festival. / What is given, offered, recited, and worshipped there, Bhārgava says, is a hundred million times the merit.", "role": "authority cited"}
+      ],
+      "description": "Vedic sage (referred to also as Bhārgava) whose statement equating the moment of equal solar-lunar declination with a solar festival and declaring its merit a hundredfold is quoted in the Vyatīpāta section.",
+      "justification": "Bhṛgu (Bhārgava) is named in paragraph p-3f8f7b as the authority for the quoted statement on Vyatīpāta merit."
+    },
+    {
+      "canonical_name": "Varāha",
+      "surface_names": ["Varāha"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-5dafe3", "quote": "as is the word of Varāha", "role": "divine authority cited for Nāndīmukha śrāddha"},
+        {"paragraph_id": "p-8b3ce4", "quote": "In the Vārāha Purāṇa: A gift on the new moon day is a hundred times the merit; on a day-elision, a hundred times that.", "role": "source text"}
+      ],
+      "description": "The boar-avatar of Viṣṇu invoked as a divine authority for the full-moon Virgo śrāddha for Nāndīmukha ancestors, and the Vārāha Purāṇa is quoted for the graduated-merit scale of gifts.",
+      "justification": "Varāha is named in paragraph p-5dafe3 as a divine authority and the Vārāha Purāṇa is cited in p-8b3ce4."
+    },
+    {
+      "canonical_name": "Gayā",
+      "surface_names": ["Gayā"],
+      "kind": "place",
+      "mentions": [
+        {"paragraph_id": "p-68195e", "quote": "He by whom a śrāddha is performed on it becomes one who has performed the Gayā śrāddha.", "role": "sacred site of comparison"}
+      ],
+      "description": "Sacred pilgrimage site in Bihar celebrated for its śrāddha rites; performing the Bharaṇī śrāddha is said to be equivalent to performing the Gayā śrāddha.",
+      "justification": "Gayā is named in paragraph p-68195e as the benchmark sacred site whose śrāddha is equalled by the Bharaṇī śrāddha."
+    },
+    {
+      "canonical_name": "ancestors (pitṛs)",
+      "surface_names": ["ancestors", "pitṛs", "Nāndīmukha ancestors", "great-grandfather"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-7a3529", "quote": "the ancestors desire the śrāddha given by their sons…afflicted with hunger and thirst, emaciated with hunger, the ancestors of men", "role": "ritual recipients"},
+        {"paragraph_id": "p-5dafe3", "quote": "Those who are above the great-grandfather, they are the three Nāndīmukhas. They are called 'of pleasant face' and are the abode of auspiciousness.", "role": "specific category of ancestor"},
+        {"paragraph_id": "p-91fae0", "quote": "The great ancestors, always pleased at a śrāddha, bestow upon men / desired offspring, fame, heaven, health, and wealth.", "role": "benefactors"}
+      ],
+      "description": "The deceased forebears (paternal and maternal lines) who are the primary recipients of śrāddha rites and are portrayed as waiting, hungry, for their descendants' offerings.",
+      "justification": "The ancestors (pitṛs) are the central subjects of the entire window, named or referred to in virtually every paragraph as the beings for whom śrāddha is performed."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Hierarchical authority of smṛti sources in resolving śrāddha disputes",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-c1b0b3", "quote": "in these verses of Śaṅkha, the Brahma Purāṇa, Manu, etc., only Trayodaśī conjoined with Maghā is heard as the time for the śrāddha, yet even the plain tithi is a time for śrāddha"},
+        {"paragraph_id": "p-57d879", "quote": "the verses of Manu and Viṣṇu, which state a plain Trayodaśī…are explanatory statements (arthavāda), and since it is possible for them to have syntactical unity with a direct injunction"}
+      ],
+      "justification": "Throughout this window the Vīramitrodaya systematically ranks competing smṛti passages as direct injunctions (vidhi) versus explanatory statements (arthavāda) to resolve apparent contradictions about śrāddha timing."
+    },
+    {
+      "topic": "Obligatory (nitya) versus optional (kāmya) classification of śrāddha occasions",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-cbf400", "quote": "And this is obligatory (nitya)."},
+        {"paragraph_id": "p-173625", "quote": "And it is also optional (kāmya)."},
+        {"paragraph_id": "p-1bc4ac", "quote": "And from the word 'even' (api) in 'even water on these,' they are obligatory."},
+        {"paragraph_id": "p-402c1b", "quote": "Śūlapāṇi, however, says that since this is without foundation, they are only optional."}
+      ],
+      "justification": "A major organising dichotomy of the section is whether each śrāddha time generates a binding duty or merely an elective opportunity for additional merit."
+    },
+    {
+      "topic": "Cosmological time-units (Yugas, Manvantaras, Kalpas) as śrāddha occasion",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-153a28", "quote": "these four tithis are said by the ancients to be Yugādyās, of infinite merit. / A restrained man should give to the ancestors even water mixed with sesame on these."},
+        {"paragraph_id": "p-4159b0", "quote": "these are the Manvantarādis, making what is given imperishable"},
+        {"paragraph_id": "p-eb801a", "quote": "these thirty are the Kalpas, the tithis of the Supreme Lord. / Their commencement tithis have been stated by me as most meritorious."}
+      ],
+      "justification": "A large section of this window catalogues Yugādis, Yugāntas, Manvantarādis, and Kalpādis as special śrāddha occasions whose cosmic scale magnifies the merit of any gift given on those days."
+    },
+    {
+      "topic": "Astrological and calendrical determination of auspicious śrāddha time",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-43031b", "quote": "The Uttaras, Śravaṇa, Tiṣya, Mṛgaśīrṣa, Prajāpati, / Hasta, Śatabhiṣaj, Svāti, Citrā, the ancestral one, and Aśvinī, // these nakṣatras are always praised in a rite for the ancestors."},
+        {"paragraph_id": "p-0c593a", "quote": "Vyatīpāta is the seventeenth yoga among the Viṣkumbha, etc., yogas. A special rule for its ghaṭikās is in the science of astronomy"},
+        {"paragraph_id": "p-3f8f7b", "quote": "The Kalpataru says that Vyatīpāta is the equality of the declination of the sun and moon, which is to be known from the science of astronomy."}
+      ],
+      "justification": "The window extensively deploys nakṣatra, tithi, yoga, and solar-ingress astronomy to determine when śrāddha is most efficacious, grounding ritual law in astronomical observation."
+    },
+    {
+      "topic": "Restrictions on śrāddha for those with living sons versus those without",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-75a01e", "quote": "Or, it applies to a householder with a son. / A householder with a son should not perform a śrāddha on Trayodaśī."},
+        {"paragraph_id": "p-40116e", "quote": "He who is without offspring, for him Trayodaśī is proclaimed for a śrāddha. / He who has offspring and performs it, his lineage is destroyed."}
+      ],
+      "justification": "The Caturdaśī and Trayodaśī discussions both turn on whether the performer has living male descendants, generating a differential rule structure based on progeny status."
+    },
+    {
+      "topic": "Death anniversary (kṣayāha) and violent/untimely death as special śrāddha occasions",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-337bba", "quote": "For those killed by poison, a snake, a beast of prey, fire, a wild animal, or a Brahmin, / the rites should be performed on Caturdaśī"},
+        {"paragraph_id": "p-215e16", "quote": "For those who have an untimely death, or a death by a weapon, / and for those who have died in an epidemic…a śrāddha should be performed for them on Caturdaśī"},
+        {"paragraph_id": "p-e743b8", "quote": "Year after year, it should be performed for one's mother and father on the day of death."}
+      ],
+      "justification": "The Caturdaśī section and the closing kṣayāha section both focus on how the manner and date of death create special śrāddha obligations separate from regular calendar-based śrāddhas."
+    },
+    {
+      "topic": "Conflict resolution between contradictory scriptural passages via hermeneutical principles",
+      "implicit": true,
+      "mentions": [
+        {"paragraph_id": "p-7afa7e", "quote": "Being determined as different by their form, and not desiring each other, / they seek their purpose with disregard for each other."},
+        {"paragraph_id": "p-246af2", "quote": "If, for the sake of the simplicity of inferring a single injunction, one were to resort to the indication of another, which is not desired, even by superseding the natural independence"}
+      ],
+      "justification": "The text applies a recognised exegetical principle (maxim of independent injunctions) to navigate between competing smṛti positions, reflecting the broader Mīmāṃsā hermeneutics underlying dharmaśāstra digests."
+    },
+    {
+      "topic": "Ritual pollution (āśauca) as disqualifier interrupting ongoing śrāddha sequences",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-f8c8d4", "quote": "in the fortnight-śrāddha, even if an agreement is made with the Brahmins only once…if the Brahmins incur impurity (āśauca), they must be dismissed."},
+        {"paragraph_id": "p-d47c26", "quote": "if impurity befalls him in the middle…the rule 'there is no impurity in a rite that has been commenced' does not apply, and the commenced abhyāsa option must be abandoned."}
+      ],
+      "justification": "The opening paragraphs of the window treat āśauca as the primary contingency that suspends or invalidates an ongoing śrāddha, requiring fresh commencement after purity is restored."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Hemādri (digest)",
+      "cited_author": "Hemādri",
+      "stance": "authority",
+      "paragraph_id": "p-631266",
+      "quote": "what is said by Hemādri, that in the abhyāsa option, the giving of the fee is at the end and the Brahmin is one, that is to be reconsidered",
+      "justification": "The Vīramitrodaya cites Hemādri's position and then subjects it to critique, using the digest as a major reference point."
+    },
+    {
+      "cited_work": "Hemādri (digest) — Yama verse",
+      "cited_author": "Hemādri / Yama",
+      "stance": "authority",
+      "paragraph_id": "p-b6679c",
+      "quote": "The secondary time (gauṇakāla) for not performing the śrāddha in Mahālaya is stated in the Hemādri",
+      "justification": "The Vīramitrodaya quotes Hemādri as the source-text that preserves a Yama verse on secondary timing."
+    },
+    {
+      "cited_work": "Nāgarakhaṇḍa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-7a3529",
+      "quote": "In the Nāgarakhaṇḍa: Even when the fortnight of the ancestors has passed, as long as the sun is in Virgo, / the ancestors desire the śrāddha given by their sons.",
+      "justification": "The Nāgarakhaṇḍa (a Purāṇic khaṇḍa) is cited for its description of ancestors waiting for śrāddha during the Virgo-Libra solar months."
+    },
+    {
+      "cited_work": "Bhaviṣya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-d54974",
+      "quote": "This is from the Bhaviṣya.",
+      "justification": "The Bhaviṣya Purāṇa is cited for the verse on Dīpānvitā (new moon of Kārtika) as a secondary śrāddha occasion."
+    },
+    {
+      "cited_work": "Matsya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-15227f",
+      "quote": "This is from the Matsya Purāṇa.",
+      "justification": "The Matsya Purāṇa is cited for the verse equating Bharaṇī śrāddha with the Gayā śrāddha."
+    },
+    {
+      "cited_work": "Manu Smṛti",
+      "cited_author": "Manu",
+      "stance": "authority",
+      "paragraph_id": "p-785ae3",
+      "quote": "Likewise, (Manu Smṛti, a. 3, ślo. 273) Whatever is mixed with honey, one should give on Trayodaśī.",
+      "justification": "Manu Smṛti 3.273 is cited with specific reference as authority for the Trayodaśī śrāddha prescription."
+    },
+    {
+      "cited_work": "Manu Smṛti",
+      "cited_author": "Manu",
+      "stance": "authority",
+      "paragraph_id": "p-852001",
+      "quote": "Likewise, (Manu Smṛti, a. 3, ślo. 274) May he be in our family who would give us on Trayodaśī / rice pudding with honey and ghee, in the eastern shadow of an elephant.",
+      "justification": "Manu Smṛti 3.274 is cited with specific reference, used in the hermeneutical discussion as an arthavāda verse."
+    },
+    {
+      "cited_work": "Manu Smṛti",
+      "cited_author": "Manu",
+      "stance": "authority",
+      "paragraph_id": "p-0b5dec",
+      "quote": "Manu says: (a. 3, ślo. 277) By performing it on even nakṣatras, he obtains all desires.",
+      "justification": "Manu Smṛti 3.277 is cited for the rule on even versus odd nakṣatras in optional śrāddha."
+    },
+    {
+      "cited_work": "Yogiyājñavalkya",
+      "cited_author": "Yājñavalkya",
+      "stance": "authority",
+      "paragraph_id": "p-dd15d3",
+      "quote": "Likewise, in the Yogiyājñavalkya: In the rainy season, on Trayodaśī, and in Maghā especially.",
+      "justification": "The Yogiyājñavalkya is explicitly named and quoted for its ruling on Trayodaśī śrāddha."
+    },
+    {
+      "cited_work": "Yājñavalkyasmṛti",
+      "cited_author": "Yājñavalkya",
+      "stance": "authority",
+      "paragraph_id": "p-216c28",
+      "quote": "Yājñavalkya says: (a. 1, śrā. pra. 265-268) Heaven, offspring, vigor, valor, land, and strength…from Kṛttikā to Bharaṇī, he obtains these desires",
+      "justification": "Yājñavalkyasmṛti 1.265-268 is cited with specific verse references for the optional śrāddha fruits by nakṣatra."
+    },
+    {
+      "cited_work": "Brahma Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-e55fd2",
+      "quote": "This is from the Brahma Purāṇa.",
+      "justification": "The Brahma Purāṇa is cited for the verse on extended Mahālaya śrāddha timing through the Libra transit."
+    },
+    {
+      "cited_work": "Candrikā",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-8bcd2b",
+      "quote": "Because in this verse from the Candrikā, having stated the plain tithi, praise is stated for the conjunction with Maghā.",
+      "justification": "The Candrikā (a nibandha text) is cited for the verse distinguishing the plain Trayodaśī from the Trayodaśī-Maghā conjunction and their respective merits."
+    },
+    {
+      "cited_work": "Viṣṇudharmottara",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-1eab49",
+      "quote": "This is from the Viṣṇudharmottara.",
+      "justification": "The Viṣṇudharmottara is cited for the verse declaring specific śrāddha tithis (including Trayodaśī) obligatory under pain of hell."
+    },
+    {
+      "cited_work": "Śrāddhaprakāśa",
+      "cited_author": null,
+      "stance": "neutral",
+      "paragraph_id": "p-a4d90c",
+      "quote": "Another special rule should be seen in the Śrāddhaprakāśa.",
+      "justification": "The Śrāddhaprakāśa is referred to for additional detail on Trayodaśī, showing it as a parallel digest consulted for supplementary rules."
+    },
+    {
+      "cited_work": "Śrāddhaprakāśa",
+      "cited_author": null,
+      "stance": "neutral",
+      "paragraph_id": "p-b0cb65",
+      "quote": "Another detailed discussion on this should be known in the Śrāddhaprakāśa.",
+      "justification": "The Śrāddhaprakāśa is again cross-referenced for detailed discussion of the Caturdaśī śrāddha."
+    },
+    {
+      "cited_work": "Nāgarakhaṇḍa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-215e16",
+      "quote": "In the Nāgarakhaṇḍa: For those who have an untimely death, or a death by a weapon…a śrāddha should be performed for them on Caturdaśī",
+      "justification": "The Nāgarakhaṇḍa is cited a second time, here for the expanded list of death-types warranting Caturdaśī śrāddha."
+    },
+    {
+      "cited_work": "Mārkaṇḍeya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-e547a1",
+      "quote": "In the Mārkaṇḍeya Purāṇa: He whose ancestors are young, or have died, or have been killed by a weapon, / by him it should be performed on Caturdaśī.",
+      "justification": "The Mārkaṇḍeya Purāṇa is cited for a verse on Caturdaśī śrāddha for those with young or violently deceased ancestors."
+    },
+    {
+      "cited_work": "Śrāddhaviveka",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-4f00bb",
+      "quote": "Youth is from the sixteenth year to the thirtieth year, say the Śrāddhaviveka and others.",
+      "justification": "The Śrāddhaviveka is cited for the legal definition of 'youth' relevant to the Caturdaśī śrāddha qualification."
+    },
+    {
+      "cited_work": "Saṅgraha",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-a082d0",
+      "quote": "In the Saṅgraha: A daughter's son, even if just born, and even if the maternal uncle is present, / should perform the śrāddha for the maternal grandfather on the bright Pratipad of Āśvina.",
+      "justification": "The Saṅgraha (a digest) is cited for the rule that the daughter's son has priority in performing the maternal grandfather's śrāddha on Āśvina Pratipad."
+    },
+    {
+      "cited_work": "Nirṇayadīpa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-95d84b",
+      "quote": "This should be taken when it pervades the forenoon (saṅgava), says the Nirṇayadīpa",
+      "justification": "The Nirṇayadīpa is cited for the rule on which portion of the day (forenoon) the Pratipad must cover for the daughter's son's śrāddha to be valid."
+    },
+    {
+      "cited_work": "Viṣṇudharmottara",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-e2e493",
+      "quote": "In the Viṣṇudharmottara: The ingress of the sun is praised for a śrāddha, O lord of the earth!",
+      "justification": "The Viṣṇudharmottara is cited again for the general rule praising solar ingress and solstices as śrāddha occasions."
+    },
+    {
+      "cited_work": "Viṣṇu Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-4d2b3b",
+      "quote": "This is from the Viṣṇu Purāṇa.",
+      "justification": "The Viṣṇu Purāṇa is cited for the verse making śrāddha at lunar and solar eclipses obligatory."
+    },
+    {
+      "cited_work": "Nigama",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-db18bc",
+      "quote": "The Nigama: In the dark fortnight, on whichever day one has the means, or on the new moon day, but especially on the Aṣṭakā…one should wish to perform it.",
+      "justification": "The Nigama (a scriptural/smṛti text) is cited for the broad permissibility of śrāddha whenever materials and a Brahmin are available."
+    },
+    {
+      "cited_work": "Mārkaṇḍeya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-ee8a70",
+      "quote": "In the Mārkaṇḍeya Purāṇa: On obtaining a distinguished Brahmin, at an eclipse of the sun and moon, at a solstice…one should perform a śrāddha if one wishes.",
+      "justification": "The Mārkaṇḍeya Purāṇa is cited again for the comprehensive list of special optional śrāddha occasions."
+    },
+    {
+      "cited_work": "Brahma Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-6ee81f",
+      "quote": "In the Brahma Purāṇa: The śrāddha that is to be performed on the full moon days, in the ṛkṣa of the object, / at the conjunction of the month and the nakṣatra.",
+      "justification": "The Brahma Purāṇa is cited for the rule on full-moon-day śrāddha at the conjunction of month and nakṣatra."
+    },
+    {
+      "cited_work": "Brahma Purāṇa — Nāndīmukha section",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-5dafe3",
+      "quote": "A special rule for the full moon day of Bhādrapada is in the Brahma Purāṇa: For the Nāndīmukha ancestors…as is the word of Varāha.",
+      "justification": "The Brahma Purāṇa is cited for the Nāndīmukha ancestor category and their special full-moon śrāddha in Virgo."
+    },
+    {
+      "cited_work": "Matsya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-27b706",
+      "quote": "In the Matsya Purāṇa: On Vaiśākhī, at an eclipse, and likewise, O child, in Mahālaya.",
+      "justification": "The Matsya Purāṇa is cited for the special mention of Vaiśākhī full moon as a śrāddha occasion."
+    },
+    {
+      "cited_work": "Viṣṇudharmottara",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-7a2cf4",
+      "quote": "In the Viṣṇudharmottara: In the dark fortnight of Āśvina, and in the first of Kārtika, / he who always performs a śrāddha obtains the fruit of an Aśvamedha.",
+      "justification": "The Viṣṇudharmottara is cited for the exceptional merit of Āśvina dark-fortnight śrāddha equated with the Aśvamedha sacrifice."
+    },
+    {
+      "cited_work": "Viṣṇu Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-153a28",
+      "quote": "In the Viṣṇu Purāṇa: The third of the bright fortnight of the month of Vaiśākha…these four tithis are said by the ancients to be Yugādyās, of infinite merit.",
+      "justification": "The Viṣṇu Purāṇa is the primary authority cited for the canonical list of four Yugādi tithis."
+    },
+    {
+      "cited_work": "Nāgarakhaṇḍa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-4bbf29",
+      "quote": "In the Nāgarakhaṇḍa: Now listen, O lord of kings, to the Yugādyās, dear to the ancestors",
+      "justification": "The Nāgarakhaṇḍa is cited a third time, here for its Yugādi list and their cosmic-scale merit."
+    },
+    {
+      "cited_work": "Matsya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-67ff4c",
+      "quote": "In the Matsya Purāṇa: The Tṛtīyā of Vaiśākha, and the Navamī of Kārttika…these are remembered as Yugādis",
+      "justification": "The Matsya Purāṇa is cited for its version of the Yugādi list."
+    },
+    {
+      "cited_work": "Brahma Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-13aba6",
+      "quote": "In the Brahma Purāṇa, beginning with 'On the Tṛtīyā of the bright fortnight of Vaiśākha was the Kṛta age'— These four tithis are Yugādyās",
+      "justification": "The Brahma Purāṇa is cited for the Yugādi list with cosmological grounding in the beginning of the Kṛta age."
+    },
+    {
+      "cited_work": "Bhaviṣya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-b7f9bf",
+      "quote": "In the Bhaviṣya: The Tṛtīyā of Vaiśākha is equal to the Kṛta age. / The Navamī in Kārttika is equal to the Tretā age.",
+      "justification": "The Bhaviṣya Purāṇa is cited for its version of the Yugādi tithis correlated with specific cosmic ages."
+    },
+    {
+      "cited_work": "Prabhāsa Khaṇḍa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-5037d1",
+      "quote": "In the Prabhāsa Khaṇḍa: When the moon and the sun, and when Tiṣya and Bṛhaspati, / shall come together in one sign, then Kṛta will enter.",
+      "justification": "The Prabhāsa Khaṇḍa is cited for an astronomical prophecy about the return of the Kṛta age used in the Yugādi discussion."
+    },
+    {
+      "cited_work": "Brahmavaivarta Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-4fe23f",
+      "quote": "from the Brahmavaivarta, 'and on the Paurṇamāsī of Māgha, the terrible Kaliyuga'",
+      "justification": "The Brahmavaivarta Purāṇa is cited in the discussion of which lunar day of Māgha corresponds to which cosmic age."
+    },
+    {
+      "cited_work": "Nāradīya Purāṇa / Bhaviṣyottara",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-04caeb",
+      "quote": "In the Nāradīya and Bhaviṣyottara: Two in the bright, and two in the dark, the poets know as Yugādyās.",
+      "justification": "The Nāradīya and Bhaviṣyottara are jointly cited for the rule dividing Yugādis between bright and dark fortnight and specifying morning versus afternoon timing."
+    },
+    {
+      "cited_work": "Āditya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-8b4585",
+      "quote": "In the Āditya Purāṇa: Where the day-nakṣatra is Revatī, and the passage into the signs, / that is the day of the end of an age; a gift there is infinite.",
+      "justification": "The Āditya Purāṇa is cited as the authority for the definition and merit of Yugānta (end-of-age) days."
+    },
+    {
+      "cited_work": "Brahma Purāṇa — Yugānta section",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-6aef9f",
+      "quote": "A special rule is in the Brahma Purāṇa: At the sun's ingress into Leo, is the end of the Kṛta age.",
+      "justification": "The Brahma Purāṇa is cited for the specific solar-ingress definitions of Yugānta by zodiac sign."
+    },
+    {
+      "cited_work": "Padma Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-7fc090",
+      "quote": "In the Padma Purāṇa: On the Yugādis and at the Yugāntas, bathing, giving, recitation, etc., / whatever is done, its fruit is said to be that of the end of an age.",
+      "justification": "The Padma Purāṇa is cited for the general statement equating Yugādi and Yugānta merit with cosmic-age fruit."
+    },
+    {
+      "cited_work": "Mātsya Purāṇa — Manvantarādis",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-4159b0",
+      "quote": "In the Mātsya: The bright Navamī of Āśvayuj, and Dvādaśī of Kārttika…these are the Manvantarādis, making what is given imperishable.",
+      "justification": "The Mātsya Purāṇa is the primary authority for the extended list of fourteen Manvantarādi tithis."
+    },
+    {
+      "cited_work": "Nāgarakhaṇḍa — Kalpādis",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-eb801a",
+      "quote": "In the Nāgarakhaṇḍa: Now, O king, the auspicious tithis called Kalpādis are stated…these thirty are the Kalpas, the tithis of the Supreme Lord.",
+      "justification": "The Nāgarakhaṇḍa is cited as the primary source for the list of thirty Kalpa-commencement tithis."
+    },
+    {
+      "cited_work": "Matsya Purāṇa — Kalpādis",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-e911f7",
+      "quote": "In the Matsya Purāṇa, however, other tithis are stated as Kalpādis.",
+      "justification": "The Matsya Purāṇa is cited for an alternative (shorter) list of Kalpādi tithis differing from the Nāgarakhaṇḍa list."
+    },
+    {
+      "cited_work": "Vārāha Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-8b3ce4",
+      "quote": "In the Vārāha Purāṇa: A gift on the new moon day is a hundred times the merit; on a day-elision, a hundred times that…At a Vyatīpāta, the gift is immeasurable",
+      "justification": "The Vārāha Purāṇa is the primary authority cited for the graduated hundred-fold merit scale culminating in Vyatīpāta."
+    },
+    {
+      "cited_work": "Narasiṃha Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-2606f2",
+      "quote": "The fruit of this is in the Narasiṃha Purāṇa: The fruit is a hundred thousand times at its arising; in its revolution, it is said to be a crore.",
+      "justification": "The Narasiṃha Purāṇa is cited for the specific graduated merit of the four phases of Vyatīpāta yoga."
+    },
+    {
+      "cited_work": "Kalpataru",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-3f8f7b",
+      "quote": "The Kalpataru says that Vyatīpāta is the equality of the declination of the sun and moon, which is to be known from the science of astronomy.",
+      "justification": "The Kalpataru (a major nibandha digest) is cited for the astronomical definition of Vyatīpāta as solar-lunar declination equality."
+    },
+    {
+      "cited_work": "Liṅga Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-103dbe",
+      "quote": "In the Liṅga Purāṇa: Even with all one's wealth, a śrāddha should be performed at the sight of Rāhu.",
+      "justification": "The Liṅga Purāṇa is cited for the obligatory nature of the eclipse śrāddha, underscored by 'even with all one's wealth.'"
+    },
+    {
+      "cited_work": "Viṣṇudharmottara — new grain",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-e06f8a",
+      "quote": "In the Viṣṇudharmottara: At the ripening of the vrīhi rice, it should be performed, and likewise at the ripening of the barley.",
+      "justification": "The Viṣṇudharmottara is cited for the obligatory new-grain śrāddha at the ripening of rice and barley crops."
+    },
+    {
+      "cited_work": "Brahma Purāṇa — new grain",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-8b9cc8",
+      "quote": "In the Brahma Purāṇa: In the bright fortnight, having known the new grain to be ripe and beautiful, / one should go according to the rules of the field",
+      "justification": "The Brahma Purāṇa is cited for prescribing bright-fortnight timing and ritual procedure for the new-grain śrāddha."
+    },
+    {
+      "cited_work": "Kāmadhenu",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-9e714a",
+      "quote": "The prohibition of the dark fortnight is in the Kāmadhenu: A man should not perform the new grain rite in the dark fortnight",
+      "justification": "The Kāmadhenu is cited for the prohibition of dark-fortnight new-grain śrāddha."
+    },
+    {
+      "cited_work": "Jyotiṣa (śāstra)",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-0a811e",
+      "quote": "In the Jyotiṣa: On a Nandā tithi, on a Friday, on Trayodaśī, in the three birth-nakṣatras, / one should not perform the new grain śrāddha",
+      "justification": "The Jyotiṣa science is cited for specific tithi and nakṣatra prohibitions applying to the new-grain śrāddha."
+    },
+    {
+      "cited_work": "Brahma Purāṇa — kṣayāha",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-e743b8",
+      "quote": "There, in the Brahma Purāṇa: Year after year, it should be performed for one's mother and father on the day of death.",
+      "justification": "The Brahma Purāṇa is cited as the authority for the annual death-anniversary (kṣayāha) śrāddha obligation."
+    }
+  ]
+}

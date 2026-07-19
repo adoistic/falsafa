@@ -1,0 +1,591 @@
+{
+  "slug": "unknown-manusmrti-347b76",
+  "window": "06",
+  "entities": [
+    {
+      "canonical_name": "Manu",
+      "surface_names": ["Manu", "Svayambhuva Manu"],
+      "kind": "figure",
+      "figure_kind": "lawgiver",
+      "mentions": [
+        {
+          "paragraph_id": "p-89d810",
+          "quote": "only here may animals be slain, and nowhere else, Manu has declared.",
+          "role": "authority"
+        },
+        {
+          "paragraph_id": "p-89d810",
+          "quote": "the meat of an animal killed by dogs, Manu has declared to be pure",
+          "role": "authority"
+        },
+        {
+          "paragraph_id": "p-89d810",
+          "quote": "these Svayambhuva Manu has declared to be the bowls of an ascetic",
+          "role": "authority"
+        }
+      ],
+      "description": "Manu (also called Svayambhuva Manu) is the primordial lawgiver whose declarations constitute the authoritative rulings throughout this text on ritual purity and conduct.",
+      "justification": "Manu is cited as the direct source of legal pronouncements on animal slaughter, purity rules, and ascetic implements across multiple verses in p-89d810."
+    },
+    {
+      "canonical_name": "Indra",
+      "surface_names": ["Indra"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-89d810",
+          "quote": "for they are always in the state of Indra and have become one with Brahma",
+          "role": "exemplar"
+        },
+        {
+          "paragraph_id": "p-89d810",
+          "quote": "A king bears the form of the eight world-protectors: Soma, Agni, Arka (the Sun), Anila (the Wind), Indra, the lord of wealth (Kubera), the lord of waters (Varuna), and Yama.",
+          "role": "constituent"
+        }
+      ],
+      "description": "Indra is the king of the gods, listed as one of the eight world-protectors whose combined form constitutes the divine essence of a king.",
+      "justification": "Indra appears in p-89d810 both as a divine state that kings embody and as one of the eight lords whose qualities compose royal nature."
+    },
+    {
+      "canonical_name": "Soma",
+      "surface_names": ["Soma"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-89d810",
+          "quote": "A king bears the form of the eight world-protectors: Soma, Agni, Arka (the Sun), Anila (the Wind), Indra, the lord of wealth (Kubera), the lord of waters (Varuna), and Yama.",
+          "role": "constituent"
+        }
+      ],
+      "description": "Soma is a Vedic deity and one of the eight world-protectors whose collective form is said to be embodied in a king.",
+      "justification": "Soma is explicitly named in p-89d810 as one of the eight divine lords whose combined qualities constitute the nature of a king."
+    },
+    {
+      "canonical_name": "Agni",
+      "surface_names": ["Agni"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-89d810",
+          "quote": "A king bears the form of the eight world-protectors: Soma, Agni, Arka (the Sun), Anila (the Wind), Indra, the lord of wealth (Kubera), the lord of waters (Varuna), and Yama.",
+          "role": "constituent"
+        }
+      ],
+      "description": "Agni, the fire deity, is one of the eight world-protectors whose collective form constitutes the divine nature of kingship.",
+      "justification": "Agni is explicitly named in p-89d810 as one of the eight divine lords composing the king's form."
+    },
+    {
+      "canonical_name": "Varuna",
+      "surface_names": ["Varuna", "lord of waters"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-89d810",
+          "quote": "A king bears the form of the eight world-protectors: Soma, Agni, Arka (the Sun), Anila (the Wind), Indra, the lord of wealth (Kubera), the lord of waters (Varuna), and Yama.",
+          "role": "constituent"
+        }
+      ],
+      "description": "Varuna, the lord of waters and cosmic order, is one of the eight world-protectors embodied in a king.",
+      "justification": "Varuna is identified as 'lord of waters' in p-89d810 as one of the eight divine constituents of royal nature."
+    },
+    {
+      "canonical_name": "Yama",
+      "surface_names": ["Yama", "abode of Yama"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-89d810",
+          "quote": "A king bears the form of the eight world-protectors: Soma, Agni, Arka (the Sun), Anila (the Wind), Indra, the lord of wealth (Kubera), the lord of waters (Varuna), and Yama.",
+          "role": "constituent"
+        },
+        {
+          "paragraph_id": "p-89d810",
+          "quote": "He should reflect on the states of men, which arise from the faults of their actions, and on their fall into hell, and the torments in the abode of Yama.",
+          "role": "eschatological-reference"
+        }
+      ],
+      "description": "Yama is the god of death and lord of the underworld whose abode is a place of torment for the sinful, and who also constitutes one of the eight world-protectors forming the nature of a king.",
+      "justification": "Yama appears in p-89d810 both as the lord of the death realm where sinners are tormented and as one of the eight divine lords that compose a king's nature."
+    },
+    {
+      "canonical_name": "Kubera",
+      "surface_names": ["Kubera", "lord of wealth"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-89d810",
+          "quote": "A king bears the form of the eight world-protectors: Soma, Agni, Arka (the Sun), Anila (the Wind), Indra, the lord of wealth (Kubera), the lord of waters (Varuna), and Yama.",
+          "role": "constituent"
+        }
+      ],
+      "description": "Kubera, the lord of wealth and guardian of the north, is one of the eight world-protectors whose combined form constitutes kingship.",
+      "justification": "Kubera is identified as 'lord of wealth' in p-89d810 as one of the eight divine constituents of a king's nature."
+    },
+    {
+      "canonical_name": "Prajapati",
+      "surface_names": ["Prajapati"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-89d810",
+          "quote": "For the sake of auspiciousness, the rite of well-being and the sacrifice to Prajapati are performed for them at marriage, but the giving away is the cause of ownership.",
+          "role": "ritual-recipient"
+        },
+        {
+          "paragraph_id": "p-89d810",
+          "quote": "Having performed the Prajapatya sacrifice, with all his wealth as the sacrificial fee, having placed the sacred fires within himself, a Brahmana should go forth from his house as a renouncer.",
+          "role": "ritual-recipient"
+        }
+      ],
+      "description": "Prajapati is the Lord of Creatures to whom the marriage sacrifice and the final Prajapatya sacrifice are offered as key transitional rites.",
+      "justification": "Prajapati is named in p-89d810 as the deity of the marriage sacrifice and of the Prajapatya sacrifice performed at the transition to renunciation."
+    },
+    {
+      "canonical_name": "Brahma",
+      "surface_names": ["Brahma", "world of Brahma", "supreme Brahma"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-89d810",
+          "quote": "for they are always in the state of Indra and have become one with Brahma",
+          "role": "final-state"
+        },
+        {
+          "paragraph_id": "p-89d810",
+          "quote": "For him who goes forth from his house as a renouncer, having given a promise of safety to all beings, there are worlds of light, say the expounders of Brahma.",
+          "role": "doctrinal-source"
+        },
+        {
+          "paragraph_id": "p-89d810",
+          "quote": "A Brahmana who has cast off his body by one of these practices of the great sages, being free from sorrow and fear, is exalted in the world of Brahma.",
+          "role": "final-state"
+        },
+        {
+          "paragraph_id": "p-79fcf5",
+          "quote": "By this rule, having gradually abandoned all attachments, freed from all pairs of opposites, he becomes established in Brahma alone.",
+          "role": "final-state"
+        },
+        {
+          "paragraph_id": "p-45027a",
+          "quote": "That twice-born who becomes a renouncer by this orderly method, he, having shaken off his sin here, attains the supreme Brahma.",
+          "role": "final-state"
+        },
+        {
+          "paragraph_id": "p-1270ce",
+          "quote": "by the yoga of meditation he goes to the eternal Brahma.",
+          "role": "final-state"
+        }
+      ],
+      "description": "Brahma (here the Absolute/Ultimate Reality rather than the creator deity Brahma) is the supreme final state attained through renunciation, meditation, and the tenfold Dharma.",
+      "justification": "Brahma appears repeatedly across p-89d810, p-79fcf5, p-45027a, and p-1270ce as the ultimate destination of the renouncer who follows prescribed Dharma."
+    },
+    {
+      "canonical_name": "Chandala",
+      "surface_names": ["Chandala", "Chandalas"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-89d810",
+          "quote": "Having touched a Chandala, a menstruating woman, an outcaste, a woman who has just given birth, a corpse, or one who has touched a corpse, one is purified by bathing.",
+          "role": "impurity-source"
+        },
+        {
+          "paragraph_id": "p-89d810",
+          "quote": "The meat of an animal killed by dogs, Manu has declared to be pure, and that killed by other carnivorous animals, and by Chandalas and other robbers.",
+          "role": "agent"
+        }
+      ],
+      "description": "Chandalas are the lowest-caste group in the varna hierarchy, whose touch causes ritual impurity but whose killing of animals paradoxically does not render the meat impure.",
+      "justification": "Chandalas appear in p-89d810 as both transmitters of ritual impurity through touch and as agents whose animal-kills yield ritually pure meat."
+    },
+    {
+      "canonical_name": "Vaikhanasas",
+      "surface_names": ["Vaikhanasas"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-89d810",
+          "quote": "Or he may live always on flowers, roots, and fruits alone, which have ripened in time and fallen of their own accord, abiding in the rule of the Vaikhanasas.",
+          "role": "exemplar"
+        }
+      ],
+      "description": "The Vaikhanasas are an ascetic tradition or school whose rule of living solely on naturally fallen plant matter is presented as a valid forest-dwelling practice.",
+      "justification": "The Vaikhanasas are cited in p-89d810 as an established tradition whose dietary rule the forest-dweller may optionally follow."
+    },
+    {
+      "canonical_name": "jackal",
+      "surface_names": ["jackal", "womb of a jackal"],
+      "kind": "animal",
+      "mentions": [
+        {
+          "paragraph_id": "p-89d810",
+          "quote": "Through infidelity to her husband, a woman obtains condemnation in the world; she obtains the womb of a jackal and is afflicted by sinful diseases.",
+          "role": "karmic-consequence"
+        }
+      ],
+      "description": "The jackal is the animal into whose womb an adulterous woman is reborn as karmic punishment for infidelity.",
+      "justification": "The jackal womb is named in p-89d810 as the specific rebirth destination of a woman who commits infidelity against her husband."
+    },
+    {
+      "canonical_name": "crocodile",
+      "surface_names": ["crocodile"],
+      "kind": "animal",
+      "mentions": [
+        {
+          "paragraph_id": "p-9931a5",
+          "quote": "As a tree on a riverbank, or as a bird on a tree, so he who abandons this body is freed from the crocodile of suffering.",
+          "role": "metaphor"
+        }
+      ],
+      "description": "The crocodile is used as a metaphor for the suffering of embodied existence from which the renouncer is freed upon abandoning the body.",
+      "justification": "In p-9931a5 the crocodile figures as an image of saṃsāric suffering in a simile comparing the renouncer's liberation to a bird leaving a tree."
+    },
+    {
+      "canonical_name": "Vedanta",
+      "surface_names": ["Vedanta", "Upanishadic texts"],
+      "kind": "object",
+      "mentions": [
+        {
+          "paragraph_id": "p-89d810",
+          "quote": "A Brahmana dwelling in the forest should observe these and other vows, and various Upanishadic texts from the Śruti for the perfection of his soul.",
+          "role": "prescribed-study"
+        },
+        {
+          "paragraph_id": "p-c29fdd",
+          "quote": "He should constantly recite the sacred texts relating to sacrifice, to the deities, and to the Self, and that which is declared in the Vedanta.",
+          "role": "prescribed-study"
+        },
+        {
+          "paragraph_id": "p-2d97a0",
+          "quote": "A twice-born, having practiced this tenfold Dharma with a concentrated mind, and having duly heard the Vedanta, should renounce, being free from his debts.",
+          "role": "prerequisite"
+        }
+      ],
+      "description": "The Vedanta (Upanishads), as part of the Śruti, is the scriptural corpus that forest-dwellers and renouncers must study for spiritual perfection and as a prerequisite to renunciation.",
+      "justification": "Vedanta/Upanishadic texts appear as prescribed study material in p-89d810, p-c29fdd, and p-2d97a0, constituting a key element of the forest-dweller and renouncer stages."
+    },
+    {
+      "canonical_name": "Agnihotra",
+      "surface_names": ["Agnihotra"],
+      "kind": "event",
+      "mentions": [
+        {
+          "paragraph_id": "p-89d810",
+          "quote": "He should also offer the Agnihotra from the three sacred fires according to the rule, not omitting the new-moon and full-moon sacrifices at the proper time.",
+          "role": "prescribed-rite"
+        }
+      ],
+      "description": "The Agnihotra is the daily fire-oblation that the forest-dwelling hermit must continue to perform from the three sacred fires according to rule.",
+      "justification": "The Agnihotra is explicitly prescribed in p-89d810 as a mandatory daily rite the forest-dweller must maintain even in renunciate life."
+    },
+    {
+      "canonical_name": "Prajapatya sacrifice",
+      "surface_names": ["Prajapatya sacrifice"],
+      "kind": "event",
+      "mentions": [
+        {
+          "paragraph_id": "p-89d810",
+          "quote": "Having performed the Prajapatya sacrifice, with all his wealth as the sacrificial fee, having placed the sacred fires within himself, a Brahmana should go forth from his house as a renouncer.",
+          "role": "transitional-rite"
+        }
+      ],
+      "description": "The Prajapatya sacrifice is the final sacrificial rite, performed with all one's wealth as the sacrificial fee, that marks the Brahmana's transition from householder to renouncer.",
+      "justification": "The Prajapatya sacrifice is named in p-89d810 as the prescribed ritual act that precedes going forth as a renouncer."
+    },
+    {
+      "canonical_name": "Chandrayana penance",
+      "surface_names": ["Chandrayana penance"],
+      "kind": "event",
+      "mentions": [
+        {
+          "paragraph_id": "p-89d810",
+          "quote": "Or he may live according to the rules of the Chandrayana penance during the bright and dark fortnights; or at the end of the fortnights, he may eat boiled gruel once.",
+          "role": "prescribed-practice"
+        }
+      ],
+      "description": "The Chandrayana penance is a lunar-cycle-based fasting practice that the forest-dweller may optionally follow as a form of bodily austerity.",
+      "justification": "The Chandrayana penance is mentioned in p-89d810 as one valid ascetic dietary regime for the forest-dweller stage."
+    },
+    {
+      "canonical_name": "the Sun (Arka)",
+      "surface_names": ["Arka", "the Sun", "sun"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-89d810",
+          "quote": "A king bears the form of the eight world-protectors: Soma, Agni, Arka (the Sun), Anila (the Wind), Indra, the lord of wealth (Kubera), the lord of waters (Varuna), and Yama.",
+          "role": "constituent"
+        },
+        {
+          "paragraph_id": "p-89d810",
+          "quote": "if it is without fat, by sipping water, or by touching a cow or looking at the sun",
+          "role": "purifying-agent"
+        },
+        {
+          "paragraph_id": "p-89d810",
+          "quote": "when he is pure, recite mantras to the sun according to his zeal",
+          "role": "ritual-recipient"
+        }
+      ],
+      "description": "Arka/the Sun is simultaneously one of the eight world-protectors constituting royal nature, a purifying agent for a Brahmana who touches a bone, and the recipient of mantras recited upon encountering impure persons.",
+      "justification": "The Sun appears in p-89d810 in three distinct ritual functions: as a constituent of kingship, as a purificatory sight, and as the addressee of protective mantras."
+    },
+    {
+      "canonical_name": "Anila (Wind)",
+      "surface_names": ["Anila", "the Wind", "wind"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-89d810",
+          "quote": "A king bears the form of the eight world-protectors: Soma, Agni, Arka (the Sun), Anila (the Wind), Indra, the lord of wealth (Kubera), the lord of waters (Varuna), and Yama.",
+          "role": "constituent"
+        },
+        {
+          "paragraph_id": "p-89d810",
+          "quote": "Flies, drops of spittle, a shadow, a cow, a horse, the rays of the sun, dust, the earth, wind, and fire—these one should know to be pure in contact.",
+          "role": "purifying-agent"
+        }
+      ],
+      "description": "Anila/Wind is one of the eight world-protectors forming the divine nature of a king, and wind is also listed as a substance that is pure upon contact.",
+      "justification": "Anila/wind appears in p-89d810 both as a constituent of the divine kingship formula and as one of the naturally pure elements."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Ritual purity and impurity (āśauca)",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-89d810",
+          "quote": "Among sapiṇḍas, a ten-day period of impurity from a death is prescribed; but if it is before the gathering of the bones, it may be for three days, or for one day only."
+        },
+        {
+          "paragraph_id": "p-89d810",
+          "quote": "A Brahmana is purified in ten days, a ruler in twelve days, a Vaishya in fifteen days, and a Shudra is purified in a month."
+        },
+        {
+          "paragraph_id": "p-89d810",
+          "quote": "Knowledge, tapas, fire, food, earth, mind, water, plastering with cow-dung, wind, ritual action, the sun, and time are the agents of purification for embodied beings."
+        }
+      ],
+      "justification": "The bulk of chapter 06 (Manusmṛti 5.57–5.145) systematically legislates periods and methods of purification after death, birth, and contact with impure substances, constituting the chapter's dominant theme."
+    },
+    {
+      "topic": "The four āśramas (stages of life)",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-89d810",
+          "quote": "A twice-born snātaka, having thus dwelt in the householder āśrama according to the rule, should dwell in the forest, self-controlled and with his senses duly conquered.",
+          "quote": "When a householder sees wrinkles and gray hair on his body, and the child of his own child, then he should take refuge in the forest."
+        },
+        {
+          "paragraph_id": "p-59814f",
+          "quote": "The celibate student, the householder, the forest-dweller, and the ascetic—these four separate āśramas originate from the householder."
+        },
+        {
+          "paragraph_id": "p-2acddc",
+          "quote": "And of all these, according to the ordinance of the Veda and the Smṛti, the householder is declared to be the most excellent, for he supports these other three."
+        }
+      ],
+      "justification": "Manusmṛti 6.1–6.97 structures the second half of the chapter around the progressive movement through the four āśramas, describing duties at each stage and ranking the householder as supreme."
+    },
+    {
+      "topic": "Renunciation (saṃnyāsa) and liberation (mokṣa)",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-89d810",
+          "quote": "Having discharged his three debts, he should fix his mind on liberation (mokṣa); but he who pursues mokṣa without having discharged them, sinks downwards."
+        },
+        {
+          "paragraph_id": "p-45027a",
+          "quote": "That twice-born who becomes a renouncer by this orderly method, he, having shaken off his sin here, attains the supreme Brahma."
+        },
+        {
+          "paragraph_id": "p-79fcf5",
+          "quote": "By this rule, having gradually abandoned all attachments, freed from all pairs of opposites, he becomes established in Brahma alone."
+        }
+      ],
+      "justification": "The forest-dweller and renouncer sections (6.33–6.97) focus on mokṣa as the culminating goal, with detailed conditions and practices for valid renunciation culminating in union with Brahma."
+    },
+    {
+      "topic": "Dharma of women and wifely subordination",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-89d810",
+          "quote": "By a girl, by a young woman, or even by an aged woman, nothing must be done independently, even in her own house.",
+          "quote": "In childhood, she must be under the control of her father; in youth, of her husband; when her husband is dead, of her sons; a woman must never enjoy independence."
+        },
+        {
+          "paragraph_id": "p-89d810",
+          "quote": "For women, there is no separate sacrifice, no vow, nor any fasting; by the service she renders her husband, by that she is exalted in heaven."
+        }
+      ],
+      "justification": "Manusmṛti 5.147–5.168 constitutes a distinct section on strīdharma (women's duty) prescribing total subordination to male relatives across every life stage."
+    },
+    {
+      "topic": "Non-violence (ahiṃsā) and the ethics of meat-eating",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-89d810",
+          "quote": "He who does not wish to cause confinement, death, or pain to living beings, he, desiring the welfare of all, enjoys supreme happiness.",
+          "quote": "Without having done violence to living beings, meat is nowhere produced; and the killing of a living being is not conducive to heaven; therefore, one should avoid meat."
+        },
+        {
+          "paragraph_id": "p-89d810",
+          "quote": "There is no sin in the eating of meat, nor in wine, nor in sexual union; this is the natural inclination (pravṛtti) of beings, but abstention (nivṛtti) yields great fruit."
+        }
+      ],
+      "justification": "Manusmṛti 5.41–5.56 opens the chapter with a sustained argument on the ethics of meat-eating, balancing Vedic sanction for ritual slaughter against the superior merit of abstention."
+    },
+    {
+      "topic": "Tapas (austerity) as purification and spiritual power",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-89d810",
+          "quote": "In summer, he should perform the five-fires penance; during the rains, he should live under the open sky; and in winter, he should wear wet clothes, gradually increasing his tapas.",
+          "quote": "The learned are purified by forbearance; doers of forbidden acts, by giving; those with secret sins, by recitation; and the best knowers of the Veda, by tapas."
+        },
+        {
+          "paragraph_id": "p-86f5e1",
+          "quote": "Even three suppressions of the breath, performed according to the rule by a Brahmana, accompanied by the vyāhṛtis and the syllable Om, are to be known as the highest tapas."
+        }
+      ],
+      "justification": "Tapas pervades the forest-dweller and renouncer sections (6.6–6.75) as the primary means of burning away sin, purifying the senses, and advancing toward liberation."
+    },
+    {
+      "topic": "Karma, rebirth, and eschatological consequence",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-89d810",
+          "quote": "He should reflect on the states of men, which arise from the faults of their actions, and on their fall into hell, and the torments in the abode of Yama."
+        },
+        {
+          "paragraph_id": "p-89d810",
+          "quote": "Through infidelity to her husband, a woman obtains condemnation in the world; she obtains the womb of a jackal and is afflicted by sinful diseases."
+        },
+        {
+          "paragraph_id": "p-89d810",
+          "quote": "And on the departure from this body, and the rebirth in a womb, and the passages of this inner soul through thousands of millions of wombs."
+        }
+      ],
+      "justification": "The text repeatedly invokes karmic consequence — hellish torment, animal rebirth, and transmigration through innumerable wombs — as motivating framework for following prescribed Dharma."
+    },
+    {
+      "topic": "Varna hierarchy and differential ritual obligations",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-89d810",
+          "quote": "A Brahmana is purified in ten days, a ruler in twelve days, a Vaishya in fifteen days, and a Shudra is purified in a month."
+        },
+        {
+          "paragraph_id": "p-89d810",
+          "quote": "One should carry out a deceased Shudra through the southern gate of the town; but the twice-born, through the western, northern, or eastern gates, as is appropriate."
+        },
+        {
+          "paragraph_id": "p-89d810",
+          "quote": "He who wishes to increase his own flesh with the flesh of another, without having worshipped the ancestors and the gods—there is no one more unmeritorious than he."
+        }
+      ],
+      "justification": "The differential purity periods, funeral rites, and ritual obligations assigned to each varna throughout the chapter reflect a structuring principle that varna determines the form and duration of all ritual obligations."
+    },
+    {
+      "topic": "Divine nature of kingship",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-89d810",
+          "quote": "A king bears the form of the eight world-protectors: Soma, Agni, Arka (the Sun), Anila (the Wind), Indra, the lord of wealth (Kubera), the lord of waters (Varuna), and Yama.",
+          "quote": "There is no fault of impurity for kings, nor for those under a vow, nor for those engaged in a sacrificial session; for they are always in the state of Indra and have become one with Brahma."
+        },
+        {
+          "paragraph_id": "p-89d810",
+          "quote": "A king is established by the lords of the world, so no impurity is prescribed for him; for the purity and impurity of mortals arise from and are resolved by the lords of the world."
+        }
+      ],
+      "justification": "Manusmṛti 5.93–5.98 presents kingship as ontologically divine — the king embodies eight world-protectors and therefore stands above ordinary purity rules, a rare political-theology passage in the chapter."
+    },
+    {
+      "topic": "Yoga and meditation (dhyāna) as inner technology",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-7827e1",
+          "quote": "He should burn away his faults with suppressions of the breath, his sin with concentrations, his worldly attachments with withdrawal of the senses, and his ungodly qualities with meditation.",
+          "quote": "By the yoga of meditation, he should perceive the course of this inner soul in high and low beings, which is difficult to know for those whose souls are unpurified."
+        },
+        {
+          "paragraph_id": "p-474f75",
+          "quote": "By the yoga of meditation, he should perceive the course of this inner soul in high and low beings, which is difficult to know for those whose souls are unpurified."
+        },
+        {
+          "paragraph_id": "p-1270ce",
+          "quote": "by the yoga of meditation he goes to the eternal Brahma."
+        }
+      ],
+      "justification": "Manusmṛti 6.70–6.79 introduces a systematic inner technology of prāṇāyāma, pratyāhāra, dhāraṇā, and dhyāna as the renouncer's path to perceiving the ātman and attaining Brahma."
+    },
+    {
+      "topic": "Three debts and preconditions for renunciation",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-89d810",
+          "quote": "Having discharged his three debts, he should fix his mind on liberation (mokṣa); but he who pursues mokṣa without having discharged them, sinks downwards.",
+          "quote": "Having studied the Vedas according to the rule, having begotten sons according to Dharma, and having sacrificed with yajñas according to his ability, he should fix his mind on liberation."
+        }
+      ],
+      "justification": "The three debts — to teachers (Veda-study), to ancestors (sons), and to gods (sacrifice) — are implicit as the prerequisite structure for renunciation in 6.35–6.37, named collectively but unpacked across verses."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Veda",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-89d810",
+      "quote": "The violence which is sanctioned by the Veda and is established in this movable and immovable world, one should know to be non-violence itself; for Dharma shone forth from the Veda.",
+      "justification": "The Veda is cited as the ultimate authority from which Dharma derives, validating ritual violence (animal sacrifice) as non-violence when Vedically sanctioned."
+    },
+    {
+      "cited_work": "Veda",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-89d810",
+      "quote": "A self-possessed twice-born, dwelling in his house, with his guru, or in the forest, must not perform violence not sanctioned by the Veda, even in a time of distress.",
+      "justification": "The Veda is invoked as the standard against which all ritual action is measured, making non-Vedic violence impermissible even under duress."
+    },
+    {
+      "cited_work": "Smṛti",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-2acddc",
+      "quote": "And of all these, according to the ordinance of the Veda and the Smṛti, the householder is declared to be the most excellent, for he supports these other three.",
+      "justification": "The Smṛti is cited alongside the Veda as a co-authoritative source for the ranking of the householder stage above the other three āśramas."
+    },
+    {
+      "cited_work": "Vedanta (Upanishads / Śruti)",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-89d810",
+      "quote": "A Brahmana dwelling in the forest should observe these and other vows, and various Upanishadic texts from the Śruti for the perfection of his soul.",
+      "justification": "The Upanishadic texts are cited as authoritative Śruti whose study is prescribed for the forest-dweller's spiritual perfection."
+    }
+  ]
+}

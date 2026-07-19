@@ -1,0 +1,28 @@
+{
+  "work_slug": "william-shakespeare-sonnets-65f289",
+  "work_title": "Sonnets",
+  "chapter_number": 56,
+  "chapter_title": "Sonnet 56",
+  "chapter_slug": "056-sonnet-56",
+  "incipit": "Sweet love, renew thy force; be it not said",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "751ba823-1184-5eb1-9bcd-8bdb1d127b59",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 112,
+      "line_count": 14,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1041",
+      "license": "Public domain — from Project Gutenberg (https://www.gutenberg.org)"
+    }
+  ]
+}

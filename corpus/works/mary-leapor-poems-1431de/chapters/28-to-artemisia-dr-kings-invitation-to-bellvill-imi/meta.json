@@ -1,0 +1,44 @@
+{
+  "work_slug": "mary-leapor-poems-1431de",
+  "work_title": "Poems",
+  "chapter_number": 28,
+  "chapter_title": "To ARTEMISIA. Dr. KING's Invitation to BELLVILL: Imitated.",
+  "chapter_slug": "28-to-artemisia-dr-kings-invitation-to-bellvill-imi",
+  "author": "Mary Leapor",
+  "author_slug": "mary-leapor",
+  "ecpa_poem_id": "o5125-w0280",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "imitation"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 36
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c234909f-2121-5063-b54a-f155d722e086",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 239,
+      "line_count": 38,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "sir-james-marriott-poems-531359",
+  "work_title": "Poems",
+  "chapter_number": 18,
+  "chapter_title": "ODE to FANCY.",
+  "chapter_slug": "18-ode-to-fancy",
+  "author": "Sir James Marriott",
+  "author_slug": "sir-james-marriott",
+  "ecpa_poem_id": "o5155-w0680",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "rhyme": "irregular",
+    "metrical_pattern": "irregular",
+    "line_count": 151
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ddf830b5-cd2d-593f-aee5-680ab5d55247",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 938,
+      "line_count": 159,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

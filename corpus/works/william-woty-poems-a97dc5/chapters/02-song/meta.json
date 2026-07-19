@@ -1,0 +1,44 @@
+{
+  "work_slug": "william-woty-poems-a97dc5",
+  "work_title": "Poems",
+  "chapter_number": 2,
+  "chapter_title": "SONG.",
+  "chapter_slug": "02-song",
+  "author": "William Woty",
+  "author_slug": "william-woty",
+  "ecpa_poem_id": "o5089-w0460",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "song"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "octet (8 lines)"
+    ],
+    "rhyme": "ababcdcd",
+    "syllable_pattern": "8.8.8.8.8.8.8.8",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/",
+    "line_count": 24
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "78f47336-bb56-5ca5-bb97-f72e8ac4a457",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 152,
+      "line_count": 25,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

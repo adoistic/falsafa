@@ -1,0 +1,40 @@
+{
+  "work_slug": "john-pomfret-poems-70be05",
+  "work_title": "Poems",
+  "chapter_number": 15,
+  "chapter_title": "Upon the Divine Attributes. A Pindaric Essay.",
+  "chapter_slug": "15-upon-the-divine-attributes-a-pindaric-essay",
+  "author": "John Pomfret",
+  "author_slug": "john-pomfret",
+  "ecpa_poem_id": "ppo24-w0150",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "Pindaric ode",
+      "essay",
+      "ode"
+    ],
+    "rhyme": "irregular",
+    "metrical_pattern": "irregular",
+    "line_count": 409
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3ffd670f-c59d-5ee4-a4f5-1060c2b62800",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2731,
+      "line_count": 430,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

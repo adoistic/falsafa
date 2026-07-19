@@ -1,0 +1,44 @@
+{
+  "work_slug": "john-delap-poems-113b20",
+  "work_title": "Poems",
+  "chapter_number": 3,
+  "chapter_title": "To SICKNESS; AN ELEGY.",
+  "chapter_slug": "03-to-sickness-an-elegy",
+  "author": "John Delap",
+  "author_slug": "john-delap",
+  "ecpa_poem_id": "o5089-w0170",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "elegy"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 68
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "79411832-a641-567e-825e-2dd15fe3d908",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 541,
+      "line_count": 70,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

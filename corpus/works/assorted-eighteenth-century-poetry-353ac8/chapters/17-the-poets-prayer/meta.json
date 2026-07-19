@@ -1,0 +1,45 @@
+{
+  "work_slug": "assorted-eighteenth-century-poetry-353ac8",
+  "work_title": "An Assorted Collection of Eighteenth-Century Poetry",
+  "chapter_number": 17,
+  "chapter_title": "The POET'S PRAYER.",
+  "chapter_slug": "17-the-poets-prayer",
+  "author": "William Dunkin",
+  "author_slug": "william-dunkin",
+  "ecpa_poem_id": "o5154-w0370",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "prayer",
+      "satire"
+    ],
+    "foot": "anapaestic (˘˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "12",
+    "metrical_pattern": "--+|--+|--+|--+/",
+    "line_count": 60
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c752d2a8-bee7-5911-8515-5c46d44d3ea2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 540,
+      "line_count": 61,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

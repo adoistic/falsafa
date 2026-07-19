@@ -1,0 +1,41 @@
+{
+  "work_slug": "samuel-wesley-poems-9dff34",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "EUPOLIS' Hymn to the Creator.",
+  "chapter_slug": "01-eupolis-hymn-to-the-creator",
+  "author": "Samuel Wesley",
+  "author_slug": "samuel-wesley",
+  "ecpa_poem_id": "o3900-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "hymn"
+    ],
+    "foot": "trochaic (′˘)",
+    "footnum": "tetrameter (4 feet)",
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "+-|+-|+-|+-/",
+    "line_count": 150
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6bd0e749-5129-5fa8-b60e-9e8c8bba620c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 895,
+      "line_count": 151,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

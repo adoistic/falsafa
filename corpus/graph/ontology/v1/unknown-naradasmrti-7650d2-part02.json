@@ -1,0 +1,563 @@
+{
+  "slug": "unknown-naradasmrti-7650d2",
+  "window": "01:254-504",
+  "entities": [
+    {
+      "canonical_name": "Brāhmaṇa",
+      "surface_names": ["Brāhmaṇa", "Brāhmaṇī", "Brahmin"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-2093f4",
+          "quote": "In the marriage of Brāhmaṇas, Kṣatriyas, Vaiśyas, and Śūdras, a wife of one's own class is best",
+          "role": "subject of marriage regulation"
+        },
+        {
+          "paragraph_id": "p-84f776",
+          "quote": "A Brāhmaṇa may have three other wives in the regular order of the classes.",
+          "role": "subject of polygamy rule"
+        },
+        {
+          "paragraph_id": "p-9f30b5",
+          "quote": "From a Brāhmaṇa woman are born a Cāṇḍāla (चाण्डाल), a Sūta (सूत), and a Vaidehaka (वैदेहक).",
+          "role": "subject of caste-mixture rules"
+        },
+        {
+          "paragraph_id": "p-219c5e",
+          "quote": "Except for the property of a Brāhmaṇa.",
+          "role": "exempt group in inheritance"
+        },
+        {
+          "paragraph_id": "p-275a4b",
+          "quote": "except for the death of a Brāhmaṇa; a Brāhmaṇa does not receive the death penalty",
+          "role": "exempt from capital punishment"
+        }
+      ],
+      "description": "The priestly class (varṇa) whose members are subject to distinct marriage, inheritance, and punishment rules throughout this section of the Nāradasmṛti.",
+      "justification": "Brāhmaṇas are named repeatedly as a distinct class whose legal privileges and duties differ from other varṇas across marriage, caste-mixture, inheritance, and criminal-punishment rules."
+    },
+    {
+      "canonical_name": "Kṣatriya",
+      "surface_names": ["Kṣatriya", "Kṣatriya woman"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-2093f4",
+          "quote": "In the marriage of Brāhmaṇas, Kṣatriyas, Vaiśyas, and Śūdras, a wife of one's own class is best",
+          "role": "subject of marriage regulation"
+        },
+        {
+          "paragraph_id": "p-366b90",
+          "quote": "A Kṣatriya may have two other wives",
+          "role": "subject of polygamy rule"
+        },
+        {
+          "paragraph_id": "p-c78365",
+          "quote": "A Kṣatriya woman should wait for six years",
+          "role": "subject of waiting period for absent husband"
+        },
+        {
+          "paragraph_id": "p-73554c",
+          "quote": "An Ambaṣṭha (अम्बष्ठ), a Māgadha (मागध), and a Kṣattā (क्षत्ता) are the sons of a Kṣatriya woman.",
+          "role": "subject of caste-mixture rules"
+        }
+      ],
+      "description": "The warrior/ruling class (varṇa) subject to specific marriage, waiting-period, and caste-mixture regulations in this window.",
+      "justification": "Kṣatriyas are explicitly named in rules concerning the number of permitted wives, waiting periods for absent husbands, and offspring born from inter-varṇa unions."
+    },
+    {
+      "canonical_name": "Vaiśya",
+      "surface_names": ["Vaiśya", "Vaiśya woman"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-366b90",
+          "quote": "a Vaiśya is said to have one",
+          "role": "subject of polygamy rule"
+        },
+        {
+          "paragraph_id": "p-c78365",
+          "quote": "A Vaiśya woman who has borne children should wait for four years",
+          "role": "subject of waiting period rule"
+        },
+        {
+          "paragraph_id": "p-3e2ab0",
+          "quote": "The sons of a Vaiśya woman are the Dauṣṣanta (दौष्षन्त), the Yavana (यवन), and the Āyogava (आयोगव).",
+          "role": "subject of caste-mixture offspring"
+        }
+      ],
+      "description": "The merchant/farming class (varṇa) governed by distinct marriage and caste-mixture rules in the text.",
+      "justification": "Vaiśyas are named in rules limiting polygamy and specifying the mixed-caste sons born from Vaiśya women, differentiating their legal position from other varṇas."
+    },
+    {
+      "canonical_name": "Śūdra",
+      "surface_names": ["Śūdra", "Śūdra woman"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-84f776",
+          "quote": "A Śūdra woman may likewise have three other husbands",
+          "role": "subject of remarriage rule"
+        },
+        {
+          "paragraph_id": "p-3e9f60",
+          "quote": "No time limit is prescribed for a Śūdra woman, nor is it a transgression of Dharma",
+          "role": "exempt from waiting-period rule"
+        }
+      ],
+      "description": "The servile class (varṇa) whose women are subject to more permissive remarriage rules and have no prescribed waiting period for absent husbands.",
+      "justification": "Śūdra women are singled out as having distinct rules regarding multiple husbands and no obligatory waiting period, marking their lower legal status in the varṇa hierarchy."
+    },
+    {
+      "canonical_name": "Prajāpati",
+      "surface_names": ["Prajāpati"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-05e06b",
+          "quote": "For the propagation of beings, this is the creation of Prajāpati.",
+          "role": "divine authority cited for remarriage provisions"
+        },
+        {
+          "paragraph_id": "p-c88998",
+          "quote": "Therefore, Prajāpati ordained their lack of independence.",
+          "role": "divine authority for female guardianship"
+        }
+      ],
+      "description": "The creator deity invoked as the divine sanction behind rules governing women's remarriage and their perpetual guardianship.",
+      "justification": "Prajāpati is cited twice as the ultimate divine legislator for two key legal doctrines—women's remarriage in emergencies and women's permanent dependence on male guardians."
+    },
+    {
+      "canonical_name": "Cāṇḍāla",
+      "surface_names": ["Cāṇḍāla", "चाण्डाल"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-9f30b5",
+          "quote": "From a Brāhmaṇa woman are born a Cāṇḍāla (चाण्डाल), a Sūta (सूत), and a Vaidehaka (वैदेहक).",
+          "role": "mixed-caste offspring category"
+        },
+        {
+          "paragraph_id": "p-d47f47",
+          "quote": "The most sinful in the mixed castes (`saṃkara` (संकर)) is born with two classes in between in the reverse order",
+          "role": "lowest mixed-caste category"
+        }
+      ],
+      "description": "The most stigmatized mixed-caste (pratiloma) group, born from a Brāhmaṇa woman by a Śūdra man, ranked as the most sinful product of hypogamous union.",
+      "justification": "The Cāṇḍāla is explicitly listed among the sons born from reverse-order (pratiloma) inter-varṇa unions and is identified as the most polluted of the saṃkara castes."
+    },
+    {
+      "canonical_name": "Sūta",
+      "surface_names": ["Sūta", "सूत"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-9f30b5",
+          "quote": "From a Brāhmaṇa woman are born a Cāṇḍāla (चाण्डाल), a Sūta (सूत), and a Vaidehaka (वैदेहक).",
+          "role": "mixed-caste offspring category"
+        },
+        {
+          "paragraph_id": "p-e9906b",
+          "quote": "The son born to a Brāhmaṇa woman from a Kṣatriya is remembered as a Sūta (सूत), of the next class.",
+          "role": "specific pratiloma offspring"
+        },
+        {
+          "paragraph_id": "p-11a4e8",
+          "quote": "A Sūta (सूत), a Māgadha (मागध), and an Āyogava (आयोगव) are likewise sons born in the reverse order",
+          "role": "listed pratiloma caste"
+        }
+      ],
+      "description": "A pratiloma (hypogamous) mixed caste born from a Brāhmaṇa woman and a Kṣatriya man, listed among the sons born in the reverse order of the varṇas.",
+      "justification": "The Sūta is named consistently as the specific offspring of a Brāhmaṇa woman and a Kṣatriya father in the text's caste-mixture taxonomy."
+    },
+    {
+      "canonical_name": "Niṣāda",
+      "surface_names": ["Niṣāda", "निषाद"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-d79e99",
+          "quote": "An Ugra (उग्र), a Pāraśava (पारशव), and a Niṣāda (निषाद) are born in the regular order (`anulomataḥ`)",
+          "role": "anuloma mixed-caste offspring"
+        }
+      ],
+      "description": "An anuloma (hypergamous) mixed-caste group listed among the offspring of regular-order inter-varṇa unions.",
+      "justification": "The Niṣāda is named as one of three anuloma castes produced in the regular order, establishing its place within the text's systematic caste taxonomy."
+    },
+    {
+      "canonical_name": "Yavana",
+      "surface_names": ["Yavana", "यवन"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-3e2ab0",
+          "quote": "The sons of a Vaiśya woman are the Dauṣṣanta (दौष्षन्त), the Yavana (यवन), and the Āyogava (आयोगव).",
+          "role": "mixed-caste offspring of Vaiśya woman"
+        }
+      ],
+      "description": "A mixed-caste group listed as one of the three sons born of a Vaiśya woman through inter-varṇa unions.",
+      "justification": "The Yavana appears in the systematic list of offspring born of a Vaiśya woman in the context of the text's varṇa-mixture (saṃkara) taxonomy."
+    },
+    {
+      "canonical_name": "Gāndharva marriage",
+      "surface_names": ["Gāndharva", "Gāndharva form", "Gāndharva marriage"],
+      "kind": "event",
+      "mentions": [
+        {
+          "paragraph_id": "p-687a38",
+          "quote": "The mutual desire of a willing man and a willing woman is said to be the fifth form, called Gāndharva.",
+          "role": "definition of consensual marriage form"
+        },
+        {
+          "paragraph_id": "p-3b1b4d",
+          "quote": "The Gāndharva is common to all.",
+          "role": "universally valid marriage form"
+        }
+      ],
+      "description": "The fifth of the eight recognized marriage forms, defined by mutual desire of both parties without parental arrangement, and declared valid for all varṇas.",
+      "justification": "The Gāndharva form is explicitly defined and singled out as the one marriage form common to all classes, making it a distinctive legal category in the text's marriage taxonomy."
+    },
+    {
+      "canonical_name": "Rākṣasa marriage",
+      "surface_names": ["Rākṣasa", "Rākṣasa marriage"],
+      "kind": "event",
+      "mentions": [
+        {
+          "paragraph_id": "p-52c331",
+          "quote": "The Rākṣasa marriage is said to be from forcible abduction.",
+          "role": "definition of forcible marriage form"
+        },
+        {
+          "paragraph_id": "p-3b1b4d",
+          "quote": "The last two are condemned.",
+          "role": "condemned marriage form"
+        }
+      ],
+      "description": "The seventh of the eight marriage forms, characterized by forcible abduction of the bride and condemned as improper.",
+      "justification": "The Rākṣasa marriage is explicitly defined by abduction and grouped with the Paiśāca as condemned forms, marking it as a legally recognized but morally disapproved category."
+    },
+    {
+      "canonical_name": "Paiśāca marriage",
+      "surface_names": ["Paiśāca", "Paiśāca marriage"],
+      "kind": "event",
+      "mentions": [
+        {
+          "paragraph_id": "p-52c331",
+          "quote": "The Paiśāca, the eighth and lowest, is from having intercourse with a sleeping, intoxicated, or mentally disturbed woman.",
+          "role": "definition of the lowest marriage form"
+        }
+      ],
+      "description": "The eighth and lowest marriage form, resulting from intercourse with a woman who is sleeping, intoxicated, or mentally impaired, condemned as the most degraded form.",
+      "justification": "The Paiśāca is explicitly designated the eighth and lowest marriage form, marking the nadir of the text's normative marriage hierarchy."
+    },
+    {
+      "canonical_name": "strīdhana",
+      "surface_names": ["strīdhana", "woman's property", "स्त्रीधन"],
+      "kind": "idea",
+      "mentions": [
+        {
+          "paragraph_id": "p-6afbd3",
+          "quote": "What is given before the nuptial fire, what is given in the bridal procession, the husband's gift, and what is given by the father-in-law and mother-in-law",
+          "role": "definition of strīdhana categories"
+        },
+        {
+          "paragraph_id": "p-8d1a3e",
+          "quote": "Woman's property (`strīdhana` (स्त्रीधन)) goes to her offspring; if she is childless, it goes to her husband",
+          "role": "inheritance rule for strīdhana"
+        },
+        {
+          "paragraph_id": "p-d69f3f",
+          "quote": "A woman who has lost all her property and her woman's property (`strīdhana` (स्त्रीधन)), who has caused an abortion",
+          "role": "strīdhana cited in grounds for abandonment"
+        }
+      ],
+      "description": "The legally recognized category of property exclusively belonging to a woman, defined by its sources (gifts at marriage, husband's gift, in-laws' gifts) and governed by its own inheritance rules.",
+      "justification": "Strīdhana is given a specific definition, its sources are enumerated, and its distinct inheritance path (to offspring first, then husband) is legislated, establishing it as a key legal category."
+    },
+    {
+      "canonical_name": "dāyabhāga",
+      "surface_names": ["dāyabhāga", "Inheritance", "दायभाग"],
+      "kind": "idea",
+      "mentions": [
+        {
+          "paragraph_id": "p-333153",
+          "quote": "When the partition of the paternal estate is undertaken by the sons, that is called 'Inheritance' (`dāyabhāga` (दायभाग))",
+          "role": "definition of the legal topic"
+        }
+      ],
+      "description": "The legal topic covering the partition of a father's estate among his sons, heading the thirteenth chapter of litigation topics in the Nāradasmṛti.",
+      "justification": "Dāyabhāga is defined at the opening of the section on inheritance, establishing it as a formal legal category and naming the litigation topic that organizes subsequent rules."
+    },
+    {
+      "canonical_name": "sāhasam",
+      "surface_names": ["sāhasam", "crime of violence", "sāhasa"],
+      "kind": "idea",
+      "mentions": [
+        {
+          "paragraph_id": "p-1b692b",
+          "quote": "Whatever act is done with force by those puffed up with strength and arrogance, that is called a crime of violence (`sāhasa`)",
+          "role": "definition of the legal category"
+        },
+        {
+          "paragraph_id": "p-73abac",
+          "quote": "It is further known to be of three kinds: the first, the middle, and the highest",
+          "role": "tripartite classification"
+        }
+      ],
+      "description": "The legal category of crimes committed by force or arrogance, subdivided into three grades each carrying distinct punishments up to death.",
+      "justification": "Sāhasa is explicitly defined and then taxonomized into three severity levels, structuring the entire fourteenth chapter of litigation topics."
+    },
+    {
+      "canonical_name": "saṃgrahaṇa",
+      "surface_names": ["saṃgrahaṇa", "adultery", "संग्रहण"],
+      "kind": "idea",
+      "mentions": [
+        {
+          "paragraph_id": "p-fc9fa5",
+          "quote": "When a man is seen together with a woman who has a husband, in another's house, it is known by the wise as adultery (`saṃgrahaṇa`)",
+          "role": "definition of adultery"
+        },
+        {
+          "paragraph_id": "p-abbe82",
+          "quote": "By sending a female messenger, by sending letters, and by other signs of misconduct, all is remembered as adultery (`saṃgrahaṇa`)",
+          "role": "broad evidentiary definition"
+        },
+        {
+          "paragraph_id": "p-98169d",
+          "quote": "By sending food or drink, or clothes, garlands, and likewise perfumes, all is remembered as adultery (`saṃgrahaṇa`)",
+          "role": "extended evidentiary definition"
+        }
+      ],
+      "description": "The legal category of adultery, broadly defined to include not just physical contact but also letters, gifts, messengers, and other communicative acts implying illicit intimacy.",
+      "justification": "Saṃgrahaṇa is defined at the opening of the adultery section and then repeatedly expanded to cover a wide range of indirect acts, constituting a detailed legal doctrine."
+    },
+    {
+      "canonical_name": "varṇasaṃkara",
+      "surface_names": ["varṇasaṃkara", "caste intermixture", "saṃkara", "वर्णसंकर"],
+      "kind": "idea",
+      "mentions": [
+        {
+          "paragraph_id": "p-0d61f6",
+          "quote": "The king must ensure that caste intermixture (`varṇasaṃkara` (वर्णसंकर)) does not occur.",
+          "role": "royal duty to prevent"
+        },
+        {
+          "paragraph_id": "p-d47f47",
+          "quote": "The most sinful in the mixed castes (`saṃkara` (संकर)) is born with two classes in between in the reverse order",
+          "role": "graded sinfulness of saṃkara offspring"
+        }
+      ],
+      "description": "The concept of inter-varṇa mixing producing mixed-caste offspring, treated as a social harm requiring active royal prevention and graded by the degree of class distance in the union.",
+      "justification": "Varṇasaṃkara is named as a royal prevention duty and is the organizing concept behind the entire caste-mixture taxonomy presented in this window."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Regulation of marriage and its eight forms",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-8e0676",
+          "quote": "Eight forms of marriage are declared for the classes, for the sake of the sacrament."
+        },
+        {
+          "paragraph_id": "p-3b1b4d",
+          "quote": "Of these, the first four, beginning with the Brāhma, are declared to be righteous. The Gāndharva is common to all. The last two are condemned."
+        }
+      ],
+      "justification": "The text enumerates all eight marriage forms, evaluates their moral standing, and assigns them differential legal validity, making marriage-form regulation a central organizing theme of the section."
+    },
+    {
+      "topic": "Hierarchy of caste purity and the prohibition of hypogamous unions",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-d583a7",
+          "quote": "Those born in the reverse order (`pratilomāḥ`), such as the Sūta (सूत), who are born from a hypogamous union, are lower and more sinful."
+        },
+        {
+          "paragraph_id": "p-0d61f6",
+          "quote": "The king must ensure that caste intermixture (`varṇasaṃkara`) does not occur."
+        }
+      ],
+      "justification": "The entire caste-mixture taxonomy of this window is organized around the distinction between anuloma (hypergamous, less sinful) and pratiloma (hypogamous, more sinful) unions, framing varṇa purity as a fundamental legal and moral concern."
+    },
+    {
+      "topic": "Legal subordination of women and perpetual male guardianship",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-3d1bc9",
+          "quote": "The father protects her in maidenhood, the husband protects her in youth, the sons protect her in widowhood; a woman does not deserve independence."
+        },
+        {
+          "paragraph_id": "p-c88998",
+          "quote": "Even women born in a noble family are ruined by independence. Therefore, Prajāpati ordained their lack of independence."
+        }
+      ],
+      "justification": "The text repeatedly affirms that women require a male guardian at every life stage, framing female subordination as divinely ordained and legally mandatory."
+    },
+    {
+      "topic": "Rules governing property and inheritance at family partition",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-333153",
+          "quote": "When the partition of the paternal estate is undertaken by the sons, that is called 'Inheritance' (`dāyabhāga`)."
+        },
+        {
+          "paragraph_id": "p-a6166a",
+          "quote": "Of these, six are kinsmen and heirs, and six are not heirs but kinsmen. Each preceding one is remembered as superior."
+        }
+      ],
+      "justification": "Section 13 is entirely devoted to the rules governing partition of paternal estate, preferential shares, excluded categories, and the ordered list of twelve son-types, making inheritance a major substantive theme."
+    },
+    {
+      "topic": "King as ultimate arbiter and enforcer of Dharmic law",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-8eea2d",
+          "quote": "The king should protect the agreements of heretics, corporations, guilds, troops, and other groups, both in fortified towns and in the countryside."
+        },
+        {
+          "paragraph_id": "p-ad01cb",
+          "quote": "When the people prosper, the king's Dharma and treasury increase. When they decline, it declines; therefore, he should strive for their prosperity."
+        },
+        {
+          "paragraph_id": "p-0d61f6",
+          "quote": "The king must ensure that caste intermixture does not occur."
+        }
+      ],
+      "justification": "Across all subsections in this window—land disputes, agreements, marriage, caste, inheritance, and violence—the king is the ultimate enforcer of law, whose prosperity is tied to the people's welfare."
+    },
+    {
+      "topic": "Graded monetary punishments (amercements) calibrated to offense and class",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-9309e9",
+          "quote": "The punishment for the first, depending on the act, is at least one hundred. For the middle, it is known by the wise in the same order."
+        },
+        {
+          "paragraph_id": "p-278324",
+          "quote": "For men, in a transgression with a woman of a higher class, the highest amercement is stated; in the reverse case (with a lower class), the lowest."
+        }
+      ],
+      "justification": "The text systematically calibrates fines by three levels (first, middle, highest amercement) and by varṇa rank of victim and offender, making graded monetary punishment a structural theme across multiple sections."
+    },
+    {
+      "topic": "Seed-and-field doctrine governing ownership of offspring",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-e4d5f5",
+          "quote": "Women were created for the sake of offspring; the woman is the field, and men are the sowers of seed."
+        },
+        {
+          "paragraph_id": "p-90097b",
+          "quote": "When seed is cast into a field without the knowledge of the owner of the field, the owner of the seed has no share in it."
+        },
+        {
+          "paragraph_id": "p-c0c433",
+          "quote": "Without a field, there can be no crop, nor can there be one without seed. Therefore, offspring is desired by Dharma to belong to both."
+        }
+      ],
+      "justification": "The text explicitly deploys the seed-and-field metaphor as a legal doctrine for determining paternity and ownership of offspring, extending it across multiple analogical cases including purchased women and wandering bulls."
+    },
+    {
+      "topic": "Niyoga — appointed levirate conception to prevent family extinction",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-2e11bf",
+          "quote": "If the husband of a woman who has not borne children should die, she, being appointed by her elders, should go to her brother-in-law."
+        },
+        {
+          "paragraph_id": "p-4a33ff",
+          "quote": "But when the family is on the verge of extinction, for the sake of progeny and not out of lust, a man, appointed by his elders, may approach a kinsman's wife."
+        }
+      ],
+      "justification": "The text devotes several consecutive rules to the levirate practice (niyoga), regulating when it is permitted, how it must be conducted, and what offenses arise from deviating from the procedure."
+    },
+    {
+      "topic": "Determination of land boundaries and resolution of agricultural disputes",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-26a4dc",
+          "quote": "In a dispute over a field boundary, the decision should come from the neighbors, the elders of the town and village, and those who know the marks."
+        },
+        {
+          "paragraph_id": "p-ed7440",
+          "quote": "They should determine the boundary by the marks that indicate it: by chaff, charcoal, potsherds, jars, sacred sites, and trees."
+        }
+      ],
+      "justification": "Section 11 is wholly devoted to boundary determination, fallow field rules, dam rights, and crop damage, making agricultural land law a distinct and substantive theme in this window."
+    },
+    {
+      "topic": "Corporate and guild governance (puga, śreṇi) and limits of their autonomy",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-ec653b",
+          "quote": "The established rules of heretics, corporations, and others are called an 'agreement.' The violation of that agreement is called 'Breach of an Agreement.'"
+        },
+        {
+          "paragraph_id": "p-c2dc84",
+          "quote": "But what is contrary to the king's interest, what is despised by the people, and what is detrimental to their own interest, the king should not approve."
+        }
+      ],
+      "justification": "Section 10 explicitly addresses how the king should protect the internal rules of guilds and corporations while retaining authority to override rules contrary to royal interest or public welfare."
+    },
+    {
+      "topic": "Impotency classifications and their legal consequences for marriage",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-7d8d65",
+          "quote": "The wise have identified fourteen kinds of impotent men in the sacred texts. They are classified as curable and incurable."
+        },
+        {
+          "paragraph_id": "p-997180",
+          "quote": "The other four, beginning with the one impotent out of jealousy, should be abandoned like outcasts, even by a wife whose husband is alive."
+        }
+      ],
+      "justification": "The text devotes multiple consecutive verses to a fourteen-fold taxonomy of impotency, its curability, and the specific legal remedies available to wives in each case, making this a focused legal-medical sub-theme."
+    },
+    {
+      "topic": "Pollution and moral hierarchy of mixed-caste (pratiloma vs. anuloma) offspring",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-d47f47",
+          "quote": "The most sinful in the mixed castes (`saṃkara`) is born with two classes in between in the reverse order (`prātilomyena`)"
+        },
+        {
+          "paragraph_id": "p-95d6a5",
+          "quote": "The birth that occurs in the regular order (`ānulomyena`) of the classes is remembered as the rule. The birth in the reverse order is remembered as the exception."
+        }
+      ],
+      "justification": "Although not explicitly labeled, the entire caste-mixture section is implicitly structured around a pollution gradient — the greater the class distance and the more hypogamous the union, the more sinful the offspring — an implicit moral logic underlying the taxonomy."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Nāradasmṛti",
+      "cited_author": "Nārada",
+      "stance": "authority",
+      "paragraph_id": "p-a0be1a",
+      "quote": "For violating an unwilling maiden, the punishment is the cutting off of two fingers. For violating a woman of a higher class, the middle amercement. (Nar. 12.71)",
+      "justification": "The verse reference '(Nar. 12.71)' embedded in the translated text is a self-citation marker indicating the text's own canonical verse numbering, attesting to an underlying Sanskrit source structure."
+    },
+    {
+      "cited_work": "Nāradasmṛti",
+      "cited_author": "Nārada",
+      "stance": "authority",
+      "paragraph_id": "p-662211",
+      "quote": "He who is a man with another woman but not a man with his own wife, she may take another husband. This is the ordinance of Nārada. (Nar. 12.19)",
+      "justification": "The explicit attribution 'This is the ordinance of Nārada' together with the verse number (Nar. 12.19) constitutes an internal self-citation establishing Nārada as the named authority for this specific ruling."
+    }
+  ]
+}

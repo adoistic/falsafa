@@ -1,0 +1,44 @@
+{
+  "work_slug": "francis-fawkes-poems-cae374",
+  "work_title": "Poems",
+  "chapter_number": 2,
+  "chapter_title": "A VERNAL ODE. Sent to his Grace the Lord Archbishop of CANTERBURY, March 12, 1754.",
+  "chapter_slug": "02-a-vernal-ode-sent-to-his-grace-the-lord-archbish",
+  "author": "Francis Fawkes",
+  "author_slug": "francis-fawkes",
+  "ecpa_poem_id": "o5155-w0600",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "octet (8 lines)"
+    ],
+    "rhyme": "ababccdd",
+    "syllable_pattern": "8.6.8.6.8.8.10.12",
+    "metrical_pattern": "-+|-+|-+|-+/         -+|-+|-+/         -+|-+|-+|-+/         -+|-+|-+/         -+|-+|-+|-+/         -+|-+|-+|-+/         -+|-+|-+|-+|-+/         -+|-+|-+|-+|-+|-+/",
+    "line_count": 40
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ce5731b2-46ee-5bdb-8acd-85d03a1a694f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 277,
+      "line_count": 47,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

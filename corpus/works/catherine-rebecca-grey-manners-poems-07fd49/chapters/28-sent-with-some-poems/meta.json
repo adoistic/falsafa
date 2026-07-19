@@ -1,0 +1,44 @@
+{
+  "work_slug": "catherine-rebecca-grey-manners-poems-07fd49",
+  "work_title": "Poems",
+  "chapter_number": 28,
+  "chapter_title": "Sent with Some Poems.",
+  "chapter_slug": "28-sent-with-some-poems",
+  "author": "Catherine Rebecca Grey Manners",
+  "author_slug": "catherine-rebecca-grey-manners",
+  "ecpa_poem_id": "pcm93-w0280",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "address"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 22
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6f2336d9-2620-50cd-ba7a-e6c20809dafa",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 137,
+      "line_count": 23,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

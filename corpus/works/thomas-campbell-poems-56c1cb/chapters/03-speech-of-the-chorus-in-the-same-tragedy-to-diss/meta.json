@@ -1,0 +1,44 @@
+{
+  "work_slug": "thomas-campbell-poems-56c1cb",
+  "work_title": "Poems",
+  "chapter_number": 3,
+  "chapter_title": "SPEECH OF THE CHORUS, In the same Tragedy, to dissuade Medea from her purpose of putting her children to death, and flying for protection to Athens.",
+  "chapter_slug": "03-speech-of-the-chorus-in-the-same-tragedy-to-diss",
+  "author": "Thomas Campbell",
+  "author_slug": "thomas-campbell",
+  "ecpa_poem_id": "n27tc-w0030",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "fragment"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "10.10.10.10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/",
+    "line_count": 100
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "eb20277b-da61-5c48-8b68-e27435e28852",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 745,
+      "line_count": 106,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "work_slug": "william-shakespeare-sonnets-65f289",
+  "work_title": "Sonnets",
+  "chapter_number": 2,
+  "chapter_title": "Sonnet 2",
+  "chapter_slug": "002-sonnet-2",
+  "incipit": "When forty winters shall besiege thy brow,",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d021d26a-d81e-54cf-a10c-d7195d65b7e1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 115,
+      "line_count": 14,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1041",
+      "license": "Public domain — from Project Gutenberg (https://www.gutenberg.org)"
+    }
+  ]
+}

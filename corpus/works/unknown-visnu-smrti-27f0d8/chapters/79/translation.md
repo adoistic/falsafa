@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 79**
+**Viṣṇu Smriti 79**
 
 Now, one shall not perform a *śrāddha* (श्राद्ध) with water collected at night. // Vi_79.1 //
 

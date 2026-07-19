@@ -1,0 +1,44 @@
+{
+  "work_slug": "joseph-warton-poems-369668",
+  "work_title": "Poems",
+  "chapter_number": 6,
+  "chapter_title": "ODE TO THE NIGHTINGALE.",
+  "chapter_slug": "06-ode-to-the-nightingale",
+  "author": "Joseph Warton",
+  "author_slug": "joseph-warton",
+  "ecpa_poem_id": "o4985-w0450",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "sestet (6 lines)"
+    ],
+    "rhyme": "aabbcc",
+    "syllable_pattern": "8.8.8.8.8.8",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/",
+    "line_count": 24
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "738d2169-0aad-5ab9-b719-7d893c07b164",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 149,
+      "line_count": 26,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

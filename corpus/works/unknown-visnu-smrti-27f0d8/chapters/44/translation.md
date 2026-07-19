@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 44**
+**Viṣṇu Smriti 44**
 
 Now, for sinful souls who have experienced suffering in the hells, there are births as animals. // Vi_44.1 //
 

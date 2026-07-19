@@ -1,0 +1,40 @@
+{
+  "work_slug": "sneyd-davies-poems-848580",
+  "work_title": "Poems",
+  "chapter_number": 8,
+  "chapter_title": "To C*** P****, Esq;",
+  "chapter_slug": "08-to-c-p-esq",
+  "author": "Sneyd Davies",
+  "author_slug": "sneyd-davies",
+  "ecpa_poem_id": "o5157-w0590",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "blank verse"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 57
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f9a4507b-faab-563f-bdfa-92862e9fd88e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 415,
+      "line_count": 58,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

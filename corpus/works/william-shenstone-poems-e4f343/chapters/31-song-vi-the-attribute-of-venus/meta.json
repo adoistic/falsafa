@@ -1,0 +1,44 @@
+{
+  "work_slug": "william-shenstone-poems-e4f343",
+  "work_title": "Poems",
+  "chapter_number": 31,
+  "chapter_title": "SONG VI. The Attribute of VENUS.",
+  "chapter_slug": "31-song-vi-the-attribute-of-venus",
+  "author": "William Shenstone",
+  "author_slug": "william-shenstone",
+  "ecpa_poem_id": "o5156-w0125",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "song"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "aabb",
+    "syllable_pattern": "8.8.8.8",
+    "metrical_pattern": "-+|-+|-+|-+/          -+|-+|-+|-+/          -+|-+|-+|-+/          -+|-+|-+|-+/",
+    "line_count": 16
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "81439b64-8085-561e-89e3-7e27e328b1e5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 111,
+      "line_count": 17,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

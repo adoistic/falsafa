@@ -30,7 +30,7 @@ A document should be made with witnesses, with an uninterrupted sequence of lett
 
 A document that is endowed with proper letters, sentences, and action, is unambiguous, has clear letters, and is without missing sequences or marks, attains validity. // K_253 //
 
-The established custom of learned Brahmins, cities, guilds, assemblies, and citizens—a document made to validate this would be a document of convention. // K_254 //
+The established custom of learned Brāhmaṇas, cities, guilds, assemblies, and citizens—a document made to validate this would be a document of convention. // K_254 //
 
 When people have been cleared of an accusation and have performed the prescribed penance, the document of purification, accompanied by witnesses, is to be known as given to them. // K_255 //
 

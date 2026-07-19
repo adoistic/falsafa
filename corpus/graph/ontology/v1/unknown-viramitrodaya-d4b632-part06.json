@@ -1,0 +1,1153 @@
+{
+  "slug": "unknown-viramitrodaya-d4b632",
+  "window": "01:767-1019",
+  "entities": [
+    {
+      "canonical_name": "Viṣṇu",
+      "surface_names": ["Hari", "Janārdana", "Vāsudeva"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-241d66",
+          "quote": "one should fast on the Ekādaśī, not on the pure Vaiṣṇavī (tithi) itself",
+          "role": "deity whose observance the tithi-rules serve"
+        },
+        {
+          "paragraph_id": "p-25d864",
+          "quote": "both tithis should be fasted on there by those devoted to pleasing Viṣṇu",
+          "role": "object of devotion motivating the double-fast rule"
+        },
+        {
+          "paragraph_id": "p-bafacf",
+          "quote": "The first quarter of Dvādaśī is called Harivāsara. Having transgressed that, one devoted to Viṣṇu should perform the pāraṇa",
+          "role": "deity whose residence-time (Harivāsara) governs the pāraṇa"
+        },
+        {
+          "paragraph_id": "p-997017",
+          "quote": "on Dvādaśī, the offering of the sacred thread to Vāsudeva is remembered",
+          "role": "recipient of the pavitrāropaṇa rite"
+        },
+        {
+          "paragraph_id": "p-cdf67c",
+          "quote": "having fasted on Ekādaśī, one should worship Hari on Dvādaśī there",
+          "role": "deity worshipped on Śravaṇa-dvādaśī"
+        },
+        {
+          "paragraph_id": "p-db9812",
+          "quote": "There is no violation of the rule there; the deity of both is Hari",
+          "role": "deity presiding over both Ekādaśī and Dvādaśī fasts"
+        }
+      ],
+      "description": "The deity Viṣṇu (also called Hari, Janārdana, Vāsudeva) is the principal cultic focus of the Ekādaśī and Dvādaśī vow-rules discussed throughout this window.",
+      "justification": "Viṣṇu is explicitly named as the deity of both Ekādaśī and Dvādaśī fasts and is the recipient of worship prescribed across numerous injunctions in this section."
+    },
+    {
+      "canonical_name": "Nṛsiṃha",
+      "surface_names": ["Nṛsiṃha"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-902294",
+          "quote": "In the bright fortnight of Vaiśākha, on Caturdaśī, at the face of the night, is the meritorious vow of my birth, which destroys sin",
+          "role": "deity whose birth-anniversary (Nṛsiṃha-caturdaśī) is the vow being defined"
+        },
+        {
+          "paragraph_id": "p-25b752",
+          "quote": "this is obligatory only for worshippers of Nṛsiṃha",
+          "role": "deity whose devotees are the prescribed observers"
+        },
+        {
+          "paragraph_id": "p-840893",
+          "quote": "All the social classes have the right to my vow. By my devotees, devoted to me, it should be performed with special care",
+          "role": "speaker and subject of the Nṛsiṃha-jayantī injunction"
+        }
+      ],
+      "description": "Nṛsiṃha (the man-lion avatāra of Viṣṇu) is the deity of the Nṛsiṃha-caturdaśī vow, whose birth-tithi falls on the bright Caturdaśī of Vaiśākha and is to be observed especially by His worshippers.",
+      "justification": "Nṛsiṃha is cited as the speaking deity in the Nṛsiṃha Purāṇa, declaring the Caturdaśī as the tithi of his birth and the vow as incumbent on his devotees."
+    },
+    {
+      "canonical_name": "Yama",
+      "surface_names": ["Yama"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-b3b8b7",
+          "quote": "their abode is in the city of Yama until the dissolution of the elements",
+          "role": "deity of death whose city is the punishment for non-performance of the eight Dvādaśīs"
+        },
+        {
+          "paragraph_id": "p-c29cf1",
+          "quote": "one should place a lamp for Yama outside; untimely death is destroyed",
+          "role": "deity propitiated on dark Kārtika Trayodaśī by lamp-offering"
+        }
+      ],
+      "description": "Yama, the deity of death, appears as both the punishing authority for those who skip the eight Mahādvādaśīs and the recipient of the lamp-offering on Kārtika Kṛṣṇa Trayodaśī.",
+      "justification": "Yama is explicitly named in two distinct contexts — as lord of the city of punishment for neglecting Dvādaśīs and as the recipient of the Dīpa rite on Trayodaśī."
+    },
+    {
+      "canonical_name": "Śiva",
+      "surface_names": ["Rudra", "Śiva", "Śūlabhṛt"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-a8afb2",
+          "quote": "having then gone to the place of worship, should worship Śiva in the evening",
+          "role": "deity worshipped during Śani-trayodaśī"
+        },
+        {
+          "paragraph_id": "p-376a0a",
+          "quote": "Caturdaśī should be performed when conjoined with Trayodaśī, O Lord! by my devotees, O mighty-armed one",
+          "role": "deity speaking the injunction for Caturdaśī in Skanda Purāṇa"
+        },
+        {
+          "paragraph_id": "p-cafc94",
+          "quote": "In all vows to Rudra, the tithi that is facing should be performed",
+          "role": "deity whose vow-rules prescribe the facing tithi"
+        },
+        {
+          "paragraph_id": "p-3eeb7a",
+          "quote": "Because at night, O Śūlabhṛt, the Bhūtas and Śaktis roam, therefore, on that Caturdaśī, when it is present, their worship should be performed",
+          "role": "deity addressed in a verse explaining why Caturdaśī requires night pervasion"
+        }
+      ],
+      "description": "Śiva (also Rudra, Śūlabhṛt) is the deity of the Trayodaśī and Caturdaśī vow-rules in the Śaiva context, with specific tithi-selection principles differing from Vaiṣṇava ones.",
+      "justification": "Śiva is the named recipient of worship in Śani-trayodaśī, and is cited as the speaker prescribing Caturdaśī rules for 'my devotees' in the Skanda Purāṇa."
+    },
+    {
+      "canonical_name": "Kāma",
+      "surface_names": ["Kāma", "Anaṅga", "Madana"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-52d5aa",
+          "quote": "This was performed by Anaṅga (Kāma); therefore, it is Anaṅga-trayodaśī",
+          "role": "deity who first performed the Mārgaśīrṣa Trayodaśī vow, giving it its name"
+        },
+        {
+          "paragraph_id": "p-a71956",
+          "quote": "Madana-trayodaśī in Caitra, however, should be taken when it pervades midday",
+          "role": "deity whose festival determines the time-rule for Caitra Trayodaśī"
+        }
+      ],
+      "description": "Kāma (Anaṅga, Madana), the deity of desire, is identified as the original performer of the Mārgaśīrṣa Śukla Trayodaśī vow, which accordingly bears his name Anaṅga-trayodaśī.",
+      "justification": "The Viṣṇu Purāṇa passage explicitly equates Anaṅga with Kāma and states that the vow is named after him because he was its first performer."
+    },
+    {
+      "canonical_name": "Mādhava",
+      "surface_names": ["Mādhava"],
+      "kind": "figure",
+      "figure_kind": "scholar",
+      "mentions": [
+        {
+          "paragraph_id": "p-5cc3e5",
+          "quote": "Mādhava, however, states eight kinds",
+          "role": "authority whose classification of Ekādaśī types is under discussion"
+        },
+        {
+          "paragraph_id": "p-d0fc14",
+          "quote": "Anantabhaṭṭa, Mādhava, and others are in disagreement on this point",
+          "role": "one of the disagreeing authorities on the long Ekādaśī rule"
+        },
+        {
+          "paragraph_id": "p-2821a4",
+          "quote": "Mādhava, however, says that from this verse, this regulation applies even to a conjoined tithi",
+          "role": "authority asserting the applicability of the Praceta verse to conjoined tithis"
+        },
+        {
+          "paragraph_id": "p-31b18d",
+          "quote": "This is from a verse cited by Mādhava: For all fasts, the pāraṇa is indeed at dawn",
+          "role": "authority citing the general pāraṇa-at-dawn rule"
+        },
+        {
+          "paragraph_id": "p-ca77d1",
+          "quote": "having performed the pāraṇa conjoined with the Ekādaśī fast with water, one should begin the Dvādaśī vow, says Mādhava",
+          "role": "authority prescribing procedure when Ekādaśī and Dvādaśī fasts fall on different days"
+        }
+      ],
+      "description": "Mādhava is a prominent dharmaśāstra authority (likely Mādhavācārya, commentator on smṛti) whose views on Ekādaśī classification, conjoined-tithi rules, and pāraṇa timing are repeatedly cited and engaged.",
+      "justification": "Mādhava is named five times in this window as an independent opinant on specific tithi-determination questions, distinguishing his positions from those of Hemādri and Anantabhaṭṭa."
+    },
+    {
+      "canonical_name": "Hemādri",
+      "surface_names": ["Hemādri"],
+      "kind": "figure",
+      "figure_kind": "scholar",
+      "mentions": [
+        {
+          "paragraph_id": "p-59d6b9",
+          "quote": "Hemādri, however, says that in this second case, the verses enjoining a fast on a pure Ekādaśī apply to a householder, while those enjoining a fast on a pure Dvādaśī apply to an ascetic",
+          "role": "authority distinguishing gṛhastha/yati rules for the second Ekādaśī case"
+        },
+        {
+          "paragraph_id": "p-6dd6c4",
+          "quote": "the verse of the Bhaviṣya Purāṇa cited by Hemādri is consistent",
+          "role": "source of a Bhaviṣya Purāṇa citation supporting the equality-case rule"
+        },
+        {
+          "paragraph_id": "p-e7c81e",
+          "quote": "even if the conjunction with Śravaṇa is at any time, the resolve is at dawn, says Hemādri",
+          "role": "authority ruling that the saṅkalpa for Śravaṇa-dvādaśī is always at dawn"
+        },
+        {
+          "paragraph_id": "p-05d78a",
+          "quote": "Hemādri, however, says it applies to the first commencement",
+          "role": "authority interpreting the kapāla-vedha verse as applying to first-time performers"
+        },
+        {
+          "paragraph_id": "p-0d0571",
+          "quote": "In the Hemādri, however, the reading is 'not touching Śravaṇa'",
+          "role": "source with a divergent textual reading of the Mātsya Purāṇa verse"
+        }
+      ],
+      "description": "Hemādri (the thirteenth-century nibandha author of Caturvargacintāmaṇi) is a major authority cited for his textual readings and rulings on Ekādaśī, Dvādaśī, and related vow-determination questions.",
+      "justification": "Hemādri is named five times in this window, each time as an independent scholarly voice whose textual readings or legal rulings the Vīramitrodaya discusses or corroborates."
+    },
+    {
+      "canonical_name": "Anantabhaṭṭa",
+      "surface_names": ["Anantabhaṭṭa"],
+      "kind": "figure",
+      "figure_kind": "scholar",
+      "mentions": [
+        {
+          "paragraph_id": "p-d0fc14",
+          "quote": "Anantabhaṭṭa, Mādhava, and others are in disagreement on this point",
+          "role": "one of the disagreeing authorities on the long Ekādaśī rule"
+        },
+        {
+          "paragraph_id": "p-59d7de",
+          "quote": "This is from a smṛti verse cited by Anantabhaṭṭa: One who fasts on a conjoined tithi, having abandoned eating for the day, with a composed mind, should worship Viṣṇu at night",
+          "role": "authority who cites a smṛti verse on night-worship for conjoined-tithi fasts"
+        },
+        {
+          "paragraph_id": "p-19be56",
+          "quote": "the mention of 'fast' should also be interpreted as being for the purpose of prohibiting a fast in the form of a resolve at dawn, not for the purpose of prohibiting the fast itself, says Anantabhaṭṭa",
+          "role": "authority interpreting the kapāla-vedha fast-prohibition verse"
+        }
+      ],
+      "description": "Anantabhaṭṭa is a dharmaśāstra authority cited in the Vīramitrodaya for his citations of smṛti verses and his interpretive positions on Ekādaśī-conjunction and kapāla-vedha rules.",
+      "justification": "Anantabhaṭṭa is named three times in this window as an independent scholarly voice disagreeing with or supplementing other authorities."
+    },
+    {
+      "canonical_name": "Ācāryacūḍāmaṇi",
+      "surface_names": ["Ācāryacūḍāmaṇi"],
+      "kind": "figure",
+      "figure_kind": "scholar",
+      "mentions": [
+        {
+          "paragraph_id": "p-8d310c",
+          "quote": "this verse, not being cited by Ācāryacūḍāmaṇi and others, is baseless; or, if it has a basis, it can be justified as applying to one who does not desire liberation",
+          "role": "authority whose non-citation of the Kūrma Purāṇa verse is used to question its validity"
+        }
+      ],
+      "description": "Ācāryacūḍāmaṇi is a respected dharmaśāstra authority whose silence on a particular Kūrma Purāṇa verse is invoked by the Vīramitrodaya to cast doubt on its authenticity.",
+      "justification": "The author uses Ācāryacūḍāmaṇi's non-citation of the Kūrma Purāṇa verse as evidence of the verse's questionable authority."
+    },
+    {
+      "canonical_name": "Gauḍas",
+      "surface_names": ["Gauḍas"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-98fe07",
+          "quote": "The Gauḍas, however, reading the second half as: When the moon is in a state of decrease of the fortnight, one should skip the one conjoined with Daśamī",
+          "role": "regional scholarly community with a divergent textual reading and interpretation"
+        },
+        {
+          "paragraph_id": "p-fba7a8",
+          "quote": "say that in the bright fortnight, one conjoined with Daśamī should be rejected, but in the dark fortnight, one conjoined with Daśamī should be accepted",
+          "role": "group whose regional ruling on fortnight-distinction is being refuted"
+        }
+      ],
+      "description": "The Gauḍas are a regional school of dharmaśāstra interpreters (from the Gauḍa/Bengal region) who adopt a divergent reading of the Brahmavaivarta Purāṇa verse to distinguish bright and dark fortnight rules for conjoined-Daśamī Ekādaśī.",
+      "justification": "The Gauḍas are named as a distinct interpreting community whose regional reading of the Brahmavaivarta verse leads to rulings that the Vīramitrodaya proceeds to refute."
+    },
+    {
+      "canonical_name": "Nārada",
+      "surface_names": ["Nārada"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-c42442",
+          "quote": "This is from the statement of Nārada: Where there is a complete Ekādaśī, and at dawn it is present again, the succeeding day should be performed by all",
+          "role": "smṛti authority cited for the third-case (both Ekādaśīs long) rule"
+        },
+        {
+          "paragraph_id": "p-beb311",
+          "quote": "This is from the statement of Nārada: On the first day, it is complete, pervading the entire day and night. And on Dvādaśī, O Tāta, it is seen again. The preceding day should be performed by householders, and the succeeding by ascetics",
+          "role": "smṛti authority cited for the fourth-case householder/ascetic distinction"
+        },
+        {
+          "paragraph_id": "p-36e674",
+          "quote": "This is from the statement of Nārada: If, by chance, three tithis are accomplished on one Ekādaśī day, there, the merit is of a hundred sacrifices",
+          "role": "smṛti authority cited for the three-tithi-in-one-day rule"
+        }
+      ],
+      "description": "Nārada is a sage and smṛti authority whose statements on Ekādaśī determination (the long-Ekādaśī and householder/ascetic distinctions) are frequently cited as direct proof-texts.",
+      "justification": "Nārada is named three times in this window as an authoritative source of injunctions governing the timing of Ekādaśī observance in specific edge-cases."
+    },
+    {
+      "canonical_name": "Mārkaṇḍeya",
+      "surface_names": ["Mārkaṇḍeya"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-02a6c8",
+          "quote": "This is from the statement of Mārkaṇḍeya: Where there is a complete Ekādaśī, and at dawn it is present again, one with desire should fast on the preceding day; one without desire should observe the succeeding one",
+          "role": "smṛti authority cited for the desire/desirelessness-based distinction"
+        }
+      ],
+      "description": "Mārkaṇḍeya is a sage authority cited for a verse distinguishing between observers with desire (sakāma) and without desire (niṣkāma) in the context of the double Ekādaśī rule.",
+      "justification": "Mārkaṇḍeya is named as the source of a verse that introduces the sakāma/niṣkāma interpretive lens into the Ekādaśī discussion."
+    },
+    {
+      "canonical_name": "Ṛṣyaśṛṅga",
+      "surface_names": ["Ṛṣyaśṛṅga"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-eb483b",
+          "quote": "And from the statement of Ṛṣyaśṛṅga: If Ekādaśī is not available and Dvādaśī is complete, the one conjoined with Daśamī should be fasted on; the sage Uddālaka has said so",
+          "role": "smṛti authority cited for the conjoined-tithi counter-injunction at sunrise"
+        }
+      ],
+      "description": "Ṛṣyaśṛṅga is a Vedic sage authority whose verse permitting a Daśamī-conjoined Ekādaśī fast when a pure Ekādaśī is unavailable is cited to counter the blanket prohibition of conjoined tithis.",
+      "justification": "Ṛṣyaśṛṅga is named as the author of the counter-injunction for conjoined-tithi fasts, with his verse cited to refute the claim that conjoined tithis are never enjoined."
+    },
+    {
+      "canonical_name": "Uddālaka",
+      "surface_names": ["Uddālaka"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-eb483b",
+          "quote": "the one conjoined with Daśamī should be fasted on; the sage Uddālaka has said so",
+          "role": "sage authority invoked within Ṛṣyaśṛṅga's verse as additional support"
+        }
+      ],
+      "description": "Uddālaka is a Vedic sage cited within Ṛṣyaśṛṅga's verse as an additional authority endorsing the permissibility of fasting on a Daśamī-conjoined Ekādaśī when no pure Ekādaśī is available.",
+      "justification": "Uddālaka is named inside Ṛṣyaśṛṅga's injunction, serving as a corroborating sage authority for the rule on conjoined-tithi acceptability."
+    },
+    {
+      "canonical_name": "Praceta",
+      "surface_names": ["Praceta"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-0a2e3d",
+          "quote": "As for the verse of Praceta: If Ekādaśī has increased, especially in the bright or dark fortnight, an ascetic should perform the succeeding one; a householder should fast on the preceding one",
+          "role": "smṛti authority whose verse on increased Ekādaśī is interpreted in relation to pure tithis"
+        }
+      ],
+      "description": "Praceta is a smṛti authority whose verse on the increased Ekādaśī is cited and interpreted in the context of the householder/ascetic distinction for pure versus conjoined tithis.",
+      "justification": "Praceta is named as the source of a verse that the Vīramitrodaya limits to the case of pure tithis, against Mādhava's broader application."
+    },
+    {
+      "canonical_name": "Sumantu",
+      "surface_names": ["Sumantu"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-c59344",
+          "quote": "As for the verse of Sumantu: Even in a day-elision, a pure Dvādaśī should be fasted on by those who desire liberation. An Ekādaśī conjoined with Daśamī should never be fasted on",
+          "role": "smṛti authority whose verse is reinterpreted to apply only to cases of equality, not elision"
+        }
+      ],
+      "description": "Sumantu is a smṛti authority whose verse prescribing a pure Dvādaśī fast even in a day-elision is harmonized with the Padma Purāṇa by the Vīramitrodaya through a metaphorical reading of 'elision'.",
+      "justification": "Sumantu's verse is specifically cited and reinterpreted to avoid contradiction with the Padma Purāṇa's rule for the conjoined-tithi fast in the kṣaya case."
+    },
+    {
+      "canonical_name": "Vṛddha Parāśara",
+      "surface_names": ["Vṛddha Parāśara"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-9741c8",
+          "quote": "This is from the statement of Vṛddha Parāśara: When Ekādaśī has increased and Dvādaśī has undergone elision, that Dvādaśī is known as elided; a night-meal is enjoined there",
+          "role": "smṛti authority prescribing nakta (night-meal) in the case of Dvādaśī elision for those with sons"
+        }
+      ],
+      "description": "Vṛddha Parāśara ('Elder Parāśara') is a smṛti authority whose verse prescribing a night-meal in place of a fast for the elided Dvādaśī case is cited to specify the alternative observance for householders with sons.",
+      "justification": "Vṛddha Parāśara is named as the source of the nakta rule when the elided Dvādaśī prohibits a full fast."
+    },
+    {
+      "canonical_name": "Vasiṣṭha",
+      "surface_names": ["Vasiṣṭha", "Vṛddha Vasiṣṭha"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-8a1053",
+          "quote": "As for what is stated by Vṛddha Vasiṣṭha: Dvitīyā, Pañcamī, Vedha, Daśamī, and Trayodaśī, and Caturdaśī, for a fast, destroy the preceding and succeeding tithis",
+          "role": "smṛti authority whose general tithi-destruction rule is limited to bright Trayodaśī"
+        },
+        {
+          "paragraph_id": "p-b424c4",
+          "quote": "Thus said Vasiṣṭha: Ekādaśī, Tṛtīyā, and Ṣaṣṭhī, and also Trayodaśī, should be performed even if conjoined with the preceding day, if they are not on the next day",
+          "role": "smṛti authority permitting conjoined-preceding-day Trayodaśī when the pure day is absent"
+        }
+      ],
+      "description": "Vasiṣṭha (and his elder form Vṛddha Vasiṣṭha) is a smṛti authority cited for general tithi-determination rules, particularly regarding which tithis accept the preceding or succeeding conjunction.",
+      "justification": "Vasiṣṭha is cited twice in the Trayodaśī section, providing both a general rule that the Vīramitrodaya limits to the bright fortnight and a specific counter-rule for cases of absence."
+    },
+    {
+      "canonical_name": "Gārgya",
+      "surface_names": ["Gārgya"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-011486",
+          "quote": "And from the verse of Gārgya: Ekādaśī and Ṣaṣṭhī, Amāvāsyā and Caturthikā should be fasted on when conjoined with the succeeding day; the others, when conjoined with the preceding",
+          "role": "smṛti authority providing a general rule on succeeding-day vs preceding-day conjunctions"
+        }
+      ],
+      "description": "Gārgya is a smṛti authority cited for a verse classifying tithis into those requiring the succeeding-day conjunction and those requiring the preceding-day conjunction.",
+      "justification": "Gārgya is named as the source of a general classification verse used to establish the default Dvādaśī conjunction rule."
+    },
+    {
+      "canonical_name": "Pojha",
+      "surface_names": ["Pojha"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-07c81c",
+          "quote": "This is from the statement of Pojha: The Ekādaśī tithi should be performed when joined with Dvādaśī in all cases, whether Dvādaśī is present on Trayodaśī or not",
+          "role": "smṛti authority cited for the all-cases rule when Ekādaśī is long and conjoined with Dvādaśī"
+        }
+      ],
+      "description": "Pojha is a smṛti authority cited for a verse enjoining the Dvādaśī-conjoined Ekādaśī fast in all circumstances regardless of whether Dvādaśī extends to Trayodaśī.",
+      "justification": "Pojha is named as the source of the all-cases injunction applied to the long-Ekādaśī / not-long-Dvādaśī case."
+    },
+    {
+      "canonical_name": "Jāvāli",
+      "surface_names": ["Jāvāli"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-90857d",
+          "quote": "And from the verse of Jāvāli: When a tithi always pervades the evening on both days, the night-meal should be on the succeeding one, because it is on both",
+          "role": "smṛti authority cited for the rule that when a tithi pervades the evening on both days, the succeeding day governs"
+        }
+      ],
+      "description": "Jāvāli is a smṛti authority cited for the rule that when a tithi pervades both days' evenings, the succeeding day takes precedence for the night-meal observance.",
+      "justification": "Jāvāli is named as the source of the evening-pervasion tie-breaking rule in the context of Śani-trayodaśī."
+    },
+    {
+      "canonical_name": "Saṃvarta",
+      "surface_names": ["Saṃvarta"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-18c078",
+          "quote": "from the verse of Saṃvarta: Kṛṣṇāṣṭamī, Bṛhattapā, Sāvitrī, Vaṭapaitṛkī, Anaṅga-trayodaśī, and Rambhā should be fasted on when conjoined with the preceding day",
+          "role": "smṛti authority cited to extend the evening-conjunction acceptance for Anaṅga-trayodaśī"
+        }
+      ],
+      "description": "Saṃvarta is a smṛti authority whose verse listing vow-days that accept the preceding-day conjunction is used to justify accepting an evening-conjoined Anaṅga-trayodaśī.",
+      "justification": "Saṃvarta's verse is cited to explain why the Anaṅga-trayodaśī rule goes beyond what the general afternoon-pervasion rule would yield."
+    },
+    {
+      "canonical_name": "Baudhāyana",
+      "surface_names": ["Baudhāyana"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-4924a5",
+          "quote": "And so, Baudhāyana says: The bright Caturdaśī of the month of Madhu (Caitra) and Śrāvaṇa, that should be taken when it pervades the night; the succeeding one goes to the forenoon",
+          "role": "smṛti authority cited for the night-pervasion rule of bright Caturdaśī in Caitra and Śrāvaṇa"
+        }
+      ],
+      "description": "Baudhāyana is a smṛti authority cited for the rule that the bright Caturdaśīs of Caitra and Śrāvaṇa are determined by night-pervasion, not the general afternoon rule.",
+      "justification": "Baudhāyana is named as the source of the night-pervasion exception for two specific bright Caturdaśīs."
+    },
+    {
+      "canonical_name": "Āpastamba",
+      "surface_names": ["Āpastamba"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-4d2eee",
+          "quote": "Āpastamba says: Aṣṭamī in the dark fortnight, and Caturdaśī in the dark fortnight, should be performed when conjoined with the preceding day; never when conjoined with the succeeding",
+          "role": "smṛti authority cited for the dark-fortnight Caturdaśī preceding-day rule"
+        }
+      ],
+      "description": "Āpastamba is a foundational smṛti authority cited for the rule that dark-fortnight Aṣṭamī and Caturdaśī must be observed on the day conjoined with the preceding tithi.",
+      "justification": "Āpastamba is named as the source of the dark-fortnight Caturdaśī preceding-day rule, which is used to harmonize conflicting later Purāṇic verses."
+    },
+    {
+      "canonical_name": "Vyāsa",
+      "surface_names": ["Vyāsa"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-af38de",
+          "quote": "Therein, Vyāsa says: The bright Caturdaśī should always be taken when conjoined with the succeeding day for a vow",
+          "role": "smṛti authority providing the primary rule for bright Caturdaśī conjunction"
+        }
+      ],
+      "description": "Vyāsa is a smṛti authority cited for the general rule that bright Caturdaśī should be observed when conjoined with the succeeding day.",
+      "justification": "Vyāsa is named as the source of the foundational rule for bright Caturdaśī conjunction at the opening of the Caturdaśī determination section."
+    },
+    {
+      "canonical_name": "Matsya avatāra",
+      "surface_names": ["Matsya"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-32bda7",
+          "quote": "Matsya was on the day of Hutabhuk (Tṛtīyā) in the bright fortnight of Madhu (Caitra)",
+          "role": "avatāra of Viṣṇu whose appearance-day (jayantī) is recorded in the Purāṇasamuccaya"
+        }
+      ],
+      "description": "Matsya, the fish avatāra of Viṣṇu, is mentioned at the very end of the window as one of the avatāras whose jayantī date is catalogued in the Purāṇasamuccaya.",
+      "justification": "Matsya's appearance-day (Caitra Śukla Tṛtīyā) is explicitly stated in the Purāṇasamuccaya citation that closes the window."
+    },
+    {
+      "canonical_name": "Kūrma avatāra",
+      "surface_names": ["Kūrma"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-32bda7",
+          "quote": "Kūrma, on the full moon of Mādhava (Vaiśākha)",
+          "role": "avatāra of Viṣṇu whose appearance-day is recorded in the Purāṇasamuccaya"
+        }
+      ],
+      "description": "Kūrma, the tortoise avatāra of Viṣṇu, is mentioned at the end of the window as one of the avatāras whose jayantī falls on the Vaiśākha full moon.",
+      "justification": "Kūrma's appearance-day (Vaiśākha Pūrṇimā) is explicitly stated in the Purāṇasamuccaya citation."
+    },
+    {
+      "canonical_name": "Vārāha avatāra",
+      "surface_names": ["Vārāha"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-32bda7",
+          "quote": "Vārāha, on the day of Girijā's son (Caturthī); in Nabhas (Bhādra), on what was Bhūta (Caturdaśī); in the bright fortnight of Mādhava (Vaiśākha)",
+          "role": "avatāra of Viṣṇu whose appearance-day(s) are recorded in the Purāṇasamuccaya"
+        }
+      ],
+      "description": "Vārāha, the boar avatāra of Viṣṇu, is mentioned at the end of the window as having multiple jayantī dates catalogued in the Purāṇasamuccaya.",
+      "justification": "Vārāha's appearance-days are explicitly stated in the Purāṇasamuccaya citation that closes the window."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Tithi-determination rules for Ekādaśī (pure and conjoined cases)",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-5cc3e5",
+          "quote": "Mādhava, however, states eight kinds: A pure, not-long Ekādaśī followed by a not-long Dvādaśī"
+        },
+        {
+          "paragraph_id": "p-cd1242",
+          "quote": "In the third case, however, for all, it is only the succeeding day"
+        },
+        {
+          "paragraph_id": "p-d159cf",
+          "quote": "As for the conjoined, not-long Ekādaśī followed by a not-long Dvādaśī, on it, the conjoined tithi itself should be fasted on"
+        }
+      ],
+      "justification": "The dominant theme of the opening section is the systematic classification and determination of which day to observe Ekādaśī under eight different configurations of tithi length and purity/conjunction."
+    },
+    {
+      "topic": "Householder vs. ascetic distinction in vow observance",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-59d6b9",
+          "quote": "Hemādri, however, says that in this second case, the verses enjoining a fast on a pure Ekādaśī apply to a householder, while those enjoining a fast on a pure Dvādaśī apply to an ascetic"
+        },
+        {
+          "paragraph_id": "p-beb311",
+          "quote": "The preceding day should be performed by householders, and the succeeding by ascetics"
+        },
+        {
+          "paragraph_id": "p-bb8d86",
+          "quote": "The mention of 'ascetic' is indicative of those other than householders"
+        }
+      ],
+      "justification": "A recurrent theme throughout the Ekādaśī section is the bifurcation of rules between gṛhasthas and yatis (or equivalently, sakāma and niṣkāma), requiring the text to harmonize conflicting injunctions by assigning them to different observer-categories."
+    },
+    {
+      "topic": "Hermeneutical reconciliation of conflicting smṛti and Purāṇic verses",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-f77547",
+          "quote": "it should be interpreted as referring to equality, by taking the word 'elision' to mean, by metaphorical interpretation, the absence of increase. Otherwise, the Padma Purāṇa verse would be without scope"
+        },
+        {
+          "paragraph_id": "p-8d310c",
+          "quote": "this verse, not being cited by Ācāryacūḍāmaṇi and others, is baseless; or, if it has a basis, it can be justified as applying to one who does not desire liberation"
+        },
+        {
+          "paragraph_id": "p-a8bb4e",
+          "quote": "Therefore, by the division of the dark and bright fortnights, both are justified"
+        }
+      ],
+      "justification": "A central methodological theme is the Vīramitrodaya's sustained effort to harmonize contradictory textual authorities by applying the tools of Mīmāṃsā hermeneutics — scope-restriction, metaphorical reading, sentence-unity, and hierarchy of sources."
+    },
+    {
+      "topic": "Pāraṇa (vow-breaking meal) determination",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-1fe51e",
+          "quote": "it, even when Dvādaśī is short, shorter, or shortest, should be performed by means of apakarṣa of the morning and midday rites to the time of dawn"
+        },
+        {
+          "paragraph_id": "p-bafacf",
+          "quote": "The first quarter of Dvādaśī is called Harivāsara. Having transgressed that, one devoted to Viṣṇu should perform the pāraṇa"
+        },
+        {
+          "paragraph_id": "p-1d5b23",
+          "quote": "it should be performed only at the end of the tithi, not at the end of the nakṣatra alone, even if it is in the middle of the tithi"
+        }
+      ],
+      "justification": "The proper timing of the pāraṇa (breaking of the fast) is treated as a distinct sub-topic with its own rules about apakarṣa, Harivāsara, and the relationship between tithi and nakṣatra end-times."
+    },
+    {
+      "topic": "Mahādvādaśī — the eight special Dvādaśīs",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-75c781",
+          "quote": "Unmīlinī, Vañjulinī, Trispṛśā, Pakṣavarddhinī, Jayā, and Vijayā, and Jayantī, and Pāpanāśinī — These eight Dvādaśīs are of great merit"
+        },
+        {
+          "paragraph_id": "p-e3be35",
+          "quote": "these eight mahādvādaśīs are optional, because a fruit is heard in 'of great merit,' etc."
+        },
+        {
+          "paragraph_id": "p-ae4bde",
+          "quote": "it is without authority"
+        }
+      ],
+      "justification": "The eight Mahādvādaśīs form a distinct sub-topic within the Dvādaśī section, with the text classifying four as tithi-based and four as nakṣatra-based, and ruling them optional rather than obligatory."
+    },
+    {
+      "topic": "Śravaṇa-dvādaśī — vow rules and pāraṇa",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-8c0bd8",
+          "quote": "That Dvādaśī which is conjoined with Śravaṇa, O Rāma, is great. He who has fasted, bathed, and worshipped Janārdana on it, that knower of dharma obtains without effort the fruit of twelve Dvādaśīs"
+        },
+        {
+          "paragraph_id": "p-531af2",
+          "quote": "When Dvādaśī, touching Śravaṇa, touches Ekādaśī, that is the Vaiṣṇava yoga, called Viṣṇuśṛṅkhala"
+        },
+        {
+          "paragraph_id": "p-7a526a",
+          "quote": "one should perform the pāraṇa at the end of the ṛkṣa, except for Śravaṇa and Rohiṇī"
+        }
+      ],
+      "justification": "Śravaṇa-dvādaśī receives extended dedicated treatment as the most important of the nakṣatra-based Dvādaśīs, with specific rules for when it is actionable, the Viṣṇuśṛṅkhala yoga, and the exception for pāraṇa timing."
+    },
+    {
+      "topic": "Kalā/kṣaya (elision) vs. vṛddhi (increase) in tithi calculation",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-b48696",
+          "quote": "'not-long' can occur through equality or through decrease (kṣaya)"
+        },
+        {
+          "paragraph_id": "p-50ca16",
+          "quote": "the not-long nature of the conjoined tithi occurs through equality and through decrease (kṣaya). Therein, when it is through decrease, all except a householder with a son should fast on the conjoined tithi itself"
+        },
+        {
+          "paragraph_id": "p-cdd433",
+          "quote": "even those with a son should fast on the preceding day, because the exclusion of a fast on a conjoined tithi for them, in verses like 'in a day-elision,' applies only in the case of elision"
+        }
+      ],
+      "justification": "The technical distinction between a tithi being 'not-long' through decrease (kṣaya) versus through equality is a recurrent theme determining which observer-class must follow which rule."
+    },
+    {
+      "topic": "Vedha (conjunction-pollution) and its temporal threshold",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-eb1a56",
+          "quote": "from this verse, the defiling nature of the kapāla-vedha (conjunction at the skull, i.e., midnight) is also obligatory, just like the aruṇodaya-vedha"
+        },
+        {
+          "paragraph_id": "p-534111",
+          "quote": "The conjunction which the teachers who are dear to Hari call kapāla-vedha — this is not my view, because the night is desired to be of three yāmas"
+        },
+        {
+          "paragraph_id": "p-a4cba5",
+          "quote": "it is proper that the verses on kapāla-vedha are only for the praise of the aruṇodaya-vedha"
+        }
+      ],
+      "justification": "The concept of vedha (defilement by conjunction with a prohibited tithi) and the debate between aruṇodaya-vedha and kapāla-vedha constitute a distinct technical sub-theme of the Ekādaśī discussion."
+    },
+    {
+      "topic": "Avatāra jayantīs — cataloguing divine appearance-days",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-32bda7",
+          "quote": "Matsya was on the day of Hutabhuk (Tṛtīyā) in the bright fortnight of Madhu (Caitra); Kūrma, on the full moon of Mādhava (Vaiśākha); Vārāha, on the day of Girijā's son (Caturthī)"
+        }
+      ],
+      "justification": "The closing passage introduces the broader project of cataloguing avatāra jayantī dates as a natural extension of the Nṛsiṃha-jayantī discussion, drawing on the Purāṇasamuccaya."
+    },
+    {
+      "topic": "Optional vs. obligatory vows (kāmya vs. nitya/naimittika)",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-e3be35",
+          "quote": "these eight mahādvādaśīs are optional (kāmya), because a fruit is heard in 'of great merit,' etc."
+        },
+        {
+          "paragraph_id": "p-5138d9",
+          "quote": "Likewise, there is no apakarṣa for an optional (kāmya) rite"
+        }
+      ],
+      "justification": "The kāmya/nitya distinction is implicitly operative throughout the pāraṇa and Mahādvādaśī sections, governing whether apakarṣa applies and whether negative consequences follow from non-performance."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Skānda Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-241d66",
+      "quote": "When a pure Ekādaśī is equal or short, and the succeeding Vaiṣṇavī (tithi) is equal, short, or long, one should fast on the Ekādaśī, not on the pure Vaiṣṇavī (tithi) itself",
+      "justification": "The Skānda Purāṇa is cited as a proof-text establishing the rule for the second Mādhava case (pure not-long Ekādaśī + long Dvādaśī)."
+    },
+    {
+      "cited_work": "Pṛthvīcandrodaya",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-3fe0ae",
+      "quote": "A clear, authoritative verse on this matter is written in the Pṛthvīcandrodaya under the name of the Nāradīya: A pure Ekādaśī is complete; on Dvādaśī there is nothing at all. And Dvādaśī exists on Trayodaśī; what should be done then? The preceding day should be performed by householders; the succeeding, by ascetics",
+      "justification": "The Pṛthvīcandrodaya (a nibandha) is cited as containing a Nāradīya verse that authoritatively resolves the householder/ascetic distinction in the Hemādri case."
+    },
+    {
+      "cited_work": "Skanda Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-385bd9",
+      "quote": "A householder without desire should always perform the succeeding Ekādaśī, whether Dvādaśī is present at dawn or not, O best of the twice-born!",
+      "justification": "The Skanda Purāṇa is cited to establish that even a householder without desire should perform the succeeding Ekādaśī, countering the argument that 'without desire' always means ascetic."
+    },
+    {
+      "cited_work": "Skanda Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-25d864",
+      "quote": "Both tithis should be fasted on there by those devoted to pleasing Viṣṇu",
+      "justification": "The Skanda Purāṇa is cited for the rule that those specifically devoted to Viṣṇu's pleasure should fast on both days when Ekādaśī and Dvādaśī are both long."
+    },
+    {
+      "cited_work": "Padma Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-1d708a",
+      "quote": "When an Ekādaśī conjoined with Daśamī does not increase on the next day, that very tithi of elision should be fasted on by ascetics and householders",
+      "justification": "The Padma Purāṇa is cited as a central proof-text for the kṣaya-case rule requiring fasting on the conjoined tithi itself."
+    },
+    {
+      "cited_work": "Bhaviṣya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-29c17a",
+      "quote": "When a day-elision (dinakṣaya) has occurred, one should not fast on a tithi conjoined with Daśamī. A pure Dvādaśī should be fasted on, and the pāraṇa should be on Trayodaśī",
+      "justification": "The Bhaviṣya Purāṇa is cited for the rule prescribing a pure-Dvādaśī fast for householders with sons in the day-elision case."
+    },
+    {
+      "cited_work": "Bhaviṣya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-6dd6c4",
+      "quote": "When Ekādaśī, even for a single kalā, is not on the next day and does not increase, then that conjoined tithi should be fasted on by householders with a son",
+      "justification": "A second Bhaviṣya Purāṇa verse (via Hemādri) is cited for the equality-case rule permitting householders with sons to fast on the conjoined tithi."
+    },
+    {
+      "cited_work": "Viṣṇurahasya",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-aeb4de",
+      "quote": "When the preceding day is mixed with Daśamī, and the succeeding Dvādaśī is complete and pure, that pure Dvādaśī, O King, should be fasted on by those who desire liberation",
+      "justification": "The Viṣṇurahasya is cited for the rule that ascetics (those desiring liberation) should fast on the succeeding Dvādaśī in the equality case."
+    },
+    {
+      "cited_work": "Madanaratna",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-46f614",
+      "quote": "The Madanaratna, however, says that in the case of equality and elision, for ascetics, it is the succeeding day",
+      "justification": "The Madanaratna (a dharmaśāstra digest) is cited as an authority synthesizing the Sumantu and Viṣṇurahasya positions on the ascetic rule."
+    },
+    {
+      "cited_work": "Tithitattva",
+      "cited_author": null,
+      "stance": "refute",
+      "paragraph_id": "p-c836a1",
+      "quote": "As for what is said in the Tithitattva and other works — One should perform the conjoined one if the other is not available, but not the entering one even if the other is not available",
+      "justification": "The Tithitattva's position (that a conjoined tithi is never enjoined, citing a Kūrma Purāṇa verse) is cited in order to be refuted by the Vīramitrodaya."
+    },
+    {
+      "cited_work": "Kūrma Purāṇa",
+      "cited_author": null,
+      "stance": "refute",
+      "paragraph_id": "p-8d310c",
+      "quote": "this verse, not being cited by Ācāryacūḍāmaṇi and others, is baseless",
+      "justification": "The Kūrma Purāṇa verse cited by the Tithitattva to prohibit conjoined tithis is challenged as baseless or else interpreted as applying only to those not desiring liberation."
+    },
+    {
+      "cited_work": "Kūrma Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-e5ce08",
+      "quote": "Ekādaśī, Dvādaśī, and Trayodaśī in the last part of the night — there, the merit is of a hundred sacrifices, and the pāraṇa is on Trayodaśī",
+      "justification": "A different Kūrma Purāṇa verse (distinct from the refuted one) is cited as authority for the long-Ekādaśī + not-long-Dvādaśī rule and its pāraṇa timing."
+    },
+    {
+      "cited_work": "Kūrma Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-77e596",
+      "quote": "one who is endowed with sons and grandsons should not perform a fast",
+      "justification": "Another Kūrma Purāṇa verse is cited to prohibit fasting for householders with sons in the Dvādaśī-elision case."
+    },
+    {
+      "cited_work": "Brahmavaivarta Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-791588",
+      "quote": "When Ekādaśī is elided, and on the next day there is Dvādaśī, a pure Dvādaśī should be fasted on, if one desires the supreme state",
+      "justification": "The Brahmavaivarta Purāṇa is cited for the rule that a pure Dvādaśī should be fasted on when Ekādaśī is elided."
+    },
+    {
+      "cited_work": "Madanaratna",
+      "cited_author": null,
+      "stance": "refute",
+      "paragraph_id": "p-d17e03",
+      "quote": "As for the verse in the Madanaratna: Ekādaśī conjoined with Daśamī should be performed by men in all cases, whether it is present at dawn or not, because the fast is obligatory",
+      "justification": "The Madanaratna's reading of a verse as enjoining the conjoined tithi regardless of dawn-presence is cited and then refuted as contradicting the 'when Ekādaśī is elided' verse."
+    },
+    {
+      "cited_work": "Hemādri",
+      "cited_author": "Hemādri",
+      "stance": "authority",
+      "paragraph_id": "p-637610",
+      "quote": "In reality, however, in the Hemādri and other works, the verse is cited as 'conjoined with Dvādaśī, by men,' and so there is no fault",
+      "justification": "Hemādri's work is cited for a textual reading of the Madanaratna verse ('conjoined with Dvādaśī' rather than 'conjoined with Daśamī') that dissolves the apparent contradiction."
+    },
+    {
+      "cited_work": "Padma Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-257979",
+      "quote": "When Dvādaśī is short on the day of the pāraṇa, one should then perform both the morning and midday rites at the time of dawn",
+      "justification": "The Padma Purāṇa is cited for the apakarṣa rule prescribing that morning and midday rites be moved to dawn when Dvādaśī is short on the pāraṇa day."
+    },
+    {
+      "cited_work": "Padma Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-c6d57e",
+      "quote": "This Dvādaśī, when transgressed by men, is a cause of great loss. It causes the destruction of dharma",
+      "justification": "The Padma Purāṇa is cited for the fault of transgressing Dvādaśī, providing the negative motivation for the apakarṣa rule."
+    },
+    {
+      "cited_work": "Viṣṇudharma",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-bafacf",
+      "quote": "The first quarter of Dvādaśī is called Harivāsara. Having transgressed that, one devoted to Viṣṇu should perform the pāraṇa",
+      "justification": "The Viṣṇudharma is cited for the Harivāsara rule that the pāraṇa may only begin after the first quarter of Dvādaśī."
+    },
+    {
+      "cited_work": "Skanda Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-ef9306",
+      "quote": "And Dvādaśī should be performed when conjoined with Ekādaśī, O Lord! It should always be performed by the wise and by men who are devotees of Viṣṇu",
+      "justification": "The Skanda Purāṇa is cited for the general rule that Dvādaśī should be observed when conjoined with Ekādaśī."
+    },
+    {
+      "cited_work": "Rāmārcanacandrikā",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-443f4e",
+      "quote": "The Damanotsava is stated for the bright Dvādaśī of Caitra in the Rāmārcanacandrikā, beginning with: On the Dvādaśī of the bright fortnight of the month of Caitra is the Damanotsava",
+      "justification": "The Rāmārcanacandrikā is cited as the source prescribing the Damanotsava (Dāmanā festival) for the bright Dvādaśī of Caitra."
+    },
+    {
+      "cited_work": "Viṣṇudharma",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-997017",
+      "quote": "In the bright fortnight of Śrāvaṇa, when the sun is in Cancer, on Dvādaśī, the offering of the sacred thread to Vāsudeva is remembered",
+      "justification": "The Viṣṇudharma is cited for the pavitrāropaṇa (sacred-thread offering) rite to Vāsudeva on Śrāvaṇa Śukla Dvādaśī."
+    },
+    {
+      "cited_work": "Viṣṇudharmottara",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-8c0bd8",
+      "quote": "That Dvādaśī which is conjoined with Śravaṇa, O Rāma, is great. He who has fasted, bathed, and worshipped Janārdana on it, that knower of dharma obtains without effort the fruit of twelve Dvādaśīs",
+      "justification": "The Viṣṇudharmottara is cited to establish the exceptional merit of the Śravaṇa-dvādaśī conjunction."
+    },
+    {
+      "cited_work": "Nāradīya",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-314981",
+      "quote": "The conjunction of the tithi and the nakṣatra, or of the yoga itself, O king! If it is available even for two kalās, it should be known as lasting for eight yāmas",
+      "justification": "The Nāradīya Purāṇa is cited for the rule that even a slight conjunction with Śravaṇa is sufficient to qualify the Dvādaśī as Śravaṇa-dvādaśī."
+    },
+    {
+      "cited_work": "Mātsya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-531af2",
+      "quote": "When Dvādaśī, touching Śravaṇa, touches Ekādaśī, that is the Vaiṣṇava yoga, called Viṣṇuśṛṅkhala",
+      "justification": "The Mātsya Purāṇa is cited to define the Viṣṇuśṛṅkhala yoga as the conjunction of Dvādaśī with both Śravaṇa nakṣatra and Ekādaśī."
+    },
+    {
+      "cited_work": "Bṛhannāradīya",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-930f77",
+      "quote": "The one that pervades sunrise should be taken for the Śravaṇa-dvādaśī vow",
+      "justification": "The Bṛhannāradīya is cited for the sunrise-pervasion rule when Śravaṇa-dvādaśī is pure and long and the nakṣatra falls on both days."
+    },
+    {
+      "cited_work": "Nāradīya",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-d94525",
+      "quote": "When the ṛkṣa (lunar mansion) of Śravaṇa is not obtained on Dvādaśī at all, then Ekādaśī conjoined with Śravaṇa, which destroys sin, should be fasted on",
+      "justification": "The Nāradīya is cited for the fallback rule that when Śravaṇa does not occur on any Dvādaśī, the Ekādaśī conjoined with it may be fasted on instead."
+    },
+    {
+      "cited_work": "Bhaviṣya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-92d82a",
+      "quote": "When the bright Ekādaśī is conjoined with Śravaṇa, that tithi is called Vijayā, granting victory to devotees",
+      "justification": "The Bhaviṣya Purāṇa is cited for the name 'Vijayā' given to Ekādaśī when it is conjoined with Śravaṇa."
+    },
+    {
+      "cited_work": "Vahni Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-92fba6",
+      "quote": "Where there is Daśamī and Ekādaśī, that tithi should not be fasted on. But if it is conjoined with Śravaṇa, it is auspicious and grants all desires",
+      "justification": "The Vahni Purāṇa is cited for the exception allowing a Daśamī-conjoined Ekādaśī to be fasted on when it carries the Śravaṇa nakṣatra."
+    },
+    {
+      "cited_work": "Bhaviṣya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-db9812",
+      "quote": "Having fasted on Ekādaśī, one should fast on Dvādaśī. There is no violation of the rule there; the deity of both is Hari",
+      "justification": "The Bhaviṣya Purāṇa is cited for the rule permitting and encouraging consecutive fasts on Ekādaśī and Śravaṇa-dvādaśī."
+    },
+    {
+      "cited_work": "Mātsya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-cdf67c",
+      "quote": "On Dvādaśī of the bright fortnight, if there is the Śravaṇa nakṣatra, having fasted on Ekādaśī, one should worship Hari on Dvādaśī there",
+      "justification": "The Mātsya Purāṇa is cited for the rule that one who has already undertaken the Ekādaśī vow need only worship on Dvādaśī if unable to fast again."
+    },
+    {
+      "cited_work": "Nāradīya",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-b179c9",
+      "quote": "Having fasted on the meritorious Dvādaśī conjoined with the Vaiṣṇava ṛkṣa, a man obtains without doubt the merit that arises from Ekādaśī",
+      "justification": "The Nāradīya is cited for the rule that fasting on Śravaṇa-dvādaśī alone (without a prior Ekādaśī fast) still confers Ekādaśī merit."
+    },
+    {
+      "cited_work": "Skanda Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-7c58e6",
+      "quote": "The bright Dvādaśī in the month of Bhādrapada, conjoined with Śravaṇa, is known by the name Mahatī; it is of great fruit for a fast",
+      "justification": "The Skanda Purāṇa is cited for the special name 'Mahatī' given to Śravaṇa-dvādaśī in Bhādrapada."
+    },
+    {
+      "cited_work": "Viṣṇudharmottara",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-fda067",
+      "quote": "In a Śravaṇa-dvādaśī conjunction, when there is a Wednesday, that Dvādaśī is proclaimed as Atyantamahatī (Extremely Great)",
+      "justification": "The Viṣṇudharmottara is cited for the additional praise given to Śravaṇa-dvādaśī when it falls on a Wednesday."
+    },
+    {
+      "cited_work": "Nāradīya",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-06f964",
+      "quote": "When a fast occurs due to the conjunction of a tithi and a nakṣatra, the pāraṇa should not be performed until one of them has ended",
+      "justification": "The Nāradīya is cited for the pāraṇa rule in conjunction-based fasts, which the Madanaratna then restricts to tithi-end only."
+    },
+    {
+      "cited_work": "Viṣṇudharmottara",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-7a526a",
+      "quote": "one should perform the pāraṇa at the end of the ṛkṣa, except for Śravaṇa and Rohiṇī",
+      "justification": "The Viṣṇudharmottara is cited to exclude Śravaṇa (and Rohiṇī) from the general rule of pāraṇa at nakṣatra-end."
+    },
+    {
+      "cited_work": "Vahni Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-5a4960",
+      "quote": "one should perform it at the end of the nakṣatra or of the tithi",
+      "justification": "The Vahni Purāṇa is cited for the Rohiṇī fast's pāraṇa rule, used as a contrast to the Śravaṇa case."
+    },
+    {
+      "cited_work": "Brahmavaivarta Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-75c781",
+      "quote": "Unmīlinī, Vañjulinī, Trispṛśā, Pakṣavarddhinī, Jayā, and Vijayā, and Jayantī, and Pāpanāśinī — These eight Dvādaśīs are of great merit",
+      "justification": "The Brahmavaivarta Purāṇa is the primary source cited for the list and definitions of the eight Mahādvādaśīs."
+    },
+    {
+      "cited_work": "Brahmavaivarta Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-6e77d4",
+      "quote": "Trayodaśī should be performed when conjoined with Dvādaśī, O sage!",
+      "justification": "The Brahmavaivarta Purāṇa is cited for the rule that bright Trayodaśī requires conjunction with the preceding Dvādaśī."
+    },
+    {
+      "cited_work": "Nigama",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-c2b799",
+      "quote": "Ṣaṣṭhī, Aṣṭamī, and Amāvāsyā, and Trayodaśī in the dark fortnight, these should be performed when conjoined with the succeeding day; the others, when conjoined with the preceding",
+      "justification": "The Nigama is cited for the dark-fortnight Trayodaśī rule requiring the succeeding-day conjunction, overriding the general Vṛddha Vasiṣṭha rule."
+    },
+    {
+      "cited_work": "Skanda Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-698c3d",
+      "quote": "Trayodaśī should be performed which is of the afternoon",
+      "justification": "The Skanda Purāṇa is cited for the afternoon-pervasion requirement of the preceding-day Trayodaśī."
+    },
+    {
+      "cited_work": "Viṣṇu Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-52d5aa",
+      "quote": "This was performed by Anaṅga (Kāma); therefore, it is Anaṅga-trayodaśī",
+      "justification": "The Viṣṇu Purāṇa is cited as the source identifying Kāma as the first performer of the Mārgaśīrṣa Trayodaśī vow."
+    },
+    {
+      "cited_work": "Bhaviṣyottara",
+      "cited_author": null,
+      "stance": "refute",
+      "paragraph_id": "p-f230a8",
+      "quote": "Some, however, say that the one pervading midday should be taken, and they present as proof an indicator in a verse of the Bhaviṣyottara",
+      "justification": "The Bhaviṣyottara Purāṇa's indicator verse is cited by an opposing view to argue for midday-pervasion of Bhādra Caturdaśī, but the Vīramitrodaya refutes this."
+    },
+    {
+      "cited_work": "Skānda Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-c29cf1",
+      "quote": "In the dark fortnight of Kārtika, on Trayodaśī, at the face of the night, one should place a lamp for Yama outside; untimely death is destroyed",
+      "justification": "The Skānda Purāṇa is cited for the Dīpa-dāna (lamp-offering) rite to Yama on dark Kārtika Trayodaśī."
+    },
+    {
+      "cited_work": "Padma Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-95a493",
+      "quote": "Ekādaśī, Aṣṭamī, and Ṣaṣṭhī, and Caturdaśī in the bright fortnight, these should be performed when conjoined with the succeeding day; the others, when conjoined with the preceding",
+      "justification": "The Padma Purāṇa is cited for the general rule classifying bright Caturdaśī in the succeeding-day category."
+    },
+    {
+      "cited_work": "Bhaviṣya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-469f1b",
+      "quote": "Caturdaśī should always be performed conjoined with Trayodaśī, not otherwise. It should be conjoined with Paurṇamāsī, and Paurṇamāsī with Caturdaśī",
+      "justification": "The Bhaviṣya Purāṇa is cited for the Caturdaśī mutual-conjunction rule with both Trayodaśī and Paurṇamāsī."
+    },
+    {
+      "cited_work": "Nāradīya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-ea4b02",
+      "quote": "Tṛtīyā, Ekādaśī, Ṣaṣṭhī, Paurṇamāsī, and Caturdaśī should not be performed when conjoined with the preceding day; they should be performed when conjoined with the succeeding",
+      "justification": "The Nāradīya Purāṇa is cited for the list of tithis requiring the succeeding-day conjunction, which includes Caturdaśī."
+    },
+    {
+      "cited_work": "Vārāha Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-e68318",
+      "quote": "Ekādaśī with Daśamī, and Aṣṭamī with Saptamī, and Ṣaṣṭhī with Pañcamī, and Caturdaśī with Trayodaśī, a man should not perform rites on these when conjoined with the preceding day",
+      "justification": "The Vārāha Purāṇa is cited for the list of prohibited preceding-day conjunctions including Caturdaśī with Trayodaśī."
+    },
+    {
+      "cited_work": "Skanda Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-376a0a",
+      "quote": "Caturdaśī should be performed when conjoined with Trayodaśī, O Lord! by my devotees, O mighty-armed one, which is of the afternoon. It should not be performed when conjoined with Darśa, nor ever when conjoined with Rākā",
+      "justification": "The Skanda Purāṇa is cited (as Śiva speaking) for the special Caturdaśī rule in Śaiva vows requiring afternoon-pervasion and Trayodaśī-conjunction."
+    },
+    {
+      "cited_work": "Nṛsiṃha Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-902294",
+      "quote": "In the bright fortnight of Vaiśākha, on Caturdaśī, at the face of the night, is the meritorious vow of my birth, which destroys sin. It should be performed year after year, for the sake of my satisfaction",
+      "justification": "The Nṛsiṃha Purāṇa (via Hemādri) is cited as the primary authority for the Nṛsiṃha-caturdaśī vow and its timing."
+    },
+    {
+      "cited_work": "Purāṇasamuccaya",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-32bda7",
+      "quote": "Matsya was on the day of Hutabhuk (Tṛtīyā) in the bright fortnight of Madhu (Caitra); Kūrma, on the full moon of Mādhava (Vaiśākha); Vārāha, on the day of Girijā's son (Caturthī)",
+      "justification": "The Purāṇasamuccaya is cited as the authority cataloguing the jayantī dates of the Viṣṇu avatāras."
+    },
+    {
+      "cited_work": "Viṣṇudharmottara",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-8e4576",
+      "quote": "Ekādaśī, Aṣṭamī, Ṣaṣṭhī, Dvitīyā, and Caturdaśī, Trayodaśī, and Amāvāsyā—these should be fasted on when conjoined with the succeeding day",
+      "justification": "The Viṣṇudharmottara is cited for a comprehensive list of tithis requiring the succeeding-day conjunction, applied specifically to dark Trayodaśī."
+    }
+  ]
+}

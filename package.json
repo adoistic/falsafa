@@ -20,6 +20,7 @@
     "packages/*"
   ],
   "scripts": {
+    "deploy": "bash scripts/deploy.sh",
     "audit": "bun run scripts/corpus-audit.ts",
     "convert": "bun run scripts/convert.ts",
     "cross-link": "bun run scripts/cross-link.ts",

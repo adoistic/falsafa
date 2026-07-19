@@ -1,0 +1,44 @@
+{
+  "work_slug": "robert-burns-poems-a27207",
+  "work_title": "Poems",
+  "chapter_number": 42,
+  "chapter_title": "[EPITAPH] FOR R. A. Esq;",
+  "chapter_slug": "42-epitaph-for-r-a-esq",
+  "author": "Robert Burns",
+  "author_slug": "robert-burns",
+  "ecpa_poem_id": "cbu86-w0420",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "epitaph"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "aabb",
+    "syllable_pattern": "8.8.8.8",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/",
+    "line_count": 4
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "49f229ab-050e-5b35-953e-1a262c813974",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 34,
+      "line_count": 5,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

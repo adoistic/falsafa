@@ -1,0 +1,45 @@
+{
+  "work_slug": "stephen-duck-poems-0c5b8a",
+  "work_title": "Poems",
+  "chapter_number": 30,
+  "chapter_title": "On the Marriage of his Serene Highness the Prince of Orange.",
+  "chapter_slug": "30-on-the-marriage-of-his-serene-highness-the-princ",
+  "author": "Stephen Duck",
+  "author_slug": "stephen-duck",
+  "ecpa_poem_id": "o4741-w0300",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "occasional poem"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 133
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f6e4c6fd-6765-5dfd-be62-716c897423c9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 985,
+      "line_count": 134,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "work_slug": "edward-moore-poems-516d92",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "The TRIAL of SELIM the PERSIAN For divers High Crimes and Misdemeanours.",
+  "chapter_slug": "04-the-trial-of-selim-the-persian-for-divers-high-c",
+  "author": "Edward Moore",
+  "author_slug": "edward-moore",
+  "ecpa_poem_id": "o5154-w0550",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "satire"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 352
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "32abf724-2f77-5cbd-aefb-d832fb8f088c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2207,
+      "line_count": 354,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

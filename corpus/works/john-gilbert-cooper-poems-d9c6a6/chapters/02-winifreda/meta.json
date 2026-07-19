@@ -1,0 +1,44 @@
+{
+  "work_slug": "john-gilbert-cooper-poems-d9c6a6",
+  "work_title": "Poems",
+  "chapter_number": 2,
+  "chapter_title": "WINIFREDA.",
+  "chapter_slug": "02-winifreda",
+  "author": "John Gilbert Cooper",
+  "author_slug": "john-gilbert-cooper",
+  "ecpa_poem_id": "o5089-w0350",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "song"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "9.8.9.8",
+    "metrical_pattern": "-+|-+|-+|-+|-/ -+|-+|-+|-+/ -+|-+|-+|-+|-/ -+|-+|-+|-+/",
+    "line_count": 32
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "716fae81-8bcd-5dea-8e8e-2ba909b5cb23",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 207,
+      "line_count": 33,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

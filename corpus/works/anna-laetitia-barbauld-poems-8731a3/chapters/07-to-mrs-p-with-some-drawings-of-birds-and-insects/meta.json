@@ -1,0 +1,44 @@
+{
+  "work_slug": "anna-laetitia-barbauld-poems-8731a3",
+  "work_title": "Poems",
+  "chapter_number": 7,
+  "chapter_title": "To MRS. P—, With some Drawings of BIRDS and INSECTS.",
+  "chapter_slug": "07-to-mrs-p-with-some-drawings-of-birds-and-insects",
+  "author": "Anna Laetitia Barbauld",
+  "author_slug": "anna-laetitia-barbauld",
+  "ecpa_poem_id": "o3555-w0070",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 126
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "df07998b-1e11-5135-a635-b2ab1f9cd66b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 970,
+      "line_count": 127,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

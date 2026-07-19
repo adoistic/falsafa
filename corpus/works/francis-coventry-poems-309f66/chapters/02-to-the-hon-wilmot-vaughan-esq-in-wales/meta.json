@@ -1,0 +1,36 @@
+{
+  "work_slug": "francis-coventry-poems-309f66",
+  "work_title": "Poems",
+  "chapter_number": 2,
+  "chapter_title": "TO THE Hon. WILMOT VAUGHAN, Esq; in WALES.",
+  "chapter_slug": "02-to-the-hon-wilmot-vaughan-esq-in-wales",
+  "author": "Francis Coventry",
+  "author_slug": "francis-coventry",
+  "ecpa_poem_id": "o5155-w0050",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "rhyme": "abab",
+    "line_count": 60
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "528fe4a4-84c2-5a99-bd9d-d7bd887975a2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 400,
+      "line_count": 62,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

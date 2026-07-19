@@ -1,0 +1,44 @@
+{
+  "work_slug": "joanna-baillie-poems-dfa2df",
+  "work_title": "Poems",
+  "chapter_number": 30,
+  "chapter_title": "SONG WRITTEN FOR THE STRAWBERRY HILL FOUNDLING PLAY, AND SUNG BY MRS. JOURDAIN.",
+  "chapter_slug": "30-song-written-for-the-strawberry-hill-foundling-p",
+  "author": "Joanna Baillie",
+  "author_slug": "joanna-baillie",
+  "ecpa_poem_id": "bjb18-w0300",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "song"
+    ],
+    "foot": "trochaic (′˘)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "sestet (6 lines)"
+    ],
+    "rhyme": "aabbcc",
+    "syllable_pattern": "8.8.7.7.7.7",
+    "metrical_pattern": "+-|+-|+-|+-/ +-|+-|+-|+-/ +-|+-|+-|+/ +-|+-|+-|+/ +-|+-|+-|+/ +-|+-|+-|+/",
+    "line_count": 18
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "915b5b15-aff9-50ac-8360-1ad3f4f0dbe0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 110,
+      "line_count": 20,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

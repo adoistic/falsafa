@@ -1,0 +1,695 @@
+{
+  "slug": "unknown-yajnavalkya-smrti-cb88d6",
+  "window": "01:0-228",
+  "entities": [
+    {
+      "canonical_name": "Yājñavalkya",
+      "surface_names": ["Yājñavalkya", "lord of yogis", "king of yogis"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-97f0a4",
+          "quote": "Having honored Yājñavalkya, the lord of yogis, the sages spoke",
+          "role": "protagonist and authority"
+        },
+        {
+          "paragraph_id": "p-4d4d87",
+          "quote": "Residing in Mithilā, that king of yogis, having meditated for a moment, said to the sages",
+          "role": "speaker and lawgiver"
+        },
+        {
+          "paragraph_id": "p-0f4ad0",
+          "quote": "Manu, Atri, Viṣṇu, Hārīta, Yājñavalkya, Uśanas, Aṅgiras",
+          "role": "listed as a promulgator of dharmaśāstra"
+        }
+      ],
+      "description": "The sage Yājñavalkya, the central authority of this dharmaśāstra text, who teaches the assembled sages on dharma from Mithilā.",
+      "justification": "Yājñavalkya is the text's primary speaker and namesake, honored by the sages and described as 'lord of yogis' who expounds dharma."
+    },
+    {
+      "canonical_name": "Manu",
+      "surface_names": ["Manu"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-0f4ad0",
+          "quote": "Manu, Atri, Viṣṇu, Hārīta, Yājñavalkya, Uśanas, Aṅgiras",
+          "role": "listed as a promulgator of dharmaśāstra"
+        }
+      ],
+      "description": "Manu, the primordial lawgiver, listed as one of the authoritative promulgators of the Dharmaśāstras.",
+      "justification": "Manu is explicitly named among the recognized sages whose teachings constitute the body of dharmaśāstra authority."
+    },
+    {
+      "canonical_name": "Vyāsa",
+      "surface_names": ["Vyāsa"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-95ef53",
+          "quote": "Parāśara, Vyāsa, Śaṅkha, Likhita, Dakṣa, and Gautama",
+          "role": "listed as a promulgator of dharmaśāstra"
+        }
+      ],
+      "description": "Vyāsa, the sage traditionally credited with compiling the Vedas and authoring the Mahābhārata, named among dharmaśāstra authorities.",
+      "justification": "Vyāsa is explicitly listed alongside other sages as a promulgator of the Dharmaśāstras in the opening enumeration of authorities."
+    },
+    {
+      "canonical_name": "Bṛhaspati",
+      "surface_names": ["Bṛhaspati"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-0f4ad0",
+          "quote": "Yama, Āpastamba, Saṃvarta, Kātyāyana, and Bṛhaspati",
+          "role": "listed as a promulgator of dharmaśāstra"
+        }
+      ],
+      "description": "Bṛhaspati, preceptor of the gods and recognized dharmaśāstra authority, named in the canonical list of lawgivers.",
+      "justification": "Bṛhaspati is explicitly enumerated among the dharmaśāstra promulgators in the text's opening canonical list."
+    },
+    {
+      "canonical_name": "Parāśara",
+      "surface_names": ["Parāśara"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-95ef53",
+          "quote": "Parāśara, Vyāsa, Śaṅkha, Likhita, Dakṣa, and Gautama",
+          "role": "listed as a promulgator of dharmaśāstra"
+        }
+      ],
+      "description": "Parāśara, a Vedic sage and father of Vyāsa, listed as one of the recognized promulgators of the Dharmaśāstras.",
+      "justification": "Parāśara is explicitly named in the canonical enumeration of dharmaśāstra authorities at the text's opening."
+    },
+    {
+      "canonical_name": "Vasiṣṭha",
+      "surface_names": ["Vasiṣṭha"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-95ef53",
+          "quote": "Śātātapa, and Vasiṣṭha are the promulgators of the Dharmaśāstras",
+          "role": "listed as a promulgator of dharmaśāstra"
+        }
+      ],
+      "description": "Vasiṣṭha, one of the seven great sages (saptarṣis), explicitly named as a promulgator of the Dharmaśāstras.",
+      "justification": "Vasiṣṭha is the last-named figure in the canonical list of dharmaśāstra authorities, closing the enumeration."
+    },
+    {
+      "canonical_name": "Yama",
+      "surface_names": ["Yama"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-0f4ad0",
+          "quote": "Yama, Āpastamba, Saṃvarta, Kātyāyana, and Bṛhaspati",
+          "role": "listed as a promulgator of dharmaśāstra"
+        }
+      ],
+      "description": "Yama, the god of death and dharmic justice, included among the recognized promulgators of the Dharmaśāstras.",
+      "justification": "Yama is explicitly enumerated in the canonical list of dharmaśāstra authorities, occupying a position between sages."
+    },
+    {
+      "canonical_name": "Prajāpati",
+      "surface_names": ["Prajāpati"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-51b26e",
+          "quote": "The base of the little finger, the forefinger, and the thumb, and the tip of the hand, are the Prajāpati, Pitṛ, Brahma, and Deva tīrthas, respectively",
+          "role": "deity associated with a ritual water-pouring point on the hand"
+        }
+      ],
+      "description": "Prajāpati, the lord of creatures and primordial creator deity, whose sacred tīrtha is identified with the base of the little finger.",
+      "justification": "Prajāpati is identified as the deity of a specific tīrtha (sacred point) on the hand used in ritual water-sipping."
+    },
+    {
+      "canonical_name": "Brahmā",
+      "surface_names": ["Brahmā", "Brahma", "world of Brahma"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-51b26e",
+          "quote": "The base of the little finger, the forefinger, and the thumb, and the tip of the hand, are the Prajāpati, Pitṛ, Brahma, and Deva tīrthas",
+          "role": "deity associated with a ritual tīrtha on the thumb"
+        },
+        {
+          "paragraph_id": "p-3ff800",
+          "quote": "he attains the world of Brahma and is not born here again",
+          "role": "lord of the highest world attainable by a perpetual celibate"
+        },
+        {
+          "paragraph_id": "p-f37a48",
+          "quote": "Having performed austerities, Brahmā created the Brāhmaṇas for the protection of the Vedas",
+          "role": "creator of the Brāhmaṇa varna"
+        },
+        {
+          "paragraph_id": "p-cfcfe5",
+          "quote": "the gift of Brahman (sacred knowledge) comprises all dharmas and is superior to all other gifts, one who gives it attains the eternal world of Brahma",
+          "role": "lord of the eternal world attained through giving sacred knowledge"
+        }
+      ],
+      "description": "Brahmā, the creator deity, who created the Brāhmaṇas through austerities, is associated with the highest cosmic world attained through celibacy and sacred knowledge.",
+      "justification": "Brahmā appears in multiple roles: as a ritual tīrtha, as the creator of Brāhmaṇas, and as the lord of the highest world attained through spiritual practice."
+    },
+    {
+      "canonical_name": "Soma",
+      "surface_names": ["Soma"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-83591f",
+          "quote": "Soma gave them purity, Gandharva gave them sweet speech",
+          "role": "deity who granted purity to women"
+        }
+      ],
+      "description": "Soma, the moon-deity and lord of the sacred drink, credited with granting purity to women in a mythological enumeration.",
+      "justification": "Soma is named as a deity who bestowed a divine gift (purity) upon women, establishing their sacred nature."
+    },
+    {
+      "canonical_name": "Gandharva",
+      "surface_names": ["Gandharva"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-83591f",
+          "quote": "Gandharva gave them sweet speech",
+          "role": "deity who granted sweet speech to women"
+        }
+      ],
+      "description": "Gandharva, the celestial musician, credited with bestowing sweet speech upon women in the mythological passage on their divine gifts.",
+      "justification": "Gandharva is named as the source of women's sweet speech in a theological justification for women's purity."
+    },
+    {
+      "canonical_name": "Pāvaka",
+      "surface_names": ["Pāvaka", "Fire"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-83591f",
+          "quote": "Pāvaka (Fire) gave them all-purifying nature; therefore, women are indeed pure",
+          "role": "deity who granted all-purifying nature to women"
+        }
+      ],
+      "description": "Pāvaka (Fire), the purifying deity, credited with granting women their all-purifying nature as a divine gift.",
+      "justification": "Pāvaka is named as the divine source of women's purifying quality, forming part of the theological argument for women's inherent purity."
+    },
+    {
+      "canonical_name": "Umā",
+      "surface_names": ["Umā"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-91e7b9",
+          "quote": "She who does not go to another man, whether her husband is alive or dead, attains fame in this world and rejoices with Umā in the next",
+          "role": "divine companion awarded to a chaste wife in the afterlife"
+        }
+      ],
+      "description": "Umā, the consort of Śiva and goddess of devotion, cited as the heavenly companion with whom a faithful wife is reunited in the afterlife.",
+      "justification": "Umā appears as the eschatological reward for wifely fidelity, marking the highest feminine spiritual attainment."
+    },
+    {
+      "canonical_name": "Mithilā",
+      "surface_names": ["Mithilā"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-4d4d87",
+          "quote": "Residing in Mithilā, that king of yogis, having meditated for a moment, said to the sages",
+          "role": "location where Yājñavalkya delivers his teaching"
+        }
+      ],
+      "description": "Mithilā, the ancient city and capital of the Videha kingdom, identified as the location where Yājñavalkya resides and gives his teachings.",
+      "justification": "Mithilā is given as the specific geographical setting of the text's framing dialogue, grounding the teaching in a real sacred site."
+    },
+    {
+      "canonical_name": "Brāhmaṇa",
+      "surface_names": ["Brāhmaṇa", "Brāhmaṇas", "twice-born"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-546db5",
+          "quote": "Brāhmaṇa, Kṣatriya, Vaiśya, and Śūdra are the varṇas; the first three are the twice-born",
+          "role": "first and highest varṇa"
+        },
+        {
+          "paragraph_id": "p-f37a48",
+          "quote": "Having performed austerities, Brahmā created the Brāhmaṇas for the protection of the Vedas",
+          "role": "divinely created class charged with preserving the Vedas"
+        },
+        {
+          "paragraph_id": "p-257298",
+          "quote": "For a Brāhmaṇa, accepting gifts, sacrificing for others, and teaching are additional",
+          "role": "class with distinctive duties"
+        }
+      ],
+      "description": "The Brāhmaṇa, the priestly and scholarly varṇa created by Brahmā to protect the Vedas, with special duties of teaching, sacrificing for others, and accepting gifts.",
+      "justification": "Brāhmaṇas are the most extensively discussed social group in this window, with their creation, privileges, duties, and ritual status elaborated throughout."
+    },
+    {
+      "canonical_name": "Kṣatriya",
+      "surface_names": ["Kṣatriya", "Kṣatriyas"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-546db5",
+          "quote": "Brāhmaṇa, Kṣatriya, Vaiśya, and Śūdra are the varṇas; the first three are the twice-born",
+          "role": "second varṇa"
+        },
+        {
+          "paragraph_id": "p-ca647c",
+          "quote": "The primary duty for a Kṣatriya is the protection of the people",
+          "role": "warrior class with duty to protect"
+        }
+      ],
+      "description": "The Kṣatriya, the warrior and ruling varṇa, whose primary duty is the protection of the people, alongside sacrificing, studying, and giving.",
+      "justification": "The Kṣatriya class is repeatedly defined by its protective duty and occupies distinct positions in the varna hierarchy throughout the text."
+    },
+    {
+      "canonical_name": "Vaiśya",
+      "surface_names": ["Vaiśya", "Vaiśyas"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-546db5",
+          "quote": "Brāhmaṇa, Kṣatriya, Vaiśya, and Śūdra are the varṇas; the first three are the twice-born",
+          "role": "third varṇa"
+        },
+        {
+          "paragraph_id": "p-ca647c",
+          "quote": "Money-lending, agriculture, trade, and cattle-rearing are prescribed for a Vaiśya",
+          "role": "mercantile class with economic duties"
+        }
+      ],
+      "description": "The Vaiśya, the mercantile and agricultural varṇa, whose prescribed occupations include money-lending, agriculture, trade, and cattle-rearing.",
+      "justification": "The Vaiśya is defined by its economic functions and twice-born status, appearing in multiple contexts of duty assignment and social ordering."
+    },
+    {
+      "canonical_name": "Śūdra",
+      "surface_names": ["Śūdra", "Śūdras"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-546db5",
+          "quote": "Brāhmaṇa, Kṣatriya, Vaiśya, and Śūdra are the varṇas; the first three are the twice-born",
+          "role": "fourth and lowest varṇa, not twice-born"
+        },
+        {
+          "paragraph_id": "p-529766",
+          "quote": "The duty of a Śūdra is the service of the twice-born; if unable to live by that, he may become a merchant",
+          "role": "servile class with duty of service"
+        }
+      ],
+      "description": "The Śūdra, the fourth and lowest varṇa, excluded from the twice-born initiation, whose prescribed duty is service to the three higher varṇas.",
+      "justification": "The Śūdra is consistently defined by its subordinate position and service duty, contrasted with the privileges of the twice-born throughout the text."
+    },
+    {
+      "canonical_name": "Caṇḍāla",
+      "surface_names": ["Caṇḍāla", "Caṇḍālas"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-a000ef",
+          "quote": "from a Śūdra is born a Caṇḍāla, who is excluded from all dharma",
+          "role": "outcaste group born of highest-lowest hypergamy"
+        },
+        {
+          "paragraph_id": "p-30b8d6",
+          "quote": "He should place food on the ground for dogs, Caṇḍālas, and crows",
+          "role": "recipients of the Bali offering placed on the ground"
+        },
+        {
+          "paragraph_id": "p-c2161f",
+          "quote": "One becomes a Caṇḍāla by performing a sacrifice with wealth begged from a Śūdra",
+          "role": "paradigmatic state of ritual degradation"
+        }
+      ],
+      "description": "The Caṇḍāla, the most degraded social group born of the union of a Śūdra man and a Brāhmaṇa woman (pratiloma), excluded from all dharma and recipients only of ground-level food offerings.",
+      "justification": "Caṇḍālas appear as the limit-case of social exclusion: excluded from dharma, fed along with dogs and crows, and used as the paradigm of ritual degradation."
+    },
+    {
+      "canonical_name": "Ṛg-Veda",
+      "surface_names": ["Ṛg-Veda", "Ṛgveda"],
+      "kind": "object",
+      "mentions": [
+        {
+          "paragraph_id": "p-2cb5b3",
+          "quote": "the twice-born who studies the Ṛg-Veda daily gratifies the gods, and the Ancestors with honey and ghee",
+          "role": "sacred text whose daily recitation gratifies gods and ancestors"
+        }
+      ],
+      "description": "The Ṛg-Veda, the oldest of the four Vedas, whose daily study by the twice-born generates cosmic merit that gratifies both gods and the ancestors.",
+      "justification": "The Ṛg-Veda is individually named with its specific ritual effects, affirming its role as a primary source of cosmic merit through recitation."
+    },
+    {
+      "canonical_name": "Yajur-Veda",
+      "surface_names": ["Yajur-Veda"],
+      "kind": "object",
+      "mentions": [
+        {
+          "paragraph_id": "p-2154cf",
+          "quote": "He who daily studies the Yajur-Veda according to his ability gratifies the gods with libations of ghee and nectar",
+          "role": "sacred text whose daily study gratifies gods with ghee and nectar"
+        }
+      ],
+      "description": "The Yajur-Veda, the ritual Veda of sacrificial formulae, whose daily study is said to gratify the gods with ghee and nectar and the ancestors similarly.",
+      "justification": "The Yajur-Veda is named with its specific meritorious effects, establishing each Veda's distinct ritual potency."
+    },
+    {
+      "canonical_name": "Sāma-Veda",
+      "surface_names": ["Sāma-Veda"],
+      "kind": "object",
+      "mentions": [
+        {
+          "paragraph_id": "p-c6bea2",
+          "quote": "He who daily recites the Sāma-Veda gratifies the gods with Soma and ghee",
+          "role": "sacred text whose recitation gratifies gods with Soma and ghee"
+        }
+      ],
+      "description": "The Sāma-Veda, the Veda of melodies and chants, whose daily recitation gratifies the gods with Soma and ghee.",
+      "justification": "The Sāma-Veda is listed with its own distinctive cosmic reward, paralleling the effects of the other Vedas."
+    },
+    {
+      "canonical_name": "Atharva-Veda",
+      "surface_names": ["Atharvāṅgirasa", "Atharva-Veda"],
+      "kind": "object",
+      "mentions": [
+        {
+          "paragraph_id": "p-406bc9",
+          "quote": "Reciting the Atharvāṅgirasa, the twice-born gratifies the gods with fat",
+          "role": "sacred text whose recitation generates merit for gods and ancestors"
+        }
+      ],
+      "description": "The Atharva-Veda (Atharvāṅgirasa), the fourth Veda dealing with spells and household rites, whose daily recitation gratifies gods with fat and ancestors with honey.",
+      "justification": "The Atharvāṅgirasa is named as the fourth of the canonical Vedas with its own distinctive meritorious effects."
+    },
+    {
+      "canonical_name": "Gāyatrī",
+      "surface_names": ["Gāyatrī"],
+      "kind": "object",
+      "mentions": [
+        {
+          "paragraph_id": "p-37f395",
+          "quote": "One should repeat the Gāyatrī, together with the Śiras, preceded by the Vyahṛtis, and joined with Praṇava at the beginning and end",
+          "role": "sacred mantra to be repeated at twilight worship"
+        }
+      ],
+      "description": "The Gāyatrī, the most sacred Vedic mantra (Ṛg-Veda 3.62.10), to be recited with specific prefixes and suffixes during the twilight worship ritual.",
+      "justification": "The Gāyatrī is specified as the central mantra of the twice-born's daily twilight worship practice."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Dharma as cosmic and social order",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-97f0a4",
+          "quote": "Declare to us in their entirety the dharma of the varṇas, the life-stages, and the others"
+        },
+        {
+          "paragraph_id": "p-7d795b",
+          "quote": "Revelation (the Vedas), tradition (the Smṛtis), the conduct of the virtuous, what is pleasing to one's own self, and desire born of right resolve—this is declared to be the root of dharma"
+        },
+        {
+          "paragraph_id": "p-9ece2c",
+          "quote": "Of sacrifice, right conduct, sense-control, non-violence, giving, and the study of the Veda—of these actions, this is the highest dharma: the vision of the Self through yoga"
+        }
+      ],
+      "justification": "Dharma is the organizing concept of the entire window: its sources, hierarchy, and culmination in yogic self-knowledge are laid out at the outset and govern every subsequent prescription."
+    },
+    {
+      "topic": "Authority and canonicity of sacred knowledge (Veda, Smṛti, Dharmaśāstra)",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-b83e2e",
+          "quote": "The Purāṇas, Nyāya, Mīmāṃsā, Dharmaśāstra, and the Aṅgas, together with the Vedas, are the fourteen sources of knowledge and of dharma"
+        },
+        {
+          "paragraph_id": "p-0f4ad0",
+          "quote": "Manu, Atri, Viṣṇu, Hārīta, Yājñavalkya, Uśanas, Aṅgiras, Yama, Āpastamba, Saṃvarta, Kātyāyana, and Bṛhaspati"
+        },
+        {
+          "paragraph_id": "p-95ef53",
+          "quote": "Parāśara, Vyāsa, Śaṅkha, Likhita, Dakṣa, and Gautama, Śātātapa, and Vasiṣṭha are the promulgators of the Dharmaśāstras"
+        }
+      ],
+      "justification": "The text immediately establishes its epistemic foundation by enumerating fourteen sources of dharmic knowledge and twenty named sages whose texts constitute the tradition's canon."
+    },
+    {
+      "topic": "Varṇāśrama dharma: duties of the four social orders and four life-stages",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-546db5",
+          "quote": "Brāhmaṇa, Kṣatriya, Vaiśya, and Śūdra are the varṇas; the first three are the twice-born"
+        },
+        {
+          "paragraph_id": "p-257298",
+          "quote": "Sacrificing, studying, and giving are the duties of a Vaiśya and a Kṣatriya. For a Brāhmaṇa, accepting gifts, sacrificing for others, and teaching are additional"
+        },
+        {
+          "paragraph_id": "p-ca647c",
+          "quote": "The primary duty for a Kṣatriya is the protection of the people"
+        }
+      ],
+      "justification": "The bulk of the window systematically prescribes specific duties for each varṇa and each āśrama (student, householder, graduate), which is the text's central organizing structure."
+    },
+    {
+      "topic": "Ritual purity and impurity",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-6b3d4b",
+          "quote": "Holding his generative organ, he should rise and, with earth and water drawn for the purpose, diligently perform the purification of the lower body"
+        },
+        {
+          "paragraph_id": "p-338e2c",
+          "quote": "The twice-born are purified by water reaching the heart, throat, and palate, respectively, according to their number"
+        },
+        {
+          "paragraph_id": "p-9ece2c",
+          "quote": "Bathing with mantras sacred to the water deities, purification by sprinkling, and control of the breath"
+        }
+      ],
+      "justification": "The student conduct section and the entire chapter 8 on purification of things demonstrate that ritual purity is a pervasive structuring concern governing bodies, objects, substances, and spaces."
+    },
+    {
+      "topic": "Brahmacarya (student celibacy) and the transmission of Vedic knowledge",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-c7a1e8",
+          "quote": "2. The Student Celibate (brahmacāriprakaraṇam)"
+        },
+        {
+          "paragraph_id": "p-6502fc",
+          "quote": "He is a Guru who, having performed the rites, bestows the Veda upon him. He who initiates and imparts the Veda is called an Ācārya"
+        },
+        {
+          "paragraph_id": "p-3ff800",
+          "quote": "Mortifying his body by this rule, with his senses conquered, he attains the world of Brahma and is not born here again"
+        }
+      ],
+      "justification": "An entire section (chapter 2) is devoted to the brahmacarī's vows, practices, and teachers, presenting celibate studentship as the foundational life-stage for the twice-born."
+    },
+    {
+      "topic": "Marriage forms and the regulation of sexual and reproductive life",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-36dbed",
+          "quote": "3. Marriage (vivāhaprakaraṇam)"
+        },
+        {
+          "paragraph_id": "p-4ad3d1",
+          "quote": "The Brāhma marriage is when a maiden, adorned according to one's ability, is given after being invited; a son born of it purifies twenty-one generations on both sides"
+        },
+        {
+          "paragraph_id": "p-f1f83f",
+          "quote": "The Āsura marriage is from the taking of wealth; the Gāndharva, by mutual agreement; the Rākṣasa, by capture in battle; the Paiśāca, by the deceitful seduction of a maiden"
+        }
+      ],
+      "justification": "Section 3 elaborates eight forms of marriage ranked by purity and soteriological efficacy, establishing marriage as a central mechanism of social reproduction and ritual status."
+    },
+    {
+      "topic": "Status of women, wifely duty, and female purity",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-83591f",
+          "quote": "Soma gave them purity, Gandharva gave them sweet speech, and Pāvaka (Fire) gave them all-purifying nature; therefore, women are indeed pure"
+        },
+        {
+          "paragraph_id": "p-c2ffdb",
+          "quote": "A wife must carry out her husband's word; this is the highest dharma for a woman"
+        },
+        {
+          "paragraph_id": "p-91e7b9",
+          "quote": "She who does not go to another man, whether her husband is alive or dead, attains fame in this world and rejoices with Umā in the next"
+        }
+      ],
+      "justification": "Multiple verses address women's inherent purity (through divine gifts), their prescribed duties of fidelity and obedience, and their heavenly rewards, constituting a sustained theology of femininity."
+    },
+    {
+      "topic": "Varna mixture and the classification of mixed-caste groups",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-6f0ad9",
+          "quote": "4. The Distinction of Castes and Births (varṇajātivivekaprakaraṇam)"
+        },
+        {
+          "paragraph_id": "p-04245a",
+          "quote": "From a Brāhmaṇa on a Kṣatriya woman, a Mūrdhāvasikta is born; on a Vaiśya woman, an Ambaṣṭha; on a Śūdra woman, a Niṣāda is born"
+        },
+        {
+          "paragraph_id": "p-e4b86f",
+          "quote": "An elevation of caste is known to occur in the seventh or even the fifth generation in an age"
+        }
+      ],
+      "justification": "Section 4 is entirely devoted to the genealogical classification of offspring from inter-varna unions, systematically cataloguing pratiloma and anuloma categories."
+    },
+    {
+      "topic": "The five great sacrifices (pañcamahāyajña) as the householder's cosmic duties",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-76e5e9",
+          "quote": "The offering to all beings, the oblation to the Ancestors, the oblation to the gods, Vedic study, and hospitality to guests—these are the great sacrifices (mahāyajñas) to the beings, Ancestors, gods, Brahman, and men"
+        },
+        {
+          "paragraph_id": "p-30b8d6",
+          "quote": "From the food remaining after the oblation to the gods, he should offer the Bali offering to all beings. He should place food on the ground for dogs, Caṇḍālas, and crows"
+        },
+        {
+          "paragraph_id": "p-0af84b",
+          "quote": "he should not neglect the five great sacrifices, using the mantra of salutation"
+        }
+      ],
+      "justification": "The text explicitly names and mandates the five great sacrifices as the non-negotiable daily duties of the householder, integrating cosmic obligation into domestic life."
+    },
+    {
+      "topic": "Gift-giving (dāna) as meritorious and soteriological action",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-f37a48",
+          "quote": "Having performed austerities, Brahmā created the Brāhmaṇas for the protection of the Vedas, for the satisfaction of the Ancestors and gods, and for the preservation of dharma"
+        },
+        {
+          "paragraph_id": "p-214da7",
+          "quote": "The giver of such a cow attains heaven for as many years as there are hairs on its body"
+        },
+        {
+          "paragraph_id": "p-cfcfe5",
+          "quote": "Because the gift of Brahman (sacred knowledge) comprises all dharmas and is superior to all other gifts, one who gives it attains the eternal world of Brahma"
+        }
+      ],
+      "justification": "Section 9 (Dānaprakaraṇam) dedicates a full chapter to the mechanics and rewards of gift-giving, ranking gifts by their soteriological power and identifying sacred knowledge as the supreme gift."
+    },
+    {
+      "topic": "Dietary rules: edible and inedible substances",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-f5823a",
+          "quote": "7. Edible and Inedible Foods (bhakṣyābhakṣyaprakaraṇam)"
+        },
+        {
+          "paragraph_id": "p-c8f267",
+          "quote": "Among five-toed animals, the iguana, tortoise, and porcupine are edible; also the hare, and among fish, the Siṃhatuṇḍa and Rohita"
+        },
+        {
+          "paragraph_id": "p-4ee43f",
+          "quote": "In peril of life, at a śrāddha, when it has been consecrated, or at the request of a Brāhmaṇa, one who eats meat after having worshipped the gods and the Ancestors is not tainted by meat"
+        }
+      ],
+      "justification": "Section 7 codifies an extensive taxonomy of permitted and forbidden foods, animals, and their exceptions, demonstrating that dietary regulation is a major axis of the text's purity code."
+    },
+    {
+      "topic": "Yoga and self-knowledge as the highest spiritual attainment",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-1e45c4",
+          "quote": "Of sacrifice, right conduct, sense-control, non-violence, giving, and the study of the Veda—of these actions, this is the highest dharma: the vision of the Self through yoga"
+        },
+        {
+          "paragraph_id": "p-3ff800",
+          "quote": "Mortifying his body by this rule, with his senses conquered, he attains the world of Brahma and is not born here again"
+        },
+        {
+          "paragraph_id": "p-97f0a4",
+          "quote": "Having honored Yājñavalkya, the lord of yogis"
+        }
+      ],
+      "justification": "Although presented in a legal-ritual text, Yājñavalkya's opening verse places yoga and Self-knowledge above all ritual actions, and his title 'lord of yogis' signals an implicit Vedāntic soteriology underlying the dharmaśāstra framework."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Dharmaśāstra of Manu (Manusmṛti)",
+      "cited_author": "Manu",
+      "stance": "authority",
+      "paragraph_id": "p-0f4ad0",
+      "quote": "Manu, Atri, Viṣṇu, Hārīta, Yājñavalkya, Uśanas, Aṅgiras",
+      "justification": "Manu is named as the first in a canonical list of dharmaśāstra authorities, implicitly invoking his text as a co-source of dharmic norms alongside the present work."
+    },
+    {
+      "cited_work": "Dharmaśāstra of Āpastamba (Āpastamba Dharmasūtra)",
+      "cited_author": "Āpastamba",
+      "stance": "authority",
+      "paragraph_id": "p-0f4ad0",
+      "quote": "Yama, Āpastamba, Saṃvarta, Kātyāyana, and Bṛhaspati",
+      "justification": "Āpastamba is named as a recognized authority in the canonical list of dharmaśāstra promulgators, placing his work within the tradition the present text claims to continue."
+    },
+    {
+      "cited_work": "Dharmaśāstra of Vasiṣṭha (Vasiṣṭha Dharmasūtra)",
+      "cited_author": "Vasiṣṭha",
+      "stance": "authority",
+      "paragraph_id": "p-95ef53",
+      "quote": "Śātātapa, and Vasiṣṭha are the promulgators of the Dharmaśāstras",
+      "justification": "Vasiṣṭha is named as one of the twenty authoritative dharmaśāstra promulgators whose teachings the present work situates itself within and extends."
+    },
+    {
+      "cited_work": "Dharmaśāstra of Vyāsa",
+      "cited_author": "Vyāsa",
+      "stance": "authority",
+      "paragraph_id": "p-95ef53",
+      "quote": "Parāśara, Vyāsa, Śaṅkha, Likhita, Dakṣa, and Gautama",
+      "justification": "Vyāsa is included among the canonical dharmaśāstra authorities, invoking his textual tradition as part of the recognized body of dharmic sources."
+    },
+    {
+      "cited_work": "Dharmaśāstra of Parāśara (Parāśara Smṛti)",
+      "cited_author": "Parāśara",
+      "stance": "authority",
+      "paragraph_id": "p-95ef53",
+      "quote": "Parāśara, Vyāsa, Śaṅkha, Likhita, Dakṣa, and Gautama",
+      "justification": "Parāśara's dharmaśāstra is implicitly cited by naming him in the canonical list of authoritative promulgators the present text acknowledges."
+    },
+    {
+      "cited_work": "Purāṇas (unspecified)",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-b83e2e",
+      "quote": "The Purāṇas, Nyāya, Mīmāṃsā, Dharmaśāstra, and the Aṅgas, together with the Vedas, are the fourteen sources of knowledge and of dharma",
+      "justification": "The Purāṇas are included among the fourteen authoritative sources of dharma, constituting a generic citation of the purāṇic textual corpus as a co-source of sacred knowledge."
+    }
+  ]
+}

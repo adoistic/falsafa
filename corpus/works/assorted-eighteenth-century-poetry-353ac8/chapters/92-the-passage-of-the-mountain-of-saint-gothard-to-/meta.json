@@ -1,0 +1,44 @@
+{
+  "work_slug": "assorted-eighteenth-century-poetry-353ac8",
+  "work_title": "An Assorted Collection of Eighteenth-Century Poetry",
+  "chapter_number": 92,
+  "chapter_title": "THE PASSAGE OF THE MOUNTAIN OF SAINT GOTHARD. TO MY CHILDREN.",
+  "chapter_slug": "92-the-passage-of-the-mountain-of-saint-gothard-to-",
+  "author": "Georgiana Spencer Cavendish",
+  "author_slug": "georgiana-spencer-cavendish",
+  "ecpa_poem_id": "pgc18-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "narrative verse"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 120
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "67cc4c33-eb62-59ec-863c-4c30e9ebfc35",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 926,
+      "line_count": 122,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

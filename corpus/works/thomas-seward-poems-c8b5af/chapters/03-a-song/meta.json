@@ -1,0 +1,44 @@
+{
+  "work_slug": "thomas-seward-poems-c8b5af",
+  "work_title": "Poems",
+  "chapter_number": 3,
+  "chapter_title": "A SONG.",
+  "chapter_slug": "03-a-song",
+  "author": "Thomas Seward",
+  "author_slug": "thomas-seward",
+  "ecpa_poem_id": "o5153-w0670",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "song"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "8.8.8.8",
+    "metrical_pattern": "-+|-+|-+|-+/     -+|-+|-+|-+/     -+|-+|-+|-+/     -+|-+|-+|-+/",
+    "line_count": 16
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0372e854-522c-5607-80ad-bf0c2201d293",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 103,
+      "line_count": 22,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

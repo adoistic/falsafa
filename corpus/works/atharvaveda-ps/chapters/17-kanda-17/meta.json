@@ -1,0 +1,38 @@
+{
+  "work_slug": "atharvaveda-ps",
+  "work_title": "Atharvaveda (Paippalāda)",
+  "chapter_number": 17,
+  "chapter_title": "Kāṇḍa 17",
+  "chapter_slug": "17-kanda-17",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "bbd4cf19-eace-5ce4-8ac8-e84bf4e67e68",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 7432,
+      "paragraph_count": 452,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "027c96ca-ba57-5411-997f-916328fb8147",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 13378,
+      "paragraph_count": 452,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    }
+  ]
+}

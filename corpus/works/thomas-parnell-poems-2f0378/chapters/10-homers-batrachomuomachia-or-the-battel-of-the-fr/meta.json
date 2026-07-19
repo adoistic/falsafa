@@ -1,0 +1,45 @@
+{
+  "work_slug": "thomas-parnell-poems-2f0378",
+  "work_title": "Poems",
+  "chapter_number": 10,
+  "chapter_title": "HOMER's BATRACHOMUOMACHIA: OR, THE BATTEL OF THE FROGS and MICE.",
+  "chapter_slug": "10-homers-batrachomuomachia-or-the-battel-of-the-fr",
+  "author": "Thomas Parnell",
+  "author_slug": "thomas-parnell",
+  "ecpa_poem_id": "o4106-w0090",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "narrative verse"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 490
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "63b574db-aa86-5f93-90f6-816a230c4cf9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3770,
+      "line_count": 500,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

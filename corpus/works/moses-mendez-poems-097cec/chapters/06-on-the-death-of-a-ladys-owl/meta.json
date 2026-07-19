@@ -1,0 +1,38 @@
+{
+  "work_slug": "moses-mendez-poems-097cec",
+  "work_title": "Poems",
+  "chapter_number": 6,
+  "chapter_title": "On the Death of a Lady's Owl.",
+  "chapter_slug": "06-on-the-death-of-a-ladys-owl",
+  "author": "Moses Mendez",
+  "author_slug": "moses-mendez",
+  "ecpa_poem_id": "o5155-w0210",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "epitaph"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "line_count": 28
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7762a999-3d78-53ff-8cd5-0b40ed105020",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 196,
+      "line_count": 31,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

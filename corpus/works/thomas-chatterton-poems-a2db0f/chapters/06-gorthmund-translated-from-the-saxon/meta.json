@@ -1,0 +1,39 @@
+{
+  "work_slug": "thomas-chatterton-poems-a2db0f",
+  "work_title": "Poems",
+  "chapter_number": 6,
+  "chapter_title": "GORTHMUND, TRANSLATED FROM THE SAXON.",
+  "chapter_slug": "06-gorthmund-translated-from-the-saxon",
+  "author": "Thomas Chatterton",
+  "author_slug": "thomas-chatterton",
+  "ecpa_poem_id": "o4039-w0060",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "prose poem",
+      "imitation",
+      "translation",
+      "paraphrase"
+    ],
+    "line_count": 23
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b764e7a1-7c58-5193-b469-185508d06512",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1589,
+      "line_count": 25,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

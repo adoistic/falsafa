@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 53**
+**Viṣṇu Smriti 53**
 
 Now, for illicit intercourse, wearing a garment of bark in the forest for a year, he shall perform the *prājāpatya* penance according to the rule of the *mahāvrata*. // Vi_53.1 //
 

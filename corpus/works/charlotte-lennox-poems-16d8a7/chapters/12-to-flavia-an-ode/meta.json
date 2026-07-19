@@ -1,0 +1,45 @@
+{
+  "work_slug": "charlotte-lennox-poems-16d8a7",
+  "work_title": "Poems",
+  "chapter_number": 12,
+  "chapter_title": "To FLAVIA, An ODE.",
+  "chapter_slug": "12-to-flavia-an-ode",
+  "author": "Charlotte Lennox",
+  "author_slug": "charlotte-lennox",
+  "ecpa_poem_id": "o5247-w0110",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "address",
+      "ode"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "8.8.8.8",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/",
+    "line_count": 32
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b698950a-3c37-5c00-a6e7-dae07b20ea70",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 214,
+      "line_count": 42,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "work_slug": "mary-tighe-poems-fb2218",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "[Psyche] Canto III.",
+  "chapter_slug": "04-psyche-canto-iii",
+  "author": "Mary Tighe",
+  "author_slug": "mary-tighe",
+  "ecpa_poem_id": "pmt18-w0022",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "narrative verse"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "nine-line stanza"
+    ],
+    "rhyme": "ababcdcdd",
+    "syllable_pattern": "10.10.10.10.10.10.10.10.12",
+    "metrical_pattern": "-+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+|-+/",
+    "line_count": 612
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d2ae412d-95f5-5573-a3f0-60f4d14af71d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4743,
+      "line_count": 614,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

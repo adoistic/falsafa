@@ -1,0 +1,594 @@
+{
+  "slug": "unknown-manusmrti-347b76",
+  "window": "08:75-129",
+  "entities": [
+    {
+      "canonical_name": "Manu",
+      "surface_names": ["Svayambhuva Manu", "Manu"],
+      "kind": "figure",
+      "figure_kind": "legendary lawgiver",
+      "mentions": [
+        {
+          "paragraph_id": "p-32b0ec",
+          "quote": "Svayambhuva Manu declared ten places of punishment, which may be applied to the three varnas; but a Brahmana should depart uninjured.",
+          "role": "divine authority whose declarations define the law"
+        },
+        {
+          "paragraph_id": "p-1db2a4",
+          "quote": "this is the ordinance of Manu",
+          "role": "authoritative source for the rule on debt fines"
+        },
+        {
+          "paragraph_id": "p-21dace",
+          "quote": "What is given by force, enjoyed by force, and also what is written by force—all things done by force, Manu has declared to be undone.",
+          "role": "lawgiver whose declaration invalidates coerced transactions"
+        }
+      ],
+      "description": "The legendary progenitor-lawgiver Manu, invoked as the supreme authority behind the legal and penal rules presented in this window.",
+      "justification": "Manu is cited by name as the source of specific legal ordinances, including punishments and rules on forced transactions, grounding these injunctions in divine-legislative authority."
+    },
+    {
+      "canonical_name": "Brahma",
+      "surface_names": ["Brahma"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-803bc3",
+          "quote": "That place where three Brahmanas learned in the Veda sit, and the learned man appointed by the king—that they know to be the court of Brahma.",
+          "role": "divine exemplar whose court the royal tribunal imitates"
+        },
+        {
+          "paragraph_id": "p-803bc3",
+          "quote": "A witness who speaks the truth in his evidence obtains abundant worlds, and here on earth, unsurpassed fame; this speech is praised by Brahma.",
+          "role": "divine approver of truthful testimony"
+        }
+      ],
+      "description": "Brahma, the creator deity, whose court serves as the divine prototype for the royal court of justice and who praises truthful witnesses.",
+      "justification": "Brahma is explicitly named as the divine model for the earthly court and as the approver of truth-speech, linking judicial procedure to cosmic order."
+    },
+    {
+      "canonical_name": "Varuna",
+      "surface_names": ["Varuna"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-803bc3",
+          "quote": "He who speaks an untruth in his evidence is bound fast by the fetters of Varuna, helpless, for a hundred births; therefore, one should speak the truth in evidence.",
+          "role": "deity who punishes perjury with cosmic bondage"
+        },
+        {
+          "paragraph_id": "p-803bc3",
+          "quote": "Or he should offer ghee in the fire according to the rule with the Kushmanda texts, or with the Rik verse beginning \"ud,\" which is sacred to Varuna, or with the three verses sacred to the water deities.",
+          "role": "deity to whom expiatory rites are addressed"
+        },
+        {
+          "paragraph_id": "p-803bc3",
+          "quote": "If you have no dispute with Yama, the son of Vivasvat, the god who is seated in your heart, then do not go to the Ganga, nor to the Kurus.",
+          "role": "implicit cosmic overseer referenced alongside Yama"
+        }
+      ],
+      "description": "Varuna, the Vedic deity of cosmic order and oath-keeping, who binds perjurers in his fetters and receives expiatory oblations from those who have spoken falsely.",
+      "justification": "Varuna is named as the enforcer of oaths and truth in testimony, and specific Vedic verses sacred to him are prescribed as expiation for false speech."
+    },
+    {
+      "canonical_name": "Yama",
+      "surface_names": ["Yama", "son of Vivasvat"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-803bc3",
+          "quote": "Heaven, earth, water, the heart, the moon, sun, fire, Yama, and the wind, night, the two twilights, and Dharma—these know the conduct of all embodied beings.",
+          "role": "cosmic witness to human conduct"
+        },
+        {
+          "paragraph_id": "p-803bc3",
+          "quote": "If you have no dispute with Yama, the son of Vivasvat, the god who is seated in your heart, then do not go to the Ganga, nor to the Kurus.",
+          "role": "inner divine judge whose seat is the human heart"
+        }
+      ],
+      "description": "Yama, the deity of death and cosmic justice, who witnesses all human conduct and serves as the inner judge residing in the heart of every person.",
+      "justification": "Yama is invoked both as one of the cosmic witnesses to human behavior and as the inner deity seated in the heart, making him the ultimate observer before whom false testimony is most consequential."
+    },
+    {
+      "canonical_name": "Sarasvati",
+      "surface_names": ["Sarasvati"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-803bc3",
+          "quote": "They should offer sacrifices to Sarasvati with oblations sacred to the deity of speech, performing the highest expiation for that sin of falsehood.",
+          "role": "deity of speech to whom expiation for perjury is offered"
+        }
+      ],
+      "description": "Sarasvati, the goddess of speech and learning, to whom oblations are offered as expiation for the sin of false testimony.",
+      "justification": "Sarasvati is prescribed as the recipient of the principal expiatory sacrifice for perjury, connecting the sin of false speech to the deity who governs speech."
+    },
+    {
+      "canonical_name": "Vatsa",
+      "surface_names": ["Vatsa"],
+      "kind": "figure",
+      "figure_kind": "historical/legendary figure",
+      "mentions": [
+        {
+          "paragraph_id": "p-803bc3",
+          "quote": "For of Vatsa, who was formerly accused by his younger brother, the fire did not burn even a hair, because of the truth, O spy of the world.",
+          "role": "exemplary figure who was vindicated by the fire-ordeal due to his truthfulness"
+        }
+      ],
+      "description": "Vatsa, a legendary figure cited as a historical exemplar of the fire-ordeal, whose truthfulness caused fire not to burn him when accused by his younger brother.",
+      "justification": "Vatsa is named as a concrete precedent for the ordeal by fire, demonstrating that truth protects the innocent from the flames."
+    },
+    {
+      "canonical_name": "Vasishtha",
+      "surface_names": ["Vasishtha"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-803bc3",
+          "quote": "Oaths have been made by the great sages and by the gods for the sake of a matter; and Vasishtha also swore an oath in the case of king Paijavana.",
+          "role": "venerable sage who set the precedent for oath-taking"
+        },
+        {
+          "paragraph_id": "p-85e12e",
+          "quote": "A moneylender may take the interest prescribed by Vasishtha for the increase of his capital, taking the eightieth part per month on each hundred.",
+          "role": "authority whose interest-rate ruling is cited as legal precedent"
+        }
+      ],
+      "description": "The great Vedic sage Vasishtha, cited both as having sworn an oath before king Paijavana and as having prescribed a specific lawful rate of interest.",
+      "justification": "Vasishtha is invoked on two distinct legal points—oath-taking procedure and interest rates—marking him as a recognized juristic authority alongside Manu."
+    },
+    {
+      "canonical_name": "King Paijavana",
+      "surface_names": ["king Paijavana"],
+      "kind": "figure",
+      "figure_kind": "legendary king",
+      "mentions": [
+        {
+          "paragraph_id": "p-803bc3",
+          "quote": "Oaths have been made by the great sages and by the gods for the sake of a matter; and Vasishtha also swore an oath in the case of king Paijavana.",
+          "role": "king in whose legal case Vasishtha gave testimony under oath"
+        }
+      ],
+      "description": "King Paijavana, a legendary king in whose case the sage Vasishtha swore an oath, establishing a divine and sagely precedent for judicial oath-taking.",
+      "justification": "Paijavana is the named royal party in the precedent-setting oath-case involving Vasishtha, grounding the practice of judicial oaths in authoritative mythological history."
+    },
+    {
+      "canonical_name": "Brahmana",
+      "surface_names": ["Brahmana", "twice-born", "Brahmin"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-803bc3",
+          "quote": "But a king, desiring to adjudicate lawsuits, should enter the court of justice, being humble, together with Brahmanas and with ministers skilled in counsel.",
+          "role": "required participants in the royal court of justice"
+        },
+        {
+          "paragraph_id": "p-803bc3",
+          "quote": "Let a mere Brahmana by birth, or one who calls himself a Brahmana, be the expounder of Dharma for the king, but never a Shudra.",
+          "role": "sole permitted expositor of Dharma for the king"
+        },
+        {
+          "paragraph_id": "p-83078c",
+          "quote": "A righteous king, having fined the three varnas who give false evidence, should banish them; but a Brahmana he should merely banish.",
+          "role": "privileged varna exempt from corporal punishment"
+        },
+        {
+          "paragraph_id": "p-32b0ec",
+          "quote": "Svayambhuva Manu declared ten places of punishment, which may be applied to the three varnas; but a Brahmana should depart uninjured.",
+          "role": "varna exempt from the ten bodily punishments"
+        }
+      ],
+      "description": "The Brahmana varna, the priestly class, who serve as required advisors in the royal court, sole legitimate expositors of Dharma, and who are uniquely exempt from corporal punishment.",
+      "justification": "Brahmanas are consistently distinguished from other varnas with privileged exemptions in the judicial procedures and punishments described throughout this window."
+    },
+    {
+      "canonical_name": "Kshatriya",
+      "surface_names": ["Kshatriya"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-803bc3",
+          "quote": "He should question a Brahmana with 'Speak'; a Kshatriya with 'Speak the truth'; a Vaishya by his cows, grain, and gold; and a Shudra by all sins.",
+          "role": "varna with a specific judicial oath-formula"
+        },
+        {
+          "paragraph_id": "p-803bc3",
+          "quote": "He should make a Brahmana swear by the truth; a Kshatriya by his vehicle and weapons; a Vaishya by his cows, grain, and gold; and a Shudra by all sins.",
+          "role": "varna sworn by vehicles and weapons in formal oaths"
+        }
+      ],
+      "description": "The Kshatriya warrior-noble varna, for whom specific oath formulas invoking their vehicle and weapons are prescribed in judicial proceedings.",
+      "justification": "Kshatriyas are distinguished from other varnas by the specific formula by which they must swear oaths, reflecting their martial identity."
+    },
+    {
+      "canonical_name": "Vaishya",
+      "surface_names": ["Vaishya"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-803bc3",
+          "quote": "He should question a Brahmana with 'Speak'; a Kshatriya with 'Speak the truth'; a Vaishya by his cows, grain, and gold; and a Shudra by all sins.",
+          "role": "varna sworn by agricultural and mercantile wealth in judicial oath"
+        }
+      ],
+      "description": "The Vaishya merchant-farmer varna, for whom oaths are taken by their characteristic forms of wealth—cows, grain, and gold.",
+      "justification": "Vaishyas are distinguished by the specific material of their judicial oath, reflecting their identity as the agricultural and mercantile class."
+    },
+    {
+      "canonical_name": "Shudra",
+      "surface_names": ["Shudra"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-803bc3",
+          "quote": "Let a mere Brahmana by birth, or one who calls himself a Brahmana, be the expounder of Dharma for the king, but never a Shudra.",
+          "role": "excluded from serving as expounder of Dharma"
+        },
+        {
+          "paragraph_id": "p-803bc3",
+          "quote": "The kingdom of that king for whom a Shudra performs the investigation of Dharma sinks, like a cow in the mud, as he looks on.",
+          "role": "varna whose judicial authority brings ruin"
+        },
+        {
+          "paragraph_id": "p-803bc3",
+          "quote": "He should question a Brahmana with 'Speak'; a Kshatriya with 'Speak the truth'; a Vaishya by his cows, grain, and gold; and a Shudra by all sins.",
+          "role": "varna sworn by all sins in judicial oath"
+        }
+      ],
+      "description": "The Shudra servile varna, who are explicitly barred from adjudicating or expounding Dharma, and whose judicial oath invokes all sins as a deterrent.",
+      "justification": "Shudras are consistently framed as a disqualified or lowest class in the judicial proceedings described, with the text prescribing severe consequences for a king who allows them to adjudicate."
+    },
+    {
+      "canonical_name": "Dharma",
+      "surface_names": ["Dharma", "divine Dharma"],
+      "kind": "idea",
+      "mentions": [
+        {
+          "paragraph_id": "p-803bc3",
+          "quote": "Dharma, being destroyed, destroys; Dharma, being protected, protects. Therefore, Dharma must not be destroyed, lest destroyed Dharma destroy us.",
+          "role": "cosmic-moral principle that is both protector and destroyer"
+        },
+        {
+          "paragraph_id": "p-803bc3",
+          "quote": "For the divine Dharma is a bull; he who violates it, him the gods know as a vṛṣala (one who harms Dharma); therefore, one must not violate Dharma.",
+          "role": "personified cosmic principle embodied as a bull"
+        },
+        {
+          "paragraph_id": "p-803bc3",
+          "quote": "Dharma is the one friend who follows even in death; for everything else goes to destruction along with the body.",
+          "role": "sole post-mortem companion"
+        },
+        {
+          "paragraph_id": "p-803bc3",
+          "quote": "Where Dharma is slain by non-Dharma, and truth by falsehood, while the members of the court look on—there the members of the court are slain.",
+          "role": "principle whose violation implicates all court members"
+        }
+      ],
+      "description": "Dharma, the foundational cosmic-legal-moral order, personified as a bull and as a post-mortem companion, which must be upheld by courts and kings on pain of mutual destruction.",
+      "justification": "Dharma is the organizing idea of the entire judicial section; it is explicitly personified, attributed agency, and its protection is declared the supreme purpose of royal justice."
+    },
+    {
+      "canonical_name": "Ganga",
+      "surface_names": ["Ganga"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-803bc3",
+          "quote": "If you have no dispute with Yama, the son of Vivasvat, the god who is seated in your heart, then do not go to the Ganga, nor to the Kurus.",
+          "role": "sacred site whose purificatory visit is rendered unnecessary by inner virtue"
+        }
+      ],
+      "description": "The Ganga (Ganges) river, a sacred Hindu pilgrimage site, cited as an example of external purification that becomes superfluous for the person who is already pure in inner conscience before Yama.",
+      "justification": "The Ganga is named alongside the Kurus as a paradigmatic sacred site, contrasted with the inner purity of truthful testimony."
+    },
+    {
+      "canonical_name": "Kurus",
+      "surface_names": ["Kurus"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-803bc3",
+          "quote": "If you have no dispute with Yama, the son of Vivasvat, the god who is seated in your heart, then do not go to the Ganga, nor to the Kurus.",
+          "role": "sacred region whose visit is rendered unnecessary by inner virtue"
+        }
+      ],
+      "description": "The Kurus, a famous sacred territory and pilgrimage destination, paired with the Ganga as an example of external purification made redundant by inner righteousness.",
+      "justification": "The Kurus are named alongside the Ganga as a sacred destination, contrasting external pilgrimage with the inner tribunal of conscience."
+    },
+    {
+      "canonical_name": "Kurukshetra",
+      "surface_names": ["Kurukshetra"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-803bc3",
+          "quote": "Men from Kurukshetra, Matsya, Panchala, and Shurasena, who are tall and light, he should employ in the vanguard.",
+          "role": "region whose warriors are recommended for the military vanguard"
+        }
+      ],
+      "description": "Kurukshetra, the sacred plain in northern India, named as a region whose men—along with those from Matsya, Panchala, and Shurasena—are recommended as vanguard troops.",
+      "justification": "Kurukshetra is cited as a specific geographic source of superior soldiers for a king's army, reflecting its historical association with martial prowess."
+    },
+    {
+      "canonical_name": "Matsya",
+      "surface_names": ["Matsya"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-803bc3",
+          "quote": "Men from Kurukshetra, Matsya, Panchala, and Shurasena, who are tall and light, he should employ in the vanguard.",
+          "role": "region whose warriors are recommended for the military vanguard"
+        }
+      ],
+      "description": "Matsya, a kingdom of ancient India, cited alongside Kurukshetra, Panchala, and Shurasena as a source of superior vanguard soldiers.",
+      "justification": "Matsya is named as one of four specific regions whose tall, light warriors are recommended for front-line military service."
+    },
+    {
+      "canonical_name": "Panchala",
+      "surface_names": ["Panchala"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-803bc3",
+          "quote": "Men from Kurukshetra, Matsya, Panchala, and Shurasena, who are tall and light, he should employ in the vanguard.",
+          "role": "region whose warriors are recommended for the military vanguard"
+        }
+      ],
+      "description": "Panchala, a kingdom of ancient India, cited as a source of tall, light warriors suitable for the military vanguard.",
+      "justification": "Panchala is named as one of four geographic regions whose soldiers are specifically recommended for vanguard deployment."
+    },
+    {
+      "canonical_name": "Shurasena",
+      "surface_names": ["Shurasena"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-803bc3",
+          "quote": "Men from Kurukshetra, Matsya, Panchala, and Shurasena, who are tall and light, he should employ in the vanguard.",
+          "role": "region whose warriors are recommended for the military vanguard"
+        }
+      ],
+      "description": "Shurasena, a kingdom of ancient India associated with the Yadavas, cited as a source of superior vanguard troops.",
+      "justification": "Shurasena is named as the fourth in the list of regions whose warriors are recommended for front-line deployment."
+    },
+    {
+      "canonical_name": "Margashirsha",
+      "surface_names": ["Margashirsha"],
+      "kind": "event",
+      "mentions": [
+        {
+          "paragraph_id": "p-803bc3",
+          "quote": "In the auspicious month of Margashirsha, the king should set out on an expedition; or in the months of Phalguna or Chaitra, according to his strength.",
+          "role": "auspicious month prescribed for the commencement of military campaigns"
+        }
+      ],
+      "description": "Margashirsha, the auspicious Hindu calendar month (November–December), prescribed as the preferred time for a king to commence a military expedition.",
+      "justification": "Margashirsha is the first of three calendar months cited as auspicious for launching war, grounding military timing in ritual-calendrical considerations."
+    },
+    {
+      "canonical_name": "Daṇḍa array",
+      "surface_names": ["Daṇḍa", "Daṇḍa array"],
+      "kind": "object",
+      "mentions": [
+        {
+          "paragraph_id": "p-803bc3",
+          "quote": "He should march on that road in the Daṇḍa array or in the Śakaṭa (cart) array, or in the Varāha (boar) or Makara (sea-monster) arrays, or in the Sūcī (needle) or Garuḍa (eagle) arrays.",
+          "role": "one of the six military formations available to a marching king"
+        }
+      ],
+      "description": "The Daṇḍa ('staff' or 'rod') military array, one of six named battle formations a king may employ during a march.",
+      "justification": "The Daṇḍa array is the first of six specific named military formations prescribed for a marching king, indicating a taxonomy of tactical deployments."
+    },
+    {
+      "canonical_name": "Garuḍa array",
+      "surface_names": ["Garuḍa", "Garuḍa (eagle) array"],
+      "kind": "object",
+      "mentions": [
+        {
+          "paragraph_id": "p-803bc3",
+          "quote": "He should march on that road in the Daṇḍa array or in the Śakaṭa (cart) array, or in the Varāha (boar) or Makara (sea-monster) arrays, or in the Sūcī (needle) or Garuḍa (eagle) arrays.",
+          "role": "one of six military formations for a marching army"
+        }
+      ],
+      "description": "The Garuḍa (eagle) military array, a named battle formation taking the shape of the mythical eagle Garuḍa, one of six tactical deployments prescribed for a marching king.",
+      "justification": "The Garuḍa array is named as the sixth and final military formation in the list, its name evoking the mythical eagle vehicle of Vishnu."
+    },
+    {
+      "canonical_name": "Padma array",
+      "surface_names": ["Padma", "Padma (lotus) array"],
+      "kind": "object",
+      "mentions": [
+        {
+          "paragraph_id": "p-803bc3",
+          "quote": "And from whichever direction he apprehends danger, in that direction he should extend his army; and he himself should always encamp in the Padma (lotus) array.",
+          "role": "defensive encampment formation reserved for the king himself"
+        }
+      ],
+      "description": "The Padma (lotus) military formation, prescribed specifically as the king's personal encampment array, distinct from the march formations used by the broader army.",
+      "justification": "The Padma array is uniquely prescribed for the king's own encampment, distinguishing his protective formation from those used in active maneuver."
+    },
+    {
+      "canonical_name": "Vajra array",
+      "surface_names": ["Vajra", "Vajra (thunderbolt) array"],
+      "kind": "object",
+      "mentions": [
+        {
+          "paragraph_id": "p-803bc3",
+          "quote": "He should make a few men fight in a compact formation, but many he may extend at will; he should make them fight, having drawn them up in the Sūcī (needle) or Vajra (thunderbolt) array.",
+          "role": "battle formation for troops in active combat"
+        }
+      ],
+      "description": "The Vajra (thunderbolt) battle array, named after the divine weapon of Indra, prescribed as one of two formations for troops engaged in active combat.",
+      "justification": "The Vajra array is prescribed for battlefield deployment, paired with the Sūcī array, and its name invokes the thunderbolt—symbolizing concentrated striking power."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Royal military strategy and the six expedients",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-803bc3",
+          "quote": "He should employ halting and marching, peace and war, dividing his forces, and seeking refuge, having considered the matter at hand."
+        },
+        {
+          "paragraph_id": "p-803bc3",
+          "quote": "A lord of the earth who knows policy should so act with all expedients that his allies, neutral kings, and enemies do not become superior to him."
+        }
+      ],
+      "justification": "The opening passages of this window systematically enumerate and define the six political-military expedients (ṣāḍguṇya): peace, war, marching, halting, dividing forces, and seeking refuge—forming a coherent theory of statecraft."
+    },
+    {
+      "topic": "The cosmic and moral stakes of truthful testimony",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-803bc3",
+          "quote": "Dharma, being destroyed, destroys; Dharma, being protected, protects. Therefore, Dharma must not be destroyed, lest destroyed Dharma destroy us."
+        },
+        {
+          "paragraph_id": "p-803bc3",
+          "quote": "He who speaks an untruth in his evidence is bound fast by the fetters of Varuna, helpless, for a hundred births; therefore, one should speak the truth in evidence."
+        },
+        {
+          "paragraph_id": "p-803bc3",
+          "quote": "He slays five by a falsehood concerning cattle, he slays ten by a falsehood concerning cows, he slays a hundred by a falsehood concerning a horse, and a thousand by a falsehood concerning a man."
+        }
+      ],
+      "justification": "An extensive section on perjury enumerates escalating cosmic consequences for false testimony, framing truthful witness not merely as a procedural requirement but as a cosmological obligation with karmic ramifications across multiple births."
+    },
+    {
+      "topic": "Varna hierarchy in judicial procedure",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-803bc3",
+          "quote": "Let a mere Brahmana by birth, or one who calls himself a Brahmana, be the expounder of Dharma for the king, but never a Shudra."
+        },
+        {
+          "paragraph_id": "p-83078c",
+          "quote": "A righteous king, having fined the three varnas who give false evidence, should banish them; but a Brahmana he should merely banish."
+        },
+        {
+          "paragraph_id": "p-803bc3",
+          "quote": "Women should give evidence for women, and for the twice-born, similar twice-born; and virtuous Shudras for Shudras, and those of the lowest birth for the lowest castes."
+        }
+      ],
+      "justification": "The rules of evidence, qualification of witnesses, oath formulas, and punishments are all systematically differentiated by varna, making caste hierarchy the structural backbone of the entire judicial procedure described in this window."
+    },
+    {
+      "topic": "The king's daily governance routine",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-803bc3",
+          "quote": "Thus having deliberated on all this with his ministers, the king, having exercised and bathed at midday, should enter the inner apartments to eat."
+        },
+        {
+          "paragraph_id": "p-803bc3",
+          "quote": "Having performed his twilight devotions, he should, bearing a weapon in his inner chamber, hear the reports of his secret informers and the activities of his spies."
+        }
+      ],
+      "justification": "A section describes the prescribed daily schedule of the king—exercise, eating, inspecting troops, consulting spies, twilight devotions, and entry to court—presenting an ideal model of royal self-governance and administrative vigilance."
+    },
+    {
+      "topic": "Debt, interest, and financial transactions law",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-85e12e",
+          "quote": "A moneylender may take the interest prescribed by Vasishtha for the increase of his capital, taking the eightieth part per month on each hundred."
+        },
+        {
+          "paragraph_id": "p-dc4c89",
+          "quote": "Interest on a loan, when taken at once, must not exceed double the principal; on grain, produce, wool, and beasts of burden, it must not exceed five times the principal."
+        },
+        {
+          "paragraph_id": "p-013fa2",
+          "quote": "One should not take interest beyond the year, nor interest that has not been specified; nor compound interest, periodic interest, stipulated interest, or interest paid through bodily labor."
+        }
+      ],
+      "justification": "The latter portion of the window shifts to a detailed legal code governing moneylending, pledges, sureties, and debt recovery, establishing maximum interest rates, types of prohibited interest, and rules for valid transactions."
+    },
+    {
+      "topic": "Inner conscience as supreme witness",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-803bc3",
+          "quote": "The Self is indeed the witness of the Self, and the Self is the refuge of the Self; do not despise your own Self, the supreme witness of men."
+        },
+        {
+          "paragraph_id": "p-803bc3",
+          "quote": "The doers of sin think, 'No one sees us'; but the gods see them, and the inner person within themselves."
+        },
+        {
+          "paragraph_id": "p-803bc3",
+          "quote": "You who think, O good one, 'I am alone,' you do not know that this sage, the constant observer of merit and sin, is seated in your heart."
+        }
+      ],
+      "justification": "Across the oath and testimony section, a recurring implicit theme emerges: external legal procedure is ultimately grounded in inner moral awareness, with the ātman (Self) and the divine inner witness (Yama, the inner sage) surpassing any external court as the ultimate guarantor of truth."
+    },
+    {
+      "topic": "Fate and human effort as complementary forces",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-803bc3",
+          "quote": "All this action is dependent on the ordinance of fate and human effort. Of these two, fate is unknowable, but in human effort, action is found."
+        },
+        {
+          "paragraph_id": "p-803bc3",
+          "quote": "Even when joined with fate, a thing devoid of human effort is fruitless. Without human effort, a field does not yield its fruit."
+        },
+        {
+          "paragraph_id": "p-803bc3",
+          "quote": "The moon, sun, and other planets, the wind, fire, and the waters as well—here they are controlled by fate and are mastered through diligent human effort."
+        }
+      ],
+      "justification": "A philosophical digression within the military strategy section articulates a theory of the relationship between daiva (fate/divine ordinance) and puruṣakāra (human effort), asserting their complementarity and the indispensability of effort."
+    },
+    {
+      "topic": "Protection of vulnerable property and persons",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-803bc3",
+          "quote": "The king should protect the inheritance of a minor until he has returned from his studies, or until he has passed his childhood."
+        },
+        {
+          "paragraph_id": "p-803bc3",
+          "quote": "Likewise, there should be protection for barren women, for those without family, for virtuous wives, for widows, and for sick women."
+        },
+        {
+          "paragraph_id": "p-a00a12",
+          "quote": "A pledge, a boundary, the property of a minor, a deposit, a sealed deposit, women, the property of a king, and the property of a śrotriya are not lost through enjoyment."
+        }
+      ],
+      "justification": "Multiple rules across the judicial and property-law sections address the special protection owed to those unable to defend their own interests—minors, widows, barren women, and sick persons—as well as certain categories of property that cannot be lost through adverse possession."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Dharmaśāstra of Vasishtha",
+      "cited_author": "Vasishtha",
+      "stance": "authority",
+      "paragraph_id": "p-85e12e",
+      "quote": "A moneylender may take the interest prescribed by Vasishtha for the increase of his capital, taking the eightieth part per month on each hundred.",
+      "justification": "The text explicitly names Vasishtha and cites his prescriptions as legally binding authority for the interest rate rule, constituting a genuine reference to another juristic text or tradition."
+    },
+    {
+      "cited_work": "Unknown legal/oath tradition",
+      "cited_author": "Vasishtha",
+      "stance": "authority",
+      "paragraph_id": "p-803bc3",
+      "quote": "Oaths have been made by the great sages and by the gods for the sake of a matter; and Vasishtha also swore an oath in the case of king Paijavana.",
+      "justification": "The mention of Vasishtha's oath before king Paijavana invokes an authoritative narrative tradition—likely from a Dharmasūtra or Itihāsa—to establish the legitimacy of judicial oaths."
+    }
+  ]
+}

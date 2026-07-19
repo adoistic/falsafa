@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 58**
+**Viṣṇu Smriti 58**
 
 Now, for a householder, wealth is of three kinds. // Vi_58.1 //
 

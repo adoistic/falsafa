@@ -1,0 +1,44 @@
+{
+  "work_slug": "mary-leapor-poems-1431de",
+  "work_title": "Poems",
+  "chapter_number": 15,
+  "chapter_title": "The CRUCIFIXION and RESURRECTION. An ODE.",
+  "chapter_slug": "15-the-crucifixion-and-resurrection-an-ode",
+  "author": "Mary Leapor",
+  "author_slug": "mary-leapor",
+  "ecpa_poem_id": "o5125-w0150",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "sestet (6 lines)"
+    ],
+    "rhyme": "aabbcc",
+    "syllable_pattern": "8.8.8.8.10.10",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/",
+    "line_count": 37
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7ac378d7-e8d5-5477-8c2c-256aa714a6f4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 256,
+      "line_count": 45,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

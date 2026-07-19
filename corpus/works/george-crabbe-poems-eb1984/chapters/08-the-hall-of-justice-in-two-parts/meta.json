@@ -1,0 +1,42 @@
+{
+  "work_slug": "george-crabbe-poems-eb1984",
+  "work_title": "Poems",
+  "chapter_number": 8,
+  "chapter_title": "THE HALL OF JUSTICE. IN TWO PARTS.",
+  "chapter_slug": "08-the-hall-of-justice-in-two-parts",
+  "author": "George Crabbe",
+  "author_slug": "george-crabbe",
+  "ecpa_poem_id": "pcr18-w0080",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "dialogue",
+      "drama"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "rhyme": "abab",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 250
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "24e8da95-bc5b-5341-b160-bcbb42279413",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1737,
+      "line_count": 263,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

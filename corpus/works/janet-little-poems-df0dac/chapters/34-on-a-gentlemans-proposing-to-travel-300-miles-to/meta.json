@@ -1,0 +1,44 @@
+{
+  "work_slug": "janet-little-poems-df0dac",
+  "work_title": "Poems",
+  "chapter_number": 34,
+  "chapter_title": "ON A GENTLEMAN'S PROPOSING TO TRAVEL 300 MILES TO SEE J—. H—. ESQ.'S CHILD.",
+  "chapter_slug": "34-on-a-gentlemans-proposing-to-travel-300-miles-to",
+  "author": "Janet Little",
+  "author_slug": "janet-little",
+  "ecpa_poem_id": "bjl92-w0340",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "occasional poem"
+    ],
+    "foot": "anapaestic (˘˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "12.9.12.9",
+    "metrical_pattern": "--+|--+|--+|--+/ --+|--+|--+/ --+|--+|--+|--+/ --+|--+|--+/",
+    "line_count": 24
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6f657663-b546-5f6e-9215-83a73fbb461c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 198,
+      "line_count": 25,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

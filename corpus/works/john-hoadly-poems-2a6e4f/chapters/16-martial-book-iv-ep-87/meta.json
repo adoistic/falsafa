@@ -1,0 +1,47 @@
+{
+  "work_slug": "john-hoadly-poems-2a6e4f",
+  "work_title": "Poems",
+  "chapter_number": 16,
+  "chapter_title": "MARTIAL, Book IV. Ep. 87.",
+  "chapter_slug": "16-martial-book-iv-ep-87",
+  "author": "John Hoadly",
+  "author_slug": "john-hoadly",
+  "ecpa_poem_id": "o5156-w1230",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "epigram",
+      "imitation",
+      "translation",
+      "paraphrase"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 13
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c35b4d57-be2d-5877-a684-e31366e5d4d5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 89,
+      "line_count": 14,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

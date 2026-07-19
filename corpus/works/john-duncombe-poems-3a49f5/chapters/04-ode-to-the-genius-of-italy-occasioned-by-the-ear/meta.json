@@ -1,0 +1,44 @@
+{
+  "work_slug": "john-duncombe-poems-3a49f5",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "ODE to the Genius of ITALY, occasioned by the Earl of CORKE'S going Abroad.",
+  "chapter_slug": "04-ode-to-the-genius-of-italy-occasioned-by-the-ear",
+  "author": "John Duncombe",
+  "author_slug": "john-duncombe",
+  "ecpa_poem_id": "o5157-w0580",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "sestet (6 lines)"
+    ],
+    "rhyme": "abbacc",
+    "syllable_pattern": "10.10.10.10.10.10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/         -+|-+|-+|-+|-+/         -+|-+|-+|-+|-+/         -+|-+|-+|-+|-+/         -+|-+|-+|-+|-+/         -+|-+|-+|-+|-+/",
+    "line_count": 48
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "792f0691-be63-5fda-b424-a54f3963170b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 392,
+      "line_count": 51,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

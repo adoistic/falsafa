@@ -1,0 +1,44 @@
+{
+  "work_slug": "james-scott-poems-af3a56",
+  "work_title": "Poems",
+  "chapter_number": 2,
+  "chapter_title": "ODE ON SLEEP.",
+  "chapter_slug": "02-ode-on-sleep",
+  "author": "James Scott",
+  "author_slug": "james-scott",
+  "ecpa_poem_id": "o4985-w0310",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "sestet (6 lines)"
+    ],
+    "rhyme": "ababcc",
+    "syllable_pattern": "8.8.8.8.10.10",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/",
+    "line_count": 96
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e16771fc-f64a-5168-8615-87ca36bd7adb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 650,
+      "line_count": 98,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

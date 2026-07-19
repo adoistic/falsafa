@@ -1,0 +1,585 @@
+{
+  "slug": "unknown-yajnavalkya-smrti-cb88d6",
+  "window": "03",
+  "entities": [
+    {
+      "canonical_name": "Yājñavalkya",
+      "surface_names": ["Yājñavalkya"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-3bba99",
+          "quote": "Having heard these dharmas spoken by Yājñavalkya, the sages spoke this to that great-souled one, the lord of yogis of immeasurable splendor",
+          "role": "teacher-authority"
+        },
+        {
+          "paragraph_id": "p-e2a99a",
+          "quote": "Having heard this spoken by the sages, Yājñavalkya, with a pleased mind, said, \"So be it,\" after paying homage to the Self-born",
+          "role": "speaker"
+        },
+        {
+          "paragraph_id": "p-502898",
+          "quote": "The Āraṇyaka which I obtained from the Sun is to be known, and the Yogaśāstra taught by me is to be known by one who desires yoga",
+          "role": "author-narrator"
+        }
+      ],
+      "description": "The sage Yājñavalkya, primary teacher-narrator of the Smṛti, here described as 'lord of yogis' and author of a Yogaśāstra.",
+      "justification": "Yājñavalkya is named as the speaker of the dharmas in this chapter and as the one who taught the Yogaśāstra, establishing him as the central teaching figure."
+    },
+    {
+      "canonical_name": "Yama",
+      "surface_names": ["Yama"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-724e0d",
+          "quote": "While reciting the hymn to Yama and the Gāthās, with the domestic fire, he should be cremated",
+          "role": "deity-invoked-in-ritual"
+        }
+      ],
+      "description": "Vedic deity of the dead, invoked through hymn recitation during cremation rites.",
+      "justification": "Yama is named as the addressee of the hymn sung during cremation, identifying him as the presiding deity of death rites."
+    },
+    {
+      "canonical_name": "Prajāpati",
+      "surface_names": ["Prajāpati"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-1688ec",
+          "quote": "He is the Self and the sacrifice, the all-formed Prajāpati; He, Virāj, in the form of food, attains the state of sacrifice",
+          "role": "cosmic-identity"
+        },
+        {
+          "paragraph_id": "p-eaf75a",
+          "quote": "having performed the Prājāpatya sacrifice with all the Vedas and a full sacrificial fee",
+          "role": "deity-of-sacrifice"
+        }
+      ],
+      "description": "The creator-deity and lord of creatures, identified with the cosmic Self and with Virāj in the context of the sacrificial cycle.",
+      "justification": "Prajāpati is explicitly equated with 'the all-formed' Self in the sacrificial theology of verses 3.120, and the Prājāpatya sacrifice is prescribed for the ascetic's renunciation."
+    },
+    {
+      "canonical_name": "Virāj",
+      "surface_names": ["Virāj"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-1688ec",
+          "quote": "He, Virāj, in the form of food, attains the state of sacrifice",
+          "role": "cosmic-identity"
+        }
+      ],
+      "description": "The cosmic being Virāj, here identified with food (anna) and the sacrificial process.",
+      "justification": "Virāj is named as the form taken by Prajāpati-Self in the cycle of sacrifice and food, situating it within the Vedic cosmological framework."
+    },
+    {
+      "canonical_name": "Brahma",
+      "surface_names": ["Brahma", "Brahman", "Self-born"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-754056",
+          "quote": "piercing the solar orb and passing beyond the world of Brahma, by it one goes to the supreme state",
+          "role": "cosmic-realm-lord"
+        },
+        {
+          "paragraph_id": "p-d61686",
+          "quote": "a mental Puruṣa approaches them and leads them to the worlds of Brahma; for them, there is no return to this world",
+          "role": "destination-after-liberation"
+        },
+        {
+          "paragraph_id": "p-e2a99a",
+          "quote": "Yājñavalkya, with a pleased mind, said, \"So be it,\" after paying homage to the Self-born",
+          "role": "deity-honoured"
+        }
+      ],
+      "description": "The creator-deity Brahma (the Self-born), whose world is the penultimate cosmic destination for the liberated sage before supreme release.",
+      "justification": "Brahma's world is cited as the destination for truth-worshipping twice-born, beyond which is the supreme state, establishing Brahma as a cosmic landmark in the soteriological geography."
+    },
+    {
+      "canonical_name": "Rudra",
+      "surface_names": ["Rudra"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-067684",
+          "quote": "he becomes an attendant of Rudra and rejoices with him",
+          "role": "divine-patron-of-musicians"
+        }
+      ],
+      "description": "The Vedic deity Rudra, whose retinue receives music-knowers who attain yoga through song.",
+      "justification": "Rudra is named as the deity whose company a knower of song (but not a full yoga-adept) joins, linking him to sacred music and partial liberation."
+    },
+    {
+      "canonical_name": "Dakṣa",
+      "surface_names": ["Dakṣa"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-5830e4",
+          "quote": "the Ṛggāthā, the Pāṇikā, and the Brahmagītikā composed by Dakṣa—to sing this, and by its practice, is called liberation",
+          "role": "author"
+        }
+      ],
+      "description": "The sage Dakṣa, attributed as the composer of the Brahmagītikā among the liberating Sāma chants.",
+      "justification": "Dakṣa is named as the author of the Brahmagītikā, a text whose recitation leads to liberation."
+    },
+    {
+      "canonical_name": "Agastya",
+      "surface_names": ["Agastya"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-cf730e",
+          "quote": "The path of the Ancestors is that which lies between the Goat's path and Agastya",
+          "role": "cosmic-landmark"
+        }
+      ],
+      "description": "The stellar sage Agastya (the star Canopus), used as a celestial boundary-marker for the path of the Ancestors.",
+      "justification": "Agastya here marks a celestial boundary in the cosmological geography of the pitṛyāna, functioning as an astronomical-mythological landmark."
+    },
+    {
+      "canonical_name": "Manu",
+      "surface_names": ["Manu"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-7aa56b",
+          "quote": "through the ages of Manu, the coming of the yugas, and the fruits of mantras and herbs—through these, the Self is known",
+          "role": "cosmic-epoch-marker"
+        }
+      ],
+      "description": "The progenitor Manu, whose ages (manvantaras) serve as temporal markers through which the cosmic Self manifests.",
+      "justification": "Manu's ages are cited alongside the yugas as measures of cosmic time through which the Self is to be understood."
+    },
+    {
+      "canonical_name": "Cosmic Puruṣa",
+      "surface_names": ["Puruṣa", "Person", "the thousand-fold one", "He of a thousand selves"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-628a1d",
+          "quote": "Having cast aside the net of delusion, the Person who is seen here, with a thousand hands, feet, and eyes, with the splendor of the sun, the thousand-fold one",
+          "role": "cosmic-being"
+        },
+        {
+          "paragraph_id": "p-89e161",
+          "quote": "He of a thousand selves, the primeval god whom I have described to you—from his mouth, arms, thighs, and feet arose the varṇas, in their respective order",
+          "role": "creator"
+        },
+        {
+          "paragraph_id": "p-eced08",
+          "quote": "The earth was born from his feet, and heaven from his head; from his nostrils the vital breath, from his ear the directions, from his touch the wind, and from his mouth, fire",
+          "role": "cosmic-body"
+        },
+        {
+          "paragraph_id": "p-22e7e6",
+          "quote": "From his mind the moon was born, and from his eye the sun; from his loins the atmosphere, and the universe with all that moves and is still",
+          "role": "cosmic-body"
+        },
+        {
+          "paragraph_id": "p-5b33ba",
+          "quote": "the Puruṣa becomes an individual soul, born of delusion, desire, aversion, and karma",
+          "role": "individual-soul"
+        },
+        {
+          "paragraph_id": "p-f27d5d",
+          "quote": "That same supreme Puruṣa is both without beginning and with a beginning",
+          "role": "supreme-being"
+        }
+      ],
+      "description": "The primordial cosmic Person of the Puruṣasūkta tradition, from whose body the universe, varṇas, and elements are created, and who simultaneously descends as individual souls through karma.",
+      "justification": "The text extensively describes a being with a thousand hands, feet, and eyes who is the source of social order and cosmic elements, directly echoing Ṛgveda 10.90."
+    },
+    {
+      "canonical_name": "The Lord (Īśvara)",
+      "surface_names": ["the Lord", "the Lord himself", "the Self"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-c8f3c6",
+          "quote": "The supreme purification of the individual self is thought to be from the knowledge of the Lord",
+          "role": "object-of-knowledge"
+        },
+        {
+          "paragraph_id": "p-32c279",
+          "quote": "the sixth, the Lord himself, simultaneously takes on the five elements",
+          "role": "presiding-cosmic-agent"
+        },
+        {
+          "paragraph_id": "p-f5089f",
+          "quote": "He is the cause, the imperishable, the agent, the knower, endowed with qualities, the controller; the unborn, by taking a body, is said to be born",
+          "role": "metaphysical-ground"
+        },
+        {
+          "paragraph_id": "p-c7c045",
+          "quote": "He is the Lord, situated in all beings, who is being, non-being, and both being and non-being",
+          "role": "omnipresent-being"
+        },
+        {
+          "paragraph_id": "p-768619",
+          "quote": "the Self, the Lord, who is situated in the heart like a lamp, is to be meditated upon",
+          "role": "object-of-meditation"
+        },
+        {
+          "paragraph_id": "p-490351",
+          "quote": "He whose mind, at the dissolution of the body, is fixed in sattva on the Lord, with an unwavering intellect, correctly attains the memory of past births",
+          "role": "object-of-meditation"
+        }
+      ],
+      "description": "The supreme Lord (Īśvara), identical with the inner Self, who at conception simultaneously takes on the five elements as the sixth factor, and who is to be meditated upon in the heart.",
+      "justification": "The text repeatedly refers to 'the Lord' as the cosmic agent who enters bodies at conception and as the ultimate object of yogic meditation situated in the heart like a lamp."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Ritual impurity and purification rites at death",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-40328e",
+          "quote": "A child under two years should be buried, and no water rite should be performed for it"
+        },
+        {
+          "paragraph_id": "p-c8d54a",
+          "quote": "From the seventh or tenth day, the kinsmen go down to the water; facing the direction of the Ancestors, they say, 'May this wash away our sin'"
+        },
+        {
+          "paragraph_id": "p-25b952",
+          "quote": "The impurity from a death is desired to last for three nights or ten nights"
+        },
+        {
+          "paragraph_id": "p-879d87",
+          "quote": "Time, fire, action, earth, wind, mind, knowledge, austerity, water, remorse, and fasting—all these are causes of purification"
+        }
+      ],
+      "justification": "The chapter's opening section (verses 3.1–3.34) is devoted entirely to the rules of ritual impurity (āśauca) from death and birth, specifying its duration by varṇa and relation to the deceased, and cataloguing the means of purification."
+    },
+    {
+      "topic": "Impermanence of the body and the world",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-457a62",
+          "quote": "He who seeks for substance in human life, which is as unsubstantial as the stem of a plantain tree, and is like a bubble of water, is a fool"
+        },
+        {
+          "paragraph_id": "p-f857d4",
+          "quote": "The body is composed of five elements; if it has returned to the fivefold state through the actions originating from one's own body, what is there to lament?"
+        },
+        {
+          "paragraph_id": "p-001295",
+          "quote": "The earth will perish, as will the ocean and the gods; how will the mortal world, which is like foam, not go to destruction?"
+        }
+      ],
+      "justification": "A cluster of consolation verses (3.8–3.11) at the cremation ground directly addresses the impermanence of the body and the cosmos as a framework for not grieving the dead."
+    },
+    {
+      "topic": "Āśrama system and life-stage duties",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-4a0edb",
+          "quote": "In distress, a twice-born may live by the occupation of a Kṣatriya or a Vaiśya; having overcome it, he should purify himself and establish himself on the right path"
+        },
+        {
+          "paragraph_id": "p-03f060",
+          "quote": "Having entrusted his wife to his sons, or being accompanied by her, he should go to the forest; a forest-dweller, a student-celibate, with his sacred fires and his domestic fire, should go"
+        },
+        {
+          "paragraph_id": "p-eaf75a",
+          "quote": "From the forest or from the house, having performed the Prājāpatya sacrifice with all the Vedas and a full sacrificial fee, and at its end, having placed those fires within himself"
+        },
+        {
+          "paragraph_id": "p-f263eb",
+          "quote": "The stage of life is not the cause of dharma; it becomes so only when it is practiced"
+        }
+      ],
+      "justification": "Distinct sections address the vānaprastha (hermit) and yati (ascetic) stages alongside emergency rules for the twice-born, forming a systematic treatment of the four āśramas."
+    },
+    {
+      "topic": "Embryology and the anatomy of the human body",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-914495",
+          "quote": "In the first month, it is a state of viscous mass, a fusion of the elements; in the second month, a fleshy mass; in the third, it is endowed with limbs and senses"
+        },
+        {
+          "paragraph_id": "p-a872cc",
+          "quote": "From space, it derives lightness, subtlety, sound, the ear, and strength; from wind, touch, movement, arrangement, and roughness"
+        },
+        {
+          "paragraph_id": "p-ac1be2",
+          "quote": "His bodies are sixfold, and six skins support them; there are six limbs, and three hundred and sixty bones"
+        },
+        {
+          "paragraph_id": "p-e42749",
+          "quote": "Seven hundred veins, nine hundred sinews, two hundred arteries, and five hundred muscles"
+        },
+        {
+          "paragraph_id": "p-54761c",
+          "quote": "this is the unstable body, for whose liberation one must strive"
+        }
+      ],
+      "justification": "Verses 3.75–3.107 constitute a detailed embryological and anatomical enumeration, tracing the month-by-month development of the foetus and cataloguing the bones, veins, sinews, and bodily fluids of the mature human frame, serving both medical and soteriological purposes."
+    },
+    {
+      "topic": "Sāṃkhya cosmology: guṇas, elements, and the evolution of prakṛti",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-57c043",
+          "quote": "Sattva, rajas, and tamas are declared to be its guṇas. Possessed by rajas and tamas, it indeed wanders about like a wheel"
+        },
+        {
+          "paragraph_id": "p-6c2514",
+          "quote": "From the Unmanifest arises the intellect; from that, the ego is born. From the ego arise the subtle elements and the rest, each with one more quality than the last"
+        },
+        {
+          "paragraph_id": "p-becd2c",
+          "quote": "Sound, touch, form, taste, and smell are their respective qualities. Whichever of these has come forth from another, into that one it dissolves again"
+        },
+        {
+          "paragraph_id": "p-c7c045",
+          "quote": "The organs of knowledge with their objects, the mind, the organs of action, the ego, the intellect, and the elements beginning with earth; the Unmanifest, and the Self, the knower of the field"
+        }
+      ],
+      "justification": "The text employs the Sāṃkhya schema of Unmanifest → intellect → ego → subtle elements → gross elements, and the three guṇas (sattva, rajas, tamas), to explain cosmological evolution and the soul's entanglement."
+    },
+    {
+      "topic": "Karma, rebirth, and the three guṇic destinies",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-9f8a2c",
+          "quote": "a knower of the Self, pure, self-restrained, ascetic, with conquered senses, a performer of dharma, and learned in the Veda—such a sāttvika person attains birth among the gods"
+        },
+        {
+          "paragraph_id": "p-fdf8cc",
+          "quote": "such a rājasa person, upon death, attains birth among humans"
+        },
+        {
+          "paragraph_id": "p-846749",
+          "quote": "one who is slothful, cruel, greedy, an atheist, and a beggar… becomes a tāmasa person, born among animals"
+        },
+        {
+          "paragraph_id": "p-4a9897",
+          "quote": "For some, the fruition of karma occurs after death; for others, it is born here in this life. For still others, it is here or in the hereafter; one's state of being is the determining factor"
+        },
+        {
+          "paragraph_id": "p-8a37bd",
+          "quote": "This individual soul attains the state of an outcaste, a bird, or a plant through faults born of actions of mind, speech, and body, in its existence through hundreds of wombs"
+        }
+      ],
+      "justification": "An extended section maps the three guṇas onto three categories of rebirth-destination (gods, humans, animals) and illustrates in detail how mental, verbal, and bodily faults propel the soul into degraded births."
+    },
+    {
+      "topic": "Yoga: posture, breath-control, meditation, and liberation",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-ff5876",
+          "quote": "Placing the right foot upwards on the left thigh, and placing the left hand upwards on the right, with the face slightly raised and the chest held firm"
+        },
+        {
+          "paragraph_id": "p-53f0ba",
+          "quote": "having completely restrained the host of senses, on a seat neither too low nor too high, he should begin the control of the breath, for two or even three cycles"
+        },
+        {
+          "paragraph_id": "p-e38429",
+          "quote": "Invisibility, memory, beauty, clairvoyance, and clairaudience, as well as leaving one's own body and entering another's"
+        },
+        {
+          "paragraph_id": "p-df78a6",
+          "quote": "the creation of things at will—these are the signs of yogic perfection. When yoga is perfected, one who leaves the body is fit for immortality"
+        },
+        {
+          "paragraph_id": "p-e84f90",
+          "quote": "he should see the subtle Self situated in himself through the yoga of meditation"
+        }
+      ],
+      "justification": "The chapter includes a detailed yogic manual specifying seated posture, breath-control, sense-withdrawal, meditation on the inner lamp-Self, and lists supernormal attainments (siddhis) as signs of perfection, constituting a self-contained yoga prakaraṇa."
+    },
+    {
+      "topic": "The two cosmic paths (pitṛyāna and devayāna)",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-eab257",
+          "quote": "they, in order, pass into the flame, the day, the bright fortnight, the northern solstice, the world of the gods, the sun, and the realm of lightning"
+        },
+        {
+          "paragraph_id": "p-48145c",
+          "quote": "Those men who have conquered heaven by sacrifice, austerity, and gifts pass into the smoke, the night, the dark fortnight, and the southern solstice"
+        },
+        {
+          "paragraph_id": "p-1eb606",
+          "quote": "the world of the Ancestors, the moon, the wind, the rain, the water, and the earth. In this order they come into being here and then depart once more"
+        },
+        {
+          "paragraph_id": "p-ee7721",
+          "quote": "The self-possessed man who does not know these two paths becomes a serpent, a moth, a worm, or an insect"
+        }
+      ],
+      "justification": "Verses 3.193–3.197 present the classical two-path cosmology of devayāna (path of the gods via flame-day-bright fortnight-northern solstice) and pitṛyāna (path of the ancestors via smoke-night-dark fortnight-southern solstice), closely paralleling Chāndogya Upaniṣad 5.10."
+    },
+    {
+      "topic": "The Self (Ātman / Brahman) as the ground of all cosmic and personal reality",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-aa7147",
+          "quote": "In the middle of that is the Self, like a steady flame. He is to be known; having known him, one is not born here again"
+        },
+        {
+          "paragraph_id": "p-060278",
+          "quote": "Brahman, space, wind, fire, water, and earth are the elements; these are the worlds, and this is the Self, and from it comes all that moves and is still"
+        },
+        {
+          "paragraph_id": "p-3cd6bc",
+          "quote": "Just as the one space appears separate in pots and other vessels, so the one Self appears as many, like the sun reflected in vessels of water"
+        },
+        {
+          "paragraph_id": "p-2e56b0",
+          "quote": "The Self is said to be without beginning; its beginning is the body. The entire universe is from the Self, and the Self's origin is from the universe"
+        },
+        {
+          "paragraph_id": "p-42b3c9",
+          "quote": "because these signs of the supreme Self are seen, therefore there exists a Self beyond the body, all-pervading, the Lord"
+        }
+      ],
+      "justification": "Throughout the metaphysical sections of chapter 3, the Ātman/Brahman is presented as the single substratum of the cosmos, individual consciousness, and bodily life, with liberation consisting in its recognition — the chapter's central soteriological thesis."
+    },
+    {
+      "topic": "Sacrificial cycle and the cosmic food-chain",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-f886bb",
+          "quote": "The sun is nourished by oblations; from the sun comes rain, then herbs; that food, in the form of essence, attains the state of semen"
+        },
+        {
+          "paragraph_id": "p-1f66c6",
+          "quote": "is led by the wind, and the Soma is carried by the rays of the sun; that which is ordained by the Ṛg, Yajur, and Sāma Vedas is brought to the solar abode"
+        },
+        {
+          "paragraph_id": "p-1ffb15",
+          "quote": "From that food comes sacrifice again, from sacrifice food again, and again the rite; thus this beginningless and endless cycle revolves"
+        }
+      ],
+      "justification": "Verses 3.71–3.74 and 3.121–3.124 articulate the Vedic concept of the cosmic sacrificial cycle — oblation → sun → rain → herbs → food → semen → birth — showing how the individual body is produced within a larger sacrificial economy."
+    },
+    {
+      "topic": "Music and sacred chant as a path to liberation",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-5c4631",
+          "quote": "By reciting the Sāma chant according to the rules, without interruption, and with attention, through its practice one attains the supreme Brahman"
+        },
+        {
+          "paragraph_id": "p-7829fe",
+          "quote": "A knower of the principles of vīṇā-playing, an expert in the musical intervals and scales, and a master of rhythm, attains the path of liberation without effort"
+        },
+        {
+          "paragraph_id": "p-067684",
+          "quote": "If a knower of song does not attain the supreme state through yoga, he becomes an attendant of Rudra and rejoices with him"
+        },
+        {
+          "paragraph_id": "p-5830e4",
+          "quote": "the Ṛggāthā, the Pāṇikā, and the Brahmagītikā composed by Dakṣa—to sing this, and by its practice, is called liberation"
+        }
+      ],
+      "justification": "A distinct sub-section (verses 3.112–3.116) names specific Sāma genres and musical forms — including vīṇā technique and rhythmic mastery — as autonomous paths to liberation or to Rudra's retinue, an unusual feature within a dharmaśāstra."
+    },
+    {
+      "topic": "Varṇa hierarchy and the twice-born's duties",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-452f9d",
+          "quote": "For a Kṣatriya, twelve days; for a Vaiśya, fifteen; for a Śūdra, thirty days; half of that for one who follows the righteous path"
+        },
+        {
+          "paragraph_id": "p-84eb64",
+          "quote": "A Brāhmaṇa should not follow a Śūdra or another twice-born to the cremation ground"
+        },
+        {
+          "paragraph_id": "p-89e161",
+          "quote": "from his mouth, arms, thighs, and feet arose the varṇas, in their respective order"
+        },
+        {
+          "paragraph_id": "p-911e57",
+          "quote": "A Brāhmaṇa attains worthiness, a Kṣatriya becomes victorious, and a Vaiśya becomes rich in grain and wealth, from mastering this scripture"
+        }
+      ],
+      "justification": "The varṇa system pervades the chapter, governing the duration of mourning impurity, restrictions on ritual participation, and the cosmic origin of social order from the Cosmic Puruṣa's body."
+    },
+    {
+      "topic": "Soteriological fruition of the Yājñavalkya Smṛti itself",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-c525c2",
+          "quote": "Those who will diligently master this Dharmaśāstra, having obtained fame in this world, will go to heaven"
+        },
+        {
+          "paragraph_id": "p-f3f4bf",
+          "quote": "He who causes even three verses from this to be recited at a śrāddha, for his Ancestors there will be imperishable satisfaction"
+        },
+        {
+          "paragraph_id": "p-ff5475",
+          "quote": "The learned man who causes this to be recited to the twice-born on every festival day, for him is the fruit of a horse sacrifice"
+        }
+      ],
+      "justification": "The closing colophon verses (3.329–3.333) implicitly present the Smṛti itself as a ritual-soteriological object whose study, recitation, and promulgation bestow cosmic merit, a common self-referential move in śāstric literature."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Āraṇyaka",
+      "cited_author": "Sun (Āditya)",
+      "stance": "authority",
+      "paragraph_id": "p-502898",
+      "quote": "The Āraṇyaka which I obtained from the Sun is to be known",
+      "justification": "Yājñavalkya claims to have received an Āraṇyaka directly from the Sun, attributing the text to a solar divine source and establishing its authority for yoga practice."
+    },
+    {
+      "cited_work": "Yogaśāstra",
+      "cited_author": "Yājñavalkya",
+      "stance": "authority",
+      "paragraph_id": "p-502898",
+      "quote": "the Yogaśāstra taught by me is to be known by one who desires yoga",
+      "justification": "Yājñavalkya cites his own Yogaśāstra as a parallel text to be consulted alongside the Āraṇyaka for aspirants to yoga, making it a cross-reference citation within the same tradition."
+    },
+    {
+      "cited_work": "Brahmagītikā",
+      "cited_author": "Dakṣa",
+      "stance": "authority",
+      "paragraph_id": "p-5830e4",
+      "quote": "the Ṛggāthā, the Pāṇikā, and the Brahmagītikā composed by Dakṣa—to sing this, and by its practice, is called liberation",
+      "justification": "The Brahmagītikā is cited as a specifically authored text (by Dakṣa) whose singing constitutes a path to liberation, functioning as an endorsed reference to another work."
+    },
+    {
+      "cited_work": "Ṛg, Yajur, and Sāma Vedas",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-1f66c6",
+      "quote": "that which is ordained by the Ṛg, Yajur, and Sāma Vedas is brought to the solar abode",
+      "justification": "The three Vedas are cited as the authoritative source ordaining the sacrificial rites that sustain the cosmic cycle, positioning them as the scriptural ground of the chapter's sacrificial theology."
+    }
+  ]
+}

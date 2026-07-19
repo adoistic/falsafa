@@ -1,0 +1,45 @@
+{
+  "work_slug": "samuel-johnson-poems-56e066",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "PROLOGUE SPOKEN BY MR. GARRICK, APRIL V. MDCCL. BEFORE THE MASQUE OF COMUS, ACTED AT DRURY-LANE, FOR THE BENEFIT OF MILTON'S GRAND-DAUGHTER.",
+  "chapter_slug": "01-prologue-spoken-by-mr-garrick-april-v-mdccl-befo",
+  "author": "Samuel Johnson",
+  "author_slug": "samuel-johnson",
+  "ecpa_poem_id": "o4984-w0700",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "prologue"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 38
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "462ae9a4-1efa-56df-821b-6e45c3ae6149",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 296,
+      "line_count": 40,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

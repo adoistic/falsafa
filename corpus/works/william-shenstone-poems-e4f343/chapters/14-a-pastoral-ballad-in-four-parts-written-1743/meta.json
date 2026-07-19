@@ -1,0 +1,45 @@
+{
+  "work_slug": "william-shenstone-poems-e4f343",
+  "work_title": "Poems",
+  "chapter_number": 14,
+  "chapter_title": "A Pastoral BALLAD, in Four Parts. Written 1743.",
+  "chapter_slug": "14-a-pastoral-ballad-in-four-parts-written-1743",
+  "author": "William Shenstone",
+  "author_slug": "william-shenstone",
+  "ecpa_poem_id": "o5155-w0950",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "pastoral",
+      "song"
+    ],
+    "foot": "anapaestic (˘˘′)",
+    "footnum": "trimeter (3 feet)",
+    "stanzas": [
+      "octet (8 lines)"
+    ],
+    "rhyme": "ababcdcd",
+    "syllable_pattern": "9.9.9.9.9.9.9.9",
+    "metrical_pattern": "--+|--+|--+/         --+|--+|--+/         --+|--+|--+/         --+|--+|--+/         --+|--+|--+/         --+|--+|--+/         --+|--+|--+/         --+|--+|--+/",
+    "line_count": 216
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "34677c6a-860a-5d5e-93ed-d3ad73f520dc",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1561,
+      "line_count": 250,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

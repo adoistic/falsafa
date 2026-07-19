@@ -1,0 +1,45 @@
+{
+  "work_slug": "vincent-bourne-poems-5dc73d",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "[Translation] 4. THE PARROT.",
+  "chapter_slug": "04-translation-4-the-parrot",
+  "author": "Vincent Bourne",
+  "author_slug": "vincent-bourne",
+  "ecpa_poem_id": "o3794-w0340",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "translation",
+      "satire"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "sestet (6 lines)"
+    ],
+    "rhyme": "aabccb",
+    "syllable_pattern": "8.8.6.8.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 42
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "eeda41c6-2ae0-5f47-a673-aa0faa3a8e15",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 256,
+      "line_count": 50,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

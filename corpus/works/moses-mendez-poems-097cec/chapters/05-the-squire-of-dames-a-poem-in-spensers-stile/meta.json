@@ -1,0 +1,46 @@
+{
+  "work_slug": "moses-mendez-poems-097cec",
+  "work_title": "Poems",
+  "chapter_number": 5,
+  "chapter_title": "THE SQUIRE of DAMES. A POEM. In SPENSER's STILE.",
+  "chapter_slug": "05-the-squire-of-dames-a-poem-in-spensers-stile",
+  "author": "Moses Mendez",
+  "author_slug": "moses-mendez",
+  "ecpa_poem_id": "o5155-w0200",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "alexandrine",
+      "Spenserian stanza",
+      "imitation"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "nine-line stanza"
+    ],
+    "rhyme": "ababbcbcc",
+    "syllable_pattern": "10.10.10.10.10.10.10.10.12",
+    "metrical_pattern": "-+|-+|-+|-+|-+/          -+|-+|-+|-+|-+/          -+|-+|-+|-+|-+/          -+|-+|-+|-+|-+/          -+|-+|-+|-+|-+/          -+|-+|-+|-+|-+/          -+|-+|-+|-+|-+/          -+|-+|-+|-+|-+/          -+|-+|-+|-+|-+|-+/",
+    "line_count": 738
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "eb8a3b4a-d7e3-522c-ad3c-65022cf6cf57",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6046,
+      "line_count": 826,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

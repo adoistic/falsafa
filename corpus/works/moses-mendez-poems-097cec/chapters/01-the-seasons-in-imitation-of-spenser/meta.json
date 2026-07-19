@@ -1,0 +1,46 @@
+{
+  "work_slug": "moses-mendez-poems-097cec",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "THE SEASONS. IN IMITATION OF SPENSER.",
+  "chapter_slug": "01-the-seasons-in-imitation-of-spenser",
+  "author": "Moses Mendez",
+  "author_slug": "moses-mendez",
+  "ecpa_poem_id": "o4985-w0390",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "alexandrine",
+      "Spenserian stanza",
+      "imitation"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "nine-line stanza"
+    ],
+    "rhyme": "ababbcbcc",
+    "syllable_pattern": "10.10.10.10.10.10.10.10.12",
+    "metrical_pattern": "-+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+|-+/",
+    "line_count": 288
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "58922064-59de-57ac-ac36-d554e6d4a10f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2320,
+      "line_count": 295,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

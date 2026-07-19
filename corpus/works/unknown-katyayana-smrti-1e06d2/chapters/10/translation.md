@@ -22,6 +22,6 @@ translator: thothica
 
 At the proper time, he should question the litigant, who stands before him bowing: "What is your business? What is your grievance? Do not be afraid, speak, O man." // K_086 //
 
-"By whom, in what matter, when, and from what cause?" Thus he should ask upon arrival in court. Whatever the person says in reply to this, the assessors along with the Brahmin... // K_087 //
+"By whom, in what matter, when, and from what cause?" Thus he should ask upon arrival in court. Whatever the person says in reply to this, the assessors along with the Brāhmaṇa... // K_087 //
 
 ...should deliberate upon. If the case is just, then for the purpose of a summons, he should either place a seal on him or dispatch an officer. // K_088 //

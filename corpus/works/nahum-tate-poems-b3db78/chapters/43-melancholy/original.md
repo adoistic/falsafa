@@ -1,0 +1,84 @@
+---
+work_id: "b3db7866-db96-505e-8fc7-43f66267494b"
+work_slug: "nahum-tate-poems-b3db78"
+work_title: Poems
+author: Nahum Tate
+author_slug: "nahum-tate"
+ecpa_poem_id: "oat77-w0430"
+chapter_number: 43
+chapter_title: Melancholy.
+chapter_slug: "43-melancholy"
+variant_id: "efc314d3-2a3c-5fc1-b60d-2f694a9ae6ba"
+content_type: original
+layout: verse
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 340
+source_url: "https://www.eighteenthcenturypoetry.org/"
+license: "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+---
+
+Melancholy.
+
+I.
+
+MAlignant Humour, Poyson to my Blood!
+Bane of those active Spirits that glide
+And sport within the circling Tide,
+As Fish Expire in an infected Flood. 
+When all th' Horizon of my Soul is clear,
+And I suspect no change of Weather near,
+Strait like a suddain Storm I find
+Thy black Fumes gath'ring in my Mind,
+Transforming All t'Egyptian Darkness there;
+Darkness where nought occurs to Sight
+But Flashes, more amazing than the Night;
+And fiery Spectres gliding through the troubled Air.
+
+II.
+
+Sleep that in other Maladies brings Ease,
+Feeds and enrages this Disease;
+For when my weary Lidds I close
+And slumber, 'tis without Repose. 
+This Fury still into my Dreams will creep
+To Hagg my tim'rous Fancy while I sleep;
+Through Charnel Houses then I'm led,
+Those gloomy Mansions of the Dead,
+Where pensive Ghosts by their lov'd Reliques stay,
+And Curse th'approaching Day.
+By Merc'less Foes pursu'd and tane;
+Oft ship-wreckt on the Main,
+Beneath the Floods I seem to Dive;
+Oft in Wild Sarra's Desert forc't t'engage
+Some Savage Monster's Rage.
+Oft (Typhon-like) beneath a Mountain's weight I strive!
+
+III.
+
+Might I the Book of Fate peruse,
+To Read the Lot for me design'd,
+I should perhaps auspicious find
+Those Planets I accuse;
+But whilst for Information I
+Consult the false Astrology
+Of Melancholy Fear,
+Dark and ore-cast my future Dayes appear:
+All possible Misfortunes while I dread,
+I draw all possible Misfortunes on my Head;
+Whilst this solicitous Fear of Future Ill
+My credulous Thought employs,
+(Tho false its Augury, yet) it destroys
+My present Rest, and still
+Diverts me from pursuit of certain Joyes.
+Who seeks for Happiness with nicest Care
+Must watch its Seasons, and frequent its Haunt. 
+Delight is a Rich tender Plant
+That Springs not in all Soils, and all the Year:
+'Tis like the Manna which in plenty lay,
+If early sought, around
+Each Hebrews Tent, but if till Heat of Day
+Their Search they did delay.
+Th' Ambrosial Food was no where to be found.

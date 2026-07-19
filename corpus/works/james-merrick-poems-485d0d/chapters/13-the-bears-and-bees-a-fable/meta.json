@@ -1,0 +1,44 @@
+{
+  "work_slug": "james-merrick-poems-485d0d",
+  "work_title": "Poems",
+  "chapter_number": 13,
+  "chapter_title": "The BEARS and BEES. A FABLE.",
+  "chapter_slug": "13-the-bears-and-bees-a-fable",
+  "author": "James Merrick",
+  "author_slug": "james-merrick",
+  "ecpa_poem_id": "o5156-w0750",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "fable"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 24
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "218bb82c-fd04-5278-94d0-adb6df86c947",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 155,
+      "line_count": 27,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

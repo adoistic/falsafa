@@ -1,0 +1,158 @@
+---
+work_id: "ca10790d-6929-5386-880e-e614a893d7a3"
+work_slug: "joseph-addison-poems-ca1079"
+work_title: Poems
+author: Joseph Addison
+author_slug: "joseph-addison"
+ecpa_poem_id: "o4602-w0010"
+chapter_number: 5
+chapter_title: AN ODE To the Learned Dr. Thomas Burnett, AUTHOR of The Theory of the EARTH.
+chapter_slug: "05-an-ode-to-the-learned-dr-thomas-burnett-author-o"
+variant_id: "8fb289b6-8fab-555c-888a-e91d47274129"
+content_type: original
+layout: verse
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 551
+source_url: "https://www.eighteenthcenturypoetry.org/"
+license: "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+genres:
+  - dedication
+  - address
+metrical_foot: iambic (˘′)
+metrical_count: tetrameter (4 feet)
+stanza_form:
+  - sestet (6 lines)
+rhyme_scheme: ababcc
+syllable_pattern: 8
+---
+
+AN ODE To the Learned Dr. Thomas Burnett, AUTHOR of The Theory of the EARTH.
+
+I.
+
+NO common Height the Muse must soar,
+ That wou'd thy Fame in Numbers try;
+ Nor dare in humble Verse adore,
+ But rise with Thee above the Sky:
+ You ask a bold and lofty strain,
+ And what we meanly sing, disdain. 
+
+II.
+
+You Nature's early Birth explore,
+ Her disunited Frame disclose,
+ From what mix'd Cause, and jarring Power,
+ The Infant Earth to Being rose:
+ How, in her Circling Bosom sleep
+ Th' imprison'd Seas, and Bounded Deep. 
+
+III.
+
+Resolv'd great hidden Truths to trace,
+ Each Learned Fable you despise;
+ And, pleas'd, enjoy the fam'd disgrace,
+ To think, and reason, singly wise:
+ Each Tale reject by Time allow'd,
+ And nobly leave the erring Crowd. 
+
+IV.
+
+Hark! from her weak Foundations tore,
+ The bursting Earth asunder flies,
+ And, prop'd by yielding Seas no more,
+ The dreadful Crack alarms the Skies:
+ Whose Arches rent, their Weight forego,
+ And plunge in opening Gulphs below. 
+
+V.
+
+Now rushing from their watry Bed,
+ The driving Waves disdain a shore;
+ And with resistless Force o'erspread
+ That Orb, which check'd their Rage before:
+ While scattered o'er the foamy Tide,
+ All Nature's floating Ruins ride. 
+
+VI.
+
+New Heavens disclos'd, the Silver Train
+ The SUN beneath their Waves admire;
+ And gliding thro' th' enlight'ned Main,
+ Gaze at each STAR'S diminish'd Fire. 
+Well pleas'd, the MOON'S bright Orb survey,
+ Trembling along their Azure Way. 
+
+VII.
+
+How strong each Line, each Thought how great
+ With what an Energy you rise! 
+How shines each Fancy? with what Heat
+ Does every glowing Page surprize? 
+While spouting Oceans upward flow,
+ Or sink again to Caves below. 
+
+VIII.
+
+As Nature's Doom you thus impart,
+ The moving Scene we scarce endure;
+ But, shrinking, ask our anxious Heart,
+ If on our Earth we tread secure? 
+Whose Fate unmov'd, as you persue,
+ We start and tremble but to view. 
+
+IX.
+
+Yet these Remains, we now behold,
+ Which Tow'ring once in Hills arose;
+ Shall from a New and fairer Mould
+ A New and fairer Earth compose:
+ Which to her Fate shall Owe her Bloom,
+ And rise more lovely from her Tomb. 
+
+X.
+
+Yet see This beauteous Fabrick end,
+ This Second Pride of Fate expire;
+ While gushing from the Clouds descend
+ The Burning Storm, the Liquid Fire;
+ Where Worlds and Men consuming lie,
+ And in One bright Confusion Die. 
+
+XI.
+
+Their naked Tops the Hills admire,
+ No longer white with fleecy Dew;
+ And as they moan the spreading Fire,
+ Add to the Flames dissolving too:
+ While Rocks from melting Mountains flow,
+ And roll in Streams thro' Vales below. 
+
+XII.
+
+And now the Kindling Orbs on high
+ All Nature's mournful End proclaim;
+ When thy great WORK, (Alas!) must die,
+ And feed the rich victorious Flame:
+ Give Vigour to the wasting Fire,
+ And with the World TOO SOON expire. 
+
+XIII.
+
+Once more her Bloom the Earth renews,
+ Smooth'd into Green, eternal Vales;
+ Her Glebe still moist with fragrant Dews,
+ Her Air still rich with balmy Gales:
+ No Change her Flowry Seasons breed,
+ But Springs retire, and Springs succeed. 
+
+XIV.
+
+Oh say, Thou Great, Thou Sacred Name,
+ What Scenes Thy thoughtful Breast employ,
+ Capacious as that mighty Frame
+ You raise with Ease, with Ease destroy? 
+Each World shall boast thy Fame; and YOU,
+ Who charm'd the OLD, shall grace the NEW.

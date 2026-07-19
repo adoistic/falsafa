@@ -1,0 +1,28 @@
+{
+  "work_slug": "william-shakespeare-sonnets-65f289",
+  "work_title": "Sonnets",
+  "chapter_number": 62,
+  "chapter_title": "Sonnet 62",
+  "chapter_slug": "062-sonnet-62",
+  "incipit": "Sin of self-love possesseth all mine eye",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "188b0df5-4619-5a1d-919b-8c96f852db8f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 107,
+      "line_count": 14,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1041",
+      "license": "Public domain — from Project Gutenberg (https://www.gutenberg.org)"
+    }
+  ]
+}

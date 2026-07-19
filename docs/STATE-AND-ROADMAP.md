@@ -45,25 +45,24 @@ present 1,148 works of very uneven shape. This is the root of the "looks odd"
 problem.
 
 ### Hosting
-- The full 1,148-work build is live at **falsafaai.netlify.app**, served by
-  Netlify free tier.
-- It is built by **GitHub Actions** (16 GB runner) and deployed prebuilt to
-  Netlify via the CLI — workflow `.github/workflows/deploy-netlify.yml`, manual
-  `workflow_dispatch`. Build is ~5 min; the deploy uploads ~51k assets (125k
-  files deduped by content hash, 2.6 GB dist).
-- Why this path: the site is **2.6 GB / ~125k files**. That exceeds Vercel
-  Hobby (build resource limits), Cloudflare Pages (hard 20k-file cap), and
-  GitHub Pages (1 GB cap). Netlify free has no hard file/size cap on serving,
-  but its native builder hits a 15-min timeout, so we build in Actions and let
-  Netlify only serve.
-- Secrets set on the repo: `NETLIFY_AUTH_TOKEN`, `NETLIFY_SITE_ID`.
+- The site is served entirely by **Cloudflare**: a thin routing Worker
+  (`apps/worker/`, `falsafaai`) serves the static build from **R2** bucket
+  `falsafaai`, with `falsafa.ai` attached as the Worker's custom domain. No
+  Netlify/Vercel/PaaS.
+- Deploy = build `dist/` locally + `rclone sync` to R2 (`bun run deploy`); the
+  Worker serves it. See [DEPLOY.md](../DEPLOY.md).
+- Why this path: the build is ~143k files / ~3.9 GB — that exceeds Vercel Hobby,
+  Cloudflare Pages / Workers Static Assets (20k-file cap), GitHub Pages (1 GB),
+  and Netlify's builder. R2 has no object cap + $0 egress; rclone (S3 data plane)
+  uploads at scale where one-object APIs rate-limit.
+- Credentials: R2 S3 keys in `~/.config/falsafa-deploy.env`; the Worker deploys
+  via wrangler's OAuth login.
 
 ### Done (2026-06-12)
-1. **DNS cut over.** falsafa.ai now serves the 1,148-work Netlify site over
-   HTTPS. GoDaddy DNS: apex A `@` → `75.2.60.5`, CNAME `www` →
-   `falsafaai.netlify.app`; Let's Encrypt cert; www 301→apex. Vercel is out of
-   the path. (A separate `evchangelog.falsafa.ai` Replit subdomain shares the
-   zone — leave its A/TXT alone.)
+1. **DNS cut over.** falsafa.ai serves over HTTPS via **Cloudflare** nameservers;
+   the `falsafaai` Worker is attached as the custom domain (apex + www). (A
+   separate `evchangelog.falsafa.ai` Replit subdomain shares the zone — leave its
+   A/TXT alone.)
 2. **Sitemap fixed.** `@astrojs/sitemap` added; `/sitemap-index.xml` →
    `/sitemap-0.xml` with 29,015 URLs canonical to falsafa.ai.
 
@@ -81,7 +80,7 @@ All 1,148 work pages return 200. Search (pagefind), eras index, chapter pages
 Four workstreams. The first is a 5-minute action; the rest are session-sized.
 
 ### 0. DNS cutover (Adnan, ~5 min + propagation)
-Make falsafa.ai serve the 1,148-work Netlify site. Gated on us being happy with
+Make falsafa.ai serve the site. Gated on us being happy with
 the site. Recommend doing this after the redesign so the public domain only ever
 shows the polished version, OR now if we want the larger corpus public sooner.
 

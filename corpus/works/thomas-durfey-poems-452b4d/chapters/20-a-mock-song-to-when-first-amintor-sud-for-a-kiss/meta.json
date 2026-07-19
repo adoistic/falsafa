@@ -1,0 +1,35 @@
+{
+  "work_slug": "thomas-durfey-poems-452b4d",
+  "work_title": "Poems",
+  "chapter_number": 20,
+  "chapter_title": "A Mock SONG to, When first AMINTOR su'd for a Kiss, &c.",
+  "chapter_slug": "20-a-mock-song-to-when-first-amintor-sud-for-a-kiss",
+  "author": "Thomas D'Urfey",
+  "author_slug": "thomas-durfey",
+  "ecpa_poem_id": "oau90-w0200",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "rhyme": "irregular",
+    "metrical_pattern": "irregular",
+    "line_count": 29
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9c2d6b9f-1d2a-59bb-ae73-d6d2252f21dc",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 205,
+      "line_count": 32,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

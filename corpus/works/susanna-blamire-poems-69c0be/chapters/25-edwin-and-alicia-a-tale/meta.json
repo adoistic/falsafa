@@ -1,0 +1,41 @@
+{
+  "work_slug": "susanna-blamire-poems-69c0be",
+  "work_title": "Poems",
+  "chapter_number": 25,
+  "chapter_title": "EDWIN AND ALICIA. A TALE.",
+  "chapter_slug": "25-edwin-and-alicia-a-tale",
+  "author": "Susanna Blamire",
+  "author_slug": "susanna-blamire",
+  "ecpa_poem_id": "bsb18-w0250",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "narrative verse"
+    ],
+    "foot": "trochaic (′˘)",
+    "footnum": "tetrameter (4 feet)",
+    "rhyme": "xaxa",
+    "syllable_pattern": "8.8.8.8",
+    "metrical_pattern": "+-|+-|+-|+-/ +-|+-|+-|+-/ +-|+-|+-|+-/ +-|+-|+-|+-/",
+    "line_count": 136
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d993d833-34f4-5263-b443-df097f073153",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 783,
+      "line_count": 138,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

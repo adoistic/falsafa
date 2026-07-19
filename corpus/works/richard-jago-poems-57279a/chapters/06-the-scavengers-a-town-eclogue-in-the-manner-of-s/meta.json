@@ -1,0 +1,46 @@
+{
+  "work_slug": "richard-jago-poems-57279a",
+  "work_title": "Poems",
+  "chapter_number": 6,
+  "chapter_title": "The SCAVENGERS. A Town Eclogue. In the Manner of SWIFT.",
+  "chapter_slug": "06-the-scavengers-a-town-eclogue-in-the-manner-of-s",
+  "author": "Richard Jago",
+  "author_slug": "richard-jago",
+  "ecpa_poem_id": "o5156-w0350",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "satire",
+      "eclogue"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 92
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8d928496-9d5f-50e4-af86-0bec6d1f3311",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 766,
+      "line_count": 101,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,488 @@
+{
+  "slug": "unknown-manusmrti-347b76",
+  "window": "12",
+  "entities": [
+    {
+      "canonical_name": "Brahmana",
+      "surface_names": ["Brahmana", "twice-born", "best of the twice-born", "Brahman"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-3c0534", "quote": "A Brahmana must never beg for wealth from a Shudra for the sake of a sacrifice", "role": "subject of ritual prohibition"},
+        {"paragraph_id": "p-ceb03a", "quote": "By his very birth, a Brahmana is a deity even for the gods, and he is the authority for the world", "role": "sacred authority figure"},
+        {"paragraph_id": "p-d24880", "quote": "a Brahmana, a ruler, and a Vaishya must not drink liquor", "role": "member of upper varnas"},
+        {"paragraph_id": "p-76b0e8", "quote": "By these vows, the sin arising from violence, whether committed knowingly or unknowingly, should be removed", "role": "performer of expiatory vows"},
+        {"paragraph_id": "p-e464cc", "quote": "Whatever the learned and virtuous Brahmanas may declare, that shall be the unquestioned Dharma", "role": "supreme authority on Dharma"}
+      ],
+      "description": "The highest varna (priestly class), portrayed as divinely authoritative, subject to the strictest ritual prohibitions, and the ultimate arbiters of Dharma.",
+      "justification": "Brahmanas are the central social-religious category throughout the chapter, appearing as both ideal practitioners and the primary subjects of penance law."
+    },
+    {
+      "canonical_name": "Kshatriya",
+      "surface_names": ["Kshatriya", "ruler", "king", "warrior"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-00ee06", "quote": "The property of a Brahmana must never be taken by a Kshatriya", "role": "subject of property prohibition"},
+        {"paragraph_id": "p-0109b4", "quote": "A Kshatriya should overcome his own distress by the power of his arms", "role": "varna with military role"},
+        {"paragraph_id": "p-fc1540", "quote": "In the slaying of a Kshatriya, a fourth part of the penance for the slaying of a Brahmana is remembered", "role": "victim whose slaying incurs penance"},
+        {"paragraph_id": "p-e464cc", "quote": "Kings and Kshatriyas, and the family priests of kings, and those who delight in disputes and battles—this is the middle rājasic state", "role": "assigned to middle rajasic cosmic rank"}
+      ],
+      "description": "The warrior-ruler varna, assigned the means of arms to overcome distress and placed in the middle rajasic cosmic state in the rebirth hierarchy.",
+      "justification": "Kshatriyas are repeatedly referenced as a distinct varna with specific penance obligations and cosmic ranking."
+    },
+    {
+      "canonical_name": "Vaishya",
+      "surface_names": ["Vaishya"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-877609", "quote": "Whatever Vaishya may be rich in cattle, but who has not performed the lesser sacrifices and does not drink Soma, from his family one may take that property", "role": "subject of property expropriation for sacrifice"},
+        {"paragraph_id": "p-0109b4", "quote": "a Vaishya and a Shudra, by wealth", "role": "varna overcoming distress by wealth"},
+        {"paragraph_id": "p-e464cc", "quote": "A Vaishya becomes a Maitrākṣajyotika spirit, an eater of pus", "role": "subject of post-death demotion for falling from Dharma"}
+      ],
+      "description": "The merchant-farmer varna, obligated to perform sacrifices and drink Soma; failure results in property expropriation and degraded rebirth.",
+      "justification": "Vaishyas appear as a distinct social-ritual category with specific obligations and karmic consequences."
+    },
+    {
+      "canonical_name": "Shudra",
+      "surface_names": ["Shudra", "vṛṣala", "low man"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-7f4e01", "quote": "One may take three or two things at will from the house of a Shudra; for a Shudra has no connection with sacrifices", "role": "excluded from sacrifice, subject to property expropriation"},
+        {"paragraph_id": "p-5e5b34", "quote": "The food of Yakshas, Rakshasas, and Pisachas is liquor", "role": "implicit contrast with Brahmana purity"},
+        {"paragraph_id": "p-2054b0", "quote": "Those who, having acquired wealth from a Shudra, maintain the Agnihotra, they are indeed the sacrificial priests of Shudras", "role": "source of ritually polluting wealth"},
+        {"paragraph_id": "p-e464cc", "quote": "a Shudra who has fallen from his own Dharma becomes a Cailāśaka spirit", "role": "subject of downgraded rebirth"}
+      ],
+      "description": "The servile varna excluded from sacrifice and Soma, whose wealth ritually pollutes Brahmanas; falling from varna duty leads to degraded spirit-rebirth.",
+      "justification": "Shudras are consistently marked as ritually inferior and outside the sacrificial economy throughout this chapter."
+    },
+    {
+      "canonical_name": "Chandala",
+      "surface_names": ["Chandala", "Pukkasa"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-3c0534", "quote": "A Brahmana must never beg for wealth from a Shudra for the sake of a sacrifice; for a sacrificer who begs for it is reborn after death as a Chandala", "role": "degraded rebirth state"},
+        {"paragraph_id": "p-e464cc", "quote": "A slayer of a Brahmana enters the womb of a dog, a pig, a donkey, or a camel, of a cow, a goat, a sheep, a wild animal, or a bird, or of a Chandala or a Pukkasa", "role": "low-caste womb as karmic punishment"}
+      ],
+      "description": "Outcastes below the four varnas, invoked as the lowest human rebirth state assigned to those who commit brahmanicide or beg from Shudras.",
+      "justification": "Chandalas function as the nadir of human social existence in the karmic hierarchy described in penance law."
+    },
+    {
+      "canonical_name": "Prajapati",
+      "surface_names": ["Prajapati", "lord Prajapati"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-a772e4", "quote": "A Brahmana who has wealth but does not give the horse sacred to Prajapati as the fee for the establishment of the sacred fire", "role": "deity to whom sacred horse fee is owed"},
+        {"paragraph_id": "p-e464cc", "quote": "The lord Prajapati created this sacred treatise by tapas alone", "role": "divine author of the Manusmrti via tapas"},
+        {"paragraph_id": "p-e464cc", "quote": "in the organ of generation, Prajapati", "role": "cosmic deity embodied in the generative organ"}
+      ],
+      "description": "The creator deity who authored the Manusmrti through tapas, receives the horse-sacrifice fee, and is cosmologically identified with the organ of generation.",
+      "justification": "Prajapati is named as both the divine source of this very text and a deity requiring specific ritual offerings, making him a first-class figure in the chapter."
+    },
+    {
+      "canonical_name": "Yama",
+      "surface_names": ["Yama", "torments of Yama"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-074f6e", "quote": "Having experienced with that body the torments of Yama here, they are dissolved into those same elements", "role": "lord of post-death punishment"},
+        {"paragraph_id": "p-074f6e", "quote": "he, being abandoned by those elements, obtains the torments of Yama", "role": "agent of karmic retribution for the unrighteous"}
+      ],
+      "description": "The god of death and karmic justice who administers post-mortem torments to souls weighted toward unrighteousness before their re-dissolution into elements.",
+      "justification": "Yama is explicitly named as the source of post-death suffering within the karma-rebirth doctrine expounded in chapter 12."
+    },
+    {
+      "canonical_name": "Indra",
+      "surface_names": ["Indra", "thousand-eyed one"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-1deda1", "quote": "he should offer oblations of ghee to the Wind, Indra, the Guru, and the Fire", "role": "recipient of expiatory ghee oblation"},
+        {"paragraph_id": "p-b248db", "quote": "The spiritual luster of Brahma approaches these four who are under a vow: the Wind, the thousand-eyed one, the Guru, and the Fire", "role": "cosmic being who receives the brahmacharya's lost spiritual luster"}
+      ],
+      "description": "The king of the gods, recipient of expiatory fire-oblations and described as the 'thousand-eyed one' who absorbs the spiritual luster lost by a student who breaks his vow of celibacy.",
+      "justification": "Indra appears explicitly in penance rituals as one of the four cosmic powers that receive brahmacharya luster, grounding him in the chapter's ritual context."
+    },
+    {
+      "canonical_name": "Brahma",
+      "surface_names": ["Brahma", "Brahma the Great One"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-ceb03a", "quote": "for Brahma is indeed the cause in this matter", "role": "ultimate cause of Brahmana's divine status"},
+        {"paragraph_id": "p-074f6e", "quote": "Brahma, the creators of the world, Dharma, the Great One, and the Unmanifest—this the wise call the highest sāttvic state", "role": "pinnacle of the sattva rebirth hierarchy"}
+      ],
+      "description": "The creator deity who is the ultimate cause of Brahmana divinity and represents the highest sattvic cosmic state in the rebirth hierarchy.",
+      "justification": "Brahma is named both as the foundation of Brahmana religious authority and as the apex of the three-guna cosmological ladder."
+    },
+    {
+      "canonical_name": "Bhrigu",
+      "surface_names": ["Bhrigu", "that righteous-souled Bhrigu, descendant of Manu"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {"paragraph_id": "p-074f6e", "quote": "That righteous-souled Bhrigu, descendant of Manu, said to those great sages: 'Listen to the determination of this entire connection with karma.'", "role": "narrator and teacher of the karma doctrine"},
+        {"paragraph_id": "p-e464cc", "quote": "a twice-born who studies this Mānava Śāstra declared by Bhrigu becomes ever endowed with good conduct", "role": "final authority and declared speaker of the treatise"}
+      ],
+      "description": "The sage and descendant of Manu who narrates the final chapter's teaching on karma and rebirth, and is named as the authority who declared the Manusmrti.",
+      "justification": "Bhrigu is the explicitly named speaker of chapter 12 and the declared author-transmitter of the entire Manusmrti, making him the text's key human figure."
+    },
+    {
+      "canonical_name": "Vishve-devas",
+      "surface_names": ["Vishve-devas", "Vishve devas"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-3aeb91", "quote": "By all the Vishve-devas, by the Sadhyas, and by the Brahmanas and great sages, who were afraid of death in times of distress, a substitute for the rule was made", "role": "divine group who authorized substitute Dharma rules in extremis"}
+      ],
+      "description": "A class of Vedic pan-deities who, together with the Sadhyas and Brahmanas, authorized emergency substitute rules of Dharma when afraid of death.",
+      "justification": "Vishve-devas are explicitly named as divine agents who validated the legitimacy of emergency Dharma exceptions in the penance system."
+    },
+    {
+      "canonical_name": "Sadhyas",
+      "surface_names": ["Sadhyas", "sādhyas"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-3aeb91", "quote": "By all the Vishve-devas, by the Sadhyas, and by the Brahmanas and great sages, who were afraid of death in times of distress, a substitute for the rule was made", "role": "divine group co-authorizing emergency Dharma"},
+        {"paragraph_id": "p-e464cc", "quote": "Sacrificers, sages, gods, the Vedas, the heavenly lights, the years, the ancestors, and the sādhyas—this is the second sāttvic state", "role": "placed in second sattvic rebirth tier"}
+      ],
+      "description": "A class of minor Vedic deities who co-authorized emergency Dharma rules and occupy the second sattvic rebirth state in the cosmic hierarchy.",
+      "justification": "Sadhyas appear twice, once as agents of doctrinal legitimation and once in the rebirth taxonomy, grounding them as a recurring divine category."
+    },
+    {
+      "canonical_name": "Yakshas",
+      "surface_names": ["Yakshas", "guhyakas"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-5e5b34", "quote": "The food of Yakshas, Rakshasas, and Pisachas is liquor, meat, and distilled spirits", "role": "impure supernatural beings associated with forbidden food"},
+        {"paragraph_id": "p-e464cc", "quote": "Gandharvas, guhyakas, Yakshas, and those who are attendants of the gods, and likewise all the apsaras—this is the highest rājasic state", "role": "placed in highest rajasic rebirth tier"}
+      ],
+      "description": "Semi-divine beings who consume liquor and meat, and occupy the highest rajasic cosmic rebirth state alongside Gandharvas and apsaras.",
+      "justification": "Yakshas appear in both the purity-pollution framework (as consumers of forbidden substances) and the three-guna rebirth taxonomy."
+    },
+    {
+      "canonical_name": "Rakshasas",
+      "surface_names": ["Rakshasas", "Brahma-rakshasa"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-5e5b34", "quote": "The food of Yakshas, Rakshasas, and Pisachas is liquor, meat, and distilled spirits", "role": "demonic beings associated with forbidden food"},
+        {"paragraph_id": "p-e464cc", "quote": "Cāraṇas, suparṇas, and hypocritical men, Rakshasas and Pisachas—this is the highest tāmasic state", "role": "placed in highest tamasic rebirth tier"},
+        {"paragraph_id": "p-e464cc", "quote": "Having had intercourse with outcastes, and with the wife of another, and having stolen the property of a Brahmana, one becomes a Brahma-rakshasa", "role": "specific demon-form as karmic punishment"}
+      ],
+      "description": "Demonic beings who consume forbidden substances, occupy the highest tamasic rebirth state, and serve as a specific karmic punishment (Brahma-rakshasa) for grave ritual transgressions.",
+      "justification": "Rakshasas appear in multiple ontological layers: as impure food-consumers, in the three-guna taxonomy, and as a named karmic rebirth destination."
+    },
+    {
+      "canonical_name": "Pisachas",
+      "surface_names": ["Pisachas", "violent Pisachas"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-5e5b34", "quote": "The food of Yakshas, Rakshasas, and Pisachas is liquor, meat, and distilled spirits", "role": "demonic beings associated with forbidden food"},
+        {"paragraph_id": "p-e464cc", "quote": "Cāraṇas, suparṇas, and hypocritical men, Rakshasas and Pisachas—this is the highest tāmasic state", "role": "placed in highest tamasic rebirth tier"},
+        {"paragraph_id": "p-e464cc", "quote": "A Brahmana who is a thief enters a thousand times the wombs of spiders, snakes, and lizards, and of beasts and water-creatures, and of violent Pisachas", "role": "rebirth destination for Brahmana thieves"}
+      ],
+      "description": "Malevolent spirit-beings who consume forbidden substances, occupy the highest tamasic state, and serve as a karmic rebirth destination for thieving Brahmanas.",
+      "justification": "Pisachas appear across three distinct contexts — purity classification, guna taxonomy, and karmic punishment — making them a recurring supernatural category in this chapter."
+    },
+    {
+      "canonical_name": "Gandharvas",
+      "surface_names": ["Gandharvas"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-e464cc", "quote": "Gandharvas, guhyakas, Yakshas, and those who are attendants of the gods, and likewise all the apsaras—this is the highest rājasic state", "role": "placed in highest rajasic rebirth tier"}
+      ],
+      "description": "Semi-divine celestial beings who occupy the highest rajasic cosmic state alongside Yakshas, guhyakas, and apsaras.",
+      "justification": "Gandharvas are explicitly assigned a tier in the three-guna rebirth taxonomy, placing them as a distinct cosmic group."
+    },
+    {
+      "canonical_name": "Apsaras",
+      "surface_names": ["apsaras"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-e464cc", "quote": "Gandharvas, guhyakas, Yakshas, and those who are attendants of the gods, and likewise all the apsaras—this is the highest rājasic state", "role": "placed in highest rajasic rebirth tier"}
+      ],
+      "description": "Celestial nymphs assigned to the highest rajasic rebirth state in the chapter's three-guna cosmic hierarchy.",
+      "justification": "Apsaras are explicitly named in the rebirth taxonomy and identified with the rajasic cosmic tier."
+    },
+    {
+      "canonical_name": "Nirriti",
+      "surface_names": ["Nirriti"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-52e738", "quote": "a student who has broken his vow of chastity should, at a crossroads, sacrifice a one-eyed donkey to Nirriti at night, by the rule of the pākayajña", "role": "deity receiving nocturnal expiatory sacrifice"}
+      ],
+      "description": "The deity of dissolution and inauspiciousness, who receives a nocturnal one-eyed donkey sacrifice at a crossroads as expiation for a student's broken vow of chastity.",
+      "justification": "Nirriti is named as the specific recipient of a prescribed expiatory rite, anchoring her in the chapter's penance system."
+    },
+    {
+      "canonical_name": "Sarasvati River",
+      "surface_names": ["Sarasvati", "Sarasvati river"],
+      "kind": "place",
+      "mentions": [
+        {"paragraph_id": "p-ccdcc6", "quote": "eating sacrificial food, he may follow the Sarasvati river upstream; or, with a controlled diet, he may recite the Samhita of the Veda three times", "role": "sacred pilgrimage route for Brahmana penance"}
+      ],
+      "description": "The sacred river whose upstream path constitutes a recognized alternative penance route for a Brahmana who has committed brahmanicide.",
+      "justification": "The Sarasvati is explicitly named as a physical pilgrimage site within the penance law of this chapter."
+    },
+    {
+      "canonical_name": "Veda",
+      "surface_names": ["Veda", "Rigveda", "Yajurveda", "Samaveda", "Rik-Samhita", "Veda-Samhita", "Veda-shastra", "Shruti", "the three Vedas", "Atharva-Angirasas"],
+      "kind": "object",
+      "mentions": [
+        {"paragraph_id": "p-0ef0de", "quote": "He should use the sacred texts of the Atharva-Angirasas without hesitation; for the weapon of a Brahmana is speech", "role": "weapon of the Brahmana"},
+        {"paragraph_id": "p-e464cc", "quote": "The Veda is the eternal eye of the ancestors, gods, and men; the Veda-shastra is impossible and immeasurable; this is the established rule", "role": "eternal cosmological authority"},
+        {"paragraph_id": "p-e464cc", "quote": "The four-varna system, the three worlds, and the four āśramas separately, the past, the present, and the future—all proceeds from the Veda", "role": "source of all dharmic and cosmic order"},
+        {"paragraph_id": "p-e464cc", "quote": "Sacrificers, sages, gods, the Vedas, the heavenly lights, the years, the ancestors, and the sādhyas—this is the second sāttvic state", "role": "placed in second sattvic cosmic tier"}
+      ],
+      "description": "The eternal sacred scriptures that constitute the supreme authority for Dharma, the source of all cosmic order, and themselves a cosmic entity occupying the second sattvic rebirth state.",
+      "justification": "The Veda is the most cited authoritative referent in the chapter, both as a text governing penance law and as a cosmic entity in its own right."
+    },
+    {
+      "canonical_name": "Tamisra Hell",
+      "surface_names": ["Tamisra", "dreadful hells", "Kumbhipaka hells", "Asipatravana"],
+      "kind": "place",
+      "mentions": [
+        {"paragraph_id": "p-e464cc", "quote": "the revolving in dreadful hells, such as Tamisra and the others; the Asipatravana and the like, and bonds and mutilations", "role": "post-death punishment realms for sinners"},
+        {"paragraph_id": "p-e464cc", "quote": "Various kinds of torments, and being devoured by crows and owls; and the torments of hot sand and gravel, and the dreadful Kumbhipaka hells", "role": "specific torment locales in post-death punishment"}
+      ],
+      "description": "Named post-death punishment realms — Tamisra (darkness), Asipatravana (sword-leaf forest), and Kumbhipaka (cooking-pot) — where unrighteous souls undergo torments before rebirth.",
+      "justification": "These hell-realms are explicitly named as specific loci of karmic retribution within the rebirth cosmology of chapter 12."
+    },
+    {
+      "canonical_name": "Karma",
+      "surface_names": ["karma", "action", "connection with karma"],
+      "kind": "idea",
+      "mentions": [
+        {"paragraph_id": "p-074f6e", "quote": "Action, which springs from the mind, speech, and body, has good and bad results; the states of men, high, low, and middle, are born of their karma", "role": "cosmic law governing human states"},
+        {"paragraph_id": "p-074f6e", "quote": "With whatever disposition one performs any action, with a body of that same kind one enjoys the fruit of that action", "role": "doctrine of matched karmic fruition"},
+        {"paragraph_id": "p-e464cc", "quote": "The Self alone is all the deities; everything is established in the Self. For the Self indeed produces the connection with action for embodied beings", "role": "the Self as source of karmic linkage"}
+      ],
+      "description": "The threefold action (mental, verbal, bodily) whose quality determines the states of rebirth and post-death experience, constituting the central metaphysical doctrine of the chapter's final section.",
+      "justification": "Karma is the chapter's primary philosophical concept, providing the doctrinal basis for both the penance system and the rebirth taxonomy."
+    },
+    {
+      "canonical_name": "Three Gunas",
+      "surface_names": ["guṇas", "sattva", "rajas", "tamas", "sāttvic", "rājasic", "tāmasic"],
+      "kind": "idea",
+      "mentions": [
+        {"paragraph_id": "p-074f6e", "quote": "One should know sattva, rajas, and tamas to be the three guṇas of the Self, by which the Great One, having pervaded all beings, abides without exception", "role": "constitutive qualities of cosmic Self"},
+        {"paragraph_id": "p-074f6e", "quote": "Sattva is knowledge, tamas is ignorance, rajas is remembered as passion and aversion; this is the pervasive nature of these", "role": "definitions of the three gunas"},
+        {"paragraph_id": "p-074f6e", "quote": "The sāttvic go to the state of gods; the rājasic, to the state of men; the tāmasic always go to the state of beasts; this is the threefold state", "role": "guna-based cosmic rebirth classification"}
+      ],
+      "description": "The three fundamental qualities of existence (sattva=knowledge/purity, rajas=passion, tamas=ignorance) that determine the type of cosmic rebirth and one's characteristic dispositions.",
+      "justification": "The three-guna doctrine is the chapter's most elaborately developed metaphysical framework, occupying a sustained section of chapter 12's cosmological exposition."
+    },
+    {
+      "canonical_name": "Tapas",
+      "surface_names": ["tapas", "austerity", "self-mortification"],
+      "kind": "idea",
+      "mentions": [
+        {"paragraph_id": "p-e464cc", "quote": "All this happiness of gods and men has tapas as its root; it is said by the wise to have tapas in its middle, and by the seers of the Veda to have tapas as its end", "role": "root, middle, and end of all happiness"},
+        {"paragraph_id": "p-e464cc", "quote": "The tapas of a Brahmana is knowledge; the tapas of a Kshatriya is protection; the tapas of a Vaishya is trade and economics; and the tapas of a Shudra is service", "role": "varna-specific definition of tapas"},
+        {"paragraph_id": "p-e464cc", "quote": "The lord Prajapati created this sacred treatise by tapas alone; and likewise the sages received the Vedas by tapas", "role": "creative power behind the Manusmrti and the Vedas"}
+      ],
+      "description": "Austere self-discipline declared to be the foundational means of all cosmic and human good, the creative force behind the Vedas and this treatise, and defined distinctively for each varna.",
+      "justification": "Tapas is given an extended doctrinal treatment in chapter 12 as both a practical penance method and a supreme metaphysical principle."
+    },
+    {
+      "canonical_name": "Atman (Self)",
+      "surface_names": ["Self", "Ātman", "ātmajñāna", "kṣetrajña", "jīva", "living soul", "inner self", "Puruṣa"],
+      "kind": "idea",
+      "mentions": [
+        {"paragraph_id": "p-074f6e", "quote": "He who is the impeller of this Self, him they call the knower of the field; but he who performs the actions is called the embodied soul by the wise", "role": "distinction between witness-Self and action-performing soul"},
+        {"paragraph_id": "p-074f6e", "quote": "Of all these good actions here, knowledge of the Self (ātmajñāna) is remembered as the highest; for that is the foremost of all sciences, for from it immortality is obtained", "role": "supreme liberating knowledge"},
+        {"paragraph_id": "p-e464cc", "quote": "Seeing the Self equally in all beings, and all beings in the Self, he who sacrifices to the Self attains svārājya (sovereignty over the Self)", "role": "contemplative identity of Self with all beings"}
+      ],
+      "description": "The innermost Self (Atman/kṣetrajña/jīva) whose knowledge (ātmajñāna) is declared the highest science and path to immortality; contemplation of its universal identity leads to self-sovereignty.",
+      "justification": "Atman-knowledge is explicitly named the highest of all good actions in chapter 12, and the text elaborates multiple aspects of the Self in the final metaphysical section."
+    },
+    {
+      "canonical_name": "Soma",
+      "surface_names": ["Soma", "Soma sacrifice"],
+      "kind": "object",
+      "mentions": [
+        {"paragraph_id": "p-a40410", "quote": "he is entitled to drink Soma", "role": "ritual drink reserved for those of sufficient means"},
+        {"paragraph_id": "p-a0a5a3", "quote": "he, even if he has previously drunk Soma, does not obtain the fruit of it", "role": "sacred drink whose fruit is lost by the insufficiently wealthy"},
+        {"paragraph_id": "p-df9315", "quote": "A Brahmana who drinks Soma, having smelled the scent of a liquor-drinker, is purified by thrice suppressing his breath in water and eating ghee", "role": "sacred substance requiring purification after contact with liquor"}
+      ],
+      "description": "The sacred ritual drink whose consumption is conditional on wealth and whose purity must be protected from contact with liquor drinkers.",
+      "justification": "Soma is the first ritual substance addressed in the chapter and appears in both the privilege economy and the purity-pollution framework."
+    },
+    {
+      "canonical_name": "Agnihotra",
+      "surface_names": ["Agnihotra", "sacred fire", "fire-oblation", "Vaishvanari sacrifice"],
+      "kind": "object",
+      "mentions": [
+        {"paragraph_id": "p-2054b0", "quote": "Those who, having acquired wealth from a Shudra, maintain the Agnihotra, they are indeed the sacrificial priests of Shudras", "role": "sacred fire ritual polluted by wrong funding"},
+        {"paragraph_id": "p-0803db", "quote": "A Brahmana who maintains the sacred fire, who abandons his fires out of desire, should perform the Cāndrāyaṇa penance", "role": "ritual obligation whose abandonment requires penance"},
+        {"paragraph_id": "p-455f1d", "quote": "One should perform the Vaishvanari sacrifice daily at the end of the year, for the atonement of the prescribed animal and Soma sacrifices", "role": "daily year-end atonement sacrifice"}
+      ],
+      "description": "The sacred household fire and its associated daily oblation ritual, whose maintenance and proper funding are central obligations in the chapter's penance framework.",
+      "justification": "The Agnihotra and sacred fire appear repeatedly as the paradigmatic ritual whose neglect, improper funding, or abandonment triggers penance obligations."
+    },
+    {
+      "canonical_name": "Cāndrāyaṇa Penance",
+      "surface_names": ["Cāndrāyaṇa", "lunar penance", "Yaticāndrāyaṇa", "Śiśucāndrāyaṇa", "Yavamadhya"],
+      "kind": "object",
+      "mentions": [
+        {"paragraph_id": "p-0803db", "quote": "should perform the Cāndrāyaṇa penance for a month; for that is equal to the slaying of a hero", "role": "penance for abandoning sacred fires"},
+        {"paragraph_id": "p-e464cc", "quote": "One should decrease one mouthful each day during the dark fortnight and increase it during the bright fortnight, sipping water at the three daily libations; this is remembered as the Cāndrāyaṇa", "role": "definition of the lunar penance cycle"}
+      ],
+      "description": "A graduated lunar penance in which daily food intake follows the waxing and waning of the moon, prescribed for numerous offences including abandoning sacred fires and sexual transgressions.",
+      "justification": "The Cāndrāyaṇa is the most frequently prescribed penance in this chapter, appearing as a remedy for a wide range of offences across the penance taxonomy."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Penance law and taxonomic classification of sins",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-961cc5", "quote": "The slaying of a Brahmana, the drinking of liquor, theft, the defiling of a guru's bed—these they call great sins"},
+        {"paragraph_id": "p-413840", "quote": "All these sins, as they have been stated, separately, by which vows they are removed, hear those in their entirety"},
+        {"paragraph_id": "p-e971bc", "quote": "By these vows, those who have committed a great sin should remove their impurity; but those who have committed a minor sin, by these various vows"}
+      ],
+      "justification": "The vast majority of the chapter (indices 0-172) constitutes a systematic taxonomy of sins into four grades (great sins, minor sins, caste-mixing sins, impurity sins) each paired with specific prescribed penances."
+    },
+    {
+      "topic": "Brahmanical ritual purity and pollution hierarchy",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-d24880", "quote": "Liquor is indeed the filth of food, and sin is also called filth; therefore, a Brahmana, a ruler, and a Vaishya must not drink liquor"},
+        {"paragraph_id": "p-5e5b34", "quote": "The food of Yakshas, Rakshasas, and Pisachas is liquor, meat, and distilled spirits; that must not be eaten by a Brahmana who eats the oblations of the gods"},
+        {"paragraph_id": "p-2054b0", "quote": "Those who, having acquired wealth from a Shudra, maintain the Agnihotra, they are indeed the sacrificial priests of Shudras, condemned among those who expound the Veda"}
+      ],
+      "justification": "A pervasive structural theme is the opposition between ritual purity (proper sacrifice funding, Soma, sacred fire) and pollution (liquor, forbidden food, Shudra wealth), which determines both social status and karmic outcome."
+    },
+    {
+      "topic": "Varna hierarchy and social stratification",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-ceb03a", "quote": "By his very birth, a Brahmana is a deity even for the gods, and he is the authority for the world"},
+        {"paragraph_id": "p-fc1540", "quote": "In the slaying of a Kshatriya, a fourth part of the penance for the slaying of a Brahmana is remembered; for a Vaishya of good conduct, an eighth part; but for a Shudra, a sixteenth part"},
+        {"paragraph_id": "p-e464cc", "quote": "The tapas of a Brahmana is knowledge; the tapas of a Kshatriya is protection; the tapas of a Vaishya is trade and economics; and the tapas of a Shudra is service"}
+      ],
+      "justification": "Graded penance values for killing members of different varnas, and varna-specific definitions of tapas, express a thoroughgoing hierarchical social ontology throughout the chapter."
+    },
+    {
+      "topic": "Karma and rebirth cosmology",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-074f6e", "quote": "Action, which springs from the mind, speech, and body, has good and bad results; the states of men, high, low, and middle, are born of their karma"},
+        {"paragraph_id": "p-074f6e", "quote": "By faults of action done with the body, a man goes to the state of immovable things; by verbal faults, to the state of birds and beasts; and by mental faults, to the state of the lowest castes"},
+        {"paragraph_id": "p-e464cc", "quote": "Having obtained dreadful hells for many hosts of years, at their expiration, those who have committed great sins enter into these cycles of rebirth"}
+      ],
+      "justification": "Chapter 12 formally introduces the karma-rebirth doctrine, teaching that the three types of action (mental, verbal, bodily) determine the mode and quality of rebirth through a detailed taxonomy."
+    },
+    {
+      "topic": "Three-guna metaphysics and cosmic hierarchy",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-074f6e", "quote": "One should know sattva, rajas, and tamas to be the three guṇas of the Self, by which the Great One, having pervaded all beings, abides without exception"},
+        {"paragraph_id": "p-074f6e", "quote": "The sāttvic go to the state of gods; the rājasic, to the state of men; the tāmasic always go to the state of beasts; this is the threefold state"},
+        {"paragraph_id": "p-074f6e", "quote": "Brahma, the creators of the world, Dharma, the Great One, and the Unmanifest—this the wise call the highest sāttvic state"}
+      ],
+      "justification": "Chapter 12 devotes an extended section to the three-guna doctrine, mapping all cosmic beings onto a nine-fold guna-rebirth matrix as the metaphysical foundation for the karma teaching."
+    },
+    {
+      "topic": "Self-knowledge (ātmajñāna) as supreme soteriological path",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-074f6e", "quote": "Of all these good actions here, knowledge of the Self (ātmajñāna) is remembered as the highest; for that is the foremost of all sciences, for from it immortality is obtained"},
+        {"paragraph_id": "p-074f6e", "quote": "Seeing the Self equally in all beings, and all beings in the Self, he who sacrifices to the Self attains svārājya (sovereignty over the Self)"},
+        {"paragraph_id": "p-e464cc", "quote": "With a concentrated mind, one should see all things, both the existent and the non-existent, in the Self; for one who sees all things in the Self does not set his mind on unrighteousness"}
+      ],
+      "justification": "Chapter 12 closes with a sustained soteriology in which knowledge of the universal Self is identified as the highest good, superior to all other Vedic actions."
+    },
+    {
+      "topic": "Tapas (ascetic discipline) as cosmic and soteriological power",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-e464cc", "quote": "All this happiness of gods and men has tapas as its root; it is said by the wise to have tapas in its middle, and by the seers of the Veda to have tapas as its end"},
+        {"paragraph_id": "p-e464cc", "quote": "The lord Prajapati created this sacred treatise by tapas alone; and likewise the sages received the Vedas by tapas"},
+        {"paragraph_id": "p-e464cc", "quote": "Insects, snakes, and moths, and beasts and birds, and immovable beings, go to heaven by the power of tapas"}
+      ],
+      "justification": "Tapas is elevated from a mere penance technique to a cosmic creative principle, declared the source of all good and the means of liberation even for non-human beings."
+    },
+    {
+      "topic": "Vedic authority as foundation of all dharmic and cosmic order",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-e464cc", "quote": "The Veda is the eternal eye of the ancestors, gods, and men; the Veda-shastra is impossible and immeasurable"},
+        {"paragraph_id": "p-e464cc", "quote": "The four-varna system, the three worlds, and the four āśramas separately, the past, the present, and the future—all proceeds from the Veda"},
+        {"paragraph_id": "p-e464cc", "quote": "Those Smṛtis which are outside the Veda, and whatever bad doctrines there are, all of them are fruitless after death, for they are remembered as founded on darkness"}
+      ],
+      "justification": "Chapter 12's closing section mounts an explicit argument for Vedic supremacy over all other traditions (Smritis, bad doctrines), positioning the Veda as the ontological ground of cosmos and society."
+    },
+    {
+      "topic": "Remorse and confession as internal mechanisms of purification",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-e464cc", "quote": "By confession, by remorse, by tapas, and by study, a sinner is freed from sin"},
+        {"paragraph_id": "p-e464cc", "quote": "As a man, having committed an unrighteous act, confesses it himself, so he is freed from that unrighteousness, like a snake from its skin"},
+        {"paragraph_id": "p-e464cc", "quote": "Having committed a sin and being remorseful, one is freed from that sin; but he is purified by the resolution, 'I will not do so again.'"}
+      ],
+      "justification": "Alongside external ritual penances, the chapter introduces an internalist path of purification through genuine remorse and resolve, offering a psychological counterpart to the elaborate penance system."
+    },
+    {
+      "topic": "Royal authority and the king's ritual-juridical role",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-42a4f5", "quote": "A righteous lord of the earth should not inflict punishment on him for that; for it is through the foolishness of a Kshatriya that a Brahmana suffers from hunger"},
+        {"paragraph_id": "p-26ecce", "quote": "the king should arrange a righteous livelihood for him"},
+        {"paragraph_id": "p-7c7506", "quote": "The king, having taken a club, should strike him once himself; by death the thief is purified, but a Brahmana by tapas alone"}
+      ],
+      "justification": "The king appears repeatedly as the authority responsible for Brahmana welfare, the arbiter of punishment, and a conduit of penance — establishing kingship as a ritual-juridical institution intertwined with the penance system."
+    },
+    {
+      "topic": "Animal lives as moral barometers and karmic destinations",
+      "implicit": true,
+      "mentions": [
+        {"paragraph_id": "p-e464cc", "quote": "A slayer of a Brahmana enters the womb of a dog, a pig, a donkey, or a camel, of a cow, a goat, a sheep, a wild animal, or a bird"},
+        {"paragraph_id": "p-e464cc", "quote": "Having stolen grain, one becomes a rat; bronze, a swan; water, a diver-bird; honey, a gadfly; milk, a crow"},
+        {"paragraph_id": "p-cb6d95", "quote": "The slaying of a donkey, a horse, a camel, a deer, or an elephant, and of a goat or a sheep, is to be known as a sin causing a mixture of castes"}
+      ],
+      "justification": "The extraordinarily detailed mapping of specific sins to specific animal rebirths implies an implicit moral-ontological schema in which animal species serve as a graded system of karmic indicators."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Shruti (Vedic revelation)",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-7f8ce7",
+      "quote": "some say it is also for one committed intentionally, from the evidence of the Śruti",
+      "justification": "The text invokes Shruti as an authoritative source to support extending penance to intentional sins, treating revealed scripture as a legal-doctrinal citation."
+    },
+    {
+      "cited_work": "Atharva-Veda (Atharva-Angirasas)",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-0ef0de",
+      "quote": "He should use the sacred texts of the Atharva-Angirasas without hesitation; for the weapon of a Brahmana is speech",
+      "justification": "The Atharva-Veda tradition is cited as the authoritative verbal weapon available to a Brahmana for disciplining enemies, constituting a doctrinal endorsement of this Vedic corpus."
+    },
+    {
+      "cited_work": "Smritis (texts outside the Veda)",
+      "cited_author": null,
+      "stance": "refute",
+      "paragraph_id": "p-e464cc",
+      "quote": "Those Smṛtis which are outside the Veda, and whatever bad doctrines there are, all of them are fruitless after death, for they are remembered as founded on darkness",
+      "justification": "The chapter explicitly refutes the salvific authority of non-Vedic Smritis and heterodox doctrines, positioning them as ontologically grounded in tamas and soteriologically void."
+    },
+    {
+      "cited_work": "Kautsa hymn (āpa ity etad)",
+      "cited_author": "Kautsa",
+      "stance": "authority",
+      "paragraph_id": "p-e464cc",
+      "quote": "Having recited the hymn of Kautsa, 'āpa ity etad,' the Rik verse 'pratīty' of Vasishtha, the Māhitra, and the Śuddhavatīs, even a liquor-drinker is purified",
+      "justification": "Specific Vedic hymns attributed to named sages (Kautsa, Vasishtha) are cited as efficacious purificatory texts within the chapter's penance law."
+    },
+    {
+      "cited_work": "Pratīty verse of Vasishtha",
+      "cited_author": "Vasishtha",
+      "stance": "authority",
+      "paragraph_id": "p-e464cc",
+      "quote": "the Rik verse 'pratīty' of Vasishtha, the Māhitra, and the Śuddhavatīs, even a liquor-drinker is purified",
+      "justification": "Vasishtha is cited by name as the author of a specific Rik verse with purificatory power, functioning as an intra-Vedic authority citation within the penance system."
+    }
+  ]
+}

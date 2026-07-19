@@ -1,0 +1,95 @@
+---
+work_id: "68a8528e-4588-5222-8430-45f9d931fa90"
+work_slug: "thomas-paine-poems-68a852"
+work_title: Poems
+author: Thomas Paine
+author_slug: "thomas-paine"
+ecpa_poem_id: "tpc26-w0060"
+chapter_number: 6
+chapter_title: "Critic and Snow-drop"
+chapter_slug: "06-critic-and-snow-drop"
+variant_id: "afb5bb3d-ce41-5e67-8da1-e93753bd4794"
+content_type: original
+layout: verse
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 387
+source_url: "https://www.eighteenthcenturypoetry.org/"
+license: "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+genres:
+  - dialogue
+metrical_foot: iambic (˘′)
+metrical_count: pentameter (5 feet)
+rhyme_scheme: aa
+syllable_pattern: 10
+---
+
+Critic and Snow-drop
+
+To the Publisher of the Pennsylvania Magazine
+
+Critic.
+
+Prologues to magazines! the man is mad
+No magazine a prologue ever had.
+But let us hear what new and mighty things
+Your wonder-working magic fancy brings.
+
+Snow-drop.
+
+Bit by the muse in an unlucky hour,
+I’ve left myself at home, and turn’d a flow’r;
+And thus disguis’d come forth to tell my tale,
+A plain white snow drop gathered from the vale,
+I come to sing that summer is at hand,
+The summer time of wit, you’ll understand:
+And that this garden of our magazine
+Will soon exhibit such a pleasing scene,
+That even critics shall admire the show
+If their good grace will give us time to grow.
+Beneath the surface of the parent earth,
+We’ve various seeds just struggling into birth,
+Plants, fruits, and flow’rs, and all the smiling race,
+That can the orchard or the garden grace,
+Our numbers, Sir, so vast and endless are,
+That when in full complexion we appear,
+Each eye, each hand, shall pluck what suits its taste,
+And every palate shall enjoy a feast.
+The rose and lily shall address the fair,
+And whisper sweetly out — My dears take care.
+With sterling worth the plant of sense shall rise
+And teach the curious to philosophize;
+The keen-ey’d wit shall claim the scented briar,
+And sober cits the solid grain admire;
+While gen’rous juices sparkling from the vine
+Shall warm the audience, until they cry — Divine:
+And when the scenes of one gay month are o’er,
+Shall clap their hands, and shout — Encore, encore.
+
+Critic.
+
+All this is mighty fine! But prithee when
+The frost returns, how fight ye then your men?
+
+Snow-drop.
+
+I’ll tell you, Sir.  — We’ll garnish out the scenes
+With stately rows of hardy ever-greens,
+Trees that will bear the frost; and deck their tops
+With everlasting flow’rs, like diamond drops.
+We’ll draw, and paint, and carve, with so much skill,
+That wondering wits shall cry — Diviner still!
+
+Critic.
+
+Better and better yet! But now, suppose
+Some critic wight in mighty verse or prose,
+Should draw his grey goose weapon, dipt in gall.
+And mow ye down, plants, flow’rs, trees, and all.
+
+Snow-drop.
+
+Why, then we’ll die like flowers of sweet perfume,
+And yield a fragrance even in the tomb.

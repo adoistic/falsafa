@@ -1,0 +1,45 @@
+{
+  "work_slug": "sarah-fyge-egerton-poems-e1b5c5",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "THE Female Advocate, OR, An Answer to a late Satyr against the Pride, Lust and Inconstancy, &c. of Woman.",
+  "chapter_slug": "01-the-female-advocate-or-an-answer-to-a-late-satyr",
+  "author": "Sarah Fyge Egerton",
+  "author_slug": "sarah-fyge-egerton",
+  "ecpa_poem_id": "oae86-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "essay"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 696
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "60e7575c-b347-56b2-8557-8721ec009cb7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5461,
+      "line_count": 697,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

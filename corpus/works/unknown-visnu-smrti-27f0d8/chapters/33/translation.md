@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 33**
+**Viṣṇu Smriti 33**
 
 Now, a man has a threefold enemy, which is most terrible, called lust, anger, and greed. // Vi_33.1 //
 

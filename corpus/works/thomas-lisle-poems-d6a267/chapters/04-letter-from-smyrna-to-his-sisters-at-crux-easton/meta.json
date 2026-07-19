@@ -1,0 +1,44 @@
+{
+  "work_slug": "thomas-lisle-poems-d6a267",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "LETTER from SMYRNA to his Sisters at CRUX-EASTON, 1733.",
+  "chapter_slug": "04-letter-from-smyrna-to-his-sisters-at-crux-easton",
+  "author": "Thomas Lisle",
+  "author_slug": "thomas-lisle",
+  "ecpa_poem_id": "o5157-w0300",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "epistle"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 146
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3d5678cc-ed3a-5f41-a8ee-3d02d709a79f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 949,
+      "line_count": 149,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

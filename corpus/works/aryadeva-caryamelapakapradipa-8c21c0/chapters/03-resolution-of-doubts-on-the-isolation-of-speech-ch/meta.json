@@ -1,0 +1,38 @@
+{
+  "work_slug": "aryadeva-caryamelapakapradipa-8c21c0",
+  "work_title": "Caryāmelāpakapradīpa",
+  "chapter_number": 3,
+  "chapter_title": "Resolution of doubts on the isolation of speech (Chapter Three)",
+  "chapter_slug": "03-resolution-of-doubts-on-the-isolation-of-speech-ch",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "c2fdc0bb-354e-539d-8549-d2a695c872a7",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "iast",
+      "word_count": 588,
+      "paragraph_count": 51,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0832698b-92bf-58f2-a814-ebede5f82da2",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 1475,
+      "paragraph_count": 51,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    }
+  ]
+}

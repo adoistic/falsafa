@@ -1,0 +1,38 @@
+{
+  "work_slug": "valmiki-ramayana",
+  "work_title": "Vālmīki Rāmāyaṇa",
+  "chapter_number": 2,
+  "chapter_title": "Kāṇḍa 2",
+  "chapter_slug": "02-kanda-2",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "8ccca9a5-43aa-5684-8914-9d7b269f09a5",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 40601,
+      "paragraph_count": 3160,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "877c71e3-9779-53dd-b456-21426a3f4729",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 79514,
+      "paragraph_count": 3160,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    }
+  ]
+}

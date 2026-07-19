@@ -1,0 +1,46 @@
+{
+  "work_slug": "alexander-pope-poems-2de8d3",
+  "work_title": "Poems",
+  "chapter_number": 7,
+  "chapter_title": "THE FIRST ODE OF THE FOURTH BOOK OF HORACE:",
+  "chapter_slug": "07-the-first-ode-of-the-fourth-book-of-horace",
+  "author": "Alexander Pope",
+  "author_slug": "alexander-pope",
+  "ecpa_poem_id": "o3682-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode",
+      "imitation",
+      "translation"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8.10",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+|-+/",
+    "line_count": 48
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0469715a-98b9-509f-bbe1-3a880ab78fa3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 342,
+      "line_count": 50,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

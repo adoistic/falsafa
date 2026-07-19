@@ -1,0 +1,38 @@
+{
+  "work_slug": "samaveda",
+  "work_title": "Sāmaveda",
+  "chapter_number": 6,
+  "chapter_title": "Prapāṭhaka 6",
+  "chapter_slug": "06-prapathaka-6",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "687184bc-cf59-5a92-9e0d-b259d2e66fbe",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 1262,
+      "paragraph_count": 99,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d76885be-bbe0-58fb-91cb-13e9e712c38d",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 2624,
+      "paragraph_count": 99,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    }
+  ]
+}

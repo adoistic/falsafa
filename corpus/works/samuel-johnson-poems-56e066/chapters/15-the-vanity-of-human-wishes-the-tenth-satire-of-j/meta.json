@@ -1,0 +1,47 @@
+{
+  "work_slug": "samuel-johnson-poems-56e066",
+  "work_title": "Poems",
+  "chapter_number": 15,
+  "chapter_title": "The VANITY of HUMAN WISHES. THE Tenth Satire of JUVENAL. IMITATED",
+  "chapter_slug": "15-the-vanity-of-human-wishes-the-tenth-satire-of-j",
+  "author": "Samuel Johnson",
+  "author_slug": "samuel-johnson",
+  "ecpa_poem_id": "o5155-w0220",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "imitation",
+      "translation",
+      "paraphrase"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 366
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "42cf44b2-b0cd-57b1-9fcc-2241deeb943e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2756,
+      "line_count": 369,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

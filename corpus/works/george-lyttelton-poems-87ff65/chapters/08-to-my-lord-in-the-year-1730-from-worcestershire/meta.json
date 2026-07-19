@@ -1,0 +1,45 @@
+{
+  "work_slug": "george-lyttelton-poems-87ff65",
+  "work_title": "Poems",
+  "chapter_number": 8,
+  "chapter_title": "To my Lord — In the Year 1730. From Worcestershire.",
+  "chapter_slug": "08-to-my-lord-in-the-year-1730-from-worcestershire",
+  "author": "George Lyttelton",
+  "author_slug": "george-lyttelton",
+  "ecpa_poem_id": "o5153-w0080",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "epistle"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 69
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f1e70a42-47d4-5130-a8de-e4cc2a026df0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 542,
+      "line_count": 72,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

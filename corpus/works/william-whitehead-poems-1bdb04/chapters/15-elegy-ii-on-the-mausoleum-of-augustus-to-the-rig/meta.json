@@ -1,0 +1,45 @@
+{
+  "work_slug": "william-whitehead-poems-1bdb04",
+  "work_title": "Poems",
+  "chapter_number": 15,
+  "chapter_title": "ELEGY II. On the MAUSOLEUM of AUGUSTUS. To the Right Honourable George Bussy Villiers, Viscount Villiers. Written at ROME, 1756.",
+  "chapter_slug": "15-elegy-ii-on-the-mausoleum-of-augustus-to-the-rig",
+  "author": "William Whitehead",
+  "author_slug": "william-whitehead",
+  "ecpa_poem_id": "o5157-w0071",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "elegy"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "10.10.10.10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/     -+|-+|-+|-+|-+/     -+|-+|-+|-+|-+/     -+|-+|-+|-+|-+/",
+    "line_count": 60
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8ea020c1-7d5b-5275-b31d-86a3c805c34a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 474,
+      "line_count": 61,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

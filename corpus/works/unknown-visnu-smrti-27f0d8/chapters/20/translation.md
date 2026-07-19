@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 20**
+**Viṣṇu Smriti 20**
 
 The northern course of the sun (*uttarāyaṇa*) is the day of the gods. // Vi_20.1 //
 

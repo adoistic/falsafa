@@ -1,0 +1,45 @@
+{
+  "work_slug": "elizabeth-rowe-poems-3be553",
+  "work_title": "Poems",
+  "chapter_number": 22,
+  "chapter_title": "THE WISH, IN A POEM TO THE ATHENIANS.",
+  "chapter_slug": "22-the-wish-in-a-poem-to-the-athenians",
+  "author": "Elizabeth Rowe",
+  "author_slug": "elizabeth-rowe",
+  "ecpa_poem_id": "oar96-w0210",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "address"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 24
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7b3148cf-1954-56e6-948e-03ef4d9b31c8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 199,
+      "line_count": 25,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

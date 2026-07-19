@@ -1,0 +1,46 @@
+{
+  "work_slug": "assorted-eighteenth-century-poetry-353ac8",
+  "work_title": "An Assorted Collection of Eighteenth-Century Poetry",
+  "chapter_number": 80,
+  "chapter_title": "Miss SOPER'S Answer to a Lady, who invited her to retire into a monastic Life at St. CROSS, near WINCHESTER.",
+  "chapter_slug": "80-miss-sopers-answer-to-a-lady-who-invited-her-to-",
+  "author": "Miss Soper",
+  "author_slug": "miss-soper",
+  "ecpa_poem_id": "o5157-w0460",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ballad metre",
+      "Chevy Chase stanza",
+      "answer/reply"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "8.6.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/         -+|-+|-+/         -+|-+|-+|-+/         -+|-+|-+/",
+    "line_count": 12
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7bdf7e2e-a252-5326-a8be-deda247862be",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 94,
+      "line_count": 16,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

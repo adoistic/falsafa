@@ -1,0 +1,45 @@
+{
+  "work_slug": "david-garrick-poems-5df7b4",
+  "work_title": "Poems",
+  "chapter_number": 11,
+  "chapter_title": "An ODE ON THE DEATH of Mr. PELHAM.",
+  "chapter_slug": "11-an-ode-on-the-death-of-mr-pelham",
+  "author": "David Garrick",
+  "author_slug": "david-garrick",
+  "ecpa_poem_id": "o5155-w0340",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ballad metre",
+      "ode"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "sestet (6 lines)"
+    ],
+    "rhyme": "aabccb",
+    "syllable_pattern": "8.8.6.8.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/         -+|-+|-+|-+/         -+|-+|-+/         -+|-+|-+|-+/         -+|-+|-+|-+/         -+|-+|-+/",
+    "line_count": 108
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "48f176dd-d950-51a4-b1ef-a40bf9d005e1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 641,
+      "line_count": 110,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 48**
+**Viṣṇu Smriti 48**
 
 Now, if by his deeds he considers himself gravely sinful, he shall cook for himself a handful of barley gruel. // Vi_48.1 //
 

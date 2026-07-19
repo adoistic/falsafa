@@ -1,0 +1,43 @@
+{
+  "work_slug": "king-of-prussia-frederick-ii-poems-26b31a",
+  "work_title": "Poems",
+  "chapter_number": 3,
+  "chapter_title": "[An EPISTLE from the King of PRUSSIA, to Monsieur VOLTAIRE.] Translated into English.",
+  "chapter_slug": "03-an-epistle-from-the-king-of-prussia-to-monsieur-",
+  "author": "King of Prussia Frederick II",
+  "author_slug": "king-of-prussia-frederick-ii",
+  "ecpa_poem_id": "o5157-w0690",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "epistle",
+      "translation",
+      "philosophic poetry"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "rhyme": "irregular",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 53
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ccbdc5a6-a39f-51c2-918a-ca03e09e5476",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 330,
+      "line_count": 56,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

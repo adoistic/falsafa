@@ -1,0 +1,45 @@
+{
+  "work_slug": "constantia-grierson-poems-59afb5",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "To Mrs. Mary Barber, under the Name of Sapphira: Occasion'd by the Encouragement She met with in England, to publish her Poems by Subscription.",
+  "chapter_slug": "01-to-mrs-mary-barber-under-the-name-of-sapphira-oc",
+  "author": "Constantia Grierson",
+  "author_slug": "constantia-grierson",
+  "ecpa_poem_id": "pba35-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "epistle"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 60
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "013f1f42-11ae-5105-806e-4031dc5f28e9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 487,
+      "line_count": 62,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

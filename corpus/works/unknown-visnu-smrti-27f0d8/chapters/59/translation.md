@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 59**
+**Viṣṇu Smriti 59**
 
 A householder shall perform the domestic sacrifices in the nuptial fire. // Vi_59.1 //
 

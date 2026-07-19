@@ -1,0 +1,46 @@
+{
+  "work_slug": "john-wesley-poems-176469",
+  "work_title": "Poems",
+  "chapter_number": 11,
+  "chapter_title": "A Morning Dedication of ourselves to CHRIST. From the German.",
+  "chapter_slug": "11-a-morning-dedication-of-ourselves-to-christ-from",
+  "author": "John Wesley",
+  "author_slug": "john-wesley",
+  "ecpa_poem_id": "o3900-w1120",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "hymn",
+      "translation"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "sestet (6 lines)",
+      "sesta rima (6 lines [ababcc])"
+    ],
+    "rhyme": "ababcc",
+    "syllable_pattern": "8.8.8.8.8.8",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/",
+    "line_count": 42
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e3d40bbc-767d-58dd-b0ba-af844ea1f7f3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 293,
+      "line_count": 51,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

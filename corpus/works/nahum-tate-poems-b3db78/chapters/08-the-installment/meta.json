@@ -1,0 +1,38 @@
+{
+  "work_slug": "nahum-tate-poems-b3db78",
+  "work_title": "Poems",
+  "chapter_number": 8,
+  "chapter_title": "The Installment.",
+  "chapter_slug": "08-the-installment",
+  "author": "Nahum Tate",
+  "author_slug": "nahum-tate",
+  "ecpa_poem_id": "oat77-w0080",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aabcbcddd",
+    "metrical_pattern": "irregular",
+    "line_count": 36
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e1caeb04-f809-50f0-81a9-ff7d0b1c8b6f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 247,
+      "line_count": 41,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

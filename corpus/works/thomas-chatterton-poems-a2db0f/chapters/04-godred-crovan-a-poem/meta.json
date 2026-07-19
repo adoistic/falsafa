@@ -1,0 +1,39 @@
+{
+  "work_slug": "thomas-chatterton-poems-a2db0f",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "GODRED CROVAN, A POEM.",
+  "chapter_slug": "04-godred-crovan-a-poem",
+  "author": "Thomas Chatterton",
+  "author_slug": "thomas-chatterton",
+  "ecpa_poem_id": "o4039-w0040",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "prose poem",
+      "imitation",
+      "translation",
+      "paraphrase"
+    ],
+    "line_count": 82
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "cd3a16eb-c11c-54f6-933e-becfe8ef969b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3384,
+      "line_count": 85,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "work_slug": "mary-alcock-poems-e4bcfc",
+  "work_title": "Poems",
+  "chapter_number": 22,
+  "chapter_title": "WRITTEN IN IRELAND.",
+  "chapter_slug": "22-written-in-ireland",
+  "author": "Mary Alcock",
+  "author_slug": "mary-alcock",
+  "ecpa_poem_id": "pma99-w0220",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "occasional poem"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "sestet (6 lines)"
+    ],
+    "rhyme": "aabccb",
+    "syllable_pattern": "8.8.6.8.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 36
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "00ccbf33-d971-501d-9723-209c92cb92d3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 208,
+      "line_count": 37,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "work_slug": "catherine-rebecca-grey-manners-poems-07fd49",
+  "work_title": "Poems",
+  "chapter_number": 12,
+  "chapter_title": "To Adversity.",
+  "chapter_slug": "12-to-adversity",
+  "author": "Catherine Rebecca Grey Manners",
+  "author_slug": "catherine-rebecca-grey-manners",
+  "ecpa_poem_id": "pcm93-w0120",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "address"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "8.8.8.8",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/",
+    "line_count": 14
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f39d3638-4a20-5209-94b2-a515fa92379a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 85,
+      "line_count": 15,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

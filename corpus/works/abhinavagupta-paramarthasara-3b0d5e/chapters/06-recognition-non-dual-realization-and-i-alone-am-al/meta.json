@@ -1,0 +1,38 @@
+{
+  "work_slug": "abhinavagupta-paramarthasara-3b0d5e",
+  "work_title": "Paramārthasāra",
+  "chapter_number": 6,
+  "chapter_title": "Recognition: non-dual realization and 'I alone am all this'",
+  "chapter_slug": "06-recognition-non-dual-realization-and-i-alone-am-al",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "6afbec42-2bb1-54f4-93d6-2f63d8bb7eca",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "iast",
+      "word_count": 133,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f15a1291-bd56-59a9-bdfb-15c1a6fcfef3",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 336,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    }
+  ]
+}

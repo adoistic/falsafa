@@ -1,0 +1,41 @@
+{
+  "work_slug": "assorted-eighteenth-century-poetry-353ac8",
+  "work_title": "An Assorted Collection of Eighteenth-Century Poetry",
+  "chapter_number": 169,
+  "chapter_title": "THE THREE WARNINGS: A TALE.",
+  "chapter_slug": "169-the-three-warnings-a-tale",
+  "author": "Hester Lynch Piozzi",
+  "author_slug": "hester-lynch-piozzi",
+  "ecpa_poem_id": "o4986-w0720",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "fable"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "rhyme": "irregular",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 111
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6380d91b-1258-58e3-a639-e5d78d38552d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 755,
+      "line_count": 114,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "work_slug": "assorted-eighteenth-century-poetry-353ac8",
+  "work_title": "An Assorted Collection of Eighteenth-Century Poetry",
+  "chapter_number": 143,
+  "chapter_title": "Lord Boyle's Answer to the foregoing Verses.",
+  "chapter_slug": "143-lord-boyles-answer-to-the-foregoing-verses",
+  "author": "John Boyle",
+  "author_slug": "john-boyle",
+  "ecpa_poem_id": "pba35-w1270",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "panegyric",
+      "answer/reply"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 8
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0ec357d9-dc67-5067-ba19-133bd4f0ca52",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 69,
+      "line_count": 9,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

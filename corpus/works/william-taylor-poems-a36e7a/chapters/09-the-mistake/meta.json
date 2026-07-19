@@ -1,0 +1,44 @@
+{
+  "work_slug": "william-taylor-poems-a36e7a",
+  "work_title": "Poems",
+  "chapter_number": 9,
+  "chapter_title": "The MISTAKE.",
+  "chapter_slug": "09-the-mistake",
+  "author": "William Taylor",
+  "author_slug": "william-taylor",
+  "ecpa_poem_id": "o5156-w1060",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "epigram"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 10
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4234e084-f053-549e-8418-2a4d83ff4a84",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 75,
+      "line_count": 12,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

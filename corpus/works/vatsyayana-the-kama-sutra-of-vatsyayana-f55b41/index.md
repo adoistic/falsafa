@@ -7,7 +7,7 @@ author:
   biography: Indian author traditionally credited with compiling the foundational Sanskrit treatise on erotics, working from earlier kama literature. The Kama Sutra systematized the science of desire, courtship, and household life within the framework of the classical aims of human life.
   nationality: Indian
 era: Ancient
-genre: Indic
+genre: Aesthetics
 language: English
 language_direction: ltr
 description: "The Kama Sutra of Vatsyayana, by Vatsyayana (fl. c. 3rd century CE), from Project Gutenberg's public-domain text."

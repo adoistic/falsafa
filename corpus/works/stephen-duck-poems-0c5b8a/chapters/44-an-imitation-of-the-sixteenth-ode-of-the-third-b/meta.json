@@ -1,0 +1,39 @@
+{
+  "work_slug": "stephen-duck-poems-0c5b8a",
+  "work_title": "Poems",
+  "chapter_number": 44,
+  "chapter_title": "An Imitation of the Sixteenth Ode of the Third Book of HORACE.",
+  "chapter_slug": "44-an-imitation-of-the-sixteenth-ode-of-the-third-b",
+  "author": "Stephen Duck",
+  "author_slug": "stephen-duck",
+  "ecpa_poem_id": "o4741-w0440",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode",
+      "imitation"
+    ],
+    "rhyme": "irregular",
+    "metrical_pattern": "irregular",
+    "line_count": 86
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "dcf9e18a-913f-5a4f-a850-358aa84c8e5c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 552,
+      "line_count": 87,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

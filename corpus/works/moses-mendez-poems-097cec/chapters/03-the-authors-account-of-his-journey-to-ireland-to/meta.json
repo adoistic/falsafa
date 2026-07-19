@@ -1,0 +1,44 @@
+{
+  "work_slug": "moses-mendez-poems-097cec",
+  "work_title": "Poems",
+  "chapter_number": 3,
+  "chapter_title": "THE AUTHOR'S ACCOUNT of his JOURNEY to IRELAND. To Mr. JOHN ELLIS.",
+  "chapter_slug": "03-the-authors-account-of-his-journey-to-ireland-to",
+  "author": "Moses Mendez",
+  "author_slug": "moses-mendez",
+  "ecpa_poem_id": "o5089-w0660",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "epistle"
+    ],
+    "foot": "anapaestic (˘˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "12",
+    "metrical_pattern": "--+|--+|--+|--+/",
+    "line_count": 172
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "be459308-1cfc-5981-b151-08f760f21519",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1617,
+      "line_count": 175,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "work_slug": "henry-carey-poems-65d065",
+  "work_title": "Poems",
+  "chapter_number": 3,
+  "chapter_title": "AN EPISTLE To the Right Honourable PHILIP, Earl of Chesterfield, &c.",
+  "chapter_slug": "03-an-epistle-to-the-right-honourable-philip-earl-o",
+  "author": "Henry Carey",
+  "author_slug": "henry-carey",
+  "ecpa_poem_id": "o4085-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "epistle"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 126
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c6a0c609-67fb-5d34-97f5-bcc571f1a616",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 962,
+      "line_count": 127,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

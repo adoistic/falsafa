@@ -1,0 +1,45 @@
+{
+  "work_slug": "robert-lowth-poems-3a5966",
+  "work_title": "Poems",
+  "chapter_number": 2,
+  "chapter_title": "The CHOICE of HERCULES. A POEM.",
+  "chapter_slug": "02-the-choice-of-hercules-a-poem",
+  "author": "Robert Lowth",
+  "author_slug": "robert-lowth",
+  "ecpa_poem_id": "o5154-w0050",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "alexandrine",
+      "fable"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "ten-line stanza"
+    ],
+    "rhyme": "ababcdcdee",
+    "syllable_pattern": "10.10.10.10.10.10.10.10.10.12",
+    "metrical_pattern": "-+|-+|-+|-+|-+/          -+|-+|-+|-+|-+/          -+|-+|-+|-+|-+/          -+|-+|-+|-+|-+/          -+|-+|-+|-+|-+/          -+|-+|-+|-+|-+/          -+|-+|-+|-+|-+/          -+|-+|-+|-+|-+/          -+|-+|-+|-+|-+/          -+|-+|-+|-+|-+|-+/",
+    "line_count": 270
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "83ea377a-1a80-5e18-9c36-7def65f026c5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2130,
+      "line_count": 299,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

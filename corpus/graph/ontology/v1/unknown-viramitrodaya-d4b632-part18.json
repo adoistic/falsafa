@@ -1,0 +1,1050 @@
+{
+  "slug": "unknown-viramitrodaya-d4b632",
+  "window": "01:3908-4241",
+  "entities": [
+    {
+      "canonical_name": "Mādhava",
+      "surface_names": ["Mādhava", "Parāśaramādhavīya", "Mādhavīya"],
+      "kind": "figure",
+      "figure_kind": "scholar",
+      "mentions": [
+        {
+          "paragraph_id": "p-cf741a",
+          "quote": "For the others, there is an option by choice, says Mādhava.",
+          "role": "authority cited for the optionality of Sapiṇḍīkaraṇa timing"
+        },
+        {
+          "paragraph_id": "p-1a7d98",
+          "quote": "In the *Bhaviṣya* in the *Parāśaramādhavīya*:",
+          "role": "compiler of the Parāśaramādhavīya digest cited"
+        },
+        {
+          "paragraph_id": "p-ea6eb6",
+          "quote": "From this verse cited by Mādhava in the *Śivarāghavasaṃvāda*",
+          "role": "authority who cited the verse prohibiting morning śrāddha"
+        }
+      ],
+      "description": "Mādhava (Mādhavācārya) is a medieval Dharmaśāstra commentator and compiler of the Parāśaramādhavīya, frequently cited as an authority on ritual timing and optional rules.",
+      "justification": "Mādhava is repeatedly named as a source of rulings on Sapiṇḍīkaraṇa timing and śrāddha procedure throughout the window."
+    },
+    {
+      "canonical_name": "Viṣṇu",
+      "surface_names": ["Viṣṇu"],
+      "kind": "figure",
+      "figure_kind": "lawgiver",
+      "mentions": [
+        {
+          "paragraph_id": "p-1b8f94",
+          "quote": "Viṣṇu says: \"For Śūdras, it is on the twelfth day, without mantras.\"",
+          "role": "smṛti authority enjoining the Śūdra Sapiṇḍana rule"
+        },
+        {
+          "paragraph_id": "p-913f7c",
+          "quote": "from the previously cited verse of Viṣṇu, one should perform the sixteen *śrāddhas* in twelve days.",
+          "role": "cited authority on performing sixteen śrāddhas in twelve days"
+        }
+      ],
+      "description": "Viṣṇu is cited as a smṛti authority prescribing rules for Śūdra Sapiṇḍana timing and the condensed performance of sixteen śrāddhas.",
+      "justification": "The text directly attributes specific legal rulings to Viṣṇu by name in two distinct contexts within this window."
+    },
+    {
+      "canonical_name": "Kātyāyana",
+      "surface_names": ["Kātyāyana"],
+      "kind": "figure",
+      "figure_kind": "lawgiver",
+      "mentions": [
+        {
+          "paragraph_id": "p-d94072",
+          "quote": "since Kātyāyana has enjoined, \"For all the social classes, the Sapiṇḍana is at the end of the impurity period\"",
+          "role": "smṛti source cited to raise a possible contradiction about Śūdra Sapiṇḍana timing"
+        }
+      ],
+      "description": "Kātyāyana is a smṛti authority whose verse on the Sapiṇḍana rule for all social classes is invoked in a dialectical objection within the text.",
+      "justification": "The text explicitly names Kātyāyana as the source of the rival ruling that triggers the refutation about Śūdra Sapiṇḍana."
+    },
+    {
+      "canonical_name": "Manu",
+      "surface_names": ["Manu"],
+      "kind": "figure",
+      "figure_kind": "lawgiver",
+      "mentions": [
+        {
+          "paragraph_id": "p-d3633d",
+          "quote": "Manu says (a. 3, ślo. 278):",
+          "role": "principal smṛti authority on the superiority of the afternoon for śrāddha"
+        },
+        {
+          "paragraph_id": "p-c86858",
+          "quote": "Thus says Manu:",
+          "role": "authority whose verse connects sunset-tithi to ancestral rites"
+        },
+        {
+          "paragraph_id": "p-f499ed",
+          "quote": "Manu says (a. 3, ślo. 280):",
+          "role": "authority issuing prohibitions against nocturnal and twilight śrāddha"
+        }
+      ],
+      "description": "Manu (Manusmṛti) is the primary smṛti authority cited in this window for rules on the timing of śrāddha and pārvaṇa rites.",
+      "justification": "Manu is explicitly named three times with chapter and verse references, functioning as the primary legislative source for śrāddha timing."
+    },
+    {
+      "canonical_name": "Yājñavalkya",
+      "surface_names": ["Yājñavalkya", "Vṛddha Yājñavalkya"],
+      "kind": "figure",
+      "figure_kind": "lawgiver",
+      "mentions": [
+        {
+          "paragraph_id": "p-24e1b4",
+          "quote": "This is from the verse of Yājñavalkya.",
+          "role": "smṛti authority on tithi pervasion rule for rites"
+        },
+        {
+          "paragraph_id": "p-03d59a",
+          "quote": "Vṛddha Yājñavalkya says:",
+          "role": "authority distinguishing divine-rite tithi (sunrise) from ancestral-rite tithi (sunset)"
+        },
+        {
+          "paragraph_id": "p-49cd25",
+          "quote": "This is from the verse of Vṛddha Yājñavalkya and the previously cited verses",
+          "role": "cited authority confirming tithi determination for ekoddiṣṭa"
+        }
+      ],
+      "description": "Yājñavalkya and his augmented recension Vṛddha Yājñavalkya are cited as legal authorities on tithi determination for divine and ancestral rites.",
+      "justification": "The text names Yājñavalkya and Vṛddha Yājñavalkya as sources of distinct rulings on tithi pervasion, distinguishing divine from ancestral rites."
+    },
+    {
+      "canonical_name": "Hārīta",
+      "surface_names": ["Hārīta"],
+      "kind": "figure",
+      "figure_kind": "lawgiver",
+      "mentions": [
+        {
+          "paragraph_id": "p-afb821",
+          "quote": "Thus says Hārīta:",
+          "role": "authority on the tithi that follows the afternoon for ancestral rites"
+        },
+        {
+          "paragraph_id": "p-46f787",
+          "quote": "Hārīta states the time for an *ekoddiṣṭa*:",
+          "role": "authority specifying temporal sequence of āmaśrāddha, ekoddiṣṭa, pārvaṇa, and vṛddhi śrāddha"
+        }
+      ],
+      "description": "Hārīta is a smṛti authority cited for the determination of the correct tithi for ancestral rites and the temporal ordering of different types of śrāddha.",
+      "justification": "Hārīta is named directly as the source of two distinct rulings on śrāddha timing, in different sub-sections of this window."
+    },
+    {
+      "canonical_name": "Gobhila",
+      "surface_names": ["Gobhila"],
+      "kind": "figure",
+      "figure_kind": "lawgiver",
+      "mentions": [
+        {
+          "paragraph_id": "p-fc88a6",
+          "quote": "Gobhila says:",
+          "role": "authority defining the pervasion of the evening as the criterion for a pārvaṇa tithi"
+        },
+        {
+          "paragraph_id": "p-176c10",
+          "quote": "Gobhila states a fourfold division:",
+          "role": "authority on the fourfold partition of the day"
+        }
+      ],
+      "description": "Gobhila is a gṛhyasūtra authority cited for two rules: the evening-pervasion criterion for pārvaṇa rites and the fourfold division of the day.",
+      "justification": "Gobhila is explicitly named as the author of two cited rulings, one on tithi pervasion and one on the parts of the day."
+    },
+    {
+      "canonical_name": "Baudhāyana",
+      "surface_names": ["Baudhāyana"],
+      "kind": "figure",
+      "figure_kind": "lawgiver",
+      "mentions": [
+        {
+          "paragraph_id": "p-b09a50",
+          "quote": "Baudhāyana also says:",
+          "role": "authority distinguishing muhūrtas for divine versus ancestral rites"
+        },
+        {
+          "paragraph_id": "p-c8a192",
+          "quote": "the determination is from this verse of Baudhāyana.",
+          "role": "authority on midday-pervasion rule for ekoddiṣṭa tithi"
+        },
+        {
+          "paragraph_id": "p-4a103d",
+          "quote": "This is from the verse of Baudhāyana.",
+          "role": "authority on two-muhūrta rule for divine rites versus three-muhūrta rule for ancestral rites"
+        }
+      ],
+      "description": "Baudhāyana is a dharmasūtra authority cited three times in this window for rules on the timing of divine and ancestral rites, including the muhūrta boundaries and tithi-pervasion criteria.",
+      "justification": "Baudhāyana is named explicitly three times as source of distinct rulings on rite-timing, demonstrating his authority across both pārvaṇa and ekoddiṣṭa contexts."
+    },
+    {
+      "canonical_name": "Śātātapa",
+      "surface_names": ["Śātātapa"],
+      "kind": "figure",
+      "figure_kind": "lawgiver",
+      "mentions": [
+        {
+          "paragraph_id": "p-ff8630",
+          "quote": "There, Śātātapa says:",
+          "role": "authority on Sapiṇḍīkaraṇa for a son who has gone abroad"
+        },
+        {
+          "paragraph_id": "p-7b4111",
+          "quote": "Śātātapa also says:",
+          "role": "authority on the partition of the day for gods, men, and ancestors"
+        },
+        {
+          "paragraph_id": "p-ac4dd5",
+          "quote": "from the statement of Śātātapa, \"and in the *muhūrta* of sunrise.\"",
+          "role": "authority delimiting proximity of morning twilight paryudāsa to one muhūrta"
+        },
+        {
+          "paragraph_id": "p-dcc86a",
+          "quote": "From the statement of Śātātapa: \"The four *muhūrtas* after the *kutapa* *muhūrta*, or the five *muhūrtas*, are desired as the abode of the *svadhā*.\"",
+          "role": "authority on the most lauded muhūrtas for a pārvaṇa rite"
+        }
+      ],
+      "description": "Śātātapa is a smṛti authority cited four times in this window for rules ranging from Sapiṇḍīkaraṇa for expatriate sons to the temporal divisions of the day and the optimal kutapa muhūrtas.",
+      "justification": "Śātātapa is explicitly named four times as the source of distinct legal rulings, making him one of the most frequently cited authorities in this window."
+    },
+    {
+      "canonical_name": "Ṛṣyaśṛṅga",
+      "surface_names": ["Ṛṣyaśṛṅga"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-820de0",
+          "quote": "Ṛṣyaśṛṅga says:",
+          "role": "authority on alternative nakṣatra-based timing when the standard Sapiṇḍīkaraṇa time has passed"
+        }
+      ],
+      "description": "Ṛṣyaśṛṅga is a Vedic sage cited as the authority for a fallback nakṣatra-based timing rule for the Sapiṇḍīkaraṇa when the primary time has elapsed.",
+      "justification": "Ṛṣyaśṛṅga is directly named as the source of the verse prescribing Raudra, Hasta, Rohiṇī, or Maitra nakṣatras as secondary Sapiṇḍīkaraṇa timings."
+    },
+    {
+      "canonical_name": "Hemādri",
+      "surface_names": ["Hemādri"],
+      "kind": "figure",
+      "figure_kind": "scholar",
+      "mentions": [
+        {
+          "paragraph_id": "p-207f0a",
+          "quote": "a gradation of forenoons, etc., of greater and lesser measure should be inferred, says Hemādri.",
+          "role": "later commentator whose view on graded forenoons is cited"
+        },
+        {
+          "paragraph_id": "p-2f4d2e",
+          "quote": "the statement of Śātātapa, '...even there, what is given to the ancestors with uncooked food alone is a support,' would also have a scope, says Hemādri.",
+          "role": "commentator whose view on āmaśrāddha timing is cited and then refuted"
+        },
+        {
+          "paragraph_id": "p-0885e1",
+          "quote": "their mention again is for the sake of an excess of fault, says Hemādri.",
+          "role": "authority on the purpose of re-mentioning solstices in piṇḍa-prohibition context"
+        },
+        {
+          "paragraph_id": "p-3bd1e4",
+          "quote": "since in the *Hemādri*, a *śrāddha* is enjoined on a *tithi* and a day of the week",
+          "role": "digest cited as source for śrāddha-occasion specificity of piṇḍa-prohibition"
+        }
+      ],
+      "description": "Hemādri is a major medieval Dharmaśāstra encyclopedist whose digest and opinions are cited and sometimes contested by the Vīramitrodaya author.",
+      "justification": "Hemādri is named four times as an authority whose positions are both adopted and challenged, revealing his central importance in the Dharmaśāstra debate."
+    },
+    {
+      "canonical_name": "Śūlapāṇi",
+      "surface_names": ["Śūlapāṇi"],
+      "kind": "figure",
+      "figure_kind": "scholar",
+      "mentions": [
+        {
+          "paragraph_id": "p-234ccf",
+          "quote": "As for what is said here by Śūlapāṇi and others, that the acceptance of a *paryudāsa* is not out of fear of a *vikalpa*…that is based on ignorance of the source texts.",
+          "role": "rival commentator whose position on paryudāsa is explicitly refuted"
+        },
+        {
+          "paragraph_id": "p-2336c2",
+          "quote": "And the nature of these as a *paryudāsa* is for the sake of being a subordinate element of the injunction of the new moon day…says Śūlapāṇi.",
+          "role": "authority whose specific interpretation of paryudāsa is then rejected"
+        },
+        {
+          "paragraph_id": "p-314d6f",
+          "quote": "By Śūlapāṇi and others, however, this verse is written as being from the *Vāyu Purāṇa*.",
+          "role": "authority who attributes a verse differently"
+        }
+      ],
+      "description": "Śūlapāṇi is a rival Dharmaśāstra commentator whose positions on paryudāsa jurisprudence and textual attribution are repeatedly engaged and refuted by the Vīramitrodaya.",
+      "justification": "Śūlapāṇi is named three times as a disputant on questions of Mīmāṃsaka hermeneutics and textual attribution, serving as the primary foil in this window's dialectical argument."
+    },
+    {
+      "canonical_name": "Vyāsa",
+      "surface_names": ["Vyāsa"],
+      "kind": "figure",
+      "figure_kind": "lawgiver",
+      "mentions": [
+        {
+          "paragraph_id": "p-89d0cb",
+          "quote": "Vyāsa states the time of commencement:",
+          "role": "authority on the kutapa as the commencement time for ekoddiṣṭa"
+        },
+        {
+          "paragraph_id": "p-183a00",
+          "quote": "Vyāsa also says:",
+          "role": "authority on the three-muhūrta fivefold division of the day"
+        },
+        {
+          "paragraph_id": "p-a3e5a7",
+          "quote": "from the statement of Vyāsa, \"If one's own time has passed, one should perform it before the night; that is its limit,\"",
+          "role": "authority who re-enjoins the evening time as a secondary option for pārvaṇa"
+        }
+      ],
+      "description": "Vyāsa is cited as a smṛti authority for the time of commencement of ekoddiṣṭa rites, the five-part division of the day, and the secondary permissibility of evening performance.",
+      "justification": "Vyāsa is explicitly named three times as the source of distinct rulings on ritual timing, including both the ekoddiṣṭa commencement and the emergency evening option."
+    },
+    {
+      "canonical_name": "Vācaspati",
+      "surface_names": ["Vācaspati"],
+      "kind": "figure",
+      "figure_kind": "scholar",
+      "mentions": [
+        {
+          "paragraph_id": "p-41817c",
+          "quote": "It is said by Vācaspati: \"From the verse of the *Matsya Purāṇa*…a three-*piṇḍa* *śrāddha* should be performed even on a *saṅkrānti*, etc.\"",
+          "role": "authority whose reading of the Matsya Purāṇa verse is engaged in the discussion of piṇḍa prohibitions"
+        }
+      ],
+      "description": "Vācaspati is a Dharmaśāstra scholar cited for his reading of the Matsya Purāṇa verse on three-piṇḍa śrāddha at saṅkrānti occasions.",
+      "justification": "Vācaspati is directly named as the source of the interpretation that initiates the text's dialectical refutation of the three-piṇḍa rejoinder."
+    },
+    {
+      "canonical_name": "Āpastamba",
+      "surface_names": ["Āpastamba"],
+      "kind": "figure",
+      "figure_kind": "lawgiver",
+      "mentions": [
+        {
+          "paragraph_id": "p-c4fc82",
+          "quote": "For this very reason, the sūtra of Āpastamba, \"Or in a commenced rite, the connection is until the completion,\" is in accordance with the commentary of the student",
+          "role": "sūtra authority whose rule on completing commenced rites is cited"
+        }
+      ],
+      "description": "Āpastamba is a dharmasūtra authority whose sūtra on continuing an already-commenced rite until completion is cited in the context of nocturnal śrāddha completion.",
+      "justification": "Āpastamba is explicitly named as the author of the sūtra supporting the argument that a commenced śrāddha may be completed the next day."
+    },
+    {
+      "canonical_name": "Pāraskara",
+      "surface_names": ["Pāraskara"],
+      "kind": "figure",
+      "figure_kind": "lawgiver",
+      "mentions": [
+        {
+          "paragraph_id": "p-1086ba",
+          "quote": "Pāraskara says:",
+          "role": "authority on the daivika śrāddha as performed with gods as recipients on Dvādaśī"
+        }
+      ],
+      "description": "Pāraskara is a gṛhyasūtra authority cited for the definition and timing of the daivika śrāddha.",
+      "justification": "Pāraskara is directly named as the source of the verse defining daivika śrāddha and prescribing its performance on Dvādaśī."
+    },
+    {
+      "canonical_name": "Kaṇva",
+      "surface_names": ["Kaṇva"],
+      "kind": "figure",
+      "figure_kind": "lawgiver",
+      "mentions": [
+        {
+          "paragraph_id": "p-8cbdf6",
+          "quote": "There, Kaṇva says:",
+          "role": "authority defining ekoddiṣṭa and pārvaṇa śrāddha by number of recipients"
+        }
+      ],
+      "description": "Kaṇva is a smṛti authority cited for the fundamental typological distinction between ekoddiṣṭa (one recipient) and pārvaṇa (three recipients) śrāddha.",
+      "justification": "Kaṇva is directly named as the source of the definitional verse distinguishing the two primary types of śrāddha."
+    },
+    {
+      "canonical_name": "Ślokagautama",
+      "surface_names": ["Ślokagautama", "Gautama"],
+      "kind": "figure",
+      "figure_kind": "lawgiver",
+      "mentions": [
+        {
+          "paragraph_id": "p-ea7227",
+          "quote": "Ślokagautama states the time of completion:",
+          "role": "authority on the rauhiṇa muhūrta as the time limit for ekoddiṣṭa"
+        },
+        {
+          "paragraph_id": "p-2d0aee",
+          "quote": "And from the verse of Gautama.",
+          "role": "authority on the tithi for ekoddiṣṭa (midday pervasion)"
+        }
+      ],
+      "description": "Ślokagautama / Gautama is a smṛti authority cited for two rulings: the rauhiṇa muhūrta deadline for ekoddiṣṭa and the midday-pervasion criterion for tithi determination.",
+      "justification": "Ślokagautama and Gautama are cited as named sources for distinct rulings on ekoddiṣṭa timing within a single sub-section of this window."
+    },
+    {
+      "canonical_name": "Mārkaṇḍeya",
+      "surface_names": ["Mārkaṇḍeya"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-ca9a40",
+          "quote": "in the *pārvaṇa* rite, which is its modification, a regulation is remembered by Mārkaṇḍeya:",
+          "role": "authority on the bright-fortnight forenoon vs. dark-fortnight afternoon rule for pārvaṇa"
+        }
+      ],
+      "description": "Mārkaṇḍeya is a sage and Purāṇic authority cited for the rule that regulates commencement time for pārvaṇa by bright versus dark fortnight.",
+      "justification": "Mārkaṇḍeya is explicitly named as the authority whose verse distinguishes pārvaṇa commencement times by fortnight."
+    },
+    {
+      "canonical_name": "Devala",
+      "surface_names": ["Devala"],
+      "kind": "figure",
+      "figure_kind": "lawgiver",
+      "mentions": [
+        {
+          "paragraph_id": "p-981fa7",
+          "quote": "by verses of Devala, etc., such as, \"At the sight of Rāhu, a *saṅkrānti*, a marriage, an emergency, and a *vṛddhi* rite, they should perform bathing, giving, etc., at night\"",
+          "role": "authority cited to establish nocturnal śrāddha as permissible at eclipses and vṛddhi rites"
+        }
+      ],
+      "description": "Devala is a smṛti authority whose verse permits nocturnal bathing, giving, and śrāddha at eclipses, saṅkrāntis, marriages, and vṛddhi rites.",
+      "justification": "Devala is named as the source of the re-enjoinment verse that makes the nightly paryudāsa applicable only to those occasions lacking a specific nocturnal enjoinment."
+    },
+    {
+      "canonical_name": "Pulastya",
+      "surface_names": ["Pulastya"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-647a8b",
+          "quote": "There, Pulastya says: In the two solstices, a *śrāddha*, and in the two equinoxes, / and on all the Yugādis, except for the offering of the *piṇḍa*.",
+          "role": "authority prohibiting piṇḍa-offering at solstices, equinoxes, and Yugādis"
+        }
+      ],
+      "description": "Pulastya is a sage whose verse is cited as the primary authority prohibiting the piṇḍa-offering (though permitting śrāddha) at the two solstices, two equinoxes, and all Yugādis.",
+      "justification": "Pulastya is directly named as the source of the opening citation in the section on prohibited piṇḍa-offering times."
+    },
+    {
+      "canonical_name": "Bṛhatparāśara",
+      "surface_names": ["Bṛhatparāśara"],
+      "kind": "figure",
+      "figure_kind": "lawgiver",
+      "mentions": [
+        {
+          "paragraph_id": "p-6d1060",
+          "quote": "Bṛhatparāśara says: And in Bharaṇī, one should not perform the offering of the *piṇḍa*.",
+          "role": "authority prohibiting piṇḍa-offering on the Bharaṇī nakṣatra"
+        }
+      ],
+      "description": "Bṛhatparāśara is a smṛti authority cited for the prohibition of piṇḍa-offering during the Bharaṇī nakṣatra in the Mahālaya fortnight.",
+      "justification": "Bṛhatparāśara is directly named as the source of the piṇḍa prohibition on Bharaṇī."
+    },
+    {
+      "canonical_name": "Kārṣṇājini",
+      "surface_names": ["Kārṣṇājini"],
+      "kind": "figure",
+      "figure_kind": "lawgiver",
+      "mentions": [
+        {
+          "paragraph_id": "p-d1694b",
+          "quote": "Kārṣṇājini says: In a marriage, a vow, and a tonsure ceremony, for a year, half a year, and half of that, / one should not perform the offering of the *piṇḍa*",
+          "role": "authority imposing graduated piṇḍa prohibitions after life-cycle events"
+        }
+      ],
+      "description": "Kārṣṇājini is a smṛti authority who specifies graded periods of piṇḍa prohibition following marriage, vow, and tonsure ceremonies.",
+      "justification": "Kārṣṇājini is directly named as the source of the tiered piṇḍa-prohibition periods after saṃskāra events."
+    },
+    {
+      "canonical_name": "Jyotiḥparāśara",
+      "surface_names": ["Jyotiḥparāśara"],
+      "kind": "figure",
+      "figure_kind": "lawgiver",
+      "mentions": [
+        {
+          "paragraph_id": "p-66e950",
+          "quote": "Jyotiḥparāśara says: When a marriage has been performed, the *sapiṇḍas* should avoid for twelve months the offering of the *piṇḍa*; in a sacred thread ceremony, for six months.",
+          "role": "authority extending piṇḍa prohibition to sapiṇḍa relatives after marriage and upanayana"
+        }
+      ],
+      "description": "Jyotiḥparāśara is an astrological or smṛti authority who extends the piṇḍa-prohibition to sapiṇḍa relatives for twelve months after marriage and six months after upanayana.",
+      "justification": "Jyotiḥparāśara is directly named as the source of the rule extending piṇḍa prohibitions to sapiṇḍa relatives."
+    },
+    {
+      "canonical_name": "Vyāghra",
+      "surface_names": ["Vyāghra"],
+      "kind": "figure",
+      "figure_kind": "lawgiver",
+      "mentions": [
+        {
+          "paragraph_id": "p-18e959",
+          "quote": "the determination is from this verse of Vyāghra.",
+          "role": "authority on the kharva/darpa/hiṃsā tripartite typology of tithi for pārvaṇa timing"
+        }
+      ],
+      "description": "Vyāghra is a smṛti authority cited for the threefold typology of tithi (kharva/equal, darpa/increasing, hiṃsā/decreasing) used to decide which day to perform pārvaṇa when equal afternoon pervasion occurs.",
+      "justification": "Vyāghra is directly named as the source of the decisive verse on kharva, darpa, and hiṃsā tithi-types."
+    },
+    {
+      "canonical_name": "Viśvāmitra",
+      "surface_names": ["Viśvāmitra"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-24ea4d",
+          "quote": "a *daivaśrāddha* is stated by Viśvāmitra, beginning with, \"The *śrāddha* that is with the gods as the recipient, that is called *daivika*.\"",
+          "role": "authority who formally defines daivika śrāddha"
+        }
+      ],
+      "description": "Viśvāmitra is cited as the authority who formally defines daivika śrāddha as that which has gods as its recipient.",
+      "justification": "Viśvāmitra is directly named as the definer of daivika śrāddha, providing the textual basis for its discussion in this window."
+    },
+    {
+      "canonical_name": "Vyāghrapāda",
+      "surface_names": ["Vyāghrapāda"],
+      "kind": "figure",
+      "figure_kind": "lawgiver",
+      "mentions": [
+        {
+          "paragraph_id": "p-00d2b0",
+          "quote": "From the statement of Vyāghrapāda: \"The *tithi* which is for three *muhūrtas* after the morning time, or a *tithi* of two *muhūrtas*, one should perform an *āmaśrāddha* there.\"",
+          "role": "authority specifying the muhūrta threshold for āmaśrāddha tithi"
+        }
+      ],
+      "description": "Vyāghrapāda is a smṛti authority cited for the specific muhūrta-based tithi criterion for performing an āmaśrāddha.",
+      "justification": "Vyāghrapāda is directly named as the source of the ruling on the minimum tithi duration for āmaśrāddha performance."
+    },
+    {
+      "canonical_name": "Śūdra",
+      "surface_names": ["Śūdra", "Śūdras"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-14caee",
+          "quote": "For Śūdras, however, the Sapiṇḍana is on the twelfth day.",
+          "role": "social group for whom a special Sapiṇḍana timing rule applies"
+        },
+        {
+          "paragraph_id": "p-1b8f94",
+          "quote": "Viṣṇu says: \"For Śūdras, it is on the twelfth day, without mantras.\"",
+          "role": "social group whose Sapiṇḍana is mantra-less and on the twelfth day"
+        },
+        {
+          "paragraph_id": "p-bc2143",
+          "quote": "this injunction of the forenoon in an *āmaśrāddha* applies only to an *āmaśrāddha* performed by a twice-born, not to an *āmaśrāddha* performed by a Śūdra.",
+          "role": "social group subject to differentiated āmaśrāddha timing rule"
+        }
+      ],
+      "description": "Śūdras are the fourth social class for whom Dharmaśāstra prescribes differentiated rules on Sapiṇḍana timing (twelfth day, mantra-free) and āmaśrāddha performance.",
+      "justification": "Śūdras are named as the specific group whose ritual obligations differ from those of twice-born classes in multiple sub-sections of this window."
+    },
+    {
+      "canonical_name": "Rāhu",
+      "surface_names": ["Rāhu"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-981fa7",
+          "quote": "At the sight of Rāhu, a *saṅkrānti*, a marriage, an emergency, and a *vṛddhi* rite, they should perform bathing, giving, etc., at night",
+          "role": "mythological cause of eclipse (Rāhu-sighting) that triggers nocturnal śrāddha permission"
+        }
+      ],
+      "description": "Rāhu is the eclipsing demon whose sighting (i.e., an eclipse) is cited as one of the occasions that permits nocturnal śrāddha and bathing.",
+      "justification": "Rāhu is named as the trigger-event for the nocturnal permission in the verse of Devala, connecting the mythological eclipse-cause to śrāddha jurisprudence."
+    },
+    {
+      "canonical_name": "Sapiṇḍīkaraṇa / Sapiṇḍana",
+      "surface_names": ["Sapiṇḍīkaraṇa", "Sapiṇḍana"],
+      "kind": "event",
+      "mentions": [
+        {
+          "paragraph_id": "p-ed0407",
+          "quote": "only a Sapiṇḍana performed at the primary time is the cause of the release from the state of a ghost",
+          "role": "ritual event whose correct timing determines efficacy"
+        },
+        {
+          "paragraph_id": "p-25e5fa",
+          "quote": "The Sapiṇḍīkaraṇa is when the year is complete, or on an auspicious occasion, / on the twelfth day, in the view of some, and on the eleventh likewise.",
+          "role": "ritual event whose permissible timings are enumerated"
+        },
+        {
+          "paragraph_id": "p-7b83d1",
+          "quote": "Thus ends the time for the Sapiṇḍana.",
+          "role": "formal section-end marker confirming the event as the topic of this sub-section"
+        }
+      ],
+      "description": "The Sapiṇḍīkaraṇa (or Sapiṇḍana) is the ancestral rite that incorporates the recently deceased into the piṇḍa lineage of ancestors; this window extensively debates its correct primary and secondary timing.",
+      "justification": "The Sapiṇḍīkaraṇa is the central ritual event under discussion in the opening portion of this window, with multiple paragraphs devoted to its timing."
+    },
+    {
+      "canonical_name": "Gayā",
+      "surface_names": ["Gayā"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-2a0fe1",
+          "quote": "He by whom a *śrāddha* is performed on it becomes one who has performed the Gayā *śrāddha*.",
+          "role": "sacred site invoked as the standard of merit for Bharaṇī śrāddha"
+        },
+        {
+          "paragraph_id": "p-65d233",
+          "quote": "the offering of the *piṇḍa* in the Gaṅgā is rare in the three worlds",
+          "role": "sacred site mentioned in restriction context"
+        }
+      ],
+      "description": "Gayā is the preeminent sacred site for śrāddha rites, invoked as the measure of merit against which Bharaṇī-nakṣatra śrāddha is compared.",
+      "justification": "Gayā is named as the gold-standard of śrāddha merit in the Matsya Purāṇa verse cited within the piṇḍa-prohibition discussion."
+    },
+    {
+      "canonical_name": "Gaṅgā",
+      "surface_names": ["Gaṅgā"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-65d233",
+          "quote": "the offering of the *piṇḍa* in the Gaṅgā is rare in the three worlds",
+          "role": "sacred river as the locus of the exceptional piṇḍa-offering restriction from Brahmavaivarta"
+        }
+      ],
+      "description": "The Gaṅgā is the sacred river cited as the specific locus for the Brahmavaivarta verse restricting piṇḍa-offering during eclipse in Capricorn.",
+      "justification": "The Gaṅgā is named in the cited verse as the place where the exceptional eclipse-Capricorn piṇḍa restriction applies."
+    },
+    {
+      "canonical_name": "Maghā nakṣatra",
+      "surface_names": ["Maghā", "nakṣatra of Maghā"],
+      "kind": "object",
+      "mentions": [
+        {
+          "paragraph_id": "p-82b1ae",
+          "quote": "Deity of the ancestors = Maghā.",
+          "role": "nakṣatra identified as the deity of the ancestors in the Devī Purāṇa context"
+        },
+        {
+          "paragraph_id": "p-5d5a09",
+          "quote": "On Nandā, Aśvinī, Kāma, Sunday, Tuesday, Bhṛgu, Agni, Pitṛ, and the *nakṣatra* of Kāla",
+          "role": "nakṣatra in a list of inauspicious piṇḍa-offering times for Mahālaya"
+        }
+      ],
+      "description": "Maghā is a nakṣatra identified as the presiding deity of the ancestors and cited as a day on which the piṇḍa offering is prohibited in certain śrāddha contexts.",
+      "justification": "Maghā is named both as a deity of ancestors (Devī Purāṇa) and as an inauspicious tithi for piṇḍa in the Prayogapārijāta list."
+    },
+    {
+      "canonical_name": "Bharaṇī nakṣatra",
+      "surface_names": ["Bharaṇī"],
+      "kind": "object",
+      "mentions": [
+        {
+          "paragraph_id": "p-6d1060",
+          "quote": "Bṛhatparāśara says: And in Bharaṇī, one should not perform the offering of the *piṇḍa*.",
+          "role": "nakṣatra during which piṇḍa-offering is prohibited in Mahālaya śrāddha"
+        },
+        {
+          "paragraph_id": "p-2a0fe1",
+          "quote": "Bharaṇī in the fortnight of the ancestors is declared to be great.",
+          "role": "nakṣatra praised as auspicious for śrāddha in the Mahālaya period"
+        }
+      ],
+      "description": "Bharaṇī is a nakṣatra that is simultaneously praised as auspicious for śrāddha performance during Mahālaya and subject to a specific prohibition of piṇḍa-offering within it.",
+      "justification": "Bharaṇī is named in both a permissive and a prohibitive context, revealing the text's effort to reconcile conflicting smṛti rulings."
+    },
+    {
+      "canonical_name": "kutapa muhūrta",
+      "surface_names": ["kutapa", "kutapa muhūrta", "kutapa time"],
+      "kind": "idea",
+      "mentions": [
+        {
+          "paragraph_id": "p-208100",
+          "quote": "Now, the *kutapa* time.",
+          "role": "technical temporal concept whose definition is the subject of the sub-section"
+        },
+        {
+          "paragraph_id": "p-355d81",
+          "quote": "And that is the eighth *muhūrta* of the day.",
+          "role": "kutapa identified as the eighth of the fifteen daily muhūrtas"
+        },
+        {
+          "paragraph_id": "p-af9f37",
+          "quote": "the five *muhūrtas* beginning with the *kutapa* are most praised in a *pārvaṇa* rite.",
+          "role": "kutapa as the start of the most auspicious window for pārvaṇa"
+        }
+      ],
+      "description": "The kutapa is the eighth of fifteen daily muhūrtas, occurring at solar zenith, regarded as the most auspicious time for ancestral rites because its heat penetrates the earth completely.",
+      "justification": "The kutapa is formally defined and repeatedly cited as the optimal commencement time for pārvaṇa and ekoddiṣṭa śrāddhas across multiple sub-sections of this window."
+    },
+    {
+      "canonical_name": "paryudāsa",
+      "surface_names": ["paryudāsa", "prohibitive exception"],
+      "kind": "idea",
+      "mentions": [
+        {
+          "paragraph_id": "p-8b1455",
+          "quote": "Therefore, these are only prohibitive exceptions (*paryudāsa*).",
+          "role": "Mīmāṃsā hermeneutic category applied to the śrāddha timing prohibitions"
+        },
+        {
+          "paragraph_id": "p-234ccf",
+          "quote": "As for what is said here by Śūlapāṇi and others, that the acceptance of a *paryudāsa* is not out of fear of a *vikalpa*…that is based on ignorance of the source texts.",
+          "role": "contested hermeneutic category at the center of the rival-commentator debate"
+        },
+        {
+          "paragraph_id": "p-d35c15",
+          "quote": "Therefore, the *paryudāsa* is only by the restriction of the civil day",
+          "role": "resolution of the paryudāsa debate: restriction is of the civil day, not the lunar tithi"
+        }
+      ],
+      "description": "Paryudāsa is a Mīmāṃsā hermeneutic concept denoting a prohibitive exception that limits (rather than negates) an injunction; the window debates whether the night-prohibition on śrāddha is a paryudāsa or a pratiṣedha.",
+      "justification": "The entire central dialectical section of this window turns on the correct classification of the nocturnal prohibition as a paryudāsa versus a pratiṣedha, engaging Śūlapāṇi's view and the text's refutation."
+    },
+    {
+      "canonical_name": "pratiṣedha",
+      "surface_names": ["pratiṣedha", "simple prohibition"],
+      "kind": "idea",
+      "mentions": [
+        {
+          "paragraph_id": "p-54ae2f",
+          "quote": "And these are not simple prohibitions (*pratiṣedha*), because it would lead to the undesirable consequence of an option (*vikalpa*).",
+          "role": "Mīmāṃsā hermeneutic category rejected for the śrāddha timing prohibitions"
+        }
+      ],
+      "description": "Pratiṣedha is the Mīmāṃsā category of a simple, outright prohibition; the text argues that the nocturnal śrāddha prohibition cannot be a pratiṣedha because doing so would generate an unwanted optionality.",
+      "justification": "Pratiṣedha is introduced and rejected as a category in the hermeneutic argument about the nature of the night and twilight prohibitions."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Timing of the Sapiṇḍīkaraṇa rite: primary vs. secondary occasions",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-ed0407",
+          "quote": "only a Sapiṇḍana performed at the primary time is the cause of the release from the state of a ghost"
+        },
+        {
+          "paragraph_id": "p-b3774e",
+          "quote": "the end of the year is primary; the eleventh month, which is proximate to it, is secondary"
+        },
+        {
+          "paragraph_id": "p-7b83d1",
+          "quote": "Thus ends the time for the Sapiṇḍana."
+        }
+      ],
+      "justification": "The opening section of this window systematically enumerates and debates which dates constitute primary versus secondary occasions for the Sapiṇḍīkaraṇa, citing multiple smṛtis."
+    },
+    {
+      "topic": "Tithi determination for pārvaṇa śrāddha by afternoon (aparāhṇa) pervasion",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-c1e0d6",
+          "quote": "if the *tithi* on which a *pārvaṇa* *śrāddha* is enjoined falls on two days, then on whichever day…it pervades the afternoon, on that day the *pārvaṇa* should be performed"
+        },
+        {
+          "paragraph_id": "p-8c3298",
+          "quote": "When it pervades a part of the afternoon on two days unequally, then the one with the greater pervasion should be taken"
+        }
+      ],
+      "justification": "The determination of tithi by afternoon pervasion is the central technical problem of the pārvaṇa sub-section, addressed through cascading rules for equal, unequal, and absent pervasion."
+    },
+    {
+      "topic": "Fivefold and fourfold divisions of the day and the hierarchy of their parts",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-55979f",
+          "quote": "there are five parts, named morning (*prātaḥ*), late morning (*saṅgava*), midday (*madhyāhna*), afternoon (*aparāhṇa*), and evening (*sāyāhna*)"
+        },
+        {
+          "paragraph_id": "p-410c2b",
+          "quote": "Gobhila states a fourfold division: The forenoon is a *prahara* and a half; midday is a *prahara* likewise. / The afternoon is from the third; and the evening is after that."
+        }
+      ],
+      "justification": "This window devotes an entire named sub-section ('Divisions of the Day') to reconciling the twofold, threefold, fourfold, fivefold, and fifteenfold muhūrta divisions of the day across multiple smṛtis."
+    },
+    {
+      "topic": "Mīmāṃsā hermeneutics applied to śrāddha prohibitions: paryudāsa vs. pratiṣedha",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-54ae2f",
+          "quote": "And these are not simple prohibitions (*pratiṣedha*), because it would lead to the undesirable consequence of an option (*vikalpa*)."
+        },
+        {
+          "paragraph_id": "p-8b1455",
+          "quote": "Therefore, these are only prohibitive exceptions (*paryudāsa*)."
+        },
+        {
+          "paragraph_id": "p-234ccf",
+          "quote": "As for what is said here by Śūlapāṇi and others…that is based on ignorance of the source texts."
+        }
+      ],
+      "justification": "The longest dialectical section in this window is dedicated to the Mīmāṃsā classification of the nocturnal and twilight prohibitions, drawing on vikalpa, paryudāsa, pratiṣedha, and utkarṣa concepts."
+    },
+    {
+      "topic": "Differential application of śrāddha rules by varṇa (caste status)",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-14caee",
+          "quote": "For Śūdras, however, the Sapiṇḍana is on the twelfth day."
+        },
+        {
+          "paragraph_id": "p-bc2143",
+          "quote": "this injunction of the forenoon in an *āmaśrāddha* applies only to an *āmaśrāddha* performed by a twice-born, not to an *āmaśrāddha* performed by a Śūdra."
+        }
+      ],
+      "justification": "Multiple sub-sections specify divergent rules for Śūdras versus twice-born classes regarding Sapiṇḍana timing, mantra use, and āmaśrāddha timing, making varṇa-differential application a recurring implicit organising principle."
+    },
+    {
+      "topic": "Prohibited times for piṇḍa-offering: nakṣatras, tithis, weekdays, and life-cycle events",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-647a8b",
+          "quote": "In the two solstices, a *śrāddha*, and in the two equinoxes, / and on all the Yugādis, except for the offering of the *piṇḍa*."
+        },
+        {
+          "paragraph_id": "p-6d1060",
+          "quote": "Bṛhatparāśara says: And in Bharaṇī, one should not perform the offering of the *piṇḍa*."
+        },
+        {
+          "paragraph_id": "p-d1694b",
+          "quote": "In a marriage, a vow, and a tonsure ceremony, for a year, half a year, and half of that, / one should not perform the offering of the *piṇḍa*"
+        }
+      ],
+      "justification": "The final section of this window systematically catalogues piṇḍa prohibitions across Yugādis, saṅkrāntis, individual nakṣatras, weekdays, tithis, and post-saṃskāra periods, with the Vīramitrodaya adjudicating between conflicting smṛtis."
+    },
+    {
+      "topic": "Conflict reconciliation among smṛti authorities on ritual timing",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-bb4d69",
+          "quote": "In reality, however, the prohibition is justified by the difference of sages."
+        },
+        {
+          "paragraph_id": "p-e98fb5",
+          "quote": "That is incorrect."
+        },
+        {
+          "paragraph_id": "p-323396",
+          "quote": "Others, however, explain these verses as they are heard."
+        }
+      ],
+      "justification": "Throughout the window the Vīramitrodaya explicitly adjudicates between rival smṛti opinions using formulae such as 'In reality…', 'That is incorrect', and 'the difference of sages', implying a systematic harmonization program even where not foregrounded."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Caturviṃśatimata",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-53dd90",
+      "quote": "There, in the *Caturviṃśatimata*:",
+      "justification": "The Caturviṃśatimata is quoted as an authority for the enumeration of primary Sapiṇḍīkaraṇa times including completion of the year, auspicious occasions, the twelfth day, and the eleventh day."
+    },
+    {
+      "cited_work": "Parāśaramādhavīya (Bhaviṣya section)",
+      "cited_author": "Mādhava",
+      "stance": "authority",
+      "paragraph_id": "p-1a7d98",
+      "quote": "In the *Bhaviṣya* in the *Parāśaramādhavīya*:",
+      "justification": "The Bhaviṣya section of the Parāśaramādhavīya is cited for the rule that a fire-less sacrificer should perform Sapiṇḍīkaraṇa for a fire-less deceased at year-end or alternative times."
+    },
+    {
+      "cited_work": "Mādhavīya",
+      "cited_author": "Mādhava",
+      "stance": "authority",
+      "paragraph_id": "p-1e671f",
+      "quote": "another time is stated in the *Mādhavīya*—",
+      "justification": "The Mādhavīya is cited as the source for Ṛṣyaśṛṅga's verse providing fallback nakṣatra-based timing for a missed Sapiṇḍīkaraṇa."
+    },
+    {
+      "cited_work": "Manusmṛti",
+      "cited_author": "Manu",
+      "stance": "authority",
+      "paragraph_id": "p-d3633d",
+      "quote": "Manu says (a. 3, ślo. 278):",
+      "justification": "Manusmṛti 3.278 is cited as authority for the superiority of the afternoon over the forenoon in a śrāddha."
+    },
+    {
+      "cited_work": "Manusmṛti",
+      "cited_author": "Manu",
+      "stance": "authority",
+      "paragraph_id": "p-c86858",
+      "quote": "Thus says Manu:",
+      "justification": "A second verse of Manu is cited to establish that the tithi connected with the afternoon and on which the sun sets is the ancestral tithi."
+    },
+    {
+      "cited_work": "Manusmṛti",
+      "cited_author": "Manu",
+      "stance": "authority",
+      "paragraph_id": "p-f499ed",
+      "quote": "Manu says (a. 3, ślo. 280):",
+      "justification": "Manusmṛti 3.280 is cited as the primary authority for the prohibition of nocturnal and twilight śrāddha."
+    },
+    {
+      "cited_work": "Yājñavalkyasmṛti",
+      "cited_author": "Yājñavalkya",
+      "stance": "authority",
+      "paragraph_id": "p-1bda20",
+      "quote": "Whichever rite has whichever time, the *tithi* pervading that time / should be used for those rites; decrease and increase are not the cause.",
+      "justification": "A verse of Yājñavalkya is cited as the definitive authority for the tithi-pervasion principle applied to śrāddha rites."
+    },
+    {
+      "cited_work": "Vṛddha Yājñavalkyasmṛti",
+      "cited_author": "Vṛddha Yājñavalkya",
+      "stance": "authority",
+      "paragraph_id": "p-03d59a",
+      "quote": "Vṛddha Yājñavalkya says:",
+      "justification": "Vṛddha Yājñavalkya is cited for the rule distinguishing the sunrise-tithi for divine rites from the sunset-tithi for ancestral rites."
+    },
+    {
+      "cited_work": "Śivarahasya",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-c3ce80",
+      "quote": "In the *Śivarahasya* and *Saurapurāṇa*:",
+      "justification": "The Śivarahasya is cited jointly with the Saurapurāṇa for the rule that the end of the tithi should be observed for divine rites and the beginning for ancestral rites."
+    },
+    {
+      "cited_work": "Saurapurāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-c3ce80",
+      "quote": "In the *Śivarahasya* and *Saurapurāṇa*:",
+      "justification": "The Saurapurāṇa is cited jointly with the Śivarahasya for the tithi-beginning/end rule distinguishing divine and ancestral rites."
+    },
+    {
+      "cited_work": "Māradoyapurāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-aae87a",
+      "quote": "In the *Māradoyapurāṇa*:",
+      "justification": "The Māradoyapurāṇa is cited for two verses on the divine-end / ancestral-beginning tithi rule and the significance of sunset in ancestral rites."
+    },
+    {
+      "cited_work": "Skanda Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-7e1a26",
+      "quote": "In the *Skanda Purāṇa*:",
+      "justification": "The Skanda Purāṇa is cited twice: once for the binary forenoon/afternoon definition and once for the five-muhūrta fivefold division of the day."
+    },
+    {
+      "cited_work": "Vāyu Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-23a8a5",
+      "quote": "In the *Vāyu Purāṇa*:",
+      "justification": "The Vāyu Purāṇa is cited for the verse defining the kutapa as the time between the seventh and ninth muhūrta."
+    },
+    {
+      "cited_work": "Kālikā Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-f717a0",
+      "quote": "In the *Kālikā Purāṇa*:",
+      "justification": "The Kālikā Purāṇa is cited for the verse listing nine 'ku-tāpas' (destroyers of sin) including Brahmin, blanket, cows, silver, fire, guests, sesame, Darbha grass, and midday."
+    },
+    {
+      "cited_work": "Prabhāsakhaṇḍa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-397c90",
+      "quote": "In the *Prabhāsakhaṇḍa* also:",
+      "justification": "The Prabhāsakhaṇḍa is cited twice: once for the eight kutapas including midday and rhinoceros-horn vessel, and once for the rule that muhūrtas are always fifteen in number."
+    },
+    {
+      "cited_work": "Brahma Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-d2e328",
+      "quote": "In the *Brahma Purāṇa*:",
+      "justification": "The Brahma Purāṇa is cited for the verse specifying the timing sequence of the four types of śrāddha: daivika in the forenoon, pārvaṇa in the afternoon, ekoddiṣṭa at midday, vṛddhi in the morning."
+    },
+    {
+      "cited_work": "Matsya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-14ac87",
+      "quote": "In the *Matsya Purāṇa*:",
+      "justification": "The Matsya Purāṇa is cited three times: for the evening prohibition on śrāddha, for the kutapa as the eighth muhūrta commencing the pārvaṇa, and for the saṅkrānti piṇḍa-prohibition verse debated by Vācaspati."
+    },
+    {
+      "cited_work": "Śatapatha Brāhmaṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-5853c4",
+      "quote": "The *Śatapatha śruti* indicates a fivefold division: \"The sun is indeed all the seasons. When it rises, it is spring...\"",
+      "justification": "The Śatapatha Brāhmaṇa is cited as Vedic śruti authority for the fivefold seasonal analogy of the day's five parts."
+    },
+    {
+      "cited_work": "Śivarāghavasaṃvāda",
+      "cited_author": "Mādhava",
+      "stance": "authority",
+      "paragraph_id": "p-ea6eb6",
+      "quote": "From this verse cited by Mādhava in the *Śivarāghavasaṃvāda*",
+      "justification": "The Śivarāghavasaṃvāda is cited via Mādhava for the verse prohibiting morning śrāddha outside of vṛddhi occasions."
+    },
+    {
+      "cited_work": "Devī Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-ed060f",
+      "quote": "the *Devī Purāṇa* says:",
+      "justification": "The Devī Purāṇa is cited for the rule that an eldest daughter should avoid the piṇḍa-offering during the Trayodaśī-Maghā śrāddha worship."
+    },
+    {
+      "cited_work": "Brahma Purāṇa (second citation in piṇḍa section)",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-dc3b02",
+      "quote": "In the *Brahma Purāṇa*, having read the verse of the *Matsya Purāṇa*",
+      "justification": "The Brahma Purāṇa is cited again in the piṇḍa-prohibition section as a text that reads and thereby endorses the Matsya Purāṇa verse on learned Brahmins visiting the house."
+    },
+    {
+      "cited_work": "Brahmavaivarta Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-65d233",
+      "quote": "the verse of the *Brahmavaivarta* cited by Hemādri",
+      "justification": "The Brahmavaivarta Purāṇa is cited via Hemādri for the verse restricting piṇḍa-offering in the Gaṅgā during Capricorn eclipse, which the Vīramitrodaya limits in scope."
+    },
+    {
+      "cited_work": "Smṛtiratnāvalī",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-a581f9",
+      "quote": "In the *Smṛtiratnāvalī*:",
+      "justification": "The Smṛtiratnāvalī is cited for the verse enjoining śrāddha effort at son-birth, Vyatīpāta, and eclipses while prohibiting piṇḍa-offering."
+    },
+    {
+      "cited_work": "Prayogapārijāta",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-5d5a09",
+      "quote": "cited in the *Prayogapārijāta*",
+      "justification": "The Prayogapārijāta is cited as the source of a list of inauspicious times (Nandā, Aśvinī, Kāma, Sunday, Tuesday, etc.) for piṇḍa-offering in the Mahālaya dark fortnight."
+    },
+    {
+      "cited_work": "Hemādri (digest)",
+      "cited_author": "Hemādri",
+      "stance": "extend",
+      "paragraph_id": "p-3bd1e4",
+      "quote": "since in the *Hemādri*, a *śrāddha* is enjoined on a *tithi* and a day of the week",
+      "justification": "Hemādri's digest is cited and extended to argue that piṇḍa prohibitions tied to a tithi or weekday apply only to śrāddhas occasioned by those, not to general śrāddhas."
+    },
+    {
+      "cited_work": "Āpastamba Dharmasūtra",
+      "cited_author": "Āpastamba",
+      "stance": "authority",
+      "paragraph_id": "p-c4fc82",
+      "quote": "the sūtra of Āpastamba, \"Or in a commenced rite, the connection is until the completion\"",
+      "justification": "The Āpastamba Dharmasūtra is cited as the sūtra-level authority supporting the view that a commenced śrāddha may be completed beyond the primary time."
+    }
+  ]
+}

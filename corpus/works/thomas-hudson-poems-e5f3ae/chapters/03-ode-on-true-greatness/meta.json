@@ -1,0 +1,38 @@
+{
+  "work_slug": "thomas-hudson-poems-e5f3ae",
+  "work_title": "Poems",
+  "chapter_number": 3,
+  "chapter_title": "ODE ON TRUE GREATNESS.",
+  "chapter_slug": "03-ode-on-true-greatness",
+  "author": "Thomas Hudson",
+  "author_slug": "thomas-hudson",
+  "ecpa_poem_id": "o4984-w0140",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "rhyme": "irregular",
+    "metrical_pattern": "irregular",
+    "line_count": 74
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e78f58df-b456-544f-a5a5-140c04319efc",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 480,
+      "line_count": 76,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

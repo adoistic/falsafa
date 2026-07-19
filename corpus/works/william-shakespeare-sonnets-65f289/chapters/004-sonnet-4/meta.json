@@ -1,0 +1,28 @@
+{
+  "work_slug": "william-shakespeare-sonnets-65f289",
+  "work_title": "Sonnets",
+  "chapter_number": 4,
+  "chapter_title": "Sonnet 4",
+  "chapter_slug": "004-sonnet-4",
+  "incipit": "Unthrifty loveliness, why dost thou spend",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "79913dd4-270e-5c6b-b46c-388c8e2923d1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 101,
+      "line_count": 14,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1041",
+      "license": "Public domain — from Project Gutenberg (https://www.gutenberg.org)"
+    }
+  ]
+}

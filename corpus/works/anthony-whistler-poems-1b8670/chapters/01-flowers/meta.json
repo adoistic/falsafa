@@ -1,0 +1,45 @@
+{
+  "work_slug": "anthony-whistler-poems-1b8670",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "FLOWERS.",
+  "chapter_slug": "01-flowers",
+  "author": "Anthony Whistler",
+  "author_slug": "anthony-whistler",
+  "ecpa_poem_id": "o5155-w0830",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ballad metre",
+      "Chevy Chase stanza"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "8.6.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/          -+|-+|-+/         -+|-+|-+|-+/          -+|-+|-+/",
+    "line_count": 40
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7637b97c-7971-5f63-99e0-e07b877d6999",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 228,
+      "line_count": 52,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

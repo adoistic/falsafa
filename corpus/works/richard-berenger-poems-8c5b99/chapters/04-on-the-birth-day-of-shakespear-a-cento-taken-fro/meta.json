@@ -1,0 +1,38 @@
+{
+  "work_slug": "richard-berenger-poems-8c5b99",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "On the Birth-Day of SHAKESPEAR. A CENTO. Taken from his Works.",
+  "chapter_slug": "04-on-the-birth-day-of-shakespear-a-cento-taken-fro",
+  "author": "Richard Berenger",
+  "author_slug": "richard-berenger",
+  "ecpa_poem_id": "o5157-w0660",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "blank verse",
+      "cento"
+    ],
+    "metrical_pattern": "irregular",
+    "line_count": 33
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ef7c529a-b3c2-57a3-b638-cbb40a76bfca",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 269,
+      "line_count": 36,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

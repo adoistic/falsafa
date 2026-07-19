@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 92**
+**Viṣṇu Smriti 92**
 
 The gift of safety is superior to all gifts. // Vi_92.1 //
 

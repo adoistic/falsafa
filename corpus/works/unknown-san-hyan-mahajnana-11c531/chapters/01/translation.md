@@ -38,7 +38,7 @@ O revered Kumāra, that which is said to be asleep is the ten senses (*daśendri
 
 *One wife, three sons, two ploughs, ten cows; my dwelling is in a good field. He who knows this goes to the sun. // 4*
 
-There is one wife, and she has three sons. There are two ploughs, and ten cows. Their place is in the middle of a rice field. Now, as for the one wife who has three sons, and the two ploughs and the ten cows, and the rice field where they dwell—he who knows this reaches the abode of the Lord Shiva. He who knows this finds the one who is the master of the entire world.
+There is one wife, and she has three sons. There are two ploughs, and ten cows. Their place is in the middle of a rice field. Now, as for the one wife who has three sons, and the two ploughs and the ten cows, and the rice field where they dwell—he who knows this reaches the abode of the Lord Śiva. He who knows this finds the one who is the master of the entire world.
 
 *The wife is clearly prakṛti, the sons are the guṇas; the mind and intellect are the two ploughs. The cows are the senses, and the heart is called the field. // 5*
 
@@ -48,9 +48,9 @@ The *pradhāna* (*prakṛti*, primordial nature) is said to be the one wife. The
 
 Your father and your mother, you must kill them. And two thieves, and two *brāhmaṇas*, you must kill them. After your father and mother are dead, and the two thieves, and the two *brāhmaṇas*, and the kingdom and my form, you will find the world of Rudra. Thus were the Lord's words.
 
-*Know that mother is prakṛti, and they know father as puruṣa. Dharma and adharma are the two thieves; intellect and mind are the two brāhmaṇas. // 7*
+*Know that mother is prakṛti, and they know father as puruṣa. Dharmma and adharma are the two thieves; intellect and mind are the two brāhmaṇas. // 7*
 
-The revered *prakṛti* is said to be the mother; the revered *puruṣa* (pure consciousness/spirit) is said to be the father. *Dharma* and *adharma* are said to be the two thieves. The intellect and mind are said to be the two *brāhmaṇas*.
+The revered *prakṛti* is said to be the mother; the revered *puruṣa* (pure consciousness/spirit) is said to be the father. *Dharmma* and *adharma* are said to be the two thieves. The intellect and mind are said to be the two *brāhmaṇas*.
 
 *The ten senses are the kingdom, and the body is the city. Having killed them all with the Self, one attains the world of Rudra. // 8*
 
@@ -80,29 +80,29 @@ What is called night, in another sense, is the body of the five great elements. 
 
 There is the mind, intellect, and egoism. There are also what are called the five winds. Their names are: *prāṇa, apāna, samāna, udāna, vyāna*; their divisions are five. *The eight vital breaths of all beings*. All of these, eight in total, are the life-force of all beings. *Are called the subtle body*. This is also called the subtle body.
 
-*The chariot is said to be the senses, and puruṣa is the charioteer. Dharma and adharma [...], the path is said to be prakṛti. // 15*
+*The chariot is said to be the senses, and puruṣa is the charioteer. Dharmma and adharma [...], the path is said to be prakṛti. // 15*
 
-The chariot is the ten senses (*daśendriya*). *Puruṣa* is the charioteer. *Dharma* and *adharma* are the reins. The revered *pradhāna* (*prakṛti*) is the body of the chariot.
+The chariot is the ten senses (*daśendriya*). *Puruṣa* is the charioteer. *Dharmma* and *adharma* are the reins. The revered *pradhāna* (*prakṛti*) is the body of the chariot.
 
-*The cart is said to be Vishnu, the ox is Pitāmaha. Īśvara is to be known as the charioteer; the soul is within the cart. // 16*
+*The cart is said to be Viṣṇu, the ox is Pitāmaha. Īśvara is to be known as the charioteer; the soul is within the cart. // 16*
 
-The holy Vishnu is the chariot. The holy Brahma is the ox. The holy Īśvara is the charioteer. The Lord Shiva dwells in the middle of the chariot; He is the soul of them all.
+The holy Viṣṇu is the chariot. The holy Brahmā is the ox. The holy Īśvara is the charioteer. The Lord Śiva dwells in the middle of the chariot; He is the soul of them all.
 
 *One and a half finger-widths in the three worlds, the essence of the center of the sphere. In it is situated in the three worlds the visible mango-fruit image. In them, the supreme triangle, having been well considered, is joined. [...] // 17*
 
-In the center of the sphere of the three worlds, there is the world of Brahma, and the world of Vishnu, and the world of Rudra. The visible mango-fruit image is what it is like. In the center of this mango-fruit image, there is a triangle. Such is the dwelling place of the Lord Shiva. And the *padma* (lotus) which is situated between the two breasts is called the world of Brahma and the world of Vishnu, which flank the world of Rudra. You must contemplate Him, if you wish to be released. Do not be distracted, for He is called the supreme region of Brahma. There is that which causes sorrow.
+In the center of the sphere of the three worlds, there is the world of Brahmā, and the world of Viṣṇu, and the world of Rudra. The visible mango-fruit image is what it is like. In the center of this mango-fruit image, there is a triangle. Such is the dwelling place of the Lord Śiva. And the *padma* (lotus) which is situated between the two breasts is called the world of Brahmā and the world of Viṣṇu, which flank the world of Rudra. You must contemplate Him, if you wish to be released. Do not be distracted, for He is called the supreme region of Brahmā. There is that which causes sorrow.
 
 *In the bindu is to be known, indeed, that which is joined with the eight, of the measure of a thumb, of superior power. [...] // 18*
 
-There is what is called the *bindu* (point), a thumb-width in size, situated in the region of the heart. It is truly called the eight lordly powers. In the middle of the gall bladder, there is the dwelling place of the Lord Īśvara. You must worship Him. At the time of your worship, you must recite the six syllables: *oṃ sa ba ta a i*. Thus you must speak. Or: *oṃ namah śivāya*. This is what is called the six-syllable mantra. This six-syllable formula is what you must use for worship. After you have worshipped, contemplate the Lord Shiva, who pervades the world, pure and unstained by any blemish.
+There is what is called the *bindu* (point), a thumb-width in size, situated in the region of the heart. It is truly called the eight lordly powers. In the middle of the gall bladder, there is the dwelling place of the Lord Īśvara. You must worship Him. At the time of your worship, you must recite the six syllables: *oṃ sa ba ta a i*. Thus you must speak. Or: *oṃ namah śivāya*. This is what is called the six-syllable mantra. This six-syllable formula is what you must use for worship. After you have worshipped, contemplate the Lord Śiva, who pervades the world, pure and unstained by any blemish.
 
 *The three-fold lotus is held to be in the heart, the root, and the throat. Gathering all the nāḍīs, its ray is like that of Hari. // 19*
 
 There is a *padma* situated in the heart, and at the navel, and in the throat; there are three of them. They are extremely subtle. Their stalk is above, their flower hangs down below. *Gathering all the nāḍīs*. This *padma* is the refuge of all the *nāḍīs*. Its stalk, it is said, has a radiance like the radiance of the sun.
 
-*The lotus which is at the root of the heart would be bitter, dark, and harsh. Very dark and of blinding darkness, [...] the Lord of the World, the abode of Shiva. // 20*
+*The lotus which is at the root of the heart would be bitter, dark, and harsh. Very dark and of blinding darkness, [...] the Lord of the World, the abode of Śiva. // 20*
 
-There is what is called the *kamala* (lotus), the physical heart. It is situated at the root of the heart (of consciousness). There is what is called *kṛṣṇa* (darkness), which is said to be bitter. There is what is called *atikṛṣṇa* (great darkness). All of these are called the supreme world, the dwelling place of the Lord Shiva. He is the object of devotion for the lord of yogis.
+There is what is called the *kamala* (lotus), the physical heart. It is situated at the root of the heart (of consciousness). There is what is called *kṛṣṇa* (darkness), which is said to be bitter. There is what is called *atikṛṣṇa* (great darkness). All of these are called the supreme world, the dwelling place of the Lord Śiva. He is the object of devotion for the lord of yogis.
 
 *One’s own liṅga or another’s liṅga, he who makes it himself, is absorbed in all beings. The twice-born is absorbed in his own liṅga. // 21*
 
@@ -112,17 +112,17 @@ There is what is called *svaliṅga* (one's own *liṅga*) and *paraliṅga* (an
 
 This is so that you may know your *ātmā*, which is the same as the omniscient. It is called the *ātma-liṅga* (the inner symbol of the Self). Because this *ātma-liṅga* is what is clearly known first, you should then know the *bāhya-liṅga*. He who masters the *svaliṅga*, that is what you must know, O revered Kumāra.
 
-*A thousand Shiva-liṅgas are not equal to the ātma-liṅga. There is nothing higher than this; the ātma-liṅga is supreme. // 23*
+*A thousand Śiva-liṅgas are not equal to the ātma-liṅga. There is nothing higher than this; the ātma-liṅga is supreme. // 23*
 
 The *bāhya-liṅga*, such as temples and shrines, even if there are a thousand of them, all of them are equal to the *ātma-liṅga*. But wait! They are not equal. Only the *ātma-liṅga* is superior to all other *liṅgas*.
 
-*A thousand jewel-liṅgas are not equal to one Shiva-liṅga. A thousand eye-liṅgas are not equal to one ātma-liṅga. // 24*
+*A thousand jewel-liṅgas are not equal to one Śiva-liṅga. A thousand eye-liṅgas are not equal to one ātma-liṅga. // 24*
 
-A thousand jewel-*liṅgas*, may their divinity be equal to one Shiva-*liṅga*. A thousand eye-*liṅgas*, may their divinity be equal to one *ātma-liṅga*. Here is another matter.
+A thousand jewel-*liṅgas*, may their divinity be equal to one Śiva-*liṅga*. A thousand eye-*liṅgas*, may their divinity be equal to one *ātma-liṅga*. Here is another matter.
 
-*The three-syllable state, joined, is declared to be the oṃkāra. The mind, fixed on the origin of the liṅga, is the most excellent Shiva-liṅga. // 25*
+*The three-syllable state, joined, is declared to be the oṃkāra. The mind, fixed on the origin of the liṅga, is the most excellent Śiva-liṅga. // 25*
 
-He is the holy three-syllable one, and the three states: there is the state of Brahma, the state of Vishnu, and the state of Rudra. He is called *oṃkāra*. There is a mind that is steadfast, taking refuge in the Lord Shiva in the form of a *liṅga*. That is what is called Shiva-*liṅga*. They are not the same. Here is another thing spoken by the wise.
+He is the holy three-syllable one, and the three states: there is the state of Brahmā, the state of Viṣṇu, and the state of Rudra. He is called *oṃkāra*. There is a mind that is steadfast, taking refuge in the Lord Śiva in the form of a *liṅga*. That is what is called Śiva-*liṅga*. They are not the same. Here is another thing spoken by the wise.
 
 *The god of the twice-born is in the waters; the deity of the ṛṣis is in heaven. For the common people it is a piece of stone, but for the sages the Self itself is the deity. // 26*
 
@@ -152,9 +152,9 @@ There are three *padmas*: north, south, and in the center is their place. The so
 
 Its breadth is thus, its height is three finger-widths. Its breadth is thus three finger-widths. Its depth is three finger-widths. Such is the form of the lotus-bud of the body.
 
-*The three states are the three spheres, the triangle is the three worlds. Shiva sports there; the sun created this illusion. // 33*
+*The three states are the three spheres, the triangle is the three worlds. Śiva sports there; the sun created this illusion. // 33*
 
-That which is called the three states—the state of *jāgrat*, the state of *suṣupti*, the state of *svapna*—is the three spheres. There is a triangle there. Now, in the middle of that triangle, there is the dwelling place of the Lord Shiva, who disports himself creating illusion in many forms.
+That which is called the three states—the state of *jāgrat*, the state of *suṣupti*, the state of *svapna*—is the three spheres. There is a triangle there. Now, in the middle of that triangle, there is the dwelling place of the Lord Śiva, who disports himself creating illusion in many forms.
 
 *The lotus-stalk is situated in the heart, and so are jāgrat and svapna. Īśvara is in the lotus-stalk, accompanied by all the gods. // 34*
 
@@ -172,9 +172,9 @@ The form of His radiance in the navel is like the radiance of fire. The form of 
 
 Between the eyebrows, it is like the radiance of an *indranīla* gem. The forehead is like the appearance of oil. In the hand, it is like the radiance of silver. In the middle of the head, there is no radiance of His there; it is colorless.
 
-*Having reached the sphere of the sky, the gate of Brahma is declared. [...] by fire the impurity is cleansed, situated in the void, the infinite is known. // 38*
+*Having reached the sphere of the sky, the gate of Brahmā is declared. [...] by fire the impurity is cleansed, situated in the void, the infinite is known. // 38*
 
-When one arrives at the sphere of the sky, the gate of Brahma is found. The crown of the head is the gate of Brahma. All of this is burned by the fire in the navel. After all of it is burned, one reaches the abode of the Lord. That abode has no superior, said the Lord.
+When one arrives at the sphere of the sky, the gate of Brahmā is found. The crown of the head is the gate of Brahmā. All of this is burned by the fire in the navel. After all of it is burned, one reaches the abode of the Lord. That abode has no superior, said the Lord.
 
 *Jāgrat and svapna are to be known, and the state of suṣupti as well. Kaivalya, paraṃ kaivalya; the seven skies it is called. // 39*
 
@@ -204,13 +204,13 @@ The color of the state of *jāgrat* is white. The state of *svapna* is like the 
 
 The color of *tūryānta* is like silver. The color of *kaivalya* is like gold. The color of *paramakaivalya* is only radiant light. In short, in *paramakaivalya*, liberation is found.
 
-*The state of jāgrat is of Brahma; svapna is the state of Vishnu. Suṣupti is the state of Rudra; the state of tūrya is Maheśvara. // 46*
+*The state of jāgrat is of Brahmā; svapna is the state of Viṣṇu. Suṣupti is the state of Rudra; the state of tūrya is Maheśvara. // 46*
 
-The god of the state of *jāgrat* is the holy Brahma. The god of the state of *svapna* is the holy Vishnu. The god of the state of *suṣupti* is the holy Rudra. The god of the state of *tūrya* is the holy Maheśvara.
+The god of the state of *jāgrat* is the holy Brahmā. The god of the state of *svapna* is the holy Viṣṇu. The god of the state of *suṣupti* is the holy Rudra. The god of the state of *tūrya* is the holy Maheśvara.
 
-*Of tūryānta is Mahādeva, by name also the state of Shiva. Of the supreme Self is kaivalya; paraṃ kaivalya is the giver of peace. // 47*
+*Of tūryānta is Mahādeva, by name also the state of Śiva. Of the supreme Self is kaivalya; paraṃ kaivalya is the giver of peace. // 47*
 
-The god of *tūryānta* is the holy Mahādeva; he is called the state of Shiva. The god of *kaivalya* is the holy Īśāna. The god of *paramakaivalya* is the Lord Paramaśiva. He is the giver of peace, called liberation. Thus spoke the Lord, instructing the revered Kumāra.
+The god of *tūryānta* is the holy Mahādeva; he is called the state of Śiva. The god of *kaivalya* is the holy Īśāna. The god of *paramakaivalya* is the Lord Paramaśiva. He is the giver of peace, called liberation. Thus spoke the Lord, instructing the revered Kumāra.
 
 *Jāgrat is the aśvamedha sacrifice; svapna is the vājapeya. Suṣupti is the puṇḍarīka, and tūrya is the rājasūya. // 48*
 
@@ -218,11 +218,11 @@ The state of *jāgrat* is the *aśvamedha* sacrifice. The state of *svapna* is t
 
 *Jāgrat [...] of divine form, four-faced. [...] with matted hair, a brahmacārī and a paṇḍita. // 49*
 
-The state of *jāgrat* is the abode of the class of the god Brahma. They are all four-faced and of divine form. They are all white with ashes. They all intone the mantras of the four Vedas, with matted hair. They are all celibates. They all wear the sacred thread. Such is their appearance, eternally worshipping the holy Brahma.
+The state of *jāgrat* is the abode of the class of the god Brahmā. They are all four-faced and of divine form. They are all white with ashes. They all intone the mantras of the four Vedas, with matted hair. They are all celibates. They all wear the sacred thread. Such is their appearance, eternally worshipping the holy Brahmā.
 
 *The deity of svapna is Acyuta, of divine form, four-armed. Holding conch, discus, and mace, with the king of birds as his excellent vehicle. // 50*
 
-The state of *svapna* is the abode of the class of the god Vishnu. They are all of divine form. They are all four-armed. They all hold the conch, discus, and mace. They all ride upon Garuda.
+The state of *svapna* is the abode of the class of the god Viṣṇu. They are all of divine form. They are all four-armed. They all hold the conch, discus, and mace. They all ride upon Garuda.
 
 *The deity of suṣupti is said to be of Rudra-form, holding time. Three-eyed, holding a trident, Śarva with the bull as his vehicle. // 51*
 
@@ -232,15 +232,15 @@ The state of *suṣupti* is the abode of the disciples of the Lord Rudra. They a
 
 The state of *tūrya* is the abode of the disciples of the Lord Īśvara. They are all content at all times. They are without form. They have no desires. Wind is their nature, present in all beings.
 
-*In tūryānta, Shiva is proclaimed, [...] the ṛṣi whose mind is on knowledge. He who knows this Self is remembered as one who [...] // 53*
+*In tūryānta, Śiva is proclaimed, [...] the ṛṣi whose mind is on knowledge. He who knows this Self is remembered as one who [...] // 53*
 
-The state of *tūryānta* is the abode and dwelling of the Lord Shiva. He must be known by the ascetic. He must contemplate the *jñāna* of the Lord, and the holy *ātmā*. Its goal is to become one. At the time of dissolution, there is no more birth, said the Lord. One will not be subject to rebirth.
+The state of *tūryānta* is the abode and dwelling of the Lord Śiva. He must be known by the ascetic. He must contemplate the *jñāna* of the Lord, and the holy *ātmā*. Its goal is to become one. At the time of dissolution, there is no more birth, said the Lord. One will not be subject to rebirth.
 
 *The gall bladder is Mahādeva, the great life-force is Maheśvara. [...] in a mirror, that which is indeed māyā [...] the upadeśa is declared. // 54*
 
 The holy Mahādeva, his name is the gall bladder. The holy Maheśvara is the life-force. Like the form of *māyā* seen in a mirror, so is the Lord. He is the life-force of the entire world, visible in the body. All of this is called the *upadeśa*. Thus spoke the Lord to the revered Kumāra.
 
-*The gall bladder is to be known as Īśvara, or [...] Shiva [...] is declared. By a shadow the vision in it [...] is the vision of tūryānta. // 55*
+*The gall bladder is to be known as Īśvara, or [...] Śiva [...] is declared. By a shadow the vision in it [...] is the vision of tūryānta. // 55*
 
 The Holy One is taught by the Lord to be in the middle of the gall bladder. Like the form of *māyā* seen in a mirror, so is He seen in the mind. The holy Īśvara is the gall bladder. Thus it is.
 
@@ -256,9 +256,9 @@ Now, as for the gall bladder, its measure is that of a thumb. The power of the L
 
 Where is this great fool, who argues about its nature? It is said that the gall bladder is a thumb’s breadth in size. The gall bladder is as large as the seven islands. What are the seven islands? Such is the Lord Īśvara; He is of great power, all-pervading. Thus are the words of the fool. This is what is called the argument of a pandit.
 
-*In the left arm is situated Vishnu, and in the right, the Four-Faced One. From Maheśvara have arisen both of them, Brahma and Vishnu. // 59*
+*In the left arm is situated Viṣṇu, and in the right, the Four-Faced One. From Maheśvara have arisen both of them, Brahmā and Viṣṇu. // 59*
 
-The holy Vishnu is situated in the left arm. The holy Brahma is situated in the right arm. The Lord Maheśvara is situated in the middle of the holy Brahma and Vishnu. The Lord has three bodies. In short, the three—the holy Brahma, Vishnu, and Maheśvara—are the body of the Lord.
+The holy Viṣṇu is situated in the left arm. The holy Brahmā is situated in the right arm. The Lord Maheśvara is situated in the middle of the holy Brahmā and Viṣṇu. The Lord has three bodies. In short, the three—the holy Brahmā, Viṣṇu, and Maheśvara—are the body of the Lord.
 
 *In the heart is the subtle element, in jñāna it abides eternally. Subtlety and omnipresence [...] how is it to be known [...]? // 60*
 
@@ -272,9 +272,9 @@ There is a lotus in the heart, and there is a lotus in the lungs; this is called
 
 The heart, pure and subtle, is equal to a thousand suns. Its radiance is pure, complete in beauty. The summit of the heart is the void abode; it is called *paramakaivalya*.
 
-*[...] in the heart the act of holding [...] the subtle, supreme abode of Shiva. Knowing which in this body, one is liberated, there is no doubt. // 63*
+*[...] in the heart the act of holding [...] the subtle, supreme abode of Śiva. Knowing which in this body, one is liberated, there is no doubt. // 63*
 
-In the heart, there is what is called *śivapada* (the abode of Shiva). The holy *oṃkāra* is the supreme void, very subtle. The person who knows the *śivapada* from within the body, he will be liberated without a doubt. Thus spoke the Lord.
+In the heart, there is what is called *śivapada* (the abode of Śiva). The holy *oṃkāra* is the supreme void, very subtle. The person who knows the *śivapada* from within the body, he will be liberated without a doubt. Thus spoke the Lord.
 
 *In the terrible ocean of saṃsāra, puruṣa is situated like a nāga. Knowing oṃkāra to be Garuḍa [...] for the effort [...] // 64*
 
@@ -296,9 +296,9 @@ It is not touched by syllables, it is non-existent, and moreover it is so in all
 
 There is what is called the *ātmā*. There is what is called the *antarātmā*. There is what is called the *paramātmā*. In the middle of these three, there is what is called the *atyantātmā*. He is the void Lord, called Paramaśiva, the ultimate good. Be truly diligent.
 
-*The ātmā is to be known as Vishnu; the antarātmā is the Grandfather. The paramātmā is Rudra; the ultimate is Paramaśiva. // 69*
+*The ātmā is to be known as Viṣṇu; the antarātmā is the Grandfather. The paramātmā is Rudra; the ultimate is Paramaśiva. // 69*
 
-The holy Vishnu is the *ātmā*. The holy Brahma is the *antarātmā*. The Lord Rudra is the *paramātmā*. The Lord Shiva is the *atyantātmā*.
+The holy Viṣṇu is the *ātmā*. The holy Brahmā is the *antarātmā*. The Lord Rudra is the *paramātmā*. The Lord Śiva is the *atyantātmā*.
 
 *The letter A is said to be jāgrat, the letter U is svapna indeed. The letter M is suṣupti, and oṃkāra is tūrya indeed. // 70*
 
@@ -308,9 +308,9 @@ The letter A is the seed of *jāgrat*. The letter U is the seed of *svapna*. The
 
 There are four places in number for *oṃkāra* and the Lord. Where are these four locations? They are: the navel, the heart, the throat, and the head.
 
-*The mind is to be known as kaivalya, the intellect is proclaimed as Brahma. The ego is Rudra, and the sattva is Maheśvara. // 72*
+*The mind is to be known as kaivalya, the intellect is proclaimed as Brahmā. The ego is Rudra, and the sattva is Maheśvara. // 72*
 
-The Lord Vishnu is the god of the mind. The Lord Brahma is the god of the intellect. The Lord Rudra is the god of the ego. The Lord Maheśvara is the god of *sattva*.
+The Lord Viṣṇu is the god of the mind. The Lord Brahmā is the god of the intellect. The Lord Rudra is the god of the ego. The Lord Maheśvara is the god of *sattva*.
 
 *He is to be known from the authority of jñāna, with the help of a thousand boats. He who knows the tattva, without doubt, immediately sees Maheśvara. // 73*
 
@@ -326,7 +326,7 @@ This is your yoga in life. There is a subtle, quality-less abode, not dwelt in b
 
 *Having burned desire, anger, greed, delusion, and envy in the fire of oṃkāra, one becomes sorrowless like the moon. // 76*
 
-What are their meanings? *Kāma* is desire. *Krodha* is anger. *Moha* and *lobha* are delusion and greed. *Mātsaryya* is envy, the desire to possess exclusively. All of these, offer them to the holy Brahma. The holy *oṃkāra* is called fire. After all have been burned, you will attain the supreme good, unstained by any impurity.
+What are their meanings? *Kāma* is desire. *Krodha* is anger. *Moha* and *lobha* are delusion and greed. *Mātsaryya* is envy, the desire to possess exclusively. All of these, offer them to the holy Brahmā. The holy *oṃkāra* is called fire. After all have been burned, you will attain the supreme good, unstained by any impurity.
 
 *The upadeśa made by the teacher [...] you alone listen, my son. As it is borne, so it is obtained; one is liberated from all sorrows. // 77*
 
@@ -354,19 +354,19 @@ The holy *ṛṣi* is your mother. The holy Īśvara is your father. The holy Ma
 
 *Night is to be known as prakṛti, and the sun as puruṣa. The radiance is Mahādeva, and the void is Paramaśiva. // 83*
 
-The revered *prakṛti* is called the night. The revered *puruṣa* is called the sun. The holy Mahādeva is the radiance. The Lord Shiva is the void. He must truly be known.
+The revered *prakṛti* is called the night. The revered *puruṣa* is called the sun. The holy Mahādeva is the radiance. The Lord Śiva is the void. He must truly be known.
 
 *In the great wisdom is the great secret, eternally in all states of being. The manifest and the unmanifest are to be abandoned; this is called the upadeśa. // 84*
 
 This *jñāna* is called the great wisdom, the culmination of the secret, eternally present in all states of being. The *vyakta* (the manifest) and the *avyakta* (the unmanifest), they must be abandoned. That is what is called the *upadeśa*.
 
-*In the great wisdom, the great teaching, [...] Shiva blossoms forth. For the awakening and grace of the disciple, this blessing we give to you. // 85*
+*In the great wisdom, the great teaching, [...] Śiva blossoms forth. For the awakening and grace of the disciple, this blessing we give to you. // 85*
 
-He who contemplates all this *jñāna*, his state is that of Lord Shiva indeed. That is His state. This is the Lord's purpose in causing karma to be done and in showing merit, in His desire to bestow that grace upon you.
+He who contemplates all this *jñāna*, his state is that of Lord Śiva indeed. That is His state. This is the Lord's purpose in causing karma to be done and in showing merit, in His desire to bestow that grace upon you.
 
-*In the great wisdom, the great tattva, here all doubts are finished. Shiva is situated in the ātma-liṅga, and in the void within the void. // 86*
+*In the great wisdom, the great tattva, here all doubts are finished. Śiva is situated in the ātma-liṅga, and in the void within the void. // 86*
 
-Here is The Sacred Supreme Wisdom, the great *tattva*. It is the highest of *tattvas*. It is complete, reaching its goal. Do not doubt, my son, revered Kumāra. *Shiva is situated in the ātma-liṅga.* The Lord Shiva dwells in the *ātma-liṅga*. *And in the void within the void.* This is called the ultimate of the void.
+Here is The Sacred Supreme Wisdom, the great *tattva*. It is the highest of *tattvas*. It is complete, reaching its goal. Do not doubt, my son, revered Kumāra. *Śiva is situated in the ātma-liṅga.* The Lord Śiva dwells in the *ātma-liṅga*. *And in the void within the void.* This is called the ultimate of the void.
 
 *Here the jñāna is in brief, and it is also called jñānasandhi. This jñāna is a great secret; grasp it with effort, my sons. // 87*
 

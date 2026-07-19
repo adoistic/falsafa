@@ -1,0 +1,41 @@
+{
+  "work_slug": "anna-seward-poems-4e63bb",
+  "work_title": "Poems",
+  "chapter_number": 7,
+  "chapter_title": "SONNET.",
+  "chapter_slug": "07-sonnet",
+  "author": "Anna Seward",
+  "author_slug": "anna-seward",
+  "ecpa_poem_id": "bse96-w0070",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "sonnet"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "rhyme": "abbaabbacdcdee",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 14
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "81434315-25b1-565d-81c2-191a5a8131bf",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 109,
+      "line_count": 15,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

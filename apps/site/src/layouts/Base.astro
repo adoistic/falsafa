@@ -5,6 +5,7 @@
  */
 import "../styles/global.css";
 import SearchDialog from "../components/SearchDialog.astro";
+import { THEME_MODES } from "../lib/theme";
 
 interface Props {
   title: string;
@@ -66,14 +67,30 @@ const isActive = (item: NavItem) => path === item.href || path.startsWith(item.m
 
     <script is:inline>
       // Apply reader prefs from localStorage before paint to avoid FOUC.
-      try {
-        const prefs = JSON.parse(localStorage.getItem("falsafa-prefs") || "{}");
-        if (prefs.theme) document.documentElement.dataset.theme = prefs.theme;
-        if (prefs.size) document.documentElement.dataset.size = prefs.size;
-        if (prefs.density) document.documentElement.dataset.density = prefs.density;
-      } catch (e) {
-        /* localStorage unavailable, fall through to defaults */
-      }
+      // Theme: an explicit "light"/"dark"/"sepia" wins; "system" or unset
+      // follows the OS (prefers-color-scheme). "light" is the :root default,
+      // so it means "no data-theme". window.__falsafaTheme is reused by the
+      // header appearance switcher (keep this resolver in sync with lib/theme.ts).
+      (function () {
+        function resolve(pref) {
+          if (pref === "light" || pref === "dark" || pref === "sepia") return pref;
+          return window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+        }
+        function apply(pref) {
+          var eff = resolve(pref);
+          if (eff === "light") delete document.documentElement.dataset.theme;
+          else document.documentElement.dataset.theme = eff;
+        }
+        window.__falsafaTheme = { resolve: resolve, apply: apply };
+        try {
+          var prefs = JSON.parse(localStorage.getItem("falsafa-prefs") || "{}");
+          apply(prefs.theme);
+          if (prefs.size) document.documentElement.dataset.size = prefs.size;
+          if (prefs.density) document.documentElement.dataset.density = prefs.density;
+        } catch (e) {
+          /* localStorage unavailable, fall through to defaults */
+        }
+      })();
     </script>
 
     {/* Named slot for page-specific <head> content: meta tags, page-level
@@ -154,6 +171,41 @@ const isActive = (item: NavItem) => path === item.href || path.startsWith(item.m
           </svg>
           <span class="search-trigger-label">Search</span>
         </button>
+
+        <div class="theme-control">
+          <button
+            id="theme-trigger"
+            type="button"
+            class="theme-trigger"
+            aria-label="Appearance"
+            aria-haspopup="true"
+            aria-expanded="false"
+            aria-controls="theme-menu"
+          >
+            <svg aria-hidden="true" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <circle cx="12" cy="12" r="9"></circle>
+              <path d="M12 3a9 9 0 0 0 0 18z" fill="currentColor" stroke="none"></path>
+            </svg>
+          </button>
+          <div id="theme-menu" class="theme-menu" role="menu" aria-label="Appearance" hidden>
+            {THEME_MODES.map((m) => (
+              <button
+                type="button"
+                class="theme-option"
+                role="menuitemradio"
+                aria-checked="false"
+                data-theme-mode={m.mode}
+              >
+                <span class="theme-check" aria-hidden="true">
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+                    <polyline points="20 6 9 17 4 12"></polyline>
+                  </svg>
+                </span>
+                <span>{m.label}</span>
+              </button>
+            ))}
+          </div>
+        </div>
 
         <button
           id="nav-drawer-trigger"
@@ -306,6 +358,72 @@ const isActive = (item: NavItem) => path === item.href || path.startsWith(item.m
             first.focus();
           }
         });
+      })();
+    </script>
+
+    {/* Appearance switcher: header popover. Reuses window.__falsafaTheme
+        (defined in the pre-paint script) to apply + persist the chosen mode. */}
+    <script is:inline>
+      (function () {
+        var trigger = document.getElementById("theme-trigger");
+        var menu = document.getElementById("theme-menu");
+        if (!trigger || !menu) return;
+        var KEY = "falsafa-prefs";
+        function getPrefs() {
+          try { return JSON.parse(localStorage.getItem(KEY) || "{}"); } catch (e) { return {}; }
+        }
+        function current() {
+          var t = getPrefs().theme;
+          return (t === "light" || t === "dark" || t === "sepia") ? t : "system";
+        }
+        var options = menu.querySelectorAll("[data-theme-mode]");
+        function mark() {
+          var cur = current();
+          options.forEach(function (o) {
+            var on = o.getAttribute("data-theme-mode") === cur;
+            o.setAttribute("aria-checked", on ? "true" : "false");
+            o.classList.toggle("is-active", on);
+          });
+        }
+        function onDoc(e) {
+          if (!menu.contains(e.target) && !trigger.contains(e.target)) closeMenu();
+        }
+        function openMenu() {
+          mark();
+          menu.hidden = false;
+          trigger.setAttribute("aria-expanded", "true");
+          document.addEventListener("click", onDoc, true);
+        }
+        function closeMenu() {
+          menu.hidden = true;
+          trigger.setAttribute("aria-expanded", "false");
+          document.removeEventListener("click", onDoc, true);
+        }
+        trigger.addEventListener("click", function (e) {
+          e.stopPropagation();
+          if (menu.hidden) openMenu(); else closeMenu();
+        });
+        options.forEach(function (o) {
+          o.addEventListener("click", function () {
+            var mode = o.getAttribute("data-theme-mode");
+            var p = getPrefs();
+            p.theme = mode;
+            try { localStorage.setItem(KEY, JSON.stringify(p)); } catch (e) {}
+            if (window.__falsafaTheme) window.__falsafaTheme.apply(mode);
+            mark();
+            closeMenu();
+          });
+        });
+        document.addEventListener("keydown", function (e) {
+          if (e.key === "Escape" && !menu.hidden) { closeMenu(); trigger.focus(); }
+        });
+        // Live-update when the OS theme flips while we're following the system.
+        try {
+          window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", function () {
+            if (current() === "system" && window.__falsafaTheme) window.__falsafaTheme.apply("system");
+          });
+        } catch (e) {}
+        mark();
       })();
     </script>
   </body>

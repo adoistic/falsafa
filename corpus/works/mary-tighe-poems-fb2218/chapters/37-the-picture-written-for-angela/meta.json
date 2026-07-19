@@ -1,0 +1,44 @@
+{
+  "work_slug": "mary-tighe-poems-fb2218",
+  "work_title": "Poems",
+  "chapter_number": 37,
+  "chapter_title": "The Picture. WRITTEN FOR ANGELA.",
+  "chapter_slug": "37-the-picture-written-for-angela",
+  "author": "Mary Tighe",
+  "author_slug": "mary-tighe",
+  "ecpa_poem_id": "pmt18-w0320",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "thing-poem"
+    ],
+    "foot": "anapaestic (˘˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quintet (5 lines)"
+    ],
+    "rhyme": "ababb",
+    "syllable_pattern": "12.12.12.12.12",
+    "metrical_pattern": "--+|--+|--+|--+/ --+|--+|--+|--+/ --+|--+|--+|--+/ --+|--+|--+|--+/ --+|--+|--+|--+/",
+    "line_count": 25
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "27330d45-169e-5758-a624-9dbc96e6ab97",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 230,
+      "line_count": 27,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

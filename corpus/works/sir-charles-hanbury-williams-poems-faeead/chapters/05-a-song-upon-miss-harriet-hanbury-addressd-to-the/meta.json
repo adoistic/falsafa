@@ -1,0 +1,44 @@
+{
+  "work_slug": "sir-charles-hanbury-williams-poems-faeead",
+  "work_title": "Poems",
+  "chapter_number": 5,
+  "chapter_title": "A SONG Upon Miss HARRIET HANBURY, address'd to the Rev. Mr. BIRT.",
+  "chapter_slug": "05-a-song-upon-miss-harriet-hanbury-addressd-to-the",
+  "author": "Sir Charles Hanbury Williams",
+  "author_slug": "sir-charles-hanbury-williams",
+  "ecpa_poem_id": "o5156-w0550",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "song"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quintet (5 lines)"
+    ],
+    "rhyme": "xabba",
+    "syllable_pattern": "8.8.6.6.8",
+    "metrical_pattern": "-+|-+|-+|-+/          -+|-+|-+|-+/         -+|-+|-+/          -+|-+|-+/          -+|-+|-+|-+/",
+    "line_count": 40
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "60e5255a-0031-5b0c-95ae-318b7a18800a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 272,
+      "line_count": 50,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}
