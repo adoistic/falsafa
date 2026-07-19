@@ -241,12 +241,14 @@ const verdictGlyph = verdict === true ? "✓" : verdict === false ? "×" : "—"
 
   .eval-case-header { margin-bottom: var(--s-12); }
   .eval-case-header .kicker {
-    font-family: var(--font-sans);
-    font-size: 12px;
-    text-transform: uppercase;
-    letter-spacing: 0.12em;
-    color: var(--accent);
-    margin: 0 0 var(--s-3);
+    font-family: var(--font-body);
+    font-size: 15px;
+    font-weight: 600;
+    font-variant: small-caps;
+    text-transform: lowercase;
+    letter-spacing: 0.06em;
+    color: var(--ink-muted);
+    margin: 0 0 var(--s-2);
   }
   /* Tier badge — sits inline with the category/difficulty kicker.
      Hidden (discovery) is the headline tier — slightly emphasised. */

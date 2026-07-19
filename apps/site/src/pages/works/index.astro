@@ -25,11 +25,10 @@ const works: BrowseWork[] = m.works.map((w) => ({
 >
   <div class="container">
     <header class="page-head">
-      <p class="kicker">The library</p>
-      <h1>Works</h1>
+      <h1>The catalogue</h1>
       <p class="lede">
-        Browse all {m.counts.works} works — filter by era, language, genre and
-        difficulty, or search by title and author.
+        All {m.counts.works.toLocaleString("en-US")} works — filter by era,
+        language, genre and difficulty, or search by title and author.
       </p>
     </header>
     <WorksBrowser client:load works={works} />
@@ -48,16 +47,6 @@ const works: BrowseWork[] = m.works.map((w) => ({
     margin: 0 0 var(--s-16);
   }
 
-  .kicker {
-    font-family: var(--font-sans);
-    font-size: 12px;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.12em;
-    color: var(--accent);
-    margin: 0 0 var(--s-2);
-  }
-
   h1 {
     font-family: var(--font-display);
     font-size: var(--fs-h1);
@@ -67,10 +56,11 @@ const works: BrowseWork[] = m.works.map((w) => ({
   }
 
   .lede {
-    font-family: var(--font-display);
-    font-style: italic;
+    font-family: var(--font-body);
     color: var(--ink-muted);
-    font-size: var(--fs-h3);
-    line-height: 1.4;
+    font-size: 18px;
+    line-height: 1.6;
+    text-wrap: pretty;
+    font-variant-numeric: oldstyle-nums;
   }
 </style>

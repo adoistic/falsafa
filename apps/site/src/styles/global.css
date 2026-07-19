@@ -684,11 +684,17 @@ a:focus-visible {
   padding: var(--s-3) 0;
   color: var(--ink);
   text-decoration: none;
-  transition: padding 0.15s ease;
+  transition: transform 0.15s ease;
 }
 
 .search-result-link:hover {
-  padding-left: var(--s-2);
+  transform: translateX(var(--s-2));
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .search-result-link:hover {
+    transform: none;
+  }
 }
 
 .search-result-title {

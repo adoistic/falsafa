@@ -1,0 +1,388 @@
+---
+/**
+ * ChapterAtlas — the reader↔atlas bridge, rendered after the chapter body.
+ *
+ * Two layers, both fed by the per-work ontology artifact
+ * (corpus/graph/atlas/works/<slug>.json):
+ *
+ *  1. A server-rendered, collapsed "In this chapter" panel — the chapter's
+ *     entities grouped by kind, linked into the atlas. Works without JS.
+ *  2. Progressive enhancement: an inline highlighter that marks the first
+ *     occurrence of each anchored entity's surface name inside its own
+ *     anchored paragraphs (dotted gloss-marks, like a lexicon's cross-
+ *     references). Selecting a mark opens a small card with the entity's
+ *     grounded description and a link to its atlas page.
+ *
+ * The marks only ever appear in paragraphs the harvest actually anchored
+ * (ids exist in this variant) — switching to original/transliteration
+ * variants simply yields no marks. No claim without an anchor, here too.
+ */
+import type { ChapterEntity, EntityKind } from "../../lib/atlas-graph";
+import { KINDS } from "../../lib/atlas-graph";
+
+interface Props {
+  workSlug: string;
+  entities: ChapterEntity[];
+}
+const { workSlug, entities } = Astro.props;
+
+const plural: Record<string, string> = Object.fromEntries(
+  KINDS.map((k) => [k.kind, k.plural]),
+);
+const byKind = KINDS.map((k) => ({
+  ...k,
+  items: entities.filter((e) => e.kind === k.kind),
+})).filter((g) => g.items.length > 0);
+
+const summaryLine = byKind
+  .map((g) => `${g.items.length} ${g.items.length === 1 ? g.kind : g.plural}`)
+  .join(" · ");
+
+// Client payload: only what the highlighter needs.
+const payload = entities.map((e) => ({
+  n: e.name,
+  k: e.kind,
+  s: e.slug,
+  g: e.page ? 1 : 0,
+  c: e.count,
+  d: e.desc ?? "",
+  m: e.match,
+  p: e.p,
+}));
+---
+
+{
+  entities.length > 0 && (
+    <aside class="chapter-atlas" id="chapter-atlas">
+      <details>
+        <summary>
+          <span class="ca-title">in this chapter</span>
+          <span class="ca-folio">{summaryLine}</span>
+        </summary>
+        <div class="ca-body">
+          {byKind.map((g) => (
+            <div class="ca-group">
+              <h3 class="ca-kind">{g.label}</h3>
+              <p class="ca-run">
+                {g.items.map((e, i) => (
+                  <>
+                    {i > 0 && <span class="ca-sep"> · </span>}
+                    {e.page ? (
+                      <a href={`/atlas/${plural[e.kind]}/${e.slug}/`}>{e.name}</a>
+                    ) : (
+                      <span>{e.name}</span>
+                    )}
+                  </>
+                ))}
+              </p>
+            </div>
+          ))}
+          <p class="ca-note" id="chapter-atlas-note">
+            Marked terms in the text are anchored by the harvest — select one
+            for its entry. <a href="/atlas/">The atlas</a>.
+          </p>
+        </div>
+      </details>
+
+      <div class="atlas-pop" id="atlas-pop" role="dialog" aria-label="Atlas entry" hidden>
+        <p class="pop-name" id="atlas-pop-name"></p>
+        <p class="pop-kind" id="atlas-pop-kind"></p>
+        <p class="pop-desc" id="atlas-pop-desc"></p>
+        <a class="pop-link" id="atlas-pop-link" href="/atlas/">view in the atlas</a>
+      </div>
+
+      <script type="application/json" id="chapter-atlas-data" set:html={JSON.stringify(payload)} />
+
+      <script is:inline>
+  (function () {
+    var node = document.getElementById("chapter-atlas-data");
+    if (!node || !node.textContent) return;
+    var entities;
+    try { entities = JSON.parse(node.textContent); } catch (e) { return; }
+    var PLURAL = { figure: "figures", group: "groups", idea: "ideas", place: "places", event: "events", object: "objects", animal: "animals" };
+
+    /* ── mark terms ──────────────────────────────────────────────── */
+    var isWord = function (ch) { return ch && /[\p{L}\p{N}]/u.test(ch); };
+    var totalMarks = 0;
+    var MAX_MARKS = 60;
+
+    function markIn(el, ent, idx) {
+      // longest surface first: "Phoebus Apollo" before "Apollo"
+      var terms = ent.m.slice().sort(function (a, b) { return b.length - a.length; });
+      var walker = document.createTreeWalker(el, NodeFilter.SHOW_TEXT, {
+        acceptNode: function (n) {
+          var p = n.parentElement;
+          while (p && p !== el) {
+            var t = p.tagName;
+            if (t === "A" || t === "BUTTON" || t === "SUP" || t === "MARK") return NodeFilter.FILTER_REJECT;
+            p = p.parentElement;
+          }
+          return NodeFilter.FILTER_ACCEPT;
+        },
+      });
+      var tn;
+      while ((tn = walker.nextNode())) {
+        var text = tn.nodeValue;
+        for (var ti = 0; ti < terms.length; ti++) {
+          var term = terms[ti];
+          var at = text.indexOf(term);
+          if (at === -1) {
+            at = text.toLowerCase().indexOf(term.toLowerCase());
+            if (at === -1) continue;
+          }
+          if (isWord(text[at - 1]) || isWord(text[at + term.length])) continue;
+          var btn = document.createElement("button");
+          btn.type = "button";
+          btn.className = "atlas-term";
+          btn.setAttribute("data-e", String(idx));
+          btn.setAttribute("aria-expanded", "false");
+          btn.textContent = text.slice(at, at + term.length);
+          var after = tn.splitText(at);
+          after.nodeValue = after.nodeValue.slice(term.length);
+          tn.parentNode.insertBefore(btn, after);
+          totalMarks++;
+          return true;
+        }
+      }
+      return false;
+    }
+
+    entities.forEach(function (ent, idx) {
+      if (totalMarks >= MAX_MARKS) return;
+      for (var i = 0; i < ent.p.length; i++) {
+        var el = document.getElementById(ent.p[i]);
+        if (el && markIn(el, ent, idx)) break; // one mark per entity
+      }
+    });
+
+    // The harvest anchors one variant (e.g. the transliteration for Indic
+    // texts). On a view where none of the anchored paragraphs exist, don't
+    // promise marked terms — say where they live instead.
+    if (totalMarks === 0) {
+      var note = document.getElementById("chapter-atlas-note");
+      if (note) {
+        note.childNodes[0].nodeValue =
+          "The harvest anchors this chapter in another reading view (original or transliteration) — the entries above still cover it. ";
+      }
+    }
+
+    /* ── popover ─────────────────────────────────────────────────── */
+    var pop = document.getElementById("atlas-pop");
+    if (!pop) return;
+    var elName = document.getElementById("atlas-pop-name");
+    var elKind = document.getElementById("atlas-pop-kind");
+    var elDesc = document.getElementById("atlas-pop-desc");
+    var elLink = document.getElementById("atlas-pop-link");
+    var openBtn = null;
+
+    function close() {
+      if (pop.hidden) return;
+      pop.hidden = true;
+      if (openBtn) openBtn.setAttribute("aria-expanded", "false");
+      openBtn = null;
+    }
+
+    function open(btn) {
+      var ent = entities[Number(btn.getAttribute("data-e"))];
+      if (!ent) return;
+      elName.textContent = ent.n;
+      elKind.textContent =
+        ent.k + " · " + ent.c + (ent.c === 1 ? " mention" : " mentions") + " in this work";
+      elDesc.textContent = ent.d || "";
+      elDesc.hidden = !ent.d;
+      if (ent.g) {
+        elLink.href = "/atlas/" + PLURAL[ent.k] + "/" + ent.s + "/";
+        elLink.hidden = false;
+      } else {
+        elLink.hidden = true;
+      }
+      pop.hidden = false;
+      var r = btn.getBoundingClientRect();
+      var pw = Math.min(340, window.innerWidth - 24);
+      pop.style.maxWidth = pw + "px";
+      var x = Math.min(Math.max(12, r.left), window.innerWidth - pw - 12);
+      var below = r.bottom + 8;
+      pop.style.left = x + "px";
+      pop.style.top = below + "px";
+      // flip above if clipped
+      var ph = pop.offsetHeight;
+      if (below + ph > window.innerHeight - 12) {
+        pop.style.top = Math.max(12, r.top - ph - 8) + "px";
+      }
+      btn.setAttribute("aria-expanded", "true");
+      openBtn = btn;
+    }
+
+    document.addEventListener("click", function (ev) {
+      var btn = ev.target.closest ? ev.target.closest(".atlas-term") : null;
+      if (btn) {
+        if (openBtn === btn) { close(); return; }
+        close();
+        open(btn);
+        return;
+      }
+      if (!pop.contains(ev.target)) close();
+    });
+    document.addEventListener("keydown", function (ev) {
+      if (ev.key === "Escape") close();
+    });
+    window.addEventListener("scroll", close, { passive: true });
+  })();
+      </script>
+    </aside>
+  )
+}
+
+<style is:global>
+  /* gloss-marks: quiet dotted underlines on anchored entity terms */
+  .atlas-term {
+    all: unset;
+    cursor: pointer;
+    border-bottom: 1px dotted var(--accent-soft);
+    transition: color 150ms ease-out, border-color 150ms ease-out;
+  }
+  .atlas-term:hover,
+  .atlas-term[aria-expanded="true"] {
+    color: var(--accent);
+    border-bottom-style: solid;
+    border-bottom-color: var(--accent);
+  }
+  .atlas-term:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+  }
+</style>
+
+<style>
+  .chapter-atlas {
+    max-width: var(--col-main);
+    margin: var(--s-12) auto 0;
+    font-family: var(--font-body);
+  }
+  details {
+    border-top: 1px solid var(--rule);
+    border-bottom: 1px solid var(--rule);
+  }
+  summary {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: var(--s-4);
+    padding: var(--s-3) 0;
+    cursor: pointer;
+    list-style: none;
+  }
+  summary::-webkit-details-marker {
+    display: none;
+  }
+  .ca-title {
+    font-size: 17px;
+    font-weight: 600;
+    font-variant: small-caps;
+    text-transform: lowercase;
+    letter-spacing: 0.08em;
+    color: var(--ink);
+  }
+  .ca-title::before {
+    content: "¶ ";
+    color: var(--accent-soft);
+  }
+  details[open] .ca-title,
+  summary:hover .ca-title {
+    color: var(--accent);
+  }
+  .ca-folio {
+    font-size: 15px;
+    font-variant-numeric: oldstyle-nums;
+    color: var(--ink-muted);
+    text-align: right;
+  }
+  .ca-body {
+    padding: var(--s-2) 0 var(--s-5);
+  }
+  .ca-group {
+    margin-bottom: var(--s-4);
+  }
+  .ca-kind {
+    font-size: 15px;
+    font-weight: 600;
+    font-variant: small-caps;
+    text-transform: lowercase;
+    letter-spacing: 0.06em;
+    color: var(--ink-muted);
+    margin: 0 0 var(--s-1);
+  }
+  .ca-run {
+    font-size: 17px;
+    line-height: 1.9;
+    margin: 0;
+  }
+  .ca-run a {
+    color: var(--ink);
+    text-decoration: none;
+    border-bottom: 1px solid var(--rule);
+    transition: color 150ms ease-out, border-color 150ms ease-out;
+  }
+  .ca-run a:hover {
+    color: var(--accent);
+    border-color: var(--accent-soft);
+  }
+  .ca-run > span {
+    color: var(--ink-muted);
+  }
+  .ca-sep {
+    color: var(--accent-soft);
+  }
+  .ca-note {
+    font-size: 15px;
+    color: var(--ink-muted);
+    margin: var(--s-2) 0 0;
+    border-top: 1px solid var(--rule);
+    padding-top: var(--s-3);
+  }
+  .ca-note a {
+    color: var(--accent);
+    text-decoration: none;
+    border-bottom: 1px solid var(--accent-soft);
+  }
+
+  /* the entity card */
+  .atlas-pop {
+    position: fixed;
+    z-index: 60;
+    background: var(--paper);
+    border: 1px solid var(--rule);
+    box-shadow: 0 4px 24px color-mix(in srgb, var(--ink) 12%, transparent);
+    padding: var(--s-4) var(--s-5);
+    font-family: var(--font-body);
+  }
+  .pop-name {
+    font-size: 18px;
+    font-weight: 600;
+    margin: 0 0 2px;
+    color: var(--ink);
+  }
+  .pop-kind {
+    font-size: 14px;
+    font-variant: small-caps;
+    text-transform: lowercase;
+    letter-spacing: 0.05em;
+    color: var(--ink-muted);
+    margin: 0 0 var(--s-2);
+  }
+  .pop-desc {
+    font-size: 16px;
+    line-height: 1.55;
+    color: var(--ink);
+    margin: 0 0 var(--s-3);
+  }
+  .pop-link {
+    font-size: 15px;
+    font-variant: small-caps;
+    text-transform: lowercase;
+    letter-spacing: 0.05em;
+    color: var(--accent);
+    text-decoration: none;
+    border-bottom: 1px solid var(--accent-soft);
+  }
+</style>

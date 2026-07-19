@@ -1,14 +1,70 @@
 ---
 import Base from "../layouts/Base.astro";
-import { manifest, readWorkIndex } from "../lib/corpus";
+import { manifest, readWorkIndex, CORPUS_ROOT } from "../lib/corpus";
 import { buildSpectrum } from "../lib/spectrum";
+import QuoteBlock from "../components/atlas-ui/QuoteBlock.astro";
+import { atlasMeta, citedTargets, entityIndex, KINDS, fmt as afmt } from "../lib/atlas-graph";
+import { readFileSync, readdirSync, existsSync } from "node:fs";
+import { join } from "node:path";
 
 const m = manifest();
 
-// All works that have a cover image — eligible for the featured slot.
-// We embed the full eligible pool in the page (as JSON), and an inline
-// script picks one at random on every page load. The first pick is also
-// rendered server-side so search engines + no-JS readers see real content.
+/* ── Incipits: real opening lines in their original scripts, read from the
+   corpus at build time. The nine scripts of the library are its most
+   distinctive visual material; the masthead sets them as brand. Fully
+   data-driven — a candidate whose files are missing simply doesn't render. */
+interface Incipit {
+  text: string;
+  work: string;
+  title: string;
+  author: string;
+  script: "greek" | "devanagari" | "arabic" | "latin";
+}
+function firstLine(workSlug: string): string | null {
+  const chaptersDir = join(CORPUS_ROOT, "works", workSlug, "chapters");
+  if (!existsSync(chaptersDir)) return null;
+  const chapters = readdirSync(chaptersDir).sort();
+  if (chapters.length === 0) return null;
+  for (const sidecar of ["original.paragraphs.json", "transliteration.paragraphs.json"]) {
+    const p = join(chaptersDir, chapters[0], sidecar);
+    if (!existsSync(p)) continue;
+    try {
+      const arr = JSON.parse(readFileSync(p, "utf-8"));
+      const text: string | undefined = arr?.[0]?.text;
+      if (!text) continue;
+      // drop typographic rules (═══) and blank lines; take the first real line
+      const line = text
+        .split("\n")
+        .map((l: string) => l.trim())
+        .filter((l: string) => l && !/^[═─—–\-＿_\s]+$/.test(l))[0];
+      if (!line) continue;
+      return line.length > 90 ? line.slice(0, 88).trimEnd() + " …" : line;
+    } catch {
+      continue;
+    }
+  }
+  return null;
+}
+function scriptOf(s: string): Incipit["script"] {
+  if (/[؀-ۿ]/.test(s)) return "arabic";
+  if (/[ऀ-ॿ]/.test(s)) return "devanagari";
+  if (/[Ͱ-Ͽἀ-῿]/.test(s)) return "greek";
+  return "latin";
+}
+const incipitCandidates = [
+  m.works.find((w) => /iliad/i.test(w.title) && /homer/i.test(w.author)),
+  m.works.find((w) => w.title === "Rigveda"),
+  m.works.find((w) => /iqbal/i.test(w.author) && /bang/i.test(w.title)),
+].filter(Boolean) as typeof m.works;
+const incipits: Incipit[] = [];
+for (const w of incipitCandidates) {
+  const text = firstLine(w.slug);
+  if (text)
+    incipits.push({ text, work: w.slug, title: w.title, author: w.author, script: scriptOf(text) });
+}
+
+/* ── Featured reading, with an editorial floor: never a nameless author,
+   never a blurbless work. Rotation happens client-side within the pool. */
 interface FeaturedEntry {
   slug: string;
   title: string;
@@ -18,6 +74,8 @@ interface FeaturedEntry {
 }
 const featuredPool: FeaturedEntry[] = [];
 for (const w of m.works) {
+  if (!w.description || w.description.length < 80) continue;
+  if (/^(unknown|anonymous)/i.test(w.author)) continue;
   const idx = readWorkIndex(w.slug);
   if (!idx?.cover_url) continue;
   featuredPool.push({
@@ -28,60 +86,155 @@ for (const w of m.works) {
     cover_url: idx.cover_url,
   });
 }
-// Deterministic SSR pick (first in pool); the inline script swaps on load.
 const ssrPick = featuredPool[0]!;
 
-// Era spectrum — chronological, scaled bars — the homepage centerpiece.
+/* ── Era spectrum. */
 const spectrum = buildSpectrum(m.eras);
 
-// Live totals.
-const totalChapters = m.works.reduce((s, w) => s + (w.total_logical_chapters ?? 0), 0);
-const totalVariants = m.works.reduce((s, w) => s + (w.total_variant_entries ?? 0), 0);
+/* ── Atlas presence (guarded: absent artifacts → section hidden). */
+const atlas = atlasMeta();
+const atlasProof = atlas
+  ? citedTargets("work").find((t) => t.sample?.quote)?.sample
+  : null;
+// merged distinct entities per kind (consistent with the state ledger's
+// total — meta.kinds counts pre-merge mention rows, a different basis)
+const kindCounts = new Map<string, number>();
+if (atlas)
+  for (const e of entityIndex())
+    if (!e.see) kindCounts.set(e.kind, (kindCounts.get(e.kind) ?? 0) + 1);
+const atlasKindLine = atlas
+  ? KINDS.map((k) => `${afmt(kindCounts.get(k.kind) ?? 0)} ${k.plural}`).slice(0, 4)
+  : [];
+const atlasEntities = atlas ? entityIndex().filter((e) => !e.see).length : 0;
 
+/* ── Live totals for the colophon line. */
+const totalChapters = m.works.reduce((s, w) => s + (w.total_logical_chapters ?? 0), 0);
 const fmt = (n: number) => n.toLocaleString("en-US");
 
-// The four monumental hero numbers. "25 centuries" lives in the headline,
-// so it is intentionally not repeated here.
-const heroNumbers = [
-  { value: fmt(m.counts.works), label: "works" },
-  { value: fmt(totalChapters), label: "chapters" },
-  { value: fmt(m.counts.languages), label: "languages" },
-  { value: fmt(m.counts.authors), label: "authors" },
-];
+/* ── The state of the library: the record, as a ledger. Every number
+   derives from the manifest or the atlas artifacts at build time. */
+const stateRows = [
+  { label: "Works carried into English", note: "from Vedic hymns to Victorian law", value: m.counts.works },
+  { label: "Chapters set for reading", note: "prose, verse and manuscript", value: totalChapters },
+  atlas?.paragraphs_indexed
+    ? { label: "Addressable passages", note: "every paragraph a stable, citable anchor", value: atlas.paragraphs_indexed }
+    : null,
+  atlas
+    ? { label: "Entities mapped in the atlas", note: "figures, ideas, places, peoples and more", value: atlasEntities }
+    : null,
+  atlas
+    ? { label: "Citations traced, stance-typed", note: "authority · endorsed · refuted · extended", value: atlas.totals.citations }
+    : null,
+  atlas
+    ? { label: "Verbatim quotations anchored", note: "no claim without its passage", value: atlas.totals.entity_verbatim_quotes }
+    : null,
+].filter(Boolean) as { label: string; note: string; value: number }[];
+const harvestDone = atlas?.windows_synthesized ?? 0;
+const harvestTotal = atlas?.windows_total ?? 0;
+const stateAsOf = atlas
+  ? new Date(atlas.generated_at).toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" })
+  : null;
 
-const description = `A premium reading platform for translated philosophical and classical texts. ${m.counts.works} works, ${totalChapters.toLocaleString("en-US")} logical chapters, ${totalVariants.toLocaleString("en-US")} variant entries across ${m.counts.languages} languages. Free, public, open source.`;
+
+const description = `A free, open library of ${fmt(m.counts.works)} classical works in ${m.counts.languages} languages, carried into English — with an atlas of the ideas, figures and citations inside them, every claim anchored to a verbatim paragraph.`;
 ---
 
-<Base
-  title="Falsafa"
-  description={description}
->
+<Base title="Falsafa" description={description}>
   <div class="container">
-    {/* 1 ─ Masthead: the scale, stated plainly */}
+    {/* 1 ─ Masthead: the claim, the colophon, and the scripts themselves */}
     <section class="masthead">
-      <p class="kicker">A living library of translated thought</p>
-      <h1 class="masthead-title">Twenty-five centuries of thought, carried into English.</h1>
-      <p class="masthead-lede">
-        Free and open source. Built to be read by people &mdash; and cited, honestly, by machines.
-      </p>
-      <div class="hero-numbers">
-        {heroNumbers.map((n) => (
-          <div class="hero-number">
-            <span class="hero-number-value">{n.value}</span>
-            <span class="hero-number-label">{n.label}</span>
-          </div>
-        ))}
+      <div class="masthead-main">
+        <h1 class="masthead-title">Twenty-five centuries of thought, carried into English.</h1>
+        <p class="masthead-lede">
+          Free and open source. Built to be read by people &mdash; and cited,
+          honestly, by machines.
+        </p>
+        <p class="colophon">
+          <strong>{fmt(m.counts.works)}</strong> works ·
+          <strong>{fmt(totalChapters)}</strong> chapters ·
+          <strong>{fmt(m.counts.authors)}</strong> authors ·
+          <strong>{m.counts.languages}</strong> languages, from Vedic Sanskrit
+          to Victorian English — a living library, growing as it is read.
+        </p>
       </div>
+      {
+        incipits.length > 0 && (
+          <aside class="incipits" aria-label="Opening lines from the library">
+            {incipits.map((inc) => (
+              <a
+                class={`incipit incipit-${inc.script}`}
+                href={`/works/${inc.work}/`}
+                dir={inc.script === "arabic" ? "rtl" : undefined}
+              >
+                <span class="incipit-text">{inc.text}</span>
+                <span class="incipit-src" dir="ltr">
+                  {inc.title} · {inc.author}
+                </span>
+              </a>
+            ))}
+          </aside>
+        )
+      }
     </section>
 
-    {/* 2 ─ The spectrum: the corpus's true shape across time. Each era is a
-        link; the tallest era gets focal styling. role=list + per-bar
-        aria-labels carry the data to assistive tech. */}
+    {/* 2 ─ The state of the library: the record, as a ledger */}
+    {
+      stateRows.length > 0 && (
+        <section class="state" aria-labelledby="state-heading">
+          <div class="running-head">
+            <h2 id="state-heading" class="rh-title">the state of the library</h2>
+            {stateAsOf && <span class="rh-folio">as of {stateAsOf}</span>}
+          </div>
+          <dl class="state-ledger">
+            {stateRows.map((r) => (
+              <div class="state-row">
+                <dt>
+                  <span class="state-label">{r.label}</span>
+                  <span class="state-note">{r.note}</span>
+                </dt>
+                <dd>{fmt(r.value)}</dd>
+              </div>
+            ))}
+            {harvestTotal > 0 && (
+              <div class="state-row state-row--harvest">
+                <dt>
+                  <span class="state-label">The harvest, under way</span>
+                  <span class="state-note">
+                    the atlas grows on its own — every page redrawn from the
+                    data at each build
+                  </span>
+                </dt>
+                <dd class="state-harvest">
+                  <span
+                    class="harvest-track"
+                    role="img"
+                    aria-label={`${fmt(harvestDone)} of ${fmt(harvestTotal)} passages of text mapped`}
+                  >
+                    <span
+                      class="harvest-bar"
+                      style={`width:${Math.max((harvestDone / harvestTotal) * 100, 1)}%`}
+                    />
+                  </span>
+                  <span class="harvest-nums">
+                    {fmt(harvestDone)}&hairsp;/&hairsp;{fmt(harvestTotal)}
+                  </span>
+                </dd>
+              </div>
+            )}
+          </dl>
+        </section>
+      )
+    }
+
+    {/* 3 ─ The spectrum: the corpus's true shape across time */}
     <section class="spectrum-section" aria-labelledby="spectrum-heading">
-      <h2 id="spectrum-heading" class="section-kicker">The shape of the corpus</h2>
-      <p class="section-intro">
-        Where those {fmt(m.counts.works)} works fall in time &mdash; a Greco-Roman summit, a quiet
-        medieval trough, a second wave after 1800. Each era is a door.
+      <div class="running-head">
+        <h2 id="spectrum-heading" class="rh-title">the shape of the corpus</h2>
+        <span class="rh-folio">{fmt(m.counts.works)} works</span>
+      </div>
+      <p class="section-note">
+        Where the works fall in time — a Greco-Roman summit, a quiet medieval
+        trough, a second wave after 1800. Each era is a door.
       </p>
       <div class="spectrum" role="list">
         {spectrum.map((b) => (
@@ -98,27 +251,58 @@ const description = `A premium reading platform for translated philosophical and
           </a>
         ))}
       </div>
-      <p class="all-works-link">
-        <a href="/works/">Browse all {fmt(m.counts.works)} works →</a>
+      <p class="quiet-link">
+        <a href="/works/">Browse the full catalogue</a>
       </p>
     </section>
 
-    {/* 3 ─ Featured reading (rotates on load). Demoted below the scale story;
-        the warm on-ramp, not the headline. */}
+    {/* 3 ─ The atlas: the map drawn from the texts (live harvest data) */}
+    {
+      atlas && (
+        <section class="atlas-teaser" aria-labelledby="atlas-heading">
+          <div class="running-head">
+            <h2 id="atlas-heading" class="rh-title">the atlas</h2>
+            <span class="rh-folio">{afmt(atlasEntities)} entities so far</span>
+          </div>
+          <div class="atlas-cols">
+            <div>
+              <p class="atlas-lede">
+                A map of the library drawn from the texts themselves:
+                {atlasKindLine.join(", ")} — and every citation, stance-typed.
+                No claim without a verbatim quotation; every entry links to the
+                exact paragraph that carries it. It grows on its own as the
+                harvest reads deeper.
+              </p>
+              <p class="quiet-link">
+                <a href="/atlas/">Open the atlas</a>
+              </p>
+            </div>
+            {atlasProof?.quote && (
+              <div class="atlas-proof">
+                <QuoteBlock work={atlasProof.from} quote={atlasProof.quote} />
+              </div>
+            )}
+          </div>
+        </section>
+      )
+    }
+
+    {/* 4 ─ Featured reading (rotates within an editorially-floored pool) */}
     <section class="featured" data-featured>
       <a href={`/works/${ssrPick.slug}/`} class="featured-cover" data-featured-link>
         <img src={ssrPick.cover_url} alt={`Cover for ${ssrPick.title}`} data-featured-img />
       </a>
       <div class="featured-text">
-        <p class="kicker">Featured reading</p>
-        <h2 class="featured-title" data-featured-title>{ssrPick.title}</h2>
+        <div class="running-head rh-tight">
+          <h2 class="rh-title">featured reading</h2>
+        </div>
+        <p class="featured-title" data-featured-title>{ssrPick.title}</p>
         <p class="featured-author" data-featured-author>{ssrPick.author}</p>
         <p class="featured-desc" data-featured-desc>{ssrPick.description}</p>
         <a href={`/works/${ssrPick.slug}/`} class="cta" data-featured-cta>Begin reading →</a>
       </div>
     </section>
 
-    {/* Embedded pool for the on-load random swap. */}
     <script type="application/json" id="featured-pool" set:html={JSON.stringify(featuredPool)} />
 
     <script is:inline>
@@ -152,33 +336,37 @@ const description = `A premium reading platform for translated philosophical and
       })();
     </script>
 
-    {/* 4 ─ The justification: the book and atlas, and the engine. */}
+    {/* 5 ─ The justification: the book behind it, and the engine beneath it */}
     <section class="why">
       <div class="why-col">
-        <p class="kicker">Why this library exists</p>
-        <h2>Every classical text that survives was carried</h2>
+        <div class="running-head rh-tight">
+          <h2 class="rh-title">why this library exists</h2>
+        </div>
+        <p class="why-h">Every classical text that survives was carried</p>
         <p class="why-text">
-          Aristotle did not reach you in Greek alone. He reached you because a patriarch in
-          Baghdad, a monk on the Euphrates, a judge in Cordoba and a wandering Scot each decided
-          one book was worth the labor of another language. Falsafa is that practice continued
-          for the newest readers, human and machine. The argument has a book and an atlas behind
-          it.
+          Aristotle did not reach you in Greek alone. He reached you because a
+          patriarch in Baghdad, a monk on the Euphrates, a judge in Cordoba and
+          a wandering Scot each decided one book was worth the labor of another
+          language. Falsafa is that practice continued for the newest readers,
+          human and machine. The argument has a book and an atlas behind it.
         </p>
         <p class="why-links">
-          <a href="/book/">Read Carried Across, the book →</a>
-          <a href="/atlas/">Trace the atlas of carried books →</a>
+          <a href="/book/">Carried Across, the book</a>
+          <a href="/atlas/">The atlas</a>
         </p>
       </div>
       <div class="why-col engine-teaser">
-        <p class="kicker">Under the hood</p>
-        <h2>A librarian, with no vector database</h2>
+        <div class="running-head rh-tight">
+          <h2 class="rh-title">under the hood</h2>
+        </div>
+        <p class="why-h">A librarian, with no vector database</p>
         <p class="why-text">
-          The corpus ships as markdown with stable paragraph IDs and ten deterministic tools, so
-          any AI can read it and cite it honestly. The evals, the thesis and the live demo live
-          in the engine room.
+          The corpus ships as markdown with stable paragraph IDs and ten
+          deterministic tools, so any AI can read it and cite it honestly. The
+          evals, the thesis and the live demo live in the engine room.
         </p>
         <p class="why-links">
-          <a href="/engine/">Enter the engine room →</a>
+          <a href="/engine/">The engine room</a>
         </p>
       </div>
     </section>
@@ -192,39 +380,175 @@ const description = `A premium reading platform for translated philosophical and
     padding: var(--s-12) var(--s-8) var(--s-24);
   }
 
-  /* ── Shared editorial bits ─────────────────────────────────────────── */
-  .kicker {
-    font-family: var(--font-sans);
-    font-size: 12px;
+  /* ── Running heads (the named section-header system) ───────────────── */
+  .running-head {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: var(--s-4);
+    border-top: 1px solid var(--rule);
+    padding-top: var(--s-3);
+    margin-bottom: var(--s-6);
+  }
+  .rh-title {
+    font-family: var(--font-body);
+    font-size: 18px;
     font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.12em;
+    letter-spacing: 0.08em;
+    text-transform: lowercase;
+    font-variant: small-caps;
+    color: var(--ink);
+    margin: 0;
+  }
+  .rh-folio {
+    font-family: var(--font-body);
+    font-size: 16px;
+    font-variant-numeric: oldstyle-nums;
+    color: var(--ink-muted);
+    white-space: nowrap;
+  }
+  .rh-tight {
+    margin-bottom: var(--s-4);
+  }
+  .section-note {
+    font-family: var(--font-body);
+    font-size: 18px;
+    line-height: 1.6;
+    color: var(--ink-muted);
+    max-width: 62ch;
+    margin: 0 0 var(--s-10);
+    text-wrap: pretty;
+  }
+  .quiet-link {
+    margin: var(--s-4) 0 0;
+  }
+  .quiet-link a {
+    font-family: var(--font-body);
+    font-size: 17px;
+    font-variant: small-caps;
+    text-transform: lowercase;
+    letter-spacing: 0.05em;
     color: var(--accent);
-    margin: 0 0 var(--s-3);
+    text-decoration: none;
+    border-bottom: 1px solid var(--accent-soft);
   }
 
-  /* Sections after the masthead share a top rule + breathing room. */
+  /* Sections after the masthead share breathing room. */
+  .state,
   .spectrum-section,
+  .atlas-teaser,
   .featured,
   .why {
     margin-top: var(--s-24);
-    padding-top: var(--s-12);
-    border-top: 1px solid var(--rule);
+  }
+
+  /* ── The state of the library ──────────────────────────────────────── */
+  .state-ledger {
+    margin: 0;
+  }
+  .state-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: var(--s-8);
+    padding: var(--s-4) 0;
+    border-bottom: 1px solid var(--rule);
+  }
+  .state-row dt {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    min-width: 0;
+  }
+  .state-label {
+    font-family: var(--font-body);
+    font-size: 21px;
+    font-weight: 600;
+    color: var(--ink);
+    line-height: 1.35;
+  }
+  .state-note {
+    font-family: var(--font-body);
+    font-size: 16px;
+    color: var(--ink-muted);
+    line-height: 1.5;
+  }
+  .state-row dd {
+    margin: 0;
+    font-family: var(--font-display);
+    font-size: clamp(30px, 3.4vw, 44px);
+    font-weight: 600;
+    font-variant-numeric: oldstyle-nums tabular-nums;
+    letter-spacing: -0.01em;
+    color: var(--ink);
+    white-space: nowrap;
+  }
+  .state-row--harvest dd.state-harvest {
+    display: flex;
+    align-items: center;
+    gap: var(--s-4);
+    font-size: 19px;
+    font-family: var(--font-body);
+    font-weight: 400;
+    color: var(--ink-muted);
+    flex: 1;
+    max-width: 46%;
+  }
+  .harvest-track {
+    display: block;
+    flex: 1;
+    height: 8px;
+    background: repeating-linear-gradient(90deg, var(--rule) 0 1px, transparent 1px 8px);
+  }
+  .harvest-bar {
+    display: block;
+    height: 100%;
+    background: var(--accent);
+    transform-origin: left;
+  }
+  @media (prefers-reduced-motion: no-preference) {
+    .harvest-bar {
+      animation: harvest-grow 700ms cubic-bezier(0.16, 1, 0.3, 1) both;
+    }
+    @keyframes harvest-grow {
+      from {
+        transform: scaleX(0);
+      }
+      to {
+        transform: scaleX(1);
+      }
+    }
+  }
+  @media (max-width: 699px) {
+    .state-row {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: var(--s-2);
+    }
+    .state-row--harvest dd.state-harvest {
+      max-width: none;
+      width: 100%;
+    }
   }
 
   /* ── 1. Masthead ───────────────────────────────────────────────────── */
   .masthead {
     padding-top: var(--s-8);
+    display: grid;
+    grid-template-columns: minmax(0, 7fr) minmax(0, 4fr);
+    gap: var(--s-16);
+    align-items: start;
   }
 
   .masthead-title {
     font-family: var(--font-display);
-    font-size: var(--fs-h1);
+    font-size: clamp(54px, 5.6vw, 80px);
     font-weight: 700;
     line-height: 1.08;
     letter-spacing: -0.025em;
     margin: 0 0 var(--s-5);
     max-width: 20ch;
+    text-wrap: balance;
   }
 
   .masthead-lede {
@@ -234,72 +558,86 @@ const description = `A premium reading platform for translated philosophical and
     color: var(--ink-muted);
     margin: 0 0 var(--s-10);
     max-width: 48ch;
+    text-wrap: pretty;
   }
 
-  .hero-numbers {
-    display: flex;
-    flex-wrap: wrap;
-    gap: var(--s-6) var(--s-12);
-    padding-top: var(--s-8);
+  .colophon {
+    font-family: var(--font-body);
+    font-size: 19px;
+    line-height: 1.7;
+    color: var(--ink-muted);
     border-top: 1px solid var(--rule);
+    padding-top: var(--s-4);
+    margin: 0;
+    max-width: 52ch;
+    font-variant-numeric: oldstyle-nums;
+    text-wrap: pretty;
+  }
+  .colophon strong {
+    color: var(--ink);
+    font-weight: 600;
   }
 
-  .hero-number {
+  /* The incipit column: original scripts as brand material. */
+  .incipits {
     display: flex;
     flex-direction: column;
+    gap: var(--s-6);
+    border-left: 1px solid var(--rule);
+    padding-left: var(--s-8);
   }
-
-  .hero-number-value {
-    font-family: var(--font-display);
-    font-weight: 700;
-    font-size: clamp(40px, 6vw, 64px);
-    line-height: 0.95;
-    letter-spacing: -0.03em;
+  .incipit {
+    text-decoration: none;
+    display: block;
+  }
+  .incipit-text {
+    display: block;
+    font-family: var(--font-body);
+    font-size: 25px;
+    line-height: 1.6;
     color: var(--ink);
+    transition: color 150ms ease-out;
+    text-wrap: pretty;
   }
-
-  .hero-number-label {
-    font-family: var(--font-sans);
-    font-size: 12px;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.1em;
+  .incipit:hover .incipit-text {
+    color: var(--accent);
+  }
+  .incipit-greek .incipit-text {
+    font-style: italic;
+  }
+  .incipit-devanagari .incipit-text {
+    font-family: var(--font-devanagari), var(--font-body);
+  }
+  .incipit-arabic .incipit-text {
+    font-family: var(--font-nastaliq), var(--font-body);
+    font-size: 22px;
+    line-height: 2.2;
+  }
+  .incipit-src {
+    display: block;
+    margin-top: var(--s-1);
+    font-family: var(--font-body);
+    font-size: 15px;
+    font-variant: small-caps;
+    text-transform: lowercase;
+    letter-spacing: 0.05em;
     color: var(--ink-muted);
-    margin-top: var(--s-3);
   }
 
-  @media (max-width: 640px) {
-    .hero-numbers {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: var(--s-6) var(--s-8);
+  @media (max-width: 899px) {
+    .masthead {
+      grid-template-columns: 1fr;
+      gap: var(--s-10);
+    }
+    .incipits {
+      border-left: none;
+      padding-left: 0;
+      border-top: 1px solid var(--rule);
+      padding-top: var(--s-6);
     }
   }
 
   /* ── 2. The spectrum ───────────────────────────────────────────────── */
-  .section-kicker {
-    font-family: var(--font-sans);
-    font-size: 12px;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.12em;
-    color: var(--accent);
-    margin: 0 0 var(--s-3);
-  }
-
-  .section-intro {
-    font-family: var(--font-display);
-    font-style: italic;
-    color: var(--ink-muted);
-    font-size: var(--fs-h3);
-    line-height: 1.4;
-    max-width: 60ch;
-    margin: 0 0 var(--s-12);
-  }
-
-  /* Desktop: vertical bars sharing a baseline axis (the ::after line), with
-     a fixed label zone below the axis so every bar base aligns even when a
-     label wraps to two lines. */
   .spectrum {
     --label-zone: 44px;
     position: relative;
@@ -334,11 +672,12 @@ const description = `A premium reading platform for translated philosophical and
 
   .spectrum-count {
     font-family: var(--font-display);
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 600;
     color: var(--ink-muted);
     margin-bottom: var(--s-1);
     transition: color 0.2s ease;
+    font-variant-numeric: oldstyle-nums;
   }
 
   .spectrum-bar {
@@ -350,8 +689,6 @@ const description = `A premium reading platform for translated philosophical and
     transition: background 0.2s ease;
   }
 
-  /* Focal peak: mix the accent toward the ink so it deepens in light
-     themes and brightens in dark — the tallest bar stands out either way. */
   .spectrum-era.is-peak .spectrum-bar {
     background: color-mix(in srgb, var(--accent) 78%, var(--ink));
   }
@@ -362,11 +699,11 @@ const description = `A premium reading platform for translated philosophical and
     align-items: flex-start;
     justify-content: center;
     padding-top: var(--s-2);
-    font-family: var(--font-sans);
-    font-size: 11px;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.03em;
+    font-family: var(--font-body);
+    font-size: 14px;
+    font-variant: small-caps;
+    text-transform: lowercase;
+    letter-spacing: 0.04em;
     line-height: 1.2;
     text-align: center;
     color: var(--ink-muted);
@@ -390,8 +727,7 @@ const description = `A premium reading platform for translated philosophical and
     outline-offset: 4px;
   }
 
-  /* Mobile: 10 thin vertical bars are illegible — switch to a horizontal
-     bar list (label · bar · count per row). Same data, same links. */
+  /* Mobile: horizontal ledger rows (label · bar · count). */
   @media (max-width: 640px) {
     .spectrum {
       display: block;
@@ -434,12 +770,30 @@ const description = `A premium reading platform for translated philosophical and
     }
   }
 
-  .all-works-link {
+  /* ── 3. Atlas teaser ───────────────────────────────────────────────── */
+  .atlas-cols {
+    display: grid;
+    grid-template-columns: minmax(0, 6fr) minmax(0, 5fr);
+    gap: var(--s-16);
+    align-items: start;
+  }
+  .atlas-lede {
+    font-family: var(--font-body);
+    font-size: 19px;
+    line-height: 1.65;
     margin: 0;
-    font-family: var(--font-sans);
+    max-width: 58ch;
+    text-wrap: pretty;
+    font-variant-numeric: oldstyle-nums;
+  }
+  @media (max-width: 899px) {
+    .atlas-cols {
+      grid-template-columns: 1fr;
+      gap: var(--s-8);
+    }
   }
 
-  /* ── 3. Featured reading (demoted) ─────────────────────────────────── */
+  /* ── 4. Featured reading ───────────────────────────────────────────── */
   .featured {
     display: grid;
     grid-template-columns: 1fr;
@@ -464,6 +818,11 @@ const description = `A premium reading platform for translated philosophical and
 
   .featured-cover:hover {
     transform: scale(1.01);
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .featured-cover:hover {
+      transform: none;
+    }
   }
 
   .featured-cover img {
@@ -501,14 +860,15 @@ const description = `A premium reading platform for translated philosophical and
 
   .cta {
     display: inline-block;
-    font-family: var(--font-sans);
-    font-weight: 500;
+    font-family: var(--font-body);
+    font-weight: 600;
     color: var(--accent);
     border-bottom: 1px solid currentColor;
     padding-bottom: 2px;
+    text-decoration: none;
   }
 
-  /* ── 4. Why this library exists ────────────────────────────────────── */
+  /* ── 5. Why this library exists ────────────────────────────────────── */
   .why {
     display: grid;
     grid-template-columns: 1fr;
@@ -522,13 +882,14 @@ const description = `A premium reading platform for translated philosophical and
     }
   }
 
-  .why h2 {
+  .why-h {
     font-family: var(--font-display);
     font-size: var(--fs-h2);
     font-weight: 600;
     line-height: 1.2;
     margin: 0 0 var(--s-4);
     max-width: 24ch;
+    text-wrap: balance;
   }
 
   .why-text {
@@ -537,6 +898,7 @@ const description = `A premium reading platform for translated philosophical and
     line-height: var(--lh-body);
     max-width: 58ch;
     margin: 0 0 var(--s-5);
+    text-wrap: pretty;
   }
 
   .why-links {
@@ -544,12 +906,18 @@ const description = `A premium reading platform for translated philosophical and
     flex-direction: column;
     gap: var(--s-2);
     margin: 0;
-    font-family: var(--font-sans);
-    font-weight: 500;
   }
 
   .why-links a {
+    font-family: var(--font-body);
+    font-size: 17px;
+    font-variant: small-caps;
+    text-transform: lowercase;
+    letter-spacing: 0.05em;
     color: var(--accent);
+    text-decoration: none;
+    border-bottom: 1px solid var(--accent-soft);
+    align-self: flex-start;
   }
 
   .engine-teaser {

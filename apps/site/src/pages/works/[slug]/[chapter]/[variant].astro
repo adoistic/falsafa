@@ -1,7 +1,8 @@
 ---
 import type { GetStaticPaths } from "astro";
 import Reader from "../../../../layouts/Reader.astro";
-import { works as atlasWorks } from "../../../../lib/atlas/data.ts";
+import { workAtlas, workOntology } from "../../../../lib/atlas-graph";
+import ChapterAtlas from "../../../../components/atlas-ui/ChapterAtlas.astro";
 import VariantSwitcher from "../../../../components/VariantSwitcher.astro";
 import ChapterBody from "../../../../components/ChapterBody.astro";
 import {
@@ -70,9 +71,13 @@ function bylineFor(v: ChapterVariantContent) {
   return null;
 }
 const byline = bylineFor(variant);
-// Atlas reconciliation: single-chapter works redirect straight here, so the
-// journey link must live on the reader page as well.
-const atlasEntry = atlasWorks.find((aw) => aw.read_slug === workSlug) ?? null;
+// Atlas wiring: single-chapter works redirect straight here, so the atlas
+// link must live on the reader page as well. Present only when the ontology
+// harvest has mapped this work (data-driven; appears on rebuild).
+const wAtlas = workAtlas(workSlug);
+// This chapter's anchored entities — feeds the "in this chapter" panel and
+// the inline gloss-mark highlighter. Empty for unharvested works/chapters.
+const chapterEntities = workOntology(workSlug)?.chapters?.[chapterSlug] ?? [];
 
 /**
  * Some source titles are entirely uppercase ("INTRODUCTION", "CHAPTER I").
@@ -94,13 +99,13 @@ const displayChapterTitle = softTitleCase(variant.meta.chapter_title);
 ---
 
 <Reader
+  ogImage={`/og/works/${workSlug}.png`}
   title={isSingleChapter ? work.title : `${variant.meta.chapter_title} · ${work.title}`}
   description={
     isSingleChapter
       ? `${work.title} by ${work.author} — ${variantType}`
       : `${work.title} by ${work.author} — chapter ${variant.meta.chapter_number}, ${variantType}`
   }
-  ogImage={idx?.cover_url ?? undefined}
   layout={variant.meta.layout}
 >
   {idx?.cover_url && (
@@ -138,9 +143,9 @@ const displayChapterTitle = softTitleCase(variant.meta.chapter_title);
         )}
       </p>
     )}
-    {atlasEntry && (
+    {wAtlas && (
       <p class="atlas-journey">
-        <a href={`/atlas/works/${atlasEntry.id}/`}>Trace this book's journey in the atlas &rarr;</a>
+        <a href={`/works/${workSlug}/#atlas`}>In the atlas</a>
       </p>
     )}
     <VariantSwitcher meta={variant.meta} workSlug={work.slug} current={variantType as ContentType} />
@@ -153,6 +158,8 @@ const displayChapterTitle = softTitleCase(variant.meta.chapter_title);
     chapterSlug={chapterSlug}
     variantFile={variant.variant.file}
   />
+
+  <ChapterAtlas workSlug={workSlug} entities={chapterEntities} />
 
   {!isSingleChapter && (
     <footer class="reader-footer">

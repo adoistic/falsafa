@@ -1,0 +1,52 @@
+---
+/**
+ * RunningHead — the named section-header system of the redesign.
+ *
+ * Serif small-caps set INTO the top hairline rule, like a running head in a
+ * printed book, with an optional folio marker at the rule's right end.
+ * This replaces the uppercase-tracked-sans eyebrow everywhere. Use for
+ * major sections only.
+ */
+interface Props {
+  title: string;
+  folio?: string; // small right-aligned marker, e.g. a count or a date
+  id?: string;
+  level?: 2 | 3;
+}
+const { title, folio, id, level = 2 } = Astro.props;
+const Tag = `h${level}` as "h2" | "h3";
+---
+
+<div class="running-head" id={id}>
+  <Tag class="rh-title">{title}</Tag>
+  {folio && <span class="rh-folio">{folio}</span>}
+</div>
+
+<style>
+  .running-head {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: var(--s-4);
+    border-top: 1px solid var(--rule);
+    padding-top: var(--s-3);
+    margin-bottom: var(--s-6);
+  }
+  .rh-title {
+    font-family: var(--font-body);
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: lowercase;
+    font-variant: small-caps;
+    color: var(--ink);
+    margin: 0;
+  }
+  .rh-folio {
+    font-family: var(--font-body);
+    font-size: 16px;
+    font-variant-numeric: oldstyle-nums;
+    color: var(--ink-muted);
+    white-space: nowrap;
+  }
+</style>

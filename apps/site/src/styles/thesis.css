@@ -73,14 +73,15 @@
 }
 
 .thesis-kicker {
-  font-family: var(--font-sans);
-  font-size: 11px;
-  font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 0.16em;
-  color: var(--accent);
-  margin: 0 0 var(--s-3);
-}
+    font-family: var(--font-body);
+    font-size: 15px;
+    font-weight: 600;
+    font-variant: small-caps;
+    text-transform: lowercase;
+    letter-spacing: 0.06em;
+    color: var(--ink-muted);
+    margin: 0 0 var(--s-2);
+  }
 
 .thesis-headline {
   font-family: var(--font-display);
@@ -586,7 +587,7 @@
   font-size: clamp(20px, 1.8vw, 24px);
   line-height: 1.4;
   color: var(--ink);
-  border-left: 3px solid var(--accent);
+  border-left: 1px solid var(--accent-soft);
   padding: var(--s-1) 0 var(--s-1) var(--s-5);
   margin: var(--s-6) 0;
 }

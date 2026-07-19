@@ -27,6 +27,12 @@ export default defineConfig({
         // Allow reading from the corpus directory at the monorepo root
         allow: ["../.."],
       },
+      watch: {
+        // The atlas synthesis artifacts are thousands of derived JSON files
+        // (corpus/graph/atlas/entities/*) read at build time only — watching
+        // them blows the macOS file-descriptor limit (EMFILE) in dev.
+        ignored: ["**/corpus/**", "**/t2work/**", "**/atlas/data/**"],
+      },
     },
     optimizeDeps: {
       // The AI SDK and provider packages are only imported inside

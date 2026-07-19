@@ -13,22 +13,31 @@ interface Props {
   title: string;
   blurb: string;
   trackingIssue?: string;
+  repo?: string;
+  repoLabel?: string;
 }
 
-const { kicker, title, blurb, trackingIssue } = Astro.props;
+const { kicker, title, blurb, trackingIssue, repo, repoLabel } = Astro.props;
 ---
 
 <article class="coming-soon">
   <p class="kicker">{kicker}</p>
   <h1>{title}</h1>
   <p class="blurb">{blurb}</p>
-  <p class="status">
-    Not built yet. Tracking in
-    <a href="https://github.com/adoistic/falsafa">the repo</a>{trackingIssue ? <> · <a href={trackingIssue}>spec</a></> : null}.
-    Want to help? The
-    <a href="https://github.com/adoistic/falsafa/blob/main/docs/designs/falsafa-perseus-launch.md">launch design</a>
-    is public.
-  </p>
+  {repo ? (
+    <p class="status">
+      Being built in the open — the dataset is public at
+      <a href={repo}>{repoLabel ?? repo}</a>. Follow along as it fills in.
+    </p>
+  ) : (
+    <p class="status">
+      Not built yet. Tracking in
+      <a href="https://github.com/adoistic/falsafa">the repo</a>{trackingIssue ? <> · <a href={trackingIssue}>spec</a></> : null}.
+      Want to help? The
+      <a href="https://github.com/adoistic/falsafa/blob/main/docs/designs/falsafa-perseus-launch.md">launch design</a>
+      is public.
+    </p>
+  )}
   <p class="back">
     <a href="/">← Back to Falsafa</a>
   </p>
@@ -43,13 +52,14 @@ const { kicker, title, blurb, trackingIssue } = Astro.props;
   }
 
   .kicker {
-    font-family: var(--font-sans);
-    font-size: 12px;
+    font-family: var(--font-body);
+    font-size: 15px;
     font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.12em;
-    color: var(--accent);
-    margin: 0 0 var(--s-3);
+    font-variant: small-caps;
+    text-transform: lowercase;
+    letter-spacing: 0.06em;
+    color: var(--ink-muted);
+    margin: 0 0 var(--s-2);
   }
 
   h1 {

@@ -1,0 +1,56 @@
+---
+/**
+ * StanceMarks — a citation target's stance profile as a single set line:
+ * inline counts in the five stance colors of the ledger, not a chart.
+ * Reads like apparatus criticus, not a dashboard.
+ */
+import { STANCES, type Stance } from "../../lib/atlas-graph";
+
+interface Props {
+  stances: Partial<Record<Stance, number>>;
+}
+const { stances } = Astro.props;
+const nf = new Intl.NumberFormat("en-US");
+const present = STANCES.filter((s) => (stances[s.stance] ?? 0) > 0);
+---
+
+<span class="stance-marks">
+  {
+    present.map((s, i) => (
+      <span class={`sm sm-${s.stance}`} title={s.gloss}>
+        {i > 0 && <span class="sm-sep" aria-hidden="true">·</span>}
+        <span class="sm-count">{nf.format(stances[s.stance]!)}</span>
+        <span class="sm-name">{s.label.toLowerCase()}</span>
+      </span>
+    ))
+  }
+</span>
+
+<style>
+  .stance-marks {
+    font-family: var(--font-body);
+    font-size: 15px;
+    font-variant-numeric: oldstyle-nums;
+    color: var(--ink-muted);
+    display: inline-flex;
+    flex-wrap: wrap;
+    column-gap: 0.5em;
+    row-gap: 2px;
+    align-items: baseline;
+  }
+  .sm {
+    display: inline-flex;
+    gap: 0.5em;
+    align-items: baseline;
+  }
+  .sm-sep {
+    color: var(--rule);
+  }
+  .sm-count {
+    color: var(--ink);
+    font-weight: 600;
+  }
+  .sm-authority .sm-count { color: var(--accent); }
+  .sm-refute .sm-count { color: var(--error); }
+  .sm-endorse .sm-count { color: var(--success); }
+</style>

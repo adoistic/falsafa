@@ -31,14 +31,15 @@
 }
 
 .eval-kicker {
-  font-family: var(--font-sans);
-  font-size: 12px;
-  font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 0.12em;
-  color: var(--accent);
-  margin: 0 0 var(--s-2);
-}
+    font-family: var(--font-body);
+    font-size: 15px;
+    font-weight: 600;
+    font-variant: small-caps;
+    text-transform: lowercase;
+    letter-spacing: 0.06em;
+    color: var(--ink-muted);
+    margin: 0 0 var(--s-2);
+  }
 
 .eval-page-header h1 {
   font-family: var(--font-display);
@@ -731,7 +732,7 @@
   gap: var(--s-2);
   padding: var(--s-4) var(--s-5);
   background: rgba(0, 0, 0, 0.02);
-  border-left: 3px solid var(--accent);
+  border-left: 1px solid var(--accent-soft);
 }
 
 .eval-case-question-label {

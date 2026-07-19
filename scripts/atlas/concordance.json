@@ -1,0 +1,561 @@
+{
+  "_comment": "Concept concordance — the curated authority file for entity clustering. `never` lists norm-pairs (kind|norm) that must NOT be merged by any rule: famously untranslatable or culturally distinct concepts stay their own heads. `clusters` adds explicit same-concept groupings the deterministic rules cannot see (head and members are diacritic-folded norms; head chosen for the plain English concept name where one exists). Reviewed by hand; extended by the category-review subagent sweep. Applied by scripts/atlas/synthesize.ts.",
+  "renames": [
+    {
+      "kind": "idea",
+      "match": "timê",
+      "to": "Honor (timê)"
+    },
+    {
+      "kind": "idea",
+      "match": "timē",
+      "to": "Honor (timê)"
+    },
+    {
+      "kind": "idea",
+      "match": "timê (honor)",
+      "to": "Honor (timê)"
+    },
+    {
+      "kind": "idea",
+      "match": "time (timê)",
+      "to": "Honor (timê)"
+    },
+    {
+      "kind": "idea",
+      "match": "mênis",
+      "to": "Mênis (wrath)"
+    },
+    {
+      "kind": "idea",
+      "match": "mēnis",
+      "to": "Mênis (wrath)"
+    }
+  ],
+  "_renames_comment": "Applied to raw canonical names BEFORE diacritic-folded merge keys are built — for cross-lingual homographs the fold would wrongly conflate (Greek timê 'honor' keys as 'time'). The `to` value must be chosen so its cleaned base lands in the TRUE concept directly (timê → 'Honor (timê)' keys under honor); never a base that re-collides with the false concept.",
+  "never": [
+    [
+      "idea|dharma",
+      "idea|law"
+    ],
+    [
+      "idea|dharma",
+      "idea|duty"
+    ],
+    [
+      "idea|dharma",
+      "idea|righteousness"
+    ],
+    [
+      "idea|dharma",
+      "idea|justice"
+    ],
+    [
+      "idea|rta",
+      "idea|cosmic order"
+    ],
+    [
+      "idea|rta",
+      "idea|truth"
+    ],
+    [
+      "idea|logos",
+      "idea|reason"
+    ],
+    [
+      "idea|logos",
+      "idea|word"
+    ],
+    [
+      "idea|nous",
+      "idea|mind"
+    ],
+    [
+      "idea|karma",
+      "idea|action"
+    ],
+    [
+      "idea|karma",
+      "idea|fate"
+    ],
+    [
+      "idea|moksa",
+      "idea|liberation"
+    ],
+    [
+      "idea|nirvana",
+      "idea|liberation"
+    ],
+    [
+      "idea|brahman",
+      "idea|god"
+    ],
+    [
+      "idea|atman",
+      "idea|soul"
+    ],
+    [
+      "idea|maya",
+      "idea|illusion"
+    ],
+    [
+      "idea|tapas",
+      "idea|austerity"
+    ],
+    [
+      "idea|polis",
+      "idea|city"
+    ],
+    [
+      "idea|arete",
+      "idea|virtue"
+    ],
+    [
+      "idea|eudaimonia",
+      "idea|happiness"
+    ],
+    [
+      "figure|gods",
+      "figure|god"
+    ],
+    [
+      "figure|muses",
+      "figure|muse"
+    ],
+    [
+      "figure|the gods",
+      "figure|god"
+    ],
+    [
+      "group|devas",
+      "group|gods"
+    ],
+    [
+      "figure|brahma",
+      "figure|brahman"
+    ],
+    [
+      "figure|god",
+      "figure|zeus"
+    ],
+    [
+      "figure|god",
+      "figure|the lord"
+    ]
+  ],
+  "clusters": {
+    "idea": [
+      {
+        "head": "time",
+        "members": [
+          "kala",
+          "kaal"
+        ]
+      },
+      {
+        "head": "truth",
+        "members": [
+          "satya",
+          "alethes",
+          "aletheia",
+          "alethes truth",
+          "truth aletheia",
+          "truth satya"
+        ]
+      },
+      {
+        "head": "death",
+        "members": [
+          "mrtyu"
+        ]
+      },
+      {
+        "head": "immortality",
+        "members": [
+          "amrta",
+          "amrtatva",
+          "immortality amrta"
+        ]
+      },
+      {
+        "head": "fate",
+        "members": [
+          "moira",
+          "fate moira"
+        ]
+      },
+      {
+        "head": "friendship",
+        "members": [
+          "philia",
+          "friendship philia"
+        ]
+      },
+      {
+        "head": "pleasure",
+        "members": [
+          "hedone",
+          "pleasure hedone"
+        ]
+      },
+      {
+        "head": "justice",
+        "members": [
+          "dike",
+          "justice dike",
+          "nyaya"
+        ]
+      },
+      {
+        "head": "wisdom",
+        "members": [
+          "sophia",
+          "wisdom sophia",
+          "prajna"
+        ]
+      },
+      {
+        "head": "self control",
+        "members": [
+          "sophrosyne",
+          "self control sophrosyne",
+          "temperance sophrosyne",
+          "temperance",
+          "self restraint",
+          "self mastery"
+        ]
+      },
+      {
+        "head": "justice",
+        "members": ["justice and injustice"]
+      },
+      {
+        "head": "pleasure",
+        "members": ["pleasure and pain"]
+      },
+      {
+        "head": "perjury",
+        "members": ["perjury and false testimony"]
+      },
+      {
+        "head": "old age",
+        "members": ["old age geras", "geras"]
+      },
+      {
+        "head": "courage",
+        "members": [
+          "andreia",
+          "courage andreia"
+        ]
+      },
+      {
+        "head": "renown",
+        "members": [
+          "kleos",
+          "kleos renown",
+          "fame kleos"
+        ]
+      },
+      {
+        "head": "homecoming",
+        "members": [
+          "nostos",
+          "nostos homecoming",
+          "homecoming nostos"
+        ]
+      },
+      {
+        "head": "hospitality",
+        "members": [
+          "xenia",
+          "hospitality xenia",
+          "xenia hospitality",
+          "atithi",
+          "atithya"
+        ]
+      },
+      {
+        "head": "sacrifice",
+        "members": [
+          "yajna"
+        ]
+      },
+      {
+        "head": "soul",
+        "members": [
+          "the soul",
+          "psukhe",
+          "psyche",
+          "the soul psukhe",
+          "soul psukhe"
+        ]
+      },
+      {
+        "head": "excellence",
+        "members": [
+          "arete excellence"
+        ]
+      },
+      {
+        "head": "law of nature",
+        "members": [
+          "natural law",
+          "the law of nature",
+          "laws of nature"
+        ]
+      },
+      {
+        "head": "ancestral rite",
+        "members": [
+          "sraddha",
+          "shraddha"
+        ]
+      }
+    ],
+    "figure": [
+      {
+        "head": "the sun",
+        "members": [
+          "surya",
+          "helios"
+        ]
+      },
+      {
+        "head": "the moon",
+        "members": [
+          "soma the moon",
+          "selene",
+          "candra",
+          "chandra"
+        ]
+      },
+      {
+        "head": "earth",
+        "members": [
+          "prthivi",
+          "gaia",
+          "gaea"
+        ]
+      },
+      {
+        "head": "sky",
+        "members": [
+          "dyaus"
+        ]
+      },
+      {
+        "head": "dawn",
+        "members": [
+          "usas",
+          "eos"
+        ]
+      }
+    ],
+    "place": [
+      {
+        "head": "greece",
+        "members": ["hellas"]
+      },
+      {
+        "head": "sparta",
+        "members": [
+          "lacedaemon"
+        ]
+      },
+      {
+        "head": "troy",
+        "members": [
+          "ilium",
+          "ilion"
+        ]
+      },
+      {
+        "head": "delphi",
+        "members": [
+          "pytho"
+        ]
+      }
+    ],
+    "group": [
+      {
+        "head": "spartans",
+        "members": [
+          "lacedaemonians"
+        ]
+      },
+      {
+        "head": "greeks",
+        "members": [
+          "hellenes"
+        ]
+      },
+      {
+        "head": "ancestors",
+        "members": [
+          "pitrs",
+          "the fathers pitrs",
+          "fathers pitrs"
+        ]
+      }
+    ],
+    "animal": [
+      {
+        "head": "cow",
+        "members": [
+          "cattle",
+          "kine",
+          "cows kine",
+          "cattle cows"
+        ]
+      },
+      {
+        "head": "horse",
+        "members": [
+          "asva",
+          "ashva"
+        ]
+      },
+      {
+        "head": "serpent",
+        "members": [
+          "sarpa",
+          "snake",
+          "snakes"
+        ]
+      }
+    ],
+    "object": [
+      {
+        "head": "thunderbolt",
+        "members": [
+          "vajra"
+        ]
+      },
+      {
+        "head": "soma",
+        "members": [
+          "soma juice",
+          "soma drink"
+        ]
+      }
+    ],
+    "event": [
+      {
+        "head": "sacrifice",
+        "members": [
+          "yajna"
+        ]
+      },
+      {
+        "head": "trojan war",
+        "members": [
+          "the trojan expedition"
+        ]
+      },
+      {
+        "head": "sack of troy",
+        "members": [
+          "fall of troy"
+        ]
+      },
+      {
+        "head": "persian war",
+        "members": [
+          "persian invasion of greece"
+        ]
+      },
+      {
+        "head": "the flood",
+        "members": [
+          "the deluge",
+          "the great flood"
+        ]
+      },
+      {
+        "head": "trial of socrates",
+        "members": [
+          "socrates trial",
+          "trial and condemnation of socrates",
+          "trial and death of socrates",
+          "indictment against socrates",
+          "socrates defense"
+        ]
+      },
+      {
+        "head": "athenian plague",
+        "members": [
+          "plague at athens"
+        ]
+      },
+      {
+        "head": "ordeal",
+        "members": [
+          "trial by ordeal",
+          "divine ordeal"
+        ]
+      },
+      {
+        "head": "mysteries",
+        "members": [
+          "mystery rites"
+        ]
+      },
+      {
+        "head": "panathenaea",
+        "members": [
+          "panathenaic festival"
+        ]
+      },
+      {
+        "head": "five great sacrifices",
+        "members": [
+          "panca mahayajna"
+        ]
+      },
+      {
+        "head": "soma sacrifice",
+        "members": [
+          "soma pressing sacrifice",
+          "soma pressing and purification ritual"
+        ]
+      },
+      {
+        "head": "the labors of heracles",
+        "members": [
+          "heracles labors"
+        ]
+      },
+      {
+        "head": "the fall of man",
+        "members": [
+          "the fall"
+        ]
+      },
+      {
+        "head": "sacrifice of iphigenia",
+        "members": [
+          "sacrifice of iphigenia at aulis"
+        ]
+      },
+      {
+        "head": "passion of christ",
+        "members": [
+          "passion and crucifixion of christ"
+        ]
+      }
+    ]
+  },
+  "junk": {
+    "event": [
+      "the present lawsuit",
+      "the present murder trial",
+      "the present trial",
+      "the trial",
+      "persecution and martyrdom",
+      "sacrifice and feast before battle",
+      "civil strife and the rule of the thirty tyrants",
+      "demeter s mourning and the famine",
+      "teiresias s oracle demanding menoeceus s sacrifice"
+    ]
+  }
+}

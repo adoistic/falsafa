@@ -69,10 +69,15 @@ function displayValue(dim: FacetDim, val: string): string {
   return val;
 }
 
+/** Ledger page size — rows rendered before "Show more" (keeps the DOM light
+ *  with 2,000+ works while the filters still operate on the full set). */
+const PAGE = 200;
+
 export default function WorksBrowser({ works }: Props): JSX.Element {
   const [state, setState] = useState<FilterState>(emptyState);
   const [drawerOpen, setDrawerOpen] = useState(false);
   const [genreExpanded, setGenreExpanded] = useState(false);
+  const [limit, setLimit] = useState(PAGE);
   const drawerPanelRef = useRef<HTMLDivElement>(null);
 
   // On mount: sync state from URL.
@@ -109,8 +114,14 @@ export default function WorksBrowser({ works }: Props): JSX.Element {
     }
   }, [drawerOpen]);
 
+  // Reset the ledger page whenever filters change.
+  useEffect(() => {
+    setLimit(PAGE);
+  }, [state]);
+
   // Derived state.
   const visible = sortWorks(filterWorks(works, state), state.sort);
+  const shown = visible.slice(0, limit);
   const counts: Record<FacetDim, Map<string, number>> = {
     era: facetCounts(works, state, "era"),
     language: facetCounts(works, state, "language"),
@@ -304,19 +315,36 @@ export default function WorksBrowser({ works }: Props): JSX.Element {
           Showing {visible.length} of {works.length}
         </p>
 
-        {/* Card grid */}
+        {/* The catalogue ledger */}
         {visible.length > 0 ? (
-          <div class="card-grid">
-            {visible.map((w) => (
-              <a key={w.slug} class="work-card" href={`/works/${w.slug}/`}>
-                <h3 class="card-title">{w.title}</h3>
-                <p class="card-byline">{w.author}</p>
-                <p class="card-meta">
-                  {[w.era, w.language, w.genre].join(" · ")} · {w.total_logical_chapters} ch
-                </p>
-              </a>
-            ))}
-          </div>
+          <>
+            <ol class="ledger">
+              {shown.map((w) => (
+                <li key={w.slug}>
+                  <a class="ledger-row" href={`/works/${w.slug}/`}>
+                    <span class="row-title">{w.title}</span>
+                    <span class="row-author">{w.author}</span>
+                    <span class="row-meta">
+                      {[w.era, w.language].join(" · ")}
+                    </span>
+                    <span class="row-extent">
+                      {`${w.total_logical_chapters} ch`}
+                    </span>
+                  </a>
+                </li>
+              ))}
+            </ol>
+            {visible.length > shown.length && (
+              <button
+                type="button"
+                class="show-more"
+                onClick={() => setLimit(limit + PAGE)}
+              >
+                Show {Math.min(PAGE, visible.length - shown.length)} more of{" "}
+                {visible.length - shown.length}
+              </button>
+            )}
+          </>
         ) : (
           <div class="empty-state">
             <p>No works match these filters.</p>
@@ -525,56 +553,101 @@ export default function WorksBrowser({ works }: Props): JSX.Element {
           margin: 0 0 var(--s-4);
         }
 
-        /* ── Card grid ───────────────────────────────────────────── */
-        .card-grid {
-          display: grid;
-          grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-          gap: var(--s-4);
+        /* ── The catalogue ledger ────────────────────────────────── */
+        .ledger {
+          list-style: none;
+          margin: 0;
+          padding: 0;
+          border-top: 1px solid var(--rule);
         }
 
-        .work-card {
-          display: block;
-          min-width: 0;
-          overflow-wrap: anywhere;
-          padding: var(--s-4);
-          border: 1px solid var(--rule);
+        .ledger-row {
+          display: grid;
+          grid-template-columns: minmax(0, 5fr) minmax(0, 3fr) minmax(0, 3fr) auto;
+          gap: var(--s-4);
+          align-items: baseline;
+          padding: var(--s-3) 0;
+          border-bottom: 1px solid var(--rule);
           color: var(--ink);
           text-decoration: none;
-          border-radius: 4px;
-          transition: border-color 0.15s, transform 0.15s;
+          min-width: 0;
         }
 
-        .work-card:hover {
-          border-color: var(--accent);
-          transform: translateY(-1px);
-        }
-
-        .card-title {
-          font-family: var(--font-display);
-          font-size: var(--fs-h3);
+        .row-title {
+          font-family: var(--font-body);
+          font-size: 19px;
           font-weight: 600;
-          margin: 0 0 var(--s-1);
-          line-height: 1.3;
-          color: var(--ink);
+          line-height: 1.35;
+          transition: color 0.15s;
+          overflow-wrap: anywhere;
         }
 
-        .work-card:hover .card-title {
+        .ledger-row:hover .row-title {
           color: var(--accent);
         }
 
-        .card-byline {
-          font-family: var(--font-display);
+        .row-author {
+          font-family: var(--font-body);
           font-style: italic;
-          font-size: var(--fs-chrome);
+          font-size: 17px;
           color: var(--ink-muted);
-          margin: 0 0 var(--s-2);
+          overflow: hidden;
+          text-overflow: ellipsis;
+          white-space: nowrap;
         }
 
-        .card-meta {
-          font-family: var(--font-sans);
-          font-size: var(--fs-byline);
+        .row-meta {
+          font-family: var(--font-body);
+          font-size: 15px;
           color: var(--ink-muted);
-          margin: 0;
+          overflow: hidden;
+          text-overflow: ellipsis;
+          white-space: nowrap;
+        }
+
+        .row-extent {
+          font-family: var(--font-body);
+          font-size: 15px;
+          font-variant-numeric: oldstyle-nums tabular-nums;
+          color: var(--ink-muted);
+          white-space: nowrap;
+          text-align: right;
+        }
+
+        @media (max-width: 700px) {
+          .ledger-row {
+            grid-template-columns: minmax(0, 1fr) auto;
+            row-gap: 2px;
+          }
+          .row-author {
+            grid-column: 1 / -1;
+            order: 3;
+          }
+          .row-meta {
+            display: none;
+          }
+        }
+
+        .show-more {
+          display: block;
+          margin: var(--s-6) auto 0;
+          padding: var(--s-2) var(--s-6);
+          background: none;
+          border: 1px solid var(--rule);
+          border-radius: 2px;
+          font-family: var(--font-body);
+          font-size: 16px;
+          font-variant: small-caps;
+          text-transform: lowercase;
+          letter-spacing: 0.05em;
+          color: var(--accent);
+          cursor: pointer;
+          transition: border-color 0.15s, color 0.15s;
+        }
+
+        .show-more:hover {
+          border-color: var(--accent-soft);
+          color: var(--ink);
         }
 
         /* ── Empty state ─────────────────────────────────────────── */

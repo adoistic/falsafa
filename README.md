@@ -1,14 +1,35 @@
 # Falsafa
 
-A reading site and an open-source MCP server over the same translated corpus
-of philosophical and classical texts. Built by [Adnan](https://meetadnan.com).
-Free, public, MIT.
+A free, open library of **2,018 classical works across nine languages and
+twenty-five centuries, carried into English** — paired with an **atlas**: a
+citation-grounded ontology extracted from the source texts themselves, where
+every claim is anchored to a verbatim, quotable paragraph. Plus an open-source
+MCP server that hands any LLM the same corpus. Built by
+[Adnan](https://meetadnan.com). Free, public, MIT. Live at
+[falsafa.ai](https://falsafa.ai).
 
-Why it exists, in one line: every classical text that survives was
-carried, by translators, revisers and patrons with names, and Falsafa
-continues that practice for machine readers. The long form of the
-argument is the book at `/book` (Carried Across: how ideas travel) and
-the evidence is the transmission atlas at `/atlas`.
+Why it exists, in one line: every classical text that survives was carried, by
+translators, revisers and patrons with names, and Falsafa continues that
+practice for the newest readers — human and machine. The reading library is
+the welcome mat; the durable asset is the ontology.
+
+**Two things sit on the same corpus:**
+
+- **The library** — [`/works`](https://falsafa.ai/works/) — 2,018 works in
+  their original scripts (polytonic Greek, Devanagari, IAST, Nastaliq, Kawi…)
+  with English translations, every paragraph a stable, citable anchor
+  (`p-xxxxxx`).
+- **The atlas** — [`/atlas`](https://falsafa.ai/atlas/) — the ontology of the
+  library, drawn from the texts by machine readers under one discipline: **no
+  claim without a verbatim quotation.** ~37,000 entities (figures, ideas,
+  places, peoples, events, objects, animals), ~13,000 stance-typed citations,
+  and 363,000 verbatim anchors — one **concept page** per idea, showing every
+  way the corpus speaks of it (*Time — spoken of as kāla in the Sanskrit
+  texts*). It grows on its own as the harvest reads deeper.
+
+The book-length argument behind it is at [`/book`](https://falsafa.ai/book/)
+(*Carried Across: how ideas travel*); the engineering is in the
+[engine room](https://falsafa.ai/engine/).
 
 The fastest way in:
 
@@ -72,18 +93,23 @@ Numbers from `corpus/manifest.json` (regenerated on every convert):
 
 | | Count |
 |---|---|
-| Works | 37 |
-| Authors | 21 |
-| Logical chapters | 818 |
-| Variant entries (translation, transliteration, original) | 2,053 |
-| Languages | Old English, Sanskrit, Urdu, Kawi, French, German |
-| Eras | Ancient, Medieval, Early Modern, 19th C, 20th C |
+| Works | 2,018 |
+| Authors | 622 |
+| Logical chapters | 25,499 |
+| Variant entries (translation, transliteration, original) | 34,512 |
+| Addressable passages (stable `p-xxxxxx` anchors) | 1,375,137 |
+| Languages | Greek, Latin, Sanskrit, English, French, Urdu, Kawi (Old Javanese), Old English, German |
+| Eras | Ancient → 20th Century (twelve), ~1500 BCE – 1952 CE |
 
-Cynewulf's Old English Christian poems. Iqbal's Bang-E-Dara. Ghalib and
-Zauq's Diwans. Sanskrit smṛti texts. Comte and Fichte. Each work ships with
-the original-language source, a Latin-script transliteration where it makes
-sense, and Thothica's English translation. Every paragraph has a stable
-content-derived ID (`p-xxxxxx`) so citations survive reformatting.
+From the Ṛgveda and the full Rāmāyaṇa to Homer, Plato, Euclid, Cicero, the
+Roman-law corpus, Cynewulf's Old English poems, Iqbal's Bang-E-Dara, Ghalib
+and Zauq, and the 19th-century political economists. Sourced from Perseus,
+GRETIL, and other public archives (see below). Each work ships with the
+original-language source, a Latin-script transliteration where it makes sense,
+and Thothica's English translation. Every paragraph has a stable
+content-derived ID (`p-xxxxxx`) so citations survive reformatting. The
+corpus grows; the site and atlas pick up new works automatically on the next
+build.
 
 **Translations are AI-assisted.** AI can make mistakes — when accuracy
 matters, verify against the original-language source linked on each
@@ -96,12 +122,43 @@ texts come from public archives.
 The source texts come from freely available digital archives plus
 transcribed printed editions:
 
+- **Greek & Latin classics** (Homer, Plato, Aristotle, Euclid, Cicero, the Roman-law corpus, and hundreds more) — [Perseus Digital Library](http://www.perseus.tufts.edu/)
+- **Sanskrit** (Ṛgveda, the Rāmāyaṇa, the dharmaśāstra smṛti cluster, the Kawi / Old-Javanese tattvas) — [GRETIL](http://gretil.sub.uni-goettingen.de/gretil.html), Göttingen Register of Electronic Texts in Indian Languages
 - **Old English** (Cynewulf's Juliana / Elene / Andreas; OE Elegies) — [sacred-texts.com](https://sacred-texts.com/)
-- **Indian Sanskrit smṛti** (Manu, Yājñavalkya, Viṣṇu, Nārada, Bṛhaspati, Parāśara, Aṅgirasa) — [GRETIL](http://gretil.sub.uni-goettingen.de/gretil.html), Göttingen Register of Electronic Texts in Indian Languages
 - **Allama Iqbal** (Bāng-i-Darā parts 1-3) — [allamaiqbal.com](http://allamaiqbal.com), Iqbal Academy Pakistan
 - **Mirza Ghalib + Sheikh Ibrahim Zauq** (Urdu diwans) — printed editions
 
-Same list with full citations on the deployed site at `/about/#sources`.
+Same list with full citations on the deployed site at `/about/#sources`. The
+acquisition order (Perseus → GRETIL/Indic → Liberty Fund → Islamic → …) is
+tracked in `docs/`.
+
+## The atlas — the ontology of the library
+
+The atlas at [`/atlas`](https://falsafa.ai/atlas/) is a map of the corpus
+drawn from the texts themselves: who cites whom and with what stance; where
+the figures, ideas, places, peoples, events, objects and animals of
+twenty-five centuries appear. Its discipline is carried over from library
+practice — **no claim without a verbatim quotation.** A machine reader may
+only point at paragraphs; the quotation is attached afterwards,
+deterministically, from the source text, so a fabricated quote is structurally
+impossible. Every entry links to the exact paragraph that carries it, and each
+marked term in the reader opens its atlas entry inline.
+
+Two things make it more than a tag cloud:
+
+- **One concept, every expression.** A *concordance* pass unifies the ways the
+  corpus names the same thing — *Time* shows the Sanskrit *kāla*; *Truth*
+  gathers Greek *alḗtheia* and Sanskrit *satya* — each as a legible "spoken of
+  as" facet with its own language, works and quotes. A curated guard list
+  keeps genuinely-distinct concepts apart (*dharma* ≠ law, *ātman* ≠ soul, the
+  Gods ≠ God), and cross-references (*Kāla, see Time*) run through the ledger
+  like a real index.
+- **It updates itself.** The harvest runs independently and writes to
+  Cloudflare R2; every build syncs the latest, re-runs synthesis, and redraws
+  every page. Nothing is hardwired — new works and new coverage flow in on
+  the next `bun run deploy`. Pipeline: `scripts/atlas/` (`sync-harvest.ts`,
+  `synthesize.ts`, `concordance.json`); data model and rationale in
+  `docs/atlas-rebuild/`.
 
 ## Try it without installing anything
 
@@ -117,14 +174,20 @@ Pre-launch: `cd apps/site && bun run dev`, then visit `/try`.
 ```
 falsafa/
 ├── corpus/             # markdown source of truth, manifest, paragraph index
+│   └── graph/          # ontology harvest (ontology-runs/) + derived atlas/
 ├── apps/
-│   ├── site/           # Astro 5 reading site + /try BYOK demo
+│   ├── site/           # Astro 5 reading site, atlas, /try BYOK demo
+│   ├── worker/         # Cloudflare Worker that serves the built site from R2
 │   ├── mcp/            # @falsafa/mcp, stdio MCP server (Bun + TS)
 │   ├── pipeline/       # `npx @falsafa/pipeline ingest` (in progress)
 │   └── baseline/       # hybrid RAG baseline for the eval comparison
-├── eval/               # 1,000-question audited pool (Agents A/B/C)
-├── scripts/            # convert, audit, cross-link, image-gen
-├── docs/designs/       # locked plans (Perseus launch, BYOK slice)
+├── eval/               # 1,120-question audited pool (Agents A/B/C)
+├── scripts/
+│   ├── atlas/          # atlas sync + synthesis + concordance
+│   ├── og/             # per-work Open Graph image generator
+│   ├── graph/          # ontology extraction (anchor-range-v1)
+│   └── …               # convert, audit, cross-link, image-gen, per-source ingest
+├── docs/atlas-rebuild/ # atlas data model, design direction, build log
 └── TODOS.md            # deferred items + remote MCP gate
 ```
 
@@ -209,34 +272,33 @@ before the paper.
 
 ## Status
 
-Launch phase. Plan locked at
-[`docs/designs/falsafa-perseus-launch.md`](docs/designs/falsafa-perseus-launch.md).
-Eleven artifacts on the launch list:
+Live at [falsafa.ai](https://falsafa.ai). The library, the atlas, the reader
+integration, and the engine room are all deployed.
 
-| # | Artifact | State |
-|---|---|---|
-| 1 | Writeup | pending |
-| 2 | Repo (this) | ✅ |
-| 3 | `falsafa.ai/try` BYOK live demo | ✅ [live](https://www.falsafa.ai/try/) (tabbed Install / BYOK) |
-| 4 | `falsafa.ai/eval` eval explorer | ✅ [live](https://www.falsafa.ai/eval/) (A/B baseline vs wiki) |
-| 5 | `falsafa.ai/thesis` why no vector DB | ✅ [live](https://www.falsafa.ai/thesis/) (with `#methodology` + A/B benchmark) |
-| 6 | `falsafa.ai/numbers` by-the-numbers | ✅ [live](https://www.falsafa.ai/numbers/) |
-| 7 | `falsafa.ai/perseus` Perseus showcase | pending |
-| 8 | `npx @falsafa/mcp` published to npm | ✅ [v0.1.2 live on npm](https://www.npmjs.com/package/@falsafa/mcp) |
-| 9 | `falsafa.ai` deployed to Vercel | ✅ live; auto-deploys from `main` |
-| 10 | gstack Skill: `gstack skills install falsafa-methodology` | pending |
-| 11 | arXiv preprint | pending — gated on graded-score eval rework (`TODOS.md`) |
-| 12 | PR back to PerseusDL | pending |
-| 13 | `falsafa.ai/atlas` the transmission atlas (Naql merged in) | built, on `feat/reader-engine-split-atlas` |
-| 14 | `falsafa.ai/book` Carried Across, with the Why-Falsafa afterword | built, on `feat/reader-engine-split-atlas` |
-| 15 | `falsafa.ai/engine` reader/engine split with engine-room hub | built, on `feat/reader-engine-split-atlas` |
+| Surface | State |
+|---|---|
+| [`/works`](https://falsafa.ai/works/) library (2,018 works, 9 scripts) | ✅ live |
+| [`/atlas`](https://falsafa.ai/atlas/) ontology atlas (entities, citations, concept pages) | ✅ live |
+| [`/book`](https://falsafa.ai/book/) *Carried Across* | ✅ live |
+| [`/engine`](https://falsafa.ai/engine/) engine room hub | ✅ live |
+| [`/try`](https://falsafa.ai/try/) BYOK live demo | ✅ live |
+| [`/eval`](https://falsafa.ai/eval/) eval explorer (A/B baseline vs wiki) | ✅ live |
+| [`/thesis`](https://falsafa.ai/thesis/) why no vector DB (+ `#methodology`) | ✅ live |
+| [`/numbers`](https://falsafa.ai/numbers/) by-the-numbers | ✅ live |
+| `npx @falsafa/mcp` published to npm | ✅ [live on npm](https://www.npmjs.com/package/@falsafa/mcp) |
+| Per-work Open Graph share cards (all 2,018) | ✅ generated + wired |
+| arXiv preprint | pending — gated on graded-score eval rework (`TODOS.md`) |
+| PR back to PerseusDL | pending |
 
-The corpus + MCP (Phase 1), BYOK demo at `/try` (Phase 2), and the
-eval explorer + thesis methodology + redesigned A/B benchmark chart
-(Phase 3) are all in and deployed. Vercel auto-deploys every push to
-`main`. Remote MCP backend (claude.ai Connector + ChatGPT GPT) is
-gated on `/office-hours` then `/plan-eng-review`; see the entry at
-the top of `TODOS.md`.
+**Deploy:** the site is a fully static Astro build (~44k pages), built locally
+and mirrored to **Cloudflare R2**; the `falsafaai` Cloudflare **Worker**
+serves it at `falsafa.ai`. Not Netlify/Vercel — at this scale (~143k files)
+hosted builders OOM and file-count caps bite. One command, `bun run deploy`
+(`scripts/deploy.sh` = build + `rclone sync` to R2); full architecture in
+[`DEPLOY.md`](DEPLOY.md). The ontology harvest runs independently and writes
+to R2; each build syncs it, re-synthesizes the atlas, and regenerates share
+cards — so new works and new coverage appear automatically. Remote MCP
+backend (claude.ai Connector + ChatGPT GPT) is tracked in `TODOS.md`.
 
 ## Run it locally
 
@@ -247,15 +309,25 @@ bun install
 bun run audit
 bun run convert
 
+# refresh the atlas from the harvest (sync latest from R2, re-synthesize)
+bun run atlas:sync && bun run atlas:build
+
+# reading site + atlas + /try BYOK demo
+cd apps/site && bun run dev
+
 # MCP server, stdio
 cd apps/mcp && bun run dev
 
-# reading site + /try BYOK demo
-cd apps/site && bun run dev
-
 # MCP eval suite (deterministic citation-based scoring against expected_works)
 cd apps/mcp && bun run eval
+
+# ship it (build locally → rclone sync to Cloudflare R2)
+bun run deploy
 ```
+
+`bun run build` in `apps/site` runs the atlas sync + synthesis + Open Graph
+generation automatically before the Astro build, so a production build is
+always current with the harvest.
 
 Cover imagery is a separate five-stage agentic pipeline: draft, cross-vendor
 critique, decide, render, audit. See `scripts/generate-images.ts` and
