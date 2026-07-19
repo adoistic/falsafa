@@ -1,22 +1,22 @@
 # Falsafa
 
-> Falsafa is a free, open-access digital library and archive of philosophy and the history of thought — 2017 works spanning ancient, medieval, and modern traditions across Greek, Latin, Sanskrit, Arabic, and other languages, each presented with original text, English translation, and transliteration where applicable.
+> Falsafa is a free, open-access digital library and archive of philosophy and the history of thought — 2018 works spanning ancient, medieval, and modern traditions across Greek, Latin, Sanskrit, Arabic, and other languages, each presented with original text, English translation, and transliteration where applicable.
 
 Falsafa makes primary philosophical and literary sources directly readable. The corpus covers classical antiquity, Hellenistic and Roman thought, late antique and medieval philosophy, early modern and Enlightenment writing, and 19th–20th century philosophy — all in a clean reading interface with multiple text variants per chapter. Works are indexed by author, era, genre, and language. The site is fully static, open to crawling, and intended to be cited and quoted.
 
 ## Corpus
 
-Total works: 2017
-Authors: 621
+Total works: 2018
+Authors: 622
 Eras: 12
 Languages: 9
 Genres: 34
 
-**By language** (top 5: Greek (810), English (766), Latin (387), Sanskrit (26), Kawi (9)):
+**By language** (top 5: Greek (810), English (766), Latin (387), Sanskrit (27), Kawi (9)):
   - Greek: 810
   - English: 766
   - Latin: 387
-  - Sanskrit: 26
+  - Sanskrit: 27
   - Kawi: 9
   - French: 9
   - Urdu: 5
@@ -24,7 +24,7 @@ Genres: 34
   - German: 1
 
 **By era** (chronological):
-  - Ancient: 36
+  - Ancient: 37
   - Classical: 327
   - Hellenistic: 201
   - Imperial: 521

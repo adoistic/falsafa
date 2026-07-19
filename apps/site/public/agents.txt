@@ -1,11 +1,11 @@
 # Falsafa — Agent Entry Point
 
-Falsafa (https://falsafa.ai) is an open-access digital library of philosophy and the history of thought, currently indexing 2017 works across multiple languages and traditions. The site is fully static and open for reading and indexing.
+Falsafa (https://falsafa.ai) is an open-access digital library of philosophy and the history of thought, currently indexing 2018 works across multiple languages and traditions. The site is fully static and open for reading and indexing.
 
 ## Corpus discovery
 
 - **Curated summary** (LLM context-friendly, ~2 KB): https://falsafa.ai/llms.txt
-- **Complete work index** (all 2017 works, grouped by era, ~200 KB): https://falsafa.ai/llms-full.txt
+- **Complete work index** (all 2018 works, grouped by era, ~200 KB): https://falsafa.ai/llms-full.txt
 
 Each work is accessible at `https://falsafa.ai/works/<slug>/`. Chapters are served at `https://falsafa.ai/works/<slug>/<chapter-slug>/` with multiple text variants (original, translation, transliteration) selectable via query parameter `?v=<variant_id>`.
 

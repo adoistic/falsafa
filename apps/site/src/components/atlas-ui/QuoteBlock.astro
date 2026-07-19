@@ -1,0 +1,78 @@
+---
+/**
+ * QuoteBlock — the atlas's signature affordance: a verbatim, paragraph-
+ * anchored quotation with a deep link to the exact paragraph in the reader.
+ * "No claim without a quote," made visible.
+ */
+import { quoteHref, type QuoteRef } from "../../lib/atlas-graph";
+
+interface Props {
+  work: string; // work slug (for the deep link)
+  workTitle?: string; // display title; omit to caption with the chapter instead
+  quote: QuoteRef;
+}
+const { work, workTitle, quote } = Astro.props;
+const href = quoteHref(work, quote);
+// "03-on-the-crown" → "on the crown"; numeric-only slugs → "chapter 3"
+function chapterLabel(slug?: string): string {
+  if (!slug) return "read in place";
+  const tail = slug.replace(/^\d+[-–]?/, "").replace(/-/g, " ").trim();
+  if (tail) return tail;
+  const n = parseInt(slug, 10);
+  return Number.isFinite(n) ? `chapter ${n}` : "read in place";
+}
+const caption = workTitle ?? chapterLabel(quote.chapter);
+---
+
+<figure class="quote-block">
+  <blockquote>{quote.text}</blockquote>
+  <figcaption>
+    {
+      href ? (
+        <a href={href}>
+          {caption}
+          <span class="pmark">¶</span>
+        </a>
+      ) : (
+        <span>{caption}</span>
+      )
+    }
+  </figcaption>
+</figure>
+
+<style>
+  .quote-block {
+    margin: var(--s-3) 0 var(--s-4);
+  }
+  blockquote {
+    font-family: var(--font-body);
+    font-size: 19px;
+    line-height: 1.55;
+    color: var(--ink);
+    margin: 0;
+    padding: 0 0 0 var(--s-4);
+    border-left: 1px solid var(--accent-soft);
+  }
+  figcaption {
+    margin-top: var(--s-1);
+    padding-left: var(--s-4);
+    font-family: var(--font-body);
+    font-size: 15px;
+    color: var(--ink-muted);
+  }
+  figcaption a {
+    color: var(--ink-muted);
+    text-decoration: none;
+    border-bottom: 1px solid var(--rule);
+    transition: color 150ms ease-out, border-color 150ms ease-out;
+  }
+  figcaption a:hover {
+    color: var(--accent);
+    border-color: var(--accent-soft);
+  }
+  .pmark {
+    color: var(--accent);
+    margin-left: 0.35em;
+    font-size: 12px;
+  }
+</style>

@@ -1,0 +1,284 @@
+---
+/**
+ * The citation ledger — /atlas/citations/. The stance-typed citation graph
+ * as a catalogue: most-cited works and authors with their stance profiles
+ * and one verbatim anchor each. Fully derived; grows with the harvest.
+ */
+import Base from "../../../layouts/Base.astro";
+import RunningHead from "../../../components/atlas-ui/RunningHead.astro";
+import StanceMarks from "../../../components/atlas-ui/StanceMarks.astro";
+import QuoteBlock from "../../../components/atlas-ui/QuoteBlock.astro";
+import {
+  atlasMeta,
+  citedTargets,
+  STANCES,
+  fmt,
+  plural as pl,
+} from "../../../lib/atlas-graph";
+
+const meta = atlasMeta();
+const works = meta ? citedTargets("work").slice(0, 60) : [];
+const authors = meta ? citedTargets("author").slice(0, 60) : [];
+const stances = meta?.stances ?? {};
+const stanceTotal = Object.values(stances).reduce((s, n) => s + (n ?? 0), 0);
+---
+
+<Base
+  ogImage="/og/atlas.png"
+  title="Citations · Atlas"
+  description="The stance-typed citation graph of the library: who cites whom — as authority, endorsed, refuted, extended or reported — every edge anchored to a verbatim passage."
+>
+  <article class="cites">
+    <header class="masthead">
+      <p class="crumb"><a href="/atlas/">The Atlas</a></p>
+      <h1>The citation ledger</h1>
+      <p class="lede">
+        {
+          meta
+            ? `${fmt(meta.totals.citations)} citations drawn from ${pl(meta.works_harvested, "work")} so far. When a text names another work or author, the harvest records how: `
+            : "When a text names another work or author, the harvest records how: "
+        }
+        {
+          STANCES.map((s, i) => (
+            <>
+              {i > 0 && ", "}
+              <span class="stance-word">{s.label.toLowerCase()}</span>
+            </>
+          ))
+        }.
+      </p>
+      {
+        meta && stanceTotal > 0 && (
+          <p class="stance-line">
+            {STANCES.map((s, i) => (
+              <>
+                {i > 0 && <span class="sep"> · </span>}
+                <span>
+                  <strong>{fmt(stances[s.stance] ?? 0)}</strong> {s.label.toLowerCase()}
+                </span>
+              </>
+            ))}
+          </p>
+        )
+      }
+    </header>
+
+    <section>
+      <RunningHead title="most-cited works" folio={`${fmt(works.length)} shown`} />
+      <ol class="ledger">
+        {
+          works.map((t) => (
+            <li class="entry">
+              <div class="entry-head">
+                <span class="entry-label">
+                  {t.to_work ? (
+                    <a href={`/works/${t.to_work}/`}>{t.label}</a>
+                  ) : (
+                    t.label
+                  )}
+                  {t.to_work && <span class="in-lib" title="in the library">⌂</span>}
+                </span>
+                <span class="entry-count">
+                  {fmt(t.total)} · from {pl(t.citingWorks.size, "work")}
+                </span>
+              </div>
+              <StanceMarks stances={t.stances} />
+              {t.sample?.quote && (
+                <details class="anchor">
+                  <summary>one anchor</summary>
+                  <QuoteBlock
+                    work={t.sample.from}
+                    workTitle={`cited ${t.sample.stance === "authority" ? "as authority" : `— ${t.sample.stance}`}`}
+                    quote={t.sample.quote}
+                  />
+                </details>
+              )}
+            </li>
+          ))
+        }
+      </ol>
+    </section>
+
+    <section>
+      <RunningHead
+        title="most-cited authors"
+        folio={`${fmt(authors.length)} shown`}
+      />
+      <ol class="ledger">
+        {
+          authors.map((t) => (
+            <li class="entry">
+              <div class="entry-head">
+                <span class="entry-label">
+                  {t.to_author ? (
+                    <a href={`/authors/${t.to_author}/`}>{t.label}</a>
+                  ) : (
+                    t.label
+                  )}
+                  {t.to_author && (
+                    <span class="in-lib" title="in the library">⌂</span>
+                  )}
+                </span>
+                <span class="entry-count">
+                  {fmt(t.total)} · from {pl(t.citingWorks.size, "work")}
+                </span>
+              </div>
+              <StanceMarks stances={t.stances} />
+            </li>
+          ))
+        }
+      </ol>
+      <p class="foot-note">
+        ⌂ marks targets present in the library — the rest are the corpus's
+        <em> wanted list</em>: works and authors the texts reach for that the
+        library does not yet hold.
+      </p>
+    </section>
+  </article>
+</Base>
+
+<style>
+  .cites {
+    max-width: 860px;
+    margin: 0 auto;
+    padding: var(--s-16) var(--s-6) var(--s-24);
+  }
+  .masthead {
+    max-width: 720px;
+    margin-bottom: var(--s-12);
+  }
+  .crumb {
+    margin: 0 0 var(--s-2);
+    font-family: var(--font-body);
+    font-size: 16px;
+    font-variant: small-caps;
+    text-transform: lowercase;
+    letter-spacing: 0.06em;
+  }
+  .crumb a {
+    color: var(--ink-muted);
+    text-decoration: none;
+  }
+  .crumb a:hover {
+    color: var(--accent);
+  }
+  h1 {
+    font-family: var(--font-display);
+    font-size: clamp(38px, 6vw, 50px);
+    font-weight: 600;
+    line-height: 1.1;
+    margin: 0 0 var(--s-4);
+  }
+  .lede {
+    font-family: var(--font-body);
+    font-size: 19px;
+    line-height: 1.65;
+    color: var(--ink);
+    margin: 0 0 var(--s-4);
+    max-width: 62ch;
+    text-wrap: pretty;
+    font-variant-numeric: oldstyle-nums;
+  }
+  .stance-word {
+    font-variant: small-caps;
+    text-transform: lowercase;
+    letter-spacing: 0.04em;
+  }
+  .stance-line {
+    font-family: var(--font-body);
+    font-size: 18px;
+    color: var(--ink-muted);
+    border-top: 1px solid var(--rule);
+    padding-top: var(--s-3);
+    margin: 0;
+    font-variant-numeric: oldstyle-nums;
+  }
+  .stance-line strong {
+    color: var(--accent);
+    font-weight: 600;
+  }
+  .sep {
+    color: var(--accent-soft);
+  }
+
+  section {
+    margin-bottom: var(--s-16);
+  }
+  .ledger {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  @media (min-width: 900px) {
+    .ledger {
+      columns: 2;
+      column-gap: var(--s-12);
+    }
+  }
+  .entry {
+    padding: var(--s-3) 0;
+    border-bottom: 1px solid var(--rule);
+    break-inside: avoid;
+  }
+  .entry-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: var(--s-4);
+    margin-bottom: 2px;
+  }
+  .entry-label {
+    font-family: var(--font-body);
+    font-size: 19px;
+    color: var(--ink);
+  }
+  .entry-label a {
+    color: inherit;
+    text-decoration: none;
+    border-bottom: 1px solid var(--rule);
+  }
+  .entry-label a:hover {
+    color: var(--accent);
+    border-color: var(--accent-soft);
+  }
+  .in-lib {
+    color: var(--accent);
+    margin-left: 0.4em;
+    font-size: 13px;
+  }
+  .entry-count {
+    font-family: var(--font-body);
+    font-size: 15px;
+    font-variant-numeric: oldstyle-nums;
+    color: var(--ink-muted);
+    white-space: nowrap;
+  }
+  .anchor {
+    margin-top: var(--s-2);
+  }
+  .anchor summary {
+    font-family: var(--font-body);
+    font-size: 15px;
+    font-variant: small-caps;
+    text-transform: lowercase;
+    letter-spacing: 0.05em;
+    color: var(--ink-muted);
+    cursor: pointer;
+    list-style: none;
+  }
+  .anchor summary::before {
+    content: "¶ ";
+    color: var(--accent-soft);
+  }
+  .anchor summary:hover {
+    color: var(--accent);
+  }
+  .foot-note {
+    margin-top: var(--s-6);
+    font-family: var(--font-body);
+    font-size: 16px;
+    line-height: 1.6;
+    color: var(--ink-muted);
+    max-width: 62ch;
+  }
+</style>

@@ -1,211 +1,488 @@
 ---
-import AtlasPage from '../../layouts/AtlasPage.astro';
-import WorkCard from '../../components/atlas/WorkCard.astro';
-import ConfidenceMark from '../../components/atlas/ConfidenceMark.astro';
-import { stats, works } from '../../lib/atlas/data.ts';
+/**
+ * The Atlas — index. Everything on this page derives from the synthesis
+ * artifacts (corpus/graph/atlas/*): counts, coverage, ledgers. Nothing is
+ * hardwired; a re-sync + rebuild changes the page. When artifacts are
+ * absent (fresh clone — artifacts are derived + gitignored) the page renders
+ * a quiet placeholder instead of failing the build.
+ */
+import Base from "../../layouts/Base.astro";
+import RunningHead from "../../components/atlas-ui/RunningHead.astro";
+import CoverageStrip from "../../components/atlas-ui/CoverageStrip.astro";
+import StanceMarks from "../../components/atlas-ui/StanceMarks.astro";
+import QuoteBlock from "../../components/atlas-ui/QuoteBlock.astro";
+import {
+  atlasMeta,
+  entityIndex,
+  entitiesOfKind,
+  citedTargets,
+  themeRows,
+  KINDS,
+  fmt,
+} from "../../lib/atlas-graph";
 
-const s = stats();
-const centuries = Math.round((s.latest - s.earliestComposed) / 100);
-const sorted = [...works].sort((a, b) => a.composed.from - b.composed.from);
+const meta = atlasMeta();
 
-const description =
-  'An atlas of how books crossed languages: who carried each classical text from Greek, Sanskrit, Arabic and Syriac into the languages that kept it alive, with evidence for every link. The historical case for Falsafa.';
+// ── derived view data (only when artifacts exist) ────────────────────
+const kindLedger = meta
+  ? KINDS.map((k) => {
+      const rows = entitiesOfKind(k.kind).filter((e) => !e.see);
+      // teaser names, skipping near-duplicates (Cow vs Cows) for display
+      const top: string[] = [];
+      const seen = new Set<string>();
+      for (const e of rows) {
+        if (!e.page) continue;
+        const stem = e.name.toLowerCase().replace(/s$/, "");
+        if (seen.has(stem)) continue;
+        seen.add(stem);
+        top.push(e.name);
+        if (top.length === 3) break;
+      }
+      return { ...k, count: rows.length, top };
+    })
+  : [];
 
-const jsonLd = {
-  '@context': 'https://schema.org',
-  '@type': 'Dataset',
-  name: 'Naql, the Falsafa transmission atlas',
-  description,
-  license: 'https://creativecommons.org/licenses/by/4.0/',
-};
+const topWorks = meta ? citedTargets("work").slice(0, 8) : [];
+const topAuthors = meta ? citedTargets("author").slice(0, 8) : [];
+const topThemes = meta ? themeRows().slice(0, 18) : [];
+
+// one exemplary evidence quote for the method section: the most-cited
+// work's sample — a real, clickable proof of the discipline.
+const proof = topWorks.find((t) => t.sample?.quote)?.sample;
+
+const beacon = meta?.sync?.beacon;
+const asOf = meta
+  ? new Date(meta.generated_at).toLocaleDateString("en-US", {
+      year: "numeric",
+      month: "long",
+      day: "numeric",
+    })
+  : null;
+
+const pageDescription = meta
+  ? `The ontology of the library: ${fmt(meta.totals.entities_merged)} figures, ideas, places and more across ${fmt(meta.works_harvested)} works, every claim anchored to a verbatim paragraph.`
+  : "The ontology of the library, drawn from the texts themselves.";
 ---
 
-<AtlasPage title="Atlas" description={description} jsonLd={jsonLd}>
-  <div class="wrap">
-    <header class="hero">
-      <p class="tag tag-line rise">The atlas of carried books</p>
-      <h1 class="rise rise-1">Every classical text that survives was&nbsp;carried.</h1>
-      <p class="lede rise rise-2">
-        Across {centuries} centuries, books crossed from Greek and Sanskrit into Syriac, Arabic,
-        Hebrew, Latin and Castilian. Each crossing was a decision by a person with a name. This
-        atlas maps who moved which book, where, when, and on what evidence; the companion book,
-        <a class="link" href="/book/">Carried Across</a>, makes the argument, and Falsafa's
-        whole design follows from it.
+<Base title="Atlas" description={pageDescription} ogImage="/og/atlas.png">
+  <article class="atlas">
+    <header class="masthead">
+      <h1>The Atlas</h1>
+      <p class="lede">
+        A map of the library drawn from the texts themselves: who cites whom
+        and with what stance; where the figures, ideas, places, peoples,
+        events, objects and animals of twenty-five centuries appear — every
+        claim anchored to a verbatim paragraph you can read in place.
       </p>
-      <dl class="stats rise rise-3">
-        <div><dt>Works</dt><dd>{s.works}</dd></div>
-        <div><dt>Crossings</dt><dd>{s.transmissions}</dd></div>
-        <div><dt>Carriers</dt><dd>{s.people}</dd></div>
-        <div><dt>Languages</dt><dd>{s.languages}</dd></div>
-        <div><dt>Places</dt><dd>{s.places}</dd></div>
-        <div><dt>Sources</dt><dd>{s.sources}</dd></div>
-      </dl>
+      {
+        meta && (
+          <p class="colophon">
+            As of {asOf}, the harvest has mapped{" "}
+            <strong>{fmt(meta.windows_synthesized)}</strong> of{" "}
+            <strong>{fmt(meta.windows_total)}</strong> passages of text across{" "}
+            <strong>{fmt(meta.works_harvested)}</strong> of the library's{" "}
+            <strong>{fmt(meta.works_total)}</strong> works — yielding{" "}
+            <strong>{fmt(meta.totals.entities_merged)}</strong> entities,{" "}
+            <strong>{fmt(meta.totals.citations)}</strong> stance-typed
+            citations and{" "}
+            <strong>{fmt(meta.totals.entity_verbatim_quotes)}</strong> verbatim
+            quotations. It grows on its own; this page is redrawn from the
+            data at every build.
+          </p>
+        )
+      }
     </header>
 
-    <section class="block">
-      <p class="tag tag-line">The chains</p>
-      <div class="grid">
-        {sorted.map((work) => <WorkCard work={work} />)}
-      </div>
-      <p class="more">
-        Or follow the people: <a class="link" href="/atlas/people/">the carriers</a>, the
-        <a class="link" href="/atlas/places/">cities</a>, the
-        <a class="link" href="/atlas/languages/">languages</a>, and the whole relay on
-        <a class="link" href="/atlas/timeline/">one timeline</a>.
-      </p>
-    </section>
-
-    <section class="block">
-      <p class="tag tag-line">The grades</p>
-      <div class="cols">
-        <div class="prose">
+    {
+      !meta && (
+        <section class="pending">
           <p>
-            In hadith scholarship a report is only as strong as its isnad, the chain of named
-            people who carried it. The atlas borrows that standard: every link names its
-            carriers and cites the scholarship in
-            <a href="/atlas/sources/">the bibliography</a>, and every link carries a grade.
-            Where the record is thin, the atlas says so instead of smoothing it over. The
-            method, and what the checking changed, is on
-            <a href="/atlas/about/">the about page</a>; the data model is on
-            <a href="/atlas/ontology/">the ontology page</a>.
+            The atlas is being drawn. The ontology harvest is running and its
+            artifacts have not been synthesized on this build yet — check
+            back shortly.
           </p>
-        </div>
-        <ul class="grades">
-          <li>
-            <ConfidenceMark confidence="attested" />
-            <p>Named in the medieval record itself, or settled in modern scholarship.</p>
-          </li>
-          <li>
-            <ConfidenceMark confidence="probable" />
-            <p>The standard scholarly view, with real uncertainty in actor, place or date.</p>
-          </li>
-          <li>
-            <ConfidenceMark confidence="disputed" />
-            <p>Scholars disagree. The disagreement is part of the record, so it is recorded.</p>
-          </li>
-        </ul>
-      </div>
-    </section>
+        </section>
+      )
+    }
 
-    <section class="block">
-      <p class="tag tag-line">For machine readers</p>
-      <div class="prose">
-        <p>
-          The dataset is open (CC BY 4.0) and machine-legible: every work, carrier and place
-          page has a markdown sibling (append <code>.md</code> to the URL), and the full graph
-          ships at <a href="/atlas/graph.json">/atlas/graph.json</a>. The same discipline runs
-          the rest of Falsafa; see <a href="/engine/">the engine room</a>.
-        </p>
-      </div>
-    </section>
-  </div>
-</AtlasPage>
+    {
+      meta && (
+        <>
+          <section>
+            <RunningHead
+              title="the ledgers"
+              folio={`${fmt(entityIndex().filter((e) => !e.see).length)} entities`}
+            />
+            <ol class="kind-ledger">
+              {kindLedger.map((k) => (
+                <li>
+                  <a href={`/atlas/${k.plural}/`} class="kind-row">
+                    <span class="kind-name">{k.label}</span>
+                    <span class="kind-gloss">
+                      {k.gloss}
+                      {k.top.length > 0 && (
+                        <span class="kind-top"> — {k.top.join(", ")} …</span>
+                      )}
+                    </span>
+                    <span class="kind-count">{fmt(k.count)}</span>
+                  </a>
+                </li>
+              ))}
+            </ol>
+          </section>
+
+          <section>
+            <RunningHead
+              title="the citation graph"
+              folio={`${fmt(meta.totals.citations)} citations`}
+            />
+            <p class="section-note">
+              Each time a text names another work or author, the harvest
+              records the stance — cited as authority, endorsed, refuted,
+              extended, or merely reported.
+            </p>
+            <div class="cited-cols">
+              <div>
+                <h3 class="cited-h">Most-cited works</h3>
+                <ol class="cited-ledger">
+                  {topWorks.map((t) => (
+                    <li>
+                      <span class="cited-label">
+                        {t.to_work ? (
+                          <a href={`/works/${t.to_work}/`}>{t.label}</a>
+                        ) : (
+                          t.label
+                        )}
+                      </span>
+                      <StanceMarks stances={t.stances} />
+                    </li>
+                  ))}
+                </ol>
+              </div>
+              <div>
+                <h3 class="cited-h">Most-cited authors</h3>
+                <ol class="cited-ledger">
+                  {topAuthors.map((t) => (
+                    <li>
+                      <span class="cited-label">
+                        {t.to_author ? (
+                          <a href={`/authors/${t.to_author}/`}>{t.label}</a>
+                        ) : (
+                          t.label
+                        )}
+                      </span>
+                      <StanceMarks stances={t.stances} />
+                    </li>
+                  ))}
+                </ol>
+              </div>
+            </div>
+            <p class="more-link">
+              <a href="/atlas/citations/">The full citation ledger</a>
+            </p>
+          </section>
+
+          <section>
+            <RunningHead
+              title="the shape of the harvest"
+              folio={
+                beacon?.generated_at
+                  ? `harvest of ${new Date(beacon.generated_at).toLocaleDateString("en-US", { month: "long", day: "numeric" })}`
+                  : undefined
+              }
+            />
+            <p class="section-note">
+              Mapping began with the classical core — the Greek, Latin,
+              Sanskrit and Kawi texts are furthest along; the modern corpus is
+              still largely undrawn. The bars state plainly what is and is not
+              yet mapped, in passages of text per era and language.
+            </p>
+            <div class="coverage-cols">
+              <div>
+                <h3 class="cited-h">By era</h3>
+                <CoverageStrip
+                  rows={Object.entries(meta.coverage.by_era)
+                    .filter(([k]) => k !== "unknown")
+                    .map(([label, v]) => ({ label, ...v }))}
+                />
+              </div>
+              <div>
+                <h3 class="cited-h">By language</h3>
+                <CoverageStrip
+                  rows={Object.entries(meta.coverage.by_language)
+                    .filter(([k]) => k !== "unknown")
+                    .map(([label, v]) => ({
+                      label: label.replace(/_/g, " "),
+                      ...v,
+                    }))}
+                />
+              </div>
+            </div>
+          </section>
+
+          <section>
+            <RunningHead
+              title="the themes"
+              folio={`${fmt(meta.totals.theme_topics)} topics`}
+            />
+            <p class="theme-run">
+              {topThemes.map((t, i) => (
+                <>
+                  {i > 0 && <span class="theme-sep"> · </span>}
+                  <a href={`/atlas/themes/#${t.slug}`}>{t.topic.toLowerCase()}</a>
+                </>
+              ))}
+              <span class="theme-sep"> · </span>
+              <a href="/atlas/themes/" class="theme-more">the full index</a>
+            </p>
+          </section>
+
+          <section>
+            <RunningHead title="the method" id="the-method" />
+            <div class="method">
+              <p>
+                The atlas is extracted from the source texts by machine
+                readers, under one discipline carried over from library
+                practice: <em>no claim without a verbatim quotation.</em> The
+                extractor may only point at paragraphs — the quotation is
+                attached afterwards, deterministically, from the text itself,
+                so a fabricated quote is structurally impossible. Every entry
+                links to the exact paragraph that carries it.
+              </p>
+              {proof?.quote && (
+                <QuoteBlock
+                  work={proof.from}
+                  workTitle="one such anchor, read in place"
+                  quote={proof.quote}
+                />
+              )}
+              <p class="method-links">
+                The machinery and its receipts live in the
+                <a href="/engine/"> engine room</a>; the historical argument,
+                in <a href="/book/">Carried Across</a>.
+              </p>
+            </div>
+          </section>
+        </>
+      )
+    }
+  </article>
+</Base>
 
 <style>
-  .wrap {
-    max-width: 72rem;
-    margin-inline: auto;
-    padding-inline: clamp(1rem, 4vw, 2.5rem);
+  .atlas {
+    max-width: 860px;
+    margin: 0 auto;
+    padding: var(--s-16) var(--s-6) var(--s-24);
   }
-
-  .hero {
-    padding-block: clamp(3rem, 8vw, 5rem) clamp(2rem, 5vw, 3.5rem);
-    max-width: 46rem;
+  .masthead {
+    max-width: 720px;
+    margin-bottom: var(--s-16);
   }
-
-  .hero h1 {
-    font-size: var(--text-display);
-    margin: 1.2rem 0 1.6rem;
-  }
-
-  .lede {
-    font-size: 1.22rem;
-    line-height: 1.55;
-    margin-block: 0.9em;
-    max-width: 40em;
-  }
-
-  .stats {
-    display: flex;
-    flex-wrap: wrap;
-    gap: clamp(1.4rem, 4vw, 3rem);
-    margin-top: 2.2rem;
-    border-top: 1px solid var(--color-hairline);
-    padding-top: 1.4rem;
-  }
-
-  .stats div {
-    display: grid;
-    gap: 0.1rem;
-  }
-
-  .stats dt {
-    font-family: var(--font-mono);
-    font-size: 0.66rem;
-    letter-spacing: 0.09em;
-    text-transform: uppercase;
-    color: var(--color-ink-muted);
-  }
-
-  .stats dd {
-    margin: 0;
-    font-size: 1.7rem;
+  h1 {
+    font-family: var(--font-display);
+    font-size: clamp(44px, 7vw, var(--fs-h1));
     font-weight: 600;
-    font-feature-settings: 'tnum';
+    line-height: 1.1;
+    margin: 0 0 var(--s-6);
+    text-wrap: balance;
+  }
+  .lede {
+    font-family: var(--font-body);
+    font-size: 21px;
+    line-height: 1.6;
+    color: var(--ink);
+    margin: 0 0 var(--s-6);
+    text-wrap: pretty;
+  }
+  .colophon {
+    font-family: var(--font-body);
+    font-size: 18px;
+    line-height: 1.7;
+    color: var(--ink-muted);
+    border-top: 1px solid var(--rule);
+    padding-top: var(--s-4);
+    margin: 0;
+    font-variant-numeric: oldstyle-nums;
+  }
+  .colophon strong {
+    color: var(--accent);
+    font-weight: 600;
+  }
+  .pending p {
+    font-family: var(--font-body);
+    font-size: 18px;
+    color: var(--ink-muted);
   }
 
-  .block {
-    padding-block: clamp(1.8rem, 4vw, 3rem);
+  section {
+    margin-bottom: var(--s-16);
+  }
+  .section-note {
+    font-family: var(--font-body);
+    font-size: 18px;
+    line-height: 1.6;
+    color: var(--ink-muted);
+    max-width: 62ch;
+    margin: 0 0 var(--s-6);
+    text-wrap: pretty;
   }
 
-  .grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(19rem, 1fr));
-    gap: 1.1rem;
-    margin-top: 1.6rem;
-  }
-
-  .more {
-    margin-top: 1.6rem;
-    font-size: 1.05rem;
-  }
-
-  .cols {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: clamp(1.5rem, 4vw, 4rem);
-    margin-top: 1.6rem;
-    align-items: start;
-  }
-
-  @media (max-width: 760px) {
-    .cols {
-      grid-template-columns: 1fr;
-    }
-  }
-
-  .grades {
+  /* kind ledger */
+  .kind-ledger {
     list-style: none;
     margin: 0;
     padding: 0;
+  }
+  .kind-row {
     display: grid;
-    gap: 1.1rem;
+    grid-template-columns: 9ch 1fr auto;
+    gap: var(--s-4);
+    align-items: baseline;
+    padding: var(--s-3) 0;
+    border-bottom: 1px solid var(--rule);
+    text-decoration: none;
+    color: inherit;
+  }
+  .kind-name {
+    font-family: var(--font-body);
+    font-size: 20px;
+    font-weight: 600;
+    color: var(--ink);
+    transition: color 150ms ease-out;
+  }
+  .kind-row:hover .kind-name {
+    color: var(--accent);
+  }
+  .kind-gloss {
+    font-family: var(--font-body);
+    font-size: 16px;
+    color: var(--ink-muted);
+    line-height: 1.5;
+  }
+  .kind-top {
+    color: var(--ink);
+  }
+  .kind-count {
+    font-family: var(--font-body);
+    font-size: 17px;
+    font-variant-numeric: oldstyle-nums tabular-nums;
+    color: var(--ink-muted);
   }
 
-  .grades li {
-    border: 1px solid var(--color-hairline);
-    border-radius: 4px;
-    background: var(--color-paper-raised);
-    padding: 1rem 1.2rem;
+  /* citation ledgers */
+  .cited-cols,
+  .coverage-cols {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: var(--s-10);
+  }
+  .cited-h {
+    font-family: var(--font-body);
+    font-size: 16px;
+    font-weight: 600;
+    font-variant: small-caps;
+    text-transform: lowercase;
+    letter-spacing: 0.06em;
+    color: var(--ink-muted);
+    margin: 0 0 var(--s-3);
+  }
+  .cited-ledger {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .cited-ledger li {
+    padding: var(--s-2) 0;
+    border-bottom: 1px solid var(--rule);
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+  }
+  .cited-label {
+    font-family: var(--font-body);
+    font-size: 18px;
+    color: var(--ink);
+  }
+  .cited-label a {
+    color: inherit;
+    text-decoration: none;
+    border-bottom: 1px solid var(--rule);
+  }
+  .cited-label a:hover {
+    color: var(--accent);
+    border-color: var(--accent-soft);
+  }
+  .more-link {
+    margin-top: var(--s-4);
+  }
+  .more-link a,
+  .method-links a {
+    font-family: var(--font-body);
+    font-size: 17px;
+    color: var(--accent);
+    text-decoration: none;
+    border-bottom: 1px solid var(--accent-soft);
   }
 
-  .grades p {
-    margin: 0.45rem 0 0;
-    font-size: 0.98rem;
-    color: var(--color-ink-muted);
+  /* themes as a set index line */
+  .theme-run {
+    font-family: var(--font-body);
+    font-size: 19px;
+    line-height: 1.9;
+    margin: 0;
+    max-width: 72ch;
+  }
+  .theme-run a {
+    color: var(--ink);
+    text-decoration: none;
+    border-bottom: 1px solid var(--rule);
+    transition: color 150ms ease-out, border-color 150ms ease-out;
+  }
+  .theme-run a:hover {
+    color: var(--accent);
+    border-color: var(--accent-soft);
+  }
+  .theme-sep {
+    color: var(--accent-soft);
+  }
+  .theme-more {
+    color: var(--accent) !important;
   }
 
-  .block .prose {
-    margin-top: 1.4rem;
+  .method p {
+    font-family: var(--font-body);
+    font-size: 18px;
+    line-height: 1.7;
+    max-width: 65ch;
+    margin: 0 0 var(--s-4);
+    text-wrap: pretty;
+  }
+
+  @media (max-width: 767px) {
+    .atlas {
+      padding-top: var(--s-10);
+    }
+    .masthead {
+      margin-bottom: var(--s-10);
+    }
+    .lede {
+      font-size: 19px;
+    }
+    section {
+      margin-bottom: var(--s-12);
+    }
+    .cited-cols,
+    .coverage-cols {
+      grid-template-columns: 1fr;
+      gap: var(--s-8);
+    }
+    .kind-row {
+      grid-template-columns: 1fr auto;
+    }
+    .kind-gloss {
+      grid-column: 1 / -1;
+      order: 3;
+    }
   }
 </style>

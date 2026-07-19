@@ -68,6 +68,16 @@ One command:
 bun run deploy          # = scripts/deploy.sh : build + rclone sync to R2
 ```
 
+**The atlas refreshes itself on every build.** `apps/site` `prebuild` runs, in
+order: prepare-covers → prepare-corpus → build-paragraph-index →
+**`scripts/atlas/sync-harvest.ts`** (pulls newly finalized ontology windows
+from the public R2 harvest bucket; fail-soft when offline) →
+**`scripts/atlas/synthesize.ts`** (re-aggregates the whole atlas from the
+mirror, ~5s) → build-llms. So every `bun run build` / `bun run deploy` picks
+up whatever the harvester has finished and whatever new works entered the
+corpus — no manual step, nothing hardwired. To refresh the atlas without
+building, run `bun run atlas:sync && bun run atlas:build` at the repo root.
+
 Or step by step:
 
 ```bash

@@ -73,6 +73,8 @@ evidence         Evidence[]
 justification    string
 ```
 
+**Ingest defensively (validator drift).** The runtime validator is looser than the published JSON Schema: it checks required keys, the anchor XOR rule, real paragraph ids, and the figure/figure_kind pairing, but does *not* enforce the `kind`/`quote_event.kind` enums or reject extra keys. So the on-disk data carries a little off-schema noise — `kind:"deity"` as a top-level 8th kind, `quote_event.kind:"accusation"`, stray keys (`evidence_note`, `implicit`, `quoted_person_kind`). Treat the enums above as canonical, but **read tolerantly** and take grounding **only** from `evidence[].expanded_paragraph_ids` and `evidence[].quotes[]`.
+
 ### A.3 Two graphs already live in this schema
 
 The schema is not a flat tag list — it's **two overlapping graphs plus two rich node sets**:
@@ -115,6 +117,8 @@ At **2,054 / 12,797 windows (16.1%)** done — 514 works fully complete:
 | **Citations** | 16,721 |
 | **Quote events** | 41,109 |
 | **Evidence objects** (anchored) | 275,406 |
+
+> These are a **dated snapshot**. The live counts come from the freshness beacon (A.11): at 2026-07-19 09:09 UTC it read **2,070 windows · 108,466 entities · 20,276 themes · 16,943 citations · 41,488 quote-events · 277,712 evidence**, and it climbs on its own as harvesting continues. **Never hardwire these numbers — read them.** (An older local mirror can lag — the on-disk `windows/` copy was at 1,558 while R2 was at 2,070.)
 
 **Entity kinds:**
 | kind | count |
@@ -171,10 +175,45 @@ The mature clusters today are the **Greek classical core + the entire Indic/Vedi
 
 ### A.9 Where the data lives
 
-- Raw per-window output: `corpus/graph/ontology-runs/2026-07-02-sonnet-benchmark/responses/*.response.txt`
-- Enriched (quotes attached): `.../windows/*.enriched.json`
-- Progress-of-record: Cloudflare R2 (`r2:falsafa-ontology-runs/…`); git is gitignored for run output.
-- Schema/pipeline: `scripts/graph/ontology-production-run.ts`, `scripts/graph/ontology-sonnet-production.ts`.
+- **The corpus (denominator, git-tracked):** `corpus/manifest.json` — all works/authors/eras + `counts`; the full set of 2,018 works / 12,797 windows the harvest draws from.
+- **Raw per-window output:** `corpus/graph/ontology-runs/2026-07-02-sonnet-benchmark/responses/*.response.txt`
+- **Enriched (quotes attached):** `.../windows/*.enriched.json` — the files the atlas reads.
+- **Progress-of-record: Cloudflare R2**, `r2:falsafa-ontology-runs/…`, mirrored to a public r2.dev URL (see A.11). The `windows/`, `responses/`, `prompts/`, and `window-manifest.json` are **gitignored** — R2 is authoritative, local disk is only ever a partial mirror.
+- **Already-aggregated but STALE:** `corpus/graph/{citation-graph.json, figure-index.json, quote-events.json, acquisition-list.json, stats.json}` — a *prior* synthesis over only **~15–20 works** (`citation-graph.json` = 351 nodes / 420 edges; `figure-index.json` = 468 figures; `acquisition-list.json` = a ranked list of not-yet-in-corpus targets the graph most wants next). These are far behind the current 2,000+-window harvest and on an earlier schema — **regenerate from the full harvest; do not trust the checked-in copies.** (`acquisition-list.json`'s ranking logic is itself worth reusing as an auto-signal for what to acquire next.)
+- **Schema/pipeline:** `scripts/graph/ontology-production-run.ts`, `scripts/graph/ontology-sonnet-production.ts`.
+
+### A.10 The node model — what is a node, and what is not (yet)
+
+Before designing anything, be exact about what has a **stable identity** today versus what is still just a per-window string. The data is currently **work-anchored**: every extraction lives inside one work and points at that work's paragraphs. **A global entity graph does not exist yet — it has to be synthesised** (A.11 / Open threads).
+
+**Stable nodes (canonical id today):**
+- **Work** — `work_slug` (e.g. `a-v-dicey-lectures-...-340c4e`), from `corpus/manifest.json`. Git-tracked, reader-addressable.
+- **Author** — author slug in the corpus manifest. Git-tracked.
+- **Paragraph** — `p-xxxxxx`, stable and reader-addressable; the anchor every claim resolves to.
+
+**Proto-nodes (extracted, but NOT yet resolved into nodes):**
+- **Entity** (7 kinds; ~108k *pre-merge*) — keyed only by `canonical_name` + `surface_names` **within a window**. The same person/place/idea recurs across thousands of windows as independent rows; naive dedup already collapses ~48%, and alias- + transliteration-aware merging collapses more.
+- **Theme** (~20k; ~99% unique surface) — free-text topics, essentially unclustered.
+
+**The identity problem (the precondition for the atlas).** One real figure can appear as up to **five unlinked representations**: a `figure` entity's `canonical_name`, a `cited_author` on a citation, a `quoted_author` on a quote-event, an author slug in the corpus manifest, and (if in-corpus) the author of a work. Unifying these into one node — across languages and transliterations (Ζεύς / Zeus, Ṛgveda / Rig Veda) — is the **entity-resolution pass, and it is unbuilt.** The same holds for clustering themes, and for deciding when a `cited_work` string is one of our 2,018 works versus an external reference.
+
+**Edges we have today (all work-anchored, all evidence-backed):** `work → cited_work` and `work → cited_author` (stance-typed), `work → entity` (mention), `work → theme` (engagement), and `quote_event` (an in-work speech/citation act). What's missing is not evidence — every edge already carries paragraph-anchored verbatim quotes — it is **entity identity**: turning work-anchored proto-nodes into resolved cross-work nodes so the edges connect into a real graph.
+
+### A.11 Staying current — source of truth & the auto-update contract
+
+The system must assume the data **only grows**, and update itself with no hardwired snapshot. There are **two independent growth vectors**, each with its own detectable signal:
+
+1. **Corpus acquisition (new works enter the library).** New works (roadmap: Perseus → GRETIL/Indic → Liberty Fund → Islamic → …) land in `corpus/manifest.json` (git-tracked) and raise the 2,018 / 12,797 denominator. Detect by reading the manifest's `counts` + `works[]` fresh on every build.
+2. **Harvest progress (existing works get ontology-extracted).** The live vector, and it is **not in git** — output is written to R2 as progress-of-record; cloud sessions do R2 write-back. Local disk is only ever a partial mirror.
+
+**How we know there is more — the freshness beacon (verified live 2026-07-19):**
+- **`production-run-summary.json`**, served publicly at
+  `https://pub-88ffad6f37754be2b0e33466951a5135.r2.dev/2026-07-02-sonnet-benchmark/production-run-summary.json`
+  — regenerated on every finalize. Read `generated_at` (freshness timestamp), `responses_finalized` / `total_archive_windows` (coverage), and `extraction_volume` (live entity/theme/citation/quote/evidence counts). At check time: **2,070 / 12,797 windows, 108,466 entities** — and rising unattended.
+- **`responses-manifest.txt`** (same base) — the flat list of finalized windows; derive `work_slug`s to get the exact harvested-works set. It can lag the summary slightly (1,766 lines vs 2,070 finalized at check time; the two regenerate on different cadences) — treat the summary as the count-of-record and the manifest as the best-available window index.
+- **Each `.enriched.json` is individually fetchable** over plain public HTTPS at `.../windows/<window>.enriched.json` — no credentials, no rclone for incremental pulls. **Bucket listing (ListObjects) is not exposed**, so the manifest *is* the index; you cannot enumerate the bucket directly.
+
+**The auto-update loop (a data contract, not UI):** on build (or on a schedule) read the beacon's `generated_at` / `responses_finalized`; if it advanced past the last build, diff `responses-manifest.txt` to find new windows, pull those `.enriched.json`, re-run synthesis (resolve proto-nodes → nodes/edges), and rebuild. The **denominator** comes from the manifests, the **numerator** from the beacon — nothing is pinned to a snapshot, so new works and new harvest coverage flow in automatically.
 
 ---
 
@@ -257,6 +296,8 @@ Greenfield means these are reference-only; the rebuild does not have to preserve
 ---
 
 ## Open threads (for the design phase — NOT decided here)
-- Entity resolution / dedup across works (is "Plato" the author-node the same as "Plato" the cited-author and "Plato" the figure-entity? cross-window canonicalisation is unsolved).
-- The graph is per-window today; a global synthesis pass (à la Indian Liberals' `data/synthesis/`) does not yet exist for falsafa.
-- Harvest is ~16% done and skewed to Greek/Vedic/Law; modern corpus is empty. Design should assume the graph keeps growing and rebalancing.
+- **Entity resolution / dedup — the #1 precondition.** Cross-window canonicalisation is unsolved: "Plato" the figure-entity, the cited-author, the quoted-author, the manifest author, and the author-of-works are five unlinked strings today (A.10). Nothing is a real node until this pass exists. Needs an authority-file + blocking/embedding approach with confidence thresholds (Indian Liberals' manual cluster-collapse won't scale); themes need clustering essentially from scratch (~99% unique surface).
+- **Global synthesis pass is missing.** The graph is per-window; no pass (à la Indian Liberals' `data/synthesis/`) rolls it up into resolved nodes/edges + indexes. The existing `citation-graph.json` / `figure-index.json` are a **stale ~15–20-work** earlier-schema attempt (A.9) — evolve or rebuild against the full `anchor-range-v1` harvest, don't port them.
+- **Auto-update is a solved-but-unwired mechanism (A.11).** The freshness beacon + manifest + per-window HTTPS fetch already exist on public R2. Open question is *where synthesis runs* (in `bun run deploy`? on a schedule? incremental vs full re-aggregate?) and how the site sources from R2 rather than the lagging local mirror — not *whether* we can detect new data.
+- **Design for skew + growth.** Coverage is saturated on Greek/Vedic/Roman-law and near-empty on the modern corpus, and rebalances over time (A.8). The atlas must look complete now and degrade gracefully — no page broken because a language/era is at 0% — and assume the graph keeps growing.
+- **Ingest defensively.** Read grounding only from `evidence[].expanded_paragraph_ids` / `quotes[]`; tolerate the off-schema `kind`/`quote_event.kind` values and stray keys (A.2).

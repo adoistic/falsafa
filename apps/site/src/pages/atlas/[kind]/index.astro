@@ -1,0 +1,312 @@
+---
+/**
+ * Kind ledger — /atlas/figures/, /atlas/ideas/, … One catalogue ledger per
+ * entity kind, every row from the synthesis artifacts. Entities with pages
+ * link through; the long tail is listed without links (it earns a page as
+ * the harvest deepens — rerun synthesis and it appears).
+ */
+import Base from "../../../layouts/Base.astro";
+import RunningHead from "../../../components/atlas-ui/RunningHead.astro";
+import {
+  atlasMeta,
+  entitiesOfKind,
+  KINDS,
+  kindByPlural,
+  fmt,
+  plural as pl,
+} from "../../../lib/atlas-graph";
+
+export function getStaticPaths() {
+  return KINDS.map((k) => ({ params: { kind: k.plural } }));
+}
+
+const { kind: kindPlural } = Astro.params;
+const kindDef = kindByPlural(kindPlural!)!;
+const meta = atlasMeta();
+const allRows = entitiesOfKind(kindDef.kind);
+const rows = allRows.filter((e) => !e.see);
+const crossRefs = allRows
+  .filter((e) => e.see)
+  .map((e) => ({
+    ...e,
+    headName: allRows.find((h) => h.slug === e.see && !h.see)?.name ?? e.see!,
+  }))
+  .sort((a, b) => (a.name.toLowerCase() < b.name.toLowerCase() ? -1 : 1));
+const paged = rows.filter((e) => e.page);
+const tail = rows.filter((e) => !e.page);
+// The ledger proper: paged entities, by breadth then depth.
+const ledger = [...paged].sort(
+  (a, b) => b.works - a.works || b.evidence - a.evidence || (a.name < b.name ? -1 : 1),
+);
+// figure sub-kind marks
+const fkMark: Record<string, string> = {
+  deity: "△",
+  mythological: "◦",
+};
+---
+
+<Base
+  ogImage="/og/atlas.png"
+  title={`${kindDef.label} · Atlas`}
+  description={`${kindDef.label} in the atlas: ${kindDef.gloss}. ${fmt(rows.length)} so far, drawn from the harvested texts.`}
+>
+  <article class="kind-page">
+    <header class="masthead">
+      <p class="crumb"><a href="/atlas/">The Atlas</a></p>
+      <h1>{kindDef.label}</h1>
+      <p class="lede">
+        {kindDef.gloss.charAt(0).toUpperCase() + kindDef.gloss.slice(1)} —
+        {fmt(rows.length)} distinct so far, drawn from
+        {meta ? pl(meta.works_harvested, "harvested work") : "the harvest"}.
+        Each entry is backed by verbatim, paragraph-anchored quotation.
+      </p>
+    </header>
+
+    <section>
+      <RunningHead title="the ledger" folio={`${fmt(ledger.length)} entries`} />
+      <ol class="ledger">
+        {
+          ledger.map((e, i) => (
+            <li>
+              <a class="row" href={`/atlas/${kindDef.plural}/${e.slug}/`}>
+                <span class="row-n">{i + 1}</span>
+                <span class="row-name">
+                  {e.name}
+                  {e.figure_kind && fkMark[e.figure_kind] && (
+                    <span class="row-fk" title={e.figure_kind}>
+                      {" "}
+                      {fkMark[e.figure_kind]}
+                    </span>
+                  )}
+                </span>
+                <span class="row-meta">
+                  {pl(e.works, "work")} · {fmt(e.mentions)} mentions
+                </span>
+              </a>
+            </li>
+          ))
+        }
+      </ol>
+      {
+        kindDef.kind === "figure" && (
+          <p class="legend">
+            <span class="row-fk">△</span> deity · <span class="row-fk">◦</span>{" "}
+            mythological · unmarked, historical
+          </p>
+        )
+      }
+    </section>
+
+    {
+      crossRefs.length > 0 && (
+        <section>
+          <RunningHead
+            title="cross-references"
+            folio={`${fmt(crossRefs.length)} names`}
+          />
+          <p class="tail-note">
+            Other names the corpus uses — each folded into its concept page:
+          </p>
+          <p class="xref-run">
+            {crossRefs.slice(0, 200).map((e, i) => (
+              <>
+                {i > 0 && <span class="tail-sep"> · </span>}
+                <span class="xref">
+                  {e.name}
+                  <span class="xref-see"> see </span>
+                  <a href={`/atlas/${kindDef.plural}/${e.see}/`}>{e.headName}</a>
+                </span>
+              </>
+            ))}
+            {crossRefs.length > 200 && (
+              <span class="tail-sep">
+                {" "}
+                · and {fmt(crossRefs.length - 200)} more
+              </span>
+            )}
+          </p>
+        </section>
+      )
+    }
+
+    {
+      tail.length > 0 && (
+        <section>
+          <RunningHead
+            title="noted, not yet mapped"
+            folio={`${fmt(tail.length)} more`}
+          />
+          <p class="tail-note">
+            Named in one work so far, awaiting more of the harvest before they
+            earn a page of their own:
+          </p>
+          <p class="tail-run">
+            {tail.slice(0, 160).map((e, i) => (
+              <>
+                {i > 0 && <span class="tail-sep"> · </span>}
+                <span>{e.name}</span>
+              </>
+            ))}
+            {tail.length > 160 && (
+              <span class="tail-sep"> · and {fmt(tail.length - 160)} more</span>
+            )}
+          </p>
+        </section>
+      )
+    }
+  </article>
+</Base>
+
+<style>
+  .kind-page {
+    max-width: 860px;
+    margin: 0 auto;
+    padding: var(--s-16) var(--s-6) var(--s-24);
+  }
+  .masthead {
+    max-width: 720px;
+    margin-bottom: var(--s-12);
+  }
+  .crumb {
+    margin: 0 0 var(--s-2);
+  }
+  .crumb a {
+    font-family: var(--font-body);
+    font-size: 16px;
+    font-variant: small-caps;
+    text-transform: lowercase;
+    letter-spacing: 0.06em;
+    color: var(--ink-muted);
+    text-decoration: none;
+  }
+  .crumb a:hover {
+    color: var(--accent);
+  }
+  h1 {
+    font-family: var(--font-display);
+    font-size: clamp(40px, 6vw, 52px);
+    font-weight: 600;
+    line-height: 1.1;
+    margin: 0 0 var(--s-4);
+  }
+  .lede {
+    font-family: var(--font-body);
+    font-size: 19px;
+    line-height: 1.6;
+    color: var(--ink-muted);
+    margin: 0;
+    max-width: 62ch;
+    text-wrap: pretty;
+    font-variant-numeric: oldstyle-nums;
+  }
+
+  section {
+    margin-bottom: var(--s-16);
+  }
+  .ledger {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    column-gap: var(--s-10);
+  }
+  @media (min-width: 900px) {
+    .ledger {
+      columns: 2;
+    }
+  }
+  .row {
+    display: grid;
+    grid-template-columns: 3ch 1fr auto;
+    gap: var(--s-3);
+    align-items: baseline;
+    padding: var(--s-2) 0;
+    border-bottom: 1px solid var(--rule);
+    text-decoration: none;
+    color: inherit;
+    break-inside: avoid;
+  }
+  .row-n {
+    font-family: var(--font-body);
+    font-size: 14px;
+    font-variant-numeric: oldstyle-nums tabular-nums;
+    color: var(--accent-soft);
+    text-align: right;
+  }
+  .row-name {
+    font-family: var(--font-body);
+    font-size: 18px;
+    color: var(--ink);
+    transition: color 150ms ease-out;
+  }
+  .row:hover .row-name {
+    color: var(--accent);
+  }
+  .row-fk {
+    color: var(--accent-soft);
+    font-size: 13px;
+  }
+  .row-meta {
+    font-family: var(--font-body);
+    font-size: 15px;
+    font-variant-numeric: oldstyle-nums;
+    color: var(--ink-muted);
+    white-space: nowrap;
+  }
+  .legend {
+    margin-top: var(--s-4);
+    font-family: var(--font-body);
+    font-size: 15px;
+    color: var(--ink-muted);
+  }
+
+  .tail-note {
+    font-family: var(--font-body);
+    font-size: 17px;
+    color: var(--ink-muted);
+    margin: 0 0 var(--s-4);
+    max-width: 62ch;
+  }
+  .xref-run {
+    font-family: var(--font-body);
+    font-size: 17px;
+    line-height: 2;
+    color: var(--ink);
+    margin: 0;
+  }
+  .xref {
+    white-space: nowrap;
+  }
+  .xref-see {
+    font-variant: small-caps;
+    text-transform: lowercase;
+    letter-spacing: 0.05em;
+    font-weight: 600;
+    color: var(--accent);
+    font-size: 15px;
+  }
+  .xref a {
+    color: var(--ink);
+    text-decoration: none;
+    border-bottom: 1px solid var(--rule);
+  }
+  .xref a:hover {
+    color: var(--accent);
+    border-color: var(--accent-soft);
+  }
+  .tail-run {
+    font-family: var(--font-body);
+    font-size: 17px;
+    line-height: 1.9;
+    color: var(--ink);
+    margin: 0;
+  }
+  .tail-sep {
+    color: var(--accent-soft);
+  }
+
+  @media (max-width: 599px) {
+    .row-meta {
+      font-size: 14px;
+    }
+  }
+</style>

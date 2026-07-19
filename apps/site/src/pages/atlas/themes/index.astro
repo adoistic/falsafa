@@ -1,0 +1,238 @@
+---
+/**
+ * The theme index — /atlas/themes/. What the texts are about, as a book's
+ * back-index: topic, count, the works that engage it, one verbatim anchor.
+ * Topics are near-unique per window today (clustering is future work), so
+ * the index shows the recurring head and a set-line tail.
+ */
+import Base from "../../../layouts/Base.astro";
+import RunningHead from "../../../components/atlas-ui/RunningHead.astro";
+import QuoteBlock from "../../../components/atlas-ui/QuoteBlock.astro";
+import { atlasMeta, themeRows, fmt, plural as pl } from "../../../lib/atlas-graph";
+
+const meta = atlasMeta();
+const all = themeRows();
+const recurring = all.filter((t) => t.total >= 3).slice(0, 80);
+const singles = all.filter((t) => t.total < 3);
+---
+
+<Base
+  ogImage="/og/atlas.png"
+  title="Themes · Atlas"
+  description="What the texts are about: the recurring concerns of twenty-five centuries, each anchored to verbatim passages."
+>
+  <article class="themes">
+    <header class="masthead">
+      <p class="crumb"><a href="/atlas/">The Atlas</a></p>
+      <h1>The themes</h1>
+      <p class="lede">
+        What the harvested texts are about —
+        {meta ? `${fmt(meta.totals.theme_topics)} topics so far` : "the index grows with the harvest"},
+        from justice and dharma to homecoming and the immortality of the
+        soul. A theme is what a passage is <em>about</em>, not merely a thing
+        named in it.
+      </p>
+    </header>
+
+    <section>
+      <RunningHead
+        title="recurring concerns"
+        folio={`${fmt(recurring.length)} shown`}
+      />
+      <div class="rec-list">
+        {
+          recurring.map((t) => (
+            <div class="theme-entry" id={t.slug}>
+              <h3 class="theme-h">
+                <span class="theme-name">{t.topic}</span>
+                <span class="theme-count">
+                  {pl(t.works.length, "work")} · {fmt(t.total)} passages
+                </span>
+              </h3>
+              <p class="theme-works">
+                {t.works.slice(0, 6).map((w, i) => (
+                  <>
+                    {i > 0 && <span class="sep"> · </span>}
+                    <a href={`/works/${w.work}/`}>{w.title}</a>
+                  </>
+                ))}
+                {t.works.length > 6 && (
+                  <span class="sep"> · and {fmt(t.works.length - 6)} more</span>
+                )}
+              </p>
+              {t.works[0]?.quote && (
+                <details class="anchor">
+                  <summary>one anchor</summary>
+                  <QuoteBlock
+                    work={t.works[0].work}
+                    workTitle={t.works[0].title}
+                    quote={t.works[0].quote}
+                  />
+                </details>
+              )}
+            </div>
+          ))
+        }
+      </div>
+    </section>
+
+    {
+      singles.length > 0 && (
+        <section>
+          <RunningHead
+            title="noted in passing"
+            folio={`${fmt(singles.length)} topics`}
+          />
+          <p class="singles-note">
+            Concerns the harvest has met only once or twice so far — the
+            index's growing edge:
+          </p>
+          <p class="singles-run">
+            {singles.slice(0, 220).map((t, i) => (
+              <>
+                {i > 0 && <span class="sep"> · </span>}
+                <span>{t.topic.toLowerCase()}</span>
+              </>
+            ))}
+            {singles.length > 220 && (
+              <span class="sep"> · and {fmt(singles.length - 220)} more</span>
+            )}
+          </p>
+        </section>
+      )
+    }
+  </article>
+</Base>
+
+<style>
+  .themes {
+    max-width: 860px;
+    margin: 0 auto;
+    padding: var(--s-16) var(--s-6) var(--s-24);
+  }
+  .masthead {
+    max-width: 720px;
+    margin-bottom: var(--s-12);
+  }
+  .crumb {
+    margin: 0 0 var(--s-2);
+    font-family: var(--font-body);
+    font-size: 16px;
+    font-variant: small-caps;
+    text-transform: lowercase;
+    letter-spacing: 0.06em;
+  }
+  .crumb a {
+    color: var(--ink-muted);
+    text-decoration: none;
+  }
+  .crumb a:hover {
+    color: var(--accent);
+  }
+  h1 {
+    font-family: var(--font-display);
+    font-size: clamp(38px, 6vw, 50px);
+    font-weight: 600;
+    line-height: 1.1;
+    margin: 0 0 var(--s-4);
+  }
+  .lede {
+    font-family: var(--font-body);
+    font-size: 19px;
+    line-height: 1.65;
+    color: var(--ink);
+    margin: 0;
+    max-width: 62ch;
+    text-wrap: pretty;
+    font-variant-numeric: oldstyle-nums;
+  }
+
+  section {
+    margin-bottom: var(--s-16);
+  }
+  @media (min-width: 900px) {
+    .rec-list {
+      columns: 2;
+      column-gap: var(--s-12);
+    }
+  }
+  .theme-entry {
+    padding: var(--s-3) 0;
+    border-bottom: 1px solid var(--rule);
+    break-inside: avoid;
+  }
+  .theme-h {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: var(--s-4);
+    margin: 0 0 2px;
+  }
+  .theme-name {
+    font-family: var(--font-body);
+    font-size: 19px;
+    font-weight: 600;
+    color: var(--ink);
+  }
+  .theme-count {
+    font-family: var(--font-body);
+    font-size: 15px;
+    font-variant-numeric: oldstyle-nums;
+    color: var(--ink-muted);
+    white-space: nowrap;
+  }
+  .theme-works {
+    font-family: var(--font-body);
+    font-size: 16px;
+    line-height: 1.7;
+    margin: 0;
+    color: var(--ink-muted);
+  }
+  .theme-works a {
+    color: var(--ink);
+    text-decoration: none;
+    border-bottom: 1px solid var(--rule);
+  }
+  .theme-works a:hover {
+    color: var(--accent);
+    border-color: var(--accent-soft);
+  }
+  .sep {
+    color: var(--accent-soft);
+  }
+  .anchor {
+    margin-top: var(--s-2);
+  }
+  .anchor summary {
+    font-family: var(--font-body);
+    font-size: 15px;
+    font-variant: small-caps;
+    text-transform: lowercase;
+    letter-spacing: 0.05em;
+    color: var(--ink-muted);
+    cursor: pointer;
+    list-style: none;
+  }
+  .anchor summary::before {
+    content: "¶ ";
+    color: var(--accent-soft);
+  }
+  .anchor summary:hover {
+    color: var(--accent);
+  }
+
+  .singles-note {
+    font-family: var(--font-body);
+    font-size: 17px;
+    color: var(--ink-muted);
+    margin: 0 0 var(--s-4);
+    max-width: 62ch;
+  }
+  .singles-run {
+    font-family: var(--font-body);
+    font-size: 17px;
+    line-height: 1.9;
+    color: var(--ink);
+    margin: 0;
+  }
+</style>

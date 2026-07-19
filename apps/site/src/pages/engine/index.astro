@@ -40,10 +40,9 @@ const rooms = [
 ];
 ---
 
-<Base title="Engine room" description={description} surface="engine">
+<Base title="Engine room" description={description} surface="engine" ogImage="/og/engine.png">
   <div class="container">
     <header class="hero">
-      <p class="kicker">The engine room</p>
       <h1>The library is the demo</h1>
       <p class="lede">
         Falsafa reads as a quiet library: {m.counts.works} works,
@@ -65,9 +64,11 @@ const rooms = [
       {
         rooms.map((room) => (
           <a class="room" href={room.href}>
-            <p class="room-label">{room.label}</p>
-            <h2>{room.title}</h2>
-            <p class="room-blurb">{room.blurb}</p>
+            <span class="room-label">{room.label}</span>
+            <span class="room-body">
+              <h2>{room.title}</h2>
+              <p class="room-blurb">{room.blurb}</p>
+            </span>
           </a>
         ))
       }
@@ -95,16 +96,6 @@ const rooms = [
     padding: var(--s-12) var(--s-8) var(--s-24);
   }
 
-  .kicker {
-    font-family: var(--font-sans);
-    font-size: 12px;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.12em;
-    color: var(--accent);
-    margin: 0 0 var(--s-3);
-  }
-
   .hero h1 {
     font-family: var(--font-display);
     font-size: var(--fs-h1);
@@ -115,13 +106,14 @@ const rooms = [
   }
 
   .lede {
-    font-family: var(--font-display);
-    font-style: italic;
-    color: var(--ink-muted);
-    font-size: var(--fs-h3);
-    line-height: 1.45;
+    font-family: var(--font-body);
+    color: var(--ink);
+    font-size: 21px;
+    line-height: 1.55;
     max-width: 62ch;
     margin: 0 0 var(--s-6);
+    text-wrap: pretty;
+    font-variant-numeric: oldstyle-nums;
   }
 
   .lede-secondary {
@@ -138,39 +130,38 @@ const rooms = [
   }
 
   .rooms {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-    gap: var(--s-6);
-    padding: var(--s-12) 0;
+    margin: var(--s-12) 0;
     border-top: 1px solid var(--rule);
   }
 
   .room {
-    display: block;
-    border: 1px solid var(--rule);
-    padding: var(--s-6) var(--s-6) var(--s-8);
+    display: grid;
+    grid-template-columns: 10ch 1fr;
+    gap: var(--s-6);
+    align-items: baseline;
+    padding: var(--s-5) 0;
+    border-bottom: 1px solid var(--rule);
     color: var(--ink);
     text-decoration: none;
-    transition: border-color 0.15s ease, transform 0.15s ease;
-  }
-
-  .room:hover {
-    border-color: var(--accent);
-    transform: translateY(-2px);
   }
 
   .room-label {
     font-family: var(--font-mono);
-    font-size: 12px;
+    font-size: 14px;
     color: var(--ink-muted);
-    margin: 0 0 var(--s-3);
+    transition: color 0.15s ease;
+  }
+
+  .room:hover .room-label {
+    color: var(--accent);
   }
 
   .room h2 {
     font-family: var(--font-display);
     font-size: var(--fs-h3);
     font-weight: 600;
-    margin: 0 0 var(--s-3);
+    margin: 0 0 var(--s-2);
+    transition: color 0.15s ease;
   }
 
   .room:hover h2 {
@@ -179,10 +170,18 @@ const rooms = [
 
   .room-blurb {
     font-family: var(--font-body);
-    font-size: 15px;
+    font-size: 17px;
     line-height: 1.6;
     color: var(--ink-muted);
     margin: 0;
+    max-width: 62ch;
+  }
+
+  @media (max-width: 599px) {
+    .room {
+      grid-template-columns: 1fr;
+      gap: var(--s-1);
+    }
   }
 
   .install {

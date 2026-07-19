@@ -1,0 +1,497 @@
+---
+/**
+ * Entity page — /atlas/figures/zeus/, /atlas/ideas/justice/, …
+ * One page per page-worthy merged entity (≥2 works, or deep evidence, or a
+ * linked corpus author). Rendered entirely from the entity's detail
+ * artifact: as the harvest grows, mentions and quotes accrue on rebuild.
+ *
+ * The page IS the discipline made visible: every work the entity appears
+ * in, with the harvest's own grounded description and verbatim,
+ * paragraph-anchored quotations that deep-link into the reader.
+ */
+import Base from "../../../layouts/Base.astro";
+import RunningHead from "../../../components/atlas-ui/RunningHead.astro";
+import QuoteBlock from "../../../components/atlas-ui/QuoteBlock.astro";
+import {
+  entityPageKeys,
+  entityDetail,
+  entityIndex,
+  kindByPlural,
+  KINDS,
+  fmt,
+  plural as pl,
+  type EntityDetailFile,
+} from "../../../lib/atlas-graph";
+
+export function getStaticPaths() {
+  const paths: { params: { kind: string; slug: string } }[] = [];
+  for (const key of entityPageKeys().keys()) {
+    const [kind, slug] = key.split("/");
+    const def = KINDS.find((k) => k.kind === kind);
+    if (def) paths.push({ params: { kind: def.plural, slug } });
+  }
+  // see-reference stubs: former member URLs ("Kāla") redirect to their
+  // concept head ("Time") so folded slugs never 404
+  for (const row of entityIndex()) {
+    if (!row.see) continue;
+    const def = KINDS.find((k) => k.kind === row.kind);
+    if (def) paths.push({ params: { kind: def.plural, slug: row.slug } });
+  }
+  return paths;
+}
+
+const { kind: kindPlural, slug } = Astro.params;
+const kindDef = kindByPlural(kindPlural!)!;
+const e = entityDetail(kindDef.kind, slug!) as EntityDetailFile | null;
+
+// see-reference? render a redirect stub instead of an entity page
+const seeRow = e
+  ? null
+  : entityIndex().find(
+      (r) => r.kind === kindDef.kind && r.slug === slug && r.see,
+    );
+const seeTarget = seeRow ? `/atlas/${kindDef.plural}/${seeRow.see}/` : null;
+const seeHead = seeRow
+  ? entityIndex().find((r) => r.kind === kindDef.kind && r.slug === seeRow.see)
+  : null;
+
+// script detection for surface-name specimens
+function scriptOf(s: string): "arabic" | "devanagari" | "greek" | "latin" {
+  if (/[؀-ۿݐ-ݿ]/.test(s)) return "arabic";
+  if (/[ऀ-ॿ]/.test(s)) return "devanagari";
+  if (/[Ͱ-Ͽἀ-῿]/.test(s)) return "greek";
+  return "latin";
+}
+const surfaces = (e?.surfaces ?? []).slice(0, 10).map((s) => ({
+  text: s,
+  script: scriptOf(s),
+}));
+
+const SHOWN_WORKS = 24;
+const shown = e ? e.works.slice(0, SHOWN_WORKS) : [];
+const rest = e ? e.works.slice(SHOWN_WORKS) : [];
+const expressions = e?.expressions ?? [];
+
+const kindLine = e
+  ? e.kind === "figure" && e.figure_kind
+    ? `${e.figure_kind} figure`
+    : kindDef.label.toLowerCase().replace(/s$/, "")
+  : "";
+
+const desc = e
+  ? (shown.find((w) => w.description)?.description ??
+    `${e.name} in the atlas: ${pl(e.works.length, "work")}, ${fmt(e.mentions)} mentions.`)
+  : `${seeRow?.name} — see ${seeHead?.name ?? "the atlas"}.`;
+const pageTitle = e ? `${e.name} · Atlas` : `${seeRow?.name} · Atlas`;
+---
+
+<Base title={pageTitle} description={desc.slice(0, 200)} ogImage="/og/atlas.png">
+  {
+    seeRow && seeTarget && (
+      <>
+        <script is:inline define:vars={{ seeTarget }}>
+          location.replace(seeTarget);
+        </script>
+        <article class="entity">
+          <header class="masthead">
+            <p class="crumb">
+              <a href="/atlas/">The Atlas</a>
+              <span class="crumb-sep">·</span>
+              <a href={`/atlas/${kindDef.plural}/`}>{kindDef.label}</a>
+            </p>
+            <h1>{seeRow.name}</h1>
+            <p class="see-line">
+              <span class="see-word">see</span>{" "}
+              <a href={seeTarget}>{seeHead?.name ?? "the concept page"}</a> —
+              this name is one of the ways the corpus speaks of it.
+            </p>
+          </header>
+        </article>
+      </>
+    )
+  }
+  {e && (
+  <article class="entity">
+    <header class="masthead">
+      <p class="crumb">
+        <a href="/atlas/">The Atlas</a>
+        <span class="crumb-sep">·</span>
+        <a href={`/atlas/${kindDef.plural}/`}>{kindDef.label}</a>
+      </p>
+      <h1>{e.name}</h1>
+      {e.gloss && <p class="gloss-line">“{e.gloss}”</p>}
+      <p class="kind-line">
+        {kindLine} ·
+        {pl(e.works.length, "work")} · {fmt(e.mentions)} mentions ·
+        {fmt(e.evidence)} anchored passages
+        {
+          e.author_slug && (
+            <>
+              {" "}
+              · <a href={`/authors/${e.author_slug}/`} class="author-link">
+                author page
+              </a>
+            </>
+          )
+        }
+      </p>
+      {
+        surfaces.length > 0 && (
+          <p class="surfaces">
+            {surfaces.map((s, i) => (
+              <>
+                {i > 0 && <span class="surface-sep"> · </span>}
+                <span
+                  class={`surface surface-${s.script}`}
+                  dir={s.script === "arabic" ? "rtl" : undefined}
+                >
+                  {s.text}
+                </span>
+              </>
+            ))}
+          </p>
+        )
+      }
+    </header>
+
+    {
+      expressions.length > 0 && (
+        <section>
+          <RunningHead
+            title="spoken of as"
+            folio={pl(expressions.length, "expression")}
+          />
+          <div class="expr-list">
+            {expressions.map((x) => (
+              <div class="expr">
+                <h3 class="expr-h">
+                  <span class="expr-name">{x.name}</span>
+                  {x.gloss && <span class="expr-gloss">“{x.gloss}”</span>}
+                  <span class="expr-count">{pl(x.mentions, "mention")}</span>
+                </h3>
+                <p class="expr-works">
+                  {x.works.map((w, i) => (
+                    <>
+                      {i > 0 && <span class="expr-sep"> · </span>}
+                      <a href={`/works/${w.work}/`}>{w.title ?? w.work}</a>
+                      {w.language && (
+                        <span class="expr-lang">
+                          {" "}
+                          ({w.language.replace(/_/g, " ")})
+                        </span>
+                      )}
+                    </>
+                  ))}
+                </p>
+                {x.works[0]?.quotes?.[0] && (
+                  <QuoteBlock work={x.works[0].work} quote={x.works[0].quotes[0]} />
+                )}
+              </div>
+            ))}
+          </div>
+        </section>
+      )
+    }
+
+    <section>
+      <RunningHead
+        title="in the texts"
+        folio={rest.length > 0 ? `first ${shown.length} works` : undefined}
+      />
+      <div class="works">
+        {
+          shown.map((w) => (
+            <div class="work-entry">
+              <h3 class="work-h">
+                <a href={`/works/${w.work}/`}>{w.title}</a>
+                <span class="work-meta">
+                  {[w.era, w.language?.replace(/_/g, " ")]
+                    .filter(Boolean)
+                    .join(" · ")}
+                </span>
+              </h3>
+              {w.description && <p class="work-desc">{w.description}</p>}
+              {w.quotes.map((q) => (
+                <QuoteBlock work={w.work} quote={q} />
+              ))}
+            </div>
+          ))
+        }
+      </div>
+      {
+        rest.length > 0 && (
+          <div class="rest">
+            <p class="rest-note">Also present in:</p>
+            <p class="rest-run">
+              {rest.map((w, i) => (
+                <>
+                  {i > 0 && <span class="rest-sep"> · </span>}
+                  <a href={`/works/${w.work}/`}>{w.title}</a>
+                </>
+              ))}
+            </p>
+          </div>
+        )
+      }
+    </section>
+
+    <footer class="entity-foot">
+      <p>
+        Drawn from the ontology harvest; grows as more of the corpus is
+        mapped. Every quotation above is verbatim from the linked paragraph —
+        <a href="/atlas/#the-method">the method</a>.
+      </p>
+    </footer>
+  </article>
+  )}
+</Base>
+
+<style>
+  .gloss-line {
+    font-family: var(--font-body);
+    font-style: italic;
+    font-size: 20px;
+    color: var(--ink-muted);
+    margin: calc(-1 * var(--s-2)) 0 var(--s-3);
+  }
+  .see-line {
+    font-family: var(--font-body);
+    font-size: 19px;
+    line-height: 1.6;
+    color: var(--ink-muted);
+    margin: 0;
+    max-width: 56ch;
+  }
+  .see-word {
+    font-variant: small-caps;
+    text-transform: lowercase;
+    letter-spacing: 0.06em;
+    font-weight: 600;
+    color: var(--accent);
+  }
+  .see-line a {
+    color: var(--ink);
+    font-weight: 600;
+    text-decoration: none;
+    border-bottom: 1px solid var(--accent-soft);
+  }
+  .see-line a:hover {
+    color: var(--accent);
+  }
+
+  .expr {
+    padding: var(--s-3) 0;
+    border-bottom: 1px solid var(--rule);
+  }
+  .expr:last-child {
+    border-bottom: none;
+  }
+  .expr-h {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: var(--s-3);
+    margin: 0 0 var(--s-1);
+  }
+  .expr-name {
+    font-family: var(--font-body);
+    font-size: 21px;
+    font-weight: 600;
+    color: var(--ink);
+  }
+  .expr-gloss {
+    font-family: var(--font-body);
+    font-style: italic;
+    font-size: 17px;
+    color: var(--ink-muted);
+  }
+  .expr-count {
+    font-family: var(--font-body);
+    font-size: 15px;
+    font-variant-numeric: oldstyle-nums;
+    color: var(--ink-muted);
+    margin-left: auto;
+    white-space: nowrap;
+  }
+  .expr-works {
+    font-family: var(--font-body);
+    font-size: 16px;
+    line-height: 1.8;
+    margin: 0 0 var(--s-2);
+    color: var(--ink-muted);
+  }
+  .expr-works a {
+    color: var(--ink);
+    text-decoration: none;
+    border-bottom: 1px solid var(--rule);
+  }
+  .expr-works a:hover {
+    color: var(--accent);
+    border-color: var(--accent-soft);
+  }
+  .expr-lang {
+    font-size: 14px;
+  }
+  .expr-sep {
+    color: var(--accent-soft);
+  }
+  .entity {
+    max-width: 760px;
+    margin: 0 auto;
+    padding: var(--s-16) var(--s-6) var(--s-24);
+  }
+  .masthead {
+    margin-bottom: var(--s-12);
+  }
+  .crumb {
+    margin: 0 0 var(--s-2);
+    font-family: var(--font-body);
+    font-size: 16px;
+    font-variant: small-caps;
+    text-transform: lowercase;
+    letter-spacing: 0.06em;
+    color: var(--ink-muted);
+  }
+  .crumb a {
+    color: inherit;
+    text-decoration: none;
+  }
+  .crumb a:hover {
+    color: var(--accent);
+  }
+  .crumb-sep {
+    margin: 0 var(--s-1);
+    color: var(--accent-soft);
+  }
+  h1 {
+    font-family: var(--font-display);
+    font-size: clamp(38px, 6vw, 50px);
+    font-weight: 600;
+    line-height: 1.12;
+    margin: 0 0 var(--s-3);
+    text-wrap: balance;
+  }
+  .kind-line {
+    font-family: var(--font-body);
+    font-size: 17px;
+    color: var(--ink-muted);
+    margin: 0 0 var(--s-3);
+    font-variant-numeric: oldstyle-nums;
+  }
+  .author-link {
+    color: var(--accent);
+    text-decoration: none;
+    border-bottom: 1px solid var(--accent-soft);
+  }
+  .surfaces {
+    font-family: var(--font-body);
+    font-size: 19px;
+    line-height: 2;
+    color: var(--ink);
+    margin: 0;
+    max-width: 68ch;
+  }
+  .surface-sep {
+    color: var(--accent-soft);
+  }
+  .surface-greek {
+    font-style: italic;
+  }
+  .surface-devanagari {
+    font-family: var(--font-devanagari), var(--font-body);
+  }
+  .surface-arabic {
+    font-family: var(--font-nastaliq), var(--font-body);
+    font-size: 19px;
+    line-height: 2.4;
+  }
+
+  .work-entry {
+    margin-bottom: var(--s-10);
+  }
+  .work-h {
+    font-family: var(--font-body);
+    font-size: 21px;
+    font-weight: 600;
+    margin: 0 0 var(--s-2);
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: var(--s-3);
+  }
+  .work-h a {
+    color: var(--ink);
+    text-decoration: none;
+    border-bottom: 1px solid var(--rule);
+    transition: color 150ms ease-out, border-color 150ms ease-out;
+  }
+  .work-h a:hover {
+    color: var(--accent);
+    border-color: var(--accent-soft);
+  }
+  .work-meta {
+    font-family: var(--font-body);
+    font-size: 15px;
+    font-weight: 400;
+    color: var(--ink-muted);
+  }
+  .work-desc {
+    font-family: var(--font-body);
+    font-size: 18px;
+    line-height: 1.65;
+    margin: 0 0 var(--s-3);
+    max-width: 65ch;
+    text-wrap: pretty;
+  }
+
+  .rest {
+    border-top: 1px solid var(--rule);
+    padding-top: var(--s-4);
+  }
+  .rest-note {
+    font-family: var(--font-body);
+    font-size: 16px;
+    font-variant: small-caps;
+    text-transform: lowercase;
+    letter-spacing: 0.06em;
+    color: var(--ink-muted);
+    margin: 0 0 var(--s-2);
+  }
+  .rest-run {
+    font-family: var(--font-body);
+    font-size: 17px;
+    line-height: 1.9;
+    margin: 0;
+  }
+  .rest-run a {
+    color: var(--ink);
+    text-decoration: none;
+    border-bottom: 1px solid var(--rule);
+  }
+  .rest-run a:hover {
+    color: var(--accent);
+    border-color: var(--accent-soft);
+  }
+  .rest-sep {
+    color: var(--accent-soft);
+  }
+
+  .entity-foot {
+    margin-top: var(--s-16);
+    border-top: 1px solid var(--rule);
+    padding-top: var(--s-4);
+  }
+  .entity-foot p {
+    font-family: var(--font-body);
+    font-size: 16px;
+    line-height: 1.6;
+    color: var(--ink-muted);
+    margin: 0;
+    max-width: 62ch;
+  }
+  .entity-foot a {
+    color: var(--accent);
+    text-decoration: none;
+    border-bottom: 1px solid var(--accent-soft);
+  }
+</style>

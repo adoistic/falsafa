@@ -88,3 +88,16 @@ corpus/graph/*
 /archive-batch-works.json
 /archive-batch-audit.json
 /audit_gutenberg.py
+
+# Derived atlas synthesis artifacts (regenerate: bun run atlas:sync && bun run atlas:build)
+/corpus/graph/atlas/
+
+# Generated Open Graph share images (regenerate: bun run og:build)
+/apps/site/public/og/
+
+# Vendored impeccable design tool (install via: npx impeccable install)
+/.github/skills/impeccable/
+/.github/hooks/
+
+# WIP ingest staging area (source texts being prepped for the corpus)
+/t2work/

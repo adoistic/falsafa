@@ -1,9 +1,9 @@
 # Falsafa — Complete Work Index
 
-2017 works, grouped chronologically by era.
+2018 works, grouped chronologically by era.
 Each line: [Title](URL) — Author · Language · Genre
 
-## Ancient (36 works)
+## Ancient (37 works)
 
 - [Āṅgirasa Smṛti](https://falsafa.ai/works/unknown-angirasa-smrti-2bf9d1/) — Aṅgirasa · Sanskrit · Law
 - [Bṛhaspati Smṛti](https://falsafa.ai/works/unknown-brhaspati-smrti-0fd070/) — Bṛhaspati · Sanskrit · Law
@@ -41,6 +41,7 @@ Each line: [Title](URL) — Author · Language · Genre
 - [Vālmīki Rāmāyaṇa](https://falsafa.ai/works/valmiki-ramayana/) — Vālmīki · Sanskrit · Epic
 - [Atharvaveda (Paippalāda)](https://falsafa.ai/works/atharvaveda-ps/) — Anonymous (Vedic) · Sanskrit · Vedic Literature
 - [Sāmaveda](https://falsafa.ai/works/samaveda/) — Anonymous (Vedic) · Sanskrit · Vedic Literature
+- [Mahābhārata](https://falsafa.ai/works/mahabharata/) — Vyāsa · Sanskrit · Epic
 
 ## Classical (327 works)
 

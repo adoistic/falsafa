@@ -27,13 +27,19 @@
     "images": "bun run scripts/generate-images.ts",
     "test": "bun test",
     "typecheck": "tsc --noEmit",
-    "validate:atlas": "bun run scripts/validate-atlas.ts"
+    "validate:atlas": "bun run scripts/validate-atlas.ts",
+    "atlas:sync": "bun run scripts/atlas/sync-harvest.ts",
+    "atlas:build": "bun run scripts/atlas/synthesize.ts",
+    "og:build": "bun run scripts/og/generate-og.ts --site --works"
   },
   "devDependencies": {
+    "@resvg/resvg-js": "^2.6.2",
     "@types/bun": "latest",
+    "satori": "^0.28.0",
     "typescript": "^5.7.0"
   },
   "dependencies": {
+    "csv-parse": "^7.0.0",
     "sharp": "^0.34.5"
   }
 }

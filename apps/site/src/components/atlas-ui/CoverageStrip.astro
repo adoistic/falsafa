@@ -1,0 +1,119 @@
+---
+/**
+ * CoverageStrip — harvest coverage as data-ornament, in the ledger style:
+ * one hairline row per category, a thin terracotta bar for the mapped
+ * share, oldstyle numerals for done/total. Honest about partialness by
+ * construction — a 0% row renders as an empty track, stated plainly.
+ */
+interface Props {
+  rows: { label: string; done: number; total: number; href?: string }[];
+  unit?: string; // what's being counted, for the sr-only label
+}
+const { rows, unit = "windows" } = Astro.props;
+const nf = new Intl.NumberFormat("en-US");
+const shown = rows.filter((r) => r.total > 0).sort((a, b) => b.total - a.total);
+---
+
+<div class="coverage">
+  {
+    shown.map((r) => {
+      const pct = r.total > 0 ? (r.done / r.total) * 100 : 0;
+      const inner = (
+        <>
+          <span class="cov-label">{r.label}</span>
+          <span
+            class="cov-track"
+            role="img"
+            aria-label={`${r.label}: ${nf.format(r.done)} of ${nf.format(r.total)} ${unit} mapped`}
+          >
+            <span class="cov-bar" style={`width:${Math.max(pct, r.done > 0 ? 0.75 : 0)}%`} />
+          </span>
+          <span class="cov-nums">
+            {nf.format(r.done)}&hairsp;/&hairsp;{nf.format(r.total)}
+          </span>
+        </>
+      );
+      return r.href ? (
+        <a class="cov-row" href={r.href}>
+          {inner}
+        </a>
+      ) : (
+        <span class="cov-row">{inner}</span>
+      );
+    })
+  }
+</div>
+
+<style>
+  .coverage {
+    display: grid;
+    gap: 0;
+  }
+  .cov-row {
+    display: grid;
+    grid-template-columns: minmax(96px, 15ch) 1fr auto;
+    align-items: center;
+    gap: var(--s-4);
+    padding: var(--s-2) 0;
+    border-bottom: 1px solid var(--rule);
+    text-decoration: none;
+  }
+  .cov-row:first-child {
+    border-top: 1px solid var(--rule);
+  }
+  .cov-label {
+    font-family: var(--font-body);
+    font-size: 17px;
+    color: var(--ink);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  a.cov-row:hover .cov-label {
+    color: var(--accent);
+  }
+  .cov-track {
+    display: block;
+    height: 6px;
+    background:
+      repeating-linear-gradient(
+        90deg,
+        var(--rule) 0 1px,
+        transparent 1px 8px
+      );
+  }
+  .cov-bar {
+    display: block;
+    height: 100%;
+    background: var(--accent);
+    transform-origin: left;
+  }
+  .cov-nums {
+    font-family: var(--font-body);
+    font-size: 15px;
+    font-variant-numeric: oldstyle-nums tabular-nums;
+    color: var(--ink-muted);
+    white-space: nowrap;
+  }
+  @media (max-width: 479px) {
+    .cov-row {
+      grid-template-columns: minmax(72px, 11ch) 1fr auto;
+      gap: var(--s-3);
+    }
+  }
+
+  /* grow-in on first paint; instant under reduced motion */
+  @media (prefers-reduced-motion: no-preference) {
+    .cov-bar {
+      animation: cov-grow 600ms cubic-bezier(0.16, 1, 0.3, 1) both;
+    }
+    @keyframes cov-grow {
+      from {
+        transform: scaleX(0);
+      }
+      to {
+        transform: scaleX(1);
+      }
+    }
+  }
+</style>
