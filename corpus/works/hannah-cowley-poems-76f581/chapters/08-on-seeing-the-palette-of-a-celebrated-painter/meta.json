@@ -1,0 +1,44 @@
+{
+  "work_slug": "hannah-cowley-poems-76f581",
+  "work_title": "Poems",
+  "chapter_number": 8,
+  "chapter_title": "ON SEEING THE PALETTE OF A CELEBRATED PAINTER.",
+  "chapter_slug": "08-on-seeing-the-palette-of-a-celebrated-painter",
+  "author": "Hannah Cowley",
+  "author_slug": "hannah-cowley",
+  "ecpa_poem_id": "o4739-w0040",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "occasional poem"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "sestet (6 lines)"
+    ],
+    "rhyme": "aabcbc",
+    "syllable_pattern": "10.10.8.8.8.8",
+    "metrical_pattern": "-+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/",
+    "line_count": 48
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a93c6e87-3d5a-5868-bd4a-6849d2e2918d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 332,
+      "line_count": 50,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

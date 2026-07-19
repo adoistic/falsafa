@@ -1,0 +1,44 @@
+{
+  "work_slug": "thomas-durfey-poems-452b4d",
+  "work_title": "Poems",
+  "chapter_number": 3,
+  "chapter_title": "The Author answers his Friend, who blames him for not singing, when desired, he contradict the Third Satyr of Horace, beginning with Omnibus hoc vitium est Cantoribus inter Amicos, &c. He defends Tigellius, and proves that Horace had no actual Skill in Vocal Musick.",
+  "chapter_slug": "03-the-author-answers-his-friend-who-blames-him-for",
+  "author": "Thomas D'Urfey",
+  "author_slug": "thomas-durfey",
+  "ecpa_poem_id": "oau90-w0030",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "answer/reply"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 95
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5420d0fe-e9c0-531a-8119-be7c14972c7f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 801,
+      "line_count": 96,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

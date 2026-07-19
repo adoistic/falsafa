@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 49**
+**Viṣṇu Smriti 49**
 
 Having fasted on the eleventh day of the bright fortnight of the month of Mārgaśīrṣa, on the twelfth day he shall worship the blessed Vāsudeva. // Vi_49.1 //
 
@@ -30,7 +30,7 @@ Having performed it for his whole life, he attains the White Island. // Vi_49.4 
 
 By doing this on the twelfth days of both fortnights for a year, he attains the world of heaven. // Vi_49.5 //
 
-For his whole life, the world of Vishnu. // Vi_49.6 //
+For his whole life, the world of Viṣṇu. // Vi_49.6 //
 
 And likewise on the fifteenth days also. // Vi_49.7 //
 

@@ -1,0 +1,40 @@
+{
+  "work_slug": "john-dennis-poems-91d70a",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "The MONUMENT: A POEM Sacred to the IMMORTAL MEMORY OF William the Third.",
+  "chapter_slug": "04-the-monument-a-poem-sacred-to-the-immortal-memor",
+  "author": "John Dennis",
+  "author_slug": "john-dennis",
+  "ecpa_poem_id": "o5195-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "blank verse"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 1220
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d10f28d0-e182-5d27-92ea-0820b0528ebf",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 9022,
+      "line_count": 1222,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

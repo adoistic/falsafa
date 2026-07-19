@@ -1,0 +1,44 @@
+{
+  "work_slug": "mary-matilda-betham-poems-3bacb3",
+  "work_title": "Poems",
+  "chapter_number": 16,
+  "chapter_title": "ON THE EVE OF DEPARTURE From O —",
+  "chapter_slug": "16-on-the-eve-of-departure-from-o",
+  "author": "(Mary) Matilda Betham",
+  "author_slug": "mary-matilda-betham",
+  "ecpa_poem_id": "bmb97-w0160",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "8.6.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 44
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b27cd7a7-8fdf-5ee2-b4aa-62f3b883fb67",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 254,
+      "line_count": 45,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "work_slug": "william-shakespeare-sonnets-65f289",
+  "work_title": "Sonnets",
+  "chapter_number": 34,
+  "chapter_title": "Sonnet 34",
+  "chapter_slug": "034-sonnet-34",
+  "incipit": "Why didst thou promise such a beauteous day,",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ecd877f4-d740-5ceb-b07f-bf9fa2b3b190",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 120,
+      "line_count": 14,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1041",
+      "license": "Public domain — from Project Gutenberg (https://www.gutenberg.org)"
+    }
+  ]
+}

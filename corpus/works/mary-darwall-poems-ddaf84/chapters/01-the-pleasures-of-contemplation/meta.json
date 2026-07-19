@@ -1,0 +1,41 @@
+{
+  "work_slug": "mary-darwall-poems-ddaf84",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "THE PLEASURES OF CONTEMPLATION.",
+  "chapter_slug": "01-the-pleasures-of-contemplation",
+  "author": "Mary Darwall",
+  "author_slug": "mary-darwall",
+  "ecpa_poem_id": "o4986-w0330",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "blank verse",
+      "meditation"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 107
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6e4bb105-8c46-5109-bb5e-a8464bc84a8b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 793,
+      "line_count": 109,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

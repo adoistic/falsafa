@@ -1,0 +1,13 @@
+name = "falsafaai"
+main = "src/index.js"
+compatibility_date = "2026-06-25"
+workers_dev = true
+
+# Cloudflare Worker routes are attached through the zone API:
+#   falsafa.ai/* and www.falsafa.ai/* -> falsafaai
+
+# Serve the static build from R2. The first upload is done out-of-band via the
+# bearer REST endpoint (t2work/r2-upload.sh); this binding gives the Worker read access.
+[[r2_buckets]]
+binding = "ASSETS"
+bucket_name = "falsafaai"

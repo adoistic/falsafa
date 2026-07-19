@@ -1,0 +1,172 @@
+{
+  "slug": "unknown-manusmrti-347b76",
+  "window": "08:376-380",
+  "entities": [
+    {
+      "canonical_name": "Brahmana",
+      "surface_names": ["Brahmana"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-5eca9f",
+          "quote": "A Brahmana may confidently take property from a Shudra",
+          "role": "agent with legal right to appropriate Shudra property"
+        }
+      ],
+      "description": "The priestly varna (social class) empowered by Manu to take property from Shudras, reflecting the dharmic hierarchy.",
+      "justification": "Explicitly named in 8.417 as the class entitled to seize Shudra property."
+    },
+    {
+      "canonical_name": "Shudra",
+      "surface_names": ["Shudra"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-5eca9f",
+          "quote": "A Brahmana may confidently take property from a Shudra; for he has nothing of his own, for his property may be taken by his master",
+          "role": "subject denied independent property rights"
+        },
+        {
+          "paragraph_id": "p-bd851e",
+          "quote": "he should diligently make the Vaishya and the Shudra perform their own duties",
+          "role": "social group required to perform varna-specific duties under royal enforcement"
+        }
+      ],
+      "description": "The lowest of the four varnas, defined in this passage as propertyless and duty-bound under royal coercion.",
+      "justification": "Named twice in 8.417 and 8.418 as a group stripped of property rights and subject to enforced duty-performance."
+    },
+    {
+      "canonical_name": "Vaishya",
+      "surface_names": ["Vaishya"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-bd851e",
+          "quote": "he should diligently make the Vaishya and the Shudra perform their own duties; for those two, having fallen from their duties, would throw this world into confusion",
+          "role": "social group whose duty-observance is enforced by the king"
+        }
+      ],
+      "description": "The mercantile/agricultural varna whose adherence to duty is treated as necessary for cosmic-social order.",
+      "justification": "Explicitly paired with Shudra in 8.418 as a class the king must compel to observe dharma."
+    },
+    {
+      "canonical_name": "King",
+      "surface_names": ["king", "he"],
+      "kind": "figure",
+      "figure_kind": "ruler",
+      "mentions": [
+        {
+          "paragraph_id": "p-bd851e",
+          "quote": "He should diligently make the Vaishya and the Shudra perform their own duties",
+          "role": "enforcer of varna duties"
+        },
+        {
+          "paragraph_id": "p-558ff6",
+          "quote": "Day by day he should inspect the workshops and the vehicles, and the fixed income and expenditure, the mines, and the treasury",
+          "role": "royal administrator overseeing economic infrastructure"
+        },
+        {
+          "paragraph_id": "p-e7ebe4",
+          "quote": "Thus a king, by settling all these legal proceedings, having cast off all sin, attains the supreme state",
+          "role": "juridical authority whose proper conduct leads to liberation"
+        }
+      ],
+      "description": "The ideal monarch whose diligent administration of justice, economic oversight, and varna enforcement is the subject of the concluding verses of Chapter 8.",
+      "justification": "Named or indicated in 8.418-8.420 as the central agent responsible for social order, economic management, and moral attainment."
+    },
+    {
+      "canonical_name": "Treasury",
+      "surface_names": ["treasury"],
+      "kind": "object",
+      "mentions": [
+        {
+          "paragraph_id": "p-558ff6",
+          "quote": "he should inspect the workshops and the vehicles, and the fixed income and expenditure, the mines, and the treasury",
+          "role": "royal fiscal resource subject to daily inspection"
+        }
+      ],
+      "description": "The royal storehouse of wealth, listed among the economic assets a king must personally monitor each day.",
+      "justification": "Explicitly named in 8.419 as part of the king's daily administrative duties."
+    },
+    {
+      "canonical_name": "Mines",
+      "surface_names": ["mines"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-558ff6",
+          "quote": "he should inspect the workshops and the vehicles, and the fixed income and expenditure, the mines, and the treasury",
+          "role": "state economic resource under royal oversight"
+        }
+      ],
+      "description": "Extractive mineral sites listed among the royal economic infrastructure requiring daily royal inspection.",
+      "justification": "Named in 8.419 alongside workshops and treasury as royal assets the king must regularly oversee."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Propertylessness of dependents",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-a02b71",
+          "quote": "A wife, a son, and a slave—these three are remembered as having no property; whatever they acquire, that property belongs to him to whom they belong"
+        },
+        {
+          "paragraph_id": "p-5eca9f",
+          "quote": "for he has nothing of his own, for his property may be taken by his master"
+        }
+      ],
+      "justification": "8.416-8.417 explicitly establish that wife, son, slave, and Shudra hold no independent property—everything they earn reverts to the paterfamilias or master."
+    },
+    {
+      "topic": "Varna duty-enforcement as royal obligation",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-bd851e",
+          "quote": "He should diligently make the Vaishya and the Shudra perform their own duties; for those two, having fallen from their duties, would throw this world into confusion"
+        }
+      ],
+      "justification": "8.418 frames royal coercion of lower varnas to observe svadharma as a cosmic-political necessity to prevent world-disorder."
+    },
+    {
+      "topic": "Royal economic administration",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-558ff6",
+          "quote": "Day by day he should inspect the workshops and the vehicles, and the fixed income and expenditure, the mines, and the treasury"
+        }
+      ],
+      "justification": "8.419 prescribes a detailed daily audit of economic infrastructure—workshops, vehicles, revenue, mines, treasury—as part of ideal kingship."
+    },
+    {
+      "topic": "Judicial conduct as path to liberation",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-e7ebe4",
+          "quote": "Thus a king, by settling all these legal proceedings, having cast off all sin, attains the supreme state"
+        }
+      ],
+      "justification": "8.420 implicitly links dharmic jurisprudence to soteriological outcome: proper legal administration purifies the king of sin and leads to the supreme state (moksha or svarga)."
+    },
+    {
+      "topic": "Hierarchical social order and its cosmic stakes",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-bd851e",
+          "quote": "for those two, having fallen from their duties, would throw this world into confusion"
+        },
+        {
+          "paragraph_id": "p-a02b71",
+          "quote": "whatever they acquire, that property belongs to him to whom they belong"
+        }
+      ],
+      "justification": "The window as a whole implicitly treats the four-varna hierarchy and the patriarchal household as cosmic structures whose disruption threatens universal order (8.416-8.418)."
+    }
+  ],
+  "citations": []
+}

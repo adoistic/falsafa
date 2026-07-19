@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 14**
+**Viṣṇu Smriti 14**
 
 Now, the ordeal of consecrated water (*kośa*). // Vi_14.1 //
 

@@ -28,7 +28,7 @@ Nor one who is unable to pay the creditor or a similar fine to the king; nor one
 
 If, however, there is no surety for a plaintiff fit for litigation, he should be kept under guard and at the end of the day should pay the wage to the guard. // K_117 //
 
-A twice-born person without a surety should be guarded by external guards. Those of the Shudra and other classes who are without a surety should be bound in fetters. // K_118 //
+A twice-born person without a surety should be guarded by external guards. Those of the Śūdra and other classes who are without a surety should be bound in fetters. // K_118 //
 
 For transgression or escape, the king should fine him eight paṇas. Interruption of daily duties, however, should be allowed for all castes. // K_119 //
 

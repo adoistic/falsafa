@@ -1,0 +1,35 @@
+{
+  "work_slug": "william-lisle-bowles-poems-44faf8",
+  "work_title": "Poems",
+  "chapter_number": 82,
+  "chapter_title": "THE HARP, AND DESPAIR, OF COWPER.",
+  "chapter_slug": "82-the-harp-and-despair-of-cowper",
+  "author": "William Lisle Bowles",
+  "author_slug": "william-lisle-bowles",
+  "ecpa_poem_id": "glb19-w0820",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "rhyme": "abbaccdeedffghhgiikllkmmnoon",
+    "metrical_pattern": "irregular",
+    "line_count": 28
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "004a341a-45e4-5a86-9678-116cf2708c1a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 202,
+      "line_count": 29,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "work_slug": "richard-roderick-poems-a168c4",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "The SHEPHERD'S FAREWEL to his LOVE. Being the same ODE.",
+  "chapter_slug": "01-the-shepherds-farewel-to-his-love-being-the-same",
+  "author": "Richard Roderick",
+  "author_slug": "richard-roderick",
+  "ecpa_poem_id": "o5153-w0710",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "imitation",
+      "translation",
+      "paraphrase"
+    ],
+    "foot": "anapaestic (˘˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "aabb",
+    "syllable_pattern": "12.12.12.12",
+    "metrical_pattern": "--+|--+|--+|--+/     --+|--+|--+|--+/     --+|--+|--+|--+/     --+|--+|--+|--+/",
+    "line_count": 52
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7de39322-6c14-5cb5-9435-98df211ae4df",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 524,
+      "line_count": 55,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -34,7 +34,7 @@ Kings who are established in their own sacred duty attain the state of Indra. Bu
 
 The king who, without proper investigation, falls under the sway of anger, will undoubtedly dwell in a terrible hell for half a kalpa. // K_010 //
 
-A king should appoint as his minister and counselor a Brahmin endowed with these same qualities, who is devoted to the king and comes from a noble family. // K_011 //
+A king should appoint as his minister and counselor a Brāhmaṇa endowed with these same qualities, who is devoted to the king and comes from a noble family. // K_011 //
 
 Where the ministers, assessors, and physicians are all flatterers, the sovereign is quickly deprived of his kingdom, righteousness, and happiness. // K_012 //
 
@@ -60,4 +60,4 @@ The king who properly delivers justice to a petitioner without causing hardship�
 
 That which is acquired by kings through just conquest, having defeated an enemy, is pure and may be given away. But what is acquired otherwise should never be offered. // K_023 //
 
-A king should appoint as his priest (purohita) a distinguished and beneficial Brahmin, who is accomplished in his studies, free from greed, and truthful. // K_024 //
+A king should appoint as his priest (purohita) a distinguished and beneficial Brāhmaṇa, who is accomplished in his studies, free from greed, and truthful. // K_024 //

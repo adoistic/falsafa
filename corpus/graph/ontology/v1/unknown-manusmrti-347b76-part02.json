@@ -1,0 +1,754 @@
+{
+  "slug": "unknown-manusmrti-347b76",
+  "window": "02:241-248,03",
+  "entities": [
+    {
+      "canonical_name": "Brahma",
+      "surface_names": ["Brahma", "eternal abode of Brahma"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-3045c9",
+          "quote": "A Brahmana who serves his guru until the dissolution of his body goes straight to the eternal abode of Brahma.",
+          "role": "cosmic destination for the devoted student"
+        }
+      ],
+      "description": "The supreme creator deity whose eternal abode is the ultimate reward for a Brahmana who faithfully serves his guru for life.",
+      "justification": "Brahma is named as a deity and destination in Mn_2.244, making him a named divine figure in the text."
+    },
+    {
+      "canonical_name": "Atri",
+      "surface_names": ["Atri"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-e6dd39",
+          "quote": "By marrying a Shudra woman, a Brahmana falls, according to Atri and the son of Utathya",
+          "role": "cited authority on the consequences of inter-varna marriage"
+        }
+      ],
+      "description": "Vedic sage cited as an authority on the degradation of a Brahmana who marries a Shudra woman.",
+      "justification": "Atri is named in Mn_3.16 as one of several ancient sages whose legal opinions are invoked."
+    },
+    {
+      "canonical_name": "Utathya",
+      "surface_names": ["son of Utathya"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-e6dd39",
+          "quote": "according to Atri and the son of Utathya",
+          "role": "cited authority on the consequences of inter-varna marriage"
+        }
+      ],
+      "description": "Vedic sage (referred to as 'son of Utathya', likely Dīrghatamas) cited alongside Atri as an authority on the fall of a Brahmana who marries a Shudra woman.",
+      "justification": "The son of Utathya is named in Mn_3.16 as a distinct legal authority whose ruling is quoted."
+    },
+    {
+      "canonical_name": "Shaunaka",
+      "surface_names": ["Shaunaka"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-e6dd39",
+          "quote": "by begetting a son on her, according to Shaunaka",
+          "role": "cited authority on the degree of degradation from fathering a son on a Shudra woman"
+        }
+      ],
+      "description": "Vedic sage cited in Mn_3.16 whose ruling specifies that the degradation of a Brahmana occurs at the stage of begetting a son on a Shudra wife.",
+      "justification": "Shaunaka is named as an explicit textual authority in Mn_3.16 on the graded fall from Brahmanhood."
+    },
+    {
+      "canonical_name": "Bhrigu",
+      "surface_names": ["Bhrigu"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-e6dd39",
+          "quote": "and by having a son from her, according to Bhrigu",
+          "role": "cited authority distinguishing the final stage of degradation"
+        }
+      ],
+      "description": "Vedic sage cited in Mn_3.16 as an authority who holds that having a living son from a Shudra wife is the threshold of full degradation from Brahmanhood.",
+      "justification": "Bhrigu is named in Mn_3.16 as one of four named sages whose graduated legal opinions are contrasted."
+    },
+    {
+      "canonical_name": "Manu",
+      "surface_names": ["Manu"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-a15ca5",
+          "quote": "Whatever merit has been declared by Manu for each of these marriages, hear it all, O sages",
+          "role": "declared authority whose rulings on marriage merit are being conveyed"
+        }
+      ],
+      "description": "The primordial lawgiver whose pronouncements on the merit of the eight forms of marriage are the very content being transmitted in chapter 3.",
+      "justification": "Manu is invoked in Mn_3.36 as the authoritative source of the marriage-merit rulings being recited to the sages."
+    },
+    {
+      "canonical_name": "Brahmana",
+      "surface_names": ["Brahmana", "twice-born", "Brahmanhood"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-875e6a",
+          "quote": "A pupil who desires the highest state should not dwell permanently with a non-Brahmana guru, nor with a Brahmana who has not studied the Veda.",
+          "role": "the priestly class whose qualified members alone are suitable as permanent gurus"
+        },
+        {
+          "paragraph_id": "p-3045c9",
+          "quote": "A Brahmana who serves his guru until the dissolution of his body goes straight to the eternal abode of Brahma.",
+          "role": "subject of the rule about lifelong guru-service"
+        },
+        {
+          "paragraph_id": "p-aa9540",
+          "quote": "A knower of Dharma should not give any gift to his guru beforehand",
+          "role": "implied actor observing ritual graduation protocol"
+        },
+        {
+          "paragraph_id": "p-e6dd39",
+          "quote": "By marrying a Shudra woman, a Brahmana falls, according to Atri and the son of Utathya",
+          "role": "subject of inter-varna marriage prohibition and degradation ruling"
+        },
+        {
+          "paragraph_id": "p-832b40",
+          "quote": "Twice-born men who, out of delusion, marry women of a low caste, quickly degrade their families and their descendants to the state of Shudras.",
+          "role": "those who transgress varna endogamy"
+        },
+        {
+          "paragraph_id": "p-c5df56",
+          "quote": "In no sacred text whatsoever is a Shudra woman ordained as a wife for a Brahmana or a Kshatriya",
+          "role": "upper-varna men prohibited from Shudra wives"
+        }
+      ],
+      "description": "The priestly varna, highest of the four social orders, whose members are the primary addressees of the rules governing studentship, marriage, and ritual purity in these chapters.",
+      "justification": "Brahmanas are the most frequently addressed social group across both chapters, with rules specifically governing their conduct as students, gurus, and householders."
+    },
+    {
+      "canonical_name": "Shudra",
+      "surface_names": ["Shudra", "Shudra woman", "Shudra wife", "low caste"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-c5df56",
+          "quote": "In no sacred text whatsoever is a Shudra woman ordained as a wife for a Brahmana or a Kshatriya",
+          "role": "the lowest varna whose women are prohibited as wives for upper-varna men"
+        },
+        {
+          "paragraph_id": "p-832b40",
+          "quote": "quickly degrade their families and their descendants to the state of Shudras",
+          "role": "marker of social-ritual degradation"
+        },
+        {
+          "paragraph_id": "p-6d97ef",
+          "quote": "A Brahmana who takes a Shudra woman to his bed sinks to a lower state",
+          "role": "subject of the pollution rule"
+        },
+        {
+          "paragraph_id": "p-17c06a",
+          "quote": "A Shudra woman is for a Shudra",
+          "role": "endogamous norm prescribed for the Shudra varna"
+        }
+      ],
+      "description": "The lowest of the four varnas, whose women are explicitly prohibited as wives for Brahmanas and Kshatriyas; marriage to a Shudra woman by an upper-varna man entails graduated ritual degradation.",
+      "justification": "Shudras are repeatedly named as the limit-case varna in the marriage-prohibition rules of chapter 3 (Mn_3.13-19)."
+    },
+    {
+      "canonical_name": "Kshatriya",
+      "surface_names": ["Kshatriya"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-c5df56",
+          "quote": "In no sacred text whatsoever is a Shudra woman ordained as a wife for a Brahmana or a Kshatriya",
+          "role": "second varna prohibited from Shudra wives"
+        },
+        {
+          "paragraph_id": "p-17c06a",
+          "quote": "she and one of his own varna for a Vaishya; these two and one of his own varna for a Kshatriya",
+          "role": "subject of the graduated hypogamy rule"
+        },
+        {
+          "paragraph_id": "p-1ad229",
+          "quote": "the last four for a Kshatriya",
+          "role": "varna for whom specific marriage forms are prescribed"
+        },
+        {
+          "paragraph_id": "p-902d1c",
+          "quote": "the Rākṣasa alone for a Kshatriya",
+          "role": "varna for whom the Rakshasa marriage is specifically endorsed"
+        },
+        {
+          "paragraph_id": "p-4735bb",
+          "quote": "An arrow should be taken by a Kshatriya bride",
+          "role": "varna-specific wedding ritual object"
+        }
+      ],
+      "description": "The warrior-noble varna, second in rank, for whom the Rakshasa marriage form is declared lawful and who may marry women of the Vaishya and Shudra varnas.",
+      "justification": "Kshatriyas are addressed as a distinct varna across multiple verses in chapter 3 governing both marriage forms and wedding rituals."
+    },
+    {
+      "canonical_name": "Vaishya",
+      "surface_names": ["Vaishya"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-17c06a",
+          "quote": "she and one of his own varna for a Vaishya",
+          "role": "middle varna for whom Shudra and own-varna wives are permitted"
+        },
+        {
+          "paragraph_id": "p-1ad229",
+          "quote": "those same ones, excluding the Rākṣasa, are lawful for a Vaishya and a Shudra",
+          "role": "varna for whom certain marriage forms are prescribed and one excluded"
+        },
+        {
+          "paragraph_id": "p-902d1c",
+          "quote": "the Āsura for a Vaishya and a Shudra",
+          "role": "varna for whom the Asura marriage is declared appropriate"
+        },
+        {
+          "paragraph_id": "p-4735bb",
+          "quote": "a goad by a Vaishya bride",
+          "role": "varna-specific wedding ritual object"
+        }
+      ],
+      "description": "The merchant-cultivator varna for whom the Asura marriage is declared appropriate and who may marry women of the Shudra varna.",
+      "justification": "Vaishyas appear alongside Kshatriyas and Shudras in the chapter 3 regulations governing permitted marriage forms and wedding rites."
+    },
+    {
+      "canonical_name": "Gandharva marriage",
+      "surface_names": ["Gāndharva", "Gāndharva rite"],
+      "kind": "event",
+      "mentions": [
+        {
+          "paragraph_id": "p-b07c61",
+          "quote": "the Gāndharva and the Rākṣasa; and the eighth and lowest, the Paiśāca",
+          "role": "listed as one of the eight marriage forms"
+        },
+        {
+          "paragraph_id": "p-a1ba3f",
+          "quote": "The Gāndharva and Rākṣasa marriages, whether performed separately or mixed, are declared to be lawful for a Kshatriya.",
+          "role": "declared lawful form for Kshatriyas"
+        },
+        {
+          "paragraph_id": "p-beb0f2",
+          "quote": "The voluntary union of a maiden and her lover is to be known as the Gāndharva rite, which springs from desire and has sexual union as its purpose.",
+          "role": "defined as voluntary union based on mutual desire"
+        }
+      ],
+      "description": "One of the eight forms of marriage—the voluntary union of a couple based on mutual desire—named after the celestial Gandharvas and declared lawful for Kshatriyas.",
+      "justification": "The Gandharva marriage is defined and evaluated across Mn_3.21, 3.26, and 3.32 as a recognized legal category of matrimonial union."
+    },
+    {
+      "canonical_name": "Rakshasa marriage",
+      "surface_names": ["Rākṣasa", "Rākṣasa form of marriage"],
+      "kind": "event",
+      "mentions": [
+        {
+          "paragraph_id": "p-b07c61",
+          "quote": "the Gāndharva and the Rākṣasa; and the eighth and lowest, the Paiśāca",
+          "role": "listed as one of the eight marriage forms"
+        },
+        {
+          "paragraph_id": "p-902d1c",
+          "quote": "the Rākṣasa alone for a Kshatriya",
+          "role": "declared the sole praiseworthy form for Kshatriyas"
+        },
+        {
+          "paragraph_id": "p-2f28cf",
+          "quote": "The forcible abduction of a maiden from her home, while she cries out and weeps, after her kinsmen have been slain, wounded, and their houses broken into, is called the Rākṣasa form of marriage.",
+          "role": "defined as violent abduction"
+        }
+      ],
+      "description": "The marriage by forcible abduction named after the Rakshasas (demons), defined as seizing a bride by violence, and declared the sole praiseworthy marriage form for Kshatriyas.",
+      "justification": "The Rakshasa marriage is named, defined, and varna-assigned across Mn_3.21, 3.24, and 3.33."
+    },
+    {
+      "canonical_name": "Paishacha marriage",
+      "surface_names": ["Paiśāca", "eighth and lowest"],
+      "kind": "event",
+      "mentions": [
+        {
+          "paragraph_id": "p-b07c61",
+          "quote": "the eighth and lowest, the Paiśāca",
+          "role": "listed as the lowest of the eight marriage forms"
+        },
+        {
+          "paragraph_id": "p-9df82d",
+          "quote": "the Paiśāca and the Āsura must never be performed",
+          "role": "declared universally unlawful"
+        },
+        {
+          "paragraph_id": "p-ca03b2",
+          "quote": "When a man secretly approaches a girl who is sleeping, intoxicated, or mentally disordered, that is the Paiśāca, the eighth and most wicked of marriages.",
+          "role": "defined as assault on a vulnerable woman"
+        }
+      ],
+      "description": "The most wicked of the eight marriage forms, involving a man secretly approaching an unconscious, intoxicated, or mentally disordered girl; named after demons (Pishachas) and declared absolutely forbidden.",
+      "justification": "The Paishacha marriage is defined in Mn_3.34 and explicitly prohibited in Mn_3.25 as one of two forms that must never be performed."
+    },
+    {
+      "canonical_name": "Brahma marriage",
+      "surface_names": ["Brāhma", "Brāhma rite", "Brāhmī wife"],
+      "kind": "event",
+      "mentions": [
+        {
+          "paragraph_id": "p-b07c61",
+          "quote": "The Brāhma, the Daiva, and also the Ārṣa",
+          "role": "listed as first of the eight forms"
+        },
+        {
+          "paragraph_id": "p-93ddb7",
+          "quote": "The gift of a daughter, after decking her and honoring her, to a man learned in the Veda and of good conduct, whom the father himself invites, is declared to be the Brāhma rite.",
+          "role": "defined as the highest gift-marriage"
+        },
+        {
+          "paragraph_id": "p-872b7e",
+          "quote": "The son of a Brāhmī wife, a doer of good deeds, frees from sin ten ancestors who have gone before, ten descendants who come after, and himself as the twenty-first.",
+          "role": "subject of the greatest ancestral-liberation claim"
+        }
+      ],
+      "description": "The highest of the eight marriage forms, in which a father freely gives his adorned daughter to a Veda-learned man of good conduct, producing offspring credited with liberating twenty-one generations.",
+      "justification": "The Brahma marriage is defined in Mn_3.27 and its extraordinary ancestral merit enumerated in Mn_3.37, making it a structurally central legal event."
+    },
+    {
+      "canonical_name": "Daiva marriage",
+      "surface_names": ["Daiva", "Daiva rite", "Daiva wife"],
+      "kind": "event",
+      "mentions": [
+        {
+          "paragraph_id": "p-b07c61",
+          "quote": "The Brāhma, the Daiva, and also the Ārṣa",
+          "role": "listed second among the eight forms"
+        },
+        {
+          "paragraph_id": "p-7c3179",
+          "quote": "The gift of a daughter, after having adorned her, to a priest who is duly officiating at a sacrifice while it is in progress, they call the Daiva rite.",
+          "role": "defined as gift to a sacrificial priest"
+        },
+        {
+          "paragraph_id": "p-eb7526",
+          "quote": "A son born of a Daiva wife frees seven generations before and seven after",
+          "role": "subject of the seven-generation liberation claim"
+        }
+      ],
+      "description": "The second-ranked marriage form in which a father gives his adorned daughter to a priest officiating at a sacrifice; its offspring is credited with liberating fourteen generations.",
+      "justification": "The Daiva marriage is defined in Mn_3.28 and its merit assessed in Mn_3.38 as a distinct legal-ritual category."
+    },
+    {
+      "canonical_name": "Arsha marriage",
+      "surface_names": ["Ārṣa", "Ārṣa rite", "Ārṣa wife"],
+      "kind": "event",
+      "mentions": [
+        {
+          "paragraph_id": "p-b07c61",
+          "quote": "The Brāhma, the Daiva, and also the Ārṣa",
+          "role": "listed third among the eight forms"
+        },
+        {
+          "paragraph_id": "p-831e2c",
+          "quote": "When the father gives away his daughter according to the rule, after receiving from the bridegroom, for the fulfillment of the sacred law, a pair of cattle or two, that is called the Ārṣa rite.",
+          "role": "defined as gift-marriage with symbolic cattle exchange"
+        },
+        {
+          "paragraph_id": "p-7991df",
+          "quote": "Some say that the pair of cattle taken in the Ārṣa rite is a bride-price, but that is false",
+          "role": "subject of legal controversy over whether it constitutes a sale"
+        }
+      ],
+      "description": "The third-ranked marriage form involving the father receiving a pair of cattle from the groom as a symbolic token; the text defends it against the charge that this constitutes a bride-sale.",
+      "justification": "The Arsha marriage is defined in Mn_3.29 and debated in Mn_3.53-54, giving it a legally contested role in chapter 3."
+    },
+    {
+      "canonical_name": "Asura marriage",
+      "surface_names": ["Āsura", "Āsura rite"],
+      "kind": "event",
+      "mentions": [
+        {
+          "paragraph_id": "p-b07c61",
+          "quote": "the Āsura",
+          "role": "listed fifth among the eight forms"
+        },
+        {
+          "paragraph_id": "p-9df82d",
+          "quote": "the Paiśāca and the Āsura must never be performed",
+          "role": "declared universally unlawful"
+        },
+        {
+          "paragraph_id": "p-4b354a",
+          "quote": "When the bridegroom receives a maiden after having given, by his own will and as much as he is able, wealth to her kinsmen and to the bride herself, that is called the Āsura rite.",
+          "role": "defined as purchase marriage"
+        }
+      ],
+      "description": "One of the two universally prohibited marriage forms, involving the groom paying wealth to the bride's family and to the bride herself; named after the Asuras (demons) and deemed a sale of the bride.",
+      "justification": "The Asura marriage is defined in Mn_3.31, prohibited in Mn_3.25, yet paradoxically endorsed for Vaishyas and Shudras in Mn_3.24, creating a textual tension addressed in the chapter."
+    },
+    {
+      "canonical_name": "Prajapati",
+      "surface_names": ["Prājāpatya", "Prājāpatya rite", "Kāya"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-b07c61",
+          "quote": "the Prājāpatya",
+          "role": "name of the fourth marriage form"
+        },
+        {
+          "paragraph_id": "p-c50f0a",
+          "quote": "The gift of a daughter after honoring the couple and addressing them with the words, 'May you both perform your Dharma together,' is remembered as the Prājāpatya rite.",
+          "role": "deity whose name designates this marriage form"
+        },
+        {
+          "paragraph_id": "p-eb7526",
+          "quote": "a son of a Kāya (Prājāpatya) wife, six before and six after",
+          "role": "source of the twelve-generation liberation claim"
+        }
+      ],
+      "description": "The lord of creatures (Prajapati) whose name designates the fourth and joint-dharma-oriented marriage form, producing sons credited with liberating twelve generations.",
+      "justification": "Prajapati is invoked implicitly through the name 'Prājāpatya' as the divine archetype of the marriage-by-equal-dharma-compact in Mn_3.30."
+    },
+    {
+      "canonical_name": "Veda",
+      "surface_names": ["Veda", "Vedas", "three Vedas", "two Vedas", "one Veda", "sacred text"],
+      "kind": "object",
+      "mentions": [
+        {
+          "paragraph_id": "p-875e6a",
+          "quote": "nor with a Brahmana who has not studied the Veda",
+          "role": "qualification criterion for a legitimate guru"
+        },
+        {
+          "paragraph_id": "p-d8ebfe",
+          "quote": "The vow of studying the three Vedas under a guru should be kept for thirty-six years",
+          "role": "the canonical body of knowledge defining studentship"
+        },
+        {
+          "paragraph_id": "p-ca7ef5",
+          "quote": "Having studied the Vedas, or two Vedas, or even one Veda in due order",
+          "role": "graduated completion criterion for brahmacharya"
+        },
+        {
+          "paragraph_id": "p-93ddb7",
+          "quote": "to a man learned in the Veda and of good conduct",
+          "role": "qualification criterion for the bridegroom in Brahma marriage"
+        },
+        {
+          "paragraph_id": "p-646a21",
+          "quote": "through failure to study the Veda, and through insults to Brahmanas, families fall from their high state",
+          "role": "Vedic study as a pillar sustaining family status"
+        }
+      ],
+      "description": "The canonical scriptural corpus whose study defines the student stage of life (brahmacharya) and whose mastery qualifies both a guru and a bridegroom in the Brahma marriage.",
+      "justification": "The Veda functions as the central normative object structuring both studentship rules in chapter 2 and marriage-eligibility rules in chapter 3."
+    },
+    {
+      "canonical_name": "sacred fire",
+      "surface_names": ["sacred fire"],
+      "kind": "object",
+      "mentions": [
+        {
+          "paragraph_id": "p-1a11a1",
+          "quote": "by attending the sacred fire, he should attain perfection for his soul",
+          "role": "ritual substitute for the deceased guru when no surviving relatives remain"
+        }
+      ],
+      "description": "The perpetual sacrificial fire tended by a student as a ritual focal point that substitutes for a deceased guru's lineage when no kin survive.",
+      "justification": "The sacred fire is prescribed in Mn_2.248 as the last resort ritual object when all of the guru's family have died, making it a concrete ritual object in the text."
+    },
+    {
+      "canonical_name": "Gotra",
+      "surface_names": ["Gotra"],
+      "kind": "idea",
+      "mentions": [
+        {
+          "paragraph_id": "p-c8f1da",
+          "quote": "She who is not a Sapinda of his mother and not of the same Gotra as his father is recommended for the twice-born for marriage",
+          "role": "patrilineal descent group whose exogamy rule governs marriage eligibility"
+        }
+      ],
+      "description": "The patrilineal clan lineage (gotra) whose exogamy is one of the two main kinship criteria for selecting a lawful wife; marriage within the same gotra is prohibited.",
+      "justification": "Gotra is explicitly invoked in Mn_3.5 as a technical kinship criterion for marriage eligibility, functioning as an organizing legal concept."
+    },
+    {
+      "canonical_name": "Sapinda",
+      "surface_names": ["Sapinda"],
+      "kind": "idea",
+      "mentions": [
+        {
+          "paragraph_id": "p-c8f1da",
+          "quote": "She who is not a Sapinda of his mother and not of the same Gotra as his father is recommended for the twice-born for marriage",
+          "role": "matrilineal kinship category whose prohibition limits marriage eligibility"
+        }
+      ],
+      "description": "The kinship category denoting shared piṇḍa (funeral rice-ball) obligations, i.e., close bilateral relatives; marriage to a Sapinda of one's mother is prohibited.",
+      "justification": "Sapinda is named as a technical legal concept in Mn_3.5 to define the matrilineal boundary of incest prohibition in marriage."
+    },
+    {
+      "canonical_name": "guru",
+      "surface_names": ["guru", "ācārya", "teacher"],
+      "kind": "figure",
+      "figure_kind": "human",
+      "mentions": [
+        {
+          "paragraph_id": "p-875e6a",
+          "quote": "A pupil who desires the highest state should not dwell permanently with a non-Brahmana guru",
+          "role": "the teacher whose qualifications govern permanent residence"
+        },
+        {
+          "paragraph_id": "p-9770e4",
+          "quote": "he should diligently serve him until he is released from his body",
+          "role": "object of lifelong devoted service"
+        },
+        {
+          "paragraph_id": "p-3045c9",
+          "quote": "A Brahmana who serves his guru until the dissolution of his body goes straight to the eternal abode of Brahma.",
+          "role": "the person whose lifelong service secures cosmic reward"
+        },
+        {
+          "paragraph_id": "p-aa9540",
+          "quote": "A knower of Dharma should not give any gift to his guru beforehand; but when he is about to take the ceremonial bath, having been permitted by his guru, he should procure a gift for him",
+          "role": "recipient of the graduation gift"
+        },
+        {
+          "paragraph_id": "p-90959b",
+          "quote": "When the ācārya has died, he should behave towards his virtuous son, or his wife, or his kinsman as towards the guru himself.",
+          "role": "figure whose surviving family inherits the student's devotion"
+        }
+      ],
+      "description": "The teacher-preceptor (guru/acharya) who is the central social figure in the studentship stage; a student owes him permanent devoted service and graduation gifts, and the devotion extends to his surviving family after death.",
+      "justification": "The guru is the pivotal relational figure in ch02:241-248, with five distinct verses governing the student's duties to and around him."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Guru devotion as the path to liberation",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-875e6a",
+          "quote": "A pupil who desires the highest state should not dwell permanently with a non-Brahmana guru, nor with a Brahmana who has not studied the Veda."
+        },
+        {
+          "paragraph_id": "p-9770e4",
+          "quote": "if he desires to dwell permanently in his guru's family, he should diligently serve him until he is released from his body."
+        },
+        {
+          "paragraph_id": "p-3045c9",
+          "quote": "A Brahmana who serves his guru until the dissolution of his body goes straight to the eternal abode of Brahma."
+        },
+        {
+          "paragraph_id": "p-5ac6c9",
+          "quote": "A Brahmana who thus practices his studentship without breaking his vow goes to the highest abode and is not born here again."
+        }
+      ],
+      "justification": "Mn_2.242-249 establish that complete, lifelong guru-service is the supreme path to Brahma's abode and liberation from rebirth, linking pedagogical fidelity directly to soteriological outcomes."
+    },
+    {
+      "topic": "Ritual gifts as the proper completion of studentship",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-aa9540",
+          "quote": "A knower of Dharma should not give any gift to his guru beforehand; but when he is about to take the ceremonial bath, having been permitted by his guru, he should procure a gift for him according to his ability."
+        },
+        {
+          "paragraph_id": "p-271175",
+          "quote": "A field, gold, a cow, a horse, an umbrella and shoes, a seat, grain, vegetables, and clothes—he should bring these to please his guru."
+        }
+      ],
+      "justification": "Mn_2.245-246 prescribe the timing and enumeration of the graduation gift (dakshina), framing it as the proper ritual closure of brahmacharya."
+    },
+    {
+      "topic": "Varna endogamy and the prohibition of hypogamous marriage",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-9daa70",
+          "quote": "For the first marriage of the twice-born, a wife of the same varna is recommended"
+        },
+        {
+          "paragraph_id": "p-c5df56",
+          "quote": "In no sacred text whatsoever is a Shudra woman ordained as a wife for a Brahmana or a Kshatriya"
+        },
+        {
+          "paragraph_id": "p-832b40",
+          "quote": "Twice-born men who, out of delusion, marry women of a low caste, quickly degrade their families and their descendants to the state of Shudras."
+        },
+        {
+          "paragraph_id": "p-17c06a",
+          "quote": "A Shudra woman is for a Shudra; she and one of his own varna for a Vaishya; these two and one of his own varna for a Kshatriya; and these three and one of his own varna for a Brahmana."
+        }
+      ],
+      "justification": "Chapter 3's marriage legislation is organized around the principle that same-varna marriage is the norm and that marrying down in varna causes ritual degradation, making varna endogamy the dominant structural theme."
+    },
+    {
+      "topic": "The eight forms of marriage ranked by ritual legitimacy",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-36d967",
+          "quote": "Now learn in summary these eight forms of marriage for women, for the four varnas, which are beneficial and harmful in this world and the next."
+        },
+        {
+          "paragraph_id": "p-b07c61",
+          "quote": "The Brāhma, the Daiva, and also the Ārṣa; the Prājāpatya and the Āsura; the Gāndharva and the Rākṣasa; and the eighth and lowest, the Paiśāca."
+        },
+        {
+          "paragraph_id": "p-9df82d",
+          "quote": "But of these five, three are lawful and two are unlawful; the Paiśāca and the Āsura must never be performed."
+        },
+        {
+          "paragraph_id": "p-902d1c",
+          "quote": "The sages know that the first four are praiseworthy for a Brahmana, the Rākṣasa alone for a Kshatriya, and the Āsura for a Vaishya and a Shudra."
+        }
+      ],
+      "justification": "Mn_3.20-35 constitute a systematic taxonomy of eight marriage forms ordered from most to least ritually legitimate, with different forms assigned to each varna."
+    },
+    {
+      "topic": "Ancestral liberation through the merit of offspring from proper marriages",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-872b7e",
+          "quote": "The son of a Brāhmī wife, a doer of good deeds, frees from sin ten ancestors who have gone before, ten descendants who come after, and himself as the twenty-first."
+        },
+        {
+          "paragraph_id": "p-eb7526",
+          "quote": "A son born of a Daiva wife frees seven generations before and seven after; a son of an Ārṣa wife, three before and three after; and a son of a Kāya (Prājāpatya) wife, six before and six after."
+        },
+        {
+          "paragraph_id": "p-ea5edb",
+          "quote": "From the first four marriages, in their order—the Brāhma and the others—are born sons who are endowed with spiritual luster and are approved by the virtuous."
+        }
+      ],
+      "justification": "Mn_3.37-40 enumerate the precise number of generations that a son's virtuous deeds liberate, making ancestral soteriological benefit a key motivation for choosing the highest-ranked marriage forms."
+    },
+    {
+      "topic": "Honoring women as a condition of family and ritual prosperity",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-d37889",
+          "quote": "They should be honored and adorned by their fathers, brothers, husbands, and brothers-in-law, who desire great prosperity."
+        },
+        {
+          "paragraph_id": "p-91f6ca",
+          "quote": "Where women are honored, there the gods themselves rejoice; but where they are not honored, there all sacred rites are fruitless."
+        },
+        {
+          "paragraph_id": "p-f85121",
+          "quote": "Where the female relatives grieve, that family quickly perishes; but where they do not grieve, that family always prospers."
+        },
+        {
+          "paragraph_id": "p-eb7c32",
+          "quote": "Those houses which female relatives, not being duly honored, curse, perish completely, as if destroyed by black magic."
+        },
+        {
+          "paragraph_id": "p-961a1e",
+          "quote": "In that family where the husband is content with his wife, and the wife is likewise with her husband, there good fortune is assuredly constant."
+        }
+      ],
+      "justification": "Mn_3.55-62 constitute a distinct sub-unit on the cosmic-ritual importance of female welfare in the household, linking women's happiness directly to divine approval and family survival."
+    },
+    {
+      "topic": "Sacred knowledge (Veda) as the foundation of family and social status",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-646a21",
+          "quote": "Through improper marriages, through neglect of sacred rites, through failure to study the Veda, and through insults to Brahmanas, families fall from their high state."
+        },
+        {
+          "paragraph_id": "p-1b8d8e",
+          "quote": "And by sacrificing for those unworthy to have sacrifices performed for them, and by denial of the efficacy of sacred rites, families that are deficient in sacred knowledge quickly perish."
+        },
+        {
+          "paragraph_id": "p-42536e",
+          "quote": "But families that are rich in sacred knowledge, even if they have little wealth, are counted among the great families and attain great fame."
+        }
+      ],
+      "justification": "Mn_3.63-66 close the chapter by identifying Vedic knowledge as the supreme determinant of true family status, explicitly ranking it above material wealth."
+    },
+    {
+      "topic": "The bride-price debate: gift versus sale in the Arsha marriage",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-7991df",
+          "quote": "Some say that the pair of cattle taken in the Ārṣa rite is a bride-price, but that is false; whether small or great, it is still a sale."
+        },
+        {
+          "paragraph_id": "p-a5028e",
+          "quote": "When kinsmen do not take the price for themselves, that is not a sale; it is merely a token of respect for the maiden and an act of pure kindness."
+        },
+        {
+          "paragraph_id": "p-96e14c",
+          "quote": "The learned father of a maiden should not accept even the smallest bride-price; for a man who accepts a price out of greed becomes a seller of his offspring."
+        }
+      ],
+      "justification": "Mn_3.51-54 record an implicit debate over whether symbolic cattle exchange in the Arsha marriage constitutes a bride-sale, showing the text's awareness of competing legal interpretations."
+    },
+    {
+      "topic": "Graduated transgenerational moral inheritance from birth quality",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-df466e",
+          "quote": "But from the remaining, inferior marriages are born sons who are cruel, speakers of untruth, who hate the Veda and the Dharma."
+        },
+        {
+          "paragraph_id": "p-e2c4ac",
+          "quote": "From unblamed marriages of women, an unblamed progeny is born; from blameworthy ones, a blameworthy progeny is born to men"
+        },
+        {
+          "paragraph_id": "p-e498ca",
+          "quote": "A male child is produced when the male seed is greater, a female child when the female seed is greater"
+        }
+      ],
+      "justification": "Mn_3.41-42 and 3.49 reflect an implicit theory of moral-biological inheritance in which the ritual quality of one's conception and birth determines one's moral character, tying reproductive biology to dharmic outcomes."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": null,
+      "cited_author": "Atri",
+      "stance": "authority",
+      "paragraph_id": "p-e6dd39",
+      "quote": "By marrying a Shudra woman, a Brahmana falls, according to Atri and the son of Utathya",
+      "justification": "The text explicitly attributes a specific legal ruling on varna-transgressive marriage to the sage Atri, invoking his authority to support the prohibition."
+    },
+    {
+      "cited_work": null,
+      "cited_author": "son of Utathya",
+      "stance": "authority",
+      "paragraph_id": "p-e6dd39",
+      "quote": "according to Atri and the son of Utathya",
+      "justification": "The son of Utathya (likely Dīrghatamas) is named alongside Atri as a co-authority for the same ruling on Brahmana degradation through inter-varna marriage."
+    },
+    {
+      "cited_work": null,
+      "cited_author": "Shaunaka",
+      "stance": "authority",
+      "paragraph_id": "p-e6dd39",
+      "quote": "by begetting a son on her, according to Shaunaka",
+      "justification": "Shaunaka is cited as a distinct legal authority whose ruling specifies a later threshold for degradation than Atri, indicating awareness of differing scholarly positions."
+    },
+    {
+      "cited_work": null,
+      "cited_author": "Bhrigu",
+      "stance": "authority",
+      "paragraph_id": "p-e6dd39",
+      "quote": "and by having a son from her, according to Bhrigu",
+      "justification": "Bhrigu is cited as a fourth authority whose ruling represents the most lenient threshold for full degradation, completing a four-way contrast of expert opinions in a single verse."
+    }
+  ]
+}

@@ -7,7 +7,7 @@ author:
   biography: A sage of the Hindu Dharmaśāstra tradition, to whom the Parāśara Smṛti is ascribed. The text is a compilation in verse on law and right conduct, redacted over generations by unknown hands.
   nationality: Indian
 era: Ancient
-genre: Indic
+genre: Law
 language: Sanskrit
 language_direction: ltr
 description: 
@@ -15,7 +15,7 @@ difficulty: Intermediate
 total_logical_chapters: 12
 total_variant_entries: 24
 cover_image_url: "/objects/uploads/f376b302-d02b-4757-8c3b-187e71c2d44f"
-thothica_role: catalog
+thothica_role: "gretil-root"
 ---
 
 # Parāśara Smṛti

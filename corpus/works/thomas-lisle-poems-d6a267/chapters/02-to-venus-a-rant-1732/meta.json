@@ -1,0 +1,41 @@
+{
+  "work_slug": "thomas-lisle-poems-d6a267",
+  "work_title": "Poems",
+  "chapter_number": 2,
+  "chapter_title": "To VENUS. A RANT, 1732.",
+  "chapter_slug": "02-to-venus-a-rant-1732",
+  "author": "Thomas Lisle",
+  "author_slug": "thomas-lisle",
+  "ecpa_poem_id": "o5157-w0280",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "song"
+    ],
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "metrical_pattern": "irregular",
+    "line_count": 36
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "101194be-2b88-51ae-8078-d15f5cc073ac",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 261,
+      "line_count": 44,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

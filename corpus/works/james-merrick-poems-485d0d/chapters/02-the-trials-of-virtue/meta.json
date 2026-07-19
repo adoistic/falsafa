@@ -1,0 +1,44 @@
+{
+  "work_slug": "james-merrick-poems-485d0d",
+  "work_title": "Poems",
+  "chapter_number": 2,
+  "chapter_title": "THE TRIALS OF VIRTUE.",
+  "chapter_slug": "02-the-trials-of-virtue",
+  "author": "James Merrick",
+  "author_slug": "james-merrick",
+  "ecpa_poem_id": "o4984-w0260",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "meditation"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "8.6.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 76
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "eaf6d9f0-5762-5db3-8ca2-ba28b3686599",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 430,
+      "line_count": 78,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

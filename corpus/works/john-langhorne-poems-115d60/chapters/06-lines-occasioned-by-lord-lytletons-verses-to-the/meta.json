@@ -1,0 +1,41 @@
+{
+  "work_slug": "john-langhorne-poems-115d60",
+  "work_title": "Poems",
+  "chapter_number": 6,
+  "chapter_title": "LINES OCCASIONED BY LORD LYTLETON'S VERSES TO THE COUNTESS OF EGREMONT.",
+  "chapter_slug": "06-lines-occasioned-by-lord-lytletons-verses-to-the",
+  "author": "John Langhorne",
+  "author_slug": "john-langhorne",
+  "ecpa_poem_id": "o4987-w0650",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "10.10.10.10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/",
+    "line_count": 12
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ec44d0ff-c868-5658-8a95-85899c21ad74",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 109,
+      "line_count": 14,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

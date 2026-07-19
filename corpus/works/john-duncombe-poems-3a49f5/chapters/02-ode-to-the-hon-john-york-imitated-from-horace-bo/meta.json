@@ -1,0 +1,46 @@
+{
+  "work_slug": "john-duncombe-poems-3a49f5",
+  "work_title": "Poems",
+  "chapter_number": 2,
+  "chapter_title": "ODE TO THE HON. JOHN YORK. IMITATED FROM HORACE, BOOK II. ODE XVI.",
+  "chapter_slug": "02-ode-to-the-hon-john-york-imitated-from-horace-bo",
+  "author": "John Duncombe",
+  "author_slug": "john-duncombe",
+  "ecpa_poem_id": "o4987-w0710",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "imitation",
+      "translation",
+      "paraphrase"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "sestet (6 lines)"
+    ],
+    "rhyme": "aabccb",
+    "syllable_pattern": "8.8.8.8.8.8",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/",
+    "line_count": 54
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d9af2fff-61c6-5720-8440-25faa71d2165",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 320,
+      "line_count": 57,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "work_slug": "james-merrick-poems-485d0d",
+  "work_title": "Poems",
+  "chapter_number": 14,
+  "chapter_title": "A FRAGMENT.",
+  "chapter_slug": "14-a-fragment",
+  "author": "James Merrick",
+  "author_slug": "james-merrick",
+  "ecpa_poem_id": "o5156-w0760",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ballad metre",
+      "Chevy Chase stanza",
+      "fragment"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "8.6.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/         -+|-+|-+/         -+|-+|-+|-+/         -+|-+|-+/",
+    "line_count": 12
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b3359032-f917-522b-97c9-1e7069bbeaf3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 72,
+      "line_count": 14,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

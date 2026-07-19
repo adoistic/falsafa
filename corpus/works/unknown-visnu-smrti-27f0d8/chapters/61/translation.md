@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 61**
+**Viṣṇu Smriti 61**
 
 Now, he shall not chew a *tooth-twig* of Palāśa wood. // Vi_61.1 //
 

@@ -1,0 +1,44 @@
+{
+  "work_slug": "joseph-warton-poems-369668",
+  "work_title": "Poems",
+  "chapter_number": 7,
+  "chapter_title": "ODE TO A LADY WHO HATES THE COUNTRY.",
+  "chapter_slug": "07-ode-to-a-lady-who-hates-the-country",
+  "author": "Joseph Warton",
+  "author_slug": "joseph-warton",
+  "ecpa_poem_id": "o4985-w0460",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "sestet (6 lines)"
+    ],
+    "rhyme": "aabccb",
+    "syllable_pattern": "8.8.6.8.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 42
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a0751ef9-d41b-5942-8f95-7432f76ba8f9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 240,
+      "line_count": 44,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

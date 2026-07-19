@@ -1,0 +1,4547 @@
+[
+  {
+    "id": "p-41e10d",
+    "ref": "19.1.1",
+    "text": "doṣo gāya bṛhad gāya dyumad gāyātharvaṇa | stuhi devaṃ savitāram ||"
+  },
+  {
+    "id": "p-40e10b",
+    "ref": "19.1.2",
+    "text": "tam u stuhy antaḥsindhuṃ sūnuṃ satyasya yuvānam | adroghavācaṃ suśevam ||"
+  },
+  {
+    "id": "p-3fe10a",
+    "ref": "19.1.3",
+    "text": "sa ghā no devaḥ savitā- -āsāviṣad vasupatir vasūni | ubhe suṣṭutī sugātum ||"
+  },
+  {
+    "id": "p-46e115",
+    "ref": "19.1.4",
+    "text": "indrāya somam ṛtvijaḥ sunotanā ca dhāvata | stotur yo havaṃ śṛṇavad dhavaṃ ca naḥ ||"
+  },
+  {
+    "id": "p-45e113",
+    "ref": "19.1.5",
+    "text": "sunotā somapāvne somam indrāya vajriṇe | yuvā jeteśānaḥ sa puruṣṭutaḥ ||"
+  },
+  {
+    "id": "p-44e112",
+    "ref": "19.1.6",
+    "text": "ā tvā viśantv indavo vayo na vṛkṣam andhasaḥ | virapśin vi mṛdho jahi rakṣasvinīḥ ||"
+  },
+  {
+    "id": "p-43e110",
+    "ref": "19.1.7",
+    "text": "āre asāv asmad astu hetir devāso asat | āre martānām aśastiḥ ||"
+  },
+  {
+    "id": "p-3ae102",
+    "ref": "19.1.8",
+    "text": "sakhaiva no rātir astu sakhendraḥ sakhā savitā | sakhā bhagaḥ satyadharmā no astu ||"
+  },
+  {
+    "id": "p-39e100",
+    "ref": "19.1.9",
+    "text": "abhi no devīr avasā mahāśarmaṇā nṛpatnīḥ | acchinnapatrāḥ sacantām ||"
+  },
+  {
+    "id": "p-33483d",
+    "ref": "19.1.10",
+    "text": "īḍe agniṃ bhavaṃ sarvaṃ rakṣa ubjad ahiṃ balāsam uta sedim ugrām | āre asmad adite daivyaṃ bhayaṃ suvīryaṃ marutaḥ śarma yacchata ||"
+  },
+  {
+    "id": "p-34483e",
+    "ref": "19.1.11",
+    "text": "īḍe dyāvāpṛthivī parvatām̐ apaḥ svaḥ sūryam urv antarikṣam | vanaspatīn oṣadhīr gā uta rca ṛtasya naḥ patayo mṛḍayantu ||"
+  },
+  {
+    "id": "p-31483a",
+    "ref": "19.1.12",
+    "text": "huve viṣṇuṃ pūṣaṇaṃ brahmaṇaspatiṃ bhagaṃ nu śaṃsaṃ savitāram ūtaye | iha somo varuṇo vāyur agnir bhaga ugrā avase no gamantu ||"
+  },
+  {
+    "id": "p-32483b",
+    "ref": "19.1.13",
+    "text": "pātaṃ na indrāpūṣaṇā varuṇaḥ pāntu marutaḥ | apāṃ napāt sindhavaḥ sapta pātana pātu viṣṇur uta dyauḥ ||"
+  },
+  {
+    "id": "p-2f4837",
+    "ref": "19.1.14",
+    "text": "pātāṃ no dyāvāpṛthivī abhiṣṭaye pātu grāvā pātu somo no aṃhasaḥ | pātu no devī suhavā sarasvatī pātv agnir ye śivā asya pāyavaḥ ||"
+  },
+  {
+    "id": "p-304838",
+    "ref": "19.1.15",
+    "text": "pātāṃ no devāśvinā sudaṃsasā- -uṣāsānaktota na uruṣyatām | apāṃ napād avihrutī kayasya cid devo mūrdhann adite śarma yaccha naḥ ||"
+  },
+  {
+    "id": "p-32b3be",
+    "ref": "19.2.1",
+    "text": "tvaṣṭā me daivyaṃ vacaḥ parjanyo brahmaṇaspatiḥ | putrair bhrātṛbhir aditir nu pātu no duṣṭaraṃ trāmaṇe śavaḥ ||"
+  },
+  {
+    "id": "p-33b3bf",
+    "ref": "19.2.2",
+    "text": "aṃśo bhago varuṇo mitro aryamā- -aditiḥ pātv aṃhasaḥ | apa tasya dveṣo gamed avihruto yāvayāc chatrum ?anti tam? ||"
+  },
+  {
+    "id": "p-34b3c1",
+    "ref": "19.2.3",
+    "text": "deva tvaṣṭar vardhaya sarvatātaye dhiye sam u śriye prāvatān naḥ | uruṣyā ṇa urutarāprayucchan dyauṣ pitar yāvaya ducchunām itaḥ ||"
+  },
+  {
+    "id": "p-2db3b6",
+    "ref": "19.2.4",
+    "text": "ye no vacobhir uta daṃsanābhis tanvaṃ soma paritāpayante | nīcais tān vṛśca na yathā virukṣan mā te dṛśan sūryam uccarantam ||"
+  },
+  {
+    "id": "p-2eb3b7",
+    "ref": "19.2.5",
+    "text": "tvayeṣvā tvayā soma dhanvanā tvayā muṣṭighnā śāśadmahe vayam | tvaṃ tān vṛśca ya idaṃ na ?ādṛśākaren? hanāma daṇḍair uta daṃsanābhiḥ ||"
+  },
+  {
+    "id": "p-2fb3b9",
+    "ref": "19.2.6",
+    "text": "padena tān padanyo nayantu vadhair enān pitaro daṃsayantu | yathā na jīvāt katamaś canaiṣām ||"
+  },
+  {
+    "id": "p-30b3ba",
+    "ref": "19.2.7",
+    "text": "yena somāditiḥ pathā mitrā vā yanty adruhaḥ | tenā no 'vitā bhuvaḥ ||"
+  },
+  {
+    "id": "p-29b3af",
+    "ref": "19.2.8",
+    "text": "yo naḥ soma suśaṃsino duḥśaṃso abhidāsati | vajreṇāsya mukhe jahi sa saṃpiṣṭo apāyati ||"
+  },
+  {
+    "id": "p-2ab3b1",
+    "ref": "19.2.9",
+    "text": "yo naḥ somābhidāsati sanābhir yaś ca niṣṭiyaḥ | apa tasya balaṃ tira mahīva dyaur vadha tmanā ||"
+  },
+  {
+    "id": "p-f7f457",
+    "ref": "19.2.10",
+    "text": "punar agham aghakṛtam etu devāḥ punar ena enaskṛtaṃ vijānat | punaḥ putraḥ pitaram etu vidvān hatām uta yad asya svam asti ||"
+  },
+  {
+    "id": "p-f6f455",
+    "ref": "19.2.11",
+    "text": "yena cāsau śapati yena cainaṃ śapāmasi | ubhau saṃvṛhya tau tasmād antikād dhetim asyatām ||"
+  },
+  {
+    "id": "p-f5f454",
+    "ref": "19.2.12",
+    "text": "ye pārthivāsaḥ śapathā ya urāv antarikṣe | ye vātasya prabharmaṇi tebhiṣ ṭaṃ vartayāmasi yo 'smān dveṣṭi yaṃ vayaṃ dviṣmaḥ ||"
+  },
+  {
+    "id": "p-f4f452",
+    "ref": "19.2.13",
+    "text": "ye asmān parisīsṛpuḥ kulīpayāni bibhrataḥ | ud devas teṣāṃ vṛścata mūlam urvārvo yathā ||"
+  },
+  {
+    "id": "p-f3f451",
+    "ref": "19.2.14",
+    "text": "yad devā aghadhā agham anyasminn ā sisaṃkṣati | bhāro aghasya duḥsahaḥ pratyak kartāram ṛcchatu ||"
+  },
+  {
+    "id": "p-f2f44f",
+    "ref": "19.2.15",
+    "text": "punar evāghadhām aghaṃ dyumnam ?ivaitur arṣatu | ādityāduryāmahiṣā? mahī sindhor ivāvaniḥ ||"
+  },
+  {
+    "id": "p-16f185",
+    "ref": "19.3.1",
+    "text": "śaśvad didyut kriyamāṇā pratīcī ni hi paptat | pratyak kartāram ṛcchatu ||"
+  },
+  {
+    "id": "p-19f18a",
+    "ref": "19.3.2",
+    "text": "śaśvantam ic chāśadānam anyasmā iṣuṃ dihānam | pratīcī śarur ṛcchatu ||"
+  },
+  {
+    "id": "p-18f188",
+    "ref": "19.3.3",
+    "text": "yad etad bhūri śāśadat pratīcīnam apohase | viṣād iva viṣam addhi tat ||"
+  },
+  {
+    "id": "p-1bf18d",
+    "ref": "19.3.4",
+    "text": "namas te pravato napād yatas tapaḥ samūhase | mṛḍā nas tanūbhyaś śaṃ nas tokebhyas kṛdhi ||"
+  },
+  {
+    "id": "p-1af18b",
+    "ref": "19.3.5",
+    "text": "pravato napān namo astu tubhyaṃ namas te hetaye tapuṣyai | vidma te dhāma paramaṃ guhā yat samudre antar nihitāsi nābhiḥ ||"
+  },
+  {
+    "id": "p-1df190",
+    "ref": "19.3.6",
+    "text": "yāṃ tvā devā ajanayanta viśva iṣuṃ kṛṇvānā asanāya tṛṣvīm | sā no mṛḍa vidathe gṛṇānā mitrasya ca varuṇasya praśiṣṭau ||"
+  },
+  {
+    "id": "p-1cf18f",
+    "ref": "19.3.7",
+    "text": "yūyaṃ naḥ pravato napān marutaḥ sūryatvacaḥ | śarma yacchātha saprathaḥ ||"
+  },
+  {
+    "id": "p-0ff17a",
+    "ref": "19.3.8",
+    "text": "mamṛḍatā suṣūdatā mṛḍā no aghnyābhyaḥ | tokāya tanve ca ||"
+  },
+  {
+    "id": "p-0ef179",
+    "ref": "19.3.9",
+    "text": "namas te astu vidyute namas te stanayitnave | namas te astv aśmane yenā dūḍāśe asyasi ||"
+  },
+  {
+    "id": "p-c63567",
+    "ref": "19.3.10",
+    "text": "yo asmān brahmaṇaspate 'devo abhidāsati | sarvaṃ taṃ rīradhāsi naḥ ||"
+  },
+  {
+    "id": "p-c73569",
+    "ref": "19.3.11",
+    "text": "yebhiḥ soma sāhantya- -asurān randhayāsai | tebhir no 'vitā bhuvaḥ ||"
+  },
+  {
+    "id": "p-c8356a",
+    "ref": "19.3.12",
+    "text": "yāni devā asurāṇām ojāṃsy avṛṇīdhvam | tebhir no adhi vocata ||"
+  },
+  {
+    "id": "p-c9356c",
+    "ref": "19.3.13",
+    "text": "ud enam uttaraṃ naya- -agne ghṛtebhir āhutaḥ | sam enaṃ varcasā sṛja devānāṃ bhāgadhā asat ||"
+  },
+  {
+    "id": "p-ca356d",
+    "ref": "19.3.14",
+    "text": "indremaṃ prataraṃ kṛdhi sajātānām asad vaśī | rāyaspoṣeṇa saṃ sṛja prajayā ca bahuṃ kṛdhi ||"
+  },
+  {
+    "id": "p-cb356f",
+    "ref": "19.3.15",
+    "text": "yasya kṛṇmo gṛhe havis tam agne vardhayā tvam | tasmai somo adhi bruvad ayaṃ ca brahmaṇaspatiḥ ||"
+  },
+  {
+    "id": "p-90b674",
+    "ref": "19.4.1",
+    "text": "ṛtāvānaṃ vaiśvānaram ṛtasya jyotiṣas patim | ajasraṃ gharmam īmahe ||"
+  },
+  {
+    "id": "p-8db670",
+    "ref": "19.4.2",
+    "text": "sa idaṃ prati paprathad yajñasya svar uttiran | ṛtūn ut sṛjate vaśī ||"
+  },
+  {
+    "id": "p-8eb671",
+    "ref": "19.4.3",
+    "text": "agniḥ priyeṣu dhāmasu kāmo bhūtasya bhavyasya | samrāḍ eko vi rājati ||"
+  },
+  {
+    "id": "p-93b679",
+    "ref": "19.4.4",
+    "text": "pari dyām iva sūryo ahīnāṃ janim āgamam | rātrī jagad ivānyad dhaṃsād avārīr imaṃ viṣam ||"
+  },
+  {
+    "id": "p-94b67b",
+    "ref": "19.4.5",
+    "text": "yad brahmabhir yad ṛṣibhir yad devair uditaṃ purā | yad bhūtaṃ bhavyam āsanvat tena te vāraye viṣam ||"
+  },
+  {
+    "id": "p-91b676",
+    "ref": "19.4.6",
+    "text": "madhunāpṛkṣi nadyaḥ parvatā girayo madhu | madhu paruṣṇī śīpālā śam āsne astu śaṃ hṛde ||"
+  },
+  {
+    "id": "p-92b678",
+    "ref": "19.4.7",
+    "text": "yatheyam urvī pṛthivī dādhāra viṣṭhitaṃ jagat | evā te dhriyatāṃ garbho anu sūtuṃ savitave ||"
+  },
+  {
+    "id": "p-97b67f",
+    "ref": "19.4.8",
+    "text": "(…) dādhāremān vanaspatīn | (…) ||"
+  },
+  {
+    "id": "p-98b681",
+    "ref": "19.4.9",
+    "text": "yatheyam urvī pṛthivī dādhāra parvatān apaḥ | evā te dhriyatāṃ garbho anu sūtuṃ suvitave ||"
+  },
+  {
+    "id": "p-9839d8",
+    "ref": "19.4.10",
+    "text": "sasruṣīs tad apaso divā naktaṃ ca sasruṣīḥ | vareṇyakratur aham apo devīr upa bruve ||"
+  },
+  {
+    "id": "p-9739d6",
+    "ref": "19.4.11",
+    "text": "oktā āpaḥ karmaṇyā muñcantv itaḥ praṇītaye | sadyo bhavantv etave ||"
+  },
+  {
+    "id": "p-9a39db",
+    "ref": "19.4.12",
+    "text": "devasya savituḥ save karma kṛṇvanti mānuṣāḥ | śaṃ no bhavantv apa oṣadhīr imāḥ ||"
+  },
+  {
+    "id": "p-9939d9",
+    "ref": "19.4.13",
+    "text": "śatasya te dhamanīnāṃ sahasrasya hirāṇām | asthur in madhyamā yāḥ sākam antā araṃsata ||"
+  },
+  {
+    "id": "p-9c39de",
+    "ref": "19.4.14",
+    "text": "pari vaḥ sikatāmayīr dhanūs tiraś cid asthiran | tiṣṭhatelayatā su kam ||"
+  },
+  {
+    "id": "p-9b39dd",
+    "ref": "19.4.15",
+    "text": "amūr yā yanti jāmayaḥ sarvā lohitavāsasaḥ | abhrātara iva yoṣās tiṣṭhanti hatavarcasaḥ ||"
+  },
+  {
+    "id": "p-9e39e1",
+    "ref": "19.4.16",
+    "text": "tiṣṭhāvare tiṣṭha para uta tvaṃ tiṣṭha madhyame | kaṇiṣṭhikā ca tiṣṭhāti tiṣṭhād id dhamanir mahī ||"
+  },
+  {
+    "id": "p-9593d2",
+    "ref": "19.5.1",
+    "text": "namo devavadhebhyo namo rājavadhebhyaḥ | atho ye viśyānāṃ vadhās tebhyo mṛtyo namāṃsi te ||"
+  },
+  {
+    "id": "p-9493d1",
+    "ref": "19.5.2",
+    "text": "namas te adhivākāya parāvākāya te namaḥ | sumatyai mṛtyo te namo durmatyai ta idaṃ namaḥ ||"
+  },
+  {
+    "id": "p-9393cf",
+    "ref": "19.5.3",
+    "text": "namas te yātudhānebhyo namas te bheṣajebhyaḥ | mūlebhyo mṛtyo te namo brāhmaṇebhya idaṃ namaḥ ||"
+  },
+  {
+    "id": "p-9293cd",
+    "ref": "19.5.4",
+    "text": "nava ca yā navatiś ca saṃyanti manyā abhi | itas tāḥ sarvā naśyantu vākā apacitām iva ||"
+  },
+  {
+    "id": "p-9193cc",
+    "ref": "19.5.5",
+    "text": "sapta ca yāḥ saptatiś ca saṃyanti skandhyā abhi | (itas tāḥ sarvā naśyantu vākā apacitām iva) ||"
+  },
+  {
+    "id": "p-9093ca",
+    "ref": "19.5.6",
+    "text": "pañca ca yāḥ pañcāśac ca saṃyanti graivyā abhi | itas tāḥ sarvā naśyantu vākā apacitām iva ||"
+  },
+  {
+    "id": "p-8f93c9",
+    "ref": "19.5.7",
+    "text": "āvayo anāvayo rasas ta ugra āvayo | ā te karambham adīmahi sa hi na tvam asi yas tvam ātmānam āvayaḥ ||"
+  },
+  {
+    "id": "p-8e93c7",
+    "ref": "19.5.8",
+    "text": "babhruś ca babhrukarṇaś ca nīlākalaśālā | śavaḥpaśya ||"
+  },
+  {
+    "id": "p-8d93c6",
+    "ref": "19.5.9",
+    "text": "tauvilike 'velayā- -avāyam ailava ailayīt | iha svām āhutiṃ juṣāṇo manasā svāhā ||"
+  },
+  {
+    "id": "p-21b4a1",
+    "ref": "19.5.10",
+    "text": "svāhā manasā yad idaṃ kṛṇomi yasyās ta āsañ juhomi ghore | eṣāṃ baddhānām avasarjanāya kam ||"
+  },
+  {
+    "id": "p-22b4a3",
+    "ref": "19.5.11",
+    "text": "bhūmir iti tvābhipramanvate janā nirṛtir iti tvāhaṃ pari veda viśvataḥ | bhūte haviṣmaty asy eṣa te bhagas tena te vidheyaṃ svāhā ||"
+  },
+  {
+    "id": "p-1fb49e",
+    "ref": "19.5.12",
+    "text": "evo ṣv asmat tvaṃ nirṛte viśvavāre ayasmayān pra mumugdhi pāśān | yamena tvaṃ yamyā saṃvidānā yo asmān dveṣṭi yaṃ vayaṃ dviṣmas tasmin tān pāśān prati muñca sarvān ||"
+  },
+  {
+    "id": "p-20b4a0",
+    "ref": "19.5.13",
+    "text": "uttamo asy oṣadhīnāṃ tava vṛkṣā upastayaḥ | upastir asmākaṃ bhūyād yo 'smām̐ abhidāsati ||"
+  },
+  {
+    "id": "p-25b4a7",
+    "ref": "19.5.14",
+    "text": "sabandhuś cāsabandhuś ca yo 'smām̐ abhidāsati | sabandhūn sarvāṃs tīrtvā- -ahaṃ bhūyāsam uttamaḥ ||"
+  },
+  {
+    "id": "p-26b4a9",
+    "ref": "19.5.15",
+    "text": "yathā soma oṣadhīnām uttamaṃ havir ucyate | evā tvam iva vṛkṣāṇām ahaṃ bhūyāsam uttamaḥ ||"
+  },
+  {
+    "id": "p-e804ec",
+    "ref": "19.6.2",
+    "text": "indrasya vacasā vayaṃ mitrasya varuṇasya ca | devānāṃ sarveṣāṃ vācā yakṣmaṃ te vārayāmahe ||"
+  },
+  {
+    "id": "p-e904ee",
+    "ref": "19.6.3",
+    "text": "yathā vṛtra imā āpas tastambha viśvadhā yatīḥ | evā te agninā yakṣmaṃ vaiśvānareṇa vāraye ||"
+  },
+  {
+    "id": "p-ea04ef",
+    "ref": "19.6.4",
+    "text": "dhruvaṃ dhruveṇa haviṣā- -abhi somaṃ mṛśāmasi | atrā ta indraḥ kevalīr viśo balihṛtas karat ||"
+  },
+  {
+    "id": "p-eb04f1",
+    "ref": "19.6.5",
+    "text": "ā tvāhārṣam antar abhūr dhruvas tiṣṭhāvicācalat | viśas tvā sarvā ā yantu mā tvad rāṣṭram adhi bhraśat ||"
+  },
+  {
+    "id": "p-ec04f3",
+    "ref": "19.6.6",
+    "text": "ihaivaidhi māpa cyoṣṭhāḥ parvata ivāvicācalat | indreha dhruvas tiṣṭha- -iha rāṣṭraṃ ni dhāraya ||"
+  },
+  {
+    "id": "p-ed04f4",
+    "ref": "19.6.7",
+    "text": "indra etam adīdharad dhruvaṃ dhruveṇa haviṣā | tasmai somo adhi bruvad ayaṃ ca brahmaṇaspatiḥ ||"
+  },
+  {
+    "id": "p-ee04f6",
+    "ref": "19.6.8",
+    "text": "dhruvaṃ te devaḥ savitā dhruvaṃ devo bṛhaspatiḥ | dhruvaṃ ta indraś cāgniś ca rāṣṭraṃ dhārayatāṃ dhruvam ||"
+  },
+  {
+    "id": "p-ef04f7",
+    "ref": "19.6.9",
+    "text": "dhruvā dyaur dhruvā pṛthivī samudrāḥ parvatā dhruvāḥ | dhruvā ha dharmaṇā dhruvā dhruvo rājā viśām ayam ||"
+  },
+  {
+    "id": "p-1fbea6",
+    "ref": "19.6.10",
+    "text": "vṛṣendrasya vṛṣā divo vṛṣā pṛthivyā ayam | vṛṣā viśvasya bhūtasya tvam ekavṛṣo bhava ||"
+  },
+  {
+    "id": "p-1ebea4",
+    "ref": "19.6.11",
+    "text": "samudra īśe sravatām agniḥ pṛthivyā vaśī | sūryo nakṣatrāṇām īśe tvam (…) ||"
+  },
+  {
+    "id": "p-1dbea2",
+    "ref": "19.6.12",
+    "text": "samrāḍ asy asurāṇāṃ kakun manuṣyāṇām | devānām ardhabhāg asi tvam ekavṛṣo bhava ||"
+  },
+  {
+    "id": "p-1cbea1",
+    "ref": "19.6.13",
+    "text": "pari vartmāny eṣām indraḥ pūṣā ca sasratuḥ | muhyantv adyāmūḥ senā amitrāṇāṃ parastarām ||"
+  },
+  {
+    "id": "p-23beac",
+    "ref": "19.6.14",
+    "text": "mugdhā amitrāś caranta- -aśīrṣāṇa ivāhayaḥ | athaiṣām agniruddhānām indro hantu varaṃ-varam ||"
+  },
+  {
+    "id": "p-22beaa",
+    "ref": "19.6.15",
+    "text": "aiṣu nahya vṛṣājinaṃ hariṇasya bhiyaṃ kṛdhi | parāṅ amitra eṣatv arvācī gaur upeṣatu ||"
+  },
+  {
+    "id": "p-eb9297",
+    "ref": "19.7.1",
+    "text": "saṃsam id yuvase vṛṣann agne viśvāny arya ā | iḍas pade sam idhyase sa no vasūny ā bhara ||"
+  },
+  {
+    "id": "p-ee929b",
+    "ref": "19.7.2",
+    "text": "saṃ jānīdhvaṃ saṃ pṛcyadhvaṃ saṃ vo manāṃsi jānatām | devā bhāgaṃ yathā pūrve saṃjānānā upāsate ||"
+  },
+  {
+    "id": "p-ed929a",
+    "ref": "19.7.3",
+    "text": "samāno mantraḥ samitiḥ samānī samānaṃ cittaṃ saha vo manāṃsi | samānena vo haviṣā juhomi yathā saṃmanaso 'satha ||"
+  },
+  {
+    "id": "p-e89292",
+    "ref": "19.7.4",
+    "text": "ut sūryo diva eti puro viśvāni yo 'ruhat | ādityaḥ parvatāṅ ati viśvadṛṣṭo adṛṣṭahā ||"
+  },
+  {
+    "id": "p-e79290",
+    "ref": "19.7.5",
+    "text": "āyurvidaṃ vipaścitaṃ śrutāṃ kaṇvasya vīrudham | āhārṣaṃ viśvabheṣajīm asyādṛṣṭān ni śamaya ||"
+  },
+  {
+    "id": "p-ea9295",
+    "ref": "19.7.6",
+    "text": "ni gāvo goṣṭhe asadan ni mṛgāso avikṣata | ni ketavo janānāṃ ny adṛṣṭā alipsata ||"
+  },
+  {
+    "id": "p-e99293",
+    "ref": "19.7.7",
+    "text": "himavataḥ pra sravatha tāḥ sindhum upa gacchatha | āpo gha mahyaṃ tad devīr dadan hṛddyotabheṣajam ||"
+  },
+  {
+    "id": "p-e4928b",
+    "ref": "19.7.8",
+    "text": "yad akṣībhyām ādidyota pārṣṇibhyāṃ hṛdayena ca | āpas tat sarvaṃ niṣ karan tvaṣṭā riṣṭam ivānasaḥ ||"
+  },
+  {
+    "id": "p-e3928a",
+    "ref": "19.7.9",
+    "text": "sindhurājñīḥ sindhupatnīḥ sarvā yā nadya sthana | dattā nas tasya bheṣajaṃ tena vo bhunajāmahai ||"
+  },
+  {
+    "id": "p-0bc406",
+    "ref": "19.7.10",
+    "text": "punantu mā devajanāḥ punantu manavo dhiyā | punantu viśvā bhūtāni pavamānaḥ punātu mā ||"
+  },
+  {
+    "id": "p-0cc408",
+    "ref": "19.7.11",
+    "text": "punātu mā pavamānaḥ kratve dakṣāya jīvase | jyok ca sūryāya dṛśe ||"
+  },
+  {
+    "id": "p-0dc40a",
+    "ref": "19.7.12",
+    "text": "ubhābhyāṃ deva savitaḥ pavitreṇa savena ca | asmān punīhi cakṣase ||"
+  },
+  {
+    "id": "p-0ec40b",
+    "ref": "19.7.13",
+    "text": "īrṣyāyā dhrājiṃ prathamām adhamām uttamām uta | manyuṃ hṛdayyaṃ śokaṃ taṃ te nir mantrayāmahe ||"
+  },
+  {
+    "id": "p-07c400",
+    "ref": "19.7.14",
+    "text": "etad yat te hṛdi śritaṃ manaskaṃ patayiṣṇukam | tatas ta īrṣyāṃ muñcāmi nir ūṣmāṇaṃ dṛter iva ||"
+  },
+  {
+    "id": "p-08c402",
+    "ref": "19.7.15",
+    "text": "yathā bhūmir mṛtamanā mṛtān mṛtamanastarā | yathota mamruṣo mana everṣyor mṛtaṃ manaḥ ||"
+  },
+  {
+    "id": "p-e5a66e",
+    "ref": "19.8.1",
+    "text": "dyauś ca mā pṛthivī ca pracetasau śukro bṛhan dakṣiṇā mā pipartu | anu svadhā cikitāṃ somo agnir vāyur mā yātu savitā bhagaś ca ||"
+  },
+  {
+    "id": "p-e2a66a",
+    "ref": "19.8.2",
+    "text": "punar manaḥ punar āyur na āgan punaś cakṣuḥ punar ākūtir āgan | vaiśvānaro no adabdhas tanūpā antas tiṣṭhāti duritād avadyāt ||"
+  },
+  {
+    "id": "p-e3a66b",
+    "ref": "19.8.3",
+    "text": "saṃ varcasā payasā saṃ tanūbhir aganmahi manasā saṃ śivena | tvaṣṭā sudatro varivaḥ kṛṇotv anūnas tāṣṭu tanvo viriṣṭam ||"
+  },
+  {
+    "id": "p-e0a666",
+    "ref": "19.8.4",
+    "text": "idaṃ tad yuja uttaraṃ yenendraṃ śumbhāmy aṣṭaye | asya kṣatraṃ śriyaṃ mahīṃ vṛṣṭir iva vardhayā tṛṇam ||"
+  },
+  {
+    "id": "p-e1a668",
+    "ref": "19.8.5",
+    "text": "asya kṣatram agnīṣomāv asya vardhayataṃ rayim | atho rāṣṭrasyābhīvarge kṛṇutaṃ yuja uttaram ||"
+  },
+  {
+    "id": "p-dea663",
+    "ref": "19.8.6",
+    "text": "sabandhuś cāsabandhuś ca yo jāto yaś ca niṣṭiyaḥ | yajamānāya sunvate sarvaṃ taṃ rīradhāsi naḥ ||"
+  },
+  {
+    "id": "p-dfa665",
+    "ref": "19.8.7",
+    "text": "yaśo bṛhad vardhatām indrajūtaṃ sahasrabhṛṣṭi sukṛtaṃ sahasvat | prasarsrāṇam anu dīrghāya jīvase haviṣmantaṃ vardhaya sarvatātaye ||"
+  },
+  {
+    "id": "p-eca679",
+    "ref": "19.8.8",
+    "text": "yaśā indro yaśā agnir yaśāḥ somo ajāyata | yaśā viśvasya bhūtasya- -aham asmi yaśastamaḥ ||"
+  },
+  {
+    "id": "p-eda67b",
+    "ref": "19.8.9",
+    "text": "vayaṃ te agne yaśaso yaśobhir yaśasvino haviṣainā vidhema | sa no dhehi rāṣṭram indrajūtaṃ tava trātre adhivāke syāma ||"
+  },
+  {
+    "id": "p-7a00ab",
+    "ref": "19.8.10",
+    "text": "ava jyām iva dhanvano manyuṃ tanomi te hṛdaḥ | adhā saṃmanasau bhūtvā sakhikeva sacāvahai ||"
+  },
+  {
+    "id": "p-7900aa",
+    "ref": "19.8.11",
+    "text": "vi te manyuṃ nayāmasi sakhikeva sacāvahai | adhas te aśmanā manyuṃ guruṇābhi ni dadhmasi ||"
+  },
+  {
+    "id": "p-7c00ae",
+    "ref": "19.8.12",
+    "text": "abhi tiṣṭhāmi te manyuṃ pārṣṇibhyāṃ prapadābhyām | parā te daṇḍyaṃ vadhaṃ parā manyuṃ suvāmi te ||"
+  },
+  {
+    "id": "p-7b00ad",
+    "ref": "19.8.13",
+    "text": "hiraṇyayaḥ panthā āsīd aritrāṇi hiraṇyayā | nāvo hiraṇyayīr āsan yābhiḥ kuṣṭhaṃ nirāvaham ||"
+  },
+  {
+    "id": "p-7600a5",
+    "ref": "19.8.14",
+    "text": "suparṇasuvane girau jātaṃ himavatas pari | dhanair abhi śrutaṃ yanti kuṣṭhehi takmanāśanaḥ ||"
+  },
+  {
+    "id": "p-7500a3",
+    "ref": "19.8.15",
+    "text": "yo giriṣu jāyase vīrudhāṃ balavattamaḥ | kuṣṭhehi takmanāśana takmānaṃ nāśayann itaḥ ||"
+  },
+  {
+    "id": "p-49e4ff",
+    "ref": "19.9.1",
+    "text": "idāvatsarāya parivatsarāya saṃvatsarāya kṛṇutā bṛhan namaḥ | teṣāṃ vayaṃ sumatau yajñiyānām api bhadre saumanase syāma ||"
+  },
+  {
+    "id": "p-48e4fe",
+    "ref": "19.9.2",
+    "text": "ye vaḥ panthā bahavo devayānā anu dyāvāpṛthivī saṃcarantī | teṣām ajyāniṃ yatamo na āvahāt tasmai no devāḥ pari dhatta sarve ||"
+  },
+  {
+    "id": "p-47e4fc",
+    "ref": "19.9.3",
+    "text": "śarad dhemantaḥ śiśiro vasanto grīṣmo varṣāḥ suvite no dadhāta | ā no goṣu bhajatauṣadhīṣu nivāta id vaḥ śaraṇe syāma ||"
+  },
+  {
+    "id": "p-4ee507",
+    "ref": "19.9.4",
+    "text": "vaiśvānaro na ūtaya ā pra yātu parāvataḥ | agnir ukthair no aṃhasaḥ ||"
+  },
+  {
+    "id": "p-4de506",
+    "ref": "19.9.5",
+    "text": "vaiśvānaro na ā gamad imaṃ yajñaṃ sajūr upa- | -imāṃ suṣṭutiṃ mama ||"
+  },
+  {
+    "id": "p-4ce504",
+    "ref": "19.9.6",
+    "text": "vaiśvānaro no aṅgirobhi stomaṃ yajñaṃ ca cākl̥pat | aiṣu dyumnaṃ svar yamat ||"
+  },
+  {
+    "id": "p-4be502",
+    "ref": "19.9.7",
+    "text": "ajaiṣaṃ tvā saṃlikhitam ajaiṣam uta saṃrudham | aviṃ vṛko yathā mathad evā mathnāmi te kṛtam ||"
+  },
+  {
+    "id": "p-52e50d",
+    "ref": "19.9.8",
+    "text": "yathā vṛkṣam aśanir viśvahā hanty aprati | evāham amuṃ kitavam akṣair vadhyāsam aprati ||"
+  },
+  {
+    "id": "p-51e50c",
+    "ref": "19.9.9",
+    "text": "turāṇām aturāṇāṃ viśāṃ devayatīnām | sam aitu viśvato bhago antarhastaṃ kṛtaṃ mama ||"
+  },
+  {
+    "id": "p-497ef0",
+    "ref": "19.9.10",
+    "text": "yāvad dyaur yāvat pṛthivī yāvad ābhāti sūryaḥ | tāvat sṛjāmi te viṣaṃ yāvad arṣanti sindhavaḥ ||"
+  },
+  {
+    "id": "p-4a7ef1",
+    "ref": "19.9.11",
+    "text": "ucchvasanta ud īrate gāva āvasathād iva | ahīnāṃ paśyatā viṣam apavaktā na vidyate ||"
+  },
+  {
+    "id": "p-477eed",
+    "ref": "19.9.12",
+    "text": "ā jaghāna pṛṣaddhanuḥ saṅgathe dhamanīnām | mūrdhānaṃ viṣam āskadya- -aṅgāni vy asisrasat ||"
+  },
+  {
+    "id": "p-487eee",
+    "ref": "19.9.13",
+    "text": "mā no devā ahir vadhīt santokān sahapūruṣān | saṃyataṃ na vi ṣparad vyāttaṃ na saṃ yamat ||"
+  },
+  {
+    "id": "p-457ee9",
+    "ref": "19.9.14",
+    "text": "saṃ te dadhāmi dadbhir dataḥ saṃ te hanvā hanū | saṃ te jihvayā jihvāṃ saṃ ta āsnāha āsyam ||"
+  },
+  {
+    "id": "p-467eeb",
+    "ref": "19.9.15",
+    "text": "namo 'haye asitāya namas tiraścirājaye | svajāya babhrave namo namo devajanebhyaḥ ||"
+  },
+  {
+    "id": "p-0ccf57",
+    "ref": "19.10.1",
+    "text": "manase cetase dhiya ākūtaya uta cittaye | matyai śrutāya cakṣase vidhema haviṣā vayam ||"
+  },
+  {
+    "id": "p-0fcf5c",
+    "ref": "19.10.2",
+    "text": "prāṇāyāpānāya vyānāya bhūriretase | sarasvatyā uruvyace vidhema haviṣā vayam ||"
+  },
+  {
+    "id": "p-0ecf5a",
+    "ref": "19.10.3",
+    "text": "mā no hāsiṣur ṛṣayo daivyāsas tanūpāvānaḥ śucayas tapojāḥ | amartyā martyām̐ abhi naḥ sacadhvam āyur naḥ prataraṃ jīvase dhuḥ ||"
+  },
+  {
+    "id": "p-11cf5f",
+    "ref": "19.10.4",
+    "text": "idam id vā u bheṣajam idaṃ rudrasya bheṣajam | yeneṣum ekatejanāṃ śataśalyām apabruvan ||"
+  },
+  {
+    "id": "p-10cf5d",
+    "ref": "19.10.5",
+    "text": "jālāṣenābhi ṣiñcata jālāṣenopa siñcata | jālāṣaṃ bhadraṃ bheṣajaṃ tasya no dhatta jīvase ||"
+  },
+  {
+    "id": "p-13cf62",
+    "ref": "19.10.6",
+    "text": "śaṃ ca no mayaś ca no mā ca naḥ kiṃ canāmamat | kṣamā rapo viśvaṃ no astu bheṣajam ||"
+  },
+  {
+    "id": "p-12cf60",
+    "ref": "19.10.7",
+    "text": "yaśasaṃ mendro maghavān kṛṇotu yaśasaṃ somo varuṇo vāyur agniḥ | yaśasaṃ mā devaḥ savitā kṛṇotu priyo dātur dakṣiṇāyāḥ syām aham ||"
+  },
+  {
+    "id": "p-15cf65",
+    "ref": "19.10.8",
+    "text": "yathendro dyāvāpṛthivyor yaśasvān yathāpa oṣadhīṣu | yathā viśveṣu deveṣv evā deveṣu yaśasaḥ syāma ||"
+  },
+  {
+    "id": "p-14cf64",
+    "ref": "19.10.9",
+    "text": "accha vayam indraṃ yaśasaṃ yaśobhir yaśasvino haviṣainā vidhema | sa no dadhad rāṣṭram indrajūtaṃ tasya trātre adhivāke syāma ||"
+  },
+  {
+    "id": "p-6a6659",
+    "ref": "19.10.10",
+    "text": "eha yātu varuṇaḥ somo agnir bṛhaspatir vasubhir eha yātu | asya śriyam abhisaṃyāta sarva ugrasya cettuḥ saṃmanasaḥ sajātāḥ ||"
+  },
+  {
+    "id": "p-6b665b",
+    "ref": "19.10.11",
+    "text": "eha yāta māpa yātādhy asmat pūṣā vaḥ parastād apathaṃ kṛṇotu | vāstoṣpatir anu vo 'yam ahvan mayi sajātā ramatir vo astu ||"
+  },
+  {
+    "id": "p-6c665c",
+    "ref": "19.10.12",
+    "text": "yo vaḥ śuṣmo hṛdayeṣv antar yā ākūtir manasi praviṣṭā | tāñ chrevayāmi haviṣā ghṛtena mayi sajātā ramatir vo astu ||"
+  },
+  {
+    "id": "p-6d665e",
+    "ref": "19.10.13",
+    "text": "mama cittaṃ prayavasanyutetve- -indrāgnyor iva havam eta sarve | bṛhaspatir vo ni yunaktu mahyaṃ mama vācam ekacittāḥ sacadhvam ||"
+  },
+  {
+    "id": "p-6e6660",
+    "ref": "19.10.14",
+    "text": "ahaṃ gṛhṇāmi manasā manāṃsi mama cittam upa cittebhir eta | mama vaśe hṛdayaṃ vaḥ kṛṇomi mama yātam anuvartmāna eta ||"
+  },
+  {
+    "id": "p-6f6661",
+    "ref": "19.10.15",
+    "text": "māṃ vaś cakṣur gacchatu māṃ prāṇo dhātā padam anu vartma vaḥ kṛṇotu | ye vo mahānta uta ye kumārā mama yātam anu yātebhir eta ||"
+  },
+  {
+    "id": "p-a8f2f7",
+    "ref": "19.11.2",
+    "text": "devebhyo adhi jāto 'si somasya sakhā hitaḥ | sa prāṇāyāpānāya cakṣuse 'sya mṛḍa ||"
+  },
+  {
+    "id": "p-a9f2f8",
+    "ref": "19.11.3",
+    "text": "ayasmaye drupade bedhiṣa id abhihito mṛtyubhir ye sahasram | yamo mahyaṃ punar it tvāṃ dadātu tasmai devāya haviṣā vidhema ||"
+  },
+  {
+    "id": "p-a2f2ed",
+    "ref": "19.11.4",
+    "text": "yat te devī nirṛtir ābabandha dāma grīvāsv avicṛtyam | tat te vi ṣyāmy āyuṣe balāya- -anamīvaṃ pitum addhi prasūtaḥ ||"
+  },
+  {
+    "id": "p-a3f2ef",
+    "ref": "19.11.5",
+    "text": "namo 'stu te nirṛte viśvavāre ayasmayaṃ vi cṛtā bandham etam | yamena tvaṃ pitṛbhiḥ saṃvidāna- -uttame nāke adhi rohayemam ||"
+  },
+  {
+    "id": "p-a4f2f0",
+    "ref": "19.11.6",
+    "text": "antardāvāya juhutā sv etad yātudhānakṣayaṇaṃ ghṛtena | ārād rakṣāṃsi prati dahāgne māsmākaṃ tanvam upa tītapanta ||"
+  },
+  {
+    "id": "p-a5f2f2",
+    "ref": "19.11.7",
+    "text": "śarvo vo grīvā aśarīt piśācāḥ pṛṣṭīr vo 'pi śṛṇātv agniḥ | vīrud vo viśvadhāvīryā mṛtyunā sam ajīgamat ||"
+  },
+  {
+    "id": "p-aef300",
+    "ref": "19.11.8",
+    "text": "apiśācaṃ no adharād apiśācaṃ na uttarāt | indrāpiśācaṃ naḥ paścād apiśācaṃ puras kṛdhi ||"
+  },
+  {
+    "id": "p-aff302",
+    "ref": "19.11.9",
+    "text": "indraś cakāra prathamo nairhastam asurebhyaḥ | vṛścāmaḥ śatrūṇāṃ bāhū anena haviṣā vayam ||"
+  },
+  {
+    "id": "p-0278a9",
+    "ref": "19.11.10",
+    "text": "nirhastaḥ śatrur abhidāsan no astu ye senābhir yudham āyanty asmān | sam arpayendra mahatā vadhena drātv eṣām aghahāro vividdhaḥ ||"
+  },
+  {
+    "id": "p-0178a7",
+    "ref": "19.11.11",
+    "text": "ava manyur avāyatā- -ava bāhū manoyujā | parāśara tvaṃ teṣāṃ parāñcaṃ śuṣmam ardayārvācīṃ rayim ā kṛdhi ||"
+  },
+  {
+    "id": "p-0078a6",
+    "ref": "19.11.12",
+    "text": "ātanvānā āyacchanto 'syanto ye ca dhāvatha | nirhastāḥ śatrava sthana- -indro vo 'dya parāśarīt ||"
+  },
+  {
+    "id": "p-ff78a4",
+    "ref": "19.11.13",
+    "text": "nirhastāḥ santu śatravo 'ṅgaiṣāṃ mlāpayāmasi | yathaiṣām indra vedāṃsi yūtheṣu vi bhajāmahai ||"
+  },
+  {
+    "id": "p-fe78a3",
+    "ref": "19.11.14",
+    "text": "nirhastebhyo nairhastaṃ yaṃ devāḥ śarum asyatha | jayantu satvāno mama sthireṇendreṇa medinā ||"
+  },
+  {
+    "id": "p-3631f8",
+    "ref": "19.12.1",
+    "text": "śamīm aśvattha ārūḍhas tatra puṃsavanaṃ kṛtam | tad eva tasya bheṣajaṃ yat strīṣv ā haranti tat ||"
+  },
+  {
+    "id": "p-3531f7",
+    "ref": "19.12.2",
+    "text": "puṃsi vai reto bhavati tat striyām anu ṣicyate | tad vai putrasya vedanaṃ tat prajāpatir abravīt ||"
+  },
+  {
+    "id": "p-3431f5",
+    "ref": "19.12.3",
+    "text": "prajāpatir anv amaṃsta sinīvāly acīkl̥pat | straiṣūyam anyatra dadhat pumāṃsam u dadhad iha ||"
+  },
+  {
+    "id": "p-3b3200",
+    "ref": "19.12.4",
+    "text": "yā oṣadhayaḥ somarājñīr ity ekā"
+  },
+  {
+    "id": "p-3a31ff",
+    "ref": "19.12.5",
+    "text": "muñcantu mā śapathyād atho varuṇyād uta | atho yamasya paḍbīśād viśvasmād devaduṣkṛtāt ||"
+  },
+  {
+    "id": "p-3931fd",
+    "ref": "19.12.6",
+    "text": "yac cakṣuṣā yan manasā yac ca vācopārima yaj jāgrato yat svapantaḥ | somo mā tasmād enasaḥ svadhayā punātu vidvān ||"
+  },
+  {
+    "id": "p-3831fb",
+    "ref": "19.12.7",
+    "text": "abhibhūr yajño abhibhūr agnir astv abhibhūḥ somo abhibhūr indro astu | abhy ayaṃ viśvāḥ pṛtanā yathāsad evā vidhemāgnihotrā idaṃ haviḥ ||"
+  },
+  {
+    "id": "p-3f3206",
+    "ref": "19.12.8",
+    "text": "svadhāstu mitrāvaruṇā prajāvat kṣatraṃ madhveha pinvatam | bādhethāṃ dveṣo nirṛtiṃ parācair asmai kṣatraṃ varca ā dhattam ojaḥ ||"
+  },
+  {
+    "id": "p-3e3205",
+    "ref": "19.12.9",
+    "text": "imaṃ vīram ity ekā ||"
+  },
+  {
+    "id": "p-46aaeb",
+    "ref": "19.12.10",
+    "text": "agner iva prasitir asya śuṣmiṇa uteva matto vilapann apāyati | tasmai te aruṇāya babhrave tapurmaghāya namo 'stu takmane ||"
+  },
+  {
+    "id": "p-47aaec",
+    "ref": "19.12.11",
+    "text": "namo yamāya namo 'stu mṛtyave namo rājñe varuṇāya tviṣīmate | namaḥ kṣetrasya pataye namo dive namaḥ pṛthivyai nama oṣadhībhyaḥ ||"
+  },
+  {
+    "id": "p-44aae8",
+    "ref": "19.12.12",
+    "text": "ayaṃ yo janān haritān kṛṇoty ucchocayann agninevābhidunvan | adhā hi takmann araso hi bhūyā athā nyaṅ adharaṅ vā parehi ||"
+  },
+  {
+    "id": "p-45aae9",
+    "ref": "19.12.13",
+    "text": "indro jayāti na parā jayātā adhirājo rājasu rājayātai | carkṛtya īḍyaḥ śaṃsyaś ca- -upasadyo namasyo bhaveha ||"
+  },
+  {
+    "id": "p-42aae4",
+    "ref": "19.12.14",
+    "text": "tvam indrādhirājaḥ śravasyus tvaṃ bhavābhibhūtir janānām | tvaṃ daivīr viśa imā vi rāja- -āyuṣmat kṣatram ajaraṃ te astu ||"
+  },
+  {
+    "id": "p-43aae6",
+    "ref": "19.12.15",
+    "text": "prācyāṃ diśi tvam indrādhirājā- -odīcyāṃ diśi vṛtrahan dasyuhāsi | yatra yanti śrotyās taj jitaṃ te dakṣiṇato vṛṣabho 'si havyaḥ ||"
+  },
+  {
+    "id": "p-d1f367",
+    "ref": "19.13.1",
+    "text": "abhi tvendro varimataḥ purā tvāṃhūraṇebhyaḥ | hvayāmy ugraṃ cettaraṃ puruṇāmānam ekajam ||"
+  },
+  {
+    "id": "p-cef363",
+    "ref": "19.13.2",
+    "text": "yo adya senyo vadho jighāṃsan na udīrate | indrasya tatra bāhū samantaṃ pari dadhmahe ||"
+  },
+  {
+    "id": "p-cff364",
+    "ref": "19.13.3",
+    "text": "pari dadhma indrasya bāhū samantaṃ trātus trāyatāṃ naḥ | deva savitaḥ soma rājan sumanasaṃ mā kṛṇutaṃ svastaye ||"
+  },
+  {
+    "id": "p-ccf35f",
+    "ref": "19.13.4",
+    "text": "devā aduḥ sūryo adād dyaur adāt pṛthivy adāt | sarvāḥ sarasvatīr aduḥ sacittā viṣadūṣaṇam ||"
+  },
+  {
+    "id": "p-cdf361",
+    "ref": "19.13.5",
+    "text": "yad vo devā upajīkā āsiñcan dhanvany udakam | tena devaprasūtā idaṃ dūṣayatā viṣam ||"
+  },
+  {
+    "id": "p-caf35c",
+    "ref": "19.13.6",
+    "text": "asurāṇām asi duhitā devānām asi svasā | divas pṛthivyā jajñiṣe sā cakarthārasaṃ viṣam ||"
+  },
+  {
+    "id": "p-cbf35e",
+    "ref": "19.13.7",
+    "text": "asthisraṃsaṃ parusraṃsam āsthitaṃ hṛdayāmayam | balāsaṃ sarvaṃ niṣ kṛdhy aṅgeṣṭhā yaś ca parvasu ||"
+  },
+  {
+    "id": "p-d8f372",
+    "ref": "19.13.8",
+    "text": "nir balāsaṃ balāsinaḥ kṣiṇomi puṣkaraṃ yathā | chinadmy asya bandhanaṃ mūlam urvārvo yathā ||"
+  },
+  {
+    "id": "p-d9f374",
+    "ref": "19.13.9",
+    "text": "nir balāsetaḥ pra pata suparṇo vasater iva | adheṭa iva hāyano 'pa drāhy avīrahā ||"
+  },
+  {
+    "id": "p-772ca6",
+    "ref": "19.13.10",
+    "text": "ā vṛṣāyasva śvasihi vardhasva prathayasva ca | yathāṅgaṃ vardhatāṃ te śepas tena yoṣitam uj jahi ||"
+  },
+  {
+    "id": "p-762ca5",
+    "ref": "19.13.11",
+    "text": "yenā kṛśaṃ medayanti yena hinvanty āturam | tenāsya brahmaṇaspate dhanur ivā tānayā pasaḥ ||"
+  },
+  {
+    "id": "p-792ca9",
+    "ref": "19.13.12",
+    "text": "āhaṃ tanomi te paso adhi jyām iva dhanvani | kramasva riśya iva rohitam anavaglāyatā tvam ||"
+  },
+  {
+    "id": "p-782ca8",
+    "ref": "19.13.13",
+    "text": "devāḥ kapota iṣito yad icchan dūto nirṛtyā idam ājagāma | tasmā arcāma kṛṇavāma niṣkṛtiṃ śaṃ no astu dvipade catuṣpade ||"
+  },
+  {
+    "id": "p-732ca0",
+    "ref": "19.13.14",
+    "text": "śivaḥ kapota iṣito no astv anāgā devāḥ śakuno gṛhe naḥ | agnir hi vipro juṣatāṃ havir naḥ pari hetiḥ pakṣiṇī no vṛṇaktu ||"
+  },
+  {
+    "id": "p-722c9e",
+    "ref": "19.13.15",
+    "text": "hetiḥ pakṣiṇī na dabhāty asmān āṣṭrī padaṃ kṛṇute agnidhāne | śaṃ no gobhya uta puruṣebhyo mā no devā iha hiṃsīt kapotaḥ ||"
+  },
+  {
+    "id": "p-752ca3",
+    "ref": "19.13.16",
+    "text": "iṣaṃ madantaḥ pari gāṃ nayāmaḥ saṃyopayanto duritā padāni | ṛcā kapotaṃ nudata praṇodaṃ hitvā na ūrjaṃ pra patāt patiṣṭhaḥ ||"
+  },
+  {
+    "id": "p-742ca1",
+    "ref": "19.13.17",
+    "text": "nude tvā pra ṇude tvā kapota rakṣasā saha | yato na punar āyasi tatra tvā gamayāmasi ||"
+  },
+  {
+    "id": "p-e120b6",
+    "ref": "19.14.1",
+    "text": "yathāyaṃ vāho aśvinā samaiti saṃ ca vartate | evā mām abhi te manaḥ samaitu saṃ ca vartatām ||"
+  },
+  {
+    "id": "p-e420bb",
+    "ref": "19.14.2",
+    "text": "ahaṃ khidāmi te mano rājāśvaḥ pṛṣṭyām iva | reṣmacchinnaṃ yathā tṛṇaṃ mayi te veṣṭatāṃ manaḥ ||"
+  },
+  {
+    "id": "p-e320ba",
+    "ref": "19.14.3",
+    "text": "āñjanasya madhughasya kuṣṭhasya naladasya ca | turo bhagasya hastābhyām anurodhanam ā bhare ||"
+  },
+  {
+    "id": "p-de20b2",
+    "ref": "19.14.4",
+    "text": "ayam ā yāty aryamā purastād viṣitastukaḥ | sa icchād agruvai patim atho jāyām ajānaye ||"
+  },
+  {
+    "id": "p-dd20b0",
+    "ref": "19.14.5",
+    "text": "aśramad iyam aryamann anyāsāṃ samanaṃ yatī | aṅgo nv asyā aryamann anyā samanam āyati ||"
+  },
+  {
+    "id": "p-e020b5",
+    "ref": "19.14.6",
+    "text": "dhātā dādhāra pṛthivīṃ dhātā dyām uta sūryam | dhātāsyā agruvai patiṃ dadhātu pratikāmyam ||"
+  },
+  {
+    "id": "p-df20b3",
+    "ref": "19.14.7",
+    "text": "mahyam āpo madhumad erayanta mahyaṃ sūryo abharaj jyotiṣā kam | mahyaṃ devā uta viśve tapojā mahyaṃ devaḥ savitā vyaco dhāt ||"
+  },
+  {
+    "id": "p-ea20c5",
+    "ref": "19.14.8",
+    "text": "ahaṃ dādhāra pṛthivīm uta dyām ahaṃ sindhūn ajanaṃ sapta sākam | ahaṃ satyam anṛtaṃ yad vadāmy ahaṃ vācaṃ pari sarvām iṣiṃ ca ||"
+  },
+  {
+    "id": "p-e920c3",
+    "ref": "19.14.9",
+    "text": "ahaṃ vivyajmi pṛthivīm uta dyām aham ṛtūn asṛje sapta sākam | ahaṃ vācaṃ pari sarvāṃ babhūva yo agnīṣomāv ajuṣe sakhāyau ||"
+  },
+  {
+    "id": "p-327fc3",
+    "ref": "19.14.10",
+    "text": "anaḍudbhyo naḥ prathamaṃ dhenubhyas tvam arundhati | adhenave vayase śarma yaccha catuṣpade ||"
+  },
+  {
+    "id": "p-337fc4",
+    "ref": "19.14.11",
+    "text": "śarma yacchāty oṣadhiḥ saha devair arundhatī | karat payasvantaṃ goṣṭham ayakṣmām̐ uta pūruṣān ||"
+  },
+  {
+    "id": "p-347fc6",
+    "ref": "19.14.12",
+    "text": "viśvarūpāṃ subhagām acchā vadāmi jīvalām | sā no rudrasyāstāṃ hetiṃ dūraṃ nayatu gobhyaḥ ||"
+  },
+  {
+    "id": "p-357fc7",
+    "ref": "19.14.13",
+    "text": "yamo mṛtyur aghamāro nirṛtho bhavaḥ śarvo astā nīlaśikhaṇḍī | devajanāḥ senām uttasthivāṃsas te asmākaṃ pari vṛñjantu vīrān ||"
+  },
+  {
+    "id": "p-2e7fbc",
+    "ref": "19.14.14",
+    "text": "manasā homair harasā ghṛtena śarvāyāstra uta rājñe bhavāya | namasyebhyo nama ebhyaḥ kṛṇomy anyatrāsmad aghaviṣā nayantu ||"
+  },
+  {
+    "id": "p-2f7fbe",
+    "ref": "19.14.15",
+    "text": "trāyadhvaṃ no aghaviṣābhyo vadhād agnīṣomā marutaḥ pūtadakṣāḥ | viśve devā maruto vaiśvadevā vātāparjanyayoḥ sumatau syāma ||"
+  },
+  {
+    "id": "p-fba5ba",
+    "ref": "19.15.1",
+    "text": "saṃ jānatāṃ manasā saṃ cikitvā mā yutsata manyunā daivyena | mā ghoṣa utthād bahule vinirhate meṣuḥ paptad indrasyāhany āgate ||"
+  },
+  {
+    "id": "p-fca5bc",
+    "ref": "19.15.2",
+    "text": "saṃ vo manāṃsi saṃ vratā sam ākūtīr nayāmasi | ime ye vivratā stha tān vaḥ saṃ jñapayāmasi ||"
+  },
+  {
+    "id": "p-fda5be",
+    "ref": "19.15.3",
+    "text": "saṃjñapanaṃ vo manaso atho saṃ jñapanaṃ hṛdaḥ | atho bhagasya yac chrāntaṃ tena saṃ jñapayāti vaḥ ||"
+  },
+  {
+    "id": "p-fea5bf",
+    "ref": "19.15.4",
+    "text": "saṃ vaḥ pṛcyantāṃ tanvaḥ saṃ manāṃsi sam u tvacaḥ | saṃ vo brahmaṇaspatiḥ somaḥ saṃ jñapayāti vaḥ ||"
+  },
+  {
+    "id": "p-ffa5c1",
+    "ref": "19.15.5",
+    "text": "saṃjñānaṃ naḥ svebhyaḥ saṃjñānam araṇebhyaḥ | saṃjñānam aśvinā yuvam ihāsmāsu ni yacchatam ||"
+  },
+  {
+    "id": "p-00a5c2",
+    "ref": "19.15.6",
+    "text": "yathādityā vasavaḥ saṃbabhūvur marudbhir ugrā ahṛṇīyamānāḥ | evā triṇāmann ahṛṇīyamāna imaṃ janaṃ saṃmanasaṃ kṛṇu tvam ||"
+  },
+  {
+    "id": "p-01a5c4",
+    "ref": "19.15.7",
+    "text": "nir amun nuda okasaḥ sapatno yaḥ pṛtanyati | nirbādhyena haviṣā- -indra enaṃ parāśarīt ||"
+  },
+  {
+    "id": "p-f2a5ac",
+    "ref": "19.15.8",
+    "text": "ihi tisraḥ parāvata ihi pañca janām̐ ati | ihi saptāti rocanā yāvat sūryo asad divi ||"
+  },
+  {
+    "id": "p-f3a5ae",
+    "ref": "19.15.9",
+    "text": "paramāṃ tvā parāvatam indro devo ajīgamat | yathā na punar āyasi śaśvatībhyaḥ samābhyaḥ ||"
+  },
+  {
+    "id": "p-f0e50d",
+    "ref": "19.15.10",
+    "text": "pratīcīnaphalo hi tvam apāmārga babhūvitha | sarvān mac chapathām̐ adhi varīyo yāvayā tvam ||"
+  },
+  {
+    "id": "p-efe50b",
+    "ref": "19.15.11",
+    "text": "yac ca bhrātṛvyaḥ śapati yac ca jāmiḥ śapāti naḥ | brahmā yan manyutaḥ śapāt sarvaṃ tan no adhaspadam ||"
+  },
+  {
+    "id": "p-eee50a",
+    "ref": "19.15.12",
+    "text": "aghadviṣṭā devajūtā vīruc chapathayāvanī | udnā malam ivāvānaik sarvān mac chapathām̐ adhi ||"
+  },
+  {
+    "id": "p-ede508",
+    "ref": "19.15.13",
+    "text": "yad enaṃ pariṣīdanti samādadhati cakṣase | saṃpreddho agnir jihvābhir ud eti hṛdayād adhi ||"
+  },
+  {
+    "id": "p-f4e513",
+    "ref": "19.15.14",
+    "text": "agneḥ sāntapanasyāham āyuṣe padam ā rabhe | addhātir yasya paśyati dhūmam udyantam āsyataḥ ||"
+  },
+  {
+    "id": "p-f3e512",
+    "ref": "19.15.15",
+    "text": "yo asya samidhaṃ veda kṣatriyeṇa samāhitām | nābhihvāre padaṃ ni dadhāti sa mṛtyave ||"
+  },
+  {
+    "id": "p-f2e510",
+    "ref": "19.15.16",
+    "text": "nainaṃ ghnanti paryāyiṇo na sannām̐ ava gacchati | agner yaḥ kṣatriyo vidvān nāma gṛhṇāty āyuṣe ||"
+  },
+  {
+    "id": "p-8ad240",
+    "ref": "19.16.1",
+    "text": "asthād dyaur asthāt pṛthivy asthād viśvam idaṃ jagat | tiṣṭhanti parvatā ime sthāmann aśvā araṃsata ||"
+  },
+  {
+    "id": "p-89d23f",
+    "ref": "19.16.2",
+    "text": "ya udānaḍ vyāyane ya udānaṭ parāyaṇe | āvartanaṃ nivartanaṃ yo gopā api taṃ huve ||"
+  },
+  {
+    "id": "p-88d23d",
+    "ref": "19.16.3",
+    "text": "āvṛto nyāvṛto 'bhyavartanam āyanam | agneś catasra āvṛtas tābhiṣ ṭvā tarpayāmasi ||"
+  },
+  {
+    "id": "p-87d23b",
+    "ref": "19.16.4",
+    "text": "jātavedo ni vartaya śataṃ te santv āvṛtaḥ sahasraṃ ta upāvṛtaḥ | tābhir enaṃ ni vartaya ||"
+  },
+  {
+    "id": "p-86d23a",
+    "ref": "19.16.5",
+    "text": "adārasṛd bhavatu deva soma- -asmin yajñe maruto mṛḍatā naḥ | mā no vidad abhibhā mo aśastir mā naḥ prāpad ducchunā dveṣyā yā ||"
+  },
+  {
+    "id": "p-85d238",
+    "ref": "19.16.6",
+    "text": "yo adya daivyo vadho jighāṃsan na upāyati | yuvaṃ taṃ mitrāvaruṇav asmad yāvayataṃ pari ||"
+  },
+  {
+    "id": "p-84d237",
+    "ref": "19.16.7",
+    "text": "itaś cāmutaś cāghaṃ varuṇa yāvaya | vi mahac charma yaccha varīyo yāvayā vadham ||"
+  },
+  {
+    "id": "p-93d24e",
+    "ref": "19.16.8",
+    "text": "apendra prāco maghavann amitrān apāpāco abhibhūte nudasva | apodīco apa śūrādharāca urau yathā tava śarman madema ||"
+  },
+  {
+    "id": "p-92d24d",
+    "ref": "19.16.9",
+    "text": "tena bhūtasya haviṣā punar ā pyāyatām ayam | jāyāṃ yām asmā avidaṃ sā rasenābhi vardhatām ||"
+  },
+  {
+    "id": "p-0afb8c",
+    "ref": "19.16.10",
+    "text": "abhi vardhatāṃ prajayā- -abhi rāṣṭreṇa vardhatām | īṣā sahasravīryāv imau stām anupakṣitau ||"
+  },
+  {
+    "id": "p-0bfb8e",
+    "ref": "19.16.11",
+    "text": "tvaṣṭā jāyām ajanayat tvaṣṭāsyai tvāṃ patiṃ dadhau | tvaṣṭā sahasram āyūṃṣi dīrgham āyuḥ kṛṇotu vām ||"
+  },
+  {
+    "id": "p-08fb89",
+    "ref": "19.16.12",
+    "text": "antarikṣeṇa patati viśvā bhūtāvacākaśat | śuno divyasyaitan mahas tasmā etena haviṣā juhomi ||"
+  },
+  {
+    "id": "p-09fb8b",
+    "ref": "19.16.13",
+    "text": "apsu te janma divi te sadhasthaṃ samudra ātmā mahimā te pṛthivyām | śuno divyasyaitan mahas tasmā etena haviṣā juhomi ||"
+  },
+  {
+    "id": "p-0efb92",
+    "ref": "19.16.14",
+    "text": "ye trayaḥ kālakāñjā divi devā iva śritāḥ | tān sarvān ahva ūtaye 'smā ariṣṭatātaye ||"
+  },
+  {
+    "id": "p-0ffb94",
+    "ref": "19.16.15",
+    "text": "yaḥ puruṣaṃ hūrcchayasi śvā divyo avīrahā | taṃ tvāhaṃ brahmaṇā nude puruṣaṃ mā parā vadhīḥ ||"
+  },
+  {
+    "id": "p-0cfb8f",
+    "ref": "19.16.16",
+    "text": "yaḥ piśaṅgo ayodaṃṣṭraḥ śvā divyaḥ pariplavaḥ | tasyāhaṃ nāma jagrabha- -asmā ariṣṭatātaye ayaṃ no jīvatād iti ||"
+  },
+  {
+    "id": "p-0dfb91",
+    "ref": "19.16.17",
+    "text": "ayaṃ no nabhasas patiḥ saṃsphāno abhi rakṣatu | asamātiṃ gṛheṣu naḥ ||"
+  },
+  {
+    "id": "p-12fb99",
+    "ref": "19.16.18",
+    "text": "tvaṃ no nabhasas patir ūrjaṃ gṛheṣu dhāraya | ā puṣṭam etv ā vasu ||"
+  },
+  {
+    "id": "p-13fb9a",
+    "ref": "19.16.19",
+    "text": "deva saṃsphāna sahasrāpoṣasyeśiṣe | tasya no dhehi tasya te bhakṣīmahi tasya te bhaktivāṃso bhūyāsma svāhā ||"
+  },
+  {
+    "id": "p-a69479",
+    "ref": "19.17.1",
+    "text": "yantāsi yacchase hastam apa rakṣāṃsi sedhasi | prajāṃ dhanaṃ ca gṛhṇānaḥ parihasto abhūd ayam ||"
+  },
+  {
+    "id": "p-a39474",
+    "ref": "19.17.2",
+    "text": "parihasta vi dhāraya yoniṃ garbhāya kartave | maryāde putram ā dhehi taṃ tvam ā gamayāgama ||"
+  },
+  {
+    "id": "p-a49476",
+    "ref": "19.17.3",
+    "text": "yaṃ parihastam abibhar aditiḥ putrakāmyā | tvaṣṭā tam asyā ā badhnād yathā putraṃ suvād iti ||"
+  },
+  {
+    "id": "p-a9947d",
+    "ref": "19.17.4",
+    "text": "āgacchata āgatasya nāma gṛhṇāmy āyataḥ | indrasya vṛtraghno rājño vāsavasya śatakratoḥ ||"
+  },
+  {
+    "id": "p-aa947f",
+    "ref": "19.17.5",
+    "text": "yena sūryāṃ sāvitrīm aśvinohatuḥ pathā | tena sam abravīd bhago jāyām ā vahatād iti ||"
+  },
+  {
+    "id": "p-a7947a",
+    "ref": "19.17.6",
+    "text": "yas te aṅkuśo vasudāno bṛhann indra hiraṇyayaḥ | tenā janīyate jāyāṃ tvaṃ dhehi śatakrato ||"
+  },
+  {
+    "id": "p-a8947c",
+    "ref": "19.17.7",
+    "text": "tvaṃ no medhe prathamā gobhir aśvebhir ā gahi | tvaṃ sūryasya raśmiṣu tvaṃ no asi yajñiyā ||"
+  },
+  {
+    "id": "p-9d946b",
+    "ref": "19.17.8",
+    "text": "medhām ahaṃ prathamāṃ brahmaṇvatīm ṛṣiṣṭutām | prapītāṃ brahmacāribhir | devānām avasā vṛṇe ||"
+  },
+  {
+    "id": "p-9e946c",
+    "ref": "19.17.9",
+    "text": "medhāṃ sāyaṃ medhāṃ prātar medhāṃ madhyandinaṃ pari | medhāṃ sūryeṇodyatā- -udīrāṇā u tuṣṭuma ||"
+  },
+  {
+    "id": "p-3cba7c",
+    "ref": "19.17.10",
+    "text": "pārthivasya rase devā bhagasya tanvo bale | āyur asmai somo varca ā dhād bṛhaspatiḥ ||"
+  },
+  {
+    "id": "p-3bba7b",
+    "ref": "19.17.11",
+    "text": "āyur asmai dhehi jātavedaḥ prajāṃ tvaṣṭar adhinidhehy ojaḥ | rāyaspoṣaṃ savitar ā suvāsmai śataṃ jīvāti śaradas tavāyam ||"
+  },
+  {
+    "id": "p-3eba7f",
+    "ref": "19.17.12",
+    "text": "āśīr ṇa ūrjam uta suprajāstvaṃ dakṣaṃ dadhātu draviṇaṃ suvarcasam | saṃjayan kṣetrāṇi sahasāham indra kṛṇvāno anyān adharān sapatnān ||"
+  },
+  {
+    "id": "p-3dba7e",
+    "ref": "19.17.13",
+    "text": "āyam agan savitā kṣureṇa- -uṣṇena vāya udakenehi | ādityā rudrā vasavaḥ sacetasaḥ somasya rājño 'vapan pracetasaḥ ||"
+  },
+  {
+    "id": "p-40ba82",
+    "ref": "19.17.14",
+    "text": "yenāvapat savitā kṣureṇa somasya rājño varuṇasya vidvān | tena brahmāṇo vapatedam asya- -asrāmo dīrghāyur ayam astu vīraḥ ||"
+  },
+  {
+    "id": "p-3fba81",
+    "ref": "19.17.15",
+    "text": "aditiḥ śmaśru vapatv āpa undantu varcasā | dhārayatu prajāpatiḥ punaḥpunaḥ suvaptave ||"
+  },
+  {
+    "id": "p-033e7e",
+    "ref": "19.18.1",
+    "text": "yās te hirā dhamanayo 'ṅgāny anu viṣṭhitāḥ | tāsāṃ te sarvāsāṃ sākaṃ nir viṣāṇi hvayāmasi ||"
+  },
+  {
+    "id": "p-063e83",
+    "ref": "19.18.2",
+    "text": "yāṃ te rudra iṣum āsthad aṅgebhyo hṛdayāya ca | imāṃ tām adya te vayaṃ viṣūcīṃ vi vṛhāmasi ||"
+  },
+  {
+    "id": "p-053e81",
+    "ref": "19.18.3",
+    "text": "namas te rudrāsyate namaḥ pratihitābhyaḥ | namo visṛjyamānābhyo namas ta āyatābhyaḥ ||"
+  },
+  {
+    "id": "p-083e86",
+    "ref": "19.18.4",
+    "text": "avācīḥ pari mūrdhno yās te dhamanayaḥ śatam | tās te pra bhidyantāṃ pṛthag anu tyaṃ lohitāvaṭam ||"
+  },
+  {
+    "id": "p-073e84",
+    "ref": "19.18.5",
+    "text": "syandantāṃ rodanāvatīr anu tyaṃ lohitāvaṭam | yathāsyām antar na raṃsantām anukūlam ivodakam ||"
+  },
+  {
+    "id": "p-0a3e89",
+    "ref": "19.18.6",
+    "text": "pratīcīnaḥ sūrya etu pratīcīḥ sravataḥ kṛtāḥ | avācīs te asnaḥ kulyā iyaṃ tṛṇattv oṣadhīḥ ||"
+  },
+  {
+    "id": "p-093e88",
+    "ref": "19.18.7",
+    "text": "imaṃ yavam aṣṭāyogaiḥ ṣaḍyogebhir acarkṛṣuḥ | sa ghā te tanvo rapaḥ pratīcīnam apa vyayat ||"
+  },
+  {
+    "id": "p-fc3e73",
+    "ref": "19.18.8",
+    "text": "nyag vāto vāti nyak tapati sūryaḥ | nīcīnam aghnyā duhe nyag bhavatu te rapaḥ ||"
+  },
+  {
+    "id": "p-fb3e72",
+    "ref": "19.18.9",
+    "text": "āpa id vā u bheṣajīr āpo amīvacātanīḥ | āpaḥ samudrārthā yatīḥ parā vahantu te rapaḥ ||"
+  },
+  {
+    "id": "p-c36162",
+    "ref": "19.18.10",
+    "text": "amī ye yudham āyanti ketūn kṛtvānīkaśaḥ | indras tān pary ahār dāmnā tān agne sandyā tvam ||"
+  },
+  {
+    "id": "p-c46164",
+    "ref": "19.18.11",
+    "text": "yāvatīḥ sica āyanty anīkāni yati ṣṭan | indras tān pary ahār dāmnā tān agne sandyā tvam ||"
+  },
+  {
+    "id": "p-c56165",
+    "ref": "19.18.12",
+    "text": "saṃ paramān sam avamān atho sandyāni madhyamān | indras tān pary ahār dāmnā tān agne sandyā tvam ||"
+  },
+  {
+    "id": "p-c66167",
+    "ref": "19.18.13",
+    "text": "sandānaṃ vo bṛhaspatiḥ sandānaṃ savitā karat | sandānam indraś cāgniś ca sandānaṃ bhago aśvinā ||"
+  },
+  {
+    "id": "p-c76168",
+    "ref": "19.18.14",
+    "text": "yās te ruco deva sūrya- -udyato divy ātatāḥ | tābhir mām adya sarvābhis tā manuṣyebhyo ruce kṛṇu ||"
+  },
+  {
+    "id": "p-c8616a",
+    "ref": "19.18.15",
+    "text": "ruce mā dhehi brahmasu ruce rājasu dhehi mā | ruce viśyeṣu śūdreṣu mayi dhehi ruce rucim ||"
+  },
+  {
+    "id": "p-c9616b",
+    "ref": "19.18.16",
+    "text": "yā ruco hiraṇye yā agnau yāś ca sūrye | indrāgnī mayi tā ruco ruco dhehi bṛhaspate ||"
+  },
+  {
+    "id": "p-1f00b7",
+    "ref": "19.19.1",
+    "text": "ava mā pāpman sṛja vaśī san mṛḍayāsi naḥ | ā mā bhadreṣu dhāmasu tvaṃ dhehy avihrutam ||"
+  },
+  {
+    "id": "p-2000b8",
+    "ref": "19.19.2",
+    "text": "yo mā pāpman na jahāsi tam u tvā jahimo vayam | anyatrāsman ny ucya sahasrākṣāmartya ||"
+  },
+  {
+    "id": "p-2100ba",
+    "ref": "19.19.3",
+    "text": "pathor vayaṃ vyāvartane niṣpāpmānaṃ suvāmasi | yo no dveṣṭi taṃ gaccha yaṃ dviṣmas taṃ jahi ||"
+  },
+  {
+    "id": "p-1a00af",
+    "ref": "19.19.4",
+    "text": "śava ivāsi saṃnaddho na bhogam avidaṃ tvayi | śiro bhinadmi te pāpman yathā na punar āyasi ||"
+  },
+  {
+    "id": "p-1b00b0",
+    "ref": "19.19.5",
+    "text": "indro asmān divā pātu mṛtyoḥ pāśāt svastaye | dyaur no madhyataḥ pātu bhūmī rājñī svastaye ||"
+  },
+  {
+    "id": "p-1c00b2",
+    "ref": "19.19.6",
+    "text": "sūryo asmān divā pātu mṛtyoḥ pāśāt svastaye | vāto no madhyataḥ pātv ahorātrī svastaye ||"
+  },
+  {
+    "id": "p-1d00b3",
+    "ref": "19.19.7",
+    "text": "somo asmān divā pātu mṛtyoḥ pāśāt svastaye | āpo no madhyataḥ pāntu mā no nirṛtir īśata ||"
+  },
+  {
+    "id": "p-1600a8",
+    "ref": "19.19.8",
+    "text": "saṃ vāṃ cakṣuḥ saṃ hṛdayaṃ manasāvīvanaṃ manaḥ | asyāḥ sarūpavatsāyā ghṛte homena sarpiṣā ||"
+  },
+  {
+    "id": "p-1700aa",
+    "ref": "19.19.9",
+    "text": "yat kakṣīvān saṃvananaṃ putro aṅgirasām avet | tena vām adya devāḥ saṃ priyā sam avīvanan ||"
+  },
+  {
+    "id": "p-f52052",
+    "ref": "19.19.10",
+    "text": "saṃvananaṃ vāṃ manaso atho saṃvananaṃ hṛdaḥ | atho bhagasya yac chrāntaṃ tena saṃ vānayāmi vām ||"
+  },
+  {
+    "id": "p-f42050",
+    "ref": "19.19.11",
+    "text": "ahaṃ te manasā manaś cakṣur gṛhṇāmi cakṣuṣā | evā pari ṣvajasva mā yathāsan mayi te manaḥ ||"
+  },
+  {
+    "id": "p-f3204f",
+    "ref": "19.19.12",
+    "text": "ā rathasyeva cakre abhi mā vartatām asau | reṣmacchinnaṃ yathā tṛṇaṃ veṣṭāsau manasā mayi ||"
+  },
+  {
+    "id": "p-f2204d",
+    "ref": "19.19.13",
+    "text": "pari tvā yātur asaraṃ pari mātuḥ pari svasuḥ | pari tvānyābhya strībhyo 'nayauṣadhyāsaram ||"
+  },
+  {
+    "id": "p-f1204c",
+    "ref": "19.19.14",
+    "text": "ya indrasya sabhādhāno yasmin samitim āsate | hiraṇyaṃ yasya parṇāni tasmā aśvattha te namaḥ ||"
+  },
+  {
+    "id": "p-f0204a",
+    "ref": "19.19.15",
+    "text": "yaḥ śākhābhir antarikṣam ā pūrayati niṣṭhayā | chandāṃsi yasya parṇāni tasmā aśvattha te namaḥ ||"
+  },
+  {
+    "id": "p-ef2048",
+    "ref": "19.19.16",
+    "text": "yaṃ mṛgo na samāpnoti pakṣābhyāṃ śakuniṣ patan | divaṃ yaḥ sarvāṃ stabhnāti tasmā aśvattha te namaḥ ||"
+  },
+  {
+    "id": "p-a9f3d2",
+    "ref": "19.20.1",
+    "text": "jyeṣṭhaghnyāṃ jāto vicṛtor yamasya māyaṃ hiṃsīḥ pitarau vardhamānaḥ | syonau vyāghrā uta te śivau stām ati neṣaṃ duritāni viśvā ||"
+  },
+  {
+    "id": "p-aaf3d4",
+    "ref": "19.20.2",
+    "text": "vyāghre ahny ajaniṣṭa vīro nakṣatrajāḥ sarvavīraḥ suvīraḥ | sa mā hiṃsīḥ pitarau vardhamānas tasya te devāḥ prati gṛhṇantu homam ||"
+  },
+  {
+    "id": "p-abf3d5",
+    "ref": "19.20.3",
+    "text": "yā rohiṇīr devapatyā pra dhenur iva pinvate | tatra tisro vyaṣṭakāḥ sarvām̐ adhi bruvantu prajāyai jagate ca vām ||"
+  },
+  {
+    "id": "p-acf3d7",
+    "ref": "19.20.4",
+    "text": "yad ārdrābhyām araṇibhyāṃ devāḥ śakrā amanthaṃ puruṣeṇa puruṣam | atrāpuṣyataṃ mithunā sayonī jīvāṃ prajāṃ jaradaṣṭiṃ sutejasā ||"
+  },
+  {
+    "id": "p-adf3d8",
+    "ref": "19.20.5",
+    "text": "hataṃ pataṅgam uta tardam ākhum aśvinā bhintaṃ śiro mṛṇataṃ hanū dataḥ | yathā naḥ sasyaṃ na ghasaṃ vyadvarā evābhayaṃ kṛṇutaṃ dhānyāya naḥ ||"
+  },
+  {
+    "id": "p-aef3da",
+    "ref": "19.20.6",
+    "text": "tarda hai pataṅga hai jabhya hā upakvasa | anadanta idaṃ dhānyam ahiṃsanto apodita ||"
+  },
+  {
+    "id": "p-aff3db",
+    "ref": "19.20.7",
+    "text": "tardapate vaghāpate tṛṣṭadaṃśmā śṛṇota naḥ | hotrevāprāśitaṃ havir vṛkṇajihvā upādhvam ||"
+  },
+  {
+    "id": "p-b0f3dd",
+    "ref": "19.20.8",
+    "text": "tarda jabhyāpijihvayā ya imaṃ divyaṃ pīyūṣaṃ prathamas titṛpsāt | taṃ pratyañcam arciṣā vidhya marman ||"
+  },
+  {
+    "id": "p-b1f3df",
+    "ref": "19.20.9",
+    "text": "ye abhrajā ye vātajā ye divas pari jajñire | marīcyāḥ putrāṇāṃ vayam api nahyāma āsyam ||"
+  },
+  {
+    "id": "p-cdd3ff",
+    "ref": "19.20.10",
+    "text": "ye arjunā ye haritā ye kṛṣṇā ye ca rohitāḥ | kabandhasya praśāsane śalabhyāñ jambhayāmasi ||"
+  },
+  {
+    "id": "p-ccd3fd",
+    "ref": "19.20.11",
+    "text": "antarikṣeṇa patata mā sasyam abhi paddhvam | girīṇāṃ sānuṣu sīdata tṛṇaṃ kapālam attana śalabhās tad viśām iva ||"
+  },
+  {
+    "id": "p-cbd3fc",
+    "ref": "19.20.12",
+    "text": "yathāśvāso yathā dhuraṃ yuktā vahanti sādhuyā | evā mūtra pra bhidyasva vi vaster āsyaṃ sṛja ||"
+  },
+  {
+    "id": "p-cad3fa",
+    "ref": "19.20.13",
+    "text": "viṣitaṃ te vastibilaṃ samudrasyodadher iva | pra te bhinadmi mehanaṃ vartraṃ veśantyā iva ||"
+  },
+  {
+    "id": "p-d1d405",
+    "ref": "19.20.14",
+    "text": "yāḥ samudrād uccaranti jaratīr upajihvikāḥ | pramehaṇasya tā vidur ubhayor mehanasya ca ||"
+  },
+  {
+    "id": "p-d0d404",
+    "ref": "19.20.15",
+    "text": "śīrṣṇo valīr āsno valīr aṅgādaṅgān mukhād valīḥ | sarvās tā indrāṇī valīr apa mārṣṭv adhi tvacaḥ ||"
+  },
+  {
+    "id": "p-cfd402",
+    "ref": "19.20.16",
+    "text": "yās tvaci valayo jātā yā jātās tanvas pari | sarvās tā indrāṇī valīḥ śamīśākhāsv ā sajāt ||"
+  },
+  {
+    "id": "p-ced401",
+    "ref": "19.20.17",
+    "text": "ā śamīṃ māmakī valī rurohāti jahāti mām | etām indrasya jāyā validhānīm akṛṇvata ||"
+  },
+  {
+    "id": "p-ae817e",
+    "ref": "19.21.1",
+    "text": "yathā sūryo nakṣatrāṇāṃ varcāṃsi yuvate divaḥ | evā sapatnānām ahaṃ varca indriyam ā dade ||"
+  },
+  {
+    "id": "p-b18182",
+    "ref": "19.21.2",
+    "text": "yac ca varcaḥ sapatnānāṃ bhrātṛvyeṣu ca yad yaśaḥ | tad indro vṛtrahā dhātā savitā dīdharan mayi ||"
+  },
+  {
+    "id": "p-b08181",
+    "ref": "19.21.3",
+    "text": "yāś ca gāvaḥ sapatnānāṃ bhrātṛvyeṣu ca yad vasu | tan nir jyeyam iva jītvā savitā dīdharan mayi ||"
+  },
+  {
+    "id": "p-ab8179",
+    "ref": "19.21.4",
+    "text": "satyam eva jayatu nānṛtaṃ satyasya panthā ṛjur astu sādhuḥ | satyaṃ vadantaḥ samidhe vidhema satyena dyāvāpṛthivī aprathetām ||"
+  },
+  {
+    "id": "p-aa8177",
+    "ref": "19.21.5",
+    "text": "vāgbhāgasya ca satyena rudrasya sumanasyayā | indreṇādhibruvatā vayaṃ viśaṃ prāśi videmahi ||"
+  },
+  {
+    "id": "p-ad817c",
+    "ref": "19.21.6",
+    "text": "yā te rudreṣur āyatā vāci vā te araṃkṛtā | yenedaṃ vivadāmahe tasya prāśaṃ tvaṃ jahi ||"
+  },
+  {
+    "id": "p-ac817b",
+    "ref": "19.21.7",
+    "text": "jahi tvaṃ tasya prāśam uta satyām utānṛtām | yo asmān indra vṛtrahan vācā prāśaṃ jigīṣati ||"
+  },
+  {
+    "id": "p-a78173",
+    "ref": "19.21.8",
+    "text": "ut pramut prāṇa bahvīha sīdedaṃ pṛṇa | utodiva sma siñcatāt samudrasyeva madhyataḥ ||"
+  },
+  {
+    "id": "p-a68171",
+    "ref": "19.21.9",
+    "text": "samudraś ca śatadhāraḥ sahasradhāro akṣitaḥ | purastād indra ācarat pūrṇagoṣṭha idaṃ pṛṇa ||"
+  },
+  {
+    "id": "p-b9d960",
+    "ref": "19.21.10",
+    "text": "ihopa pṛṇa saṃ pṛṇa vṛṣa prajananāḥ kṛdhi | iha gāvaḥ pra jāyadhvam ihāśvā iha pūruṣāḥ | iho sahasradakṣiṇo abhi prāśā ni ṣīdatu ||"
+  },
+  {
+    "id": "p-bad961",
+    "ref": "19.21.11",
+    "text": "jyeṣṭhaghnyai nakṣatrāṇām ahne rātryā idaṃ namaḥ | juhomi viśvakarmaṇe sa śivo mṛḍayāti naḥ ||"
+  },
+  {
+    "id": "p-bbd963",
+    "ref": "19.21.12",
+    "text": "mā jyeṣṭhaṃ vadhīd ayam agna eṣāṃ mūlabarhaṇaṃ pari vṛṇakty enam | grāhyāḥ pāśān vi cṛta prajānan pitāputrau mātaraṃ muñca sarvān ||"
+  },
+  {
+    "id": "p-bcd965",
+    "ref": "19.21.13",
+    "text": "un muñca pāśāṃs tvam agna eṣāṃ trayas tribhir utthitā yebhir āsan | māyaṃ hiṃsīḥ pitaraṃ vardhamāno mā mātaraṃ pra minīr yā janitrī ||"
+  },
+  {
+    "id": "p-b5d95a",
+    "ref": "19.21.14",
+    "text": "grāhyāḥ pāśān vi cṛta ye sinanti yāṃ brahmaṇā parivṛñjanti vedhasaḥ | un muñca pāśāṃs tvam agna eṣāṃ tvajjātasyānv ahar-ahar astu bhadram ||"
+  },
+  {
+    "id": "p-b6d95b",
+    "ref": "19.21.15",
+    "text": "ni vartadhvaṃ mānu gāta- -asmān siṣakta revatīḥ | agnīṣomā punarvasū asya vardhayataṃ rayim ||"
+  },
+  {
+    "id": "p-b7d95d",
+    "ref": "19.21.16",
+    "text": "punar enā ni vartaya punar enā upā kuru | indra enā ni yacchatv agnir enā upājatu ||"
+  },
+  {
+    "id": "p-b8d95e",
+    "ref": "19.21.17",
+    "text": "pari vo viśvato dadha ūrjā ghṛtena payasā | ye devāḥ ke ca yajñiyās te rayyā saṃ sṛjantu mā ||"
+  },
+  {
+    "id": "p-53a55c",
+    "ref": "19.22.1",
+    "text": "namo astu sarpebhyo ye ke ca pṛthivīm anu | ye antarikṣe ye divi tebhyaḥ sarpebhyo namaḥ ||"
+  },
+  {
+    "id": "p-50a557",
+    "ref": "19.22.2",
+    "text": "ye cāmī rocane divo ye ca sūryasya raśmiṣu | yeṣām apsu sadas kṛtaṃ tebhyaḥ sarpebhyo namaḥ ||"
+  },
+  {
+    "id": "p-51a559",
+    "ref": "19.22.3",
+    "text": "yā iṣavo yātudhānānāṃ yā vā vanaspatīnām | ye 'vaṭeṣu śerate tebhyaḥ sarpebhyo namaḥ ||"
+  },
+  {
+    "id": "p-56a560",
+    "ref": "19.22.4",
+    "text": "yavocchiṣṭaṃ haviṣā vardhayemaṃ yathā dyumnī kṛṇavad vīryāṇī | sajūr devebhir abhi bhūḥ sapatnān āyuṣmat kṣatram ajaraṃ te astu ||"
+  },
+  {
+    "id": "p-57a562",
+    "ref": "19.22.5",
+    "text": "puṃsā yavena haviṣā payasvatā- -ucchiṣṭasyāyū rakṣantu devāḥ | devā hy asmin ni dadhur nṛmṇaṃ bṛhad asmā indro vayo dadhātu ||"
+  },
+  {
+    "id": "p-54a55d",
+    "ref": "19.22.6",
+    "text": "sam ucchiṣṭasya haviṣā sam ukthaiḥ sam āyuṣā varcasā payo dadhātu | devā hy asmin ni dadhur nṛmṇaṃ bṛhad asmā indro vayo dadhātu ||"
+  },
+  {
+    "id": "p-55a55f",
+    "ref": "19.22.7",
+    "text": "vāyur enāḥ samākarat tvaṣṭā poṣāya dhriyatām | indra ābhyo adhi bruvad rudro bhūmne cikitsatu ||"
+  },
+  {
+    "id": "p-5aa567",
+    "ref": "19.22.8",
+    "text": "yathā cakrur devāsurā yathā manuṣyā uta | evā sahasrapoṣāya kṛṇutaṃ lakṣmāśvinā ||"
+  },
+  {
+    "id": "p-5ba568",
+    "ref": "19.22.9",
+    "text": "lohitena svadhitinā mithunaṃ karṇayoḥ kṛdhi | akartām aśvinā lakṣma tad astu prajayā bahu ||"
+  },
+  {
+    "id": "p-c64ffb",
+    "ref": "19.22.10",
+    "text": "kṛṣṇaṃ niyānaṃ harayaḥ suparṇā apo vasānā divam ut patanti | ā ca vartante sadanād ṛtasya- -ād id ghṛtena pṛthivī vy udyate ||"
+  },
+  {
+    "id": "p-c54ff9",
+    "ref": "19.22.11",
+    "text": "payasvatīḥ kṛṇutāpa oṣadhīr imā yad ejathā maruto rukmavakṣasaḥ | ūrjaṃ ca tatra sumatiṃ ca pinvatha yatrā naro marutaḥ siñcathā madhu ||"
+  },
+  {
+    "id": "p-c84ffe",
+    "ref": "19.22.12",
+    "text": "udapluto marutas tām̐ iyarta vṛṣṭyā yad viśvā nivatas pṛṇātha | ejāti galhā kanyeva tunnairun tundānā patyeva jāyā ||"
+  },
+  {
+    "id": "p-c74ffc",
+    "ref": "19.22.13",
+    "text": "tvaṣṭeva pūṣeryo damūnā mahī svastir vṛṣaṇā na āgan | viśvā āśāḥ sūyavasā saṃrarāṇo 'syā rayyāḥ puraetā na edhi ||"
+  },
+  {
+    "id": "p-ca5001",
+    "ref": "19.22.14",
+    "text": "eha yantu madhumad duhānā anamīvā uśatīr viśvarūpāḥ | bahvīr bhavantīr upajāyamānā ihendro vo ramayatu gāvaḥ ||"
+  },
+  {
+    "id": "p-c95000",
+    "ref": "19.22.15",
+    "text": "prajāpatir janayatu prajā imās tvaṣṭā dadhātu sumanasyamānaḥ | saṃvatsara ṛtubhiḥ saṃvidāno mayi puṣṭaṃ puṣṭapatir dadhātu ||"
+  },
+  {
+    "id": "p-59208a",
+    "ref": "19.23.1",
+    "text": "sāhasī nāma vā asi sahasas pari jajñiṣe | sahasvān indro deveṣu sahase tvā khanāmasi ||"
+  },
+  {
+    "id": "p-582088",
+    "ref": "19.23.2",
+    "text": "sahasyena bheṣajena divyena śataparvaṇā | tena sahasrakāṇḍena kṛṇomi punarābhṛtim ||"
+  },
+  {
+    "id": "p-572087",
+    "ref": "19.23.3",
+    "text": "sahaso 'haṃ bheṣajasya divyasya nāma jagrabha | vy āśiṣaiva tasthire yakṣmāsaḥ puruṣād adhi ||"
+  },
+  {
+    "id": "p-562085",
+    "ref": "19.23.4",
+    "text": "apeta etu nirṛtir nehāsyāḥ api kiṃ cana | apāsyāḥ satvanaḥ pāśān mṛtyūn ekaśataṃ nude ||"
+  },
+  {
+    "id": "p-552084",
+    "ref": "19.23.5",
+    "text": "ye te pāśā ekaśataṃ mṛtyo martyāya hantave | tāṃs te yajñasya māyayā sarvām̐ apa yajāmasi ||"
+  },
+  {
+    "id": "p-542082",
+    "ref": "19.23.6",
+    "text": "nir ito yantu nairṛtā mṛtyava ekaśataṃ paraḥ | sedhāma eṣāṃ yat tamaḥ prāṇaṃ jyotiś ca dadhmahe ||"
+  },
+  {
+    "id": "p-532081",
+    "ref": "19.23.7",
+    "text": "triṣaptā vāraṇā imās tābhir mām indro abravīt | viṣaṃ vārayatām iti viṣaṃ dūṣayatād iti ||"
+  },
+  {
+    "id": "p-52207f",
+    "ref": "19.23.8",
+    "text": "apa brūtedaṃ maruto mahīndrasyāpavācanī | eṣā sahasram arhaty eṣā vārayate viṣam ||"
+  },
+  {
+    "id": "p-51207d",
+    "ref": "19.23.9",
+    "text": "asthād dyaur asthāt pṛthivy asthād viśvam idaṃ jagat | asthur viṣasyābhītayaḥ pratikūla ivābalaḥ ||"
+  },
+  {
+    "id": "p-083a62",
+    "ref": "19.23.10",
+    "text": "yathā bāṇaḥ susaṃśitaḥ parāpataty āśumat | evā kāśe parā pata sākaṃ vātasya dhrājyā ||"
+  },
+  {
+    "id": "p-093a64",
+    "ref": "19.23.11",
+    "text": "yathā cakṣuś cakṣuṣmataḥ parāpatati ketumat | (…) sākaṃ sūryasya raśmibhiḥ ||"
+  },
+  {
+    "id": "p-063a5f",
+    "ref": "19.23.12",
+    "text": "yathā mano manyuketuṃ parāpatati yojanā | evā kāśe parā patat samudrasyānu vikṣaram ||"
+  },
+  {
+    "id": "p-073a61",
+    "ref": "19.23.13",
+    "text": "ita evāva gacchata- -ugrā bhavata mābalāḥ | hvayantu sarve vo devāḥ sarvā vo vṛṇatāṃ viśaḥ ||"
+  },
+  {
+    "id": "p-0c3a69",
+    "ref": "19.23.14",
+    "text": "yad avagamena haviṣā- -ava vo gamayāmasi | atrāta indraḥ kevalīr viśo balihṛtaḥ karat ||"
+  },
+  {
+    "id": "p-0d3a6a",
+    "ref": "19.23.15",
+    "text": "indraḥ kaśyapa ād agnir iḍā turīyā vaḥ sakhā | yad bhūtaṃ bhavyam āsanvat tenāva gamayāmi vaḥ ||"
+  },
+  {
+    "id": "p-75040b",
+    "ref": "19.24.1",
+    "text": "na taṃ yakṣmā arundhate nainaṃ śapatho aśnute | yaṃ bheṣajasya gulguloḥ surabhir gandho aśnute ||"
+  },
+  {
+    "id": "p-76040c",
+    "ref": "19.24.2",
+    "text": "yaṃ gulgulor bheṣajasya surabhir gandho aśnute | viṣvañcas tasmād yakṣmā mṛgā iṣvā iverate ||"
+  },
+  {
+    "id": "p-77040e",
+    "ref": "19.24.3",
+    "text": "yad gulgulu saindhavaṃ yad vā ghāsi samudriyam | ubhayor agrabhaṃ nāma- -asmā ariṣṭatātaye ||"
+  },
+  {
+    "id": "p-700403",
+    "ref": "19.24.4",
+    "text": "devā etaṃ madhunā saṃyutaṃ yavaṃ sarasvatyām adhi maṇāv acarkṛṣuḥ | indra āsīt sīrapatiḥ śatakratuḥ kīnāśā āsan marutaḥ sudānavaḥ ||"
+  },
+  {
+    "id": "p-710404",
+    "ref": "19.24.5",
+    "text": "bṛhatpalāśe subhaga ūrdhvasvapna ṛtāvari | māteva putrebhyo mṛḍa keśebhyo naḥ śami ||"
+  },
+  {
+    "id": "p-720406",
+    "ref": "19.24.6",
+    "text": "yas te mado +'vakeśo yo vikeśo yenābhihasyaṃ puruṣaṃ kṛṇoṣi | bhrūṇaghnovirivārā(c) cara tvaṃ tasya te prajāyāḥ suvāmi keśān ||"
+  },
+  {
+    "id": "p-730407",
+    "ref": "19.24.7",
+    "text": "ākūtiṃ devīṃ subhagāṃ puro dadhe cittasya mātā suhavā no astu | yām āśām emi kevalī sā me astu videyam enāṃ manasi praviṣṭām ||"
+  },
+  {
+    "id": "p-6c03fc",
+    "ref": "19.24.8",
+    "text": "ākūtyā no bṛhaspata ākūtyā na upā gahi | atho bhagasya no dhehy atho naḥ suhavo bhava ||"
+  },
+  {
+    "id": "p-6d03fe",
+    "ref": "19.24.9",
+    "text": "bṛhaspatir ma ākūtim āṅgirasaḥ prati jānātu vācam etām | yasya devā devatāḥ sambabhūvuḥ suṣupraṇīḥ kāmo anv etv asmān ||"
+  },
+  {
+    "id": "p-6c5da7",
+    "ref": "19.24.10",
+    "text": "mano nv āhvāmahi nārāśaṃsena stomena | pitṝṇāṃ ca manmabhiḥ ||"
+  },
+  {
+    "id": "p-6b5da6",
+    "ref": "19.24.11",
+    "text": "ā na etu manaḥ punaḥ kratve dakṣāya jīvase | jyok ca sūryāya dṛśe ||"
+  },
+  {
+    "id": "p-6a5da4",
+    "ref": "19.24.12",
+    "text": "punar naḥ pitaro mano dadātu daivyo janaḥ | jīvaṃ vrātaṃ sacemahi ||"
+  },
+  {
+    "id": "p-695da2",
+    "ref": "19.24.13",
+    "text": "vayaṃ soma vrate tava manas tanūṣu bibhrataḥ | prajāvantaḥ sacemahi ||"
+  },
+  {
+    "id": "p-685da1",
+    "ref": "19.24.14",
+    "text": "varco me mitrāvaruṇā varco devī sarasvatī | varco me aśvinobhā dhattaṃ puṣkarasrajā ||"
+  },
+  {
+    "id": "p-675d9f",
+    "ref": "19.24.15",
+    "text": "yac ca varco yajamāne yac ca yajñe 'dhy āhitam | surāyāṃ babhru yad varcas tasya bhakṣīya varcasaḥ ||"
+  },
+  {
+    "id": "p-665d9e",
+    "ref": "19.24.16",
+    "text": "yā utsebhyaḥ prasravanti divo dhārā nadībhyaḥ | tāsāṃ tvā sarvāsām apām abhi ṣiñcāmi varcasā ||"
+  },
+  {
+    "id": "p-655d9c",
+    "ref": "19.24.17",
+    "text": "yad rājānaṃ śakadhūmaṃ nakṣatrāṇy akṛṇvata | bhadrāham asmai prāyacchan tato rāṣṭram ajāyata ||"
+  },
+  {
+    "id": "p-745db4",
+    "ref": "19.24.18",
+    "text": "bhadrāham astu naḥ sāyaṃ bhadrāhaṃ prātar astu naḥ | bhadrāham asmabhyaṃ tvaṃ śakadhūma sadā kṛṇu ||"
+  },
+  {
+    "id": "p-735db2",
+    "ref": "19.24.19",
+    "text": "yo no bhadrāham akaraḥ sāyaṃ prātar atho divā | tasmai te nakṣatrarāja śakadhūma sadā namaḥ ||"
+  },
+  {
+    "id": "p-725fef",
+    "ref": "19.24.20",
+    "text": "yad āhuḥ śakadhūmāhaṃ nakṣatrāṇāṃ prathamajaṃ jyotir agre | tan naḥ saniṃ madhumatīṃ kṛṇotu rayiṃ ca naḥ sarvavīraṃ ni yacchāt ||"
+  },
+  {
+    "id": "p-d9e06c",
+    "ref": "19.25.1",
+    "text": "yūpe garte vidveṣaṇaṃ devānāṃ varcasā kṛtam | agnir vām astv antarā yathā vāṃ na sahāsati ||"
+  },
+  {
+    "id": "p-dce071",
+    "ref": "19.25.2",
+    "text": "yathāhiṃ dveṣṭi puruṣo ahir vā dveṣṭi puruṣam | girir vām astv antarā yathā vāṃ na sahāsati ||"
+  },
+  {
+    "id": "p-dbe06f",
+    "ref": "19.25.3",
+    "text": "nānāni vām ākūtāni nānā cittāni santu vām | viṣvañcau pary ā vartethāṃ yathā vāṃ na sahāsati ||"
+  },
+  {
+    "id": "p-dee074",
+    "ref": "19.25.4",
+    "text": "atra dve kamale dve tuṇḍe na maśīkataṃ taṃ galāpate | bhaṅgalāpato (⟨ bhaṅgurāvato) daha ||"
+  },
+  {
+    "id": "p-dde073",
+    "ref": "19.25.5",
+    "text": "etad yat te yad vā yad vā na cāsan no ca te bhavat | svapne vittaṃ yathā dhanaṃ naśyād id etad etataḥ ||"
+  },
+  {
+    "id": "p-e0e077",
+    "ref": "19.25.6",
+    "text": "āgilo gilāpāpacito gila | naśyād bradhnakam arbhakam ||"
+  },
+  {
+    "id": "p-dfe076",
+    "ref": "19.25.7",
+    "text": "dīrghāyutvāya sahase mahyā ariṣṭatātaye | suparṇo mahyam abravīd etad āśliṣṭabheṣajam ||"
+  },
+  {
+    "id": "p-d2e061",
+    "ref": "19.25.8",
+    "text": "saktūn iva titaünā punanto vidvāṃso vācam akrata | aṅgebhyo viśvāṅgebhyaḥ pra te chinadmy āśliṣṭam ||"
+  },
+  {
+    "id": "p-d1e060",
+    "ref": "19.25.9",
+    "text": "avacchindhy āśliṣṭam ūrvā hy asi bheṣajī | divyaḥ suparṇo abravid etad āśliṣṭabheṣajam ||"
+  },
+  {
+    "id": "p-f44b8a",
+    "ref": "19.25.10",
+    "text": "abhibhūr aham āgamaṃ viśvakarmā svāyudhaḥ | ahaṃ mitrasya kalpayann āsv āśāsu duṣṭaraḥ ||"
+  },
+  {
+    "id": "p-f54b8b",
+    "ref": "19.25.11",
+    "text": "ahaṃ samityayano ahaṃ viśāṃ purohitaḥ | ahaṃ mitrāṇi kalpayan mayi vāg astu dharṇasī ||"
+  },
+  {
+    "id": "p-f64b8d",
+    "ref": "19.25.12",
+    "text": "ā vaś cakṣur ā vo vācam ā vaḥ samitiṃ dade | yogakṣemaṃ va ādāya- -ahaṃ bhūyāsam uttamaḥ ||"
+  },
+  {
+    "id": "p-f74b8f",
+    "ref": "19.25.13",
+    "text": "brahmaṇāgniḥ saṃvidāno rakṣohā nudatām itaḥ | arāyo yas te tanvaṃ durṇāmā yonim āśaye ||"
+  },
+  {
+    "id": "p-f84b90",
+    "ref": "19.25.14",
+    "text": "yas te 'rāyas tanvaṃ durṇāmā yonim āśaye | agniṣ ṭaṃ brahmaṇā yujā rakṣohā nudatām itaḥ ||"
+  },
+  {
+    "id": "p-f94b92",
+    "ref": "19.25.15",
+    "text": "yāny abhvāni rakṣāṃsi ye 'rāyā yātudhānyaḥ | agniṣ ṭvā śagmayā tanvā rakṣohā pātu tebhyaḥ ||"
+  },
+  {
+    "id": "p-1ff2c9",
+    "ref": "19.26.1",
+    "text": "agniś ca deva savitar iṣam ūrjaṃ dadhānau | pātaṃ mā duścaritād ā mā sucarite bhajataṃ yuvayor avasā sumnam aśīya ||"
+  },
+  {
+    "id": "p-1cf2c4",
+    "ref": "19.26.2",
+    "text": "idaṃ tad upa yuva idaṃ tad upa hvaye yac chuśrumā tvat pari | vācaspatir ni yacchatu mayy evāstu mama śrutam ||"
+  },
+  {
+    "id": "p-1df2c6",
+    "ref": "19.26.3",
+    "text": "māpatyāya steyaṃ karaṃ mā śrutena vi rādhiṣi | amogham asmākaṃ śrāntam agne draviṇavat kṛdhi ||"
+  },
+  {
+    "id": "p-1af2c1",
+    "ref": "19.26.4",
+    "text": "madhyameṣṭhā varcasvatyā- -āyuṣe varcase kṛtam | vanuṣva viśvadeveṣu vanuṣva tvaṃ bṛhaspatau ||"
+  },
+  {
+    "id": "p-1bf2c2",
+    "ref": "19.26.5",
+    "text": "ghṛtena prajāṃ vanute ghṛtena rayim aśnute | ghṛtenāyuṣyaṃ varcasyaṃ devebhyo vanute pari ||"
+  },
+  {
+    "id": "p-18f2be",
+    "ref": "19.26.6",
+    "text": "parjanya pippalās tubhyaṃ nadyo garbhaṃ svastaye | maryādā brahmadevīr āyuṣyaṃ varca āsican ||"
+  },
+  {
+    "id": "p-19f2bf",
+    "ref": "19.26.7",
+    "text": "yathā hastī hastinyāḥ padena padam anv agāt | evā tvam aghnye vatsasya padena padam anv ihi ||"
+  },
+  {
+    "id": "p-16f2bb",
+    "ref": "19.26.8",
+    "text": "yathā rathasya cakre vi pathaḥ pāṃsum asyathaḥ | evā mano vy asyāmi hṛdayaṃ vananāya kam ||"
+  },
+  {
+    "id": "p-17f2bc",
+    "ref": "19.26.9",
+    "text": "indrasya prathamaṃ vaco devānām aparaṃ vacaḥ | tṛtīyam aśvinor vacas tena gāṃ vānayāmasi ||"
+  },
+  {
+    "id": "p-58327f",
+    "ref": "19.26.10",
+    "text": "ud itaḥ śyāvau vithurau divaṃ gṛdhrāv iveyathuḥ | śocanāv atiśocanāv asyocchocanau hṛdaḥ ||"
+  },
+  {
+    "id": "p-57327d",
+    "ref": "19.26.11",
+    "text": "śocayābhi śocayā dīpayopa dīpaya | aher agne viṣaṃ tvaṃ tṛṇam iva kalvalaṃ daha ||"
+  },
+  {
+    "id": "p-5a3282",
+    "ref": "19.26.12",
+    "text": "sīdataṃ niṣattārāv avetaṃ mod gatam | kṛṣṇā vāṃ gauḥ sārasvatī ||"
+  },
+  {
+    "id": "p-593281",
+    "ref": "19.26.13",
+    "text": "yathā rātrī kṛṣṇatamā gauḥ kṛṣṇā kṛṣṇavartaniḥ | śācīḥpyavo yathā rūpam evedaṃ māmakaṃ śiraḥ ||"
+  },
+  {
+    "id": "p-543279",
+    "ref": "19.26.14",
+    "text": "yathāṅgaro 'bhiṣikto darvidāko yathāsitaḥ | anuṣyaṅgasya kalmaṣam evedaṃ māmakaṃ śiraḥ ||"
+  },
+  {
+    "id": "p-533277",
+    "ref": "19.26.15",
+    "text": "yathā dāvād dahyamānāt kṛṣṇo jvālo 'padhvaṃsate | naiṣād asya yathā mukham evedaṃ māmakaṃ śiraḥ ||"
+  },
+  {
+    "id": "p-84cf2a",
+    "ref": "19.27.1",
+    "text": "yat kiṃ cāsau manasā yac ca vācā yajñair juhoti haviṣā yajurbhiḥ | tan mṛtyunā nirṛtiḥ saṃvidānā purā dṛṣṭād ājyaṃ hantv asya ||"
+  },
+  {
+    "id": "p-83cf29",
+    "ref": "19.27.2",
+    "text": "yātudhānā nirṛtir ād u rakṣas te asya ghnantv anṛtena satyam | indreṣitā ājyam asya mathnantu mā tat saṃ pādi yad asau juhoti ||"
+  },
+  {
+    "id": "p-82cf27",
+    "ref": "19.27.3",
+    "text": "pari tvāgne puraṃ vayaṃ vipraṃ sahasya dhīmahi | dhṛṣadvarṇa divedive hantāraṃ bhaṅgurāvatām ||"
+  },
+  {
+    "id": "p-89cf32",
+    "ref": "19.27.4",
+    "text": "svarjid adhirājau śyenau saṃpātināv iva | ājyaṃ pṛtanyato hataṃ yo asmān pṛtanāyati ||"
+  },
+  {
+    "id": "p-88cf31",
+    "ref": "19.27.5",
+    "text": "pṛthivyai vanaspatibhya oṣadhībhyo 'gnaye 'dhipataye svāhā ||"
+  },
+  {
+    "id": "p-87cf2f",
+    "ref": "19.27.6",
+    "text": "antarikṣāya prāṇāya vayobhyo vāyave 'dhipataye svāhā ||"
+  },
+  {
+    "id": "p-86cf2e",
+    "ref": "19.27.7",
+    "text": "dive cakṣuṣe nakṣatrebhyaḥ sūryāyādhipataye svāhā ||"
+  },
+  {
+    "id": "p-7dcf1f",
+    "ref": "19.27.8",
+    "text": "pippalyaḥ sam avadanta- -āyatīr jananād adhi | yaṃ jīvam aśnavāmahai na sa riṣyāti pūruṣaḥ ||"
+  },
+  {
+    "id": "p-7ccf1e",
+    "ref": "19.27.9",
+    "text": "pippalī kṣiptabheṣajy utāvaviddhabheṣajī | tāṃ devāḥ sam akalpayann alaṃ jīvātavā iti ||"
+  },
+  {
+    "id": "p-e02062",
+    "ref": "19.27.10",
+    "text": "asurās tvā ny akhanan devās tvod avapan punaḥ | vātīkṛtasya bheṣajī pippalī kṣiptabheṣajī ||"
+  },
+  {
+    "id": "p-e12063",
+    "ref": "19.27.11",
+    "text": "yad ulūko vadati mogham etad yat kapotaḥ padam agnau kṛṇoti | yasya dūtau prahitāv idam eyathus tasmai yamāya namo 'stu mṛtyave ||"
+  },
+  {
+    "id": "p-de205f",
+    "ref": "19.27.12",
+    "text": "yas te dūto nirṛta ājagāma- -aprahitaḥ prahito vā gṛhaṃ naḥ | kapotolūkāv apadaṃ tad astv avairahatyam idam ā jagantha suvīratāyā idam ā sasattha ||"
+  },
+  {
+    "id": "p-df2060",
+    "ref": "19.27.13",
+    "text": "yaḥ prathamaḥ pravata āsasāda bahubhyaḥ panthām anupaspaśānaḥ | ya īśe asya dvipado yaś catuṣpadas tasmai yamāya namo 'stu mṛtyave ||"
+  },
+  {
+    "id": "p-dc205b",
+    "ref": "19.27.14",
+    "text": "yathāsitaḥ prathayate vaśām̐ anu vapūṃṣi kṛṇvann asurasya māyayā | evā me śepaḥ sahasāyam arka enāṅgena saṃsamakaṃ kṛṇotu ||"
+  },
+  {
+    "id": "p-dd205d",
+    "ref": "19.27.15",
+    "text": "yāvad aṅgīnaṃ pārasvataṃ hāstinaṃ gārdabhaṃ ca yat | yāvad aśvasya vājinas tāvan me vardhatāṃ pasaḥ ||"
+  },
+  {
+    "id": "p-da2058",
+    "ref": "19.27.16",
+    "text": "yathā pasas tāyādaraṃ vātena sthūlabhaṃ kṛtam | yāvat parasvataḥ pasas tāvan me vardhatāṃ pasaḥ ||"
+  },
+  {
+    "id": "p-d2e579",
+    "ref": "19.28.1",
+    "text": "yasyedam ā rajo yujas tuje janaṃ vanaṃ svaḥ | indrasya nādhṛṣe śavaḥ ||"
+  },
+  {
+    "id": "p-d3e57b",
+    "ref": "19.28.2",
+    "text": "dhṛṣāṇaṃ dhṛṣataḥ śavaḥ purā yathāyatiṣṭhan | indrasya rantyaṃ mahat ||"
+  },
+  {
+    "id": "p-d4e57d",
+    "ref": "19.28.3",
+    "text": "sa no dadhātu taṃ rayiṃ puruṃ piśaṅgapeśasam | indraḥ patis tuviṣṭamo janeṣv ā ||"
+  },
+  {
+    "id": "p-d5e57e",
+    "ref": "19.28.4",
+    "text": "āyur agna ihā vaha jātavedas tanūvaśin | yathāhaṃ jyog ihāsāni prajānām adhipā vaśī ||"
+  },
+  {
+    "id": "p-d6e580",
+    "ref": "19.28.5",
+    "text": "āyur indro dadhātu ma āyur devo bṛhaspatiḥ | āyur me viśve devā ahorātre ca cakratuḥ ||"
+  },
+  {
+    "id": "p-d7e581",
+    "ref": "19.28.6",
+    "text": "āyur āyuṣyā pavatāṃ prāṇaṃ prāṇo dadhātu me | devā yac cakrur devebhyaḥ svar yanto yathāyatham ||"
+  },
+  {
+    "id": "p-d8e583",
+    "ref": "19.28.7",
+    "text": "utpatantu nabhasvatīḥ samudrād adhi ghoṣiṇīḥ | utsyāḥ samudriyā apas tābhiṣ ṭvā tarpayāmasi ||"
+  },
+  {
+    "id": "p-c9e56b",
+    "ref": "19.28.8",
+    "text": "yā āpo divyā yā vātāt parijajñire | indro marutvāṃs tṛptātmā tābhiṣ ṭvā tarpayāmasi ||"
+  },
+  {
+    "id": "p-cae56d",
+    "ref": "19.28.9",
+    "text": "yāḥ śuṣkā yā hariṇīr yā bhūmim anuvāvṛdhuḥ | sarvāḥ samagrā oṣadhīs tābhiṣ ṭvā tarpayāmasi ||"
+  },
+  {
+    "id": "p-da3ed3",
+    "ref": "19.28.10",
+    "text": "ā no medhā sumatir viśvarūpā giro bṛhatīr āveśayantī | ṛco me bahvīr ny anaktu gā iva yathāsāma bhuvaneṣu karṇinaḥ ||"
+  },
+  {
+    "id": "p-d93ed2",
+    "ref": "19.28.11",
+    "text": "dīkṣā tapo manaso mātariśvā bṛhaspatir vāco asyāḥ sa yoniḥ | vedāṃsi vidyā mayi santu bahvīr agnīṣomā yaśo asmāsu dhattam ||"
+  },
+  {
+    "id": "p-d83ed0",
+    "ref": "19.28.12",
+    "text": "yad agne tapasā tapa upaprekṣāmahe vayam | priyāḥ śrutasya bhūyāsma- -āyuṣmantaḥ sumedhasaḥ ||"
+  },
+  {
+    "id": "p-d73ecf",
+    "ref": "19.28.13",
+    "text": "yas tvā mātur uta vā pituḥ parijāyamānam abhisaṃbabhūva | taṃ tvad yakṣmam adhi nāśayāmaḥ so 'nyasmiṃ chrayātai praviṣṭaḥ ||"
+  },
+  {
+    "id": "p-de3eda",
+    "ref": "19.28.14",
+    "text": "yas te yakṣmo hṛdayeṣṭho nābhiṣṭhā udaraṃgamaḥ | atho yaḥ śiśriye parau taṃ tvad yakṣmam adhi nāśayāmaḥ so 'nyasmiṃ chrayātai praviṣṭaḥ ||"
+  },
+  {
+    "id": "p-dd3ed8",
+    "ref": "19.28.15",
+    "text": "śīrṣarogam aṅgarogaṃ snāvabṛham abhiśāciṃ visalpakam | yas te yakṣmo majjasu paruḥsu yo gudāsu taṃ tvad yakṣmam adhi nāśayāmaḥ so 'nyasmiṃ chrayātai praviṣṭaḥ ||"
+  },
+  {
+    "id": "p-b7c2a5",
+    "ref": "19.29.1",
+    "text": "agnī rakṣohā tigmas tigmaśṛṅgo hantu rakṣo nudatām arātim | apāghaśaṃsam asyatu ||"
+  },
+  {
+    "id": "p-bac2a9",
+    "ref": "19.29.2",
+    "text": "ā ta etu parāvato balam ojo divas pari | ā giribhyaḥ parvatebhya āyuṣ ṭe viśvato dadhat ||"
+  },
+  {
+    "id": "p-b9c2a8",
+    "ref": "19.29.3",
+    "text": "punas te 'suṃ pṛthivī dadātu punar dyaur devo punar antarikṣam | punas te somas tanvaṃ dadhātu punaḥ pūṣā pathyāṃ yā svastiḥ ||"
+  },
+  {
+    "id": "p-b4c2a0",
+    "ref": "19.29.4",
+    "text": "kaṣkiṣā kaṣpiṣā yevāṣā eṣā | iṣṭargava iṣayantaḥ saikatāḥ pāṃsavāḥ ||"
+  },
+  {
+    "id": "p-b3c29e",
+    "ref": "19.29.5",
+    "text": "adṛṣṭān na dṛṣṭān | dṛṣṭām̐ adṛṣṭān dhanapate jahīndrasya vadhena ||"
+  },
+  {
+    "id": "p-b6c2a3",
+    "ref": "19.29.6",
+    "text": "etāś ca viśvarūpāś ca gṛdhrāḥ kokāś ca te hatāḥ ||"
+  },
+  {
+    "id": "p-b5c2a2",
+    "ref": "19.29.7",
+    "text": "kāme kāmayasva mā pratīcī prati mā bhava | mām anu pra te mano vatsā pākeva dhāvatu ||"
+  },
+  {
+    "id": "p-c0c2b3",
+    "ref": "19.29.8",
+    "text": "abhīle abhimādany asau mām abhi mādyatu | vidma patatriṇyā vayam iṣuke nāmakaṃ tava ||"
+  },
+  {
+    "id": "p-bfc2b1",
+    "ref": "19.29.9",
+    "text": "ahaṃ te mana ā dade mano manomuṣir yathā | mayi te mana āhitaṃ ratha iva rathavāhane ||"
+  },
+  {
+    "id": "p-6369eb",
+    "ref": "19.29.10",
+    "text": "ud asau sūryo agān mahyam avatunā saha | ahaṃ viśāṃ purohito madhuhasto madhujihvo mayi vāg astu dharṇasī ||"
+  },
+  {
+    "id": "p-6469ec",
+    "ref": "19.29.11",
+    "text": "ahaṃ viśyena ketunā samakṣye mānuṣeṣv ā | asmākam astu kevalaṃ bṛhad diśo adhi viśveṣu rājasu ||"
+  },
+  {
+    "id": "p-6569ee",
+    "ref": "19.29.12",
+    "text": "svādoś cin mā svādīyāṃsaṃ madhoś cin madhumattaram | priyāś cit sakhyur antaram ādityāsaḥ kṛṇota mā ||"
+  },
+  {
+    "id": "p-6669ef",
+    "ref": "19.29.13",
+    "text": "agne brahma tvaṃ brahmāsi viddhi tvaṃ prāsmabhyaṃ brūhi | yadīdaṃ tathā bhaviṣyasi yadi vā nāthaitasya haviṣo vīha svāhā ||"
+  },
+  {
+    "id": "p-5f69e4",
+    "ref": "19.29.14",
+    "text": "vi pṛcche dyāvāpṛthivī vīndraṃ vi bṛhaspatim | vi devān yajñiyān pṛcche vy asaṃ jīvanāya kam ||"
+  },
+  {
+    "id": "p-6069e6",
+    "ref": "19.29.15",
+    "text": "vijñānāyodyatā prastutā srug iyaṃ yama rājan havir idaṃ juṣasva | agatāsor haviṣo mādayasva nirṛtiṃ gacchatu yad gatāsoḥ ||"
+  },
+  {
+    "id": "p-dad27e",
+    "ref": "19.30.1",
+    "text": "yat tvā māṃse apavavau yan manthe yad odane | agniṣ ṭvā viśvabheṣajas tasmāt pātv aṃhasaḥ ||"
+  },
+  {
+    "id": "p-d9d27d",
+    "ref": "19.30.2",
+    "text": "yas tvā vāta āvāty adharād uttarād uta | āpo yā viśvaśaṃbhuvas tās tvā pātv aṃhasaḥ ||"
+  },
+  {
+    "id": "p-d8d27b",
+    "ref": "19.30.3",
+    "text": "apa tvan mṛtyuṃ nirṛtim apa yakṣmaṃ ni dadhmasi | yathā tvam arapā asa udojā uttaro bhuvaḥ ||"
+  },
+  {
+    "id": "p-dfd286",
+    "ref": "19.30.4",
+    "text": "vaiśvānaro raśmibhir naḥ punātu vātaḥ prāṇeneṣiro nabhobhiḥ | dyāvāpṛthivī payasā payasvatī ṛtāvarī yajñiye mā punītām ||"
+  },
+  {
+    "id": "p-ded285",
+    "ref": "19.30.5",
+    "text": "prajāpatir ṛtubhiḥ pañcabhiḥ saṃvatsaro dhāmabhiḥ pātu viśvaiḥ | ihaiva prāṇaḥ sakhye no astu tam ātmani punar ā veśayāmi ||"
+  },
+  {
+    "id": "p-ddd283",
+    "ref": "19.30.6",
+    "text": "vaiśvadevīṃ sūnṛtām ā rabhadhvaṃ śuddhā bhavantaḥ śucayaḥ pāvakāḥ | tayā gṛṇantaḥ sadhamādeṣu vayaṃ syāma patayo rayīṇām ||"
+  },
+  {
+    "id": "p-dcd282",
+    "ref": "19.30.7",
+    "text": "vaiśvānarīṃ varcasa ā rabhadhvaṃ yasyā āśās tanvo vītapṛṣṭhāḥ | īḍayeha sadhamādaṃ madanto jyok paśyema sūryam uccarantam ||"
+  },
+  {
+    "id": "p-d3d273",
+    "ref": "19.30.8",
+    "text": "avatkaṃ mama bheṣajam avatkaṃ parivācanam | narācy asi mā tudo vanvānā rogabheṣajam ||"
+  },
+  {
+    "id": "p-d2d272",
+    "ref": "19.30.9",
+    "text": "śambhuleham ihā hara tam u kṣīrā ud asyati | tad āsrāvasya bheṣajaṃ tad u rogam anīnaśat ||"
+  },
+  {
+    "id": "p-575db7",
+    "ref": "19.30.10",
+    "text": "nadīṣu naḍvalāsu kumbheṣu kalaśeṣu ca pratīṣecanabheṣajam | tat te kṛṇomi bheṣajam addhi māṃsaṃ pibodakaṃ paṭpaṭiṅgaṃ vipaścalaṃ vi paśya ||"
+  },
+  {
+    "id": "p-585db9",
+    "ref": "19.30.11",
+    "text": "avidāma yad aicchāma piśācakṣayaṇaṃ haviḥ | tena kravyādo hanmaḥ sarvāś ca yātudhānyāḥ ||"
+  },
+  {
+    "id": "p-555db4",
+    "ref": "19.30.12",
+    "text": "icchanti tvā padātaya icchanti rathinas tvā | krīṇanti gobhir aśvair amṛtasyeva vā asi ||"
+  },
+  {
+    "id": "p-565db5",
+    "ref": "19.30.13",
+    "text": "amamri nāma bheṣajaṃ pṛthivyā adhy udbhṛtam | vaktā tan mahyam abravīd idaṃ ha pārayād iti ||"
+  },
+  {
+    "id": "p-535db1",
+    "ref": "19.30.14",
+    "text": "cakṣur asi puruṣasya cakṣur goś cakṣur arvataḥ | cakṣur bhūtasya bhavyasya cakṣur apsarasām asi ||"
+  },
+  {
+    "id": "p-545db2",
+    "ref": "19.30.15",
+    "text": "cakṣur asi suparṇasya cakṣur aher atho śunaḥ | cakṣuḥ sarvasya paśyato 'tho yad viśvam ejati ||"
+  },
+  {
+    "id": "p-515dae",
+    "ref": "19.30.16",
+    "text": "ādadānaṃ sahasrākṣaṃ pratispāśanam abruvam | darśaya mā yātudhānān darśaya yātudhānyāḥ ||"
+  },
+  {
+    "id": "p-f694b7",
+    "ref": "19.31.1",
+    "text": "atīmām akhyaṃ pṛthivīm ati dyām ati sūryam | ati viśvam idaṃ bhūtam aty akhyaṃ yātudhānyaḥ ||"
+  },
+  {
+    "id": "p-f394b2",
+    "ref": "19.31.2",
+    "text": "darśaya mā yātudhānān darśaya yātudhānyaḥ | aghāyūn sarvān darśaya- -iti tvauṣadha ā rabhe ||"
+  },
+  {
+    "id": "p-f494b4",
+    "ref": "19.31.3",
+    "text": "evā sahasracakṣo tvaṃ prati paśyāsy āyataḥ | saho 'si yātudhānajambhanam ||"
+  },
+  {
+    "id": "p-f194af",
+    "ref": "19.31.4",
+    "text": "imāḥ pāre pṛdākvas triṣaptā nirjarāyavaḥ | tāsāṃ jarāyuṇā vayam akṣyāv api vyayāmasy aghāyoḥ paripanthinaḥ ||"
+  },
+  {
+    "id": "p-f294b1",
+    "ref": "19.31.5",
+    "text": "viṣūcy etu kṛntatī pinākam iva bibhratī | viṣvak punarbhuvā mano 'samṛddhā aghāyavaḥ ||"
+  },
+  {
+    "id": "p-ef94ac",
+    "ref": "19.31.6",
+    "text": "apetaḥ paripanthino +'po aghāyur arṣatu | na bahavaḥ saṃ śaknavan nārbhakā abhi dhṛṣṇavan ||"
+  },
+  {
+    "id": "p-f094ad",
+    "ref": "19.31.7",
+    "text": "pretaṃ pādau pra sphurataṃ vahataṃ pṛṇato gṛham | indrāṇy etu prathamā- -ajītāmuṣitā pathā ||"
+  },
+  {
+    "id": "p-ed94a9",
+    "ref": "19.31.8",
+    "text": "āyam agan phālgumaṇir balena baladāḥ saha | yenendro dasyūnāṃ vīrām̐ asurāṇām avātirat ||"
+  },
+  {
+    "id": "p-ee94aa",
+    "ref": "19.31.9",
+    "text": "varcasā māṃ payasokṣantu devā varcasā dyāvāpṛthivī ubhe | varco me devaḥ savitā dadhātu varco vipraḥ kaśyapo me dadhātu ||"
+  },
+  {
+    "id": "p-891ca7",
+    "ref": "19.31.10",
+    "text": "varco ma āpo dadhatu varco me vīrudho dadhan | bhūtāni sarvāḥ saṅgatya varca ā dhur mukhe mama ||"
+  },
+  {
+    "id": "p-881ca5",
+    "ref": "19.31.11",
+    "text": "yāḥ purastād vitiṣṭhante gāvaḥ pravrājinīr iva | vātīkṛtasya bheṣajīḥ pippalīḥ pārayiṣṇavaḥ ||"
+  },
+  {
+    "id": "p-8b1caa",
+    "ref": "19.31.12",
+    "text": "rudrasya mūtram asy amṛtasya nābhiḥ | pṛthivyāṃ mūlaṃ niṣṭhitam asi viṣāṇā nāma vātīkṛtabheṣajī ||"
+  },
+  {
+    "id": "p-8a1ca8",
+    "ref": "19.31.13",
+    "text": "śaṃ te astu matasnābhyāṃ śaṃ yakne śaṃ talīdyai | śaṃ te pṛṣṭibhyo majjabhyaḥ śam astu tanve tava ||"
+  },
+  {
+    "id": "p-851ca1",
+    "ref": "19.31.14",
+    "text": "na hi te agne tanvaḥ krūram ānaṃśa martyam | kapir babhastu tejanaṃ svaṃ jarāyu gaur iva ||"
+  },
+  {
+    "id": "p-841c9f",
+    "ref": "19.31.15",
+    "text": "tveṣa iva saṃ ca vi ca roruvaṇyate yad uttaradrā uparasya khādati | śīrṣṇā śiro apsasāpso ardayann aṃśūn babhastu haritebhir āśubhiḥ ||"
+  },
+  {
+    "id": "p-871ca4",
+    "ref": "19.31.16",
+    "text": "suparṇā vācam akratopa dyavy ākhare kṛṣṇā iṣirā anartiṣuḥ | ni yan niyanty uparasya niṣkṛtiṃ purū reto dadhire sūryasyutaḥ ||"
+  },
+  {
+    "id": "p-3120f5",
+    "ref": "19.32.1",
+    "text": "bhagena mā śāṃśapena sākam indreṇa medinā | kṛṇomi bhaginaṃ mā- -apa drāntv arātayaḥ ||"
+  },
+  {
+    "id": "p-3420f9",
+    "ref": "19.32.2",
+    "text": "yo andho yaḥ punaḥsaro bhago vṛkṣeṣv ārpitaḥ | bhago me astu śāṃśapo 'pa drāntv arātayaḥ ||"
+  },
+  {
+    "id": "p-3320f8",
+    "ref": "19.32.3",
+    "text": "yathā vṛkṣām̐ abhyabhavaḥ sākam indreṇa medinā | evā mā bhaginaṃ kṛṇv apa drāntv arātayaḥ ||"
+  },
+  {
+    "id": "p-3620fd",
+    "ref": "19.32.4",
+    "text": "apeto nīlalohitaṃ jātaṃ himavatas pari | kīśmīlam urvarābhyo divo jātam anīnaśam ||"
+  },
+  {
+    "id": "p-3520fb",
+    "ref": "19.32.5",
+    "text": "abhrāj jātaṃ varṣāj jātam atho jātaṃ divas pari | atho samudrād jātaṃ kīśmīlaṃ nāśayāmasi ||"
+  },
+  {
+    "id": "p-382100",
+    "ref": "19.32.6",
+    "text": "yo nīhārād yaḥ pruṣvā yo adbhyas pari jāyase | garbho yo vidyutām asi sa naḥ kīśmīla mṛḍaya ||"
+  },
+  {
+    "id": "p-3720fe",
+    "ref": "19.32.7",
+    "text": "nodeyīḥ sikatā imāḥ sindhutas paryābhṛtāḥ | tābhir yamasya kīśmīlaṃ saṃbhṛtābhir anīnaśam ||"
+  },
+  {
+    "id": "p-2a20ea",
+    "ref": "19.32.8",
+    "text": "tvayā pūrvaṃ vibhīdaka saṃjitā asurā hatāḥ | tvaṃ sapatnacātano bhrātṛvyām̐ ava dhūnuṣva ||"
+  },
+  {
+    "id": "p-2920e8",
+    "ref": "19.32.9",
+    "text": "vi bhinattu vibhīdakas tīkṣṇaśṛṅga iva ṛṣabhaḥ | atho sapatnān ā dattām atho hantu durasyataḥ ||"
+  },
+  {
+    "id": "p-5ee1bb",
+    "ref": "19.32.10",
+    "text": "vyavadhīt sahamānaḥ sapatnān dviṣato me 'dharām̐ akaḥ | abhy abhūd bhūtyobhayām ||"
+  },
+  {
+    "id": "p-5fe1bd",
+    "ref": "19.32.11",
+    "text": "ya āskandaḥ parāskanda ākhuḥ kakubha āt krimiḥ | upajīkām̐ upakvasān tān sarvān jambhayāmasi ||"
+  },
+  {
+    "id": "p-60e1be",
+    "ref": "19.32.12",
+    "text": "api nahyāmy ākhor muñjena mukham āsyam | anadaṃ yathā carād apaitum urvarābhyaḥ ||"
+  },
+  {
+    "id": "p-61e1c0",
+    "ref": "19.32.13",
+    "text": "apinahyamukha ākhuḥ paroktaḥ prāṭparāṇutaḥ | śṛṇāmy asya dantān nir akṣau pādayāmasi ||"
+  },
+  {
+    "id": "p-62e1c1",
+    "ref": "19.32.14",
+    "text": "aśvinā sāraghena mā madhunāṅkta śubhaspatī | yathā varcasvatīṃ vācam āvadāni janām̐ anu ||"
+  },
+  {
+    "id": "p-63e1c3",
+    "ref": "19.32.15",
+    "text": "yaśā ahaṃ nimiṣate pratikhyātre yaśā aham | atraimi tad yaśā aham uta tatra yaśā aham ||"
+  },
+  {
+    "id": "p-64e1c5",
+    "ref": "19.32.16",
+    "text": "asmai ca sarvasmai bhūtāya sarvasmai ca vipaśyate | sarvasmā id ahaṃ yaśāḥ ||"
+  },
+  {
+    "id": "p-65e1c6",
+    "ref": "19.32.17",
+    "text": "apottudāporṇuhi yadīdam asti vā na vā | vyandhyaṃ vyalguṇaṃ cakṣur akṣībhyāṃ kṛdhi ||"
+  },
+  {
+    "id": "p-56e1af",
+    "ref": "19.32.18",
+    "text": "aṅgaṃ hiraṇyayaṃ kṛtvā laṅgalāṣam armaṃ ca | tad devā apa lumpata ||"
+  },
+  {
+    "id": "p-57e1b0",
+    "ref": "19.32.19",
+    "text": "cakṣuṣman me mano astu cakṣuṣmad dhṛdayaṃ mama | cakṣuṣmac cittam astu me cakṣuś cakṣuṣmad astu me cakṣur ā dhehi me 'kṣyoḥ ||"
+  },
+  {
+    "id": "p-cba52f",
+    "ref": "19.33.1",
+    "text": "somo rājā savitā ca rājā bhavo rājā bhuvanaṃ ca rājā | śarvo rājā śarma ca rājā ta u naḥ śarma yacchantu devāḥ ||"
+  },
+  {
+    "id": "p-cca531",
+    "ref": "19.33.2",
+    "text": "ādityair no bṛhaspatir bhagaḥ somena naḥ saha | viśve devā urv antarikṣaṃ ta u naḥ śarma yacchantu devāḥ ||"
+  },
+  {
+    "id": "p-cda532",
+    "ref": "19.33.3",
+    "text": "utāviddhāṃ niṣkhidata- -atho śrathnīthāyatām | mā no viśve devā maruto hetim asthata ||"
+  },
+  {
+    "id": "p-c6a527",
+    "ref": "19.33.4",
+    "text": "apām idaṃ nyayanaṃ samudrasya niveśanam | madhye hradasya no gṛhāḥ parācīnā mukhā kṛdhi ||"
+  },
+  {
+    "id": "p-c7a529",
+    "ref": "19.33.5",
+    "text": "āyane te parāyaṇe dūrvā rohatu puṣpiṇī | utso vātra jāyatāṃ hrado vā puṇḍarīkavān ||"
+  },
+  {
+    "id": "p-c8a52a",
+    "ref": "19.33.6",
+    "text": "himasya tvā jarāyuṇā śāle pari vyayāmasi | śītahradāya no bhuvo 'gnir dadātu bheṣajam ||"
+  },
+  {
+    "id": "p-c9a52c",
+    "ref": "19.33.7",
+    "text": "ayaṃ darbho vimanyukaḥ svāya cāraṇāya ca | manyor vimanyuko manyuśamano astu te ||"
+  },
+  {
+    "id": "p-c2a521",
+    "ref": "19.33.8",
+    "text": "ayaṃ yo bhūrimūlaḥ samudram avagacchati | darbhaḥ pṛthivyāṃ niṣṭhitaḥ sa te astu vimanyukaḥ ||"
+  },
+  {
+    "id": "p-c3a523",
+    "ref": "19.33.9",
+    "text": "vi te hanavyāṃ śaraṇiṃ vi te mukhyāṃ nayāmasi | yathāvaśo na vādiṣo mama cittam upāsāsai ||"
+  },
+  {
+    "id": "p-1c09d1",
+    "ref": "19.33.10",
+    "text": "yebhiḥ pāśaiḥ parivitto vibaddhaḥ parauparāv ārpito aṅgeaṅge | vi te cṛtyantāṃ vicṛto hi santi bhrūṇaghni pūsan duritāni mṛṣṭām ||"
+  },
+  {
+    "id": "p-1b09cf",
+    "ref": "19.33.11",
+    "text": "trite devā amṛjataina etat trita enan manuṣyeṣv amṛṣṭa | tato yadi tvā madhye na ārat tad ahaṃ tvad brahmaṇāpā karomi ||"
+  },
+  {
+    "id": "p-1a09ce",
+    "ref": "19.33.12",
+    "text": "marīcīr dhūmaṃ pra viśānu vātam udārān gacchota vā nīhāram | nadīnāṃ phenam anu tad vi naśyatu bhrūṇaghni pūṣan duritāni mṛṣṭām ||"
+  },
+  {
+    "id": "p-1909cc",
+    "ref": "19.33.13",
+    "text": "agne rakṣaḥ prati daha yat kumbhyābhir ābhṛtam | anādhṛṣyaḥ sa yāsyaty abhūj jīvātave ayam ||"
+  },
+  {
+    "id": "p-1809cb",
+    "ref": "19.33.14",
+    "text": "yan nakhavad yac chaphavat prasūmat kiṃ ca puṣpavat | urvā matsyo madhūlakaṃ tasya pāsyaty ayam anāsrāvam arogaṇam ||"
+  },
+  {
+    "id": "p-1709c9",
+    "ref": "19.33.15",
+    "text": "yāḥ samudrāt prasravanti devīr himavatas pari | āpo yā viśvaśambhuvas tā ihā yantu bheṣajīḥ ||"
+  },
+  {
+    "id": "p-2fc278",
+    "ref": "19.34.1",
+    "text": "tvacāpidhāne subhage datparistaraṇe kave | ekām iva vraje gāṃ pari tvā varcasāsicam ||"
+  },
+  {
+    "id": "p-2ec277",
+    "ref": "19.34.2",
+    "text": "agreṇīr iva haṃsānāṃ prapaśyantī puras patham | jihve mā vivyatho mā yathāpūrvaṃ tvaṃ vada ||"
+  },
+  {
+    "id": "p-2dc275",
+    "ref": "19.34.3",
+    "text": "varcasvad aham udyāsaṃ brahmarājanyābhyāṃ śudrāya cāryāya ca | yasmai ca kāmayāmahe sarvasmai ca vipaśyate ||"
+  },
+  {
+    "id": "p-2cc274",
+    "ref": "19.34.4",
+    "text": "arvāñcau pādau pra hara- -arvācīnaṃ manas tava | arvācīnasya te ataḥ parāṅ manyuṃ ni vartatām ||"
+  },
+  {
+    "id": "p-2bc272",
+    "ref": "19.34.5",
+    "text": "chāgalāde bhagavo 'rvāg jyote parastamaḥ | ā tvā khalajñakād asmāt punar ā vartayāmasi ||"
+  },
+  {
+    "id": "p-2ac270",
+    "ref": "19.34.6",
+    "text": "yathā vrīhīn vrīhikhale samākurvanti tūlibhiḥ | evā te viṣṭhitaṃ manaḥ sam ā karomi mām abhi ||"
+  },
+  {
+    "id": "p-29c26f",
+    "ref": "19.34.7",
+    "text": "tvam uttamaṃ surabhiṣāṃ mādhyamaṃ vahator asi | tvayā vadhūr vi jaṅgahe taṃ tvā varcasa ā dade ||"
+  },
+  {
+    "id": "p-28c26d",
+    "ref": "19.34.8",
+    "text": "mūrdhnas te mūrdhanyebhyo 'gruvaḥ pativittyāḥ | aukṣaṃ śīrṣata ā dade ||"
+  },
+  {
+    "id": "p-27c26c",
+    "ref": "19.34.9",
+    "text": "yaś ca svādmā te aṅgeṣu yaḥ premā hṛdaye ca te | taṃ tvad ā veśayāmahe mayi bhrājāti dīdyat ||"
+  },
+  {
+    "id": "p-b923c1",
+    "ref": "19.34.10",
+    "text": "vātaraṃhā vājin bhava yujyamāna indrasya yāhi prasave manojavāḥ | yuñjantu tvā maruto daivyāsa ā te tvaṣṭā patsu javaṃ dadhātu ||"
+  },
+  {
+    "id": "p-ba23c2",
+    "ref": "19.34.11",
+    "text": "javas te arvan nihito guhā yaḥ śyene carati yaś ca vāte | tena tvaṃ vājin balavān balena- -ājiñ jaya samane pārayiṣṇuḥ ||"
+  },
+  {
+    "id": "p-b723be",
+    "ref": "19.34.12",
+    "text": "āsīyāne 'dhi manasa āsīyāne 'dhi cakṣuṣaḥ | āsīyānasya vātād bhūtvā- -ājiñ jaya samane pārayiṣṇuḥ ||"
+  },
+  {
+    "id": "p-b823bf",
+    "ref": "19.34.13",
+    "text": "tanūs te vājin tanvaṃ vahantī vāmam asmabhyaṃ dhātu śarma tubhyam | ahruto maho dharuṇāya devā divyam iva jyotiḥ svar ānamīyāḥ ||"
+  },
+  {
+    "id": "p-bd23c7",
+    "ref": "19.34.14",
+    "text": "indro mā vakṣad akṣataṃ vṛtrahā yo vṛtañjayaḥ | sa me rathaṃ sa sārathiṃ so aśvān sādhu me nayāt ||"
+  },
+  {
+    "id": "p-be23c9",
+    "ref": "19.34.15",
+    "text": "indro mā tena nayatu panthā yo abhayaḥ sugaḥ | dakṣiṇā pārayāti mā mā riṣaṃ samare yudhām ||"
+  },
+  {
+    "id": "p-bb23c4",
+    "ref": "19.34.16",
+    "text": "hṛtsuke pari ṇo nama pārigaṃ tanve kṛdhi | yuyuta parṇinaṃ śaram utāparṇaṃ riśād iti ||"
+  },
+  {
+    "id": "p-aae5e4",
+    "ref": "19.35.1",
+    "text": "viśve devā idaṃ havir ādityāsaḥ saparyata | asmin yajñe mā vyathiṣy amṛtāya haviṣ kṛtam ||"
+  },
+  {
+    "id": "p-a7e5df",
+    "ref": "19.35.2",
+    "text": "avyasaś ca vyacasaś ca bilaṃ vi ṣyāmi māyayā | tābhyām udbhṛtya vedam atha karmāṇi kṛṇmahe ||"
+  },
+  {
+    "id": "p-a8e5e1",
+    "ref": "19.35.3",
+    "text": "yasmāt kośād udabharāma vedaṃ tasminn antar ava dadhma enam | kṛtam iṣṭaṃ brahmaṇo vīryeṇa tena mā devās tapasāvateha ||"
+  },
+  {
+    "id": "p-ade5e9",
+    "ref": "19.35.4",
+    "text": "vaiśvānaro ajījanad agnir no navyāṃ sumatim | kṣmayā vṛdhāna ojasā ||"
+  },
+  {
+    "id": "p-aee5ea",
+    "ref": "19.35.5",
+    "text": "sa naḥ pāvaka dīhihy agne vaiśvānara dyumat | jamadagnibhir āhutaḥ ||"
+  },
+  {
+    "id": "p-abe5e6",
+    "ref": "19.35.6",
+    "text": "divas pṛṣṭho arocathā agnir vaiśvānaro bṛhan | jyotiṣā bādhate tamaḥ ||"
+  },
+  {
+    "id": "p-ace5e7",
+    "ref": "19.35.7",
+    "text": "hariṇasya patatriṇaḥ śīrṣṇo bheṣajam ābhṛtam | tan nīlavad vi lokavat tad u kṣetriyanāśanam ||"
+  },
+  {
+    "id": "p-b1e5ef",
+    "ref": "19.35.8",
+    "text": "anvamaṃstānumatir anvaṃaṃsta vṛṣāyaveḥ | kīnāśā anvamaṃsata- -anu gāvo amaṃsata ||"
+  },
+  {
+    "id": "p-b2e5f1",
+    "ref": "19.35.9",
+    "text": "namo astv āyāmibhyo nīvibhyo hṛdayāya ca | namaḥ kṣetrasya pataye namaḥ kṣetrasya patnyai ||"
+  },
+  {
+    "id": "p-b0e6f6",
+    "ref": "19.35.10",
+    "text": "ut te hārdiṃ śocayāmi hastenābhimarīmṛśat | keśin vṛṣaṇyayā tava muṣkau mūrdhā na śuṣyatām ||"
+  },
+  {
+    "id": "p-afe6f4",
+    "ref": "19.35.11",
+    "text": "agniṣ ṭvā tapatu sūryas tvā tapatu vātas tvā yuṅktāṃ marutaś ca yuñjatām | mṛgān marīcīr apy etu te manaḥ ||"
+  },
+  {
+    "id": "p-b2e6f9",
+    "ref": "19.35.12",
+    "text": "ut tvā hanmi nipadanād ut tvā hanmi gṛhebhyaḥ | mā spṛkṣathā niṣadanāya sādhava ut tiṣṭha prehi sabhām ||"
+  },
+  {
+    "id": "p-b1e6f7",
+    "ref": "19.35.13",
+    "text": "ut tuda śimidāvaty atho ulkāvatīṃ kuru | patye ca śvaśurāya ca ||"
+  },
+  {
+    "id": "p-b4e6fc",
+    "ref": "19.35.14",
+    "text": "vibarhaṃ harāṃsayo rasaṃ jñānam ati bhruvoḥ | sākam ṛṣe vi nāśaya ||"
+  },
+  {
+    "id": "p-b3e6fa",
+    "ref": "19.35.15",
+    "text": "sākaṃ vātasya dhrājyā sākaṃ sūryasya raśmibhiḥ | sākaṃ sūryeṇodyatā sapatnīṃ nāśayāmasi ||"
+  },
+  {
+    "id": "p-85c13d",
+    "ref": "19.36.1",
+    "text": "dīrghajihvā bṛhadvāco yābhir ārdrāṇi vāsāṃsi | gāvo ghṛtasya mātaro divi bheṣajam akrata ||"
+  },
+  {
+    "id": "p-88c141",
+    "ref": "19.36.2",
+    "text": "arjunīnām apacitāṃ kṛṣṇā māteti susrava | muner devasya mūlena sarvāś chinadmi tā aham ||"
+  },
+  {
+    "id": "p-87c140",
+    "ref": "19.36.3",
+    "text": "chinadmy āsāṃ prathamāṃ chinadmy uta madhyamām | atho jaghanyām āsām ā chinadmi stukām iva ||"
+  },
+  {
+    "id": "p-82c138",
+    "ref": "19.36.4",
+    "text": "apehi manasas pate kim aśastāni śaṃsasi | parehi na tvā kāmaye vṛkṣān vanāni saṃ cara ||"
+  },
+  {
+    "id": "p-81c136",
+    "ref": "19.36.5",
+    "text": "avaśasā niḥśasā yat parāśasā- -upārima yaj jāgrato yat svapantaḥ | agnir viśvāny apa duṣkṛtāny ajuṣṭāny āre asmad dadhātu ||"
+  },
+  {
+    "id": "p-84c13b",
+    "ref": "19.36.6",
+    "text": "yad indra brahmaṇaspata uta mṛṣā carāmasi | pracetā na āṅgiraso dviṣatas pātu tebhyaḥ ||"
+  },
+  {
+    "id": "p-83c139",
+    "ref": "19.36.7",
+    "text": "eha mām uttaraṃ kṛdhi sahasva pṛtanāyataḥ | vy asmat kṛtyā vy asmac chapathām̐ aja ||"
+  },
+  {
+    "id": "p-7ec132",
+    "ref": "19.36.8",
+    "text": "yo no dudhūrṣān manasā yaś ca pāpena nobhyamāt | ākūtiṃ tasya devā hṛdaś cittāni vi ṣyata ||"
+  },
+  {
+    "id": "p-7dc130",
+    "ref": "19.36.9",
+    "text": "aśva iva dhuri duryogaḥ pratīhāya vahe daśa | kṛtvānaṃ brahmaṇaspate daṃṣṭrābhyām abhi saṃ jahi ||"
+  },
+  {
+    "id": "p-a33326",
+    "ref": "19.36.10",
+    "text": "yo 'nyā adhi prājāyathā mūrdhno 'dhy ud avardhatāḥ | tvaṃ sapatnacātano bhrātṛvyām̐ ava dhūnuṣva ||"
+  },
+  {
+    "id": "p-a43328",
+    "ref": "19.36.11",
+    "text": "bahur ayaṃ saṃgaruṣṭo nyakto bhūmyām adhi | tenāham asya kartsyāmi yathā sthāmā gamiṣyati ||"
+  },
+  {
+    "id": "p-a53329",
+    "ref": "19.36.12",
+    "text": "sthāmāgan bṛhad akṣatraḥ sthāmantākṣṇiṇo 'va syati | antaṣṭhānasya yo rājā sa utthāma gamiṣyati ||"
+  },
+  {
+    "id": "p-a6332b",
+    "ref": "19.36.13",
+    "text": "agamad rājā sadanam agamat sūryo divam | udayan vṛtrahan plīhā aṅgarājo avīrahā ||"
+  },
+  {
+    "id": "p-9f3320",
+    "ref": "19.36.14",
+    "text": "yathā panthāṃ kavāpatho apyeti mahāpatham | evā tvaṃ plīhan naḥ plīhi yato 'sy abhyāgataḥ ||"
+  },
+  {
+    "id": "p-a03321",
+    "ref": "19.36.15",
+    "text": "indreṇa dattaṃ balam āsurābhyāṃ śitaṅgaitac chālvatāyai ca tubhyam | tau nudethāṃ kaṇvā aśivā ajuṣṭā adhā gṛhāṇāṃ gṛhapā tvam eṣām ||"
+  },
+  {
+    "id": "p-a13323",
+    "ref": "19.36.16",
+    "text": "tvam agne gṛhapatir gṛhāṇāṃ tvaṃ prajānāṃ janitāsi dātā | tvaṃ nudasva kaṇvā aśivā ajuṣṭā sadānvā nirataḥ seda pāpīḥ ||"
+  },
+  {
+    "id": "p-a23324",
+    "ref": "19.36.17",
+    "text": "carmābhyaḥ krūram ānahya hariṇasya bhiyaṃ kṛdhi | mṛgām̐ anu pra pātaya marīcīr anu nāśaya ||"
+  },
+  {
+    "id": "p-ab3333",
+    "ref": "19.36.18",
+    "text": "yady asy apsarāvīr yadi tvā rakṣo agrabhīt | tasmā apaplavaṃ havir manasā juhomi te ||"
+  },
+  {
+    "id": "p-fff726",
+    "ref": "19.37.1",
+    "text": "abhi tvā śatapāśayā- -atho sahasrapāśayā | dāśo matsyam iva tīdena mayi badhnāmi te manaḥ ||"
+  },
+  {
+    "id": "p-00f727",
+    "ref": "19.37.2",
+    "text": "ā hi te dakṣiṇaṃ padaṃ hṛdayyaṃ dade | upasthe padamopi ni tvām akri sve vaśe ||"
+  },
+  {
+    "id": "p-01f729",
+    "ref": "19.37.3",
+    "text": "pari tvā gām ivāsaraṃ mama patto nipattave | tan mārutaṃ ha vairudham āvataṃkaraṇaṃ kṛtam ||"
+  },
+  {
+    "id": "p-02f72b",
+    "ref": "19.37.4",
+    "text": "ā nayāmi te mano aśvam ivāśvābhidhānyā | upa te muñce manaḥ pador upānahau yathā ||"
+  },
+  {
+    "id": "p-03f72c",
+    "ref": "19.37.5",
+    "text": "yathā surā yathā madhu yathākṣā adhidevane | yathā ha gavyato mana evā mām abhi te manaḥ ||"
+  },
+  {
+    "id": "p-04f72e",
+    "ref": "19.37.6",
+    "text": "evā kṛṇuṣva mā priyām antaḥ kṛṇuṣva mā hṛdi | yathā mannāpacetayā nānyāsāṃ kīrtayāś cana ||"
+  },
+  {
+    "id": "p-05f72f",
+    "ref": "19.37.7",
+    "text": "yasyedaṃ vaiṣṭapaṃ havir bhagasya hastayor hitam | tenā tvābhi mṛśāmasi saubhāgyāya svastaye ||"
+  },
+  {
+    "id": "p-06f731",
+    "ref": "19.37.8",
+    "text": "bhaga memāṃ saṃ baṭ karo mā paścān mā paro daghaḥ | adhā bhagasya yo bhagas tenemāṃ saṃ sṛjā bhaga ||"
+  },
+  {
+    "id": "p-07f732",
+    "ref": "19.37.9",
+    "text": "bhagena tvā saṃ sṛjāmi māsureṇa surām iva | yathāsasi priyā patyur devṛbhyaḥ subhagāsasi ||"
+  },
+  {
+    "id": "p-451154",
+    "ref": "19.37.10",
+    "text": "ud ito daivyaṃ vaca iṣum iva tunnaḥ khide | tenā sapatnān māmakān sāsahāni jahāni ca ||"
+  },
+  {
+    "id": "p-441153",
+    "ref": "19.37.11",
+    "text": "agnir mā pātu vasubhiḥ purastāt savitādityair abhi pātu dakṣiṇāt | indro marudbhir abhi pātu paścād viśve devā abhi rakṣantu mottarāt ||"
+  },
+  {
+    "id": "p-431151",
+    "ref": "19.37.12",
+    "text": "devarakṣasān mā pāhi manuṣyarakṣasān mā pāhi | viśvasmān mā rakṣasas pāhi ||"
+  },
+  {
+    "id": "p-42114f",
+    "ref": "19.37.13",
+    "text": "asau yas trikakud giriḥ śṛṅgābhyām abhitiṣṭhati | sa saṃpatatram udyugaṃ balāsam iva tiṣṭhatu ||"
+  },
+  {
+    "id": "p-49115a",
+    "ref": "19.37.14",
+    "text": "divyaḥ suparṇa ā patad ayodaṃṣṭro ayomukhaḥ | sa saṃpatatram udyugam ito yakṣmaṃ parā bhavat ||"
+  },
+  {
+    "id": "p-481159",
+    "ref": "19.37.15",
+    "text": "sākaṃ balāsa pra pata cāṣeṇa kikidīvyā | sākaṃ vātasya dhrājyā saha naśya nihākayā ||"
+  },
+  {
+    "id": "p-e413a5",
+    "ref": "19.38.1",
+    "text": "mābhi gāyaḥ śābaleyaṃ śauṇeyaṃ sādhuvāhinam | namas te bhadrayā kṛṇmo 'vihvṛtā cakṣuṣā tvaṃ śamakā śamayāti tvā ||"
+  },
+  {
+    "id": "p-e313a4",
+    "ref": "19.38.2",
+    "text": "tṛndhi vi kṣiṇīhi peśaḥ kurvāṇikā tvam | jāreṇa patyā jakṣatī gṛhān gopāyamānikā śamakā śamayāti tvā ||"
+  },
+  {
+    "id": "p-e213a2",
+    "ref": "19.38.3",
+    "text": "āṅkṣvābhyaṅkṣva- -abhyaktā śamanaṃ gamaḥ | atho pitṛbhyo gā iccha vijñānena bhagena ca śamakā śamayāti tvā ||"
+  },
+  {
+    "id": "p-e913ad",
+    "ref": "19.38.4",
+    "text": "apehi manasas pāpa- -apa krāma parastaram | paro nirṛtyā ā cakṣur bahutrā jīvato manaḥ ||"
+  },
+  {
+    "id": "p-e813ac",
+    "ref": "19.38.5",
+    "text": "bhadraṃ vai varaṃ vṛṇate bhadraṃ yuñjanti dakṣiṇam | bhadraṃ vaivasvataṃ cakṣur bahutrā jīvato manaḥ ||"
+  },
+  {
+    "id": "p-e713aa",
+    "ref": "19.38.6",
+    "text": "yan me chidraṃ manaso yac ca vācaḥ sarasvatīṃ manyucittaṃ jagāma | viśvais tad devaiḥ saha saṃvidānaḥ saṃ dadhātu bṛhaspatiḥ ||"
+  },
+  {
+    "id": "p-e613a9",
+    "ref": "19.38.7",
+    "text": "sphirā sphirataraṃ sphirā āttāraḥ | śatahasta samāhara sahasrahasta saṃ kira ||"
+  },
+  {
+    "id": "p-ed13b4",
+    "ref": "19.38.8",
+    "text": "ihaivā kira saṃ kira- -ihaiva sphātim asphiram | sphireyam astv oṣadhiḥ samudrasyeva saṃsravaḥ ||"
+  },
+  {
+    "id": "p-ec13b2",
+    "ref": "19.38.9",
+    "text": "ut tirā ā gamann upa- -ut tirāṇyāgaman | vṛṣṭe śāpaṃ nadīr iva- -iha sphātiṃ samāvahān ||"
+  },
+  {
+    "id": "p-e0ee0f",
+    "ref": "19.38.10",
+    "text": "vi mayūkhā ā yacchantu gardabhā iva duryujaḥ | muhyantu sarve tantavo vṛtā nāḍī vitantrike ||"
+  },
+  {
+    "id": "p-e1ee11",
+    "ref": "19.38.11",
+    "text": "pra vām īṣve patatāṃ pra taṭā pra niveṣṭanam | muhyantu sarve tantavo andhe vitatavāyyau ||"
+  },
+  {
+    "id": "p-deee0c",
+    "ref": "19.38.12",
+    "text": "āyavanī niveṣṭanaṃ vratā tasaram īṣve | muhyantu sarve tantavo andhe vitata vāyyau ||"
+  },
+  {
+    "id": "p-dfee0e",
+    "ref": "19.38.13",
+    "text": "mayārakārī prathamā- -ūrṇavābhir atho śakā | devānāṃ patnīḥ kṛttikā imaṃ tantum amūmuhan ||"
+  },
+  {
+    "id": "p-dcee09",
+    "ref": "19.38.14",
+    "text": "agnir na etu prathamaḥ puraetā bṛhaspatiḥ | adhā bhaga pra ṇo yaccha tvaṃ hi dhanadā asi ||"
+  },
+  {
+    "id": "p-ddee0b",
+    "ref": "19.38.15",
+    "text": "pra ṇaḥ śūdra utāryaḥ pra ṇo rājota vṛtrahā | atho yat sarvam ātmanvat pra ṇo yacchatu dakṣiṇām ||"
+  },
+  {
+    "id": "p-daee06",
+    "ref": "19.38.16",
+    "text": "kavir yajñasya vi tanoṣi panthām ṛtasya pṛṣṭhe adhi dīdhyānaḥ | yena havyaṃ vahasi deva dūta itaḥ pracetā amuto vanīyān ||"
+  },
+  {
+    "id": "p-dbee08",
+    "ref": "19.38.17",
+    "text": "madhuhasto madhujihvo madhuvarṇo madhuvrataḥ | atho madhupraśāsano bhago mā varcasāvatu ||"
+  },
+  {
+    "id": "p-fe98a9",
+    "ref": "19.39.1",
+    "text": "yā triṣaptaiḥ punar eti nānā rūpāṇi bibhratī | vācaspatir balā tasyā āre hetiṃ dadhātu mat ||"
+  },
+  {
+    "id": "p-fb98a5",
+    "ref": "19.39.2",
+    "text": "vācā nuttā kṛtyād indravatī jāgratā svapatī kṛtā | nuttā pākasya śaṃsena pratyak kartāram ṛcchatu ||"
+  },
+  {
+    "id": "p-fc98a6",
+    "ref": "19.39.3",
+    "text": "yad etad bhūri spardhase kṛtyāsmīti manyase | pratīcīnā paretya viṣād iva viṣamad dhataḥ ||"
+  },
+  {
+    "id": "p-f998a2",
+    "ref": "19.39.4",
+    "text": "pareṇaitv aghaśaṃso mainena sam arāmahi | dyauś cāsmān pṛthivī ca- -ubhe pātām aṃhasaḥ ||"
+  },
+  {
+    "id": "p-fa98a3",
+    "ref": "19.39.5",
+    "text": "yava yāvayāsmad dveṣāṃsi yavamayena haviṣā | durhārde cakruṣe kṛtyāṃ grīvāsu prati muñcatam ||"
+  },
+  {
+    "id": "p-f7989e",
+    "ref": "19.39.6",
+    "text": "anyā vo anyām avatv anyānyasyā upāvata | aśvā iva pravalgantīḥ kṛtyāṃ hatauṣadhayo 'rātiṃ hatauṣadhayaḥ ||"
+  },
+  {
+    "id": "p-f898a0",
+    "ref": "19.39.7",
+    "text": "mehopa gā mopa raṃsthāḥ pathāṃ durgāṇy anv ihi | sapatni naśyatād ito dūraṃ gacchādhy okasaḥ ||"
+  },
+  {
+    "id": "p-0598b4",
+    "ref": "19.39.8",
+    "text": "yasyās te nāma gṛhnāmi yasminn āramasecane | ā parasyāḥ parāvataḥ sapatnīṃ nāśayāmasi ||"
+  },
+  {
+    "id": "p-0698b6",
+    "ref": "19.39.9",
+    "text": "triṃśataṃ trīṃś ca parvatāṃś caturaś ca girīn ati | sapatnīṃ brahmaṇaspate paro bhrūṇāny arpayā ||"
+  },
+  {
+    "id": "p-9f535a",
+    "ref": "19.39.10",
+    "text": "un mādayata marutaḥ samudriyā ud dyāvāpṛthivī ubhe | ut tvā samudra ṛṣantu- -ut tvām agnir ayaṃ dahāt ||"
+  },
+  {
+    "id": "p-9e5358",
+    "ref": "19.39.11",
+    "text": "yat sapatnī sapatnyā amuṣyā varca ādade | adhastād upavādiny asau syād aham uttarāt ||"
+  },
+  {
+    "id": "p-a1535d",
+    "ref": "19.39.12",
+    "text": "ā te badhnāmy oṣadhiṃ sapatnībhyaḥ pracātanīm | yathā te 'sad ayaṃ patiḥ putrāṇāṃ te bhavat pitā ||"
+  },
+  {
+    "id": "p-a0535b",
+    "ref": "19.39.13",
+    "text": "yāny ṛṇāny anuvartāny asmin yamasya yena balinā carāmi | idaṃ tad agne anṛṇo bhavāmi- -idaṃ tad agne avadānam astu ||"
+  },
+  {
+    "id": "p-9b5354",
+    "ref": "19.39.14",
+    "text": "yās te sapta pravato yā u tisro yās te santi nivato yā abhīvataḥ | arvāvato aṣṭadhā trīṇi rocanā tās te agne saṃmanaso bhavantu jānan yamāya ni vahā kusīdam ||"
+  },
+  {
+    "id": "p-9a5352",
+    "ref": "19.39.15",
+    "text": "yās ta ūrdhvās tanvo jātavedo yās tiraścīr uta yā anūcīḥ | tābhiṣ ṭvam agne sayujā gṛṇāno jānan yamāya ni vahā kusīdam ||"
+  },
+  {
+    "id": "p-b431ab",
+    "ref": "19.40.1",
+    "text": "nāśaya palitaṃ śīrṣṇo yaḥ kṛṣṇas tan na ā bhara | tam oṣadhe tvaṃ vardhaya keśaṃ kṛṣṇataraṃ kṛdhi ||"
+  },
+  {
+    "id": "p-b131a6",
+    "ref": "19.40.2",
+    "text": "yathāñjanaṃ tathāsasi yathā traikakudaṃ tathā | tat saṃbhavāt tat sabhas te vyucchantīr anūṣasaḥ ||"
+  },
+  {
+    "id": "p-b231a8",
+    "ref": "19.40.3",
+    "text": "yatrāsti yatra tiṣṭhati yato naśyatvāsinam | divyaḥ suparṇo abravīd etat palitabheṣajam ||"
+  },
+  {
+    "id": "p-b731b0",
+    "ref": "19.40.4",
+    "text": "divo nu mā bṛhato antarikṣād apāṃ stoko abhy apaptad rasāya | sam indriyeṇa payasā ham agne ṛṣīṇāṃ yajñaiḥ sukṛtāṃ kṛtena ||"
+  },
+  {
+    "id": "p-b831b1",
+    "ref": "19.40.5",
+    "text": "yadi vṛkṣād abhy apaptat phalaṃ tad yady antarikṣāt tad u vāyur eva | yatrāspṛṣṭa tanvo yatra vāsaso na tat prāpnoti nirṛtiḥ parastāt ||"
+  },
+  {
+    "id": "p-b531ad",
+    "ref": "19.40.6",
+    "text": "abhyañjanaṃ surabhyād u vāsaś candraṃ hiraṇyam adhi pūtrimaṃ yat | sarvā pavitrā vitatādhy asmiṃc chataṃ jīvāti śaradas tavāyam ||"
+  },
+  {
+    "id": "p-b631ae",
+    "ref": "19.40.7",
+    "text": "yaḥ kīkasāḥ praśṛṇāti talīḍyam upatiṣṭhati | parāsthaṃ sarvaṃ jāyānyaṃ yaḥ kaś ca kakubhi śritaḥ ||"
+  },
+  {
+    "id": "p-bb31b6",
+    "ref": "19.40.8",
+    "text": "pakṣī jāyānyaḥ patati ya āviśati pūruṣam | tasyāhaṃ veda te nāma yato jāyānya jāyase ||"
+  },
+  {
+    "id": "p-bc31b8",
+    "ref": "19.40.9",
+    "text": "veda vai te nāma yato jāyānya jāyase | kathaṃ hi tatra tvaṃ hanyā yat kuryām ahaṃ haviḥ ||"
+  },
+  {
+    "id": "p-53313b",
+    "ref": "19.40.10",
+    "text": "ya āsyaṃ praviśati karoty udaraṃ mahat | yakṣmo yo atra jāyase taṃ jāyānyam anīnaśam ||"
+  },
+  {
+    "id": "p-523139",
+    "ref": "19.40.11",
+    "text": "ārohān me mukhaṃ jātam ārohāj jaghanaṃ mama | ārohāt sarvā jātāsmy ṛṣabhasyopayodhanāt ||"
+  },
+  {
+    "id": "p-55313e",
+    "ref": "19.40.12",
+    "text": "svādīyasī surāyā lavaṇāc cārumattarā | gobhyo vanīyasīd aham ||"
+  },
+  {
+    "id": "p-54313c",
+    "ref": "19.40.13",
+    "text": "yāṃ tvā vāto 'vārayad ārdranābhā maharṣabhaḥ | tasyās te devi pṛthivyā ahaṃ saṃvananaṃ dada ā te śauṣkāsyaṃ dade ||"
+  },
+  {
+    "id": "p-573141",
+    "ref": "19.40.14",
+    "text": "yuktau manasā saṃ suretasā devebhyo havyaṃ kṛṇavāva sādhu | yeṣāṃ bhāgas ta idaṃ juṣantām avikṣubdhāv udayāva bhadrayā ||"
+  },
+  {
+    "id": "p-56313f",
+    "ref": "19.40.15",
+    "text": "yena devā jyotiṣā dyām udāyan yenādityā vasavo yena rudrāḥ | yenāṅgirasaḥ svar āruruhus tenod ayāva yajamānau svasti ||"
+  },
+  {
+    "id": "p-593144",
+    "ref": "19.40.16",
+    "text": "yaṃ papācāditiḥ putrakāmā yena prajāḥ kaśyapaḥ paryagṛhnāt | ya odanaḥ pacyate vaiśvadevaḥ sa no yame akṣito bhāgo astu ||"
+  },
+  {
+    "id": "p-390e3f",
+    "ref": "19.41.1",
+    "text": "somasya prāṇaḥ pavate purastād dakṣiṇata aindra ā vātu vātaḥ | asya diśo māturo yā pratīcī sa no devāḥ śivo astv iha vātaḥ ||"
+  },
+  {
+    "id": "p-380e3e",
+    "ref": "19.41.2",
+    "text": "mitrasya prāṇaḥ pavate ya uttarād bṛhaspater ūrdhva ud vātu vātaḥ | yo antarikṣam anu vāti vidvān sa no devaḥ śivo astv iha vātaḥ ||"
+  },
+  {
+    "id": "p-370e3c",
+    "ref": "19.41.3",
+    "text": "ya uttarāt pavate yaḥ purastād yo dakṣiṇāt pavate yaś ca paścāt | ūrdhvām̐ uddeśām̐ anu yaḥ pravāti sa no devaḥ śivo astv iha vātaḥ ||"
+  },
+  {
+    "id": "p-360e3b",
+    "ref": "19.41.4",
+    "text": "trīṇy antarikṣāṇy anu vāsi vāta tisro vāsi parāvataḥ | sahasrākṣau vṛtrahā pāhy arvāṅ vinudaṃ kṣetriyaṃ rapaḥ ||"
+  },
+  {
+    "id": "p-350e39",
+    "ref": "19.41.5",
+    "text": "na tatra dāraḥ kṛpaṇaṃ sasāra na pratighnānā rudatī na bibhratī | indro no yatrorukṛd vicakṣaṇaḥ sa no *'jyāni mahatīṃ ni yacchāt ||"
+  },
+  {
+    "id": "p-340e37",
+    "ref": "19.41.6",
+    "text": "indraḥ senāṃ mohayatu maruto ghnantv ojasā | agner vātasya dhrājyā tān viṣūco vi nāśaya ||"
+  },
+  {
+    "id": "p-330e36",
+    "ref": "19.41.7",
+    "text": "na dyaur eṣāṃ na pṛthivī nāditir na dhanaṃjayā | cakṣūṃṣy agnir ā dhattāṃ punar yantu parājitāḥ ||"
+  },
+  {
+    "id": "p-320e34",
+    "ref": "19.41.8",
+    "text": "amitrāṇāṃ daraya grāmam indra yo naḥ śatrur abhyeti jighāṃsan | yathaiṣām indranuttānām agninā veśo anu vartayāni me ||"
+  },
+  {
+    "id": "p-310e33",
+    "ref": "19.41.9",
+    "text": "jihmaṃ yugaṃ kṛṇvatām indranuttāḥ parācīnaiḥ pathibhir yantu riṣyantaḥ | tañ jayanto anv āsadema- -agninā veśo anu vartayantaḥ ||"
+  },
+  {
+    "id": "p-5b6e06",
+    "ref": "19.41.10",
+    "text": "amitrāṇāṃ grāmam upayuktam indreṇa nuttaṃ vi radāty agniḥ | satvānaḥ santv anumādyā ime yebhyaś carāmi haviṣā ghṛtena ||"
+  },
+  {
+    "id": "p-5c6e07",
+    "ref": "19.41.11",
+    "text": "aryamaṇaṃ hi devaṃ bhadraṃ kanyā yam ayakṣata | sa enā vṛtrahā deva ito muñcātu māmutaḥ ||"
+  },
+  {
+    "id": "p-596e03",
+    "ref": "19.41.12",
+    "text": "iyaṃ te rājan varuṇa jāmikā kṛṇute haviḥ | tasyai patiṃ ny ā vaha subhadraṃ pratikāmyam ||"
+  },
+  {
+    "id": "p-5a6e04",
+    "ref": "19.41.13",
+    "text": "ā krandaya dhanapate varam āmanasaṃ kṛṇu | sarvaṃ pradakṣiṇaṃ kṛdhi patim asyai pratikāmyam ||"
+  },
+  {
+    "id": "p-5f6e0c",
+    "ref": "19.41.14",
+    "text": "ā paścād ā purastād ottarād adharād uta | pūrṇā bhagasya vartanis tenemām abhi vartayāmasi varcasā ca bhagena ca ||"
+  },
+  {
+    "id": "p-606e0e",
+    "ref": "19.41.15",
+    "text": "nāsṛg asti pataṅgasya tardasya maśakadyāḥ | na saṃpatatram udyugo nyag glaur atra bhaviṣyati ||"
+  },
+  {
+    "id": "p-5d6e09",
+    "ref": "19.41.16",
+    "text": "apadasvad apādasat tuṇḍivyadhmāpādasat | apāpacid ito 'dasad apeto glaur naśiṣyaty apivyadhman naśiṣyati ||"
+  },
+  {
+    "id": "p-5e6e0a",
+    "ref": "19.41.17",
+    "text": "yathā sūryaś candramasam udyann evāpagūhati | evā tvam ugra oṣadha imāṃ glāvam apagūhatād itaḥ ||"
+  },
+  {
+    "id": "p-0942ed",
+    "ref": "19.42.1",
+    "text": "apadasvad apādasat tuṇḍivyadhmāpādasat | apāpacid ito 'dasad apeto glaur naśiṣyaty apivyadhman naśiṣyati ||"
+  },
+  {
+    "id": "p-0a42ee",
+    "ref": "19.42.2",
+    "text": "mā śile mā śilāvati mā te śeṣi śilaṃ cana | yāvac chilasya te śilaṃ tāvac cheṣaḥ śilaṃ tava ||"
+  },
+  {
+    "id": "p-0b42f0",
+    "ref": "19.42.3",
+    "text": "yathā yūpāgrād udakaṃ viniṣṭaṃ bhūmim aśnute | evā tvam arase śile viniṣṭā bhūmim aśnuhi ||"
+  },
+  {
+    "id": "p-0c42f2",
+    "ref": "19.42.4",
+    "text": "vajro 'si sapatnahā tvayādya vṛtraṃ sākṣīya | tvām adya vanaspate vṛkṣāṇām ud ayuṣmahi ||"
+  },
+  {
+    "id": "p-0d42f3",
+    "ref": "19.42.5",
+    "text": "sa na indra purohito viśvatas pāhi rakṣasaḥ | abhi gāvo anūṣata- -abhi dyumnaṃ bṛhaspate ||"
+  },
+  {
+    "id": "p-0e42f5",
+    "ref": "19.42.6",
+    "text": "prāṇa prāṇaṃ trāyasva- -aso asave mṛḍa | nirṛte nirṛtyā naḥ pāśebhyo muñca ||"
+  },
+  {
+    "id": "p-0f42f6",
+    "ref": "19.42.7",
+    "text": "hatsuke pari ṇo nama pārigaṃ tanve kṛdhi | yuyuta parṇinaṃ śaram utāparṇaṃ riśād iti ||"
+  },
+  {
+    "id": "p-1042f8",
+    "ref": "19.42.8",
+    "text": "prajāpatiṣ ṭvā prajayā saṃ putreṇa sṛjatu saṃ bhagena | diṣṭaṃ deṣṭīha kāmo brāhmaṇasya pumāṃsaṃ dhatsva savituḥ savena ||"
+  },
+  {
+    "id": "p-1142f9",
+    "ref": "19.42.9",
+    "text": "pra tvā sarpatv aṅkataḥ kumāraḥ puruṣād adhi | ṛtor yam ṛtviyād adhi yaṃ te dhātā acīkl̥pat ||"
+  },
+  {
+    "id": "p-e75b99",
+    "ref": "19.42.10",
+    "text": "yaṃ te dhātā yaṃ te tvaṣṭā yaṃ te brahmācīkl̥pat | taṃ tvaṃ putraṃ vindasva tasmai tvaṃ jīva jīvase ||"
+  },
+  {
+    "id": "p-e65b98",
+    "ref": "19.42.11",
+    "text": "dhvasrās tiṣṭhanti rajasā samaktā yajñasya hotrāḥ pruśitāso aśnāḥ | āsāṃ somasya yad ihāvayanti tad amūtra yajamānasya rūpam ||"
+  },
+  {
+    "id": "p-e55b96",
+    "ref": "19.42.12",
+    "text": "ye brāhmaṇaṃ varco hitvāya malvā reṇo varṇena paridhāpayanti | āsāṃ somasya yad ihāvayanti tad amūtra yajamānasya rūpam ||"
+  },
+  {
+    "id": "p-e45b94",
+    "ref": "19.42.13",
+    "text": "asārathiḥ sumanaso yathā ratho hitvā savyaṣṭhāṃ rakṣaso yāti yāmam | evā yajño yajamānaṃ jahāti yatra somyaṃ somapīthān nayanti ||"
+  },
+  {
+    "id": "p-eb5b9f",
+    "ref": "19.42.14",
+    "text": "chandāṃsi tad yajamānasya yanti yatra somyaṃ somapīthān nayanti | abrāhmaṇo yat pibati somam asya tad vai chidraṃ dakṣiṇayāpidheyam ||"
+  },
+  {
+    "id": "p-ea5b9e",
+    "ref": "19.42.15",
+    "text": "'bradhno 'si vājī paripānī prathamā devebhyas paryābhṛtā | mā te riṣaṃ khanitā yasmai ca tvā khanāmasi ||"
+  },
+  {
+    "id": "p-e95b9c",
+    "ref": "19.42.16",
+    "text": "mā devāḥ pāpam ārāma mā karta pāpayāmuyā | māhaṃ pariṣyajo hastam ā rapsi dhanakāmyā ||"
+  },
+  {
+    "id": "p-e85b9b",
+    "ref": "19.42.17",
+    "text": "mā mā devāḥ parā dāta mā mā karta vyādhyam | māhaṃ pariṣvajaḥ śira ā rapsi mo ahaṃ mṛṣi ||"
+  },
+  {
+    "id": "p-8f0d04",
+    "ref": "19.43.1",
+    "text": "pratīkaṃ me vicakṣaṇam akṣau me madhukāśinī | karṇābhyāṃ bhūrisusravaḥ ||"
+  },
+  {
+    "id": "p-920d08",
+    "ref": "19.43.2",
+    "text": "jihvā me madhusaṃsrāvā jihvā me madhuvādinī | tayāham adya jihvayā- -udyāsaṃ madhumad vacaḥ ||"
+  },
+  {
+    "id": "p-910d07",
+    "ref": "19.43.3",
+    "text": "yathā madhu madhukṛtaḥ saṃbharanti madhāv adhi | evāham adya chandobhir udyāsaṃ madhumad vacaḥ ||"
+  },
+  {
+    "id": "p-8c0cff",
+    "ref": "19.43.4",
+    "text": "vāyoḥ pūtaḥ pavitreṇa pratyak somo adhiśritaḥ | indrasya yujyaḥ sakhā ||"
+  },
+  {
+    "id": "p-8b0cfd",
+    "ref": "19.43.5",
+    "text": "yat kiñ cedaṃ varuṇa daivye jane abhidrohaṃ manuṣyāś caranti | ati cet tava dharmā yuyopima mā nas tasmād enaso deva rīriṣaḥ ||"
+  },
+  {
+    "id": "p-8e0d02",
+    "ref": "19.43.6",
+    "text": "āpo asmān mātaraḥ sūdayantu ghṛtena no ghṛtapavaḥ punantu | viśvaṃ hi ripraṃ pravahanti devīr ud id ābhyaḥ śucir ā pūta emi ||"
+  },
+  {
+    "id": "p-8d0d00",
+    "ref": "19.43.7",
+    "text": "mitraś ca samrāḍ varuṇaś ca rājā tau te bhakṣaṃ kṛṇutāṃ prātar agne | tayor aham anu bhakṣaṃ kṛṇomi sūryavarcā bhaga bhakto na ā viśa ||"
+  },
+  {
+    "id": "p-880cf9",
+    "ref": "19.43.8",
+    "text": "sūryavarcā na ā viśa viśvavin manasas patiḥ | anehā soma jāgṛvir indraḥ prīta stuto nṛbhiḥ ||"
+  },
+  {
+    "id": "p-870cf7",
+    "ref": "19.43.9",
+    "text": "indra prītasya te vayaṃ śukrasya rocanāvataḥ | bhakṣīmahi prajām iṣaṃ sāhasrasya yaśasvinaḥ ||"
+  },
+  {
+    "id": "p-457d6b",
+    "ref": "19.43.10",
+    "text": "agniḥ prātaḥsavane pātv asmān vaiśvānaraḥ pathikṛd viśvakṛṣṭiḥ | sa naḥ pāvako draviṇe dadhāty āyuṣmantaḥ sahabhakṣāḥ syāma ||"
+  },
+  {
+    "id": "p-467d6d",
+    "ref": "19.43.11",
+    "text": "viśve devā maruta indro asmān asmin dvitīye savane na jahyuḥ | āyuṣmantaḥ priyam eṣāṃ vadanto vayaṃ devānāṃ sumatau syāma ||"
+  },
+  {
+    "id": "p-477d6e",
+    "ref": "19.43.12",
+    "text": "idaṃ tṛtīyaṃ savanaṃ kavīnām ṛtena yac camasaṃ samairayan | saudhanvanā amṛtam ānaśānāḥ sviṣṭin no abhi vasyo nayātha ||"
+  },
+  {
+    "id": "p-487d70",
+    "ref": "19.43.13",
+    "text": "saṃ saṃ sravantu nadyaḥ saṃ vātāḥ saṃ patatriṇaḥ | yajñam imaṃ vardhayatā giraḥ saṃsrāvyeṇa haviṣā juhomi ||"
+  },
+  {
+    "id": "p-417d65",
+    "ref": "19.43.14",
+    "text": "imaṃ homā yajñam avata- -imaṃ saṃsrāvaṇā uta | yajñam imaṃ vardhayatā giraḥ saṃsrāvyeṇa haviṣā juhomi ||"
+  },
+  {
+    "id": "p-427d66",
+    "ref": "19.43.15",
+    "text": "rūpaṃrūpaṃ vayovayaḥ saṃrabhyainaṃ pari ṣvaje | yajñam imaṃ catasraḥ pradiśo vardhayantu saṃsrāvyeṇa haviṣā juhomi ||"
+  },
+  {
+    "id": "p-ffe07e",
+    "ref": "19.44.1",
+    "text": "syūtā devebhir amṛtair na āgann ukhā svasāram adhi me dimasthāt | satyaṃ pūrvā ṛṣayaś cākṛpānā yajñapateḥ su pra tirantv āyuḥ ||"
+  },
+  {
+    "id": "p-fce079",
+    "ref": "19.44.2",
+    "text": "ukhāṃ sravantīm agadām akarma tvaṣṭā vāyuḥ pṛthivy antarikṣam | yata ścutad dhutam agnau tad astu na tat prāpnoti nirṛtiḥ parastāt ||"
+  },
+  {
+    "id": "p-fde07b",
+    "ref": "19.44.3",
+    "text": "antar agnāv aścutat stoka eṣa nainaṃ suvātai nirṛtiḥ parastāt | viśvāvasor haviṣo vāvṛdhāno 'yaṃ yajñaḥ sukṛtām etu lokam ||"
+  },
+  {
+    "id": "p-fae076",
+    "ref": "19.44.4",
+    "text": "śyeno 'si gāyatracchandā anu tvā rabhe svasti mā saṃ pāraya ||"
+  },
+  {
+    "id": "p-fbe078",
+    "ref": "19.44.5",
+    "text": "samrāḍ asi triṣṭupchandā anu tvā rabhe svasti mā saṃ pāraya ||"
+  },
+  {
+    "id": "p-f8e073",
+    "ref": "19.44.6",
+    "text": "svaro 'si gayo 'si jagacchandā anu tvā rabhe svasti mā saṃpāraya ||"
+  },
+  {
+    "id": "p-f9e074",
+    "ref": "19.44.7",
+    "text": "trāyamāṇe sarvavide mā pari dehi | sarvavid dvipāc ca sarvaṃ rakṣa catuṣpād yac ca naḥ svam ||"
+  },
+  {
+    "id": "p-f6e070",
+    "ref": "19.44.8",
+    "text": "sarvavid viśvavide mā pari dehi | viśvavid dvipāc ca sarvaṃ rakṣa catuṣpād yac ca naḥ svam ||"
+  },
+  {
+    "id": "p-f7e071",
+    "ref": "19.44.9",
+    "text": "viśvavit kalyāṇyai mā pari dehi | kalyāṇi dvipāc ca sarvaṃ rakṣa catuṣpād yac ca naḥ svam ||"
+  },
+  {
+    "id": "p-2b66ec",
+    "ref": "19.44.10",
+    "text": "kalyāṇi trāyaṃāṇāyai mā pari dehi | trāyamāṇe dvipāc ca sarvaṃ rakṣa catuṣpād yac ca naḥ svam ||"
+  },
+  {
+    "id": "p-2a66ea",
+    "ref": "19.44.11",
+    "text": "vi khana vi ruja vi jahy atraivānākṛtaś cara | sam aham āyuṣā saṃ mayāyuḥ ||"
+  },
+  {
+    "id": "p-2d66ef",
+    "ref": "19.44.12",
+    "text": "vi khana vi ruja vi jahy atraivānākṛtaś cara | sam ahaṃ varcasā saṃ mayā varcaḥ ||"
+  },
+  {
+    "id": "p-2c66ed",
+    "ref": "19.44.13",
+    "text": "vi khana vi ruja vi jahy atraivānākṛtaś cara | sam ahaṃ tejasā saṃ mayā tejaḥ ||"
+  },
+  {
+    "id": "p-2766e6",
+    "ref": "19.44.14",
+    "text": "vi khana vi ruja vi jahy atraivānākṛtaś cara | sam ahaṃ prajayā saṃ mayā prajā ||"
+  },
+  {
+    "id": "p-2666e4",
+    "ref": "19.44.15",
+    "text": "vi khana vi ruja vi jahy atraivānākṛtaś cara | sam ahaṃ paśubhiḥ saṃ mayā paśavaḥ ||"
+  },
+  {
+    "id": "p-2966e9",
+    "ref": "19.44.16",
+    "text": "divo reto 'si pṛthivyā nabhyam | nabhyam asi nabhyaṃ mā kṛṇu ||"
+  },
+  {
+    "id": "p-2866e7",
+    "ref": "19.44.17",
+    "text": "divo reto 'si pṛthivyāḥ śaktiḥ | śaktir asi śaktaye te vidheyam ||"
+  },
+  {
+    "id": "p-2366df",
+    "ref": "19.44.18",
+    "text": "divo reto 'si pṛthivyā vittiḥ | vittir asi vittaye te vidheyam ||"
+  },
+  {
+    "id": "p-2266de",
+    "ref": "19.44.19",
+    "text": "divo reto 'si pṛthivyāḥ puṣṭiḥ | puṣṭir asi puṣṭaye te vidheyam ||"
+  },
+  {
+    "id": "p-995f4a",
+    "ref": "19.44.20",
+    "text": "divo reto 'si pṛthivyā bhūtiḥ | bhūtir asi bhūtaye te vidheyaṃ bhūtir asi bhūtāsi bhūyāsam ||"
+  },
+  {
+    "id": "p-9a5f4c",
+    "ref": "19.44.21",
+    "text": "śukro 'si bhrājo 'si | sa yathā tvaṃ bhrājato bhrājo 'sy evāhaṃ bhrājato bhrājyāsam ||"
+  },
+  {
+    "id": "p-9b5f4d",
+    "ref": "19.44.22",
+    "text": "sāyaṃsāyaṃ gṛhapatir no agniḥ prātaḥprātaḥ saumanasasya dātā | vasorvasor vasudhāna edhi vayaṃ tvendhānās tanvaṃ puṣema ||"
+  },
+  {
+    "id": "p-9c5f4f",
+    "ref": "19.44.23",
+    "text": "prātaḥprātar gṛhapatir no agniḥ sāyaṃsāyaṃ saumanasasya dātā | vasorvasor vasudhāna edhi- -indhānās tvā śataṃ himā ṛdhema ||"
+  },
+  {
+    "id": "p-955f44",
+    "ref": "19.44.24",
+    "text": "yo na āviḥ śapati yaś ca stāyad yadi cittyā manyunā yat sapatnaḥ | agniṣ ṭān pāśān pra mumoktu devo yāvayatu śapathām̐ varuṇo dhṛtavrataḥ ||"
+  },
+  {
+    "id": "p-e41e45",
+    "ref": "19.45.1",
+    "text": "prāgnaye vācam īraya vṛṣabhāya kṣitīnām | sa naḥ parṣad ati dviṣaḥ ||"
+  },
+  {
+    "id": "p-e31e44",
+    "ref": "19.45.2",
+    "text": "yaḥ parasyāḥ parāvatas tiro viśvābhirocate | sa naḥ parṣad ati dviṣaḥ ||"
+  },
+  {
+    "id": "p-e21e42",
+    "ref": "19.45.3",
+    "text": "yo rakṣāṃsi nijūrvaty agniḥ śukreṇa śociṣā | sa naḥ parṣad ati dviṣaḥ ||"
+  },
+  {
+    "id": "p-e91e4d",
+    "ref": "19.45.4",
+    "text": "yo viśvābhi vipaśyati bhuvanā saṃ ca paśyati | sa naḥ parṣad ati dviṣaḥ ||"
+  },
+  {
+    "id": "p-e81e4c",
+    "ref": "19.45.5",
+    "text": "madhu vātā ṛtāyate madhu kṣaranti sindhavaḥ | mādhvīr gāvo bhavantu naḥ ||"
+  },
+  {
+    "id": "p-e71e4a",
+    "ref": "19.45.6",
+    "text": "madhu naktam utoṣaso madhumat pārthivaṃ rajaḥ | mādhvīr naḥ santv oṣadhīḥ ||"
+  },
+  {
+    "id": "p-e61e49",
+    "ref": "19.45.7",
+    "text": "madhumān no vanaspatir madhumām̐ astu sūryaḥ | madhu dyaur astu naḥ pitā ||"
+  },
+  {
+    "id": "p-dd1e3a",
+    "ref": "19.45.8",
+    "text": "āpo hi ṣṭhā mayobhuvas tā na ūrje dadhātana | mahe raṇāya cakṣase ||"
+  },
+  {
+    "id": "p-dc1e39",
+    "ref": "19.45.9",
+    "text": "yo vaḥ śivatamo rasas tasya bhājayateha naḥ | uśatīr iva mātaraḥ ||"
+  },
+  {
+    "id": "p-f9a7fc",
+    "ref": "19.45.10",
+    "text": "tasmā araṅgamāma vo yasya kṣayāya jinvatha | āpo janayathā ca naḥ ||"
+  },
+  {
+    "id": "p-faa7fe",
+    "ref": "19.45.11",
+    "text": "āyaṃ gauḥ pṛśnir akramīd asadan mātaraṃ punaḥ | pitaraṃ ca prayaṃtsvaḥ ||"
+  },
+  {
+    "id": "p-f7a7f9",
+    "ref": "19.45.12",
+    "text": "asya prāṇād apānaty antaś carati rocanā | vy akhyan mahiṣo divam ||"
+  },
+  {
+    "id": "p-f8a7fa",
+    "ref": "19.45.13",
+    "text": "triṃśad dhāma vi rājati vāk pataṅgāya śiśriyat | prati vastor aha dyubhiḥ ||"
+  },
+  {
+    "id": "p-f5a7f6",
+    "ref": "19.45.14",
+    "text": "yac chakrā vācam āruhann antarikṣaṃ siṣāsantaḥ | saṃ devā amadan vṛṣā ||"
+  },
+  {
+    "id": "p-f6a7f7",
+    "ref": "19.45.15",
+    "text": "śakro vācam adhiṣṭhāya- -uruvāco asṛṣṭa hi | mahiṣā amadan divi ||"
+  },
+  {
+    "id": "p-f3a7f3",
+    "ref": "19.45.16",
+    "text": "śakro vācam asṛṣṭa hi dhāmadharman vi rājati | vimadaṃ barhir ā sarat ||"
+  },
+  {
+    "id": "p-d4f0f6",
+    "ref": "19.46.1",
+    "text": "dhruvo 'si dharuṇo 'stṛto viśvakarmaṇā sudhṛtaḥ | mā tvā samudra ud vadhīn mā suparṇo 'vyathamāna imaṃ dṛṃha ||"
+  },
+  {
+    "id": "p-d5f0f8",
+    "ref": "19.46.2",
+    "text": "āṣāḍho 'si sahamānaḥ sahasva- -ārātiṃ sahasva pṛtanāyataḥ | sahasravīryo 'si sa imaṃ jinva ||"
+  },
+  {
+    "id": "p-d6f0f9",
+    "ref": "19.46.3",
+    "text": "adbhyaḥ saṃbhūto 'si pṛthivyā rasāc ca viśvakarmaṇaḥ samavartathā adhi | tasya tvaṣṭā vidadhad eti rūpaṃ vidvān tat te devam ājānam agre ||"
+  },
+  {
+    "id": "p-cff0ee",
+    "ref": "19.46.4",
+    "text": "ṣaṣṭiś cādhvaryo navatiś ca pāśā hotāram agnim antarā vicṛttāḥ | sinanti pākam ati dhīra ety ṛtasya panthām anv eti vidvān ||"
+  },
+  {
+    "id": "p-d0f0f0",
+    "ref": "19.46.5",
+    "text": "yo adhvaryuḥ sapta hotrāṇi vidvān pūrvo hotur yajata ājigharti | ūrdhvaṃ sa yajñam adhvaraṃ kṛṇoti ya īṃ ciketa haviṣo vibhāge ||"
+  },
+  {
+    "id": "p-d1f0f1",
+    "ref": "19.46.6",
+    "text": "atro vibhaktari haviṣo vibhāge mā nir bhākṣīd bhāginaṃ mopahaty | mo abhāgo vidita yo mumoha ||"
+  },
+  {
+    "id": "p-d2f0f3",
+    "ref": "19.46.7",
+    "text": "vāta ā vātu bheṣajaṃ śambhu mayobhu no hṛde | pra ṇa āyūṃṣi tāriṣat ||"
+  },
+  {
+    "id": "p-cbf0e8",
+    "ref": "19.46.8",
+    "text": "uta vāta pitāsi na uta bhrātota naḥ sakhā | sa no jīvātave kṛdhi ||"
+  },
+  {
+    "id": "p-ccf0ea",
+    "ref": "19.46.9",
+    "text": "yad ado vāta te gṛhe nihitaṃ bheṣajaṃ guhā | tasya no dehi jīvase ||"
+  },
+  {
+    "id": "p-be5416",
+    "ref": "19.46.10",
+    "text": "yo na jīvo 'si na mṛto devānām amṛtagarbho 'si svapna | varuṇaṇī te mātā yamaḥ pitā ||"
+  },
+  {
+    "id": "p-bd5414",
+    "ref": "19.46.11",
+    "text": "yathā kalāṃ yathā śaphaṃ yatha rṇaṃ saṃnayanti | evāha duṣvapnyaṃ sarvam apriye saṃ nayāmasi ||"
+  },
+  {
+    "id": "p-bc5413",
+    "ref": "19.46.12",
+    "text": "ararur nāmāsi taṃ tvā svapna tathā vidma sa naḥ svapna susvapnyatāṃ dhehi ||"
+  },
+  {
+    "id": "p-bb5411",
+    "ref": "19.46.13",
+    "text": "naitasyāgre havir adanti devā nirbhakta eṣa sukṛtasya lokāt | pāpīṃ dhiyaṃ jujuṣa ātmanaiṣa sa hi duṣkṛn manuṣyeṣv antaḥ ||"
+  },
+  {
+    "id": "p-ba5410",
+    "ref": "19.46.14",
+    "text": "yo mātṛhā pitṛhā svasṛhā ye ca duṣkṛtaḥ | vidhiṣau te amṛkṣata malaṃ manuṣyā iva ||"
+  },
+  {
+    "id": "p-b9540e",
+    "ref": "19.46.15",
+    "text": "etad evaitaṃ nirarṣur devā bhrūṇaghnyā lokam apy ety eṣaḥ | na te cṛtye haviṣā nāthitasya rāṣṭram ete śakrā vi cṛtanti pāśam ||"
+  },
+  {
+    "id": "p-3a6cbc",
+    "ref": "19.47.1",
+    "text": "ya ākho yo vyukho vīṇavām̐ iha sarpati | taṃ pari paribheṣajaṃ vṛścikajambhanam asi ||"
+  },
+  {
+    "id": "p-3d6cc0",
+    "ref": "19.47.2",
+    "text": "mayūro atti vṛścikaṃ mayūraṃ vayam admasi | taṃ pari paribheṣajaṃ vṛścikajambhanam asi ||"
+  },
+  {
+    "id": "p-3c6cbf",
+    "ref": "19.47.3",
+    "text": "āpa id vā u bheṣajīr āpo amīvacātanīḥ | āpo viśvasya bheṣajīr āpo vṛścikajambhanīḥ ||"
+  },
+  {
+    "id": "p-3f6cc4",
+    "ref": "19.47.4",
+    "text": "tvam agne vratapā asi deva ā martyeṣv ā | tvaṃ yajñeṣv īḍyaḥ ||"
+  },
+  {
+    "id": "p-3e6cc2",
+    "ref": "19.47.5",
+    "text": "yad vo vayaṃ pramināma vratāni viduṣāṃ devā aviduṣṭarāsaḥ | agniṣ ṭad viśvād ā pṛṇātu vidvān somasya yo brāhmaṇām̐ āviveśa ||"
+  },
+  {
+    "id": "p-416cc7",
+    "ref": "19.47.6",
+    "text": "ā devānām api panthām aganma yac chaknavāma tad anu pravodhum | agnir vidvān sa yajāt sa id dhotā so adhvaraṃ sa ṛtūn kalpayāti ||"
+  },
+  {
+    "id": "p-406cc5",
+    "ref": "19.47.7",
+    "text": "ut tudā i śimidvatīṃ vi duryoṇā iva dupadā i | ud asyāḥ pātayā manaḥ śaśvatībhyaḥ samābhyaḥ ||"
+  },
+  {
+    "id": "p-336cb1",
+    "ref": "19.47.8",
+    "text": "pakvaṃ māṃsam ivāsinā śakuniprapatanāṃ kṛdhi | mṛgām̐ anu pra pātaya marīcīr anu nāśaya ||"
+  },
+  {
+    "id": "p-326caf",
+    "ref": "19.47.9",
+    "text": "viṣvañcau gāvāv ā kuru viṣvañcau yugyā uta | utāsau sūrya ūrdhvaṃ viṣvañcau vāṃ vy ā karat ||"
+  },
+  {
+    "id": "p-012c00",
+    "ref": "19.47.10",
+    "text": "viṣam ugraṃ viṣaṃ sthiraṃ viṣasya mahimā mahān | viṣaṃ parasvataḥ śiraḥ śatadhā vy apātayat ||"
+  },
+  {
+    "id": "p-022c02",
+    "ref": "19.47.11",
+    "text": "saṃ daha vrajaṃ yathā vasudhā vasu vartayat | yaṃ viṣa prasarpasi sam agnir iva taṃ daha ||"
+  },
+  {
+    "id": "p-032c03",
+    "ref": "19.47.12",
+    "text": "gṛhāṇa māṃsāny ava lomāni pātaya | pāṃśūn kṛkāṭa ā vāpāc chindhy uttānapādam ardaya ||"
+  },
+  {
+    "id": "p-042c05",
+    "ref": "19.47.13",
+    "text": "madhor ahaṃ madhutaro madhughān madhumattaraḥ | āsani kila me madhu mukhe nimandanaṃ kṛtam ||"
+  },
+  {
+    "id": "p-052c06",
+    "ref": "19.47.14",
+    "text": "mām it tvam abhi cākaśo mṛgas tṛṣyann ivodakam | adhaspadān ma ud vadān maṇḍūko gośaphād iva ||"
+  },
+  {
+    "id": "p-062c08",
+    "ref": "19.47.15",
+    "text": "ud vadā me adhaspadān maṇḍūko gośaphād iva | atho 'pa cakrā āsāsai śvā bandha ivāhataḥ ||"
+  },
+  {
+    "id": "p-5c84b8",
+    "ref": "19.48.1",
+    "text": "ā vada bahulaṃ goṣṭhaṃ suvīraṃ bahupūruṣam | yatheto na pramīyātā evā me goṣṭham ā vada ||"
+  },
+  {
+    "id": "p-5984b4",
+    "ref": "19.48.2",
+    "text": "ā vada duhituṣ pate bhrātur jāmātar ā vada | paścā ta udbhūtaḥ sphigaḥ kiṣkindhānām avīr jahi ||"
+  },
+  {
+    "id": "p-5a84b5",
+    "ref": "19.48.3",
+    "text": "yad ulūko vadati mogham etad yat kapotaḥ padam agnau kṛṇoti | śrutakarṇāya kavaye stomyāya tasmai yamāya namo astv adya ||"
+  },
+  {
+    "id": "p-5f84bd",
+    "ref": "19.48.4",
+    "text": "ya aindrāḥ pāśā ye ca vāruṇā āre asmat tān devī nirṛtir dadhātu ||"
+  },
+  {
+    "id": "p-6084bf",
+    "ref": "19.48.5",
+    "text": "ye vaiśvānarāḥ pāśā ye ca mārutā āre asmat tān devī nirṛtir dadhātu ||"
+  },
+  {
+    "id": "p-5d84ba",
+    "ref": "19.48.6",
+    "text": "ye vaiśvadevāḥ pāśā ye ca vaiśvakarmaṇā āre asmat tān devī nirṛtir dadhātu ||"
+  },
+  {
+    "id": "p-5e84bb",
+    "ref": "19.48.7",
+    "text": "nārade kitave varuṇe soma aicchan mahimānaṃ mahāntam | avindat taṃ viśvakarmā samudre akṣāṇāṃ klandam ainam asmin dadhāmi ||"
+  },
+  {
+    "id": "p-5384aa",
+    "ref": "19.48.8",
+    "text": "yad dhastayor yac cakṣuṣor mano yat praviveśa te | skandān asya praskandena klandena klandayāmi tat ||"
+  },
+  {
+    "id": "p-5484ac",
+    "ref": "19.48.9",
+    "text": "tisro devīr apsarasa ākaikā sākaikā pretaprayām ety ekasyā nāma | juṣāṇā apsarasa ājyasya sahaso vyantu svāhā ||"
+  },
+  {
+    "id": "p-85ef0a",
+    "ref": "19.48.10",
+    "text": "atyākṣaṃ tvā manasā- -atyākṣaṃ hṛdayena tvā | atyākṣaṃ sarvair aṅgais tvā tathā hi tyajanaṃ kṛtam ||"
+  },
+  {
+    "id": "p-84ef08",
+    "ref": "19.48.11",
+    "text": "imā yāḥ prati nandatha striyaḥ pumāṃsam anvitam | sarvāḥ saṃgatya brūta tejane tyajanaṃ kṛtam ||"
+  },
+  {
+    "id": "p-87ef0d",
+    "ref": "19.48.12",
+    "text": "tyajanaṃ me dyāvāpṛthivī adhātāṃ tyajanaṃ devaḥ savitā bṛhaspatiḥ | agniś ca tubhyaṃ sūryaś ca tejane tyajanaṃ kṛtam ||"
+  },
+  {
+    "id": "p-86ef0b",
+    "ref": "19.48.13",
+    "text": "saṃ divaḥ saṃ pṛthivyāḥ saṃ vātāt saṃ nadībhyaḥ | saṃskandam indra ābharat sa āgāt so 'gād idam ||"
+  },
+  {
+    "id": "p-89ef10",
+    "ref": "19.48.14",
+    "text": "saṃskandam oja ojasā devebhir nāma te hitam | hiraṇyanāma nāma te saṃskandāsy oṣadhe ||"
+  },
+  {
+    "id": "p-88ef0e",
+    "ref": "19.48.15",
+    "text": "saṃ samudro nadībhiḥ saṃ dyāvāpṛthivī ubhe | saṃ jāyā patyā yonyāṃ saṃskandāsy oṣadhe ||"
+  },
+  {
+    "id": "p-8bef13",
+    "ref": "19.48.16",
+    "text": "saṃ te śīrṣṇaḥ kapālāni saṃ yoniṃ saṃgavīnyau | saṃ te sarvāṇy aṅgāni saṃ skandenābhi dadhmasi ||"
+  },
+  {
+    "id": "p-8aef12",
+    "ref": "19.48.17",
+    "text": "śriyaṃ dhātur mayi dhehi śriyā mādhipatiṃ kṛṇu | viśām īśāno maghavān indro mā yaśasā nayat ||"
+  },
+  {
+    "id": "p-8def16",
+    "ref": "19.48.18",
+    "text": "mayi tyad indriyaṃ bṛhan mayi dakṣa uta kratuḥ | gharmas triś cid vi bhātu mā gāyatrīcchandasā virāḍjyotiṣā tasya doham aśīya ||"
+  },
+  {
+    "id": "p-8cef15",
+    "ref": "19.48.19",
+    "text": "arkāsadhasthau kavimātariśvānau yamāṅgirasaḥ | yaśasvinaṃ mā devā yaśasaḥ kṛṇuta svāhā ||"
+  },
+  {
+    "id": "p-c2007e",
+    "ref": "19.49.1",
+    "text": "indraṃ vayaṃ vaṇijo havāmahe sa nas trātā pura etu prajānan | ghnann arātiṃ paripanthinaṃ mṛgaṃ sa īśāno dhanadā astu mahyam ||"
+  },
+  {
+    "id": "p-c1007c",
+    "ref": "19.49.2",
+    "text": "paṇo no astu prapaṇo vikrayaś ca pratipaṇo no dhaninaḥ kṛṇotu | saṃrarāṇā āhutiṃ juṣantāṃ śunaṃ no astu caritam utthitaṃ ca ||"
+  },
+  {
+    "id": "p-c0007b",
+    "ref": "19.49.3",
+    "text": "yat paṇena pratipaṇaṃ carāmi svena devā dhanam icchamānaḥ | indro me tasmin rucam ā dadhātu bṛhaspatiḥ savitā somo agniḥ ||"
+  },
+  {
+    "id": "p-bf0079",
+    "ref": "19.49.4",
+    "text": "ye vaḥ panthā bahavo devayānā anu dyāvāpṛthivī saṃcaranti | teṣām ahaṃ māṃ varcasyā dadhāmi yathā krītvā dhanam ā vahāni ||"
+  },
+  {
+    "id": "p-be0078",
+    "ref": "19.49.5",
+    "text": "viddhavāsase nirṛter ye ca pāśā apaśritāḥ | tebhyaḥ pra mucyate varmī viṣkandham upa sādayan ||"
+  },
+  {
+    "id": "p-bd0076",
+    "ref": "19.49.6",
+    "text": "na vai tad vāso bhavati yasmin vidhyanti pūruṣam | asnā samajyate rūpaṃ tasmāt tad apalopyam ||"
+  },
+  {
+    "id": "p-bc0074",
+    "ref": "19.49.7",
+    "text": "uttiṣṭhann apriyāyata- -avidvān bahubhājyam | na panthāṃ bhadram aśnute ya enena carāt saha ||"
+  },
+  {
+    "id": "p-cb008c",
+    "ref": "19.49.8",
+    "text": "brahmaṇaitat pratigṛhyaṃ tena tat kṛṇute śivam | ārkāt pramucyate pāśāt tena dātā vi paśyati ||"
+  },
+  {
+    "id": "p-ca008a",
+    "ref": "19.49.9",
+    "text": "yau vyāghrāv avarūḍhāv avāñcau jighatsataḥ pitaraṃ mātaraṃ ca | tau dantau brahmaṇā brahmaṇaspate śivau kṛṇu tvam iha jātavedaḥ ||"
+  },
+  {
+    "id": "p-c8c6f4",
+    "ref": "19.49.10",
+    "text": "vrīhim attaṃ yavam attaṃ māṣam attam atho tilam | sa vāṃ bhāgo nihito ratnadheyaṃ mā hiṃsiṣṭaṃ pitaraṃ mātaraṃ ca ||"
+  },
+  {
+    "id": "p-c9c6f5",
+    "ref": "19.49.11",
+    "text": "aghorau sayujā saṃvidānau syonau dantau sumaṅgalau | mā hiṃsiṣṭaṃ pitaraṃ mātaraṃ ca- -anyatra vāṃ tanvo ghoram astu ||"
+  },
+  {
+    "id": "p-c6c6f1",
+    "ref": "19.49.12",
+    "text": "enā yutām indrāgnī rājñā somena medinā | indro marutvān ādānam amitrebhyaḥ kṛṇotu me ||"
+  },
+  {
+    "id": "p-c7c6f2",
+    "ref": "19.49.13",
+    "text": "idam ādānam akaraṃ tapasendreṇa saṃśitam | amitrā yatra santi me tān ādāṃ dviṣato mama ||"
+  },
+  {
+    "id": "p-ccc6fa",
+    "ref": "19.49.14",
+    "text": "ādānena saṃdānena- -amitrān saṃ dyāmasi | apānā ye caiṣāṃ prāṇā asunāsūn sam acchidam ||"
+  },
+  {
+    "id": "p-cdc6fc",
+    "ref": "19.49.15",
+    "text": "pratūrtāya marutvate svāhā ||"
+  },
+  {
+    "id": "p-cac6f7",
+    "ref": "19.49.16",
+    "text": "jayadvīrāyābhiṣatvane svāhā ||"
+  },
+  {
+    "id": "p-cbc6f8",
+    "ref": "19.49.17",
+    "text": "bṛhaspataye viśvadevāvate svāhā ||"
+  },
+  {
+    "id": "p-65aef2",
+    "ref": "19.50.1",
+    "text": "pra dyauḥ pra pṛthivī prāntarikṣaṃ svam arhat | pretaḥ samudriyā āpaḥ śalyam acucyavuḥ ||"
+  },
+  {
+    "id": "p-68aef7",
+    "ref": "19.50.2",
+    "text": "pra tvā vātaś cyāvayatu pra bhūmiḥ sahasā saha | pretaḥ samudriyā āpaḥ śalyam acucyavuḥ ||"
+  },
+  {
+    "id": "p-67aef5",
+    "ref": "19.50.3",
+    "text": "pra tvā sūryaś cyāvayatu nakṣatraiḥ saha medibhiḥ | pretaḥ samudriyā āpaḥ śalyam acucyavuḥ ||"
+  },
+  {
+    "id": "p-62aeed",
+    "ref": "19.50.4",
+    "text": "yo mā pautudruvo maṇir viśvabheṣaja āgamat | so asmat sarvaṃ duṣvapnyam apa hantu tamaś ca yat ||"
+  },
+  {
+    "id": "p-61aeec",
+    "ref": "19.50.5",
+    "text": "apāsmat sarvaṃ duṣvapnyam apa pāpīṃ ca lakṣmyam | adhā hiraṇyavarcasaṃ sarvadā mā maṇe kṛdhi ||"
+  },
+  {
+    "id": "p-64aef0",
+    "ref": "19.50.6",
+    "text": "sarvadaivāhaṃ bhagavān indriyāvān viṣāsahiḥ | yo mā pautudruvo maṇir draviṇena sahāruhad indreṇa sahāruhat ||"
+  },
+  {
+    "id": "p-63aeef",
+    "ref": "19.50.7",
+    "text": "pumān aśvo dhanaṃ vittiṃ pumān niṣko hiraṇyayaḥ | pumāṃsaṃ putram oṣadhe 'syā ā dhehi nāryai ||"
+  },
+  {
+    "id": "p-5eaee7",
+    "ref": "19.50.8",
+    "text": "yathānandāḥ puṃsi jāte na vravastīti kaś cana | evā tvaṃ putram oṣadhe 'syā ā dhehi nāryai ||"
+  },
+  {
+    "id": "p-5daee5",
+    "ref": "19.50.9",
+    "text": "aśvena riṣyena gavā krītāsy oṣadhe | aśvaḥ śveto dhanaṃ tava hiraṇyaṃ haritaṃ tava | dattā somena rājñeha puṃsavanaṃ bhava ||"
+  },
+  {
+    "id": "p-766793",
+    "ref": "19.50.10",
+    "text": "yan me nṛmṇaṃ draviṇaṃ brāhmaṇaṃ ca yac ca śrutaṃ yac ca ratnaṃ bibharmi | etan no atra nidhipānu pātu yāvad aimi strīyaṇamajmā vyajya ||"
+  },
+  {
+    "id": "p-776794",
+    "ref": "19.50.11",
+    "text": "yan me nṛmṇaṃ draviṇaṃ brāhmaṇaṃ ca ye agnayo dhṛṣṇiyāso mayīme | hariścandro rakṣatu tan no atra yāvad aimi paro grāmaṃ caritvā ||"
+  },
+  {
+    "id": "p-786796",
+    "ref": "19.50.12",
+    "text": "eṣa aimi paro grāmaṃ caritvā- -accha nṛmṇaṃ draviṇaṃ brāhmaṇaṃ ca | yad atrāpi tve śuci- -idaṃ tad aham ā dade ||"
+  },
+  {
+    "id": "p-796798",
+    "ref": "19.50.13",
+    "text": "ā sūryo hi prathamaṃ dasyuhatyāya śakra hārī yuñjāno maghavan sahasram | dāsaṃ varṇaṃ randhayann āryāya yuñjāno bāhū puruhūta vajram ||"
+  },
+  {
+    "id": "p-72678d",
+    "ref": "19.50.14",
+    "text": "āhṛḍate dasyuhatyāya tūrṇa dṛḍhāni parvā śṛṇīhīndra | tīvrāśraddho bahulāny eṣām ayujvano arpaya saṃ vadhena ||"
+  },
+  {
+    "id": "p-73678e",
+    "ref": "19.50.15",
+    "text": "darśan nu citrapāvānam indraṃ bahu sākaṃ śarām̐ iva patyamānān | ye no ghṛṣviṃ maghavānaṃ pṛtanyān abhīru teṣu kavayo vavṛtyuḥ ||"
+  },
+  {
+    "id": "p-5fe412",
+    "ref": "19.51.1",
+    "text": "idāvatsarāya parivatsarāya saṃvatsarāya prati vedayāma etat | yad vrateṣu duritaṃ nijagmima durhārdaṃ tena śamalenāñjmaḥ ||"
+  },
+  {
+    "id": "p-60e413",
+    "ref": "19.51.2",
+    "text": "yan me vrataṃ vratapate lulobha- -ahorātre sam adhātāṃ ma etat | udyan purastād bhiṣag astu candramāḥ sūryo raśmibhir abhi gṛṇātv etat ||"
+  },
+  {
+    "id": "p-61e415",
+    "ref": "19.51.3",
+    "text": "yad vratam atipede cittyā manasā hṛdā | ādityā rudrās tan mayi vasavaś ca sam indhatām ||"
+  },
+  {
+    "id": "p-62e416",
+    "ref": "19.51.4",
+    "text": "vratāni vratapataya upā karomy agnaye | sa me dyumnaṃ bṛhad yaśo dīrgham āyuṣ kṛṇotu me ||"
+  },
+  {
+    "id": "p-63e418",
+    "ref": "19.51.5",
+    "text": "mayobhūr vāto abhi vātūsrā ūrjasvatīr oṣadhīr ā riśantām | medasvatīr jīvadhanyā mayobhuvaḥ padvate 'vasāya rudra mṛḍa ||"
+  },
+  {
+    "id": "p-64e419",
+    "ref": "19.51.6",
+    "text": "yā ekarūpā viśvarūpāḥ sarūpā yāsām agnir ūdho vo janma veda | yā aṅgirasas tapaseha cakrus tābhyaḥ parjanya mahi śarma yacchāt ||"
+  },
+  {
+    "id": "p-65e41b",
+    "ref": "19.51.7",
+    "text": "yā deveṣu tanva airayanta yāsāṃ somo rūpadheyāni veda | tā asmabhyaṃ bahulāḥ pinvamānāḥ prajāvatīr indra goṣṭhe didiśyāḥ ||"
+  },
+  {
+    "id": "p-66e41d",
+    "ref": "19.51.8",
+    "text": "prajāpatir mahyam etā rarāṇo bahvīḥ satīr upa me goṣṭha ākaḥ | tāsāṃ vayaṃ prajayā saṃ sadema jyog jīvantaḥ śaradaḥ purūcīḥ ||"
+  },
+  {
+    "id": "p-67e41e",
+    "ref": "19.51.9",
+    "text": "abhiṣṭhitā carkardīti piśaṅgī bahukardinī | kardo ha jajñe hālīkṣṇād vrīher māṣād atho yavāt ||"
+  },
+  {
+    "id": "p-17088d",
+    "ref": "19.51.10",
+    "text": "yathā bhasad dhālīkṣṇasya na saṃbhavati kardave | evā halagna kardaya nir grāmān nir diśo jahi ||"
+  },
+  {
+    "id": "p-16088b",
+    "ref": "19.51.11",
+    "text": "yathā parasvāṃ chardhate gardabhaḥ kṛdhusandṛśaḥ | evā te śardhatāṃ bhasad dhālīkṣṇaparṇa śardhaya vṛtrahā śākī śardhaya ||"
+  },
+  {
+    "id": "p-150889",
+    "ref": "19.51.12",
+    "text": "pavīraval lāṅgalaṃ suśevaṃ somapitsaram | tad ut kṛṣati gām aviṃ prapharvyaṃ ca pīvarīṃ prastāvaṃ rathavāhanam ||"
+  },
+  {
+    "id": "p-140888",
+    "ref": "19.51.13",
+    "text": "śunaṃ varatrām ā yaccha śunam aṣṭrām ud iṅgaya | śunaṃ vāhasya yuktasya- -aṣṭrayā jahi dakṣiṇam ||"
+  },
+  {
+    "id": "p-1b0893",
+    "ref": "19.51.14",
+    "text": "madhumantaṃ ni gṛhāṇa phālaṃ kṣetreṣu sarvadā | tat parjanyo 'bhi varṣatu bhūmne dhānyāya kartave ||"
+  },
+  {
+    "id": "p-1a0891",
+    "ref": "19.51.15",
+    "text": "etā u tyā adṛkṣata- -āyatīr vedyām adhi | prāhāgnir havyaṃ devebhyo mantro hotā haviṣpatiḥ ||"
+  },
+  {
+    "id": "p-190890",
+    "ref": "19.51.16",
+    "text": "emā agur mayobhuvo madhor ūdhāṃsi bibhratīḥ | tā upa pra śikṣata duhānā akṣitaṃ payaḥ ||"
+  },
+  {
+    "id": "p-18088e",
+    "ref": "19.51.17",
+    "text": "iḍā stha madhupṛco viśvarūpās tā mā viśata | saha prāṇena tejasā harasā balena ||"
+  },
+  {
+    "id": "p-8f1193",
+    "ref": "19.52.1",
+    "text": "divo nabhaḥ śukraṃ payo duhānā- -rtasya nābhir amṛtaṃ vi caṣṭe ||"
+  },
+  {
+    "id": "p-8e1192",
+    "ref": "19.52.2",
+    "text": "ghṛtaṃ duhānā viśvataḥ prapītām ūrjaṃ duhānā anapasphurantīm | upāsatāṃ sukṛtaḥ svadhābhiḥ ||"
+  },
+  {
+    "id": "p-8d1190",
+    "ref": "19.52.3",
+    "text": "ghṛtam iccha pinvamānām imāṃ yonim upādhvam | svadhā yāś cakṛṣe jīvan tās te santu madhuścutaḥ ||"
+  },
+  {
+    "id": "p-8c118e",
+    "ref": "19.52.4",
+    "text": "saṃ rasā oṣadhīnāṃ sam ākūtīr namantu me | ūrjasvantaṃ payasvantaṃ pṛthivyā hastam anv agām ||"
+  },
+  {
+    "id": "p-8b118d",
+    "ref": "19.52.5",
+    "text": "pariṇītir asi hastasya pathaḥ pariṇītir asi | evā ha duṣvapnyaṃ sarvaṃ stambe pari ṇayāmasi ||"
+  },
+  {
+    "id": "p-8a118b",
+    "ref": "19.52.6",
+    "text": "payasvan me kṣetram astu payasvad uta dhānyam | kṛṣiḥ payasvatī mama- -ahaṃ payasvān bhūyāsam ||"
+  },
+  {
+    "id": "p-89118a",
+    "ref": "19.52.7",
+    "text": "vṛṣṇe bṛhate svarvide 'gnaye śuklaṃ harāmi tviṣīmate | sa na sthirān balavataḥ kṛṇotu jyok ca no jīvātave dadhātu ||"
+  },
+  {
+    "id": "p-881188",
+    "ref": "19.52.8",
+    "text": "veda vai te 'gne nāma- -adbhir nāmāsi trivarūthaḥ | trayaḥ poṣās trivṛd asmān yajñaḥ sacatām ||"
+  },
+  {
+    "id": "p-871187",
+    "ref": "19.52.9",
+    "text": "prajāpateḥ payasā vāvṛdhānā āyuṣmanto varcasvinaḥ | jyog jīvanta upa tvā sadema ||"
+  },
+  {
+    "id": "p-d2ab5b",
+    "ref": "19.52.10",
+    "text": "urūṇasāv asutṛpā udumbalau yamasya dūtau carato janām̐ anu | vedāhaṃ veda sūryaḥ kim etau kiṃ kariṣyataḥ ||"
+  },
+  {
+    "id": "p-d3ab5d",
+    "ref": "19.52.11",
+    "text": "na mā dadambha dabhasādabhīyaṃ na pāko asmi januṣā na śiṣyaḥ | abhīṣāḍ asmi viśvāṣāṭ pṛtanāṣāṭ svarvid yad idaṃ viśvaṃ bhuvanaṃ so asmi ||"
+  },
+  {
+    "id": "p-d0ab58",
+    "ref": "19.52.12",
+    "text": "āsthād ud asthād ajaniṣṭa vipro 'mimīta varimāṇaṃ pṛthivyāḥ | āsīdat saṃrāḍ bhuvanāni viśvā sa icchā veda varuṇasya vratāni ||"
+  },
+  {
+    "id": "p-d1ab59",
+    "ref": "19.52.13",
+    "text": "prajāpatiḥ prajāvān sa mā prajāvān prajāvantaṃ kṛṇotu ||"
+  },
+  {
+    "id": "p-d6ab61",
+    "ref": "19.52.14",
+    "text": "sūryo varcasvān sa mā varcasvān varcasvantaṃ kṛṇotu ||"
+  },
+  {
+    "id": "p-d7ab63",
+    "ref": "19.52.15",
+    "text": "somaḥ payasvān sa mā payasvān payasvantaṃ kṛṇotu ||"
+  },
+  {
+    "id": "p-d4ab5e",
+    "ref": "19.52.16",
+    "text": "triṃśan muṣkāḥ kābavasya daśa muṣkā ulūkyāḥ | catvāras tava kardama ||"
+  },
+  {
+    "id": "p-d5ab60",
+    "ref": "19.52.17",
+    "text": "tāṃs tvam ugrakāśini mūle api kṛntatāt | āsuro 'si janmanā taṃ tveto nāśayāmasi ||"
+  },
+  {
+    "id": "p-caab4e",
+    "ref": "19.52.18",
+    "text": "indrajā asi somajās taṃ tveto niṣ pra hiṇmasi | urvā matsyo madhūdakaṃ tasya pāsy atyayam anāsrāvam arogaṇam ||"
+  },
+  {
+    "id": "p-8ad399",
+    "ref": "19.53.1",
+    "text": "iṣirā cāsy ajirā cāsi | prajāpateḥ samid asi saṃsitir nāma lomaśā | prajāpatiṣ ṭvayā pratiṣṭhākāmo 'ruruta sa praty atiṣṭhat | sa yathā tvayā prajāpatiḥ pratiṣṭhākāmaḥ pratyatiṣṭhad evāhaṃ tvayā pratiṣṭhākāmaḥ prati tiṣṭheṣam | ā mā varo gamed ā mā brahmacāriṇo gameyuḥ svāhā ||"
+  },
+  {
+    "id": "p-87d395",
+    "ref": "19.53.2",
+    "text": "bhūtiś cāsi pratiṣṭhā cāsi | prajāpateḥ (…) brahmacāriṇo gameyuḥ svāhā ||"
+  },
+  {
+    "id": "p-88d396",
+    "ref": "19.53.3",
+    "text": "asvapnā cāsy anilayā cāsi | prajāpateḥ (…) brahmacāriṇo gameyuḥ svāhā ||"
+  },
+  {
+    "id": "p-8dd39e",
+    "ref": "19.53.4",
+    "text": "ruciś cāsi yakṣaṃ cāsi | prajāpateḥ (…) brahmacāriṇo gameyuḥ svāhā ||"
+  },
+  {
+    "id": "p-8ed3a0",
+    "ref": "19.53.5",
+    "text": "kīrtiś cāsi yaśaś cāsi | prajāpateḥ (…) brahmacāriṇo gameyuḥ svāhā ||"
+  },
+  {
+    "id": "p-8bd39b",
+    "ref": "19.53.6",
+    "text": "ambhaś cāsi mahaś cāsi | prajāpateḥ (…) brahmacāriṇo gameyuḥ svāhā ||"
+  },
+  {
+    "id": "p-8cd39c",
+    "ref": "19.53.7",
+    "text": "annaṃ cāsy annādyaṃ cāsi | prajāpateḥ (…) brahmacāriṇo gameyuḥ svāhā ||"
+  },
+  {
+    "id": "p-91d3a4",
+    "ref": "19.53.8",
+    "text": "prayacchantī cāsi pradadatī cāsi | prajāpateḥ (…) brahmacāriṇo gameyuḥ svāhā ||"
+  },
+  {
+    "id": "p-92d3a6",
+    "ref": "19.53.9",
+    "text": "anukāmā cāsi kāmadughā cāsi | prajāpateḥ (…) brahmacāriṇo gameyuḥ svāhā ||"
+  },
+  {
+    "id": "p-841b62",
+    "ref": "19.53.10",
+    "text": "āharantī cāsi samāharantī cāsi | prajāpateḥ (…) brahmacāriṇo gameyuḥ svāhā ||"
+  },
+  {
+    "id": "p-831b61",
+    "ref": "19.53.11",
+    "text": "diśantī cāsi pradiśantī cāsi | prajāpateḥ (…) brahmacāriṇo gameyuḥ svāhā ||"
+  },
+  {
+    "id": "p-861b66",
+    "ref": "19.53.12",
+    "text": "anumatiś cāsy anumanyamānā cāsi | prajāpateḥ (…) brahmacāriṇo gameyuḥ svāhā ||"
+  },
+  {
+    "id": "p-851b64",
+    "ref": "19.53.13",
+    "text": "jitiś cāsi vijitiś cāsi | prajāpateḥ (…) brahmacāriṇo gameyuḥ svāhā ||"
+  },
+  {
+    "id": "p-881b69",
+    "ref": "19.53.14",
+    "text": "sañjitiś cāsi sandhanājitaṃ cāsi | prajāpateḥ (…) brahmacāriṇo gameyuḥ svāhā ||"
+  },
+  {
+    "id": "p-871b67",
+    "ref": "19.53.15",
+    "text": "agniḥ pṛthivyā adhipatiḥ somas tvāvatu vidma tvā viddhi mā | adhipatir asy adhipatiṃ mā kṛṇu gavām aśvānāṃ puruṣāṇāṃ brahmacāriṇāṃ bhūtyā annādyasya ||"
+  },
+  {
+    "id": "p-8a1b6c",
+    "ref": "19.53.16",
+    "text": "vāyur antarikṣasyādhipatiḥ somas (…) annādyasya ||"
+  },
+  {
+    "id": "p-891b6a",
+    "ref": "19.53.17",
+    "text": "sūryo divo adhipatiḥ somas tvāvatu vidma tvā viddhi mā | adhipatir asy adhipatiṃ mā kṛṇu gavām aśvānāṃ puruṣāṇāṃ brahmacāriṇāṃ bhūtyā annādyasya ||"
+  },
+  {
+    "id": "p-7c1b56",
+    "ref": "19.53.18",
+    "text": "vindad vasavo vindantu me gṛhān prajāṃ paśūn vittiṃ bhūtiṃ pratiṣṭhām ||"
+  },
+  {
+    "id": "p-7b1b54",
+    "ref": "19.53.19",
+    "text": "āyadvasava ā yantu me gṛhāḥ prajāḥ paśavo vittir bhūtiḥ pratiṣṭhā ||"
+  },
+  {
+    "id": "p-f213c1",
+    "ref": "19.53.20",
+    "text": "saṃyad vasavaḥ saṃ yantu me gṛhāḥ | prajāḥ paśavo vittir bhūtiḥ pratiṣṭhā ||"
+  },
+  {
+    "id": "p-f313c2",
+    "ref": "19.53.21",
+    "text": "jitir asi jīyāsaṃ pārthvīḥ pṛtanā jīyāsam ||"
+  },
+  {
+    "id": "p-f413c4",
+    "ref": "19.53.22",
+    "text": "vijitir asi vi jeṣīya mānuṣīḥ pṛtanā jīyāsam ||"
+  },
+  {
+    "id": "p-f513c6",
+    "ref": "19.53.23",
+    "text": "saṃjitir asi saṃ jīyāsaṃ sarvāḥ pṛtanā jīyāsam ||"
+  },
+  {
+    "id": "p-110eaa",
+    "ref": "19.54.1",
+    "text": "bodhayainaṃ pra bodhaya svaptave mānu manyathāḥ | ūrdhvas tiṣṭhān mamādhyā nānyāsāṃ kīrtayāś cana ||"
+  },
+  {
+    "id": "p-140eaf",
+    "ref": "19.54.2",
+    "text": "ā vartaya ni vartaya- -abhy ā vartayā kuru | idam asya sarvā cittāni smareṇa pra jayāmasi ||"
+  },
+  {
+    "id": "p-130ead",
+    "ref": "19.54.3",
+    "text": "smaraṃ tapanti marutaḥ samiddhe jātavedasi | ud asya patatāṃ manas tad asya ramatāṃ mayi ||"
+  },
+  {
+    "id": "p-160eb2",
+    "ref": "19.54.4",
+    "text": "gaṇapate gaṇapatiṃ mā kṛṇu tasmān mā yavam ||"
+  },
+  {
+    "id": "p-150eb0",
+    "ref": "19.54.5",
+    "text": "apigaṇāpigaṇaṃ mā kṛṇu tasmān mā chitsi ||"
+  },
+  {
+    "id": "p-180eb5",
+    "ref": "19.54.6",
+    "text": "sagaṇa sagaṇaṃ mā kṛṇu tasmān mā naśam ||"
+  },
+  {
+    "id": "p-170eb3",
+    "ref": "19.54.7",
+    "text": "gaṇavardhana gaṇaṃ me vardhaya gavām aśvānāṃ puruṣāṇāṃ brahmacāriṇāṃ bhūtyā annādyasya ||"
+  },
+  {
+    "id": "p-0a0e9f",
+    "ref": "19.54.8",
+    "text": "gaṇābhivardhana gaṇaṃ me 'bhi vardhaya gavām (…) annādyasya ||"
+  },
+  {
+    "id": "p-090e9d",
+    "ref": "19.54.9",
+    "text": "gaṇapravardhana gaṇaṃ me pra vardhaya gavām aśvānāṃ puruṣāṇāṃ brahmacāriṇām bhūtyā annādyasya ||"
+  },
+  {
+    "id": "p-321628",
+    "ref": "19.54.10",
+    "text": "yac ca khātaṃ yac cākhātaṃ sarvaṃ tad arasaṃ viṣam ||"
+  },
+  {
+    "id": "p-33162a",
+    "ref": "19.54.11",
+    "text": "yac ca piṣṭaṃ yac cāpiṣṭaṃ sarvaṃ tad arasaṃ viṣam ||"
+  },
+  {
+    "id": "p-34162b",
+    "ref": "19.54.12",
+    "text": "yac ca digdhaṃ yac cādigdhaṃ sarvaṃ tad arasaṃ viṣam ||"
+  },
+  {
+    "id": "p-35162d",
+    "ref": "19.54.13",
+    "text": "yathā vṛkī jagdhaputrā vyāghrī vālalā bhavet | evā tvam alalā bhava- -ādhībhiḥ preṣito mama ||"
+  },
+  {
+    "id": "p-36162e",
+    "ref": "19.54.14",
+    "text": "yathā dīptaṃ śaratūlam agninālalā bhavet | evā tvam alalā bhava- -ādhībhiḥ preṣito mama ||"
+  },
+  {
+    "id": "p-371630",
+    "ref": "19.54.15",
+    "text": "ā krandayālalā bhava dasya kāmena śuṣya ca | ādhībhiḥ preṣito mama ||"
+  },
+  {
+    "id": "p-2c317f",
+    "ref": "19.55.1",
+    "text": "yayoḥ sarvam idam ārpitaṃ vaśe bhūtaṃ ca nimiṣac ca ceṣṭat | tau mā vadantaṃ gṛhṇītām upadraṣṭāram atra māsyoc cheṣy ayathāvat prajāpate ||"
+  },
+  {
+    "id": "p-2d3180",
+    "ref": "19.55.2",
+    "text": "yo mā vadantaṃ hṛdayena vācā vācā śrotreṇa manasā jihṛkṣāt | tam indro devo varuṇo bṛhaspatir īśāno devo abhi yātu mṛtyur yathā na jīvād uṣasaṃ tṛtīyām ||"
+  },
+  {
+    "id": "p-2e3182",
+    "ref": "19.55.3",
+    "text": "yo mā jihṛkṣād brahmīyān manyamāna itthaṃ vidvāṃsaṃ pramatir matīnām | tam indro devo varuṇo bṛhaspatir īśāno devo abhi yātu mṛtyur yathā na jīvād uṣasaṃ tṛtīyām ||"
+  },
+  {
+    "id": "p-273177",
+    "ref": "19.55.4",
+    "text": "pratyagvadhenāsyāpi dadhāmi prāṇaṃ mo dānaṃ vidata yo mā jihṛkṣāt | so asyāyur ā chinattu kuliśeneva vṛkṣaṃ yathā na jīvād uṣasaṃ tṛtīyām ||"
+  },
+  {
+    "id": "p-283178",
+    "ref": "19.55.5",
+    "text": "yasyā akṣaram ekam eva paraḥ sahasrā ayutaṃ ca śākhāḥ | tasyā vāco vidathāvadantaṃ yo mā jihṛkṣāt sa nv etv ārtim ||"
+  },
+  {
+    "id": "p-29317a",
+    "ref": "19.55.6",
+    "text": "uṣā vā ādityam aindha sa uṣaseddha ud ait sa udyan prajābhya ātapat so 'pa tamo 'hata so 'nnādyam avārundha | apa tamo hate 'nnādo bhavati ya evaṃ veda ||"
+  },
+  {
+    "id": "p-2a317c",
+    "ref": "19.55.7",
+    "text": "vāto vā agnim aindha sa vāteneddho 'jvalat so 'dīpyata so 'pa tamo 'hata so 'nnādyam avārundha | apa tamo hate 'nnādo bhavati ya evaṃ veda ||"
+  },
+  {
+    "id": "p-233170",
+    "ref": "19.55.8",
+    "text": "manomayī brāhmaṇam aindha sa brahmacaryam avasat sa vedam anv abrūta so 'pa tamo 'hata so 'nnādyam avārundha | apa tamo hate 'nnādo bhavati ya evaṃ veda ||"
+  },
+  {
+    "id": "p-243172",
+    "ref": "19.55.9",
+    "text": "homena pratiran prajāpate dampatī pari dadhāmi puṣṭyā | rāyaspoṣaṃ savitar ni yaccha jarāmṛtyū kṛṇuhi sarvavīrau ||"
+  },
+  {
+    "id": "p-a8eb11",
+    "ref": "19.55.10",
+    "text": "ayaṃ homo vardhayann etu dampatī prajāvantau paśuvantau suvīrau | rāyaspoṣaṃ savitar ni yaccha jarāmṛtyū kṛṇuhi sarvavīrau ||"
+  },
+  {
+    "id": "p-a7eb0f",
+    "ref": "19.55.11",
+    "text": "gomantaṃ paśumantam aśvamantaṃ homaṃ dampatībhyāṃ juhomi | rāyaspoṣaṃ savitar ni yaccha jarāmṛtyū kṛṇuhi sarvavīrau ||"
+  },
+  {
+    "id": "p-a6eb0e",
+    "ref": "19.55.12",
+    "text": "jīvā stha jīvyāsaṃ sarvam āyur jīvyāsam ||"
+  },
+  {
+    "id": "p-a5eb0c",
+    "ref": "19.55.13",
+    "text": "upajīvā sthopa jīvyāsaṃ sarvam āyur jīvyāsam ||"
+  },
+  {
+    "id": "p-a4eb0a",
+    "ref": "19.55.14",
+    "text": "saṃjīvā stha saṃ jīvyāsaṃ sarvam āyur jīvyāsam ||"
+  },
+  {
+    "id": "p-a3eb09",
+    "ref": "19.55.15",
+    "text": "jīvalā stha jīvyāsaṃ sarvam āyur jīvyāsam ||"
+  },
+  {
+    "id": "p-a2eb07",
+    "ref": "19.55.16",
+    "text": "prajāpater ākūtir asi sāhasrī puṣṭiḥ | prajāpater ākūtyāhaṃ sāhasryā puṣṭyā sāhasrān paśūn puṣeyam ||"
+  },
+  {
+    "id": "p-a1eb06",
+    "ref": "19.55.17",
+    "text": "bṛhaspater ākūtiḥ (…) | bṛhaspater ākūtyā (…) ||"
+  },
+  {
+    "id": "p-b0eb1d",
+    "ref": "19.55.18",
+    "text": "brahmaṇa ākūtir asi sāhasrī puṣṭiḥ | brahmaṇa ākūtyāhaṃ sāhasryā puṣṭyā sāhasrān paśūn puṣeyam ||"
+  },
+  {
+    "id": "p-bac034",
+    "ref": "19.56.1",
+    "text": "virāḍ asi virājaṃ mā kṛṇu tasyās te yaśo bhakṣīya ||"
+  },
+  {
+    "id": "p-b9c032",
+    "ref": "19.56.2",
+    "text": "svarāḍ asi svarājaṃ mā kṛṇu tasyās te madhu bhakṣīya ||"
+  },
+  {
+    "id": "p-b8c030",
+    "ref": "19.56.3",
+    "text": "samrāḍ asi samrājaṃ mā kṛṇu tasyās te annaṃ bhakṣīya ||"
+  },
+  {
+    "id": "p-bfc03b",
+    "ref": "19.56.4",
+    "text": "vīryāvatā te haviṣā juhomi jīvātave na martave | dakṣaṃ te bhadram āhārṣaṃ parā suvāmy āmayat ||"
+  },
+  {
+    "id": "p-bec03a",
+    "ref": "19.56.5",
+    "text": "abhivīreṇa te (…) ||"
+  },
+  {
+    "id": "p-bdc038",
+    "ref": "19.56.6",
+    "text": "suvīreṇa te (…) ||"
+  },
+  {
+    "id": "p-bcc037",
+    "ref": "19.56.7",
+    "text": "sarvavīreṇa te haviṣā juhomi jīvātave na martave | dakṣaṃ te bhadram āhārṣaṃ parā suvāmy āmayat ||"
+  },
+  {
+    "id": "p-b3c029",
+    "ref": "19.56.8",
+    "text": "prajāvatā te haviṣā juhomi garbham ā dhatsva yonyām | sa kāle jāyatāṃ punar daśame māsi sūtave ||"
+  },
+  {
+    "id": "p-b2c027",
+    "ref": "19.56.9",
+    "text": "suprajasā te (…) ||"
+  },
+  {
+    "id": "p-2a9224",
+    "ref": "19.56.10",
+    "text": "suputreṇa te haviṣā juhomi garbham ā dhatsva yonyām | sa kāle jāyatāṃ punar daśame māsi sūtave ||"
+  },
+  {
+    "id": "p-2b9225",
+    "ref": "19.56.11",
+    "text": "bhūtaye te haviṣā juhomi- -imaṃ devāso abhi hiṅ karātha | asminn eva paśavaḥ saṃ viśantu catuṣpāda uta vā ye dvipādaḥ ||"
+  },
+  {
+    "id": "p-289221",
+    "ref": "19.56.12",
+    "text": "vittaye te (…) ||"
+  },
+  {
+    "id": "p-299222",
+    "ref": "19.56.13",
+    "text": "svṛddhena te (…) ||"
+  },
+  {
+    "id": "p-26921e",
+    "ref": "19.56.14",
+    "text": "samṛddhena te haviṣā juhomi- -imaṃ devāso abhi hiṅ karātha | asminn eva paśavaḥ saṃ viśantu catuṣpāda uta vā ye dvipādaḥ ||"
+  },
+  {
+    "id": "p-27921f",
+    "ref": "19.56.15",
+    "text": "kṣemyeṇa te haviṣā juhomi kṣemyo bhavāsi paśubhiś ca vīraiḥ | indrāgnī tvā sayujā sakhāyau viśvebhir devair anu saṃ dadetām ||"
+  },
+  {
+    "id": "p-24921a",
+    "ref": "19.56.16",
+    "text": "pratiṣṭhitena te haviṣā juhomi prati tiṣṭhāsi paśubhiḥ (…) ||"
+  },
+  {
+    "id": "p-25921c",
+    "ref": "19.56.17",
+    "text": "sambhūtena te haviṣā juhomi saṃ bhavāsi paśubhiḥ (…) ||"
+  },
+  {
+    "id": "p-229217",
+    "ref": "19.56.18",
+    "text": "prabhūtena te haviṣā juhomi pra bhavāsi paśubhiś ca vīraiḥ | indrāgnī tvā sayujā sakhāyau viśvebhir devair anu saṃ dadetām ||"
+  }
+]

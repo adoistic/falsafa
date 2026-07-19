@@ -1,0 +1,45 @@
+{
+  "work_slug": "matthew-green-poems-bcef0f",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "The SPLEEN. An EPISTLE to Mr. C— J—.",
+  "chapter_slug": "01-the-spleen-an-epistle-to-mr-c-j",
+  "author": "Matthew Green",
+  "author_slug": "matthew-green",
+  "ecpa_poem_id": "o5152-w0180",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "epistle",
+      "philosophic poetry"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 835
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0c8b36bb-30f5-5210-a2ac-390917ca5f90",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5055,
+      "line_count": 838,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -18,9 +18,9 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 99**
+**Viṣṇu Smriti 99**
 
-> Seeing Śrī (श्री), blazing with austerity, her feet held by the god of gods, Vishnu, /
+> Seeing Śrī (श्री), blazing with austerity, her feet held by the god of gods, Viṣṇu, /
 > Her lovely color like refined gold, the Earth goddess, delighted, asked the goddess: || Vi_99.1 ||
 >
 > O venerable one, whose lovely hands are like blooming red lotuses, whose feet are held by one with a blooming red lotus for a navel, /

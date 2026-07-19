@@ -32,9 +32,9 @@ An honorable, trustworthy, and pure man should not be confined in a prison. He s
 
 A creditor may recover the wealth from a debtor by coercion and by confinement, after the debt has been established, first by gentle means, by work, and by legal process. // K_585 //
 
-He should take the wealth by this means and by employing a stratagem. He should make Kshatriyas, Vaishyas, and Shudras, and those of equal or lower rank, pay by means of work. // K_586 //
+He should take the wealth by this means and by employing a stratagem. He should make Kshatriyas, Vaishyas, and Śūdras, and those of equal or lower rank, pay by means of work. // K_586 //
 
-He should make a king, a master, and a Brahmin pay by gentle means only. He should make an heir or a friend pay by means of a stratagem. // K_587 //
+He should make a king, a master, and a Brāhmaṇa pay by gentle means only. He should make an heir or a friend pay by means of a stratagem. // K_587 //
 
 For merchants, farmers, and artisans, Bhṛgu has said they should be made to pay according to the custom of the region; the wicked should be made to pay by coercion. // K_588 //
 

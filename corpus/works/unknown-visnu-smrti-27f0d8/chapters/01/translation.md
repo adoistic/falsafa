@@ -18,10 +18,10 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 1**
+**Viṣṇu Smriti 1**
 
 When the night of Brahma had passed, and the Lotus-born had awakened,
- Vishnu, desiring to create beings, and knowing the Earth was submerged in water, || Vi_1.1 ||
+ Viṣṇu, desiring to create beings, and knowing the Earth was submerged in water, || Vi_1.1 ||
 
 Took on the auspicious form of the Boar, delighting in sport in the water, as in previous cosmic ages,
  And lifted up the Earth. || Vi_1.2 ||
@@ -57,7 +57,7 @@ Thus, having become the sacrificial Boar for the benefit of all beings,
  The divine Earth goddess, who had sunk to the netherworld, was lifted up. || Vi_1.12 ||
 
 Having lifted her up and placed her in a firm, fixed position,
- Madhusūdana (Vishnu) then distributed the waters to their proper places: || Vi_1.13 ||
+ Madhusūdana (Viṣṇu) then distributed the waters to their proper places: || Vi_1.13 ||
 
 The ocean waters into the oceans, the river waters into the rivers,
  The pond waters into the ponds, and the lake waters into the lakes. || Vi_1.14 ||
@@ -78,11 +78,11 @@ Thus the blessed Boar, having created this world of moving and unmoving things,
 When Janārdana, the god of gods, had gone to his unknown destination,
  Vasudhā (the Earth) began to ponder, "What will be my support now?" || Vi_1.19 ||
 
-"I will go and ask Kashyapa; he will tell me, without a doubt.
+"I will go and ask Kaśyapa; he will tell me, without a doubt.
  That great sage constantly bears my concerns in his mind." || Vi_1.20 ||
 
 Having made this resolve, the divine goddess, taking the form of a woman,
- Went to see Kashyapa, and Kashyapa saw her. || Vi_1.21 ||
+ Went to see Kaśyapa, and Kaśyapa saw her. || Vi_1.21 ||
 
 Her eyes were like blue lotus petals, her face like the autumn moon,
  Her dark hair was like a swarm of bees, her lips auspicious and red like the Bandhujīva flower. || Vi_1.22 ||
@@ -108,17 +108,17 @@ With her radiance, the divine one dispelled the darkness in all directions,
 With her footsteps, she seemed to make the earth blossom with lotuses,
  Endowed with beauty and youth, she stood before him like a humble servant. || Vi_1.29 ||
 
-Seeing her approach, Kashyapa honored her and then
+Seeing her approach, Kaśyapa honored her and then
  Spoke to her, "O lovely one, O large-eyed Dhara (Earth), I know what is in your heart. || Vi_1.30 ||
 
-Go, O goddess, to Janārdana (Vishnu).
+Go, O goddess, to Janārdana (Viṣṇu).
  He will tell you in full how your future support shall be. || Vi_1.31 ||
 
 O fair-faced one, I have learned through the yoga of meditation that his abode is in the Ocean of Milk,
  O graceful one, for your sake and by his grace." || Vi_1.32 ||
 
-Thus addressed, Vasudhā honored Kashyapa and then
- Proceeded to the Ocean of Milk to see Keśava (Vishnu). || Vi_1.33 ||
+Thus addressed, Vasudhā honored Kaśyapa and then
+ Proceeded to the Ocean of Milk to see Keśava (Viṣṇu). || Vi_1.33 ||
 
 She saw the treasure-house of nectar, as lovely as the rays of the moon,
  Rippling with hundreds of waves born from the churning of the wind. || Vi_1.34 ||
@@ -127,7 +127,7 @@ It was like another terrestrial sphere, resembling a hundred Himālayas,
  As if beckoning the Earth with its moving hands of waves. || Vi_1.35 ||
 
 With those same waves, it seemed to be perpetually bestowing whiteness upon the moon,
- And because Hari (Vishnu) resided within, it was free from all impurity. || Vi_1.36 ||
+ And because Hari (Viṣṇu) resided within, it was free from all impurity. || Vi_1.36 ||
 
 For that reason, it bore a brilliant white and powerful form,
  A pale expanse, accessible to birds, situated beneath the earthly world. || Vi_1.37 ||
@@ -154,7 +154,7 @@ Seeing him, the lotus-eyed Madhusūdana, she bowed,
  And falling to her knees on the ground, she then made her plea: || Vi_1.44 ||
 
 "I was lifted up by you, O god, when I had sunk to the bottom of the netherworld,
- And established in my own place, O Vishnu, for the welfare of the worlds. || Vi_1.45 ||
+ And established in my own place, O Viṣṇu, for the welfare of the worlds. || Vi_1.45 ||
 
 Now, therefore, O Lord of gods, what will be my support?"
  Thus addressed by the goddess, the god spoke these words: || Vi_1.46 ||
@@ -214,4 +214,4 @@ By which the good people, devoted to them, will support you.
  Be seated, O you of beautiful thighs, on this excellent golden throne. || Vi_1.64 ||
 
 Seated comfortably, hear now the laws as I declare them to you."
- Then Dhara, seated comfortably, listened to the laws of Vishnu. || Vi_1.65 ||
+ Then Dhara, seated comfortably, listened to the laws of Viṣṇu. || Vi_1.65 ||

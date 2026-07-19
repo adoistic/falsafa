@@ -1,0 +1,87 @@
+---
+work_id: "a27207da-e64a-5354-8c1c-e6948d4046e0"
+work_slug: "robert-burns-poems-a27207"
+work_title: Poems
+author: Robert Burns
+author_slug: "robert-burns"
+ecpa_poem_id: "cbu86-w0070"
+chapter_number: 7
+chapter_title: "POOR MAILIE'S ELEGY."
+chapter_slug: "07-poor-mailies-elegy"
+variant_id: "b9b057b0-bb77-5cda-8b71-6f5ba515a923"
+content_type: original
+layout: verse
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 272
+source_url: "https://www.eighteenthcenturypoetry.org/"
+license: "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+genres:
+  - elegy
+metrical_foot: iambic (˘′)
+metrical_count: tetrameter (4 feet)
+stanza_form:
+  - sestet (6 lines)
+rhyme_scheme: aaabab
+syllable_pattern: 8.8.8.4.8.4
+---
+
+POOR MAILIE'S ELEGY.
+
+LAMENT in rhyme, lament in prose,
+ Wi' saut tears trickling down your nose;
+ Our Bardie's fate is at a close,
+ Past a' remead! 
+The last, sad cape-stane of his woes;
+ Poor Mailie's dead! 
+
+It's no the loss o' warl's gear,
+ That could sae bitter draw the tear,
+ Or make our Bardie, dowie, wear
+ The mourning weed
+ He's lost a friend and neebor dear,
+ In Mailie dead. 
+
+Thro' a' the town she trotted by him;
+ A lang half-mile she could descry him;
+ Wi' kindly bleat, when she did spy him,
+ She ran wi' speed:
+ A friend mair faithfu' ne'er came nigh him,
+ Than Mailie dead. 
+
+I wat she was a sheep o' sense,
+ An' could behave hersel wi' mense:
+ I'll say't, she never brak a fence,
+ Thro' thievish greed. 
+Our Bardie, lanely, keeps the spence
+ Sin' Mailie's dead. 
+
+Or, if he wanders up the howe,
+ Her living image in her yowe,
+ Comes bleating till him, owre the knowe,
+ For bits o' bread;
+ An' down the briny pearls rowe
+ For Mailie dead. 
+
+She was nae get o' moorlan tips,
+ Wi' tauted ket, an' hairy hips;
+ For her forbears were brought in ships,
+ Frae' yont the TWEED
+ A bonier fleesh ne'er cross'd the clips
+ Than Mailie's dead. 
+
+Wae worth that man wha first did shape,
+ That vile, wanchancie thing — a raep! 
+It maks guid fellows girn an' gape,
+ Wi' chokin dread;
+ An' Robin's bonnet wave wi' crape
+ For Mailie dead. 
+
+O, a' ye Bards on bonie DOON! 
+An' wha on AIRE your chanters tune! 
+Come, join the melancholious croon
+ O' Robin's reed! 
+His heart will never get aboon! 
+His Mailie's dead!

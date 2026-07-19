@@ -1,0 +1,44 @@
+{
+  "work_slug": "robert-burns-poems-a27207",
+  "work_title": "Poems",
+  "chapter_number": 15,
+  "chapter_title": "EPISTLE TO DAVIE. A BROTHER POET.",
+  "chapter_slug": "15-epistle-to-davie-a-brother-poet",
+  "author": "Robert Burns",
+  "author_slug": "robert-burns",
+  "ecpa_poem_id": "cbu86-w0150",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "epistle"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "trimeter (3 feet)",
+    "stanzas": [
+      "fourteen-line stanza"
+    ],
+    "rhyme": "aabccbdedexfxf",
+    "syllable_pattern": "8.8.6.8.8.6.8.6.8.6.6.6.6.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+/ -+|-+|-+/ -+|-+|-+/ -+|-+|-+/",
+    "line_count": 154
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "103e7de5-c4db-5492-b0e4-2bc04d77ef43",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 903,
+      "line_count": 167,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

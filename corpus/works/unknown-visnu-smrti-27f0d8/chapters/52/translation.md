@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 52**
+**Viṣṇu Smriti 52**
 
 A gold-thief, proclaiming his deed, shall offer a club to the king. // Vi_52.1 //
 

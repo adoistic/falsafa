@@ -1,0 +1,739 @@
+{
+  "slug": "unknown-manusmrti-347b76",
+  "window": "04:0-136",
+  "entities": [
+    {
+      "canonical_name": "Brahma",
+      "surface_names": ["Brahma"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-0f3d0c", "quote": "Teaching is the sacrifice to Brahma", "role": "recipient of sacrifice"},
+        {"paragraph_id": "p-258d8e", "quote": "he should offer a bali to Brahma and to Vastoshpati", "role": "recipient of bali offering"}
+      ],
+      "description": "The deity to whom the sacrifice of teaching (Veda study) is dedicated, and a recipient of the household bali offering.",
+      "justification": "Brahma is explicitly named as the deity of the teaching-sacrifice and as a recipient of the middle-house bali, making him a named divine figure in the ritual system described."
+    },
+    {
+      "canonical_name": "Agni",
+      "surface_names": ["Agni", "Agni Svishtakrit"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-789a36", "quote": "First to Agni and Soma, and then to both of them together", "role": "recipient of fire-oblation"},
+        {"paragraph_id": "p-a75c2c", "quote": "finally to Agni Svishtakrit", "role": "recipient of fire-oblation"},
+        {"paragraph_id": "p-1892dc", "quote": "He should throw an offering at the door, saying 'to the Maruts'", "role": "associated deity context"}
+      ],
+      "description": "The fire deity, the first and last recipient in the Vaisvavedva fire-oblation sequence, and a fundamental medium through which sacrificial offerings reach the cosmic order.",
+      "justification": "Agni is named explicitly as the first deity invoked in the daily fire-oblation and again as Agni Svishtakrit at the close, marking his primacy in the sacrificial sequence."
+    },
+    {
+      "canonical_name": "Soma",
+      "surface_names": ["Soma"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-789a36", "quote": "First to Agni and Soma, and then to both of them together", "role": "recipient of fire-oblation"}
+      ],
+      "description": "A Vedic deity paired with Agni as one of the first recipients in the daily fire-oblation sequence.",
+      "justification": "Soma is explicitly named as co-recipient of the opening fire-oblation alongside Agni in the Vaisvavedva rite."
+    },
+    {
+      "canonical_name": "Vishve-devas",
+      "surface_names": ["Vishve-devas"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-789a36", "quote": "and to the Vishve-devas", "role": "recipients of fire-oblation"},
+        {"paragraph_id": "p-29f7d4", "quote": "He should throw a bali-offering into the air for the Vishve-devas", "role": "recipients of bali offering"}
+      ],
+      "description": "The 'All-Gods,' a collective group of Vedic deities who receive both fire-oblations and aerial bali offerings in the daily household ritual.",
+      "justification": "The Vishve-devas are named twice as recipients of specific ritual offerings in the daily Vaisvavedva rite, confirming their role as a defined divine group."
+    },
+    {
+      "canonical_name": "Dhanvantari",
+      "surface_names": ["Dhanvantari"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-789a36", "quote": "and to Dhanvantari", "role": "recipient of fire-oblation"}
+      ],
+      "description": "A deity associated with medicine and healing, named as a recipient of fire-oblation in the daily Vaisvavedva ritual sequence.",
+      "justification": "Dhanvantari is explicitly listed among the deities who receive fire-oblations in the prescribed daily ritual, identifying him as a named divine figure in this context."
+    },
+    {
+      "canonical_name": "Kuhu",
+      "surface_names": ["Kuhu"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-a75c2c", "quote": "And to Kuhu, and to Anumati, and to Prajapati", "role": "recipient of fire-oblation"}
+      ],
+      "description": "A lunar deity associated with the new moon, named as a recipient of fire-oblation in the Vaisvavedva ritual.",
+      "justification": "Kuhu is explicitly named in the sequence of deities to receive daily fire-oblations."
+    },
+    {
+      "canonical_name": "Anumati",
+      "surface_names": ["Anumati"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-a75c2c", "quote": "And to Kuhu, and to Anumati, and to Prajapati", "role": "recipient of fire-oblation"}
+      ],
+      "description": "A lunar deity associated with divine grace or consent, named as a recipient of fire-oblation in the Vaisvavedva ritual.",
+      "justification": "Anumati is explicitly named in the sequence of deities who receive daily fire-oblations in the householder's rite."
+    },
+    {
+      "canonical_name": "Prajapati",
+      "surface_names": ["Prajapati"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-a75c2c", "quote": "and to Prajapati, and to Heaven and Earth together", "role": "recipient of fire-oblation"}
+      ],
+      "description": "The 'Lord of Creatures,' a creator deity named among the recipients of the daily fire-oblation in the householder's Vaisvavedva rite.",
+      "justification": "Prajapati is explicitly listed as a recipient of fire-oblations in the prescribed sequence, identifying him as a named divine figure."
+    },
+    {
+      "canonical_name": "Indra",
+      "surface_names": ["Indra"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-0dbcbf", "quote": "he should offer a bali-offering in all directions, moving clockwise, to Indra, Antaka, Ap-pati, and Indu", "role": "recipient of bali offering"}
+      ],
+      "description": "The king of the Vedic gods, named as a directional recipient of the bali offering in the daily household rite.",
+      "justification": "Indra is explicitly named among the deities receiving the bali offering in the directional circumambulation."
+    },
+    {
+      "canonical_name": "Antaka",
+      "surface_names": ["Antaka"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-0dbcbf", "quote": "to Indra, Antaka, Ap-pati, and Indu", "role": "recipient of bali offering"}
+      ],
+      "description": "A deity associated with death or the end, named as a directional recipient of the bali offering.",
+      "justification": "Antaka is explicitly listed as a recipient of the directional bali offering in the householder ritual."
+    },
+    {
+      "canonical_name": "Ap-pati",
+      "surface_names": ["Ap-pati"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-0dbcbf", "quote": "to Indra, Antaka, Ap-pati, and Indu", "role": "recipient of bali offering"}
+      ],
+      "description": "The lord of waters, named as a directional recipient of the bali offering in the daily household rite.",
+      "justification": "Ap-pati is explicitly listed among the deities receiving the directional bali offering."
+    },
+    {
+      "canonical_name": "Indu",
+      "surface_names": ["Indu"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-0dbcbf", "quote": "to Indra, Antaka, Ap-pati, and Indu", "role": "recipient of bali offering"}
+      ],
+      "description": "A lunar deity, named as a directional recipient of the bali offering in the daily household rite.",
+      "justification": "Indu is explicitly listed as a recipient of the directional bali offering."
+    },
+    {
+      "canonical_name": "Maruts",
+      "surface_names": ["Maruts"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-1892dc", "quote": "He should throw an offering at the door, saying 'to the Maruts'", "role": "recipients of door offering"}
+      ],
+      "description": "A group of storm deities to whom an offering is made at the door of the house in the daily bali rite.",
+      "justification": "The Maruts are explicitly named as the intended recipients of the door-threshold bali offering."
+    },
+    {
+      "canonical_name": "Shri",
+      "surface_names": ["Shri", "Fortune"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-258d8e", "quote": "At the head of the bed, he should make an offering to Shri (Fortune)", "role": "recipient of bedroom offering"}
+      ],
+      "description": "The goddess of fortune, to whom an offering is made at the head of the bed in the domestic bali rite.",
+      "justification": "Shri is explicitly named as the recipient of a specific positional bali offering within the household."
+    },
+    {
+      "canonical_name": "Bhadrakali",
+      "surface_names": ["Bhadrakali"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-258d8e", "quote": "and at the foot, to Bhadrakali", "role": "recipient of bedroom offering"}
+      ],
+      "description": "An auspicious form of the goddess Kali, to whom an offering is made at the foot of the bed in the domestic bali rite.",
+      "justification": "Bhadrakali is explicitly named as the recipient of a specific positional bali offering within the household."
+    },
+    {
+      "canonical_name": "Vastoshpati",
+      "surface_names": ["Vastoshpati"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-258d8e", "quote": "he should offer a bali to Brahma and to Vastoshpati", "role": "recipient of middle-house offering"}
+      ],
+      "description": "The protector of the household or dwelling, named alongside Brahma as a recipient of the bali in the center of the house.",
+      "justification": "Vastoshpati is explicitly named as a co-recipient of the bali offering in the center of the house."
+    },
+    {
+      "canonical_name": "Manu",
+      "surface_names": ["Manu"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {"paragraph_id": "p-23da12", "quote": "Manu has declared these Brahmanas to be unworthy at offerings to gods and ancestors", "role": "lawgiver authority"},
+        {"paragraph_id": "p-5e0e7e", "quote": "The sons of Manu, the son of the Golden Embryo, who are Marichi and the others", "role": "progenitor of cosmic lineage"}
+      ],
+      "description": "The primordial lawgiver and progenitor, cited as the authority who declared the unworthiness of certain Brahmanas, and also named as the father of Marichi and the sages who are ancestral progenitors.",
+      "justification": "Manu is explicitly invoked as a lawgiver authority and as a cosmogonic ancestor in two distinct contexts."
+    },
+    {
+      "canonical_name": "Marichi",
+      "surface_names": ["Marichi"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {"paragraph_id": "p-5e0e7e", "quote": "The sons of Manu, the son of the Golden Embryo, who are Marichi and the others", "role": "son of Manu and primordial sage"},
+        {"paragraph_id": "p-d439d5", "quote": "the Agnishvattas, world-renowned, the sons of Marichi, are the ancestors of the gods", "role": "progenitor of divine ancestors"}
+      ],
+      "description": "One of the primordial sages born of Manu whose sons (the Agnishvattas) became the ancestors of the gods.",
+      "justification": "Marichi is named as a son of Manu and as the father of the Agnishvattas who serve as ancestral deities for the gods."
+    },
+    {
+      "canonical_name": "Viraj",
+      "surface_names": ["Viraj"],
+      "kind": "figure",
+      "figure_kind": "cosmic being",
+      "mentions": [
+        {"paragraph_id": "p-d439d5", "quote": "The sons of Viraj, the Somasads, are remembered as the ancestors of the Sadhyas", "role": "progenitor of Somasads"}
+      ],
+      "description": "A cosmic being or progenitor whose sons, the Somasads, became the ancestors of the Sadhyas.",
+      "justification": "Viraj is explicitly named as the father of the Somasads in the cosmogonic account of ancestral lineages."
+    },
+    {
+      "canonical_name": "Atri",
+      "surface_names": ["Atri"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {"paragraph_id": "p-7db423", "quote": "The Barhishads, born of Atri, are remembered as the ancestors of the Daityas", "role": "progenitor of Barhishads"}
+      ],
+      "description": "A primordial sage whose sons (the Barhishads) are the ancestors of the Daityas, Danavas, Yakshas, Gandharvas, and other cosmic beings.",
+      "justification": "Atri is explicitly named as the father of the Barhishads who are ancestors of various supernatural groups."
+    },
+    {
+      "canonical_name": "Kavi",
+      "surface_names": ["Kavi"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {"paragraph_id": "p-801cf0", "quote": "The Somapas are the sons of Kavi", "role": "progenitor of Somapas ancestors"}
+      ],
+      "description": "A primordial sage whose sons, the Somapas, are the ancestors of the Brahmanas.",
+      "justification": "Kavi is explicitly named as the father of the Somapas in the ancestral lineage table."
+    },
+    {
+      "canonical_name": "Angiras",
+      "surface_names": ["Angiras"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {"paragraph_id": "p-801cf0", "quote": "the Havishmantas are the sons of Angiras", "role": "progenitor of Havishmantas ancestors"}
+      ],
+      "description": "A primordial sage whose sons, the Havishmantas, are the ancestors of the Kshatriyas.",
+      "justification": "Angiras is explicitly named as the father of the Havishmantas in the ancestral lineage table."
+    },
+    {
+      "canonical_name": "Pulastya",
+      "surface_names": ["Pulastya"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {"paragraph_id": "p-801cf0", "quote": "the Ajyapas are the sons of Pulastya", "role": "progenitor of Ajyapas ancestors"}
+      ],
+      "description": "A primordial sage whose sons, the Ajyapas, are the ancestors of the Vaishyas.",
+      "justification": "Pulastya is explicitly named as the father of the Ajyapas in the ancestral lineage table."
+    },
+    {
+      "canonical_name": "Vasishtha",
+      "surface_names": ["Vasishtha"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {"paragraph_id": "p-801cf0", "quote": "the Sukalins are the sons of Vasishtha", "role": "progenitor of Sukalins ancestors"}
+      ],
+      "description": "A primordial sage whose sons, the Sukalins, are the ancestors of the Shudras.",
+      "justification": "Vasishtha is explicitly named as the father of the Sukalins in the ancestral lineage table."
+    },
+    {
+      "canonical_name": "Golden Embryo",
+      "surface_names": ["Golden Embryo", "Hiranyagarbha"],
+      "kind": "figure",
+      "figure_kind": "cosmic being",
+      "mentions": [
+        {"paragraph_id": "p-5e0e7e", "quote": "The sons of Manu, the son of the Golden Embryo", "role": "cosmic progenitor of Manu"}
+      ],
+      "description": "The primordial cosmic being (Hiranyagarbha) identified as the father of Manu in the cosmogonic lineage.",
+      "justification": "The Golden Embryo is explicitly named as the progenitor of Manu in the account of ancestral origins."
+    },
+    {
+      "canonical_name": "Rakshasas",
+      "surface_names": ["Rakshasas"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-7db423", "quote": "remembered as the ancestors of the Daityas, Danavas, Yakshas, Gandharvas, Uragas, Rakshasas, Suparnas, and Kinnaras", "role": "group with cosmic ancestors"},
+        {"paragraph_id": "p-11e662", "quote": "that the Rakshasas indeed devour", "role": "demonic consumers of polluted offerings"}
+      ],
+      "description": "Demonic beings who are counted among the groups whose ancestors are the Barhishads, and who are said to consume the food offerings tainted by the unworthy.",
+      "justification": "Rakshasas appear twice: once as a group with named cosmic ancestors, and once as the consumers of ritually polluted food."
+    },
+    {
+      "canonical_name": "Daityas",
+      "surface_names": ["Daityas"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-7db423", "quote": "The Barhishads, born of Atri, are remembered as the ancestors of the Daityas", "role": "group with cosmic ancestors"}
+      ],
+      "description": "A class of powerful demonic beings whose ancestral progenitors are the Barhishads, sons of Atri.",
+      "justification": "Daityas are explicitly named as a group whose ancestors are identified in the cosmogonic lineage."
+    },
+    {
+      "canonical_name": "Danavas",
+      "surface_names": ["Danavas"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-7db423", "quote": "ancestors of the Daityas, Danavas, Yakshas", "role": "group with cosmic ancestors"}
+      ],
+      "description": "A class of demonic beings whose ancestors are the Barhishads, sons of the sage Atri.",
+      "justification": "Danavas are explicitly named in the cosmogonic lineage of ancestral groups."
+    },
+    {
+      "canonical_name": "Yakshas",
+      "surface_names": ["Yakshas"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-7db423", "quote": "ancestors of the Daityas, Danavas, Yakshas", "role": "group with cosmic ancestors"}
+      ],
+      "description": "A class of nature spirits whose ancestors are the Barhishads.",
+      "justification": "Yakshas are explicitly named in the cosmogonic ancestral lineage."
+    },
+    {
+      "canonical_name": "Gandharvas",
+      "surface_names": ["Gandharvas"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-7db423", "quote": "Yakshas, Gandharvas, Uragas, Rakshasas", "role": "group with cosmic ancestors"}
+      ],
+      "description": "Celestial musicians and semi-divine beings whose ancestors are the Barhishads.",
+      "justification": "Gandharvas are explicitly named in the cosmogonic ancestral lineage."
+    },
+    {
+      "canonical_name": "Sadhyas",
+      "surface_names": ["Sadhyas"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-d439d5", "quote": "The sons of Viraj, the Somasads, are remembered as the ancestors of the Sadhyas", "role": "group with cosmic ancestors"}
+      ],
+      "description": "A class of semi-divine beings whose ancestral progenitors are the Somasads, sons of Viraj.",
+      "justification": "Sadhyas are explicitly named as a group with identified cosmic ancestors."
+    },
+    {
+      "canonical_name": "Brahmanas",
+      "surface_names": ["Brahmana", "Brahmanas", "twice-born"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-0f3d0c", "quote": "the worship of the foremost of the twice-born is the offered in a Brahmana", "role": "ritual recipients"},
+        {"paragraph_id": "p-a9915f", "quote": "The Somapas are the ancestors of the Brahmanas", "role": "varna with ancestral lineage"},
+        {"paragraph_id": "p-8fcfcc", "quote": "A learned and pre-eminent twice-born should exclude these wretches among the twice-born", "role": "social/ritual arbiters"}
+      ],
+      "description": "The priestly varna whose cosmic ancestors are the Somapas; the primary subjects of the elaborate rules governing ritual inclusion and exclusion at sraddha and god-rites.",
+      "justification": "Brahmanas are the central social category around which the entire passage's ritual economy revolves, named repeatedly as recipients, arbiters, and subjects of purity rules."
+    },
+    {
+      "canonical_name": "Kshatriyas",
+      "surface_names": ["Kshatriya", "Kshatriyas"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-a77e8f", "quote": "A Kshatriya is not called a guest in a Brahmana's house", "role": "social group with restricted guest status"},
+        {"paragraph_id": "p-a9915f", "quote": "the Havirbhujas, of the Kshatriyas", "role": "varna with ancestral lineage"}
+      ],
+      "description": "The warrior varna whose cosmic ancestors are the Havirbhujas; they occupy a secondary guest status in a Brahmana's house.",
+      "justification": "Kshatriyas are named as a social group with specific guest-status rules and with a named ancestral lineage."
+    },
+    {
+      "canonical_name": "Vaishyas",
+      "surface_names": ["Vaishya", "Vaishyas"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-a77e8f", "quote": "nor are a Vaishya, a Shudra, a friend, a kinsman, or a guru", "role": "social group with restricted guest status"},
+        {"paragraph_id": "p-a9915f", "quote": "the Ajyapas, of the Vaishyas", "role": "varna with ancestral lineage"}
+      ],
+      "description": "The merchant/farmer varna whose cosmic ancestors are the Ajyapas; they are not recognized as guests in a Brahmana's house.",
+      "justification": "Vaishyas are named in the social stratification of guest status and in the cosmogonic ancestral lineage."
+    },
+    {
+      "canonical_name": "Shudras",
+      "surface_names": ["Shudra", "Shudras"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-c7d696", "quote": "If a Vaishya and a Shudra arrive at the house as guests, he should feed them along with his servants", "role": "social group with lowest guest status"},
+        {"paragraph_id": "p-a9915f", "quote": "the Sukalins, of the Shudras", "role": "varna with ancestral lineage"}
+      ],
+      "description": "The servant varna whose cosmic ancestors are the Sukalins; they are fed alongside servants when arriving at a householder's home.",
+      "justification": "Shudras are named in the social stratification governing hospitality and in the cosmogonic ancestral lineage."
+    },
+    {
+      "canonical_name": "Veda",
+      "surface_names": ["Veda", "Vedas", "Rik verses", "Rigveda", "Samaveda", "Vedic study"],
+      "kind": "object",
+      "mentions": [
+        {"paragraph_id": "p-254f63", "quote": "One should be ever engaged in the study of the Veda", "role": "object of obligatory study"},
+        {"paragraph_id": "p-b8ab54", "quote": "one should diligently feed a scholar of the Rigveda who has mastered the Veda", "role": "criterion for ritual worthiness"},
+        {"paragraph_id": "p-c56333", "quote": "A Brahmana who does not study the Veda is extinguished like a fire of straw", "role": "criterion for ritual validity"}
+      ],
+      "description": "The sacred scriptural corpus whose study is the defining criterion for Brahmana worthiness; Veda-mastery is the paramount qualification for receiving sraddha and god-rite offerings.",
+      "justification": "The Veda is invoked throughout as the central object of study and the primary criterion distinguishing worthy from unworthy ritual participants."
+    },
+    {
+      "canonical_name": "Trisuparna text",
+      "surface_names": ["Trisuparna text"],
+      "kind": "object",
+      "mentions": [
+        {"paragraph_id": "p-14021a", "quote": "one who knows the Trisuparna text", "role": "qualification for panktipaavana status"}
+      ],
+      "description": "A specific Vedic text whose mastery qualifies a Brahmana to be considered a panktipaavana (purifier of the ritual line).",
+      "justification": "The Trisuparna text is explicitly named as a qualification criterion for the highest ritual rank."
+    },
+    {
+      "canonical_name": "Jyeshthasaman",
+      "surface_names": ["Jyeshthasaman"],
+      "kind": "object",
+      "mentions": [
+        {"paragraph_id": "p-14021a", "quote": "one who chants the Jyeshthasaman", "role": "qualification for panktipaavana status"}
+      ],
+      "description": "A specific Sama-veda chant whose performance qualifies a Brahmana as a panktipaavana.",
+      "justification": "The Jyeshthasaman is explicitly named as one of the qualifications for the highest ritual purity rank."
+    },
+    {
+      "canonical_name": "Nachiketa fires",
+      "surface_names": ["three Nachiketa fires"],
+      "kind": "object",
+      "mentions": [
+        {"paragraph_id": "p-14021a", "quote": "One who has kindled the three Nachiketa fires", "role": "qualification for panktipaavana status"}
+      ],
+      "description": "A specific three-fold fire ritual (associated with the Nachiketa story of the Katha Upanishad) whose performance qualifies a Brahmana as a panktipaavana.",
+      "justification": "The three Nachiketa fires are explicitly named as a ritual qualification for the highest purity rank."
+    },
+    {
+      "canonical_name": "Somapas",
+      "surface_names": ["Somapas"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-a9915f", "quote": "The Somapas are the ancestors of the Brahmanas", "role": "ancestral group of Brahmanas"},
+        {"paragraph_id": "p-801cf0", "quote": "The Somapas are the sons of Kavi", "role": "identified by progenitor"}
+      ],
+      "description": "A class of ancestral beings who are the progenitors of the Brahmana varna, identified as sons of the sage Kavi.",
+      "justification": "The Somasads are named twice with their lineage and their role as Brahmana ancestors."
+    },
+    {
+      "canonical_name": "Agnishvattas",
+      "surface_names": ["Agnishvattas"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-d439d5", "quote": "the Agnishvattas, world-renowned, the sons of Marichi, are the ancestors of the gods", "role": "ancestral group of gods"},
+        {"paragraph_id": "p-f5838b", "quote": "One should identify the Agnidagdhas, the Anagnidagdhas, the Kavyas, the Barhishads, the Agnishvattas, and the Saumyas as belonging to the Brahmanas alone", "role": "ancestor class assigned to Brahmanas"}
+      ],
+      "description": "A celebrated class of ancestors, sons of Marichi, who serve as the progenitors of the gods and are assigned to the Brahmana class in the taxonomic listing.",
+      "justification": "The Agnishvattas are named twice with their lineage (sons of Marichi) and their role as ancestors of the gods."
+    },
+    {
+      "canonical_name": "Barhishads",
+      "surface_names": ["Barhishads"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-7db423", "quote": "The Barhishads, born of Atri, are remembered as the ancestors of the Daityas", "role": "ancestral group of Daityas and others"},
+        {"paragraph_id": "p-f5838b", "quote": "the Barhishads, the Agnishvattas", "role": "ancestor class assigned to Brahmanas"}
+      ],
+      "description": "A class of ancestral beings born of Atri, serving as the ancestors of the Daityas, Danavas, Yakshas, Gandharvas, Uragas, Rakshasas, Suparnas, and Kinnaras.",
+      "justification": "The Barhishads are named twice: once identifying their progenitor (Atri) and ancestral role, and again in the Brahmana-assigned ancestor taxonomy."
+    },
+    {
+      "canonical_name": "Somasads",
+      "surface_names": ["Somasads"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-d439d5", "quote": "The sons of Viraj, the Somasads, are remembered as the ancestors of the Sadhyas", "role": "ancestral group of Sadhyas"}
+      ],
+      "description": "Sons of the cosmic being Viraj, serving as the ancestors of the Sadhyas.",
+      "justification": "The Somasads are explicitly named with their progenitor (Viraj) and their role as ancestors of the Sadhyas."
+    },
+    {
+      "canonical_name": "parivetti",
+      "surface_names": ["parivitti", "parivettṛ"],
+      "kind": "idea",
+      "mentions": [
+        {"paragraph_id": "p-c8ac37", "quote": "He who marries and establishes his sacred fire while his elder brother is yet unmarried is to be known as a parivettṛ; the elder brother is the parivitti", "role": "defined transgressive categories"},
+        {"paragraph_id": "p-909d50", "quote": "The parivitti, the parivettṛ, the woman with whom the marriage is contracted, the one who gives her away, and the sacrificing priest as the fifth—they all go to hell", "role": "condemned social actors"}
+      ],
+      "description": "A pair of transgressive ritual statuses: the parivetti is the elder unmarried brother whose younger sibling married first; the parivettr is the younger brother who married out of turn. Both are ritually disqualified.",
+      "justification": "The parivetti/parivettr are explicitly defined in the text as specific transgressive categories that result in hell for all parties involved in the irregular marriage."
+    },
+    {
+      "canonical_name": "kunda and golaka",
+      "surface_names": ["kuṇḍa", "golaka"],
+      "kind": "idea",
+      "mentions": [
+        {"paragraph_id": "p-c6d0ff", "quote": "Two sons, a kuṇḍa and a golaka, are born from the wives of other men: a kuṇḍa is born while the husband is alive, and a golaka after the husband is dead", "role": "defined categories of illegitimate sons"},
+        {"paragraph_id": "p-833c3b", "quote": "Those two beings, born in another's field, destroy the offerings to gods and ancestors", "role": "ritual pollutants"}
+      ],
+      "description": "Two categories of sons born of adultery: the kunda (born during the husband's life) and the golaka (born after the husband's death), both ritually disqualifying for sacred offerings.",
+      "justification": "The kunda and golaka are explicitly defined and condemned as destroyers of ritual offerings."
+    },
+    {
+      "canonical_name": "didhishupati",
+      "surface_names": ["didhiṣūpati"],
+      "kind": "idea",
+      "mentions": [
+        {"paragraph_id": "p-797960", "quote": "He who, out of desire, consorts with the wife of his deceased brother, even if she has been duly appointed to him by law, is to be known as a didhiṣūpati", "role": "defined transgressive category"}
+      ],
+      "description": "A specific legal-ritual category designating a man who cohabits with his deceased brother's wife out of desire rather than duty; ritually disqualified.",
+      "justification": "The didhishupati is explicitly defined as a transgressive category resulting in ritual disqualification."
+    },
+    {
+      "canonical_name": "apankteya",
+      "surface_names": ["apāṅkteya"],
+      "kind": "idea",
+      "mentions": [
+        {"paragraph_id": "p-8fcfcc", "quote": "exclude these wretches among the twice-born, whose conduct is reprehensible and who are apāṅkteya (unworthy to sit in the line at a sacred meal)", "role": "defined category of ritual exclusion"},
+        {"paragraph_id": "p-11e662", "quote": "by a parivettṛ and others, and by other apāṅkteya, that the Rakshasas indeed devour", "role": "ritually polluting category"}
+      ],
+      "description": "A technical category designating those twice-born who are unworthy to sit in the line at a sacred meal; their presence or consumption at a sraddha renders the offerings invalid.",
+      "justification": "Apankteya is explicitly defined in the text as a formal category of ritual exclusion with grave consequences."
+    },
+    {
+      "canonical_name": "panktipaavana",
+      "surface_names": ["paṅktipāvana"],
+      "kind": "idea",
+      "mentions": [
+        {"paragraph_id": "p-973748", "quote": "the paṅktipāvana (purifiers of the line), by whom a line defiled by the unworthy is purified", "role": "defined category of ritual purification"},
+        {"paragraph_id": "p-47cc3d", "quote": "those who are foremost in all the Vedas and in all the sacred teachings, and those who are born in the lineage of learned Brahmanas, are to be known as paṅktipāvana", "role": "defined highest ritual rank"}
+      ],
+      "description": "A technical category designating the most distinguished Brahmanas whose presence purifies a ritual meal contaminated by the unworthy.",
+      "justification": "Panktipaavana is explicitly defined with its function (purifying a defiled ritual line) and its qualifying criteria."
+    },
+    {
+      "canonical_name": "snataka",
+      "surface_names": ["snātaka"],
+      "kind": "idea",
+      "mentions": [
+        {"paragraph_id": "p-c1f760", "quote": "A king, a sacrificial priest, a snātaka, a guru, a beloved father-in-law, and a maternal uncle should be honored with a madhuparka", "role": "category of honored visitor"}
+      ],
+      "description": "A student who has completed his Vedic studies and returned home, one of the distinguished persons to be honored with the madhuparka offering.",
+      "justification": "The snataka is explicitly named as one of the distinguished categories of visitors warranting the special madhuparka honor."
+    },
+    {
+      "canonical_name": "atithi",
+      "surface_names": ["atithi"],
+      "kind": "idea",
+      "mentions": [
+        {"paragraph_id": "p-de0b29", "quote": "To an atithi (a guest, especially a wandering Brahmana) who has arrived, he should give a seat and water", "role": "defined guest category"},
+        {"paragraph_id": "p-499a59", "quote": "A Brahmana who stays for one night only is remembered as an atithi; because he does not stay permanently, he is called an atithi (one who has no fixed date)", "role": "etymologically defined guest type"}
+      ],
+      "description": "The technical term for the transient Brahmana guest who stays one night only; the highest category of guest requiring obligatory hospitality.",
+      "justification": "Atithi is explicitly defined by etymology and by the one-night-stay criterion, making it a formal legal-ritual concept."
+    },
+    {
+      "canonical_name": "sraddha",
+      "surface_names": ["śrāddha", "Pitrya", "Anvaharya", "Pindanvaharyaka"],
+      "kind": "event",
+      "mentions": [
+        {"paragraph_id": "p-0db4cc", "quote": "One should perform a śrāddha daily with food, or with water, or with milk, roots, and fruits", "role": "obligatory rite"},
+        {"paragraph_id": "p-981119", "quote": "This rite for the ancestors, known as Pitrya, is well-known to be performed at the dark of the moon", "role": "named rite with timing"},
+        {"paragraph_id": "p-5b37f3", "quote": "The wise know the monthly śrāddha for the ancestors as Anvaharya", "role": "named monthly rite"}
+      ],
+      "description": "The set of memorial rites for ancestors (Pitr), performed daily with food/water, monthly at the dark of the moon (Pitrya/Anvaharya), governed by elaborate rules about who may officiate and receive offerings.",
+      "justification": "The sraddha is the central ritual institution of the entire passage, named in multiple forms and contexts as the occasion for all the detailed rules of inclusion and exclusion."
+    },
+    {
+      "canonical_name": "Vaisvavedva rite",
+      "surface_names": ["Vaiśvadeva", "Vaisvavedva"],
+      "kind": "event",
+      "mentions": [
+        {"paragraph_id": "p-47d102", "quote": "When the Vaiśvadeva meal is ready, a Brahmana should daily offer an oblation in the domestic fire", "role": "daily obligatory rite"},
+        {"paragraph_id": "p-e71f77", "quote": "for this rite, named Vaiśvadeva, is ordained for evening and morning", "role": "rite with defined timing"}
+      ],
+      "description": "The daily fire-oblation rite performed by the Brahmana householder, dedicated to all the gods; offered morning and evening as the foundation of the five great sacrifices.",
+      "justification": "The Vaisvavedva is named as the primary daily fire-rite around which the sequence of deity-oblations and bali offerings is organized."
+    },
+    {
+      "canonical_name": "bali offering",
+      "surface_names": ["bali-offering", "bali"],
+      "kind": "object",
+      "mentions": [
+        {"paragraph_id": "p-300480", "quote": "the bali-offering to beings is the further-offered", "role": "one of five sacrifice types"},
+        {"paragraph_id": "p-0dbcbf", "quote": "he should offer a bali-offering in all directions, moving clockwise", "role": "directional ritual act"}
+      ],
+      "description": "A ritual offering of food placed in various locations (door, water, mortar, bedroom, etc.) and in all directions, constituting one of the five great daily sacrifices of the householder.",
+      "justification": "The bali offering is named as one of the five great sacrifices and its directional distribution is described in detail."
+    },
+    {
+      "canonical_name": "madhuparka",
+      "surface_names": ["madhuparka"],
+      "kind": "object",
+      "mentions": [
+        {"paragraph_id": "p-c1f760", "quote": "should be honored with a madhuparka (a respectful offering of honey) when they visit again after a year", "role": "honor offering for distinguished guests"}
+      ],
+      "description": "A special offering of honey and other substances presented to highly distinguished visitors (kings, priests, gurus) as a mark of the highest honor.",
+      "justification": "Madhuparka is explicitly named as the specific honor-offering due to a defined category of high-status guests."
+    },
+    {
+      "canonical_name": "five great sacrifices",
+      "surface_names": ["five great sacrifices", "five sacrifices"],
+      "kind": "idea",
+      "mentions": [
+        {"paragraph_id": "p-306da5", "quote": "five great sacrifices were ordained by the great sages for householders to perform daily", "role": "foundational ritual obligation"},
+        {"paragraph_id": "p-0f3d0c", "quote": "Teaching is the sacrifice to Brahma; libation is the sacrifice to the Ancestors; the fire-oblation is the sacrifice to the Gods; the bali-offering is the sacrifice to beings; and the honoring of guests is the sacrifice to men", "role": "enumerated components"}
+      ],
+      "description": "The five daily sacrifices ordained for householders: teaching (to Brahma), libation (to Ancestors), fire-oblation (to Gods), bali (to beings), and guest-honoring (to men).",
+      "justification": "The five great sacrifices are explicitly enumerated and defined as the foundational daily ritual obligations of the householder stage."
+    },
+    {
+      "canonical_name": "gṛhastha",
+      "surface_names": ["gṛhastha", "householder"],
+      "kind": "idea",
+      "mentions": [
+        {"paragraph_id": "p-c576dc", "quote": "all the other stages of life exist by depending on the gṛhastha", "role": "highest ashrama stage"},
+        {"paragraph_id": "p-000322", "quote": "the householder stage is the highest", "role": "explicit ranking"}
+      ],
+      "description": "The householder stage of life (gṛhastha ashrama), explicitly declared the highest of the four stages because it supports all others through knowledge and food.",
+      "justification": "The gṛhastha is explicitly identified as the highest stage of life and the foundation sustaining all other stages."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "The five great sacrifices as the householder's daily ritual obligation",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-306da5", "quote": "five great sacrifices were ordained by the great sages for householders to perform daily"},
+        {"paragraph_id": "p-0f3d0c", "quote": "Teaching is the sacrifice to Brahma; libation is the sacrifice to the Ancestors; the fire-oblation is the sacrifice to the Gods; the bali-offering is the sacrifice to beings; and the honoring of guests is the sacrifice to men"},
+        {"paragraph_id": "p-097802", "quote": "He who does not neglect these five great sacrifices according to his ability, even while dwelling in his house, is not tainted by the sins of the slaughter-houses"}
+      ],
+      "justification": "The passage opens by defining and elaborating the five great sacrifices as the mandatory daily ritual framework of the householder, framing all subsequent rules as applications of this obligation."
+    },
+    {
+      "topic": "The primacy of the householder stage (gṛhastha) among the four ashrama stages",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-c576dc", "quote": "all the other stages of life exist by depending on the gṛhastha"},
+        {"paragraph_id": "p-000322", "quote": "the householder stage is the highest"},
+        {"paragraph_id": "p-cfdc03", "quote": "It must be diligently maintained by him who desires eternal heaven and who desires supreme happiness in this world"}
+      ],
+      "justification": "The passage makes an explicit argument for the superiority of the householder stage by noting that all other stages depend on it for material and spiritual sustenance."
+    },
+    {
+      "topic": "Ritual purity and the graded worthiness of Brahmanas for sacred rites",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-f80a41", "quote": "Offerings to gods and ancestors must be given by donors only to a learned Brahmana; for what is given to the most worthy Brahmana yields great fruit"},
+        {"paragraph_id": "p-e85cd8", "quote": "As many mouthfuls as an ignorant man devours at an offering to gods and ancestors, so many flaming spears, pikes, and iron balls does the deceased devour"},
+        {"paragraph_id": "p-c56333", "quote": "A Brahmana who does not study the Veda is extinguished like a fire of straw; an oblation must not be given to him, for one does not sacrifice in ashes"}
+      ],
+      "justification": "A dominant theme of the passage is the hierarchical evaluation of Brahmanas according to Vedic knowledge, with elaborate rules about who is ritually qualified (panktipaavana) or disqualified (apankteya) to receive offerings."
+    },
+    {
+      "topic": "Consequences of improper ritual giving: karmic pollution and lost merit",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-c04e52", "quote": "The offerings to gods and ancestors of ignorant men perish, those gifts given out of delusion by donors to Brahmanas who are like ashes"},
+        {"paragraph_id": "p-d6afbc", "quote": "As many worthy men seated in the line as an unworthy man looks upon while they are eating, for so many the foolish donor obtains no fruit"},
+        {"paragraph_id": "p-e87a03", "quote": "A gift to a seller of Soma becomes excrement; to a physician, pus and blood; what is given to a temple priest is lost; and to a usurer, it finds no firm footing"}
+      ],
+      "justification": "The text systematically enumerates the negative karmic consequences of giving to unworthy recipients, employing vivid metaphorical language to warn against ritual misappropriation."
+    },
+    {
+      "topic": "Hospitality (atithi-seva) as a sacred duty with cosmic stakes",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-bdf3a3", "quote": "A guest who arrives at sunset, sent by the sun, should not be turned away by a householder"},
+        {"paragraph_id": "p-f62342", "quote": "the honoring of a guest brings wealth, fame, long life, and heaven"},
+        {"paragraph_id": "p-9f20c8", "quote": "A Brahmana who stays in a house unhonored takes away all the merit of that man who gleans even ears of corn and who tends the five sacred fires"}
+      ],
+      "justification": "Hospitality to the atithi is presented not merely as social etiquette but as a sacred rite with direct karmic consequences; turning away a guest is equated with cosmic loss."
+    },
+    {
+      "topic": "Social hierarchy encoded in ritual practice: varna distinctions in hospitality and sacrifice",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-a77e8f", "quote": "A Kshatriya is not called a guest in a Brahmana's house, nor are a Vaishya, a Shudra, a friend, a kinsman, or a guru"},
+        {"paragraph_id": "p-c7d696", "quote": "If a Vaishya and a Shudra arrive at the house as guests, he should feed them along with his servants"},
+        {"paragraph_id": "p-d08386", "quote": "if a Kshatriya should come to the house in the manner of a guest, he may be fed at will after the Brahmanas have eaten"}
+      ],
+      "justification": "The passage encodes varna hierarchy directly into the rules of hospitality and ritual participation, with Brahmanas as the only true guests and lower varnas receiving correspondingly diminished status."
+    },
+    {
+      "topic": "Vedic learning (Veda-mastery) as the supreme criterion for social and ritual standing",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-210593", "quote": "Where a thousand thousands of those ignorant of the Rik verses may eat, a single man who knows the sacred formulas, being pleased, is by right equal to them all"},
+        {"paragraph_id": "p-018a2b", "quote": "Offerings to ancestors and gods must be given to one who is pre-eminent in knowledge"},
+        {"paragraph_id": "p-b3bbe7", "quote": "One should feed even a single learned man at a rite for the gods and at one for the ancestors; one obtains abundant fruit, but not by feeding many who are ignorant of the sacred formulas"}
+      ],
+      "justification": "Knowledge of the Veda is the text's supreme evaluative criterion, repeatedly placed above quantity, birth, and social status in determining ritual efficacy."
+    },
+    {
+      "topic": "Cosmogonic hierarchy: the ancestral origins of cosmic groups (Pitrs as primordial deities)",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-7364c1", "quote": "From the sages, the ancestors were born; from the ancestors, the gods and men; and from the gods, this entire world, both movable and immovable"},
+        {"paragraph_id": "p-9f5b99", "quote": "Free from anger, devoted to purity, ever celibate, with weapons laid aside, the great-souled ancestors are the primordial deities"},
+        {"paragraph_id": "p-5e0e7e", "quote": "The sons of Manu, the son of the Golden Embryo, who are Marichi and the others—the sons of all those sages are remembered as the hosts of the Ancestors"}
+      ],
+      "justification": "The passage culminates in an elaborated cosmogony where the Pitrs (ancestors) are positioned as primordial deities preceding even the gods in the cosmic hierarchy, grounding the sraddha rite in ontology."
+    },
+    {
+      "topic": "Ritual contamination through social transgression: irregular marriage, birth, and conduct as disqualifiers",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-c8ac37", "quote": "He who marries and establishes his sacred fire while his elder brother is yet unmarried is to be known as a parivettṛ"},
+        {"paragraph_id": "p-909d50", "quote": "The parivitti, the parivettṛ, the woman with whom the marriage is contracted, the one who gives her away, and the sacrificing priest as the fifth—they all go to hell"},
+        {"paragraph_id": "p-c6d0ff", "quote": "Two sons, a kuṇḍa and a golaka, are born from the wives of other men: a kuṇḍa is born while the husband is alive, and a golaka after the husband is dead"}
+      ],
+      "justification": "The text presents a detailed taxonomy of social and sexual transgressions that generate permanent ritual disqualification, connecting moral conduct to sacrificial efficacy."
+    },
+    {
+      "topic": "The ancestors (Pitrs) as cosmic beings who attend ritual rites and are nourished by them",
+      "implicit": true,
+      "mentions": [
+        {"paragraph_id": "p-38ca53", "quote": "the ancestors attend upon those invited twice-born; they follow them like the wind and wait upon them as they are seated"},
+        {"paragraph_id": "p-38ca53", "quote": "the ancestors attend upon those invited twice-born; they follow them like the wind and wait upon them as they are seated"},
+        {"paragraph_id": "p-b291ba", "quote": "The rite for the ancestors is more important for the twice-born than the rite for the gods; for the rite for the gods is remembered as a preliminary means of satisfying the rite for the ancestors"}
+      ],
+      "justification": "The Pitrs are implicitly presented as an invisible but physically present audience at every sraddha, whose cosmic welfare depends directly on the ritual purity of the invited Brahmanas—a theological premise underlying the entire passage's concern with exclusion."
+    },
+    {
+      "topic": "The cosmic chain: fire-oblation → sun → rain → food → beings",
+      "implicit": true,
+      "mentions": [
+        {"paragraph_id": "p-249e3f", "quote": "An oblation duly cast into the fire reaches the sun; from the sun, rain is born; from rain, food; and from food, living creatures"},
+        {"paragraph_id": "p-254f63", "quote": "he who is engaged in the rites for the gods supports this movable and immovable world"}
+      ],
+      "justification": "The text implies a cosmological chain of causation linking domestic fire-oblation to the maintenance of the entire natural and social order, providing the cosmic rationale for household ritual obligation."
+    },
+    {
+      "topic": "The sraddha as the center of the ritual economy: prioritized above even god-rites",
+      "implicit": true,
+      "mentions": [
+        {"paragraph_id": "p-b291ba", "quote": "The rite for the ancestors is more important for the twice-born than the rite for the gods; for the rite for the gods is remembered as a preliminary means of satisfying the rite for the ancestors"},
+        {"paragraph_id": "p-a971c4", "quote": "Now I will declare in full which best of the twice-born are fit to be fed there, which are to be excluded"},
+        {"paragraph_id": "p-1e1777", "quote": "A knower of Dharma should not scrutinize a Brahmana for a rite for the gods; but when a rite for the ancestors is at hand, he should scrutinize him with care"}
+      ],
+      "justification": "The implicit argument of the passage is that the sraddha rite, not the god-rite, is the highest domestic ritual priority, requiring far greater scrutiny and care—a value hierarchy that governs the entire treatment of worthy and unworthy recipients."
+    }
+  ],
+  "citations": []
+}

@@ -1,0 +1,41 @@
+{
+  "work_slug": "john-gambold-poems-c6ea61",
+  "work_title": "Poems",
+  "chapter_number": 8,
+  "chapter_title": "RELIGIOUS DISCOURSE.",
+  "chapter_slug": "08-religious-discourse",
+  "author": "John Gambold",
+  "author_slug": "john-gambold",
+  "ecpa_poem_id": "o3900-w0440",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "hymn"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 151
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4e1a8992-82f4-5f7c-8af2-10986c1cdfe6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1167,
+      "line_count": 152,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

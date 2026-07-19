@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 56**
+**Viṣṇu Smriti 56**
 
 Now, therefore, there are the purifiers of all the Vedas. // Vi_56.1 //
 

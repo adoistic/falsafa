@@ -1,0 +1,47 @@
+{
+  "work_slug": "joseph-addison-poems-ca1079",
+  "work_title": "Poems",
+  "chapter_number": 3,
+  "chapter_title": "To Her ROYAL HIGHNESS the PRINCESS of WALES, With the Tragedy of CATO. Nov. 1714.",
+  "chapter_slug": "03-to-her-royal-highness-the-princess-of-wales-with",
+  "author": "Joseph Addison",
+  "author_slug": "joseph-addison",
+  "ecpa_poem_id": "o4226-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "dedication",
+      "panegyric",
+      "address"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 64
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f2826b60-c28b-5c80-ad81-f5773fd4c9cf",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 470,
+      "line_count": 65,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -7,7 +7,7 @@
   "license": "MIT",
   "scripts": {
     "predev": "bun run scripts/prepare-covers.ts && bun run scripts/prepare-corpus.ts && bun run scripts/build-paragraph-index.ts",
-    "prebuild": "bun run scripts/prepare-covers.ts && bun run scripts/prepare-corpus.ts && bun run scripts/build-paragraph-index.ts",
+    "prebuild": "bun run scripts/prepare-covers.ts && bun run scripts/prepare-corpus.ts && bun run scripts/build-paragraph-index.ts && bun run scripts/build-llms.ts",
     "prepare-covers": "bun run scripts/prepare-covers.ts",
     "prepare-corpus": "bun run scripts/prepare-corpus.ts",
     "build-paragraph-index": "bun run scripts/build-paragraph-index.ts",

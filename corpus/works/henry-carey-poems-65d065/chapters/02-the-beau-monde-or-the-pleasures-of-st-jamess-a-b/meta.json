@@ -1,0 +1,45 @@
+{
+  "work_slug": "henry-carey-poems-65d065",
+  "work_title": "Poems",
+  "chapter_number": 2,
+  "chapter_title": "THE BEAU MONDE, OR THE Pleasures of St. JAMES'S. A BALLAD.",
+  "chapter_slug": "02-the-beau-monde-or-the-pleasures-of-st-jamess-a-b",
+  "author": "Henry Carey",
+  "author_slug": "henry-carey",
+  "ecpa_poem_id": "o3452-w0020",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "song",
+      "refrain"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "xaxa",
+    "syllable_pattern": "8.7.8.7",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-/ -+|-+|-+|-+/ -+|-+|-+|-/",
+    "line_count": 68
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c5ef04a9-f381-554e-8294-37fb89de3473",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 387,
+      "line_count": 70,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

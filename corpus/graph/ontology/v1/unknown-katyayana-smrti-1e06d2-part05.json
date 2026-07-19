@@ -1,0 +1,395 @@
+{
+  "slug": "unknown-katyayana-smrti-1e06d2",
+  "window": "77-80",
+  "entities": [
+    {
+      "canonical_name": "King",
+      "surface_names": ["king", "lord of the earth", "royal"],
+      "kind": "figure",
+      "figure_kind": "ruler",
+      "mentions": [
+        {
+          "paragraph_id": "p-d1b1c2",
+          "quote": "the king should make it a source of revenue, for the purpose of preventing deception among respectable people",
+          "role": "regulator of gambling"
+        },
+        {
+          "paragraph_id": "p-12857f",
+          "quote": "Property without an heir goes to the king, after setting aside what is for the woman's maintenance and for funeral rites",
+          "role": "recipient of heirless property"
+        },
+        {
+          "paragraph_id": "p-4d79f9",
+          "quote": "the decision regarding their established practices rests with them, not with the king",
+          "role": "jurisdictional limit"
+        },
+        {
+          "paragraph_id": "p-99a40b",
+          "quote": "these ten offenses the king must investigate himself",
+          "role": "investigator of crimes"
+        },
+        {
+          "paragraph_id": "p-beb80c",
+          "quote": "Kings who apply punishment correctly are worshipped even by the gods",
+          "role": "upholder of cosmic order"
+        },
+        {
+          "paragraph_id": "p-ba8a1e",
+          "quote": "a king, a lord of the earth, should always act, being devoted to his duties",
+          "role": "ideal ruler"
+        }
+      ],
+      "description": "The king is the central authority figure responsible for administering justice, regulating vice, punishing offenders, and protecting the social order.",
+      "justification": "The king appears across chapters 79 and 80 as the primary agent of law enforcement, revenue collection, and punishment, making him the most prominent figure in these chapters."
+    },
+    {
+      "canonical_name": "Brahmin",
+      "surface_names": ["Brahmin", "Brahmins", "learned Brahmin"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-12857f",
+          "quote": "the property of a learned Brahmin should be given to other learned Brahmins",
+          "role": "privileged inheritor"
+        },
+        {
+          "paragraph_id": "p-99a40b",
+          "quote": "the desire to kill cows and Brahmins",
+          "role": "protected class"
+        },
+        {
+          "paragraph_id": "p-2dbcc7",
+          "quote": "A Brahmin deserving death or mutilation of a limb should enter solitary confinement",
+          "role": "subject to special punishment rules"
+        },
+        {
+          "paragraph_id": "p-bf7a62",
+          "quote": "Having given all the wealth collected from fines to Brahmins",
+          "role": "recipient of royal fine-revenue"
+        }
+      ],
+      "description": "Brahmins are the priestly class who receive special legal treatment — their heirless property stays within the class, they are protected from killing, and fine-revenues are donated to them.",
+      "justification": "Brahmins appear repeatedly as a specially protected and legally privileged group with distinct inheritance and punishment rules that differ from other varnas."
+    },
+    {
+      "canonical_name": "Shudra",
+      "surface_names": ["Shudra"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-1e3f21",
+          "quote": "A Shudra who takes up the life of an ascetic and devotes himself to chanting and fire-sacrifices, the king should punish that sinner with death",
+          "role": "transgressor of varna duties"
+        }
+      ],
+      "description": "The Shudra is the lowest varna, here specifically prohibited from adopting the ascetic lifestyle and Brahminical practices such as chanting and fire-sacrifices.",
+      "justification": "The Shudra is named as the subject of a specific capital prohibition against crossing varna boundaries by adopting ascetic religious roles."
+    },
+    {
+      "canonical_name": "Widow",
+      "surface_names": ["sonless widow", "wife", "guardian-wife", "woman"],
+      "kind": "figure",
+      "figure_kind": "legal-subject",
+      "mentions": [
+        {
+          "paragraph_id": "p-71c090",
+          "quote": "A sonless widow, preserving her husband's bed and remaining under the protection of her elders, being chaste, may enjoy his property until death",
+          "role": "conditional inheritor of husband's estate"
+        },
+        {
+          "paragraph_id": "p-582701",
+          "quote": "When her husband has gone to heaven, a woman is entitled to food and clothing",
+          "role": "dependent beneficiary"
+        },
+        {
+          "paragraph_id": "p-899315",
+          "quote": "After her husband's death, the family's guardian-wife shall receive her husband's share. For her lifetime, she has no ownership in matters of gift, mortgage, or sale",
+          "role": "restricted property-holder"
+        },
+        {
+          "paragraph_id": "p-7d13bc",
+          "quote": "A sonless woman who is devoted to vows and fasting, established in celibacy, and always engaged in self-control and charity, goes to heaven",
+          "role": "aspirant to heavenly reward"
+        }
+      ],
+      "description": "The widow is a legally constrained figure who may enjoy her deceased husband's property only under strict conditions of chastity and elder-service but lacks full ownership rights.",
+      "justification": "Chapter 78 is entirely devoted to the widow's legal position as conditional heir, making her the primary legal subject of that chapter."
+    },
+    {
+      "canonical_name": "Ascetic",
+      "surface_names": ["ascetic", "ascetics"],
+      "kind": "figure",
+      "figure_kind": "religious-practitioner",
+      "mentions": [
+        {
+          "paragraph_id": "p-4d79f9",
+          "quote": "For barbarians, outcastes, rogues, gamblers, and ascetics, the decision regarding their established practices rests with them, not with the king",
+          "role": "self-governing community member"
+        },
+        {
+          "paragraph_id": "p-e95719",
+          "quote": "towards an ascetic, a reprimand",
+          "role": "subject of mild royal punishment"
+        },
+        {
+          "paragraph_id": "p-1e3f21",
+          "quote": "A Shudra who takes up the life of an ascetic",
+          "role": "normative reference point for ascetic identity"
+        }
+      ],
+      "description": "Ascetics are recognized as a legally semi-autonomous group whose internal customs are self-regulated, yet they remain subject to royal authority in the form of verbal reprimand.",
+      "justification": "Ascetics appear as a distinct social category with special jurisdictional status, set apart from ordinary royal subjects."
+    },
+    {
+      "canonical_name": "Gaming-house keeper",
+      "surface_names": ["sabhika", "gaming-house keeper"],
+      "kind": "figure",
+      "figure_kind": "functionary",
+      "mentions": [
+        {
+          "paragraph_id": "p-990a20",
+          "quote": "The gaming-house keeper (*sabhika*) should conduct the gambling and should himself give the king's share",
+          "role": "state-licensed gambling operator"
+        },
+        {
+          "paragraph_id": "p-ae4c8b",
+          "quote": "The gaming-house keeper should forcibly make the loser pay what is due in that place",
+          "role": "debt enforcer"
+        },
+        {
+          "paragraph_id": "p-4cdb4b",
+          "quote": "the gaming-house keeper is the authority, provided that the keeper is honest",
+          "role": "adjudicator of gambling disputes"
+        }
+      ],
+      "description": "The sabhika is the licensed operator of a public gaming establishment who collects revenue for the king, enforces debts, and adjudicates disputes among gamblers.",
+      "justification": "The gaming-house keeper is assigned a specific regulatory and judicial role in chapter 79's gambling code, making them a distinct institutional figure."
+    },
+    {
+      "canonical_name": "Strīdhana",
+      "surface_names": ["strīdhana", "woman's property", "Woman's Property"],
+      "kind": "idea",
+      "mentions": [
+        {
+          "paragraph_id": "p-8abcd6",
+          "quote": "This is the law for *strīdhana*; thus the partition is arranged",
+          "role": "legal category being partitioned"
+        },
+        {
+          "paragraph_id": "p-0eec2a",
+          "quote": "The *strīdhana* received by a woman from her father in the Āsura and other forms of marriage",
+          "role": "property defined by marriage form"
+        },
+        {
+          "paragraph_id": "p-9edf7a",
+          "quote": "A righteous king should make a woman pay a fine from her Woman's Property",
+          "role": "source of fine payment"
+        }
+      ],
+      "description": "Strīdhana is the legal concept of woman's personal property, inherited or gifted to her, with specific rules of succession depending on marriage type and the presence of heirs.",
+      "justification": "Strīdhana is the central legal concept governing chapters 77's inheritance rules and reappears in chapter 80 as the asset base for women's fines."
+    },
+    {
+      "canonical_name": "Āsura marriage",
+      "surface_names": ["Āsura", "Āsura and other forms of marriage"],
+      "kind": "idea",
+      "mentions": [
+        {
+          "paragraph_id": "p-0eec2a",
+          "quote": "The *strīdhana* received by a woman from her father in the Āsura and other forms of marriage, in the absence of her offspring, is desired to go to her mother and father",
+          "role": "marriage form determining inheritance of strīdhana"
+        }
+      ],
+      "description": "The Āsura marriage is a recognized but lower form of marriage in which property given to the bride reverts to her parents if she dies without issue.",
+      "justification": "The Āsura form is cited as a specific legal category that alters the default inheritance trajectory of strīdhana, showing the text's attention to marriage-type taxonomy."
+    },
+    {
+      "canonical_name": "Saṃsṛṣṭa",
+      "surface_names": ["saṃsṛṣṭas", "reunited coparceners"],
+      "kind": "idea",
+      "mentions": [
+        {
+          "paragraph_id": "p-3acb45",
+          "quote": "Of reunited coparceners (*saṃsṛṣṭas*), the reunited are heirs; of separated ones, the separated",
+          "role": "inheritance category"
+        }
+      ],
+      "description": "Saṃsṛṣṭas are coparceners who have re-united their shares after a prior partition, creating a distinct mutual-heirship group separate from those who remain separated.",
+      "justification": "The term is introduced as a technical legal category determining the line of mutual succession within joint-family property law."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Inheritance hierarchy and women's property rights",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-8abcd6",
+          "quote": "Sisters with their husbands should divide it with their kinsmen. This is the law for *strīdhana*"
+        },
+        {
+          "paragraph_id": "p-07a156",
+          "quote": "In the absence of daughters, that inheritance goes to the sons. What was given by her kinsmen goes to her kinsmen"
+        },
+        {
+          "paragraph_id": "p-d68c7e",
+          "quote": "The wife who is not unchaste is the heir to her husband's wealth"
+        }
+      ],
+      "justification": "Chapters 77 and 78 lay out an intricate, gender-sensitive succession ladder for deceased women's property and for property of sonless men, with chastity and kin-affiliation as determining variables."
+    },
+    {
+      "topic": "Conditionality of widows' property rights on chastity and obedience",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-71c090",
+          "quote": "A sonless widow, preserving her husband's bed and remaining under the protection of her elders, being chaste, may enjoy his property until death"
+        },
+        {
+          "paragraph_id": "p-c95f15",
+          "quote": "She is entitled to enjoy her allotted share if she is devoted to serving her elders. If she does not perform this service, she should be assigned only clothing and a morsel of food"
+        },
+        {
+          "paragraph_id": "p-1ff742",
+          "quote": "a woman who is addicted to adultery is not entitled to the property"
+        }
+      ],
+      "justification": "The text makes a widow's economic survival explicitly contingent on sexual purity and filial obedience, linking property rights directly to behavioural compliance."
+    },
+    {
+      "topic": "State regulation and licensing of gambling",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-d1b1c2",
+          "quote": "the king should make it a source of revenue, for the purpose of preventing deception among respectable people"
+        },
+        {
+          "paragraph_id": "p-990a20",
+          "quote": "The gaming-house keeper (*sabhika*) should conduct the gambling and should himself give the king's share"
+        },
+        {
+          "paragraph_id": "p-12c301",
+          "quote": "the gambler, having given the king his prescribed share, may gamble openly; in this way, no fault is incurred"
+        }
+      ],
+      "justification": "Chapter 79 frames gambling not as an activity to be simply banned but as a vice the king can harness through taxation and licensing to prevent worse abuses."
+    },
+    {
+      "topic": "Gambling as a social vice productive of strife and ruin",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-f4a28e",
+          "quote": "One should not engage in gambling, which increases anger and greed. It is a begetter of wicked men, cruel, and a destroyer of men's wealth"
+        },
+        {
+          "paragraph_id": "p-16404a",
+          "quote": "strife certainly arises from gambling, as poison from a serpent's mouth, therefore the king should suppress it in his domain"
+        }
+      ],
+      "justification": "The text opens chapter 79 with a moralistic framing of gambling as inherently destructive, grounding the subsequent regulatory regime in ethical condemnation."
+    },
+    {
+      "topic": "Varna hierarchy and prohibitions on crossing caste boundaries",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-1e3f21",
+          "quote": "A Shudra who takes up the life of an ascetic and devotes himself to chanting and fire-sacrifices, the king should punish that sinner with death"
+        },
+        {
+          "paragraph_id": "p-8c442b",
+          "quote": "the destruction of the rules of caste and life-stages, and the disruption of the purity of mixed castes"
+        }
+      ],
+      "justification": "The text treats caste transgressions as criminal offenses requiring royal intervention, with the most severe penalties reserved for Shudras performing Brahminical religious acts."
+    },
+    {
+      "topic": "Royal duty as the foundation of cosmic and social order",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-beb80c",
+          "quote": "Kings who apply punishment correctly are worshipped even by the gods"
+        },
+        {
+          "paragraph_id": "p-ba8a1e",
+          "quote": "a king, a lord of the earth, should always act, being devoted to his duties. And he should appoint all his servants to work for the welfare of the world"
+        },
+        {
+          "paragraph_id": "p-35a545",
+          "quote": "Kings and ministers especially suffer from not punishing sinners and from punishing the submissive"
+        }
+      ],
+      "justification": "Chapter 80 closes the treatise by elevating correct royal punishment to a cosmological virtue, connecting just kingship to divine approval and universal welfare."
+    },
+    {
+      "topic": "Proportionality and gradation in punishment",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-b93c60",
+          "quote": "One deserving death deserves a fine of one hundred gold pieces. For mutilation of a limb, half of that; for banishment, twenty-five"
+        },
+        {
+          "paragraph_id": "p-beb80c",
+          "quote": "The first fine should be imposed for an initial offense; the middle fine is remembered for a continuing one"
+        },
+        {
+          "paragraph_id": "p-f10055",
+          "quote": "For children, the old, the sick, and women, the punishment is not beating or a fine"
+        }
+      ],
+      "justification": "The text articulates a calibrated system of penalties scaled to the nature of the offense, the social category of the offender, and whether the offense is first or repeated."
+    },
+    {
+      "topic": "King's intelligence network and proactive governance",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-82be2e",
+          "quote": "the king, having been well-informed of these by his spies, should suppress them himself"
+        },
+        {
+          "paragraph_id": "p-85bedc",
+          "quote": "Those acts done anonymously, the legal arguments of litigants, the agitation of the subjects, and conspiracy among them"
+        }
+      ],
+      "justification": "The text implicitly treats royal spying as a legitimate and necessary instrument of governance, presupposing an intelligence apparatus through the phrase 'well-informed by his spies'."
+    },
+    {
+      "topic": "Special legal status of the destitute and enslaved",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-1332e7",
+          "quote": "Those who are dependent on others, and those who are in a state of slavery, are designated as helpless; their punishment is beating"
+        },
+        {
+          "paragraph_id": "p-5708c7",
+          "quote": "The destitute should be placed in confinement; one should not apply the death penalty"
+        }
+      ],
+      "justification": "The text recognises a distinct legal sub-class of economically helpless persons (slaves, the destitute) for whom monetary fines are inapplicable and physical or custodial punishment substitutes."
+    },
+    {
+      "topic": "Miscellany as a jurisprudential category",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-68dd79",
+          "quote": "Miscellaneous matters include what remains after the previous topics, what has fallen outside its proper legal heading, what is introduced from another authority and is inconsistent",
+          "role": "definition"
+        },
+        {
+          "paragraph_id": "p-95352a",
+          "quote": "Any rule which follows this procedure is considered a miscellaneous matter"
+        }
+      ],
+      "justification": "Chapter 80 opens with a self-reflective jurisprudential definition of 'miscellany', treating the category of legal remainder as itself a formal topic requiring definition — an implicit metatextual theme."
+    }
+  ],
+  "citations": []
+}

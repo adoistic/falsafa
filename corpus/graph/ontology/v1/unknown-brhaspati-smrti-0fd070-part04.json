@@ -1,0 +1,269 @@
+{
+  "slug": "unknown-brhaspati-smrti-0fd070",
+  "window": "01:792-1065",
+  "entities": [
+    {
+      "canonical_name": "King",
+      "surface_names": ["king", "kings"],
+      "kind": "figure",
+      "figure_kind": "ruler",
+      "mentions": [
+        {"paragraph_id": "p-05c49a", "quote": "for cows and land, by the king's order in market places", "role": "authority setting commodity prices"},
+        {"paragraph_id": "p-5f21fb", "quote": "When the king grants a field, he should have it demarcated", "role": "grantor of land with demarcation duty"},
+        {"paragraph_id": "p-4a56c8", "quote": "so the king should establish it with justice for the two villages", "role": "arbiter of boundary disputes"},
+        {"paragraph_id": "p-10d5da", "quote": "all of them should be punished separately by the king with the middle amercement", "role": "punisher of false witnesses"},
+        {"paragraph_id": "p-a8539b", "quote": "The king should make the boundary of ten villages, a hundred villages, or a thousand villages", "role": "administrative boundary-setter"},
+        {"paragraph_id": "p-7597ce", "quote": "the king should pour heated oil into his mouth and ears", "role": "enforcer of caste-based speech laws"},
+        {"paragraph_id": "p-760d30", "quote": "by a king who desires the welfare of the world, violent criminals … should not be released", "role": "protector of public order"},
+        {"paragraph_id": "p-c3dabc", "quote": "The king who, out of greed or fear, does not kill wrongdoers, his kingdom becomes agitated", "role": "responsible for social order through punishment"}
+      ],
+      "description": "The king is the supreme judicial and administrative authority whose duty is to set prices, demarcate land, punish criminals, and maintain social order.",
+      "justification": "The king appears repeatedly as the central enforcer of legal norms across sale, boundary, assault, theft, and homicide sections throughout this window."
+    },
+    {
+      "canonical_name": "Brahmin",
+      "surface_names": ["Brahmin", "Brahmins", "twice-born"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-5f21fb", "quote": "overseen by men learned in the four Vedas", "role": "Veda-learned overseers of land demarcation"},
+        {"paragraph_id": "p-838264", "quote": "He should make a Brahmin swear by truth", "role": "witness sworn by truth in boundary disputes"},
+        {"paragraph_id": "p-7597ce", "quote": "For one who gives a religious instruction unrighteously to Brahmins, the king should pour heated oil into his mouth and ears", "role": "protected class; wronging them incurs severe punishment"},
+        {"paragraph_id": "p-ee0cce", "quote": "For defaming a Kshatriya, the fine for a Brahmin is fifty", "role": "liable party in inter-caste defamation fines"},
+        {"paragraph_id": "p-c882cd", "quote": "In an assault on one devoid of good qualities, a Brahmin is not at fault", "role": "exempted from punishment when assaulting the unworthy"},
+        {"paragraph_id": "p-6a0ddd", "quote": "one who gives religious instruction accompanied by citations from the Veda, but insults Brahmins, is to be punished by the cutting out of his tongue", "role": "protected from insult under severe penalty"},
+        {"paragraph_id": "p-1ebaa2", "quote": "For transgressing against a Brahmin … he should be killed", "role": "highest-status victim class requiring capital punishment for transgressors"},
+        {"paragraph_id": "p-f238b6", "quote": "With whatever limb a Shudra strikes one of the twice-born in anger, that [limb] must be cut off", "role": "protected class; assaults by lower castes require amputation"},
+        {"paragraph_id": "p-9bd6e0", "quote": "The killing of an ātatāyin, a Brahmin, or a sacrificial animal in a righteous battle", "role": "specially proscribed killing in Kali Yuga"},
+        {"paragraph_id": "p-ed34ce", "quote": "A thief who is of good conduct and learned in the Veda is to be tormented in prison for a long time", "role": "Veda-learned criminal accorded mitigated but prolonged punishment"}
+      ],
+      "description": "Brahmins are the priestly social class who are specially protected from insult and assault, serve as sworn witnesses, and whose killing or defaming incurs the heaviest legal penalties.",
+      "justification": "Brahmins appear throughout the assault, defamation, theft, and heinous crime sections as the highest-status protected group whose harm by lower castes triggers graduated punishment."
+    },
+    {
+      "canonical_name": "Kshatriya",
+      "surface_names": ["Kshatriya"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-838264", "quote": "a Kshatriya by his vehicle and weapons", "role": "sworn by symbols of martial honor in boundary disputes"},
+        {"paragraph_id": "p-ee0cce", "quote": "For defaming a Kshatriya, the fine for a Brahmin is fifty", "role": "subject of inter-caste defamation fine schedule"},
+        {"paragraph_id": "p-4b4e60", "quote": "For a Vaishya insulting a Kshatriya, a fine of one hundred should be imposed", "role": "protected from insult by Vaishya with heavy fine"},
+        {"paragraph_id": "p-b3e1b2", "quote": "For a Kshatriya insulting a Shudra, the fine is twenty-five", "role": "fined for insulting Shudra, but at lower rate"}
+      ],
+      "description": "Kshatriyas are the warrior-ruling social class who are sworn by their martial symbols and occupy the second rank in the caste-based fine schedule for verbal assault.",
+      "justification": "The Kshatriya appears in the verbal and physical assault sections as a mid-tier caste whose insults and receipt of insults carry graduated fines relative to Brahmins and Vaishyas."
+    },
+    {
+      "canonical_name": "Vaishya",
+      "surface_names": ["Vaishya"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-ee0cce", "quote": "for a Vaishya, likewise twenty-five", "role": "subject of inter-caste defamation fine schedule"},
+        {"paragraph_id": "p-4b4e60", "quote": "A Kshatriya insulting a Vaishya deserves half that punishment", "role": "receives lighter punishment when insulted by Kshatriya"},
+        {"paragraph_id": "p-c328ec", "quote": "A Shudra insulting a Vaishya should be made to pay the first amercement", "role": "protected from Shudra insult at first-amercement level"}
+      ],
+      "description": "Vaishyas are the merchant-farmer social class occupying the third rank in the varna hierarchy, subject to a graduated fine schedule for inter-caste verbal and physical assaults.",
+      "justification": "Vaishyas appear in the verbal assault section as one of four ranked castes with specific fines calibrated to the direction of the insult."
+    },
+    {
+      "canonical_name": "Shudra",
+      "surface_names": ["Shudra", "Shudras"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-026685", "quote": "If a Shudra is the guide, having adorned him with the insignia of a eunuch, having smeared his face with the ash of a corpse", "role": "subjected to ritual humiliation if serving as boundary guide"},
+        {"paragraph_id": "p-ee0cce", "quote": "for a Shudra, twelve and a half", "role": "lowest fine-receipt tier in defamation schedule"},
+        {"paragraph_id": "p-fc7c59", "quote": "This fine is ordained for a good Shudra who is not at fault", "role": "good-conduct Shudra protected from unprovoked insult"},
+        {"paragraph_id": "p-c328ec", "quote": "A Shudra insulting a Vaishya should be made to pay the first amercement; For insulting a Kshatriya, the middle; and for a Brahmin, the highest amercement", "role": "subject to escalating fines for insulting higher castes"},
+        {"paragraph_id": "p-f238b6", "quote": "With whatever limb a Shudra strikes one of the twice-born in anger, that [limb] must be cut off", "role": "faces amputation for physically assaulting twice-born"}
+      ],
+      "description": "Shudras are the lowest varna whose legal disabilities include ritual humiliation when serving as boundary guides and harsh amputative punishments for assaulting higher castes.",
+      "justification": "Shudras appear across boundary demarcation, verbal assault, and physical assault sections as the legally most disadvantaged varna facing the harshest graduated penalties."
+    },
+    {
+      "canonical_name": "Manu",
+      "surface_names": ["Manu"],
+      "kind": "figure",
+      "figure_kind": "lawgiver",
+      "mentions": [
+        {"paragraph_id": "p-2a0a87", "quote": "Though stated by Manu, niyoga was forbidden by him himself", "role": "earlier lawgiver whose ruling on levirate is cited and then qualified"}
+      ],
+      "description": "Manu is the ancient lawgiver whose text is cited as a prior authority on the practice of niyoga (levirate), which Bṛhaspati then supersedes by declaring it obsolete.",
+      "justification": "Manu is named as the source of the niyoga rule that Bṛhaspati explicitly revokes due to the degenerate conditions of the Kali Yuga."
+    },
+    {
+      "canonical_name": "Ātatāyin",
+      "surface_names": ["ātatāyin", "ātatāyins"],
+      "kind": "figure",
+      "figure_kind": "aggressor-type",
+      "mentions": [
+        {"paragraph_id": "p-9bd6e0", "quote": "The killing of an ātatāyin, a Brahmin, or a sacrificial animal in a righteous battle", "role": "one of three specially regulated killing categories"},
+        {"paragraph_id": "p-ac9c12", "quote": "In killing an ātatāyin, the killer does not incur any sin", "role": "legitimate target of lethal force without sin"},
+        {"paragraph_id": "p-bc1c57", "quote": "He who does not kill an ātatāyin of high rank … obtains the fruit of a horse-sacrifice", "role": "one whose killing, even if high-ranked, earns great merit"},
+        {"paragraph_id": "p-8adbbb", "quote": "He who kills an ātatāyin who is learned in the Veda and born in a good family … does not become a slayer of an embryo", "role": "even a Veda-learned ātatāyin may be killed without sin"},
+        {"paragraph_id": "p-7be272", "quote": "one who kills an ātatāyin … is not punished", "role": "exempt from legal punishment for defensive killing"}
+      ],
+      "description": "An ātatāyin is a person who initiates extreme aggression (arson, poisoning, etc.) and whose killing is legally and morally permitted without incurring sin or punishment.",
+      "justification": "The ātatāyin is a legally defined aggressor-category appearing in the heinous crime section as the paradigm case for justified homicide."
+    },
+    {
+      "canonical_name": "Kali Yuga",
+      "surface_names": ["Kali Yuga", "Kali"],
+      "kind": "idea",
+      "mentions": [
+        {"paragraph_id": "p-9bd6e0", "quote": "The wise say that these dharmas are to be avoided in the Kali Yuga", "role": "the degenerate age in which certain killing-norms are suspended"},
+        {"paragraph_id": "p-722626", "quote": "In the Dvāpara and Kali Yugas, a decline in the power of men has been ordained", "role": "era of diminished human capacity justifying stricter legal restrictions"}
+      ],
+      "description": "The Kali Yuga is the current degenerate cosmic age invoked to justify stricter or modified legal rules, including the prohibition of niyoga and avoidance of certain killing norms.",
+      "justification": "The Kali Yuga is explicitly cited twice in this window as the cosmological justification for departing from prior dharmaśāstra rulings."
+    },
+    {
+      "canonical_name": "Kṛta Yuga",
+      "surface_names": ["Kṛta", "Tretā", "Dvāpara"],
+      "kind": "idea",
+      "mentions": [
+        {"paragraph_id": "p-722626", "quote": "Men in the Kṛta and Tretā Yugas were endowed with austerity and knowledge. In the Dvāpara and Kali Yugas, a decline in the power of men has been ordained", "role": "earlier cosmic ages of superior human capacity contrasted with the present"}
+      ],
+      "description": "The Kṛta, Tretā, and Dvāpara Yugas are the three prior cosmic ages when men possessed greater austerity and knowledge, making stricter practices like niyoga feasible.",
+      "justification": "These ages are invoked to contrast ideal with degraded human capacities, providing the cosmological basis for Bṛhaspati's legal modifications."
+    },
+    {
+      "canonical_name": "Veda",
+      "surface_names": ["Veda", "Vedas", "four Vedas", "Vedic learning"],
+      "kind": "object",
+      "mentions": [
+        {"paragraph_id": "p-5f21fb", "quote": "overseen by men learned in the four Vedas", "role": "credential qualifying overseers of boundary demarcation"},
+        {"paragraph_id": "p-6a0ddd", "quote": "one who gives religious instruction accompanied by citations from the Veda, but insults Brahmins", "role": "authoritative text whose citation during instruction does not excuse insult"},
+        {"paragraph_id": "p-ed34ce", "quote": "A thief who is of good conduct and learned in the Veda is to be tormented in prison for a long time", "role": "Vedic learning mitigates but does not eliminate criminal punishment"},
+        {"paragraph_id": "p-bc1c57", "quote": "ātatāyin of high rank, endowed with good conduct and Vedic learning", "role": "Vedic learning does not protect an aggressor from justified killing"},
+        {"paragraph_id": "p-8adbbb", "quote": "an ātatāyin who is learned in the Veda", "role": "Vedic learning irrelevant to legality of killing an ātatāyin"}
+      ],
+      "description": "The Veda is the sacred scriptural corpus whose mastery confers social prestige and legal standing, though it neither exempts criminals from punishment nor protects aggressors from lethal force.",
+      "justification": "The Veda appears as a measure of qualification and social status across boundary, verbal assault, theft, and homicide sections, consistently invoked but never as an absolute shield."
+    },
+    {
+      "canonical_name": "Niyoga",
+      "surface_names": ["niyoga"],
+      "kind": "idea",
+      "mentions": [
+        {"paragraph_id": "p-579dc5", "quote": "#### 1.25.3 The Prohibition of niyoga", "role": "section heading identifying niyoga as the topic of legal prohibition"},
+        {"paragraph_id": "p-2a0a87", "quote": "Though stated by Manu, niyoga was forbidden by him himself. Due to the decline of the age, it is impossible for all to perform it according to the rule", "role": "practice declared forbidden due to Kali Yuga conditions"}
+      ],
+      "description": "Niyoga is the levirate practice by which a widow may produce offspring with a designated man; Bṛhaspati forbids it as unperformable in the Kali Yuga despite Manu's original allowance.",
+      "justification": "Niyoga receives its own dedicated subsection and is explicitly cited as Manu's ruling that Bṛhaspati overrides due to the cosmological decline of the present age."
+    },
+    {
+      "canonical_name": "Saudāyika",
+      "surface_names": ["saudāyika"],
+      "kind": "idea",
+      "mentions": [
+        {"paragraph_id": "p-d39d67", "quote": "Having received saudāyika wealth, independence is desired for women, because it was given by them for kindness, as a gift", "role": "woman's independent wealth given as a gift of affection"}
+      ],
+      "description": "Saudāyika is a woman's personal property received as gifts from kin, over which she has independent disposal rights.",
+      "justification": "Saudāyika is named as a legal category of women's property in the inheritance section, distinct from jointly-held family property."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Graduated punishment calibrated to caste rank",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-ee0cce", "quote": "For defaming a Kshatriya, the fine for a Brahmin is fifty; for a Vaishya, likewise twenty-five; for a Shudra, twelve and a half"},
+        {"paragraph_id": "p-c328ec", "quote": "A Shudra insulting a Vaishya should be made to pay the first amercement. For insulting a Kshatriya, the middle; and for a Brahmin, the highest amercement"},
+        {"paragraph_id": "p-f238b6", "quote": "With whatever limb a Shudra strikes one of the twice-born in anger, that [limb] must be cut off"}
+      ],
+      "justification": "Every assault, insult, and theft section in this window calibrates fines and bodily punishments according to the caste of both perpetrator and victim, making varna-graduated punishment the structural backbone of the entire law of wrongs."
+    },
+    {
+      "topic": "King's dual role as administrator and judge",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-5f21fb", "quote": "When the king grants a field, he should have it demarcated"},
+        {"paragraph_id": "p-4a56c8", "quote": "so the king should establish it with justice for the two villages"},
+        {"paragraph_id": "p-c3dabc", "quote": "The king who, out of greed or fear, does not kill wrongdoers, his kingdom becomes agitated, and he is deprived of his realm"},
+        {"paragraph_id": "p-760d30", "quote": "by a king who desires the welfare of the world, violent criminals … should not be released"}
+      ],
+      "justification": "The king figures simultaneously as land-granter, boundary-arbiter, punisher of thieves and killers, and guarantor of social order, revealing kingship as both executive and judicial office throughout this window."
+    },
+    {
+      "topic": "Evidentiary hierarchy: documents, witnesses, ordeals",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-507c3a", "quote": "the determination of the boundary line must be made, marked by public and secret signs"},
+        {"paragraph_id": "p-2daa75", "quote": "the determination of the boundary in a dispute would be by the witnesses"},
+        {"paragraph_id": "p-194422", "quote": "Sworn by their own oaths, they should state the decision on the boundary"},
+        {"paragraph_id": "p-8c379b", "quote": "One who is cleared by ordeals is pure; one who is not cleared deserves death"}
+      ],
+      "justification": "The text moves through a ranked evidentiary sequence—boundary signs, witnesses, oaths, and finally ordeals—reflecting a coherent procedural hierarchy for resolving disputes when lower-level proof fails."
+    },
+    {
+      "topic": "Justified homicide and the ethics of killing",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-ac9c12", "quote": "In killing an ātatāyin, the killer does not incur any sin"},
+        {"paragraph_id": "p-bc1c57", "quote": "He who does not kill an ātatāyin of high rank … obtains the fruit of a horse-sacrifice"},
+        {"paragraph_id": "p-3e1c51", "quote": "Where the death of one evil-doer brings well-being to many, his execution is a meritorious act"}
+      ],
+      "justification": "Multiple verses construct a positive duty to kill in defined circumstances, framing certain killings as not only blameless but meritorious, which is a distinctive strand of legal-ethical reasoning in this window."
+    },
+    {
+      "topic": "Legal incapacity and invalid transactions",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-1b2046", "quote": "What is sold by one who is intoxicated or insane, for a low price or out of fear, by one who is not independent or by a minor"},
+        {"paragraph_id": "p-a63a12", "quote": "An exchange made by the intoxicated, foolish, ignorant, afflicted, or deluded, and whatever has an improper price, all that is condemned"},
+        {"paragraph_id": "p-207f1d", "quote": "What was given to another out of satisfaction does not attain validity"}
+      ],
+      "justification": "The sale and boundary sections articulate a doctrine of legal incapacity whereby transactions by persons lacking full agency—due to intoxication, insanity, minority, or coercion—are void or voidable."
+    },
+    {
+      "topic": "Women's legal status, guardian duties, and marital obligations",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-bc0438", "quote": "A woman must be restrained from even the slightest attachments by her own kinsmen. She must be guarded day and night by her husband"},
+        {"paragraph_id": "p-b9a5da", "quote": "A father who does not give his daughter in marriage at the proper time, a husband who does not approach his wife during her fertile period"},
+        {"paragraph_id": "p-446ce2", "quote": "Where women are honored, there the gods rejoice. And prosperity, pure progeny, and fruitful rites will result"},
+        {"paragraph_id": "p-0e8ca8", "quote": "The wife is remembered as half the body, equal in the fruit of merit and demerit"}
+      ],
+      "justification": "The window contains a dedicated section on regulating women's conduct that combines prescriptions for male guardianship with idealized statements of wifely virtue and reciprocal honor, reflecting the text's dual patriarchal and protective stance."
+    },
+    {
+      "topic": "Temporal degeneration and the revision of prior legal rules",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-2a0a87", "quote": "Though stated by Manu, niyoga was forbidden by him himself. Due to the decline of the age, it is impossible for all to perform it according to the rule"},
+        {"paragraph_id": "p-722626", "quote": "Men in the Kṛta and Tretā Yugas were endowed with austerity and knowledge. In the Dvāpara and Kali Yugas, a decline in the power of men has been ordained"},
+        {"paragraph_id": "p-9bd6e0", "quote": "The wise say that these dharmas are to be avoided in the Kali Yuga"}
+      ],
+      "justification": "Bṛhaspati uses the yuga-decline framework as an explicit jurisprudential tool to override earlier authorities (Manu) and suspend certain dharmas, demonstrating how cosmological time-theory functions as a source of legal revision."
+    },
+    {
+      "topic": "Inheritance, partition, and preferential shares",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-a33ab4", "quote": "In ancestral property, a house or field, the father and sons are equal sharers. In the father's self-acquired property, the father is superior"},
+        {"paragraph_id": "p-abc0cd", "quote": "having given a preferential share to the eldest, they are equal sharers in the remainder"},
+        {"paragraph_id": "p-a540e5", "quote": "For unmarried daughters, a fourth part is desired. For the sons, three parts"}
+      ],
+      "justification": "The final section of the window is devoted to elaborate rules on property partition, covering ancestral versus self-acquired wealth, birth-order preferences, and the shares of daughters and widows."
+    },
+    {
+      "topic": "Secret and public signs as legal proof",
+      "implicit": true,
+      "mentions": [
+        {"paragraph_id": "p-8f71aa", "quote": "Imperishable things, which are naturally not subject to decay: tanks, wells, ponds, sacred monuments, gardens, and temples"},
+        {"paragraph_id": "p-09b03b", "quote": "other things which the earth does not consume, and other hidden things, one should make as boundary signs"},
+        {"paragraph_id": "p-610777", "quote": "Dried cow-dung, bones, chaff, charcoal, pebbles, stones, potsherds, sand, bricks, cow-hair, cotton seeds, bones, and ash"}
+      ],
+      "justification": "The distinction between public boundary markers (trees, wells) and secret buried markers (charcoal, bones in pots) implies a developed legal epistemology distinguishing communally observable proof from privately planted evidence."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Manusmṛti",
+      "cited_author": "Manu",
+      "stance": "refute",
+      "paragraph_id": "p-2a0a87",
+      "quote": "Though stated by Manu, niyoga was forbidden by him himself. Due to the decline of the age, it is impossible for all to perform it according to the rule",
+      "justification": "Bṛhaspati explicitly names Manu as the prior authority on niyoga and then overrides Manu's ruling by appealing to the conditions of the Kali Yuga, making this a refutation-by-supersession."
+    }
+  ]
+}

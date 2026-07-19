@@ -1,0 +1,39 @@
+{
+  "work_slug": "sarah-fyge-egerton-poems-e1b5c5",
+  "work_title": "Poems",
+  "chapter_number": 50,
+  "chapter_title": "Euterpe: The Lyrick Muse, On the Death of John Dryden, Esq; An ODE.",
+  "chapter_slug": "50-euterpe-the-lyrick-muse-on-the-death-of-john-dry",
+  "author": "Sarah Fyge Egerton",
+  "author_slug": "sarah-fyge-egerton",
+  "ecpa_poem_id": "pse03-w0490",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode",
+      "elegy"
+    ],
+    "rhyme": "irregular",
+    "metrical_pattern": "irregular",
+    "line_count": 104
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2e17a4f6-441f-5af8-aecb-0a813bd76139",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 727,
+      "line_count": 111,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

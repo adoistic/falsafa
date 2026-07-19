@@ -1,0 +1,46 @@
+{
+  "work_slug": "john-delap-poems-113b20",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "ELEGY I.",
+  "chapter_slug": "01-elegy-i",
+  "author": "John Delap",
+  "author_slug": "john-delap",
+  "ecpa_poem_id": "o4984-w0100",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic quatrain",
+      "meditation",
+      "elegy"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "10.10.10.10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/",
+    "line_count": 88
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9f9bdd93-1e3e-50aa-bc50-0ced82ffbfbf",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 707,
+      "line_count": 89,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

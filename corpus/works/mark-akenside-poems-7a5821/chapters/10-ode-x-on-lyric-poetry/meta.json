@@ -1,0 +1,42 @@
+{
+  "work_slug": "mark-akenside-poems-7a5821",
+  "work_title": "Poems",
+  "chapter_number": 10,
+  "chapter_title": "ODE X. On LYRIC Poetry.",
+  "chapter_slug": "10-ode-x-on-lyric-poetry",
+  "author": "Mark Akenside",
+  "author_slug": "mark-akenside",
+  "ecpa_poem_id": "o3776-w0100",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "stanzas": [
+      "ten-line stanza"
+    ],
+    "rhyme": "ababccdeed",
+    "syllable_pattern": "8",
+    "metrical_pattern": "irregular",
+    "line_count": 120
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1dc36f03-838d-51f0-9909-68186b597ac7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 784,
+      "line_count": 121,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "work_slug": "thomas-warton-poems-277148",
+  "work_title": "Poems",
+  "chapter_number": 9,
+  "chapter_title": "ODE TO HORROR. IN THE ALLEGORIC, DESCRIPTIVE, ALLITERATIVE, EPITHETICAL, FANTASTIC, HYPERBOLICAL, AND DIABOLICAL STYLE OF OUR MODERN ODE-WRIGHTS, AND MONODY-MONGERS.",
+  "chapter_slug": "09-ode-to-horror-in-the-allegoric-descriptive-allit",
+  "author": "Thomas Warton",
+  "author_slug": "thomas-warton",
+  "ecpa_poem_id": "o4987-w0840",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 78
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0e9c62d3-23e0-5954-b2f4-898221c56d0b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 477,
+      "line_count": 81,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "work_slug": "james-thomson-poems-24b480",
+  "work_title": "Poems",
+  "chapter_number": 8,
+  "chapter_title": "THE CASTLE OF INDOLENCE.",
+  "chapter_slug": "08-the-castle-of-indolence",
+  "author": "James Thomson",
+  "author_slug": "james-thomson",
+  "ecpa_poem_id": "o3818-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "alexandrine",
+      "Spenserian stanza",
+      "imitation"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "nine-line stanza"
+    ],
+    "rhyme": "ababbcbcc",
+    "syllable_pattern": "10.10.10.10.10.10.10.10.12",
+    "metrical_pattern": "-+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+|-+/",
+    "line_count": 1423
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ae2b9634-758f-5e55-99ef-f4de5dc62461",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 11549,
+      "line_count": 1583,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

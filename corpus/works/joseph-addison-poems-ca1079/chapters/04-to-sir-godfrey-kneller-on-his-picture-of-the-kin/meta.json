@@ -1,0 +1,45 @@
+{
+  "work_slug": "joseph-addison-poems-ca1079",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "TO Sir GODFREY KNELLER, ON HIS PICTURE of the KING.",
+  "chapter_slug": "04-to-sir-godfrey-kneller-on-his-picture-of-the-kin",
+  "author": "Joseph Addison",
+  "author_slug": "joseph-addison",
+  "ecpa_poem_id": "o4226-w0020",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "dedication",
+      "address"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 82
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0d3dc356-e85e-5c6a-9403-5d594dbfcb68",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 514,
+      "line_count": 83,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

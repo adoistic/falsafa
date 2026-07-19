@@ -1,0 +1,141 @@
+---
+work_id: "7a582177-54a0-5a4f-8c9b-7254390e3899"
+work_slug: "mark-akenside-poems-7a5821"
+work_title: Poems
+author: Mark Akenside
+author_slug: "mark-akenside"
+ecpa_poem_id: "o3776-w0020"
+chapter_number: 2
+chapter_title: "ODE II. On the WINTER-SOLSTICE, M. D.CC.XL."
+chapter_slug: "02-ode-ii-on-the-winter-solstice-m-d-cc-xl"
+variant_id: "7f1bd6f0-ec3d-5d08-8493-b1cef7f68bed"
+content_type: original
+layout: verse
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 613
+source_url: "https://www.eighteenthcenturypoetry.org/"
+license: "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+genres:
+  - ode
+metrical_foot: iambic (˘′)
+metrical_count: tetrameter (4 feet)
+stanza_form:
+  - "ten-line stanza"
+rhyme_scheme: irregular
+syllable_pattern: 8
+---
+
+ODE II. On the WINTER-SOLSTICE, M. D.CC.XL.
+
+THE radiant ruler of the year
+ At length his wintry goal attains,
+ Soon to reverse the long career,
+ And Northward bend his golden reins. 
+Prone on POTOSI's haughty brow
+ His fiery streams incessant flow,
+ Ripening the silver's ductile stores;
+ While, in the cavern's horrid shade,
+ The panting Indian hides his head,
+ And oft th' approach of eve explores. 
+
+But lo, on this deserted coast
+ How faint the light! how thick the air! 
+Lo arm'd with whirlwind, hail and frost,
+ Fierce winter desolates the year. 
+The fields resign their chearful bloom;
+ No more the breezes waft persume,
+ No more the warbling waters roll:
+ Desarts of snow fatigue the eye,
+ Black storms involve the louring sky,
+ And gloomy damps oppress the soul. 
+
+Now thro' the town promiscuous throngs
+ Urge the warm bowl and ruddy fire;
+ Harmonious dances, festive songs,
+ To charm the midnight hours conspire. 
+While mute and shrinking with her fears,
+ Each blast the cottage-matron hears
+ As o'er the hearth she sits alone:
+ At morn her bridegroom went abroad,
+ The night is dark and deep the road;
+ She sighs and wishes him at home. 
+
+But thou, my lyre, awake, arise,
+ And hail the sun's remotest ray;
+ Now, now he climbs the Northern skies,
+ To-morrow nearer than to-day. 
+Then louder howl the stormy waste,
+ Be land and ocean worse defac'd,
+ Yet brighter hours are on the wing;
+ And fancy thro' the wintry glooms,
+ All fresh with dews and opening blooms,
+ Already hails th' emerging spring. 
+
+O fountain of the golden day! 
+Could mortal vows but urge thy speed,
+ How soon before thy vernal ray
+ Should each unkindly damp recede! 
+How soon each hov'ring tempest fly,
+ That now fermenting loads the sky,
+ Prompt on our heads to burst amain,
+ To rend the forest from the sleep,
+ Or thund'ring o'er the Baltic deep
+ To whelm the merchant's hopes of gain! 
+
+But let not man's unequal views
+ Presume on nature and her laws;
+ 'Tis his with grateful joy to use
+ Th' indulgence of the sov'reign cause;
+ Secure that health and beauty springs
+ Thro' this majestic frame of things
+ Beyond what he can reach to know,
+ And that heav'n's all-subduing will,
+ With good the progeny of ill,
+ Attempers every state below. 
+
+How pleasing wears the wintry night,
+ Spent with the old illustrious dead! 
+While, by the taper's trembling light,
+ I seem those awful courts to tread
+ Where chiefs and legislators ly,
+ Whose triumphs move before my eye
+ With every laurel fresh-display'd;
+ While charm'd I taste th' Ionian song,
+ Or bend to PLATO'S godlike tongue
+ Resounding thro' the olive shade. 
+
+But if the gay, well-natur'd friend
+ Bids leave the studious page awhile,
+ Then easier joys the soul unbend
+ And teach the brow a softer smile;
+ Then while the genial glass is paid
+ By each to her, that fairest maid,
+ Whose radiant eyes his hopes obey,
+ What lucky vows his bosom warm! 
+While absence heightens every charm,
+ And love invokes returning MAY. 
+
+MAY! thou delight of heav'n and earth,
+ When will thy happy morn arise? 
+When the dear place which gave her Birth
+ Restore LUCINDA to my eyes? 
+There while she walks the wonted grove,
+ The seat of music and of love,
+ Bright as the ONE primaeval fair,
+ Thither, ye silver sounding lyres,
+ Thither gay smiles and young desires,
+ Chaste hope and mutual faith repair. 
+
+And if believing love can read
+ The wonted softness in her eye,
+ Then shall my fears, O charming maid,
+ And every pain of absence die:
+ Then ofter to thy name attun'd,
+ And rising to diviner sound,
+ I'll wake the free HORATIAN song:
+ Old TYNE shall listen to my tale,
+ And ECHO, down the bord'ring vale,
+ The liquid melody prolong.

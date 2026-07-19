@@ -1,0 +1,48 @@
+{
+  "work_slug": "matthew-green-poems-bcef0f",
+  "work_title": "Poems",
+  "chapter_number": 3,
+  "chapter_title": "The SPARROW and DIAMOND. A SONG.",
+  "chapter_slug": "03-the-sparrow-and-diamond-a-song",
+  "author": "Matthew Green",
+  "author_slug": "matthew-green",
+  "ecpa_poem_id": "o5152-w0200",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ballad metre",
+      "Chevy Chase stanza",
+      "song",
+      "advice",
+      "satire"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "8.6.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/      -+|-+|-+/     -+|-+|-+|-+/      -+|-+|-+/",
+    "line_count": 48
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7cfbd218-e5e8-5e5a-9a60-ffb312ad3fd3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 280,
+      "line_count": 63,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

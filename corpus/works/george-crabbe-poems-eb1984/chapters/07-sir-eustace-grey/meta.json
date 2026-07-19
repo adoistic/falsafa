@@ -1,0 +1,42 @@
+{
+  "work_slug": "george-crabbe-poems-eb1984",
+  "work_title": "Poems",
+  "chapter_number": 7,
+  "chapter_title": "SIR EUSTACE GREY.",
+  "chapter_slug": "07-sir-eustace-grey",
+  "author": "George Crabbe",
+  "author_slug": "george-crabbe",
+  "ecpa_poem_id": "pcr18-w0070",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "dialogue",
+      "drama"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "rhyme": "irregular",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 438
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1872c126-25a1-56ab-a43a-426aa80c99ab",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2961,
+      "line_count": 448,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

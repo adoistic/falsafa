@@ -1,0 +1,475 @@
+{
+  "slug": "unknown-katyayana-smrti-1e06d2",
+  "window": "01-23",
+  "entities": [
+    {
+      "canonical_name": "King",
+      "surface_names": ["king", "sovereign", "monarch", "lord of the land", "lord of the gods"],
+      "kind": "figure",
+      "figure_kind": "ruler",
+      "mentions": [
+        {
+          "paragraph_id": "p-fff5ea",
+          "quote": "A king should be disciplined, well-versed in the sacred texts, possessed of a full treasury and valor, devoted to Brahmins, charitable, and dedicated to truth and Dharma",
+          "role": "subject of normative prescription"
+        },
+        {
+          "paragraph_id": "p-d5006f",
+          "quote": "The lord of the gods, having fallen from heaven, abides in the form of a king.",
+          "role": "theological identification with Indra"
+        },
+        {
+          "paragraph_id": "p-218c87",
+          "quote": "Kings who are established in their own sacred duty attain the state of Indra. But those who always deviate from right conduct become dwellers in the Avīci hell.",
+          "role": "subject of cosmic reward/punishment"
+        },
+        {
+          "paragraph_id": "p-296ee5",
+          "quote": "The constant protection of subjects, the removal of thorns (troublemakers), and the worship of the twice-born—for this purpose was a king created.",
+          "role": "definition of royal purpose"
+        }
+      ],
+      "description": "The king is the central figure of the text, described as the earthly manifestation of Indra and the supreme adjudicator who oversees justice, protects subjects, and upholds Dharma.",
+      "justification": "The king is the primary subject across all chapters, defined by his duties, qualities, and cosmic significance as the lord who embodies divine authority on earth."
+    },
+    {
+      "canonical_name": "Indra",
+      "surface_names": ["Indra", "lord of the gods", "state of Indra"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-5baa0e",
+          "quote": "Through this, a king attains the state of Indra and kingship again and again.",
+          "role": "divine ideal/reward for righteous kingship"
+        },
+        {
+          "paragraph_id": "p-d5006f",
+          "quote": "The lord of the gods, having fallen from heaven, abides in the form of a king.",
+          "role": "divine prototype of the king"
+        },
+        {
+          "paragraph_id": "p-218c87",
+          "quote": "Kings who are established in their own sacred duty attain the state of Indra.",
+          "role": "eschatological reward"
+        }
+      ],
+      "description": "Indra, the lord of the gods, is invoked as both the divine archetype of kingship and the eschatological reward for righteous kings, creating a theological grounding for royal authority.",
+      "justification": "Indra is explicitly named as the divine form that the king embodies and aspires to re-attain, establishing the cosmic basis for royal legitimacy in the text."
+    },
+    {
+      "canonical_name": "Brahmin",
+      "surface_names": ["Brahmin", "Brahmins", "twice-born", "twice-born men"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-fff5ea",
+          "quote": "A king should be disciplined, well-versed in the sacred texts, possessed of a full treasury and valor, devoted to Brahmins",
+          "role": "object of royal devotion"
+        },
+        {
+          "paragraph_id": "p-09a5c8",
+          "quote": "By the power of the sound of the Vedas, the gods dwelling in heaven are also pleased, being satisfied by the worship of the twice-born.",
+          "role": "mediators between king, gods, and cosmic order"
+        },
+        {
+          "paragraph_id": "p-390ea0",
+          "quote": "When the king does not conduct the determination of cases himself, he should then appoint a Brahmin learned in the scriptures.",
+          "role": "designated judicial substitute for the king"
+        },
+        {
+          "paragraph_id": "p-ea58aa",
+          "quote": "Where a Brahmin is not available, a Kshatriya should be appointed, or a Vaishya who knows the scriptures of Dharma. A Shudra should be diligently avoided.",
+          "role": "highest-ranked caste in judicial hierarchy"
+        }
+      ],
+      "description": "Brahmins are the priestly elite whose worship pleases the gods, who serve as royal ministers and chief judges, and who rank highest in the caste hierarchy governing judicial appointments.",
+      "justification": "Brahmins are referenced throughout as the indispensable religious and legal specialists without whose guidance the king cannot properly rule or adjudicate."
+    },
+    {
+      "canonical_name": "Kshatriya",
+      "surface_names": ["Kshatriya"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-ea58aa",
+          "quote": "Where a Brahmin is not available, a Kshatriya should be appointed, or a Vaishya who knows the scriptures of Dharma.",
+          "role": "second-ranked caste eligible for judicial appointment"
+        }
+      ],
+      "description": "The Kshatriya warrior-noble caste is the second option for judicial appointment when a Brahmin is unavailable.",
+      "justification": "The Kshatriya is mentioned in the context of the caste-ranked hierarchy for appointing a chief judge, occupying the second position after Brahmins."
+    },
+    {
+      "canonical_name": "Vaishya",
+      "surface_names": ["Vaishya"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-ea58aa",
+          "quote": "or a Vaishya who knows the scriptures of Dharma. A Shudra should be diligently avoided.",
+          "role": "third-ranked caste eligible for judicial appointment if scripturally knowledgeable"
+        }
+      ],
+      "description": "The Vaishya merchant-farmer caste can serve as chief judge only if they know the scriptures of Dharma, ranked third in the judicial caste hierarchy.",
+      "justification": "The Vaishya is mentioned as a fallback judicial appointee contingent on scriptural knowledge, below Brahmin and Kshatriya in the caste-based judicial order."
+    },
+    {
+      "canonical_name": "Shudra",
+      "surface_names": ["Shudra", "Shudra and other classes"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-ea58aa",
+          "quote": "A Shudra should be diligently avoided.",
+          "role": "caste excluded from judicial appointment"
+        },
+        {
+          "paragraph_id": "p-ab4b1d",
+          "quote": "Those of the Shudra and other classes who are without a surety should be bound in fetters.",
+          "role": "subject of differential legal treatment"
+        }
+      ],
+      "description": "The Shudra laboring caste is explicitly excluded from judicial office and subjected to harsher physical restraint in legal proceedings compared to the twice-born.",
+      "justification": "The Shudra is singled out twice: once as categorically ineligible for judicial appointment and once as subject to physical fettering when lacking surety, marking the caste's subordinate legal status."
+    },
+    {
+      "canonical_name": "Bṛhaspati",
+      "surface_names": ["Bṛhaspati", "Guru"],
+      "kind": "figure",
+      "figure_kind": "sage-authority",
+      "mentions": [
+        {
+          "paragraph_id": "p-7f38f9",
+          "quote": "When the defendant, admitting the matter stated by the plaintiff, then states a reason, Guru (Bṛhaspati) has called this a special plea.",
+          "role": "cited juristic authority defining a legal term"
+        },
+        {
+          "paragraph_id": "p-fb4f86",
+          "quote": "In cases of violence, theft, assault, defamation of a cow, and in emergencies, Bṛhaspati says one should proceed with the dispute quickly, even at an improper time.",
+          "role": "cited authority for urgent legal proceedings"
+        }
+      ],
+      "description": "Bṛhaspati, the divine sage and teacher of the gods (here also called Guru), is invoked as a juristic authority whose definitions and rulings on legal procedure carry normative weight.",
+      "justification": "Bṛhaspati is cited by name twice as a named authority whose legal opinions define both procedural categories (the 'special plea') and time-urgency rules, marking him as a key source tradition."
+    },
+    {
+      "canonical_name": "Avīci Hell",
+      "surface_names": ["Avīci hell", "terrible hell"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-218c87",
+          "quote": "those who always deviate from right conduct become dwellers in the Avīci hell.",
+          "role": "eschatological punishment for unjust kings"
+        },
+        {
+          "paragraph_id": "p-0b38b0",
+          "quote": "the king who, without proper investigation, falls under the sway of anger, will undoubtedly dwell in a terrible hell for half a kalpa.",
+          "role": "punishment destination for impetuous judgment"
+        }
+      ],
+      "description": "Avīci is the lowest Buddhist/Hindu hell, here deployed as the eschatological destination for kings who deviate from sacred duty or judge in anger.",
+      "justification": "The Avīci hell is explicitly named as the cosmic sanction for royal misconduct, functioning as a theological enforcement mechanism for the text's prescriptions."
+    },
+    {
+      "canonical_name": "Court of Justice",
+      "surface_names": ["Court of Justice", "dharmādhikaraṇam", "court", "courtroom"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-2093a1",
+          "quote": "The place where the investigation of the essential truth is undertaken through deliberation on the scriptures of Dharma is the Court of Justice (dharmādhikaraṇam).",
+          "role": "defined institutional space for adjudication"
+        },
+        {
+          "paragraph_id": "p-f129c1",
+          "quote": "the king, modestly attired, having gone to the court with a concentrated mind, should sit facing east and examine the cases of the litigants",
+          "role": "ritual-spatial setting for royal judgment"
+        }
+      ],
+      "description": "The Court of Justice (dharmādhikaraṇam) is the formal institution where truth is investigated through Dharma-scriptures, subject to precise rules of orientation, timing, and personnel.",
+      "justification": "The dharmādhikaraṇam is defined as a distinct place with its own term, rules, and ritual requirements, making it a named institutional entity in the text."
+    },
+    {
+      "canonical_name": "Chief Judge",
+      "surface_names": ["Chief Judge", "prāḍvivāka"],
+      "kind": "figure",
+      "figure_kind": "official",
+      "mentions": [
+        {
+          "paragraph_id": "p-7170d7",
+          "quote": "He first (prāṅ) asks a question concerning a legal proceeding; and because he analyzes it, he is therefore known as the Chief Judge (prāḍvivāka).",
+          "role": "defined legal officer with etymological explanation"
+        },
+        {
+          "paragraph_id": "p-9f3dd0",
+          "quote": "If, while a matter is yet undecided, the Chief Judge converses in private with a litigant, he should be punished, and the assessors even more so.",
+          "role": "subject of conduct prohibition"
+        },
+        {
+          "paragraph_id": "p-a63dca",
+          "quote": "The Chief Judge should have the plaint, as it was naturally spoken, written down on a slate with chalk, and then, once corrected, on a leaf.",
+          "role": "procedural duty-holder"
+        }
+      ],
+      "description": "The Chief Judge (prāḍvivāka) is the king's judicial deputy who questions litigants, analyzes cases, and records plaints; ideally a Brahmin, they must be impartial and multi-scripturally learned.",
+      "justification": "The prāḍvivāka is given a formal Sanskrit etymology, defined duties, disqualifications, and conduct rules, establishing it as a central named office in the judicial system."
+    },
+    {
+      "canonical_name": "Assessors",
+      "surface_names": ["assessors", "court assessors", "court members"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-094a91",
+          "quote": "The foremost of the twice-born, who are not greedy, are wealthy, know the sacred law, are truthful, and are proficient in all sacred texts, should be made assessors.",
+          "role": "defined judicial personnel"
+        },
+        {
+          "paragraph_id": "p-c618e8",
+          "quote": "The court assessors should not overlook a proceeding that has begun unrighteously. If they overlook it, they, along with the king, go headlong to hell.",
+          "role": "bearers of cosmic accountability"
+        },
+        {
+          "paragraph_id": "p-4ca341",
+          "quote": "When an assessor perceives the king's mind has strayed from the path of justice, he should speak what is truly beneficial in that situation",
+          "role": "duty to correct the king"
+        }
+      ],
+      "description": "Assessors are the panel of twice-born jurors who sit with the king in court, bear collective accountability for just verdicts, and have a duty to correct a king who strays from righteousness.",
+      "justification": "A full chapter (Chapter 08) is devoted to assessors' qualifications, duties, accountability, and punishments, establishing them as a central institutional entity."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Dharma as the supreme normative framework for kingship and law",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-fff5ea",
+          "quote": "dedicated to truth and Dharma (sacred law, righteousness, and duty)"
+        },
+        {
+          "paragraph_id": "p-49b0d0",
+          "quote": "He should abandon what is stated in the texts on polity and follow what is stated in the scriptures of Dharma."
+        },
+        {
+          "paragraph_id": "p-5bea03",
+          "quote": "The scriptures of Dharma and the texts on polity are said to be its two branches."
+        }
+      ],
+      "justification": "Dharma is invoked as the ultimate standard governing every aspect of royal conduct, legal procedure, and institutional design throughout the entire text, making it the foundational normative concept."
+    },
+    {
+      "topic": "Hierarchy of legal sources: Dharma > vyavahāra > caritra > rājaśāsana",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-44d48b",
+          "quote": "Deliberation on the Relative Strength of Sacred Law, Legal Procedure, Custom, and Royal Edicts"
+        },
+        {
+          "paragraph_id": "p-965322",
+          "quote": "The righteous rule that a king establishes, which is not in conflict with the science of logic and the customs of the region, is a royal edict (rājaśāsana)."
+        },
+        {
+          "paragraph_id": "p-738d6a",
+          "quote": "a king should settle matters in accordance with the sacred texts. In the absence of a scriptural rule for all, he should decide based on regional custom."
+        }
+      ],
+      "justification": "Chapter 04 explicitly theorizes a four-tier hierarchy of legal sources with rules for when each supersedes the others, constituting a systematic jurisprudence of legal pluralism."
+    },
+    {
+      "topic": "Cosmic accountability of royal justice: heaven for righteousness, hell for injustice",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-218c87",
+          "quote": "Kings who are established in their own sacred duty attain the state of Indra. But those who always deviate from right conduct become dwellers in the Avīci hell."
+        },
+        {
+          "paragraph_id": "p-c618e8",
+          "quote": "If they overlook it, they, along with the king, go headlong to hell."
+        },
+        {
+          "paragraph_id": "p-3114b8",
+          "quote": "The king who, as an observer, sits with his Chief Judge, ministers, Brahmins, priest, and assessors, abides in heaven through his righteousness."
+        }
+      ],
+      "justification": "The text repeatedly uses eschatological sanction—heaven/Indra's state for the just, hell for the unjust—as the ultimate enforcement mechanism for legal and royal norms."
+    },
+    {
+      "topic": "Caste hierarchy as the organizing principle of judicial eligibility and legal treatment",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-ea58aa",
+          "quote": "Where a Brahmin is not available, a Kshatriya should be appointed, or a Vaishya who knows the scriptures of Dharma. A Shudra should be diligently avoided."
+        },
+        {
+          "paragraph_id": "p-ab4b1d",
+          "quote": "A twice-born person without a surety should be guarded by external guards. Those of the Shudra and other classes who are without a surety should be bound in fetters."
+        }
+      ],
+      "justification": "Caste (varṇa) determines both who may hold judicial office and how parties are treated in custody, with Brahmins at the apex and Shudras systematically excluded and more harshly restrained."
+    },
+    {
+      "topic": "The formal structure and pathology of legal pleadings (plaint and reply)",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-bb84f6",
+          "quote": "A plaint that is devoid of place and time, lacking quantity of the object and number, and deficient in the amount of the claim, is considered inadmissible."
+        },
+        {
+          "paragraph_id": "p-6c25f5",
+          "quote": "That which is unknown, contradictory, too brief, too verbose, ambiguous, impossible, unclear, irrelevant, and excessively faulty..."
+        },
+        {
+          "paragraph_id": "p-a7ca59",
+          "quote": "Knowers of plaints know a plaint to be one that is free from the defects of a claim, is provable, accompanied by a valid reason, definite, and established in the world."
+        }
+      ],
+      "justification": "Chapters 17-21 develop an elaborate taxonomy of valid and defective plaints and replies, constituting a formal theory of legal speech-acts and their technical requirements."
+    },
+    {
+      "topic": "Procedural time-limits and their calibration to case gravity and elapsed time",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-83d1a6",
+          "quote": "For a recent event, immediately; after a month, a day may be given; after six years, three nights; after twelve years, a week."
+        },
+        {
+          "paragraph_id": "p-c9b6d3",
+          "quote": "After twenty years, he may get ten days or a fortnight. After thirty years have passed, it shall be a fortnight, and beyond that, three weeks."
+        },
+        {
+          "paragraph_id": "p-4dce6d",
+          "quote": "He may obtain time immediately, or for one day, five days, or three days, according to the gravity of the case."
+        }
+      ],
+      "justification": "The text develops a systematic and graduated time-allowance schedule for defendants based on elapsed time since the event and case gravity, revealing a sophisticated procedural calendrics."
+    },
+    {
+      "topic": "Royal taxation as a one-sixth share grounded in cosmic reciprocity",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-ff1950",
+          "quote": "The king is traditionally considered the lord of the land, but not of other property at all times. He is to receive a one-sixth share of its produce, and nothing else."
+        },
+        {
+          "paragraph_id": "p-d9539a",
+          "quote": "From their activities, he receives a one-sixth share as tax, which is the result of their good and bad deeds."
+        },
+        {
+          "paragraph_id": "p-2dfa09",
+          "quote": "The sovereign who unjustly takes from his kingdom taxes, fines, a share of the crops, and duties becomes a partaker in sin."
+        }
+      ],
+      "justification": "The one-sixth tax share is given theological justification as the king's portion of subjects' karmic merit/demerit, grounding fiscal law in cosmic reciprocity rather than mere political power."
+    },
+    {
+      "topic": "Restricting legal representation and the principle of personal culpability",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-a0b028",
+          "quote": "In cases of killing a Brahmin, drinking liquor, theft, and intercourse with a preceptor's wife, and in other major sins, a representative is not permitted."
+        },
+        {
+          "paragraph_id": "p-3b2466",
+          "quote": "in cases of violence, forgery, and treason against the king, a representative should not be allowed; the perpetrator himself must conduct the dispute."
+        }
+      ],
+      "justification": "The text carves out a category of grave offenses where legal representation is barred and personal appearance is mandatory, reflecting a principle that moral culpability demands personal legal accountability."
+    },
+    {
+      "topic": "The Vedas and Smṛti texts as transcendent authorities legitimating law",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-97aa42",
+          "quote": "He should not transgress the words of the Smṛtis, which are sacred, supreme, and meritorious.",
+          "quote": "He should not transgress the words of the Smṛtis, which are sacred, supreme, and meritorious."
+        },
+        {
+          "paragraph_id": "p-fa17a3",
+          "quote": "Where a practice, previously not in use, is established and is approved by the Vedas and Smṛti, it should not be altered again."
+        },
+        {
+          "paragraph_id": "p-7351ad",
+          "quote": "The law of a particular region which has been in practice for all time and is not in conflict with the Vedas and Smṛti, is called regional custom (deśadṛṣṭa)."
+        }
+      ],
+      "justification": "The Vedas and Smṛti are repeatedly invoked as the ultimate touchstones against which all custom, royal edict, and legal procedure must be validated, establishing them as the supreme textual authority."
+    },
+    {
+      "topic": "The protection of vulnerable persons from legal process",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-8b95d8",
+          "quote": "The king should not summon those engaged in religious duties, those celebrating a festival, the sick, the foolish, the insane, the afflicted, or women."
+        },
+        {
+          "paragraph_id": "p-ed4ee0",
+          "quote": "The sick, those in distress, those performing a sacrifice, and those who have not crossed a river are not to be restrained, nor are the intoxicated, the insane, or the foolish."
+        }
+      ],
+      "justification": "Multiple categories of persons—the sick, insane, women, those in religious observance—are systematically exempted from summons and legal restraint, reflecting an implicit principle of protecting those unable to adequately defend themselves."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Smṛti texts (unspecified)",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-97aa42",
+      "quote": "He should not transgress the words of the Smṛtis, which are sacred, supreme, and meritorious.",
+      "justification": "The Smṛti corpus is cited as a supreme normative authority whose words the king must not transgress, functioning as a foundational reference tradition for the entire text's legal prescriptions."
+    },
+    {
+      "cited_work": "Bṛhaspati Smṛti (or Bṛhaspati's juristic teaching)",
+      "cited_author": "Bṛhaspati",
+      "stance": "authority",
+      "paragraph_id": "p-fb4f86",
+      "quote": "In cases of violence, theft, assault, defamation of a cow, and in emergencies, Bṛhaspati says one should proceed with the dispute quickly, even at an improper time.",
+      "justification": "Bṛhaspati is explicitly cited by name with the verb 'says,' marking this as a direct appeal to a distinct juristic authority whose ruling on urgent cases is being endorsed."
+    },
+    {
+      "cited_work": "Bṛhaspati Smṛti (or Bṛhaspati's juristic teaching)",
+      "cited_author": "Bṛhaspati",
+      "stance": "authority",
+      "paragraph_id": "p-7f38f9",
+      "quote": "When the defendant, admitting the matter stated by the plaintiff, then states a reason, Guru (Bṛhaspati) has called this a special plea.",
+      "justification": "Bṛhaspati (identified as Guru) is cited as the authority who coined or defined the technical legal term 'special plea,' indicating reliance on an earlier juristic tradition."
+    },
+    {
+      "cited_work": "Vedas (unspecified)",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-09a5c8",
+      "quote": "By the power of the sound of the Vedas, the gods dwelling in heaven are also pleased",
+      "justification": "The Vedas are referenced as a living ritual and cosmic authority whose recitation pleases the gods, grounding the text's theocratic legitimation of royal and Brahminical power."
+    },
+    {
+      "cited_work": "Arthaśāstra / texts on polity (nītiśāstra)",
+      "cited_author": null,
+      "stance": "extend",
+      "paragraph_id": "p-5bea03",
+      "quote": "The scriptures of Dharma and the texts on polity are said to be its two branches.",
+      "justification": "The texts on polity (artha/nīti tradition) are recognized as a co-equal branch alongside Dharma-scriptures for deciding legal cases, acknowledging a distinct political-science tradition."
+    },
+    {
+      "cited_work": "Arthaśāstra / texts on polity (nītiśāstra)",
+      "cited_author": null,
+      "stance": "refute",
+      "paragraph_id": "p-49b0d0",
+      "quote": "He should abandon what is stated in the texts on polity and follow what is stated in the scriptures of Dharma.",
+      "justification": "The texts on polity are explicitly subordinated to Dharma-scriptures in cases of conflict, marking the Kātyāyana Smṛti's stance of privileging Dharma over Arthaśāstra realpolitik."
+    }
+  ]
+}

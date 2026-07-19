@@ -1,0 +1,44 @@
+{
+  "work_slug": "john-cunningham-poems-510f71",
+  "work_title": "Poems",
+  "chapter_number": 3,
+  "chapter_title": "ON MAY. WRITTEN IN APRIL MDCCLXI.",
+  "chapter_slug": "03-on-may-written-in-april-mdcclxi",
+  "author": "John Cunningham",
+  "author_slug": "john-cunningham",
+  "ecpa_poem_id": "o4986-w0930",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "pastoral"
+    ],
+    "foot": "anapaestic (˘˘′)",
+    "footnum": "trimeter (3 feet)",
+    "stanzas": [
+      "octet (8 lines)"
+    ],
+    "rhyme": "ababcdcd",
+    "syllable_pattern": "9.9.9.9.9.9.9.9",
+    "metrical_pattern": "-+|--+|--+/ -+|--+|--+/ -+|--+|--+/ -+|--+|--+/ -+|--+|--+/ -+|--+|--+/ -+|--+|--+/ -+|--+|--+/",
+    "line_count": 32
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5fead2d7-fa12-50d0-9197-ac5ac588ec76",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 212,
+      "line_count": 35,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

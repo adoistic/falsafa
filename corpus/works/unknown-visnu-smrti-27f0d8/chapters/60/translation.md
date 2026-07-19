@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 60**
+**Viṣṇu Smriti 60**
 
 At the hour of Brahma, he shall rise and perform the evacuation of urine and feces. // Vi_60.1 //
 

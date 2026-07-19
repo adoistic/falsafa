@@ -1,0 +1,44 @@
+{
+  "work_slug": "henry-carey-poems-65d065",
+  "work_title": "Poems",
+  "chapter_number": 5,
+  "chapter_title": "THE Grumbletonians; OR, THE DOGS without-Doors.",
+  "chapter_slug": "05-the-grumbletonians-or-the-dogs-without-doors",
+  "author": "Henry Carey",
+  "author_slug": "henry-carey",
+  "ecpa_poem_id": "o5101-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "narrative verse"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 76
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d3e021e6-a9ce-5b11-afe9-3027afe0a5cd",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 530,
+      "line_count": 77,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

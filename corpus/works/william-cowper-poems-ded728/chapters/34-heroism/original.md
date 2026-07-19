@@ -1,0 +1,123 @@
+---
+work_id: "ded72849-8fb3-5d7d-affb-d422c2d6490e"
+work_slug: "william-cowper-poems-ded728"
+work_title: Poems
+author: William Cowper
+author_slug: "william-cowper"
+ecpa_poem_id: "o3794-w0410"
+chapter_number: 34
+chapter_title: HEROISM.
+chapter_slug: "34-heroism"
+variant_id: "cc07e7d2-8b6a-573d-906b-d7e655028749"
+content_type: original
+layout: verse
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 669
+source_url: "https://www.eighteenthcenturypoetry.org/"
+license: "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+genres:
+  - heroic couplet
+  - essay
+metrical_foot: iambic (˘′)
+metrical_count: pentameter (5 feet)
+stanza_form:
+  - couplet (2 lines)
+rhyme_scheme: aa
+syllable_pattern: 10
+---
+
+HEROISM.
+
+THERE was a time when Aetna's silent fire
+ Slept unperceiv'd, the mountain yet entire,
+ When conscious of no danger from below,
+ She towr'd a cloud-capt pyramid of snow. 
+No thunders shook with deep intestine sound
+ The blooming groves that girdled her around,
+ Her unctuous olives and her purple vines,
+ (Unfelt the fury of those bursting mines)
+ The peasant's hopes, and not in vain, assur'd,
+ In peace upon her sloping sides matur'd. 
+When on a day, like that of the last doom,
+ A conflagration lab'ring in her womb,
+ She teem'd and heav'd with an infernal birth,
+ That shook the circling seas and solid earth. 
+Dark and voluminous the vapours rise,
+ And hang their horrors in the neighb'ring skies,
+ While through the stygian veil that blots the day,
+ In dazzling streaks the vivid light'nings play. 
+But oh! what muse, and in what pow'rs of song,
+ Can trace the torrent as it burns along? 
+Havock and devastation in the van,
+ It marches o'er the prostrate works of man,
+ Vines, olives, herbage, forests disappear,
+ And all the charms of a Sicilian year. 
+Revolving seasons, fruitless as they pass,
+ See it an uninform'd and idle mass,
+ Without a soil t'invite the tiller's care,
+ Or blade that might redeem it from despair. 
+Yet time at length (what will not time atchieve?) 
+Cloaths it with earth, and bids the produce live,
+ Once more the spiry myrtle crowns the glade,
+ And ruminating flocks enjoy the shade. 
+Oh bliss precarious, and unsafe retreats,
+ Oh charming paradise of short liv'd sweets! 
+The self-same gale that wafts the fragrance round,
+ Brings to the distant ear a sullen sound,
+ Again the mountain feels th' imprison'd foe,
+ Again pours ruin on the vale below,
+ Ten thousand swains the wasted scene deplore,
+ That only future ages can restore. 
+Ye monarchs, whom the lure of honour draws,
+ Who write in blood the merits of your cause,
+ Who strike the blow, then plead your own defence,
+ Glory your aim, but justice your pretence;
+ Behold in Aetna's emblematic fires
+ The mischiefs your ambitious pride inspires. 
+Fast by the stream that bounds your just domain,
+ And tells you where ye have a right to reign,
+ A nation dwells, not envious of your throne,
+ Studious of peace, their neighbours and their own. 
+Ill-fated race! how deeply must they rue
+ Their only crime, vicinity to you! 
+The trumpet sounds, your legions swarm abroad,
+ Through the ripe harvest lies their destin'd road,
+ At ev'ry step beneath their feet they tread
+ The life of multitudes, a nation's bread;
+ Earth seems a garden in its loveliest dress
+ Before them, and behind a wilderness;
+ Famine and pestilence, her first-born son,
+ Attend to finish what the sword begun,
+ And ecchoing praises such as fiends might earn,
+ And folly pays, resound at your return. 
+A calm succeeds — but plenty with her train
+ Of heart-felt joys, succeeds not soon again,
+ And years of pining indigence must show
+ What scourges are the gods that rule below. 
+Yet man, laborious man, by slow degrees,
+ (Such is his thirst of opulence and ease)
+ Plies all the sinews of industrious toil,
+ Gleans up the refuse of the general spoil,
+ Rebuilds the towr's that smok'd upon the plain,
+ And the sun gilds the shining spires again. 
+Increasing commerce and reviving art
+ Renew the quarrel on the conqu'rors part,
+ And the sad lesson must be learn'd once more;
+ That wealth within is ruin at the door. 
+What are ye monarchs, laurel'd heroes, say,
+ But Aetnas of the suff'ring world ye sway? 
+Sweet nature stripp'd of her embroider'd robe,
+ Deplores the wasted regions of her globe,
+ And stands a witness at truth's awful bar,
+ To prove you there, destroyers as ye are. 
+Oh place me in some heav'n-protected isle,
+ Where peace and equity and freedom smile,
+ Where no Volcano pours his fiery flood,
+ No crested warrior dips his plume in blood,
+ Where pow'r secures what industry has won,
+ Where to succeed is not to be undone,
+ A land that distant tyrants hate in vain,
+ In Britain's isle, beneath a George's reign.

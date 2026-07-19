@@ -1,0 +1,44 @@
+{
+  "work_slug": "mary-robinson-poems-8abf50",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "An ODE to WISDOM.",
+  "chapter_slug": "04-an-ode-to-wisdom",
+  "author": "Mary Robinson",
+  "author_slug": "mary-robinson",
+  "ecpa_poem_id": "pro75-w0040",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "sestet (6 lines)"
+    ],
+    "rhyme": "aabbcc",
+    "syllable_pattern": "8.8.8.8.10.10",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/",
+    "line_count": 18
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a7b20013-e6e5-5eaa-99a1-338fe5dd2034",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 120,
+      "line_count": 22,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

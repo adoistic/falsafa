@@ -1,0 +1,41 @@
+{
+  "work_slug": "thomas-durfey-poems-452b4d",
+  "work_title": "Poems",
+  "chapter_number": 43,
+  "chapter_title": "A Second Burlesque LETTER written for a Friend, suppos'd to be a CUCKOLD'S GHOST, coming from Hell, and answering a Satyr of STUM CLARET his Brother Vintner; With a Conjugal Reprimand to SALACIA his late Mournful WIDOW.",
+  "chapter_slug": "43-a-second-burlesque-letter-written-for-a-friend-s",
+  "author": "Thomas D'Urfey",
+  "author_slug": "thomas-durfey",
+  "ecpa_poem_id": "oau90-w0430",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 223
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "feb3785b-5225-5f44-9d18-162072421dff",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1506,
+      "line_count": 224,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

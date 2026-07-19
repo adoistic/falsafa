@@ -1,0 +1,44 @@
+{
+  "work_slug": "phillis-wheatley-poems-6ba250",
+  "work_title": "Poems",
+  "chapter_number": 2,
+  "chapter_title": "AN ELEGY, SACRED TO THE MEMORY OF THAT GREAT DIVINE, THE REVEREND AND LEARNED DR. SAMUEL COOPER, Who departed this Life December 29, 1783, AETATIS 59.",
+  "chapter_slug": "02-an-elegy-sacred-to-the-memory-of-that-great-divi",
+  "author": "Phillis Wheatley",
+  "author_slug": "phillis-wheatley",
+  "ecpa_poem_id": "n11pw-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "elegy"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 52
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "dcc11afe-76ee-51b1-a024-c3da300cb81a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 416,
+      "line_count": 53,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "work_slug": "thomas-parnell-poems-2f0378",
+  "work_title": "Poems",
+  "chapter_number": 14,
+  "chapter_title": "AN ELEGY, To an Old BEAUTY.",
+  "chapter_slug": "14-an-elegy-to-an-old-beauty",
+  "author": "Thomas Parnell",
+  "author_slug": "thomas-parnell",
+  "ecpa_poem_id": "o4106-w0130",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "elegy"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 68
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "38f40933-a7f5-565a-9072-c0bd23694ebe",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 550,
+      "line_count": 69,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

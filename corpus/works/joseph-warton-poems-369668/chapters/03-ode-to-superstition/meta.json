@@ -1,0 +1,44 @@
+{
+  "work_slug": "joseph-warton-poems-369668",
+  "work_title": "Poems",
+  "chapter_number": 3,
+  "chapter_title": "ODE TO SUPERSTITION.",
+  "chapter_slug": "03-ode-to-superstition",
+  "author": "Joseph Warton",
+  "author_slug": "joseph-warton",
+  "ecpa_poem_id": "o4985-w0420",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "sestet (6 lines)"
+    ],
+    "rhyme": "aabccb",
+    "syllable_pattern": "8.8.10.8.8.12",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+|-+|-+/",
+    "line_count": 36
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e5777c1f-a49d-5dc6-9bb5-bccfa53c0a17",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 243,
+      "line_count": 38,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "work_slug": "george-keate-poems-f150b3",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "TO A LADY GOING TO BATHE IN THE SEA.",
+  "chapter_slug": "01-to-a-lady-going-to-bathe-in-the-sea",
+  "author": "George Keate",
+  "author_slug": "george-keate",
+  "ecpa_poem_id": "o4986-w0170",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "address"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 40
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "84676329-fe02-5003-a74c-9ed902d76d33",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 274,
+      "line_count": 42,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

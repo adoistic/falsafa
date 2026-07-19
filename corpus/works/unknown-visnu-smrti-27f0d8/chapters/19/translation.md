@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 19**
+**Viṣṇu Smriti 19**
 
 One shall not have a deceased twice-born man carried out by a Śūdra. // Vi_19.1 //
 

@@ -1,0 +1,988 @@
+{
+  "slug": "unknown-viramitrodaya-d4b632",
+  "window": "01:2193-2403",
+  "entities": [
+    {
+      "canonical_name": "Rāma",
+      "surface_names": ["Rāma", "O Rāma"],
+      "kind": "figure",
+      "figure_kind": "epic-hero",
+      "mentions": [
+        {
+          "paragraph_id": "p-2a876c",
+          "quote": "One should fast on that by which the sun sets, or with which, O Rāma, the midnight is conjoined with the moon.",
+          "role": "addressee in quoted verse"
+        }
+      ],
+      "description": "Rāma is addressed as the recipient of instruction in a verse quoted from a smṛti source on fasting rules tied to lunar mansions.",
+      "justification": "Rāma is named explicitly as the addressee in the Viṣṇudharmottara verse on fasting at a lunar mansion, marking him as a canonical figure serving a narrative-framing role."
+    },
+    {
+      "canonical_name": "Indra",
+      "surface_names": ["Indra"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-cd07d8",
+          "quote": "That is proclaimed as the beginning of the month wherein Indra and Agni are offered oblations.",
+          "role": "recipient of ritual oblation"
+        },
+        {
+          "paragraph_id": "p-d7c4ae",
+          "quote": "One who performs recitation, oblation, and giving at the beginning, middle, and end attains the realm of Indra.",
+          "role": "deity whose realm is the ritual reward"
+        }
+      ],
+      "description": "Indra is a Vedic deity cited as the recipient of monthly oblations marking the beginning of the month, and as the lord of a celestial realm attained by meritorious ritual performance.",
+      "justification": "Indra appears in two distinct quoted verses within the window, once as a deity receiving oblations at the month's start and once as the goal of ritual merit, establishing him as a key ritual figure."
+    },
+    {
+      "canonical_name": "Agni",
+      "surface_names": ["Agni"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-cd07d8",
+          "quote": "That is proclaimed as the beginning of the month wherein Indra and Agni are offered oblations. / Agni and Soma are remembered in the middle, and the Fathers and Soma at the end.",
+          "role": "recipient of ritual oblation"
+        }
+      ],
+      "description": "Agni is the fire deity who receives oblations at the beginning and middle of the month according to the Laghu Hārīta's definition of the lunar month.",
+      "justification": "Agni is explicitly named in the Laghu Hārīta verse quoted in this window as one of the deities whose oblations demarcate the boundaries of the lunar month."
+    },
+    {
+      "canonical_name": "Soma",
+      "surface_names": ["Soma"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-cd07d8",
+          "quote": "Agni and Soma are remembered in the middle, and the Fathers and Soma at the end.",
+          "role": "recipient of ritual oblation"
+        }
+      ],
+      "description": "Soma is a Vedic deity paired with Agni in the middle and with the Fathers at the end of the month for oblations, as stated in the Laghu Hārīta verse on the intercalary month.",
+      "justification": "Soma is named twice in the Laghu Hārīta verse in this window as a recipient of oblations at the middle and end of the lunar month, fixing the month's ritual structure."
+    },
+    {
+      "canonical_name": "Rāhu",
+      "surface_names": ["Rāhu"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-6b3acf",
+          "quote": "Sixteen nāḍīs before the saṅkrānti and after it. / At the mere sight of Rāhu, the meritorious time is proclaimed.",
+          "role": "astrological referent marking a meritorious moment"
+        },
+        {
+          "paragraph_id": "p-f87e83",
+          "quote": "At the sight of Rāhu, a saṅkrānti, a marriage, an emergency, and a vṛddhi rite, / bathing, giving, etc., should be performed at night, and in optional vows.",
+          "role": "astrological event marking eligibility for nocturnal rites"
+        }
+      ],
+      "description": "Rāhu is the eclipse-causing celestial body whose 'sight' (i.e., solar/lunar eclipse) marks a special meritorious time for bathing, giving, and other rites, including nocturnal performance.",
+      "justification": "Rāhu appears in two quoted verses in this window as an astrological marker whose observation triggers the eligibility for rites, functioning as a ritual-calendrical figure."
+    },
+    {
+      "canonical_name": "Vasiṣṭha",
+      "surface_names": ["Vasiṣṭha", "Vṛddha Vasiṣṭha"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-077853",
+          "quote": "subordinate names are stated by Vasiṣṭha",
+          "role": "named authority whose verse is quoted"
+        },
+        {
+          "paragraph_id": "p-dd19be",
+          "quote": "Two are solstices (ayana), two are equinoxes (viṣuva), four are ṣaḍaśītis, and four are viṣṇupadīs; the saṅkrāntis are remembered as twelve.",
+          "role": "cited author"
+        },
+        {
+          "paragraph_id": "p-d5da1c",
+          "quote": "Vasiṣṭha says: / The merit is in the middle for an equinox, before for a Viṣṇu, and for the southern solstice. / For a ṣaḍaśītimukha, it is after, and after for the northern solstice.",
+          "role": "cited authority on saṅkrānti merit timing"
+        },
+        {
+          "paragraph_id": "p-b7d82c",
+          "quote": "Vasiṣṭha says: / At a saṅkrānti during the day, the entire day is proclaimed as meritorious. / At a saṅkrānti of the sun at night, half a day is for bathing and giving.",
+          "role": "cited authority on daytime saṅkrānti merit"
+        },
+        {
+          "paragraph_id": "p-cebf4f",
+          "quote": "Vṛddha Vasiṣṭha also says: / The two solstices, the northern and southern, are meritorious before and after. / For Cancer, thirty nāḍīs before; for Capricorn, twenty after.",
+          "role": "cited authority on solstice merit timing"
+        },
+        {
+          "paragraph_id": "p-b806ff",
+          "quote": "The same author says: / For Libra and Aries, when they are present, ten nāḍīs on both sides.",
+          "role": "cited authority on equinox merit"
+        },
+        {
+          "paragraph_id": "p-38fa0e",
+          "quote": "Concerning the ṣaḍaśīti, Vṛddha Vasiṣṭha says: / For a ṣaḍaśīti that has passed, sixteen (aṣṭi) nāḍikās are said to be meritorious.",
+          "role": "cited authority on ṣaḍaśīti merit"
+        }
+      ],
+      "description": "Vasiṣṭha (and his variant Vṛddha Vasiṣṭha) is a foundational smṛti sage cited multiple times in this window as a primary authority for the classification and timing of saṅkrānti merit periods.",
+      "justification": "Vasiṣṭha is the most frequently cited named sage in this window, quoted in multiple distinct passages to determine meritorious times at solar ingresses, making him central to the digest's calendrical reasoning."
+    },
+    {
+      "canonical_name": "Devala",
+      "surface_names": ["Devala"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-1415b2",
+          "quote": "Devala says: / The moment of saṅkrānti is subtle, difficult for fleshly eyes to perceive. / Because of its conjunction, thirty nāḍīs before and after are made sacred.",
+          "role": "cited smṛti authority on saṅkrānti timing"
+        }
+      ],
+      "description": "Devala is a smṛti sage whose verse on thirty nāḍīs of meritorious time around the saṅkrānti moment is the key citation debated by Mādhava and others regarding the duration of the ritual window.",
+      "justification": "Devala's verse is explicitly quoted and forms the pivot of the doctrinal dispute about whether thirty nāḍīs on each side or in total constitute the meritorious time at saṅkrānti."
+    },
+    {
+      "canonical_name": "Hemādri",
+      "surface_names": ["Hemādri"],
+      "kind": "figure",
+      "figure_kind": "scholar",
+      "mentions": [
+        {
+          "paragraph_id": "p-0f7ed3",
+          "quote": "This view is also accepted by Hemādri, the Ratnākara, and others.",
+          "role": "supporting authority"
+        },
+        {
+          "paragraph_id": "p-4c0291",
+          "quote": "This is also the true sense of Hemādri, Mādhava, and all other authors of treatises.",
+          "role": "corroborating authority"
+        },
+        {
+          "paragraph_id": "p-237000",
+          "quote": "This view is also accepted by Hemādri, the Madanaratna, and others.",
+          "role": "supporting authority"
+        },
+        {
+          "paragraph_id": "p-e7c3e5",
+          "quote": "Hemādri, however, says that the exclusion in 'they say two days are meritorious, having excluded Capricorn and Cancer' is not of the entire determination for the night, but only of the two days occasioned by an ingress at midnight.",
+          "role": "dissenting authority"
+        },
+        {
+          "paragraph_id": "p-cd6cb4",
+          "quote": "Thus say Hemādri and others.",
+          "role": "supporting authority"
+        }
+      ],
+      "description": "Hemādri is a medieval dharmaśāstra digest compiler frequently invoked as a corroborating or contrasting authority on the rules for saṅkrānti meritorious times.",
+      "justification": "Hemādri is named five times in this window, sometimes in agreement and once in dissent, establishing him as one of the key secondary authorities against whom the Vīramitrodaya positions itself."
+    },
+    {
+      "canonical_name": "Mādhava",
+      "surface_names": ["Mādhava"],
+      "kind": "figure",
+      "figure_kind": "scholar",
+      "mentions": [
+        {
+          "paragraph_id": "p-501956",
+          "quote": "Mādhava, the Madanaratna, and others, however, say that from the statement of Devala, 'Because of its conjunction, thirty nāḍīs before and after are proclaimed,' thirty nāḍīs before the moment of saṅkrānti are meritorious, and thirty nāḍīs after are meritorious.",
+          "role": "cited legal interpreter"
+        },
+        {
+          "paragraph_id": "p-4c0291",
+          "quote": "This is also the true sense of Hemādri, Mādhava, and all other authors of treatises.",
+          "role": "corroborating authority"
+        },
+        {
+          "paragraph_id": "p-4efccc",
+          "quote": "Mādhava, the Madanaratna, and others also say this.",
+          "role": "corroborating authority"
+        },
+        {
+          "paragraph_id": "p-f1f5b5",
+          "quote": "Mādhava, however, says that the first ghaṭikā of the third prahara and the last of the second, thus two ghaṭikās, are midnight.",
+          "role": "authority on midnight definition"
+        },
+        {
+          "paragraph_id": "p-a1f073",
+          "quote": "Mādhava and the Madanaratna say that in accordance with the verses of the Bhaviṣyottara, etc.",
+          "role": "cited authority on solstice night rules"
+        }
+      ],
+      "description": "Mādhava is a major dharmaśāstra commentator cited multiple times as an interpretive authority on the extent and timing of meritorious periods at solar ingresses.",
+      "justification": "Mādhava is cited five times as a distinct interpretive voice on the duration of saṅkrānti merit windows and the definition of midnight, making him a central secondary authority in this digest section."
+    },
+    {
+      "canonical_name": "Anantabhaṭṭa",
+      "surface_names": ["Anantabhaṭṭa"],
+      "kind": "figure",
+      "figure_kind": "scholar",
+      "mentions": [
+        {
+          "paragraph_id": "p-f8d217",
+          "quote": "the explanation of Anantabhaṭṭa, that vṛttaṃ means 'turning' (vartanaṃ), from the past participle kta in the sense of the present tense, is correct",
+          "role": "grammatical authority whose interpretation is endorsed"
+        },
+        {
+          "paragraph_id": "p-f1f5b5",
+          "quote": "Anantabhaṭṭa, Hemādri, the Madanaratna, and others also say this.",
+          "role": "corroborating authority"
+        },
+        {
+          "paragraph_id": "p-0def84",
+          "quote": "Anantabhaṭṭa, the Madanaratna, and others also say this.",
+          "role": "corroborating authority"
+        },
+        {
+          "paragraph_id": "p-e54c87",
+          "quote": "since Anantabhaṭṭa has stated that this is without foundation, the explanation of Hemādri, etc., is superior",
+          "role": "authority whose rejection of a verse is cited"
+        },
+        {
+          "paragraph_id": "p-f3c849",
+          "quote": "Anantabhaṭṭa, however, says that if it is not possible during the day due to carelessness, etc., it should be performed at night.",
+          "role": "dissenting authority on nocturnal performance"
+        }
+      ],
+      "description": "Anantabhaṭṭa is a dharmaśāstra commentator cited for grammatical interpretations and doctrinal positions on saṅkrānti rules, occasionally endorsed and occasionally contrasted by the text.",
+      "justification": "Anantabhaṭṭa appears five times with named positions across grammatical and legal topics, making him a significant named authority whose views the Vīramitrodaya engages substantively."
+    },
+    {
+      "canonical_name": "Śrīdatta",
+      "surface_names": ["Śrīdatta", "the author of the Ratnākara"],
+      "kind": "figure",
+      "figure_kind": "scholar",
+      "mentions": [
+        {
+          "paragraph_id": "p-ff3192",
+          "quote": "As for what is said here by Śrīdatta, the author of the Ratnākara, and other Maithilas, and by the Smārtas and other Gauḍas—'The previously cited verses of Śātātapa, etc., which state the merit of sixteen ghaṭikās on both sides, apply only to Viṣṇupadī saṅkrāntis'—that is not correct.",
+          "role": "opponent whose view is refuted"
+        },
+        {
+          "paragraph_id": "p-3aa665",
+          "quote": "As for what is said here by Śrīdatta—'If the tithi is the same, the merit is in the first half of the preceding day'—that is not correct.",
+          "role": "opponent whose view is refuted"
+        }
+      ],
+      "description": "Śrīdatta, author of the Ratnākara, is a Maithila scholar whose two positions on saṅkrānti rules are explicitly refuted by the Vīramitrodaya.",
+      "justification": "Śrīdatta is named twice and explicitly rejected in both instances, serving as the primary polemical opponent for the Vīramitrodaya's positions on saṅkrānti applicability and midnight tithi rules."
+    },
+    {
+      "canonical_name": "Bhaṭṭapāda",
+      "surface_names": ["Bhaṭṭapāda"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-309087",
+          "quote": "As was said by Bhaṭṭapāda: / A general rule that is not unclear is restricted by a specific one.",
+          "role": "cited authority on hermeneutical maxim"
+        }
+      ],
+      "description": "Bhaṭṭapāda is cited as a hermeneutical authority whose maxim on general and specific rules (viśeṣa-sāmānya) is invoked to adjudicate the scope of saṅkrānti merit verses.",
+      "justification": "Bhaṭṭapāda's quoted maxim is the key logical tool used to resolve the conflict between general and specific saṅkrānti verses, making him an important methodological authority in this passage."
+    },
+    {
+      "canonical_name": "Gobhila",
+      "surface_names": ["Gobhila"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-401653",
+          "quote": "from the statement of Gobhila: / At a saṅkrānti of the sun at night, one should perform that rite during the day.",
+          "role": "cited smṛti authority on nocturnal saṅkrānti"
+        }
+      ],
+      "description": "Gobhila is a gṛhya-sūtra authority whose verse is cited to establish the rule that rites at a nocturnal saṅkrānti should be performed the following day.",
+      "justification": "Gobhila's verse is the decisive authority invoked to override the verses that permit nocturnal performance, establishing the daytime rule for non-solstice nocturnal saṅkrāntis."
+    },
+    {
+      "canonical_name": "Yājñavalkya",
+      "surface_names": ["Yājñavalkya"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-9842f6",
+          "quote": "this general verse of Yājñavalkya also applies to the solstices; otherwise, since the merit is stated to be during the day for other saṅkrāntis, this would be without scope.",
+          "role": "cited smṛti authority whose verse on nocturnal rites is given scope"
+        }
+      ],
+      "description": "Yājñavalkya is a foundational smṛti authority whose general verse permitting nocturnal performance of rites at saṅkrānti, eclipses, and other occasions is interpreted here as applying specifically to the solstices.",
+      "justification": "Yājñavalkya's verse is the basis for the solstice exception to the general daytime rule, and the text devotes attention to scoping it correctly to avoid the verse being 'without scope.'"
+    },
+    {
+      "canonical_name": "Jaimini",
+      "surface_names": ["Jaimini"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-d7c4ae",
+          "quote": "Jaimini says: / For the ingress of the sun into a lunar mansion or zodiac sign, sixteen nāḍīs before and after are meritorious. For the moon, thirteen palas. For Mars, one ghaṭikā and one pala.",
+          "role": "cited smṛti authority on planetary ingress merit"
+        }
+      ],
+      "description": "Jaimini is cited as the authority for a comprehensive table of meritorious time windows for the ingresses of all seven planets into zodiac signs or lunar mansions.",
+      "justification": "Jaimini's verse is the sole source in this window for the graduated merit windows for planetary saṅkrāntis, making it a unique and substantial cited authority."
+    },
+    {
+      "canonical_name": "Śātātapa",
+      "surface_names": ["Śātātapa"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-8e4bcd",
+          "quote": "These statements of Śātātapa, Marīci, and Jābāli should be explained as being in accordance with the view of those who hold that the sun's disc is its apparent motion plus its own fifteenth part.",
+          "role": "cited smṛti authority whose verses are harmonized"
+        },
+        {
+          "paragraph_id": "p-41601d",
+          "quote": "Because Śātātapa, in the introductory verse: / At the beginning of a solstice, one should always give the desired object and what is in the house, / and at the ṣaḍaśītimukha, and at the liberation of the moon and sun.",
+          "role": "cited authority on the scope of giving at saṅkrāntis"
+        }
+      ],
+      "description": "Śātātapa is a smṛti sage cited for verses on the meritorious period at saṅkrāntis and for an introductory verse on giving at solstices and ṣaḍaśīti occasions.",
+      "justification": "Śātātapa is named twice with distinct functions: once as one of three sages whose sixteen-ghaṭikā verses require harmonization, and once as the authority whose general verse establishes giving at all saṅkrāntis."
+    },
+    {
+      "canonical_name": "Marīci",
+      "surface_names": ["Marīci"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-8e4bcd",
+          "quote": "These statements of Śātātapa, Marīci, and Jābāli should be explained as being in accordance with the view of those who hold that the sun's disc is its apparent motion plus its own fifteenth part.",
+          "role": "cited smṛti authority whose verses are harmonized"
+        },
+        {
+          "paragraph_id": "p-eb3e68",
+          "quote": "Because by this verse of Marīci, it is understood that they should be performed even in an intercalary month.",
+          "role": "cited authority on rites in intercalary months"
+        }
+      ],
+      "description": "Marīci is a smṛti sage cited for a verse on the sixteen-ghaṭikā meritorious period at saṅkrāntis and for a verse permitting certain rites during intercalary months.",
+      "justification": "Marīci appears twice in the window in distinct contexts—the saṅkrānti dispute and the intercalary month rules—confirming his status as a broad smṛti authority drawn on by the digest."
+    },
+    {
+      "canonical_name": "Jābāli",
+      "surface_names": ["Jābāli"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-8e4bcd",
+          "quote": "These statements of Śātātapa, Marīci, and Jābāli should be explained as being in accordance with the view of those who hold that the sun's disc is its apparent motion plus its own fifteenth part.",
+          "role": "cited smṛti authority whose verses are harmonized"
+        },
+        {
+          "paragraph_id": "p-5eb4b9",
+          "quote": "This is from the statement of Jābāli.",
+          "role": "cited authority on intercalary month purity"
+        }
+      ],
+      "description": "Jābāli is a smṛti sage cited once for a verse on sixteen-ghaṭikā merit windows and once for a verse on the purity distinction between the saṃsarpa and adhimāsa extra months.",
+      "justification": "Jābāli is named in two separate contexts—saṅkrānti measurement and intercalary month classification—establishing him as a standard smṛti source consulted across topics."
+    },
+    {
+      "canonical_name": "Bhṛgu",
+      "surface_names": ["Bhṛgu"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-fb2238",
+          "quote": "Bhṛgu states the nature of the extra month: / When the sun is situated in a single zodiac sign, and there are two new moons, / then the extra month, which destroys rites for the gods and ancestors, should be known.",
+          "role": "cited smṛti authority defining the extra month"
+        }
+      ],
+      "description": "Bhṛgu is a smṛti sage cited for the definition of the extra month (adhikamāsa) as a lunar month with two new moons while the sun remains in a single zodiac sign.",
+      "justification": "Bhṛgu's verse is the primary definitional source for the adhikamāsa in this section, and is interpreted in the following commentary to clarify what 'two new moons' means."
+    },
+    {
+      "canonical_name": "Vyāsa",
+      "surface_names": ["Vyāsa"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-2fc299",
+          "quote": "Vyāsa has stated the definition of Caitra, etc., by the connection of the first moment of Pratipad with the sun situated in Pisces, etc.",
+          "role": "cited authority on the definition of named months"
+        },
+        {
+          "paragraph_id": "p-2c4357",
+          "quote": "The ancestral rite at the Jātakarma, and the ancestral rite on the new moon day likewise, / should be performed even in an intercalary month; this is the word of Vyāsa.",
+          "role": "cited authority on rites in intercalary months"
+        }
+      ],
+      "description": "Vyāsa is a foundational sage cited for two distinct rules: the definition of the named lunar months (Caitra, etc.) and the permissibility of the new-moon ancestral rite in an intercalary month.",
+      "justification": "Vyāsa is cited in two separate passages on different topics within this window, confirming his role as one of the high-authority smṛti sages whose rulings are treated as decisive."
+    },
+    {
+      "canonical_name": "Brahmagupta",
+      "surface_names": ["Brahmagupta"],
+      "kind": "figure",
+      "figure_kind": "scholar",
+      "mentions": [
+        {
+          "paragraph_id": "p-9e78c2",
+          "quote": "As for the definition of Caitra, etc., stated by Brahmagupta: / The lunar month in which the sun's ingress into Aries occurs is Caitra.",
+          "role": "cited astronomical authority on month definitions"
+        }
+      ],
+      "description": "Brahmagupta is the celebrated astronomer-mathematician whose definition of the named lunar months by solar ingress is cited and discussed in relation to Vyāsa's alternative definition.",
+      "justification": "Brahmagupta's definition is presented as an alternative and potentially primary account of month naming, making him a key astronomical authority engaged in the intercalary month discussion."
+    },
+    {
+      "canonical_name": "Bādarāyaṇa",
+      "surface_names": ["Bādarāyaṇa"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-e999fa",
+          "quote": "A month is said by Bādarāyaṇa to be of sixty days. / Having discarded the first half, the rite should be performed in the latter.",
+          "role": "cited authority on the sixty-day month"
+        }
+      ],
+      "description": "Bādarāyaṇa (Vedāntasūtra author) is cited by Jyotiḥ Pitāmaha as the authority for the view that the intercalary month constitutes a sixty-day month, of which only the latter half is valid for rites.",
+      "justification": "Bādarāyaṇa's name is invoked in a cited verse from Jyotiḥ Pitāmaha to ground the sixty-day month rule for the adhikamāsa, marking him as an authoritative precedent for this calendrical position."
+    },
+    {
+      "canonical_name": "Jyotiḥ Pitāmaha",
+      "surface_names": ["Jyotiḥ Pitāmaha"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-e999fa",
+          "quote": "Jyotiḥ Pitāmaha says: / A month is said by Bādarāyaṇa to be of sixty days. / Having discarded the first half, the rite should be performed in the latter.",
+          "role": "cited astronomical-dharmic authority on intercalary month structure"
+        }
+      ],
+      "description": "Jyotiḥ Pitāmaha ('Grandfather of Astronomy', identified with Brahmā or a tradition associated with him) is cited for the rule that the intercalary month is sixty days and only the latter half is ritually valid.",
+      "justification": "Jyotiḥ Pitāmaha is explicitly named as the source of the sixty-day month rule and the discard of the first half, a structurally important citation for the intercalary month section."
+    },
+    {
+      "canonical_name": "Pauṭhīnasi",
+      "surface_names": ["Pauṭhīnasi"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-a2a5cd",
+          "quote": "On that, Pauṭhīnasi says: / All śrauta and smārta rites are proclaimed for the twelve months. / Therefore, in the thirteenth month, they are proclaimed as fruitless.",
+          "role": "cited authority on rites in the intercalary month"
+        }
+      ],
+      "description": "Pauṭhīnasi is a smṛti sage cited at the opening of the section on what is to be done and not done in the intercalary month, providing the general principle that all śrauta and smārta rites are fruitless in the thirteenth month.",
+      "justification": "Pauṭhīnasi's verse opens the new section on intercalary month rites and establishes the general prohibition that the subsequent discussion qualifies, making it structurally foundational."
+    },
+    {
+      "canonical_name": "Bṛhaspati",
+      "surface_names": ["Bṛhaspati"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-e56c6a",
+          "quote": "Bṛhaspati also says: / For the solstice, twenty before; for Capricorn, twenty after.",
+          "role": "cited smṛti authority on solstice merit windows"
+        },
+        {
+          "paragraph_id": "p-064d45",
+          "quote": "Bṛhaspati also says: / One should perform the obligatory and occasional rites with restraint in an intercalary month.",
+          "role": "cited authority on rites in intercalary months"
+        }
+      ],
+      "description": "Bṛhaspati is a smṛti sage (not to be confused here with the planet Jupiter) cited for the solstice merit windows and for permitting obligatory rites in intercalary months.",
+      "justification": "Bṛhaspati is cited in two distinct sections of this window (saṅkrānti timing and intercalary month rules), confirming his status as a routinely consulted smṛti authority in the Vīramitrodaya."
+    },
+    {
+      "canonical_name": "Yama",
+      "surface_names": ["Yama"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-20652e",
+          "quote": "Yama says: / Bathing at an eclipse of the moon and sun, the ancestral rite, giving, recitation, etc., / should be performed even in an intercalary month.",
+          "role": "cited dharmic authority permitting rites in intercalary months"
+        }
+      ],
+      "description": "Yama, the god of death and dharmic law, is cited as a smṛti authority permitting bathing at eclipses and ancestral rites in intercalary months.",
+      "justification": "Yama appears in his smṛti-authority role (as a lawgiver, not merely as a deity) to permit specific rites in the intercalary month, and his verse is then interpreted in the subsequent commentary."
+    },
+    {
+      "canonical_name": "Kauthumi",
+      "surface_names": ["Kauthumi"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-e6476b",
+          "quote": "As for the verse of Kauthumi: / The month that is the thirteenth, in excess of the year, / in that thirteenth month, one should not perform an ancestral rite at the waning of the moon.",
+          "role": "cited authority whose prohibition is qualified"
+        }
+      ],
+      "description": "Kauthumi is a smṛti sage cited for a verse prohibiting ancestral rites on the new-moon day in the thirteenth month; this prohibition is then narrowed to optional rites only.",
+      "justification": "Kauthumi's verse presents an apparent prohibition that the commentator must harmonize with Vyāsa's permissive verse, making it a key citation requiring interpretive resolution."
+    },
+    {
+      "canonical_name": "Pitāmaha",
+      "surface_names": ["Pitāmaha"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-e0b93c",
+          "quote": "Because it would contradict this verse of Pitāmaha, etc.",
+          "role": "authority whose verse constrains the interpretation of other smṛtis"
+        }
+      ],
+      "description": "Pitāmaha ('Grandfather', associated with the astronomical tradition) is cited as an authority whose verse on the extra month in Virgo constrains the interpretation of the Brahmasiddhānta and Jyotiḥsiddhānta verses.",
+      "justification": "Pitāmaha's verse is invoked as a limiting constraint to prevent readings that would prohibit extra months in Virgo, confirming his role as a background astronomical authority."
+    },
+    {
+      "canonical_name": "Saṅkrānti",
+      "surface_names": ["saṅkrānti", "saṅkrama", "solar ingress"],
+      "kind": "event",
+      "mentions": [
+        {
+          "paragraph_id": "p-d5947c",
+          "quote": "### [Determination of Saṅkrānti]",
+          "role": "topic of section"
+        },
+        {
+          "paragraph_id": "p-fa5b83",
+          "quote": "the nature of a solar ingress (saṅkrama) is the conjunction of the central atom of the sun's disc with the first atom of a zodiac sign such as Aries",
+          "role": "event defined"
+        },
+        {
+          "paragraph_id": "p-c7a54f",
+          "quote": "Thus ends the determination of Saṅkrānti.",
+          "role": "section conclusion"
+        }
+      ],
+      "description": "Saṅkrānti is the astronomical event of solar ingress into a zodiac sign, defined as the conjunction of the central atom of the sun's disc with the first atom of a zodiac sign; it is the organizing event for a major section of this window.",
+      "justification": "Saṅkrānti is the central event around which the entire middle portion of this window is structured, including its definition, classification into twelve types, and the elaborate rules for meritorious time windows around it."
+    },
+    {
+      "canonical_name": "Intercalary Month",
+      "surface_names": ["malamāsa", "adhikamāsa", "kṣayamāsa", "intercalary month", "extra month", "elided month", "malimluc", "saṃsarpa", "aṃhaspati", "adhimāsa"],
+      "kind": "event",
+      "mentions": [
+        {
+          "paragraph_id": "p-c2ac7a",
+          "quote": "### [Now the Intercalary Month is Determined]",
+          "role": "topic of section"
+        },
+        {
+          "paragraph_id": "p-cc2142",
+          "quote": "the state of being an intercalary month (malamāsa) is the state of being a month beginning with the bright fortnight while being devoid of even a single saṅkrānti",
+          "role": "event defined"
+        },
+        {
+          "paragraph_id": "p-ea58c3",
+          "quote": "Thus ends the determination of the intercalary month.",
+          "role": "section conclusion"
+        }
+      ],
+      "description": "The intercalary month (malamāsa) is a calendrical event defined as a lunar month with no saṅkrānti (adhikamāsa) or two saṅkrāntis (kṣayamāsa), with detailed subcategories and ritual prohibitions.",
+      "justification": "The intercalary month is the organizing calendrical event for the final third of this window, and its definition, subtypes, and ritual rules constitute the main argumentative content of that section."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Determination of meritorious time windows (puṇyakāla) at solar ingresses",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-d5947c",
+          "quote": "### [Determination of Saṅkrānti]"
+        },
+        {
+          "paragraph_id": "p-1415b2",
+          "quote": "Because of its conjunction, thirty nāḍīs before and after are made sacred."
+        },
+        {
+          "paragraph_id": "p-0de4bf",
+          "quote": "For Libra and Aries, ten ghaṭikās before and after are meritorious; for Cancer, twenty before; for Capricorn, twenty after; for a ṣaḍaśīti, sixteen after; and for a Viṣṇupadī, sixteen before."
+        }
+      ],
+      "justification": "The dominant topic of the window's first section is the precise specification of how long before and after a solar ingress the meritorious time extends, with the Vīramitrodaya adjudicating between conflicting smṛti verses."
+    },
+    {
+      "topic": "Hermeneutical resolution of conflicting smṛti authorities",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-309087",
+          "quote": "A general rule that is not unclear is restricted by a specific one."
+        },
+        {
+          "paragraph_id": "p-ff3192",
+          "quote": "that is not correct"
+        },
+        {
+          "paragraph_id": "p-e3a418",
+          "quote": "Therefore, since restriction is not possible, it is logical that it applies to all."
+        }
+      ],
+      "justification": "The text repeatedly deploys formal mīmāṃsā hermeneutical principles (general vs. specific rule, excess of merit interpretation) to harmonize apparently contradictory smṛti verses, revealing an underlying methodological theme."
+    },
+    {
+      "topic": "Day-versus-night rule for performing rites at saṅkrānti",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-b7d82c",
+          "quote": "At a saṅkrānti of the sun at night, half a day is for bathing and giving."
+        },
+        {
+          "paragraph_id": "p-401653",
+          "quote": "At a saṅkrānti of the sun at night, one should perform that rite during the day."
+        },
+        {
+          "paragraph_id": "p-9842f6",
+          "quote": "this general verse of Yājñavalkya also applies to the solstices; otherwise, since the merit is stated to be during the day for other saṅkrāntis, this would be without scope."
+        }
+      ],
+      "justification": "A sustained sub-argument occupies much of the saṅkrānti section, determining when nocturnal saṅkrāntis permit daytime versus nighttime ritual performance, with different rules for solstices versus other saṅkrāntis."
+    },
+    {
+      "topic": "Classification of saṅkrāntis by type, day-of-week, and lunar mansion",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-dd19be",
+          "quote": "Two are solstices (ayana), two are equinoxes (viṣuva), four are ṣaḍaśītis, and four are viṣṇupadīs; the saṅkrāntis are remembered as twelve."
+        },
+        {
+          "paragraph_id": "p-b2ec5c",
+          "quote": "On Sunday, it is Ghorā; on Monday, Dhvāṅkṣī; and on Tuesday, Mahodarī."
+        },
+        {
+          "paragraph_id": "p-768ce6",
+          "quote": "Dhruvāṇi: The three Uttaras and Rohiṇī. Mṛdūni: Anurādhā, Citrā, Revatī, and Mṛgaśiras."
+        }
+      ],
+      "justification": "The opening of the saṅkrānti section establishes a taxonomy of twelve solar ingresses by zodiac type and a secondary sevenfold classification by day-of-week and lunar mansion category, both of which inform the subsequent merit-window rules."
+    },
+    {
+      "topic": "Definition and subcategories of the intercalary month",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-cc2142",
+          "quote": "the state of being an intercalary month (malamāsa) is the state of being a month beginning with the bright fortnight while being devoid of even a single saṅkrānti"
+        },
+        {
+          "paragraph_id": "p-9c2127",
+          "quote": "The elided month (kṣayamāsa), however, is a lunar month with two saṅkrāntis, beginning with the bright Pratipad."
+        },
+        {
+          "paragraph_id": "p-fd01d9",
+          "quote": "The elided month is named aṃhaspati, and the extra months that occur before and after it are named saṃsarpa and adhimāsa."
+        }
+      ],
+      "justification": "The entire final section of the window is dedicated to systematically defining the intercalary month in its two forms (adhikamāsa and kṣayamāsa), their subcategories, their naming traditions, and their calendrical rarity."
+    },
+    {
+      "topic": "Apparent versus mean astronomical calculation in ritual calendrics",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-06eb54",
+          "quote": "only the month without a saṅkrānti that is arrived at by the apparent (sphuṭa) calculation should be taken as the extra month, not the one arrived at by the mean (madhyama) calculation"
+        },
+        {
+          "paragraph_id": "p-e2cccb",
+          "quote": "It is said in the Siddhāntaśiromaṇi, 'The month without a saṅkrānti is the extra month, the apparent one.'"
+        }
+      ],
+      "justification": "The text makes an implicit but important methodological point that ritual calendrics requires the apparent (sphuṭa) astronomical calculation rather than the mean calculation, a distinction that determines which months count as intercalary."
+    },
+    {
+      "topic": "Rites permitted and prohibited in the intercalary month",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-bc0e78",
+          "quote": "### [Now the Determination of What is to be Done and Not Done in an Intercalary Month]"
+        },
+        {
+          "paragraph_id": "p-a2a5cd",
+          "quote": "All śrauta and smārta rites are proclaimed for the twelve months. / Therefore, in the thirteenth month, they are proclaimed as fruitless."
+        },
+        {
+          "paragraph_id": "p-99903b",
+          "quote": "The oblations that do not have the vaṣaṭ call, and the festival day, and the Āgrayaṇa, / should be performed even in an intercalary month; one should avoid optional iṣṭis."
+        }
+      ],
+      "justification": "The closing section opens the topic of permitted versus prohibited rites in the intercalary month, with Pauṭhīnasi's general prohibition qualified by subsequent verses permitting obligatory, occasional, and no-other-time rites."
+    },
+    {
+      "topic": "Ritual pollution (impurity) associated with the intercalary and elided months",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-4197b1",
+          "quote": "And the impurity of the extra month is from its being extra."
+        },
+        {
+          "paragraph_id": "p-32b4dd",
+          "quote": "The knowers of time call the extra month the impurity of time."
+        },
+        {
+          "paragraph_id": "p-158863",
+          "quote": "A month that is part of the year, sinful, a destroyer of the fruit of knowledge, / possessed by the Nairṛtas, Yātudhānas, etc., and without a name."
+        }
+      ],
+      "justification": "The characterization of the adhikamāsa as ritually impure, possessed by demonic beings (Nairṛtas, Yātudhānas), and destructive of ritual fruit is an implicit but pervasive theme that motivates the prohibition of rites within it."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Viṣṇudharmottara",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-1eab49",
+      "quote": "This is from the Viṣṇudharmottara.",
+      "justification": "The Viṣṇudharmottara is cited as the source of the verse on fasting on the lunar mansion connected with sunset, with Rāma as the addressee."
+    },
+    {
+      "cited_work": "Devī Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-6f6f82",
+      "quote": "And so, in the Devī Purāṇa: / The divisions of the saṅkrāntis are said to be twelve, equal.",
+      "justification": "The Devī Purāṇa is cited for the statement that the twelve saṅkrāntis are equal in their general rules, which the Vīramitrodaya uses as one of its base citations for the saṅkrānti section."
+    },
+    {
+      "cited_work": "Mādhavīya",
+      "cited_author": "Mādhava",
+      "stance": "neutral",
+      "paragraph_id": "p-977f23",
+      "quote": "In the Mādhavīya, however, the reading is 'equal are the divisions of the saṅkrānti.'",
+      "justification": "The Mādhavīya (Mādhava's digest) is cited for an alternative reading of the Devī Purāṇa verse on equal saṅkrāntis, and the alternative interpretation is then discussed."
+    },
+    {
+      "cited_work": "Devī Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-cbcaa4",
+      "quote": "And so, in the Devī Purāṇa: / On Sunday, it is Ghorā; on Monday, Dhvāṅkṣī; and on Tuesday, Mahodarī.",
+      "justification": "The Devī Purāṇa is again cited for the sevenfold classification of saṅkrāntis by day of the week and the corresponding names (Ghorā, Dhvāṅkṣī, etc.)."
+    },
+    {
+      "cited_work": "Devī Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-e5eba9",
+      "quote": "And so, in the Devī Purāṇa: / The passage, past and future, is remembered as fifteen nāḍīs.",
+      "justification": "The Devī Purāṇa is cited for the fifteen-nāḍī passage (bhoga) before and after the solar ingress, which is used to explain the fifteen-ghaṭikā merit window."
+    },
+    {
+      "cited_work": "Kālādarśa",
+      "cited_author": null,
+      "stance": "neutral",
+      "paragraph_id": "p-f38afa",
+      "quote": "In the Kālādarśa, etc., however, the reading is 'between the celestial sphere'.",
+      "justification": "The Kālādarśa is cited as offering an alternative textual reading of Vasiṣṭha's verse on the classification of saṅkrāntis between solstices and equinoxes."
+    },
+    {
+      "cited_work": "Skanda Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-873fdb",
+      "quote": "Because by this verse of the Skanda Purāṇa, a meritorious time in the form of sixteen ghaṭikās before and after is also stated.",
+      "justification": "The Skanda Purāṇa is cited for the verse stating sixteen ghaṭikās before and after for Viṣṇupadī saṅkrāntis, which is used to establish the Viṣṇupadī merit arrangement."
+    },
+    {
+      "cited_work": "Skanda Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-c11553",
+      "quote": "it would lead to a contradiction with this verse of the Skanda Purāṇa.",
+      "justification": "The Skanda Purāṇa is invoked as a constraint to reject an alternative reading of the Bhaviṣyottara verse regarding nocturnal saṅkrāntis for ṣaḍaśītimukha ingresses."
+    },
+    {
+      "cited_work": "Brahmavaivarta",
+      "cited_author": null,
+      "stance": "neutral",
+      "paragraph_id": "p-73ea5c",
+      "quote": "In the Brahmavaivarta, however, the fourth quarter is 'for Capricorn, ten more.'",
+      "justification": "The Brahmavaivarta is cited as offering a variant reading of Vṛddha Vasiṣṭha's verse on solstice merit windows, specifically for Capricorn."
+    },
+    {
+      "cited_work": "Ratnākara",
+      "cited_author": "Śrīdatta",
+      "stance": "refute",
+      "paragraph_id": "p-ff3192",
+      "quote": "As for what is said here by Śrīdatta, the author of the Ratnākara, and other Maithilas... that is not correct.",
+      "justification": "The Ratnākara of Śrīdatta is cited and explicitly refuted on the question of whether the sixteen-ghaṭikā verses apply only to Viṣṇupadī saṅkrāntis."
+    },
+    {
+      "cited_work": "Madanaratna",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-501956",
+      "quote": "Mādhava, the Madanaratna, and others, however, say that from the statement of Devala...",
+      "justification": "The Madanaratna is cited repeatedly throughout this window as a corroborating authority on multiple rules for saṅkrānti merit and intercalary month rites."
+    },
+    {
+      "cited_work": "Devī Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-2b9613",
+      "quote": "And so, in the Devī Purāṇa: / One should know the merit to be at the beginning, if the tithi is the same. / If it is after midnight, it should be known to be on the next day.",
+      "justification": "The Devī Purāṇa is cited for the rule governing the choice of meritorious half-day when a saṅkrānti occurs at midnight and the same tithi spans both days."
+    },
+    {
+      "cited_work": "Nigama",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-dc8efe",
+      "quote": "As for the verse of the Nigama that states the merit of the nāḍīs before and after sunset and sunrise on the preceding and succeeding days",
+      "justification": "The Nigama is cited for a verse on five-nāḍī merit windows before and after sunrise/sunset at nocturnal ṣaḍaśītimukha and Viṣṇupadī saṅkrāntis, interpreted as a statement of excess merit."
+    },
+    {
+      "cited_work": "Bhaviṣyottara Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-726e32",
+      "quote": "The Kālādarśa, Mādhava, and others, however, say that from the verse of the Bhaviṣyottara Purāṇa: / If the ingress is at midnight, the preceding and succeeding six yāmas / should be known as the time of the saṅkrānti",
+      "justification": "The Bhaviṣyottara Purāṇa is cited for the rule about two full days of merit at midnight saṅkrānti, a position ultimately rejected by the Vīramitrodaya in favour of Anantabhaṭṭa's reading."
+    },
+    {
+      "cited_work": "Bhaviṣyottara Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-a1f073",
+      "quote": "Mādhava and the Madanaratna say that in accordance with the verses of the Bhaviṣyottara, etc.: / If the ingress of the sun is from Gemini to Cancer, / whether in the morning or at midnight, one should perform it on the preceding day.",
+      "justification": "The Bhaviṣyottara is cited again for the solstice-specific rule that Cancer saṅkrānti merit falls on the preceding day regardless of midnight timing."
+    },
+    {
+      "cited_work": "Kāṭhaka Gṛhya",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-826c78",
+      "quote": "And so, in the Kāṭhaka Gṛhya: / The month in which there is no saṅkrānti, or two saṅkrāntis, / that should be known as an intercalary month; it would be the thirteenth month.",
+      "justification": "The Kāṭhaka Gṛhya is cited as the primary scriptural authority for the bipartite definition of the intercalary month (no saṅkrānti or two saṅkrāntis)."
+    },
+    {
+      "cited_work": "Brahmasiddhānta",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-a082f8",
+      "quote": "This is from the Brahmasiddhānta.",
+      "justification": "The Brahmasiddhānta is cited for the verse 'A lunar month without a saṅkrānti is proclaimed as an intercalary month,' confirming the extra-month definition from an astronomical sidddhānta."
+    },
+    {
+      "cited_work": "Laghu Hārīta",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-24acae",
+      "quote": "This is from the Laghu Hārīta.",
+      "justification": "The Laghu Hārīta is cited for the verse defining the beginning of the month by the oblations to Indra and Agni, and identifying the first month of a pair without saṅkrānti as the intercalary one."
+    },
+    {
+      "cited_work": "Vasiṣṭha Siddhānta",
+      "cited_author": "Vasiṣṭha",
+      "stance": "authority",
+      "paragraph_id": "p-d1dc68",
+      "quote": "Its fixed time of occurrence is shown in the Vasiṣṭha Siddhānta: / After thirty-two months have passed, and sixteen days, / and a quarter of a ghaṭikā, one extra month falls.",
+      "justification": "The Vasiṣṭha Siddhānta is cited for the mean-calculation period between extra months (approximately 32 months, 16 days), which is then used to argue that the apparent calculation is more authoritative for practical purposes."
+    },
+    {
+      "cited_work": "Siddhāntaśiromaṇi",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-e2cccb",
+      "quote": "For this very reason, it is said in the Siddhāntaśiromaṇi, 'The month without a saṅkrānti is the extra month, the apparent one.'",
+      "justification": "The Siddhāntaśiromaṇi (Bhāskarācārya's work) is cited to confirm that the apparent calculation governs the determination of the intercalary month for ritual purposes."
+    },
+    {
+      "cited_work": "Siddhāntaśiromaṇi",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-20e9fc",
+      "quote": "For this very reason, in the Siddhāntaśiromaṇi: / The elision is in the triad of Kārtika, etc., not elsewhere; then in the year, there are two extra months.",
+      "justification": "The Siddhāntaśiromaṇi is cited again for the rule that kṣayamāsa (elided month) occurs only in the Kārtika triad and always generates two adhikamāsas in the same year."
+    },
+    {
+      "cited_work": "Siddhāntaśiromaṇi",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-cdb305",
+      "quote": "And its time of possibility is in the same text: / When the Śāka year measured by abdhyadrinandas had passed, it occurred.",
+      "justification": "The Siddhāntaśiromaṇi is cited for the chronological table of Śāka years in which kṣayamāsas have occurred or will occur."
+    },
+    {
+      "cited_work": "Ratnamālā",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-c23554",
+      "quote": "For this very reason, in the Ratnamālā: / The month in which there are two solar ingresses, that pair of months is called kṣaya.",
+      "justification": "The Ratnamālā is cited for an alternative formulation of the kṣayamāsa as a pair of months, supporting the view that the elided month has the nature of two months."
+    },
+    {
+      "cited_work": "Bārhaspatyasaṃhitā",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-fd01d9",
+      "quote": "This is stated in the Bārhaspatyasaṃhitā: / The month in which there is no saṅkrānti, and two saṅkrāntis, / these are saṃsarpa and aṃhaspati; and the extra month is condemned.",
+      "justification": "The Bārhaspatyasaṃhitā is cited for the technical names saṃsarpa (extra month before kṣaya) and aṃhaspati (kṣayamāsa), as well as the condemnation of the extra month."
+    },
+    {
+      "cited_work": "Brahmasiddhānta",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-746faf",
+      "quote": "In the Brahmasiddhānta: / There is no extra month before Caitra; after, however, it is extra.",
+      "justification": "The Brahmasiddhānta is cited a second time for the rule that the extra month occurring in the six months before Caitra is the pure saṃsarpa, while the one after Caitra is the impure adhimāsa."
+    },
+    {
+      "cited_work": "Jyotiḥsiddhānta",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-5e0d78",
+      "quote": "In the Jyotiḥsiddhānta also: / When the sun is in Libra or Virgo, or in Scorpio or Sagittarius, / or in Capricorn or Aquarius, an extra month is not enjoined.",
+      "justification": "The Jyotiḥsiddhānta is cited for a list of zodiac signs in which the extra month is not enjoined (i.e., is the pure saṃsarpa), which the commentary then qualifies to prevent over-reading."
+    },
+    {
+      "cited_work": "Gṛhyapariśiṣṭa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-32b4dd",
+      "quote": "In the Gṛhyapariśiṣṭa: / The knowers of time call the extra month the impurity of time.",
+      "justification": "The Gṛhyapariśiṣṭa is cited to ground the characterization of the adhikamāsa as temporal impurity, supporting the general prohibition of rites in it."
+    },
+    {
+      "cited_work": "Kāṭhaka Gṛhya",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-37de0a",
+      "quote": "And so, in the Kāṭhaka Gṛhya: / In an impurity, one should perform the obligatory and occasional rite that has no other time.",
+      "justification": "The Kāṭhaka Gṛhya is cited a second time, now as the source of the exception permitting obligatory/occasional rites with no other time in the intercalary month."
+    },
+    {
+      "cited_work": "Gṛhyapariśiṣṭa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-99903b",
+      "quote": "In the Gṛhyapariśiṣṭa, etc.: / The oblations that do not have the vaṣaṭ call, and the festival day, and the Āgrayaṇa, / should be performed even in an intercalary month; one should avoid optional iṣṭis.",
+      "justification": "The Gṛhyapariśiṣṭa is cited again for the specific list of rites (Agnihotra, Aupāsana, Vaiśvadeva, new/full-moon sacrifices, Āgrayaṇa) permitted in the intercalary month."
+    }
+  ]
+}

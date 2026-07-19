@@ -1,0 +1,41 @@
+{
+  "work_slug": "joanna-baillie-poems-dfa2df",
+  "work_title": "Poems",
+  "chapter_number": 52,
+  "chapter_title": "FY, LET US A' TO THE WEDDING. (AN AULD SANG NEW BUSKIT.)",
+  "chapter_slug": "52-fy-let-us-a-to-the-wedding-an-auld-sang-new-busk",
+  "author": "Joanna Baillie",
+  "author_slug": "joanna-baillie",
+  "ecpa_poem_id": "bjb18-w0520",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "song"
+    ],
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "metrical_pattern": "irregular",
+    "line_count": 84
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1691188a-6d9a-576c-9ec9-4f35331ad62e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 567,
+      "line_count": 86,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

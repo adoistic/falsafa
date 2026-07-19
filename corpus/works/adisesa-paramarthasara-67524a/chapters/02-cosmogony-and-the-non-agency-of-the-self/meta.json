@@ -1,0 +1,38 @@
+{
+  "work_slug": "adisesa-paramarthasara-67524a",
+  "work_title": "Paramārthasāra",
+  "chapter_number": 2,
+  "chapter_title": "Cosmogony and the non-agency of the Self",
+  "chapter_slug": "02-cosmogony-and-the-non-agency-of-the-self",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "f72839e9-b93a-52d3-b8d3-6697a5164c87",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "iast",
+      "word_count": 153,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e0a2c992-efa2-52e5-8054-f7ba15a518c2",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 366,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    }
+  ]
+}

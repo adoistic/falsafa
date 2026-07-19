@@ -1,0 +1,44 @@
+{
+  "work_slug": "david-mallet-poems-ce2ee9",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "A FRAGMENT.",
+  "chapter_slug": "01-a-fragment",
+  "author": "David Mallet",
+  "author_slug": "david-mallet",
+  "ecpa_poem_id": "o4984-w0160",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "fragment"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 92
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "409416d1-9c20-5048-8607-39de6e6a8bbf",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 572,
+      "line_count": 94,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

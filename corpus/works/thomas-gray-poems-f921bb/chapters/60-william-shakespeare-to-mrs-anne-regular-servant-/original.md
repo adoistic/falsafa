@@ -1,0 +1,59 @@
+---
+work_id: "f921bbaf-7c57-57bf-9795-cf060f7e4a5b"
+work_slug: "thomas-gray-poems-f921bb"
+work_title: Poems
+author: Thomas Gray
+author_slug: "thomas-gray"
+ecpa_poem_id: "tgaen-wwsma"
+chapter_number: 60
+chapter_title: William Shakespeare to Mrs Anne, Regular Servant to the Revd Mr Precentor of York
+chapter_slug: "60-william-shakespeare-to-mrs-anne-regular-servant-"
+variant_id: "3f92a51f-858c-5d7f-9aae-93c31ccccc22"
+content_type: original
+layout: verse
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 200
+source_url: "https://www.eighteenthcenturypoetry.org/"
+license: "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+metrical_foot: iambic (˘′)
+metrical_count: pentameter (5 feet)
+stanza_form:
+  - quatrain (4 lines)
+rhyme_scheme: abab
+syllable_pattern: 10.10.10.10
+---
+
+William Shakespeare to Mrs Anne, Regular Servant to the Revd Mr Precentor of York
+
+A moment's patience, gentle Mistress Anne!
+(But stint your clack for sweet St Charitie)
+'Tis Willy begs, once a right proper man,
+Though now a book and interleaved, you see.
+
+Much have I borne from cankered critic's spite,
+From fumbling baronets and poets small,
+Pert barristers and parsons nothing bright:
+But what awaits me now is worst of all.
+
+'Tis true, our master's temper natural
+Was fashioned fair in meek and dovelike guise;
+But may not honey's self be turned to gall
+By residence, by marriage, and sore eyes?
+
+If then he wreak on me his wicked will,
+Steal to his closet at the hour of prayer,
+And (when thou hear'st the organ piping shrill)
+Grease his best pen, and all he scribbles, tear.
+
+Better to bottom tarts and cheesecakes nice,
+Better the roast meat from the fire to save,
+Better be twisted into caps for spice,
+Than thus be patched and cobbled in one's grave.
+
+So York shall taste what Clouët never knew,
+So from our works sublimer fumes shall rise:
+While Nancy earns the praise to Shakespeare due
+For glorious puddings and immortal pies.

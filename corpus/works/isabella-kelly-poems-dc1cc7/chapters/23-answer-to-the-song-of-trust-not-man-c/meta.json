@@ -1,0 +1,44 @@
+{
+  "work_slug": "isabella-kelly-poems-dc1cc7",
+  "work_title": "Poems",
+  "chapter_number": 23,
+  "chapter_title": "ANSWER TO THE SONG OF 'TRUST NOT MAN,' &c.",
+  "chapter_slug": "23-answer-to-the-song-of-trust-not-man-c",
+  "author": "Isabella Kelly",
+  "author_slug": "isabella-kelly",
+  "ecpa_poem_id": "pik94-w0230",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "answer/reply"
+    ],
+    "foot": "trochaic (′˘)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "xaxa",
+    "syllable_pattern": "8.7.8.7",
+    "metrical_pattern": "+-|+-|+-|+-/ +-|+-|+-|+/ +-|+-|+-|+-/ +-|+-|+-|+/",
+    "line_count": 16
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9878fdaf-b290-57cf-ba07-a570f55391fc",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 104,
+      "line_count": 17,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

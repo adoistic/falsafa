@@ -1,0 +1,44 @@
+{
+  "work_slug": "joseph-cockfield-poems-b070f1",
+  "work_title": "Poems",
+  "chapter_number": 7,
+  "chapter_title": "ADVICE TO A SHEPHERD.",
+  "chapter_slug": "07-advice-to-a-shepherd",
+  "author": "Joseph Cockfield",
+  "author_slug": "joseph-cockfield",
+  "ecpa_poem_id": "o4987-w0470",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "advice"
+    ],
+    "foot": "trochaic (′˘)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "7",
+    "metrical_pattern": "+-|+-|+-|+/",
+    "line_count": 16
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "cc1f87a6-ca8a-5b88-af26-5581f80d28d4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 93,
+      "line_count": 18,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

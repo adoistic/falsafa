@@ -1,0 +1,41 @@
+{
+  "work_slug": "amelia-opie-poems-eeda95",
+  "work_title": "Poems",
+  "chapter_number": 29,
+  "chapter_title": "LINES ON HEARING, THREE OR FOUR YEARS AGO, THAT CONSTANTINOPLE WAS SWALLOWED UP BY AN EARTHQUAKE;",
+  "chapter_slug": "29-lines-on-hearing-three-or-four-years-ago-that-co",
+  "author": "Amelia Opie",
+  "author_slug": "amelia-opie",
+  "ecpa_poem_id": "bao18-w0290",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "blank verse",
+      "occasional poem"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 128
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2fa25fac-ce30-5a07-af7c-b2d65dd99139",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1004,
+      "line_count": 130,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

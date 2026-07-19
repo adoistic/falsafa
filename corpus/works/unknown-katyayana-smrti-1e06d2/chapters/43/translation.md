@@ -20,25 +20,25 @@ translator: thothica
 
 ## The Rule of Punishment
 
-The king should make a Brahmin pay his master by gentle means only. Others who are wicked, he should make pay by coercion according to local custom. // K_477 //
+The king should make a Brāhmaṇa pay his master by gentle means only. Others who are wicked, he should make pay by coercion according to local custom. // K_477 //
 
 He should make an heir or a friend pay by means of a stratagem. Bhṛgu has said this for merchants, farmers, and artisans. // K_478 //
 
-Knowing him to be unable to pay the money, one should make him perform work under one's control. If he is unable, he should be put in a place of confinement, except for a Brahmin. // K_479 //
+Knowing him to be unable to pay the money, one should make him perform work under one's control. If he is unable, he should be put in a place of confinement, except for a Brāhmaṇa. // K_479 //
 
-Farmers and those of the Kshatriya, Vaishya, and Shudra classes who are able-bodied should be made to pay. // K_480 //
+Farmers and those of the Kṣatriya, Vaiśya, and Śūdra classes who are able-bodied should be made to pay. // K_480 //
 
 For offenses against a teacher, father, mother, and relatives, no punishment is prescribed. // K_481 //
 
 Where an improper act has been done in a situation of mortal peril, there shall be no punishment; this is the law remembered by Bhṛgu. // K_482 //
 
-One should never kill a Brahmin, even if he is guilty of all sins. He should be banished from the kingdom with all his wealth intact. // K_483 //
+One should never kill a Brāhmaṇa, even if he is guilty of all sins. He should be banished from the kingdom with all his wealth intact. // K_483 //
 
 For the four castes who do not perform the prescribed penance, one should impose a just punishment involving their body and wealth. // K_484 //
 
-For whatever offense a Shudra is lawfully fined, for that same offense the fine for a Kshatriya and a Brahmin shall be double and double again, respectively. // K_485 //
+For whatever offense a Śūdra is lawfully fined, for that same offense the fine for a Kṣatriya and a Brāhmaṇa shall be double and double again, respectively. // K_485 //
 
-A Shudra who has become an ascetic and is devoted to chanting and fire-sacrifices, one should punish that sinner with death, or he is liable for a double fine. // K_486 //
+A Śūdra who has become an ascetic and is devoted to chanting and fire-sacrifices, one should punish that sinner with death, or he is liable for a double fine. // K_486 //
 
 In all offenses, whatever monetary fine is prescribed for a man, women should pay half of that; in a capital case for a man, the punishment is mutilation of a limb. // K_487 //
 

@@ -1,0 +1,44 @@
+{
+  "work_slug": "john-gilbert-cooper-poems-d9c6a6",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "A FATHER's ADVICE TO HIS SON.",
+  "chapter_slug": "01-a-fathers-advice-to-his-son",
+  "author": "John Gilbert Cooper",
+  "author_slug": "john-gilbert-cooper",
+  "ecpa_poem_id": "o4986-w0310",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "advice"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "8.8.8.8",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/",
+    "line_count": 108
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9671dc2e-63e2-566d-81f2-766beecec39b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 700,
+      "line_count": 110,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "work_slug": "john-gerrard-poems-369c27",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "A SONG.",
+  "chapter_slug": "04-a-song",
+  "author": "John Gerrard",
+  "author_slug": "john-gerrard",
+  "ecpa_poem_id": "o4987-w0890",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "song"
+    ],
+    "foot": "anapaestic (˘˘′)",
+    "footnum": "trimeter (3 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "9.9.9.9",
+    "metrical_pattern": "--+|--+|--+/ --+|--+|--+/ --+|--+|--+/ --+|--+|--+/",
+    "line_count": 44
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4743dfbf-cffe-5e5d-81b8-112274bc3a58",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 292,
+      "line_count": 46,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "work_slug": "john-straight-poems-92ad55",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "To Mr. J. H. at the TEMPLE, occasioned by a Translation of an Epistle of HORACE. 1730.",
+  "chapter_slug": "01-to-mr-j-h-at-the-temple-occasioned-by-a-translat",
+  "author": "John Straight",
+  "author_slug": "john-straight",
+  "ecpa_poem_id": "o5156-w0810",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "address"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 107
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "bf96a4de-9c98-51c4-8b9a-32eee079b4df",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 734,
+      "line_count": 110,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

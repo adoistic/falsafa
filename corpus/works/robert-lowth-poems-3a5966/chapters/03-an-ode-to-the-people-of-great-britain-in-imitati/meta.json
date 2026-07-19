@@ -1,0 +1,38 @@
+{
+  "work_slug": "robert-lowth-poems-3a5966",
+  "work_title": "Poems",
+  "chapter_number": 3,
+  "chapter_title": "An ODE. TO THE People of GREAT BRITAIN. In Imitation of the Sixth ODE of the Third Book of HORACE. Written in 1746.",
+  "chapter_slug": "03-an-ode-to-the-people-of-great-britain-in-imitati",
+  "author": "Robert Lowth",
+  "author_slug": "robert-lowth",
+  "ecpa_poem_id": "o5154-w0060",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "rhyme": "irregular",
+    "metrical_pattern": "irregular",
+    "line_count": 111
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7c18e915-d81a-5b97-bdc9-8bd494666a4a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 834,
+      "line_count": 125,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

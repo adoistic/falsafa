@@ -1,0 +1,71 @@
+---
+work_id: "7740d1b5-dca5-5338-a6e6-1e5f3503fb90"
+work_slug: "james-hammond-poems-7740d1"
+work_title: Poems
+author: James Hammond
+author_slug: "james-hammond"
+ecpa_poem_id: "o4987-w0350"
+chapter_number: 1
+chapter_title: ELEGY I.
+chapter_slug: "01-elegy-i"
+variant_id: "02ae039d-b2c4-51c9-8246-0e7fed375f43"
+content_type: original
+layout: verse
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 252
+source_url: "https://www.eighteenthcenturypoetry.org/"
+license: "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+genres:
+  - lyric
+metrical_foot: iambic (˘′)
+metrical_count: pentameter (5 feet)
+stanza_form:
+  - quatrain (4 lines)
+rhyme_scheme: abab
+syllable_pattern: 10.10.10.10
+---
+
+ELEGY I.
+
+WHILE calm you sit beneath your secret shade,
+ And lose in pleasing thought the summer-day,
+ Or tempt the wish of some unpractis'd maid,
+ Whose heart at once inclines and fears to stray:
+
+The sprightly vigour of my youth is fled,
+ Lonely and sick on Death is all my thought,
+ O spare, Persephone, this guiltless head,
+ Love, too much Love, is all thy suppliant's fault. 
+
+No virgin's easy faith I e'er betray'd,
+ My tongue ne'er boasted of a feign'd embrace,
+ No poisons in the cup have I convey'd,
+ Nor veil'd destruction with a friendly face:
+
+No secret horrors gnaw this quiet breast,
+ This pious hand ne'er robb'd the sacred fane,
+ I ne'er disturb'd the Gods eternal rest
+ With curses loud, — but oft have pray'd in vain. 
+
+No stealth of Time has thinn'd my flowing hair,
+ Nor Age yet bent me with his iron hand;
+ Ah! why so soon the tender blossom tear? 
+E'er Autumn yet the ripen'd fruit demand. 
+
+Ye Gods, whoe'er, in gloomy shades below,
+ Now slowly tread your melancholy round,
+ Now wandering view the paleful rivers flow,
+ And musing hearken to their solemn sound:
+
+O let me still enjoy the chearful day,
+ Till many years unheeded o'er me roll'd,
+ Pleas'd in my age I trifle life away,
+ And tell how much we lov'd, e'er I grew old. 
+
+But you, who now with festive garlands crown'd
+ In chace of Pleasure the gay moments spend,
+ By quick enjoyment heal Love's pleasing wound,
+ And grieve for nothing but your absent Friend.

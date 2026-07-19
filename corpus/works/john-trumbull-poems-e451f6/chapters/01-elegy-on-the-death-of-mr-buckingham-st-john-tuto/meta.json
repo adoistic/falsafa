@@ -1,0 +1,41 @@
+{
+  "work_slug": "john-trumbull-poems-e451f6",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "ELEGY, On the DEATH of MR. BUCKINGHAM ST. JOHN, TUTOR of YALE COLLEGE, who was drowned in his Passage from New-Haven to Norwalk, May the 5th, 1771.",
+  "chapter_slug": "01-elegy-on-the-death-of-mr-buckingham-st-john-tuto",
+  "author": "John Trumbull",
+  "author_slug": "john-trumbull",
+  "ecpa_poem_id": "n09jt-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "elegy"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "rhyme": "abab",
+    "syllable_pattern": "10.10.10.10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/",
+    "line_count": 108
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "dd25c0bc-70da-5a70-9ba0-8848401d079e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 874,
+      "line_count": 109,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "work_slug": "edward-rolle-poems-afdcef",
+  "work_title": "Poems",
+  "chapter_number": 2,
+  "chapter_title": "The Duty of Employing one's Self. An EPISTLE.",
+  "chapter_slug": "02-the-duty-of-employing-ones-self-an-epistle",
+  "author": "Edward Rolle",
+  "author_slug": "edward-rolle",
+  "ecpa_poem_id": "o5154-w0110",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "epistle"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 82
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "30fd52be-5a6e-5d6c-a045-b3214acdecdb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 662,
+      "line_count": 84,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

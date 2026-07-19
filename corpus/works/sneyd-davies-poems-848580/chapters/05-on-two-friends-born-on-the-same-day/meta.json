@@ -1,0 +1,44 @@
+{
+  "work_slug": "sneyd-davies-poems-848580",
+  "work_title": "Poems",
+  "chapter_number": 5,
+  "chapter_title": "On two FRIENDS born on the same Day.",
+  "chapter_slug": "05-on-two-friends-born-on-the-same-day",
+  "author": "Sneyd Davies",
+  "author_slug": "sneyd-davies",
+  "ecpa_poem_id": "o5156-w0470",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 30
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "393862e9-b384-5640-ab3e-a2f008dfad74",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 238,
+      "line_count": 32,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

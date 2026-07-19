@@ -1,0 +1,117 @@
+---
+work_id: "def5d661-a70b-5573-8aeb-6be49f299872"
+work_slug: "elizabeth-hands-poems-def5d6"
+work_title: Poems
+author: Elizabeth Hands
+author_slug: "elizabeth-hands"
+ecpa_poem_id: "peh89-w0050"
+chapter_number: 5
+chapter_title: ABSENCE AND DEATH. A PASTORAL.
+chapter_slug: "05-absence-and-death-a-pastoral"
+variant_id: "f7501fc6-41d9-5411-8276-74dc37eb682c"
+content_type: original
+layout: verse
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 483
+source_url: "https://www.eighteenthcenturypoetry.org/"
+license: "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+genres:
+  - heroic couplet
+  - pastoral
+metrical_foot: iambic (˘′)
+metrical_count: pentameter (5 feet)
+stanza_form:
+  - couplet (2 lines)
+rhyme_scheme: aa
+syllable_pattern: 10
+---
+
+ABSENCE AND DEATH.
+
+A PASTORAL.
+
+When ev'ry eye that knew no cause to weep,
+ And peaceful minds were hush'd in pleasing sleep,
+ Two virgin nymphs, whom Love had left forlorn,
+ Ne'er clos'd their weeping eyes, from eve to morn:
+ For Strephon's absence, Daphne's tears were shed,
+ And Hebe mourn'd her faithful Collin dead;
+ Their sorrows were not to each other known,
+ Alike they mourn'd, and silent was their moan;
+ Awhile they wept, 'till one the silence broke;
+ Thus Hebe answer'd, and thus Daphne spoke. 
+
+Daphne. 
+
+Say, gentle maid, whence spring thy anxious fears? 
+What inward sorrows prompt thy gushing tears? 
+Thy case thou safely may'st to me impart,
+ True to my trust, and faithful from the heart;
+ My grief, I will suspend awhile to hear
+ Thy tale, and shed a sympathetic tear. 
+
+Hebe. 
+
+And will not Daphne then her grief impart? 
+To tell the sorrow, is to ease the heart. 
+Say first, why heaves thy breast that lab'ring sigh,
+ And Hebe will alternately reply;
+ The plaintive sounds shall die along the vales,
+ And neighb'ring hills resound the moving tales. 
+
+Daphne. 
+
+A shepherd's absence I am doom'd to mourn,
+ While rigid fate forbids him to return;
+ Perhaps, like me, he mourns his forc'd delay,
+ Perhaps some fairer maid may tempt his stay;
+ A while, with flattering gales of hope I steer,
+ Then, dash'd and shipwreck'd on the rock of fear. 
+
+Hebe. 
+
+Young Collin did my yielding heart subdue,
+ A forester he was, and he was true;
+ He vow'd his heart from me should never rove;
+ I heard with joy, and gave him love for love:
+ But my dear swain, my Collin's dead, and I
+ Now live, but only to despair, and die. 
+
+Daphne. 
+
+My shepherd is the choicest of the swains,
+ That climb the hills, or traverse o'er the plains;
+ His radiant eyes beam forth a milder ray,
+ Than the fair star, that leads the dawning day;
+ Nor are the flocks, that graze the palins, so fair
+ As the dear swain that makes those flocks his care. 
+
+Hebe. 
+
+My forester was comely to behold,
+ His looks were pleasing as the tale he told;
+ The frock he wore, was of a fresher green
+ Than the gay forests, where he oft was seen;
+ And stately he, among his fellow swains,
+ As the tall fir, that o'er the forest reigns. 
+
+Daphne. 
+
+How swift the seasons fly throughout the year,
+ How oft the spring returns without my dear;
+ Yet should some blishful hour, some distant spring,
+ My long-mourn'd Strephon to his Daphne bring;
+ One happy hour with him, wou'd far o'er-pay
+ All I have suffer'd by his long delay. 
+
+Hebe. 
+
+No gloomy phantom has my joys o'er-cast,
+ My hopes are wither'd by a deadly blast;
+ See the surrounding woods, how ev'ry tree
+ Has dropp'd its leaves, and seems to mourn with me;
+ Though spring will quickly re-adorn the grove,
+ Yet I can never hope to see my love.

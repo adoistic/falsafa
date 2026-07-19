@@ -1,0 +1,38 @@
+{
+  "work_slug": "stephen-duck-poems-0c5b8a",
+  "work_title": "Poems",
+  "chapter_number": 42,
+  "chapter_title": "An Imitation of the Tenth Ode of the Second Book of HORACE. To the Right Hon. the Lord Viscount PALMERSTON.",
+  "chapter_slug": "42-an-imitation-of-the-tenth-ode-of-the-second-book",
+  "author": "Stephen Duck",
+  "author_slug": "stephen-duck",
+  "ecpa_poem_id": "o4741-w0420",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "rhyme": "irregular",
+    "metrical_pattern": "irregular",
+    "line_count": 57
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b7afa2b4-128f-5589-ad56-3d89bcedc344",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 371,
+      "line_count": 59,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

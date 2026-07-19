@@ -1,0 +1,44 @@
+{
+  "work_slug": "joseph-cockfield-poems-b070f1",
+  "work_title": "Poems",
+  "chapter_number": 9,
+  "chapter_title": "EPITAPH ON A PEASANT.",
+  "chapter_slug": "09-epitaph-on-a-peasant",
+  "author": "Joseph Cockfield",
+  "author_slug": "joseph-cockfield",
+  "ecpa_poem_id": "o4987-w0490",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "epitaph"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 14
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c55c212d-dfd5-554c-a230-236bfe47620c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 89,
+      "line_count": 16,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -42,19 +42,19 @@ A wise man should not marry a maiden who has no brother and whose father is not 
 
 For the first marriage of the twice-born, a wife of the same *varna* is recommended; but for those who act from desire, these following ones may be chosen in order of rank. // Mn_3.12 //
 
-A Shudra woman is for a Shudra; she and one of his own *varna* for a Vaishya; these two and one of his own *varna* for a Kshatriya; and these three and one of his own *varna* for a Brahmana. // Mn_3.13 //
+A Śūdra woman is for a Śūdra; she and one of his own *varna* for a Vaiśya; these two and one of his own *varna* for a Kṣatriya; and these three and one of his own *varna* for a Brāhmaṇa. // Mn_3.13 //
 
-In no sacred text whatsoever is a Shudra woman ordained as a wife for a Brahmana or a Kshatriya, even when they are in distress. // Mn_3.14 //
+In no sacred text whatsoever is a Śūdra woman ordained as a wife for a Brāhmaṇa or a Kṣatriya, even when they are in distress. // Mn_3.14 //
 
-Twice-born men who, out of delusion, marry women of a low caste, quickly degrade their families and their descendants to the state of Shudras. // Mn_3.15 //
+Twice-born men who, out of delusion, marry women of a low caste, quickly degrade their families and their descendants to the state of Śūdras. // Mn_3.15 //
 
-By marrying a Shudra woman, a Brahmana falls, according to Atri and the son of Utathya; by begetting a son on her, according to Shaunaka; and by having a son from her, according to Bhrigu. // Mn_3.16 //
+By marrying a Śūdra woman, a Brāhmaṇa falls, according to Atri and the son of Utathya; by begetting a son on her, according to Shaunaka; and by having a son from her, according to Bhṛgu. // Mn_3.16 //
 
-A Brahmana who takes a Shudra woman to his bed sinks to a lower state; by begetting a son on her, he is degraded from his Brahmanhood. // Mn_3.17 //
+A Brāhmaṇa who takes a Śūdra woman to his bed sinks to a lower state; by begetting a son on her, he is degraded from his Brahmanhood. // Mn_3.17 //
 
 For him whose rites to the gods, ancestors, and guests are chiefly performed by her, the ancestors and gods do not eat his offerings, and he does not go to heaven. // Mn_3.18 //
 
-For him who has drunk the foam from the lips of a Shudra wife, who has been touched by her breath, and who has begotten a son in her, no expiation is ordained. // Mn_3.19 //
+For him who has drunk the foam from the lips of a Śūdra wife, who has been touched by her breath, and who has begotten a son in her, no expiation is ordained. // Mn_3.19 //
 
 Now learn in summary these eight forms of marriage for women, for the four *varnas*, which are beneficial and harmful in this world and the next. // Mn_3.20 //
 
@@ -62,13 +62,13 @@ The `Brāhma`, the `Daiva`, and also the `Ārṣa`; the `Prājāpatya` and the `
 
 Which of these is lawful for which *varna*, and what are the merits and demerits of each—all that I shall declare to you, as well as the good and bad qualities of the offspring. // Mn_3.22 //
 
-The first six in order are for a Brahmana, the last four for a Kshatriya, and those same ones, excluding the `Rākṣasa`, are lawful for a Vaishya and a Shudra. // Mn_3.23 //
+The first six in order are for a Brāhmaṇa, the last four for a Kṣatriya, and those same ones, excluding the `Rākṣasa`, are lawful for a Vaiśya and a Śūdra. // Mn_3.23 //
 
-The sages know that the first four are praiseworthy for a Brahmana, the `Rākṣasa` alone for a Kshatriya, and the `Āsura` for a Vaishya and a Shudra. // Mn_3.24 //
+The sages know that the first four are praiseworthy for a Brāhmaṇa, the `Rākṣasa` alone for a Kṣatriya, and the `Āsura` for a Vaiśya and a Śūdra. // Mn_3.24 //
 
 But of these five, three are lawful and two are unlawful; the `Paiśāca` and the `Āsura` must never be performed. // Mn_3.25 //
 
-The `Gāndharva` and `Rākṣasa` marriages, whether performed separately or mixed, are declared to be lawful for a Kshatriya. // Mn_3.26 //
+The `Gāndharva` and `Rākṣasa` marriages, whether performed separately or mixed, are declared to be lawful for a Kṣatriya. // Mn_3.26 //
 
 The gift of a daughter, after decking her and honoring her, to a man learned in the Veda and of good conduct, whom the father himself invites, is declared to be the `Brāhma` rite. // Mn_3.27 //
 
@@ -104,7 +104,7 @@ From unblamed marriages of women, an unblamed progeny is born; from blameworthy 
 
 The rite of taking the hand is ordained for marriages with women of the same *varna*; for marriages with women of different *varnas*, this following rule is to be known. // Mn_3.43 //
 
-An arrow should be taken by a Kshatriya bride, a goad by a Vaishya bride, and the hem of a garment by a Shudra bride at a marriage with a man of a higher *varna*. // Mn_3.44 //
+An arrow should be taken by a Kṣatriya bride, a goad by a Vaiśya bride, and the hem of a garment by a Śūdra bride at a marriage with a man of a higher *varna*. // Mn_3.44 //
 
 One should approach one's wife during her fertile period, being ever devoted to his own wife; except on the forbidden days, he may approach her even outside that period, if he so desires for pleasure, remaining true to his vow. // Mn_3.45 //
 
@@ -142,9 +142,9 @@ For if the wife is not radiant, she does not delight her husband; and if the hus
 
 When the wife is radiant, the whole family is radiant; but when she is not radiant, the whole family is not radiant. // Mn_3.62 //
 
-Through improper marriages, through neglect of sacred rites, through failure to study the Veda, and through insults to Brahmanas, families fall from their high state. // Mn_3.63 //
+Through improper marriages, through neglect of sacred rites, through failure to study the Veda, and through insults to Brāhmaṇas, families fall from their high state. // Mn_3.63 //
 
-Through base arts and commerce, through begetting children on Shudra women only, through dealing in cattle, horses, and vehicles, through agriculture, and through service to a king; // Mn_3.64 //
+Through base arts and commerce, through begetting children on Śūdra women only, through dealing in cattle, horses, and vehicles, through agriculture, and through service to a king; // Mn_3.64 //
 
 And by sacrificing for those unworthy to have sacrifices performed for them, and by denial of the efficacy of sacred rites, families that are deficient in sacred knowledge quickly perish. // Mn_3.65 //
 

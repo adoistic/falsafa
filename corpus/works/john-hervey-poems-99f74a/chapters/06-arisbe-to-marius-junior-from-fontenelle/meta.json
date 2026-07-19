@@ -1,0 +1,45 @@
+{
+  "work_slug": "john-hervey-poems-99f74a",
+  "work_title": "Poems",
+  "chapter_number": 6,
+  "chapter_title": "ARISBE to MARIUS Junior. From FONTENELLE.",
+  "chapter_slug": "06-arisbe-to-marius-junior-from-fontenelle",
+  "author": "John Hervey",
+  "author_slug": "john-hervey",
+  "ecpa_poem_id": "o5155-w0120",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "epistle",
+      "lament"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "aabb",
+    "syllable_pattern": "10.10.10.10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/         -+|-+|-+|-+|-+/         -+|-+|-+|-+|-+/         -+|-+|-+|-+|-+/",
+    "line_count": 132
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f79d3aad-8074-51f4-919c-91d1e5f106e9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1087,
+      "line_count": 168,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

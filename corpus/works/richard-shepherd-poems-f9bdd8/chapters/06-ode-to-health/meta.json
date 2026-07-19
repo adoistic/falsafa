@@ -1,0 +1,38 @@
+{
+  "work_slug": "richard-shepherd-poems-f9bdd8",
+  "work_title": "Poems",
+  "chapter_number": 6,
+  "chapter_title": "ODE TO HEALTH.",
+  "chapter_slug": "06-ode-to-health",
+  "author": "Richard Shepherd",
+  "author_slug": "richard-shepherd",
+  "ecpa_poem_id": "o4984-w0630",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "rhyme": "irregular",
+    "metrical_pattern": "irregular",
+    "line_count": 110
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "47a0cb37-d101-574e-9acd-5ac1c0e002e0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 652,
+      "line_count": 112,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "work_slug": "thomas-campbell-poems-56c1cb",
+  "work_title": "Poems",
+  "chapter_number": 7,
+  "chapter_title": "THE HARPER.",
+  "chapter_slug": "07-the-harper",
+  "author": "Thomas Campbell",
+  "author_slug": "thomas-campbell",
+  "ecpa_poem_id": "n27tc-w0070",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "song"
+    ],
+    "foot": "anapaestic (˘˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "aabb",
+    "syllable_pattern": "12.12.12.12",
+    "metrical_pattern": "--+|--+|--+|--+/ --+|--+|--+|--+/ --+|--+|--+|--+/ --+|--+|--+|--+/",
+    "line_count": 24
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e42eca6c-2d38-5b25-9606-b1647ee6f78f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 238,
+      "line_count": 25,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

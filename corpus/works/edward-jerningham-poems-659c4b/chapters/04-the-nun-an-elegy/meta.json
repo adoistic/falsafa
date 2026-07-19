@@ -1,0 +1,45 @@
+{
+  "work_slug": "edward-jerningham-poems-659c4b",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "THE NUN. AN ELEGY.",
+  "chapter_slug": "04-the-nun-an-elegy",
+  "author": "Edward Jerningham",
+  "author_slug": "edward-jerningham",
+  "ecpa_poem_id": "o5089-w0760",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "elegy",
+      "narrative verse"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "10.10.10.10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/",
+    "line_count": 140
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ff64740c-cc5f-5194-ada4-b633fb8b90a3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1047,
+      "line_count": 142,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

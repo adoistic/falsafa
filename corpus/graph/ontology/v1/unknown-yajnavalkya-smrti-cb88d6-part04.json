@@ -1,0 +1,389 @@
+{
+  "slug": "unknown-yajnavalkya-smrti-cb88d6",
+  "window": "02:240-333",
+  "entities": [
+    {
+      "canonical_name": "Brahman (varṇa)",
+      "surface_names": ["Brāhmaṇa", "Brahmin", "twice-born", "Brāhmaṇas"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-6ee9c4",
+          "quote": "a Brāhmaṇa should be branded with the mark of a thief and banished from his own country",
+          "role": "privileged class subject to special punishment for theft"
+        },
+        {
+          "paragraph_id": "p-9b825d",
+          "quote": "the same applies for not inviting Brāhmaṇas and neighbors",
+          "role": "recipients of obligatory hospitality"
+        },
+        {
+          "paragraph_id": "p-9c4b66",
+          "quote": "A woman who has been defiled by a Brāhmaṇa, who has killed a man",
+          "role": "agent in sexual offense ruling"
+        },
+        {
+          "paragraph_id": "p-9be7bc",
+          "quote": "One who defiles a twice-born with inedible food shall be fined the highest amercement",
+          "role": "protected class whose defilement carries the highest fine"
+        },
+        {
+          "paragraph_id": "p-b18ffc",
+          "quote": "he should dedicate it to Varuṇa, and then give it to Brāhmaṇas, multiplied thirty times by himself",
+          "role": "recipients of unjust fines purified by royal donation"
+        }
+      ],
+      "description": "The Brahmin (brāhmaṇa) is the highest of the four varṇas and appears throughout this section as both a specially protected class and a subject of distinctive legal penalties, including branding rather than execution for theft.",
+      "justification": "The text repeatedly singles out Brāhmaṇas for unique legal treatment—lighter corporal punishment but higher social protection—making them a key social group in the legal framework of this window."
+    },
+    {
+      "canonical_name": "Śūdra",
+      "surface_names": ["Śūdra", "Shudra", "low-caste"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-a7d8cb",
+          "quote": "one who feeds Śūdras or ascetics at a rite for the gods or Ancestors",
+          "role": "excluded from certain ritual contexts"
+        },
+        {
+          "paragraph_id": "p-98139c",
+          "quote": "A Śūdra who does so becomes an outcaste; for an outcaste having intercourse with an Āryan woman, death",
+          "role": "subject of severe penalty for sexual transgression"
+        },
+        {
+          "paragraph_id": "p-9be7bc",
+          "quote": "the middle for a Kṣatriya, the lowest for a Vaiśya, and half of that for a Śūdra",
+          "role": "lowest protected class in fine structure"
+        },
+        {
+          "paragraph_id": "p-97504e",
+          "quote": "a Śūdra who lives by pretending to be a Brāhmaṇa, the fine is eight hundred",
+          "role": "subject of penalty for impersonating a higher varṇa"
+        }
+      ],
+      "description": "The Śūdra is the lowest of the four varṇas, whose legal position is marked by exclusion from sacred rites, the severest penalties for sexual transgression with higher-caste women, and a lower threshold of legal protection from defilement.",
+      "justification": "The window consistently positions Śūdras at the bottom of the varṇa hierarchy in the application of fines and punishments, marking them as a legally distinct social group."
+    },
+    {
+      "canonical_name": "Kṣatriya",
+      "surface_names": ["Kṣatriya", "Kshatriya"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-9be7bc",
+          "quote": "the middle for a Kṣatriya, the lowest for a Vaiśya, and half of that for a Śūdra",
+          "role": "second-ranked varṇa in the fine structure for defilement"
+        }
+      ],
+      "description": "The Kṣatriya is the warrior-ruler class, second in the varṇa hierarchy, whose protection from defilement is ranked between the Brāhmaṇa and Vaiśya in the text's graded fine scale.",
+      "justification": "The text explicitly grades the fine for defiling a person by varṇa, placing the Kṣatriya in the middle rank."
+    },
+    {
+      "canonical_name": "Vaiśya",
+      "surface_names": ["Vaiśya", "Vaishya"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-9be7bc",
+          "quote": "the middle for a Kṣatriya, the lowest for a Vaiśya, and half of that for a Śūdra",
+          "role": "third-ranked varṇa in the defilement-fine structure"
+        }
+      ],
+      "description": "The Vaiśya is the merchant-farmer class forming the third varṇa, accorded a lower fine for defilement than Kṣatriyas but higher than Śūdras.",
+      "justification": "The text's graded fine scale for defilement explicitly names the Vaiśya in the third position, confirming their rank in the legal hierarchy."
+    },
+    {
+      "canonical_name": "Caṇḍāla",
+      "surface_names": ["Caṇḍāla", "Chandala"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-109d3a",
+          "quote": "a Caṇḍāla who touches a man of a higher varṇa",
+          "role": "untouchable outcaste whose contact with higher-varṇa persons incurs a fine"
+        }
+      ],
+      "description": "The Caṇḍāla is an outcaste group whose physical contact with higher-varṇa men is treated as a legal offense subject to a fine of fifty paṇas.",
+      "justification": "The text explicitly names the Caṇḍāla in a list of persons who must pay a fifty-paṇa fine, grounding their untouchable status in law."
+    },
+    {
+      "canonical_name": "king",
+      "surface_names": ["king", "rājan"],
+      "kind": "figure",
+      "mentions": [
+        {
+          "paragraph_id": "p-c29936",
+          "quote": "The price that is fixed daily by the king—with that, sale or purchase should be made",
+          "role": "sovereign authority who sets daily market prices"
+        },
+        {
+          "paragraph_id": "p-029e77",
+          "quote": "the king should take a twentieth part as tax; what is forbidden or fit for the king, if sold, goes to the king",
+          "role": "recipient of trade taxes and prohibited goods"
+        },
+        {
+          "paragraph_id": "p-fb1ce2",
+          "quote": "his property shall be taken by his heirs, kinsmen, or relatives; if they come, it is theirs; in their absence, it goes to the king",
+          "role": "residual heir of unclaimed property"
+        },
+        {
+          "paragraph_id": "p-1aa05b",
+          "quote": "he who has intercourse with the king's wife, shall be burnt in a fire of straw",
+          "role": "sovereign whose wife's violation demands death"
+        },
+        {
+          "paragraph_id": "p-58664f",
+          "quote": "One who speaks ill of the king, or who insults him, and one who divulges his secret counsel, shall have his tongue cut out and be banished",
+          "role": "sovereign whose authority and secrecy are legally protected"
+        },
+        {
+          "paragraph_id": "p-b14c78",
+          "quote": "When legal disputes have been badly decided, they should be reviewed again by the king",
+          "role": "ultimate judicial reviewer"
+        },
+        {
+          "paragraph_id": "p-b18ffc",
+          "quote": "Whatever fine has been unjustly taken by the king, he should dedicate it to Varuṇa",
+          "role": "agent of justice who must atone for unjust fines"
+        }
+      ],
+      "description": "The king is the central political and judicial figure in this window, functioning as market regulator, tax collector, court of appeal, and the person whose honor demands the highest legal protection.",
+      "justification": "The king is the most frequently mentioned individual actor in this section, appearing as the source of legal authority across commercial, criminal, and procedural law."
+    },
+    {
+      "canonical_name": "Varuṇa",
+      "surface_names": ["Varuṇa", "Varuna"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-b18ffc",
+          "quote": "Whatever fine has been unjustly taken by the king, he should dedicate it to Varuṇa",
+          "role": "cosmic deity to whom unjust royal fines must be dedicated as expiation"
+        }
+      ],
+      "description": "Varuṇa is the Vedic deity of cosmic order and justice, invoked here as the recipient of unjustly collected fines, emphasizing that royal injustice has a cosmic dimension requiring ritual expiation.",
+      "justification": "The text names Varuṇa specifically as the divine recipient of unjustly collected royal fines, grounding his role in the legal theology of this window."
+    },
+    {
+      "canonical_name": "washerman",
+      "surface_names": ["washerman"],
+      "kind": "figure",
+      "mentions": [
+        {
+          "paragraph_id": "p-a6490d",
+          "quote": "A washerman wearing another's garment shall be fined three paṇas; for selling, hiring out, pledging, or lending it, ten paṇas",
+          "role": "artisan subject to fines for misappropriating entrusted clothing"
+        }
+      ],
+      "description": "The washerman is a service worker who handles clients' clothing and is subject to specific fines for wearing, selling, pledging, or lending garments entrusted to him.",
+      "justification": "The text singles out the washerman as a named occupational figure with a specific legal rule governing misuse of entrusted property."
+    },
+    {
+      "canonical_name": "physician",
+      "surface_names": ["physician"],
+      "kind": "figure",
+      "mentions": [
+        {
+          "paragraph_id": "p-443efb",
+          "quote": "A physician who practices deceitfully shall be fined the lowest amercement for injuring animals, the middle for injuring a human, and the highest for injuring a royal official",
+          "role": "medical practitioner whose fraudulent practice incurs graded fines"
+        }
+      ],
+      "description": "The physician is a named professional whose fraudulent medical practice is subject to a three-tier fine structure based on the social rank of the patient harmed.",
+      "justification": "The text explicitly legislates the physician's liability for malpractice, making him a distinct legal figure in this section."
+    },
+    {
+      "canonical_name": "ferryman",
+      "surface_names": ["ferryman"],
+      "kind": "figure",
+      "mentions": [
+        {
+          "paragraph_id": "p-9b825d",
+          "quote": "A ferryman who collects a land-toll shall be fined ten paṇas; the same applies for not inviting Brāhmaṇas and neighbors",
+          "role": "transport worker fined for unauthorized toll collection"
+        }
+      ],
+      "description": "The ferryman is a transport worker who is legally prohibited from collecting land-tolls and is obligated to invite Brāhmaṇas and neighbors, with a ten-paṇa fine for violations.",
+      "justification": "The text names the ferryman specifically and prescribes a concrete fine for his legal offenses."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Graded punishment by varṇa (caste hierarchy in law)",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-9be7bc",
+          "quote": "One who defiles a twice-born with inedible food shall be fined the highest amercement; the middle for a Kṣatriya, the lowest for a Vaiśya, and half of that for a Śūdra"
+        },
+        {
+          "paragraph_id": "p-88392f",
+          "quote": "For intercourse with a woman of the same caste, the fine is the highest; in the direct order of castes, the middle; in the reverse order, death for the man"
+        },
+        {
+          "paragraph_id": "p-443efb",
+          "quote": "the lowest amercement for injuring animals, the middle for injuring a human, and the highest for injuring a royal official"
+        }
+      ],
+      "justification": "The window systematically varies fines and punishments according to the varṇa or social rank of both offender and victim, making caste-differentiated justice the dominant structural theme."
+    },
+    {
+      "topic": "Commercial regulation and market integrity",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-c29936",
+          "quote": "The price that is fixed daily by the king—with that, sale or purchase should be made; the surplus from that is known as the profit for merchants"
+        },
+        {
+          "paragraph_id": "p-2d526e",
+          "quote": "For artisans and craftsmen who, acting in concert, cause a restriction on the market price, or who knowingly cause a decrease or increase in the price, the fine is the highest amercement"
+        },
+        {
+          "paragraph_id": "p-7957dd",
+          "quote": "A maker of counterfeit weights, edicts, or measures, and of counterfeit coins, and he who deals with these, shall be made to pay the highest amercement"
+        }
+      ],
+      "justification": "A substantial portion of this window regulates markets, prices, weights, measures, counterfeit goods, and trade partnerships, revealing a concern for state-supervised commercial order."
+    },
+    {
+      "topic": "Property protection and restitution",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-a7af0a",
+          "quote": "The forceful seizure of common property is known as sāhasa (violence); the fine for it is double the value of the property, but fourfold if it is denied"
+        },
+        {
+          "paragraph_id": "p-315e54",
+          "quote": "he shall be made to restore the stolen property and be punished with the punishment for a thief"
+        },
+        {
+          "paragraph_id": "p-4b72b8",
+          "quote": "The village must restore the property within its own boundary, or to where the footprints lead"
+        }
+      ],
+      "justification": "A recurring principle across multiple sub-sections is that stolen or wrongfully seized property must be restored to its owner, with additional fines as deterrence."
+    },
+    {
+      "topic": "Bodily harm and its monetary valuation",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-a2fd9a",
+          "quote": "For obstructing movement, eating, or speech, for destroying an eye or the like, and for breaking the neck, arm, or thigh, the fine is the middle amercement"
+        },
+        {
+          "paragraph_id": "p-ac47c4",
+          "quote": "For causing pain, drawing blood, or cutting off a limb or branch of small animals, the fine begins from two paṇas and increases in order"
+        },
+        {
+          "paragraph_id": "p-193609",
+          "quote": "For destroying a weapon in a fight and for causing an abortion, the fine is the highest amercement; for killing a man or a woman, the fine is the highest or the lowest"
+        }
+      ],
+      "justification": "The window opens with an elaborate schedule of fines for physical injuries to persons and animals, treating the body as a legally quantifiable object of harm."
+    },
+    {
+      "topic": "Sexual offense and protection of women",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-f3eab5",
+          "quote": "A man is to be arrested for illicit intercourse with another's wife by seizing each other's hair, or immediately by signs of lust, or by the confession of both"
+        },
+        {
+          "paragraph_id": "p-e2cf86",
+          "quote": "For raping a maiden, the cutting off of the hand; for raping a woman of the highest caste, death"
+        },
+        {
+          "paragraph_id": "p-cbbce5",
+          "quote": "For abducting an adorned maiden, the highest fine; otherwise, the lowest"
+        }
+      ],
+      "justification": "An entire sub-section (strīsaṃgrahaṇaprakaraṇam) is devoted to sexual offenses, cataloguing fines and punishments for rape, abduction, illicit intercourse, and prostitution across caste lines."
+    },
+    {
+      "topic": "Punishment scaling by offense severity and repetition",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-94da9d",
+          "quote": "For many persons striking one, the fine is double that prescribed; property stolen in a brawl must be restored, and the fine is double that"
+        },
+        {
+          "paragraph_id": "p-4728a0",
+          "quote": "A snatcher and a cut-purse should have their thumb and forefinger cut off; for a second offense, they should be deprived of one hand and one foot"
+        },
+        {
+          "paragraph_id": "p-1bfcdf",
+          "quote": "He who, though defeated by a just decision, thinks, 'I have not been defeated,' and comes again, shall be defeated again and made to pay a double fine"
+        }
+      ],
+      "justification": "The text implicitly encodes a principle of escalating punishment for repeated or aggravated offenses, doubling fines or increasing bodily penalties on second violations."
+    },
+    {
+      "topic": "Royal justice, judicial review, and the king's duty to rectify error",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-b14c78",
+          "quote": "When legal disputes have been badly decided, they should be reviewed again by the king; the assessors, along with the victorious party, should be fined double the amount of the dispute"
+        },
+        {
+          "paragraph_id": "p-b18ffc",
+          "quote": "Whatever fine has been unjustly taken by the king, he should dedicate it to Varuṇa, and then give it to Brāhmaṇas, multiplied thirty times by himself"
+        }
+      ],
+      "justification": "The window closes with provisions on judicial review and the king's obligation to expiate unjust fines, framing royal justice as both a legal and a cosmic-religious duty."
+    },
+    {
+      "topic": "Collective liability of communities for crimes within their territory",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-7e02f0",
+          "quote": "If a thief is killed or property is stolen and not recovered, the fault lies with the head of the village; if on a path, with the head of the pasture-land"
+        },
+        {
+          "paragraph_id": "p-4b72b8",
+          "quote": "The village must restore the property within its own boundary, or to where the footprints lead; or the five-village or ten-village group must do so if it is outside a league from the village"
+        }
+      ],
+      "justification": "The text implicitly treats villages and village clusters as collectively responsible for thefts occurring within their jurisdiction, a principle of territorial communal liability."
+    },
+    {
+      "topic": "Adulteration and fraud in trade goods",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-24427b",
+          "quote": "He who adulterates medicinal herbs, oils, salt, perfumes, grain, molasses, and the like, by mixing an inferior substance with the goods, shall be made to pay sixteen paṇas"
+        },
+        {
+          "paragraph_id": "p-fdae36",
+          "quote": "For making an imitation of a genuine article of clay, leather, gems, thread, iron, wood, bark, or cloth, the fine is eight times the value of the thing sold"
+        },
+        {
+          "paragraph_id": "p-754c03",
+          "quote": "He who calls a genuine coin counterfeit, or a counterfeit one genuine, that coin-examiner shall be made to pay the highest amercement"
+        }
+      ],
+      "justification": "The window devotes multiple verses to fraud in the quality and representation of traded goods, indicating a systematic concern with consumer protection and market honesty."
+    },
+    {
+      "topic": "Arson as a capital crime",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-1aa05b",
+          "quote": "Those who set fire to a field, house, forest, village, pasture, or threshing-floor, and he who has intercourse with the king's wife, shall be burnt in a fire of straw"
+        }
+      ],
+      "justification": "The text prescribes death by burning for arsonists, treating deliberate fire-setting against a wide range of property types as a capital offense on par with the most serious personal crimes."
+    }
+  ],
+  "citations": []
+}

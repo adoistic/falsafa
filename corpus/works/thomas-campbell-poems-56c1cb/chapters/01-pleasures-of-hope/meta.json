@@ -1,0 +1,45 @@
+{
+  "work_slug": "thomas-campbell-poems-56c1cb",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "Pleasures of Hope.",
+  "chapter_slug": "01-pleasures-of-hope",
+  "author": "Thomas Campbell",
+  "author_slug": "thomas-campbell",
+  "ecpa_poem_id": "n27tc-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "narrative verse"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 924
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "31509c66-452f-5d60-b207-71bfc8d76f93",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7253,
+      "line_count": 936,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

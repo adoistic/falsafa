@@ -1,0 +1,44 @@
+{
+  "work_slug": "william-dodd-poems-a7c3a0",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "VERSES OCCASIONED BY A PRESENT OF A MOSS ROSE-BUD, FROM MISS JACKSON OF SOUTHGATE.",
+  "chapter_slug": "04-verses-occasioned-by-a-present-of-a-moss-rose-bu",
+  "author": "William Dodd",
+  "author_slug": "william-dodd",
+  "ecpa_poem_id": "o4987-w0770",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "foot": "anapaestic (˘˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "sestet (6 lines)"
+    ],
+    "rhyme": "aabbcc",
+    "syllable_pattern": "12.12.12.12.12.12",
+    "metrical_pattern": "--+|--+|--+|--+/ --+|--+|--+|--+/ --+|--+|--+|--+/ --+|--+|--+|--+/ --+|--+|--+|--+/ --+|--+|--+|--+/",
+    "line_count": 24
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "43670fdf-7f17-516d-9f07-1c6f90f4dc7e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 241,
+      "line_count": 26,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

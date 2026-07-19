@@ -1,0 +1,44 @@
+{
+  "work_slug": "william-mason-poems-ec0935",
+  "work_title": "Poems",
+  "chapter_number": 11,
+  "chapter_title": "ODE to an AEOLUS's Harp. Sent to Miss SHEPHEARD.",
+  "chapter_slug": "11-ode-to-an-aeoluss-harp-sent-to-miss-shepheard",
+  "author": "William Mason",
+  "author_slug": "william-mason",
+  "ecpa_poem_id": "o5155-w0580",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "8.8.10.10",
+    "metrical_pattern": "-+|-+|-+|-+/         -+|-+|-+|-+/         -+|-+|-+|-+|-+/         -+|-+|-+|-+|-+/",
+    "line_count": 32
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8b719e78-b9bc-5f3c-a1cd-6bf10dc6c588",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 240,
+      "line_count": 35,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

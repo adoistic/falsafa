@@ -1,0 +1,40 @@
+{
+  "work_slug": "john-dennis-poems-91d70a",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "THE EMPIRE Sav'd, AND EUROPE Deliver'd.",
+  "chapter_slug": "01-the-empire-savd-and-europe-deliverd",
+  "author": "John Dennis",
+  "author_slug": "john-dennis",
+  "ecpa_poem_id": "o3893-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "blank verse"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 1381
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "bc594880-2c10-5d61-85d9-b69a39cb4b6a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 10150,
+      "line_count": 1382,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "work_slug": "john-cunningham-poems-510f71",
+  "work_title": "Poems",
+  "chapter_number": 7,
+  "chapter_title": "MELODY. I.",
+  "chapter_slug": "07-melody-i",
+  "author": "John Cunningham",
+  "author_slug": "john-cunningham",
+  "ecpa_poem_id": "o5089-w0830",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "pastoral"
+    ],
+    "foot": "trochaic (′˘)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "8.8.8.8",
+    "metrical_pattern": "+-|+-|+-|+-/ +-|+-|+-|+-/ +-|+-|+-|+-/ +-|+-|+-|+-/",
+    "line_count": 24
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f2e2dadc-7492-5d93-af29-f738081428fc",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 136,
+      "line_count": 29,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,520 @@
+{
+  "slug": "unknown-brhaspati-smrti-0fd070",
+  "window": "01:1066-1219",
+  "entities": [
+    {
+      "canonical_name": "Strīdhana",
+      "surface_names": ["Strīdhana", "stridhan", "women's property"],
+      "kind": "idea",
+      "mentions": [
+        {
+          "paragraph_id": "p-419581",
+          "quote": "*Strīdhana* belongs to her offspring, and a daughter is a sharer in it",
+          "role": "subject of inheritance rule"
+        }
+      ],
+      "description": "The legally recognized category of property belonging exclusively to a woman, heritable by her offspring.",
+      "justification": "Directly named and defined as a category of property in Brh_1,26.31, with specific rules about who inherits it."
+    },
+    {
+      "canonical_name": "Brahmin",
+      "surface_names": ["Brahmin", "Brahmin wife", "Brahmin's son", "Brahmin wife's son", "twice-born", "learned Brahmins"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-ad27f9",
+          "quote": "It is ordained for those learned Brahmins who offer the funeral cake to him",
+          "role": "ritual officiants entitled to ancestral property"
+        },
+        {
+          "paragraph_id": "p-2b09b1",
+          "quote": "Sons of a Brahmin, Kshatriya, Vaishya, and Shudra wife, born of a Brahmin",
+          "role": "caste category in inheritance apportionment"
+        },
+        {
+          "paragraph_id": "p-65edf0",
+          "quote": "A twice-born son shall obtain all; thus the *dharma* is established",
+          "role": "privileged inheritor"
+        },
+        {
+          "paragraph_id": "p-b1560e",
+          "quote": "For a Brahmin, branding on the forehead is ordained; no other punishment",
+          "role": "recipient of exceptional legal treatment"
+        }
+      ],
+      "description": "The priestly Brahmin caste, who receive the largest inheritance shares among sons of mixed-caste unions and are exempt from corporal punishment.",
+      "justification": "Repeatedly invoked as the normative standard for property shares and as the exceptional case in penal law across multiple verses in this window."
+    },
+    {
+      "canonical_name": "Kshatriya",
+      "surface_names": ["Kshatriya", "Kshatriya wife", "Kshatriya son"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-501bea",
+          "quote": "Sons of a Kshatriya wife take three, two, and one share",
+          "role": "caste tier in inheritance formula"
+        },
+        {
+          "paragraph_id": "p-04a1c0",
+          "quote": "For those Kshatriyas, Vaishyas, and Shudras who are sonless and devoid of wife and brother, the king is the taker of their wealth",
+          "role": "caste subject to royal escheat"
+        },
+        {
+          "paragraph_id": "p-0892e0",
+          "quote": "A son born of a Kshatriya wife by a Brahmin, who is eldest by birth",
+          "role": "subject of inter-caste inheritance rule"
+        }
+      ],
+      "description": "The warrior-ruler caste, whose sons receive a ranked intermediate share in Brahmin father's estate and whose property escheats to the king if they die without heirs.",
+      "justification": "Cited in several verses as a distinct legal tier within inheritance law alongside Brahmin and Vaishya."
+    },
+    {
+      "canonical_name": "Vaishya",
+      "surface_names": ["Vaishya", "Vaishya wife"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-501bea",
+          "quote": "sons of a Vaishya wife take two and one share",
+          "role": "caste tier in inheritance formula"
+        },
+        {
+          "paragraph_id": "p-04a1c0",
+          "quote": "For those Kshatriyas, Vaishyas, and Shudras who are sonless",
+          "role": "caste subject to royal escheat"
+        }
+      ],
+      "description": "The merchant-farmer caste, whose sons by a Brahmin father receive shares lower than Kshatriya sons but above Shudra sons.",
+      "justification": "Named alongside Kshatriya and Shudra in two distinct legal contexts — share allocation and royal escheat — establishing it as a defined legal category."
+    },
+    {
+      "canonical_name": "Shudra",
+      "surface_names": ["Shudra", "Shudra woman", "Shudra concubine", "Shudra wife"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-65edf0",
+          "quote": "A son born of a Shudra woman by one of the twice-born does not deserve a share of the land",
+          "role": "excluded caste in land inheritance"
+        },
+        {
+          "paragraph_id": "p-f830c1",
+          "quote": "The son by a Shudra woman, the self-given son",
+          "role": "subordinate heir category"
+        },
+        {
+          "paragraph_id": "p-4d8394",
+          "quote": "to the brother who is the son of a Shudra concubine, they should give a mere token of respect",
+          "role": "son with minimal inheritance right"
+        },
+        {
+          "paragraph_id": "p-04a1c0",
+          "quote": "For those Kshatriyas, Vaishyas, and Shudras who are sonless",
+          "role": "caste subject to royal escheat"
+        }
+      ],
+      "description": "The servile fourth caste, whose sons by twice-born fathers are systematically excluded from land inheritance and restricted to token maintenance.",
+      "justification": "The Shudra is the most legally disadvantaged caste category in the inheritance sections of this window, repeatedly named in rules that curtail or eliminate property rights."
+    },
+    {
+      "canonical_name": "Niṣāda",
+      "surface_names": ["Niṣāda"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-05d2bd",
+          "quote": "A Niṣāda who is the only son of a Brahmin is a sharer of a third part",
+          "role": "mixed-caste heir with partial inheritance right"
+        }
+      ],
+      "description": "A mixed-caste group (offspring of a Brahmin father and Shudra mother), granted only one-third of the estate even as sole son.",
+      "justification": "Named explicitly in Brh_1,26.123 as a distinct legal category with a defined fractional inheritance entitlement."
+    },
+    {
+      "canonical_name": "Agni",
+      "surface_names": ["Agni", "fire"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-b415ab",
+          "quote": "Having worshipped Agni and Prajāpati, she is made so, said Gautama",
+          "role": "deity invoked in the rite of appointing a daughter as son-substitute"
+        }
+      ],
+      "description": "The Vedic fire deity, invoked alongside Prajāpati in the ritual that creates an appointed daughter (*putrikā*) as a substitute heir.",
+      "justification": "Named as one of two deities whose worship constitutes the consecration rite by which a daughter is appointed as heir, per Gautama's testimony."
+    },
+    {
+      "canonical_name": "Prajāpati",
+      "surface_names": ["Prajāpati"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-b415ab",
+          "quote": "Having worshipped Agni and Prajāpati, she is made so, said Gautama",
+          "role": "deity invoked in the rite of appointing a daughter as son-substitute"
+        }
+      ],
+      "description": "The Vedic lord of creatures, invoked alongside Agni in the ritual consecration of an appointed daughter as heir.",
+      "justification": "Co-named with Agni in Brh_1,26.76 as the divine witness of the appointed-daughter rite, grounding its ritual legitimacy."
+    },
+    {
+      "canonical_name": "Put",
+      "surface_names": ["Put", "hell called Put"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-3c2e2c",
+          "quote": "Because a son saves his father from the hell called Put",
+          "role": "afterlife punishment from which a son rescues his father"
+        }
+      ],
+      "description": "The Dharmaśāstra hell reserved for men who die without a son, from which a son's birth and rituals are said to liberate the father.",
+      "justification": "Explicitly named in Brh_1,26.81 as the eschatological rationale for begetting sons — the etymological basis for the Sanskrit word *putra* (son)."
+    },
+    {
+      "canonical_name": "Gayā",
+      "surface_names": ["Gayā"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-71c795",
+          "quote": "Someone who will go to Gayā, he will save us",
+          "role": "sacred pilgrimage site associated with ancestral liberation"
+        }
+      ],
+      "description": "A sacred pilgrimage site in the Gangetic plain where śrāddha offerings are held to be supremely efficacious for liberating ancestors.",
+      "justification": "Named in Brh_1,26.89 as the specific destination that ancestors hope a son will visit to offer liberating rites on their behalf."
+    },
+    {
+      "canonical_name": "Vaiśvadeva",
+      "surface_names": ["Vaiśvadeva"],
+      "kind": "event",
+      "mentions": [
+        {
+          "paragraph_id": "p-c56a1c",
+          "quote": "rites such as the Vaiśvadeva must be done by the undivided",
+          "role": "household rite binding undivided family members"
+        }
+      ],
+      "description": "The daily Vaiśvadeva fire rite performed in honor of all gods, cited here as a ritual obligation that presupposes an undivided household.",
+      "justification": "Named in Brh_1,26.145 as the paradigmatic undivided-family rite whose performance marks a household as legally undivided."
+    },
+    {
+      "canonical_name": "kāṇḍapṛṣṭha",
+      "surface_names": ["kāṇḍapṛṣṭha"],
+      "kind": "idea",
+      "mentions": [
+        {
+          "paragraph_id": "p-f830c1",
+          "quote": "all of them are called friends, *kāṇḍapṛṣṭha*, there is no doubt",
+          "role": "legal classification for certain secondary sons"
+        },
+        {
+          "paragraph_id": "p-2b0c19",
+          "quote": "by that misconduct he is a *kāṇḍapṛṣṭha*, there is no doubt",
+          "role": "status assigned to one who abandons his family"
+        }
+      ],
+      "description": "A legal-moral category denoting a person of doubtful or compromised family affiliation — applied both to certain son-types and to men who leave their natal family.",
+      "justification": "Defined and applied across two verses (Brh_1,26.74–75), making it a technical term in Bṛhaspati's classification of sons and social deviants."
+    },
+    {
+      "canonical_name": "śrāddha",
+      "surface_names": ["śrāddha", "funeral cake", "water-libations", "funeral oblation", "funeral cake rite"],
+      "kind": "event",
+      "mentions": [
+        {
+          "paragraph_id": "p-ad27f9",
+          "quote": "It is ordained for those learned Brahmins who offer the funeral cake to him",
+          "role": "rite that legitimizes inheritance"
+        },
+        {
+          "paragraph_id": "p-5758ce",
+          "quote": "he will give the śrāddha daily",
+          "role": "son's ritual duty cited as justification for begetting sons"
+        },
+        {
+          "paragraph_id": "p-24689c",
+          "quote": "she should cause the monthly, six-monthly, and other śrāddhas to be offered",
+          "role": "obligation of a widow who inherits"
+        },
+        {
+          "paragraph_id": "p-7713b3",
+          "quote": "having performed the funeral cake rite together, should then perform the rite for prosperity",
+          "role": "prerequisite ritual act before partition"
+        }
+      ],
+      "description": "The Brahminical ancestral offering rite — involving food, water, and fire — that is the ritual obligation binding heirs to the deceased and structuring the entire inheritance system.",
+      "justification": "Recurs throughout the window as the primary ritual justification for inheritance entitlement, widow's maintenance, and the necessity of having sons."
+    },
+    {
+      "canonical_name": "Manu",
+      "surface_names": ["Manu"],
+      "kind": "figure",
+      "figure_kind": "sage-lawgiver",
+      "mentions": [
+        {
+          "paragraph_id": "p-109814",
+          "quote": "Gambling was forbidden by Manu as it destroys truth, purity, and wealth",
+          "role": "authoritative prior lawgiver whose ruling is cited"
+        },
+        {
+          "paragraph_id": "p-f1b209",
+          "quote": "Thirteen sons have been stated by Manu of old",
+          "role": "source authority for the classification of sons"
+        },
+        {
+          "paragraph_id": "p-bdb34e",
+          "quote": "the pre-eminence of Manu is remembered. A Smṛti that is contrary to the meaning of Manu is not to be praised",
+          "role": "supreme standard against which all other Smṛti is measured"
+        }
+      ],
+      "description": "The primordial lawgiver (*Manusmṛti*) invoked as the supreme authority in dharmaśāstra, whose rulings on sons, gambling, and the Veda establish the benchmark for all Smṛti texts.",
+      "justification": "Cited by name three times in distinct legal contexts — classification of sons, gambling prohibition, and the closing doxological statement — establishing him as the pre-eminent normative reference point."
+    },
+    {
+      "canonical_name": "Gautama",
+      "surface_names": ["Gautama"],
+      "kind": "figure",
+      "figure_kind": "sage-lawgiver",
+      "mentions": [
+        {
+          "paragraph_id": "p-b415ab",
+          "quote": "Having worshipped Agni and Prajāpati, she is made so, said Gautama",
+          "role": "cited authority on the appointed-daughter rite"
+        }
+      ],
+      "description": "The Dharmasūtra author Gautama, cited as the source for the ritual procedure of creating an appointed daughter.",
+      "justification": "Named in Brh_1,26.76 as the authority for a specific ritual ruling on the *putrikā* rite, functioning as a citation to the *Gautamadharmasūtra*."
+    },
+    {
+      "canonical_name": "Śaunaka",
+      "surface_names": ["Śaunaka"],
+      "kind": "figure",
+      "figure_kind": "sage-lawgiver",
+      "mentions": [
+        {
+          "paragraph_id": "p-f2da2b",
+          "quote": "all of it for one without son, father, or wife—thus says Śaunaka",
+          "role": "cited authority on the cremator's share"
+        }
+      ],
+      "description": "The Vedic-ritual authority Śaunaka, cited as the source for the rule governing how much of a deceased person's estate a non-kin cremator may take.",
+      "justification": "Named by the attribution formula 'thus says Śaunaka' in Brh_1,29.11, marking him as an external authority whose ruling is being incorporated into Bṛhaspati's text."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Inheritance and partition of family property",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-4d5707",
+          "quote": "without assembling all the sons, there should be no gift and no sale"
+        },
+        {
+          "paragraph_id": "p-792c61",
+          "quote": "Those two who have reunited out of affection are sharers of each other's property"
+        },
+        {
+          "paragraph_id": "p-268cd8",
+          "quote": "A document of proclamation should be made by partitioned brothers among themselves"
+        }
+      ],
+      "justification": "The dominant legal subject of this window, spanning rules on who may divide property, in what shares, under what conditions — constituting the bulk of chapter 1.26."
+    },
+    {
+      "topic": "Caste hierarchy as the determinant of inheritance shares",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-2b09b1",
+          "quote": "Sons of a Brahmin, Kshatriya, Vaishya, and Shudra wife, born of a Brahmin, in order, should take four, three, two, and one share respectively"
+        },
+        {
+          "paragraph_id": "p-65edf0",
+          "quote": "A son born of a Shudra woman by one of the twice-born does not deserve a share of the land"
+        }
+      ],
+      "justification": "A recurrent structural logic throughout the window: the mother's caste rank directly determines the fraction of the father's estate her son receives, making caste the key variable in property law."
+    },
+    {
+      "topic": "Ritual obligation (śrāddha and funeral rites) as the foundation of inheritance entitlement",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-3c2e2c",
+          "quote": "Because a son saves his father from the hell called Put, one should strive for his birth"
+        },
+        {
+          "paragraph_id": "p-71c795",
+          "quote": "The ancestors, fearing a fall into hell, long for sons, thinking: 'Someone who will go to Gayā, he will save us.'"
+        },
+        {
+          "paragraph_id": "p-d44319",
+          "quote": "for the sake of the funeral cake and water rites, and for the proclamation of his name in *dharma*"
+        }
+      ],
+      "justification": "The text grounds inheritance entitlement not merely in blood ties but in ritual capacity — the ability to offer the funeral cake is the spiritual justification for the legal right to inherit."
+    },
+    {
+      "topic": "The legal status and property rights of women (wives and daughters)",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-eca65d",
+          "quote": "the wife is remembered as half the body, equal in the fruit of merit and demerit"
+        },
+        {
+          "paragraph_id": "p-15baca",
+          "quote": "The wife is the taker of the husband's wealth; without her, the daughter is remembered as the heir"
+        },
+        {
+          "paragraph_id": "p-a29a84",
+          "quote": "Even if of good conduct, and even when a share is made, a woman does not deserve immovable property"
+        }
+      ],
+      "justification": "A sustained thematic thread across sections 1.26.8–1.26.12, balancing the wife's identity as 'half the body' against her restricted ownership of land and movable property."
+    },
+    {
+      "topic": "Classification and hierarchy of sons",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-631485",
+          "quote": "Sons of many kinds were made by the ancient sages"
+        },
+        {
+          "paragraph_id": "p-f1b209",
+          "quote": "Thirteen sons have been stated by Manu of old"
+        },
+        {
+          "paragraph_id": "p-783ced",
+          "quote": "The son of the field is condemned by the good, and likewise the son of a remarried woman"
+        }
+      ],
+      "justification": "Section 1.26.7 is devoted entirely to enumerating and ranking twelve or thirteen recognized types of sons, from the legitimate son to the rejected, bought, and self-given son."
+    },
+    {
+      "topic": "Royal authority as the residual heir and enforcer of legal order",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-04a1c0",
+          "quote": "the king is the taker of their wealth, for he is the lord of all"
+        },
+        {
+          "paragraph_id": "p-08922e",
+          "quote": "he should be established in his own share by the king and punished as a persistent offender"
+        },
+        {
+          "paragraph_id": "p-21a151",
+          "quote": "the king should examine daily the disputes brought by litigants"
+        }
+      ],
+      "justification": "The king appears as both the ultimate escheator when no qualified heirs exist and the judicial authority who enforces partition agreements and punishes fraudulent gamblers."
+    },
+    {
+      "topic": "Regulation and moral ambivalence toward gambling",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-109814",
+          "quote": "Gambling was forbidden by Manu as it destroys truth, purity, and wealth; but it was permitted by others, accompanied by a share for the king"
+        },
+        {
+          "paragraph_id": "p-863eab",
+          "quote": "Wicked men who play with false dice, and those who withhold the king's share"
+        }
+      ],
+      "justification": "Chapter 1.27 opens by registering disagreement between Manu's prohibition and other authorities' regulated permission, then proceeds to frame gambling as a legally supervised activity."
+    },
+    {
+      "topic": "Supremacy of the Veda and Manu as the ultimate standard for Smṛti",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-bdb34e",
+          "quote": "Because it is connected to the meaning of the Veda, the pre-eminence of Manu is remembered. A Smṛti that is contrary to the meaning of Manu is not to be praised"
+        }
+      ],
+      "justification": "The closing verse of the entire work articulates a meta-jurisprudential principle: Manu's authority derives from its consonance with Vedic meaning, making this the text's final theoretical statement on legal epistemology."
+    },
+    {
+      "topic": "Punishment theory: gradation of penalties according to person, fault, and capacity",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-a481fc",
+          "quote": "Verbal censure, reprimand, fine, and capital punishment—the fourfold punishment has been devised. Having known the person, the fault, and his means, one should apply it"
+        },
+        {
+          "paragraph_id": "p-a17e35",
+          "quote": "One should first apply verbal punishment, and after that, reprimand; the third is a monetary fine, and after that, capital punishment"
+        }
+      ],
+      "justification": "Section 1.29 introduces a formal four-tier theory of punishment applied progressively, with explicit attention to the offender's social standing as a variable — a coherent penal jurisprudence."
+    },
+    {
+      "topic": "Eschatological anxiety as motivator for son-production and ritual compliance",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-71c795",
+          "quote": "The ancestors, fearing a fall into hell, long for sons"
+        },
+        {
+          "paragraph_id": "p-d55024",
+          "quote": "a father with a bad son sinks into blinding darkness"
+        }
+      ],
+      "justification": "The recurring invocation of hell (Put), darkness, and ancestral fear functions as an implicit ideological mechanism that makes the entire inheritance and sonship law emotionally urgent beyond its legal formality."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Manusmṛti",
+      "cited_author": "Manu",
+      "stance": "authority",
+      "paragraph_id": "p-109814",
+      "quote": "Gambling was forbidden by Manu as it destroys truth, purity, and wealth",
+      "justification": "Manu's prohibition of gambling is cited as the prior authoritative ruling, against which an alternative permissive tradition is contrasted."
+    },
+    {
+      "cited_work": "Manusmṛti",
+      "cited_author": "Manu",
+      "stance": "authority",
+      "paragraph_id": "p-f1b209",
+      "quote": "Thirteen sons have been stated by Manu of old",
+      "justification": "Bṛhaspati defers to Manu's enumeration of thirteen son-types as the foundational classification that his own discussion follows and refines."
+    },
+    {
+      "cited_work": "Manusmṛti",
+      "cited_author": "Manu",
+      "stance": "authority",
+      "paragraph_id": "p-bdb34e",
+      "quote": "the pre-eminence of Manu is remembered. A Smṛti that is contrary to the meaning of Manu is not to be praised",
+      "justification": "The closing verse explicitly elevates Manu's Smṛti as the supreme normative standard for all other Smṛti texts, grounding his authority in Vedic consonance."
+    },
+    {
+      "cited_work": "Gautamadharmasūtra",
+      "cited_author": "Gautama",
+      "stance": "authority",
+      "paragraph_id": "p-b415ab",
+      "quote": "Having worshipped Agni and Prajāpati, she is made so, said Gautama",
+      "justification": "Gautama is named as the source authority for the ritual procedure of appointing a daughter as a substitute heir, indicating a citation to the Gautamadharmasūtra tradition."
+    },
+    {
+      "cited_work": "Śaunaka's treatise",
+      "cited_author": "Śaunaka",
+      "stance": "authority",
+      "paragraph_id": "p-f2da2b",
+      "quote": "all of it for one without son, father, or wife—thus says Śaunaka",
+      "justification": "Śaunaka is cited by the explicit attribution formula 'thus says Śaunaka' to authorize the rule that a non-kin cremator takes the entire estate of a person without any heirs."
+    }
+  ]
+}

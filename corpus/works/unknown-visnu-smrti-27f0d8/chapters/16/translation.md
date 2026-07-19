@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 16**
+**Viṣṇu Smriti 16**
 
 Sons born of wives of the same *varṇa* are of the same *varṇa*. // Vi_16.1 //
 

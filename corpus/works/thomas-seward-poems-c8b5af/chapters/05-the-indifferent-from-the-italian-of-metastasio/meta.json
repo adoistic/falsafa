@@ -1,0 +1,46 @@
+{
+  "work_slug": "thomas-seward-poems-c8b5af",
+  "work_title": "Poems",
+  "chapter_number": 5,
+  "chapter_title": "The INDIFFERENT. From the Italian of Metastasio.",
+  "chapter_slug": "05-the-indifferent-from-the-italian-of-metastasio",
+  "author": "Thomas Seward",
+  "author_slug": "thomas-seward",
+  "ecpa_poem_id": "o5153-w0690",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "imitation",
+      "translation",
+      "paraphrase"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "sestet (6 lines)"
+    ],
+    "rhyme": "aabccb",
+    "syllable_pattern": "8.8.6.8.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/     -+|-+|-+|-+/     -+|-+|-+/     -+|-+|-+|-+/     -+|-+|-+|-+/     -+|-+|-+/",
+    "line_count": 78
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f3cce995-206a-516d-b36a-1a39f7718f24",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 491,
+      "line_count": 80,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+---
+work_id: "a27207da-e64a-5354-8c1c-e6948d4046e0"
+work_slug: "robert-burns-poems-a27207"
+work_title: Poems
+author: Robert Burns
+author_slug: "robert-burns"
+ecpa_poem_id: "cbu86-w0260"
+chapter_number: 26
+chapter_title: "TO A LOUSE, On Seeing one on a Lady's Bonnet at Church."
+chapter_slug: "26-to-a-louse-on-seeing-one-on-a-ladys-bonnet-at-ch"
+variant_id: "adcc92d3-da60-58ee-a9e8-d501bc31a5fc"
+content_type: original
+layout: verse
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 286
+source_url: "https://www.eighteenthcenturypoetry.org/"
+license: "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+genres:
+  - address
+metrical_foot: iambic (˘′)
+metrical_count: tetrameter (4 feet)
+stanza_form:
+  - sestet (6 lines)
+rhyme_scheme: aaabab
+syllable_pattern: 8.8.8.4.8.4
+---
+
+TO A LOUSE,
+
+On Seeing one on a Lady's Bonnet at Church.
+
+HA! whare ye gaun, ye crowlan ferlie! 
+Your impudence protects you sairly:
+ I canna say but ye strunt rarely,
+ Owre gawze and lace;
+ Tho' faith, I fear ye dine but sparely,
+ On sic a place. 
+
+Ye ugly, creepan, blastet wonner,
+ Detested, shunn'd, by saunt an' sinner,
+ How daur ye set your fit upon her,
+ Sae fine a Lady! 
+Gae somewhere else and seek your dinner,
+ On some poor body. 
+
+Swith, in some beggar's haffet squattle;
+ There ye may creep, and sprawl, and sprattle,
+ Wi' ither kindred, jumping cattle,
+ In shoals and nations;
+ Whare horn nor bane ne'er daur unsettle,
+ Your thick plantations. 
+
+Now haud you there, ye're out o' sight,
+ Below the fatt'rels, snug and tight,
+ Na faith ye yet! ye'll no be right,
+ Till ye've got on it,
+ The vera tapmost, towrin height
+ O' Miss's bonnet. 
+
+My sooth! right bauld ye set your nose out,
+ As plump an' gray as onie grozet:
+ O fer some rank, mercurial rozet,
+ Or fell, red smeddum,
+ I'd gie you sic a hearty dose o't,
+ Wad dress your droddum! 
+
+I wad na been surpriz'd to spy
+ You on an auld wife's flainen toy;
+ Or aiblins some bit duddie boy,
+ On's wylecoat;
+ But Miss's fine Lunardi, fye! 
+How daur ye do't? 
+
+O Jenny dinna toss your head,
+ An' set your beauties a' abread! 
+Ye little ken what cursed speed
+ The blastie's makin! 
+Thae winks and finger-ends, I dread,
+ Are notice takin! 
+
+O wad some Pow'r the giftie gie us
+ To see oursels as others see us! 
+It wad frae monie a blunder free us
+ An' foolish notion:
+ What airs in dress an' gait wad lea'e us,
+ And ev'n Devotion!

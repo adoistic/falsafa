@@ -1,15 +1,14 @@
 ---
 import Base from "../layouts/Base.astro";
 import { manifest, readWorkIndex } from "../lib/corpus";
+import { buildSpectrum } from "../lib/spectrum";
 
 const m = manifest();
 
 // All works that have a cover image — eligible for the featured slot.
 // We embed the full eligible pool in the page (as JSON), and an inline
 // script picks one at random on every page load. The first pick is also
-// rendered server-side so search engines + no-JS readers see real
-// content instead of a blank slot. A build-time random seed nudges the
-// SSR pick so each new build is fresh too.
+// rendered server-side so search engines + no-JS readers see real content.
 interface FeaturedEntry {
   slug: string;
   title: string;
@@ -29,26 +28,27 @@ for (const w of m.works) {
     cover_url: idx.cover_url,
   });
 }
-// Build-time SSR pick: deterministic per build (use the first work in
-// the pool — the inline script will swap on load anyway). Keeping this
-// stable makes Pagefind / SEO snapshots stable across reloads of the
-// same build.
+// Deterministic SSR pick (first in pool); the inline script swaps on load.
 const ssrPick = featuredPool[0]!;
 
-// Era nodes for the timeline
-const eraOrder = ["Ancient", "Classical", "Hellenistic", "Imperial", "Late Antiquity", "Medieval", "Renaissance", "Enlightenment", "19th Century", "20th Century", "Unknown"];
-const eraEntries = eraOrder
-  .filter((e) => m.eras[e.toLowerCase().replace(/[^a-z0-9]+/g, "-")])
-  .map((label) => {
-    const slug = label.toLowerCase().replace(/[^a-z0-9]+/g, "-");
-    return { label, slug, count: m.eras[slug]?.works.length ?? 0 };
-  });
+// Era spectrum — chronological, scaled bars — the homepage centerpiece.
+const spectrum = buildSpectrum(m.eras);
 
-// Live totals for the description meta tag — derived from the manifest at
-// build time so the SEO snippet stays in sync with /numbers as the corpus
-// grows.
+// Live totals.
 const totalChapters = m.works.reduce((s, w) => s + (w.total_logical_chapters ?? 0), 0);
 const totalVariants = m.works.reduce((s, w) => s + (w.total_variant_entries ?? 0), 0);
+
+const fmt = (n: number) => n.toLocaleString("en-US");
+
+// The four monumental hero numbers. "25 centuries" lives in the headline,
+// so it is intentionally not repeated here.
+const heroNumbers = [
+  { value: fmt(m.counts.works), label: "works" },
+  { value: fmt(totalChapters), label: "chapters" },
+  { value: fmt(m.counts.languages), label: "languages" },
+  { value: fmt(m.counts.authors), label: "authors" },
+];
+
 const description = `A premium reading platform for translated philosophical and classical texts. ${m.counts.works} works, ${totalChapters.toLocaleString("en-US")} logical chapters, ${totalVariants.toLocaleString("en-US")} variant entries across ${m.counts.languages} languages. Free, public, open source.`;
 ---
 
@@ -57,27 +57,73 @@ const description = `A premium reading platform for translated philosophical and
   description={description}
 >
   <div class="container">
+    {/* 1 ─ Masthead: the scale, stated plainly */}
+    <section class="masthead">
+      <p class="kicker">A living library of translated thought</p>
+      <h1 class="masthead-title">Twenty-five centuries of thought, carried into English.</h1>
+      <p class="masthead-lede">
+        Free and open source. Built to be read by people &mdash; and cited, honestly, by machines.
+      </p>
+      <div class="hero-numbers">
+        {heroNumbers.map((n) => (
+          <div class="hero-number">
+            <span class="hero-number-value">{n.value}</span>
+            <span class="hero-number-label">{n.label}</span>
+          </div>
+        ))}
+      </div>
+    </section>
+
+    {/* 2 ─ The spectrum: the corpus's true shape across time. Each era is a
+        link; the tallest era gets focal styling. role=list + per-bar
+        aria-labels carry the data to assistive tech. */}
+    <section class="spectrum-section" aria-labelledby="spectrum-heading">
+      <h2 id="spectrum-heading" class="section-kicker">The shape of the corpus</h2>
+      <p class="section-intro">
+        Where those {fmt(m.counts.works)} works fall in time &mdash; a Greco-Roman summit, a quiet
+        medieval trough, a second wave after 1800. Each era is a door.
+      </p>
+      <div class="spectrum" role="list">
+        {spectrum.map((b) => (
+          <a
+            href={`/eras/${b.slug}/`}
+            class:list={["spectrum-era", { "is-peak": b.isPeak }]}
+            role="listitem"
+            aria-label={`${b.label}: ${b.count} ${b.count === 1 ? "work" : "works"}`}
+            style={`--bar-h: ${b.heightPx}px; --bar-frac: ${b.fraction}`}
+          >
+            <span class="spectrum-count">{b.count}</span>
+            <span class="spectrum-bar" aria-hidden="true"></span>
+            <span class="spectrum-label">{b.label}</span>
+          </a>
+        ))}
+      </div>
+      <p class="all-works-link">
+        <a href="/works/">Browse all {fmt(m.counts.works)} works →</a>
+      </p>
+    </section>
+
+    {/* 3 ─ Featured reading (rotates on load). Demoted below the scale story;
+        the warm on-ramp, not the headline. */}
     <section class="featured" data-featured>
       <a href={`/works/${ssrPick.slug}/`} class="featured-cover" data-featured-link>
         <img src={ssrPick.cover_url} alt={`Cover for ${ssrPick.title}`} data-featured-img />
       </a>
       <div class="featured-text">
         <p class="kicker">Featured reading</p>
-        <h1 class="featured-title" data-featured-title>{ssrPick.title}</h1>
+        <h2 class="featured-title" data-featured-title>{ssrPick.title}</h2>
         <p class="featured-author" data-featured-author>{ssrPick.author}</p>
         <p class="featured-desc" data-featured-desc>{ssrPick.description}</p>
         <a href={`/works/${ssrPick.slug}/`} class="cta" data-featured-cta>Begin reading →</a>
       </div>
     </section>
 
-    {/* Embedded pool for the on-load random swap. Kept as application/json
-        so it doesn't block parsing and stays out of the global namespace. */}
+    {/* Embedded pool for the on-load random swap. */}
     <script type="application/json" id="featured-pool" set:html={JSON.stringify(featuredPool)} />
 
     <script is:inline>
       /* Featured-work rotation: pick a different work on every page load.
-         Inline + synchronous so it runs before the browser commits the
-         initial paint, avoiding a flash of the SSR pick. */
+         Inline + synchronous so it runs before the initial paint. */
       (function () {
         var poolNode = document.getElementById("featured-pool");
         if (!poolNode || !poolNode.textContent) return;
@@ -106,34 +152,7 @@ const description = `A premium reading platform for translated philosophical and
       })();
     </script>
 
-    <section class="catalog-overview">
-      <h2>The catalog</h2>
-      <p class="lede">
-        {m.counts.works} works across {m.counts.eras} eras, {m.counts.languages} languages,
-        {m.counts.authors} authors. Translations and transliterations by Thothica.
-      </p>
-      <div
-        class="era-strip"
-        role="list"
-        style={`--era-count: ${eraEntries.length}`}
-      >
-        {eraEntries.map((e) => (
-          <a
-            href={`/eras/${e.slug}/`}
-            class="era-node"
-            role="listitem"
-            aria-label={`${e.label}: ${e.count} ${e.count === 1 ? "work" : "works"}`}
-          >
-            <span class="era-count">{e.count}</span>
-            <span class="era-label">{e.label}</span>
-          </a>
-        ))}
-      </div>
-      <p class="all-works-link">
-        <a href="/works/">Browse all {m.counts.works} works →</a>
-      </p>
-    </section>
-
+    {/* 4 ─ The justification: the book and atlas, and the engine. */}
     <section class="why">
       <div class="why-col">
         <p class="kicker">Why this library exists</p>
@@ -173,11 +192,258 @@ const description = `A premium reading platform for translated philosophical and
     padding: var(--s-12) var(--s-8) var(--s-24);
   }
 
+  /* ── Shared editorial bits ─────────────────────────────────────────── */
+  .kicker {
+    font-family: var(--font-sans);
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--accent);
+    margin: 0 0 var(--s-3);
+  }
+
+  /* Sections after the masthead share a top rule + breathing room. */
+  .spectrum-section,
+  .featured,
+  .why {
+    margin-top: var(--s-24);
+    padding-top: var(--s-12);
+    border-top: 1px solid var(--rule);
+  }
+
+  /* ── 1. Masthead ───────────────────────────────────────────────────── */
+  .masthead {
+    padding-top: var(--s-8);
+  }
+
+  .masthead-title {
+    font-family: var(--font-display);
+    font-size: var(--fs-h1);
+    font-weight: 700;
+    line-height: 1.08;
+    letter-spacing: -0.025em;
+    margin: 0 0 var(--s-5);
+    max-width: 20ch;
+  }
+
+  .masthead-lede {
+    font-family: var(--font-body);
+    font-size: var(--fs-h3);
+    line-height: 1.4;
+    color: var(--ink-muted);
+    margin: 0 0 var(--s-10);
+    max-width: 48ch;
+  }
+
+  .hero-numbers {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--s-6) var(--s-12);
+    padding-top: var(--s-8);
+    border-top: 1px solid var(--rule);
+  }
+
+  .hero-number {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .hero-number-value {
+    font-family: var(--font-display);
+    font-weight: 700;
+    font-size: clamp(40px, 6vw, 64px);
+    line-height: 0.95;
+    letter-spacing: -0.03em;
+    color: var(--ink);
+  }
+
+  .hero-number-label {
+    font-family: var(--font-sans);
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--ink-muted);
+    margin-top: var(--s-3);
+  }
+
+  @media (max-width: 640px) {
+    .hero-numbers {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: var(--s-6) var(--s-8);
+    }
+  }
+
+  /* ── 2. The spectrum ───────────────────────────────────────────────── */
+  .section-kicker {
+    font-family: var(--font-sans);
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--accent);
+    margin: 0 0 var(--s-3);
+  }
+
+  .section-intro {
+    font-family: var(--font-display);
+    font-style: italic;
+    color: var(--ink-muted);
+    font-size: var(--fs-h3);
+    line-height: 1.4;
+    max-width: 60ch;
+    margin: 0 0 var(--s-12);
+  }
+
+  /* Desktop: vertical bars sharing a baseline axis (the ::after line), with
+     a fixed label zone below the axis so every bar base aligns even when a
+     label wraps to two lines. */
+  .spectrum {
+    --label-zone: 44px;
+    position: relative;
+    display: flex;
+    align-items: flex-end;
+    gap: var(--s-2);
+    height: 224px;
+    margin-bottom: var(--s-5);
+  }
+
+  .spectrum::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: var(--label-zone);
+    height: 1.5px;
+    background: var(--ink);
+  }
+
+  .spectrum-era {
+    flex: 1;
+    min-width: 0;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    text-decoration: none;
+    color: var(--ink);
+  }
+
+  .spectrum-count {
+    font-family: var(--font-display);
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--ink-muted);
+    margin-bottom: var(--s-1);
+    transition: color 0.2s ease;
+  }
+
+  .spectrum-bar {
+    width: 100%;
+    max-width: 44px;
+    height: var(--bar-h, 6px);
+    background: var(--accent);
+    border-radius: 2px 2px 0 0;
+    transition: background 0.2s ease;
+  }
+
+  /* Focal peak: mix the accent toward the ink so it deepens in light
+     themes and brightens in dark — the tallest bar stands out either way. */
+  .spectrum-era.is-peak .spectrum-bar {
+    background: color-mix(in srgb, var(--accent) 78%, var(--ink));
+  }
+
+  .spectrum-label {
+    height: var(--label-zone);
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    padding-top: var(--s-2);
+    font-family: var(--font-sans);
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    line-height: 1.2;
+    text-align: center;
+    color: var(--ink-muted);
+    transition: color 0.2s ease;
+  }
+
+  .spectrum-era:hover .spectrum-bar,
+  .spectrum-era:focus-visible .spectrum-bar {
+    background: var(--accent-soft);
+  }
+
+  .spectrum-era:hover .spectrum-count,
+  .spectrum-era:hover .spectrum-label,
+  .spectrum-era:focus-visible .spectrum-count,
+  .spectrum-era:focus-visible .spectrum-label {
+    color: var(--ink);
+  }
+
+  .spectrum-era:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 4px;
+  }
+
+  /* Mobile: 10 thin vertical bars are illegible — switch to a horizontal
+     bar list (label · bar · count per row). Same data, same links. */
+  @media (max-width: 640px) {
+    .spectrum {
+      display: block;
+      height: auto;
+      margin-bottom: var(--s-4);
+    }
+    .spectrum::after {
+      display: none;
+    }
+    .spectrum-era {
+      height: auto;
+      display: grid;
+      grid-template-columns: 104px 1fr auto;
+      align-items: center;
+      gap: var(--s-4);
+      padding: var(--s-3) 0;
+      border-bottom: 1px solid var(--rule);
+    }
+    .spectrum-label {
+      order: 1;
+      height: auto;
+      padding-top: 0;
+      justify-content: flex-start;
+      text-align: left;
+    }
+    .spectrum-bar {
+      order: 2;
+      max-width: none;
+      width: calc(var(--bar-frac, 0) * 100%);
+      height: 12px;
+      min-width: 4px;
+      border-radius: 0 2px 2px 0;
+    }
+    .spectrum-count {
+      order: 3;
+      margin-bottom: 0;
+      text-align: right;
+      font-size: 15px;
+      color: var(--ink);
+    }
+  }
+
+  .all-works-link {
+    margin: 0;
+    font-family: var(--font-sans);
+  }
+
+  /* ── 3. Featured reading (demoted) ─────────────────────────────────── */
   .featured {
     display: grid;
     grid-template-columns: 1fr;
     gap: var(--s-12);
-    margin-bottom: var(--s-24);
     align-items: center;
   }
 
@@ -210,19 +476,9 @@ const description = `A premium reading platform for translated philosophical and
     font-family: var(--font-body);
   }
 
-  .kicker {
-    font-family: var(--font-sans);
-    font-size: 12px;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.12em;
-    color: var(--accent);
-    margin: 0 0 var(--s-3);
-  }
-
   .featured-title {
     font-family: var(--font-display);
-    font-size: var(--fs-h1);
+    font-size: var(--fs-h2);
     font-weight: 700;
     line-height: var(--lh-display);
     letter-spacing: -0.02em;
@@ -252,114 +508,11 @@ const description = `A premium reading platform for translated philosophical and
     padding-bottom: 2px;
   }
 
-  .catalog-overview {
-    margin-top: var(--s-24);
-    padding-top: var(--s-12);
-    border-top: 1px solid var(--rule);
-  }
-
-  .catalog-overview h2 {
-    font-family: var(--font-display);
-    font-size: var(--fs-h2);
-    font-weight: 600;
-    margin: 0 0 var(--s-3);
-  }
-
-  .lede {
-    font-family: var(--font-display);
-    font-style: italic;
-    color: var(--ink-muted);
-    font-size: var(--fs-h3);
-    line-height: 1.4;
-    max-width: 60ch;
-    margin: 0 0 var(--s-12);
-  }
-
-  /* Era strip — a typographic timeline. Each cell is a clickable era,
-     showing the work count as a display-serif anchor and the era name as
-     a small-caps label below. Top + bottom rules tie the row together
-     like an editorial axis; no boxes, no clutter. */
-  .era-strip {
-    display: grid;
-    grid-template-columns: repeat(var(--era-count, 6), minmax(0, 1fr));
-    gap: var(--s-6) var(--s-4);
-    margin-bottom: var(--s-8);
-    padding: var(--s-8) 0;
-    border-top: 1px solid var(--rule);
-    border-bottom: 1px solid var(--rule);
-  }
-
-  @media (max-width: 720px) {
-    .era-strip {
-      grid-template-columns: repeat(3, minmax(0, 1fr));
-    }
-  }
-
-  @media (max-width: 420px) {
-    .era-strip {
-      grid-template-columns: repeat(2, minmax(0, 1fr));
-    }
-  }
-
-  .era-node {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    color: var(--ink);
-    text-decoration: none;
-  }
-
-  .era-count {
-    font-family: var(--font-display);
-    font-size: var(--fs-h2);
-    font-weight: 700;
-    line-height: 0.95;
-    letter-spacing: -0.02em;
-    color: var(--ink);
-    margin-bottom: var(--s-2);
-    transition: color 0.2s ease;
-  }
-
-  .era-label {
-    font-family: var(--font-sans);
-    font-size: 11px;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.12em;
-    color: var(--ink-muted);
-    line-height: 1.2;
-    transition: color 0.2s ease;
-  }
-
-  .era-node:hover .era-count,
-  .era-node:focus-visible .era-count {
-    color: var(--accent);
-  }
-
-  .era-node:hover .era-label,
-  .era-node:focus-visible .era-label {
-    color: var(--ink);
-  }
-
-  .era-node:focus-visible {
-    outline: 2px solid var(--accent);
-    outline-offset: 6px;
-  }
-
-  .all-works-link {
-    margin: 0;
-    font-family: var(--font-sans);
-  }
-
-  /* The justification block: the book and atlas on the left, the engine
-     teaser on the right. The library leads; the machinery whispers. */
+  /* ── 4. Why this library exists ────────────────────────────────────── */
   .why {
     display: grid;
     grid-template-columns: 1fr;
     gap: var(--s-12);
-    margin-top: var(--s-24);
-    padding-top: var(--s-12);
-    border-top: 1px solid var(--rule);
   }
 
   @media (min-width: 860px) {

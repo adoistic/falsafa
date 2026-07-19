@@ -1,0 +1,44 @@
+{
+  "work_slug": "mary-matilda-betham-poems-3bacb3",
+  "work_title": "Poems",
+  "chapter_number": 23,
+  "chapter_title": "TO M. I.",
+  "chapter_slug": "23-to-m-i",
+  "author": "(Mary) Matilda Betham",
+  "author_slug": "mary-matilda-betham",
+  "ecpa_poem_id": "bmb97-w0230",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "8.6.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 44
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "94259188-635b-5bd4-a025-21cfdb281ff8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 243,
+      "line_count": 45,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

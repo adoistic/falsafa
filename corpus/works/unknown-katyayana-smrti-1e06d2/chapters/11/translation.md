@@ -28,7 +28,7 @@ Whether appointed by the plaintiff or sent by the defendant, whoever argues on a
 
 Slaves, servants, pupils, appointed agents, and kinsmen, when acting as pleaders, should not be fined. Anyone other than these is liable for a fine. // K_092 //
 
-In cases of killing a Brahmin, drinking liquor, theft, and intercourse with a preceptor's wife, and in other major sins, a representative is not permitted. // K_093 //
+In cases of killing a Brāhmaṇa, drinking liquor, theft, and intercourse with a preceptor's wife, and in other major sins, a representative is not permitted. // K_093 //
 
 In cases of homicide, theft, molesting another's wife, eating forbidden food, and the abduction and violation of a maiden... // K_094 //
 

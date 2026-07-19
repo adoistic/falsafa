@@ -1,0 +1,28 @@
+{
+  "work_slug": "william-shakespeare-sonnets-65f289",
+  "work_title": "Sonnets",
+  "chapter_number": 126,
+  "chapter_title": "Sonnet 126",
+  "chapter_slug": "126-sonnet-126",
+  "incipit": "O thou, my lovely boy, who in thy power",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "de07e20e-0cf6-5e6f-82b3-b7e1083cdcba",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 96,
+      "line_count": 12,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1041",
+      "license": "Public domain — from Project Gutenberg (https://www.gutenberg.org)"
+    }
+  ]
+}

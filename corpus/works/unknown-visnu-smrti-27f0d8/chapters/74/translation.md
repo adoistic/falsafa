@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 74**
+**Viṣṇu Smriti 74**
 
 On the *aṣṭakā* (अष्टका) days, having performed a *śrāddha* (श्राद्ध) with the rite for the gods performed first, with vegetables, meat, and cakes, and on the *anvaṣṭakā* (अन्वष्टका) days, having offered into the fire as on the *aṣṭakā* (अष्टका) days, with the rite for the gods performed first, he shall feed Brāhmaṇas for his mother, paternal grandmother, and paternal great-grandmother as before, and having honored them with gifts, he shall follow them and dismiss them. // Vi_74.1 //
 

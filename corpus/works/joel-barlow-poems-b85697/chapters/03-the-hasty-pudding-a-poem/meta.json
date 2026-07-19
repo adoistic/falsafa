@@ -1,0 +1,41 @@
+{
+  "work_slug": "joel-barlow-poems-b85697",
+  "work_title": "Poems",
+  "chapter_number": 3,
+  "chapter_title": "THE HASTY-PUDDING: A POEM.",
+  "chapter_slug": "03-the-hasty-pudding-a-poem",
+  "author": "Joel Barlow",
+  "author_slug": "joel-barlow",
+  "ecpa_poem_id": "n22jb-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 369
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "25d8626d-c94e-5ab6-90c2-50d2239c38db",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2974,
+      "line_count": 373,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

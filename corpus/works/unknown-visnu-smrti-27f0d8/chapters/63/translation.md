@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 63**
+**Viṣṇu Smriti 63**
 
 Now, for the sake of security and prosperity, he shall go to the Lord (the king). // Vi_63.1 //
 

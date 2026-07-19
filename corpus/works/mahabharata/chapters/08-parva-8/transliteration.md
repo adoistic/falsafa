@@ -1,0 +1,15503 @@
+---
+work_id: "d8cb694b-592d-5e56-801e-f095a302cbd1"
+work_slug: mahabharata
+work_title: Mahābhārata
+author_name: Vyāsa
+chapter_number: 8
+chapter_title: Parva 8
+chapter_slug: "08-parva-8"
+variant_id: "bd18f4ab-0b5a-5912-a9d2-32d00d693f5d"
+content_type: transliteration
+layout: verse
+language: Sanskrit
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 51572
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
+transliterator: thothica
+---
+
+**8.1.1**
+
+vaiśaṃpāyana uvāca tato droṇe hate rājan duryodhanamukhā nṛpāḥ bhṛśam udvignamanaso droṇaputram upāgaman
+
+**8.1.2**
+
+te droṇam upaśocantaḥ kaśmalābhihataujasaḥ paryupāsanta śokārtās tataḥ śāradvatīsutam
+
+**8.1.3**
+
+muhūrtaṃ te samāśvāsya hetubhiḥ śāstrasaṃmitaiḥ rātryāgame mahīpālāḥ svāni veśmāni bhejire
+
+**8.1.4**
+
+viśeṣataḥ sūtaputro rājā caiva suyodhanaḥ duḥśāsano 'tha śakunir na nidrām upalebhire
+
+**8.1.5**
+
+te veśmasv api kauravya pṛthvīśā nāpnuvan sukham cintayantaḥ kṣayaṃ tīvraṃ nidrāṃ naivopalebhire
+
+**8.1.6**
+
+sahitās te niśāyāṃ tu duryodhananiveśane atipracaṇḍād vidveṣāt pāṇḍavānāṃ mahātmanām
+
+**8.1.7**
+
+yat tad dyūtaparikliṣṭāṃ kṛṣṇām āninyire sabhām tat smaranto 'nvatapyanta bhṛśam udvignacetasaḥ
+
+**8.1.8**
+
+cintayantaś ca pārthānāṃ tān kleśān dyūtakāritān kṛcchreṇa kṣaṇadāṃ rājan ninyur abdaśatopamām
+
+**8.1.9**
+
+tataḥ prabhāte vimale sthitā diṣṭasya śāsane cakrur āvaśyakaṃ sarve vidhidṛṣṭena karmaṇā
+
+**8.1.10**
+
+te kṛtvāvaśyakāryāṇi samāśvasya ca bhārata yogam ājñāpayām āsur yuddhāya ca viniryayuḥ
+
+**8.1.11**
+
+karṇaṃ senāpatiṃ kṛtvā kṛtakautukamaṅgalāḥ vācayitvā dvijaśreṣṭhān dadhipātraghṛtākṣataiḥ
+
+**8.1.12**
+
+niṣkair gobhir hiraṇyena vāsobhiś ca mahādhanaiḥ vardhyamānā jayāśīrbhiḥ sūtamāgadhabandibhiḥ
+
+**8.1.13**
+
+tathaiva pāṇḍavā rājan kṛtasarvāhṇikakriyāḥ śibirān niryayū rājan yuddhāya kṛtaniścayāḥ
+
+**8.1.14**
+
+tataḥ pravavṛte yuddhaṃ tumulaṃ romaharṣaṇam kurūṇāṃ pāṇḍavānāṃ ca parasparavadhaiṣiṇām
+
+**8.1.15**
+
+tayor dve divase yuddhaṃ kurupāṇḍavasenayoḥ karṇe senāpatau rājann abhūd adbhutadarśanam
+
+**8.1.16**
+
+tataḥ śatrukṣayaṃ kṛtvā sumahāntaṃ raṇe vṛṣaḥ paśyatāṃ dhārtarāṣṭrāṇāṃ phalgunena nipātitaḥ
+
+**8.1.17**
+
+tatas tat saṃjayaḥ sarvaṃ gatvā nāgāhvayaṃ puram ācakhyau dhṛtarāṣṭrāya yad vṛttaṃ kurujāṅgale
+
+**8.1.18**
+
+janamejaya uvāca āpageyaṃ hataṃ śrutvā droṇaṃ ca samare paraiḥ yo jagāma parām ārtiṃ vṛddho rājāmbikāsutaḥ
+
+**8.1.19**
+
+sa śrutvā nihataṃ karṇaṃ duryodhanahitaiṣiṇam kathaṃ dvijavara prāṇān adhārayata duḥkhitaḥ
+
+**8.1.20**
+
+yasmiñ jayāśāṃ putrāṇām amanyata sa pārthivaḥ tasmin hate sa kauravyaḥ kathaṃ prāṇān adhārayat
+
+**8.1.21**
+
+durmaraṃ bata manye 'haṃ nṛṇāṃ kṛcchre 'pi vartatām yatra karṇaṃ hataṃ śrutvā nātyajaj jīvitaṃ nṛpaḥ
+
+**8.1.22**
+
+tathā śāṃtanavaṃ vṛddhaṃ brahman bāhlikam eva ca droṇaṃ ca somadattaṃ ca bhūriśravasam eva ca
+
+**8.1.23**
+
+tathaiva cānyān suhṛdaḥ putrapautrāṃś ca pātitān śrutvā yan nājahāt prāṇāṃs tan manye duṣkaraṃ dvija
+
+**8.1.24**
+
+etan me sarvam ācakṣva vistareṇa tapodhana na hi tṛpyāmi pūrveṣāṃ śṛṇvānaś caritaṃ mahat
+
+**8.1.25**
+
+vaiśaṃpāyana uvāca hate karṇe mahārāja niśi gāvalgaṇis tadā dīno yayau nāgapuram aśvair vātasamair jave
+
+**8.1.26**
+
+sa hāstinapuraṃ gatvā bhṛśam udvignamānasaḥ jagāma dhṛtarāṣṭrasya kṣayaṃ prakṣīṇabāndhavam
+
+**8.1.27**
+
+sa samudvīkṣya rājānaṃ kaśmalābhihataujasam vavande prāñjalir bhūtvā mūrdhnā pādau nṛpasya ha
+
+**8.1.28**
+
+saṃpūjya ca yathānyāyaṃ dhṛtarāṣṭraṃ mahīpatim hā kaṣṭam iti coktvā sa tato vacanam ādade
+
+**8.1.29**
+
+saṃjayo 'haṃ kṣitipate kaccid āste sukhaṃ bhavān svadoṣeṇāpadaṃ prāpya kaccin nādya vimuhyasi
+
+**8.1.30**
+
+hitāny uktāni viduradroṇagāṅgeyakeśavaiḥ agṛhītāny anusmṛtya kaccin na kuruṣe vyathām
+
+**8.1.31**
+
+rāmanāradakaṇvaiś ca hitam uktaṃ sabhātale nagṛhītam anusmṛtya kaccin na kuruṣe vyathām
+
+**8.1.32**
+
+suhṛdas tvaddhite yuktān bhīṣmadroṇamukhān paraiḥ nihatān yudhi saṃsmṛtya kaccin na kuruṣe vyathām
+
+**8.1.33**
+
+tam evaṃvādinaṃ rājā sūtaputraṃ kṛtāñjalim sudīrgham abhiniḥśvasya duḥkhārta idam abravīt
+
+**8.1.34**
+
+gāṅgeye nihate śūre divyāstravati saṃjaya droṇe ca parameṣvāse bhṛśaṃ me vyathitaṃ manaḥ
+
+**8.1.35**
+
+yo rathānāṃ sahasrāṇi daṃśitānāṃ daśaiva hi ahany ahani tejasvī nijaghne vasusaṃbhavaḥ
+
+**8.1.36**
+
+sa hato yajñasenasya putreṇeha śikhaṇḍinā pāṇḍaveyābhiguptena bhṛśaṃ me vyathitaṃ manaḥ
+
+**8.1.37**
+
+bhārgavaḥ pradadau yasmai paramāstraṃ mahātmane sākṣād rāmeṇa yo bālye dhanurveda upākṛtaḥ
+
+**8.1.38**
+
+yasya prasādāt kaunteyā rājaputrā mahābalāḥ mahārathatvaṃ saṃprāptās tathānye vasudhādhipāḥ
+
+**8.1.39**
+
+taṃ droṇaṃ nihataṃ śrutvā dhṛṣṭadyumnena saṃyuge satyasaṃdhaṃ maheṣvāsaṃ bhṛśaṃ me vyathitaṃ manaḥ
+
+**8.1.40**
+
+trailokye yasya śāstreṣu na pumān vidyate samaḥ taṃ droṇaṃ nihataṃ śrutvā kim akurvata māmakāḥ
+
+**8.1.41**
+
+saṃśaptakānāṃ ca bale pāṇḍavena mahātmanā dhanaṃjayena vikramya gamite yamasādanam
+
+**8.1.42**
+
+nārāyaṇāstre nihate droṇaputrasya dhīmataḥ hataśeṣeṣv anīkeṣu kim akurvata māmakāḥ
+
+**8.1.43**
+
+vipradrutān ahaṃ manye nimagnaḥ śokasāgare plavamānān hate droṇe sannanaukān ivārṇave
+
+**8.1.44**
+
+duryodhanasya karṇasya bhojasya kṛtavarmaṇaḥ madrarājasya śalyasya drauṇeś caiva kṛpasya ca
+
+**8.1.45**
+
+matputraśeṣasya tathā tathānyeṣāṃ ca saṃjaya viprakīrṇeṣv anīkeṣu mukhavarṇo 'bhavat katham
+
+**8.1.46**
+
+etat sarvaṃ yathā vṛttaṃ tattvaṃ gāvalgaṇe raṇe ācakṣva pāṇḍaveyānāṃ māmakānāṃ ca sarvaśaḥ
+
+**8.1.47**
+
+saṃjaya uvāca pāṇḍaveyair hi yad vṛttaṃ kauraveyeṣu māriṣa tac chrutvā mā vyathāṃ kārṣīd iṣṭe na vyathate manaḥ
+
+**8.1.48**
+
+yasmād abhāvī bhāvī vā bhaved artho naraṃ prati aprāptau tasya vā prāptau na kaś cid vyathate budhaḥ
+
+**8.1.49**
+
+dhṛtarāṣṭra uvāca na vyathā śṛṇvataḥ kā cid vidyate mama saṃjaya diṣṭam etat purā manye kathayasva yathecchakam
+
+**8.2.1**
+
+saṃjaya uvāca hate droṇe maheṣvāse tava putrā mahārathāḥ babhūvur āśvastamukhā viṣaṇṇā gatacetasaḥ
+
+**8.2.2**
+
+avāṅmukhāḥ śastrabhṛtaḥ sarva eva viśāṃ pate aprekṣamāṇāḥ śokārtā nābhyabhāṣan parasparam
+
+**8.2.3**
+
+tān dṛṣṭvā vyathitākārān sainyāni tava bhārata ūrdhvam evābhyavekṣanta duḥkhatrastāny anekaśaḥ
+
+**8.2.4**
+
+śastrāṇy eṣāṃ ca rājendra śoṇitāktāny aśeṣataḥ prābhraśyanta karāgrebhyo dṛṣṭvā droṇaṃ nipātitam
+
+**8.2.5**
+
+tāni baddhāny aniṣṭāni lambamānāni bhārata adṛśyanta mahārāja nakṣatrāṇi yathā divi
+
+**8.2.6**
+
+tathārtaṃ stimitaṃ dṛṣṭvā gatasattvam iva sthitam svaṃ balaṃ tan mahārāja rājā duryodhano 'bravīt
+
+**8.2.7**
+
+bhavatāṃ bāhuvīryaṃ hi samāśritya mayā yudhi pāṇḍaveyāḥ samāhūtā yuddhaṃ cedaṃ pravartitam
+
+**8.2.8**
+
+tad idaṃ nihate droṇe viṣaṇṇam iva lakṣyate yudhyamānāś ca samare yodhā vadhyanti sarvataḥ
+
+**8.2.9**
+
+jayo vāpi vadho vāpi yudhyamānasya saṃyuge bhavet kim atra citraṃ vai yudhyadhvaṃ sarvatomukhāḥ
+
+**8.2.10**
+
+paśyadhvaṃ ca mahātmānaṃ karṇaṃ vaikartanaṃ yudhi pracarantaṃ maheṣvāsaṃ divyair astrair mahābalam
+
+**8.2.11**
+
+yasya vai yudhi saṃtrāsāt kuntīputro dhanaṃjayaḥ nivartate sadāmarṣāt siṃhāt kṣudramṛgo yathā
+
+**8.2.12**
+
+yena nāgāyutaprāṇo bhīmaseno mahābalaḥ mānuṣeṇaiva yuddhena tām avasthāṃ praveśitaḥ
+
+**8.2.13**
+
+yena divyāstravic chūro māyāvī sa ghaṭotkacaḥ amoghayā raṇe śaktyā nihato bhairavaṃ nadan
+
+**8.2.14**
+
+tasya duṣpāravīryasya satyasaṃdhasya dhīmataḥ bāhvor draviṇam akṣayyam adya drakṣyatha saṃyuge
+
+**8.2.15**
+
+droṇaputrasya vikrāntaṃ rādheyasyaiva cobhayoḥ pāṇḍupāñcālasainyeṣu drakṣyathāpi mahātmanoḥ
+
+**8.2.16**
+
+sarva eva bhavantaś ca śūrāḥ prājñāḥ kulodgatāḥ śīlavantaḥ kṛtāstrāś ca drakṣyathādya parasparam
+
+**8.2.17**
+
+evam ukte mahārāja karṇo vaikartano nṛpaḥ siṃhanādaṃ vinadyoccaiḥ prāyudhyata mahābalaḥ
+
+**8.2.18**
+
+sa sṛñjayānāṃ sarveṣāṃ pāñcālānāṃ ca paśyatām kekayānāṃ videhānām akarot kadanaṃ mahat
+
+**8.2.19**
+
+tasyeṣudhārāḥ śataśaḥ prādurāsañ śarāsanāt agre puṅkhe ca saṃsaktā yathā bhramarapaṅktayaḥ
+
+**8.2.20**
+
+sa pīḍayitvā pāñcālān pāṇḍavāṃś ca tarasvinaḥ hatvā sahasraśo yodhān arjunena nipātitaḥ
+
+**8.3.1**
+
+vaiśaṃpāyana uvāca etac chrutvā mahārāja dhṛtarāṣṭro 'mbikāsutaḥ śokasyāntam apaśyan vai hataṃ matvā suyodhanam vihvalaḥ patito bhūmau naṣṭacetā iva dvipaḥ
+
+**8.3.2**
+
+tasmin nipatite bhūmau vihvale rājasattame ārtanādo mahān āsīt strīṇāṃ bharatasattama
+
+**8.3.3**
+
+sa śabdaḥ pṛthivīṃ sarvāṃ pūrayām āsa sarvaśaḥ śokārṇave mahāghore nimagnā bharatastriyaḥ
+
+**8.3.4**
+
+rājānaṃ ca samāsādya gāndhārī bharatarṣabha niḥsaṃjñā patitā bhūmau sarvāṇy antaḥpurāṇi ca
+
+**8.3.5**
+
+tatas tāḥ saṃjayo rājan samāśvāsayad āturāḥ muhyamānāḥ subahuśo muñcantyo vāri netrajam
+
+**8.3.6**
+
+samāśvastāḥ striyas tās tu vepamānā muhur muhuḥ kadalya iva vātena dhūyamānāḥ samantataḥ
+
+**8.3.7**
+
+rājānaṃ viduraś cāpi prajñācakṣuṣam īśvaram āśvāsayām āsa tadā siñcaṃs toyena kauravam
+
+**8.3.8**
+
+sa labdhvā śanakaiḥ saṃjñāṃ tāś ca dṛṣṭvā striyo nṛpa unmatta iva rājā sa sthitas tūṣṇīṃ viśāṃ pate
+
+**8.3.9**
+
+tato dhyātvā ciraṃ kālaṃ niḥśvasaṃś ca punaḥ punaḥ svān putrān garhayām āsa bahu mene ca pāṇḍavān
+
+**8.3.10**
+
+garhayitvātmano buddhiṃ śakuneḥ saubalasya ca dhyātvā ca suciraṃ kālaṃ vepamāno muhur muhuḥ
+
+**8.3.11**
+
+saṃstabhya ca mano bhūyo rājā dhairyasamanvitaḥ punar gāvalgaṇiṃ sūtaṃ paryapṛcchata saṃjayam
+
+**8.3.12**
+
+yat tvayā kathitaṃ vākyaṃ śrutaṃ saṃjaya tan mayā kaccid duryodhanaḥ sūta na gato vai yamakṣayam brūhi saṃjaya tattvena punar uktāṃ kathām imām
+
+**8.3.13**
+
+evam ukto 'bravīt sūto rājānaṃ janamejaya hato vaikartano rājan saha putrair mahārathaiḥ bhrātṛbhiś ca maheṣvāsaiḥ sūtaputrais tanutyajaiḥ
+
+**8.3.14**
+
+duḥśāsanaś ca nihataḥ pāṇḍavena yaśasvinā pītaṃ ca rudhiraṃ kopād bhīmasenena saṃyuge
+
+**8.4.1**
+
+vaiśaṃpāyana uvāca etac chrutvā mahārāja dhṛtarāṣṭro 'mbikāsutaḥ abravīt saṃjayaṃ sūtaṃ śokavyākulacetanaḥ
+
+**8.4.2**
+
+duṣpraṇītena me tāta manasābhiplutātmanaḥ hataṃ vaikartanaṃ śrutvā śoko marmāṇi kṛntati
+
+**8.4.3**
+
+kṛtāstraparamāḥ śalye duḥkhapāraṃ titīrṣavaḥ kurūṇāṃ sṛñjayānāṃ ca ke nu jīvanti ke mṛtāḥ
+
+**8.4.4**
+
+saṃjaya uvāca hataḥ śāṃtanavo rājan durādharṣaḥ pratāpavān hatvā pāṇḍavayodhānām arbudaṃ daśabhir dinaiḥ
+
+**8.4.5**
+
+tato droṇo maheṣvāsaḥ pāñcālānāṃ rathavrajān nihatya yudhi durdharṣaḥ paścād rukmaratho hataḥ
+
+**8.4.6**
+
+hataśiṣṭasya bhīṣmeṇa droṇena ca mahātmanā ardhaṃ nihatya sainyasya karṇo vaikartano hataḥ
+
+**8.4.7**
+
+viviṃśatir mahārāja rājaputro mahābalaḥ ānartayodhāñ śataśo nihatya nihato raṇe
+
+**8.4.8**
+
+atha putro vikarṇas te kṣatravratam anusmaran kṣīṇavāhāyudhaḥ śūraḥ sthito 'bhimukhataḥ parān
+
+**8.4.9**
+
+ghorarūpān parikleśān duryodhanakṛtān bahūn pratijñāṃ smaratā caiva bhīmasenena pātitaḥ
+
+**8.4.10**
+
+vindānuvindāv āvantyau rājaputrau mahābalau kṛtvā nasukaraṃ karma gatau vaivasvatakṣayam
+
+**8.4.11**
+
+sindhurāṣṭramukhānīha daśa rāṣṭrāṇi yasya vai vaśe tiṣṭhanti vīrasya yaḥ sthitas tava śāsane
+
+**8.4.12**
+
+akṣauhiṇīr daśaikāṃ ca nirjitya niśitaiḥ śaraiḥ arjunena hato rājan mahāvīryo jayadrathaḥ
+
+**8.4.13**
+
+tathā duryodhanasutas tarasvī yuddhadurmadaḥ vartamānaḥ pituḥ śāstre saubhadreṇa nipātitaḥ
+
+**8.4.14**
+
+tathā dauḥśāsanir vīro bāhuśālī raṇotkaṭaḥ draupadeyena vikramya gamito yamasādanam
+
+**8.4.15**
+
+kirātānām adhipatiḥ sāgarānūpavāsinām devarājasya dharmātmā priyo bahumataḥ sakhā
+
+**8.4.16**
+
+bhagadatto mahīpālaḥ kṣatradharmarataḥ sadā dhanaṃjayena vikramya gamito yamasādanam
+
+**8.4.17**
+
+tathā kauravadāyādaḥ saumadattir mahāyaśāḥ hato bhūriśravā rājañ śūraḥ sātyakinā yudhi
+
+**8.4.18**
+
+śrutāyur api cāmbaṣṭhaḥ kṣatriyāṇāṃ dhanurdharaḥ carann abhītavat saṃkhye nihataḥ savyasācinā
+
+**8.4.19**
+
+tava putraḥ sadā saṃkhye kṛtāstro yuddhadurmadaḥ duḥśāsano mahārāja bhīmasenena pātitaḥ
+
+**8.4.20**
+
+yasya rājan gajānīkaṃ bahusāhasram adbhutam sudakṣiṇaḥ sa saṃgrāme nihataḥ savyasācinā
+
+**8.4.21**
+
+kosalānām adhipatir hatvā bahuśatān parān saubhadreṇa hi vikramya gamito yamasādanam
+
+**8.4.22**
+
+bahuśo yodhayitvā ca bhīmasenaṃ mahārathaḥ citrasenas tava suto bhīmasenena pātitaḥ
+
+**8.4.23**
+
+madrarājātmajaḥ śūraḥ pareṣāṃ bhayavardhanaḥ asicarmadharaḥ śrīmān saubhadreṇa nipātitaḥ
+
+**8.4.24**
+
+samaḥ karṇasya samare yaḥ sa karṇasya paśyataḥ vṛṣaseno mahātejāḥ śīghrāstraḥ kṛtaniścayaḥ
+
+**8.4.25**
+
+abhimanyor vadhaṃ smṛtvā pratijñām api cātmanaḥ dhanaṃjayena vikramya gamito yamasādanam
+
+**8.4.26**
+
+nityaprasaktavairo yaḥ pāṇḍavaiḥ pṛthivīpatiḥ viśrāvya vairaṃ pārthena śrutāyuḥ sa nipātitaḥ
+
+**8.4.27**
+
+śalyaputras tu vikrāntaḥ sahadevena māriṣa hato rukmaratho rājan bhrātā mātulajo yudhi
+
+**8.4.28**
+
+rājā bhagīratho vṛddho bṛhatkṣatraś ca kekayaḥ parākramantau vikrāntau nihatau vīryavattarau
+
+**8.4.29**
+
+bhagadattasuto rājan kṛtaprajño mahābalaḥ śyenavac caratā saṃkhye nakulena nipātitaḥ
+
+**8.4.30**
+
+pitāmahas tava tathā bāhlikaḥ saha bāhlikaiḥ bhīmasenena vikramya gamito yamasādanam
+
+**8.4.31**
+
+jayatsenas tathā rājañ jārāsaṃdhir mahābalaḥ māgadho nihataḥ saṃkhye saubhadreṇa mahātmanā
+
+**8.4.32**
+
+putras te durmukho rājan duḥsahaś ca mahārathaḥ gadayā bhīmasenena nihatau śūramāninau
+
+**8.4.33**
+
+durmarṣaṇo durviṣaho durjayaś ca mahārathaḥ kṛtvā nasukaraṃ karma gatā vaivasvatakṣayam
+
+**8.4.34**
+
+sacivo vṛṣavarmā te sūtaḥ paramavīryavān bhīmasenena vikramya gamito yamasādanam
+
+**8.4.35**
+
+nāgāyutabalo rājā nāgāyutabalo mahān sagaṇaḥ pāṇḍuputreṇa nihataḥ savyasācinā
+
+**8.4.36**
+
+vasātayo mahārāja dvisāhasrāḥ prahāriṇaḥ śūrasenāś ca vikrāntāḥ sarve yudhi nipātitāḥ
+
+**8.4.37**
+
+abhīṣāhāḥ kavacinaḥ praharanto madotkaṭāḥ śibayaś ca rathodārāḥ kaliṅgasahitā hatāḥ
+
+**8.4.38**
+
+gokule nityasaṃvṛddhā yuddhe paramakovidāḥ śreṇayo bahusāhasrāḥ saṃśaptakagaṇāś ca ye te sarve pārtham āsādya gatā vaivasvatakṣayam
+
+**8.4.39**
+
+syālau tava mahārāja rājānau vṛṣakācalau tvadarthe saṃparākrāntau nihatau savyasācinā
+
+**8.4.40**
+
+ugrakarmā maheṣvāso nāmataḥ karmatas tathā śālvarājo mahārāja bhīmasenena pātitaḥ
+
+**8.4.41**
+
+oghavāṃś ca mahārāja bṛhantaḥ sahito raṇe parākramantau mitrārthe gatau vaivasvatakṣayam
+
+**8.4.42**
+
+tathaiva rathināṃ śreṣṭhaḥ kṣemadhūrtir viśāṃ pate nihato gadayā rājan bhīmasenena saṃyuge
+
+**8.4.43**
+
+tathā rājā maheṣvāso jalasaṃdho mahābalaḥ sumahat kadanaṃ kṛtvā hataḥ sātyakinā raṇe
+
+**8.4.44**
+
+alāyudho rākṣasendraḥ kharabandhurayānagaḥ ghaṭotkacena vikramya gamito yamasādanam
+
+**8.4.45**
+
+rādheyāḥ sūtaputrāś ca bhrātaraś ca mahārathāḥ kekayāḥ sarvaśaś cāpi nihatāḥ savyasācinā
+
+**8.4.46**
+
+mālavā madrakāś caiva draviḍāś cogravikramāḥ yaudheyāś ca lalitthāś ca kṣudrakāś cāpy uśīnarāḥ
+
+**8.4.47**
+
+māvellakās tuṇḍikerāḥ sāvitrīputrakāñcalāḥ prācyodīcyāḥ pratīcyāś ca dākṣiṇātyāś ca māriṣa
+
+**8.4.48**
+
+pattīnāṃ nihatāḥ saṃghā hayānām ayutāni ca rathavrajāś ca nihatā hatāś ca varavāraṇāḥ
+
+**8.4.49**
+
+sadhvajāḥ sāyudhāḥ śūrāḥ savarmāmbarabhūṣaṇāḥ kālena mahatā yattāḥ kule ye ca vivardhitāḥ
+
+**8.4.50**
+
+te hatāḥ samare rājan pārthenākliṣṭakarmaṇā anye tathāmitabalāḥ parasparavadhaiṣiṇaḥ
+
+**8.4.51**
+
+ete cānye ca bahavo rājānaḥ sagaṇā raṇe hatāḥ sahasraśo rājan yan māṃ tvaṃ paripṛcchasi evam eṣa kṣayo vṛttaḥ karṇārjunasamāgame
+
+**8.4.52**
+
+mahendreṇa yathā vṛtro yathā rāmeṇa rāvaṇaḥ yathā kṛṣṇena nihato muro raṇanipātitaḥ kārtavīryaś ca rāmeṇa bhārgaveṇa hato yathā
+
+**8.4.53**
+
+sajñātibāndhavaḥ śūraḥ samare yuddhadurmadaḥ raṇe kṛtvā mahāyuddhaṃ ghoraṃ trailokyaviśrutam
+
+**8.4.54**
+
+tathārjunena nihato dvairathe yuddhadurmadaḥ sāmātyabāndhavo rājan karṇaḥ praharatāṃ varaḥ
+
+**8.4.55**
+
+jayāśā dhārtarāṣṭrāṇāṃ vairasya ca mukhaṃ yataḥ tīrṇaṃ tat pāṇḍavai rājan yat purā nāvabudhyase
+
+**8.4.56**
+
+ucyamāno mahārāja bandhubhir hitakāṅkṣibhiḥ tad idaṃ samanuprāptaṃ vyasanaṃ tvāṃ mahātyayam
+
+**8.4.57**
+
+putrāṇāṃ rājyakāmānāṃ tvayā rājan hitaiṣiṇā ahitānīva cīrṇāni teṣāṃ te phalam āgatam
+
+**8.4.58**
+
+dhṛtarāṣṭra uvāca ākhyātā māmakās tāta nihatā yudhi pāṇḍavaiḥ nihatān pāṇḍaveyānāṃ māmakair brūhi saṃjaya
+
+**8.4.59**
+
+saṃjaya uvāca kuntayo yudhi vikrāntā mahāsattvā mahābalāḥ sānubandhāḥ sahāmātyā bhīṣmeṇa yudhi pātitāḥ
+
+**8.4.60**
+
+samaḥ kirīṭinā saṃkhye vīryeṇa ca balena ca satyajit satyasaṃdhena droṇena nihato raṇe
+
+**8.4.61**
+
+tathā virāṭadrupadau vṛddhau sahasutau nṛpau parākramantau mitrārthe droṇena nihatau raṇe
+
+**8.4.62**
+
+yo bāla eva samare saṃmitaḥ savyasācinā keśavena ca durdharṣo baladevena cābhibhūḥ
+
+**8.4.63**
+
+sa eṣa kadanaṃ kṛtvā mahad raṇaviśāradaḥ parivārya mahāmātraiḥ ṣaḍbhiḥ paramakai rathaiḥ aśaknuvadbhir bībhatsum abhimanyur nipātitaḥ
+
+**8.4.64**
+
+taṃ kṛtaṃ virathaṃ vīraṃ kṣatradharme vyavasthitam dauḥśāsanir mahārāja saubhadraṃ hatavān raṇe
+
+**8.4.65**
+
+bṛhantas tu maheṣvāsaḥ kṛtāstro yuddhadurmadaḥ duḥśāsanena vikramya gamito yamasādanam
+
+**8.4.66**
+
+maṇimān daṇḍadhāraś ca rājānau yuddhadurmadau parākramantau mitrārthe droṇena vinipātitau
+
+**8.4.67**
+
+aṃśumān bhojarājas tu sahasainyo mahārathaḥ bhāradvājena vikramya gamito yamasādanam
+
+**8.4.68**
+
+citrāyudhaś citrayodhī kṛtvā tau kadanaṃ mahat citramārgeṇa vikramya karṇena nihatau yudhi
+
+**8.4.69**
+
+vṛkodarasamo yuddhe dṛḍhaḥ kekayajo yudhi kekayenaiva vikramya bhrātrā bhrātā nipātitaḥ
+
+**8.4.70**
+
+janamejayo gadāyodhī pārvatīyaḥ pratāpavān durmukhena mahārāja tava putreṇa pātitaḥ
+
+**8.4.71**
+
+rocamānau naravyāghrau rocamānau grahāv iva droṇena yugapad rājan divaṃ saṃpreṣitau śaraiḥ
+
+**8.4.72**
+
+nṛpāś ca pratiyudhyantaḥ parākrāntā viśāṃ pate kṛtvā nasukaraṃ karma gatā vaivasvatakṣayam
+
+**8.4.73**
+
+purujit kuntibhojaś ca mātulaḥ savyasācinaḥ saṃgrāmanirjitāṃl lokān gamito droṇasāyakaiḥ
+
+**8.4.74**
+
+abhibhūḥ kāśirājaś ca kāśikair bahubhir vṛtaḥ vasudānasya putreṇa nyāsito deham āhave
+
+**8.4.75**
+
+amitaujā yudhāmanyur uttamaujāś ca vīryavān nihatya śataśaḥ śūrān parair vinihatau raṇe
+
+**8.4.76**
+
+kṣatradharmā ca pāñcālyaḥ kṣatravarmā ca māriṣa droṇena parameṣvāsau gamitau yamasādanam
+
+**8.4.77**
+
+śikhaṇḍitanayo yuddhe kṣatradevo yudhāṃ patiḥ lakṣmaṇena hato rājaṃs tava pautreṇa bhārata
+
+**8.4.78**
+
+sucitraś citradharmā ca pitāputrau mahārathau pracarantau mahāvīryau droṇena nihatau raṇe
+
+**8.4.79**
+
+vārdhakṣemir mahārāja kṛtvā kadanam āhave bāhlikena mahārāja kauraveṇa nipātitaḥ
+
+**8.4.80**
+
+dhṛṣṭaketur mahārāja cedīnāṃ pravaro rathaḥ kṛtvā nasukaraṃ karma gato vaivasvatakṣayam
+
+**8.4.81**
+
+tathā satyadhṛtis tāta kṛtvā kadanam āhave pāṇḍavārthe parākrānto gamito yamasādanam
+
+**8.4.82**
+
+putras tu śiśupālasya suketuḥ pṛthivīpate nihatya śātravān saṃkhye droṇena nihato yudhi
+
+**8.4.83**
+
+tathā satyadhṛtir vīro madirāśvaś ca vīryavān sūryadattaś ca vikrānto nihato droṇasāyakaiḥ
+
+**8.4.84**
+
+śreṇimāṃś ca mahārāja yudhyamānaḥ parākramī kṛtvā nasukaraṃ karma gato vaivasvatakṣayam
+
+**8.4.85**
+
+tathaiva yudhi vikrānto māgadhaḥ paravīrahā bhīṣmeṇa nihato rājan yudhyamānaḥ parākramī
+
+**8.4.86**
+
+vasudānaś ca kadanaṃ kurvāṇo 'tīva saṃyuge bhāradvājena vikramya gamito yamasādanam
+
+**8.4.87**
+
+ete cānye ca bahavaḥ pāṇḍavānāṃ mahārathāḥ hatā droṇena vikramya yan māṃ tvaṃ paripṛcchasi
+
+**8.4.88**
+
+dhṛtarāṣṭra uvāca hatapravīre sainye 'smin māmake vadatāṃ vara ahatāñ śaṃsa me sūta ye 'tra jīvanti ke cana
+
+**8.4.89**
+
+eteṣu nihateṣv adya ye tvayā parikīrtitāḥ ahatān manyase yāṃs tvaṃ te 'pi svargajito matāḥ
+
+**8.4.90**
+
+saṃjaya uvāca yasmin mahāstrāṇi samarpitāni; citrāṇi śubhrāṇi caturvidhāni divyāni rājan nihitāni caiva; droṇena vīradvijasattamena
+
+**8.4.91**
+
+mahārathaḥ kṛtimān kṣiprahasto; dṛḍhāyudho dṛḍhamuṣṭir dṛḍheṣuḥ sa vīryavān droṇaputras tarasvī; vyavasthito yoddhukāmas tvadarthe
+
+**8.4.92**
+
+ānartavāsī hṛdikātmajo 'sau; mahārathaḥ sātvatānāṃ variṣṭhaḥ svayaṃ bhojaḥ kṛtavarmā kṛtāstro; vyavasthito yoddhukāmas tvadarthe
+
+**8.4.93**
+
+śāradvato gautamaś cāpi rājan; mahābalo bahucitrāstrayodhī dhanuś citraṃ sumahad bhārasāhaṃ; vyavasthito yotsyamānaḥ pragṛhya
+
+**8.4.94**
+
+ārtāyaniḥ samare duṣprakampyaḥ; senāgraṇīḥ prathamas tāvakānām svasreyāṃs tān pāṇḍaveyān visṛjya; satyāṃ vācaṃ tāṃ cikīrṣus tarasvī
+
+**8.4.95**
+
+tejovadhaṃ sūtaputrasya saṃkhye; pratiśrutvājātaśatroḥ purastāt durādharṣaḥ śakrasamānavīryaḥ; śalyaḥ sthito yoddhukāmas tvadarthe
+
+**8.4.96**
+
+ājāneyaiḥ saindhavaiḥ pārvatīyair; nadījakāmbojavanāyubāhlikaiḥ gāndhārarājaḥ svabalena yukto; vyavasthito yoddhukāmas tvadarthe
+
+**8.4.97**
+
+tathā sutas te jvalanārkavarṇaṃ; rathaṃ samāsthāya kurupravīra vyavasthitaḥ kurumitro narendra; vyabhre sūryo bhrājamāno yathā vai
+
+**8.4.98**
+
+duryodhano nāgakulasya madhye; mahāvīryaḥ saha sainyapravīraiḥ rathena jāmbūnadabhūṣaṇena; vyavasthitaḥ samare yoddhukāmaḥ
+
+**8.4.99**
+
+sa rājamadhye puruṣapravīro; rarāja jāmbūnadacitravarmā padmaprabho vahnir ivālpadhūmo; meghāntare sūrya iva prakāśaḥ
+
+**8.4.100**
+
+tathā suṣeṇo 'py asicarmapāṇis; tavātmajaḥ satyasenaś ca vīraḥ vyavasthitau citrasenena sārdhaṃ; hṛṣṭātmānau samare yoddhukāmau
+
+**8.4.101**
+
+hrīniṣedhā bharatā rājaputrāś; citrāyudhaḥ śrutakarmā jayaś ca śalaś ca satyavrataduḥśalau ca; vyavasthitā balino yoddhukāmāḥ
+
+**8.4.102**
+
+kaitavyānām adhipaḥ śūramānī; raṇe raṇe śatruhā rājaputraḥ patrī hayī nāgarathaprayāyī; vyavasthito yoddhukāmas tvadarthe
+
+**8.4.103**
+
+vīraḥ śrutāyuś ca śrutāyudhaś ca; citrāṅgadaś citravarmā sa vīraḥ vyavasthitā ye tu sainye narāgryāḥ; prahāriṇo māninaḥ satyasaṃdhāḥ
+
+**8.4.104**
+
+karṇātmajaḥ satyaseno mahātmā; vyavasthitaḥ samare yoddhukāmaḥ athāparau karṇasutau varārhau; vyavasthitau laghuhastau narendra balaṃ mahad durbhidam alpadhairyaiḥ; samāśritau yotsyamānau tvadarthe
+
+**8.4.105**
+
+etaiś ca mukhyair aparaiś ca rājan; yodhapravīrair amitaprabhāvaiḥ vyavasthito nāgakulasya madhye; yathā mahendraḥ kururājo jayāya
+
+**8.4.106**
+
+dhṛtarāṣṭra uvāca ākhyātā jīvamānā ye parebhyo 'nye yathātatham itīdam abhigacchāmi vyaktam arthābhipattitaḥ
+
+**8.4.107**
+
+vaiśaṃpāyana uvāca evaṃ bruvann eva tadā dhṛtarāṣṭro 'mbikāsutaḥ hatapravīraṃ vidhvastaṃ kiṃciccheṣaṃ svakaṃ balam śrutvā vyāmoham agamac chokavyākulitendriyaḥ
+
+**8.4.108**
+
+muhyamāno 'bravīc cāpi muhūrtaṃ tiṣṭha saṃjaya vyākulaṃ me manas tāta śrutvā sumahad apriyam naṣṭacittas tataḥ so 'tha babhūva jagatīpatiḥ
+
+**8.5.1**
+
+janamejaya uvāca śrutvā karṇaṃ hataṃ yuddhe putrāṃś caivāpalāyinaḥ narendraḥ kiṃ cid āśvasto dvijaśreṣṭha kim abravīt
+
+**8.5.2**
+
+prāptavān paramaṃ duḥkhaṃ putravyasanajaṃ mahat tasmin yad uktavān kāle tan mamācakṣva pṛcchataḥ
+
+**8.5.3**
+
+vaiśaṃpāyana uvāca śrutvā karṇasya nidhanam aśraddheyam ivādbhutam bhūtasaṃmohanaṃ bhīmaṃ meroḥ paryasanaṃ yathā
+
+**8.5.4**
+
+cittamoham ivāyuktaṃ bhārgavasya mahāmateḥ parājayam ivendrasya dviṣadbhyo bhīmakarmaṇaḥ
+
+**8.5.5**
+
+divaḥ prapatanaṃ bhānor urvyām iva mahādyuteḥ saṃśoṣaṇam ivācintyaṃ samudrasyākṣayāmbhasaḥ
+
+**8.5.6**
+
+mahīviyaddigīśānāṃ sarvanāśam ivādbhutam karmaṇor iva vaiphalyam ubhayoḥ puṇyapāpayoḥ
+
+**8.5.7**
+
+saṃcintya nipuṇaṃ buddhyā dhṛtarāṣṭro janeśvaraḥ nedam astīti saṃcintya karṇasya nidhanaṃ prati
+
+**8.5.8**
+
+prāṇinām etad ātmatvāt syād apīti vināśanam śokāgninā dahyamāno dhamyamāna ivāśayaḥ
+
+**8.5.9**
+
+vidhvastātmā śvasan dīno hā hety uktvā suduḥkhitaḥ vilalāpa mahārāja dhṛtarāṣṭro 'mbikāsutaḥ
+
+**8.5.10**
+
+dhṛtarāṣṭra uvāca saṃjayādhiratho vīraḥ siṃhadviradavikramaḥ vṛṣam apratimaskandho vṛṣabhākṣagatisvanaḥ
+
+**8.5.11**
+
+vṛṣabho vṛṣabhasyeva yo yuddhe na nivartate śatror api mahendrasya vajrasaṃhanano yuvā
+
+**8.5.12**
+
+yasya jyātalaśabdena śaravṛṣṭiraveṇa ca rathāśvanaramātaṅgā nāvatiṣṭhanti saṃyuge
+
+**8.5.13**
+
+yam āśritya mahābāhuṃ dviṣatsaṃghaghnam acyutam duryodhano 'karod vairaṃ pāṇḍuputrair mahābalaiḥ
+
+**8.5.14**
+
+sa kathaṃ rathināṃ śreṣṭhaḥ karṇaḥ pārthena saṃyuge nihataḥ puruṣavyāghraḥ prasahyāsahyavikramaḥ
+
+**8.5.15**
+
+yo nāmanyata vai nityam acyutaṃ na dhanaṃjayam na vṛṣṇīn api tān anyān svabāhubalam āśritaḥ
+
+**8.5.16**
+
+śārṅgagāṇḍīvadhanvānau sahitāv aparājitau ahaṃ divyād rathād ekaḥ pātayiṣyāmi saṃyuge
+
+**8.5.17**
+
+iti yaḥ satataṃ mandam avocal lobhamohitam duryodhanam apādīnaṃ rājyakāmukam āturam
+
+**8.5.18**
+
+yaś cājaiṣīd atibalān amitrān api durjayān gāndhārān madrakān matsyāṃs trigartāṃs taṅgaṇāñ śakān
+
+**8.5.19**
+
+pāñcālāṃś ca videhāṃś ca kuṇindān kāśikosalān suhmān aṅgāṃś ca puṇḍrāṃś ca niṣādān vaṅgakīcakān
+
+**8.5.20**
+
+vatsān kaliṅgāṃs taralān aśmakān ṛṣikāṃs tathā yo jitvā samare vīraś cakre balibhṛtaḥ purā
+
+**8.5.21**
+
+uccaiḥśravā varo 'śvānāṃ rājñāṃ vaiśravaṇo varaḥ varo mahendro devānāṃ karṇaḥ praharatāṃ varaḥ
+
+**8.5.22**
+
+yaṃ labdhvā māgadho rājā sāntvamānārthagauravaiḥ arautsīt pārthivaṃ kṣatram ṛte kauravayādavān
+
+**8.5.23**
+
+taṃ śrutvā nihataṃ karṇaṃ dvairathe savyasācinā śokārṇave nimagno 'ham aplavaḥ sāgare yathā
+
+**8.5.24**
+
+īdṛśair yady ahaṃ duḥkhair na vinaśyāmi saṃjaya vajrād dṛḍhataraṃ manye hṛdayaṃ mama durbhidam
+
+**8.5.25**
+
+jñātisaṃbandhimitrāṇām imaṃ śrutvā parājayam ko mad anyaḥ pumāṃl loke na jahyāt sūta jīvitam
+
+**8.5.26**
+
+viṣam agniṃ prapātaṃ vā parvatāgrād ahaṃ vṛṇe na hi śakṣyāmi duḥkhāni soḍhuṃ kaṣṭāni saṃjaya
+
+**8.5.27**
+
+saṃjaya uvāca śriyā kulena yaśasā tapasā ca śrutena ca tvām adya santo manyante yayātim iva nāhuṣam
+
+**8.5.28**
+
+śrute maharṣipratimaḥ kṛtakṛtyo 'si pārthiva paryavasthāpayātmānaṃ mā viṣāde manaḥ kṛthāḥ
+
+**8.5.29**
+
+dhṛtarāṣṭra uvāca daivam eva paraṃ manye dhik pauruṣam anarthakam yatra rāmapratīkāśaḥ karṇo 'hanyata saṃyuge
+
+**8.5.30**
+
+hatvā yudhiṣṭhirānīkaṃ pāñcālānāṃ rathavrajān pratāpya śaravarṣeṇa diśaḥ sarvā mahārathaḥ
+
+**8.5.31**
+
+mohayitvā raṇe pārthān vajrahasta ivāsurān sa kathaṃ nihataḥ śete vātarugṇa iva drumaḥ
+
+**8.5.32**
+
+śokasyāntaṃ na paśyāmi samudrasyeva viplukāḥ cintā me vardhate tīvrā mumūrṣā cāpi jāyate
+
+**8.5.33**
+
+karṇasya nidhanaṃ śrutvā vijayaṃ phalgunasya ca aśraddheyam ahaṃ manye vadhaṃ karṇasya saṃjaya
+
+**8.5.34**
+
+vajrasāramayaṃ nūnaṃ hṛdayaṃ sudṛḍhaṃ mama yac chrutvā puruṣavyāghraṃ hataṃ karṇaṃ na dīryate
+
+**8.5.35**
+
+āyur nūnaṃ sudīrghaṃ me vihitaṃ daivataiḥ purā yatra karṇaṃ hataṃ śrutvā jīvāmīha suduḥkhitaḥ
+
+**8.5.36**
+
+dhig jīvitam idaṃ me 'dya suhṛd dhīnasya saṃjaya adya cāhaṃ daśām etāṃ gataḥ saṃjaya garhitām kṛpaṇaṃ vartayiṣyāmi śocyaḥ sarvasya mandadhīḥ
+
+**8.5.37**
+
+aham eva purā bhūtvā sarvalokasya satkṛtaḥ paribhūtaḥ kathaṃ sūta punaḥ śakṣyāmi jīvitum duḥkhāt suduḥkhaṃ vyasanaṃ prāptavān asmi saṃjaya
+
+**8.5.38**
+
+tasmād bhīṣmavadhe caiva droṇasya ca mahātmanaḥ nātra śeṣaṃ prapaśyāmi sūtaputre hate yudhi
+
+**8.5.39**
+
+sa hi pāraṃ mahān āsīt putrāṇāṃ mama saṃjaya yuddhe vinihataḥ śūro visṛjan sāyakān bahūn
+
+**8.5.40**
+
+ko hi me jīvitenārthas tam ṛte puruṣarṣabham rathād atiratho nūnam apatat sāyakārditaḥ
+
+**8.5.41**
+
+parvatasyeva śikharaṃ vajrapātavidāritam śayīta pṛthivīṃ nūnaṃ śobhayan rudhirokṣitaḥ mātaṅga iva mattena mātaṅgena nipātitaḥ
+
+**8.5.42**
+
+yad balaṃ dhārtarāṣṭrāṇāṃ pāṇḍavānāṃ yato bhayam so 'rjunena hataḥ karṇaḥ pratimānaṃ dhanuṣmatām
+
+**8.5.43**
+
+sa hi vīro maheṣvāsaḥ putrāṇām abhayaṃkaraḥ śete vinihato vīraḥ śakreṇeva yathā balaḥ
+
+**8.5.44**
+
+paṅgor ivādhvagamanaṃ daridrasyeva kāmitam duryodhanasya cākūtaṃ tṛṣitasyeva piplukāḥ
+
+**8.5.45**
+
+anyathā cintitaṃ kāryam anyathā tat tu jāyate aho nu balavad daivaṃ kālaś ca duratikramaḥ
+
+**8.5.46**
+
+palāyamānaḥ kṛpaṇaṃ dīnātmā dīnapauruṣaḥ kaccin na nihataḥ sūta putro duḥśāsano mama
+
+**8.5.47**
+
+kaccin na nīcācaritaṃ kṛtavāṃs tāta saṃyuge kaccin na nihataḥ śūro yathā na kṣatriyā hatāḥ
+
+**8.5.48**
+
+yudhiṣṭhirasya vacanaṃ mā yuddham iti sarvadā duryodhano nābhyagṛhṇān mūḍhaḥ pathyam ivauṣadham
+
+**8.5.49**
+
+śaratalpe śayānena bhīṣmeṇa sumahātmanā pānīyaṃ yācitaḥ pārthaḥ so 'vidhyan medinītalam
+
+**8.5.50**
+
+jalasya dhārāṃ vihitāṃ dṛṣṭvā tāṃ pāṇḍavena ha abravīt sa mahābāhus tāta saṃśāmya pāṇḍavaiḥ
+
+**8.5.51**
+
+praśamād dhi bhavec chāntir madantaṃ yuddham astu ca bhrātṛbhāvena pṛthivīṃ bhuṅkṣva pāṇḍusutaiḥ saha
+
+**8.5.52**
+
+akurvan vacanaṃ tasya nūnaṃ śocati me sutaḥ tad idaṃ samanuprāptaṃ vacanaṃ dīrghadarśinaḥ
+
+**8.5.53**
+
+ahaṃ tu nihatāmātyo hataputraś ca saṃjaya dyūtataḥ kṛcchram āpanno lūnapakṣa iva dvijaḥ
+
+**8.5.54**
+
+yathā hi śakuniṃ gṛhya chittvā pakṣau ca saṃjaya visarjayanti saṃhṛṣṭāḥ krīḍamānāḥ kumārakāḥ
+
+**8.5.55**
+
+chinnapakṣatayā tasya gamanaṃ nopapadyate tathāham api saṃprāpto lūnapakṣa iva dvijaḥ
+
+**8.5.56**
+
+kṣīṇaḥ sarvārthahīnaś ca nirbandhur jñātivarjitaḥ kāṃ diśaṃ pratipatsyāmi dīnaḥ śatruvaśaṃ gataḥ
+
+**8.5.57**
+
+duryodhanasya vṛddhyarthaṃ pṛthivīṃ yo 'jayat prabhuḥ sa jitaḥ pāṇḍavaiḥ śūraiḥ samarthair vīryaśālibhiḥ
+
+**8.5.58**
+
+tasmin hate maheṣvāse karṇe yudhi kirīṭinā ke vīrāḥ paryavartanta tan mamācakṣva saṃjaya
+
+**8.5.59**
+
+kaccin naikaḥ parityaktaḥ pāṇḍavair nihato raṇe uktaṃ tvayā purā vīra yathā vīrā nipātitāḥ
+
+**8.5.60**
+
+bhīṣmam apratiyudhyantaṃ śikhaṇḍī sāyakottamaiḥ pātayām āsa samare sarvaśastrabhṛtāṃ varam
+
+**8.5.61**
+
+tathā draupadinā droṇo nyastasarvāyudho yudhi yuktayogo maheṣvāsaḥ śarair bahubhir ācitaḥ nihataḥ khaḍgam udyamya dhṛṣṭadyumnena saṃjaya
+
+**8.5.62**
+
+antareṇa hatāv etau chalena ca viśeṣataḥ aśrauṣam aham etad vai bhīṣmadroṇau nipātitau
+
+**8.5.63**
+
+bhīṣmadroṇau hi samare na hanyād vajrabhṛt svayam nyāyena yudhyamānau hi tad vai satyaṃ bravīmi te
+
+**8.5.64**
+
+karṇaṃ tv asyantam astrāṇi divyāni ca bahūni ca katham indropamaṃ vīraṃ mṛtyur yuddhe samaspṛśat
+
+**8.5.65**
+
+yasya vidyutprabhāṃ śaktiṃ divyāṃ kanakabhūṣaṇām prāyacchad dviṣatāṃ hantrīṃ kuṇḍalābhyāṃ puraṃdaraḥ
+
+**8.5.66**
+
+yasya sarpamukho divyaḥ śaraḥ kanakabhūṣaṇaḥ aśeta nihataḥ patrī candaneṣv arisūdanaḥ
+
+**8.5.67**
+
+bhīṣmadroṇamukhān vīrān yo 'vamanya mahārathān jāmadagnyān mahāghoraṃ brāhmam astram aśikṣata
+
+**8.5.68**
+
+yaś ca droṇamukhān dṛṣṭvā vimukhān arditāñ śaraiḥ saubhadrasya mahābāhur vyadhamat kārmukaṃ śaraiḥ
+
+**8.5.69**
+
+yaś ca nāgāyutaprāṇaṃ vātaraṃhasam acyutam virathaṃ bhrātaraṃ kṛtvā bhīmasenam upāhasat
+
+**8.5.70**
+
+sahadevaṃ ca nirjitya śaraiḥ saṃnataparvabhiḥ kṛpayā virathaṃ kṛtvā nāhanad dharmavittayā
+
+**8.5.71**
+
+yaś ca māyāsahasrāṇi dhvaṃsayitvā raṇotkaṭam ghaṭotkacaṃ rākṣasendraṃ śakraśaktyābhijaghnivān
+
+**8.5.72**
+
+etāni divasāny asya yuddhe bhīto dhanaṃjayaḥ nāgamad dvairathaṃ vīraḥ sa kathaṃ nihato raṇe
+
+**8.5.73**
+
+rathasaṅgo na cet tasya dhanur vā na vyaśīryata na ced astrāṇi nirṇeśuḥ sa kathaṃ nihataḥ paraiḥ
+
+**8.5.74**
+
+ko hi śakto raṇe karṇaṃ vidhunvānaṃ mahad dhanuḥ vimuñcantaṃ śarān ghorān divyāny astrāṇi cāhave jetuṃ puruṣaśārdūlaṃ śārdūlam iva vegitam
+
+**8.5.75**
+
+dhruvaṃ tasya dhanuś chinnaṃ ratho vāpi gato mahīm astrāṇi vā pranaṣṭāni yathā śaṃsasi me hatam na hy anyad anupaśyāmi kāraṇaṃ tasya nāśane
+
+**8.5.76**
+
+na hanyām arjunaṃ yāvat tāvat pādau na dhāvaye iti yasya mahāghoraṃ vratam āsīn mahātmanaḥ
+
+**8.5.77**
+
+yasya bhīto vane nityaṃ dharmarājo yudhiṣṭhiraḥ trayodaśa samā nidrāṃ na lebhe puruṣarṣabhaḥ
+
+**8.5.78**
+
+yasya vīryavato vīryaṃ samāśritya mahātmanaḥ mama putraḥ sabhāṃ bhāryāṃ pāṇḍūnāṃ nītavān balāt
+
+**8.5.79**
+
+tatra cāpi sabhāmadhye pāṇḍavānāṃ ca paśyatām dāsabhāryeti pāñcālīm abravīt kurusaṃsadi
+
+**8.5.80**
+
+yaś ca gāṇḍīvamuktānāṃ sparśam ugram acintayan apatir hy asi kṛṣṇeti bruvan pārthān avaikṣata
+
+**8.5.81**
+
+yasya nāsīd bhayaṃ pārthaiḥ saputraiḥ sajanārdanaiḥ svabāhubalam āśritya muhūrtam api saṃjaya
+
+**8.5.82**
+
+tasya nāhaṃ vadhaṃ manye devair api savāsavaiḥ pratīpam upadhāvadbhiḥ kiṃ punas tāta pāṇḍavaiḥ
+
+**8.5.83**
+
+na hi jyāṃ spṛśamānasya talatre cāpi gṛhṇataḥ pumān ādhiratheḥ kaś cit pramukhe sthātum arhati
+
+**8.5.84**
+
+api syān medinī hīnā somasūryaprabhāṃśubhiḥ na vadhaḥ puruṣendrasya samareṣv apalāyinaḥ
+
+**8.5.85**
+
+yadi mandaḥ sahāyena bhrātrā duḥśāsanena ca vāsudevasya durbuddhiḥ pratyākhyānam arocayat
+
+**8.5.86**
+
+sa nūnam ṛṣabhaskandhaṃ dṛṣṭvā karṇaṃ nipātitam duḥśāsanaṃ ca nihataṃ manye śocati putrakaḥ
+
+**8.5.87**
+
+hataṃ vaikartanaṃ śrutvā dvairathe savyasācinā jayataḥ pāṇḍavān dṛṣṭvā kiṃ svid duryodhano 'bravīt
+
+**8.5.88**
+
+durmarṣaṇaṃ hataṃ śrutvā vṛṣasenaṃ ca saṃyuge prabhagnaṃ ca balaṃ dṛṣṭvā vadhyamānaṃ mahārathaiḥ
+
+**8.5.89**
+
+parāṅmukhāṃs tathā rājñaḥ palāyanaparāyaṇān vidrutān rathino dṛṣṭvā manye śocati putrakaḥ
+
+**8.5.90**
+
+aneyaś cābhimānena bālabuddhir amarṣaṇaḥ hatotsāhaṃ balaṃ dṛṣṭvā kiṃ svid duryodhano 'bravīt
+
+**8.5.91**
+
+bhrātaraṃ nihataṃ dṛṣṭvā bhīmasenena saṃyuge rudhiraṃ pīyamānena kiṃ svid duryodhano 'bravīt
+
+**8.5.92**
+
+saha gāndhārarājena sabhāyāṃ yad abhāṣata karṇo 'rjunaṃ raṇe hantā hate tasmin kim abravīt
+
+**8.5.93**
+
+dyūtaṃ kṛtvā purā hṛṣṭo vañcayitvā ca pāṇḍavān śakuniḥ saubalas tāta hate karṇe kim abravīt
+
+**8.5.94**
+
+kṛtavarmā maheṣvāsaḥ sātvatānāṃ mahārathaḥ karṇaṃ vinihataṃ dṛṣṭvā hārdikyaḥ kim abhāṣata
+
+**8.5.95**
+
+brāhmaṇāḥ kṣatriyā vaiśyā yasya śikṣām upāsate dhanurvedaṃ cikīrṣanto droṇaputrasya dhīmataḥ
+
+**8.5.96**
+
+yuvā rūpeṇa saṃpanno darśanīyo mahāyaśāḥ aśvatthāmā hate karṇe kim abhāṣata saṃjaya
+
+**8.5.97**
+
+ācāryatvaṃ dhanurvede gataḥ paramatattvavit kṛpaḥ śāradvatas tāta hate karṇe kim abravīt
+
+**8.5.98**
+
+madrarājo maheṣvāsaḥ śalyaḥ samitiśobhanaḥ diṣṭaṃ tena hi tat sarvaṃ yathā karṇo nipātitaḥ
+
+**8.5.99**
+
+ye ca ke cana rājānaḥ pṛthivyāṃ yoddhum āgatāḥ vaikartanaṃ hataṃ dṛṣṭvā kim abhāṣanta saṃjaya
+
+**8.5.100**
+
+karṇe tu nihate vīre rathavyāghre nararṣabhe kiṃ vo mukham anīkānām āsīt saṃjaya bhāgaśaḥ
+
+**8.5.101**
+
+madrarājaḥ kathaṃ śalyo niyukto rathināṃ varaḥ vaikartanasya sārathye tan mamācakṣva saṃjaya
+
+**8.5.102**
+
+ke 'rakṣan dakṣiṇaṃ cakraṃ sūtaputrasya saṃyuge vāmaṃ cakraṃ rarakṣur vā ke vā vīrasya pṛṣṭhataḥ
+
+**8.5.103**
+
+ke karṇaṃ vājahuḥ śūrāḥ ke kṣudrāḥ prādravan bhayāt kathaṃ ca vaḥ sametānāṃ hataḥ karṇo mahārathaḥ
+
+**8.5.104**
+
+pāṇḍavāś ca kathaṃ śūrāḥ pratyudīyur mahāratham sṛjantaṃ śaravarṣāṇi vāridhārā ivāmbudam
+
+**8.5.105**
+
+sa ca sarpamukho divyo maheṣupravaras tadā vyarthaḥ kathaṃ samabhavat tan mamācakṣva saṃjaya
+
+**8.5.106**
+
+māmakasyāsya sainyasya hṛtotsedhasya saṃjaya avaśeṣaṃ na paśyāmi kakude mṛdite sati
+
+**8.5.107**
+
+tau hi vīrau maheṣvāsau madarthe kurusattamau bhīṣmadroṇau hatau śrutvā ko nv artho jīvitena me
+
+**8.5.108**
+
+na mṛṣyāmi ca rādheyaṃ hatam āhavaśobhinam yasya bāhvor balaṃ tulyaṃ kuñjarāṇāṃ śataṃ śatam
+
+**8.5.109**
+
+droṇe hate ca yad vṛttaṃ kauravāṇāṃ paraiḥ saha saṃgrāme naravīrāṇāṃ tan mamācakṣva saṃjaya
+
+**8.5.110**
+
+yathā ca karṇaḥ kaunteyaiḥ saha yuddham ayojayat yathā ca dviṣatāṃ hantā raṇe śāntas tad ucyatām
+
+**8.6.1**
+
+saṃjaya uvāca hate droṇe maheṣvāse tasminn ahani bhārata kṛte ca moghasaṃkalpe droṇaputre mahārathe
+
+**8.6.2**
+
+dravamāṇe mahārāja kauravāṇāṃ bale tathā vyūhya pārthaḥ svakaṃ sainyam atiṣṭhad bhrātṛbhiḥ saha
+
+**8.6.3**
+
+tam avasthitam ājñāya putras te bharatarṣabha dravac ca svabalaṃ dṛṣṭvā pauruṣeṇa nyavārayat
+
+**8.6.4**
+
+svam anīkam avasthāpya bāhuvīrye vyavasthitaḥ yuddhvā ca suciraṃ kālaṃ pāṇḍavaiḥ saha bhārata
+
+**8.6.5**
+
+labdhalakṣaiḥ parair hṛṣṭair vyāyacchadbhiś ciraṃ tadā saṃdhyākālaṃ samāsādya pratyāhāram akārayat
+
+**8.6.6**
+
+kṛtvāvahāraṃ sainyānāṃ praviśya śibiraṃ svakam kuravo ''tmahitaṃ mantraṃ mantrayāṃ cakrire tadā
+
+**8.6.7**
+
+paryaṅkeṣu parārdhyeṣu spardhyāstaraṇavatsu ca varāsaneṣūpaviṣṭāḥ sukhaśayyāsv ivāmarāḥ
+
+**8.6.8**
+
+tato duryodhano rājā sāmnā paramavalgunā tān ābhāṣya maheṣvāsān prāptakālam abhāṣata
+
+**8.6.9**
+
+matiṃ matimatāṃ śreṣṭhāḥ sarve prabrūta māciram evaṃ gate tu yat kāryaṃ bhavet kāryakaraṃ nṛpāḥ
+
+**8.6.10**
+
+evam ukte narendreṇa narasiṃhā yuyutsavaḥ cakrur nānāvidhāś ceṣṭāḥ siṃhāsanagatās tadā
+
+**8.6.11**
+
+teṣāṃ niśamyeṅgitāni yuddhe prāṇāñ juhūṣatām samudvīkṣya mukhaṃ rājño bālārkasamavarcasaḥ ācāryaputro medhāvī vākyajño vākyam ādade
+
+**8.6.12**
+
+rāgo yogas tathā dākṣyaṃ nayaś cety arthasādhakāḥ upāyāḥ paṇḍitaiḥ proktāḥ sarve daivasamāśritāḥ
+
+**8.6.13**
+
+lokapravīrā ye 'smākaṃ devakalpā mahārathāḥ nītimantas tathā yuktā dakṣā raktāś ca te hatāḥ
+
+**8.6.14**
+
+na tv eva kāryaṃ nairāśyam asmābhir vijayaṃ prati sunītair iha sarvārthair daivam apy anulomyate
+
+**8.6.15**
+
+te vayaṃ pravaraṃ nṝṇāṃ sarvair guṇagaṇair yutam karṇaṃ senāpatiṃ kṛtvā pramathiṣyāmahe ripūn
+
+**8.6.16**
+
+tato duryodhanaḥ prītaḥ priyaṃ śrutvā vacas tadā prītisaṃskārasaṃyuktaṃ tathyam ātmahitaṃ śubham
+
+**8.6.17**
+
+svaṃ manaḥ samavasthāpya bāhuvīryam upāśritaḥ duryodhano mahārāja rādheyam idam abravīt
+
+**8.6.18**
+
+karṇa jānāmi te vīryaṃ sauhṛdaṃ ca paraṃ mayi tathāpi tvāṃ mahābāho pravakṣyāmi hitaṃ vacaḥ
+
+**8.6.19**
+
+śrutvā yatheṣṭaṃ ca kuru vīra yat tava rocate bhavān prājñatamo nityaṃ mama caiva parā gatiḥ
+
+**8.6.20**
+
+bhīṣmadroṇāv atirathau hatau senāpatī mama senāpatir bhavān astu tābhyāṃ draviṇavattaraḥ
+
+**8.6.21**
+
+vṛddhau ca tau maheṣvāsau sāpekṣau ca dhanaṃjaye mānitau ca mayā vīrau rādheya vacanāt tava
+
+**8.6.22**
+
+pitāmahatvaṃ saṃprekṣya pāṇḍuputrā mahāraṇe rakṣitās tāta bhīṣmeṇa divasāni daśaiva ha
+
+**8.6.23**
+
+nyastaśastre ca bhavati hato bhīṣmaḥ pitāmahaḥ śikhaṇḍinaṃ puraskṛtya phalgunena mahāhave
+
+**8.6.24**
+
+hate tasmin mahābhāge śaratalpagate tadā tvayokte puruṣavyāghra droṇo hy āsīt puraḥsaraḥ
+
+**8.6.25**
+
+tenāpi rakṣitāḥ pārthāḥ śiṣyatvād iha saṃyuge sa cāpi nihato vṛddho dhṛṣṭadyumnena satvaram
+
+**8.6.26**
+
+nihatābhyāṃ pradhānābhyāṃ tābhyām amitavikrama tvatsamaṃ samare yodhaṃ nānyaṃ paśyāmi cintayan
+
+**8.6.27**
+
+bhavān eva tu naḥ śakto vijayāya na saṃśayaḥ pūrvaṃ madhye ca paścāc ca tavaiva viditaṃ hi tat
+
+**8.6.28**
+
+sa bhavān dhuryavat saṃkhye dhuram udvoḍhum arhasi abhiṣecaya senānye svayam ātmānam ātmanā
+
+**8.6.29**
+
+devatānāṃ yathā skandaḥ senānīḥ prabhur avyayaḥ tathā bhavān imāṃ senāṃ dhārtarāṣṭrīṃ bibhartu me jahi śatrugaṇān sarvān mahendra iva dānavān
+
+**8.6.30**
+
+avasthitaṃ raṇe jñātvā pāṇḍavās tvāṃ mahāratham draviṣyanti sapāñcālā viṣṇuṃ dṛṣṭveva dānavāḥ tasmāt tvaṃ puruṣavyāghra prakarṣethā mahācamūm
+
+**8.6.31**
+
+bhavaty avasthite yat te pāṇḍavā gatacetasaḥ bhaviṣyanti sahāmātyāḥ pāñcālaiḥ sṛñjayaiḥ saha
+
+**8.6.32**
+
+yathā hy abhyuditaḥ sūryaḥ pratapan svena tejasā vyapohati tamas tīvraṃ tathā śatrūn vyapoha naḥ
+
+**8.6.33**
+
+karṇa uvāca uktam etan mayā pūrvaṃ gāndhāre tava saṃnidhau jeṣyāmi pāṇḍavān rājan saputrān sajanārdanān
+
+**8.6.34**
+
+senāpatir bhaviṣyāmi tavāhaṃ nātra saṃśayaḥ sthiro bhava mahārāja jitān viddhi ca pāṇḍavān
+
+**8.6.35**
+
+saṃjaya uvāca evam ukto mahātejās tato duryodhano nṛpaḥ uttasthau rājabhiḥ sārdhaṃ devair iva śatakratuḥ senāpatyena satkartuṃ karṇaṃ skandam ivāmarāḥ
+
+**8.6.36**
+
+tato 'bhiṣiṣicus tūrṇaṃ vidhidṛṣṭena karmaṇā duryodhanamukhā rājan rājāno vijayaiṣiṇaḥ śātakaumbhamayaiḥ kumbhair māheyaiś cābhimantritaiḥ
+
+**8.6.37**
+
+toyapūrṇair viṣāṇaiś ca dvīpikhaḍgamaharṣabhaiḥ maṇimuktāmayaiś cānyaiḥ puṇyagandhais tathauṣadhaiḥ
+
+**8.6.38**
+
+audumbare samāsīnam āsane kṣaumasaṃvṛtam śāstradṛṣṭena vidhinā saṃbhāraiś ca susaṃbhṛtaiḥ
+
+**8.6.39**
+
+jaya pārthān sagovindān sānugāṃs tvaṃ mahāhave iti taṃ bandinaḥ prāhur dvijāś ca bharatarṣabha
+
+**8.6.40**
+
+jahi pārthān sapāñcālān rādheya vijayāya naḥ udyann iva sadā bhānus tamāṃsy ugrair gabhastibhiḥ
+
+**8.6.41**
+
+na hy alaṃ tvad visṛṣṭānāṃ śarāṇāṃ te sakeśavāḥ kṛtaghnāḥ sūryaraśmīnāṃ jvalatām iva darśane
+
+**8.6.42**
+
+na hi pārthāḥ sapāñcālāḥ sthātuṃ śaktās tavāgrataḥ āttaśastrasya samare mahendrasyeva dānavāḥ
+
+**8.6.43**
+
+abhiṣiktas tu rādheyaḥ prabhayā so 'mitaprabhaḥ vyatyaricyata rūpeṇa divākara ivāparaḥ
+
+**8.6.44**
+
+senāpatyena rādheyam abhiṣicya sutas tava amanyata tadātmānaṃ kṛtārthaṃ kālacoditaḥ
+
+**8.6.45**
+
+karṇo 'pi rājan saṃprāpya senāpatyam ariṃdamaḥ yogam ājñāpayām āsa sūryasyodayanaṃ prati
+
+**8.6.46**
+
+tava putrair vṛtaḥ karṇaḥ śuśubhe tatra bhārata devair iva yathā skandaḥ saṃgrāme tārakāmaye
+
+**8.7.1**
+
+dhṛtarāṣṭra uvāca senāpatyaṃ tu saṃprāpya karṇo vaikartanas tadā tathoktaś ca svayaṃ rājñā snigdhaṃ bhrātṛsamaṃ vacaḥ
+
+**8.7.2**
+
+yogam ājñāpya senāyā āditye 'bhyudite tadā akarot kiṃ mahāprājñas tan mamācakṣva saṃjaya
+
+**8.7.3**
+
+saṃjaya uvāca karṇasya matam ājñāya putras te bharatarṣabha yogam ājñāpayām āsa nāndītūryapuraḥsaram
+
+**8.7.4**
+
+mahaty apararātre tu tava putrasya māriṣa yogo yogeti sahasā prādurāsīn mahāsvanaḥ
+
+**8.7.5**
+
+nāgānāṃ kalpamānānāṃ rathānāṃ ca varūthinām saṃnahyatāṃ padātīnāṃ vājināṃ ca viśāṃ pate
+
+**8.7.6**
+
+krośatāṃ cāpi yodhānāṃ tvaritānāṃ parasparam babhūva tumulaḥ śabdo divaspṛk sumahāṃs tadā
+
+**8.7.7**
+
+tataḥ śvetapatākena bālārkākāravājinā hemapṛṣṭhena dhanuṣā hastikakṣyeṇa ketunā
+
+**8.7.8**
+
+tūṇena śarapūrṇena sāṅgadena varūthinā śataghnīkiṅkiṇīśaktiśūlatomaradhāriṇā
+
+**8.7.9**
+
+kārmukeṇopapannena vimalādityavarcasā rathenātipatākena sūtaputro vyadṛśyata
+
+**8.7.10**
+
+dhamantaṃ vārijaṃ tāta hemajālavibhūṣitam vidhunvānaṃ mahac cāpaṃ kārtasvaravibhūṣitam
+
+**8.7.11**
+
+dṛṣṭvā karṇaṃ maheṣvāsaṃ rathasthaṃ rathināṃ varam bhānumantam ivodyantaṃ tamo ghnantaṃ sahasraśaḥ
+
+**8.7.12**
+
+na bhīṣmavyasanaṃ ke cin nāpi droṇasya māriṣa nānyeṣāṃ puruṣavyāghra menire tatra kauravāḥ
+
+**8.7.13**
+
+tatas tu tvarayan yodhāñ śaṅkhaśabdena māriṣa karṇo niṣkāsayām āsa kauravāṇāṃ varūthinīm
+
+**8.7.14**
+
+vyūhaṃ vyūhya maheṣvāso mākaraṃ śatrutāpanaḥ pratyudyayau tadā karṇaḥ pāṇḍavān vijigīṣayā
+
+**8.7.15**
+
+makarasya tu tuṇḍe vai karṇo rājan vyavasthitaḥ netrābhyāṃ śakuniḥ śūra ulūkaś ca mahārathaḥ
+
+**8.7.16**
+
+droṇaputras tu śirasi grīvāyāṃ sarvasodarāḥ madhye duryodhano rājā balena mahatā vṛtaḥ
+
+**8.7.17**
+
+vāme pāde tu rājendra kṛtavarmā vyavasthitaḥ nārāyaṇabalair yukto gopālair yuddhadurmadaḥ
+
+**8.7.18**
+
+pāde tu dakṣiṇe rājan gautamaḥ satyavikramaḥ trigartaiś ca maheṣvāsair dākṣiṇātyaiś ca saṃvṛtaḥ
+
+**8.7.19**
+
+anupādas tu yo vāmas tatra śalyo vyavasthitaḥ mahatyā senayā sārdhaṃ madradeśasamutthayā
+
+**8.7.20**
+
+dakṣiṇe tu mahārāja suṣeṇaḥ satyasaṃgaraḥ vṛto rathasahasraiś ca dantināṃ ca śatais tathā
+
+**8.7.21**
+
+pucche āstāṃ mahāvīrau bhrātarau pārthivau tadā citrasenaś ca citraś ca mahatyā senayā vṛtau
+
+**8.7.22**
+
+tataḥ prayāte rājendra karṇe naravarottame dhanaṃjayam abhiprekṣya dharmarājo 'bravīd idam
+
+**8.7.23**
+
+paśya pārtha mahāsenāṃ dhārtarāṣṭrasya saṃyuge karṇena nirmitāṃ vīra guptāṃ vīrair mahārathaiḥ
+
+**8.7.24**
+
+hatavīratamā hy eṣā dhārtarāṣṭrī mahācamūḥ phalguśeṣā mahābāho tṛṇais tulyā matā mama
+
+**8.7.25**
+
+eko hy atra maheṣvāsaḥ sūtaputro vyavasthitaḥ sadevāsuragandharvaiḥ sakiṃnaramahoragaiḥ carācarais tribhir lokair yo 'jayyo rathināṃ varaḥ
+
+**8.7.26**
+
+taṃ hatvādya mahābāho vijayas tava phalguna uddhṛtaś ca bhavec chalyo mama dvādaśavārṣikaḥ evaṃ jñātvā mahābāho vyūhaṃ vyūha yathecchasi
+
+**8.7.27**
+
+bhrātus tad vacanaṃ śrutvā pāṇḍavaḥ śvetavāhanaḥ ardhacandreṇa vyūhena pratyavyūhata tāṃ camūm
+
+**8.7.28**
+
+vāmapārśve 'bhavad rājan bhīmaseno vyavasthitaḥ dakṣiṇe ca maheṣvāso dhṛṣṭadyumno mahābalaḥ
+
+**8.7.29**
+
+madhye vyūhasya sākṣāt tu pāṇḍavaḥ kṛṣṇasārathiḥ nakulaḥ sahadevaś ca dharmarājaś ca pṛṣṭhataḥ
+
+**8.7.30**
+
+cakrarakṣau tu pāñcālyau yudhāmanyūttamaujasau nārjunaṃ jahatur yuddhe pālyamānau kirīṭinā
+
+**8.7.31**
+
+śeṣā nṛpatayo vīrāḥ sthitā vyūhasya daṃśitāḥ yathābhāvaṃ yathotsāhaṃ yathāsattvaṃ ca bhārata
+
+**8.7.32**
+
+evam etan mahāvyūhaṃ vyūhya bhārata pāṇḍavāḥ tāvakāś ca maheṣvāsā yuddhāyaiva mano dadhuḥ
+
+**8.7.33**
+
+dṛṣṭvā vyūḍhāṃ tava camūṃ sūtaputreṇa saṃyuge nihatān pāṇḍavān mene tava putraḥ sahānvayaḥ
+
+**8.7.34**
+
+tathaiva pāṇḍavīṃ senāṃ vyūḍhāṃ dṛṣṭvā yudhiṣṭhiraḥ dhārtarāṣṭrān hatān mene sakarṇān vai janādhipa
+
+**8.7.35**
+
+tataḥ śaṅkhāś ca bheryaś ca paṇavānakagomukhāḥ sahasaivābhyahanyanta saśabdāś ca samantataḥ
+
+**8.7.36**
+
+senayor ubhayo rājan prāvādyanta mahāsvanāḥ siṃhanādaś ca saṃjajñe śūrāṇāṃ jayagṛddhinām
+
+**8.7.37**
+
+hayaheṣitaśabdāś ca vāraṇānāṃ ca bṛṃhitam rathanemisvanāś cogrāḥ saṃbabhūvur janādhipa
+
+**8.7.38**
+
+na droṇavyasanaṃ kaś cij jānīte bharatarṣabha dṛṣṭvā karṇaṃ maheṣvāsaṃ mukhe vyūhasya daṃśitam
+
+**8.7.39**
+
+ubhe sene mahāsattve prahṛṣṭanarakuñjare yoddhukāme sthite rājan hantum anyonyam añjasā
+
+**8.7.40**
+
+tatra yattau susaṃrabdhau dṛṣṭvānyonyaṃ vyavasthitau anīkamadhye rājendra rejatuḥ karṇapāṇḍavau
+
+**8.7.41**
+
+nṛtyamāne tu te sene sameyātāṃ parasparam tayoḥ pakṣaiḥ prapakṣaiś ca nirjagmur vai yuyutsavaḥ
+
+**8.7.42**
+
+tataḥ pravavṛte yuddhaṃ naravāraṇavājinām rathināṃ ca mahārāja anyonyaṃ nighnatāṃ dṛḍham
+
+**8.8.1**
+
+saṃjaya uvāca te sene 'nyonyam āsādya prahṛṣṭāśvanaradvipe bṛhatyau saṃprajahrāte devāsuracamūpame
+
+**8.8.2**
+
+tato gajā rathāś cāśvāḥ pattayaś ca mahāhave saṃprahāraṃ paraṃ cakrur dehapāpmapraṇāśanam
+
+**8.8.3**
+
+pūrṇacandrārkapadmānāṃ kāntitviḍgandhataḥ samaiḥ uttamāṅgair nṛsiṃhānāṃ nṛsiṃhās tastarur mahīm
+
+**8.8.4**
+
+ardhacandrais tathā bhallaiḥ kṣuraprair asipaṭṭiśaiḥ paraśvadhaiś cāpy akṛntann uttamāṅgāni yudhyatām
+
+**8.8.5**
+
+vyāyatāyatabāhūnāṃ vyāyatāyatabāhubhiḥ vyāyatā bāhavaḥ petuś chinnamuṣṭyāyudhāṅgadāḥ
+
+**8.8.6**
+
+taiḥ sphuradbhir mahī bhāti raktāṅgulitalais tadā garuḍaprahatair ugraiḥ pañcāsyair iva pannagaiḥ
+
+**8.8.7**
+
+hayasyandananāgebhyaḥ petur vīrā dviṣaddhatāḥ vimānebhyo yathā kṣīṇe puṇye svargasadas tathā
+
+**8.8.8**
+
+gadābhir anyair gurvībhiḥ parighair musalair api pothitāḥ śataśaḥ petur vīrā vīratarai raṇe
+
+**8.8.9**
+
+rathā rathair vinihatā mattā mattair dvipair dvipāḥ sādinaḥ sādibhiś caiva tasmin paramasaṃkule
+
+**8.8.10**
+
+rathā vararathair nāgair aśvārohāś ca pattibhiḥ aśvārohaiḥ padātāś ca nihatā yudhi śerate
+
+**8.8.11**
+
+rathāśvapattayo nāgai rathair nāgāś ca pattayaḥ rathapattidvipāś cāśvair nṛbhiś cāśvarathadvipāḥ
+
+**8.8.12**
+
+rathāśvebhanarāṇāṃ ca narāśvebharathaiḥ kṛtam pāṇipādaiś ca śastraiś ca rathaiś ca kadanaṃ mahat
+
+**8.8.13**
+
+tathā tasmin bale śūrair vadhyamāne hate 'pi ca asmān abhyāgaman pārthā vṛkodarapurogamāḥ
+
+**8.8.14**
+
+dhṛṣṭadyumnaḥ śikhaṇḍī ca draupadeyāḥ prabhadrakāḥ sātyakiś cekitānaś ca draviḍaiḥ sainikaiḥ saha
+
+**8.8.15**
+
+bhṛtā vittena mahatā pāṇḍyāś cauḍrāḥ sakeralāḥ vyūḍhoraskā dīrghabhujāḥ prāṃśavaḥ priyadarśanāḥ
+
+**8.8.16**
+
+āpīḍino raktadantā mattamātaṅgavikramāḥ nānāvirāgavasanā gandhacūrṇāvacūrṇitāḥ
+
+**8.8.17**
+
+baddhāsayaḥ pāśahastā vāraṇaprativāraṇāḥ samānamṛtyavo rājann anīkasthāḥ parasparam
+
+**8.8.18**
+
+kalāpinaś cāpahastā dīrghakeśāḥ priyāhavāḥ pattayaḥ sātyaker andhrā ghorarūpaparākramāḥ
+
+**8.8.19**
+
+athāpare punaḥ śūrāś cedipāñcālakekayāḥ karūṣāḥ kosalāḥ kāśyā māgadhāś cāpi dudruvuḥ
+
+**8.8.20**
+
+teṣāṃ rathāś ca nāgāś ca pravarāś cāpi pattayaḥ nānāvidharavair hṛṣṭā nṛtyanti ca hasanti ca
+
+**8.8.21**
+
+tasya sainyasya mahato mahāmātravarair vṛtaḥ madhyaṃ vṛkodaro 'bhyāgāt tvadīyaṃ nāgadhūrgataḥ
+
+**8.8.22**
+
+sa nāgapravaro 'tyugro vidhivat kalpito babhau udayādryagryabhavanaṃ yathābhyuditabhāskaram
+
+**8.8.23**
+
+tasyāyasaṃ varmavaraṃ vararatnavibhūṣitam tārodbhāsasya nabhasaḥ śāradasya samatviṣam
+
+**8.8.24**
+
+sa tomaraprāsakaraś cārumauliḥ svalaṃkṛtaḥ caran madhyaṃdinārkābhas tejasā vyadahad ripūn
+
+**8.8.25**
+
+taṃ dṛṣṭvā dviradaṃ dūrāt kṣemadhūrtir dvipasthitaḥ āhvayāno 'bhidudrāva pramanāḥ pramanastaram
+
+**8.8.26**
+
+tayoḥ samabhavad yuddhaṃ dvipayor ugrarūpayoḥ yadṛcchayā drumavator mahāparvatayor iva
+
+**8.8.27**
+
+saṃsaktanāgau tau vīrau tomarair itaretaram balavat sūryaraśmyābhair bhittvā bhittvā vinedatuḥ
+
+**8.8.28**
+
+vyapasṛtya tu nāgābhyāṃ maṇḍalāni viceratuḥ pragṛhya caiva dhanuṣī jaghnatur vai parasparam
+
+**8.8.29**
+
+kṣveḍitāsphoṭitaravair bāṇaśabdaiś ca sarvaśaḥ tau janān harṣayitvā ca siṃhanādān pracakratuḥ
+
+**8.8.30**
+
+samudyatakarābhyāṃ tau dvipābhyāṃ kṛtināv ubhau vātoddhūtapatākābhyāṃ yuyudhāte mahābalau
+
+**8.8.31**
+
+tāv anyonyasya dhanuṣī chittvānyonyaṃ vinedatuḥ śaktitomaravarṣeṇa prāvṛṇmeghāv ivāmbubhiḥ
+
+**8.8.32**
+
+kṣemadhūrtis tadā bhīmaṃ tomareṇa stanāntare nirbibheda tu vegena ṣaḍbhiś cāpy aparair nadan
+
+**8.8.33**
+
+sa bhīmasenaḥ śuśubhe tomarair aṅgamāśritaiḥ krodhadīptavapur meghaiḥ saptasaptir ivāṃśumān
+
+**8.8.34**
+
+tato bhāskaravarṇābham añjogatimayasmayam sasarja tomaraṃ bhīmaḥ pratyamitrāya yatnavān
+
+**8.8.35**
+
+tataḥ kulūtādhipatiś cāpam āyamya sāyakaiḥ daśabhis tomaraṃ chittvā śaktyā vivyādha pāṇḍavam
+
+**8.8.36**
+
+atha kārmukam ādāya mahājaladanisvanam ripor abhyardayan nāgam unmadaḥ pāṇḍavaḥ śaraiḥ
+
+**8.8.37**
+
+sa śaraughārdito nāgo bhīmasenena saṃyuge nigṛhyamāṇo nātiṣṭhad vātadhvasta ivāmbudaḥ
+
+**8.8.38**
+
+tām abhyadhāvad dviradaṃ bhīmasenasya nāgarāṭ mahāvāteritaṃ meghaṃ vātoddhūta ivāmbudaḥ
+
+**8.8.39**
+
+saṃnivartyātmano nāgaṃ kṣemadhūrtiḥ prayatnataḥ vivyādhābhidrutaṃ bāṇair bhīmasenaṃ sakuñjaram
+
+**8.8.40**
+
+tataḥ sādhuvisṛṣṭena kṣureṇa puruṣarṣabhaḥ chittvā śarāsanaṃ śatror nāgam āmitram ārdayat
+
+**8.8.41**
+
+tataḥ khajākayā bhīmaṃ kṣemadhūrtiḥ parābhinat jaghāna cāsya dviradaṃ nārācaiḥ sarvamarmasu
+
+**8.8.42**
+
+purā nāgasya patanād avaplutya sthito mahīm bhīmaseno ripor nāgaṃ gadayā samapothayat
+
+**8.8.43**
+
+tasmāt pramathitān nāgāt kṣemadhūrtim avadrutam udyatāsim upāyāntaṃ gadayāhan vṛkodaraḥ
+
+**8.8.44**
+
+sa papāta hataḥ sāsir vyasuḥ svam abhito dvipam vajraprarugṇam acalaṃ siṃho vajrahato yathā
+
+**8.8.45**
+
+nihataṃ nṛpatiṃ dṛṣṭvā kulūtānāṃ yaśaskaram prādravad vyathitā senā tvadīyā bharatarṣabha
+
+**8.9.1**
+
+saṃjaya uvāca tataḥ karṇo maheṣvāsaḥ pāṇḍavānām anīkinīm jaghāna samare śūraḥ śaraiḥ saṃnataparvabhiḥ
+
+**8.9.2**
+
+tathaiva pāṇḍavā rājaṃs tava putrasya vāhinīm karṇasya pramukhe kruddhā vinijaghnur mahārathāḥ
+
+**8.9.3**
+
+karṇo rājan mahābāhur nyavadhīt pāṇḍavīṃ camūm nārācair arkaraśmyābhaiḥ karmāraparimārjitaiḥ
+
+**8.9.4**
+
+tatra bhārata karṇena nārācais tāḍitā gajāḥ neduḥ seduś ca mamluś ca babhramuś ca diśo daśa
+
+**8.9.5**
+
+vadhyamāne bale tasmin sūtaputreṇa māriṣa nakulo 'bhyadravat tūrṇaṃ sūtaputraṃ mahāraṇe
+
+**8.9.6**
+
+bhīmasenas tathā drauṇiṃ kurvāṇaṃ karma duṣkaram vindānuvindau kaikeyau sātyakiḥ samavārayat
+
+**8.9.7**
+
+śrutakarmāṇam āyāntaṃ citraseno mahīpatiḥ prativindhyaṃ tathā citraś citraketanakārmukaḥ
+
+**8.9.8**
+
+duryodhanas tu rājānaṃ dharmaputraṃ yudhiṣṭhiram saṃśaptakagaṇān kruddho abhyadhāvad dhanaṃjayaḥ
+
+**8.9.9**
+
+dhṛṣṭadyumnaḥ kṛpaṃ cātha tasmin vīravarakṣaye śikhaṇḍī kṛtavarmāṇaṃ samāsādayad acyutam
+
+**8.9.10**
+
+śrutakīrtis tathā śalyaṃ mādrīputraḥ sutaṃ tava duḥśāsanaṃ mahārāja sahadevaḥ pratāpavān
+
+**8.9.11**
+
+kekayau sātyakiṃ yuddhe śaravarṣeṇa bhāsvatā sātyakiḥ kekayau caiva chādayām āsa bhārata
+
+**8.9.12**
+
+tāv enaṃ bhrātarau vīraṃ jaghnatur hṛdaye bhṛśam viṣāṇābhyāṃ yathā nāgau pratināgaṃ mahāhave
+
+**8.9.13**
+
+śarasaṃbhinnavarmāṇau tāv ubhau bhrātarau raṇe sātyakiṃ satyakarmāṇaṃ rājan vivyadhatuḥ śaraiḥ
+
+**8.9.14**
+
+tau sātyakir mahārāja prahasan sarvatodiśam chādayañ śaravarṣeṇa vārayām āsa bhārata
+
+**8.9.15**
+
+vāryamāṇau tatas tau tu śaineyaśaravṛṣṭibhiḥ śaineyasya rathaṃ tūrṇaṃ chādayām āsatuḥ śaraiḥ
+
+**8.9.16**
+
+tayos tu dhanuṣī citre chittvā śaurir mahāhave atha tau sāyakais tīkṣṇaiś chādayām āsa duḥsahaiḥ
+
+**8.9.17**
+
+athānye dhanuṣī mṛṣṭe pragṛhya ca mahāśarān sātyakiṃ pūrayantau tau ceratur laghu suṣṭhu ca
+
+**8.9.18**
+
+tābhyāṃ muktā mahābāṇāḥ kaṅkabarhiṇavāsasaḥ dyotayanto diśaḥ sarvāḥ saṃpetuḥ svarṇabhūṣaṇāḥ
+
+**8.9.19**
+
+bāṇāndhakāram abhavat tayo rājan mahāhave anyonyasya dhanuś caiva cicchidus te mahārathāḥ
+
+**8.9.20**
+
+tataḥ kruddho mahārāja sātvato yuddhadurmadaḥ dhanur anyat samādāya sajyaṃ kṛtvā ca saṃyuge kṣurapreṇa sutīkṣṇena anuvindaśiro 'harat
+
+**8.9.21**
+
+tacchiro nyapatad bhūmau kuṇḍalotpīḍitaṃ mahat śambarasya śiro yadvan nihatasya mahāraṇe śoṣayan kekayān sarvāñ jagāmāśu vasuṃdharām
+
+**8.9.22**
+
+taṃ dṛṣṭvā nihataṃ śūraṃ bhrātā tasya mahārathaḥ sajyam anyad dhanuḥ kṛtvā śaineyaṃ pratyavārayat
+
+**8.9.23**
+
+sa śaktyā sātyakiṃ viddhvā svarṇapuṅkhaiḥ śilāśitaiḥ nanāda balavan nādaṃ tiṣṭha tiṣṭheti cābravīt
+
+**8.9.24**
+
+sa sātyakiṃ punaḥ kruddhaḥ kekayānāṃ mahārathaḥ śarair agniśikhākārair bāhvor urasi cārdayat
+
+**8.9.25**
+
+sa śaraiḥ kṣatasarvāṅgaḥ sātvataḥ sattvakovidaḥ rarāja samare rājan sapatra iva kiṃśukaḥ
+
+**8.9.26**
+
+sātyakiḥ samare viddhaḥ kekayena mahātmanā kekayaṃ pañcaviṃśatyā vivyādha prahasann iva
+
+**8.9.27**
+
+śatacandracite gṛhya carmaṇī subhujau tu tau vyarocetāṃ mahāraṅge nistriṃśavaradhāriṇau yathā devāsure yuddhe jambhaśakrau mahābalau
+
+**8.9.28**
+
+maṇḍalāni tatas tau ca vicarantau mahāraṇe anyonyam asibhis tūrṇaṃ samājaghnatur āhave
+
+**8.9.29**
+
+kekayasya tataś carma dvidhā ciccheda sātvataḥ sātyakeś ca tathaivāsau carma ciccheda pārthivaḥ
+
+**8.9.30**
+
+carma cchittvā tu kaikeyas tārāgaṇaśatair vṛtam cacāra maṇḍalāny eva gatapratyāgatāni ca
+
+**8.9.31**
+
+taṃ carantaṃ mahāraṅge nistriṃśavaradhāriṇam apahastena ciccheda śaineyas tvarayānvitaḥ
+
+**8.9.32**
+
+savarmā kekayo rājan dvidhā chinno mahāhave nipapāta maheṣvāso vajranunna ivācalaḥ
+
+**8.9.33**
+
+taṃ nihatya raṇe śūraḥ śaineyo rathasattamaḥ yudhāmanyo rathaṃ tūrṇam āruroha paraṃtapaḥ
+
+**8.9.34**
+
+tato 'nyaṃ ratham āsthāya vidhivat kalpitaṃ punaḥ kekayānāṃ mahat sainyaṃ vyadhamat sātyakiḥ śaraiḥ
+
+**8.9.35**
+
+sā vadhyamānā samare kekayasya mahācamūḥ tam utsṛjya rathaṃ śatruṃ pradudrāva diśo daśa
+
+**8.10.1**
+
+saṃjaya uvāca śrutakarmā mahārāja citrasenaṃ mahīpatim ājaghne samare kruddhaḥ pañcāśadbhiḥ śilīmukhaiḥ
+
+**8.10.2**
+
+abhisāras tu taṃ rājā navabhir niśitaiḥ śaraiḥ śrutakarmāṇam āhatya sūtaṃ vivyādha pañcabhiḥ
+
+**8.10.3**
+
+śrutakarmā tataḥ kruddhaś citrasenaṃ camūmukhe nārācena sutīkṣṇena marmadeśe samardayat
+
+**8.10.4**
+
+etasminn antare cainaṃ śrutakīrtir mahāyaśāḥ navatyā jagatīpālaṃ chādayām āsa patribhiḥ
+
+**8.10.5**
+
+pratilabya tataḥ saṃjñāṃ citraseno mahārathaḥ dhanuś ciccheda bhallena taṃ ca vivyādha saptabhiḥ
+
+**8.10.6**
+
+so 'nyat kārmukam ādāya vegaghnaṃ rukmabhūṣaṇam citrarūpataraṃ cakre citrasenaṃ śarormibhiḥ
+
+**8.10.7**
+
+sa śaraiś citrito rājaṃś citramālyadharo yuvā yuveva samaśobhat sa goṣṭhīmadhye svalaṃkṛtaḥ
+
+**8.10.8**
+
+śrutakarmāṇam atha vai nārācena stanāntare bibheda samare kruddhas tiṣṭha tiṣṭheti cābravīt
+
+**8.10.9**
+
+śrutakarmāpi samare nārācena samarditaḥ susrāva rudhiraṃ bhūri gairikāmbha ivācalaḥ
+
+**8.10.10**
+
+tataḥ sa rudhirāktāṅgo rudhireṇa kṛtacchaviḥ rarāja samare rājan sapuṣpa iva kiṃśukaḥ
+
+**8.10.11**
+
+śrutakarmā tato rājañ śatrūṇāṃ samabhidrutaḥ śatrusaṃvaraṇaṃ kṛtvā dvidhā ciccheda kārmukam
+
+**8.10.12**
+
+athainaṃ chinnadhanvānaṃ nārācānāṃ tribhiḥ śataiḥ vivyādha bharataśreṣṭha śrutakarmā mahāyaśāḥ
+
+**8.10.13**
+
+tato 'pareṇa bhallena bhṛśaṃ tīkṣṇena satvaraḥ jahāra saśirastrāṇaṃ śiras tasya mahātmanaḥ
+
+**8.10.14**
+
+tacchiro nyapatad bhūmau sumahac citravarmaṇaḥ yadṛcchayā yathā candraś cyutaḥ svargān mahītale
+
+**8.10.15**
+
+rājānaṃ nihataṃ dṛṣṭvā abhisāraṃ ca māriṣa abhyadravanta vegena citrasenasya sainikāḥ
+
+**8.10.16**
+
+tataḥ kruddho maheṣvāsas tat sainyaṃ prādravac charaiḥ antakāle yathā kruddhaḥ sarvabhūtāni pretarāṭ drāvayann iṣubhis tūrṇaṃ śrutakarmā vyarocata
+
+**8.10.17**
+
+prativindhyas tataś citraṃ bhittvā pañcabhir āśugaiḥ sārathiṃ tribhir ānarcchad dhvajam ekeṣuṇā tataḥ
+
+**8.10.18**
+
+taṃ citro navabhir bhallair bāhvor urasi cārdayat svarṇapuṅkhaiḥ śilādhautaiḥ kaṅkabarhiṇavājitaiḥ
+
+**8.10.19**
+
+prativindhyo dhanus tasya chittvā bhārata sāyakaiḥ pañcabhir niśitair bāṇair athainaṃ saṃprajaghnivān
+
+**8.10.20**
+
+tataḥ śaktiṃ mahārāja hemadaṇḍāṃ durāsadām prāhiṇot tava putrāya ghorām agniśikhām iva
+
+**8.10.21**
+
+tām āpatantīṃ sahasā śaktim ulkām ivāmbarāt dvidhā ciccheda samare prativindhyo hasann iva
+
+**8.10.22**
+
+sā papāta tadā chinnā prativindhyaśaraiḥ śitaiḥ yugānte sarvabhūtāni trāsayantī yathāśaniḥ
+
+**8.10.23**
+
+śaktiṃ tāṃ prahatāṃ dṛṣṭvā citro gṛhya mahāgadām prativindhyāya cikṣepa rukmajālavibhūṣitām
+
+**8.10.24**
+
+sā jaghāna hayāṃs tasya sārathiṃ ca mahāraṇe rathaṃ pramṛdya vegena dharaṇīm anvapadyata
+
+**8.10.25**
+
+etasminn eva kāle tu rathād āplutya bhārata śaktiṃ cikṣepa citrāya svarṇaghaṇṭām alaṃkṛtām
+
+**8.10.26**
+
+tām āpatantīṃ jagrāha citro rājan mahāmanāḥ tatas tām eva cikṣepa prativindhyāya bhārata
+
+**8.10.27**
+
+samāsādya raṇe śūraṃ prativindhyaṃ mahāprabhā nirbhidya dakṣiṇaṃ bāhuṃ nipapāta mahītale patitābhāsayac caiva taṃ deśam aśanir yathā
+
+**8.10.28**
+
+prativindhyas tato rājaṃs tomaraṃ hemabhūṣitam preṣayām āsa saṃkruddhaś citrasya vadhakāmyayā
+
+**8.10.29**
+
+sa tasya devāvaraṇaṃ bhittvā hṛdayam eva ca jagāma dharaṇīṃ tūrṇaṃ mahoraga ivāśayam
+
+**8.10.30**
+
+sa papāta tadā rājaṃs tomareṇa samāhataḥ prasārya vipulau bāhū pīnau parighasaṃnibhau
+
+**8.10.31**
+
+citraṃ saṃprekṣya nihataṃ tāvakā raṇaśobhinaḥ abhyadravanta vegena prativindhyaṃ samantataḥ
+
+**8.10.32**
+
+sṛjanto vividhān bāṇāñ śataghnīś ca sakiṅkiṇīḥ ta enaṃ chādayām āsuḥ sūryam abhragaṇā iva
+
+**8.10.33**
+
+tān apāsya mahābāhuḥ śarajālena saṃyuge vyadrāvayat tava camūṃ vajrahasta ivāsurīm
+
+**8.10.34**
+
+te vadhyamānāḥ samare tāvakāḥ pāṇḍavair nṛpa viprakīryanta sahasā vātanunnā ghanā iva
+
+**8.10.35**
+
+vipradrute bale tasmin vadhyamāne samantataḥ drauṇir eko 'bhyayāt tūrṇaṃ bhīmasenaṃ mahābalam
+
+**8.10.36**
+
+tataḥ samāgamo ghoro babhūva sahasā tayoḥ yathā devāsure yuddhe vṛtravāsavayor abhūt
+
+**8.11.1**
+
+saṃjaya uvāca bhīmasenaṃ tato drauṇī rājan vivyādha patriṇā tvarayā parayā yukto darśayann astralāghavam
+
+**8.11.2**
+
+athainaṃ punar ājaghne navatyā niśitaiḥ śaraiḥ sarvamarmāṇi saṃprekṣya marmajño laghuhastavat
+
+**8.11.3**
+
+bhīmasenaḥ samākīrṇo drauṇinā niśitaiḥ śaraiḥ rarāja samare rājan raśmivān iva bhāskaraḥ
+
+**8.11.4**
+
+tataḥ śarasahasreṇa suprayuktena pāṇḍavaḥ droṇaputram avacchādya siṃhanādam amuñcata
+
+**8.11.5**
+
+śaraiḥ śarāṃs tato drauṇiḥ saṃvārya yudhi pāṇḍavam lalāṭe 'bhyahanad rājan nārācena smayann iva
+
+**8.11.6**
+
+lalāṭasthaṃ tato bāṇaṃ dhārayām āsa pāṇḍavaḥ yathā śṛṅgaṃ vane dṛptaḥ khaḍgo dhārayate nṛpa
+
+**8.11.7**
+
+tato drauṇiṃ raṇe bhīmo yatamānaṃ parākramī tribhir vivyādha nārācair lalāṭe vismayann iva
+
+**8.11.8**
+
+lalāṭasthais tato bāṇair brāhmaṇaḥ sa vyarocata prāvṛṣīva yathā siktas triśṛṅgaḥ parvatottamaḥ
+
+**8.11.9**
+
+tataḥ śaraśatair drauṇim ardayām āsa pāṇḍavaḥ na cainaṃ kampayām āsa mātariśveva parvatam
+
+**8.11.10**
+
+tathaiva pāṇḍavaṃ yuddhe drauṇiḥ śaraśataiḥ śitaiḥ nākampayata saṃhṛṣṭo vāryogha iva parvatam
+
+**8.11.11**
+
+tāv anyonyaṃ śarair ghoraiś chādayānau mahārathau rathacaryāgatau śūrau śuśubhāte raṇotkaṭau
+
+**8.11.12**
+
+ādityāv iva saṃdīptau lokakṣayakarāv ubhau svaraśmibhir ivānyonyaṃ tāpayantau śarottamaiḥ
+
+**8.11.13**
+
+kṛtapratikṛte yatnaṃ kurvāṇau ca mahāraṇe kṛtapratikṛte yatnaṃ cakrāte tāv abhītavat
+
+**8.11.14**
+
+vyāghrāv iva ca saṃgrāme ceratus tau mahārathau śaradaṃṣṭrau durādharṣau cāpavyāttau bhayānakau
+
+**8.11.15**
+
+abhūtāṃ tāv adṛśyau ca śarajālaiḥ samantataḥ meghajālair iva cchannau gagane candrabhāskarau
+
+**8.11.16**
+
+prakāśau ca muhūrtena tatraivāstām ariṃdamau vimuktau meghajālena śaśisūryau yathā divi
+
+**8.11.17**
+
+apasavyaṃ tataś cakre drauṇis tatra vṛkodaram kirañ śaraśatair ugrair dhārābhir iva parvatam
+
+**8.11.18**
+
+na tu tan mamṛṣe bhīmaḥ śatror vijayalakṣaṇam praticakre ca taṃ rājan pāṇḍavo 'py apasavyataḥ
+
+**8.11.19**
+
+maṇḍalānāṃ vibhāgeṣu gatapratyāgateṣu ca babhūva tumulaṃ yuddhaṃ tayos tatra mahāmṛdhe
+
+**8.11.20**
+
+caritvā vividhān mārgān maṇḍalaṃ sthānam eva ca śaraiḥ pūrṇāyatotsṛṣṭair anyonyam abhijaghnatuḥ
+
+**8.11.21**
+
+anyonyasya vadhe yatnaṃ cakratus tau mahārathau īṣatur virathaṃ caiva kartum anyonyam āhave
+
+**8.11.22**
+
+tato drauṇir mahāstrāṇi prāduścakre mahārathaḥ tāny astrair eva samare pratijaghne 'sya pāṇḍavaḥ
+
+**8.11.23**
+
+tato ghoraṃ mahārāja astrayuddham avartata grahayuddhaṃ yathā ghoraṃ prajāsaṃharaṇe abhūt
+
+**8.11.24**
+
+te bāṇāḥ samasajjanta kṣiptās tābhyāṃ tu bhārata dyotayanto diśaḥ sarvās tac ca sainyaṃ samantataḥ
+
+**8.11.25**
+
+bāṇasaṃghāvṛtaṃ ghoram ākāśaṃ samapadyata uklāpātakṛtaṃ yadvat prajānāṃ saṃkṣaye nṛpa
+
+**8.11.26**
+
+bāṇābhighātāt saṃjajñe tatra bhārata pāvakaḥ savisphuliṅgo dīptārciḥ so 'dahad vāhinīdvayam
+
+**8.11.27**
+
+tatra siddhā mahārāja saṃpatanto 'bruvan vacaḥ ati yuddhāni sarvāṇi yuddham etat tato 'dhikam
+
+**8.11.28**
+
+sarvayuddhāni caitasya kalāṃ nārhanti ṣoḍaśīm naitādṛśaṃ punar yuddhaṃ na bhūtaṃ na bhaviṣyati
+
+**8.11.29**
+
+aho jñānena saṃyuktāv ubhau cograparākramau aho bhīme balaṃ bhīmam etayoś ca kṛtāstratā
+
+**8.11.30**
+
+aho vīryasya sāratvam aho sauṣṭhavam etayoḥ sthitāv etau hi samare kālāntakayamopamau
+
+**8.11.31**
+
+rudrau dvāv iva saṃbhūtau yathā dvāv iva bhāskarau yamau vā puruṣavyāghrau ghorarūpāv imau raṇe
+
+**8.11.32**
+
+śrūyante sma tadā vācaḥ siddhānāṃ vai muhur muhuḥ siṃhanādaś ca saṃjajñe sametānāṃ divaukasām adbhutaṃ cāpy acintyaṃ ca dṛṣṭvā karma tayor mṛdhe
+
+**8.11.33**
+
+tau śūrau samare rājan parasparakṛtāgasau parasparam udaikṣetāṃ krodhād udvṛtya cakṣuṣī
+
+**8.11.34**
+
+krodharaktekṣaṇau tau tu krodhāt prasphuritādharau krodhāt saṃdaṣṭadaśanau saṃdaṣṭadaśanacchadau
+
+**8.11.35**
+
+anyonyaṃ chādayantau sma śaravṛṣṭyā mahārathau śarāmbudhārau samare śastravidyutprakāśinau
+
+**8.11.36**
+
+tāv anyonyaṃ dhvajau viddhvā sārathī ca mahārathau anyonyasya hayān viddhvā bibhidāte parasparam
+
+**8.11.37**
+
+tataḥ kruddhau mahārāja bāṇau gṛhya mahāhave ubhau cikṣipatus tūrṇam anyonyasya vadhaiṣiṇau
+
+**8.11.38**
+
+tau sāyakau mahārāja dyotamānau camūmukhe ājaghnāte samāsādya vajravegau durāsadau
+
+**8.11.39**
+
+tau parasparavegāc ca śarābhyāṃ ca bhṛśāhatau nipetatur mahāvīrau svarathopasthayos tadā
+
+**8.11.40**
+
+tatas tu sārathir jñātvā droṇaputram acetanam apovāha raṇād rājan sarvakṣatrasya paśyataḥ
+
+**8.11.41**
+
+tathaiva pāṇḍavaṃ rājan vihvalantaṃ muhur muhuḥ apovāha rathenājau sārathiḥ śatrutāpanam
+
+**8.12.1**
+
+dhṛtarāṣṭra uvāca yathā saṃśaptakaiḥ sārdham arjunasyābhavad raṇaḥ anyeṣāṃ ca madīyānāṃ pāṇḍavais tad bravīhi me
+
+**8.12.2**
+
+saṃjaya uvāca śṛṇu rājan yathāvṛttaṃ saṃgrāmaṃ bruvato mama vīrāṇāṃ śatrubhiḥ sārdhaṃ dehapāpmapraṇāśanam
+
+**8.12.3**
+
+pārthaḥ saṃśaptakagaṇaṃ praviśyārṇavasaṃnibham vyakṣobhayad amitraghno mahāvāta ivārṇavam
+
+**8.12.4**
+
+śirāṃsy unmathya vīrāṇāṃ śitair bhallair dhanaṃjayaḥ pūrṇacandrābhavaktrāṇi svakṣibhrūdaśanāni ca saṃtastāra kṣitiṃ kṣipraṃ vinālair nalinair iva
+
+**8.12.5**
+
+suvṛttān āyatān puṣṭāṃś candanāgurubhūṣitān sāyudhān satanutrāṇān pañcāsyoragasaṃnibhān bāhūn kṣurair amitrāṇāṃ vicakartārjuno raṇe
+
+**8.12.6**
+
+dhuryān dhuryatarān sūtān dhvajāṃś cāpāni sāyakān pāṇīn aratnīn asakṛd bhallaiś ciccheda pāṇḍavaḥ
+
+**8.12.7**
+
+dvipān hayān rathāṃś caiva sārohān arjuno raṇe śarair anekasāhasrai rājan ninye yamakṣayam
+
+**8.12.8**
+
+taṃ pravīraṃ pratīyātā nardamānā ivarṣabhāḥ vāśitārtham abhikruddhā huṃkṛtvā cābhidudruvuḥ nighnantam abhijaghnus te śaraiḥ śṛṅgair ivarṣabhāḥ
+
+**8.12.9**
+
+tasya teṣāṃ ca tad yuddham abhaval lomaharṣaṇam trailokyavijaye yādṛg daityānāṃ saha vajriṇā
+
+**8.12.10**
+
+astrair astrāṇi saṃvārya dviṣatāṃ sarvato 'rjunaḥ iṣubhir bahubhis tūrṇaṃ viddhvā prāṇān rarāsa saḥ
+
+**8.12.11**
+
+chinnatriveṇucakrākṣān hatayodhāśvasārathīn vidhvastāyudhatūṇīrān samunmathitaketanān
+
+**8.12.12**
+
+saṃchinnayoktraraśmīkān vitriveṇūn vikūbarān vidhvastabandhurayugān viśastāyudhamaṇḍalān rathān viśakalīkurvan mahābhrāṇīva mārutaḥ
+
+**8.12.13**
+
+vismāpayan prekṣaṇīyaṃ dviṣātāṃ bhayavardhanam mahārathasahasrasya samaṃ karmārjuno 'karot
+
+**8.12.14**
+
+siddhadevarṣisaṃghāś ca cāraṇāś caiva tuṣṭuvuḥ devadundubhayo neduḥ puṣpavarṣāṇi cāpatan keśavārjunayor mūrdhni prāha vāk cāśarīriṇī
+
+**8.12.15**
+
+candrārkānilavahnīnāṃ kāntidīptibaladyutīḥ yau sadā bibhratur vīrau tāv imau keśavārjunau
+
+**8.12.16**
+
+brahmeśānāv ivājayyau vīrāv ekarathe sthitau sarvabhūtavarau vīrau naranārāyaṇāv ubhau
+
+**8.12.17**
+
+ity etan mahad āścaryaṃ dṛṣṭvā śrutvā ca bhārata aśvatthāmā susaṃyattaḥ kṛṣṇāv abhyadravad raṇe
+
+**8.12.18**
+
+atha pāṇḍavam asyantaṃ yamakālāntakāñ śarān seṣuṇā pāṇināhūya hasan drauṇir athābravīt
+
+**8.12.19**
+
+yadi māṃ manyase vīra prāptam arham ivātithim tataḥ sarvātmanādya tvaṃ yuddhātithyaṃ prayaccha me
+
+**8.12.20**
+
+evam ācāryaputreṇa samāhūto yuyutsayā bahu mene 'rjuno ''tmānam idaṃ cāha janārdanam
+
+**8.12.21**
+
+saṃśaptakāś ca me vadhyā drauṇir āhvayate ca mām yad atrānantaraṃ prāptaṃ praśādhi tvaṃ mahābhuja
+
+**8.12.22**
+
+evam ukto 'vahat pārthaṃ kṛṣṇo droṇātmajāntikam jaitreṇa vidhināhūtaṃ vāyur indram ivādhvare
+
+**8.12.23**
+
+tam āmantryaikamanasā keśavo drauṇim abravīt aśvatthāman sthiro bhūtvā praharāśu sahasva ca
+
+**8.12.24**
+
+nirveṣṭuṃ bhartṛpiṇḍaṃ hi kālo 'yam upajīvinām sūkṣmo vivādo viprāṇāṃ sthūlau kṣātrau jayājayau
+
+**8.12.25**
+
+yāṃ na saṃkṣamase mohād divyāṃ pārthasya satkriyām tām āptum icchan yudhyasva sthiro bhūtvādya pāṇḍavam
+
+**8.12.26**
+
+ity ukto vāsudevena tathety uktvā dvijottamaḥ vivyādha keśavaṃ ṣaṣṭyā nārācair arjunaṃ tribhiḥ
+
+**8.12.27**
+
+tasyārjunaḥ susaṃkruddhas tribhir bhallaiḥ śarāsanam cicchedāthānyad ādatta drauṇir ghorataraṃ dhanuḥ
+
+**8.12.28**
+
+sajyaṃ kṛtvā nimeṣāt tad vivyādhārjunakeśavau tribhiḥ śarair vāsudevaṃ sahasreṇa ca pāṇḍavam
+
+**8.12.29**
+
+tataḥ śarasahasrāṇi prayutāny arbudāni ca sasṛje drauṇir āyastaḥ saṃstabhya ca raṇe 'rjunam
+
+**8.12.30**
+
+iṣudher dhanuṣo jyāyā aṅgulībhyaś ca māriṣa bāhvoḥ karābhyām uraso vadanaghrāṇanetrataḥ
+
+**8.12.31**
+
+karṇābhyāṃ śiraso 'ṅgebhyo lomavartmabhya eva ca rathadhvajebhyaś ca śarā niṣpetur brahmavādinaḥ
+
+**8.12.32**
+
+śarajālena mahatā viddhvā keśavapāṇḍavau nanāda mudito drauṇir mahāmeghaughanisvanaḥ
+
+**8.12.33**
+
+tasya nānadataḥ śrutvā pāṇḍavo 'cyutam abravīt paśya mādhava daurātmyaṃ droṇaputrasya māṃ prati
+
+**8.12.34**
+
+vadhaprāptau manyate nau praveśya śaraveśmani eṣo 'sya hanmi saṃkalpaṃ śikṣayā ca balena ca
+
+**8.12.35**
+
+aśvatthāmnaḥ śarān astāṃś chittvaikaikaṃ tridhā tridhā vyadhamad bharataśreṣṭho nīhāram iva mārutaḥ
+
+**8.12.36**
+
+tataḥ saṃśaptakān bhūyaḥ sāśvasūtarathadvipān dhvajapattigaṇān ugrair bāṇair vivyādha pāṇḍavaḥ
+
+**8.12.37**
+
+ye ye dadṛśire tatra yad yad rūpaṃ yathā yathā te te tat tac charair vyāptaṃ menire ''tmānam eva ca
+
+**8.12.38**
+
+te gāṇḍīvapraṇuditā nānārūpāḥ patatriṇaḥ krośe sāgre sthitān ghnanti dvipāṃś ca puruṣān raṇe
+
+**8.12.39**
+
+bhallaiś chinnāḥ karāḥ petuḥ kariṇāṃ madakarṣiṇām chinnā yathā paraśubhiḥ pravṛddhāḥ śaradi drumāḥ
+
+**8.12.40**
+
+paścāt tu śailavat petus te gajāḥ saha sādibhiḥ vajrivajrapramathitā yathaivādricayās tathā
+
+**8.12.41**
+
+gandharvanagarākārān vidhivat kalpitān rathān vinītajavanāny uktān āsthitān yuddhadurmadān
+
+**8.12.42**
+
+śarair viśakalīkurvann amitrān abhyavīvṛṣat alaṃkṛtān aśvasādīn pattīṃś cāhan dhanaṃjayaḥ
+
+**8.12.43**
+
+dhanaṃjayayugāntārkaḥ saṃśaptakamahārṇavam vyaśoṣayata duḥśoṣaṃ tīvraiḥ śaragabhastibhiḥ
+
+**8.12.44**
+
+punar drauṇimahāśailaṃ nārācaiḥ sūryasaṃnibhaiḥ nirbibheda mahāvegais tvaran vajrīva parvatam
+
+**8.12.45**
+
+tam ācāryasutaḥ kruddhaḥ sāśvayantāram āśugaiḥ yuyutsur nāśakad yoddhuṃ pārthas tān antarācchinat
+
+**8.12.46**
+
+tataḥ paramasaṃkruddhaḥ kāṇḍakośān avāsṛjat aśvatthāmābhirūpāya gṛhān atithaye yathā
+
+**8.12.47**
+
+atha saṃśaptakāṃs tyaktvā pāṇḍavo drauṇim abhyayāt apāṅkteyam iva tyaktvā dātā pāṅkteyam arthinam
+
+**8.12.48**
+
+tataḥ samabhavad yuddhaṃ śukrāṅgirasavarcasoḥ nakṣatram abhito vyomni śukrāṅgirasayor iva
+
+**8.12.49**
+
+saṃtāpayantāv anyonyaṃ dīptaiḥ śaragabhastibhiḥ lokatrāsakarāv āstāṃ vimārgasthau grahāv iva
+
+**8.12.50**
+
+tato 'vidhyad bhruvor madhye nārācenārjuno bhṛśam sa tena vibabhau drauṇir ūrdhvaraśmir yathā raviḥ
+
+**8.12.51**
+
+atha kṛṣṇau śaraśatair aśvatthāmnārditau bhṛśam saraśmijālanikarau yugāntārkāv ivāsatuḥ
+
+**8.12.52**
+
+tato 'rjunaḥ sarvatodhāram astram; avāsṛjad vāsudevābhiguptaḥ drauṇāyaniṃ cābhyahanat pṛṣatkair; vajrāgnivaivasvatadaṇḍakalpaiḥ
+
+**8.12.53**
+
+sa keśavaṃ cārjunaṃ cātitejā; vivyādha marmasv atiraudrakarmā bāṇaiḥ sumuktair atitīvravegair; yair āhato mṛtyur api vyatheta
+
+**8.12.54**
+
+drauṇer iṣūn arjunaḥ saṃnivārya; vyāyacchatas tad dviguṇaiḥ supuṅkhaiḥ taṃ sāśvasūtadhvajam ekavīram; āvṛtya saṃśaptakasainyam ārchat
+
+**8.12.55**
+
+dhanūṃṣi bāṇān iṣudhīr dhanurjyāḥ; pāṇīn bhujān pāṇigataṃ ca śastram chatrāṇi ketūṃs turagān athaiṣāṃ; vastrāṇi mālyāny atha bhūṣaṇāni
+
+**8.12.56**
+
+carmāṇi varmāṇi manorathāṃś ca; priyāṇi sarvāṇi śirāṃsi caiva ciccheda pārtho dviṣatāṃ pramuktair; bāṇaiḥ sthitānām aparāṅmukhānām
+
+**8.12.57**
+
+sukalpitāḥ syandanavājināgāḥ; samāsthitāḥ kṛtayatnair nṛvīraiḥ pārtheritair bāṇagaṇair nirastās; tair eva sārdhaṃ nṛvarair nipetuḥ
+
+**8.12.58**
+
+padmārkapūrṇendusamānanāni; kirīṭamālāmukuṭotkaṭāni bhallārdhacandrakṣurahiṃsitāni; prapetur urvyāṃ nṛśirāṃsy ajasram
+
+**8.12.59**
+
+atha dvipair devapatidvipābhair; devāridarpolbaṇamanyudarpaiḥ kaliṅgavaṅgāṅganiṣādavīrā; jighāṃsavaḥ pāṇḍavam abhyadhāvan
+
+**8.12.60**
+
+teṣāṃ dvipānāṃ vicakarta pārtho; varmāṇi marmāṇi karān niyantṝn dhvajāḥ patākāś ca tataḥ prapetur; vajrāhatānīva gireḥ śirāṃsi
+
+**8.12.61**
+
+teṣu prarugṇeṣu guros tanūjaṃ; bāṇaiḥ kirīṭī navasūryavarṇaiḥ pracchādayām āsa mahābhrajālair; vāyuḥ samudyuktam ivāṃśumantam
+
+**8.12.62**
+
+tato 'rjuneṣūn iṣubhir nirasya; drauṇiḥ śarair arjunavāsudevau pracchādayitva divi candrasūryau; nanāda so 'mbhoda ivātapānte
+
+**8.12.63**
+
+tam arjunas tāṃś ca punas tvadīyān; abhyarditas tair avikṛttaśastraiḥ bāṇāndhakāraṃ sahasaiva kṛtvā; vivyādha sarvān iṣubhiḥ supuṅkhaiḥ
+
+**8.12.64**
+
+nāpy ādadat saṃdadhan naiva muñcan; bāṇān raṇe 'dṛśyata savyasācī hatāṃś ca nāgāṃs turagān padātīn; saṃsyūtadehān dadṛśū rathāṃś ca
+
+**8.12.65**
+
+saṃdhāya nārācavarān daśāśu; drauṇis tvarann ekam ivotsasarja teṣāṃ ca pañcārjunam abhyavidhyan; pañcācyutaṃ nirbibhiduḥ sumuktāḥ
+
+**8.12.66**
+
+tair āhatau sarvamanuṣyamukhyāv; asṛkkṣarantau dhanadendrakalpau samāptavidyena yathābhibhūtau; hatau svid etau kim u menire 'nye
+
+**8.12.67**
+
+athārjunaṃ prāha daśārhanāthaḥ; pramādyase kiṃ jahi yodham etam kuryād dhi doṣaṃ samupekṣito 'sau; kaṣṭo bhaved vyādhir ivākriyāvān
+
+**8.12.68**
+
+tatheti coktvācyutam apramādī; drauṇiṃ prayatnād iṣubhis tatakṣa chittvāśvaraśmīṃs turagān avidhyat; te taṃ raṇād ūhur atīva dūram
+
+**8.12.69**
+
+āvṛtya neyeṣa punas tu yuddhaṃ; pārthena sārdhaṃ matimān vimṛśya jānañ jayaṃ niyataṃ vṛṣṇivīre; dhanaṃjaye cāṅgirasāṃ variṣṭhaḥ
+
+**8.12.70**
+
+pratīpakāye tu raṇād aśvatthāmni hṛte hayaiḥ mantrauṣadhikriyādānair vyādhau dehād ivāhṛte
+
+**8.12.71**
+
+saṃśaptakān abhimukhau prayātau keśavārjunau vātoddhūtapatākena syandanenaughanādinā
+
+**8.13.1**
+
+saṃjaya uvāca athottareṇa pāṇḍūnāṃ senāyāṃ dhvanir utthitaḥ rathanāgāśvapattīnāṃ daṇḍadhāreṇa vadhyatām
+
+**8.13.2**
+
+nivartayitvā tu rathaṃ keśavo 'rjunam abravīt vāhayann eva turagān garuḍānilaraṃhasaḥ
+
+**8.13.3**
+
+māgadho 'thāpy atikrānto dviradena pramāthinā bhagadattād anavaraḥ śikṣayā ca balena ca
+
+**8.13.4**
+
+enaṃ hatvā nihantāsi punaḥ saṃśaptakān iti vākyānte prāpayat pārthaṃ daṇḍadhārāntikaṃ prati
+
+**8.13.5**
+
+sa māgadhānāṃ pravaro 'ṅkuśagraho; graheṣv asahyo vikaco yathā grahaḥ sapatnasenāṃ pramamātha dāruṇo; mahīṃ samagrāṃ vikaco yathā grahaḥ
+
+**8.13.6**
+
+sukalpitaṃ dānavanāgasaṃnibhaṃ; mahābhrasaṃhrādam amitramardanam rathāśvamātaṅgagaṇān sahasraśaḥ; samāsthito hanti śarair dvipān api
+
+**8.13.7**
+
+rathān adhiṣṭhāya savājisārathīn; rathāṃś ca padbhis tvarito vyapothayat dvipāṃś ca padbhyāṃ caraṇaiḥ kareṇa ca; dvipāsthito hanti sa kālacakravat
+
+**8.13.8**
+
+narāṃś ca kārṣṇāyasavarmabhūṣaṇān; nipātya sāśvān api pattibhiḥ saha vyapothayad dantivareṇa śuṣmiṇā; saśabdavat sthūlanaḍān yathā tathā
+
+**8.13.9**
+
+athārjuno jyātalaneminisvane; mṛdaṅgabherībahuśaṅkhanādite narāśvamātaṅgasahasranāditai; rathottamenābhyapatad dvipottamam
+
+**8.13.10**
+
+tato 'rjunaṃ dvādaśabhiḥ śarottamair; janārdanaṃ ṣoḍaśabhiḥ samārdayat sa daṇḍadhāras turagāṃs tribhis tribhis; tato nanāda prajahāsa cāsakṛt
+
+**8.13.11**
+
+tato 'sya pārthaḥ saguṇeṣukārmukaṃ; cakarta bhallair dhvajam apy alaṃkṛtam punar niyantṝn saha pādagoptṛbhis; tatas tu cukrodha girivrajeśvaraḥ
+
+**8.13.12**
+
+tato 'rjunaṃ bhinnakaṭena dantinā; ghanāghanenānilatulyaraṃhasā atīva cukṣobhayiṣur janārdanaṃ; dhanaṃjayaṃ cābhijaghāna tomaraiḥ
+
+**8.13.13**
+
+athāsya bāhū dvipahastasaṃnibhau; śiraś ca pūrṇendunibhānanaṃ tribhiḥ kṣuraiḥ praciccheda sahaiva pāṇḍavas; tato dvipaṃ bāṇaśataiḥ samārdayat
+
+**8.13.14**
+
+sa pārthabāṇais tapanīyabhūṣaṇaiḥ; samārucat kāñcanavarmabhṛd dvipaḥ tathā cakāśe niśi parvato yathā; davāgninā prajvalitauṣadhidrumaḥ
+
+**8.13.15**
+
+sa vedanārto 'mbudanisvano nadaṃś; calan bhraman praskhalito ''turo dravan papāta rugṇaḥ saniyantṛkas tathā; yathā girir vajranipātacūrṇitaḥ
+
+**8.13.16**
+
+himāvadātena suvarṇamālinā; himādrikūṭapratimena dantinā hate raṇe bhrātari daṇḍa āvrajaj; jighāṃsur indrāvarajaṃ dhanaṃjayam
+
+**8.13.17**
+
+sa tomarair arkakaraprabhais tribhir; janārdanaṃ pañcabhir eva cārjunam samarpayitvā vinanāda cārdayaṃs; tato 'sya bāhū vicakarta pāṇḍavaḥ
+
+**8.13.18**
+
+kṣuraprakṛttau subhṛśaṃ satomarau; cyutāṅgadau candanarūṣitau bhujau gajāt patantau yugapad virejatur; yathādriśṛṅgāt patitau mahoragau
+
+**8.13.19**
+
+athārdhacandreṇa hṛtaṃ kirīṭinā; papāta daṇḍasya śiraḥ kṣitiṃ dvipāt tac choṇitābhaṃ nipatad vireje; divākaro 'stād iva paścimāṃ diśam
+
+**8.13.20**
+
+atha dvipaṃ śvetanagāgrasaṃnibhaṃ; divākarāṃśupratimaiḥ śarottamaiḥ bibheda pārthaḥ sa papāta nānadan; himādrikūṭaḥ kuliśāhato yathā
+
+**8.13.21**
+
+tato 'pare tatpratimā gajottamā; jigīṣavaḥ saṃyati savyasācinam tathā kṛtās tena yathaiva tau dvipau; tataḥ prabhagnaṃ sumahad ripor balam
+
+**8.13.22**
+
+gajā rathāśvāḥ puruṣāś ca saṃghaśaḥ; parasparaghnāḥ paripetur āhave parasparapraskhalitāḥ samāhatā; bhṛśaṃ ca tat tat kulabhāṣiṇo hatāḥ
+
+**8.13.23**
+
+athārjunaṃ sve parivārya sainikāḥ; puraṃdaraṃ devagaṇā ivābruvan abhaiṣma yasmān maraṇād iva prajāḥ; sa vīra diṣṭyā nihatas tvayā ripuḥ
+
+**8.13.24**
+
+na cet paritrāsya imāñ janān bhayād; dviṣadbhir evaṃ balibhiḥ prapīḍitān tathābhaviṣyad dviṣatāṃ pramodanaṃ; yathā hateṣv eṣv iha no 'riṣu tvayā
+
+**8.13.25**
+
+itīva bhūyaś ca suhṛdbhir īritā; niśamya vācaḥ sumanās tato 'rjunaḥ yathānurūpaṃ pratipūjya taṃ janaṃ; jagāma saṃśaptakasaṃghahā punaḥ
+
+**8.14.1**
+
+saṃjaya uvāca pratyāgatya punar jiṣṇur ahan saṃśaptakān bahūn vakrānuvakragamanād aṅgāraka iva grahaḥ
+
+**8.14.2**
+
+pārthabāṇahatā rājan narāśvarathakuñjarāḥ vicelur babhramur neduḥ petur mamluś ca māriṣa
+
+**8.14.3**
+
+dhuryaṃ dhuryatarān sūtān rathāṃś ca parisaṃkṣipan pāṇīn pāṇigataṃ śastraṃ bāhūn api śirāṃsi ca
+
+**8.14.4**
+
+bhallaiḥ kṣurair ardhacandrair vatsadantaiś ca pāṇḍavaḥ cicchedāmitravīrāṇāṃ samare pratiyudhyatām
+
+**8.14.5**
+
+vāśitārthe yuyutsanto vṛṣabhā vṛṣabhaṃ yathā āpatanty arjunaṃ śūrāḥ śataśo 'tha sahasraśaḥ
+
+**8.14.6**
+
+teṣāṃ tasya ca tad yuddham abhaval lomaharṣaṇam trailokyavijaye yādṛg daityānāṃ saha vajriṇā
+
+**8.14.7**
+
+tam avidhyat tribhir bāṇair dandaśūkair ivāhibhiḥ ugrāyudhas tatas tasya śiraḥ kāyād apāharat
+
+**8.14.8**
+
+te 'rjunaṃ sarvataḥ kruddhā nānāśastrair avīvṛṣan marudbhiḥ preṣitā meghā himavantam ivoṣṇage
+
+**8.14.9**
+
+astrair astrāṇi saṃvārya dviṣatāṃ sarvato 'rjunaḥ samyag astaiḥ śaraiḥ sarvān sahitān ahanad bahūn
+
+**8.14.10**
+
+chinnatriveṇujaṅgheṣān nihatapārṣṇisārathīn saṃchinnaraśmiyoktrākṣān vyanukarṣayugān rathān vidhvastasarvasaṃnāhān bāṇaiś cakre 'rjunas tvaran
+
+**8.14.11**
+
+te rathās tatra vidhvastāḥ parārdhyā bhānty anekaśaḥ dhaninām iva veśmāni hatāny agnyanilāmbubhiḥ
+
+**8.14.12**
+
+dvipāḥ saṃbhinnamarmāṇo vajrāśanisamaiḥ śaraiḥ petur giryagraveśmāni vajravātāgnibhir yathā
+
+**8.14.13**
+
+sārohās turagāḥ petur bahavo 'rjunatāḍitāḥ nirjihvāntrāḥ kṣitau kṣīṇā rudhirārdrāḥ sudurdṛśaḥ
+
+**8.14.14**
+
+narāśvanāgā nārācaiḥ saṃsyūtāḥ savyasācinā babhramuś caskhaluḥ petur nedur mamluś ca māriṣa
+
+**8.14.15**
+
+aṇakaiś ca śilādhautair vajrāśaniviṣopamaiḥ śarair nijaghnivān pārtho mahendra iva dānavān
+
+**8.14.16**
+
+mahārhavarmābharaṇā nānārūpāmbarāyudhāḥ sarathāḥ sadhvajā vīrā hatāḥ pārthena śerate
+
+**8.14.17**
+
+vijitāḥ puṇyakarmāṇo viśiṣṭābhijanaśrutāḥ gatāḥ śarīrair vasudhām ūrjitaiḥ karmabhir divam
+
+**8.14.18**
+
+athārjunarathaṃ vīrās tvadīyāḥ samupādravan nānājanapadādhyakṣāḥ sagaṇā jātamanyavaḥ
+
+**8.14.19**
+
+uhyamānā rathāśvais te pattayaś ca jighāṃsavaḥ samabhyadhāvann asyanto vividhaṃ kṣipram āyudham
+
+**8.14.20**
+
+tadāyudhamahāvarṣaṃ kṣiptaṃ yodhamahāmbudaiḥ vyadhaman niśitair bāṇaiḥ kṣipram arjunamārutaḥ
+
+**8.14.21**
+
+sāśvapattidviparathaṃ mahāśastraugham aplavam sahasā saṃtitīrṣantaṃ pārthaṃ śastrāstrasetunā
+
+**8.14.22**
+
+athābravīd vāsudevaḥ pārthaṃ kiṃ krīḍase 'nagha saṃśaptakān pramathyaitāṃs tataḥ karṇavadhe tvara
+
+**8.14.23**
+
+tathety uktvārjunaḥ kṣipraṃ śiṣṭān saṃśaptakāṃs tadā ākṣipya śastreṇa balād daityān indra ivāvadhīt
+
+**8.14.24**
+
+ādadhat saṃdadhan neṣūn dṛṣṭaḥ kaiś cid raṇe 'rjunaḥ vimuñcan vā śarāñ śīghraṃ dṛśyate sma hi kair api
+
+**8.14.25**
+
+āścaryam iti govindo bruvann aśvān acodayat haṃsāṃsagaurās te senāṃ haṃsāḥ sara ivāviśan
+
+**8.14.26**
+
+tataḥ saṃgrāmabhūmiṃ tāṃ vartamāne janakṣaye avekṣamāṇo govindaḥ savyasācinam abravīt
+
+**8.14.27**
+
+eṣa pārtha mahāraudro vartate bharatakṣayaḥ pṛthivyāṃ pārthivānāṃ vai duryodhanakṛte mahān
+
+**8.14.28**
+
+paśya bhārata cāpāni rukmapṛṣṭhāni dhanvinām mahatām apaviddhāni kalāpān iṣudhīs tathā
+
+**8.14.29**
+
+jātarūpamayaiḥ puṅkhaiḥ śarāṃś ca nataparvaṇaḥ tailadhautāṃś ca nārācān nirmuktān iva pannagān
+
+**8.14.30**
+
+hastidantatsarūn khaḍgāñ jātarūpapariṣkṛtān ākīrṇāṃs tomarāṃś cāpāṃś citrān hemavibhūṣitān
+
+**8.14.31**
+
+varmāṇi cāpaviddhāni rukmapṛṣṭhāni bhārata suvarṇavikṛtān prāsāñ śaktīḥ kanakabhūṣitāḥ
+
+**8.14.32**
+
+jāmbūnadamayaiḥ paṭṭair baddhāś ca vipulā gadāḥ jātarūpamayīś carṣṭīḥ paṭṭiśān hemabhūṣitān
+
+**8.14.33**
+
+daṇḍaiḥ kanakacitraiś ca vipraviddhān paraśvadhān ayaskuśāntān patitān musalāni gurūṇi ca
+
+**8.14.34**
+
+śataghnīḥ paśya citrāś ca vipulān parighāṃs tathā cakrāṇi cāpaviddhāni mudgarāṃś ca bahūn raṇe
+
+**8.14.35**
+
+nānāvidhāni śastrāṇi pragṛhya jayagṛddhinaḥ jīvanta iva lakṣyante gatasattvās tarasvinaḥ
+
+**8.14.36**
+
+gadāvimathitair gātrair musalair bhinnamastakān gajavājirathakṣuṇṇān paśya yodhān sahasraśaḥ
+
+**8.14.37**
+
+manuṣyagajavājīnāṃ śaraśaktyṛṣṭitomaraiḥ nistriṃśaiḥ paṭṭiśaiḥ prāsair nakharair laguḍair api
+
+**8.14.38**
+
+śarīrair bahudhā bhinnaiḥ śoṇitaughapariplutaiḥ gatāsubhir amitraghna saṃvṛtā raṇabhūmayaḥ
+
+**8.14.39**
+
+bāhubhiś candanādigdhaiḥ sāṅgadaiḥ śubhabhūṣaṇaiḥ satalatraiḥ sakeyūrair bhāti bhārata medinī
+
+**8.14.40**
+
+sāṅgulitrair bhujāgraiś ca vipraviddhair alaṃkṛtaiḥ hastihastopamaiś chinnair ūrubhiś ca tarasvinām
+
+**8.14.41**
+
+baddhacūḍāmaṇivaraiḥ śirobhiś ca sakuṇḍalaiḥ nikṛttair vṛṣabhākṣāṇāṃ virājati vasuṃdharā
+
+**8.14.42**
+
+kabandhaiḥ śoṇitādigdhaiś chinnagātraśirodharaiḥ bhūr bhāti bharataśreṣṭha śāntārcirbhir ivāgnibhiḥ
+
+**8.14.43**
+
+rathān bahuvidhān bhagnān hemakiṅkiṇinaḥ śubhān aśvāṃś ca bahudhā paśya śoṇitena pariplutān
+
+**8.14.44**
+
+yodhānāṃ ca mahāśaṅkhān pāṇḍurāṃś ca prakīrṇakān nirastajihvān mātaṅgāñ śayānān parvatopamān
+
+**8.14.45**
+
+vaijayantīvicitrāṃś ca hatāṃś ca gajayodhinaḥ vāraṇānāṃ paristomān suyuktāmbarakambalān
+
+**8.14.46**
+
+vipāṭitā vicitrāś ca rūpacitrāḥ kuthās tathā bhinnāś ca bahudhā ghaṇṭāḥ patadbhiś cūrṇitā gajaiḥ
+
+**8.14.47**
+
+vaiḍūryamaṇidaṇḍāṃś ca patitān aṅkuśān bhuvi baddhāḥ sādidhvajāgreṣu suvarṇavikṛtāḥ kaśāḥ
+
+**8.14.48**
+
+vicitrān maṇicitrāṃś ca jātarūpapariṣkṛtān aśvāstaraparistomān rāṅkavān patitān bhuvi
+
+**8.14.49**
+
+cūḍāmaṇīn narendrāṇāṃ vicitrāḥ kāñcanasrajaḥ chatrāṇi cāpaviddhāni cāmaravyajanāni ca
+
+**8.14.50**
+
+candranakṣatrabhāsaiś ca vadanaiś cārukuṇḍalaiḥ kḷptaśmaśrubhir atyarthaṃ vīrāṇāṃ samalaṃkṛtaiḥ vadanaiḥ paśya saṃchannāṃ mahīṃ śoṇitakardamām
+
+**8.14.51**
+
+sajīvāṃś ca narān paśya kūjamānān samantataḥ upāsyamānān bahubhir nyastaśastrair viśāṃ pate
+
+**8.14.52**
+
+jñātibhiḥ sahitais tatra rodamānair muhur muhuḥ vyutkrāntān aparān yodhāṃś chādayitvā tarasvinaḥ punar yuddhāya gacchanti jayagṛddhāḥ pramanyavaḥ
+
+**8.14.53**
+
+apare tatra tatraiva paridhāvanti māninaḥ jñātibhiḥ patitaiḥ śūrair yācyamānās tathodakam
+
+**8.14.54**
+
+jalārthaṃ ca gatāḥ ke cin niṣprāṇā bahavo 'rjuna saṃnivṛttāś ca te śūrās tān dṛṣṭvaiva vicetasaḥ
+
+**8.14.55**
+
+jalaṃ dṛṣṭvā pradhāvanti krośamānāḥ parasparam jalaṃ pītvā mṛtān paśya pibato 'nyāṃś ca bhārata
+
+**8.14.56**
+
+parityajya priyān anye bāndhavān bāndhavapriya vyutkrāntāḥ samadṛśyanta tatra tatra mahāraṇe
+
+**8.14.57**
+
+paśyāparān naraśreṣṭha saṃdaṣṭauṣṭhapuṭān punaḥ bhrukuṭīkuṭilair vaktraiḥ prekṣamāṇān samantataḥ
+
+**8.14.58**
+
+etat tavaivānurūpaṃ karmārjuna mahāhave divi vā devarājasya tvayā yat kṛtam āhave
+
+**8.14.59**
+
+evaṃ tāṃ darśayan kṛṣṇo yuddhabhūmiṃ kirīṭine gacchann evāśṛṇoc chabdaṃ duryodhanabale mahat
+
+**8.14.60**
+
+śaṅkhadundubhinirghoṣān bherīpaṇavamiśritān rathāśvagajanādāṃś ca śastraśabdāṃś ca dāruṇān
+
+**8.14.61**
+
+praviśya tad balaṃ kṛṣṇas turagair vātavegibhiḥ pāṇḍyenābhyarditāṃ senāṃ tvadīyāṃ vīkṣya dhiṣṭhitaḥ
+
+**8.14.62**
+
+sa hi nānāvidhair bāṇair iṣvāsapravaro yudhi nyahanad dviṣatāṃ vrātān gatāsūn antako yathā
+
+**8.14.63**
+
+gajavājimanuṣyāṇāṃ śarīrāṇi śitaiḥ śaraiḥ bhittvā praharatāṃ śreṣṭho videhāsūṃś cakāra saḥ
+
+**8.14.64**
+
+śatrupravīrair astāni nānāśastrāṇi sāyakaiḥ bhittvā tān ahanat pāṇḍyaḥ śatrūñ śakra ivāsurān
+
+**8.15.1**
+
+dhṛtarāṣṭra uvāca proktas tvayā pūrvam eva pravīro lokaviśrutaḥ na tv asya karma saṃgrāme tvayā saṃjaya kīrtitam
+
+**8.15.2**
+
+tasya vistarato brūhi pravīrasyādya vikramam śikṣāṃ prabhāvaṃ vīryaṃ ca pramāṇaṃ darpam eva ca
+
+**8.15.3**
+
+saṃjaya uvāca droṇabhīṣmakṛpadrauṇikarṇārjunajanārdanān samāptavidyān dhanuṣi śreṣṭhān yān manyase yudhi
+
+**8.15.4**
+
+tulyatā karṇabhīṣmābhyām ātmano yena dṛśyate vāsudevārjunābhyāṃ ca nyūnatāṃ nātmanīcchati
+
+**8.15.5**
+
+sa pāṇḍyo nṛpatiśreṣṭhaḥ sarvaśastrabhṛtāṃ varaḥ karṇasyānīkam avadhīt paribhūta ivāntakaḥ
+
+**8.15.6**
+
+tad udīrṇarathāśvaṃ ca pattipravarakuñjaram kulālacakravad bhrāntaṃ pāṇḍyenādhiṣṭhitaṃ balam
+
+**8.15.7**
+
+vyaśvasūtadhvajarathān vipraviddhāyudhān ripūn samyag astaiḥ śaraiḥ pāṇḍyo vāyur meghān ivākṣipat
+
+**8.15.8**
+
+dviradān prahataprothān vipatākadhvajāyudhān sapādarakṣān avadhīd vajreṇārīn ivārihā
+
+**8.15.9**
+
+saśaktiprāsatūṇīrān aśvārohān hayān api pulindakhaśabāhlīkān niṣādān dhrakataṅgaṇān
+
+**8.15.10**
+
+dākṣiṇātyāṃś ca bhojāṃś ca krūrān saṃgrāmakarkaśān viśastrakavacān bāṇaiḥ kṛtvā pāṇḍyo 'karod vyasūn
+
+**8.15.11**
+
+caturaṅgaṃ balaṃ bāṇair nighnantaṃ pāṇḍyam āhave dṛṣṭvā drauṇir asaṃbhrāntam asaṃbhrāntataro 'bhyayāt
+
+**8.15.12**
+
+ābhāṣya cainaṃ madhuram abhi nṛtyann abhītavat prāha praharatāṃ śreṣṭhaḥ smitapūrvaṃ samāhvayan
+
+**8.15.13**
+
+rājan kamalapatrākṣa pradhānāyudhavāhana vajrasaṃhananaprakhya pradhānabalapauruṣa
+
+**8.15.14**
+
+muṣṭiśliṣṭāyudhābhyāṃ ca vyāyatābhyāṃ mahad dhanuḥ dorbhyāṃ visphārayan bhāsi mahājaladavad bhṛśam
+
+**8.15.15**
+
+śaravarṣair mahāvegair amitrān abhivarṣataḥ mad anyaṃ nānupaśyāmi prativīraṃ tavāhave
+
+**8.15.16**
+
+rathadviradapattyaśvān ekaḥ pramathase bahūn mṛgasaṃghān ivāraṇye vibhīr bhīmabalo hariḥ
+
+**8.15.17**
+
+mahatā rathaghoṣeṇa divaṃ bhūmiṃ ca nādayan varṣānte sasyahā pītho bhābhir āpūrayann iva
+
+**8.15.18**
+
+saṃspṛśānaḥ śarāṃs tīkṣṇāṃs tūṇād āśīviṣopamān mayaivaikena yudhyasva tryambakeṇāndhako yathā
+
+**8.15.19**
+
+evam uktas tathety uktvā prahareti ca tāḍitaḥ karṇinā droṇatanayaṃ vivyādha malayadhvajaḥ
+
+**8.15.20**
+
+marmabhedibhir atyugrair bāṇair agniśikhopamaiḥ smayann abhyahanad drauṇiḥ pāṇḍyam ācāryasattamaḥ
+
+**8.15.21**
+
+tato navāparāṃs tīkṣṇān nārācān kaṅkavāsasaḥ gatyā daśamyā saṃyuktān aśvatthāmā vyavāsṛjat
+
+**8.15.22**
+
+teṣāṃ pañcācchinat pāṇḍyaḥ pañcabhir niśitaiḥ śaraiḥ catvāro 'bhyāhanan vāhān āśu te vyasavo 'bhavan
+
+**8.15.23**
+
+atha droṇasutasyeṣūṃs tāṃś chittvā niśitaiḥ śaraiḥ dhanurjyāṃ vitatāṃ pāṇḍyaś cicchedādityavarcasaḥ
+
+**8.15.24**
+
+vijyaṃ dhanur athādhijyaṃ kṛtvā drauṇir amitrahā tataḥ śarasahasrāṇi preṣayām āsa pāṇḍyataḥ iṣusaṃbādham ākāśam akarod diśa eva ca
+
+**8.15.25**
+
+tatas tān asyataḥ sarvān drauṇer bāṇān mahātmanaḥ jānāno 'py akṣayān pāṇḍyo 'śātayat puruṣarṣabhaḥ
+
+**8.15.26**
+
+prahitāṃs tān prayatnena chittvā drauṇer iṣūn ariḥ cakrarakṣau tatas tasya prāṇudan niśitaiḥ śaraiḥ
+
+**8.15.27**
+
+athārer lāghavaṃ dṛṣṭvā maṇḍalīkṛtakārmukaḥ prāsyad droṇasuto bāṇān vṛṣṭiṃ pūṣānujo yathā
+
+**8.15.28**
+
+aṣṭāv aṣṭagavāny ūhuḥ śakaṭāni yad āyudham ahnas tad aṣṭabhāgena drauṇiś cikṣepa māriṣa
+
+**8.15.29**
+
+tam antakam iva kruddham antakālāntakopamam ye ye dadṛśire tatra visaṃjñāḥ prāyaśo 'bhavan
+
+**8.15.30**
+
+parjanya iva gharmānte vṛṣṭyā sādridrumāṃ mahīm ācāryaputras tāṃ senāṃ bāṇavṛṣṭyābhyavīvṛṣat
+
+**8.15.31**
+
+drauṇiparjanyamuktāṃ tāṃ bāṇavṛṣṭiṃ suduḥsahām vāyavyāstreṇa sa kṣipraṃ ruddhvā pāṇḍyānilo 'nadat
+
+**8.15.32**
+
+tasya nānadataḥ ketuṃ candanāgurubhūṣitam malayapratimaṃ drauṇiś chittvāśvāṃś caturo 'hanat
+
+**8.15.33**
+
+sūtam ekeṣuṇā hatvā mahājaladanisvanam dhanuś chittvārdhacandreṇa vyadhamat tilaśo ratham
+
+**8.15.34**
+
+astrair astrāṇi saṃvārya chittvā sarvāyudhāni ca prāptam apy ahitaṃ drauṇir na jaghāna raṇepsayā
+
+**8.15.35**
+
+hateśvaro dantivaraḥ sukalpitas; tvarābhisṛṣṭaḥ pratiśarmago balī tam adhyatiṣṭhan malayeśvaro mahān; yathādriśṛṅgaṃ harir unnadaṃs tathā
+
+**8.15.36**
+
+sa tomaraṃ bhāskararaśmisaṃnibhaṃ; balāstrasargottamayatnamanyubhiḥ sasarja śīghraṃ pratipīḍayan gajaṃ; guroḥ sutāyādripatīśvaro nadan
+
+**8.15.37**
+
+maṇipratānottamavajrahāṭakair; alaṃkṛtaṃ cāṃśukamālyamauktikaiḥ hato 'sy asāv ity asakṛn mudā nadan; parābhinad drauṇivarāṅgabhūṣaṇam
+
+**8.15.38**
+
+tad arkacandragrahapāvakatviṣaṃ; bhṛśābhighātāt patitaṃ vicūrṇitam mahendravajrābhihataṃ mahāvanaṃ; yathādriśṛṅgaṃ dharaṇītale tathā
+
+**8.15.39**
+
+tataḥ prajajvāla pareṇa manyunā; padāhato nāgapatir yathā tathā samādadhe cāntakadaṇḍasaṃnibhān; iṣūn amitrāntakarāṃś caturdaśa
+
+**8.15.40**
+
+dvipasya pādāgrakarān sa pañcabhir; nṛpasya bāhū ca śiro 'tha ca tribhiḥ jaghāna ṣaḍbhiḥ ṣaḍ ṛtūttamatviṣaḥ; sa pāṇḍyarājānucarān mahārathān
+
+**8.15.41**
+
+sudīrghavṛttau varacandanokṣitau; suvarṇamuktāmaṇivajrabhūṣitau bhujau dharāyāṃ patitau nṛpasya tau; viveṣṭatus tārkṣyahatāv ivoragau
+
+**8.15.42**
+
+śiraś ca tat pūrṇaśaśiprabhānanaṃ; saroṣatāmrāyatanetram unnasam kṣitau vibabhrāja patat sakuṇḍalaṃ; viśākhayor madhyagataḥ śaśī yathā
+
+**8.15.43**
+
+samāptavidyaṃ tu guroḥ sutaṃ nṛpaḥ; samāptakarmāṇam upetya te sutaḥ suhṛdvṛto 'tyartham apūjayan mudā; jite balau viṣṇum ivāmareśvaraḥ
+
+**8.16.1**
+
+dhṛtarāṣṭra uvāca pāṇḍye hate kim akarod arjuno yudhi saṃjaya ekavīreṇa karṇena drāviteṣu pareṣu ca
+
+**8.16.2**
+
+samāptavidyo balavān yukto vīraś ca pāṇḍavaḥ sarvabhūteṣv anujñātaḥ śaṃkareṇa mahātmanā
+
+**8.16.3**
+
+tasmān mahad bhayaṃ tīvram amitraghnād dhanaṃjayāt sa yat tatrākarot pārthas tan mamācakṣva saṃjaya
+
+**8.16.4**
+
+saṃjaya uvāca hate pāṇḍye 'rjunaṃ kṛṣṇas tvarann āha vaco hitam paśyātimānyaṃ rājānam apayātāṃś ca pāṇḍavān
+
+**8.16.5**
+
+aśvatthāmnaś ca saṃkalpād dhatāḥ karṇena sṛñjayāḥ tathāśvanaranāgānāṃ kṛtaṃ ca kadanaṃ mahat ity ācaṣṭa sudurdharṣo vāsudevaḥ kirīṭine
+
+**8.16.6**
+
+etac chrutvā ca dṛṣṭvā ca bhrātur ghoraṃ mahad bhayam vāhayāśvān hṛṣīkeśa kṣipram ity āha pāṇḍavaḥ
+
+**8.16.7**
+
+tataḥ prāyād dhṛṣīkeśo rathenāpratiyodhinā dāruṇaś ca punas tatra prādurāsīt samāgamaḥ
+
+**8.16.8**
+
+tataḥ pravavṛte bhūyaḥ saṃgrāmo rājasattama karṇasya pāṇḍavānāṃ ca yamarāṣṭravivardhanaḥ
+
+**8.16.9**
+
+dhanūṃṣi bāṇān parighān asitomarapaṭṭiśān musalāni bhuśuṇḍīś ca śaktiṛṣṭiparaśvadhān
+
+**8.16.10**
+
+gadāḥ prāsān asīn kuntān bhiṇḍipālān mahāṅkuśān pragṛhya kṣipram āpetuḥ parasparajigīṣayā
+
+**8.16.11**
+
+bāṇajyātalaśabdena dyāṃ diśaḥ pradiśo viyat pṛthivīṃ nemighoṣeṇa nādayanto 'bhyayuḥ parān
+
+**8.16.12**
+
+tena śabdena mahatā saṃhṛṣṭāś cakrur āhavam vīrā vīrair mahāghoraṃ kalahāntaṃ titīrṣavaḥ
+
+**8.16.13**
+
+jyātalatradhanuḥśabdāḥ kuñjarāṇāṃ ca bṛṃhitam tāḍitānāṃ ca patatāṃ ninādaḥ sumahān abhūt
+
+**8.16.14**
+
+bāṇaśabdāṃś ca vividhāñ śūrāṇām abhigarjatām śrutvā śabdaṃ bhṛśaṃ tresur jaghnur mamluś ca bhārata
+
+**8.16.15**
+
+teṣāṃ nānadyatāṃ caiva śastravṛṣṭiṃ ca muñcatām bahūn ādhirathiḥ karṇaḥ pramamātha raṇeṣubhiḥ
+
+**8.16.16**
+
+pañca pāñcālavīrāṇāṃ rathān daśa ca pañca ca sāśvasūtadhvajān karṇaḥ śarair ninye yamakṣayam
+
+**8.16.17**
+
+yodhamukhyā mahāvīryāḥ pāṇḍūnāṃ karṇam āhave śīghrāstrā divam āvṛtya parivavruḥ samantataḥ
+
+**8.16.18**
+
+tataḥ karṇo dviṣatsenāṃ śaravarṣair viloḍayan vijagāhe 'ṇḍajāpūrṇāṃ padminīm iva yūthapaḥ
+
+**8.16.19**
+
+dviṣanmadhyam avaskandya rādheyo dhanur uttamam vidhunvānaḥ śitair bāṇaiḥ śirāṃsy unmathya pātayat
+
+**8.16.20**
+
+carmavarmāṇi saṃchindya nirvāpam iva dehinām viṣehur nāsya saṃparkaṃ dvitīyasya patatriṇaḥ
+
+**8.16.21**
+
+varmadehāsumathanair dhanuṣaḥ pracyutaiḥ śaraiḥ maurvyā talatrair nyavadhīt kaśayā vājino yathā
+
+**8.16.22**
+
+pāṇḍusṛñjayapāñcālāñ śaragocaram ānayat mamarda karṇas tarasā siṃho mṛgagaṇān iva
+
+**8.16.23**
+
+tataḥ pāñcālaputrāś ca draupadeyāś ca māriṣa yamau ca yuyudhānaś ca sahitāḥ karṇam abhyayuḥ
+
+**8.16.24**
+
+vyāyacchamānāḥ subhṛśaṃ kurupāṇḍavasṛñjayāḥ priyān asūn raṇe tyaktvā yodhā jagmuḥ parasparam
+
+**8.16.25**
+
+susaṃnaddhāḥ kavacinaḥ saśirastrāṇabhūṣaṇāḥ gadābhir musalaiś cānye parighaiś ca mahārathāḥ
+
+**8.16.26**
+
+samabhyadhāvanta bhṛśaṃ devā daṇḍair ivodyataiḥ nadantaś cāhvayantaś ca pravalgantaś ca māriṣa
+
+**8.16.27**
+
+tato nijaghnur anyonyaṃ petuś cāhavatāḍitāḥ vamanto rudhiraṃ gātrair vimastiṣkekṣaṇā yudhi
+
+**8.16.28**
+
+dantapūrṇaiḥ sarudhirair vaktrair dāḍimasaṃnibhaiḥ jīvanta iva cāpy ete tasthuḥ śastropabṛṃhitāḥ
+
+**8.16.29**
+
+parasparaṃ cāpy apare paṭṭiśair asibhis tathā śaktibhir bhiṇḍipālaiś ca nakharaprāsatomaraiḥ
+
+**8.16.30**
+
+tatakṣuś cicchiduś cānye bibhiduś cikṣipus tathā saṃcakartuś ca jaghnuś ca kruddhā nirbibhiduś ca ha
+
+**8.16.31**
+
+petur anyonyanihatā vyasavo rudhirokṣitāḥ kṣarantaḥ svarasaṃ raktaṃ prakṛtāś candanā iva
+
+**8.16.32**
+
+rathai rathā vinihatā hastinaś cāpi hastibhiḥ narā naravaraiḥ petur aśvāś cāśvaiḥ sahasraśaḥ
+
+**8.16.33**
+
+dhvajāḥ śirāṃsi cchatrāṇi dvipahastā nṛṇāṃ bhujāḥ kṣurair bhallārdhacandraiś ca chinnāḥ śastrāṇi tatyajuḥ
+
+**8.16.34**
+
+narāṃś ca nāgāṃś ca rathān hayān mamṛdur āhave aśvārohair hatāḥ śūrāś chinnahastāś ca dantinaḥ
+
+**8.16.35**
+
+sapatākā dhvajāḥ petur viśīrṇā iva parvatāḥ pattibhiś ca samāplutya dviradāḥ syandanās tathā
+
+**8.16.36**
+
+prahatā hanyamānāś ca patitāś caiva sarvaśaḥ aśvārohāḥ samāsādya tvaritāḥ pattibhir hatāḥ sādibhiḥ pattisaṃghāś ca nihatā yudhi śerate
+
+**8.16.37**
+
+mṛditānīva padmāni pramlānā iva ca srajaḥ hatānāṃ vadanāny āsan gātrāṇi ca mahāmate
+
+**8.16.38**
+
+rūpāṇy atyarthakāmyāni dviradāśvanṛṇāṃ nṛpa samunnānīva vastrāṇi prāpur durdarśatāṃ param
+
+**8.17.1**
+
+saṃjaya uvāca hastibhis tu mahāmātrās tava putreṇa coditāḥ dhṛṣṭadyumnaṃ jighāṃsantaḥ kruddhāḥ pārṣatam abhyayuḥ
+
+**8.17.2**
+
+prācyāś ca dākṣiṇātyāś ca pravīrā gajayodhinaḥ aṅgā vaṅgāś ca puṇḍrāś ca māgadhās tāmraliptakāḥ
+
+**8.17.3**
+
+mekalāḥ kośalā madrā daśārṇā niṣadhās tathā gajayuddheṣu kuśalāḥ kaliṅgaiḥ saha bhārata
+
+**8.17.4**
+
+śaratomaranārācair vṛṣṭimanta ivāmbudāḥ siṣicus te tataḥ sarve pāñcālācalam āhave
+
+**8.17.5**
+
+tān saṃmimardiṣur nāgān pārṣṇyaṅguṣṭhāṅkuśair bhṛśam pothitān pārṣato bāṇair nārācaiś cābhyavīvṛṣat
+
+**8.17.6**
+
+ekaikaṃ daśabhiḥ ṣaḍbhir aṣṭābhir api bhārata dviradān abhivivyādha kṣiptair girinibhāñ śaraiḥ pracchādyamāno dviradair meghair iva divākaraḥ
+
+**8.17.7**
+
+paryāsuḥ pāṇḍupāñcālā nadanto niśitāyudhāḥ tān nāgān abhivarṣanto jyātantrīśaranāditaiḥ
+
+**8.17.8**
+
+nakulaḥ sahadevaś ca draupadeyāḥ prabhadrakāḥ sātyakiś ca śikhaṇḍī ca cekitānaś ca vīryavān
+
+**8.17.9**
+
+te mlecchaiḥ preṣitā nāgā narān aśvān rathān api hastair ākṣipya mamṛduḥ padbhiś cāpy atimanyavaḥ
+
+**8.17.10**
+
+bibhiduś ca viṣāṇāgraiḥ samākṣipya ca cikṣipuḥ viṣāṇalagnaiś cāpy anye paripetur vibhīṣaṇāḥ
+
+**8.17.11**
+
+pramukhe vartamānaṃ tu dvipaṃ vaṅgasya sātyakiḥ nārācenogravegena bhittvā marmaṇy apātayat
+
+**8.17.12**
+
+tasyāvarjitanāgasya dviradād utpatiṣyataḥ nārācenābhinad vakṣaḥ so 'patad bhuvi sātyakeḥ
+
+**8.17.13**
+
+puṇḍrasyāpatato nāgaṃ calantam iva parvatam sahadevaḥ prayatnāt tair nārācair vyahanat tribhiḥ
+
+**8.17.14**
+
+vipatākaṃ viyantāraṃ vivarmadhvajajīvitam taṃ kṛtvā dviradaṃ bhūyaḥ sahadevo 'ṅgam abhyagāt
+
+**8.17.15**
+
+sahadevaṃ tu nakulo vārayitvāṅgam ārdayat nārācair yamadaṇḍābhais tribhir nāgaṃ śatena ca
+
+**8.17.16**
+
+divākarakaraprakhyān aṅgaś cikṣepa tomarān nakulāya śatāny aṣṭau tridhaikaikaṃ tu so 'cchinat
+
+**8.17.17**
+
+tathārdhacandreṇa śiras tasya ciccheda pāṇḍavaḥ sa papāta hato mlecchas tenaiva saha dantinā
+
+**8.17.18**
+
+ācāryaputre nihate hastiśikṣāviśārade aṅgāḥ kruddhā mahāmātrā nāgair nakulam abhyayuḥ
+
+**8.17.19**
+
+calatpatākaiḥ pramukhair hemakakṣyātanucchadaiḥ mimardiśantas tvaritāḥ pradīptair iva parvataiḥ
+
+**8.17.20**
+
+mekalotkalakāliṅgā niṣādās tāmraliptakāḥ śaratomaravarṣāṇi vimuñcanto jighāṃsavaḥ
+
+**8.17.21**
+
+taiś chādyamānaṃ nakulaṃ divākaram ivāmbudaiḥ pari petuḥ susaṃrabdhāḥ pāṇḍupāñcālasomakāḥ
+
+**8.17.22**
+
+tatas tad abhavad yuddhaṃ rathināṃ hastibhiḥ saha sṛjatāṃ śaravarṣāṇi tomarāṃś ca sahasraśaḥ
+
+**8.17.23**
+
+nāgānāṃ prasphuṭuḥ kumbhā marmāṇi vividhāni ca dantāś caivātividdhānāṃ nārācair bhūṣaṇāni ca
+
+**8.17.24**
+
+teṣām aṣṭau mahānāgāṃś catuḥṣaṣṭyā sutejanaiḥ sahadevo jaghānāśu te petuḥ saha sādibhiḥ
+
+**8.17.25**
+
+añjogatibhir āyamya prayatnād dhanur uttamam nārācair ahanan nāgān nakulaḥ kuranandana
+
+**8.17.26**
+
+tataḥ śaineyapāñcālyau draupadeyāḥ prabhadrakāḥ śikhaṇḍī ca mahānāgān siṣicuḥ śaravṛṣṭibhiḥ
+
+**8.17.27**
+
+te pāṇḍuyodhāmbudharaiḥ śatrudviradaparvatāḥ bāṇavarṣair hatāḥ petur vajravarṣair ivācalāḥ
+
+**8.17.28**
+
+evaṃ hatvā tava gajāṃs te pāṇḍunarakuñjarāḥ drutaṃ senām avaikṣanta bhinnakūlām ivāpagām
+
+**8.17.29**
+
+te tāṃ senām avālokya pāṇḍuputrasya sainikāḥ vikṣobhayitvā ca punaḥ karṇam evābhidudruvuḥ
+
+**8.17.30**
+
+sahadevaṃ tataḥ kruddhaṃ dahantaṃ tava vāhinīm duḥśāsano mahārāja bhrātā bhrātaram abhyayāt
+
+**8.17.31**
+
+tau sametau mahāyuddhe dṛṣṭvā tatra narādhipāḥ siṃhanādaravāṃś cakrur vāsāṃsy ādudhuvuś ca ha
+
+**8.17.32**
+
+tato bhārata kruddhena tava putreṇa dhanvinā pāṇḍuputras tribhir bāṇair vakṣasy abhihato balī
+
+**8.17.33**
+
+sahadevas tato rājan nārācena tavātmajam viddhvā vivyādha saptatyā sārathiṃ ca tribhis tribhiḥ
+
+**8.17.34**
+
+duḥśāsanas tadā rājaṃś chittvā cāpaṃ mahāhave sahadevaṃ trisaptatyā bāhvor urasi cārdayat
+
+**8.17.35**
+
+sahadevas tataḥ kruddhaḥ khaḍgaṃ gṛhya mahāhave vyāvidhyata yudhāṃ śreṣṭhaḥ śrīmāṃs tava sutaṃ prati
+
+**8.17.36**
+
+samārgaṇagaṇaṃ cāpaṃ chittvā tasya mahān asiḥ nipapāta tato bhūmau cyutaḥ sarpa ivāmbarāt
+
+**8.17.37**
+
+athānyad dhanur ādāya sahadevaḥ pratāpavān duḥśāsanāya cikṣepa bāṇam antakaraṃ tataḥ
+
+**8.17.38**
+
+tam āpatantaṃ viśikhaṃ yamadaṇḍopamatviṣam khaḍgena śitadhāreṇa dvidhā ciccheda kauravaḥ
+
+**8.17.39**
+
+tam āpatantaṃ sahasā nistriṃśaṃ niśitaiḥ śaraiḥ pātayām āsa samare sahadevo hasann iva
+
+**8.17.40**
+
+tato bāṇāṃś catuḥṣaṣṭiṃ tava putro mahāraṇe sahadevarathe tūrṇaṃ pātayām āsa bhārata
+
+**8.17.41**
+
+tāñ śarān samare rājan vegenāpatato bahūn ekaikaṃ pañcabhir bāṇaiḥ sahadevo nyakṛntata
+
+**8.17.42**
+
+sa nivārya mahābāṇāṃs tava putreṇa preṣitān athāsmai subahūn bāṇān mādrīputraḥ samācinot
+
+**8.17.43**
+
+tataḥ kruddho mahārāja sahadevaḥ pratāpavān samādhatta śaraṃ ghoraṃ mṛtyukālāntakopamam vikṛṣya balavac cāpaṃ tava putrāya so 'sṛjat
+
+**8.17.44**
+
+sa taṃ nirbhidya vegena bhittvā ca kavacaṃ mahat prāviśad dharaṇīṃ rājan valmīkam iva pannagaḥ tataḥ sa mumuhe rājaṃs tava putro mahārathaḥ
+
+**8.17.45**
+
+mūḍhaṃ cainaṃ samālakṣya sārathis tvarito ratham apovāha bhṛśaṃ trasto vadhyamānaṃ śitaiḥ śaraiḥ
+
+**8.17.46**
+
+parājitya raṇe taṃ tu pāṇḍavaḥ pāṇḍupūrvaja duryodhanabalaṃ hṛṣṭaḥ prāmathad vai samantataḥ
+
+**8.17.47**
+
+pipīlikāpuṭaṃ rājan yathāmṛdnān naro ruṣā tathā sā kauravī senā mṛditā tena bhārata
+
+**8.17.48**
+
+nakulaṃ rabhasaṃ yuddhe dārayantaṃ varūthinīm karṇo vaikartano rājan vārayām āsa vai tadā
+
+**8.17.49**
+
+nakulaś ca tadā karṇaṃ prahasann idam abravīt cirasya bata dṛṣṭo 'haṃ daivataiḥ saumyacakṣuṣā
+
+**8.17.50**
+
+yasya me tvaṃ raṇe pāpa cakṣurviṣayam āgataḥ tvaṃ hi mūlam anarthānāṃ vairasya kalahasya ca
+
+**8.17.51**
+
+tvaddoṣāt kuravaḥ kṣīṇāḥ samāsādya parasparam tvām adya samare hatvā kṛtakṛtyo 'smi vijvaraḥ
+
+**8.17.52**
+
+evam uktaḥ pratyuvāca nakulaṃ sūtanandanaḥ sadṛśaṃ rājaputrasya dhanvinaś ca viśeṣataḥ
+
+**8.17.53**
+
+praharasva raṇe bāla paśyāmas tava pauruṣam karma kṛtvā raṇe śūra tataḥ katthitum arhasi
+
+**8.17.54**
+
+anuktvā samare tāta śūrā yudhyanti śaktitaḥ sa yudhyasva mayā śaktyā vineṣye darpam adya te
+
+**8.17.55**
+
+ity uktvā prāharat tūrṇaṃ pāṇḍuputrāya sūtajaḥ vivyādha cainaṃ samare trisaptatyā śilīmukhaiḥ
+
+**8.17.56**
+
+nakulas tu tato viddhaḥ sūtaputreṇa bhārata aśītyāśīviṣaprakhyaiḥ sūtaputram avidhyata
+
+**8.17.57**
+
+tasya karṇo dhanuś chittvā svarṇapuṅkhaiḥ śilāśitaiḥ triṃśatā parameṣvāsaḥ śaraiḥ pāṇḍavam ārdayat
+
+**8.17.58**
+
+te tasya kavacaṃ bhittvā papuḥ śoṇitam āhave āśīviṣā yathā nāgā bhittvā gāṃ salilaṃ papuḥ
+
+**8.17.59**
+
+athānyad dhanur ādāya hemapṛṣṭhaṃ durāsadam karṇaṃ vivyādha viṃśatyā sārathiṃ ca tribhiḥ śaraiḥ
+
+**8.17.60**
+
+tataḥ kruddho mahārāja nakulaḥ paravīrahā kṣurapreṇa sutīkṣṇena karṇasya dhanur acchinat
+
+**8.17.61**
+
+athainaṃ chinnadhanvānaṃ sāyakānāṃ śatais tribhiḥ ājaghne prahasan vīraḥ sarvalokamahāratham
+
+**8.17.62**
+
+karṇam abhyarditaṃ dṛṣṭvā pāṇḍuputreṇa māriṣa vismayaṃ paramaṃ jagmū rathinaḥ saha daivataiḥ
+
+**8.17.63**
+
+athānyad dhanur ādāya karṇo vaikartanas tadā nakulaṃ pañcabhir bāṇair jatrudeśe samārdayat
+
+**8.17.64**
+
+uraḥsthair atha tair bāṇair mādrīputro vyarocata svaraśmibhir ivādityo bhuvane visṛjan prabhām
+
+**8.17.65**
+
+nakulas tu tataḥ karṇaṃ viddhvā saptabhir āyasaiḥ athāsya dhanuṣaḥ koṭiṃ punaś ciccheda māriṣa
+
+**8.17.66**
+
+so 'nyat kārmukam ādāya samare vegavattaram nakulasya tato bāṇaiḥ sarvato 'vārayad diśaḥ
+
+**8.17.67**
+
+saṃchādyamānaḥ sahasā karṇacāpacyutaiḥ śaraiḥ ciccheda sa śarāṃs tūrṇaṃ śarair eva mahārathaḥ
+
+**8.17.68**
+
+tato bāṇamayaṃ jālaṃ vitataṃ vyomny adṛśyata khadyotānāṃ gaṇair eva saṃpatadbhir yathā nabhaḥ
+
+**8.17.69**
+
+tair vimuktaiḥ śaraśataiś chāditaṃ gaganaṃ tadā śalabhānāṃ yathā vrātais tadvad āsīt samākulam
+
+**8.17.70**
+
+te śarā hemavikṛtāḥ saṃpatanto muhur muhuḥ śreṇīkṛtā abhāsanta haṃsāḥ śreṇīgatā iva
+
+**8.17.71**
+
+bāṇajālāvṛte vyomni chādite ca divākare samasarpat tato bhūtaṃ kiṃ cid eva viśāṃ pate
+
+**8.17.72**
+
+niruddhe tatra mārge tu śarasaṃghaiḥ samantataḥ vyarocatāṃ mahābhāgau bālasūryāv ivoditau
+
+**8.17.73**
+
+karṇacāpacyutair bāṇair vadhyamānās tu somakāḥ avālīyanta rājendra vedanārtāḥ śarārditāḥ
+
+**8.17.74**
+
+nakulasya tathā bāṇair vadhyamānā camūs tava vyaśīryata diśo rājan vātanunnā ivāmbudāḥ
+
+**8.17.75**
+
+te sene vadhyamāne tu tābhyāṃ divyair mahāśaraiḥ śarapātam apakramya tataḥ prekṣakavat sthite
+
+**8.17.76**
+
+protsārite jane tasmin karṇapāṇḍavayoḥ śaraiḥ vivyādhāte mahātmānāv anyonyaṃ śaravṛṣṭibhiḥ
+
+**8.17.77**
+
+nidarśayantau tv astrāṇi divyāni raṇamūrdhani chādayantau ca sahasā parasparavadhaiṣiṇau
+
+**8.17.78**
+
+nakulena śarā muktāḥ kaṅkabarhiṇavāsasaḥ te tu karṇam avacchādya vyatiṣṭhanta yathā pare
+
+**8.17.79**
+
+śaraveśmapraviṣṭau tau dadṛśāte na kaiś cana candrasūryau yathā rājaṃś chādyamānau jalāgame
+
+**8.17.80**
+
+tataḥ kruddho raṇe karṇaḥ kṛtvā ghorataraṃ vapuḥ pāṇḍavaṃ chādayām āsa samantāc charavṛṣṭibhiḥ
+
+**8.17.81**
+
+sa cchādyamānaḥ samare sūtaputreṇa pāṇḍavaḥ na cakāra vyathāṃ rājan bhāskaro jaladair yathā
+
+**8.17.82**
+
+tataḥ prahasyādhirathiḥ śarajālāni māriṣa preṣayām āsa samare śataśo 'tha sahasraśaḥ
+
+**8.17.83**
+
+ekacchāyam abhūt sarvaṃ tasya bāṇair mahātmanaḥ abhracchāyeva saṃjajñe saṃpatadbhiḥ śarottamaiḥ
+
+**8.17.84**
+
+tataḥ karṇo mahārāja dhanuś chittvā mahātmanaḥ sārathiṃ pātayām āsa rathanīḍād dhasann iva
+
+**8.17.85**
+
+tathāśvāṃś caturaś cāsya caturbhir niśitaiḥ śaraiḥ yamasya sadanaṃ tūrṇaṃ preṣayām āsa bhārata
+
+**8.17.86**
+
+athāsya taṃ rathaṃ tūrṇaṃ tilaśo vyadhamac charaiḥ patākāṃ cakrarakṣau ca dhvajaṃ khaḍgaṃ ca māriṣa śatacandraṃ tataś carma sarvopakaraṇāni ca
+
+**8.17.87**
+
+hatāśvo virathaś caiva vivarmā ca viśāṃ pate avatīrya rathāt tūrṇaṃ parighaṃ gṛhya viṣṭhitaḥ
+
+**8.17.88**
+
+tam udyataṃ mahāghoraṃ parighaṃ tasya sūtajaḥ vyahanat sāyakai rājañ śataśo 'tha sahasraśaḥ
+
+**8.17.89**
+
+vyāyudhaṃ cainam ālakṣya śaraiḥ saṃnataparvabhiḥ ārdayad bahuśaḥ karṇo na cainaṃ samapīḍayat
+
+**8.17.90**
+
+sa vadhyamānaḥ samare kṛtāstreṇa balīyasā prādravat sahasā rājan nakulo vyākulendriyaḥ
+
+**8.17.91**
+
+tam abhidrutya rādheyaḥ prahasan vai punaḥ punaḥ sajyam asya dhanuḥ kaṇṭhe so 'vāsṛjata bhārata
+
+**8.17.92**
+
+tataḥ sa śuśubhe rājan kaṇṭhāsaktamahādhanuḥ pariveṣam anuprāpto yathā syād vyomni candramāḥ yathaiva ca sito meghaḥ śakracāpena śobhitaḥ
+
+**8.17.93**
+
+tam abravīt tadā karṇo vyarthaṃ vyāhṛtavān asi vadedānīṃ punar hṛṣṭo vadhyaṃ māṃ tvaṃ punaḥ punaḥ
+
+**8.17.94**
+
+mā yotsīr gurubhiḥ sārdhaṃ balavadbhiś ca pāṇḍava sadṛśais tāta yudhyasva vrīḍāṃ mā kuru pāṇḍava gṛhaṃ vā gaccha mādreya yatra vā kṛṣṇaphalgunau
+
+**8.17.95**
+
+evam uktvā mahārāja vyasarjayata taṃ tataḥ vadhaprāptaṃ tu taṃ rājan nāvadhīt sūtanandanaḥ smṛtvā kuntyā vaco rājaṃs tata enaṃ vyasarjayat
+
+**8.17.96**
+
+visṛṣṭaḥ pāṇḍavo rājan sūtaputreṇa dhanvinā vrīḍann iva jagāmātha yudhiṣṭhirarathaṃ prati
+
+**8.17.97**
+
+āruroha rathaṃ cāpi sūtaputrapratāpitaḥ niḥśvasan duḥkhasaṃtaptaḥ kumbhe kṣipta ivoragaḥ
+
+**8.17.98**
+
+taṃ visṛjya raṇe karṇaḥ pāñcālāṃs tvarito yayau rathenātipatākena candravarṇahayena ca
+
+**8.17.99**
+
+tatrākrando mahān āsīt pāṇḍavānāṃ viśāṃ pate dṛṣṭvā senāpatiṃ yāntaṃ pāñcālānāṃ rathavrajān
+
+**8.17.100**
+
+tatrākaron mahārāja kadanaṃ sūtanandanaḥ madhyaṃ gate dinakare cakravat pracaran prabhuḥ
+
+**8.17.101**
+
+bhagnacakrai rathaiḥ ke cic chinnadhvajapatākibhiḥ sasūtair hatasūtaiś ca bhagnākṣaiś caiva māriṣa hriyamāṇān apaśyāma pāñcālānāṃ rathavrajān
+
+**8.17.102**
+
+tatra tatra ca saṃbhrāntā vicerur mattakuñjarāḥ davāgninā parītāṅgā yathaiva syur mahāvane
+
+**8.17.103**
+
+bhinnakumbhā virudhirāś chinnahastāś ca vāraṇāḥ bhinnagātravarāś caiva cchinnavālāś ca māriṣa chinnābhrāṇīva saṃpetur vadhyamānā mahātmanā
+
+**8.17.104**
+
+apare trāsitā nāgā nārācaśatatomaraiḥ tam evābhimukhā yānti śalabhā iva pāvakam
+
+**8.17.105**
+
+apare niṣṭanantaḥ sma vyadṛśyanta mahādvipāḥ kṣarantaḥ śoṇitaṃ gātrair nagā iva jalaplavam
+
+**8.17.106**
+
+uraśchadair vimuktāś ca vālabandhaiś ca vājinaḥ rājataiś ca tathā kāṃsyaiḥ sauvarṇaiś caiva bhūṣaṇaiḥ
+
+**8.17.107**
+
+hīnā āstaraṇaiś caiva khalīnaiś ca vivarjitāḥ cāmaraiś ca kuthābhiś ca tūṇīraiḥ patitair api
+
+**8.17.108**
+
+nihataiḥ sādibhiś caiva śūrair āhavaśobhibhiḥ apaśyāma raṇe tatra bhrāmyamāṇān hayottamān
+
+**8.17.109**
+
+prāsaiḥ khaḍgaiś ca saṃsyūtān ṛṣṭibhiś ca narādhipa hayayodhān apaśyāma kañcukoṣṇīṣadhāriṇaḥ
+
+**8.17.110**
+
+rathān hemapariṣkārān suyuktāñ javanair hayaiḥ bhramamāṇān apaśyāma hateṣu rathiṣu drutam
+
+**8.17.111**
+
+bhagnākṣakūbarān kāṃś cic chinnacakrāṃś ca māriṣa vipatākādhvajāṃś cānyāñ chinneṣāyugabandhurān
+
+**8.17.112**
+
+vihīnān rathinas tatra dhāvamānān samantataḥ sūryaputraśarais trastān apaśyāma viśāṃ pate
+
+**8.17.113**
+
+viśastrāṃś ca tathaivānyān saśastrāṃś ca bahūn hatān tāvakāñ jālasaṃchannān uroghaṇṭāvibhūṣitān
+
+**8.17.114**
+
+nānāvarṇavicitrābhiḥ patākābhir alaṃkṛtān padātīn anvapaśyāma dhāvamānān samantataḥ
+
+**8.17.115**
+
+śirāṃsi bāhūn ūrūṃś ca chinnān anyāṃs tathā yudhi karṇacāpacyutair bāṇair apaśyāma vinākṛtān
+
+**8.17.116**
+
+mahān vyatikaro raudro yodhānām anvadṛśyata karṇasāyakanunnānāṃ hatānāṃ niśitaiḥ śaraiḥ
+
+**8.17.117**
+
+te vadhyamānāḥ samare sūtaputreṇa sṛñjayāḥ tam evābhimukhā yānti pataṃgā iva pāvakam
+
+**8.17.118**
+
+taṃ dahantam anīkāni tatra tatra mahāratham kṣatriyā varjayām āsur yugāntāgnim ivolbaṇam
+
+**8.17.119**
+
+hataśeṣās tu ye vīrāḥ pāñcālānāṃ mahārathāḥ tān prabhagnān drutān karṇaḥ pṛṣṭhato vikirañ śaraiḥ abhyadhāvata tejasvī viśīrṇakavacadhvajān
+
+**8.17.120**
+
+tāpayām āsa tān bāṇaiḥ sūtaputro mahārathaḥ madhyaṃdinam anuprāpto bhūtānīva tamonudaḥ
+
+**8.18.1**
+
+saṃjaya uvāca yuyutsuṃ tava putraṃ tu prādravantaṃ mahad balam ulūko 'bhyapatat tūrṇaṃ tiṣṭha tiṣṭheti cābravīt
+
+**8.18.2**
+
+yuyutsus tu tato rājañ śitadhāreṇa patriṇā ulūkaṃ tāḍayām āsa vajreṇendra ivācalam
+
+**8.18.3**
+
+ulūkas tu tataḥ kruddhas tava putrasya saṃyuge kṣurapreṇa dhanuś chittvā tāḍayām āsa karṇinā
+
+**8.18.4**
+
+tad apāsya dhanuś chinnaṃ yuyutsur vegavattaram anyad ādatta sumahac cāpaṃ saṃraktalocanaḥ
+
+**8.18.5**
+
+śākuniṃ ca tataḥ ṣaṣṭyā vivyādha bharatarṣabha sārathiṃ tribhir ānarchat taṃ ca bhūyo vyavidhyata
+
+**8.18.6**
+
+ulūkas taṃ tu viṃśatyā viddhvā hemavibhūṣitaiḥ athāsya samare kruddho dhvajaṃ ciccheda kāñcanam
+
+**8.18.7**
+
+sa cchinnayaṣṭiḥ sumahāñ śīryamāṇo mahādhvajaḥ papāta pramukhe rājan yuyutsoḥ kāñcanojjvalaḥ
+
+**8.18.8**
+
+dhvajam unmathitaṃ dṛṣṭvā yuyutsuḥ krodhamūrchitaḥ ulūkaṃ pañcabhir bāṇair ājaghāna stanāntare
+
+**8.18.9**
+
+ulūkas tasya bhallena tailadhautena māriṣa śiraś ciccheda sahasā yantur bharatasattama
+
+**8.18.10**
+
+jaghāna caturo 'śvāṃś ca taṃ ca vivyādha pañcabhiḥ so 'tividdho balavatā pratyapāyād rathāntaram
+
+**8.18.11**
+
+taṃ nirjitya raṇe rājann ulūkas tvarito yayau pāñcālān sṛñjayāṃś caiva vinighnan niśitaiḥ śaraiḥ
+
+**8.18.12**
+
+śatānīkaṃ mahārāja śrutakarmā sutas tava vyaśvasūtarathaṃ cakre nimeṣārdhād asaṃbhramam
+
+**8.18.13**
+
+hatāśve tu rathe tiṣṭhañ śatānīko mahābalaḥ gadāṃ cikṣepa saṃkruddhas tava putrasya māriṣa
+
+**8.18.14**
+
+sā kṛtvā syandanaṃ bhasma hayāṃś caiva sasārathīn papāta dharaṇīṃ tūrṇaṃ dārayantīva bhārata
+
+**8.18.15**
+
+tāv ubhau virathau vīrau kurūṇāṃ kīrtivardhanau apākrametāṃ yuddhārtau prekṣamāṇau parasparam
+
+**8.18.16**
+
+putras tu tava saṃbhrānto vivitso ratham āviśat śatānīko 'pi tvaritaḥ prativindhyarathaṃ gataḥ
+
+**8.18.17**
+
+sutasomas tu śakuniṃ vivyādha niśitaiḥ śaraiḥ nākampayata saṃrabdho vāryogha iva parvatam
+
+**8.18.18**
+
+sutasomas tu taṃ dṛṣṭvā pitur atyantavairiṇam śarair anekasāhasraiś chādayām āsa bhārata
+
+**8.18.19**
+
+tāñ śarāñ śakunis tūrṇaṃ cicchedānyaiḥ patatribhiḥ laghvastraś citrayodhī ca jitakāśī ca saṃyuge
+
+**8.18.20**
+
+nivārya samare cāpi śarāṃs tān niśitaiḥ śaraiḥ ājaghāna susaṃkruddhaḥ sutasomaṃ tribhiḥ śaraiḥ
+
+**8.18.21**
+
+tasyāśvān ketanaṃ sūtaṃ tilaśo vyadhamac charaiḥ syālas tava mahāvīryas tatas te cukruśur janāḥ
+
+**8.18.22**
+
+hatāśvo virathaś caiva chinnadhanvā ca māriṣa dhanvī dhanurvaraṃ gṛhya rathād bhūmāv atiṣṭhata vyasṛjat sāyakāṃś caiva svarṇapuṅkhāñ śilāśitān
+
+**8.18.23**
+
+chādayām āsur atha te tava syālasya taṃ ratham pataṃgānām iva vrātāḥ śaravrātā mahāratham
+
+**8.18.24**
+
+rathopasthān samīkṣyāpi vivyathe naiva saubalaḥ pramṛdnaṃś ca śarāṃs tāṃs tāñ śaravrātair mahāyaśāḥ
+
+**8.18.25**
+
+tatrātuṣyanta yodhāś ca siddhāś cāpi divi sthitāḥ sutasomasya tat karma dṛṣṭvāśraddheyam adbhutam rathasthaṃ nṛpatiṃ taṃ tu padātiḥ sann ayodhayat
+
+**8.18.26**
+
+tasya tīkṣṇair mahāvegair bhallaiḥ saṃnataparvabhiḥ vyahanat kārmukaṃ rājā tūṇīraṃ caiva sarvaśaḥ
+
+**8.18.27**
+
+sa cchinnadhanvā samare khaḍgam udyamya nānadan vaiḍūryotpalavarṇābhaṃ hastidantamayatsarum
+
+**8.18.28**
+
+bhrāmyamāṇaṃ tatas taṃ tu vimalāmbbaravarcasam kālopamaṃ tato mene sutasomasya dhīmataḥ
+
+**8.18.29**
+
+so 'carat sahasā khaḍgī maṇḍalāni sahasraśaḥ caturviṃśan mahārāja śikṣābalasamanvitaḥ
+
+**8.18.30**
+
+saubalas tu tatas tasya śarāṃś cikṣepa vīryavān tān āpatata evāśu ciccheda paramāsinā
+
+**8.18.31**
+
+tataḥ kruddho mahārāja saubalaḥ paravīrahā prāhiṇot sutasomasya śarān āśīviṣopamān
+
+**8.18.32**
+
+ciccheda tāṃś ca khaḍgena śikṣayā ca balena ca darśayaṃl lāghavaṃ yuddhe tārkṣyavīryasamadyutiḥ
+
+**8.18.33**
+
+tasya saṃcarato rājan maṇḍalāvartane tadā kṣurapreṇa sutīkṣṇena khaḍgaṃ ciccheda suprabham
+
+**8.18.34**
+
+sa cchinnaḥ sahasā bhūmau nipapāta mahān asiḥ avaśasya sthitaṃ haste taṃ khaḍgaṃ satsaruṃ tadā
+
+**8.18.35**
+
+chinnam ājñāya nistriṃśam avaplutya padāni ṣaṭ prāvidhyata tataḥ śeṣaṃ sutasomo mahārathaḥ
+
+**8.18.36**
+
+sa cchittvā saguṇaṃ cāpaṃ raṇe tasya mahātmanaḥ papāta dharaṇīṃ tūrṇaṃ svarṇavajravibhūṣitaḥ sutasomas tato 'gacchac chrutakīrter mahāratham
+
+**8.18.37**
+
+saubalo 'pi dhanur gṛhya ghoram anyat suduḥsaham abhyayāt pāṇḍavānīkaṃ nighnañ śatrugaṇān bahūn
+
+**8.18.38**
+
+tatra nādo mahān āsīt pāṇḍavānāṃ viśāṃ pate saubalaṃ samare dṛṣṭvā vicarantam abhītavat
+
+**8.18.39**
+
+tāny anīkāni dṛptāni śastravanti mahānti ca drāvyamāṇāny adṛśyanta saubalena mahātmanā
+
+**8.18.40**
+
+yathā daityacamūṃ rājan devarājo mamarda ha tathaiva pāṇḍavīṃ senāṃ saubaleyo vyanāśayat
+
+**8.18.41**
+
+dhṛṣṭadyumnaṃ kṛpo rājan vārayām āsa saṃyuge yathā dṛptaṃ vane nāgaṃ śarabho vārayed yudhi
+
+**8.18.42**
+
+niruddhaḥ pārṣatas tena gautamena balīyasā padāt padaṃ vicalituṃ nāśaknot tatra bhārata
+
+**8.18.43**
+
+gautamasya vapur dṛṣṭvā dhṛṣṭadyumnarathaṃ prati vitresuḥ sarvabhūtāni kṣayaṃ prāptaṃ ca menire
+
+**8.18.44**
+
+tatrāvocan vimanaso rathinaḥ sādinas tathā droṇasya nidhane nūnaṃ saṃkruddho dvipadāṃ varaḥ
+
+**8.18.45**
+
+śāradvato mahātejā divyāstravid udāradhīḥ api svasti bhaved adya dhṛṣṭadyumnasya gautamāt
+
+**8.18.46**
+
+apīyaṃ vāhinī kṛtsnā mucyeta mahato bhayāt apy ayaṃ brāhmaṇaḥ sarvān na no hanyāt samāgatān
+
+**8.18.47**
+
+yādṛśaṃ dṛśyate rūpam antakapratimaṃ bhṛśam gamiṣyaty adya padavīṃ bhāradvājasya saṃyuge
+
+**8.18.48**
+
+ācāryaḥ kṣiprahastaś ca vijayī ca sadā yudhi astravān vīryasaṃpannaḥ krodhena ca samanvitaḥ
+
+**8.18.49**
+
+pārṣataś ca bhṛśaṃ yuddhe vimukho 'dyāpi lakṣyate ity evaṃ vividhā vācas tāvakānāṃ paraiḥ saha
+
+**8.18.50**
+
+viniḥśvasya tataḥ kruddhaḥ kṛpaḥ śāradvato nṛpa pārṣataṃ chādayām āsa niśceṣṭaṃ sarvamarmasu
+
+**8.18.51**
+
+sa vadhyamānaḥ samare gautamena mahātmanā kartavyaṃ na prajānāti mohitaḥ paramāhave
+
+**8.18.52**
+
+tam abravīt tato yantā kaccit kṣemaṃ nu pārṣata īdṛśaṃ vyasanaṃ yuddhe na te dṛṣṭaṃ kadā cana
+
+**8.18.53**
+
+daivayogāt tu te bāṇā nātaran marmabhedinaḥ preṣitā dvijamukhyena marmāṇy uddiśya sarvaśaḥ
+
+**8.18.54**
+
+vyāvartaye tatra rathaṃ nadīvegam ivārṇavāt avadhyaṃ brāhmaṇaṃ manye yena te vikramo hataḥ
+
+**8.18.55**
+
+dhṛṣṭadyumnas tato rājañ śanakair abravīd vacaḥ muhyate me manas tāta gātre svedaś ca jāyate
+
+**8.18.56**
+
+vepathuṃ ca śarīre me romaharṣaṃ ca paśya vai varjayan brāhmaṇaṃ yuddhe śanair yāhi yato 'cyutaḥ
+
+**8.18.57**
+
+arjunaṃ bhīmasenaṃ vā samare prāpya sārathe kṣemam adya bhaved yantar iti me naiṣṭhikī matiḥ
+
+**8.18.58**
+
+tataḥ prāyān mahārāja sārathis tvarayan hayān yato bhīmo maheṣvāso yuyudhe tava sainikaiḥ
+
+**8.18.59**
+
+pradrutaṃ tu rathaṃ dṛṣṭvā dhṛṣṭadyumnasya māriṣa kirañ śaraśatāny eva gautamo 'nuyayau tadā
+
+**8.18.60**
+
+śaṅkhaṃ ca pūrayām āsa muhur muhur ariṃdamaḥ pārṣataṃ prādravad yantaṃ mahendra iva śambaram
+
+**8.18.61**
+
+śikhaṇḍinaṃ tu samare bhīṣmamṛtyuṃ durāsadam hārdikyo vārayām āsa smayann iva muhur muhuḥ
+
+**8.18.62**
+
+śikhaṇḍī ca samāsādya hṛdikānāṃ mahāratham pañcabhir niśitair bhallair jatrudeśe samārdayat
+
+**8.18.63**
+
+kṛtavarmā tu saṃkruddho bhittvā ṣaṣṭibhir āśugaiḥ dhanur ekena ciccheda hasan rājan mahārathaḥ
+
+**8.18.64**
+
+athānyad dhanur ādāya drupadasyātmajo balī tiṣṭha tiṣṭheti saṃkruddho hārdikyaṃ pratyabhāṣata
+
+**8.18.65**
+
+tato 'sya navatiṃ bāṇān rukmapuṅkhān sutejanān preṣayām āsa rājendra te 'syābhraśyanta varmaṇaḥ
+
+**8.18.66**
+
+vitathāṃs tān samālakṣya patitāṃś ca mahītale kṣurapreṇa sutīkṣṇena kārmukaṃ cicchide balī
+
+**8.18.67**
+
+athainaṃ chinnadhanvānaṃ bhagnaśṛṅgam ivarṣabham aśītyā mārgaṇaiḥ kruddho bāhvor urasi cārdayat
+
+**8.18.68**
+
+kṛtavarmā tu saṃkruddho mārgaṇaiḥ kṛtavikṣataḥ dhanur anyat samādāya samārgaṇagaṇaṃ prabho śikhaṇḍinaṃ bāṇavaraiḥ skandhadeśe 'bhyatāḍayat
+
+**8.18.69**
+
+skandhadeśe sthitair bāṇaiḥ śikhaṇḍī ca rarāja ha śākhāpratānair vimalaiḥ sumahān sa yathā drumaḥ
+
+**8.18.70**
+
+tāv anyonyaṃ bhṛśaṃ viddhvā rudhireṇa samukṣitau anyonyaśṛṅgābhihatau rejatur vṛṣabhāv iva
+
+**8.18.71**
+
+anyonyasya vadhe yatnaṃ kurvāṇau tau mahārathau rathābhyāṃ ceratus tatra maṇḍalāni sahasraśaḥ
+
+**8.18.72**
+
+kṛtavarmā mahārāja pārṣataṃ niśitaiḥ śaraiḥ raṇe vivyādha saptatyā svarṇapuṅkhaiḥ śilāśitaiḥ
+
+**8.18.73**
+
+tato 'sya samare bāṇaṃ bhojaḥ praharatāṃ varaḥ jīvitāntakaraṃ ghoraṃ vyasṛjat tvarayānvitaḥ
+
+**8.18.74**
+
+sa tenābhihato rājan mūrchām āśu samāviśat dhvajayaṣṭiṃ ca sahasā śiśriye kaśmalāvṛtaḥ
+
+**8.18.75**
+
+apovāha raṇāt taṃ tu sārathī rathināṃ varam hārdikyaśarasaṃtaptaṃ niḥśvasantaṃ punaḥ punaḥ
+
+**8.18.76**
+
+parājite tataḥ śūre drupadasya sute prabho prādravat pāṇḍavī senā vadhyamānā samantataḥ
+
+**8.19.1**
+
+saṃjaya uvāca śvetāśvo 'pi mahārāja vyadhamat tāvakaṃ balam yathā vāyuḥ samāsādya tūlarāśiṃ samantataḥ
+
+**8.19.2**
+
+pratyudyayus trigartās taṃ śibayaḥ kauravaiḥ saha śālvāḥ saṃśaptakāś caiva nārāyaṇabalaṃ ca yat
+
+**8.19.3**
+
+satyasenaḥ satyakīrtir mitradevaḥ śrutaṃjayaḥ sauśrutiś citrasenaś ca mitravarmā ca bhārata
+
+**8.19.4**
+
+trigartarājaḥ samare bhrātṛbhiḥ parivāritaḥ putraiś caiva maheṣvāsair nānāśastradharair yudhi
+
+**8.19.5**
+
+te sṛjantaḥ śaravrātān kiranto 'rjunam āhave abhyadravanta samare vāryoghā iva sāgaram
+
+**8.19.6**
+
+te tv arjunaṃ samāsādya yodhāḥ śatasahasraśaḥ agacchan vilayaṃ sarve tārkṣyaṃ dṛṣṭveva pannagāḥ
+
+**8.19.7**
+
+te vadhyamānāḥ samare nājahuḥ pāṇḍavaṃ tadā dahyamānā yathā rājañ śalabhā iva pāvakam
+
+**8.19.8**
+
+satyasenas tribhir bāṇair vivyādha yudhi pāṇḍavam mitradevas triṣaṣṭyā ca candradevaś ca saptabhiḥ
+
+**8.19.9**
+
+mitravarmā trisaptatyā sauśrutiś cāpi pañcabhiḥ śatruṃjayaś ca viṃśatyā suśarmā navabhiḥ śaraiḥ
+
+**8.19.10**
+
+śatruṃjayaṃ ca rājānaṃ hatvā tatra śilāśitaiḥ sauśruteḥ saśirastrāṇaṃ śiraḥ kāyād apāharat tvaritaś candradevaṃ ca śarair ninye yamakṣayam
+
+**8.19.11**
+
+athetarān mahārāja yatamānān mahārathān pañcabhiḥ pañcabhir bāṇair ekaikaṃ pratyavārayat
+
+**8.19.12**
+
+satyasenas tu saṃkruddhas tomaraṃ vyasṛjan mahat samuddiśya raṇe kṛṣṇaṃ siṃhanādaṃ nanāda ca
+
+**8.19.13**
+
+sa nirbhidya bhujaṃ savyaṃ mādhavasya mahātmanaḥ ayasmayo mahācaṇḍo jagāma dharaṇīṃ tadā
+
+**8.19.14**
+
+mādhavasya tu viddhasya tomareṇa mahāraṇe pratodaḥ prāpatad dhastād raśmayaś ca viśāṃ pate
+
+**8.19.15**
+
+sa pratodaṃ punar gṛhya raśmīṃś caiva mahāyaśāḥ vāhayām āsa tān aśvān satyasenarathaṃ prati
+
+**8.19.16**
+
+viṣvaksenaṃ tu nirbhinnaṃ prekṣya pārtho dhanaṃjayaḥ satyasenaṃ śarais tīkṣṇair dārayitvā mahābalaḥ
+
+**8.19.17**
+
+tataḥ suniśitair bāṇai rājñas tasya mahac chiraḥ kuṇḍalopacitaṃ kāyāc cakarta pṛtanāntare
+
+**8.19.18**
+
+taṃ nihatya śitair bāṇair mitravarmāṇam ākṣipat vatsadantena tīkṣṇena sārathiṃ cāsya māriṣa
+
+**8.19.19**
+
+tataḥ śaraśatair bhūyaḥ saṃśaptakagaṇān vaśī pātayām āsa saṃkruddhaḥ śataśo 'tha sahasraśaḥ
+
+**8.19.20**
+
+tato rajatapuṅkhena rājñaḥ śīrṣaṃ mahātmanaḥ mitradevasya ciccheda kṣurapreṇa mahāyaśāḥ suśarmāṇaṃ ca saṃkruddho jatrudeśe samārdayat
+
+**8.19.21**
+
+tataḥ saṃśaptakāḥ sarve parivārya dhanaṃjayam śastraughair mamṛduḥ kruddhā nādayanto diśo daśa
+
+**8.19.22**
+
+abhyarditas tu tair jiṣṇuḥ śakratulyaparākramaḥ aindram astram ameyātmā prāduścakre mahārathaḥ tataḥ śarasahasrāṇi prādurāsan viśāṃ pate
+
+**8.19.23**
+
+dhvajānāṃ chidyamānānāṃ kārmukāṇāṃ ca saṃyuge rathānāṃ sapatākānāṃ tūṇīrāṇāṃ śaraiḥ saha
+
+**8.19.24**
+
+akṣāṇām atha yoktrāṇāṃ cakrāṇāṃ raśmibhiḥ saha kūbarāṇāṃ varūthānāṃ pṛṣatkānāṃ ca saṃyuge
+
+**8.19.25**
+
+aśmanāṃ patatāṃ caiva prāsānām ṛṣṭibhiḥ saha gadānāṃ parighāṇāṃ ca śaktīnāṃ tomaraiḥ saha
+
+**8.19.26**
+
+śataghnīnāṃ sacakrāṇāṃ bhujānām ūrubhiḥ saha kaṇṭhasūtrāṅgadānāṃ ca keyūrāṇāṃ ca māriṣa
+
+**8.19.27**
+
+hārāṇām atha niṣkāṇāṃ tanutrāṇāṃ ca bhārata chatrāṇāṃ vyajanānāṃ ca śirasāṃ mukuṭaiḥ saha aśrūyata mahāñ śabdas tatra tatra viśāṃ pate
+
+**8.19.28**
+
+sakuṇḍalāni svakṣīṇi pūrṇacandranibhāni ca śirāṃsy urvyām adṛśyanta tārāgaṇa ivāmbare
+
+**8.19.29**
+
+susragvīṇi suvāsāṃsi candanenokṣitāni ca śarīrāṇi vyadṛśyanta hatānāṃ ca mahītale gandharvanagarākāraṃ ghoram āyodhanaṃ tadā
+
+**8.19.30**
+
+nihatai rājaputraiś ca kṣatriyaiś ca mahābalaiḥ hastibhiḥ patitaiś caiva turagaiś cābhavan mahī agamyamārgā samare viśīrṇair iva parvataiḥ
+
+**8.19.31**
+
+nāsīc cakrapathaś caiva pāṇḍavasya mahātmanaḥ nighnataḥ śātravān bhallair hastyaśvaṃ cāmitaṃ mahat
+
+**8.19.32**
+
+ā tumbād avasīdanti rathacakrāṇi māriṣa raṇe vicaratas tasya tasmiṃl lohitakardame
+
+**8.19.33**
+
+sīdamānāni cakrāṇi samūhus turagā bhṛśam śrameṇa mahatā yuktā manomārutaraṃhasaḥ
+
+**8.19.34**
+
+vadhyamānaṃ tu tat sainyaṃ pāṇḍuputreṇa dhanvinā prāyaśo vimukhaṃ sarvaṃ nāvatiṣṭhata saṃyuge
+
+**8.19.35**
+
+tāñ jitvā samare jiṣṇuḥ saṃśaptakagaṇān bahūn rarāja sa mahārāja vidhūmo 'gnir iva jvalan
+
+**8.19.36**
+
+yudhiṣṭhiraṃ mahārāja visṛjantaṃ śarān bahūn svayaṃ duryodhano rājā pratyagṛhṇād abhītavat
+
+**8.19.37**
+
+tam āpatantaṃ sahasā tava putraṃ mahābalam dharmarājo drutaṃ viddhvā tiṣṭha tiṣṭheti cābravīt
+
+**8.19.38**
+
+sā ca taṃ prativivyādha navabhir niśitaiḥ śaraiḥ sārathiṃ cāsya bhallena bhṛśaṃ kruddho 'bhyatāḍayat
+
+**8.19.39**
+
+tato yudhiṣṭhiro rājā hemapuṅkhāñ śilīmukhān duryodhanāya cikṣepa trayodaśa śilāśitān
+
+**8.19.40**
+
+caturbhiś caturo vāhāṃs tasya hatvā mahārathaḥ pañcamena śiraḥ kāyāt sārathes tu samākṣipat
+
+**8.19.41**
+
+ṣaṣṭhena ca dhvajaṃ rājñaḥ saptamena ca kārmukam aṣṭamena tathā khaḍgaṃ pātayām āsa bhūtale pañcabhir nṛpatiṃ cāpi dharmarājo 'rdayad bhṛśam
+
+**8.19.42**
+
+hatāśvāt tu rathāt tasmād avaplutya sutas tava uttamaṃ vyasanaṃ prāpto bhūmāv eva vyatiṣṭhata
+
+**8.19.43**
+
+taṃ tu kṛcchragataṃ dṛṣṭvā karṇadrauṇikṛpādayaḥ abhyavartanta sahitāḥ parīpsanto narādhipam
+
+**8.19.44**
+
+atha pāṇḍusutāḥ sarve parivārya yudhiṣṭhiram abhyayuḥ samare rājaṃs tato yuddham avartata
+
+**8.19.45**
+
+atha tūryasahasrāṇi prāvādyanta mahāmṛdhe kṣveḍāḥ kilakilāśabdāḥ prādurāsan mahīpate yad abhyagacchan samare pāñcālāḥ kauravaiḥ saha
+
+**8.19.46**
+
+narā naraiḥ samājagmur vāraṇā varavāraṇaiḥ rathāś ca rathibhiḥ sārdhaṃ hayāś ca hayasādibhiḥ
+
+**8.19.47**
+
+dvaṃdvāny āsan mahārāja prekṣaṇīyāni saṃyuge vismāpanāny acintyāni śastravanty uttamāni ca
+
+**8.19.48**
+
+ayudhyanta mahāvegāḥ parasparavadhaiṣiṇaḥ anyonyaṃ samare jaghnur yodhavratam anuṣṭhitāḥ na hi te samaraṃ cakruḥ pṛṣṭhato vai kathaṃ cana
+
+**8.19.49**
+
+muhūrtam eva tad yuddham āsīn madhuradarśanam tata unmattavad rājan nirmaryādam avartata
+
+**8.19.50**
+
+rathī nāgaṃ samāsādya vicaran raṇamūrdhani preṣayām āsa kālāya śaraiḥ saṃnataparvabhiḥ
+
+**8.19.51**
+
+nāgā hayān samāsādya vikṣipanto bahūn atha drāvayām āsur atyugrās tatra tatra tadā tadā
+
+**8.19.52**
+
+vidrāvya ca bahūn aśvān nāgā rājan balotkaṭāḥ viṣāṇaiś cāpare jaghnur mamṛduś cāpare bhṛśam
+
+**8.19.53**
+
+sāśvārohāṃś ca turagān viṣāṇair bibhidū raṇe aparāṃś cikṣipur vegāt pragṛhyātibalās tathā
+
+**8.19.54**
+
+pādātair āhatā nāgā vivareṣu samantataḥ cakrur ārtasvaraṃ ghoraṃ vyadravanta diśo daśa
+
+**8.19.55**
+
+padātīnāṃ tu sahasā pradrutānāṃ mahāmṛdhe utsṛjyābharaṇaṃ tūrṇam avaplutya raṇājire
+
+**8.19.56**
+
+nimittaṃ manyamānās tu pariṇamya mahāgajāḥ jagṛhur bibhiduś caiva citrāṇy ābharaṇāni ca
+
+**8.19.57**
+
+pratimāneṣu kumbheṣu dantaveṣṭeṣu cāpare nigṛhītā bhṛśaṃ nāgāḥ prāsatomaraśaktibhiḥ
+
+**8.19.58**
+
+nigṛhya ca gadāḥ ke cit pārśvasthair bhṛśadāruṇaiḥ rathāśvasādibhis tatra saṃbhinnā nyapatan bhuvi
+
+**8.19.59**
+
+sarathaṃ sādinaṃ tatra apare tu mahāgajāḥ bhūmāv amṛdnan vegena savarmāṇaṃ patākinam
+
+**8.19.60**
+
+rathaṃ nāgāḥ samāsādya dhuri gṛhya ca māriṣa vyākṣipan sahasā tatra ghorarūpe mahāmṛdhe
+
+**8.19.61**
+
+nārācair nihataś cāpi nipapāta mahāgajaḥ parvatasyeva śikharaṃ vajrabhagnaṃ mahītale
+
+**8.19.62**
+
+yodhā yodhān samāsādya muṣṭibhir vyahanan yudhi keśeṣv anyonyam ākṣipya cicchidur bibhiduḥ saha
+
+**8.19.63**
+
+udyamya ca bhujāv anyo nikṣipya ca mahītale padā coraḥ samākramya sphurato vyahanac chiraḥ
+
+**8.19.64**
+
+mṛtam anyo mahārāja padbhyāṃ tāḍitavāṃs tadā jīvataś ca tathaivānyaḥ śastraṃ kāye nyamajjayat
+
+**8.19.65**
+
+muṣṭiyuddhaṃ mahac cāsīd yodhānāṃ tatra bhārata tathā keśagrahaś cogro bāhuyuddhaṃ ca kevalam
+
+**8.19.66**
+
+samāsaktasya cānyena avijñātas tathāparaḥ jahāra samare prāṇān nānāśastrair anekadhā
+
+**8.19.67**
+
+saṃsakteṣu ca yodheṣu vartamāne ca saṃkule kabandhāny utthitāni sma śataśo 'tha sahasraśaḥ
+
+**8.19.68**
+
+lohitaiḥ sicyamānāni śastrāṇi kavacāni ca mahāraṅgānuraktāni vastrāṇīva cakāśire
+
+**8.19.69**
+
+evam etan mahāyuddhaṃ dāruṇaṃ bhṛśasaṃkulam unmattaraṅgapratimaṃ śabdenāpūrayaj jagat
+
+**8.19.70**
+
+naiva sve na pare rājan vijñāyante śarāturāḥ yoddhavyam iti yudhyante rājāno jayagṛddhinaḥ
+
+**8.19.71**
+
+svān sve jaghnur mahārāja parāṃś caiva samāgatān ubhayoḥ senayor vīrair vyākulaṃ samapadyata
+
+**8.19.72**
+
+rathair bhagnair mahārāja vāraṇaiś ca nipātitaiḥ hayaiś ca patitais tatra naraiś ca vinipātitaiḥ
+
+**8.19.73**
+
+agamyarūpā pṛthivī māṃsaśoṇitakardamā kṣaṇenāsīn mahārāja kṣatajaughapravartinī
+
+**8.19.74**
+
+pāñcālān avadhīt karṇas trigartāṃś ca dhanaṃjayaḥ bhīmasenaḥ kurūn rājan hastyanīkaṃ ca sarvaśaḥ
+
+**8.19.75**
+
+evam eṣa kṣayo vṛttaḥ kurupāṇḍavasenayoḥ aparāhṇe mahārāja kāṅkṣantyor vipulaṃ jayam
+
+**8.20.1**
+
+dhṛtarāṣṭra uvāca atitīvrāṇi duḥkhāni duḥsahāni bahūni ca tavāhaṃ saṃjayāśrauṣaṃ putrāṇāṃ mama saṃkṣayam
+
+**8.20.2**
+
+tathā tu me kathayase yathā yuddhaṃ tu vartate na santi sūta kauravyā iti me naiṣṭhikī matiḥ
+
+**8.20.3**
+
+duryodhanas tu virathaḥ kṛtas tatra mahāraṇe dharmaputraḥ kathaṃ cakre tasmin vā nṛpatiḥ katham
+
+**8.20.4**
+
+aparāhṇe kathaṃ yuddham abhaval lomaharṣaṇam tan mamācakṣva tattvena kuśalo hy asi saṃjaya
+
+**8.20.5**
+
+saṃjaya uvāca saṃsakteṣu ca sainyeṣu yudhyamāneṣu bhāgaśaḥ ratham anyaṃ samāsthāya putras tava viśāṃ pate
+
+**8.20.6**
+
+krodhena mahatāviṣṭaḥ saviṣo bhujago yathā duryodhanas tu dṛṣṭvā vai dharmarājaṃ yudhiṣṭhiram uvāca sūta tvaritaṃ yāhi yāhīti bhārata
+
+**8.20.7**
+
+atra māṃ prāpaya kṣipraṃ sārathe yatra pāṇḍavaḥ dhriyamāṇena chatreṇa rājā rājati daṃśitaḥ
+
+**8.20.8**
+
+sa sūtaś codito rājñā rājñaḥ syandanam uttamam yudhiṣṭhirasyābhimukhaṃ preṣayām āsa saṃyuge
+
+**8.20.9**
+
+tato yudhiṣṭhiraḥ kruddhaḥ pramatta iva sadgavaḥ sārathiṃ codayām āsa yāhi yatra suyodhanaḥ
+
+**8.20.10**
+
+tau samājagmatur vīrau bhrātarau rathasattamau sametya ca mahāvīryau saṃnaddhau yuddhadurmadau tatakṣatur maheṣvāsau śarair anyonyam āhave
+
+**8.20.11**
+
+tato duryodhano rājā dharmaśīlasya māriṣa śilāśitena bhallena dhanuś ciccheda saṃyuge taṃ nāmṛṣyata saṃkruddho vyavasāyaṃ yudhiṣṭhiraḥ
+
+**8.20.12**
+
+apavidhya dhanuś chinnaṃ krodhasaṃraktalocanaḥ anyat kārmukam ādāya dharmaputraś camūmukhe
+
+**8.20.13**
+
+duryodhanasya ciccheda dhvajaṃ kārmukam eva ca athānyad dhanur ādāya pratyavidhyata pāṇḍavam
+
+**8.20.14**
+
+tāv anyonyaṃ susaṃrabdhau śaravarṣāṇy amuñcatām siṃhāv iva susaṃkruddhau parasparajigīṣayā
+
+**8.20.15**
+
+anyonyaṃ jaghnatuś caiva nardamānau vṛṣāv iva anyonyaṃ prekṣamāṇau ca ceratus tau mahārathau
+
+**8.20.16**
+
+tataḥ pūrṇāyatotsṛṣṭair anyonyaṃ sukṛtavraṇau virejatur mahārāja puṣpitāv iva kiṃśukau
+
+**8.20.17**
+
+tato rājan pratibhayān siṃhanādān muhur muhuḥ talayoś ca tathā śabdān dhanuṣoś ca mahāhave
+
+**8.20.18**
+
+śaṅkhaśabdaravāṃś caiva cakratus tau rathottamau anyonyaṃ ca mahārāja pīḍayāṃ cakratur bhṛśam
+
+**8.20.19**
+
+tato yudhiṣṭhiro rājā tava putraṃ tribhiḥ śaraiḥ ājaghānorasi kruddho vajravego durāsadaḥ
+
+**8.20.20**
+
+prativivyādha taṃ tūrṇaṃ tava putro mahīpatim pañcabhir niśitair bāṇair hemapuṅkhaiḥ śilāśitaiḥ
+
+**8.20.21**
+
+tato duryodhano rājā śaktiṃ cikṣepa bhārata sarvapāraśavīṃ tīkṣṇāṃ maholkāpratimāṃ tadā
+
+**8.20.22**
+
+tām āpatantīṃ sahasā dharmarājaḥ śilāśitaiḥ tribhiś ciccheda sahasā taṃ ca vivyādha saptabhiḥ
+
+**8.20.23**
+
+nipapāta tataḥ sātha hemadaṇḍā mahāghanā nipatantī maholkeva vyarājac chikhisaṃnibhā
+
+**8.20.24**
+
+śaktiṃ vinihatāṃ dṛṣṭvā putras tava viśāṃ pate navabhir niśitair bhallair nijaghāna yudhiṣṭhiram
+
+**8.20.25**
+
+so 'tividdho balavatām agraṇīḥ śatrutāpanaḥ duryodhanaṃ samuddiśya bāṇaṃ jagrāha satvaraḥ
+
+**8.20.26**
+
+samādhatta ca taṃ bāṇaṃ dhanuṣy ugraṃ mahābalaḥ cikṣepa ca tato rājā rājñaḥ kruddhaḥ parākramī
+
+**8.20.27**
+
+sa tu bāṇaḥ samāsādya tava putraṃ mahāratham vyamohayata rājānaṃ dharaṇīṃ ca jagāma ha
+
+**8.20.28**
+
+tato duryodhanaḥ kruddho gadām udyamya vegitaḥ vidhitsuḥ kalahasyāntam abhidudrāva pāṇḍavam
+
+**8.20.29**
+
+tam ālakṣyodyatagadaṃ daṇḍahastam ivāntakam dharmarājo mahāśaktiṃ prāhiṇot tava sūnave dīpyamānāṃ mahāvegāṃ maholkāṃ jvalitām iva
+
+**8.20.30**
+
+rathasthaḥ sa tayā viddho varma bhittvā mahāhave bhṛśaṃ saṃvignahṛdayaḥ papāta ca mumoha ca
+
+**8.20.31**
+
+tatas tvaritam āgatya kṛtavarmā tavātmajam pratyapadyata rājānaṃ magnaṃ vai vyasanārṇave
+
+**8.20.32**
+
+bhīmo 'pi mahatīṃ gṛhya gadāṃ hemapariṣkṛtām abhidudrāva vegena kṛtavarmāṇam āhave evaṃ tad abhavad yuddhaṃ tvadīyānāṃ paraiḥ saha
+
+**8.21.1**
+
+saṃjaya uvāca tataḥ karṇaṃ puraskṛtya tvadīyā yuddhadurmadāḥ punar āvṛtya saṃgrāmaṃ cakrur devāsuropamam
+
+**8.21.2**
+
+dviradarathanarāśvaśaṅkhaśabdaiḥ; parihṛṣitā vividhaiś ca śastrapātaiḥ dviradarathapadātisārthavāhāḥ; paripatitābhimukhāḥ prajahrire te
+
+**8.21.3**
+
+śaraparaśuvarāsipaṭṭiśair; iṣubhir anekavidhaiś ca sāditāḥ dviradarathahayā mahāhave; varapuruṣaiḥ puruṣāś ca vāhanaiḥ
+
+**8.21.4**
+
+kamaladinakarendusaṃnibhaiḥ; sitadaśanaiḥ sumukhākṣināsikaiḥ ruciramukuṭakuṇḍalair mahī; puruṣaśirobhir avastṛtā babhau
+
+**8.21.5**
+
+parighamusalaśaktitomarair; nakharabhuśuṇḍigadāśatair drutāḥ dviradanarahayāḥ sahasraśo; rudhiranadīpravahās tadābhavan
+
+**8.21.6**
+
+prahatanararathāśvakuñjaraṃ; pratibhayadarśanam ulbaṇaṃ tadā tad ahitanihataṃ babhau balaṃ; pitṛpatirāṣṭram iva prajākṣaye
+
+**8.21.7**
+
+atha tava naradeva sainikās; tava ca sutāḥ surasūnusaṃnibhāḥ amitabalapuraḥsarā raṇe; kuruvṛṣabhāḥ śiniputram abhyayuḥ
+
+**8.21.8**
+
+tad atirucirabhīmam ābabhau; puruṣavarāśvarathadvipākulam lavaṇajalasamuddhatasvanaṃ; balam amarāsurasainyasaṃnibham
+
+**8.21.9**
+
+surapatisamavikramas tatas; tridaśavarāvarajopamaṃ yudhi dinakarakiraṇaprabhaiḥ pṛṣatkai; ravitanayo 'bhyahanac chinipravīram
+
+**8.21.10**
+
+tam api sarathavājisārathiṃ; śinivṛṣabho vividhaiḥ śarais tvaran bhujagaviṣasamaprabhai raṇe; puruṣavaraṃ samavāstṛṇot tadā
+
+**8.21.11**
+
+śinivṛṣabhaśaraprapīḍitaṃ; tava suhṛdo vasuṣeṇam abhyayuḥ tvaritam atirathā ratharṣabhaṃ; dviradarathāśvapadātibhiḥ saha
+
+**8.21.12**
+
+tam udadhinibham ādravad balī; tvaritataraiḥ samabhidrutaṃ paraiḥ drupadasutasakhas tadākarot; puruṣarathāśvagajakṣayaṃ mahat
+
+**8.21.13**
+
+atha puruṣavarau kṛtāhnikau; bhavam abhipūjya yathāvidhi prabhum arivadhakṛtaniścayau drutaṃ; tava balam arjunakeśavau sṛtau
+
+**8.21.14**
+
+jaladaninadanisvanaṃ rathaṃ; pavanavidhūtapatākaketanam sitahayam upayāntam antikaṃ; hṛtamanaso dadṛśus tadārayaḥ
+
+**8.21.15**
+
+atha visphārya gāṇḍīvaṃ raṇe nṛtyann ivārjunaḥ śarasaṃbādham akarot khaṃ diśaḥ pradiśas tathā
+
+**8.21.16**
+
+rathān vimānapratimān sajjayantrāyudhadhvajān sasārathīṃs tadā bāṇair abhrāṇīvānilo 'vadhīt
+
+**8.21.17**
+
+gajān gajaprayantṝṃś ca vaijayantyāyudhadhvajān sādino 'śvāṃś ca pattīṃś ca śarair ninye yamakṣayam
+
+**8.21.18**
+
+tam antakam iva kruddham anivāryaṃ mahāratham duryodhano 'bhyayād eko nighnan bāṇaiḥ pṛthagvidhaiḥ
+
+**8.21.19**
+
+tasyārjuno dhanuḥ sūtaṃ ketum aśvāṃś ca sāyakaiḥ hatvā saptabhir ekaikaṃ chatraṃ ciccheda patriṇā
+
+**8.21.20**
+
+navamaṃ ca samāsādya vyasṛjat pratighātinam duryodhanāyeṣuvaraṃ taṃ drauṇiḥ saptadhācchinat
+
+**8.21.21**
+
+tato drauṇer dhanuś chittvā hatvā cāśvavarāñ śaraiḥ kṛpasyāpi tathātyugraṃ dhanuś ciccheda pāṇḍavaḥ
+
+**8.21.22**
+
+hārdikyasya dhanuś chittvā dhvajaṃ cāśvaṃ tathāvadhīt duḥśāsanasyeṣuvaraṃ chittvā rādheyam abhyayāt
+
+**8.21.23**
+
+atha sātyakim utsṛjya tvaran karṇo 'rjunaṃ tribhiḥ viddhvā vivyādha viṃśatyā kṛṣṇaṃ pārthaṃ punas tribhiḥ
+
+**8.21.24**
+
+atha sātyakir āgatya karṇaṃ viddhvā śitaiḥ śaraiḥ navatyā navabhiś cograiḥ śatena punar ārdayat
+
+**8.21.25**
+
+tataḥ pravīrāḥ pāṇḍūnāṃ sarve karṇam apīḍayan yudhāmanyuḥ śikhaṇḍī ca draupadeyāḥ prabhadrakāḥ
+
+**8.21.26**
+
+uttamaujā yuyutsuś ca yamau pārṣata eva ca cedikārūṣamatsyānāṃ kekayānāṃ ca yad balam cekitānaś ca balavān dharmarājaś ca suvrataḥ
+
+**8.21.27**
+
+ete rathāśvadviradaiḥ pattibhiś cogravikramaiḥ parivārya raṇe karṇaṃ nānāśastrair avākiran bhāṣanto vāgbhir ugrābhiḥ sarve karṇavadhe vṛtāḥ
+
+**8.21.28**
+
+tāṃ śastravṛṣṭiṃ bahudhā chittvā karṇaḥ śitaiḥ śaraiḥ apovāha sma tān sarvān drumān bhaṅktveva mārutaḥ
+
+**8.21.29**
+
+rathinaḥ samahāmātrān gajān aśvān sasādinaḥ śaravrātāṃś ca saṃkruddho nighnan karṇo vyadṛśyata
+
+**8.21.30**
+
+tad vadhyamānaṃ pāṇḍūnāṃ balaṃ karṇāstratejasā viśastrakṣatadehaṃ ca prāya āsīt parāṅmukham
+
+**8.21.31**
+
+atha karṇāstram astreṇa pratihatyārjunaḥ svayam diśaḥ khaṃ caiva bhūmiṃ ca prāvṛṇoc charavṛṣṭibhiḥ
+
+**8.21.32**
+
+musalānīva niṣpetuḥ parighā iva ceṣavaḥ śataghnya iva cāpy anye vajrāṇy ugrāṇi vāpare
+
+**8.21.33**
+
+tair vadhyamānaṃ tat sainyaṃ sapattyaśvarathadvipam nimīlitākṣam atyartham udabhrāmyat samantataḥ
+
+**8.21.34**
+
+niṣkaivalyaṃ tadā yuddhaṃ prāpur aśvanaradvipāḥ vadhyamānāḥ śarair anye tadā bhītāḥ pradudruvuḥ
+
+**8.21.35**
+
+evaṃ teṣāṃ tadā yuddhe saṃsaktānāṃ jayaiṣiṇām girim astaṃ samāsādya pratyapadyata bhānumān
+
+**8.21.36**
+
+tamasā ca mahārāja rajasā ca viśeṣataḥ na kiṃ cit pratyapaśyāma śubhaṃ vā yadi vāśubham
+
+**8.21.37**
+
+te trasanto maheṣvāsā rātriyuddhasya bhārata apayānaṃ tataś cakruḥ sahitāḥ sarvavājibhiḥ
+
+**8.21.38**
+
+kauraveṣu ca yāteṣu tadā rājan dinakṣaye jayaṃ sumanasaḥ prāpya pārthāḥ svaśibiraṃ yayuḥ
+
+**8.21.39**
+
+vāditraśabdair vividhaiḥ siṃhanādaiś ca nartitaiḥ parān avahasantaś ca stuvantaś cācyutārjunau
+
+**8.21.40**
+
+kṛte 'vahāre tair vīraiḥ sainikāḥ sarva eva te āśiṣaḥ pāṇḍaveyeṣu prāyujyanta nareśvarāḥ
+
+**8.21.41**
+
+tataḥ kṛte 'vahāre ca prahṛṣṭāḥ kurupāṇḍavāḥ niśāyāṃ śibiraṃ gatvā nyaviśanta nareśvarāḥ
+
+**8.21.42**
+
+yakṣarakṣaḥpiśācāś ca śvāpadāni ca saṃghaśaḥ jagmur āyodhanaṃ ghoraṃ rudrasyānartanopamam
+
+**8.22.1**
+
+dhṛtarāṣṭra uvāca svena cchandena naḥ sarvān nāvadhīd vyaktam arjunaḥ na hy asya samare mucyetāntako 'py ātatāyinaḥ
+
+**8.22.2**
+
+pārtho hy eko 'harad bhadrām ekaś cāgnim atarpayat ekaś cemāṃ mahīṃ jitvā cakre balibhṛto nṛpān
+
+**8.22.3**
+
+eko nivātakavacān avadhīd divyakārmukaḥ ekaḥ kirātarūpeṇa sthitaṃ śarvam ayodhayat
+
+**8.22.4**
+
+eko 'bhyarakṣad bharatān eko bhavam atoṣayat tenaikena jitāḥ sarve madīyā ugratejasaḥ te na nindyāḥ praśasyāś ca yat te cakrur bravīhi tat
+
+**8.22.5**
+
+saṃjaya uvāca hataprahatavidhvastā vivarmāyudhavāhanāḥ dīnasvarā dūyamānā māninaḥ śatrubhir jitāḥ
+
+**8.22.6**
+
+śibirasthāḥ punar mantraṃ mantrayanti sma kauravāḥ bhagnadaṃṣṭrā hataviṣāḥ padākrāntā ivoragāḥ
+
+**8.22.7**
+
+tān abravīt tataḥ karṇaḥ kruddhaḥ sarpa iva śvasan karaṃ kareṇābhipīḍya prekṣamāṇas tavātmajam
+
+**8.22.8**
+
+yatto dṛḍhaś ca dakṣaś ca dhṛtimān arjunaḥ sadā sa bodhayati cāpy enaṃ prāptakālam adhokṣajaḥ
+
+**8.22.9**
+
+sahasāstravisargeṇa vayaṃ tenādya vañcitāḥ śvas tv ahaṃ tasya saṃkalpaṃ sarvaṃ hantā mahīpate
+
+**8.22.10**
+
+evam uktas tathety uktvā so 'nujajñe nṛpottamān sukhoṣitās te rajanīṃ hṛṣṭā yuddhāya niryayuḥ
+
+**8.22.11**
+
+te 'paśyan vihitaṃ vyūhaṃ dharmarājena durjayam prayatnāt kurumukhyena bṛhaspatyuśanomatāt
+
+**8.22.12**
+
+atha pratīpakartāraṃ satataṃ vijitātmanām sasmāra vṛṣabhaskandhaṃ karṇaṃ duryodhanas tadā
+
+**8.22.13**
+
+puraṃdarasamaṃ yuddhe marudgaṇasamaṃ bale kārtavīryasamaṃ vīrye karṇaṃ rājño 'gaman manaḥ sūtaputraṃ maheṣvāsaṃ bandhum ātyayikeṣv iva
+
+**8.22.14**
+
+dhṛtarāṣṭra uvāca yad vo 'gaman mano mandāḥ karṇaṃ vaikartanaṃ tadā apy adrākṣata taṃ yūyaṃ śītārtā iva bhāskaram
+
+**8.22.15**
+
+kṛte 'vahāre sainyānāṃ pravṛtte ca raṇe punaḥ kathaṃ vaikartanaḥ karṇas tatrāyudhyata saṃjaya kathaṃ ca pāṇḍavāḥ sarve yuyudhus tatra sūtajam
+
+**8.22.16**
+
+karṇo hy eko mahābāhur hanyāt pārthān sasomakān karṇasya bhujayor vīryaṃ śakraviṣṇusamaṃ matam tathāstrāṇi sughorāṇi vikramaś ca mahātmanaḥ
+
+**8.22.17**
+
+duryodhanaṃ tadā dṛṣṭvā pāṇḍavena bhṛśārditam parākrāntān pāṇḍusutān dṛṣṭvā cāpi mahāhave
+
+**8.22.18**
+
+karṇam āśritya saṃgrāme darpo duryodhane punaḥ jetum utsahate pārthān saputrān sahakeśavān
+
+**8.22.19**
+
+aho bata mahad duḥkhaṃ yatra pāṇḍusutān raṇe nātarad rabhasaḥ karṇo daivaṃ nūnaṃ parāyaṇam aho dyūtasya niṣṭheyaṃ ghorā saṃprati vartate
+
+**8.22.20**
+
+aho duḥkhāni tīvrāṇi duryodhanakṛtāny aham sahiṣyāmi sughorāṇi śalyabhūtāni saṃjaya
+
+**8.22.21**
+
+saubalaṃ ca tathā tāta nītimān iti manyate
+
+**8.22.22**
+
+yuddheṣu nāma divyeṣu vartamāneṣu saṃjaya aśrauṣaṃ nihatān putrān nityam eva ca nirjitān
+
+**8.22.23**
+
+na pāṇḍavānāṃ samare kaś cid asti nivārakaḥ strīmadhyam iva gāhanti daivaṃ hi balavattaram
+
+**8.22.24**
+
+saṃjaya uvāca atikrāntaṃ hi yat kāryaṃ paścāc cintayatīti ca tac cāsya na bhavet kāryaṃ cintayā ca vinaśyati
+
+**8.22.25**
+
+tad idaṃ tava kāryaṃ tu dūraprāptaṃ vijānatā na kṛtaṃ yat tvayā pūrvaṃ prāptāprāptavicāraṇe
+
+**8.22.26**
+
+ukto 'si bahudhā rājan mā yudhyasveti pāṇḍavaiḥ gṛhṇīṣe na ca tan mohāt pāṇḍaveṣu viśāṃ pate
+
+**8.22.27**
+
+tvayā pāpāni ghorāṇi samācīrṇāni pāṇḍuṣu tvatkṛte vartate ghoraḥ pārthivānāṃ janakṣayaḥ
+
+**8.22.28**
+
+tat tv idānīm atikramya mā śuco bharatarṣabha śṛṇu sarvaṃ yathāvṛttaṃ ghoraṃ vaiśasam acyuta
+
+**8.22.29**
+
+prabhātāyāṃ rajanyāṃ tu karṇo rājānam abhyayāt sametya ca mahābāhur duryodhanam abhāṣata
+
+**8.22.30**
+
+adya rājan sameṣyāmi pāṇḍavena yaśasvinā haniṣyāmi ca taṃ vīraṃ sa vā māṃ nihaniṣyati
+
+**8.22.31**
+
+bahutvān mama kāryāṇāṃ tathā pārthasya pārthiva nābhūt samāgamo rājan mama caivārjunasya ca
+
+**8.22.32**
+
+idaṃ tu me yathāprajñaṃ śṛṇu vākyaṃ viśāṃ pate anihatya raṇe pārthaṃ nāham eṣyāmi bhārata
+
+**8.22.33**
+
+hatapravīre sainye 'smin mayi caiva sthite yudhi abhiyāsyati māṃ pārthaḥ śakraśaktyā vinākṛtam
+
+**8.22.34**
+
+tataḥ śreyaskaraṃ yat te tan nibodha janeśvara āyudhānāṃ ca yad vīryaṃ dravyāṇām arjunasya ca
+
+**8.22.35**
+
+kāyasya mahato bhede lāghave dūrapātane sauṣṭhave cāstrayoge ca savyasācī na matsamaḥ
+
+**8.22.36**
+
+sarvāyudhamahāmātraṃ vijayaṃ nāma tad dhanuḥ indrārtham abhikāmena nirmitaṃ viśvakarmaṇā
+
+**8.22.37**
+
+yena daityagaṇān rājañ jitavān vai śatakratuḥ yasya ghoṣeṇa daityānāṃ vimuhyanti diśo daśa tad bhārgavāya prāyacchac chakraḥ paramasaṃmatam
+
+**8.22.38**
+
+tad divyaṃ bhārgavo mahyam adadād dhanur uttamam yena yotsye mahābāhum arjunaṃ jayatāṃ varam yathendraḥ samare sarvān daiteyān vai samāgatān
+
+**8.22.39**
+
+dhanur ghoraṃ rāmadattaṃ gāṇḍīvāt tad viśiṣyate triḥsaptakṛtvaḥ pṛthivī dhanuṣā tena nirjitā
+
+**8.22.40**
+
+dhanuṣo yasya karmāṇi divyāni prāha bhārgavaḥ tad rāmo hy adadān mahyaṃ yena yotsyāmi pāṇḍavam
+
+**8.22.41**
+
+adya duryodhanāhaṃ tvāṃ nandayiṣye sabāndhavam nihatya samare vīram arjunaṃ jayatāṃ varam
+
+**8.22.42**
+
+saparvatavanadvīpā hatadviḍ bhūḥ sasāgarā putrapautrapratiṣṭhā te bhaviṣyaty adya pārthiva
+
+**8.22.43**
+
+nāsādhyaṃ vidyate me 'dya tvatpriyārthaṃ viśeṣataḥ samyag dharmānuraktasya siddhir ātmavato yathā
+
+**8.22.44**
+
+na hi māṃ samare soḍhuṃ sa śakto 'gniṃ tarur yathā avaśyaṃ tu mayā vācyaṃ yena hīno 'smi phalgunāt
+
+**8.22.45**
+
+jyā tasya dhanuṣo divyā tathākṣayyau maheṣudhī tasya divyaṃ dhanuḥ śreṣṭhaṃ gāṇḍīvam ajaraṃ yudhi
+
+**8.22.46**
+
+vijayaṃ ca mahad divyaṃ mamāpi dhanur uttamam tatrāham adhikaḥ pārthād dhanuṣā tena pārthiva
+
+**8.22.47**
+
+mayā cābhyadhiko vīraḥ pāṇḍavas tan nibodha me raśmigrāhaś ca dāśārhaḥ sarvalokanamaskṛtaḥ
+
+**8.22.48**
+
+agnidattaś ca vai divyo rathaḥ kāñcanabhūṣaṇaḥ acchedyaḥ sarvato vīra vājinaś ca manojavāḥ dhvajaś ca divyo dyutimān vānaro vismayaṃkaraḥ
+
+**8.22.49**
+
+kṛṣṇaś ca sraṣṭā jagato rathaṃ tam abhirakṣati ebhir dravyair ahaṃ hīno yoddhum icchāmi pāṇḍavam
+
+**8.22.50**
+
+ayaṃ tu sadṛśo vīraḥ śalyaḥ samitiśobhanaḥ sārathyaṃ yadi me kuryād dhruvas te vijayo bhavet
+
+**8.22.51**
+
+tasya me sārathiḥ śalyo bhavatv asukaraḥ paraiḥ nārācān gārdhrapatrāṃś ca śakaṭāni vahantu me
+
+**8.22.52**
+
+rathāś ca mukhyā rājendra yuktā vājibhir uttamaiḥ āyāntu paścāt satataṃ mām eva bharatarṣabha
+
+**8.22.53**
+
+evam abhyadhikaḥ pārthād bhaviṣyāmi guṇair aham śalyo hy abhyadhikaḥ kṛṣṇād arjunād adhiko hy aham
+
+**8.22.54**
+
+yathāśvahṛdayaṃ veda dāśārhaḥ paravīrahā tathā śalyo 'pi jānīte hayānāṃ vai mahārathaḥ
+
+**8.22.55**
+
+bāhuvīrye samo nāsti madrarājasya kaś cana tathāstrair matsamo nāsti kaś cid eva dhanurdharaḥ
+
+**8.22.56**
+
+tathā śalyasamo nāsti hayayāne ha kaś cana so 'yam abhyadhikaḥ pārthād bhaviṣyati ratho mama
+
+**8.22.57**
+
+etat kṛtaṃ mahārāja tvayecchāmi paraṃtapa evaṃ kṛte kṛtaṃ mahyaṃ sarvakāmair bhaviṣyati
+
+**8.22.58**
+
+tato draṣṭāsi samare yat kariṣyāmi bhārata sarvathā pāṇḍavān sarvāñ jeṣyāmy adya samāgatān
+
+**8.22.59**
+
+duryodhana uvāca sarvam etat kariṣyāmi yathā tvaṃ karṇa manyase sopāsaṅgā rathāḥ sāśvā anuyāsyanti sūtaja
+
+**8.22.60**
+
+nārācān gārdhrapakṣāṃś ca śakaṭāni vahantu te anuyāsyāma karṇa tvāṃ vayaṃ sarve ca pārthivāḥ
+
+**8.22.61**
+
+saṃjaya uvāca evam uktvā mahārāja tava putrāḥ pratāpavān abhigamyābravīd rājā madrarājam idaṃ vacaḥ
+
+**8.23.1**
+
+saṃjaya uvāca putras tava mahārāja madrarājam idaṃ vacaḥ vinayenopasaṃgamya praṇayād vākyam abravīt
+
+**8.23.2**
+
+satyavrata mahābhāga dviṣatām aghavardhana madreśvara raṇe śūra parasainyabhayaṃkara
+
+**8.23.3**
+
+śrutavān asi karṇasya bruvato vadatāṃ vara yathā nṛpatisiṃhānāṃ madhye tvāṃ varayaty ayam
+
+**8.23.4**
+
+tasmāt pārthavināśārthaṃ hitārthaṃ mama caiva hi sārathyaṃ rathināṃ śreṣṭha sumanāḥ kartum arhasi
+
+**8.23.5**
+
+asyābhīśugraho loke nānyo 'sti bhavatā samaḥ sa pātu sarvataḥ karṇaṃ bhavān brahmeva śaṃkaram
+
+**8.23.6**
+
+pārthasya sacivaḥ kṛṣṇo yathābhīśugraho varaḥ tathā tvam api rādheyaṃ sarvataḥ paripālaya
+
+**8.23.7**
+
+bhīṣmo droṇaḥ kṛpaḥ karṇo bhavān bhojaś ca vīryavān śakuniḥ saubalo drauṇir aham eva ca no balam eṣām eva kṛto bhāgo navadhā pṛtanāpate
+
+**8.23.8**
+
+naiva bhāgo 'tra bhīṣmasya droṇasya ca mahātmanaḥ tābhyām atītya tau bhāgau nihatā mama śatravaḥ
+
+**8.23.9**
+
+vṛddhau hi tau naravyāghrau chalena nihatau ca tau kṛtvā nasukaraṃ karma gatau svargam ito 'nagha
+
+**8.23.10**
+
+tathānye puruṣavyāghrāḥ parair vinihatā yudhi asmadīyāś ca bahavaḥ svargāyopagatā raṇe tyaktvā prāṇān yathāśakti ceṣṭāḥ kṛtvā ca puṣkalāḥ
+
+**8.23.11**
+
+karṇo hy eko mahābāhur asmatpriyahite rataḥ bhavāṃś ca puruṣavyāghra sarvalokamahārathaḥ tasmiñ jayāśā vipulā mama madrajanādhipa
+
+**8.23.12**
+
+pārthasya samare kṛṣṇo yathābhīśuvaragrahaḥ tena yukto raṇe pārtho rakṣyamāṇaś ca pārthiva yāni karmāṇi kurute pratyakṣāṇi tathaiva te
+
+**8.23.13**
+
+pūrvaṃ na samare hy evam avadhīd arjuno ripūn ahany ahani madreśa drāvayan dṛśyate yudhi
+
+**8.23.14**
+
+bhāgo 'vaśiṣṭaḥ karṇasya tava caiva mahādyute taṃ bhāgaṃ saha karṇena yugapan nāśayāhave
+
+**8.23.15**
+
+sūryāruṇau yathā dṛṣṭvā tamo naśyati māriṣa tathā naśyantu kaunteyāḥ sapāñcālāḥ sasṛñjayāḥ
+
+**8.23.16**
+
+rathānāṃ pravaraḥ karṇo yantṝṇāṃ pravaro bhavān saṃnipātaḥ samo loke bhavator nāsti kaś cana
+
+**8.23.17**
+
+yathā sarvāsv avasthāsu vārṣṇeyaḥ pāti pāṇḍavam tathā bhavān paritrātu karṇaṃ vaikartanaṃ raṇe
+
+**8.23.18**
+
+tvayā sārathinā hy eṣa apradhṛṣyo bhaviṣyati devatānām api raṇe saśakrāṇāṃ mahīpate kiṃ punaḥ pāṇḍaveyānāṃ mātiśaṅkīr vaco mama
+
+**8.23.19**
+
+duryodhanavacaḥ śrutvā śalyaḥ krodhasamanvitaḥ triśikhāṃ bhrukuṭīṃ kṛtvā dhunvan hastau punaḥ punaḥ
+
+**8.23.20**
+
+krodharakte mahānetre parivartya mahābhujaḥ kulaiśvaryaśrutibalair dṛptaḥ śalyo 'bravīd idam
+
+**8.23.21**
+
+avamanyase māṃ gāndhāre dhruvaṃ māṃ pariśaṅkase yan māṃ bravīṣi visrabdhaṃ sārathyaṃ kriyatām iti
+
+**8.23.22**
+
+asmatto 'bhyadhikaṃ karṇaṃ manyamānaḥ praśaṃsasi na cāhaṃ yudhi rādheyaṃ gaṇaye tulyam ātmanā
+
+**8.23.23**
+
+ādiśyatām abhyadhiko mamāṃśaḥ pṛthivīpate tam ahaṃ samare hatvā gamiṣyāmi yathāgatam
+
+**8.23.24**
+
+atha vāpy eka evāhaṃ yotsyāmi kurunandana paśya vīryaṃ mamādya tvaṃ saṃgrāme dahato ripūn
+
+**8.23.25**
+
+na cābhikāmān kauravya vidhāya hṛdaye pumān asmadvidhaḥ pravarteta mā mā tvam atiśaṅkithāḥ
+
+**8.23.26**
+
+yudhi cāpy avamāno me na kartavyaḥ kathaṃ cana paśya hīmau mama bhujau vajrasaṃhananopamau
+
+**8.23.27**
+
+dhanuḥ paśya ca me citraṃ śarāṃś cāśīviṣopamān rathaṃ paśya ca me kḷptaṃ sadaśvair vātavegitaiḥ gadāṃ ca paśya gāndhāre hemapaṭṭavibhūṣitām
+
+**8.23.28**
+
+dārayeyaṃ mahīṃ kruddho vikireyaṃ ca parvatān śoṣayeyaṃ samudrāṃś ca tejasā svena pārthiva
+
+**8.23.29**
+
+tan mām evaṃvidhaṃ jānan samartham arinigrahe kasmād yunakṣi sārathye nyūnasyādhirather nṛpa
+
+**8.23.30**
+
+na nāma dhuri rājendra prayoktuṃ tvam ihārhasi na hi pāpīyasaḥ śreyān bhūtvā preṣyatvam utsahe
+
+**8.23.31**
+
+yo hy abhyupagataṃ prītyā garīyāṃsaṃ vaśe sthitam vaśe pāpīyaso dhatte tat pāpam adharottaram
+
+**8.23.32**
+
+brāhmaṇā brahmaṇā sṛṣṭā mukhāt kṣatram athorasaḥ ūrubhyām asṛjad vaiśyāñ śūdrān padbhyām iti śrutiḥ tebhyo varṇaviśeṣāś ca pratilomānulomajāḥ
+
+**8.23.33**
+
+athānyonyasya saṃyogāc cāturvarṇyasya bhārata goptāraḥ saṃgrahītāro dātāraḥ kṣatriyāḥ smṛtāḥ
+
+**8.23.34**
+
+yājanādhyāpanair viprā viśuddhaiś ca pratigrahaiḥ lokasyānugrahārthāya sthāpitā brahmaṇā bhuvi
+
+**8.23.35**
+
+kṛṣiś ca pāśupālyaṃ ca viśāṃ dānaṃ ca sarvaśaḥ brahmakṣatraviśāṃ śūdrā vihitāḥ paricārakāḥ
+
+**8.23.36**
+
+brahmakṣatrasya vihitāḥ sūtā vai paricārakāḥ na viṭśūdrasya tatraiva śṛṇu vākyaṃ mamānagha
+
+**8.23.37**
+
+so 'haṃ mūrdhāvasiktaḥ san rājarṣikulasaṃbhavaḥ mahārathaḥ samākhyātaḥ sevyaḥ stavyaś ca bandinām
+
+**8.23.38**
+
+so 'ham etādṛśo bhūtvā nehārikulamardana sūtaputrasya saṃgrāme sārathyaṃ kartum utsahe
+
+**8.23.39**
+
+avamānam ahaṃ prāpya na yotsyāmi kathaṃ cana āpṛcchya tvādya gāndhāre gamiṣyāmi yathāgatam
+
+**8.23.40**
+
+evam uktvā naravyāghraḥ śalyaḥ samitiśobhanaḥ utthāya prayayau tūrṇaṃ rājamadhyād amarṣitaḥ
+
+**8.23.41**
+
+praṇayād bahumānāc ca taṃ nigṛhya sutas tava abravīn madhuraṃ vākyaṃ sāma sarvārthasādhakam
+
+**8.23.42**
+
+yathā śalya tvam ātthedam evam etad asaṃśayam abhiprāyas tu me kaś cit taṃ nibodha janeśvara
+
+**8.23.43**
+
+na karṇo 'bhyadhikas tvattaḥ śaṅke naiva kathaṃ cana na hi madreśvaro rājā kuryād yad anṛtaṃ bhavet
+
+**8.23.44**
+
+ṛtam eva hi pūrvās te vahanti puruṣottamāḥ tasmād ārtāyaniḥ prokto bhavān iti matir mama
+
+**8.23.45**
+
+śalyabhūtaś ca śatrūṇāṃ yasmāt tvaṃ bhuvi mānada tasmāc chalyeti te nāma kathyate pṛthivīpate
+
+**8.23.46**
+
+yad eva vyāhṛtaṃ pūrvaṃ bhavatā bhūridakṣiṇa tad eva kuru dharmajña madarthaṃ yad yad ucyase
+
+**8.23.47**
+
+na ca tvatto hi rādheyo na cāham api vīryavān vṛṇīmas tvāṃ hayāgryāṇāṃ yantāram iti saṃyuge
+
+**8.23.48**
+
+yathā hy abhyadhikaṃ karṇaṃ guṇais tāta dhanaṃjayāt vāsudevād api tvāṃ ca loko 'yam iti manyate
+
+**8.23.49**
+
+karṇo hy abhyadhikaḥ pārthād astrair eva nararṣabha bhavān apy adhikaḥ kṛṣṇād aśvayāne bale tathā
+
+**8.23.50**
+
+yathāśvahṛdayaṃ veda vāsudevo mahāmanāḥ dviguṇaṃ tvaṃ tathā vettha madrarāja na saṃśayaḥ
+
+**8.23.51**
+
+śalya uvāca yan mā bravīṣi gāndhāre madhye sainyasya kaurava viśiṣṭaṃ devakīputrāt prītimān asmy ahaṃ tvayi
+
+**8.23.52**
+
+eṣa sārathyam ātiṣṭhe rādheyasya yaśasvinaḥ yudhyataḥ pāṇḍavāgryeṇa yathā tvaṃ vīra manyase
+
+**8.23.53**
+
+samayaś ca hi me vīra kaś cid vaikartanaṃ prati utsṛjeyaṃ yathāśraddham ahaṃ vāco 'sya saṃnidhau
+
+**8.23.54**
+
+saṃjaya uvāca tatheti rājan putras te saha karṇena bhārata abravīn madrarājasya sutaṃ bharatasattama
+
+**8.24.1**
+
+duryodhana uvāca bhūya eva tu madreśa yat te vakṣyāmi tac chṛṇu yathā purā vṛttam idaṃ yuddhe devāsure vibho
+
+**8.24.2**
+
+yad uktavān pitur mahyaṃ mārkaṇḍeyo mahān ṛṣiḥ tad aśeṣeṇa bruvato mama rājarṣisattama tvaṃ nibodha na cāpy atra kartavyā te vicāraṇā
+
+**8.24.3**
+
+devānām asurāṇāṃ ca mahān āsīt samāgamaḥ babhūva prathamo rājan saṃgrāmas tārakāmayaḥ nirjitāś ca tadā daityā daivatair iti naḥ śrutam
+
+**8.24.4**
+
+nirjiteṣu ca daityeṣu tārakasya sutās trayaḥ tārākṣaḥ kamalākṣaś ca vidyunmālī ca pārthiva
+
+**8.24.5**
+
+tapa ugraṃ samāsthāya niyame parame sthitāḥ tapasā karśayām āsur dehān svāñ śatrutāpana
+
+**8.24.6**
+
+damena tapasā caiva niyamena ca pārthiva teṣāṃ pitāmahaḥ prīto varadaḥ pradadau varān
+
+**8.24.7**
+
+avadhyatvaṃ ca te rājan sarvabhūteṣu sarvadā sahitā varayām āsuḥ sarvalokapitāmaham
+
+**8.24.8**
+
+tān abravīt tadā devo lokānāṃ prabhur īśvaraḥ nāsti sarvāmaratvaṃ hi nivartadhvam ato 'surāḥ varam anyaṃ vṛṇīdhvaṃ vai yādṛśaṃ saṃprarocate
+
+**8.24.9**
+
+tatas te sahitā rājan saṃpradhāryāsakṛd bahu sarvalokeśvaraṃ vākyaṃ praṇamyainam athābruvan
+
+**8.24.10**
+
+asmākaṃ tvaṃ varaṃ deva prayacchemaṃ pitāmaha vayaṃ purāṇi trīṇy eva samāsthāya mahīm imām vicariṣyāma loke 'smiṃs tvatprasādapuraskṛtāḥ
+
+**8.24.11**
+
+tato varṣasahasre tu sameṣyāmaḥ parasparam ekībhāvaṃ gamiṣyanti purāṇy etāni cānagha
+
+**8.24.12**
+
+samāgatāni caitāni yo hanyād bhagavaṃs tadā ekeṣuṇā devavaraḥ sa no mṛtyur bhaviṣyati evam astv iti tān devaḥ pratyuktvā prāviśad divam
+
+**8.24.13**
+
+te tu labdhavarāḥ prītāḥ saṃpradhārya parasparam puratrayavisṛṣṭyarthaṃ mayaṃ vavrur mahāsuram viśvakarmāṇam ajaraṃ daityadānavapūjitam
+
+**8.24.14**
+
+tato mayaḥ svatapasā cakre dhīmān purāṇi ha trīṇi kāñcanam ekaṃ tu raupyaṃ kārṣṇāyasaṃ tathā
+
+**8.24.15**
+
+kāñcanaṃ divi tatrāsīd antarikṣe ca rājatam āyasaṃ cābhavad bhūmau cakrasthaṃ pṛthivīpate
+
+**8.24.16**
+
+ekaikaṃ yojanaśataṃ vistārāyāmasaṃmitam gṛhāṭṭāṭṭālakayutaṃ bṛhatprākāratoraṇam
+
+**8.24.17**
+
+guṇaprasavasaṃbādham asaṃbādham anāmayam prāsādair vividhaiś caiva dvāraiś cāpy upaśobhitam
+
+**8.24.18**
+
+pureṣu cābhavan rājan rājāno vai pṛthak pṛthak kāñcanaṃ tārakākṣasya citram āsīn mahātmanaḥ rājataṃ kamalākṣasya vidyunmālina āyasam
+
+**8.24.19**
+
+trayas te daityarājānas trīṃl lokān āśu tejasā ākramya tasthur varṣāṇāṃ pūgān nāma prajāpatiḥ
+
+**8.24.20**
+
+teṣāṃ dānavamukhyānāṃ prayutāny arbudāni ca koṭyaś cāprativīrāṇāṃ samājagmus tatas tataḥ mahad aiśvaryam icchantas tripuraṃ durgam āśritāḥ
+
+**8.24.21**
+
+sarveṣāṃ ca punas teṣāṃ sarvayogavaho mayaḥ tam āśritya hi te sarve avartantākutobhayāḥ
+
+**8.24.22**
+
+yo hi yaṃ manasā kāmaṃ dadhyau tripurasaṃśrayaḥ tasmai kāmaṃ mayas taṃ taṃ vidadhe māyayā tadā
+
+**8.24.23**
+
+tārakākṣasutaś cāsīd dharir nāma mahābalaḥ tapas tepe paramakaṃ yenātuṣyat pitāmahaḥ
+
+**8.24.24**
+
+sa tuṣṭam avṛṇod devaṃ vāpī bhavatu naḥ pure śastrair vinihatā yatra kṣiptāḥ syur balavattarāḥ
+
+**8.24.25**
+
+sa tu labdhvā varaṃ vīras tārakākṣasuto hariḥ sasṛje tatra vāpīṃ tāṃ mṛtānāṃ jīvanīṃ prabho
+
+**8.24.26**
+
+yena rūpeṇa daityas tu yena veṣeṇa caiva ha mṛtas tasyāṃ parikṣiptas tādṛśenaiva jajñivān
+
+**8.24.27**
+
+tāṃ prāpya traipurasthās tu sarvāṃl lokān babādhire mahatā tapasā siddhāḥ surāṇāṃ bhayavardhanāḥ na teṣām abhavad rājan kṣayo yuddhe kathaṃ cana
+
+**8.24.28**
+
+tatas te lobhamohābhyām abhibhūtā vicetasaḥ nirhrīkāḥ saṃsthitiṃ sarve sthāpitāṃ samalūlupan
+
+**8.24.29**
+
+vidrāvya sagaṇān devāṃs tatra tatra tadā tadā viceruḥ svena kāmena varadānena darpitāḥ
+
+**8.24.30**
+
+devāraṇyāni sarvāṇi priyāṇi ca divaukasām ṛṣīṇām āśramān puṇyān yūpāñ janapadāṃs tathā vyanāśayanta maryādā dānavā duṣṭacāriṇaḥ
+
+**8.24.31**
+
+te devāḥ sahitāḥ sarve pitāmaham ariṃdama abhijagmus tadākhyātuṃ viprakāraṃ suretaraiḥ
+
+**8.24.32**
+
+te tattvaṃ sarvam ākhyāya śirasābhipraṇamya ca vadhopāyam apṛcchanta bhagavantaṃ pitāmaham
+
+**8.24.33**
+
+śrutvā tad bhagavān devo devān idam uvāca ha asurāś ca durātmānas te cāpi vibudhadviṣaḥ aparādhyanti satataṃ ye yuṣmān pīḍayanty uta
+
+**8.24.34**
+
+ahaṃ hi tulyaḥ sarveṣāṃ bhūtānāṃ nātra saṃśayaḥ adhārmikās tu hantavyā ity ahaṃ prabravīmi vaḥ
+
+**8.24.35**
+
+te yūyaṃ sthāṇum īśānaṃ jiṣṇum akliṣṭakāriṇam yoddhāraṃ vṛṇutādityāḥ sa tān hantā suretarān
+
+**8.24.36**
+
+iti tasya vacaḥ śrutvā devāḥ śakrapurogamāḥ brahmāṇam agrataḥ kṛtvā vṛṣāṅkaṃ śaraṇaṃ yayuḥ
+
+**8.24.37**
+
+tapaḥ paraṃ samātasthur gṛṇanto brahma śāśvatam ṛṣibhiḥ saha dharmajñā bhavaṃ sarvātmanā gatāḥ
+
+**8.24.38**
+
+tuṣṭuvur vāgbhir arthyābhir bhayeṣv abhayakṛttamam sarvātmānaṃ mahātmānaṃ yenāptaṃ sarvam ātmanā
+
+**8.24.39**
+
+tapoviśeṣair bahubhir yogaṃ yo veda cātmanaḥ yaḥ sāṃkhyam ātmano veda yasya cātmā vaśe sadā
+
+**8.24.40**
+
+te taṃ dadṛśur īśānaṃ tejorāśim umāpatim ananyasadṛśaṃ loke vratavantam akalmaṣam
+
+**8.24.41**
+
+ekaṃ ca bhagavantaṃ te nānārūpam akalpayan ātmanaḥ pratirūpāṇi rūpāṇy atha mahātmani parasparasya cāpaśyan sarve paramavismitāḥ
+
+**8.24.42**
+
+sarvabhūtamayaṃ ceśaṃ tam ajaṃ jagataḥ patim devā brahmarṣayaś caiva śirobhir dharaṇīṃ gatāḥ
+
+**8.24.43**
+
+tān svastivākyenābhyarcya samutthāpya ca śaṃkaraḥ brūta brūteti bhagavān smayamāno 'bhyabhāṣata
+
+**8.24.44**
+
+tryambakeṇābhyanujñātās tatas te 'svasthacetasaḥ namo namas te 'stu vibho tata ity abruvan bhavam
+
+**8.24.45**
+
+namo devātidevāya dhanvine cātimanyave prajāpatimakhaghnāya prajāpatibhir īḍyase
+
+**8.24.46**
+
+namaḥ stutāya stutyāya stūyamānāya mṛtyave vilohitāya rudrāya nīlagrīvāya śūline
+
+**8.24.47**
+
+amoghāya mṛgākṣāya pravarāyudhayodhine durvāraṇāya śukrāya brahmaṇe brahmacāriṇe
+
+**8.24.48**
+
+īśānāyāprameyāya niyantre carmavāsase taponityāya piṅgāya vratine kṛttivāsase
+
+**8.24.49**
+
+kumārapitre tryakṣāya pravarāyudhadhāriṇe prapannārtivināśāya brahmadviṭsaṃghaghātine
+
+**8.24.50**
+
+vanaspatīnāṃ pataye narāṇāṃ pataye namaḥ gavāṃ ca pataye nityaṃ yajñānāṃ pataye namaḥ
+
+**8.24.51**
+
+namo 'stu te sasainyāya tryambakāyogratejase manovākkarmabhir deva tvāṃ prapannān bhajasva naḥ
+
+**8.24.52**
+
+tataḥ prasanno bhagavān svāgatenābhinandya tān provāca vyetu vastrāso brūta kiṃ karavāṇi vaḥ
+
+**8.24.53**
+
+pitṛdevarṣisaṃghebhyo vare datte mahātmanā satkṛtya śaṃkaraṃ prāha brahmā lokahitaṃ vacaḥ
+
+**8.24.54**
+
+tavātisargād deveśa prājāpatyam idaṃ padam mayādhitiṣṭhatā datto dānavebhyo mahān varaḥ
+
+**8.24.55**
+
+tān atikrāntamaryādān nānyaḥ saṃhartum arhati tvām ṛte bhūtabhavyeśa tvaṃ hy eṣāṃ pratyarir vadhe
+
+**8.24.56**
+
+sa tvaṃ deva prapannānāṃ yācatāṃ ca divaukasām kuru prasādaṃ deveśa dānavāñ jahi śūlabhṛt
+
+**8.24.57**
+
+śrībhagavān uvāca hantavyāḥ śatravaḥ sarve yuṣmākam iti me matiḥ na tv eko 'haṃ vadhe teṣāṃ samartho vai suradviṣām
+
+**8.24.58**
+
+te yūyaṃ sahitāḥ sarve madīyenāstratejasā jayadhvaṃ yudhi tāñ śatrūn saṃghāto hi mahābalaḥ
+
+**8.24.59**
+
+devā ūcuḥ asmattejobalaṃ yāvat tāvad dviguṇam eva ca teṣām iti ha manyāmo dṛṣṭatejobalā hi te
+
+**8.24.60**
+
+bhagavān uvāca vadhyās te sarvataḥ pāpā ye yuṣmāsv aparādhinaḥ mama tejobalārdhena sarvāṃs tān ghnata śātravān
+
+**8.24.61**
+
+devā ūcuḥ bibhartuṃ tejaso 'rdhaṃ te na śakṣyāmo maheśvara sarveṣāṃ no balārdhena tvam eva jahi śātravān
+
+**8.24.62**
+
+duryodhana uvāca tatas tatheti deveśas tair ukto rājasattama ardham ādāya sarvebhyas tejasābhyadhiko 'bhavat
+
+**8.24.63**
+
+sa tu devo balenāsīt sarvebhyo balavattaraḥ mahādeva iti khyātas tadāprabhṛti śaṃkaraḥ
+
+**8.24.64**
+
+tato 'bravīn mahādevo dhanur bāṇadharas tv aham haniṣyāmi rathenājau tān ripūn vai divaukasaḥ
+
+**8.24.65**
+
+te yūyaṃ me rathaṃ caiva dhanur bāṇaṃ tathaiva ca paśyadhvaṃ yāvad adyaitān pātayāmi mahītale
+
+**8.24.66**
+
+devā ūcuḥ mūrtisarvasvam ādāya trailokyasya tatas tataḥ rathaṃ te kalpayiṣyāma deveśvara mahaujasam
+
+**8.24.67**
+
+tathaiva buddhyā vihitaṃ viśvakarmakṛtaṃ śubham tato vibudhaśārdūlās taṃ rathaṃ samakalpayan
+
+**8.24.68**
+
+vandhuraṃ pṛthivīṃ devīṃ viśālapuramālinīm saparvatavanadvīpāṃ cakrur bhūtadharāṃ tadā
+
+**8.24.69**
+
+mandaraṃ parvataṃ cākṣaṃ jaṅghās tasya mahānadīḥ diśaś ca pradiśaś caiva parivāraṃ rathasya hi
+
+**8.24.70**
+
+anukarṣān grahān dīptān varūthaṃ cāpi tārakāḥ dharmārthakāmasaṃyuktaṃ triveṇuṃ cāpi bandhuram oṣadhīr vividhās tatra nānāpuṣpaphalodgamāḥ
+
+**8.24.71**
+
+sūryācandramasau kṛtvā cakre rathavarottame pakṣau pūrvāparau tatra kṛte rātryahanī śubhe
+
+**8.24.72**
+
+daśa nāgapatīn īṣāṃ dhṛtarāṣṭramukhān dṛḍhām dyāṃ yugaṃ yugacarmāṇi saṃvartakabalāhakān
+
+**8.24.73**
+
+śamyāṃ dhṛtiṃ ca medhāṃ ca sthitiṃ saṃnatim eva ca grahanakṣatratārābhiś carma citraṃ nabhastalam
+
+**8.24.74**
+
+surāmbupretavittānāṃ patīṃl lokeśvarān hayān sinīvālīm anumatiṃ kuhūṃ rākāṃ ca suvratām yoktrāṇi cakrur vāhānāṃ rohakāṃś cāpi kaṇṭhakam
+
+**8.24.75**
+
+karma satyaṃ tapo 'rthaś ca vihitās tatra raśmayaḥ adhiṣṭhānaṃ manas tv āsīt parirathyaṃ sarasvatī
+
+**8.24.76**
+
+nānāvarṇāś ca citrāś ca patākāḥ pavaneritāḥ vidyudindradhanurnaddhaṃ rathaṃ dīptaṃ vyadīpayat
+
+**8.24.77**
+
+evaṃ tasmin mahārāja kalpite rathasattame devair manujaśārdūla dviṣatām abhimardane
+
+**8.24.78**
+
+svāny āyudhāni mukhyāni nyadadhāc chaṃkaro rathe rathayaṣṭiṃ viyatkṛṣṭāṃ sthāpayām āsa govṛṣam
+
+**8.24.79**
+
+brahmadaṇḍaḥ kāladaṇḍo rudradaṇḍas tathā jvaraḥ pariskandā rathasyāsya sarvatodiśam udyatāḥ
+
+**8.24.80**
+
+atharvāṅgirasāv āstāṃ cakrarakṣau mahātmanaḥ ṛgvedaḥ sāmavedaś ca purāṇaṃ ca puraḥsarāḥ
+
+**8.24.81**
+
+itihāsayajurvedau pṛṣṭharakṣau babhūvatuḥ divyā vācaś ca vidyāś ca paripārśvacarāḥ kṛtāḥ
+
+**8.24.82**
+
+tottrādayaś ca rājendra vaṣaṭkāras tathaiva ca oṃkāraś ca mukhe rājann atiśobhākaro 'bhavat
+
+**8.24.83**
+
+vicitram ṛtubhiḥ ṣaḍbhiḥ kṛtvā saṃvatsaraṃ dhanuḥ tasmān nṝṇāṃ kālarātrir jyā kṛtā dhanuṣo 'jarā
+
+**8.24.84**
+
+iṣuś cāpy abhavad viṣṇur jvalanaḥ soma eva ca agnīṣomau jagat kṛtsnaṃ vaiṣṇavaṃ cocyate jagat
+
+**8.24.85**
+
+viṣṇuś cātmā bhagavato bhavasyāmitatejasaḥ tasmād dhanurjyāsaṃsparśaṃ na viṣehur harasya te
+
+**8.24.86**
+
+tasmiñ śare tigmamanyur mumocāviṣahaṃ prabhuḥ bhṛgvaṅgiromanyubhavaṃ krodhāgnim atiduḥsaham
+
+**8.24.87**
+
+sa nīlalohito dhūmraḥ kṛttivāsā bhayaṃkaraḥ ādityāyutasaṃkāśas tejojvālāvṛto jvalan
+
+**8.24.88**
+
+duścyāvaś cyāvano jetā hantā brahmadviṣāṃ haraḥ nityaṃ trātā ca hantā ca dharmādharmāśritāñ janān
+
+**8.24.89**
+
+pramāthibhir ghorarūpair bhīmodagrair gaṇair vṛtaḥ vibhāti bhagavān sthāṇus tair evātmaguṇair vṛtaḥ
+
+**8.24.90**
+
+tasyāṅgāni samāśritya sthitaṃ viśvam idaṃ jagat jaṅgamājaṅgamaṃ rājañ śuśubhe 'dbhutadarśanam
+
+**8.24.91**
+
+dṛṣṭvā tu taṃ rathaṃ divyaṃ kavacī sa śarāsanī bāṇam ādatta taṃ divyaṃ somaviṣṇvagnisaṃbhavam
+
+**8.24.92**
+
+tasya vājāṃs tato devāḥ kalpayāṃ cakrire vibhoḥ puṇyagandhavahaṃ rājañ śvasanaṃ rājasattama
+
+**8.24.93**
+
+tam āsthāya mahādevas trāsayan daivatāny api āruroha tadā yattaḥ kampayann iva rodasī
+
+**8.24.94**
+
+sa śobhamāno varadaḥ khaḍgī bāṇī śarāsanī hasann ivābravīd devo sārathiḥ ko bhaviṣyati
+
+**8.24.95**
+
+tam abruvan devagaṇā yaṃ bhavān saṃniyokṣyate sa bhaviṣyati deveśa sārathis te na saṃśayaḥ
+
+**8.24.96**
+
+tān abravīt punar devo mattaḥ śreṣṭhataro hi yaḥ taṃ sārathiṃ kurudhvaṃ me svayaṃ saṃcintya māciram
+
+**8.24.97**
+
+etac chrutvā tato devā vākyam uktaṃ mahātmanā gatvā pitāmahaṃ devaṃ prasādyaivaṃ vaco 'bruvan
+
+**8.24.98**
+
+deva tvayedaṃ kathitaṃ tridaśārinibarhaṇam tathā ca kṛtam asmābhiḥ prasanno vṛṣabhadhvajaḥ
+
+**8.24.99**
+
+rathaś ca vihito 'smābhir vicitrāyudhasaṃvṛtaḥ sārathiṃ tu na jānīmaḥ kaḥ syāt tasmin rathottame
+
+**8.24.100**
+
+tasmād vidhīyatāṃ kaś cit sārathir devasattama saphalāṃ tāṃ giraṃ deva kartum arhasi no vibho
+
+**8.24.101**
+
+evam asmāsu hi purā bhagavann uktavān asi hitaṃ kartāsmi bhavatām iti tat kartum arhasi
+
+**8.24.102**
+
+sa deva yukto rathasattamo no; durāvaro drāvaṇaḥ śātravāṇām pinākapāṇir vihito 'tra yoddhā; vibhīṣayan dānavān udyato 'sau
+
+**8.24.103**
+
+tathaiva vedāś caturo hayāgryā; dharā saśailā ca ratho mahātman nakṣatravaṃśo 'nugato varūthe; yasmin yoddhā sārathinābhirakṣyaḥ
+
+**8.24.104**
+
+tatra sārathir eṣṭavyaḥ sarvair etair viśeṣavān tatpratiṣṭho ratho deva hayā yoddhā tathaiva ca kavacāni ca śastrāṇi kārmukaṃ ca pitāmaha
+
+**8.24.105**
+
+tvām ṛte sārathiṃ tatra nānyaṃ paśyāmahe vayam tvaṃ hi sarvair guṇair yukto devatābhyo 'dhikaḥ prabho sārathye tūrṇam āroha saṃyaccha paramān hayān
+
+**8.24.106**
+
+iti te śirasā natvā trilokeśaṃ pitāmaham devāḥ prasādayām āsuḥ sārathyāyeti naḥ śrutam
+
+**8.24.107**
+
+brahmovāca nātra kiṃ cin mṛṣā vākyaṃ yad uktaṃ vo divaukasaḥ saṃyacchāmi hayān eṣa yudhyato vai kapardinaḥ
+
+**8.24.108**
+
+tataḥ sa bhagavān devo lokasraṣṭā pitāmahaḥ sārathye kalpito devair īśānasya mahātmanaḥ
+
+**8.24.109**
+
+tasminn ārohati kṣipraṃ syandanaṃ lokapūjite śirobhir agamaṃs tūrṇaṃ te hayā vātaraṃhasaḥ
+
+**8.24.110**
+
+maheśvare tv āruhati jānubhyām agaman mahīm
+
+**8.24.111**
+
+abhīśūn hi trilokeśaḥ saṃgṛhya prapitāmahaḥ tān aśvāṃś codayām āsa manomārutaraṃhasaḥ
+
+**8.24.112**
+
+tato 'dhirūḍhe varade prayāte cāsurān prati sādhu sādhv iti viśveśaḥ smayamāno 'bhyabhāṣata
+
+**8.24.113**
+
+yāhi deva yato daityāś codayāśvān atandritaḥ paśya bāhvor balaṃ me 'dya nighnataḥ śātravān raṇe
+
+**8.24.114**
+
+tatas tāṃś codayām āsa vāyuvegasamāñ jave yena tat tripuraṃ rājan daityadānavarakṣitam
+
+**8.24.115**
+
+athādhijyaṃ dhanuḥ kṛtvā śarvaḥ saṃdhāya taṃ śaram yuktvā pāśupatāstreṇa tripuraṃ samacintayat
+
+**8.24.116**
+
+tasmin sthite tadā rājan kruddhe vidhṛtakārmuke purāṇi tāni kālena jagmur ekatvatāṃ tadā
+
+**8.24.117**
+
+ekībhāvaṃ gate caiva tripure samupāgate babhūva tumulo harṣo daivatānāṃ mahātmanām
+
+**8.24.118**
+
+tato devagaṇāḥ sarve siddhāś ca paramarṣayaḥ jayeti vāco mumucuḥ saṃstuvanto mudānvitāḥ
+
+**8.24.119**
+
+tato 'grataḥ prādurabhūt tripuraṃ jaghnuṣo 'surān anirdeśyogravapuṣo devasyāsahyatejasaḥ
+
+**8.24.120**
+
+sa tad vikṛṣya bhagavān divyaṃ lokeśvaro dhanuḥ trailokyasāraṃ tam iṣuṃ mumoca tripuraṃ prati tat sāsuragaṇaṃ dagdhvā prākṣipat paścimārṇave
+
+**8.24.121**
+
+evaṃ tat tripuraṃ dagdhaṃ dānavāś cāpy aśeṣataḥ maheśvareṇa kruddhena trailokyasya hitaiṣiṇā
+
+**8.24.122**
+
+sa cātmakrodhajo vahnir hāhety uktvā nivāritaḥ mā kārṣīr bhasmasāl lokān iti tryakṣo 'bravīc ca tam
+
+**8.24.123**
+
+tataḥ prakṛtim āpannā devā lokās tatharṣayaḥ tuṣṭuvur vāgbhir arthyābhiḥ sthāṇum apratimaujasam
+
+**8.24.124**
+
+te 'nujñātā bhagavatā jagmuḥ sarve yathāgatam kṛtakāmāḥ prasannena prajāpatimukhāḥ surāḥ
+
+**8.24.125**
+
+yathaiva bhagavān brahmā lokadhātā pitāmahaḥ saṃyaccha tvaṃ hayān asya rādheyasya mahātmanaḥ
+
+**8.24.126**
+
+tvaṃ hi kṛṣṇāc ca karṇāc ca phalgunāc ca viśeṣataḥ viśiṣṭo rājaśārdūla nāsti tatra vicāraṇā
+
+**8.24.127**
+
+yuddhe hy ayaṃ rudrakalpas tvaṃ ca brahmasamo 'nagha tasmāc chaktau yuvāṃ jetuṃ macchatrūṃs tāv ivāsurān
+
+**8.24.128**
+
+yathā śalyādya karṇo 'yaṃ śvetāśvaṃ kṛṣṇasārathim pramathya hanyāt kaunteyaṃ tathā śīghraṃ vidhīyatām tvayi karṇaś ca rājyaṃ ca vayaṃ caiva pratiṣṭhitāḥ
+
+**8.24.129**
+
+imaṃ cāpy aparaṃ bhūya itihāsaṃ nibodha me pitur mama sakāśe yaṃ brāhmaṇaḥ prāha dharmavit
+
+**8.24.130**
+
+śrutvā caitad vacaś citraṃ hetukāryārthasaṃhitam kuru śalya viniścitya mā bhūd atra vicāraṇā
+
+**8.24.131**
+
+bhārgavāṇāṃ kule jāto jamadagnir mahātapāḥ tasya rāmeti vikhyātaḥ putras tejoguṇānvitaḥ
+
+**8.24.132**
+
+sa tīvraṃ tapa āsthāya prasādayitavān bhavam astrahetoḥ prasannātmā niyataḥ saṃyatendriyaḥ
+
+**8.24.133**
+
+tasya tuṣṭo mahādevo bhaktyā ca praśamena ca hṛdgataṃ cāsya vijñāya darśayām āsa śaṃkaraḥ
+
+**8.24.134**
+
+īśvara uvāca rāma tuṣṭo 'smi bhadraṃ te viditaṃ me tavepsitam kuruṣva pūtam ātmānaṃ sarvam etad avāpsyasi
+
+**8.24.135**
+
+dāsyāmi te tadāstrāṇi yadā pūto bhaviṣyasi apātram asamarthaṃ ca dahanty astrāṇi bhārgava
+
+**8.24.136**
+
+ity ukto jāmadagnyas tu devadevena śūlinā pratyuvāca mahātmānaṃ śirasāvanataḥ prabhum
+
+**8.24.137**
+
+yadā jānāsi deveśa pātraṃ mām astradhāraṇe tadā śuśrūṣate 'strāṇi bhavān me dātum arhati
+
+**8.24.138**
+
+duryodhana uvāca tataḥ sa tapasā caiva damena niyamena ca pūjopahārabalibhir homamantrapuraskṛtaiḥ
+
+**8.24.139**
+
+ārādhayitavāñ śarvaṃ bahūn varṣagaṇāṃs tadā prasannaś ca mahādevo bhārgavasya mahātmanaḥ
+
+**8.24.140**
+
+abravīt tasya bahuśo guṇān devyāḥ samīpataḥ bhaktimān eṣa satataṃ mayi rāmo dṛḍhavrataḥ
+
+**8.24.141**
+
+evaṃ tasya guṇān prīto bahuśo 'kathayat prabhuḥ devatānāṃ pitṝṇāṃ ca samakṣam arisūdanaḥ
+
+**8.24.142**
+
+etasminn eva kāle tu daityā āsan mahābalāḥ tais tadā darpamohāndhair abādhyanta divaukasaḥ
+
+**8.24.143**
+
+tataḥ saṃbhūya vibudhās tān hantuṃ kṛtaniścayāḥ cakruḥ śatruvadhe yatnaṃ na śekur jetum eva te
+
+**8.24.144**
+
+abhigamya tato devā maheśvaram athābruvan prasādayantas taṃ bhaktyā jahi śatrugaṇān iti
+
+**8.24.145**
+
+pratijñāya tato devo devatānāṃ ripukṣayam rāmaṃ bhārgavam āhūya so 'bhyabhāṣata śaṃkaraḥ
+
+**8.24.146**
+
+ripūn bhārgava devānāṃ jahi sarvān samāgatān lokānāṃ hitakāmārthaṃ matprītyarthaṃ tathaiva ca
+
+**8.24.147**
+
+rāma uvāca akṛtāstrasya deveśa kā śaktir me maheśvara nihantuṃ dānavān sarvān kṛtāstrān yuddhadurmadān
+
+**8.24.148**
+
+īśvara uvāca gaccha tvaṃ madanudhyānān nihaniṣyasi dānavān vijitya ca ripūn sarvān guṇān prāpsyasi puṣkalān
+
+**8.24.149**
+
+duryodhana uvāca etac chrutvā ca vacanaṃ pratigṛhya ca sarvaśaḥ rāmaḥ kṛtasvastyayanaḥ prayayau dānavān prati
+
+**8.24.150**
+
+avadhīd devaśatrūṃs tān madadarpabalānvitān vajrāśanisamasparśaiḥ prahārair eva bhārgavaḥ
+
+**8.24.151**
+
+sa dānavaiḥ kṣatatanur jāmadagnyo dvijottamaḥ saṃspṛṣṭaḥ sthāṇunā sadyo nirvraṇaḥ samajāyata
+
+**8.24.152**
+
+prītaś ca bhagavān devaḥ karmaṇā tena tasya vai varān prādād brahmavide bhārgavāya mahātmane
+
+**8.24.153**
+
+uktaś ca devadevena prītiyuktena śūlinā nipātāt tava śastrāṇāṃ śarīre yābhavad rujā
+
+**8.24.154**
+
+tayā te mānuṣaṃ karma vyapoḍhaṃ bhṛgunandana gṛhāṇāstrāṇi divyāni matsakāśād yathepsitam
+
+**8.24.155**
+
+tato 'strāṇi samastāni varāṃś ca manasepsitān labdhvā bahuvidhān rāmaḥ praṇamya śirasā śivam
+
+**8.24.156**
+
+anujñāṃ prāpya deveśāj jagāma sa mahātapāḥ evam etat purāvṛttaṃ tadā kathitavān ṛṣiḥ
+
+**8.24.157**
+
+bhārgavo 'py adadāt sarvaṃ dhanurvedaṃ mahātmane karṇāya puruṣavyāghra suprītenāntarātmanā
+
+**8.24.158**
+
+vṛjinaṃ hi bhavet kiṃ cid yadi karṇasya pārthiva nāsmai hy astrāṇi divyāni prādāsyad bhṛgunandanaḥ
+
+**8.24.159**
+
+nāpi sūtakule jātaṃ karṇaṃ manye kathaṃ cana devaputram ahaṃ manye kṣatriyāṇāṃ kulodbhavam
+
+**8.24.160**
+
+sakuṇḍalaṃ sakavacaṃ dīrghabāhuṃ mahāratham katham ādityasadṛśaṃ mṛgī vyāghraṃ janiṣyati
+
+**8.24.161**
+
+paśya hy asya bhujau pīnau nāgarājakaropamau vakṣaḥ paśya viśālaṃ ca sarvaśatrunibarhaṇam
+
+**8.25.1**
+
+duryodhana uvāca evaṃ sa bhagavān devaḥ sarvalokapitāmahaḥ sārathyam akarot tatra yatra rudro 'bhavad rathī
+
+**8.25.2**
+
+rathinābhyadhiko vīraḥ kartavyo rathasārathiḥ tasmāt tvaṃ puruṣavyāghra niyaccha turagān yudhi
+
+**8.25.3**
+
+saṃjaya uvāca tataḥ śalyaḥ pariṣvajya sutaṃ te vākyam abravīt duryodhanam amitraghnaḥ prīto madrādhipas tadā
+
+**8.25.4**
+
+evaṃ cen manyase rājan gāndhāre priyadarśana tasmāt te yat priyaṃ kiṃ cit tat sarvaṃ karavāṇy aham
+
+**8.25.5**
+
+yatrāsmi bharataśreṣṭha yogyaḥ karmaṇi karhi cit tatra sarvātmanā yukto vakṣye kāryadhuraṃ tava
+
+**8.25.6**
+
+yat tu karṇam ahaṃ brūyāṃ hitakāmaḥ priyāpriyam mama tatkṣamatāṃ sarvaṃ bhavān karṇaś ca sarvaśaḥ
+
+**8.25.7**
+
+karṇa uvāca īśānasya yathā brahmā yathā pārthasya keśavaḥ tathā nityaṃ hite yukto madrarāja bhajasva naḥ
+
+**8.25.8**
+
+śalya uvāca ātmanindātmapūjā ca paranindā parastavaḥ anācaritam āryāṇāṃ vṛttam etac caturvidham
+
+**8.25.9**
+
+yat tu vidvan pravakṣyāmi pratyayārtham ahaṃ tava ātmanaḥ stavasaṃyuktaṃ tan nibodha yathātatham
+
+**8.25.10**
+
+ahaṃ śakrasya sārathye yogyo mātalivat prabho apramādaprayogāc ca jñānavidyācikitsitaiḥ
+
+**8.25.11**
+
+tataḥ pārthena saṃgrāme yudhyamānasya te 'nagha vāhayiṣyāmi turagān vijvaro bhava sūtaja
+
+**8.26.1**
+
+duryodhana uvāca ayaṃ te karṇa sārathyaṃ madrarājaḥ kariṣyati kṛṣṇād abhyadhiko yantā devendrasyeva mātaliḥ
+
+**8.26.2**
+
+yathā harihayair yuktaṃ saṃgṛhṇāti sa mātaliḥ śalyas tava tathādyāyaṃ saṃyantā rathavājinām
+
+**8.26.3**
+
+yodhe tvayi rathasthe ca madrarāje ca sārathau rathaśreṣṭho dhruvaṃ saṃkhye pārtho nābhibhaviṣyati
+
+**8.26.4**
+
+saṃjaya uvāca tato duryodhano bhūyo madrarājaṃ tarasvinam uvāca rājan saṃgrāme saṃyacchantaṃ hayottamān
+
+**8.26.5**
+
+tvayābhigupto rādheyo vijeṣyati dhanaṃjayam ity ukto ratham āsthāya tatheti prāha bhārata
+
+**8.26.6**
+
+śalye 'bhyupagate karṇaḥ sārathiṃ sumano 'bravīt svaṃ sūta syandanaṃ mahyaṃ kalpayety asakṛt tvaran
+
+**8.26.7**
+
+tato jaitraṃ rathavaraṃ gandharvanagaropamam vidhivat kalpitaṃ bhartre jayety uktvā nyavedayat
+
+**8.26.8**
+
+taṃ rathaṃ rathināṃ śreṣṭhaḥ karṇo 'bhyarcya yathāvidhi saṃpāditaṃ brahmavidā pūrvam eva purodhasā
+
+**8.26.9**
+
+kṛtvā pradakṣiṇaṃ yatnād upasthāya ca bhāskaram samīpasthaṃ madrarājaṃ samāropayad agrataḥ
+
+**8.26.10**
+
+tataḥ karṇasya durdharṣaṃ syandanapravaraṃ mahat āruroha mahātejāḥ śalyaḥ siṃha ivācalam
+
+**8.26.11**
+
+tataḥ śalyāsthitaṃ rājan karṇaḥ svaratham uttamam adhyatiṣṭhad yathāmbhodaṃ vidyutvantaṃ divākaraḥ
+
+**8.26.12**
+
+tāv ekaratham ārūḍhāv ādityāgnisamatviṣau vyabhrājetāṃ yathā meghaṃ sūryāgnī sahitau divi
+
+**8.26.13**
+
+saṃstūyamānau tau vīrau tadāstāṃ dyutimattarau ṛtvik sadasyair indrāgnī hūyamānāv ivādhvare
+
+**8.26.14**
+
+sa śalyasaṃgṛhītāśve rathe karṇaḥ sthito 'bhavat dhanur visphārayan ghoraṃ pariveṣīva bhāskaraḥ
+
+**8.26.15**
+
+āsthitaḥ sa rathaśreṣṭhaṃ karṇaḥ śaragabhastimān prababhau puruṣavyāghro mandarastha ivāṃśumān
+
+**8.26.16**
+
+taṃ rathasthaṃ mahāvīraṃ yāntaṃ cāmitatejasam duryodhanaḥ sma rādheyam idaṃ vacanam abravīt
+
+**8.26.17**
+
+akṛtaṃ droṇabhīṣmābhyāṃ duṣkaraṃ karma saṃyuge kuruṣvādhirathe vīra miṣatāṃ sarvadhanvinām
+
+**8.26.18**
+
+manogataṃ mama hy āsīd bhīṣmadroṇau mahārathau arjunaṃ bhīmasenaṃ ca nihantārāv iti dhruvam
+
+**8.26.19**
+
+tābhyāṃ yad akṛtaṃ vīra vīrakarma mahāmṛdhe tat karma kuru rādheya vajrapāṇir ivāparaḥ
+
+**8.26.20**
+
+gṛhāṇa dharmarājaṃ vā jahi vā tvaṃ dhanaṃjayam bhīmasenaṃ ca rādheya mādrīputrau yamāv api
+
+**8.26.21**
+
+jayaś ca te 'stu bhadraṃ ca prayāhi puruṣarṣabha pāṇḍuputrasya sainyāni kuru sarvāṇi bhasmasāt
+
+**8.26.22**
+
+tatas tūryasahasrāṇi bherīṇām ayutāni ca vādyamānāny arocanta meghaśabdā yathā divi
+
+**8.26.23**
+
+pratigṛhya tu tad vākyaṃ rathastho rathasattamaḥ abhyabhāṣata rādheyaḥ śalyaṃ yuddhaviśāradam
+
+**8.26.24**
+
+codayāśvān mahābāho yāvad dhanmi dhanaṃjayam bhīmasenaṃ yamau cobhau rājānaṃ ca yudhiṣṭhiram
+
+**8.26.25**
+
+adya paśyatu me śalya bāhuvīryaṃ dhanaṃjayaḥ asyataḥ kaṅkapatrāṇāṃ sahasrāṇi śatāni ca
+
+**8.26.26**
+
+adya kṣepsyāmy ahaṃ śalya śarān paramatejanān pāṇḍavānāṃ vināśāya duryodhanajayāya ca
+
+**8.26.27**
+
+śalya uvāca sūtaputra kathaṃ nu tvaṃ pāṇḍavān avamanyase sarvāstrajñān maheṣvāsān sarvān eva mahārathān
+
+**8.26.28**
+
+anivartino mahābhāgān ajeyān satyavikramān api saṃjanayeyur ye bhayaṃ sākṣāc chatakratoḥ
+
+**8.26.29**
+
+yadā śroṣyasi nirghoṣaṃ visphūrjitam ivāśaneḥ rādheya gāṇḍivasyājau tadā naivaṃ vadiṣyasi
+
+**8.26.30**
+
+saṃjaya uvāca anādṛtya tu tad vākyaṃ madrarājena bhāṣitam drakṣyasy adyety avocad vai śalyaṃ karṇo nareśvara
+
+**8.26.31**
+
+dṛṣṭvā karṇaṃ maheṣvāsaṃ yuyutsuṃ samavasthitam cukruśuḥ kuravaḥ sarve hṛṣṭarūpāḥ paraṃtapa
+
+**8.26.32**
+
+tato dundubhighoṣeṇa bherīṇāṃ ninadena ca bāṇaśabdaiś ca vividhair garjitaiś ca tarasvinām niryayus tāvakā yuddhe mṛtyuṃ kṛtvā nivartanam
+
+**8.26.33**
+
+prayāte tu tataḥ karṇe yodheṣu muditeṣu ca cacāla pṛthivī rājan rarāsa ca suvisvaram
+
+**8.26.34**
+
+niścaranto vyadṛśyanta sūryāt sapta mahāgrahāḥ ulkāpātaś ca saṃjajñe diśāṃ dāhas tathaiva ca tathāśanyaś ca saṃpetur vavur vātāś ca dāruṇāḥ
+
+**8.26.35**
+
+mṛgapakṣigaṇāś caiva bahuśaḥ pṛtanāṃ tava apasavyaṃ tadā cakrur vedayanto mahad bhayam
+
+**8.26.36**
+
+prasthitasya ca karṇasya nipetus turagā bhuvi asthivarṣaṃ ca patitam antarikṣād bhayānakam
+
+**8.26.37**
+
+jajvaluś caiva śastrāṇi dhvajāś caiva cakampire aśrūṇi ca vyamuñcanta vāhanāni viśāṃ pate
+
+**8.26.38**
+
+ete cānye ca bahava utpātās tatra māriṣa samutpetur vināśāya kauravāṇāṃ sudāruṇāḥ
+
+**8.26.39**
+
+na ca tān gaṇayām āsuḥ sarve te daivamohitāḥ prasthitaṃ sūtaputraṃ ca jayety ūcur narā bhuvi nirjitān pāṇḍavāṃś caiva menire tava kauravāḥ
+
+**8.26.40**
+
+tato rathasthaḥ paravīrahantā; bhīṣmadroṇāv āttavīryau nirīkṣya samajvalad bhārata pāvakābho; vaikartano 'sau rathakuñjaro vṛṣaḥ
+
+**8.26.41**
+
+sa śalyam ābhāṣya jagāda vākyaṃ; pārthasya karmāpratimaṃ ca dṛṣṭvā mānena darpeṇa ca dahyamānaḥ; krodhena dīpyann iva niḥśvasitvā
+
+**8.26.42**
+
+nāhaṃ mahendrād api vajrapāṇeḥ; kruddhād bibhemy āttadhanū rathasthaḥ dṛṣṭvā tu bhīṣmapramukhāñ śayānān; na tv eva māṃ sthiratā saṃjahāti
+
+**8.26.43**
+
+mahendraviṣṇupratimāv aninditau; rathāśvanāgapravarapramāthinau avadhyakalpau nihatau yadā parais; tato mamādyāpi raṇe 'sti sādhvasam
+
+**8.26.44**
+
+samīkṣya saṃkhye 'tibalān narādhipair; narāśvamātaṅgarathāñ śarair hatān kathaṃ na sarvān ahitān raṇe 'vadhīn; mahāstravid brāhmaṇapuṃgavo guruḥ
+
+**8.26.45**
+
+sa saṃsmaran droṇahavaṃ mahāhave; bravīmi satyaṃ kuravo nibodhata na vo mad anyaḥ prasahed raṇe 'rjunaṃ; kramāgataṃ mṛtyum ivograrūpiṇam
+
+**8.26.46**
+
+śikṣā prasādaś ca balaṃ dhṛtiś ca; droṇe mahāstrāṇi ca saṃnatiś ca sa ced agān mṛtyuvaśaṃ mahātmā; sarvān anyān āturān adya manye
+
+**8.26.47**
+
+neha dhruvaṃ kiṃ cid api pracintyaṃ; vidur loke karmaṇo 'nityayogāt sūryodaye ko hi vimuktasaṃśayo; garvaṃ kurvītādya gurau nipātite
+
+**8.26.48**
+
+na nūnam astrāṇi balaṃ parākramaḥ; kriyā sunītaṃ paramāyudhāni vā alaṃ manuṣyasya sukhāya vartituṃ; tathā hi yuddhe nihataḥ parair guruḥ
+
+**8.26.49**
+
+hutāśanādityasamānatejasaṃ; parākrame viṣṇupuraṃdaropamam naye bṛhaspatyuśanaḥsamaṃ sadā; na cainam astraṃ tad apāt suduḥsaham
+
+**8.26.50**
+
+saṃprakruṣṭe ruditastrīkumāre; parābhūte pauruṣe dhārtarāṣṭre mayā kṛtyam iti jānāmi śalya; prayāhi tasmād dviṣatām anīkam
+
+**8.26.51**
+
+yatra rājā pāṇḍavaḥ satyasaṃdho; vyavasthito bhīmasenārjunau ca vāsudevaḥ sṛñjayāḥ sātyakiś ca; yamau ca kas tau viṣahen mad anyaḥ
+
+**8.26.52**
+
+tasmāt kṣipraṃ madrapate prayāhi; raṇe pāñcālān pāṇḍavān sṛñjayāṃś ca tān vā haniṣyāmi sametya saṃkhye; yāsyāmi vā droṇamukhāya manye
+
+**8.26.53**
+
+na tv evāhaṃ na gamiṣyāmi madhyaṃ; teṣāṃ śūrāṇām iti mā śalya viddhi mitradroho marṣaṇīyo na me 'yaṃ; tyaktvā prāṇān anuyāsyāmi droṇam
+
+**8.26.54**
+
+prājñasya mūḍhasya ca jīvitānte; prāṇapramokṣo 'ntakavaktragasya ato vidvann abhiyāsyāmi pārthaṃ; diṣṭaṃ na śakyaṃ vyativartituṃ vai
+
+**8.26.55**
+
+kalyāṇavṛttaḥ satataṃ hi rājan; vaicitravīryasya suto mamāsīt tasyārthasiddhyartham ahaṃ tyajāmi; priyān bhogān dustyajaṃ jīvitaṃ ca
+
+**8.26.56**
+
+vaiyāghracarmāṇam akūjanākṣaṃ; haimatrikośaṃ rajatatriveṇum rathaprabarhaṃ turagaprabarhair; yuktaṃ prādān mahyam idaṃ hi rāmaḥ
+
+**8.26.57**
+
+dhanūṃṣi citrāṇi nirīkṣya śalya; dhvajaṃ gadāṃ sāyakāṃś cograrūpān asiṃ ca dīptaṃ paramāyudhaṃ ca; śaṅkhaṃ ca śubhraṃ svanavantam ugram
+
+**8.26.58**
+
+patākinaṃ vajranipātanisvanaṃ; sitāśvayuktaṃ śubhatūṇaśobhitam imaṃ samāsthāya rathaṃ ratharṣabhaṃ; raṇe haniṣyāmy aham arjunaṃ balāt
+
+**8.26.59**
+
+taṃ cen mṛtyuḥ sarvaharo 'bhirakṣate; sadāpramattaḥ samare pāṇḍuputram taṃ vā haniṣyāmi sametya yuddhe; yāsyāmi vā bhīṣmamukho yamāya
+
+**8.26.60**
+
+yamavaruṇakuberavāsavā vā; yadi yugapat sagaṇā mahāhave jugupiṣava ihaitya pāṇḍavaṃ; kim u bahunā saha tair jayāmi tam
+
+**8.26.61**
+
+iti raṇarabhasasya katthatas; tad upaniśamya vacaḥ sa madrarāṭ avahasad avamanya vīryavān; pratiṣiṣidhe ca jagāda cottaram
+
+**8.26.62**
+
+virama virama karṇa katthanād; atirabhaso 'syati cāpy ayuktavāk kva ca hi naravaro dhanaṃjayaḥ; kva punar iha tvam upāramābudha
+
+**8.26.63**
+
+yadusadanam upendrapālitaṃ; tridivam ivāmararājarakṣitam prasabham iha vilokya ko haret; puruṣavarāvarajām ṛte 'rjunāt
+
+**8.26.64**
+
+tribhuvanasṛjam īśvareśvaraṃ; ka iha pumān bhavam āhvayed yudhi mṛgavadhakalahe ṛte 'rjunāt; surapativīryasamaprabhāvataḥ
+
+**8.26.65**
+
+asurasuramahoragān narān; garuḍapiśācasayakṣarākṣasān iṣubhir ajayad agnigauravāt; svabhilaṣitaṃ ca havir dadau jayaḥ
+
+**8.26.66**
+
+smarasi nanu yadā parair hṛtaḥ; sa ca dhṛtarāṣṭrasuto vimokṣitaḥ dinakaraja narottamair yadā; maruṣu bahūn vinihatya tān arīn
+
+**8.26.67**
+
+prathamam api palāyite tvayi; priyakalahā dhṛtarāṣṭrasūnavaḥ smarasi nanu yadā pramocitāḥ; khacaragaṇān avajitya pāṇḍavaiḥ
+
+**8.26.68**
+
+samuditabalavāhanāḥ punaḥ; puruṣavareṇa jitāḥ stha gograhe sagurugurusutāḥ sabhīṣmakāḥ; kim u na jitaḥ sa tadā tvayārjunaḥ
+
+**8.26.69**
+
+idam aparam upasthitaṃ punas; tava nidhanāya suyuddham adya vai yadi na ripubhayāt palāyase; samaragato 'dya hato 'si sūtaja
+
+**8.26.70**
+
+saṃjaya uvāca iti bahuparuṣaṃ prabhāṣati; pramanasi madrapatau ripustavam bhṛśam atiruṣitaḥ paraṃ vṛṣaḥ; kurupṛtanāpatir āha madrapam
+
+**8.26.71**
+
+bhavatu bhavatu kiṃ vikatthase; nanu mama tasya ca yuddham udyatam yadi sa jayati māṃ mahāhave; tata idam astu sukatthitaṃ tava
+
+**8.26.72**
+
+evam astv iti madreśa uktvā nottaram uktavān yāhi madreśa cāpy enaṃ karṇaḥ prāha yuyutsayā
+
+**8.26.73**
+
+sa rathaḥ prayayau śatrūñ śvetāśvaḥ śalyasārathiḥ nighnann amitrān samare tamo ghnan savitā yathā
+
+**8.26.74**
+
+tataḥ prāyāt prītimān vai rathena; vaiyāghreṇa śvetayujātha karṇaḥ sa cālokya dhvajinīṃ pāṇḍavānāṃ; dhanaṃjayaṃ tvarayā paryapṛcchat
+
+**8.27.1**
+
+saṃjaya uvāca prayān eva tadā karṇo harṣayan vāhinīṃ tava ekaikaṃ samare dṛṣṭvā pāṇḍavaṃ paryapṛcchata
+
+**8.27.2**
+
+yo mamādya mahātmānaṃ darśayec chvetavāhanam tasmai dadyām abhipretaṃ varaṃ yaṃ manasecchati
+
+**8.27.3**
+
+sa cet tad abhimanyeta tasmai dadyām ahaṃ punaḥ śakaṭaṃ ratnasaṃpūrṇaṃ yo me brūyād dhanaṃjayam
+
+**8.27.4**
+
+sa cet tad abhimanyeta puruṣo 'rjunadarśivān anyaṃ tasmai punar dadyāṃ sauvarṇaṃ hastiṣaḍgavam
+
+**8.27.5**
+
+tathā tasmai punar dadyāṃ strīṇāṃ śatam alaṃkṛtam śyāmānāṃ niṣkakaṇṭhīnāṃ gītavādyavipaścitām
+
+**8.27.6**
+
+sa cet tad abhimanyeta puruṣo 'rjunadarśivān anyaṃ tasmai varaṃ dadyāṃ śvetān pañcaśatān hayān
+
+**8.27.7**
+
+hemabhāṇḍaparicchannān sumṛṣṭamaṇikuṇḍalān sudāntān api caivāhaṃ dadyām aṣṭaśatān parān
+
+**8.27.8**
+
+rathaṃ ca śubhraṃ sauvarṇaṃ dadyāṃ tasmai svalaṃkṛtam yuktaṃ paramakāmbojair yo me brūyād dhanaṃjayam
+
+**8.27.9**
+
+anyaṃ tasmai varaṃ dadyāṃ kuñjarāṇāṃ śatāni ṣaṭ kāñcanair vividhair bhāṇḍair ācchannān hemamālinaḥ utpannān aparānteṣu vinītān hastiśikṣakaiḥ
+
+**8.27.10**
+
+sa cet tad abhimanyeta puruṣo 'rjunadarśivān anyaṃ tasmai varaṃ dadyāṃ yam asau kāmayet svayam
+
+**8.27.11**
+
+putradārān vihārāṃś ca yad anyad vittam asti me tac ca tasmai punar dadyāṃ yad yat sa manasecchati
+
+**8.27.12**
+
+hatvā ca sahitau kṛṣṇau tayor vittāni sarvaśaḥ tasmai dadyām ahaṃ yo me prabrūyāt keśavārjunau
+
+**8.27.13**
+
+etā vācaḥ subahuśaḥ karṇa uccārayan yudhi dadhmau sāgarasaṃbhūtaṃ susvanaṃ śaṅkham uttamam
+
+**8.27.14**
+
+tā vācaḥ sūtaputrasya tathā yuktā niśamya tu duryodhano mahārāja prahṛṣṭaḥ sānugo 'bhavat
+
+**8.27.15**
+
+tato dundubhinirghoṣo mṛdaṅgānāṃ ca sarvaśaḥ siṃhanādaḥ savāditraḥ kuñjarāṇāṃ ca nisvanaḥ
+
+**8.27.16**
+
+prādurāsīt tadā rājaṃs tvatsainye bharatarṣabha yodhānāṃ saṃprahṛṣṭānāṃ tathā samabhavat svanaḥ
+
+**8.27.17**
+
+tathā prahṛṣṭe sainye tu plavamānaṃ mahāratham vikatthamānaṃ samare rādheyam arikarśanam madrarājaḥ prahasyedaṃ vacanaṃ pratyabhāṣata
+
+**8.27.18**
+
+mā sūtaputra mānena sauvarṇaṃ hastiṣaḍgavam prayaccha puruṣāyādya drakṣyasi tvaṃ dhanaṃjayam
+
+**8.27.19**
+
+bālyād iva tvaṃ tyajasi vasu vaiśravaṇo yathā ayatnenaiva rādheya draṣṭāsy adya dhanaṃjayam
+
+**8.27.20**
+
+parāsṛjasi mithyā kiṃ kiṃ ca tvaṃ bahu mūḍhavat apātradāne ye doṣās tān mohān nāvabudhyase
+
+**8.27.21**
+
+yat pravedayase vittaṃ bahutvena khalu tvayā śakyaṃ bahuvidhair yajñair yaṣṭuṃ sūta yajasva taiḥ
+
+**8.27.22**
+
+yac ca prārthayase hantuṃ kṛṣṇau mohān mṛṣaiva tat na hi śuśruma saṃmarde kroṣṭrā siṃhau nipātitau
+
+**8.27.23**
+
+aprārthitaṃ prārthayase suhṛdo na hi santi te ye tvāṃ na vārayanty āśu prapatantaṃ hutāśane
+
+**8.27.24**
+
+kālakāryaṃ na jānīṣe kālapakvo 'sy asaṃśayam bahvabaddham akarṇīyaṃ ko hi brūyāj jijīviṣuḥ
+
+**8.27.25**
+
+samudrataraṇaṃ dorbhyāṃ kaṇṭhe baddhvā yathā śilām giryagrād vā nipatanaṃ tādṛk tava cikīrṣitam
+
+**8.27.26**
+
+sahitaḥ sarvayodhais tvaṃ vyūḍhānīkaiḥ surakṣitaḥ dhanaṃjayena yudhyasva śreyaś cet prāptum icchasi
+
+**8.27.27**
+
+hitārthaṃ dhārtarāṣṭrasya bravīmi tvā na hiṃsayā śraddhatsvaitan mayā proktaṃ yadi te 'sti jijīviṣā
+
+**8.27.28**
+
+karṇa uvāca svavīrye 'haṃ parāśvasya prārthayāmy arjunaṃ raṇe tvaṃ tu mitramukhaḥ śatrur māṃ bhīṣayitum icchasi
+
+**8.27.29**
+
+na mām asmād abhiprāyāt kaś cid adya nivartayet apīndro vajram udyamya kiṃ nu martyaḥ kariṣyati
+
+**8.27.30**
+
+saṃjaya uvāca iti karṇasya vākyānte śalyaḥ prāhottaraṃ vacaḥ cukopayiṣur atyarthaṃ karṇaṃ madreśvaraḥ punaḥ
+
+**8.27.31**
+
+yadā vai tvāṃ phalgunaveganunnā; jyācoditā hastavatā visṛṣṭāḥ anvetāraḥ kaṅkapatrāḥ śitāgrās; tadā tapsyasy arjunasyābhiyogāt
+
+**8.27.32**
+
+yadā divyaṃ dhanur ādāya pārthaḥ; prabhāsayan pṛtanāṃ savyasācī tvām ardayeta niśitaiḥ pṛṣatkais; tadā paścāt tapsyase sūtaputra
+
+**8.27.33**
+
+bālaś candraṃ mātur aṅke śayāno; yathā kaś cit prārthayate 'pahartum tadvan mohād yatamāno rathasthas; tvaṃ prārthayasy arjunam adya jetum
+
+**8.27.34**
+
+triśūlam āśliṣya sutīkṣṇadhāraṃ; sarvāṇi gātrāṇi nigharṣasi tvam sutīkṣṇadhāropamakarmaṇā tvaṃ; yuyutsase yo 'rjunenādya karṇa
+
+**8.27.35**
+
+siddhaṃ siṃhaṃ kesariṇaṃ bṛhantaṃ; bālo mūḍhaḥ kṣudramṛgas tarasvī samāhvayet tadvad etat tavādya; samāhvānaṃ sūtaputrārjunasya
+
+**8.27.36**
+
+mā sūtaputrāhvaya rājaputraṃ; mahāvīryaṃ kesariṇaṃ yathaiva vane sṛgālaḥ piśitasya tṛpto; mā pārtham āsādya vinaṅkṣyasi tvam
+
+**8.27.37**
+
+īṣādantaṃ mahānāgaṃ prabhinnakaraṭāmukham śaśakāhvayase yuddhe karṇa pārthaṃ dhanaṃjayam
+
+**8.27.38**
+
+bilasthaṃ kṛṣṇasarpaṃ tvaṃ bālyāt kāṣṭhena vidhyasi mahāviṣaṃ pūrṇakośaṃ yat pārthaṃ yoddhum icchasi
+
+**8.27.39**
+
+siṃhaṃ kesariṇaṃ kruddham atikramyābhinardasi sṛgāla iva mūḍhatvān nṛsiṃhaṃ karṇa pāṇḍavam
+
+**8.27.40**
+
+suparṇaṃ patagaśreṣṭhaṃ vainateyaṃ tarasvinam laṭvevāhvayase pāte karṇa pārthaṃ dhanaṃjayam
+
+**8.27.41**
+
+sarvāmbhonilayaṃ bhīmam ūrmimantaṃ jhaṣāyutam candrodaye vivartantam aplavaḥ saṃtitīrṣasi
+
+**8.27.42**
+
+ṛṣabhaṃ dundubhigrīvaṃ tīkṣṇaśṛṅgaṃ prahāriṇam vatsa āhvayase yuddhe karṇa pārthaṃ dhanaṃjayam
+
+**8.27.43**
+
+mahāghoṣaṃ mahāmeghaṃ darduraḥ pratinardasi kāmatoyapradaṃ loke naraparjanyam arjunam
+
+**8.27.44**
+
+yathā ca svagṛhasthaḥ śvā vyāghraṃ vanagataṃ bhaṣet tathā tvaṃ bhaṣase karṇa naravyāghraṃ dhanaṃjayam
+
+**8.27.45**
+
+sṛgālo 'pi vane karṇa śaśaiḥ parivṛto vasan manyate siṃham ātmānaṃ yāvat siṃhaṃ na paśyati
+
+**8.27.46**
+
+tathā tvam api rādheya siṃham ātmānam icchasi apaśyañ śatrudamanaṃ naravyāghraṃ dhanaṃjayam
+
+**8.27.47**
+
+vyāghraṃ tvaṃ manyase ''tmānaṃ yāvat kṛṣṇau na paśyasi samāsthitāv ekarathe sūryācandramasāv iva
+
+**8.27.48**
+
+yāvad gāṇḍīvanirghoṣaṃ na śṛṇoṣi mahāhave tāvad eva tvayā karṇa śakyaṃ vaktuṃ yathecchasi
+
+**8.27.49**
+
+rathaśabdadhanuḥśabdair nādayantaṃ diśo daśa nardantam iva śārdūlaṃ dṛṣṭvā kroṣṭā bhaviṣyasi
+
+**8.27.50**
+
+nityam eva sṛgālas tvaṃ nityaṃ siṃho dhanaṃjayaḥ vīrapradveṣaṇān mūḍha nityaṃ kroṣṭeva lakṣyase
+
+**8.27.51**
+
+yathākhuḥ syād biḍālaś ca śvā vyāghraś ca balābale yathā sṛgālaḥ siṃhaś ca yathā ca śaśakuñjarau
+
+**8.27.52**
+
+yathānṛtaṃ ca satyaṃ ca yathā cāpi viṣāmṛte tathā tvam api pārthaś ca prakhyātāv ātmakarmabhiḥ
+
+**8.27.53**
+
+saṃjaya uvāca adhikṣiptas tu rādheyaḥ śalyenāmitatejasā śalyam āha susaṃkruddho vākśalyam avadhārayan
+
+**8.27.54**
+
+guṇān guṇavataḥ śalya guṇavān vetti nāguṇaḥ tvaṃ tu nityaṃ guṇair hīnaḥ kiṃ jñāsyasy aguṇo guṇān
+
+**8.27.55**
+
+arjunasya mahāstrāṇi krodhaṃ vīryaṃ dhanuḥ śarān ahaṃ śalyābhijānāmi na tvaṃ jānāsi tat tathā
+
+**8.27.56**
+
+evam evātmano vīryam ahaṃ vīryaṃ ca pāṇḍave jānann evāhvaye yuddhe śalya nāgniṃ pataṃgavat
+
+**8.27.57**
+
+asti cāyam iṣuḥ śalya supuṅkho raktabhojanaḥ ekatūṇīśayaḥ patrī sudhautaḥ samalaṃkṛtaḥ
+
+**8.27.58**
+
+śete candanapūrṇena pūjito bahulāḥ samāḥ āheyo viṣavān ugro narāśvadvipasaṃghahā
+
+**8.27.59**
+
+ekavīro mahāraudras tanutrāsthividāraṇaḥ nirbhindyāṃ yena ruṣṭo 'ham api meruṃ mahāgirim
+
+**8.27.60**
+
+tam ahaṃ jātu nāsyeyam anyasmin phalgunād ṛte kṛṣṇād vā devakīputrāt satyaṃ cātra śṛṇuṣva me
+
+**8.27.61**
+
+tenāham iṣuṇā śalya vāsudevadhanaṃjayau yotsye paramasaṃkruddhas tat karma sadṛśaṃ mama
+
+**8.27.62**
+
+sarveṣāṃ vāsudevānāṃ kṛṣṇe lakṣmīḥ pratiṣṭhitā sarveṣāṃ pāṇḍuputrāṇāṃ jayaḥ pārthe pratiṣṭhitaḥ ubhayaṃ tat samāsādya ko 'tivartitum arhati
+
+**8.27.63**
+
+tāv etau puruṣavyāghrau sametau syandane sthitau mām ekam abhisaṃyātau sujātaṃ śalya paśya me
+
+**8.27.64**
+
+pitṛṣvasāmātulajau bhrātarāv aparājitau maṇī sūtra iva protau draṣṭāsi nihatau mayā
+
+**8.27.65**
+
+arjune gāṇḍivaṃ kṛṣṇe cakraṃ tārkṣyakapidhvajau bhīrūṇāṃ trāsajananau śalya harṣakarau mama
+
+**8.27.66**
+
+tvaṃ tu duṣprakṛtir mūḍho mahāyuddheṣv akovidaḥ bhayāvatīrṇaḥ saṃtrāsād abaddhaṃ bahu bhāṣase
+
+**8.27.67**
+
+saṃstauṣi tvaṃ tu kenāpi hetunā tau kudeśaja tau hatvā samare hantā tvām addhā sahabāndhavam
+
+**8.27.68**
+
+pāpadeśaja durbuddhe kṣudra kṣatriyapāṃsana suhṛd bhūtvā ripuḥ kiṃ māṃ kṛṣṇābhyāṃ bhīṣayann asi
+
+**8.27.69**
+
+tau vā mamādya hantārau hantāsmi samare sthitau nāhaṃ bibhemi kṛṣṇābhyāṃ vijānann ātmano balam
+
+**8.27.70**
+
+vāsudevasahasraṃ vā phalgunānāṃ śatāni ca aham eko haniṣyāmi joṣam āssva kudeśaja
+
+**8.27.71**
+
+striyo bālāś ca vṛddhāś ca prāyaḥ krīḍāgatā janāḥ yā gāthāḥ saṃpragāyanti kurvanto 'dhyayanaṃ yathā tā gāthāḥ śṛṇu me śalya madrakeṣu durātmasu
+
+**8.27.72**
+
+brāhmaṇaiḥ kathitāḥ pūrvaṃ yathāvad rājasaṃnidhau śrutvā caikamanā mūḍha kṣama vā brūhi vottaram
+
+**8.27.73**
+
+mitradhruṅ madrako nityaṃ yo no dveṣṭi sa madrakaḥ madrake saṃgataṃ nāsti kṣudravākye narādhame
+
+**8.27.74**
+
+durātmā madrako nityaṃ nityaṃ cānṛtiko 'nṛjuḥ yāvadantaṃ hi daurātmyaṃ madrakeṣv iti naḥ śrutam
+
+**8.27.75**
+
+pitā mātā ca putraś ca śvaśrūśvaśuramātulāḥ jāmātā duhitā bhrātā naptā te te ca bāndhavāḥ
+
+**8.27.76**
+
+vayasyābhyāgatāś cānye dāsīdāsaṃ ca saṃgatam puṃbhir vimiśrā nāryaś ca jñātājñātāḥ svayecchayā
+
+**8.27.77**
+
+yeṣāṃ gṛheṣu śiṣṭānāṃ saktumanthāśināṃ sadā pītvā sīdhuṃ sagomāṃsaṃ nardanti ca hasanti ca
+
+**8.27.78**
+
+yāni caivāpy abaddhāni pravartante ca kāmataḥ kāmapralāpino 'nyonyaṃ teṣu dharmaḥ kathaṃ bhavet
+
+**8.27.79**
+
+madrakeṣu vilupteṣu prakhyātāśubhakarmasu nāpi vairaṃ na sauhārdaṃ madrakeṣu samācaret
+
+**8.27.80**
+
+madrake saṃgataṃ nāsti madrako hi sacāpalaḥ madrakeṣu ca duḥsparśaṃ śaucaṃ gāndhārakeṣu ca
+
+**8.27.81**
+
+rājayājakayājyena naṣṭaṃ dattaṃ havir bhavet
+
+**8.27.82**
+
+śūdrasaṃskārako vipro yathā yāti parābhavam tathā brahmadviṣo nityaṃ gacchantīha parābhavam
+
+**8.27.83**
+
+madrake saṃgataṃ nāsti hataṃ vṛścikato viṣam ātharvaṇena mantreṇa sarvā śāntiḥ kṛtā bhavet
+
+**8.27.84**
+
+iti vṛścikadaṣṭasya nānāviṣahatasya ca kurvanti bheṣajaṃ prājñāḥ satyaṃ tac cāpi dṛśyate evaṃ vidvañ joṣam āssva śṛṇu cātrottaraṃ vacaḥ
+
+**8.27.85**
+
+vāsāṃsy utsṛjya nṛtyanti striyo yā madyamohitāḥ mithune 'saṃyatāś cāpi yathākāmacarāś ca tāḥ tāsāṃ putraḥ kathaṃ dharmaṃ madrako vaktum arhati
+
+**8.27.86**
+
+yās tiṣṭhantyaḥ pramehanti yathaivoṣṭrīdaśerake tāsāṃ vibhraṣṭalajjānāṃ nirlajjānāṃ tatas tataḥ tvaṃ putras tādṛśīnāṃ hi dharmaṃ vaktum ihecchasi
+
+**8.27.87**
+
+suvīrakaṃ yācyamānā madrakā kaṣati sphijau adātukāmā vacanam idaṃ vadati dāruṇam
+
+**8.27.88**
+
+mā mā suvīrakaṃ kaś cid yācatāṃ dayito mama putraṃ dadyāṃ pratipadaṃ na tu dadyāṃ suvīrakam
+
+**8.27.89**
+
+nāryo bṛhatyo nirhrīkā madrakāḥ kambalāvṛtāḥ ghasmarā naṣṭaśaucāś ca prāya ity anuśuśruma
+
+**8.27.90**
+
+evamādi mayānyair vā śakyaṃ vaktuṃ bhaved bahu ā keśāgrān nakhāgrāc ca vaktavyeṣu kuvartmasu
+
+**8.27.91**
+
+madrakāḥ sindhusauvīrā dharmaṃ vidyuḥ kathaṃ tv iha pāpadeśodbhavā mlecchā dharmāṇām avicakṣaṇāḥ
+
+**8.27.92**
+
+eṣa mukhyatamo dharmaḥ kṣatriyasyeti naḥ śrutam yad ājau nihataḥ śete sadbhiḥ samabhipūjitaḥ
+
+**8.27.93**
+
+āyudhānāṃ saṃparāye yan mucyeyam ahaṃ tataḥ na me sa prathamaḥ kalpo nidhane svargam icchataḥ
+
+**8.27.94**
+
+so 'haṃ priyaḥ sakhā cāsmi dhārtarāṣṭrasya dhīmataḥ tadarthe hi mama prāṇā yac ca me vidyate vasu
+
+**8.27.95**
+
+vyaktaṃ tvam apy upahitaḥ pāṇḍavaiḥ pāpadeśaja yathā hy amitravat sarvaṃ tvam asmāsu pravartase
+
+**8.27.96**
+
+kāmaṃ na khalu śakyo 'haṃ tvadvidhānāṃ śatair api saṃgrāmād vimukhaḥ kartuṃ dharmajña iva nāstikaiḥ
+
+**8.27.97**
+
+sāraṅga iva gharmārtaḥ kāmaṃ vilapa śuṣya ca nāhaṃ bhīṣayituṃ śakyaḥ kṣatravṛtte vyavasthitaḥ
+
+**8.27.98**
+
+tanutyajāṃ nṛsiṃhānām āhaveṣv anivartinām yā gatir guruṇā prāṅ me proktā rāmeṇa tāṃ smara
+
+**8.27.99**
+
+sveṣāṃ trāṇārtham udyuktaṃ vadhāya dviṣatām api viddhi mām āsthitaṃ vṛttaṃ paurūravasam uttamam
+
+**8.27.100**
+
+na tad bhūtaṃ prapaśyāmi triṣu lokeṣu madraka yo mām asmād abhiprāyād vārayed iti me matiḥ
+
+**8.27.101**
+
+evaṃ vidvañ joṣam āssva trāsāt kiṃ bahu bhāṣase mā tvā hatvā pradāsyāmi kravyādbhyo madrakādhama
+
+**8.27.102**
+
+mitrapratīkṣayā śalya dhārtarāṣṭrasya cobhayoḥ apavādatitikṣābhis tribhir etair hi jīvasi
+
+**8.27.103**
+
+punaś ced īdṛśaṃ vākyaṃ madrarāja vadiṣyasi śiras te pātayiṣyāmi gadayā vajrakalpayā
+
+**8.27.104**
+
+śrotāras tv idam adyeha draṣṭāro vā kudeśaja karṇaṃ vā jaghnatuḥ kṛṣṇau karṇo vāpi jaghāna tau
+
+**8.27.105**
+
+evam uktvā tu rādheyaḥ punar eva viśāṃ pate abravīn madrarājānaṃ yāhi yāhīty asaṃbhramam
+
+**8.28.1**
+
+saṃjaya uvāca māriṣādhiratheḥ śrutvā vaco yuddhābhinandinaḥ śalyo 'bravīt punaḥ karṇaṃ nidarśanam udāharan
+
+**8.28.2**
+
+yathaiva matto madyena tvaṃ tathā na ca vā tathā tathāhaṃ tvāṃ pramādyantaṃ cikitsāmi suhṛttayā
+
+**8.28.3**
+
+imāṃ kākopamāṃ karṇa procyamānāṃ nibodha me śrutvā yatheṣṭaṃ kuryās tvaṃ vihīna kulapāṃsana
+
+**8.28.4**
+
+nāham ātmani kiṃ cid vai kilbiṣaṃ karṇa saṃsmare yena tvaṃ māṃ mahābāho hantum icchasy anāgasam
+
+**8.28.5**
+
+avaśyaṃ tu mayā vācyaṃ budhyatāṃ yadi te hitam viśeṣato rathasthena rājñaś caiva hitaiṣiṇā
+
+**8.28.6**
+
+samaṃ ca viṣamaṃ caiva rathinaś ca balābalam śramaḥ khedaś ca satataṃ hayānāṃ rathinā saha
+
+**8.28.7**
+
+āyudhasya parijñānaṃ rutaṃ ca mṛgapakṣiṇām bhāraś cāpy atibhāraś ca śalyānāṃ ca pratikriyā
+
+**8.28.8**
+
+astrayogaś ca yuddhaṃ ca nimittāni tathaiva ca sarvam etan mayā jñeyaṃ rathasyāsya kuṭumbinā atas tvāṃ kathaye karṇa nidarśanam idaṃ punaḥ
+
+**8.28.9**
+
+vaiśyaḥ kila samudrānte prabhūtadhanadhānyavān yajvā dānapatiḥ kṣāntaḥ svakarmastho 'bhavac chuciḥ
+
+**8.28.10**
+
+bahuputraḥ priyāpatyaḥ sarvabhūtānukampakaḥ rājño dharmapradhānasya rāṣṭre vasati nirbhayaḥ
+
+**8.28.11**
+
+putrāṇāṃ tasya bālānāṃ kumārāṇāṃ yaśasvinām kāko bahūnām abhavad ucciṣṭakṛtabhojanaḥ
+
+**8.28.12**
+
+tasmai sadā prayacchanti vaiśyaputrāḥ kumārakāḥ māṃsodanaṃ dadhi kṣīraṃ pāyasaṃ madhusarpiṣī
+
+**8.28.13**
+
+sa cocchiṣṭabhṛtaḥ kāko vaiśyaputraiḥ kumārakaiḥ sadṛśān pakṣiṇo dṛptaḥ śreyasaś cāvamanyate
+
+**8.28.14**
+
+atha haṃsāḥ samudrānte kadā cid abhipātinaḥ garuḍasya gatau tulyāś cakrāṅgā hṛṣṭacetasaḥ
+
+**8.28.15**
+
+kumārakās tato haṃsān dṛṣṭvā kākam athābruvan bhavān eva viśiṣṭo hi patatribhyo vihaṃgama
+
+**8.28.16**
+
+pratāryamāṇas tu sa tair alpabuddhibhir aṇḍajaḥ tad vacaḥ satyam ity eva maurkhyād darpāc ca manyate
+
+**8.28.17**
+
+tān so 'bhipatya jijñāsuḥ ka eṣāṃ śreṣṭhabhāg iti ucchiṣṭadarpitaḥ kāko bahūnāṃ dūrapātinām
+
+**8.28.18**
+
+teṣāṃ yaṃ pravaraṃ mene haṃsānāṃ dūrapātinām tam āhvayata durbuddhiḥ patāma iti pakṣiṇam
+
+**8.28.19**
+
+tac chrutvā prāhasan haṃsā ye tatrāsan samāgatāḥ bhāṣato bahu kākasya balinaḥ patatāṃ varāḥ idam ūcuś ca cakrāṅgā vacaḥ kākaṃ vihaṃgamāḥ
+
+**8.28.20**
+
+vayaṃ haṃsāś carāmemāṃ pṛthivīṃ mānasaukasaḥ pakṣiṇāṃ ca vayaṃ nityaṃ dūrapātena pūjitāḥ
+
+**8.28.21**
+
+kathaṃ nu haṃsaṃ balinaṃ vajrāṅgaṃ dūrapātinam kāko bhūtvā nipatane samāhvayasi durmate kathaṃ tvaṃ patanaṃ kāka sahāsmābhir bravīṣi tat
+
+**8.28.22**
+
+atha haṃsavaco mūḍhaḥ kutsayitvā punaḥ punaḥ prajagādottaraṃ kākaḥ katthano jātilāghavāt
+
+**8.28.23**
+
+śatam ekaṃ ca pātānāṃ patitāsmi na saṃśayaḥ śatayojanam ekaikaṃ vicitraṃ vividhaṃ tathā
+
+**8.28.24**
+
+uḍḍīnam avaḍīnaṃ ca praḍīnaṃ ḍīnam eva ca niḍīnam atha saṃḍīnaṃ tiryak cātigatāni ca
+
+**8.28.25**
+
+viḍīnaṃ pariḍīnaṃ ca parāḍīnaṃ suḍīnakam atiḍīnaṃ mahāḍīnaṃ niḍīnaṃ pariḍīnakam
+
+**8.28.26**
+
+gatāgatapratigatā bahvīś ca nikuḍīnikāḥ kartāsmi miṣatāṃ vo 'dya tato drakṣyatha me balam
+
+**8.28.27**
+
+evam ukte tu kākena prahasyaiko vihaṃgamaḥ uvāca haṃsas taṃ kākaṃ vacanaṃ tan nibodha me
+
+**8.28.28**
+
+śatam ekaṃ ca pātānāṃ tvaṃ kāka patitā dhruvam ekam eva tu ye pātaṃ viduḥ sarve vihaṃgamāḥ
+
+**8.28.29**
+
+tam ahaṃ patitā kāka nānyaṃ jānāmi kaṃ cana pata tvam api raktākṣa yena vā tena manyase
+
+**8.28.30**
+
+atha kākāḥ prajahasur ye tatrāsan samāgatāḥ katham ekena pātena haṃsaḥ pātaśataṃ jayet
+
+**8.28.31**
+
+ekenaiva śatasyaikaṃ pātenābhibhaviṣyati haṃsasya patitaṃ kāko balavān āśuvikramaḥ
+
+**8.28.32**
+
+prapetatuḥ spardhayātha tatas tau haṃsavāyasau ekapātī ca cakrāṅgaḥ kākaḥ pātaśatena ca
+
+**8.28.33**
+
+petivān atha cakrāṅgaḥ petivān atha vāyasaḥ visismāpayiṣuḥ pātair ācakṣāṇo ''tmanaḥ kriyām
+
+**8.28.34**
+
+atha kākasya citrāṇi patitānītarāṇi ca dṛṣṭvā pramuditāḥ kākā vinedur atha taiḥ svaraiḥ
+
+**8.28.35**
+
+haṃsāṃś cāvahasanti sma prāvadann apriyāṇi ca utpatyotpatya ca prāhur muhūrtam iti ceti ca
+
+**8.28.36**
+
+vṛkṣāgrebhyaḥ sthalebhyaś ca nipatanty utpatanti ca kurvāṇā vividhān rāvān āśaṃsantas tadā jayam
+
+**8.28.37**
+
+haṃsas tu mṛdukenaiva vikrāntum upacakrame pratyahīyata kākāc ca muhūrtam iva māriṣa
+
+**8.28.38**
+
+avamanya rayaṃ haṃsān idaṃ vacanam abravīt yo 'sāv utpatito haṃsaḥ so 'sāv eva prahīyate
+
+**8.28.39**
+
+atha haṃsaḥ sa tac chrutvā prāpatat paścimāṃ diśam upary upari vegena sāgaraṃ varuṇālayam
+
+**8.28.40**
+
+tato bhīḥ prāviśat kākaṃ tadā tatra vicetasam dvīpadrumān apaśyantaṃ nipatantaṃ śramānvitam nipateyaṃ kva nu śrānta iti tasmiñ jalārṇave
+
+**8.28.41**
+
+aviṣahyaḥ samudro hi bahusattvagaṇālayaḥ mahābhūtaśatodbhāsī nabhaso 'pi viśiṣyate
+
+**8.28.42**
+
+gāmbhīryād dhi samudrasya na viśeṣaḥ kulādhama digambarāmbhasāṃ karṇa samudrasthā hi durjayāḥ vidūrapātāt toyasya kiṃ punaḥ karṇa vāyasaḥ
+
+**8.28.43**
+
+atha haṃso 'bhyatikramya muhūrtam iti ceti ca avekṣamāṇas taṃ kākaṃ nāśaknod vyapasarpitum atikramya ca cakrāṅgaḥ kākaṃ taṃ samudaikṣata
+
+**8.28.44**
+
+taṃ tathā hīyamānaṃ ca haṃso dṛṣṭvābravīd idam ujjihīrṣur nimajjantaṃ smaran satpuruṣavratam
+
+**8.28.45**
+
+bahūni patanāni tvam ācakṣāṇo muhur muhuḥ patasy avyāharaṃś cedaṃ na no guhyaṃ prabhāṣase
+
+**8.28.46**
+
+kiṃ nāma patanaṃ kāka yat tvaṃ patasi sāṃpratam jalaṃ spṛśasi pakṣābhyāṃ tuṇḍena ca punaḥ punaḥ
+
+**8.28.47**
+
+sa pakṣābhyāṃ spṛśann ārtas tuṇḍena jalam arṇave kāko dṛḍhaṃ pariśrāntaḥ sahasā nipapāta ha
+
+**8.28.48**
+
+haṃsa uvāca śatam ekaṃ ca pātānāṃ yat prabhāṣasi vāyasa nānāvidhānīha purā tac cānṛtam ihādya te
+
+**8.28.49**
+
+kāka uvāca ucchiṣṭadarpito haṃsa manye ''tmānaṃ suparṇavat avamanya bahūṃś cāhaṃ kākān anyāṃś ca pakṣiṇaḥ prāṇair haṃsa prapadye tvāṃ dvīpāntaṃ prāpayasva mām
+
+**8.28.50**
+
+yady ahaṃ svastimān haṃsa svadeśaṃ prāpnuyāṃ punaḥ na kaṃ cid avamanyeyam āpado māṃ samuddhara
+
+**8.28.51**
+
+tam evaṃvādinaṃ dīnaṃ vilapantam acetanam kāka kāketi vāśantaṃ nimajjantaṃ mahārṇave
+
+**8.28.52**
+
+tathaitya vāyasaṃ haṃso jalaklinnaṃ sudurdaśam padbhyām utkṣipya vepantaṃ pṛṣṭham āropayac chanaiḥ
+
+**8.28.53**
+
+āropya pṛṣṭhaṃ kākaṃ taṃ haṃsaḥ karṇa vicetasam ājagāma punar dvīpaṃ spardhayā petatur yataḥ
+
+**8.28.54**
+
+saṃsthāpya taṃ cāpi punaḥ samāśvāsya ca khecaram gato yathepsitaṃ deśaṃ haṃso mana ivāśugaḥ
+
+**8.28.55**
+
+ucchiṣṭabhojanāt kāko yathā vaiśyakule tu saḥ evaṃ tvam ucchiṣṭabhṛto dhārtarāṣṭrair na saṃśayaḥ sadṛśāñ śreyasaś cāpi sarvān karṇātimanyase
+
+**8.28.56**
+
+droṇadrauṇikṛpair gupto bhīṣmeṇānyaiś ca kauravaiḥ virāṭanagare pārtham ekaṃ kiṃ nāvadhīs tadā
+
+**8.28.57**
+
+yatra vyastāḥ samastāś ca nirjitāḥ stha kirīṭinā sṛgālā iva siṃhena kva te vīryam abhūt tadā
+
+**8.28.58**
+
+bhrātaraṃ ca hataṃ dṛṣṭvā nirjitaḥ savyasācinā paśyatāṃ kuruvīrāṇāṃ prathamaṃ tvaṃ palāyathāḥ
+
+**8.28.59**
+
+tathā dvaitavane karṇa gandharvaiḥ samabhidrutaḥ kurūn samagrān utsṛjya prathamaṃ tvaṃ palāyathāḥ
+
+**8.28.60**
+
+hatvā jitvā ca gandharvāṃś citrasenamukhān raṇe karṇa duryodhanaṃ pārthaḥ sabhāryaṃ samamocayat
+
+**8.28.61**
+
+punaḥ prabhāvaḥ pārthasya purāṇaḥ keśavasya ca kathitaḥ karṇa rāmeṇa sabhāyāṃ rājasaṃsadi
+
+**8.28.62**
+
+satataṃ ca tad aśrauṣīr vacanaṃ droṇabhīṣmayoḥ avadhyau vadatoḥ kṛṣṇau saṃnidhau vai mahīkṣitām
+
+**8.28.63**
+
+kiyantaṃ tatra vakṣyāmi yena yena dhanaṃjayaḥ tvatto 'tiriktaḥ sarvebhyo bhūtebhyo brāhmaṇo yathā
+
+**8.28.64**
+
+idānīm eva draṣṭāsi pradhane syandane sthitau putraṃ ca vasudevasya pāṇḍavaṃ ca dhanaṃjayam
+
+**8.28.65**
+
+devāsuramanuṣyeṣu prakhyātau yau nararṣabhau prakāśenābhivikhyātau tvaṃ tu khadyotavan nṛṣu
+
+**8.28.66**
+
+evaṃ vidvān māvamaṃsthāḥ sūtaputrācyutārjunau nṛsiṃhau tau naraśvā tvaṃ joṣam āssva vikatthana
+
+**8.29.1**
+
+saṃjaya uvāca madrādhipasyādhirathis tadaivaṃ; vaco niśamyāpriyam apratītaḥ uvāca śalyaṃ viditaṃ mamaitad; yathāvidhāv arjunavāsudevau
+
+**8.29.2**
+
+śaure rathaṃ vāhayato 'rjunasya; balaṃ mahāstrāṇi ca pāṇḍavasya ahaṃ vijānāmi yathāvad adya; parokṣabhūtaṃ tava tat tu śalya
+
+**8.29.3**
+
+tau cāpradhṛṣyau śastrabhṛtāṃ variṣṭhau; vyapetabhīr yodhayiṣyāmi kṛṣṇau saṃtāpayaty abhyadhikaṃ tu rāmāc; chāpo 'dya māṃ brāhmaṇasattamāc ca
+
+**8.29.4**
+
+avātsaṃ vai brāhmaṇacchadmanāhaṃ; rāme purā divyam astraṃ cikīrṣuḥ tatrāpi me devarājena vighno; hitārthinā phalgunasyaiva śalya
+
+**8.29.5**
+
+kṛto 'vabhedena mamorum etya; praviśya kīṭasya tanuṃ virūpām guror bhayāc cāpi na celivān ahaṃ; tac cāvabuddho dadṛśe sa vipraḥ
+
+**8.29.6**
+
+pṛṣṭaś cāhaṃ tam avocaṃ maharṣiṃ; sūto 'ham asmīti sa māṃ śaśāpa sūtopadhāv āptam idaṃ tvayāstraṃ; na karmakāle pratibhāsyati tvām
+
+**8.29.7**
+
+anyatra yasmāt tava mṛtyukālād; abrāhmaṇe brahma na hi dhruvaṃ syāt tad adya paryāptam atīva śastram; asmin saṃgrāme tumule tāta bhīme
+
+**8.29.8**
+
+apāṃ patir vegavān aprameyo; nimajjayiṣyan nivahān prajānām mahānagaṃ yaḥ kurute samudraṃ; velaiva taṃ vārayaty aprameyam
+
+**8.29.9**
+
+pramuñcantaṃ bāṇasaṃghān amoghān; marmacchido vīrahaṇaḥ sapatrān kuntīputraṃ pratiyotsyāmi yuddhe; jyākarṣiṇām uttamam adya loke
+
+**8.29.10**
+
+evaṃ balenātibalaṃ mahāstraṃ; samudrakalpaṃ sudurāpam ugram śaraughiṇaṃ pārthivān majjayantaṃ; veleva pārtham iṣubhiḥ saṃsahiṣye
+
+**8.29.11**
+
+adyāhave yasya na tulyam anyaṃ; manye manuṣyaṃ dhanur ādadānam surāsurān vai yudhi yo jayeta; tenādya me paśya yuddhaṃ sughoram
+
+**8.29.12**
+
+atimānī pāṇḍavo yuddhakāmo; amānuṣair eṣyati me mahāstraiḥ tasyāstram astrair abhihatya saṃkhye; śarottamaiḥ pātayiṣyāmi pārtham
+
+**8.29.13**
+
+divākareṇāpi samaṃ tapantaṃ; samāptaraśmiṃ yaśasā jvalantam tamonudaṃ megha ivātimātro; dhanaṃjayaṃ chādayiṣyāmi bāṇaiḥ
+
+**8.29.14**
+
+vaiśvānaraṃ dhūmaśikhaṃ jvalantaṃ; tejasvinaṃ lokam imaṃ dahantam megho bhūtvā śaravarṣair yathāgniṃ; tathā pārthaṃ śamayiṣyāmi yuddhe
+
+**8.29.15**
+
+pramāthinaṃ balavantaṃ prahāriṇaṃ; prabhañjanaṃ mātariśvānam ugram yuddhe sahiṣye himavān ivācalo; dhanaṃjayaṃ kruddham amṛṣyamāṇam
+
+**8.29.16**
+
+viśāradaṃ rathamārgeṣv asaktaṃ; dhuryaṃ nityaṃ samareṣu pravīram loke varaṃ sarvadhanurdharāṇāṃ; dhanaṃjayaṃ saṃyuge saṃsahiṣye
+
+**8.29.17**
+
+adyāhave yasya na tulyam anyaṃ; madhyemanuṣyaṃ dhanur ādadānam sarvām imāṃ yaḥ pṛthivīṃ saheta; tathā vidvān yotsyamāno 'smi tena
+
+**8.29.18**
+
+yaḥ sarvabhūtāni sadevakāni; prasthe 'jayat khāṇḍave savyasācī ko jīvitaṃ rakṣamāṇo hi tena; yuyutsate mām ṛte mānuṣo 'nyaḥ
+
+**8.29.19**
+
+ahaṃ tasya pauruṣaṃ pāṇḍavasya; brūyāṃ hṛṣṭaḥ samitau kṣatriyāṇām kiṃ tvaṃ mūrkhaḥ prabhaṣan mūḍhacetā; mām avocaḥ pauruṣam arjunasya
+
+**8.29.20**
+
+apriyo yaḥ paruṣo niṣṭhuro hi; kṣudraḥ kṣeptā kṣamiṇaś cākṣamāvān hanyām ahaṃ tādṛśānāṃ śatāni; kṣamāmi tvāṃ kṣamayā kālayogāt
+
+**8.29.21**
+
+avocas tvaṃ pāṇḍavārthe 'priyāṇi; pradharṣayan māṃ mūḍhavat pāpakarman mayy ārjave jihmagatir hatas tvaṃ; mitradrohī saptapadaṃ hi mitram
+
+**8.29.22**
+
+kālas tv ayaṃ mṛtyumayo 'tidāruṇo; duryodhano yuddham upāgamad yat tasyārthasiddhim abhikāṅkṣamāṇas; tam abhyeṣye yatra naikāntyam asti
+
+**8.29.23**
+
+mitraṃ mider nandateḥ prīyater vā; saṃtrāyater mānada modater vā bravīti tac cāmuta viprapūrvāt; tac cāpi sarvaṃ mama duryodhane 'sti
+
+**8.29.24**
+
+śatruḥ śadeḥ śāsateḥ śāyater vā; śṛṇāter vā śvayater vāpi sarge upasargād bahudhā sūdateś ca; prāyeṇa sarvaṃ tvayi tac ca mahyam
+
+**8.29.25**
+
+duryodhanārthaṃ tava cāpriyārthaṃ; yaśortham ātmārtham apīśvarārtham tasmād ahaṃ pāṇḍavavāsudevau; yotsye yatnāt karma tat paśya me 'dya
+
+**8.29.26**
+
+astrāṇi paśyādya mamottamāni; brāhmāṇi divyāny atha mānuṣāṇi āsādayiṣyāmy aham ugravīryaṃ; dvipottamaṃ mattam ivābhimattaḥ
+
+**8.29.27**
+
+astraṃ brāhmaṃ manasā tad dhy ajayyaṃ; kṣepsye pārthāyāpratimaṃ jayāya tenāpi me naiva mucyeta yuddhe; na cet pated viṣame me 'dya cakram
+
+**8.29.28**
+
+vaivasvatād daṇḍahastād varuṇād vāpi pāśinaḥ sagadād vā dhanapateḥ savajrād vāpi vāsavāt
+
+**8.29.29**
+
+nānyasmād api kasmāc cid bibhimo hy ātatāyinaḥ iti śalya vijānīhi yathā nāhaṃ bibhemy abhīḥ
+
+**8.29.30**
+
+tasmād bhayaṃ na me pārthān nāpi caiva janārdanāt adya yuddhaṃ hi tābhyāṃ me saṃparāye bhaviṣyati
+
+**8.29.31**
+
+śvabhre te patatāṃ cakram iti me brāhmaṇo 'vadat yudhyamānasya saṃgrāme prāptasyaikāyane bhayam
+
+**8.29.32**
+
+tasmād bibhemi balavad brāhmaṇavyāhṛtād aham ete hi somarājāna īśvarāḥ sukhaduḥkhayoḥ
+
+**8.29.33**
+
+homadhenvā vatsam asya pramatta iṣuṇāhanam carantam ajane śalya brāhmaṇāt tapaso nidheḥ
+
+**8.29.34**
+
+īṣādantān saptaśatān dāsīdāsaśatāni ca dadato dvijamukhyāya prasādaṃ na cakāra me
+
+**8.29.35**
+
+kṛṣṇānāṃ śvetavatsānāṃ sahasrāṇi caturdaśa āharan na labhe tasmāt prasādaṃ dvijasattamāt
+
+**8.29.36**
+
+ṛddhaṃ gehaṃ sarvakāmair yac ca me vasu kiṃ cana tat sarvam asmai satkṛtya prayacchāmi na cecchati
+
+**8.29.37**
+
+tato 'bravīn māṃ yācantam aparāddhaṃ prayatnataḥ vyāhṛtaṃ yan mayā sūta tat tathā na tad anyathā
+
+**8.29.38**
+
+anṛtoktaṃ prajā hanyāt tataḥ pāpam avāpnuyāt tasmād dharmābhirakṣārthaṃ nānṛtaṃ vaktum utsahe
+
+**8.29.39**
+
+mā tvaṃ brahmagatiṃ hiṃsyāḥ prāyaścittaṃ kṛtaṃ tvayā madvākyaṃ nānṛtaṃ loke kaś cit kuryāt samāpnuhi
+
+**8.29.40**
+
+ity etat te mayā proktaṃ kṣiptenāpi suhṛttayā jānāmi tvādhikṣipantaṃ joṣam āssvottaraṃ śṛṇu
+
+**8.30.1**
+
+saṃjaya uvāca tataḥ punar mahārāja madrarājam ariṃdamam abhyabhāṣata rādheyaḥ saṃnivāryottaraṃ vacaḥ
+
+**8.30.2**
+
+yat tvaṃ nidarśanārthaṃ māṃ śalya jalpitavān asi nāhaṃ śakyas tvayā vācā vibhīṣayitum āhave
+
+**8.30.3**
+
+yadi māṃ devatāḥ sarvā yodhayeyuḥ savāsavāḥ tathāpi me bhayaṃ na syāt kim u pārthāt sakeśavāt
+
+**8.30.4**
+
+nāhaṃ bhīṣayituṃ śakyo vāṅmātreṇa kathaṃ cana anyaṃ jānīhi yaḥ śakyas tvayā bhīṣayituṃ raṇe
+
+**8.30.5**
+
+nīcasya balam etāvat pāruṣyaṃ yat tvam āttha mām aśakto 'smadguṇān prāptuṃ valgase bahu durmate
+
+**8.30.6**
+
+na hi karṇaḥ samudbhūto bhayārtham iha māriṣa vikramārtham ahaṃ jāto yaśorthaṃ ca tathaiva ca
+
+**8.30.7**
+
+idaṃ tu me tvam ekāgraḥ śṛṇu madrajanādhipa saṃnidhau dhṛtarāṣṭrasya procyamānaṃ mayā śrutam
+
+**8.30.8**
+
+deśāṃś ca vividhāṃś citrān pūrvavṛttāṃś ca pārthivān brāhmaṇāḥ kathayantaḥ sma dhṛtarāṣṭram upāsate
+
+**8.30.9**
+
+tatra vṛddhaḥ purāvṛttāḥ kathāḥ kāś cid dvijottamaḥ bāhlīkadeśaṃ madrāṃś ca kutsayan vākyam abravīt
+
+**8.30.10**
+
+bahiṣkṛtā himavatā gaṅgayā ca tiraskṛtāḥ sarasvatyā yamunayā kurukṣetreṇa cāpi ye
+
+**8.30.11**
+
+pañcānāṃ sindhuṣaṣṭhānāṃ nadīnāṃ ye 'ntar āśritāḥ tān dharmabāhyān aśucīn bāhlīkān parivarjayet
+
+**8.30.12**
+
+govardhano nāma vaṭaḥ subhāṇḍaṃ nāma catvaram etad rājakuladvāram ākumāraḥ smarāmy aham
+
+**8.30.13**
+
+kāryeṇātyarthagāḍhena bāhlīkeṣūṣitaṃ mayā tata eṣāṃ samācāraḥ saṃvāsād vidito mama
+
+**8.30.14**
+
+śākalaṃ nāma nagaram āpagā nāma nimnagā jartikā nāma bāhlīkās teṣāṃ vṛttaṃ suninditam
+
+**8.30.15**
+
+dhānāgauḍāsave pītvā gomāṃsaṃ laśunaiḥ saha apūpamāṃsavāṭyānām āśinaḥ śīlavarjitāḥ
+
+**8.30.16**
+
+hasanti gānti nṛtyanti strībhir mattā vivāsasaḥ nagarāgāravapreṣu bahir mālyānulepanāḥ
+
+**8.30.17**
+
+mattāvagītair vividhaiḥ kharoṣṭraninadopamaiḥ āhur anyonyam uktāni prabruvāṇā madotkaṭāḥ
+
+**8.30.18**
+
+hā hate hā hatety eva svāmibhartṛhateti ca ākrośantyaḥ pranṛtyanti mandāḥ parvasv asaṃyatāḥ
+
+**8.30.19**
+
+teṣāṃ kilāvaliptānāṃ nivasan kurujāṅgale kaś cid bāhlīkamukhyānāṃ nātihṛṣṭamanā jagau
+
+**8.30.20**
+
+sā nūnaṃ bṛhatī gaurī sūkṣmakambalavāsinī mām anusmaratī śete bāhlīkaṃ kuruvāsinam
+
+**8.30.21**
+
+śatadrukanadīṃ tīrtvā tāṃ ca ramyām irāvatīm gatvā svadeśaṃ drakṣyāmi sthūlaśaṅkhāḥ śubhāḥ striyaḥ
+
+**8.30.22**
+
+manaḥśilojjvalāpāṅgā gauryas trikakudāñjanāḥ kevalājinasaṃvītāḥ kūrdantyaḥ priyadarśanāḥ
+
+**8.30.23**
+
+mṛdaṅgānakaśaṅkhānāṃ mardalānāṃ ca nisvanaiḥ kharoṣṭrāśvataraiś caiva mattā yāsyāmahe sukham
+
+**8.30.24**
+
+śamīpīlukarīrāṇāṃ vaneṣu sukhavartmasu apūpān saktupiṇḍīś ca khādanto mathitānvitāḥ
+
+**8.30.25**
+
+pathiṣu prabalā bhūtvā kadāsamṛdite 'dhvani khalopahāraṃ kurvāṇās tāḍayiṣyāma bhūyasaḥ
+
+**8.30.26**
+
+evaṃ hīneṣu vrātyeṣu bāhlīkeṣu durātmasu kaś cetayāno nivasen muhūrtam api mānavaḥ
+
+**8.30.27**
+
+īdṛśā brāhmaṇenoktā bāhlīkā moghacāriṇaḥ yeṣāṃ ṣaḍbhāgahartā tvam ubhayoḥ śubhapāpayoḥ
+
+**8.30.28**
+
+ity uktvā brāhmaṇaḥ sādhur uttaraṃ punar uktavān bāhlīkeṣv avinīteṣu procyamānaṃ nibodhata
+
+**8.30.29**
+
+tatra sma rākṣasī gāti sadā kṛṣṇacaturdaśīm nagare śākale sphīte āhatya niśi dundubhim
+
+**8.30.30**
+
+kadā vā ghoṣikā gāthāḥ punar gāsyanti śākale gavyasya tṛptā māṃsasya pītvā gauḍaṃ mahāsavam
+
+**8.30.31**
+
+gaurībhiḥ saha nārībhir bṛhatībhiḥ svalaṃkṛtāḥ palāṇḍugaṇḍūṣayutān khādante caiḍakān bahūn
+
+**8.30.32**
+
+vārāhaṃ kaukkuṭaṃ māṃsaṃ gavyaṃ gārdabham auṣṭrakam aiḍaṃ ca ye na khādanti teṣāṃ janma nirarthakam
+
+**8.30.33**
+
+iti gāyanti ye mattāḥ śīdhunā śākalāvataḥ sabālavṛddhāḥ kūrdantas teṣu vṛttaṃ kathaṃ bhavet
+
+**8.30.34**
+
+iti śalya vijānīhi hanta bhūyo bravīmi te yad anyo 'py uktavān asmān brāhmaṇaḥ kurusaṃsadi
+
+**8.30.35**
+
+pañca nadyo vahanty etā yatra pīluvanāny api śatadruś ca vipāśā ca tṛtīyerāvatī tathā candrabhāgā vitastā ca sindhuṣaṣṭhā bahir gatāḥ
+
+**8.30.36**
+
+āraṭṭā nāma te deśā naṣṭadharmān na tān vrajet vrātyānāṃ dāsamīyānāṃ videhānām ayajvanām
+
+**8.30.37**
+
+na devāḥ pratigṛhṇanti pitaro brāhmaṇās tathā teṣāṃ pranaṣṭadharmāṇāṃ bāhlīkānām iti śrutiḥ
+
+**8.30.38**
+
+brāhmaṇena tathā proktaṃ viduṣā sādhusaṃsadi kāṣṭhakuṇḍeṣu bāhlīkā mṛṇmayeṣu ca bhuñjate saktuvāṭyāvalipteṣu śvādilīḍheṣu nirghṛṇāḥ
+
+**8.30.39**
+
+āvikaṃ cauṣṭrikaṃ caiva kṣīraṃ gārdabham eva ca tadvikārāṃś ca bāhlīkāḥ khādanti ca pibanti ca
+
+**8.30.40**
+
+putrasaṃkariṇo jālmāḥ sarvānnakṣīrabhojanāḥ āraṭṭā nāma bāhlīkā varjanīyā vipaścitā
+
+**8.30.41**
+
+uta śalya vijānīhi hanta bhūyo bravīmi te yad anyo 'py uktavān sabhyo brāhmaṇaḥ kurusaṃsadi
+
+**8.30.42**
+
+yugaṃdhare payaḥ pītvā proṣya cāpy acyutasthale tadvad bhūtilaye snātvā kathaṃ svargaṃ gamiṣyati
+
+**8.30.43**
+
+pañca nadyo vahanty etā yatra niḥsṛtya parvatāt āraṭṭā nāma bāhlīkā na teṣv āryo dvyahaṃ vaset
+
+**8.30.44**
+
+bahiś ca nāma hlīkaś ca vipāśāyāṃ piśācakau tayor apatyaṃ bāhlīkā naiṣā sṛṣṭiḥ prajāpateḥ
+
+**8.30.45**
+
+kāraskarān mahiṣakān kaliṅgān kīkaṭāṭavīn karkoṭakān vīrakāṃś ca durdharmāṃś ca vivarjayet
+
+**8.30.46**
+
+iti tīrthānusartāraṃ rākṣasī kā cid abravīt ekarātrā śamīgehe maholūkhalamekhalā
+
+**8.30.47**
+
+āraṭṭā nāma te deśā bāhlīkā nāma te janāḥ vasātisindhusauvīrā iti prāyo vikutsitāḥ
+
+**8.30.48**
+
+uta śalya vijānīhi hanta bhūyo bravīmi te ucyamānaṃ mayā samyak tad ekāgramanāḥ śṛṇu
+
+**8.30.49**
+
+brāhmaṇaḥ śilpino geham abhyagacchat purātithiḥ ācāraṃ tatra saṃprekṣya prītaḥ śilpinam abravīt
+
+**8.30.50**
+
+mayā himavataḥ śṛṅgam ekenādhyuṣitaṃ ciram dṛṣṭāś ca bahavo deśā nānādharmasamākulāḥ
+
+**8.30.51**
+
+na ca kena ca dharmeṇa virudhyante prajā imāḥ sarve hi te 'bruvan dharmaṃ yathoktaṃ vedapāragaiḥ
+
+**8.30.52**
+
+aṭatā tu sadā deśān nānādharmasamākulān āgacchatā mahārāja bāhlīkeṣu niśāmitam
+
+**8.30.53**
+
+tatraiva brāhmaṇo bhūtvā tato bhavati kṣatriyaḥ vaiśyaḥ śūdraś ca bāhlīkas tato bhavati nāpitaḥ
+
+**8.30.54**
+
+nāpitaś ca tato bhūtvā punar bhavati brāhmaṇaḥ dvijo bhūtvā ca tatraiva punar dāso 'pi jāyate
+
+**8.30.55**
+
+bhavaty ekaḥ kule vipraḥ śiṣṭānye kāmacāriṇaḥ gāndhārā madrakāś caiva bāhlīkāḥ ke 'py acetasaḥ
+
+**8.30.56**
+
+etan mayā śrutaṃ tatra dharmasaṃkarakārakam kṛtsnām aṭitvā pṛthivīṃ bāhlīkeṣu viparyayaḥ
+
+**8.30.57**
+
+uta śalya vijānīhi hanta bhūyo bravīmi te yad apy anyo 'bravīd vākyaṃ bāhlīkānāṃ vikutsitam
+
+**8.30.58**
+
+satī purā hṛtā kā cid āraṭṭā kila dasyubhiḥ adharmataś copayātā sā tān abhyaśapat tataḥ
+
+**8.30.59**
+
+bālāṃ bandhumatīṃ yan mām adharmeṇopagacchatha tasmān nāryo bhaviṣyanti bandhakyo vai kuleṣu vaḥ na caivāsmāt pramokṣyadhvaṃ ghorāt pāpān narādhamāḥ
+
+**8.30.60**
+
+kuravaḥ sahapāñcālāḥ śālvā matsyāḥ sanaimiṣāḥ kosalāḥ kāśayo 'ṅgāś ca kaliṅgā magadhās tathā
+
+**8.30.61**
+
+cedayaś ca mahābhāgā dharmaṃ jānanti śāśvatam nānādeśeṣu santaś ca prāyo bāhyā layād ṛte
+
+**8.30.62**
+
+ā matsyebhyaḥ kurupāñcāladeśyā; ā naimiṣāc cedayo ye viśiṣṭāḥ dharmaṃ purāṇam upajīvanti santo; madrān ṛte pañcanadāṃś ca jihmān
+
+**8.30.63**
+
+evaṃ vidvan dharmakathāṃś ca rājaṃs; tūṣṇīṃbhūto jaḍavac chalya bhūyāḥ tvaṃ tasya goptā ca janasya rājā; ṣaḍbhāgahartā śubhaduṣkṛtasya
+
+**8.30.64**
+
+atha vā duṣkṛtasya tvaṃ hartā teṣām arakṣitā rakṣitā puṇyabhāg rājā prajānāṃ tvaṃ tv apuṇyabhāk
+
+**8.30.65**
+
+pūjyamāne purā dharme sarvadeśeṣu śāśvate dharmaṃ pāñcanadaṃ dṛṣṭvā dhig ity āha pitāmahaḥ
+
+**8.30.66**
+
+vrātyānāṃ dāśamīyānāṃ kṛte 'py aśubhakarmaṇām iti pāñcanadaṃ dharmam avamene pitāmahaḥ svadharmastheṣu varṇeṣu so 'py etaṃ nābhipūjayet
+
+**8.30.67**
+
+uta śalya vijānīhi hanta bhūyo bravīmi te kalmāṣapādaḥ sarasi nimajjan rākṣaso 'bravīt
+
+**8.30.68**
+
+kṣatriyasya malaṃ bhaikṣaṃ brāhmaṇasyānṛtaṃ malam malaṃ pṛthivyā bāhlīkāḥ strīṇāṃ madrastriyo malam
+
+**8.30.69**
+
+nimajjamānam uddhṛtya kaś cid rājā niśācaram apṛcchat tena cākhyātaṃ proktavān yan nibodha tat
+
+**8.30.70**
+
+mānuṣāṇāṃ malaṃ mlecchā mlecchānāṃ mauṣṭikā malam mauṣṭikānāṃ malaṃ śaṇḍāḥ śaṇḍānāṃ rājayājakāḥ
+
+**8.30.71**
+
+rājayājakayājyānāṃ madrakāṇāṃ ca yan malam tad bhaved vai tava malaṃ yady asmān na vimuñcasi
+
+**8.30.72**
+
+iti rakṣopasṛṣṭeṣu viṣavīryahateṣu ca rākṣasaṃ bheṣajaṃ proktaṃ saṃsiddhaṃ vacanottaram
+
+**8.30.73**
+
+brāhmaṃ pāñcālāḥ kauraveyāḥ svadharmaḥ; satyaṃ matsyāḥ śūrasenāś ca yajñaḥ prācyā dāsā vṛṣalā dākṣiṇātyāḥ; stenā bāhlīkāḥ saṃkarā vai surāṣṭrāḥ
+
+**8.30.74**
+
+kṛtaghnatā paravittāpahāraḥ; surāpānaṃ gurudārāvamarśaḥ yeṣāṃ dharmas tān prati nāsty adharma; āraṭṭakān pāñcanadān dhig astu
+
+**8.30.75**
+
+ā pāñcālebhyaḥ kuravo naimiṣāś ca; matsyāś caivāpy atha jānanti dharmam kaliṅgakāś cāṅgakā māgadhāś ca; śiṣṭān dharmān upajīvanti vṛddhāḥ
+
+**8.30.76**
+
+prācīṃ diśaṃ śritā devā jātavedaḥpurogamāḥ dakṣiṇāṃ pitaro guptāṃ yamena śubhakarmaṇā
+
+**8.30.77**
+
+pratīcīṃ varuṇaḥ pāti pālayann asurān balī udīcīṃ bhagavān somo brahmaṇyo brāhmaṇaiḥ saha
+
+**8.30.78**
+
+rakṣaḥpiśācān himavān guhyakān gandhamādanaḥ dhruvaḥ sarvāṇi bhūtāni viṣṇur lokāñ janārdanaḥ
+
+**8.30.79**
+
+iṅgitajñāś ca magadhāḥ prekṣitajñāś ca kosalāḥ ardhoktāḥ kurupāñcālāḥ śālvāḥ kṛtsnānuśāsanāḥ pārvatīyāś ca viṣamā yathaiva girayas tathā
+
+**8.30.80**
+
+sarvajñā yavanā rājañ śūrāś caiva viśeṣataḥ mlecchāḥ svasaṃjñāniyatā nānukta itaro janaḥ
+
+**8.30.81**
+
+pratirabdhās tu bāhlīkā na ca ke cana madrakāḥ sa tvam etādṛśaḥ śalya nottaraṃ vaktum arhasi
+
+**8.30.82**
+
+etaj jñātvā joṣam āssva pratīpaṃ mā sma vai kṛthāḥ sa tvāṃ pūrvam ahaṃ hatvā haniṣye keśavārjunau
+
+**8.30.83**
+
+śalya uvāca āturāṇāṃ parityāgaḥ svadārasutavikrayaḥ aṅgeṣu vartate karṇa yeṣām adhipatir bhavān
+
+**8.30.84**
+
+rathātirathasaṃkhyāyāṃ yat tvā bhīṣmas tadābravīt tān viditvātmano doṣān nirmanyur bhava mā krudhaḥ
+
+**8.30.85**
+
+sarvatra brāhmaṇāḥ santi santi sarvatra kṣatriyāḥ vaiśyāḥ śūdrās tathā karṇa striyaḥ sādhvyaś ca suvratāḥ
+
+**8.30.86**
+
+ramante copahāsena puruṣāḥ puruṣaiḥ saha anyonyam avatakṣanto deśe deśe samaithunāḥ
+
+**8.30.87**
+
+paravācyeṣu nipuṇaḥ sarvo bhavati sarvadā ātmavācyaṃ na jānīte jānann api vimuhyati
+
+**8.30.88**
+
+saṃjaya uvāca karṇo 'pi nottaraṃ prāha śalyo 'py abhimukhaḥ parān punaḥ prahasya rādheyaḥ punar yāhīty acodayat
+
+**8.31.1**
+
+saṃjaya uvāca tataḥ parānīkabhidaṃ vyūham apratimaṃ paraiḥ samīkṣya karṇaḥ pārthānāṃ dhṛṣṭadyumnābhirakṣitam
+
+**8.31.2**
+
+prayayau rathaghoṣeṇa siṃhanādaraveṇa ca vāditrāṇāṃ ca ninadaiḥ kampayann iva medinīm
+
+**8.31.3**
+
+vepamāna iva krodhād yuddhaśauṇḍaḥ paraṃtapaḥ pativyūhya mahātejā yathāvad bharatarṣabha
+
+**8.31.4**
+
+vyadhamat pāṇḍavīṃ senām āsurīṃ maghavān iva yudhiṣṭhiraṃ cābhibhavann asapavyaṃ cakāra ha
+
+**8.31.5**
+
+dhṛtarāṣṭra uvāca kathaṃ saṃjaya rādheyaḥ pratyavyūhata pāṇḍavān dhṛṣṭadyumnamukhān vīrān bhīmasenābhirakṣitān
+
+**8.31.6**
+
+ke ca prapakṣau pakṣau vā mama sainyasya saṃjaya pravibhajya yathānyāyaṃ kathaṃ vā samavasthitāḥ
+
+**8.31.7**
+
+kathaṃ pāṇḍusutāś cāpi pratyavyūhanta māmakān kathaṃ caitan mahāyuddhaṃ prāvartata sudāruṇam
+
+**8.31.8**
+
+kva ca bībhatsur abhavad yat karṇo 'yād yudhiṣṭhiram ko hy arjunasya sāṃnidhye śakto 'bhyetuṃ yudhiṣṭhiram
+
+**8.31.9**
+
+sarvabhūtāni yo hy ekaḥ khāṇḍave jitavān purā kas tam anyatra rādheyāt pratiyudhyej jijīviṣuḥ
+
+**8.31.10**
+
+saṃjaya uvāca śṛṇu vyūhasya racanām arjunaś ca yathā gataḥ paridāya nṛpaṃ tebhyaḥ saṃgrāmaś cābhavad yathā
+
+**8.31.11**
+
+kṛpaḥ śāradvato rājan māgadhaś ca tarasvinaḥ sātvataḥ kṛtavarmā ca dakṣiṇaṃ pakṣam āśritāḥ
+
+**8.31.12**
+
+teṣāṃ prapakṣe śakunir ulūkaś ca mahārathaḥ sādibhir vimalaprāsais tavānīkam arakṣatām
+
+**8.31.13**
+
+gāndhāribhir asaṃbhrāntaiḥ pārvatīyaiś ca durjayaiḥ śalabhānām iva vrātaiḥ piśācair iva durdṛśaiḥ
+
+**8.31.14**
+
+catustriṃśat sahasrāṇi rathānām anivartinām saṃśaptakā yuddhaśauṇḍā vāmaṃ pārśvam apālayan
+
+**8.31.15**
+
+samuccitās tava sutaiḥ kṛṣṇārjunajighāṃsavaḥ teṣāṃ prapakṣaḥ kāmbojāḥ śakāś ca yavanaiḥ saha
+
+**8.31.16**
+
+nideśāt sūtaputrasya sarathāḥ sāśvapattayaḥ āhvayanto 'rjunaṃ tasthuḥ keśavaṃ ca mahābalam
+
+**8.31.17**
+
+madhyesenāmukhaṃ karṇo vyavātiṣṭhata daṃśitaḥ citravarmāṅgadaḥ sragvī pālayan dhvajinīmukham
+
+**8.31.18**
+
+rakṣyamāṇaḥ susaṃrabdhaiḥ putraiḥ śastrabhṛtāṃ varaḥ vāhinīpramukhaṃ vīraḥ saṃprakarṣann aśobhata
+
+**8.31.19**
+
+ayoratnir mahābāhuḥ sūryavaiśvānaradyutiḥ mahādvipaskandhagataḥ piṅgalaḥ priyadarśanaḥ duḥśāsano vṛtaḥ sainyaiḥ sthito vyūhasya pṛṣṭhataḥ
+
+**8.31.20**
+
+tam anvayān mahārāja svayaṃ duryodhano nṛpaḥ citrāśvaiś citrasaṃnāhaiḥ sodaryair abhirakṣitaḥ
+
+**8.31.21**
+
+rakṣyamāṇo mahāvīryaiḥ sahitair madrakekayaiḥ aśobhata mahārāja devair iva śatakratuḥ
+
+**8.31.22**
+
+aśvatthāmā kurūṇāṃ ca ye pravīrā mahārathāḥ nityamattāś ca mātaṅgāḥ śūrair mlecchair adhiṣṭhitāḥ anvayus tad rathānīkaṃ kṣaranta iva toyadāḥ
+
+**8.31.23**
+
+te dhvajair vaijayantībhir jvaladbhiḥ paramāyudhaiḥ sādibhiś cāsthitā rejur drumavanta ivācalāḥ
+
+**8.31.24**
+
+teṣāṃ padātināgānāṃ pādarakṣāḥ sahasraśaḥ paṭṭiśāsidharāḥ śūrā babhūvur anivartinaḥ
+
+**8.31.25**
+
+sādibhiḥ syandanair nāgair adhikaṃ samalaṃkṛtaiḥ sa vyūharājo vibabhau devāsuracamūpamaḥ
+
+**8.31.26**
+
+bārhaspatyaḥ suvihito nāyakena vipaścitā nṛtyatīva mahāvyūhaḥ pareṣām ādadhad bhayam
+
+**8.31.27**
+
+tasya pakṣaprapakṣebhyo niṣpatanti yuyutsavaḥ pattyaśvarathamātaṅgāḥ prāvṛṣīva balāhakāḥ
+
+**8.31.28**
+
+tataḥ senāmukhe karṇaṃ dṛṣṭvā rājā yudhiṣṭhiraḥ dhanaṃjayam amitraghnam ekavīram uvāca ha
+
+**8.31.29**
+
+paśyārjuna mahāvyūhaṃ karṇena vihitaṃ raṇe yuktaṃ pakṣaiḥ prapakṣaiś ca senānīkaṃ prakāśate
+
+**8.31.30**
+
+tad etad vai samālokya pratyamitraṃ mahad balam yathā nābhibhavaty asmāṃs tathā nītir vidhīyatām
+
+**8.31.31**
+
+evam ukto 'rjuno rājñā prāñjalir nṛpam abravīt yathā bhavān āha tathā tat sarvaṃ na tad anyathā
+
+**8.31.32**
+
+yas tv asya vihito ghātas taṃ kariṣyāmi bhārata pradhānavadha evāsya vināśas taṃ karomy aham
+
+**8.31.33**
+
+yudhiṣṭhira uvāca tasmāt tvam eva rādheyaṃ bhīmasenaḥ suyodhanam vṛṣasenaṃ ca nakulaḥ sahadevo 'pi saubalam
+
+**8.31.34**
+
+duḥśāsanaṃ śatānīko hārdikyaṃ śinipuṃgavaḥ dhṛṣṭadyumnas tathā drauṇiṃ svayaṃ yāsyāmy ahaṃ kṛpam
+
+**8.31.35**
+
+draupadeyā dhārtarāṣṭrāñ śiṣṭān saha śikhaṇḍinā te te ca tāṃs tān ahitān asmākaṃ ghnantu māmakāḥ
+
+**8.31.36**
+
+saṃjaya uvāca ity ukto dharmarājena tathety uktvā dhanaṃjayaḥ vyādideśa svasainyāni svayaṃ cāgāc camūmukham
+
+**8.31.37**
+
+atha taṃ ratham āyāntaṃ dṛṣṭvātyadbhutadarśanam uvācādhirathiṃ śalyaḥ punas taṃ yuddhadurmadam
+
+**8.31.38**
+
+ayaṃ sa ratha āyāti śvetāśvaḥ kṛṣṇasārathiḥ nighnann amitrān kaunteyo yaṃ yaṃ tvaṃ paripṛcchasi
+
+**8.31.39**
+
+śrūyate tumulaḥ śabdo rathanemisvano mahān eṣa reṇuḥ samudbhūto divam āvṛtya tiṣṭhati
+
+**8.31.40**
+
+cakranemipraṇunnā ca kampate karṇa medinī pravāty eṣa mahāvāyur abhitas tava vāhinīm kravyādā vyāharanty ete mṛgāḥ kurvanti bhairavam
+
+**8.31.41**
+
+paśya karṇa mahāghoraṃ bhayadaṃ lomaharṣaṇam kabandhaṃ meghasaṃkāśaṃ bhānum āvṛtya saṃsthitam
+
+**8.31.42**
+
+paśya yūthair bahuvidhair mṛgāṇāṃ sarvatodiśam balibhir dṛptaśārdūlair ādityo 'bhinirīkṣyate
+
+**8.31.43**
+
+paśya kaṅkāṃś ca gṛdhrāṃś ca samavetān sahasraśaḥ sthitān abhimukhān ghorān anyonyam abhibhāṣataḥ
+
+**8.31.44**
+
+sitāś cāśvāḥ samāyuktās tava karṇa mahārathe pradarāḥ prajvalanty ete dhvajaś caiva prakampate
+
+**8.31.45**
+
+udīryato hayān paśya mahākāyān mahājavān plavamānān darśanīyān ākāśe garuḍān iva
+
+**8.31.46**
+
+dhruvam eṣu nimitteṣu bhūmim āvṛtya pārthivāḥ svapsyanti nihatāḥ karṇa śataśo 'tha sahasraśaḥ
+
+**8.31.47**
+
+śaṅkhānāṃ tumulaḥ śabdaḥ śrūyate lomaharṣaṇaḥ ānakānāṃ ca rādheya mṛdaṅgānāṃ ca sarvaśaḥ
+
+**8.31.48**
+
+bāṇaśabdān bahuvidhān narāśvarathanisvanān jyātalatreṣuśabdāṃś ca śṛṇu karṇa mahātmanām
+
+**8.31.49**
+
+hemarūpyapramṛṣṭānāṃ vāsasāṃ śilpinirmitāḥ nānāvarṇā rathe bhānti śvasanena prakampitāḥ
+
+**8.31.50**
+
+sahemacandratārārkāḥ patākāḥ kiṅkiṇīyutāḥ paśya karṇārjunasyaitāḥ saudāminya ivāmbude
+
+**8.31.51**
+
+dhvajāḥ kaṇakaṇāyante vātenābhisamīritāḥ sapatākā rathāś cāpi pāñcālānāṃ mahātmanām
+
+**8.31.52**
+
+nāgāśvarathapattyaughāṃs tāvakān samabhighnataḥ dhvajāgraṃ dṛśyate tv asya jyāśabdaś cāpi śrūyate
+
+**8.31.53**
+
+adya draṣṭāsi taṃ vīraṃ śvetāśvaṃ kṛṣṇasārathim nighnantaṃ śātravān saṃkhye yaṃ karṇa paripṛcchasi
+
+**8.31.54**
+
+adya tau puruṣavyāghrau lohitākṣau paraṃtapau vāsudevārjunau karṇa draṣṭāsy ekarathasthitau
+
+**8.31.55**
+
+sārathir yasya vārṣṇeyo gāṇḍīvaṃ yasya kārmukam taṃ ced dhantāsi rādheya tvaṃ no rājā bhaviṣyasi
+
+**8.31.56**
+
+eṣa saṃśaptakāhūtas tān evābhimukho gataḥ karoti kadanaṃ caiṣāṃ saṃgrāme dviṣatāṃ balī iti bruvāṇaṃ madreśaṃ karṇaḥ prāhātimanyumān
+
+**8.31.57**
+
+paśya saṃśaptakaiḥ kruddhaiḥ sarvataḥ samabhidrutaḥ eṣa sūrya ivāmbhodaiś channaḥ pārtho na dṛśyate etad anto 'rjunaḥ śalya nimagnaḥ śokasāgare
+
+**8.31.58**
+
+śalya uvāca varuṇaṃ ko 'mbhasā hanyād indhanena ca pāvakam ko vānilaṃ nigṛhṇīyāt pibed vā ko mahārṇavam
+
+**8.31.59**
+
+īdṛg rūpam ahaṃ manye pārthasya yudhi nigraham na hi śakyo 'rjuno jetuṃ sendraiḥ sarvaiḥ surāsuraiḥ
+
+**8.31.60**
+
+athaivaṃ paritoṣas te vācoktvā sumanā bhava na sa śakyo yudhā jetum anyaṃ kuru manoratham
+
+**8.31.61**
+
+bāhubhyām uddhared bhūmiṃ dahet kruddha imāḥ prajāḥ pātayet tridivād devān yo 'rjunaṃ samare jayet
+
+**8.31.62**
+
+paśya kuntīsutaṃ vīraṃ bhīmam akliṣṭakāriṇam prabhāsantaṃ mahābāhuṃ sthitaṃ merum ivācalam
+
+**8.31.63**
+
+amarṣī nityasaṃrabdhaś ciraṃ vairam anusmaran eṣa bhīmo jayaprepsur yudhi tiṣṭhati vīryavān
+
+**8.31.64**
+
+eṣa dharmabhṛtāṃ śreṣṭho dharmarājo yudhiṣṭhiraḥ tiṣṭhaty asukaraḥ saṃkhye paraiḥ parapuraṃjayaḥ
+
+**8.31.65**
+
+etau ca puruṣavyāghrāv aśvināv iva sodarau nakulaḥ sahadevaś ca tiṣṭhato yudhi durjayau
+
+**8.31.66**
+
+dṛśyanta ete kārṣṇeyāḥ pañca pañcācalā iva vyavasthitā yotsyamānāḥ sarve 'rjunasamā yudhi
+
+**8.31.67**
+
+ete drupadaputrāś ca dhṛṣṭadyumnapurogamāḥ hīnāḥ satyajitā vīrās tiṣṭhanti paramaujasaḥ
+
+**8.31.68**
+
+iti saṃvadator eva tayoḥ puruṣasiṃhayoḥ te sene samasajjetāṃ gaṅgāyamunavad bhṛśam
+
+**8.32.1**
+
+dhṛtarāṣṭra uvāca tathā vyūḍheṣv anīkeṣu saṃsakteṣu ca saṃjaya saṃśaptakān kathaṃ pārtho gataḥ karṇaś ca pāṇḍavān
+
+**8.32.2**
+
+etad vistarato yuddhaṃ prabrūhi kuśalo hy asi na hi tṛpyāmi vīrāṇāṃ śṛṇvāno vikramān raṇe
+
+**8.32.3**
+
+saṃjaya uvāca tat sthāne samavasthāpya pratyamitraṃ mahābalam avyūhatārjuno vyūhaṃ putrasya tava durnaye
+
+**8.32.4**
+
+tat sādināgakalilaṃ padātirathasaṃkulam dhṛṣṭadyumnamukhair vyūḍham aśobhata mahad balam
+
+**8.32.5**
+
+pārāvatasavarṇāśvaś candrādityasamadyutiḥ pārṣataḥ prababhau dhanvī kālo vigrahavān iva
+
+**8.32.6**
+
+pārṣataṃ tv abhi saṃtasthur draupadeyā yuyutsavaḥ sānugā bhīmavapuṣaś candraṃ tārāgaṇā iva
+
+**8.32.7**
+
+atha vyūḍheṣv anīkeṣu prekṣya saṃśaptakān raṇe kruddho 'rjuno 'bhidudrāva vyākṣipan gāṇḍivaṃ dhanuḥ
+
+**8.32.8**
+
+atha saṃśaptakāḥ pārtham abhyadhāvan vadhaiṣiṇaḥ vijaye kṛtasaṃkalpā mṛtyuṃ kṛtvā nivartanam
+
+**8.32.9**
+
+tad aśvasaṃghabahulaṃ mattanāgarathākulam pattimac chūravīraughair drutam arjunam ādravat
+
+**8.32.10**
+
+sa saṃprahāras tumulas teṣām āsīt kirīṭinā tasyaiva naḥ śruto yādṛṅ nivātakavacaiḥ saha
+
+**8.32.11**
+
+rathān aśvān dhvajān nāgān pattīn rathapatīn api iṣūn dhanūṃṣi khaḍgāṃś ca cakrāṇi ca paraśvadhān
+
+**8.32.12**
+
+sāyudhān udyatān bāhūn udyatāny āyudhāni ca ciccheda dviṣatāṃ pārthaḥ śirāṃsi ca sahasraśaḥ
+
+**8.32.13**
+
+tasmin sainye mahāvarte pātālāvartasaṃnibhe nimagnaṃ taṃ rathaṃ matvā neduḥ saṃśaptakā mudā
+
+**8.32.14**
+
+sa purastād arīn hatvā paścārdhenottareṇa ca dakṣiṇena ca bībhatsuḥ kruddho rudraḥ paśūn iva
+
+**8.32.15**
+
+atha pāñcālacedīnāṃ sṛñjayānāṃ ca māriṣa tvadīyaiḥ saha saṃgrāma āsīt paramadāruṇaḥ
+
+**8.32.16**
+
+kṛpaś ca kṛtavarmā ca śakuniś cāpi saubalaḥ hṛṣṭasenāḥ susaṃrabdhā rathānīkaiḥ prahāriṇaḥ
+
+**8.32.17**
+
+kosalaiḥ kāśimatsyaiś ca kārūṣaiḥ kekayair api śūrasenaiḥ śūravīrair yuyudhur yuddhadurmadāḥ
+
+**8.32.18**
+
+teṣām antakaraṃ yuddhaṃ dehapāpmapraṇāśanam śūdraviṭkṣatravīrāṇāṃ dharmyaṃ svargyaṃ yaśaskaram
+
+**8.32.19**
+
+duryodhano 'pi sahito bhrātṛbhir bharatarṣabha guptaḥ kurupravīraiś ca madrāṇāṃ ca mahārathaiḥ
+
+**8.32.20**
+
+pāṇḍavaiḥ sahapāñcālaiś cedibhiḥ sātyakena ca yudhyamānaṃ raṇe karṇaṃ kuruvīro 'bhyapālayat
+
+**8.32.21**
+
+karṇo 'pi niśitair bāṇair vinihatya mahācamūm pramṛdya ca rathaśreṣṭhān yudhiṣṭhiram apīḍayat
+
+**8.32.22**
+
+vipatrāyudhadehāsūn kṛtvā śatrūn sahasraśaḥ yuktvā svargayaśobhyāṃ ca svebhyo mudam udāvahat
+
+**8.32.23**
+
+dhṛtarāṣṭra uvāca yat tat praviśya pārthānāṃ senāṃ kurvañ janakṣayam karṇo rājānam abhyarcchat tan mamācakṣva saṃjaya
+
+**8.32.24**
+
+ke ca pravīrāḥ pārthānāṃ yudhi karṇam avārayan kāṃś ca pramathyādhirathir yudhiṣṭhiram apīḍayat
+
+**8.32.25**
+
+saṃjaya uvāca dhṛṣṭadyumnamukhān pārthān dṛṣṭvā karṇo vyavasthitān samabhyadhāvat tvaritaḥ pāñcālāñ śatrukarśanaḥ
+
+**8.32.26**
+
+taṃ tūrṇam abhidhāvantaṃ pāñcālā jitakāśinaḥ pratyudyayur mahārāja haṃsā iva mahārṇavam
+
+**8.32.27**
+
+tataḥ śaṅkhasahasrāṇāṃ nisvano hṛdayaṃgamaḥ prādurāsīd ubhayato bherīśabdaś ca dāruṇaḥ
+
+**8.32.28**
+
+nānāvāditranādaś ca dvipāśvarathanisvanaḥ siṃhanādaś ca vīrāṇām abhavad dāruṇas tadā
+
+**8.32.29**
+
+sādridrumārṇavā bhūmiḥ savātāmbudam ambaram sārkendugrahanakṣatrā dyauś ca vyaktaṃ vyaghūrṇata
+
+**8.32.30**
+
+ati bhūtāni taṃ śabdaṃ menire 'ti ca vivyathuḥ yāni cāplavasattvāni prāyas tāni mṛtāni ca
+
+**8.32.31**
+
+atha karṇo bhṛśaṃ kruddhaḥ śīghram astram udīrayan jaghāna pāṇḍavīṃ senām āsurīṃ maghavān iva
+
+**8.32.32**
+
+sa pāṇḍavarathāṃs tūrṇaṃ praviśya visṛjañ śarān prabhadrakāṇāṃ pravarān ahanat saptasaptatim
+
+**8.32.33**
+
+tataḥ supuṅkhair niśitai rathaśreṣṭho ratheṣubhiḥ avadhīt pañcaviṃśatyā pāñcālān pañcaviṃśatim
+
+**8.32.34**
+
+suvarṇapuṅkhair nārācaiḥ parakāyavidāraṇaiḥ cedikān avadhīd vīraḥ śataśo 'tha sahasraśaḥ
+
+**8.32.35**
+
+taṃ tathā samare karma kurvāṇam atimānuṣam parivavrur mahārāja pāñcālānāṃ rathavrajāḥ
+
+**8.32.36**
+
+tataḥ saṃdhāya viśikhān pañca bhārata duḥsahān pāñcālān avadhīt pañca karṇo vaikartano vṛṣaḥ
+
+**8.32.37**
+
+bhānudevaṃ citrasenaṃ senābinduṃ ca bhārata tapanaṃ śūrasenaṃ ca pāñcālān avadhīd raṇe
+
+**8.32.38**
+
+pāñcāleṣu ca śūreṣu vadhyamāneṣu sāyakaiḥ hāhākāro mahān āsīt pāñcālānāṃ mahāhave
+
+**8.32.39**
+
+teṣāṃ saṃkīryamāṇānāṃ hāhākārakṛtā diśaḥ punar eva ca tān karṇo jaghānāśu patatribhiḥ
+
+**8.32.40**
+
+cakrarakṣau tu karṇasya putrau māriṣa durjayau suṣeṇaḥ satyasenaś ca tyaktvā prāṇān ayudhyatām
+
+**8.32.41**
+
+pṛṣṭhagopas tu karṇasya jyeṣṭhaḥ putro mahārathaḥ vṛṣasenaḥ svayaṃ karṇaṃ pṛṣṭhataḥ paryapālayat
+
+**8.32.42**
+
+dhṛṣṭadyumnaḥ sātyakiś ca draupadeyā vṛkodaraḥ janamejayaḥ śikhaṇḍī ca pravīrāś ca prabhadrakāḥ
+
+**8.32.43**
+
+cedikekayapāñcālā yamau matsyāś ca daṃśitāḥ samabhyadhāvan rādheyaṃ jighāṃsantaḥ prahāriṇaḥ
+
+**8.32.44**
+
+ta enaṃ vividhaiḥ śastraiḥ śaradhārābhir eva ca abhyavarṣan vimṛdnantaḥ prāvṛṣīvāmbudā girim
+
+**8.32.45**
+
+pitaraṃ tu parīpsantaḥ karṇaputrāḥ prahāriṇaḥ tvadīyāś cāpare rājan vīrā vīrān avārayan
+
+**8.32.46**
+
+suṣeṇo bhīmasenasya chittvā bhallena kārmukam nārācaiḥ saptabhir viddhvā hṛdi bhīmaṃ nanāda ha
+
+**8.32.47**
+
+athānyad dhanur ādāya sudṛḍhaṃ bhīmavikramaḥ sajyaṃ vṛkodaraḥ kṛtvā suṣeṇasyācchinad dhanuḥ
+
+**8.32.48**
+
+vivyādha cainaṃ navabhiḥ kruddho nṛtyann iveṣubhiḥ karṇaṃ ca tūrṇaṃ vivyādha trisaptatyā śitaiḥ śaraiḥ
+
+**8.32.49**
+
+satyasenaṃ ca daśabhiḥ sāśvasūtadhvajāyudham paśyatāṃ suhṛdāṃ madhye karṇaputram apātayat
+
+**8.32.50**
+
+kṣurapraṇunnaṃ tat tasya śiraś candranibhānanam śubhadarśanam evāsīn nālabhraṣṭam ivāmbujam
+
+**8.32.51**
+
+hatvā karṇasutaṃ bhīmas tāvakān punar ārdayat kṛpahārdikyayoś chittvā cāpe tāv apy athārdayat
+
+**8.32.52**
+
+duḥśāsanaṃ tribhir viddhvā śakuniṃ ṣaḍbhir āyasaiḥ ulūkaṃ ca patatriṃ ca cakāra virathāv ubhau
+
+**8.32.53**
+
+he suṣeṇa hato 'sīti bruvann ādatta sāyakam tam asya karṇaś ciccheda tribhiś cainam atāḍayat
+
+**8.32.54**
+
+athānyam api jagrāha suparvāṇaṃ sutejanam suṣeṇāyāsṛjad bhīmas tam apy asyācchinad vṛṣaḥ
+
+**8.32.55**
+
+punaḥ karṇas trisaptatyā bhīmasenaṃ ratheṣubhiḥ putraṃ parīpsan vivyādha krūraṃ krūrair jighāṃsayā
+
+**8.32.56**
+
+suṣeṇas tu dhanur gṛhya bhārasādhanam uttamam nakulaṃ pañcabhir bāṇair bāhvor urasi cārdayat
+
+**8.32.57**
+
+nakulas taṃ tu viṃśatyā viddhvā bhārasahair dṛḍhaiḥ nanāda balavan nādaṃ karṇasya bhayam ādadhat
+
+**8.32.58**
+
+taṃ suṣeṇo mahārāja viddhvā daśabhir āśugaiḥ ciccheda ca dhanuḥ śīghraṃ kṣurapreṇa mahārathaḥ
+
+**8.32.59**
+
+athānyad dhanur ādāya nakulaḥ krodhamūrcchitaḥ suṣeṇaṃ bahubhir bāṇair vārayām āsa saṃyuge
+
+**8.32.60**
+
+sa tu bāṇair diśo rājann ācchādya paravīrahā ājaghne sārathiṃ cāsya suṣeṇaṃ ca tatas tribhiḥ ciccheda cāsya sudṛḍhaṃ dhanur bhallais tribhis tridhā
+
+**8.32.61**
+
+athānyad dhanur ādāya suṣeṇaḥ krodhamūrchitaḥ avidhyan nakulaṃ ṣaṣṭyā sahadevaṃ ca saptabhiḥ
+
+**8.32.62**
+
+tad yuddhaṃ sumahad ghoram āsīd devāsuropamam nighnatāṃ sāyakais tūrṇam anyonyasya vadhaṃ prati
+
+**8.32.63**
+
+sātyakir vṛṣasenasya hatvā sūtaṃ tribhiḥ śaraiḥ dhanuś ciccheda bhallena jaghānāśvāṃś ca saptabhiḥ dhvajam ekeṣuṇonmathya tribhis taṃ hṛdy atāḍayat
+
+**8.32.64**
+
+athāvasannaḥ svarathe muhūrtāt punar utthitaḥ atho jighāṃsuḥ śaineyaṃ khaḍgacarmabhṛd abhyayāt
+
+**8.32.65**
+
+tasya cāplavataḥ śīghraṃ vṛṣasenasya sātyakiḥ varāhakarṇair daśabhir avidhyad asicarmaṇī
+
+**8.32.66**
+
+duḥśāsanas tu taṃ dṛṣṭvā virathaṃ vyāyudhaṃ kṛtam āropya svarathe tūrṇam apovāha rathāntaram
+
+**8.32.67**
+
+athānyaṃ ratham āsthāya vṛṣaseno mahārathaḥ karṇasya yudhi durdharṣaḥ punaḥ pṛṣṭham apālayat
+
+**8.32.68**
+
+duḥśāsanaṃ tu śaineyo navair navabhir āśugaiḥ visūtāśvarathaṃ kṛtvā lalāṭe tribhir ārpayat
+
+**8.32.69**
+
+sa tv anyaṃ ratham āsthāya vidhivat kalpitaṃ punaḥ yuyudhe pāṇḍubhiḥ sārdhaṃ karṇasyāpyāyayan balam
+
+**8.32.70**
+
+dhṛṣṭadyumnas tataḥ karṇam avidhyad daśabhiḥ śaraiḥ draupadeyās trisaptatyā yuyudhānas tu saptabhiḥ
+
+**8.32.71**
+
+bhīmasenaś catuḥṣaṣṭyā sahadevaś ca pañcabhiḥ nakulas triṃśatā bāṇaiḥ śatānīkaś ca saptabhiḥ śikhaṇḍī daśabhir vīro dharmarājaḥ śatena tu
+
+**8.32.72**
+
+ete cānye ca rājendra pravīrā jayagṛddhinaḥ abhyardayan maheṣvāsaṃ sūtaputraṃ mahāmṛdhe
+
+**8.32.73**
+
+tān sūtaputro viśikhair daśabhir daśabhiḥ śitaiḥ rathe cāru caran vīraḥ pratyavidhyad ariṃdamaḥ
+
+**8.32.74**
+
+tatrāstravīryaṃ karṇasya lāghavaṃ ca mahātmanaḥ apaśyāma mahārāja tad adbhutam ivābhavat
+
+**8.32.75**
+
+na hy ādadānaṃ dadṛśuḥ saṃdadhānaṃ ca sāyakān vimuñcantaṃ ca saṃrambhād dadṛśus te mahāratham
+
+**8.32.76**
+
+dyaur viyad bhūr diśaś cāśu praṇunnā niśitaiḥ śaraiḥ aruṇābhrāvṛtākāraṃ tasmin deśe babhau viyat
+
+**8.32.77**
+
+nṛtyann iva hi rādheyaś cāpahastaḥ pratāpavān yair viddhaḥ pratyavidhyat tān ekaikaṃ triguṇaiḥ śaraiḥ
+
+**8.32.78**
+
+daśabhir daśabhiś cainān punar viddhvā nanāda ha sāśvasūtadhvajacchatrās tatas te vivaraṃ daduḥ
+
+**8.32.79**
+
+tān pramṛdnan maheṣvāsān rādheyaḥ śaravṛṣṭibhiḥ rājānīkam asaṃbādhaṃ prāviśac chatrukarśanaḥ
+
+**8.32.80**
+
+sa rathāṃs triśatān hatvā cedīnām anivartinām rādheyo niśitair bāṇais tato 'bhyārcchad yudhiṣṭhiram
+
+**8.32.81**
+
+tatas te pāṇḍavā rājañ śikhaṇḍī ca sasātyakiḥ rādheyāt parirakṣanto rājānaṃ paryavārayan
+
+**8.32.82**
+
+tathaiva tāvakāḥ sarve karṇaṃ durvāraṇaṃ raṇe yattāḥ senāmaheṣvāsāḥ paryarakṣanta sarvaśaḥ
+
+**8.32.83**
+
+nānāvāditraghoṣāś ca prādurāsan viśāṃ pate siṃhanādaś ca saṃjajñe śūrāṇām anivartinām
+
+**8.32.84**
+
+tataḥ punaḥ samājagmur abhītāḥ kurupāṇḍavāḥ yudhiṣṭhiramukhāḥ pārthāḥ sūtaputramukhā vayam
+
+**8.33.1**
+
+saṃjaya uvāca vidārya karṇas tāṃ senāṃ dharmarājam upādravat rathahastyaśvapattīnāṃ sahasraiḥ parivāritaḥ
+
+**8.33.2**
+
+nānāyudhasahasrāṇi preṣitāny aribhir vṛṣaḥ chittvā bāṇaśatair ugrais tān avidhyad asaṃbhramaḥ
+
+**8.33.3**
+
+nicakarta śirāṃsy eṣāṃ bāhūn ūrūṃś ca sarvaśaḥ te hatā vasudhāṃ petur bhagnāś cānye vidudruvuḥ
+
+**8.33.4**
+
+draviḍāndhraniṣādās tu punaḥ sātyakicoditāḥ abhyardayañ jighāṃsantaḥ pattayaḥ karṇam āhave
+
+**8.33.5**
+
+te vibāhuśirastrāṇāḥ prahatāḥ karṇasāyakaiḥ petuḥ pṛthivyāṃ yugapac chinnaṃ śālavanaṃ yathā
+
+**8.33.6**
+
+evaṃ yodhaśatāny ājau sahasrāṇy ayutāni ca hatānīyur mahīṃ dehair yaśasāpūrayan diśaḥ
+
+**8.33.7**
+
+atha vaikartanaṃ karṇaṃ raṇe kruddham ivāntakam rurudhuḥ pāṇḍupāñcālā vyādhiṃ mantrauṣadhair iva
+
+**8.33.8**
+
+sa tān pramṛdyābhyapatat punar eva yudhiṣṭhiram mantrauṣadhikriyātīto vyādhir atyulbaṇo yathā
+
+**8.33.9**
+
+sa rājagṛddhibhī ruddhaḥ pāṇḍupāñcālakekayaiḥ nāśakat tān atikrāntuṃ mṛtyur brahmavido yathā
+
+**8.33.10**
+
+tato yudhiṣṭhiraḥ karṇam adūrasthaṃ nivāritam abravīt paravīraghnaḥ krodhasaṃraktalocanaḥ
+
+**8.33.11**
+
+karṇa karṇa vṛthādṛṣṭe sūtaputra vacaḥ śṛṇu sadā spardhasi saṃgrāme phalgunena yaśasvinā tathāsmān bādhase nityaṃ dhārtarāṣṭramate sthitaḥ
+
+**8.33.12**
+
+yad balaṃ yac ca te vīryaṃ pradveṣo yaś ca pāṇḍuṣu tat sarvaṃ darśayasvādya pauruṣaṃ mahad āsthitaḥ yuddhaśraddhāṃ sa te 'dyāhaṃ vineṣyāmi mahāhave
+
+**8.33.13**
+
+evam uktvā mahārāja karṇaṃ pāṇḍusutas tadā suvarṇapuṅkhair daśabhir vivyādhāyasmayaiḥ śitaiḥ
+
+**8.33.14**
+
+taṃ sūtaputro navabhiḥ pratyavidhyad ariṃdamaḥ vatsadantair maheṣvāsaḥ prahasann iva bhārata
+
+**8.33.15**
+
+tataḥ kṣurābhyāṃ pāñcālyau cakrarakṣau mahātmanaḥ jaghāna samare śūraḥ śaraiḥ saṃnataparvabhiḥ
+
+**8.33.16**
+
+tāv ubhau dharmarājasya pravīrau paripārśvataḥ rathābhyāśe cakāśete candrasyeva punarvasū
+
+**8.33.17**
+
+yudhiṣṭhiraḥ punaḥ karṇam avidhyat triṃśatā śaraiḥ suṣeṇaṃ satyasenaṃ ca tribhis tribhir atāḍayat
+
+**8.33.18**
+
+śalyaṃ navatyā vivyādha trisaptatyā ca sūtajam tāṃś cāsya goptṝn vivyādha tribhis tribhir ajihmagaiḥ
+
+**8.33.19**
+
+tataḥ prahasyādhirathir vidhunvānaḥ sa kārmukam bhittvā bhallena rājānaṃ viddhvā ṣaṣṭyānadan mudā
+
+**8.33.20**
+
+tataḥ pravīrāḥ pāṇḍūnām abhyadhāvan yudhiṣṭhiram sūtaputrāt parīpsantaḥ karṇam abhyardayañ śaraiḥ
+
+**8.33.21**
+
+sātyakiś cekitānaś ca yuyutsuḥ pāṇḍya eva ca dhṛṣṭadyumnaḥ śikhaṇḍī ca draupadeyāḥ prabhadrakāḥ
+
+**8.33.22**
+
+yamau ca bhīmasenaś ca śiśupālasya cātmajaḥ kārūṣā matsyaśeṣāś ca kekayāḥ kāśikosalāḥ ete ca tvaritā vīrā vasuṣeṇam avārayan
+
+**8.33.23**
+
+janamejayaś ca pāñcālyaḥ karṇaṃ vivyādha sāyakaiḥ varāhakarṇair nārācair nālīkair niśitaiḥ śaraiḥ vatsadantair vipāṭhaiś ca kṣurapraiś caṭakāmukhaiḥ
+
+**8.33.24**
+
+nānāpraharaṇaiś cograi rathahastyaśvasādinaḥ sarvato 'bhyādravan karṇaṃ parivārya jighāṃsayā
+
+**8.33.25**
+
+sa pāṇḍavānāṃ pravaraiḥ sarvataḥ samabhidrutaḥ udairayad brāhmam astraṃ śaraiḥ saṃpūrayan diśaḥ
+
+**8.33.26**
+
+tataḥ śaramahājvālo vīryoṣmā karṇapāvakaḥ nirdahan pāṇḍavavanaṃ cāru paryacarad raṇe
+
+**8.33.27**
+
+sa saṃvārya mahāstrāṇi maheṣvāso mahātmanām prahasya puruṣendrasya śaraiś ciccheda kārmukam
+
+**8.33.28**
+
+tataḥ saṃdhāya navatiṃ nimeṣān nataparvaṇām bibheda kavacaṃ rājño raṇe karṇaḥ śitaiḥ śaraiḥ
+
+**8.33.29**
+
+tad varma hemavikṛtaṃ rarāja nipatat tadā savidyudabhraṃ savituḥ śiṣṭaṃ vātahataṃ yathā
+
+**8.33.30**
+
+tad aṅgaṃ puruṣendrasya bhraṣṭavarma vyarocata ratnair alaṃkṛtaṃ divyair vyabhraṃ niśi yathā nabhaḥ
+
+**8.33.31**
+
+sa vivarmā śaraiḥ pārtho rudhireṇa samukṣitaḥ kruddhaḥ sarvāyasīṃ śaktiṃ cikṣepādhirathiṃ prati
+
+**8.33.32**
+
+tāṃ jvalantīm ivākāśe śaraiś ciccheda saptabhiḥ sā chinnā bhūmim apatan maheṣvāsasya sāyakaiḥ
+
+**8.33.33**
+
+tato bāhvor lalāṭe ca hṛdi caiva yudhiṣṭhiraḥ caturbhis tomaraiḥ karṇaṃ tāḍayitvā mudānadat
+
+**8.33.34**
+
+udbhinnarudhiraḥ karṇaḥ kruddhaḥ sarpa iva śvasan dhvajaṃ ciccheda bhallena tribhir vivyādha pāṇḍavam iṣudhī cāsya ciccheda rathaṃ ca tilaśo 'cchinat
+
+**8.33.35**
+
+evaṃ pārtho vyapāyāt sa nihataprārṣṭisārathiḥ aśaknuvan pramukhataḥ sthātuṃ karṇasya durmanāḥ
+
+**8.33.36**
+
+tam abhidrutya rādheyaḥ skandhaṃ saṃspṛśya pāṇinā abravīt prahasan rājan kutsayann iva pāṇḍavam
+
+**8.33.37**
+
+kathaṃ nāma kule jātaḥ kṣatradharme vyavasthitaḥ prajahyāt samare śatrūn prāṇān rakṣan mahāhave
+
+**8.33.38**
+
+na bhavān kṣatradharmeṣu kuśalo 'sīti me matiḥ brāhme bale bhavān yuktaḥ svādhyāye yajñakarmaṇi
+
+**8.33.39**
+
+mā sma yudhyasva kaunteya mā ca vīrān samāsadaḥ mā cainān apriyaṃ brūhi mā ca vraja mahāraṇam
+
+**8.33.40**
+
+evam uktvā tataḥ pārthaṃ visṛjya ca mahābalaḥ nyahanat pāṇḍavīṃ senāṃ vajrahasta ivāsurīm tataḥ prāyād drutaṃ rājan vrīḍann iva janeśvaraḥ
+
+**8.33.41**
+
+atha prayāntaṃ rājānam anvayus te tadācyutam cedipāṇḍavapāñcālāḥ sātyakiś ca mahārathaḥ draupadeyās tathā śūrā mādrīputrau ca pāṇḍavau
+
+**8.33.42**
+
+tato yudhiṣṭhirānīkaṃ dṛṣṭvā karṇaḥ parāṅmukham kurubhiḥ sahito vīraiḥ pṛṣṭhagaiḥ pṛṣṭham anvayāt
+
+**8.33.43**
+
+śaṅkhabherīninādaiś ca kārmukāṇāṃ ca nisvanaiḥ babhūva dhārtarāṣṭrāṇāṃ siṃhanādaravas tadā
+
+**8.33.44**
+
+yudhiṣṭhiras tu kauravya ratham āruhya satvaraḥ śrutakīrter mahārāja dṛṣṭavān karṇavikramam
+
+**8.33.45**
+
+kālyamānaṃ balaṃ dṛṣṭvā dharmarājo yudhiṣṭhiraḥ tān yodhān abravīt kruddho hatainaṃ vai sahasraśaḥ
+
+**8.33.46**
+
+tato rājñābhyanujñātāḥ pāṇḍavānāṃ mahārathāḥ bhīmasenamukhāḥ sarve putrāṃs te pratyupādravan
+
+**8.33.47**
+
+abhavat tumulaḥ śabdo yodhānāṃ tatra bhārata hastyaśvarathapattīnāṃ śastrāṇāṃ ca tatas tataḥ
+
+**8.33.48**
+
+uttiṣṭhata praharata praitābhipatateti ca iti bruvāṇā anyonyaṃ jaghnur yodhā raṇājire
+
+**8.33.49**
+
+abhracchāyeva tatrāsīc charavṛṣṭibhir ambare samāvṛttair naravarair nighnadbhir itaretaram
+
+**8.33.50**
+
+vipatākādhvajacchatrā vyaśvasūtāyudhā raṇe vyaṅgāṅgāvayavāḥ petuḥ kṣitau kṣīṇā hateśvarāḥ
+
+**8.33.51**
+
+pravarāṇīva śailānāṃ śikharāṇi dvipottamāḥ sārohā nihatāḥ petur vajrabhinnā ivādrayaḥ
+
+**8.33.52**
+
+chinnabhinnaviparyastair varmālaṃkāravigrahaiḥ sārohās turagāḥ petur hatavīrāḥ sahasraśaḥ
+
+**8.33.53**
+
+vipraviddhāyudhāṅgāś ca dviradāśvarathair hatāḥ prativīraiś ca saṃmarde pattisaṃghāḥ sahasraśaḥ
+
+**8.33.54**
+
+viśālāyatatāmrākṣaiḥ padmendusadṛśānanaiḥ śirobhir yuddhaśauṇḍānāṃ sarvataḥ saṃstṛtā mahī
+
+**8.33.55**
+
+tathā tu vitate vyomni nisvanaṃ śuśruvur janāḥ vimānair apsaraḥsaṃghair gītavāditranisvanaiḥ
+
+**8.33.56**
+
+hatān kṛttān abhimukhān vīrān vīraiḥ sahasraśaḥ āropyāropya gacchanti vimāneṣv apsarogaṇāḥ
+
+**8.33.57**
+
+tad dṛṣṭvā mahad āścaryaṃ pratyakṣaṃ svargalipsayā prahṛṣṭamanasaḥ śūrāḥ kṣipraṃ jagmuḥ parasparam
+
+**8.33.58**
+
+rathino rathibhiḥ sārdhaṃ citraṃ yuyudhur āhave pattayaḥ pattibhir nāgā nāgaiḥ saha hayair hayāḥ
+
+**8.33.59**
+
+evaṃ pravṛtte saṃgrāme gajavājijanakṣaye sainye ca rajasā vyāpte sve svāñ jaghnuḥ pare parān
+
+**8.33.60**
+
+kacākaci babhau yuddhaṃ dantādanti nakhānakhi muṣṭiyuddhaṃ niyuddhaṃ ca dehapāpmavināśanam
+
+**8.33.61**
+
+tathā vartati saṃgrāme gajavājijanakṣaye narāśvagajadehebhyaḥ prasṛtā lohitāpagā narāśvagajadehān sā vyuvāha patitān bahūn
+
+**8.33.62**
+
+narāśvagajasaṃbādhe narāśvagajasādinām lohitodā mahāghorā nadī lohitakardamā narāśvagajadehān sā vahantī bhīrubhīṣaṇī
+
+**8.33.63**
+
+tasyāḥ paramapāraṃ ca vrajanti vijayaiṣiṇaḥ gādhena ca plavantaś ca nimajjyonmajjya cāpare
+
+**8.33.64**
+
+te tu lohitadigdhāṅgā raktavarmāyudhāmbarāḥ sasnus tasyāṃ papuś cāsṛṅ mamluś ca bharatarṣabha
+
+**8.33.65**
+
+rathān aśvān narān nāgān āyudhābharaṇāni ca vasanāny atha varmāṇi hanyamānān hatān api bhūmiṃ khaṃ dyāṃ diśaś caiva prāyaḥ paśyāma lohitam
+
+**8.33.66**
+
+lohitasya tu gandhena sparśena ca rasena ca rūpeṇa cātiriktena śabdena ca visarpatā viṣādaḥ sumahān āsīt prāyaḥ sainyasya bhārata
+
+**8.33.67**
+
+tat tu viprahataṃ sainyaṃ bhīmasenamukhais tava bhūyaḥ samādravan vīrāḥ sātyakipramukhā rathāḥ
+
+**8.33.68**
+
+teṣām āpatatāṃ vegam aviṣahya mahātmanām putrāṇāṃ te mahat sainyam āsīd rājan parāṅmukham
+
+**8.33.69**
+
+tat prakīrṇarathāśvebhaṃ naravājisamākulam vidhvastacarmakavacaṃ praviddhāyudhakārmukam
+
+**8.33.70**
+
+vyadravat tāvakaṃ sainyaṃ loḍyamānaṃ samantataḥ siṃhārditaṃ mahāraṇye yathā gajakulaṃ tathā
+
+**8.34.1**
+
+saṃjaya uvāca tān abhidravato dṛṣṭvā pāṇḍavāṃs tāvakaṃ balam krośatas tava putrasya na sma rājan nyavartata
+
+**8.34.2**
+
+tataḥ pakṣāt prapakṣāc ca prapakṣaiś cāpi dakṣiṇāt udastaśastrāḥ kuravo bhīmam abhyadravan raṇe
+
+**8.34.3**
+
+karṇo 'pi dṛṣṭvā dravato dhārtarāṣṭrān parāṅmukhān haṃsavarṇān hayāgryāṃs tān praiṣīd yatra vṛkodaram
+
+**8.34.4**
+
+te preṣitā mahārāja śalyenāhavaśobhinā bhīmasenarathaṃ prāpya samasajjanta vājinaḥ
+
+**8.34.5**
+
+dṛṣṭvā karṇaṃ samāyāntaṃ bhīmaḥ krodhasamanvitaḥ matiṃ dadhre vināśāya karṇasya bharatarṣabha
+
+**8.34.6**
+
+so 'bravīt sātyakiṃ vīraṃ dhṛṣṭadyumnaṃ ca pārṣatam enaṃ rakṣata rājānaṃ dharmātmānaṃ yudhiṣṭhiram saṃśayān mahato muktaṃ kathaṃ cit prekṣato mama
+
+**8.34.7**
+
+agrato me kṛto rājā chinnasarvaparicchadaḥ duryodhanasya prītyarthaṃ rādheyena durātmanā
+
+**8.34.8**
+
+antam adya kariṣyāmi tasya duḥkhasya pārṣata hantā vāsmi raṇe karṇaṃ sa vā māṃ nihaniṣyati saṃgrāmeṇa sughoreṇa satyam etad bravīmi vaḥ
+
+**8.34.9**
+
+rājānam adya bhavatāṃ nyāsabhūtaṃ dadāmi vai asya saṃrakṣaṇe sarve yatadhvaṃ vigatajvarāḥ
+
+**8.34.10**
+
+evam uktvā mahābāhuḥ prāyād ādhirathiṃ prati siṃhanādena mahatā sarvāḥ saṃnādayan diśaḥ
+
+**8.34.11**
+
+dṛṣṭvā tvaritam āyāntaṃ bhīmaṃ yuddhābhinandinam sūtaputram athovāca madrāṇām īśvaro vibhuḥ
+
+**8.34.12**
+
+paśya karṇa mahābāhuṃ kruddhaṃ pāṇḍavanandanam dīrghakālārjitaṃ krodhaṃ moktukāmaṃ tvayi dhruvam
+
+**8.34.13**
+
+īdṛśaṃ nāsya rūpaṃ me dṛṣṭapūrvaṃ kadā cana abhimanyau hate karṇa rākṣase vā ghaṭotkace
+
+**8.34.14**
+
+trailokyasya samastasya śaktaḥ kruddho nivāraṇe bibharti yādṛśaṃ rūpaṃ kālāgnisadṛśaṃ śubham
+
+**8.34.15**
+
+iti bruvati rādheyaṃ madrāṇām īśvare nṛpa abhyavartata vai karṇaṃ krodhadīpto vṛkodaraḥ
+
+**8.34.16**
+
+tathāgataṃ tu saṃprekṣya bhīmaṃ yuddhābhinandinam abravīd vacanaṃ śalyaṃ rādheyaḥ prahasann iva
+
+**8.34.17**
+
+yad uktaṃ vacanaṃ me 'dya tvayā madrajaneśvara bhīmasenaṃ prati vibho tat satyaṃ nātra saṃśayaḥ
+
+**8.34.18**
+
+eṣa śūraś ca vīraś ca krodhanaś ca vṛkodaraḥ nirapekṣaḥ śarīre ca prāṇataś ca balādhikaḥ
+
+**8.34.19**
+
+ajñātavāsaṃ vasatā virāṭanagare tadā draupadyāḥ priyakāmena kevalaṃ bāhusaṃśrayāt gūḍhabhāvaṃ samāśritya kīcakaḥ sagaṇo hataḥ
+
+**8.34.20**
+
+so 'dya saṃgrāmaśirasi saṃnaddhaḥ krodhamūrcchitaḥ kiṃkarodyatadaṇḍena mṛtyunāpi vrajed raṇam
+
+**8.34.21**
+
+cirakālābhilaṣito mamāyaṃ tu manorathaḥ arjunaṃ samare hanyāṃ māṃ vā hanyād dhanaṃjayaḥ sa me kadā cid adyaiva bhaved bhīmasamāgamāt
+
+**8.34.22**
+
+nihate bhīmasene tu yadi vā virathīkṛte abhiyāsyati māṃ pārthas tan me sādhu bhaviṣyati atra yan manyase prāptaṃ tac chīghraṃ saṃpradhāraya
+
+**8.34.23**
+
+etac chrutvā tu vacanaṃ rādheyasya mahātmanaḥ uvāca vacanaṃ śalyaḥ sūtaputraṃ tathāgatam
+
+**8.34.24**
+
+abhiyāsi mahābāho bhīmasenaṃ mahābalam nirasya bhīmasenaṃ tu tataḥ prāpsyasi phalgunam
+
+**8.34.25**
+
+yas te kāmo 'bhilaṣitaś cirāt prabhṛti hṛdgataḥ sa vai saṃpatsyate karṇa satyam etad bravīmi te
+
+**8.34.26**
+
+evam ukte tataḥ karṇaḥ śalyaṃ punar abhāṣata hantāham arjunaṃ saṃkhye māṃ vā hantā dhanaṃjayaḥ yuddhe manaḥ samādhāya yāhi yāhīty acodayat
+
+**8.34.27**
+
+tataḥ prāyād rathenāśu śalyas tatra viśāṃ pate yatra bhīmo maheṣvāso vyadrāvayata vāhinīm
+
+**8.34.28**
+
+tatas tūryaninādaś ca bherīṇāṃ ca mahāsvanaḥ udatiṣṭhata rājendra karṇabhīmasamāgame
+
+**8.34.29**
+
+bhīmaseno 'tha saṃkruddhas tava sainyaṃ durāsadam nārācair vimalais tīkṣṇair diśaḥ prādrāvayad balī
+
+**8.34.30**
+
+sa saṃnipātas tumulo bhīmarūpo viśāṃ pate āsīd raudro mahārāja karṇapāṇḍavayor mṛdhe tato muhūrtād rājendra pāṇḍavaḥ karṇam ādravat
+
+**8.34.31**
+
+tam āpatantaṃ saṃprekṣya karṇo vaikartano vṛṣaḥ ājaghānorasi kruddho nārācena stanāntare punaś cainam ameyātmā śaravarṣair avākirat
+
+**8.34.32**
+
+sa viddhaḥ sūtaputreṇa chādayām āsa patribhiḥ vivyādha niśitaiḥ karṇa navabhir nataparvabhiḥ
+
+**8.34.33**
+
+tasya karṇo dhanurmadhye dvidhā ciccheda patriṇā atha taṃ chinnadhanvānam abhyavidhyat stanāntare nārācena sutīkṣṇena sarvāvaraṇabhedinā
+
+**8.34.34**
+
+so 'nyat kārmukam ādāya sūtaputraṃ vṛkodaraḥ rājan marmasu marmajño viddhvā suniśitaiḥ śaraiḥ nanāda balavan nādaṃ kampayann iva rodasī
+
+**8.34.35**
+
+taṃ karṇaḥ pañcaviṃśatyā nārācānāṃ samārdayat madotkaṭaṃ vane dṛptam ulkābhir iva kuñjaram
+
+**8.34.36**
+
+tataḥ sāyakabhinnāṅgaḥ pāṇḍavaḥ krodhamūrcchitaḥ saṃrambhāmarṣatāmrākṣaḥ sūtaputravadhecchayā
+
+**8.34.37**
+
+sa kārmuke mahāvegaṃ bhārasādhanam uttamam girīṇām api bhettāraṃ sāyakaṃ samayojayat
+
+**8.34.38**
+
+vikṛṣya balavac cāpam ā karṇād atimārutiḥ taṃ mumoca maheṣvāsaḥ kruddhaḥ karṇajighāṃsayā
+
+**8.34.39**
+
+sa visṛṣṭo balavatā bāṇo vajrāśanisvanaḥ adārayad raṇe karṇaṃ vajravega ivācalam
+
+**8.34.40**
+
+sa bhīmasenābhihato sūtaputraḥ kurūdvaha niṣasāda rathopasthe visaṃjñaḥ pṛtanāpatiḥ
+
+**8.34.41**
+
+tato madrādhipo dṛṣṭvā visaṃjñaṃ sūtanandanam apovāha rathenājau karṇam āhavaśobhinam
+
+**8.34.42**
+
+tataḥ parājite karṇe dhārtarāṣṭrīṃ mahācamūm vyadrāvayad bhīmaseno yathendro dānavīṃ camūm
+
+**8.35.1**
+
+dhṛtarāṣṭra uvāca suduṣkaram idaṃ karma kṛtaṃ bhīmena saṃjaya yena karṇo mahābāhū rathopasthe nipātitaḥ
+
+**8.35.2**
+
+karṇo hy eko raṇe hantā sṛñjayān pāṇḍavaiḥ saha iti duryodhanaḥ sūta prābravīn māṃ muhur muhuḥ
+
+**8.35.3**
+
+parājitaṃ tu rādheyaṃ dṛṣṭvā bhīmena saṃyuge tataḥ paraṃ kim akarot putro duryodhano mama
+
+**8.35.4**
+
+saṃjaya uvāca vibhrāntaṃ prekṣya rādheyaṃ sūtaputraṃ mahāhave mahatyā senayā rājan sodaryān samabhāṣata
+
+**8.35.5**
+
+śīghraṃ gacchata bhadraṃ vo rādheyaṃ parirakṣata bhīmasenabhayāgādhe majjantaṃ vyasanārṇave
+
+**8.35.6**
+
+te tu rājñā samādiṣṭā bhīmasenajighāṃsavaḥ abhyavartanta saṃkruddhāḥ pataṃgā iva pāvakam
+
+**8.35.7**
+
+śrutāyur durdharaḥ krātho vivitsur vikaṭaḥ samaḥ niṣaṅgī kavacī pāśī tathā nandopanandakau
+
+**8.35.8**
+
+duṣpradharṣaḥ subāhuś ca vātavegasuvarcasau dhanurgrāho durmadaś ca tathā sattvasamaḥ sahaḥ
+
+**8.35.9**
+
+ete rathaiḥ parivṛtā vīryavanto mahābalāḥ bhīmasenaṃ samāsādya samantāt paryavārayan te vyamuñcañ śaravrātān nānāliṅgān samantataḥ
+
+**8.35.10**
+
+sa tair abhyardyamānas tu bhīmaseno mahābalaḥ teṣām āpatatāṃ kṣipraṃ sutānāṃ te narādhipa rathaiḥ pañcāśatā sārdhaṃ pañcāśan nyahanad rathān
+
+**8.35.11**
+
+vivitsos tu tataḥ kruddho bhallenāpāharac chiraḥ sakuṇḍalaśirastrāṇaṃ pūrṇacandropamaṃ tadā bhīmena ca mahārāja sa papāta hato bhuvi
+
+**8.35.12**
+
+taṃ dṛṣṭvā nihataṃ śūraṃ bhrātaraḥ sarvataḥ prabho abhyadravanta samare bhīmaṃ bhīmaparākramam
+
+**8.35.13**
+
+tato 'parābhyāṃ bhallābhyāṃ putrayos te mahāhave jahāra samare prāṇān bhīmo bhīmaparākramaḥ
+
+**8.35.14**
+
+tau dharām anvapadyetāṃ vātarugṇāv iva drumau vikaṭaś ca samaś cobhau devagarbhasamau nṛpa
+
+**8.35.15**
+
+tatas tu tvarito bhīmaḥ krāthaṃ ninye yamakṣayam nārācena sutīkṣṇena sa hato nyapatad bhuvi
+
+**8.35.16**
+
+hāhākāras tatas tīvraḥ saṃbabhūva janeśvara vadhyamāneṣu te rājaṃs tadā putreṣu dhanviṣu
+
+**8.35.17**
+
+teṣāṃ saṃlulite sainye bhīmaseno mahābalaḥ nandopanandau samare prāpayad yamasādanam
+
+**8.35.18**
+
+tatas te prādravan bhītāḥ putrās te vihvalīkṛtāḥ bhīmasenaṃ raṇe dṛṣṭvā kālāntakayamopamam
+
+**8.35.19**
+
+putrāṃs te nihatān dṛṣṭvā sūtaputro mahāmanāḥ haṃsavarṇān hayān bhūyaḥ prāhiṇod yatra pāṇḍavaḥ
+
+**8.35.20**
+
+te preṣitā mahārāja madrarājena vājinaḥ bhīmasenarathaṃ prāpya samasajjanta vegitāḥ
+
+**8.35.21**
+
+sa saṃnipātas tumulo ghorarūpo viśāṃ pate āsīd raudro mahārāja karṇapāṇḍavayor mṛdhe
+
+**8.35.22**
+
+dṛṣṭvā mama mahārāja tau sametau mahārathau āsīd buddhiḥ kathaṃ nūnam etad adya bhaviṣyati
+
+**8.35.23**
+
+tato muhūrtād rājendra nātikṛcchrād dhasann iva virathaṃ bhīmakarmāṇaṃ bhīmaṃ karṇaś cakāra ha
+
+**8.35.24**
+
+viratho bharataśreṣṭhaḥ prahasann anilopamaḥ gadāhasto mahābāhur apatat syandanottamāt
+
+**8.35.25**
+
+nāgān saptaśatān rājann īṣādantān prahāriṇaḥ vyadhamat sahasā bhīmaḥ kruddharūpaḥ paraṃtapaḥ
+
+**8.35.26**
+
+dantaveṣṭeṣu netreṣu kambheṣu sa kaṭeṣu ca marmasv api ca marmajño ninadan vyadhamad bhṛśam
+
+**8.35.27**
+
+tatas te prādravan bhītāḥ pratīpaṃ prahitāḥ punaḥ mahāmātrais tam āvavrur meghā iva divākaram
+
+**8.35.28**
+
+tān sa saptaśatān nāgān sārohāyudhaketanān bhūmiṣṭho gadayā jaghne śaranmeghān ivānilaḥ
+
+**8.35.29**
+
+tataḥ subalaputrasya nāgān atibalān punaḥ pothayām āsa kaunteyo dvāpañcāśatam āhave
+
+**8.35.30**
+
+tathā rathaśataṃ sāgraṃ pattīṃś ca śataśo 'parān nyahanat pāṇḍavo yuddhe tāpayaṃs tava vāhinīm
+
+**8.35.31**
+
+pratāpyamānaṃ sūryeṇa bhīmena ca mahātmanā tava sainyaṃ saṃcukoca carma vahnigataṃ yathā
+
+**8.35.32**
+
+te bhīmabhayasaṃtrastās tāvakā bharatarṣabha vihāya samare bhīmaṃ dudruvur vai diśo daśa
+
+**8.35.33**
+
+rathāḥ pañcaśatāś cānye hrādinaś carmavarmiṇaḥ bhīmam abhyadravaṃs tūrṇaṃ śarapūgaiḥ samantataḥ
+
+**8.35.34**
+
+tān sasūtarathān sarvān sapatākādhvajāyudhān pothayām āsa gadayā bhīmo viṣṇur ivāsurān
+
+**8.35.35**
+
+tataḥ śakuninirdiṣṭāḥ sādinaḥ śūrasaṃmatāḥ trisāhasrā yayur bhīmaṃ śaktyṛṣṭiprāsapāṇayaḥ
+
+**8.35.36**
+
+tān pratyudgamya yavanān aśvārohān varārihā vicaran vividhān mārgān ghātayām āsa pothayan
+
+**8.35.37**
+
+teṣām āsīn mahāñ śabdas tāḍitānāṃ ca sārvaśaḥ asibhiś chidyamānānāṃ naḍānām iva bhārata
+
+**8.35.38**
+
+evaṃ subalaputrasya trisāhasrān hayottamān hatvānyaṃ ratham āsthāya kruddho rādheyam abhyayāt
+
+**8.35.39**
+
+karṇo 'pi samare rājan dharmaputram ariṃdamam śaraiḥ pracchādayām āsa sārathiṃ cāpy apātayat
+
+**8.35.40**
+
+tataḥ saṃpradrutaṃ saṃkhye rathaṃ dṛṣṭvā mahārathaḥ anvadhāvat kiran bāṇaiḥ kaṅkapatrair ajihmagaiḥ
+
+**8.35.41**
+
+rājānam abhi dhāvantaṃ śarair āvṛtya rodasī kruddhaḥ pracchādayām āsa śarajālena mārutiḥ
+
+**8.35.42**
+
+saṃnivṛttas tatas tūrṇaṃ rādheyaḥ śatrukarśanaḥ bhīmaṃ pracchādayām āsa samantān niśitaiḥ śaraiḥ
+
+**8.35.43**
+
+bhīmasenarathavyagraṃ karṇaṃ bhārata sātyakiḥ abhyardayad ameyātmā pārṣṇigrahaṇakāraṇāt abhyavartata karṇas tam ardito 'pi śarair bhṛśam
+
+**8.35.44**
+
+tāv anyonyaṃ samāsādya vṛṣabhau sarvadhanvinām visṛjantau śarāṃś citrān vibhrājetāṃ manasvinau
+
+**8.35.45**
+
+tābhyāṃ viyati rājendra vitataṃ bhīmadarśanam krauñcapṛṣṭhāruṇaṃ raudraṃ bāṇajālaṃ vyadṛśyata
+
+**8.35.46**
+
+naiva sūryaprabhāṃ khaṃ vā na diśaḥ pradiśaḥ kutaḥ prājñāsiṣma vayaṃ tābhyāṃ śarair muktaiḥ sahasraśaḥ
+
+**8.35.47**
+
+madhyāhne tapato rājan bhāskarasya mahāprabhāḥ hṛtāḥ sarvāḥ śaraughais taiḥ karṇamādhavayos tadā
+
+**8.35.48**
+
+saubalaṃ kṛtavarmāṇaṃ drauṇim ādhirathiṃ kṛpam saṃsaktān pāṇḍavair dṛṣṭvā nivṛttāḥ kuravaḥ punaḥ
+
+**8.35.49**
+
+teṣām āpatatāṃ śabdas tīvra āsīd viśāṃ pate uddhūtānāṃ yathā vṛṣṭyā sāgarāṇāṃ bhayāvahaḥ
+
+**8.35.50**
+
+te sene bhṛśasaṃvigne dṛṣṭvānyonyaṃ mahāraṇe harṣeṇa mahatā yukte parigṛhya parasparam
+
+**8.35.51**
+
+tataḥ pravavṛte yuddhaṃ madhyaṃ prāpte divākare yādṛśaṃ na kadā cid dhi dṛṣṭapūrvaṃ na ca śrutam
+
+**8.35.52**
+
+balaughas tu samāsādya balaughaṃ sahasā raṇe upāsarpata vegena jalaugha iva sāgaram
+
+**8.35.53**
+
+āsīn ninādaḥ sumahān balaughānāṃ parasparam garjatāṃ sāgaraughāṇāṃ yathā syān nisvano mahān
+
+**8.35.54**
+
+te tu sene samāsādya vegavatyau parasparam ekībhāvam anuprāpte nadyāv iva samāgame
+
+**8.35.55**
+
+tataḥ pravavṛte yuddhaṃ ghorarūpaṃ viśāṃ pate kurūṇāṃ pāṇḍavānāṃ ca lipsatāṃ sumahad yaśaḥ
+
+**8.35.56**
+
+kurūṇāṃ garjatāṃ tatra avicchedakṛtā giraḥ śrūyante vividhā rājan nāmāny uddiśya bhārata
+
+**8.35.57**
+
+yasya yad dhi raṇe nyaṅgaṃ pitṛto mātṛto 'pi vā karmataḥ śīlato vāpi sa tac chrāvayate yudhi
+
+**8.35.58**
+
+tān dṛṣṭvā samare śūrāṃs tarjayānān parasparam abhavan me matī rājan naiṣām astīti jīvitam
+
+**8.35.59**
+
+teṣāṃ dṛṣṭvā tu kruddhānāṃ vapūṃṣy amitatejasām abhavan me bhayaṃ tīvraṃ katham etad bhaviṣyati
+
+**8.35.60**
+
+tatas te pāṇḍavā rājan kauravāś ca mahārathāḥ tatakṣuḥ sāyakais tīkṣṇair nighnanto hi parasparam
+
+**8.36.1**
+
+saṃjaya uvāca kṣatriyās te mahārāja parasparavadhaiṣiṇaḥ anyonyaṃ samare jaghnuḥ kṛtavairāḥ parasparam
+
+**8.36.2**
+
+rathaughāś ca hayaughāś ca naraughāś ca samantataḥ gajaughāś ca mahārāja saṃsaktāḥ sma parasparam
+
+**8.36.3**
+
+gadānāṃ parighāṇāṃ ca kaṇapānāṃ ca sarpatām prāsānāṃ bhiṇḍipālānāṃ bhuśuṇḍīnāṃ ca sarvaśaḥ
+
+**8.36.4**
+
+saṃpātaṃ cānvapaśyāma saṃgrāme bhṛśadāruṇe śalabhā iva saṃpetuḥ samantāc charavṛṣṭayaḥ
+
+**8.36.5**
+
+nāgā nāgān samāsādya vyadhamanta parasparam hayā hayāṃś ca samare rathino rathinas tathā pattayaḥ pattisaṃghaiś ca hayasaṃghair hayās tathā
+
+**8.36.6**
+
+pattayo rathamātaṅgān rathā hastyaśvam eva ca nāgāś ca samare tryaṅgaṃ mamṛduḥ śīghragā nṛpa
+
+**8.36.7**
+
+patatāṃ tatra śūrāṇāṃ krośatāṃ ca parasparam ghoram āyodhanaṃ jajñe paśūnāṃ vaiśasaṃ yathā
+
+**8.36.8**
+
+rudhireṇa samāstīrṇā bhāti bhārata medinī śakragopagaṇākīrṇā prāvṛṣīva yathā dharā
+
+**8.36.9**
+
+yathā vā vāsasī śukle mahārajanarañjite bibhṛyād yuvatiḥ śyāmā tadvad āsīd vasuṃdharā māṃsaśoṇitacitreva śātakaumbhamayīva ca
+
+**8.36.10**
+
+chinnānāṃ cottamāṅgānāṃ bāhūnāṃ corubhiḥ saha kuṇḍalānāṃ praviddhānāṃ bhūṣaṇānāṃ ca bhārata
+
+**8.36.11**
+
+niṣkāṇām adhisūtrāṇāṃ śarīrāṇāṃ ca dhanvinām varmaṇāṃ sapatākānāṃ saṃghās tatrāpatan bhuvi
+
+**8.36.12**
+
+gajān gajāḥ samāsādya viṣāṇāgrair adārayan viṣāṇābhihatās te ca bhrājante dviradā yathā
+
+**8.36.13**
+
+rudhireṇāvasiktāṅgā gairikaprasravā iva yathā bhrājanti syandantaḥ parvatā dhātumaṇḍitāḥ
+
+**8.36.14**
+
+tomarān gajibhir muktān pratīpān āsthitān bahūn hastair vicerus te nāgā babhañjuś cāpare tathā
+
+**8.36.15**
+
+nārācaiś chinnavarmāṇo bhrājante sma gajottamāḥ himāgame mahārāja vyabhrā iva mahīdharāḥ
+
+**8.36.16**
+
+śaraiḥ kanakapuṅkhais tu citā rejur gajottamāḥ ulkābhiḥ saṃpradīptāgrāḥ parvatā iva māriṣa
+
+**8.36.17**
+
+ke cid abhyāhatā nāgā nāgair naganibhā bhuvi nipetuḥ samare tasmin pakṣavanta ivādrayaḥ
+
+**8.36.18**
+
+apare prādravan nāgāḥ śalyārtā vraṇapīḍitāḥ pratimānaiś ca kumbhaiś ca petur urvyāṃ mahāhave
+
+**8.36.19**
+
+niṣeduḥ siṃhavac cānye nadanto bhairavān ravān mamluś ca bahavo rājaṃś cukūjuś cāpare tathā
+
+**8.36.20**
+
+hayāś ca nihatā bāṇaiḥ svarṇabhāṇḍaparicchadāḥ niṣeduś caiva mamluś ca babhramuś ca diśo daśa
+
+**8.36.21**
+
+apare kṛṣyamāṇāś ca viveṣṭanto mahītale bhāvān bahuvidhāṃś cakrus tāḍitāḥ śaratomaraiḥ
+
+**8.36.22**
+
+narās tu nihatā bhūmau kūjantas tatra māriṣa dṛṣṭvā ca bāndhavān anye pitṝn anye pitāmahān
+
+**8.36.23**
+
+dhāvamānān parāṃś caiva dṛṣṭvānye tatra bhārata gotranāmāni khyātāni śaśaṃsur itaretaram
+
+**8.36.24**
+
+teṣāṃ chinnā mahārāja bhujāḥ kanakabhūṣaṇāḥ udveṣṭante viveṣṭante patante cotpatanti ca
+
+**8.36.25**
+
+nipatanti tathā bhūmau sphuranti ca sahasraśaḥ vegāṃś cānye raṇe cakruḥ sphuranta iva pannagāḥ
+
+**8.36.26**
+
+te bhujā bhogibhogābhāś candanāktā viśāṃ pate lohitārdrā bhṛśaṃ rejus tapanīyadhvajā iva
+
+**8.36.27**
+
+vartamāne tathā ghore saṃkule sarvatodiśam avijñātāḥ sma yudhyante vinighnantaḥ parasparam
+
+**8.36.28**
+
+bhaumena rajasā kīrṇe śastrasaṃpātasaṃkule naiva sve na pare rājan vyajñāyanta tamovṛte
+
+**8.36.29**
+
+tathā tad abhavad yuddhaṃ ghorarūpaṃ bhayānakam śoṇitodā mahānadyaḥ prasasrus tatra cāsakṛt
+
+**8.36.30**
+
+śīrṣapāṣāṇasaṃchannāḥ keśaśaivalaśādvalāḥ asthisaṃghātasaṃkīrṇā dhanuḥśaravarottamāḥ
+
+**8.36.31**
+
+māṃsakardamapaṅkāś ca śoṇitaughāḥ sudāruṇāḥ nadīḥ pravartayām āsur yamarāṣṭravivardhanīḥ
+
+**8.36.32**
+
+tā nadyo ghorarūpāś ca nayantyo yamasādanam avagāḍhā majjayantyaḥ kṣatrasyājanayan bhayam
+
+**8.36.33**
+
+kravyādānāṃ naravyāghra nardatāṃ tatra tatra ha ghoram āyodhanaṃ jajñe pretarājapuropamam
+
+**8.36.34**
+
+utthitāny agaṇeyāni kabandhāni samantataḥ nṛtyanti vai bhūtagaṇāḥ saṃtṛptā māṃsaśoṇitaiḥ
+
+**8.36.35**
+
+pītvā ca śoṇitaṃ tatra vasāṃ pītvā ca bhārata medomajjāvasātṛptās tṛptā māṃsasya caiva hi dhāvamānāś ca dṛśyante kākagṛdhrabalās tathā
+
+**8.36.36**
+
+śūrās tu samare rājan bhayaṃ tyaktvā sudustyajam yodhavratasamākhyātāś cakruḥ karmāṇy abhītavat
+
+**8.36.37**
+
+śaraśaktisamākīrṇe kravyādagaṇasaṃkule vyacaranta gaṇaiḥ śūrāḥ khyāpayantaḥ svapauruṣam
+
+**8.36.38**
+
+anyonyaṃ śrāvayanti sma nāmagotrāṇi bhārata pitṛnāmāni ca raṇe gotranāmāni cābhitaḥ
+
+**8.36.39**
+
+śrāvayanto hi bahavas tatra yodhā viśāṃ pate anyonyam avamṛdnantaḥ śaktitomarapaṭṭiśaiḥ
+
+**8.36.40**
+
+vartamāne tadā yuddhe ghorarūpe sudāruṇe vyaṣīdat kauravī senā bhinnā naur iva sāgare
+
+**8.37.1**
+
+saṃjaya uvāca vartamāne tadā yuddhe kṣatriyāṇāṃ nimajjane gāṇḍīvasya mahān ghoṣaḥ śuśruve yudhi māriṣa
+
+**8.37.2**
+
+saṃśaptakānāṃ kadanam akarod yatra pāṇḍavaḥ kosalānāṃ tathā rājan nārāyaṇabalasya ca
+
+**8.37.3**
+
+saṃśaptakās tu samare śaravṛṣṭiṃ samantataḥ apātayan pārthamūrdhni jayagṛddhāḥ pramanyavaḥ
+
+**8.37.4**
+
+tāṃ vṛṣṭiṃ sahasā rājaṃs tarasā dhārayan prabhuḥ vyagāhata raṇe pārtho vinighnan rathināṃ varaḥ
+
+**8.37.5**
+
+nigṛhya tu rathānīkaṃ kaṅkapatraiḥ śilāśitaiḥ āsasāda raṇe pārthaḥ suśarmāṇaṃ mahāratham
+
+**8.37.6**
+
+sa tasya śaravarṣāṇi vavarṣa rathināṃ varaḥ tathā saṃśaptakāś caiva pārthasya samare sthitāḥ
+
+**8.37.7**
+
+suśarmā tu tataḥ pārthaṃ viddhvā navabhir āśugaiḥ janārdanaṃ tribhir bāṇair abhyahan dakṣiṇe bhuje tato 'pareṇa bhallena ketuṃ vivyādha māriṣa
+
+**8.37.8**
+
+sa vānaravaro rājan viśvakarmakṛto mahān nanāda sumahan nādaṃ bhīṣayan vai nanarda ca
+
+**8.37.9**
+
+kapes tu ninadaṃ śrutvā saṃtrastā tava vāhinī bhayaṃ vipulam ādāya niśceṣṭā samapadyata
+
+**8.37.10**
+
+tataḥ sā śuśubhe senā niśceṣṭāvasthitā nṛpa nānāpuṣpasamākīrṇaṃ yathā caitrarathaṃ vanam
+
+**8.37.11**
+
+pratilabhya tataḥ saṃjñāṃ yodhās te kurusattama arjunaṃ siṣicur bāṇaiḥ parvataṃ jaladā iva parivavrus tadā sarve pāṇḍavasya mahāratham
+
+**8.37.12**
+
+te hayān rathacakre ca ratheṣāś cāpi bhārata nigṛhya balavat tūrṇaṃ siṃhanādam athānadan
+
+**8.37.13**
+
+apare jagṛhuś caiva keśavasya mahābhujau pārtham anye mahārāja rathasthaṃ jagṛhur mudā
+
+**8.37.14**
+
+keśavas tu tadā bāhū vidhunvan raṇamūrdhani pātayām āsa tān sarvān duṣṭahastīva hastinaḥ
+
+**8.37.15**
+
+tataḥ kruddho raṇe pārthaḥ saṃvṛtas tair mahārathaiḥ nigṛhītaṃ rathaṃ dṛṣṭvā keśavaṃ cāpy abhidrutam rathārūḍhāṃś ca subahūn padātīṃś cāpy apātayat
+
+**8.37.16**
+
+āsannāṃś ca tato yodhāñ śarair āsannayodhibhiḥ cyāvayām āsa samare keśavaṃ cedam abravīt
+
+**8.37.17**
+
+paśya kṛṣṇa mahābāho saṃśaptakagaṇān mayā kurvāṇān dāruṇaṃ karma vadhyamānān sahasraśaḥ
+
+**8.37.18**
+
+rathabandham imaṃ ghoraṃ pṛthivyāṃ nāsti kaś cana yaḥ saheta pumāṃl loke mad anyo yadupuṃgava
+
+**8.37.19**
+
+ity evam uktvā bībhatsur devadattam athādhamat pāñcajanyaṃ ca kṛṣṇo 'pi pūrayann iva rodasī
+
+**8.37.20**
+
+taṃ tu śaṅkhasvanaṃ śrutvā saṃśaptakavarūthinī saṃcacāla mahārāja vitrastā cābhavad bhṛśam
+
+**8.37.21**
+
+padabandhaṃ tataś cakre pāṇḍavaḥ paravīrahā nāgam astraṃ mahārāja saṃprodīrya muhur muhuḥ
+
+**8.37.22**
+
+yān uddiśya raṇe pārthaḥ padabandhaṃ cakāra ha te baddhāḥ padabandhena pāṇḍavena mahātmanā niśceṣṭā abhavan rājann aśmasāramayā iva
+
+**8.37.23**
+
+niśceṣṭāṃs tu tato yodhān avadhīt pāṇḍunandanaḥ yathendraḥ samare daityāṃs tārakasya vadhe purā
+
+**8.37.24**
+
+te vadhyamānāḥ samare mumucus taṃ rathottamam āyudhāni ca sarvāṇi visraṣṭum upacakramuḥ
+
+**8.37.25**
+
+tataḥ suśarmā rājendra gṛhītāṃ vīkṣya vāhinīm sauparṇam astraṃ tvaritaḥ prāduścakre mahārathaḥ
+
+**8.37.26**
+
+tataḥ suparṇāḥ saṃpetur bhakṣayanto bhujaṃgamān te vai vidudruvur nāgā dṛṣṭvā tān khacarān nṛpa
+
+**8.37.27**
+
+babhau balaṃ tad vimuktaṃ padabandhād viśāṃ pate meghavṛndād yathā mukto bhāskaras tāpayan prajāḥ
+
+**8.37.28**
+
+vipramuktās tu te yodhāḥ phalgunasya rathaṃ prati sasṛjur bāṇasaṃghāṃś ca śastrasaṃghāṃś ca māriṣa
+
+**8.37.29**
+
+tāṃ mahāstramayīṃ vṛṣṭiṃ saṃchidya śaravṛṣṭibhiḥ vyavātiṣṭhat tato yodhān vāsaviḥ paravīrahā
+
+**8.37.30**
+
+suśarmā tu tato rājan bāṇenānataparvaṇā arjunaṃ hṛdaye viddhvā vivyādhānyais tribhiḥ śaraiḥ sa gāḍhaviddho vyathito rathopastha upāviśat
+
+**8.37.31**
+
+pratilabhya tataḥ saṃjñāṃ śvetāśvaḥ kṛṣṇasārathiḥ aindram astram ameyātmā prāduścakre tvarānvitaḥ tato bāṇasahasrāṇi samutpannāni māriṣa
+
+**8.37.32**
+
+sarvadikṣu vyadṛśyanta sūdayanto nṛpa dvipān hayān rathāṃś ca samare śastraiḥ śatasahasraśaḥ
+
+**8.37.33**
+
+vadhyamāne tataḥ sainye vipulā bhīḥ samāviśat saṃśaptakagaṇānāṃ ca gopālānāṃ ca bhārata na hi kaś cit pumāṃs tatra yo 'rjunaṃ pratyayudhyata
+
+**8.37.34**
+
+paśyatāṃ tatra vīrāṇām ahanyata mahad balam hanyamānam apaśyaṃś ca niśceṣṭāḥ sma parākrame
+
+**8.37.35**
+
+ayutaṃ tatra yodhānāṃ hatvā pāṇḍusuto raṇe vyabhrājata raṇe rājan vidhūmo 'gnir iva jvalan
+
+**8.37.36**
+
+caturdaśa sahasrāṇi yāni śiṣṭāni bhārata rathānām ayutaṃ caiva trisāhasrāś ca dantinaḥ
+
+**8.37.37**
+
+tataḥ saṃśaptakā bhūyaḥ parivavrur dhanaṃjayam martavyam iti niścitya jayaṃ vāpi nivartanam
+
+**8.37.38**
+
+tatra yuddhaṃ mahad dhy āsīt tāvakānāṃ viśāṃ pate śūreṇa balinā sārdhaṃ pāṇḍavena kirīṭinā
+
+**8.38.1**
+
+saṃjaya uvāca kṛtavarmā kṛpo drauṇiḥ sūtaputraś ca māriṣa ulūkaḥ saubalaś caiva rājā ca saha sodaraiḥ
+
+**8.38.2**
+
+sīdamānāṃ camūṃ dṛṣṭvā pāṇḍuputrabhayārditām samujjihīrṣur vegena bhinnāṃ nāvam ivārṇave
+
+**8.38.3**
+
+tato yuddham atīvāsīn muhūrtam iva bhārata bhīrūṇāṃ trāsajananaṃ śūrāṇāṃ harṣavardhanam
+
+**8.38.4**
+
+kṛpeṇa śaravarṣāṇi vipramuktāni saṃyuge sṛñjayāḥ śātayām āsuḥ śalabhānāṃ vrajā iva
+
+**8.38.5**
+
+śikhaṇḍī tu tataḥ kruddho gautamaṃ tvarito yayau vavarṣa śaravarṣāṇi samantād eva brāhmaṇe
+
+**8.38.6**
+
+kṛpas tu śaravarṣaṃ tad vinihatya mahāstravit śikhaṇḍinaṃ raṇe kruddho vivyādha daśabhiḥ śaraiḥ
+
+**8.38.7**
+
+tataḥ śikhaṇḍī kupītaḥ śaraiḥ saptabhir āhave kṛpaṃ vivyādha subhṛśaṃ kaṅkapatrair ajihmagaiḥ
+
+**8.38.8**
+
+tataḥ kṛpaḥ śarais tīkṣṇaiḥ so 'tividdho mahārathaḥ vyaśvasūtarathaṃ cakre pārṣataṃ tu dvijottamaḥ
+
+**8.38.9**
+
+hatāśvāt tu tato yānād avaplutya mahārathaḥ carmakhaḍge ca saṃgṛhya satvaraṃ brāhmaṇaṃ yayau
+
+**8.38.10**
+
+tam āpatantaṃ sahasā śaraiḥ saṃnataparvabhiḥ chādayām āsa samare tad adbhutam ivābhavat
+
+**8.38.11**
+
+tatrādbhutam apaśyāma śilānāṃ plavanaṃ yathā niśceṣṭo yad raṇe rājañ śikhaṇḍī samatiṣṭhata
+
+**8.38.12**
+
+kṛpeṇa chāditaṃ dṛṣṭvā nṛpottama śikhaṇḍinam pratyudyayau kṛpaṃ tūrṇaṃ dhṛṣṭadyumno mahārathaḥ
+
+**8.38.13**
+
+dhṛṣṭadyumnaṃ tato yāntaṃ śāradvatarathaṃ prati pratijagrāha vegena kṛtavarmā mahārathaḥ
+
+**8.38.14**
+
+yudhiṣṭhiram athāyāntaṃ śāradvatarathaṃ prati saputraṃ sahasenaṃ ca droṇaputro nyavārayat
+
+**8.38.15**
+
+nakulaṃ sahadevaṃ ca tvaramāṇau mahārathau pratijagrāha te putraḥ śaravarṣeṇa vārayan
+
+**8.38.16**
+
+bhīmasenaṃ karūṣāṃś ca kekayān sahasṛñjayān karṇo vaikartano yuddhe vārayām āsa bhārata
+
+**8.38.17**
+
+śikhaṇḍinas tato bāṇān kṛpaḥ śāradvato yudhi prāhiṇot tvarayā yukto didhakṣur iva māriṣa
+
+**8.38.18**
+
+tāñ śarān preṣitāṃs tena samantād dhemabhūṣaṇān ciccheda khaḍgam āvidhya bhrāmayaṃś ca punaḥ punaḥ
+
+**8.38.19**
+
+śatacandraṃ tataś carma gautamaḥ pārṣatasya ha vyadhamat sāyakais tūrṇaṃ tata uccukruśur janāḥ
+
+**8.38.20**
+
+sa vicarmā mahārāja khaḍgapāṇir upādravat kṛpasya vaśam āpanno mṛtyor āsyam ivāturaḥ
+
+**8.38.21**
+
+śāradvataśarair grastaṃ kliśyamānaṃ mahābalam citraketusuto rājan suketus tvarito yayau
+
+**8.38.22**
+
+vikiran brāhmaṇaṃ yuddhe bahubhir niśitaiḥ śaraiḥ abhyāpatad ameyātmā gautamasya rathaṃ prati
+
+**8.38.23**
+
+dṛṣṭvāviṣahyaṃ taṃ yuddhe brāhmaṇaṃ caritavratam apayātas tatas tūrṇaṃ śikhaṇḍī rājasattama
+
+**8.38.24**
+
+suketus tu tato rājan gautamaṃ navabhiḥ śaraiḥ viddhvā vivyādha saptatyā punaś cainaṃ tribhiḥ śaraiḥ
+
+**8.38.25**
+
+athāsya saśaraṃ cāpaṃ punaś ciccheda māriṣa sārathiṃ ca śareṇāsya bhṛśaṃ marmaṇy atāḍayat
+
+**8.38.26**
+
+gautamas tu tataḥ kruddho dhanur gṛhya navaṃ dṛḍham suketuṃ triṃśatā bāṇaiḥ sarvamarmasv atāḍayat
+
+**8.38.27**
+
+sa vihvalitasarvāṅgaḥ pracacāla rathottame bhūmicāle yathā vṛkṣaś calaty ākampito bhṛśam
+
+**8.38.28**
+
+calatas tasya kāyāt tu śiro jvalitakuṇḍalam soṣṇīṣaṃ saśirastrāṇaṃ kṣurapreṇānvapātayat
+
+**8.38.29**
+
+tac chiraḥ prāpatad bhūmau śyenāhṛtam ivāmiṣam tato 'sya kāyo vasudhāṃ paścāt prāpa tadā cyutaḥ
+
+**8.38.30**
+
+tasmin hate mahārāja trastās tasya padānugāḥ gautamaṃ samare tyaktvā dudruvus te diśo daśa
+
+**8.38.31**
+
+dhṛṣṭadyumnaṃ tu samare saṃnivārya mahābalaḥ kṛtavarmābravīd dhṛṣṭas tiṣṭha tiṣṭheti pārṣatam
+
+**8.38.32**
+
+tad abhūt tumulaṃ yuddhaṃ vṛṣṇipārṣatayo raṇe āmiṣārthe yathā yuddhaṃ śyenayor gṛddhayor nṛpa
+
+**8.38.33**
+
+dhṛṣṭadyumnas tu samare hārdikyaṃ navabhiḥ śaraiḥ ājaghānorasi kruddhaḥ pīḍayan hṛdikātmajam
+
+**8.38.34**
+
+kṛtavarmā tu samare pārṣatena dṛḍhāhataḥ pārṣataṃ sarathaṃ sāśvaṃ chādayām āsa sāyakaiḥ
+
+**8.38.35**
+
+sarathaś chādito rājan dhṛṣṭadyumno na dṛśyate meghair iva paricchanno bhāskaro jaladāgame
+
+**8.38.36**
+
+vidhūya taṃ bāṇagaṇaṃ śaraiḥ kanakabhūṣaṇaiḥ vyarocata raṇe rājan dhṛṣṭadyumnaḥ kṛtavraṇaḥ
+
+**8.38.37**
+
+tatas tu pārṣataḥ kruddhaḥ śastravṛṣṭiṃ sudāruṇām kṛtavarmāṇam āsādya vyasṛjat pṛtanāpatiḥ
+
+**8.38.38**
+
+tām āpatantīṃ sahasā śastravṛṣṭiṃ nirantarām śarair anekasāhasrair hārdikyo vyadhamad yudhi
+
+**8.38.39**
+
+dṛṣṭvā tu dāritāṃ yuddhe śastravṛṣṭiṃ duruttarām kṛtavarmāṇam abhyetya vārayām āsa pārṣataḥ
+
+**8.38.40**
+
+sārathiṃ cāsya tarasā prāhiṇod yamasādanam bhallena śitadhāreṇa sa hataḥ prāpatad rathāt
+
+**8.38.41**
+
+dhṛṣṭadyumnas tu balavāñ jitvā śatruṃ mahāratham kauravān samare tūrṇaṃ vārayām āsa sāyakaiḥ
+
+**8.38.42**
+
+tatas te tāvakā yodhā dhṛṣṭadyumnam upādravan siṃhanādaravaṃ kṛtvā tato yuddham avartata
+
+**8.39.1**
+
+saṃjaya uvāca drauṇir yudhiṣṭhiraṃ dṛṣṭvā śaineyenābhirakṣitam draupadeyais tathā śūrair abhyavartata hṛṣṭavat
+
+**8.39.2**
+
+kirann iṣugaṇān ghorān svarṇapuṅkhāñ śilāśitān darśayan vividhān mārgāñ śikṣārthaṃ laghuhastavat
+
+**8.39.3**
+
+tataḥ khaṃ pūrayām āsa śarair divyāstramantritaiḥ yudhiṣṭhiraṃ ca samare paryavārayad astravit
+
+**8.39.4**
+
+drauṇāyaniśaracchannaṃ na prājñāyata kiṃ cana bāṇabhūtam abhūt sarvam āyodhanaśiro hi tat
+
+**8.39.5**
+
+bāṇajālaṃ diviṣṭhaṃ tat svarṇajālavibhūṣitam śuśubhe bharataśreṣṭha vitānam iva viṣṭhitam
+
+**8.39.6**
+
+tena channe raṇe rājan bāṇajālena bhāsvatā abhracchāyeva saṃjajñe bāṇaruddhe nabhastale
+
+**8.39.7**
+
+tatrāścaryam apaśyāma bāṇabhūte tathāvidhe na sma saṃpatate bhūmau dṛṣṭvā drauṇeḥ parākramam
+
+**8.39.8**
+
+lāghavaṃ droṇaputrasya dṛṣṭvā tatra mahārathāḥ vyasmayanta mahārāja na cainaṃ prativīkṣitum śekus te sarvarājānas tapantam iva bhāskaram
+
+**8.39.9**
+
+sātyakir yatamānas tu dharmarājaś ca pāṇḍavaḥ tathetarāṇi sainyāni na sma cakruḥ parākramam
+
+**8.39.10**
+
+vadhyamāne tataḥ sainye draupadeyā mahārathāḥ sātyakir dharmarājaś ca pāñcālāś cāpi saṃgatāḥ tyaktvā mṛtyubhayaṃ ghoraṃ drauṇāyanim upādravan
+
+**8.39.11**
+
+sātyakiḥ pañcaviṃśatyā drauṇiṃ viddhvā śilāmukhaiḥ punar vivyādha nārācaiḥ saptabhiḥ svarṇabhūṣitaiḥ
+
+**8.39.12**
+
+yudhiṣṭhiras trisaptatyā prativindhyaś ca saptabhiḥ śrutakarmā tribhir bāṇaiḥ śrutakīrtis tu saptabhiḥ
+
+**8.39.13**
+
+sutasomaś ca navabhiḥ śatānīkaś ca saptabhiḥ anye ca bahavaḥ śūrā vivyadhus taṃ samantataḥ
+
+**8.39.14**
+
+so 'tikruddhas tato rājann āśīviṣa iva śvasan sātyakiṃ pañcaviṃśatyā prāvidhyata śilāśitaiḥ
+
+**8.39.15**
+
+śrutakīrtiṃ ca navabhiḥ sutasomaṃ ca pañcabhiḥ aṣṭabhiḥ śrutakarmāṇaṃ prativindhyaṃ tribhiḥ śaraiḥ śatānīkaṃ ca navabhir dharmaputraṃ ca saptabhiḥ
+
+**8.39.16**
+
+athetarāṃs tataḥ śūrān dvābhyāṃ dvābhyām atāḍayat śrutakīrtes tathā cāpaṃ ciccheda niśitaiḥ śaraiḥ
+
+**8.39.17**
+
+athānyad dhanur ādāya śrutakīrtir mahārathaḥ drauṇāyaniṃ tribhir viddhvā vivyādhānyaiḥ śitaiḥ śaraiḥ
+
+**8.39.18**
+
+tato drauṇir mahārāja śaravarṣeṇa bhārata chādayām āsa tat sainyaṃ samantāc ca śarair nṛpān
+
+**8.39.19**
+
+tataḥ punar ameyātmā dharmarājasya kārmukam drauṇiś ciccheda vihasan vivyādha ca śarais tribhiḥ
+
+**8.39.20**
+
+tato dharmasuto rājan pragṛhyānyan mahad dhanuḥ drauṇiṃ vivyādha saptatyā bāhvor urasi cārdayat
+
+**8.39.21**
+
+sātyakis tu tataḥ kruddho drauṇeḥ praharato raṇe ardhacandreṇa tīkṣṇena dhanuś chittvānadad bhṛśam
+
+**8.39.22**
+
+chinnadhanvā tato drauṇiḥ śaktyā śaktimatāṃ varaḥ sārathiṃ pātayām āsa śaineyasya rathād drutam
+
+**8.39.23**
+
+athānyad dhanur ādāya droṇaputraḥ pratāpavān śaineyaṃ śaravarṣeṇa chādayām āsa bhārata
+
+**8.39.24**
+
+tasyāśvāḥ pradrutāḥ saṃkhye patite rathasārathau tatra tatraiva dhāvantaḥ samadṛśyanta bhārata
+
+**8.39.25**
+
+yudhiṣṭhirapurogās te drauṇiṃ śastrabhṛtāṃ varam abhyavarṣanta vegena visṛjantaḥ śitāñ śarān
+
+**8.39.26**
+
+āgacchamānāṃs tān dṛṣṭvā raudrarūpān paraṃtapaḥ prahasan pratijagrāha droṇaputro mahāraṇe
+
+**8.39.27**
+
+tataḥ śaraśatajvālaḥ senākakṣaṃ mahārathaḥ drauṇir dadāha samare kakṣam agnir yathā vane
+
+**8.39.28**
+
+tad balaṃ pāṇḍuputrasya droṇaputrapratāpitam cukṣubhe bharataśreṣṭha timineva nadīmukham
+
+**8.39.29**
+
+dṛṣṭvā te ca mahārāja droṇaputraparākramam nihatān menire sarvān pāṇḍūn droṇasutena vai
+
+**8.39.30**
+
+yudhiṣṭhiras tu tvarito drauṇiṃ śliṣya mahāratham abravīd droṇaputraṃ tu roṣāmarṣasamanvitaḥ
+
+**8.39.31**
+
+naiva nāma tava prītir naiva nāma kṛtajñatā yatas tvaṃ puruṣavyāghra mām evādya jighāṃsasi
+
+**8.39.32**
+
+brāhmaṇena tapaḥ kāryaṃ dānam adhyayanaṃ tathā kṣatriyeṇa dhanur nāmyaṃ sa bhavān brāhmaṇabruvaḥ
+
+**8.39.33**
+
+miṣatas te mahābāho jeṣyāmi yudhi kauravān kuruṣva samare karma brahmabandhur asi dhruvam
+
+**8.39.34**
+
+evam ukto mahārāja droṇaputraḥ smayann iva yuktatvaṃ tac ca saṃcintya nottaraṃ kiṃ cid abravīt
+
+**8.39.35**
+
+anuktvā ca tataḥ kiṃ cic charavarṣeṇa pāṇḍavam chādayām āsa samare kruddho 'ntaka iva prajāḥ
+
+**8.39.36**
+
+saṃchādyamānas tu tadā droṇaputreṇa māriṣa pārtho 'payātaḥ śīghraṃ vai vihāya mahatīṃ camūm
+
+**8.39.37**
+
+apayāte tatas tasmin dharmaputre yudhiṣṭhire droṇaputraḥ sthito rājan pratyādeśān mahātmanaḥ
+
+**8.39.38**
+
+tato yudhiṣṭhiro rājā tyaktvā drauṇiṃ mahāhave prayayau tāvakaṃ sainyaṃ yuktaḥ krūrāya karmaṇe
+
+**8.40.1**
+
+saṃjaya uvāca bhīmasenaṃ sapāñcālyaṃ cedikekayasaṃvṛtam vaikartanaḥ svayaṃ ruddhvā vārayām āsa sāyakaiḥ
+
+**8.40.2**
+
+tatas tu cedikārūṣān sṛñjayāṃś ca mahārathān karṇo jaghāna saṃkruddho bhīmasenasya paśyataḥ
+
+**8.40.3**
+
+bhīmasenas tataḥ karṇaṃ vihāya rathasattamam prayayau kauravaṃ sainyaṃ kakṣam agnir iva jvalan
+
+**8.40.4**
+
+sūtaputro 'pi samare pāñcālān kekayāṃs tathā sṛñjayāṃś ca maheṣvāsān nijaghāna sahasraśaḥ
+
+**8.40.5**
+
+saṃśaptakeṣu pārthaś ca kauraveṣu vṛkodaraḥ pāñcāleṣu tathā karṇaḥ kṣayaṃ cakrūr mahārathāḥ
+
+**8.40.6**
+
+te kṣatriyā dahyamānās tribhis taiḥ pāvakopamaiḥ jagmur vināśaṃ samare rājan durmantrite tava
+
+**8.40.7**
+
+tato duryodhanaḥ kruddho nakulaṃ navabhiḥ śaraiḥ vivyādha bharataśreṣṭha caturaś cāsya vājinaḥ
+
+**8.40.8**
+
+tataḥ punar ameyātmā tava putro janādhipaḥ kṣureṇa sahadevasya dhvajaṃ ciccheda kāñcanam
+
+**8.40.9**
+
+nakulas tu tataḥ kruddhas tava putraṃ trisaptabhiḥ jaghāna samare rājan sahadevaś ca pañcabhiḥ
+
+**8.40.10**
+
+tāv ubhau bharataśreṣṭhau śreṣṭhau sarvadhanuṣmatām vivyādhorasi saṃkruddhaḥ pañcabhiḥ pañcabhiḥ śaraiḥ
+
+**8.40.11**
+
+tato 'parābhyāṃ bhallābhyāṃ dhanuṣī samakṛntata yamayoḥ prahasan rājan vivyādhaiva ca saptabhiḥ
+
+**8.40.12**
+
+tāv anye dhanuṣī śreṣṭhe śakracāpanibhe śubhe pragṛhya rejatuḥ śūrau devaputrasamau yudhi
+
+**8.40.13**
+
+tatas tau rabhasau yuddhe bhrātarau bhrātaraṃ nṛpa śarair vavarṣatur ghorair mahāmeghau yathācalam
+
+**8.40.14**
+
+tataḥ kruddho mahārāja tava putro mahārathaḥ pāṇḍuputrau maheṣvāsau vārayām āsa patribhiḥ
+
+**8.40.15**
+
+dhanurmaṇḍalam evāsya dṛśyate yudhi bhārata sāyakāś caiva dṛśyante niścarantaḥ samantataḥ
+
+**8.40.16**
+
+tasya sāyakasaṃchannau cakāśetāṃ ca pāṇḍavau meghacchannau yathā vyomni candrasūryau hataprabhau
+
+**8.40.17**
+
+te tu bāṇā mahārāja hemapuṅkhāḥ śilāśitāḥ ācchādayan diśaḥ sarvāḥ sūryasyevāṃśavas tadā
+
+**8.40.18**
+
+bāṇabhūte tatas tasmin saṃchanne ca nabhastale yamābhyāṃ dadṛśe rūpaṃ kālāntakayamopamam
+
+**8.40.19**
+
+parākramaṃ tu taṃ dṛṣṭvā tava sūnor mahārathāḥ mṛtyor upāntikaṃ prāptau mādrīputrau sma menire
+
+**8.40.20**
+
+tataḥ senāpatī rājan pāṇḍavasya mahātmanaḥ pārṣataḥ prayayau tatra yatra rājā suyodhanaḥ
+
+**8.40.21**
+
+mādrīputrau tataḥ śūrau vyatikramya mahārathau dhṛṣṭadyumnas tava sutaṃ tāḍayām āsa sāyakaiḥ
+
+**8.40.22**
+
+tam avidhyad ameyātmā tava putro 'tyamarṣaṇaḥ pāñcālyaṃ pañcaviṃśatyā prahasya puruṣarṣabha
+
+**8.40.23**
+
+tataḥ punar ameyātmā putras te pṛthivīpate viddhvā nanāda pāñcālyaṃ ṣaṣṭyā pañcabhir eva ca
+
+**8.40.24**
+
+athāsya saśaraṃ cāpaṃ hastāvāpaṃ ca māriṣa kṣurapreṇa sutīkṣṇena rājā ciccheda saṃyuge
+
+**8.40.25**
+
+tad apāsya dhanuś chinnaṃ pāñcālyaḥ śatrukarśanaḥ anyad ādatta vegena dhanur bhārasahaṃ navam
+
+**8.40.26**
+
+prajvalann iva vegena saṃrambhād rudhirekṣaṇaḥ aśobhata maheṣvāso dhṛṣṭadyumnaḥ kṛtavraṇaḥ
+
+**8.40.27**
+
+sa pañcadaśa nārācāñ śvasataḥ pannagān iva jighāṃsur bharataśreṣṭhaṃ dhṛṣṭadyumno vyavāsṛjat
+
+**8.40.28**
+
+te varma hemavikṛtaṃ bhittvā rājñaḥ śilāśitāḥ viviśur vasudhāṃ vegāt kaṅkabarhiṇavāsasaḥ
+
+**8.40.29**
+
+so 'tividdho mahārāja putras te 'tivyarājata vasante puṣpaśabalaḥ sapuṣpa iva kiṃśukaḥ
+
+**8.40.30**
+
+sa chinnavarmā nārācaiḥ prahārair jarjaracchaviḥ dhṛṣṭadyumnasya bhallena kruddhaś ciccheda kārmukam
+
+**8.40.31**
+
+athainaṃ chinnadhanvānaṃ tvaramāṇo mahīpatiḥ sāyakair daśabhī rājan bhruvor madhye samārdayat
+
+**8.40.32**
+
+tasya te 'śobhayan vaktraṃ karmāraparimārjitāḥ praphullaṃ campakaṃ yadvad bhramarā madhulipsavaḥ
+
+**8.40.33**
+
+tad apāsya dhanuś chinnaṃ dhṛṣṭadyumno mahāmanāḥ anyad ādatta vegena dhanur bhallāṃś ca ṣoḍaśa
+
+**8.40.34**
+
+tato duryodhanasyāśvān hatvā sūtaṃ ca pañcabhiḥ dhanuś ciccheda bhallena jātarūpapariṣkṛtam
+
+**8.40.35**
+
+rathaṃ sopaskaraṃ chatraṃ śaktiṃ khaḍgaṃ gadāṃ dhvajam bhallaiś ciccheda navabhiḥ putrasya tava pārṣataḥ
+
+**8.40.36**
+
+tapanīyāṅgadaṃ citraṃ nāgaṃ maṇimayaṃ śubham dhvajaṃ kurupateś chinnaṃ dadṛśuḥ sarvapārthivāḥ
+
+**8.40.37**
+
+duryodhanaṃ tu virathaṃ chinnasarvāyudhaṃ raṇe bhrātaraḥ paryarakṣanta sodaryā bharatarṣabha
+
+**8.40.38**
+
+tam āropya rathe rājan daṇḍadhāro janādhipaṃ apovāha ca saṃbhrānto dhṛṣṭadyumnasya paśyataḥ
+
+**8.40.39**
+
+karṇas tu sātyakiṃ jitvā rājagṛddhī mahābalaḥ droṇahantāram ugreṣuṃ sasārābhimukhaṃ raṇe
+
+**8.40.40**
+
+taṃ pṛṣṭhato 'bhyayāt tūrṇaṃ śaineyo vitudañ śaraiḥ vāraṇaṃ jaghanopānte viṣāṇābhyām iva dvipaḥ
+
+**8.40.41**
+
+sa bhārata mahān āsīd yodhānāṃ sumahātmanām karṇapārṣatayor madhye tvadīyānāṃ mahāraṇaḥ
+
+**8.40.42**
+
+na pāṇḍavānāṃ nāsmākaṃ yodhaḥ kaś cit parāṅmukhaḥ pratyadṛśyata yat karṇaḥ pāñcālāṃs tvarito yayau
+
+**8.40.43**
+
+tasmin kṣaṇe naraśreṣṭha gajavājinarakṣayaḥ prādurāsīd ubhayato rājan madhyaṃgate 'hani
+
+**8.40.44**
+
+pāñcālās tu mahārāja tvaritā vijigīṣavaḥ sarvato 'bhyadravan karṇaṃ patatriṇa iva drumam
+
+**8.40.45**
+
+teṣām ādhirathiḥ kruddho yatamānān manasvinaḥ vicinvann eva bāṇāgraiḥ samāsādayad agrataḥ
+
+**8.40.46**
+
+vyāghraketuṃ suśarmāṇaṃ śaṅkuṃ cograṃ dhanaṃjayam śuklaṃ ca rocamānaṃ ca siṃhasenaṃ ca durjayam
+
+**8.40.47**
+
+te vīrā rathavegena parivavrur narottamam sṛjantaṃ sāyakān kruddhaṃ karṇam āhavaśobhinam
+
+**8.40.48**
+
+yudhyamānāṃs tu tāñ śūrān manujendraḥ pratāpavān aṣṭābhir aṣṭau rādheyo nyahanan niśitaiḥ śaraiḥ
+
+**8.40.49**
+
+athāparān mahārāja sūtaputraḥ pratāpavān jaghāna bahusāhasrān yodhān yuddhaviśāradaḥ
+
+**8.40.50**
+
+viṣṇuṃ ca viṣṇukarmāṇaṃ devāpiṃ bhadram eva ca daṇḍaṃ ca samare rājaṃś citraṃ citrāyudhaṃ harim
+
+**8.40.51**
+
+siṃhaketuṃ rocamānaṃ śalabhaṃ ca mahāratham nijaghāna susaṃkruddhaś cedīnāṃ ca mahārathān
+
+**8.40.52**
+
+teṣām ādadataḥ prāṇān āsīd ādhirather vapuḥ śoṇitābhyukṣitāṅgasya rudrasyevorjitaṃ mahat
+
+**8.40.53**
+
+tatra bhārata karṇena mātaṅgās tāḍitāḥ śaraiḥ sarvato 'bhyadravan bhītāḥ kurvanto mahad ākulam
+
+**8.40.54**
+
+nipetur urvyāṃ samare karṇasāyakapīḍitāḥ kurvanto vividhān nādān vajranunnā ivācalāḥ
+
+**8.40.55**
+
+gajavājimanuṣyaiś ca nipatadbhiḥ samantataḥ rathaiś cāvagatair mārge paryastīryata medinī
+
+**8.40.56**
+
+naiva bhīṣmo na ca droṇo nāpy anye yudhi tāvakāḥ cakruḥ sma tādṛśaṃ karma yādṛśaṃ vai kṛtaṃ raṇe
+
+**8.40.57**
+
+sūtaputreṇa nāgeṣu ratheṣu ca hayeṣu ca nareṣu ca naravyāghra kṛtaṃ sma kadanaṃ mahat
+
+**8.40.58**
+
+mṛgamadhye yathā siṃho dṛśyate nirbhayaś caran pāñcālānāṃ tathā madhye karṇo 'carad abhītavat
+
+**8.40.59**
+
+yathā mṛgagaṇāṃs trastān siṃho drāvayate diśaḥ pāñcālānāṃ rathavrātān karṇo drāvayate tathā
+
+**8.40.60**
+
+siṃhāsyaṃ ca yathā prāpya na jīvanti mṛgāḥ kva cit tathā karṇam anuprāpya na jīvanti mahārathāḥ
+
+**8.40.61**
+
+vaiśvānaraṃ yathā dīptaṃ dahyante prāpya vai janāḥ karṇāgninā raṇe tadvad dagdhā bhārata sṛñjayāḥ
+
+**8.40.62**
+
+karṇena cediṣv ekena pāñcāleṣu ca bhārata viśrāvya nāma nihatā bahavaḥ śūrasaṃmatāḥ
+
+**8.40.63**
+
+mama cāsīn manuṣyendra dṛṣṭvā karṇasya vikramam naiko 'py ādhirather jīvan pāñcālyo mokṣyate yudhi
+
+**8.40.64**
+
+pāñcālān vidhaman saṃkhye sūtaputraḥ pratāpavān abhyadhāvata saṃkruddho dharmaputraṃ yudhiṣṭhiram
+
+**8.40.65**
+
+dhṛṣṭadyumnaś ca rājānaṃ draupadeyāś ca māriṣa parivavrur amitraghnaṃ śataśaś cāpare janāḥ
+
+**8.40.66**
+
+śikhaṇḍī sahadevaś ca nakulo nākulis tathā janamejayaḥ śiner naptā bahavaś ca prabhadrakāḥ
+
+**8.40.67**
+
+ete purogamā bhūtvā dhṛṣṭadyumnasya saṃyuge karṇam asyantaṃ iṣvastrair vicerur amitaujasaḥ
+
+**8.40.68**
+
+tāṃs tatrādhirathiḥ saṃkhye cedipāñcālapāṇḍavān eko bahūn abhyapatad garutman pannagān iva
+
+**8.40.69**
+
+bhīmasenas tu saṃkruddhaḥ kurūn madrān sakekayān ekaḥ saṃkhye maheṣvāso yodhayan bahv aśobhata
+
+**8.40.70**
+
+tatra marmasu bhīmena nārācais tāḍitā gajāḥ prapatanto hatārohāḥ kampayanti sma medinīm
+
+**8.40.71**
+
+vājinaś ca hatārohāḥ pattayaś ca gatāsavaḥ śerate yudhi nirbhinnā vamanto rudhiraṃ bahu
+
+**8.40.72**
+
+sahasraśaś ca rathinaḥ patitāḥ patitāyudhāḥ akṣatāḥ samadṛśyanta bhīmād bhītā gatāsavaḥ
+
+**8.40.73**
+
+rathibhir vājibhiḥ sūtaiḥ pattibhiś ca tathā gajaiḥ bhīmasenaśaracchinnair āstīrṇā vasudhābhavat
+
+**8.40.74**
+
+tat stambhitam ivātiṣṭhad bhīmasenabalārditam duryodhanabalaṃ rājan nirutsāhaṃ kṛtavraṇam
+
+**8.40.75**
+
+niśceṣṭaṃ tumule dīnaṃ babhau tasmin mahāraṇe prasannasalilaḥ kāle yathā syāt sāgaro nṛpa
+
+**8.40.76**
+
+manyuvīryabalopetaṃ balāt paryavaropitam abhavat tava putrasya tat sainyam iṣubhis tadā rudhiraughapariklinnaṃ rudhirārdraṃ babhūva ha
+
+**8.40.77**
+
+sūtaputro raṇe kruddhaḥ pāṇḍavānām anīkinīm bhīmasenaḥ kurūṃś cāpi drāvayan bahv aśobhata
+
+**8.40.78**
+
+vartamāne tathā raudre saṃgrāme 'dbhutadarśane nihatya pṛtanāmadhye saṃśaptakagaṇān bahūn
+
+**8.40.79**
+
+arjuno jayatāṃ śreṣṭho vāsudevam athābravīt prabhagnaṃ balam etad dhi yotsyamānaṃ janārdana
+
+**8.40.80**
+
+ete dhāvanti sagaṇāḥ saṃśaptakamahārathāḥ apārayanto madbāṇān siṃhaśabdān mṛgā iva
+
+**8.40.81**
+
+dīryate ca mahat sainyaṃ sṛñjayānāṃ mahāraṇe hastikakṣyo hy asau kṛṣṇa ketuḥ karṇasya dhīmataḥ dṛśyate rājasainyasya madhye vicarato muhuḥ
+
+**8.40.82**
+
+na ca karṇaṃ raṇe śaktā jetum anye mahārathāḥ jānīte hi bhavān karṇaṃ vīryavantaṃ parākrame
+
+**8.40.83**
+
+tatra yāhi yataḥ karṇo drāvayaty eṣa no balam
+
+**8.40.84**
+
+varjayitvā raṇe yāhi sūtaputraṃ mahāratham śramo mā bādhate kṛṣṇa yathā vā tava rocate
+
+**8.40.85**
+
+etac chrutvā mahārāja govindaḥ prahasann iva abravīd arjunaṃ tūrṇaṃ kauravāñ jahi pāṇḍava
+
+**8.40.86**
+
+tatas tava mahat sainyaṃ govindapreritā hayāḥ haṃsavarṇāḥ praviviśur vahantaḥ kṛṣṇapāṇḍavau
+
+**8.40.87**
+
+keśavaprahitair aśvaiḥ śvetaiḥ kāñcanabhūṣaṇaiḥ praviśadbhis tava balaṃ caturdiśam abhidyata
+
+**8.40.88**
+
+tau vidārya mahāsenāṃ praviṣṭau keśavārjunau kruddhau saṃrambharaktākṣau vyabhrājetāṃ mahādyutī
+
+**8.40.89**
+
+yuddhaśauṇḍau samāhūtāv aribhis tau raṇādhvaram yajvabhir vidhināhūtau makhe devāv ivāśvinau
+
+**8.40.90**
+
+kruddhau tau tu naravyāghrau vegavantau babhūvatuḥ talaśabdena ruṣitau yathā nāgau mahāhave
+
+**8.40.91**
+
+vigāhan sa rathānīkam aśvasaṃghāṃś ca phalgunaḥ vyacarat pṛtanāmadhye pāśahasta ivāntakaḥ
+
+**8.40.92**
+
+taṃ dṛṣṭvā yudhi vikrāntaṃ senāyāṃ tava bhārata saṃśaptakagaṇān bhūyaḥ putras te samacodayat
+
+**8.40.93**
+
+tato rathasahasreṇa dviradānāṃ tribhiḥ śataiḥ caturdaśasahasraiś ca turagāṇāṃ mahāhave
+
+**8.40.94**
+
+dvābhyāṃ śatasahasrābhyāṃ padātīnāṃ ca dhanvinām śūrāṇāṃ nāmalabdhānāṃ viditānāṃ samantataḥ abhyavartanta tau vīrau chādayanto mahārathāḥ
+
+**8.40.95**
+
+sa chādyamānaḥ samare śaraiḥ parabalārdanaḥ darśayan raudram ātmānaṃ pāśahasta ivāntakaḥ nighnan saṃśaptakān pārthaḥ prekṣaṇīyataro 'bhavat
+
+**8.40.96**
+
+tato vidyutprabhair bāṇaiḥ kārtasvaravibhūṣitaiḥ nirantaram ivākāśam āsīn nunnaiḥ kirīṭinā
+
+**8.40.97**
+
+kirīṭibhujanirmuktaiḥ saṃpatadbhir mahāśaraiḥ samācchannaṃ babhau sarvaṃ kādraveyair iva prabho
+
+**8.40.98**
+
+rukmapuṅkhān prasannāgrāñ śarān saṃnataparvaṇaḥ adarśayad ameyātmā dikṣu sarvāsu pāṇḍavaḥ
+
+**8.40.99**
+
+hatvā daśa sahasrāṇi pārthivānāṃ mahārathaḥ saṃśaptakānāṃ kaunteyaḥ prapakṣaṃ tvarito 'bhyayāt
+
+**8.40.100**
+
+prapakṣaṃ sa samāsādya pārthaḥ kāmbojarakṣitam pramamātha balād bāṇair dānavān iva vāsavaḥ
+
+**8.40.101**
+
+pracicchedāśu bhallaiś ca dviṣatām ātatāyinām śastrapāṇīṃs tathā bāhūṃs tathāpi ca śirāṃsy uta
+
+**8.40.102**
+
+aṅgāṅgāvayavaiś chinnair vyāyudhās te 'patan kṣitau viṣvagvātābhisaṃbhagnā bahuśākhā iva drumāḥ
+
+**8.40.103**
+
+hastyaśvarathapattīnāṃ vrātān nighnantam arjunam sudakṣiṇād avarajaḥ śaravṛṣṭyābhyavīvṛṣat
+
+**8.40.104**
+
+asyāsyato 'rdhacandrābhyāṃ sa bāhū parighopamau pūrṇacandrābhavaktraṃ ca kṣureṇābhyahanac chiraḥ
+
+**8.40.105**
+
+sa papāta tato vāhāt svalohitaparisravaḥ manaḥśilāgireḥ śṛṅgaṃ vajreṇevāvadāritam
+
+**8.40.106**
+
+sudakṣiṇād avarajaṃ kāmbojaṃ dadṛśur hatam prāṃśuṃ kamalapatrākṣam atyarthaṃ priyadarśanam kāñcanastambhasaṃkāśaṃ bhinnaṃ hemagiriṃ yathā
+
+**8.40.107**
+
+tato 'bhavat punar yuddhaṃ ghoram adbhutadarśanam nānāvasthāś ca yodhānāṃ babhūvus tatra yudhyatām
+
+**8.40.108**
+
+eteṣv āvarjitair aśvaiḥ kāmbojair yavanaiḥ śakaiḥ śoṇitāktais tadā raktaṃ sarvam āsīd viśāṃ pate
+
+**8.40.109**
+
+rathai rathāśvasūtaiś ca hatārohaiś ca vājibhiḥ dviradaiś ca hatārohair mahāmātrair hatadvipaiḥ anyonyena mahārāja kṛto ghoro janakṣayaḥ
+
+**8.40.110**
+
+tasmin prapakṣe pakṣe ca vadhyamāne mahātmanā arjunaṃ jayatāṃ śreṣṭhaṃ tvarito drauṇir āyayau
+
+**8.40.111**
+
+vidhunvāno mahac cāpaṃ kārtasvaravibhūṣitam ādadānaḥ śarān ghorān svaraśmīn iva bhāskaraḥ
+
+**8.40.112**
+
+taiḥ patadbhir mahārāja drauṇimuktaiḥ samantataḥ saṃchāditau rathasthau tāv ubhau kṛṣṇadhanaṃjayau
+
+**8.40.113**
+
+tataḥ śaraśatais tīkṣṇair bhāradvājaḥ pratāpavān niśceṣṭau tāv ubhau cakre yuddhe mādhavapāṇḍavau
+
+**8.40.114**
+
+hāhākṛtam abhūt sarvaṃ jaṅgamaṃ sthāvaraṃ tathā carācarasya goptārau dṛṣṭvā saṃchāditau śaraiḥ
+
+**8.40.115**
+
+siddhacāraṇasaṃghāś ca saṃpetur vai samantataḥ cintayanto bhaved adya lokānāṃ svasty apīty aha
+
+**8.40.116**
+
+na mayā tādṛśo rājan dṛṣṭapūrvaḥ parākramaḥ saṃjajñe yādṛśo drauṇeḥ kṛṣṇau saṃchādayiṣyataḥ
+
+**8.40.117**
+
+drauṇes tu dhanuṣaḥ śabdam ahitatrāsanaṃ raṇe aśrauṣaṃ bahuśo rājan siṃhasya nadato yathā
+
+**8.40.118**
+
+jyā cāsya carato yuddhe savyadakṣiṇam asyataḥ vidyud ambudamadhyasthā bhrājamāneva sābhavat
+
+**8.40.119**
+
+sa tathā kṣiprakārī ca dṛḍhahastaś ca pāṇḍavaḥ saṃmohaṃ paramaṃ gatvā praikṣata droṇajaṃ tataḥ
+
+**8.40.120**
+
+sa vikramaṃ hṛtaṃ mene ātmanaḥ sumahātmanā tathāsya samare rājan vapur āsīt sudurdṛśam
+
+**8.40.121**
+
+drauṇipāṇḍavayor evaṃ vartamāne mahāraṇe vardhamāne ca rājendra droṇaputre mahābale hīyamāne ca kaunteye kṛṣṇaṃ roṣaḥ samabhyayāt
+
+**8.40.122**
+
+sa roṣān niḥśvasan rājan nirdahann iva cakṣuṣā drauṇiṃ hy apaśyat saṃgrāme phalgunaṃ ca muhur muhuḥ
+
+**8.40.123**
+
+tataḥ kruddho 'bravīt kṛṣṇaḥ pārthaṃ sapraṇayaṃ tadā atyadbhutam idaṃ pārtha tava paśyāmi saṃyuge atiśete hi yatra tvā droṇaputro 'dya bhārata
+
+**8.40.124**
+
+kaccit te gāṇḍivaṃ haste rathe tiṣṭhasi cārjuna kaccit kuśalinau bāhū kaccid vīryaṃ tad eva te
+
+**8.40.125**
+
+evam uktas tu kṛṣṇena kṣiptvā bhallāṃś caturdaśa tvaramāṇas tvarākāle drauṇer dhanur athācchinat dhvajaṃ chatraṃ patākāṃ ca rathaṃ śaktiṃ gadāṃ tathā
+
+**8.40.126**
+
+jatrudeśe ca subhṛśaṃ vatsadantair atāḍayat sa mūrcchāṃ paramāṃ gatvā dhvajayaṣṭiṃ samāśritaḥ
+
+**8.40.127**
+
+taṃ visaṃjñaṃ mahārāja kirīṭibhayapīḍitam apovāha raṇāt sūto rakṣamāṇo dhanaṃjayāt
+
+**8.40.128**
+
+etasminn eva kāle tu vijayaḥ śatrutāpanaḥ nyavadhīt tāvakaṃ sainyaṃ śataśo 'tha sahasraśaḥ paśyatas tava putrasya tasya vīrasya bhārata
+
+**8.40.129**
+
+evam eṣa kṣayo vṛttas tāvakānāṃ paraiḥ saha krūro viśasano ghoro rājan durmantrite tava
+
+**8.40.130**
+
+saṃśaptakāṃś ca kaunteyaḥ kurūṃś cāpi vṛkodaraḥ vasuṣeṇaṃ ca pāñcālaḥ kṛtsnena vyadhamad raṇe
+
+**8.41.1**
+
+saṃjaya uvāca tvaramāṇaḥ punaḥ kṛṣṇaḥ pārtham abhyavadac chanaiḥ paśya kauravya rājānam apayātāṃś ca pāṇḍavān
+
+**8.41.2**
+
+karṇaṃ paśya mahāraṅge jvalantam iva pāvakam asau bhīmo maheṣvāsaḥ saṃnivṛtto raṇaṃ prati
+
+**8.41.3**
+
+tam ete 'nu nivartante dhṛṣṭadyumnapurogamāḥ pāñcālānāṃ sṛñjayānāṃ pāṇḍavānāṃ ca yan mukham nivṛttaiś ca tathā pārthair bhagnaṃ śatrubalaṃ mahat
+
+**8.41.4**
+
+kauravān dravato hy eṣa karṇo dhārayate 'rjuna antakapratimo vege śakratulyaparākramaḥ
+
+**8.41.5**
+
+asau gacchati kauravya drauṇir astrabhṛtāṃ varaḥ tam eṣa pradrutaḥ saṃkhye dhṛṣṭadyumno mahārathaḥ
+
+**8.41.6**
+
+sarvaṃ vyācaṣṭa durdharṣo vāsudevaḥ kirīṭine tato rājan prādurāsīn mahāghoro mahāraṇaḥ
+
+**8.41.7**
+
+siṃhanādaravāś cātra prādurāsan samāgame ubhayoḥ senayo rājan mṛtyuṃ kṛtvā nivartanam
+
+**8.42.1**
+
+saṃjaya uvāca tataḥ punaḥ samājagmur abhītāḥ kurusṛñjayāḥ yudhiṣṭhiramukhāḥ pārthā vaikartanamukhā vayam
+
+**8.42.2**
+
+tataḥ pravavṛte bhīmaḥ saṃgrāmo lomaharṣaṇaḥ karṇasya pāṇḍavānāṃ ca yamarāṣṭravivardhanaḥ
+
+**8.42.3**
+
+tasmin pravṛtte saṃgrāme tumule śoṇitodake saṃśaptakeṣu śūreṣu kiṃcicchiṣṭeṣu bhārata
+
+**8.42.4**
+
+dhṛṣṭadyumno mahārāja sahitaḥ sarvarājabhiḥ karṇam evābhidudrāva pāṇḍavāś ca mahārathāḥ
+
+**8.42.5**
+
+āgacchamānāṃs tān saṃkhye prahṛṣṭān vijayaiṣiṇaḥ dadhāraiko raṇe karṇo jalaughān iva parvataḥ
+
+**8.42.6**
+
+tam āsādya tu te karṇaṃ vyaśīryanta mahārathāḥ yathācalaṃ samāsādya jalaughāḥ sarvatodiśam tayor āsīn mahārāja saṃgrāmo lomaharṣaṇaḥ
+
+**8.42.7**
+
+dhṛṣṭadyumnas tu rādheyaṃ śareṇa nataparvaṇā tāḍayām āsa saṃkruddhas tiṣṭha tiṣṭheti cābravīt
+
+**8.42.8**
+
+vijayaṃ tu dhanuḥśreṣṭhaṃ vidhunvāno mahārathaḥ pārṣatasya dhanuś chittvā śarān āśīviṣopamān tāḍayām āsa saṃkruddhaḥ pārṣataṃ navabhiḥ śaraiḥ
+
+**8.42.9**
+
+te varma hemavikṛtaṃ bhittvā tasya mahātmanaḥ śoṇitāktā vyarājanta śakragopā ivānagha
+
+**8.42.10**
+
+tad apāsya dhanuś chinnaṃ dhṛṣṭadyumno mahārathaḥ anyad dhanur upādāya śarāṃś cāśīviṣopamān karṇaṃ vivyādha saptatyā śaraiḥ saṃnataparvabhiḥ
+
+**8.42.11**
+
+tathaiva rājan karṇo 'pi pārṣataṃ śatrutāpanam droṇaśatruṃ maheṣvāso vivyādha niśitaiḥ śaraiḥ
+
+**8.42.12**
+
+tasya karṇo mahārāja śaraṃ kanakabhūṣaṇam preṣayām āsa saṃkruddho mṛtyudaṇḍam ivāparam
+
+**8.42.13**
+
+tam āpatantaṃ sahasā ghorarūpaṃ viśāṃ pate ciccheda saptadhā rājañ śaineyaḥ kṛtahastavat
+
+**8.42.14**
+
+dṛṣṭvā vinihitaṃ bāṇaṃ śaraiḥ karṇo viśāṃ pate sātyakiṃ śaravarṣeṇa samantāt paryavārayat
+
+**8.42.15**
+
+vivyādha cainaṃ samare nārācais tatra saptabhiḥ taṃ pratyavidhyac chaineyaḥ śarair hemavibhūṣitaiḥ
+
+**8.42.16**
+
+tato yuddham atīvāsīc cakṣuḥśrotrabhayāvaham rājan ghoraṃ ca citraṃ ca prekṣaṇīyaṃ samantataḥ
+
+**8.42.17**
+
+sarveṣāṃ tatra bhūtānāṃ lomaharṣo vyajāyata tad dṛṣṭvā samare karma karṇaśaineyayor nṛpa
+
+**8.42.18**
+
+etasminn antare drauṇir abhyayāt sumahābalam pārṣataṃ śatrudamanaṃ śatruvīryāsunāśanam
+
+**8.42.19**
+
+abhyabhāṣata saṃkruddho drauṇir dūre dhanaṃjaye tiṣṭha tiṣṭhādya brahmaghna na me jīvan vimokṣyase
+
+**8.42.20**
+
+ity uktvā subhṛśaṃ vīraḥ śīghrakṛn niśitaiḥ śaraiḥ pārṣataṃ chādayām āsa ghorarūpaiḥ sutejanaiḥ yatamānaṃ paraṃ śaktyā yatamāno mahārathaḥ
+
+**8.42.21**
+
+yathā hi samare drauṇiḥ pārṣataṃ vīkṣya māriṣa tathā drauṇiṃ raṇe dṛṣṭvā pārṣataḥ paravīrahā nātihṛṣṭamanā bhūtvā manyate mṛtyum ātmanaḥ
+
+**8.42.22**
+
+drauṇis tu dṛṣṭvā rājendra dhṛṣṭadyumnaṃ raṇe sthitam krodhena niḥśvasan vīraḥ pārṣataṃ samupādravat tāv anyonyaṃ tu dṛṣṭvaiva saṃrambhaṃ jagmatuḥ param
+
+**8.42.23**
+
+athābravīn mahārāja droṇaputraḥ pratāpavān dhṛṣṭadyumnaṃ samīpasthaṃ tvaramāṇo viśāṃ pate pāñcālāpasadādya tvāṃ preṣayiṣyāmi mṛtyave
+
+**8.42.24**
+
+pāpaṃ hi yat tvayā karma ghnatā droṇaṃ purā kṛtam adya tvā patsyate tad vai yathā hy akuśalaṃ tathā
+
+**8.42.25**
+
+arakṣyamāṇaḥ pārthena yadi tiṣṭhasi saṃyuge nāpakramasi vā mūḍha satyam etad bravīmi te
+
+**8.42.26**
+
+evam uktaḥ pratyuvāca dhṛṣṭadyumnaḥ pratāpavān prativākyaṃ sa evāsir māmako dāsyate tava yenaiva te pitur dattaṃ yatamānasya saṃyuge
+
+**8.42.27**
+
+yadi tāvan mayā droṇo nihato brāhmaṇabruvaḥ tvām idānīṃ kathaṃ yuddhe na haniṣyāmi vikramāt
+
+**8.42.28**
+
+evam uktvā mahārāja senāpatir amarṣaṇaḥ niśitenātha bāṇena drauṇiṃ vivyādha pārṣataḥ
+
+**8.42.29**
+
+tato drauṇiḥ susaṃkruddhaḥ śaraiḥ saṃnataparvabhiḥ prācchādayad diśo rājan dhṛṣṭadyumnasya saṃyuge
+
+**8.42.30**
+
+naivāntarikṣaṃ na diśo naiva yodhāḥ samantataḥ dṛśyante vai mahārāja śaraiś channāḥ sahasraśaḥ
+
+**8.42.31**
+
+tathaiva pārṣato rājan drauṇim āhavaśobhinam śaraiḥ saṃchādayām āsa sūtaputrasya paśyataḥ
+
+**8.42.32**
+
+rādheyo 'pi mahārāja pāñcālān saha pāṇḍavaiḥ draupadeyān yudhāmanyuṃ sātyakiṃ ca mahāratham ekaḥ sa vārayām āsa prekṣaṇīyaḥ samantataḥ
+
+**8.42.33**
+
+dhṛṣṭadyumno 'pi samare drauṇeś ciccheda kārmukam tad apāsya dhanuś chinnam anyad ādatta kārmukam vegavat samare ghoraṃ śarāṃś cāśīviṣopamān
+
+**8.42.34**
+
+sa pārṣatasya rājendra dhanuḥ śaktiṃ gadāṃ dhvajam hayān sūtaṃ rathaṃ caiva nimeṣād vyadhamac charaiḥ
+
+**8.42.35**
+
+sa chinnadhanvā viratho hatāśvo hatasārathiḥ khaḍgam ādatta vipulaṃ śatacandraṃ ca bhānumat
+
+**8.42.36**
+
+drauṇis tad api rājendra bhallaiḥ kṣipraṃ mahārathaḥ ciccheda samare vīraḥ kṣiprahasto dṛḍhāyudhaḥ rathād anavarūḍhasya tad adbhutam ivābhavat
+
+**8.42.37**
+
+dhṛṣṭadyumnaṃ tu virathaṃ hatāśvaṃ chinnakārmukam śaraiś ca bahudhā viddham astraiś ca śakalīkṛtam nātarad bharataśreṣṭha yatamāno mahārathaḥ
+
+**8.42.38**
+
+tasyāntam iṣubhī rājan yadā drauṇir na jagmivān atha tyaktvā dhanur vīraḥ pārṣataṃ tvarito 'nvagāt
+
+**8.42.39**
+
+āsīd ādravato rājan vegas tasya mahātmanaḥ garuḍasyeva patato jighṛkṣoḥ pannagottamam
+
+**8.42.40**
+
+etasminn eva kāle tu mādhavo 'rjunam abravīt paśya pārtha yathā drauṇiḥ pārṣatasya vadhaṃ prati yatnaṃ karoti vipulaṃ hanyāc cainam asaṃśayam
+
+**8.42.41**
+
+taṃ mocaya mahābāho pārṣataṃ śatrutāpanam drauṇer āsyam anuprāptaṃ mṛtyor āsyagataṃ yathā
+
+**8.42.42**
+
+evam uktvā mahārāja vāsudevaḥ pratāpavān praiṣayat tatra turagān yatra drauṇir vyavasthitaḥ
+
+**8.42.43**
+
+te hayāś candrasaṃkāśāḥ keśavena pracoditāḥ pibanta iva tad vyoma jagmur drauṇirathaṃ prati
+
+**8.42.44**
+
+dṛṣṭvāyāntau mahāvīryāv ubhau kṛṣṇadhanaṃjayau dhṛṣṭadyumnavadhe rājaṃś cakre yatnaṃ mahābalaḥ
+
+**8.42.45**
+
+vikṛṣyamāṇaṃ dṛṣṭvaiva dhṛṣṭadyumnaṃ janeśvara śarāṃś cikṣepa vai pārtho drauṇiṃ prati mahābalaḥ
+
+**8.42.46**
+
+te śarā hemavikṛtā gāṇḍīvapreṣitā bhṛśam drauṇim āsādya viviśur valmīkam iva pannagāḥ
+
+**8.42.47**
+
+sa vidhvastaiḥ śarair ghorair droṇaputraḥ pratāpavān ratham āruruhe vīro dhanaṃjayaśarārditaḥ pragṛhya ca dhanuḥ śreṣṭhaṃ pārthaṃ vivyādha sāyakaiḥ
+
+**8.42.48**
+
+etasminn antare vīraḥ sahadevo janādhipa apovāha rathenājau pārṣataṃ śatrutāpanam
+
+**8.42.49**
+
+arjuno 'pi mahārāja drauṇiṃ vivyādha patribhiḥ taṃ droṇaputraḥ saṃkruddho bāhvor urasi cārdayat
+
+**8.42.50**
+
+krodhitas tu raṇe pārtho nārācaṃ kālasaṃmitam droṇaputrāya cikṣepa kāladaṇḍam ivāparam sa brāhmaṇasyāṃsadeśe nipapāta mahādyutiḥ
+
+**8.42.51**
+
+sa vihvalo mahārāja śaravegena saṃyuge niṣasāda rathopasthe vaiklavyaṃ ca paraṃ yayau
+
+**8.42.52**
+
+tataḥ karṇo mahārāja vyākṣipad vijayaṃ dhanuḥ arjunaṃ samare kruddhaḥ prekṣamāṇo muhur muhuḥ dvairathaṃ cāpi pārthena kāmayāno mahāraṇe
+
+**8.42.53**
+
+taṃ tu hitvā hataṃ vīraṃ sārathiḥ śatrukarśanam apovāha rathenājau tvaramāṇo raṇājirāt
+
+**8.42.54**
+
+athotkruṣṭaṃ mahārāja pāñcālair jitakāśibhiḥ mokṣitaṃ pārṣataṃ dṛṣṭvā droṇaputraṃ ca pīḍitam
+
+**8.42.55**
+
+vāditrāṇi ca divyāni prāvādyanta sahasraśaḥ siṃhanādaś ca saṃjajñe dṛṣṭvā ghoraṃ mahādbhutam
+
+**8.42.56**
+
+evaṃ kṛtvābravīt pārtho vāsudevaṃ dhanaṃjayaḥ yāhi saṃśaptakān kṛṣṇa kāryam etat paraṃ mama
+
+**8.42.57**
+
+tataḥ prayāto dāśārhaḥ śrutvā pāṇḍavabhāṣitam rathenātipatākena manomārutaraṃhasā
+
+**8.43.1**
+
+saṃjaya uvāca etasminn antare kṛṣṇaḥ pārthaṃ vacanam abravīt darśayann iva kaunteyaṃ dharmarājaṃ yudhiṣṭhiram
+
+**8.43.2**
+
+eṣa pāṇḍava te bhrātā dhārtarāṣṭrair mahābalaiḥ jighāṃsubhir maheṣvāsair drutaṃ pārthānusaryate
+
+**8.43.3**
+
+tathānuyānti saṃrabdhāḥ pāñcālā yuddhadurmadāḥ yudhiṣṭhiraṃ mahātmānaṃ parīpsanto mahājavāḥ
+
+**8.43.4**
+
+eṣa duryodhanaḥ pārtha rathānīkena daṃśitaḥ rājā sarvasya lokasya rājānam anudhāvati
+
+**8.43.5**
+
+jighāṃsuḥ puruṣavyāghraṃ bhrātṛbhiḥ sahito balī āśīviṣasamasparśaiḥ sarvayuddhaviśāradaiḥ
+
+**8.43.6**
+
+ete jighṛkṣavo yānti dvipāśvarathapattayaḥ yudhiṣṭhiraṃ dhārtarāṣṭrā ratnottamam ivārthinaḥ
+
+**8.43.7**
+
+paśya sātvatabhīmābhyāṃ niruddhādhiṣṭhitaḥ prabhuḥ jihīrṣavo 'mṛtaṃ daityāḥ śakrāgnibhyām ivāvaśāḥ
+
+**8.43.8**
+
+ete bahutvāt tvaritāḥ punar gacchanti pāṇḍavam samudram iva vāryoghāḥ prāvṛṭkāle mahārathāḥ
+
+**8.43.9**
+
+nadantaḥ siṃhanādāṃś ca dhamantaś cāpi vārijān balavanto maheṣvāsā vidhunvanto dhanūṃṣi ca
+
+**8.43.10**
+
+mṛtyor mukhagataṃ manye kuntīputraṃ yudhiṣṭhiram hutam agnau ca bhadraṃ te duryodhanavaśaṃ gatam
+
+**8.43.11**
+
+yathāyuktam anīkaṃ hi dhārtarāṣṭrasya pāṇḍava nāsya śakro 'pi mucyeta saṃprāpto bāṇagocaram
+
+**8.43.12**
+
+duryodhanasya śūrasya drauṇeḥ śāradvatasya ca karṇasya ceṣuvego vai parvatān api dārayet
+
+**8.43.13**
+
+duryodhanasya śūrasya śaraughāñ śīghram asyataḥ saṃkruddhasyāntakasyeva ko vegaṃ saṃsahed raṇe
+
+**8.43.14**
+
+karṇena ca kṛto rājā vimukhaḥ śatrutāpanaḥ balavāṃl laghuhastaś ca kṛtī yuddhaviśāradaḥ
+
+**8.43.15**
+
+rādheyaḥ pāṇḍavaśreṣṭhaṃ śaktaḥ pīḍayituṃ raṇe sahito dhṛtarāṣṭrasya putraiḥ śūro mahātmabhiḥ
+
+**8.43.16**
+
+tasyaivaṃ yudhyamānasya saṃgrāme saṃyatātmanaḥ anyair api ca pārthasya hṛtaṃ varma mahārathaiḥ
+
+**8.43.17**
+
+upavāsakṛśo rājā bhṛśaṃ bharatasattama brāhme bale sthito hy eṣa na kṣatre 'tibale vibho
+
+**8.43.18**
+
+na jīvati mahārājo manye pārtha yudhiṣṭhiraḥ yad bhīmasenaḥ sahate siṃhanādam amarṣaṇaḥ
+
+**8.43.19**
+
+nardatāṃ dhārtarāṣṭrāṇāṃ punaḥ punar ariṃdama dhamatāṃ ca mahāśaṅkhān saṃgrāme jitakāśinām
+
+**8.43.20**
+
+yudhiṣṭhiraṃ pāṇḍaveyaṃ hateti bharatarṣabha saṃcodayaty asau karṇo dhārtarāṣṭrān mahābalān
+
+**8.43.21**
+
+sthūṇākarṇendrajālena pārtha pāśupatena ca pracchādayanto rājānam anuyānti mahārathāḥ āturo me mato rājā saṃniṣevyaś ca bhārata
+
+**8.43.22**
+
+yathainam anuvartante pāñcālāḥ saha pāṇḍavaiḥ tvaramāṇās tvarākāle sarvaśastrabhṛtāṃ varāḥ majjantam iva pātāle balino 'py ujjihīrṣavaḥ
+
+**8.43.23**
+
+na ketur dṛśyate rājñaḥ karṇena nihataḥ śaraiḥ paśyator yamayoḥ pārtha sātyakeś ca śikhaṇḍinaḥ
+
+**8.43.24**
+
+dhṛṣṭadyumnasya bhīmasya śatānīkasya vā vibho pāñcālānāṃ ca sarveṣāṃ cedīnāṃ caiva bhārata
+
+**8.43.25**
+
+eṣa karṇo raṇe pārtha pāṇḍavānām anīkinīm śarair vidhvaṃsayati vai nalinīm iva kuñjaraḥ
+
+**8.43.26**
+
+ete dravanti rathinas tvadīyāḥ pāṇḍunandana paśya paśya yathā pārtha gacchanty ete mahārathāḥ
+
+**8.43.27**
+
+ete bhārata mātaṅgāḥ karṇenābhihatā raṇe ārtanādān vikurvāṇā vidravanti diśo daśa
+
+**8.43.28**
+
+rathānāṃ dravatāṃ vṛndaṃ paśya pārtha samantataḥ drāvyamāṇaṃ raṇe caiva karṇenāmitrakarśinā
+
+**8.43.29**
+
+hastikakṣyāṃ raṇe paśya carantīṃ tatra tatra ha rathasthaṃ sūtaputrasya ketuṃ ketumatāṃ vara
+
+**8.43.30**
+
+asau dhāvati rādheyo bhīmasenarathaṃ prati kirañ śaraśatānīva vinighnaṃs tava vāhinīm
+
+**8.43.31**
+
+etān paśya ca pāñcālān drāvyamāṇān mahātmanā śakreṇeva yathā daityān hanyamānān mahāhave
+
+**8.43.32**
+
+eṣa karṇo raṇe jitvā pāñcālān pāṇḍusṛñjayān diśo viprekṣate sarvās tvadartham iti me matiḥ
+
+**8.43.33**
+
+paśya pārtha dhanuḥ śreṣṭhaṃ vikarṣan sādhu śobhate śatrūñ jitvā yathā śakro devasaṃghaiḥ samāvṛtaḥ
+
+**8.43.34**
+
+ete nadanti kauravyā dṛṣṭvā karṇasya vikramam trāsayanto raṇe pārthān sṛñjayāṃś ca sahasraśaḥ
+
+**8.43.35**
+
+eṣa sarvātmanā pāṇḍūṃs trāsayitvā mahāraṇe abhibhāṣati rādheyaḥ sarvasainyāni mānadaḥ
+
+**8.43.36**
+
+abhidravata gacchadhvaṃ drutaṃ dravata kauravāḥ yathā jīvan na vaḥ kaś cin mucyate yudhi sṛñjayaḥ
+
+**8.43.37**
+
+tathā kuruta saṃyattā vayaṃ yāsyāma pṛṣṭhataḥ evam uktvā yayāv eṣa pṛṣṭhato vikirañ śaraiḥ
+
+**8.43.38**
+
+paśya karṇaṃ raṇe pārtha śvetacchavivirājitam udayaṃ parvataṃ yadvac chobhayan vai divākaraḥ
+
+**8.43.39**
+
+pūrṇacandranikāśena mūrdhni chatreṇa bhārata dhriyamāṇena samare tathā śataśalākinā
+
+**8.43.40**
+
+eṣa tvāṃ prekṣate karṇaḥ sakaṭākṣo viśāṃ pate uttamaṃ yatnam āsthāya dhruvam eṣyati saṃyuge
+
+**8.43.41**
+
+paśya hy enaṃ mahābāho vidhunvānaṃ mahad dhanuḥ śarāṃś cāśīviṣākārān visṛjantaṃ mahābalam
+
+**8.43.42**
+
+asau nivṛtto rādheyo dṛśyate vānaradhvaja vadhāya cātmano 'bhyeti dīpasya śalabho yathā
+
+**8.43.43**
+
+karṇam ekākinaṃ dṛṣṭvā rathānīkena bhārata rirakṣiṣuḥ susaṃyatto dhārtarāṣṭro 'bhivartate
+
+**8.43.44**
+
+sārvaiḥ sahaibhir duṣṭātmā vadhya eṣa prayatnataḥ tvayā yaśaś ca rājyaṃ ca sukhaṃ cottamam icchatā
+
+**8.43.45**
+
+ātmānaṃ ca kṛtātmānaṃ samīkṣya bharatarṣabha kṛtāgasaṃ ca rādheyaṃ dharmātmani yudhiṣṭhire
+
+**8.43.46**
+
+pratipadyasva rādheyaṃ prāptakālam anantaram āryāṃ yuddhe matiṃ kṛtvā pratyehi rathayūthapam
+
+**8.43.47**
+
+pañca hy etāni mukhyānāṃ rathānāṃ rathasattama śatāny āyānti vegena balināṃ bhīmatejasām
+
+**8.43.48**
+
+pañca nāgasahasrāṇi dviguṇā vājinas tathā abhisaṃhatya kaunteya padātiprayutāni ca anyonyarakṣitaṃ vīra balaṃ tvām abhivartate
+
+**8.43.49**
+
+sūtaputre maheṣvāse darśayātmānam ātmanā uttamaṃ yatnam āsthāya pratyehi bharatarṣabha
+
+**8.43.50**
+
+asau karṇaḥ susaṃrabdhaḥ pāñcālān abhidhāvati ketum asya hi paśyāmi dhṛṣṭadyumnarathaṃ prati samucchetsyati pāñcālān iti manye paraṃtapa
+
+**8.43.51**
+
+ācakṣe te priyaṃ pārtha tad evaṃ bharatarṣabha rājā jīvati kauravyo dharmaputro yudhiṣṭhiraḥ
+
+**8.43.52**
+
+asau bhimo mahābāhuḥ saṃnivṛttaś camūmukhe vṛtaḥ sṛñjayasainyena sātyakena ca bhārata
+
+**8.43.53**
+
+vadhyanta ete samare kauravā niśitaiḥ śaraiḥ bhīmasenena kaunteya pāñcālaiś ca mahātmabhiḥ
+
+**8.43.54**
+
+senā hi dhārtarāṣṭrasya vimukhā cābhavad raṇāt vipradhāvati vegena bhīmasya nihatā śaraiḥ
+
+**8.43.55**
+
+vipannasasyeva mahī rudhireṇa samukṣitā bhāratī bharataśreṣṭha senā kṛpaṇadarśanā
+
+**8.43.56**
+
+nivṛttaṃ paśya kaunteya bhīmasenaṃ yudhāṃ patim āśīviṣam iva kruddhaṃ tasmād dravati vāhinī
+
+**8.43.57**
+
+pītaraktāsitasitās tārācandrārkamaṇḍitāḥ patākā viprakīryante chatrāṇy etāni cārjuna
+
+**8.43.58**
+
+sauvarṇā rājatāś caiva taijasāś ca pṛthagvidhāḥ ketavo vinipātyante hastyaśvaṃ viprakīryate
+
+**8.43.59**
+
+rathebhyaḥ prapatanty ete rathino vigatāsavaḥ nānāvarṇair hatā bāṇaiḥ pāñcālair apalāyibhiḥ
+
+**8.43.60**
+
+nirmanuṣyān gajān aśvān rathāṃś caiva dhanaṃjaya samādravanti pāñcālā dhārtarāṣṭrāṃs tarasvinaḥ
+
+**8.43.61**
+
+mṛdnanti ca naravyāghrā bhīmasenavyapāśrayāt balaṃ pareṣāṃ durdharṣaṃ tyaktvā prāṇān ariṃdama
+
+**8.43.62**
+
+ete nadanti pāñcālā dhamanty api ca vārijān abhidravanti ca raṇe nighnantaḥ sāyakaiḥ parān
+
+**8.43.63**
+
+paśya svargasya māhātmyaṃ pāñcālā hi paraṃtapa dhārtarāṣṭrān vinighnanti kruddhāḥ siṃhā iva dvipān
+
+**8.43.64**
+
+sarvataś cābhipannaiṣā dhārtarāṣṭrī mahācamūḥ pāñcālair mānasād etya haṃsair gaṅgeva vegitaiḥ
+
+**8.43.65**
+
+subhṛśaṃ ca parākrāntāḥ pāñcālānāṃ nivāraṇe kṛpakarṇādayo vīrā ṛṣabhāṇām ivarṣabhāḥ
+
+**8.43.66**
+
+sunimagnāṃś ca bhīmāstrair dhārtarāṣṭrān mahārathān dhṛṣṭadyumnamukhā vīrā ghnanti śatrūn sahasraśaḥ viṣaṇṇabhūyiṣṭharathā dhārtarāṣṭrī mahācamūḥ
+
+**8.43.67**
+
+paśya bhīmena nārācaiś chinnā nāgāḥ patanty amī vajrivajrāhatānīva śikharāṇi mahībhṛtām
+
+**8.43.68**
+
+bhīmasenasya nirviddhā bāṇaiḥ saṃnataparvabhiḥ svāny anīkāni mṛdnanto dravanty ete mahāgajāḥ
+
+**8.43.69**
+
+nābhijānāsi bhīmasya siṃhanādaṃ durutsaham nadato 'rjuna saṃgrāme vīrasya jitakāśinaḥ
+
+**8.43.70**
+
+eṣa naiṣādir abhyeti dvipamukhyena pāṇḍavam jighāṃsus tomaraiḥ kruddho daṇḍapāṇir ivāntakaḥ
+
+**8.43.71**
+
+satomarāv asya bhujau chinnau bhīmena garjataḥ tīkṣṇair agniśikhāprakhyair nārācair daśabhir hataḥ
+
+**8.43.72**
+
+hatvainaṃ punar āyāti nāgān anyān prahāriṇaḥ paśya nīlāmbudanibhān mahāmātrair adhiṣṭhitān śaktitomarasaṃkāśair vinighnantaṃ vṛkodaram
+
+**8.43.73**
+
+sapta sapta ca nāgāṃs tān vaijayantīś ca sadhvajāḥ nihatya niśitair bāṇaiś chinnāḥ pārthāgrajena te daśabhir daśabhiś caiko nārācair nihato gajaḥ
+
+**8.43.74**
+
+na cāsau dhārtarāṣṭrāṇāṃ śrūyate ninadas tathā puraṃdarasame kruddhe nivṛtte bharatarṣabhe
+
+**8.43.75**
+
+akṣauhiṇyas tathā tisro dhārtarāṣṭrasya saṃhatāḥ kruddhena narasiṃhena bhīmasenena vāritāḥ
+
+**8.43.76**
+
+saṃjaya uvāca bhīmasenena tat karma kṛtaṃ dṛṣṭvā suduṣkaram arjuno vyadhamac chiṣṭān ahitān niśitaiḥ śaraiḥ
+
+**8.43.77**
+
+te vadhyamānāḥ samare saṃśaptakagaṇāḥ prabho śakrasyātithitāṃ gatvā viśokā hy abhavan mudā
+
+**8.43.78**
+
+pārthaś ca puruṣavyāghraḥ śaraiḥ saṃnataparvabhiḥ jaghāna dhārtarāṣṭrasya caturvidhabalāṃ camūm
+
+**8.44.1**
+
+dhṛtarāṣṭra uvāca nivṛtte bhīmasene ca pāṇḍave ca yudhiṣṭhire vadhyamāne bale cāpi māmake pāṇḍusṛñjayaiḥ
+
+**8.44.2**
+
+dravamāṇe balaughe ca nirākrande muhur muhuḥ kim akurvanta kuravas tan mamācakṣva saṃjaya
+
+**8.44.3**
+
+saṃjaya uvāca dṛṣṭvā bhīmaṃ mahābāhuṃ sūtaputraḥ pratāpavān krodharaktekṣaṇo rājan bhīmasenam upādravat
+
+**8.44.4**
+
+tāvakaṃ ca balaṃ dṛṣṭvā bhīmasenāt parāṅmukham yatnena mahatā rājan paryavasthāpayad balī
+
+**8.44.5**
+
+vyavasthāpya mahābāhus tava putrasya vāhinīm pratyudyayau tadā karṇaḥ pāṇḍavān yuddhadurmadān
+
+**8.44.6**
+
+pratyudyayus tu rādheyaṃ pāṇḍavānāṃ mahārathāḥ dhunvānāḥ kārmukāṇy ājau vikṣipantaś ca sāyakān
+
+**8.44.7**
+
+bhīmasenaḥ śiner naptā śikhaṇḍī janamejayaḥ dhṛṣṭadyumnaś ca balavān sarve cāpi prabhadrakāḥ
+
+**8.44.8**
+
+pāñcālāś ca naravyāghrāḥ samantāt tava vāhinīm abhyadravanta saṃkruddhāḥ samare jitakāśinaḥ
+
+**8.44.9**
+
+tathaiva tāvakā rājan pāṇḍavānām anīkinīm abhyadravanta tvaritā jighāṃsanto mahārathāḥ
+
+**8.44.10**
+
+rathanāgāśvakalilaṃ pattidhvajasamākulam babhūva puruṣavyāghra sainyam adbhutadarśanam
+
+**8.44.11**
+
+śikhaṇḍī ca yayau karṇaṃ dhṛṣṭadyumnaḥ sutaṃ tava duḥśāsanaṃ mahārāja mahatyā senayā vṛtam
+
+**8.44.12**
+
+nakulo vṛṣasenaṃ ca citrasenaṃ yudhiṣṭhiraḥ ulūkaṃ samare rājan sahadevaḥ samabhyayāt
+
+**8.44.13**
+
+sātyakiḥ śakuniṃ cāpi bhīmasenaś ca kauravān arjunaṃ ca raṇe yattaṃ droṇaputro mahārathaḥ
+
+**8.44.14**
+
+yudhāmanyuṃ maheṣvāsaṃ gautamo 'bhyapatad raṇe kṛtavarmā ca balavān uttamaujasam ādravat
+
+**8.44.15**
+
+bhīmasenaḥ kurūn sarvān putrāṃś ca tava māriṣa sahānīkān mahābāhur eka evābhyavārayat
+
+**8.44.16**
+
+śikhaṇḍī ca tataḥ karṇaṃ vicarantam abhītavat bhīṣmahantā mahārāja vārayām āsa patribhiḥ
+
+**8.44.17**
+
+pratirabdhas tataḥ karṇo roṣāt prasphuritādharaḥ śikhaṇḍinaṃ tribhir bāṇair bhruvor madhye vyatāḍayat
+
+**8.44.18**
+
+dhārayaṃs tu sa tān bāṇāñ śikhaṇḍī bahv aśobhata rājataḥ parvato yadvat tribhiḥ śṛṅgaiḥ samanvitaḥ
+
+**8.44.19**
+
+so 'tividdho maheṣvāsaḥ sūtaputreṇa saṃyuge karṇaṃ vivyādha samare navatyā niśitaiḥ śaraiḥ
+
+**8.44.20**
+
+tasya karṇo hayān hatvā sārathiṃ ca tribhiḥ śaraiḥ unmamātha dhvajaṃ cāsya kṣurapreṇa mahārathaḥ
+
+**8.44.21**
+
+hatāśvāt tu tato yānād avaplutya mahārathaḥ śaktiṃ cikṣepa karṇāya saṃkruddhaḥ śatrutāpanaḥ
+
+**8.44.22**
+
+tāṃ chittvā samare karṇas tribhir bhārata sāyakaiḥ śikhaṇḍinam athāvidhyan navabhir niśitaiḥ śaraiḥ
+
+**8.44.23**
+
+karṇacāpacyutān bāṇān varjayaṃs tu narottamaḥ apayātas tatas tūrṇaṃ śikhaṇḍī jayatāṃ varaḥ
+
+**8.44.24**
+
+tataḥ karṇo mahārāja pāṇḍusainyāny aśātayat tūlarāśiṃ samāsādya yathā vāyur mahājavaḥ
+
+**8.44.25**
+
+dhṛṣṭadyumno mahārāja tava putreṇa pīḍitaḥ duḥśāsanaṃ tribhir bāṇair abhyavidhyat stanāntare
+
+**8.44.26**
+
+tasya duḥśāsano bāhuṃ savyaṃ vivyādha māriṣa śitena rukmapuṅkhena bhallena nataparvaṇā
+
+**8.44.27**
+
+dhṛṣṭadyumnas tu nirviddhaḥ śaraṃ ghoram amarṣaṇaḥ duḥśāsanāya saṃkruddhaḥ preṣayām āsa bhārata
+
+**8.44.28**
+
+āpatantaṃ mahāvegaṃ dhṛṣṭadyumnasamīritam śaraiś ciccheda putras te tribhir eva viśāṃ pate
+
+**8.44.29**
+
+athāparaiḥ saptadaśair bhallaiḥ kanakabhūṣaṇaiḥ dhṛṣṭadyumnaṃ samāsādya bāhvor urasi cārdayat
+
+**8.44.30**
+
+tataḥ sa pārṣataḥ kruddho dhanuś ciccheda māriṣa kṣurapreṇa sutīkṣṇena tata uccukruśur janāḥ
+
+**8.44.31**
+
+athānyad dhanur ādāya putras te bharatarṣabha dhṛṣṭadyumnaṃ śaravrātaiḥ samantāt paryavārayat
+
+**8.44.32**
+
+tava putrasya te dṛṣṭvā vikramaṃ taṃ mahātmanaḥ vyahasanta raṇe yodhāḥ siddhāś cāpsarasāṃ gaṇāḥ
+
+**8.44.33**
+
+tataḥ pravavṛte yuddhaṃ tāvakānāṃ paraiḥ saha ghoraṃ prāṇabhṛtāṃ kāle ghorarūpaṃ paraṃtapa
+
+**8.44.34**
+
+nakulaṃ vṛṣasenas tu viddhvā pañcabhir āyasaiḥ pituḥ samīpe tiṣṭhantaṃ tribhir anyair avidhyata
+
+**8.44.35**
+
+nakulas tu tataḥ kruddho vṛṣasenaṃ smayann iva nārācena sutīkṣṇena vivyādha hṛdaye dṛḍham
+
+**8.44.36**
+
+so 'tividdho balavatā śatruṇā śatrukarśanaḥ śatruṃ vivyādha viṃśatyā sa ca taṃ pañcabhiḥ śaraiḥ
+
+**8.44.37**
+
+tataḥ śarasahasreṇa tāv ubhau puruṣarṣabhau anyonyam ācchādayatām athābhajyata vāhinī
+
+**8.44.38**
+
+dṛṣṭvā tu pradrutāṃ senāṃ dhārtarāṣṭrasya sūtajaḥ nivārayām āsa balād anupatya viśāṃ pate nivṛtte tu tataḥ karṇe nakulaḥ kauravān yayau
+
+**8.44.39**
+
+karṇaputras tu samare hitvā nakulam eva tu jugopa cakraṃ tvaritaṃ rādheyasyaiva māriṣa
+
+**8.44.40**
+
+ulūkas tu raṇe kruddhaḥ sahadevena vāritaḥ tasyāśvāṃś caturo hatvā sahadevaḥ pratāpavān sārathiṃ preṣayām āsa yamasya sadanaṃ prati
+
+**8.44.41**
+
+ulūkas tu tato yānād avaplutya viśāṃ pate trigartānāṃ balaṃ pūrṇaṃ jagāma pitṛnandanaḥ
+
+**8.44.42**
+
+sātyakiḥ śakuniṃ viddhvā viṃśatyā niśitaiḥ śaraiḥ dhvajaṃ ciccheda bhallena saubalasya hasann iva
+
+**8.44.43**
+
+saubalas tasya samare kruddho rājan pratāpavān vidārya kavacaṃ bhūyo dhvajaṃ ciccheda kāñcanam
+
+**8.44.44**
+
+athainaṃ niśitair bāṇaiḥ sātyakiḥ pratyavidhyata sārathiṃ ca mahārāja tribhir eva samārdayat athāsya vāhāṃs tvaritaḥ śarair ninye yamakṣayam
+
+**8.44.45**
+
+tato 'vaplutya sahasā śakunir bharatarṣabha āruroha rathaṃ tūrṇam ulūkasya mahārathaḥ apovāhātha śīghraṃ sa śaineyād yuddhaśālinaḥ
+
+**8.44.46**
+
+sātyakis tu raṇe rājaṃs tāvakānām anīkinīm abhidudrāva vegena tato 'nīkam abhidyata
+
+**8.44.47**
+
+śaineyaśaranunnaṃ tu tataḥ sainyaṃ viśāṃ pate bheje daśa diśas tūrṇaṃ nyapatac ca gatāsuvat
+
+**8.44.48**
+
+bhīmasenaṃ tava suto vārayām āsa saṃyuge taṃ tu bhīmo muhūrtena vyaśvasūtarathadhvajam cakre lokeśvaraṃ tatra tenātuṣyanta cāraṇāḥ
+
+**8.44.49**
+
+tato 'pāyān nṛpas tatra bhīmasenasya gocarāt kurusainyaṃ tataḥ sarvaṃ bhīmasenam upādravat tatra rāvo mahān āsīd bhīmam ekaṃ jighāṃsatām
+
+**8.44.50**
+
+yudhāmanyuḥ kṛpaṃ viddhvā dhanur asyāśu cicchide athānyad dhanur ādāya kṛpaḥ śastrabhṛtāṃ varaḥ
+
+**8.44.51**
+
+yudhāmanyor dhvajaṃ sūtaṃ chatraṃ cāpātayat kṣitau tato 'pāyād rathenaiva yudhāmanyur mahārathaḥ
+
+**8.44.52**
+
+uttamaujās tu hārdikyaṃ śarair bhīmaparākramam chādayām āsa sahasā megho vṛṣṭyā yathācalam
+
+**8.44.53**
+
+tad yuddhaṃ sumahac cāsīd ghorarūpaṃ paraṃtapa yādṛśaṃ na mayā yuddhaṃ dṛṣṭapūrvaṃ viśāṃ pate
+
+**8.44.54**
+
+kṛtavarmā tato rājann uttamaujasam āhave hṛdi vivyādha sa tadā rathopastha upāviśat
+
+**8.44.55**
+
+sārathis tam apovāha rathena rathināṃ varam tatas tu satvaraṃ rājan pāṇḍusainyam upādravat
+
+**8.45.1**
+
+saṃjaya uvāca drauṇis tu rathavaṃśena mahatā parivāritaḥ āpatat sahasā rājan yatra rājā vyavasthitaḥ
+
+**8.45.2**
+
+tam āpatantaṃ sahasā śūraḥ śaurisahāyavān dadhāra sahasā pārtho veleva makarālayam
+
+**8.45.3**
+
+tataḥ kruddho mahārāja droṇaputraḥ pratāpavān arjunaṃ vāsudevaṃ ca chādayām āsa patribhiḥ
+
+**8.45.4**
+
+avacchannau tataḥ kṛṣṇau dṛṣṭvā tatra mahārathāḥ vismayaṃ paramaṃ gatvā praikṣanta kuravas tadā
+
+**8.45.5**
+
+arjunas tu tato divyam astraṃ cakre hasann iva tad astraṃ brāhmaṇo yuddhe vārayām āsa bhārata
+
+**8.45.6**
+
+yad yad dhi vyākṣipad yuddhe pāṇḍavo 'straṃ jighāṃsayā tat tad astraṃ maheṣvāso droṇaputro vyaśātayat
+
+**8.45.7**
+
+astrayuddhe tato rājan vartamāne bhayāvahe apaśyāma raṇe drauṇiṃ vyāttānanam ivāntakam
+
+**8.45.8**
+
+sa diśo vidiśaś caiva chādayitvā vijihmagaiḥ vāsudevaṃ tribhir bāṇair avidhyad dakṣiṇe bhuje
+
+**8.45.9**
+
+tato 'rjuno hayān hatvā sarvāṃs tasya mahātmanaḥ cakāra samare bhūmiṃ śoṇitaughataraṅgiṇīm
+
+**8.45.10**
+
+nihatā rathinaḥ petuḥ pārthacāpacyutaiḥ śaraiḥ hayāś ca paryadhāvanta muktayoktrās tatas tataḥ
+
+**8.45.11**
+
+tad dṛṣṭvā karma pārthasya drauṇir āhavaśobhinaḥ avākirad raṇe kṛṣṇaṃ samantān niśitaiḥ śaraiḥ
+
+**8.45.12**
+
+tato 'rjunaṃ mahārāja drauṇir āyamya patriṇā vakṣodeśe samāsādya tāḍayām āsa saṃyuge
+
+**8.45.13**
+
+so 'tividdho raṇe tena droṇaputreṇa bhārata ādatta parighaṃ ghoraṃ drauṇeś cainam avākṣipat
+
+**8.45.14**
+
+tam āpatantaṃ parighaṃ kārtasvaravibhūṣitam drauṇiś ciccheda sahasā tata uccukruśur janāḥ
+
+**8.45.15**
+
+so 'nekadhāpatad bhūmau bhāradvājasya sāyakaiḥ viśīrṇaḥ parvato rājan yathā syān mātariśvanā
+
+**8.45.16**
+
+tato 'rjuno raṇe drauṇiṃ vivyādha daśabhiḥ śaraiḥ sārathiṃ cāsya bhallena rathanīḍād apāharat
+
+**8.45.17**
+
+sa saṃgṛhya svayaṃ vāhān kṛṣṇau prācchādayac charaiḥ tatrādbhutam apaśyāma drauṇer āśu parākramam
+
+**8.45.18**
+
+ayacchat turagān yac ca phalgunaṃ cāpy ayodhayat tad asya samare rājan sarve yodhā apūjayan
+
+**8.45.19**
+
+yadā tv agrasyata raṇe droṇaputreṇa phalgunaḥ tato raśmīn rathāśvānāṃ kṣurapraiś cicchide jayaḥ
+
+**8.45.20**
+
+prādravaṃs turagās te tu śaravegaprabādhitāḥ tato 'bhūn ninado bhūyas tava sainyasya bhārata
+
+**8.45.21**
+
+pāṇḍavās tu jayaṃ labdhvā tava sainyam upādravan samantān niśitān bāṇān vimuñcanto jayaiṣiṇaḥ
+
+**8.45.22**
+
+pāṇḍavais tu mahārāja dhārtarāṣṭrī mahācamūḥ punaḥ punar atho vīrair abhajyata jayoddhataiḥ
+
+**8.45.23**
+
+paśyatāṃ te mahārāja putrāṇāṃ citrayodhinām śakuneḥ saubaleyasya karṇasya ca mahātmanaḥ
+
+**8.45.24**
+
+vāryamāṇā mahāsenā putrais tava janeśvara nāvatiṣṭhata saṃgrāme tāḍyamānā samantataḥ
+
+**8.45.25**
+
+tato yodhair mahārāja palāyadbhis tatas tataḥ abhavad vyākulaṃ bhītaiḥ putrāṇāṃ te mahad balam
+
+**8.45.26**
+
+tiṣṭha tiṣṭheti satataṃ sūtaputrasya jalpataḥ nāvatiṣṭhata sā senā vadhyamānā mahātmabhiḥ
+
+**8.45.27**
+
+athotkruṣṭaṃ mahārāja pāṇḍavair jitakāśibhiḥ dhārtarāṣṭrabalaṃ dṛṣṭvā dravamāṇaṃ samantataḥ
+
+**8.45.28**
+
+tato duryodhanaḥ karṇam abravīt praṇayād iva paśya karṇa yathā senā pāṇḍavair arditā bhṛśam
+
+**8.45.29**
+
+tvayi tiṣṭhati saṃtrāsāt palāyati samantataḥ etaj jñātvā mahābāho kuru prāptam ariṃdama
+
+**8.45.30**
+
+sahasrāṇi ca yodhānāṃ tvām eva puruṣarṣabha krośanti samare vīra drāvyamāṇāni pāṇḍavaiḥ
+
+**8.45.31**
+
+etac chrutvā tu rādheyo duryodhanavaco mahat madrarājam idaṃ vākyam abravīt sūtanandanaḥ
+
+**8.45.32**
+
+paśya me bhujayor vīryam astrāṇāṃ ca janeśvara adya hanmi raṇe sarvān pāñcālān pāṇḍubhiḥ saha vāhayāśvān naravyāghra bhadreṇaiva janeśvara
+
+**8.45.33**
+
+evam uktvā mahārāja sūtaputraḥ pratāpavān pragṛhya vijayaṃ vīro dhanuḥśreṣṭhaṃ purātanam sajyaṃ kṛtvā mahārāja saṃmṛjya ca punaḥ punaḥ
+
+**8.45.34**
+
+saṃnivārya ca yodhān svān satyena śapathena ca prāyojayad ameyātmā bhārgavāstraṃ mahābalaḥ
+
+**8.45.35**
+
+tato rājan sahasrāṇi prayutāny arbudāni ca koṭiśaś ca śarās tīkṣṇā niragacchan mahāmṛdhe
+
+**8.45.36**
+
+jvalitais tair mahāghoraiḥ kaṅkabarhiṇavājitaiḥ saṃchannā pāṇḍavī senā na prājñāyata kiṃ cana
+
+**8.45.37**
+
+hāhākāro mahān āsīt pāñcālānāṃ viśāṃ pate pīḍitānāṃ balavatā bhārgavāstreṇa saṃyuge
+
+**8.45.38**
+
+nipatadbhir gajai rājan naraiś cāpi sahasraśaḥ rathaiś cāpi naravyāghra hayaiś cāpi samantataḥ
+
+**8.45.39**
+
+prākampata mahī rājan nihatais tais tatas tataḥ vyākulaṃ sarvam abhavat pāṇḍavānāṃ mahad balam
+
+**8.45.40**
+
+karṇas tv eko yudhāṃ śreṣṭho vidhūma iva pāvakaḥ dahañ śatrūn naravyāghra śuśubhe sa paraṃtapaḥ
+
+**8.45.41**
+
+te vadhyamānāḥ karṇena pāñcālāś cedibhiḥ saha tatra tatra vyamuhyanta vanadāhe yathā dvipāḥ cukruśus te naravyāghra yathāprāg vā narottamāḥ
+
+**8.45.42**
+
+teṣāṃ tu krośatāṃ śrutvā bhītānāṃ raṇamūrdhani dhāvatāṃ ca diśo rājan vitrastānāṃ samantataḥ ārtanādo mahāṃs tatra pretānām iva saṃplave
+
+**8.45.43**
+
+vadhyamānāṃs tu tān dṛṣṭvā sūtaputreṇa māriṣa vitresuḥ sarvabhūtāni tiryagyonigatāny api
+
+**8.45.44**
+
+te vadhyamānāḥ samare sūtaputreṇa sṛñjayāḥ arjunaṃ vāsudevaṃ ca vyākrośanta muhur muhuḥ pretarājapure yadvat pretarājaṃ vicetasaḥ
+
+**8.45.45**
+
+athābravīd vāsudevaṃ kuntīputro dhanaṃjayaḥ bhārgavāstraṃ mahāghoraṃ dṛṣṭvā tatra sabhīritam
+
+**8.45.46**
+
+paśya kṛṣṇa mahābāho bhārgavāstrasya vikramam naitad astraṃ hi samare śakyaṃ hantuṃ kathaṃ cana
+
+**8.45.47**
+
+sūtaputraṃ ca saṃrabdhaṃ paśya kṛṣṇa mahāraṇe antakapratimaṃ vīraṃ kurvāṇaṃ karma dāruṇam
+
+**8.45.48**
+
+sutīkṣṇaṃ codayann aśvān prekṣate māṃ muhur muhuḥ na ca paśyāmi samare karṇasya prapalāyitam
+
+**8.45.49**
+
+jīvan prāpnoti puruṣaḥ saṃkhye jayaparājayau jitasya tu hṛṣīkeśa vadha eva kuto jayaḥ
+
+**8.45.50**
+
+tato janārdanaḥ prāyād draṣṭum icchan yudhiṣṭhiram śrameṇa grāhayiṣyaṃś ca karṇaṃ yuddhena māriṣa
+
+**8.45.51**
+
+arjunaṃ cābravīt kṛṣṇo bhṛśaṃ rājā parikṣataḥ tam āśvāsya kuruśreṣṭha tataḥ karṇaṃ haniṣyasi
+
+**8.45.52**
+
+tato dhanaṃjayo draṣṭuṃ rājānaṃ bāṇapīḍitam rathena prayayau kṣipraṃ saṃgrāme keśavājñayā
+
+**8.45.53**
+
+gacchann eva tu kaunteyo dharmarājadidṛkṣayā sainyam ālokayām āsa nāpaśyat tatra cāgrajam
+
+**8.45.54**
+
+yuddhaṃ kṛtvā tu kaunteyo droṇaputreṇa bhārata duḥsahaṃ vajriṇā saṃkhye parājigye bhṛgoḥ sutam
+
+**8.45.55**
+
+drauṇiṃ parājitya tatogradhanvā; kṛtvā mahad duṣkaram āryakarma ālokayām āsa tataḥ svasainyaṃ; dhanaṃjayaḥ śatrubhir apradhṛṣyaḥ
+
+**8.45.56**
+
+sa yudhyamānaḥ pṛtanāmukhasthāñ; śūrāñ śūro harṣayan savyasācī pūrvāpadānaiḥ prathitaiḥ praśaṃsan; sthirāṃś cakārātmarathān anīke
+
+**8.45.57**
+
+apaśyamānas tu kirīṭamālī; yudhi jyeṣṭhaṃ bhrātaram ājamīḍham uvāca bhīmaṃ tarasābhyupetya; rājñaḥ pravṛttis tv iha keti rājan
+
+**8.45.58**
+
+bhīma uvāca apayāta ito rājā dharmaputro yudhiṣṭhiraḥ karṇabāṇavibhugnāṅgo yadi jīvet kathaṃ cana
+
+**8.45.59**
+
+arjuna uvāca tasmād bhavāñ śīghram itaḥ prayātu; rājñaḥ pravṛttyai kurusattamasya nūnaṃ hi viddho 'tibhṛśaṃ pṛṣatkaiḥ; karṇena rājā śibiraṃ gato 'sau
+
+**8.45.60**
+
+yaḥ saṃprahāre niśi saṃpravṛtte; droṇena viddho 'tibhṛśaṃ tarasvī tasthau ca tatrāpi jayapratīkṣo; droṇena yāvan na hataḥ kilāsīt
+
+**8.45.61**
+
+sa saṃśayaṃ gamitaḥ pāṇḍavāgryaḥ; saṃkhye 'dya karṇena mahānubhāvaḥ jñātuṃ prayāhy āśu tam adya bhīma; sthāsyāmy ahaṃ śatrugaṇān nirudhya
+
+**8.45.62**
+
+bhīma uvāca tvam eva jānīhi mahānubhāva; rājñaḥ pravṛttiṃ bharatarṣabhasya ahaṃ hi yady arjuna yāmi tatra; vakṣyanti māṃ bhīta iti pravīrāḥ
+
+**8.45.63**
+
+tato 'bravīd arjuno bhīmasenaṃ; saṃśaptakāḥ pratyanīkaṃ sthitā me etān ahatvā na mayā tu śakyam; ito 'payātuṃ ripusaṃghagoṣṭhāt
+
+**8.45.64**
+
+athābravīd arjunaṃ bhīmasenaḥ; svavīryam āśritya kurupravīra saṃśaptakān pratiyotsyāmi saṃkhye; sarvān ahaṃ yāhi dhanaṃjayeti
+
+**8.45.65**
+
+tad bhīmasenasya vaco niśamya; sudurvacaṃ bhrātur amitramadhye draṣṭuṃ kuruśreṣṭham abhiprayātuṃ; provāca vṛṣṇipravaraṃ tadānīm
+
+**8.45.66**
+
+codayāśvān hṛṣīkeśa vigāhyaitaṃ rathārṇavam ajātaśatruṃ rājānaṃ draṣṭum icchāmi keśava
+
+**8.45.67**
+
+tato hayān sarvadāśārhamukhyaḥ; prācodayad bhīmam uvāca cedam naitac citraṃ tava karmādya vīra; yāsyāmahe jahi bhīmārisaṃghān
+
+**8.45.68**
+
+tato yayau hṛṣīkeśo yatra rājā yudhiṣṭhiraḥ śīghrāc chīghrataraṃ rājan vājibhir garuḍopamaiḥ
+
+**8.45.69**
+
+pratyanīke vyavasthāpya bhīmasenam ariṃdamam saṃdiśya caiva rājendra yuddhaṃ prati vṛkodaram
+
+**8.45.70**
+
+tatas tu gatvā puruṣapravīrau; rājānam āsādya śayānam ekam rathād ubhau pratyavaruhya tasmād; vavandatur dharmarājasya pādau
+
+**8.45.71**
+
+tau dṛṣṭvā puruṣavyāghrau kṣemiṇau puruṣarṣabha mudābhyupagatau kṛṣṇāv aśvināv iva vāsavam
+
+**8.45.72**
+
+tāv abhyanandad rājā hi vivasvān aśvināv iva hate mahāsure jambhe śakraviṣṇū yathā guruḥ
+
+**8.45.73**
+
+manyamāno hataṃ karṇaṃ dharmarājo yudhiṣṭhiraḥ harṣagadgadayā vācā prītaḥ prāha paraṃtapau
+
+**8.46.1**
+
+saṃjaya uvāca mahāsattvau tu tau dṛṣṭvā sahitau keśavārjunau hatam ādhirathiṃ mene saṃkhye gāṇḍīvadhanvanā
+
+**8.46.2**
+
+tāv abhyanandat kaunteyaḥ sāmnā paramavalgunā smitapūrvam amitraghnaḥ pūjayan bharatarṣabha
+
+**8.46.3**
+
+yudhiṣṭhira uvāca svāgataṃ devakīputra svāgataṃ te dhanaṃjaya priyaṃ me darśanaṃ bāḍhaṃ yuvayor acyutārjunau
+
+**8.46.4**
+
+akṣatābhyām ariṣṭābhyāṃ kathaṃ yudhya mahāratham āśīviṣasamaṃ yuddhe sarvaśastraviśāradam
+
+**8.46.5**
+
+agragaṃ dhārtarāṣṭrāṇāṃ sarveṣāṃ śarma varma ca rakṣitaṃ vṛṣasenena suṣeṇena ca dhanvinā
+
+**8.46.6**
+
+anujñātaṃ mahāvīryaṃ rameṇāstreṣu durjayam trātāraṃ dhārtarāṣṭrāṇāṃ gantāraṃ vāhinīmukhe
+
+**8.46.7**
+
+hantāram arisainyānām amitragaṇamardanam duryodhanahite yuktam asmadyuddhāya codyatam
+
+**8.46.8**
+
+apradhṛṣyaṃ mahāyuddhe devair api savāsavaiḥ analānilayos tulyaṃ tejasā ca balena ca
+
+**8.46.9**
+
+pātālam iva gambhīraṃ suhṛdānandavardhanam antakābham amitrāṇāṃ karṇaṃ hatvā mahāhave diṣṭyā yuvām anuprāptau jitvāsuram ivāmarau
+
+**8.46.10**
+
+tena yuddham adīnena mayā hy adyācyutārjunau kupitenāntakeneva prajāḥ sarvā jighāṃsatā
+
+**8.46.11**
+
+tena ketuś ca me chinno hatau ca pārṣṇisārathī hatavāhaḥ kṛtaś cāsmi yuyudhānasya paśyataḥ
+
+**8.46.12**
+
+dhṛṣṭadyumnasya yamayor vīrasya ca śikhaṇḍinaḥ paśyatāṃ draupadeyānāṃ pāñcālānāṃ ca sarvaśaḥ
+
+**8.46.13**
+
+etāñ jitvā mahāvīryān karṇaḥ śatrugaṇān bahūn jitavān māṃ mahābāho yatamānaṃ mahāraṇe
+
+**8.46.14**
+
+anusṛtya ca māṃ yuddhe paruṣāṇy uktavān bahu tatra tatra yudhāṃ śreṣṭhaḥ paribhūya na saṃśayaḥ
+
+**8.46.15**
+
+bhīmasenaprabhāvāt tu yaj jīvāmi dhanaṃjaya bahunātra kim uktena nāhaṃ tat soḍhum utsahe
+
+**8.46.16**
+
+trayodaśāhaṃ varṣāṇi yasmād bhīto dhanaṃjaya na sma nidrāṃ labhe rātrau na cāhani sukhaṃ kva cit
+
+**8.46.17**
+
+tasya dveṣeṇa saṃyuktaḥ paridahye dhanaṃjaya ātmano maraṇaṃ jānan vādhrīṇasa iva dvipaḥ
+
+**8.46.18**
+
+yasyāyam agamat kālaś cintayānasya me vibho kathaṃ śakyo mayā karṇo yuddhe kṣapayituṃ bhavet
+
+**8.46.19**
+
+jāgrat svapaṃś ca kaunteya karṇam eva sadā hy aham paśyāmi tatra tatraiva karṇabhūtam idaṃ jagat
+
+**8.46.20**
+
+yatra yatra hi gacchāmi karṇād bhīto dhanaṃjaya tatra tatra hi paśyāmi karṇam evāgrataḥ sthitam
+
+**8.46.21**
+
+so 'haṃ tenaiva vīreṇa samareṣv apalāyinā sahayaḥ sarathaḥ pārtha jitvā jīvan visarjitaḥ
+
+**8.46.22**
+
+ko nu me jīvitenārtho rājyenārtho 'tha vā punaḥ mamaivaṃ dhikkṛtasyeha karṇenāhavaśobhinā
+
+**8.46.23**
+
+na prāptapūrvaṃ yad bhīṣmāt kṛpād droṇāc ca saṃyuge tat prāptam adya me yuddhe sūtaputrān mahārathāt
+
+**8.46.24**
+
+tat tvā pṛcchāmi kaunteya yathā hy akuśalas tathā tan mamācakṣva kārtsnyena yathā karṇas tvayā hataḥ
+
+**8.46.25**
+
+śakravīryasamo yuddhe yamatulyaparākramaḥ rāmatulyas tathāstre yaḥ sa kathaṃ vai niṣūditaḥ
+
+**8.46.26**
+
+mahārathaḥ samākhyātaḥ sarvayuddhaviśāradaḥ dhanurdharāṇāṃ pravaraḥ sarveṣām ekapūruṣaḥ
+
+**8.46.27**
+
+pūjito dhṛtarāṣṭreṇa saputreṇa viśāṃ pate sadā tvadarthaṃ rādheyaḥ sa kathaṃ nihatas tvayā
+
+**8.46.28**
+
+dhṛtarāṣṭro hi yodheṣu sarveṣv eva sadārjuna tava mṛtyuṃ raṇe karṇaṃ manyate puruṣarṣabhaḥ
+
+**8.46.29**
+
+sa tvayā puruṣavyāghra kathaṃ yuddhe niṣūditaḥ taṃ mamācakṣva bībhatso yathā karṇo hatas tvayā
+
+**8.46.30**
+
+sotsedham asya ca śiraḥ paśyatāṃ suhṛdāṃ hṛtam tvayā puruṣaśārdūla śārdūlena yathā ruroḥ
+
+**8.46.31**
+
+yaḥ paryupāsīt pradiśo diśaś ca; tvāṃ sūtaputraḥ samare parīpsan ditsuḥ karṇaḥ samare hastipūgaṃ; sa hīdānīṃ kaṅkapatraiḥ sutīkṣṇaiḥ
+
+**8.46.32**
+
+tvayā raṇe nihataḥ sūtaputraḥ; kaccic chete bhūmitale durātmā kaccit priyaṃ me paramaṃ tvayādya; kṛtaṃ raṇe sūtaputraṃ nihatya
+
+**8.46.33**
+
+yaḥ sarvataḥ paryapatat tvadarthe; madānvito garvitaḥ sūtaputraḥ sa śūramānī samare sametya; kaccit tvayā nihataḥ saṃyuge 'dya
+
+**8.46.34**
+
+raukmaṃ rathaṃ hastivaraiś ca yuktaṃ; rathaṃ ditsur yaḥ parebhyas tvadarthe sadā raṇe spardhate yaḥ sa pāpaḥ; kaccit tvayā nihatas tāta yuddhe
+
+**8.46.35**
+
+yo 'sau nityaṃ śūramadena matto; vikatthate saṃsadi kauravāṇām priyo 'tyarthaṃ tasya suyodhanasya; kaccit sa pāpo nihatas tvayādya
+
+**8.46.36**
+
+kaccit samāgamya dhanuḥpramuktais; tvatpreṣitair lohitārthair vihaṃgaiḥ śete 'dya pāpaḥ sa vibhinnagātraḥ; kaccid bhagno dhārtarāṣṭrasya bāhuḥ
+
+**8.46.37**
+
+yo 'sau sadā ślāghate rājamadhye; duryodhanaṃ harṣayan darpapūrṇaḥ ahaṃ hantā phalgunasyeti mohāt; kaccid dhatas tasya na vai tathā rathaḥ
+
+**8.46.38**
+
+nāhaṃ pādau dhāvayiṣye kadā cid; yāvat sthitaḥ pārtha ity alpabuddhiḥ vrataṃ tasyaitat sarvadā śakrasūno; kaccit tvayā nihataḥ so 'dya karṇaḥ
+
+**8.46.39**
+
+yo 'sau kṛṣṇām abravīd duṣṭabuddhiḥ; karṇaḥ sabhāyāṃ kuruvīramadhye kiṃ pāṇḍavāṃs tvaṃ na jahāsi kṛṣṇe; sudurbalān patitān hīnasattvān
+
+**8.46.40**
+
+yat tat karṇaḥ pratyajānāt tvadarthe; nāhatvāhaṃ saha kṛṣṇena pārtham ihopayāteti sa pāpabuddhiḥ; kaccic chete śarasaṃbhinnagātraḥ
+
+**8.46.41**
+
+kaccit saṃgrāme vidito vā tadāyaṃ; samāgamaḥ sṛñjayakauravāṇām yatrāvasthām īdṛśīṃ prāpito 'haṃ; kaccit tvayā so 'dya hataḥ sametya
+
+**8.46.42**
+
+kaccit tvayā tasya sumandabuddher; gāṇḍīvamuktair viśikhair jvaladbhiḥ sakuṇḍalaṃ bhānumad uttamāṅgaṃ; kāyāt prakṛttaṃ yudhi savyasācin
+
+**8.46.43**
+
+yat tan mayā bāṇasamarpitena; dhyāto 'si karṇasya vadhāya vīra tan me tvayā kaccid amogham adya; dhyātaṃ kṛtaṃ karṇanipātanena
+
+**8.46.44**
+
+yad darpapūrṇaḥ sa suyodhano 'smān; avekṣate karṇasamāśrayeṇa kaccit tvayā so 'dya samāśrayo 'sya; bhagnaḥ parākramya suyodhanasya
+
+**8.46.45**
+
+yo naḥ purā ṣaṇḍhatilān avocat; sabhāmadhye pārthivānāṃ samakṣam sa durmatiḥ kaccid upetya saṃkhye; tvayā hataḥ sūtaputro 'tyamarṣī
+
+**8.46.46**
+
+yaḥ sūtaputraḥ prahasan durātmā; purābravīn nirjitāṃ saubalena svayaṃ prasahyānaya yājñasenīm; apīha kaccit sa hatas tvayādya
+
+**8.46.47**
+
+yaḥ śastrabhṛc chreṣṭhatamaṃ pṛthivyāṃ; pitāmahaṃ vyākṣipad alpacetāḥ saṃkhyāyamāno 'rdharathaḥ sa kaccit; tvayā hato 'dyādhirathir durātmā
+
+**8.46.48**
+
+amarṣaṇaṃ nikṛtisamīraṇeritaṃ; hṛdi śritaṃ jvalanam imaṃ sadā mama hato mayā so 'dya sametya pāpadhīr; iti bruvan praśamaya me 'dya phalguna
+
+**8.47.1**
+
+saṃjaya uvāca tad dharmaśīlasya vaco niśamya; rājñaḥ kruddhasyādhirathau mahātmā uvāca durdharṣam adīnasattvaṃ; yudhiṣṭhiraṃ jiṣṇur anantavīryaḥ
+
+**8.47.2**
+
+saṃśaptakair yudhyamānasya me 'dya; senāgrayāyī kurusainyasya rājan āśīviṣābhān khagamān pramuñcan; drauṇiḥ purastāt sahasā vyatiṣṭhat
+
+**8.47.3**
+
+dṛṣṭvā rathaṃ meghanibhaṃ mamemam; ambaṣṭhasenā maraṇe vyatiṣṭhat teṣām ahaṃ pañca śatāni hatvā; tato drauṇim agamaṃ pārthivāgrya
+
+**8.47.4**
+
+tato 'parān bāṇasaṃghān anekān; ākarṇapūrṇāyatavipramuktān sasarja śikṣāstrabalaprayatnais; tathā yathā prāvṛṣi kālameghaḥ
+
+**8.47.5**
+
+naivādadānaṃ na ca saṃdadhānaṃ; jānīmahe katareṇāsyatīti vāmena vā yadi vā dakṣiṇena; sa droṇaputraḥ samare paryavartat
+
+**8.47.6**
+
+avidhyan māṃ pañcabhir droṇaputraḥ; śitaiḥ śaraiḥ pañcabhir vāsudevam ahaṃ tu taṃ triṃśatā vajrakalpaiḥ; samārdayaṃ nimiṣasyāntareṇa
+
+**8.47.7**
+
+sa vikṣaran rudhiraṃ sarvagātrai; rathānīkaṃ sūtasūnor viveśa mayābhibhūtaḥ sainikānāṃ prabarhān; asāv apaśyan rudhireṇa pradigdhān
+
+**8.47.8**
+
+tato 'bhibhūtaṃ yudhi vīkṣya sainyaṃ; vidhvastayodhaṃ drutavājināgam pañcāśatā rathamukhyaiḥ sametaḥ; karṇas tvaran mām upāyāt pramāthī
+
+**8.47.9**
+
+tān sūdayitvāham apāsya karṇaṃ; draṣṭuṃ bhavantaṃ tvarayābhiyātaḥ sarve pāñcālā hy udvijante sma karṇād; gandhād gāvaḥ kesariṇo yathaiva
+
+**8.47.10**
+
+mahājhaṣasyeva mukhaṃ prapannāḥ; prabhadrakāḥ karṇam abhi dravanti mṛtyor āsyaṃ vyāttam ivānvapadyan; prabhadrakāḥ karṇam āsādya rājan
+
+**8.47.11**
+
+āyāhi paśyādya yuyutsamānaṃ; māṃ sūtaputraṃ ca vṛtau jayāya ṣaṭsāhasrā bhārata rājaputrāḥ; svargāya lokāya rathā nimagnāḥ
+
+**8.47.12**
+
+sametyāhaṃ sūtaputreṇa saṃkhye; vṛtreṇa vajrīva narendramukhya yotsye bhṛśaṃ bhārata sūtaputram; asmin saṃgrāme yadi vai dṛśyate 'dya
+
+**8.47.13**
+
+karṇaṃ na ced adya nihanmi rājan; sabāndhavaṃ yudhyamānaṃ prasahya pratiśrutyākurvatāṃ vai gatir yā; kaṣṭāṃ gaccheyaṃ tām ahaṃ rājasiṃha
+
+**8.47.14**
+
+āmantraye tvāṃ brūhi jayaṃ raṇe me; purā bhīmaṃ dhārtarāṣṭrā grasante sautiṃ haniṣyāmi narendrasiṃha; sainyaṃ tathā śatrugaṇāṃś ca sarvān
+
+**8.48.1**
+
+saṃjaya uvāca śrutvā karṇaṃ kalyam udāravīryaṃ; kruddhaḥ pārthaḥ phalgunasyāmitaujāḥ dhanaṃjayaṃ vākyam uvāca cedaṃ; yudhiṣṭhiraḥ karṇaśarābhitaptaḥ
+
+**8.48.2**
+
+idaṃ yadi dvaitavane hy avakṣyaḥ; karṇaṃ yoddhuṃ na prasahe nṛpeti vayaṃ tadā prāptakālāni sarve; vṛttāny upaiṣyāma tadaiva pārtha
+
+**8.48.3**
+
+mayi pratiśrutya vadhaṃ hi tasya; balasya cāptasya tathaiva vīra ānīya naḥ śatrumadhyaṃ sa kasmāt; samutkṣipya sthaṇḍile pratyapiṃṣṭhāḥ
+
+**8.48.4**
+
+anvāśiṣma vayam arjuna tvayi; yiyāsavo bahu kalyāṇam iṣṭam tan naḥ sarvaṃ viphalaṃ rājaputra; phalārthināṃ nicula ivātipuṣpaḥ
+
+**8.48.5**
+
+pracchāditaṃ baḍiśam ivāmiṣeṇa; pracchādito gavaya ivāpavācā anarthakaṃ me darśitavān asi tvaṃ; rājyārthino rājyarūpaṃ vināśam
+
+**8.48.6**
+
+yat tat pṛthāṃ vāg uvācāntarikṣe; saptāhajāte tvayi mandabuddhau jātaḥ putro vāsavavikramo 'yaṃ; sarvāñ śūrāñ śātravāñ jeṣyatīti
+
+**8.48.7**
+
+ayaṃ jetā khāṇḍave devasaṃghān; sarvāṇi bhūtāny api cottamaujāḥ ayaṃ jetā madrakaliṅgakekayān; ayaṃ kurūn hanti ca rājamadhye
+
+**8.48.8**
+
+asmāt paro na bhavitā dhanurdharo; na vai bhūtaḥ kaś cana jātu jetā icchann āryaḥ sarvabhūtāni kuryād; vaśe vaśī sarvasamāptavidyaḥ
+
+**8.48.9**
+
+kāntyā śaśāṅkasya javena vāyoḥ; sthairyeṇa meroḥ kṣamayā pṛthivyāḥ sūryasya bhāsā dhanadasya lakṣmyā; śauryeṇa śakrasya balena viṣṇoḥ
+
+**8.48.10**
+
+tulyo mahātmā tava kunti putro; jāto 'diter viṣṇur ivārihantā sveṣāṃ jayāya dviṣatāṃ vadhāya; khyāto 'mitaujāḥ kulatantukartā
+
+**8.48.11**
+
+ity antarikṣe śataśṛṅgamūrdhni; tapasvināṃ śṛṇvatāṃ vāg uvāca evaṃvidhaṃ tvāṃ tac ca nābhūt tavādya; devā hi nūnam anṛtaṃ vadanti
+
+**8.48.12**
+
+tathāpareṣām ṛṣisattamānāṃ; śrutvā giraṃ pūjayatāṃ sadaiva na saṃnatiṃ praimi suyodhanasya; na tvā jānāmy ādhirather bhayārtam
+
+**8.48.13**
+
+tvaṣṭrā kṛtaṃ vāham akūjanākṣaṃ; śubhaṃ samāsthāya kapidhvajaṃ tvam khaḍgaṃ gṛhītvā hemacitraṃ samiddhaṃ; dhanuś cedaṃ gāṇḍivaṃ tālamātram sa keśavenohyamānaḥ kathaṃ nu; karṇād bhīto vyapayāto 'si pārtha
+
+**8.48.14**
+
+dhanuś caitat keśavāya pradāya; yantābhaviṣyas tvaṃ raṇe ced durātman tato 'haniṣyat keśavaḥ karṇam ugraṃ; marutpatir vṛtram ivāttavajraḥ
+
+**8.48.15**
+
+māse 'patiṣyaḥ pañcame tvaṃ prakṛcchre; na vā garbho 'py abhaviṣyaḥ pṛthāyāḥ tat te śramo rājaputrābhaviṣyan; na saṃgrāmād apayātuṃ durātman
+
+**8.49.1**
+
+saṃjaya uvāca yudhiṣṭhireṇaivam uktaḥ kaunteyaḥ śvetavāhanaḥ asiṃ jagrāha saṃkruddho jighāṃsur bharatarṣabham
+
+**8.49.2**
+
+tasya kopaṃ samudvīkṣya cittajñaḥ keśavas tadā uvāca kim idaṃ pārtha gṛhītaḥ khaḍga ity uta
+
+**8.49.3**
+
+neha paśyāmi yoddhavyaṃ tava kiṃ cid dhanaṃjaya te dhvastā dhārtarāṣṭrā hi sarve bhīmena dhīmatā
+
+**8.49.4**
+
+apayāto 'si kaunteya rājā draṣṭavya ity api sa rājā bhavatā dṛṣṭaḥ kuśalī ca yudhiṣṭhiraḥ
+
+**8.49.5**
+
+taṃ dṛṣṭvā nṛpaśārdūlaṃ śārdūlasamavikramam harṣakāle tu saṃprāpte kasmāt tvā manyur āviśat
+
+**8.49.6**
+
+na taṃ paśyāmi kaunteya yas te vadhyo bhaved iha kasmād bhavān mahākhaḍgaṃ parigṛhṇāti satvaram
+
+**8.49.7**
+
+tat tvā pṛcchāmi kaunteya kim idaṃ te cikīrṣitam parāmṛśasi yat kruddhaḥ khaḍgam adbhutavikrama
+
+**8.49.8**
+
+evam uktas tu kṛṣṇena prekṣamāṇo yudhiṣṭhiram arjunaḥ prāha govindaṃ kruddhaḥ sarpa iva śvasan
+
+**8.49.9**
+
+dada gāṇḍīvam anyasmā iti māṃ yo 'bhicodayet chindyām ahaṃ śiras tasya ity upāṃśuvrataṃ mama
+
+**8.49.10**
+
+tad ukto 'ham adīnātman rājñāmitaparākrama samakṣaṃ tava govinda na tat kṣantum ihotsahe
+
+**8.49.11**
+
+tasmād enaṃ vadhiṣyāmi rājānaṃ dharmabhīrukam pratijñāṃ pālayiṣyāmi hatvemaṃ narasattamam etadarthaṃ mayā khaḍgo gṛhīto yadunandana
+
+**8.49.12**
+
+so 'haṃ yudhiṣṭhiraṃ hatvā satye 'py ānṛṇyatāṃ gataḥ viśoko vijvaraś cāpi bhaviṣyāmi janārdana
+
+**8.49.13**
+
+kiṃ vā tvaṃ manyase prāptam asmin kāle samutthite tvam asya jagatas tāta vettha sarvaṃ gatāgatam tat tathā prakariṣyāmi yathā māṃ vakṣyate bhavān
+
+**8.49.14**
+
+kṛṣṇa uvāca idānīṃ pārtha jānāmi na vṛddhāḥ sevitās tvayā akāle puruṣavyāghra saṃrambhakriyayānayā na hi dharmavibhāgajñaḥ kuryād evaṃ dhanaṃjaya
+
+**8.49.15**
+
+akāryāṇāṃ ca kāryāṇāṃ saṃyogaṃ yaḥ karoti vai kāryāṇām akriyāṇāṃ ca sa pārtha puruṣādhamaḥ
+
+**8.49.16**
+
+anusṛtya tu ye dharmaṃ kavayaḥ samupasthitāḥ samāsavistaravidāṃ na teṣāṃ vettha niścayam
+
+**8.49.17**
+
+aniścayajño hi naraḥ kāryākāryaviniścaye avaśo muhyate pārtha yathā tvaṃ mūḍha eva tu
+
+**8.49.18**
+
+na hi kāryam akāryaṃ vā sukhaṃ jñātuṃ kathaṃ cana śrutena jñāyate sarvaṃ tac ca tvaṃ nāvabudhyase
+
+**8.49.19**
+
+avijñānād bhavān yac ca dharmaṃ rakṣati dharmavit prāṇināṃ hi vadhaṃ pārtha dhārmiko nāvabudhyate
+
+**8.49.20**
+
+prāṇinām avadhas tāta sarvajyāyān mato mama anṛtaṃ tu bhaved vācyaṃ na ca hiṃsyāt kathaṃ cana
+
+**8.49.21**
+
+sa kathaṃ bhrātaraṃ jyeṣṭhaṃ rājānaṃ dharmakovidam hanyād bhavān naraśreṣṭha prākṛto 'nyaḥ pumān iva
+
+**8.49.22**
+
+ayudhyamānasya vadhas tathāśastrasya bhārata parāṅmukhasya dravataḥ śaraṇaṃ vābhigacchataḥ kṛtāñjaleḥ prapannasya na vadhaḥ pūjyate budhaiḥ
+
+**8.49.23**
+
+tvayā caiva vrataṃ pārtha bālenaiva kṛtaṃ purā tasmād adharmasaṃyuktaṃ mauḍhyāt karma vyavasyasi
+
+**8.49.24**
+
+sa guruṃ pārtha kasmāt tvaṃ hanyā dharmam anusmaran asaṃpradhārya dharmāṇāṃ gatiṃ sūkṣmāṃ duranvayām
+
+**8.49.25**
+
+idaṃ dharmarahasyaṃ ca vakṣyāmi bharatarṣabha yad brūyāt tava bhīṣmo vā dharmajño vā yudhiṣṭhiraḥ
+
+**8.49.26**
+
+viduro vā tathā kṣattā kuntī vāpi yaśasvinī tat te vakṣyāmi tattvena tan nibodha dhanaṃjaya
+
+**8.49.27**
+
+satyasya vacanaṃ sādhu na satyād vidyate param tattvenaitat sudurjñeyaṃ yasya satyam anuṣṭhitam
+
+**8.49.28**
+
+bhavet satyam avaktavyaṃ vaktavyam anṛtaṃ bhavet sarvasvasyāpahāre tu vaktavyam anṛtaṃ bhavet
+
+**8.49.29**
+
+prāṇātyaye vivāhe ca vaktavyam anṛtaṃ bhavet yatrānṛtaṃ bhavet satyaṃ satyaṃ cāpy anṛtaṃ bhavet
+
+**8.49.30**
+
+tādṛśaṃ paśyate bālo yasya satyam anuṣṭhitam satyānṛte viniścitya tato bhavati dharmavit
+
+**8.49.31**
+
+kim āścaryaṃ kṛtaprajñaḥ puruṣo 'pi sudāruṇaḥ sumahat prāpnuyāt puṇyaṃ balāko 'ndhavadhād iva
+
+**8.49.32**
+
+kim āścaryaṃ punar mūḍho dharmakāmo 'py apaṇḍitaḥ sumahat prāpnuyāt pāpam āpagām iva kauśikaḥ
+
+**8.49.33**
+
+arjuna uvāca ācakṣva bhagavann etad yathā vidyām ahaṃ tathā balākāndhābhisaṃbaddhaṃ nadīnāṃ kauśikasya ca
+
+**8.49.34**
+
+kṛṣṇa uvāca mṛgavyādho 'bhavat kaś cid balāko nāma bhārata yātrārthaṃ putradārasya mṛgān hanti na kāmataḥ
+
+**8.49.35**
+
+so 'ndhau ca mātāpitarau bibharty anyāṃś ca saṃśritān svadharmanirato nityaṃ satyavāg anasūyakaḥ
+
+**8.49.36**
+
+sa kadā cin mṛgāṃl lipsur nānvavindat prayatnavān athāpaśyat sa pītodaṃ śvāpadaṃ ghrāṇacakṣuṣam
+
+**8.49.37**
+
+adṛṣṭapūrvam api tat sattvaṃ tena hataṃ tadā anv eva ca tato vyomnaḥ puṣpavarṣam avāpatat
+
+**8.49.38**
+
+apsarogītavāditrair nāditaṃ ca manoramam vimānam āgamat svargān mṛgavyādhaninīṣayā
+
+**8.49.39**
+
+tad bhūtaṃ sarvabhūtānām abhāvāya kilārjuna tapas taptvā varaṃ prāptaṃ kṛtam andhaṃ svayaṃbhuvā
+
+**8.49.40**
+
+tad dhatvā sarvabhūtānām abhāvakṛtaniścayam tato balākaḥ svaragād evaṃ dharmaḥ sudurvidaḥ
+
+**8.49.41**
+
+kauśiko 'py abhavad vipras tapasvī na bahuśrutaḥ nadīnāṃ saṃgame grāmād adūre sa kilāvasat
+
+**8.49.42**
+
+satyaṃ mayā sadā vācyam iti tasyābhavad vratam satyavādīti vikhyātaḥ sa tadāsīd dhanaṃjaya
+
+**8.49.43**
+
+atha dasyubhayāt ke cit tadā tad vanam āviśan dasyavo 'pi gatāḥ krūrā vyamārganta prayatnataḥ
+
+**8.49.44**
+
+atha kauśikam abhyetya prāhus taṃ satyavādinam katamena pathā yātā bhagavan bahavo janāḥ satyena pṛṣṭaḥ prabrūhi yadi tān vettha śaṃsa naḥ
+
+**8.49.45**
+
+sa pṛṣṭaḥ kauśikaḥ satyaṃ vacanaṃ tān uvāca ha bahuvṛkṣalatāgulmam etad vanam upāśritāḥ tatas te tān samāsādya krūrā jaghnur iti śrutiḥ
+
+**8.49.46**
+
+tenādharmeṇa mahatā vāgduruktena kauśikaḥ gataḥ sukaṣṭaṃ narakaṃ sūkṣmadharmeṣv akovidaḥ aprabhūtaśruto mūḍho dharmāṇām avibhāgavit
+
+**8.49.47**
+
+vṛddhān apṛṣṭvā saṃdehaṃ mahac chvabhram ito 'rhati tatra te lakṣaṇoddeśaḥ kaś cid eva bhaviṣyati
+
+**8.49.48**
+
+duṣkaraṃ paramajñānaṃ tarkeṇātra vyavasyati śrutir dharma iti hy eke vadanti bahavo janāḥ
+
+**8.49.49**
+
+na tv etat pratisūyāmi na hi sarvaṃ vidhīyate prabhavārthāya bhūtānāṃ dharmapravacanaṃ kṛtam
+
+**8.49.50**
+
+dhāraṇād dharmam ity āhur dharmo dhārayati prajāḥ yaḥ syād dhāraṇasaṃyuktaḥ sa dharma iti niścayaḥ
+
+**8.49.51**
+
+ye 'nyāyena jihīrṣanto janā icchanti karhi cit akūjanena cen mokṣo nātra kūjet kathaṃ cana
+
+**8.49.52**
+
+avaśyaṃ kūjitavyaṃ vā śaṅkeran vāpy akūjataḥ śreyas tatrānṛtaṃ vaktuṃ satyād iti vicāritam
+
+**8.49.53**
+
+prāṇātyaye vivāhe vā sarvajñātidhanakṣaye narmaṇy abhipravṛtte vā pravaktavyaṃ mṛṣā bhavet adharmaṃ nātra paśyanti dharmatattvārthadarśinaḥ
+
+**8.49.54**
+
+yaḥ stenaiḥ saha saṃbandhān mucyate śapathair api śreyas tatrānṛtaṃ vaktuṃ tat satyam avicāritam
+
+**8.49.55**
+
+na ca tebhyo dhanaṃ deyaṃ śakye sati kathaṃ cana pāpebhyo hi dhanaṃ dattaṃ dātāram api pīḍayet tasmād dharmārtham anṛtam uktvā nānṛtavāg bhavet
+
+**8.49.56**
+
+eṣa te lakṣaṇoddeśaḥ samuddiṣṭo yathāvidhi etac chrutvā brūhi pārtha yadi vadhyo yudhiṣṭhiraḥ
+
+**8.49.57**
+
+arjuna uvāca yathā brūyān mahāprājño yathā brūyān mahāmatiḥ hitaṃ caiva yathāsmākaṃ tathaitad vacanaṃ tava
+
+**8.49.58**
+
+bhavān mātṛsamo 'smākaṃ tathā pitṛsamo 'pi ca gatiś ca paramā kṛṣṇa tena te vākyam adbhutam
+
+**8.49.59**
+
+na hi te triṣu lokeṣu vidyate 'viditaṃ kva cit tasmād bhavān paraṃ dharmaṃ veda sarvaṃ yathātatham
+
+**8.49.60**
+
+avadhyaṃ pāṇḍavaṃ manye dharmarājaṃ yudhiṣṭhiram tasmin samayasaṃyoge brūhi kiṃ cid anugraham idaṃ cāparam atraiva śṛṇu hṛtsthaṃ vivakṣitam
+
+**8.49.61**
+
+jānāsi dāśārha mama vrataṃ tvaṃ; yo māṃ brūyāt kaś cana mānuṣeṣu anyasmai tvaṃ gāṇḍivaṃ dehi pārtha; yas tvatto 'strair bhavitā vā viśiṣṭaḥ
+
+**8.49.62**
+
+hanyām ahaṃ keśava taṃ prasahya; bhīmo hanyāt tūbaraketi coktaḥ tan me rājā proktavāṃs te samakṣaṃ; dhanur dehīty asakṛd vṛṣṇisiṃha
+
+**8.49.63**
+
+taṃ hatvā cet keśava jīvaloke; sthātā kālaṃ nāham apy alpamātram sā ca pratijñā mama lokaprabuddhā; bhavet satyā dharmabhṛtāṃ variṣṭha yathā jīvet pāṇḍavo 'haṃ ca kṛṣṇa; tathā buddhiṃ dātum adyārhasi tvam
+
+**8.49.64**
+
+vāsudeva uvāca rājā śrānto jagato vikṣataś ca; karṇena saṃkhye niśitair bāṇasaṃghaiḥ tasmāt pārtha tvāṃ paruṣāṇy avocat; karṇe dyūtaṃ hy adya raṇe nibaddham
+
+**8.49.65**
+
+tasmin hate kuravo nirjitāḥ syur; evaṃbuddhiḥ pārthivo dharmaputraḥ yadāvamānaṃ labhate mahāntaṃ; tadā jīvan mṛta ity ucyate saḥ
+
+**8.49.66**
+
+tan mānitaḥ pārthivo 'yaṃ sadaiva; tvayā sabhīmena tathā yamābhyām vṛddhaiś ca loke puruṣapravīrais; tasyāvamānaṃ kalayā tvaṃ prayuṅkṣva
+
+**8.49.67**
+
+tvam ity atrabhavantaṃ tvaṃ brūhi pārtha yudhiṣṭhiram tvam ity ukto hi nihato gurur bhavati bhārata
+
+**8.49.68**
+
+evam ācara kaunteya dharmarāje yudhiṣṭhire adharmayuktaṃ saṃyogaṃ kuruṣvaivaṃ kurūdvaha
+
+**8.49.69**
+
+atharvāṅgirasī hy eṣā śrutīnām uttamā śrutiḥ avicāryaiva kāryaiṣā śreyaḥkāmair naraiḥ sadā
+
+**8.49.70**
+
+vadho hy ayaṃ pāṇḍava dharmarājñas; tvatto yukto vetsyate caivam eṣaḥ tato 'sya pādāv abhivādya paścāc; chamaṃ brūyāḥ sāntvapūrvaṃ ca pārtham
+
+**8.49.71**
+
+bhrātā prājñas tava kopaṃ na jātu; kuryād rājā kaṃ cana pāṇḍaveyaḥ mukto 'nṛtād bhrātṛvadhāc ca pārtha; hṛṣṭaḥ karṇaṃ tvaṃ jahi sūtaputram
+
+**8.49.72**
+
+saṃjaya uvāca ity evam uktas tu janārdanena; pārthaḥ praśasyātha suhṛdvadhaṃ tam tato 'bravīd arjuno dharmarājam; anuktapūrvaṃ paruṣaṃ prasahya
+
+**8.49.73**
+
+mā tvaṃ rājan vyāhara vyāharatsu; na tiṣṭhase krośamātre raṇārdhe bhīmas tu mām arhati garhaṇāya; yo yudhyate sarvayodhapravīraḥ
+
+**8.49.74**
+
+kāle hi śatrūn pratipīḍya saṃkhye; hatvā ca śūrān pṛthivīpatīṃs tān yaḥ kuñjarāṇām adhikaṃ sahasraṃ; hatvānadat tumulaṃ siṃhanādam
+
+**8.49.75**
+
+suduṣkaraṃ karma karoti vīraḥ; kartuṃ yathā nārhasi tvaṃ kadā cit rathād avaplutya gadāṃ parāmṛśaṃs; tayā nihanty aśvanaradvipān raṇe
+
+**8.49.76**
+
+varāsinā vājirathāśvakuñjarāṃs; tathā rathāṅgair dhanuṣā ca hanty arīn pramṛdya padbhyām ahitān nihanti yaḥ; punaś ca dorbhyāṃ śatamanyuvikramaḥ
+
+**8.49.77**
+
+mahābalo vaiśravaṇāntakopamaḥ; prasahya hantā dviṣatāṃ yathārham sa bhīmaseno 'rhati garhaṇāṃ me; na tvaṃ nityaṃ rakṣyase yaḥ suhṛdbhiḥ
+
+**8.49.78**
+
+mahārathān nāgavarān hayāṃś ca; padātimukhyān api ca pramathya eko bhīmo dhārtarāṣṭreṣu magnaḥ; sa mām upālabdhum ariṃdamo 'rhati
+
+**8.49.79**
+
+kaliṅgavaṅgāṅganiṣādamāgadhān; sadāmadān nīlabalāhakopamān nihanti yaḥ śatrugaṇān anekaśaḥ; sa mābhivaktuṃ prabhavaty anāgasam
+
+**8.49.80**
+
+suyuktam āsthāya rathaṃ hi kāle; dhanur vikarṣañ śarapūrṇamuṣṭiḥ sṛjaty asau śaravarṣāṇi vīro; mahāhave megha ivāmbudhārāḥ
+
+**8.49.81**
+
+balaṃ tu vāci dvijasattamānāṃ; kṣātraṃ budhā bāhubalaṃ vadanti tvaṃ vāgbalo bhārata niṣṭhuraś ca; tvam eva māṃ vetsi yathāvidho 'ham
+
+**8.49.82**
+
+yatāmi nityaṃ tava kartum iṣṭaṃ; dāraiḥ sutair jīvitenātmanā ca evaṃ ca māṃ vāgviśikhair nihaṃsi; tvattaḥ sukhaṃ na vayaṃ vidma kiṃ cit
+
+**8.49.83**
+
+avāmaṃsthā māṃ draupadītalpasaṃstho; mahārathān pratihanmi tvadarthe tenātiśaṅkī bhārata niṣṭhuro 'si; tvattaḥ sukhaṃ nābhijānāmi kiṃ cit
+
+**8.49.84**
+
+proktaḥ svayaṃ satyasaṃdhena mṛtyus; tava priyārthaṃ naradeva yuddhe vīraḥ śikhaṇḍī draupado 'sau mahātmā; mayābhiguptena hataś ca tena
+
+**8.49.85**
+
+na cābhinandāmi tavādhirājyaṃ; yatas tvam akṣeṣv ahitāya saktaḥ svayaṃ kṛtvā pāpam anāryajuṣṭam; ebhir yuddhe tartum icchasy arīṃs tu
+
+**8.49.86**
+
+akṣeṣu doṣā bahavo vidharmāḥ; śrutās tvayā sahadevo 'bravīd yān tān naiṣi saṃtartum asādhujuṣṭān; yena sma sarve nirayaṃ prapannāḥ
+
+**8.49.87**
+
+tvaṃ devitā tvatkṛte rājyanāśas; tvat saṃbhavaṃ vyasanaṃ no narendra māsmān krūrair vākpratodais tuda tvaṃ; bhūyo rājan kopayann alpabhāgyān
+
+**8.49.88**
+
+etā vācaḥ paruṣāḥ savyasācī; sthiraprajñaṃ śrāvayitvā tatakṣa tadānutepe surarājaputro; viniḥśvasaṃś cāpy asim udbabarha
+
+**8.49.89**
+
+tam āha kṛṣṇaḥ kim idaṃ punar bhavān; vikośam ākāśanibhaṃ karoty asim prabrūhi satyaṃ punar uttaraṃ vidher; vacaḥ pravakṣyāmy aham arthasiddhaye
+
+**8.49.90**
+
+ity eva pṛṣṭaḥ puruṣottamena; suduḥkhitaḥ keśavam āha vākyam ahaṃ haniṣye svaśarīram eva; prasahya yenāhitam ācaraṃ vai
+
+**8.49.91**
+
+niśamya tat pārthavaco 'bravīd idaṃ; dhanaṃjayaṃ dharmabhṛtāṃ variṣṭhaḥ prabrūhi pārtha svaguṇān ihātmanas; tathā svahārdaṃ bhavatīha sadyaḥ
+
+**8.49.92**
+
+tathāstu kṛṣṇety abhinandya vākyaṃ; dhanaṃjayaḥ prāha dhanur vināmya yudhiṣṭhiraṃ dharmabhṛtāṃ variṣṭhaṃ; śṛṇuṣva rājann iti śakrasūnuḥ
+
+**8.49.93**
+
+na mādṛśo 'nyo naradeva vidyate; dhanurdharo devam ṛte pinākinam ahaṃ hi tenānumato mahātmanā; kṣaṇena hanyāṃ sacarācaraṃ jagat
+
+**8.49.94**
+
+mayā hi rājan sadigīśvarā diśo; vijitya sarvā bhavataḥ kṛtā vaśe sa rājasūyaś ca samāptadakṣiṇaḥ; sabhā ca divyā bhavato mamaujasā
+
+**8.49.95**
+
+pāṇau pṛṣatkā likhitā mameme; dhanuś ca saṃkhye vitataṃ sabāṇam pādau ca me saśarau sahadhvajau; na mādṛśaṃ yuddhagataṃ jayanti
+
+**8.49.96**
+
+hatā udīcyā nihatāḥ pratīcyāḥ; prācyā nirastā dākṣiṇātyā viśastāḥ saṃśaptakānāṃ kiṃ cid evāvaśiṣṭaṃ; sarvasya sainyasya hataṃ mayārdham
+
+**8.49.97**
+
+śete mayā nihatā bhāratī ca; camū rājan devacamūprakāśā ye nāstrajñās tān ahaṃ hanmi śastrais; tasmāl lokaṃ neha karomi bhasmasāt
+
+**8.49.98**
+
+ity evam uktvā punar āha pārtho; yudhiṣṭhiraṃ dharmabhṛtāṃ variṣṭham apy aputrā tena rādhā bhavitrī; kuntī mayā vā tad ṛtaṃ viddhi rājan prasīda rājan kṣama yan mayoktaṃ; kāle bhavān vetsyati tan namas te
+
+**8.49.99**
+
+prasādya rājānam amitrasāhaṃ; sthito 'bravīc cainam abhiprapannaḥ yāmy eṣa bhīmaṃ samarāt pramoktuṃ; sarvātmanā sūtaputraṃ ca hantum
+
+**8.49.100**
+
+tava priyārthaṃ mama jīvitaṃ hi; bravīmi satyaṃ tad avehi rājan iti prāyād upasaṃgṛhya pādau; samutthito dīptatejāḥ kirīṭī nedaṃ cirāt kṣipram idaṃ bhaviṣyaty; āvartate 'sāv abhiyāmi cainam
+
+**8.49.101**
+
+etac chrutvā pāṇḍavo dharmarājo; bhrātur vākyaṃ paruṣaṃ phalgunasya utthāya tasmāc chayanād uvāca; pārthaṃ tato duḥkhaparītacetāḥ
+
+**8.49.102**
+
+kṛtaṃ mayā pārtha yathā na sādhu; yena prāptaṃ vyasanaṃ vaḥ sughoram tasmāc chiraś chinddhi mamedam adya; kulāntakasyādhamapūruṣasya
+
+**8.49.103**
+
+pāpasya pāpavyasanānvitasya; vimūḍhabuddher alasasya bhīroḥ vṛddhāvamantuḥ paruṣasya caiva; kiṃ te ciraṃ mām anuvṛtya rūkṣam
+
+**8.49.104**
+
+gacchāmy ahaṃ vanam evādya pāpaḥ; sukhaṃ bhavān vartatāṃ madvihīnaḥ yogyo rājā bhīmaseno mahātmā; klībasya vā mama kiṃ rājyakṛtyam
+
+**8.49.105**
+
+na cāsmi śaktaḥ paruṣāṇi soḍhuṃ; punas tavemāni ruṣānvitasya bhīmo 'stu rājā mama jīvitena; kiṃ kāryam adyāvamatasya vīra
+
+**8.49.106**
+
+ity evam uktvā sahasotpapāta; rājā tatas tac chayanaṃ vihāya iyeṣa nirgantum atho vanāya; taṃ vāsudevaḥ praṇato 'bhyuvāca
+
+**8.49.107**
+
+rājan viditam etat te yathā gāṇḍīvadhanvanaḥ pratijñā satyasaṃdhasya gāṇḍīvaṃ prati viśrutā
+
+**8.49.108**
+
+brūyād ya evaṃ gāṇḍīvaṃ dehy anyasmai tvam ity uta sa vadhyo 'sya pumāṃl loke tvayā cokto 'yam īdṛśam
+
+**8.49.109**
+
+ataḥ satyāṃ pratijñāṃ tāṃ pārthena parirakṣatā macchandād avamāno 'yaṃ kṛtas tava mahīpate gurūṇām avamāno hi vadha ity abhidhīyate
+
+**8.49.110**
+
+tasmāt tvaṃ vai mahābāho mama pārthasya cobhayoḥ vyatikramam imaṃ rājan saṃkṣamasvārjunaṃ prati
+
+**8.49.111**
+
+śaraṇaṃ tvāṃ mahārāja prapannau sva ubhāv api kṣantum arhasi me rājan praṇatasyābhiyācataḥ
+
+**8.49.112**
+
+rādheyasyādya pāpasya bhūmiḥ pāsyati śoṇitam satyaṃ te pratijānāmi hataṃ viddhy adya sūtajam yasyecchasi vadhaṃ tasya gatam evādya jīvitam
+
+**8.49.113**
+
+iti kṛṣṇavacaḥ śrutvā dharmarājo yudhiṣṭhiraḥ sasaṃbhramaṃ hṛṣīkeśam utthāpya praṇataṃ tadā kṛtāñjalim idaṃ vākyam uvācānantaraṃ vacaḥ
+
+**8.49.114**
+
+evam etad yathāttha tvam asty eṣo 'tikramo mama anunīto 'smi govinda tāritaś cādya mādhava mokṣitā vyasanād ghorād vayam adya tvayācyuta
+
+**8.49.115**
+
+bhavantaṃ nātham āsādya āvāṃ vyasanasāgarāt ghorād adya samuttīrṇāv ubhāv ajñānamohitau
+
+**8.49.116**
+
+tvadbuddhiplavam āsādya duḥkhaśokārṇavād vayam samuttīrṇāḥ sahāmātyāḥ sanāthāḥ sma tvayācyuta
+
+**8.50.1**
+
+saṃjaya uvāca iti sma kṛṣṇavacanāt pratyuccārya yudhiṣṭhiram babhūva vimanāḥ pārthaḥ kiṃ cit kṛtveva pātakam
+
+**8.50.2**
+
+tato 'bravīd vāsudevaḥ prahasann iva pāṇḍavam kathaṃ nāma bhaved etad yadi tvaṃ pārtha dharmajam asinā tīkṣṇadhāreṇa hanyā dharme vyavasthitam
+
+**8.50.3**
+
+tvam ity uktvaiva rājānam evaṃ kaśmalam āviśaḥ hatvā tu nṛpatiṃ pārtha akariṣyaḥ kim uttaram evaṃ sudurvido dharmo mandaprajñair viśeṣataḥ
+
+**8.50.4**
+
+sa bhavān dharmabhīrutvād dhruvam aiṣyan mahattamaṃ narakaṃ ghorarūpaṃ ca bhrātur jyeṣṭhasya vai vadhāt
+
+**8.50.5**
+
+sa tvaṃ dharmabhṛtāṃ śreṣṭhaṃ rājānaṃ dharmasaṃhitam prasādaya kuruśreṣṭham etad atra mataṃ mama
+
+**8.50.6**
+
+prasādya bhaktyā rājānaṃ prītaṃ caiva yudhiṣṭhiram prayāmas tvaritā yoddhuṃ sūtaputrarathaṃ prati
+
+**8.50.7**
+
+hatvā sudurjayaṃ karṇaṃ tvam adya niśitaiḥ śaraiḥ vipulāṃ prītim ādhatsva dharmaputrasya mānada
+
+**8.50.8**
+
+etad atra mahābāho prāptakālaṃ mataṃ mama evaṃ kṛte kṛtaṃ caiva tava kāryaṃ bhaviṣyati
+
+**8.50.9**
+
+tato 'rjuno mahārāja lajjayā vai samanvitaḥ dharmarājasya caraṇau prapede śirasānagha
+
+**8.50.10**
+
+uvāca bharataśreṣṭha prasīdeti punaḥ punaḥ kṣamasva rājan yat proktaṃ dharmakāmena bhīruṇā
+
+**8.50.11**
+
+pādayoḥ patitaṃ dṛṣṭvā dharmarājo yudhiṣṭhiraḥ dhanaṃjayam amitraghnaṃ rudantaṃ bharatarṣabha
+
+**8.50.12**
+
+utthāpya bhrātaraṃ rājā dharmarājo dhanaṃjayam samāśliṣya ca sasnehaṃ praruroda mahīpatiḥ
+
+**8.50.13**
+
+ruditvā tu ciraṃ kālaṃ bhrātarau sumahādyutī kṛtaśaucau naravyāghrau prītimantau babhūvatuḥ
+
+**8.50.14**
+
+tata āśliṣya sa premṇā mūrdhni cāghrāya pāṇḍavam prītyā paramayā yuktaḥ prasmayaṃś cābravīj jayam
+
+**8.50.15**
+
+karṇena me mahābāho sarvasainyasya paśyataḥ kavacaṃ ca dhvajaś caiva dhanuḥ śaktir hayā gadā śaraiḥ kṛttā maheṣvāsa yatamānasya saṃyuge
+
+**8.50.16**
+
+so 'haṃ jñātvā raṇe tasya karma dṛṣṭvā ca phalguna vyavasīdāmi duḥkhena na ca me jīvitaṃ priyam
+
+**8.50.17**
+
+tam adya yadi vai vīra na haniṣyasi sūtajam prāṇān eva parityakṣye jīvitārtho hi ko mama
+
+**8.50.18**
+
+evam uktaḥ pratyuvāca vijayo bharatarṣabha satyena te śape rājan prasādena tavaiva ca bhīmena ca naraśreṣṭha yamābhyāṃ ca mahīpate
+
+**8.50.19**
+
+yathādya samare karṇaṃ haniṣyāmi hato 'tha vā mahītale patiṣyāmi satyenāyudham ālabhe
+
+**8.50.20**
+
+evam ābhāṣya rājānam abravīn mādhavaṃ vacaḥ adya karṇaṃ raṇe kṛṣṇa sūdayiṣye na saṃśayaḥ tad anudhyāhi bhadraṃ te vadhaṃ tasya durātmanaḥ
+
+**8.50.21**
+
+evam ukto 'bravīt pārthaṃ keśavo rājasattama śakto 'smi bharataśreṣṭha yatnaṃ kartuṃ yathābalam
+
+**8.50.22**
+
+evaṃ cāpi hi me kāmo nityam eva mahāratha kathaṃ bhavān raṇe karṇaṃ nihanyād iti me matiḥ
+
+**8.50.23**
+
+bhūyaś covāca matimān mādhavo dharmanandanam yudhiṣṭhiremaṃ bībhatsuṃ tvaṃ sāntvayitum arhasi anujñātuṃ ca karṇasya vadhāyādya durātmanaḥ
+
+**8.50.24**
+
+śrutvā hy ayam ahaṃ caiva tvāṃ karṇaśarapīḍitam pravṛttiṃ jñātum āyātāv iha pāṇḍavanandana
+
+**8.50.25**
+
+diṣṭyāsi rājan nirujo diṣṭyā na grahaṇaṃ gataḥ parisāntvaya bībhatsuṃ jayam āśādhi cānagha
+
+**8.50.26**
+
+yudhiṣṭhira uvāca ehy ehi pārtha bībhatso māṃ pariṣvaja pāṇḍava vaktavyam ukto 'smy ahitaṃ tvayā kṣāntaṃ ca tan mayā
+
+**8.50.27**
+
+ahaṃ tvām anujānāmi jahi karṇaṃ dhanaṃjaya manyuṃ ca mā kṛthāḥ pārtha yan mayokto 'si dāruṇam
+
+**8.50.28**
+
+saṃjaya uvāca tato dhanaṃjayo rājañ śirasā praṇatas tadā pādau jagrāha pāṇibhyāṃ bhrātur jyeṣṭhasya māriṣa
+
+**8.50.29**
+
+samutthāpya tato rājā pariṣvajya ca pīḍitam mūrdhny upāghrāya caivainam idaṃ punar uvāca ha
+
+**8.50.30**
+
+dhanaṃjaya mahābāho mānito 'smi dṛḍhaṃ tvayā māhātmyaṃ vijayaṃ caiva bhūyaḥ prāpnuhi śāśvatam
+
+**8.50.31**
+
+arjuna uvāca adya taṃ pāpakarmāṇaṃ sānubandhaṃ raṇe śaraiḥ nayāmy antaṃ samāsādya rādheyaṃ balagarvitam
+
+**8.50.32**
+
+yena tvaṃ pīḍito bāṇair dṛḍham āyamya kārmukam tasyādya karmaṇaḥ karṇaḥ phalaṃ prāpsyati dāruṇam
+
+**8.50.33**
+
+adya tvām aham eṣyāmi karṇaṃ hatvā mahīpate sabhājayitum ākrandād iti satyaṃ bravīmi te
+
+**8.50.34**
+
+nāhatvā vinivarte 'haṃ karṇam adya raṇājirāt iti satyena te pādau spṛśāmi jagatīpate
+
+**8.50.35**
+
+saṃjaya uvāca prasādya dharmarājānaṃ prahṛṣṭenāntarātmanā pārthaḥ provāca govindaṃ sūtaputravadhodyataḥ
+
+**8.50.36**
+
+kalpyatāṃ ca ratho bhūyo yujyantāṃ ca hayottamāḥ āyudhāni ca sarvāṇi sajjyantāṃ vai mahārathe
+
+**8.50.37**
+
+upāvṛttāś ca turagāḥ śikṣitāś cāśvasādinaḥ rathopakaraṇaiḥ sarvair upāyāntu tvarānvitāḥ
+
+**8.50.38**
+
+evam ukte mahārāja phalgunena mahātmanā uvāca dārukaṃ kṛṣṇaḥ kuru sarvaṃ yathābravīt arjuno bharataśreṣṭhaḥ śreṣṭhaḥ sarvadhanuṣmatām
+
+**8.50.39**
+
+ājñaptas tv atha kṛṣṇena dāruko rājasattama yojayām āsa sa rathaṃ vaiyāghraṃ śatrutāpanam
+
+**8.50.40**
+
+yuktaṃ tu ratham āsthāya dārukeṇa mahātmanā āpṛcchya dharmarājānaṃ brāhmaṇān svasti vācya ca samaṅgalasvastyayanam āruroha rathottamam
+
+**8.50.41**
+
+tasya rājā mahāprājño dharmarājo yudhiṣṭhiraḥ āśiṣo 'yuṅkta paramā yuktāḥ karṇavadhaṃ prati
+
+**8.50.42**
+
+taṃ prayāntaṃ maheṣvāsaṃ dṛṣṭvā bhūtāni bhārata nihataṃ menire karṇaṃ pāṇḍavena mahātmanā
+
+**8.50.43**
+
+babhūvur vimalāḥ sarvā diśo rājan samantataḥ cāṣāś ca śatapatrāś ca krauñcāś caiva janeśvara pradakṣiṇam akurvanta tadā vai pāṇḍunandanam
+
+**8.50.44**
+
+bahavaḥ pakṣiṇo rājan puṃnāmānaḥ śubhāḥ śivāḥ tvarayanto 'rjunaṃ yuddhe hṛṣṭarūpā vavāśire
+
+**8.50.45**
+
+kaṅkā gṛdhrā vaḍāś caiva vāyasāś ca viśāṃ pate agratas tasya gacchanti bhakṣyahetor bhayānakāḥ
+
+**8.50.46**
+
+nimittāni ca dhanyāni pārthasya praśaśaṃsire vināśam arisainyānāṃ karṇasya ca vadhaṃ tathā
+
+**8.50.47**
+
+prayātasyātha pārthasya mahān svedo vyajāyata cintā ca vipulā jajñe kathaṃ nv etad bhaviṣyati
+
+**8.50.48**
+
+tato gāṇḍīvadhanvānam abravīn madhusūdanaḥ dṛṣṭvā pārthaṃ tadāyastaṃ cintāparigataṃ tadā
+
+**8.50.49**
+
+gāṇḍīvadhanvan saṃgrāme ye tvayā dhanuṣā jitāḥ na teṣāṃ mānuṣo jetā tvad anya iha vidyate
+
+**8.50.50**
+
+dṛṣṭā hi bahavaḥ śūrāḥ śakratulyaparākramāḥ tvāṃ prāpya samare vīraṃ ye gatāḥ paramāṃ gatim
+
+**8.50.51**
+
+ko hi droṇaṃ ca bhīṣmaṃ ca bhagadattaṃ ca māriṣa vindānuvindāv āvantyau kāmbojaṃ ca sudakṣiṇam
+
+**8.50.52**
+
+śrutāyuṣaṃ mahāvīryam acyutāyuṣam eva ca pratyudgamya bhavet kṣemī yo na syāt tvam iva kṣamī
+
+**8.50.53**
+
+tava hy astrāṇi divyāni lāghavaṃ balam eva ca vedhaḥ pātaś ca lakṣaś ca yogaś caiva tavārjuna asaṃmohaś ca yuddheṣu vijñānasya ca saṃnatiḥ
+
+**8.50.54**
+
+bhavān devāsurān sarvān hanyāt sahacarācarān pṛthivyāṃ hi raṇe pārtha na yoddhā tvatsamaḥ pumān
+
+**8.50.55**
+
+dhanurgrahā hi ye ke cit kṣatriyā yuddhadurmadāḥ ā devāt tvatsamaṃ teṣāṃ na paśyāmi śṛṇomi vā
+
+**8.50.56**
+
+brahmaṇā ca prajāḥ sṛṣṭā gāṇḍīvaṃ ca mahādbhutam yena tvaṃ yudhyase pārtha tasmān nāsti tvayā samaḥ
+
+**8.50.57**
+
+avaśyaṃ tu mayā vācyaṃ yat pathyaṃ tava pāṇḍava māvamaṃsthā mahābāho karṇam āhavaśobhinam
+
+**8.50.58**
+
+karṇo hi balavān dhṛṣṭaḥ kṛtāstraś ca mahārathaḥ kṛtī ca citrayodhī ca deśe kāle ca kovidaḥ
+
+**8.50.59**
+
+tejasā vahnisadṛśo vāyuvegasamo jave antakapratimaḥ krodhe siṃhasaṃhanano balī
+
+**8.50.60**
+
+ayoratnir mahābāhur vyūḍhoraskaḥ sudurjayaḥ atimānī ca śūraś ca pravīraḥ priyadarśanaḥ
+
+**8.50.61**
+
+sarvair yodhaguṇair yukto mitrāṇām abhayaṃkaraḥ satataṃ pāṇḍavadveṣī dhārtarāṣṭrahite rataḥ
+
+**8.50.62**
+
+sarvair avadhyo rādheyo devair api savāsavaiḥ ṛte tvām iti me buddhis tvam adya jahi sūtajam
+
+**8.50.63**
+
+devair api hi saṃyattair bibhradbhir māṃsaśoṇitam aśakyaḥ samare jetuṃ sarvair api yuyutsubhiḥ
+
+**8.50.64**
+
+durātmānaṃ pāpamatiṃ nṛśaṃsaṃ; duṣṭaprajñaṃ pāṇḍaveyeṣu nityam hīnasvārthaṃ pāṇḍaveyair virodhe; hatvā karṇaṃ dhiṣṭhitārtho bhavādya
+
+**8.50.65**
+
+vīraṃ manyata ātmānaṃ yena pāpaḥ suyodhanaḥ tam adya mūlaṃ pāpānāṃ jaya sautiṃ dhanaṃjaya
+
+**8.51.1**
+
+saṃjaya uvāca tataḥ punar ameyātmā keśavo 'rjunam abravīt kṛtasaṃkalpam āyastaṃ vadhe karṇasya sarvaśaḥ
+
+**8.51.2**
+
+adya saptadaśāhāni vartamānasya bhārata vināśasyātighorasya naravāraṇavājinām
+
+**8.51.3**
+
+bhūtvā hi vipulā senā tāvakānāṃ paraiḥ saha anyonyaṃ samare prāpya kiṃciccheṣā viśāṃ pate
+
+**8.51.4**
+
+bhūtvā hi kauravāḥ pārtha prabhūtagajavājinaḥ tvāṃ vai śatruṃ samāsādya vinaṣṭā raṇamūrdhani
+
+**8.51.5**
+
+ete ca sarve pāñcālāḥ sṛñjayāś ca sahānvayāḥ tvāṃ samāsādya durdharṣaṃ pāṇḍavāś ca vyavasthitāḥ
+
+**8.51.6**
+
+pāñcālaiḥ pāṇḍavair matsyaiḥ kārūṣaiś cedikekayaiḥ tvayā guptair amitraghna kṛtaḥ śatrugaṇakṣayaḥ
+
+**8.51.7**
+
+ko hi śakto raṇe jetuṃ kauravāṃs tāta saṃgatān anyatra pāṇḍavān yuddhe tvayā guptān mahārathān
+
+**8.51.8**
+
+tvaṃ hi śakto raṇe jetuṃ sasurāsuramānuṣān trīṃl lokān samam udyuktān kiṃ punaḥ kauravaṃ balam
+
+**8.51.9**
+
+bhagadattaṃ hi rājānaṃ ko 'nyaḥ śaktas tvayā vinā jetuṃ puruṣaśārdūla yo 'pi syād vāsavopamaḥ
+
+**8.51.10**
+
+tathemāṃ vipulāṃ senāṃ guptāṃ pārtha tvayānagha na śekuḥ pārthivāḥ sarve cakṣurbhir abhivīkṣitum
+
+**8.51.11**
+
+tathaiva satataṃ pārtha rakṣitābhyāṃ tvayā raṇe dhṛṣṭadyumnaśikhaṇḍibhyāṃ bhīṣmadroṇau nipātitau
+
+**8.51.12**
+
+ko hi śakto raṇe pārtha pāñcālānāṃ mahārathau bhīṣmadroṇau yudhā jetuṃ śakratulyaparākramau
+
+**8.51.13**
+
+ko hi śāṃtanavaṃ saṃkhye droṇaṃ vaikartanaṃ kṛpam drauṇiṃ ca saumadattiṃ ca kṛtavarmāṇam eva ca saindhavaṃ madrarājaṃ ca rājānaṃ ca suyodhanam
+
+**8.51.14**
+
+vīrān kṛtāstrān samare sarvān evānuvartinaḥ akṣauhiṇīpatīn ugrān saṃrabdhān yuddhadurmadān
+
+**8.51.15**
+
+śreṇyaś ca bahulāḥ kṣīṇāḥ pradīrṇāśvarathadvipāḥ nānājanapadāś cogrāḥ kṣatriyāṇām amarṣiṇām
+
+**8.51.16**
+
+govāsadāsamīyānāṃ vasātīnāṃ ca bhārata vrātyānāṃ vāṭadhānānāṃ bhojānāṃ cāpi māninām
+
+**8.51.17**
+
+udīrṇāś ca mahāsenā brahmakṣatrasya bhārata tvāṃ samāsādya nidhanaṃ gatāḥ sāśvarathadvipāḥ
+
+**8.51.18**
+
+ugrāś ca krūrakarmāṇas tukhārā yavanāḥ khaśāḥ dārvābhisārā daradāḥ śakā ramaṭhataṅgaṇāḥ
+
+**8.51.19**
+
+andhrakāś ca pulindāś ca kirātāś cogravikramāḥ mlecchāś ca pārvatīyāś ca sāgarānūpavāsinaḥ saṃrambhiṇo yuddhaśauṇḍā balino dṛbdhapāṇayaḥ
+
+**8.51.20**
+
+ete suyodhanasyārthe saṃrabdhāḥ kurubhiḥ saha na śakyā yudhi nirjetuṃ tvad anyena paraṃtapa
+
+**8.51.21**
+
+dhārtarāṣṭram udagraṃ hi vyūḍhaṃ dṛṣṭvā mahābalam yasya tvaṃ na bhaves trātā pratīyāt ko nu mānavaḥ
+
+**8.51.22**
+
+tat sāgaram ivoddhūtaṃ rajasā saṃvṛtaṃ balam vidārya pāṇḍavaiḥ kruddhais tvayā guptair hataṃ vibho
+
+**8.51.23**
+
+māgadhānām adhipatir jayatseno mahābalaḥ adya saptaiva cāhāni hataḥ saṃkhye 'bhimanyunā
+
+**8.51.24**
+
+tato daśa sahasrāṇi gajānāṃ bhīmakarmaṇām jaghāna gadayā bhīmas tasya rājñaḥ paricchadam tato 'nye 'pi hatā nāgā rathāś ca śataśo balāt
+
+**8.51.25**
+
+tad evaṃ samare tāta vartamāne mahābhaye bhīmasenaṃ samāsādya tvāṃ ca pāṇḍava kauravāḥ savājirathanāgāś ca mṛtyulokam ito gatāḥ
+
+**8.51.26**
+
+tathā senāmukhe tatra nihate pārtha pāṇḍavaiḥ bhīṣmaḥ prāsṛjad ugrāṇi śaravarṣāṇi māriṣa
+
+**8.51.27**
+
+sa cedikāśipāñcālān karūṣān matsyakekayān śaraiḥ pracchādya nidhanam anayat paruṣāstravit
+
+**8.51.28**
+
+tasya cāpacyutair bāṇaiḥ paradehavidāraṇaiḥ pūrṇam ākāśam abhavad rukmapuṅkhair ajihmagaiḥ
+
+**8.51.29**
+
+gatyā daśamyā te gatvā jaghnur vājirathadvipān hitvā nava gatīr duṣṭāḥ sa bāṇān vyāyato 'mucat
+
+**8.51.30**
+
+dināni daśa bhīṣmeṇa nighnatā tāvakaṃ balam śūnyāḥ kṛtā rathopasthā hatāś ca gajavājinaḥ
+
+**8.51.31**
+
+darśayitvātmano rūpaṃ rudropendrasamaṃ yudhi pāṇḍavānām anīkāni pravigāhya vyaśātayat
+
+**8.51.32**
+
+vinighnan pṛthivīpālāṃś cedipāñcālakekayān vyadahat pāṇḍavīṃ senāṃ narāśvagajasaṃkulām
+
+**8.51.33**
+
+majjantam aplave mandam ujjihīrṣuḥ suyodhanam tathā carantaṃ samare tapantam iva bhāskaram na śekuḥ sṛñjayā draṣṭuṃ tathaivānye mahīkṣitaḥ
+
+**8.51.34**
+
+vicarantaṃ tathā taṃ tu saṃgrāme jitakāśinam sarvodyogena sahasā pāṇḍavāḥ samupādravan
+
+**8.51.35**
+
+sa tu vidrāvya samare pāṇḍavān sṛñjayān api eka eva raṇe bhīṣma ekavīratvam āgataḥ
+
+**8.51.36**
+
+taṃ śikhaṇḍī samāsādya tvayā gupto mahāratham jaghāna puruṣavyāghraṃ śaraiḥ saṃnataparvabhiḥ
+
+**8.51.37**
+
+sa eṣa patitaḥ śete śaratalpe pitāmahaḥ tvāṃ prāpya puruṣavyāghra gṛdhraḥ prāpyeva vāyasam
+
+**8.51.38**
+
+droṇaḥ pañca dināny ugro vidhamya ripuvāhinīḥ kṛtvā vyūhaṃ mahāyuddhe pātayitvā mahārathān
+
+**8.51.39**
+
+jayadrathasya samare kṛtvā rakṣāṃ mahārathaḥ antakapratimaś cogrāṃ rātriṃ yuddhvādahat prajāḥ
+
+**8.51.40**
+
+adyeti dve dine vīro bhāradvājaḥ pratāpavān dhṛṣṭadyumnaṃ samāsādya sa gataḥ paramāṃ gatim
+
+**8.51.41**
+
+yadi caiva parān yuddhe sūtaputramukhān rathān nāvārayiṣyaḥ saṃgrāme na sma droṇo vyanaṅkṣyata
+
+**8.51.42**
+
+bhavatā tu balaṃ sarvaṃ dhārtarāṣṭrasya vāritam tato droṇo hato yuddhe pārṣatena dhanaṃjaya
+
+**8.51.43**
+
+ka ivānyo raṇe kuryāt tvad anyaḥ kṣatriyo yudhi yādṛśaṃ te kṛtaṃ pārtha jayadrathavadhaṃ prati
+
+**8.51.44**
+
+nivārya senāṃ mahatīṃ hatvā śūrāṃś ca pārthivān nihataḥ saindhavo rājā tvayāstrabalatejasā
+
+**8.51.45**
+
+āścaryaṃ sindhurājasya vadhaṃ jānanti pārthivāḥ anāścaryaṃ hi tat tvattas tvaṃ hi pārtha mahārathaḥ
+
+**8.51.46**
+
+tvāṃ hi prāpya raṇe kṣatram ekāhād iti bhārata tapyamānam asaṃyuktaṃ na bhaved iti me matiḥ
+
+**8.51.47**
+
+seyaṃ pārtha camūr ghorā dhārtarāṣṭrasya saṃyuge hatā sasarvavīrā hi bhīṣmadroṇau yadā hatau
+
+**8.51.48**
+
+śīrṇapravarayodhādya hatavājinaradvipā hīnā sūryendunakṣatrair dyaur ivābhāti bhāratī
+
+**8.51.49**
+
+vidhvastā hi raṇe pārtha seneyaṃ bhīmavikramāt āsurīva purā senā śakrasyeva parākramaiḥ
+
+**8.51.50**
+
+teṣāṃ hatāvaśiṣṭās tu pañca santi mahārathāḥ aśvatthāmā kṛtavarmā karṇo madrādhipaḥ kṛpaḥ
+
+**8.51.51**
+
+tāṃs tvam adya naravyāghra hatvā pañca mahārathān hatāmitraḥ prayacchorvīṃ rājñaḥ sadvīpapattanām
+
+**8.51.52**
+
+sākāśajalapātālāṃ saparvatamahāvanām prāpnotv amitavīryaśrīr adya pārtho vasuṃdharām
+
+**8.51.53**
+
+etāṃ purā viṣṇur iva hatvā daiteyadānavān prayaccha medinīṃ rājñe śakrāyeva yathā hariḥ
+
+**8.51.54**
+
+adya modantu pāñcālā nihateṣv ariṣu tvayā viṣṇunā nihateṣv eva dānaveyeṣu devatāḥ
+
+**8.51.55**
+
+yadi vā dvipadāṃ śreṣṭha droṇaṃ mānayato gurum aśvatthāmni kṛpā te 'sti kṛpe cācāryagauravāt
+
+**8.51.56**
+
+atyantopacitān vā tvaṃ mānayan bhrātṛbāndhavān kṛtavarmāṇam āsādya na neṣyasi yamakṣayam
+
+**8.51.57**
+
+bhrātaraṃ mātur āsādya śalyaṃ madrajanādhipam yadi tvam aravindākṣa dayāvān na jighāṃsasi
+
+**8.51.58**
+
+imaṃ pāpamatiṃ kṣudram atyantaṃ pāṇḍavān prati karṇam adya naraśreṣṭha jahy āśu niśitaiḥ śaraiḥ
+
+**8.51.59**
+
+etat te sukṛtaṃ karma nātra kiṃ cin na yujyate vayam apy atra jānīmo nātra doṣo 'sti kaś cana
+
+**8.51.60**
+
+dahane yat saputrāyā niśi mātus tavānagha dyūtārthe yac ca yuṣmāsu prāvartata suyodhanaḥ tatra sarvatra duṣṭātmā karṇo mūlam ihārjuna
+
+**8.51.61**
+
+karṇād dhi manyate trāṇaṃ nityam eva suyodhanaḥ tato mām api saṃrabdho nigrahītuṃ pracakrame
+
+**8.51.62**
+
+sthirā buddhir narendrasya dhārtarāṣṭrasya mānada karṇaḥ pārthān raṇe sarvān vijeṣyati na saṃśayaḥ
+
+**8.51.63**
+
+karṇam āśritya kaunteya dhārtarāṣṭreṇa vigrahaḥ rocito bhavatā sārdhaṃ jānatāpi balaṃ tava
+
+**8.51.64**
+
+karṇo hi bhāṣate nityam ahaṃ pārthān samāgatān vāsudevaṃ sarājānaṃ vijeṣyāmi mahāraṇe
+
+**8.51.65**
+
+protsāhayan durātmānaṃ dhārtarāṣṭraṃ sudurmatiḥ samitau garjate karṇas tam adya jahi bhārata
+
+**8.51.66**
+
+yac ca yuṣmāsu pāpaṃ vai dhārtarāṣṭraḥ prayuktavān tatra sarvatra duṣṭātmā karṇaḥ pāpamatir mukham
+
+**8.51.67**
+
+yac ca tad dhārtarāṣṭrāṇāṃ krūraiḥ ṣaḍbhir mahārathaiḥ apaśyaṃ nihataṃ vīraṃ saubhadram ṛṣabhekṣaṇam
+
+**8.51.68**
+
+droṇadrauṇikṛpān vīrān kampayanto mahārathān nirmanuṣyāṃś ca mātaṅgān virathāṃś ca mahārathān
+
+**8.51.69**
+
+vyaśvārohāṃś ca turagān pattīn vyāyudhajīvitān kurvantam ṛṣabhaskandhaṃ kuruvṛṣṇiyaśaskaram
+
+**8.51.70**
+
+vidhamantam anīkāni vyathayantaṃ mahārathān manuṣyavājimātaṅgān prahiṇvantaṃ yamakṣayam
+
+**8.51.71**
+
+śaraiḥ saubhadram āyastaṃ dahantam iva vāhinīm tan me dahati gātrāṇi sakhe satyena te śape
+
+**8.51.72**
+
+yat tatrāpi ca duṣṭātmā karṇo 'bhyadruhyata prabho aśaknuvaṃś cābhimanyoḥ karṇaḥ sthātuṃ raṇe 'grataḥ
+
+**8.51.73**
+
+saubhadraśaranirbhinno visaṃjñaḥ śoṇitokṣitaḥ niḥśvasan krodhasaṃdīpto vimukhaḥ sāyakārditaḥ
+
+**8.51.74**
+
+apayānakṛtotsāho nirāśaś cāpi jīvite tasthau suvihvalaḥ saṃkhye prahārajanitaśramaḥ
+
+**8.51.75**
+
+atha droṇasya samare tat kālasadṛśaṃ tadā śrutvā karṇo vacaḥ krūraṃ tataś ciccheda kārmukam
+
+**8.51.76**
+
+tataś chinnāyudhaṃ tena raṇe pañca mahārathāḥ sa caiva nikṛtiprajñaḥ prāvadhīc charavṛṣṭibhiḥ
+
+**8.51.77**
+
+yac ca karṇo 'bravīt kṛṣṇāṃ sabhāyāṃ paruṣaṃ vacaḥ pramukhe pāṇḍaveyānāṃ kurūṇāṃ ca nṛśaṃsavat
+
+**8.51.78**
+
+vinaṣṭāḥ pāṇḍavāḥ kṛṣṇe śāśvataṃ narakaṃ gatāḥ patim anyaṃ pṛthuśroṇi vṛṇīṣva mitabhāṣiṇi
+
+**8.51.79**
+
+lekhābhru dhṛtarāṣṭrasya dāsī bhūtvā niveśanam praviśārālapakṣmākṣi na santi patayas tava
+
+**8.51.80**
+
+ity uktavān adharmajñas tadā paramadurmatiḥ pāpaḥ pāpaṃ vacaḥ karṇaḥ śṛṇvatas tava bhārata
+
+**8.51.81**
+
+tasya pāpasya tad vākyaṃ suvarṇavikṛtāḥ śarāḥ śamayantu śilādhautās tvayāstā jīvitacchidaḥ
+
+**8.51.82**
+
+yāni cānyāni duṣṭātmā pāpāni kṛtavāṃs tvayi tāny adya jīvitaṃ cāsya śamayantu śarās tava
+
+**8.51.83**
+
+gāṇḍīvaprahitān ghorān adya gātraiḥ spṛśañ śarān karṇaḥ smaratu duṣṭātmā vacanaṃ droṇabhīṣmayoḥ
+
+**8.51.84**
+
+suvarṇapuṅkhā nārācāḥ śatrughnā vaidyutaprabhāḥ tvayāstās tasya marmāṇi bhittvā pāsyanti śoṇitam
+
+**8.51.85**
+
+ugrās tvadbhujanirmuktā marma bhittvā śitāḥ śarāḥ adya karṇaṃ mahāvegāḥ preṣayantu yamakṣayam
+
+**8.51.86**
+
+adya hāhākṛtā dīnā viṣaṇṇās tvaccharārditāḥ prapatantaṃ rathāt karṇaṃ paśyantu vasudhādhipāḥ
+
+**8.51.87**
+
+adya svaśoṇite magnaṃ śayānaṃ patitaṃ bhuvi apaviddhāyudhaṃ karṇaṃ paśyantu suhṛdo nijāḥ
+
+**8.51.88**
+
+hastikakṣyo mahān asya bhallenonmathitas tvayā prakampamānaḥ patatu bhūmāv ādhirather dhvajaḥ
+
+**8.51.89**
+
+tvayā śaraśataiś chinnaṃ rathaṃ hemavibhūṣitam hatayodhaṃ samutsṛjya bhītaḥ śalyaḥ palāyatām
+
+**8.51.90**
+
+tataḥ suyodhano dṛṣṭvā hatam ādhirathiṃ tvayā nirāśo jīvite tv adya rājye caiva dhanaṃjaya
+
+**8.51.91**
+
+ete dravanti pāñcālā vadhyamānāḥ śitaiḥ śaraiḥ karṇena bharataśreṣṭha pāṇḍavān ujjihīrṣavaḥ
+
+**8.51.92**
+
+pāñcālān draupadeyāṃś ca dhṛṣṭadyumnaśikhaṇḍinau dhṛṣṭadyumnatanūjāṃś ca śatānīkaṃ ca nākulim
+
+**8.51.93**
+
+nakulaṃ sahadevaṃ ca durmukhaṃ janamejayam suvarmāṇaṃ sātyakiṃ ca viddhi karṇavaśaṃ gatān
+
+**8.51.94**
+
+abhyāhatānāṃ karṇena pāñcālānāṃ mahāraṇe śrūyate ninado ghoras tvadbandhūnāṃ paraṃtapa
+
+**8.51.95**
+
+na tv eva bhītāḥ pāñcālāḥ kathaṃ cit syuḥ parāṅmukhāḥ na hi mṛtyuṃ maheṣvāsā gaṇayanti mahārathāḥ
+
+**8.51.96**
+
+ya ekaḥ pāṇḍavīṃ senāṃ śaraughaiḥ samaveṣṭayat taṃ samāsādya pāñcālā bhīṣmaṃ nāsan parāṅmukhāḥ
+
+**8.51.97**
+
+tathā jvalantam astrāgniṃ guruṃ sarvadhanuṣmatām nirdahantaṃ samārohan durdharṣaṃ droṇam ojasā
+
+**8.51.98**
+
+te nityam uditā jetuṃ yuddhe śatrūn ariṃdamāḥ na jātv ādhirather bhītāḥ pāñcālāḥ syuḥ parāṅmukhāḥ
+
+**8.51.99**
+
+teṣām āpatatāṃ śūraḥ pāñcālānāṃ tarasvinām ādatte 'sūñ śaraiḥ karṇaḥ pataṃgānām ivānalaḥ
+
+**8.51.100**
+
+tāṃs tathābhimukhān vīrān mitrārthe tyaktajīvitān kṣayaṃ nayati rādheyaḥ pāñcālāñ śataśo raṇe
+
+**8.51.101**
+
+astraṃ hi rāmāt karṇena bhārgavād ṛṣisattamāt yad upāttaṃ purā ghoraṃ tasya rūpam udīryate
+
+**8.51.102**
+
+tāpanaṃ sarvasainyānāṃ ghorarūpaṃ sudāruṇam samāvṛtya mahāsenāṃ jvalati svena tejasā
+
+**8.51.103**
+
+ete caranti saṃgrāme karṇacāpacyutāḥ śarāḥ bhramarāṇām iva vrātās tāpayantaḥ sma tāvakān
+
+**8.51.104**
+
+ete caranti pāñcālā dikṣu sarvāsu bhārata karṇāstraṃ samare prāpya durnivāram anātmabhiḥ
+
+**8.51.105**
+
+eṣa bhīmo dṛḍhakrodho vṛtaḥ pārtha samantataḥ sṛñjayair yodhayan karṇaṃ pīḍyate sma śitaiḥ śaraiḥ
+
+**8.51.106**
+
+pāṇḍavān sṛñjayāṃś caiva pāñcālāṃś caiva bhārata hanyād upekṣitaḥ karṇo rogo deham ivātataḥ
+
+**8.51.107**
+
+nānyaṃ tvatto 'bhipaśyāmi yodhaṃ yaudhiṣṭhire bale yaḥ samāsādya rādheyaṃ svastimān āvrajed gṛham
+
+**8.51.108**
+
+tam adya niśitair bāṇair nihatya bharatarṣabha yathāpratijñaṃ pārtha tvaṃ kṛtvā kīrtim avāpnuhi
+
+**8.51.109**
+
+tvaṃ hi śakto raṇe jetuṃ sakarṇān api kauravān nānyo yudhi yudhāṃ śreṣṭha satyam etad bravīmi te
+
+**8.51.110**
+
+etat kṛtvā mahat karma hatvā karṇaṃ mahāratham kṛtārthaḥ saphalaḥ pārtha sukhī bhava narottama
+
+**8.52.1**
+
+saṃjaya uvāca sa keśavasya bībhatsuḥ śrutvā bhārata bhāṣitam viśokaḥ saṃprahṛṣṭaś ca kṣaṇena samapadyata
+
+**8.52.2**
+
+tato jyām anumṛjyāśu vyākṣipad gāṇḍivaṃ dhanuḥ dadhre karṇavināśāya keśavaṃ cābhyabhāṣata
+
+**8.52.3**
+
+tvayā nāthena govinda dhruva eṣa jayo mama prasanno yasya me 'dya tvaṃ bhūtabhavyabhavatprabhuḥ
+
+**8.52.4**
+
+tvatsahāyo hy ahaṃ kṛṣṇa trīṃl lokān vai samāgatān prāpayeyaṃ paraṃ lokaṃ kim u karṇaṃ mahāraṇe
+
+**8.52.5**
+
+paśyāmi dravatīṃ senāṃ pāñcālānāṃ janārdana paśyāmi karṇaṃ samare vicarantam abhītavat
+
+**8.52.6**
+
+bhārgavāstraṃ ca paśyāmi vicarantaṃ samantataḥ sṛṣṭaṃ karṇena vārṣṇeya śakreṇeva mahāśanim
+
+**8.52.7**
+
+ayaṃ khalu sa saṃgrāmo yatra kṛṣṇa mayā kṛtam kathayiṣyanti bhūtāni yāvad bhūmir dhariṣyati
+
+**8.52.8**
+
+adya kṛṣṇa vikarṇā me karṇaṃ neṣyanti mṛtyave gāṇḍīvamuktāḥ kṣiṇvanto mama hastapracoditāḥ
+
+**8.52.9**
+
+adya rājā dhṛtarāṣṭraḥ svāṃ buddhim avamaṃsyate duryodhanam arājyārhaṃ yayā rājye 'bhyaṣecayat
+
+**8.52.10**
+
+adya rājyāt sukhāc caiva śriyo rāṣṭrāt tathā purāt putrebhyaś ca mahābāho dhṛtarāṣṭro viyokṣyate
+
+**8.52.11**
+
+adya duryodhano rājā jīvitāc ca nirāśakaḥ bhaviṣyati hate karṇe kṛṣṇa satyaṃ bravīmi te
+
+**8.52.12**
+
+adya dṛṣṭvā mayā karṇaṃ śarair viśakalīkṛtam smaratāṃ tava vākyāni śamaṃ prati janeśvaraḥ
+
+**8.52.13**
+
+adyāsau saubalaḥ kṛṣṇa glahaṃ jānātu vai śarān durodaraṃ ca gāṇḍīvaṃ maṇḍalaṃ ca rathaṃ mama
+
+**8.52.14**
+
+yo 'sau raṇe naraṃ nānyaṃ pṛthivyām abhimanyate tasyādya sūtaputrasya bhūmiḥ pāsyati śoṇitam gāṇḍīvasṛṣṭā dāsyanti karṇasya paramāṃ gatim
+
+**8.52.15**
+
+adya tapsyati rādheyaḥ pāñcālīṃ yat tadābravīt sabhāmadhye vacaḥ krūraṃ kutsayan pāṇḍavān prati
+
+**8.52.16**
+
+ye vai ṣaṇḍhatilās tatra bhavitāro 'dya te tilāḥ hate vaikartane karṇe sūtaputre durātmani
+
+**8.52.17**
+
+ahaṃ vaḥ pāṇḍuputrebhyas trāsyāmīti yad abravīt anṛtaṃ tat kariṣyanti māmakā niśitāḥ śarāḥ
+
+**8.52.18**
+
+hantāhaṃ pāṇḍavān sarvān saputrān iti yo 'bravīt tam adya karṇaṃ hantāsmi miṣatāṃ sarvadhanvinām
+
+**8.52.19**
+
+yasya vīrye samāśvasya dhārtarāṣṭro bṛhanmanāḥ avāmanyata durbuddhir nityam asmān durātmavān tam adya karṇaṃ rādheyaṃ hantāsmi madhusūdana
+
+**8.52.20**
+
+adya karṇe hate kṛṣṇa dhārtarāṣṭrāḥ sarājakāḥ vidravantu diśo bhītāḥ siṃhatrastā mṛgā iva
+
+**8.52.21**
+
+adya duryodhano rājā pṛthivīm anvavekṣatām hate karṇe mayā saṃkhye saputre sasuhṛjjane
+
+**8.52.22**
+
+adya karṇaṃ hataṃ dṛṣṭvā dhārtarāṣṭro 'tyamarṣaṇaḥ jānātu māṃ raṇe kṛṣṇa pravaraṃ sarvadhanvinām
+
+**8.52.23**
+
+adyāham anṛṇaḥ kṛṣṇa bhaviṣyāmi dhanurbhṛtām krodhasya ca kurūṇāṃ ca śarāṇāṃ gāṇḍivasya ca
+
+**8.52.24**
+
+adya duḥkham ahaṃ mokṣye trayodaśasamārjitam hatvā karṇaṃ raṇe kṛṣṇa śambaraṃ maghavān iva
+
+**8.52.25**
+
+adya karṇe hate yuddhe somakānāṃ mahārathāḥ kṛtaṃ kāryaṃ ca manyantāṃ mitrakāryepsavo yudhi
+
+**8.52.26**
+
+na jāne ca kathaṃ prītiḥ śaineyasyādya mādhava bhaviṣyati hate karṇe mayi cāpi jayādhike
+
+**8.52.27**
+
+ahaṃ hatvā raṇe karṇaṃ putraṃ cāsya mahāratham prītiṃ dāsyāmi bhīmasya yamayoḥ sātyaker api
+
+**8.52.28**
+
+dhṛṣṭadyumnaśikhaṇḍibhyāṃ pāñcālānāṃ ca mādhava adhyānṛṇyaṃ gamiṣyāmi hatvā karṇaṃ mahāraṇe
+
+**8.52.29**
+
+adya paśyantu saṃgrāme dhanaṃjayam amarṣaṇam yudhyantaṃ kauravān saṃkhye pātayantaṃ ca sūtajam bhavatsakāśe vakṣye ca punar evātmasaṃstavam
+
+**8.52.30**
+
+dhanurvede matsamo nāsti loke; parākrame vā mama ko 'sti tulyaḥ ko vāpy anyo matsamo 'sti kṣamāyāṃ; tathā krodhe sadṛśo 'nyo na me 'sti
+
+**8.52.31**
+
+ahaṃ dhanuṣmān asurān surāṃś ca; sarvāṇi bhūtāni ca saṃgatāni svabāhuvīryād gamaye parābhavaṃ; matpauruṣaṃ viddhi paraḥ parebhyaḥ
+
+**8.52.32**
+
+śarārciṣā gāṇḍivenāham ekaḥ; sarvān kurūn bāhlikāṃś cābhipatya himātyaye kakṣagato yathāgnis; tahā daheyaṃ sagaṇān prasahya
+
+**8.52.33**
+
+pāṇau pṛṣatkā likhitā mamaite; dhanuś ca savye nihitaṃ sabāṇam pādau ca me sarathau sadhvajau ca; na mādṛśaṃ yuddhagataṃ jayanti
+
+**8.53.1**
+
+saṃjaya uvāca teṣām anīkāni bṛhaddhvajāni; raṇe samṛddhāni samāgatāni garjanti bherīninadonmukhāni; meghair yathā meghagaṇās tapānte
+
+**8.53.2**
+
+mahāgajābhrākulam astratoyaṃ; vāditranemītalaśabdavac ca hiraṇyacitrāyudhavaidyutaṃ ca; mahārathair āvṛtaśabdavac ca
+
+**8.53.3**
+
+tad bhīmavegaṃ rudhiraughavāhi; khaḍgākulaṃ kṣatriyajīvavāhi anārtavaṃ krūram aniṣṭavarṣaṃ; babhūva tat saṃharaṇaṃ prajānām
+
+**8.53.4**
+
+rathān sasūtān sahayān gajāṃś ca; sarvān arīn mṛtyuvaśaṃ śaraughaiḥ ninye hayāṃś caiva tathā sasādīn; padātisaṃghāṃś ca tathaiva pārthaḥ
+
+**8.53.5**
+
+kṛpaḥ śikhaṇḍī ca raṇe sametau; duryodhanaṃ sātyakir abhyagacchata śrutaśravā droṇasutena sārdhaṃ; yudhāmanyuś citrasenena cāpi
+
+**8.53.6**
+
+karṇasya putras tu rathī suṣeṇaṃ; samāgataḥ sṛñjayāṃś cottamaujāḥ gāndhārarājaṃ sahadevaḥ kṣudhārto; maharṣabhaṃ siṃha ivābhyadhāvat
+
+**8.53.7**
+
+śatānīko nākuliḥ karṇaputraṃ; yuvā yuvānaṃ vṛṣasenaṃ śaraughaiḥ samārdayat karṇasutaś ca vīraḥ; pāñcāleyaṃ śaravarṣair anekaiḥ
+
+**8.53.8**
+
+ratharṣabhaḥ kṛtavarmāṇam ārcchan; mādrīputro nakulaś citrayodhī pāñcālānām adhipo yājñaseniḥ; senāpatiṃ karṇam ārcchat sasainyam
+
+**8.53.9**
+
+duḥśāsano bhārata bhāratī ca; saṃśaptakānāṃ pṛtanā samṛddhā bhīmaṃ raṇe śastrabhṛtāṃ variṣṭhaṃ; tadā samārcchat tam asahyavegam
+
+**8.53.10**
+
+karṇātmajaṃ tatra jaghāna śūras; tathācchinac cottamaujāḥ prasahya tasyottamāṅgaṃ nipapāta bhūmau; ninādayad gāṃ ninadena khaṃ ca
+
+**8.53.11**
+
+suṣeṇaśīrṣaṃ patitaṃ pṛthivyāṃ; vilokya karṇo 'tha tadārtarūpaḥ krodhād dhayāṃs tasya rathaṃ dhvajaṃ ca; bāṇaiḥ sudhārair niśitair nyakṛntat
+
+**8.53.12**
+
+sa tūttamaujā niśitaiḥ pṛṣatkair; vivyādha khaḍgena ca bhāsvareṇa pārṣṇiṃ hayāṃś caiva kṛpasya hatvā; śikhaṇḍivāhaṃ sa tato 'bhyarohat
+
+**8.53.13**
+
+kṛpaṃ tu dṛṣṭvā virathaṃ rathastho; naicchac charais tāḍayituṃ śikhaṇḍī taṃ drauṇir āvārya rathaṃ kṛpaṃ sma; samujjahre paṅkagatāṃ yathā gām
+
+**8.53.14**
+
+hiraṇyavarmā niśitaiḥ pṛṣatkais; tavātmajānām anilātmajo vai atāpayat sainyam atīva bhīmaḥ; kāle śucau madhyagato yathārkaḥ
+
+**8.54.1**
+
+saṃjaya uvāca atha tv idānīṃ tumule vimarde; dviṣadbhir eko bahubhiḥ samāvṛtaḥ mahābhaye sārathim ity uvāca; bhīmaś camūṃ vārayan dhārtarāṣṭrīm tvaṃ sārathe yāhi javena vāhair; nayāmy etān dhārtarāṣṭrān yamāya
+
+**8.54.2**
+
+saṃcodito bhīmasenena caivaṃ; sa sārathiḥ putrabalaṃ tvadīyam prāyāt tataḥ sārathir ugravego; yato bhīmas tad balaṃ gantum aicchat
+
+**8.54.3**
+
+tato 'pare nāgarathāśvapattibhiḥ; pratyudyayuḥ kuravas taṃ samantāt bhīmasya vāhāgryam udāravegaṃ; samantato bāṇagaṇair nijaghnuḥ
+
+**8.54.4**
+
+tataḥ śarān āpatato mahātmā; ciccheda bāṇais tapanīyapuṅkhaiḥ te vai nipetus tapanīyapuṅkhā; dvidhā tridhā bhīmaśarair nikṛttāḥ
+
+**8.54.5**
+
+tato rājan nāgarathāśvayūnāṃ; bhīmāhatānāṃ tava rājamadhye ghoro ninādaḥ prababhau narendra; vajrāhatānām iva parvatānām
+
+**8.54.6**
+
+te vadhyamānāś ca narendramukhyā; nirbhinnā vai bhīmasenapravekaiḥ bhīmaṃ samantāt samare 'dhyarohan; vṛkṣaṃ śakuntā iva puṣpahetoḥ
+
+**8.54.7**
+
+tato 'bhipātaṃ tava sainyamadhye; prāduścakre vegam ivāttavegaḥ yathāntakāle kṣapayan didhakṣur; bhūtāntakṛtkāla ivāttadaṇḍaḥ
+
+**8.54.8**
+
+tasyātivegasya raṇe 'tivegaṃ; nāśaknuvan dhārayituṃ tvadīyāḥ vyāttānanasyāpatato yathaiva; kālasya kāle harataḥ prajā vai
+
+**8.54.9**
+
+tato balaṃ bhārata bhāratānāṃ; pradahyamānaṃ samare mahātman bhītaṃ diśo 'kīryata bhīmanunnaṃ; mahānilenābhragaṇo yathaiva
+
+**8.54.10**
+
+tato dhīmān sārathim abravīd balī; sa bhīmasenaḥ punar eva hṛṣṭaḥ sūtābhijānīhi parān svakān vā; rathān dhvajāṃś cāpatataḥ sametān yudhyann ahaṃ nābhijānāmi kiṃ cin; mā sainyaṃ svaṃ chādayiṣye pṛṣatkaiḥ
+
+**8.54.11**
+
+arīn viśokābhinirīkṣya sarvato; manas tu cintā pradunoti me bhṛśam rājāturo nāgamad yat kirīṭī; bahūni duḥkhāny abhijāto 'smi sūta
+
+**8.54.12**
+
+etad duḥkhaṃ sārathe dharmarājo; yan māṃ hitvā yātavāñ śatrumadhye nainaṃ jīvan nāpi jānāmy ajīvan; bībhatsuṃ vā tan mamādyātiduḥkham
+
+**8.54.13**
+
+so 'haṃ dviṣatsainyam udagrakalpaṃ; vināśayiṣye paramapratītaḥ etān nihatyājimadhye sametān; prīto bhaviṣyāmi saha tvayādya
+
+**8.54.14**
+
+sarvāṃs tūṇīrān mārgaṇān vānvavekṣya; kiṃ śiṣṭaṃ syāt sāyakānāṃ rathe me kā vā jātiḥ kiṃ pramāṇaṃ ca teṣāṃ; jñātvā vyaktaṃ tan mamācakṣva sūta
+
+**8.54.15**
+
+viśoka uvāca ṣaṇmārgaṇānām ayutāni vīra; kṣurāś ca bhallāś ca tathāyutākhyāḥ nārācānāṃ dve sahasre tu vīra; trīṇy eva ca pradarāṇāṃ ca pārtha
+
+**8.54.16**
+
+asty āyudhaṃ pāṇḍaveyāvaśiṣṭaṃ; na yad vahec chakaṭaṃ ṣaḍgavīyam etad vidvan muñca sahasraśo 'pi; gadāsibāhudraviṇaṃ ca te 'sti
+
+**8.54.17**
+
+bhīma uvāca sūtādyemaṃ paśya bhīmapramuktaiḥ; saṃbhindadbhiḥ pārthivān āśuvegaiḥ ugrair bāṇair āhavaṃ ghorarūpaṃ; naṣṭādityaṃ mṛtyulokena tulyam
+
+**8.54.18**
+
+adyaiva tad viditaṃ pārthivānāṃ; bhaviṣyati ākumāraṃ ca sūta nimagno vā samare bhīmasena; ekaḥ kurūn vā samare vijetā
+
+**8.54.19**
+
+sarve saṃkhye kuravo niṣpatantu; māṃ vā lokāḥ kīrtayantv ākumāram sarvān ekas tān ahaṃ pātayiṣye; te vā sarve bhīmasenaṃ tudantu
+
+**8.54.20**
+
+āśāstāraḥ karma cāpy uttamaṃ vā; tan me devāḥ kevalaṃ sādhayantu āyātv ihādyārjunaḥ śatrughātī; śakras tūrṇaṃ yajña ivopahūtaḥ
+
+**8.54.21**
+
+īkṣasvaitāṃ bhāratīṃ dīryamāṇām; ete kasmād vidravante narendrāḥ vyaktaṃ dhīmān savyasācī narāgryaḥ; sainyaṃ hy etac chādayaty āśu bāṇaiḥ
+
+**8.54.22**
+
+paśya dhvajāṃś ca dravato viśoka; nāgān hayān pattisaṃghāṃś ca saṃkhye rathān viśīrṇāñ śaraśaktitāḍitān; paśyasvaitān rathinaś caiva sūta
+
+**8.54.23**
+
+āpūryate kauravī cāpy abhīkṣṇaṃ; senā hy asau subhṛśaṃ hanyamānā dhanaṃjayasyāśanitulyavegair; grastā śarair barhisuvarṇavājaiḥ
+
+**8.54.24**
+
+ete dravanti sma rathāśvanāgāḥ; padātisaṃghān avamardayantaḥ saṃmuhyamānāḥ kauravāḥ sarva eva; dravanti nāgā iva dāvabhītāḥ hāhākṛtāś caiva raṇe viśoka; muñcanti nādān vipulān gajendrāḥ
+
+**8.54.25**
+
+viśoka uvāca sarve kāmāḥ pāṇḍava te samṛddhāḥ; kapidhvajo dṛśyate hastisainye nīlād dhanād vidyutam uccarantīṃ; tathāpaśyaṃ visphurad vai dhanus tat
+
+**8.54.26**
+
+kapir hy asau vīkṣyate sarvato vai; dhvajāgram āruhya dhanaṃjayasya divākarābho maṇir eṣa divyo; vibhrājate caiva kirīṭasaṃsthaḥ
+
+**8.54.27**
+
+pārśve bhīmaṃ pāṇḍurābhraprakāśaṃ; paśyemaṃ tvaṃ devadattaṃ sughoṣam abhīśuhastasya janārdanasya; vigāhamānasya camūṃ pareṣām
+
+**8.54.28**
+
+raviprabhaṃ vajranābhaṃ kṣurāntaṃ; pārśve sthitaṃ paśya janārdanasya cakraṃ yaśo vardhayat keśavasya; sadārcitaṃ yadubhiḥ paśya vīra
+
+**8.54.29**
+
+bhīma uvāca dadāmi te grāmavarāṃś caturdaśa; priyākhyāne sārathe suprasannaḥ dasīśataṃ cāpi rathāṃś ca viṃśatiṃ; yad arjunaṃ vedayase viśoka
+
+**8.55.1**
+
+saṃjaya uvāca śrutvā ca rathanirghoṣaṃ siṃhanādaṃ ca saṃyuge arjunaḥ prāha govindaṃ śīghraṃ codaya vājinaḥ
+
+**8.55.2**
+
+arjunasya vacaḥ śrutvā govindo 'rjunam abravīt eṣa gacchāmi sukṣipraṃ yatra bhīmo vyavasthitaḥ
+
+**8.55.3**
+
+āyāntam aśvair himaśaṅkhavarṇaiḥ; suvarṇamuktāmaṇijālanaddhaiḥ jambhaṃ jighāṃsuṃ pragṛhītavajraṃ; jayāya devendram ivogramanyum
+
+**8.55.4**
+
+rathāśvamātaṅgapadātisaṃghā; bāṇasvanair nemikhurasvanaiś ca saṃnādayanto vasudhāṃ diśaś ca; kruddhā nṛsiṃhā jayam abhyudīyuḥ
+
+**8.55.5**
+
+teṣāṃ ca pārthasya mahat tadāsīd; dehāsupāpmakṣapaṇaṃ suyuddham trailokyahetor asurair yathāsīd; devasya viṣṇor jayatāṃ varasya
+
+**8.55.6**
+
+tair astam uccāvacam āyudhaugham; ekaḥ praciccheda kirīṭamālī kṣurārdhacandrair niśitaiś ca bāṇaiḥ; śirāṃsi teṣāṃ bahudhā ca bāhūn
+
+**8.55.7**
+
+chatrāṇi vālavyajanāni ketūn; aśvān rathān pattigaṇān dvipāṃś ca te petur urvyāṃ bahudhā virūpā; vātaprabhagnāni yathā vanāni
+
+**8.55.8**
+
+suvarṇajālāvatatā mahāgajāḥ; savaijayantīdhvajayodhakalpitāḥ suvarṇapuṅkhair iṣubhiḥ samācitāś; cakāśire prajvalitā yathācalāḥ
+
+**8.55.9**
+
+vidārya nāgāṃś ca rathāṃś ca vājinaḥ; śarottamair vāsavavajrasaṃnibhaiḥ drutaṃ yayau karṇajighāṃsayā tathā; yathā marutvān balabhedane purā
+
+**8.55.10**
+
+tataḥ sa puruṣavyāghraḥ sūtasainyam ariṃdama praviveśa mahābāhur makaraḥ sāgaraṃ yathā
+
+**8.55.11**
+
+taṃ dṛṣṭvā tāvakā rājan rathapattisamanvitāḥ gajāśvasādibahulāḥ pāṇḍavaṃ samupādravan
+
+**8.55.12**
+
+tatrābhidravatāṃ pārtham ārāvaḥ sumahān abhūt sāgarasyeva mattasya yathā syāt salilasvanaḥ
+
+**8.55.13**
+
+te tu taṃ puruṣavyāghraṃ vyāghrā iva mahārathāḥ abhyadravanta saṃgrāme tyaktvā prāṇakṛtaṃ bhayam
+
+**8.55.14**
+
+teṣām āpatatāṃ tatra śaravarṣāṇi muñcatām arjuno vyadhamat sainyaṃ mahāvāto ghanān iva
+
+**8.55.15**
+
+te 'rjunaṃ sahitā bhūtvā rathavaṃśaiḥ prahāriṇaḥ abhiyāya maheṣvāsā vivyadhur niśitaiḥ śaraiḥ
+
+**8.55.16**
+
+tato 'rjunaḥ sahasrāṇi rathavāraṇavājinām preṣayām āsa viśikhair yamasya sadanaṃ prati
+
+**8.55.17**
+
+te vadhyamānāḥ samare pārthacāpacyutaiḥ śaraiḥ tatra tatra sma līyante bhaye jāte mahārathāḥ
+
+**8.55.18**
+
+teṣāṃ catuḥśatān vīrān yatamānān mahārathān arjuno niśitair bāṇair anayad yamasādanam
+
+**8.55.19**
+
+te vadhyamānāḥ samare nānāliṅgaiḥ śitaiḥ śaraiḥ arjunaṃ samabhityajya dudruvur vai diśo bhayāt
+
+**8.55.20**
+
+teṣāṃ śabdo mahān āsīd dravatāṃ vāhinīmukhe mahaughasyeva bhadraṃ te girim āsādya dīryataḥ
+
+**8.55.21**
+
+tāṃ tu senāṃ bhṛśaṃ viddhvā drāvayitvārjunaḥ śaraiḥ prāyād abhimukhaḥ pārthaḥ sūtānīkāni māriṣa
+
+**8.55.22**
+
+tasya śabdo mahān āsīt parān abhimukhasya vai garuḍasyeva patataḥ pannagārthe yathā purā
+
+**8.55.23**
+
+taṃ tu śabdam abhiśrutya bhīmaseno mahābalaḥ babhūva paramaprītaḥ pārthadarśanalālasaḥ
+
+**8.55.24**
+
+śrutvaiva pārtham āyāntaṃ bhīmasenaḥ pratāpavān tyaktvā prāṇān mahārāja senāṃ tava mamarda ha
+
+**8.55.25**
+
+sa vāyuvegapratimo vāyuvegasamo jave vāyuvad vyacarad bhīmo vāyuputraḥ pratāpavān
+
+**8.55.26**
+
+tenārdyamānā rājendra senā tava viśāṃ pate vyabhrāmyata mahārāja bhinnā naur iva sāgare
+
+**8.55.27**
+
+tāṃ tu senāṃ tadā bhīmo darśayan pāṇilāghavam śarair avacakartograiḥ preṣayiṣyan yamakṣayam
+
+**8.55.28**
+
+tatra bhārata bhīmasya balaṃ dṛṣṭvātimānuṣam vyatrasyanta raṇe yodhāḥ kālasyeva yugakṣaye
+
+**8.55.29**
+
+tathārditān bhīmabalān bhīmasenena bhārata dṛṣṭvā duryodhano rājā idaṃ vacanam abravīt
+
+**8.55.30**
+
+sainikān sa maheṣvāso yodhāṃś ca bharatarṣabha samādiśad raṇe sarvān hata bhīmam iti sma ha tasmin hate hataṃ manye sarvasainyam aśeṣataḥ
+
+**8.55.31**
+
+pratigṛhya ca tām ājñāṃ tava putrasya pārthivāḥ bhīmaṃ pracchādayām āsuḥ śaravarṣaiḥ samantataḥ
+
+**8.55.32**
+
+gajāś ca bahulā rājan narāś ca jayagṛddhinaḥ rathā hayāś ca rājendra parivavrur vṛkodaram
+
+**8.55.33**
+
+sa taiḥ parivṛtaḥ śūraiḥ śūro rājan samantataḥ śuśubhe bharataśreṣṭha nakṣatrair iva candramāḥ
+
+**8.55.34**
+
+sa rarāja tathā saṃkhye darśanīyo narottamaḥ nirviśeṣaṃ mahārāja yathā hi vijayas tathā
+
+**8.55.35**
+
+tatra te pārthivāḥ sarve śaravṛṣṭīḥ samāsṛjan krodharaktekṣaṇāḥ krūrā hantukāmā vṛkodaram
+
+**8.55.36**
+
+sa vidārya mahāsenāṃ śaraiḥ saṃnataparvabhiḥ niścakrāma raṇād bhīmo matsyo jālād ivāmbhasi
+
+**8.55.37**
+
+hatvā daśa sahasrāṇi gajānām anivartinām nṛṇāṃ śatasahasre dve dve śate caiva bhārata
+
+**8.55.38**
+
+pañca cāśvasahasrāṇi rathānāṃ śatam eva ca hatvā prāsyandayad bhīmo nadīṃ śoṇitakardamām
+
+**8.55.39**
+
+śoṇitodāṃ rathāvartāṃ hastigrāhasamākulām naramīnām aśvanakrāṃ keśaśaivalaśādvalām
+
+**8.55.40**
+
+saṃchinnabhujanāgendrāṃ bahuratnāpahāriṇīm ūrugrāhāṃ majjapaṅkāṃ śīrṣopalasamākulām
+
+**8.55.41**
+
+dhanuṣkāśāṃ śarāvāpāṃ gadāparighaketanām yodhavrātavatīṃ saṃkhye vahantīṃ yamasādanam
+
+**8.55.42**
+
+kṣaṇena puruṣavyāghraḥ prāvartayata nimnagām yathā vaitaraṇīm ugrāṃ dustarām akṛtātmabhiḥ
+
+**8.55.43**
+
+yato yataḥ pāṇḍaveyaḥ pravṛtto rathasattamaḥ tatas tato 'pātayata yodhāñ śatasahasraśaḥ
+
+**8.55.44**
+
+evaṃ dṛṣṭvā kṛtaṃ karma bhīmasenena saṃyuge duryodhano mahārāja śakuniṃ vākyam abravīt
+
+**8.55.45**
+
+jaya mātula saṃgrāme bhīmasenaṃ mahābalam asmiñ jite jitaṃ manye pāṇḍaveyaṃ mahābalam
+
+**8.55.46**
+
+tataḥ prāyān mahārāja saubaleyaḥ pratāpavān raṇāya mahate yukto bhrātṛbhiḥ parivāritaḥ
+
+**8.55.47**
+
+sa samāsādya saṃgrāme bhīmaṃ bhīmaparākramam vārayām āsa taṃ vīro veleva makarālayam sa nyavartata taṃ bhīmo vāryamāṇaḥ śitaiḥ śaraiḥ
+
+**8.55.48**
+
+śakunis tasya rājendra vāme pārśve stanāntare preṣayām āsa nārācān rukmapuṅkhāñ śilāśitān
+
+**8.55.49**
+
+varma bhittvā tu sauvarṇaṃ bāṇās tasya mahātmanaḥ nyamajjanta mahārāja kaṅkabarhiṇavāsasaḥ
+
+**8.55.50**
+
+so 'tividdho raṇe bhīmaḥ śaraṃ hemavibhūṣitam preṣayām āsa sahasā saubalaṃ prati bhārata
+
+**8.55.51**
+
+tam āyāntaṃ śaraṃ ghoraṃ śakuniḥ śatrutāpanaḥ ciccheda śatadhā rājan kṛtahasto mahābalaḥ
+
+**8.55.52**
+
+tasmin nipatite bhūmau bhīmaḥ kruddho viśāṃ pate dhanuś ciccheda bhallena saubalasya hasann iva
+
+**8.55.53**
+
+tad apāsya dhanuś chinnaṃ saubaleyaḥ pratāpavān anyad ādatta vegena dhanur bhallāṃś ca ṣoḍaśa
+
+**8.55.54**
+
+tais tasya tu mahārāja bhallaiḥ saṃnataparvabhiḥ caturbhiḥ sārathiṃ hy ārcchad bhīmaṃ pañcabhir eva ca
+
+**8.55.55**
+
+dhvajam ekena ciccheda chatraṃ dvābhyāṃ viśāṃ pate caturbhiś caturo vāhān vivyādha subalātmajaḥ
+
+**8.55.56**
+
+tataḥ kruddho mahārāja bhīmasenaḥ pratāpavān śaktiṃ cikṣepa samare rukmadaṇḍām ayasmayīm
+
+**8.55.57**
+
+sā bhīmabhujanirmuktā nāgajihveva cañcalā nipapāta rathe tūrṇaṃ saubalasya mahātmanaḥ
+
+**8.55.58**
+
+tatas tām eva saṃgṛhya śaktiṃ kanakabhūṣaṇām bhīmasenāya cikṣepa kruddharūpo viśāṃ pate
+
+**8.55.59**
+
+sā nirbhidya bhujaṃ savyaṃ pāṇḍavasya mahātmanaḥ papāta ca tato bhūmau yathā vidyun nabhaścyutā
+
+**8.55.60**
+
+athotkruṣṭaṃ mahārāja dhārtarāṣṭraiḥ samantataḥ na tu taṃ mamṛṣe bhīmaḥ siṃhanādaṃ tarasvinām
+
+**8.55.61**
+
+sa saṃgṛhya dhanuḥ sajyaṃ tvaramāṇo mahārathaḥ muhūrtād iva rājendra chādayām āsa sāyakaiḥ saubalasya balaṃ saṃkhye tyaktvātmānaṃ mahābalaḥ
+
+**8.55.62**
+
+tasyāśvāṃś caturo hatvā sūtaṃ caiva viśāṃ pate dhvajaṃ ciccheda bhallena tvaramāṇaḥ parākramī
+
+**8.55.63**
+
+hatāśvaṃ ratham utsṛjya tvaramāṇo narottamaḥ tasthau visphārayaṃś cāpaṃ krodharaktekṣaṇaḥ śvasan śaraiś ca bahudhā rājan bhīmam ārcchat samantataḥ
+
+**8.55.64**
+
+pratihatya tu vegena bhīmasenaḥ pratāpavān dhanuś ciccheda saṃkruddho vivyādha ca śitaiḥ śaraiḥ
+
+**8.55.65**
+
+so 'tividdho balavatā śatruṇā śatrukarśanaḥ nipapāta tato bhūmau kiṃ cit prāṇo narādhipa
+
+**8.55.66**
+
+tatas taṃ vihvalaṃ jñātvā putras tava viśāṃ pate apovāha rathenājau bhīmasenasya paśyataḥ
+
+**8.55.67**
+
+rathasthe tu naravyāghre dhārtarāṣṭrāḥ parāṅmukhāḥ pradudruvur diśo bhītā bhīmāj jāte mahābhaye
+
+**8.55.68**
+
+saubale nirjite rājan bhīmasenena dhanvinā bhayena mahatā bhagnaḥ putro duryodhanas tava apāyāj javanair aśvaiḥ sāpekṣo mātulaṃ prati
+
+**8.55.69**
+
+parāṅmukhaṃ tu rājānaṃ dṛṣṭvā sainyāni bhārata viprajagmuḥ samutsṛjya dvairathāni samantataḥ
+
+**8.55.70**
+
+tān dṛṣṭvātirathān sarvān dhārtarāṣṭrān parāṅmukhān javenābhyapatad bhīmaḥ kirañ śaraśatān bahūn
+
+**8.55.71**
+
+te vadhyamānā bhīmena dhārtarāṣṭrāḥ parāṅmukhāḥ karṇam āsādya samare sthitā rājan samantataḥ sa hi teṣāṃ mahāvīryo dvīpo 'bhūt sumahābalaḥ
+
+**8.55.72**
+
+bhinnanaukā yathā rājan dvīpam āsādya nirvṛtāḥ bhavanti puruṣavyāghra nāvikāḥ kālaparyaye
+
+**8.55.73**
+
+tathā karṇaṃ samāsādya tāvakā bharatarṣabha samāśvastāḥ sthitā rājan saṃprahṛṣṭāḥ parasparam samājagmuś ca yuddhāya mṛtyuṃ kṛtvā nivartanam
+
+**8.56.1**
+
+dhṛtarāṣṭra uvāca tato bhagneṣu sainyeṣu bhīmasenena saṃyuge duryodhano 'bravīt kiṃ nu saubalo vāpi saṃjaya
+
+**8.56.2**
+
+karṇo vā jayatāṃ śreṣṭho yodhā vā māmakā yudhi kṛpo vā kṛtavarmā ca drauṇir duḥśāsano 'pi vā
+
+**8.56.3**
+
+atyadbhutam idaṃ manye pāṇḍaveyasya vikramam yathāpratijñaṃ yodhānāṃ rādheyaḥ kṛtavān api
+
+**8.56.4**
+
+kurūṇām api sarveṣāṃ karṇaḥ śatruniṣūdanaḥ śarma varma pratiṣṭhā ca jīvitāśā ca saṃjaya
+
+**8.56.5**
+
+tat prabhagnaṃ balaṃ dṛṣṭvā kaunteyenāmitaujasā rādheyānām adhirathaḥ karṇaḥ kim akarod yudhi
+
+**8.56.6**
+
+putrā vā mama durdharṣā rājāno vā mahārathāḥ etan me sarvam ācakṣva kuśalo hy asi saṃjaya
+
+**8.56.7**
+
+saṃjaya uvāca aparāhṇe mahārāja sūtaputraḥ pratāpavān jaghāna somakān sarvān bhīmasenasya paśyataḥ bhīmo 'py atibalaḥ sainyaṃ dhārtarāṣṭraṃ vyapothayat
+
+**8.56.8**
+
+drāvyamāṇaṃ balaṃ dṛṣṭvā bhīmasenena dhīmatā yantāram abravīt karṇaḥ pāñcālān eva mā vaha
+
+**8.56.9**
+
+madrarājas tataḥ śalyaḥ śvetān aśvān mahājavān prāhiṇoc cedipāñcālān karūṣāṃś ca mahābalaḥ
+
+**8.56.10**
+
+praviśya ca sa tāṃ senāṃ śalyaḥ parabalārdanaḥ nyayacchat turagān hṛṣṭo yatra yatraicchad agraṇīḥ
+
+**8.56.11**
+
+taṃ rathaṃ meghasaṃkāśaṃ vaiyāghraparivāraṇam saṃdṛśya pāṇḍupāñcālās trastā āsan viśāṃ pate
+
+**8.56.12**
+
+tato rathasya ninadaḥ prādurāsīn mahāraṇe parjanyasamanirghoṣaḥ parvatasyeva dīryataḥ
+
+**8.56.13**
+
+tataḥ śaraśatais tīkṣṇaiḥ karṇo 'py ākarṇaniḥsṛtaiḥ jaghāna pāṇḍavabalaṃ śataśo 'tha sahasraśaḥ
+
+**8.56.14**
+
+taṃ tathā samare karma kurvāṇam atimānuṣam parivavrur maheṣvāsāḥ pāṇḍavānāṃ mahārathāḥ
+
+**8.56.15**
+
+taṃ śikhaṇḍī ca bhīmaś ca dhṛṣṭadyumnaś ca pārṣataḥ nakulaḥ sahadevaś ca draupadeyāḥ sasātyakāḥ parivavrur jighāṃsanto rādheyaṃ śaravṛṣṭibhiḥ
+
+**8.56.16**
+
+sātyakis tu tataḥ karṇaṃ viṃśatyā niśitaiḥ śaraiḥ atāḍayad raṇe śūro jatrudeśe narottamaḥ
+
+**8.56.17**
+
+śikhaṇḍī pañcaviṃśatyā dhṛṣṭadyumnaś ca pañcabhiḥ draupadeyāś catuḥṣaṣṭyā sahadevaś ca saptabhiḥ nakulaś ca śatenājau karṇaṃ vivyādha sāyakaiḥ
+
+**8.56.18**
+
+bhīmasenas tu rādheyaṃ navatyā nataparvaṇām vivyādha samare kruddho jatrudeśe mahābalaḥ
+
+**8.56.19**
+
+tataḥ prahasyādhirathir vikṣipan dhanur uttamam mumoca niśitān bāṇān pīḍayan sumahābalaḥ tān pratyavidhyad rādheyaḥ pañcabhiḥ pañcabhiḥ śaraiḥ
+
+**8.56.20**
+
+sātyakes tu dhanuś chittvā dhvajaṃ ca puruṣarṣabhaḥ athainaṃ navabhir bāṇair ājaghāna stanāntare
+
+**8.56.21**
+
+bhīmasenas tu taṃ kruddho vivyādha triṃśatā śaraiḥ sārathiṃ ca tribhir bāṇair ājaghāna paraṃtapaḥ
+
+**8.56.22**
+
+virathān draupadeyāṃś ca cakāra puruṣarṣabhaḥ akṣṇor nimeṣamātreṇa tad adbhutam ivābhavat
+
+**8.56.23**
+
+vimukhīkṛtya tān sarvāñ śaraiḥ saṃnataparvabhiḥ pāñcālān ahanac chūraś cedīnāṃ ca mahārathān
+
+**8.56.24**
+
+te vadhyamānāḥ samare cedimatsyā viśāṃ pate karṇam ekam abhidrutya śarasaṃghaiḥ samārdayan tāñ jaghāna śitair bāṇaiḥ sūtaputro mahārathaḥ
+
+**8.56.25**
+
+etad atyadbhutaṃ karṇe dṛṣṭavān asmi bhārata yad ekaḥ samare śūrān sūtaputraḥ pratāpavān
+
+**8.56.26**
+
+yatamānān paraṃ śaktyāyodhayat tāṃś ca dhanvinaḥ pāṇḍaveyān mahārāja śarair vāritavān raṇe
+
+**8.56.27**
+
+tatra bhārata karṇasya lāghavena mahātmanaḥ tutuṣur devatāḥ sarvāḥ siddhāś ca paramarṣayaḥ
+
+**8.56.28**
+
+apūjayan maheṣvāsā dhārtarāṣṭrā narottamam karṇaṃ rathavaraśreṣṭhaṃ śreṣṭhaṃ sarvadhanuṣmatām
+
+**8.56.29**
+
+tataḥ karṇo mahārāja dadāha ripuvāhinīm kakṣam iddho yathā vahnir nidāghe jvalito mahān
+
+**8.56.30**
+
+te vadhyamānāḥ karṇena pāṇḍaveyās tatas tataḥ prādravanta raṇe bhītāḥ karṇaṃ dṛṣṭvā mahābalam
+
+**8.56.31**
+
+tatrākrando mahān āsīt pāñcālānāṃ mahāraṇe vadhyatāṃ sāyakais tīkṣṇaiḥ karṇacāpavaracyutaiḥ
+
+**8.56.32**
+
+tena śabdena vitrastā pāṇḍavānāṃ mahācamūḥ karṇam ekaṃ raṇe yodhaṃ menire tatra śātravāḥ
+
+**8.56.33**
+
+tatrādbhutaṃ paraṃ cakre rādheyaḥ śatrukarśanaḥ yad ekaṃ pāṇḍavāḥ sarve na śekur abhivīkṣitum
+
+**8.56.34**
+
+yathaughaḥ parvataśreṣṭham āsādyābhipradīryate tathā tat pāṇḍavaṃ sainyaṃ karṇam āsādya dīryate
+
+**8.56.35**
+
+karṇo 'pi samare rājan vidhūmo 'gnir iva jvalan dahaṃs tasthau mahābāhuḥ pāṇḍavānāṃ mahācamūm
+
+**8.56.36**
+
+śirāṃsi ca mahārāja karṇāṃś cañcalakuṇḍalān bāhūṃś ca vīro vīrāṇāṃ ciccheda laghu ceṣubhiḥ
+
+**8.56.37**
+
+hastidantān tsarūn khaḍgān dhvajāñ śaktīr hayān gajān rathāṃś ca vividhān rājan patākā vyajanāni ca
+
+**8.56.38**
+
+akṣeṣāyugayoktrāṇi cakrāṇi vividhāni ca ciccheda śatadhā karṇo yodhavratam anuṣṭhitaḥ
+
+**8.56.39**
+
+tatra bhārata karṇena nihatair gajavājibhiḥ agamyarūpā pṛthivī māṃsaśoṇitakardamā
+
+**8.56.40**
+
+viṣamaṃ ca samaṃ caiva hatair aśvapadātibhiḥ rathaiś ca kuñjaraiś caiva na prājñāyata kiṃ cana
+
+**8.56.41**
+
+nāpi sve na pare yodhāḥ prājñāyanta parasparam ghore śarāndhakāre tu karṇāstre ca vijṛmbhite
+
+**8.56.42**
+
+rādheyacāpanirmuktaiḥ śaraiḥ kāñcanabhūṣitaiḥ saṃchāditā mahārāja yatamānā mahārathāḥ
+
+**8.56.43**
+
+te pāṇḍaveyāḥ samare karṇena sma punaḥ punaḥ abhajyanta mahārāja yatamānā mahārathāḥ
+
+**8.56.44**
+
+mṛgasaṃghān yathā kruddhaḥ siṃho drāvayate vane karṇas tu samare yodhāṃs tatra tatra mahāyaśāḥ kālayām āsa tat sainyaṃ yathā paśugaṇān vṛkaḥ
+
+**8.56.45**
+
+dṛṣṭvā tu pāṇḍavīṃ senāṃ dhārtarāṣṭrāḥ parāṅmukhīm abhijagmur maheṣvāsā ruvanto bhairavān ravān
+
+**8.56.46**
+
+duryodhano hi rājendra mudā paramayā yutaḥ vādayām āsa saṃhṛṣṭo nānāvādyāni sarvaśaḥ
+
+**8.56.47**
+
+pāñcālāpi maheṣvāsā bhagnā bhagnā narottamāḥ nyavartanta yathā śūrā mṛtyuṃ kṛtvā nivartanam
+
+**8.56.48**
+
+tān nivṛttān raṇe śūrān rādheyaḥ śatrutāpanaḥ anekaśo mahārāja babhañja puruṣarṣabhaḥ
+
+**8.56.49**
+
+tatra bhārata karṇena pāñcālā viṃśatī rathāḥ nihatāḥ sādayaḥ krodhāc cedayaś ca paraḥśatāḥ
+
+**8.56.50**
+
+kṛtvā śūnyān rathopasthān vājipṛṣṭhāṃś ca bhārata nirmanuṣyān gajaskandhān pādātāṃś caiva vidrutān
+
+**8.56.51**
+
+āditya iva madhyāhne durnirīkṣyaḥ paraṃtapaḥ kālāntakavapuḥ krūraḥ sūtaputraś cacāra ha
+
+**8.56.52**
+
+evam etān mahārāja naravājirathadvipān hatvā tasthau maheṣvāsaḥ karṇo 'rigaṇasūdanaḥ
+
+**8.56.53**
+
+yathā bhūtagaṇān hatvā kālas tiṣṭhen mahābalaḥ tathā sa somakān hatvā tasthāv eko mahārathaḥ
+
+**8.56.54**
+
+tatrādbhutam apaśyāma pāñcālānāṃ parākramam vadhyamānāpi karṇena nājahū raṇamūrdhani
+
+**8.56.55**
+
+rājā duḥśāsanaś caiva kṛpaḥ śāradvatas tathā aśvatthāmā kṛtavarmā śakuniś cāpi saubalaḥ nyahanan pāṇḍavīṃ senāṃ śataśo 'tha sahasraśaḥ
+
+**8.56.56**
+
+karṇaputrau ca rājendra bhrātarau satyavikramau anāśayetāṃ balinaḥ pāñcālān vai tatas tataḥ tatra yuddhaṃ tadā hy āsīt krūraṃ viśasanaṃ mahat
+
+**8.56.57**
+
+tathaiva pāṇḍavāḥ śūrā dhṛṣṭadyumnaśikhaṇḍinau draupadeyāś ca saṃkruddhā abhyaghnaṃs tāvakaṃ balam
+
+**8.56.58**
+
+evam eṣa kṣayo vṛttaḥ pāṇḍavānāṃ tatas tataḥ tāvakānām api raṇe bhīmaṃ prāpya mahābalam
+
+**8.57.1**
+
+saṃjaya uvāca arjunas tu mahārāja kṛtvā sainyaṃ pṛthagvidham sūtaputraṃ susaṃrabdhaṃ dṛṣṭvā caiva mahāraṇe
+
+**8.57.2**
+
+śoṇitodāṃ mahīṃ kṛtvā māṃsamajjāsthivāhinīm vāsudevam idaṃ vākyam abravīt puruṣarṣabha
+
+**8.57.3**
+
+eṣa ketū raṇe kṛṣṇa sūtaputrasya dṛśyate bhīmasenādayaś caite yodhayanti mahārathān ete dravanti pāñcālāḥ karṇāt trastā janārdana
+
+**8.57.4**
+
+eṣa duryodhano rājā śvetacchatreṇa bhāsvatā karṇena bhagnān pāñcālān drāvayan bahu śobhate
+
+**8.57.5**
+
+kṛpaś ca kṛtavarmā ca drauṇiś caiva mahābalaḥ ete rakṣanti rājānaṃ sūtaputreṇa rakṣitāḥ avadhyamānās te 'smābhir ghātayiṣyanti somakān
+
+**8.57.6**
+
+eṣa śalyo rathopasthe raśmisaṃcārakovidaḥ sūtaputrarathaṃ kṛṣṇa vāhayan bahu śobhate
+
+**8.57.7**
+
+tatra me buddhir utpannā vāhayātra mahāratham nāhatvā samare karṇaṃ nivartiṣye kathaṃ cana
+
+**8.57.8**
+
+rādheyo 'py anyathā pārthān sṛñjayāṃś ca mahārathān niḥśeṣān samare kuryāt paśyator nau janārdana
+
+**8.57.9**
+
+tataḥ prāyād rathenāśu keśavas tava vāhinīm karṇaṃ prati maheṣvāsaṃ dvairathe savyasācinā
+
+**8.57.10**
+
+prayātaś ca mahābāhuḥ pāṇḍavānujñayā hariḥ āśvāsayan rathenaiva pāṇḍusainyāni sarvaśaḥ
+
+**8.57.11**
+
+rathaghoṣaḥ sa saṃgrāme pāṇḍaveyasya saṃbabhau vāsavāśanitulyasya mahaughasyeva māriṣa
+
+**8.57.12**
+
+mahatā rathaghoṣeṇa pāṇḍavaḥ satyavikramaḥ abhyayād aprameyātmā vijayas tava vāhinīm
+
+**8.57.13**
+
+tam āyāntaṃ samīkṣyaiva śvetāśvaṃ kṛṣṇasārathim madrarājo 'bravīt karṇaṃ ketuṃ dṛṣṭvā mahātmanaḥ
+
+**8.57.14**
+
+ayaṃ sa ratha āyāti śvetāśvaḥ kṛṣṇasārathiḥ nighnann amitrān samare yaṃ karṇa paripṛcchasi
+
+**8.57.15**
+
+eṣa tiṣṭhati kaunteyaḥ saṃspṛśan gāṇḍivaṃ dhanuḥ taṃ haniṣyasi ced adya tan naḥ śreyo bhaviṣyati
+
+**8.57.16**
+
+eṣā vidīryate senā dhārtarāṣṭrī samantataḥ arjunasya bhayāt tūrṇaṃ nighnataḥ śātravān bahūn
+
+**8.57.17**
+
+varjayan sarvasainyāni tvarate hi dhanaṃjayaḥ tvadartham iti manye 'haṃ yathāsyodīryate vapuḥ
+
+**8.57.18**
+
+na hy avasthāpyate pārtho yuyutsuḥ kena cit saha tvām ṛte krodhadīpto hi pīḍyamāne vṛkodare
+
+**8.57.19**
+
+virathaṃ dharmarājaṃ ca dṛṣṭvā sudṛḍhavikṣatam śikhaṇḍinaṃ sātyakiṃ ca dhṛṣṭadyumnaṃ ca pārṣatam
+
+**8.57.20**
+
+draupadeyān yudhāmanyum uttamaujasam eva ca nakulaṃ sahadevaṃ ca bhrātarau dvau samīkṣya ca
+
+**8.57.21**
+
+sahasaikarathaḥ pārthas tvām abhyeti paraṃtapa krodharaktekṣaṇaḥ kruddho jighāṃsuḥ sarvadhanvinām
+
+**8.57.22**
+
+tvarito 'bhipataty asmāṃs tyaktvā sainyāny asaṃśayam tvaṃ karṇa pratiyāhy enaṃ nāsty anyo hi dhanurdharaḥ
+
+**8.57.23**
+
+na taṃ paśyāmi loke 'smiṃs tvatto 'py anyaṃ dhanurdharam arjunaṃ samare kruddhaṃ yo velām iva dhārayet
+
+**8.57.24**
+
+na cāsya rakṣāṃ paśyāmi pṛṣṭhato na ca pārśvataḥ eka evābhiyāti tvāṃ paśya sāphalyam ātmanaḥ
+
+**8.57.25**
+
+tvaṃ hi kṛṣṇau raṇe śaktaḥ saṃsādhayitum āhave tavaiṣa bhāro rādheya pratyudyāhi dhanaṃjayam
+
+**8.57.26**
+
+tvaṃ kṛto hy eva bhīṣmeṇa droṇadrauṇikṛpair api savyasācipratirathas taṃ nivartaya pāṇḍavam
+
+**8.57.27**
+
+lelihānaṃ yathā sarpaṃ garjantam ṛṣabhaṃ yathā layasthitaṃ yathā vyāghraṃ jahi karṇa dhanaṃjayam
+
+**8.57.28**
+
+ete dravanti samare dhārtarāṣṭrā mahārathāḥ arjunasya bhayāt tūrṇaṃ nirapekṣā janādhipāḥ
+
+**8.57.29**
+
+dravatām atha teṣāṃ tu yudhi nānyo 'sti mānavaḥ bhayahā yo bhaved vīra tvām ṛte sūtanandana
+
+**8.57.30**
+
+ete tvāṃ kuravaḥ sarve dvīpam āsādya saṃyuge viṣṭhitāḥ puruṣavyāghra tvattaḥ śaraṇakāṅkṣiṇaḥ
+
+**8.57.31**
+
+vaidehāmbaṣṭhakāmbojās tathā nagnajitas tvayā gāndhārāś ca yayā dhṛtyā jitāḥ saṃkhye sudurjayāḥ
+
+**8.57.32**
+
+tāṃ dhṛtiṃ kuru rādheya tataḥ pratyehi pāṇḍavam vāsudevaṃ ca vārṣṇeyaṃ prīyamāṇaṃ kirīṭinā
+
+**8.57.33**
+
+karṇa uvāca prakṛtistho hi me śalya idānīṃ saṃmatas tathā pratibhāsi mahābāho vibhīś caiva dhanaṃjayāt
+
+**8.57.34**
+
+paśya bāhvor balaṃ me 'dya śikṣitasya ca paśya me eko 'dya nihaniṣyāmi pāṇḍavānāṃ mahācamūm
+
+**8.57.35**
+
+kṛṣṇau ca puruṣavyāghrau tac ca satyaṃ bravīmi te nāhatvā yudhi tau vīrāv apayāsye kathaṃ cana
+
+**8.57.36**
+
+svapsye vā nihatas tābhyām asatyo hi raṇe jayaḥ kṛtārtho vā bhaviṣyāmi hatvā tāv atha vā hataḥ
+
+**8.57.37**
+
+naitādṛśo jātu babhūva loke; rathottamo yāvad anuśrutaṃ naḥ tam īdṛśaṃ pratiyotsyāmi pārthaṃ; mahāhave paśya ca pauruṣaṃ me
+
+**8.57.38**
+
+rathe caraty eṣa rathapravīraḥ; śīghrair hayaiḥ kauravarājaputraḥ sa vādya māṃ neṣyati kṛcchram etat; karṇasyāntād etad antāḥ stha sarve
+
+**8.57.39**
+
+asvedinau rājaputrasya hastāv; avepinau jātakiṇau bṛhantau dṛḍhāyudhaḥ kṛtimān kṣiprahasto; na pāṇḍaveyena samo 'sti yodhaḥ
+
+**8.57.40**
+
+gṛhṇāty anekān api kaṅkapatrān; ekaṃ yathā tān kṣitipān pramathya te krośamātraṃ nipatanty amoghāḥ; kas tena yodho 'sti samaḥ pṛthivyām
+
+**8.57.41**
+
+atoṣayat pāṇḍaveyo hutāśaṃ; kṛṣṇadvitīyo 'tirathas tarasvī lebhe cakraṃ yatra kṛṣṇo mahātmā; dhanur gāṇḍīvaṃ pāṇḍavaḥ savyasācī
+
+**8.57.42**
+
+śvetāśvayuktaṃ ca sughoṣam agryaṃ; rathaṃ mahābāhur adīnasattvaḥ maheṣudhī cākṣayau divyarūpau; śastrāṇi divyāni ca havyavāhāt
+
+**8.57.43**
+
+tathendraloke nijaghāna daityān; asaṃkhyeyān kālakeyāṃś ca sarvān lebhe śaṅkhaṃ devadattaṃ sma tatra; ko nāma tenābhyadhikaḥ pṛthivyām
+
+**8.57.44**
+
+mahādevaṃ toṣayām āsa caiva; sākṣāt suyuddhena mahānubhāvaḥ lebhe tataḥ pāśupataṃ sughoraṃ; trailokyasaṃhārakaraṃ mahāstram
+
+**8.57.45**
+
+pṛthak pṛthag lokapālāḥ sametā; dadur hy astrāṇy aprameyāṇi yasya yais tāñ jaghānāśu raṇe nṛsiṃhān; sa kālakhañjān asurān sametān
+
+**8.57.46**
+
+tathā virāṭasya pure sametān; sarvān asmān ekarathena jitvā jahāra tad godhanam ājimadhye; vastrāṇi cādatta mahārathebhyaḥ
+
+**8.57.47**
+
+tam īdṛśaṃ vīryaguṇopapannaṃ; kṛṣṇadvitīyaṃ varaye raṇāya anantavīryeṇa ca keśavena; nārāyaṇenāpratimena guptam
+
+**8.57.48**
+
+varṣāyutair yasya guṇā na śakyā; vaktuṃ sametair api sarvalokaiḥ mahātmanaḥ śaṅkhacakrāsipāṇer; viṣṇor jiṣṇor vasudevātmajasya bhayaṃ me vai jāyate sādhvasaṃ ca; dṛṣṭvā kṛṣṇāv ekarathe sametau
+
+**8.57.49**
+
+ubhau hi śūrau kṛtinau dṛḍhāstrau; mahārathau saṃhananopapannau etādṛśau phalgunavāsudevau; ko 'nyaḥ pratīyān mad ṛte nu śalya
+
+**8.57.50**
+
+etāv ahaṃ yudhi vā pātayiṣye; māṃ vā kṛṣṇau nihaniṣyato 'dya iti bruvañ śalyam amitrahantā; karṇo raṇe megha ivonnanāda
+
+**8.57.51**
+
+abhyetya putreṇa tavābhinanditaḥ; sametya covāca kurupravīrān kṛpaṃ ca bhojaṃ ca mahābhujāv ubhau; tathaiva gāndhāranṛpaṃ sahānujam guroḥ sutaṃ cāvarajaṃ tathātmanaḥ; padātino 'tha dvipasādino 'nyān
+
+**8.57.52**
+
+nirundhatābhidravatācyutārjunau; śrameṇa saṃyojayatāśu sarvataḥ yathā bhavadbhir bhṛśavikṣatāv ubhau; sukhena hanyām aham adya bhūmipāḥ
+
+**8.57.53**
+
+tatheti coktvā tvaritāḥ sma te 'rjunaṃ; jighāṃsavo vīratamāḥ samabhyayuḥ nadīnadān bhūrijalo mahārṇavo; yathā tathā tān samare 'rjuno 'grasat
+
+**8.57.54**
+
+na saṃdadhāno na tathā śarottamān; pramuñcamāno ripubhiḥ pradṛśyate dhanaṃjayas tasya śaraiś ca dāritā; hatāś ca petur naravājikuñjarāḥ
+
+**8.57.55**
+
+śarārciṣaṃ gāṇḍivacārumaṇḍalaṃ; yugāntasūryapratimānatejasam na kauravāḥ śekur udīkṣituṃ jayaṃ; yathā raviṃ vyādhitacakṣuṣo janāḥ
+
+**8.57.56**
+
+tam abhyadhāvad visṛjañ śarān kṛpas; tathaiva bhojas tava cātmajaḥ svayam jighāṃsubhis tān kuśalaiḥ śarottamān; mahāhave saṃjavitān prayatnataḥ śaraiḥ praciccheda ca pāṇḍavas tvaran; parābhinad vakṣasi ca tribhis tribhiḥ
+
+**8.57.57**
+
+sa gāṇḍivābhyāyatapūrṇamaṇḍalas; tapan ripūn arjunabhāskaro babhau śarograraśmiḥ śuciśukramadhyago; yathaiva sūryaḥ pariveṣagas tathā
+
+**8.57.58**
+
+athāgryabāṇair daśabhir dhanaṃjayaṃ; parābhinad droṇasuto 'cyutaṃ tribhiḥ caturbhir aśvāṃś caturaḥ kapiṃ tathā; śaraiḥ sa nārācavarair avākirat
+
+**8.57.59**
+
+tathā tu tat tat sphurad āttakārmukaṃ; tribhiḥ śarair yantṛśiraḥ kṣureṇa hayāṃś caturbhiś caturas tribhir dhvajaṃ; dhanaṃjayo drauṇirathān nyapātayat
+
+**8.57.60**
+
+sa roṣapūrṇo 'śanivajrahāṭakair; alaṃkṛtaṃ takṣakabhogavarcasam subandhanaṃ kārmukam anyad ādade; yathā mahāhipravaraṃ gires tathā
+
+**8.57.61**
+
+svam āyudhaṃ copavikīrya bhūtale; dhanuś ca kṛtvā saguṇaṃ guṇādhikaḥ samānayānāv ajitau narottamau; śarottamair drauṇir avidhyad antikāt
+
+**8.57.62**
+
+kṛpaś ca bhojaś ca tathātmajaś ca te; tamonudaṃ vāridharā ivāpatan kṛpasya pārthaḥ saśaraṃ śarāsanaṃ; hayān dhvajaṃ sārathim eva patribhiḥ
+
+**8.57.63**
+
+śaraiḥ praciccheda tavātmajasya; dhvajaṃ dhanuś ca pracakarta nardataḥ jaghāna cāśvān kṛtavarmaṇaḥ śubhān; dhvajaṃ ca ciccheda tataḥ pratāpavān
+
+**8.57.64**
+
+savājisūteṣv asanān saketanāñ; jaghāna nāgāśvarathāṃs tvaraṃś ca saḥ tataḥ prakīrṇaṃ sumahad balaṃ tava; pradāritaṃ setur ivāmbhasā yathā tato 'rjunasyāśu rathena keśavaś; cakāra śatrūn apasavyam āturān
+
+**8.57.65**
+
+tataḥ prayāntaṃ tvaritaṃ dhanaṃjayaṃ; śatakratuṃ vṛtranijaghnuṣaṃ yathā samanvadhāvan punar ucchritair dhvajai; rathaiḥ suyuktair apare yuyutsavaḥ
+
+**8.57.66**
+
+athābhisṛtya prativārya tān arīn; dhanaṃjayasyābhi rathaṃ mahārathāḥ śikhaṇḍiśaineyayamāḥ śitaiḥ śarair; vidārayanto vyanadan subhairavam
+
+**8.57.67**
+
+tato 'bhijaghnuḥ kupitāḥ parasparaṃ; śarais tadāñjogatibhiḥ sutejanaiḥ kurupravīrāḥ saha sṛñjayair yathā;surāḥ purā devavarair ayodhayan
+
+**8.57.68**
+
+jayepsavaḥ svargamanāya cotsukāḥ; patanti nāgāśvarathāḥ paraṃtapa jagarjur uccair balavac ca vivyadhuḥ; śaraiḥ sumuktair itaretaraṃ pṛthak
+
+**8.57.69**
+
+śarāndhakāre tu mahātmabhiḥ kṛte; mahāmṛdhe yodhavaraiḥ parasparam babhur daśāśā na divaṃ ca pārthiva; prabhā ca sūryasya tamovṛtābhavat
+
+**8.58.1**
+
+saṃjaya uvāca rājan kurūṇāṃ pravarair balair bhīmam abhidrutam majjantam iva kaunteyam ujjihīrṣur dhanaṃjayaḥ
+
+**8.58.2**
+
+vimṛdya sūtaputrasya senāṃ bhārata sāyakaiḥ prāhiṇon mṛtyulokāya paravīrān dhanaṃjayaḥ
+
+**8.58.3**
+
+tato 'syāmbaram āvṛtya śarajālāni bhāgaśaḥ adṛśyanta tathānye ca nighnantas tava vāhinīm
+
+**8.58.4**
+
+sa pakṣisaṃghācaritam ākāśaṃ pūrayañ śaraiḥ dhanaṃjayo mahārāja kurūṇām antako 'bhavat
+
+**8.58.5**
+
+tato bhallaiḥ kṣurapraiś ca nārācair nirmalair api gātrāṇi prākṣiṇot pārthaḥ śirāṃsi ca cakarta ha
+
+**8.58.6**
+
+chinnagātrair vikavacair viśiraskaiḥ samantataḥ patitaiś ca patadbhiś ca yodhair āsīt samāvṛtam
+
+**8.58.7**
+
+dhanaṃjayaśarābhyastaiḥ syandanāśvanaradvipaiḥ raṇabhūmir abhūd rājan mahāvaitaraṇī yathā
+
+**8.58.8**
+
+īṣācakrākṣabhaṅgaiś ca vyaśvaiḥ sāśvaiś ca yudhyatām sasūtair hatasūtaiś ca rathaiḥ stīrṇābhavan mahī
+
+**8.58.9**
+
+suvarṇavarmasaṃnāhair yodhaiḥ kanakabhūṣaṇaiḥ āsthitāḥ kṛtavarmāṇo bhadrā nityamadā dvipāḥ kruddhāḥ kruddhair mahāmātraiḥ preṣitārjunam abhyayuḥ
+
+**8.58.10**
+
+catuḥśatāḥ śaravarṣair hatāḥ petuḥ kirīṭinā paryastānīva śṛṅgāṇi sasattvāni mahāgireḥ
+
+**8.58.11**
+
+dhanaṃjayaśarābhyastaiḥ stīrṇā bhūr varavāraṇaiḥ abhipede 'rjunaratho ghanān bhindann ivāṃśumān
+
+**8.58.12**
+
+hatair gajamanuṣyāśvair bhagnaiś ca bahudhā rathaiḥ viśastrapatrakavacair yuddhaśauṇḍair gatāsubhiḥ apaviddhāyudhair mārgaḥ stīrṇo 'bhūt phalgunena vai
+
+**8.58.13**
+
+vyasphūrjayac ca gāṇḍīvaṃ sumahad bhairavasvanam ghoro vajraviniṣpeṣaḥ stanayitnor ivāmbare
+
+**8.58.14**
+
+tataḥ prādīryata camūr dhanaṃjayaśarāhatā mahāvātasamāviddhā mahānaur iva sāgare
+
+**8.58.15**
+
+nānārūpāḥ praharaṇāḥ śarā gāṇḍīvacoditāḥ alātolkāśaniprakhyās tava sainyaṃ vinirdahan
+
+**8.58.16**
+
+mahāgirau veṇuvanaṃ niśi prajvalitaṃ yathā tathā tava mahat sainyaṃ prāsphurac charapīḍitam
+
+**8.58.17**
+
+saṃpiṣṭadagdhavidhvastaṃ tava sainyaṃ kirīṭinā hataṃ pravihataṃ bāṇaiḥ sarvataḥ pradrutaṃ diśaḥ
+
+**8.58.18**
+
+mahāvane mṛgagaṇā dāvāgnigrasitā yathā kuravaḥ paryavartanta nirdagdhāḥ savyasācinā
+
+**8.58.19**
+
+utsṛjya hi mahābāhuṃ bhīmasenaṃ tadā raṇe balaṃ kurūṇām udvignaṃ sarvam āsīt parāṅmukham
+
+**8.58.20**
+
+tataḥ kuruṣu bhagneṣu bībhatsur aparājitaḥ bhīmasenaṃ samāsādya muhūrtaṃ so 'bhyavartata
+
+**8.58.21**
+
+samāgamya sa bhīmena mantrayitvā ca phalgunaḥ viśalyam arujaṃ cāsmai kathayitvā yudhiṣṭhiram
+
+**8.58.22**
+
+bhīmasenābhyanujñātas tataḥ prāyād dhanaṃjayaḥ nādayan rathaghoṣeṇa pṛthivīṃ dyāṃ ca bhārata
+
+**8.58.23**
+
+tataḥ parivṛto bhīmair daśabhiḥ śatrupuṃgavaiḥ duḥśāsanād avarajais tava putrair dhanaṃjayaḥ
+
+**8.58.24**
+
+te tam abhyardayan bāṇair ulkābhir iva kuñjaram ātateṣv asanāḥ krūrā nṛtyanta iva bhārata
+
+**8.58.25**
+
+apasavyāṃs tu tāṃś cakre rathena madhusūdanaḥ tatas te prādravañ śūrāḥ parāṅmukharathe 'rjune
+
+**8.58.26**
+
+teṣām āpatatāṃ ketūn rathāṃś cāpāni sāyakān nārācair ardhacandraiś ca kṣipraṃ pārtho nyapātayat
+
+**8.58.27**
+
+athānyair daśabhir bhallaiḥ śirāṃsy eṣāṃ nyapātayat roṣasaṃraktanetrāṇi saṃdaṣṭauṣṭhāni bhūtale tāni vaktrāṇi vibabhur vyomni tārāgaṇā iva
+
+**8.58.28**
+
+tāṃs tu bhallair mahāvegair daśabhir daśa kauravān rukmāṅgadān rukmapuṅkhair viddhvā prāyād amitrahā
+
+**8.59.1**
+
+saṃjaya uvāca taṃ tu yāntaṃ mahāvegair aśvaiḥ kapivaradhvajam yuddhāyābhyadravan vīrāḥ kurūṇāṃ navatī rathāḥ parivavrur naravyāghrā naravyāghraṃ raṇe 'rjunam
+
+**8.59.2**
+
+kṛṣṇaḥ śvetān mahāvegān aśvān kanakabhūṣaṇān muktājālapraticchannān praiṣīt karṇarathaṃ prati
+
+**8.59.3**
+
+tataḥ karṇarathaṃ yāntam arīn ghnantaṃ dhanaṃjayam bāṇavarṣair abhighnantaḥ saṃśaptakarathā yayuḥ
+
+**8.59.4**
+
+tvaramāṇāṃs tu tān sarvān sasūteṣvasanadhvajān jaghāna navatiṃ vīrān arjuno niśitaiḥ śaraiḥ
+
+**8.59.5**
+
+te 'patanta hatā bāṇair nānārūpaiḥ kirīṭinā savimānā yathā siddhāḥ svargāt puṇyakṣaye tathā
+
+**8.59.6**
+
+tataḥ sarathanāgāśvāḥ kuravaḥ kurusattama nirbhayā bharataśreṣṭham abhyavartanta phalgunam
+
+**8.59.7**
+
+tad āyastam amuktāstram udīrṇavaravāraṇam putrāṇāṃ te mahat sainyaṃ samarautsīd dhanaṃjayaḥ
+
+**8.59.8**
+
+śaktyṛṣṭitomaraprāsair gadānistriṃśasāyakaiḥ prācchādayan maheṣvāsāḥ kuravaḥ kurunandanam
+
+**8.59.9**
+
+tāṃ kurūṇāṃ pravitatāṃ śastravṛṣṭiṃ samudyatām vyadhamat pāṇḍavo bāṇais tamaḥ sūrya ivāṃśubhiḥ
+
+**8.59.10**
+
+tato mlecchāḥ sthitair mattais trayodaśaśatair gajaiḥ pārśvato 'bhyahanan pārthaṃ tava putrasya śāsanāt
+
+**8.59.11**
+
+karṇinālīkanārācais tomaraiḥ prāsaśaktibhiḥ kampanair bhiṇḍipālaiś ca rathasthaṃ pārtham ārdayan
+
+**8.59.12**
+
+tām astravṛṣṭiṃ prahitāṃ dvipasthair yavanaiḥ smayan ciccheda niśitair bhallair ardhacandraiś ca phalgunaḥ
+
+**8.59.13**
+
+atha tān dviradān sarvān nānāliṅgair mahāśaraiḥ sapatākān sahārohān girīn vajrair ivābhinat
+
+**8.59.14**
+
+te hemapuṅkhair iṣubhir ācitā hemamālinaḥ hatāḥ petur mahānāgāḥ sāgnijvālā ivādrayaḥ
+
+**8.59.15**
+
+tato gāṇḍīvanirghoṣo mahān āsīd viśāṃ pate stanatāṃ kūjatāṃ caiva manuṣyagajavājinām
+
+**8.59.16**
+
+kuñjarāś ca hatā rājan prādravaṃs te samantataḥ aśvāś ca paryadhāvanta hatārohā diśo daśa
+
+**8.59.17**
+
+rathā hīnā mahārāja rathibhir vājibhis tathā gandharvanagarākārā dṛśyante sma sahasraśaḥ
+
+**8.59.18**
+
+aśvārohā mahārāja dhāvamānās tatas tataḥ tatra tatraiva dṛśyante patitāḥ pārthasāyakaiḥ
+
+**8.59.19**
+
+tasmin kṣaṇe pāṇḍavasya bāhvor balam adṛśyata yat sādino vāraṇāṃś ca rathāṃś caiko 'jayad yudhi
+
+**8.59.20**
+
+tatas tryaṅgeṇa mahatā balena bharatarṣabha dṛṣṭvā parivṛtaṃ rājan bhīmasenaḥ kirīṭinam
+
+**8.59.21**
+
+hatāvaśeṣān utsṛjya tvadīyān kati cid rathān javenābhyadravad rājan dhanaṃjayarathaṃ prati
+
+**8.59.22**
+
+tatas tat prādravat sainyaṃ hatabhūyiṣṭham āturam dṛṣṭvā yad arjunaṃ bhīmo jagāma bhrātaraṃ prati
+
+**8.59.23**
+
+hatāvaśiṣṭāṃs turagān arjunena mahājavān bhīmo vyadhamad abhrānto gadāpāṇir mahāhave
+
+**8.59.24**
+
+kālarātrim ivātyugrāṃ naranāgāśvabhojanām prākārāṭṭapuradvāradāraṇīm atidāruṇām
+
+**8.59.25**
+
+tato gadāṃ nṛnāgāśveṣv āśu bhīmo vyavāsṛjat sā jaghāna bahūn aśvān aśvārohāṃś ca māriṣa
+
+**8.59.26**
+
+kāṃsyāyasatanutrāṃs tān narān aśvāṃś ca pāṇḍavaḥ pothayām āsa gadayā saśabdaṃ te 'patan hatāḥ
+
+**8.59.27**
+
+hatvā tu tad gajānīkaṃ bhīmaseno mahābalaḥ punaḥ svaratham āsthāya pṛṣṭhato 'rjunam anvagāt
+
+**8.59.28**
+
+hataṃ parāṅmukhaprāyaṃ nirutsāhaṃ paraṃ balam vyālambata mahārāja prāyaśaḥ śastraveṣṭitam
+
+**8.59.29**
+
+vilambamānaṃ tat sainyam apragalbham avasthitam dṛṣṭvā prācchādayad bāṇair arjunaḥ prāṇatāpanaiḥ
+
+**8.59.30**
+
+tataḥ kurūṇām abhavad ārtanādo mahāmṛdhe rathāśvanāgāsuharair vadhyatām arjuneṣubhiḥ
+
+**8.59.31**
+
+hāhākṛtaṃ bhṛśaṃ tasthau līyamānaṃ parasparam alātacakravat sainyaṃ tadābhramata tāvakam
+
+**8.59.32**
+
+ādīptaṃ tava tat sainyaṃ śaraiś chinnatanucchadam āsīt svaśoṇitaklinnaṃ phullāśokavanaṃ yathā
+
+**8.59.33**
+
+tad dṛṣṭvā kuravas tatra vikrāntaṃ savyasācinaḥ nirāśāḥ samapadyanta sarve karṇasya jīvite
+
+**8.59.34**
+
+aviṣahyaṃ tu pārthasya śarasaṃpātam āhave matvā nyavartan kuravo jitā gāṇḍīvadhanvanā
+
+**8.59.35**
+
+te hitvā samare pārthaṃ vadhyamānāś ca sāyakaiḥ pradudruvur diśo bhītāś cukruśuś cāpi sūtajam
+
+**8.59.36**
+
+abhyadravata tān pārthaḥ kirañ śaraśatān bahūn harṣayan pāṇḍavān yodhān bhīmasenapurogamān
+
+**8.59.37**
+
+putrās tu te mahārāja jagmuḥ karṇarathaṃ prati agādhe majjatāṃ teṣāṃ dvīpaḥ karṇo 'bhavat tadā
+
+**8.59.38**
+
+kuravo hi mahārāja nirviṣāḥ pannagā iva karṇam evopalīyanta bhayād gāṇḍīvadhanvanaḥ
+
+**8.59.39**
+
+yathā sarvāṇi bhūtāni mṛtyor bhītāni bhārata dharmam evopalīyante karmavanti hi yāni ca
+
+**8.59.40**
+
+tathā karṇaṃ maheṣvāsaṃ putrās tava narādhipa upālīyanta saṃtrāsāt pāṇḍavasya mahātmanaḥ
+
+**8.59.41**
+
+tāñ śoṇitapariklinnān viṣamasthāñ śarāturān mā bhaiṣṭety abravīt karṇo hy abhito mām iteti ca
+
+**8.59.42**
+
+saṃbhagnaṃ hi balaṃ dṛṣṭvā balāt pārthena tāvakam dhanur visphārayan karṇas tasthau śatrujighāṃsayā pāñcālān punar ādhāvat paśyataḥ savyasācinaḥ
+
+**8.59.43**
+
+tataḥ kṣaṇena kṣitipāḥ kṣatajapratimekṣaṇāḥ karṇaṃ vavarṣur bāṇaughair yathā meghā mahīdharam
+
+**8.59.44**
+
+tataḥ śarasahasrāṇi karṇamuktāni māriṣa vyayojayanta pāñcālān prāṇaiḥ prāṇabhṛtāṃ vara
+
+**8.59.45**
+
+tato raṇo mahān āsīt pāñcālānāṃ viśāṃ pate vadhyatāṃ sūtaputreṇa mitrārthe 'mitraghātinām
+
+**8.60.1**
+
+saṃjaya uvāca tataḥ karṇaḥ kuruṣu pradruteṣu; varūthinā śvetahayena rājan pāñcālaputrān vyadhamat sūtaputro; maheṣubhir vāta ivābhrasaṃghān
+
+**8.60.2**
+
+sūtaṃ rathād añjalikena pātya; jaghāna cāśvāñ janamejayasya śatānīkaṃ sutasomaṃ ca bhallair; avākirad dhanuṣī cāpy akṛntat
+
+**8.60.3**
+
+dhṛṣṭadyumnaṃ nirbibhedātha ṣaḍbhir; jaghāna cāśvaṃ dakṣiṇaṃ tasya saṃkhye hatvā cāśvān sātyakeḥ sūtaputraḥ; kaikeyaputraṃ nyavadhīd viśokam
+
+**8.60.4**
+
+tam abhyadhāvan nihate kumāre; kaikeyasenāpatir ugradhanvā śarair vibhinnaṃ bhṛśam ugravegaiḥ; karṇātmajaṃ so 'bhyahanat suṣeṇam
+
+**8.60.5**
+
+tasyārdhacandrais tribhir uccakarta; prasahya bāhū ca śiraś ca karṇaḥ sa syandanād gām apatad gatāsuḥ; paraśvadhaiḥ śāla ivāvarugṇaḥ
+
+**8.60.6**
+
+hatāśvam añjogatibhiḥ suṣeṇaḥ; śinipravīraṃ niśitaiḥ pṛṣatkaiḥ pracchādya nṛtyann iva sautiputraḥ; śaineyabāṇābhihataḥ papāta
+
+**8.60.7**
+
+putre hate krodhaparītacetāḥ; karṇaḥ śinīnām ṛṣabhaṃ jighāṃsuḥ hato 'si śaineya iti bruvan sa; vyavāsṛjad bāṇam amitrasāham
+
+**8.60.8**
+
+sa tasya ciccheda śaraṃ śikhaṇḍī; tribhis tribhiś ca pratutoda karṇam śikhaṇḍinaḥ kārmukaṃ sa dhvajaṃ ca; cchittvā śarābhyām ahanat sujātam
+
+**8.60.9**
+
+śikhaṇḍinaṃ ṣaḍbhir avidhyad ugro; dānto dhārṣṭadyumnaśiraś cakarta athābhinat sutasomaṃ śareṇa; sa saṃśitenādhirathir mahātmā
+
+**8.60.10**
+
+athākrande tumule vartamāne; dhārṣṭadyumne nihate tatra kṛṣṇaḥ apāñcālyaṃ kriyate yāhi pārtha; karṇaṃ jahīty abravīd rājasiṃha
+
+**8.60.11**
+
+tataḥ prahasyāśu narapravīro; rathaṃ rathenādhirather jagāma bhaye teṣāṃ trāṇam icchan subāhur; abhyāhatānāṃ rathayūthapena
+
+**8.60.12**
+
+visphārya gāṇḍīvam athograghoṣaṃ; jyayā samāhatya tale bhṛśaṃ ca bāṇāndhakāraṃ sahasaiva kṛtvā; jaghāna nāgāśvarathān narāṃś ca
+
+**8.60.13**
+
+taṃ bhīmaseno 'nu yayau rathena; pṛṣṭhe rakṣan pāṇḍavam ekavīram tau rājaputrau tvaritau rathābhyāṃ; karṇāya yātāv aribhir vimuktau
+
+**8.60.14**
+
+atrāntare sumahat sūtaputraś; cakre yuddhaṃ somakān saṃpramṛdnan rathāśvamātaṅgagaṇāñ jaghāna; pracchādayām āsa diśaḥ śaraiś ca
+
+**8.60.15**
+
+tam uttamaujā janamejayaś ca; kruddhau yudhāmanyuśikhaṇḍinau ca karṇaṃ vineduḥ sahitāḥ pṛṣatkaiḥ; saṃmardamānāḥ saha pārṣatena
+
+**8.60.16**
+
+te pañca pāñcālarathāḥ surūpair; vaikartanaṃ karṇam abhidravantaḥ tasmād rathāc cyāvayituṃ na śekur; dhairyāt kṛtātmānam ivendriyāṇi
+
+**8.60.17**
+
+teṣāṃ dhanūṃṣi dhvajavājisūtāṃs; tūṇaṃ patākāś ca nikṛtya bāṇaiḥ tān pañcabhiḥ sa tv ahanat pṛṣatkaiḥ; karṇas tataḥ siṃha ivonnanāda
+
+**8.60.18**
+
+tasyāsyatas tān abhinighnataś ca; jyābāṇahastasya dhanuḥsvanena sādridrumā syāt pṛthivī viśīrṇā; ity eva matvā janatā vyaṣīdat
+
+**8.60.19**
+
+sa śakracāpapratimena dhanvanā; bhṛśātatenādhirathiḥ śarān sṛjan babhau raṇe dīptamarīcimaṇḍalo; yathāṃśumālī pariveṣavāṃs tathā
+
+**8.60.20**
+
+śikhaṇḍinaṃ dvādaśabhiḥ parābhinac; chitaiḥ śaraiḥ ṣaḍbhir athottamaujasam tribhir yudhāmanyum avidhyad āśugais; tribhis tribhiḥ somakapārṣatātmajau
+
+**8.60.21**
+
+parājitāḥ pañca mahārathās tu te; mahāhave sūtasutena māriṣa nirudyamās tasthur amitramardanā; yathendriyārthātmavatā parājitāḥ
+
+**8.60.22**
+
+nimajjatas tān atha karṇasāgare; vipannanāvo vaṇijo yathārṇave uddadhrire naubhir ivārṇavād rathaiḥ; sukalpitair draupadijāḥ svamātulān
+
+**8.60.23**
+
+tataḥ śinīnām ṛṣabhaḥ śitaiḥ śarair; nikṛtya karṇaprahitān iṣūn bahūn vidārya karṇaṃ niśitair ayasmayais; tavātmajaṃ jyeṣṭham avidhyad aṣṭabhiḥ
+
+**8.60.24**
+
+kṛpo 'tha bhojaś ca tavātmajas tathā; svayaṃ ca karṇo niśitair atāḍayat sa taiś caturbhir yuyudhe yadūttamo; digīśvarair daityapatir yathā tathā
+
+**8.60.25**
+
+samānateneṣvasanena kūjatā; bhṛśātatenāmitabāṇavarṣiṇā babhūva durdharṣataraḥ sa sātyakiḥ; śaran nabhomadhyagato yathā raviḥ
+
+**8.60.26**
+
+punaḥ samāsādya rathān sudaṃśitāḥ; śinipravīraṃ jugupuḥ paraṃtapāḥ sametya pāñcālarathā mahāraṇe; marudgaṇāḥ śakram ivārinigrahe
+
+**8.60.27**
+
+tato 'bhavad yuddham atīva dāruṇaṃ; tavāhitānāṃ tava sainikaiḥ saha rathāśvamātaṅgavināśanaṃ tathā; yathā surāṇām asuraiḥ purābhavat
+
+**8.60.28**
+
+rathadvipā vājipadātayo 'pi vā; bhramanti nānāvidhaśastraveṣṭitāḥ paraspareṇābhihatāś ca caskhalur; vinedur ārtā vyasavo 'patanta ca
+
+**8.60.29**
+
+tathā gate bhīmam abhīs tavātmajaḥ; sasāra rājāvarajaḥ kirañ śaraiḥ tam abhyadhāvat tvarito vṛkodaro; mahāruruṃ siṃha ivābhipetivān
+
+**8.60.30**
+
+tatas tayor yuddham atītamānuṣaṃ; pradīvyatoḥ prāṇadurodare 'bhavat paraspareṇābhiniviṣṭaroṣayor; udagrayoḥ śambaraśakrayor yathā
+
+**8.60.31**
+
+śaraiḥ śarīrāntakaraiḥ sutejanair; nijaghnatus tāv itaretaraṃ bhṛśam sakṛtprabhinnāv iva vāśitāntare; mahāgajau manmathasaktacetasau
+
+**8.60.32**
+
+tavātmajasyātha vṛkodaras tvaran; dhanuḥ kṣurābhyāṃ dhvajam eva cācchinat lalāṭam apy asya bibheda patriṇā; śiraś ca kāyāt prajahāra sāratheḥ
+
+**8.60.33**
+
+sa rājaputro 'nyad avāpya kārmukaṃ; vṛkodaraṃ dvādaśabhiḥ parābhinat svayaṃ niyacchaṃs turagān ajihmagaiḥ; śaraiś ca bhīmaṃ punar abhyavīvṛṣat
+
+**8.61.1**
+
+saṃjaya uvāca tatrākarod duṣkaraṃ rājaputro; duḥśāsanas tumule yudhyamānaḥ ciccheda bhīmasya dhanuḥ kṣureṇa; ṣaḍbhiḥ śaraiḥ sārathim apy avidhyat
+
+**8.61.2**
+
+tato 'bhinad bahubhiḥ kṣipram eva; vareṣubhir bhīmasenaṃ mahātmā sa vikṣaran nāga iva prabhinno; gadām asmai tumule prāhiṇod vai
+
+**8.61.3**
+
+tayāharad daśa dhanvantarāṇi; duḥśāsanaṃ bhīmasenaḥ prasahya tayā hataḥ patito vepamāno; duḥśāsano gadayā vegavatyā
+
+**8.61.4**
+
+hayāḥ sasūtāś ca hatā narendra; cūrṇīkṛtaś cāsya rathaḥ patantyā vidhvastavarmābharaṇāmbarasrag; viceṣṭamāno bhṛśavedanārtaḥ
+
+**8.61.5**
+
+tataḥ smṛtvā bhīmasenas tarasvī; sāpatnakaṃ yat prayuktaṃ sutais te rathād avaplutya gataḥ sa bhūmau; yatnena tasmin praṇidhāya cakṣuḥ
+
+**8.61.6**
+
+asiṃ samuddhṛtya śitaṃ sudhāraṃ; kaṇṭhe samākramya ca vepamānam utkṛtya vakṣaḥ patitasya bhūmāv; athāpibac choṇitam asya koṣṇam āsvādya cāsvādya ca vīkṣamāṇaḥ; kruddho 'tivelaṃ prajagāda vākyam
+
+**8.61.7**
+
+stanyasya mātur madhusarpiṣo vā; mādhvīkapānasya ca satkṛtasya divyasya vā toyarasasya pānāt; payodadhibhyāṃ mathitāc ca mukhyāt sarvebhya evābhyadhiko raso 'yaṃ; mato mamādyāhitalohitasya
+
+**8.61.8**
+
+evaṃ bruvāṇaṃ punar ādravantam; āsvādya valgantam atiprahṛṣṭam ye bhīmasenaṃ dadṛśus tadānīṃ; bhayena te 'pi vyathitā nipetuḥ
+
+**8.61.9**
+
+ye cāpi tatrāpatitā manuṣyās; teṣāṃ karebhyaḥ patitaṃ ca śastram bhayāc ca saṃcukruśur uccakais te; nimīlitākṣā dadṛśuś ca tan na
+
+**8.61.10**
+
+ye tatra bhīmaṃ dadṛśuḥ samantād; dauḥśāsanaṃ tadrudhiraṃ pibantam sarve palāyanta bhayābhipannā; nāyaṃ manuṣya iti bhāṣamāṇāḥ
+
+**8.61.11**
+
+śṛṇvatāṃ lokavīrāṇām idaṃ vacanam abravīt eṣa te rudhiraṃ kaṇṭhāt pibāmi puruṣādhama brūhīdānīṃ susaṃrabdhaḥ punar gaur iti gaur iti
+
+**8.61.12**
+
+pramāṇakoṭyāṃ śayanaṃ kālakūṭasya bhojanam daśanaṃ cāhibhiḥ kaṣṭaṃ dāhaṃ ca jatuveśmani
+
+**8.61.13**
+
+dyūtena rājyaharaṇam araṇye vasatiś ca yā iṣvastrāṇi ca saṃgrāmeṣv asukhāni ca veśmani
+
+**8.61.14**
+
+duḥkhāny etāni jānīmo na sukhāni kadā cana dhṛtarāṣṭrasya daurātmyāt saputrasya sadā vayam
+
+**8.61.15**
+
+ity uktvā vacanaṃ rājañ jayaṃ prāpya vṛkodaraḥ punar āha mahārāja smayaṃs tau keśavārjunau
+
+**8.61.16**
+
+duḥśāsane yad raṇe saṃśrutaṃ me; tad vai sarvaṃ kṛtam adyeha vīrau adyaiva dāsyāmy aparaṃ dvitīyaṃ; duryodhanaṃ yajñapaśuṃ viśasya śiro mṛditvā ca padā durātmanaḥ; śāntiṃ lapsye kauravāṇāṃ samakṣam
+
+**8.61.17**
+
+etāvad uktvā vacanaṃ prahṛṣṭo; nanāda coccai rudhirārdragātraḥ nanarta caivātibalo mahātmā; vṛtraṃ nihatyeva sahasranetraḥ
+
+**8.62.1**
+
+saṃjaya uvāca duḥśāsane tu nihate putrās tava mahārathāḥ mahākrodhaviṣā vīrāḥ samareṣv apalāyinaḥ daśa rājan mahāvīryo bhīmaṃ prācchādayañ śaraiḥ
+
+**8.62.2**
+
+kavacī niṣaṅgī pāśī daṇḍadhāro dhanurdharaḥ alolupaḥ śalaḥ saṃdho vātavegasuvarcasau
+
+**8.62.3**
+
+ete sametya sahitā bhrātṛvyasanakarśitāḥ bhīmasenaṃ mahābāhuṃ mārgaṇaiḥ samavārayan
+
+**8.62.4**
+
+sa vāryamāṇo viśikhaiḥ samantāt tair mahārathaiḥ bhīmaḥ krodhābhiraktākṣaḥ kruddhaḥ kāla ivābabhau
+
+**8.62.5**
+
+tāṃs tu bhallair mahāvegair daśabhir daśabhiḥ śitaiḥ rukmāṅgado rukmapuṅkhaiḥ pārtho ninye yamakṣayam
+
+**8.62.6**
+
+hateṣu teṣu vīreṣu pradudrāva balaṃ tava paśyataḥ sūtaputrasya pāṇḍavasya bhayārditam
+
+**8.62.7**
+
+tataḥ karṇo mahārāja praviveśa mahāraṇam dṛṣṭvā bhīmasya vikrāntam antakasya prajāsv iva
+
+**8.62.8**
+
+tasya tv ākārabhāvajñaḥ śalyaḥ samitiśobhanaḥ uvāca vacanaṃ karṇaṃ prāptakālam ariṃdama mā vyathāṃ kuru rādheya naitat tvayy upapadyate
+
+**8.62.9**
+
+ete dravanti rājāno bhīmasenabhayārditāḥ duryodhanaś ca saṃmūḍho bhrātṛvyasanaduḥkhitaḥ
+
+**8.62.10**
+
+duḥśāsanasya rudhire pīyamāne mahātmanā vyāpannacetasaś caiva śokopahatamanyavaḥ
+
+**8.62.11**
+
+duryodhanam upāsante parivārya samantataḥ kṛpaprabhṛtayaḥ karṇa hataśeṣāś ca sodarāḥ
+
+**8.62.12**
+
+pāṇḍavā labdhalakṣāś ca dhanaṃjayapurogamāḥ tvām evābhimukhāḥ śūrā yuddhāya samupāsthitāḥ
+
+**8.62.13**
+
+sa tvaṃ puruṣaśārdūla pauruṣe mahati sthitaḥ kṣatradharmaṃ puraskṛtya pratyudyāhi dhanaṃjayam
+
+**8.62.14**
+
+bhāro hi dhārtarāṣṭreṇa tvayi sarvaḥ samarpitaḥ tam udvaha mahābāho yathāśakti yathābalam jaye syād vipulā kīrtir dhruvaḥ svargaḥ parājaye
+
+**8.62.15**
+
+vṛṣasenaś ca rādheya saṃkruddhas tanayas tava tvayi mohasamāpanne pāṇḍavān abhidhāvati
+
+**8.62.16**
+
+etac chrutvā tu vacanaṃ śalyasyāmitatejasaḥ hṛdi mānuṣyakaṃ bhāvaṃ cakre yuddhāya susthiram
+
+**8.62.17**
+
+tataḥ kruddho vṛṣaseno 'bhyadhāvad; ātasthivāṃsaṃ svarathaṃ hatārim vṛkodaraṃ kālam ivāttadaṇḍaṃ; gadāhastaṃ pothamānaṃ tvadīyān
+
+**8.62.18**
+
+tam abhyadhāvan nakulaḥ pravīro; roṣād amitraṃ pratudan pṛṣatkaiḥ karṇasya putraṃ samare prahṛṣṭaṃ; jiṣṇur jighāṃsur maghaveva jambham
+
+**8.62.19**
+
+tato dhvajaṃ sphāṭikacitrakambuṃ; ciccheda vīro nakulaḥ kṣureṇa karṇātmajasyeṣvasanaṃ ca citraṃ; bhallena jāmbūnadapaṭṭanaddham
+
+**8.62.20**
+
+athānyad ādāya dhanuḥ suśīghraṃ; karṇātmajaḥ pāṇḍavam abhyavidhyat divyair mahāstrair nakulaṃ mahāstro; duḥśāsanasyāpacitiṃ yiyāsuḥ
+
+**8.62.21**
+
+tataḥ kruddho nakulas taṃ mahātmā; śarair maholkāpratimair avidhyat divyair astrair abhyavidhyac ca so 'pi; karṇasya putro nakulaṃ kṛtāstraḥ
+
+**8.62.22**
+
+karṇasya putro nakulasya rājan; sarvān aśvān akṣiṇod uttamāstraiḥ vanāyujān sukumārasya śubhrān; alaṃkṛtāñ jātarūpeṇa śīghrān
+
+**8.62.23**
+
+tato hatāśvād avaruhya yānād; ādāya carma ruciraṃ cāṣṭacandram ākāśasaṃkāśam asiṃ gṛhītvā; poplūyamānaḥ khagavac cacāra
+
+**8.62.24**
+
+tato 'ntarikṣe nṛvarāśvanāgāṃś; ciccheda mārgān vicaran vicitrān te prāpatann asinā gāṃ viśastā; yathāśvamedhe paśavaḥ śamitrā
+
+**8.62.25**
+
+dvisāhasrā viditā yuddhaśauṇḍā; nānādeśyāḥ subhṛtāḥ satyasaṃdhāḥ ekena śīghraṃ nakulena kṛttāḥ; sārepsunevottamacandanās te
+
+**8.62.26**
+
+tam āpatantaṃ nakulaṃ so 'bhipatya; samantataḥ sāyakair abhyavidhyat sa tudyamāno nakulaḥ pṛṣatkair; vivyādha vīraṃ sa cukopa viddhaḥ
+
+**8.62.27**
+
+taṃ karṇaputro vidhamantam ekaṃ; narāśvamātaṅgarathapravekān krīḍantam aṣṭādaśabhiḥ pṛṣatkair; vivyādha vīraṃ sa cukopa viddhaḥ
+
+**8.62.28**
+
+tato 'bhyadhāvat samare jighāṃsuḥ; karṇātmajaṃ pāṇḍusuto nṛvīraḥ tasyeṣubhir vyadhamat karṇaputro; mahāraṇe carma sahasratāram
+
+**8.62.29**
+
+tasyāyasaṃ niśitaṃ tīkṣṇadhāram; asiṃ vikośaṃ gurubhārasāham dviṣaccharīrāpaharaṃ sughoram; ādhunvataḥ sarpam ivograrūpam
+
+**8.62.30**
+
+kṣipraṃ śaraiḥ ṣaḍbhir amitrasāhaś; cakarta khaḍgaṃ niśitaiḥ sudhāraiḥ punaś ca pītair niśitaiḥ pṛṣatkaiḥ; stanāntare gāḍham athābhyavidhyat
+
+**8.62.31**
+
+sa bhīmasenasya rathaṃ hatāśvo; mādrīsutaḥ karṇasutābhitaptaḥ āpupluve siṃha ivācalāgraṃ; saṃprekṣamāṇasya dhanaṃjayasya
+
+**8.62.32**
+
+nakulam atha viditvā chinnabāṇāsanāsiṃ; viratham ariśarārtaṃ karṇaputrāstrabhagnam pavanadhutapatākā hrādino valgitāśvā; varapuruṣaniyattās te rathāḥ śīghram īyuḥ
+
+**8.62.33**
+
+drupadasutavariṣṭhāḥ pañca śaineyaṣaṣṭhā; drupadaduhitṛputrāḥ pañca cāmitrasāhāḥ dviradarathanarāśvān sūdayantas tvadīyān; bhujagapatinikāśair mārgaṇair āttaśastrāḥ
+
+**8.62.34**
+
+atha tava rathamukhyās tān pratīyus tvaranto; hṛdikasutakṛpau ca drauṇiduryodhanau ca śakuniśukavṛkāś ca krāthadevāvṛdhau ca; dviradajaladaghoṣaiḥ syandanaiḥ kārmukaiś ca
+
+**8.62.35**
+
+tava naravaravaryās tān daśaikaṃ ca vīrān; pravaraśaravarāgryais tāḍayanto 'bhyarundhan navajaladasavarṇair hastibhis tān udīyur; giriśikharanikāśair bhīmavegaiḥ kuṇindāḥ
+
+**8.62.36**
+
+sukalpitā haimavatā madotkaṭā; raṇābhikāmaiḥ kṛtibhiḥ samāsthitāḥ suvarṇajālāvatatā babhur gajās; tathā yathā vai jaladāḥ savidyutaḥ
+
+**8.62.37**
+
+kuṇindaputro daśabhir mahāyasaiḥ; kṛpaṃ sasūtāśvam apīḍayad bhṛśam tataḥ śaradvatsutasāyakair hataḥ; sahaiva nāgena papāta bhūtale
+
+**8.62.38**
+
+kuṇindaputrāvarajas tu tomarair; divākarāṃśupratimair ayasmayaiḥ rathaṃ ca vikṣobhya nanāda nardatas; tato 'sya gāndhārapatiḥ śiro 'harat
+
+**8.62.39**
+
+tataḥ kuṇindeṣu hateṣu teṣv atha; prahṛṣṭarūpās tava te mahārathāḥ bhṛśaṃ pradadhmur lavaṇāmbusaṃbhavān; parāṃś ca bāṇāsanapāṇayo 'bhyayuḥ
+
+**8.62.40**
+
+athābhavad yuddham atīva dāruṇaṃ; punaḥ kurūṇāṃ saha pāṇḍusṛñjayaiḥ śarāsiśaktyṛṣṭigadāparaśvadhair; narāśvanāgāsuharaṃ bhṛśākulam
+
+**8.62.41**
+
+rathāśvamātaṅgapadātibhis tataḥ; parasparaṃ viprahatāpatan kṣitau yathā savidyutstanitā balāhakāḥ; samāsthitā digbhya ivogramārutaiḥ
+
+**8.62.42**
+
+tataḥ śatānīkahatān mahāgajāṃs; tathā rathān pattigaṇāṃś ca tāvakān jaghāna bhojaś ca hayān athāpatan; viśastrakṛttāḥ kṛtavarmaṇā dvipāḥ
+
+**8.62.43**
+
+athāpare drauṇiśarāhatā dvipās; trayaḥ sasarvāyudhayodhaketavaḥ nipetur urvyāṃ vyasavaḥ prapātitās; tathā yathā vajrahatā mahācalāḥ
+
+**8.62.44**
+
+kuṇindarājāvarajād anantaraḥ; stanāntare patrivarair atāḍayat tavātmajaṃ tasya tavātmajaḥ śaraiḥ; śitaiḥ śarīraṃ bibhide dvipaṃ ca tam
+
+**8.62.45**
+
+sa nāgarājaḥ saha rājasūnunā; papāta raktaṃ bahu sarvataḥ kṣaran śacīśavajraprahato 'mbudāgame; yathā jalaṃ gairikaparvatas tathā
+
+**8.62.46**
+
+kuṇindaputraprahito 'paradvipaḥ; śukaṃ sasūtāśvarathaṃ vyapothayat tato 'patat krāthaśarābhidāritaḥ; saheśvaro vajrahato yathā giriḥ
+
+**8.62.47**
+
+rathī dvipasthena hato 'patac charaiḥ; krāthādhipaḥ parvatajena durjayaḥ savājisūteṣvasanas tathāpatad; yathā mahāvātahato mahādrumaḥ
+
+**8.62.48**
+
+vṛko dvipasthaṃ girirājavāsinaṃ; bhṛśaṃ śarair dvādaśabhiḥ parābhinat tato vṛkaṃ sāśvarathaṃ mahājavaṃ; tvaraṃś caturbhiś caraṇe vyapothayat
+
+**8.62.49**
+
+sa nāgarājaḥ saniyantṛko 'patat; parāhato babhrusuteṣubhir bhṛśam sa cāpi devāvṛdhasūnur arditaḥ; papāta nunnaḥ sahadevasūnunā
+
+**8.62.50**
+
+viṣāṇapotrāparagātraghātinā; gajena hantuṃ śakuneḥ kuṇindajaḥ jagāma vegena bhṛśārdayaṃś ca taṃ; tato 'sya gāndhārapatiḥ śiro 'harat
+
+**8.62.51**
+
+tataḥ śatānīkahatā mahāgajā; hayā rathāḥ pattigaṇāś ca tāvakāḥ suparṇavātaprahatā yathā nagās; tathā gatā gām avaśā vicūrṇitāḥ
+
+**8.62.52**
+
+tato 'bhyavidhyad bahubhiḥ śitaiḥ śaraiḥ; kuṇindaputro nakulātmajaṃ smayan tato 'sya kāyān nicakarta nākuliḥ; śiraḥ kṣureṇāmbujasaṃnibhānanam
+
+**8.62.53**
+
+tataḥ śatānīkam avidhyad āśugais; tribhiḥ śitaiḥ karṇasuto 'rjunaṃ tribhiḥ tribhiś ca bhīmaṃ nakulaṃ ca saptabhir; janārdanaṃ dvādaśabhiś ca sāyakaiḥ
+
+**8.62.54**
+
+tad asya karmātimanuṣyakarmaṇaḥ; samīkṣya hṛṣṭāḥ kuravo 'bhyapūjayan parākramajñās tu dhanaṃjayasya te; huto 'yam agnāv iti taṃ tu menire
+
+**8.62.55**
+
+tataḥ kirīṭī paravīraghātī; hatāśvam ālokya narapravīram tam abhyadhāvad vṛṣasenam āhave; sa sūtajasya pramukhe sthitaṃ tadā
+
+**8.62.56**
+
+tam āpatantaṃ naravīram ugraṃ; mahāhave bāṇasahasradhāriṇam abhyāpatat karṇasuto mahāratho; yathaiva cendraṃ namuciḥ purātane
+
+**8.62.57**
+
+tato 'dbhutenaikaśatena pārthaṃ; śarair viddhvā sūtaputrasya putraḥ nanāda nādaṃ sumahānubhāvo; viddhveva śakraṃ namuciḥ purā vai
+
+**8.62.58**
+
+punaḥ sa pārthaṃ vṛṣasena ugrair; bāṇair avidhyad bhujamūlamadhye tathaiva kṛṣṇaṃ navabhiḥ samārdayat; punaś ca pārthaṃ daśabhiḥ śitāgraiḥ
+
+**8.62.59**
+
+tataḥ kirīṭī raṇamūrdhni kopāt; kṛtvā triśākhāṃ bhrukuṭiṃ lalāṭe mumoca bāṇān viśikhān mahātmā; vadhāya rājan sūtaputrasya saṃkhye
+
+**8.62.60**
+
+vivyādha cainaṃ daśabhiḥ pṛṣatkair; marmasv asaktaṃ prasabhaṃ kirīṭī ciccheda cāsyeṣvasanaṃ bhujau ca; kṣuraiś caturbhiḥ śira eva cograiḥ
+
+**8.62.61**
+
+sa pārthabāṇābhihataḥ papāta; rathād vibāhur viśirā dharāyām supuṣpitaḥ parṇadharo 'tikāyo; vāteritaḥ śāla ivādriśṛṅgāt
+
+**8.62.62**
+
+taṃ prekṣya bāṇābhihataṃ patantaṃ; rathāt sutaṃ sūtajaḥ kṣiprakārī rathaṃ rathenāśu jagāma vegāt; kirīṭinaḥ putravadhābhitaptaḥ
+
+**8.63.1**
+
+saṃjaya uvāca vṛṣasenaṃ hataṃ dṛṣṭvā śokāmarṣasamanvitaḥ muktvā śokodbhavaṃ vāri netrābhyāṃ sahasā vṛṣaḥ
+
+**8.63.2**
+
+rathena karṇas tejasvī jagāmābhimukho ripūn yuddhāyāmarṣatāmrākṣaḥ samāhūya dhanaṃjayam
+
+**8.63.3**
+
+tau rathau sūryasaṃkāśau vaiyāghraparivāraṇau sametau dadṛśus tatra dvāv ivārkau samāgatau
+
+**8.63.4**
+
+śvetāśvau puruṣādityāv āsthitāv arimardanau śuśubhāte mahātmānau candrādityau yathā divi
+
+**8.63.5**
+
+tau dṛṣṭvā vismayaṃ jagmuḥ sarvabhūtāni māriṣa trailokyavijaye yattāv indravairocanāv iva
+
+**8.63.6**
+
+rathajyātalanirhrādair bāṇaśaṅkharavair api tau rathāv abhidhāvantau samālokya mahīkṣitām
+
+**8.63.7**
+
+dhvajau ca dṛṣṭvā saṃsaktau vismayaḥ samapadyata hastikakṣyāṃ ca karṇasya vānaraṃ ca kirīṭinaḥ
+
+**8.63.8**
+
+tau rathau saṃprasaktau ca dṛṣṭvā bhārata pārthivāḥ siṃhanādaravāṃś cakruḥ sādhuvādāṃś ca puṣkalān
+
+**8.63.9**
+
+śrutvā tu dvairathaṃ tābhyāṃ tatra yodhāḥ samantataḥ cakrur bāhuvalaṃ caiva tathā celavalaṃ mahat
+
+**8.63.10**
+
+ājagmuḥ kuravas tatra vāditrānugatās tadā karṇaṃ praharṣayantaś ca śaṅkhān dadhmuś ca puṣkalān
+
+**8.63.11**
+
+tathaiva pāṇḍavāḥ sarve harṣayanto dhanaṃjayam tūryaśaṅkhaninādena diśaḥ sarvā vyanādayan
+
+**8.63.12**
+
+kṣveḍitāsphoṭitotkruṣṭais tumulaṃ sarvato 'bhavat bāhughoṣāś ca vīrāṇāṃ karṇārjunasamāgame
+
+**8.63.13**
+
+tau dṛṣṭvā puruṣavyāghrau rathasthau rathināṃ varau pragṛhītamahācāpau śaraśaktigadāyudhau
+
+**8.63.14**
+
+varmiṇau baddhanistriṃśau śvetāśvau śaṅkhaśobhinau tūṇīravarasaṃpannau dvāv api sma sudarśanau
+
+**8.63.15**
+
+raktacandanadigdhāṅgau samadau vṛṣabhāv iva āśīviṣasamaprakhyau yamakālāntakopamau
+
+**8.63.16**
+
+indravṛtrāv iva kruddhau sūryācandramasaprabhau mahāgrahāv iva krūrau yugānte samupasthitau
+
+**8.63.17**
+
+devagarbhau devasamau devatulyau ca rūpataḥ sametau puruṣavyāghrau prekṣya karṇadhanaṃjayau
+
+**8.63.18**
+
+ubhau varāyudhadharāv ubhau raṇakṛtaśramau ubhau ca bāhuśabdena nādayantau nabhastalam
+
+**8.63.19**
+
+ubhau viśrutakarmāṇau pauruṣeṇa balena ca ubhau ca sadṛśau yuddhe śambarāmararājayoḥ
+
+**8.63.20**
+
+kārtavīryasamau yuddhe tathā dāśaratheḥ samau viṣṇuvīryasamau vīrye tathā bhavasamau yudhi
+
+**8.63.21**
+
+ubhau śvetahayau rājan rathapravaravāhinau sārathī pravarau caiva tayor āstāṃ mahābalau
+
+**8.63.22**
+
+tau tu dṛṣṭvā mahārāja rājamānau mahārathau siddhacāraṇasaṃghānāṃ vismayaḥ samapadyata
+
+**8.63.23**
+
+dhārtarāṣṭrās tataḥ karṇaṃ sabalā bharatarṣabha parivavrur mahātmānaṃ kṣipram āhavaśobhinam
+
+**8.63.24**
+
+tathaiva pāṇḍavā hṛṣṭā dhṛṣṭadyumnapurogamāḥ parivavrur mahātmānaṃ pārtham apratimaṃ yudhi
+
+**8.63.25**
+
+tāvakānāṃ raṇe karṇo glaha āsīd viśāṃ pate tathaiva pāṇḍaveyānāṃ glahaḥ pārtho 'bhavad yudhi
+
+**8.63.26**
+
+ta eva sabhyās tatrāsan prekṣakāś cābhavan sma te tatraiṣāṃ glahamānānāṃ dhruvau jayaparājayau
+
+**8.63.27**
+
+tābhyāṃ dyūtaṃ samāyattaṃ vijayāyetarāya vā asmākaṃ paṇḍavānāṃ ca sthitānāṃ raṇamūrdhani
+
+**8.63.28**
+
+tau tu sthitau mahārāja samare yuddhaśālinau anyonyaṃ pratisaṃrabdhāv anyonyasya jayaiṣiṇau
+
+**8.63.29**
+
+tāv ubhau prajihīrṣetām indravṛtrāv ivābhitaḥ bhīmarūpadharāv āstāṃ mahādhūmāv iva grahau
+
+**8.63.30**
+
+tato 'ntarikṣe sākṣepā vivādā bharatarṣabha mitho bhedāś ca bhūtānām āsan karṇārjunāntare vyāśrayanta diśo bhinnāḥ sarvalokāś ca māriṣa
+
+**8.63.31**
+
+devadānavagandharvāḥ piśācoragarākṣasāḥ pratipakṣagrahaṃ cakruḥ karṇārjunasamāgame
+
+**8.63.32**
+
+dyaur āsīt karṇato vyagrā sanakṣatrā viśāṃ pate bhūmir viśālā pārthasya mātā putrasya bhārata
+
+**8.63.33**
+
+saritaḥ sāgarāś caiva girayaś ca narottama vṛkṣāś cauṣadhayas tatra vyāśrayanta kirīṭinam
+
+**8.63.34**
+
+asurā yātudhānāś ca guhyakāś ca paraṃtapa karṇataḥ samapadyanta khecarāṇi vayāṃsi ca
+
+**8.63.35**
+
+ratnāni nidhayaḥ sarve vedāś cākhyānapañcamāḥ sopavedopaniṣadaḥ sarahasyāḥ sasaṃgrahāḥ
+
+**8.63.36**
+
+vāsukiś citrasenaś ca takṣakaś copatakṣakaḥ parvatāś ca tathā sarve kādraveyāś ca sānvayāḥ viṣavanto mahāroṣā nāgāś cārjunato 'bhavan
+
+**8.63.37**
+
+airāvatāḥ saurabheyā vaiśāleyāś ca bhoginaḥ ete 'bhavann arjunataḥ kṣudrasarpās tu karṇataḥ
+
+**8.63.38**
+
+īhāmṛgā vyāḍamṛgā maṅgalyāś ca mṛgadvijāḥ pārthasya vijayaṃ rājan sarva evābhisaṃśritāḥ
+
+**8.63.39**
+
+vasavo marutaḥ sādhyā rudrā viśve 'śvinau tathā agnir indraś ca somaś ca pavanaś ca diśo daśa dhanaṃjayam upājagmur ādityāḥ karṇato 'bhavan
+
+**8.63.40**
+
+devās tu pitṛbhiḥ sārdhaṃ sagaṇārjunato 'bhavan yamo vaiśravaṇaś caiva varuṇaś ca yato 'rjunaḥ
+
+**8.63.41**
+
+devabrahmanṛparṣīṇāṃ gaṇāḥ pāṇḍavato 'bhavan tumburupramukhā rājan gandharvāś ca yato 'rjunaḥ
+
+**8.63.42**
+
+prāveyāḥ saha mauneyair gandharvāpsarasāṃ gaṇāḥ īhāmṛgavyāḍamṛgair dvipāś ca rathapattibhiḥ
+
+**8.63.43**
+
+uhyamānās tathā meghair vāyunā ca manīṣiṇaḥ didṛkṣavaḥ samājagmuḥ karṇārjunasamāgamam
+
+**8.63.44**
+
+devadānavagandharvā nāgā yakṣāḥ patatriṇaḥ maharṣayo vedavidaḥ pitaraś ca svadhābhujaḥ
+
+**8.63.45**
+
+tapo vidyās tathauṣadhyo nānārūpāmbaratviṣaḥ antarikṣe mahārāja vinadanto 'vatasthire
+
+**8.63.46**
+
+brahmā brahmarṣibhiḥ sārdhaṃ prajāpatibhir eva ca bhavenāvasthito yānaṃ divyaṃ taṃ deśam abhyayāt
+
+**8.63.47**
+
+dṛṣṭvā prajāpatiṃ devāḥ svayaṃbhuvam upāgaman samo 'stu deva vijaya etayor narasiṃhayoḥ
+
+**8.63.48**
+
+tad upaśrutya maghavā praṇipatya pitāmaham karṇārjunavināśena mā naśyatv akhilaṃ jagat
+
+**8.63.49**
+
+svayaṃbho brūhi tad vākyaṃ samo 'stu vijayo 'nayoḥ tat tathāstu namas te 'stu prasīda bhagavan mama
+
+**8.63.50**
+
+brahmeśānāv atho vākyam ūcatus tridaśeśvaram vijayo dhruva evāstu vijayasya mahātmanaḥ
+
+**8.63.51**
+
+manasvī balavāñ śūraḥ kṛtāstraś ca tapodhanaḥ bibharti ca mahātejā dhanurvedam aśeṣataḥ
+
+**8.63.52**
+
+atikramec ca māhātmyād diṣṭam etasya paryayāt atikrānte ca lokānām abhāvo niyato bhavet
+
+**8.63.53**
+
+na vidyate vyavasthānaṃ kṛṣṇayoḥ kruddhayoḥ kva cit sraṣṭārau hy asataś cobhau sataś ca puruṣarṣabhau
+
+**8.63.54**
+
+naranārāyaṇāv etau purāṇāv ṛṣisattamau aniyattau niyantārāv abhītau sma paraṃtapau
+
+**8.63.55**
+
+karṇo lokān ayaṃ mukhyān prāpnotu puruṣarṣabhaḥ vīro vaikartanaḥ śūro vijayas tv astu kṛṣṇayoḥ
+
+**8.63.56**
+
+vasūnāṃ ca salokatvaṃ marutāṃ vā samāpnuyāt sahito droṇabhīṣmābhyāṃ nākaloke mahīyatām
+
+**8.63.57**
+
+ity ukto devadevābhyāṃ sahasrākṣo 'bravīd vacaḥ āmantrya sarvabhūtāni brahmeśānānuśāsanāt
+
+**8.63.58**
+
+śrutaṃ bhavadbhir yat proktaṃ bhagavadbhyāṃ jagaddhitam tat tathā nānyathā tad dhi tiṣṭhadhvaṃ gatamanyavaḥ
+
+**8.63.59**
+
+iti śrutvendravacanaṃ sarvabhūtāni māriṣa vismitāny abhavan rājan pūjayāṃ cakrire ca tat
+
+**8.63.60**
+
+vyasṛjaṃś ca sugandhīni nānārūpāṇi khāt tathā puṣpavarṣāṇi vibudhā devatūryāṇy avādayan
+
+**8.63.61**
+
+didṛkṣavaś cāpratimaṃ dvairathaṃ narasiṃhayoḥ devadānavagandharvāḥ sarva evāvatasthire rathau ca tau śvetahayau yuktaketū mahāsvanau
+
+**8.63.62**
+
+samāgatā lokavīrāḥ śaṅkhān dadhmuḥ pṛthak pṛthak vāsudevārjunau vīrau karṇaśalyau ca bhārata
+
+**8.63.63**
+
+tad bhīrusaṃtrāsakaraṃ yuddhaṃ samabhavat tadā anyonyaspardhinor vīrye śakraśambarayor iva
+
+**8.63.64**
+
+tayor dhvajau vītamālau śuśubhāte rathasthitau pṛthagrūpau samārchantau krodhaṃ yuddhe parasparam
+
+**8.63.65**
+
+karṇasyāśīviṣanibhā ratnasāravatī dṛḍhā puraṃdaradhanuḥprakhyā hastikakṣyā vyarājata
+
+**8.63.66**
+
+kapiśreṣṭhas tu pārthasya vyāditāsyo bhayaṃkaraḥ bhīṣayann eva daṃṣṭrābhir durnirīkṣyo ravir yathā
+
+**8.63.67**
+
+yuddhābhilāṣuko bhūtvā dhvajo gāṇḍīvadhanvanaḥ karṇadhvajam upātiṣṭhat so 'vadīd abhinardayan
+
+**8.63.68**
+
+utpatya ca mahāvegaḥ kakṣyām abhyahanat kapiḥ nakhaiś ca daśanaiś caiva garuḍaḥ pannagaṃ yathā
+
+**8.63.69**
+
+sukiṅkiṇīkābharaṇā kālapāśopamāyasī abhyadravat susaṃkruddhā nāgakakṣyā mahākapim
+
+**8.63.70**
+
+ubhayor uttame yuddhe dvairathe dyūta āhṛte prakurvāte dhvajau yuddhaṃ pratyaheṣan hayān hayāḥ
+
+**8.63.71**
+
+avidhyat puṇḍarīkākṣaḥ śalyaṃ nayanasāyakaiḥ sa cāpi puṇḍarīkākṣaṃ tathaivābhisamaikṣata
+
+**8.63.72**
+
+tatrājayad vāsudevaḥ śalyaṃ nayanasāyakaiḥ karṇaṃ cāpy ajayad dṛṣṭyā kuntīputro dhanaṃjayaḥ
+
+**8.63.73**
+
+athābravīt sūtaputraḥ śalyam ābhāṣya sasmitam yadi pārtho raṇe hanyād adya mām iha karhi cit kim uttaraṃ tadā te syāt sakhe satyaṃ bravīhi me
+
+**8.63.74**
+
+śalya uvāca yadi karṇa raṇe hanyād adya tvāṃ śvetavāhanaḥ ubhāv ekarathenāhaṃ hanyāṃ mādhavapāṇḍavau
+
+**8.63.75**
+
+saṃjaya uvāca evam eva tu goviṃdam arjunaḥ pratyabhāṣata taṃ prahasyābravīt kṛṣṇaḥ pārthaṃ param idaṃ vacaḥ
+
+**8.63.76**
+
+pated divākaraḥ sthānāc chīryetānekadhā kṣitiḥ śaityam agnir iyān na tvā karṇo hanyād dhanaṃjayam
+
+**8.63.77**
+
+yadi tv evaṃ kathaṃ cit syāl lokaparyasanaṃ yathā hanyāṃ karṇaṃ tathā śalyaṃ bāhubhyām eva saṃyuge
+
+**8.63.78**
+
+iti kṛṣṇavacaḥ śrutvā prahasan kapiketanaḥ arjunaḥ pratyuvācedaṃ kṛṣṇam akliṣṭakāriṇam mamāpy etāv aparyāptau karṇaśalyau janārdana
+
+**8.63.79**
+
+sapatākādhvajaṃ karṇaṃ saśalyarathavājinam sacchatrakavacaṃ caiva saśaktiśarakārmukam
+
+**8.63.80**
+
+draṣṭāsy adya śaraiḥ karṇaṃ raṇe kṛttam anekadhā adyainaṃ sarathaṃ sāśvaṃ saśaktikavacāyudham na hi me śāmyate vairaṃ kṛṣṇāṃ yat prāhasat purā
+
+**8.63.81**
+
+adya draṣṭāsi govinda karṇam unmathitaṃ mayā vāraṇeneva mattena puṣpitaṃ jagatīruham
+
+**8.63.82**
+
+adya tā madhurā vācaḥ śrotāsi madhusūdana adyābhimanyujananīm anṛṇaḥ sāntvayiṣyasi kuntīṃ pitṛṣvasāraṃ ca saṃprahṛṣṭo janārdana
+
+**8.63.83**
+
+adya bāṣpamukhīṃ kṛṣṇāṃ sāntvayiṣyasi mādhava vāgbhiś cāmṛtakalpābhir dharmarājaṃ yudhiṣṭhiram
+
+**8.64.1**
+
+saṃjaya uvāca tad devanāgāsurasiddhasaṃghair; gandharvayakṣāpsarasāṃ ca saṃghaiḥ brahmarṣirājarṣisuparṇajuṣṭaṃ; babhau viyad vismayanīyarūpam
+
+**8.64.2**
+
+nānadyamānaṃ ninadair manojñair; vāditragītastutibhiś ca nṛttaiḥ sarve 'ntarikṣe dadṛśur manuṣyāḥ; khasthāṃś ca tān vismayanīyarūpān
+
+**8.64.3**
+
+tataḥ prahṛṣṭāḥ kurupāṇḍuyodhā; vāditrapatrāyudhasiṃhanādaiḥ ninādayanto vasudhāṃ diśaś ca; svanena sarve dviṣato nijaghnuḥ
+
+**8.64.4**
+
+nānāśvamātaṅgarathāyutākulaṃ; varāsiśaktyṛṣṭinipātaduḥsaham abhīrujuṣṭaṃ hatadehasaṃkulaṃ; raṇājiraṃ lohitaraktam ābabhau
+
+**8.64.5**
+
+tathā pravṛtte 'strabhṛtāṃ parābhave; dhanaṃjayaś cādhirathiś ca sāyakaiḥ diśaś ca sainyaṃ ca śitair ajihmagaiḥ; parasparaṃ prorṇuvatuḥ sma daṃśitau
+
+**8.64.6**
+
+tatas tvadīyāś ca pare ca sāyakaiḥ; kṛte 'ndhakāre vividur na kiṃ cana bhayāt tu tāv eva rathau samāśrayaṃs; tamonudau khe prasṛtā ivāṃśavaḥ
+
+**8.64.7**
+
+tato 'stram astreṇa parasparasya tau; vidhūya vātāv iva pūrvapaścimau ghanāndhakāre vitate tamonudau; yathoditau tadvad atīva rejatuḥ
+
+**8.64.8**
+
+na cābhimantavyam iti pracoditāḥ; pare tvadīyāś ca tadāvatasthire mahārathau tau parivārya sarvataḥ; surāsurā vāsavaśambarāv iva
+
+**8.64.9**
+
+mṛdaṅgabherīpaṇavānakasvanair; ninādite bhārata śaṅkhanisvanaiḥ sasiṃhanādau babhatur narottamau; śaśāṅkasūryāv iva meghasaṃplave
+
+**8.64.10**
+
+mahādhanurmaṇḍalamadhyagāv ubhau; suvarcasau bāṇasahasraraśminau didhakṣamāṇau sacarācaraṃ jagad; yugāstasūryāv iva duḥsahau raṇe
+
+**8.64.11**
+
+ubhāv ajeyāv ahitāntakāv ubhau; jighāṃsatus tau kṛtinau parasparam mahāhave vīravarau samīyatur; yathendrajambhāv iva karṇapāṇḍavau
+
+**8.64.12**
+
+tato mahāstrāṇi mahādhanurdharau; vimuñcamānāv iṣubhir bhayānakaiḥ narāśvanāgān amitau nijaghnatuḥ; parasparaṃ jaghnatur uttameṣubhiḥ
+
+**8.64.13**
+
+tato visasruḥ punar arditāḥ śarair; narottamābhyāṃ kurupāṇḍavāśrayāḥ sanāgapattyaśvarathā diśo gatās; tathā yathā siṃhabhayād vanaukasaḥ
+
+**8.64.14**
+
+tatas tu duryodhanabhojasaubalāḥ; kṛpaś ca śāradvatasūnunā saha mahārathāḥ pañca dhanaṃjayācyutau; śaraiḥ śarīrāntakarair atāḍayan
+
+**8.64.15**
+
+dhanūṃṣi teṣām iṣudhīn hayān dhvajān; rathāṃś ca sūtāṃś ca dhanaṃjayaḥ śaraiḥ samaṃ ca ciccheda parābhinac ca tāñ; śarottamair dvādaśabhiś ca sūtajam
+
+**8.64.16**
+
+athābhyadhāvaṃs tvaritāḥ śataṃ rathāḥ; śataṃ ca nāgārjunam ātatāyinaḥ śakās tukhārā yavanāś ca sādinaḥ; sahaiva kāmbojavarair jighāṃsavaḥ
+
+**8.64.17**
+
+varāyudhān pāṇigatān karaiḥ saha; kṣurair nyakṛntaṃs tvaritāḥ śirāṃsi ca hayāṃś ca nāgāṃś ca rathāṃś ca yudhyatāṃ; dhanaṃjayaḥ śatrugaṇaṃ tam akṣiṇot
+
+**8.64.18**
+
+tato 'ntarikṣe suratūryanisvanāḥ; sasādhuvādā hṛṣitaiḥ samīritāḥ nipetur apy uttamapuṣpavṛṣṭayaḥ; surūpagandhāḥ pavaneritāḥ śivāḥ
+
+**8.64.19**
+
+tad adbhutaṃ devamanuṣyasākṣikaṃ; samīkṣya bhūtāni visiṣmiyur nṛpa tavātmajaḥ sūtasutaś ca na vyathāṃ; na vismayaṃ jagmatur ekaniścayau
+
+**8.64.20**
+
+athābravīd droṇasutas tavātmajaṃ; karaṃ kareṇa pratipīḍya sāntvayan prasīda duryodhana śāmya pāṇḍavair; alaṃ virodhena dhig astu vigraham
+
+**8.64.21**
+
+hato gurur brahmasamo mahāstravit; tathaiva bhīṣmapramukhā nararṣabhāḥ ahaṃ tv avadhyo mama cāpi mātulaḥ; praśādhi rājyaṃ saha pāṇḍavaiś ciram
+
+**8.64.22**
+
+dhanaṃjayaḥ sthāsyati vārito mayā; janārdano naiva virodham icchati yudhiṣṭhiro bhūtahite sadā rato; vṛkodaras tadvaśagas tathā yamau
+
+**8.64.23**
+
+tvayā ca pārthaiś ca paraspareṇa; prajāḥ śivaṃ prāpnuyur icchati tvayi vrajantu śeṣāḥ svapurāṇi pārthivā; nivṛttavairāś ca bhavantu sainikāḥ
+
+**8.64.24**
+
+na ced vacaḥ śroṣyasi me narādhipa; dhruvaṃ prataptāsi hato 'ribhir yudhi idaṃ ca dṛṣṭaṃ jagatā saha tvayā; kṛtaṃ yad ekena kirīṭamālinā yathā na kuryād balabhinna cāntako; na ca pracetā bhagavān na yakṣarāṭ
+
+**8.64.25**
+
+ato 'pi bhūyāṃś ca guṇair dhanaṃjayaḥ; sa cābhipatsyaty akhilaṃ vaco mama tavānuyātrāṃ ca tathā kariṣyati; prasīda rājañ jagataḥ śamāya vai
+
+**8.64.26**
+
+mamāpi mānaḥ paramaḥ sadā tvayi; bravīmy atas tvāṃ paramāc ca sauhṛdāt nivārayiṣyāmi hi karṇam apy ahaṃ; yadā bhavān sapraṇayo bhaviṣyati
+
+**8.64.27**
+
+vadanti mitraṃ sahajaṃ vicakṣaṇās; tathaiva sāmnā ca dhanena cārjitam pratāpataś copanataṃ caturvidhaṃ; tad asti sarvaṃ tvayi pāṇḍaveṣu ca
+
+**8.64.28**
+
+nisargatas te tava vīra bāndhavāḥ; punaś ca sāmnā ca samāpnuhi sthiram tvayi prasanne yadi mitratām iyur; dhruvaṃ narendrendra tathā tvam ācara
+
+**8.64.29**
+
+sa evam uktaḥ suhṛdā vaco hitaṃ; vicintya niḥśvasya ca durmanābravīt yathā bhavān āha sakhe tathaiva tan; mamāpi ca jñāpayato vacaḥ śṛṇu
+
+**8.64.30**
+
+nihatya duḥśāsanam uktavān bahu; prasahya śārdūlavad eṣa durmatiḥ vṛkodaras tad dhṛdaye mama sthitaṃ; na tatparokṣaṃ bhavataḥ kutaḥ śamaḥ
+
+**8.64.31**
+
+na cāpi karṇaṃ guruputra saṃstavād; upāramety arhasi vaktum acyuta śrameṇa yukto mahatādya phalgunas; tam eṣa karṇaḥ prasabhaṃ haniṣyati
+
+**8.64.32**
+
+tam evam uktvābhyanunīya cāsakṛt; tavātmajaḥ svān anuśāsti sainikān samāghnatābhidravatāhitān imān; sabāṇaśabdān kim u joṣam āsyate
+
+**8.65.1**
+
+saṃjaya uvāca tau śaṅkhabherīninade samṛddhe; samīyatuḥ śvetahayau narāgryau vaikartanaḥ sūtaputro 'rjunaś ca; durmantrite tava putrasya rājan
+
+**8.65.2**
+
+yathā gajau haimavatau prabhinnau; pragṛhya dantāv iva vāśitārthe tathā samājagmatur ugravegau; dhanaṃjayaś cādhirathiś ca vīrau
+
+**8.65.3**
+
+balāhakeneva yathā balāhako; yadṛcchayā vā giriṇā girir yathā tathā dhanurjyātalaneminisvanau; samīyatus tāv iṣuvarṣavarṣiṇau
+
+**8.65.4**
+
+pravṛddhaśṛṅgadrumavīrudoṣadhī; pravṛddhanānāvidhaparvataukasau yathācalau vā galitau mahābalau; tathā mahāstrair itaretaraṃ ghnataḥ
+
+**8.65.5**
+
+sa saṃnipātas tu tayor mahān abhūt; sureśavairocanayor yathā purā śarair vibhugnāṅganiyantṛvāhanaḥ; suduḥsaho 'nyaiḥ paṭuśoṇitodakaḥ
+
+**8.65.6**
+
+prabhūtapadmotpalamatsyakacchapau; mahāhradau pakṣigaṇānunāditau susaṃnikṛṣṭāv aniloddhatau yathā; tathā rathau tau dhvajinau samīyatuḥ
+
+**8.65.7**
+
+ubhau mahendrasya samānavikramāv; ubhau mahendrapratimau mahārathau mahendravajrapratimaiś ca sāyakair; mahendravṛtrāv iva saṃprajahratuḥ
+
+**8.65.8**
+
+sanāgapattyaśvarathe ubhe bale; vicitravarṇābharaṇāmbarasraje cakampatuś connamataḥ sma vismayād; viyadgatāś cārjunakarṇasaṃyuge
+
+**8.65.9**
+
+bhujāḥ savajrāṅgulayaḥ samucchritāḥ; sasiṃhanādā hṛṣitair didṛkṣubhiḥ yadārjunaṃ mattam iva dvipo dvipaṃ; samabhyayād ādhirathir jighāṃsayā
+
+**8.65.10**
+
+abhyakrośan somakās tatra pārthaṃ; tvarasva yāhy arjuna vidhya karṇam chindhy asya mūrdhānam alaṃ cireṇa; śraddhāṃ ca rājyād dhṛtarāṣṭrasūnoḥ
+
+**8.65.11**
+
+tathāsmākaṃ bahavas tatra yodhāḥ; karṇaṃ tadā yāhi yāhīty avocan jahy arjunaṃ karṇa tataḥ sacīrāḥ; punar vanaṃ yāntu cirāya pārthāḥ
+
+**8.65.12**
+
+tataḥ karṇaḥ prathamaṃ tatra pārthaṃ; maheṣubhir daśabhiḥ paryavidhyat tam arjunaḥ pratyavidhyac chitāgraiḥ; kakṣāntare daśabhir atīva kruddhaḥ
+
+**8.65.13**
+
+parasparaṃ tau viśikhaiḥ sutīkṣṇais; tatakṣatuḥ sūtaputro 'rjunaś ca parasparasyāntarepsū vimarde; subhīmam abhyāyayatuḥ prahṛṣṭau
+
+**8.65.14**
+
+amṛṣyamāṇaś ca mahāvimarde; tatrākrudhyad bhīmaseno mahātmā athābravīt pāṇinā pāṇim āghnan; saṃdaṣṭauṣṭho nṛtyati vādayann iva kathaṃ nu tvāṃ sūtaputraḥ kirīṭin; maheṣubhir daśabhir avidhyad agre
+
+**8.65.15**
+
+yayā dhṛtyā sarvabhūtāny ajaiṣīr; grāsaṃ dadad vahnaye khāṇḍave tvam tayā dhṛtyā sūtaputraṃ jahi tvam; ahaṃ vainaṃ gadayā pothayiṣye
+
+**8.65.16**
+
+athābravīd vāsudevo 'pi pārthaṃ; dṛṣṭvā ratheṣūn pratihanyamānān amīmṛdat sarvathā te 'dya karṇo; hy astrair astrāṇi kim idaṃ kirīṭin
+
+**8.65.17**
+
+sa vīra kiṃ muhyasi nāvadhīyase; nadanty ete kuravaḥ saṃprahṛṣṭāḥ karṇaṃ puraskṛtya vidur hi sarve; tvadastram astrair vinipātyamānam
+
+**8.65.18**
+
+yayā dhṛtyā nihataṃ tāmasāstraṃ; yuge yuge rākṣasāś cāpi ghorāḥ dambhodbhavāś cāsurāś cāhaveṣu; tayā dhṛtyā tvaṃ jahi sūtaputram
+
+**8.65.19**
+
+anena vāsya kṣuraneminādya; saṃchinddhi mūrdhānam areḥ prasahya mayā nisṛṣṭena sudarśanena; vajreṇa śakro namucer ivāreḥ
+
+**8.65.20**
+
+kirātarūpī bhagavān yayā ca; tvayā mahatyā paritoṣito 'bhūt tāṃ tvaṃ dhṛtiṃ vīra punar gṛhītvā; sahānubandhaṃ jahi sūtaputram
+
+**8.65.21**
+
+tato mahīṃ sāgaramekhalāṃ tvaṃ; sapattanāṃ grāmavatīṃ samṛddhām prayaccha rājñe nihatārisaṃghāṃ; yaśaś ca pārthātulam āpnuhi tvam
+
+**8.65.22**
+
+saṃcodito bhīmajanārdanābhyāṃ; smṛtvā tadātmānam avekṣya sattvam mahātmanaś cāgamane viditvā; prayojanaṃ keśavam ity uvāca
+
+**8.65.23**
+
+prāduṣkaromy eṣa mahāstram ugraṃ; śivāya lokasya vadhāya sauteḥ tan me 'nujānātu bhavān surāś ca; brahmā bhavo brahmavidaś ca sarve
+
+**8.65.24**
+
+ity ūcivān brāhmam asahyam astraṃ; prāduścakre manasā saṃvidheyam tato diśaś ca pradiśaś ca sarvāḥ; samāvṛṇot sāyakair bhūritejāḥ sasarja bāṇān bharatarṣabho 'pi; śataṃśatān ekavad āśuvegān
+
+**8.65.25**
+
+vaikartanenāpi tathājimadhye; sahasraśo bāṇagaṇā visṛṣṭāḥ te ghoṣiṇaḥ pāṇḍavam abhyupeyuḥ; parjanyamuktā iva vāridhārāḥ
+
+**8.65.26**
+
+sa bhīmasenaṃ ca janārdanaṃ ca; kirīṭinaṃ cāpy amanuṣyakarmā tribhis tribhir bhīmabalo nihatya; nanāda ghoraṃ mahatā svareṇa
+
+**8.65.27**
+
+sa karṇabāṇābhihataḥ kirīṭī; bhīmaṃ tathā prekṣya janārdanaṃ ca amṛṣyamāṇaḥ punar eva pārthaḥ; śarān daśāṣṭau ca samudbabarha
+
+**8.65.28**
+
+suṣeṇam ekena śareṇa viddhvā; śalyaṃ caturbhis tribhir eva karṇam tataḥ sumuktair daśabhir jaghāna; sabhāpatiṃ kāñcanavarmanaddham
+
+**8.65.29**
+
+sa rājaputro viśirā vibāhur; vivājisūto vidhanur viketuḥ tato rathāgrād apatat prabhagnaḥ; paraśvadhaiḥ śāla ivābhikṛttaḥ
+
+**8.65.30**
+
+punaś ca karṇaṃ tribhir aṣṭabhiś ca; dvābhyāṃ caturbhir daśabhiś ca viddhvā catuḥśatān dviradān sāyudhīyān; hatvā rathān aṣṭaśataṃ jaghāna sahasram aśvāṃś ca punaś ca sādīn; aṣṭau sahasrāṇi ca pattivīrān
+
+**8.65.31**
+
+dṛṣṭvājimukhyāv atha yudhyamānau; didṛkṣavaḥ śūravarāv arighnau karṇaṃ ca pārthaṃ ca niyamya vāhān; khasthā mahīsthāś ca janāvatasthuḥ
+
+**8.65.32**
+
+tato dhanurjyā sahasātikṛṣṭā; sughoṣam ācchidyata pāṇḍavasya tasmin kṣaṇe sūtaputras tu pārthaṃ; samācinot kṣudrakāṇāṃ śatena
+
+**8.65.33**
+
+nirmuktasarpapratimaiś ca tīkṣṇais; tailapradhautaiḥ khagapatravājaiḥ ṣaṣṭyā nārācair vāsudevaṃ bibheda; tadantaraṃ somakāḥ prādravanta
+
+**8.65.34**
+
+tato dhanurjyām avadhamya śīghraṃ; śarān astān ādhirather vidhamya susaṃrabdhaḥ karṇaśarakṣatāṅgo; raṇe pārthaḥ somakān pratyagṛhṇāt na pakṣiṇaḥ saṃpatanty antarikṣe; kṣepīyasāstreṇa kṛte 'ndhakāre
+
+**8.65.35**
+
+śalyaṃ ca pārtho daśabhiḥ pṛṣatkair; bhṛśaṃ tanutre prahasann avidhyat tataḥ karṇaṃ dvādaśabhiḥ sumuktair; viddhvā punaḥ saptabhir abhyavidhyat
+
+**8.65.36**
+
+sa pārthabāṇāsanaveganunnair; dṛḍhāhataḥ patribhir ugravegaiḥ vibhinnagātraḥ kṣatajokṣitāṅgaḥ; karṇo babhau rudra ivātateṣuḥ
+
+**8.65.37**
+
+tatas tribhiś ca tridaśādhipopamaṃ; śarair bibhedādhirathir dhanaṃjayam śarāṃs tu pañca jvalitān ivoragān; pravīrayām āsa jighāṃsur acyute
+
+**8.65.38**
+
+te varma bhittvā puruṣottamasya; suvarṇacitraṃ nyapatan sumuktāḥ vegena gām āviviśuḥ suvegāḥ; snātvā ca karṇābhimukhāḥ pratīyuḥ
+
+**8.65.39**
+
+tān pañcabhallais tvaritaiḥ sumuktais; tridhā tridhaikaikam athoccakarta dhanaṃjayas te nyapatan pṛthivyāṃ; mahāhayas takṣakaputrapakṣāḥ
+
+**8.65.40**
+
+tataḥ prajajvāla kirīṭamālī; krodhena kakṣaṃ pradahann ivāgniḥ sa karṇam ākarṇavikṛṣṭasṛṣṭaiḥ; śaraiḥ śarīrāntakarair jvaladbhiḥ marmasv avidhyat sa cacāla duḥkhād; dhairyāt tu tasthāv atimātradhairyaḥ
+
+**8.65.41**
+
+tataḥ śaraughaiḥ pradiśo diśaś ca; raviprabhā karṇarathaś ca rājan adṛśya āsīt kupite dhanaṃjaye; tuṣāranīhāravṛtaṃ yathā nabhaḥ
+
+**8.65.42**
+
+sa cakrarakṣān atha pādarakṣān; puraḥsarān pṛṣṭhagopāṃś ca sarvān duryodhanenānumatān arighnān; samuccitān surathān sārabhūtān
+
+**8.65.43**
+
+dvisāhasrān samare savyasācī; kurupravīrān ṛṣabhaḥ kurūṇām kṣaṇena sarvān sarathāśvasūtān; nināya rājan kṣayam ekavīraḥ
+
+**8.65.44**
+
+athāpalāyanta vihāya karṇaṃ; tavātmajāḥ kuravaś cāvaśiṣṭāḥ hatān avākīrya śarakṣatāṃś ca; lālapyamānāṃs tanayān pitṝṃś ca
+
+**8.65.45**
+
+sa sarvataḥ prekṣya diśo viśūnyā; bhayāvadīrṇaiḥ kurubhir vihīnaḥ na vivyathe bhārata tatra karṇaḥ; pratīpam evārjunam abhyadhāvat
+
+**8.66.1**
+
+saṃjaya uvāca tato 'payātāḥ śarapātamātram; avasthitāḥ kuravo bhinnasenāḥ vidyutprakāśaṃ dadṛśuḥ samantād; dhanaṃjayāstraṃ samudīryamāṇam
+
+**8.66.2**
+
+tad arjunāstraṃ grasate sma vīrān; viyat tathākāśam anantaghoṣam kruddhena pārthena tadāśu sṛṣṭaṃ; vadhāya karṇasya mahāvimarde
+
+**8.66.3**
+
+rāmād upāttena mahāmahimnā; ātharvaṇenārivināśanena tad arjunāstraṃ vyadhamad dahantaṃ; pārthaṃ ca bāṇair niśitair nijaghne
+
+**8.66.4**
+
+tato vimardaḥ sumahān babhūva; tasyārjunasyādhiratheś ca rājan anyonyam āsādayatoḥ pṛṣatkair; viṣāṇaghātair dvipayor ivograiḥ
+
+**8.66.5**
+
+tato ripughnaṃ samadhatta karṇaḥ; susaṃśitaṃ sarpamukhaṃ jvalantam raudraṃ śaraṃ saṃyati supradhautaṃ; pārthārtham atyarthacirāya guptam
+
+**8.66.6**
+
+sadārcitaṃ candanacūrṇaśāyinaṃ; suvarṇanālīśayanaṃ mahāviṣam pradīptam airāvatavaṃśasaṃbhavaṃ; śiro jihīrṣur yudhi phalgunasya
+
+**8.66.7**
+
+tam abravīn madrarājo mahātmā; vaikartanaṃ prekṣya hi saṃhiteṣum na karṇa grīvām iṣur eṣa prāpsyate; saṃlakṣya saṃdhatsva śaraṃ śiroghnam
+
+**8.66.8**
+
+athābravīt krodhasaṃraktanetraḥ; karṇaḥ śalyaṃ saṃdhiteṣuḥ prasahya na saṃdhatte dviḥ śaraṃ śalya karṇo; na mādṛśāḥ śāṭhyayuktā bhavanti
+
+**8.66.9**
+
+tathaivam uktvā visasarja taṃ śaraṃ; balāhakaṃ varṣaghanābhipūjitam hato 'si vai phalguna ity avocat; tatas tvarann ūrjitam utsasarja
+
+**8.66.10**
+
+saṃdhīyamānaṃ bhujagaṃ dṛṣṭvā karṇena mādhavaḥ ākramya syandanaṃ padbhyāṃ balena balināṃ varaḥ
+
+**8.66.11**
+
+avagāḍhe rathe bhūmau jānubhyām agaman hayāḥ tataḥ śaraḥ so 'bhyahanat kirīṭaṃ tasya dhīmataḥ
+
+**8.66.12**
+
+athārjunasyottamagātrabhūṣaṇaṃ; dharāviyaddyosalileṣu viśrutam balāstrasargottamayatnamanyubhiḥ; śareṇa mūrdhnaḥ sa jahāra sūtajaḥ
+
+**8.66.13**
+
+divākarendujvalanagrahatviṣaṃ; suvarṇamuktāmaṇijālabhūṣitam puraṃdarārthaṃ tapasā prayatnataḥ; svayaṃ kṛtaṃ yad bhuvanasya sūnunā
+
+**8.66.14**
+
+mahārharūpaṃ dviṣatāṃ bhayaṃkaraṃ; vibhāti cātyarthasukhaṃ sugandhi tat nijaghnuṣe devaripūn sureśvaraḥ; svayaṃ dadau yat sumanāḥ kirīṭine
+
+**8.66.15**
+
+harāmbupākhaṇḍalavittagoptṛbhiḥ; pinākapāśāśanisāyakottamaiḥ surottamair apy aviṣahyam ardituṃ; prasahya nāgena jahāra yad vṛṣaḥ
+
+**8.66.16**
+
+tad uttameṣūn mathitaṃ viṣāgninā; pradīptam arciṣmad abhikṣiti priyam papāta pārthasya kirīṭam uttamaṃ; divākaro 'stād iva parvatāj jvalan
+
+**8.66.17**
+
+tataḥ kirīṭaṃ bahuratnamaṇḍitaṃ; jahāra nāgo 'rjunamūrdhato balāt gireḥ sujātāṅkurapuṣpitadrumaṃ; mahendravajraḥ śikharaṃ yathottamam
+
+**8.66.18**
+
+mahī viyad dyauḥ salilāni vāyunā; yathā vibhinnāni vibhānti bhārata tathaiva śabdo bhuvaneṣv abhūt tadā; janā vyavasyan vyathitāś ca caskhaluḥ
+
+**8.66.19**
+
+tataḥ samudgrathya sitena vāsasā; svamūrdhajānavyathitaḥ sthito 'rjunaḥ vibhāti saṃpūrṇamarīcibhāsvatā; śirogatenodayaparvato yathā
+
+**8.66.20**
+
+balāhakaḥ karṇabhujeritas tato; hutāśanārkapratimadyutir mahān mahoragaḥ kṛtavairo 'rjunena; kirīṭam āsādya samutpapāta
+
+**8.66.21**
+
+tam abravīd viddhi kṛtāgasaṃ me; kṛṣṇādya mātur vadhajātavairam tataḥ kṛṣṇaḥ pārtham uvāca saṃkhye; mahoragaṃ kṛtavairaṃ jahi tvam
+
+**8.66.22**
+
+sa evam ukto madhusūdanena; gāṇḍīvadhanvā ripuṣūgradhanvā uvāca ko nv eṣa mamādya nāgaḥ; svayaṃ ya āgād garuḍasya vaktram
+
+**8.66.23**
+
+kṛṣṇa uvāca yo 'sau tvayā khāṇḍave citrabhānuṃ; saṃtarpayānena dhanurdhareṇa viyadgato bāṇanikṛttadeho; hy anekarūpo nihatāsya mātā
+
+**8.66.24**
+
+tatas tu jiṣṇuḥ parihṛtya śeṣāṃś; ciccheda ṣaḍbhir niśitaiḥ sudhāraiḥ nāgaṃ viyat tiryag ivotpatantaṃ; sa chinnagātro nipapāta bhūmau
+
+**8.66.25**
+
+tasmin muhūrte daśabhiḥ pṛṣatkaiḥ; śilāśitair barhiṇavājitaiś ca vivyādha karṇaḥ puruṣapravīraṃ; dhanaṃjayaṃ tiryag avekṣamāṇam
+
+**8.66.26**
+
+tato 'rjuno dvādaśabhir vimuktair; ākarṇamuktair niśitaiḥ samarpya nārācam āśīviṣatulyavegam; ākarṇapūrṇāyatam utsasarja
+
+**8.66.27**
+
+sa citravarmeṣuvaro vidārya; prāṇān nirasyann iva sādhu muktaḥ karṇasya pītvā rudhiraṃ viveśa; vasuṃdharāṃ śoṇitavājadigdhaḥ
+
+**8.66.28**
+
+tato vṛṣo bāṇanipātakopito; mahorago daṇḍavighaṭṭito yathā tathāśukārī vyasṛjac charottamān; mahāviṣaḥ sarpa ivottamaṃ viṣam
+
+**8.66.29**
+
+janārdanaṃ dvādaśabhiḥ parābhinan; navair navatyā ca śarais tathārjunam śareṇa ghoreṇa punaś ca pāṇḍavaṃ; vibhidya karṇo 'bhyanadaj jahāsa ca
+
+**8.66.30**
+
+tam asya harṣaṃ mamṛṣe na pāṇḍavo; bibheda marmāṇi tato 'sya marmavit paraṃ śaraiḥ patribhir indravikramas; tathā yathendro balam ojasāhanat
+
+**8.66.31**
+
+tataḥ śarāṇāṃ navatīr navārjunaḥ; sasarja karṇe 'ntakadaṇḍasaṃnibhāḥ śarair bhṛśāyastatanuḥ pravivyathe; tathā yathā vajravidārito 'calaḥ
+
+**8.66.32**
+
+maṇipravekottamavajrahāṭakair; alaṃkṛtaṃ cāsya varāṅgabhūṣaṇam praviddham urvyāṃ nipapāta patribhir; dhanaṃjayenottamakuṇḍale 'pi ca
+
+**8.66.33**
+
+mahādhanaṃ śilpivaraiḥ prayatnataḥ; kṛtaṃ yad asyottamavarma bhāsvaram sudīrghakālena tad asya pāṇḍavaḥ; kṣaṇena bāṇair bahudhā vyaśātayat
+
+**8.66.34**
+
+sa taṃ vivarmāṇam athottameṣubhiḥ; śaraiś caturbhiḥ kupitaḥ parābhinat sa vivyathe 'tyartham ariprahārito; yathāturaḥ pittakaphānilavraṇaiḥ
+
+**8.66.35**
+
+mahādhanurmaṇḍalaniḥsṛtaiḥ śitaiḥ; kriyāprayatnaprahitair balena ca tatakṣa karṇaṃ bahubhiḥ śarottamair; bibheda marmasv api cārjunas tvaran
+
+**8.66.36**
+
+dṛḍhāhataḥ patribhir ugravegaiḥ; pārthena karṇo vividhaiḥ śitāgraiḥ babhau girir gairikadhāturaktaḥ; kṣaran prapātair iva raktam ambhaḥ
+
+**8.66.37**
+
+sāśvaṃ tu karṇaṃ sarathaṃ kirīṭī; samācinod bhārata vatsadantaiḥ pracchādayām āsa diśaś ca bāṇaiḥ; sarvaprayatnāt tapanīyapuṅkhaiḥ
+
+**8.66.38**
+
+sa vatsadantaiḥ pṛthupīnavakṣāḥ; samācitaḥ smādhirathir vibhāti supuṣpitāśokapalāśaśālmalir; yathācalaḥ spandanacandanāyutaḥ
+
+**8.66.39**
+
+śaraiḥ śarīre bahudhā samarpitair; vibhāti karṇaḥ samare viśāṃ pate mahīruhair ācitasānukandaro; yathā mahendraḥ śubhakarṇikāravān
+
+**8.66.40**
+
+sa bāṇasaṃghān dhanuṣā vyavāsṛjan; vibhāti karṇaḥ śarajālaraśmivān salohito raktagabhastimaṇḍalo; divākaro 'stābhimukho yathā tathā
+
+**8.66.41**
+
+bāhvantarād ādhirather vimuktān; bāṇān mahāhīn iva dīpyamānān vyadhvaṃsayann arjunabāhumuktāḥ; śarāḥ samāsādya diśaḥ śitāgrāḥ
+
+**8.66.42**
+
+tataś cakramapatat tasya bhūmau; sa vihvalaḥ samare sūtaputraḥ ghūrṇe rathe brāhmaṇasyābhiśāpād; rāmād upātte 'pratibhāti cāstre
+
+**8.66.43**
+
+amṛṣyamāṇo vyasanāni tāni; hastau vidhunvan sa vigarhamāṇaḥ dharmapradhānān abhipāti dharma; ity abruvan dharmavidaḥ sadaiva mamāpi nimno 'dya na pāti bhaktān; manye na nityaṃ paripāti dharmaḥ
+
+**8.66.44**
+
+evaṃ bruvan praskhalitāśvasūto; vicālyamāno 'rjunaśastrapātaiḥ marmābhighātāc calitaḥ kriyāsu; punaḥ punar dharmam agarhad ājau
+
+**8.66.45**
+
+tataḥ śarair bhīmatarair avidhyat tribhir āhave haste karṇas tadā pārtham abhyavidhyac ca saptabhiḥ
+
+**8.66.46**
+
+tato 'rjunaḥ saptadaśa tigmatejān ajihmagān indrāśanisamān ghorān asṛjat pāvakopamān
+
+**8.66.47**
+
+nirbhidya te bhīmavegā nyapatan pṛthivītale kampitātmā tathā karṇaḥ śaktyā ceṣṭām adarśayat
+
+**8.66.48**
+
+balenātha sa saṃstabhya brahmāstraṃ samudairayat aindrāstram arjunaś cāpi tad dṛṣṭvābhinyamantrayat
+
+**8.66.49**
+
+gāṇḍīvaṃ jyāṃ ca bāṇāṃś ca anumantrya dhanaṃjayaḥ asṛjac charavarṣāṇi varṣāṇīva puraṃdaraḥ
+
+**8.66.50**
+
+tatas tejomayā bāṇā rathāt pārthasya niḥsṛtāḥ prādurāsan mahāvīryāḥ karṇasya ratham antikāt
+
+**8.66.51**
+
+tān karṇas tv agrato 'bhyastān moghāṃś cakre mahārathaḥ tato 'bravīd vṛṣṇivīras tasminn astre vināśite
+
+**8.66.52**
+
+visṛjāstraṃ paraṃ pārtha rādheyo grasate śarān brahmāstram arjunaś cāpi saṃmantryātha prayojayat
+
+**8.66.53**
+
+chādayitvā tato bāṇaiḥ karṇaṃ prabhrāmya cārjunaḥ tasya karṇaḥ śaraiḥ kruddhaś ciccheda jyāṃ sutejanaiḥ
+
+**8.66.54**
+
+tato jyām avadhāyānyām anumṛjya ca pāṇḍavaḥ śarair avākirat karṇaṃ dīpyamānaiḥ sahasraśaḥ
+
+**8.66.55**
+
+tasya jyācchedanaṃ karṇo jyāvadhānaṃ ca saṃyuge nānvabudhyata śīghratvāt tad adbhutam ivābhavat
+
+**8.66.56**
+
+astrair astrāṇi rādheyaḥ pratyahan savyasācinaḥ cakre cābhyadhikaṃ pārthāt svavīryaṃ pratidarśayan
+
+**8.66.57**
+
+tataḥ kṛṣṇo 'rjunaṃ dṛṣṭvā karṇāstreṇābhipīḍitam abhyasyety abravīt pārtham ātiṣṭhāstram anuttamam
+
+**8.66.58**
+
+tato 'nyam agnisadṛśaṃ śaraṃ sarpaviṣopamam aśmasāramayaṃ divyam anumantrya dhanaṃjayaḥ
+
+**8.66.59**
+
+raudram astraṃ samādāya kṣeptukāmaḥ kirīṭavān tato 'grasan mahī cakraṃ rādheyasya mahāmṛdhe
+
+**8.66.60**
+
+grastacakras tu rādheyaḥ kopād aśrūṇy avartayat so 'bravīd arjunaṃ cāpi muhūrtaṃ kṣama pāṇḍava
+
+**8.66.61**
+
+madhye cakram avagrastaṃ dṛṣṭvā daivād idaṃ mama pārtha kāpuruṣācīrṇam abhisaṃdhiṃ vivarjaya
+
+**8.66.62**
+
+prakīrṇakeśe vimukhe brāhmaṇe ca kṛtāñjalau śaraṇāgate nyastaśastre tathā vyasanage 'rjuna
+
+**8.66.63**
+
+abāṇe bhraṣṭakavace bhraṣṭabhagnāyudhe tathā na śūrāḥ praharanty ājau na rājñe pārthivās tathā tvaṃ ca śūro 'si kaunteya tasmāt kṣama muhūrtakam
+
+**8.66.64**
+
+yāvac cakram idaṃ bhūmer uddharāmi dhanaṃjaya na māṃ rathastho bhūmiṣṭham asajjaṃ hantum arhasi na vāsudevāt tvatto vā pāṇḍaveya bibhemy aham
+
+**8.66.65**
+
+tvaṃ hi kṣatriyadāyādo mahākulavivardhanaḥ smṛtvā dharmopadeśaṃ tvaṃ muhūrtaṃ kṣama pāṇḍava
+
+**8.67.1**
+
+saṃjaya uvāca athābravīd vāsudevo rathastho; rādheya diṣṭyā smarasīha dharmam prāyeṇa nīcā vyasaneṣu magnā; nindanti daivaṃ kukṛtaṃ na tat tat
+
+**8.67.2**
+
+yad draupadīm ekavastrāṃ sabhāyām; ānāyya tvaṃ caiva suyodhanaś ca duḥśāsanaḥ śakuniḥ saubalaś ca; na te karṇa pratyabhāt tatra dharmaḥ
+
+**8.67.3**
+
+yadā sabhāyāṃ kaunteyam anakṣajñaṃ yudhiṣṭhiram akṣajñaḥ śakunir jetā tadā dharmaḥ kva te gataḥ
+
+**8.67.4**
+
+yadā rajasvalāṃ kṛṣṇāṃ duḥśāsanavaśe sthitām sabhāyāṃ prāhasaḥ karṇa kva te dharmas tadā gataḥ
+
+**8.67.5**
+
+rājyalubdhaḥ punaḥ karṇa samāhvayasi pāṇḍavam gāndhārarājam āśritya kva te dharmas tadā gataḥ
+
+**8.67.6**
+
+evam ukte tu rādheye vāsudevena pāṇḍavam manyur abhyāviśat tīvraḥ smṛtvā tat tad dhanaṃjayam
+
+**8.67.7**
+
+tasya krodhena sarvebhyaḥ srotobhyas tejaso 'rciṣaḥ prādurāsan mahārāja tad adbhutam ivābhavat
+
+**8.67.8**
+
+taṃ samīkṣya tataḥ karṇo brahmāstreṇa dhanaṃjayam abhyavarṣat punar yatnam akarod rathasarjane tad astram astreṇāvārya prajahārāsya pāṇḍavaḥ
+
+**8.67.9**
+
+tato 'nyad astraṃ kaunteyo dayitaṃ jātavedasaḥ mumoca karṇam uddiśya tat prajajvāla vai bhṛśam
+
+**8.67.10**
+
+vāruṇena tataḥ karṇaḥ śamayām āsa pāvakam jīmūtaiś ca diśaḥ sarvāś cakre timiradurdināḥ
+
+**8.67.11**
+
+pāṇḍaveyas tv asaṃbhrānto vāyavyāstreṇa vīryavān apovāha tadābhrāṇi rādheyasya prapaśyataḥ
+
+**8.67.12**
+
+taṃ hastikakṣyāpravaraṃ ca bāṇaiḥ; suvarṇamuktāmaṇivajramṛṣṭam kālaprayatnottamaśilpiyatnaiḥ; kṛtaṃ surūpaṃ vitamaskam uccaiḥ
+
+**8.67.13**
+
+ūrjaskaraṃ tava sainyasya nityam; amitravitrāsanam īḍyarūpam vikhyātam ādityasamasya loke; tviṣā samaṃ pāvakabhānucandraiḥ
+
+**8.67.14**
+
+tataḥ kṣureṇādhiratheḥ kirīṭī; suvarṇapuṅkhena śitena yattaḥ śriyā jvalantaṃ dhvajam unmamātha; mahārathasyādhirather mahātmā
+
+**8.67.15**
+
+yaśaś ca dharmaś ca jayaś ca māriṣa; priyāṇi sarvāṇi ca tena ketunā tadā kurūṇāṃ hṛdayāni cāpatan; babhūva hāheti ca nisvano mahān
+
+**8.67.16**
+
+atha tvaran karṇavadhāya pāṇḍavo; mahendravajrānaladaṇḍasaṃnibham ādatta pārtho 'ñjalikaṃ niṣaṅgāt; sahasraraśmer iva raśmim uttamam
+
+**8.67.17**
+
+marmacchidaṃ śoṇitamāṃsadigdhaṃ; vaiśvānarārkapratimaṃ mahārham narāśvanāgāsuharaṃ tryaratniṃ; ṣaḍvājam añjogatim ugravegam
+
+**8.67.18**
+
+sahasranetrāśanitulyatejasaṃ; samānakravyādam ivātiduḥsaham pinākanārāyaṇacakrasaṃnibhaṃ; bhayaṃkaraṃ prāṇabhṛtāṃ vināśanam
+
+**8.67.19**
+
+yuktvā mahāstreṇa pareṇa mantravid; vikṛṣya gāṇḍīvam uvāca sasvanam ayaṃ mahāstro 'pratimo dhṛtaḥ śaraḥ; śarīrabhic cāsuharaś ca durhṛdaḥ
+
+**8.67.20**
+
+tapo 'sti taptaṃ guravaś ca toṣitā; mayā yad iṣṭaṃ suhṛdāṃ tathā śrutam anena satyena nihantv ayaṃ śaraḥ; sudaṃśitaḥ karṇam ariṃ mamājitaḥ
+
+**8.67.21**
+
+ity ūcivāṃs taṃ sa mumoca bāṇaṃ; dhanaṃjayaḥ karṇavadhāya ghoram kṛtyām atharvāṅgirasīm ivogrāṃ; dīptām asahyāṃ yudhi mṛtyunāpi
+
+**8.67.22**
+
+bruvan kirīṭī tam atiprahṛṣṭo; ayaṃ śaro me vijayāvaho 'stu jighāṃsur arkendusamaprabhāvaḥ; karṇaṃ samāptiṃ nayatāṃ yamāya
+
+**8.67.23**
+
+teneṣuvaryeṇa kirīṭamālī; prahṛṣṭarūpo vijayāvahena jighāṃsur arkendusamaprabheṇa; cakre viṣaktaṃ ripum ātatāyī
+
+**8.67.24**
+
+tad udyatādityasamānavarcasaṃ; śarannabhomadhyagabhāskaropamam varāṅgam urvyām apatac camūpater; divākaro 'stād iva raktamaṇḍalaḥ
+
+**8.67.25**
+
+tad asya dehī satataṃ sukhoditaṃ; svarūpam atyartham udārakarmaṇaḥ pareṇa kṛcchreṇa śarīram atyajad; gṛhaṃ maharddhīva sasaṅgam īśvaraḥ
+
+**8.67.26**
+
+śarair vibhugnaṃ vyasu tad vivarmaṇaḥ; papāta karṇasya śarīram ucchritam sravadvraṇaṃ gairikatoyavisravaṃ; girer yathā vajrahataṃ śiras tathā
+
+**8.67.27**
+
+dehāt tu karṇasya nipātitasya; tejo dīptaṃ khaṃ vigāhyācireṇa tad adbhutaṃ sarvamanuṣyayodhāḥ; paśyanti rājan nihate sma karṇe
+
+**8.67.28**
+
+taṃ somakāḥ prekṣya hataṃ śayānaṃ; prītā nādaṃ saha sainyair akurvan tūryāṇi cājaghnur atīva hṛṣṭā; vāsāṃsi caivādudhuvur bhujāṃś ca balānvitāś cāpy apare hy anṛtyann; anyonyam āśliṣya nadanta ūcuḥ
+
+**8.67.29**
+
+dṛṣṭvā tu karṇaṃ bhuvi niṣṭanantaṃ; hataṃ rathāt sāyakenāvabhinnam mahānilenāgnim ivāpaviddhaṃ; yajñāvasāne śayane niśānte
+
+**8.67.30**
+
+śarair ācitasarvāṅgaḥ śoṇitaughapariplutaḥ vibhāti dehaḥ karṇasya svaraśmibhir ivāṃśumān
+
+**8.67.31**
+
+pratāpya senām āmitrīṃ dīptaiḥ śaragabhastibhiḥ balinārjunakālena nīto 'staṃ karṇabhāskaraḥ
+
+**8.67.32**
+
+astaṃ gacchan yathādityaḥ prabhām ādāya gacchati evaṃ jīvitam ādāya karṇasyeṣur jagāma ha
+
+**8.67.33**
+
+aparāhṇe parāhṇasya sūtaputrasya māriṣa chinnam añjalikenājau sotsedham apatac chiraḥ
+
+**8.67.34**
+
+upary upari sainyānāṃ tasya śatros tad añjasā śiraḥ karṇasya sotsedham iṣuḥ so 'pāharad drutam
+
+**8.67.35**
+
+saṃjaya uvāca karṇaṃ tu śūraṃ patitaṃ pṛthivyāṃ; śarācitaṃ śoṇitadigdhagātram dṛṣṭvā śayānaṃ bhuvi madrarājaś; chinnadhvajenāpayayau rathena
+
+**8.67.36**
+
+karṇe hate kuravaḥ prādravanta; bhayārditā gāḍhaviddhāś ca saṃkhye avekṣamāṇā muhur arjunasya; dhvajaṃ mahāntaṃ vapuṣā jvalantam
+
+**8.67.37**
+
+sahasranetrapratimānakarmaṇaḥ; sahasrapatrapratimānanaṃ śubham sahasraraśmir dinasaṃkṣaye yathā; tathāpatat tasya śiro vasuṃdharām
+
+**8.68.1**
+
+saṃjaya uvāca śalyas tu karṇārjunayor vimarde; balāni dṛṣṭvā mṛditāni bāṇaiḥ duryodhanaṃ yāntam avekṣamāṇo; saṃdarśayad bhārata yuddhabhūmim
+
+**8.68.2**
+
+nipātitasyandanavājināgaṃ; dṛṣṭvā balaṃ tad dhatasūtaputram duryodhano 'śrupratipūrṇanetro; muhur muhur nyaśvasad ārtarūpaḥ
+
+**8.68.3**
+
+karṇaṃ tu śūraṃ patitaṃ pṛthivyāṃ; śarācitaṃ śoṇitadigdhagātram yadṛcchayā sūryam ivāvanisthaṃ; didṛkṣavaḥ saṃparivārya tasthuḥ
+
+**8.68.4**
+
+prahṛṣṭavitrastaviṣaṇṇavismṛtās; tathāpare śokagatā ivābhavan pare tvadīyāś ca paraspareṇa; yathā yathaiṣāṃ prakṛtis tathābhavan
+
+**8.68.5**
+
+praviddhavarmābharaṇāmbarāyudhaṃ; dhanaṃjayenābhihataṃ hataujasam niśamya karṇaṃ kuravaḥ pradudruvur; hatarṣabhā gāva ivākulākulāḥ
+
+**8.68.6**
+
+kṛtvā vimardaṃ bhṛśam arjunena; karṇaṃ hataṃ kesariṇeva nāgam dṛṣṭvā śayānaṃ bhuvi madrarājo; bhīto 'pasarpat sarathaḥ suśīghram
+
+**8.68.7**
+
+madrādhipaś cāpi vimūḍhacetās; tūrṇaṃ rathenāpahṛtadhvajena duryodhanasyāntikam etya śīghraṃ; saṃbhāṣya duḥkhārtam uvāca vākyam
+
+**8.68.8**
+
+viśīrṇanāgāśvarathapravīraṃ; balaṃ tvadiyaṃ yamarāṣṭrakalpam anyonyam āsādya hataṃ mahadbhir; narāśvanāgair girikūṭakalpaiḥ
+
+**8.68.9**
+
+naitādṛśaṃ bhārata yuddham āsīd; yathādya karṇārjunayor babhūva grastau hi karṇena sametya kṛṣṇāv; anye ca sarve tava śatravo ye
+
+**8.68.10**
+
+daivaṃ tu yat tat svavaśaṃ pravṛttaṃ; tat pāṇḍavān pāti hinasti cāsmān tavārthasiddhyarthakarā hi sarve; prasahya vīrā nihatā dviṣadbhiḥ
+
+**8.68.11**
+
+kuberavaivasvatavāsavānāṃ; tulyaprabhāvāmbupateś ca vīrāḥ vīryeṇa śauryeṇa balena caiva; tais taiś ca yuktā vipulair guṇaughaiḥ
+
+**8.68.12**
+
+avadhyakalpā nihatā narendrās; tavārthakāmā yudhi pāṇḍaveyaiḥ tan mā śuco bhārata diṣṭam etat; paryāyasiddhir na sadāsti siddhiḥ
+
+**8.68.13**
+
+etad vaco madrapater niśamya; svaṃ cāpanītaṃ manasā nirīkṣya duryodhano dīnamanā visaṃjñaḥ; punaḥ punar nyaśvasad ārtarūpaḥ
+
+**8.68.14**
+
+taṃ dhyānamūkaṃ kṛpaṇaṃ bhṛśārtam; ārtāyanir dīnam uvāca vākyam paśyedam ugraṃ naravājināgair; āyodhanaṃ vīrahataiḥ prapannam
+
+**8.68.15**
+
+mahīdharābhaiḥ patitair mahāgajaiḥ; sakṛt praviddhaiḥ śaraviddhamarmabhiḥ tair vihvaladbhiś ca gatāsubhiś ca; pradhvastayantrāyudhavarmayodhaiḥ
+
+**8.68.16**
+
+vajrāpaviddhair iva cācalendrair; vibhinnapāṣāṇamṛgadrumauṣadhaiḥ praviddhaghaṇṭāṅkuśatomaradhvajaiḥ; sahemamālai rudhiraughasaṃplutaiḥ
+
+**8.68.17**
+
+śarāvabhinnaiḥ patitaiś ca vājibhiḥ; śvasadbhir anyaiḥ kṣatajaṃ vamadbhiḥ dīnaiḥ stanadbhiḥ parivṛttanetrair; mahīṃ daśadbhiḥ kṛpaṇaṃ nadadbhiḥ
+
+**8.68.18**
+
+tathāpaviddhair gajavājiyodhair; mandāsubhiś caiva gatāsubhiś ca narāśvanāgaiś ca rathaiś ca marditair; mahī mahāvaitaraṇīva durdṛśā
+
+**8.68.19**
+
+gajair nikṛttāparahastagātrair; udvepamānaiḥ patitaiḥ pṛthivyām yaśasvibhir nāgarathāśvayodhibhiḥ; padātibhiś cābhimukhair hataiḥ paraiḥ viśīrṇavarmābharaṇāmbarāyudhair; vṛtā niśāntair iva pāvakair mahī
+
+**8.68.20**
+
+śaraprahārābhihatair mahābalair; avekṣyamāṇaiḥ patitaiḥ sahasraśaḥ pranaṣṭasaṃjñaiḥ punar ucchvasadbhir; mahī babhūvānugatair ivāgnibhiḥ divaś cyutair bhūr atidīptimadbhir; naktaṃ grahair dyaur amaleva dīptaiḥ
+
+**8.68.21**
+
+śarās tu karṇārjunabāhumuktā; vidārya nāgāśvamanuṣyadehān prāṇān nirasyāśu mahīm atīyur; mahoragā vāsam ivābhito 'straiḥ
+
+**8.68.22**
+
+hatair manuṣyāśvagajaiś ca saṃkhye; śarāvabhinnaiś ca rathair babhūva dhanaṃjayasyādhiratheś ca mārge; gajair agamyā vasudhātidurgā
+
+**8.68.23**
+
+rathair vareṣūn mathitaiś ca yodhaiḥ; saṃsyūtasūtāśvavarāyudhadhvajaiḥ viśīrṇaśastrair vinikṛttabandhurair; nikṛttacakrākṣayugatriveṇubhiḥ
+
+**8.68.24**
+
+vimuktayantrair nihatair ayasmayair; hatānuṣaṅgair viniṣaṅgabandhuraiḥ prabhagnanīḍair maṇihemamaṇḍitaiḥ; stṛtā mahī dyaur iva śāradair ghanaiḥ
+
+**8.68.25**
+
+vikṛṣyamaṇair javanair alaṃkṛtair; hateśvarair ājirathaiḥ sukalpitaiḥ manuṣyamātaṅgarathāśvarāśibhir; drutaṃ vrajanto bahudhā vicūrṇitāḥ
+
+**8.68.26**
+
+sahemapaṭṭāḥ parighāḥ paraśvadhāḥ; kaḍaṅgarāyomusalāni paṭṭiśāḥ petuś ca khaḍgā vimalā vikośā; gadāś ca jāmbūnadapaṭṭabaddhāḥ
+
+**8.68.27**
+
+cāpāni rukmāṅgadabhūṣaṇāni; śarāś ca kārtasvaracitrapuṅkhāḥ ṛṣṭyaś ca pītā vimalā vikośāḥ; prāsāḥ sakhaḍgāḥ kanakāvabhāsāḥ
+
+**8.68.28**
+
+chatrāṇi vālavyajanāni śaṅkhāḥ; srajaś ca puṣpottamahemacitrāḥ kuthāḥ patākāmbaraveṣṭitāś ca; kirīṭamālā mukuṭāś ca śubhrāḥ
+
+**8.68.29**
+
+prakīrṇakā viprakīrṇāḥ kuthāś ca; pradhānamuktātaralāś ca hārāḥ āpīḍakeyūravarāṅgadāni; graiveyaniṣkāḥ sasuvarṇasūtrāḥ
+
+**8.68.30**
+
+maṇyuttamā vajrasuvarṇamuktā; ratnāni coccāvacamaṅgalāni gātrāṇi cātyantasukhocitāni; śirāṃsi cendupratimānanāni
+
+**8.68.31**
+
+dehāṃś ca bhogāṃś ca paricchadāṃś ca; tyaktvā manojñāni sukhāni cāpi svadharmaniṣṭhāṃ mahatīm avāpya; vyāptāṃś ca lokān yaśasā samīyuḥ
+
+**8.68.32**
+
+ity evam uktvā virarāma śalyo; duryodhanaḥ śokaparītacetāḥ hā karṇa hā karṇa iti bruvāṇa; ārto visaṃjño bhṛśam aśrunetraḥ
+
+**8.68.33**
+
+taṃ droṇaputrapramukhā narendrāḥ; sarve samāśvāsya saha prayānti nirīkṣamāṇā muhur arjunasya; dhvajaṃ mahāntaṃ yaśasā jvalantam
+
+**8.68.34**
+
+narāśvamātaṅgaśarīrajena; raktena siktā rudhireṇa bhūmiḥ raktāmbarasrak tapanīyayogān; nārī prakāśā iva sarvagamyā
+
+**8.68.35**
+
+pracchannarūpā rudhireṇa rājan; raudre muhūrte 'tivirājamānāḥ naivāvatasthuḥ kuravaḥ samīkṣya; pravrājitā devalokāś ca sarve
+
+**8.68.36**
+
+vadhena karṇasya suduḥkhitās te; hā karṇa hā karṇa iti bruvāṇāḥ drutaṃ prayātāḥ śibirāṇi rājan; divākaraṃ raktam avekṣamāṇāḥ
+
+**8.68.37**
+
+gāṇḍīvamuktais tu suvarṇapuṅkhaiḥ; śitaiḥ śaraiḥ śoṇitadigdhavājaiḥ śaraiś citāṅgo bhuvi bhāti karṇo; hato 'pi san sūrya ivāṃśumālī
+
+**8.68.38**
+
+karṇasya dehaṃ rudhirāvasiktaṃ; bhaktānukampī bhagavān vivasvān spṛṣṭvā karair lohitaraktarūpaḥ; siṣṇāsur abhyeti paraṃ samudram
+
+**8.68.39**
+
+itīva saṃcintya surarṣisaṃghāḥ; saṃprasthitā yānti yathāniketam saṃcintayitvā ca janā visasrur; yathāsukhaṃ khaṃ ca mahītalaṃ ca
+
+**8.68.40**
+
+tad adbhutaṃ prāṇabhṛtāṃ bhayaṃkaraṃ; niśamya yuddhaṃ kuruvīramukhyayoḥ dhanaṃjayasyādhiratheś ca vismitāḥ; praśaṃsamānāḥ prayayus tadā janāḥ
+
+**8.68.41**
+
+śaraiḥ saṃkṛttavarmāṇaṃ vīraṃ viśasane hatam gatāsum api rādheyaṃ naiva lakṣmīr vyamuñcata
+
+**8.68.42**
+
+nānābharaṇavān rājan mṛṣṭajāmbūnadāṅgadaḥ hato vaikartanaḥ śete pādapo 'ṅkuravān iva
+
+**8.68.43**
+
+kanakottamasaṃkāśaḥ pradīpta iva pāvakaḥ saputraḥ puruṣavyāghraḥ saṃśāntaḥ pārthatejasā pratāpya pāṇḍavān rājan pāñcālāṃś cāstratejasā
+
+**8.68.44**
+
+dadānīty eva yo 'vocan na nāstīty arthito 'rthibhiḥ sadbhiḥ sadā satpuruṣaḥ sa hato dvairathe vṛṣaḥ
+
+**8.68.45**
+
+yasya brāhmaṇasāt sarvam ātmārthaṃ na mahātmanaḥ nādeyaṃ brāhmaṇeṣv āsīd yasya svam api jīvitam
+
+**8.68.46**
+
+sadā nṝṇāṃ priyo dātā priyadāno divaṃ gataḥ ādāya tava putrāṇāṃ jayāśāṃ śarma varma ca
+
+**8.68.47**
+
+hate sma karṇe sarito na sravanti; jagāma cāstaṃ kaluṣo divākaraḥ grahaś ca tiryag jvalitārkavarṇo; yamasya putro 'bhyudiyāya rājan
+
+**8.68.48**
+
+nabhaḥ paphālātha nanāda corvī; vavuś ca vātāḥ paruṣātivelam diśaḥ sadhūmāś ca bhṛśaṃ prajajvalur; mahārṇavāś cukṣubhire ca sasvanāḥ
+
+**8.68.49**
+
+sakānanāḥ sādricayāś cakampuḥ; pravivyathur bhūtagaṇāś ca māriṣa bṛhaspatī rohiṇīṃ saṃprapīḍya; babhūva candrārkasamānavarṇaḥ
+
+**8.68.50**
+
+hate karṇe na diśo viprajajñus; tamovṛtā dyaur vicacāla bhūmiḥ papāta colkā jvalanaprakāśā; niśācarāś cāpy abhavan prahṛṣṭāḥ
+
+**8.68.51**
+
+śaśiprakāśānanam arjuno yadā; kṣureṇa karṇasya śiro nyapātayat athāntarikṣe divi ceha cāsakṛd; babhūva hāheti janasya nisvanaḥ
+
+**8.68.52**
+
+sa devagandharvamanuṣyapūjitaṃ; nihatya karṇaṃ ripum āhave 'rjunaḥ rarāja pārthaḥ parameṇa tejasā; vṛtraṃ nihatyeva sahasralocanaḥ
+
+**8.68.53**
+
+tato rathenāmbudavṛndanādinā; śarannabhomadhyagabhāskaratviṣā patākinā bhīmaninādaketunā; himenduśaṅkhasphaṭikāvabhāsinā suvarṇamuktāmaṇivajravidrumair; alaṃkṛtenāpratimānaraṃhasā
+
+**8.68.54**
+
+narottamau pāṇḍavakeśimardanāv; udāhitāv agnidivākaropamau raṇājire vītabhayau virejatuḥ; samānayānāv iva viṣṇuvāsavau
+
+**8.68.55**
+
+tato dhanurjyātalaneminisvanaiḥ; prasahya kṛtvā ca ripūn hataprabhān saṃsādhayitvaiva kurūñ śaraughaiḥ; kapidhvajaḥ pakṣivaradhvajaś ca prasahya śaṅkhau dhamatuḥ sughoṣau; manāṃsy arīṇām avasādayantau
+
+**8.68.56**
+
+suvarṇajālāvatatau mahāsvanau; himāvadātau parigṛhya pāṇibhiḥ cucumbatuḥ śaṅkhavarau nṛṇāṃ varau; varānanābhyāṃ yugapac ca dadhmatuḥ
+
+**8.68.57**
+
+pāñcajanyasya nirghoṣo devadattasya cobhayoḥ pṛthivīm antarikṣaṃ ca dyām apaś cāpy apūrayat
+
+**8.68.58**
+
+tau śaṅkhaśabdena ninādayantau; vanāni śailān sarito diśaś ca vitrāsayantau tava putrasenāṃ; yudhiṣṭhiraṃ nandayataḥ sma vīrau
+
+**8.68.59**
+
+tataḥ prayātāḥ kuravo javena; śrutvaiva śaṅkhasvanam īryamāṇam vihāya madrādhipatiṃ patiṃ ca; duryodhanaṃ bhārata bhāratānām
+
+**8.68.60**
+
+mahāhave taṃ bahu śobhamānaṃ; dhanaṃjayaṃ bhūtagaṇāḥ sametāḥ tadānvamodanta janārdanaṃ ca; prabhākarāv abhyuditau yathaiva
+
+**8.68.61**
+
+samācitau karṇaśaraiḥ paraṃtapāv; ubhau vyabhātāṃ samare 'cyutārjunau tamo nihatyābhyuditau yathāmalau; śaśāṅkasūryāv iva raśmimālinau
+
+**8.68.62**
+
+vihāya tān bāṇagaṇān athāgatau; suhṛdvṛtāv apratimānavikramau sukhaṃ praviṣṭau śibiraṃ svam īśvarau; sadasyahūtāv iva vāsavācyutau
+
+**8.68.63**
+
+sadevagandharvamanuṣyacāraṇair; maharṣibhir yakṣamahoragair api jayābhivṛddhyā parayābhipūjitau; nihatya karṇaṃ paramāhave tadā
+
+**8.69.1**
+
+saṃjaya uvāca tathā nipātite karṇe tava sainye ca vidrute āśliṣya pārthaṃ dāśārho harṣād vacanam abravīt
+
+**8.69.2**
+
+hato balabhidā vṛtras tvayā karṇo dhanaṃjaya vadhaṃ vai karṇavṛtrābhyāṃ kathayiṣyanti mānavāḥ
+
+**8.69.3**
+
+vajriṇā nihato vṛtraḥ saṃyuge bhūritejasā tvayā tu nihataḥ karṇo dhanuṣā niśitaiḥ śaraiḥ
+
+**8.69.4**
+
+tam imaṃ vikramaṃ loke prathitaṃ te yaśovaham nivedayāvaḥ kaunteya dharmarājāya dhīmate
+
+**8.69.5**
+
+vadhaṃ karṇasya saṃgrāme dīrghakālacikīrṣitam nivedya dharmarājasya tvam ānṛṇyaṃ gamiṣyasi
+
+**8.69.6**
+
+tathety ukte keśavas tu pārthena yadupuṅgavaḥ paryavartayad avyagro rathaṃ rathavarasya tam
+
+**8.69.7**
+
+dhṛṣṭadyumnaṃ yudhāmanyuṃ mādrīputrau vṛkodaram yuyudhānaṃ ca govinda idaṃ vacanam abravīt
+
+**8.69.8**
+
+parān abhimukhā yattās tiṣṭhadhvaṃ bhadram astu vaḥ yāvad āvedyate rājñe hataḥ karṇo 'rjunena vai
+
+**8.69.9**
+
+sa taiḥ śūrair anujñāto yayau rājaniveśanam pārtham ādāya govindo dadarśa ca yudhiṣṭhiram
+
+**8.69.10**
+
+śayānaṃ rājaśārdūlaṃ kāñcane śayanottame agṛhṇītāṃ ca caraṇau muditau pārthivasya tau
+
+**8.69.11**
+
+tayoḥ praharṣam ālakṣya prahārāṃś cātimānuṣān rādheyaṃ nihataṃ matvā samuttasthau yudhiṣṭhiraḥ
+
+**8.69.12**
+
+tato 'smai tad yathāvṛttaṃ vāsudevaḥ priyaṃvadaḥ kathayām āsa karṇasya nidhanaṃ yadunandanaḥ
+
+**8.69.13**
+
+īṣad utsmayamānas tu kṛṣṇo rājānam abravīt yudhiṣṭhiraṃ hatāmitraṃ kṛtāñjalir athācyutaḥ
+
+**8.69.14**
+
+diṣṭyā gāṇḍīvadhanvā ca pāṇḍavaś ca vṛkodaraḥ tvaṃ cāpi kuśalī rājan mādrīputrau ca pāṇḍavau
+
+**8.69.15**
+
+muktā vīrakṣayād asmāt saṃgrāmāl lomaharṣaṇāt kṣipram uttarakālāni kuru kāryāṇi pārthiva
+
+**8.69.16**
+
+hato vaikartanaḥ krūraḥ sūtaputro mahābalaḥ diṣṭyā jayasi rājendra diṣṭyā vardhasi pāṇḍava
+
+**8.69.17**
+
+yaḥ sa dyūtajitāṃ kṛṣṇāṃ prāhasat puruṣādhamaḥ tasyādya sūtaputrasya bhūmiḥ pibati śoṇitam
+
+**8.69.18**
+
+śete 'sau śaradīrṇāṅgaḥ śatrus te kurupuṃgava taṃ paśya puruṣavyāghra vibhinnaṃ bahudhā śaraiḥ
+
+**8.69.19**
+
+yudhiṣṭhiras tu dāśārhaṃ prahṛṣṭaḥ pratyapūjayat diṣṭyā diṣṭyeti rājendra prītyā cedam uvāca ha
+
+**8.69.20**
+
+naitac citraṃ mahābāho tvayi devakinandana tvayā sārathinā pārtho yat kuryād adya pauruṣam
+
+**8.69.21**
+
+pragṛhya ca kuruśreṣṭhaḥ sāṅgadaṃ dakṣiṇaṃ bhujam uvāca dharmabhṛt pārtha ubhau tau keśavārjunau
+
+**8.69.22**
+
+naranārāyaṇau devau kathitau nāradena ha dharmasaṃsthāpane yuktau purāṇau puruṣottamau
+
+**8.69.23**
+
+asakṛc cāpi medhāvī kṛṣṇadvaipāyano mama kathām etāṃ mahābāho divyām akathayat prabhuḥ
+
+**8.69.24**
+
+tava kṛṣṇa prabhāveṇa gāṇḍīvena dhanaṃjayaḥ jayaty abhimukhāñ śatrūn na cāsīd vimukhaḥ kva cit
+
+**8.69.25**
+
+jayaś caiva dhruvo 'smākaṃ na tv asmākaṃ parājayaḥ yadā tvaṃ yudhi pārthasya sārathyam upajagmivān
+
+**8.69.26**
+
+evam uktvā mahārāja taṃ rathaṃ hemabhūṣitam dantavarṇair hayair yuktaṃ kālavālair mahārathaḥ
+
+**8.69.27**
+
+āsthāya puruṣavyāghraḥ svabalenābhisaṃvṛtaḥ kṛṣṇārjunābhyāṃ vīrābhyām anumanya tataḥ priyam
+
+**8.69.28**
+
+āgato bahuvṛttāntaṃ draṣṭum āyodhanaṃ tadā ābhāṣamāṇas tau vīrāv ubhau mādhavaphalgunau
+
+**8.69.29**
+
+sa dadarśa raṇe karṇaṃ śayānaṃ puruṣarṣabham gāṇḍīvamuktair viśikhaiḥ sarvataḥ śakalīkṛtam
+
+**8.69.30**
+
+saputraṃ nihataṃ dṛṣṭvā karṇaṃ rājā yudhiṣṭhiraḥ praśaśaṃsa naravyāghrāv ubhau mādhavapāṇḍavau
+
+**8.69.31**
+
+adya rājāsmi govinda pṛthivyāṃ bhrātṛbhiḥ saha tvayā nāthena vīreṇa viduṣā paripālitaḥ
+
+**8.69.32**
+
+hataṃ dṛṣṭvā naravyāghraṃ rādheyam abhimāninam nirāśo 'dya durātmāsau dhārtarāṣṭro bhaviṣyati jīvitāc cāpi rājyāc ca hate karṇe mahārathe
+
+**8.69.33**
+
+tvatprasādād vayaṃ caiva kṛtārthāḥ puruṣarṣabha tvaṃ ca gāṇḍīvadhanvā ca vijayī yadunandana diṣṭyā jayasi govinda diṣṭyā karṇo nipātitaḥ
+
+**8.69.34**
+
+evaṃ sa bahuśo hṛṣṭaḥ praśaśaṃsa janārdanam arjunaṃ cāpi rājendra dharmarājo yudhiṣṭhiraḥ
+
+**8.69.35**
+
+tato bhīmaprabhṛtibhiḥ sarvaiś ca bhrātṛbhir vṛtam vardhayanti sma rājānaṃ harṣayuktā mahārathāḥ
+
+**8.69.36**
+
+nakulaḥ sahadevaś ca pāṇḍavaś ca vṛkodaraḥ sātyakiś ca mahārāja vṛṣṇīnāṃ pravaro rathaḥ
+
+**8.69.37**
+
+dhṛṣṭadyumnaḥ śikhaṇḍī ca pāṇḍupāñcālasṛñjayāḥ pūjayanti sma kaunteyaṃ nihate sūtanandane
+
+**8.69.38**
+
+te vardhayitvā nṛpatiṃ pāṇḍuputraṃ yudhiṣṭhiram jitakāśino labdhalakṣā yuddhaśauṇḍāḥ prahāriṇaḥ
+
+**8.69.39**
+
+stuvantaḥ stavayuktābhir vāgbhiḥ kṛṣṇau paraṃtapau jagmuḥ svaśibirāyaiva mudā yuktā mahārathāḥ
+
+**8.69.40**
+
+evam eṣa kṣayo vṛttaḥ sumahāṃl lomaharṣaṇaḥ tava durmantrite rājann atītaṃ kiṃ nu śocasi
+
+**8.69.41**
+
+vaiśaṃpāyana uvāca śrutvā tad apriyaṃ rājan dhṛtarāṣṭro mahīpatiḥ papāta bhūmau niśceṣṭaḥ kauravyaḥ paramārtivān tathā satyavratā devī gāndhārī dharmadarśinī
+
+**8.69.42**
+
+taṃ pratyagṛhṇād viduro nṛpatiṃ saṃjayas tathā paryāśvāsayataś caivaṃ tāv ubhāv eva bhūmipam
+
+**8.69.43**
+
+tathaivotthāpayām āsur gāndhārīṃ rājayoṣitaḥ tābhyām āśvāsito rājā tūṣṇīm āsīd vicetanaḥ

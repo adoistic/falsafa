@@ -1,0 +1,41 @@
+{
+  "work_slug": "richard-owen-cambridge-poems-29aa86",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "To Mr. WHITEHEAD, On his being made POET LAUREAT.",
+  "chapter_slug": "04-to-mr-whitehead-on-his-being-made-poet-laureat",
+  "author": "Richard Owen Cambridge",
+  "author_slug": "richard-owen-cambridge",
+  "ecpa_poem_id": "o5157-w0830",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 50
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "258e428a-3ad3-5ff3-8903-0f0d630a9f59",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 318,
+      "line_count": 53,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

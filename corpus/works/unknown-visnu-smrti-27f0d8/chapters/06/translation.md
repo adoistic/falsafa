@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 6**
+**Viṣṇu Smriti 6**
 
 Now, a creditor shall take from a debtor the sum as it was lent. // Vi_6.1 //
 

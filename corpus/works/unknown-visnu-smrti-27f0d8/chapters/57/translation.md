@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 57**
+**Viṣṇu Smriti 57**
 
 Now, those who are to be avoided (*tyājya*, one who is to be avoided/ostracized). // Vi_57.1 //
 

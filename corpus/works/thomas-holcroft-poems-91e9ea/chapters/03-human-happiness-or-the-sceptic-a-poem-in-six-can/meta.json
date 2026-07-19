@@ -1,0 +1,44 @@
+{
+  "work_slug": "thomas-holcroft-poems-91e9ea",
+  "work_title": "Poems",
+  "chapter_number": 3,
+  "chapter_title": "[HUMAN HAPPINESS; OR THE SCEPTIC. A POEM, IN SIX CANTOS.]",
+  "chapter_slug": "03-human-happiness-or-the-sceptic-a-poem-in-six-can",
+  "author": "Thomas Holcroft",
+  "author_slug": "thomas-holcroft",
+  "ecpa_poem_id": "o4899-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "narrative verse"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 1714
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "afdca7e0-20fd-5fc4-a64d-c359dc1e6600",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 11100,
+      "line_count": 1722,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

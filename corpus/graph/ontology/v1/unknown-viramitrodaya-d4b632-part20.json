@@ -1,0 +1,1090 @@
+{
+  "slug": "unknown-viramitrodaya-d4b632",
+  "window": "01:4565-4915",
+  "entities": [
+    {
+      "canonical_name": "Bṛhaspati",
+      "surface_names": [
+        "Bṛhaspati"
+      ],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-722565",
+          "quote": "Bṛhaspati says:",
+          "role": "quoted authority on yuga-dharma durations"
+        }
+      ],
+      "description": "Vedic sage cited as an authority on the varying duration of dharmic efficacy across the four yugas.",
+      "justification": "Bṛhaspati is explicitly named as the speaker of the quoted verse on yuga-dharma at paragraph p-722565."
+    },
+    {
+      "canonical_name": "Vāmadeva",
+      "surface_names": [
+        "Vāmadeva"
+      ],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-a56bbb",
+          "quote": "Vāmadeva says:",
+          "role": "quoted authority on sacred fords across yugas"
+        }
+      ],
+      "description": "Sage cited as an authority on the supremacy of different sacred fords in different yugas.",
+      "justification": "Named speaker at p-a56bbb preceding a verse on tīrthas supreme in each yuga."
+    },
+    {
+      "canonical_name": "Śātātapa",
+      "surface_names": [
+        "Śātātapa"
+      ],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-ff8630",
+          "quote": "There, Śātātapa says:",
+          "role": "quoted authority on things to be avoided in each yuga"
+        }
+      ],
+      "description": "Smṛti authority quoted on prohibited acts whose gravity varies by yuga.",
+      "justification": "Explicitly named at p-ff8630 as the source for yuga-specific prohibitions."
+    },
+    {
+      "canonical_name": "Vyāsa",
+      "surface_names": [
+        "Vyāsa"
+      ],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-94d5bf",
+          "quote": "Vyāsa says:",
+          "role": "quoted authority on equivalence of worship across yugas"
+        },
+        {
+          "paragraph_id": "p-94d5bf",
+          "quote": "Vyāsa says:",
+          "role": "quoted authority on Kali-yuga prohibitions and the Tretā transition"
+        }
+      ],
+      "description": "Canonical sage and compiler of the Vedas, cited twice in this window on yuga-dharma equivalences and Kali-yuga observances.",
+      "justification": "Named speaker at p-94d5bf (used twice in the window) introducing authoritative verses on yugas."
+    },
+    {
+      "canonical_name": "Kratu",
+      "surface_names": [
+        "Kratu"
+      ],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-e4ac0a",
+          "quote": "Kratu says:",
+          "role": "quoted authority on Kali-yuga prohibitions"
+        }
+      ],
+      "description": "Vedic sage cited on forbidden acts in the Kali Yuga, including niyoga and cow-slaughter.",
+      "justification": "Explicitly named at p-e4ac0a as source of a verse listing Kali-prohibited practices."
+    },
+    {
+      "canonical_name": "Devala",
+      "surface_names": [
+        "Devala"
+      ],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-e26dcb",
+          "quote": "Devala says:",
+          "role": "quoted authority on renunciation (sannyāsa) in the Kali Yuga"
+        }
+      ],
+      "description": "Smṛti authority cited on permissibility of the Agnihotra and renunciation so long as Vedic tradition and caste divisions persist.",
+      "justification": "Named speaker at p-e26dcb preceding a verse on sannyāsa in Kali."
+    },
+    {
+      "canonical_name": "Laugākṣi",
+      "surface_names": [
+        "Laugākṣi"
+      ],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-1a6c95",
+          "quote": "Laugākṣi says:",
+          "role": "quoted authority on the ardhādhāna (partial fire-establishment)"
+        }
+      ],
+      "description": "Sūtra authority cited on the definition and distinction of ardhādhāna and the full establishment of fires.",
+      "justification": "Named speaker at p-1a6c95 preceding a technical verse on fire-rites."
+    },
+    {
+      "canonical_name": "Baudhāyana",
+      "surface_names": [
+        "Baudhāyana"
+      ],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-4f7a73",
+          "quote": "Baudhāyana states another time: 'Marriage has been explained. Here, the time for the establishment of the sacred fires is after this, according to one's faith.'",
+          "role": "authority on timing of agnyādheya after marriage"
+        },
+        {
+          "paragraph_id": "p-3810d7",
+          "quote": "it is said by Baudhāyana himself that there is no fault for one who maintains the *aupāsana* fire",
+          "role": "authority on aupāsana as interim practice"
+        },
+        {
+          "paragraph_id": "p-8f668d",
+          "quote": "Baudhāyana states another time: 'Whenever faith comes upon him, then he should establish the fires; that is his prosperity.'",
+          "role": "authority permitting faith-based timing of agnyādheya"
+        },
+        {
+          "paragraph_id": "p-2bf887",
+          "quote": "Baudhāyana says: 'In Kṛttikā, Rohiṇī, Punarvasu, the Phalgunīs, and Citrā.'",
+          "role": "authority on auspicious nakṣatras for fire-establishment"
+        },
+        {
+          "paragraph_id": "p-330c4b",
+          "quote": "Baudhāyana, however, says: 'Whichever Amāvāsyā occurs after the Vaiśākha Paurṇamāsī, that one falls in conjunction with Rohiṇī once a year; on it, one should establish the fires.'",
+          "role": "authority on preferred tithi for agnyādheya"
+        }
+      ],
+      "description": "Major Dharmasūtra author cited on the timing of the agnyādheya — permitting marriage as the qualifying event, faith-based timing, and specific nakṣatras and tithis.",
+      "justification": "Baudhāyana is explicitly named multiple times in the agnyādheya section (paragraphs p-4f7a73, p-3810d7, p-8f668d, p-2bf887, p-330c4b)."
+    },
+    {
+      "canonical_name": "Āpastamba",
+      "surface_names": [
+        "Āpastamba"
+      ],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-26322d",
+          "quote": "Āpastamba, however, says: 'Spring for a Brahmin; summer or winter for a Rājanya; autumn for a Vaiśya; the rainy season for a *rathakāra*.'",
+          "role": "authority on seasonal timing of agnyādheya by varna"
+        },
+        {
+          "paragraph_id": "p-bf8a7e",
+          "quote": "Āpastamba says: 'One should establish the fires on Amāvāsyā or on Paurṇamāsī.'",
+          "role": "authority on tithi for fire-establishment"
+        },
+        {
+          "paragraph_id": "p-a655e0",
+          "quote": "Āpastamba, however, says: 'A Brahmin should establish the fires in Kṛttikā; he becomes pre-eminent and endowed with the splendor of sacred knowledge.'",
+          "role": "authority on nakṣatra for fire-establishment"
+        },
+        {
+          "paragraph_id": "p-02113a",
+          "quote": "it is said by Āpastamba that there is no regard for the season, *nakṣatra*, etc.",
+          "role": "authority stating exception for Soma-preceding fire establishment"
+        }
+      ],
+      "description": "Dharmasūtra authority cited extensively on the seasonal, tithi, and nakṣatra rules for establishing the sacred fires.",
+      "justification": "Āpastamba is explicitly named at paragraphs p-26322d, p-bf8a7e, p-a655e0, and p-02113a in the agnyādheya subsection."
+    },
+    {
+      "canonical_name": "Kātyāyana",
+      "surface_names": [
+        "Kātyāyana"
+      ],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-a9dfb6",
+          "quote": "By Kātyāyana: 'Spring is for a Brahmin and for one who desires the splendor of sacred knowledge (*brahmavarcasa*); summer, for a Kṣatriya and for one who desires prosperity'",
+          "role": "authority on seasonal and desire-based timing for agnyādheya"
+        },
+        {
+          "paragraph_id": "p-98183e",
+          "quote": "Kātyāyana says: 'In Kṛttikā, Rohiṇī, Mṛgaśiras, and the Phalgunīs. Hasta is for one who desires gain, and Citrā.'",
+          "role": "authority on nakṣatras for fire-establishment"
+        }
+      ],
+      "description": "Smṛti authority cited on season and nakṣatra rules for establishing the fires, including desire-specific prescriptions.",
+      "justification": "Kātyāyana is named at p-a9dfb6 and p-98183e in the agnyādheya discussion."
+    },
+    {
+      "canonical_name": "Āśvalāyana",
+      "surface_names": [
+        "Āśvalāyana"
+      ],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-d31ea5",
+          "quote": "Āśvalāyana says: 'In spring, on a *parvan* day, one should establish the fires.'",
+          "role": "authority on tithi and season for fire-establishment"
+        },
+        {
+          "paragraph_id": "p-40e1d5",
+          "quote": "Āśvalāyana says: 'The establishment of the sacred fires should be in Kṛttikā, Rohiṇī, Mṛgaśiras, the Phalgunīs, the two Viśākhās, the two Uttaras, or the two Prauṣṭhapadas, in any one of these.'",
+          "role": "authority on acceptable nakṣatras for fire-establishment"
+        }
+      ],
+      "description": "Gṛhyasūtra authority cited on the season, tithi, and nakṣatras appropriate for the agnyādheya.",
+      "justification": "Āśvalāyana is explicitly named at p-d31ea5 and p-40e1d5."
+    },
+    {
+      "canonical_name": "Satyāṣāḍha",
+      "surface_names": [
+        "Satyāṣāḍha"
+      ],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-ed8c92",
+          "quote": "Satyāṣāḍha, however, having begun with 'one should establish the fires,' says: 'On Amāvāsyā, on Paurṇamāsī, or in the waxing fortnight, on an auspicious *nakṣatra*.'",
+          "role": "authority on tithi for fire-establishment"
+        }
+      ],
+      "description": "Sūtra authority on the permitted tithis for establishing the fires, allowing a wider range than some other authorities.",
+      "justification": "Named at p-ed8c92 as source of a rule about acceptable tithis for agnyādheya."
+    },
+    {
+      "canonical_name": "Hemādri",
+      "surface_names": [
+        "Hemādri"
+      ],
+      "kind": "figure",
+      "figure_kind": "commentator",
+      "mentions": [
+        {
+          "paragraph_id": "p-88a21a",
+          "quote": "Thus, even at times prohibited at the beginning of the rainy season, if auspicious signs, etc., are observed, *dīkṣā* should be performed, says Hemādri.",
+          "role": "mediating commentator on dīkṣā timing exceptions"
+        },
+        {
+          "paragraph_id": "p-a2b780",
+          "quote": "In the *Hemādri*, in another *smṛti*:",
+          "role": "digest authority cited on dīkṣā times"
+        }
+      ],
+      "description": "Medieval digest-writer (Hemādri) cited both as a named commentator and as the source-digest for smṛti quotations on dīkṣā.",
+      "justification": "Named at p-88a21a and cited as a digest at p-a2b780 in the dīkṣā timing section."
+    },
+    {
+      "canonical_name": "Nārāyaṇa",
+      "surface_names": [
+        "Nārāyaṇa",
+        "Keśava",
+        "Hari",
+        "Vāsudeva",
+        "Viṣṇu",
+        "Puruṣa",
+        "Paramātman",
+        "Kṛṣṇa",
+        "Govinda",
+        "Madhusūdana",
+        "Acyuta",
+        "Hṛṣīkeśa",
+        "Puṇḍarīkākṣa",
+        "Gajamokṣaṇa",
+        "Uttāraṇa",
+        "Śrīśa",
+        "Vaikuṇṭha"
+      ],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-577444",
+          "quote": "Kṛta, Tretā, and Dvāpara, and Kali—in these, Keśava / is worshipped by various methods, with various colors, names",
+          "role": "supreme deity worshipped differently across yugas"
+        },
+        {
+          "paragraph_id": "p-2c11a8",
+          "quote": "And in Kali also, by the method of various Tantras, as you should hear. / Kṛṣṇa, of dark color, with his limbs",
+          "role": "form of Viṣṇu worshipped in Kali Yuga"
+        },
+        {
+          "paragraph_id": "p-d079dd",
+          "quote": "There is nothing more conducive to the welfare of men than the worship of Viṣṇu, O sage, / in this tāmasic, terrible",
+          "role": "supreme object of worship in Kali Yuga"
+        },
+        {
+          "paragraph_id": "p-a9569f",
+          "quote": "Then one should recite all the names of Hari in all rites.",
+          "role": "deity whose names are to be recited at all ritual moments"
+        }
+      ],
+      "description": "The supreme Vaiṣṇava deity appearing under many names; the text prescribes worship of Viṣṇu/Hari in the Kali Yuga and catalogs his names for use in diverse ritual and life situations.",
+      "justification": "Viṣṇu/Nārāyaṇa and his many names pervade paragraphs from p-579444 through p-58960e as the primary deity of Kali-yuga devotion."
+    },
+    {
+      "canonical_name": "Śiva",
+      "surface_names": [
+        "Śiva",
+        "Śaṅkara",
+        "Rudra",
+        "Mahādeva",
+        "Nīlalohita",
+        "Viśveśvara"
+      ],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-fadfde",
+          "quote": "He who, with this mantra, 'Oṃ namaḥ Śivāya,' / worships Śaṅkara once, is freed from all sins.",
+          "role": "deity whose worship in Kali Yuga destroys sin"
+        },
+        {
+          "paragraph_id": "p-f6aa79",
+          "quote": "In Kali, Rudra, Mahādeva, Śaṅkara, Nīlalohita,",
+          "role": "deity manifesting specially in the Kali Yuga"
+        },
+        {
+          "paragraph_id": "p-26a24a",
+          "quote": "The Gaṅgā flowing north in Kāśī, and my liṅga of Viśveśvara, / both are givers of liberation to men",
+          "role": "deity in Kāśī whose liṅga grants liberation in Kali"
+        }
+      ],
+      "description": "Śiva in his various forms is presented as a major deity of the Kali Yuga, especially through the mantra 'Oṃ namaḥ Śivāya' and the Viśveśvara liṅga at Kāśī.",
+      "justification": "Śiva/Śaṅkara/Rudra are named as Kali-yuga deities at p-fadfde, p-f6aa79, and p-26a24a."
+    },
+    {
+      "canonical_name": "Brahmā",
+      "surface_names": [
+        "Brahmā"
+      ],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-28d401",
+          "quote": "Brahmā is the deity in the Kṛta Yuga; in Tretā, the blessed Sun.",
+          "role": "deity presiding over the Kṛta Yuga"
+        },
+        {
+          "paragraph_id": "p-8fbd87",
+          "quote": "Paurṇamāsī is said for Brahmā; Dvādaśī, for the wielder of the discus.",
+          "role": "deity associated with the full-moon tithi for dīkṣā"
+        }
+      ],
+      "description": "Brahmā is cited as the presiding deity of the Kṛta Yuga and linked to the Paurṇamāsī tithi for initiation rites.",
+      "justification": "Named explicitly at p-28d401 and p-8fbd87."
+    },
+    {
+      "canonical_name": "Gaṅgā",
+      "surface_names": [
+        "Gaṅgā",
+        "Gangā"
+      ],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-eeceb4",
+          "quote": "in Kali, the Gaṅgā is distinguished",
+          "role": "sacred ford supreme in the Kali Yuga"
+        },
+        {
+          "paragraph_id": "p-75434f",
+          "quote": "One should serve the Gaṅgā alone, and especially at Prayāga.",
+          "role": "river recommended for liberation in Kali"
+        },
+        {
+          "paragraph_id": "p-e38f04",
+          "quote": "the service of the Gaṅgā",
+          "role": "means to attain Brahman in Kali Yuga"
+        }
+      ],
+      "description": "The Gaṅgā river is presented as the pre-eminent sacred ford of the Kali Yuga, especially at Prayāga and in Kāśī.",
+      "justification": "Named as the supreme tīrtha of Kali at p-eeceb4, p-75434f, and p-e38f04."
+    },
+    {
+      "canonical_name": "Kāśī",
+      "surface_names": [
+        "Kāśī"
+      ],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-26a24a",
+          "quote": "The Gaṅgā flowing north in Kāśī, and my liṅga of Viśveśvara, / both are givers of liberation to men",
+          "role": "sacred city where Gaṅgā and Śiva's liṅga grant liberation"
+        },
+        {
+          "paragraph_id": "p-205cde",
+          "quote": "at Prayāga, on Śrīśaila, and in Kāś",
+          "role": "sacred location suitable for dīkṣā"
+        }
+      ],
+      "description": "Kāśī is named as a uniquely powerful sacred city where the Gaṅgā and the Viśveśvara liṅga jointly confer liberation in the Kali Yuga.",
+      "justification": "Named at p-26a24a and p-205cde."
+    },
+    {
+      "canonical_name": "Prayāga",
+      "surface_names": [
+        "Prayāga"
+      ],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-75434f",
+          "quote": "One should serve the Gaṅgā alone, and especially at Prayāga.",
+          "role": "supremely auspicious tīrtha location"
+        },
+        {
+          "paragraph_id": "p-205cde",
+          "quote": "at Prayāga, on Śrīśaila, and in Kāś",
+          "role": "sacred location for dīkṣā"
+        }
+      ],
+      "description": "Prayāga is cited as a pre-eminent sacred ford, especially for Gaṅgā worship in the Kali Yuga, and as an acceptable site for dīkṣā.",
+      "justification": "Named at p-75434f and p-205cde."
+    },
+    {
+      "canonical_name": "Kurukṣetra",
+      "surface_names": [
+        "Kurukṣetra"
+      ],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-a9459c",
+          "quote": "In Dvāpara, however, Kurukṣetra; in Kali, one should resort t",
+          "role": "sacred ford supreme in the Dvāpara Yuga"
+        },
+        {
+          "paragraph_id": "p-eeceb4",
+          "quote": "In Dvāpara, however, Kurukṣetra; in Kali, the Gaṅgā is di",
+          "role": "sacred ford of Dvāpara Yuga contrasted with Kali"
+        },
+        {
+          "paragraph_id": "p-205cde",
+          "quote": "at Kurukṣetra",
+          "role": "sacred location suitable for dīkṣā"
+        }
+      ],
+      "description": "Kurukṣetra is the supreme sacred ford of the Dvāpara Yuga, yielding to the Gaṅgā in the Kali Yuga.",
+      "justification": "Named at p-a9459c, p-eeceb4, and p-205cde."
+    },
+    {
+      "canonical_name": "Puṣkara",
+      "surface_names": [
+        "Puṣkara"
+      ],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-a9459c",
+          "quote": "Puṣkara should be served in Kṛta; in Tretā, Naimiṣa.",
+          "role": "supreme sacred ford of the Kṛta Yuga"
+        },
+        {
+          "paragraph_id": "p-eeceb4",
+          "quote": "In Kṛta, all sacred fords; in Tretā, Puṣkara is supreme.",
+          "role": "supreme sacred ford of Tretā Yuga per Vāmadeva"
+        }
+      ],
+      "description": "Puṣkara is cited as the supreme tīrtha of the Kṛta or Tretā Yuga depending on the quoted authority.",
+      "justification": "Named at p-a9459c and p-eeceb4 in the context of yuga-specific sacred fords."
+    },
+    {
+      "canonical_name": "Śrīśaila",
+      "surface_names": [
+        "Śrīśaila",
+        "Śrīparvata"
+      ],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-205cde",
+          "quote": "at Prayāga, on Śrīśaila, and in Kāś",
+          "role": "sacred site for dīkṣā"
+        },
+        {
+          "paragraph_id": "p-6c6b96",
+          "quote": "'On Śrīśaila' = on the Śrīparvata, say some.",
+          "role": "glossed as Śrīparvata"
+        }
+      ],
+      "description": "Śrīśaila (identified by some commentators as Śrīparvata) is listed as a sacred location appropriate for performing dīkṣā.",
+      "justification": "Named at p-205cde and glossed at p-6c6b96."
+    },
+    {
+      "canonical_name": "four seats of the Goddess",
+      "surface_names": [
+        "Uḍḍīyāna",
+        "Jālandhara",
+        "Pūrṇāgiri",
+        "Kāmarūpa"
+      ],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-205cde",
+          "quote": "at the four seats of the Goddess",
+          "role": "pīṭhas listed as suitable locations for dīkṣā"
+        },
+        {
+          "paragraph_id": "p-ee359a",
+          "quote": "The four seats of the Goddess are named Uḍḍīyāna, Jālandhara, Pūrṇāgiri, and Kāmarūpa.",
+          "role": "enumeration of the four Śākta pīṭhas"
+        }
+      ],
+      "description": "The four Śākta pīṭhas (Uḍḍīyāna, Jālandhara, Pūrṇāgiri, Kāmarūpa) are listed as sacred sites acceptable for dīkṣā.",
+      "justification": "Named at p-205cde and enumerated at p-ee359a."
+    },
+    {
+      "canonical_name": "Rāhu",
+      "surface_names": [
+        "Rāhu",
+        "Svarbhānu"
+      ],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-7b3861",
+          "quote": "The well-known *tithis*, the sight of Rāhu, and the festival of the guru",
+          "role": "eclipse-demon whose visibility marks an auspicious dīkṣā occasion"
+        },
+        {
+          "paragraph_id": "p-d7f8e3",
+          "quote": "on Kārttikī and Vaiśākhī, and at the sight of Svarbhānu",
+          "role": "occasion (solar/lunar eclipse) for dīkṣā"
+        }
+      ],
+      "description": "Rāhu (also Svarbhānu) is the eclipse-demon whose appearance — i.e., an eclipse — constitutes a specially auspicious moment for dīkṣā.",
+      "justification": "Named at p-7b3861 and as Svarbhānu at p-d7f8e3 in the context of exceptional dīkṣā occasions."
+    },
+    {
+      "canonical_name": "rathakāra",
+      "surface_names": [
+        "rathakāra"
+      ],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-26322d",
+          "quote": "the rainy season for a *rathakāra*",
+          "role": "artisan class assigned rainy season for fire-establishment"
+        },
+        {
+          "paragraph_id": "p-33377c",
+          "quote": "The *rathakāra* is not the specific caste (*jāti*) stated by Yājñavalkya",
+          "role": "contested social category discussed by commentator"
+        },
+        {
+          "paragraph_id": "p-8b38d8",
+          "quote": "in the rainy season, a *rathakāra*",
+          "role": "fourth category beyond the three varṇas for agnyādheya timing"
+        }
+      ],
+      "description": "The rathakāra (chariot-maker) is a social category assigned the rainy season for establishing the fires; the text discusses whether this refers to a specific caste or a broader functional group.",
+      "justification": "Named at p-26322d, p-33377c, and p-8b38d8 in the agnyādheya season discussion."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Yuga-dharma: variation of religious duty and efficacy across the four cosmic ages",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-f25877",
+          "quote": "Those who, in accordance with the *yuga*, having considered their own capacity, perform the obligatory and occasional rites by the primary or secondary ru"
+        },
+        {
+          "paragraph_id": "p-95a93f",
+          "quote": "The *dharma* that would be in Kṛta from a year, that in Tretā is from three seasons."
+        },
+        {
+          "paragraph_id": "p-ec6c72",
+          "quote": "What is obtained in Kṛta in ten years, that in Tretā is in a year. / In Dvāpara, that is in a month; in Kali, that i"
+        }
+      ],
+      "justification": "The window opens with an extended exposition of how the fruit of dharmic action is compressed across the yugas, quoting Bṛhaspati, the Brahmāṇḍa, Viṣṇu, Skanda, and Bhāgavata Purāṇas."
+    },
+    {
+      "topic": "Supremacy of chanting (kīrtana) and name-recitation in the Kali Yuga",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-fb5d57",
+          "quote": "The noble, who know the qualities and partake of the essence, praise Kali, / where by chanting alone, every desired"
+        },
+        {
+          "paragraph_id": "p-df5369",
+          "quote": "'By chanting' means by the chanting of Hari."
+        },
+        {
+          "paragraph_id": "p-a9569f",
+          "quote": "Then one should recite all the names of Hari in all rites."
+        }
+      ],
+      "justification": "Multiple Purāṇas and the Viṣṇudharmottara converge on chanting Hari's names as the supreme Kali-yuga sādhana, spanning paragraphs p-fb5d57 through p-58960e."
+    },
+    {
+      "topic": "Kaliyugavarjyāni: acts prohibited specifically in the Kali Yuga",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-5fe5a3",
+          "quote": "Now, the things to be avoided in the Kali Yuga (*kaliyugavarjyāni*)."
+        },
+        {
+          "paragraph_id": "p-df34a0",
+          "quote": "Long-term celibacy, and the carrying of a water-pot, / marriage to one of the same *gotra* or a *sapiṇḍa* of the mot"
+        },
+        {
+          "paragraph_id": "p-fb969d",
+          "quote": "The procreation of a son from a brother-in-law (*devara*), a girl once given is not given again, / cow-slaughter sho"
+        }
+      ],
+      "justification": "A discrete section (p-5fe5a3 through p-c4c7bc) systematically enumerates practices forbidden in the Kali Yuga, drawing on Brahmapurāṇa, Kratu, Ādityapurāṇa, Nigama, and Vyāsa."
+    },
+    {
+      "topic": "Appropriate timing for dīkṣā (initiation): seasons, tithis, nakṣatras, yogas, and exceptions",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-aacd78",
+          "quote": "Now, the time for initiation (*dīkṣā*)."
+        },
+        {
+          "paragraph_id": "p-db9c02",
+          "quote": "The conjunction of autumn and spring is remembered in the rite of the *dīkṣā* ceremony."
+        },
+        {
+          "paragraph_id": "p-8c0733",
+          "quote": "At the time of a solar eclipse, nothing else should be investigated. / There is no other time equal to the time of a"
+        }
+      ],
+      "justification": "The bulk of the window (p-aacd78 to p-856d30) is a sustained digest of competing authorities on dīkṣā timing, synthesizing smṛti, āgama, tantra, and pañcarātra sources."
+    },
+    {
+      "topic": "Agnyādheya: timing rules for establishing the sacred fires",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-0b6f26",
+          "quote": "There, the *śruti* says: / One with a son born and with black hair should establish the fires."
+        },
+        {
+          "paragraph_id": "p-8b38d8",
+          "quote": "In spring, a Brahmin should establish the fires; in summer, a Rājanya; in autumn, a Vaiśya; in the rainy season, a *rathakāra*."
+        },
+        {
+          "paragraph_id": "p-bf8a7e",
+          "quote": "Āpastamba says: 'One should establish the fires on Amāvāsyā or on Paurṇamāsī.'"
+        }
+      ],
+      "justification": "From p-4f7a73 to the end of the window the text addresses agnyādheya, marshalling śruti, Baudhāyana, Āpastamba, Kātyāyana, Āśvalāyana, Satyāṣāḍha, and the Gargasaṃhitā."
+    },
+    {
+      "topic": "Deity variation across yugas: the supreme god changes form and color by age",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-28d401",
+          "quote": "Brahmā is the deity in the Kṛta Yuga; in Tretā, the blessed Sun. / In Dvāpara, the blessed Viṣṇu; in Kali, the god M"
+        },
+        {
+          "paragraph_id": "p-775444",
+          "quote": "Kṛta, Tretā, and Dvāpara, and Kali—in these, Keśava / is worshipped by various methods, with various colors, names"
+        }
+      ],
+      "justification": "The Skanda Purāṇa and Bhāgavata passages (p-28d401 through p-2c11a8) detail how the supreme deity's color, form, and mode of worship differ in each yuga."
+    },
+    {
+      "topic": "Tīrtha supremacy by yuga: different sacred fords are most efficacious in different cosmic ages",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-a9459c",
+          "quote": "Puṣkara should be served in Kṛta; in Tretā, Naimiṣa. / In Dvāpara, however, Kurukṣetra; in Kali, one should resort t"
+        },
+        {
+          "paragraph_id": "p-eeceb4",
+          "quote": "In Kṛta, all sacred fords; in Tretā, Puṣkara is supreme. / In Dvāpara, however, Kurukṣetra; in Kali, the Gaṅgā is di"
+        }
+      ],
+      "justification": "Paragraphs p-a9459c and p-eeceb4 present a consistent framework of yuga-specific sacred geographies, concluding the yuga-dharma section."
+    },
+    {
+      "topic": "Renunciation (sannyāsa) and the Agnihotra as conditionally valid in Kali",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-4949d1",
+          "quote": "Renunciation should not be performed by a knowing Brahmin."
+        },
+        {
+          "paragraph_id": "p-726531",
+          "quote": "As long as the division of the castes exists, as long as the Veda is current, / the Agnihotra and renunciation, one"
+        }
+      ],
+      "justification": "Paragraphs p-4949d1 through p-c4c7bc address whether sannyāsa is a Kali-prohibited practice, with Devala permitting it under conditions."
+    },
+    {
+      "topic": "Nakṣatra-mantra compatibility: siddha/vairi/udāsīna syllable analysis for dīkṣā",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-d9c49d",
+          "quote": "In the syllables of the mantra, a wise man should combine the *siddha* and *susiddha* syllables. / The *vairi* and *"
+        },
+        {
+          "paragraph_id": "p-0cddae",
+          "quote": "In the sum of the *siddha* syllables, he should divide by eight, twelve, and seven."
+        }
+      ],
+      "justification": "Paragraphs p-d9c49d through p-b46ee1 describe a technical compatibility-checking procedure for matching mantra syllables with the disciple's birth-nakṣatra, an implicit analytic theme underlying the dīkṣā timing discussion."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Bṛhaspati-smṛti",
+      "cited_author": "Bṛhaspati",
+      "stance": "authority",
+      "paragraph_id": "p-722565",
+      "quote": "Bṛhaspati says:",
+      "justification": "The Vīramitrodaya quotes Bṛhaspati's verse on yuga-dharma duration as a primary smṛti authority."
+    },
+    {
+      "cited_work": "Brahmāṇḍa Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-1324f7",
+      "quote": "In the *Brahmāṇḍa Purāṇa*:",
+      "justification": "Cited to supply a verse on the compressed fruit of dharma in Tretā and Dvāpara yugas."
+    },
+    {
+      "cited_work": "Viṣṇu Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-b4c8ee",
+      "quote": "In the *Viṣṇu Purāṇa*:",
+      "justification": "Cited for a verse comparing the merit obtained in each yuga by the same effort."
+    },
+    {
+      "cited_work": "Skanda Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-7e1a26",
+      "quote": "In the *Skanda Purāṇa*:",
+      "justification": "Cited for verses on the presiding deities and forms of Nārāyaṇa in each yuga."
+    },
+    {
+      "cited_work": "Bhāgavata Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-15d650",
+      "quote": "In the *Bhāgavata*:",
+      "justification": "Cited twice: first for a description of Keśava's forms across the four yugas, then for praise of Kali as ideal for devotion through chanting."
+    },
+    {
+      "cited_work": "Viṣṇudharmottara Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-e08bd5",
+      "quote": "In the *Viṣṇudharmottara*:",
+      "justification": "Cited for a verse on yuga-specific sacred fords and later for instruction to recite Hari's names in all rites."
+    },
+    {
+      "cited_work": "Mahābhārata",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-06df1c",
+      "quote": "In the *Mahābhārata*:",
+      "justification": "Cited for verses on the liberating power of the Śiva-mantra 'Oṃ namaḥ Śivāya' in the Kali Yuga."
+    },
+    {
+      "cited_work": "Liṅga Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-d73459",
+      "quote": "In the *Liṅgapurāṇa*:",
+      "justification": "Cited for a verse on Rudra/Mahādeva manifesting in a disfigured form in Kali to establish dharma."
+    },
+    {
+      "cited_work": "Vyāsa-smṛti",
+      "cited_author": "Vyāsa",
+      "stance": "authority",
+      "paragraph_id": "p-94d5bf",
+      "quote": "Vyāsa says:",
+      "justification": "Cited for verses on the equivalence of Kali-yuga chanting with Kṛta-yuga meditation, and on the threshold when Tretā returns."
+    },
+    {
+      "cited_work": "Agni Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-90e143",
+      "quote": "In the *Agnipurāṇa*:",
+      "justification": "Cited for verses commending Viṣṇu-worship as uniquely beneficial in the Kali Yuga."
+    },
+    {
+      "cited_work": "Viṣṇu Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-12b589",
+      "quote": "In the *Viṣṇupurāṇa*:",
+      "justification": "Cited for a verse encouraging kings to build god-temples in the Kali Yuga."
+    },
+    {
+      "cited_work": "Kūrma Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-0a0d24",
+      "quote": "In the *Kūrmapurāṇa*:",
+      "justification": "Cited for a verse prescribing Gaṅgā service, especially at Prayāga, in the Kali Yuga."
+    },
+    {
+      "cited_work": "Skanda Purāṇa and Bhaviṣya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-20537d",
+      "quote": "In the *Skanda* and *Bhaviṣya Purāṇas*:",
+      "justification": "Cited together for a verse on resorting to sacred sites (Kāśī, Viśveśvara) for liberation in Kali."
+    },
+    {
+      "cited_work": "Nāradīya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-388ba3",
+      "quote": "In the *Nāradīya*:",
+      "justification": "Cited for a verse commending Gaṅgā service as the swift means to Brahman in Kali."
+    },
+    {
+      "cited_work": "Kāmikasaṃhitā",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-f62b46",
+      "quote": "In the *Kāmikasaṃhitā*:",
+      "justification": "Cited for verses on the necessity of purity for mantras and the obligation to resort to the Gaṅgā in Kali."
+    },
+    {
+      "cited_work": "Bhaviṣya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-d29572",
+      "quote": "In the *Bhaviṣyapurāṇa*:",
+      "justification": "Cited for verses condemning those who seek liberation in Kali without resorting to the Gaṅgā."
+    },
+    {
+      "cited_work": "Brahma Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-41f684",
+      "quote": "In the *Brahmapurāṇa*:",
+      "justification": "Cited for a verse listing Kali-yuga-prohibited practices including long-term celibacy and same-gotra marriage."
+    },
+    {
+      "cited_work": "Āditya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-051352",
+      "quote": "In the *Ādityapurāṇa*:",
+      "justification": "Cited for a verse listing omens and signs whose occurrence does not automatically authorize a rite in Kali."
+    },
+    {
+      "cited_work": "Devala-smṛti",
+      "cited_author": "Devala",
+      "stance": "authority",
+      "paragraph_id": "p-e26dcb",
+      "quote": "Devala says:",
+      "justification": "Cited for a verse permitting the Agnihotra and renunciation as long as caste divisions and the Veda persist."
+    },
+    {
+      "cited_work": "Kālottara-tantra",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-37a8b8",
+      "quote": "In the *Kālottara*:",
+      "justification": "Cited multiple times for rules on seasons, tithis, and fortnights appropriate for dīkṣā."
+    },
+    {
+      "cited_work": "Siddhāntaśekhara",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-592ecd",
+      "quote": "In the *Siddhāntaśekhara*, however, there is a special rule:",
+      "justification": "Cited for a special hierarchy of months for dīkṣā, privileging autumn and Vaiśākha."
+    },
+    {
+      "cited_work": "Kriyākāṇḍaśekhara",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-38cdb3",
+      "quote": "In the *Kriyākāṇḍaśekhara*:",
+      "justification": "Cited for rules on ascendant purity, Venus's position, and its overriding of other planetary faults in dīkṣā timing."
+    },
+    {
+      "cited_work": "Agastisaṃhitā",
+      "cited_author": "Agasti",
+      "stance": "authority",
+      "paragraph_id": "p-957383",
+      "quote": "In the *Agastisaṃhitā*:",
+      "justification": "Cited for a verse stating that at a solar eclipse no other timing investigation is needed — it is the supreme dīkṣā moment."
+    },
+    {
+      "cited_work": "Mantrasārasaṅgraha",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-b32b6e",
+      "quote": "In the *Mantrasārasaṅgraha*:",
+      "justification": "Cited for rules on fortnight and nakṣatra suitability for dīkṣā."
+    },
+    {
+      "cited_work": "Mantraratnāvalī",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-4b80c0",
+      "quote": "In the *Mantraratnāvalī* also:",
+      "justification": "Cited for verses on acceptable fortnights and tithis for dīkṣā."
+    },
+    {
+      "cited_work": "Hemādri",
+      "cited_author": "Hemādri",
+      "stance": "authority",
+      "paragraph_id": "p-a2b780",
+      "quote": "In the *Hemādri*, in another *smṛti*:",
+      "justification": "The Vīramitrodaya cites the Hemādri digest as an intermediary source for a smṛti rule on dīkṣā."
+    },
+    {
+      "cited_work": "Tatvasāgarasaṃhitā",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-ac16cb",
+      "quote": "In the *Tatvasāgarasaṃhitā*, there is a special rule:",
+      "justification": "Cited for a table of tithis and their presiding deities (Indra's response) relevant to dīkṣā."
+    },
+    {
+      "cited_work": "Ratnāvalī",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-926705",
+      "quote": "In the *Ratnāvalī*:",
+      "justification": "Cited multiple times for rules on weekdays and nakṣatras, and on yogas suitable or unsuitable for dīkṣā."
+    },
+    {
+      "cited_work": "Mahākāpilapañcarātra",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-2761cb",
+      "quote": "In the *Mahākāpilapañcarātra*:",
+      "justification": "Cited for a verse prescribing that a guru impart a mantra only in an auspicious tithi, nakṣatra, karaṇa, yoga, and weekday."
+    },
+    {
+      "cited_work": "Pañcarātra",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-45e2ce",
+      "quote": "In the *Pañcarātra*:",
+      "justification": "Cited for a special rule prescribing Dvādaśī and solar ingress as the preferred times for Viṣṇu-dīkṣā."
+    },
+    {
+      "cited_work": "Tattvasāgarasaṃhitā",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-6b7b36",
+      "quote": "In the *Tattvasāgarasaṃhitā* also:",
+      "justification": "Cited for assigning Paurṇamāsī to Brahmā and Dvādaśī to Viṣṇu in the context of dīkṣā tithis."
+    },
+    {
+      "cited_work": "Baudhāyana-dharmasūtra",
+      "cited_author": "Baudhāyana",
+      "stance": "authority",
+      "paragraph_id": "p-4f7a73",
+      "quote": "Baudhāyana states another time: 'Marriage has been explained. Here, the time for the establishment of the sacred fires is after this, according to one's faith.'",
+      "justification": "Cited as the primary sūtra authority permitting flexible timing of agnyādheya based on faith and marriage."
+    },
+    {
+      "cited_work": "Āpastamba-dharmasūtra",
+      "cited_author": "Āpastamba",
+      "stance": "authority",
+      "paragraph_id": "p-26322d",
+      "quote": "Āpastamba, however, says: 'Spring for a Brahmin; summer or winter for a Rājanya; autumn for a Vaiśya; the rainy season for a *rathakāra*.'",
+      "justification": "Primary sūtra authority on varna-specific seasons for the agnyādheya; also cited on tithis and nakṣatras."
+    },
+    {
+      "cited_work": "Kātyāyana-smṛti",
+      "cited_author": "Kātyāyana",
+      "stance": "authority",
+      "paragraph_id": "p-a9dfb6",
+      "quote": "By Kātyāyana: 'Spring is for a Brahmin and for one who desires the splendor of sacred knowledge'",
+      "justification": "Cited for desire-based seasonal rules for agnyādheya, extending beyond varna alone."
+    },
+    {
+      "cited_work": "Āśvalāyana-gṛhyasūtra",
+      "cited_author": "Āśvalāyana",
+      "stance": "authority",
+      "paragraph_id": "p-d31ea5",
+      "quote": "Āśvalāyana says: 'In spring, on a *parvan* day, one should establish the fires.'",
+      "justification": "Cited for the season and tithi (parvan = new/full moon) for agnyādheya."
+    },
+    {
+      "cited_work": "Satyāṣāḍha-sūtra",
+      "cited_author": "Satyāṣāḍha",
+      "stance": "authority",
+      "paragraph_id": "p-ed8c92",
+      "quote": "Satyāṣāḍha, however, having begun with 'one should establish the fires,' says: 'On Amāvāsyā, on Paurṇamāsī, or in the waxing fortnight, on an auspicious *nakṣatra*.'",
+      "justification": "Cited as an independent sūtra authority permitting agnyādheya on three tithi types."
+    },
+    {
+      "cited_work": "Vājasaneyaka",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-2feb0b",
+      "quote": "In the Vājasaneyaka, however, it is stated after censuring the *nakṣatras*: 'One should establish the fires on Amāvāsyā.'",
+      "justification": "Cited as a Vedic text (Śukla Yajurveda tradition) that prioritizes the Amāvāsyā tithi over nakṣatra considerations for agnyādheya."
+    },
+    {
+      "cited_work": "Gargasaṃhitā",
+      "cited_author": "Garga",
+      "stance": "authority",
+      "paragraph_id": "p-7d41b8",
+      "quote": "In the *Gargasaṃhitā*:",
+      "justification": "Cited for a list of auspicious nakṣatras for agnyādheya based on their presiding deities."
+    },
+    {
+      "cited_work": "Laugākṣi-sūtra",
+      "cited_author": "Laugākṣi",
+      "stance": "authority",
+      "paragraph_id": "p-1a6c95",
+      "quote": "Laugākṣi says:",
+      "justification": "Cited for a technical definition of ardhādhāna (partial fire-establishment) vs. the full agnyādheya."
+    },
+    {
+      "cited_work": "Nigama",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-31330c",
+      "quote": "In the *Nigama* also:",
+      "justification": "Cited for a verse listing Kali-prohibited acts including uninjured-cow use in śrāddha and meat with honey."
+    },
+    {
+      "cited_work": "Kāraṇa-āgama",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-4dc528",
+      "quote": "In the *Kāraṇa*:",
+      "justification": "Cited multiple times for alternative or contrasting lists of months and nakṣatras suitable for dīkṣā, serving as a foil to other texts."
+    },
+    {
+      "cited_work": "Śruti (unspecified Vedic source)",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-0b6f26",
+      "quote": "There, the *śruti* says: / One with a son born and with black hair should establish the fires.",
+      "justification": "An anonymous Vedic injunction is cited as the foundation for the life-stage qualification for agnyādheya."
+    }
+  ]
+}

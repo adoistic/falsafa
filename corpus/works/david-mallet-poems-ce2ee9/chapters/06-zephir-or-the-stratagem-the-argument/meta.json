@@ -1,0 +1,44 @@
+{
+  "work_slug": "david-mallet-poems-ce2ee9",
+  "work_title": "Poems",
+  "chapter_number": 6,
+  "chapter_title": "ZEPHIR: or, the STRATAGEM. THE ARGUMENT.",
+  "chapter_slug": "06-zephir-or-the-stratagem-the-argument",
+  "author": "David Mallet",
+  "author_slug": "david-mallet",
+  "ecpa_poem_id": "o5089-w0130",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "burlesque"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 198
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "31d52f78-cc00-5422-991b-c38c1ef620b0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1261,
+      "line_count": 200,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

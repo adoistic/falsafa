@@ -1,0 +1,41 @@
+{
+  "work_slug": "thomas-lisle-poems-d6a267",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "An EXCUSE for INCONSTANCY, 1737.",
+  "chapter_slug": "01-an-excuse-for-inconstancy-1737",
+  "author": "Thomas Lisle",
+  "author_slug": "thomas-lisle",
+  "ecpa_poem_id": "o5157-w0270",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "foot": "anapaestic (˘˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "12",
+    "metrical_pattern": "--+|--+|--+|--+/",
+    "line_count": 28
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "713e5ea1-5768-5e98-86f3-38f90e892bb1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 260,
+      "line_count": 31,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+---
+work_id: "8fd29f9d-49d7-57f4-937f-7ebdcbaf58b6"
+work_slug: "anne-finch-poems-8fd29f"
+work_title: Poems
+author: Anne Finch
+author_slug: "anne-finch"
+ecpa_poem_id: "o4784-w0370"
+chapter_number: 37
+chapter_title: A Tale of the Miser, and the Poet. Written about the Year 1709.
+chapter_slug: "37-a-tale-of-the-miser-and-the-poet-written-about-t"
+variant_id: "79c82ada-53de-5b10-949c-9ee11320c232"
+content_type: original
+layout: verse
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 669
+source_url: "https://www.eighteenthcenturypoetry.org/"
+license: "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+genres:
+  - allegory
+metrical_foot: iambic (˘′)
+metrical_count: tetrameter (4 feet)
+stanza_form:
+  - couplet (2 lines)
+rhyme_scheme: aa
+syllable_pattern: 8
+---
+
+A Tale of the Miser, and the Poet. 
+
+Written about the Year 1709.
+
+A WIT, transported with Inditing,
+ Unpay'd, unprais'd, yet ever Writing;
+ Who, for all Fights and Fav'rite Friends,
+ Had Poems at his Fingers Ends;
+ For new Events was still providing;
+ Yet now desirous to be riding,
+ He pack'd-up ev'ry Ode and Ditty,
+ And in Vacation left the City;
+ So rapt with Figures, and Allusions,
+ With secret Passions, sweet Confusions;
+ With Sentences from Plays well-known,
+ And thousand Couplets of his own;
+ That ev'n the chalky Road look'd gay,
+ And seem'd to him the Milky Way. 
+But Fortune, who the Ball is tossing,
+ And Poets ever will be crossing,
+ Misled the Steed, which ill he guided,
+ Where several gloomy Paths divided. 
+The steepest in Descent he follow'd,
+ Enclos'd by Rocks, which Time had hollow'd;
+ Till, he believ'd, alive and booted,
+ He'd reach'd the Shades by Homer quoted. 
+But all, that he cou'd there discover,
+ Was, in a Pit with Thorns grown over,
+ Old Mammon digging, straining, sweating,
+ As Bags of Gold he thence was getting;
+ Who, when reprov'd for such Dejections
+ By him, who liv'd on high Reflections,
+ Reply'd; Brave Sir, your Time is ended,
+ And Poetry no more befriended. 
+I hid this Coin, when Charles was swaying;
+ When all was Riot, Masking, Playing;
+ When witty Beggars were in fashion,
+ And Learning had o'er-run the Nation. 
+But, since Mankind is so much wiser,
+ That none is valu'd like the Miser,
+ I draw it hence, and now these Sums
+ In proper Soil grow up to Plumbs;
+ Which gather'd once, from that rich Minute
+ We rule the World, and all that's in it. 
+
+But, quoth the Poet, can you raise,
+ As well as Plumb-trees, Groves of Bays? 
+Where you, which I wou'd chuse much rather,
+ May Fruits of Reputation gather? 
+Will Men of Quality, and Spirit,
+ Regard you for intrinsick Merit? 
+And seek you out, before your Betters,
+ For Conversation, Wit, and Letters? 
+
+Fool, quoth the Churl, who knew no Breeding;
+ Have these been Times for such Proceeding? 
+Instead of Honour'd, and Rewarded,
+ Are you not Slighted, or Discarded? 
+What have you met with, but Disgraces? 
+Your PRIOR cou'd not keep in Places;
+ And your VAN-BRUG had found no Quarter,
+ But for his dabbling in the Morter. 
+ROWE no Advantages cou'd hit on,
+ Till Verse he left, to write North-Briton. 
+PHILIPS, who's by the Shilling known,
+ Ne'er saw a Shilling of his own. 
+Meets PHILOMELA, in the Town
+ Her due Proportion of Renown? 
+What Pref'rence has ARDELIA seen,
+ T' expel, tho' she cou'd write the Spleen? 
+Of Coach, or Tables, can you brag,
+ Or better Cloaths than Poet RAG? 
+Do wealthy Kindred, when they meet you,
+ With Kindness, or Distinction, greet you? 
+Or have your lately flatter'd Heroes
+ Enrich'd you like the Roman Maroes? 
+
+No — quoth the Man of broken Slumbers:
+ Yet we have Patrons for our Numbers;
+ There are Mecaenas's among 'em. 
+
+Quoth Mammon, pray Sir, do not wrong 'em;
+ But in your Censures use a Conscience,
+ Nor charge Great Men with thriftless Nonsense:
+ Since they, as your own Poets sing,
+ Now grant no Worth in any thing
+ But so much Money as 'twill bring. 
+Then, never more from your Endeavours
+ Expect Preferment, or less Favours. 
+But if you'll 'scape Contempt, or worse,
+ Be sure, put Money in your Purse;
+ Money! which only can relieve you
+ When Fame and Friendship will deceive you. 
+
+Sir, (quoth the Poet humbly bowing,
+ And all that he had said allowing)
+ Behold me and my airy Fancies
+ Subdu'd, like Giants in Romances. 
+I here submit to your Discourses;
+ Which since Experience too enforces,
+ I, in that solitary Pit,
+ Your Gold withdrawn, will hide my Wit
+ Till Time, which hastily advances,
+ And gives to all new Turns and Chances
+ Again may bring it into use;
+ Roscommons may again produce;
+ New Augustean Days revive,
+ When Wit shall please, and Poets thrive. 
+Till when, let those converse in private,
+ Who taste what others don't arrive at;
+ Yielding that Mammonists surpass us,
+ And let the Bank out-swell Parnassus.

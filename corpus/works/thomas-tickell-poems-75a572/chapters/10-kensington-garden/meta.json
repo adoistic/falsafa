@@ -1,0 +1,46 @@
+{
+  "work_slug": "thomas-tickell-poems-75a572",
+  "work_title": "Poems",
+  "chapter_number": 10,
+  "chapter_title": "KENSINGTON GARDEN.",
+  "chapter_slug": "10-kensington-garden",
+  "author": "Thomas Tickell",
+  "author_slug": "thomas-tickell",
+  "ecpa_poem_id": "o5152-w0080",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "narrative verse",
+      "prospect poem / topographical poem"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 534
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9e975089-ee7f-54c7-b54e-e11ae91c06ea",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4193,
+      "line_count": 536,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "work_slug": "thomas-edwards-poems-e02caa",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "SONNET. FOR THE ROOT-HOUSE AT WREST.",
+  "chapter_slug": "01-sonnet-for-the-root-house-at-wrest",
+  "author": "Thomas Edwards",
+  "author_slug": "thomas-edwards",
+  "ecpa_poem_id": "o4987-w0100",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "sonnet",
+      "Italian (Petrarchan) sonnet"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "rhyme": "abbaabbacdecde",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 14
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f209fa2a-1a6f-5af3-9c5d-a789ea2f6dd9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 114,
+      "line_count": 17,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

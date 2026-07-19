@@ -1,0 +1,41 @@
+{
+  "work_slug": "william-somervile-poems-e4a6e8",
+  "work_title": "Poems",
+  "chapter_number": 3,
+  "chapter_title": "PARAPHRASE upon a FRENCH SONG.",
+  "chapter_slug": "03-paraphrase-upon-a-french-song",
+  "author": "William Somervile",
+  "author_slug": "william-somervile",
+  "ecpa_poem_id": "o5156-w1210",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "song",
+      "imitation",
+      "translation",
+      "paraphrase"
+    ],
+    "rhyme": "abbccddeeaffffggghihihkkllmmmnnoopp",
+    "metrical_pattern": "irregular",
+    "line_count": 35
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ffa2960c-b2e2-5ac4-adc8-d3782615ff62",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 196,
+      "line_count": 37,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

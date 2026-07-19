@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 25**
+**Viṣṇu Smriti 25**
 
 Now, the duties of women. // Vi_25.1 //
 

@@ -1,0 +1,1117 @@
+{
+  "slug": "unknown-viramitrodaya-d4b632",
+  "window": "01:1562-1879",
+  "entities": [
+    {
+      "canonical_name": "Rāhu",
+      "surface_names": ["Rāhuḥ", "Rāhu"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-0ca622",
+          "quote": "Rāhu (Rāhuḥ) with a full disc / swallows the moon, and the sun at",
+          "role": "mythological agent of eclipse"
+        },
+        {
+          "paragraph_id": "p-283278",
+          "quote": "at the sight of Rāhu (Rāhu). / One who does not",
+          "role": "trigger for śrāddha obligation"
+        },
+        {
+          "paragraph_id": "p-fc7aca",
+          "quote": "there is no fault at the sight of Rāhu (Rāhu).",
+          "role": "marker of eclipse event"
+        },
+        {
+          "paragraph_id": "p-1629",
+          "quote": "when the moon is conjoined with Rāhu (Rāhu). / And when the sun is swallowed by Rāhu",
+          "role": "agent causing lunar/solar eclipse"
+        },
+        {
+          "paragraph_id": "p-1fec41",
+          "quote": "when the moon is conjoined with Rāhu (Rāhu). / And when the sun is swallowed by Rāhu",
+          "role": "agent causing eclipse"
+        },
+        {
+          "paragraph_id": "p-894eaf",
+          "quote": "there is ritual impurity (sūtakaṃ) in the impurity of Rāhu (Rāhu).",
+          "role": "source of ritual impurity"
+        }
+      ],
+      "description": "Rāhu is the mythological demon/node that causes solar and lunar eclipses by swallowing the sun or moon, functioning as a first-class ritual trigger in the text.",
+      "justification": "Rāhu appears repeatedly as the active mythological agent of eclipses, cited in verses from multiple smṛtis, Purāṇas, and authorities throughout this window."
+    },
+    {
+      "canonical_name": "Gaṅgā",
+      "surface_names": ["Gaṅgā", "Jāhnavī", "Gangā"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-3ffbbd",
+          "quote": "One should perform bathing in the Gaṅgā at an eclipse of the moon and sun.",
+          "role": "prescribed bathing site"
+        },
+        {
+          "paragraph_id": "p-4c32c7",
+          "quote": "In 'Gaṅgāyamunam,' there is a singular compound",
+          "role": "sacred river named in compound"
+        },
+        {
+          "paragraph_id": "p-b4547a",
+          "quote": "The Gaṅgā, Kanakhala (Kanakhalaṃ), Prayāga (Prayāgaḥ), and Puṣkara (Puṣkaraṃ) are sacred.",
+          "role": "sacred river listed among holy sites"
+        },
+        {
+          "paragraph_id": "p-bf092f",
+          "quote": "Having performed bathing (snānaṃ) in the Gaṅgā, etc., breath control (prāṇāyāmaṃ), and libations (tarpaṇam)",
+          "role": "site of obligatory eclipse bathing"
+        }
+      ],
+      "description": "The Gaṅgā is the preeminent sacred river prescribed for bathing during eclipses, with the text establishing a hierarchy of water sources with the Gaṅgā at the apex.",
+      "justification": "The Gaṅgā is invoked in Mahābhārata verses and multiple other authorities as the ideal bathing site for eclipse observance, and the text details its three forms."
+    },
+    {
+      "canonical_name": "Yamunā",
+      "surface_names": ["Yamunā"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-06498c",
+          "quote": "an eclipse (grahaṇaṃ) in Kārtika is excellent at the confluence of the Gaṅgā and Yamunā (Yamunā).",
+          "role": "sacred confluence for eclipse observance"
+        }
+      ],
+      "description": "The Yamunā is a sacred river whose confluence with the Gaṅgā is cited as particularly meritorious during an eclipse in the month of Kārtika.",
+      "justification": "The Devī Purāṇa singles out the Gaṅgā-Yamunā confluence as the best site for eclipse observance in Kārtika."
+    },
+    {
+      "canonical_name": "Godāvarī",
+      "surface_names": ["Godāvarī", "Godā"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-2c8c9b",
+          "quote": "Three rivers are most sacred: the Veṇī (Veṇī), the Godā (Godā), and the Jāhnavī (Jāhnavī).",
+          "role": "one of three most sacred rivers called Gaṅgā"
+        },
+        {
+          "paragraph_id": "p-1fec41",
+          "quote": "The Godāvarī (Godāvarī) is most sacred when the moon is conjoined with Rāhu (Rāhu).",
+          "role": "most sacred river during lunar eclipse"
+        }
+      ],
+      "description": "The Godāvarī (also called Godā) is one of the three rivers called Gaṅgā and is cited as most sacred during a lunar eclipse when the moon is conjoined with Rāhu.",
+      "justification": "The Devī Purāṇa cites Godāvarī as most sacred specifically when the moon is eclipsed by Rāhu."
+    },
+    {
+      "canonical_name": "Narmadā",
+      "surface_names": ["Narmadā"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-cf3e3a",
+          "quote": "Great rivers (mahānadyaḥ) = those that flow to the ocean, such as the Sarasvatī, Narmadā, etc.",
+          "role": "example of a great river (mahānadī)"
+        },
+        {
+          "paragraph_id": "p-0ac439",
+          "quote": "In Pauṣa, the Narmadā (Narmadā) is sacred",
+          "role": "sacred river in specific month"
+        }
+      ],
+      "description": "The Narmadā is listed among the great rivers that flow to the ocean, and is described as especially sacred in the month of Pauṣa.",
+      "justification": "The Narmadā appears as an example of the great rivers (mahānadīs) and is cited by name in the context of month-specific eclipse sacredness."
+    },
+    {
+      "canonical_name": "Kurukṣetra",
+      "surface_names": ["Kurukṣetra", "Sannihatyā"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-7c4d5b",
+          "quote": "Sannihatyā (Sannihatyā) = Kurukṣetra (Kurukṣetram).",
+          "role": "identification of sacred site"
+        },
+        {
+          "paragraph_id": "p-b4547a",
+          "quote": "Kurukṣetra (Kurukṣe",
+          "role": "sacred site for eclipse observance"
+        },
+        {
+          "paragraph_id": "p-1638",
+          "quote": "whatever fruit is obtained at Kurukṣetra (Kurukṣetre)",
+          "role": "paradigmatic sacred site of great merit"
+        }
+      ],
+      "description": "Kurukṣetra (also known as Sannihatyā) is a paramount sacred site whose merit during eclipse observance is compared to other tīrthas in the text.",
+      "justification": "Kurukṣetra is identified with Sannihatyā and cited in both Mātsya Purāṇa and Prabhāsa Khaṇḍa as a place of exceptional eclipse merit."
+    },
+    {
+      "canonical_name": "Prayāga",
+      "surface_names": ["Prayāga"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-b4547a",
+          "quote": "The Gaṅgā, Kanakhala (Kanakhalaṃ), Prayāga (Prayāgaḥ), and Puṣkara (Puṣkaraṃ) are sacred.",
+          "role": "sacred site for eclipse observance"
+        }
+      ],
+      "description": "Prayāga is listed among the chief sacred sites that are described as meritorious for eclipse observance.",
+      "justification": "The Mātsya Purāṇa lists Prayāga alongside the Gaṅgā, Kanakhala, and Puṣkara as especially sacred during eclipses."
+    },
+    {
+      "canonical_name": "Ayodhyā",
+      "surface_names": ["Ayodhyā"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-36690a",
+          "quote": "The Devikā (Devikā) is Devaheti, famous in the region of Ayodhyā.",
+          "role": "geographical identifier for river Devikā"
+        }
+      ],
+      "description": "Ayodhyā is mentioned as the region in which the river Devikā (Devaheti) is famous, used to geographically locate a sacred site.",
+      "justification": "The text identifies the river Devikā with the region of Ayodhyā while discussing month-specific sacred rivers for eclipse observance."
+    },
+    {
+      "canonical_name": "Viṣṇu",
+      "surface_names": ["Viṣṇu", "Hari", "Harīśa"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-8a083a",
+          "quote": "This is from the statement of Viṣṇu.",
+          "role": "scriptural authority on śrāddha during eclipse"
+        },
+        {
+          "paragraph_id": "p-677604",
+          "quote": "This is also from the statements of Śātātapa and Viṣṇu.",
+          "role": "authority on infinite merit of eclipse rites"
+        },
+        {
+          "paragraph_id": "p-b594",
+          "quote": "Hari and Īśa are Harīśa (Harīśau).",
+          "role": "identification of divine names in compound"
+        }
+      ],
+      "description": "Viṣṇu (also Hari, Harīśa) is invoked as a smṛti authority on the merit and obligations of eclipse rites, particularly the ancestral rite (śrāddha).",
+      "justification": "The text attributes statements about eclipse merit directly to Viṣṇu and groups him with Śātātapa as a smṛti authority."
+    },
+    {
+      "canonical_name": "Jīmūtavāhana",
+      "surface_names": ["Jīmūtavāhana"],
+      "kind": "figure",
+      "figure_kind": "scholar",
+      "mentions": [
+        {
+          "paragraph_id": "p-43de7e",
+          "quote": "By this, the view of Jīmūtavāhana, that in a period of impurity at an eclipse, only bathing should be performed, not giving, ancestral rites, etc., is refuted.",
+          "role": "opposing authority whose view is refuted"
+        }
+      ],
+      "description": "Jīmūtavāhana is a dharmaśāstra scholar whose restricted view—that only bathing (not giving or śrāddha) is permitted during eclipse impurity—is explicitly rejected by the Vīramitrodaya's argument.",
+      "justification": "The text names Jīmūtavāhana and refutes his view, situating the Vīramitrodaya in direct dialectical engagement with prior dharmaśāstra literature."
+    },
+    {
+      "canonical_name": "Mādhava",
+      "surface_names": ["Mādhava"],
+      "kind": "figure",
+      "figure_kind": "scholar",
+      "mentions": [
+        {
+          "paragraph_id": "p-d64e78",
+          "quote": "That is for the purpose of an increase in the fruit of whatever is enjoined at the beginning, middle, and end, says Mādhava.",
+          "role": "interpretive authority cited to explain merit gradations"
+        },
+        {
+          "paragraph_id": "p-1835",
+          "quote": "In the Skānda Purāṇa cited by Mādhava:",
+          "role": "compiler who cites Skānda Purāṇa"
+        }
+      ],
+      "description": "Mādhava is a later dharmaśāstra commentator cited for his interpretations of eclipse merit gradations and as the compiler who transmits the Skānda Purāṇa passage on eating during eclipses.",
+      "justification": "Mādhava is named twice — once as an interpreter of eclipse merit and once as a textual transmitter — indicating his role as a key intermediary authority."
+    },
+    {
+      "canonical_name": "Hemādri",
+      "surface_names": ["Hemādri"],
+      "kind": "figure",
+      "figure_kind": "scholar",
+      "mentions": [
+        {
+          "paragraph_id": "p-9f8bd8",
+          "quote": "And what is in the Brahmavaivarta cited by Hemādri:",
+          "role": "compiler who cites the Brahmavaivarta on eclipse fasting"
+        }
+      ],
+      "description": "Hemādri is a medieval dharmaśāstra compiler cited as the source through which a Brahmavaivarta verse on eclipse fasting is transmitted.",
+      "justification": "The text attributes a Brahmavaivarta quotation on the number of yāmas for eclipse fasting to Hemādri as its transmitting authority."
+    },
+    {
+      "canonical_name": "Gārgya",
+      "surface_names": ["Gārgya", "Vṛddha Gārgya", "Bṛddha Gautama"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-0ca622",
+          "quote": "Vṛddha Gārgya says: At the junction of the full moon and Pratipad, Rāhu with a full disc / swallows the moon",
+          "role": "smṛti authority on eclipse timing"
+        },
+        {
+          "paragraph_id": "p-602bae",
+          "quote": "Gārgya says: When Rāhu eclipses the moon and sun at twilight, one should not eat on that day, nor ever at night.",
+          "role": "authority on prohibition of eating during eclipse"
+        }
+      ],
+      "description": "Gārgya (Vṛddha Gārgya) is a sage-authority cited for smṛti rulings on the timing of eclipses and the prohibition of eating during them.",
+      "justification": "The text quotes Vṛddha Gārgya on eclipse timing and Gārgya on eclipse fasting, indicating his status as a recognized smṛti authority."
+    },
+    {
+      "canonical_name": "Śātātapa",
+      "surface_names": ["Śātātapa", "Śātātapīya"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-1651",
+          "quote": "This is from the Śātātapīya, from the hearing of 'always'.",
+          "role": "smṛti source on obligatory eclipse giving"
+        },
+        {
+          "paragraph_id": "p-677604",
+          "quote": "This is also from the statements of Śātātapa and Viṣṇu.",
+          "role": "authority on infinite merit of eclipse rites"
+        },
+        {
+          "paragraph_id": "p-cd1de2",
+          "quote": "Śātātapa states a special rule: One may eat when the moon is liberated, if it is not the mahāniśā.",
+          "role": "authority on special eating rule post-eclipse"
+        },
+        {
+          "paragraph_id": "p-f47012",
+          "quote": "Śātātapa says: Having bathed and seen, one should eat on the next day, if the two have set while eclipsed.",
+          "role": "authority on eating rule when eclipse sets"
+        }
+      ],
+      "description": "Śātātapa is a frequently cited smṛti sage who provides rulings on eclipse-related giving, eating restrictions, and ritual purity.",
+      "justification": "Śātātapa is cited four times across this window as a primary authority on several aspects of eclipse observance."
+    },
+    {
+      "canonical_name": "Vasiṣṭha",
+      "surface_names": ["Vṛddha Vasiṣṭha", "Vasiṣṭha"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-70964a",
+          "quote": "because a fault is stated for non-performance by Vṛddha Vasiṣṭha.",
+          "role": "authority citing fault for non-bathing at eclipse"
+        },
+        {
+          "paragraph_id": "p-6c9ac3",
+          "quote": "This is from the statement of Vṛddha Vasiṣṭha.",
+          "role": "authority on bathing with clothes during eclipse"
+        },
+        {
+          "paragraph_id": "p-6aa2de",
+          "quote": "from the statement of Vṛddha Vasiṣṭha in the context of an eclipse.",
+          "role": "authority on discarding food at eclipse"
+        },
+        {
+          "paragraph_id": "p-6815",
+          "quote": "the following verse is also read under the name of Vasiṣṭha",
+          "role": "attributed verse on timing of eating during eclipse"
+        }
+      ],
+      "description": "Vṛddha Vasiṣṭha is a senior smṛti sage whose rulings on eclipse bathing (including wearing clothes), faults for non-performance, and food avoidance are repeatedly invoked.",
+      "justification": "Vasiṭha is cited four times in this window as a key authority on eclipse ritual, with the text attributing specific injunctions and faults to him."
+    },
+    {
+      "canonical_name": "Vyāsa",
+      "surface_names": ["Vyāsa"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-c7ed59",
+          "quote": "Vyāsa says: All water is equal to the Gaṅgā; all twice-born (dvijāḥ) are equal to Brahmā. / All land (bhūmiḥ) is equal to a gift; at an",
+          "role": "authority on equality of all water to Gaṅgā during eclipse"
+        },
+        {
+          "paragraph_id": "p-0cd374",
+          "quote": "Vyāsa says: The eclipse of the sun on a Sunday, and the eclipse of the moon on a Monday, / is known as Cūḍāmaṇi",
+          "role": "authority on Cūḍāmaṇi yoga for eclipse"
+        },
+        {
+          "paragraph_id": "p-ab2a2f",
+          "quote": "the statement of Vyāsa: The gods (tridaśāḥ) are satisfied at the time of contact (sparśa); the ancestors (pitaraḥ) likewise.",
+          "role": "authority on divine satisfaction at eclipse"
+        }
+      ],
+      "description": "Vyāsa is a major smṛti authority cited for rulings on the equality of water sources during eclipse, the auspicious Cūḍāmaṇi yoga, and the satisfaction of gods and ancestors during the eclipse.",
+      "justification": "Vyāsa is named three times in this window, each time as an authority for a distinct aspect of eclipse observance."
+    },
+    {
+      "canonical_name": "Mārkaṇḍeya",
+      "surface_names": ["Mārkaṇḍeya"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-15b1d9",
+          "quote": "Mārkaṇḍeya says: Water from a spring is more sacred than that drawn from the ground; water from a lake is more sacred than that.",
+          "role": "authority on water sanctity hierarchy"
+        },
+        {
+          "paragraph_id": "p-ecf2ae",
+          "quote": "Mahāniśā is stated by Mārkaṇḍeya: Mahāniśā is two ghaṭikās of the middle two yāmas of the night.",
+          "role": "authority defining mahāniśā"
+        },
+        {
+          "paragraph_id": "p-bd13c5",
+          "quote": "This is stated by Mārkaṇḍeya for a lunar eclipse.",
+          "role": "authority on eating timing at lunar eclipse"
+        }
+      ],
+      "description": "Mārkaṇḍeya is a sage authority cited for rulings on the gradation of water sanctity, the definition of mahāniśā, and eating timing at lunar eclipses.",
+      "justification": "Mārkaṇḍeya is cited three times in this window for distinct aspects of eclipse observance and time measurement."
+    },
+    {
+      "canonical_name": "Dakṣa",
+      "surface_names": ["Dakṣa"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-a36d55",
+          "quote": "This is from the statement of Dakṣa.",
+          "role": "authority on eclipse bathing as equivalent to Prājāpatya"
+        },
+        {
+          "paragraph_id": "p-8d6878",
+          "quote": "From this statement of Dakṣa, a gradation of fruit is stated.",
+          "role": "authority on gradation of merit by recipient of gift"
+        }
+      ],
+      "description": "Dakṣa is a smṛti sage cited as authority on the merit of eclipse bathing and the gradation of merit according to the worthiness of gift recipients.",
+      "justification": "Dakṣa is cited twice in this window, once for each of two distinct legal topics related to eclipse observance."
+    },
+    {
+      "canonical_id": "Kātyāyana",
+      "canonical_name": "Kātyāyana",
+      "surface_names": ["Kātyāyana"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-0d1009",
+          "quote": "A penance for eating at the time of an eclipse and during its conjunction is stated by Kātyāyana in the Mādhavīya",
+          "role": "smṛti authority on penance for eclipse food violation"
+        }
+      ],
+      "description": "Kātyāyana is a smṛti sage cited (via the Mādhavīya) as the authority prescribing the Prājāpatya penance for eating during an eclipse.",
+      "justification": "The text explicitly attributes the penance rules for eclipse-time eating to Kātyāyana as quoted in the Mādhavīya."
+    },
+    {
+      "canonical_name": "Gobhila",
+      "surface_names": ["Gobhila", "Gohila"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-ad66d5",
+          "quote": "the sūtra of Gobhila can be justified as being for the purpose of stating the occasion for a partial application",
+          "role": "sūtra authority on festival day determination"
+        },
+        {
+          "paragraph_id": "p-22f1d6",
+          "quote": "Gohila says: At a solar eclipse, when the annual rite (pratyābdikam) of the parents has arrived",
+          "role": "authority on annual śrāddha during eclipse"
+        }
+      ],
+      "description": "Gobhila (also Gohila) is a sūtra/smṛti authority cited first on festival day determination and then on the performance of annual ancestral rites during a solar eclipse.",
+      "justification": "Gobhila is cited at the opening of this window for his sūtra on festival days and again for his ruling on śrāddha timing during eclipses."
+    },
+    {
+      "canonical_name": "Baudhāyana",
+      "surface_names": ["Baudhāyana"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-9810c6",
+          "quote": "in the absence of a distinguished recipient, it should be given even to a Brahmin by birth alone, says Baudhāyana:",
+          "role": "authority on giving to Brahmins of birth alone during eclipse"
+        }
+      ],
+      "description": "Baudhāyana is cited as the authority permitting eclipse gifts to be given even to Brahmins by birth alone when no distinguished recipient is available.",
+      "justification": "The text quotes Baudhāyana by name for this specific ruling on gift recipients during eclipse observance."
+    },
+    {
+      "canonical_name": "Āpastamba",
+      "surface_names": ["Āpastamba"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-8b665f",
+          "quote": "Whatever is not to be eaten by the Āryas, with that one should not sacrifice, from the statement of Āpastamba.",
+          "role": "sūtra authority on ritual purity of food in rites"
+        }
+      ],
+      "description": "Āpastamba is cited as a sūtra authority whose general rule about foods prohibited for Āryas extends to enjoined rites during eclipses.",
+      "justification": "Āpastamba's statement is invoked to extend the food avoidance at eclipses to all enjoined rites, not just eating."
+    },
+    {
+      "canonical_name": "Medhātithi",
+      "surface_names": ["Medhātithi"],
+      "kind": "figure",
+      "figure_kind": "scholar",
+      "mentions": [
+        {
+          "paragraph_id": "p-d7d605",
+          "quote": "Medhātithi says: Sour gruel (āranālaṃ), milk (payas), buttermilk (takraṃ), inspissated milk (kīlāṭaṃ), ghee (ghṛta), and roasted grain flour (saktavaḥ),",
+          "role": "authority on permitted foods during eclipse"
+        }
+      ],
+      "description": "Medhātithi is cited as an authority providing a counter-injunction listing foods permissible during eclipse impurity.",
+      "justification": "The text quotes Medhātithi as stating a special rule exempting certain foods from the eclipse food-avoidance prohibition."
+    },
+    {
+      "canonical_name": "Vyāghra",
+      "surface_names": ["Vyāghra"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-01b308",
+          "quote": "This is from the statement of Vyāghra.",
+          "role": "authority permitting hot water bathing for the ill during eclipse"
+        }
+      ],
+      "description": "Vyāghra is a smṛti sage whose statement permits the use of hot water for bathing during eclipses for those who are ill.",
+      "justification": "The text cites Vyāghra as the authority for the exception allowing hot-water bathing for sick persons during an eclipse."
+    },
+    {
+      "canonical_name": "Aṅgiras",
+      "surface_names": ["Aṅgiras"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-4b3add",
+          "quote": "from the statement of Aṅgiras, 'all social classes,' by the exclusion of the impurity occasioned by birth and death, it is determined that the purity is for the sake of a specific rite.",
+          "role": "authority on eclipse purity applying to all varṇas"
+        }
+      ],
+      "description": "Aṅgiras is cited as the authority whose statement 'all social classes' is used to determine that eclipse purity obligations apply universally across varṇas.",
+      "justification": "The text invokes Aṅgiras to support the argument that eclipse purity applies to all four varṇas as a rite-specific purity."
+    },
+    {
+      "canonical_name": "Bhṛgu",
+      "surface_names": ["Bhṛgu"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-240d0b",
+          "quote": "This is because Bhṛgu states that eating is at sunrise.",
+          "role": "authority on eating after sunrise when eclipse sets eclipsed"
+        },
+        {
+          "paragraph_id": "p-bc98ae",
+          "quote": "Some sages say three, O descendant of Bhṛgu!",
+          "role": "addressee lineage marker in Brahmavaivarta verse"
+        }
+      ],
+      "description": "Bhṛgu is a sage authority cited for the rule that when the sun or moon sets eclipsed, eating is permitted at sunrise the next day.",
+      "justification": "The text attributes the sunrise-eating rule for eclipse-setting to Bhṛgu and also identifies an interlocutor as a 'descendant of Bhṛgu' in a Brahmavaivarta verse."
+    },
+    {
+      "canonical_name": "Śaṅkha",
+      "surface_names": ["Śaṅkha"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-63d44c",
+          "quote": "Śaṅkha says: In ponds (vāpī), wells (kūpa), and tanks (taḍāgeṣu), in mountain springs (giriprasravaṇeṣu),",
+          "role": "authority on alternate bathing sources during eclipse"
+        }
+      ],
+      "description": "Śaṅkha is a smṛti authority who enumerates alternative water sources (ponds, wells, tanks, mountain springs) permissible for eclipse bathing when rivers are unavailable.",
+      "justification": "The text quotes Śaṅkha for the practical enumeration of water sources for eclipse bathing when the Gaṅgā or great rivers are inaccessible."
+    },
+    {
+      "canonical_name": "Devala",
+      "surface_names": ["Devala"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-4d78ca",
+          "quote": "This is from the statement of Devala.",
+          "role": "authority on eclipse rites being performed even at night"
+        }
+      ],
+      "description": "Devala is a smṛti sage whose statement authorizes the performance of eclipse rites (bathing and giving) at night as well as by day.",
+      "justification": "The text invokes Devala to ground the rule that eclipse bathing and giving apply even when the eclipse occurs at night."
+    },
+    {
+      "canonical_name": "Sarasvatī",
+      "surface_names": ["Sarasvatī"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-cf3e3a",
+          "quote": "Great rivers (mahānadyaḥ) = those that flow to the ocean, such as the Sarasvatī, Narmadā, etc.",
+          "role": "example of a great river (mahānadī)"
+        }
+      ],
+      "description": "The Sarasvatī is listed as an example of the great rivers (mahānadīs) that flow to the ocean and are thus valid for eclipse bathing.",
+      "justification": "The text uses the Sarasvatī to illustrate the category of great rivers permissible for eclipse bathing after the Gaṅgā."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Eclipse as ritual trigger for obligatory rites",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-a8bd87",
+          "quote": "One should bathe at an eclipse of the moon and sun, and also during a period of birth or death impurity."
+        },
+        {
+          "paragraph_id": "p-2641",
+          "quote": "And at an eclipse (uparāge), an ancestral rite (śrāddham) is obligatory."
+        },
+        {
+          "paragraph_id": "p-2020ac",
+          "quote": "Giving (dānam) is also obligatory."
+        }
+      ],
+      "justification": "The entire window is structured around the eclipse (grahaṇa/uparāga) as the occasion that makes bathing, śrāddha, and giving legally obligatory — this is the organizing principle of this section of the Vīramitrodaya."
+    },
+    {
+      "topic": "Hierarchy of sacred waters and places for eclipse bathing",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-15b1d9",
+          "quote": "Water from a spring is more sacred than that drawn from the ground; water from a lake is more sacred than that."
+        },
+        {
+          "paragraph_id": "p-1620",
+          "quote": "The increasing sanctity from a specific month and a specific sacred ford is in the Devī Purāṇa"
+        },
+        {
+          "paragraph_id": "p-3ffbbd",
+          "quote": "One should perform bathing in the Gaṅgā at an eclipse of the moon and sun. / In other great rivers (mahānadīṣu), one should perform b"
+        }
+      ],
+      "justification": "A central theme of the window is the ranking of water sources — from drawn water to rivers, with the Gaṅgā at the apex — and of tīrthas, with month-specific and eclipse-type-specific hierarchies derived from multiple Purāṇas."
+    },
+    {
+      "topic": "Ritual impurity (sūtaka) at eclipse and its scope",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-277cb7",
+          "quote": "Impurity (āśaucaṃ) arises for men (nṝṇāṃ) at an eclipse of the moon and sun."
+        },
+        {
+          "paragraph_id": "p-bd355e",
+          "quote": "For all social classes, there is ritual impurity (sūtakaṃ) at the sight of Rāhu (Rāhu)."
+        },
+        {
+          "paragraph_id": "p-035867",
+          "quote": "At an eclipse, the impurity is like that of a corpse (śāvamāśaucaṃ); at liberation, it is remembered as like that of birth (sautikaṃ)."
+        }
+      ],
+      "justification": "The text extensively analyzes the nature and scope of eclipse-related impurity — comparing it to corpse and birth impurity, determining that it applies universally to all four varṇas, and specifying when purity is restored."
+    },
+    {
+      "topic": "Dietary restrictions during eclipse and permitted exceptions",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-5763",
+          "quote": "At the time of an eclipse, cooked food should be discarded."
+        },
+        {
+          "paragraph_id": "p-4809db",
+          "quote": "Having bathed, one should perform the rites, but should avoid cooked (śṛtam)"
+        },
+        {
+          "paragraph_id": "p-d7d605",
+          "quote": "Sour gruel (āranālaṃ), milk (payas), buttermilk (takraṃ), inspissated milk (kīlāṭaṃ), ghee (ghṛta), and roasted grain flour (saktavaḥ)"
+        }
+      ],
+      "justification": "A significant sub-section details which foods must be discarded at eclipse time, which are exempted (roasted grain flour, ghee-cooked items), and the post-eclipse eating restrictions with specific time calculations for different eclipse scenarios."
+    },
+    {
+      "topic": "Time calculation for eclipse rites (contact, mid-eclipse, liberation)",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-e0ff7a",
+          "quote": "Bathing (snānaṃ) is when it is being swallowed; oblation (homaḥ) is enjoined when it is swallowed. / Giving (dānaṃ) i"
+        },
+        {
+          "paragraph_id": "p-f91303",
+          "quote": "Bathing (snānaṃ) is at the beginning of the eclipse, oblation (homa) and worship of the gods (surārcane) in the mid"
+        },
+        {
+          "paragraph_id": "p-f680",
+          "quote": "At the contact (upamarde), it is a hundred thousand (lakṣa) times the merit; at an eclipse of the moon and sun,"
+        }
+      ],
+      "justification": "The text carefully maps each eclipse rite to its proper temporal phase — bathing at contact (sparśa), homa at mid-eclipse, śrāddha after — and debates the relative merit of each phase."
+    },
+    {
+      "topic": "Dialectical engagement with divergent smṛti authorities",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-43de7e",
+          "quote": "By this, the view of Jīmūtavāhana, that in a period of impurity at an eclipse, only bathing should be performed, not giving, ancestral rites, etc., is refuted."
+        },
+        {
+          "paragraph_id": "p-1699",
+          "quote": "By this, the view of the Madanaratna, that only the bathing at liberation is with clothes on, is refuted."
+        },
+        {
+          "paragraph_id": "p-ec2c1a",
+          "quote": "In reality, it is without foundation, because it is not written in the Prayogapārijāta, and because 'devoid of giving and ancestral rites' is redundant."
+        }
+      ],
+      "justification": "The Vīramitrodaya consistently positions itself against rival digest traditions (Jīmūtavāhana, Madanaratna, Saṃvatsarapradīpa), explicitly refuting their positions — a characteristic of its genre as a polemical digest."
+    },
+    {
+      "topic": "Cūḍāmaṇi yoga: auspicious day-of-week coincidence of eclipse",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-0cd374",
+          "quote": "The eclipse of the sun on a Sunday, and the eclipse of the moon on a Monday, / is known as Cūḍāmaṇi (Cūḍāmaṇiḥ); there one obtains in"
+        },
+        {
+          "paragraph_id": "p-1639",
+          "quote": "from the inconsistency of the statement 'whatever fruit is obtained at Kurukṣetra (Kurukṣetre)' as if it were already estab"
+        }
+      ],
+      "justification": "The text introduces and develops the Cūḍāmaṇi yoga — the special auspiciousness of an eclipse falling on the day of the week associated with the eclipsed body — as a category warranting special discussion."
+    },
+    {
+      "topic": "Intercalary month and eclipse rites",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-3d085e",
+          "quote": "At an eclipse of the moon and sun, and at the death or birth of a son, / it should be given even in an intercalary month (malamāse); wha"
+        },
+        {
+          "paragraph_id": "p-15d94a",
+          "quote": "And this should be performed even in an intercalary month (malamāse)."
+        }
+      ],
+      "justification": "The text explicitly addresses whether eclipse rites must be performed during the normally inauspicious intercalary month, ruling that they must — an important ritual-calendar ruling."
+    },
+    {
+      "topic": "Menstruating women and eclipse ritual obligations",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-cec90a",
+          "quote": "A menstruating woman (rajasvalā) also should bathe with water drawn from a sacred ford."
+        },
+        {
+          "paragraph_id": "p-08adac",
+          "quote": "When an occasional (naimittike) bathing has arrived, if a woman is menstruating (rajasvalā), / having bathed with water from another vessel (pātra), she should"
+        }
+      ],
+      "justification": "The text devotes specific rulings to the participation of menstruating women in eclipse bathing, specifying modified procedures — indicating that eclipse obligations are universal even for those in states of lesser purity."
+    },
+    {
+      "topic": "Annual śrāddha coinciding with eclipse day",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-22f1d6",
+          "quote": "At a solar eclipse, when the annual rite (pratyābdikam) of the parents has arrived, / if it is not possible with cooked food, the son should perform it with gold"
+        },
+        {
+          "paragraph_id": "p-1cafec",
+          "quote": "Therefore, at a lunar eclipse also, the annual rite (vārṣikam) of a sapiṇḍa, etc., should be performed on that very day with uncooked food, etc."
+        }
+      ],
+      "justification": "The text resolves the conflict when an annual ancestral rite (pratyābdika) falls on an eclipse day — ruling it must still be performed with modified substitutes — engaging in careful conflict-resolution between different time-bound obligations."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Sūryasiddhānta",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-661c74",
+      "quote": "the nature of an eclipse (grahaṇa) is in the Sūryasiddhānta",
+      "justification": "The Vīramitrodaya opens the eclipse section by citing the Sūryasiddhānta as the astronomical authority defining the nature of solar and lunar eclipses."
+    },
+    {
+      "cited_work": "Varāhasaṃhitā",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-f2650f",
+      "quote": "In the Varāhasaṃhitā also: In its own eclipse, the moon enters the earth's shadow; in a solar eclipse, it enters the sun.",
+      "justification": "The Varāhasaṃhitā is cited alongside the Sūryasiddhānta as a corroborating astronomical authority on the mechanism of solar and lunar eclipses."
+    },
+    {
+      "cited_work": "Brahmasiddhānta",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-1931ed",
+      "quote": "The division of time is in the Brahmasiddhānta: As much time as there is at the end of the festival day (parvaṇaḥ), so much is there at the beginning of Pratipad",
+      "justification": "The Brahmasiddhānta is cited as an astronomical-calendrical authority on the precise temporal division of eclipse time between festival day (parvan) and Pratipad."
+    },
+    {
+      "cited_work": "Laiṅga Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-036f42",
+      "quote": "This is from the Laiṅga Purāṇa.",
+      "justification": "The Laiṅga Purāṇa is cited as the source for the general injunction to bathe at eclipses and during periods of birth or death impurity."
+    },
+    {
+      "cited_work": "Laiṅga Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-6a91df",
+      "quote": "This is from the statement of the Laiṅga Purāṇa.",
+      "justification": "The Laiṅga Purāṇa is cited again for the ruling that eclipse rites should be performed even during existing birth or death impurity."
+    },
+    {
+      "cited_work": "Mahābhārata",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-3ffbbd",
+      "quote": "The rule for the water for bathing is in the Mahābhārata: One should perform bathing in the Gaṅgā at an eclipse of the moon and sun.",
+      "justification": "The Mahābhārata is cited as the primary authority establishing the Gaṅgā as the prescribed bathing site for eclipse observance."
+    },
+    {
+      "cited_work": "Mahābhārata",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-30bb05",
+      "quote": "This is from the Mahābhārata.",
+      "justification": "The Mahābhārata is cited as authority for the obligatory śrāddha at the sight of Rāhu, stating that one who does not perform it incurs a fault."
+    },
+    {
+      "cited_work": "Mahābhārata",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-1ddf87",
+      "quote": "This is also from the Mahābhārata.",
+      "justification": "The Mahābhārata is cited as authority for the optional giving of land, cows, gold, or grain at an eclipse."
+    },
+    {
+      "cited_work": "Brahma Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-1596",
+      "quote": "This is from the Brahma Purāṇa.",
+      "justification": "The Brahma Purāṇa is cited as authority for the verse identifying the three sacred rivers called Gaṅgā."
+    },
+    {
+      "cited_work": "Brahma Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-f64696",
+      "quote": "As for what is in the Brahma Purāṇa, concerning bathing, etc.: At the contact (upamarde), it is a hundred thousand (lakṣa) times the merit",
+      "justification": "The Brahma Purāṇa is cited to establish that the merit of eclipse rites increases a hundred-thousand-fold at the moment of contact, then infinitely at mid-eclipse and liberation."
+    },
+    {
+      "cited_work": "Brahma Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-b52644",
+      "quote": "This is from the Brahma Purāṇa.",
+      "justification": "The Brahma Purāṇa is cited for the rule that eating should be done in one's own house after an eclipse liberation, prohibiting eating another's food."
+    },
+    {
+      "cited_work": "Brahma Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-277cb7",
+      "quote": "Impurity (āśaucaṃ) arises for men (nṝṇāṃ) at an eclipse of the moon and sun. / At the contact of Rāhu (Rāhu) with both",
+      "justification": "The Brahma Purāṇa is cited as authority for the rule that impurity arises at an eclipse and that only those who bathe become entitled to perform the rites."
+    },
+    {
+      "cited_work": "Devī Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-06498c",
+      "quote": "The increasing sanctity from a specific month and a specific sacred ford is in the Devī Purāṇa: An eclipse (grahaṇaṃ) in Kārtika is excellent at the confluence of the Gaṅgā and Yamunā",
+      "justification": "The Devī Purāṇa is cited as authority for the month-specific hierarchy of sacred sites for eclipse bathing, covering different months and eclipsed bodies."
+    },
+    {
+      "cited_work": "Mātsya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-1630",
+      "quote": "In the Mātsya Purāṇa:",
+      "justification": "The Mātsya Purāṇa is cited for a list of sacred sites (Gaṅgā, Kanakhala, Prayāga, Puṣkara, Kurukṣetra) meritorious for eclipse observance."
+    },
+    {
+      "cited_work": "Mātsya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-8dd941",
+      "quote": "This is from the Mātsya Purāṇa.",
+      "justification": "The Mātsya Purāṇa is also cited as authority for the rule that eclipse rites should be performed even in an intercalary month."
+    },
+    {
+      "cited_work": "Kūrma Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-a21514",
+      "quote": "Concerning the ancestral rite (śrāddhaṃ), in the Kūrma Purāṇa also: An occasional (naimittikaṃ) rite should be performed at an eclipse of the moon and sun",
+      "justification": "The Kūrma Purāṇa is cited as a corroborating authority that the eclipse śrāddha is an obligatory occasional rite."
+    },
+    {
+      "cited_work": "Vāyu Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-2ad175",
+      "quote": "This is from the Vāyu Purāṇa.",
+      "justification": "The Vāyu Purāṇa is cited as authority for the rule that śrāddha should be avoided at night except for Rāhu (eclipse) and periods of impurity."
+    },
+    {
+      "cited_work": "Brahmāṇḍa Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-ce064e",
+      "quote": "From this statement in the Brahmāṇḍa Purāṇa, which states the impurity of a corpse and of birth at the contact and liberation",
+      "justification": "The Brahmāṇḍa Purāṇa is cited as authority for distinguishing corpse-impurity (at eclipse contact) from birth-impurity (at liberation), with implications for bathing procedure."
+    },
+    {
+      "cited_work": "Brahmavaivarta Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-3d7dbe",
+      "quote": "This is from the Brahmavaivarta.",
+      "justification": "The Brahmavaivarta is cited for the sequence: bathing → homa → śrāddha, establishing the ritual order for eclipse rites."
+    },
+    {
+      "cited_work": "Brahmavaivarta Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-bc98ae",
+      "quote": "And what is in the Brahmavaivarta cited by Hemādri: At an eclipse of the moon and sun, one should not eat for the first four yāmas.",
+      "justification": "The Brahmavaivarta (via Hemādri) is cited as authority on the number of yāmas before an eclipse during which eating is prohibited."
+    },
+    {
+      "cited_work": "Prabhāsa Khaṇḍa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-1637",
+      "quote": "In the Prabhāsa Khaṇḍa: Cows, elephants (nāgāḥ), sesame seeds (tilā), grain (dhānyaṃ), gems (ratnāni), gold (kanakaṃ), and",
+      "justification": "The Prabhāsa Khaṇḍa is cited for a list of meritorious gifts given at the Cūḍāmaṇi yoga eclipse, expanding the eclipse giving injunction."
+    },
+    {
+      "cited_work": "Skānda Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-f3c0ea",
+      "quote": "In the Skānda Purāṇa cited by Mādhava: When a lunar eclipse is after midnight, one should eat in the forenoon, never at midday.",
+      "justification": "The Skānda Purāṇa (via Mādhava) is cited for detailed temporal rules on eating after a lunar eclipse that crosses midnight."
+    },
+    {
+      "cited_work": "Śivarahasya",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-30f562",
+      "quote": "In the Śivarahasya: As long as the eclipse of the sun and moon lasts, one should perform recitation (japa), etc.",
+      "justification": "The Śivarahasya is cited as authority for the general prohibition on sleeping and eating during the eclipse, with the injunction to perform japa throughout."
+    },
+    {
+      "cited_work": "Smṛtiratnāvalī",
+      "cited_author": null,
+      "stance": "refute",
+      "paragraph_id": "p-5cf24c",
+      "quote": "from the mention of 'according to the rules,' what is said in the Smṛtiratnāvalī, 'this bathing is without mantras,' is refuted.",
+      "justification": "The Vīramitrodaya explicitly refutes the Smṛtiratnāvalī's view that eclipse bathing is performed without mantras, using the Mahābhārata's phrase 'according to the rules' as counter-evidence."
+    },
+    {
+      "cited_work": "Mitākṣarā",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-df1e1f",
+      "quote": "The procedure for bathing is in the Mitākṣarā:",
+      "justification": "The Mitākṣarā (the famous Vijñāneśvara commentary on the Yājñavalkyasmṛti) is cited for the procedure of bathing for menstruating women during an obligatory eclipse occasion."
+    },
+    {
+      "cited_work": "Mitākṣarā",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-67908e",
+      "quote": "What is left over in new ancestral rites, and what has been kept overnight (paryuṣitaṃ) at an eclipse, from a smṛti in the Mitākṣarā.",
+      "justification": "The Mitākṣarā is cited again as the source for a smṛti statement that food kept overnight from an eclipse must be discarded."
+    },
+    {
+      "cited_work": "Kālādarśa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-1815",
+      "quote": "In the Kālādarśa, however, after the verse 'When the eclipse of the moon is,' the following verse is also read under the name of Vasiṣṭha:",
+      "justification": "The Kālādarśa is cited as the source-text that transmits a Vasiṣṭha verse on the timing of eating permitted during eclipse, used in the Vīramitrodaya's arbitration."
+    },
+    {
+      "cited_work": "Kālādarśa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-1860",
+      "quote": "In the Kālādarśa also:",
+      "justification": "The Kālādarśa is cited a second time for a Gārgya verse on prohibition of eating when eclipses occur at twilight."
+    },
+    {
+      "cited_work": "Madanapārijāta",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-a479e6",
+      "quote": "When the annual ancestral rite (pratyābdika) falls on that day, in the Madanapārijāta:",
+      "justification": "The Madanapārijāta is cited as the digest-text transmitting Gohila's ruling on the annual śrāddha falling on an eclipse day."
+    },
+    {
+      "cited_work": "Madanapārijāta",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-9d050b",
+      "quote": "And because it contradicts the statement written in the Kālādarśa, Madanapārijāta, and Candraprakāśa.",
+      "justification": "The Madanapārijāta is cited along with the Kālādarśa and Candraprakāśa as a digest that the Vīramitrodaya appeals to against Jīmūtavāhana's restricted view."
+    },
+    {
+      "cited_work": "Madanaratna",
+      "cited_author": null,
+      "stance": "refute",
+      "paragraph_id": "p-1ac5bd",
+      "quote": "By this, the view of the Madanaratna, that only the bathing at liberation is with clothes on, is refuted.",
+      "justification": "The Vīramitrodaya explicitly refutes the Madanaratna's narrow view that clothed bathing applies only at eclipse liberation, arguing it applies at contact as well."
+    },
+    {
+      "cited_work": "Candraprakāśa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-1678",
+      "quote": "This is from another smṛti stated in the Candraprakāśa.",
+      "justification": "The Candraprakāśa is cited as the transmitting digest-text for a smṛti on the ritual sequence (bathing → breath control → libations → homa → śrāddha) at eclipses."
+    },
+    {
+      "cited_work": "Candraprakāśa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-9d050b",
+      "quote": "And because it contradicts the statement written in the Kālādarśa, Madanapārijāta, and Candraprakāśa.",
+      "justification": "The Candraprakāśa is cited alongside the Kālādarśa and Madanapārijāta as supporting the broader view of eclipse rites against Jīmūtavāhana."
+    },
+    {
+      "cited_work": "Pṛthvīcandrodaya",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-85004a",
+      "quote": "Likewise in the Pṛthvīcandrodaya, Nirṇayāmṛta, and Prayogapārijāta.",
+      "justification": "The Pṛthvīcandrodaya is listed alongside two other digests as corroborating the ruling that annual śrāddha should be performed on the eclipse day itself."
+    },
+    {
+      "cited_work": "Nirṇayāmṛta",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-85004a",
+      "quote": "Likewise in the Pṛthvīcandrodaya, Nirṇayāmṛta, and Prayogapārijāta.",
+      "justification": "The Nirṇayāmṛta is listed as one of three corroborating digest authorities on performing annual śrāddha on the eclipse day."
+    },
+    {
+      "cited_work": "Prayogapārijāta",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-85004a",
+      "quote": "Likewise in the Pṛthvīcandrodaya, Nirṇayāmṛta, and Prayogapārijāta.",
+      "justification": "The Prayogapārijāta is one of three digests cited as corroborating the ruling on annual śrāddha at eclipses."
+    },
+    {
+      "cited_work": "Prayogapārijāta",
+      "cited_author": null,
+      "stance": "refute",
+      "paragraph_id": "p-ec2c1a",
+      "quote": "In reality, it is without foundation, because it is not written in the Prayogapārijāta",
+      "justification": "The Vīramitrodaya appeals to the Prayogapārijāta's silence to refute an unattested smṛti statement found in the Saṃvatsarapradīpa."
+    },
+    {
+      "cited_work": "Saṃvatsarapradīpa",
+      "cited_author": null,
+      "stance": "refute",
+      "paragraph_id": "p-7239e1",
+      "quote": "As for the statement in the Saṃvatsarapradīpa, etc.— In a period of birth or death impurity (sūtake mṛtake caiva), there is no fault at the sight of Rāhu. / Only bathing should be performed, devoid of giving and ancestral rites",
+      "justification": "The Vīramitrodaya cites and then rejects the Saṃvatsarapradīpa's restrictive rule, declaring it without foundation since its source cannot be verified."
+    },
+    {
+      "cited_work": "Kalpataru",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-d56237",
+      "quote": "The Kalpataru says that the four muhūrtas after one and a half praharas (watches) is the mahāniśā.",
+      "justification": "The Kalpataru (a dharmaśāstra digest) is cited as an alternative authority defining the mahāniśā, giving a different reading from Mārkaṇḍeya's definition."
+    },
+    {
+      "cited_work": "Mādhavīya",
+      "cited_author": "Mādhava",
+      "stance": "authority",
+      "paragraph_id": "p-0d1009",
+      "quote": "A penance for eating at the time of an eclipse and during its conjunction is stated by Kātyāyana in the Mādhavīya:",
+      "justification": "The Mādhavīya (Mādhava's commentary or digest) is cited as the text that transmits Kātyāyana's ruling on penance for eclipse-time eating violations."
+    },
+    {
+      "cited_work": "Bhārgavārcanadīpikā",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-b04cf2",
+      "quote": "This is from a statement of the Sūryodaya-nibandha in the Bhārgavārcanadīpikā.",
+      "justification": "The Bhārgavārcanadīpikā is cited as the digest transmitting the Sūryodaya-nibandha's ruling that menstruating women may bathe from a distance using drawn water during an eclipse."
+    },
+    {
+      "cited_work": "Ṣaḍtriṃśanmata",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-1690",
+      "quote": "This is also from the Ṣaṭtriṃśanmata.",
+      "justification": "The Ṣaḍtriṃśanmata is cited as authority for the rule that all social classes have eclipse impurity (sūtaka) and must bathe to regain eligibility for rites."
+    },
+    {
+      "cited_work": "Ṣaḍtriṃśanmata",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-1747",
+      "quote": "The definition of a Brahmin in name only (viprabruva) is in the Ṣaḍtriṃśanmata:",
+      "justification": "The Ṣaḍtriṃśanmata is also cited for the definition of a 'Brahmin in name only' relevant to determining eligible gift recipients during eclipses."
+    },
+    {
+      "cited_work": "Caturviṃśatimata",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-11aa8b",
+      "quote": "This is from the Caturviṃśatimata.",
+      "justification": "The Caturviṃśatimata is cited as the source for a verse defining 'Brahmin by birth alone' as those who know only the Gāyatrī and perform the twilight prayer."
+    },
+    {
+      "cited_work": "Kālamādhava",
+      "cited_author": null,
+      "stance": "neutral",
+      "paragraph_id": "p-b8b46f",
+      "quote": "The reading in the Kālamādhava, however, is gāṃ harīśāṅghikāt.",
+      "justification": "The Kālamādhava is cited in a textual note as offering an alternate reading of a verse, indicating that the Vīramitrodaya is aware of variant manuscript readings."
+    }
+  ]
+}

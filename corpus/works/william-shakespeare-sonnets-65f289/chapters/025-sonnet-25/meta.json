@@ -1,0 +1,28 @@
+{
+  "work_slug": "william-shakespeare-sonnets-65f289",
+  "work_title": "Sonnets",
+  "chapter_number": 25,
+  "chapter_title": "Sonnet 25",
+  "chapter_slug": "025-sonnet-25",
+  "incipit": "Let those who are in favour with their stars",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "59a64aa5-cdcb-548b-971d-59849ba12d1f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 108,
+      "line_count": 14,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1041",
+      "license": "Public domain — from Project Gutenberg (https://www.gutenberg.org)"
+    }
+  ]
+}

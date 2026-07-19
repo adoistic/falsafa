@@ -70,9 +70,9 @@ auth, no payment). Open source. The user explicitly wants this to be a
 - **All AI behavior moves to MCP.** Users who want AI reasoning over the
   corpus install the MCP server in their own LLM client (Claude Desktop,
   Cursor, Codex, etc.) and let *their* LLM do the work with their own keys.
-- **Hosting is trivial.** Netlify or Vercel free tier handles the entire
-  reading site. The MCP server is distributed as an npm package or via
-  GitHub clone.
+- **Hosting is trivial.** A Cloudflare Worker serves the static build from R2
+  (see [DEPLOY.md](../DEPLOY.md)). The MCP server is distributed as an npm
+  package or via GitHub clone.
 
 ### Q2: What does the MCP server hand the LLM?
 

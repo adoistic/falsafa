@@ -1,0 +1,41 @@
+{
+  "work_slug": "susanna-blamire-poems-69c0be",
+  "work_title": "Poems",
+  "chapter_number": 78,
+  "chapter_title": "WHEN SEVEREST FOES IMPENDING.",
+  "chapter_slug": "78-when-severest-foes-impending",
+  "author": "Susanna Blamire",
+  "author_slug": "susanna-blamire",
+  "ecpa_poem_id": "bsb18-w0780",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "song"
+    ],
+    "foot": "trochaic (′˘)",
+    "footnum": "tetrameter (4 feet)",
+    "rhyme": "ababcdcd",
+    "syllable_pattern": "8.7.8.7.8.7.8.7",
+    "metrical_pattern": "+-|+-|+-|+-/ +-|+-|+-|+/ +-|+-|+-|+-/ +-|+-|+-|+/ +-|+-|+-|+-/ +-|+-|+-|+/ +-|+-|+-|+-/ +-|+-|+-|+/",
+    "line_count": 16
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d415ee98-e944-5373-9bfb-f7a189f16929",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 87,
+      "line_count": 17,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

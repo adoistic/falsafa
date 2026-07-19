@@ -1,0 +1,41 @@
+{
+  "work_slug": "jonathan-swift-poems-9e2e4c",
+  "work_title": "Poems",
+  "chapter_number": 3,
+  "chapter_title": "V—'s HOUSE Built from the Ruins of White-Hall that was Burnt. Written, 1703.",
+  "chapter_slug": "03-v-s-house-built-from-the-ruins-of-white-hall-tha",
+  "author": "Jonathan Swift",
+  "author_slug": "jonathan-swift",
+  "ecpa_poem_id": "psw11-w0040",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 134
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "473be783-4bc7-5d61-b15b-4f1bd5ce1cab",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 881,
+      "line_count": 136,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

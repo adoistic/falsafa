@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 3**
+**Viṣṇu Smriti 3**
 
 Now, the duties of a king (*rājadharma*). // Vi_3.1 //
 

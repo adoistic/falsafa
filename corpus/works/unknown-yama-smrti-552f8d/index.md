@@ -7,7 +7,7 @@ author:
   biography: A sage of the Hindu Dharmaśāstra tradition, to whom the Yama Smṛti is ascribed. The text is a compilation in verse on law and right conduct, redacted over generations by unknown hands.
   nationality: Indian
 era: Ancient
-genre: Indic
+genre: Law
 language: Sanskrit
 language_direction: ltr
 description: 
@@ -15,7 +15,7 @@ difficulty: Intermediate
 total_logical_chapters: 2
 total_variant_entries: 4
 cover_image_url: "/objects/uploads/3cf956ea-c12e-486b-9265-be37c264c0aa"
-thothica_role: catalog
+thothica_role: "gretil-root"
 ---
 
 # Yama Smṛti

@@ -1,0 +1,41 @@
+{
+  "work_slug": "robert-lloyd-poems-5d9a71",
+  "work_title": "Poems",
+  "chapter_number": 3,
+  "chapter_title": "THE CIT's COUNTRY-BOX, 1757.",
+  "chapter_slug": "03-the-cits-country-box-1757",
+  "author": "Robert Lloyd",
+  "author_slug": "robert-lloyd",
+  "ecpa_poem_id": "o5089-w0090",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 128
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "bf6e502b-da75-5dd3-89b3-50eb36c9072f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 793,
+      "line_count": 130,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

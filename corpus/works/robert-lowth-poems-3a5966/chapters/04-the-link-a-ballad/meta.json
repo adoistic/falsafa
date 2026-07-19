@@ -1,0 +1,41 @@
+{
+  "work_slug": "robert-lowth-poems-3a5966",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "The LINK. A BALLAD.",
+  "chapter_slug": "04-the-link-a-ballad",
+  "author": "Robert Lowth",
+  "author_slug": "robert-lowth",
+  "ecpa_poem_id": "o5155-w0190",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "foot": "anapaestic (˘˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "sestet (6 lines)"
+    ],
+    "rhyme": "ababcc",
+    "syllable_pattern": "12.12.12.12.12.12",
+    "metrical_pattern": "--+|--+|--+|--+/         --+|--+|--+|--+/         --+|--+|--+|--+/         --+|--+|--+|--+/         --+|--+|--+|--+/         --+|--+|--+|--+/",
+    "line_count": 48
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "685c5f54-ed23-5a46-b522-534c72bac2e6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 467,
+      "line_count": 50,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

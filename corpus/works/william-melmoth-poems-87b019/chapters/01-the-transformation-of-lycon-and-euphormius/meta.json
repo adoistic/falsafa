@@ -1,0 +1,46 @@
+{
+  "work_slug": "william-melmoth-poems-87b019",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "THE TRANSFORMATION OF LYCON AND EUPHORMIUS.",
+  "chapter_slug": "01-the-transformation-of-lycon-and-euphormius",
+  "author": "William Melmoth",
+  "author_slug": "william-melmoth",
+  "ecpa_poem_id": "o4985-w0240",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "alexandrine",
+      "Spenserian stanza",
+      "imitation"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "nine-line stanza"
+    ],
+    "rhyme": "ababbcbcc",
+    "syllable_pattern": "10.10.10.10.10.10.10.10.12",
+    "metrical_pattern": "-+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+|-+/",
+    "line_count": 172
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a04492a4-6fd0-515e-a118-10626de740b3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1349,
+      "line_count": 174,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

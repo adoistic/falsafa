@@ -1,0 +1,159 @@
+---
+work_id: "001ac574-d07e-5ba7-b8a9-a05484e67274"
+work_slug: "william-diaper-poems-001ac5"
+work_title: Poems
+author: William Diaper
+author_slug: "william-diaper"
+ecpa_poem_id: "pdi12-w0140"
+chapter_number: 14
+chapter_title: "[Nereides:] Eclogue XIII."
+chapter_slug: "14-nereides-eclogue-xiii"
+variant_id: "41c854c3-019a-59a1-b8ca-b11bc2193dd4"
+content_type: original
+layout: verse
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 856
+source_url: "https://www.eighteenthcenturypoetry.org/"
+license: "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+genres:
+  - heroic couplet
+  - dialogue
+  - pastoral
+  - eclogue
+metrical_foot: iambic (˘′)
+metrical_count: pentameter (5 feet)
+stanza_form:
+  - couplet (2 lines)
+rhyme_scheme: aa
+syllable_pattern: 10
+---
+
+[Nereides:] Eclogue XIII.
+
+Mur. 
+
+Who knows what Heav'ns Decree for Man design'd,
+ Or what's the certain Doom of human kind? 
+Who knows his former, or his future State,
+ And Secrets teeming in the Womb of Fate? 
+Th'Angelick Orders sure look down, and smile,
+ While we still judge amiss, and still for nothing toil. 
+He finds his own Defects, who thinks the most;
+ That Reason makes us wretched, which we boast,
+ And Men are alway prudent to their Cost. 
+The Earth-born Mortal, when he round him sees
+ The flow'ry Pastures, and the budding Trees,
+ Is fondly proud, admires his fancy'd home,
+ And thinks that all were made for him alone;
+ That Heav'n to him (as Lord) this World entrusts,
+ And gives a sov'reign Sway; that all things must
+ Obey his Will, and gratify his Lust. 
+While he forgets the Ocean's watry Mass,
+ Whose boundless Depths the scanty Earth surpass;
+ Where thousand different kinds of living Forms
+ Lie hid in the Abyss, and brave the distant Storms. 
+
+Chro. 
+
+And thousands more as beautiful as these
+ (Unknown to us) may sport in distant Seas. 
+Who then would vainly strive with curious Pride
+ To find what Heav'n has to our Search deny'd,
+ When ign'rant of our home we cannot guess
+ At half the Store, and Riches we possess? 
+Better would humbly we our selves contain
+ Within our reach, and not indulge our Pain. 
+When once the Soul shall quit this earthly Case,
+ And fly unbodied in the endless Space,
+ The Essences of things shall all appear,
+ And naked Forms (as in themselves they were)
+ Nature will then unlock her secret Store:
+ The Vail of Sense shall hide her Face no more. 
+Mean while enough we are allow'd to enjoy,
+ T'improve our Reason, and our Thoughts employ. 
+Loose not too much the Reins to wild Desire:
+ Shrimps may not grow to Crabs, nor Orks to Whales aspire. 
+We see enough to please our labouring Minds,
+ How Nature sports her self in antick kinds. 
+A thousand different Forms we hourly view,
+ And thro' moist Paths the flying Shoals persue. 
+
+Who can with all his painful Search declare
+ What curious Art indents the branched Star,
+ Or how in hardned Shell by shining Streams
+ It imitates the Sun's diffusive Beams. 
+
+The Shark with pointed Teeth is arm'd for Prey;
+ He breaks thro' all, and clears the liquid Way;
+ While the fond Sucking-fish (a harmless Breed)
+ With fastned Lips supply their daily need,
+ And with a Mouth unarm'd they clinging feed. 
+No Lovesick Nymph's, or wanton Triton's Kiss
+ Is half so lasting, or so close as his. 
+
+The Urchins are by Nature fenc'd around;
+ None dares approach; for with a Touch they wound,
+ Wrapt up within themselves they guarded lie,
+ And to their own Embrace for Safety fly. 
+
+In vain the Fishers for the Glanis wait;
+ He leaves the Hook, and takes the easy Bait. 
+So Ino, when by Love I would have won
+ Siezes my Heart, but still secures her own. 
+
+Fish vainly curious will each Year retire
+ To fresher Streams, and novel Floods admire,
+ Fools to exchange their Waves, and native Deep
+ For noisy Brooks that o'er the Pebbles creep. 
+They wisely are content, who don't esteem
+ A tastless River, or a shallow Stream. 
+
+When Fishers sing the Puffens to their Boats
+ Unweening press to hear the ruder Notes;
+ Tho' proudly they escape th'inviting Bait,
+ In softer Words they find a surer Fate. 
+Who then will dare approach the Syrens Tongue,
+ Or who untouch'd can hear Leucosia's Song? 
+Tho' Chromis scape the Fury of her Eyes,
+ Her Voice o'ertakes him, and in vain he flies. 
+
+The Sargus Emblem of unbounded Lust
+ Is alway false; and to his Bride unjust,
+ And not content o'er all the Sea to range,
+ And thus pollute himself with daily Change,
+ Persues forbidden Love, and fondly dotes
+ On Earth-born kinds, and courts the feeding Goats. 
+But the kind Mullets are a constant Pair;
+ They (each) still fix to one, and seek no other Fair. 
+
+The bearded Prawn's a lively Instance made
+ Of mutual Kindness, and of friendly Aid. 
+He the gay Pearl attends with studious Care,
+ And in the common Prey commands a share. 
+The Pearl is dull, tho' gawdy in his Shell,
+ (For Wit but seldom will with Beauty dwell)
+ But the sly Prawn can secret Signs convey,
+ And with a Touch forewarns to seize the Prey,
+ While the deceitful Rays, and spangled Sight
+ To certain Death th'admiring Throng invite. 
+(Pleasures indulg'd repented are too late
+ And they like us to Beauty owe their Fate). 
+
+Mur. 
+
+I see a Nymph, who in the liquid Maze
+ Now sporting dives, and with a Dolphin plays,
+ On whom I could unweary'd ever gaze:
+ When she appears, I need no other Theme
+ To make my daily Care, or nightly Dream. 
+That fair one has enough t'engross the whole,
+ To take up ev'ry Thought, and fill the Soul. 
+Ah! might these Arms entwine that world of Love,
+ In vain Researches I'd no longer rove;
+ Thus pleas'd, I'd be content to know no more,
+ Or to forget ev'n what I knew before. 
+Happily ignorant I would despise
+ The curious Learning of the vainly Wise.

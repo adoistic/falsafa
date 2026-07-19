@@ -1,0 +1,636 @@
+{
+  "slug": "unknown-viramitrodaya-d4b632",
+  "window": "01:3180-3234",
+  "entities": [
+    {
+      "canonical_name": "Vyāsa",
+      "surface_names": ["Vyāsa"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-310bea",
+          "quote": "This is from the statement of Vyāsa.",
+          "role": "cited authority on the meaning of 'death-day'"
+        },
+        {
+          "paragraph_id": "p-811bda",
+          "quote": "This is a verse of Vyāsa.",
+          "role": "cited authority on the lunar year and death-tithi"
+        },
+        {
+          "paragraph_id": "p-6385a6",
+          "quote": "from this verse, the annual rite is to be performed by the solar month.",
+          "role": "cited authority enjoining performance by solar month"
+        },
+        {
+          "paragraph_id": "p-6a446c",
+          "quote": "Because by this verse of Vyāsa, Amāvāsyā is enjoined there.",
+          "role": "cited authority enjoining Amāvāsyā when month is unknown"
+        },
+        {
+          "paragraph_id": "p-30ecdb",
+          "quote": "by this verse of Vyāsa, since the fortnight is also a determinant of the death-day",
+          "role": "cited authority confirming the fortnight as a determinant"
+        }
+      ],
+      "description": "Vyāsa is the ancient sage and smṛti authority repeatedly cited in this window for rulings on when to perform the annual śrāddha relative to the death-tithi, lunar year, and fortnight.",
+      "justification": "Vyāsa is named explicitly across five paragraphs as the source of verses determining the timing of the annual śrāddha rite."
+    },
+    {
+      "canonical_name": "Bṛhaspati",
+      "surface_names": ["Bṛhaspati"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-f2fd63",
+          "quote": "In the *smṛti* of Bṛhaspati also: > Then it would be in the month of Āṣāḍha, or in Māgha, that that day falls.",
+          "role": "cited authority on determining the correct month when only the day is known"
+        },
+        {
+          "paragraph_id": "p-108d25",
+          "quote": "this verse of Bṛhaspati, and: > When the time of twelve years has passed for one who has gone away",
+          "role": "cited authority on the twelve-year waiting period before presuming death"
+        }
+      ],
+      "description": "Bṛhaspati is a smṛti authority cited for rulings on determining the month of an unknown death-anniversary and on the twelve-year waiting period before performing final rites for a missing person.",
+      "justification": "Bṛhaspati is named in two distinct paragraphs as the source of authoritative verses governing śrāddha timing and the presumption-of-death rule."
+    },
+    {
+      "canonical_name": "Devala",
+      "surface_names": ["Devala"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-067692",
+          "quote": "from this verse of Devala, etc., just as a *tithi* that is not present at the time of the rite is accepted by imagining its completeness",
+          "role": "cited authority on the acceptance of a tithi by imagining its completeness"
+        },
+        {
+          "paragraph_id": "p-086d08",
+          "quote": "in the *Hemādri*, the verse of Devala: > When an *ekoddiṣṭa* has arrived, if an obstruction should arise",
+          "role": "cited authority on rescheduling an ekoddiṣṭa obstructed by impurity"
+        }
+      ],
+      "description": "Devala is a smṛti sage cited for rules on treating an incomplete tithi as complete and on determining alternative times when a śrāddha is obstructed.",
+      "justification": "Devala is named explicitly in two paragraphs as a source of verses on tithi acceptance and śrāddha obstruction."
+    },
+    {
+      "canonical_name": "Vasiṣṭha",
+      "surface_names": ["Vasiṣṭha"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-cf1dbb",
+          "quote": "by this verse of Vasiṣṭha, it is only the one at the moment of death.",
+          "role": "cited authority ruling that the relevant tithi is the one at the moment of death"
+        }
+      ],
+      "description": "Vasiṣṭha is a smṛti sage cited for the ruling that the death-tithi is determined by the exact moment of death, not by some later period.",
+      "justification": "Vasiṣṭha is named explicitly in paragraph p-cf1dbb as the author of a verse settling the identification of the death-tithi."
+    },
+    {
+      "canonical_name": "Marīci",
+      "surface_names": ["Marīci"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-7a23dc",
+          "quote": "Marīci states another time: > When a *śrāddha* is obstructed, or when the death-day is unknown",
+          "role": "cited authority on alternative times for śrāddha when death-day is unknown or rite is obstructed"
+        }
+      ],
+      "description": "Marīci is a smṛti authority cited for alternative timing rules when the death-day is unknown or the śrāddha is otherwise obstructed.",
+      "justification": "Marīci is named in paragraph p-7a23dc as the source of a verse providing substitute times for the śrāddha."
+    },
+    {
+      "canonical_name": "Ṛṣyaśṛṅga",
+      "surface_names": ["Ṛṣyaśṛṅga"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-35315a",
+          "quote": "since the time of Ekādaśī, etc., here is prohibited by the verse of Ṛṣyaśṛṅga, \"and never any other\"",
+          "role": "cited authority prohibiting Ekādaśī and other times as secondary options for the obstructed śrāddha"
+        },
+        {
+          "paragraph_id": "p-085fcc",
+          "quote": "the first time is for an obstruction by impurity, because it forms a single sentence with the verse of Ṛṣyaśṛṅga.",
+          "role": "authority whose verse determines the scope of the first alternative time"
+        }
+      ],
+      "description": "Ṛṣyaśṛṅga is a smṛti sage cited in the context of the rules on obstructed śrāddhas, specifically prohibiting certain lunar days as substitute times.",
+      "justification": "Ṛṣyaśṛṅga is named in two paragraphs as the source of a prohibitive verse that shapes the determination of alternative śrāddha times."
+    },
+    {
+      "canonical_name": "Gobhila",
+      "surface_names": ["Gobhila"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-8de608",
+          "quote": "the verse of Gobhila cited in the *Kālādarśa* would be without scope.",
+          "role": "cited authority whose verse on śrāddha timing is preserved through the Kālādarśa digest"
+        }
+      ],
+      "description": "Gobhila is an ancient Gṛhyasūtra author whose verse on the timing of obstructed śrāddhas is cited via the digest Kālādarśa.",
+      "justification": "Gobhila is named in paragraph p-8de608 as the author of a verse that would otherwise be rendered purposeless if an alternative interpretation were adopted."
+    },
+    {
+      "canonical_name": "Vṛddha Manu",
+      "surface_names": ["Vṛddha Manu"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-c44e54",
+          "quote": "this verse of Vṛddha Manu, which enjoins a waiting period of twelve years, that applies to one other than a father.",
+          "role": "cited authority distinguishing the twelve-year rule by relation (non-father)"
+        }
+      ],
+      "description": "Vṛddha Manu ('Elder Manu') is a smṛti authority cited for the ruling that a twelve-year waiting period before presuming death applies to relatives other than one's father.",
+      "justification": "Vṛddha Manu is named explicitly in paragraph p-c44e54 as the source of a verse restricting the twelve-year rule to non-paternal relations."
+    },
+    {
+      "canonical_name": "Jātūkarṇya",
+      "surface_names": ["Jātūkarṇya"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-c44e54",
+          "quote": "in the previously cited verse of Jātūkarṇya, the word 'father' is specifically mentioned",
+          "role": "cited authority specifying that the father-case is separately governed"
+        }
+      ],
+      "description": "Jātūkarṇya is a smṛti sage whose verse is cited to establish that a separate rule governs the case of a missing father, as distinguished from other missing relatives.",
+      "justification": "Jātūkarṇya is named in paragraph p-c44e54 as the source of a verse that singles out 'father' and thereby restricts the scope of Vṛddha Manu's rule."
+    },
+    {
+      "canonical_name": "Śaṅkha",
+      "surface_names": ["Śaṅkha"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-0de866",
+          "quote": "for them, from the statement of Śaṅkha, it is understood that the qualifier applies.",
+          "role": "cited authority clarifying that non-death-day śrāddhas are excluded from the impurity rule"
+        }
+      ],
+      "description": "Śaṅkha is a smṛti authority whose statement is used to clarify the scope of ritual impurity rules as they apply to śrāddha categories.",
+      "justification": "Śaṅkha is named in paragraph p-0de866 as the source of a statement that delimits which śrāddhas are governed by the impurity-obstruction rule."
+    },
+    {
+      "canonical_name": "Kārṣṇājini",
+      "surface_names": ["Kārṣṇājini"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-52fba5",
+          "quote": "This is from the verse of Kārṣṇājini. 'In distress' = due to the impossibility of cooking, etc.",
+          "role": "cited authority on the substitute śrāddha allowed when one is in distress"
+        }
+      ],
+      "description": "Kārṣṇājini is a smṛti authority whose verse is cited to permit a substitute śrāddha performance when the performer is in distress such as being unable to cook.",
+      "justification": "Kārṣṇājini is named in paragraph p-52fba5 as the source of the verse that introduces the concept of distress as grounds for a substitute."
+    },
+    {
+      "canonical_name": "Laghu Hārīta",
+      "surface_names": ["Laghu Hārīta"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-5296bc",
+          "quote": "by this verse of Laghu Hārīta.",
+          "role": "cited authority establishing the qualifier 'death-day' for the obstruction rule"
+        },
+        {
+          "paragraph_id": "p-8b231d",
+          "quote": "this verse of Laghu Hārīta, that is not a prohibition of a substitute in general, but a prohibition of a substitute who is not a *sagotra*.",
+          "role": "cited authority restricting non-sagotra substitutes for śrāddha agents"
+        }
+      ],
+      "description": "Laghu Hārīta ('Minor Hārīta') is a smṛti author cited for rules on the scope of the impurity-obstruction rule and on permissible substitutes for the śrāddha agent.",
+      "justification": "Laghu Hārīta is named in two separate paragraphs as the source of verses on śrāddha obstruction and the sagotra requirement for substitute agents."
+    },
+    {
+      "canonical_name": "Laugākṣi",
+      "surface_names": ["Laugākṣi"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-f98cc8",
+          "quote": "this verse of Laugākṣi, that applies to a case where another entitled wife is present.",
+          "role": "cited authority on permitting a husband to perform the śrāddha when the wife is menstruating and another entitled wife is present"
+        }
+      ],
+      "description": "Laugākṣi is a smṛti sage whose verse is interpreted as permitting a husband to act as śrāddha agent only when a second qualified wife is available.",
+      "justification": "Laugākṣi is named in paragraph p-f98cc8 as the source of a verse governing the husband's role in the śrāddha when the performing wife is ritually impure."
+    },
+    {
+      "canonical_name": "Śūlapāṇi",
+      "surface_names": ["Śūlapāṇi"],
+      "kind": "figure",
+      "figure_kind": "scholar",
+      "mentions": [
+        {
+          "paragraph_id": "p-6b616b",
+          "quote": "The treatises of Śūlapāṇi, etc., also say this.",
+          "role": "medieval digest-writer cited in support of the ruling on sagotra substitutes"
+        }
+      ],
+      "description": "Śūlapāṇi is a medieval Bengali smṛti digest-writer whose treatises are cited in agreement with the ruling on sagotra requirements for śrāddha agents.",
+      "justification": "Śūlapāṇi is named in paragraph p-6b616b as a supportive authority alongside other digest-writers on the substitution rule."
+    },
+    {
+      "canonical_name": "Hemādri",
+      "surface_names": ["Hemādri"],
+      "kind": "figure",
+      "figure_kind": "scholar",
+      "mentions": [
+        {
+          "paragraph_id": "p-693cbe",
+          "quote": "Because it forms a single sentence with this verse cited in the *Hemādri*.",
+          "role": "digest in which a relevant verse is preserved and cited"
+        },
+        {
+          "paragraph_id": "p-086d08",
+          "quote": "in the *Hemādri*, the verse of Devala: > When an *ekoddiṣṭa* has arrived, if an obstruction should arise",
+          "role": "digest through which Devala's verse on śrāddha obstruction is accessed"
+        },
+        {
+          "paragraph_id": "p-51a14b",
+          "quote": "this verse written by Hemādri, Mādhava, etc., that should be explained as \"she whose *śrāddha* is to be performed\"",
+          "role": "co-author or editor of a verse cited on the menstruating-wife rule"
+        }
+      ],
+      "description": "Hemādri is a thirteenth-century Sanskrit encyclopedist and digest-compiler whose compendium is cited multiple times as the source through which earlier smṛti verses are accessed.",
+      "justification": "Hemādri is named in three paragraphs as a digest-compiler and verse-transmitter central to the Vīramitrodaya's chain of authorities."
+    },
+    {
+      "canonical_name": "Mādhava",
+      "surface_names": ["Mādhava"],
+      "kind": "figure",
+      "figure_kind": "scholar",
+      "mentions": [
+        {
+          "paragraph_id": "p-51a14b",
+          "quote": "this verse written by Hemādri, Mādhava, etc.",
+          "role": "co-author or editor of a verse cited on the menstruating-wife rule"
+        }
+      ],
+      "description": "Mādhava is a medieval Sanskrit commentator and digest-compiler cited alongside Hemādri as an authority on the rule governing a menstruating wife's role in the śrāddha.",
+      "justification": "Mādhava is named in paragraph p-51a14b as a co-author of a cited verse, establishing him as a recognized digest authority in this textual tradition."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Determination of the death-tithi for the annual śrāddha",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-c4915c",
+          "quote": "Touched by the month, fortnight, and *tithi*, on whichever day one dies, / that very same one is known as his death anniversary (*kṣayāha*)."
+        },
+        {
+          "paragraph_id": "p-811bda",
+          "quote": "since the lunar year ends at the end of the preceding *tithi*, and since the death-*tithi* that is the beginning of the second year is not at the end of the preceding"
+        },
+        {
+          "paragraph_id": "p-cf1dbb",
+          "quote": "by this verse of Vasiṣṭha, it is only the one at the moment of death."
+        }
+      ],
+      "justification": "The opening section of the window is entirely devoted to establishing which tithi counts as the death-tithi for purposes of the annual śrāddha, debating the roles of month, fortnight, and the specific moment of death."
+    },
+    {
+      "topic": "Annual śrāddha timing when the death-anniversary is unknown",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-541de5",
+          "quote": "### [Determination of the Time for the Annual Rite when the Death Anniversary, etc., is Unknown]"
+        },
+        {
+          "paragraph_id": "p-a221de",
+          "quote": "for one whose death-*tithi* and death-fortnight are not known, but whose month is known, his"
+        },
+        {
+          "paragraph_id": "p-7408b9",
+          "quote": "for paternal uncles, etc., also, when their death-day, etc., is unknown, this same determination is proper."
+        }
+      ],
+      "justification": "A named sub-section explicitly addresses the casuistry of performing the annual śrāddha when various combinations of day, fortnight, and month are unknown, covering cases from one unknown variable up to total ignorance."
+    },
+    {
+      "topic": "Presumption of death after twelve years of absence",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-4192e7",
+          "quote": "He of whom no news is heard for twelve years, / his determination should be"
+        },
+        {
+          "paragraph_id": "p-108d25",
+          "quote": "When the time of twelve years has passed for one who has gone away, / in the thirteenth year that has arrived, one should have the final rites performed."
+        },
+        {
+          "paragraph_id": "p-c44e54",
+          "quote": "this verse of Vṛddha Manu, which enjoins a waiting period of twelve years, that applies to one other than a father."
+        }
+      ],
+      "justification": "Multiple verses and their interpretation establish the rule that a missing person is presumed dead after twelve years, triggering the full sequence of post-death rites, with a distinction made for one's father."
+    },
+    {
+      "topic": "Obstruction of the śrāddha by ritual impurity (āśauca)",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-40be32",
+          "quote": "### [Determination in Case of Obstruction of the Śrāddha]"
+        },
+        {
+          "paragraph_id": "p-2c1308",
+          "quote": "when the death anniversary *śrāddha* is obstructed by ritual impurity (*āśauca*), it should be performed on the day after the end"
+        },
+        {
+          "paragraph_id": "p-ba9e08",
+          "quote": "the performance at its end is enjoined only for birth and death impurity, not for the impurity of a wound"
+        }
+      ],
+      "justification": "A named sub-section systematically works out what to do when ritual impurity prevents performance of the death-anniversary śrāddha, including distinctions between types of impurity and the hierarchy of substitute times."
+    },
+    {
+      "topic": "Substitute agents (sagotra vs. non-sagotra) for the śrāddha",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-8b231d",
+          "quote": "that is not a prohibition of a substitute in general, but a prohibition of a substitute who is not a *sagotra*."
+        },
+        {
+          "paragraph_id": "p-bb4092",
+          "quote": "'By those who are not *agotra*' = by those who are intermediaries, not by those who are the primary agents"
+        },
+        {
+          "paragraph_id": "p-6b616b",
+          "quote": "The treatises of Śūlapāṇi, etc., also say this."
+        }
+      ],
+      "justification": "The text rules on who may perform the śrāddha as a substitute agent, clarifying that the restriction on substitutes targets non-sagotra individuals, not intermediary helpers, citing multiple digest authorities."
+    },
+    {
+      "topic": "Role of the wife in the śrāddha and the menstruation rule",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-51a14b",
+          "quote": "that should be explained as 'she whose *śrāddha* is to be performed, that wife is menstruating.'"
+        },
+        {
+          "paragraph_id": "p-f98cc8",
+          "quote": "this verse of Laugākṣi, that applies to a case where another entitled wife is present."
+        },
+        {
+          "paragraph_id": "p-70136f",
+          "quote": "Because when an *iṣṭi* is performed for the purpose of removing the affliction of a disease, etc., of one of the couple, that is impossible."
+        }
+      ],
+      "justification": "The text debates whether a verse on menstruating wives refers to the wife for whom the śrāddha is performed or the wife of the performer, settling on the former and ruling on the husband's right to perform in the wife's absence."
+    },
+    {
+      "topic": "Hierarchy of substitute times when the primary śrāddha time is unavailable",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-35315a",
+          "quote": "since the time of Ekādaśī, etc., here is prohibited by the verse of Ṛṣyaśṛṅga, \"and never any other,\" it is secondary with respect to the primary day immediately after the impurity"
+        },
+        {
+          "paragraph_id": "p-085fcc",
+          "quote": "the first time is for an obstruction by impurity, because it forms a single sentence with the verse of Ṛṣyaśṛṅga. The second, however, is for an obstruction other than impurity"
+        },
+        {
+          "paragraph_id": "p-aed908",
+          "quote": "this injunction of the time of the day of another monthly rite is not when the dark Ekādaśī, etc., is not available"
+        }
+      ],
+      "justification": "The entire obstructed-śrāddha section implicitly constructs a tiered hierarchy of permitted alternative times, ordering them by cause of obstruction (impurity vs. other) and by available lunar days."
+    },
+    {
+      "topic": "Digest methodology: harmonizing conflicting smṛti verses",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-e7e2bf",
+          "quote": "that too should be known to be refuted. The cited verse should be explained as applying to what is"
+        },
+        {
+          "paragraph_id": "p-8de608",
+          "quote": "the verse of Gobhila cited in the *Kālādarśa* would be without scope."
+        },
+        {
+          "paragraph_id": "p-5296bc",
+          "quote": "because it is in the middle, because there is no specific reason, and because there"
+        }
+      ],
+      "justification": "Throughout the window the Vīramitrodaya implicitly employs a standard digest hermeneutic of reconciling apparently contradictory smṛti verses by restricting their scope or privileging contextual readings, a method visible in its repeated use of 'would be without scope' and reinterpretation of cited verses."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Hemādri",
+      "cited_author": "Hemādri",
+      "stance": "authority",
+      "paragraph_id": "p-693cbe",
+      "quote": "Because it forms a single sentence with this verse cited in the *Hemādri*.",
+      "justification": "The Vīramitrodaya cites the digest Hemādri as the textual locus for a verse used to interpret the meaning of the death-day rule."
+    },
+    {
+      "cited_work": "Bhaviṣya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-f86344",
+      "quote": "in this verse of the *Bhaviṣya Purāṇa*, from the mention of \"at the end of the year,\" the *tithi* that was the locus of the death is not the locus of the *śrāddha*",
+      "justification": "The Bhaviṣya Purāṇa is cited as an authoritative text whose verse on the annual śrāddha is interpreted to clarify the role of the death-tithi."
+    },
+    {
+      "cited_work": "Bhaviṣya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-7a23dc",
+      "quote": "in this question-verse of the *Bhaviṣya Purāṇa*, the word 'parents' should be seen as indicative.",
+      "justification": "A second citation of the Bhaviṣya Purāṇa provides the question-verse that prompts Marīci's ruling on substitute times for the śrāddha."
+    },
+    {
+      "cited_work": "Smṛti of Vyāsa",
+      "cited_author": "Vyāsa",
+      "stance": "authority",
+      "paragraph_id": "p-310bea",
+      "quote": "This is from the statement of Vyāsa. And here, the word 'day' (*ahaḥ*) refers to a day-and-night period.",
+      "justification": "A verse attributed to Vyāsa is cited and glossed to establish that the 'day' in the death-day context means a full day-and-night period."
+    },
+    {
+      "cited_work": "Smṛti of Vyāsa",
+      "cited_author": "Vyāsa",
+      "stance": "authority",
+      "paragraph_id": "p-811bda",
+      "quote": "This is a verse of Vyāsa. And so, since the lunar year ends at the end of the preceding *tithi*",
+      "justification": "A second Vyāsa verse is cited to establish the rule that the lunar year ends at the close of the preceding tithi, bearing on the identification of the first death-tithi of each new year."
+    },
+    {
+      "cited_work": "Smṛti of Vyāsa",
+      "cited_author": "Vyāsa",
+      "stance": "authority",
+      "paragraph_id": "p-6385a6",
+      "quote": "from this verse, the annual rite is to be performed by the solar month.",
+      "justification": "Vyāsa's verse enjoining performance by the solar month is cited to establish that solar reckoning governs the annual śrāddha timing in certain cases."
+    },
+    {
+      "cited_work": "Smṛti of Devala",
+      "cited_author": "Devala",
+      "stance": "authority",
+      "paragraph_id": "p-067692",
+      "quote": "from this verse of Devala, etc., just as a *tithi* that is not present at the time of the rite is accepted by imagining its completeness",
+      "justification": "Devala's verse is cited for the rule that an absent tithi can be treated as complete for purposes of the śrāddha."
+    },
+    {
+      "cited_work": "Smṛti of Vasiṣṭha",
+      "cited_author": "Vasiṣṭha",
+      "stance": "authority",
+      "paragraph_id": "p-cf1dbb",
+      "quote": "by this verse of Vasiṣṭha, it is only the one at the moment of death.",
+      "justification": "Vasiṣṭha's verse is cited as settling the question of which tithi is the death-tithi, ruling it is the one prevailing at the exact moment of death."
+    },
+    {
+      "cited_work": "Smṛti of Marīci",
+      "cited_author": "Marīci",
+      "stance": "authority",
+      "paragraph_id": "p-7a23dc",
+      "quote": "Marīci states another time: > When a *śrāddha* is obstructed, or when the death-day is unknown",
+      "justification": "Marīci's verse is cited as providing alternative times for the śrāddha when it is obstructed or the death-day is unknown."
+    },
+    {
+      "cited_work": "Smṛti of Bṛhaspati",
+      "cited_author": "Bṛhaspati",
+      "stance": "authority",
+      "paragraph_id": "p-f2fd63",
+      "quote": "In the *smṛti* of Bṛhaspati also: > Then it would be in the month of Āṣāḍha, or in Māgha, that that day falls.",
+      "justification": "Bṛhaspati's smṛti is cited to establish which solar months serve as the substitute when only the day of death is known."
+    },
+    {
+      "cited_work": "Smṛti of Bṛhaspati",
+      "cited_author": "Bṛhaspati",
+      "stance": "authority",
+      "paragraph_id": "p-108d25",
+      "quote": "this verse of Bṛhaspati, and: > When the time of twelve years has passed for one who has gone away, / in the thirteenth year that has arrived, one should have the final rites performed.",
+      "justification": "Bṛhaspati's verse is cited for the twelve-year presumption-of-death rule requiring performance of final rites in the thirteenth year."
+    },
+    {
+      "cited_work": "Smṛti of Vṛddha Manu",
+      "cited_author": "Vṛddha Manu",
+      "stance": "authority",
+      "paragraph_id": "p-c44e54",
+      "quote": "this verse of Vṛddha Manu, which enjoins a waiting period of twelve years, that applies to one other than a father.",
+      "justification": "Vṛddha Manu's verse is cited to restrict the twelve-year rule to non-paternal missing relatives, distinguishing it from Jātūkarṇya's father-specific rule."
+    },
+    {
+      "cited_work": "Smṛti of Jātūkarṇya",
+      "cited_author": "Jātūkarṇya",
+      "stance": "authority",
+      "paragraph_id": "p-c44e54",
+      "quote": "in the previously cited verse of Jātūkarṇya, the word 'father' is specifically mentioned",
+      "justification": "Jātūkarṇya's verse is cited to establish that the father-case is governed by a separate, father-specific rule distinguishable from Vṛddha Manu's general rule."
+    },
+    {
+      "cited_work": "Smṛti of Śaṅkha",
+      "cited_author": "Śaṅkha",
+      "stance": "authority",
+      "paragraph_id": "p-0de866",
+      "quote": "for them, from the statement of Śaṅkha, it is understood that the qualifier applies.",
+      "justification": "Śaṅkha's statement is cited to clarify that non-death-day śrāddhas fall outside the scope of the impurity-obstruction rule."
+    },
+    {
+      "cited_work": "Smṛti of Laghu Hārīta",
+      "cited_author": "Laghu Hārīta",
+      "stance": "authority",
+      "paragraph_id": "p-5296bc",
+      "quote": "by this verse of Laghu Hārīta.",
+      "justification": "Laghu Hārīta's verse is cited to qualify the scope of the impurity-obstruction rule by adding 'death-day' as a contextual qualifier."
+    },
+    {
+      "cited_work": "Smṛti of Laghu Hārīta",
+      "cited_author": "Laghu Hārīta",
+      "stance": "authority",
+      "paragraph_id": "p-8b231d",
+      "quote": "this verse of Laghu Hārīta, that is not a prohibition of a substitute in general, but a prohibition of a substitute who is not a *sagotra*.",
+      "justification": "A second verse of Laghu Hārīta is cited and reinterpreted to narrow the prohibition on substitutes to non-sagotra individuals rather than substitutes in general."
+    },
+    {
+      "cited_work": "Smṛti of Ṛṣyaśṛṅga",
+      "cited_author": "Ṛṣyaśṛṅga",
+      "stance": "authority",
+      "paragraph_id": "p-35315a",
+      "quote": "since the time of Ekādaśī, etc., here is prohibited by the verse of Ṛṣyaśṛṅga, \"and never any other\"",
+      "justification": "Ṛṣyaśṛṅga's verse is cited to prohibit Ekādaśī and other lunar days as alternative times for an impurity-obstructed śrāddha."
+    },
+    {
+      "cited_work": "Kālādarśa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-8de608",
+      "quote": "the verse of Gobhila cited in the *Kālādarśa* would be without scope.",
+      "justification": "The Kālādarśa digest is cited as the vehicle through which Gobhila's verse is transmitted; its inclusion supports the ruling that śrāddha should be performed at the end of impurity."
+    },
+    {
+      "cited_work": "Smṛti of Devala",
+      "cited_author": "Devala",
+      "stance": "authority",
+      "paragraph_id": "p-086d08",
+      "quote": "in the *Hemādri*, the verse of Devala: > When an *ekoddiṣṭa* has arrived, if an obstruction should arise",
+      "justification": "Devala's verse on obstructed ekoddiṣṭa śrāddha is cited through the Hemādri digest to establish the alternative timing rule for monthly rites."
+    },
+    {
+      "cited_work": "Smṛti of Kārṣṇājini",
+      "cited_author": "Kārṣṇājini",
+      "stance": "authority",
+      "paragraph_id": "p-52fba5",
+      "quote": "This is from the verse of Kārṣṇājini. 'In distress' = due to the impossibility of cooking, etc.",
+      "justification": "Kārṣṇājini's verse is cited to permit a distress-based substitute performance of the śrāddha when cooking is impossible."
+    },
+    {
+      "cited_work": "Treatises of Śūlapāṇi",
+      "cited_author": "Śūlapāṇi",
+      "stance": "endorse",
+      "paragraph_id": "p-6b616b",
+      "quote": "The treatises of Śūlapāṇi, etc., also say this.",
+      "justification": "Śūlapāṇi's digest treatises are cited in endorsement of the ruling on sagotra requirements for śrāddha substitute agents."
+    },
+    {
+      "cited_work": "Hemādri",
+      "cited_author": "Hemādri",
+      "stance": "authority",
+      "paragraph_id": "p-51a14b",
+      "quote": "this verse written by Hemādri, Mādhava, etc.",
+      "justification": "Hemādri and Mādhava are cited as the authors or transmitters of a verse on the menstruating-wife rule, which the Vīramitrodaya then reinterprets."
+    },
+    {
+      "cited_work": "Smṛti of Laugākṣi",
+      "cited_author": "Laugākṣi",
+      "stance": "extend",
+      "paragraph_id": "p-f98cc8",
+      "quote": "this verse of Laugākṣi, that applies to a case where another entitled wife is present.",
+      "justification": "Laugākṣi's verse is cited and its scope extended/restricted to the specific case where a second entitled wife exists, thereby resolving the apparent conflict with the general rule."
+    }
+  ]
+}

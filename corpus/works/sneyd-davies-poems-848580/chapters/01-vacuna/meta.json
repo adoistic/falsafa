@@ -1,0 +1,40 @@
+{
+  "work_slug": "sneyd-davies-poems-848580",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "VACUNA.",
+  "chapter_slug": "01-vacuna",
+  "author": "Sneyd Davies",
+  "author_slug": "sneyd-davies",
+  "ecpa_poem_id": "o5156-w0430",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "blank verse"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 69
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0213b829-9c15-5e35-bd16-228bc0241f6c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 502,
+      "line_count": 71,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

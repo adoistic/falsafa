@@ -1,0 +1,431 @@
+{
+  "slug": "plato-phaedo-2d2a3c",
+  "window": "01-phaedo:103-145",
+  "entities": [
+    {
+      "canonical_name": "Socrates",
+      "surface_names": ["Socrates", "he"],
+      "kind": "figure",
+      "figure_kind": "philosopher",
+      "mentions": [
+        {
+          "paragraph_id": "p-040a53",
+          "quote": "Then, Phaedo, he said, if there is any system of argument which is true and sure and can be learned, it would be a sad thing if a man … should end, in his vexation, by throwing the blame gladly upon the arguments",
+          "role": "speaker warning against misology"
+        },
+        {
+          "paragraph_id": "p-454bb7",
+          "quote": "I shall not be eager to make what I say seem true to my hearers, except as a secondary matter, but shall be very eager to make myself believe it",
+          "role": "speaker distinguishing philosophical from eristic motivation"
+        },
+        {
+          "paragraph_id": "p-8aaa08",
+          "quote": "do you think that this is true and that our reasoning would have come to this end, if the theory that the soul is a harmony were correct?",
+          "role": "dialectical questioner refuting soul-as-harmony"
+        },
+        {
+          "paragraph_id": "p-a656af",
+          "quote": "no soul will have any wickedness at all, if the soul is a harmony; for if a harmony is entirely harmony, it could have no part in discord",
+          "role": "arguer reducing harmony-thesis to absurdity"
+        },
+        {
+          "paragraph_id": "p-0fa635",
+          "quote": "When I was young, Cebes, I was tremendously eager for the kind of wisdom which they call investigation of nature",
+          "role": "narrator of intellectual autobiography"
+        },
+        {
+          "paragraph_id": "p-5e3d41",
+          "quote": "I no longer admit this method, but have another confused way of my own",
+          "role": "thinker rejecting material causation"
+        },
+        {
+          "paragraph_id": "p-390416",
+          "quote": "I assume in each case some principle which I consider strongest … I regard as true, and whatever disagrees with it, as untrue",
+          "role": "proponent of the hypothetical method and theory of Forms"
+        },
+        {
+          "paragraph_id": "p-756faa",
+          "quote": "And the soul does not admit death? No. Then the soul is immortal.",
+          "role": "concluder of the immortality-of-soul argument"
+        }
+      ],
+      "description": "The principal interlocutor and philosopher whose final day in prison is narrated; in this window he refutes the soul-as-harmony thesis and argues for the soul's immortality via the theory of Forms.",
+      "justification": "Socrates is explicitly named and quoted throughout as the main philosophical voice in paragraphs 103–145."
+    },
+    {
+      "canonical_name": "Simmias",
+      "surface_names": ["Simmias"],
+      "kind": "figure",
+      "figure_kind": "philosopher",
+      "mentions": [
+        {
+          "paragraph_id": "p-454bb7",
+          "quote": "Simmias, I think, has doubts and fears that the soul, though more divine and excellent than the body, may perish first, being of the nature of a harmony",
+          "role": "proponent of soul-as-harmony objection"
+        },
+        {
+          "paragraph_id": "p-0fa587",
+          "quote": "I, said Cebes, was wonderfully convinced by it at the time … And I too, said Simmias, feel just as he does",
+          "role": "interlocutor conceding recollection argument"
+        },
+        {
+          "paragraph_id": "p-21dabd",
+          "quote": "A harmony, then, is quite unable to move or make a sound or do anything else that is opposed to its component parts",
+          "role": "listener receiving refutation of harmony-thesis"
+        },
+        {
+          "paragraph_id": "p-66a732",
+          "quote": "Phaedo. As I remember it … when you say that Simmias is greater than Socrates and smaller than Phaedo",
+          "role": "example subject in argument about participation and greatness"
+        }
+      ],
+      "description": "A Theban philosopher present at Socrates' death who advanced the soul-as-harmony thesis, which Socrates refutes in this window.",
+      "justification": "Simmias is named as the originator of the harmony-objection and appears as an example in the greatness-and-smallness argument (p-454bb7, p-66a732)."
+    },
+    {
+      "canonical_name": "Cebes",
+      "surface_names": ["Cebes"],
+      "kind": "figure",
+      "figure_kind": "philosopher",
+      "mentions": [
+        {
+          "paragraph_id": "p-454bb7",
+          "quote": "Cebes, I believe, granted that the soul is more lasting than the body, but said that no one could know that the soul, after wearing out many bodies, did not at last perish itself",
+          "role": "proponent of the soul-wearing-out-bodies objection"
+        },
+        {
+          "paragraph_id": "p-0fa635",
+          "quote": "Now I will tell you my own experience in the matter, if you wish … Certainly, said Cebes, I wish to hear your experiences",
+          "role": "interlocutor prompting Socrates' intellectual autobiography"
+        },
+        {
+          "paragraph_id": "p-756faa",
+          "quote": "Then the soul is immortal. Yes. Very well, said he. Shall we say then that this is proved? Yes, and very satisfactorily, Socrates.",
+          "role": "conceding immortality conclusion"
+        },
+        {
+          "paragraph_id": "p-cf291a",
+          "quote": "Phaedo. Well then, Cebes, said he, if the odd were necessarily imperishable, would not the number three be imperishable? Of course.",
+          "role": "listener of analogy extending immortality argument"
+        }
+      ],
+      "description": "A Theban philosopher present at the death of Socrates who pressed the objection that the soul, even if longer-lasting than the body, might eventually perish.",
+      "justification": "Cebes is explicitly named as the second major objector and is addressed throughout in the window's closing arguments (p-454bb7, p-756faa, p-cf291a)."
+    },
+    {
+      "canonical_name": "Phaedo",
+      "surface_names": ["Phaedo"],
+      "kind": "figure",
+      "figure_kind": "philosopher",
+      "mentions": [
+        {
+          "paragraph_id": "p-040a53",
+          "quote": "Then, Phaedo, he said, if there is any system of argument which is true and sure and can be learned",
+          "role": "narratorial persona and direct addressee of Socrates"
+        },
+        {
+          "paragraph_id": "p-66a732",
+          "quote": "when you say that Simmias is greater than Socrates and smaller than Phaedo",
+          "role": "height-comparison example in argument about participation"
+        }
+      ],
+      "description": "The narrator of the dialogue who was present at Socrates' death; addressed by Socrates in the misology warning and used as a comparison case in the greatness argument.",
+      "justification": "Phaedo is directly addressed by Socrates in p-040a53 and named as the comparison standard in p-66a732."
+    },
+    {
+      "canonical_name": "Anaxagoras",
+      "surface_names": ["Anaxagoras"],
+      "kind": "figure",
+      "figure_kind": "philosopher",
+      "mentions": [
+        {
+          "paragraph_id": "p-5e3d41",
+          "quote": "Then one day I heard a man reading from a book, as he said, by Anaxagoras, that it is the mind that arranges and causes all things",
+          "role": "cited author whose theory of Nous initially excited Socrates"
+        },
+        {
+          "paragraph_id": "p-5b2c5f",
+          "quote": "As I went on with my reading I saw that the man made no use of intelligence, and did not assign any real causes for the ordering of things, but mentioned as causes air and ether and water",
+          "role": "disappointed source whose actual use of Nous fell short of promise"
+        }
+      ],
+      "description": "Pre-Socratic philosopher whose book on Mind (Nous) as the cause of all things excited then disappointed Socrates, precipitating his turn to the hypothetical method.",
+      "justification": "Anaxagoras is explicitly named in p-5e3d41 and p-5b2c5f as the thinker whose book on Mind/Nous triggered Socrates' philosophical turning point."
+    },
+    {
+      "canonical_name": "Odysseus",
+      "surface_names": ["Odysseus"],
+      "kind": "figure",
+      "figure_kind": "hero",
+      "mentions": [
+        {
+          "paragraph_id": "p-8aaa08",
+          "quote": "as Homer has shown in the Odyssey when he says of Odysseus: He smote his breast, and thus he chid his heart",
+          "role": "Homeric exemplar of the soul's mastery over the body"
+        }
+      ],
+      "description": "The Homeric hero cited by Socrates as an illustration of the soul's capacity to rule bodily passions, contra the soul-as-harmony thesis.",
+      "justification": "Odysseus is quoted from the Odyssey in p-8aaa08 as the textual proof that the soul can oppose and lead the body's elements."
+    },
+    {
+      "canonical_name": "Homer",
+      "surface_names": ["Homer"],
+      "kind": "figure",
+      "figure_kind": "poet",
+      "mentions": [
+        {
+          "paragraph_id": "p-8aaa08",
+          "quote": "as Homer has shown in the Odyssey when he says of Odysseus: He smote his breast, and thus he chid his heart",
+          "role": "poetic authority invoked to support soul-over-body argument"
+        },
+        {
+          "paragraph_id": "p-b56c6f",
+          "quote": "the divine poet … Let us, in Homeric fashion, charge the foe",
+          "role": "authoritative reference for philosophical courage"
+        }
+      ],
+      "description": "The Greek epic poet invoked as an authority whose depiction of Odysseus' self-mastery supports the argument that the soul is a ruling principle rather than a passive harmony.",
+      "justification": "Homer is named in p-8aaa08 and p-b56c6f; his verses from the Odyssey are cited as evidence against the soul-as-harmony theory."
+    },
+    {
+      "canonical_name": "Harmonia",
+      "surface_names": ["Harmonia"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-b56c6f",
+          "quote": "Harmonia, the Theban goddess, has, it seems, been moderately gracious to us; but how, Cebes, and by what argument can we find grace in the sight of Cadmus?",
+          "role": "Theban deity invoked playfully after defeating the harmony-thesis"
+        }
+      ],
+      "description": "The goddess of harmony and wife of Cadmus, invoked with gentle irony by Socrates after refuting Simmias' soul-as-harmony thesis.",
+      "justification": "Harmonia is named as 'the Theban goddess' in p-b56c6f immediately after the harmony argument is defeated, making her presence directly textually grounded."
+    },
+    {
+      "canonical_name": "Cadmus",
+      "surface_names": ["Cadmus"],
+      "kind": "figure",
+      "figure_kind": "hero",
+      "mentions": [
+        {
+          "paragraph_id": "p-b56c6f",
+          "quote": "how, Cebes, and by what argument can we find grace in the sight of Cadmus?",
+          "role": "Theban mythological reference framing the next argument as a further battle"
+        }
+      ],
+      "description": "The legendary founder of Thebes, invoked by Socrates as a playful metaphor for the next philosophical challenge after defeating Simmias' harmony argument.",
+      "justification": "Cadmus is explicitly named in p-b56c6f as part of the Theban mythological framing of the transition to Cebes' objection."
+    },
+    {
+      "canonical_name": "Echecrates",
+      "surface_names": ["Echecrates"],
+      "kind": "figure",
+      "figure_kind": "philosopher",
+      "mentions": [
+        {
+          "paragraph_id": "p-32753c",
+          "quote": "Echecrates. By Zeus, Phaedo, they were right. It seems to me that he made those matters astonishingly clear, to anyone with even a little sense.",
+          "role": "external interlocutor affirming clarity of Socrates' argument"
+        },
+        {
+          "paragraph_id": "p-cf0629",
+          "quote": "Echecrates. And so do we who were not there, and are hearing about it now. But what was said after that?",
+          "role": "frame narrator prompting continuation of the narrative"
+        }
+      ],
+      "description": "The Phliasian philosopher who serves as the external frame narrator receiving Phaedo's account; he expresses enthusiasm for Socrates' hypothetical method.",
+      "justification": "Echecrates intervenes at p-32753c and p-cf0629 to affirm Socrates' argument and advance the narrative frame."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Misology: the danger of losing trust in philosophical argument",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-040a53",
+          "quote": "those men especially who have spent their time in disputation come to believe that they are the wisest of men and that they alone have discovered that there is nothing sound or sure in anything … but all things go up and down, like the tide in the Euripus"
+        },
+        {
+          "paragraph_id": "p-454bb7",
+          "quote": "if you think what I say is true, agree to it, and if not, oppose me with every argument you can muster, that I may not in my eagerness deceive myself and you alike"
+        }
+      ],
+      "justification": "Socrates opens this window with an extended warning that repeated exposure to arguments that seem true then false produces hatred of reason itself (misology), which he treats as the gravest intellectual vice—grounded in p-040a53 and p-454bb7."
+    },
+    {
+      "topic": "Refutation of the soul-as-harmony thesis",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-0fa587",
+          "quote": "What you think about the argument in which we said that learning is recollection … And if you persist in your opinion that a harmony is a compound and that the soul is a harmony made up of the elements that are strung like harpstrings in the body"
+        },
+        {
+          "paragraph_id": "p-21dabd",
+          "quote": "A harmony, then, is quite unable to move or make a sound or do anything else that is opposed to its component parts"
+        },
+        {
+          "paragraph_id": "p-8aaa08",
+          "quote": "do we not now find that the soul acts in exactly the opposite way, leading those elements of which it is said to consist and opposing them in almost everything through all our life"
+        }
+      ],
+      "justification": "The soul-as-harmony thesis (Simmias' objection) is the organizing target of paragraphs 106–115; Socrates systematically shows a harmony cannot rule its parts, whereas the soul does, making this the dominant explicit theme of the window's first half."
+    },
+    {
+      "topic": "Soul as ruling principle over the body",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-8aaa08",
+          "quote": "do we not find that the soul acts in exactly the opposite way, leading those elements of which it is said to consist and opposing them in almost everything through all our life, and tyrannizing over them in every way"
+        },
+        {
+          "paragraph_id": "p-c95e6f",
+          "quote": "Now what will those who assume that the soul is a harmony say that these things—the virtue and the wickedness—in the soul are? … one soul is no more or less a soul than another"
+        }
+      ],
+      "justification": "The capacity of the soul to lead rather than follow the body is the implicit premise underlying both the rejection of harmony-theory and the later immortality argument; it is not stated as a theme but pervades paragraphs 109–115."
+    },
+    {
+      "topic": "Teleological causation vs. material causation",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-5e3d41",
+          "quote": "I no longer believe that I know by this method even how one is generated or, in a word, how anything is generated or is destroyed or exists … Then one day I heard a man reading from a book, as he said, by Anaxagoras, that it is the mind that arranges and causes all things"
+        },
+        {
+          "paragraph_id": "p-5b2c5f",
+          "quote": "As I went on with my reading I saw that the man made no use of intelligence, and did not assign any real causes for the ordering of things, but mentioned as causes air and ether and water"
+        },
+        {
+          "paragraph_id": "p-a87d32",
+          "quote": "they do not look for the power which causes things to be now placed as it is best for them to be placed … they give no thought to the good, which must embrace and hold together all things"
+        }
+      ],
+      "justification": "Socrates' autobiography (paragraphs 117–124) explicitly contrasts the failure of material-cause explanations (bones, sinews, air, water) with the unfulfilled promise of Anaxagoras' teleological Mind-as-cause; this is the explicit philosophical pivot of the window's middle section."
+    },
+    {
+      "topic": "The hypothetical method and the theory of Forms",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-b14b56",
+          "quote": "I assume in each case some principle which I consider strongest, and whatever seems to me to agree with this … I regard as true, and whatever disagrees with it, as untrue"
+        },
+        {
+          "paragraph_id": "p-390416",
+          "quote": "I believe I shall explain cause to you and shall prove that the soul is immortal … nothing else makes it beautiful but the presence or communion … of absolute beauty"
+        },
+        {
+          "paragraph_id": "p-d59219",
+          "quote": "beautiful things are beautiful through beauty … great things are great and greater things greater by greatness"
+        }
+      ],
+      "justification": "Paragraphs 124–131 articulate Socrates' 'second voyage'—abandoning empirical investigation for the hypothetical method grounded in participation in the Forms (beauty, goodness, greatness); this is the passage's central epistemological and metaphysical teaching."
+    },
+    {
+      "topic": "Participation in Forms as the only safe account of predication",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-8da7cf",
+          "quote": "whatever is to be two must participate in duality, and whatever is to be one must participate in unity … you would cling to that safe principle of ours"
+        },
+        {
+          "paragraph_id": "p-66a732",
+          "quote": "Simmias is not greater than Socrates by reason of being Simmias, but by reason of the greatness he happens to have"
+        }
+      ],
+      "justification": "The participation thesis—that things are predicated as F only by sharing in the Form of F—implicitly structures the arguments about opposites, numbers, and finally soul-brings-life in paragraphs 128–145; Socrates never labels it as such but it drives every step."
+    },
+    {
+      "topic": "Immanent characters: things that 'bring' an opposite without being opposites themselves",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-8d2c2e",
+          "quote": "not only abstract opposites exclude each other, but all things which, although not opposites one to another, always contain opposites; these also, we find, exclude the idea which is opposed to the idea contained in them"
+        },
+        {
+          "paragraph_id": "p-085c86",
+          "quote": "not only will opposites not admit their opposites, but nothing which brings an opposite to that which it approaches will ever admit in itself the oppositeness of that which is brought"
+        },
+        {
+          "paragraph_id": "p-7bf934",
+          "quote": "if the soul takes possession of anything it always brings life to it … the soul … will never admit the opposite of that which it brings with it"
+        }
+      ],
+      "justification": "The doctrine of 'immanent characters'—that things like fire, three, and the soul necessarily carry one of a pair of opposites and thus repel the other—is the logical hinge on which the immortality proof turns in paragraphs 139–145."
+    },
+    {
+      "topic": "Soul's immortality deduced from its essential relation to life",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-7bf934",
+          "quote": "Then if the soul takes possession of anything it always brings life to it? Certainly … the soul … will never admit the opposite of that which it brings with it. Decidedly not"
+        },
+        {
+          "paragraph_id": "p-756faa",
+          "quote": "Well then what do we call that which does not admit death? Deathless or immortal, he said. And the soul does not admit death? No. Then the soul is immortal."
+        },
+        {
+          "paragraph_id": "p-cf291a",
+          "quote": "if the odd were necessarily imperishable, would not the number three be imperishable? … In the same way, I think, if that which is without cold were imperishable, whenever anything cold approached fire, it would never perish"
+        }
+      ],
+      "justification": "The final proof of the soul's immortality—built on the immanent-character doctrine—is the explicit culminating theme of the window (paragraphs 143–145), presented as the conclusive answer to Cebes' objection."
+    },
+    {
+      "topic": "Concrete vs. abstract opposites: generation among particulars vs. impossibility among Forms",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-93246c",
+          "quote": "We said before that in the case of concrete things opposites are generated from opposites; whereas now we say that the abstract concept of an opposite can never become its own opposite, either in us or in the world about us"
+        },
+        {
+          "paragraph_id": "p-66a732",
+          "quote": "I think it is evident not only that greatness itself will never be great and also small, but that the greatness in us will never admit the small"
+        }
+      ],
+      "justification": "Paragraphs 136–138 explicitly resolve the apparent contradiction between the earlier 'opposites generate opposites' argument and the new claim that Forms cannot become their opposites—a crucial distinction for the coherence of the whole argument."
+    },
+    {
+      "topic": "The philosopher's confidence in a divine afterlife: implicit mystery-religion framework",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-b56c6f",
+          "quote": "You demand a proof that our soul is indestructible and immortal, if the philosopher, who is confident in the face of death and who thinks that after death he will fare better in the other world than if he had lived his life differently, is not to find his confidence senseless and foolish"
+        },
+        {
+          "paragraph_id": "p-42372c",
+          "quote": "Do you suppose that, when he wrote those words, he thought of the soul as a harmony which would be led by the conditions of the body, and not rather as something fitted to lead and rule them, and itself a far more divine thing than a harmony?"
+        }
+      ],
+      "justification": "The entire immortality argument of this window is driven by an implicit backdrop of mystery-religion belief in divine afterlife that Cebes articulates as the demand in p-b56c6f; p-42372c reinforces the soul's kinship with the divine as presupposed throughout."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Odyssey",
+      "cited_author": "Homer",
+      "stance": "authority",
+      "paragraph_id": "p-8aaa08",
+      "quote": "as Homer has shown in the Odyssey when he says of Odysseus: He smote his breast, and thus he chid his heart: Endure it, heart, you have born worse than this.",
+      "justification": "Socrates explicitly invokes Homer's Odyssey by name and quotes it verbatim to demonstrate that the soul can rule the body's passions, using it as a poetic authority against the soul-as-harmony thesis."
+    },
+    {
+      "cited_work": "On Nature (book by Anaxagoras)",
+      "cited_author": "Anaxagoras",
+      "stance": "refute",
+      "paragraph_id": "p-5e3d41",
+      "quote": "Then one day I heard a man reading from a book, as he said, by Anaxagoras, that it is the mind that arranges and causes all things … As I went on with my reading I saw that the man made no use of intelligence",
+      "justification": "Socrates refers to a specific book by Anaxagoras on the Mind as cause; he initially endorses its premise but then refutes its execution, finding Anaxagoras reverted to material causes (air, ether, water) rather than genuine teleology."
+    }
+  ]
+}

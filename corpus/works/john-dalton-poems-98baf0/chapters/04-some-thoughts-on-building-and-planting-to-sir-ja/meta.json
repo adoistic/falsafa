@@ -1,0 +1,41 @@
+{
+  "work_slug": "john-dalton-poems-98baf0",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "SOME THOUGHTS ON BUILDING and PLANTING, TO Sir JAMES LOWTHER, Bart. OF LOWTHER-HALL.",
+  "chapter_slug": "04-some-thoughts-on-building-and-planting-to-sir-ja",
+  "author": "John Dalton",
+  "author_slug": "john-dalton",
+  "ecpa_poem_id": "o4984-w0060",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 55
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "14f9becb-cba6-5e8b-a289-df34d22501c5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 335,
+      "line_count": 58,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

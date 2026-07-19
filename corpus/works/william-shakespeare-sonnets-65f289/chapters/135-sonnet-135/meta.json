@@ -1,0 +1,28 @@
+{
+  "work_slug": "william-shakespeare-sonnets-65f289",
+  "work_title": "Sonnets",
+  "chapter_number": 135,
+  "chapter_title": "Sonnet 135",
+  "chapter_slug": "135-sonnet-135",
+  "incipit": "Whoever hath her wish, thou hast thy ‘Will,’",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7a1c1185-ca6f-5805-9b36-acab3760bd70",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 116,
+      "line_count": 14,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1041",
+      "license": "Public domain — from Project Gutenberg (https://www.gutenberg.org)"
+    }
+  ]
+}

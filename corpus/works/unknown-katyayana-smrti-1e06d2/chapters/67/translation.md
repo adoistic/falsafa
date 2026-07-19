@@ -42,7 +42,7 @@ The wise call those sinners who destroy one's reputation and livelihood, and tho
 
 There is no fault in the killer for the killing of clawed, horned, and fanged animals that are aggressors, and likewise of elephants, horses, and others. // K_805 //
 
-For causing an abortion, for being a thief, for striking a Brahmin woman with a weapon, and for killing a faultless woman, even a Brahmin is to be killed. // K_806 //
+For causing an abortion, for being a thief, for striking a Brāhmaṇa woman with a weapon, and for killing a faultless woman, even a Brāhmaṇa is to be killed. // K_806 //
 
 The man who damages, breaks, or crushes another's property shall incur the first amercement; the owner is said to be entitled to the property. // K_807 //
 

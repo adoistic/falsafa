@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 86**
+**Viṣṇu Smriti 86**
 
 Now, the *vṛṣotsarga* (वृषोत्सर्ग) (the setting free of a bull). // Vi_86.1 //
 

@@ -1,0 +1,38 @@
+{
+  "work_slug": "thomas-hudson-poems-e5f3ae",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "ODE TO CONCORD.",
+  "chapter_slug": "04-ode-to-concord",
+  "author": "Thomas Hudson",
+  "author_slug": "thomas-hudson",
+  "ecpa_poem_id": "o4984-w0150",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "rhyme": "irregular",
+    "metrical_pattern": "irregular",
+    "line_count": 76
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9a0f6f15-ebe5-5fef-9d8b-e7ebcb27f1de",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 507,
+      "line_count": 78,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

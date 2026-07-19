@@ -30,19 +30,19 @@ For killing a blue jay, a frog, a cat, an owl, or a crow, / a Brahmin shall be f
 
 For killing a peacock, a swan, a Bhāsa bird, a hawk, or a cockerel, / one shall be fined thirty *paṇas*, and the same for a wild peacock. // YSS_2.6 //
 
-A Brahmin who has abandoned his sacred fire, who has neglected his twilight prayers, / or who acts as a servant to a Shudra, the king should banish from the kingdom. // YSS_2.7 //
+A Brahmin who has abandoned his sacred fire, who has neglected his twilight prayers, / or who acts as a servant to a Śūdra, the king should banish from the kingdom. // YSS_2.7 //
 
 A Brahmin who has given up his fire, who does not bathe, who does not recite mantras, / or who does not worship the sun at dawn and dusk by performing his twilight prayers, // YSS_2.8 //
 
-who does not perform the daily sacrifices, who eats the food of a Shudra, / or who lives by the sword, shall be fined one *paṇa* each day. // YSS_2.9 //
+who does not perform the daily sacrifices, who eats the food of a Śūdra, / or who lives by the sword, shall be fined one *paṇa* each day. // YSS_2.9 //
 
-A Brahmin who casts his seed in Shudra women, or who lusts after a Shudra woman, / the king should confiscate all his property and brand his forehead with a vulva. // YSS_2.10 //
+A Brahmin who casts his seed in Śūdra women, or who lusts after a Śūdra woman, / the king should confiscate all his property and brand his forehead with a vulva. // YSS_2.10 //
 
 A vulva-mark, a liquor-mark, a *surā*-mark on the forehead; / for one who casts his seed on prostitutes, the king, having confiscated everything, [should do this]. // YSS_2.11 //
 
 One who bathes at the wrong time, bathes during the day, eats another's food or his own [improperly], / such a man has lost his rites; his wealth is declared to belong to the king. // YSS_2.12 //
 
-For a Brahmin who has abandoned the prescribed duties and partakes of a Shudra's food, / the king should confiscate all his property annually and present it to those learned in the Veda. // YSS_2.13 //
+For a Brahmin who has abandoned the prescribed duties and partakes of a Śūdra's food, / the king should confiscate all his property annually and present it to those learned in the Veda. // YSS_2.13 //
 
 Wearing a lower or upper garment improperly is a wrongful amercement; / for a woman doing the same, he should impose a double fine. // YSS_2.14 //
 
@@ -52,7 +52,7 @@ Likewise, it is ordained that feces and vomit should not be on a path; / one who
 
 Urinating while facing the eastern or western direction, / and likewise discharging feces, shall incur a double fine. // YSS_2.17 //
 
-A thief, a slanderer, a perpetrator of violence, and a Brahmin cohabiting with a Shudra woman (*vṛṣalīpati*), / and one who abandons his dependents—these five are known as thorns in the side of the village. // YSS_2.18 //
+A thief, a slanderer, a perpetrator of violence, and a Brahmin cohabiting with a Śūdra woman (*vṛṣalīpati*), / and one who abandons his dependents—these five are known as thorns in the side of the village. // YSS_2.18 //
 
 The king, having identified these thorns in his kingdom, should remove them; / for if not removed, they create a dark falsehood for the people. // YSS_2.19 //
 
@@ -60,7 +60,7 @@ A thief, nourished by his thievery, adorned with bloody garlands, / and wrapped 
 
 Placing the mark of a dog's foot on his face, wrapping him in a donkey's skin, / mounting the slanderer on a donkey, the king should banish him after confiscating his stolen wealth. // YSS_2.21 //
 
-The king should banish from the kingdom the violent man who breaks into houses, steals property, and makes it his own, / having him cast out by a Chandala. // YSS_2.22 //
+The king should banish from the kingdom the violent man who breaks into houses, steals property, and makes it his own, / having him cast out by a Caṇḍāla. // YSS_2.22 //
 
 For breaking a vow and possessing a liquor vessel, two things are bound to him; / with his heart smeared with excrement, the king should cast out the *vṛṣalīpati*. // YSS_2.23 //
 
@@ -68,7 +68,7 @@ With his body smeared with ashes and fumigated with the hair and bones of a corp
 
 Being fanned with the hair of a corpse, his head adorned with a garland of it, / the king should make the man who violates convention go naked. // YSS_2.25 //
 
-A wretch of a Brahmin who has begotten a child on a Shudra woman, / the king should make that man, guilty of the sin of contact, live outside the village. // YSS_2.26 //
+A wretch of a Brahmin who has begotten a child on a Śūdra woman, / the king should make that man, guilty of the sin of contact, live outside the village. // YSS_2.26 //
 
 He who, mixing with good men, makes such a man eat in the same row, / shall incur the first fine. // YSS_2.27 //
 
@@ -86,7 +86,7 @@ One observing a vow, begging for alms, who eats without having offered to the fi
 
 A man who does not rise to greet his teacher, father, brother, father-in-law, or the king / shall be made to pay a fine of three *paṇas*. // YSS_2.34 //
 
-A Shudra sitting on a high seat while a superior is present / shall be fined six *paṇas*, and for not rising when the superior is leaving. // YSS_2.35 //
+A Śūdra sitting on a high seat while a superior is present / shall be fined six *paṇas*, and for not rising when the superior is leaving. // YSS_2.35 //
 
 He in whose possession a false weight or measure, whether heavy or light, is seen, / his property should be considered as belonging to the king. // YSS_2.36 //
 
@@ -111,7 +111,7 @@ A Brahmin who sells cakes, cooked food, meat, soma, bones, or honey, / or hides,
 
 A superintendent of markets who uses false weights and measures, / shall be fined one *paṇa*, as shall the one who uses them to buy. // YSS_2.46 //
 
-A Brahmin who begets a child on a Shudra woman and then marries her, / shall be fined one thousand if it is her first delivery. // YSS_2.47 //
+A Brahmin who begets a child on a Śūdra woman and then marries her, / shall be fined one thousand if it is her first delivery. // YSS_2.47 //
 
 A Brahmin who eats the cooked food of a *vṛṣalīpati* / shall be fined fourteen *paṇas*; double that during a period of impurity after birth. // YSS_2.48 //
 
@@ -119,7 +119,7 @@ For eating at a *śrāddha* (ancestral rite) in his house, he shall be fined the
 
 One who eats at the house of a *vṛṣalīpati* during the Anvaṣṭakā or Aṣṭakā rites / shall be fined fourteen *paṇas*, and the same for eating at a monthly rite. // YSS_2.50 //
 
-One who accepts the order of precedence for the Aṣṭakā rites from a Shudra's house / shall be fined half of ninety-six, and the same for having previously eaten in that house. // YSS_2.51 //
+One who accepts the order of precedence for the Aṣṭakā rites from a Śūdra's house / shall be fined half of ninety-six, and the same for having previously eaten in that house. // YSS_2.51 //
 
 For consuming forbidden things like liquor, a Brahmin shall be fined sixteen *paṇas*; / for pressed juices, double that; for fish, he shall be fined one hundred. // YSS_2.52 //
 
@@ -141,16 +141,16 @@ A man who goes into the yoni of a cow shall be fined one thousand; / thus the fi
 
 To one who is weary on the road, one should give way, or offer shelter; / the giver of shelter gets the merit of a sacrifice, while the non-giver is without refuge. // YSS_2.61 //
 
-A Brahmin who serves a Shudra woman is considered lower than a Shudra; / by the very act of intercourse with a Shudra woman, he becomes fallen. // YSS_2.62 //
+A Brahmin who serves a Śūdra woman is considered lower than a Śūdra; / by the very act of intercourse with a Śūdra woman, he becomes fallen. // YSS_2.62 //
 
-By the very act of intercourse with a Shudra woman, a twice-born begets a child of her nature; / the mother of that Shudra child is said to cause his fallen state. // YSS_2.63 //
+By the very act of intercourse with a Śūdra woman, a twice-born begets a child of her nature; / the mother of that Śūdra child is said to cause his fallen state. // YSS_2.63 //
 
 Therefore, a Brahmin who casts his seed into a dark woman, whether for sacrificial or domestic purposes, / awaits the loss of his sacred fire. // YSS_2.64 //
 
-Seeing offspring from a Shudra woman, they fall into great misfortune; / a Vaishya's wealth by policy .. if the twice-born himself does not. // YSS_2.65 //
+Seeing offspring from a Śūdra woman, they fall into great misfortune; / a Vaiśya's wealth by policy .. if the twice-born himself does not. // YSS_2.65 //
 [two syllables indiscernible]
 
-A Brahmin who cohabits with a Shudra woman will see his ancestors look upon / the beautiful tooth of a dog, even of impure ones. // YSS_2.66 //
+A Brahmin who cohabits with a Śūdra woman will see his ancestors look upon / the beautiful tooth of a dog, even of impure ones. // YSS_2.66 //
 
 Therefore, in *śrāddha* rites, a twice-born must certainly shun the *vṛṣalīpati* / and dogs, and then feed the Brahmins. // YSS_2.67 //
 
@@ -160,7 +160,7 @@ Even a worthy twice-born who sits in the same row as unworthy, inauspicious men,
 
 Food touched by a fee or by silver / can be purified by the wise, but if touched during a *śrāddha*, it is ruined. // YSS_2.70 //
 
-A Brahmin touched by a Kshatriya or a Vaishya woman / can be purified by certain means, but not one who has gone to a Shudra woman. // YSS_2.71 //
+A Brahmin touched by a Kṣatriya or a Vaiśya woman / can be purified by certain means, but not one who has gone to a Śūdra woman. // YSS_2.71 //
 
 A king who tolerates a *vṛṣalīpati* in a village / is unworthy of receiving good things, and his own interests and the village's are forfeit. // YSS_2.72 //
 

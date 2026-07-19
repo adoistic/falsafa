@@ -1,0 +1,96 @@
+---
+work_id: "f9bdd8bc-6b13-5de5-b3e2-72a71299f421"
+work_slug: "richard-shepherd-poems-f9bdd8"
+work_title: Poems
+author: Richard Shepherd
+author_slug: "richard-shepherd"
+ecpa_poem_id: "o4984-w0610"
+chapter_number: 4
+chapter_title: ODE TO MELANCHOLY.
+chapter_slug: "04-ode-to-melancholy"
+variant_id: "44082e2c-7591-53e4-81b1-53e5d6ec5521"
+content_type: original
+layout: verse
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 295
+source_url: "https://www.eighteenthcenturypoetry.org/"
+license: "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+genres:
+  - ode
+metrical_foot: iambic (˘′)
+metrical_count: tetrameter (4 feet)
+stanza_form:
+  - sestet (6 lines)
+rhyme_scheme: aabccb
+syllable_pattern: 8.8.6.8.8.6
+---
+
+ODE TO MELANCHOLY.
+
+BY THE SAME.
+
+REMOTE from those enchanting bowers,
+ Where dance the nimble-footed hours,
+ Where revels frantic Folly;
+ To thee I bring the tribute tear,
+ Visits the muse thy mansions drear,
+ Heart-searching Melancholy. 
+
+By thee inspir'd, by Fancy led,
+ Thy hallowed ground I seem to tread,
+ Where o'er the joyless plain
+ The aether sheds its blackest hue,
+ And here and there a lonely yew
+ Marks Melancholy's reign. 
+
+Where chearful gales forget to blow,
+ Pellucid currents cease to flow,
+ The cloud-capt mountain's height
+ All avenues of the dreary way
+ Secures from each pervading ray
+ Of soul-enlivening light. 
+
+Where Grief sad social solace seeks,
+ The rose has fled her meagre cheeks,
+ And hollow is her eye;
+ Care on her lap reclines his head,
+ Whilst hovering round the restless bed
+ The wing'd chimeras fly. 
+
+Rack'd with ideal tortures Spleen
+ A thousand fiends unknown, unseen,
+ With shadowy faulchions scare;
+ This rends her breast, that goads her sides,
+ And every hag of Fancy rides
+ The phantom thro' the air. 
+
+Hark, softly stealing on the ear
+ The hollow sigh, the dropping tear,
+ The music of Despair;
+ Not lovers sorrow-mocking sighs,
+ Or mimic Grief that melts the eyes
+ Of youthful widowed fair. 
+
+Sorrows that orphan bosoms pierce,
+ Pour'd o'er a tender parent's hearse,
+ Snatch'd by unpitying fate;
+ No fostering hand's kind solace nigh,
+ Each summer friend with wayward eye
+ Surveys their helpless state. 
+
+Thus the vague group of vernal flies,
+ While Titan gilds the cloudless skies,
+ Sport in the glistening ray:
+ The spiendid scene once overcast
+ By lowering cloud, or adverse blast,
+ Each insect veers away. 
+
+When Pleasure's madding tide o'erswells
+ The rapt breast, to those doleful cells
+ Of misery let me stray;
+ There shall thought-fostering Solitude,
+ Whilst no fantastic joys intrude,
+ Each devious step recal to Virtue's rugged way.

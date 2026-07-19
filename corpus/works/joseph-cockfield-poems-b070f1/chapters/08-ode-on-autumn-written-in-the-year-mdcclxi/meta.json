@@ -1,0 +1,44 @@
+{
+  "work_slug": "joseph-cockfield-poems-b070f1",
+  "work_title": "Poems",
+  "chapter_number": 8,
+  "chapter_title": "ODE ON AUTUMN. WRITTEN IN THE YEAR MDCCLXI.",
+  "chapter_slug": "08-ode-on-autumn-written-in-the-year-mdcclxi",
+  "author": "Joseph Cockfield",
+  "author_slug": "joseph-cockfield",
+  "ecpa_poem_id": "o4987-w0480",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "aabb",
+    "syllable_pattern": "8.8.8.8",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/",
+    "line_count": 28
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e52481c4-1276-56eb-b3cc-e22cb0e0fd28",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 179,
+      "line_count": 31,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

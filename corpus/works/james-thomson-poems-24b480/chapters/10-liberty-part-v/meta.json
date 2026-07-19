@@ -1,0 +1,40 @@
+{
+  "work_slug": "james-thomson-poems-24b480",
+  "work_title": "Poems",
+  "chapter_number": 10,
+  "chapter_title": "LIBERTY. PART V.",
+  "chapter_slug": "10-liberty-part-v",
+  "author": "James Thomson",
+  "author_slug": "james-thomson",
+  "ecpa_poem_id": "o4144-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "blank verse"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 720
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "96ab209b-6b06-5e2b-958d-c854ddd83a1e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5288,
+      "line_count": 722,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

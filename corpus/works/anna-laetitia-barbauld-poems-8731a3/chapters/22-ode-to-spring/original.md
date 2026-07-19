@@ -1,0 +1,96 @@
+---
+work_id: "8731a394-f127-576f-819a-2e75f2d16d74"
+work_slug: "anna-laetitia-barbauld-poems-8731a3"
+work_title: Poems
+author: Anna Laetitia Barbauld
+author_slug: "anna-laetitia-barbauld"
+ecpa_poem_id: "o3555-w0220"
+chapter_number: 22
+chapter_title: ODE to SPRING.
+chapter_slug: "22-ode-to-spring"
+variant_id: "088b814f-aa56-5369-a28d-01740ad1bf7b"
+content_type: original
+layout: verse
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 329
+source_url: "https://www.eighteenthcenturypoetry.org/"
+license: "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+genres:
+  - ode
+  - ballad metre
+metrical_foot: iambic (˘′)
+metrical_count: pentameter (5 feet)
+stanza_form:
+  - quatrain (4 lines)
+syllable_pattern: 10.10.6.6
+---
+
+ODE to SPRING.
+
+SWEET daughter of a rough and stormy sire,
+ Hoar Winter's blooming child; delightful Spring! 
+Whose unshorn locks with leaves
+ And swelling buds are crown'd;
+
+From the green islands of eternal youth,
+ (Crown'd with fresh blooms, and ever springing shade,)
+ Turn, hither turn thy step,
+ O thou, whose powerful voice
+
+More sweet than softest touch of Doric reed,
+ Or Lydian flute, can sooth the madding winds,
+ And thro' the stormy deep
+ Breathe thy own tender calm. 
+
+Thee, best belov'd! the virgin train await
+ With songs and festal rites, and joy to rove
+ Thy blooming wilds among,
+ And vales and dewy lawns,
+
+With untir'd feet; and cull thy earliest sweets
+ To weave fresh garlands for the glowing brow
+ Of him, the favour'd youth
+ That prompts their whisper'd sigh. 
+
+Unlock thy copious stores; those tender showers
+ That drop their sweetness on the infant buds,
+ And silent dews that swell
+ The milky ear's green stem. 
+
+And feed the flowering osier's early shoots;
+ And call those winds which thro' the whispering boughs
+ With warm and pleasant breath
+ Salute the blowing flowers. 
+
+Now let me sit beneath the whitening thorn,
+ And mark thy spreading tints steal o'er the dale;
+ And watch with patient eye
+ Thy fair unfolding charms. 
+
+O nymph approach! while yet the temperate sun
+ With bashful forehead, thro' the cool moist air
+ Throws his young maiden beams,
+ And with chaste kisses woes
+
+The earth's fair bosom; while the streaming veil
+ Of lucid clouds with kind and frequent shade
+ Protect thy modest blooms
+ From his severer blaze. 
+
+Sweet is thy reign, but short; The red dog-star
+ Shall scorch thy tresses, and the mower's scythe
+ Thy greens, thy flow'rets all,
+ Remorseless shall destroy. 
+
+Reluctant shall I bid thee then farewel;
+ For O, not all that Autumn's lap contains,
+ Nor Summer's ruddiest fruits,
+ Can aught for thee atone
+
+Fair Spring! whose simplest promise more delights
+ Than all their largest wealth, and thro' the heart
+ Each joy and new-born hope
+ With softest influence breathes.

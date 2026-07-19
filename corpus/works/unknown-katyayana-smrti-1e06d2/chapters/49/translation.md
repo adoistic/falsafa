@@ -22,6 +22,6 @@ translator: thothica
 
 A debt that is written on the same day should be treated as an equal debt. Otherwise, it is in the order of taking, securing, and profiting. // K_513 //
 
-In a confluence of multiple debts, whichever was incurred first should be paid first, after the king's dues and then a learned Brahmin's. // K_514 //
+In a confluence of multiple debts, whichever was incurred first should be paid first, after the king's dues and then a learned Brāhmaṇa's. // K_514 //
 
 With whatever money a certain merchandise was acquired, if one can prove it, that money must be given by the debtor to that person, and not otherwise. // K_515 //

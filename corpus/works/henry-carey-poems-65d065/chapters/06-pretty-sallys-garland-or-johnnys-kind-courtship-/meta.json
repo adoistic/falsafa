@@ -1,0 +1,41 @@
+{
+  "work_slug": "henry-carey-poems-65d065",
+  "work_title": "Poems",
+  "chapter_number": 6,
+  "chapter_title": "Pretty SALLY's Garland. OR, Johnny's Kind Courtship. In Two PARTS.",
+  "chapter_slug": "06-pretty-sallys-garland-or-johnnys-kind-courtship-",
+  "author": "Henry Carey",
+  "author_slug": "henry-carey",
+  "ecpa_poem_id": "o5463-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "song"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "rhyme": "xaxa",
+    "syllable_pattern": "8.7.8.7",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-/ -+|-+|-+|-+/ -+|-+|-+|-/",
+    "line_count": 112
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "20449322-aa47-508e-9b60-a5915dfc55ca",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 717,
+      "line_count": 115,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

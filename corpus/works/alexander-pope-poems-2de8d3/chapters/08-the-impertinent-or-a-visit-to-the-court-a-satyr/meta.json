@@ -1,0 +1,45 @@
+{
+  "work_slug": "alexander-pope-poems-2de8d3",
+  "work_title": "Poems",
+  "chapter_number": 8,
+  "chapter_title": "THE IMPERTINENT, OR A Visit to the COURT. A SATYR.",
+  "chapter_slug": "08-the-impertinent-or-a-visit-to-the-court-a-satyr",
+  "author": "Alexander Pope",
+  "author_slug": "alexander-pope",
+  "ecpa_poem_id": "o3683-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "satire"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 273
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b9671cf5-60e2-5498-a951-5eb28c94fc68",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2207,
+      "line_count": 275,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "work_slug": "stephen-duck-poems-0c5b8a",
+  "work_title": "Poems",
+  "chapter_number": 7,
+  "chapter_title": "On a GOOD CONSCIENCE.",
+  "chapter_slug": "07-on-a-good-conscience",
+  "author": "Stephen Duck",
+  "author_slug": "stephen-duck",
+  "ecpa_poem_id": "o4741-w0070",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "topical verse"
+    ],
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "metrical_pattern": "irregular",
+    "line_count": 24
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "49c96ece-9157-5043-b604-7d159bb5836e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 165,
+      "line_count": 25,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

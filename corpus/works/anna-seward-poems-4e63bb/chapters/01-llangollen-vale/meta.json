@@ -1,0 +1,45 @@
+{
+  "work_slug": "anna-seward-poems-4e63bb",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "LLANGOLLEN VALE,",
+  "chapter_slug": "01-llangollen-vale",
+  "author": "Anna Seward",
+  "author_slug": "anna-seward",
+  "ecpa_poem_id": "bse96-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "alexandrine"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "sestet (6 lines)",
+      "sesta rima (6 lines [ababcc])"
+    ],
+    "rhyme": "ababcc",
+    "syllable_pattern": "10.10.10.10.10.12",
+    "metrical_pattern": "-+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+|-+/",
+    "line_count": 174
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ad3e8cf8-ce70-5010-92bf-3241a2b935a5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1345,
+      "line_count": 176,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

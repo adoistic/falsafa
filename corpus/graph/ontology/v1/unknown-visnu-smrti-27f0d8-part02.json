@@ -1,0 +1,392 @@
+{
+  "slug": "unknown-visnu-smrti-27f0d8",
+  "window": "06-20,100",
+  "entities": [
+    {
+      "canonical_name": "Brāhmaṇa",
+      "surface_names": ["Brāhmaṇas", "Brahmanical sages", "twice-born man", "twice-born men"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-3ffa86", "quote": "The king, a Vedic scholar, a religious mendicant, a gambler, a thief, a dependent person, a woman, a child, a perpetrator of violence, a very old man, an intoxicated person, a madman, an accused person, an outcaste, one afflicted by hunger or thirst, one in distress, one blinded by passion, and a blind man.", "role": "excluded category in legal witness list"},
+        {"paragraph_id": "p-37cec1", "quote": "He shall question a Brāhmaṇa by saying, \"Speak.\"", "role": "subject of ritual interrogation procedure"},
+        {"paragraph_id": "p-3e9a91", "quote": "Men of good family, endowed with good conduct and wealth, performers of sacrifices, ascetics, fathers of sons, knowers of dharma, students of the Veda, truthful men, and elders learned in the three Vedas.", "role": "qualified witnesses"},
+        {"paragraph_id": "p-3d1bc4", "quote": "For purification from that sin, a twice-born man shall offer clarified butter into the fire with the Kūśmāṇḍī hymns.", "role": "subject of purification rite"},
+        {"paragraph_id": "p-20d522", "quote": "For quadruple the amount, for a Brāhmaṇa, with the exception of the ordeal of consecrated water.", "role": "subject of ordeal rules"},
+        {"paragraph_id": "p-e26ae4", "quote": "Those Brāhmaṇas who carry out a helpless Brāhmaṇa partake of the world of heaven.", "role": "subject of funerary merit"},
+        {"paragraph_id": "p-ac3d18", "quote": "The gods are invisible gods; Brāhmaṇas are visible gods.", "role": "equated with visible divine presence"},
+        {"paragraph_id": "p-b1ef74", "quote": "The worlds are supported by Brāhmaṇas.", "role": "cosmic sustaining role"},
+        {"paragraph_id": "p-1af0e5", "quote": "By the grace of Brāhmaṇas, the deities reside in heaven; A word spoken by a Brāhmaṇa never proves to be false.", "role": "upholder of cosmic and divine order"},
+        {"paragraph_id": "p-1c2b9a", "quote": "In his absence, it goes to the king, except for the property of a Brāhmaṇa.", "role": "exempt category in inheritance law"}
+      ],
+      "description": "The Brāhmaṇa priestly class, accorded divine status, exempt from certain ordeals, and central to all legal, ritual, and cosmic functions throughout these chapters.",
+      "justification": "Brāhmaṇas are the single most frequently referenced social category across all chapters, appearing in legal witness lists, ordeal procedures, inheritance rules, funerary rites, and cosmological statements."
+    },
+    {
+      "canonical_name": "Śūdra",
+      "surface_names": ["Śūdras", "Śūdra son"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-8ac3eb", "quote": "A Śūdra shall give one day's fodder for ten cows.", "role": "subject of alternative purification requirement"},
+        {"paragraph_id": "p-0adeea", "quote": "A Śūdra, by all the great sins.", "role": "subject of oath-taking procedure"},
+        {"paragraph_id": "p-deb37d", "quote": "Therein, for the value of one kṛṣṇala, one shall make a Śūdra swear by holding dūrvā grass.", "role": "subject of lowest-tier ordeal threshold"},
+        {"paragraph_id": "p-fc44fc", "quote": "One shall not have a deceased twice-born man carried out by a Śūdra.", "role": "excluded from funerary role for twice-born"},
+        {"paragraph_id": "p-6f9670", "quote": "And the son of the Śūdrā wife, one.", "role": "lowest inheritance share recipient"},
+        {"paragraph_id": "p-f4ab41", "quote": "A single Śūdra son of a twice-born man is heir to half the estate.", "role": "limited heir in mixed-caste family"}
+      ],
+      "description": "The lowest of the four varṇas, subject to specific and lesser ritual, legal, and inheritance rules throughout these chapters.",
+      "justification": "Śūdras are consistently distinguished by lower thresholds in ordeal law, restricted funerary roles, and reduced inheritance shares, forming a structural counterpoint to Brāhmaṇa privilege."
+    },
+    {
+      "canonical_name": "Kṣatriya",
+      "surface_names": ["Rājanya", "Kṣatriyas", "Kṣatriyā wife", "warrior class"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-9509bc", "quote": "A Rājanya (Kṣatriya) by saying, \"Speak the truth.\"", "role": "subject of oath procedure"},
+        {"paragraph_id": "p-0618d5", "quote": "For triple the amount, for a Rājanya (Kṣatriya).", "role": "subject of ordeal threshold"},
+        {"paragraph_id": "p-1f4d48", "quote": "For a Kṣatriya with sons from Kṣatriyā, Vaiśyā, and Śūdrā wives, this same division applies.", "role": "subject of mixed-caste inheritance rule"}
+      ],
+      "description": "The warrior-ruler varṇa, occupying the second position in the caste hierarchy, with specific ordeal thresholds and inheritance shares defined relative to Brāhmaṇas and Vaiśyas.",
+      "justification": "Kṣatriyas are explicitly named with their distinct ordeal threshold (triple the Śūdra amount) and appear throughout inheritance calculations as the second tier."
+    },
+    {
+      "canonical_name": "Vaiśya",
+      "surface_names": ["Vaiśyas", "Vaiśya son", "Vaiśyā wife"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-7c954a", "quote": "A Vaiśya, by swearing him by his cows, seeds, and gold.", "role": "subject of oath by occupational goods"},
+        {"paragraph_id": "p-4c5acc", "quote": "For double the amount, the prescribed ordeals are for a Vaiśya.", "role": "subject of ordeal threshold"},
+        {"paragraph_id": "p-492ca1", "quote": "The son of the Vaiśyā wife, two shares.", "role": "heir with two shares in Brāhmaṇa family"}
+      ],
+      "description": "The merchant-farmer varṇa, third in the social hierarchy, with ordeal thresholds double those of Śūdras and two shares of inheritance in a Brāhmaṇa father's estate.",
+      "justification": "Vaiśyas are defined by their intermediate position in ordeal law and inheritance rules, and their oath formula ties their testimony to their mercantile identity (cows, seeds, gold)."
+    },
+    {
+      "canonical_name": "Caṇḍāla",
+      "surface_names": ["caṇḍālas"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-07d758", "quote": "And the caṇḍāla, the vaidehaka, and the sūta are the sons of a Brāhmaṇī by a Śūdra, a Vaiśya, and a Kṣatriya respectively.", "role": "offspring of hypergamous union"},
+        {"paragraph_id": "p-098ebf", "quote": "Execution of criminals is the occupation of the caṇḍālas.", "role": "prescribed occupational role"},
+        {"paragraph_id": "p-b4cee5", "quote": "For caṇḍālas, residence outside the village and wearing the clothes of the dead are special rules.", "role": "subject of stigmatizing residential and sartorial rules"}
+      ],
+      "description": "The caṇḍāla is a mixed-caste group born of a Brāhmaṇī mother and Śūdra father, whose prescribed occupation is execution of criminals and who are required to live outside the village.",
+      "justification": "The caṇḍāla is among the most-detailed mixed-caste categories, defined by parentage, occupation, and spatial exclusion, marking the extreme of the reverse-order birth hierarchy."
+    },
+    {
+      "canonical_name": "Fire (Agni)",
+      "surface_names": ["Agni", "fire", "O Fire"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-080efd", "quote": "O Fire, you move within all beings as a witness. You alone, O Fire, know what mortals do not know.", "role": "invoked as omniscient divine witness in ordeal"},
+        {"paragraph_id": "p-bdd00d", "quote": "This man, accused in a lawsuit, desires to prove his purity. Therefore, you must righteously save this man from this doubt.", "role": "petitioned to protect the innocent"},
+        {"paragraph_id": "p-6f37f5", "quote": "By truth is fire.", "role": "embodiment of cosmic truth"},
+        {"paragraph_id": "p-3d1bc4", "quote": "For purification from that sin, a twice-born man shall offer clarified butter into the fire with the Kūśmāṇḍī hymns.", "role": "recipient of purificatory oblation"}
+      ],
+      "description": "Agni, the Vedic fire deity, is invoked as an all-knowing divine witness in the ordeal of fire and as the recipient of purificatory oblations, and is listed among cosmic entities sustained by Truth.",
+      "justification": "Fire is directly addressed in the fire-ordeal invocation mantra and identified as a cosmic principle linked to truth, making it a first-class divine figure in this legal-ritual context."
+    },
+    {
+      "canonical_name": "Water (deity)",
+      "surface_names": ["O Water", "water", "consecrated water"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-b2d43e", "quote": "O Water, you move within all beings as a witness. You alone, O Water, know what mortals do not know.", "role": "invoked as omniscient divine witness in ordeal"},
+        {"paragraph_id": "p-5e0b44", "quote": "This man, accused in a lawsuit, is submerging himself in you. Therefore, you must righteously save this man from this doubt.", "role": "petitioned to protect the innocent"}
+      ],
+      "description": "Water is personified as a divine witness invoked in the ordeal of water, addressed in the same formulaic terms as Fire and Poison, possessing omniscient knowledge of human deeds.",
+      "justification": "Water is directly addressed in the same invocation formula as Fire and Poison, establishing it as a personified divine entity serving a juridical function."
+    },
+    {
+      "canonical_name": "Poison (deity)",
+      "surface_names": ["O Poison", "viṣa"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-a04a55", "quote": "Because you are poison, and because you are harsh, you are cruel to all living beings. You alone, O Poison, know what mortals do not know.", "role": "invoked as omniscient divine witness in ordeal"},
+        {"paragraph_id": "p-fd55c8", "quote": "This man, accused in a lawsuit, desires to prove his purity. Therefore, you must righteously save this man from this doubt.", "role": "petitioned to protect the innocent"}
+      ],
+      "description": "Poison (śārṅga, produced on the Himālaya) is personified as a divine witness in the ordeal of poison, acknowledged as harsh and cruel yet petitioned to righteously reveal the truth.",
+      "justification": "Poison is directly addressed in a divine invocation formula parallel to Fire and Water, functioning as a personified cosmic agent of legal judgment."
+    },
+    {
+      "canonical_name": "Brahma (the Grandfather)",
+      "surface_names": ["Brahma", "Grandfather", "the Grandfather", "Grandfathers"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-78d88d", "quote": "And that is a day of the Grandfather (Brahma).", "role": "cosmic time-keeping reference"},
+        {"paragraph_id": "p-25f4a0", "quote": "By this kind of day and night, and by the calculation of months and years, the lifespan of every Brahma is one hundred years.", "role": "subject of cosmic lifespan calculation"},
+        {"paragraph_id": "p-5bcf85", "quote": "The sands of the Ganges and the drops of rain when Vāsava (Indra) showers, Can be counted in this world, but not the Grandfathers (Brahmas) who have passed.", "role": "symbol of uncountable cosmic cycles"}
+      ],
+      "description": "Brahma, the creator deity known as the Grandfather, whose day and night define cosmic time units (Kalpas), and whose successive instances across infinite time illustrate the boundlessness of temporal cycles.",
+      "justification": "Chapter 20 explicitly identifies a Kalpa as a day of the Grandfather (Brahma) and describes multiple Brahmas passing through infinite time, making Brahma a central figure in the cosmological discourse."
+    },
+    {
+      "canonical_name": "Puruṣa",
+      "surface_names": ["Puruṣa", "Supreme Being"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-518b9d", "quote": "And the day of Puruṣa (the Supreme Being) is measured by the lifespan of Brahma.", "role": "highest cosmic being whose day spans Brahma's entire life"},
+        {"paragraph_id": "p-6dd38a", "quote": "At its end is the great dissolution (mahākalpa).", "role": "reference to the dissolution occurring at end of Puruṣa's day"}
+      ],
+      "description": "Puruṣa, the Supreme Being, whose single day encompasses the entire lifespan of Brahma and whose night is of equal duration, is the ultimate cosmological reference point beyond which time is uncountable.",
+      "justification": "Puruṣa is explicitly identified as the Supreme Being whose day-unit is the lifespan of Brahma, placing it at the apex of the cosmological hierarchy in Chapter 20."
+    },
+    {
+      "canonical_name": "Indra (Vāsava)",
+      "surface_names": ["Vāsava", "Indra", "Indras", "lords of the gods"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-5bcf85", "quote": "The sands of the Ganges and the drops of rain when Vāsava (Indra) showers, Can be counted in this world, but not the Grandfathers (Brahmas) who have passed.", "role": "reference figure for an uncountable natural measure"},
+        {"paragraph_id": "p-807517", "quote": "Many thousands of Indras and myriads of Daitya-lords Have been destroyed by time; what then is to be said of men?", "role": "example of mighty beings destroyed by time"}
+      ],
+      "description": "Indra (Vāsava), the king of the gods, is invoked both as a natural phenomenon (sending rain) and as a marker of impermanence—even thousands of Indras are destroyed by cosmic time.",
+      "justification": "Indra is explicitly named in Chapter 20's cosmological meditation, first as Vāsava (a Vedic epithet) in a simile, then multiplied across cosmic cycles to illustrate the inexorable power of time."
+    },
+    {
+      "canonical_name": "Manu",
+      "surface_names": ["Manus", "lords of the worlds"],
+      "kind": "figure",
+      "figure_kind": "figure",
+      "mentions": [
+        {"paragraph_id": "p-dcf54f", "quote": "In every Kalpa, fourteen lords of the gods perish, And fourteen Manus, who are foremost in all the worlds.", "role": "cosmic progenitor figures who perish each Kalpa"}
+      ],
+      "description": "The fourteen Manus are the primordial progenitor figures who preside over a Manvantara cycle; their repeated destruction every Kalpa is cited as evidence of time's insurmountable power.",
+      "justification": "Chapter 20 explicitly states fourteen Manus perish per Kalpa, establishing Manu as a cosmic administrative figure subordinate to time, and directly connecting to the Manvantara cosmology introduced at Vi_20.11."
+    },
+    {
+      "canonical_name": "Yama",
+      "surface_names": ["Yama", "path of Yama"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-8dead3", "quote": "A deceased relative is unable to follow a dead man; For everyone except the wife, the path of Yama is barred.", "role": "lord of the dead whose path defines post-death fate"}
+      ],
+      "description": "Yama, the god of death and the afterlife, whose path the dead must travel alone—only the wife may follow, all other relatives being barred.",
+      "justification": "Yama is invoked by name in Chapter 20's consolation discourse on death, defining the post-mortem journey and the limits of familial accompaniment."
+    },
+    {
+      "canonical_name": "Self-existent (Svayambhū)",
+      "surface_names": ["the Self-existent", "Svayambhū"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-c6187a", "quote": "Because a son (suta) rescues (trāyate) his father from the hell called Put, Therefore he is called putra by the Self-existent himself.", "role": "divine authority who coined the etymological name putra"}
+      ],
+      "description": "The Self-existent (Svayambhū, Brahma) is invoked as the divine authority who etymologically defined the word 'putra' (son) based on its salvific function of rescuing the father from the hell Put.",
+      "justification": "Chapter 15 cites the Self-existent as the originator of the term putra, grounding the legal and spiritual importance of having a son in divine etymological authority."
+    },
+    {
+      "canonical_name": "Daityas",
+      "surface_names": ["Daitya-lords", "myriads of Daitya-lords"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-807517", "quote": "Many thousands of Indras and myriads of Daitya-lords Have been destroyed by time; what then is to be said of men?", "role": "powerful beings destroyed by cosmic time"}
+      ],
+      "description": "The Daityas are the class of mighty anti-gods (titans), whose countless lords have been destroyed by time just as thousands of Indras have perished, illustrating mortal impermanence.",
+      "justification": "The Daitya-lords are explicitly named alongside Indras in Chapter 20's cosmological meditation as a counterpart class of cosmic beings subject to time's destruction."
+    },
+    {
+      "canonical_name": "Himālaya",
+      "surface_names": ["Himālaya mountain", "Himālaya"],
+      "kind": "place",
+      "mentions": [
+        {"paragraph_id": "p-270a79", "quote": "Except for the Śārṅga poison produced on the Himālaya mountain.", "role": "geographic origin of the one permissible ordeal poison"}
+      ],
+      "description": "The Himālaya mountain is specified as the sole permissible source of the Śārṅga poison used in the ordeal of poison, grounding the legal prescription in a sacred geographic origin.",
+      "justification": "The Himālaya is explicitly named as the geographical qualifier distinguishing the lawful ordeal-poison from all others, making it a place-entity with direct legal significance."
+    },
+    {
+      "canonical_name": "Ganges",
+      "surface_names": ["Ganges", "water of the Ganges"],
+      "kind": "place",
+      "mentions": [
+        {"paragraph_id": "p-eaf423", "quote": "Their immersion is in the water of the Ganges.", "role": "prescribed site for bone immersion after cremation"},
+        {"paragraph_id": "p-0161d8", "quote": "For as many thousands of years as the number of a man's bones that remain in the water of the Ganges, for that long he resides in the world of heaven.", "role": "sacred medium that determines duration of heavenly reward"},
+        {"paragraph_id": "p-5bcf85", "quote": "The sands of the Ganges and the drops of rain when Vāsava (Indra) showers, Can be counted in this world, but not the Grandfathers (Brahmas) who have passed.", "role": "symbol of an enormous but finite countable quantity"}
+      ],
+      "description": "The Ganges is a sacred river prescribed for the immersion of cremation bones after death, with the duration of heavenly residence tied directly to how many bones remain in its waters.",
+      "justification": "The Ganges is explicitly named twice in Chapter 19 as the ritual site for post-cremation bone immersion with direct soteriological consequences, making it a significant sacred place."
+    },
+    {
+      "canonical_name": "Put (hell)",
+      "surface_names": ["the hell called Put", "Put"],
+      "kind": "place",
+      "mentions": [
+        {"paragraph_id": "p-c6187a", "quote": "Because a son (suta) rescues (trāyate) his father from the hell called Put, Therefore he is called putra by the Self-existent himself.", "role": "infernal realm from which a son rescues his father"}
+      ],
+      "description": "Put is a specific named hell from which a son (putra) rescues his father, providing the religious-etymological basis for the high value placed on male progeny in the inheritance chapters.",
+      "justification": "Chapter 15 explicitly names Put as the hell associated with the etymology of putra, linking the legal importance of sons to a specific soteriological geography."
+    },
+    {
+      "canonical_name": "Dhara (Earth)",
+      "surface_names": ["Dhara", "O Earth", "O you of enchanting mind"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-d323ca", "quote": "With unwavering minds, they should console those afflicted with grief for their deceased relatives, With such words, O Earth, as I shall now declare to you, O you of enchanting mind.", "role": "divine interlocutor to whom Vishnu addresses consolation teaching"},
+        {"paragraph_id": "p-9d11b3", "quote": "This supreme secret has been told to you, O Dhara.", "role": "named recipient of the entire Dharmaśāstra"}
+      ],
+      "description": "Dhara (Earth) is the divine female interlocutor to whom Vishnu (the speaker) addresses the entire Dharmaśāstra, framing the work as a divine revelation to the Earth goddess.",
+      "justification": "Chapter 19 and 100 both directly address Dhara/Earth as the recipient of Vishnu's teaching, establishing her as the structuring narrative addressee of the entire Vishnu Smriti."
+    },
+    {
+      "canonical_name": "Preta (departed spirit)",
+      "surface_names": ["preta", "departed spirit", "world of the pretas"],
+      "kind": "figure",
+      "figure_kind": "figure",
+      "mentions": [
+        {"paragraph_id": "p-b44952", "quote": "Before the sapiṇḍīkaraṇa (the rite uniting the deceased with the ancestors), he who has died becomes a preta (a departed spirit); To him who has gone to the world of the pretas, give food and a pitcher of water.", "role": "intermediate state of the recently deceased before ancestor-union rite"}
+      ],
+      "description": "The preta is the intermediate spirit-state of the recently deceased before the sapiṇḍīkaraṇa rite unites them with the ancestors, requiring food and water offerings to ease their passage.",
+      "justification": "Chapter 20 explicitly defines the preta state and its ritual requirements, making it a distinct ontological category within the text's eschatological framework."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Varṇa hierarchy as the organizing principle of law",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-d5eb8e", "quote": "Two, three, four, and five percent per month, in order of the varṇas."},
+        {"paragraph_id": "p-0618d5", "quote": "For triple the amount, for a Rājanya (Kṣatriya)."},
+        {"paragraph_id": "p-30ccb3", "quote": "If a Brāhmaṇa has sons in the four varṇas, they shall divide the paternal estate into ten parts."}
+      ],
+      "justification": "Interest rates, ordeal thresholds, and inheritance shares are all calibrated according to the four-fold varṇa order, making caste the fundamental structuring variable of the entire legal system across Chapters 6–18."
+    },
+    {
+      "topic": "Truth (satya) as the cosmic and juridical foundation",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-b93e4f", "quote": "By truth the sun shines."},
+        {"paragraph_id": "p-9878a2", "quote": "A thousand horse-sacrifices and Truth were weighed in a balance; Truth indeed outweighed a thousand horse-sacrifices."},
+        {"paragraph_id": "p-8d03ed", "quote": "And witnesses are purified by truth."}
+      ],
+      "justification": "Chapter 8's extended hymn to truth (Vi_8.27–36) anchors the entire witness and ordeal system in a cosmic principle, making truth not merely a legal standard but the foundation of cosmic order."
+    },
+    {
+      "topic": "Ordeal (divyā) as a divinely mediated juridical mechanism",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-33c359", "quote": "Now, the ordeals (samayakriyā)."},
+        {"paragraph_id": "p-080efd", "quote": "O Fire, you move within all beings as a witness. You alone, O Fire, know what mortals do not know."},
+        {"paragraph_id": "p-b2d43e", "quote": "O Water, you move within all beings as a witness. You alone, O Water, know what mortals do not know."},
+        {"paragraph_id": "p-a04a55", "quote": "Because you are poison, and because you are harsh, you are cruel to all living beings. You alone, O Poison, know what mortals do not know."}
+      ],
+      "justification": "Chapters 9–14 construct ordeals as invocations of cosmic elements (fire, water, poison, the balance) as divine witnesses, framing legal truth-finding as a process of divine revelation rather than merely human judgment."
+    },
+    {
+      "topic": "Debt, suretyship, and contractual obligation",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-de8d90", "quote": "Now, a creditor shall take from a debtor the sum as it was lent."},
+        {"paragraph_id": "p-77ff2a", "quote": "Suretyship is ordained for appearance, for confidence, and for payment."},
+        {"paragraph_id": "p-6bdc01", "quote": "Whatever sum a surety, pressed by the creditor, has to pay, The debtor is obliged to pay double that amount to the surety."}
+      ],
+      "justification": "Chapter 6 is entirely devoted to the law of debt, establishing rules for interest, pledge, suretyship, and document evidence, forming the core of the text's commercial law."
+    },
+    {
+      "topic": "Filiation and the twelve types of sons",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-4b85a2", "quote": "Now, there are twelve kinds of sons."},
+        {"paragraph_id": "p-c6187a", "quote": "Because a son (suta) rescues (trāyate) his father from the hell called Put, Therefore he is called putra by the Self-existent himself."},
+        {"paragraph_id": "p-a50067", "quote": "A father settles his debt on his son and attains immortality, If he sees the face of his living, new-born son."}
+      ],
+      "justification": "Chapter 15 enumerates twelve categories of sons with a precise hierarchy, grounding this legal taxonomy in soteriology: the son's primary value is rescuing the father from hell and enabling his immortality."
+    },
+    {
+      "topic": "Impermanence of all beings and the inevitability of death",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-807517", "quote": "Many thousands of Indras and myriads of Daitya-lords Have been destroyed by time; what then is to be said of men?"},
+        {"paragraph_id": "p-b902fb", "quote": "For one who is born, death is certain, and for one who has died, birth is certain; In this unavoidable matter, there is no help in this world."},
+        {"paragraph_id": "p-8acb21", "quote": "Just as in this body, the embodied soul passes through childhood, youth, and old age, So it passes into another body; a wise man is not deluded by this."}
+      ],
+      "justification": "Chapter 20 is structured as a philosophical consolation on impermanence, drawing on cosmological time-cycles, the soul's transmigration (an echo of Bhagavad Gītā imagery), and the fate of gods and sages to argue against grief."
+    },
+    {
+      "topic": "Cosmic time cycles (yugas, Kalpas, Manvantaras)",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-40c18a", "quote": "Twelve hundred divine years are the Kali Yuga."},
+        {"paragraph_id": "p-542dc4", "quote": "Seventy-one Catur-yugas are a Manvantara."},
+        {"paragraph_id": "p-07c03d", "quote": "A thousand Catur-yugas are a Kalpa."}
+      ],
+      "justification": "Chapter 20 opens with a systematic exposition of cosmic time, from divine years through yugas, Manvantaras, and Kalpas up to Brahma's lifespan and Puruṣa's day, providing the cosmological scaffolding for the impermanence argument."
+    },
+    {
+      "topic": "Funeral rites, ritual impurity (āśauca), and obligations to the dead",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-4ade4a", "quote": "Having carried out and cremated a deceased kinsman, they shall go to the funeral pyre without circumambulating it and shall immerse themselves in water with their clothes on."},
+        {"paragraph_id": "p-eaf423", "quote": "Their immersion is in the water of the Ganges."},
+        {"paragraph_id": "p-b44952", "quote": "Before the sapiṇḍīkaraṇa (the rite uniting the deceased with the ancestors), he who has died becomes a preta (a departed spirit); To him who has gone to the world of the pretas, give food and a pitcher of water."}
+      ],
+      "justification": "Chapter 19 details a complete funeral protocol including cremation, bone-collection, Ganges immersion, the āśauca period, and required rites, connecting legal obligations to the dead with soteriological outcomes."
+    },
+    {
+      "topic": "Inheritance and partition of family property",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-5b71a3", "quote": "The property of a man without a son goes to his wife."},
+        {"paragraph_id": "p-66c4dc", "quote": "What is given by a father, mother, son, or brother; what is received at the nuptial fire; a gift on supersession; what is given by kinsmen; the bride-price; and a subsequent gift—this is strīdhana (a woman's exclusive property)."},
+        {"paragraph_id": "p-a13d89", "quote": "What a man acquires by his own labor without diminishing the paternal property, That, being acquired by his own effort, he is not obliged to give against his will."}
+      ],
+      "justification": "Chapters 17–18 constitute a detailed inheritance code covering default succession order, strīdhana, self-acquired property, and the mechanics of share calculation across single and mixed-varṇa families."
+    },
+    {
+      "topic": "Mixed-caste (varṇasaṅkara) origins and occupational assignments",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-fb784a", "quote": "Therein, the son of a Vaiśyā by a Śūdra is an āyogava."},
+        {"paragraph_id": "p-07d758", "quote": "And the caṇḍāla, the vaidehaka, and the sūta are the sons of a Brāhmaṇī by a Śūdra, a Vaiśya, and a Kṣatriya respectively."},
+        {"paragraph_id": "p-b86ab1", "quote": "These castes born of mixed unions, as shown by their fathers and mothers, Whether hidden or manifest, are to be known by their occupations."}
+      ],
+      "justification": "Chapter 16 taxonomizes the offspring of reverse-order (pratiloma) unions by naming each mixed caste and assigning each a hereditary occupation, grounding social identity in both biological descent and occupational role."
+    },
+    {
+      "topic": "Dharma as the sole companion after death",
+      "implicit": true,
+      "mentions": [
+        {"paragraph_id": "p-fda065", "quote": "Dharma alone follows him, wherever he may go; Indeed, in this insubstantial world of men, perform dharma without delay."},
+        {"paragraph_id": "p-314a0e", "quote": "Seeing the world without a protector and relatives dying, O men, always choose dharma alone for your companion."},
+        {"paragraph_id": "p-e6d4f2", "quote": "He whose two companions, good and evil deeds, go with him, What use has he of relatives, whether they grieve or not?"}
+      ],
+      "justification": "Chapter 20's consolation discourse repeatedly shifts from cosmological impermanence to an implicit exhortation: since nothing else survives death, dharma becomes the only meaningful investment, an implicit theological argument underlying the entire Dharmaśāstra project."
+    },
+    {
+      "topic": "Transmigration of the soul (ātman)",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-8acb21", "quote": "Just as in this body, the embodied soul passes through childhood, youth, and old age, So it passes into another body; a wise man is not deluded by this."},
+        {"paragraph_id": "p-2dfc85", "quote": "Just as a man, having cast off his old clothes, takes on new ones, So the embodied soul takes on a new body, determined by its deeds."},
+        {"paragraph_id": "p-62a4ac", "quote": "Weapons do not cut it, fire does not burn it, Waters do not wet it, nor does the wind dry it."}
+      ],
+      "justification": "Chapter 20 closes with extended verses on the indestructible ātman and its passage through bodies, language that directly parallels the Bhagavad Gītā (BhG 2.20–23), embedding Sāṃkhya-Vedānta soteriology within a dharmaśāstra context."
+    },
+    {
+      "topic": "The Brāhmaṇa as visible divinity",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-ac3d18", "quote": "The gods are invisible gods; Brāhmaṇas are visible gods."},
+        {"paragraph_id": "p-b1ef74", "quote": "The worlds are supported by Brāhmaṇas."},
+        {"paragraph_id": "p-4ea19b", "quote": "What Brāhmaṇas, being most pleased, declare, that the deities applaud; When the visible gods are pleased, the invisible gods are ever pleased."}
+      ],
+      "justification": "Chapter 19 explicitly theologizes the Brāhmaṇa's social supremacy by identifying them as visible gods who mediate between the human world and the invisible divine, grounding legal privileges in a cosmological rationale."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Bhagavad Gītā (implied)",
+      "cited_author": "unknown",
+      "stance": "extend",
+      "paragraph_id": "p-62a4ac",
+      "quote": "Weapons do not cut it, fire does not burn it, Waters do not wet it, nor does the wind dry it.",
+      "justification": "This verse closely parallels Bhagavad Gītā 2.23 ('nainaṃ chindanti śastrāṇi nainaṃ dahati pāvakaḥ'), indicating a textual relationship in which the Vishnu Smriti either cites or shares a common source with the Gītā's ātman doctrine, extending the philosophical argument into a dharmaśāstra consolation context."
+    }
+  ]
+}

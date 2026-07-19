@@ -1,0 +1,231 @@
+---
+work_id: "d8cb694b-592d-5e56-801e-f095a302cbd1"
+work_slug: mahabharata
+work_title: Mahābhārata
+author_name: Vyāsa
+chapter_number: 17
+chapter_title: Parva 17
+chapter_slug: "17-parva-17"
+variant_id: "58e03e97-2f5a-5f83-aed7-d92f75be5b14"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 2752
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
+translator: thothica
+---
+
+**17.1.1**  Janamejaya said: Having thus heard of the slaughter at the iron clubs among the houses of the Vṛṣṇis and Andhakas, what did the Pāṇḍavas do when Kṛṣṇa too had gone to heaven?
+
+**17.1.2**  Vaiśaṃpāyana said: The moment the Kaurava king heard of the great destruction of the Vṛṣṇis, he set his mind upon departure and spoke these words to Arjuna.
+
+**17.1.3**  Time ripens all created beings, O greatly wise one. I deem it fit that we lay down our deeds, and you too should recognize this.
+
+**17.1.4**  So addressed, the valiant son of Kuntī, murmuring "Time, it is Time," assented to the words of his eldest brother.
+
+**17.1.5**  Learning Arjuna's resolve, Bhīmasena and the twins also assented to the words that Savyasācin had spoken.
+
+**17.1.6**  Then Yudhiṣṭhira, summoning Yuyutsu and desiring to set forth in pursuit of dharma, made over the whole kingdom to that son born of a vaiśya woman.
+
+**17.1.7**  Having consecrated Parīkṣit as king over his own realm, the eldest of the Pāṇḍavas, the king, sorely grieved, spoke to Subhadrā.
+
+**17.1.8**  This son of your son shall be the king of the Kurus; and Vajra, the survivor of the Yadus, has been made king.
+
+**17.1.9**  Parīkṣit shall reign at Hāstinapura and the Yādava at Śakraprastha; Vajra the king is to be guarded by you. Set not your mind upon unrighteousness.
+
+**17.1.10**  Having spoken thus, the Dharma King performed, for the wise Vāsudeva, for his aged maternal uncle, and likewise for Rāma and the others,
+
+**17.1.11**  together with the mothers, the righteous one, unwearied, offered the water-libations, and then duly performed the funerary rites in honour of them all.
+
+**17.1.12**  He gave to the foremost of the twice-born jewels, garments, villages, horses, chariots, and women, and cows by the hundreds of thousands.
+
+**17.1.13**  Honouring the preceptor Kṛpa with wealth and high regard, the best of the Bhāratas entrusted Parīkṣit to him as his pupil.
+
+**17.1.14**  Then the royal sage Yudhiṣṭhira, having assembled all his subjects, declared to them his whole intended purpose.
+
+**17.1.15**  The people of the city and countryside, hearing his words, were sorely troubled in mind and did not welcome that speech.
+
+**17.1.16**  "This ought not to be done," they said then to the lord of men; but the king, who knew the law of the turning of Time, did not act otherwise.
+
+**17.1.17**  Then the righteous one, having taken leave of the people of city and country, set his mind upon departure, and so too did his brothers.
+
+**17.1.18**  Then that Kaurava king, Yudhiṣṭhira the son of Dharma, casting the ornaments from his limbs, took up garments of bark.
+
+**17.1.19**  Bhīma and Arjuna, the twins, and the illustrious Draupadī—all of them likewise took up the bark garments, O lord of men.
+
+**17.1.20**  Having duly performed the final sacrifice, O bull of the Bhāratas, and cast their sacred fires into the waters, those bulls among men set forth.
+
+**17.1.21**  Then all the women wept aloud, seeing those bulls among men setting forth with Draupadī as the sixth, as of old when they had been beaten at the dice.
+
+**17.1.22**  But joy arose in all the brothers at the prospect of departure, knowing Yudhiṣṭhira's resolve and beholding the destruction of the Vṛṣṇis.
+
+**17.1.23**  The five brothers, with Kṛṣṇā as the sixth and a dog as the seventh—the king himself thus the seventh—set out from the City named for the Elephant, followed far by the citizens and by all the women of the inner apartments.
+
+**17.1.24**  None could bring himself to say to him, "Turn back"; and then all the men dwelling in the city returned.
+
+**17.1.25**  Kṛpa and the others gathered about Yuyutsu; and Ulūpī, the daughter of the serpent, entered the Gaṅgā, O Kaurava.
+
+**17.1.26**  Citrāṅgadā too went away towards the city of Maṇipūra, while the other mothers who remained gathered about Parīkṣit.
+
+**17.1.27**  And the great-souled Pāṇḍavas and the illustrious Draupadī, having undertaken their fasts, O Kaurava, then set forth facing the east.
+
+**17.1.28**  Yoked in yoga, those great-souled ones who had embraced the dharma of renunciation traversed many lands, rivers, and mountains.
+
+**17.1.29**  Yudhiṣṭhira went in front, Bhīma next after him, Arjuna following him, and the twins in their order.
+
+**17.1.30**  And behind them went Draupadī, the fair-hipped, dark-hued, lotus-petal-eyed, best of women, O best of the Bhāratas.
+
+**17.1.31**  And a single dog followed the Pāṇḍavas as they set forth into the forest. Step by step those heroes journeyed to the Lauhitya, the watery ocean.
+
+**17.1.32**  Dhanaṃjaya did not relinquish the divine bow Gāṇḍīva, nor, out of attachment to those treasures, the two inexhaustible great quivers, O great king.
+
+**17.1.33**  There they beheld Agni standing before them like a mountain, barring their path, present in bodily human form.
+
+**17.1.34**  Then that god of the seven flames spoke this to the Pāṇḍavas: "Ho, ho, heroic sons of Pāṇḍu! Know me to be Pāvaka, the Fire."
+
+**17.1.35**  "Mighty-armed Yudhiṣṭhira, Bhīmasena scorcher of foes, Arjuna, and you two heroic sons of the Aśvins—heed my words."
+
+**17.1.36**  "I am Agni, O best of the Kurus, and by me was the Khāṇḍava forest consumed, through the might of Arjuna and likewise of Nārāyaṇa."
+
+**17.1.37**  "Let this your brother Phalguna give up the supreme weapon Gāṇḍīva and proceed into the forest; there is no longer any need of it."
+
+**17.1.38**  "That jewel of a discus which rested in the hand of the great-souled Kṛṣṇa has departed, and in time it shall come again into his grasp."
+
+**17.1.39**  "This Gāṇḍīva, best of bows, was formerly brought by me from Varuṇa for Pārtha's sake; let it now be given back to Varuṇa."
+
+**17.1.40**  Then all the brothers urged Dhanaṃjaya, and he cast into the water both the bow and the two inexhaustible great quivers.
+
+**17.1.41**  Then Agni, O best of the Bhāratas, vanished on the very spot; and the heroic Pāṇḍavas went on thereafter, facing southward.
+
+**17.1.42**  Then, along the northern shore of the salt sea, O tiger of the Bhāratas, they journeyed towards the south-western quarter.
+
+**17.1.43**  Then, turning again, they came to the western quarter, and there they saw Dvārakā engulfed by the ocean.
+
+**17.1.44**  Turning once more to the north, those best of the Bhāratas, devoted to the discipline of yoga, journeyed on, desiring to make their circumambulation of the earth.
+
+**17.2.1**  Vaiśaṃpāyana said: Then those self-controlled ones, holding to the northern quarter and yoked in yoga, beheld the great mountain Himavat.
+
+**17.2.2**  And as they crossed beyond it, they beheld a sea of sand, and they gazed upon the great mountain Meru, best of all peaks.
+
+**17.2.3**  As all of them, devoted to the discipline of yoga, were going swiftly on, Yājñasenī, her yoga fallen away, dropped down upon the earth.
+
+**17.2.4**  Seeing her fallen, the mighty Bhīmasena, looking upon Yājñasenī, spoke to the Dharma King.
+
+**17.2.5**  "No unrighteousness has been done by the princess, O scorcher of foes. What then is the cause, O king, that Kṛṣṇā has fallen to the ground?"
+
+**17.2.6**  Yudhiṣṭhira said: Great was her partiality, especially towards Dhanaṃjaya. The fruit of that she now reaps today, O best of men.
+
+**17.2.7**  Vaiśaṃpāyana said: Having spoken thus, the king, the son of Dharma, went on without looking back at her—the wise, righteous bull among men, his mind firmly fixed.
+
+**17.2.8**  Then the wise Sahadeva fell down upon the earth; and seeing him too fallen, Bhīma spoke to the king.
+
+**17.2.9**  "He who was ever attentive in serving us all, and free of pride—this son of Mādravatī, why has he fallen to the ground?"
+
+**17.2.10**  Yudhiṣṭhira said: He thought none so wise as himself. By that fault has this prince fallen.
+
+**17.2.11**  Vaiśaṃpāyana said: Having spoken thus and left Sahadeva behind, the son of Kuntī, Yudhiṣṭhira, then went on together with his brothers and the dog.
+
+**17.2.12**  Seeing Kṛṣṇā fallen and the Pāṇḍava Sahadeva likewise, the heroic Nakula, who loved his kinsmen, sank down stricken with grief.
+
+**17.2.13**  When that hero Nakula of fair aspect had fallen, Bhīma once more spoke this to the king.
+
+**17.2.14**  "This brother of unblemished righteousness, ever obedient to our word, unmatched in beauty in the world—Nakula has fallen to the ground."
+
+**17.2.15**  Thus addressed by Bhīmasena, the righteous Yudhiṣṭhira, best of all the wise, replied concerning Nakula.
+
+**17.2.16**  "'In beauty none is equal to me'—such was his view; and 'I alone am surpassing'—this stood fixed in his mind."
+
+**17.2.17**  "For that reason has Nakula fallen. Come on, O Vṛkodara. Whatever is ordained for a man, that he must surely undergo, O hero."
+
+**17.2.18**  Seeing them fallen, the Pāṇḍava of the white steeds, the slayer of hostile heroes, then in his turn sank down, consumed with grief.
+
+**17.2.19**  When that tiger among men, of Indra's splendour, the unassailable one, had fallen and lay dying, Bhīma spoke to the king.
+
+**17.2.20**  "I do not recall a single falsehood of this great-souled one, not even in jest. What then is the fault by which he has fallen to the ground?"
+
+**17.2.21**  Yudhiṣṭhira said: "In a single day I shall burn up my foes," so Arjuna said; yet he did not accomplish it. Proud of his prowess, he therefore fell.
+
+**17.2.22**  And this Phalguna held in contempt all other bowmen. One who desires prosperity should do even as he has said.
+
+**17.2.23**  Vaiśaṃpāyana said: Having spoken thus, the king went on; and then Bhīma fell down. Fallen, Bhīma spoke to the Dharma King Yudhiṣṭhira.
+
+**17.2.24**  "Ho, ho, O king! Look back—I, your beloved, have fallen. And tell me the cause of my fall, if you know it."
+
+**17.2.25**  Yudhiṣṭhira said: You ate to excess, and you boasted of your strength; and you took no heed of others, O Pārtha. For that you have fallen to the earth.
+
+**17.2.26**  Vaiśaṃpāyana said: Having spoken thus to him, the mighty-armed one went on without looking back; and only the dog followed him—that dog whom I have so often mentioned to you.
+
+**17.3.1**  Vaiśaṃpāyana said: Then Śakra, making heaven and earth resound on every side, came near to Pārtha with his chariot and said to him, "Mount up."
+
+**17.3.2**  Seeing his brothers fallen, the Dharma King Yudhiṣṭhira, consumed with grief, spoke this word to the Thousand-eyed one.
+
+**17.3.3**  "My brothers have fallen here; let them come with me. Without my brothers I do not wish to go to heaven, O lord of the gods."
+
+**17.3.4**  "The princess too, so delicate and worthy of every comfort, O Purandara—let her come with us; may you grant this."
+
+**17.3.5**  Indra said: Your brothers and your sons, who have gone before to the third heaven, you shall behold—all of them, together with Kṛṣṇā. Grieve not, O bull of the Bhāratas.
+
+**17.3.6**  Having laid aside their human bodies, they have gone there, O bull of the Bhāratas; but you shall go to heaven in this very body—of that there is no doubt.
+
+**17.3.7**  Yudhiṣṭhira said: This dog, O lord of what is and what shall be, has been devoted to me always. Let him go along with me, for my mind is set on freedom from cruelty.
+
+**17.3.8**  Indra said: Immortality and equality with myself, O king, and prosperity entire and vast, and renown, and the joys of heaven you have now attained today. Abandon the dog; in this there is no cruelty.
+
+**17.3.9**  Yudhiṣṭhira said: An ignoble deed is hard for a noble man to do, O thousand-eyed and noble one. Let me have no union with that prosperity for whose sake I must forsake one who is devoted to me.
+
+**17.3.10**  Indra said: In the world of heaven there is no abode for those who keep a dog; the Krodhavaśas carry off the merit of sacrifice and pious works. Therefore, having considered, do as is fitting, O Dharma King: abandon the dog; in this there is no cruelty.
+
+**17.3.11**  Yudhiṣṭhira said: They declare the abandonment of one who is devoted to be a most grievous sin, equal in the world to the crime of slaying a brahmin. Therefore, O great Indra, never, in any way, will I today forsake this one for the sake of my own happiness.
+
+**17.3.12**  Indra said: Whatever is given, offered in sacrifice, set forth openly, or poured into the fire — the Krodhavaśas carry it off if it has been looked upon by a dog. Therefore make this abandonment of the dog; by abandoning the dog you shall attain the world of the gods.
+
+**17.3.13**  Having forsaken your brothers and even your beloved Kṛṣṇā, O hero, you have won this world by your own deeds. How then do you not forsake this dog? Established in renunciation entire, why are you bewildered now?
+
+**17.3.14**  Yudhiṣṭhira said: With mortals who are dead there can be neither alliance nor enmity — such is the settled truth among men in the world. I had no power to bring them back to life; therefore my forsaking of them was the forsaking of the dead, not of the living.
+
+**17.3.15**  The surrendering back of one who has come for refuge, the slaying of a woman, the seizing of a brahmin's wealth, the betrayal of a friend — these four, O Śakra, and the abandonment of one devoted, I hold to be equal.
+
+**17.3.16**  Vaiśaṃpāyana said: Having heard that speech of the King of Righteousness, the blessed one — Dharma himself in bodily form — spoke to Yudhiṣṭhira, lord of men, filled with affection, in gentle words joined with praise.
+
+**17.3.17**  You are nobly born, O king of kings, in the conduct of your father and in wisdom, and in this compassion of yours toward all beings, O Bhārata.
+
+**17.3.18**  Once before, in the Dvaita forest, you were tested by me, my son, where your brothers, striving for the sake of water, were struck down.
+
+**17.3.19**  There, setting aside both your brothers Bhīma and Arjuna, desiring equity between your two mothers, you wished that Nakula should live.
+
+**17.3.20**  "This dog is devoted to me" — for this very reason you have refused the celestial chariot. Therefore, O ruler of men, there is none in heaven equal to you.
+
+**17.3.21**  Hence imperishable worlds are yours in your own body, O Bhārata; you have attained, O best of the Bhāratas, a divine and unsurpassed destiny.
+
+**17.3.22**  Then Dharma and Śakra, the Maruts too and the Aśvins, the gods and the divine sages, having set the son of Pāṇḍu upon the chariot —
+
+**17.3.23**  — set forth in their own celestial cars, those perfected ones who move at will, all free from passion, holy, pure in speech and thought and deed.
+
+**17.3.24**  Mounting that chariot, the king who upheld the line of the Kurus rose swiftly upward, enveloping heaven and earth with his splendor.
+
+**17.3.25**  Then Nārada, knower of all worlds, standing amid the host of the gods, eloquent of speech and mighty in austerity, spoke aloud these words:
+
+**17.3.26**  Even all those royal sages who are gathered here — the king of the Kurus surpasses them, eclipsing their renown.
+
+**17.3.27**  Having pervaded the worlds with his fame, his splendor, and the richness of his conduct, having come hither in his own body — of none other than the son of Pāṇḍu have we ever heard such a thing.
+
+**17.3.28**  Hearing the words of Nārada, the king of righteous soul addressed the gods, and the kings of his own party as well, and spoke this speech:
+
+**17.3.29**  Be it good or be it evil, whatever the abode of my brothers, that alone do I now wish to attain; other worlds I do not desire.
+
+**17.3.30**  Hearing the king's speech, so full of compassion, the king of the gods, Puraṃdara, replied to Yudhiṣṭhira:
+
+**17.3.31**  Dwell in this abode, O king of kings, won by your auspicious deeds. Why do you still drag along with you this human attachment?
+
+**17.3.32**  You have attained the supreme perfection, as no other man has ever anywhere attained it. Your brothers have not reached this abode, O delight of the Kurus.
+
+**17.3.33**  Even now the human condition clings to you, O ruler of men. This is heaven — behold the divine sages and the perfected ones who dwell in the third heaven.
+
+**17.3.34**  But the wise Yudhiṣṭhira, to the lord Indra of the gods who spoke thus, again spoke these meaningful words:
+
+**17.3.35**  Without them I have no will to dwell here, O slayer of the Daityas. I wish to go there, to where my brothers have gone,
+
+**17.3.36**  and to where that stately dark-hued lady, endowed with wisdom and goodness and every virtue, Draupadī, best of women, my beloved, has gone.

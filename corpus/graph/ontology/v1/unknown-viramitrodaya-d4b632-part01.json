@@ -1,0 +1,754 @@
+{
+  "slug": "unknown-viramitrodaya-d4b632",
+  "window": "01:0-63",
+  "entities": [
+    {
+      "canonical_name": "Gaṇeśa",
+      "surface_names": ["Heramba", "Gaṇeśa"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-95a5d4",
+          "quote": "Salutations to the glorious Gaṇeśa.",
+          "role": "invocation"
+        },
+        {
+          "paragraph_id": "p-00bba0",
+          "quote": "May Heramba (Gaṇeśa), who has begun His great plunge into the great ocean, submerging His temples, and who is praised, as it were, by the sky-flooding serpents, agitated by the flapping of His trunk",
+          "role": "maṅgalaśloka subject"
+        }
+      ],
+      "description": "Elephant-headed deity invoked in the opening salutation and benedictory verse of the Vīramitrodaya.",
+      "justification": "Named explicitly in the opening salutation (p-95a5d4) and described by his epithet Heramba with his characteristic elephant features in p-00bba0."
+    },
+    {
+      "canonical_name": "Nṛsiṃha",
+      "surface_names": ["Nṛhari", "Man-Lion", "Nṛsiṃha"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-5c83f5",
+          "quote": "May that unprecedented body of the Man-Lion (Nṛhari) protect us",
+          "role": "maṅgalaśloka subject"
+        },
+        {
+          "paragraph_id": "p-31204a",
+          "quote": "May that Nṛsiṃha, whose great and furious impetuosity is kindled by the great demon's attack",
+          "role": "maṅgalaśloka subject"
+        },
+        {
+          "paragraph_id": "p-23d44c",
+          "quote": "King Vīrasiṃha, a veritable Nṛsiṃha (Man-Lion), came to be.",
+          "role": "royal epithet comparison"
+        }
+      ],
+      "description": "Theriomorphic lion-man deity of Viṣṇu, featured prominently in opening benedictory verses and used as an epithet for King Vīrasiṃha.",
+      "justification": "Described as Man-Lion (Nṛhari/Nṛsiṃha) with his characteristic mane and fury in paragraphs p-5c83f5 and p-31204a; also referenced in the calendar section as Narasiṃha Caturdaśī (p-fc3a75)."
+    },
+    {
+      "canonical_name": "Kṛṣṇa",
+      "surface_names": ["flute-bearer", "Kṛṣṇa"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-4f450f",
+          "quote": "May that flute-bearer, who delights in dallying with Rādhā, grant you abundant and lasting well-being",
+          "role": "maṅgalaśloka subject"
+        },
+        {
+          "paragraph_id": "p-fc3a75",
+          "quote": "Afterwards, Kṛṣṇa's birthday (Janmāṣṭamī) is ascertained in detail.",
+          "role": "festival reference"
+        }
+      ],
+      "description": "The flute-bearing deity Kṛṣṇa, invoked in the opening verses and whose birthday festival Janmāṣṭamī is listed in the treatise's scope.",
+      "justification": "Identified as flute-bearer who sports with Rādhā in p-4f450f, and his birthday Janmāṣṭamī is listed as a subject of the Kālaprakāśa in p-fc3a75."
+    },
+    {
+      "canonical_name": "Śiva",
+      "surface_names": ["Dhūrjjaṭi", "Rudra", "Smara's destroyer", "Śiva", "Īśa"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-af29c8",
+          "quote": "May that dancing Dhūrjjaṭi (Śiva) protect you—who, by the playful, wandering, and spreading expanse of His dance, agitates His beloved other half",
+          "role": "maṅgalaśloka subject"
+        },
+        {
+          "paragraph_id": "p-bbf6fa",
+          "quote": "From Malakhāna was born Pratāparudra, who was like Rudra (Śiva) in the three worlds through his valor.",
+          "role": "comparison for royal epithet"
+        },
+        {
+          "paragraph_id": "p-38",
+          "quote": "Smara's destroyer (Śiva) became five-faced",
+          "role": "hyperbolic praise"
+        }
+      ],
+      "description": "Śiva, the dancing destroyer god, invoked in a maṅgalaśloka and alluded to throughout in royal eulogies via epithets.",
+      "justification": "Described by his epithet Dhūrjjaṭi (matted-hair one) dancing with his consort in p-af29c8; mentioned as Rudra in the royal genealogy comparison at p-bbf6fa; appears again in the Narasiṃha-caturdaśī context."
+    },
+    {
+      "canonical_name": "Durgā",
+      "surface_names": ["Durgā", "the Goddess", "She who sees the three worlds"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-faa50f",
+          "quote": "She who sees the three worlds all at once with Her three eyes, and protects the ten directions with Her ten arms; who places one foot upon the lion and the other upon the highest realm; who has slain",
+          "role": "maṅgalaśloka subject"
+        }
+      ],
+      "description": "Ten-armed, three-eyed goddess who rides a lion and is celebrated as slayer of the buffalo demon, invoked in an opening benedictory verse.",
+      "justification": "Described with her iconographic attributes—three eyes, ten arms, lion mount, slayer of Mahiṣa—in the opening maṅgalaśloka at p-faa50f."
+    },
+    {
+      "canonical_name": "Vīrasiṃha",
+      "surface_names": ["Vīrasiṃha", "King Vīrasiṃha", "Vīra", "lion among kings"],
+      "kind": "figure",
+      "figure_kind": "human",
+      "mentions": [
+        {
+          "paragraph_id": "p-7d88c6",
+          "quote": "{MV-S_3}",
+          "role": "section marker"
+        },
+        {
+          "paragraph_id": "p-71cae0",
+          "quote": "King Vīrasiṃha, a veritable Nṛsiṃha (Man-Lion), came to be.",
+          "role": "royal subject"
+        },
+        {
+          "paragraph_id": "p-40368d",
+          "quote": "The generosity of King Vīrasiṃha, who surpassed a lion in valor—what was not superior to what?",
+          "role": "panegyric"
+        },
+        {
+          "paragraph_id": "p-1e5aa7",
+          "quote": "When King Vīrasiṃha, a lion among men, displays the force of his generosity, he considers the ocean a mere drop of water",
+          "role": "panegyric"
+        },
+        {
+          "paragraph_id": "p-dc3c76",
+          "quote": "When he makes a great circle of his mighty bow, Vīrasiṃha is the Pāṇḍava (Arjuna)",
+          "role": "comparison"
+        },
+        {
+          "paragraph_id": "p-df685c",
+          "quote": "the meritorious Vīrasiṃha, his own form merging into Brahman, himself remained without attributes (nirguṇa).",
+          "role": "death notice"
+        },
+        {
+          "paragraph_id": "p-eabeb6",
+          "quote": "By the command of the glorious Vīrasiṃha, which brought hundreds of desired tasks to swift completion, the learned Mitra Miśra composed the glorious Vīramitrodaya",
+          "role": "patron"
+        },
+        {
+          "paragraph_id": "p-9029cc",
+          "quote": "the jewel among scholars, Mitra Miśra, at the behest of the glorious King Vīrasiṃha, composes the Samayaprakāśa",
+          "role": "patron"
+        }
+      ],
+      "description": "The royal patron who commissioned the Vīramitrodaya; a king in the Orchha (Bundela) lineage praised throughout the opening eulogies and explicitly named as the work's sponsor.",
+      "justification": "Named repeatedly as the patron at whose command Mitra Miśra composed the text (p-eabeb6, p-9029cc) and eulogized in multiple verses (p-71cae0 through p-df685c)."
+    },
+    {
+      "canonical_name": "Mitra Miśra",
+      "surface_names": ["Mitra Miśra", "the learned Mitra Miśra", "jewel among scholars"],
+      "kind": "figure",
+      "figure_kind": "human",
+      "mentions": [
+        {
+          "paragraph_id": "p-55b2d2",
+          "quote": "From that Paraśurāma Miśra—a repository of brilliant fame, a repository of flawless knowledge, a repository of beautiful poetry, a repository of smṛti (sacred tradition)",
+          "role": "genealogical subject (father)"
+        },
+        {
+          "paragraph_id": "p-eabeb6",
+          "quote": "the learned Mitra Miśra composed the glorious Vīramitrodaya in the city of the destroyer of cities (Vārāṇasī)",
+          "role": "author"
+        },
+        {
+          "paragraph_id": "p-9029cc",
+          "quote": "the jewel among scholars, Mitra Miśra, at the behest of the glorious King Vīrasiṃha, composes the Samayaprakāśa",
+          "role": "author"
+        }
+      ],
+      "description": "The author of the Vīramitrodaya and its chapter Samayaprakāśa, son of Paraśurāma Miśra, working at Vārāṇasī at the command of King Vīrasiṃha.",
+      "justification": "Identified explicitly as the author who compiled the work from smṛti sources at p-eabeb6 and p-9029cc, and his lineage is traced from Haṃsa through Paraśurāma in paragraphs p-48d9f4 through p-55b2d2."
+    },
+    {
+      "canonical_name": "Paraśurāma Miśra",
+      "surface_names": ["Paraśurāma Miśra"],
+      "kind": "figure",
+      "figure_kind": "human",
+      "mentions": [
+        {
+          "paragraph_id": "p-c50ece",
+          "quote": "From him, like fire from kindling-wood, was born Paraśurāma Miśra, a man of unequalled majesty, a crest-jewel of kings, a frown to the name of the earth-bearers.",
+          "role": "genealogical subject"
+        },
+        {
+          "paragraph_id": "p-0321b3",
+          "quote": "Having gone in ancient times to the city of the enemy of the cities (Vārāṇasī), he acquired flawless knowledge, obtaining the glorious Caṇḍīśvara, a jewel among Agnihotrins, as his weighty preceptor.",
+          "role": "scholarly lineage"
+        }
+      ],
+      "description": "Father of Mitra Miśra, a learned Brahmin scholar who studied under the preceptor Caṇḍīśvara at Vārāṇasī.",
+      "justification": "Described as born from Haṃsa and father of Mitra Miśra in p-c50ece; his own scholarly formation at Vārāṇasī under Caṇḍīśvara is given in p-0321b3."
+    },
+    {
+      "canonical_name": "Haṃsa",
+      "surface_names": ["Haṃsa", "the learned Haṃsa", "Haṃsa Paṇḍita"],
+      "kind": "figure",
+      "figure_kind": "human",
+      "mentions": [
+        {
+          "paragraph_id": "p-28dc92",
+          "quote": "In the illustrious Dūravāra lineage, a crest-jewel of the glorious Gopācala, there was a lord of Brahmins renowned as the learned Haṃsa, descended from the glorious Haṃsa.",
+          "role": "genealogical subject (grandfather)"
+        }
+      ],
+      "description": "Grandfather of Mitra Miśra, a distinguished Brahmin of the Dūravāra lineage associated with the fortress of Gopācala.",
+      "justification": "Explicitly named as the starting figure of the author's lineage in p-28dc92, connected to the Dūravāra clan of Gopācala."
+    },
+    {
+      "canonical_name": "Medinīmalla",
+      "surface_names": ["Medinīmalla"],
+      "kind": "figure",
+      "figure_kind": "human",
+      "mentions": [
+        {
+          "paragraph_id": "p-d24814",
+          "quote": "There was, in the lineage of the Sīkāśīrāja, a universal sovereign over all the earth, an ornament to the circle of kings, like the moon in the ocean: the glorious Medinīmalla by name, a wrestler upon the earth.",
+          "role": "dynastic progenitor"
+        },
+        {
+          "paragraph_id": "p-ed05c2",
+          "quote": "A king named Medinīmalla was born in the circle of the earth, renowned as a wrestler upon the earth.",
+          "role": "dynastic progenitor"
+        }
+      ],
+      "description": "Founding ancestor in the royal genealogy of Vīrasiṃha's Bundela line, described as a universal sovereign.",
+      "justification": "Introduced in both prose and verse at p-d24814 and p-ed05c2 as the first named ancestor in the king's lineage."
+    },
+    {
+      "canonical_name": "Juhārasiṃha",
+      "surface_names": ["Juhārasiṃha", "Vīra Juhārasiṃha", "King Juhārasiṃha"],
+      "kind": "figure",
+      "figure_kind": "human",
+      "mentions": [
+        {
+          "paragraph_id": "p-dfab3e",
+          "quote": "Having joined all virtues—valor, generosity, profundity, fortitude, compassion, charity, and others—to Juhārasiṃha, the crest-jewel who bears the burden of the earth",
+          "role": "panegyric"
+        },
+        {
+          "paragraph_id": "p-aa37f1",
+          "quote": "While the glorious and steadfast King Juhārasiṃha, who shatters his foes with the knitting of his brow, ruled this earth like a father",
+          "role": "ruling king"
+        },
+        {
+          "paragraph_id": "p-abfaef",
+          "quote": "all the celestial women together praised the equal generosity of the glorious King Vīra Juhārasiṃha.",
+          "role": "panegyric"
+        }
+      ],
+      "description": "Son of Vīrasiṃha in the royal genealogy, praised for valor and generosity and eulogized as the king at whose time the text was completed.",
+      "justification": "Named as the royal figure who assumes the burden of the earth in p-dfab3e, and further eulogized across several verses as a ruling sovereign in p-aa37f1 and p-abfaef."
+    },
+    {
+      "canonical_name": "Vikramāditya",
+      "surface_names": ["Vikramāditya"],
+      "kind": "figure",
+      "figure_kind": "human",
+      "mentions": [
+        {
+          "paragraph_id": "p-121951",
+          "quote": "His son, an ornament to his lineage, was named Vikramāditya, a joy to the hearts of the virtuous.",
+          "role": "royal successor"
+        }
+      ],
+      "description": "Son of Juhārasiṃha in the dynastic succession, named in the closing section of the royal genealogy.",
+      "justification": "Introduced as the son and successor of Juhārasiṃha in p-121951 as an ornament to the lineage."
+    },
+    {
+      "canonical_name": "Caṇḍīśvara",
+      "surface_names": ["Caṇḍīśvara"],
+      "kind": "figure",
+      "figure_kind": "human",
+      "mentions": [
+        {
+          "paragraph_id": "p-0321b3",
+          "quote": "he acquired flawless knowledge, obtaining the glorious Caṇḍīśvara, a jewel among Agnihotrins, as his weighty preceptor.",
+          "role": "teacher/preceptor"
+        }
+      ],
+      "description": "The preceptor of Paraśurāma Miśra at Vārāṇasī, described as a distinguished Agnihotrin.",
+      "justification": "Named explicitly as the preceptor from whom Paraśurāma Miśra obtained knowledge at Vārāṇasī in p-0321b3."
+    },
+    {
+      "canonical_name": "Rādhā",
+      "surface_names": ["Rādhā"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-4f450f",
+          "quote": "May that flute-bearer, who delights in dallying with Rādhā, grant you abundant and lasting well-being",
+          "role": "divine consort"
+        }
+      ],
+      "description": "The beloved consort of Kṛṣṇa, mentioned in the maṅgalaśloka verse invoking the flute-bearer.",
+      "justification": "Named as the consort with whom Kṛṣṇa sports in the opening benedictory verse at p-4f450f."
+    },
+    {
+      "canonical_name": "Kāla (Time)",
+      "surface_names": ["Kāla", "Time", "Rudra", "Saṅkarṣaṇa"],
+      "kind": "idea",
+      "mentions": [
+        {
+          "paragraph_id": "p-19342f",
+          "quote": "And, 'I alone am Time; I am not of Time.'",
+          "role": "theological concept"
+        },
+        {
+          "paragraph_id": "p-19342f",
+          "quote": "Time, without beginning or end, is known as Rudra and Saṅkarṣaṇa.",
+          "role": "theological concept"
+        },
+        {
+          "paragraph_id": "p-96ff52",
+          "quote": "But Time in the form of the year (saṃvatsara), etc., which is delimited by the motion of the sun and other celestial bodies, is examined because it is appointed as the locus for action",
+          "role": "primary subject of inquiry"
+        }
+      ],
+      "description": "The central metaphysical and ritual concept of the text: Time as both an absolute divine reality identified with Viṣṇu/Rudra and a measurable framework for ritual action.",
+      "justification": "The entire doctrinal section from p-19342f onward is devoted to establishing Time's existence from śruti authorities and distinguishing its absolute (akhaṇḍa) from divisible (sakhaṇḍa) forms, making it the foundational idea of the chapter."
+    },
+    {
+      "canonical_name": "Gopācala",
+      "surface_names": ["Gopācala"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-28dc92",
+          "quote": "In the illustrious Dūravāra lineage, a crest-jewel of the glorious Gopācala, there was a lord of Brahmins renowned as the learned Haṃsa",
+          "role": "place of origin"
+        }
+      ],
+      "description": "The fortress town (modern Gwalior) identified as the home of the author's ancestral Brahmin lineage.",
+      "justification": "Named explicitly as the location associated with the Haṃsa/Dūravāra lineage of the author at p-28dc92."
+    },
+    {
+      "canonical_name": "Vārāṇasī",
+      "surface_names": ["Vārāṇasī", "city of the destroyer of cities", "city of the enemy of the cities"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-0321b3",
+          "quote": "Having gone in ancient times to the city of the enemy of the cities (Vārāṇasī), he acquired flawless knowledge",
+          "role": "place of scholarship"
+        },
+        {
+          "paragraph_id": "p-eabeb6",
+          "quote": "the learned Mitra Miśra composed the glorious Vīramitrodaya in the city of the destroyer of cities (Vārāṇasī)",
+          "role": "place of composition"
+        }
+      ],
+      "description": "The sacred city of Vārāṇasī where both Paraśurāma Miśra studied and Mitra Miśra composed the Vīramitrodaya.",
+      "justification": "Referred to by its kenning 'city of the destroyer of cities' (Śiva's city) in p-0321b3 and p-eabeb6 as the site of the text's scholarly formation and composition."
+    },
+    {
+      "canonical_name": "Sarasvatī",
+      "surface_names": ["Sarasvatī"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-28dc92",
+          "quote": "Lakṣmī and Sarasvatī, free f[rom conflict], dwelt simultaneously in the abode of Haṃsa",
+          "role": "divine presence at scholar's home"
+        },
+        {
+          "paragraph_id": "p-53d3c7",
+          "quote": "Having worshipped the lotus-face of his preceptor, and spurned the dance on the faces of the Four-Faced (Brahmā), Sarasvatī, here, adorned with figures of speech",
+          "role": "goddess of learning"
+        }
+      ],
+      "description": "Goddess of learning and speech invoked alongside Lakṣmī as dwelling in the home of the ancestor Haṃsa and appearing on Brahmā's faces.",
+      "justification": "Named alongside Lakṣmī in p-28dc92 as residing in Haṃsa's dwelling, and again as the learned Sarasvatī sought through scholarly mastery in p-5b3c97."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Royal legitimation through genealogy and panegyric",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-d24814",
+          "quote": "There was, in the lineage of the Sīkāśīrāja, a universal sovereign over all the earth, an ornament to the circle of kings"
+        },
+        {
+          "paragraph_id": "p-eabeb6",
+          "quote": "By the command of the glorious Vīrasiṃha, which brought hundreds of desired tasks to swift completion, the learned Mitra Miśra composed the glorious Vīramitrodaya"
+        }
+      ],
+      "justification": "Paragraphs p-d24814 through p-7686c3 form an extended royal vaṃśāvalī (genealogy) that legitimizes the patron Vīrasiṃha's authority and provides the social context for the text's composition."
+    },
+    {
+      "topic": "Authority of śruti and smṛti as dual epistemic foundations",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-19342f",
+          "quote": "Therein, first, the authorities for the existence of Time are the śruti and other scriptures."
+        },
+        {
+          "paragraph_id": "p-96ff52",
+          "quote": "Time in the form of the year, etc., which is delimited by the motion of the sun and other celestial bodies, is examined because it is appointed as the locus for action by śruti and smṛti texts"
+        }
+      ],
+      "justification": "The methodological framework introduced at p-19342f and p-96ff52 consistently grounds every determination of time-units in textual authority from śruti, smṛti, and Purāṇas, establishing dual-canon authority as the epistemological spine of the digest."
+    },
+    {
+      "topic": "Digesting and harmonizing competing scriptural traditions",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-9029cc",
+          "quote": "Having taken to heart the entire meaning declared by the sages Hārīta, Gobhila, Parāśara, Nārada, and others, the jewel among scholars, Mitra Miśra…composes the Samayaprakāśa"
+        },
+        {
+          "paragraph_id": "p-fc3a75",
+          "quote": "thus, herein, the time has been determined with particularity by the scholar Mitra Miśra, after having examined all the smṛtis."
+        }
+      ],
+      "justification": "The very structure of the Vīramitrodaya as a nibandha digest is premised on synthesizing many smṛti authorities (Hārīta, Gobhila, etc.); p-9029cc and the closing line of p-fc3a75 make this editorial act explicit."
+    },
+    {
+      "topic": "Ritual temporality: mapping sacred duty onto cosmic time-units",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-fc3a75",
+          "quote": "First, the nature of eternal Time, then the defining adjuncts of Time are stated. Then, in order, the determination of the year, the solar transit, and the seasons."
+        },
+        {
+          "paragraph_id": "p-96ff52",
+          "quote": "This [indivisible] Time has no use in ritual action other than for the recollection of unseen results…But Time in the form of the year, etc., is examined because it is appointed as the locus for action"
+        }
+      ],
+      "justification": "The chapter explicitly distinguishes metaphysical Time (akhaṇḍa) as irrelevant for ritual from measured Time (sakhaṇḍa) as the locus of religious obligation, framing the entire temporal taxonomy as a guide to proper ritual performance."
+    },
+    {
+      "topic": "The nature and identity of Time (Kāla) with the supreme deity",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-19342f",
+          "quote": "The śruti says: 'He is the maker of all…the Time of time…' The 'Time of time' means: because He measures the created time in the form of the year, etc."
+        },
+        {
+          "paragraph_id": "p-19342f",
+          "quote": "Time, without beginning or end, is known as Rudra and Saṅkarṣaṇa."
+        }
+      ],
+      "justification": "A substantial doctrinal excursus at p-19342f draws on śruti and the Viṣṇudharmottara to identify ultimate Time with the supreme lord (Viṣṇu/Rudra/Saṅkarṣaṇa), establishing a theological grounding for the calendar treatise."
+    },
+    {
+      "topic": "Genealogical sanctity of the author's Brahmin lineage",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-28dc92",
+          "quote": "In the illustrious Dūravāra lineage, a crest-jewel of the glorious Gopācala, there was a lord of Brahmins renowned as the learned Haṃsa"
+        },
+        {
+          "paragraph_id": "p-c50ece",
+          "quote": "From him, like fire from kindling-wood, was born Paraśurāma Miśra, a man of unequalled majesty"
+        }
+      ],
+      "justification": "Paragraphs p-28dc92 through p-55b2d2 establish the author's scholarly genealogy from Haṃsa through Paraśurāma Miśra, paralleling the royal vaṃśāvalī and legitimizing the author's authority as a compiler of dharmaśāstra."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Ṛgveda",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-19342f",
+      "quote": "The Ṛgveda-śruti says: 'Therefore, one should give at the proper time; one should not give at the improper time.'",
+      "justification": "Cited as a foundational śruti proof for the existence and importance of Time in ritual contexts."
+    },
+    {
+      "cited_work": "Yajurveda",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-19342f",
+      "quote": "The Yajurveda says: 'He sacrifices to him at the proper time, when the time has come.'",
+      "justification": "Cited as further śruti evidence establishing Time as the proper locus of sacrificial action."
+    },
+    {
+      "cited_work": "Sāmaveda",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-19342f",
+      "quote": "The Sāmaveda asks: 'What is the twilight? What is the time of the twilight?'",
+      "justification": "Cited alongside Ṛgveda and Yajurveda to show that all three major Vedas acknowledge Time as a ritual category."
+    },
+    {
+      "cited_work": "Manusmṛti",
+      "cited_author": "Manu",
+      "stance": "authority",
+      "paragraph_id": "p-19342f",
+      "quote": "The Manusmṛti says: 'Time, and the division of time...'",
+      "justification": "Cited as a smṛti authority confirming the doctrinal importance of Time and its subdivisions."
+    },
+    {
+      "cited_work": "Yājñavalkyasmṛti",
+      "cited_author": "Yājñavalkya",
+      "stance": "authority",
+      "paragraph_id": "p-19342f",
+      "quote": "Yājñavalkya says: 'The times for śrāddha are proclaimed...'",
+      "justification": "Cited as a primary smṛti source for the temporal determination of ancestral rites."
+    },
+    {
+      "cited_work": "Yogaśāstra",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-19342f",
+      "quote": "Likewise, in the Yogaśāstra, direct perception is also stated as a proof, for yogins, through a particular kind of meditative concentration (saṃyama)—comprising concentration (dhāraṇā), meditation (dhyāna), and absorption (samādhi)—directly see past and future time.",
+      "justification": "Cited to show that yogic direct perception (through the Pātañjalī-type saṃyama) is an additional pramāṇa for Time's existence, extending the epistemological range beyond śruti."
+    },
+    {
+      "cited_work": "Viṣṇudharmottara Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-19342f",
+      "quote": "Time, without beginning or end, is known as Rudra and Saṅkarṣaṇa. Because He measures all beings, He is proclaimed as Kāla (Time).",
+      "justification": "Cited to identify transcendent Time with Viṣṇu's cosmic aspect Saṅkarṣaṇa and Rudra, grounding the theological identity of Time."
+    },
+    {
+      "cited_work": "Viṣṇudharmottara Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-96ff52",
+      "quote": "O twice-born, the measure and number of that which is subtle and most subtle, as well as most great, should be known by the wise according to the motion of the planets.",
+      "justification": "Cited to establish that planetary motion is the proper measure for calculating time-units relevant to ritual."
+    },
+    {
+      "cited_work": "Viṣṇudharmottara Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-96ff52",
+      "quote": "A mātrā is equal to a short syllable; a nimeṣa is proclaimed as such…Two nimeṣas are to be known as a truṭi; a prāṇa is said to be ten truṭis.",
+      "justification": "A detailed citation establishing the hierarchical units of time from the nimeṣa upward, addressed to Rāma, used as the authoritative micro-temporal scale."
+    },
+    {
+      "cited_work": "Jyotiḥśāstra",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-96ff52",
+      "quote": "In order, they are solar, Jovian, civil, lunar, and sidereal. The years are, in order, mātulapātālātulavimalavarāṅgāni.",
+      "justification": "Cited to provide the astronomically precise enumeration of the five year-types using the kaṭapayādi numerical encoding system."
+    },
+    {
+      "cited_work": "Taittirīya-śruti",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-912487",
+      "quote": "Therefore the sun moves for six months to the south and six to the north.",
+      "justification": "Cited as the primary śruti proof for the bipartite ayana division of the year."
+    },
+    {
+      "cited_work": "Viṣṇudharmottara Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-912487",
+      "quote": "A group of three seasons is an ayana.",
+      "justification": "Cited alongside the Taittirīya to define the ayana as three solar seasons."
+    },
+    {
+      "cited_work": "Siddhāntaśiromaṇi",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-912487",
+      "quote": "When the sun is in the six signs beginning with Cancer and Capricorn, these are the southern and northern ayanas.",
+      "justification": "Cited as an astronomical authority (Bhāskara II's Siddhāntaśiromaṇi) confirming the zodiacal definition of the two ayanas."
+    },
+    {
+      "cited_work": "Jyotiṣaratnamālā",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-912487",
+      "quote": "House-entry, consecration of deities, marriage, tonsure, vow-investiture, and so on—an auspicious act should be performed in the northern transit; what is condemned should be done in the southern.",
+      "justification": "Cited as the general rule for applying the two-ayana division to ritual practice."
+    },
+    {
+      "cited_work": "Taittirīya-śruti",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-0c7ad5",
+      "quote": "He places a pair. Therefore the seasons are in pairs.",
+      "justification": "Cited as the foundational śruti definition establishing that each season consists of a pair of months."
+    },
+    {
+      "cited_work": "Ṛgveda",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-0c7ad5",
+      "quote": "One (the sun) looks upon all the worlds; the other (the moon) is born again, arranging the seasons.",
+      "justification": "Cited in the debate over whether the sun or moon governs the seasons, with the text using this verse to argue for the moon's role."
+    },
+    {
+      "cited_work": "Mādhavīya",
+      "cited_author": "Mādhava",
+      "stance": "authority",
+      "paragraph_id": "p-0c7ad5",
+      "quote": "The month of Caitra is called Madhu; Vaiśākha is Mādhava. The month of Jyeṣṭha is Śukra; Āṣāḍha is called Śuci.",
+      "justification": "Cited to provide the correspondence table between Vedic month names (Madhu, etc.) and the standard lunar month names (Caitra, etc.)."
+    },
+    {
+      "cited_work": "Aitareya Brāhmaṇa",
+      "cited_author": null,
+      "stance": "neutral",
+      "paragraph_id": "p-0c7ad5",
+      "quote": "There are twelve months, five seasons",
+      "justification": "Cited to acknowledge an apparent conflict (five seasons vs. six) that the text then resolves by noting the Brāhmaṇa itself combines winter and the cool season."
+    },
+    {
+      "cited_work": "Viṣṇudharmottara Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-0c7ad5",
+      "quote": "Two solar months, O Rāma, are called a season.",
+      "justification": "Cited to establish the solar season as a unit of two solar months, paralleling the lunar definition."
+    },
+    {
+      "cited_work": "Viṣṇu Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-0c7ad5",
+      "quote": "Two solar months are a season.",
+      "justification": "Corroborating citation alongside the Viṣṇudharmottara for the two-solar-month definition of a season."
+    },
+    {
+      "cited_work": "Baudhāyana-smṛti",
+      "cited_author": "Baudhāyana",
+      "stance": "authority",
+      "paragraph_id": "p-0c7ad5",
+      "quote": "Spring is in Pisces and Aries.",
+      "justification": "Cited to specify the zodiacal definition of the first season (spring), whose application is then extended to remaining seasons."
+    },
+    {
+      "cited_work": "Bhaviṣya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-96ff52",
+      "quote": "On the first tithi (Pratipad) of the bright fortnight in spring, when the Kiṃśuka and Aśoka trees are in bloom, one should perform ablutions, having taken a vow.",
+      "justification": "Cited as the source for the tilakavrata, illustrating how the lunar year is the operative time-reckoning for certain annual vows."
+    },
+    {
+      "cited_work": "Brahmasiddhānta",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-96ff52",
+      "quote": "For the annual śrāddha, the month is known to be lunar.",
+      "justification": "Cited to establish that the lunar year governs the performance of the annual śrāddha rite."
+    },
+    {
+      "cited_work": "Rājamārtaṇḍa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-96ff52",
+      "quote": "If Jupiter in accelerated motion does not return to that sign, it should be known as a lapsed year, condemned in all rituals.",
+      "justification": "Cited as the authority prohibiting ritual action in a lapsed (lupta) Jovian year."
+    },
+    {
+      "cited_work": "Vasiṣṭha-smṛti",
+      "cited_author": "Vasiṣṭha",
+      "stance": "authority",
+      "paragraph_id": "p-96ff52",
+      "quote": "If Jupiter, having entered an accelerated motion, does not return to enjoy the remaining portion of the previous sign, then, including the portion already enjoyed and that which is beyond the retrograde motion, it is called a lapsed year of twelve months.",
+      "justification": "Cited to define technically what constitutes a lapsed Jovian year when Jupiter skips a zodiac sign in accelerated motion."
+    },
+    {
+      "cited_work": "Parāśara-smṛti",
+      "cited_author": "Parāśara",
+      "stance": "extend",
+      "paragraph_id": "p-96ff52",
+      "quote": "When Jupiter, having enjoyed a sign for ten or eleven months, moves to the next sign, and does not enjoy the previous one again, the wise do not call it a lapsed year.",
+      "justification": "Cited to qualify Vasiṣṭha's definition by providing a threshold (ten or eleven months) below which a year is not considered lapsed."
+    },
+    {
+      "cited_work": "Vyāsa-smṛti",
+      "cited_author": "Vyāsa",
+      "stance": "extend",
+      "paragraph_id": "p-96ff52",
+      "quote": "When the preceptor of the gods (Jupiter) is in accelerated motion while in Taurus, Scorpio, or Pisces, even if he does not return to the previous sign, they say it is auspicious for marriage.",
+      "justification": "Cited as an exception to the Rājamārtaṇḍa's blanket prohibition, showing that certain lapsed years in specific zodiac signs remain auspicious for marriage."
+    },
+    {
+      "cited_work": "Viṣṇudharmottara Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-96ff52",
+      "quote": "When the moon and sun are in the constellation of Dhaniṣṭhā, conjoined with Jupiter, beginning from the bright fortnight of Māgha, that is known as the beginning of the sixty-year cycle.",
+      "justification": "Cited to define the astronomical starting point of the sixty-year Jovian cycle (Prabhava through Kṣaya)."
+    },
+    {
+      "cited_work": "Brahmavaivarta Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-96ff52",
+      "quote": "Saṃvatsara is the first, the second is Parivatsara, Idāvatsara is the third, and the fourth is Anuvatsara. Idvatsara is the fifth; this period is called a yuga.",
+      "justification": "Cited to name and enumerate the five-year yuga cycle that underlies the Jovian year system."
+    },
+    {
+      "cited_work": "Jyotir-Garga",
+      "cited_author": "Garga",
+      "stance": "authority",
+      "paragraph_id": "p-96ff52",
+      "quote": "The division of lifespan and inheritance, and also the performance of penance, should be done by the civil year, as also the propitiation of enemies.",
+      "justification": "Cited to specify the domains of human life (inheritance, penance) governed by the civil (sāvana) year rather than other year-types."
+    },
+    {
+      "cited_work": "Viṣṇudharmottara Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-96ff52",
+      "quote": "In the Saṃvatsara, the gift of sesame is of great fruit. Likewise, in the Parivatsara, the gift of barley…",
+      "justification": "Cited to prescribe the specific religious gifts appropriate to each of the five years in the Jovian yuga cycle."
+    },
+    {
+      "cited_work": "Hārīta-smṛti",
+      "cited_author": "Hārīta",
+      "stance": "authority",
+      "paragraph_id": "p-9029cc",
+      "quote": "Having taken to heart the entire meaning declared by the sages Hārīta, Gobhila, Parāśara, Nārada, and others",
+      "justification": "Named as one of the primary smṛti sources whose teachings Mitra Miśra synthesizes in composing the Samayaprakāśa."
+    },
+    {
+      "cited_work": "Gobhila-smṛti",
+      "cited_author": "Gobhila",
+      "stance": "authority",
+      "paragraph_id": "p-9029cc",
+      "quote": "Having taken to heart the entire meaning declared by the sages Hārīta, Gobhila, Parāśara, Nārada, and others",
+      "justification": "Named as one of the primary smṛti sources synthesized in the Samayaprakāśa."
+    },
+    {
+      "cited_work": "Nārada-smṛti",
+      "cited_author": "Nārada",
+      "stance": "authority",
+      "paragraph_id": "p-9029cc",
+      "quote": "Having taken to heart the entire meaning declared by the sages Hārīta, Gobhila, Parāśara, Nārada, and others",
+      "justification": "Named as one of the primary smṛti sources synthesized in the Samayaprakāśa."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "work_slug": "horace-walpole-poems-670e1d",
+  "work_title": "Poems",
+  "chapter_number": 2,
+  "chapter_title": "An EPISTLE from FLORENCE. To T. A. Esq; Tutor to the Earl of P—. Written in the Year 1740.",
+  "chapter_slug": "02-an-epistle-from-florence-to-t-a-esq-tutor-to-the",
+  "author": "Horace Walpole",
+  "author_slug": "horace-walpole",
+  "ecpa_poem_id": "o5154-w0140",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "epistle"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 376
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4e1274f6-649d-50e6-8343-a1ba6bf13e4c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2746,
+      "line_count": 379,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

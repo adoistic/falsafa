@@ -1,0 +1,124 @@
+---
+work_id: "531359cc-71a6-5eb3-9c40-3b69099e47a8"
+work_slug: "sir-james-marriott-poems-531359"
+work_title: Poems
+author: Sir James Marriott
+author_slug: "sir-james-marriott"
+ecpa_poem_id: "o5157-w0540"
+chapter_number: 19
+chapter_title: ODE on Lyric POETRY.
+chapter_slug: "19-ode-on-lyric-poetry"
+variant_id: "4068f4bc-34ae-5eff-b5d4-ab8153286e97"
+content_type: original
+layout: verse
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 542
+source_url: "https://www.eighteenthcenturypoetry.org/"
+license: "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+genres:
+  - ode
+rhyme_scheme: irregular
+---
+
+ODE on Lyric POETRY.
+
+By Mr. MARRIOT.
+
+I. 1.
+
+INMATE of smoaking cots, whose rustic shed,
+Within its humble bed,
+Her twittering progeny contains,
+The swallow sweeps the plains,
+Or lightly skims from level lakes the dew.
+The ringdove ever true
+In plaintive accents tells of unrelenting fate,
+Far from the raven's croak, and bird of night,
+That shrieking wings her flight
+When, at his mutter'd rite,
+Hid in the dusky desart vale,
+With starting eye, and visage pale
+The grimly wizard sees the spectres rise unholy;
+But haunts the woods that held her beauteous mate,
+And wooes the Echo soft with murmurs melancholy.
+
+I. 2.
+
+Sublime alone the feather'd monarch flies,
+His nest dark mists upon the mountains shrowd;
+In vain the howling storms arise,
+When borne on outstretch'd plume aloft he springs,
+Dashing with many a stroke the parting cloud,
+Or to the buoyant air commits his wings
+Floating with even sail adown the liquid skies;
+Then darting upward, swift his wings aspire,
+Where thunders keep their gloomy seat,
+And lightnings arm'd with heaven's avenging ire.
+None can the dread artillery meet,
+Or thro' the airy region rove,
+But he who guards the throne of Jove,
+And grasps the flaming bolt of sacred fire.
+
+I. 3.
+
+Know, with young Ambition bold,
+In vain, my Muse, thy dazled eyes explore
+Distant aims, where wont to soar,
+Their burning way the kindling spirits hold.
+Heights too arduous wisely shun;
+Humbler flights thy wings attend;
+For heaven-taught Genius can alone ascend
+Back to her native sky,
+And with directed eagle eye
+Pervade the lofty spheres, and view the blazing sun.
+
+II. 1.
+
+But hark! o'er all the flower-enamell'd ground
+What music breathes around!
+I see, I see the virgin train
+Unlock their streams again,
+Rolling to many a vale their liquid lapse along,
+While at the warbled song
+Which holds entranc'd Attention's wakeful ear,
+Broke are the magic bands of iron sleep.
+Love, wayward child, oft wont to weep,
+In tears his robe to steep
+Forgets; and Care that counts his store,
+Now thinks each mighty business o'er;
+While sits on ruin'd cities, war's wide-wasting glory,
+Ambition, ceasing the proud pile to rear,
+And sighs; unfinish'd leaving half her ample story.
+
+II. 2.
+
+Then once more, sweet enthusiast, happy lyre,
+Thy soothing solace deign awhile to bring.
+I strive to catch the sacred fire,
+And wake thee emulous on Granta's plain,
+Where all the Muses haunt his hallow'd spring,
+And where the Graces shun the sordid train
+Scornful of heaven-born arts which thee and peace inspire:
+On life's sequester'd scenes they silent wait,
+Nor heed the baseless pomp of power,
+Nor shining dreams that crowd at Fortune's gate;
+But smooth th' inevitable hour
+Of pain, which man is doom'd to know,
+And teach the mortal mind to glow
+With pleasures plac'd beyond the shaft of Fate.
+
+II. 3.
+
+But, alas! th' amusive reed
+Ill suits the lyre that asks a master's hand,
+And fond fancies vainly feed
+A breast that life's more active scenes demand.
+Sloth ignoble to disclaim
+'Tis enough: the lyre unstring.
+At other feet the victor palm I fling
+In Granta's glorious shrine;
+Where crown'd with radiance divine
+Her smiles shall nurse the Muse; the Muse shall list her fame.

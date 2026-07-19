@@ -1,0 +1,44 @@
+{
+  "work_slug": "elizabeth-craven-poems-7a848f",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "The Abode of Genius",
+  "chapter_slug": "01-the-abode-of-genius",
+  "author": "Elizabeth Craven",
+  "author_slug": "elizabeth-craven",
+  "ecpa_poem_id": "ilc19-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "satire"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 121
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f5110b62-a06f-53c6-9827-25e779ade3cf",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 839,
+      "line_count": 122,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

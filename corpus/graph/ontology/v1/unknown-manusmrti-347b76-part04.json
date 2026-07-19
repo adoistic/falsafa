@@ -1,0 +1,356 @@
+{
+  "slug": "unknown-manusmrti-347b76",
+  "window": "04:137-179",
+  "entities": [
+    {
+      "canonical_name": "Rakshasas",
+      "surface_names": ["Rakshasas", "Rakshasa"],
+      "kind": "figure",
+      "figure_kind": "demon",
+      "mentions": [
+        {
+          "paragraph_id": "p-8b8ea4",
+          "quote": "for Rakshasas plunder a *śrāddha* that is devoid of protection",
+          "role": "antagonist — demonic beings who spoil unprotected ancestral rites"
+        },
+        {
+          "paragraph_id": "p-8b8ea4",
+          "quote": "What one eats with his head covered, what he eats facing south, and what he eats with his shoes on—that the Rakshasas indeed eat",
+          "role": "antagonist — consume improperly eaten food"
+        },
+        {
+          "paragraph_id": "p-8b8ea4",
+          "quote": "A tear sends the offering to the departed spirits, anger to one's enemies, falsehood to dogs, a touch of the foot to the Rakshasas",
+          "role": "recipient of ritually contaminated offerings"
+        },
+        {
+          "paragraph_id": "p-8b8ea4",
+          "quote": "One should not perform a *śrāddha* at night, for the night is declared to be of the nature of Rakshasas",
+          "role": "symbolic — nighttime identified with Rakshasa nature"
+        }
+      ],
+      "description": "Demonic beings (Rakshasas) who plunder śrāddha rites lacking divine protection and consume food eaten with ritual impropriety.",
+      "justification": "Rakshasas appear four times in p-8b8ea4 as the primary demonic threat to the ancestral rite, framing the protective structure of the Vaiśvadeva ritual sequence."
+    },
+    {
+      "canonical_name": "Agni",
+      "surface_names": ["Agni", "fire"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-8b8ea4",
+          "quote": "Having first performed the rite of propitiation to Agni, Soma, and Yama, he should afterwards satisfy the ancestors",
+          "role": "primary deity propitiated at the opening of the śrāddha fire rite"
+        },
+        {
+          "paragraph_id": "p-8b8ea4",
+          "quote": "But in the absence of a fire, he should place the offering in the hand of a Brahmana; for that Brahmana who is a seer of sacred formulas is declared by the wise to be the fire",
+          "role": "symbolic referent — Brahmana equated with Agni when fire is absent"
+        },
+        {
+          "paragraph_id": "p-8b8ea4",
+          "quote": "He should always offer the Agnihotra at the beginning and end of the day and night",
+          "role": "recipient of the daily Agnihotra fire oblation"
+        }
+      ],
+      "description": "The Vedic fire deity Agni, propitiated first in the śrāddha sequence and associated with the sacred fires that householders must maintain daily.",
+      "justification": "Agni is named as the first deity propitiated in p-8b8ea4 and the Agnihotra to Agni recurs as the cornerstone of daily household sacrifice throughout this window."
+    },
+    {
+      "canonical_name": "Soma",
+      "surface_names": ["Soma"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-8b8ea4",
+          "quote": "Having first performed the rite of propitiation to Agni, Soma, and Yama",
+          "role": "deity propitiated alongside Agni at the opening of the śrāddha"
+        },
+        {
+          "paragraph_id": "p-8b8ea4",
+          "quote": "The food of sages, milk, Soma, meat which has not been prepared with spices … is called a natural oblation",
+          "role": "sacred substance classified as a natural oblation"
+        }
+      ],
+      "description": "Soma is both a Vedic deity propitiated in the śrāddha rite and a sacred substance classified among natural oblations appropriate for ancestral offerings.",
+      "justification": "Soma appears in p-8b8ea4 first as a deity in the triadic propitiation formula (Agni–Soma–Yama) and then as a natural food-oblation, showing its dual divine-material status."
+    },
+    {
+      "canonical_name": "Yama",
+      "surface_names": ["Yama"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-8b8ea4",
+          "quote": "Having first performed the rite of propitiation to Agni, Soma, and Yama, he should afterwards satisfy the ancestors",
+          "role": "deity of death propitiated to protect and validate the ancestral rite"
+        }
+      ],
+      "description": "Yama, the Vedic god of death and the dead, is propitiated in the opening phase of the śrāddha fire rite as the deity who governs the realm of the ancestors.",
+      "justification": "Yama is named in p-8b8ea4 as the third member of the opening propitiatory triad, reflecting his role as lord of the ancestors who are the rite's intended beneficiaries."
+    },
+    {
+      "canonical_name": "Asuras",
+      "surface_names": ["Asuras", "evil-minded Asuras"],
+      "kind": "figure",
+      "figure_kind": "demon",
+      "mentions": [
+        {
+          "paragraph_id": "p-8b8ea4",
+          "quote": "Whatever food is presented that has been released from both hands, that the evil-minded Asuras forcibly plunder",
+          "role": "antagonist — demonic beings who seize food improperly offered with both hands released"
+        }
+      ],
+      "description": "Asuras are demonic adversaries who forcibly plunder food that is presented incorrectly (released from both hands) during the śrāddha, constituting a ritual danger parallel to that of the Rakshasas.",
+      "justification": "The Asuras appear in p-8b8ea4 as the specific demonic threat associated with improper hand-posture during food offering, providing a demonic rationale for the ritual technicality."
+    },
+    {
+      "canonical_name": "Manu",
+      "surface_names": ["Manu"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-8b8ea4",
+          "quote": "Or the grandfather may eat at that *śrāddha*, as Manu has declared",
+          "role": "law-giver invoked as authority for a specific śrāddha rule"
+        },
+        {
+          "paragraph_id": "p-8b8ea4",
+          "quote": "Manu has declared an occasional `anadhyāya` in these cases",
+          "role": "law-giver cited as authority for the rule on anadhyāya during meteorological events"
+        }
+      ],
+      "description": "Manu is the primordial law-giver and author of this text, cited internally as an authority for specific injunctions on śrāddha procedure and forbidden days for Vedic study.",
+      "justification": "The text refers to 'Manu has declared' in two places within p-8b8ea4, treating its own author as an in-text authority, which is a distinctive feature of the Manusmṛti's self-referential jurisprudence."
+    },
+    {
+      "canonical_name": "Vasus",
+      "surface_names": ["Vasus", "Rudras", "Adityas"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-8b8ea4",
+          "quote": "They call the fathers Vasus, the grandfathers Rudras, and the great-grandfathers Adityas; this is the eternal Vedic revelation",
+          "role": "divine classes with whom the three generations of paternal ancestors are identified"
+        }
+      ],
+      "description": "The Vasus, Rudras, and Adityas are groups of Vedic deities with whom the three paternal generations (fathers, grandfathers, great-grandfathers) are respectively identified in ancestral rites.",
+      "justification": "In p-8b8ea4 (Mn_3.284) the text explicitly equates the three paternal generations with the three major divine groups — Vasus, Rudras, and Adityas — framing the śrāddha as an act of worship of deified ancestors."
+    },
+    {
+      "canonical_name": "Chandalas",
+      "surface_names": ["Chandala", "Chandalas"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-8b8ea4",
+          "quote": "A Chandala, a pig, a rooster, and also a dog, a menstruating woman, and a eunuch must not see the twice-born as they eat",
+          "role": "polluting presence forbidden from viewing the sacred meal"
+        },
+        {
+          "paragraph_id": "p-8b8ea4",
+          "quote": "He should not live with outcastes, nor with Chandalas, nor with Pulkasas",
+          "role": "group whose proximity is prohibited for the Brahmana householder"
+        }
+      ],
+      "description": "Chandalas are an outcaste group ritually classified as polluting — their gaze during the śrāddha meal invalidates the offering, and cohabitation with them is forbidden.",
+      "justification": "Chandalas appear twice in p-8b8ea4 in two separate functional contexts: ritual pollution of the śrāddha (Mn_3.239) and the rules on forbidden residence (Mn_4.79), marking them as a key structuring category of ritual and social purity."
+    },
+    {
+      "canonical_name": "Brahmana",
+      "surface_names": ["Brahmana", "Brahmanas", "twice-born"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-8b8ea4",
+          "quote": "One should honor them with fragrant perfumes and garlands, beginning with the rite for the gods",
+          "role": "honored guests who officiate and receive at the śrāddha"
+        },
+        {
+          "paragraph_id": "p-8b8ea4",
+          "quote": "for that Brahmana who is a seer of sacred formulas is declared by the wise to be the fire",
+          "role": "substitute for the sacred fire in the absence of an actual fire"
+        },
+        {
+          "paragraph_id": "p-8b8ea4",
+          "quote": "A Brahmana *snātaka* who is able should never perish from hunger",
+          "role": "subject of rules for the Brahmana householder's livelihood and conduct"
+        }
+      ],
+      "description": "Brahmanas are the priestly varna whose presence, knowledge, and ritual purity constitute the central requirement for valid śrāddha and sacrificial rites throughout this window.",
+      "justification": "Brahmanas are the most pervasive group in this window (spanning indices 137–179), appearing as ritual officiant, recipient, sacred-fire surrogate, and the subject of extensive conduct rules, making them the dominant social-ritual category of the text."
+    },
+    {
+      "canonical_name": "Shudra",
+      "surface_names": ["Shudra", "Shudras"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-8b8ea4",
+          "quote": "He who, after eating at a *śrāddha*, gives the leftovers to a Shudra, that fool goes headlong to the hell called Kalasutra",
+          "role": "prohibited recipient of śrāddha leftovers"
+        },
+        {
+          "paragraph_id": "p-8b8ea4",
+          "quote": "He should not give advice to a Shudra, nor give him leftovers, nor what has been offered as an oblation; he should not teach him Dharma",
+          "role": "person to whom the Brahmana must not extend religious teaching or ritual food"
+        },
+        {
+          "paragraph_id": "p-4c50dc",
+          "quote": "one should not go with an unknown person, nor alone, nor with Shudras",
+          "role": "group forbidden as travel companions for the Brahmana snātaka"
+        }
+      ],
+      "description": "Shudras are the fourth varna whose contact with sacred ritual substances (śrāddha leftovers, oblations) is prohibited, and to whom the transmission of Dharma is forbidden.",
+      "justification": "Shudras appear across multiple paragraphs (p-8b8ea4, p-4c50dc) as a recurring negative boundary — their contact with ritual food, sacred knowledge, and Brahmana travel company is systematically prohibited."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Śrāddha rite: procedure and protection",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-8b8ea4",
+          "quote": "For their protection, one should first perform the rite for the gods; for Rakshasas plunder a *śrāddha* that is devoid of protection"
+        },
+        {
+          "paragraph_id": "p-8b8ea4",
+          "quote": "Then, with a concentrated mind, having made three *piṇḍas* from the remainder of the oblation, one should offer them facing south"
+        }
+      ],
+      "justification": "The dominant theme of the window's opening section (p-8b8ea4, Mn_3.204–286) is the step-by-step procedure of the ancestral śrāddha rite — its spatial, ritual, and protective requirements — framed by the need to guard offerings from demonic disruption."
+    },
+    {
+      "topic": "Ritual purity and contamination",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-8b8ea4",
+          "quote": "A Chandala, a pig, a rooster, and also a dog, a menstruating woman, and a eunuch must not see the twice-born as they eat"
+        },
+        {
+          "paragraph_id": "p-8b8ea4",
+          "quote": "A pig destroys it by its smell, a rooster by the wind from its wings, a dog by its glance, and a man of a lower caste by his touch"
+        }
+      ],
+      "justification": "A sustained preoccupation in this window is the various vectors of ritual contamination — animal presence, bodily states, caste proximity — that can void the sacred meal; this logic of ritual pollution structures dozens of injunctions."
+    },
+    {
+      "topic": "Anadhyāya: forbidden periods for Vedic study",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-e69207",
+          "quote": "There is an *anadhyāya* when a crowd of people is weeping"
+        },
+        {
+          "paragraph_id": "p-a957c3",
+          "quote": "During a fog, when the sound of arrows is heard, at both twilights, on the new moon day, the fourteenth day, the full moon day, and on the *aṣṭakā* days"
+        },
+        {
+          "paragraph_id": "p-f3c1ca",
+          "quote": "When the sound of the Samaveda is heard, one should never study the Rigveda or the Yajurveda"
+        }
+      ],
+      "justification": "Paragraphs 138–157 (p-e69207 through p-608247) constitute a dense catalogue of anadhyāya — natural, celestial, and social occasions that suspend Vedic recitation — making this a major topical cluster within the window."
+    },
+    {
+      "topic": "Brahmana householder's code of conduct",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-8b8ea4",
+          "quote": "He should move about in this world, conforming his dress, speech, and intellect to his age, occupation, wealth, sacred learning, and family"
+        },
+        {
+          "paragraph_id": "p-dde1cf",
+          "quote": "One should not despise oneself on account of past failures; until death one should seek good fortune and not think it difficult to obtain"
+        },
+        {
+          "paragraph_id": "p-133ce4",
+          "quote": "One should speak the truth, one should speak what is pleasant; one should not speak an unpleasant truth"
+        }
+      ],
+      "justification": "A large portion of this window (roughly Mn_4.1–4.149) is devoted to the daily behavioral code for the Brahmana householder-snātaka — governing livelihood, bodily conduct, speech, travel, and ethical deportment."
+    },
+    {
+      "topic": "Hell (naraka) as consequence of ritual transgression",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-8b8ea4",
+          "quote": "He who, after eating at a *śrāddha*, gives the leftovers to a Shudra, that fool goes headlong to the hell called Kalasutra"
+        },
+        {
+          "paragraph_id": "p-8b8ea4",
+          "quote": "`Tāmisra`, `Andhatāmisra`, `Mahāraurava`, and `Raurava`, the hell called `Kālasūtra`, and `Mahānaraka` as well"
+        },
+        {
+          "paragraph_id": "p-8b8ea4",
+          "quote": "He who explains Dharma to him, and he who enjoins a vow upon him, sinks with him into that hell named `Asaṃvṛta`"
+        }
+      ],
+      "justification": "Multiple named hells — Kalasutra, Tāmisra, Asaṃvṛta, and seventeen others — are invoked throughout this window as deterrents for specific transgressions, constituting an eschatological sanction structure underlying the ritual code."
+    },
+    {
+      "topic": "Veda study as Brahmana's highest duty",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-c7f676",
+          "quote": "He should always study the Veda at the proper time, without weariness; for they call that his highest Dharma; what is other is called a secondary Dharma"
+        },
+        {
+          "paragraph_id": "p-acc62f",
+          "quote": "Through constant study of the Veda, through purity, and through *tapas*, and through non-enmity towards beings, one remembers one's former birth"
+        },
+        {
+          "paragraph_id": "p-6913bc",
+          "quote": "Remembering one's former birth, one studies the Veda again; and by the constant study of the Veda, one enjoys endless happiness"
+        }
+      ],
+      "justification": "The window closes (indices 175–179, p-6ac1c1 through p-6913bc) with a culminating statement that Vedic study is the Brahmana's highest Dharma and the means of recalling past births, framing all other conduct rules as subordinate to this soteriological end."
+    },
+    {
+      "topic": "Livelihoods permitted and forbidden for Brahmanas",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-8b8ea4",
+          "quote": "`Ṛta` is to be known as gleaning; `amṛta` is what is received unsolicited; `mṛta` is begging for alms; and `pramṛta` is remembered as agriculture"
+        },
+        {
+          "paragraph_id": "p-8b8ea4",
+          "quote": "`Satyānṛta` is trade, and by that also one may live; but service is called `śvavṛtti` (a dog's life), therefore one should avoid it"
+        },
+        {
+          "paragraph_id": "p-8b8ea4",
+          "quote": "He should not accept a gift from a king who is not of royal descent, nor from those who live by a slaughterhouse, a wheel, or a banner"
+        }
+      ],
+      "justification": "Mn_4.4–4.9 introduces a systematic typology of Brahmana livelihoods graded by ritual purity, extending through prohibitions on accepting gifts from ritually tainted sources — a sustained economic-ethical theme running through the middle of the window."
+    },
+    {
+      "topic": "Karmic and ritual efficacy of gift-giving",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-8b8ea4",
+          "quote": "Whatever a man, filled with faith, gives according to the rule, that very thing becomes for the ancestors in the next world endless and imperishable"
+        },
+        {
+          "paragraph_id": "p-8b8ea4",
+          "quote": "A gift to a seller of Soma becomes excrement; to a physician, pus and blood; what is given to a temple priest is lost; and to a usurer, it finds no firm footing"
+        }
+      ],
+      "justification": "The text implies that the karmic value of a gift is entirely determined by the recipient's ritual status — this underlying theory of donative efficacy, though not stated as a principle, governs the entire taxonomy of worthy and unworthy Brahmana recipients."
+    }
+  ],
+  "citations": []
+}

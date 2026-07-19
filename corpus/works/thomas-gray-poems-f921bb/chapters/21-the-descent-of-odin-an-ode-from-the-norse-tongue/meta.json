@@ -1,0 +1,47 @@
+{
+  "work_slug": "thomas-gray-poems-f921bb",
+  "work_title": "Poems",
+  "chapter_number": 21,
+  "chapter_title": "The Descent of Odin. An Ode (From the Norse-Tongue,) in Bartholinus, de causis contemnendae mortis; Hafniae, 1689, Quarto. Upreis Odinn allda gautr, &c.",
+  "chapter_slug": "21-the-descent-of-odin-an-ode-from-the-norse-tongue",
+  "author": "Thomas Gray",
+  "author_slug": "thomas-gray",
+  "ecpa_poem_id": "tgaen-wdooo",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode",
+      "dialogue",
+      "Ossianic verse",
+      "prophecy"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 94
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e725bd89-e3de-540e-85fa-fe3b56814a83",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 600,
+      "line_count": 107,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

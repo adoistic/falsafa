@@ -1,0 +1,45 @@
+{
+  "work_slug": "john-dalton-poems-98baf0",
+  "work_title": "Poems",
+  "chapter_number": 2,
+  "chapter_title": "EPISTLE TO THE Right Honble. the Lord Viscount BEAUCHAMP. WRITTEN IN THE YEAR MDCCXXXV-VI.",
+  "chapter_slug": "02-epistle-to-the-right-honble-the-lord-viscount-be",
+  "author": "John Dalton",
+  "author_slug": "john-dalton",
+  "ecpa_poem_id": "o4984-w0040",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "epistle"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 280
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "95daac09-21ce-5615-aa06-73b2590d420c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2178,
+      "line_count": 283,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

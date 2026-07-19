@@ -1,0 +1,28 @@
+{
+  "work_slug": "william-shakespeare-sonnets-65f289",
+  "work_title": "Sonnets",
+  "chapter_number": 7,
+  "chapter_title": "Sonnet 7",
+  "chapter_slug": "007-sonnet-7",
+  "incipit": "Lo! in the orient when the gracious light",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "555ff0a7-7ba3-50da-b0c1-8312b9264810",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 100,
+      "line_count": 14,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1041",
+      "license": "Public domain — from Project Gutenberg (https://www.gutenberg.org)"
+    }
+  ]
+}

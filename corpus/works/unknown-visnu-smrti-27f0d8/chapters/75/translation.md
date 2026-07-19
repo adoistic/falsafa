@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 75**
+**Viṣṇu Smriti 75**
 
 He who performs a *śrāddha* (श्राद्ध) while his father is alive shall perform it for those for whom his father would perform it. // Vi_75.1 //
 

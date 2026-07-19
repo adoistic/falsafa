@@ -1,0 +1,44 @@
+{
+  "work_slug": "joseph-cockfield-poems-b070f1",
+  "work_title": "Poems",
+  "chapter_number": 2,
+  "chapter_title": "ODE TO SOLITUDE.",
+  "chapter_slug": "02-ode-to-solitude",
+  "author": "Joseph Cockfield",
+  "author_slug": "joseph-cockfield",
+  "ecpa_poem_id": "o4986-w0770",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 24
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2dc14fd3-dab2-5bad-9685-1494274335b4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 149,
+      "line_count": 26,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "work_slug": "lady-mary-chudleigh-poems-f0cfc5",
+  "work_title": "Poems",
+  "chapter_number": 35,
+  "chapter_title": "THE SONG OF THE Three Children PARAPHRAS'D.",
+  "chapter_slug": "35-the-song-of-the-three-children-paraphrasd",
+  "author": "Lady Mary Chudleigh",
+  "author_slug": "lady-mary-chudleigh",
+  "ecpa_poem_id": "clc03-w0350",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "rhyme": "irregular",
+    "metrical_pattern": "irregular",
+    "line_count": 2065
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f540df3c-510e-5849-96b8-b35f7c08d2f4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 14693,
+      "line_count": 2157,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

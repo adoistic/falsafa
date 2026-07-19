@@ -1,0 +1,75 @@
+---
+work_id: "8abf5083-81fe-54c0-818e-ffe4310d24f7"
+work_slug: "mary-robinson-poems-8abf50"
+work_title: Poems
+author: Mary Robinson
+author_slug: "mary-robinson"
+ecpa_poem_id: "pro75-w0210"
+chapter_number: 21
+chapter_title: SONG.
+chapter_slug: "21-song"
+variant_id: "252afffa-fd31-582a-9d56-33cb617f03fc"
+content_type: original
+layout: verse
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 185
+source_url: "https://www.eighteenthcenturypoetry.org/"
+license: "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+genres:
+  - song
+metrical_foot: iambic (˘′)
+metrical_count: tetrameter (4 feet)
+stanza_form:
+  - octet (8 lines)
+rhyme_scheme: ababcdcd
+syllable_pattern: 8.6.8.6.8.6.8.6
+---
+
+SONG.
+
+I
+
+As Cupid wanton, giddy child,
+Was rambling throw the shade,
+To mischief prown, the urchin wild,
+Beheld a sleeping maid.
+But how to wound her gentle breast,
+A quick suggestion rose,
+When ev'ry sense was lull'd to rest,
+In peaceful, calm repose.
+
+II
+
+He chang'd his figure in a trice,
+To Strephon's, blith and young,
+Then gently tapt her elbow thrice,
+And thus divinely sung.
+"Ah beauteous maid no longer scorn,
+"A generous, constant swain,
+"My breast with anxious pangs is torn,
+"I pine with ceaseless pain.
+
+III
+
+"Be gone she cried, and henceforth know,
+"Such boldness ne'er could move,
+"A breast to mean deceit a foe,
+"Yet ah! a friend to love.
+"The youth who aims to gain my heart,
+"Must prove his constancy,
+"Confess'd a foe, to every art,
+"From vice, and folly free.
+
+IV
+
+A quiver then the urchin drew,
+Well stor'd with pointed darts,
+And cry'd "fair nymph in me you view,
+"The sov'reign of all hearts.
+"To try your truth I only came,
+"Your gentle breast to move,
+"Thou, goddess, henceforth I proclaim,
+"Of virtue, and of love.

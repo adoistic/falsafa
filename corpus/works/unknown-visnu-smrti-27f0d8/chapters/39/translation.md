@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 39**
+**Viṣṇu Smriti 39**
 
 Harming domestic and wild animals is a sin causing caste mixture (*saṃkarīkaraṇa*). // Vi_39.1 //
 

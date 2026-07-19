@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 7**
+**Viṣṇu Smriti 7**
 
 Now, a document (*lekhya*) is of three kinds. // Vi_7.1 //
 

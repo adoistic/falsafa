@@ -1,0 +1,41 @@
+{
+  "work_slug": "thomas-durfey-poems-452b4d",
+  "work_title": "Poems",
+  "chapter_number": 13,
+  "chapter_title": "The HEALTH. A Second Movement.",
+  "chapter_slug": "13-the-health-a-second-movement",
+  "author": "Thomas D'Urfey",
+  "author_slug": "thomas-durfey",
+  "ecpa_poem_id": "oau90-w0130",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "song"
+    ],
+    "stanzas": [
+      "nine-line stanza"
+    ],
+    "rhyme": "ababccddd",
+    "metrical_pattern": "irregular",
+    "line_count": 9
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "cccec5d7-8b62-55d3-a9d9-957ed080b301",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 65,
+      "line_count": 11,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

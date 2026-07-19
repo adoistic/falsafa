@@ -1,0 +1,38 @@
+{
+  "work_slug": "christian-carstairs-poems-cdca30",
+  "work_title": "Poems",
+  "chapter_number": 7,
+  "chapter_title": "Addressed to a BEECH TREE, on observing that some of its Leaves were tinged by the Smoke of a Fire that had been kindled under it.",
+  "chapter_slug": "07-addressed-to-a-beech-tree-on-observing-that-some",
+  "author": "Christian Carstairs",
+  "author_slug": "christian-carstairs",
+  "ecpa_poem_id": "pcc86-w0070",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "address"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "line_count": 9
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1f09f4b8-926e-5b94-bca6-ef5539b6c9b2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 86,
+      "line_count": 10,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

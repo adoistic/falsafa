@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 81**
+**Viṣṇu Smriti 81**
 
 He shall not place food on a seat. // Vi_81.1 //
 

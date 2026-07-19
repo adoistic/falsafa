@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 78**
+**Viṣṇu Smriti 78**
 
 By constantly performing a *śrāddha* (श्राद्ध) on Sunday, he obtains health. // Vi_78.1 //
 
@@ -64,7 +64,7 @@ Gold in the *Viśākhā* (विशाखा) constellation. // Vi_78.21 //
 
 Friends in the *Maitra* (मैत्र) (Anuradha) constellation. // Vi_78.22 //
 
-Sovereignty in the *Śākra* (शाक्र) (Jyeshtha) constellation. // Vi_78.23 //
+Sovereignty in the *Śākra* (शाक्र) (Jyeṣṭha) constellation. // Vi_78.23 //
 
 Agriculture in the *Mūla* (मूल) constellation. // Vi_78.24 //
 

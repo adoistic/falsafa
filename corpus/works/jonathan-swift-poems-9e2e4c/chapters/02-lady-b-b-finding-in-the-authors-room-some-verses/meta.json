@@ -1,0 +1,38 @@
+{
+  "work_slug": "jonathan-swift-poems-9e2e4c",
+  "work_title": "Poems",
+  "chapter_number": 2,
+  "chapter_title": "Lady B— B— finding in the Authors Room some Verses Unfinished, underwrit a Stanza of her own, with Railery upon him, which gave Occasion to this Ballade. August, 1702.",
+  "chapter_slug": "02-lady-b-b-finding-in-the-authors-room-some-verses",
+  "author": "Jonathan Swift",
+  "author_slug": "jonathan-swift",
+  "ecpa_poem_id": "psw11-w0030",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "song"
+    ],
+    "rhyme": "ababcccddee",
+    "metrical_pattern": "irregular",
+    "line_count": 33
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "73672401-fe85-5830-8080-d1c50ff86024",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 322,
+      "line_count": 42,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

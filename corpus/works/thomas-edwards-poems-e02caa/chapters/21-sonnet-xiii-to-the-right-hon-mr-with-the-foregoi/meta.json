@@ -1,0 +1,41 @@
+{
+  "work_slug": "thomas-edwards-poems-e02caa",
+  "work_title": "Poems",
+  "chapter_number": 21,
+  "chapter_title": "SONNET XIII. To the Right Hon. Mr. —, with the foregoing SONNETS.",
+  "chapter_slug": "21-sonnet-xiii-to-the-right-hon-mr-with-the-foregoi",
+  "author": "Thomas Edwards",
+  "author_slug": "thomas-edwards",
+  "ecpa_poem_id": "o5153-w0782",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "sonnet",
+      "Italian (Petrarchan) sonnet"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 14
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "35934e32-c8d2-5ea9-9708-f2b81c68e3fe",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 118,
+      "line_count": 16,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 18**
+**Viṣṇu Smriti 18**
 
 If a Brāhmaṇa has sons in the four *varṇas*, they shall divide the paternal estate into ten parts. // Vi_18.1 //
 

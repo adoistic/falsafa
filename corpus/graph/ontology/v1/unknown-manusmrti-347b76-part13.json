@@ -1,0 +1,359 @@
+{
+  "slug": "unknown-manusmrti-347b76",
+  "window": "09:130-154",
+  "entities": [
+    {
+      "canonical_name": "Brahmana",
+      "surface_names": ["Brahmanas", "Brahma power", "Brahma"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-5f622b",
+          "quote": "he must not provoke Brahmanas; for they, being angered, could slay him immediately, with his army and vehicles.",
+          "role": "subject — sacred class whose wrath is fatal to kings"
+        },
+        {
+          "paragraph_id": "p-47b29b",
+          "quote": "By whom fire was made to consume all things, and the great ocean undrinkable, and the waning Soma made to wax again",
+          "role": "agent of cosmic feats ascribed to angered Brahmanas"
+        },
+        {
+          "paragraph_id": "p-69c466",
+          "quote": "They who, being angered, could create other worlds and other world-protectors, and could make gods into non-gods",
+          "role": "subject — limitless creative and destructive power"
+        },
+        {
+          "paragraph_id": "p-2a926b",
+          "quote": "They on whom the worlds and the gods always depend for support, and whose wealth is the Veda itself",
+          "role": "cosmic sustainer"
+        },
+        {
+          "paragraph_id": "p-dab758",
+          "quote": "A Brahmana, whether unlearned or learned, is a great deity",
+          "role": "subject of divine status declaration"
+        },
+        {
+          "paragraph_id": "p-de2906",
+          "quote": "even if they engage in all kinds of undesirable actions, Brahmanas are to be honored in every way; for that is the supreme deity.",
+          "role": "object of unconditional reverence"
+        },
+        {
+          "paragraph_id": "p-41c328",
+          "quote": "service alone to the Brahmanas who know the Veda, who are householders and are famous, is the highest Dharma for a Shudra",
+          "role": "recipient of Shudra service"
+        }
+      ],
+      "description": "The priestly varna, depicted as semi-divine beings whose anger can destroy kings and remake worlds, and to whom all other varnas owe service.",
+      "justification": "The window's central argument is the inviolable supremacy of the Brahmana class, grounded across multiple verses (313–319, 334) in both cosmological and practical terms."
+    },
+    {
+      "canonical_name": "Kshatra",
+      "surface_names": ["Kshatra power", "Kshatra", "Kshatriya"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-5f11ba",
+          "quote": "When the Kshatra power has grown too great against the Brahmanas in every way, the Brahma power itself shall be the restrainer; for the Kshatra is born from the Brahma.",
+          "role": "subject — warrior power checked by priestly power"
+        },
+        {
+          "paragraph_id": "p-b71f41",
+          "quote": "From water, fire arose; from the Brahma, the Kshatra; from stone, iron.",
+          "role": "ontological derivation from Brahma"
+        },
+        {
+          "paragraph_id": "p-154f5b",
+          "quote": "The Kshatra does not prosper without the Brahma; the Brahma does not increase without the Kshatra.",
+          "role": "interdependent partner of Brahma power"
+        }
+      ],
+      "description": "The warrior-ruler power, said to be born from the Brahma and to require its guidance, unable to prosper independently.",
+      "justification": "Three consecutive verses (320–322) work out the cosmological and political relationship between Brahma and Kshatra as interdependent yet hierarchically ordered."
+    },
+    {
+      "canonical_name": "Prajapati",
+      "surface_names": ["Prajapati"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-f00e35",
+          "quote": "For Prajapati, having created cattle, entrusted them to the Vaishya; and to the Brahmana and the king, he entrusted all the subjects.",
+          "role": "divine creator who assigns cosmic duties to each varna"
+        }
+      ],
+      "description": "The Lord of Creatures who, in the text's cosmogony, created cattle and assigned them to the Vaishya while entrusting all human subjects to Brahmanas and kings.",
+      "justification": "Prajapati is invoked as the originary authority for the economic and social division of labor among the varnas (Mn_9.327)."
+    },
+    {
+      "canonical_name": "Soma",
+      "surface_names": ["waning Soma", "Soma"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-47b29b",
+          "quote": "the waning Soma made to wax again",
+          "role": "cosmic beneficiary of Brahmana ritual power"
+        }
+      ],
+      "description": "The lunar deity and sacred drink whose waxing was restored by the power of Brahmanas, cited as evidence of their cosmic efficacy.",
+      "justification": "Soma's renewal is listed alongside taming fire and the ocean as one of three legendary cosmic acts performed by Brahmanas (Mn_9.314)."
+    },
+    {
+      "canonical_name": "Fire",
+      "surface_names": ["fire", "brilliant fire", "Agni"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-47b29b",
+          "quote": "By whom fire was made to consume all things",
+          "role": "element empowered by Brahmana agency"
+        },
+        {
+          "paragraph_id": "p-dab758",
+          "quote": "just as fire, whether consecrated or unconsecrated, is a great deity",
+          "role": "comparandum for Brahmana's inherent divinity"
+        },
+        {
+          "paragraph_id": "p-b31f26",
+          "quote": "Even in cremation grounds, the brilliant fire is not defiled; and when oblations are offered to it in sacrifices, it increases yet more.",
+          "role": "analogy illustrating Brahmana's ritual purity"
+        },
+        {
+          "paragraph_id": "p-b71f41",
+          "quote": "From water, fire arose; from the Brahma, the Kshatra; from stone, iron.",
+          "role": "element in a cosmogonic series of elemental derivations"
+        }
+      ],
+      "description": "Fire as both elemental force and deity, used as the primary analogy for the Brahmana's inherent sacredness regardless of moral state.",
+      "justification": "The fire analogy is developed across three consecutive verses (317–318, 321) to ground Brahmana supremacy in the nature of sacred fire."
+    },
+    {
+      "canonical_name": "Vaishya",
+      "surface_names": ["Vaishya", "a Vaishya"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-0fe583",
+          "quote": "a Vaishya, having received the consecrating rites and having taken a wife, should be ever engaged in economics and in the protection of cattle.",
+          "role": "subject of prescribed economic duties"
+        },
+        {
+          "paragraph_id": "p-f00e35",
+          "quote": "For Prajapati, having created cattle, entrusted them to the Vaishya",
+          "role": "divinely appointed steward of cattle"
+        },
+        {
+          "paragraph_id": "p-ceb38b",
+          "quote": "a Vaishya should not have the desire, 'I will not protect the cattle'",
+          "role": "obligated protector of cattle"
+        },
+        {
+          "paragraph_id": "p-b91c8d",
+          "quote": "one should know this rule of action, in order, for the Vaishya and the Shudra.",
+          "role": "addressee of varna-specific conduct rules"
+        }
+      ],
+      "description": "The merchant-farmer varna divinely tasked by Prajapati with protection of cattle and mastery of trade, agriculture, and commercial knowledge.",
+      "justification": "Verses 326–333 constitute an extended specification of Vaishya duties, including cattle-keeping, commerce, weights, languages, and seed-knowledge."
+    },
+    {
+      "canonical_name": "Shudra",
+      "surface_names": ["Shudra", "a Shudra"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-41c328",
+          "quote": "service alone to the Brahmanas who know the Veda, who are householders and are famous, is the highest Dharma for a Shudra, leading to the supreme good.",
+          "role": "subject whose highest duty is defined as Brahmana service"
+        },
+        {
+          "paragraph_id": "p-c3bde1",
+          "quote": "Pure, serving the superior, gentle in speech, without arrogance, always taking refuge in the Brahmanas and others, he attains a superior birth.",
+          "role": "subject of virtuous conduct leading to better rebirth"
+        }
+      ],
+      "description": "The fourth varna whose prescribed highest Dharma in this window is service to Vedic Brahmana householders, with the promise of a superior rebirth as reward.",
+      "justification": "Verses 334–335 close the varna-duty sequence by defining Shudra svadharma as pure service and devotion to higher varnas."
+    },
+    {
+      "canonical_name": "King",
+      "surface_names": ["king", "a king", "the king"],
+      "kind": "figure",
+      "figure_kind": "ruler",
+      "mentions": [
+        {
+          "paragraph_id": "p-1eaf46",
+          "quote": "a king should restrain thieves in his own kingdom and in that of another.",
+          "role": "agent of law enforcement"
+        },
+        {
+          "paragraph_id": "p-5f622b",
+          "quote": "Even when he has reached the greatest distress, he must not provoke Brahmanas",
+          "role": "subject warned against antagonizing Brahmanas"
+        },
+        {
+          "paragraph_id": "p-394dbf",
+          "quote": "having given to Brahmanas the wealth arising from all fines, having entrusted the kingdom to his son, he should make his last journey in battle.",
+          "role": "agent performing final royal duties"
+        },
+        {
+          "paragraph_id": "p-c6eb0e",
+          "quote": "A king, thus acting, always engaged in the Dharmas of kings, should employ all his servants in what is beneficial for the world.",
+          "role": "ideal ruler embodying royal Dharma"
+        },
+        {
+          "paragraph_id": "p-f00e35",
+          "quote": "to the Brahmana and the king, he entrusted all the subjects.",
+          "role": "co-guardian of all subjects alongside Brahmanas"
+        }
+      ],
+      "description": "The royal figure whose duties include suppressing crime, deferring to Brahmanas, distributing fines as gifts to Brahmanas, and finally dying in battle.",
+      "justification": "The window opens (312) and closes the king's section (323–325) with prescriptions for royal conduct, bracketing the Brahmana-supremacy argument."
+    },
+    {
+      "canonical_name": "Cattle",
+      "surface_names": ["cattle", "the cattle"],
+      "kind": "animal",
+      "mentions": [
+        {
+          "paragraph_id": "p-f00e35",
+          "quote": "For Prajapati, having created cattle, entrusted them to the Vaishya",
+          "role": "divinely assigned charge of the Vaishya"
+        },
+        {
+          "paragraph_id": "p-ceb38b",
+          "quote": "a Vaishya should not have the desire, 'I will not protect the cattle'; for if a Vaishya wishes it so, they must not be protected by another in any way.",
+          "role": "object of exclusive Vaishya protection"
+        }
+      ],
+      "description": "Cattle created by Prajapati and exclusively entrusted to the Vaishya varna for protection; no other varna may substitute.",
+      "justification": "Two consecutive verses (327–328) establish cattle as the defining economic responsibility of the Vaishya, grounded in divine ordinance."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Brahmanical supremacy and inviolability",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-5f622b",
+          "quote": "he must not provoke Brahmanas; for they, being angered, could slay him immediately"
+        },
+        {
+          "paragraph_id": "p-dab758",
+          "quote": "A Brahmana, whether unlearned or learned, is a great deity"
+        },
+        {
+          "paragraph_id": "p-de2906",
+          "quote": "even if they engage in all kinds of undesirable actions, Brahmanas are to be honored in every way"
+        }
+      ],
+      "justification": "Verses 313–319 form the window's theological core: Brahmana sacredness is absolute, unconditional, and cosmologically grounded, independent of individual Brahmana conduct."
+    },
+    {
+      "topic": "Complementarity and hierarchy of Brahma and Kshatra powers",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-5f11ba",
+          "quote": "the Kshatra power has grown too great against the Brahmanas… the Brahma power itself shall be the restrainer; for the Kshatra is born from the Brahma."
+        },
+        {
+          "paragraph_id": "p-154f5b",
+          "quote": "The Kshatra does not prosper without the Brahma; the Brahma does not increase without the Kshatra."
+        }
+      ],
+      "justification": "Verses 320–322 articulate a political theology in which priestly and warrior powers are mutually necessary yet hierarchically ordered, with Brahma as originary."
+    },
+    {
+      "topic": "Varna-specific duties (svadharma)",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-b91c8d",
+          "quote": "This entire eternal rule of action has been declared for a king; one should know this rule of action, in order, for the Vaishya and the Shudra."
+        },
+        {
+          "paragraph_id": "p-0fe583",
+          "quote": "a Vaishya, having received the consecrating rites and having taken a wife, should be ever engaged in economics and in the protection of cattle."
+        },
+        {
+          "paragraph_id": "p-41c328",
+          "quote": "service alone to the Brahmanas who know the Veda… is the highest Dharma for a Shudra, leading to the supreme good."
+        }
+      ],
+      "justification": "The window concludes with a systematic enumeration of duties for the lower three varnas (king/Kshatriya 323–325, Vaishya 326–333, Shudra 334–335), affirming that each varna has a distinct prescribed path."
+    },
+    {
+      "topic": "Rebirth consequences of conduct",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-c3bde1",
+          "quote": "Pure, serving the superior, gentle in speech, without arrogance, always taking refuge in the Brahmanas and others, he attains a superior birth."
+        }
+      ],
+      "justification": "The Shudra's virtuous adherence to svadharma is rewarded with a superior rebirth, invoking the karmic framework that underwrites the entire Manusmrti ethics."
+    },
+    {
+      "topic": "Fire as analogy for inherent sacred purity",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-dab758",
+          "quote": "just as fire, whether consecrated or unconsecrated, is a great deity"
+        },
+        {
+          "paragraph_id": "p-b31f26",
+          "quote": "Even in cremation grounds, the brilliant fire is not defiled; and when oblations are offered to it in sacrifices, it increases yet more."
+        }
+      ],
+      "justification": "The fire analogy across 317–318 is a deliberate rhetorical device: fire's purity in impure places (cremation grounds) models Brahmana purity despite contact with sin."
+    },
+    {
+      "topic": "Royal duty of criminal suppression",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-1eaf46",
+          "quote": "a king should restrain thieves in his own kingdom and in that of another."
+        }
+      ],
+      "justification": "Verse 312 closes the preceding anti-theft passage by summarizing the king's obligation to suppress crime as continuous, unwearied duty spanning even foreign territories."
+    },
+    {
+      "topic": "Commercial and agricultural knowledge as Vaishya virtue",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-08e538",
+          "quote": "Of jewels, pearls, and coral, of metals and of woven cloth, of perfumes and of savory liquids, he should know the relative value."
+        },
+        {
+          "paragraph_id": "p-2931e4",
+          "quote": "He should know the sowing of seeds and the faults and qualities of fields; he should know the application of measures and the application of weights"
+        },
+        {
+          "paragraph_id": "p-2d76d8",
+          "quote": "the excellence and worthlessness of goods, and the advantages and disadvantages of countries, and the profit and loss of merchandise, and the rearing of cattle."
+        }
+      ],
+      "justification": "Verses 329–332 provide an unusually concrete catalogue of the commercial and agricultural expertise expected of the Vaishya, reflecting the text's concern for practical varna competence."
+    },
+    {
+      "topic": "Cosmogonic derivation as legitimation of social order",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-b71f41",
+          "quote": "From water, fire arose; from the Brahma, the Kshatra; from stone, iron. Their all-pervading energy is pacified in their own sources."
+        }
+      ],
+      "justification": "The elemental cosmogony (water→fire, Brahma→Kshatra, stone→iron) implicitly legitimates social hierarchy by mapping it onto natural origination sequences, presenting varna order as cosmically given."
+    }
+  ],
+  "citations": []
+}

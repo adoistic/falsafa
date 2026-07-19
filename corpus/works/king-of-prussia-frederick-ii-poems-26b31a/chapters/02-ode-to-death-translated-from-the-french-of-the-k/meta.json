@@ -1,0 +1,44 @@
+{
+  "work_slug": "king-of-prussia-frederick-ii-poems-26b31a",
+  "work_title": "Poems",
+  "chapter_number": 2,
+  "chapter_title": "ODE to DEATH. Translated from the FRENCH of the King of PRUSSIA.",
+  "chapter_slug": "02-ode-to-death-translated-from-the-french-of-the-k",
+  "author": "King of Prussia Frederick II",
+  "author_slug": "king-of-prussia-frederick-ii",
+  "ecpa_poem_id": "o5156-w0570",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "sestet (6 lines)"
+    ],
+    "rhyme": "aabccb",
+    "syllable_pattern": "8.8.8.8.8.8",
+    "metrical_pattern": "-+|-+|-+|-+/         -+|-+|-+|-+/         -+|-+|-+|-+/         -+|-+|-+|-+/         -+|-+|-+|-+/         -+|-+|-+|-+/",
+    "line_count": 120
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b27928e8-91a6-5e08-87ff-0258570e2f3c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 796,
+      "line_count": 123,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

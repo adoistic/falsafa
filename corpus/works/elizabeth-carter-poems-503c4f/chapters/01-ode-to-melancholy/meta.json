@@ -1,0 +1,44 @@
+{
+  "work_slug": "elizabeth-carter-poems-503c4f",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "ODE TO MELANCHOLY.",
+  "chapter_slug": "01-ode-to-melancholy",
+  "author": "Elizabeth Carter",
+  "author_slug": "elizabeth-carter",
+  "ecpa_poem_id": "o4984-w0310",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "sestet (6 lines)"
+    ],
+    "rhyme": "aabccb",
+    "syllable_pattern": "8.8.6.8.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 78
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2138dc6f-bab4-5ec3-9afb-40cbdea4ef4e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 415,
+      "line_count": 80,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

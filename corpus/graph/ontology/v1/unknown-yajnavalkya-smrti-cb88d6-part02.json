@@ -1,0 +1,595 @@
+{
+  "slug": "unknown-yajnavalkya-smrti-cb88d6",
+  "window": "01:229-384",
+  "entities": [
+    {
+      "canonical_name": "Vināyaka",
+      "surface_names": ["Gaṇapati", "Mahāgaṇapati", "Vināyaka"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-19927e",
+          "quote": "Vināyaka was appointed by Rudra and also by Brahmā for the purpose of creating obstacles to actions and for success, and to the lordship over the Gaṇas.",
+          "role": "subject of appointment by Rudra and Brahmā; lord of obstacles and success"
+        },
+        {
+          "paragraph_id": "p-751673",
+          "quote": "Then he should worship Ambikā, the mother of Vināyaka",
+          "role": "son of Ambikā; recipient of worship"
+        },
+        {
+          "paragraph_id": "p-cbb64b",
+          "quote": "Thus, having worshipped Vināyaka and also the planets according to rule, one obtains the fruit of one's actions and attains unsurpassed prosperity.",
+          "role": "deity to be worshipped for prosperity"
+        },
+        {
+          "paragraph_id": "p-2d87ca",
+          "quote": "By constantly performing the worship of Āditya (the Sun) and Svāmin (Kārttikeya), and also of Mahāgaṇapati, one attains success.",
+          "role": "deity worshipped for success"
+        }
+      ],
+      "description": "Vināyaka (Gaṇapati) is the deity appointed by Rudra and Brahmā as lord of the Gaṇas, responsible for creating obstacles or granting success, and propitiated through specific rites.",
+      "justification": "Vināyaka is named explicitly as a deity appointed by Rudra and Brahmā for obstacle-creation and success, and is the subject of an entire section (gaṇapatikalpaprakaraṇam) prescribing his propitiation."
+    },
+    {
+      "canonical_name": "Rudra",
+      "surface_names": ["Rudra"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-19927e",
+          "quote": "Vināyaka was appointed by Rudra and also by Brahmā for the purpose of creating obstacles to actions and for success",
+          "role": "one of the two divine authorities who appointed Vināyaka"
+        }
+      ],
+      "description": "Rudra is the Vedic-Purāṇic deity who, together with Brahmā, appointed Vināyaka to the lordship over the Gaṇas.",
+      "justification": "Rudra is named as a divine authority in the mythological account explaining Vināyaka's role."
+    },
+    {
+      "canonical_name": "Brahmā",
+      "surface_names": ["Brahmā"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-19927e",
+          "quote": "Vināyaka was appointed by Rudra and also by Brahmā for the purpose of creating obstacles to actions and for success",
+          "role": "one of the two divine authorities who appointed Vināyaka"
+        },
+        {
+          "paragraph_id": "p-0f7e84",
+          "quote": "A boon was given to them by Brahmā: \"When worshipped, you shall worship in return.\"",
+          "role": "giver of boon to the Grahas"
+        },
+        {
+          "paragraph_id": "p-ff5556",
+          "quote": "For `*dharma*` was created of old by Brahmā in the form of punishment.",
+          "role": "creator of dharma as punishment"
+        }
+      ],
+      "description": "Brahmā is the creator deity who appointed Vināyaka, granted a boon to the planetary Grahas, and is credited with originally creating dharma in the form of punishment.",
+      "justification": "Brahmā appears three times in distinct roles: as co-appointer of Vināyaka, as grantor of the Grahas' boon, and as the primordial source of daṇḍa-dharma."
+    },
+    {
+      "canonical_name": "Ambikā",
+      "surface_names": ["Ambikā"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-751673",
+          "quote": "Then he should worship Ambikā, the mother of Vināyaka, having offered a handful of Arghya with dūrvā grass, mustard seeds, and flowers.",
+          "role": "mother of Vināyaka; recipient of worship in the Gaṇapati rite"
+        }
+      ],
+      "description": "Ambikā is the goddess worshipped as the mother of Vināyaka within the propitiation rite for Gaṇapati.",
+      "justification": "Ambikā is explicitly named as the mother of Vināyaka and is directed to receive worship as part of the gaṇapatikalpaprakaraṇam section."
+    },
+    {
+      "canonical_name": "Varuṇa",
+      "surface_names": ["Varuṇa", "King Varuṇa"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-698e08",
+          "quote": "\"May King Varuṇa give you fortune, may Sūrya and Bṛhaspati give you fortune; may Indra and Vāyu give you fortune, and may the Seven Sages give you fortune.\"",
+          "role": "deity invoked to bestow fortune in the purification mantra"
+        }
+      ],
+      "description": "Varuṇa is a Vedic deity invoked as King Varuṇa in the mantra recited during the purificatory bath rite for one afflicted by Vināyaka.",
+      "justification": "Varuṇa is named in a direct quotation of a mantra prescribed in the Vināyaka propitiation rite."
+    },
+    {
+      "canonical_name": "Sūrya",
+      "surface_names": ["Sūrya", "Āditya", "the Sun"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-698e08",
+          "quote": "may Sūrya and Bṛhaspati give you fortune",
+          "role": "deity invoked to bestow fortune in the purification mantra"
+        },
+        {
+          "paragraph_id": "p-8dd1a3",
+          "quote": "The Sun (Sūrya), the Moon (Soma), the son of Earth (Mars), the son of Soma (Mercury), Bṛhaspati (Jupiter), Śukra (Venus), Śanaiścara (Saturn), Rāhu, and Ketu—these are known as the Grahas.",
+          "role": "first of the nine planetary Grahas"
+        },
+        {
+          "paragraph_id": "p-2d87ca",
+          "quote": "By constantly performing the worship of Āditya (the Sun) and Svāmin (Kārttikeya), and also of Mahāgaṇapati, one attains success.",
+          "role": "deity worshipped for success"
+        }
+      ],
+      "description": "Sūrya (Āditya) is the sun deity, first among the nine planetary Grahas, invoked in mantras and worshipped for fortune and success.",
+      "justification": "Sūrya appears in three distinct contexts: a mantra, the enumeration of Grahas, and a prescription for daily worship."
+    },
+    {
+      "canonical_name": "Bṛhaspati",
+      "surface_names": ["Bṛhaspati", "Jupiter"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-698e08",
+          "quote": "may Sūrya and Bṛhaspati give you fortune",
+          "role": "deity invoked to bestow fortune"
+        },
+        {
+          "paragraph_id": "p-8dd1a3",
+          "quote": "Bṛhaspati (Jupiter)",
+          "role": "one of the nine planetary Grahas"
+        }
+      ],
+      "description": "Bṛhaspati is the deity identified with the planet Jupiter, invoked in purification mantras and listed among the nine Grahas.",
+      "justification": "Bṛhaspati is named both in a quoted mantra and in the canonical enumeration of the Grahas."
+    },
+    {
+      "canonical_name": "Indra",
+      "surface_names": ["Indra"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-698e08",
+          "quote": "may Indra and Vāyu give you fortune",
+          "role": "deity invoked to bestow fortune in the purification mantra"
+        }
+      ],
+      "description": "Indra is the Vedic king of the gods, invoked in a purification mantra during the Vināyaka propitiation rite.",
+      "justification": "Indra is named in a directly quoted mantra prescribed for the ritual bath in the gaṇapatikalpaprakaraṇam section."
+    },
+    {
+      "canonical_name": "Vāyu",
+      "surface_names": ["Vāyu"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-698e08",
+          "quote": "may Indra and Vāyu give you fortune",
+          "role": "deity invoked to bestow fortune in the purification mantra"
+        }
+      ],
+      "description": "Vāyu is the Vedic wind deity invoked in a purification mantra during the Vināyaka propitiation rite.",
+      "justification": "Vāyu is named in a directly quoted mantra prescribed for the ritual bath."
+    },
+    {
+      "canonical_name": "Kārttikeya",
+      "surface_names": ["Kārttikeya", "Svāmin"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-2d87ca",
+          "quote": "By constantly performing the worship of Āditya (the Sun) and Svāmin (Kārttikeya), and also of Mahāgaṇapati, one attains success.",
+          "role": "deity worshipped for success, grouped with Āditya and Mahāgaṇapati"
+        }
+      ],
+      "description": "Kārttikeya (referred to as Svāmin, 'the Lord') is a deity whose constant worship, alongside Āditya and Mahāgaṇapati, is said to bring success.",
+      "justification": "Kārttikeya is explicitly glossed as Svāmin and prescribed as one of three deities for daily worship at the conclusion of the Gaṇapati propitiation section."
+    },
+    {
+      "canonical_name": "Vasus",
+      "surface_names": ["Vasus"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-e3dae4",
+          "quote": "The Vasus, Rudras, and sons of Aditi are the deities of the `*śrāddha*`; being gratified by the `*śrāddha*`, they in turn gratify the Ancestors of men.",
+          "role": "divine class that mediates śrāddha offerings to the Ancestors"
+        }
+      ],
+      "description": "The Vasus are a class of Vedic deities named as the divine recipients of the śrāddha rite who in turn convey the offerings to the Ancestors.",
+      "justification": "The Vasus are named as one of three divine groups who are the deities of the śrāddha and act as intermediaries to the Ancestors."
+    },
+    {
+      "canonical_name": "Rudras",
+      "surface_names": ["Rudras"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-e3dae4",
+          "quote": "The Vasus, Rudras, and sons of Aditi are the deities of the `*śrāddha*`",
+          "role": "divine class that mediates śrāddha offerings to the Ancestors"
+        }
+      ],
+      "description": "The Rudras are a class of eleven Vedic deities named as co-recipients of the śrāddha alongside the Vasus and Ādityas.",
+      "justification": "The Rudras are explicitly listed as one of the three divine groups presiding over the śrāddha rite."
+    },
+    {
+      "canonical_name": "Ādityas",
+      "surface_names": ["sons of Aditi", "Ādityas"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-e3dae4",
+          "quote": "The Vasus, Rudras, and sons of Aditi are the deities of the `*śrāddha*`",
+          "role": "divine class that mediates śrāddha offerings to the Ancestors"
+        }
+      ],
+      "description": "The Ādityas (sons of Aditi) are a class of solar deities who are the third divine group presiding over the śrāddha rite.",
+      "justification": "The sons of Aditi are explicitly identified as the third group of śrāddha deities alongside the Vasus and Rudras."
+    },
+    {
+      "canonical_name": "Seven Sages",
+      "surface_names": ["Seven Sages", "Saptarṣi"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-698e08",
+          "quote": "may the Seven Sages give you fortune",
+          "role": "invoked to bestow fortune in the purification mantra"
+        }
+      ],
+      "description": "The Seven Sages (Saptarṣis) are the primordial seers invoked in a mantra recited during the ritual bath for one afflicted by Vināyaka.",
+      "justification": "The Seven Sages are invoked in a directly quoted mantra in the Vināyaka propitiation rite."
+    },
+    {
+      "canonical_name": "Grahas",
+      "surface_names": ["Grahas", "planets", "nine Grahas"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-8dd1a3",
+          "quote": "The Sun (Sūrya), the Moon (Soma), the son of Earth (Mars), the son of Soma (Mercury), Bṛhaspati (Jupiter), Śukra (Venus), Śanaiścara (Saturn), Rāhu, and Ketu—these are known as the Grahas.",
+          "role": "the nine planetary deities enumerated"
+        },
+        {
+          "paragraph_id": "p-0f7e84",
+          "quote": "A boon was given to them by Brahmā: \"When worshipped, you shall worship in return.\"",
+          "role": "recipients of Brahmā's boon of reciprocal worship"
+        },
+        {
+          "paragraph_id": "p-03239d",
+          "quote": "The rises and falls of kings are dependent on the Grahas, as are the existence and non-existence of the world; therefore, the Grahas are most worthy of worship.",
+          "role": "cosmic powers governing royal and worldly fate"
+        }
+      ],
+      "description": "The Grahas are the nine planetary deities (Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rāhu, Ketu) who govern the fate of kings and the world and are to be propitiated through sacrifice.",
+      "justification": "The Grahas are the subject of an entire section (grahaśāntiprakaraṇam) prescribing their worship, enumeration, materials, mantras, and fees."
+    },
+    {
+      "canonical_name": "Rāhu",
+      "surface_names": ["Rāhu"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-8dd1a3",
+          "quote": "Rāhu, and Ketu—these are known as the Grahas.",
+          "role": "one of the nine Grahas"
+        }
+      ],
+      "description": "Rāhu is the eighth Graha, a shadow planet associated with lunar eclipses, enumerated among the nine planetary deities to be propitiated.",
+      "justification": "Rāhu is explicitly named in the canonical list of nine Grahas."
+    },
+    {
+      "canonical_name": "Ketu",
+      "surface_names": ["Ketu"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-8dd1a3",
+          "quote": "Rāhu, and Ketu—these are known as the Grahas.",
+          "role": "one of the nine Grahas"
+        }
+      ],
+      "description": "Ketu is the ninth Graha, a shadow planet associated with the descending lunar node, enumerated among the nine planetary deities to be propitiated.",
+      "justification": "Ketu is explicitly named as the last of the nine Grahas."
+    },
+    {
+      "canonical_name": "Nāndīmukha Ancestors",
+      "surface_names": ["Nāndīmukha Ancestors"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-bdffa0",
+          "quote": "In a rite of prosperity (`vṛddhi`), performing the actions with circumambulation, he should worship the Nāndīmukha Ancestors",
+          "role": "Ancestors specifically worshipped in the vṛddhi rite of prosperity"
+        }
+      ],
+      "description": "The Nāndīmukha Ancestors are a specific class of ancestral spirits worshipped in the vṛddhi (prosperity) rite, distinguished from the regular pitr̥ invoked in ordinary śrāddhas.",
+      "justification": "The Nāndīmukha Ancestors are named as the specific recipients of worship in the vṛddhi rite, indicating a distinct sub-category of ancestral beings."
+    },
+    {
+      "canonical_name": "Gayā",
+      "surface_names": ["Gayā"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-1f1c47",
+          "quote": "Whatever one gives while at Gayā brings infinite reward",
+          "role": "sacred pilgrimage site where śrāddha offerings bring infinite reward"
+        }
+      ],
+      "description": "Gayā is a sacred pilgrimage site where performing the śrāddha rite is declared to bring infinite reward.",
+      "justification": "Gayā is explicitly named as a location conferring infinite merit for śrāddha offerings."
+    },
+    {
+      "canonical_name": "Brāhmaṇa",
+      "surface_names": ["Brāhmaṇas", "Brāhmaṇa", "śrotriya"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-5d466f",
+          "quote": "One pre-eminent in all the Vedas, a śrotriya, a knower of Brahman, a youth, one who knows the meaning of the Veda, a singer of the Jyeṣṭhasāman, a Trimadhu, and a Trisuparṇa.",
+          "role": "ideal Brāhmaṇas to be invited to a śrāddha"
+        },
+        {
+          "paragraph_id": "p-909513",
+          "quote": "those devoted to ritual action, those devoted to austerity, one who maintains the five fires, celibate students, and those devoted to their father and mother—these Brāhmaṇas are the treasures of a `*śrāddha*`.",
+          "role": "Brāhmaṇas of highest merit for the śrāddha"
+        },
+        {
+          "paragraph_id": "p-9485fa",
+          "quote": "He should give enjoyments and various kinds of wealth to Brāhmaṇas; what is bestowed upon Brāhmaṇas is an inexhaustible treasure for kings.",
+          "role": "recipients of royal gifts; spiritual treasure for kings"
+        }
+      ],
+      "description": "Brāhmaṇas are the priestly class who are central to śrāddha rites—invited, fed, and given sacrificial fees—and are declared an inexhaustible treasure for kings who give to them.",
+      "justification": "Brāhmaṇas are the most frequently recurring group in this window, serving as officiants, guests, and beneficiaries across both the śrāddha and rājadharma sections."
+    },
+    {
+      "canonical_name": "Ancestors",
+      "surface_names": ["Ancestors", "grandfathers", "Pitṛs", "maternal grandfathers"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-076efe",
+          "quote": "With sacrificial food, the Ancestors are satisfied for a month; with milk-rice, for a year.",
+          "role": "recipients of śrāddha offerings, satisfied for varying periods by different foods"
+        },
+        {
+          "paragraph_id": "p-a8db02",
+          "quote": "Being pleased, the grandfathers of men bestow long life, progeny, wealth, knowledge, heaven, liberation, and happiness, as well as sovereignty.",
+          "role": "bestowers of boons when pleased by śrāddha"
+        },
+        {
+          "paragraph_id": "p-e3dae4",
+          "quote": "being gratified by the `*śrāddha*`, they in turn gratify the Ancestors of men.",
+          "role": "ultimate recipients whom the Vasus, Rudras, and Ādityas convey offerings to"
+        }
+      ],
+      "description": "The Ancestors (Pitṛs/grandfathers) are the deceased forebears for whom the śrāddha rite is performed; when satisfied, they bestow long life, progeny, wealth, heaven, and liberation on their descendants.",
+      "justification": "The Ancestors are the central recipients throughout the śrāddha section, with detailed prescriptions for their satisfaction and the boons they grant in return."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Śrāddha ritual: eligibility, procedure, and efficacy",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-fe540f",
+          "quote": "The new moon day, the Aṣṭakā days, a prosperous occasion, the dark fortnight, the two solstices, the availability of proper materials and a worthy Brāhmaṇa, the equinoxes, and the sun's passage into a new sign."
+        },
+        {
+          "paragraph_id": "p-909513",
+          "quote": "these Brāhmaṇas are the treasures of a `*śrāddha*`"
+        },
+        {
+          "paragraph_id": "p-236820",
+          "quote": "all these he obtains who performs a `*śrāddha*` according to rule"
+        }
+      ],
+      "justification": "The opening 54 paragraphs of the window (Yj 1.217–1.270) are entirely devoted to prescribing the correct times, eligible guests, step-by-step procedure, foods, piṇḍas, and fruits of the śrāddha rite."
+    },
+    {
+      "topic": "Ritual purity and pollution: inclusion and exclusion from sacred rites",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-f27884",
+          "quote": "The diseased, one with a deficient or superfluous limb, one-eyed, the son of a remarried woman, a student who has broken his vow of celibacy, a Kuṇḍa and a Gola, one with bad nails, and one with black teeth."
+        },
+        {
+          "paragraph_id": "p-2db213",
+          "quote": "A paid teacher, a eunuch, a defiler of maidens, one accused of a great sin, a betrayer of a friend, a slanderer, a seller of Soma, and one who marries before his elder brother."
+        },
+        {
+          "paragraph_id": "p-89447e",
+          "quote": "One who has abandoned his mother, father, or teacher... a thief; and those of wicked deeds—these are condemned."
+        }
+      ],
+      "justification": "Three consecutive verses enumerate categories of persons excluded from the śrāddha on grounds of physical, moral, and social pollution, reflecting the text's sustained concern with ritual purity."
+    },
+    {
+      "topic": "Propitiation of Vināyaka (Gaṇapati) and removal of obstacles",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-19927e",
+          "quote": "Vināyaka was appointed by Rudra and also by Brahmā for the purpose of creating obstacles to actions and for success"
+        },
+        {
+          "paragraph_id": "p-b304bc",
+          "quote": "A prince possessed by him does not obtain a kingdom; a maiden does not obtain a husband, nor a woman a child from her pregnancy."
+        },
+        {
+          "paragraph_id": "p-cbb64b",
+          "quote": "Thus, having worshipped Vināyaka and also the planets according to rule, one obtains the fruit of one's actions and attains unsurpassed prosperity."
+        }
+      ],
+      "justification": "An entire section (gaṇapatikalpaprakaraṇam, Yj 1.271–1.294) is dedicated to diagnosing Vināyaka possession, prescribing its ritual cure, and declaring the fruits of his propitiation."
+    },
+    {
+      "topic": "Planetary Graha worship and astrological determinism",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-8dd1a3",
+          "quote": "The Sun (Sūrya), the Moon (Soma), the son of Earth (Mars), the son of Soma (Mercury), Bṛhaspati (Jupiter), Śukra (Venus), Śanaiścara (Saturn), Rāhu, and Ketu—these are known as the Grahas."
+        },
+        {
+          "paragraph_id": "p-03239d",
+          "quote": "The rises and falls of kings are dependent on the Grahas, as are the existence and non-existence of the world; therefore, the Grahas are most worthy of worship."
+        },
+        {
+          "paragraph_id": "p-91ab58",
+          "quote": "He who performs this hospitality to the Grahas even once a year, endowed with health and strength, will live for a hundred autumns."
+        }
+      ],
+      "justification": "The grahaśāntiprakaraṇam section (Yj 1.295–1.308A) presents the nine Grahas as cosmic powers governing royal and worldly fortune and prescribes their propitiation with specific materials, mantras, and fees."
+    },
+    {
+      "topic": "Royal ethics and duties of kingship (rājadharma)",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-179181",
+          "quote": "A king should be of great energy, generous, grateful, a servant of the aged, disciplined, endowed with courage, of noble birth, truthful, and pure."
+        },
+        {
+          "paragraph_id": "p-1a60f9",
+          "quote": "By protecting his people justly, he receives a sixth part of their merit, for the protection of the people is superior to all gifts."
+        },
+        {
+          "paragraph_id": "p-c86703",
+          "quote": "There is no higher `*dharma*` for kings than that wealth acquired in battle is given to Brāhmaṇas, and that protection is always given to the people."
+        }
+      ],
+      "justification": "The rājadharmaprakaraṇam (Yj 1.309–1.368) constitutes the final and largest section of the window, covering the king's virtues, daily routine, administration, military policy, and judicial duties."
+    },
+    {
+      "topic": "Daṇḍa (punishment) as the foundation of dharmic order",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-ff5556",
+          "quote": "For `*dharma*` was created of old by Brahmā in the form of punishment."
+        },
+        {
+          "paragraph_id": "p-8b92a6",
+          "quote": "Unjust punishment destroys heaven, fame, and worldly prospects. But just punishment brings the king heaven, fame, and victory."
+        },
+        {
+          "paragraph_id": "p-a0c43a",
+          "quote": "Having considered the offense, the place, the time, the strength, the age, the occupation, and the wealth, he should inflict punishment on the punishable."
+        }
+      ],
+      "justification": "Multiple verses in the rājadharma section theorize punishment (daṇḍa) as divinely ordained, distinguish just from unjust punishment, and specify contextual factors for its calibration."
+    },
+    {
+      "topic": "Fate versus human effort (daiva vs. puruṣakāra)",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-b917c3",
+          "quote": "The success of an action depends on both fate and human effort. Among these, fate is the manifest result of human effort from a previous life."
+        },
+        {
+          "paragraph_id": "p-ebe18d",
+          "quote": "Some of wise intellect desire a result from fate, from inherent nature, from time, or from human effort; others desire it from a combination of these."
+        },
+        {
+          "paragraph_id": "p-c9b258",
+          "quote": "Just as a chariot cannot move with only one wheel, so fate does not succeed without human effort."
+        }
+      ],
+      "justification": "Three consecutive verses (Yj 1.349–1.351) engage in explicit philosophical reflection on the relationship between fate and free will, using the chariot simile to argue for their necessary cooperation."
+    },
+    {
+      "topic": "Political science: maṇḍala theory, statecraft, and the six measures",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-0a3bbf",
+          "quote": "The enemy, the friend, the neutral power, the one immediately adjacent, the one beyond that, and the one beyond that—this circle of states (`*maṇḍala*` theory) should be considered in order, using conciliation and other expedients.",
+          "quote": "The enemy, the friend, the neutral power, the one immediately adjacent, the one beyond that, and the one beyond that—this circle of states (`*maṇḍala*` theory) should be considered in order"
+        },
+        {
+          "paragraph_id": "p-20d31d",
+          "quote": "The expedients are conciliation (`sāma`), gifts (`dāna`), dissension (`bheda`), and force (`daṇḍa`). When properly applied, they succeed; but force is the last resort."
+        },
+        {
+          "paragraph_id": "p-0d7607",
+          "quote": "Peace, war, marching, halting, seeking shelter, and the dual policy—he should employ these six political measures appropriately."
+        }
+      ],
+      "justification": "Verses Yj 1.345–1.353 articulate classical Arthaśāstra-style political doctrine including the maṇḍala theory, four expedients (upāyas), and six political measures (ṣāḍguṇya)."
+    },
+    {
+      "topic": "Metrological standards: weights and monetary units",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-0ec650",
+          "quote": "The mote of dust visible in a sunbeam through a lattice is called a `trasareṇu`. Eight of them are a `likṣā`, and three of those are called a `rājasarṣapa`."
+        },
+        {
+          "paragraph_id": "p-4c4845",
+          "quote": "A `pala` is declared to be four or five `suvarṇa`s. Two `kṛṣṇala`s are a silver `māṣa`, and sixteen of those are a `dharaṇa`."
+        },
+        {
+          "paragraph_id": "p-24ff98",
+          "quote": "A fine of one thousand and eighty `paṇa`s is the highest amercement; half of that is said to be the middle, and half of that is known as the lowest."
+        }
+      ],
+      "justification": "The closing verses of the window (Yj 1.362–1.368) establish a hierarchy of weights and monetary denominations used for calculating judicial fines, forming a technical metrology embedded within the rājadharma framework."
+    },
+    {
+      "topic": "Ancestral satisfaction: foods and their duration of satiation",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-076efe",
+          "quote": "With sacrificial food, the Ancestors are satisfied for a month; with milk-rice, for a year. With the meat of fish, deer, ram, birds, goat, and spotted deer,"
+        },
+        {
+          "paragraph_id": "p-3e0a0d",
+          "quote": "and with the meat of black antelope, ruru deer, wild boar, and hare, respectively, the grandfathers are satisfied here for successively increasing months when these are offered."
+        },
+        {
+          "paragraph_id": "p-9d8544",
+          "quote": "The flesh of a rhinoceros, the Mahāśalka fish, honey, or the food of sages, the flesh of a red goat, the Mahāśāka vegetable, and the meat of an old white goat."
+        }
+      ],
+      "justification": "Verses Yj 1.258–1.260 present a graded list of foods and their efficacy for ancestral satisfaction, reflecting a systematic concern with the mechanics of pitr̥ propitiation."
+    },
+    {
+      "topic": "Reciprocal relationship between the king and the people",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-1a60f9",
+          "quote": "By protecting his people justly, he receives a sixth part of their merit, for the protection of the people is superior to all gifts."
+        },
+        {
+          "paragraph_id": "p-69e33c",
+          "quote": "Whatever sin the people commit when they are unprotected, half of that sin goes to the king, because he takes taxes from them."
+        },
+        {
+          "paragraph_id": "p-394d59",
+          "quote": "The fire that arises from the suffering caused by oppressing the people does not turn back without having consumed the king's family, prosperity, and life."
+        }
+      ],
+      "justification": "The rājadharma section implies a theology of karmic reciprocity between ruler and ruled: the king shares in the merit of those he protects and bears responsibility for the sins incurred under his neglect."
+    }
+  ],
+  "citations": []
+}

@@ -1,0 +1,41 @@
+{
+  "work_slug": "joanna-baillie-poems-dfa2df",
+  "work_title": "Poems",
+  "chapter_number": 53,
+  "chapter_title": "HOOLY AND FAIRLY. (FOUNDED ON AIN OLD SCOTCH SONG.)",
+  "chapter_slug": "53-hooly-and-fairly-founded-on-ain-old-scotch-song",
+  "author": "Joanna Baillie",
+  "author_slug": "joanna-baillie",
+  "ecpa_poem_id": "bjb18-w0530",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "song"
+    ],
+    "stanzas": [
+      "sestet (6 lines)"
+    ],
+    "rhyme": "aabbbb",
+    "metrical_pattern": "irregular",
+    "line_count": 48
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c04e01e7-5744-599d-ae1c-0419018597e9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 416,
+      "line_count": 50,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

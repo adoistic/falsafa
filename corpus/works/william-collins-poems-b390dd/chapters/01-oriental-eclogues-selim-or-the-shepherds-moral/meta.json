@@ -1,0 +1,45 @@
+{
+  "work_slug": "william-collins-poems-b390dd",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "ORIENTAL ECLOGUES. SELIM; OR, THE SHEPHERD'S MORAL.",
+  "chapter_slug": "01-oriental-eclogues-selim-or-the-shepherds-moral",
+  "author": "William Collins",
+  "author_slug": "william-collins",
+  "ecpa_poem_id": "o4985-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "eclogue"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 304
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "bbc8e3c9-0192-58eb-91ac-2db71c058146",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2514,
+      "line_count": 320,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

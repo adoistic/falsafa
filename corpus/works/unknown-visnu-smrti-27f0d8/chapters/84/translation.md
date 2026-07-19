@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 84**
+**Viṣṇu Smriti 84**
 
 One shall not perform a *śrāddha* (श्राद्ध) in a *mlecchadeśa* (म्लेच्छदेश) (land of barbarians). // Vi_84.1 //
 

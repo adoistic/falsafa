@@ -1,0 +1,45 @@
+{
+  "work_slug": "william-julius-mickle-poems-de833b",
+  "work_title": "Poems",
+  "chapter_number": 2,
+  "chapter_title": "HENGIST AND MEY: A BALLAD.",
+  "chapter_slug": "02-hengist-and-mey-a-ballad",
+  "author": "William Julius Mickle",
+  "author_slug": "william-julius-mickle",
+  "ecpa_poem_id": "o4986-w0020",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ballad metre",
+      "narrative verse"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "xaxa",
+    "syllable_pattern": "8.6.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 180
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b5f45d18-095d-5aa3-b0f1-3c9abe6a166b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1077,
+      "line_count": 183,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

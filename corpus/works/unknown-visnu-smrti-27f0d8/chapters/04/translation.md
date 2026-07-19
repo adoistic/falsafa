@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 4**
+**Viṣṇu Smriti 4**
 
 A speck of dust seen in a sunbeam passing through a lattice is called a *trasareṇu*. // Vi_4.1 //
 

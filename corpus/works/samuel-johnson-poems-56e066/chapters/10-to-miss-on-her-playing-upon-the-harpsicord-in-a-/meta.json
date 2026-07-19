@@ -1,0 +1,44 @@
+{
+  "work_slug": "samuel-johnson-poems-56e066",
+  "work_title": "Poems",
+  "chapter_number": 10,
+  "chapter_title": "TO MISS —, ON HER PLAYING UPON THE HARPSICORD IN A ROOM HUNG WITH SOME FLOWER-PIECES OF HER OWN PAINTING.",
+  "chapter_slug": "10-to-miss-on-her-playing-upon-the-harpsicord-in-a-",
+  "author": "Samuel Johnson",
+  "author_slug": "samuel-johnson",
+  "ecpa_poem_id": "o4986-w0700",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "address"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 36
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "856ced9b-27a5-50e2-814e-c9043eae28ff",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 232,
+      "line_count": 38,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

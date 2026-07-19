@@ -1,0 +1,44 @@
+{
+  "work_slug": "james-boswell-poems-8ba996",
+  "work_title": "Poems",
+  "chapter_number": 5,
+  "chapter_title": "ODE TO TRAGEDY.",
+  "chapter_slug": "05-ode-to-tragedy",
+  "author": "James Boswell",
+  "author_slug": "james-boswell",
+  "ecpa_poem_id": "o4546-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "ten-line stanza"
+    ],
+    "rhyme": "ababccddee",
+    "syllable_pattern": "8.8.8.8.8.8.8.8.10.10",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/",
+    "line_count": 160
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "bd7d642f-bc2d-5a87-9109-9d9ff1c0b5d0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1044,
+      "line_count": 177,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

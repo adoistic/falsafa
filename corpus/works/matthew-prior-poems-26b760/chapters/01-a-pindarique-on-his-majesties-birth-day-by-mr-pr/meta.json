@@ -1,0 +1,40 @@
+{
+  "work_slug": "matthew-prior-poems-26b760",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "A PINDARIQUE ON His Majesties Birth-Day. By Mr. PRIOR Sung before Their Majesties at WHITEHALL, The Fourth of November 1690. A Prophecy by APOLLO.",
+  "chapter_slug": "01-a-pindarique-on-his-majesties-birth-day-by-mr-pr",
+  "author": "Matthew Prior",
+  "author_slug": "matthew-prior",
+  "ecpa_poem_id": "omp90-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode",
+      "Pindaric ode",
+      "address"
+    ],
+    "rhyme": "irregular",
+    "metrical_pattern": "irregular",
+    "line_count": 76
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "322581ba-0304-5e47-b602-43259fa6985f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 503,
+      "line_count": 78,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

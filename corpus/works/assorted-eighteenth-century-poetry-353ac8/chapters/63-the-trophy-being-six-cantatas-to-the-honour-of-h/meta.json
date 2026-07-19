@@ -1,0 +1,43 @@
+{
+  "work_slug": "assorted-eighteenth-century-poetry-353ac8",
+  "work_title": "An Assorted Collection of Eighteenth-Century Poetry",
+  "chapter_number": 63,
+  "chapter_title": "The TROPHY, BEING SIX CANTATAS To the Honour of his ROYAL HIGHNESS WILLLIAM, Duke of CUMBERLAND; Expressing the just Sense of a grateful Nation, in the several Characters of The VOLUNTEER, The POET, The PAINTER, The MUSICIAN, The SHEPHERD, The RELIGIOUS.",
+  "chapter_slug": "63-the-trophy-being-six-cantatas-to-the-honour-of-h",
+  "author": "Benjamin Hoadly",
+  "author_slug": "benjamin-hoadly",
+  "ecpa_poem_id": "o5154-w0560",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "song"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "metrical_pattern": "irregular",
+    "line_count": 221
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "bd066af0-1236-565b-bb7d-b33b02334af8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1393,
+      "line_count": 231,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

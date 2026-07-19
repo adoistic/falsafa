@@ -1,0 +1,46 @@
+{
+  "work_slug": "john-hervey-poems-99f74a",
+  "work_title": "Poems",
+  "chapter_number": 2,
+  "chapter_title": "To the Same. From Hampton-Court, 1731.",
+  "chapter_slug": "02-to-the-same-from-hampton-court-1731",
+  "author": "John Hervey",
+  "author_slug": "john-hervey",
+  "ecpa_poem_id": "o5154-w0360",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "essay",
+      "epistle"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 194
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "96033b2f-338a-5f6f-b466-6e024a4e82e1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1475,
+      "line_count": 197,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

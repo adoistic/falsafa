@@ -1,0 +1,653 @@
+{
+  "slug": "unknown-manusmrti-347b76",
+  "window": "09:0-129",
+  "entities": [
+    {
+      "canonical_name": "Manu",
+      "surface_names": ["Manu"],
+      "kind": "figure",
+      "figure_kind": "legendary-lawgiver",
+      "mentions": [
+        {
+          "paragraph_id": "p-ab3d58",
+          "quote": "these Manu assigned to women",
+          "role": "lawgiver assigning characteristics to women"
+        }
+      ],
+      "description": "The primordial lawgiver who assigned specific qualities and duties to women.",
+      "justification": "Manu is named as the authority who assigned inherent qualities to women, establishing him as the founding legislator of the Dharmashastra tradition."
+    },
+    {
+      "canonical_name": "Prajapati",
+      "surface_names": ["Prajapati"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-865297",
+          "quote": "their nature, which was created by Prajapati at the beginning",
+          "role": "creator of female nature"
+        },
+        {
+          "paragraph_id": "p-1ba98e",
+          "quote": "the Dharma, created by Prajapati in the beginning",
+          "role": "originator of marriage dharma"
+        }
+      ],
+      "description": "The creator deity who fashioned the nature of women and established the primal Dharma of marriage.",
+      "justification": "Prajapati is invoked twice as the cosmic originator who created both female nature and the foundational law of marriage, grounding these human institutions in divine creation."
+    },
+    {
+      "canonical_name": "Vasishtha",
+      "surface_names": ["Vasishtha"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-d39e19",
+          "quote": "Akshamala, born of a low womb, being united with Vasishtha",
+          "role": "husband whose union elevated a low-born woman"
+        }
+      ],
+      "description": "A celebrated Vedic sage whose union with Akshamala, a low-born woman, is cited as proof that a wife attains the status of her husband.",
+      "justification": "Vasishtha's marriage to the low-born Akshamala is explicitly cited as a precedent case demonstrating the doctrine that a woman attains her husband's excellence."
+    },
+    {
+      "canonical_name": "Akshamala",
+      "surface_names": ["Akshamala"],
+      "kind": "figure",
+      "figure_kind": "mythological-woman",
+      "mentions": [
+        {
+          "paragraph_id": "p-d39e19",
+          "quote": "Akshamala, born of a low womb, being united with Vasishtha, attained venerability",
+          "role": "exemplar of low-born woman elevated by marriage"
+        }
+      ],
+      "description": "A woman of low birth who attained venerability through her union with the sage Vasishtha.",
+      "justification": "Akshamala is named as a canonical exemplar supporting the text's doctrine that a woman acquires her husband's spiritual and social status."
+    },
+    {
+      "canonical_name": "Mandapala",
+      "surface_names": ["Mandapala"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-d39e19",
+          "quote": "Sharangi with Mandapala, attained venerability",
+          "role": "husband whose union elevated Sharangi"
+        }
+      ],
+      "description": "A sage whose union with Sharangi is cited alongside Vasishtha-Akshamala as a parallel example of elevation through marriage.",
+      "justification": "Mandapala is cited in the same verse as Vasishtha to illustrate that women of low birth attain excellence through marriage to distinguished husbands."
+    },
+    {
+      "canonical_name": "Sharangi",
+      "surface_names": ["Sharangi"],
+      "kind": "figure",
+      "figure_kind": "mythological-woman",
+      "mentions": [
+        {
+          "paragraph_id": "p-d39e19",
+          "quote": "Sharangi with Mandapala, attained venerability",
+          "role": "exemplar of low-born woman elevated by marriage"
+        }
+      ],
+      "description": "A woman of low birth who attained venerability through union with the sage Mandapala.",
+      "justification": "Sharangi is named as a second exemplar, parallel to Akshamala, proving the doctrine that a wife rises to her husband's status."
+    },
+    {
+      "canonical_name": "Prithu",
+      "surface_names": ["Prithu"],
+      "kind": "figure",
+      "figure_kind": "legendary-king",
+      "mentions": [
+        {
+          "paragraph_id": "p-4680c6",
+          "quote": "The knowers of old know this earth to be the wife of Prithu",
+          "role": "mythological king whose relation to Earth is invoked"
+        }
+      ],
+      "description": "The legendary king who is said to have 'tamed' the earth, establishing the mythological identity of the earth as his wife.",
+      "justification": "Prithu is invoked in the context of seed-and-field metaphorics to ground the proprietary claim over productive land in ancient cosmological precedent."
+    },
+    {
+      "canonical_name": "Vena",
+      "surface_names": ["Vena"],
+      "kind": "figure",
+      "figure_kind": "legendary-king",
+      "mentions": [
+        {
+          "paragraph_id": "p-2aab16",
+          "quote": "while Vena was ruling",
+          "role": "wicked king during whose reign niyoga was introduced"
+        },
+        {
+          "paragraph_id": "p-52612f",
+          "quote": "He, the foremost of royal sages, while enjoying the whole earth in ancient times, created a mixing of the varnas",
+          "role": "antecedent of the pronoun in the niyoga degradation passage"
+        }
+      ],
+      "description": "A legendary wicked king whose degenerate rule caused the varna mixing and is associated with the introduction of the condemned niyoga custom.",
+      "justification": "Vena is named as the historical marker for the period when the practice of appointing widows was first introduced, framing niyoga as a degraded innovation tied to a corrupt reign."
+    },
+    {
+      "canonical_name": "Indra",
+      "surface_names": ["Indra"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-f68149",
+          "quote": "A king should follow the brilliant conduct of Indra",
+          "role": "divine model for kingly conduct"
+        },
+        {
+          "paragraph_id": "p-22d91c",
+          "quote": "As Indra sends down rain for the four months of the rainy season",
+          "role": "simile-model for a king's bestowal of favors"
+        }
+      ],
+      "description": "The king of the gods, whose seasonal gift of rain is the model for a king's generous distribution of favors to his kingdom.",
+      "justification": "Indra is invoked as the first in a series of eight divine models whose cosmic functions map onto idealized royal conduct, illustrating the vow of Indra."
+    },
+    {
+      "canonical_name": "Surya",
+      "surface_names": ["Sun", "the Sun"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-f68149",
+          "quote": "of the Sun",
+          "role": "divine model for kingly conduct"
+        },
+        {
+          "paragraph_id": "p-774140",
+          "quote": "As the Sun for eight months draws up water with its rays",
+          "role": "simile for a king drawing taxes"
+        }
+      ],
+      "description": "The sun deity whose eight-month cycle of drawing up moisture is the model for a king's systematic tax collection.",
+      "justification": "Surya's seasonal absorption of water is mapped directly onto the duty of a king to draw taxes, illustrating one of eight divine royal vows."
+    },
+    {
+      "canonical_name": "Vayu",
+      "surface_names": ["Wind", "the Wind"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-f68149",
+          "quote": "of the Wind",
+          "role": "divine model for kingly conduct"
+        },
+        {
+          "paragraph_id": "p-67500b",
+          "quote": "on how a seed must not be sown by a man in the wife of another",
+          "role": "attributed singer of verses about seed and propriety"
+        },
+        {
+          "paragraph_id": "p-4230d8",
+          "quote": "As the Wind moves, having entered all beings, so should he enter everywhere with his spies",
+          "role": "simile-model for a king's espionage"
+        }
+      ],
+      "description": "The wind deity whose pervasive movement through all beings is the model for a king's all-seeing network of spies.",
+      "justification": "Vayu is cited both as the attributed singer of ancient verses on seed-propriety and as the divine model for the king's intelligence vow, entering everywhere unseen."
+    },
+    {
+      "canonical_name": "Yama",
+      "surface_names": ["Yama"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-f68149",
+          "quote": "of Yama",
+          "role": "divine model for kingly conduct"
+        },
+        {
+          "paragraph_id": "p-045497",
+          "quote": "As Yama restrains both the beloved and the hated when their time has come",
+          "role": "simile for impartial royal restraint"
+        }
+      ],
+      "description": "The god of death and dharmic restraint whose impartial treatment of beloved and hated alike models the king's impartial punishment.",
+      "justification": "Yama's impartial enforcement of the time of death is mapped onto the king's duty to restrain subjects without partiality."
+    },
+    {
+      "canonical_name": "Varuna",
+      "surface_names": ["Varuna"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-f68149",
+          "quote": "of Varuna",
+          "role": "divine model for kingly conduct"
+        },
+        {
+          "paragraph_id": "p-61b068",
+          "quote": "As one is seen bound by the fetters of Varuna",
+          "role": "simile for binding the sinful"
+        }
+      ],
+      "description": "The Vedic deity of cosmic order and binding oaths, whose fetters model the king's power to bind and restrain sinners.",
+      "justification": "Varuna's mythological fetters are explicitly invoked as the model for the king's restraining vow toward the sinful."
+    },
+    {
+      "canonical_name": "Soma",
+      "surface_names": ["Moon", "the Moon"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-f68149",
+          "quote": "of the Moon",
+          "role": "divine model for kingly conduct"
+        },
+        {
+          "paragraph_id": "p-e027e8",
+          "quote": "As men rejoice on seeing the full moon, so is that king in whom his subjects rejoice",
+          "role": "simile for a king who brings joy to subjects"
+        }
+      ],
+      "description": "The moon deity whose appearance brings joy to all beings, modeling the king who makes his subjects rejoice.",
+      "justification": "The full moon's effect of delight on all who see it is directly mapped onto the desirable quality of a king whose subjects rejoice in him."
+    },
+    {
+      "canonical_name": "Agni",
+      "surface_names": ["Agni", "Fire"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-f68149",
+          "quote": "of Agni",
+          "role": "divine model for kingly conduct"
+        },
+        {
+          "paragraph_id": "p-50e969",
+          "quote": "He should be ever endowed with majesty, fiery towards sinful acts",
+          "role": "implicit model for royal fieriness"
+        }
+      ],
+      "description": "The fire deity whose blazing power models the king's fierce majesty and destructive force against wicked vassals.",
+      "justification": "Agni is listed among the eight divine models for kingship and implicitly underlies the instruction that the king must be 'fiery towards sinful acts.'"
+    },
+    {
+      "canonical_name": "Earth",
+      "surface_names": ["Earth", "this earth"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-f68149",
+          "quote": "and a king should follow the brilliant conduct of ... Earth",
+          "role": "divine model for kingly conduct"
+        },
+        {
+          "paragraph_id": "p-8a5b9c",
+          "quote": "As the Earth supports all beings equally, so is the supporting of all beings the vow of the Earth for a king",
+          "role": "simile for universal impartial royal support"
+        },
+        {
+          "paragraph_id": "p-3a18ff",
+          "quote": "For this earth is called the eternal womb of beings",
+          "role": "receptive ground in seed-and-field metaphor"
+        },
+        {
+          "paragraph_id": "p-4680c6",
+          "quote": "The knowers of old know this earth to be the wife of Prithu",
+          "role": "mythologized as wife of Prithu"
+        }
+      ],
+      "description": "The earth deity who supports all beings equally and is the final divine model for ideal royal conduct, also invoked mythologically as Prithu's wife.",
+      "justification": "Earth is simultaneously the concluding divine model for kingship (equal support of all beings) and a cosmological figure in both the seed-and-field metaphor and the Prithu myth."
+    },
+    {
+      "canonical_name": "Danda",
+      "surface_names": ["Daṇḍa", "Danda", "punishment"],
+      "kind": "idea",
+      "mentions": [
+        {
+          "paragraph_id": "p-0aaaa6",
+          "quote": "it is not possible to achieve the suppression of sin without Daṇḍa",
+          "role": "indispensable instrument for suppressing sin"
+        },
+        {
+          "paragraph_id": "p-52d087",
+          "quote": "him too he should punish with Daṇḍa",
+          "role": "punishment applied to the lapsed Dharmic subject"
+        }
+      ],
+      "description": "The principle and instrument of royal punishment, presented as the essential mechanism by which sin is suppressed and social order maintained.",
+      "justification": "Danda is named as a technical concept across multiple verses as the irreplaceable instrument of royal law enforcement."
+    },
+    {
+      "canonical_name": "Seven Constituents of the Kingdom",
+      "surface_names": ["sovereign and the minister, the city, the kingdom, the treasury and the army, and the ally", "seven constituent elements"],
+      "kind": "idea",
+      "mentions": [
+        {
+          "paragraph_id": "p-fd1e2d",
+          "quote": "The sovereign and the minister, the city, the kingdom, the treasury and the army, and the ally as well—these seven are the limbs of a kingdom",
+          "role": "enumeration of the classical saptanga theory of the state"
+        },
+        {
+          "paragraph_id": "p-c6cf15",
+          "quote": "But of these seven constituent elements of the kingdom, in their order, one should know the affliction of each preceding one is greater than the succeeding",
+          "role": "hierarchy of state constituents by importance"
+        },
+        {
+          "paragraph_id": "p-64db87",
+          "quote": "In this seven-limbed kingdom, which is supported like a three-staved staff",
+          "role": "structural metaphor for state stability"
+        }
+      ],
+      "description": "The classical Indian political theory (saptanga) enumerating the seven constituent limbs of a kingdom and their ranked importance.",
+      "justification": "The saptanga doctrine is explicitly stated and elaborated over three consecutive verses, making it a central political-theoretical idea in this window."
+    },
+    {
+      "canonical_name": "Four Ages (Yugas)",
+      "surface_names": ["Krita", "Treta", "Dvapara", "Kali"],
+      "kind": "idea",
+      "mentions": [
+        {
+          "paragraph_id": "p-1e07c7",
+          "quote": "The Krita, the Treta, and the Dvapara, and the Kali as well—all these are the conduct of the king",
+          "role": "cosmic ages mapped onto a king's wakefulness and action"
+        },
+        {
+          "paragraph_id": "p-679d9d",
+          "quote": "The Kali is when he is asleep; when he is awake, it is the Dvapara age; when he is ready for action, the Treta; but when he moves, he is the Krita",
+          "role": "specific mapping of king's states to ages"
+        }
+      ],
+      "description": "The four cosmic ages (Krita/Satya, Treta, Dvapara, Kali), here reinterpreted as corresponding to the four states of a king's wakefulness and activity.",
+      "justification": "The yuga system is explicitly invoked and reinterpreted as a metaphor for royal activity, condensing cosmic time into a theory of royal energy."
+    },
+    {
+      "canonical_name": "Niyoga",
+      "surface_names": ["niyoga", "appointment to a widow"],
+      "kind": "idea",
+      "mentions": [
+        {
+          "paragraph_id": "p-a1e160",
+          "quote": "desired offspring may be obtained by a woman, through niyoga (the appointment of a man to her)",
+          "role": "institution defined"
+        },
+        {
+          "paragraph_id": "p-a8e146",
+          "quote": "those who are without a field but have seed",
+          "role": "implicit reference to niyoga practice"
+        },
+        {
+          "paragraph_id": "p-5e27f5",
+          "quote": "In the sacred formulas for marriage, niyoga is nowhere mentioned",
+          "role": "condemned as lacking Vedic sanction"
+        },
+        {
+          "paragraph_id": "p-2aab16",
+          "quote": "This bestial law is condemned by the learned twice-born",
+          "role": "condemned as bestial"
+        },
+        {
+          "paragraph_id": "p-f00094",
+          "quote": "A widow must not be appointed to another man by the twice-born",
+          "role": "prohibition stated"
+        }
+      ],
+      "description": "The practice of appointing a man to beget offspring on a widow or childless wife, presented in this window as a degraded, condemned custom lacking Vedic authority.",
+      "justification": "Niyoga is the central contested institution in this chapter section, defined, provisionally described, then emphatically condemned as a bestial practice introduced during Vena's corrupt reign."
+    },
+    {
+      "canonical_name": "Varna",
+      "surface_names": ["varnas", "varnas"],
+      "kind": "idea",
+      "mentions": [
+        {
+          "paragraph_id": "p-3d8e73",
+          "quote": "Seeing this to be the highest Dharma for all varnas",
+          "role": "universal applicability of wife-protection across all social orders"
+        },
+        {
+          "paragraph_id": "p-52612f",
+          "quote": "created a mixing of the varnas",
+          "role": "varna mixing as consequence of royal wickedness"
+        }
+      ],
+      "description": "The four-fold social order whose maintenance is a core concern of this chapter, with varna-mixing treated as a sign of civilizational decay.",
+      "justification": "Varna is invoked both as the universal frame for the duty of wife-protection and as the social order whose disruption marks the depth of Vena's transgression."
+    },
+    {
+      "canonical_name": "Jackal",
+      "surface_names": ["jackal"],
+      "kind": "animal",
+      "mentions": [
+        {
+          "paragraph_id": "p-f9b73c",
+          "quote": "she obtains the womb of a jackal and is afflicted by terrible diseases",
+          "role": "degraded rebirth destination for an unfaithful wife"
+        }
+      ],
+      "description": "The jackal as a degraded animal womb into which an unfaithful wife is reborn as karmic punishment.",
+      "justification": "The jackal is named as the specific animal rebirth that awaits an adulterous wife, functioning as a concrete marker of moral degradation in the karmic economy."
+    },
+    {
+      "canonical_name": "Bull",
+      "surface_names": ["bull"],
+      "kind": "animal",
+      "mentions": [
+        {
+          "paragraph_id": "p-393ec7",
+          "quote": "If a bull should beget a hundred calves in the cows of others",
+          "role": "analogy for seed-in-another's-field legal precedent"
+        }
+      ],
+      "description": "A bull used as a concrete legal analogy to establish that offspring belong to the owner of the mother, not the sire.",
+      "justification": "The bull-and-cow analogy is the primary illustration for the property-law principle that calves (children) belong to the owner of the cows (wife/field), not the sire."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Female subordination and control as religious and social duty",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-27f62f",
+          "quote": "Women must be made dependent by their men day and night"
+        },
+        {
+          "paragraph_id": "p-233021",
+          "quote": "a woman is never fit for independence"
+        },
+        {
+          "paragraph_id": "p-22c134",
+          "quote": "There is no rite for women with sacred formulas; this is the established rule in Dharma"
+        }
+      ],
+      "justification": "The opening third of this window is structured around the thesis that women must be kept dependent by fathers, husbands, and sons, and this subordination is framed as the supreme Dharma."
+    },
+    {
+      "topic": "Seed and field metaphysics of procreation and property",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-7f8e12",
+          "quote": "The woman is remembered as the field, the man is remembered as the seed"
+        },
+        {
+          "paragraph_id": "p-b3d4ca",
+          "quote": "of the seed and of the womb, the seed is said to be more excellent"
+        },
+        {
+          "paragraph_id": "p-393ec7",
+          "quote": "If a bull should beget a hundred calves in the cows of others, those calves belong to the owners of the cows"
+        }
+      ],
+      "justification": "An extended metaphysical-legal argument runs from paragraph 32 to 54 deploying the seed-field-crop analogy to resolve questions of paternity, property, and reproductive rights."
+    },
+    {
+      "topic": "Condemnation of niyoga as a bestial, non-Vedic deviation",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-2aab16",
+          "quote": "This bestial law is condemned by the learned twice-born"
+        },
+        {
+          "paragraph_id": "p-5e27f5",
+          "quote": "In the sacred formulas for marriage, niyoga is nowhere mentioned"
+        },
+        {
+          "paragraph_id": "p-509475",
+          "quote": "From that time onwards, he who, out of delusion, appoints a woman whose husband is dead for the sake of offspring, him they call a fool"
+        }
+      ],
+      "justification": "After tentatively describing niyoga rules, the text pivots to an emphatic condemnation, framing the practice as historically contingent, lacking Vedic authority, and associated with Vena's corrupt reign."
+    },
+    {
+      "topic": "Chastity and fidelity as the path to the husband's world after death",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-6c8c98",
+          "quote": "She who does not transgress against her husband, being controlled in mind, speech, and body, she attains her husband's world"
+        },
+        {
+          "paragraph_id": "p-f9b73c",
+          "quote": "through infidelity to her husband, a woman obtains condemnation in the world; she obtains the womb of a jackal"
+        },
+        {
+          "paragraph_id": "p-efa085",
+          "quote": "With a husband of whatever quality a woman is united according to the rule, of that same quality she becomes, like a river entering the ocean"
+        }
+      ],
+      "justification": "The karma of marital fidelity—heavenly reward and elevation of status versus jackal-rebirth and disease—is a sustained eschatological concern in the first half of this window."
+    },
+    {
+      "topic": "Kingly duty of protection, intelligence, and just punishment",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-4f499c",
+          "quote": "A king, whose eye is his spies, should know two kinds of thieves who take the property of others"
+        },
+        {
+          "paragraph_id": "p-0aaaa6",
+          "quote": "it is not possible to achieve the suppression of sin without Daṇḍa"
+        },
+        {
+          "paragraph_id": "p-a7ad09",
+          "quote": "A king should have such places patrolled by stationary and moving detachments of troops, and also by spies"
+        }
+      ],
+      "justification": "The second half of this window pivots entirely to kingship, detailing how the king should use spies, surveillance, just punishment, and graduated penalties to suppress crime and maintain order."
+    },
+    {
+      "topic": "The king as microcosm of the eight divine cosmic principles",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-f68149",
+          "quote": "A king should follow the brilliant conduct of Indra, of the Sun, of the Wind, of Yama, of Varuna, of the Moon, of Agni, and of Earth"
+        },
+        {
+          "paragraph_id": "p-1e07c7",
+          "quote": "The Krita, the Treta, and the Dvapara, and the Kali as well—all these are the conduct of the king"
+        }
+      ],
+      "justification": "The window closes with a theological-political theory mapping eight deities' cosmic functions onto royal duties, presenting the king as the earthly embodiment of divine cosmic order."
+    },
+    {
+      "topic": "Graduated and proportional punishment as the basis of dharmic governance",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-f4fa8b",
+          "quote": "Having proclaimed their faults in their respective occupations in truth, the king should inflict punishment justly, according to the Shastra"
+        },
+        {
+          "paragraph_id": "p-2888ac",
+          "quote": "For a cut-purse, he should have his fingers cut off at the first offense; at the second, his hand and foot; at the third, he should be slain"
+        },
+        {
+          "paragraph_id": "p-f50d24",
+          "quote": "For all physicians who practice falsely, the punishment is the first amercement for non-human creatures, but the middle amercement for human beings"
+        }
+      ],
+      "justification": "A detailed penal code runs through paragraphs 80–112, specifying escalating or proportional punishments for a wide range of offenses, constituting a systematic theory of graduated dharmic justice."
+    },
+    {
+      "topic": "The inheritance of qualities through procreation and marital union",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-1a4c5d",
+          "quote": "whatever kind of man a woman consorts with, she gives birth to a son of that same kind"
+        },
+        {
+          "paragraph_id": "p-471ad1",
+          "quote": "Whatever kind of seed is sown in a field prepared at the proper time, of that same kind it grows there"
+        },
+        {
+          "paragraph_id": "p-da01ab",
+          "quote": "women of low birth in this world have attained excellence by the auspicious qualities of their respective husbands"
+        }
+      ],
+      "justification": "The text develops a quasi-biological theory of quality-transmission through both maternal contact and seed, applying it to social hierarchy, rebirth, and the elevation of low-born women."
+    },
+    {
+      "topic": "Taxation as the king's dharmic appropriation of the kingdom's produce",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-774140",
+          "quote": "As the Sun for eight months draws up water with its rays, so should he constantly draw taxes from his kingdom; for that is the vow of the Sun"
+        },
+        {
+          "paragraph_id": "p-22d91c",
+          "quote": "As Indra sends down rain for the four months of the rainy season, so should he shower his kingdom with favors"
+        }
+      ],
+      "justification": "The solar-lunar cycle of extraction and return implicitly structures a complete theory of taxation: the king draws resources like the sun (eight months) and redistributes like Indra's rain (four months)."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Vedas",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-22c134",
+      "quote": "There is no rite for women with sacred formulas; this is the established rule in Dharma. For women are without strength and without Vedic formulas",
+      "justification": "The Vedas are implicitly cited as the source of the absence of women's rites, with the Vedic formula being the authoritative standard that women fall short of."
+    },
+    {
+      "cited_work": "Vedic texts (unspecified)",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-874681",
+      "quote": "many Vedic texts are also sung in the Vedas for the examination of their own nature",
+      "justification": "The Vedas are explicitly invoked as the textual authority for understanding women's nature, framing the following quotation as a Vedic citation."
+    },
+    {
+      "cited_work": "Vedic formula (ritual text for seed-reclamation)",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-09dda4",
+      "quote": "Whatever sin my mother committed, wandering about as an unchaste wife, may my father take that seed of mine—this is the Vedic formula for reclamation of the seed",
+      "justification": "A specific Vedic formula is quoted verbatim as a textual authority legitimizing the father's claim over offspring even in cases of the mother's infidelity."
+    },
+    {
+      "cited_work": "Verses sung by the Wind (attributed oral tradition)",
+      "cited_author": "the Wind (Vayu)",
+      "stance": "authority",
+      "paragraph_id": "p-67500b",
+      "quote": "those who know the past recite verses sung by the Wind, on how a seed must not be sown by a man in the wife of another",
+      "justification": "A body of verses attributed to Vayu is cited as an ancient oral authority supporting the prohibition on sowing seed in another man's wife."
+    }
+  ]
+}

@@ -1,0 +1,525 @@
+{
+  "slug": "unknown-angirasa-smrti-2bf9d1",
+  "window": "01:1597-1791",
+  "entities": [
+    {
+      "canonical_name": "Aṅgiras",
+      "surface_names": [
+        "Aṅgiras",
+        "Angiras",
+        "Āṅgirasa"
+      ],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-dfc893",
+          "quote": "This holy kṛcchra penance was prescribed by Aṅgiras himself, and by learned knowers of dharma, for the destruction of secondary sins.",
+          "role": "author/lawgiver"
+        },
+        {
+          "paragraph_id": "p-59c99b",
+          "quote": "This holy kṛcchra penance was prescribed by Aṅgiras himself. Beginning with the Praṇava, it is remembered by the name vajra.",
+          "role": "author/lawgiver"
+        },
+        {
+          "paragraph_id": "p-8ef798",
+          "quote": "Thus the Smṛti of Aṅgiras.",
+          "role": "author"
+        }
+      ],
+      "description": "The ancient Vedic sage Aṅgiras, presented as the divine author and lawgiver of this Dharmaśāstra who personally prescribed the kṛcchra penance.",
+      "justification": "Aṅgiras is named as the personal prescriber of penances and the text closes with attribution to his Smṛti, identifying him as the founding authority of the entire work."
+    },
+    {
+      "canonical_name": "Manu",
+      "surface_names": [
+        "Manu",
+        "blessed Manu"
+      ],
+      "kind": "figure",
+      "figure_kind": "lawgiver",
+      "mentions": [
+        {
+          "paragraph_id": "p-de6bd6",
+          "quote": "I shall now declare the exception which was stated by Manu in ancient times.",
+          "role": "cited authority"
+        },
+        {
+          "paragraph_id": "p-372fb5",
+          "quote": "the penance should be known as the same as for a cow; thus said the blessed Manu.",
+          "role": "cited authority"
+        }
+      ],
+      "description": "The primordial lawgiver Manu, cited as an ancient authority on dietary exceptions and penance equivalences for animal-killing.",
+      "justification": "Manu is invoked twice as an external authority whose rulings on food prohibitions and penance tariffs the Aṅgiras text explicitly endorses."
+    },
+    {
+      "canonical_name": "Yama",
+      "surface_names": [
+        "Yama",
+        "son of Vivasvat"
+      ],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-1de5ee",
+          "quote": "The chastiser of those with hidden sins is Yama, the son of Vivasvat.",
+          "role": "cosmic chastiser"
+        },
+        {
+          "paragraph_id": "p-93d7c1",
+          "quote": "The Guru, the king, or Yama, when he chastises according to dharma, is freed from sin.",
+          "role": "cosmic judge"
+        }
+      ],
+      "description": "Yama, god of death and cosmic justice, identified as the son of Vivasvat, who chastises those with concealed sins beyond the reach of human authority.",
+      "justification": "Yama is placed in a triadic authority structure alongside the Guru and king, marking his role as the ultimate enforcer of moral law for hidden transgressions."
+    },
+    {
+      "canonical_name": "Vivasvat",
+      "surface_names": [
+        "Vivasvat"
+      ],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-1de5ee",
+          "quote": "The chastiser of those with hidden sins is Yama, the son of Vivasvat.",
+          "role": "divine progenitor"
+        }
+      ],
+      "description": "Vivasvat, the solar deity, named as the father of Yama in the standard Vedic genealogy.",
+      "justification": "Vivasvat is mentioned solely to identify Yama's divine parentage, grounding Yama's cosmic authority in solar/Vedic mythology."
+    },
+    {
+      "canonical_name": "pariṣad (assembly)",
+      "surface_names": [
+        "assembly",
+        "pariṣad",
+        "parṣad",
+        "parṣat",
+        "the assembly of Brahmins"
+      ],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-391672",
+          "quote": "Four or three Brahmins who know the Vedas, keep the sacred fires, are well-established, and have determined what is to be done and not to be done",
+          "role": "institutional body for prescribing penance"
+        },
+        {
+          "paragraph_id": "p-47bbf4",
+          "quote": "For minor acts, this assembly is small; for medium acts, it is medium. For the consideration of great sins, it is a hundred.",
+          "role": "scaled judicial body"
+        },
+        {
+          "paragraph_id": "p-3fa60c",
+          "quote": "The strength of the assembly is in the rule, and the strength of the rule is in the assembly.",
+          "role": "source of dharmic authority"
+        },
+        {
+          "paragraph_id": "p-5068cf",
+          "quote": "For great sins, the assembly is a hundred; for the greatest, a thousand. For secondary sins, fifty.",
+          "role": "prescribed quorum"
+        }
+      ],
+      "description": "The formal assembly of qualified Brahmins constituted to hear confessions, deliberate on sins, and prescribe penances; its size scales with the severity of the offense.",
+      "justification": "The pariṣad is the central institutional mechanism of this text, elaborated across multiple chapters with detailed rules for its composition, authority, and procedure."
+    },
+    {
+      "canonical_name": "Brahmin",
+      "surface_names": [
+        "Brahmin",
+        "twice-born",
+        "Brāhmaṇa",
+        "dharmapāṭhaka"
+      ],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-735112",
+          "quote": "By birth, body, and knowledge, by conduct and by scripture, and by dharma as prescribed, Brahminhood is ordained.",
+          "role": "defined social-religious category"
+        },
+        {
+          "paragraph_id": "p-e0c069",
+          "quote": "Brahmins are the field; Brahmins are the deity. By the grace of Brahmins, the sun shines in the sky.",
+          "role": "supreme cosmic-religious class"
+        },
+        {
+          "paragraph_id": "p-7d944a",
+          "quote": "There is no field equal to a Brahmin, no fire equal to a Brahmin. There is no rule above a Brahmin, no god beyond a Brahmin.",
+          "role": "supreme ritual mediator"
+        }
+      ],
+      "description": "The Brahmin class, positioned as the supreme social-religious group whose knowledge of Dharmaśāstra, Veda, and conduct makes them the proper arbiters of penance and ritual purity.",
+      "justification": "Brahmins are the institutional and cosmic center of this text: they staff the pariṣad, prescribe penances, and are declared superior to all other humans and even gods."
+    },
+    {
+      "canonical_name": "Śūdra",
+      "surface_names": [
+        "Śūdra",
+        "Shudra"
+      ],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-e8c51b",
+          "quote": "That fire-keeping Brahmin who accepts gifts from a Śūdra attains the same state as the eaters and goes to an animal birth.",
+          "role": "polluting ritual category"
+        },
+        {
+          "paragraph_id": "p-75ed64",
+          "quote": "He who, while studying the Veda, eats a Śūdra's food, the fruit of his Veda goes to the Śūdra, and he himself attains the state of a Śūdra.",
+          "role": "ritual pollution source"
+        },
+        {
+          "paragraph_id": "p-0caf89",
+          "quote": "A Śūdra is purified by time, being devoted to the welfare of cows and Brahmins, or by charity, or by fasts.",
+          "role": "subject of a modified penance regime"
+        }
+      ],
+      "description": "The lowest of the four varṇas, whose food and gifts are treated as ritually contaminating for twice-born; yet also a subject of penance through a modified dharmic path.",
+      "justification": "The Śūdra appears throughout chapters 8–9 as the paradigmatic source of ritual pollution through food contact, while chapter 5 also addresses their penance regime."
+    },
+    {
+      "canonical_name": "Kṣatriya",
+      "surface_names": [
+        "Kṣatriya",
+        "Kshatriya"
+      ],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-d598fa",
+          "quote": "Having bathed with his clothes on, observing silence, with wet garments, and with a concentrated mind, a Kṣatriya or a Vaiśya should approach.",
+          "role": "penitent category"
+        },
+        {
+          "paragraph_id": "p-9f0e2a",
+          "quote": "A Brahmin for Brahmins, a reader for Kṣatriyas, and the questioner for Vaiśyas—they are remembered as the givers of the rule.",
+          "role": "one of three upper varṇas in judicial context"
+        }
+      ],
+      "description": "The warrior-ruler class, who are subject to the pariṣad penance procedure but require a Brahmin intermediary to function within the assembly structure.",
+      "justification": "Kṣatriyas are addressed alongside Brahmins and Vaiśyas in the procedural sections on approaching the assembly and the composition of the prescribing body."
+    },
+    {
+      "canonical_name": "cow",
+      "surface_names": [
+        "cow",
+        "cows",
+        "bull",
+        "calf",
+        "go"
+      ],
+      "kind": "animal",
+      "mentions": [
+        {
+          "paragraph_id": "p-3df4bf",
+          "quote": "If one strikes a cow with a stick and kills it, a penance of double the govrata is ordained.",
+          "role": "protected sacred animal"
+        },
+        {
+          "paragraph_id": "p-39c7b4",
+          "quote": "the killer of cows—these four are proclaimed as fallen.",
+          "role": "victim defining fallen status"
+        },
+        {
+          "paragraph_id": "p-c43f17",
+          "quote": "That cow-killer who follows the cows according to this rule is freed from the sin of cow-killing.",
+          "role": "ritual focus of the cow-killing penance"
+        },
+        {
+          "paragraph_id": "p-edd60e",
+          "quote": "A cow that is sick, accursed, or in fear of thieves, tigers, and other dangers, or has fallen or is stuck in mud—he should rescue it with all his might.",
+          "role": "object of protective duty"
+        }
+      ],
+      "description": "The cow, the most sacred animal in this text, whose killing constitutes a major sin requiring a dedicated two-month penance (govrata), and whose protection and service are central duties.",
+      "justification": "Chapters 10 and 11 are devoted almost entirely to cow-injury and cow-killing penances, making the cow the primary animal figure of this window."
+    },
+    {
+      "canonical_name": "Guru",
+      "surface_names": [
+        "Guru",
+        "teacher",
+        "preceptor"
+      ],
+      "kind": "figure",
+      "figure_kind": "human-authority",
+      "mentions": [
+        {
+          "paragraph_id": "p-1de5ee",
+          "quote": "The Guru is the chastiser of the self-controlled; the king is the chastiser of the wicked.",
+          "role": "disciplinary authority"
+        },
+        {
+          "paragraph_id": "p-93d7c1",
+          "quote": "The Guru, the king, or Yama, when he chastises according to dharma, is freed from sin.",
+          "role": "legitimate chastiser"
+        },
+        {
+          "paragraph_id": "p-cafcb4",
+          "quote": "a defiler of the Guru's bed",
+          "role": "victim defining mahāpātaka sin"
+        }
+      ],
+      "description": "The Guru (spiritual teacher/preceptor), ranked as the first of three legitimate authorities who may chastise, and whose bed-defilement constitutes one of the five great sins.",
+      "justification": "The Guru appears as the apex of the triadic chastisement hierarchy (Guru → king → Yama) and as a protected figure whose violation defines a mahāpātaka."
+    },
+    {
+      "canonical_name": "king",
+      "surface_names": [
+        "king",
+        "rājan"
+      ],
+      "kind": "figure",
+      "figure_kind": "human-authority",
+      "mentions": [
+        {
+          "paragraph_id": "p-f8574c",
+          "quote": "The king shines by truth; the sun shines by truth.",
+          "role": "exemplar of truth-based rule"
+        },
+        {
+          "paragraph_id": "p-1de5ee",
+          "quote": "The Guru is the chastiser of the self-controlled; the king is the chastiser of the wicked.",
+          "role": "disciplinary authority"
+        },
+        {
+          "paragraph_id": "p-435924",
+          "quote": "The assembly for kings is remembered as double that of Brahmins.",
+          "role": "subject of enlarged penance assembly"
+        }
+      ],
+      "description": "The king (rājan), who shines by truth, serves as the second tier in the triadic chastisement hierarchy, requires a larger pariṣad assembly than Brahmins, and relies on a Brahmin intermediary.",
+      "justification": "The king is invoked as both a cosmological emblem of truth and a functional legal authority whose penance procedure is more elaborate than that of Brahmins."
+    },
+    {
+      "canonical_name": "mahāpātakin (great sinner)",
+      "surface_names": [
+        "five great sinners",
+        "mahāpātakin",
+        "pañca-mahāpātaka"
+      ],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-cafcb4",
+          "quote": "A Brahmin-killer, a gold-thief, a liquor-drinker, a defiler of the Guru's bed, and he who associates with these—he is the fifth; these five are the great sinners.",
+          "role": "enumeration of the worst offenders"
+        }
+      ],
+      "description": "The canonical five categories of mahāpātaka (great sin): Brahmin-killing, gold-theft, liquor-drinking, defilement of the Guru's bed, and association with any of the four.",
+      "justification": "The text provides a verbatim enumeration of the pañca-mahāpātaka, a standard classificatory group in Dharmaśāstra literature, as the framework for the most severe penance prescriptions."
+    },
+    {
+      "canonical_name": "patita (fallen)",
+      "surface_names": [
+        "fallen",
+        "patita"
+      ],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-39c7b4",
+          "quote": "The killer of a woman or a man, the defiler of a maiden, and the killer of cows—these four are proclaimed as fallen.",
+          "role": "enumeration of the fallen"
+        }
+      ],
+      "description": "The patita class: those who have committed irremediable sins (killing women, men, defilement of a maiden, cow-killing) and are declared ritually outcast.",
+      "justification": "The text formally enumerates the patita category immediately after the mahāpātaka list, establishing the taxonomy of the most severe transgressions."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Confession and concealment of sin",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-788309",
+          "quote": "Having committed a sin, one should not hide it; being hidden, it grows. Whether it is small or great, one should confess it to the knowers of dharma."
+        },
+        {
+          "paragraph_id": "p-84d4d5",
+          "quote": "Thus permitted by them, he should state the whole truth. When the matter has been confessed, he who has the purpose should be dismissed."
+        }
+      ],
+      "justification": "Chapters 2–3 open with the imperative to confess sin openly and the ritual procedure for approaching the assembly, making public acknowledgment of transgression the prerequisite for penance."
+    },
+    {
+      "topic": "Truth (satya) as cosmic and moral foundation",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-f8574c",
+          "quote": "The king shines by truth; the sun shines by truth. Fire shines by truth; everything is established in truth."
+        },
+        {
+          "paragraph_id": "p-66471f",
+          "quote": "The three worlds—earth, atmosphere, and heaven—are also established in truth. For us and for all, truth alone is the supreme path."
+        },
+        {
+          "paragraph_id": "p-5f8e78",
+          "quote": "If you speak the truth, you will surely attain happiness. But if you are seized by untruth, you will never be purified."
+        }
+      ],
+      "justification": "Chapter 3 elevates satya (truth) to a cosmic principle underpinning all three worlds, the sun, fire, and kingship, making truthful confession not merely a legal but an ontological requirement."
+    },
+    {
+      "topic": "Composition, qualification, and authority of the penance-prescribing assembly",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-391672",
+          "quote": "Four or three Brahmins who know the Vedas, keep the sacred fires, are well-established, and have determined what is to be done and not to be done."
+        },
+        {
+          "paragraph_id": "p-47bbf4",
+          "quote": "For minor acts, this assembly is small; for medium acts, it is medium. For the consideration of great sins, it is a hundred."
+        },
+        {
+          "paragraph_id": "p-3387d1",
+          "quote": "Those Brahmins who are beyond this, who are merely bearers of the name, have no status as an assembly, even if they are thousands."
+        }
+      ],
+      "justification": "Chapters 4–5 are devoted to specifying which Brahmins qualify for assembly membership and what quorum is required by sin-severity, making institutional competence the central concern."
+    },
+    {
+      "topic": "Transfer and dissolution of sin through penance and assembly",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-e0f39d",
+          "quote": "The sin of the performer, which is being appeased by dharma according to scripture, goes entirely to the prescriber; I shall tell you the parts."
+        },
+        {
+          "paragraph_id": "p-50ed17",
+          "quote": "It goes neither to the doer nor to the assembly member. Through contact with the wind and the sun's rays, it dissolves like water."
+        },
+        {
+          "paragraph_id": "p-ac401b",
+          "quote": "Burned by the triple fire of their wisdom, it is destroyed; of this there is no doubt, just as frost is by the sight of the sun."
+        }
+      ],
+      "justification": "Chapter 6 works through a subtle problem of moral bookkeeping: when a well-constituted assembly prescribes penance correctly, sin is dissolved cosmically rather than transferred to anyone, an implicit concern about the assembly's own liability."
+    },
+    {
+      "topic": "Ritual pollution from Śūdra food and the graduated purity of twice-born",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-e8c51b",
+          "quote": "That fire-keeping Brahmin who accepts gifts from a Śūdra attains the same state as the eaters and goes to an animal birth."
+        },
+        {
+          "paragraph_id": "p-75ed64",
+          "quote": "He who, while studying the Veda, eats a Śūdra's food, the fruit of his Veda goes to the Śūdra, and he himself attains the state of a Śūdra."
+        },
+        {
+          "paragraph_id": "p-11f7fb",
+          "quote": "He who eats a Śūdra's food continuously for six months becomes a Śūdra while still alive, and after death is born as a dog."
+        }
+      ],
+      "justification": "Chapter 8 develops an elaborate taxonomy of food-pollution from Śūdra sources, with escalating consequences from ritual degradation to rebirth as a dog, encoding caste hierarchy through alimentary rules."
+    },
+    {
+      "topic": "The sacred status of cows and the penance regime for cow-harm",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-3df4bf",
+          "quote": "If one strikes a cow with a stick and kills it, a penance of double the govrata is ordained."
+        },
+        {
+          "paragraph_id": "p-28c82b",
+          "quote": "He should follow the cows daily and always drink their dust."
+        },
+        {
+          "paragraph_id": "p-c43f17",
+          "quote": "That cow-killer who follows the cows according to this rule is freed from the sin of cow-killing."
+        }
+      ],
+      "justification": "Chapters 10–11 develop the most detailed penance in the window, the govrata, in which the cow-killer must literally live as a cow for two months, encoding the cow's supreme sacred value."
+    },
+    {
+      "topic": "Supremacy of Brahmins as cosmic field and divine mediators",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-e0c069",
+          "quote": "Brahmins are the field; Brahmins are the deity. By the grace of Brahmins, the sun shines in the sky."
+        },
+        {
+          "paragraph_id": "p-7d944a",
+          "quote": "There is no field equal to a Brahmin, no fire equal to a Brahmin. There is no rule above a Brahmin, no god beyond a Brahmin."
+        },
+        {
+          "paragraph_id": "p-73e74b",
+          "quote": "In a Brahmin are all the gods, and he is the god of gods."
+        }
+      ],
+      "justification": "Chapter 12 closes the work with an extended doxology of Brahmin supremacy that goes beyond procedural dharma to stake a metaphysical claim: Brahmins contain all gods and their mouths are superior to the Agnihotra fire."
+    },
+    {
+      "topic": "Gradation of penance by varṇa, age, sex, and intentionality",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-83ee9c",
+          "quote": "For women who have sinned intentionally, half the penance should be prescribed."
+        },
+        {
+          "paragraph_id": "p-8ca8c6",
+          "quote": "For one who has passed eighty years of age, the full penance is reduced by half."
+        },
+        {
+          "paragraph_id": "p-c7890f",
+          "quote": "What is done unintentionally is doubled if done intentionally."
+        }
+      ],
+      "justification": "The text implicitly encodes a complex jurisprudential logic of moral mitigating factors—intentionality doubles guilt, while age below 12 or above 80 and female sex halve it—never stated as a general principle but consistently applied."
+    },
+    {
+      "topic": "The kṛcchra penance and the vajra vow as instruments of purification",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-59c99b",
+          "quote": "This holy kṛcchra penance was prescribed by Aṅgiras himself. Beginning with the Praṇava, it is remembered by the name vajra."
+        },
+        {
+          "paragraph_id": "p-951fd5",
+          "quote": "This penance is ordained for those who are joined with sin. Those joined with great sins are purified by three years of it."
+        },
+        {
+          "paragraph_id": "p-6f55e0",
+          "quote": "He should recite the Sāvitrī or the Vyāhṛtis eight thousand times, placing Oṃkāra at the beginning."
+        }
+      ],
+      "justification": "Chapter 12 describes the signature kṛcchra-vajra penance of this text, attributed to Aṅgiras himself, which combines recitation, dietary austerity, and physical posture into a sustained purificatory regime."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Manusmṛti",
+      "cited_author": "Manu",
+      "stance": "authority",
+      "paragraph_id": "p-de6bd6",
+      "quote": "I shall now declare the exception which was stated by Manu in ancient times.",
+      "justification": "Manu is explicitly named as an ancient authority whose ruling on Śūdra food exceptions the Aṅgiras text invokes and defers to."
+    },
+    {
+      "cited_work": "Manusmṛti",
+      "cited_author": "Manu",
+      "stance": "authority",
+      "paragraph_id": "p-372fb5",
+      "quote": "the penance should be known as the same as for a cow; thus said the blessed Manu.",
+      "justification": "Manu is cited again as the originating authority for the ruling that penance for killing listed animals equals the cow-killing penance."
+    }
+  ]
+}

@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 24**
+**Viṣṇu Smriti 24**
 
 Now, a Brāhmaṇa may have four wives, according to the order of the *varṇas*. // Vi_24.1 //
 
@@ -88,7 +88,7 @@ He who gives a maiden in the Brāhma form of marriage leads her to the world of 
 
 In the Daiva form, to heaven. // Vi_24.34 //
 
-In the Ārṣa form, to the world of Vishnu. // Vi_24.35 //
+In the Ārṣa form, to the world of Viṣṇu. // Vi_24.35 //
 
 In the Prājāpatya form, to the world of the gods. // Vi_24.36 //
 

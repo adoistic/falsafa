@@ -1,0 +1,44 @@
+{
+  "work_slug": "alexander-pope-poems-2de8d3",
+  "work_title": "Poems",
+  "chapter_number": 12,
+  "chapter_title": "THE UNIVERSAL PRAYER.",
+  "chapter_slug": "12-the-universal-prayer",
+  "author": "Alexander Pope",
+  "author_slug": "alexander-pope",
+  "ecpa_poem_id": "o3702-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "prayer"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "8.6.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 52
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "bab759a5-ed05-5efd-88f8-fddb88db685a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 321,
+      "line_count": 66,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

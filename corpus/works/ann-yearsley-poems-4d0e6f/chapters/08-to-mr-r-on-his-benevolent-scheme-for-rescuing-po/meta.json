@@ -1,0 +1,41 @@
+{
+  "work_slug": "ann-yearsley-poems-4d0e6f",
+  "work_title": "Poems",
+  "chapter_number": 8,
+  "chapter_title": "To Mr. R—, ON HIS Benevolent Scheme for rescuing Poor Children from Vice and Misery, BY PROMOTING SUNDAY SCHOOLS.",
+  "chapter_slug": "08-to-mr-r-on-his-benevolent-scheme-for-rescuing-po",
+  "author": "Ann Yearsley",
+  "author_slug": "ann-yearsley",
+  "ecpa_poem_id": "pye85-w0080",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "blank verse",
+      "address"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 177
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d785e905-32be-5c93-83ea-3f0c94f10ee6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1370,
+      "line_count": 178,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

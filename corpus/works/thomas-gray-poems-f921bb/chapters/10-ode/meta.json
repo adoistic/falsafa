@@ -1,0 +1,42 @@
+{
+  "work_slug": "thomas-gray-poems-f921bb",
+  "work_title": "Poems",
+  "chapter_number": 10,
+  "chapter_title": "ODE.",
+  "chapter_slug": "10-ode",
+  "author": "Thomas Gray",
+  "author_slug": "thomas-gray",
+  "ecpa_poem_id": "o5157-w0880",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "stanzas": [
+      "strophe (I)",
+      "antistrophe (II)",
+      "epode (III)"
+    ],
+    "metrical_pattern": "irregular",
+    "line_count": 123
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c40df232-ff26-5837-982a-e7d4ca03f47d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 813,
+      "line_count": 134,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

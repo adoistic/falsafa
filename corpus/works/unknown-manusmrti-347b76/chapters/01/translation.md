@@ -60,9 +60,9 @@ Among these, each succeeding element acquires the quality of the one preceding i
 
 At the beginning, he created for all beings their distinct names, their distinct actions, and their separate conditions, all from the words of the Veda. // Mn_1.21 //
 
-The Lord also created the host of the gods, whose nature is action, and the subtle host of the Sadhyas, and the eternal *yajña* (sacred sacrifice). // Mn_1.22 //
+The Lord also created the host of the gods, whose nature is action, and the subtle host of the Sādhyas, and the eternal *yajña* (sacred sacrifice). // Mn_1.22 //
 
-From fire, wind, and the sun, he milked forth the triple eternal Veda—distinguished as Rik, Yajus, and Saman—for the accomplishment of the sacrifice. // Mn_1.23 //
+From fire, wind, and the sun, he milked forth the triple eternal Veda—distinguished as Ṛc, Yajus, and Saman—for the accomplishment of the sacrifice. // Mn_1.23 //
 
 He created time and the divisions of time, the constellations and also the planets, the rivers, the oceans, the mountains, and both level and uneven lands. // Mn_1.24 //
 
@@ -78,7 +78,7 @@ Harmful or harmless, gentle or cruel, righteous or unrighteous, true or false—
 
 Just as the seasons, in the course of the year, of their own accord assume their respective seasonal marks, so do embodied beings assume their respective actions. // Mn_1.30 //
 
-And for the sake of the prosperity of the worlds, he caused the Brahmana, the Kshatriya, the Vaishya, and the Shudra to emanate from his mouth, arms, thighs, and feet. // Mn_1.31 //
+And for the sake of the prosperity of the worlds, he caused the Brāhmaṇa, the Kṣatriya, the Vaiśya, and the Śūdra to emanate from his mouth, arms, thighs, and feet. // Mn_1.31 //
 
 Having divided his own body into two, the Lord became male with one half and female with the other; in her, he created Viraj. // Mn_1.32 //
 
@@ -86,11 +86,11 @@ Know me, O best of the twice-born, to be that Male, Viraj, whom he himself creat
 
 Then I, desiring to create progeny, performed the most difficult *tapas* and created at the beginning ten great sages, the lords of progeny. // Mn_1.34 //
 
-Marichi, Atri, Angiras, Pulastya, Pulaha, Kratu, Prachetas, Vasishtha, Bhrigu, and also Narada. // Mn_1.35 //
+Marichi, Atri, Angiras, Pulastya, Pulaha, Kratu, Prachetas, Vasiṣṭha, Bhṛgu, and also Narada. // Mn_1.35 //
 
 These beings of great splendor created seven other Manus, the gods and the orders of gods, and great seers of immeasurable power. // Mn_1.36 //
 
-Yakshas, Rakshasas, and Pishachas; Gandharvas, Apsaras, and Asuras; Nagas, Sarpas, and Suparnas; and the separate orders of the Ancestors. // Mn_1.37 //
+Yakshas, Rākṣasas, and Piśācas; Gandharvas, Apsaras, and Asuras; Nagas, Sarpas, and Suparnas; and the separate orders of the Ancestors. // Mn_1.37 //
 
 Lightnings, thunderbolts, and clouds; rainbows and the bow of Indra; meteors, portents, and comets; and celestial lights of every kind. // Mn_1.38 //
 
@@ -102,7 +102,7 @@ Thus by my command was this whole universe, both movable and immovable, created 
 
 And whatever action has been declared for each of these beings here, that I shall now declare to you, as well as their order in birth. // Mn_1.42 //
 
-Domestic animals, wild beasts, carnivorous creatures with two rows of teeth, Rakshasas, Pishachas, and men are born from the womb. // Mn_1.43 //
+Domestic animals, wild beasts, carnivorous creatures with two rows of teeth, Rākṣasas, Piśācas, and men are born from the womb. // Mn_1.43 //
 
 Birds, snakes, crocodiles, fish, and tortoises, as well as similar creatures of land and water, are born from eggs. // Mn_1.44 //
 
@@ -134,9 +134,9 @@ Thus he, the imperishable one, by means of waking and sleeping, incessantly vivi
 
 Having composed this *shastra* (sacred treatise), he himself first taught it to me with due ceremony; and I then taught it to Marichi and the other sages. // Mn_1.58 //
 
-This Bhrigu will recite this *shastra* to you in its entirety; for this sage has learned the whole of it completely from me. // Mn_1.59 //
+This Bhṛgu will recite this *shastra* to you in its entirety; for this sage has learned the whole of it completely from me. // Mn_1.59 //
 
-Then Bhrigu, thus addressed by the great sage Manu, with a pleased mind, spoke to all the seers: "Let it be heard." // Mn_1.60 //
+Then Bhṛgu, thus addressed by the great sage Manu, with a pleased mind, spoke to all the seers: "Let it be heard." // Mn_1.60 //
 
 Of this Svayambhuva Manu, there are six other Manus in his line, great-souled and of great power, who have each created their own progeny. // Mn_1.61 //
 
@@ -154,7 +154,7 @@ A year is a day and a night of the gods, and their division is as follows: the n
 
 Now learn in summary the measure of a day and a night of Brahma, and of each of the ages (*yugas*) in succession. // Mn_1.68 //
 
-They say that four thousand years is the Krita Yuga; its twilight before is of as many hundreds, and its twilight after is of the same length. // Mn_1.69 //
+They say that four thousand years is the Kṛta Yuga; its twilight before is of as many hundreds, and its twilight after is of the same length. // Mn_1.69 //
 
 In the other three ages, with their twilights before and after, the thousands and the hundreds are diminished by one in each. // Mn_1.70 //
 
@@ -178,53 +178,53 @@ The age of the gods, which was stated before as twelve thousand years, when mult
 
 The Manvantaras, the creations and the dissolutions, are numberless; the Supreme Being performs this again and again, as if in sport. // Mn_1.80 //
 
-In the Krita age, Dharma is four-footed and complete, and so is truth; no gain comes to men through any unrighteousness. // Mn_1.81 //
+In the Kṛta age, Dharma is four-footed and complete, and so is truth; no gain comes to men through any unrighteousness. // Mn_1.81 //
 
 In the other ages, Dharma is successively deprived of one foot due to what is gained; and through theft, falsehood, and deceit, Dharma diminishes by one foot in each. // Mn_1.82 //
 
-In the Krita age, men are free from disease, accomplish all their aims, and have a life of four hundred years; but in the Treta and the other ages, their lifespan diminishes by one quarter in each. // Mn_1.83 //
+In the Kṛta age, men are free from disease, accomplish all their aims, and have a life of four hundred years; but in the Tretā and the other ages, their lifespan diminishes by one quarter in each. // Mn_1.83 //
 
 The lifespan of mortals as declared in the Veda, the desired rewards of actions, and the power of embodied beings bear fruit in the world according to the age. // Mn_1.84 //
 
-The Dharmas of men are different in the Krita age, different in the Treta and the Dvapara, and different again in the Kali age, in proportion to the decline of each age. // Mn_1.85 //
+The Dharmas of men are different in the Kṛta age, different in the Tretā and the Dvāpara, and different again in the Kali age, in proportion to the decline of each age. // Mn_1.85 //
 
-In the Krita age, the highest Dharma is *tapas*; in the Treta, knowledge is declared to be so; in the Dvapara, they call it the *yajña*; and in the Kali age, giving is the one Dharma. // Mn_1.86 //
+In the Kṛta age, the highest Dharma is *tapas*; in the Tretā, knowledge is declared to be so; in the Dvāpara, they call it the *yajña*; and in the Kali age, giving is the one Dharma. // Mn_1.86 //
 
 For the protection of this whole creation, he of great splendor assigned separate duties to those born from his mouth, arms, thighs, and feet. // Mn_1.87 //
 
-To the Brahmanas he assigned teaching and studying, sacrificing for oneself and sacrificing for others, giving and receiving alms. // Mn_1.88 //
+To the Brāhmaṇas he assigned teaching and studying, sacrificing for oneself and sacrificing for others, giving and receiving alms. // Mn_1.88 //
 
-The protection of the people, giving, offering sacrifices, and studying, and non-attachment to the objects of the senses—these, in summary, are for the Kshatriya. // Mn_1.89 //
+The protection of the people, giving, offering sacrifices, and studying, and non-attachment to the objects of the senses—these, in summary, are for the Kṣatriya. // Mn_1.89 //
 
-The protection of cattle, giving, offering sacrifices, and studying, as well as trade, lending money, and agriculture are for the Vaishya. // Mn_1.90 //
+The protection of cattle, giving, offering sacrifices, and studying, as well as trade, lending money, and agriculture are for the Vaiśya. // Mn_1.90 //
 
-But the one duty the Lord assigned to the Shudra was to serve these other *varnas* without malice. // Mn_1.91 //
+But the one duty the Lord assigned to the Śūdra was to serve these other *varnas* without malice. // Mn_1.91 //
 
 Man is declared to be purer above the navel; therefore the Self-existent One has declared his mouth to be the purest part of him. // Mn_1.92 //
 
-By his origin from the highest limb, by his seniority, and by his preservation of the Veda, the Brahmana is by right the lord of this whole creation. // Mn_1.93 //
+By his origin from the highest limb, by his seniority, and by his preservation of the Veda, the Brāhmaṇa is by right the lord of this whole creation. // Mn_1.93 //
 
 For the Self-existent One, having performed *tapas*, created him from his own mouth at the beginning, for the conveyance of offerings to the gods and ancestors, and for the protection of this all. // Mn_1.94 //
 
 Through whose mouth the dwellers in heaven always consume the offerings to the gods, and the ancestors the offerings to the dead—what being is superior to him? // Mn_1.95 //
 
-Of beings, the living are the best; of the living, those who live by intelligence; of the intelligent, men are the best; and among men, the Brahmanas are remembered as the best. // Mn_1.96 //
+Of beings, the living are the best; of the living, those who live by intelligence; of the intelligent, men are the best; and among men, the Brāhmaṇas are remembered as the best. // Mn_1.96 //
 
-And among Brahmanas, the learned are the best; among the learned, those whose intellect is resolved; among the resolved, the performers of duties; and among the performers, those who know Brahma. // Mn_1.97 //
+And among Brāhmaṇas, the learned are the best; among the learned, those whose intellect is resolved; among the resolved, the performers of duties; and among the performers, those who know Brahma. // Mn_1.97 //
 
-The very birth of a Brahmana is an eternal incarnation of Dharma; for he is born for the sake of Dharma and is destined to become one with Brahma. // Mn_1.98 //
+The very birth of a Brāhmaṇa is an eternal incarnation of Dharma; for he is born for the sake of Dharma and is destined to become one with Brahma. // Mn_1.98 //
 
-A Brahmana, when he is born, is born supreme on the earth, the lord of all beings, for the protection of the treasury of Dharma. // Mn_1.99 //
+A Brāhmaṇa, when he is born, is born supreme on the earth, the lord of all beings, for the protection of the treasury of Dharma. // Mn_1.99 //
 
-Whatever exists in the world is the property of the Brahmana; by his pre-eminence of birth, the Brahmana is indeed entitled to this all. // Mn_1.100 //
+Whatever exists in the world is the property of the Brāhmaṇa; by his pre-eminence of birth, the Brāhmaṇa is indeed entitled to this all. // Mn_1.100 //
 
-The Brahmana eats but his own food, wears but his own clothes, and gives but his own alms; it is through the compassion of the Brahmana that other people enjoy. // Mn_1.101 //
+The Brāhmaṇa eats but his own food, wears but his own clothes, and gives but his own alms; it is through the compassion of the Brāhmaṇa that other people enjoy. // Mn_1.101 //
 
 To determine the duties of him and of the others in due order, the wise Svayambhuva Manu composed this *shastra*. // Mn_1.102 //
 
-This must be studied with diligence by a learned Brahmana, and it must be taught by him to his pupils properly, but by no one else. // Mn_1.103 //
+This must be studied with diligence by a learned Brāhmaṇa, and it must be taught by him to his pupils properly, but by no one else. // Mn_1.103 //
 
-A Brahmana who studies this *shastra* and fulfills his vows is never tainted by the sins of action arising from his mind, speech, or body. // Mn_1.104 //
+A Brāhmaṇa who studies this *shastra* and fulfills his vows is never tainted by the sins of action arising from his mind, speech, or body. // Mn_1.104 //
 
 He purifies his company and his ancestors and descendants for seven generations each way; and he alone is worthy to possess this whole earth. // Mn_1.105 //
 
@@ -234,7 +234,7 @@ In this, Dharma has been declared in its entirety, as well as the good and bad q
 
 The rule of conduct is the highest Dharma, declared in both *Śruti* and *Smārta*; therefore a self-possessed twice-born should always be devoted to it. // Mn_1.108 //
 
-A Brahmana who has fallen from the rule of conduct does not reap the fruit of the Veda; but he who is united with it will enjoy the full fruit. // Mn_1.109 //
+A Brāhmaṇa who has fallen from the rule of conduct does not reap the fruit of the Veda; but he who is united with it will enjoy the full fruit. // Mn_1.109 //
 
 Thus the sages, seeing that the course of Dharma proceeds from the rule of conduct, accepted the rule of conduct as the highest root of all *tapas*. // Mn_1.110 //
 
@@ -248,7 +248,7 @@ The duties of women, the way of the ascetic, liberation, and renunciation, the e
 
 The rules for examining witnesses, and the law concerning husband and wife, the law of inheritance, gambling, and the removal of "thorns"; // Mn_1.115 //
 
-The conduct towards Vaishyas and Shudras, and the origin of the mixed *varnas*, the Dharma in times of distress for the *varnas*, and likewise the rule of penance; // Mn_1.116 //
+The conduct towards Vaiśyas and Śūdras, and the origin of the mixed *varnas*, the Dharma in times of distress for the *varnas*, and likewise the rule of penance; // Mn_1.116 //
 
 And the threefold transmigration of the soul arising from actions, the supreme good resulting from actions, and the examination of their merits and demerits; // Mn_1.117 //
 

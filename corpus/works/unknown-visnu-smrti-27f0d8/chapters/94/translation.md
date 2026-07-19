@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 94**
+**Viṣṇu Smriti 94**
 
 When a householder sees wrinkles and grey hair, he should take refuge in the forest. // Vi_94.1 //
 Or when he sees the child of his child. // Vi_94.2 //

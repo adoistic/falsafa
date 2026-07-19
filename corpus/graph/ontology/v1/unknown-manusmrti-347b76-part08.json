@@ -1,0 +1,719 @@
+{
+  "slug": "unknown-manusmrti-347b76",
+  "window": "07,08:0-74",
+  "entities": [
+    {
+      "canonical_name": "Indra",
+      "surface_names": ["Indra", "great Indra"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-261c3f",
+          "quote": "Having drawn forth eternal particles from Indra, the Wind, Yama, the Sun, from Agni and Varuna, and from the Moon and the Lord of Wealth (Kubera).",
+          "role": "divine source whose essence constitutes the king"
+        },
+        {
+          "paragraph_id": "p-7ed7e7",
+          "quote": "he is the Sun, he is Soma, he is the King of Dharma (Yama); he is Kubera, he is Varuna, he is the great Indra.",
+          "role": "divine identity embodied by the king"
+        }
+      ],
+      "description": "King of the gods, one of eight deities whose particles compose the king's essence, and whose divine identity the king embodies.",
+      "justification": "Indra is named among the eight gods from whose particles the king is created, establishing his role as a divine source of royal authority."
+    },
+    {
+      "canonical_name": "Agni",
+      "surface_names": ["Agni", "Fire"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-261c3f",
+          "quote": "from Agni and Varuna, and from the Moon and the Lord of Wealth (Kubera).",
+          "role": "divine source whose essence constitutes the king"
+        },
+        {
+          "paragraph_id": "p-7ed7e7",
+          "quote": "Through his power, he is Agni and he is the Wind",
+          "role": "divine identity embodied by the king"
+        },
+        {
+          "paragraph_id": "p-9af453",
+          "quote": "Fire burns only one man who approaches it carelessly; the fire of a king burns the whole family",
+          "role": "simile for the king's destructive power"
+        },
+        {
+          "paragraph_id": "p-3739b4",
+          "quote": "an oblation offered in the mouth of a Brahmana is more excellent than one offered in the Agnihotra fire.",
+          "role": "ritual referent for the Agnihotra fire sacrifice"
+        }
+      ],
+      "description": "God of fire, one of the eight divine sources of the king's essence, whose burning nature is compared to the king's power and whose sacrificial fire is referenced in the Agnihotra ritual.",
+      "justification": "Agni appears as both a divine constituent of royal nature and as a ritual referent for Brahmana worship."
+    },
+    {
+      "canonical_name": "Yama",
+      "surface_names": ["Yama", "King of Dharma"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-261c3f",
+          "quote": "Having drawn forth eternal particles from Indra, the Wind, Yama, the Sun",
+          "role": "divine source whose essence constitutes the king"
+        },
+        {
+          "paragraph_id": "p-7ed7e7",
+          "quote": "he is the King of Dharma (Yama)",
+          "role": "divine identity embodied by the king"
+        }
+      ],
+      "description": "God of death and Dharma, one of eight deities whose particles compose the king, and whose identity as King of Dharma the king embodies.",
+      "justification": "Yama is named among the eight divine sources of royal essence and identified as the deity whose Dharma-kingship the earthly king reflects."
+    },
+    {
+      "canonical_name": "Varuna",
+      "surface_names": ["Varuna"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-261c3f",
+          "quote": "from Agni and Varuna, and from the Moon and the Lord of Wealth (Kubera).",
+          "role": "divine source whose essence constitutes the king"
+        },
+        {
+          "paragraph_id": "p-7ed7e7",
+          "quote": "he is Kubera, he is Varuna, he is the great Indra.",
+          "role": "divine identity embodied by the king"
+        }
+      ],
+      "description": "God of cosmic order and water, one of eight deities whose particles compose the king's divine nature.",
+      "justification": "Varuna is listed among the eight gods contributing particles to the king's creation, establishing the king as an embodiment of cosmic order."
+    },
+    {
+      "canonical_name": "Kubera",
+      "surface_names": ["Kubera", "Lord of Wealth"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-261c3f",
+          "quote": "from the Moon and the Lord of Wealth (Kubera).",
+          "role": "divine source whose essence constitutes the king"
+        },
+        {
+          "paragraph_id": "p-7ed7e7",
+          "quote": "he is Kubera, he is Varuna",
+          "role": "divine identity embodied by the king"
+        },
+        {
+          "paragraph_id": "p-b0c4fe",
+          "quote": "Kubera gained his wealth and sovereignty",
+          "role": "exemplar of humility gaining wealth and sovereignty"
+        }
+      ],
+      "description": "God of wealth, one of the eight divine sources of royal essence, and a model figure cited for gaining sovereignty through humility.",
+      "justification": "Kubera appears as both a constituent deity of the king's divine nature and as a mythological exemplar of humble acquisition of wealth and power."
+    },
+    {
+      "canonical_name": "Soma",
+      "surface_names": ["Soma", "Moon"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-261c3f",
+          "quote": "from the Moon and the Lord of Wealth (Kubera).",
+          "role": "divine source whose essence constitutes the king"
+        },
+        {
+          "paragraph_id": "p-7ed7e7",
+          "quote": "he is the Sun, he is Soma",
+          "role": "divine identity embodied by the king"
+        }
+      ],
+      "description": "God of the moon and sacred drink, one of eight deities whose particles compose the king's divine nature.",
+      "justification": "Soma/Moon is identified as one of the eight divine sources of royal essence, contributing to the king's composite divine identity."
+    },
+    {
+      "canonical_name": "Daṇḍa",
+      "surface_names": ["Daṇḍa", "punishment", "rod of punishment"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-73f910",
+          "quote": "the Lord in the beginning created Daṇḍa, his own son, as Dharma, the protector of all beings, formed of the spiritual luster of Brahma.",
+          "role": "divine son of the Lord, cosmic principle of punishment and order"
+        },
+        {
+          "paragraph_id": "p-48dedc",
+          "quote": "Daṇḍa rules all subjects, Daṇḍa alone protects them; Daṇḍa is awake when others sleep; the wise know Daṇḍa to be Dharma itself.",
+          "role": "cosmic ruling and protective principle identified with Dharma"
+        },
+        {
+          "paragraph_id": "p-7ac93f",
+          "quote": "Where Daṇḍa, dark and red-eyed, the destroyer of sin, moves about, there the subjects are not bewildered",
+          "role": "personified destroyer of sin moving through the world"
+        },
+        {
+          "paragraph_id": "p-c970b2",
+          "quote": "He is the king, the man, Daṇḍa; he is the leader and the ruler",
+          "role": "identified with the king himself as ruler"
+        },
+        {
+          "paragraph_id": "p-ae8f71",
+          "quote": "What is not obtained, he should seek with Daṇḍa; what is obtained, he should protect with vigilance",
+          "role": "instrument of royal acquisition and protection"
+        }
+      ],
+      "description": "The cosmic principle of punishment personified as the divine son of the Lord, identified with Dharma itself, and embodied in the king's authority.",
+      "justification": "Daṇḍa is explicitly created as the Lord's son and Dharma's embodiment, described with physical attributes (dark, red-eyed), making it a personified divine figure."
+    },
+    {
+      "canonical_name": "Brahma",
+      "surface_names": ["Brahma", "the Lord"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-915921",
+          "quote": "when this world was without a king, it was scattered in all directions out of fear; for the protection of this all, the Lord created a king.",
+          "role": "divine creator of kingship"
+        },
+        {
+          "paragraph_id": "p-73f910",
+          "quote": "the Lord in the beginning created Daṇḍa, his own son, as Dharma, the protector of all beings, formed of the spiritual luster of Brahma.",
+          "role": "divine creator of Daṇḍa; source of spiritual luster"
+        }
+      ],
+      "description": "The creator deity who fashioned the king from particles of eight gods and created Daṇḍa as his own son to protect all beings.",
+      "justification": "Brahma is identified as the Lord who created both the king and Daṇḍa, establishing the theological foundation of royal authority in this chapter."
+    },
+    {
+      "canonical_name": "Padma",
+      "surface_names": ["Padma", "goddess of fortune"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-9a02cb",
+          "quote": "He in whose favor resides Padma, the goddess of fortune, in whose valor resides victory, and in whose anger resides death",
+          "role": "divine bestower of royal fortune"
+        }
+      ],
+      "description": "Goddess of fortune (Lakshmi) who resides with the king, granting him prosperity and divine favor.",
+      "justification": "Padma is named explicitly as a goddess dwelling with the king, symbolizing divine sanction of royal prosperity."
+    },
+    {
+      "canonical_name": "Vena",
+      "surface_names": ["Vena"],
+      "kind": "figure",
+      "figure_kind": "king",
+      "mentions": [
+        {
+          "paragraph_id": "p-120cfa",
+          "quote": "Vena was ruined by lack of humility, and so was king Nahusha, and Sudas, the son of Pijavana, and Sumukha and Nimi.",
+          "role": "negative exemplar of a king ruined by arrogance"
+        }
+      ],
+      "description": "Legendary king cited as an example of a ruler destroyed by lack of humility.",
+      "justification": "Vena is named as a historical-mythological exemplar of royal failure through pride, grounding the text's instruction on humility."
+    },
+    {
+      "canonical_name": "Nahusha",
+      "surface_names": ["Nahusha"],
+      "kind": "figure",
+      "figure_kind": "king",
+      "mentions": [
+        {
+          "paragraph_id": "p-120cfa",
+          "quote": "Vena was ruined by lack of humility, and so was king Nahusha",
+          "role": "negative exemplar of a king ruined by arrogance"
+        }
+      ],
+      "description": "Legendary king cited as an exemplar of royal ruin through lack of humility.",
+      "justification": "Nahusha is named alongside Vena as a warning example of a king destroyed by pride."
+    },
+    {
+      "canonical_name": "Sudas",
+      "surface_names": ["Sudas", "son of Pijavana"],
+      "kind": "figure",
+      "figure_kind": "king",
+      "mentions": [
+        {
+          "paragraph_id": "p-120cfa",
+          "quote": "Sudas, the son of Pijavana, and Sumukha and Nimi.",
+          "role": "negative exemplar of a king ruined by arrogance"
+        }
+      ],
+      "description": "Legendary king and son of Pijavana, cited as an example of royal ruin through arrogance.",
+      "justification": "Sudas is named in the list of kings ruined by lack of humility, with his patronym Pijavana providing genealogical identification."
+    },
+    {
+      "canonical_name": "Nimi",
+      "surface_names": ["Nimi"],
+      "kind": "figure",
+      "figure_kind": "king",
+      "mentions": [
+        {
+          "paragraph_id": "p-120cfa",
+          "quote": "Sudas, the son of Pijavana, and Sumukha and Nimi.",
+          "role": "negative exemplar of a king ruined by arrogance"
+        }
+      ],
+      "description": "Legendary king cited as an example of royal ruin through lack of humility.",
+      "justification": "Nimi is listed among kings destroyed by pride, serving as a negative exemplar for the instruction on royal conduct."
+    },
+    {
+      "canonical_name": "Prithu",
+      "surface_names": ["Prithu"],
+      "kind": "figure",
+      "figure_kind": "king",
+      "mentions": [
+        {
+          "paragraph_id": "p-b0c4fe",
+          "quote": "Prithu gained his kingdom through humility, and so did Manu",
+          "role": "positive exemplar of a king who gained sovereignty through humility"
+        }
+      ],
+      "description": "Legendary king who gained sovereignty through humility, cited as a positive model for royal conduct.",
+      "justification": "Prithu is named as an exemplar of successful kingship achieved through humility, contrasting with the kings ruined by pride."
+    },
+    {
+      "canonical_name": "Manu",
+      "surface_names": ["Manu"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-b0c4fe",
+          "quote": "Prithu gained his kingdom through humility, and so did Manu",
+          "role": "positive exemplar who gained kingdom through humility"
+        }
+      ],
+      "description": "Primordial lawgiver and ancestor-king who gained sovereignty through humility, cited as a model within the text that bears his name.",
+      "justification": "Manu is mentioned as a positive exemplar of gaining a kingdom through humility, with implicit authority as the text's own lawgiver."
+    },
+    {
+      "canonical_name": "Son of Gadhi",
+      "surface_names": ["son of Gadhi", "Vishvamitra"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-b0c4fe",
+          "quote": "the son of Gadhi his Brahmanhood.",
+          "role": "positive exemplar who gained Brahmanhood through humility"
+        }
+      ],
+      "description": "The son of Gadhi (traditionally Vishvamitra), who attained Brahmanhood through humility, cited as an exemplar of transformation through virtue.",
+      "justification": "The son of Gadhi is cited as having gained Brahmanhood through humility, a significant example of varna transformation through moral conduct."
+    },
+    {
+      "canonical_name": "Danavas",
+      "surface_names": ["Danavas"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-2d8dd6",
+          "quote": "The gods, the Danavas, the Gandharvas, the Rakshasas, the birds, and the serpents—they too submit to their enjoyments only when oppressed by Daṇḍa.",
+          "role": "cosmic group subject to Daṇḍa"
+        }
+      ],
+      "description": "A class of demonic beings listed among the cosmic groups that submit to order through Daṇḍa.",
+      "justification": "The Danavas are named as one of the cosmic groups that Daṇḍa keeps in order, demonstrating the universal scope of the law of punishment."
+    },
+    {
+      "canonical_name": "Gandharvas",
+      "surface_names": ["Gandharvas"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-2d8dd6",
+          "quote": "The gods, the Danavas, the Gandharvas, the Rakshasas, the birds, and the serpents—they too submit to their enjoyments only when oppressed by Daṇḍa.",
+          "role": "celestial group subject to Daṇḍa"
+        }
+      ],
+      "description": "Celestial musicians and semi-divine beings who, like all cosmic groups, are kept in order by Daṇḍa.",
+      "justification": "The Gandharvas are listed among the cosmic groups subject to Daṇḍa, extending the principle of royal punishment to the celestial realm."
+    },
+    {
+      "canonical_name": "Rakshasas",
+      "surface_names": ["Rakshasas"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-2d8dd6",
+          "quote": "The gods, the Danavas, the Gandharvas, the Rakshasas, the birds, and the serpents—they too submit to their enjoyments only when oppressed by Daṇḍa.",
+          "role": "demonic group subject to Daṇḍa"
+        },
+        {
+          "paragraph_id": "p-ad5b10",
+          "quote": "he who constantly serves the aged is honored even by Rakshasas.",
+          "role": "adversarial beings who still honor respectful conduct"
+        }
+      ],
+      "description": "Demonic beings who are subject to the order of Daṇḍa and who respect kings that honor aged Brahmanas, appearing as markers of cosmic moral law.",
+      "justification": "Rakshasas appear twice—once as cosmic beings under Daṇḍa and once as beings who honor virtuous conduct—showing their role as moral reference points."
+    },
+    {
+      "canonical_name": "Kshatriya",
+      "surface_names": ["Kshatriya", "Kshatriyas", "warriors"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-3f62fe",
+          "quote": "A Kshatriya who has received the Brahmanical saṃskāra according to the rule must perform the protection of this entire world justly",
+          "role": "royal varna responsible for protection of the world"
+        },
+        {
+          "paragraph_id": "p-a02dbe",
+          "quote": "This has been declared as the eternal, unblemished Dharma of warriors; a Kshatriya, while slaying his enemies in battle, should not swerve from this Dharma.",
+          "role": "varna defined by warrior Dharma"
+        },
+        {
+          "paragraph_id": "p-1e06cc",
+          "quote": "The highest Dharma of a Kshatriya is the protection of his subjects",
+          "role": "varna whose supreme duty is protection"
+        }
+      ],
+      "description": "The warrior and ruling varna whose primary Dharma is protection of subjects, just conduct in battle, and governance of the world.",
+      "justification": "The Kshatriya varna is repeatedly defined by its specific Dharma of protection and martial conduct throughout both chapters."
+    },
+    {
+      "canonical_name": "Brahmana",
+      "surface_names": ["Brahmanas", "Brahmana", "śrotriya"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-cbe0d7",
+          "quote": "A king, having risen in the morning, should wait upon the Brahmanas who are aged and learned in the three Vedas, and he should abide by their instruction.",
+          "role": "learned counselors the king must serve"
+        },
+        {
+          "paragraph_id": "p-cf2a7f",
+          "quote": "Even if he is dying, a king must not take a tax from a śrotriya (a Brahmana learned in the Veda)",
+          "role": "protected class exempt from taxation"
+        },
+        {
+          "paragraph_id": "p-a29aa5",
+          "quote": "to one who calls himself a Brahmana, it is double; to a well-read student, a hundred thousand times; and to one who has mastered the Veda, it is endless.",
+          "role": "recipients of gifts whose learning multiplies merit"
+        },
+        {
+          "paragraph_id": "p-3739b4",
+          "quote": "an oblation offered in the mouth of a Brahmana is more excellent than one offered in the Agnihotra fire.",
+          "role": "sacred recipients superior even to sacrificial fire"
+        }
+      ],
+      "description": "The priestly varna that the king must serve and protect, exempt from taxation, whose mouths are sacred receivers of offerings, and whose sacred learning multiplies the merit of gifts.",
+      "justification": "Brahmanas are consistently positioned as the highest social and ritual authority, to whom the king owes deference and protection."
+    },
+    {
+      "canonical_name": "Shudras",
+      "surface_names": ["Shudras"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-b39cf3",
+          "quote": "The king should make artisans and craftsmen, and Shudras who live by their own labor, perform one day of work each month.",
+          "role": "laboring varna subject to royal labor corvée"
+        }
+      ],
+      "description": "The servant varna who, together with artisans and craftsmen, are required to perform one day of royal labor service per month.",
+      "justification": "Shudras are cited as a class subject to royal taxation in the form of labor, illustrating the economic regulation of the lowest varna."
+    },
+    {
+      "canonical_name": "Mlecchas",
+      "surface_names": ["Mlecchas"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-28f6fb",
+          "quote": "he should remove the idiotic, the mute, the blind, and the deaf, those of animal birth, the very old, women, Mlecchas, the sick, and the maimed.",
+          "role": "group excluded from royal counsel"
+        }
+      ],
+      "description": "Foreigners or barbarians considered outside the Vedic social order, explicitly excluded from the king's deliberative council.",
+      "justification": "Mlecchas are named as one of the groups to be excluded from royal counsel, indicating their outsider status in the Dharmic political order."
+    },
+    {
+      "canonical_name": "Maṇḍala",
+      "surface_names": ["maṇḍala", "circle of states"],
+      "kind": "idea",
+      "mentions": [
+        {
+          "paragraph_id": "p-88ad62",
+          "quote": "the attachment and disaffection of the people, and the conduct of the maṇḍala (the circle of states).",
+          "role": "geopolitical framework for inter-state relations"
+        },
+        {
+          "paragraph_id": "p-7a95d2",
+          "quote": "These constituents are the root of the maṇḍala, in summary; eight others are also declared, and they are remembered as twelve in all.",
+          "role": "system whose root constituents are enumerated"
+        }
+      ],
+      "description": "The classical Indian theory of the circle of states, a geopolitical framework for understanding relations among neighboring kingdoms.",
+      "justification": "The maṇḍala is explicitly named as the system within which kings relate to enemies, allies, and neutral parties, representing a technical political concept."
+    },
+    {
+      "canonical_name": "Sun",
+      "surface_names": ["Sun", "the sun"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-261c3f",
+          "quote": "Having drawn forth eternal particles from Indra, the Wind, Yama, the Sun",
+          "role": "divine source whose essence constitutes the king"
+        },
+        {
+          "paragraph_id": "p-9b45ce",
+          "quote": "And like the sun, he scorches both the eyes and the minds; and no one on earth is able to look upon him.",
+          "role": "solar simile for the king's blazing power"
+        },
+        {
+          "paragraph_id": "p-7ed7e7",
+          "quote": "Through his power, he is Agni and he is the Wind, he is the Sun",
+          "role": "solar deity the king embodies"
+        }
+      ],
+      "description": "Solar deity whose divine particles compose the king, whose blazing inapproachability is used as a simile for royal power.",
+      "justification": "The Sun appears as both a divine constituent of royal essence and a simile for the king's overwhelming splendor."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Divine origin and nature of kingship",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-261c3f",
+          "quote": "Having drawn forth eternal particles from Indra, the Wind, Yama, the Sun, from Agni and Varuna, and from the Moon and the Lord of Wealth (Kubera)."
+        },
+        {
+          "paragraph_id": "p-82334c",
+          "quote": "Because a king is created from the particles of these lords of the gods, he therefore surpasses all beings in splendor."
+        },
+        {
+          "paragraph_id": "p-1b8f43",
+          "quote": "A king, even if he is a child, must not be despised as a mere mortal; for this is a great deity that stands in human form."
+        }
+      ],
+      "justification": "The chapter's opening establishes that the king is ontologically divine, composed of particles of eight gods, making his authority sacred rather than merely political."
+    },
+    {
+      "topic": "Daṇḍa as cosmic principle of order and Dharma",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-73f910",
+          "quote": "the Lord in the beginning created Daṇḍa, his own son, as Dharma, the protector of all beings, formed of the spiritual luster of Brahma."
+        },
+        {
+          "paragraph_id": "p-48dedc",
+          "quote": "Daṇḍa rules all subjects, Daṇḍa alone protects them; Daṇḍa is awake when others sleep; the wise know Daṇḍa to be Dharma itself."
+        },
+        {
+          "paragraph_id": "p-32b6e6",
+          "quote": "The whole world is kept in order by Daṇḍa, for a pure man is hard to find; through fear of Daṇḍa, the whole world submits to its enjoyments."
+        }
+      ],
+      "justification": "Daṇḍa is not merely punishment but a cosmic divine principle identified with Dharma itself, the organizing force of all existence across chapters 07 and 08."
+    },
+    {
+      "topic": "Humility as the cardinal royal virtue",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-120cfa",
+          "quote": "Vena was ruined by lack of humility, and so was king Nahusha, and Sudas, the son of Pijavana, and Sumukha and Nimi."
+        },
+        {
+          "paragraph_id": "p-b0c4fe",
+          "quote": "Prithu gained his kingdom through humility, and so did Manu; and Kubera gained his wealth and sovereignty, and the son of Gadhi his Brahmanhood."
+        },
+        {
+          "paragraph_id": "p-9fc85d",
+          "quote": "From them he should learn humility, even if his soul is already humble; for a king whose soul is humble never perishes."
+        }
+      ],
+      "justification": "The text repeatedly uses historical and mythological examples to demonstrate that humility is the decisive factor in the rise and fall of kings."
+    },
+    {
+      "topic": "The king's vices and self-conquest",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-afbfa2",
+          "quote": "He should diligently avoid the ten vices born of desire and the eight born of anger, which are difficult to overcome."
+        },
+        {
+          "paragraph_id": "p-701061",
+          "quote": "Hunting, gambling, sleeping by day, slander, women, intoxication, the triad of song, dance, and music, and aimless wandering—this is the tenfold group born of desire."
+        },
+        {
+          "paragraph_id": "p-5c725c",
+          "quote": "That which all the poets know to be the root of both these groups, that greed he should conquer with effort"
+        }
+      ],
+      "justification": "The text provides a systematic catalog of eighteen royal vices (ten from desire, eight from anger) rooted in greed, framing self-conquest as a prerequisite for ruling others."
+    },
+    {
+      "topic": "Hierarchical administration of the kingdom",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-5698d0",
+          "quote": "He should appoint a lord of one village, and likewise a lord of ten villages, a lord of twenty, a lord of a hundred, and also a lord of a thousand."
+        },
+        {
+          "paragraph_id": "p-d3d2bf",
+          "quote": "The lord of a village should himself slowly report the crimes that have arisen in the village to the lord of ten villages"
+        },
+        {
+          "paragraph_id": "p-10a712",
+          "quote": "in each city, he should appoint one who thinks of all matters, of high station, of formidable appearance, like a planet among the constellations."
+        }
+      ],
+      "justification": "The text presents a detailed scalar administrative structure from village to city level, reflecting a theory of tiered governance where information flows upward and authority flows downward."
+    },
+    {
+      "topic": "Taxation principles and the king's share",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-2e30d5",
+          "quote": "A fiftieth part of cattle and gold may be taken by the king; and the eighth, sixth, or twelfth part of the grain."
+        },
+        {
+          "paragraph_id": "p-95d3d6",
+          "quote": "Just as the leech, the calf, and the bee eat their food little by little, so should the king take his annual tax from the kingdom little by little."
+        },
+        {
+          "paragraph_id": "p-cf2a7f",
+          "quote": "Even if he is dying, a king must not take a tax from a śrotriya (a Brahmana learned in the Veda)"
+        }
+      ],
+      "justification": "The text specifies precise taxation rates for different categories of property and income, with an overriding exemption for learned Brahmanas, reflecting a Dharmic political economy."
+    },
+    {
+      "topic": "Brahmana patronage as royal religious duty",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-cbe0d7",
+          "quote": "A king, having risen in the morning, should wait upon the Brahmanas who are aged and learned in the three Vedas, and he should abide by their instruction."
+        },
+        {
+          "paragraph_id": "p-4a60ec",
+          "quote": "Neither thieves nor enemies can take it, nor does it perish; therefore, an imperishable treasure must be deposited by a king with Brahmanas."
+        },
+        {
+          "paragraph_id": "p-3739b4",
+          "quote": "an oblation offered in the mouth of a Brahmana is more excellent than one offered in the Agnihotra fire."
+        }
+      ],
+      "justification": "The chapter presents Brahmana patronage as the king's most permanent and spiritually productive investment, framing gifts to Brahmanas as an imperishable treasure superior to ritual fire offerings."
+    },
+    {
+      "topic": "Warrior Dharma and conduct in battle",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-ae8ab4",
+          "quote": "While fighting in battle, he should not strike his enemies with concealed weapons, nor with barbed or poisoned weapons, nor with those whose points are blazing with fire."
+        },
+        {
+          "paragraph_id": "p-bc4d7b",
+          "quote": "he should not strike one who is on the ground, nor a eunuch, nor one with joined hands, nor one with loosened hair, nor one who is seated, nor one who says, 'I am yours.'"
+        },
+        {
+          "paragraph_id": "p-a02dbe",
+          "quote": "This has been declared as the eternal, unblemished Dharma of warriors; a Kshatriya, while slaying his enemies in battle, should not swerve from this Dharma."
+        }
+      ],
+      "justification": "The text specifies an elaborate code of honorable combat governing which weapons and which opponents are prohibited, constituting a distinct body of warrior ethics."
+    },
+    {
+      "topic": "Secrecy of royal counsel",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-b09124",
+          "quote": "Having ascended a mountain top, or having gone to a secluded palace, or in a forest devoid of noise, he should deliberate, unobserved."
+        },
+        {
+          "paragraph_id": "p-f873f5",
+          "quote": "That king whose counsel common people, coming together, do not know, he enjoys the whole earth, even if he is without a treasury."
+        },
+        {
+          "paragraph_id": "p-28f6fb",
+          "quote": "At the time of counsel, he should remove the idiotic, the mute, the blind, and the deaf, those of animal birth, the very old, women, Mlecchas, the sick, and the maimed."
+        }
+      ],
+      "justification": "The text presents secrecy of deliberation as a sovereign's most powerful strategic asset, more valuable than a treasury, and prescribes specific exclusions to protect counsel."
+    },
+    {
+      "topic": "Maṇḍala theory of inter-state geopolitics",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-5d8837",
+          "quote": "One should know the one immediately next to be an enemy, and also the one who serves the enemy; the one next to the enemy is an ally; and the one beyond both is a neutral king."
+        },
+        {
+          "paragraph_id": "p-7a95d2",
+          "quote": "These constituents are the root of the maṇḍala, in summary; eight others are also declared, and they are remembered as twelve in all."
+        },
+        {
+          "paragraph_id": "p-d81785",
+          "quote": "He should always reflect on the six political expedients: peace, war, marching, halting, dividing his forces, and seeking refuge."
+        }
+      ],
+      "justification": "The text introduces the classical maṇḍala geopolitical system with its categories of enemy, ally, and neutral king, and the six ṣāḍguṇya political expedients, representing systematic statecraft theory."
+    },
+    {
+      "topic": "The king as protector of varna and āśrama order",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-2264d1",
+          "quote": "The king was created as the protector of all the varnas and āśramas, in their order, who are established in their respective Dharmas."
+        },
+        {
+          "paragraph_id": "p-279acb",
+          "quote": "All the varnas would be corrupted, all barriers would be broken, and there would be an uprising of all the worlds from a confusion of Daṇḍa."
+        },
+        {
+          "paragraph_id": "p-2264d1",
+          "quote": "The king was created as the protector of all the varnas and āśramas"
+        }
+      ],
+      "justification": "The text frames kingship as fundamentally about maintaining the fourfold varna and āśrama social order, which would collapse without royal enforcement of Daṇḍa."
+    },
+    {
+      "topic": "Greed as root of political corruption and vice",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-5c725c",
+          "quote": "That which all the poets know to be the root of both these groups, that greed he should conquer with effort; from it are born both these groups."
+        },
+        {
+          "paragraph_id": "p-b642c0",
+          "quote": "He should not cut his own root, nor that of others, through excessive greed; for by cutting his own root, he torments himself and them."
+        },
+        {
+          "paragraph_id": "p-f64b5d",
+          "quote": "For the king's officers appointed for protection are for the most part deceitful men who take the property of others"
+        }
+      ],
+      "justification": "The text implicitly identifies greed as the underlying root of both personal vice and administrative corruption, requiring constant vigilance at both the individual king and bureaucratic levels."
+    }
+  ],
+  "citations": []
+}

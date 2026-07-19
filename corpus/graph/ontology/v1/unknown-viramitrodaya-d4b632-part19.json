@@ -1,0 +1,1063 @@
+{
+  "slug": "unknown-viramitrodaya-d4b632",
+  "window": "01:4242-4564",
+  "entities": [
+    {
+      "canonical_name": "Mitra Miśra",
+      "surface_names": ["Mitra Miśra", "the honorable Mitra Miśra"],
+      "kind": "figure",
+      "figure_kind": "scholar",
+      "mentions": [
+        {
+          "paragraph_id": "p-c59e1b",
+          "quote": "composed by the honorable Mitra Miśra—son of the honorable Paraśurāma Miśra",
+          "role": "author of the Vīramitrodaya"
+        }
+      ],
+      "description": "Author of the Vīramitrodaya, son of Paraśurāma Miśra and grandson of Haṃsa Paṇḍita, patronized by King Vīrasiṃhadeva.",
+      "justification": "Named explicitly in the colophon as composer of the Samayaprakāśa section of the Vīramitrodaya."
+    },
+    {
+      "canonical_name": "Vīrasiṃhadeva",
+      "surface_names": ["Vīrasiṃhadeva", "the glorious King Vīrasiṃhadeva"],
+      "kind": "figure",
+      "figure_kind": "king",
+      "mentions": [
+        {
+          "paragraph_id": "p-c59e1b",
+          "quote": "prompted by the glorious King Vīrasiṃhadeva, who was the sun causing the lotus of the earth encircled by the four oceans to bloom",
+          "role": "royal patron of the work"
+        }
+      ],
+      "description": "King who commissioned the Vīramitrodaya from Mitra Miśra; son of Mahārāja Madhukarasāha, praised with extensive royal epithets.",
+      "justification": "Identified as the patron who prompted the composition, named in the closing colophon of the Samayaprakāśa."
+    },
+    {
+      "canonical_name": "Viṣṇu",
+      "surface_names": ["Viṣṇu", "Madhusūdana", "Keśava", "Govinda", "the Lord of the world"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-eb7d20",
+          "quote": "having worshipped Madhusūdana, preceded by a resolve",
+          "role": "object of worship"
+        },
+        {
+          "paragraph_id": "p-f4bf5c",
+          "quote": "When Viṣṇu is asleep, all auspicious rites, etc., cease.",
+          "role": "cosmic regulator of ritual time"
+        },
+        {
+          "paragraph_id": "p-944680",
+          "quote": "Having worshipped Govinda on it, the lord of the lords of the worlds",
+          "role": "deity worshipped on meritorious tithis"
+        },
+        {
+          "paragraph_id": "p-91edc4",
+          "quote": "Having reached the tāmasic yuga, Keśava becomes dark.",
+          "role": "deity affected by the Kali Yuga"
+        }
+      ],
+      "description": "Supreme Vaiṣṇava deity appearing as Madhusūdana, Keśava, and Govinda; his sleep (cāturmāsya) suspends auspicious rites and his worship is enjoined on special tithis.",
+      "justification": "Repeatedly invoked across the window as the deity of Vaiśākha and Kārttika baths, regulator of sacred times, and subject of Vaiṣṇava theology of yugas."
+    },
+    {
+      "canonical_name": "Śiva",
+      "surface_names": ["Śiva", "Śaṅkara", "Mahādeva", "Sthāṇu"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-f42232",
+          "quote": "one should worship the goddess, accompanied by Śaṅkara",
+          "role": "deity worshipped on Tṛtīyā"
+        },
+        {
+          "paragraph_id": "p-f7b394",
+          "quote": "Sthāṇu, being worshipped, would certainly give the city of Śiva",
+          "role": "deity worshipped on dark Caturdaśī in Kārttika"
+        },
+        {
+          "paragraph_id": "p-787cc2",
+          "quote": "In the Dvāpara, study; in Tiṣya, the praise of Mahādeva.",
+          "role": "deity praised in Kali Yuga"
+        },
+        {
+          "paragraph_id": "p-3928c2",
+          "quote": "In Kali, the praise of Śaṅkara.",
+          "role": "deity whose praise is the Kali-age dharma"
+        }
+      ],
+      "description": "Śaiva deity worshipped under names Śaṅkara, Mahādeva, and Sthāṇu; his praise is identified as the chief religious practice of the Kali Yuga in Śaiva sources.",
+      "justification": "Named in multiple quotes prescribing worship on specific tithis and as the object of Kali-age religious practice according to the Śivapurāṇa."
+    },
+    {
+      "canonical_name": "Yama",
+      "surface_names": ["Yama", "the son of the sun", "son of the sun"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-7d4c43",
+          "quote": "whence for him is the fear of the son of the sun?",
+          "role": "deity whose fear is averted by the Kārttika bath"
+        },
+        {
+          "paragraph_id": "p-d8a919",
+          "quote": "having worshipped the god Yama, one is freed from all sins",
+          "role": "deity worshipped on Caturthī with Bharaṇī and Saturday"
+        },
+        {
+          "paragraph_id": "p-4c235f",
+          "quote": "Whose deity is Yama = Bharaṇī. Because its deity is cruel, it is Raudra.",
+          "role": "presiding deity of the Bharaṇī nakṣatra"
+        }
+      ],
+      "description": "God of death and dharmic judgment, presiding deity of the Bharaṇī nakṣatra; his worship on Caturthī with Bharaṇī–Saturday conjunction frees one from all sins.",
+      "justification": "Directly named as the deity worshipped on Bharaṇī–Saturday–Caturthī conjunctions and as the fearsome lord whose reach is averted by Kārttika bathing."
+    },
+    {
+      "canonical_name": "Lakṣmī",
+      "surface_names": ["Lakṣmī", "Śrī", "Alakṣmī"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-a9ea30",
+          "quote": "Śrī, from the world of Viṣṇu, attained the human state by the command of Keśava. Therefore, he who worships her there, Lakṣmī does not abandon him.",
+          "role": "goddess worshipped on bright Pañcamī of Caitra"
+        },
+        {
+          "paragraph_id": "p-e29346",
+          "quote": "Alakṣmī has always made her abode. In the female organ, in meat, in a razor, and in oil, she always stands on festival days.",
+          "role": "inauspicious form inhabiting forbidden substances on festival days"
+        }
+      ],
+      "description": "Goddess of fortune worshipped on Caitra Pañcamī; her inauspicious counterpart Alakṣmī inhabits meat, razor, oil, and sexual intercourse on parvan days.",
+      "justification": "Named in the Bhaviṣya Purāṇa quote explaining the origin of Caitra Pañcamī worship and in Hārīta's verse on the hazards of parvan violations."
+    },
+    {
+      "canonical_name": "Rāhu",
+      "surface_names": ["Rāhu"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-903775",
+          "quote": "At the sight of Rāhu, a solar ingress, a marriage, an emergency, and a vṛddhi rite, one should perform bathing, giving, etc., at night",
+          "role": "celestial event that permits nocturnal ritual"
+        }
+      ],
+      "description": "Shadowing celestial body whose visible presence (eclipse moment) is among the exceptional circumstances permitting nocturnal ritual acts.",
+      "justification": "Explicitly cited by Devala as one of five occasions that override the general prohibition on nocturnal giving and bathing."
+    },
+    {
+      "canonical_name": "Hanūmān",
+      "surface_names": ["Hanūmān"],
+      "kind": "figure",
+      "figure_kind": "figure",
+      "mentions": [
+        {
+          "paragraph_id": "p-e8e447",
+          "quote": "in the Āraṇyaka Parvan, in the sight of Hanūmān, having cited the dharmas of Kṛta, etc.",
+          "role": "witness to the discourse on dharmas of the yugas in the Mahābhārata"
+        }
+      ],
+      "description": "Divine monkey hero of the Rāmāyaṇa referenced as the witness figure before whom the Kali-yuga dharmas are enumerated in the Āraṇyaka Parvan of the Mahābhārata.",
+      "justification": "Named as the audience in the Mahābhārata passage on yuga-dharmas, grounding the citation context."
+    },
+    {
+      "canonical_name": "Gāṅgeya",
+      "surface_names": ["Gāṅgeya"],
+      "kind": "figure",
+      "figure_kind": "figure",
+      "mentions": [
+        {
+          "paragraph_id": "p-be315e",
+          "quote": "he who on it sees Gāṅgeya, who dwells in the southern path, is freed from sins such as the murder of a Brahmin",
+          "role": "divine figure whose sight on Ṣaṣṭhī of Bhādrapada frees from sin"
+        }
+      ],
+      "description": "Deity 'born of the Gaṅgā' (Kārttika/Skanda or Bhīṣma), whose vision on Bhādrapada Ṣaṣṭhī is said to purify even brahminicide.",
+      "justification": "Quoted from the Bhaviṣya Purāṇa as a specific sacred vision prescribed on the Bhādrapada Ṣaṣṭhī tithi."
+    },
+    {
+      "canonical_name": "Savitṛ",
+      "surface_names": ["Savitṛ", "Sāvitra"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-b3eebd",
+          "quote": "Sāvitra oblations are those whose deity is Savitṛ.",
+          "role": "deity of the Sāvitra oblation performed on festival days"
+        },
+        {
+          "paragraph_id": "p-45a0c2",
+          "quote": "One who desires peace should offer an oblation, being pure, with the Gāyatrī and with unbroken rice grains.",
+          "role": "deity propitiated through Gāyatrī-mantra oblation"
+        }
+      ],
+      "description": "Solar deity whose name designates the Sāvitra oblation enjoined on all parvan days according to Manu; propitiated with Gāyatrī and unbroken rice.",
+      "justification": "Defined by the text itself as the deity of the Sāvitra oblation Manu enjoins on festival days, with the substance specified as unbroken rice grains."
+    },
+    {
+      "canonical_name": "Kṛta Yuga",
+      "surface_names": ["Kṛta Yuga", "Kṛta"],
+      "kind": "event",
+      "mentions": [
+        {
+          "paragraph_id": "p-386e30",
+          "quote": "Free from disease, with all their aims accomplished, and with a life of four hundred years, in Kṛta",
+          "role": "primordial golden age with full lifespan and no disease"
+        },
+        {
+          "paragraph_id": "p-928346",
+          "quote": "Austerity (tapas) is supreme in the Kṛta Yuga",
+          "role": "age when austerity is the primary dharma"
+        }
+      ],
+      "description": "First and most virtuous of the four world-ages, characterized by perfect lifespan of 400 years, absence of disease, and austerity as the supreme dharmic practice.",
+      "justification": "Cited across multiple smṛti quotations as the baseline of ideal cosmic conditions against which subsequent ages decline."
+    },
+    {
+      "canonical_name": "Kali Yuga",
+      "surface_names": ["Kali Yuga", "Kali", "Tiṣya", "tāmasic yuga"],
+      "kind": "event",
+      "mentions": [
+        {
+          "paragraph_id": "p-91edc4",
+          "quote": "By one quarter, O son of Kuntī, dharma stands in the Kali Yuga. Having reached the tāmasic yuga, Keśava becomes dark.",
+          "role": "degenerate age with only a quarter of dharma remaining"
+        },
+        {
+          "paragraph_id": "p-928346",
+          "quote": "in the Kali Yuga, only charity",
+          "role": "age when charity is the only recommended dharma"
+        },
+        {
+          "paragraph_id": "p-2c4d9a",
+          "quote": "Dharma is conquered by adharma, and truth by falsehood. And kings are conquered by spies, and men by women, in Kali.",
+          "role": "age of dharmic inversion"
+        }
+      ],
+      "description": "The current degenerate cosmic age in which only a quarter of dharma survives, charity is the primary virtue, and adharma, falsehood, and moral inversions dominate.",
+      "justification": "Quoted extensively from Mahābhārata, Manu, and Parāśara as the present age defining contemporary religious practice and its limitations."
+    },
+    {
+      "canonical_name": "Gaṅgā",
+      "surface_names": ["Gaṅgā", "Jāhnavī", "Bhāgīrathī"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-a7f322",
+          "quote": "by merely bathing in the Jāhnavī, one obtains the fruit of a thousand cows",
+          "role": "sacred river for meritorious bathing on Amāvāsyā–Tuesday"
+        },
+        {
+          "paragraph_id": "p-284474",
+          "quote": "at Harikṣetra, in the Gaṅgā, at the ocean, and in Naimiṣa likewise",
+          "role": "pilgrimage site where great-tithi acts are infinitely meritorious"
+        },
+        {
+          "paragraph_id": "p-d9a712",
+          "quote": "as far as the south of the Bhāgīrathī, that fault exists even when the sun is in Aries",
+          "role": "geographic marker for regional ritual rules about Siṃhastha"
+        }
+      ],
+      "description": "Sacred river of northern India, referred to as Jāhnavī and Bhāgīrathī, whose bathing yields exceptional merit; also a geographic boundary for regional ritual variations.",
+      "justification": "Named in multiple passages as the premier pilgrimage river for Amāvāsyā bathing and as a boundary for the regional application of Jupiter-in-Leo marriage prohibitions."
+    },
+    {
+      "canonical_name": "Naimiṣa",
+      "surface_names": ["Naimiṣa"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-284474",
+          "quote": "at Harikṣetra, in the Gaṅgā, at the ocean, and in Naimiṣa likewise, on a tithi with the word 'great', bathing, giving, and a śrāddha are infinite",
+          "role": "sacred forest-place where great-tithi merit becomes infinite"
+        }
+      ],
+      "description": "Famous sacred forest (Naimiṣāraṇya) listed alongside Harikṣetra, the Gaṅgā, and the ocean as a site of infinite merit on great tithis.",
+      "justification": "Quoted from the Jyotiṣa-style verse as one of four premier tīrthas where Mahā-tithi observances yield infinite fruit."
+    },
+    {
+      "canonical_name": "Godāvarī",
+      "surface_names": ["Godāvarī"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-d9a712",
+          "quote": "When Jupiter is in Leo or in a Leo navāṃśa, marriage is not desired north of the Godāvarī.",
+          "role": "geographic boundary for the Siṃhastha marriage prohibition"
+        }
+      ],
+      "description": "River forming the northern boundary of South India; north of this river marriage is prohibited when Jupiter is in Leo or a Leo navāṃśa.",
+      "justification": "Quoted from the Jyotiḥśāstra as the regional boundary for the Siṃhastha marriage prohibition, distinguishing northern and southern customs."
+    },
+    {
+      "canonical_name": "Narmadā",
+      "surface_names": ["Narmadā"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-625cd8",
+          "quote": "And this is in the region north of the Narmadā, not in the south.",
+          "role": "geographic boundary for the Jupiter-in-Leo ritual rule"
+        }
+      ],
+      "description": "River dividing northern and southern India; the rule about performing rites when Jupiter is in Leo applies only north of this river.",
+      "justification": "The text explicitly states that Māṇḍavya's rule about rites when Jupiter is in the house of the sun applies to the region north of the Narmadā."
+    },
+    {
+      "canonical_name": "Bindutīrtha",
+      "surface_names": ["Bindutīrtha"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-7d4c43",
+          "quote": "He who, in Kārttika, at the Bindutīrtha, devoted to celibacy, will bathe before the sun has risen, whence for him is the fear of the son of the sun?",
+          "role": "sacred ford for Kārttika pre-dawn bathing"
+        }
+      ],
+      "description": "Sacred bathing place (tīrtha) where pre-dawn bathing during the month of Kārttika, combined with celibacy, eliminates fear of Yama.",
+      "justification": "Named in a Skānda Purāṇa verse as the specific tīrtha for Kārttika pre-dawn bathing that averts Yama's fear."
+    },
+    {
+      "canonical_name": "Aśvattha",
+      "surface_names": ["Aśvattha"],
+      "kind": "object",
+      "mentions": [
+        {
+          "paragraph_id": "p-65e31c",
+          "quote": "The Aśvattha and the ocean should be served, but should never be touched. On the day of Koṇa, one should touch the former; on a festival day, one should touch the latter.",
+          "role": "sacred tree touchable only on Saturn's day"
+        }
+      ],
+      "description": "The sacred pipal tree (Ficus religiosa), normally only to be served but not touched, exceptionally touchable on Saturn's day (Koṇa).",
+      "justification": "Quoted from Hemādri's collection as an object with specific rules about contact, touchable only when the presiding planet is Saturn."
+    },
+    {
+      "canonical_name": "śrāddha",
+      "surface_names": ["śrāddha", "piṇḍa offering", "piṇḍa"],
+      "kind": "idea",
+      "mentions": [
+        {
+          "paragraph_id": "p-3c3d7c",
+          "quote": "Is this a simple prohibition (pratiṣedha) or a prohibitive exception (paryudāsa)?",
+          "role": "ritual context for the opening hermeneutic debate"
+        },
+        {
+          "paragraph_id": "p-ab0748",
+          "quote": "In verses such as 'In the two solstices, a śrāddha, and in the two equinoxes,' the offering of the piṇḍa is not excluded",
+          "role": "example of a non-piṇḍa śrāddha at solstices and equinoxes"
+        },
+        {
+          "paragraph_id": "p-77ea3c",
+          "quote": "Thus ends the prohibited times for the offering of the piṇḍa.",
+          "role": "concluding marker of the piṇḍa-prohibition section"
+        }
+      ],
+      "description": "Ancestral rites involving rice-ball (piṇḍa) offerings; the window opens with a hermeneutic debate about whether the prohibition of piṇḍa in certain śrāddhas is a simple pratiṣedha or paryudāsa.",
+      "justification": "The first dozen paragraphs are entirely devoted to a Mīmāṃsā analysis of the piṇḍa prohibition in specific śrāddha contexts."
+    },
+    {
+      "canonical_name": "yuga",
+      "surface_names": ["yuga", "Kṛta", "Tretā", "Dvāpara", "Kali", "Tiṣya"],
+      "kind": "idea",
+      "mentions": [
+        {
+          "paragraph_id": "p-2df47b",
+          "quote": "Various dharmas arise for men in each yuga.",
+          "role": "core doctrine of age-specific dharma variation"
+        },
+        {
+          "paragraph_id": "p-c6cfed",
+          "quote": "Due to the nature of the yuga, for the twice-born whose powers of knowledge, action, and the senses are diminishing day by day",
+          "role": "explanation of apparent scriptural difference as epistemic decline"
+        }
+      ],
+      "description": "Cosmological doctrine of four world-ages (Kṛta, Tretā, Dvāpara, Kali) with progressively declining dharma, human capacity, and lifespan; the primary framework for the closing section of this window.",
+      "justification": "The final third of the window (from p-a31752 onward) is explicitly headed 'Dharmas of the Yugas' and expounds this doctrine through multiple smṛti quotations."
+    },
+    {
+      "canonical_name": "parvan",
+      "surface_names": ["parvan", "festival day", "Aṣṭamī", "Caturdaśī", "Amāvāsyā", "Pūrṇimā"],
+      "kind": "idea",
+      "mentions": [
+        {
+          "paragraph_id": "p-7c66d5",
+          "quote": "Caturdaśī, Aṣṭamī, and Amāvāsyā, and Pūrṇimā, these are festival days, O lord of kings, and a solar ingress as well.",
+          "role": "definition of parvan days from Viṣṇu Purāṇa"
+        },
+        {
+          "paragraph_id": "p-aab1cb",
+          "quote": "On festival days, one should not eat, nor should one eat meat; for on festival days, the Rakṣas, Piśācas, and those who are unchaste are...",
+          "role": "prohibition on eating on parvan days"
+        }
+      ],
+      "description": "Ritual category of 'festival days' (Aṣṭamī, Caturdaśī, Amāvāsyā, Pūrṇimā, and solar ingresses) on which oil, meat, women, and shaving are prohibited and oblations are enjoined.",
+      "justification": "Defined in Viṣṇu Purāṇa verse and extensively discussed through Manu, Baudhāyana, and Hārīta quotations as the framework for a major set of prohibitions."
+    },
+    {
+      "canonical_name": "pratiṣedha and paryudāsa",
+      "surface_names": ["pratiṣedha", "paryudāsa", "simple prohibition", "prohibitive exception"],
+      "kind": "idea",
+      "mentions": [
+        {
+          "paragraph_id": "p-3c3d7c",
+          "quote": "Is this a simple prohibition (pratiṣedha) or a prohibitive exception (paryudāsa)?",
+          "role": "Mīmāṃsā hermeneutic question opening the window"
+        },
+        {
+          "paragraph_id": "p-255e02",
+          "quote": "the cessation of the offering of the piṇḍa is indeed proper",
+          "role": "resolution: the prohibition is a valid paryudāsa in specific syntactic contexts"
+        }
+      ],
+      "description": "Mīmāṃsā hermeneutic distinction between a flat prohibition (pratiṣedha) and a contextual prohibitive exception (paryudāsa); the window opens by working through this distinction as applied to the piṇḍa-offering rule.",
+      "justification": "The opening twelve paragraphs are entirely devoted to adjudicating between these two hermeneutic categories in the context of śrāddha rules."
+    },
+    {
+      "canonical_name": "nakṣatra",
+      "surface_names": ["nakṣatra", "Śravaṇa", "Puṣya", "Rohiṇī", "Hasta", "Bharaṇī", "Revatī", "Kṛttikā", "Mṛgaśiras", "Mūla", "Māghā", "Svāti", "Punarvasu", "Āśleṣā", "Citrā", "Viśākhā"],
+      "kind": "idea",
+      "mentions": [
+        {
+          "paragraph_id": "p-f77a1e",
+          "quote": "Rohiṇī, Āśleṣā, Hasta, Puṣya, and Maghā are famous in the science of astronomy as five-starred.",
+          "role": "astronomical classification of the five-starred nakṣatras"
+        },
+        {
+          "paragraph_id": "p-e96006",
+          "quote": "With bathing and giving, it has much fruit and bestows the world of the Nāgas.",
+          "role": "Śrāvaṇa-month Pañcamī reward for Nāgapañcamī observance"
+        }
+      ],
+      "description": "The 27/28 lunar mansions used to determine meritorious conjunctions with tithis and weekdays; many specific nakṣatras are cited as conferring special merit when combined with particular tithis.",
+      "justification": "A long central section of this window (from Tṛtīyā with Śravaṇa onward) systematically enumerates tithi–nakṣatra–weekday conjunctions and their meritorious effects."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Hermeneutics of ritual prohibition: pratiṣedha vs. paryudāsa",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-3c3d7c",
+          "quote": "Is this a simple prohibition (pratiṣedha) or a prohibitive exception (paryudāsa)?"
+        },
+        {
+          "paragraph_id": "p-d0a477",
+          "quote": "since the injunctions of each of those śrāddhas, which are enjoined by other smṛtis, are not in proximity, a paryudāsa is not possible"
+        },
+        {
+          "paragraph_id": "p-255e02",
+          "quote": "the cessation of the offering of the piṇḍa is indeed proper"
+        }
+      ],
+      "justification": "The window opens with a sustained Mīmāṃsā debate adjudicating the hermeneutic category applicable to the piṇḍa-prohibition, constituting the primary exegetical method of the Vīramitrodaya."
+    },
+    {
+      "topic": "Meritorious tithis, nakṣatras, and weekday conjunctions",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-4526ed",
+          "quote": "Now, the meritorious tithis based on the lunar mansion, day of the week, etc., are stated."
+        },
+        {
+          "paragraph_id": "p-cdd103",
+          "quote": "A complete bright Aṣṭamī conjoined with the son of the moon, those who perform a vow on it would not have their fortunes broken."
+        },
+        {
+          "paragraph_id": "p-b4ed91",
+          "quote": "If Amā is conjoined with Sunday, Vyatīpāta, and Śravaṇa, in Puṣya and Māgha, that should be known as Ardhodayā, equal to a crore of solar eclipses."
+        }
+      ],
+      "justification": "A large central section systematically catalogs conjunctions of tithis with nakṣatras, weekdays, and solar positions to determine exceptional meritorious moments for bathing, giving, and ancestor rites."
+    },
+    {
+      "topic": "Prohibited activities on specific tithis and times",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-8f8974",
+          "quote": "Now, the things to be avoided on specific tithis. There, when the sun is in Leo, on the bright Caturthī, one should not perform the seeing of the moon."
+        },
+        {
+          "paragraph_id": "p-a05367",
+          "quote": "On Saptamī, one should not touch oil, nor wear a blue garment."
+        },
+        {
+          "paragraph_id": "p-820cd7",
+          "quote": "Caturdaśī, Aṣṭamī, Darśa, Paurṇamāsī, and a solar ingress, on these, one should avoid women, oil, meat, and tooth-sticks."
+        }
+      ],
+      "justification": "A major section enumerates tithi-specific prohibitions on oil, meat, sexual intercourse, shaving, and specific foods, drawn from Manu, Vyāsa, Śaṅkha, and Hārīta."
+    },
+    {
+      "topic": "Decline of dharma across the four yugas",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-2df47b",
+          "quote": "The śruti, and purity, and conduct differ in each age. Various dharmas arise for men in each yuga."
+        },
+        {
+          "paragraph_id": "p-928346",
+          "quote": "Austerity (tapas) is supreme in the Kṛta Yuga; in the Tretā, knowledge is said. In the Dvāpara, they say only sacrifice; in the Kali Yuga, only charity."
+        },
+        {
+          "paragraph_id": "p-f0e8da",
+          "quote": "In Kṛta, the dharmas are of Manu; in Tretā, those of Gautama are held. In Dvāpara, those of Śaṅkha and Likhita; in Kali, those of Parāśara are remembered."
+        }
+      ],
+      "justification": "The final section (from p-a31752) opens a new thematic unit explicitly titled 'Dharmas of the Yugas', citing Pauṭhīnasi, Manu, Mahābhārata, Bṛhaspati, Śivapurāṇa, and Parāśara on the decline of dharmic capacity and appropriate practice across cosmic ages."
+    },
+    {
+      "topic": "Ritual times for sacred bathing in specific months",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-eb7d20",
+          "quote": "Having fasted on the Ekādaśī of the bright fortnight of the month of Madhu, or on the fifteenth, O hero, or at the ingress into Aries, one should undertake the vow of the Vaiśākha bath",
+          "paragraph_id": "p-eb7d20"
+        },
+        {
+          "paragraph_id": "p-b88e1f",
+          "quote": "Having begun on the bright Ekādaśī of Āśvina, a man should perform the morning bath.",
+          "paragraph_id": "p-b88e1f"
+        },
+        {
+          "paragraph_id": "p-d2569f",
+          "quote": "In Māgha also, Viṣṇu says: When the sun is in Libra, Capricorn, and Aries, a man should be a morning bather.",
+          "paragraph_id": "p-d2569f"
+        }
+      ],
+      "justification": "The section on 'Miscellaneous Times' catalogs proper start-times, durations, and conditions for the Vaiśākha, Kārttika, and Māgha sacred bath vows from the Padma, Āditya, and Viṣṇurahasya Purāṇas."
+    },
+    {
+      "topic": "Authority of smṛti and scriptural interpretation in the Kali Yuga",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-c6cfed",
+          "quote": "Due to the nature of the yuga, for the twice-born whose powers of knowledge, action, and the senses are diminishing day by day, because some subordinate elements of the rites of the Agnihotra, etc., are omitted due to carelessness, laziness, etc.",
+          "paragraph_id": "p-c6cfed"
+        },
+        {
+          "paragraph_id": "p-b9f1a0",
+          "quote": "the scriptures of śruti and smṛti, which are the objects of injunctions and prohibitions, would be rendered without authority. If this is so, no.",
+          "paragraph_id": "p-b9f1a0"
+        },
+        {
+          "paragraph_id": "p-0eeba1",
+          "quote": "their censure should not be made, for those twice-born are the very forms of the yuga.",
+          "paragraph_id": "p-0eeba1"
+        }
+      ],
+      "justification": "The window's closing paragraphs implicitly engage the question of whether accepting yuga-relative dharmas undermines śruti/smṛti authority, resolved by Mitra Miśra's argument that the difference is epistemic (declining human capacity) not ontological (different scriptures), preserving smṛti authority."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Padma Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-eb7d20",
+      "quote": "Having fasted on the Ekādaśī of the bright fortnight of the month of Madhu, or on the fifteenth, O hero, or at the ingress into Aries, one should undertake the vow of the Vaiśākha bath with the permission of the Brahmins, having worshipped Madhusūdana, preceded by a resolve. This is from the Padma Purāṇa.",
+      "justification": "Quoted as the scriptural authority for the proper commencement of the Vaiśākha bath vow."
+    },
+    {
+      "cited_work": "Viṣṇurahasya",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-b88e1f",
+      "quote": "Having begun on the bright Ekādaśī of Āśvina, a man should perform the morning bath. This is in the Viṣṇurahasya.",
+      "justification": "Cited as the source prescribing the start of the Kārttika bath vow."
+    },
+    {
+      "cited_work": "Āditya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-fa1adb",
+      "quote": "On the full moon day in the full month of Āśvayuj, being restrained, one should bathe for the entire month of Kārttika with supreme devotion. This is in the Āditya Purāṇa.",
+      "justification": "Cited as a supplementary authority for the Kārttika bath observance starting from Āśvina Pūrṇimā."
+    },
+    {
+      "cited_work": "Skānda Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-7d4c43",
+      "quote": "He who, in Kārttika, at the Bindutīrtha, devoted to celibacy, will bathe before the sun has risen, whence for him is the fear of the son of the sun? This is from the statement of the Skānda.",
+      "justification": "Cited for the specific pre-dawn Kārttika bathing rule at Bindutīrtha."
+    },
+    {
+      "cited_work": "Brāhma Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-7bf551",
+      "quote": "In the Brāhma: On the Ekādaśī of the bright fortnight in the month of Pauṣa, one should begin. The completion is on the Dvādaśī or Paurṇamāsī of the bright fortnight.",
+      "justification": "Cited as the Purāṇic authority for the Pauṣa sacred bath commencement and completion dates."
+    },
+    {
+      "cited_work": "Padma Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-41d0ba",
+      "quote": "Because it is stated in the Padma, 'when the sun has risen a little.'",
+      "justification": "Cited to specify the timing of the Māgha bath as after sunrise."
+    },
+    {
+      "cited_work": "Padma Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-ef8f8d",
+      "quote": "Therein, Pratipad, in the Padma: In the month of Caitra, O mighty-armed one, Pratipad was meritorious in the past.",
+      "justification": "Cited for the meritoriousness of Caitra Pratipad for bathing and removal of sin."
+    },
+    {
+      "cited_work": "Skanda Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-ac7557",
+      "quote": "In the Skanda Purāṇa: In the month of Āśvina, the Dvitīyā of the bright fortnight is meritorious. A gift given on it is said to have infinite fruit.",
+      "justification": "Cited for the meritoriousness of Āśvina bright Dvitīyā."
+    },
+    {
+      "cited_work": "Liṅga Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-b37991",
+      "quote": "In the Liṅga Purāṇa: And on the bright Dvitīyā in Scorpio, the worship.",
+      "justification": "Cited for the worship prescribed on bright Dvitīyā when the sun is in Scorpio."
+    },
+    {
+      "cited_work": "Padma Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-f42232",
+      "quote": "Now, Tṛtīyā. Having begun with the month of Caitra, in the Padma Purāṇa: On Tṛtīyā, one should worship the goddess, accompanied by Śaṅkara.",
+      "justification": "Cited as the authority for worship of the goddess (Pārvatī) with Śiva on Tṛtīyā."
+    },
+    {
+      "cited_work": "Bhaviṣyottara",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-008030",
+      "quote": "In the Bhaviṣyottara: And cakes of molasses should be given in the month of Bhādrapada likewise. On Tṛtīyā, and rice pudding, for the satisfaction of Vāmadeva.",
+      "justification": "Cited for specific food gifts on Bhādrapada Tṛtīyā."
+    },
+    {
+      "cited_work": "Bhaviṣya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-6fbf6c",
+      "quote": "Now, Caturthī. In the Bhaviṣya Purāṇa: Śivā, Śāntā, Sukhā, O king, Caturthī is considered threefold.",
+      "justification": "Cited as the authority for the threefold classification of Caturthī tithis by quality."
+    },
+    {
+      "cited_work": "Bhaviṣya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-a9ea30",
+      "quote": "In the Bhaviṣya Purāṇa: Then on the bright Pañcamī, in the month of Caitra, O beautiful-faced one, Śrī, from the world of Viṣṇu, attained the human state by the command of Keśava.",
+      "justification": "Cited for the mythological origin and significance of Caitra bright Pañcamī."
+    },
+    {
+      "cited_work": "Skanda Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-e96006",
+      "quote": "In the Skanda Purāṇa: The bright Pañcamī in Mārgaśira is meritorious, and the one which is in Śrāvaṇa. With bathing and giving, it has much fruit and bestows the world of the Nāgas.",
+      "justification": "Cited for the Nāgapañcamī observance and its fruit."
+    },
+    {
+      "cited_work": "Bhaviṣya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-b7edaa",
+      "quote": "Now, Ṣaṣṭhī. In the Bhaviṣya Purāṇa: This Ṣaṣṭhī which is in the month of Bhādrapada, O bull among the Bharatas, all bathing, giving, etc., on it is said to be imperishable.",
+      "justification": "Cited for Bhādrapada Ṣaṣṭhī meritoriousness."
+    },
+    {
+      "cited_work": "Bhaviṣya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-391f51",
+      "quote": "Now, Saptamī. In the Bhaviṣya Purāṇa: The bright Saptamī which is in the month of Bhādrapada, O lord of the Gaṇas, is proclaimed as Aparājitā, the destroyer of great sins.",
+      "justification": "Cited for the Aparājitā Saptamī observance."
+    },
+    {
+      "cited_work": "Devī Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-26b5ab",
+      "quote": "Now, Navamī. In the Devī Purāṇa: The Navamī of the bright fortnight of the month of Āśvina, a gift on it becomes a hundred million times the merit.",
+      "justification": "Cited for the exceptional gift-merit of Āśvina bright Navamī."
+    },
+    {
+      "cited_work": "Brahmāṇḍa Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-e9bcd8",
+      "quote": "In the Brahmāṇḍa Purāṇa: The Daśamī of the bright fortnight of the month of Kārttika, one who performs a vow, etc., on it obtains the desired fruit.",
+      "justification": "Cited for Kārttika bright Daśamī observances."
+    },
+    {
+      "cited_work": "Vārāha Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-e2b673",
+      "quote": "In the Vārāha Purāṇa: One should fast on Ekādaśī in both fortnights. He who worships Viṣṇu on Dvādaśī becomes a partaker of infinite fruit.",
+      "justification": "Cited as the authority for the universal Ekādaśī fast and Dvādaśī Viṣṇu worship."
+    },
+    {
+      "cited_work": "Viṣṇudharmottara",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-d0b7ae",
+      "quote": "Now, Paurṇamāsī. In the Viṣṇudharmottara: The Paurṇamāsīs of Vaiśākha, Kārttika, and Māgha are of great fruit.",
+      "justification": "Cited for the three great full-moon observances."
+    },
+    {
+      "cited_work": "Bhaviṣyottara",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-e1126b",
+      "quote": "In the Bhaviṣyottara, having begun with the bright Tṛtīyā of Māgha: By its conjunction with Śravaṇa, it is remembered as equal to Kurukṣetra.",
+      "justification": "Cited for the Māgha Tṛtīyā–Śravaṇa conjunction being equal to Kurukṣetra pilgrimage."
+    },
+    {
+      "cited_work": "Bhaviṣya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-04a730",
+      "quote": "In the Bhaviṣya Purāṇa: If on the Saptamī of the bright fortnight, there is a Sunday, that Saptamī is named Vijayā; what is given there has great fruit.",
+      "justification": "Cited for the Vijayā Saptamī (Sunday–bright Saptamī) conjunction."
+    },
+    {
+      "cited_work": "Āditya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-6bb559",
+      "quote": "In the Āditya Purāṇa: A Saptamī conjoined with Revatī and the sun would be of great fruit.",
+      "justification": "Cited for the Saptamī–Revatī–Sunday conjunction."
+    },
+    {
+      "cited_work": "Mahābhārata",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-cdd103",
+      "quote": "In the Mahābhārata: A complete bright Aṣṭamī conjoined with the son of the moon, those who perform a vow on it would not have their fortunes broken.",
+      "justification": "Cited for the bright Aṣṭamī–Mercury conjunction vow."
+    },
+    {
+      "cited_work": "Bhaviṣya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-b10daa",
+      "quote": "In the Bhaviṣya Purāṇa: The bright Budhāṣṭamī in Pauṣa is Mahābhadrā, of great fruit.",
+      "justification": "Cited for the Pauṣa Budhāṣṭamī."
+    },
+    {
+      "cited_work": "Brahmāṇḍa Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-3516e8",
+      "quote": "In the Brahmāṇḍa Purāṇa: When in the month of Pauṣa, O goddess, on the Aṣṭamī, the nakṣatra whose deity is Yama arises, which is called Raudra in the world, that is meritorious.",
+      "justification": "Cited for the Pauṣa Aṣṭamī–Bharaṇī conjunction as Jayantī."
+    },
+    {
+      "cited_work": "Devī Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-54fe6c",
+      "quote": "In the Devī Purāṇa: A bright Ekādaśī with the Puṣya nakṣatra is very meritorious, a destroyer of sin.",
+      "justification": "Cited for the Ekādaśī–Puṣya conjunction."
+    },
+    {
+      "cited_work": "Viṣṇudharmottara",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-944680",
+      "quote": "In the Viṣṇudharmottara: When on the Ekādaśī of the bright fortnight, there is the Punarvasu nakṣatra, by name that is proclaimed as Vijayā, the best tithi of tithis.",
+      "justification": "Cited for the Vijayā Ekādaśī (Punarvasu conjunction) and its seven-birth purification."
+    },
+    {
+      "cited_work": "Viṣṇudharmottara",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-dcf32c",
+      "quote": "In the Viṣṇudharmottara: In Caitra, a Dvādaśī conjoined with the Bhāgya nakṣatra would be of great fruit.",
+      "justification": "Cited for the month-by-month Dvādaśī–nakṣatra conjunction table."
+    },
+    {
+      "cited_work": "Varāha Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-d71f3d",
+      "quote": "In the Varāha Purāṇa: If on the dark Caturdaśī of Caitra, there is the day of Mars, one would not be a ghost again, by bathing and eating in the Gaṅgā.",
+      "justification": "Cited for the Caitra dark Caturdaśī–Tuesday liberation from ghost-existence."
+    },
+    {
+      "cited_work": "Liṅga Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-f7b394",
+      "quote": "In the Liṅga Purāṇa: In Kārttika, with a Tuesday, the dark Caturdaśī of Citrā, on it, Sthāṇu, being worshipped, would certainly give the city of Śiva.",
+      "justification": "Cited for Kārttika dark Caturdaśī–Tuesday worship of Śiva."
+    },
+    {
+      "cited_work": "Viṣṇudharmottara",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-cc8779",
+      "quote": "In the Viṣṇudharmottara: On all Paurṇamāsīs, and on those accompanied by the Maghā nakṣatra, the fruit of gifts given here is remembered as tenfold.",
+      "justification": "Cited for the Mahatī full moon definition and its tenfold gift-merit."
+    },
+    {
+      "cited_work": "Vāyu Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-a51baf",
+      "quote": "In the Vāyu Purāṇa: And when the Āgneya ṛkṣa is on Kārttikī sometimes, that tithi should be known as Mahatī, excellent in bathing, giving, etc.",
+      "justification": "Cited for three special Mahākārttikī nakṣatra conjunctions."
+    },
+    {
+      "cited_work": "Brahma Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-673eec",
+      "quote": "In the Brahma Purāṇa: Mahākārttikī would be meritorious on a Thursday, with the moon in Kṛttikā. With the moon on a Thursday in Maghā and Svāti, it is called Mahāmāghī.",
+      "justification": "Cited for Mahākārttikī and Mahāmāghī definitions."
+    },
+    {
+      "cited_work": "Mahābhārata",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-2ccfb7",
+      "quote": "In the Mahābhārata: Amā with the moon, with Mars, with Jupiter, and with the sun likewise, that sacred ford is named Puṣkara, more than a hundred solar eclipses.",
+      "justification": "Cited for the Amāvāsyā planetary conjunctions equal to Puṣkara pilgrimage."
+    },
+    {
+      "cited_work": "Viṣṇu Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-06bd1c",
+      "quote": "In the Viṣṇu Purāṇa: When Amāvāsyā is conjoined with the Maitra and Viśākhā ṛkṣas, then the host of ancestors obtains satisfaction for eight years in a śrāddha.",
+      "justification": "Cited for Amāvāsyā–Anurādhā/Viśākhā conjunction for ancestral satisfaction."
+    },
+    {
+      "cited_work": "Mahābhārata",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-b4ed91",
+      "quote": "The Ardhodayā is stated in the Mahābhārata: If Amā is conjoined with Sunday, Vyatīpāta, and Śravaṇa, in Puṣya and Māgha, that should be known as Ardhodayā, equal to a crore of solar eclipses.",
+      "justification": "Cited as the Mahābhārata's definition of Ardhodayā, a supremely meritorious conjunction."
+    },
+    {
+      "cited_work": "Varāha Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-54ec24",
+      "quote": "The Kapilaṣaṣṭhī is in the Varāha Purāṇa: The Ṣaṣṭhī which is in the dark fortnight of Nabhasya, with Rohiṇī, Vyatīpāta, and the son of the earth",
+      "justification": "Cited for the Kapilaṣaṣṭhī conjunction definition and its solar-worship prescription."
+    },
+    {
+      "cited_work": "Purāṇasamuccaya",
+      "cited_author": null,
+      "stance": "extend",
+      "paragraph_id": "p-3cb4ac",
+      "quote": "In the Purāṇasamuccaya, however: In the dark fortnight of the month of Bhādra, and when the sun is in Hasta, with Vyatīpāta, Mars, and Rohiṇī, that Ṣaṣṭhī is named Kapila.",
+      "justification": "Cited as an alternative Purāṇic definition of Kapilaṣaṣṭhī that specifies Bhādrapada rather than Nabhasya, adding the condition of the sun being in Hasta."
+    },
+    {
+      "cited_work": "Viṣṇu Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-7c66d5",
+      "quote": "And its being a festival day is stated in the Viṣṇu Purāṇa: Caturdaśī, Aṣṭamī, and Amāvāsyā, and Pūrṇimā, these are festival days, O lord of kings, and a solar ingress as well.",
+      "justification": "Cited as the Purāṇic definition of parvan days."
+    },
+    {
+      "cited_work": "Manu Smṛti",
+      "cited_author": "Manu",
+      "stance": "authority",
+      "paragraph_id": "p-820cd7",
+      "quote": "Manu says: Caturdaśī, Aṣṭamī, Darśa, Paurṇamāsī, and a solar ingress, on these, one should avoid women, oil, meat, and tooth-sticks.",
+      "justification": "Manu cited as the primary smṛti authority for parvan-day prohibitions on oil, meat, women, and tooth-sticks."
+    },
+    {
+      "cited_work": "Matsya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-bca79e",
+      "quote": "In the Matsya Purāṇa: He who cuts herbs when the moon is in an herb, or tears their leaves, he obtains the sin of the murder of a Brahmin.",
+      "justification": "Cited for the prohibition on cutting trees/herbs during the moon's fourth three-muhūrta period."
+    },
+    {
+      "cited_work": "Smṛtisamuccaya",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-889f70",
+      "quote": "In the Smṛtisamuccaya: The evening twilight, and the food of another, and eating again, and sexual intercourse, oil, meat, and what is ground on a stone, one should avoid on Amāvāsyā.",
+      "justification": "Cited as a digest text compiling Amāvāsyā prohibitions."
+    },
+    {
+      "cited_work": "Ratnamālā",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-84a01c",
+      "quote": "And so, in the Ratnamālā: On Ṣaṣṭhīs, oil; on Aṣṭamīs, meat; and on Caturdaśīs, the act of shaving.",
+      "justification": "Cited as the source for the sequence of tithi-specific prohibitions on oil, meat, and shaving."
+    },
+    {
+      "cited_work": "Ṣaṭtriṃśanmata",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-43f6e9",
+      "quote": "In the Ṣaṭtriṃśanmata: On a saṅkrānti, on the fifteenth, and on the twelfth, and on the day of a śrāddha, one should not squeeze a garment, nor should it be harmed by a razor.",
+      "justification": "Cited for specific prohibitions on squeezing garments on sacred days."
+    },
+    {
+      "cited_work": "Vāmana Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-c6584d",
+      "quote": "In the Vāmana Purāṇa: On Nandās, one should not perform anointing, and on Riktās, shaving; on Jayās, meat. On Pūrṇās, a woman is to be avoided; on Bhadrās, one may begin all things.",
+      "justification": "Cited for the classification of the five tithi-groups (Nandā, Riktā, Jayā, Pūrṇā, Bhadrā) and their respective prohibitions."
+    },
+    {
+      "cited_work": "Skanda Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-3c8a0d",
+      "quote": "In the Skanda Purāṇa: The head, the skull, and the entrails, the nail, the skin, and sesame, likewise, and leaves, in order, one should always avoid on the Aṣṭamī, etc.",
+      "justification": "Cited for the specific foods prohibited on Aṣṭamī and related tithis, decoded by Hemādri."
+    },
+    {
+      "cited_work": "Hemādri",
+      "cited_author": "Hemādri",
+      "stance": "authority",
+      "paragraph_id": "p-68830a",
+      "quote": "Head = coconut. Skull = gourd. Entrail = long Paṭola. Nail = Niṣpāvas. Skin = Masūra. Sesame = Vṛntāka. This is the common usage in the Bṛhatī, says Hemādri.",
+      "justification": "Hemādri's digest is cited as the interpretive authority for the symbolic food-names in the Skanda Purāṇa verse."
+    },
+    {
+      "cited_work": "Jyotiḥśāstra",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-d9a712",
+      "quote": "In the Jyotiḥśāstra: When Jupiter is in Leo or in a Leo navāṃśa, marriage is not desired north of the Godāvarī.",
+      "justification": "Cited as the astrological science authority for the regional Jupiter-in-Leo marriage prohibition."
+    },
+    {
+      "cited_work": "Skanda Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-75cbc0",
+      "quote": "In the Skanda Purāṇa: Bathing, and likewise a great gift, study, and libation to the ancestors, one should not perform in the first year after the death of a great guru.",
+      "justification": "Cited for the one-year mourning restriction on optional bathing and gifting after the death of a great teacher."
+    },
+    {
+      "cited_work": "Bhaviṣya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-f4bf5c",
+      "quote": "In the Bhaviṣya Purāṇa: When Viṣṇu is asleep, all auspicious rites, etc., cease. Marriage, the vow of the sacred thread, and tonsure, consecration, and initiation, a sacrifice, entry into a house, and the consecration of deities and kings, and whatever meritorious rites there are, should not be performed when the Lord of the world is asleep.",
+      "justification": "Cited for the cāturmāsya prohibition on all sixteen-type auspicious rites when Viṣṇu is in cosmic sleep."
+    },
+    {
+      "cited_work": "Manu Smṛti",
+      "cited_author": "Manu",
+      "stance": "authority",
+      "paragraph_id": "p-99bd04",
+      "quote": "Manu says: These four rites one should avoid at twilight: eating, sexual intercourse, sleep, and the fourth, study.",
+      "justification": "Manu cited for the four twilight-period prohibitions."
+    },
+    {
+      "cited_work": "Kālanirṇayadīpikā",
+      "cited_author": null,
+      "stance": "extend",
+      "paragraph_id": "p-7e054f",
+      "quote": "In the Kālanirṇayadīpikā, however, the reading is 'if one avoids it at night' (yadi nāma ca śarvaryām) in place of 'if one avoids it on Caturdaśī' (yadi nāma caturdaśyām).",
+      "justification": "Cited to flag a textual variant in the Nandipurāṇa meat-avoidance verse."
+    },
+    {
+      "cited_work": "Nandipurāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-1a9b47",
+      "quote": "The time for the prohibition of meat is in the Nandipurāṇa: If one always avoids meat on Caturdaśī, a man with his mind set on heaven should avoid it at the chief solstices.",
+      "justification": "Cited for the meat prohibition schedule across tithis, solstices, and months."
+    },
+    {
+      "cited_work": "Manu Smṛti",
+      "cited_author": "Manu",
+      "stance": "authority",
+      "paragraph_id": "p-185179",
+      "quote": "By Manu (a. 1, ślo. 83-84): Free from disease, with all their aims accomplished, and with a life of four hundred years, in Kṛta, Tretā, etc., however, their life diminishes by a quarter.",
+      "justification": "Manu 1.83-84 cited with chapter-verse reference for the declining lifespan doctrine across the four yugas."
+    },
+    {
+      "cited_work": "Mahābhārata (Āraṇyaka Parvan)",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-e8e447",
+      "quote": "Likewise, in the Āraṇyaka Parvan, in the sight of Hanūmān, having cited the dharmas of Kṛta, etc., it is said: By one quarter, O son of Kuntī, dharma stands in the Kali Yuga.",
+      "justification": "The Āraṇyaka Parvan of the Mahābhārata cited for the Kali-yuga quarter-dharma doctrine."
+    },
+    {
+      "cited_work": "Manu Smṛti",
+      "cited_author": "Manu",
+      "stance": "authority",
+      "paragraph_id": "p-8322d3",
+      "quote": "Manu also says (a. 1, ślo. 85-86): The dharmas are different in the Kṛta Yuga; in the Tretā, knowledge is said. They are different in the Kali Yuga for men, in accordance with the decline of the yugas.",
+      "justification": "Manu 1.85-86 cited with chapter-verse reference for the yuga-specific dharma schema."
+    },
+    {
+      "cited_work": "Mahābhārata",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-06df1c",
+      "quote": "In the Mahābhārata: Austerity is supreme in the Kṛta Yuga; in the Tretā, knowledge is the highest. In the Dvāpara, they say only sacrifice; in the Kali Yuga, only charity.",
+      "justification": "Mahābhārata cited for the four-yuga dharma-priority schema (tapas/jñāna/yajña/dāna)."
+    },
+    {
+      "cited_work": "Skanda Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-d83b34",
+      "quote": "In the Skanda Purāṇa: The emaciation of the body by the Kṛcchra, Cāndrāyaṇa, etc., in the manner stated in the Veda, that is called tapas by the wise.",
+      "justification": "Cited to define tapas as bodily emaciation through Kṛcchra and Cāndrāyaṇa penances."
+    },
+    {
+      "cited_work": "Śivapurāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-787cc2",
+      "quote": "In the Śivapurāṇa: Meditation is supreme in the Kṛta Yuga; in the Tretā, the worship of the liṅga. In the Dvāpara, study; in Tiṣya, the praise of Mahādeva.",
+      "justification": "Cited for the Śaiva version of the four-yuga religious priority schema (dhyāna/liṅga-pūjā/svādhyāya/stuti)."
+    },
+    {
+      "cited_work": "Viṣṇudharmottara",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-e08bd5",
+      "quote": "In the Viṣṇudharmottara: Knowledge is supreme in the Kṛta Yuga; and in the Tretā, it is more so. And in the Dvāpara, likewise, sacrifice; consecration, however, is in the Kali Yuga.",
+      "justification": "Cited for a Vaiṣṇava version of the yuga-dharma schema prioritizing consecration in Kali."
+    },
+    {
+      "cited_work": "Parāśara Smṛti",
+      "cited_author": "Parāśara",
+      "stance": "authority",
+      "paragraph_id": "p-f0e8da",
+      "quote": "Parāśara says: In Kṛta, the dharmas are of Manu; in Tretā, those of Gautama are held. In Dvāpara, those of Śaṅkha and Likhita; in Kali, those of Parāśara are remembered.",
+      "justification": "Parāśara self-authoritatively assigns himself as the preeminent smṛti authority for the Kali Yuga, with Manu, Gautama, Śaṅkha-Likhita for the prior ages."
+    }
+  ]
+}

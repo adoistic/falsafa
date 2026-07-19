@@ -1,0 +1,44 @@
+{
+  "work_slug": "william-hall-poems-8be186",
+  "work_title": "Poems",
+  "chapter_number": 3,
+  "chapter_title": "VACATION.",
+  "chapter_slug": "03-vacation",
+  "author": "William Hall",
+  "author_slug": "william-hall",
+  "ecpa_poem_id": "o5157-w0200",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "imitation"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 184
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "83d65302-4bed-5430-87e3-7b07d46a263c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1044,
+      "line_count": 186,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

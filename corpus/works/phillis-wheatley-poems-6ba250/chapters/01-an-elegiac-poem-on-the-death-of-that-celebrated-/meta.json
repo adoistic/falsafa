@@ -1,0 +1,44 @@
+{
+  "work_slug": "phillis-wheatley-poems-6ba250",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "An ELEGIAC POEM, On the DEATH of that celebrated Divine, and eminent Servant of JESUS CHRIST, the late Reverend, and pious GEORGE WHITEFIELD, Chaplain to the Right Honourable the Countess of HUNTINGDON, &c &c. Who made his Exit from this transitory State, to dwell in the celestial Realms of Bliss, on LORD's-Day, 30th of September, 1770, when he was seiz'd with a Fit of the Asthma, at NEWBURY-PORT, near BOSTON, in NEW-ENGLAND. In which is a Condolatory Address to His truly noble Benefactress the worthy and pious Lady HUNTINGDON, — and the Orphan-Children in GEORGIA; who, with many Thousands, are left, by the Death of this great Man, to lament the Loss of a Father, Friend, and Benefactor.",
+  "chapter_slug": "01-an-elegiac-poem-on-the-death-of-that-celebrated-",
+  "author": "Phillis Wheatley",
+  "author_slug": "phillis-wheatley",
+  "ecpa_poem_id": "n09pw-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "elegy"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 62
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "47633a63-8882-5a34-96f6-5e3fecaa3897",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 613,
+      "line_count": 64,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

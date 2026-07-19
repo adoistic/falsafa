@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 41**
+**Viṣṇu Smriti 41**
 
 Killing birds, aquatic animals, and those born in water. // Vi_41.1 //
 

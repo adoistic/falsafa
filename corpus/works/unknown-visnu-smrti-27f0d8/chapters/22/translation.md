@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 22**
+**Viṣṇu Smriti 22**
 
 For the *sapiṇḍas* of a Brāhmaṇa, the *āśauca* on account of a birth or death is ten days. // Vi_22.1 //
 

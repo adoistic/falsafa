@@ -20,12 +20,12 @@ translator: thothica
 
 One who is establishing a family, one who is about to perform a sacrifice, a traveler, one who has given all his wealth at a sacrifice, one who acts for his *guru*, for his father and mother, one who is studying, and one who is sick. // Mn_11.1 //
 
-One should not consider these *snātakas* to be Brahmanas who are beggars for Dharma; a gift must be given to them when they are destitute, according to their special learning. // Mn_11.2 //
+One should not consider these *snātakas* to be Brāhmaṇas who are beggars for Dharma; a gift must be given to them when they are destitute, according to their special learning. // Mn_11.2 //
 
 To these foremost of the twice-born, food with a sacrificial fee must be given; to others, it is said that cooked food should be given outside the sacrificial enclosure. // Mn_11.3 //
 
-A king should bestow all kinds of jewels on Brahmanas who are learned in the Veda, as is fitting, and for the sake of a sacrifice, as a sacrificial fee. // Mn_11.4 //
+A king should bestow all kinds of jewels on Brāhmaṇas who are learned in the Veda, as is fitting, and for the sake of a sacrifice, as a sacrificial fee. // Mn_11.4 //
 
 He who, having a wife, acquires other wives by begging, the fruit for him is mere pleasure; but for the giver of the wealth, there is progeny. // Mn_11.5 //
 
-But one should bestow wealth according to one's ability on Brahmanas who are learned in the Veda and live in seclusion; after death, one enjoys heaven. // Mn_11.6 //
+But one should bestow wealth according to one's ability on Brāhmaṇas who are learned in the Veda and live in seclusion; after death, one enjoys heaven. // Mn_11.6 //

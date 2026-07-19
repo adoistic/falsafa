@@ -1,0 +1,1048 @@
+{
+  "slug": "unknown-viramitrodaya-d4b632",
+  "window": "01:1304-1561",
+  "entities": [
+    {
+      "canonical_name": "Manu",
+      "surface_names": ["Manu"],
+      "kind": "figure",
+      "figure_kind": "sage-lawgiver",
+      "mentions": [
+        {
+          "paragraph_id": "p-29ce0b",
+          "quote": "Therein, Manu says:",
+          "role": "cited authority on Utsarjana timing"
+        },
+        {
+          "paragraph_id": "p-384bb1",
+          "quote": "In Puṣya, a twice-born should perform the Utsarjana of the Vedas outside. / Or, when the bright fortnight of Māgha has arrived, in the forenoon, on the first day. // (Manu 4.96)",
+          "role": "author of cited verse"
+        },
+        {
+          "paragraph_id": "p-470c30",
+          "quote": "(Manu 4.97) ... (Manu 4.98)",
+          "role": "author of cited verses on study schedule"
+        },
+        {
+          "paragraph_id": "p-f2e573",
+          "quote": "This is from Manu.",
+          "role": "source attribution"
+        },
+        {
+          "paragraph_id": "p-932ad9",
+          "quote": "because Manu himself has prescribed the study for four and a half months",
+          "role": "cited authority for study duration"
+        },
+        {
+          "paragraph_id": "p-496808",
+          "quote": "Having performed the Upākṛtya on Śrāvaṇī or Prauṣṭhapadī according to the rules, / a Brahmin, being restrained, should study the Vedas for four and a half months. // (Manu 4.95)",
+          "role": "author of cited verse on study duration"
+        }
+      ],
+      "description": "The legendary lawgiver whose smṛti (Manusmṛti) is repeatedly cited as a primary authority on Upākarma, Utsarjana, and the prescribed schedule of Vedic study.",
+      "justification": "Manu is named as the source of multiple quoted verses (4.95, 4.96, 4.97, 4.98) that determine the timing of Utsarjana and the duration of mandatory Vedic study."
+    },
+    {
+      "canonical_name": "Yājñavalkya",
+      "surface_names": ["Yājñavalkya"],
+      "kind": "figure",
+      "figure_kind": "sage-lawgiver",
+      "mentions": [
+        {
+          "paragraph_id": "p-21425d",
+          "quote": "Yājñavalkya, however, also states another time:",
+          "role": "cited authority offering alternative Utsarjana timing"
+        },
+        {
+          "paragraph_id": "p-876164",
+          "quote": "In the month of Pauṣa, on Rohiṇī, or on the Aṣṭakā, / at the water's edge, one should perform the Utsarga of the Vedas outside according to the rules. //",
+          "role": "author of cited verse"
+        },
+        {
+          "paragraph_id": "p-5c4495",
+          "quote": "from the previously cited verse of Yājñavalkya",
+          "role": "cross-referenced authority"
+        }
+      ],
+      "description": "The smṛti author whose text prescribes alternative nakṣatra-based timings (Rohiṇī or Aṣṭakā in Pauṣa) for the Utsarjana of the Vedas.",
+      "justification": "Yājñavalkya is named as the source of a verse that supplements Manu's rule by offering additional nakṣatra-based options for Utsarjana."
+    },
+    {
+      "canonical_name": "Kātyāyana",
+      "surface_names": ["Kātyāyana"],
+      "kind": "figure",
+      "figure_kind": "sage-lawgiver",
+      "mentions": [
+        {
+          "paragraph_id": "p-18ac7f",
+          "quote": "And that it is revitalizing is stated by Kātyāyana:",
+          "role": "cited authority on revitalizing nature of Upākarma"
+        },
+        {
+          "paragraph_id": "p-eaaeb3",
+          "quote": "The Upākarma with the Utsarga that is performed annually by the twice-born according to the rules, / by that, there is a revitalization of the Vedas.",
+          "role": "author of cited verse (repeated at 1310 and 1345)"
+        },
+        {
+          "paragraph_id": "p-664670",
+          "quote": "Kātyāyana states that this should be performed annually for the sake of Vedic study:",
+          "role": "cited authority on annual performance"
+        },
+        {
+          "paragraph_id": "p-0d347c",
+          "quote": "For this very reason, a penance is stated for that by Kātyāyana:",
+          "role": "cited authority prescribing penance for moon-sighting during Amāvāsyā sacrifice"
+        },
+        {
+          "paragraph_id": "p-18a826",
+          "quote": "On the day of the sacrifice, if the moon is seen in the western direction, / having offered oblations there with the vyāhṛtis, one should give a staff to a twice-born.",
+          "role": "author of cited verse on penance"
+        },
+        {
+          "paragraph_id": "p-1508",
+          "quote": "And that single-day performance is in a specific Paurṇamāsī, as stated by Kātyāyana:",
+          "role": "cited authority on single-day kharvikā performance"
+        },
+        {
+          "paragraph_id": "p-eebc5b",
+          "quote": "If the junction is after the late morning and before the sun's turning-point, / that Paurṇamāsī should be known as the tithi for the single-day procedure.",
+          "role": "author of cited verse on single-day timing"
+        }
+      ],
+      "description": "A leading smṛti and ritual-sūtra authority cited for the revitalizing function of Upākarma-Utsarga, the rule of annual Vedic renewal, penance regulations, and the conditions for single-day sacrifice performance.",
+      "justification": "Kātyāyana is named four separate times in distinct substantive contexts, each time as the textual source for a specific ritual ruling."
+    },
+    {
+      "canonical_name": "Gobhila",
+      "surface_names": ["Gobhila"],
+      "kind": "figure",
+      "figure_kind": "sage-lawgiver",
+      "mentions": [
+        {
+          "paragraph_id": "p-88b307",
+          "quote": "the obligatory performance for all is stated by Gobhila:",
+          "role": "cited authority on obligatory Upākarma for all āśramas"
+        },
+        {
+          "paragraph_id": "p-7ad3f6",
+          "quote": "The Upākarma and Utsarjana are desired even for forest-dwellers, / because they are subordinate elements of the study for retention for householders and Brahmacārins.",
+          "role": "author of cited verse"
+        },
+        {
+          "paragraph_id": "p-1417",
+          "quote": "On the day one observes the preparatory rite, on that day, in the forenoon itself, having offered the morning oblation, from the statement of Gobhila.",
+          "role": "cited authority on single-day preliminary consecration timing"
+        },
+        {
+          "paragraph_id": "p-1542",
+          "quote": "From the statement of Gobhila:",
+          "role": "cited authority defining Paurṇamāsī and Amāvāsyā astronomically"
+        },
+        {
+          "paragraph_id": "p-cfea2c",
+          "quote": "The greatest separation of the sun and moon is Paurṇamāsī; the greatest proximity is Amāvāsyā.",
+          "role": "author of definitional statement on festival tithis"
+        }
+      ],
+      "description": "Author of a gṛhyasūtra text cited for extending Upākarma-Utsarjana to all āśramas, for the timing of preliminary consecration, and for the astronomical definition of Paurṇamāsī and Amāvāsyā.",
+      "justification": "Gobhila is cited in four distinct passages providing substantive ritual rulings, with named verses attributed to his sūtra text."
+    },
+    {
+      "canonical_name": "Āpastamba",
+      "surface_names": ["Āpastamba"],
+      "kind": "figure",
+      "figure_kind": "sage-lawgiver",
+      "mentions": [
+        {
+          "paragraph_id": "p-5c4495",
+          "quote": "Āpastamba says: \"On the Paurṇamāsī of Taiṣya, or on Rohiṇī, he should cease.\"",
+          "role": "cited authority on Utsarjana timing"
+        },
+        {
+          "paragraph_id": "p-1481",
+          "quote": "Āpastamba also, in the context of \"one should observe the preparatory rite,\" says:",
+          "role": "cited authority on Amāvāsyā definition by moon sighting"
+        },
+        {
+          "paragraph_id": "p-cd9f0c",
+          "quote": "On the day it is not seen, that day is Amāvāsyā, or on the day when they will not see it on the morrow.",
+          "role": "author of cited sūtra on moon visibility"
+        },
+        {
+          "paragraph_id": "p-1498",
+          "quote": "And that would contradict the statement of Āpastamba:",
+          "role": "cited authority whose verse requires reconciliation"
+        },
+        {
+          "paragraph_id": "p-9d1b15",
+          "quote": "The desired iṣṭi is on the sixteenth day; the middle one, on the fifteenth day; / the lowest iṣṭi, on the fourteenth day; it is sinful on the seventeenth day.",
+          "role": "author of cited verse on permissible days for preliminary consecration"
+        },
+        {
+          "paragraph_id": "p-cfc4a8",
+          "quote": "Mādhava, Āpastamba, and the author of the Bhāṣyārthasaṅgraha, however, say that from the previously cited statements of the Taittirīya and Aitareya, for the followers of the Āpastamba and Āśvalāyana schools, in an afternoon junction, the sacrifice is only when the moon is seen.",
+          "role": "cited in school-of-interpretation context"
+        },
+        {
+          "paragraph_id": "p-0f4544",
+          "quote": "For this very reason, Āpastamba, having begun with Paurṇamāsī, has said:",
+          "role": "cited authority on Vājasaneyin kharvikā rule"
+        },
+        {
+          "paragraph_id": "p-52cec8",
+          "quote": "The Vājasaneyins teach the kharvikā, the third one.",
+          "role": "author of cited statement"
+        }
+      ],
+      "description": "Author of the Āpastamba-sūtra tradition, cited repeatedly for rules on Utsarjana timing, moon-sighting criteria for Amāvāsyā, permissible days for preliminary consecration, and school-specific sacrifice rules.",
+      "justification": "Āpastamba is named in five separate substantive contexts throughout this window, each time supplying a distinct ritual ruling that the digest's author uses in his synthesis."
+    },
+    {
+      "canonical_name": "Baudhāyana",
+      "surface_names": ["Baudhāyana"],
+      "kind": "figure",
+      "figure_kind": "sage-lawgiver",
+      "mentions": [
+        {
+          "paragraph_id": "p-e99556",
+          "quote": "Baudhāyana says: \"Having performed the Upākṛtya on Śrāvaṇī or Āṣāḍhī, he should perform the Utsarga on Taiṣyā or Mādhyā.\"",
+          "role": "cited authority on school-correlated Utsarjana timing"
+        },
+        {
+          "paragraph_id": "p-1405",
+          "quote": "With this in mind, Baudhāyana says:",
+          "role": "cited authority on the domain (sandhi) of the festival junction"
+        },
+        {
+          "paragraph_id": "p-46136d",
+          "quote": "Because of the subtlety of the time of the junction, the domain of the junction is stated. / The ancients call proximity the domain, either on the preceding day or on the succeeding.",
+          "role": "author of cited verse"
+        },
+        {
+          "paragraph_id": "p-71115f",
+          "quote": "If Dvitīyā is for two muhūrtas on Pratipad in the afternoon, / the preliminary consecration is on Caturdaśī, because the moon is seen on the next day.",
+          "role": "author of cited verse on Amāvāsyā preliminary consecration"
+        },
+        {
+          "paragraph_id": "p-1447",
+          "quote": "This is from the statement of Baudhāyana.",
+          "role": "source attribution for preceding verse"
+        },
+        {
+          "paragraph_id": "p-1504",
+          "quote": "For this very reason, Baudhāyana says:",
+          "role": "cited authority on permissible days for preparatory rite"
+        },
+        {
+          "paragraph_id": "p-1ed588",
+          "quote": "Here, the places of the preparatory rite are the fourteenth, fifteenth, and sixteenth days, but not the thirteenth or seventeenth.",
+          "role": "author of cited verse on upavasatha days"
+        },
+        {
+          "paragraph_id": "p-8199f5",
+          "quote": "Baudhāyana, however, also adds the lunar mansion, saying, \"or on a lunar mansion.\"",
+          "role": "cited authority adding nakṣatra option for modified rites"
+        }
+      ],
+      "description": "Author of the Baudhāyana-sūtra tradition, extensively cited for junction-domain theory, preliminary consecration scheduling, permissible upavasatha days, and the lunar-mansion option for modified rites.",
+      "justification": "Baudhāyana is named six times in distinct technical debates about festival timing, making him one of the most frequently cited authorities in this window."
+    },
+    {
+      "canonical_name": "Āśvalāyana",
+      "surface_names": ["Āśvalāyana"],
+      "kind": "figure",
+      "figure_kind": "sage-lawgiver",
+      "mentions": [
+        {
+          "paragraph_id": "p-22ecb5",
+          "quote": "the study for retention is stated by Āśvalāyana: \"One who has returned home should study according to the rules of a Brahmacārī\"",
+          "role": "cited authority on household study rules"
+        },
+        {
+          "paragraph_id": "p-e99556",
+          "quote": "This is in acceptance of the statement of Āśvalāyana, \"one should study for six months.\"",
+          "role": "cited authority on six-month study duration"
+        },
+        {
+          "paragraph_id": "p-3a2cee",
+          "quote": "Having begun the Utsarjana, Āśvalāyana says: \"On the middle Aṣṭakā, having offered an oblation of food to these deities, they go to the water.\"",
+          "role": "cited authority on Utsarjana procedure"
+        },
+        {
+          "paragraph_id": "p-cfc4a8",
+          "quote": "for the followers of the Āpastamba and Āśvalāyana schools, in an afternoon junction, the sacrifice is only when the moon is seen",
+          "role": "school founder whose tradition takes a specific sacrificial position"
+        }
+      ],
+      "description": "Author of the Āśvalāyana-gṛhyasūtra and founder of a school tradition, cited for household study rules, the six-month study period, Utsarjana procedure, and his school's position on moon-visibility sacrifice.",
+      "justification": "Āśvalāyana is cited in four distinct contexts concerning Vedic study rules, Utsarjana procedure, and school-based ritual positions."
+    },
+    {
+      "canonical_name": "Mādhava",
+      "surface_names": ["Mādhava"],
+      "kind": "figure",
+      "figure_kind": "scholar-commentator",
+      "mentions": [
+        {
+          "paragraph_id": "p-5fd953",
+          "quote": "from the śruti cited by Mādhava, \"whatever Veda he studies for a year,\" is based on śruti.",
+          "role": "cited commentator who cites a supporting śruti"
+        },
+        {
+          "paragraph_id": "p-8654fe",
+          "quote": "The meaning of this has been clarified by Mādhava.",
+          "role": "cited commentator who clarifies Laugākṣi's rule on junction adjustment"
+        },
+        {
+          "paragraph_id": "p-6dc5ab",
+          "quote": "Whatever increase of Pratipad there is, add half of it to the festival day.",
+          "role": "author of interpretive gloss"
+        },
+        {
+          "paragraph_id": "p-174366",
+          "quote": "some say that Mādhava explained the statement of Baudhāyana:",
+          "role": "commentator interpreting Baudhāyana on Caturdaśī"
+        },
+        {
+          "paragraph_id": "p-cfc4a8",
+          "quote": "Mādhava, Āpastamba, and the author of the Bhāṣyārthasaṅgraha, however, say that from the previously cited statements of the Taittirīya and Aitareya, for the followers of the Āpastamba and Āśvalāyana schools, in an afternoon junction, the sacrifice is only when the moon is seen.",
+          "role": "cited commentator holding a specific ritual position"
+        }
+      ],
+      "description": "A medieval Sanskrit commentator (likely Mādhava-Vidyāraṇya) cited for śruti cross-references, clarification of technical junction-calculation rules, and school-differentiated positions on moon-sighting sacrifice.",
+      "justification": "Mādhava is named four times as a commentarial authority whose interpretations mediate between competing smṛti positions."
+    },
+    {
+      "canonical_name": "Laugākṣi",
+      "surface_names": ["Laugākṣi"],
+      "kind": "figure",
+      "figure_kind": "sage-lawgiver",
+      "mentions": [
+        {
+          "paragraph_id": "p-352240",
+          "quote": "And so, Laugākṣi says:",
+          "role": "cited authority on time-division for sacrifice and preparatory rite"
+        },
+        {
+          "paragraph_id": "p-a78449",
+          "quote": "They know three parts for the preparatory rite, and four for the sacrifice. / One should discard the last two parts, in the sacrifice and in the rite of the vow.",
+          "role": "author of cited verse on day-part allocation"
+        },
+        {
+          "paragraph_id": "p-b878d7",
+          "quote": "This is from the statement of Laugākṣi.",
+          "role": "source attribution"
+        },
+        {
+          "paragraph_id": "p-1439",
+          "quote": "although from the statement of Laugākṣi:",
+          "role": "cited authority on afternoon/night junction procedure"
+        },
+        {
+          "paragraph_id": "p-1da08b",
+          "quote": "If the festival day ends in the afternoon or at night, / having observed the preparatory rite on that day, the sacrifice is desired on the next day.",
+          "role": "author of cited verse"
+        },
+        {
+          "paragraph_id": "p-2a8471",
+          "quote": "This is from the statement of Laugākṣi, \"in the afternoon or at night.\"",
+          "role": "source attribution"
+        },
+        {
+          "paragraph_id": "p-1463",
+          "quote": "Laugākṣi states a special rule concerning the junction of the festival day:",
+          "role": "cited authority on increase/decrease adjustment rule"
+        },
+        {
+          "paragraph_id": "p-dd6ee9",
+          "quote": "Whatever ghaṭikās of the succeeding tithi are fewer or more, / half of them should be subtracted and added, in decrease and increase, on the first day.",
+          "role": "author of cited verse on junction calculation"
+        }
+      ],
+      "description": "A ritual-sūtra authority cited for day-part allocation between preparatory rite and sacrifice, the rule governing afternoon/night junction procedures, and the mathematical adjustment formula for tithi increase and decrease.",
+      "justification": "Laugākṣi is quoted four separate times, each time providing a distinct technical ruling that the text synthesises with competing authorities."
+    },
+    {
+      "canonical_name": "Hemādri",
+      "surface_names": ["Hemādri"],
+      "kind": "figure",
+      "figure_kind": "scholar-commentator",
+      "mentions": [
+        {
+          "paragraph_id": "p-2db037",
+          "quote": "Hemādri, however, says:",
+          "role": "cited commentator with alternative interpretation of Baudhāyana"
+        },
+        {
+          "paragraph_id": "p-84a54b",
+          "quote": "When Caturdaśī is complete, and Dvitīyā is decreasing, / the caru and the iṣṭi are on Amā; the rite for the ancestors, etc., is on the day of Bhūta.",
+          "role": "author of cited verse"
+        },
+        {
+          "paragraph_id": "p-1473",
+          "quote": "Hemādri, however, considering that \"Where the junction is in the afternoon\" is not an ancient sage's statement but a verse of Maṇḍana, has said that even on Paurṇamāsī, in an afternoon junction, if there is time for the sacrifice on the next day, then the sacrifice is there; if not, it is on the preceding day itself.",
+          "role": "cited commentator with alternative position on afternoon junction"
+        },
+        {
+          "paragraph_id": "p-1490",
+          "quote": "Hemādri says that these statements are with reference to the scriptural sighting.",
+          "role": "cited commentator interpreting Taittirīya and Aitareya Brāhmaṇa verses"
+        },
+        {
+          "paragraph_id": "p-3bbe4f",
+          "quote": "The Āgrayaṇa before the full-moon sacrifice applies to a single-day full-moon sacrifice, says Hemādri.",
+          "role": "cited authority on Āgrayaṇa sequence"
+        }
+      ],
+      "description": "The encyclopaedic nibandha author (Hemādri, 13th c.) cited multiple times for interpretive positions that diverge from the mainstream on Caturdaśī procedure, afternoon junction, moon-sighting, and the Āgrayaṇa sequence.",
+      "justification": "Hemādri is named four times as a commentarial voice whose positions the Vīramitrodaya explicitly considers and sometimes rejects."
+    },
+    {
+      "canonical_name": "Gārgya",
+      "surface_names": ["Gārgya"],
+      "kind": "figure",
+      "figure_kind": "sage-lawgiver",
+      "mentions": [
+        {
+          "paragraph_id": "p-c8fcb5",
+          "quote": "Gārgya, however, states the time of Utsarjana for the Sāmagas:",
+          "role": "cited authority on Sāmaveda-specific Utsarjana timing"
+        },
+        {
+          "paragraph_id": "p-419a9b",
+          "quote": "When the sun is in Leo, in the Puṣya nakṣatra, in the forenoon, they should go outside. / The Chandogas, having gathered, should perform the Utsarga of all the Vedas.",
+          "role": "author of cited verse"
+        },
+        {
+          "paragraph_id": "p-fe4115",
+          "quote": "This is from the statement of Gārgya.",
+          "role": "source attribution for verse on completing iṣṭi before Pratipad"
+        }
+      ],
+      "description": "A gṛhyasūtra authority cited for the Sāmaveda-specific rule placing Utsarjana when the sun is in Leo with Puṣya nakṣatra, and for the rule about completing the iṣṭi before entry into Pratipad.",
+      "justification": "Gārgya is named as the source of two distinct verses in different sections of this window, both bearing on timing rules."
+    },
+    {
+      "canonical_name": "Vṛddha Śātātapa",
+      "surface_names": ["Vṛddha Śātātapa"],
+      "kind": "figure",
+      "figure_kind": "sage-lawgiver",
+      "mentions": [
+        {
+          "paragraph_id": "p-cf324f",
+          "quote": "By this statement of Vṛddha Śātātapa, which states the absence of fault, the performance is enjoined even in the fourth part.",
+          "role": "cited authority permitting sacrifice in fourth part of Pratipad"
+        },
+        {
+          "paragraph_id": "p-205aac",
+          "quote": "Where the junction is in the afternoon, one who performs the sacrifice in the morning on the next day, / even in the fourth part of Pratipad, is not tainted by fault.",
+          "role": "author of cited verse"
+        }
+      ],
+      "description": "A smṛti authority cited for the ruling that sacrificing in the fourth quarter of Pratipad after an afternoon junction incurs no fault.",
+      "justification": "Vṛddha Śātātapa is explicitly named as the source of the verse that resolves the edge case of insufficient time in Pratipad after an afternoon junction."
+    },
+    {
+      "canonical_name": "Lalla",
+      "surface_names": ["Lalla"],
+      "kind": "figure",
+      "figure_kind": "scholar-astronomer",
+      "mentions": [
+        {
+          "paragraph_id": "p-38d6d8",
+          "quote": "This is from the statement of Lalla.",
+          "role": "cited authority on auspiciousness of the tail of Viṣṭi"
+        },
+        {
+          "paragraph_id": "p-2b4631",
+          "quote": "Whatever rites there are on earth, whether auspicious or inauspicious, // all of them succeed in the tail of Viṣṭi, there is no doubt.",
+          "role": "author of cited verse"
+        }
+      ],
+      "description": "An astronomical or jyotiṣa authority (likely the 8th-c. astronomer Lalla) cited for the ruling that all rites succeed when performed in the tail portion of the Viṣṭi karaṇa.",
+      "justification": "Lalla is named as the explicit source of the verse permitting Holākā lighting in the tail of Bhadrā/Viṣṭi when no bhadrā-free time is available."
+    },
+    {
+      "canonical_name": "Maṇḍana",
+      "surface_names": ["Maṇḍana"],
+      "kind": "figure",
+      "figure_kind": "scholar-commentator",
+      "mentions": [
+        {
+          "paragraph_id": "p-1473",
+          "quote": "Hemādri, however, considering that \"Where the junction is in the afternoon\" is not an ancient sage's statement but a verse of Maṇḍana",
+          "role": "identified as actual author of a verse attributed to ancient sages"
+        }
+      ],
+      "description": "A later smṛti or nibandha author whose verse on afternoon junction is identified by Hemādri as non-ancient, raising a question about the verse's authority.",
+      "justification": "Maṇḍana is named by Hemādri as the true author of the afternoon-junction verse, a point of source-critical significance for the digest's argumentation."
+    },
+    {
+      "canonical_name": "Divodāsa",
+      "surface_names": ["Divodāsa"],
+      "kind": "figure",
+      "figure_kind": "sage-lawgiver",
+      "mentions": [
+        {
+          "paragraph_id": "p-2f1283",
+          "quote": "then Holākā should be performed on the preceding day itself in the tail of Bhadrā, says Divodāsa.",
+          "role": "cited authority on Holākā timing during eclipse conflict"
+        }
+      ],
+      "description": "A smṛti authority cited for the ruling that when Bhadrā coincides with the preceding day and a lunar eclipse with the succeeding day, Holākā should be lit in the tail of Bhadrā on the preceding day.",
+      "justification": "Divodāsa is named as the source of the specific ruling resolving the Bhadrā-eclipse conflict for Holākā timing."
+    },
+    {
+      "canonical_name": "Rāhu",
+      "surface_names": ["Rāhu"],
+      "kind": "figure",
+      "figure_kind": "mythological-deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-a4d9cb",
+          "quote": "For all social classes, there is ritual impurity at the sight of Rāhu.",
+          "role": "cause of ritual impurity during lunar eclipse"
+        }
+      ],
+      "description": "The mythological demon-planet whose 'sight' (i.e., the lunar eclipse caused by his swallowing the moon) creates ritual impurity requiring bathing before performance of Holākā.",
+      "justification": "Rāhu is named in a verse prescribing ritual impurity at eclipse, connecting astronomical event (eclipse) to its mythological agent in the context of Holākā timing."
+    },
+    {
+      "canonical_name": "Soma",
+      "surface_names": ["Soma", "King Soma"],
+      "kind": "figure",
+      "figure_kind": "mythological-deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-cfee92",
+          "quote": "The nights of half a month were the wives of King Soma. He did not approach them on Amāvāsyā and Paurṇamāsī.",
+          "role": "mythological figure whose behaviour establishes cosmic significance of festival tithis"
+        }
+      ],
+      "description": "The moon deity cited in a śruti narrative in which the fortnightly nights are his wives; his abstention on Amāvāsyā and Paurṇamāsī is used by the Mīmāṃsakas to argue that those words refer to specific tithis rather than astronomical moments.",
+      "justification": "Soma appears in the final cited śruti passage, where the Mīmāṃsakas deploy his mythological narrative to support a tithi-based interpretation of Paurṇamāsī and Amāvāsyā."
+    },
+    {
+      "canonical_name": "Lakṣmī",
+      "surface_names": ["Lakṣmī"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-149b2e",
+          "quote": "having given lamps in the evening, and having worshipped Lakṣmī according to the rules, / one should eat, well-adorned and resplendent in white clothes.",
+          "role": "deity worshipped with lamps on Dīpāvalī Amāvāsyā"
+        }
+      ],
+      "description": "The goddess of prosperity who is worshipped with lamps on the Amāvāsyā of Āśvina (Dīpāvalī), in the context of the lamp-offering rite prescribed by the Bhaviṣya Purāṇa.",
+      "justification": "Lakṣmī is named as the object of worship in the lamp-offering rite that defines the Dīpāvalī Amāvāsyā, forming the devotional counterpart to the expulsion of Alakṣmī."
+    },
+    {
+      "canonical_name": "Alakṣmī",
+      "surface_names": ["Alakṣmī"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-1e8525",
+          "quote": "the expulsion of Alakṣmī should be performed",
+          "role": "deity/force to be expelled in nocturnal rite"
+        },
+        {
+          "paragraph_id": "p-b89086",
+          "quote": "then Alakṣmī is driven out from their own courtyards by the joyful women of the city, with the beating of winnowing baskets and small drums.",
+          "role": "subject of expulsion ritual"
+        }
+      ],
+      "description": "The personification of ill-fortune who is ritually expelled at midnight on the Dīpāvalī Amāvāsyā, driven out by women beating winnowing baskets and small drums.",
+      "justification": "Alakṣmī is named in the Bhaviṣya Purāṇa passage describing the midnight expulsion rite on Dīpāvalī, providing the apotropaic counterpart to the Lakṣmī worship."
+    },
+    {
+      "canonical_name": "Mīmāṃsakas",
+      "surface_names": ["Mīmāṃsakas", "Mīmāṃsakāḥ"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-11c736",
+          "quote": "The Mīmāṃsakas, however, state the time of the modified rite differently.",
+          "role": "rival hermeneutical school with alternative timing theory"
+        }
+      ],
+      "description": "The Mīmāṃsā philosophical school, which interprets the time of modified rites differently from the mainstream position, appealing to a śruti narrative about King Soma to support a tithi-based reading of Paurṇamāsī and Amāvāsyā.",
+      "justification": "The Mīmāṃsakas are named as a distinct doctrinal group whose alternative theory of modified-rite timing is presented and then assessed at the close of this window."
+    },
+    {
+      "canonical_name": "Vājasaneyins",
+      "surface_names": ["Vājasaneyins", "Vājasaneyinaḥ", "Vājasaneyin"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-7b81b9",
+          "quote": "And this applies to those other than the Vājasaneyins.",
+          "role": "Vedic school with a distinct rule for single-day performance"
+        },
+        {
+          "paragraph_id": "p-b7ce92",
+          "quote": "that is the kharvikā, according to the Vājasaneyins; having observed the preparatory rite on it, the iṣṭi is on the next day.",
+          "role": "school whose kharvikā rule defines a special Paurṇamāsī procedure"
+        },
+        {
+          "paragraph_id": "p-52cec8",
+          "quote": "The Vājasaneyins teach the kharvikā, the third one.",
+          "role": "school attributed with distinctive rite"
+        }
+      ],
+      "description": "Followers of the Vājasaneyin (White Yajurveda / Śukla Yajurveda) recension, who follow a special two-day rule for the kharvikā Paurṇamāsī even when the junction falls from midday onwards.",
+      "justification": "The Vājasaneyins are explicitly contrasted with other Vedic schools in three passages, their distinctive kharvikā rule forming a separate section of the text's analysis."
+    },
+    {
+      "canonical_name": "Chandogas",
+      "surface_names": ["Chandogas", "Sāmagas"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-ec00fe",
+          "quote": "The Chandogas, having gathered, should perform the Utsarga of all the Vedas.",
+          "role": "Sāmaveda chanters performing collective Utsarjana"
+        },
+        {
+          "paragraph_id": "p-c9348e",
+          "quote": "Here, the injunction of the sun in Leo for the Sāmagas, by its connection with both parts of the verse, is for the purpose of establishing it as obligatory",
+          "role": "Sāmaveda group for whom the Leo-sun rule is established"
+        },
+        {
+          "paragraph_id": "p-419a9b",
+          "quote": "The Chandogas, having gathered, should perform the Utsarga of all the Vedas.",
+          "role": "Sāmaveda group performing collective Utsarjana in Puṣya with sun in Leo"
+        },
+        {
+          "paragraph_id": "p-acde61",
+          "quote": "the Utsarjana should be performed in Puṣya when the sun is in Cancer",
+          "role": "Chandoga group subject to special rule when Hasta precedes Puṣya"
+        }
+      ],
+      "description": "The singers of the Sāmaveda (Chandogas/Sāmagas), for whom special rules apply: Upākarma with Hasta in Leo, Utsarjana in Puṣya with sun in Leo, with specific adjustments when Hasta and Puṣya occur in different solar months.",
+      "justification": "Chandogas/Sāmagas are addressed as a distinct Vedic school with their own timing rules for Upākarma and Utsarjana in four passages in this window."
+    },
+    {
+      "canonical_name": "Brahmacārin",
+      "surface_names": ["Brahmacārins", "Brahmacārī", "naiṣṭhika", "upakurvāṇa"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-7c5783",
+          "quote": "And this Upākarma should be performed by Brahmacārins, householders, and forest-dwellers",
+          "role": "first āśrama for whom Upākarma is obligatory"
+        },
+        {
+          "paragraph_id": "p-22ecb5",
+          "quote": "for Brahmacārins, it is established by the very fact that celibacy is for that purpose",
+          "role": "group for whom study purpose inherently establishes obligation"
+        },
+        {
+          "paragraph_id": "p-e0bc4f",
+          "quote": "'Brahmacārins' means perpetual students (naiṣṭhika), because for temporary students (upakurvāṇa), it is already established by the fact that it is for the sake of study.",
+          "role": "subclass differentiated into naiṣṭhika and upakurvāṇa"
+        }
+      ],
+      "description": "Students in the first āśrama (brahmacarya), differentiated into perpetual students (naiṣṭhika) and temporary students (upakurvāṇa), both obligated to perform Upākarma and Utsarjana as subordinate elements of the Brahmayajña.",
+      "justification": "Brahmacārins are addressed in multiple passages as one of the three primary groups obligated to perform Upākarma-Utsarjana, with a technical sub-distinction between permanent and temporary students."
+    },
+    {
+      "canonical_name": "Holākā",
+      "surface_names": ["Holākā", "Holikā", "Holā"],
+      "kind": "event",
+      "mentions": [
+        {
+          "paragraph_id": "p-4be8fa",
+          "quote": "On Phālguna Paurṇamāsī is Holākā.",
+          "role": "festival fixed to Phālguna full moon"
+        },
+        {
+          "paragraph_id": "p-5a8fd7",
+          "quote": "At the coming of night, Holākā should be worshipped, facing all directions.",
+          "role": "festival rite to be performed at nightfall"
+        },
+        {
+          "paragraph_id": "p-5ad033",
+          "quote": "And this should not be performed during Bhadrā",
+          "role": "festival that must avoid the Bhadrā karaṇa"
+        }
+      ],
+      "description": "The Holī festival (Holākā/Holikā), fixed to the Phālguna Paurṇamāsī and performed at the coming of night, whose timing is extensively regulated by the interplay of Bhadrā, eclipse, and available pradoṣa.",
+      "justification": "Holākā is the subject of an extended dedicated section (paragraphs 1363–1394) analysing all edge cases for its timing, making it a central event-entity in this window."
+    },
+    {
+      "canonical_name": "Tripurotsava",
+      "surface_names": ["Tripurotsava", "burning of the three cities"],
+      "kind": "event",
+      "mentions": [
+        {
+          "paragraph_id": "p-005b0b",
+          "quote": "For the burning of the three cities (Tripurotsava), the Kārtika Paurṇamāsī that pervades the twilight should be taken.",
+          "role": "festival requiring Kārtika Paurṇamāsī pervading twilight"
+        },
+        {
+          "paragraph_id": "p-29ec91",
+          "quote": "On Paurṇamāsī, in the twilight, the festival of the three cities (Tripurotsavaḥ) should be performed.",
+          "role": "festival rite to be performed at twilight"
+        }
+      ],
+      "description": "The festival of the burning of Tripura (the three demon cities), fixed to the Kārtika Paurṇamāsī that pervades the evening twilight, and cited from the Brahma Purāṇa.",
+      "justification": "Tripurotsava is named in two consecutive paragraphs as a distinct festival whose tithi-determination rule (pervasion of twilight) is part of the text's survey of festival timings."
+    },
+    {
+      "canonical_name": "Upākarma",
+      "surface_names": ["Upākarma", "Upākṛtya", "Upākṛti"],
+      "kind": "event",
+      "mentions": [
+        {
+          "paragraph_id": "p-ec00fe",
+          "quote": "In the bright fortnight, with Hasta, the Upākarma is in the afternoon.",
+          "role": "annual rite of Vedic commencement"
+        },
+        {
+          "paragraph_id": "p-7c5783",
+          "quote": "And this Upākarma should be performed by Brahmacārins, householders, and forest-dwellers, because it is obligatory.",
+          "role": "obligatory rite for all three āśramas"
+        }
+      ],
+      "description": "The annual rite marking the commencement of Vedic study, obligatory for Brahmacārins, householders, and forest-dwellers, performed in the bright fortnight with the Hasta nakṣatra (or with the sun in Leo for Sāmagas).",
+      "justification": "Upākarma is the ritual whose timing rules open this window and whose conclusion is explicitly marked at paragraph p-727862, establishing it as the first of the two main event-entities discussed."
+    },
+    {
+      "canonical_name": "Utsarjana",
+      "surface_names": ["Utsarjana", "Utsarga", "Utsarjana of the Vedas"],
+      "kind": "event",
+      "mentions": [
+        {
+          "paragraph_id": "p-669a7b",
+          "quote": "Now, Utsarjana.",
+          "role": "topic of new section"
+        },
+        {
+          "paragraph_id": "p-0d45ea",
+          "quote": "'Utsarjana' means the absence of study of the dark fortnight, not the absence of all study.",
+          "role": "definition of the rite"
+        },
+        {
+          "paragraph_id": "p-0d08d1",
+          "quote": "Thus ends the determination of the time of Utsarjana.",
+          "role": "section conclusion marker"
+        }
+      ],
+      "description": "The annual rite of Vedic suspension marking the close of the formal study season, defined as cessation of study during the dark fortnight, with timing determined by a complex of smṛti authorities citing various nakṣatras and months.",
+      "justification": "Utsarjana is the central ritual topic of paragraphs 1316–1346, with its definition, multiple timing opinions from different authorities, and reconciliation all explicitly addressed."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Tithi-determination methodology: pervasion and junction rules",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-932ad9",
+          "quote": "When the Upākarma is on Śrāvaṇī, then it is in the forenoon on the bright Pratipad of the month of Puṣya; when it is on Prauṣṭhapadī, then in Māgha. This is a regulated option"
+        },
+        {
+          "paragraph_id": "p-1402",
+          "quote": "since that is extremely subtle and it is impossible to perform even the commencement there, here, by metaphorical interpretation (lakṣaṇā), the words Paurṇamāsī and Amāvāsyā enjoin the two-day period"
+        },
+        {
+          "paragraph_id": "p-46136d",
+          "quote": "Because of the subtlety of the time of the junction, the domain of the junction is stated. / The ancients call proximity the domain, either on the preceding day or on the succeeding."
+        }
+      ],
+      "justification": "A large portion of the window (paragraphs 1396–1561) is devoted to determining which day counts as the festival day when Paurṇamāsī or Amāvāsyā is split across two calendar days, making junction methodology the dominant technical theme."
+    },
+    {
+      "topic": "Authority-hierarchy and reconciliation of conflicting smṛti opinions",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-1323",
+          "quote": "This is a regulated option, because Manu himself has prescribed the study for four and a half months"
+        },
+        {
+          "paragraph_id": "p-1328",
+          "quote": "The Rohiṇī of the month of Pauṣa is only in the bright fortnight, because there is no proof for the supersession of the bright fortnight prescribed by Manu."
+        },
+        {
+          "paragraph_id": "p-cfc4a8",
+          "quote": "Mādhava, Āpastamba, and the author of the Bhāṣyārthasaṅgraha, however, say that from the previously cited statements of the Taittirīya and Aitareya, for the followers of the Āpastamba and Āśvalāyana schools, in an afternoon junction, the sacrifice is only when the moon is seen."
+        }
+      ],
+      "justification": "The text repeatedly marshals multiple competing authorities (Manu, Yājñavalkya, Baudhāyana, Āpastamba, Laugākṣi) and uses principles like regulated option (niyama) and extension (atideśa) to resolve contradictions, revealing a sustained concern with smṛti hierarchy."
+    },
+    {
+      "topic": "School-differentiated ritual practice (śākhā-bhedena)",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-7b81b9",
+          "quote": "And this applies to those other than the Vājasaneyins."
+        },
+        {
+          "paragraph_id": "p-f6076c",
+          "quote": "And these options are regulated according to one's own gṛhya text."
+        },
+        {
+          "paragraph_id": "p-cfc4a8",
+          "quote": "for the followers of the Āpastamba and Āśvalāyana schools, in an afternoon junction, the sacrifice is only when the moon is seen."
+        }
+      ],
+      "justification": "Multiple passages explicitly distinguish rules by Vedic school (Chandogas/Sāmagas, Vājasaneyins, Āpastamba-followers, Āśvalāyana-followers, Baudhāyana-followers), showing that school-differentiation is a conscious organizing principle."
+    },
+    {
+      "topic": "Vedic study as ongoing religious obligation (svādhyāya)",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-7c5783",
+          "quote": "its obligatory nature is because it revitalizes the mantras which are subordinate elements of the obligatory rite in the form of the Brahmayajña"
+        },
+        {
+          "paragraph_id": "p-eaaeb3",
+          "quote": "The Upākarma with the Utsarga that is performed annually by the twice-born according to the rules, / by that, there is a revitalization of the Vedas."
+        },
+        {
+          "paragraph_id": "p-22ecb5",
+          "quote": "it is also for the sake of the obligatory study, and thus must be performed by all. And study is for all."
+        }
+      ],
+      "justification": "The opening section grounds Upākarma's obligatory character in its function of revitalizing (saṃskāra of) mantras needed for the Brahmayajña, establishing Vedic study as a perpetual religious duty underlying the entire calendar system discussed."
+    },
+    {
+      "topic": "Ritual impurity and lunar events (eclipse, moon-sighting)",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-a4d9cb",
+          "quote": "For all social classes, there is ritual impurity (sūtaka) at the sight of Rāhu. / Having bathed, one should perform the rites, but should avoid cooked food."
+        },
+        {
+          "paragraph_id": "p-1475",
+          "quote": "On Amāvāsyā, however, the iṣṭi is when the moon is seen; this is agreed upon by all."
+        },
+        {
+          "paragraph_id": "p-cd9f0c",
+          "quote": "On the day it is not seen, that day is Amāvāsyā, or on the day when they will not see it on the morrow."
+        }
+      ],
+      "justification": "Whether the moon is seen is a recurring technical criterion affecting both the Holākā and the Amāvāsyā sacrifice sections, and the eclipse of Rāhu generates explicit ritual-impurity rules, connecting astronomical observation to purity law."
+    },
+    {
+      "topic": "Hermeneutical use of lakṣaṇā (metaphorical extension) in ritual exegesis",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-1402",
+          "quote": "here, by metaphorical interpretation (lakṣaṇā), the words Paurṇamāsī and Amāvāsyā enjoin the two-day period"
+        },
+        {
+          "paragraph_id": "p-1403",
+          "quote": "in \"one should sacrifice at the junction-point,\" the word sandhi also refers, by metaphorical interpretation, to such a two-day period."
+        }
+      ],
+      "justification": "The text explicitly names lakṣaṇā as the hermeneutic device that extends the denotation of 'Paurṇamāsī' from a precise astronomical moment to a two-day ritual window, revealing how Mīmāṃsā language-philosophy underpins practical festival scheduling."
+    },
+    {
+      "topic": "Auspicious vs. inauspicious karaṇas (Bhadrā / Viṣṭi) and ritual timing",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-5ad033",
+          "quote": "And this should not be performed during Bhadrā, from the previously cited verse, \"Two things should not be done in Bhadrā.\"",
+          "quote": "And this should not be performed during Bhadrā"
+        },
+        {
+          "paragraph_id": "p-2b4631",
+          "quote": "Whatever rites there are on earth, whether auspicious or inauspicious, // all of them succeed in the tail of Viṣṭi, there is no doubt."
+        },
+        {
+          "paragraph_id": "p-268498",
+          "quote": "one should light the Holā at the end of Bhadrā, even at the end of midnight."
+        }
+      ],
+      "justification": "The Holākā section is structured around the avoidance of Bhadrā (Viṣṭi karaṇa) and the exception for its 'tail' portion, making the auspiciousness of karaṇas an implicit but load-bearing calendrical principle."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Manusmṛti",
+      "cited_author": "Manu",
+      "stance": "authority",
+      "paragraph_id": "p-384bb1",
+      "quote": "In Puṣya, a twice-born should perform the Utsarjana of the Vedas outside. / Or, when the bright fortnight of Māgha has arrived, in the forenoon, on the first day. // (Manu 4.96)",
+      "justification": "The Manusmṛti verse 4.96 is quoted verbatim with chapter-verse citation as the primary authority establishing Utsarjana timing."
+    },
+    {
+      "cited_work": "Manusmṛti",
+      "cited_author": "Manu",
+      "stance": "authority",
+      "paragraph_id": "p-470c30",
+      "quote": "Having thus performed the Utsarga of the Vedas outside according to the rules, / one should cease for a night and a day, or for a day and a night. // (Manu 4.97) From then on, however, he should study the Vedas with restraint in the bright fortnights. / He should study the Vedāṅgas and the secret texts in the dark fortnights. // (Manu 4.98)",
+      "justification": "Manu 4.97-98 are quoted together with verse numbers as the basis for the study schedule after Utsarjana."
+    },
+    {
+      "cited_work": "Manusmṛti",
+      "cited_author": "Manu",
+      "stance": "authority",
+      "paragraph_id": "p-496808",
+      "quote": "Having performed the Upākṛtya on Śrāvaṇī or Prauṣṭhapadī according to the rules, / a Brahmin, being restrained, should study the Vedas for four and a half months. // (Manu 4.95)",
+      "justification": "Manu 4.95 is quoted with verse number to establish the four-and-a-half-month study period as a regulated option."
+    },
+    {
+      "cited_work": "Yājñavalkyasmṛti",
+      "cited_author": "Yājñavalkya",
+      "stance": "authority",
+      "paragraph_id": "p-876164",
+      "quote": "In the month of Pauṣa, on Rohiṇī, or on the Aṣṭakā, / at the water's edge, one should perform the Utsarga of the Vedas outside according to the rules.",
+      "justification": "A verse from Yājñavalkya's smṛti is cited as an alternative Utsarjana timing authority to supplement Manu's rule."
+    },
+    {
+      "cited_work": "Āpastamba-sūtra",
+      "cited_author": "Āpastamba",
+      "stance": "authority",
+      "paragraph_id": "p-5c4495",
+      "quote": "Āpastamba says: \"On the Paurṇamāsī of Taiṣya, or on Rohiṇī, he should cease.\"",
+      "justification": "Āpastamba's sūtra is directly quoted as a gṛhya-tradition corroborating source for the Rohiṇī-based Utsarjana timing."
+    },
+    {
+      "cited_work": "Baudhāyana-gṛhyasūtra",
+      "cited_author": "Baudhāyana",
+      "stance": "authority",
+      "paragraph_id": "p-e99556",
+      "quote": "Baudhāyana says: \"Having performed the Upākṛtya on Śrāvaṇī or Āṣāḍhī, he should perform the Utsarga on Taiṣyā or Mādhyā.\"",
+      "justification": "Baudhāyana's gṛhyasūtra is directly quoted to provide school-correlated Upākarma-Utsarjana timing pairs."
+    },
+    {
+      "cited_work": "Āśvalāyana-gṛhyasūtra",
+      "cited_author": "Āśvalāyana",
+      "stance": "authority",
+      "paragraph_id": "p-3a2cee",
+      "quote": "Having begun the Utsarjana, Āśvalāyana says: \"On the middle Aṣṭakā, having offered an oblation of food to these deities, they go to the water.\"",
+      "justification": "Āśvalāyana's gṛhyasūtra is quoted for the procedural detail of the Utsarjana rite."
+    },
+    {
+      "cited_work": "Baḍvṛcagṛhyakārikā",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-032613",
+      "quote": "The Utsarjana of the Vedas is prescribed on Māghī Paurṇamāsī.",
+      "justification": "The Baḍvṛcagṛhyakārikā is named as the source of the verse prescribing Māghī Paurṇamāsī for Utsarjana."
+    },
+    {
+      "cited_work": "Chandogagṛhyapariśiṣṭa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-acde61",
+      "quote": "It is said in the Chandogagṛhyapariśiṣṭa:",
+      "justification": "The Chandogagṛhyapariśiṣṭa is cited as the source for the rule governing Upākarma when Hasta precedes Puṣya in Prauṣṭhapada."
+    },
+    {
+      "cited_work": "Khādiragṛhya",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-6eda6d",
+      "quote": "another time is stated in the Khādiragṛhya:",
+      "justification": "The Khādiragṛhya is cited as the source for the option of performing Utsarjana on the same day as Upākarma for very diligent students."
+    },
+    {
+      "cited_work": "Brāhma Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-7846c2",
+      "quote": "This is from the Brāhma Purāṇa.",
+      "justification": "The Brāhma Purāṇa is cited as the source of the verse prescribing Svātī-based anointing bath on the Dīpāvalī Amāvāsyā."
+    },
+    {
+      "cited_work": "Bhaviṣya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-4bfee3",
+      "quote": "This is from the Bhaviṣya Purāṇa.",
+      "justification": "The Bhaviṣya Purāṇa is cited multiple times as the source of verses on lamp-offering, Alakṣmī expulsion, and Holī timing rules."
+    },
+    {
+      "cited_work": "Bhaviṣyottara Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-8c29e6",
+      "quote": "This is from the Bhaviṣyottara.",
+      "justification": "The Bhaviṣyottara (supplement to the Bhaviṣya Purāṇa) is cited as the source of the verse on lighting Holā at the end of Bhadrā when the full tithi lasts more than two yāmas."
+    },
+    {
+      "cited_work": "Brahma Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-e55fd2",
+      "quote": "This is from the Brahma Purāṇa.",
+      "justification": "The Brahma Purāṇa is cited as the source of the verse prescribing Tripurotsava at Kārtika Paurṇamāsī twilight."
+    },
+    {
+      "cited_work": "Nirṇayasindhu",
+      "cited_author": null,
+      "stance": "neutral",
+      "paragraph_id": "p-e50e56",
+      "quote": "The reading in the Nirṇayasindhu, etc., is \"in the forenoon, in a place without an opening.\"",
+      "justification": "The Nirṇayasindhu (another nibandha) is mentioned as transmitting an alternative reading, showing intertextual awareness among digests."
+    },
+    {
+      "cited_work": "Smṛtyarthasāra",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-095639",
+      "quote": "In the Smṛtyarthasāra, however, it is said that the determination is always by the scripture on the junction",
+      "justification": "The Smṛtyarthasāra is named as a nibandha holding the position that junction scripture always determines the festival day, presented as an alternative school of interpretation."
+    },
+    {
+      "cited_work": "Taittirīya Brāhmaṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-689b1c",
+      "quote": "This is indeed the iṣṭi of the good-minded, for him who sacrifices and whom the moon rises upon afterwards; for him, there is prosperity in this very world.",
+      "justification": "The Taittirīya Brāhmaṇa is quoted as a śruti source whose verse on moonrise and sacrifice is used by Mādhava and others to argue for school-differentiated moon-sighting rules."
+    },
+    {
+      "cited_work": "Aitareya Brāhmaṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-d7a6d2",
+      "quote": "Before Amāvāsyā, when the moon rises, he sacrifices.",
+      "justification": "The Aitareya Brāhmaṇa is quoted alongside the Taittirīya Brāhmaṇa as a śruti source for the practice of sacrificing at moonrise, invoked in the debate about Amāvāsyā sacrifice rules."
+    },
+    {
+      "cited_work": "Taittirīya-śruti",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-776088",
+      "quote": "This is from the Taittirīya-śruti.",
+      "justification": "The Taittirīya-śruti is cited as the source of the verse listing Kṛttikā to Viśākhā as the lunar mansions of the gods, used to establish the nakṣatra range for modified rites."
+    },
+    {
+      "cited_work": "Bhāṣyārthasaṅgraha",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-cfc4a8",
+      "quote": "Mādhava, Āpastamba, and the author of the Bhāṣyārthasaṅgraha, however, say...",
+      "justification": "The Bhāṣyārthasaṅgraha (a digest of sūtra commentary) is cited as a third party holding the moon-sighting sacrifice position for certain schools."
+    },
+    {
+      "cited_work": "Bāṣyārthasaṅgraha",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-30ca26",
+      "quote": "the author of the Bāṣyārthasaṅgraha has stated a two-day performance even there.",
+      "justification": "The Bāṣyārthasaṅgraha (variant spelling) is cited for the ruling that Vājasaneyins follow a two-day performance even for the kharvikā junction."
+    },
+    {
+      "cited_work": "Saṅgraha",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-b0e3d3",
+      "quote": "This is from the statement of the Saṅgraha.",
+      "justification": "A text called the Saṅgraha is cited as the source of the verse on the optional single-day performance for Paurṇamāsī when the junction falls before the turning-point."
+    }
+  ]
+}

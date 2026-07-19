@@ -20,11 +20,11 @@ translator: thothica
 
 A twice-born with downcast eyes, malicious, intent on achieving his own ends, crooked, and falsely humble, is one who follows the heron's mode of life. // Mn_4.196[197M] //
 
-Those Brahmanas who follow the heron's mode of life and those who wear the mask of a cat, they fall into the hell of utter darkness because of that sinful action. // Mn_4.197[198M] //
+Those Brāhmaṇas who follow the heron's mode of life and those who wear the mask of a cat, they fall into the hell of utter darkness because of that sinful action. // Mn_4.197[198M] //
 
-One should not, under the pretext of Dharma, commit a sin and then perform a vow; nor, concealing a sin with a vow, practice deception on women and Shudras. // Mn_4.198[199M] //
+One should not, under the pretext of Dharma, commit a sin and then perform a vow; nor, concealing a sin with a vow, practice deception on women and Śūdras. // Mn_4.198[199M] //
 
-Such Brahmanas are condemned by the expounders of the Veda both in this world and the next; and a vow performed with deceit goes to the Rakshasas. // Mn_4.199[200M] //
+Such Brāhmaṇas are condemned by the expounders of the Veda both in this world and the next; and a vow performed with deceit goes to the Rākṣasas. // Mn_4.199[200M] //
 
 He who, not belonging to a religious order, makes a living by wearing its garb, he takes away the sin of those who belong to that order and is born in the womb of an animal. // Mn_4.200[201M] //
 
@@ -36,19 +36,19 @@ One should always bathe in rivers, in pools dug by the gods, in tanks, and in la
 
 A wise man should always observe the major restraints (*yamas*), but not always the minor ones (*niyamas*); by not performing the *yamas* but observing only the *niyamas*, he falls. // Mn_4.204[205M] //
 
-A Brahmana should never eat at a sacrifice offered by one who is not a learned Brahmana, nor at one performed by a village priest, nor at one offered by a woman or a eunuch. // Mn_4.205[206M] //
+A Brāhmaṇa should never eat at a sacrifice offered by one who is not a learned Brāhmaṇa, nor at one performed by a village priest, nor at one offered by a woman or a eunuch. // Mn_4.205[206M] //
 
 It is offensive to the good where these offer oblations; it is repugnant to the gods; therefore, one should avoid it. // Mn_4.206[207M] //
 
 One should never eat the food of the intoxicated, the angry, or the sick; nor food contaminated with hair or insects, nor that which has been intentionally touched by a foot. // Mn_4.207[208M] //
 
-Nor that which has been looked at by the slayer of a learned Brahmana, nor touched by a menstruating woman, nor pecked at by a bird, nor touched by a dog. // Mn_4.208[209M] //
+Nor that which has been looked at by the slayer of a learned Brāhmaṇa, nor touched by a menstruating woman, nor pecked at by a bird, nor touched by a dog. // Mn_4.208[209M] //
 
 Nor food sniffed at by a cow, nor food publicly proclaimed, nor the food of a corporation, nor the food of a prostitute, nor that which is despised by the learned. // Mn_4.209[210M] //
 
 Nor the food of a thief or a singer, of a carpenter or a usurer, of one initiated for a sacrifice, of a miser, or of one bound in fetters. // Mn_4.210[211M] //
 
-Nor of one accused of a great sin, of a eunuch, of an unchaste woman, or of a hypocrite; nor what is sour or stale, nor the leftovers of a Shudra. // Mn_4.211[212M] //
+Nor of one accused of a great sin, of a eunuch, of an unchaste woman, or of a hypocrite; nor what is sour or stale, nor the leftovers of a Śūdra. // Mn_4.211[212M] //
 
 Nor of a physician, a hunter, a cruel man, or one who eats leftovers; nor the food of a violent man, nor food from a house under impurity from childbirth, nor food that has been sipped from but not yet eaten, nor that from the first ten days after a cow has calved. // Mn_4.212[213M] //
 
@@ -62,7 +62,7 @@ Nor of dog-keepers, nor of liquor-sellers, nor of a washerman, a dyer, a cruel m
 
 Nor of those who tolerate a paramour, nor of those who are completely ruled by women, nor food offered to a corpse before the ten days of impurity are over, nor that which gives no satisfaction. // Mn_4.217[218M] //
 
-A king's food takes away energy; a Shudra's food, spiritual luster; a goldsmith's food, lifespan; and a leather-worker's food, fame. // Mn_4.218[219M] //
+A king's food takes away energy; a Śūdra's food, spiritual luster; a goldsmith's food, lifespan; and a leather-worker's food, fame. // Mn_4.218[219M] //
 
 An artisan's food destroys progeny; a washerman's, strength; the food of a corporation and of a prostitute cuts one off from the worlds. // Mn_4.219[220M] //
 
@@ -72,11 +72,11 @@ As for these others whose food is forbidden and who have been enumerated in orde
 
 Having unintentionally eaten the food of any of these, one must fast for three days; having eaten it intentionally, one must perform a Kricchra penance, and the same for eating semen, feces, or urine. // Mn_4.222[223M] //
 
-A learned twice-born should not eat the cooked food of a Shudra who does not perform the *śrāddha*; but if he has no livelihood, he may take uncooked food from him for one night. // Mn_4.223[224M] //
+A learned twice-born should not eat the cooked food of a Śūdra who does not perform the *śrāddha*; but if he has no livelihood, he may take uncooked food from him for one night. // Mn_4.223[224M] //
 
-The gods, having considered both the food of a learned but miserly Brahmana and that of a generous usurer, declared them to be equal. // Mn_4.224[225M] //
+The gods, having considered both the food of a learned but miserly Brāhmaṇa and that of a generous usurer, declared them to be equal. // Mn_4.224[225M] //
 
-Prajapati, approaching them, said, "Do not make the unequal equal. The food of the generous man is purified by faith; the other is destroyed by lack of faith." // Mn_4.225[226M] //
+Prajāpati, approaching them, said, "Do not make the unequal equal. The food of the generous man is purified by faith; the other is destroyed by lack of faith." // Mn_4.225[226M] //
 
 With faith, one should always, without weariness, perform sacrifices and pious works; for those done with faith, with wealth rightly acquired, become imperishable. // Mn_4.226[227M] //
 
@@ -98,9 +98,9 @@ With whatever disposition a man gives any gift, with that same disposition he re
 
 He who accepts a gift with honor, and he who gives one with honor—both go to heaven; but in the opposite case, to hell. // Mn_4.235[236M] //
 
-One should not be proud of one's *tapas*, nor speak an untruth after performing a sacrifice; even when distressed, one should not revile Brahmanas, nor boast after giving a gift. // Mn_4.236[237M] //
+One should not be proud of one's *tapas*, nor speak an untruth after performing a sacrifice; even when distressed, one should not revile Brāhmaṇas, nor boast after giving a gift. // Mn_4.236[237M] //
 
-A sacrifice perishes through falsehood; *tapas* perishes through pride; lifespan perishes through reviling Brahmanas; and a gift perishes through boasting. // Mn_4.237[238M] //
+A sacrifice perishes through falsehood; *tapas* perishes through pride; lifespan perishes through reviling Brāhmaṇas; and a gift perishes through boasting. // Mn_4.237[238M] //
 
 One should slowly accumulate Dharma, as termites build an anthill, for the sake of a companion in the next world, without harming any beings. // Mn_4.238[239M] //
 
@@ -116,23 +116,23 @@ Dharma quickly leads a man for whom it is the chief thing, whose sins have been 
 
 One who wishes to elevate his family should always form connections with the best of the best, and abandon the lowest of the low. // Mn_4.244[245M] //
 
-By aspiring to the highest of the high and avoiding the low, a Brahmana attains excellence; by the opposite, he attains the state of a Shudra. // Mn_4.245[246M] //
+By aspiring to the highest of the high and avoiding the low, a Brāhmaṇa attains excellence; by the opposite, he attains the state of a Śūdra. // Mn_4.245[246M] //
 
 One who is resolute, gentle, self-controlled, not living with those of cruel conduct, non-violent, and who follows his vow—he conquers heaven through self-restraint and giving. // Mn_4.246[247M] //
 
 Fuel, water, roots, fruit, and whatever food is offered, one may accept from anyone; and also honey and a gift of protection. // Mn_4.247[248M] //
 
-Prajapati considered that alms, brought and offered without being previously solicited, may be accepted even from a man of evil deeds. // Mn_4.248[249M] //
+Prajāpati considered that alms, brought and offered without being previously solicited, may be accepted even from a man of evil deeds. // Mn_4.248[249M] //
 
 The ancestors of him who scorns such an offering do not eat for fifteen years, nor does the fire carry his oblation. // Mn_4.249[250M] //
 
-A bed, houses, Kusha grass, perfumes, water, a flower, jewels, curds, parched grains, fish, milk, meat, and vegetables—these one should not refuse when offered. // Mn_4.250[251M] //
+A bed, houses, Kuśa grass, perfumes, water, a flower, jewels, curds, parched grains, fish, milk, meat, and vegetables—these one should not refuse when offered. // Mn_4.250[251M] //
 
 Desiring to support his *gurus* and dependents, and to worship the deities and guests, he may accept gifts from anyone, but he should not satisfy himself with them. // Mn_4.251[252M] //
 
 But when his *gurus* have passed away, or when living in a house without them, seeking a livelihood for himself, he should always accept gifts from good people. // Mn_4.252[253M] //
 
-A sharecropper, a family friend, a cowherd, a servant, and a barber—among Shudras, the food of these may be eaten, and also of one who offers himself as a servant. // Mn_4.253[254M] //
+A sharecropper, a family friend, a cowherd, a servant, and a barber—among Śūdras, the food of these may be eaten, and also of one who offers himself as a servant. // Mn_4.253[254M] //
 
 Whatever his own nature may be, and whatever he may wish to do, and how he may serve him—so should he present himself. // Mn_4.254[255M] //
 
@@ -144,17 +144,17 @@ Having discharged his debts to the great sages, the ancestors, and the gods acco
 
 Alone, in a secluded place, he should always contemplate what is beneficial for his soul; for one who contemplates alone attains the supreme good. // Mn_4.258[259M] //
 
-This has been declared as the eternal rule of life for a Brahmana householder, and the rule for the vows of a *snātaka*, which is auspicious and increases goodness. // Mn_4.259[260M] //
+This has been declared as the eternal rule of life for a Brāhmaṇa householder, and the rule for the vows of a *snātaka*, which is auspicious and increases goodness. // Mn_4.259[260M] //
 
-A Brahmana who knows the Veda and the sacred treatises, living by this rule of life, is always freed from sin and is exalted in the world of Brahma. // Mn_4.260[261M] //
+A Brāhmaṇa who knows the Veda and the sacred treatises, living by this rule of life, is always freed from sin and is exalted in the world of Brahma. // Mn_4.260[261M] //
 
-Having heard these Dharmas of a *snātaka* as they had been declared, the sages spoke this to the great-souled Bhrigu, who was born of fire. // Mn_5.1 //
+Having heard these Dharmas of a *snātaka* as they had been declared, the sages spoke this to the great-souled Bhṛgu, who was born of fire. // Mn_5.1 //
 
-"O Lord, for Brahmanas who thus follow their own Dharma as prescribed, how does death have power over these knowers of the Veda and the sacred treatises?" // Mn_5.2 //
+"O Lord, for Brāhmaṇas who thus follow their own Dharma as prescribed, how does death have power over these knowers of the Veda and the sacred treatises?" // Mn_5.2 //
 
-The righteous-souled Bhrigu, descendant of Manu, said to those great sages: "Listen, by what fault death desires to slay Brahmanas." // Mn_5.3 //
+The righteous-souled Bhṛgu, descendant of Manu, said to those great sages: "Listen, by what fault death desires to slay Brāhmaṇas." // Mn_5.3 //
 
-Through neglect of the study of the Vedas, through abandonment of proper conduct, through laziness, and through the fault of eating forbidden food, death desires to slay Brahmanas. // Mn_5.4 //
+Through neglect of the study of the Vedas, through abandonment of proper conduct, through laziness, and through the fault of eating forbidden food, death desires to slay Brāhmaṇas. // Mn_5.4 //
 
 Garlic, a type of onion/leek, and also onion, and mushrooms, and things grown on impure ground are forbidden foods for the twice-born. // Mn_5.5 //
 
@@ -190,9 +190,9 @@ Having unintentionally eaten these six, he should perform a Kricchra Santapana p
 
 A best of the twice-born should perform at least one Kricchra penance a year for the purification of eating forbidden food unknowingly, and especially for doing so knowingly. // Mn_5.21 //
 
-For the sake of a sacrifice, praiseworthy beasts and birds may be slain by Brahmanas, and also for the sustenance of dependents, for Agastya did so in ancient times. // Mn_5.22 //
+For the sake of a sacrifice, praiseworthy beasts and birds may be slain by Brāhmaṇas, and also for the sustenance of dependents, for Agastya did so in ancient times. // Mn_5.22 //
 
-For in ancient sacrifices and in the sacrificial sessions of Brahmanas and Kshatriyas, the sacrificial cakes were made of the meat of edible beasts and birds. // Mn_5.23 //
+For in ancient sacrifices and in the sacrificial sessions of Brāhmaṇas and Kṣatriyas, the sacrificial cakes were made of the meat of edible beasts and birds. // Mn_5.23 //
 
 Whatever edible or enjoyable food is mixed with fat and is not reprehensible, that may be eaten even if stale, as may whatever is the remnant of an oblation. // Mn_5.24 //
 
@@ -200,9 +200,9 @@ But all things made of barley and wheat, and all preparations of milk, may be ea
 
 This has been declared in its entirety concerning what may and may not be eaten by the twice-born; now I will declare the rule concerning the eating and avoidance of meat. // Mn_5.26 //
 
-One may eat meat that has been sprinkled with consecrated water, and when it is the wish of Brahmanas, and when one is appointed according to the rule, and when one's life is in danger. // Mn_5.27 //
+One may eat meat that has been sprinkled with consecrated water, and when it is the wish of Brāhmaṇas, and when one is appointed according to the rule, and when one's life is in danger. // Mn_5.27 //
 
-Prajapati ordained all this as food for the living spirit; both the immovable and the movable, everything is food for the living spirit. // Mn_5.28 //
+Prajāpati ordained all this as food for the living spirit; both the immovable and the movable, everything is food for the living spirit. // Mn_5.28 //
 
 The unmoving are the food of the moving; those without fangs are the food of those with fangs; those without hands are the food of those with hands; and the timid are the food of the brave. // Mn_5.29 //
 
@@ -218,7 +218,7 @@ The sin of a hunter who kills game for money is not as great as that which accru
 
 But the man who, having been duly appointed according to the rule, does not eat meat, he, after death, attains the state of an animal for twenty-one births. // Mn_5.35 //
 
-A Brahmana should never eat animals that have not been consecrated with sacred formulas; but he should eat those consecrated with sacred formulas, adhering to the eternal rule. // Mn_5.36 //
+A Brāhmaṇa should never eat animals that have not been consecrated with sacred formulas; but he should eat those consecrated with sacred formulas, adhering to the eternal rule. // Mn_5.36 //
 
 In a rite, one may make an animal of ghee, or one may make an animal of flour; but one should never wish to kill an animal for no purpose. // Mn_5.37 //
 

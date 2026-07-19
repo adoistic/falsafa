@@ -1,0 +1,1108 @@
+9.1.1	svādi̍ṣṭhayā̱ madi̍ṣṭhayā̱ pava̍sva soma̱ dhāra̍yā | indrā̍ya̱ pāta̍ve su̱taḥ ||
+9.1.2	ra̱kṣo̱hā vi̱śvaca̍rṣaṇir a̱bhi yoni̱m ayo̍hatam | druṇā̍ sa̱dhastha̱m āsa̍dat ||
+9.1.3	va̱ri̱vo̱dhāta̍mo bhava̱ maṁhi̍ṣṭho vṛtra̱hanta̍maḥ | parṣi̱ rādho̍ ma̱ghonā̍m ||
+9.1.4	a̱bhy a̍rṣa ma̱hānā̍ṁ de̱vānā̍ṁ vī̱tim andha̍sā | a̱bhi vāja̍m u̱ta śrava̍ḥ ||
+9.1.5	tvām acchā̍ carāmasi̱ tad id artha̍ṁ di̱ve-di̍ve | indo̱ tve na̍ ā̱śasa̍ḥ ||
+9.1.6	pu̱nāti̍ te pari̱sruta̱ṁ soma̱ṁ sūrya̍sya duhi̱tā | vāre̍ṇa̱ śaśva̍tā̱ tanā̍ ||
+9.1.7	tam ī̱m aṇvī̍ḥ sama̱rya ā gṛ̱bhṇanti̱ yoṣa̍ṇo̱ daśa̍ | svasā̍ra̱ḥ pārye̍ di̱vi ||
+9.1.8	tam ī̍ṁ hinvanty a̱gruvo̱ dhama̍nti bāku̱raṁ dṛti̍m | tri̱dhātu̍ vāra̱ṇam madhu̍ ||
+9.1.9	a̱bhī̱3̱̍mam aghnyā̍ u̱ta śrī̱ṇanti̍ dhe̱nava̱ḥ śiśu̍m | soma̱m indrā̍ya̱ pāta̍ve ||
+9.1.10	a̱syed indro̱ made̱ṣv ā viśvā̍ vṛ̱trāṇi̍ jighnate | śūro̍ ma̱ghā ca̍ maṁhate ||
+9.2.1	pava̍sva deva̱vīr ati̍ pa̱vitra̍ṁ soma̱ raṁhyā̍ | indra̍m indo̱ vṛṣā vi̍śa ||
+9.2.2	ā va̍cyasva̱ mahi̱ psaro̱ vṛṣe̍ndo dyu̱mnava̍ttamaḥ | ā yoni̍ṁ dharṇa̱siḥ sa̍daḥ ||
+9.2.3	adhu̍kṣata pri̱yam madhu̱ dhārā̍ su̱tasya̍ ve̱dhasa̍ḥ | a̱po va̍siṣṭa su̱kratu̍ḥ ||
+9.2.4	ma̱hānta̍ṁ tvā ma̱hīr anv āpo̍ arṣanti̱ sindha̍vaḥ | yad gobhi̍r vāsayi̱ṣyase̍ ||
+9.2.5	sa̱mu̱dro a̱psu mā̍mṛje viṣṭa̱mbho dha̱ruṇo̍ di̱vaḥ | soma̍ḥ pa̱vitre̍ asma̱yuḥ ||
+9.2.6	aci̍krada̱d vṛṣā̱ hari̍r ma̱hān mi̱tro na da̍rśa̱taḥ | saṁ sūrye̍ṇa rocate ||
+9.2.7	gira̍s ta inda̱ oja̍sā marmṛ̱jyante̍ apa̱syuva̍ḥ | yābhi̱r madā̍ya̱ śumbha̍se ||
+9.2.8	taṁ tvā̱ madā̍ya̱ ghṛṣva̍ya u lokakṛ̱tnum ī̍mahe | tava̱ praśa̍stayo ma̱hīḥ ||
+9.2.9	a̱smabhya̍m indav indra̱yur madhva̍ḥ pavasva̱ dhāra̍yā | pa̱rjanyo̍ vṛṣṭi̱mām̐ i̍va ||
+9.2.10	go̱ṣā i̍ndo nṛ̱ṣā a̍sy aśva̱sā vā̍ja̱sā u̱ta | ā̱tmā ya̱jñasya̍ pū̱rvyaḥ ||
+9.3.1	e̱ṣa de̱vo ama̍rtyaḥ parṇa̱vīr i̍va dīyati | a̱bhi droṇā̍ny ā̱sada̍m ||
+9.3.2	e̱ṣa de̱vo vi̱pā kṛ̱to 'ti̱ hvarā̍ṁsi dhāvati | pava̍māno̱ adā̍bhyaḥ ||
+9.3.3	e̱ṣa de̱vo vi̍pa̱nyubhi̱ḥ pava̍māna ṛtā̱yubhi̍ḥ | hari̱r vājā̍ya mṛjyate ||
+9.3.4	e̱ṣa viśvā̍ni̱ vāryā̱ śūro̱ yann i̍va̱ satva̍bhiḥ | pava̍mānaḥ siṣāsati ||
+9.3.5	e̱ṣa de̱vo ra̍tharyati̱ pava̍māno daśasyati | ā̱viṣ kṛ̍ṇoti vagva̱num ||
+9.3.6	e̱ṣa viprai̍r a̱bhiṣṭu̍to̱ 'po de̱vo vi gā̍hate | dadha̱d ratnā̍ni dā̱śuṣe̍ ||
+9.3.7	e̱ṣa diva̱ṁ vi dhā̍vati ti̱ro rajā̍ṁsi̱ dhāra̍yā | pava̍māna̱ḥ kani̍kradat ||
+9.3.8	e̱ṣa diva̱ṁ vy āsa̍rat ti̱ro rajā̱ṁsy aspṛ̍taḥ | pava̍mānaḥ svadhva̱raḥ ||
+9.3.9	e̱ṣa pra̱tnena̱ janma̍nā de̱vo de̱vebhya̍ḥ su̱taḥ | hari̍ḥ pa̱vitre̍ arṣati ||
+9.3.10	e̱ṣa u̱ sya pu̍ruvra̱to ja̍jñā̱no ja̱naya̱nn iṣa̍ḥ | dhāra̍yā pavate su̱taḥ ||
+9.4.1	sanā̍ ca soma̱ jeṣi̍ ca̱ pava̍māna̱ mahi̱ śrava̍ḥ | athā̍ no̱ vasya̍sas kṛdhi ||
+9.4.2	sanā̱ jyoti̱ḥ sanā̱ sva1̱̍r viśvā̍ ca soma̱ saubha̍gā | athā̍ no̱ vasya̍sas kṛdhi ||
+9.4.3	sanā̱ dakṣa̍m u̱ta kratu̱m apa̍ soma̱ mṛdho̍ jahi | athā̍ no̱ vasya̍sas kṛdhi ||
+9.4.4	pavī̍tāraḥ punī̱tana̱ soma̱m indrā̍ya̱ pāta̍ve | athā̍ no̱ vasya̍sas kṛdhi ||
+9.4.5	tvaṁ sūrye̍ na̱ ā bha̍ja̱ tava̱ kratvā̱ tavo̱tibhi̍ḥ | athā̍ no̱ vasya̍sas kṛdhi ||
+9.4.6	tava̱ kratvā̱ tavo̱tibhi̱r jyok pa̍śyema̱ sūrya̍m | athā̍ no̱ vasya̍sas kṛdhi ||
+9.4.7	a̱bhy a̍rṣa svāyudha̱ soma̍ dvi̱barha̍saṁ ra̱yim | athā̍ no̱ vasya̍sas kṛdhi ||
+9.4.8	a̱bhy a1̱̍rṣāna̍pacyuto ra̱yiṁ sa̱matsu̍ sāsa̱hiḥ | athā̍ no̱ vasya̍sas kṛdhi ||
+9.4.9	tvāṁ ya̱jñair a̍vīvṛdha̱n pava̍māna̱ vidha̍rmaṇi | athā̍ no̱ vasya̍sas kṛdhi ||
+9.4.10	ra̱yiṁ na̍ś ci̱tram a̱śvina̱m indo̍ vi̱śvāyu̱m ā bha̍ra | athā̍ no̱ vasya̍sas kṛdhi ||
+9.5.1	sami̍ddho vi̱śvata̱s pati̱ḥ pava̍māno̱ vi rā̍jati | prī̱ṇan vṛṣā̱ kani̍kradat ||
+9.5.2	tanū̱napā̱t pava̍māna̱ḥ śṛṅge̱ śiśā̍no arṣati | a̱ntari̍kṣeṇa̱ rāra̍jat ||
+9.5.3	ī̱ḻenya̱ḥ pava̍māno ra̱yir vi rā̍jati dyu̱mān | madho̱r dhārā̍bhi̱r oja̍sā ||
+9.5.4	ba̱rhiḥ prā̱cīna̱m oja̍sā̱ pava̍mānaḥ stṛ̱ṇan hari̍ḥ | de̱veṣu̍ de̱va ī̍yate ||
+9.5.5	ud ātai̍r jihate bṛ̱had dvāro̍ de̱vīr hi̍ra̱ṇyayī̍ḥ | pava̍mānena̱ suṣṭu̍tāḥ ||
+9.5.6	su̱śi̱lpe bṛ̍ha̱tī ma̱hī pava̍māno vṛṣaṇyati | nakto̱ṣāsā̱ na da̍rśa̱te ||
+9.5.7	u̱bhā de̱vā nṛ̱cakṣa̍sā̱ hotā̍rā̱ daivyā̍ huve | pava̍māna̱ indro̱ vṛṣā̍ ||
+9.5.8	bhāra̍tī̱ pava̍mānasya̱ sara̍sva̱tīḻā̍ ma̱hī | i̱maṁ no̍ ya̱jñam ā ga̍man ti̱sro de̱vīḥ su̱peśa̍saḥ ||
+9.5.9	tvaṣṭā̍ram agra̱jāṁ go̱pām pu̍ro̱yāvā̍na̱m ā hu̍ve | indu̱r indro̱ vṛṣā̱ hari̱ḥ pava̍mānaḥ pra̱jāpa̍tiḥ ||
+9.5.10	vana̱spati̍m pavamāna̱ madhvā̱ sam a̍ṅgdhi̱ dhāra̍yā | sa̱hasra̍valśa̱ṁ hari̍ta̱m bhrāja̍mānaṁ hira̱ṇyaya̍m ||
+9.5.11	viśve̍ devā̱ḥ svāhā̍kṛti̱m pava̍māna̱syā ga̍ta | vā̱yur bṛha̱spati̱ḥ sūryo̱ 'gnir indra̍ḥ sa̱joṣa̍saḥ ||
+9.6.1	ma̱ndrayā̍ soma̱ dhāra̍yā̱ vṛṣā̍ pavasva deva̱yuḥ | avyo̱ vāre̍ṣv asma̱yuḥ ||
+9.6.2	a̱bhi tyam madya̱m mada̱m inda̱v indra̱ iti̍ kṣara | a̱bhi vā̱jino̱ arva̍taḥ ||
+9.6.3	a̱bhi tyam pū̱rvyam mada̍ṁ suvā̱no a̍rṣa pa̱vitra̱ ā | a̱bhi vāja̍m u̱ta śrava̍ḥ ||
+9.6.4	anu̍ dra̱psāsa̱ inda̍va̱ āpo̱ na pra̱vatā̍saran | pu̱nā̱nā indra̍m āśata ||
+9.6.5	yam atya̍m iva vā̱jina̍m mṛ̱janti̱ yoṣa̍ṇo̱ daśa̍ | vane̱ krīḻa̍nta̱m atya̍vim ||
+9.6.6	taṁ gobhi̱r vṛṣa̍ṇa̱ṁ rasa̱m madā̍ya de̱vavī̍taye | su̱tam bharā̍ya̱ saṁ sṛ̍ja ||
+9.6.7	de̱vo de̱vāya̱ dhāra̱yendrā̍ya pavate su̱taḥ | payo̱ yad a̍sya pī̱paya̍t ||
+9.6.8	ā̱tmā ya̱jñasya̱ raṁhyā̍ suṣvā̱ṇaḥ pa̍vate su̱taḥ | pra̱tnaṁ ni pā̍ti̱ kāvya̍m ||
+9.6.9	e̱vā pu̍nā̱na i̍ndra̱yur mada̍m madiṣṭha vī̱taye̍ | guhā̍ cid dadhiṣe̱ gira̍ḥ ||
+9.7.1	asṛ̍gra̱m inda̍vaḥ pa̱thā dharma̍nn ṛ̱tasya̍ su̱śriya̍ḥ | vi̱dā̱nā a̍sya̱ yoja̍nam ||
+9.7.2	pra dhārā̱ madhvo̍ agri̱yo ma̱hīr a̱po vi gā̍hate | ha̱vir ha̱viṣṣu̱ vandya̍ḥ ||
+9.7.3	pra yu̱jo vā̱co a̍gri̱yo vṛṣāva̍ cakrada̱d vane̍ | sadmā̱bhi sa̱tyo a̍dhva̱raḥ ||
+9.7.4	pari̱ yat kāvyā̍ ka̱vir nṛ̱mṇā vasā̍no̱ arṣa̍ti | sva̍r vā̱jī si̍ṣāsati ||
+9.7.5	pava̍māno a̱bhi spṛdho̱ viśo̱ rāje̍va sīdati | yad ī̍m ṛ̱ṇvanti̍ ve̱dhasa̍ḥ ||
+9.7.6	avyo̱ vāre̱ pari̍ pri̱yo hari̱r vane̍ṣu sīdati | re̱bho va̍nuṣyate ma̱tī ||
+9.7.7	sa vā̱yum indra̍m a̱śvinā̍ sā̱kam made̍na gacchati | raṇā̱ yo a̍sya̱ dharma̍bhiḥ ||
+9.7.8	ā mi̱trāvaru̍ṇā̱ bhaga̱m madhva̍ḥ pavanta ū̱rmaya̍ḥ | vi̱dā̱nā a̍sya̱ śakma̍bhiḥ ||
+9.7.9	a̱smabhya̍ṁ rodasī ra̱yim madhvo̱ vāja̍sya sā̱taye̍ | śravo̱ vasū̍ni̱ saṁ ji̍tam ||
+9.8.1	e̱te somā̍ a̱bhi pri̱yam indra̍sya̱ kāma̍m akṣaran | vardha̍nto asya vī̱rya̍m ||
+9.8.2	pu̱nā̱nāsa̍ś camū̱ṣado̱ gaccha̍nto vā̱yum a̱śvinā̍ | te no̍ dhāntu su̱vīrya̍m ||
+9.8.3	indra̍sya soma̱ rādha̍se punā̱no hārdi̍ codaya | ṛ̱tasya̱ yoni̍m ā̱sada̍m ||
+9.8.4	mṛ̱janti̍ tvā̱ daśa̱ kṣipo̍ hi̱nvanti̍ sa̱pta dhī̱taya̍ḥ | anu̱ viprā̍ amādiṣuḥ ||
+9.8.5	de̱vebhya̍s tvā̱ madā̍ya̱ kaṁ sṛ̍jā̱nam ati̍ me̱ṣya̍ḥ | saṁ gobhi̍r vāsayāmasi ||
+9.8.6	pu̱nā̱naḥ ka̱laśe̱ṣv ā vastrā̍ṇy aru̱ṣo hari̍ḥ | pari̱ gavyā̍ny avyata ||
+9.8.7	ma̱ghona̱ ā pa̍vasva no ja̱hi viśvā̱ apa̱ dviṣa̍ḥ | indo̱ sakhā̍ya̱m ā vi̍śa ||
+9.8.8	vṛ̱ṣṭiṁ di̱vaḥ pari̍ srava dyu̱mnam pṛ̍thi̱vyā adhi̍ | saho̍ naḥ soma pṛ̱tsu dhā̍ḥ ||
+9.8.9	nṛ̱cakṣa̍saṁ tvā va̱yam indra̍pītaṁ sva̱rvida̍m | bha̱kṣī̱mahi̍ pra̱jām iṣa̍m ||
+9.9.1	pari̍ pri̱yā di̱vaḥ ka̱vir vayā̍ṁsi na̱ptyo̍r hi̱taḥ | su̱vā̱no yā̍ti ka̱vikra̍tuḥ ||
+9.9.2	pra-pra̱ kṣayā̍ya̱ panya̍se̱ janā̍ya̱ juṣṭo̍ a̱druhe̍ | vī̱ty a̍rṣa̱ cani̍ṣṭhayā ||
+9.9.3	sa sū̱nur mā̱tarā̱ śuci̍r jā̱to jā̱te a̍rocayat | ma̱hān ma̱hī ṛ̍tā̱vṛdhā̍ ||
+9.9.4	sa sa̱pta dhī̱tibhi̍r hi̱to na̱dyo̍ ajinvad a̱druha̍ḥ | yā eka̱m akṣi̍ vāvṛ̱dhuḥ ||
+9.9.5	tā a̱bhi santa̱m astṛ̍tam ma̱he yuvā̍na̱m ā da̍dhuḥ | indu̍m indra̱ tava̍ vra̱te ||
+9.9.6	a̱bhi vahni̱r ama̍rtyaḥ sa̱pta pa̍śyati̱ vāva̍hiḥ | krivi̍r de̱vīr a̍tarpayat ||
+9.9.7	avā̱ kalpe̍ṣu naḥ puma̱s tamā̍ṁsi soma̱ yodhyā̍ | tāni̍ punāna jaṅghanaḥ ||
+9.9.8	nū navya̍se̱ navī̍yase sū̱ktāya̍ sādhayā pa̱thaḥ | pra̱tna̱vad ro̍cayā̱ ruca̍ḥ ||
+9.9.9	pava̍māna̱ mahi̱ śravo̱ gām aśva̍ṁ rāsi vī̱rava̍t | sanā̍ me̱dhāṁ sanā̱ sva̍ḥ ||
+9.10.1	pra svā̱nāso̱ rathā̍ i̱vārva̍nto̱ na śra̍va̱syava̍ḥ | somā̍so rā̱ye a̍kramuḥ ||
+9.10.2	hi̱nvā̱nāso̱ rathā̍ iva dadhanvi̱re gabha̍styoḥ | bharā̍saḥ kā̱riṇā̍m iva ||
+9.10.3	rājā̍no̱ na praśa̍stibhi̱ḥ somā̍so̱ gobhi̍r añjate | ya̱jño na sa̱pta dhā̱tṛbhi̍ḥ ||
+9.10.4	pari̍ suvā̱nāsa̱ inda̍vo̱ madā̍ya ba̱rhaṇā̍ gi̱rā | su̱tā a̍rṣanti̱ dhāra̍yā ||
+9.10.5	ā̱pā̱nāso̍ vi̱vasva̍to̱ jana̍nta u̱ṣaso̱ bhaga̍m | sūrā̱ aṇva̱ṁ vi ta̍nvate ||
+9.10.6	apa̱ dvārā̍ matī̱nām pra̱tnā ṛ̍ṇvanti kā̱rava̍ḥ | vṛṣṇo̱ hara̍sa ā̱yava̍ḥ ||
+9.10.7	sa̱mī̱cī̱nāsa̍ āsate̱ hotā̍raḥ sa̱ptajā̍mayaḥ | pa̱dam eka̍sya̱ pipra̍taḥ ||
+9.10.8	nābhā̱ nābhi̍ṁ na̱ ā da̍de̱ cakṣu̍ś ci̱t sūrye̱ sacā̍ | ka̱ver apa̍tya̱m ā du̍he ||
+9.10.9	a̱bhi pri̱yā di̱vas pa̱dam a̍dhva̱ryubhi̱r guhā̍ hi̱tam | sūra̍ḥ paśyati̱ cakṣa̍sā ||
+9.11.1	upā̍smai gāyatā nara̱ḥ pava̍mānā̱yenda̍ve | a̱bhi de̱vām̐ iya̍kṣate ||
+9.11.2	a̱bhi te̱ madhu̍nā̱ payo 'tha̍rvāṇo aśiśrayuḥ | de̱vaṁ de̱vāya̍ deva̱yu ||
+9.11.3	sa na̍ḥ pavasva̱ śaṁ gave̱ śaṁ janā̍ya̱ śam arva̍te | śaṁ rā̍ja̱nn oṣa̍dhībhyaḥ ||
+9.11.4	ba̱bhrave̱ nu svata̍vase 'ru̱ṇāya̍ divi̱spṛśe̍ | somā̍ya gā̱tham a̍rcata ||
+9.11.5	hasta̍cyutebhi̱r adri̍bhiḥ su̱taṁ soma̍m punītana | madhā̱v ā dhā̍vatā̱ madhu̍ ||
+9.11.6	nama̱sed upa̍ sīdata da̱dhned a̱bhi śrī̍ṇītana | indu̱m indre̍ dadhātana ||
+9.11.7	a̱mi̱tra̱hā vica̍rṣaṇi̱ḥ pava̍sva soma̱ śaṁ gave̍ | de̱vebhyo̍ anukāma̱kṛt ||
+9.11.8	indrā̍ya soma̱ pāta̍ve̱ madā̍ya̱ pari̍ ṣicyase | ma̱na̱ścin mana̍sa̱s pati̍ḥ ||
+9.11.9	pava̍māna su̱vīrya̍ṁ ra̱yiṁ so̍ma rirīhi naḥ | inda̱v indre̍ṇa no yu̱jā ||
+9.12.1	somā̍ asṛgra̱m inda̍vaḥ su̱tā ṛ̱tasya̱ sāda̍ne | indrā̍ya̱ madhu̍mattamāḥ ||
+9.12.2	a̱bhi viprā̍ anūṣata̱ gāvo̍ va̱tsaṁ na mā̱tara̍ḥ | indra̱ṁ soma̍sya pī̱taye̍ ||
+9.12.3	ma̱da̱cyut kṣe̍ti̱ sāda̍ne̱ sindho̍r ū̱rmā vi̍pa̱ścit | somo̍ gau̱rī adhi̍ śri̱taḥ ||
+9.12.4	di̱vo nābhā̍ vicakṣa̱ṇo 'vyo̱ vāre̍ mahīyate | somo̱ yaḥ su̱kratu̍ḥ ka̱viḥ ||
+9.12.5	yaḥ soma̍ḥ ka̱laśe̱ṣv ām̐ a̱ntaḥ pa̱vitra̱ āhi̍taḥ | tam indu̱ḥ pari̍ ṣasvaje ||
+9.12.6	pra vāca̱m indu̍r iṣyati samu̱drasyādhi̍ vi̱ṣṭapi̍ | jinva̱n kośa̍m madhu̱ścuta̍m ||
+9.12.7	nitya̍stotro̱ vana̱spati̍r dhī̱nām a̱ntaḥ sa̍ba̱rdugha̍ḥ | hi̱nvā̱no mānu̍ṣā yu̱gā ||
+9.12.8	a̱bhi pri̱yā di̱vas pa̱dā somo̍ hinvā̱no a̍rṣati | vipra̍sya̱ dhāra̍yā ka̱viḥ ||
+9.12.9	ā pa̍vamāna dhāraya ra̱yiṁ sa̱hasra̍varcasam | a̱sme i̍ndo svā̱bhuva̍m ||
+9.13.1	soma̍ḥ punā̱no a̍rṣati sa̱hasra̍dhāro̱ atya̍viḥ | vā̱yor indra̍sya niṣkṛ̱tam ||
+9.13.2	pava̍mānam avasyavo̱ vipra̍m a̱bhi pra gā̍yata | su̱ṣvā̱ṇaṁ de̱vavī̍taye ||
+9.13.3	pava̍nte̱ vāja̍sātaye̱ somā̍ḥ sa̱hasra̍pājasaḥ | gṛ̱ṇā̱nā de̱vavī̍taye ||
+9.13.4	u̱ta no̱ vāja̍sātaye̱ pava̍sva bṛha̱tīr iṣa̍ḥ | dyu̱mad i̍ndo su̱vīrya̍m ||
+9.13.5	te na̍ḥ saha̱sriṇa̍ṁ ra̱yim pava̍ntā̱m ā su̱vīrya̍m | su̱vā̱nā de̱vāsa̱ inda̍vaḥ ||
+9.13.6	atyā̍ hiyā̱nā na he̱tṛbhi̱r asṛ̍gra̱ṁ vāja̍sātaye | vi vāra̱m avya̍m ā̱śava̍ḥ ||
+9.13.7	vā̱śrā a̍rṣa̱ntīnda̍vo̱ 'bhi va̱tsaṁ na dhe̱nava̍ḥ | da̱dha̱nvi̱re gabha̍styoḥ ||
+9.13.8	juṣṭa̱ indrā̍ya matsa̱raḥ pava̍māna̱ kani̍kradat | viśvā̱ apa̱ dviṣo̍ jahi ||
+9.13.9	a̱pa̱ghnanto̱ arā̍vṇa̱ḥ pava̍mānāḥ sva̱rdṛśa̍ḥ | yonā̍v ṛ̱tasya̍ sīdata ||
+9.14.1	pari̱ prāsi̍ṣyadat ka̱viḥ sindho̍r ū̱rmāv adhi̍ śri̱taḥ | kā̱ram bibhra̍t puru̱spṛha̍m ||
+9.14.2	gi̱rā yadī̱ saba̍ndhava̱ḥ pañca̱ vrātā̍ apa̱syava̍ḥ | pa̱ri̱ṣkṛ̱ṇvanti̍ dharṇa̱sim ||
+9.14.3	ād a̍sya śu̱ṣmiṇo̱ rase̱ viśve̍ de̱vā a̍matsata | yadī̱ gobhi̍r vasā̱yate̍ ||
+9.14.4	ni̱ri̱ṇā̱no vi dhā̍vati̱ jaha̱c charyā̍ṇi̱ tānvā̍ | atrā̱ saṁ ji̍ghnate yu̱jā ||
+9.14.5	na̱ptībhi̱r yo vi̱vasva̍taḥ śu̱bhro na mā̍mṛ̱je yuvā̍ | gāḥ kṛ̍ṇvā̱no na ni̱rṇija̍m ||
+9.14.6	ati̍ śri̱tī ti̍ra̱ścatā̍ ga̱vyā ji̍gā̱ty aṇvyā̍ | va̱gnum i̍yarti̱ yaṁ vi̱de ||
+9.14.7	a̱bhi kṣipa̱ḥ sam a̍gmata ma̱rjaya̍ntīr i̱ṣas pati̍m | pṛ̱ṣṭhā gṛ̍bhṇata vā̱jina̍ḥ ||
+9.14.8	pari̍ di̱vyāni̱ marmṛ̍śa̱d viśvā̍ni soma̱ pārthi̍vā | vasū̍ni yāhy asma̱yuḥ ||
+9.15.1	e̱ṣa dhi̱yā yā̱ty aṇvyā̱ śūro̱ rathe̍bhir ā̱śubhi̍ḥ | gaccha̱nn indra̍sya niṣkṛ̱tam ||
+9.15.2	e̱ṣa pu̱rū dhi̍yāyate bṛha̱te de̱vatā̍taye | yatrā̱mṛtā̍sa̱ āsa̍te ||
+9.15.3	e̱ṣa hi̱to vi nī̍yate̱ 'ntaḥ śu̱bhrāva̍tā pa̱thā | yadī̍ tu̱ñjanti̱ bhūrṇa̍yaḥ ||
+9.15.4	e̱ṣa śṛṅgā̍ṇi̱ dodhu̍va̱c chiśī̍te yū̱thyo̱3̱̍ vṛṣā̍ | nṛ̱mṇā dadhā̍na̱ oja̍sā ||
+9.15.5	e̱ṣa ru̱kmibhi̍r īyate vā̱jī śu̱bhrebhi̍r a̱ṁśubhi̍ḥ | pati̱ḥ sindhū̍nā̱m bhava̍n ||
+9.15.6	e̱ṣa vasū̍ni pibda̱nā paru̍ṣā yayi̱vām̐ ati̍ | ava̱ śāde̍ṣu gacchati ||
+9.15.7	e̱tam mṛ̍janti̱ marjya̱m upa̱ droṇe̍ṣv ā̱yava̍ḥ | pra̱ca̱krā̱ṇam ma̱hīr iṣa̍ḥ ||
+9.15.8	e̱tam u̱ tyaṁ daśa̱ kṣipo̍ mṛ̱janti̍ sa̱pta dhī̱taya̍ḥ | svā̱yu̱dham ma̱dinta̍mam ||
+9.16.1	pra te̍ so̱tāra̍ o̱ṇyo̱3̱̍ rasa̱m madā̍ya̱ ghṛṣva̍ye | sargo̱ na ta̱kty eta̍śaḥ ||
+9.16.2	kratvā̱ dakṣa̍sya ra̱thya̍m a̱po vasā̍na̱m andha̍sā | go̱ṣām aṇve̍ṣu saścima ||
+9.16.3	ana̍ptam a̱psu du̱ṣṭara̱ṁ soma̍m pa̱vitra̱ ā sṛ̍ja | pu̱nī̱hīndrā̍ya̱ pāta̍ve ||
+9.16.4	pra pu̍nā̱nasya̱ ceta̍sā̱ soma̍ḥ pa̱vitre̍ arṣati | kratvā̍ sa̱dhastha̱m āsa̍dat ||
+9.16.5	pra tvā̱ namo̍bhi̱r inda̍va̱ indra̱ somā̍ asṛkṣata | ma̱he bharā̍ya kā̱riṇa̍ḥ ||
+9.16.6	pu̱nā̱no rū̱pe a̱vyaye̱ viśvā̱ arṣa̍nn a̱bhi śriya̍ḥ | śūro̱ na goṣu̍ tiṣṭhati ||
+9.16.7	di̱vo na sānu̍ pi̱pyuṣī̱ dhārā̍ su̱tasya̍ ve̱dhasa̍ḥ | vṛthā̍ pa̱vitre̍ arṣati ||
+9.16.8	tvaṁ so̍ma vipa̱ścita̱ṁ tanā̍ punā̱na ā̱yuṣu̍ | avyo̱ vāra̱ṁ vi dhā̍vasi ||
+9.17.1	pra ni̱mnene̍va̱ sindha̍vo̱ ghnanto̍ vṛ̱trāṇi̱ bhūrṇa̍yaḥ | somā̍ asṛgram ā̱śava̍ḥ ||
+9.17.2	a̱bhi su̍vā̱nāsa̱ inda̍vo vṛ̱ṣṭaya̍ḥ pṛthi̱vīm i̍va | indra̱ṁ somā̍so akṣaran ||
+9.17.3	atyū̍rmir matsa̱ro mada̱ḥ soma̍ḥ pa̱vitre̍ arṣati | vi̱ghnan rakṣā̍ṁsi deva̱yuḥ ||
+9.17.4	ā ka̱laśe̍ṣu dhāvati pa̱vitre̱ pari̍ ṣicyate | u̱kthair ya̱jñeṣu̍ vardhate ||
+9.17.5	ati̱ trī so̍ma roca̱nā roha̱n na bhrā̍jase̱ diva̍m | i̱ṣṇan sūrya̱ṁ na co̍dayaḥ ||
+9.17.6	a̱bhi viprā̍ anūṣata mū̱rdhan ya̱jñasya̍ kā̱rava̍ḥ | dadhā̍nā̱ś cakṣa̍si pri̱yam ||
+9.17.7	tam u̍ tvā vā̱jina̱ṁ naro̍ dhī̱bhir viprā̍ ava̱syava̍ḥ | mṛ̱janti̍ de̱vatā̍taye ||
+9.17.8	madho̱r dhārā̱m anu̍ kṣara tī̱vraḥ sa̱dhastha̱m āsa̍daḥ | cāru̍r ṛ̱tāya̍ pī̱taye̍ ||
+9.18.1	pari̍ suvā̱no gi̍ri̱ṣṭhāḥ pa̱vitre̱ somo̍ akṣāḥ | made̍ṣu sarva̱dhā a̍si ||
+9.18.2	tvaṁ vipra̱s tvaṁ ka̱vir madhu̱ pra jā̱tam andha̍saḥ | made̍ṣu sarva̱dhā a̍si ||
+9.18.3	tava̱ viśve̍ sa̱joṣa̍so de̱vāsa̍ḥ pī̱tim ā̍śata | made̍ṣu sarva̱dhā a̍si ||
+9.18.4	ā yo viśvā̍ni̱ vāryā̱ vasū̍ni̱ hasta̍yor da̱dhe | made̍ṣu sarva̱dhā a̍si ||
+9.18.5	ya i̱me roda̍sī ma̱hī sam mā̱tare̍va̱ doha̍te | made̍ṣu sarva̱dhā a̍si ||
+9.18.6	pari̱ yo roda̍sī u̱bhe sa̱dyo vāje̍bhi̱r arṣa̍ti | made̍ṣu sarva̱dhā a̍si ||
+9.18.7	sa śu̱ṣmī ka̱laśe̱ṣv ā pu̍nā̱no a̍cikradat | made̍ṣu sarva̱dhā a̍si ||
+9.19.1	yat so̍ma ci̱tram u̱kthya̍ṁ di̱vyam pārthi̍va̱ṁ vasu̍ | tan na̍ḥ punā̱na ā bha̍ra ||
+9.19.2	yu̱vaṁ hi sthaḥ sva̍rpatī̱ indra̍ś ca soma̱ gopa̍tī | ī̱śā̱nā pi̍pyata̱ṁ dhiya̍ḥ ||
+9.19.3	vṛṣā̍ punā̱na ā̱yuṣu̍ sta̱naya̱nn adhi̍ ba̱rhiṣi̍ | hari̱ḥ san yoni̱m āsa̍dat ||
+9.19.4	avā̍vaśanta dhī̱tayo̍ vṛṣa̱bhasyādhi̱ reta̍si | sū̱nor va̱tsasya̍ mā̱tara̍ḥ ||
+9.19.5	ku̱vid vṛ̍ṣa̱ṇyantī̍bhyaḥ punā̱no garbha̍m ā̱dadha̍t | yāḥ śu̱kraṁ du̍ha̱te paya̍ḥ ||
+9.19.6	upa̍ śikṣāpata̱sthuṣo̍ bhi̱yasa̱m ā dhe̍hi̱ śatru̍ṣu | pava̍māna vi̱dā ra̱yim ||
+9.19.7	ni śatro̍ḥ soma̱ vṛṣṇya̱ṁ ni śuṣma̱ṁ ni vaya̍s tira | dū̱re vā̍ sa̱to anti̍ vā ||
+9.20.1	pra ka̱vir de̱vavī̍ta̱ye 'vyo̱ vāre̍bhir arṣati | sā̱hvān viśvā̍ a̱bhi spṛdha̍ḥ ||
+9.20.2	sa hi ṣmā̍ jari̱tṛbhya̱ ā vāja̱ṁ goma̍nta̱m inva̍ti | pava̍mānaḥ saha̱sriṇa̍m ||
+9.20.3	pari̱ viśvā̍ni̱ ceta̍sā mṛ̱śase̱ pava̍se ma̱tī | sa na̍ḥ soma̱ śravo̍ vidaḥ ||
+9.20.4	a̱bhy a̍rṣa bṛ̱had yaśo̍ ma̱ghava̍dbhyo dhru̱vaṁ ra̱yim | iṣa̍ṁ sto̱tṛbhya̱ ā bha̍ra ||
+9.20.5	tvaṁ rāje̍va suvra̱to gira̍ḥ so̱mā vi̍veśitha | pu̱nā̱no va̍hne adbhuta ||
+9.20.6	sa vahni̍r a̱psu du̱ṣṭaro̍ mṛ̱jyamā̍no̱ gabha̍styoḥ | soma̍ś ca̱mūṣu̍ sīdati ||
+9.20.7	krī̱ḻur ma̱kho na ma̍ṁha̱yuḥ pa̱vitra̍ṁ soma gacchasi | dadha̍t sto̱tre su̱vīrya̍m ||
+9.21.1	e̱te dhā̍va̱ntīnda̍va̱ḥ somā̱ indrā̍ya̱ ghṛṣva̍yaḥ | ma̱tsa̱rāsa̍ḥ sva̱rvida̍ḥ ||
+9.21.2	pra̱vṛ̱ṇvanto̍ abhi̱yuja̱ḥ suṣva̍ye varivo̱vida̍ḥ | sva̱yaṁ sto̱tre va̍ya̱skṛta̍ḥ ||
+9.21.3	vṛthā̱ krīḻa̍nta̱ inda̍vaḥ sa̱dhastha̍m a̱bhy eka̱m it | sindho̍r ū̱rmā vy a̍kṣaran ||
+9.21.4	e̱te viśvā̍ni̱ vāryā̱ pava̍mānāsa āśata | hi̱tā na sapta̍yo̱ rathe̍ ||
+9.21.5	āsmi̍n pi̱śaṅga̍m indavo̱ dadhā̍tā ve̱nam ā̱diśe̍ | yo a̱smabhya̱m arā̍vā ||
+9.21.6	ṛ̱bhur na rathya̱ṁ nava̱ṁ dadhā̍tā̱ keta̍m ā̱diśe̍ | śu̱krāḥ pa̍vadhva̱m arṇa̍sā ||
+9.21.7	e̱ta u̱ tye a̍vīvaśa̱n kāṣṭhā̍ṁ vā̱jino̍ akrata | sa̱taḥ prāsā̍viṣur ma̱tim ||
+9.22.1	e̱te somā̍sa ā̱śavo̱ rathā̍ iva̱ pra vā̱jina̍ḥ | sargā̍ḥ sṛ̱ṣṭā a̍heṣata ||
+9.22.2	e̱te vātā̍ ivo̱rava̍ḥ pa̱rjanya̍syeva vṛ̱ṣṭaya̍ḥ | a̱gner i̍va bhra̱mā vṛthā̍ ||
+9.22.3	e̱te pū̱tā vi̍pa̱ścita̱ḥ somā̍so̱ dadhyā̍śiraḥ | vi̱pā vy ā̍naśu̱r dhiya̍ḥ ||
+9.22.4	e̱te mṛ̱ṣṭā ama̍rtyāḥ sasṛ̱vāṁso̱ na śa̍śramuḥ | iya̍kṣantaḥ pa̱tho raja̍ḥ ||
+9.22.5	e̱te pṛ̱ṣṭhāni̱ roda̍sor vipra̱yanto̱ vy ā̍naśuḥ | u̱tedam u̍tta̱maṁ raja̍ḥ ||
+9.22.6	tantu̍ṁ tanvā̱nam u̍tta̱mam anu̍ pra̱vata̍ āśata | u̱tedam u̍tta̱māyya̍m ||
+9.22.7	tvaṁ so̍ma pa̱ṇibhya̱ ā vasu̱ gavyā̍ni dhārayaḥ | ta̱taṁ tantu̍m acikradaḥ ||
+9.23.1	somā̍ asṛgram ā̱śavo̱ madho̱r mada̍sya̱ dhāra̍yā | a̱bhi viśvā̍ni̱ kāvyā̍ ||
+9.23.2	anu̍ pra̱tnāsa̍ ā̱yava̍ḥ pa̱daṁ navī̍yo akramuḥ | ru̱ce ja̍nanta̱ sūrya̍m ||
+9.23.3	ā pa̍vamāna no bharā̱ryo adā̍śuṣo̱ gaya̍m | kṛ̱dhi pra̱jāva̍tī̱r iṣa̍ḥ ||
+9.23.4	a̱bhi somā̍sa ā̱yava̱ḥ pava̍nte̱ madya̱m mada̍m | a̱bhi kośa̍m madhu̱ścuta̍m ||
+9.23.5	somo̍ arṣati dharṇa̱sir dadhā̍na indri̱yaṁ rasa̍m | su̱vīro̍ abhiśasti̱pāḥ ||
+9.23.6	indrā̍ya soma pavase de̱vebhya̍ḥ sadha̱mādya̍ḥ | indo̱ vāja̍ṁ siṣāsasi ||
+9.23.7	a̱sya pī̱tvā madā̍nā̱m indro̍ vṛ̱trāṇy a̍pra̱ti | ja̱ghāna̍ ja̱ghana̍c ca̱ nu ||
+9.24.1	pra somā̍so adhanviṣu̱ḥ pava̍mānāsa̱ inda̍vaḥ | śrī̱ṇā̱nā a̱psu mṛ̍ñjata ||
+9.24.2	a̱bhi gāvo̍ adhanviṣu̱r āpo̱ na pra̱vatā̍ ya̱tīḥ | pu̱nā̱nā indra̍m āśata ||
+9.24.3	pra pa̍vamāna dhanvasi̱ somendrā̍ya̱ pāta̍ve | nṛbhi̍r ya̱to vi nī̍yase ||
+9.24.4	tvaṁ so̍ma nṛ̱māda̍na̱ḥ pava̍sva carṣaṇī̱sahe̍ | sasni̱r yo a̍nu̱mādya̍ḥ ||
+9.24.5	indo̱ yad adri̍bhiḥ su̱taḥ pa̱vitra̍m pari̱dhāva̍si | ara̱m indra̍sya̱ dhāmne̍ ||
+9.24.6	pava̍sva vṛtrahantamo̱kthebhi̍r anu̱mādya̍ḥ | śuci̍ḥ pāva̱ko adbhu̍taḥ ||
+9.24.7	śuci̍ḥ pāva̱ka u̍cyate̱ soma̍ḥ su̱tasya̱ madhva̍ḥ | de̱vā̱vīr a̍ghaśaṁsa̱hā ||
+9.25.1	pava̍sva dakṣa̱sādha̍no de̱vebhya̍ḥ pī̱taye̍ hare | ma̱rudbhyo̍ vā̱yave̱ mada̍ḥ ||
+9.25.2	pava̍māna dhi̱yā hi̱to̱3̱̍ 'bhi yoni̱ṁ kani̍kradat | dharma̍ṇā vā̱yum ā vi̍śa ||
+9.25.3	saṁ de̱vaiḥ śo̍bhate̱ vṛṣā̍ ka̱vir yonā̱v adhi̍ pri̱yaḥ | vṛ̱tra̱hā de̍va̱vīta̍maḥ ||
+9.25.4	viśvā̍ rū̱pāṇy ā̍vi̱śan pu̍nā̱no yā̍ti harya̱taḥ | yatrā̱mṛtā̍sa̱ āsa̍te ||
+9.25.5	a̱ru̱ṣo ja̱naya̱n gira̱ḥ soma̍ḥ pavata āyu̱ṣak | indra̱ṁ gaccha̍n ka̱vikra̍tuḥ ||
+9.25.6	ā pa̍vasva madintama pa̱vitra̱ṁ dhāra̍yā kave | a̱rkasya̱ yoni̍m ā̱sada̍m ||
+9.26.1	tam a̍mṛkṣanta vā̱jina̍m u̱pasthe̱ adi̍te̱r adhi̍ | viprā̍so̱ aṇvyā̍ dhi̱yā ||
+9.26.2	taṁ gāvo̍ a̱bhy a̍nūṣata sa̱hasra̍dhāra̱m akṣi̍tam | indu̍ṁ dha̱rtāra̱m ā di̱vaḥ ||
+9.26.3	taṁ ve̱dhām me̱dhayā̍hya̱n pava̍māna̱m adhi̱ dyavi̍ | dha̱rṇa̱sim bhūri̍dhāyasam ||
+9.26.4	tam a̍hyan bhu̱rijo̍r dhi̱yā sa̱ṁvasā̍naṁ vi̱vasva̍taḥ | pati̍ṁ vā̱co adā̍bhyam ||
+9.26.5	taṁ sānā̱v adhi̍ jā̱mayo̱ hari̍ṁ hinva̱nty adri̍bhiḥ | ha̱rya̱tam bhūri̍cakṣasam ||
+9.26.6	taṁ tvā̍ hinvanti ve̱dhasa̱ḥ pava̍māna girā̱vṛdha̍m | inda̱v indrā̍ya matsa̱ram ||
+9.27.1	e̱ṣa ka̱vir a̱bhiṣṭu̍taḥ pa̱vitre̱ adhi̍ tośate | pu̱nā̱no ghnann apa̱ sridha̍ḥ ||
+9.27.2	e̱ṣa indrā̍ya vā̱yave̍ sva̱rjit pari̍ ṣicyate | pa̱vitre̍ dakṣa̱sādha̍naḥ ||
+9.27.3	e̱ṣa nṛbhi̱r vi nī̍yate di̱vo mū̱rdhā vṛṣā̍ su̱taḥ | somo̱ vane̍ṣu viśva̱vit ||
+9.27.4	e̱ṣa ga̱vyur a̍cikrada̱t pava̍māno hiraṇya̱yuḥ | indu̍ḥ satrā̱jid astṛ̍taḥ ||
+9.27.5	e̱ṣa sūrye̍ṇa hāsate̱ pava̍māno̱ adhi̱ dyavi̍ | pa̱vitre̍ matsa̱ro mada̍ḥ ||
+9.27.6	e̱ṣa śu̱ṣmy a̍siṣyadad a̱ntari̍kṣe̱ vṛṣā̱ hari̍ḥ | pu̱nā̱na indu̱r indra̱m ā ||
+9.28.1	e̱ṣa vā̱jī hi̱to nṛbhi̍r viśva̱vin mana̍sa̱s pati̍ḥ | avyo̱ vāra̱ṁ vi dhā̍vati ||
+9.28.2	e̱ṣa pa̱vitre̍ akṣara̱t somo̍ de̱vebhya̍ḥ su̱taḥ | viśvā̱ dhāmā̍ny āvi̱śan ||
+9.28.3	e̱ṣa de̱vaḥ śu̍bhāya̱te 'dhi̱ yonā̱v ama̍rtyaḥ | vṛ̱tra̱hā de̍va̱vīta̍maḥ ||
+9.28.4	e̱ṣa vṛṣā̱ kani̍kradad da̱śabhi̍r jā̱mibhi̍r ya̱taḥ | a̱bhi droṇā̍ni dhāvati ||
+9.28.5	e̱ṣa sūrya̍m arocaya̱t pava̍māno̱ vica̍rṣaṇiḥ | viśvā̱ dhāmā̍ni viśva̱vit ||
+9.28.6	e̱ṣa śu̱ṣmy adā̍bhya̱ḥ soma̍ḥ punā̱no a̍rṣati | de̱vā̱vīr a̍ghaśaṁsa̱hā ||
+9.29.1	prāsya̱ dhārā̍ akṣara̱n vṛṣṇa̍ḥ su̱tasyauja̍sā | de̱vām̐ anu̍ pra̱bhūṣa̍taḥ ||
+9.29.2	sapti̍m mṛjanti ve̱dhaso̍ gṛ̱ṇanta̍ḥ kā̱ravo̍ gi̱rā | jyoti̍r jajñā̱nam u̱kthya̍m ||
+9.29.3	su̱ṣahā̍ soma̱ tāni̍ te punā̱nāya̍ prabhūvaso | vardhā̍ samu̱dram u̱kthya̍m ||
+9.29.4	viśvā̱ vasū̍ni sa̱ṁjaya̱n pava̍sva soma̱ dhāra̍yā | i̱nu dveṣā̍ṁsi sa̱dhrya̍k ||
+9.29.5	rakṣā̱ su no̱ ara̍ruṣaḥ sva̱nāt sa̍masya̱ kasya̍ cit | ni̱do yatra̍ mumu̱cmahe̍ ||
+9.29.6	endo̱ pārthi̍vaṁ ra̱yiṁ di̱vyam pa̍vasva̱ dhāra̍yā | dyu̱manta̱ṁ śuṣma̱m ā bha̍ra ||
+9.30.1	pra dhārā̍ asya śu̱ṣmiṇo̱ vṛthā̍ pa̱vitre̍ akṣaran | pu̱nā̱no vāca̍m iṣyati ||
+9.30.2	indu̍r hiyā̱naḥ so̱tṛbhi̍r mṛ̱jyamā̍na̱ḥ kani̍kradat | iya̍rti va̱gnum i̍ndri̱yam ||
+9.30.3	ā na̱ḥ śuṣma̍ṁ nṛ̱ṣāhya̍ṁ vī̱rava̍ntam puru̱spṛha̍m | pava̍sva soma̱ dhāra̍yā ||
+9.30.4	pra somo̱ ati̱ dhāra̍yā̱ pava̍māno asiṣyadat | a̱bhi droṇā̍ny ā̱sada̍m ||
+9.30.5	a̱psu tvā̱ madhu̍mattama̱ṁ hari̍ṁ hinva̱nty adri̍bhiḥ | inda̱v indrā̍ya pī̱taye̍ ||
+9.30.6	su̱notā̱ madhu̍mattama̱ṁ soma̱m indrā̍ya va̱jriṇe̍ | cāru̱ṁ śardhā̍ya matsa̱ram ||
+9.31.1	pra somā̍saḥ svā̱dhya1̱̍ḥ pava̍mānāso akramuḥ | ra̱yiṁ kṛ̍ṇvanti̱ ceta̍nam ||
+9.31.2	di̱vas pṛ̍thi̱vyā adhi̱ bhave̍ndo dyumna̱vardha̍naḥ | bhavā̱ vājā̍nā̱m pati̍ḥ ||
+9.31.3	tubhya̱ṁ vātā̍ abhi̱priya̱s tubhya̍m arṣanti̱ sindha̍vaḥ | soma̱ vardha̍nti te̱ maha̍ḥ ||
+9.31.4	ā pyā̍yasva̱ sam e̍tu te vi̱śvata̍ḥ soma̱ vṛṣṇya̍m | bhavā̱ vāja̍sya saṁga̱the ||
+9.31.5	tubhya̱ṁ gāvo̍ ghṛ̱tam payo̱ babhro̍ dudu̱hre akṣi̍tam | varṣi̍ṣṭhe̱ adhi̱ sāna̍vi ||
+9.31.6	svā̱yu̱dhasya̍ te sa̱to bhuva̍nasya pate va̱yam | indo̍ sakhi̱tvam u̍śmasi ||
+9.32.1	pra somā̍so mada̱cyuta̱ḥ śrava̍se no ma̱ghona̍ḥ | su̱tā vi̱dathe̍ akramuḥ ||
+9.32.2	ād ī̍ṁ tri̱tasya̱ yoṣa̍ṇo̱ hari̍ṁ hinva̱nty adri̍bhiḥ | indu̱m indrā̍ya pī̱taye̍ ||
+9.32.3	ād ī̍ṁ ha̱ṁso yathā̍ ga̱ṇaṁ viśva̍syāvīvaśan ma̱tim | atyo̱ na gobhi̍r ajyate ||
+9.32.4	u̱bhe so̍māva̱cāka̍śan mṛ̱go na ta̱kto a̍rṣasi | sīda̍nn ṛ̱tasya̱ yoni̱m ā ||
+9.32.5	a̱bhi gāvo̍ anūṣata̱ yoṣā̍ jā̱ram i̍va pri̱yam | aga̍nn ā̱jiṁ yathā̍ hi̱tam ||
+9.32.6	a̱sme dhe̍hi dyu̱mad yaśo̍ ma̱ghava̍dbhyaś ca̱ mahya̍ṁ ca | sa̱nim me̱dhām u̱ta śrava̍ḥ ||
+9.33.1	pra somā̍so vipa̱ścito̱ 'pāṁ na ya̍nty ū̱rmaya̍ḥ | vanā̍ni mahi̱ṣā i̍va ||
+9.33.2	a̱bhi droṇā̍ni ba̱bhrava̍ḥ śu̱krā ṛ̱tasya̱ dhāra̍yā | vāja̱ṁ goma̍ntam akṣaran ||
+9.33.3	su̱tā indrā̍ya vā̱yave̱ varu̍ṇāya ma̱rudbhya̍ḥ | somā̍ arṣanti̱ viṣṇa̍ve ||
+9.33.4	ti̱sro vāca̱ ud ī̍rate̱ gāvo̍ mimanti dhe̱nava̍ḥ | hari̍r eti̱ kani̍kradat ||
+9.33.5	a̱bhi brahmī̍r anūṣata ya̱hvīr ṛ̱tasya̍ mā̱tara̍ḥ | ma̱rmṛ̱jyante̍ di̱vaḥ śiśu̍m ||
+9.33.6	rā̱yaḥ sa̍mu̱drām̐ś ca̱turo̱ 'smabhya̍ṁ soma vi̱śvata̍ḥ | ā pa̍vasva saha̱sriṇa̍ḥ ||
+9.34.1	pra su̍vā̱no dhāra̍yā̱ tanendu̍r hinvā̱no a̍rṣati | ru̱jad dṛ̱ḻhā vy oja̍sā ||
+9.34.2	su̱ta indrā̍ya vā̱yave̱ varu̍ṇāya ma̱rudbhya̍ḥ | somo̍ arṣati̱ viṣṇa̍ve ||
+9.34.3	vṛṣā̍ṇa̱ṁ vṛṣa̍bhir ya̱taṁ su̱nvanti̱ soma̱m adri̍bhiḥ | du̱hanti̱ śakma̍nā̱ paya̍ḥ ||
+9.34.4	bhuva̍t tri̱tasya̱ marjyo̱ bhuva̱d indrā̍ya matsa̱raḥ | saṁ rū̱pair a̍jyate̱ hari̍ḥ ||
+9.34.5	a̱bhīm ṛ̱tasya̍ vi̱ṣṭapa̍ṁ duha̱te pṛśni̍mātaraḥ | cāru̍ pri̱yata̍maṁ ha̱viḥ ||
+9.34.6	sam e̍na̱m ahru̍tā i̱mā giro̍ arṣanti sa̱sruta̍ḥ | dhe̱nūr vā̱śro a̍vīvaśat ||
+9.35.1	ā na̍ḥ pavasva̱ dhāra̍yā̱ pava̍māna ra̱yim pṛ̱thum | yayā̱ jyoti̍r vi̱dāsi̍ naḥ ||
+9.35.2	indo̍ samudramīṅkhaya̱ pava̍sva viśvamejaya | rā̱yo dha̱rtā na̱ oja̍sā ||
+9.35.3	tvayā̍ vī̱reṇa̍ vīravo̱ 'bhi ṣyā̍ma pṛtanya̱taḥ | kṣarā̍ ṇo a̱bhi vārya̍m ||
+9.35.4	pra vāja̱m indu̍r iṣyati̱ siṣā̍san vāja̱sā ṛṣi̍ḥ | vra̱tā vi̍dā̱na āyu̍dhā ||
+9.35.5	taṁ gī̱rbhir vā̍camīṅkha̱yam pu̍nā̱naṁ vā̍sayāmasi | soma̱ṁ jana̍sya̱ gopa̍tim ||
+9.35.6	viśvo̱ yasya̍ vra̱te jano̍ dā̱dhāra̱ dharma̍ṇa̱s pate̍ḥ | pu̱nā̱nasya̍ pra̱bhūva̍soḥ ||
+9.36.1	asa̍rji̱ rathyo̍ yathā pa̱vitre̍ ca̱mvo̍ḥ su̱taḥ | kārṣma̍n vā̱jī ny a̍kramīt ||
+9.36.2	sa vahni̍ḥ soma̱ jāgṛ̍vi̱ḥ pava̍sva deva̱vīr ati̍ | a̱bhi kośa̍m madhu̱ścuta̍m ||
+9.36.3	sa no̱ jyotī̍ṁṣi pūrvya̱ pava̍māna̱ vi ro̍caya | kratve̱ dakṣā̍ya no hinu ||
+9.36.4	śu̱mbhamā̍na ṛtā̱yubhi̍r mṛ̱jyamā̍no̱ gabha̍styoḥ | pava̍te̱ vāre̍ a̱vyaye̍ ||
+9.36.5	sa viśvā̍ dā̱śuṣe̱ vasu̱ somo̍ di̱vyāni̱ pārthi̍vā | pava̍tā̱m āntari̍kṣyā ||
+9.36.6	ā di̱vas pṛ̱ṣṭham a̍śva̱yur ga̍vya̱yuḥ so̍ma rohasi | vī̱ra̱yuḥ śa̍vasas pate ||
+9.37.1	sa su̱taḥ pī̱taye̱ vṛṣā̱ soma̍ḥ pa̱vitre̍ arṣati | vi̱ghnan rakṣā̍ṁsi deva̱yuḥ ||
+9.37.2	sa pa̱vitre̍ vicakṣa̱ṇo hari̍r arṣati dharṇa̱siḥ | a̱bhi yoni̱ṁ kani̍kradat ||
+9.37.3	sa vā̱jī ro̍ca̱nā di̱vaḥ pava̍māno̱ vi dhā̍vati | ra̱kṣo̱hā vāra̍m a̱vyaya̍m ||
+9.37.4	sa tri̱tasyādhi̱ sāna̍vi̱ pava̍māno arocayat | jā̱mibhi̱ḥ sūrya̍ṁ sa̱ha ||
+9.37.5	sa vṛ̍tra̱hā vṛṣā̍ su̱to va̍rivo̱vid adā̍bhyaḥ | somo̱ vāja̍m ivāsarat ||
+9.37.6	sa de̱vaḥ ka̱vine̍ṣi̱to̱3̱̍ 'bhi droṇā̍ni dhāvati | indu̱r indrā̍ya ma̱ṁhanā̍ ||
+9.38.1	e̱ṣa u̱ sya vṛṣā̱ ratho 'vyo̱ vāre̍bhir arṣati | gaccha̱n vāja̍ṁ saha̱sriṇa̍m ||
+9.38.2	e̱taṁ tri̱tasya̱ yoṣa̍ṇo̱ hari̍ṁ hinva̱nty adri̍bhiḥ | indu̱m indrā̍ya pī̱taye̍ ||
+9.38.3	e̱taṁ tyaṁ ha̱rito̱ daśa̍ marmṛ̱jyante̍ apa̱syuva̍ḥ | yābhi̱r madā̍ya̱ śumbha̍te ||
+9.38.4	e̱ṣa sya mānu̍ṣī̱ṣv ā śye̱no na vi̱kṣu sī̍dati | gaccha̍ñ jā̱ro na yo̱ṣita̍m ||
+9.38.5	e̱ṣa sya madyo̱ raso 'va̍ caṣṭe di̱vaḥ śiśu̍ḥ | ya indu̱r vāra̱m āvi̍śat ||
+9.38.6	e̱ṣa sya pī̱taye̍ su̱to hari̍r arṣati dharṇa̱siḥ | kranda̱n yoni̍m a̱bhi pri̱yam ||
+9.39.1	ā̱śur a̍rṣa bṛhanmate̱ pari̍ pri̱yeṇa̱ dhāmnā̍ | yatra̍ de̱vā iti̱ brava̍n ||
+9.39.2	pa̱ri̱ṣkṛ̱ṇvann ani̍ṣkṛta̱ṁ janā̍ya yā̱taya̱nn iṣa̍ḥ | vṛ̱ṣṭiṁ di̱vaḥ pari̍ srava ||
+9.39.3	su̱ta e̍ti pa̱vitra̱ ā tviṣi̱ṁ dadhā̍na̱ oja̍sā | vi̱cakṣā̍ṇo viro̱caya̍n ||
+9.39.4	a̱yaṁ sa yo di̱vas pari̍ raghu̱yāmā̍ pa̱vitra̱ ā | sindho̍r ū̱rmā vy akṣa̍rat ||
+9.39.5	ā̱vivā̍san parā̱vato̱ atho̍ arvā̱vata̍ḥ su̱taḥ | indrā̍ya sicyate̱ madhu̍ ||
+9.39.6	sa̱mī̱cī̱nā a̍nūṣata̱ hari̍ṁ hinva̱nty adri̍bhiḥ | yonā̍v ṛ̱tasya̍ sīdata ||
+9.40.1	pu̱nā̱no a̍kramīd a̱bhi viśvā̱ mṛdho̱ vica̍rṣaṇiḥ | śu̱mbhanti̱ vipra̍ṁ dhī̱tibhi̍ḥ ||
+9.40.2	ā yoni̍m aru̱ṇo ru̍ha̱d gama̱d indra̱ṁ vṛṣā̍ su̱taḥ | dhru̱ve sada̍si sīdati ||
+9.40.3	nū no̍ ra̱yim ma̱hām i̍ndo̱ 'smabhya̍ṁ soma vi̱śvata̍ḥ | ā pa̍vasva saha̱sriṇa̍m ||
+9.40.4	viśvā̍ soma pavamāna dyu̱mnānī̍nda̱v ā bha̍ra | vi̱dāḥ sa̍ha̱sriṇī̱r iṣa̍ḥ ||
+9.40.5	sa na̍ḥ punā̱na ā bha̍ra ra̱yiṁ sto̱tre su̱vīrya̍m | ja̱ri̱tur va̍rdhayā̱ gira̍ḥ ||
+9.40.6	pu̱nā̱na i̍nda̱v ā bha̍ra̱ soma̍ dvi̱barha̍saṁ ra̱yim | vṛṣa̍nn indo na u̱kthya̍m ||
+9.41.1	pra ye gāvo̱ na bhūrṇa̍yas tve̱ṣā a̱yāso̱ akra̍muḥ | ghnanta̍ḥ kṛ̱ṣṇām apa̱ tvaca̍m ||
+9.41.2	su̱vi̱tasya̍ manāma̱he 'ti̱ setu̍ṁ durā̱vya̍m | sā̱hvāṁso̱ dasyu̍m avra̱tam ||
+9.41.3	śṛ̱ṇve vṛ̱ṣṭer i̍va sva̱naḥ pava̍mānasya śu̱ṣmiṇa̍ḥ | cara̍nti vi̱dyuto̍ di̱vi ||
+9.41.4	ā pa̍vasva ma̱hīm iṣa̱ṁ goma̍d indo̱ hira̍ṇyavat | aśvā̍va̱d vāja̍vat su̱taḥ ||
+9.41.5	sa pa̍vasva vicarṣaṇa̱ ā ma̱hī roda̍sī pṛṇa | u̱ṣāḥ sūryo̱ na ra̱śmibhi̍ḥ ||
+9.41.6	pari̍ ṇaḥ śarma̱yantyā̱ dhāra̍yā soma vi̱śvata̍ḥ | sarā̍ ra̱seva̍ vi̱ṣṭapa̍m ||
+9.42.1	ja̱naya̍n roca̱nā di̱vo ja̱naya̍nn a̱psu sūrya̍m | vasā̍no̱ gā a̱po hari̍ḥ ||
+9.42.2	e̱ṣa pra̱tnena̱ manma̍nā de̱vo de̱vebhya̱s pari̍ | dhāra̍yā pavate su̱taḥ ||
+9.42.3	vā̱vṛ̱dhā̱nāya̱ tūrva̍ye̱ pava̍nte̱ vāja̍sātaye | somā̍ḥ sa̱hasra̍pājasaḥ ||
+9.42.4	du̱hā̱naḥ pra̱tnam it paya̍ḥ pa̱vitre̱ pari̍ ṣicyate | kranda̍n de̱vām̐ a̍jījanat ||
+9.42.5	a̱bhi viśvā̍ni̱ vāryā̱bhi de̱vām̐ ṛ̍tā̱vṛdha̍ḥ | soma̍ḥ punā̱no a̍rṣati ||
+9.42.6	goma̍n naḥ soma vī̱rava̱d aśvā̍va̱d vāja̍vat su̱taḥ | pava̍sva bṛha̱tīr iṣa̍ḥ ||
+9.43.1	yo atya̍ iva mṛ̱jyate̱ gobhi̱r madā̍ya harya̱taḥ | taṁ gī̱rbhir vā̍sayāmasi ||
+9.43.2	taṁ no̱ viśvā̍ ava̱syuvo̱ gira̍ḥ śumbhanti pū̱rvathā̍ | indu̱m indrā̍ya pī̱taye̍ ||
+9.43.3	pu̱nā̱no yā̍ti harya̱taḥ somo̍ gī̱rbhiḥ pari̍ṣkṛtaḥ | vipra̍sya̱ medhyā̍titheḥ ||
+9.43.4	pava̍māna vi̱dā ra̱yim a̱smabhya̍ṁ soma su̱śriya̍m | indo̍ sa̱hasra̍varcasam ||
+9.43.5	indu̱r atyo̱ na vā̍ja̱sṛt kani̍kranti pa̱vitra̱ ā | yad akṣā̱r ati̍ deva̱yuḥ ||
+9.43.6	pava̍sva̱ vāja̍sātaye̱ vipra̍sya gṛṇa̱to vṛ̱dhe | soma̱ rāsva̍ su̱vīrya̍m ||
+9.44.1	pra ṇa̍ indo ma̱he tana̍ ū̱rmiṁ na bibhra̍d arṣasi | a̱bhi de̱vām̐ a̱yāsya̍ḥ ||
+9.44.2	ma̱tī ju̱ṣṭo dhi̱yā hi̱taḥ somo̍ hinve parā̱vati̍ | vipra̍sya̱ dhāra̍yā ka̱viḥ ||
+9.44.3	a̱yaṁ de̱veṣu̱ jāgṛ̍viḥ su̱ta e̍ti pa̱vitra̱ ā | somo̍ yāti̱ vica̍rṣaṇiḥ ||
+9.44.4	sa na̍ḥ pavasva vāja̱yuś ca̍krā̱ṇaś cāru̍m adhva̱ram | ba̱rhiṣmā̱m̐ ā vi̍vāsati ||
+9.44.5	sa no̱ bhagā̍ya vā̱yave̱ vipra̍vīraḥ sa̱dāvṛ̍dhaḥ | somo̍ de̱veṣv ā ya̍mat ||
+9.44.6	sa no̍ a̱dya vasu̍ttaye kratu̱vid gā̍tu̱vitta̍maḥ | vāja̍ṁ jeṣi̱ śravo̍ bṛ̱hat ||
+9.45.1	sa pa̍vasva̱ madā̍ya̱ kaṁ nṛ̱cakṣā̍ de̱vavī̍taye | inda̱v indrā̍ya pī̱taye̍ ||
+9.45.2	sa no̍ arṣā̱bhi dū̱tya1̱̍ṁ tvam indrā̍ya tośase | de̱vān sakhi̍bhya̱ ā vara̍m ||
+9.45.3	u̱ta tvām a̍ru̱ṇaṁ va̱yaṁ gobhi̍r añjmo̱ madā̍ya̱ kam | vi no̍ rā̱ye duro̍ vṛdhi ||
+9.45.4	aty ū̍ pa̱vitra̍m akramīd vā̱jī dhura̱ṁ na yāma̍ni | indu̍r de̱veṣu̍ patyate ||
+9.45.5	sam ī̱ sakhā̍yo asvara̱n vane̱ krīḻa̍nta̱m atya̍vim | indu̍ṁ nā̱vā a̍nūṣata ||
+9.45.6	tayā̍ pavasva̱ dhāra̍yā̱ yayā̍ pī̱to vi̱cakṣa̍se | indo̍ sto̱tre su̱vīrya̍m ||
+9.46.1	asṛ̍gran de̱vavī̍ta̱ye 'tyā̍sa̱ḥ kṛtvyā̍ iva | kṣara̍ntaḥ parvatā̱vṛdha̍ḥ ||
+9.46.2	pari̍ṣkṛtāsa̱ inda̍vo̱ yoṣe̍va̱ pitryā̍vatī | vā̱yuṁ somā̍ asṛkṣata ||
+9.46.3	e̱te somā̍sa̱ inda̍va̱ḥ praya̍svantaś ca̱mū su̱tāḥ | indra̍ṁ vardhanti̱ karma̍bhiḥ ||
+9.46.4	ā dhā̍vatā suhastyaḥ śu̱krā gṛ̍bhṇīta ma̱nthinā̍ | gobhi̍ḥ śrīṇīta matsa̱ram ||
+9.46.5	sa pa̍vasva dhanaṁjaya praya̱ntā rādha̍so ma̱haḥ | a̱smabhya̍ṁ soma gātu̱vit ||
+9.46.6	e̱tam mṛ̍janti̱ marjya̱m pava̍māna̱ṁ daśa̱ kṣipa̍ḥ | indrā̍ya matsa̱ram mada̍m ||
+9.47.1	a̱yā soma̍ḥ sukṛ̱tyayā̍ ma̱haś ci̍d a̱bhy a̍vardhata | ma̱ndā̱na ud vṛ̍ṣāyate ||
+9.47.2	kṛ̱tānīd a̍sya̱ kartvā̱ ceta̍nte dasyu̱tarha̍ṇā | ṛ̱ṇā ca̍ dhṛ̱ṣṇuś ca̍yate ||
+9.47.3	āt soma̍ indri̱yo raso̱ vajra̍ḥ sahasra̱sā bhu̍vat | u̱kthaṁ yad a̍sya̱ jāya̍te ||
+9.47.4	sva̱yaṁ ka̱vir vi̍dha̱rtari̱ viprā̍ya̱ ratna̍m icchati | yadī̍ marmṛ̱jyate̱ dhiya̍ḥ ||
+9.47.5	si̱ṣā̱satū̍ rayī̱ṇāṁ vāje̱ṣv arva̍tām iva | bhare̍ṣu ji̱gyuṣā̍m asi ||
+9.48.1	taṁ tvā̍ nṛ̱mṇāni̱ bibhra̍taṁ sa̱dhasthe̍ṣu ma̱ho di̱vaḥ | cāru̍ṁ sukṛ̱tyaye̍mahe ||
+9.48.2	saṁvṛ̍ktadhṛṣṇum u̱kthya̍m ma̱hāma̍hivrata̱m mada̍m | śa̱tam puro̍ ruru̱kṣaṇi̍m ||
+9.48.3	ata̍s tvā ra̱yim a̱bhi rājā̍naṁ sukrato di̱vaḥ | su̱pa̱rṇo a̍vya̱thir bha̍rat ||
+9.48.4	viśva̍smā̱ it sva̍r dṛ̱śe sādhā̍raṇaṁ raja̱stura̍m | go̱pām ṛ̱tasya̱ vir bha̍rat ||
+9.48.5	adhā̍ hinvā̱na i̍ndri̱yaṁ jyāyo̍ mahi̱tvam ā̍naśe | a̱bhi̱ṣṭi̱kṛd vica̍rṣaṇiḥ ||
+9.49.1	pava̍sva vṛ̱ṣṭim ā su no̱ 'pām ū̱rmiṁ di̱vas pari̍ | a̱ya̱kṣmā bṛ̍ha̱tīr iṣa̍ḥ ||
+9.49.2	tayā̍ pavasva̱ dhāra̍yā̱ yayā̱ gāva̍ i̱hāgama̍n | janyā̍sa̱ upa̍ no gṛ̱ham ||
+9.49.3	ghṛ̱tam pa̍vasva̱ dhāra̍yā ya̱jñeṣu̍ deva̱vīta̍maḥ | a̱smabhya̍ṁ vṛ̱ṣṭim ā pa̍va ||
+9.49.4	sa na̍ ū̱rje vy a1̱̍vyaya̍m pa̱vitra̍ṁ dhāva̱ dhāra̍yā | de̱vāsa̍ḥ śṛ̱ṇava̱n hi ka̍m ||
+9.49.5	pava̍māno asiṣyada̱d rakṣā̍ṁsy apa̱jaṅgha̍nat | pra̱tna̱vad ro̱caya̱n ruca̍ḥ ||
+9.50.1	ut te̱ śuṣmā̍sa īrate̱ sindho̍r ū̱rmer i̍va sva̱naḥ | vā̱ṇasya̍ codayā pa̱vim ||
+9.50.2	pra̱sa̱ve ta̱ ud ī̍rate ti̱sro vāco̍ makha̱syuva̍ḥ | yad avya̱ eṣi̱ sāna̍vi ||
+9.50.3	avyo̱ vāre̱ pari̍ pri̱yaṁ hari̍ṁ hinva̱nty adri̍bhiḥ | pava̍mānam madhu̱ścuta̍m ||
+9.50.4	ā pa̍vasva madintama pa̱vitra̱ṁ dhāra̍yā kave | a̱rkasya̱ yoni̍m ā̱sada̍m ||
+9.50.5	sa pa̍vasva madintama̱ gobhi̍r añjā̱no a̱ktubhi̍ḥ | inda̱v indrā̍ya pī̱taye̍ ||
+9.51.1	adhva̍ryo̱ adri̍bhiḥ su̱taṁ soma̍m pa̱vitra̱ ā sṛ̍ja | pu̱nī̱hīndrā̍ya̱ pāta̍ve ||
+9.51.2	di̱vaḥ pī̱yūṣa̍m utta̱maṁ soma̱m indrā̍ya va̱jriṇe̍ | su̱notā̱ madhu̍mattamam ||
+9.51.3	tava̱ tya i̍ndo̱ andha̍so de̱vā madho̱r vy a̍śnate | pava̍mānasya ma̱ruta̍ḥ ||
+9.51.4	tvaṁ hi so̍ma va̱rdhaya̍n su̱to madā̍ya̱ bhūrṇa̍ye | vṛṣa̍n sto̱tāra̍m ū̱taye̍ ||
+9.51.5	a̱bhy a̍rṣa vicakṣaṇa pa̱vitra̱ṁ dhāra̍yā su̱taḥ | a̱bhi vāja̍m u̱ta śrava̍ḥ ||
+9.52.1	pari̍ dyu̱kṣaḥ sa̱nadra̍yi̱r bhara̱d vāja̍ṁ no̱ andha̍sā | su̱vā̱no a̍rṣa pa̱vitra̱ ā ||
+9.52.2	tava̍ pra̱tnebhi̱r adhva̍bhi̱r avyo̱ vāre̱ pari̍ pri̱yaḥ | sa̱hasra̍dhāro yā̱t tanā̍ ||
+9.52.3	ca̱rur na yas tam ī̍ṅkha̱yendo̱ na dāna̍m īṅkhaya | va̱dhair va̍dhasnav īṅkhaya ||
+9.52.4	ni śuṣma̍m indav eṣā̱m puru̍hūta̱ janā̍nām | yo a̱smām̐ ā̱dide̍śati ||
+9.52.5	śa̱taṁ na̍ inda ū̱tibhi̍ḥ sa̱hasra̍ṁ vā̱ śucī̍nām | pava̍sva maṁha̱yadra̍yiḥ ||
+9.53.1	ut te̱ śuṣmā̍so asthū̱ rakṣo̍ bhi̱ndanto̍ adrivaḥ | nu̱dasva̱ yāḥ pa̍ri̱spṛdha̍ḥ ||
+9.53.2	a̱yā ni̍ja̱ghnir oja̍sā rathasa̱ṁge dhane̍ hi̱te | stavā̱ abi̍bhyuṣā hṛ̱dā ||
+9.53.3	asya̍ vra̱tāni̱ nādhṛṣe̱ pava̍mānasya dū̱ḍhyā̍ | ru̱ja yas tvā̍ pṛta̱nyati̍ ||
+9.53.4	taṁ hi̍nvanti mada̱cyuta̱ṁ hari̍ṁ na̱dīṣu̍ vā̱jina̍m | indu̱m indrā̍ya matsa̱ram ||
+9.54.1	a̱sya pra̱tnām anu̱ dyuta̍ṁ śu̱kraṁ du̍duhre̱ ahra̍yaḥ | paya̍ḥ sahasra̱sām ṛṣi̍m ||
+9.54.2	a̱yaṁ sūrya̍ ivopa̱dṛg a̱yaṁ sarā̍ṁsi dhāvati | sa̱pta pra̱vata̱ ā diva̍m ||
+9.54.3	a̱yaṁ viśvā̍ni tiṣṭhati punā̱no bhuva̍no̱pari̍ | somo̍ de̱vo na sūrya̍ḥ ||
+9.54.4	pari̍ ṇo de̱vavī̍taye̱ vājā̍m̐ arṣasi̱ goma̍taḥ | pu̱nā̱na i̍ndav indra̱yuḥ ||
+9.55.1	yava̍ṁ-yavaṁ no̱ andha̍sā pu̱ṣṭam-pu̍ṣṭa̱m pari̍ srava | soma̱ viśvā̍ ca̱ saubha̍gā ||
+9.55.2	indo̱ yathā̱ tava̱ stavo̱ yathā̍ te jā̱tam andha̍saḥ | ni ba̱rhiṣi̍ pri̱ye sa̍daḥ ||
+9.55.3	u̱ta no̍ go̱vid a̍śva̱vit pava̍sva so̱māndha̍sā | ma̱kṣūta̍mebhi̱r aha̍bhiḥ ||
+9.55.4	yo ji̱nāti̱ na jīya̍te̱ hanti̱ śatru̍m a̱bhītya̍ | sa pa̍vasva sahasrajit ||
+9.56.1	pari̱ soma̍ ṛ̱tam bṛ̱had ā̱śuḥ pa̱vitre̍ arṣati | vi̱ghnan rakṣā̍ṁsi deva̱yuḥ ||
+9.56.2	yat somo̱ vāja̱m arṣa̍ti śa̱taṁ dhārā̍ apa̱syuva̍ḥ | indra̍sya sa̱khyam ā̍vi̱śan ||
+9.56.3	a̱bhi tvā̱ yoṣa̍ṇo̱ daśa̍ jā̱raṁ na ka̱nyā̍nūṣata | mṛ̱jyase̍ soma sā̱taye̍ ||
+9.56.4	tvam indrā̍ya̱ viṣṇa̍ve svā̱dur i̍ndo̱ pari̍ srava | nṝn sto̱tṝn pā̱hy aṁha̍saḥ ||
+9.57.1	pra te̱ dhārā̍ asa̱ścato̍ di̱vo na ya̍nti vṛ̱ṣṭaya̍ḥ | acchā̱ vāja̍ṁ saha̱sriṇa̍m ||
+9.57.2	a̱bhi pri̱yāṇi̱ kāvyā̱ viśvā̱ cakṣā̍ṇo arṣati | hari̍s tuñjā̱na āyu̍dhā ||
+9.57.3	sa ma̍rmṛjā̱na ā̱yubhi̱r ibho̱ rāje̍va suvra̱taḥ | śye̱no na vaṁsu̍ ṣīdati ||
+9.57.4	sa no̱ viśvā̍ di̱vo vasū̱to pṛ̍thi̱vyā adhi̍ | pu̱nā̱na i̍nda̱v ā bha̍ra ||
+9.58.1	tara̱t sa ma̱ndī dhā̍vati̱ dhārā̍ su̱tasyāndha̍saḥ | tara̱t sa ma̱ndī dhā̍vati ||
+9.58.2	u̱srā ve̍da̱ vasū̍nā̱m marta̍sya de̱vy ava̍saḥ | tara̱t sa ma̱ndī dhā̍vati ||
+9.58.3	dhva̱srayo̍ḥ puru̱ṣantyo̱r ā sa̱hasrā̍ṇi dadmahe | tara̱t sa ma̱ndī dhā̍vati ||
+9.58.4	ā yayo̍s tri̱ṁśata̱ṁ tanā̍ sa̱hasrā̍ṇi ca̱ dadma̍he | tara̱t sa ma̱ndī dhā̍vati ||
+9.59.1	pava̍sva go̱jid a̍śva̱jid vi̍śva̱jit so̍ma raṇya̱jit | pra̱jāva̱d ratna̱m ā bha̍ra ||
+9.59.2	pava̍svā̱dbhyo adā̍bhya̱ḥ pava̱svauṣa̍dhībhyaḥ | pava̍sva dhi̱ṣaṇā̍bhyaḥ ||
+9.59.3	tvaṁ so̍ma̱ pava̍māno̱ viśvā̍ni duri̱tā ta̍ra | ka̱viḥ sī̍da̱ ni ba̱rhiṣi̍ ||
+9.59.4	pava̍māna̱ sva̍r vido̱ jāya̍māno 'bhavo ma̱hān | indo̱ viśvā̍m̐ a̱bhīd a̍si ||
+9.60.1	pra gā̍ya̱treṇa̍ gāyata̱ pava̍māna̱ṁ vica̍rṣaṇim | indu̍ṁ sa̱hasra̍cakṣasam ||
+9.60.2	taṁ tvā̍ sa̱hasra̍cakṣasa̱m atho̍ sa̱hasra̍bharṇasam | ati̱ vāra̍m apāviṣuḥ ||
+9.60.3	ati̱ vārā̱n pava̍māno asiṣyadat ka̱laśā̍m̐ a̱bhi dhā̍vati | indra̍sya̱ hārdy ā̍vi̱śan ||
+9.60.4	indra̍sya soma̱ rādha̍se̱ śam pa̍vasva vicarṣaṇe | pra̱jāva̱d reta̱ ā bha̍ra ||
+9.61.1	a̱yā vī̱tī pari̍ srava̱ yas ta̍ indo̱ made̱ṣv ā | a̱vāha̍n nava̱tīr nava̍ ||
+9.61.2	pura̍ḥ sa̱dya i̱tthādhi̍ye̱ divo̍dāsāya̱ śamba̍ram | adha̱ tyaṁ tu̱rvaśa̱ṁ yadu̍m ||
+9.61.3	pari̍ ṇo̱ aśva̍m aśva̱vid goma̍d indo̱ hira̍ṇyavat | kṣarā̍ saha̱sriṇī̱r iṣa̍ḥ ||
+9.61.4	pava̍mānasya te va̱yam pa̱vitra̍m abhyunda̱taḥ | sa̱khi̱tvam ā vṛ̍ṇīmahe ||
+9.61.5	ye te̍ pa̱vitra̍m ū̱rmayo̍ 'bhi̱kṣara̍nti̱ dhāra̍yā | tebhi̍r naḥ soma mṛḻaya ||
+9.61.6	sa na̍ḥ punā̱na ā bha̍ra ra̱yiṁ vī̱rava̍tī̱m iṣa̍m | īśā̍naḥ soma vi̱śvata̍ḥ ||
+9.61.7	e̱tam u̱ tyaṁ daśa̱ kṣipo̍ mṛ̱janti̱ sindhu̍mātaram | sam ā̍di̱tyebhi̍r akhyata ||
+9.61.8	sam indre̍ṇo̱ta vā̱yunā̍ su̱ta e̍ti pa̱vitra̱ ā | saṁ sūrya̍sya ra̱śmibhi̍ḥ ||
+9.61.9	sa no̱ bhagā̍ya vā̱yave̍ pū̱ṣṇe pa̍vasva̱ madhu̍mān | cāru̍r mi̱tre varu̍ṇe ca ||
+9.61.10	u̱ccā te̍ jā̱tam andha̍so di̱vi ṣad bhūmy ā da̍de | u̱graṁ śarma̱ mahi̱ śrava̍ḥ ||
+9.61.11	e̱nā viśvā̍ny a̱rya ā dyu̱mnāni̱ mānu̍ṣāṇām | siṣā̍santo vanāmahe ||
+9.61.12	sa na̱ indrā̍ya̱ yajya̍ve̱ varu̍ṇāya ma̱rudbhya̍ḥ | va̱ri̱vo̱vit pari̍ srava ||
+9.61.13	upo̱ ṣu jā̱tam a̱ptura̱ṁ gobhi̍r bha̱ṅgam pari̍ṣkṛtam | indu̍ṁ de̱vā a̍yāsiṣuḥ ||
+9.61.14	tam id va̍rdhantu no̱ giro̍ va̱tsaṁ sa̱ṁśiśva̍rīr iva | ya indra̍sya hṛda̱ṁsani̍ḥ ||
+9.61.15	arṣā̍ ṇaḥ soma̱ śaṁ gave̍ dhu̱kṣasva̍ pi̱pyuṣī̱m iṣa̍m | vardhā̍ samu̱dram u̱kthya̍m ||
+9.61.16	pava̍māno ajījanad di̱vaś ci̱traṁ na ta̍nya̱tum | jyoti̍r vaiśvāna̱ram bṛ̱hat ||
+9.61.17	pava̍mānasya te̱ raso̱ mado̍ rājann aducchu̱naḥ | vi vāra̱m avya̍m arṣati ||
+9.61.18	pava̍māna̱ rasa̱s tava̱ dakṣo̱ vi rā̍jati dyu̱mān | jyoti̱r viśva̱ṁ sva̍r dṛ̱śe ||
+9.61.19	yas te̱ mado̱ vare̍ṇya̱s tenā̍ pava̱svāndha̍sā | de̱vā̱vīr a̍ghaśaṁsa̱hā ||
+9.61.20	jaghni̍r vṛ̱tram a̍mi̱triya̱ṁ sasni̱r vāja̍ṁ di̱ve-di̍ve | go̱ṣā u̍ aśva̱sā a̍si ||
+9.61.21	sammi̍ślo aru̱ṣo bha̍va sūpa̱sthābhi̱r na dhe̱nubhi̍ḥ | sīda̍ñ chye̱no na yoni̱m ā ||
+9.61.22	sa pa̍vasva̱ ya āvi̱thendra̍ṁ vṛ̱trāya̱ hanta̍ve | va̱vri̱vāṁsa̍m ma̱hīr a̱paḥ ||
+9.61.23	su̱vīrā̍so va̱yaṁ dhanā̱ jaye̍ma soma mīḍhvaḥ | pu̱nā̱no va̍rdha no̱ gira̍ḥ ||
+9.61.24	tvotā̍sa̱s tavāva̍sā̱ syāma̍ va̱nvanta̍ ā̱mura̍ḥ | soma̍ vra̱teṣu̍ jāgṛhi ||
+9.61.25	a̱pa̱ghnan pa̍vate̱ mṛdho 'pa̱ somo̱ arā̍vṇaḥ | gaccha̱nn indra̍sya niṣkṛ̱tam ||
+9.61.26	ma̱ho no̍ rā̱ya ā bha̍ra̱ pava̍māna ja̱hī mṛdha̍ḥ | rāsve̍ndo vī̱rava̱d yaśa̍ḥ ||
+9.61.27	na tvā̍ śa̱taṁ ca̱na hruto̱ rādho̱ ditsa̍nta̱m ā mi̍nan | yat pu̍nā̱no ma̍kha̱syase̍ ||
+9.61.28	pava̍svendo̱ vṛṣā̍ su̱taḥ kṛ̱dhī no̍ ya̱śaso̱ jane̍ | viśvā̱ apa̱ dviṣo̍ jahi ||
+9.61.29	asya̍ te sa̱khye va̱yaṁ tave̍ndo dyu̱mna u̍tta̱me | sā̱sa̱hyāma̍ pṛtanya̱taḥ ||
+9.61.30	yā te̍ bhī̱māny āyu̍dhā ti̱gmāni̱ santi̱ dhūrva̍ṇe | rakṣā̍ samasya no ni̱daḥ ||
+9.62.1	e̱te a̍sṛgra̱m inda̍vas ti̱raḥ pa̱vitra̍m ā̱śava̍ḥ | viśvā̍ny a̱bhi saubha̍gā ||
+9.62.2	vi̱ghnanto̍ duri̱tā pu̱ru su̱gā to̱kāya̍ vā̱jina̍ḥ | tanā̍ kṛ̱ṇvanto̱ arva̍te ||
+9.62.3	kṛ̱ṇvanto̱ vari̍vo̱ gave̱ 'bhy a̍rṣanti suṣṭu̱tim | iḻā̍m a̱smabhya̍ṁ sa̱ṁyata̍m ||
+9.62.4	asā̍vy a̱ṁśur madā̍yā̱psu dakṣo̍ giri̱ṣṭhāḥ | śye̱no na yoni̱m āsa̍dat ||
+9.62.5	śu̱bhram andho̍ de̱vavā̍tam a̱psu dhū̱to nṛbhi̍ḥ su̱taḥ | svada̍nti̱ gāva̱ḥ payo̍bhiḥ ||
+9.62.6	ād ī̱m aśva̱ṁ na hetā̱ro 'śū̍śubhann a̱mṛtā̍ya | madhvo̱ rasa̍ṁ sadha̱māde̍ ||
+9.62.7	yās te̱ dhārā̍ madhu̱ścuto 'sṛ̍gram inda ū̱taye̍ | tābhi̍ḥ pa̱vitra̱m āsa̍daḥ ||
+9.62.8	so a̱rṣendrā̍ya pī̱taye̍ ti̱ro romā̍ṇy a̱vyayā̍ | sīda̱n yonā̱ vane̱ṣv ā ||
+9.62.9	tvam i̍ndo̱ pari̍ srava̱ svādi̍ṣṭho̱ aṅgi̍robhyaḥ | va̱ri̱vo̱vid ghṛ̱tam paya̍ḥ ||
+9.62.10	a̱yaṁ vica̍rṣaṇir hi̱taḥ pava̍māna̱ḥ sa ce̍tati | hi̱nvā̱na āpya̍m bṛ̱hat ||
+9.62.11	e̱ṣa vṛṣā̱ vṛṣa̍vrata̱ḥ pava̍māno aśasti̱hā | kara̱d vasū̍ni dā̱śuṣe̍ ||
+9.62.12	ā pa̍vasva saha̱sriṇa̍ṁ ra̱yiṁ goma̍ntam a̱śvina̍m | pu̱ru̱śca̱ndram pu̍ru̱spṛha̍m ||
+9.62.13	e̱ṣa sya pari̍ ṣicyate marmṛ̱jyamā̍na ā̱yubhi̍ḥ | u̱ru̱gā̱yaḥ ka̱vikra̍tuḥ ||
+9.62.14	sa̱hasro̍tiḥ śa̱tāma̍gho vi̱māno̱ raja̍saḥ ka̱viḥ | indrā̍ya pavate̱ mada̍ḥ ||
+9.62.15	gi̱rā jā̱ta i̱ha stu̱ta indu̱r indrā̍ya dhīyate | vir yonā̍ vasa̱tāv i̍va ||
+9.62.16	pava̍mānaḥ su̱to nṛbhi̱ḥ somo̱ vāja̍m ivāsarat | ca̱mūṣu̱ śakma̍nā̱sada̍m ||
+9.62.17	taṁ tri̍pṛ̱ṣṭhe tri̍vandhu̱re rathe̍ yuñjanti̱ yāta̍ve | ṛṣī̍ṇāṁ sa̱pta dhī̱tibhi̍ḥ ||
+9.62.18	taṁ so̍tāro dhana̱spṛta̍m ā̱śuṁ vājā̍ya̱ yāta̍ve | hari̍ṁ hinota vā̱jina̍m ||
+9.62.19	ā̱vi̱śan ka̱laśa̍ṁ su̱to viśvā̱ arṣa̍nn a̱bhi śriya̍ḥ | śūro̱ na goṣu̍ tiṣṭhati ||
+9.62.20	ā ta̍ indo̱ madā̍ya̱ kam payo̍ duhanty ā̱yava̍ḥ | de̱vā de̱vebhyo̱ madhu̍ ||
+9.62.21	ā na̱ḥ soma̍m pa̱vitra̱ ā sṛ̱jatā̱ madhu̍mattamam | de̱vebhyo̍ deva̱śrutta̍mam ||
+9.62.22	e̱te somā̍ asṛkṣata gṛṇā̱nāḥ śrava̍se ma̱he | ma̱dinta̍masya̱ dhāra̍yā ||
+9.62.23	a̱bhi gavyā̍ni vī̱taye̍ nṛ̱mṇā pu̍nā̱no a̍rṣasi | sa̱nadvā̍ja̱ḥ pari̍ srava ||
+9.62.24	u̱ta no̱ goma̍tī̱r iṣo̱ viśvā̍ arṣa pari̱ṣṭubha̍ḥ | gṛ̱ṇā̱no ja̱mada̍gninā ||
+9.62.25	pava̍sva vā̱co a̍gri̱yaḥ soma̍ ci̱trābhi̍r ū̱tibhi̍ḥ | a̱bhi viśvā̍ni̱ kāvyā̍ ||
+9.62.26	tvaṁ sa̍mu̱driyā̍ a̱po̍ 'gri̱yo vāca̍ ī̱raya̍n | pava̍sva viśvamejaya ||
+9.62.27	tubhye̱mā bhuva̍nā kave mahi̱mne so̍ma tasthire | tubhya̍m arṣanti̱ sindha̍vaḥ ||
+9.62.28	pra te̍ di̱vo na vṛ̱ṣṭayo̱ dhārā̍ yanty asa̱ścata̍ḥ | a̱bhi śu̱krām u̍pa̱stira̍m ||
+9.62.29	indrā̱yendu̍m punītano̱graṁ dakṣā̍ya̱ sādha̍nam | ī̱śā̱naṁ vī̱tirā̍dhasam ||
+9.62.30	pava̍māna ṛ̱taḥ ka̱viḥ soma̍ḥ pa̱vitra̱m āsa̍dat | dadha̍t sto̱tre su̱vīrya̍m ||
+9.63.1	ā pa̍vasva saha̱sriṇa̍ṁ ra̱yiṁ so̍ma su̱vīrya̍m | a̱sme śravā̍ṁsi dhāraya ||
+9.63.2	iṣa̱m ūrja̍ṁ ca pinvasa̱ indrā̍ya matsa̱rinta̍maḥ | ca̱mūṣv ā ni ṣī̍dasi ||
+9.63.3	su̱ta indrā̍ya̱ viṣṇa̍ve̱ soma̍ḥ ka̱laśe̍ akṣarat | madhu̍mām̐ astu vā̱yave̍ ||
+9.63.4	e̱te a̍sṛgram ā̱śavo 'ti̱ hvarā̍ṁsi ba̱bhrava̍ḥ | somā̍ ṛ̱tasya̱ dhāra̍yā ||
+9.63.5	indra̱ṁ vardha̍nto a̱ptura̍ḥ kṛ̱ṇvanto̱ viśva̱m ārya̍m | a̱pa̱ghnanto̱ arā̍vṇaḥ ||
+9.63.6	su̱tā anu̱ svam ā rajo̱ 'bhy a̍rṣanti ba̱bhrava̍ḥ | indra̱ṁ gaccha̍nta̱ inda̍vaḥ ||
+9.63.7	a̱yā pa̍vasva̱ dhāra̍yā̱ yayā̱ sūrya̱m aro̍cayaḥ | hi̱nvā̱no mānu̍ṣīr a̱paḥ ||
+9.63.8	ayu̍kta̱ sūra̱ eta̍śa̱m pava̍māno ma̱nāv adhi̍ | a̱ntari̍kṣeṇa̱ yāta̍ve ||
+9.63.9	u̱ta tyā ha̱rito̱ daśa̱ sūro̍ ayukta̱ yāta̍ve | indu̱r indra̱ iti̍ bru̱van ||
+9.63.10	parī̱to vā̱yave̍ su̱taṁ gira̱ indrā̍ya matsa̱ram | avyo̱ vāre̍ṣu siñcata ||
+9.63.11	pava̍māna vi̱dā ra̱yim a̱smabhya̍ṁ soma du̱ṣṭara̍m | yo dū̱ṇāśo̍ vanuṣya̱tā ||
+9.63.12	a̱bhy a̍rṣa saha̱sriṇa̍ṁ ra̱yiṁ goma̍ntam a̱śvina̍m | a̱bhi vāja̍m u̱ta śrava̍ḥ ||
+9.63.13	somo̍ de̱vo na sūryo 'dri̍bhiḥ pavate su̱taḥ | dadhā̍naḥ ka̱laśe̱ rasa̍m ||
+9.63.14	e̱te dhāmā̱ny āryā̍ śu̱krā ṛ̱tasya̱ dhāra̍yā | vāja̱ṁ goma̍ntam akṣaran ||
+9.63.15	su̱tā indrā̍ya va̱jriṇe̱ somā̍so̱ dadhyā̍śiraḥ | pa̱vitra̱m aty a̍kṣaran ||
+9.63.16	pra so̍ma̱ madhu̍mattamo rā̱ye a̍rṣa pa̱vitra̱ ā | mado̱ yo de̍va̱vīta̍maḥ ||
+9.63.17	tam ī̍ mṛjanty ā̱yavo̱ hari̍ṁ na̱dīṣu̍ vā̱jina̍m | indu̱m indrā̍ya matsa̱ram ||
+9.63.18	ā pa̍vasva̱ hira̍ṇyava̱d aśvā̍vat soma vī̱rava̍t | vāja̱ṁ goma̍nta̱m ā bha̍ra ||
+9.63.19	pari̱ vāje̱ na vā̍ja̱yum avyo̱ vāre̍ṣu siñcata | indrā̍ya̱ madhu̍mattamam ||
+9.63.20	ka̱vim mṛ̍janti̱ marjya̍ṁ dhī̱bhir viprā̍ ava̱syava̍ḥ | vṛṣā̱ kani̍krad arṣati ||
+9.63.21	vṛṣa̍ṇaṁ dhī̱bhir a̱ptura̱ṁ soma̍m ṛ̱tasya̱ dhāra̍yā | ma̱tī viprā̱ḥ sam a̍svaran ||
+9.63.22	pava̍sva devāyu̱ṣag indra̍ṁ gacchatu te̱ mada̍ḥ | vā̱yum ā ro̍ha̱ dharma̍ṇā ||
+9.63.23	pava̍māna̱ ni to̍śase ra̱yiṁ so̍ma śra̱vāyya̍m | pri̱yaḥ sa̍mu̱dram ā vi̍śa ||
+9.63.24	a̱pa̱ghnan pa̍vase̱ mṛdha̍ḥ kratu̱vit so̍ma matsa̱raḥ | nu̱dasvāde̍vayu̱ṁ jana̍m ||
+9.63.25	pava̍mānā asṛkṣata̱ somā̍ḥ śu̱krāsa̱ inda̍vaḥ | a̱bhi viśvā̍ni̱ kāvyā̍ ||
+9.63.26	pava̍mānāsa ā̱śava̍ḥ śu̱bhrā a̍sṛgra̱m inda̍vaḥ | ghnanto̱ viśvā̱ apa̱ dviṣa̍ḥ ||
+9.63.27	pava̍mānā di̱vas pary a̱ntari̍kṣād asṛkṣata | pṛ̱thi̱vyā adhi̱ sāna̍vi ||
+9.63.28	pu̱nā̱naḥ so̍ma̱ dhāra̱yendo̱ viśvā̱ apa̱ sridha̍ḥ | ja̱hi rakṣā̍ṁsi sukrato ||
+9.63.29	a̱pa̱ghnan so̍ma ra̱kṣaso̱ 'bhy a̍rṣa̱ kani̍kradat | dyu̱manta̱ṁ śuṣma̍m utta̱mam ||
+9.63.30	a̱sme vasū̍ni dhāraya̱ soma̍ di̱vyāni̱ pārthi̍vā | indo̱ viśvā̍ni̱ vāryā̍ ||
+9.64.1	vṛṣā̍ soma dyu̱mām̐ a̍si̱ vṛṣā̍ deva̱ vṛṣa̍vrataḥ | vṛṣā̱ dharmā̍ṇi dadhiṣe ||
+9.64.2	vṛṣṇa̍s te̱ vṛṣṇya̱ṁ śavo̱ vṛṣā̱ vana̱ṁ vṛṣā̱ mada̍ḥ | sa̱tyaṁ vṛ̍ṣa̱n vṛṣed a̍si ||
+9.64.3	aśvo̱ na ca̍krado̱ vṛṣā̱ saṁ gā i̍ndo̱ sam arva̍taḥ | vi no̍ rā̱ye duro̍ vṛdhi ||
+9.64.4	asṛ̍kṣata̱ pra vā̱jino̍ ga̱vyā somā̍so aśva̱yā | śu̱krāso̍ vīra̱yāśava̍ḥ ||
+9.64.5	śu̱mbhamā̍nā ṛtā̱yubhi̍r mṛ̱jyamā̍nā̱ gabha̍styoḥ | pava̍nte̱ vāre̍ a̱vyaye̍ ||
+9.64.6	te viśvā̍ dā̱śuṣe̱ vasu̱ somā̍ di̱vyāni̱ pārthi̍vā | pava̍ntā̱m āntari̍kṣyā ||
+9.64.7	pava̍mānasya viśvavi̱t pra te̱ sargā̍ asṛkṣata | sūrya̍syeva̱ na ra̱śmaya̍ḥ ||
+9.64.8	ke̱tuṁ kṛ̱ṇvan di̱vas pari̱ viśvā̍ rū̱pābhy a̍rṣasi | sa̱mu̱draḥ so̍ma pinvase ||
+9.64.9	hi̱nvā̱no vāca̍m iṣyasi̱ pava̍māna̱ vidha̍rmaṇi | akrā̍n de̱vo na sūrya̍ḥ ||
+9.64.10	indu̍ḥ paviṣṭa̱ ceta̍naḥ pri̱yaḥ ka̍vī̱nām ma̱tī | sṛ̱jad aśva̍ṁ ra̱thīr i̍va ||
+9.64.11	ū̱rmir yas te̍ pa̱vitra̱ ā de̍vā̱vīḥ pa̱ryakṣa̍rat | sīda̍nn ṛ̱tasya̱ yoni̱m ā ||
+9.64.12	sa no̍ arṣa pa̱vitra̱ ā mado̱ yo de̍va̱vīta̍maḥ | inda̱v indrā̍ya pī̱taye̍ ||
+9.64.13	i̱ṣe pa̍vasva̱ dhāra̍yā mṛ̱jyamā̍no manī̱ṣibhi̍ḥ | indo̍ ru̱cābhi gā i̍hi ||
+9.64.14	pu̱nā̱no vari̍vas kṛ̱dhy ūrja̱ṁ janā̍ya girvaṇaḥ | hare̍ sṛjā̱na ā̱śira̍m ||
+9.64.15	pu̱nā̱no de̱vavī̍taya̱ indra̍sya yāhi niṣkṛ̱tam | dyu̱tā̱no vā̱jibhi̍r ya̱taḥ ||
+9.64.16	pra hi̍nvā̱nāsa̱ inda̱vo 'cchā̍ samu̱dram ā̱śava̍ḥ | dhi̱yā jū̱tā a̍sṛkṣata ||
+9.64.17	ma̱rmṛ̱jā̱nāsa̍ ā̱yavo̱ vṛthā̍ samu̱dram inda̍vaḥ | agma̍nn ṛ̱tasya̱ yoni̱m ā ||
+9.64.18	pari̍ ṇo yāhy asma̱yur viśvā̱ vasū̱ny oja̍sā | pā̱hi na̱ḥ śarma̍ vī̱rava̍t ||
+9.64.19	mimā̍ti̱ vahni̱r eta̍śaḥ pa̱daṁ yu̍jā̱na ṛkva̍bhiḥ | pra yat sa̍mu̱dra āhi̍taḥ ||
+9.64.20	ā yad yoni̍ṁ hira̱ṇyaya̍m ā̱śur ṛ̱tasya̱ sīda̍ti | jahā̱ty apra̍cetasaḥ ||
+9.64.21	a̱bhi ve̱nā a̍nūṣa̱teya̍kṣanti̱ prace̍tasaḥ | majja̱nty avi̍cetasaḥ ||
+9.64.22	indrā̍yendo ma̱rutva̍te̱ pava̍sva̱ madhu̍mattamaḥ | ṛ̱tasya̱ yoni̍m ā̱sada̍m ||
+9.64.23	taṁ tvā̱ viprā̍ vaco̱vida̱ḥ pari̍ ṣkṛṇvanti ve̱dhasa̍ḥ | saṁ tvā̍ mṛjanty ā̱yava̍ḥ ||
+9.64.24	rasa̍ṁ te mi̱tro a̍rya̱mā piba̍nti̱ varu̍ṇaḥ kave | pava̍mānasya ma̱ruta̍ḥ ||
+9.64.25	tvaṁ so̍ma vipa̱ścita̍m punā̱no vāca̍m iṣyasi | indo̍ sa̱hasra̍bharṇasam ||
+9.64.26	u̱to sa̱hasra̍bharṇasa̱ṁ vāca̍ṁ soma makha̱syuva̍m | pu̱nā̱na i̍nda̱v ā bha̍ra ||
+9.64.27	pu̱nā̱na i̍ndav eṣā̱m puru̍hūta̱ janā̍nām | pri̱yaḥ sa̍mu̱dram ā vi̍śa ||
+9.64.28	davi̍dyutatyā ru̱cā pa̍ri̱ṣṭobha̍ntyā kṛ̱pā | somā̍ḥ śu̱krā gavā̍śiraḥ ||
+9.64.29	hi̱nvā̱no he̱tṛbhi̍r ya̱ta ā vāja̍ṁ vā̱jy a̍kramīt | sīda̍nto va̱nuṣo̍ yathā ||
+9.64.30	ṛ̱dhak so̍ma sva̱staye̍ saṁjagmā̱no di̱vaḥ ka̱viḥ | pava̍sva̱ sūryo̍ dṛ̱śe ||
+9.65.1	hi̱nvanti̱ sūra̱m usra̍ya̱ḥ svasā̍ro jā̱maya̱s pati̍m | ma̱hām indu̍m mahī̱yuva̍ḥ ||
+9.65.2	pava̍māna ru̱cā-ru̍cā de̱vo de̱vebhya̱s pari̍ | viśvā̱ vasū̱ny ā vi̍śa ||
+9.65.3	ā pa̍vamāna suṣṭu̱tiṁ vṛ̱ṣṭiṁ de̱vebhyo̱ duva̍ḥ | i̱ṣe pa̍vasva sa̱ṁyata̍m ||
+9.65.4	vṛṣā̱ hy asi̍ bhā̱nunā̍ dyu̱manta̍ṁ tvā havāmahe | pava̍māna svā̱dhya̍ḥ ||
+9.65.5	ā pa̍vasva su̱vīrya̱m manda̍mānaḥ svāyudha | i̱ho ṣv i̍nda̱v ā ga̍hi ||
+9.65.6	yad a̱dbhiḥ pa̍riṣi̱cyase̍ mṛ̱jyamā̍no̱ gabha̍styoḥ | druṇā̍ sa̱dhastha̍m aśnuṣe ||
+9.65.7	pra somā̍ya vyaśva̱vat pava̍mānāya gāyata | ma̱he sa̱hasra̍cakṣase ||
+9.65.8	yasya̱ varṇa̍m madhu̱ścuta̱ṁ hari̍ṁ hi̱nvanty adri̍bhiḥ | indu̱m indrā̍ya pī̱taye̍ ||
+9.65.9	tasya̍ te vā̱jino̍ va̱yaṁ viśvā̱ dhanā̍ni ji̱gyuṣa̍ḥ | sa̱khi̱tvam ā vṛ̍ṇīmahe ||
+9.65.10	vṛṣā̍ pavasva̱ dhāra̍yā ma̱rutva̍te ca matsa̱raḥ | viśvā̱ dadhā̍na̱ oja̍sā ||
+9.65.11	taṁ tvā̍ dha̱rtāra̍m o̱ṇyo̱3̱̍ḥ pava̍māna sva̱rdṛśa̍m | hi̱nve vāje̍ṣu vā̱jina̍m ||
+9.65.12	a̱yā ci̱tto vi̱pānayā̱ hari̍ḥ pavasva̱ dhāra̍yā | yuja̱ṁ vāje̍ṣu codaya ||
+9.65.13	ā na̍ indo ma̱hīm iṣa̱m pava̍sva vi̱śvada̍rśataḥ | a̱smabhya̍ṁ soma gātu̱vit ||
+9.65.14	ā ka̱laśā̍ anūṣa̱tendo̱ dhārā̍bhi̱r oja̍sā | endra̍sya pī̱taye̍ viśa ||
+9.65.15	yasya̍ te̱ madya̱ṁ rasa̍ṁ tī̱vraṁ du̱hanty adri̍bhiḥ | sa pa̍vasvābhimāti̱hā ||
+9.65.16	rājā̍ me̱dhābhi̍r īyate̱ pava̍māno ma̱nāv adhi̍ | a̱ntari̍kṣeṇa̱ yāta̍ve ||
+9.65.17	ā na̍ indo śata̱gvina̱ṁ gavā̱m poṣa̱ṁ svaśvya̍m | vahā̱ bhaga̍ttim ū̱taye̍ ||
+9.65.18	ā na̍ḥ soma̱ saho̱ juvo̍ rū̱paṁ na varca̍se bhara | su̱ṣvā̱ṇo de̱vavī̍taye ||
+9.65.19	arṣā̍ soma dyu̱matta̍mo̱ 'bhi droṇā̍ni̱ roru̍vat | sīda̍ñ chye̱no na yoni̱m ā ||
+9.65.20	a̱psā indrā̍ya vā̱yave̱ varu̍ṇāya ma̱rudbhya̍ḥ | somo̍ arṣati̱ viṣṇa̍ve ||
+9.65.21	iṣa̍ṁ to̱kāya̍ no̱ dadha̍d a̱smabhya̍ṁ soma vi̱śvata̍ḥ | ā pa̍vasva saha̱sriṇa̍m ||
+9.65.22	ye somā̍saḥ parā̱vati̱ ye a̍rvā̱vati̍ sunvi̱re | ye vā̱daḥ śa̍rya̱ṇāva̍ti ||
+9.65.23	ya ā̍rjī̱keṣu̱ kṛtva̍su̱ ye madhye̍ pa̱styā̍nām | ye vā̱ jane̍ṣu pa̱ñcasu̍ ||
+9.65.24	te no̍ vṛ̱ṣṭiṁ di̱vas pari̱ pava̍ntā̱m ā su̱vīrya̍m | su̱vā̱nā de̱vāsa̱ inda̍vaḥ ||
+9.65.25	pava̍te harya̱to hari̍r gṛṇā̱no ja̱mada̍gninā | hi̱nvā̱no gor adhi̍ tva̱ci ||
+9.65.26	pra śu̱krāso̍ vayo̱juvo̍ hinvā̱nāso̱ na sapta̍yaḥ | śrī̱ṇā̱nā a̱psu mṛ̍ñjata ||
+9.65.27	taṁ tvā̍ su̱teṣv ā̱bhuvo̍ hinvi̱re de̱vatā̍taye | sa pa̍vasvā̱nayā̍ ru̱cā ||
+9.65.28	ā te̱ dakṣa̍m mayo̱bhuva̱ṁ vahni̍m a̱dyā vṛ̍ṇīmahe | pānta̱m ā pu̍ru̱spṛha̍m ||
+9.65.29	ā ma̱ndram ā vare̍ṇya̱m ā vipra̱m ā ma̍nī̱ṣiṇa̍m | pānta̱m ā pu̍ru̱spṛha̍m ||
+9.65.30	ā ra̱yim ā su̍ce̱tuna̱m ā su̍krato ta̱nūṣv ā | pānta̱m ā pu̍ru̱spṛha̍m ||
+9.66.1	pava̍sva viśvacarṣaṇe̱ 'bhi viśvā̍ni̱ kāvyā̍ | sakhā̱ sakhi̍bhya̱ īḍya̍ḥ ||
+9.66.2	tābhyā̱ṁ viśva̍sya rājasi̱ ye pa̍vamāna̱ dhāma̍nī | pra̱tī̱cī so̍ma ta̱sthatu̍ḥ ||
+9.66.3	pari̱ dhāmā̍ni̱ yāni̍ te̱ tvaṁ so̍māsi vi̱śvata̍ḥ | pava̍māna ṛ̱tubhi̍ḥ kave ||
+9.66.4	pava̍sva ja̱naya̱nn iṣo̱ 'bhi viśvā̍ni̱ vāryā̍ | sakhā̱ sakhi̍bhya ū̱taye̍ ||
+9.66.5	tava̍ śu̱krāso̍ a̱rcayo̍ di̱vas pṛ̱ṣṭhe vi ta̍nvate | pa̱vitra̍ṁ soma̱ dhāma̍bhiḥ ||
+9.66.6	tave̱me sa̱pta sindha̍vaḥ pra̱śiṣa̍ṁ soma sisrate | tubhya̍ṁ dhāvanti dhe̱nava̍ḥ ||
+9.66.7	pra so̍ma yāhi̱ dhāra̍yā su̱ta indrā̍ya matsa̱raḥ | dadhā̍no̱ akṣi̍ti̱ śrava̍ḥ ||
+9.66.8	sam u̍ tvā dhī̱bhir a̍svaran hinva̱tīḥ sa̱pta jā̱maya̍ḥ | vipra̍m ā̱jā vi̱vasva̍taḥ ||
+9.66.9	mṛ̱janti̍ tvā̱ sam a̱gruvo 'vye̍ jī̱rāv adhi̱ ṣvaṇi̍ | re̱bho yad a̱jyase̱ vane̍ ||
+9.66.10	pava̍mānasya te kave̱ vāji̱n sargā̍ asṛkṣata | arva̍nto̱ na śra̍va̱syava̍ḥ ||
+9.66.11	acchā̱ kośa̍m madhu̱ścuta̱m asṛ̍gra̱ṁ vāre̍ a̱vyaye̍ | avā̍vaśanta dhī̱taya̍ḥ ||
+9.66.12	acchā̍ samu̱dram inda̱vo 'sta̱ṁ gāvo̱ na dhe̱nava̍ḥ | agma̍nn ṛ̱tasya̱ yoni̱m ā ||
+9.66.13	pra ṇa̍ indo ma̱he raṇa̱ āpo̍ arṣanti̱ sindha̍vaḥ | yad gobhi̍r vāsayi̱ṣyase̍ ||
+9.66.14	asya̍ te sa̱khye va̱yam iya̍kṣanta̱s tvota̍yaḥ | indo̍ sakhi̱tvam u̍śmasi ||
+9.66.15	ā pa̍vasva̱ gavi̍ṣṭaye ma̱he so̍ma nṛ̱cakṣa̍se | endra̍sya ja̱ṭhare̍ viśa ||
+9.66.16	ma̱hām̐ a̍si soma̱ jyeṣṭha̍ u̱grāṇā̍m inda̱ oji̍ṣṭhaḥ | yudhvā̱ sañ chaśva̍j jigetha ||
+9.66.17	ya u̱grebhya̍ś ci̱d ojī̍yā̱ñ chūre̍bhyaś ci̱c chūra̍taraḥ | bhū̱ri̱dābhya̍ś ci̱n maṁhī̍yān ||
+9.66.18	tvaṁ so̍ma̱ sūra̱ eṣa̍s to̱kasya̍ sā̱tā ta̱nūnā̍m | vṛ̱ṇī̱mahe̍ sa̱khyāya̍ vṛṇī̱mahe̱ yujyā̍ya ||
+9.66.19	agna̱ āyū̍ṁṣi pavasa̱ ā su̱vorja̱m iṣa̍ṁ ca naḥ | ā̱re bā̍dhasva du̱cchunā̍m ||
+9.66.20	a̱gnir ṛṣi̱ḥ pava̍māna̱ḥ pāñca̍janyaḥ pu̱rohi̍taḥ | tam ī̍mahe mahāga̱yam ||
+9.66.21	agne̱ pava̍sva̱ svapā̍ a̱sme varca̍ḥ su̱vīrya̍m | dadha̍d ra̱yim mayi̱ poṣa̍m ||
+9.66.22	pava̍māno̱ ati̱ sridho̱ 'bhy a̍rṣati suṣṭu̱tim | sūro̱ na vi̱śvada̍rśataḥ ||
+9.66.23	sa ma̍rmṛjā̱na ā̱yubhi̱ḥ praya̍svā̱n praya̍se hi̱taḥ | indu̱r atyo̍ vicakṣa̱ṇaḥ ||
+9.66.24	pava̍māna ṛ̱tam bṛ̱hac chu̱kraṁ jyoti̍r ajījanat | kṛ̱ṣṇā tamā̍ṁsi̱ jaṅgha̍nat ||
+9.66.25	pava̍mānasya̱ jaṅghna̍to̱ hare̍ś ca̱ndrā a̍sṛkṣata | jī̱rā a̍ji̱raśo̍ciṣaḥ ||
+9.66.26	pava̍māno ra̱thīta̍maḥ śu̱bhrebhi̍ḥ śu̱bhraśa̍stamaḥ | hari̍ścandro ma̱rudga̍ṇaḥ ||
+9.66.27	pava̍māno̱ vy a̍śnavad ra̱śmibhi̍r vāja̱sāta̍maḥ | dadha̍t sto̱tre su̱vīrya̍m ||
+9.66.28	pra su̍vā̱na indu̍r akṣāḥ pa̱vitra̱m aty a̱vyaya̍m | pu̱nā̱na indu̱r indra̱m ā ||
+9.66.29	e̱ṣa somo̱ adhi̍ tva̱ci gavā̍ṁ krīḻa̱ty adri̍bhiḥ | indra̱m madā̍ya̱ johu̍vat ||
+9.66.30	yasya̍ te dyu̱mnava̱t paya̱ḥ pava̍mā̱nābhṛ̍taṁ di̱vaḥ | tena̍ no mṛḻa jī̱vase̍ ||
+9.67.1	tvaṁ so̍māsi dhāra̱yur ma̱ndra oji̍ṣṭho adhva̱re | pava̍sva maṁha̱yadra̍yiḥ ||
+9.67.2	tvaṁ su̱to nṛ̱māda̍no dadha̱nvān ma̍tsa̱rinta̍maḥ | indrā̍ya sū̱rir andha̍sā ||
+9.67.3	tvaṁ su̍ṣvā̱ṇo adri̍bhir a̱bhy a̍rṣa̱ kani̍kradat | dyu̱manta̱ṁ śuṣma̍m utta̱mam ||
+9.67.4	indu̍r hinvā̱no a̍rṣati ti̱ro vārā̍ṇy a̱vyayā̍ | hari̱r vāja̍m acikradat ||
+9.67.5	indo̱ vy avya̍m arṣasi̱ vi śravā̍ṁsi̱ vi saubha̍gā | vi vājā̍n soma̱ goma̍taḥ ||
+9.67.6	ā na̍ indo śata̱gvina̍ṁ ra̱yiṁ goma̍ntam a̱śvina̍m | bharā̍ soma saha̱sriṇa̍m ||
+9.67.7	pava̍mānāsa̱ inda̍vas ti̱raḥ pa̱vitra̍m ā̱śava̍ḥ | indra̱ṁ yāme̍bhir āśata ||
+9.67.8	ka̱ku̱haḥ so̱myo rasa̱ indu̱r indrā̍ya pū̱rvyaḥ | ā̱yuḥ pa̍vata ā̱yave̍ ||
+9.67.9	hi̱nvanti̱ sūra̱m usra̍ya̱ḥ pava̍mānam madhu̱ścuta̍m | a̱bhi gi̱rā sam a̍svaran ||
+9.67.10	a̱vi̱tā no̍ a̱jāśva̍ḥ pū̱ṣā yāma̍ni-yāmani | ā bha̍kṣat ka̱nyā̍su naḥ ||
+9.67.11	a̱yaṁ soma̍ḥ kapa̱rdine̍ ghṛ̱taṁ na pa̍vate̱ madhu̍ | ā bha̍kṣat ka̱nyā̍su naḥ ||
+9.67.12	a̱yaṁ ta̍ āghṛṇe su̱to ghṛ̱taṁ na pa̍vate̱ śuci̍ | ā bha̍kṣat ka̱nyā̍su naḥ ||
+9.67.13	vā̱co ja̱ntuḥ ka̍vī̱nām pava̍sva soma̱ dhāra̍yā | de̱veṣu̍ ratna̱dhā a̍si ||
+9.67.14	ā ka̱laśe̍ṣu dhāvati śye̱no varma̱ vi gā̍hate | a̱bhi droṇā̱ kani̍kradat ||
+9.67.15	pari̱ pra so̍ma te̱ raso 'sa̍rji ka̱laśe̍ su̱taḥ | śye̱no na ta̱kto a̍rṣati ||
+9.67.16	pava̍sva soma ma̱ndaya̱nn indrā̍ya̱ madhu̍mattamaḥ ||
+9.67.17	asṛ̍gran de̱vavī̍taye vāja̱yanto̱ rathā̍ iva ||
+9.67.18	te su̱tāso̍ ma̱dinta̍māḥ śu̱krā vā̱yum a̍sṛkṣata ||
+9.67.19	grāvṇā̍ tu̱nno a̱bhiṣṭu̍taḥ pa̱vitra̍ṁ soma gacchasi | dadha̍t sto̱tre su̱vīrya̍m ||
+9.67.20	e̱ṣa tu̱nno a̱bhiṣṭu̍taḥ pa̱vitra̱m ati̍ gāhate | ra̱kṣo̱hā vāra̍m a̱vyaya̍m ||
+9.67.21	yad anti̱ yac ca̍ dūra̱ke bha̱yaṁ vi̱ndati̱ mām i̱ha | pava̍māna̱ vi taj ja̍hi ||
+9.67.22	pava̍māna̱ḥ so a̱dya na̍ḥ pa̱vitre̍ṇa̱ vica̍rṣaṇiḥ | yaḥ po̱tā sa pu̍nātu naḥ ||
+9.67.23	yat te̍ pa̱vitra̍m a̱rciṣy agne̱ vita̍tam a̱ntar ā | brahma̱ tena̍ punīhi naḥ ||
+9.67.24	yat te̍ pa̱vitra̍m arci̱vad agne̱ tena̍ punīhi naḥ | bra̱hma̱sa̱vaiḥ pu̍nīhi naḥ ||
+9.67.25	u̱bhābhyā̍ṁ deva savitaḥ pa̱vitre̍ṇa sa̱vena̍ ca | mām pu̍nīhi vi̱śvata̍ḥ ||
+9.67.26	tri̱bhiṣ ṭvaṁ de̍va savita̱r varṣi̍ṣṭhaiḥ soma̱ dhāma̍bhiḥ | agne̱ dakṣai̍ḥ punīhi naḥ ||
+9.67.27	pu̱nantu̱ māṁ de̍vaja̱nāḥ pu̱nantu̱ vasa̍vo dhi̱yā | viśve̍ devāḥ punī̱ta mā̱ jāta̍vedaḥ punī̱hi mā̍ ||
+9.67.28	pra pyā̍yasva̱ pra sya̍ndasva̱ soma̱ viśve̍bhir a̱ṁśubhi̍ḥ | de̱vebhya̍ utta̱maṁ ha̱viḥ ||
+9.67.29	upa̍ pri̱yam pani̍pnata̱ṁ yuvā̍nam āhutī̱vṛdha̍m | aga̍nma̱ bibhra̍to̱ nama̍ḥ ||
+9.67.30	a̱lāyya̍sya para̱śur na̍nāśa̱ tam ā pa̍vasva deva soma | ā̱khuṁ ci̍d e̱va de̍va soma ||
+9.67.31	yaḥ pā̍vamā̱nīr a̱dhyety ṛṣi̍bhi̱ḥ sambhṛ̍ta̱ṁ rasa̍m | sarva̱ṁ sa pū̱tam a̍śnāti svadi̱tam mā̍ta̱riśva̍nā ||
+9.67.32	pā̱va̱mā̱nīr yo a̱dhyety ṛṣi̍bhi̱ḥ sambhṛ̍ta̱ṁ rasa̍m | tasmai̱ sara̍svatī duhe kṣī̱raṁ sa̱rpir madhū̍da̱kam ||
+9.68.1	pra de̱vam acchā̱ madhu̍manta̱ inda̱vo 'si̍ṣyadanta̱ gāva̱ ā na dhe̱nava̍ḥ | ba̱rhi̱ṣado̍ vaca̱nāva̍nta̱ ūdha̍bhiḥ pari̱sruta̍m u̱sriyā̍ ni̱rṇija̍ṁ dhire ||
+9.68.2	sa roru̍vad a̱bhi pūrvā̍ acikradad upā̱ruha̍ḥ śra̱thaya̍n svādate̱ hari̍ḥ | ti̱raḥ pa̱vitra̍m pari̱yann u̱ru jrayo̱ ni śaryā̍ṇi dadhate de̱va ā vara̍m ||
+9.68.3	vi yo ma̱me ya̱myā̍ saṁya̱tī mada̍ḥ sāka̱ṁvṛdhā̱ paya̍sā pinva̱d akṣi̍tā | ma̱hī a̍pā̱re raja̍sī vi̱vevi̍dad abhi̱vraja̱nn akṣi̍ta̱m pāja̱ ā da̍de ||
+9.68.4	sa mā̱tarā̍ vi̱cara̍n vā̱jaya̍nn a̱paḥ pra medhi̍raḥ sva̱dhayā̍ pinvate pa̱dam | a̱ṁśur yave̍na pipiśe ya̱to nṛbhi̱ḥ saṁ jā̱mibhi̱r nasa̍te̱ rakṣa̍te̱ śira̍ḥ ||
+9.68.5	saṁ dakṣe̍ṇa̱ mana̍sā jāyate ka̱vir ṛ̱tasya̱ garbho̱ nihi̍to ya̱mā pa̱raḥ | yūnā̍ ha̱ santā̍ pratha̱maṁ vi ja̍jñatu̱r guhā̍ hi̱taṁ jani̍ma̱ nema̱m udya̍tam ||
+9.68.6	ma̱ndrasya̍ rū̱paṁ vi̍vidur manī̱ṣiṇa̍ḥ śye̱no yad andho̱ abha̍rat parā̱vata̍ḥ | tam ma̍rjayanta su̱vṛdha̍ṁ na̱dīṣv ām̐ u̱śanta̍m a̱ṁśum pa̍ri̱yanta̍m ṛ̱gmiya̍m ||
+9.68.7	tvām mṛ̍janti̱ daśa̱ yoṣa̍ṇaḥ su̱taṁ soma̱ ṛṣi̍bhir ma̱tibhi̍r dhī̱tibhi̍r hi̱tam | avyo̱ vāre̍bhir u̱ta de̱vahū̍tibhi̱r nṛbhi̍r ya̱to vāja̱m ā da̍rṣi sā̱taye̍ ||
+9.68.8	pa̱ri̱pra̱yanta̍ṁ va̱yya̍ṁ suṣa̱ṁsada̱ṁ soma̍m manī̱ṣā a̱bhy a̍nūṣata̱ stubha̍ḥ | yo dhāra̍yā̱ madhu̍mām̐ ū̱rmiṇā̍ di̱va iya̍rti̱ vāca̍ṁ rayi̱ṣāḻ ama̍rtyaḥ ||
+9.68.9	a̱yaṁ di̱va i̍yarti̱ viśva̱m ā raja̱ḥ soma̍ḥ punā̱naḥ ka̱laśe̍ṣu sīdati | a̱dbhir gobhi̍r mṛjyate̱ adri̍bhiḥ su̱taḥ pu̍nā̱na indu̱r vari̍vo vidat pri̱yam ||
+9.68.10	e̱vā na̍ḥ soma pariṣi̱cyamā̍no̱ vayo̱ dadha̍c ci̱trata̍mam pavasva | a̱dve̱ṣe dyāvā̍pṛthi̱vī hu̍vema̱ devā̍ dha̱tta ra̱yim a̱sme su̱vīra̍m ||
+9.69.1	iṣu̱r na dhanva̱n prati̍ dhīyate ma̱tir va̱tso na mā̱tur upa̍ sa̱rjy ūdha̍ni | u̱rudhā̍reva duhe̱ agra̍ āya̱ty asya̍ vra̱teṣv api̱ soma̍ iṣyate ||
+9.69.2	upo̍ ma̱tiḥ pṛ̱cyate̍ si̱cyate̱ madhu̍ ma̱ndrāja̍nī codate a̱ntar ā̱sani̍ | pava̍mānaḥ saṁta̱niḥ pra̍ghna̱tām i̍va̱ madhu̍mān dra̱psaḥ pari̱ vāra̍m arṣati ||
+9.69.3	avye̍ vadhū̱yuḥ pa̍vate̱ pari̍ tva̱ci śra̍thnī̱te na̱ptīr adi̍ter ṛ̱taṁ ya̱te | hari̍r akrān yaja̱taḥ sa̍ṁya̱to mado̍ nṛ̱mṇā śiśā̍no mahi̱ṣo na śo̍bhate ||
+9.69.4	u̱kṣā mi̍māti̱ prati̍ yanti dhe̱navo̍ de̱vasya̍ de̱vīr upa̍ yanti niṣkṛ̱tam | aty a̍kramī̱d arju̍na̱ṁ vāra̍m a̱vyaya̱m atka̱ṁ na ni̱ktam pari̱ somo̍ avyata ||
+9.69.5	amṛ̍ktena̱ ruśa̍tā̱ vāsa̍sā̱ hari̱r ama̍rtyo nirṇijā̱naḥ pari̍ vyata | di̱vas pṛ̱ṣṭham ba̱rhaṇā̍ ni̱rṇije̍ kṛtopa̱stara̍ṇaṁ ca̱mvo̍r nabha̱smaya̍m ||
+9.69.6	sūrya̍syeva ra̱śmayo̍ drāvayi̱tnavo̍ matsa̱rāsa̍ḥ pra̱supa̍ḥ sā̱kam ī̍rate | tantu̍ṁ ta̱tam pari̱ sargā̍sa ā̱śavo̱ nendrā̍d ṛ̱te pa̍vate̱ dhāma̱ kiṁ ca̱na ||
+9.69.7	sindho̍r iva prava̱ṇe ni̱mna ā̱śavo̱ vṛṣa̍cyutā̱ madā̍so gā̱tum ā̍śata | śaṁ no̍ nive̱śe dvi̱pade̱ catu̍ṣpade̱ 'sme vājā̍ḥ soma tiṣṭhantu kṛ̱ṣṭaya̍ḥ ||
+9.69.8	ā na̍ḥ pavasva̱ vasu̍ma̱d dhira̍ṇyava̱d aśvā̍va̱d goma̱d yava̍mat su̱vīrya̍m | yū̱yaṁ hi so̍ma pi̱taro̱ mama̱ sthana̍ di̱vo mū̱rdhāna̱ḥ prasthi̍tā vaya̱skṛta̍ḥ ||
+9.69.9	e̱te somā̱ḥ pava̍mānāsa̱ indra̱ṁ rathā̍ iva̱ pra ya̍yuḥ sā̱tim accha̍ | su̱tāḥ pa̱vitra̱m ati̍ ya̱nty avya̍ṁ hi̱tvī va̱vriṁ ha̱rito̍ vṛ̱ṣṭim accha̍ ||
+9.69.10	inda̱v indrā̍ya bṛha̱te pa̍vasva sumṛḻī̱ko a̍nava̱dyo ri̱śādā̍ḥ | bharā̍ ca̱ndrāṇi̍ gṛṇa̱te vasū̍ni de̱vair dyā̍vāpṛthivī̱ prāva̍taṁ naḥ ||
+9.70.1	trir a̍smai sa̱pta dhe̱navo̍ duduhre sa̱tyām ā̱śira̍m pū̱rvye vyo̍mani | ca̱tvāry a̱nyā bhuva̍nāni ni̱rṇije̱ cārū̍ṇi cakre̱ yad ṛ̱tair ava̍rdhata ||
+9.70.2	sa bhikṣa̍māṇo a̱mṛta̍sya̱ cāru̍ṇa u̱bhe dyāvā̱ kāvye̍nā̱ vi śa̍śrathe | teji̍ṣṭhā a̱po ma̱ṁhanā̱ pari̍ vyata̱ yadī̍ de̱vasya̱ śrava̍sā̱ sado̍ vi̱duḥ ||
+9.70.3	te a̍sya santu ke̱tavo 'mṛ̍tya̱vo 'dā̍bhyāso ja̱nuṣī̍ u̱bhe anu̍ | yebhi̍r nṛ̱mṇā ca̍ de̱vyā̍ ca puna̱ta ād id rājā̍nam ma̱nanā̍ agṛbhṇata ||
+9.70.4	sa mṛ̱jyamā̍no da̱śabhi̍ḥ su̱karma̍bhi̱ḥ pra ma̍dhya̱māsu̍ mā̱tṛṣu̍ pra̱me sacā̍ | vra̱tāni̍ pā̱no a̱mṛta̍sya̱ cāru̍ṇa u̱bhe nṛ̱cakṣā̱ anu̍ paśyate̱ viśau̍ ||
+9.70.5	sa ma̍rmṛjā̱na i̍ndri̱yāya̱ dhāya̍sa̱ obhe a̱ntā roda̍sī harṣate hi̱taḥ | vṛṣā̱ śuṣme̍ṇa bādhate̱ vi du̍rma̱tīr ā̱dedi̍śānaḥ śarya̱heva̍ śu̱rudha̍ḥ ||
+9.70.6	sa mā̱tarā̱ na dadṛ̍śāna u̱sriyo̱ nāna̍dad eti ma̱rutā̍m iva sva̱naḥ | jā̱nann ṛ̱tam pra̍tha̱maṁ yat sva̍rṇara̱m praśa̍staye̱ kam a̍vṛṇīta su̱kratu̍ḥ ||
+9.70.7	ru̱vati̍ bhī̱mo vṛ̍ṣa̱bhas ta̍vi̱ṣyayā̱ śṛṅge̱ śiśā̍no̱ hari̍ṇī vicakṣa̱ṇaḥ | ā yoni̱ṁ soma̱ḥ sukṛ̍ta̱ṁ ni ṣī̍dati ga̱vyayī̱ tvag bha̍vati ni̱rṇig a̱vyayī̍ ||
+9.70.8	śuci̍ḥ punā̱nas ta̱nva̍m are̱pasa̱m avye̱ hari̱r ny a̍dhāviṣṭa̱ sāna̍vi | juṣṭo̍ mi̱trāya̱ varu̍ṇāya vā̱yave̍ tri̱dhātu̱ madhu̍ kriyate su̱karma̍bhiḥ ||
+9.70.9	pava̍sva soma de̱vavī̍taye̱ vṛṣendra̍sya̱ hārdi̍ soma̱dhāna̱m ā vi̍śa | pu̱rā no̍ bā̱dhād du̍ri̱tāti̍ pāraya kṣetra̱vid dhi diśa̱ āhā̍ vipṛccha̱te ||
+9.70.10	hi̱to na sapti̍r a̱bhi vāja̍m a̱rṣendra̍syendo ja̱ṭhara̱m ā pa̍vasva | nā̱vā na sindhu̱m ati̍ parṣi vi̱dvāñ chūro̱ na yudhya̱nn ava̍ no ni̱daḥ spa̍ḥ ||
+9.71.1	ā dakṣi̍ṇā sṛjyate śu̱ṣmy ā̱3̱̍sada̱ṁ veti̍ dru̱ho ra̱kṣasa̍ḥ pāti̱ jāgṛ̍viḥ | hari̍r opa̱śaṁ kṛ̍ṇute̱ nabha̱s paya̍ upa̱stire̍ ca̱mvo̱3̱̍r brahma̍ ni̱rṇije̍ ||
+9.71.2	pra kṛ̍ṣṭi̱heva̍ śū̱ṣa e̍ti̱ roru̍vad asu̱rya1̱̍ṁ varṇa̱ṁ ni ri̍ṇīte asya̱ tam | jahā̍ti va̱vrim pi̱tur e̍ti niṣkṛ̱tam u̍pa̱pruta̍ṁ kṛṇute ni̱rṇija̱ṁ tanā̍ ||
+9.71.3	adri̍bhiḥ su̱taḥ pa̍vate̱ gabha̍styor vṛṣā̱yate̱ nabha̍sā̱ vepa̍te ma̱tī | sa mo̍date̱ nasa̍te̱ sādha̍te gi̱rā ne̍ni̱kte a̱psu yaja̍te̱ parī̍maṇi ||
+9.71.4	pari̍ dyu̱kṣaṁ saha̍saḥ parvatā̱vṛdha̱m madhva̍ḥ siñcanti ha̱rmyasya̍ sa̱kṣaṇi̍m | ā yasmi̱n gāva̍ḥ suhu̱tāda̱ ūdha̍ni mū̱rdhañ chrī̱ṇanty a̍gri̱yaṁ varī̍mabhiḥ ||
+9.71.5	sam ī̱ ratha̱ṁ na bhu̱rijo̍r aheṣata̱ daśa̱ svasā̍ro̱ adi̍ter u̱pastha̱ ā | jigā̱d upa̍ jrayati̱ gor a̍pī̱cya̍m pa̱daṁ yad a̍sya ma̱tuthā̱ ajī̍janan ||
+9.71.6	śye̱no na yoni̱ṁ sada̍naṁ dhi̱yā kṛ̱taṁ hi̍ra̱ṇyaya̍m ā̱sada̍ṁ de̱va eṣa̍ti | e ri̍ṇanti ba̱rhiṣi̍ pri̱yaṁ gi̱rāśvo̱ na de̱vām̐ apy e̍ti ya̱jñiya̍ḥ ||
+9.71.7	parā̱ vya̍kto aru̱ṣo di̱vaḥ ka̱vir vṛṣā̍ tripṛ̱ṣṭho a̍naviṣṭa̱ gā a̱bhi | sa̱hasra̍ṇīti̱r yati̍ḥ parā̱yatī̍ re̱bho na pū̱rvīr u̱ṣaso̱ vi rā̍jati ||
+9.71.8	tve̱ṣaṁ rū̱paṁ kṛ̍ṇute̱ varṇo̍ asya̱ sa yatrāśa̍ya̱t samṛ̍tā̱ sedha̍ti sri̱dhaḥ | a̱psā yā̍ti sva̱dhayā̱ daivya̱ṁ jana̱ṁ saṁ su̍ṣṭu̱tī nasa̍te̱ saṁ goa̍grayā ||
+9.71.9	u̱kṣeva̍ yū̱thā pa̍ri̱yann a̍rāvī̱d adhi̱ tviṣī̍r adhita̱ sūrya̍sya | di̱vyaḥ su̍pa̱rṇo 'va̍ cakṣata̱ kṣāṁ soma̱ḥ pari̱ kratu̍nā paśyate̱ jāḥ ||
+9.72.1	hari̍m mṛjanty aru̱ṣo na yu̍jyate̱ saṁ dhe̱nubhi̍ḥ ka̱laśe̱ somo̍ ajyate | ud vāca̍m ī̱raya̍ti hi̱nvate̍ ma̱tī pu̍ruṣṭu̱tasya̱ kati̍ cit pari̱priya̍ḥ ||
+9.72.2	sā̱kaṁ va̍danti ba̱havo̍ manī̱ṣiṇa̱ indra̍sya̱ soma̍ṁ ja̱ṭhare̱ yad ā̍du̱huḥ | yadī̍ mṛ̱janti̱ suga̍bhastayo̱ nara̱ḥ sanī̍ḻābhir da̱śabhi̱ḥ kāmya̱m madhu̍ ||
+9.72.3	ara̍mamāṇo̱ aty e̍ti̱ gā a̱bhi sūrya̍sya pri̱yaṁ du̍hi̱tus ti̱ro rava̍m | anv a̍smai̱ joṣa̍m abharad vinaṁgṛ̱saḥ saṁ dva̱yībhi̱ḥ svasṛ̍bhiḥ kṣeti jā̱mibhi̍ḥ ||
+9.72.4	nṛdhū̍to̱ adri̍ṣuto ba̱rhiṣi̍ pri̱yaḥ pati̱r gavā̍m pra̱diva̱ indu̍r ṛ̱tviya̍ḥ | pura̍ṁdhivā̱n manu̍ṣo yajña̱sādha̍na̱ḥ śuci̍r dhi̱yā pa̍vate̱ soma̍ indra te ||
+9.72.5	nṛbā̱hubhyā̍ṁ codi̱to dhāra̍yā su̱to̍ 'nuṣva̱dham pa̍vate̱ soma̍ indra te | āprā̱ḥ kratū̱n sam a̍jair adhva̱re ma̱tīr ver na dru̱ṣac ca̱mvo̱3̱̍r āsa̍da̱d dhari̍ḥ ||
+9.72.6	a̱ṁśuṁ du̍hanti sta̱naya̍nta̱m akṣi̍taṁ ka̱viṁ ka̱vayo̱ 'paso̍ manī̱ṣiṇa̍ḥ | sam ī̱ gāvo̍ ma̱tayo̍ yanti sa̱ṁyata̍ ṛ̱tasya̱ yonā̱ sada̍ne puna̱rbhuva̍ḥ ||
+9.72.7	nābhā̍ pṛthi̱vyā dha̱ruṇo̍ ma̱ho di̱vo̱3̱̍ 'pām ū̱rmau sindhu̍ṣv a̱ntar u̍kṣi̱taḥ | indra̍sya̱ vajro̍ vṛṣa̱bho vi̱bhūva̍su̱ḥ somo̍ hṛ̱de pa̍vate̱ cāru̍ matsa̱raḥ ||
+9.72.8	sa tū pa̍vasva̱ pari̱ pārthi̍va̱ṁ raja̍ḥ sto̱tre śikṣa̍nn ādhūnva̱te ca̍ sukrato | mā no̱ nir bhā̱g vasu̍naḥ sādana̱spṛśo̍ ra̱yim pi̱śaṅga̍m bahu̱laṁ va̍sīmahi ||
+9.72.9	ā tū na̍ indo śa̱tadā̱tv aśvya̍ṁ sa̱hasra̍dātu paśu̱mad dhira̍ṇyavat | upa̍ māsva bṛha̱tī re̱vatī̱r iṣo 'dhi̍ sto̱trasya̍ pavamāna no gahi ||
+9.73.1	srakve̍ dra̱psasya̱ dhama̍ta̱ḥ sam a̍svarann ṛ̱tasya̱ yonā̱ sam a̍ranta̱ nābha̍yaḥ | trīn sa mū̱rdhno asu̍raś cakra ā̱rabhe̍ sa̱tyasya̱ nāva̍ḥ su̱kṛta̍m apīparan ||
+9.73.2	sa̱myak sa̱myañco̍ mahi̱ṣā a̍heṣata̱ sindho̍r ū̱rmāv adhi̍ ve̱nā a̍vīvipan | madho̱r dhārā̍bhir ja̱naya̍nto a̱rkam it pri̱yām indra̍sya ta̱nva̍m avīvṛdhan ||
+9.73.3	pa̱vitra̍vanta̱ḥ pari̱ vāca̍m āsate pi̱taiṣā̍m pra̱tno a̱bhi ra̍kṣati vra̱tam | ma̱haḥ sa̍mu̱draṁ varu̍ṇas ti̱ro da̍dhe̱ dhīrā̱ ic che̍kur dha̱ruṇe̍ṣv ā̱rabha̍m ||
+9.73.4	sa̱hasra̍dhā̱re 'va̱ te sam a̍svaran di̱vo nāke̱ madhu̍jihvā asa̱ścata̍ḥ | asya̱ spaśo̱ na ni mi̍ṣanti̱ bhūrṇa̍yaḥ pa̱de-pa̍de pā̱śina̍ḥ santi̱ seta̍vaḥ ||
+9.73.5	pi̱tur mā̱tur adhy ā ye sa̱masva̍rann ṛ̱cā śoca̍ntaḥ sa̱ṁdaha̍nto avra̱tān | indra̍dviṣṭā̱m apa̍ dhamanti mā̱yayā̱ tvaca̱m asi̍knī̱m bhūma̍no di̱vas pari̍ ||
+9.73.6	pra̱tnān mānā̱d adhy ā ye sa̱masva̍ra̱ñ chloka̍yantrāso rabha̱sasya̱ manta̍vaḥ | apā̍na̱kṣāso̍ badhi̱rā a̍hāsata ṛ̱tasya̱ panthā̱ṁ na ta̍ranti du̱ṣkṛta̍ḥ ||
+9.73.7	sa̱hasra̍dhāre̱ vita̍te pa̱vitra̱ ā vāca̍m punanti ka̱vayo̍ manī̱ṣiṇa̍ḥ | ru̱drāsa̍ eṣām iṣi̱rāso̍ a̱druha̱ḥ spaśa̱ḥ svañca̍ḥ su̱dṛśo̍ nṛ̱cakṣa̍saḥ ||
+9.73.8	ṛ̱tasya̍ go̱pā na dabhā̍ya su̱kratu̱s trī ṣa pa̱vitrā̍ hṛ̱dy a1̱̍ntar ā da̍dhe | vi̱dvān sa viśvā̱ bhuva̍nā̱bhi pa̍śya̱ty avāju̍ṣṭān vidhyati ka̱rte a̍vra̱tān ||
+9.73.9	ṛ̱tasya̱ tantu̱r vita̍taḥ pa̱vitra̱ ā ji̱hvāyā̱ agre̱ varu̍ṇasya mā̱yayā̍ | dhīrā̍ś ci̱t tat sa̱mina̍kṣanta āśa̱tātrā̍ ka̱rtam ava̍ padā̱ty apra̍bhuḥ ||
+9.74.1	śiśu̱r na jā̱to 'va̍ cakrada̱d vane̱ sva1̱̍r yad vā̱jy a̍ru̱ṣaḥ siṣā̍sati | di̱vo reta̍sā sacate payo̱vṛdhā̱ tam ī̍mahe suma̱tī śarma̍ sa̱pratha̍ḥ ||
+9.74.2	di̱vo yaḥ ska̱mbho dha̱ruṇa̱ḥ svā̍tata̱ āpū̍rṇo a̱ṁśuḥ pa̱ryeti̍ vi̱śvata̍ḥ | seme ma̱hī roda̍sī yakṣad ā̱vṛtā̍ samīcī̱ne dā̍dhāra̱ sam iṣa̍ḥ ka̱viḥ ||
+9.74.3	mahi̱ psara̱ḥ sukṛ̍taṁ so̱myam madhū̱rvī gavyū̍ti̱r adi̍ter ṛ̱taṁ ya̱te | īśe̱ yo vṛ̱ṣṭer i̱ta u̱sriyo̱ vṛṣā̱pāṁ ne̱tā ya i̱taū̍tir ṛ̱gmiya̍ḥ ||
+9.74.4	ā̱tma̱nvan nabho̍ duhyate ghṛ̱tam paya̍ ṛ̱tasya̱ nābhi̍r a̱mṛta̱ṁ vi jā̍yate | sa̱mī̱cī̱nāḥ su̱dāna̍vaḥ prīṇanti̱ taṁ naro̍ hi̱tam ava̍ mehanti̱ pera̍vaḥ ||
+9.74.5	arā̍vīd a̱ṁśuḥ saca̍māna ū̱rmiṇā̍ devā̱vya1̱̍m manu̍ṣe pinvati̱ tvaca̍m | dadhā̍ti̱ garbha̱m adi̍ter u̱pastha̱ ā yena̍ to̱kaṁ ca̱ tana̍yaṁ ca̱ dhāma̍he ||
+9.74.6	sa̱hasra̍dhā̱re 'va̱ tā a̍sa̱ścata̍s tṛ̱tīye̍ santu̱ raja̍si pra̱jāva̍tīḥ | cata̍sro̱ nābho̱ nihi̍tā a̱vo di̱vo ha̱vir bha̍ranty a̱mṛta̍ṁ ghṛta̱ścuta̍ḥ ||
+9.74.7	śve̱taṁ rū̱paṁ kṛ̍ṇute̱ yat siṣā̍sati̱ somo̍ mī̱ḍhvām̐ asu̍ro veda̱ bhūma̍naḥ | dhi̱yā śamī̍ sacate̱ sem a̱bhi pra̱vad di̱vas kava̍ndha̱m ava̍ darṣad u̱driṇa̍m ||
+9.74.8	adha̍ śve̱taṁ ka̱laśa̱ṁ gobhi̍r a̱ktaṁ kārṣma̱nn ā vā̱jy a̍kramīt sasa̱vān | ā hi̍nvire̱ mana̍sā deva̱yanta̍ḥ ka̱kṣīva̍te śa̱tahi̍māya̱ gonā̍m ||
+9.74.9	a̱dbhiḥ so̍ma papṛcā̱nasya̍ te̱ raso 'vyo̱ vāra̱ṁ vi pa̍vamāna dhāvati | sa mṛ̱jyamā̍naḥ ka̱vibhi̍r madintama̱ svada̱svendrā̍ya pavamāna pī̱taye̍ ||
+9.75.1	a̱bhi pri̱yāṇi̍ pavate̱ cano̍hito̱ nāmā̍ni ya̱hvo adhi̱ yeṣu̱ vardha̍te | ā sūrya̍sya bṛha̱to bṛ̱hann adhi̱ ratha̱ṁ viṣva̍ñcam aruhad vicakṣa̱ṇaḥ ||
+9.75.2	ṛ̱tasya̍ ji̱hvā pa̍vate̱ madhu̍ pri̱yaṁ va̱ktā pati̍r dhi̱yo a̱syā adā̍bhyaḥ | dadhā̍ti pu̱traḥ pi̱tror a̍pī̱cya1̱̍ṁ nāma̍ tṛ̱tīya̱m adhi̍ roca̱ne di̱vaḥ ||
+9.75.3	ava̍ dyutā̱naḥ ka̱laśā̍m̐ acikrada̱n nṛbhi̍r yemā̱naḥ kośa̱ ā hi̍ra̱ṇyaye̍ | a̱bhīm ṛ̱tasya̍ do̱hanā̍ anūṣa̱tādhi̍ tripṛ̱ṣṭha u̱ṣaso̱ vi rā̍jati ||
+9.75.4	adri̍bhiḥ su̱to ma̱tibhi̱ś cano̍hitaḥ praro̱caya̱n roda̍sī mā̱tarā̱ śuci̍ḥ | romā̱ṇy avyā̍ sa̱mayā̱ vi dhā̍vati̱ madho̱r dhārā̱ pinva̍mānā di̱ve-di̍ve ||
+9.75.5	pari̍ soma̱ pra dha̍nvā sva̱staye̱ nṛbhi̍ḥ punā̱no a̱bhi vā̍sayā̱śira̍m | ye te̱ madā̍ āha̱naso̱ vihā̍yasa̱s tebhi̱r indra̍ṁ codaya̱ dāta̍ve ma̱gham ||
+9.76.1	dha̱rtā di̱vaḥ pa̍vate̱ kṛtvyo̱ raso̱ dakṣo̍ de̱vānā̍m anu̱mādyo̱ nṛbhi̍ḥ | hari̍ḥ sṛjā̱no atyo̱ na satva̍bhi̱r vṛthā̱ pājā̍ṁsi kṛṇute na̱dīṣv ā ||
+9.76.2	śūro̱ na dha̍tta̱ āyu̍dhā̱ gabha̍styo̱ḥ sva1̱̍ḥ siṣā̍san rathi̱ro gavi̍ṣṭiṣu | indra̍sya̱ śuṣma̍m ī̱raya̍nn apa̱syubhi̱r indu̍r hinvā̱no a̍jyate manī̱ṣibhi̍ḥ ||
+9.76.3	indra̍sya soma̱ pava̍māna ū̱rmiṇā̍ tavi̱ṣyamā̍ṇo ja̱ṭhare̱ṣv ā vi̍śa | pra ṇa̍ḥ pinva vi̱dyud a̱bhreva̱ roda̍sī dhi̱yā na vājā̱m̐ upa̍ māsi̱ śaśva̍taḥ ||
+9.76.4	viśva̍sya̱ rājā̍ pavate sva̱rdṛśa̍ ṛ̱tasya̍ dhī̱tim ṛ̍ṣi̱ṣāḻ a̍vīvaśat | yaḥ sūrya̱syāsi̍reṇa mṛ̱jyate̍ pi̱tā ma̍tī̱nām asa̍maṣṭakāvyaḥ ||
+9.76.5	vṛṣe̍va yū̱thā pari̱ kośa̍m arṣasy a̱pām u̱pasthe̍ vṛṣa̱bhaḥ kani̍kradat | sa indrā̍ya pavase matsa̱rinta̍mo̱ yathā̱ jeṣā̍ma sami̱the tvota̍yaḥ ||
+9.77.1	e̱ṣa pra kośe̱ madhu̍mām̐ acikrada̱d indra̍sya̱ vajro̱ vapu̍ṣo̱ vapu̍ṣṭaraḥ | a̱bhīm ṛ̱tasya̍ su̱dughā̍ ghṛta̱ścuto̍ vā̱śrā a̍rṣanti̱ paya̍seva dhe̱nava̍ḥ ||
+9.77.2	sa pū̱rvyaḥ pa̍vate̱ yaṁ di̱vas pari̍ śye̱no ma̍thā̱yad i̍ṣi̱tas ti̱ro raja̍ḥ | sa madhva̱ ā yu̍vate̱ vevi̍jāna̱ it kṛ̱śāno̱r astu̱r mana̱sāha̍ bi̱bhyuṣā̍ ||
+9.77.3	te na̱ḥ pūrvā̍sa̱ upa̍rāsa̱ inda̍vo ma̱he vājā̍ya dhanvantu̱ goma̍te | ī̱kṣe̱ṇyā̍so a̱hyo̱3̱̍ na cāra̍vo̱ brahma̍-brahma̱ ye ju̍ju̱ṣur ha̱vir-ha̍viḥ ||
+9.77.4	a̱yaṁ no̍ vi̱dvān va̍navad vanuṣya̱ta indu̍ḥ sa̱trācā̱ mana̍sā puruṣṭu̱taḥ | i̱nasya̱ yaḥ sada̍ne̱ garbha̍m āda̱dhe gavā̍m uru̱bjam a̱bhy arṣa̍ti vra̱jam ||
+9.77.5	cakri̍r di̱vaḥ pa̍vate̱ kṛtvyo̱ raso̍ ma̱hām̐ ada̍bdho̱ varu̍ṇo hu̱rug ya̱te | asā̍vi mi̱tro vṛ̱jane̍ṣu ya̱jñiyo 'tyo̱ na yū̱the vṛ̍ṣa̱yuḥ kani̍kradat ||
+9.78.1	pra rājā̱ vāca̍ṁ ja̱naya̍nn asiṣyadad a̱po vasā̍no a̱bhi gā i̍yakṣati | gṛ̱bhṇāti̍ ri̱pram avi̍r asya̱ tānvā̍ śu̱ddho de̱vānā̱m upa̍ yāti niṣkṛ̱tam ||
+9.78.2	indrā̍ya soma̱ pari̍ ṣicyase̱ nṛbhi̍r nṛ̱cakṣā̍ ū̱rmiḥ ka̱vir a̍jyase̱ vane̍ | pū̱rvīr hi te̍ sru̱taya̱ḥ santi̱ yāta̍ve sa̱hasra̱m aśvā̱ hara̍yaś camū̱ṣada̍ḥ ||
+9.78.3	sa̱mu̱driyā̍ apsa̱raso̍ manī̱ṣiṇa̱m āsī̍nā a̱ntar a̱bhi soma̍m akṣaran | tā ī̍ṁ hinvanti ha̱rmyasya̍ sa̱kṣaṇi̱ṁ yāca̍nte su̱mnam pava̍māna̱m akṣi̍tam ||
+9.78.4	go̱jin na̱ḥ somo̍ ratha̱jid dhi̍raṇya̱jit sva̱rjid a̱bjit pa̍vate sahasra̱jit | yaṁ de̱vāsa̍ś cakri̱re pī̱taye̱ mada̱ṁ svādi̍ṣṭhaṁ dra̱psam a̍ru̱ṇam ma̍yo̱bhuva̍m ||
+9.78.5	e̱tāni̍ soma̱ pava̍māno asma̱yuḥ sa̱tyāni̍ kṛ̱ṇvan dravi̍ṇāny arṣasi | ja̱hi śatru̍m anti̱ke dū̍ra̱ke ca̱ ya u̱rvīṁ gavyū̍ti̱m abha̍yaṁ ca nas kṛdhi ||
+9.79.1	a̱co̱daso̍ no dhanva̱ntv inda̍va̱ḥ pra su̍vā̱nāso̍ bṛ̱haddi̍veṣu̱ hara̍yaḥ | vi ca̱ naśa̍n na i̱ṣo arā̍tayo̱ 'ryo na̍śanta̱ sani̍ṣanta no̱ dhiya̍ḥ ||
+9.79.2	pra ṇo̍ dhanva̱ntv inda̍vo mada̱cyuto̱ dhanā̍ vā̱ yebhi̱r arva̍to junī̱masi̍ | ti̱ro marta̍sya̱ kasya̍ ci̱t pari̍hvṛtiṁ va̱yaṁ dhanā̍ni vi̱śvadhā̍ bharemahi ||
+9.79.3	u̱ta svasyā̱ arā̍tyā a̱rir hi ṣa u̱tānyasyā̱ arā̍tyā̱ vṛko̱ hi ṣaḥ | dhanva̱n na tṛṣṇā̱ sam a̍rīta̱ tām̐ a̱bhi soma̍ ja̱hi pa̍vamāna durā̱dhya̍ḥ ||
+9.79.4	di̱vi te̱ nābhā̍ para̱mo ya ā̍da̱de pṛ̍thi̱vyās te̍ ruruhu̱ḥ sāna̍vi̱ kṣipa̍ḥ | adra̍yas tvā bapsati̱ gor adhi̍ tva̱cy a1̱̍psu tvā̱ hastai̍r duduhur manī̱ṣiṇa̍ḥ ||
+9.79.5	e̱vā ta̍ indo su̱bhva̍ṁ su̱peśa̍sa̱ṁ rasa̍ṁ tuñjanti pratha̱mā a̍bhi̱śriya̍ḥ | nida̍ṁ-nidam pavamāna̱ ni tā̍riṣa ā̱vis te̱ śuṣmo̍ bhavatu pri̱yo mada̍ḥ ||
+9.80.1	soma̍sya̱ dhārā̍ pavate nṛ̱cakṣa̍sa ṛ̱tena̍ de̱vān ha̍vate di̱vas pari̍ | bṛha̱spate̍ ra̱vathe̍nā̱ vi di̍dyute samu̱drāso̱ na sava̍nāni vivyacuḥ ||
+9.80.2	yaṁ tvā̍ vājinn a̱ghnyā a̱bhy anū̍ṣa̱tāyo̍hata̱ṁ yoni̱m ā ro̍hasi dyu̱mān | ma̱ghonā̱m āyu̍ḥ prati̱ran mahi̱ śrava̱ indrā̍ya soma pavase̱ vṛṣā̱ mada̍ḥ ||
+9.80.3	endra̍sya ku̱kṣā pa̍vate ma̱dinta̍ma̱ ūrja̱ṁ vasā̍na̱ḥ śrava̍se suma̱ṅgala̍ḥ | pra̱tyaṅ sa viśvā̱ bhuva̍nā̱bhi pa̍prathe̱ krīḻa̱n hari̱r atya̍ḥ syandate̱ vṛṣā̍ ||
+9.80.4	taṁ tvā̍ de̱vebhyo̱ madhu̍mattama̱ṁ nara̍ḥ sa̱hasra̍dhāraṁ duhate̱ daśa̱ kṣipa̍ḥ | nṛbhi̍ḥ soma̱ pracyu̍to̱ grāva̍bhiḥ su̱to viśvā̍n de̱vām̐ ā pa̍vasvā sahasrajit ||
+9.80.5	taṁ tvā̍ ha̱stino̱ madhu̍manta̱m adri̍bhir du̱hanty a̱psu vṛ̍ṣa̱bhaṁ daśa̱ kṣipa̍ḥ | indra̍ṁ soma mā̱daya̱n daivya̱ṁ jana̱ṁ sindho̍r ivo̱rmiḥ pava̍māno arṣasi ||
+9.81.1	pra soma̍sya̱ pava̍mānasyo̱rmaya̱ indra̍sya yanti ja̱ṭhara̍ṁ su̱peśa̍saḥ | da̱dhnā yad ī̱m unnī̍tā ya̱śasā̱ gavā̍ṁ dā̱nāya̱ śūra̍m u̱dama̍ndiṣuḥ su̱tāḥ ||
+9.81.2	acchā̱ hi soma̍ḥ ka̱laśā̱m̐ asi̍ṣyada̱d atyo̱ na voḻhā̍ ra̱ghuva̍rtani̱r vṛṣā̍ | athā̍ de̱vānā̍m u̱bhaya̍sya̱ janma̍no vi̱dvām̐ a̍śnoty a̱muta̍ i̱taś ca̱ yat ||
+9.81.3	ā na̍ḥ soma̱ pava̍mānaḥ kirā̱ vasv indo̱ bhava̍ ma̱ghavā̱ rādha̍so ma̱haḥ | śikṣā̍ vayodho̱ vasa̍ve̱ su ce̱tunā̱ mā no̱ gaya̍m ā̱re a̱smat parā̍ sicaḥ ||
+9.81.4	ā na̍ḥ pū̱ṣā pava̍mānaḥ surā̱tayo̍ mi̱tro ga̍cchantu̱ varu̍ṇaḥ sa̱joṣa̍saḥ | bṛha̱spati̍r ma̱ruto̍ vā̱yur a̱śvinā̱ tvaṣṭā̍ savi̱tā su̱yamā̱ sara̍svatī ||
+9.81.5	u̱bhe dyāvā̍pṛthi̱vī vi̍śvami̱nve a̍rya̱mā de̱vo adi̍tir vidhā̱tā | bhago̱ nṛśaṁsa̍ u̱rv a1̱̍ntari̍kṣa̱ṁ viśve̍ de̱vāḥ pava̍mānaṁ juṣanta ||
+9.82.1	asā̍vi̱ somo̍ aru̱ṣo vṛṣā̱ harī̱ rāje̍va da̱smo a̱bhi gā a̍cikradat | pu̱nā̱no vāra̱m pary e̍ty a̱vyaya̍ṁ śye̱no na yoni̍ṁ ghṛ̱tava̍ntam ā̱sada̍m ||
+9.82.2	ka̱vir ve̍dha̱syā pary e̍ṣi̱ māhi̍na̱m atyo̱ na mṛ̱ṣṭo a̱bhi vāja̍m arṣasi | a̱pa̱sedha̍n duri̱tā so̍ma mṛḻaya ghṛ̱taṁ vasā̍na̱ḥ pari̍ yāsi ni̱rṇija̍m ||
+9.82.3	pa̱rjanya̍ḥ pi̱tā ma̍hi̱ṣasya̍ pa̱rṇino̱ nābhā̍ pṛthi̱vyā gi̱riṣu̱ kṣaya̍ṁ dadhe | svasā̍ra̱ āpo̍ a̱bhi gā u̱tāsa̍ra̱n saṁ grāva̍bhir nasate vī̱te a̍dhva̱re ||
+9.82.4	jā̱yeva̱ patyā̱v adhi̱ śeva̍ maṁhase̱ pajrā̍yā garbha śṛṇu̱hi bravī̍mi te | a̱ntar vāṇī̍ṣu̱ pra ca̍rā̱ su jī̱vase̍ 'ni̱ndyo vṛ̱jane̍ soma jāgṛhi ||
+9.82.5	yathā̱ pūrve̍bhyaḥ śata̱sā amṛ̍dhraḥ sahasra̱sāḥ pa̱ryayā̱ vāja̍m indo | e̱vā pa̍vasva suvi̱tāya̱ navya̍se̱ tava̍ vra̱tam anv āpa̍ḥ sacante ||
+9.83.1	pa̱vitra̍ṁ te̱ vita̍tam brahmaṇas pate pra̱bhur gātrā̍ṇi̱ pary e̍ṣi vi̱śvata̍ḥ | ata̍ptatanū̱r na tad ā̱mo a̍śnute śṛ̱tāsa̱ id vaha̍nta̱s tat sam ā̍śata ||
+9.83.2	tapo̍ṣ pa̱vitra̱ṁ vita̍taṁ di̱vas pa̱de śoca̍nto asya̱ tanta̍vo̱ vy a̍sthiran | ava̍nty asya pavī̱tāra̍m ā̱śavo̍ di̱vas pṛ̱ṣṭham adhi̍ tiṣṭhanti̱ ceta̍sā ||
+9.83.3	arū̍rucad u̱ṣasa̱ḥ pṛśni̍r agri̱ya u̱kṣā bi̍bharti̱ bhuva̍nāni vāja̱yuḥ | mā̱yā̱vino̍ mamire asya mā̱yayā̍ nṛ̱cakṣa̍saḥ pi̱taro̱ garbha̱m ā da̍dhuḥ ||
+9.83.4	ga̱ndha̱rva i̱tthā pa̱dam a̍sya rakṣati̱ pāti̍ de̱vānā̱ṁ jani̍mā̱ny adbhu̍taḥ | gṛ̱bhṇāti̍ ri̱puṁ ni̱dhayā̍ ni̱dhāpa̍tiḥ su̱kṛtta̍mā̱ madhu̍no bha̱kṣam ā̍śata ||
+9.83.5	ha̱vir ha̍viṣmo̱ mahi̱ sadma̱ daivya̱ṁ nabho̱ vasā̍na̱ḥ pari̍ yāsy adhva̱ram | rājā̍ pa̱vitra̍ratho̱ vāja̱m āru̍haḥ sa̱hasra̍bhṛṣṭir jayasi̱ śravo̍ bṛ̱hat ||
+9.84.1	pava̍sva deva̱māda̍no̱ vica̍rṣaṇir a̱psā indrā̍ya̱ varu̍ṇāya vā̱yave̍ | kṛ̱dhī no̍ a̱dya vari̍vaḥ svasti̱mad u̍rukṣi̱tau gṛ̍ṇīhi̱ daivya̱ṁ jana̍m ||
+9.84.2	ā yas ta̱sthau bhuva̍nā̱ny ama̍rtyo̱ viśvā̍ni̱ soma̱ḥ pari̱ tāny a̍rṣati | kṛ̱ṇvan sa̱ṁcṛta̍ṁ vi̱cṛta̍m a̱bhiṣṭa̍ya̱ indu̍ḥ siṣakty u̱ṣasa̱ṁ na sūrya̍ḥ ||
+9.84.3	ā yo gobhi̍ḥ sṛ̱jyata̱ oṣa̍dhī̱ṣv ā de̱vānā̍ṁ su̱mna i̱ṣaya̱nn upā̍vasuḥ | ā vi̱dyutā̍ pavate̱ dhāra̍yā su̱ta indra̱ṁ somo̍ mā̱daya̱n daivya̱ṁ jana̍m ||
+9.84.4	e̱ṣa sya soma̍ḥ pavate sahasra̱jid dhi̍nvā̱no vāca̍m iṣi̱rām u̍ṣa̱rbudha̍m | indu̍ḥ samu̱dram ud i̍yarti vā̱yubhi̱r endra̍sya̱ hārdi̍ ka̱laśe̍ṣu sīdati ||
+9.84.5	a̱bhi tyaṁ gāva̱ḥ paya̍sā payo̱vṛdha̱ṁ soma̍ṁ śrīṇanti ma̱tibhi̍ḥ sva̱rvida̍m | dha̱na̱ṁja̱yaḥ pa̍vate̱ kṛtvyo̱ raso̱ vipra̍ḥ ka̱viḥ kāvye̍nā̱ sva̍rcanāḥ ||
+9.85.1	indrā̍ya soma̱ suṣu̍ta̱ḥ pari̍ sra̱vāpāmī̍vā bhavatu̱ rakṣa̍sā sa̱ha | mā te̱ rasa̍sya matsata dvayā̱vino̱ dravi̍ṇasvanta i̱ha sa̱ntv inda̍vaḥ ||
+9.85.2	a̱smān sa̍ma̱rye pa̍vamāna codaya̱ dakṣo̍ de̱vānā̱m asi̱ hi pri̱yo mada̍ḥ | ja̱hi śatrū̍m̐r a̱bhy ā bha̍ndanāya̱taḥ pibe̍ndra̱ soma̱m ava̍ no̱ mṛdho̍ jahi ||
+9.85.3	ada̍bdha indo pavase ma̱dinta̍ma ā̱tmendra̍sya bhavasi dhā̱sir u̍tta̱maḥ | a̱bhi sva̍ranti ba̱havo̍ manī̱ṣiṇo̱ rājā̍nam a̱sya bhuva̍nasya niṁsate ||
+9.85.4	sa̱hasra̍ṇīthaḥ śa̱tadhā̍ro̱ adbhu̍ta̱ indrā̱yendu̍ḥ pavate̱ kāmya̱m madhu̍ | jaya̱n kṣetra̍m a̱bhy a̍rṣā̱ jaya̍nn a̱pa u̱ruṁ no̍ gā̱tuṁ kṛ̍ṇu soma mīḍhvaḥ ||
+9.85.5	kani̍kradat ka̱laśe̱ gobhi̍r ajyase̱ vy a1̱̍vyaya̍ṁ sa̱mayā̱ vāra̍m arṣasi | ma̱rmṛ̱jyamā̍no̱ atyo̱ na sā̍na̱sir indra̍sya soma ja̱ṭhare̱ sam a̍kṣaraḥ ||
+9.85.6	svā̱duḥ pa̍vasva di̱vyāya̱ janma̍ne svā̱dur indrā̍ya su̱havī̍tunāmne | svā̱dur mi̱trāya̱ varu̍ṇāya vā̱yave̱ bṛha̱spata̍ye̱ madhu̍mā̱m̐ adā̍bhyaḥ ||
+9.85.7	atya̍m mṛjanti ka̱laśe̱ daśa̱ kṣipa̱ḥ pra viprā̍ṇām ma̱tayo̱ vāca̍ īrate | pava̍mānā a̱bhy a̍rṣanti suṣṭu̱tim endra̍ṁ viśanti madi̱rāsa̱ inda̍vaḥ ||
+9.85.8	pava̍māno a̱bhy a̍rṣā su̱vīrya̍m u̱rvīṁ gavyū̍ti̱m mahi̱ śarma̍ sa̱pratha̍ḥ | māki̍r no a̱sya pari̍ṣūtir īśa̱tendo̱ jaye̍ma̱ tvayā̱ dhana̍ṁ-dhanam ||
+9.85.9	adhi̱ dyām a̍sthād vṛṣa̱bho vi̍cakṣa̱ṇo 'rū̍ruca̱d vi di̱vo ro̍ca̱nā ka̱viḥ | rājā̍ pa̱vitra̱m aty e̍ti̱ roru̍vad di̱vaḥ pī̱yūṣa̍ṁ duhate nṛ̱cakṣa̍saḥ ||
+9.85.10	di̱vo nāke̱ madhu̍jihvā asa̱ścato̍ ve̱nā du̍hanty u̱kṣaṇa̍ṁ giri̱ṣṭhām | a̱psu dra̱psaṁ vā̍vṛdhā̱naṁ sa̍mu̱dra ā sindho̍r ū̱rmā madhu̍mantam pa̱vitra̱ ā ||
+9.85.11	nāke̍ supa̱rṇam u̍papapti̱vāṁsa̱ṁ giro̍ ve̱nānā̍m akṛpanta pū̱rvīḥ | śiśu̍ṁ rihanti ma̱taya̱ḥ pani̍pnataṁ hira̱ṇyaya̍ṁ śaku̱naṁ kṣāma̍ṇi̱ sthām ||
+9.85.12	ū̱rdhvo ga̍ndha̱rvo adhi̱ nāke̍ asthā̱d viśvā̍ rū̱pā pra̍ti̱cakṣā̍ṇo asya | bhā̱nuḥ śu̱kreṇa̍ śo̱ciṣā̱ vy a̍dyau̱t prārū̍ruca̱d roda̍sī mā̱tarā̱ śuci̍ḥ ||
+9.86.1	pra ta̍ ā̱śava̍ḥ pavamāna dhī̱javo̱ madā̍ arṣanti raghu̱jā i̍va̱ tmanā̍ | di̱vyāḥ su̍pa̱rṇā madhu̍manta̱ inda̍vo ma̱dinta̍māsa̱ḥ pari̱ kośa̍m āsate ||
+9.86.2	pra te̱ madā̍so madi̱rāsa̍ ā̱śavo 'sṛ̍kṣata̱ rathyā̍so̱ yathā̱ pṛtha̍k | dhe̱nur na va̱tsam paya̍sā̱bhi va̱jriṇa̱m indra̱m inda̍vo̱ madhu̍manta ū̱rmaya̍ḥ ||
+9.86.3	atyo̱ na hi̍yā̱no a̱bhi vāja̍m arṣa sva̱rvit kośa̍ṁ di̱vo adri̍mātaram | vṛṣā̍ pa̱vitre̱ adhi̱ sāno̍ a̱vyaye̱ soma̍ḥ punā̱na i̍ndri̱yāya̱ dhāya̍se ||
+9.86.4	pra ta̱ āśvi̍nīḥ pavamāna dhī̱juvo̍ di̱vyā a̍sṛgra̱n paya̍sā̱ dharī̍maṇi | prāntar ṛṣa̍ya̱ḥ sthāvi̍rīr asṛkṣata̱ ye tvā̍ mṛ̱janty ṛ̍ṣiṣāṇa ve̱dhasa̍ḥ ||
+9.86.5	viśvā̱ dhāmā̍ni viśvacakṣa̱ ṛbhva̍saḥ pra̱bhos te̍ sa̱taḥ pari̍ yanti ke̱tava̍ḥ | vyā̱na̱śiḥ pa̍vase soma̱ dharma̍bhi̱ḥ pati̱r viśva̍sya̱ bhuva̍nasya rājasi ||
+9.86.6	u̱bha̱yata̱ḥ pava̍mānasya ra̱śmayo̍ dhru̱vasya̍ sa̱taḥ pari̍ yanti ke̱tava̍ḥ | yadī̍ pa̱vitre̱ adhi̍ mṛ̱jyate̱ hari̱ḥ sattā̱ ni yonā̍ ka̱laśe̍ṣu sīdati ||
+9.86.7	ya̱jñasya̍ ke̱tuḥ pa̍vate svadhva̱raḥ somo̍ de̱vānā̱m upa̍ yāti niṣkṛ̱tam | sa̱hasra̍dhāra̱ḥ pari̱ kośa̍m arṣati̱ vṛṣā̍ pa̱vitra̱m aty e̍ti̱ roru̍vat ||
+9.86.8	rājā̍ samu̱draṁ na̱dyo̱3̱̍ vi gā̍hate̱ 'pām ū̱rmiṁ sa̍cate̱ sindhu̍ṣu śri̱taḥ | adhy a̍sthā̱t sānu̱ pava̍māno a̱vyaya̱ṁ nābhā̍ pṛthi̱vyā dha̱ruṇo̍ ma̱ho di̱vaḥ ||
+9.86.9	di̱vo na sānu̍ sta̱naya̍nn acikrada̱d dyauś ca̱ yasya̍ pṛthi̱vī ca̱ dharma̍bhiḥ | indra̍sya sa̱khyam pa̍vate vi̱vevi̍da̱t soma̍ḥ punā̱naḥ ka̱laśe̍ṣu sīdati ||
+9.86.10	jyoti̍r ya̱jñasya̍ pavate̱ madhu̍ pri̱yam pi̱tā de̱vānā̍ṁ jani̱tā vi̱bhūva̍suḥ | dadhā̍ti̱ ratna̍ṁ sva̱dhayo̍r apī̱cya̍m ma̱dinta̍mo matsa̱ra i̍ndri̱yo rasa̍ḥ ||
+9.86.11	a̱bhi̱kranda̍n ka̱laśa̍ṁ vā̱jy a̍rṣati̱ pati̍r di̱vaḥ śa̱tadhā̍ro vicakṣa̱ṇaḥ | hari̍r mi̱trasya̱ sada̍neṣu sīdati marmṛjā̱no 'vi̍bhi̱ḥ sindhu̍bhi̱r vṛṣā̍ ||
+9.86.12	agre̱ sindhū̍nā̱m pava̍māno arṣa̱ty agre̍ vā̱co a̍gri̱yo goṣu̍ gacchati | agre̱ vāja̍sya bhajate mahādha̱naṁ svā̍yu̱dhaḥ so̱tṛbhi̍ḥ pūyate̱ vṛṣā̍ ||
+9.86.13	a̱yam ma̱tavā̍ñ chaku̱no yathā̍ hi̱to 'vye̍ sasāra̱ pava̍māna ū̱rmiṇā̍ | tava̱ kratvā̱ roda̍sī anta̱rā ka̍ve̱ śuci̍r dhi̱yā pa̍vate̱ soma̍ indra te ||
+9.86.14	drā̱piṁ vasā̍no yaja̱to di̍vi̱spṛśa̍m antarikṣa̱prā bhuva̍ne̱ṣv arpi̍taḥ | sva̍r jajñā̱no nabha̍sā̱bhy a̍kramīt pra̱tnam a̍sya pi̱tara̱m ā vi̍vāsati ||
+9.86.15	so a̍sya vi̱śe mahi̱ śarma̍ yacchati̱ yo a̍sya̱ dhāma̍ pratha̱maṁ vyā̍na̱śe | pa̱daṁ yad a̍sya para̱me vyo̍ma̱ny ato̱ viśvā̍ a̱bhi saṁ yā̍ti sa̱ṁyata̍ḥ ||
+9.86.16	pro a̍yāsī̱d indu̱r indra̍sya niṣkṛ̱taṁ sakhā̱ sakhyu̱r na pra mi̍nāti sa̱ṁgira̍m | marya̍ iva yuva̱tibhi̱ḥ sam a̍rṣati̱ soma̍ḥ ka̱laśe̍ śa̱tayā̍mnā pa̱thā ||
+9.86.17	pra vo̱ dhiyo̍ mandra̱yuvo̍ vipa̱nyuva̍ḥ pana̱syuva̍ḥ sa̱ṁvasa̍neṣv akramuḥ | soma̍m manī̱ṣā a̱bhy a̍nūṣata̱ stubho̱ 'bhi dhe̱nava̱ḥ paya̍sem aśiśrayuḥ ||
+9.86.18	ā na̍ḥ soma sa̱ṁyata̍m pi̱pyuṣī̱m iṣa̱m indo̱ pava̍sva̱ pava̍māno a̱sridha̍m | yā no̱ doha̍te̱ trir aha̱nn asa̍ścuṣī kṣu̱mad vāja̍va̱n madhu̍mat su̱vīrya̍m ||
+9.86.19	vṛṣā̍ matī̱nām pa̍vate vicakṣa̱ṇaḥ somo̱ ahna̍ḥ pratarī̱toṣaso̍ di̱vaḥ | krā̱ṇā sindhū̍nāṁ ka̱laśā̍m̐ avīvaśa̱d indra̍sya̱ hārdy ā̍vi̱śan ma̍nī̱ṣibhi̍ḥ ||
+9.86.20	ma̱nī̱ṣibhi̍ḥ pavate pū̱rvyaḥ ka̱vir nṛbhi̍r ya̱taḥ pari̱ kośā̍m̐ acikradat | tri̱tasya̱ nāma̍ ja̱naya̱n madhu̍ kṣara̱d indra̍sya vā̱yoḥ sa̱khyāya̱ karta̍ve ||
+9.86.21	a̱yam pu̍nā̱na u̱ṣaso̱ vi ro̍cayad a̱yaṁ sindhu̍bhyo abhavad u loka̱kṛt | a̱yaṁ triḥ sa̱pta du̍duhā̱na ā̱śira̱ṁ somo̍ hṛ̱de pa̍vate̱ cāru̍ matsa̱raḥ ||
+9.86.22	pava̍sva soma di̱vyeṣu̱ dhāma̍su sṛjā̱na i̍ndo ka̱laśe̍ pa̱vitra̱ ā | sīda̱nn indra̍sya ja̱ṭhare̱ kani̍krada̱n nṛbhi̍r ya̱taḥ sūrya̱m āro̍hayo di̱vi ||
+9.86.23	adri̍bhiḥ su̱taḥ pa̍vase pa̱vitra̱ ām̐ inda̱v indra̍sya ja̱ṭhare̍ṣv āvi̱śan | tvaṁ nṛ̱cakṣā̍ abhavo vicakṣaṇa̱ soma̍ go̱tram aṅgi̍robhyo 'vṛṇo̱r apa̍ ||
+9.86.24	tvāṁ so̍ma̱ pava̍mānaṁ svā̱dhyo 'nu̱ viprā̍so amadann ava̱syava̍ḥ | tvāṁ su̍pa̱rṇa ābha̍rad di̱vas parīndo̱ viśvā̍bhir ma̱tibhi̱ḥ pari̍ṣkṛtam ||
+9.86.25	avye̍ punā̱nam pari̱ vāra̍ ū̱rmiṇā̱ hari̍ṁ navante a̱bhi sa̱pta dhe̱nava̍ḥ | a̱pām u̱pasthe̱ adhy ā̱yava̍ḥ ka̱vim ṛ̱tasya̱ yonā̍ mahi̱ṣā a̍heṣata ||
+9.86.26	indu̍ḥ punā̱no ati̍ gāhate̱ mṛdho̱ viśvā̍ni kṛ̱ṇvan su̱pathā̍ni̱ yajya̍ve | gāḥ kṛ̍ṇvā̱no ni̱rṇija̍ṁ harya̱taḥ ka̱vir atyo̱ na krīḻa̱n pari̱ vāra̍m arṣati ||
+9.86.27	a̱sa̱ścata̍ḥ śa̱tadhā̍rā abhi̱śriyo̱ hari̍ṁ nava̱nte 'va̱ tā u̍da̱nyuva̍ḥ | kṣipo̍ mṛjanti̱ pari̱ gobhi̱r āvṛ̍taṁ tṛ̱tīye̍ pṛ̱ṣṭhe adhi̍ roca̱ne di̱vaḥ ||
+9.86.28	tave̱māḥ pra̱jā di̱vyasya̱ reta̍sa̱s tvaṁ viśva̍sya̱ bhuva̍nasya rājasi | athe̱daṁ viśva̍m pavamāna te̱ vaśe̱ tvam i̍ndo pratha̱mo dhā̍ma̱dhā a̍si ||
+9.86.29	tvaṁ sa̍mu̱dro a̍si viśva̱vit ka̍ve̱ tave̱māḥ pañca̍ pra̱diśo̱ vidha̍rmaṇi | tvaṁ dyāṁ ca̍ pṛthi̱vīṁ cāti̍ jabhriṣe̱ tava̱ jyotī̍ṁṣi pavamāna̱ sūrya̍ḥ ||
+9.86.30	tvam pa̱vitre̱ raja̍so̱ vidha̍rmaṇi de̱vebhya̍ḥ soma pavamāna pūyase | tvām u̱śija̍ḥ pratha̱mā a̍gṛbhṇata̱ tubhye̱mā viśvā̱ bhuva̍nāni yemire ||
+9.86.31	pra re̱bha e̱ty ati̱ vāra̍m a̱vyaya̱ṁ vṛṣā̱ vane̱ṣv ava̍ cakrada̱d dhari̍ḥ | saṁ dhī̱tayo̍ vāvaśā̱nā a̍nūṣata̱ śiśu̍ṁ rihanti ma̱taya̱ḥ pani̍pnatam ||
+9.86.32	sa sūrya̍sya ra̱śmibhi̱ḥ pari̍ vyata̱ tantu̍ṁ tanvā̱nas tri̱vṛta̱ṁ yathā̍ vi̱de | naya̍nn ṛ̱tasya̍ pra̱śiṣo̱ navī̍yasī̱ḥ pati̱r janī̍nā̱m upa̍ yāti niṣkṛ̱tam ||
+9.86.33	rājā̱ sindhū̍nām pavate̱ pati̍r di̱va ṛ̱tasya̍ yāti pa̱thibhi̱ḥ kani̍kradat | sa̱hasra̍dhāra̱ḥ pari̍ ṣicyate̱ hari̍ḥ punā̱no vāca̍ṁ ja̱naya̱nn upā̍vasuḥ ||
+9.86.34	pava̍māna̱ mahy arṇo̱ vi dhā̍vasi̱ sūro̱ na ci̱tro avya̍yāni̱ pavya̍yā | gabha̍stipūto̱ nṛbhi̱r adri̍bhiḥ su̱to ma̱he vājā̍ya̱ dhanyā̍ya dhanvasi ||
+9.86.35	iṣa̱m ūrja̍m pavamānā̱bhy a̍rṣasi śye̱no na vaṁsu̍ ka̱laśe̍ṣu sīdasi | indrā̍ya̱ madvā̱ madyo̱ mada̍ḥ su̱to di̱vo vi̍ṣṭa̱mbha u̍pa̱mo vi̍cakṣa̱ṇaḥ ||
+9.86.36	sa̱pta svasā̍ro a̱bhi mā̱tara̱ḥ śiśu̱ṁ nava̍ṁ jajñā̱naṁ jenya̍ṁ vipa̱ścita̍m | a̱pāṁ ga̍ndha̱rvaṁ di̱vyaṁ nṛ̱cakṣa̍sa̱ṁ soma̱ṁ viśva̍sya̱ bhuva̍nasya rā̱jase̍ ||
+9.86.37	ī̱śā̱na i̱mā bhuva̍nāni̱ vīya̍se yujā̱na i̍ndo ha̱rita̍ḥ supa̱rṇya̍ḥ | tās te̍ kṣarantu̱ madhu̍mad ghṛ̱tam paya̱s tava̍ vra̱te so̍ma tiṣṭhantu kṛ̱ṣṭaya̍ḥ ||
+9.86.38	tvaṁ nṛ̱cakṣā̍ asi soma vi̱śvata̱ḥ pava̍māna vṛṣabha̱ tā vi dhā̍vasi | sa na̍ḥ pavasva̱ vasu̍ma̱d dhira̍ṇyavad va̱yaṁ syā̍ma̱ bhuva̍neṣu jī̱vase̍ ||
+9.86.39	go̱vit pa̍vasva vasu̱vid dhi̍raṇya̱vid re̍to̱dhā i̍ndo̱ bhuva̍ne̱ṣv arpi̍taḥ | tvaṁ su̱vīro̍ asi soma viśva̱vit taṁ tvā̱ viprā̱ upa̍ gi̱rema ā̍sate ||
+9.86.40	un madhva̍ ū̱rmir va̱nanā̍ atiṣṭhipad a̱po vasā̍no mahi̱ṣo vi gā̍hate | rājā̍ pa̱vitra̍ratho̱ vāja̱m āru̍hat sa̱hasra̍bhṛṣṭir jayati̱ śravo̍ bṛ̱hat ||
+9.86.41	sa bha̱ndanā̱ ud i̍yarti pra̱jāva̍tīr vi̱śvāyu̱r viśvā̍ḥ su̱bharā̱ aha̍rdivi | brahma̍ pra̱jāva̍d ra̱yim aśva̍pastyam pī̱ta i̍nda̱v indra̍m a̱smabhya̍ṁ yācatāt ||
+9.86.42	so agre̱ ahnā̱ṁ hari̍r harya̱to mada̱ḥ pra ceta̍sā cetayate̱ anu̱ dyubhi̍ḥ | dvā janā̍ yā̱taya̍nn a̱ntar ī̍yate̱ narā̍ ca̱ śaṁsa̱ṁ daivya̍ṁ ca dha̱rtari̍ ||
+9.86.43	a̱ñjate̱ vy a̍ñjate̱ sam a̍ñjate̱ kratu̍ṁ rihanti̱ madhu̍nā̱bhy a̍ñjate | sindho̍r ucchvā̱se pa̱taya̍ntam u̱kṣaṇa̍ṁ hiraṇyapā̱vāḥ pa̱śum ā̍su gṛbhṇate ||
+9.86.44	vi̱pa̱ścite̱ pava̍mānāya gāyata ma̱hī na dhārāty andho̍ arṣati | ahi̱r na jū̱rṇām ati̍ sarpati̱ tvaca̱m atyo̱ na krīḻa̍nn asara̱d vṛṣā̱ hari̍ḥ ||
+9.86.45	a̱gre̱go rājāpya̍s taviṣyate vi̱māno̱ ahnā̱m bhuva̍ne̱ṣv arpi̍taḥ | hari̍r ghṛ̱tasnu̍ḥ su̱dṛśī̍ko arṇa̱vo jyo̱tīra̍thaḥ pavate rā̱ya o̱kya̍ḥ ||
+9.86.46	asa̍rji ska̱mbho di̱va udya̍to̱ mada̱ḥ pari̍ tri̱dhātu̱r bhuva̍nāny arṣati | a̱ṁśuṁ ri̍hanti ma̱taya̱ḥ pani̍pnataṁ gi̱rā yadi̍ ni̱rṇija̍m ṛ̱gmiṇo̍ ya̱yuḥ ||
+9.86.47	pra te̱ dhārā̱ aty aṇvā̍ni me̱ṣya̍ḥ punā̱nasya̍ sa̱ṁyato̍ yanti̱ raṁha̍yaḥ | yad gobhi̍r indo ca̱mvo̍ḥ sama̱jyasa̱ ā su̍vā̱naḥ so̍ma ka̱laśe̍ṣu sīdasi ||
+9.86.48	pava̍sva soma kratu̱vin na̍ u̱kthyo 'vyo̱ vāre̱ pari̍ dhāva̱ madhu̍ pri̱yam | ja̱hi viśvā̍n ra̱kṣasa̍ indo a̱triṇo̍ bṛ̱had va̍dema vi̱dathe̍ su̱vīrā̍ḥ ||
+9.87.1	pra tu dra̍va̱ pari̱ kośa̱ṁ ni ṣī̍da̱ nṛbhi̍ḥ punā̱no a̱bhi vāja̍m arṣa | aśva̱ṁ na tvā̍ vā̱jina̍m ma̱rjaya̱nto 'cchā̍ ba̱rhī ra̍śa̱nābhi̍r nayanti ||
+9.87.2	svā̱yu̱dhaḥ pa̍vate de̱va indu̍r aśasti̱hā vṛ̱jana̱ṁ rakṣa̍māṇaḥ | pi̱tā de̱vānā̍ṁ jani̱tā su̱dakṣo̍ viṣṭa̱mbho di̱vo dha̱ruṇa̍ḥ pṛthi̱vyāḥ ||
+9.87.3	ṛṣi̱r vipra̍ḥ purae̱tā janā̍nām ṛ̱bhur dhīra̍ u̱śanā̱ kāvye̍na | sa ci̍d viveda̱ nihi̍ta̱ṁ yad ā̍sām apī̱cya1̱̍ṁ guhya̱ṁ nāma̱ gonā̍m ||
+9.87.4	e̱ṣa sya te̱ madhu̍mām̐ indra̱ somo̱ vṛṣā̱ vṛṣṇe̱ pari̍ pa̱vitre̍ akṣāḥ | sa̱ha̱sra̱sāḥ śa̍ta̱sā bhū̍ri̱dāvā̍ śaśvatta̱mam ba̱rhir ā vā̱jy a̍sthāt ||
+9.87.5	e̱te somā̍ a̱bhi ga̱vyā sa̱hasrā̍ ma̱he vājā̍yā̱mṛtā̍ya̱ śravā̍ṁsi | pa̱vitre̍bhi̱ḥ pava̍mānā asṛgrañ chrava̱syavo̱ na pṛ̍ta̱nājo̱ atyā̍ḥ ||
+9.87.6	pari̱ hi ṣmā̍ puruhū̱to janā̍nā̱ṁ viśvāsa̍ra̱d bhoja̍nā pū̱yamā̍naḥ | athā bha̍ra śyenabhṛta̱ prayā̍ṁsi ra̱yiṁ tuñjā̍no a̱bhi vāja̍m arṣa ||
+9.87.7	e̱ṣa su̍vā̱naḥ pari̱ soma̍ḥ pa̱vitre̱ sargo̱ na sṛ̱ṣṭo a̍dadhāva̱d arvā̍ | ti̱gme śiśā̍no mahi̱ṣo na śṛṅge̱ gā ga̱vyann a̱bhi śūro̱ na satvā̍ ||
+9.87.8	e̱ṣā ya̍yau para̱mād a̱ntar adre̱ḥ kūci̍t sa̱tīr ū̱rve gā vi̍veda | di̱vo na vi̱dyut sta̱naya̍nty a̱bhraiḥ soma̍sya te pavata indra̱ dhārā̍ ||
+9.87.9	u̱ta sma̍ rā̱śim pari̍ yāsi̱ gonā̱m indre̍ṇa soma sa̱ratha̍m punā̱naḥ | pū̱rvīr iṣo̍ bṛha̱tīr jī̍radāno̱ śikṣā̍ śacīva̱s tava̱ tā u̍pa̱ṣṭut ||
+9.88.1	a̱yaṁ soma̍ indra̱ tubhya̍ṁ sunve̱ tubhya̍m pavate̱ tvam a̍sya pāhi | tvaṁ ha̱ yaṁ ca̍kṛ̱ṣe tvaṁ va̍vṛ̱ṣa indu̱m madā̍ya̱ yujyā̍ya̱ soma̍m ||
+9.88.2	sa ī̱ṁ ratho̱ na bhu̍ri̱ṣāḻ a̍yoji ma̱haḥ pu̱rūṇi̍ sā̱taye̱ vasū̍ni | ād ī̱ṁ viśvā̍ nahu̱ṣyā̍ṇi jā̱tā sva̍rṣātā̱ vana̍ ū̱rdhvā na̍vanta ||
+9.88.3	vā̱yur na yo ni̱yutvā̍m̐ i̱ṣṭayā̍mā̱ nāsa̍tyeva̱ hava̱ ā śambha̍viṣṭhaḥ | vi̱śvavā̍ro draviṇo̱dā i̍va̱ tman pū̱ṣeva̍ dhī̱java̍no 'si soma ||
+9.88.4	indro̱ na yo ma̱hā karmā̍ṇi̱ cakri̍r ha̱ntā vṛ̱trāṇā̍m asi soma pū̱rbhit | pai̱dvo na hi tvam ahi̍nāmnāṁ ha̱ntā viśva̍syāsi soma̱ dasyo̍ḥ ||
+9.88.5	a̱gnir na yo vana̱ ā sṛ̱jyamā̍no̱ vṛthā̱ pājā̍ṁsi kṛṇute na̱dīṣu̍ | jano̱ na yudhvā̍ maha̱ta u̍pa̱bdir iya̍rti̱ soma̱ḥ pava̍māna ū̱rmim ||
+9.88.6	e̱te somā̱ ati̱ vārā̱ṇy avyā̍ di̱vyā na kośā̍so a̱bhrava̍rṣāḥ | vṛthā̍ samu̱draṁ sindha̍vo̱ na nīcī̍ḥ su̱tāso̍ a̱bhi ka̱laśā̍m̐ asṛgran ||
+9.88.7	śu̱ṣmī śardho̱ na māru̍tam pava̱svāna̍bhiśastā di̱vyā yathā̱ viṭ | āpo̱ na ma̱kṣū su̍ma̱tir bha̍vā naḥ sa̱hasrā̍psāḥ pṛtanā̱ṣāṇ na ya̱jñaḥ ||
+9.88.8	rājño̱ nu te̱ varu̍ṇasya vra̱tāni̍ bṛ̱had ga̍bhī̱raṁ tava̍ soma̱ dhāma̍ | śuci̱ṣ ṭvam a̍si pri̱yo na mi̱tro da̱kṣāyyo̍ arya̱mevā̍si soma ||
+9.89.1	pro sya vahni̍ḥ pa̱thyā̍bhir asyān di̱vo na vṛ̱ṣṭiḥ pava̍māno akṣāḥ | sa̱hasra̍dhāro asada̱n ny a1̱̍sme mā̱tur u̱pasthe̱ vana̱ ā ca̱ soma̍ḥ ||
+9.89.2	rājā̱ sindhū̍nām avasiṣṭa̱ vāsa̍ ṛ̱tasya̱ nāva̱m āru̍ha̱d raji̍ṣṭhām | a̱psu dra̱pso vā̍vṛdhe śye̱najū̍to du̱ha ī̍m pi̱tā du̱ha ī̍m pi̱tur jām ||
+9.89.3	si̱ṁhaṁ na̍santa̱ madhvo̍ a̱yāsa̱ṁ hari̍m aru̱ṣaṁ di̱vo a̱sya pati̍m | śūro̍ yu̱tsu pra̍tha̱maḥ pṛ̍cchate̱ gā asya̱ cakṣa̍sā̱ pari̍ pāty u̱kṣā ||
+9.89.4	madhu̍pṛṣṭhaṁ gho̱ram a̱yāsa̱m aśva̱ṁ rathe̍ yuñjanty uruca̱kra ṛ̱ṣvam | svasā̍ra īṁ jā̱mayo̍ marjayanti̱ sanā̍bhayo vā̱jina̍m ūrjayanti ||
+9.89.5	cata̍sra īṁ ghṛta̱duha̍ḥ sacante samā̱ne a̱ntar dha̱ruṇe̱ niṣa̍ttāḥ | tā ī̍m arṣanti̱ nama̍sā punā̱nās tā ī̍ṁ vi̱śvata̱ḥ pari̍ ṣanti pū̱rvīḥ ||
+9.89.6	vi̱ṣṭa̱mbho di̱vo dha̱ruṇa̍ḥ pṛthi̱vyā viśvā̍ u̱ta kṣi̱tayo̱ haste̍ asya | asa̍t ta̱ utso̍ gṛṇa̱te ni̱yutvā̱n madhvo̍ a̱ṁśuḥ pa̍vata indri̱yāya̍ ||
+9.89.7	va̱nvann avā̍to a̱bhi de̱vavī̍ti̱m indrā̍ya soma vṛtra̱hā pa̍vasva | śa̱gdhi ma̱haḥ pu̍ruśca̱ndrasya̍ rā̱yaḥ su̱vīrya̍sya̱ pata̍yaḥ syāma ||
+9.90.1	pra hi̍nvā̱no ja̍ni̱tā roda̍syo̱ ratho̱ na vāja̍ṁ sani̱ṣyann a̍yāsīt | indra̱ṁ gaccha̱nn āyu̍dhā sa̱ṁśiśā̍no̱ viśvā̱ vasu̱ hasta̍yor ā̱dadhā̍naḥ ||
+9.90.2	a̱bhi tri̍pṛ̱ṣṭhaṁ vṛṣa̍ṇaṁ vayo̱dhām ā̍ṅgū̱ṣāṇā̍m avāvaśanta̱ vāṇī̍ḥ | vanā̱ vasā̍no̱ varu̍ṇo̱ na sindhū̱n vi ra̍tna̱dhā da̍yate̱ vāryā̍ṇi ||
+9.90.3	śūra̍grāma̱ḥ sarva̍vīra̱ḥ sahā̍vā̱ñ jetā̍ pavasva̱ sani̍tā̱ dhanā̍ni | ti̱gmāyu̍dhaḥ kṣi̱pradha̍nvā sa̱matsv aṣā̍ḻhaḥ sā̱hvān pṛta̍nāsu̱ śatrū̍n ||
+9.90.4	u̱ruga̍vyūti̱r abha̍yāni kṛ̱ṇvan sa̍mīcī̱ne ā pa̍vasvā̱ pura̍ṁdhī | a̱paḥ siṣā̍sann u̱ṣasa̱ḥ sva1̱̍r gāḥ saṁ ci̍krado ma̱ho a̱smabhya̱ṁ vājā̍n ||
+9.90.5	matsi̍ soma̱ varu̍ṇa̱m matsi̍ mi̱tram matsīndra̍m indo pavamāna̱ viṣṇu̍m | matsi̱ śardho̱ māru̍ta̱m matsi̍ de̱vān matsi̍ ma̱hām indra̍m indo̱ madā̍ya ||
+9.90.6	e̱vā rāje̍va̱ kratu̍mā̱m̐ ame̍na̱ viśvā̱ ghani̍ghnad duri̱tā pa̍vasva | indo̍ sū̱ktāya̱ vaca̍se̱ vayo̍ dhā yū̱yam pā̍ta sva̱stibhi̱ḥ sadā̍ naḥ ||
+9.91.1	asa̍rji̱ vakvā̱ rathye̱ yathā̱jau dhi̱yā ma̱notā̍ pratha̱mo ma̍nī̱ṣī | daśa̱ svasā̍ro̱ adhi̱ sāno̱ avye 'ja̍nti̱ vahni̱ṁ sada̍nā̱ny accha̍ ||
+9.91.2	vī̱tī jana̍sya di̱vyasya̍ ka̱vyair adhi̍ suvā̱no na̍hu̱ṣye̍bhi̱r indu̍ḥ | pra yo nṛbhi̍r a̱mṛto̱ martye̍bhir marmṛjā̱no 'vi̍bhi̱r gobhi̍r a̱dbhiḥ ||
+9.91.3	vṛṣā̱ vṛṣṇe̱ roru̍vad a̱ṁśur a̍smai̱ pava̍māno̱ ruśa̍d īrte̱ payo̱ goḥ | sa̱hasra̱m ṛkvā̍ pa̱thibhi̍r vaco̱vid a̍dhva̱smabhi̱ḥ sūro̱ aṇva̱ṁ vi yā̍ti ||
+9.91.4	ru̱jā dṛ̱ḻhā ci̍d ra̱kṣasa̱ḥ sadā̍ṁsi punā̱na i̍nda ūrṇuhi̱ vi vājā̍n | vṛ̱ścopari̍ṣṭāt tuja̱tā va̱dhena̱ ye anti̍ dū̱rād u̍panā̱yam e̍ṣām ||
+9.91.5	sa pra̍tna̱van navya̍se viśvavāra sū̱ktāya̍ pa̱thaḥ kṛ̍ṇuhi̱ prāca̍ḥ | ye du̱ḥṣahā̍so va̱nuṣā̍ bṛ̱hanta̱s tām̐s te̍ aśyāma purukṛt purukṣo ||
+9.91.6	e̱vā pu̍nā̱no a̱paḥ sva1̱̍r gā a̱smabhya̍ṁ to̱kā tana̍yāni̱ bhūri̍ | śaṁ na̱ḥ kṣetra̍m u̱ru jyotī̍ṁṣi soma̱ jyoṅ na̱ḥ sūrya̍ṁ dṛ̱śaye̍ rirīhi ||
+9.92.1	pari̍ suvā̱no hari̍r a̱ṁśuḥ pa̱vitre̱ ratho̱ na sa̍rji sa̱naye̍ hiyā̱naḥ | āpa̱c chloka̍m indri̱yam pū̱yamā̍na̱ḥ prati̍ de̱vām̐ a̍juṣata̱ prayo̍bhiḥ ||
+9.92.2	acchā̍ nṛ̱cakṣā̍ asarat pa̱vitre̱ nāma̱ dadhā̍naḥ ka̱vir a̍sya̱ yonau̍ | sīda̱n hote̍va̱ sada̍ne ca̱mūṣūpe̍m agma̱nn ṛṣa̍yaḥ sa̱pta viprā̍ḥ ||
+9.92.3	pra su̍me̱dhā gā̍tu̱vid vi̱śvade̍va̱ḥ soma̍ḥ punā̱naḥ sada̍ eti̱ nitya̍m | bhuva̱d viśve̍ṣu̱ kāvye̍ṣu̱ rantānu̱ janā̍n yatate̱ pañca̱ dhīra̍ḥ ||
+9.92.4	tava̱ tye so̍ma pavamāna ni̱ṇye viśve̍ de̱vās traya̍ ekāda̱śāsa̍ḥ | daśa̍ sva̱dhābhi̱r adhi̱ sāno̱ avye̍ mṛ̱janti̍ tvā na̱dya̍ḥ sa̱pta ya̱hvīḥ ||
+9.92.5	tan nu sa̱tyam pava̍mānasyāstu̱ yatra̱ viśve̍ kā̱rava̍ḥ sa̱ṁnasa̍nta | jyoti̱r yad ahne̱ akṛ̍ṇod u lo̱kam prāva̱n manu̱ṁ dasya̍ve kar a̱bhīka̍m ||
+9.92.6	pari̱ sadme̍va paśu̱mānti̱ hotā̱ rājā̱ na sa̱tyaḥ sami̍tīr iyā̱naḥ | soma̍ḥ punā̱naḥ ka̱laśā̍m̐ ayāsī̱t sīda̍n mṛ̱go na ma̍hi̱ṣo vane̍ṣu ||
+9.93.1	sā̱ka̱mukṣo̍ marjayanta̱ svasā̍ro̱ daśa̱ dhīra̍sya dhī̱tayo̱ dhanu̍trīḥ | hari̱ḥ pary a̍drava̱j jāḥ sūrya̍sya̱ droṇa̍ṁ nanakṣe̱ atyo̱ na vā̱jī ||
+9.93.2	sam mā̱tṛbhi̱r na śiśu̍r vāvaśā̱no vṛṣā̍ dadhanve puru̱vāro̍ a̱dbhiḥ | maryo̱ na yoṣā̍m a̱bhi ni̍ṣkṛ̱taṁ yan saṁ ga̍cchate ka̱laśa̍ u̱sriyā̍bhiḥ ||
+9.93.3	u̱ta pra pi̍pya̱ ūdha̱r aghnyā̍yā̱ indu̱r dhārā̍bhiḥ sacate sume̱dhāḥ | mū̱rdhāna̱ṁ gāva̱ḥ paya̍sā ca̱mūṣv a̱bhi śrī̍ṇanti̱ vasu̍bhi̱r na ni̱ktaiḥ ||
+9.93.4	sa no̍ de̱vebhi̍ḥ pavamāna ra̱dendo̍ ra̱yim a̱śvina̍ṁ vāvaśā̱naḥ | ra̱thi̱rā̱yatā̍m uśa̱tī pura̍ṁdhir asma̱drya1̱̍g ā dā̱vane̱ vasū̍nām ||
+9.93.5	nū no̍ ra̱yim upa̍ māsva nṛ̱vanta̍m punā̱no vā̱tāpya̍ṁ vi̱śvaśca̍ndram | pra va̍ndi̱tur i̍ndo tā̱ry āyu̍ḥ prā̱tar ma̱kṣū dhi̱yāva̍sur jagamyāt ||
+9.94.1	adhi̱ yad a̍smin vā̱jinī̍va̱ śubha̱ḥ spardha̍nte̱ dhiya̱ḥ sūrye̱ na viśa̍ḥ | a̱po vṛ̍ṇā̱naḥ pa̍vate kavī̱yan vra̱jaṁ na pa̍śu̱vardha̍nāya̱ manma̍ ||
+9.94.2	dvi̱tā vyū̱rṇvann a̱mṛta̍sya̱ dhāma̍ sva̱rvide̱ bhuva̍nāni prathanta | dhiya̍ḥ pinvā̱nāḥ svasa̍re̱ na gāva̍ ṛtā̱yantī̍r a̱bhi vā̍vaśra̱ indu̍m ||
+9.94.3	pari̱ yat ka̱viḥ kāvyā̱ bhara̍te̱ śūro̱ na ratho̱ bhuva̍nāni̱ viśvā̍ | de̱veṣu̱ yaśo̱ martā̍ya̱ bhūṣa̱n dakṣā̍ya rā̱yaḥ pu̍ru̱bhūṣu̱ navya̍ḥ ||
+9.94.4	śri̱ye jā̱taḥ śri̱ya ā nir i̍yāya̱ śriya̱ṁ vayo̍ jari̱tṛbhyo̍ dadhāti | śriya̱ṁ vasā̍nā amṛta̱tvam ā̍ya̱n bhava̍nti sa̱tyā sa̍mi̱thā mi̱tadrau̍ ||
+9.94.5	iṣa̱m ūrja̍m a̱bhy a1̱̍rṣāśva̱ṁ gām u̱ru jyoti̍ḥ kṛṇuhi̱ matsi̍ de̱vān | viśvā̍ni̱ hi su̱ṣahā̱ tāni̱ tubhya̱m pava̍māna̱ bādha̍se soma̱ śatrū̍n ||
+9.95.1	kani̍kranti̱ hari̱r ā sṛ̱jyamā̍na̱ḥ sīda̱n vana̍sya ja̱ṭhare̍ punā̱naḥ | nṛbhi̍r ya̱taḥ kṛ̍ṇute ni̱rṇija̱ṁ gā ato̍ ma̱tīr ja̍nayata sva̱dhābhi̍ḥ ||
+9.95.2	hari̍ḥ sṛjā̱naḥ pa̱thyā̍m ṛ̱tasyeya̍rti̱ vāca̍m ari̱teva̱ nāva̍m | de̱vo de̱vānā̱ṁ guhyā̍ni̱ nāmā̱viṣ kṛ̍ṇoti ba̱rhiṣi̍ pra̱vāce̍ ||
+9.95.3	a̱pām i̱ved ū̱rmaya̱s tartu̍rāṇā̱ḥ pra ma̍nī̱ṣā ī̍rate̱ soma̱m accha̍ | na̱ma̱syantī̱r upa̍ ca̱ yanti̱ saṁ cā ca̍ viśanty uśa̱tīr u̱śanta̍m ||
+9.95.4	tam ma̍rmṛjā̱nam ma̍hi̱ṣaṁ na sānā̍v a̱ṁśuṁ du̍hanty u̱kṣaṇa̍ṁ giri̱ṣṭhām | taṁ vā̍vaśā̱nam ma̱taya̍ḥ sacante tri̱to bi̍bharti̱ varu̍ṇaṁ samu̱dre ||
+9.95.5	iṣya̱n vāca̍m upava̱kteva̱ hotu̍ḥ punā̱na i̍ndo̱ vi ṣyā̍ manī̱ṣām | indra̍ś ca̱ yat kṣaya̍tha̱ḥ saubha̍gāya su̱vīrya̍sya̱ pata̍yaḥ syāma ||
+9.96.1	pra se̍nā̱nīḥ śūro̱ agre̱ rathā̍nāṁ ga̱vyann e̍ti̱ harṣa̍te asya̱ senā̍ | bha̱drān kṛ̱ṇvann i̍ndraha̱vān sakhi̍bhya̱ ā somo̱ vastrā̍ rabha̱sāni̍ datte ||
+9.96.2	sam a̍sya̱ hari̱ṁ hara̍yo mṛjanty aśvaha̱yair ani̍śita̱ṁ namo̍bhiḥ | ā ti̍ṣṭhati̱ ratha̱m indra̍sya̱ sakhā̍ vi̱dvām̐ e̍nā suma̱tiṁ yā̱ty accha̍ ||
+9.96.3	sa no̍ deva de̱vatā̍te pavasva ma̱he so̍ma̱ psara̍sa indra̱pāna̍ḥ | kṛ̱ṇvann a̱po va̱rṣaya̱n dyām u̱temām u̱ror ā no̍ varivasyā punā̱naḥ ||
+9.96.4	ajī̍ta̱ye 'ha̍taye pavasva sva̱staye̍ sa̱rvatā̍taye bṛha̱te | tad u̍śanti̱ viśva̍ i̱me sakhā̍ya̱s tad a̱haṁ va̍śmi pavamāna soma ||
+9.96.5	soma̍ḥ pavate jani̱tā ma̍tī̱nāṁ ja̍ni̱tā di̱vo ja̍ni̱tā pṛ̍thi̱vyāḥ | ja̱ni̱tāgner ja̍ni̱tā sūrya̍sya jani̱tendra̍sya jani̱tota viṣṇo̍ḥ ||
+9.96.6	bra̱hmā de̱vānā̍m pada̱vīḥ ka̍vī̱nām ṛṣi̱r viprā̍ṇām mahi̱ṣo mṛ̱gāṇā̍m | śye̱no gṛdhrā̍ṇā̱ṁ svadhi̍ti̱r vanā̍nā̱ṁ soma̍ḥ pa̱vitra̱m aty e̍ti̱ rebha̍n ||
+9.96.7	prāvī̍vipad vā̱ca ū̱rmiṁ na sindhu̱r gira̱ḥ soma̱ḥ pava̍māno manī̱ṣāḥ | a̱ntaḥ paśya̍n vṛ̱jane̱māva̍rā̱ṇy ā ti̍ṣṭhati vṛṣa̱bho goṣu̍ jā̱nan ||
+9.96.8	sa ma̍tsa̱raḥ pṛ̱tsu va̱nvann avā̍taḥ sa̱hasra̍retā a̱bhi vāja̍m arṣa | indrā̍yendo̱ pava̍māno manī̱ṣy a1̱̍ṁśor ū̱rmim ī̍raya̱ gā i̍ṣa̱ṇyan ||
+9.96.9	pari̍ pri̱yaḥ ka̱laśe̍ de̱vavā̍ta̱ indrā̍ya̱ somo̱ raṇyo̱ madā̍ya | sa̱hasra̍dhāraḥ śa̱tavā̍ja̱ indu̍r vā̱jī na sapti̱ḥ sama̍nā jigāti ||
+9.96.10	sa pū̱rvyo va̍su̱vij jāya̍māno mṛjā̱no a̱psu du̍duhā̱no adrau̍ | a̱bhi̱śa̱sti̱pā bhuva̍nasya̱ rājā̍ vi̱dad gā̱tum brahma̍ṇe pū̱yamā̍naḥ ||
+9.96.11	tvayā̱ hi na̍ḥ pi̱tara̍ḥ soma̱ pūrve̱ karmā̍ṇi ca̱kruḥ pa̍vamāna̱ dhīrā̍ḥ | va̱nvann avā̍taḥ pari̱dhīm̐r apo̍rṇu vī̱rebhi̱r aśvai̍r ma̱ghavā̍ bhavā naḥ ||
+9.96.12	yathāpa̍vathā̱ mana̍ve vayo̱dhā a̍mitra̱hā va̍rivo̱vid dha̱viṣmā̍n | e̱vā pa̍vasva̱ dravi̍ṇa̱ṁ dadhā̍na̱ indre̱ saṁ ti̍ṣṭha ja̱nayāyu̍dhāni ||
+9.96.13	pava̍sva soma̱ madhu̍mām̐ ṛ̱tāvā̱po vasā̍no̱ adhi̱ sāno̱ avye̍ | ava̱ droṇā̍ni ghṛ̱tavā̍nti sīda ma̱dinta̍mo matsa̱ra i̍ndra̱pāna̍ḥ ||
+9.96.14	vṛ̱ṣṭiṁ di̱vaḥ śa̱tadhā̍raḥ pavasva sahasra̱sā vā̍ja̱yur de̱vavī̍tau | saṁ sindhu̍bhiḥ ka̱laśe̍ vāvaśā̱naḥ sam u̱sriyā̍bhiḥ prati̱ran na̱ āyu̍ḥ ||
+9.96.15	e̱ṣa sya somo̍ ma̱tibhi̍ḥ punā̱no 'tyo̱ na vā̱jī tara̱tīd arā̍tīḥ | payo̱ na du̱gdham adi̍ter iṣi̱ram u̱rv i̍va gā̱tuḥ su̱yamo̱ na voḻhā̍ ||
+9.96.16	svā̱yu̱dhaḥ so̱tṛbhi̍ḥ pū̱yamā̍no̱ 'bhy a̍rṣa̱ guhya̱ṁ cāru̱ nāma̍ | a̱bhi vāja̱ṁ sapti̍r iva śrava̱syābhi vā̱yum a̱bhi gā de̍va soma ||
+9.96.17	śiśu̍ṁ jajñā̱naṁ ha̍rya̱tam mṛ̍janti śu̱mbhanti̱ vahni̍m ma̱ruto̍ ga̱ṇena̍ | ka̱vir gī̱rbhiḥ kāvye̍nā ka̱viḥ san soma̍ḥ pa̱vitra̱m aty e̍ti̱ rebha̍n ||
+9.96.18	ṛṣi̍manā̱ ya ṛ̍ṣi̱kṛt sva̱rṣāḥ sa̱hasra̍ṇīthaḥ pada̱vīḥ ka̍vī̱nām | tṛ̱tīya̱ṁ dhāma̍ mahi̱ṣaḥ siṣā̍sa̱n somo̍ vi̱rāja̱m anu̍ rājati̱ ṣṭup ||
+9.96.19	ca̱mū̱ṣac chye̱naḥ śa̍ku̱no vi̱bhṛtvā̍ govi̱ndur dra̱psa āyu̍dhāni̱ bibhra̍t | a̱pām ū̱rmiṁ saca̍mānaḥ samu̱draṁ tu̱rīya̱ṁ dhāma̍ mahi̱ṣo vi̍vakti ||
+9.96.20	maryo̱ na śu̱bhras ta̱nva̍m mṛjā̱no 'tyo̱ na sṛtvā̍ sa̱naye̱ dhanā̍nām | vṛṣe̍va yū̱thā pari̱ kośa̱m arṣa̱n kani̍kradac ca̱mvo̱3̱̍r ā vi̍veśa ||
+9.96.21	pava̍svendo̱ pava̍māno̱ maho̍bhi̱ḥ kani̍krada̱t pari̱ vārā̍ṇy arṣa | krīḻa̍ñ ca̱mvo̱3̱̍r ā vi̍śa pū̱yamā̍na̱ indra̍ṁ te̱ raso̍ madi̱ro ma̍mattu ||
+9.96.22	prāsya̱ dhārā̍ bṛha̱tīr a̍sṛgrann a̱kto gobhi̍ḥ ka̱laśā̱m̐ ā vi̍veśa | sāma̍ kṛ̱ṇvan sā̍ma̱nyo̍ vipa̱ścit kranda̍nn ety a̱bhi sakhyu̱r na jā̱mim ||
+9.96.23	a̱pa̱ghnann e̍ṣi pavamāna̱ śatrū̍n pri̱yāṁ na jā̱ro a̱bhigī̍ta̱ indu̍ḥ | sīda̱n vane̍ṣu śaku̱no na patvā̱ soma̍ḥ punā̱naḥ ka̱laśe̍ṣu̱ sattā̍ ||
+9.96.24	ā te̱ ruca̱ḥ pava̍mānasya soma̱ yoṣe̍va yanti su̱dughā̍ḥ sudhā̱rāḥ | hari̱r ānī̍taḥ puru̱vāro̍ a̱psv aci̍kradat ka̱laśe̍ devayū̱nām ||
+9.97.1	a̱sya pre̱ṣā he̱manā̍ pū̱yamā̍no de̱vo de̱vebhi̱ḥ sam a̍pṛkta̱ rasa̍m | su̱taḥ pa̱vitra̱m pary e̍ti̱ rebha̍n mi̱teva̱ sadma̍ paśu̱mānti̱ hotā̍ ||
+9.97.2	bha̱drā vastrā̍ sama̱nyā̱3̱̍ vasā̍no ma̱hān ka̱vir ni̱vaca̍nāni̱ śaṁsa̍n | ā va̍cyasva ca̱mvo̍ḥ pū̱yamā̍no vicakṣa̱ṇo jāgṛ̍vir de̱vavī̍tau ||
+9.97.3	sam u̍ pri̱yo mṛ̍jyate̱ sāno̱ avye̍ ya̱śasta̍ro ya̱śasā̱ṁ kṣaito̍ a̱sme | a̱bhi sva̍ra̱ dhanvā̍ pū̱yamā̍no yū̱yam pā̍ta sva̱stibhi̱ḥ sadā̍ naḥ ||
+9.97.4	pra gā̍yatā̱bhy a̍rcāma de̱vān soma̍ṁ hinota maha̱te dhanā̍ya | svā̱duḥ pa̍vāte̱ ati̱ vāra̱m avya̱m ā sī̍dāti ka̱laśa̍ṁ deva̱yur na̍ḥ ||
+9.97.5	indu̍r de̱vānā̱m upa̍ sa̱khyam ā̱yan sa̱hasra̍dhāraḥ pavate̱ madā̍ya | nṛbhi̱ḥ stavā̍no̱ anu̱ dhāma̱ pūrva̱m aga̱nn indra̍m maha̱te saubha̍gāya ||
+9.97.6	sto̱tre rā̱ye hari̍r arṣā punā̱na indra̱m mado̍ gacchatu te̱ bharā̍ya | de̱vair yā̍hi sa̱ratha̱ṁ rādho̱ acchā̍ yū̱yam pā̍ta sva̱stibhi̱ḥ sadā̍ naḥ ||
+9.97.7	pra kāvya̍m u̱śane̍va bruvā̱ṇo de̱vo de̱vānā̱ṁ jani̍mā vivakti | mahi̍vrata̱ḥ śuci̍bandhuḥ pāva̱kaḥ pa̱dā va̍rā̱ho a̱bhy e̍ti̱ rebha̍n ||
+9.97.8	pra ha̱ṁsāsa̍s tṛ̱pala̍m ma̱nyum acchā̱mād asta̱ṁ vṛṣa̍gaṇā ayāsuḥ | ā̱ṅgū̱ṣya1̱̍m pava̍māna̱ṁ sakhā̍yo du̱rmarṣa̍ṁ sā̱kam pra va̍danti vā̱ṇam ||
+9.97.9	sa ra̍ṁhata urugā̱yasya̍ jū̱tiṁ vṛthā̱ krīḻa̍ntam mimate̱ na gāva̍ḥ | pa̱rī̱ṇa̱saṁ kṛ̍ṇute ti̱gmaśṛ̍ṅgo̱ divā̱ hari̱r dadṛ̍śe̱ nakta̍m ṛ̱jraḥ ||
+9.97.10	indu̍r vā̱jī pa̍vate̱ gonyo̍ghā̱ indre̱ soma̱ḥ saha̱ inva̱n madā̍ya | hanti̱ rakṣo̱ bādha̍te̱ pary arā̍tī̱r vari̍vaḥ kṛ̱ṇvan vṛ̱jana̍sya̱ rājā̍ ||
+9.97.11	adha̱ dhāra̍yā̱ madhvā̍ pṛcā̱nas ti̱ro roma̍ pavate̱ adri̍dugdhaḥ | indu̱r indra̍sya sa̱khyaṁ ju̍ṣā̱ṇo de̱vo de̱vasya̍ matsa̱ro madā̍ya ||
+9.97.12	a̱bhi pri̱yāṇi̍ pavate punā̱no de̱vo de̱vān svena̱ rase̍na pṛ̱ñcan | indu̱r dharmā̍ṇy ṛtu̱thā vasā̍no̱ daśa̱ kṣipo̍ avyata̱ sāno̱ avye̍ ||
+9.97.13	vṛṣā̱ śoṇo̍ abhi̱kani̍krada̱d gā na̱daya̍nn eti pṛthi̱vīm u̱ta dyām | indra̍syeva va̱gnur ā śṛ̍ṇva ā̱jau pra̍ce̱taya̍nn arṣati̱ vāca̱m emām ||
+9.97.14	ra̱sāyya̱ḥ paya̍sā̱ pinva̍māna ī̱raya̍nn eṣi̱ madhu̍mantam a̱ṁśum | pava̍mānaḥ saṁta̱nim e̍ṣi kṛ̱ṇvann indrā̍ya soma pariṣi̱cyamā̍naḥ ||
+9.97.15	e̱vā pa̍vasva madi̱ro madā̍yodagrā̱bhasya̍ na̱maya̍n vadha̱snaiḥ | pari̱ varṇa̱m bhara̍māṇo̱ ruśa̍ntaṁ ga̱vyur no̍ arṣa̱ pari̍ soma si̱ktaḥ ||
+9.97.16	ju̱ṣṭvī na̍ indo su̱pathā̍ su̱gāny u̱rau pa̍vasva̱ vari̍vāṁsi kṛ̱ṇvan | gha̱neva̱ viṣva̍g duri̱tāni̍ vi̱ghnann adhi̱ ṣṇunā̍ dhanva̱ sāno̱ avye̍ ||
+9.97.17	vṛ̱ṣṭiṁ no̍ arṣa di̱vyāṁ ji̍ga̱tnum iḻā̍vatīṁ śa̱ṁgayī̍ṁ jī̱radā̍num | stuke̍va vī̱tā dha̍nvā vici̱nvan bandhū̍m̐r i̱mām̐ ava̍rām̐ indo vā̱yūn ||
+9.97.18	gra̱nthiṁ na vi ṣya̍ grathi̱tam pu̍nā̱na ṛ̱juṁ ca̍ gā̱tuṁ vṛ̍ji̱naṁ ca̍ soma | atyo̱ na kra̍do̱ hari̱r ā sṛ̍jā̱no maryo̍ deva dhanva pa̱styā̍vān ||
+9.97.19	juṣṭo̱ madā̍ya de̱vatā̍ta indo̱ pari̱ ṣṇunā̍ dhanva̱ sāno̱ avye̍ | sa̱hasra̍dhāraḥ sura̱bhir ada̍bdha̱ḥ pari̍ srava̱ vāja̍sātau nṛ̱ṣahye̍ ||
+9.97.20	a̱ra̱śmāno̱ ye̍ 'ra̱thā ayu̍ktā̱ atyā̍so̱ na sa̍sṛjā̱nāsa̍ ā̱jau | e̱te śu̱krāso̍ dhanvanti̱ somā̱ devā̍sa̱s tām̐ upa̍ yātā̱ piba̍dhyai ||
+9.97.21	e̱vā na̍ indo a̱bhi de̱vavī̍ti̱m pari̍ srava̱ nabho̱ arṇa̍ś ca̱mūṣu̍ | somo̍ a̱smabhya̱ṁ kāmya̍m bṛ̱hanta̍ṁ ra̱yiṁ da̍dātu vī̱rava̍ntam u̱gram ||
+9.97.22	takṣa̱d yadī̱ mana̍so̱ vena̍to̱ vāg jyeṣṭha̍sya vā̱ dharma̍ṇi̱ kṣor anī̍ke | ād ī̍m āya̱n vara̱m ā vā̍vaśā̱nā juṣṭa̱m pati̍ṁ ka̱laśe̱ gāva̱ indu̍m ||
+9.97.23	pra dā̍nu̱do di̱vyo dā̍nupi̱nva ṛ̱tam ṛ̱tāya̍ pavate sume̱dhāḥ | dha̱rmā bhu̍vad vṛja̱nya̍sya̱ rājā̱ pra ra̱śmibhi̍r da̱śabhi̍r bhāri̱ bhūma̍ ||
+9.97.24	pa̱vitre̍bhi̱ḥ pava̍māno nṛ̱cakṣā̱ rājā̍ de̱vānā̍m u̱ta martyā̍nām | dvi̱tā bhu̍vad rayi̱patī̍ rayī̱ṇām ṛ̱tam bha̍ra̱t subhṛ̍ta̱ṁ cārv indu̍ḥ ||
+9.97.25	arvā̍m̐ iva̱ śrava̍se sā̱tim acchendra̍sya vā̱yor a̱bhi vī̱tim a̍rṣa | sa na̍ḥ sa̱hasrā̍ bṛha̱tīr iṣo̍ dā̱ bhavā̍ soma draviṇo̱vit pu̍nā̱naḥ ||
+9.97.26	de̱vā̱vyo̍ naḥ pariṣi̱cyamā̍nā̱ḥ kṣaya̍ṁ su̱vīra̍ṁ dhanvantu̱ somā̍ḥ | ā̱ya̱jyava̍ḥ suma̱tiṁ vi̱śvavā̍rā̱ hotā̍ro̱ na di̍vi̱yajo̍ ma̱ndrata̍māḥ ||
+9.97.27	e̱vā de̍va de̱vatā̍te pavasva ma̱he so̍ma̱ psara̍se deva̱pāna̍ḥ | ma̱haś ci̱d dhi ṣmasi̍ hi̱tāḥ sa̍ma̱rye kṛ̱dhi su̍ṣṭhā̱ne roda̍sī punā̱naḥ ||
+9.97.28	aśvo̱ na kra̍do̱ vṛṣa̍bhir yujā̱naḥ si̱ṁho na bhī̱mo mana̍so̱ javī̍yān | a̱rvā̱cīnai̍ḥ pa̱thibhi̱r ye raji̍ṣṭhā̱ ā pa̍vasva saumana̱saṁ na̍ indo ||
+9.97.29	śa̱taṁ dhārā̍ de̱vajā̍tā asṛgran sa̱hasra̍m enāḥ ka̱vayo̍ mṛjanti | indo̍ sa̱nitra̍ṁ di̱va ā pa̍vasva purae̱tāsi̍ maha̱to dhana̍sya ||
+9.97.30	di̱vo na sargā̍ asasṛgra̱m ahnā̱ṁ rājā̱ na mi̱tram pra mi̍nāti̱ dhīra̍ḥ | pi̱tur na pu̱traḥ kratu̍bhir yatā̱na ā pa̍vasva vi̱śe a̱syā ajī̍tim ||
+9.97.31	pra te̱ dhārā̱ madhu̍matīr asṛgra̱n vārā̱n yat pū̱to a̱tyeṣy avyā̍n | pava̍māna̱ pava̍se̱ dhāma̱ gonā̍ṁ jajñā̱naḥ sūrya̍m apinvo a̱rkaiḥ ||
+9.97.32	kani̍krada̱d anu̱ panthā̍m ṛ̱tasya̍ śu̱kro vi bhā̍sy a̱mṛta̍sya̱ dhāma̍ | sa indrā̍ya pavase matsa̱ravā̍n hinvā̱no vāca̍m ma̱tibhi̍ḥ kavī̱nām ||
+9.97.33	di̱vyaḥ su̍pa̱rṇo 'va̍ cakṣi soma̱ pinva̱n dhārā̱ḥ karma̍ṇā de̱vavī̍tau | endo̍ viśa ka̱laśa̍ṁ soma̱dhāna̱ṁ kranda̍nn ihi̱ sūrya̱syopa̍ ra̱śmim ||
+9.97.34	ti̱sro vāca̍ īrayati̱ pra vahni̍r ṛ̱tasya̍ dhī̱tim brahma̍ṇo manī̱ṣām | gāvo̍ yanti̱ gopa̍tim pṛ̱cchamā̍nā̱ḥ soma̍ṁ yanti ma̱tayo̍ vāvaśā̱nāḥ ||
+9.97.35	soma̱ṁ gāvo̍ dhe̱navo̍ vāvaśā̱nāḥ soma̱ṁ viprā̍ ma̱tibhi̍ḥ pṛ̱cchamā̍nāḥ | soma̍ḥ su̱taḥ pū̍yate a̱jyamā̍na̱ḥ some̍ a̱rkās tri̱ṣṭubha̱ḥ saṁ na̍vante ||
+9.97.36	e̱vā na̍ḥ soma pariṣi̱cyamā̍na̱ ā pa̍vasva pū̱yamā̍naḥ sva̱sti | indra̱m ā vi̍śa bṛha̱tā rave̍ṇa va̱rdhayā̱ vāca̍ṁ ja̱nayā̱ pura̍ṁdhim ||
+9.97.37	ā jāgṛ̍vi̱r vipra̍ ṛ̱tā ma̍tī̱nāṁ soma̍ḥ punā̱no a̍sadac ca̱mūṣu̍ | sapa̍nti̱ yam mi̍thu̱nāso̱ nikā̍mā adhva̱ryavo̍ rathi̱rāsa̍ḥ su̱hastā̍ḥ ||
+9.97.38	sa pu̍nā̱na upa̱ sūre̱ na dhātobhe a̍prā̱ roda̍sī̱ vi ṣa ā̍vaḥ | pri̱yā ci̱d yasya̍ priya̱sāsa̍ ū̱tī sa tū dhana̍ṁ kā̱riṇe̱ na pra ya̍ṁsat ||
+9.97.39	sa va̍rdhi̱tā vardha̍naḥ pū̱yamā̍na̱ḥ somo̍ mī̱ḍhvām̐ a̱bhi no̱ jyoti̍ṣāvīt | yenā̍ na̱ḥ pūrve̍ pi̱tara̍ḥ pada̱jñāḥ sva̱rvido̍ a̱bhi gā adri̍m u̱ṣṇan ||
+9.97.40	akrā̍n samu̱draḥ pra̍tha̱me vidha̍rmañ ja̱naya̍n pra̱jā bhuva̍nasya̱ rājā̍ | vṛṣā̍ pa̱vitre̱ adhi̱ sāno̱ avye̍ bṛ̱hat somo̍ vāvṛdhe suvā̱na indu̍ḥ ||
+9.97.41	ma̱hat tat somo̍ mahi̱ṣaś ca̍kārā̱pāṁ yad garbho 'vṛ̍ṇīta de̱vān | ada̍dhā̱d indre̱ pava̍māna̱ ojo 'ja̍naya̱t sūrye̱ jyoti̱r indu̍ḥ ||
+9.97.42	matsi̍ vā̱yum i̱ṣṭaye̱ rādha̍se ca̱ matsi̍ mi̱trāvaru̍ṇā pū̱yamā̍naḥ | matsi̱ śardho̱ māru̍ta̱m matsi̍ de̱vān matsi̱ dyāvā̍pṛthi̱vī de̍va soma ||
+9.97.43	ṛ̱juḥ pa̍vasva vṛji̱nasya̍ ha̱ntāpāmī̍vā̱m bādha̍māno̱ mṛdha̍ś ca | a̱bhi̱śrī̱ṇan paya̱ḥ paya̍sā̱bhi gonā̱m indra̍sya̱ tvaṁ tava̍ va̱yaṁ sakhā̍yaḥ ||
+9.97.44	madhva̱ḥ sūda̍m pavasva̱ vasva̱ utsa̍ṁ vī̱raṁ ca̍ na̱ ā pa̍vasvā̱ bhaga̍ṁ ca | svada̱svendrā̍ya̱ pava̍māna indo ra̱yiṁ ca̍ na̱ ā pa̍vasvā samu̱drāt ||
+9.97.45	soma̍ḥ su̱to dhāra̱yātyo̱ na hitvā̱ sindhu̱r na ni̱mnam a̱bhi vā̱jy a̍kṣāḥ | ā yoni̱ṁ vanya̍m asadat punā̱naḥ sam indu̱r gobhi̍r asara̱t sam a̱dbhiḥ ||
+9.97.46	e̱ṣa sya te̍ pavata indra̱ soma̍ś ca̱mūṣu̱ dhīra̍ uśa̱te tava̍svān | sva̍rcakṣā rathi̱raḥ sa̱tyaśu̍ṣma̱ḥ kāmo̱ na yo de̍vaya̱tām asa̍rji ||
+9.97.47	e̱ṣa pra̱tnena̱ vaya̍sā punā̱nas ti̱ro varpā̍ṁsi duhi̱tur dadhā̍naḥ | vasā̍na̱ḥ śarma̍ tri̱varū̍tham a̱psu hote̍va yāti̱ sama̍neṣu̱ rebha̍n ||
+9.97.48	nū na̱s tvaṁ ra̍thi̱ro de̍va soma̱ pari̍ srava ca̱mvo̍ḥ pū̱yamā̍naḥ | a̱psu svādi̍ṣṭho̱ madhu̍mām̐ ṛ̱tāvā̍ de̱vo na yaḥ sa̍vi̱tā sa̱tyama̍nmā ||
+9.97.49	a̱bhi vā̱yuṁ vī̱ty a̍rṣā gṛṇā̱no̱3̱̍ 'bhi mi̱trāvaru̍ṇā pū̱yamā̍naḥ | a̱bhī nara̍ṁ dhī̱java̍naṁ rathe̱ṣṭhām a̱bhīndra̱ṁ vṛṣa̍ṇa̱ṁ vajra̍bāhum ||
+9.97.50	a̱bhi vastrā̍ suvasa̱nāny a̍rṣā̱bhi dhe̱nūḥ su̱dughā̍ḥ pū̱yamā̍naḥ | a̱bhi ca̱ndrā bharta̍ve no̱ hira̍ṇyā̱bhy aśvā̍n ra̱thino̍ deva soma ||
+9.97.51	a̱bhī no̍ arṣa di̱vyā vasū̍ny a̱bhi viśvā̱ pārthi̍vā pū̱yamā̍naḥ | a̱bhi yena̱ dravi̍ṇam a̱śnavā̍mā̱bhy ā̍rṣe̱yaṁ ja̍madagni̱van na̍ḥ ||
+9.97.52	a̱yā pa̱vā pa̍vasvai̱nā vasū̍ni mām̐śca̱tva i̍ndo̱ sara̍si̱ pra dha̍nva | bra̱dhnaś ci̱d atra̱ vāto̱ na jū̱taḥ pu̍ru̱medha̍ś ci̱t taka̍ve̱ nara̍ṁ dāt ||
+9.97.53	u̱ta na̍ e̱nā pa̍va̱yā pa̍va̱svādhi̍ śru̱te śra̱vāyya̍sya tī̱rthe | ṣa̱ṣṭiṁ sa̱hasrā̍ naigu̱to vasū̍ni vṛ̱kṣaṁ na pa̱kvaṁ dhū̍nava̱d raṇā̍ya ||
+9.97.54	mahī̱me a̍sya̱ vṛṣa̱nāma̍ śū̱ṣe mām̐śca̍tve vā̱ pṛśa̍ne vā̱ vadha̍tre | asvā̍payan ni̱guta̍ḥ sne̱haya̱c cāpā̱mitrā̱m̐ apā̱cito̍ ace̱taḥ ||
+9.97.55	saṁ trī pa̱vitrā̱ vita̍tāny e̱ṣy anv eka̍ṁ dhāvasi pū̱yamā̍naḥ | asi̱ bhago̱ asi̍ dā̱trasya̍ dā̱tāsi̍ ma̱ghavā̍ ma̱ghava̍dbhya indo ||
+9.97.56	e̱ṣa vi̍śva̱vit pa̍vate manī̱ṣī somo̱ viśva̍sya̱ bhuva̍nasya̱ rājā̍ | dra̱psām̐ ī̱raya̍n vi̱dathe̱ṣv indu̱r vi vāra̱m avya̍ṁ sa̱mayāti̍ yāti ||
+9.97.57	indu̍ṁ rihanti mahi̱ṣā ada̍bdhāḥ pa̱de re̍bhanti ka̱vayo̱ na gṛdhrā̍ḥ | hi̱nvanti̱ dhīrā̍ da̱śabhi̱ḥ kṣipā̍bhi̱ḥ sam a̍ñjate rū̱pam a̱pāṁ rase̍na ||
+9.97.58	tvayā̍ va̱yam pava̍mānena soma̱ bhare̍ kṛ̱taṁ vi ci̍nuyāma̱ śaśva̍t | tan no̍ mi̱tro varu̍ṇo māmahantā̱m adi̍ti̱ḥ sindhu̍ḥ pṛthi̱vī u̱ta dyauḥ ||
+9.98.1	a̱bhi no̍ vāja̱sāta̍maṁ ra̱yim a̍rṣa puru̱spṛha̍m | indo̍ sa̱hasra̍bharṇasaṁ tuvidyu̱mnaṁ vi̍bhvā̱saha̍m ||
+9.98.2	pari̱ ṣya su̍vā̱no a̱vyaya̱ṁ rathe̱ na varmā̍vyata | indu̍r a̱bhi druṇā̍ hi̱to hi̍yā̱no dhārā̍bhir akṣāḥ ||
+9.98.3	pari̱ ṣya su̍vā̱no a̍kṣā̱ indu̱r avye̱ mada̍cyutaḥ | dhārā̱ ya ū̱rdhvo a̍dhva̱re bhrā̱jā naiti̍ gavya̱yuḥ ||
+9.98.4	sa hi tvaṁ de̍va̱ śaśva̍te̱ vasu̱ martā̍ya dā̱śuṣe̍ | indo̍ saha̱sriṇa̍ṁ ra̱yiṁ śa̱tātmā̍naṁ vivāsasi ||
+9.98.5	va̱yaṁ te̍ a̱sya vṛ̍traha̱n vaso̱ vasva̍ḥ puru̱spṛha̍ḥ | ni nedi̍ṣṭhatamā i̱ṣaḥ syāma̍ su̱mnasyā̍dhrigo ||
+9.98.6	dvir yam pañca̱ svaya̍śasa̱ṁ svasā̍ro̱ adri̍saṁhatam | pri̱yam indra̍sya̱ kāmya̍m prasnā̱paya̍nty ū̱rmiṇa̍m ||
+9.98.7	pari̱ tyaṁ ha̍rya̱taṁ hari̍m ba̱bhrum pu̍nanti̱ vāre̍ṇa | yo de̱vān viśvā̱m̐ it pari̱ made̍na sa̱ha gaccha̍ti ||
+9.98.8	a̱sya vo̱ hy ava̍sā̱ pānto̍ dakṣa̱sādha̍nam | yaḥ sū̱riṣu̱ śravo̍ bṛ̱had da̱dhe sva1̱̍r ṇa ha̍rya̱taḥ ||
+9.98.9	sa vā̍ṁ ya̱jñeṣu̍ mānavī̱ indu̍r janiṣṭa rodasī | de̱vo de̍vī giri̱ṣṭhā asre̍dha̱n taṁ tu̍vi̱ṣvaṇi̍ ||
+9.98.10	indrā̍ya soma̱ pāta̍ve vṛtra̱ghne pari̍ ṣicyase | nare̍ ca̱ dakṣi̍ṇāvate de̱vāya̍ sadanā̱sade̍ ||
+9.98.11	te pra̱tnāso̱ vyu̍ṣṭiṣu̱ somā̍ḥ pa̱vitre̍ akṣaran | a̱pa̱protha̍ntaḥ sanu̱tar hu̍ra̱ścita̍ḥ prā̱tas tām̐ apra̍cetasaḥ ||
+9.98.12	taṁ sa̍khāyaḥ puro̱ruca̍ṁ yū̱yaṁ va̱yaṁ ca̍ sū̱raya̍ḥ | a̱śyāma̱ vāja̍gandhyaṁ sa̱nema̱ vāja̍pastyam ||
+9.99.1	ā ha̍rya̱tāya̍ dhṛ̱ṣṇave̱ dhanu̍s tanvanti̱ pauṁsya̍m | śu̱krāṁ va̍ya̱nty asu̍rāya ni̱rṇija̍ṁ vi̱pām agre̍ mahī̱yuva̍ḥ ||
+9.99.2	adha̍ kṣa̱pā pari̍ṣkṛto̱ vājā̍m̐ a̱bhi pra gā̍hate | yadī̍ vi̱vasva̍to̱ dhiyo̱ hari̍ṁ hi̱nvanti̱ yāta̍ve ||
+9.99.3	tam a̍sya marjayāmasi̱ mado̱ ya i̍ndra̱pāta̍maḥ | yaṁ gāva̍ ā̱sabhi̍r da̱dhuḥ pu̱rā nū̱naṁ ca̍ sū̱raya̍ḥ ||
+9.99.4	taṁ gātha̍yā purā̱ṇyā pu̍nā̱nam a̱bhy a̍nūṣata | u̱to kṛ̍panta dhī̱tayo̍ de̱vānā̱ṁ nāma̱ bibhra̍tīḥ ||
+9.99.5	tam u̱kṣamā̍ṇam a̱vyaye̱ vāre̍ punanti dharṇa̱sim | dū̱taṁ na pū̱rvaci̍ttaya̱ ā śā̍sate manī̱ṣiṇa̍ḥ ||
+9.99.6	sa pu̍nā̱no ma̱dinta̍ma̱ḥ soma̍ś ca̱mūṣu̍ sīdati | pa̱śau na reta̍ ā̱dadha̱t pati̍r vacasyate dhi̱yaḥ ||
+9.99.7	sa mṛ̍jyate su̱karma̍bhir de̱vo de̱vebhya̍ḥ su̱taḥ | vi̱de yad ā̍su saṁda̱dir ma̱hīr a̱po vi gā̍hate ||
+9.99.8	su̱ta i̍ndo pa̱vitra̱ ā nṛbhi̍r ya̱to vi nī̍yase | indrā̍ya matsa̱rinta̍maś ca̱mūṣv ā ni ṣī̍dasi ||
+9.100.1	a̱bhī na̍vante a̱druha̍ḥ pri̱yam indra̍sya̱ kāmya̍m | va̱tsaṁ na pūrva̱ āyu̍ni jā̱taṁ ri̍hanti mā̱tara̍ḥ ||
+9.100.2	pu̱nā̱na i̍nda̱v ā bha̍ra̱ soma̍ dvi̱barha̍saṁ ra̱yim | tvaṁ vasū̍ni puṣyasi̱ viśvā̍ni dā̱śuṣo̍ gṛ̱he ||
+9.100.3	tvaṁ dhiya̍m mano̱yuja̍ṁ sṛ̱jā vṛ̱ṣṭiṁ na ta̍nya̱tuḥ | tvaṁ vasū̍ni̱ pārthi̍vā di̱vyā ca̍ soma puṣyasi ||
+9.100.4	pari̍ te ji̱gyuṣo̍ yathā̱ dhārā̍ su̱tasya̍ dhāvati | raṁha̍māṇā̱ vy a1̱̍vyaya̱ṁ vāra̍ṁ vā̱jīva̍ sāna̱siḥ ||
+9.100.5	kratve̱ dakṣā̍ya naḥ kave̱ pava̍sva soma̱ dhāra̍yā | indrā̍ya̱ pāta̍ve su̱to mi̱trāya̱ varu̍ṇāya ca ||
+9.100.6	pava̍sva vāja̱sāta̍maḥ pa̱vitre̱ dhāra̍yā su̱taḥ | indrā̍ya soma̱ viṣṇa̍ve de̱vebhyo̱ madhu̍mattamaḥ ||
+9.100.7	tvāṁ ri̍hanti mā̱taro̱ hari̍m pa̱vitre̍ a̱druha̍ḥ | va̱tsaṁ jā̱taṁ na dhe̱nava̱ḥ pava̍māna̱ vidha̍rmaṇi ||
+9.100.8	pava̍māna̱ mahi̱ śrava̍ś ci̱trebhi̍r yāsi ra̱śmibhi̍ḥ | śardha̱n tamā̍ṁsi jighnase̱ viśvā̍ni dā̱śuṣo̍ gṛ̱he ||
+9.100.9	tvaṁ dyāṁ ca̍ mahivrata pṛthi̱vīṁ cāti̍ jabhriṣe | prati̍ drā̱pim a̍muñcathā̱ḥ pava̍māna mahitva̱nā ||
+9.101.1	pu̱roji̍tī vo̱ andha̍saḥ su̱tāya̍ mādayi̱tnave̍ | apa̱ śvāna̍ṁ śnathiṣṭana̱ sakhā̍yo dīrghaji̱hvya̍m ||
+9.101.2	yo dhāra̍yā pāva̱kayā̍ paripra̱syanda̍te su̱taḥ | indu̱r aśvo̱ na kṛtvya̍ḥ ||
+9.101.3	taṁ du̱roṣa̍m a̱bhī nara̱ḥ soma̍ṁ vi̱śvācyā̍ dhi̱yā | ya̱jñaṁ hi̍nva̱nty adri̍bhiḥ ||
+9.101.4	su̱tāso̱ madhu̍mattamā̱ḥ somā̱ indrā̍ya ma̱ndina̍ḥ | pa̱vitra̍vanto akṣaran de̱vān ga̍cchantu vo̱ madā̍ḥ ||
+9.101.5	indu̱r indrā̍ya pavata̱ iti̍ de̱vāso̍ abruvan | vā̱cas pati̍r makhasyate̱ viśva̱syeśā̍na̱ oja̍sā ||
+9.101.6	sa̱hasra̍dhāraḥ pavate samu̱dro vā̍camīṅkha̱yaḥ | soma̱ḥ patī̍ rayī̱ṇāṁ sakhendra̍sya di̱ve-di̍ve ||
+9.101.7	a̱yam pū̱ṣā ra̱yir bhaga̱ḥ soma̍ḥ punā̱no a̍rṣati | pati̱r viśva̍sya̱ bhūma̍no̱ vy a̍khya̱d roda̍sī u̱bhe ||
+9.101.8	sam u̍ pri̱yā a̍nūṣata̱ gāvo̱ madā̍ya̱ ghṛṣva̍yaḥ | somā̍saḥ kṛṇvate pa̱thaḥ pava̍mānāsa̱ inda̍vaḥ ||
+9.101.9	ya oji̍ṣṭha̱s tam ā bha̍ra̱ pava̍māna śra̱vāyya̍m | yaḥ pañca̍ carṣa̱ṇīr a̱bhi ra̱yiṁ yena̱ vanā̍mahai ||
+9.101.10	somā̍ḥ pavanta̱ inda̍vo̱ 'smabhya̍ṁ gātu̱vitta̍māḥ | mi̱trāḥ su̍vā̱nā a̍re̱pasa̍ḥ svā̱dhya̍ḥ sva̱rvida̍ḥ ||
+9.101.11	su̱ṣvā̱ṇāso̱ vy adri̍bhi̱ś citā̍nā̱ gor adhi̍ tva̱ci | iṣa̍m a̱smabhya̍m a̱bhita̱ḥ sam a̍svaran vasu̱vida̍ḥ ||
+9.101.12	e̱te pū̱tā vi̍pa̱ścita̱ḥ somā̍so̱ dadhyā̍śiraḥ | sūryā̍so̱ na da̍rśa̱tāso̍ jiga̱tnavo̍ dhru̱vā ghṛ̱te ||
+9.101.13	pra su̍nvā̱nasyāndha̍so̱ marto̱ na vṛ̍ta̱ tad vaca̍ḥ | apa̱ śvāna̍m arā̱dhasa̍ṁ ha̱tā ma̱khaṁ na bhṛga̍vaḥ ||
+9.101.14	ā jā̱mir atke̍ avyata bhu̱je na pu̱tra o̱ṇyo̍ḥ | sara̍j jā̱ro na yoṣa̍ṇāṁ va̱ro na yoni̍m ā̱sada̍m ||
+9.101.15	sa vī̱ro da̍kṣa̱sādha̍no̱ vi yas ta̱stambha̱ roda̍sī | hari̍ḥ pa̱vitre̍ avyata ve̱dhā na yoni̍m ā̱sada̍m ||
+9.101.16	avyo̱ vāre̍bhiḥ pavate̱ somo̱ gavye̱ adhi̍ tva̱ci | kani̍krada̱d vṛṣā̱ hari̱r indra̍syā̱bhy e̍ti niṣkṛ̱tam ||
+9.102.1	krā̱ṇā śiśu̍r ma̱hīnā̍ṁ hi̱nvann ṛ̱tasya̱ dīdhi̍tim | viśvā̱ pari̍ pri̱yā bhu̍va̱d adha̍ dvi̱tā ||
+9.102.2	upa̍ tri̱tasya̍ pā̱ṣyo̱3̱̍r abha̍kta̱ yad guhā̍ pa̱dam | ya̱jñasya̍ sa̱pta dhāma̍bhi̱r adha̍ pri̱yam ||
+9.102.3	trīṇi̍ tri̱tasya̱ dhāra̍yā pṛ̱ṣṭheṣv era̍yā ra̱yim | mimī̍te asya̱ yoja̍nā̱ vi su̱kratu̍ḥ ||
+9.102.4	ja̱jñā̱naṁ sa̱pta mā̱taro̍ ve̱dhām a̍śāsata śri̱ye | a̱yaṁ dhru̱vo ra̍yī̱ṇāṁ cike̍ta̱ yat ||
+9.102.5	a̱sya vra̱te sa̱joṣa̍so̱ viśve̍ de̱vāso̍ a̱druha̍ḥ | spā̱rhā bha̍vanti̱ ranta̍yo ju̱ṣanta̱ yat ||
+9.102.6	yam ī̱ garbha̍m ṛtā̱vṛdho̍ dṛ̱śe cāru̱m ajī̍janan | ka̱vim maṁhi̍ṣṭham adhva̱re pu̍ru̱spṛha̍m ||
+9.102.7	sa̱mī̱cī̱ne a̱bhi tmanā̍ ya̱hvī ṛ̱tasya̍ mā̱tarā̍ | ta̱nvā̱nā ya̱jñam ā̍nu̱ṣag yad a̍ñja̱te ||
+9.102.8	kratvā̍ śu̱krebhi̍r a̱kṣabhi̍r ṛ̱ṇor apa̍ vra̱jaṁ di̱vaḥ | hi̱nvann ṛ̱tasya̱ dīdhi̍ti̱m prādhva̱re ||
+9.103.1	pra pu̍nā̱nāya̍ ve̱dhase̱ somā̍ya̱ vaca̱ udya̍tam | bhṛ̱tiṁ na bha̍rā ma̱tibhi̱r jujo̍ṣate ||
+9.103.2	pari̱ vārā̍ṇy a̱vyayā̱ gobhi̍r añjā̱no a̍rṣati | trī ṣa̱dhasthā̍ punā̱naḥ kṛ̍ṇute̱ hari̍ḥ ||
+9.103.3	pari̱ kośa̍m madhu̱ścuta̍m a̱vyaye̱ vāre̍ arṣati | a̱bhi vāṇī̱r ṛṣī̍ṇāṁ sa̱pta nū̍ṣata ||
+9.103.4	pari̍ ṇe̱tā ma̍tī̱nāṁ vi̱śvade̍vo̱ adā̍bhyaḥ | soma̍ḥ punā̱naś ca̱mvo̍r viśa̱d dhari̍ḥ ||
+9.103.5	pari̱ daivī̱r anu̍ sva̱dhā indre̍ṇa yāhi sa̱ratha̍m | pu̱nā̱no vā̱ghad vā̱ghadbhi̱r ama̍rtyaḥ ||
+9.103.6	pari̱ sapti̱r na vā̍ja̱yur de̱vo de̱vebhya̍ḥ su̱taḥ | vyā̱na̱śiḥ pava̍māno̱ vi dhā̍vati ||
+9.104.1	sakhā̍ya̱ ā ni ṣī̍data punā̱nāya̱ pra gā̍yata | śiśu̱ṁ na ya̱jñaiḥ pari̍ bhūṣata śri̱ye ||
+9.104.2	sam ī̍ va̱tsaṁ na mā̱tṛbhi̍ḥ sṛ̱jatā̍ gaya̱sādha̍nam | de̱vā̱vya1̱̍m mada̍m a̱bhi dviśa̍vasam ||
+9.104.3	pu̱nātā̍ dakṣa̱sādha̍na̱ṁ yathā̱ śardhā̍ya vī̱taye̍ | yathā̍ mi̱trāya̱ varu̍ṇāya̱ śaṁta̍maḥ ||
+9.104.4	a̱smabhya̍ṁ tvā vasu̱vida̍m a̱bhi vāṇī̍r anūṣata | gobhi̍ṣ ṭe̱ varṇa̍m a̱bhi vā̍sayāmasi ||
+9.104.5	sa no̍ madānām pata̱ indo̍ de̱vapsa̍rā asi | sakhe̍va̱ sakhye̍ gātu̱vitta̍mo bhava ||
+9.104.6	sane̍mi kṛ̱dhy a1̱̍smad ā ra̱kṣasa̱ṁ kaṁ ci̍d a̱triṇa̍m | apāde̍vaṁ dva̱yum aṁho̍ yuyodhi naḥ ||
+9.105.1	taṁ va̍ḥ sakhāyo̱ madā̍ya punā̱nam a̱bhi gā̍yata | śiśu̱ṁ na ya̱jñaiḥ sva̍dayanta gū̱rtibhi̍ḥ ||
+9.105.2	saṁ va̱tsa i̍va mā̱tṛbhi̱r indu̍r hinvā̱no a̍jyate | de̱vā̱vīr mado̍ ma̱tibhi̱ḥ pari̍ṣkṛtaḥ ||
+9.105.3	a̱yaṁ dakṣā̍ya̱ sādha̍no̱ 'yaṁ śardhā̍ya vī̱taye̍ | a̱yaṁ de̱vebhyo̱ madhu̍mattamaḥ su̱taḥ ||
+9.105.4	goma̍n na indo̱ aśva̍vat su̱taḥ su̍dakṣa dhanva | śuci̍ṁ te̱ varṇa̱m adhi̱ goṣu̍ dīdharam ||
+9.105.5	sa no̍ harīṇām pata̱ indo̍ de̱vapsa̍rastamaḥ | sakhe̍va̱ sakhye̱ naryo̍ ru̱ce bha̍va ||
+9.105.6	sane̍mi̱ tvam a̱smad ām̐ ade̍va̱ṁ kaṁ ci̍d a̱triṇa̍m | sā̱hvām̐ i̍ndo̱ pari̱ bādho̱ apa̍ dva̱yum ||
+9.106.1	indra̱m accha̍ su̱tā i̱me vṛṣa̍ṇaṁ yantu̱ hara̍yaḥ | śru̱ṣṭī jā̱tāsa̱ inda̍vaḥ sva̱rvida̍ḥ ||
+9.106.2	a̱yam bharā̍ya sāna̱sir indrā̍ya pavate su̱taḥ | somo̱ jaitra̍sya cetati̱ yathā̍ vi̱de ||
+9.106.3	a̱syed indro̱ made̱ṣv ā grā̱bhaṁ gṛ̍bhṇīta sāna̱sim | vajra̍ṁ ca̱ vṛṣa̍ṇam bhara̱t sam a̍psu̱jit ||
+9.106.4	pra dha̍nvā soma̱ jāgṛ̍vi̱r indrā̍yendo̱ pari̍ srava | dyu̱manta̱ṁ śuṣma̱m ā bha̍rā sva̱rvida̍m ||
+9.106.5	indrā̍ya̱ vṛṣa̍ṇa̱m mada̱m pava̍sva vi̱śvada̍rśataḥ | sa̱hasra̍yāmā pathi̱kṛd vi̍cakṣa̱ṇaḥ ||
+9.106.6	a̱smabhya̍ṁ gātu̱vitta̍mo de̱vebhyo̱ madhu̍mattamaḥ | sa̱hasra̍ṁ yāhi pa̱thibhi̱ḥ kani̍kradat ||
+9.106.7	pava̍sva de̱vavī̍taya̱ indo̱ dhārā̍bhi̱r oja̍sā | ā ka̱laśa̱m madhu̍mān soma naḥ sadaḥ ||
+9.106.8	tava̍ dra̱psā u̍da̱pruta̱ indra̱m madā̍ya vāvṛdhuḥ | tvāṁ de̱vāso̍ a̱mṛtā̍ya̱ kam pa̍puḥ ||
+9.106.9	ā na̍ḥ sutāsa indavaḥ punā̱nā dhā̍vatā ra̱yim | vṛ̱ṣṭidyā̍vo rītyāpaḥ sva̱rvida̍ḥ ||
+9.106.10	soma̍ḥ punā̱na ū̱rmiṇāvyo̱ vāra̱ṁ vi dhā̍vati | agre̍ vā̱caḥ pava̍māna̱ḥ kani̍kradat ||
+9.106.11	dhī̱bhir hi̍nvanti vā̱jina̱ṁ vane̱ krīḻa̍nta̱m atya̍vim | a̱bhi tri̍pṛ̱ṣṭham ma̱taya̱ḥ sam a̍svaran ||
+9.106.12	asa̍rji ka̱laśā̍m̐ a̱bhi mī̱ḻhe sapti̱r na vā̍ja̱yuḥ | pu̱nā̱no vāca̍ṁ ja̱naya̍nn asiṣyadat ||
+9.106.13	pava̍te harya̱to hari̱r ati̱ hvarā̍ṁsi̱ raṁhyā̍ | a̱bhyarṣa̍n sto̱tṛbhyo̍ vī̱rava̱d yaśa̍ḥ ||
+9.106.14	a̱yā pa̍vasva deva̱yur madho̱r dhārā̍ asṛkṣata | rebha̍n pa̱vitra̱m pary e̍ṣi vi̱śvata̍ḥ ||
+9.107.1	parī̱to ṣi̍ñcatā su̱taṁ somo̱ ya u̍tta̱maṁ ha̱viḥ | da̱dha̱nvām̐ yo naryo̍ a̱psv a1̱̍ntar ā su̱ṣāva̱ soma̱m adri̍bhiḥ ||
+9.107.2	nū̱nam pu̍nā̱no 'vi̍bhi̱ḥ pari̍ sra̱vāda̍bdhaḥ sura̱bhiṁta̍raḥ | su̱te ci̍t tvā̱psu ma̍dāmo̱ andha̍sā śrī̱ṇanto̱ gobhi̱r utta̍ram ||
+9.107.3	pari̍ suvā̱naś cakṣa̍se deva̱māda̍na̱ḥ kratu̱r indu̍r vicakṣa̱ṇaḥ ||
+9.107.4	pu̱nā̱naḥ so̍ma̱ dhāra̍yā̱po vasā̍no arṣasi | ā ra̍tna̱dhā yoni̍m ṛ̱tasya̍ sīda̱sy utso̍ deva hira̱ṇyaya̍ḥ ||
+9.107.5	du̱hā̱na ūdha̍r di̱vyam madhu̍ pri̱yam pra̱tnaṁ sa̱dhastha̱m āsa̍dat | ā̱pṛcchya̍ṁ dha̱ruṇa̍ṁ vā̱jy a̍rṣati̱ nṛbhi̍r dhū̱to vi̍cakṣa̱ṇaḥ ||
+9.107.6	pu̱nā̱naḥ so̍ma̱ jāgṛ̍vi̱r avyo̱ vāre̱ pari̍ pri̱yaḥ | tvaṁ vipro̍ abha̱vo 'ṅgi̍rastamo̱ madhvā̍ ya̱jñam mi̍mikṣa naḥ ||
+9.107.7	somo̍ mī̱ḍhvān pa̍vate gātu̱vitta̍ma̱ ṛṣi̱r vipro̍ vicakṣa̱ṇaḥ | tvaṁ ka̱vir a̍bhavo deva̱vīta̍ma̱ ā sūrya̍ṁ rohayo di̱vi ||
+9.107.8	soma̍ u ṣuvā̱ṇaḥ so̱tṛbhi̱r adhi̱ ṣṇubhi̱r avī̍nām | aśva̍yeva ha̱ritā̍ yāti̱ dhāra̍yā ma̱ndrayā̍ yāti̱ dhāra̍yā ||
+9.107.9	a̱nū̱pe gomā̱n gobhi̍r akṣā̱ḥ somo̍ du̱gdhābhi̍r akṣāḥ | sa̱mu̱draṁ na sa̱ṁvara̍ṇāny agman ma̱ndī madā̍ya tośate ||
+9.107.10	ā so̍ma suvā̱no adri̍bhis ti̱ro vārā̍ṇy a̱vyayā̍ | jano̱ na pu̱ri ca̱mvo̍r viśa̱d dhari̱ḥ sado̱ vane̍ṣu dadhiṣe ||
+9.107.11	sa mā̍mṛje ti̱ro aṇvā̍ni me̱ṣyo̍ mī̱ḻhe sapti̱r na vā̍ja̱yuḥ | a̱nu̱mādya̱ḥ pava̍māno manī̱ṣibhi̱ḥ somo̱ vipre̍bhi̱r ṛkva̍bhiḥ ||
+9.107.12	pra so̍ma de̱vavī̍taye̱ sindhu̱r na pi̍pye̱ arṇa̍sā | a̱ṁśoḥ paya̍sā madi̱ro na jāgṛ̍vi̱r acchā̱ kośa̍m madhu̱ścuta̍m ||
+9.107.13	ā ha̍rya̱to arju̍ne̱ atke̍ avyata pri̱yaḥ sū̱nur na marjya̍ḥ | tam ī̍ṁ hinvanty a̱paso̱ yathā̱ ratha̍ṁ na̱dīṣv ā gabha̍styoḥ ||
+9.107.14	a̱bhi somā̍sa ā̱yava̱ḥ pava̍nte̱ madya̱m mada̍m | sa̱mu̱drasyādhi̍ vi̱ṣṭapi̍ manī̱ṣiṇo̍ matsa̱rāsa̍ḥ sva̱rvida̍ḥ ||
+9.107.15	tara̍t samu̱dram pava̍māna ū̱rmiṇā̱ rājā̍ de̱va ṛ̱tam bṛ̱hat | arṣa̍n mi̱trasya̱ varu̍ṇasya̱ dharma̍ṇā̱ pra hi̍nvā̱na ṛ̱tam bṛ̱hat ||
+9.107.16	nṛbhi̍r yemā̱no ha̍rya̱to vi̍cakṣa̱ṇo rājā̍ de̱vaḥ sa̍mu̱driya̍ḥ ||
+9.107.17	indrā̍ya pavate̱ mada̱ḥ somo̍ ma̱rutva̍te su̱taḥ | sa̱hasra̍dhāro̱ aty avya̍m arṣati̱ tam ī̍ mṛjanty ā̱yava̍ḥ ||
+9.107.18	pu̱nā̱naś ca̱mū ja̱naya̍n ma̱tiṁ ka̱viḥ somo̍ de̱veṣu̍ raṇyati | a̱po vasā̍na̱ḥ pari̱ gobhi̱r utta̍ra̱ḥ sīda̱n vane̍ṣv avyata ||
+9.107.19	tavā̱haṁ so̍ma rāraṇa sa̱khya i̍ndo di̱ve-di̍ve | pu̱rūṇi̍ babhro̱ ni ca̍ranti̱ mām ava̍ pari̱dhīm̐r ati̱ tām̐ i̍hi ||
+9.107.20	u̱tāhaṁ nakta̍m u̱ta so̍ma te̱ divā̍ sa̱khyāya̍ babhra̱ ūdha̍ni | ghṛ̱ṇā tapa̍nta̱m ati̱ sūrya̍m pa̱raḥ śa̍ku̱nā i̍va paptima ||
+9.107.21	mṛ̱jyamā̍naḥ suhastya samu̱dre vāca̍m invasi | ra̱yim pi̱śaṅga̍m bahu̱lam pu̍ru̱spṛha̱m pava̍mānā̱bhy a̍rṣasi ||
+9.107.22	mṛ̱jā̱no vāre̱ pava̍māno a̱vyaye̱ vṛṣāva̍ cakrado̱ vane̍ | de̱vānā̍ṁ soma pavamāna niṣkṛ̱taṁ gobhi̍r añjā̱no a̍rṣasi ||
+9.107.23	pava̍sva̱ vāja̍sātaye̱ 'bhi viśvā̍ni̱ kāvyā̍ | tvaṁ sa̍mu̱dram pra̍tha̱mo vi dhā̍rayo de̱vebhya̍ḥ soma matsa̱raḥ ||
+9.107.24	sa tū pa̍vasva̱ pari̱ pārthi̍va̱ṁ rajo̍ di̱vyā ca̍ soma̱ dharma̍bhiḥ | tvāṁ viprā̍so ma̱tibhi̍r vicakṣaṇa śu̱bhraṁ hi̍nvanti dhī̱tibhi̍ḥ ||
+9.107.25	pava̍mānā asṛkṣata pa̱vitra̱m ati̱ dhāra̍yā | ma̱rutva̍nto matsa̱rā i̍ndri̱yā hayā̍ me̱dhām a̱bhi prayā̍ṁsi ca ||
+9.107.26	a̱po vasā̍na̱ḥ pari̱ kośa̍m arṣa̱tīndu̍r hiyā̱naḥ so̱tṛbhi̍ḥ | ja̱naya̱ñ jyoti̍r ma̱ndanā̍ avīvaśa̱d gāḥ kṛ̍ṇvā̱no na ni̱rṇija̍m ||
+9.108.1	pava̍sva̱ madhu̍mattama̱ indrā̍ya soma kratu̱vitta̍mo̱ mada̍ḥ | mahi̍ dyu̱kṣata̍mo̱ mada̍ḥ ||
+9.108.2	yasya̍ te pī̱tvā vṛ̍ṣa̱bho vṛ̍ṣā̱yate̱ 'sya pī̱tā sva̱rvida̍ḥ | sa su̱prake̍to a̱bhy a̍kramī̱d iṣo 'cchā̱ vāja̱ṁ naita̍śaḥ ||
+9.108.3	tvaṁ hy a1̱̍ṅga daivyā̱ pava̍māna̱ jani̍māni dyu̱matta̍maḥ | a̱mṛ̱ta̱tvāya̍ gho̱ṣaya̍ḥ ||
+9.108.4	yenā̱ nava̍gvo da̱dhyaṅṅ a̍porṇu̱te yena̱ viprā̍sa āpi̱re | de̱vānā̍ṁ su̱mne a̱mṛta̍sya̱ cāru̍ṇo̱ yena̱ śravā̍ṁsy āna̱śuḥ ||
+9.108.5	e̱ṣa sya dhāra̍yā su̱to 'vyo̱ vāre̍bhiḥ pavate ma̱dinta̍maḥ | krīḻa̍nn ū̱rmir a̱pām i̍va ||
+9.108.6	ya u̱sriyā̱ apyā̍ a̱ntar aśma̍no̱ nir gā akṛ̍nta̱d oja̍sā | a̱bhi vra̱jaṁ ta̍tniṣe̱ gavya̱m aśvya̍ṁ va̱rmīva̍ dhṛṣṇa̱v ā ru̍ja ||
+9.108.7	ā so̍tā̱ pari̍ ṣiñca̱tāśva̱ṁ na stoma̍m a̱ptura̍ṁ raja̱stura̍m | va̱na̱kra̱kṣam u̍da̱pruta̍m ||
+9.108.8	sa̱hasra̍dhāraṁ vṛṣa̱bham pa̍yo̱vṛdha̍m pri̱yaṁ de̱vāya̱ janma̍ne | ṛ̱tena̱ ya ṛ̱tajā̍to vivāvṛ̱dhe rājā̍ de̱va ṛ̱tam bṛ̱hat ||
+9.108.9	a̱bhi dyu̱mnam bṛ̱had yaśa̱ iṣa̍s pate didī̱hi de̍va deva̱yuḥ | vi kośa̍m madhya̱maṁ yu̍va ||
+9.108.10	ā va̍cyasva sudakṣa ca̱mvo̍ḥ su̱to vi̱śāṁ vahni̱r na vi̱śpati̍ḥ | vṛ̱ṣṭiṁ di̱vaḥ pa̍vasva rī̱tim a̱pāṁ jinvā̱ gavi̍ṣṭaye̱ dhiya̍ḥ ||
+9.108.11	e̱tam u̱ tyam ma̍da̱cyuta̍ṁ sa̱hasra̍dhāraṁ vṛṣa̱bhaṁ divo̍ duhuḥ | viśvā̱ vasū̍ni̱ bibhra̍tam ||
+9.108.12	vṛṣā̱ vi ja̍jñe ja̱naya̱nn ama̍rtyaḥ pra̱tapa̱ñ jyoti̍ṣā̱ tama̍ḥ | sa suṣṭu̍taḥ ka̱vibhi̍r ni̱rṇija̍ṁ dadhe tri̱dhātv a̍sya̱ daṁsa̍sā ||
+9.108.13	sa su̍nve̱ yo vasū̍nā̱ṁ yo rā̱yām ā̍ne̱tā ya iḻā̍nām | somo̱ yaḥ su̍kṣitī̱nām ||
+9.108.14	yasya̍ na̱ indra̱ḥ pibā̱d yasya̍ ma̱ruto̱ yasya̍ vārya̱maṇā̱ bhaga̍ḥ | ā yena̍ mi̱trāvaru̍ṇā̱ karā̍maha̱ endra̱m ava̍se ma̱he ||
+9.108.15	indrā̍ya soma̱ pāta̍ve̱ nṛbhi̍r ya̱taḥ svā̍yu̱dho ma̱dinta̍maḥ | pava̍sva̱ madhu̍mattamaḥ ||
+9.108.16	indra̍sya̱ hārdi̍ soma̱dhāna̱m ā vi̍śa samu̱dram i̍va̱ sindha̍vaḥ | juṣṭo̍ mi̱trāya̱ varu̍ṇāya vā̱yave̍ di̱vo vi̍ṣṭa̱mbha u̍tta̱maḥ ||
+9.109.1	pari̱ pra dha̱nvendrā̍ya soma svā̱dur mi̱trāya̍ pū̱ṣṇe bhagā̍ya ||
+9.109.2	indra̍s te soma su̱tasya̍ peyā̱ḥ kratve̱ dakṣā̍ya̱ viśve̍ ca de̱vāḥ ||
+9.109.3	e̱vāmṛtā̍ya ma̱he kṣayā̍ya̱ sa śu̱kro a̍rṣa di̱vyaḥ pī̱yūṣa̍ḥ ||
+9.109.4	pava̍sva soma ma̱hān sa̍mu̱draḥ pi̱tā de̱vānā̱ṁ viśvā̱bhi dhāma̍ ||
+9.109.5	śu̱kraḥ pa̍vasva de̱vebhya̍ḥ soma di̱ve pṛ̍thi̱vyai śaṁ ca̍ pra̱jāyai̍ ||
+9.109.6	di̱vo dha̱rtāsi̍ śu̱kraḥ pī̱yūṣa̍ḥ sa̱tye vidha̍rman vā̱jī pa̍vasva ||
+9.109.7	pava̍sva soma dyu̱mnī su̍dhā̱ro ma̱hām avī̍nā̱m anu̍ pū̱rvyaḥ ||
+9.109.8	nṛbhi̍r yemā̱no ja̍jñā̱naḥ pū̱taḥ kṣara̱d viśvā̍ni ma̱ndraḥ sva̱rvit ||
+9.109.9	indu̍ḥ punā̱naḥ pra̱jām u̍rā̱ṇaḥ kara̱d viśvā̍ni̱ dravi̍ṇāni naḥ ||
+9.109.10	pava̍sva soma̱ kratve̱ dakṣā̱yāśvo̱ na ni̱kto vā̱jī dhanā̍ya ||
+9.109.11	taṁ te̍ so̱tāro̱ rasa̱m madā̍ya pu̱nanti̱ soma̍m ma̱he dyu̱mnāya̍ ||
+9.109.12	śiśu̍ṁ jajñā̱naṁ hari̍m mṛjanti pa̱vitre̱ soma̍ṁ de̱vebhya̱ indu̍m ||
+9.109.13	indu̍ḥ paviṣṭa̱ cāru̱r madā̍yā̱pām u̱pasthe̍ ka̱vir bhagā̍ya ||
+9.109.14	bibha̍rti̱ cārv indra̍sya̱ nāma̱ yena̱ viśvā̍ni vṛ̱trā ja̱ghāna̍ ||
+9.109.15	piba̍nty asya̱ viśve̍ de̱vāso̱ gobhi̍ḥ śrī̱tasya̱ nṛbhi̍ḥ su̱tasya̍ ||
+9.109.16	pra su̍vā̱no a̍kṣāḥ sa̱hasra̍dhāras ti̱raḥ pa̱vitra̱ṁ vi vāra̱m avya̍m ||
+9.109.17	sa vā̱jy a̍kṣāḥ sa̱hasra̍retā a̱dbhir mṛ̍jā̱no gobhi̍ḥ śrīṇā̱naḥ ||
+9.109.18	pra so̍ma yā̱hīndra̍sya ku̱kṣā nṛbhi̍r yemā̱no adri̍bhiḥ su̱taḥ ||
+9.109.19	asa̍rji vā̱jī ti̱raḥ pa̱vitra̱m indrā̍ya̱ soma̍ḥ sa̱hasra̍dhāraḥ ||
+9.109.20	a̱ñjanty e̍na̱m madhvo̱ rase̱nendrā̍ya̱ vṛṣṇa̱ indu̱m madā̍ya ||
+9.109.21	de̱vebhya̍s tvā̱ vṛthā̱ pāja̍se̱ 'po vasā̍na̱ṁ hari̍m mṛjanti ||
+9.109.22	indu̱r indrā̍ya tośate̱ ni to̍śate śrī̱ṇann u̱gro ri̱ṇann a̱paḥ ||
+9.110.1	pary ū̱ ṣu pra dha̍nva̱ vāja̍sātaye̱ pari̍ vṛ̱trāṇi̍ sa̱kṣaṇi̍ḥ | dvi̱ṣas ta̱radhyā̍ ṛṇa̱yā na̍ īyase ||
+9.110.2	anu̱ hi tvā̍ su̱taṁ so̍ma̱ madā̍masi ma̱he sa̍marya̱rājye̍ | vājā̍m̐ a̱bhi pa̍vamāna̱ pra gā̍hase ||
+9.110.3	ajī̍jano̱ hi pa̍vamāna̱ sūrya̍ṁ vi̱dhāre̱ śakma̍nā̱ paya̍ḥ | gojī̍rayā̱ raṁha̍māṇa̱ḥ pura̍ṁdhyā ||
+9.110.4	ajī̍jano amṛta̱ martye̱ṣv ām̐ ṛ̱tasya̱ dharma̍nn a̱mṛta̍sya̱ cāru̍ṇaḥ | sadā̍saro̱ vāja̱m acchā̱ sani̍ṣyadat ||
+9.110.5	a̱bhy-a̍bhi̱ hi śrava̍sā ta̱tardi̱thotsa̱ṁ na kaṁ ci̍j jana̱pāna̱m akṣi̍tam | śaryā̍bhi̱r na bhara̍māṇo̱ gabha̍styoḥ ||
+9.110.6	ād ī̱ṁ ke ci̱t paśya̍mānāsa̱ āpya̍ṁ vasu̱ruco̍ di̱vyā a̱bhy a̍nūṣata | vāra̱ṁ na de̱vaḥ sa̍vi̱tā vy ū̍rṇute ||
+9.110.7	tve so̍ma pratha̱mā vṛ̱ktaba̍rhiṣo ma̱he vājā̍ya̱ śrava̍se̱ dhiya̍ṁ dadhuḥ | sa tvaṁ no̍ vīra vī̱ryā̍ya codaya ||
+9.110.8	di̱vaḥ pī̱yūṣa̍m pū̱rvyaṁ yad u̱kthya̍m ma̱ho gā̱hād di̱va ā nir a̍dhukṣata | indra̍m a̱bhi jāya̍māna̱ṁ sam a̍svaran ||
+9.110.9	adha̱ yad i̱me pa̍vamāna̱ roda̍sī i̱mā ca̱ viśvā̱ bhuva̍nā̱bhi ma̱jmanā̍ | yū̱the na ni̱ṣṭhā vṛ̍ṣa̱bho vi ti̍ṣṭhase ||
+9.110.10	soma̍ḥ punā̱no a̱vyaye̱ vāre̱ śiśu̱r na krīḻa̱n pava̍māno akṣāḥ | sa̱hasra̍dhāraḥ śa̱tavā̍ja̱ indu̍ḥ ||
+9.110.11	e̱ṣa pu̍nā̱no madhu̍mām̐ ṛ̱tāvendrā̱yendu̍ḥ pavate svā̱dur ū̱rmiḥ | vā̱ja̱sani̍r varivo̱vid va̍yo̱dhāḥ ||
+9.110.12	sa pa̍vasva̱ saha̍mānaḥ pṛta̱nyūn sedha̱n rakṣā̱ṁsy apa̍ du̱rgahā̍ṇi | svā̱yu̱dhaḥ sā̍sa̱hvān so̍ma̱ śatrū̍n ||
+9.111.1	a̱yā ru̱cā hari̍ṇyā punā̱no viśvā̱ dveṣā̍ṁsi tarati sva̱yugva̍bhi̱ḥ sūro̱ na sva̱yugva̍bhiḥ | dhārā̍ su̱tasya̍ rocate punā̱no a̍ru̱ṣo hari̍ḥ | viśvā̱ yad rū̱pā pa̍ri̱yāty ṛkva̍bhiḥ sa̱ptāsye̍bhi̱r ṛkva̍bhiḥ ||
+9.111.2	tvaṁ tyat pa̍ṇī̱nāṁ vi̍do̱ vasu̱ sam mā̱tṛbhi̍r marjayasi̱ sva ā dama̍ ṛ̱tasya̍ dhī̱tibhi̱r dame̍ | pa̱rā̱vato̱ na sāma̱ tad yatrā̱ raṇa̍nti dhī̱taya̍ḥ | tri̱dhātu̍bhi̱r aru̍ṣībhi̱r vayo̍ dadhe̱ roca̍māno̱ vayo̍ dadhe ||
+9.111.3	pūrvā̱m anu̍ pra̱diśa̍ṁ yāti̱ ceki̍ta̱t saṁ ra̱śmibhi̍r yatate darśa̱to ratho̱ daivyo̍ darśa̱to ratha̍ḥ | agma̍nn u̱kthāni̱ pauṁsyendra̱ṁ jaitrā̍ya harṣayan | vajra̍ś ca̱ yad bhava̍tho̱ ana̍pacyutā sa̱matsv ana̍pacyutā ||
+9.112.1	nā̱nā̱naṁ vā u̍ no̱ dhiyo̱ vi vra̱tāni̱ janā̍nām | takṣā̍ ri̱ṣṭaṁ ru̱tam bhi̱ṣag bra̱hmā su̱nvanta̍m iccha̱tīndrā̍yendo̱ pari̍ srava ||
+9.112.2	jara̍tībhi̱r oṣa̍dhībhiḥ pa̱rṇebhi̍ḥ śaku̱nānā̍m | kā̱rmā̱ro aśma̍bhi̱r dyubhi̱r hira̍ṇyavantam iccha̱tīndrā̍yendo̱ pari̍ srava ||
+9.112.3	kā̱rur a̱haṁ ta̱to bhi̱ṣag u̍palapra̱kṣiṇī̍ na̱nā | nānā̍dhiyo vasū̱yavo 'nu̱ gā i̍va tasthi̱mendrā̍yendo̱ pari̍ srava ||
+9.112.4	aśvo̱ voḻhā̍ su̱khaṁ ratha̍ṁ hasa̱nām u̍pama̱ntriṇa̍ḥ | śepo̱ roma̍ṇvantau bhe̱dau vār in ma̱ṇḍūka̍ iccha̱tīndrā̍yendo̱ pari̍ srava ||
+9.113.1	śa̱rya̱ṇāva̍ti̱ soma̱m indra̍ḥ pibatu vṛtra̱hā | bala̱ṁ dadhā̍na ā̱tmani̍ kari̱ṣyan vī̱rya̍m ma̱had indrā̍yendo̱ pari̍ srava ||
+9.113.2	ā pa̍vasva diśām pata ārjī̱kāt so̍ma mīḍhvaḥ | ṛ̱ta̱vā̱kena̍ sa̱tyena̍ śra̱ddhayā̱ tapa̍sā su̱ta indrā̍yendo̱ pari̍ srava ||
+9.113.3	pa̱rjanya̍vṛddham mahi̱ṣaṁ taṁ sūrya̍sya duhi̱tābha̍rat | taṁ ga̍ndha̱rvāḥ praty a̍gṛbhṇa̱n taṁ some̱ rasa̱m āda̍dhu̱r indrā̍yendo̱ pari̍ srava ||
+9.113.4	ṛ̱taṁ vada̍nn ṛtadyumna sa̱tyaṁ vada̍n satyakarman | śra̱ddhāṁ vada̍n soma rājan dhā̱trā so̍ma̱ pari̍ṣkṛta̱ indrā̍yendo̱ pari̍ srava ||
+9.113.5	sa̱tyamu̍grasya bṛha̱taḥ saṁ sra̍vanti saṁsra̱vāḥ | saṁ ya̍nti ra̱sino̱ rasā̍ḥ punā̱no brahma̍ṇā hara̱ indrā̍yendo̱ pari̍ srava ||
+9.113.6	yatra̍ bra̱hmā pa̍vamāna chanda̱syā̱3̱̍ṁ vāca̱ṁ vada̍n | grāvṇā̱ some̍ mahī̱yate̱ some̍nāna̱ndaṁ ja̱naya̱nn indrā̍yendo̱ pari̍ srava ||
+9.113.7	yatra̱ jyoti̱r aja̍sra̱ṁ yasmi̍m̐l lo̱ke sva̍r hi̱tam | tasmi̱n māṁ dhe̍hi pavamānā̱mṛte̍ lo̱ke akṣi̍ta̱ indrā̍yendo̱ pari̍ srava ||
+9.113.8	yatra̱ rājā̍ vaivasva̱to yatrā̍va̱rodha̍naṁ di̱vaḥ | yatrā̱mūr ya̱hvatī̱r āpa̱s tatra̱ mām a̱mṛta̍ṁ kṛ̱dhīndrā̍yendo̱ pari̍ srava ||
+9.113.9	yatrā̍nukā̱maṁ cara̍ṇaṁ trinā̱ke tri̍di̱ve di̱vaḥ | lo̱kā yatra̱ jyoti̍ṣmanta̱s tatra̱ mām a̱mṛta̍ṁ kṛ̱dhīndrā̍yendo̱ pari̍ srava ||
+9.113.10	yatra̱ kāmā̍ nikā̱māś ca̱ yatra̍ bra̱dhnasya̍ vi̱ṣṭapa̍m | sva̱dhā ca̱ yatra̱ tṛpti̍ś ca̱ tatra̱ mām a̱mṛta̍ṁ kṛ̱dhīndrā̍yendo̱ pari̍ srava ||
+9.113.11	yatrā̍na̱ndāś ca̱ modā̍ś ca̱ muda̍ḥ pra̱muda̱ āsa̍te | kāma̍sya̱ yatrā̱ptāḥ kāmā̱s tatra̱ mām a̱mṛta̍ṁ kṛ̱dhīndrā̍yendo̱ pari̍ srava ||
+9.114.1	ya indo̱ḥ pava̍māna̱syānu̱ dhāmā̱ny akra̍mīt | tam ā̍huḥ supra̱jā iti̱ yas te̍ so̱māvi̍dha̱n mana̱ indrā̍yendo̱ pari̍ srava ||
+9.114.2	ṛṣe̍ mantra̱kṛtā̱ṁ stomai̱ḥ kaśya̍podva̱rdhaya̱n gira̍ḥ | soma̍ṁ namasya̱ rājā̍na̱ṁ yo ja̱jñe vī̱rudhā̱m pati̱r indrā̍yendo̱ pari̍ srava ||
+9.114.3	sa̱pta diśo̱ nānā̍sūryāḥ sa̱pta hotā̍ra ṛ̱tvija̍ḥ | de̱vā ā̍di̱tyā ye sa̱pta tebhi̍ḥ somā̱bhi ra̍kṣa na̱ indrā̍yendo̱ pari̍ srava ||
+9.114.4	yat te̍ rājañ chṛ̱taṁ ha̱vis tena̍ somā̱bhi ra̍kṣa naḥ | a̱rā̱tī̱vā mā na̍s tārī̱n mo ca̍ na̱ḥ kiṁ ca̱nāma̍ma̱d indrā̍yendo̱ pari̍ srava ||

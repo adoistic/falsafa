@@ -1,0 +1,39 @@
+{
+  "work_slug": "anne-finch-poems-8fd29f",
+  "work_title": "Poems",
+  "chapter_number": 63,
+  "chapter_title": "A Pindarick Poem Upon the Hurricane in November 1703, referring to this Text in Psalm 148. ver. 8. Winds and Storms fulfilling his Word.",
+  "chapter_slug": "63-a-pindarick-poem-upon-the-hurricane-in-november-",
+  "author": "Anne Finch",
+  "author_slug": "anne-finch",
+  "ecpa_poem_id": "o4784-w0630",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode",
+      "paraphrase"
+    ],
+    "rhyme": "irregular",
+    "metrical_pattern": "irregular",
+    "line_count": 303
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4f4fe33e-68db-5e16-aba7-29195b072841",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2121,
+      "line_count": 307,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

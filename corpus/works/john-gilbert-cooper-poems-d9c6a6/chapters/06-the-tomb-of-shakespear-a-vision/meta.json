@@ -1,0 +1,44 @@
+{
+  "work_slug": "john-gilbert-cooper-poems-d9c6a6",
+  "work_title": "Poems",
+  "chapter_number": 6,
+  "chapter_title": "THE TOMB of SHAKESPEAR. A VISION.",
+  "chapter_slug": "06-the-tomb-of-shakespear-a-vision",
+  "author": "John Gilbert Cooper",
+  "author_slug": "john-gilbert-cooper",
+  "ecpa_poem_id": "o5156-w1220",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic quatrain"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "10.10.10.10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/         -+|-+|-+|-+|-+/         -+|-+|-+|-+|-+/         -+|-+|-+|-+|-+/",
+    "line_count": 164
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5c82407e-a9cd-5877-8a55-46bd2ef042c8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1214,
+      "line_count": 167,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

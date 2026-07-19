@@ -1,0 +1,113 @@
+---
+work_id: "b390dd68-2ba5-5e58-bd0d-e16141a53b88"
+work_slug: "william-collins-poems-b390dd"
+work_title: Poems
+author: William Collins
+author_slug: "william-collins"
+ecpa_poem_id: "o4985-w0080"
+chapter_number: 8
+chapter_title: ODE TO FEAR.
+chapter_slug: "08-ode-to-fear"
+variant_id: "985b8f12-38a2-5fa3-b66d-e12097c0731a"
+content_type: original
+layout: verse
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 500
+source_url: "https://www.eighteenthcenturypoetry.org/"
+license: "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+genres:
+  - ode
+  - dialogue
+metrical_foot: iambic (˘′)
+metrical_count: tetrameter (4 feet)
+---
+
+ODE TO FEAR.
+
+BY THE SAME.
+
+THOU, to whom the world unknown
+ With all its shadowy shapes is shown;
+ Who seest appall'd th' unreal scene,
+ While Fancy lifts the veil between:
+ Ah Fear! ah frantic Fear! 
+I see, I see thee near. 
+I know thy hurried step, thy haggard eye! 
+Like thee I start, like thee disorder'd fly. 
+For lo what monsrers in thy train appear! 
+Danger, whose limbs of giant mold
+ What mortal eye can fix'd behold? 
+Who stalks his round, an hideous form,
+ Howling amidst the midnight storm. 
+Or throws him on the ridgy steep
+ Of some loose hanging rock to sleep. 
+And with him thousand phantoms join'd,
+ Who prompt to deeds accurs'd the mind:
+ And those, the fiends, who near allied,
+ O'er Nature's wounds, and wrecks preside;
+ While Vengeance, in the lurid air,
+ Lifts her red arm, expos'd and bare:
+ On whom that ravening brood of Fate,
+ Who lap the blood of Sorrow, wait;
+ Who, Fear, this ghastly train can see,
+ And look not madly wild, like thee? 
+
+EPODE.
+
+In earliest Greece to thee, with partial choice,
+ The grief-full Muse addrest her infant tongue;
+ The maids and matrons, on her awful voice,
+ Silent and pale in wild amazement hung. 
+
+Yet he, the Bard who first invok'd thy name,
+ Disdain'd in Marathon its power to feel:
+ For not alone he nurs'd the poet's flame,
+ But reach'd from Virtue's hand the patriot's steel. 
+
+But who is he whom later garlands grace,
+ Who left a-while o'er Hybla's dews to rove,
+ With trembling eyes thy dreary steps to trace,
+ Where thou and furies shar'd the baleful grove? 
+
+Wrapt in thy cloudy veil th' incestuous Queen
+ Sigh'd the sad call her son and husband heard,
+ When once alone it broke the silent scene,
+ And he the wretch of Thebes no more appear'd. 
+
+O Fear, I know thee by my throbbing heart,
+ Thy withering power inspir'd each mournful line,
+ Tho' gentle Pity claim her mingled part,
+ Yet all the thunders of the scene are thine! 
+
+ANTISTROPHE.
+
+Thou who such weary lengths hast past,
+ Where wilt thou rest, mad Nymph, at last? 
+Say, wilt thou shroud in haunted cell,
+ Where gloomy Rape and Murder dwell? 
+Or in some hallow'd seat,
+ 'Gainst which the big waves beat? 
+Hear drowning seamens cries in tempests brought! 
+Dark Power, with shuddering meek submitted thought,
+ Be mine, to read the visions old,
+ Which thy awakening bards have told:
+ And, lest thou meet my blasted view,
+ Hold each strange tale devoutly true;
+ Ne'er be I found by thee o'er-aw'd,
+ In that thrice-hallow'd eve abroad,
+ When ghosts, as cottage-maids believe,
+ Their pebbled beds permitted leave,
+ And goblins haunt from fire, or fen,
+ Or mine, or flood, the walks of men! 
+
+O thou, whose spirit most possest
+ The sacred seat of Shakespear's breast! 
+By all that from thy Prophet broke,
+ In thy divine emotions spoke:
+ Hither again thy fury deal,
+ Teach me but once like him to feel:
+ His cypress wreath my meed decree,
+ And I, O Fear, will dwell with thee!

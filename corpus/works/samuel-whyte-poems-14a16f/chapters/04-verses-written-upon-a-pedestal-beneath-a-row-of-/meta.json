@@ -1,0 +1,41 @@
+{
+  "work_slug": "samuel-whyte-poems-14a16f",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "VERSES WRITTEN UPON A PEDESTAL BENEATH A ROW OF ELMS IN A MEADOW NEAR RICHMOND FERRY, BELONGING TO RICHARD OWEN CAMBRIDGE, ESQ. SEPTEMBER 1760.",
+  "chapter_slug": "04-verses-written-upon-a-pedestal-beneath-a-row-of-",
+  "author": "Samuel Whyte",
+  "author_slug": "samuel-whyte",
+  "ecpa_poem_id": "o4987-w0820",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 80
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f54e44e7-8319-50f9-9433-a56ee9a5034a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 544,
+      "line_count": 82,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

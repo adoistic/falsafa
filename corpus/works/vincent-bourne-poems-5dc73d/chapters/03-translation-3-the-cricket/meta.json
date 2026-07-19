@@ -1,0 +1,44 @@
+{
+  "work_slug": "vincent-bourne-poems-5dc73d",
+  "work_title": "Poems",
+  "chapter_number": 3,
+  "chapter_title": "[Translation] 3. THE CRICKET.",
+  "chapter_slug": "03-translation-3-the-cricket",
+  "author": "Vincent Bourne",
+  "author_slug": "vincent-bourne",
+  "ecpa_poem_id": "o3794-w0330",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "translation"
+    ],
+    "foot": "trochaic (′˘)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "octet (8 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "7",
+    "metrical_pattern": "+-|+-|+-|+/",
+    "line_count": 32
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7b7d2aa9-4837-5a74-81bf-faa6ac2012f0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 183,
+      "line_count": 37,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

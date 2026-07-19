@@ -1,0 +1,44 @@
+{
+  "work_slug": "hannah-brand-poems-11e826",
+  "work_title": "Poems",
+  "chapter_number": 7,
+  "chapter_title": "PRAYER. TO THE PARCAE.",
+  "chapter_slug": "07-prayer-to-the-parcae",
+  "author": "Hannah Brand",
+  "author_slug": "hannah-brand",
+  "ecpa_poem_id": "o4091-w0070",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "occasional poem"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "10.10.10.10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/",
+    "line_count": 44
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "33a60f12-7522-5e6e-9813-63ac0a56173d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 331,
+      "line_count": 46,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

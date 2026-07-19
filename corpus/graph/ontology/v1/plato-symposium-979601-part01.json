@@ -1,0 +1,718 @@
+{
+  "slug": "plato-symposium-979601",
+  "window": "01-symposium:0-33",
+  "entities": [
+    {
+      "canonical_name": "Apollodorus",
+      "surface_names": ["Apollodorus", "Ap.", "Phalerian"],
+      "kind": "figure",
+      "figure_kind": "mortal",
+      "mentions": [
+        {
+          "paragraph_id": "p-20a0fe",
+          "quote": "I believe I have got the story you inquire of pretty well by heart. The day before yesterday I chanced to be going up to town from my house in Phalerum",
+          "role": "narrator/protagonist"
+        },
+        {
+          "paragraph_id": "p-0225db",
+          "quote": "I commonly find that, setting aside the benefit I conceive they do me, I take an immense delight in philosophic discourses",
+          "role": "self-characterization as philosophy lover"
+        },
+        {
+          "paragraph_id": "p-3081e7",
+          "quote": "You are the same as ever, Apollodorus,—always defaming your self and every one else!",
+          "role": "subject of companions' critique"
+        }
+      ],
+      "description": "Apollodorus of Phalerum, the narrator who relays the account of the Symposium from Aristodemus to his companions.",
+      "justification": "Apollodorus is the primary narrative frame-character who opens the dialogue and introduces the chain of transmission for the Symposium speeches."
+    },
+    {
+      "canonical_name": "Socrates",
+      "surface_names": ["Socrates"],
+      "kind": "figure",
+      "figure_kind": "mortal",
+      "mentions": [
+        {
+          "paragraph_id": "p-20a0fe",
+          "quote": "not yet three years that I have been consorting with Socrates and making it my daily care to know whatever he says or does",
+          "role": "Apollodorus's philosophical teacher"
+        },
+        {
+          "paragraph_id": "p-08a3c0",
+          "quote": "He said that he met with Socrates fresh from the bath and wearing his best pair of slippers—quite rare events with him—and asked him whither he was bound",
+          "role": "Aristodemus's interlocutor en route to the banquet"
+        },
+        {
+          "paragraph_id": "p-ff19a1",
+          "quote": "How fine it would be, Agathon, he said, if wisdom were a sort of thing that could flow out of the one of us who is fuller into him who is emptier, by our mere contact with each other",
+          "role": "philosophical ironist at the banquet"
+        },
+        {
+          "paragraph_id": "p-971bfe",
+          "quote": "No one, Eryximachus, said Socrates, will vote against you: I do not see how I could myself decline, when I set up to understand nothing but love-matters",
+          "role": "participant agreeing to speak on Love"
+        }
+      ],
+      "description": "Socrates, the Athenian philosopher and central figure of the dialogue, attended the banquet and agreed to give a speech on Love.",
+      "justification": "Socrates is the intellectual center of the Symposium and appears throughout the framing narrative as philosopher, banquet guest, and prospective speaker on Erōs."
+    },
+    {
+      "canonical_name": "Agathon",
+      "surface_names": ["Agathon"],
+      "kind": "figure",
+      "figure_kind": "mortal",
+      "mentions": [
+        {
+          "paragraph_id": "p-20a0fe",
+          "quote": "the banquet that brought together Agathon and Socrates and Alcibiades and the rest of that party",
+          "role": "host of the banquet"
+        },
+        {
+          "paragraph_id": "p-08a3c0",
+          "quote": "To dinner at Agathon's, he answered. I evaded him and his celebrations yesterday, fearing the crowd",
+          "role": "celebrated host and tragic poet"
+        },
+        {
+          "paragraph_id": "p-ff19a1",
+          "quote": "How fine it would be, Agathon, he said, if wisdom were a sort of thing that could flow out of the one of us who is fuller into him who is emptier",
+          "role": "interlocutor of Socrates on wisdom"
+        }
+      ],
+      "description": "Agathon, the tragic poet and host of the banquet, who had just won his first tragedy competition.",
+      "justification": "Agathon is the occasion for the gathering—the celebration of his dramatic victory—and interacts directly with Socrates about wisdom and love."
+    },
+    {
+      "canonical_name": "Aristodemus of Cydathenaeum",
+      "surface_names": ["Aristodemus", "Aristodemus of Cydathenaeum"],
+      "kind": "figure",
+      "figure_kind": "mortal",
+      "mentions": [
+        {
+          "paragraph_id": "p-0225db",
+          "quote": "It was the person who told Phoenix— Aristodemus of Cydathenaeum, a little man, who went always barefoot. He was of the company there, being one of the chief among Socrates' lovers at that time",
+          "role": "primary witness and second-level narrator"
+        },
+        {
+          "paragraph_id": "p-08a3c0",
+          "quote": "He said that he met with Socrates fresh from the bath and wearing his best pair of slippers",
+          "role": "eyewitness at the banquet"
+        }
+      ],
+      "description": "Aristodemus of Cydathenaeum, a follower of Socrates who attended the banquet and whose account is relayed by Apollodorus.",
+      "justification": "Aristodemus is the direct witness whose testimony forms the content of the entire Symposium narrative as transmitted to Apollodorus."
+    },
+    {
+      "canonical_name": "Phaedrus",
+      "surface_names": ["Phaedrus", "Phaedrus of Myrrhinus"],
+      "kind": "figure",
+      "figure_kind": "mortal",
+      "mentions": [
+        {
+          "paragraph_id": "p-971bfe",
+          "quote": "He is constantly complaining to me and saying,—Is it not a curious thing, Eryximachus, that while other gods have hymns and psalms indited in their honor by the poets, the god of Love, so ancient and so great, has had no song of praise composed for him",
+          "role": "initiator of the proposal to praise Love"
+        },
+        {
+          "paragraph_id": "p-4cfecd",
+          "quote": "The Speech of Phaedrus",
+          "role": "first speaker in the encomium sequence"
+        },
+        {
+          "paragraph_id": "p-4b1510",
+          "quote": "Love was a great god, among men and gods a marvel; and this appeared in many ways, but notably in his birth",
+          "role": "argues Love is the oldest and most beneficial god"
+        }
+      ],
+      "description": "Phaedrus of Myrrhinus, the 'father' of the debate on Love, who gave the first speech praising Erōs as the most ancient and beneficial of gods.",
+      "justification": "Phaedrus is called 'father of our debate' and delivers the opening encomium, establishing Love's antiquity and moral power through mythological examples."
+    },
+    {
+      "canonical_name": "Pausanias",
+      "surface_names": ["Pausanias"],
+      "kind": "figure",
+      "figure_kind": "mortal",
+      "mentions": [
+        {
+          "paragraph_id": "p-706d04",
+          "quote": "The Speech of Pausanias",
+          "role": "second named speaker"
+        },
+        {
+          "paragraph_id": "p-9f83be",
+          "quote": "I do not consider, Phaedrus, our plan of speaking a good one, if the rule is simply that we are to make eulogies of Love. If Love were only one, it would be right; but, you see, he is not one",
+          "role": "introduces the distinction between two Loves"
+        },
+        {
+          "paragraph_id": "p-d41138",
+          "quote": "Now the Love that belongs to the Popular Aphrodite is in very truth popular and does his work at haphazard",
+          "role": "distinguishes Popular from Heavenly Love"
+        }
+      ],
+      "description": "Pausanias, a symposiast who argues that Love is not one but two, corresponding to Popular and Heavenly Aphrodite.",
+      "justification": "Pausanias's speech introduces the crucial duality of Erōs—popular versus heavenly—that structures subsequent speeches by Eryximachus and others."
+    },
+    {
+      "canonical_name": "Eryximachus",
+      "surface_names": ["Eryximachus", "Eryximachus the doctor", "Eryximachus, son of Acumenus"],
+      "kind": "figure",
+      "figure_kind": "mortal",
+      "mentions": [
+        {
+          "paragraph_id": "p-971bfe",
+          "quote": "The beginning of what I have to say is in the words of Euripides' Melanippe, for not mine the tale that I intend to tell; it comes from Phaedrus here",
+          "role": "proposes the theme of Love for discussion"
+        },
+        {
+          "paragraph_id": "p-842dcd",
+          "quote": "medicine, our great mystery, has taught me to observe that Love is not merely an impulse of human souls towards beautiful men but the attraction of all creatures to a great variety of things",
+          "role": "extends Pausanias's duality to all of nature via medicine"
+        },
+        {
+          "paragraph_id": "p-cf614f",
+          "quote": "in its turn music is found to be a knowledge of love-matters relating to harmony and rhythm",
+          "role": "applies Love's duality to music and rhythm"
+        }
+      ],
+      "description": "Eryximachus, physician son of Acumenus, who proposes the encomium format and then gives a speech extending the two-Love doctrine through medicine, music, and natural philosophy.",
+      "justification": "Eryximachus acts both as procedural organizer of the speeches and as a speaker who universalizes the concept of Love beyond human eros to cosmic harmony."
+    },
+    {
+      "canonical_name": "Aristophanes",
+      "surface_names": ["Aristophanes"],
+      "kind": "figure",
+      "figure_kind": "mortal",
+      "mentions": [
+        {
+          "paragraph_id": "p-5605df",
+          "quote": "Aristophanes observed: Now that, Pausanias, is a good suggestion of yours",
+          "role": "symposiast who agrees to moderate drinking"
+        },
+        {
+          "paragraph_id": "p-bcaa74",
+          "quote": "The next speaker, so Aristodemus told me, was to have been Aristophanes: but a surfeit or some other cause had chanced to afflict him with a hiccough, which prevented him from speaking",
+          "role": "delayed speaker due to hiccough"
+        }
+      ],
+      "description": "Aristophanes, the comic playwright, present at the banquet and next in the speaking order after Pausanias, but temporarily unable to speak due to hiccough.",
+      "justification": "Aristophanes is identified as one of the key participants whose turn to speak is delayed by a comedic affliction, setting up his eventual speech later in the dialogue."
+    },
+    {
+      "canonical_name": "Erōs",
+      "surface_names": ["Love", "Eros", "Love-passion", "the god of Love", "Heavenly Love", "Popular Love"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-4b1510",
+          "quote": "Love was a great god, among men and gods a marvel; and this appeared in many ways, but notably in his birth",
+          "role": "subject of Phaedrus's encomium"
+        },
+        {
+          "paragraph_id": "p-9f83be",
+          "quote": "there is no Aphrodite or Love-passion without a Love. True, if that goddess were one, then Love would be one: but since there are two of her, there must needs be two Loves also",
+          "role": "divided into Heavenly and Popular by Pausanias"
+        },
+        {
+          "paragraph_id": "p-842dcd",
+          "quote": "Love is not merely an impulse of human souls towards beautiful men but the attraction of all creatures to a great variety of things",
+          "role": "universalized as cosmic principle by Eryximachus"
+        }
+      ],
+      "description": "Erōs, the god of Love, the central subject of the dialogue—depicted as both the most ancient of gods and a cosmic force governing bodies, souls, music, and medicine.",
+      "justification": "Erōs is the thematic and theological center of the entire window; every speech is an encomium addressed to him, and his nature is debated across multiple speakers."
+    },
+    {
+      "canonical_name": "Aphroditē",
+      "surface_names": ["Aphrodite", "Heavenly Aphrodite", "Popular Aphrodite", "the Heavenly goddess", "the Popular goddess", "Queen of Various Song"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-9f83be",
+          "quote": "there is the elder, of no mother born, but daughter of Heaven, whence we name her Heavenly; while the younger was the child of Zeus and Dione, and her we call Popular",
+          "role": "doubled goddess whose two forms generate two Loves"
+        },
+        {
+          "paragraph_id": "p-d41138",
+          "quote": "Now the Love that belongs to the Popular Aphrodite is in very truth popular and does his work at haphazard",
+          "role": "source of base, bodily love"
+        },
+        {
+          "paragraph_id": "p-cf614f",
+          "quote": "the Popular Love comes from the Queen of Various Song; in applying him we must proceed with all caution",
+          "role": "source of popular love in music"
+        }
+      ],
+      "description": "Aphroditē, the goddess of love, invoked in her dual form—Heavenly (Ourania, motherless, daughter of Heaven) and Popular (Pandemos, daughter of Zeus and Dione)—as the metaphysical basis for Pausanias's two-Love theory.",
+      "justification": "Aphroditē's duality is the linchpin of Pausanias's and Eryximachus's arguments, generating the normative distinction between noble and base forms of love."
+    },
+    {
+      "canonical_name": "Alcestis",
+      "surface_names": ["Alcestis", "daughter of Pelias"],
+      "kind": "figure",
+      "figure_kind": "hero",
+      "mentions": [
+        {
+          "paragraph_id": "p-a6d7ed",
+          "quote": "Sufficient witness is borne to this statement before the people of Greece by Alcestis, daughter of Pelias, who alone was willing to die for her husband, though he had both father and mother",
+          "role": "exemplar of love-inspired self-sacrifice"
+        },
+        {
+          "paragraph_id": "p-a6d7ed",
+          "quote": "hers they thus restored in admiration of her act",
+          "role": "honored by the gods for dying in love"
+        }
+      ],
+      "description": "Alcestis, daughter of Pelias, cited by Phaedrus as the paradigmatic example of a mortal—and notably a woman—whose love-inspired willingness to die for her husband earned divine favor and resurrection.",
+      "justification": "Alcestis is the first concrete mythological exemplar in Phaedrus's argument that Love inspires the greatest human virtue, including willingness to sacrifice one's life."
+    },
+    {
+      "canonical_name": "Achilles",
+      "surface_names": ["Achilles", "son of Thetis"],
+      "kind": "figure",
+      "figure_kind": "hero",
+      "mentions": [
+        {
+          "paragraph_id": "p-a6d7ed",
+          "quote": "Achilles, son of Thetis, they honored and sent to his place in the Isles of the Blest, because having learnt from his mother that he would die as surely as he slew Hector, but if he slew him not, would return home and end his days an aged man, he bravely chose to go and rescue his lover Patroclus",
+          "role": "supreme exemplar of love-inspired heroism and honored by gods"
+        },
+        {
+          "paragraph_id": "p-b3c8fe",
+          "quote": "And Aeschylus talks nonsense when he says that it was Achilles who was in love with Patroclus; for he excelled in beauty not Patroclus alone but assuredly all the other heroes, being still beardless",
+          "role": "subject of debate over who loved whom between him and Patroclus"
+        }
+      ],
+      "description": "Achilles, hero of the Trojan War, held up by Phaedrus as the supreme example of love-inspired virtue—choosing death to avenge Patroclus—and sent by the gods to the Isles of the Blest.",
+      "justification": "Achilles represents the pinnacle of Phaedrus's argument: a beloved who returns love so valorously that the gods honor him above even Alcestis."
+    },
+    {
+      "canonical_name": "Orpheus",
+      "surface_names": ["Orpheus", "son of Oeagrus"],
+      "kind": "figure",
+      "figure_kind": "hero",
+      "mentions": [
+        {
+          "paragraph_id": "p-a6d7ed",
+          "quote": "But Orpheus, son of Oeagrus, they sent back with failure from Hades, showing him only a wraith of the woman for whom he came; her real self they would not bestow, for he was accounted to have gone upon a coward's quest, too like the minstrel that he was, and to have lacked the spirit to die as Alcestis did",
+          "role": "negative exemplar—failed to win his beloved by lacking courage to die"
+        }
+      ],
+      "description": "Orpheus, the mythic musician, invoked by Phaedrus as a negative counterexample to Alcestis: he sought his beloved in Hades alive rather than dying for love, so the gods denied him her real self.",
+      "justification": "Orpheus contrasts with Alcestis and Achilles to reinforce Phaedrus's argument that only love willing to court death receives divine reward."
+    },
+    {
+      "canonical_name": "Patroclus",
+      "surface_names": ["Patroclus"],
+      "kind": "figure",
+      "figure_kind": "hero",
+      "mentions": [
+        {
+          "paragraph_id": "p-a6d7ed",
+          "quote": "he bravely chose to go and rescue his lover Patroclus, avenged him, and sought death not merely in his behalf but in haste to be joined with him whom death had taken",
+          "role": "beloved whose death Achilles chose to avenge at cost of his life"
+        },
+        {
+          "paragraph_id": "p-b3c8fe",
+          "quote": "And Aeschylus talks nonsense when he says that it was Achilles who was in love with Patroclus; for he excelled in beauty not Patroclus alone but assuredly all the other heroes",
+          "role": "figure in the debate about who was lover and who beloved"
+        }
+      ],
+      "description": "Patroclus, companion of Achilles in the Iliad, whose death prompted Achilles's love-inspired choice of glory over long life—the subject of both Phaedrus's praise and a critique of Aeschylus.",
+      "justification": "Patroclus is the pivot of Phaedrus's most vivid mythological argument and the occasion for correcting Aeschylus's reversal of the lover/beloved roles."
+    },
+    {
+      "canonical_name": "Aristogeiton",
+      "surface_names": ["Aristogeiton"],
+      "kind": "figure",
+      "figure_kind": "mortal",
+      "mentions": [
+        {
+          "paragraph_id": "p-6a16dd",
+          "quote": "Aristogeiton's love and Harmodius's friendship grew to be so steadfast that it wrecked their power",
+          "role": "historical exemplar of love's power to overthrow tyranny"
+        }
+      ],
+      "description": "Aristogeiton, Athenian tyrannicide whose love for Harmodius is cited by Pausanias as evidence that love creates steadfast bonds capable of overthrowing despotic power.",
+      "justification": "Aristogeiton and Harmodius are invoked to ground Pausanias's claim that foreign tyrants suppress pederastic love precisely because it fosters dangerous bonds of loyalty."
+    },
+    {
+      "canonical_name": "Harmodius",
+      "surface_names": ["Harmodius"],
+      "kind": "figure",
+      "figure_kind": "mortal",
+      "mentions": [
+        {
+          "paragraph_id": "p-6a16dd",
+          "quote": "Aristogeiton's love and Harmodius's friendship grew to be so steadfast that it wrecked their power",
+          "role": "beloved in the tyrannicide pair"
+        }
+      ],
+      "description": "Harmodius, the beloved partner of Aristogeiton, whose bond of love and friendship Pausanias credits with dismantling Athenian tyranny.",
+      "justification": "Harmodius appears alongside Aristogeiton as a concrete historical case that love creates politically transformative solidarity."
+    },
+    {
+      "canonical_name": "Asclepius",
+      "surface_names": ["Asclepius"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-842dcd",
+          "quote": "It was by knowing how to foster love and unanimity in these that, as our two poets here relate, and as I myself believe, our forefather Asclepius composed this science of ours",
+          "role": "divine founder of medicine through Love's power"
+        }
+      ],
+      "description": "Asclepius, the divine founder of medicine, credited by Eryximachus with having established the medical art through his understanding of how Love fosters harmony between bodily opposites.",
+      "justification": "Eryximachus invokes Asclepius to legitimize his medicalized account of Love as the governing force of health through harmony of opposites."
+    },
+    {
+      "canonical_name": "Heracleitus",
+      "surface_names": ["Heracleitus"],
+      "kind": "figure",
+      "figure_kind": "mortal",
+      "mentions": [
+        {
+          "paragraph_id": "p-cf614f",
+          "quote": "perhaps Heracleitus intends as much by those perplexing words, The One at variance with itself is drawn together, like harmony of bow or lyre",
+          "role": "cited thinker whose paradox Eryximachus interprets through Love/music"
+        }
+      ],
+      "description": "Heracleitus, the pre-Socratic philosopher, whose paradoxical saying about the One being at variance with itself yet drawn together is interpreted by Eryximachus as pointing toward the harmonizing role of Love in music.",
+      "justification": "Heracleitus's dictum is cited and reinterpreted to support Eryximachus's theory that Love creates consonance from discord in music as in medicine."
+    },
+    {
+      "canonical_name": "Dionysus",
+      "surface_names": ["Dionysus"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-ff19a1",
+          "quote": "A little later on you and I shall go to law on this matter of our wisdom, and Dionysus shall be our judge",
+          "role": "invoked as divine judge of wisdom"
+        },
+        {
+          "paragraph_id": "p-971bfe",
+          "quote": "who divides his time between Dionysus and Aphrodite",
+          "role": "deity associated with Aristophanes' domain"
+        }
+      ],
+      "description": "Dionysus, god of wine and theatre, invoked as prospective judge between Socrates and Agathon in their dispute over wisdom, and as the deity shared between Aristophanes and Aphroditē.",
+      "justification": "Dionysus appears as both a framing divine authority in the wisdom contest at the banquet and as a characterizing deity linking comedy (Aristophanes) to Love."
+    },
+    {
+      "canonical_name": "Prodicus",
+      "surface_names": ["Prodicus"],
+      "kind": "figure",
+      "figure_kind": "mortal",
+      "mentions": [
+        {
+          "paragraph_id": "p-971bfe",
+          "quote": "pray consider our worthy professors, and the eulogies they frame of Hercules and others in prose,—for example, the excellent Prodicus",
+          "role": "sophist cited as precedent for prose encomia of heroes"
+        }
+      ],
+      "description": "Prodicus, the sophist, cited by Eryximachus as an example of those who have written prose eulogies of Heracles and other subjects—but not of Love—to motivate the present encomium.",
+      "justification": "Prodicus is mentioned as a representative of the tradition of prose encomia that conspicuously excluded Love, thereby highlighting the gap Phaedrus's proposal aims to fill."
+    },
+    {
+      "canonical_name": "Phalerum",
+      "surface_names": ["Phalerum", "Phalerian"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-20a0fe",
+          "quote": "The day before yesterday I chanced to be going up to town from my house in Phalerum",
+          "role": "Apollodorus's home district and departure point"
+        }
+      ],
+      "description": "Phalerum, the coastal deme of Attica where Apollodorus lives, establishing the geographical setting of the framing narrative.",
+      "justification": "Phalerum is the named location from which Apollodorus departs and from which he derives his epithet 'Phalerian,' grounding the dialogue's frame in Attic geography."
+    },
+    {
+      "canonical_name": "Isles of the Blest",
+      "surface_names": ["Isles of the Blest"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-a6d7ed",
+          "quote": "Achilles, son of Thetis, they honored and sent to his place in the Isles of the Blest",
+          "role": "divine reward granted to Achilles for love-inspired heroism"
+        },
+        {
+          "paragraph_id": "p-b3c8fe",
+          "quote": "they honored Achilles above Alcestis, giving him his abode in the Isles of the Blest",
+          "role": "ultimate divine honor signifying Achilles's superiority in love"
+        }
+      ],
+      "description": "The Isles of the Blest, the Elysian afterlife destination to which the gods sent Achilles as reward for his love-inspired self-sacrifice, cited twice to mark the highest divine honor.",
+      "justification": "The Isles of the Blest serve as the concrete eschatological proof in Phaedrus's argument that divine honors accrue to those who love most bravely."
+    },
+    {
+      "canonical_name": "Hades",
+      "surface_names": ["Hades"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-a6d7ed",
+          "quote": "But Orpheus, son of Oeagrus, they sent back with failure from Hades, showing him only a wraith of the woman for whom he came",
+          "role": "underworld from which Orpheus was expelled without his beloved"
+        },
+        {
+          "paragraph_id": "p-a6d7ed",
+          "quote": "although among all the many doers of noble deeds they are few and soon counted to whom the gods have granted the privilege of having their souls sent up again from Hades",
+          "role": "realm from which Alcestis's soul was restored"
+        }
+      ],
+      "description": "Hades, the underworld, which serves in Phaedrus's argument as the realm both entered by Orpheus (with failure) and escaped by Alcestis (through divine reward), marking the stakes of love-inspired sacrifice.",
+      "justification": "Hades is the proving ground for love's ultimate test—whether a lover will descend or die for the beloved—and differentiates the honored (Alcestis) from the dishonored (Orpheus)."
+    },
+    {
+      "canonical_name": "Agathon's Banquet",
+      "surface_names": ["the banquet", "the Banquet", "the party", "dinner at Agathon's"],
+      "kind": "event",
+      "mentions": [
+        {
+          "paragraph_id": "p-20a0fe",
+          "quote": "the banquet that brought together Agathon and Socrates and Alcibiades and the rest of that party, and what were the speeches they delivered upon love",
+          "role": "the event being narrated"
+        },
+        {
+          "paragraph_id": "p-0225db",
+          "quote": "on the occasion of Agathon's victory with his first tragedy: the day after that of the dedicatory feast which he and his players held for its celebration",
+          "role": "temporal anchor—victory celebration after first tragic victory"
+        }
+      ],
+      "description": "The symposium held at Agathon's house to celebrate his first tragic victory, the occasion on which the speeches on Love were delivered and which the entire dialogue narrates.",
+      "justification": "Agathon's banquet is the framing event that generates the entire content of the dialogue, established clearly in the opening exchange between Apollodorus and his companions."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Transmission and reliability of philosophical memory",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-20a0fe",
+          "quote": "somebody else was relating to me the account he had from Phoenix, son of Philip, and he mentioned that you knew it too. But he could not tell it at all clearly"
+        },
+        {
+          "paragraph_id": "p-0225db",
+          "quote": "I have since questioned Socrates on some details of the story I had from his friend, and he acknowledged them to be in accordance with his account"
+        }
+      ],
+      "justification": "The prologue foregrounds a chain of transmission (event → Aristodemus → Apollodorus → companions) and the anxiety about accuracy, implicitly raising questions about the fidelity of philosophical memory and oral tradition."
+    },
+    {
+      "topic": "Philosophy as a way of life superior to worldly pursuits",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-0225db",
+          "quote": "I commonly find that, setting aside the benefit I conceive they do me, I take an immense delight in philosophic discourses, whether I speak them myself or hear them from others: whereas in the case of other sorts of talk—especially that of your wealthy, money-bag friends—I am not only annoyed myself but sorry for dear intimates like you"
+        },
+        {
+          "paragraph_id": "p-3081e7",
+          "quote": "Your view, I take it, is that all men alike are miserable, save Socrates"
+        }
+      ],
+      "justification": "Apollodorus's self-characterization opposes philosophical discourse to money-making activity, framing the entire dialogue as an embodiment of the philosophical life as he understands it."
+    },
+    {
+      "topic": "The nature and moral power of Erōs",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-4b1510",
+          "quote": "Love was a great god, among men and gods a marvel; and this appeared in many ways, but notably in his birth"
+        },
+        {
+          "paragraph_id": "p-ef00dd",
+          "quote": "Love is by various authorities allowed to be of most venerable standing; and as most venerable, he is the cause of all our highest blessings"
+        },
+        {
+          "paragraph_id": "p-842dcd",
+          "quote": "Love is not merely an impulse of human souls towards beautiful men but the attraction of all creatures to a great variety of things"
+        }
+      ],
+      "justification": "The central philosophical concern of the entire window is the nature of Erōs—his antiquity, his moral efficacy, and his cosmic scope—progressively elaborated from Phaedrus through Pausanias to Eryximachus."
+    },
+    {
+      "topic": "The duality of Love: heavenly versus popular",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-9f83be",
+          "quote": "Love is not in every case noble or worthy of celebration, but only when he impels us to love in a noble manner"
+        },
+        {
+          "paragraph_id": "p-d41138",
+          "quote": "Now the Love that belongs to the Popular Aphrodite is in very truth popular and does his work at haphazard"
+        },
+        {
+          "paragraph_id": "p-842dcd",
+          "quote": "medicine, our great mystery, has taught me to observe that Love is not merely an impulse of human souls towards beautiful men but the attraction of all creatures to a great variety of things"
+        }
+      ],
+      "justification": "From Pausanias onward, the window's central structural argument is the bifurcation of Love into noble and base forms—a distinction extended by Eryximachus from human eros to medicine, music, and cosmic order."
+    },
+    {
+      "topic": "Love as moral education and the ethics of pederasty",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-d41138",
+          "quote": "those who are inspired by this Love betake them to the male, in fondness for what has the robuster nature and a larger share of mind... they love boys only when they begin to acquire some mind"
+        },
+        {
+          "paragraph_id": "p-232908",
+          "quote": "when a man freely devotes his service to another in the belief that his friend will make him better in point of wisdom, it may be, or in any of the other parts of virtue, this willing bondage also is no sort of baseness or flattery"
+        }
+      ],
+      "justification": "A sustained theme in Pausanias's speech is the social and ethical regulation of pederastic love: only love oriented toward virtue and wisdom, not bodily pleasure or wealth, is honorable."
+    },
+    {
+      "topic": "Love as cosmic force governing natural harmony and opposition",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-842dcd",
+          "quote": "Now the most contrary qualities are most hostile to each other—cold and hot, bitter and sweet, dry and moist, and the rest of them. It was by knowing how to foster love and unanimity in these that our forefather Asclepius composed this science of ours"
+        },
+        {
+          "paragraph_id": "p-cf614f",
+          "quote": "harmony is consonance, and consonance is a kind of agreement; and agreement of things varying, so long as they are at variance, is impossible"
+        }
+      ],
+      "justification": "Eryximachus implicitly extends Erōs into a cosmological principle—the force reconciling opposed natural elements—a Presocratic-inflected idea not explicitly named as such but operative throughout his speech."
+    },
+    {
+      "topic": "Shame (aidōs) as moral mechanism activated by love",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-ef00dd",
+          "quote": "The shame that we feel for shameful things, and ambition for what is noble; without which it is impossible for city or person to perform any high and noble deeds"
+        },
+        {
+          "paragraph_id": "p-a6d7ed",
+          "quote": "a man in love would surely choose to have all the rest of the host rather than his favorite see him forsaking his station or flinging away his arms"
+        }
+      ],
+      "justification": "Phaedrus argues implicitly that Love works through a moral psychology of shame—the beloved's gaze activates the lover's capacity for noble conduct—a concept central to Greek ethics but not named explicitly."
+    },
+    {
+      "topic": "Self-sacrifice and death as proof of love's supremacy",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-a6d7ed",
+          "quote": "Furthermore, only such as are in love will consent to die for others; not merely men will do it, but women too"
+        },
+        {
+          "paragraph_id": "p-b3c8fe",
+          "quote": "there is no sort of valor more respected by the gods than this which comes of love"
+        }
+      ],
+      "justification": "The willingness to die for the beloved is Phaedrus's culminating argument for Love's moral supremacy, illustrated through Alcestis, Orpheus (as negative case), and Achilles."
+    },
+    {
+      "topic": "Comparative law and cultural variation in erotic norms",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-6a16dd",
+          "quote": "in Elis and Boeotia and where there is no skill in speech they have simply an ordinance that it is seemly to gratify lovers... But in Ionia and many other regions where they live under foreign sway, it is counted a disgrace"
+        },
+        {
+          "paragraph_id": "p-232908",
+          "quote": "Thus by all means it is right to bestow this favor for the sake of virtue. This is the Love that belongs to the Heavenly Goddess, heavenly itself and precious to both public and private life"
+        }
+      ],
+      "justification": "Pausanias surveys how different Greek polities and foreign cultures regulate erotic relations, implicitly arguing that Athenian practice—complex as it is—embodies the most sophisticated ethical framework."
+    },
+    {
+      "topic": "Harmony of opposites as the foundation of medicine and music",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-842dcd",
+          "quote": "the art of medicine may be summarily described as a knowledge of the love-matters of the body in regard to repletion and evacuation"
+        },
+        {
+          "paragraph_id": "p-cf614f",
+          "quote": "in its turn music is found to be a knowledge of love-matters relating to harmony and rhythm"
+        }
+      ],
+      "justification": "Eryximachus systematically equates Love with the principle of harmonizing opposites and shows this principle is operative identically in medicine and music, unifying two technaī under a single Erotic cosmology."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Theogony",
+      "cited_author": "Hesiod",
+      "stance": "authority",
+      "paragraph_id": "p-4b1510",
+      "quote": "Hesiod says that Chaos came first into being— and thereafter rose Broad-breasted Earth, sure seat of all for aye, And Love",
+      "justification": "Phaedrus cites Hesiod's Theogony as cosmogonic authority for Love being among the very first entities to arise after Chaos, establishing his antiquity and divine precedence."
+    },
+    {
+      "cited_work": "Works (prose genealogy)",
+      "cited_author": "Acusilaus",
+      "stance": "authority",
+      "paragraph_id": "p-471a1b",
+      "quote": "Acusilaus also agrees with Hesiod, saying that after Chaos were born these two, Earth and Love",
+      "justification": "Acusilaus is cited as a prose authority who corroborates Hesiod's account of Love's primordial origin, strengthening the argument by multiple attestation."
+    },
+    {
+      "cited_work": "On Nature (Poem)",
+      "cited_author": "Parmenides",
+      "stance": "authority",
+      "paragraph_id": "p-471a1b",
+      "quote": "Parmenides says of Birth that she invented Love before all other gods",
+      "justification": "Parmenides's poem is cited as a third authority placing Love at the very origin of the cosmos, here via the figure of Birth/Necessity as Love's inventor."
+    },
+    {
+      "cited_work": "Iliad or Odyssey",
+      "cited_author": "Homer",
+      "stance": "authority",
+      "paragraph_id": "p-bf12f1",
+      "quote": "Homer may be said to have not merely corrupted the adage, but debauched it: for after setting forth Agamemnon as a man eminently good at warfare, and Menelaus as only a spearman spiritless, he makes the latter come unbidden to the banquet of the former",
+      "justification": "Homer's epic is invoked playfully to illustrate the proverb about good men going to good men's feasts, though it is said to invert the expected moral—Socrates's comment operates on and against the Homeric text."
+    },
+    {
+      "cited_work": "Iliad",
+      "cited_author": "Homer",
+      "stance": "authority",
+      "paragraph_id": "p-a6d7ed",
+      "quote": "without doubt what Homer calls a fury inspired by a god in certain heroes is the effect produced on lovers by Love's peculiar power",
+      "justification": "Phaedrus cites Homer's concept of divinely-inspired battlefield fury as evidence that Love produces a comparable heroic empowerment in those who fight for their beloved."
+    },
+    {
+      "cited_work": "Iliad",
+      "cited_author": "Homer",
+      "stance": "authority",
+      "paragraph_id": "p-b3c8fe",
+      "quote": "he excelled in beauty not Patroclus alone but assuredly all the other heroes, being still beardless and, moreover, much the younger, by Homer's account",
+      "justification": "Homer's Iliad is cited to establish Achilles's superior beauty and youth relative to Patroclus, correcting Aeschylus's reversal of the lover-beloved relationship."
+    },
+    {
+      "cited_work": "Myrmidons (tragedy)",
+      "cited_author": "Aeschylus",
+      "stance": "refute",
+      "paragraph_id": "p-b3c8fe",
+      "quote": "And Aeschylus talks nonsense when he says that it was Achilles who was in love with Patroclus; for he excelled in beauty not Patroclus alone but assuredly all the other heroes, being still beardless",
+      "justification": "Aeschylus's tragedy is explicitly named and refuted: Phaedrus argues that Aeschylus got the lover-beloved roles backwards between Achilles and Patroclus, contra the Homeric evidence."
+    },
+    {
+      "cited_work": "Melanippe (tragedy)",
+      "cited_author": "Euripides",
+      "stance": "authority",
+      "paragraph_id": "p-971bfe",
+      "quote": "The beginning of what I have to say is in the words of Euripides' Melanippe, for not mine the tale that I intend to tell; it comes from Phaedrus here",
+      "justification": "Eryximachus opens his proposal by quoting a line from Euripides' lost tragedy Melanippe as a conventional rhetorical deferral, attributing the idea to Phaedrus."
+    }
+  ]
+}

@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 31**
+**Viṣṇu Smriti 31**
 
 Three persons are a man's supreme elders (*atiguru*). // Vi_31.1 //
 

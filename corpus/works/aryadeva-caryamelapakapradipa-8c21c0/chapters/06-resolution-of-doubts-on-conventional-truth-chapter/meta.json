@@ -1,0 +1,38 @@
+{
+  "work_slug": "aryadeva-caryamelapakapradipa-8c21c0",
+  "work_title": "Caryāmelāpakapradīpa",
+  "chapter_number": 6,
+  "chapter_title": "Resolution of doubts on conventional truth (Chapter Six)",
+  "chapter_slug": "06-resolution-of-doubts-on-conventional-truth-chapter",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "7babef8e-4bd8-511e-851d-f8f4fa1cbd10",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "iast",
+      "word_count": 111,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "23b35546-41c2-57ef-b95c-961b97b21b8b",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 286,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "http://gretil.sub.uni-goettingen.de/gretil.html"
+    }
+  ]
+}

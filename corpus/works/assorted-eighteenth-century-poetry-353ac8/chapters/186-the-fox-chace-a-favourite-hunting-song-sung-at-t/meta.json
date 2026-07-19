@@ -1,0 +1,40 @@
+{
+  "work_slug": "assorted-eighteenth-century-poetry-353ac8",
+  "work_title": "An Assorted Collection of Eighteenth-Century Poetry",
+  "chapter_number": 186,
+  "chapter_title": "The FOX-CHACE. A Favourite Hunting Song, Sung at the grand Hunts of England.",
+  "chapter_slug": "186-the-fox-chace-a-favourite-hunting-song-sung-at-t",
+  "author": "John O'Keeffe",
+  "author_slug": "john-okeeffe",
+  "ecpa_poem_id": "o5492-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "song"
+    ],
+    "stanzas": [
+      "twelve-line stanza"
+    ],
+    "rhyme": "ababccddeeff",
+    "line_count": 48
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "530cb09e-7992-5bca-8536-eeb50b5f2143",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 392,
+      "line_count": 50,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

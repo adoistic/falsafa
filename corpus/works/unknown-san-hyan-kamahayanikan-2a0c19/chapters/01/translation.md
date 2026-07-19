@@ -68,13 +68,13 @@ Pay attention. What is *vajra*-water? This *vajra*-water is no ordinary water; i
 
 You must not teach about the sacred *vajra*, *ghaṇṭā*, and *mudrā* to a person who has not seen the *maṇḍala*. They are still uninitiated, secretive, and closed. Do not reveal these things to a person who has not received the instructions. Or perhaps they will just laugh at you, not believing in their meaning, their heart not truly committed to receiving the vow of the Lord. Do not be like that. As for the person who scoffs at the sacred path, such a person will certainly suffer for all time. Therefore, do not be anything but completely devoted to the sacred *vajra*-knowledge. Be diligent with the sacred *samaya*.
 
-*This is your samaya, O Vajrin, remembered as Vajrasattva. May he cause you to enter into the unsurpassable vajra-knowledge.*
+*This is your samaya, O Vajrin, remembered as Bajrasatwa. May he cause you to enter into the unsurpassable vajra-knowledge.*
 
-The sacred *samaya* is called the Lord Vajrasattva. He is your heart now; the *vajra*-knowledge is what is your heart. Be at ease in your mind.
+The sacred *samaya* is called the Lord Bajrasatwa. He is your heart now; the *vajra*-knowledge is what is your heart. Be at ease in your mind.
 
-*OṂ. Vajrasattva himself is now intent on opening your eyes. He, the all-seeing, opens the unsurpassable vajra-eye.*
+*OṂ. Bajrasatwa himself is now intent on opening your eyes. He, the all-seeing, opens the unsurpassable vajra-eye.*
 
-The Lord Śrī Vajrasattva is now in your eyes, intent on opening your sight. Therefore, let your heart be joyful. He will open your eyes. Gaze intently, let your sight be clear upon the sacred *maṇḍala*.
+The Lord Śrī Bajrasatwa is now in your eyes, intent on opening your sight. Therefore, let your heart be joyful. He will open your eyes. Gaze intently, let your sight be clear upon the sacred *maṇḍala*.
 
 *Behold this maṇḍala and generate faith now. You are born into the family of the Buddhas, empowered by all the mantras.*
 
@@ -84,9 +84,9 @@ Look at the sacred *maṇḍala*. Generate faith. Do not be without reverence fo
 
 Goodness is drawing near to you. Likewise, all accomplishments are facing you, ready to be quickly found by you. Begin to practice the sacred *samaya*, so that accomplishment may be found by you soon. Exert yourself in mantra, recitation, and worship without delay. Do not be lazy, so that good fortune may be obtained in this very life, and even more so in the future.
 
-*IṂ OṂ To the Vajra-Eye, remove, remove the veil in the heart. The veil of ignorance, O child, has been removed for you by the Jinas, with the probes of the supreme king of physicians, just as the world’s blindness is removed.*
+*IṂ OṂ To the Bajra-Eye, remove, remove the veil in the heart. The veil of ignorance, O child, has been removed for you by the Jinas, with the probes of the supreme king of physicians, just as the world’s blindness is removed.*
 
-Its meaning is: Be at ease in your heart. The veil of ignorance in your heart has been removed, cleared away by the Lord Śrī Vajradhara. It is like a person with a blinding eye disease, whose vision is clouded. They are met by a physician who applies medicine to their eyes, and their eyes are healed and become clear. In the end, their sight is excellent once the affliction of the obscuring film is gone. So too is your veil of ignorance; it has been completely removed, without a trace, cleared away by the Lord. Therefore, be at ease in your thoughts; do not doubt.
+Its meaning is: Be at ease in your heart. The veil of ignorance in your heart has been removed, cleared away by the Lord Śrī Bajradhara. It is like a person with a blinding eye disease, whose vision is clouded. They are met by a physician who applies medicine to their eyes, and their eyes are healed and become clear. In the end, their sight is excellent once the affliction of the obscuring film is gone. So too is your veil of ignorance; it has been completely removed, without a trace, cleared away by the Lord. Therefore, be at ease in your thoughts; do not doubt.
 
 *Phenomena are like reflections: clear, pure, and untroubled. They are ungraspable and inexpressible, arising from cause and action.*
 
@@ -96,21 +96,21 @@ Observe all phenomena clearly. They are no different from a reflection in a mirr
 
 Grasp clearly the illusory nature of all phenomena. Do not be foolish; all things are essenceless. Work diligently for the welfare of others. For you are now called a 'True Son of the Jina': a child of the Divine Lord Buddha. Therefore, you must engage in wholesome actions and strive for the benefit of others.
 
-*Vajrasattva, by his very nature clear, pure, and untroubled, abides in your heart, O child, himself the lord of all Buddhas.*
+*Bajrasatwa, by his very nature clear, pure, and untroubled, abides in your heart, O child, himself the lord of all Buddhas.*
 
-Be at ease in your thoughts. The Lord Vajrasattva is manifest in your heart. His name is Lord Vajrasattva. He is of a pure nature; there is no passion, aversion, or delusion in him. Indeed, he is the foremost of all the Tathāgatas. He is now your heart, the path to merit. The reason he is there is so that the accumulations of wisdom may be found by you. Have no doubt.
+Be at ease in your thoughts. The Lord Bajrasatwa is manifest in your heart. His name is Lord Bajrasatwa. He is of a pure nature; there is no passion, aversion, or delusion in him. Indeed, he is the foremost of all the Tathāgatas. He is now your heart, the path to merit. The reason he is there is so that the accumulations of wisdom may be found by you. Have no doubt.
 
 *From this day forth, turn the wheel of the Protectors for the world. Everywhere, fill all with and sound the immaculate, unsurpassable Conch of Dharma.*
 
-Soon you will turn the Dharma-wheel of the Lord Śrī Vajradhara for all beings. What you must do is fill, pervade, and saturate the ten directions, the endless and limitless world-realms, so that all are filled with the Conch of Dharma.
+Soon you will turn the Dharma-wheel of the Lord Śrī Bajradhara for all beings. What you must do is fill, pervade, and saturate the ten directions, the endless and limitless world-realms, so that all are filled with the Conch of Dharma.
 
 *You should have no hesitation here. With a mind free from doubt, proclaim this great, incomparable, supreme Path of the Master of Mantras.*
 
 Do not be uncertain. Let your heart be without doubt. Reveal this sacred *Mantranaya* of the Mahāyāna.
 
-*Thus one who is grateful to the Buddhas is called a benefactor. And all those Vajra-bearers will protect you in every way.*
+*Thus one who is grateful to the Buddhas is called a benefactor. And all those Bajra-bearers will protect you in every way.*
 
-For a person like you, who has been consecrated by the Lord and has made special offerings to the Divine Lord Buddha, is called one who has given benefit. Such a person is called a Lord. Since you have benefited them, their hearts are pleased. Therefore, they will diligently protect you day and night, wherever you are, wherever you go, in all you do. You are cared for by them because they know you have benefited them. Therefore, do not be hesitant, for the Lord Śrī Vajrasattva is your soul's protector.
+For a person like you, who has been consecrated by the Lord and has made special offerings to the Divine Lord Buddha, is called one who has given benefit. Such a person is called a Lord. Since you have benefited them, their hearts are pleased. Therefore, they will diligently protect you day and night, wherever you are, wherever you go, in all you do. You are cared for by them because they know you have benefited them. Therefore, do not be hesitant, for the Lord Śrī Bajrasatwa is your soul's protector.
 
 *There is nothing that cannot be done by a mind endowed with wisdom and skillful means. Being always without doubt, enjoy the five sense-pleasures.*
 
@@ -156,7 +156,7 @@ Do not let the sacred *vajra*, *ghaṇṭā*, and *mudrā* leave you. Wherever y
 
 For the person who is disrespectful, who scorns and insults the Guru, will constantly obtain suffering. He will return to hell, falling into the cauldron of Yama, to be the dregs of the Copper-Faced Demon. Such is the evil of one who disrespects the Guru.
 
-*Therefore, with all effort, one should never disrespect the Vajra Master, the great Guru, whose excellent qualities may be hidden.*
+*Therefore, with all effort, one should never disrespect the Bajra Master, the great Guru, whose excellent qualities may be hidden.*
 
 Be diligent in your relationship with the Guru. Even if his good qualities are hidden, and you cannot see his virtues, even then, do not disrespect him. For great evil and great suffering come to one who does not honor the Guru. Therefore, be diligent in all matters concerning the Guru.
 
@@ -339,7 +339,7 @@ These are the distinctions of compassion.
 The union of the Four Perfections and the Six Perfections, namely: *dāna, śīla, kṣānti, vīrya, dhyāna, prajñā, metrī, karuṇā, muditā, upekṣā*, is what is called the Ten Perfections (*daśapāramitā*). They have as their essence the Five Goddesses (*pañcadewī*):
 
 *THE GODDESS BAJRADHĀTVĪŚVARĪ, POSSESSING THE FORM OF GREAT PRAJÑĀ, SUPREMELY DEVOTED TO HER CONSORT, IS CALLED THE SIX PERFECTIONS.*
-The glorious Bajradhātvīśvarī has superior wisdom (*prajñā*), is beautiful in form, and is exceedingly devoted to her consort, the Lord Vairocana. She is the embodiment of the Six Perfections.
+The glorious Bajradhātvīśvarī has superior wisdom (*prajñā*), is beautiful in form, and is exceedingly devoted to her consort, the Lord Wairocana. She is the embodiment of the Six Perfections.
 
 *LOCANĀ IS TO BE KNOWN AS MAITRĪ, MĀMAKĪ IS CONSIDERED KARUṆĀ, MUDITĀ IS PĀṆḌARAVĀSINĪ, UPEKṢĀ IS CALLED TĀRĀ.*
 The Divine Lady Locanā is the embodiment of *maitrī*. The Divine Lady Māmakī is the embodiment of *karuṇā*. The Divine Lady Pāṇḍaravāsinī is the embodiment of *muditā*. The Divine Lady Tārā is the embodiment of *upekṣā*. Such is the nature of the Ten Perfections, which have the Five Goddesses as their essence. Therefore, one who practices well should first serve the Goddesses, externally and internally, for they are the ones who bring about the finding of the realm of the Buddhas.
@@ -401,15 +401,15 @@ In short: that wisdom is the body of the Divine Lord Buddha, because the fullnes
 
 How does one begin? With the sacred *adwaya* as the means of accomplishment. The breath `aṁ` is not left behind, its sound is thus: inhale it through the mouth, press it in the throat, and do not be aware of the entry and exit of breath from the nose. That which is pressed in the throat spreads and fills your entire body, becoming the color of the red sun. Then, create the breath `aḥ`, its sound is thus: press it in the throat, and it is released from the body, becoming the moon of peace, tranquil and serene. This is called one cycle of breath control (*prāṇāyāma*). If you do this continuously, all your afflictions will vanish. After that, establish the recollection of the Buddha (*buddhānusmāraṇa*).
 
-Recollection of the Buddha is this: the sacred *adwayajñāna* is directly realized by the non-existence of thought, separate from thought and the thinker. Its method is this: the breath does not enter and exit through the mouth or the nose, but is released along with the body by the power of the sacred *adwaya* and the power of the sacred *adwayajñāna*. In the end, the body becomes spacious, serene, and clear. There is no longer a thinker, nor anything thought. The body is simply expansive, clear, pure, and unobstructed; it is formless, bright as day at all times, like pressing a jewel upon a jewel. He is the supreme divinity in Buddhism, He is called Lord Ultimate Emptiness (*bhaṭāra paramaśūnya*). He is called Lord Paramaśiva. He is Lord Puruṣa according to the followers of the venerable Kapila. He is the Divine Ātman according to the followers of Kaṇabhakṣya. He is called Lord Nirguṇa (Without Qualities) by the followers of the Vaiṣṇavas. He is the fruit of direct perception for the master of the formless (*ācāryya nirākāra*). He becomes the Lord Ratnatraya and the Lord Pañcatathāgata for the master of form (*ācāryya sākāra*). He is established in the sacred image, statue, and painting by the master of external worship (*ācāryya wāhyaka*). He is called the Divine Special Life-force. Elsewhere, He is called the Divine Lineage.
+Recollection of the Buddha is this: the sacred *adwayajñāna* is directly realized by the non-existence of thought, separate from thought and the thinker. Its method is this: the breath does not enter and exit through the mouth or the nose, but is released along with the body by the power of the sacred *adwaya* and the power of the sacred *adwayajñāna*. In the end, the body becomes spacious, serene, and clear. There is no longer a thinker, nor anything thought. The body is simply expansive, clear, pure, and unobstructed; it is formless, bright as day at all times, like pressing a jewel upon a jewel. He is the supreme divinity in Buddhism, He is called Lord Ultimate Emptiness (*bhaṭāra paramaśūnya*). He is called Lord Paramaśiva. He is Lord Puruṣa according to the followers of the venerable Kapila. He is the Divine Ātman according to the followers of Kaṇabhakṣya. He is called Lord Nirguṇa (Without Qualities) by the followers of the Weṣṇawas. He is the fruit of direct perception for the master of the formless (*ācāryya nirākāra*). He becomes the Lord Ratnatraya and the Lord Pañcatathāgata for the master of form (*ācāryya sākāra*). He is established in the sacred image, statue, and painting by the master of external worship (*ācāryya wāhyaka*). He is called the Divine Special Life-force. Elsewhere, He is called the Divine Lineage.
 
 When you sleep while grasping this, that is called yogic sleep (*yoganidra*), sleeping without dreaming. It is difficult to attain Him, for He is the fruit of all yogas, all *samādhis*, all vows, the culmination of all worship, all reverence, all mantras, all praises. He will be seen by you continuously. You will be able to directly perceive that which is distant and subtle. Your body will be able to become one with Him, because of the power of your *samādhi*. That is called finding the bliss of the eight lordly powers. If your body becomes one with Him at all times, it is not proper for you to embody Him. That is called the aggregate of liberation (*mokṣaskandha*), it is called an accomplished lord of sages.
 
-The sacred *adwaya* and the sacred *adwayajñāna* are the culmination of all sciences, all scriptures, all correct designations, all instructions, all *samayas*. Because the sacred *adwaya* and the sacred *adwayajñāna* are the culmination of all that is taught, they are elsewhere called the supreme selflessness of yoga and so on by the Buddhists; they are called endless supreme bliss by the Bhairavas; they are called the supreme secret of the path of yoga and so on by the Siddhānta; they are called the supreme indivisible and so on by the Vaiṣṇavas; they are the end of the *sodha* doctrine. It is difficult for one to know Him.
+The sacred *adwaya* and the sacred *adwayajñāna* are the culmination of all sciences, all scriptures, all correct designations, all instructions, all *samayas*. Because the sacred *adwaya* and the sacred *adwayajñāna* are the culmination of all that is taught, they are elsewhere called the supreme selflessness of yoga and so on by the Buddhists; they are called endless supreme bliss by the Bhairavas; they are called the supreme secret of the path of yoga and so on by the Siddhānta; they are called the supreme indivisible and so on by the Weṣṇawas; they are the end of the *sodha* doctrine. It is difficult for one to know Him.
 
 *By your leave, great master, extend the grace of the venerable great master to your servant. Teach me the characteristics and the ritual practice for finding the sacred divine form.*
 
-OṀ! Listen well, you of the Tathāgata-family, son of the Jina. The body has eight openings. The eight openings are as follows: the two eyes, the two ears, the two nostrils, the mouth, and the anus/genitals. These are the eight openings. They are to be established with *vajra*-wisdom. *Vajra*-wisdom is the sacred *adwayajñāna*. The lower and upper lips and the tongue are the *vajra*-form. The tip of the tongue is the guard; the lower and upper lips are the purification. The *vajra* stands in the body, which is the lotus-form, arising from the tip of the tongue. The syllable `a...` descends, settling below the lotus. [The syllable `aṁ` settles below the lotus]. It becomes the sun. By the flame of that sun, it dissolves and merges. Then the syllable `aḥ` arises, releasing all that has dissolved. The merging and dissolution are released, and the syllable `ā` is finished. It becomes the form of a pure jewel-gem. That is your recollection for this entire world.
+OṀ! Listen well, you of the Tathāgata-family, son of the Jina. The body has eight openings. The eight openings are as follows: the two eyes, the two ears, the two nostrils, the mouth, and the anus/genitals. These are the eight openings. They are to be established with *vajra*-wisdom. *Bajra*-wisdom is the sacred *adwayajñāna*. The lower and upper lips and the tongue are the *vajra*-form. The tip of the tongue is the guard; the lower and upper lips are the purification. The *vajra* stands in the body, which is the lotus-form, arising from the tip of the tongue. The syllable `a...` descends, settling below the lotus. [The syllable `aṁ` settles below the lotus]. It becomes the sun. By the flame of that sun, it dissolves and merges. Then the syllable `aḥ` arises, releasing all that has dissolved. The merging and dissolution are released, and the syllable `ā` is finished. It becomes the form of a pure jewel-gem. That is your recollection for this entire world.
 
 If there is a person who is sick or sorrowful, when you are remembered, you are like a wish-fulfilling gem (*cintāmaṇi*); their suffering is eliminated by it, because your wisdom becomes of a pure form in your own mind, and He becomes the sacred divine form.
 
@@ -418,7 +418,7 @@ Furthermore, there is that which is called the Seven Births (*saptajanma*). You 
 1. **Jambhala-samādhi**: The means of accomplishment alone, without the companion of wisdom, like the mind of a child in the womb.
 2. **Wāgīśwara-samādhi**: The grasp of *adwaya-yoga*, knowing the truth, like the awareness of a bird just hatched from the egg.
 3. **Lokeśwara-samādhi**: The grasp of *adwaya* and wisdom, with compassion for all beings.
-4. **Vajrasattva-samādhi**: The grasp of *adwaya* and the *vajra* of wrathful compassion for all beings.
+4. **Bajrasatwa-samādhi**: The grasp of *adwaya* and the *vajra* of wrathful compassion for all beings.
 5. **Muniwaracintāmaṇi-samādhi**: The grasp of *adwaya* and wisdom, which has as its fruit loving-kindness for all beings.
 6. **Śwetaketu-samādhi**: The grasp of *adwaya* and wisdom, which has as its result the teaching of what is to be abandoned and what is to be practiced for all beings.
 7. **Kumāranirbbāṇa-cittamai-samādhi**: The grasp of the breath with the sound `aṁ`, filling the body, the body becoming sun-like. The body vanishes, released by the breath with the sound `aḥ`. It is released without limit. There is no entry or exit of breath, and awareness of the breath is gone. Body and mind are also gone. In this way, its body is spacious, clear, pure, unobstructed, formless, and bright as day at all times.
@@ -519,7 +519,7 @@ Furthermore, there is that which is called the Seven Samādhis. They are as foll
 1. **Jambhala-samādhi**: Hold the breath for one cycle, let your mind be still, unaware of existence or non-existence. This is the first *samādhi*.
 2. **Wāgīśwara-samādhi**: After holding, release your breath. Do not let its exit be harsh. The mind becomes clear, like the mind of a bird just hatched from the egg, knowing the purity of body, speech, and mind, expansive and stainless. A mind like that is called Wāgīśwara-samādhi.
 3. **Lokeśwara-samādhi**: All beings are seen to be objects of pity due to passion and the other afflictions. The mind arises, wishing for the welfare of all beings, loving without expecting any benefit in return. A mind like that is called Lokeśwara-samādhi.
-4. **Vajrasattva-samādhi**: The mind becomes an embodiment of the wrathful *vajra*, eliminating all evil thoughts, wishing for the welfare of the entire world. A mind like that is called Vajrasattva-samādhi.
+4. **Bajrasatwa-samādhi**: The mind becomes an embodiment of the wrathful *vajra*, eliminating all evil thoughts, wishing for the welfare of the entire world. A mind like that is called Bajrasatwa-samādhi.
 5. **Mahāmuniwara-cintāmaṇi-samādhi**: The mind becomes the primordial Buddha of a universal monarch who has defeated his powerful enemies, able to give all beings whatever they desire. A mind like that is called Mahāmuniwara-cintāmaṇi-samādhi.
 6. **Śwetaketu-samādhi**: The mind arises, wishing for the welfare of all beings, striving for the accomplishment of the Dharma for all beings. A mind like that is called Śwetaketu-samādhi.
 7. **Kumāranirbbāṇa-samādhi**: The mind becomes expansive and clear, facing *nirvāṇa*, like a perfect sun, expansive, clear, pure, unobstructed, spacious, and bright as day at all times.
@@ -529,7 +529,7 @@ Now, pay close attention to this if you wish to find liberation.
 * The breath in the left is called Amoghasiddhi.
 * The breath exiting both at once is called Ratnasambhava.
 * The breath not exiting from the left or right is called Akṣobhya.
-* The culmination of the breath is called Vairocana.
+* The culmination of the breath is called Wairocana.
 Their abodes are at the tip of the nose, on the forehead, and at the crown of the head. They are the fivefold culmination of stainless purity. They are called the Five Sacred Tastes.
 
 Now, if you desire to engage in ritual action, the breath in the right becomes a fire-maṇḍala, triangular in shape, blazing and red in color. In its center is a trident. This is your means of accomplishment for all actions.
@@ -542,7 +542,7 @@ The four-cornered maṇḍala is for subjugation (*waśīkaraṇa*) and attracti
 
 Alternatively, make the breath in the left a water-maṇḍala (*bāruṇamaṇḍala*), circular, blazing, and white in color. In its center is a subtle, small maṇḍala, like pure crystal in the middle is its form and its symbol. This is your means of accomplishment for pacification (*śāntika*).
 
-Now, as for the supreme, special breath, the stillness of the breath, which is simply expansive, clear, and unobstructed, aware of the formless in the region of the nose up to the forehead and the crown of the head, pure, holy, with no stain upon it—that is called Vairocana-samādhi.
+Now, as for the supreme, special breath, the stillness of the breath, which is simply expansive, clear, and unobstructed, aware of the formless in the region of the nose up to the forehead and the crown of the head, pure, holy, with no stain upon it—that is called Wairocana-samādhi.
 
 Guard this with utmost care. It must not be seen by others. It is a grave matter that creates sin if it is taught to others. It becomes a case of teaching what should not be taught and creating a false guru-lineage among people.
 
@@ -550,7 +550,7 @@ This is the Sacred Doctrine of the Mahāyāna, the supreme *samaya*, the great i
 
 *Īṁ! By your leave, great master, extend the grace of the venerable great master to your servant. The sacred divine form, you have said, is the body of the Lord Buddha. But what do other learned masters say? They say that the Lord Ratnatraya and the Lord Pañcatathāgata are the body of the Lord Buddha, and their colors are pure white, blue, yellow, red, and all-colored. Their hand gestures are the banner, earth-touching, wish-granting, meditation, and fearlessness mudrās. This is what other learned masters say, and it creates uncertainty in the wisdom of your servant, great master. Please dispel it for your servant, venerable great master, so that this doubtful wisdom may vanish and be replaced by right wisdom.*
 
-Auṁ! My child, you of the Tathāgata-family, son of the Jina, listen well. There are three kinds of wisdom: external (*wāhyaka*), with form (*sākāra*), and formless (*nirākāra*). When the divine form is taken as the body of the Lord Buddha God, formless wisdom is its cause and its perceiver. But when the Lord Buddha is worshipped by wisdom-with-form, it is like the glorious Mānakālĕṅka. In that way, the Lord Buddha God has a body in the form of a deity. He arises from the syllable `kriḥ`, white in color, with the banner *mudrā*. He is called the Lord Śrī Śākyamuni. *HE IS CALLED THE GURU OF ALL GODS*. A deity emerges from the right side of the body of Lord Śrī Śākyamuni, red in color, with the meditation *mudrā*, originating from the syllable `hriḥ`. He is called the Lord Śrī Lokeśvara. A deity emerges from the left side of the body of Śrī Śākyamuni, blue in color, with the earth-touching *mudrā*, originating from the syllable `brīḥ`. He is called the Lord Śrī Bajrapāṇi. These three are called the Lord Ratnatraya. They are called Buddha, Dharma, and Saṅgha. They have as their essence body, speech, and mind. Their morality is love, merit, and devotion. They desire the fulfillment of the three worlds. Lord Śrī Vairocana emerges from the face of Śrī Śākyamuni. Lord Śrī Lokeśvara divides, and Lord Amitābha and Lord Ratnasambhava emerge. Lord Śrī Bajrapāṇi divides, and Lord Amitābha and Lord Amoghasiddhi emerge. These five are known as the Lord Pañcatathāgata, and elsewhere as the Lord of All-Wisdom. From the all-wisdom of Lord Vairocana emerge the all-accomplishing deities, namely: Īśvara, Brahmā, and Viṣṇu. They are commanded by Lord Vairocana to bring to perfection the three worlds and their contents. Their purpose is to perform acts for the benefit of others and to be the Lord's place of worship at that time. Thus arise the stationary and moving beings and so on. Heaven is filled with gods, the mortal world is filled with humans, and the netherworld is filled with serpents by the Lords Īśvara, Brahmā, and Viṣṇu. That is why they are the all-accomplishing deities. There is no place they are not. Yet they are created by the all-wisdom of Lord Śrī Vairocana, these all-accomplishing deities, Lord Īśvara, Brahmā, and Viṣṇu. Thus is the Lord of All-Wisdom conceived by wisdom-with-form, and He is worshipped with the five offerings of the wisdom-truth. He is conceived by external-wisdom as a sacred image, statue, painting, or likeness, and worshipped with the five external offerings. The meaning, my child, is this: the divine form becomes the Lord Ratnatraya, who in turn becomes the Lord Pañcatathāgata. The Pañcatathāgata create the Five Lords. The Five Lords create the Brahmin-sages. The Brahmin-sages create all beings, from the gods downwards. Be at ease in your mind; do not doubt!
+Auṁ! My child, you of the Tathāgata-family, son of the Jina, listen well. There are three kinds of wisdom: external (*wāhyaka*), with form (*sākāra*), and formless (*nirākāra*). When the divine form is taken as the body of the Lord Buddha God, formless wisdom is its cause and its perceiver. But when the Lord Buddha is worshipped by wisdom-with-form, it is like the glorious Mānakālĕṅka. In that way, the Lord Buddha God has a body in the form of a deity. He arises from the syllable `kriḥ`, white in color, with the banner *mudrā*. He is called the Lord Śrī Śākyamuni. *HE IS CALLED THE GURU OF ALL GODS*. A deity emerges from the right side of the body of Lord Śrī Śākyamuni, red in color, with the meditation *mudrā*, originating from the syllable `hriḥ`. He is called the Lord Śrī Lokeśwara. A deity emerges from the left side of the body of Śrī Śākyamuni, blue in color, with the earth-touching *mudrā*, originating from the syllable `brīḥ`. He is called the Lord Śrī Bajrapāṇi. These three are called the Lord Ratnatraya. They are called Buddha, Dharma, and Saṅgha. They have as their essence body, speech, and mind. Their morality is love, merit, and devotion. They desire the fulfillment of the three worlds. Lord Śrī Wairocana emerges from the face of Śrī Śākyamuni. Lord Śrī Lokeśwara divides, and Lord Amitābha and Lord Ratnasambhava emerge. Lord Śrī Bajrapāṇi divides, and Lord Amitābha and Lord Amoghasiddhi emerge. These five are known as the Lord Pañcatathāgata, and elsewhere as the Lord of All-Wisdom. From the all-wisdom of Lord Wairocana emerge the all-accomplishing deities, namely: Īśvara, Brahmā, and Wiṣṇu. They are commanded by Lord Wairocana to bring to perfection the three worlds and their contents. Their purpose is to perform acts for the benefit of others and to be the Lord's place of worship at that time. Thus arise the stationary and moving beings and so on. Heaven is filled with gods, the mortal world is filled with humans, and the netherworld is filled with serpents by the Lords Īśvara, Brahmā, and Wiṣṇu. That is why they are the all-accomplishing deities. There is no place they are not. Yet they are created by the all-wisdom of Lord Śrī Wairocana, these all-accomplishing deities, Lord Īśvara, Brahmā, and Wiṣṇu. Thus is the Lord of All-Wisdom conceived by wisdom-with-form, and He is worshipped with the five offerings of the wisdom-truth. He is conceived by external-wisdom as a sacred image, statue, painting, or likeness, and worshipped with the five external offerings. The meaning, my child, is this: the divine form becomes the Lord Ratnatraya, who in turn becomes the Lord Pañcatathāgata. The Pañcatathāgata create the Five Lords. The Five Lords create the Brahmin-sages. The Brahmin-sages create all beings, from the gods downwards. Be at ease in your mind; do not doubt!
 
 Here is the special truth I shall teach you further: the order of the Five Aggregates for the lord of yogis. They are: form, feeling, perception, formations, and consciousness.
 
@@ -560,7 +560,7 @@ Here is the special truth I shall teach you further: the order of the Five Aggre
 *PAÑCĀṄGAPAÑCABODHIŚ CA PAÑCATATHĀGATĀTMAKA.*
 
 The commentary:
-* The Divine Vairocana is form (*rūpa*). Form is defined as: skin, flesh, muscle, bone, blood, fat, and marrow.
+* The Divine Wairocana is form (*rūpa*). Form is defined as: skin, flesh, muscle, bone, blood, fat, and marrow.
 * The Divine Ratnasambhava is feeling (*vedanā*). Feeling is defined as: that which experiences pleasure and pain.
 * The Divine Amitābha is perception (*saṃjñā*). Perception is defined as name; name means appellation.
 * The Divine Amoghasiddhi is formations (*saṃskāra*). Formations are defined as: that which is made a cause and that which is made a condition.
@@ -573,7 +573,7 @@ Here is the order of the seed-syllables that create the Five Tathāgatas: aḥ, 
 *VAIROCANAN TU AḤKĀRAṁ, HŪṁKĀRAṁ AKṢOBHYAS TATHĀ*
 *TRAṁKĀRAṁ RATNASAMBHAVA HRĪḤKĀRAÑ CA AMITĀBHO.*
 
-The commentary: The syllable `aḥ` is the seed-syllable of the Divine Vairocana. The syllable `hūṁ` is the seed-syllable of the Divine Akṣobhya. The syllable `traṁ` is the seed-syllable of the Divine Ratnasambhava. The syllable `hrīḥ` is the seed-syllable of the Divine Amitābha. *AḤKĀRĀMOGHASIDDHIDHAḤ*, the syllable `aḥ` is the seed-syllable of the Divine Amoghasiddhi.
+The commentary: The syllable `aḥ` is the seed-syllable of the Divine Wairocana. The syllable `hūṁ` is the seed-syllable of the Divine Akṣobhya. The syllable `traṁ` is the seed-syllable of the Divine Ratnasambhava. The syllable `hrīḥ` is the seed-syllable of the Divine Amitābha. *AḤKĀRĀMOGHASIDDHIDHAḤ*, the syllable `aḥ` is the seed-syllable of the Divine Amoghasiddhi.
 
 These are the seed-syllables that bring forth the Five Buddhas.
 
@@ -582,14 +582,14 @@ Here is the way the Lord Buddha embodies the Three Poisons (*trikhala*). The Thr
 *RĀGĀMITĀBHO VIJÑEYAḤ DVEṢAŚ CĀKṢOBHYABAJRADṚK*
 *MOHA VAIROCANAŚ CĀPI TRIRŪPABHĀVANTA TATAḤ.*
 
-The commentary: Passion (*rāga*) has the Divine Amitābha as its essence. Aversion (*dveṣa*) has the Divine Akṣobhya as its essence. Delusion (*moha*) has Vairocana as its essence. These are called the Three Poisons by the lord of yogis. Passion, aversion, and delusion are the cause of returning again and again to the three states of existence; the three states of existence are the wheel of existence.
+The commentary: Passion (*rāga*) has the Divine Amitābha as its essence. Aversion (*dveṣa*) has the Divine Akṣobhya as its essence. Delusion (*moha*) has Wairocana as its essence. These are called the Three Poisons by the lord of yogis. Passion, aversion, and delusion are the cause of returning again and again to the three states of existence; the three states of existence are the wheel of existence.
 
 Here is the truth of the Three Impurities (*trimala*) for the lord of yogis:
 
 *ARTHAḤ ŚĀKYAMUNIḤ DIKṢAḤ KĀMA LOKEŚVAROCYATE*
 *ŚABDA BAJRAPĀṆIḤ JÑEYAḤ TRIMALAṁ YOGISANMATĀ.*
 
-The commentary: Wealth (*artha*) has Śrī Śākyamuni as its essence. Desire (*kāma*) has Śrī Lokeśvara as its essence. Sound (*śabda*) has Śrī Bajrapāṇi as its essence. Wealth, desire, and sound are taught as the Three Impurities by the lord of yogis.
+The commentary: Wealth (*artha*) has Śrī Śākyamuni as its essence. Desire (*kāma*) has Śrī Lokeśwara as its essence. Sound (*śabda*) has Śrī Bajrapāṇi as its essence. Wealth, desire, and sound are taught as the Three Impurities by the lord of yogis.
 
 *RĀGADVEṢAMOHO BUDDHAḤ ARTHAKĀMAŚABDĀTMAKAḤ*
 *DHARMMASUSMṚTIBHĀVĀYA SMṚTEḤ SYĀT DUḤKHADHĀRAṆĀT.*
@@ -599,7 +599,7 @@ The commentary: The Lord Buddha has passion, aversion, and delusion as His essen
 *BUDDHO ŚĀKYAMUNIḤ VĀDVĀN DHARMMO LOKEŚVARAḤ PRABHUḤ*
 *SAṄGHO BAJRAPĀṆI JÑEYAS TRIRATNAN TU VIDHĪYATE.*
 
-The commentary: The Divine Śrī Śākyamuni is, in the ultimate sense, the Divine Buddha. Śrī Lokeśvara is the Divine Dharma. Śrī Bajrapāṇi is the Ārya Saṅgha. They are called the Lord Ratnatraya. Vairocana, Amitābha, and Akṣobhya are the Ratnatraya. Vairocana, Ratnasambhava, and Amoghasiddhi are also the Ratnatraya.
+The commentary: The Divine Śrī Śākyamuni is, in the ultimate sense, the Divine Buddha. Śrī Lokeśwara is the Divine Dharma. Śrī Bajrapāṇi is the Ārya Saṅgha. They are called the Lord Ratnatraya. Wairocana, Amitābha, and Akṣobhya are the Ratnatraya. Wairocana, Ratnasambhava, and Amoghasiddhi are also the Ratnatraya.
 
 Here is the truth of the Three Bodies (*trikāya*): body, speech, and mind.
 
@@ -607,7 +607,7 @@ Here is the truth of the Three Bodies (*trikāya*): body, speech, and mind.
 *CITTAM AKṢOBHYABAJRAŚ CA TRIKĀYANĀMASANMATA.*
 
 The commentary:
-* The Divine Vairocana is the body (*kāya*). All *mudrās* and all characteristics are the body.
+* The Divine Wairocana is the body (*kāya*). All *mudrās* and all characteristics are the body.
 * The Divine Amitābha is speech (*vāk*). All sounds, beginning with mantras and seed-syllables, are speech.
 * The Divine Akṣobhya is mind (*citta*). All wisdom is the mind.
 That is why the Lord Ratnatraya is the Three Bodies, according to the lord of yogis.
@@ -618,7 +618,7 @@ Here is the truth of the Three Meritorious Acts to be known. The Three Meritorio
 *BHAKTIŚ CĀKṢOBHYABAJRADṚK TRIPARĀRTHĀNIGACYATE*
 
 The commentary:
-* Lord Vairocana is love (*asih*). One who has mastered the Four Perfections is love.
+* Lord Wairocana is love (*asih*). One who has mastered the Four Perfections is love.
 * Lord Amitābha is merit (*puṇya*).
 * Lord Akṣobhya is devotion (*bhakti*). One who constantly follows the essence of the scriptures, firmly observes austerities, vows, and consecrations, and upholds the Buddha's teaching, never tiring of practicing the Dharma, is called devotion.
 
@@ -632,7 +632,7 @@ Here is the truth of the Five Elements (*pañcadhātu*) for the lord of yogis. T
 *SATVENA PĀÑCADEHAŚ CA PAÑCATATHĀGATĀTMAKĀ.*
 
 The commentary:
-* The Divine Vairocana is the Buddha; He is the earth-element (*pṛthiwīdhātu*). That which is heavy is called earth.
+* The Divine Wairocana is the Buddha; He is the earth-element (*pṛthiwīdhātu*). That which is heavy is called earth.
 * The Divine Ratnasambhava is the water-element (*āpaḥdhātu*). That which has a liquid nature is called water.
 * The Divine Amitābha is the fire-element (*tejadhātu*). That which has a light nature is called the fire-element.
 * The Divine Amoghasiddhi is the wind-element (*bāyudhātu*). That which has a mobile nature is called the wind-element.
@@ -654,7 +654,7 @@ The commentary:
 * The Divine Ratnasambhava is *arwuda*. *Arwuda* means a clot of blood.
 * The Divine Amitābha is *ghana*. *Ghana* means thick flesh, like that of a cow, etc.
 * The Divine Amoghasiddhi is *peśi*. *Peśi* means soft flesh, like that of a small lizard, etc.
-* The Divine Vairocana is *praśaka*. *Praśaka* means having arms, legs, and a head, like humans, gods, etc.
+* The Divine Wairocana is *praśaka*. *Praśaka* means having arms, legs, and a head, like humans, gods, etc.
 
 Such is the order of the Five Tathāgatas becoming the Five Stages of Embryonic Development. This is the fivefold form of the awakening from poison.
 
@@ -666,7 +666,7 @@ Here is the order of the wisdom of the Five Tathāgatas in the Sacred Mahāyāna
 *ETĀNI PAÑCAJÑĀNĀNI GUHYAÑ CA PARIKĪRTYATE.*
 
 The commentary:
-* The non-conceptual wisdom in which there is grasping to a self is called eternal wisdom (*śāśvatajñāna*). That is the wisdom of Lord Vairocana.
+* The non-conceptual wisdom in which there is grasping to a self is called eternal wisdom (*śāśvatajñāna*). That is the wisdom of Lord Wairocana.
 * The luminous wisdom, wisdom that shines like the splendor of the sun, is called mirror-like wisdom (*ādarśanajñāna*). That is the wisdom of Lord Akṣobhya.
 * The wisdom that is free from perceiver and perceived, that does not grasp, and does not grasp itself, is called the wisdom of the equality of space (*ākāśamatajñāna*). That is the wisdom of Lord Ratnasambhava.
 * The wisdom of the selflessness of all phenomena, which constantly perceives the emptiness of all phenomena, is called discriminating wisdom (*pratyavekṣaṇajñāna*). That is the wisdom of Lord Amitābha.
@@ -683,9 +683,9 @@ Here is the order of the consorts of the Five Tathāgatas. They are: Lady Dhātv
 *MĀMAKĪ RATNASAMBHAVAḤ PĀṆḌARAVĀSINĪDEVĪ*
 *AMITĀBHAPATI JÑEYAS TĀRĀMOGHASIDDHIPRIYĀ.*
 
-Dhātvīśvarī, the great goddess, is to be known as the consort of Vairocana. Locanā is the consort of Akṣobhya. Dhātvīśvarī and Locanā are one. Māmakī is the consort of Ratnasambhava. The goddess Pāṇḍaravāsinī is to be known as the consort of Amitābha. Tārā is the beloved of Amoghasiddhi.
+Dhātvīśvarī, the great goddess, is to be known as the consort of Wairocana. Locanā is the consort of Akṣobhya. Dhātvīśvarī and Locanā are one. Māmakī is the consort of Ratnasambhava. The goddess Pāṇḍaravāsinī is to be known as the consort of Amitābha. Tārā is the beloved of Amoghasiddhi.
 
-The Divine Lady Dhātvīśvarī is the supreme goddess; her consort is the Lord Vairocana. The Divine Lady Locanā has as her consort the Lord Akṣobhya. The Divine Lady Dhātvīśvarī and the Divine Lady Locanā, their essence is one. Therefore, there are four goddesses who carry out the work of the Lord Vairocana, having as their foundation eternal wisdom, the form of all-wisdom, namely: Satvavajrī, Ratnavajrī, Dharmavajrī, and Karmavajrī. Such is the list of the four goddesses in the retinue of Lord Vairocana. They must be mastered and served by the practitioner, so that the state of Vairocana may be quickly found. The Divine Lady Māmakī is the goddess of Lord Ratnasambhava. The Divine Lady Pāṇḍaravāsinī is the goddess of Lord Amitābha. The Divine Lady Tārā is the goddess of Lord Amoghasiddhi. Such is the order of the Lord Pañcatathāgata with their goddesses.
+The Divine Lady Dhātvīśvarī is the supreme goddess; her consort is the Lord Wairocana. The Divine Lady Locanā has as her consort the Lord Akṣobhya. The Divine Lady Dhātvīśvarī and the Divine Lady Locanā, their essence is one. Therefore, there are four goddesses who carry out the work of the Lord Wairocana, having as their foundation eternal wisdom, the form of all-wisdom, namely: Satvavajrī, Ratnavajrī, Dharmavajrī, and Karmavajrī. Such is the list of the four goddesses in the retinue of Lord Wairocana. They must be mastered and served by the practitioner, so that the state of Wairocana may be quickly found. The Divine Lady Māmakī is the goddess of Lord Ratnasambhava. The Divine Lady Pāṇḍaravāsinī is the goddess of Lord Amitābha. The Divine Lady Tārā is the goddess of Lord Amoghasiddhi. Such is the order of the Lord Pañcatathāgata with their goddesses.
 
 Here are the seed-syllables that bring forth the four goddesses: e, waṁ, ma, ya.
 

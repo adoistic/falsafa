@@ -1,0 +1,41 @@
+{
+  "work_slug": "john-langhorne-poems-115d60",
+  "work_title": "Poems",
+  "chapter_number": 2,
+  "chapter_title": "ON THE DUTCHESS OF MAZARIN's RETIRING INTO A CONVENT.",
+  "chapter_slug": "02-on-the-dutchess-of-mazarins-retiring-into-a-conv",
+  "author": "John Langhorne",
+  "author_slug": "john-langhorne",
+  "ecpa_poem_id": "o4987-w0600",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 90
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3dce621f-387c-555d-b29c-aa90f9350a7a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 719,
+      "line_count": 92,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

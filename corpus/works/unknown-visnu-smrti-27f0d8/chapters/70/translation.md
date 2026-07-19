@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 70**
+**Viṣṇu Smriti 70**
 
 He shall not sleep with wet feet. // Vi_70.1 //
 

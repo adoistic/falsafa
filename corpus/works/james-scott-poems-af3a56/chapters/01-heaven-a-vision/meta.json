@@ -1,0 +1,44 @@
+{
+  "work_slug": "james-scott-poems-af3a56",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "HEAVEN. A VISION.",
+  "chapter_slug": "01-heaven-a-vision",
+  "author": "James Scott",
+  "author_slug": "james-scott",
+  "ecpa_poem_id": "o4985-w0300",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "dream vision"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "ten-line stanza"
+    ],
+    "rhyme": "ababcdcdee",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 280
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b6888e58-1321-5d47-a404-bd841bd65651",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2202,
+      "line_count": 283,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

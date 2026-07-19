@@ -1,0 +1,44 @@
+{
+  "work_slug": "mary-collier-poems-04c1fc",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "The HAPPY HUSBAND, And The OLD BATCHELOR. A Dialogue.",
+  "chapter_slug": "04-the-happy-husband-and-the-old-batchelor-a-dialog",
+  "author": "Mary Collier",
+  "author_slug": "mary-collier",
+  "ecpa_poem_id": "pco62-w0040",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "dialogue"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 176
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ab0942b0-88db-54cd-a4be-031ec52f0d52",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1159,
+      "line_count": 188,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

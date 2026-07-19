@@ -1,0 +1,38 @@
+{
+  "work_slug": "matthew-prior-poems-26b760",
+  "work_title": "Poems",
+  "chapter_number": 6,
+  "chapter_title": "On Exodus iii. 14. I am that I am. An ODE. Written in 1688, as an Exercise at St. John's College, Cambridge.",
+  "chapter_slug": "06-on-exodus-iii-14-i-am-that-i-am-an-ode-written-i",
+  "author": "Matthew Prior",
+  "author_slug": "matthew-prior",
+  "ecpa_poem_id": "pmp18-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "rhyme": "irregular",
+    "metrical_pattern": "irregular",
+    "line_count": 112
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "50222704-9dd0-505d-a509-0eae973ca44f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 791,
+      "line_count": 123,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

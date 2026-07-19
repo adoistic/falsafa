@@ -1,0 +1,44 @@
+{
+  "work_slug": "john-trumbull-poems-e451f6",
+  "work_title": "Poems",
+  "chapter_number": 2,
+  "chapter_title": "THE PROGRESS OF DULNESS. [Part I.]",
+  "chapter_slug": "02-the-progress-of-dulness-part-i",
+  "author": "John Trumbull",
+  "author_slug": "john-trumbull",
+  "ecpa_poem_id": "n10jt-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "allegory"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 450
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f9a268cb-9ca3-57f2-bb94-2d4f50a65830",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2870,
+      "line_count": 452,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

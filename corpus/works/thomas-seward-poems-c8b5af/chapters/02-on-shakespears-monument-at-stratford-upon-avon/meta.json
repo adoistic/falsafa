@@ -1,0 +1,44 @@
+{
+  "work_slug": "thomas-seward-poems-c8b5af",
+  "work_title": "Poems",
+  "chapter_number": 2,
+  "chapter_title": "On SHAKESPEAR'S Monument at Stratford upon Avon.",
+  "chapter_slug": "02-on-shakespears-monument-at-stratford-upon-avon",
+  "author": "Thomas Seward",
+  "author_slug": "thomas-seward",
+  "ecpa_poem_id": "o5153-w0660",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 14
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "fcb05878-ff74-51a5-b2d7-cc42efdc34fa",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 112,
+      "line_count": 16,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

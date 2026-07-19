@@ -72,9 +72,9 @@ Having drunk water from a well that has been touched by the vessel of a *caṇ�
 
 A *dvija* who drinks water that was in a *caṇḍāla*'s pot, if he vomits it out at that very moment, should perform the *Prājāpatya* penance. // Par_6.27 //
 
-If he does not vomit the water and it is digested in his body, the *Prājāpatya* should not be given; he should perform the Sāntapana Kṛcchra penance. // Par_6.28 //
+If he does not vomit the water and it is digested in his body, the *Prājāpatya* should not be given; he should perform the Sāṃtapana Kṛcchra penance. // Par_6.28 //
 
-A Brāhmaṇa should perform the Sāntapana penance; the next in order (a Kṣatriya) should perform the *Prājāpatya*. A Vaiśya should perform half of that, and a Śūdra should perform a quarter. (II,1, p. 113) // Par_6.29 //
+A Brāhmaṇa should perform the Sāṃtapana penance; the next in order (a Kṣatriya) should perform the *Prājāpatya*. A Vaiśya should perform half of that, and a Śūdra should perform a quarter. (II,1, p. 113) // Par_6.29 //
 
 If a Brāhmaṇa, a Kṣatriya, a Vaiśya, or a Śūdra inadvertently drinks water, curd, or milk from a vessel of the lowest castes (*antyajas*), (II,1, p. 114) // Par_6.30 //
 

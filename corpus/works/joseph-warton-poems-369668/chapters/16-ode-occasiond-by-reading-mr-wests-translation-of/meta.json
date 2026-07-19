@@ -1,0 +1,39 @@
+{
+  "work_slug": "joseph-warton-poems-369668",
+  "work_title": "Poems",
+  "chapter_number": 16,
+  "chapter_title": "ODE occasion'd by Reading Mr. WEST'S Translation of PINDAR.",
+  "chapter_slug": "16-ode-occasiond-by-reading-mr-wests-translation-of",
+  "author": "Joseph Warton",
+  "author_slug": "joseph-warton",
+  "ecpa_poem_id": "o5155-w0380",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode",
+      "occasional poem"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "line_count": 64
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0c85f5b4-1e60-586e-b4ba-96a0701cb1be",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 458,
+      "line_count": 72,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

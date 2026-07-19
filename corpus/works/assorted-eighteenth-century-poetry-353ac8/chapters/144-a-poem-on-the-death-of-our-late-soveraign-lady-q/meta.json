@@ -1,0 +1,45 @@
+{
+  "work_slug": "assorted-eighteenth-century-poetry-353ac8",
+  "work_title": "An Assorted Collection of Eighteenth-Century Poetry",
+  "chapter_number": 144,
+  "chapter_title": "A POEM, [ON THE DEATH OF Our Late Soveraign Lady Queen MARY.]",
+  "chapter_slug": "144-a-poem-on-the-death-of-our-late-soveraign-lady-q",
+  "author": "Colley Cibber",
+  "author_slug": "colley-cibber",
+  "ecpa_poem_id": "oac95-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "eulogy",
+      "heroic couplet"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 246
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "df48e493-248a-5f83-8928-e467e562a1ed",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1944,
+      "line_count": 247,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

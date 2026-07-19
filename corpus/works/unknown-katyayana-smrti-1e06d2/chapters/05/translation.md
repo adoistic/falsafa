@@ -22,13 +22,13 @@ translator: thothica
 
 The place where the investigation of the essential truth is undertaken through deliberation on the scriptures of Dharma is the Court of Justice (*dharmādhikaraṇam*). // K_052 //
 
-Having risen in the morning, the king, after performing his purifications with a concentrated mind, should honor his preceptor, astrologer, physicians, the gods, Brahmins, and priests. // K_053 //
+Having risen in the morning, the king, after performing his purifications with a concentrated mind, should honor his preceptor, astrologer, physicians, the gods, Brāhmaṇas, and priests. // K_053 //
 
 Having honored these as they deserve with fine flowers, ornaments, and garments, and having bowed to his preceptors and others, he should enter the court with a pleasant demeanor. // K_054 //
 
 The king, modestly attired, having gone to the court with a concentrated mind, should sit facing east and examine the cases of the litigants, together with elders learned in the three Vedas and ministers skilled in counsel. // K_055 //
 
-The king who, as an observer, sits with his Chief Judge, ministers, Brahmins, priest, and assessors, abides in heaven through his righteousness. // K_056 //
+The king who, as an observer, sits with his Chief Judge, ministers, Brāhmaṇas, priest, and assessors, abides in heaven through his righteousness. // K_056 //
 
 ...with assessors who are steadfast, suitable, wise, of hereditary standing, and foremost among the twice-born; skilled in the meaning of the scriptures of Dharma and experts in the texts on polity. // K_057 //
 

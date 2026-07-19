@@ -1,0 +1,44 @@
+{
+  "work_slug": "thomas-campbell-poems-56c1cb",
+  "work_title": "Poems",
+  "chapter_number": 2,
+  "chapter_title": "SPECIMENS OF TRANSLATION FROM MEDEA.",
+  "chapter_slug": "02-specimens-of-translation-from-medea",
+  "author": "Thomas Campbell",
+  "author_slug": "thomas-campbell",
+  "ecpa_poem_id": "n27tc-w0020",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "fragment"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 24
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "155ff727-e856-54a8-86c8-7bd27afcb306",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 163,
+      "line_count": 25,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

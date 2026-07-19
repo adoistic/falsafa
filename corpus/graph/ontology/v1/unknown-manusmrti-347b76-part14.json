@@ -1,0 +1,360 @@
+{
+  "slug": "unknown-manusmrti-347b76",
+  "window": "10,11",
+  "entities": [
+    {
+      "canonical_name": "Brahmana",
+      "surface_names": ["Brahmana", "Brahmanas", "Brahmin"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-4999b4", "quote": "A Brahmana alone should teach them, not the other two; this is the decision.", "role": "teacher of the three varnas"},
+        {"paragraph_id": "p-258a37", "quote": "the Brahmana is the lord of the varnas", "role": "supreme varna authority"},
+        {"paragraph_id": "p-92e12d", "quote": "The Brahmana, the Kshatriya, and the Vaishya are the three twice-born varnas", "role": "member of twice-born"},
+        {"paragraph_id": "p-4a77ef", "quote": "Teaching, studying, sacrificing for oneself, sacrificing for others, giving, and accepting gifts—these are the six occupations of the foremost of the born.", "role": "ritual officiant and educator"},
+        {"paragraph_id": "p-b48a7b", "quote": "Non-violence, truthfulness, non-stealing, purity, and control of the senses—this summary Dharma Manu has declared for the four varnas.", "role": "subject of universal Dharma"},
+        {"paragraph_id": "p-2ec902", "quote": "Those Brahmanas who are established in the source of Brahma and who abide in their own duties", "role": "custodians of sacred knowledge"},
+        {"paragraph_id": "p-43c3aa", "quote": "A Brahmana who has fallen into distress may accept gifts from anyone", "role": "recipient of emergency provisions"},
+        {"paragraph_id": "p-ea8ae1", "quote": "a Shudra, having acquired wealth, harasses Brahmanas", "role": "target of social threat"}
+      ],
+      "description": "The priestly varna, declared the highest of the four social orders, with exclusive teaching authority, six prescribed occupations, and special latitude in times of distress.",
+      "justification": "Brahmanas appear in nearly every verse of chapters 10 and 11 as the central normative reference point for varna law, livelihood rules, and ritual duties."
+    },
+    {
+      "canonical_name": "Kshatriya",
+      "surface_names": ["Kshatriya", "Kshatriyas", "king"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-92e12d", "quote": "The Brahmana, the Kshatriya, and the Vaishya are the three twice-born varnas", "role": "twice-born varna member"},
+        {"paragraph_id": "p-907438", "quote": "these Kshatriya castes have sunk to the state of a Shudra in the world", "role": "subject of ritual degradation"},
+        {"paragraph_id": "p-519c37", "quote": "The bearing of arms and weapons for a Kshatriya", "role": "warrior duty-bearer"},
+        {"paragraph_id": "p-412806", "quote": "His own Dharma is conquest; he must not be one who turns his back in battle.", "role": "military protector"},
+        {"paragraph_id": "p-766ba6", "quote": "A Kshatriya who, in a time of distress, takes even a fourth part, while protecting his subjects to the best of his ability, is released from guilt.", "role": "tax-collecting ruler"},
+        {"paragraph_id": "p-f747bb", "quote": "A king should bestow all kinds of jewels on Brahmanas who are learned in the Veda", "role": "patron of Brahmanas"}
+      ],
+      "description": "The warrior-ruler varna whose primary Dharma is bearing arms, protecting subjects, and conquest; subject to caste degradation if sacred rites are abandoned.",
+      "justification": "Kshatriyas are consistently positioned as the second varna with specific martial and political duties throughout chapter 10 and referenced in chapter 11 as royal patrons."
+    },
+    {
+      "canonical_name": "Vaishya",
+      "surface_names": ["Vaishya", "Vaishyas"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-92e12d", "quote": "The Brahmana, the Kshatriya, and the Vaishya are the three twice-born varnas", "role": "twice-born varna member"},
+        {"paragraph_id": "p-519c37", "quote": "trade, cattle-herding, and agriculture for a Vaishya", "role": "economic duty-bearer"},
+        {"paragraph_id": "p-4684a1", "quote": "An eighth part of the grain is the tax for Vaishyas", "role": "taxpayer subject"},
+        {"paragraph_id": "p-179977", "quote": "A Vaishya, unable to live by his own Dharma, may even resort to the livelihood of a Shudra", "role": "subject of distress rules"}
+      ],
+      "description": "The merchant-farmer varna assigned duties of trade, cattle-herding, and agriculture, subject to an eighth-grain tax to the king.",
+      "justification": "Vaishyas are the third twice-born varna, discussed in chapter 10 in terms of economic duties, taxation, and emergency livelihood provisions."
+    },
+    {
+      "canonical_name": "Shudra",
+      "surface_names": ["Shudra", "Shudras"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-92e12d", "quote": "the fourth, the Shudra, is of a single birth; there is no fifth.", "role": "lowest varna, once-born"},
+        {"paragraph_id": "p-b2dc48", "quote": "Service to Brahmanas alone is declared to be the distinguished occupation of a Shudra", "role": "servant class"},
+        {"paragraph_id": "p-ea8ae1", "quote": "a Shudra, having acquired wealth, harasses Brahmanas", "role": "potential social threat"},
+        {"paragraph_id": "p-2c0763", "quote": "No sin causing loss of caste is incurred by a Shudra, nor is he entitled to the consecrating rites", "role": "excluded from Vedic rites"},
+        {"paragraph_id": "p-4624f2", "quote": "a Shudra who is unable to perform the service of the twice-born…may live by the occupations of an artisan", "role": "artisan in distress"}
+      ],
+      "description": "The fourth and lowest varna, once-born, whose primary duty is service to Brahmanas; excluded from consecrating rites but also from certain forms of ritual sin.",
+      "justification": "Shudras form a recurring reference point for the legal boundaries of varna hierarchy throughout chapter 10, and their service role is explicitly legislated."
+    },
+    {
+      "canonical_name": "Candala",
+      "surface_names": ["Caṇḍāla", "Candala", "Chandala"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-2178e5", "quote": "the Caṇḍāla, the lowest of men", "role": "lowest of mixed-caste groups"},
+        {"paragraph_id": "p-2545e2", "quote": "for the Caṇḍālas and Śvapacas, their dwelling shall be outside the village", "role": "segregated outcast"},
+        {"paragraph_id": "p-8a37de", "quote": "a Niṣāda woman from a Caṇḍāla begets a son, an Antyāvasāyin, who dwells in cremation grounds, condemned even by the outsiders", "role": "parent of the most degraded"},
+        {"paragraph_id": "p-af290c", "quote": "a Sopāka, whose livelihood is from his original vice, a sinner, always condemned by the good", "role": "social outcast"},
+        {"paragraph_id": "p-cdb845", "quote": "Vishvamitra…came to eat the hind-quarters of a dog, having taken it from the hand of a Chandala", "role": "social boundary marker in exemplum"}
+      ],
+      "description": "Born from a Shudra father on a Brahmana woman (the reverse order), Candalas are classified as the lowest of men and assigned segregated dwelling, condemned utensils, and execution-related duties.",
+      "justification": "The Candala appears as the paradigmatic bottom of the varna-sankara system, used as both a legal category and a social boundary marker in narrative examples."
+    },
+    {
+      "canonical_name": "Nisada",
+      "surface_names": ["Niṣāda", "Nisada"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-173ba2", "quote": "on a Shudra maiden, a Niṣāda, who is also called a Pāraśava", "role": "mixed-caste from Brahmana-Shudra union"},
+        {"paragraph_id": "p-71ee87", "quote": "The killing of fish for the Niṣādas", "role": "assigned occupation"},
+        {"paragraph_id": "p-332c60", "quote": "One born of a Niṣāda on a Shudra woman becomes by caste a Pukkasa", "role": "progenitor of further mixed castes"},
+        {"paragraph_id": "p-47b9db", "quote": "A Niṣāda begets a Mārgava, a Dāsa whose livelihood is working on boats", "role": "progenitor of boat-workers"}
+      ],
+      "description": "A mixed caste born from a Brahmana father and Shudra mother, also called Parasava; assigned fishing as their prescribed occupation.",
+      "justification": "Nisadas are enumerated as one of the principal anuloma (proper-order) mixed castes, assigned an occupation and used as progenitor of further sub-castes in the varna-sankara taxonomy."
+    },
+    {
+      "canonical_name": "Manu",
+      "surface_names": ["Manu", "Manu Prajapati"],
+      "kind": "figure",
+      "figure_kind": "lawgiver",
+      "mentions": [
+        {"paragraph_id": "p-b48a7b", "quote": "this summary Dharma Manu has declared for the four varnas", "role": "legislative authority"},
+        {"paragraph_id": "p-897899", "quote": "For Manu Prajapati did not declare those Dharmas for those two", "role": "source of exemptions in law"}
+      ],
+      "description": "The primordial lawgiver Manu Prajapati, cited as the ultimate authority for the varna Dharma rules codified in the text.",
+      "justification": "Manu is explicitly named as the author of the Dharma being transmitted, serving as the internal legitimizing authority for the legal pronouncements."
+    },
+    {
+      "canonical_name": "Vishvamitra",
+      "surface_names": ["Vishvamitra"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {"paragraph_id": "p-cdb845", "quote": "Vishvamitra, a discerner of Dharma and non-Dharma, being hungry, came to eat the hind-quarters of a dog, having taken it from the hand of a Chandala.", "role": "exemplar of emergency Dharma transgression"}
+      ],
+      "description": "The celebrated Vedic sage Vishvamitra, cited as an exemplary authority who transgressed food purity rules under extreme hunger without moral fault.",
+      "justification": "Vishvamitra is invoked as a named narrative precedent to justify emergency leniency in Dharma observance, grounding the rule in authoritative biographical memory."
+    },
+    {
+      "canonical_name": "Vamadeva",
+      "surface_names": ["Vamadeva"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {"paragraph_id": "p-9c299f", "quote": "Vamadeva, a discerner of Dharma and non-Dharma, wishing to eat dog's meat when he was in distress for the sake of protecting his life-breaths, was not tainted.", "role": "exemplar of emergency survival"}
+      ],
+      "description": "The Vedic sage Vamadeva, cited as an example of a dharma-knower who desired to eat prohibited dog's meat under life-threatening distress without incurring sin.",
+      "justification": "Vamadeva is named as a normative precedent establishing that extreme necessity overrides standard purity prohibitions, a key jurisprudential principle of the chapter."
+    },
+    {
+      "canonical_name": "Ajigarta",
+      "surface_names": ["Ajigarta"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {"paragraph_id": "p-b8fe10", "quote": "Ajigarta, being hungry, approached to slay his son; and he was not tainted by sin, for he was acting to remedy his hunger.", "role": "exemplar of extreme distress absolution"}
+      ],
+      "description": "A sage who, driven by extreme hunger, was prepared to kill his own son; cited to demonstrate that actions taken to overcome starvation do not incur sin.",
+      "justification": "Ajigarta is named alongside Vamadeva and Vishvamitra as a set of canonical precedents for the emergency-Dharma doctrine in Mn_10.105–108."
+    },
+    {
+      "canonical_name": "Bharadvaja",
+      "surface_names": ["Bharadvaja"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {"paragraph_id": "p-84ec4d", "quote": "Bharadvaja, a man of great tapas, being hungry with his son in a lonely forest, accepted many cows from Vridhu, a carpenter.", "role": "exemplar of accepting gifts under distress"}
+      ],
+      "description": "The great ascetic sage Bharadvaja, who accepted cows from a carpenter (lower-status giver) when starving in the forest; cited to legitimize accepting gifts from anyone under duress.",
+      "justification": "Bharadvaja's act of accepting gifts from a craftsman is one of four narrative precedents used to ground the rule that Brahmanas in mortal distress may accept from any source."
+    },
+    {
+      "canonical_name": "Vridhu",
+      "surface_names": ["Vridhu"],
+      "kind": "figure",
+      "figure_kind": "craftsman",
+      "mentions": [
+        {"paragraph_id": "p-84ec4d", "quote": "accepted many cows from Vridhu, a carpenter", "role": "non-Brahmana giver to a sage"}
+      ],
+      "description": "A carpenter who gave cows to the starving sage Bharadvaja; mentioned as a lower-caste giver whose gift was accepted without sin under emergency conditions.",
+      "justification": "Vridhu's status as a carpenter marks him as a non-twice-born donor, making the act of Bharadvaja accepting from him legally significant as a precedent."
+    },
+    {
+      "canonical_name": "Suta",
+      "surface_names": ["Sūta", "Suta"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-595e23", "quote": "From a Kshatriya on a Brahmana maiden is born by caste a Sūta", "role": "mixed caste from reverse-order union"},
+        {"paragraph_id": "p-669879", "quote": "For the Sūtas, horsemanship and charioteering", "role": "assigned occupational group"}
+      ],
+      "description": "A pratiloma (reverse-order) mixed caste born from a Kshatriya father and Brahmana mother, assigned horsemanship and charioteering as their prescribed occupation.",
+      "justification": "Sutas are enumerated among the principal reverse-order mixed castes and given a specific occupational assignment, making them a distinct group in the varna-sankara taxonomy."
+    },
+    {
+      "canonical_name": "Magadha",
+      "surface_names": ["Māgadha", "Magadha"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-595e23", "quote": "from a Vaishya, a Māgadha", "role": "mixed caste from Vaishya-Brahmana union"},
+        {"paragraph_id": "p-669879", "quote": "for the Māgadhas, trade", "role": "assigned occupational group"}
+      ],
+      "description": "A mixed caste born from a Vaishya father and Brahmana mother in the reverse order, assigned trade as their prescribed livelihood.",
+      "justification": "Magadhas are listed as one of the six primary pratiloma castes and given a specific occupation in the systematic varna-sankara enumeration."
+    },
+    {
+      "canonical_name": "Vrātya",
+      "surface_names": ["vrātya", "Brahmana vrātya", "Kshatriya vrātya", "Vaishya vrātya"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-239717", "quote": "those whom the twice-born beget on wives of equal varna, but who are neglectful of their vows, one should designate as vrātyas, who have fallen from the Sāvitrī", "role": "ritually degraded twice-born"},
+        {"paragraph_id": "p-690b66", "quote": "From a Brahmana vrātya is born a sinful-souled Bhūrjakaṇṭaka", "role": "progenitor of degraded sub-castes"},
+        {"paragraph_id": "p-77bee1", "quote": "From a Kshatriya vrātya, a Jhalla, a Malla", "role": "progenitor of warrior-class degraded groups"},
+        {"paragraph_id": "p-bc4bb4", "quote": "from a Vaishya vrātya is born a Sudhanvan and an Ācārya", "role": "progenitor of merchant-class degraded groups"}
+      ],
+      "description": "Twice-born men who have fallen from the Savitri initiation by neglecting their vows; the progenitors of a distinct set of mixed and degraded castes differentiated by their original varna.",
+      "justification": "Vrātyas form a distinct category within the chapter's taxonomy — not products of inter-varna unions but of ritual failure within a varna — generating their own enumerated sub-castes."
+    },
+    {
+      "canonical_name": "Yavana",
+      "surface_names": ["Yavanas"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-ecc2c1", "quote": "the Paundrakas, the Audras, the Dravidas, the Kambojas, the Yavanas, the Shakas, the Paradas, the Pahlavas, the Chinas, the Kiratas, the Daradas, and the Khashas.", "role": "degraded Kshatriya-descended peoples"}
+      ],
+      "description": "Greeks (Yavanas) listed among the foreign peoples described as Kshatriyas who have degraded to Shudra status through abandonment of Brahmana contact and sacred rites.",
+      "justification": "The Yavanas are one of twelve named external peoples explicitly demoted from Kshatriya to Shudra status, grounding the text's ethnographic-legal categorization of non-Aryan groups."
+    },
+    {
+      "canonical_name": "Aryavarta",
+      "surface_names": ["Aryavarta"],
+      "kind": "place",
+      "mentions": [
+        {"paragraph_id": "p-47b9db", "quote": "whom the inhabitants of Aryavarta call a Kaivarta", "role": "geographical-cultural reference for naming conventions"}
+      ],
+      "description": "The sacred land of the Aryans, referenced as the geographical zone whose inhabitants use the term 'Kaivarta' for the Margava, a Nisada-descended boat-worker caste.",
+      "justification": "Aryavarta is named as a regional authority for nomenclature, indicating its cultural normativity as the standard against which caste names and practices are measured."
+    },
+    {
+      "canonical_name": "Ambashtha",
+      "surface_names": ["Ambaṣṭha", "Ambashtha"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-173ba2", "quote": "From a Brahmana on a Vaishya maiden, a son named Ambaṣṭha is born", "role": "anuloma mixed caste"},
+        {"paragraph_id": "p-4cb9e2", "quote": "As the Ambaṣṭha and the Ugra are remembered as born in the proper order with one degree of separation", "role": "reference caste in comparative taxonomy"},
+        {"paragraph_id": "p-669879", "quote": "for the Ambaṣṭhas, the art of healing", "role": "assigned medical practitioners"}
+      ],
+      "description": "Born from a Brahmana father and Vaishya mother in the proper order, Ambashthas are assigned healing (medicine) as their prescribed occupation.",
+      "justification": "Ambashthas are one of the primary anuloma mixed castes enumerated in Mn_10.8 and later assigned a specific occupational niche in the social taxonomy."
+    },
+    {
+      "canonical_name": "Ugra",
+      "surface_names": ["Ugra"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-bb9166", "quote": "From a Kshatriya on a Shudra maiden is born a creature named Ugra, of cruel conduct and habits, having the nature of a Kshatriya and a Shudra.", "role": "anuloma mixed caste with dual nature"},
+        {"paragraph_id": "p-4fda51", "quote": "For the Kṣattṛs, Ugras, and Pukkasas, the catching and killing of animals that live in holes", "role": "assigned occupational hunters"}
+      ],
+      "description": "Born from a Kshatriya father and Shudra mother, Ugras are characterized as having the cruel nature of both parent varnas and are assigned to hunting hole-dwelling animals.",
+      "justification": "Ugras are distinctive among mixed castes for being explicitly described with a character disposition (cruelty) in addition to their genealogical definition and occupational assignment."
+    },
+    {
+      "canonical_name": "Creator",
+      "surface_names": ["the Creator"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-03159a", "quote": "Having considered an ignoble man who performs Aryan deeds, and an Aryan who performs ignoble deeds, the Creator said, 'They are not equal, nor are they unequal.'", "role": "divine authority on karmic ambiguity"}
+      ],
+      "description": "The divine Creator (Brahma/Prajapati), cited as having pronounced an authoritative judgment on the moral equivalence of mixed-birth individuals based on their conduct.",
+      "justification": "The Creator is invoked as the ultimate metaphysical authority to settle the contested question of whether birth or conduct determines status, providing a divine legislative voice."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Varna hierarchy and the four-fold social order",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-92e12d", "quote": "The Brahmana, the Kshatriya, and the Vaishya are the three twice-born varnas; but the fourth, the Shudra, is of a single birth; there is no fifth."},
+        {"paragraph_id": "p-258a37", "quote": "the Brahmana is the lord of the varnas"},
+        {"paragraph_id": "p-233a88", "quote": "these have been declared as the laws for times of distress for the four varnas; by duly following them, they go to the supreme state."}
+      ],
+      "justification": "Chapters 10 and 11 are framed entirely around the four-varna system as the foundational social reality that all legal rulings about birth, livelihood, and duty presuppose."
+    },
+    {
+      "topic": "Varna-sankara: mixed-caste taxonomy and hierarchical purity",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-bbd252", "quote": "Through the promiscuous intercourse of the varnas, through marriage with those who should not be married, and through the abandonment of their own duties, are born the mixed castes."},
+        {"paragraph_id": "p-8ef503", "quote": "These castes, born of confusion, which have been shown by their father and mother, whether concealed or open, are to be known by their occupations."},
+        {"paragraph_id": "p-588820", "quote": "Those who are of mixed origin, born in the reverse and proper orders, and who are intermingled with each other—them I will now declare in their entirety."}
+      ],
+      "justification": "The bulk of chapter 10 is a systematic elaboration of mixed-caste groups generated by inter-varna unions, forming a complete taxonomic project with occupational assignments."
+    },
+    {
+      "topic": "Svadharma: the obligation to perform one's own-caste duty",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-53206d", "quote": "Better one's own Dharma, even if imperfect, than another's well-performed. For one who lives by the Dharma of another falls immediately from his caste."},
+        {"paragraph_id": "p-7cad60", "quote": "He who, being of a lower caste, out of greed lives by the occupations of a superior caste, the king, having made him destitute, should quickly banish him."},
+        {"paragraph_id": "p-ec166f", "quote": "The study of the Veda for a Brahmana, and the protection of subjects for a Kshatriya, and the work of economics for a Vaishya are the distinguished among their own duties."}
+      ],
+      "justification": "The principle that one must follow one's own varna-prescribed duty rather than another's is stated as an explicit maxim and supported by punitive and soteriological consequences."
+    },
+    {
+      "topic": "Āpad-dharma: emergency provisions for survival under distress",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-b34355", "quote": "a Brahmana, unable to live by his own prescribed occupation, may live by the Dharma of a Kshatriya; for that is the next to his."},
+        {"paragraph_id": "p-f1a9ef", "quote": "He who, having reached a point where his life is in danger, eats food from here and there, he is not tainted by sin, just as the sky is not tainted by mud."},
+        {"paragraph_id": "p-43c3aa", "quote": "A Brahmana who has fallen into distress may accept gifts from anyone; that a pure thing is defiled—this is not supported by Dharma."}
+      ],
+      "justification": "A coherent body of rulings establishes that normal Dharma rules are suspended in life-threatening necessity, with both logical argument and named narrative precedents (Ajigarta, Vamadeva, Vishvamitra, Bharadvaja)."
+    },
+    {
+      "topic": "Seed and field: the relative contributions of father and mother to offspring quality",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-55bcf0", "quote": "Some praise the seed, other wise men praise the field; and still others, both the seed and the field; but on this matter, this is the established decision:"},
+        {"paragraph_id": "p-1cd7a0", "quote": "just as good seed, born in a good field, prospers, so one born of an Aryan on an Aryan woman is worthy of all the consecrating rites."},
+        {"paragraph_id": "p-e7ae9d", "quote": "by the power of the seed, sages born of animals became honored and praised, therefore the seed is praised."}
+      ],
+      "justification": "The text explicitly debates competing schools of thought on whether birth quality derives from the father (seed), the mother (field), or both, then resolves in favor of the primacy of Aryan lineage on both sides."
+    },
+    {
+      "topic": "Ritual degradation through neglect of sacred rites",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-907438", "quote": "by the gradual omission of sacred rites and by not seeing Brahmanas, these Kshatriya castes have sunk to the state of a Shudra in the world."},
+        {"paragraph_id": "p-239717", "quote": "those whom the twice-born beget on wives of equal varna, but who are neglectful of their vows, one should designate as vrātyas, who have fallen from the Sāvitrī."},
+        {"paragraph_id": "p-3faaee", "quote": "by the power of austerity and of the seed, they go, in age after age, to a higher or a lower state among men here by birth."}
+      ],
+      "justification": "Chapter 10 develops a theory of social mobility through ritual compliance or neglect, explaining the degradation of entire ethnic groups and the generation of new mixed castes as consequences of abandoning Vedic rites."
+    },
+    {
+      "topic": "Occupational assignment as social marker and identity",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-8ef503", "quote": "These castes, born of confusion, which have been shown by their father and mother, whether concealed or open, are to be known by their occupations."},
+        {"paragraph_id": "p-669879", "quote": "For the Sūtas, horsemanship and charioteering; for the Ambaṣṭhas, the art of healing; for the Vaidehakas, service to women; for the Māgadhas, trade."},
+        {"paragraph_id": "p-71ee87", "quote": "The killing of fish for the Niṣādas; carpentry for the Āyogava"}
+      ],
+      "justification": "The text uses occupational assignment as both the diagnostic marker for identifying unknown caste origin and as the normative prescription for each caste group, tying social identity to labor."
+    },
+    {
+      "topic": "Segregation and social pollution of the lowest castes",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-2545e2", "quote": "for the Caṇḍālas and Śvapacas, their dwelling shall be outside the village; they must be made to use discarded vessels, and their wealth shall be dogs and donkeys."},
+        {"paragraph_id": "p-75953f", "quote": "Their clothes, the garments of the dead; their food in broken vessels; their ornament, black iron; and they must wander constantly."},
+        {"paragraph_id": "p-e3c5c0", "quote": "A man who practices Dharma must not seek contact with them; their transactions shall be among themselves, and their marriages with their equals."}
+      ],
+      "justification": "A coherent set of prescriptions governs the material and spatial conditions of the Candala and Svapaca, institutionalizing untouchability through explicit legal rules about residence, utensils, clothing, and social interaction."
+    },
+    {
+      "topic": "Conduct vs. birth as determinants of moral status",
+      "implicit": true,
+      "mentions": [
+        {"paragraph_id": "p-5039f9", "quote": "One born of an Aryan on an ignoble woman may become an Aryan by his qualities; but one born of an ignoble man on an Aryan woman is ignoble; this is the decision."},
+        {"paragraph_id": "p-df2c92", "quote": "Ignobility, harshness, cruelty, and neglect of duties reveal a man of impure origin in this world."},
+        {"paragraph_id": "p-03159a", "quote": "Having considered an ignoble man who performs Aryan deeds, and an Aryan who performs ignoble deeds, the Creator said, 'They are not equal, nor are they unequal.'"}
+      ],
+      "justification": "While the text's dominant logic is birth-determinism, it implicitly engages with a competing conduct-based view, most sharply in the Creator's paradoxical statement and the verse about seven-generation caste elevation."
+    },
+    {
+      "topic": "The Brahmana as spiritual creditor and beneficiary of royal patronage",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-f747bb", "quote": "A king should bestow all kinds of jewels on Brahmanas who are learned in the Veda, as is fitting, and for the sake of a sacrifice, as a sacrificial fee."},
+        {"paragraph_id": "p-259c16", "quote": "one should bestow wealth according to one's ability on Brahmanas who are learned in the Veda and live in seclusion; after death, one enjoys heaven."},
+        {"paragraph_id": "p-5c74be", "quote": "a gift must be given to them when they are destitute, according to their special learning."}
+      ],
+      "justification": "Chapter 11 opens with a series of verses institutionalizing gift-giving to Brahmanas as a soteriological obligation for kings and householders, establishing the Brahmana as a spiritual economy's central recipient."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Vedic initiation / Sāvitrī rite",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-239717",
+      "quote": "vrātyas, who have fallen from the Sāvitrī",
+      "justification": "The Savitri (Gayatri) initiation rite is implicitly cited as the normative Vedic authority defining the threshold between legitimate twice-born status and vrātya degradation."
+    }
+  ]
+}

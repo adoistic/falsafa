@@ -7,7 +7,7 @@ author:
   biography: A sage of the Hindu Dharmaśāstra tradition, to whom the Viṣṇu Smṛti is ascribed. The text is a compilation in verse on law and right conduct, redacted over generations by unknown hands.
   nationality: Indian
 era: Ancient
-genre: Indic
+genre: Law
 language: Sanskrit
 language_direction: ltr
 description: 
@@ -15,7 +15,7 @@ difficulty: Intermediate
 total_logical_chapters: 100
 total_variant_entries: 200
 cover_image_url: "/objects/uploads/58a144c0-0196-4ae6-a340-ee90100a9ba8"
-thothica_role: catalog
+thothica_role: "gretil-root"
 ---
 
 # Viṣṇu Smṛti

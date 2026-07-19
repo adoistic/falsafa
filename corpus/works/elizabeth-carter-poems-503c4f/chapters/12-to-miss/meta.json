@@ -1,0 +1,46 @@
+{
+  "work_slug": "elizabeth-carter-poems-503c4f",
+  "work_title": "Poems",
+  "chapter_number": 12,
+  "chapter_title": "To Miss ****.",
+  "chapter_slug": "12-to-miss",
+  "author": "Elizabeth Carter",
+  "author_slug": "elizabeth-carter",
+  "ecpa_poem_id": "o5157-w0430",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ballad metre",
+      "Chevy Chase stanza",
+      "meditation"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "xaxa",
+    "syllable_pattern": "8.6.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/         -+|-+|-+/         -+|-+|-+|-+/         -+|-+|-+/",
+    "line_count": 44
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5c30326e-284d-51fb-a6c6-4639724c5def",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 240,
+      "line_count": 57,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

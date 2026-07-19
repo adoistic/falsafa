@@ -1,0 +1,44 @@
+{
+  "work_slug": "robert-merry-poems-f2c622",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "ELEGY, Written on the PLAIN OF FONTENOY.",
+  "chapter_slug": "04-elegy-written-on-the-plain-of-fontenoy",
+  "author": "Robert Merry",
+  "author_slug": "robert-merry",
+  "ecpa_poem_id": "o4739-w0110",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "elegy"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "10.10.10.10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/",
+    "line_count": 72
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "df02497a-5765-59ef-afca-f52137c761e9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 565,
+      "line_count": 74,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

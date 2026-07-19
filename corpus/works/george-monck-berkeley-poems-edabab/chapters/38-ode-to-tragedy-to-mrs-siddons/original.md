@@ -1,0 +1,86 @@
+---
+work_id: "edabab62-7fd4-55fa-a15b-8674997ff1bf"
+work_slug: "george-monck-berkeley-poems-edabab"
+work_title: Poems
+author: George Monck Berkeley
+author_slug: "george-monck-berkeley"
+ecpa_poem_id: "o5280-w0370"
+chapter_number: 38
+chapter_title: ODE TO TRAGEDY. TO MRS. SIDDONS.
+chapter_slug: "38-ode-to-tragedy-to-mrs-siddons"
+variant_id: "e285041b-0623-5e25-b76a-e3c308890af3"
+content_type: original
+layout: verse
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 275
+source_url: "https://www.eighteenthcenturypoetry.org/"
+license: "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+genres:
+  - ode
+metrical_foot: iambic (˘′)
+metrical_count: tetrameter (4 feet)
+stanza_form:
+  - sestet (6 lines)
+rhyme_scheme: aabccb
+syllable_pattern: 8.8.8.8.8.6
+---
+
+ODE TO TRAGEDY.
+
+TO MRS. SIDDONS.
+
+O HALLOW'D source of fancy'd woe,
+ Around thy shrine the streams that flow,
+ From Pity's sacred source arise,
+ Now lost in horror, chill'd we gaze,
+ And see thy hand the dagger raise;
+ The fated victim dies! 
+
+Where the pale body lifeless lies,
+ Sweet Pity yields her throbbing sighs,
+ And though deserving of the doom,
+ Yet falls he not without a tear,
+ Which, shed by Virtue o'er his bier,
+ Bids hope dispel the gloom. 
+
+When first the Muse in Grecia sung,
+ To comic strains her shell she strung,
+ Then pleas'd alone with shepherd lays;
+ But O! when Genius pour'd her light
+ Along the gloom of early night,
+ To thee belongs the praise. 
+
+By ev'ry tragic bard of old,
+ Of whom th' historic page hath told;
+ By every dear departed shade,
+ By mighty Shakspeare's honour'd dust,
+ And by thy Otway's laurel'd bust;
+ Descend to earth, sweet maid. 
+
+Still Britons feel thy glowing rage,
+ Illum'd by Shakespeare's magic page;
+ Still o'er thy Otway's verse we mourn
+ When impious Cawdor's guilty queen
+ With murder stains the horrid scene. 
+O! how our bosoms burn. 
+
+When fair Monimia weeping pleads,
+ And when her hapless husband bleeds,
+ Whilst tears bedim her radiant eyes,
+ Sweet Pity's self descending there,
+ Attempts to soothe the hopeless fair
+ With sympathetic sighs. 
+
+When, catching frenzy from thy page,
+ Immortal Siddons treads the stage,
+ The Fairies stern awhile refrain,
+ A while their scorpion lust restrain,
+ And, pleas'd, behold the scene of woe. 
+Uncertain, if our tears and sighs,
+ From true, or fancied ills arise;
+ But, ah! the sweet delusion o'er,
+ Again they steep their snakes in gore,
+ And bid our sorrows flow.

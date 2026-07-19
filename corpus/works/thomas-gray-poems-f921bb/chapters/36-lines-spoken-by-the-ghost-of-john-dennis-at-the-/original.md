@@ -1,0 +1,81 @@
+---
+work_id: "f921bbaf-7c57-57bf-9795-cf060f7e4a5b"
+work_slug: "thomas-gray-poems-f921bb"
+work_title: Poems
+author: Thomas Gray
+author_slug: "thomas-gray"
+ecpa_poem_id: "tgaen-wlojd"
+chapter_number: 36
+chapter_title: "[Lines Spoken by the Ghost of John Dennis at the Devil Tavern]"
+chapter_slug: "36-lines-spoken-by-the-ghost-of-john-dennis-at-the-"
+variant_id: "b5e60fb0-d247-5358-a666-3c82c918d76d"
+content_type: original
+layout: verse
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 380
+source_url: "https://www.eighteenthcenturypoetry.org/"
+license: "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+stanza_form:
+  - couplet (2 lines)
+rhyme_scheme: aa
+---
+
+[Lines Spoken by the Ghost of John Dennis at the Devil Tavern]
+
+From purling streams and the Elysian scene,
+From groves that smile with never-fading green,
+I reascend: in Atropos' despite
+Restored to Celadon and upper light.
+Ye gods, that sway the regions under ground,
+Reveal to mortal view your realms profound;
+At his command admit the eye of day:
+When Celadon commands, what god can disobey?
+Nor seeks he your Tartarean fires to know,
+The house of torture and the abyss of woe;
+But happy fields and mansions free from pain,
+Gay meads and springing flowers, best please the gentle swain.
+
+That little, naked, melancholy thing,
+My soul, when first she tried her flight to wing,
+Began with speed new regions to explore,
+And blundered through a narrow postern door.
+First most devoutly having said its prayers,
+It tumbled down a thousand pair of stairs,
+Through entries long, through cellars vast and deep,
+Where ghostly rats their habitations keep,
+Where spiders spread their webs and owlish goblins sleep.
+After so many chances had befell,
+It came into a mead of asphodel:
+Betwixt the confines of the light and dark
+It lies, of 'Lysium the St. James's Park.
+Here spirit-beaux flutter along the Mall,
+And shadows in disguise skate o'er the iced Canal;
+Here groves embowered and more sequestered shades,
+Frequented by the ghosts of ancient maids,
+Are seen to rise. The melancholy scene,
+With gloomy haunts and twilight walks between,
+Conceals the wayward band: here spend their time
+Greensickness girls that died in youthful prime,
+Virgins forlorn, all dressed in willow-green-i,
+With Queen Elizabeth and Nicolini.
+
+More to reveal, or many words to use,
+Would tire alike your patience and my muse.
+Believe that never was so faithful found
+Queen Proserpine to Pluto under ground,
+Or Cleopatra to her Mark Antony,
+As Orozmades to his Celadony.
+
+P.S. Lucrece for half a crown will show you fun,
+But Mrs. Oldfield is become a nun.
+Nobles and cits, Prince Pluto and his spouse,
+Flock to the ghost of Covent-Garden House:
+Plays, which were hissed above, below revive,
+When dead applauded that were damned alive.
+The people, as in life, still keep their passions,
+But differ something from the world in fashions.
+Queen Artemisia breakfasts on bohea,
+And Alexander wears a ramilie.

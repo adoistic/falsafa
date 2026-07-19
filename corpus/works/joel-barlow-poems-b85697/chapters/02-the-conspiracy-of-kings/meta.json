@@ -1,0 +1,41 @@
+{
+  "work_slug": "joel-barlow-poems-b85697",
+  "work_title": "Poems",
+  "chapter_number": 2,
+  "chapter_title": "THE CONSPIRACY OF KINGS.",
+  "chapter_slug": "02-the-conspiracy-of-kings",
+  "author": "Joel Barlow",
+  "author_slug": "joel-barlow",
+  "ecpa_poem_id": "n20jb-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 282
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8b1c99f5-e103-5c38-896a-26dbaf6f2b91",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2272,
+      "line_count": 283,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

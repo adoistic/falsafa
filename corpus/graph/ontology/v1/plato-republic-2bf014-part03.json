@@ -1,0 +1,592 @@
+{
+  "slug": "plato-republic-2bf014",
+  "window": "02:0-16",
+  "entities": [
+    {
+      "canonical_name": "Socrates",
+      "surface_names": ["Socrates", "I"],
+      "kind": "figure",
+      "figure_kind": "philosopher",
+      "mentions": [
+        {
+          "paragraph_id": "p-71959e",
+          "quote": "Socrates, is it your desire to seem to have persuaded us or really to persuade us that it is without exception better to be just than unjust?",
+          "role": "interlocutor and defender of justice"
+        },
+        {
+          "paragraph_id": "p-c2d540",
+          "quote": "In my opinion, I said, it belongs in the fairest class",
+          "role": "speaker placing justice in the highest category of goods"
+        },
+        {
+          "paragraph_id": "p-77b889",
+          "quote": "I do not know how I can come to the rescue. For I doubt my ability",
+          "role": "protagonist tasked with defending justice"
+        }
+      ],
+      "description": "The Socratic narrator of the Republic, who is challenged by Glaucon and Adeimantus to prove that justice is intrinsically good and not merely valued for its consequences.",
+      "justification": "Socrates is the primary speaker throughout this window and the central philosophical voice being challenged to defend justice."
+    },
+    {
+      "canonical_name": "Glaucon",
+      "surface_names": ["Glaucon"],
+      "kind": "figure",
+      "figure_kind": "interlocutor",
+      "mentions": [
+        {
+          "paragraph_id": "p-71959e",
+          "quote": "Glaucon, who is always an intrepid enterprising spirit in everything, would not on this occasion acquiesce in Thrasymachus's abandonment of his case",
+          "role": "challenger who renews the case for injustice"
+        },
+        {
+          "paragraph_id": "p-947e15",
+          "quote": "Bless me, my dear Glaucon, said I, how strenuously you polish off each of your two men for the competition",
+          "role": "constructor of the thought experiment of the perfectly just vs. unjust man"
+        },
+        {
+          "paragraph_id": "p-24c505",
+          "quote": "When Glaucon had thus spoken, I had a mind to make some reply thereto",
+          "role": "advocate for the view that the unjust man's life is superior"
+        }
+      ],
+      "description": "Plato's brother and dialogue interlocutor who, despite personally doubting the superiority of injustice, steelmans the position that injustice is more profitable, in order to compel Socrates to offer a deeper defense of justice.",
+      "justification": "Glaucon is named repeatedly as the principal challenger who drives the argument of this window by presenting the case for injustice's profitability."
+    },
+    {
+      "canonical_name": "Adeimantus",
+      "surface_names": ["Adeimantus", "Glaucon's brother"],
+      "kind": "figure",
+      "figure_kind": "interlocutor",
+      "mentions": [
+        {
+          "paragraph_id": "p-24c505",
+          "quote": "his brother Adeimantus said, You surely don't suppose, Socrates, that the statement of the case is complete?",
+          "role": "supplements Glaucon's argument by focusing on how justice is praised only for reputation"
+        },
+        {
+          "paragraph_id": "p-c47e6c",
+          "quote": "Fathers, when they address exhortations to their sons, and all those who have others in their charge, urge the necessity of being just, not by praising justice itself, but the good repute with mankind",
+          "role": "presenter of the conventional commendation of justice via reputation rather than intrinsic worth"
+        },
+        {
+          "paragraph_id": "p-77b889",
+          "quote": "sons of the man we know, in the beginning of the elegy which the admirer of Glaucon wrote when you distinguished yourselves in the battle of Megara",
+          "role": "recipient of Socrates's praise for his philosophical integrity"
+        }
+      ],
+      "description": "Plato's other brother and dialogue interlocutor who extends Glaucon's challenge by demonstrating that even conventional praise of justice appeals to reputation and divine reward rather than justice's intrinsic nature.",
+      "justification": "Adeimantus is named as Glaucon's brother and enters the argument in p-24c505, speaking through the remainder of this window's section on conventional defenses of justice."
+    },
+    {
+      "canonical_name": "Thrasymachus",
+      "surface_names": ["Thrasymachus"],
+      "kind": "figure",
+      "figure_kind": "sophist",
+      "mentions": [
+        {
+          "paragraph_id": "p-71959e",
+          "quote": "Thrasymachus's abandonment of his case",
+          "role": "prior interlocutor whose position Glaucon renews"
+        },
+        {
+          "paragraph_id": "p-c2d540",
+          "quote": "Thrasymachus has for some time been disparaging it as such and praising injustice",
+          "role": "exemplar of the view that injustice is profitable"
+        },
+        {
+          "paragraph_id": "p-16ad78",
+          "quote": "Thrasymachus and haply another might say in pleas for and against justice and injustice, inverting their true potencies",
+          "role": "representative of those who invert the true valuation of justice"
+        }
+      ],
+      "description": "The sophist from Book 1 whose thesis that injustice is more profitable than justice is taken up and sharpened by Glaucon at the outset of Book 2.",
+      "justification": "Thrasymachus is cited by name as the origin of the view being challenged, and his abandonment of the argument prompts the entire discussion of this window."
+    },
+    {
+      "canonical_name": "Gyges",
+      "surface_names": ["Gyges", "ancestor of Gyges the Lydian", "the shepherd"],
+      "kind": "figure",
+      "figure_kind": "legendary/historical",
+      "mentions": [
+        {
+          "paragraph_id": "p-faf250",
+          "quote": "the power which men say once came to the ancestor of Gyges the Lydian. They relate that he was a shepherd in the service of the ruler at that time of Lydia",
+          "role": "protagonist of the myth used to illustrate that justice is only kept from constraint"
+        },
+        {
+          "paragraph_id": "p-76ba1f",
+          "quote": "he immediately managed things so that he became one of the messengers who went up to the king, and on coming there he seduced the king's wife and with her aid set upon the king and slew him and possessed his kingdom",
+          "role": "exemplar of unchecked injustice enabled by invisibility"
+        }
+      ],
+      "description": "The Lydian ancestor of the historical Gyges who, according to the myth Glaucon narrates, discovered a ring that conferred invisibility and used it to seize the kingdom of Lydia — illustrating the thesis that justice is only constraint, not genuine virtue.",
+      "justification": "The ring of Gyges is the central thought-experiment object of paragraphs p-faf250 and p-76ba1f, and its protagonist is named and described in detail."
+    },
+    {
+      "canonical_name": "Aeschylus",
+      "surface_names": ["Aeschylus"],
+      "kind": "figure",
+      "figure_kind": "poet",
+      "mentions": [
+        {
+          "paragraph_id": "p-947e15",
+          "quote": "a simple and noble man, who, in the phrase of Aeschylus, does not wish to seem but be good",
+          "role": "source of a poetic phrase characterizing the truly just man"
+        },
+        {
+          "paragraph_id": "p-24c505",
+          "quote": "the saying of Aeschylus was, it seems, far more correctly applicable to the unjust man",
+          "role": "his words are ironically re-applied to the unjust man"
+        }
+      ],
+      "description": "The Athenian tragedian whose line about wishing 'not to seem but to be good' is cited first to characterize the ideally just man, then ironically inverted to describe the unjust man.",
+      "justification": "Aeschylus is named twice in the window and his phrase is a load-bearing textual citation that shapes the thought-experiment of the perfectly just vs. unjust man."
+    },
+    {
+      "canonical_name": "Hesiod",
+      "surface_names": ["Hesiod"],
+      "kind": "figure",
+      "figure_kind": "poet",
+      "mentions": [
+        {
+          "paragraph_id": "p-c47e6c",
+          "quote": "even as the worthy Hesiod and Homer declare, the one that the gods make the oaks bear for the just: Acorns on topmost branches and swarms of bees on their mid-trunks",
+          "role": "cited authority for divine rewards to the just"
+        }
+      ],
+      "description": "The archaic Greek poet whose Works and Days is quoted by Adeimantus as an example of how conventional praise of justice appeals to divine reward rather than justice's intrinsic worth.",
+      "justification": "Hesiod is named explicitly and a verse from him is quoted to illustrate the conventional argument from reputation and divine favor."
+    },
+    {
+      "canonical_name": "Homer",
+      "surface_names": ["Homer"],
+      "kind": "figure",
+      "figure_kind": "poet",
+      "mentions": [
+        {
+          "paragraph_id": "p-c47e6c",
+          "quote": "similarly the other poet: Even as when a good king, who rules in the fear of the high gods, Upholds justice and right, and the black earth yields him her foison",
+          "role": "cited authority for earthly abundance rewarded to just kings"
+        },
+        {
+          "paragraph_id": "p-6ff2eb",
+          "quote": "others cite Homer as a witness to the beguiling of gods by men, since he too said: The gods themselves are moved by prayers",
+          "role": "cited as witness for the view that the gods can be bribed by sacrifice"
+        }
+      ],
+      "description": "The epic poet whose Odyssey and Iliad are cited both as conventional support for divine rewards to the just and as evidence that the gods can be persuaded from justice by sacrifice.",
+      "justification": "Homer is named twice and verses attributed to him are quoted to illustrate the corrupting influence of conventional poetic theology on young souls."
+    },
+    {
+      "canonical_name": "Musaeus",
+      "surface_names": ["Musaeus"],
+      "kind": "figure",
+      "figure_kind": "legendary poet",
+      "mentions": [
+        {
+          "paragraph_id": "p-9da9cf",
+          "quote": "Musaeus and his son have a more excellent song than these of the blessings that the gods bestow on the righteous. For they conduct them to the house of Hades in their tale and arrange a symposium of the saints",
+          "role": "mythological poet whose eschatological rewards for justice are cited"
+        },
+        {
+          "paragraph_id": "p-07fbfb",
+          "quote": "they produce a bushel of books of Musaeus and Orpheus, the offspring of the Moon and of the Muses",
+          "role": "author of ritual books used to promise sin-remission through sacrifice"
+        }
+      ],
+      "description": "The legendary Athenian bard associated with mystery-cult poetry; his books are cited as part of the tradition that promises afterlife rewards for the just and, corruptly, remission of sins for the unjust through ritual.",
+      "justification": "Musaeus is named in both p-9da9cf and p-07fbfb as a representative of the poetic tradition Adeimantus critiques for reducing justice to a means for otherworldly reward."
+    },
+    {
+      "canonical_name": "Orpheus",
+      "surface_names": ["Orpheus"],
+      "kind": "figure",
+      "figure_kind": "legendary poet",
+      "mentions": [
+        {
+          "paragraph_id": "p-07fbfb",
+          "quote": "a bushel of books of Musaeus and Orpheus, the offspring of the Moon and of the Muses, as they affirm, and these books they use in their ritual",
+          "role": "legendary origin of books promising purification from injustice through ritual"
+        }
+      ],
+      "description": "The mythical poet and founder of mystery rites whose books, paired with those of Musaeus, are used to promise afterlife purification and thereby undermine the intrinsic motivation for justice.",
+      "justification": "Orpheus is named alongside Musaeus as the source of ritual books that corrupt the soul's relationship to justice."
+    },
+    {
+      "canonical_name": "Pindar",
+      "surface_names": ["Pindar"],
+      "kind": "figure",
+      "figure_kind": "poet",
+      "mentions": [
+        {
+          "paragraph_id": "p-07fbfb",
+          "quote": "Such a youth would most likely put to himself the question Pindar asks, Is it by justice or by crooked deceit that I the higher tower shall scale",
+          "role": "cited as voice of the cynical reasoning that injustice may be the better path"
+        }
+      ],
+      "description": "The lyric poet whose verse is quoted to represent the temptation felt by gifted young men to choose cunning deceit over justice as the path to success.",
+      "justification": "Pindar is named and a line attributed to him is quoted as the capstone of Adeimantus's account of the corrupting effect of conventional discourse about justice."
+    },
+    {
+      "canonical_name": "Archilochus",
+      "surface_names": ["Archilochus", "most sage Archilochus"],
+      "kind": "figure",
+      "figure_kind": "poet",
+      "mentions": [
+        {
+          "paragraph_id": "p-07fbfb",
+          "quote": "trail behind me the fox of most sage Archilochus, shifty and bent on gain",
+          "role": "cited as the source of the fox-cunning model adopted by the rationally self-interested youth"
+        }
+      ],
+      "description": "The archaic iambic poet whose image of the cunning fox is invoked by Adeimantus to describe the strategy of appearing virtuous while acting unjustly.",
+      "justification": "Archilochus is named in p-07fbfb and his fox metaphor is the literary model for the cynical self-interested strategy the passage critiques."
+    },
+    {
+      "canonical_name": "Ariston",
+      "surface_names": ["Ariston"],
+      "kind": "figure",
+      "figure_kind": "historical person",
+      "mentions": [
+        {
+          "paragraph_id": "p-77b889",
+          "quote": "Sons of Ariston, whose race from a glorious sire is god-like",
+          "role": "father of Glaucon and Adeimantus, cited to praise their noble lineage"
+        }
+      ],
+      "description": "The historical father of Glaucon and Adeimantus, praised in an elegy cited by Socrates to commend the brothers' intellectual integrity in championing justice.",
+      "justification": "Ariston is named in the elegy Socrates quotes in p-77b889 to praise the divine character of Glaucon and Adeimantus."
+    },
+    {
+      "canonical_name": "Hades",
+      "surface_names": ["Hades", "house of Hades", "the world below"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-9da9cf",
+          "quote": "they conduct them to the house of Hades in their tale and arrange a symposium of the saints",
+          "role": "afterlife destination where the righteous enjoy eternal rewards according to Musaeus"
+        },
+        {
+          "paragraph_id": "p-9da9cf",
+          "quote": "the impious and the unjust they bury in mud in the house of Hades",
+          "role": "place of punishment for the unjust in the mythological tradition"
+        },
+        {
+          "paragraph_id": "p-7fd517",
+          "quote": "we shall be brought to judgement in the world below for our unjust deeds here",
+          "role": "realm of post-mortem judgment cited as a possible deterrent to injustice"
+        }
+      ],
+      "description": "The Greek underworld, invoked in this passage both as a place of post-mortem reward for the righteous and of punishment for the unjust, and used by Adeimantus to illustrate how conventional discourse about justice relies on eschatological incentives rather than justice's intrinsic value.",
+      "justification": "Hades appears three times as a concrete afterlife place central to the conventional arguments about justice that Adeimantus is critiquing."
+    },
+    {
+      "canonical_name": "Lydia",
+      "surface_names": ["Lydia", "Lydian"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-faf250",
+          "quote": "the power which men say once came to the ancestor of Gyges the Lydian. They relate that he was a shepherd in the service of the ruler at that time of Lydia",
+          "role": "kingdom setting for the Ring of Gyges myth"
+        }
+      ],
+      "description": "The ancient kingdom in Asia Minor that provides the geographic setting for the myth of the ancestor of Gyges, who used his ring of invisibility to seize its throne.",
+      "justification": "Lydia is named explicitly as the location of the Gyges myth, grounding the thought-experiment in a pseudo-historical setting."
+    },
+    {
+      "canonical_name": "Megara",
+      "surface_names": ["battle of Megara", "Megara"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-77b889",
+          "quote": "the elegy which the admirer of Glaucon wrote when you distinguished yourselves in the battle of Megara",
+          "role": "historical battle in which Glaucon and Adeimantus distinguished themselves"
+        }
+      ],
+      "description": "The city-state near Athens at which a battle was fought, cited by Socrates to locate the occasion of an elegy praising Glaucon and Adeimantus.",
+      "justification": "Megara is named as the site of the battle commemorated in the elegy Socrates quotes to praise the brothers' character."
+    },
+    {
+      "canonical_name": "Ring of Gyges",
+      "surface_names": ["ring", "gold ring", "the ring"],
+      "kind": "object",
+      "mentions": [
+        {
+          "paragraph_id": "p-faf250",
+          "quote": "there was nothing else but a gold ring on its hand, which he took off and went forth",
+          "role": "magical object enabling invisibility discovered in the bronze horse"
+        },
+        {
+          "paragraph_id": "p-76ba1f",
+          "quote": "he turned the collet of the ring towards himself, towards the inner part of his hand, and when this took place they say that he became invisible",
+          "role": "mechanism of the invisibility thought-experiment"
+        }
+      ],
+      "description": "The mythical gold ring found by the ancestor of Gyges that confers invisibility on its wearer when the collet is turned inward, used by Glaucon as a thought-experiment to argue that justice is only maintained by external constraint.",
+      "justification": "The ring is the central object of the extended thought-experiment in p-faf250 and p-76ba1f, and is the pivot on which Glaucon's argument about justice and constraint turns."
+    },
+    {
+      "canonical_name": "Zeus",
+      "surface_names": ["Zeus"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-6ff2eb",
+          "quote": "the gods themselves are moved by prayers, And men by sacrifice and soothing vows, And incense and libation turn their wills",
+          "role": "representative of gods susceptible to bribery through sacrifice, undermining moral order"
+        }
+      ],
+      "description": "The king of the Olympian gods, cited via Homer as an example of a deity who can be swayed from justice by sacrificial bribery, illustrating how conventional theological discourse corrupts the relationship between justice and divine favor.",
+      "justification": "Zeus is the implicit subject of the Homeric lines quoted in p-6ff2eb about gods being moved by prayer and sacrifice."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Three classes of goods and where justice belongs",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-71959e",
+          "quote": "do you agree that there is a kind of good which we would choose to possess, not from desire for its after effects, but welcoming it for its own sake?"
+        },
+        {
+          "paragraph_id": "p-c2d540",
+          "quote": "In my opinion, I said, it belongs in the fairest class, that which a man who is to be happy must love both for its own sake and for the results."
+        }
+      ],
+      "justification": "The dialogue opens with Glaucon's tripartite taxonomy of goods (intrinsic, mixed, purely instrumental) and the question of where justice fits, establishing the fundamental evaluative framework of the book."
+    },
+    {
+      "topic": "Justice as social contract and external constraint",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-faf250",
+          "quote": "this is the beginning of legislation and covenants between men, and that they name the commandment of the law the lawful and the just, and that this is the genesis and essential nature of justice—a compromise between the best, which is to do wrong with impunity, and the worst"
+        },
+        {
+          "paragraph_id": "p-76ba1f",
+          "quote": "no one is just of his own will but only from constraint, in the belief that justice is not his personal good"
+        }
+      ],
+      "justification": "Glaucon presents the contractarian view of justice as a compromise born of mutual weakness, anticipating later social-contract theory, and argues it is maintained only by external compulsion not inner virtue."
+    },
+    {
+      "topic": "Invisibility and the identity of justice with self-interest",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-faf250",
+          "quote": "We should then catch the just man in the very act of resorting to the same conduct as the unjust man because of the self-advantage which every creature by its nature pursues as a good"
+        },
+        {
+          "paragraph_id": "p-76ba1f",
+          "quote": "every man, when he supposes himself to have the power to do wrong, does wrong"
+        }
+      ],
+      "justification": "The Ring of Gyges thought-experiment is used to argue that under conditions of perfect impunity, the just man would behave identically to the unjust, implying justice is merely a mask for self-interest."
+    },
+    {
+      "topic": "Seeming vs. being just",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-947e15",
+          "quote": "For the height of injustice is to seem just without being so",
+          "quote2": "a simple and noble man, who, in the phrase of Aeschylus, does not wish to seem but be good"
+        },
+        {
+          "paragraph_id": "p-24c505",
+          "quote": "not to be but to seem just is what we ought to desire"
+        },
+        {
+          "paragraph_id": "p-16ad78",
+          "quote": "we shall say that it is not justice that you are praising but the semblance"
+        }
+      ],
+      "justification": "The antithesis between appearing just and being just is the structural axis of the entire window, derived from Aeschylus, and is the challenge Socrates must ultimately answer by showing what justice does to the soul independent of reputation."
+    },
+    {
+      "topic": "The perfectly just vs. the perfectly unjust man as a thought-experiment",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-947e15",
+          "quote": "we must subtract nothing of his injustice from the unjust man or of his justice from the just, but assume the perfection of each in his own mode of conduct"
+        },
+        {
+          "paragraph_id": "p-24c505",
+          "quote": "that such being his disposition the just man will have to endure the lash, the rack, chains, the branding-iron in his eyes, and finally, after every extremity of suffering, he will be crucified"
+        }
+      ],
+      "justification": "Glaucon constructs a methodological thought-experiment in which both types of person are brought to their logical extremes, forcing Socrates to compare their fates and happiness with reputation stripped away."
+    },
+    {
+      "topic": "Conventional praise of justice appealing to reputation and divine reward, not intrinsic worth",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-c47e6c",
+          "quote": "Fathers, when they address exhortations to their sons...urge the necessity of being just, not by praising justice itself, but the good repute with mankind that accrues from it"
+        },
+        {
+          "paragraph_id": "p-9da9cf",
+          "quote": "Musaeus and his son have a more excellent song than these of the blessings that the gods bestow on the righteous. For they conduct them to the house of Hades in their tale and arrange a symposium of the saints"
+        }
+      ],
+      "justification": "Adeimantus demonstrates that all conventional defenses of justice, including those of Hesiod, Homer, and Musaeus, ground justice in external benefits (reputation, divine favor, afterlife rewards) and never in its intrinsic effect on the soul."
+    },
+    {
+      "topic": "Corruption of the soul by poetic and religious discourse about gods and justice",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-6ff2eb",
+          "quote": "begging priests and soothsayers go to rich men's doors and make them believe that they by means of sacrifices and incantations have accumulated a treasure of power from the gods that can expiate and cure with pleasurable festivals any misdeed"
+        },
+        {
+          "paragraph_id": "p-07fbfb",
+          "quote": "they produce a bushel of books of Musaeus and Orpheus...and make not only ordinary men but states believe that there really are remissions of sins and purifications for deeds of injustice"
+        }
+      ],
+      "justification": "Adeimantus argues that poetic and ritual traditions corrupt young minds by making injustice appear risk-free through the promise of ritual expiation, thus dissolving the incentive to be genuinely just."
+    },
+    {
+      "topic": "The soul's need for an intrinsic account of justice's goodness",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-7fd517",
+          "quote": "what each one of them is in itself, by its own inherent force, when it is within the soul of the possessor and escapes the eyes of both gods and men, no one has ever adequately set forth"
+        },
+        {
+          "paragraph_id": "p-16ad78",
+          "quote": "make clear to us what each in and of itself does to its possessor, whereby the one is evil and the other good"
+        }
+      ],
+      "justification": "The culminating demand of the window is for Socrates to explain what justice and injustice do to the soul intrinsically, stripped of all external consequences — this is the question the rest of the Republic attempts to answer."
+    },
+    {
+      "topic": "The origin of the city from human need and the division of labor",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-c29e30",
+          "quote": "The origin of the city, then, said I, in my opinion, is to be found in the fact that we do not severally suffice for our own needs, but each of us lacks many things"
+        },
+        {
+          "paragraph_id": "p-e03351",
+          "quote": "more things are produced, and better and more easily when one man performs one task according to his nature, at the right moment, and at leisure from other occupations"
+        }
+      ],
+      "justification": "Socrates introduces his method of reading justice writ large in the city by tracing the polis to its origin in mutual need and the principle of natural specialization — the foundation of his political philosophy."
+    },
+    {
+      "topic": "The city as analogy for the soul in the inquiry into justice",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-77b889",
+          "quote": "there is a justice of one man, we say, and, I suppose, also of an entire city. Is not the city larger than the man?"
+        },
+        {
+          "paragraph_id": "p-c29e30",
+          "quote": "let us first look for its quality in states, and then only examine it also in the individual, looking for the likeness of the greater in the form of the less"
+        }
+      ],
+      "justification": "Socrates's famous methodological move — examining the city as a magnified image of the soul — is implicit in the analogy of reading large letters before small ones, establishing the structural logic that drives Books 2-4."
+    },
+    {
+      "topic": "Rational self-interest as the true motive underlying all conduct",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-faf250",
+          "quote": "self-advantage which every creature by its nature pursues as a good"
+        },
+        {
+          "paragraph_id": "p-07fbfb",
+          "quote": "Is it by justice or by crooked deceit that I the higher tower shall scale and so live my life out in fenced and guarded security?"
+        }
+      ],
+      "justification": "The entire argument of Glaucon and Adeimantus rests on the implicit psychological premise that all human action is ultimately motivated by self-interest, which Socrates must refute or reframe when he answers their challenge."
+    },
+    {
+      "topic": "The theological problem: is God the cause of evil?",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-6ff2eb",
+          "quote": "the gods themselves assign to many good men misfortunes and an evil life but to their opposites a contrary lot"
+        },
+        {
+          "paragraph_id": "p-07fbfb",
+          "quote": "if there are no gods, or they do not concern themselves with the doings of men, neither need we concern ourselves with eluding their observation"
+        }
+      ],
+      "justification": "Adeimantus raises the problem of theodicy — that conventional theology cannot explain why the gods allow bad outcomes for the just — which undermines religious deterrents to injustice and anticipates Plato's theological reform later in the book."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Works and Days",
+      "cited_author": "Hesiod",
+      "stance": "authority",
+      "paragraph_id": "p-c47e6c",
+      "quote": "the worthy Hesiod and Homer declare, the one that the gods make the oaks bear for the just: Acorns on topmost branches and swarms of bees on their mid-trunks",
+      "justification": "Adeimantus explicitly quotes Hesiod's Works and Days as an authority that conventional piety invokes to argue that justice brings earthly abundance — cited to show that even venerable poets reduce justice to external rewards."
+    },
+    {
+      "cited_work": "Odyssey (or Iliad)",
+      "cited_author": "Homer",
+      "stance": "authority",
+      "paragraph_id": "p-c47e6c",
+      "quote": "Even as when a good king, who rules in the fear of the high gods, Upholds justice and right, and the black earth yields him her foison",
+      "justification": "Homer's verse about the just king whose land flourishes is quoted as a poetic authority for the conventional view that justice is rewarded with earthly prosperity."
+    },
+    {
+      "cited_work": "Iliad (or Odyssey — prayer passage)",
+      "cited_author": "Homer",
+      "stance": "authority",
+      "paragraph_id": "p-6ff2eb",
+      "quote": "The gods themselves are moved by prayers, And men by sacrifice and soothing vows, And incense and libation turn their wills",
+      "justification": "A second Homeric citation, used by Adeimantus to show that Homer himself supports the view that the gods can be swayed from justice by prayer and sacrifice, thereby undermining divine moral governance."
+    },
+    {
+      "cited_work": "Seven Against Thebes (attributed phrase)",
+      "cited_author": "Aeschylus",
+      "stance": "authority",
+      "paragraph_id": "p-947e15",
+      "quote": "a simple and noble man, who, in the phrase of Aeschylus, does not wish to seem but be good",
+      "justification": "Glaucon cites Aeschylus's phrase about wishing to be rather than to seem good, using it as a literary touchstone for the character of the ideally just man in his thought-experiment."
+    },
+    {
+      "cited_work": "Uncertain Aeschylean verse",
+      "cited_author": "Aeschylus",
+      "stance": "authority",
+      "paragraph_id": "p-24c505",
+      "quote": "the unjust man, as pursuing what clings closely to reality, to truth, and not regulating his life by opinion, desires not to seem but to be unjust, Exploiting the deep furrows of his wit From which there grows the fruit of counsels shrewd",
+      "justification": "Adeimantus ironically re-applies Aeschylean language to the unjust man, using Aeschylus as an unwitting authority for the depth of the unjust man's cunning."
+    },
+    {
+      "cited_work": "Uncertain poem (Pindar)",
+      "cited_author": "Pindar",
+      "stance": "authority",
+      "paragraph_id": "p-07fbfb",
+      "quote": "Is it by justice or by crooked deceit that I the higher tower shall scale and so live my life out in fenced and guarded security?",
+      "justification": "Pindar's verse is quoted as the articulation of the cynical question a gifted youth might ask after absorbing the conventional discourse about justice — cited as evidence of the corrupting effect of poetic authority."
+    },
+    {
+      "cited_work": "Orestes (Euripides)",
+      "cited_author": "Euripides",
+      "stance": "authority",
+      "paragraph_id": "p-07fbfb",
+      "quote": "Eur. Orest. 236 as the wise men show me, that masters the reality and is lord of happiness",
+      "justification": "A reference to Euripides's Orestes is embedded in the text (cited as 'Eur. Orest. 236'), attributed to the 'wise men' who argue that seeming is lord of happiness — used to demonstrate how tragic poets reinforce the priority of appearance over reality."
+    }
+  ]
+}

@@ -1,0 +1,402 @@
+[
+  {
+    "ref": "3.211.13",
+    "sanskrit": "indreṇa sahitaṃ yasya havir āgrayaṇaṃ smṛtam agnir āgrayaṇo nāma bhānor evānvayas tu saḥ",
+    "english": "That fire whose oblation offered together with Indra is known as the āgrayaṇa — that fire is called Āgrayaṇa, and he too is a descendant of Bhānu."
+  },
+  {
+    "ref": "3.211.14",
+    "sanskrit": "cāturmāsyeṣu nityānāṃ haviṣāṃ yo niragrahaḥ caturbhiḥ sahitaḥ putrair bhānor evānvayas tu saḥ",
+    "english": "That fire which, in the cāturmāsya rites, receives the regular oblations without interruption, accompanied by four sons — he too is a descendant of Bhānu."
+  },
+  {
+    "ref": "3.211.15",
+    "sanskrit": "niśāṃ tv ajanayat kanyām agnīṣomāv ubhau tathā manor evābhavad bhāryā suṣuve pañca pāvakān",
+    "english": "Night herself bore a daughter, and both Agni and Soma likewise; she who had been Manu's wife gave birth to five purifying fires."
+  },
+  {
+    "ref": "3.211.16",
+    "sanskrit": "pūjyate haviṣāgryeṇa cāturmāsyeṣu pāvakaḥ parjanyasahitaḥ śrīmān agnir vaiśvānaras tu saḥ",
+    "english": "That fire who is worshipped with the choicest oblations in the cāturmāsya ceremonies, the glorious one who acts together with Parjanya — he is known as Vaiśvānara."
+  },
+  {
+    "ref": "3.211.17",
+    "sanskrit": "asya lokasya sarvasya yaḥ patiḥ paripaṭhyate so 'gnir viśvapatir nāma dvitīyo vai manoḥ sutaḥ tataḥ sviṣṭaṃ bhaved ājyaṃ sviṣṭakṛt paramaḥ smṛtaḥ",
+    "english": "That fire who is celebrated as the lord of this entire world is named Viśvapati, the second son of Manu; through him the offered ghee becomes truly well-offered, and he is accordingly called Sviṣṭakṛt, the supreme maker of perfect sacrifice."
+  },
+  {
+    "ref": "3.211.18",
+    "sanskrit": "kanyā sā rohiṇī nāma hiraṇyakaśipoḥ sutā karmaṇāsau babhau bhāryā sa vahniḥ sa prajāpatiḥ",
+    "english": "That maiden called Rohiṇī, daughter of Hiraṇyakaśipu, became his wife by his own action; that fire is also a Prajāpati."
+  },
+  {
+    "ref": "3.211.19",
+    "sanskrit": "prāṇam āśritya yo dehaṃ pravartayati dehinām tasya saṃnihito nāma śabdarūpasya sādhanaḥ",
+    "english": "That fire who, abiding in the vital breath, sustains the bodies of embodied beings — he is named Saṃnihita, the accomplisher of sound and form."
+  },
+  {
+    "ref": "3.211.20",
+    "sanskrit": "śuklakṛṣṇagatir devo yo bibharti hutāśanam akalmaṣaḥ kalmaṣāṇāṃ kartā krodhāśritas tu saḥ",
+    "english": "That deity who moves along both the bright and dark paths and sustains the fire of oblation — he is himself without blemish yet is the cause of impurities in others, and he abides in wrath."
+  },
+  {
+    "ref": "3.211.21",
+    "sanskrit": "kapilaṃ paramarṣiṃ ca yaṃ prāhur yatayaḥ sadā agniḥ sa kapilo nāma sāṃkhyayogapravartakaḥ",
+    "english": "That fire whom ascetics always proclaim as the great sage Kapila — he is named Kapila, the inaugurator of the Sāṃkhya yoga."
+  },
+  {
+    "ref": "3.211.22",
+    "sanskrit": "agnir yacchati bhūtāni yena bhūtāni nityadā karmasv iha vicitreṣu so 'graṇīr vahnir ucyate",
+    "english": "That fire by whom beings are constantly set in motion among the varied activities of this world — he is called Agraṇī, the foremost fire."
+  },
+  {
+    "ref": "3.211.23",
+    "sanskrit": "imān anyān samasṛjat pāvakān prathitān bhuvi agnihotrasya duṣṭasya prāyaścittārtham ulbaṇān",
+    "english": "He created these and other well-known purifying fires on earth — fierce ones, meant as expiations for the defiled agnihotra."
+  },
+  {
+    "ref": "3.211.24",
+    "sanskrit": "saṃspṛśeyur yadānyonyaṃ kathaṃ cid vāyunāgnayaḥ iṣṭir aṣṭākapālena kāryā vai śucaye 'gnaye",
+    "english": "If the fires should somehow come into contact with one another through the wind, an eight-potsherd iṣṭi offering must be performed for the fire called Śuci."
+  },
+  {
+    "ref": "3.211.25",
+    "sanskrit": "dakṣiṇāgnir yadā dvābhyāṃ saṃsṛjeta tadā kila iṣṭir aṣṭākapālena kāryā vai vītaye 'gnaye",
+    "english": "If the southern fire should become commingled with the other two, then an eight-potsherd iṣṭi offering must be performed for the fire called Vīta."
+  },
+  {
+    "ref": "3.211.26",
+    "sanskrit": "yady agnayo hi spṛśyeyur niveśasthā davāgninā iṣṭir aṣṭākapālena kāryā tu śucaye 'gnaye",
+    "english": "If the sacred fires kept in the household should be touched by a forest fire, an eight-potsherd iṣṭi offering must be performed for the fire called Śuci."
+  },
+  {
+    "ref": "3.211.27",
+    "sanskrit": "agniṃ rajasvalā cet strī saṃspṛśed agnihotrikam iṣṭir aṣṭākapālena kāryā dasyumate 'gnaye",
+    "english": "If a woman in her impure state should touch the agnihotra fire, an eight-potsherd iṣṭi offering must be performed for the fire called Dasyumant."
+  },
+  {
+    "ref": "3.211.28",
+    "sanskrit": "mṛtaḥ śrūyeta yo jīvan pareyuḥ paśavo yathā iṣṭir aṣṭākapālena kartavyābhimate 'gnaye",
+    "english": "If someone who was reported dead is heard to be alive, or if livestock perish, an eight-potsherd iṣṭi offering must be performed for the fire called Abhimata."
+  },
+  {
+    "ref": "3.211.29",
+    "sanskrit": "ārto na juhuyād agniṃ trirātraṃ yas tu brāhmaṇaḥ iṣṭir aṣṭākapālena kāryā syād uttarāgnaye",
+    "english": "If a brahmin who is afflicted fails to offer into the fire for three nights, an eight-potsherd iṣṭi offering must be performed for the fire called Uttarāgni."
+  },
+  {
+    "ref": "3.211.30",
+    "sanskrit": "darśaṃ ca paurṇamāsaṃ ca yasya tiṣṭhet pratiṣṭhitam iṣṭir aṣṭākapālena kāryā pathikṛte 'gnaye",
+    "english": "If the new-moon and full-moon observances remain established but are neglected, an eight-potsherd iṣṭi offering must be performed for the fire called Pathikṛt."
+  },
+  {
+    "ref": "3.211.31",
+    "sanskrit": "sūtikāgnir yadā cāgniṃ saṃspṛśed agnihotrikam iṣṭir aṣṭākapālena kāryā cāgnimate 'gnaye",
+    "english": "If the fire of the birthing chamber should touch the agnihotra fire, an eight-potsherd iṣṭi offering must be performed for the fire called Agnimant."
+  },
+  {
+    "ref": "3.212.1",
+    "sanskrit": "mārkaṇḍeya uvāca āpasya muditā bhāryā sahasya paramā priyā bhūpatir bhuvabhartā ca janayat pāvakaṃ param",
+    "english": "Mārkaṇḍeya said: The joyful wife of Āpa and the most beloved wife of Saha — together with Bhūpati and Bhuvabhartā — gave birth to the supreme purifying fire."
+  },
+  {
+    "ref": "3.212.2",
+    "sanskrit": "bhūtānāṃ cāpi sarveṣāṃ yaṃ prāhuḥ pāvakaṃ patim ātmā bhuvanabharteti sānvayeṣu dvijātiṣu",
+    "english": "Him whom they call the lord and purifier of all beings, the self and sustainer of the world — so he is proclaimed among twice-born men with their lineages."
+  },
+  {
+    "ref": "3.212.3",
+    "sanskrit": "mahatāṃ caiva bhūtānāṃ sarveṣām iha yaḥ patiḥ bhagavān sa mahātejā nityaṃ carati pāvakaḥ",
+    "english": "He who is the lord of all great beings in this world — that blessed, supremely radiant purifying fire moves perpetually through all things."
+  },
+  {
+    "ref": "3.212.4",
+    "sanskrit": "agnir gṛhapatir nāma nityaṃ yajñeṣu pūjyate hutaṃ vahati yo havyam asya lokasya pāvakaḥ",
+    "english": "The fire named Gṛhapati is perpetually worshipped in sacrificial rites; he it is who carries the oblations that are offered — the purifier of this world."
+  },
+  {
+    "ref": "3.212.5",
+    "sanskrit": "apāṃ garbho mahābhāgaḥ sahaputro mahādbhutaḥ bhūpatir bhuvabhartā ca mahataḥ patir ucyate",
+    "english": "The glorious embryo of the waters, the wondrous son of Saha, Bhūpati, and Bhuvabhartā — he is called the lord of the great."
+  },
+  {
+    "ref": "3.212.6",
+    "sanskrit": "dahan mṛtāni bhūtāni tasyāgnir bharato 'bhavat agniṣṭome ca niyataḥ kratuśreṣṭho bharasya tu",
+    "english": "Burning the dead bodies of beings, Bharata became his fire; and in the agniṣṭoma rite, ordained as the foremost of sacrifices, he is the fire of Bharata."
+  },
+  {
+    "ref": "3.212.7",
+    "sanskrit": "āyāntaṃ niyataṃ dṛṣṭvā praviveśārṇavaṃ bhayāt devās taṃ nādhigacchanti mārgamāṇā yathādiśam",
+    "english": "Seeing one who was surely coming toward them, fire hid himself in the ocean out of fear; the gods could not find him though they searched in every direction."
+  },
+  {
+    "ref": "3.212.8",
+    "sanskrit": "dṛṣṭvā tv agnir atharvāṇaṃ tato vacanam abravīt devānāṃ vaha havyaṃ tvam ahaṃ vīra sudurbalaḥ atharvan gaccha madhvakṣaṃ priyam etat kuruṣva me",
+    "english": "But when fire saw Atharvan, he then spoke these words: \"O hero, carry the oblations of the gods yourself — I am extremely weak. O Atharvan, go to the sweet-eyed one; do me this favour.\""
+  },
+  {
+    "ref": "3.212.9",
+    "sanskrit": "preṣya cāgnir atharvāṇam anyaṃ deśaṃ tato 'gamat matsyās tasya samācakhyuḥ kruddhas tān agnir abravīt",
+    "english": "Having sent Atharvan away, fire then departed to another region; but the fish reported his whereabouts. Angered, fire spoke to them."
+  },
+  {
+    "ref": "3.212.10",
+    "sanskrit": "bhakṣyā vai vividhair bhāvair bhaviṣyatha śarīriṇām atharvāṇaṃ tathā cāpi havyavāho 'bravīd vacaḥ",
+    "english": "\"You shall become food for embodied beings in many ways and conditions!\" — thus fire the oblation-carrier also spoke his words to Atharvan."
+  },
+  {
+    "ref": "3.212.11",
+    "sanskrit": "anunīyamāno 'pi bhṛśaṃ devavākyād dhi tena saḥ naicchad voḍhuṃ haviḥ sarvaṃ śarīraṃ ca samatyajat",
+    "english": "Though greatly entreated by him with the words of the gods, fire still refused to carry all the oblations and abandoned his body entirely."
+  },
+  {
+    "ref": "3.212.12",
+    "sanskrit": "sa tac charīraṃ saṃtyajya praviveśa dharāṃ tadā bhūmiṃ spṛṣṭvāsṛjad dhātūn pṛthak pṛthag atīva hi",
+    "english": "Having cast off that body, he then entered the earth; and upon touching the ground he released the various minerals, one by one, in great profusion."
+  },
+  {
+    "ref": "3.212.13",
+    "sanskrit": "āsyāt sugandhi tejaś ca asthibhyo devadāru ca śleṣmaṇaḥ sphaṭikaṃ tasya pittān marakataṃ tathā",
+    "english": "From his mouth came fragrant radiance and from his bones came the deva-dāru tree; from his phlegm came crystal, and from his bile came the emerald."
+  },
+  {
+    "ref": "3.212.14",
+    "sanskrit": "yakṛt kṛṣṇāyasaṃ tasya tribhir eva babhuḥ prajāḥ nakhās tasyābhrapaṭalaṃ śirājālāni vidrumam śarīrād vividhāś cānye dhātavo 'syābhavan nṛpa",
+    "english": "From his liver came black iron; through him three classes of creatures came into being; from his nails came layers of cloud, from his network of veins came coral, and from his body came many other diverse minerals, O king."
+  },
+  {
+    "ref": "3.212.15",
+    "sanskrit": "evaṃ tyaktvā śarīraṃ tu parame tapasi sthitaḥ bhṛgvaṅgirādibhir bhūyas tapasotthāpitas tadā",
+    "english": "Having thus abandoned his body and remaining in supreme austerity, he was once again raised up from his penance by Bhṛgu, Aṅgiras, and the others."
+  },
+  {
+    "ref": "3.212.16",
+    "sanskrit": "bhṛśaṃ jajvāla tejasvī tapasāpyāyitaḥ śikhī dṛṣṭvā ṛṣīn bhayāc cāpi praviveśa mahārṇavam",
+    "english": "Blazing intensely, his flame nourished and swelled by austerity, he saw the sages and from fear entered the great ocean once more."
+  },
+  {
+    "ref": "3.212.17",
+    "sanskrit": "tasmin naṣṭe jagad bhītam atharvāṇam athāśritam arcayām āsur evainam atharvāṇaṃ surarṣayaḥ",
+    "english": "When he had vanished, the world was seized with fear and took refuge in Atharvan; the divine sages then worshipped Atharvan himself."
+  },
+  {
+    "ref": "3.212.18",
+    "sanskrit": "atharvā tv asṛjal lokān ātmanālokya pāvakam miṣatāṃ sarvabhūtānām unmamātha mahārṇavam",
+    "english": "Then Atharvan, perceiving fire within himself, created the worlds, and before the eyes of all beings he churned up the great ocean."
+  },
+  {
+    "ref": "3.212.19",
+    "sanskrit": "evam agnir bhagavatā naṣṭaḥ pūrvam atharvaṇā āhūtaḥ sarvabhūtānāṃ havyaṃ vahati sarvadā",
+    "english": "Thus fire, who had previously vanished, was called back by the blessed Atharvan, and henceforth he forever carries the oblations for all beings."
+  },
+  {
+    "ref": "3.212.20",
+    "sanskrit": "evaṃ tv ajanayad dhiṣṇyān vedoktān vibudhān bahūn vicaran vividhān deśān bhramamāṇas tu tatra vai",
+    "english": "And so, wandering and roaming through many and various lands, he fathered the divine fire-altars — many wise ones as declared in the Vedas."
+  },
+  {
+    "ref": "3.212.21",
+    "sanskrit": "sindhuvarjaṃ pañca nadyo devikātha sarasvatī gaṅgā ca śatakumbhā ca śarayūr gaṇḍasāhvayā",
+    "english": "Excluding the Sindhu, five rivers — Devikā, Sarasvatī, Gaṅgā, Śatakumbhā, Śarayū, and the one called Gaṇḍa —"
+  },
+  {
+    "ref": "3.212.22",
+    "sanskrit": "carmaṇvatī mahī caiva medhyā medhātithis tathā tāmrāvatī vetravatī nadyas tisro 'tha kauśikī",
+    "english": "Carmaṇvatī, Mahī, Medhyā, Medhātithi, Tāmrāvatī, Vetravatī, those three rivers, and Kauśikī —"
+  },
+  {
+    "ref": "3.212.23",
+    "sanskrit": "tamasā narmadā caiva nadī godāvarī tathā veṇṇā praveṇī bhīmā ca medrathā caiva bhārata",
+    "english": "Tamasā, Narmadā, the river Godāvarī, Veṇṇā, Praveṇī, Bhīmā, and Medrathā, O Bhārata —"
+  },
+  {
+    "ref": "3.212.24",
+    "sanskrit": "bhāratī suprayogā ca kāverī murmurā tathā kṛṣṇā ca kṛṣṇaveṇṇā ca kapilā śoṇa eva ca etā nadyas tu dhiṣṇyānāṃ mātaro yāḥ prakīrtitāḥ",
+    "english": "Bhāratī, Suprayogā, Kāverī, Murmurā, Kṛṣṇā, Kṛṣṇaveṇṇā, Kapilā, and Śoṇa — these rivers, which are proclaimed, are the mothers of the fire-altars."
+  },
+  {
+    "ref": "3.212.25",
+    "sanskrit": "adbhutasya priyā bhāryā tasyāḥ putro viḍūrathaḥ yāvantaḥ pāvakāḥ proktāḥ somās tāvanta eva ca",
+    "english": "The beloved wife of Adbhuta bore a son named Viḍūratha; and as many purifying fires as have been named, so many somas there are as well."
+  },
+  {
+    "ref": "3.212.26",
+    "sanskrit": "atreś cāpy anvaye jātā brahmaṇo mānasāḥ prajāḥ atriḥ putrān sraṣṭukāmas tān evātmany adhārayat tasya tad brahmaṇaḥ kāyān nirharanti hutāśanāḥ",
+    "english": "The mind-born offspring of Brahman were also born in the lineage of Atri; Atri, wishing to create sons, held them within himself, and the oblation-carrying fires draw them forth from the bodies of that brahmic power."
+  },
+  {
+    "ref": "3.212.27",
+    "sanskrit": "evam ete mahātmānaḥ kīrtitās te 'gnayo mayā aprameyā yathotpannāḥ śrīmantas timirāpahāḥ",
+    "english": "Thus have I recounted these great-souled fires to you — immeasurable in their origins, glorious, destroyers of darkness."
+  },
+  {
+    "ref": "3.212.28",
+    "sanskrit": "adbhutasya tu māhātmyaṃ yathā vedeṣu kīrtitam tādṛśaṃ viddhi sarveṣām eko hy eṣa hutāśanaḥ",
+    "english": "Know that the greatness of Adbhuta, as it is celebrated in the Vedas, is that of all of them together — for this oblation-carrier is truly the one fire."
+  },
+  {
+    "ref": "3.212.29",
+    "sanskrit": "eka evaiṣa bhagavān vijñeyaḥ prathamo 'ṅgirāḥ bahudhā niḥsṛtaḥ kāyāj jyotiṣṭomaḥ kratur yathā",
+    "english": "This blessed one is to be known as one alone — the primeval Aṅgiras; he has issued forth in manifold forms from his body, just as the Jyotiṣṭoma sacrifice does from its single rite."
+  },
+  {
+    "ref": "3.212.30",
+    "sanskrit": "ity eṣa vaṃśaḥ sumahān agnīnāṃ kīrtito mayā pāvito vividhair mantrair havyaṃ vahati dehinām",
+    "english": "Thus this supremely great lineage of fires has been recounted by me; purified by various sacred formulas, he carries the oblations for all embodied beings."
+  },
+  {
+    "ref": "3.213.1",
+    "sanskrit": "mārkaṇḍeya uvāca agnīnāṃ vividho vaṃśaḥ kīrtitas te mayānagha śṛṇu janma tu kauravya kārttikeyasya dhīmataḥ",
+    "english": "Mārkaṇḍeya said: The manifold lineage of fires has been recounted to you by me, O sinless one. Now hear, O Kauravya, the birth of the wise Kārttikeya."
+  },
+  {
+    "ref": "3.213.2",
+    "sanskrit": "adbhutasyādbhutaṃ putraṃ pravakṣyāmy amitaujasam jātaṃ saptarṣibhāryābhir brahmaṇyaṃ kīrtivardhanam",
+    "english": "I shall tell of the wondrous son of Adbhuta — of immeasurable might, born through the wives of the Seven Sages, devoted to brahmin virtues, and the increaser of glory."
+  },
+  {
+    "ref": "3.213.3",
+    "sanskrit": "devāsurāḥ purā yattā vinighnantaḥ parasparam tatrājayan sadā devān dānavā ghorarūpiṇaḥ",
+    "english": "In former times, gods and demons were constantly engaged in slaying one another; and in those battles the fearsome-formed dānavas always conquered the gods."
+  },
+  {
+    "ref": "3.213.4",
+    "sanskrit": "vadhyamānaṃ balaṃ dṛṣṭvā bahuśas taiḥ puraṃdaraḥ svasainyanāyakārthāya cintām āpa bhṛśaṃ tadā",
+    "english": "Seeing his forces repeatedly slaughtered by them, Puraṃdara fell into deep anxiety as to how he might find a leader for his own army."
+  },
+  {
+    "ref": "3.213.5",
+    "sanskrit": "devasenāṃ dānavair yo bhagnāṃ dṛṣṭvā mahābalaḥ pālayed vīryam āśritya sa jñeyaḥ puruṣo mayā",
+    "english": "\"That supremely mighty man who, seeing the divine army broken by the demons, would protect it by relying on his own valour — he is the one I must find.\""
+  },
+  {
+    "ref": "3.213.6",
+    "sanskrit": "sa śailaṃ mānasaṃ gatvā dhyāyann artham imaṃ bhṛśam śuśrāvārtasvaraṃ ghoram atha muktaṃ striyā tadā",
+    "english": "Going to the Mānasa mountain and brooding deeply on this matter, he then heard a terrible cry of distress that had been let out by a woman."
+  },
+  {
+    "ref": "3.213.7",
+    "sanskrit": "abhidhāvatu mā kaś cit puruṣas trātu caiva ha patiṃ ca me pradiśatu svayaṃ vā patir astu me",
+    "english": "\"Let some man come running to me! Let him rescue me! Let him point out a husband for me, or let him become my husband himself!\""
+  },
+  {
+    "ref": "3.213.8",
+    "sanskrit": "puraṃdaras tu tām āha mā bhair nāsti bhayaṃ tava evam uktvā tato 'paśyat keśinaṃ sthitam agrataḥ",
+    "english": "Puraṃdara said to her: \"Do not be afraid; you have nothing to fear.\" Having spoken thus, he then saw Keśin standing before him."
+  },
+  {
+    "ref": "3.213.9",
+    "sanskrit": "kirīṭinaṃ gadāpāṇiṃ dhātumantam ivācalam haste gṛhītvā tāṃ kanyām athainaṃ vāsavo 'bravīt",
+    "english": "Wearing a diadem, mace in hand, like a mountain rich with ores — he was holding the maiden by the arm. Then Vāsava spoke to him."
+  },
+  {
+    "ref": "3.213.10",
+    "sanskrit": "anāryakarman kasmāt tvam imāṃ kanyāṃ jihīrṣasi vajriṇaṃ māṃ vijānīhi viramāsyāḥ prabādhanāt",
+    "english": "\"Why do you, who do the deeds of the ignoble, seek to carry off this maiden? Know me to be the bearer of the thunderbolt — desist from tormenting her!\""
+  },
+  {
+    "ref": "3.213.11",
+    "sanskrit": "keśy uvāca visṛjasva tvam evaināṃ śakraiṣā prārthitā mayā kṣamaṃ te jīvato gantuṃ svapuraṃ pākaśāsana",
+    "english": "Keśin said: \"You, Śakra, should let her go — she has been desired by me. It would be wise for you, still living, to go back to your own city, O Pākaśāsana.\""
+  },
+  {
+    "ref": "3.213.12",
+    "sanskrit": "mārkaṇḍeya uvāca evam uktvā gadāṃ keśī cikṣependravadhāya vai tām āpatantīṃ ciccheda madhye vajreṇa vāsavaḥ",
+    "english": "Mārkaṇḍeya said: Having spoken thus, Keśin hurled his mace intending to kill Indra; but Vāsava cut it in two in the middle with his thunderbolt as it came flying at him."
+  },
+  {
+    "ref": "3.213.13",
+    "sanskrit": "athāsya śailaśikharaṃ keśī kruddho vyavāsṛjat tad āpatantaṃ saṃprekṣya śailaśṛṅgaṃ śatakratuḥ bibheda rājan vajreṇa bhuvi tan nipapāta ha",
+    "english": "Then Keśin, enraged, hurled a mountain peak at him; but Śatakratu, watching it as it flew toward him, shattered that mountain crag with his thunderbolt, O king, and it fell to the ground."
+  },
+  {
+    "ref": "3.213.14",
+    "sanskrit": "patatā tu tadā keśī tena śṛṅgeṇa tāḍitaḥ hitvā kanyāṃ mahābhāgāṃ prādravad bhṛśapīḍitaḥ",
+    "english": "But as it fell, Keśin was struck by that very crag; and sorely wounded, he abandoned the illustrious maiden and fled."
+  },
+  {
+    "ref": "3.213.15",
+    "sanskrit": "apayāte 'sure tasmiṃs tāṃ kanyāṃ vāsavo 'bravīt kāsi kasyāsi kiṃ ceha kuruṣe tvaṃ śubhānane",
+    "english": "When that demon had departed, Vāsava said to the maiden: \"Who are you? Whose are you? And what are you doing here, O fair-faced one?\""
+  },
+  {
+    "ref": "3.213.16",
+    "sanskrit": "kanyovāca ahaṃ prajāpateḥ kanyā devaseneti viśrutā bhaginī daityasenā me sā pūrvaṃ keśinā hṛtā",
+    "english": "The maiden said: \"I am the daughter of Prajāpati, known by the name Devasenā; my sister Daityasenā was previously abducted by Keśin.\""
+  },
+  {
+    "ref": "3.213.17",
+    "sanskrit": "sahaivāvāṃ bhaginyau tu sakhībhiḥ saha mānasam āgacchāveha ratyartham anujñāpya prajāpatim",
+    "english": "\"We two sisters came together with our companions to the Mānasa lake for pleasure, having taken leave of Prajāpati.\""
+  },
+  {
+    "ref": "3.213.18",
+    "sanskrit": "nityaṃ cāvāṃ prārthayate hartuṃ keśī mahāsuraḥ icchaty enaṃ daityasenā na tv ahaṃ pākaśāsana",
+    "english": "\"And the great demon Keśin always desires to carry off both of us; Daityasenā wishes him as a husband, but I do not, O Pākaśāsana.\""
+  },
+  {
+    "ref": "3.213.19",
+    "sanskrit": "sā hṛtā tena bhagavan muktāhaṃ tvadbalena tu tvayā devendra nirdiṣṭaṃ patim icchāmi durjayam",
+    "english": "\"She has been carried off by him, O blessed one, while I have been freed by your strength. O Devendra, I desire the husband you shall appoint for me — one who is invincible.\""
+  },
+  {
+    "ref": "3.213.20",
+    "sanskrit": "indra uvāca mama mātṛṣvaseyā tvaṃ mātā dākṣāyaṇī mama ākhyātaṃ tv aham icchāmi svayam ātmabalaṃ tvayā",
+    "english": "Indra said: \"You are the niece of my mother, the daughter of Dakṣa's daughter. But I wish you yourself to declare your own inherent power.\""
+  },
+  {
+    "ref": "3.213.21",
+    "sanskrit": "kanyovāca abalāhaṃ mahābāho patis tu balavān mama varadānāt pitur bhāvī surāsuranamaskṛtaḥ",
+    "english": "The maiden said: \"I myself am without power, O mighty-armed one, but my husband shall be powerful; by the boon of my father he will come to be, and he will be bowed to by both gods and demons.\""
+  },
+  {
+    "ref": "3.213.22",
+    "sanskrit": "indra uvāca kīdṛśaṃ vai balaṃ devi patyus tava bhaviṣyati etad icchāmy ahaṃ śrotuṃ tava vākyam anindite",
+    "english": "Indra said: \"What manner of power, O goddess, will your husband possess? I wish to hear this from your own words, O blameless one.\""
+  },
+  {
+    "ref": "3.213.23",
+    "sanskrit": "kanyovāca devadānavayakṣāṇāṃ kiṃnaroragarakṣasām jetā sa dṛṣṭo duṣṭānāṃ mahāvīryo mahābalaḥ",
+    "english": "The maiden said: \"He is seen as the conqueror of gods, demons, yakṣas, kiṃnaras, nāgas, and rākṣasas, and of all the wicked — great in heroism and great in strength.\""
+  },
+  {
+    "ref": "3.213.24",
+    "sanskrit": "yas tu sarvāṇi bhūtāni tvayā saha vijeṣyati sa hi me bhavitā bhartā brahmaṇyaḥ kīrtivardhanaḥ",
+    "english": "\"He who shall conquer all beings together with you — he shall indeed be my husband, devoted to brahmin virtues and the increaser of glory.\""
+  },
+  {
+    "ref": "3.213.25",
+    "sanskrit": "mārkaṇḍeya uvāca indras tasyā vacaḥ śrutvā duḥkhito 'cintayad bhṛśam asyā devyāḥ patir nāsti yādṛśaṃ saṃprabhāṣate",
+    "english": "Mārkaṇḍeya said: Hearing her words, Indra was troubled and brooded deeply: \"There is no one who possesses the qualities this goddess speaks of.\""
+  },
+  {
+    "ref": "3.213.26",
+    "sanskrit": "athāpaśyat sa udaye bhāskaraṃ bhāskaradyutiḥ somaṃ caiva mahābhāgaṃ viśamānaṃ divākaram",
+    "english": "Then he whose radiance rivals the sun's beheld the sun rising, and the glorious moon as well, entering the sun."
+  },
+  {
+    "ref": "3.213.27",
+    "sanskrit": "amāvāsyāṃ saṃpravṛttaṃ muhūrtaṃ raudram eva ca devāsuraṃ ca saṃgrāmaṃ so 'paśyad udaye girau",
+    "english": "He saw the auspicious new-moon moment arriving, and the raudra muhūrta as well, and the battle between gods and demons at the rising mountain."
+  },
+  {
+    "ref": "3.213.28",
+    "sanskrit": "lohitaiś ca ghanair yuktāṃ pūrvāṃ saṃdhyāṃ śatakratuḥ apaśyal lohitodaṃ ca bhagavān varuṇālayam",
+    "english": "Śatakratu, the blessed one, beheld the eastern dawn filled with reddish clouds, and the ocean — Varuṇa's abode — flushed red with their reflection."
+  },
+  {
+    "ref": "3.213.29",
+    "sanskrit": "bhṛgubhiś cāṅgirobhiś ca hutaṃ mantraiḥ pṛthagvidhaiḥ havyaṃ gṛhītvā vahniṃ ca praviśantaṃ divākaram",
+    "english": "He saw the oblation offered with diverse sacred formulas by the Bhṛgus and the Aṅgirases, and fire himself, bearing the oblation, entering the sun."
+  },
+  {
+    "ref": "3.213.30",
+    "sanskrit": "parva caiva caturviṃśaṃ tadā sūryam upasthitam tathā dharmagataṃ raudraṃ somaṃ sūryagataṃ ca tam",
+    "english": "He saw the twenty-fourth lunar phase approaching the sun, and likewise the moon — in the path of dharma, in the raudra aspect — having entered the sun."
+  },
+  {
+    "ref": "3.213.31",
+    "sanskrit": "samālokyaikatām eva śaśino bhāskarasya ca samavāyaṃ tu taṃ raudraṃ dṛṣṭvā śakro vyacintayat",
+    "english": "Beholding the perfect union of the moon and the sun, and seeing that fierce conjunction, Śakra fell into deep thought."
+  }
+]

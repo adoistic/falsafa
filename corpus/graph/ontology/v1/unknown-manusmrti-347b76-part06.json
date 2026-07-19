@@ -1,0 +1,457 @@
+{
+  "slug": "unknown-manusmrti-347b76",
+  "window": "05",
+  "entities": [
+    {
+      "canonical_name": "Brahmana",
+      "surface_names": ["Brahmanas", "twice-born", "learned Brahmana", "best of the twice-born", "Brahmana householder"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-e690c6",
+          "quote": "Those Brahmanas who follow the heron's mode of life and those who wear the mask of a cat",
+          "role": "subject of moral condemnation"
+        },
+        {
+          "paragraph_id": "p-6f87c7",
+          "quote": "A Brahmana should never eat at a sacrifice offered by one who is not a learned Brahmana",
+          "role": "subject of dietary restriction"
+        },
+        {
+          "paragraph_id": "p-9df427",
+          "quote": "a Brahmana attains excellence; by the opposite, he attains the state of a Shudra",
+          "role": "subject of social aspiration"
+        },
+        {
+          "paragraph_id": "p-3eb3b7",
+          "quote": "A Brahmana who knows the Veda and the sacred treatises, living by this rule of life, is always freed from sin",
+          "role": "ideal practitioner of Dharma"
+        },
+        {
+          "paragraph_id": "p-7369fd",
+          "quote": "death desires to slay Brahmanas",
+          "role": "subject vulnerable to premature death through transgression"
+        },
+        {
+          "paragraph_id": "p-a6b9f5",
+          "quote": "A best of the twice-born should perform at least one Kricchra penance a year",
+          "role": "subject of purificatory obligation"
+        }
+      ],
+      "description": "The Brahmana is the priestly varna whose conduct, purity, and Veda-knowledge is the chapter's central moral subject.",
+      "justification": "The chapter's dietary, ritual, and ethical rules are consistently framed as obligations or prohibitions directed at the Brahmana or twice-born, making this group the primary normative subject throughout."
+    },
+    {
+      "canonical_name": "Shudra",
+      "surface_names": ["Shudras", "Shudra"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-f3541e",
+          "quote": "practice deception on women and Shudras",
+          "role": "protected social class"
+        },
+        {
+          "paragraph_id": "p-4e57e1",
+          "quote": "nor the leftovers of a Shudra",
+          "role": "source of ritually polluting food"
+        },
+        {
+          "paragraph_id": "p-00b464",
+          "quote": "A learned twice-born should not eat the cooked food of a Shudra who does not perform the śrāddha",
+          "role": "source of conditionally forbidden food"
+        },
+        {
+          "paragraph_id": "p-9df427",
+          "quote": "by the opposite, he attains the state of a Shudra",
+          "role": "marker of social degradation"
+        },
+        {
+          "paragraph_id": "p-bcc03c",
+          "quote": "among Shudras, the food of these may be eaten",
+          "role": "group with select permitted food-givers"
+        }
+      ],
+      "description": "The Shudra is the lowest varna whose food and contact are generally restricted for Brahmanas, though exceptions for certain Shudra sub-categories are noted.",
+      "justification": "Multiple verses explicitly regulate the Brahmana's relationship to Shudra food and social interaction, positioning the Shudra as the primary lower-caste reference point in the chapter's purity hierarchy."
+    },
+    {
+      "canonical_name": "Prajapati",
+      "surface_names": ["Prajapati"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-b4e244",
+          "quote": "Prajapati, approaching them, said, \"Do not make the unequal equal. The food of the generous man is purified by faith\"",
+          "role": "divine arbiter of moral equivalence"
+        },
+        {
+          "paragraph_id": "p-0b3577",
+          "quote": "Prajapati considered that alms, brought and offered without being previously solicited, may be accepted even from a man of evil deeds",
+          "role": "divine authority on gift-acceptance"
+        },
+        {
+          "paragraph_id": "p-b1aa24",
+          "quote": "Prajapati ordained all this as food for the living spirit",
+          "role": "cosmic ordainer of the food chain"
+        }
+      ],
+      "description": "Prajapati, the Lord of Creatures, appears as a divine authority whose pronouncements settle disputes about food purity and establish the cosmological order of predation.",
+      "justification": "Prajapati is invoked three times in the chapter as the ultimate divine arbiter whose word resolves ambiguities in food law and ordains the natural order, making him the most frequently mentioned named deity."
+    },
+    {
+      "canonical_name": "Bhrigu",
+      "surface_names": ["Bhrigu", "Bhrigu, descendant of Manu", "righteous-souled Bhrigu"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-496950",
+          "quote": "the sages spoke this to the great-souled Bhrigu, who was born of fire",
+          "role": "addressee of the sages' question"
+        },
+        {
+          "paragraph_id": "p-7369fd",
+          "quote": "The righteous-souled Bhrigu, descendant of Manu, said to those great sages: \"Listen, by what fault death desires to slay Brahmanas.\"",
+          "role": "narrator and authority on Brahmana mortality"
+        }
+      ],
+      "description": "Bhrigu is a great sage descended from Manu who delivers the discourse on why death has power over Brahmanas, framing the dietary and conduct rules of chapter 5.",
+      "justification": "The narrative frame of chapter 5 is explicitly Bhrigu's response to the sages' question, placing him as the authoritative voice who transmits the rules that follow."
+    },
+    {
+      "canonical_name": "Agastya",
+      "surface_names": ["Agastya"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-23a614",
+          "quote": "for the sake of a sacrifice, praiseworthy beasts and birds may be slain by Brahmanas, and also for the sustenance of dependents, for Agastya did so in ancient times",
+          "role": "paradigmatic ancient authority for sacrificial slaughter"
+        }
+      ],
+      "description": "Agastya is an ancient Vedic sage cited as a precedent-setting authority who sanctioned the slaughter of animals for sacrifice and sustenance.",
+      "justification": "Agastya is explicitly named as the ancient exemplar who legitimizes the killing of animals for sacrificial purposes, making him a grounding historical authority in the chapter's meat-eating discourse."
+    },
+    {
+      "canonical_name": "Rakshasas",
+      "surface_names": ["Rakshasas"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-ab3bf4",
+          "quote": "a vow performed with deceit goes to the Rakshasas",
+          "role": "recipients of spiritually corrupt ritual acts"
+        }
+      ],
+      "description": "Rakshasas are demonic beings who receive the fruit of vows performed through deception, serving as the demonic counterpart to proper ritual recipients.",
+      "justification": "The Rakshasas are invoked as the destination of corrupt religious acts, defining the boundary between legitimate Dharmic practice and its demonic inversion."
+    },
+    {
+      "canonical_name": "Ashvins",
+      "surface_names": ["Ashvins"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-5551d8",
+          "quote": "a giver of a horse, fellowship with the Ashvins",
+          "role": "divine destination for the gift of a horse"
+        }
+      ],
+      "description": "The Ashvins are twin divine horsemen with whom a donor of a horse attains fellowship, linking the gift to its corresponding celestial reward.",
+      "justification": "The Ashvins are explicitly named in the dana-phala (gift-fruit) catalogue as the divine realm associated with gift of horses, grounding them as part of the cosmic gift economy."
+    },
+    {
+      "canonical_name": "Kricchra penance",
+      "surface_names": ["Kricchra penance", "Kricchra Santapana penance"],
+      "kind": "object",
+      "mentions": [
+        {
+          "paragraph_id": "p-7c73ea",
+          "quote": "having eaten it intentionally, one must perform a Kricchra penance",
+          "role": "prescribed purification for intentional food transgression"
+        },
+        {
+          "paragraph_id": "p-61873b",
+          "quote": "he should perform a Kricchra Santapana penance, or a Yati-Chandrayana",
+          "role": "prescribed purification for unintentional food transgression"
+        },
+        {
+          "paragraph_id": "p-a6b9f5",
+          "quote": "A best of the twice-born should perform at least one Kricchra penance a year",
+          "role": "annual purificatory obligation"
+        }
+      ],
+      "description": "The Kricchra is a ritual penance prescribed as expiation for eating forbidden foods, serving as the chapter's primary mechanism for restoring purity after transgression.",
+      "justification": "The Kricchra penance is the only specific ritual instrument named for food-related expiation and is recommended three times, making it the chapter's central purificatory object."
+    },
+    {
+      "canonical_name": "Dharma",
+      "surface_names": ["Dharma", "dharma"],
+      "kind": "idea",
+      "mentions": [
+        {
+          "paragraph_id": "p-f3541e",
+          "quote": "One should not, under the pretext of Dharma, commit a sin",
+          "role": "normative ideal susceptible to false invocation"
+        },
+        {
+          "paragraph_id": "p-45f2af",
+          "quote": "Dharma alone remains",
+          "role": "sole posthumous companion"
+        },
+        {
+          "paragraph_id": "p-5e420f",
+          "quote": "Dharma alone follows him",
+          "role": "loyal posthumous companion"
+        },
+        {
+          "paragraph_id": "p-01a0d9",
+          "quote": "for with Dharma as a companion, one crosses the darkness that is difficult to cross",
+          "role": "eschatological guide"
+        },
+        {
+          "paragraph_id": "p-393f21",
+          "quote": "Dharma quickly leads a man for whom it is the chief thing",
+          "role": "active agent of cosmic transport"
+        }
+      ],
+      "description": "Dharma is the supreme moral-cosmic order that serves as the soul's only true companion after death, framed as both an ethical ideal and a personified posthumous guide.",
+      "justification": "The chapter's central philosophical arc (Mn_4.238–243) personifies Dharma as the one companion that survives death and guides the soul, elevating it from a rule-system to a near-divine escort."
+    },
+    {
+      "canonical_name": "Veda",
+      "surface_names": ["Veda", "Vedas", "study of the Vedas", "gift of the Veda", "world of Brahma"],
+      "kind": "object",
+      "mentions": [
+        {
+          "paragraph_id": "p-ab3bf4",
+          "quote": "condemned by the expounders of the Veda both in this world and the next",
+          "role": "ultimate normative authority"
+        },
+        {
+          "paragraph_id": "p-d90ba8",
+          "quote": "the gift of the Veda is the most excellent",
+          "role": "supreme object of gift-giving"
+        },
+        {
+          "paragraph_id": "p-87b8ce",
+          "quote": "a giver of the Veda, union with Brahma",
+          "role": "gift whose fruit is union with the divine"
+        },
+        {
+          "paragraph_id": "p-f262d3",
+          "quote": "Through neglect of the study of the Vedas... death desires to slay Brahmanas",
+          "role": "whose neglect brings premature death"
+        }
+      ],
+      "description": "The Veda is both the sacred scriptural corpus whose study preserves Brahmana life and the highest possible gift, whose bestowal yields union with Brahma.",
+      "justification": "The Veda is the only textual object that appears both as the normative authority backing the chapter's rules and as the supreme item in the gift-catalogue, uniquely spanning the chapter's ethical and soteriological registers."
+    },
+    {
+      "canonical_name": "Nishada",
+      "surface_names": ["Nishada"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-f61430",
+          "quote": "Nor of a blacksmith, a Nishada, an actor on a stage, a goldsmith",
+          "role": "member of forbidden-food-source list"
+        }
+      ],
+      "description": "The Nishada is a low-caste tribal group whose food is explicitly forbidden to Brahmanas in the enumerated list of prohibited food sources.",
+      "justification": "The Nishada is named alongside blacksmiths and goldsmiths as a distinct social category whose food carries ritual impurity, reflecting the caste-based pollution logic of the chapter."
+    },
+    {
+      "canonical_name": "madhuparka",
+      "surface_names": ["madhuparka"],
+      "kind": "event",
+      "mentions": [
+        {
+          "paragraph_id": "p-0e826f",
+          "quote": "In a madhuparka and in a sacrifice, and in a rite for the ancestors and gods",
+          "role": "ritual occasion permitting meat"
+        }
+      ],
+      "description": "The madhuparka is a Vedic guest-reception ceremony that constitutes one of the legitimate ritual occasions on which the consumption of meat is permitted.",
+      "justification": "The madhuparka is explicitly named as a sanctioned ritual context for meat consumption, distinguishing it from the condemned practice of eating meat for no purpose."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Ritual food purity and pollution",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-7797c3",
+          "quote": "One should never eat the food of the intoxicated, the angry, or the sick; nor food contaminated with hair or insects"
+        },
+        {
+          "paragraph_id": "p-8d08f3",
+          "quote": "Garlic, a type of onion/leek, and also onion, and mushrooms, and things grown on impure ground are forbidden foods for the twice-born"
+        },
+        {
+          "paragraph_id": "p-3447f3",
+          "quote": "A twice-born who intentionally eats a mushroom, a village pig, garlic, a village rooster, an onion, or a type of onion/leek, falls from his caste"
+        }
+      ],
+      "justification": "The chapter's most voluminous section (approximately 30 verses) enumerates categories of ritually polluting food whose consumption defiles the twice-born, forming the chapter's dominant thematic content."
+    },
+    {
+      "topic": "Caste hierarchy and food exchange",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-8ea5ab",
+          "quote": "A king's food takes away energy; a Shudra's food, spiritual luster; a goldsmith's food, lifespan; and a leather-worker's food, fame"
+        },
+        {
+          "paragraph_id": "p-bcc03c",
+          "quote": "A sharecropper, a family friend, a cowherd, a servant, and a barber—among Shudras, the food of these may be eaten"
+        },
+        {
+          "paragraph_id": "p-9df427",
+          "quote": "By aspiring to the highest of the high and avoiding the low, a Brahmana attains excellence; by the opposite, he attains the state of a Shudra"
+        }
+      ],
+      "justification": "The chapter systematically maps different social groups—by caste, profession, and moral standing—onto a hierarchy of polluting food, revealing that food exchange is a primary mechanism of caste reproduction."
+    },
+    {
+      "topic": "Sacrifice as the legitimating frame for violence",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-d81302",
+          "quote": "The eating of meat for a sacrifice—this is remembered as the divine law; but the practice of eating it for any other purpose is called the demonic law"
+        },
+        {
+          "paragraph_id": "p-d81302",
+          "quote": "Animals were created for the sake of sacrifice by the Self-existent One himself; the sacrifice is for the prosperity of this whole world; therefore, in a sacrifice, killing is not killing"
+        },
+        {
+          "paragraph_id": "p-aa01df",
+          "quote": "Herbs, animals, trees, beasts, and birds, which have met their death for the sake of a sacrifice, attain higher states of existence again"
+        }
+      ],
+      "justification": "Multiple verses argue that sacrificial context transforms the moral valence of killing and meat-eating from sin to divine law, revealing sacrifice as the chapter's master category for legitimating violence."
+    },
+    {
+      "topic": "Dharma as posthumous companion and eschatological guide",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-45f2af",
+          "quote": "neither father nor mother stands by as a companion, nor son, nor wife, nor kinsman; Dharma alone remains"
+        },
+        {
+          "paragraph_id": "p-5e420f",
+          "quote": "Leaving the dead body on the ground like a log or a clod of earth, the kinsmen turn away and go; Dharma alone follows him"
+        },
+        {
+          "paragraph_id": "p-393f21",
+          "quote": "Dharma quickly leads a man for whom it is the chief thing, whose sins have been destroyed by tapas, to the next world, radiant and with an ethereal body"
+        }
+      ],
+      "justification": "A sustained sequence of verses (Mn_4.238–243) develops the metaphor of Dharma as the soul's only loyal companion in the afterlife, constituting the chapter's philosophical high point and a distinct eschatological theme."
+    },
+    {
+      "topic": "Dana (gift-giving) and its cosmic fruits",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-0cab11",
+          "quote": "A giver of water obtains satisfaction; a giver of food, imperishable happiness; a giver of sesame seeds, desired progeny; and a giver of a lamp, excellent eyesight"
+        },
+        {
+          "paragraph_id": "p-5551d8",
+          "quote": "A giver of clothes obtains fellowship with the moon; a giver of a horse, fellowship with the Ashvins; a giver of a bull, abundant prosperity; and a giver of a cow, the world of the sun"
+        },
+        {
+          "paragraph_id": "p-d90ba8",
+          "quote": "Of all gifts—of water, food, cows, land, clothes, sesame seeds, gold, and ghee—the gift of the Veda is the most excellent"
+        }
+      ],
+      "justification": "A structured catalogue of gifts and their corresponding celestial rewards articulates a complete cosmology of dana, linking each act of generosity to a precise karmic-cosmic return."
+    },
+    {
+      "topic": "Hypocrisy and false religious identity",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-a2c0df",
+          "quote": "A twice-born with downcast eyes, malicious, intent on achieving his own ends, crooked, and falsely humble, is one who follows the heron's mode of life"
+        },
+        {
+          "paragraph_id": "p-6d7aac",
+          "quote": "He who, not belonging to a religious order, makes a living by wearing its garb, he takes away the sin of those who belong to that order and is born in the womb of an animal"
+        },
+        {
+          "paragraph_id": "p-594d25",
+          "quote": "He who, being one way, represents himself as another to the good, he is the greatest sinner in the world, a thief, a stealer of his own self"
+        }
+      ],
+      "justification": "The chapter opens with warnings against the 'heron's mode' and 'cat's mask' as paradigms of religious fraud, and returns to the theme of self-misrepresentation as the gravest possible social sin."
+    },
+    {
+      "topic": "Verbal integrity and the sanctity of speech",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-6a7fad",
+          "quote": "All meanings are fixed in speech, have speech as their root, and proceed from speech; but the man who steals that speech, he is a thief of everything"
+        },
+        {
+          "paragraph_id": "p-f48a10",
+          "quote": "A sacrifice perishes through falsehood; tapas perishes through pride"
+        },
+        {
+          "paragraph_id": "p-6f9f08",
+          "quote": "nor speak an untruth after performing a sacrifice"
+        }
+      ],
+      "justification": "The chapter implicitly treats speech as the ontological ground of all meaning, such that falsehood and self-misrepresentation are not merely moral failures but cosmic theft — an implicit philosophy of language underlying the explicit conduct rules."
+    },
+    {
+      "topic": "Gradations of penance for dietary transgression",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-7c73ea",
+          "quote": "Having unintentionally eaten the food of any of these, one must fast for three days; having eaten it intentionally, one must perform a Kricchra penance"
+        },
+        {
+          "paragraph_id": "p-61873b",
+          "quote": "Having unintentionally eaten these six, he should perform a Kricchra Santapana penance, or a Yati-Chandrayana; for the others, he should fast for a day"
+        },
+        {
+          "paragraph_id": "p-a6b9f5",
+          "quote": "A best of the twice-born should perform at least one Kricchra penance a year for the purification of eating forbidden food unknowingly, and especially for doing so knowingly"
+        }
+      ],
+      "justification": "The chapter establishes a tiered penitential system that calibrates expiation to the degree of intentionality, creating a jurisprudential logic that distinguishes strict liability from culpable intent."
+    },
+    {
+      "topic": "Food chain as cosmic natural order",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-112c25",
+          "quote": "The unmoving are the food of the moving; those without fangs are the food of those with fangs; those without hands are the food of those with hands; and the timid are the food of the brave"
+        },
+        {
+          "paragraph_id": "p-b1aa24",
+          "quote": "Prajapati ordained all this as food for the living spirit; both the immovable and the movable, everything is food for the living spirit"
+        },
+        {
+          "paragraph_id": "p-2f44ef",
+          "quote": "for the Creator himself created both the edible beings and the eaters"
+        }
+      ],
+      "justification": "The text implicitly presents predation as divinely ordained cosmological structure rather than mere biological fact, using Prajapati's sanction to naturalize and sacralize the violence of eating."
+    }
+  ],
+  "citations": []
+}

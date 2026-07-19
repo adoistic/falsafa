@@ -1,0 +1,44 @@
+{
+  "work_slug": "david-garrick-poems-5df7b4",
+  "work_title": "Poems",
+  "chapter_number": 7,
+  "chapter_title": "VERSES written in SYLVIA'S PRIOR.",
+  "chapter_slug": "07-verses-written-in-sylvias-prior",
+  "author": "David Garrick",
+  "author_slug": "david-garrick",
+  "ecpa_poem_id": "o5154-w0510",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "epigram"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "8.8.8.8",
+    "metrical_pattern": "-+|-+|-+|-+/         -+|-+|-+|-+/         -+|-+|-+|-+/         -+|-+|-+|-+/",
+    "line_count": 8
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b0a8fddb-a8b9-56d3-b127-94756edb0cbc",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 59,
+      "line_count": 10,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

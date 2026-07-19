@@ -1,0 +1,45 @@
+{
+  "work_slug": "mary-collier-poems-04c1fc",
+  "work_title": "Poems",
+  "chapter_number": 6,
+  "chapter_title": "The First and Second Chapters of the First Book of Samuel Versified.",
+  "chapter_slug": "06-the-first-and-second-chapters-of-the-first-book-",
+  "author": "Mary Collier",
+  "author_slug": "mary-collier",
+  "ecpa_poem_id": "pco62-w0060",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "paraphrase"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 181
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a9b498e7-a595-56c5-bbd3-7b3c37de0f6f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1372,
+      "line_count": 182,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "work_slug": "susanna-blamire-poems-69c0be",
+  "work_title": "Poems",
+  "chapter_number": 48,
+  "chapter_title": "WHAT AILS THIS HEART O' MINE!",
+  "chapter_slug": "48-what-ails-this-heart-o-mine",
+  "author": "Susanna Blamire",
+  "author_slug": "susanna-blamire",
+  "ecpa_poem_id": "bsb18-w0480",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "song"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "trimeter (3 feet)",
+    "stanzas": [
+      "octet (8 lines)"
+    ],
+    "rhyme": "xaxaxbxb",
+    "syllable_pattern": "6.6.8.6.6.6.8.6",
+    "metrical_pattern": "-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/  -+|-+|-+/ -+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/  -+|-+|-+/",
+    "line_count": 32
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "fc87f10c-9749-5751-9c2a-6b9f9dbef715",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 199,
+      "line_count": 33,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

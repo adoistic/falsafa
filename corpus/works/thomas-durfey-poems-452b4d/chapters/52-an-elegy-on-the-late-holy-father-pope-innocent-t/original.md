@@ -1,0 +1,91 @@
+---
+work_id: "452b4d39-7326-5a01-8b71-b6414a0f22a8"
+work_slug: "thomas-durfey-poems-452b4d"
+work_title: Poems
+author: "Thomas D'Urfey"
+author_slug: "thomas-durfey"
+ecpa_poem_id: "oau90-w0520"
+chapter_number: 52
+chapter_title: An ELEGY On the late Holy Father Pope INNOCENT the Eleventh.
+chapter_slug: "52-an-elegy-on-the-late-holy-father-pope-innocent-t"
+variant_id: "cf3edb97-2483-5241-b6d3-d5d5af1041b9"
+content_type: original
+layout: verse
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 460
+source_url: "https://www.eighteenthcenturypoetry.org/"
+license: "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+genres:
+  - elegy
+metrical_foot: iambic (˘′)
+metrical_count: pentameter (5 feet)
+stanza_form:
+  - couplet (2 lines)
+rhyme_scheme: aa
+syllable_pattern: 10
+---
+
+An ELEGY On the late Holy Father Pope INNOCENT the Eleventh.
+
+STrange power of Piety when Virtue is
+So strong it can disarm our prejudice:
+When Luther's Sons Romes prizeless loss bemoan,
+Less than a Miracle can there be shown;
+Yet see they mourn, and those our Doctrine bred,
+Hating the Body, yet adore the Head.
+This Truth, tho Ages past scarce understood,
+Ours boldly may affirm, one Pope was good;
+Not partial, nor to private Interest sold,
+Nay, what's more strange than all, not fond of Gold;
+But durst against the stream of Avarice swim,
+St. Peter's Keys were never gilt by him,
+Nor did the Churches Biggots, till his sway
+Ever, so little for Salvation pay.
+His mellow'd Wisdom prop'd Romes tottering State,
+His moderate Judgment stemm'd the Clergies hate,
+Willing the Churches variance to attone,
+Rail'd not at ours, nor less'ned not his own.
+When Heathens did in swarming Numbers list,
+And War began 'twixt Mahomet and Christ;
+The imprison'd Treasure which he then set free,
+Shew'd him refin'd from former Papacy.
+The Gold which to that Holy War he threw,
+Declar'd him more than Pope, a Christian too.
+When France observ'd him scourge the Infidels,
+Quite different from his Pagan Principles;
+His Mother Church th' Apostate durst condemn,
+And slight her power to make his own Supreme,
+Nor longer own'd Romes Doctrine his Soul's guide,
+When its Ambition was unsatisfied;
+This faultless Prelate, if e'er Pope was so,
+Sounded his Wiles, and Plots did overthrow,
+Lent th' golden Mattock to this pious work,
+And balk'd both Pagan, and the Christian Turk,
+Who slily did like snarling Blood-hound lurk,
+To snap the Prey, and gorge himself alone,
+When th' rest were tir'd with fighting for the bone.
+Mourn all ye neighb'ring Princes, sigh and mourn,
+Old Rome will now to her old Sins return;
+Her Scarlet Robe has for a time been clean,
+But with new Errors, will new Spots be seen:
+Now each ambitious Cardinal bribes high,
+To fill the Conclave for the Prelacy,
+Which gain'd, the inchanted Purse strait shuts as close,
+As if the strings were never to unloose.
+The Fish is caught, farewel Hipocrisie,
+The Vizor banish'd, and the Net laid by.
+Religion late was beyond Gold preferr'd,
+But profit now's the only sound is heard.
+Vile Sores o'er Romes corrupted Body grow,
+Her Trunk is filthy, now her Head lies low:
+For when as some rich honest Farmer dies,
+Leaving behind him Lands, and Legacies,
+His brainless Off-Spring by their Vice allur'd,
+Destroy the Crop, which he with care manur'd;
+His Garden's fruitless, and his Vineyard bleeds,
+Th' one yields no Grapes, the other only weeds:
+So Rome, her pious Farmer being gone,
+Is left to her lewd Race to be undone.

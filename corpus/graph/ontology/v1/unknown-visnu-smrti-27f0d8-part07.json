@@ -1,0 +1,518 @@
+{
+  "slug": "unknown-visnu-smrti-27f0d8",
+  "window": "87-99",
+  "entities": [
+    {
+      "canonical_name": "Vishnu",
+      "surface_names": ["Vāsudeva", "Vaikuṇṭha", "Hṛṣīkeśa", "Acyuta", "Ananta", "Puruṣa", "Nārāyaṇa", "Madhusūdana", "Puruṣottama", "Jiṣṇu", "Kṛṣṇa", "Viṣvaksena", "Druhiṇa", "god of gods", "the blessed one"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-04926a",
+          "quote": "having bathed the blessed Vāsudeva with clarified butter, having worshipped him with perfumes, flowers, incense, lamps, food offerings",
+          "role": "object of worship"
+        },
+        {
+          "paragraph_id": "p-510644",
+          "quote": "having fasted and worshipped the blessed Vāsudeva with unhusked rice grains",
+          "role": "object of worship"
+        },
+        {
+          "paragraph_id": "p-92883f",
+          "quote": "he should meditate on the blessed Vāsudeva, wearing a diadem, earrings, and armlets, with the Śrīvatsa mark, his chest adorned with a forest-garland, of gentle form, with four arms, holding a conch, discus, mace, and lotus, with the Earth goddess between his feet",
+          "role": "supreme meditation object"
+        },
+        {
+          "paragraph_id": "p-360810",
+          "quote": "meditate on the puruṣa, Vishnu, the twenty-fifth principle, who is without qualities",
+          "role": "supreme cosmic principle"
+        },
+        {
+          "paragraph_id": "p-895921",
+          "quote": "O Vāsudeva. O primeval god. O god of love. O protector of love. O protector of the earth.",
+          "role": "object of praise"
+        },
+        {
+          "paragraph_id": "p-16d3f9",
+          "quote": "her feet held by the god of gods, Vishnu",
+          "role": "cosmic lord holding Earth goddess"
+        }
+      ],
+      "description": "The supreme deity of the text, presented as the cosmic puruṣa, object of meditation, and lord of all beings addressed by a litany of divine epithets.",
+      "justification": "Vishnu is the central divine figure across chapters 90–99, serving as the supreme cosmic principle, object of ritual worship, and the meditator's ultimate goal."
+    },
+    {
+      "canonical_name": "Lakṣmī",
+      "surface_names": ["Śrī", "Fortune", "Prosperity", "goddess", "she"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-16d3f9",
+          "quote": "Seeing Śrī, blazing with austerity, her feet held by the god of gods, Vishnu, her lovely color like refined gold",
+          "role": "divine consort of Vishnu"
+        },
+        {
+          "paragraph_id": "p-16d3f9",
+          "quote": "Thus addressed, Lakṣmī then spoke to the Earth, standing before the foremost of gods: 'I ever stand, O you of golden color, at the side of the god Madhusūdana.'",
+          "role": "speaker explaining her cosmic dwelling places"
+        }
+      ],
+      "description": "The goddess of fortune and prosperity, consort of Vishnu, who describes the auspicious places where she dwells in the cosmos.",
+      "justification": "Lakṣmī (Śrī) is an active narrative figure in chapter 99 who enumerates her dwelling places across the cosmos in response to Earth's question."
+    },
+    {
+      "canonical_name": "Vasudhā",
+      "surface_names": ["Vasumatī", "Vasuṃdharā", "Earth goddess", "Earth", "the Earth"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-86167a",
+          "quote": "This body, O Vasudhā, is called the field (kṣetra)",
+          "role": "addressee of cosmic teaching"
+        },
+        {
+          "paragraph_id": "p-895921",
+          "quote": "Having been thus addressed, Vasumatī (the Earth) made a salutation with her knees and head and said",
+          "role": "devotee making petition to Vishnu"
+        },
+        {
+          "paragraph_id": "p-16d3f9",
+          "quote": "the Earth goddess, delighted, asked the goddess",
+          "role": "questioner addressed to Lakṣmī"
+        }
+      ],
+      "description": "The Earth goddess who receives cosmological teaching from Vishnu and then questions Lakṣmī about her divine dwelling places.",
+      "justification": "Vasudhā/Vasumatī serves as the interlocutor in the narrative frame of chapters 96–99, receiving teaching and conversing with both Vishnu and Lakṣmī."
+    },
+    {
+      "canonical_name": "Agni",
+      "surface_names": ["the deity Agni", "fire", "Agni"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-9b795e",
+          "quote": "The month of Kārttika belongs to the deity Agni.",
+          "role": "presiding deity of the month"
+        },
+        {
+          "paragraph_id": "p-65411d",
+          "quote": "And Agni is the mouth of all the gods.",
+          "role": "cosmic mediator between humans and gods"
+        },
+        {
+          "paragraph_id": "p-3e6e85",
+          "quote": "By the gift of gold, fellowship with Agni.",
+          "role": "divine beneficiary of gifts"
+        }
+      ],
+      "description": "The fire deity who presides over the month of Kārttika and serves as the mouth of all the gods, the ritual mediator through whom oblations reach the divine realm.",
+      "justification": "Agni is named explicitly in chapter 89 as the presiding deity of Kārttika and the mouth of all gods, making him a theologically significant figure in the ritual logic of purification."
+    },
+    {
+      "canonical_name": "Varuṇa",
+      "surface_names": ["Varuṇa", "world of Varuṇa"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-690e30",
+          "quote": "The maker of a pond is eternally satisfied and enjoys the world of Varuṇa.",
+          "role": "deity whose realm is attained through merit"
+        }
+      ],
+      "description": "The Vedic deity of waters whose heavenly realm is the reward for constructing ponds as acts of public benefit.",
+      "justification": "Varuṇa is explicitly named in chapter 91 as the deity whose world is attained by one who builds water reservoirs."
+    },
+    {
+      "canonical_name": "Kapila",
+      "surface_names": ["Kapila", "teacher of Sāṃkhya"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-895921",
+          "quote": "O Kapila. O teacher of Sāṃkhya.",
+          "role": "epithet of Vishnu identifying him with the Sāṃkhya tradition"
+        }
+      ],
+      "description": "The legendary sage-founder of the Sāṃkhya philosophical school, here invoked as an epithet of Vishnu in the litany of chapter 98.",
+      "justification": "Kapila is named among Vishnu's epithets in chapter 98, connecting Vishnu to the Sāṃkhya philosophical tradition."
+    },
+    {
+      "canonical_name": "Sarasvatī",
+      "surface_names": ["Sarasvatī", "Speech"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-16d3f9",
+          "quote": "You are Sleep, the foremost of the world, Fortune, Firmness, Prosperity, Cessation, and Victory, Beauty, Radiance, Fame, and also Splendor, Sarasvatī, Speech, and the Purifier",
+          "role": "aspect/form of Lakṣmī"
+        }
+      ],
+      "description": "The goddess of speech and learning, invoked as one of the cosmic aspects or forms of Lakṣmī in the Earth's hymn.",
+      "justification": "Sarasvatī is explicitly listed in the Earth's praise of Lakṣmī in chapter 99, as one of the divine qualities or identities she embodies."
+    },
+    {
+      "canonical_name": "Gandharvas",
+      "surface_names": ["Gandharvas", "world of the Gandharvas"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-bd7ac3",
+          "quote": "By making it variegated, he attains the world of the Gandharvas.",
+          "role": "celestial beings whose realm is a meritorious reward"
+        }
+      ],
+      "description": "The celestial musician-beings whose heavenly realm is attained as a reward for beautifying a temple with colorful decoration.",
+      "justification": "The Gandharvas' world is cited in chapter 91 as the specific heavenly destination earned by adorning a temple with variegated colors."
+    },
+    {
+      "canonical_name": "Aśvins",
+      "surface_names": ["the Aśvins"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-92af45",
+          "quote": "By giving clarified butter to Brāhmaṇas every day for the entire month of Āśvina, and having pleased the Aśvins, he becomes endowed with beauty.",
+          "role": "twin deities pleased by ritual observance"
+        }
+      ],
+      "description": "The twin divine physicians of Vedic mythology, pleased by daily offerings of clarified butter during the month of Āśvina, bestowing beauty on the devotee.",
+      "justification": "The Aśvins are explicitly named in chapter 90 as the deities gratified by month-long clarified-butter offerings, linking ritual practice to divine reward."
+    },
+    {
+      "canonical_name": "Brahma",
+      "surface_names": ["Brahma", "worlds of Brahma", "friend of Brahman"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-d2229f",
+          "quote": "The giver of a hundred cows, the worlds of Brahma.",
+          "role": "deity whose realm is the highest reward for gift-giving"
+        },
+        {
+          "paragraph_id": "p-895921",
+          "quote": "O friend of Brahman. O you who love Brahman.",
+          "role": "quality attributed to Vishnu in hymn"
+        }
+      ],
+      "description": "The creator deity whose world represents the highest heavenly destination for the most generous givers of cows.",
+      "justification": "Brahma's world is the pinnacle of the gift-hierarchy in chapter 92, attained by giving one hundred cows, marking it as the supreme cosmic reward."
+    },
+    {
+      "canonical_name": "kṛṣṇājina",
+      "surface_names": ["kṛṣṇājina", "black antelope skin"],
+      "kind": "object",
+      "mentions": [
+        {
+          "paragraph_id": "p-777c3c",
+          "quote": "having made a kṛṣṇājina (black antelope skin) with its hooves and horns, with golden horns, silver hooves, and adorned with a tail of pearls",
+          "role": "ritual gift object"
+        },
+        {
+          "paragraph_id": "p-d08ace",
+          "quote": "He who gives a kṛṣṇājina, with its hooves and horns, Covered with sesame seeds and garments, adorned with all gems",
+          "role": "meritorious gift equal to giving the earth"
+        }
+      ],
+      "description": "A black antelope skin adorned with golden horns, silver hooves, and a pearl tail — the central ritual object of chapter 87, whose gift on the Vaiśākha full moon is said to equal giving the entire earth.",
+      "justification": "The kṛṣṇājina is the subject of the entire gift-ritual described in chapter 87, including a supporting verse that quantifies its cosmic merit."
+    },
+    {
+      "canonical_name": "Palāśa",
+      "surface_names": ["Palāśa leaf", "cup made of a Palāśa leaf"],
+      "kind": "object",
+      "mentions": [
+        {
+          "paragraph_id": "p-48eac4",
+          "quote": "From a cup made of a Palāśa leaf, from his hand, or from a potsherd.",
+          "role": "vessel for eating in the forest-dweller stage"
+        }
+      ],
+      "description": "The Palāśa (Butea monosperma) tree leaf used to fashion a simple eating cup for the forest-dweller (vānaprastha), emblematic of renunciation of household comforts.",
+      "justification": "The Palāśa leaf cup is explicitly prescribed in chapter 94 as one of the three acceptable eating vessels for a forest-dweller."
+    },
+    {
+      "canonical_name": "Vaikuṇṭha",
+      "surface_names": ["Vaikuṇṭha"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-895921",
+          "quote": "O Vaikuṇṭha.",
+          "role": "epithet and abode of Vishnu"
+        }
+      ],
+      "description": "The celestial abode of Vishnu, here used as a divine epithet in the litany of Vishnu's names recited by the Earth goddess.",
+      "justification": "Vaikuṇṭha appears in chapter 98 as one of Vishnu's epithets, referring both to his transcendent realm and his identity as its lord."
+    },
+    {
+      "canonical_name": "Revatī",
+      "surface_names": ["Revatī constellation", "Revatī"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-778d6f",
+          "quote": "when the moon is in the Revatī constellation, by feeding Brāhmaṇas with rice-pudding mixed with honey and clarified butter as a supreme food offering for the pleasure of Revatī, and having pleased Revatī, he becomes endowed with beauty.",
+          "role": "lunar deity pleased by specific food offerings"
+        }
+      ],
+      "description": "A lunar deity associated with the Revatī nakṣatra whose pleasure is invoked monthly by feeding Brāhmaṇas with rice-pudding, honey, and clarified butter.",
+      "justification": "Revatī is explicitly named in chapter 90 as a deity whose pleasure produces the boon of beauty, linking the lunar constellation to a personal divine presence."
+    },
+    {
+      "canonical_name": "King of Dharma",
+      "surface_names": ["King of Dharma", "Yama"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-3e7c29",
+          "quote": "having satisfied seven Brāhmaṇas with sesame seeds mixed with honey, and having pleased the King of Dharma, he is purified from his sins.",
+          "role": "deity pleased by ritual observance"
+        },
+        {
+          "paragraph_id": "p-cbd22f",
+          "quote": "By bathing in a river on every fourteenth day and worshipping the King of Dharma, he is purified from all sins.",
+          "role": "deity worshipped for purification"
+        }
+      ],
+      "description": "The deity of righteousness and death (Yama), the King of Dharma, who is propitiated through ritual bathing and feeding of Brāhmaṇas to achieve purification from sin.",
+      "justification": "The King of Dharma is named twice in chapter 90 as a deity whose pleasure directly results in the ritual practitioner's purification from sin."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Dana (gift-giving) as a primary path to spiritual merit and cosmic reward",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-192b7e",
+          "quote": "The gift of safety is superior to all gifts."
+        },
+        {
+          "paragraph_id": "p-d08ace",
+          "quote": "By him the four-cornered earth, with its oceans, caves, mountains, forests, and woods, Is given; there is no doubt in this."
+        },
+        {
+          "paragraph_id": "p-473073",
+          "quote": "Whatever is most cherished in the world, and whatever is beloved in the house, That very thing should be given to a worthy person by one who desires what is imperishable."
+        }
+      ],
+      "justification": "Chapters 87–93 are almost entirely structured as a typology of gifts and their corresponding heavenly rewards, making dāna the dominant theme of this window."
+    },
+    {
+      "topic": "Ritual calendar: merit accrues from observances aligned with specific lunar months and constellations",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-777c3c",
+          "quote": "on the full moon day of Vaiśākha, having made a kṛṣṇājina with its hooves and horns"
+        },
+        {
+          "paragraph_id": "p-868045",
+          "quote": "On the fifteenth day of the bright fortnight of Mārgaśīrṣa, when it is conjoined with the Mṛgaśiras constellation"
+        },
+        {
+          "paragraph_id": "p-7f3cec",
+          "quote": "If the full moon of Kārttika is conjoined with the Kṛttikā constellation, on that day, by giving a white bull"
+        }
+      ],
+      "justification": "Chapter 90 is an extended catalogue of twelve months each paired with a specific nakṣatra and a corresponding ritual act, demonstrating that the timing of religious acts within the lunar calendar is determinative of their fruit."
+    },
+    {
+      "topic": "Āśrama system: the four life-stages as a graduated path of spiritual discipline",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-f35f40",
+          "quote": "When a householder sees wrinkles and grey hair, he should take refuge in the forest."
+        },
+        {
+          "paragraph_id": "p-6ead66",
+          "quote": "A vānaprastha shall emaciate his body with austerity (tapas)."
+        },
+        {
+          "paragraph_id": "p-c3e2ba",
+          "quote": "having been purified of his passions in the three stages of life, having performed the Prājāpatya sacrifice and given his entire wealth as a sacrificial fee, he shall become a renunciant."
+        }
+      ],
+      "justification": "Chapters 94–96 systematically describe the householder's transition to forest-dweller and then to renunciant, constituting the text's treatment of the final two āśramas."
+    },
+    {
+      "topic": "Tapas (austerity) as the foundational cosmic and soteriological principle",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-b50e0b",
+          "quote": "This entire world of gods and men has austerity (tapas) as its root, Austerity as its middle, and austerity as its end; and by austerity it is thus supported."
+        },
+        {
+          "paragraph_id": "p-b50e0b",
+          "quote": "What is hard to practice, what is hard to obtain, what is distant, and what is difficult to do, All that is achievable by austerity (tapas); for austerity is indeed insurmountable."
+        }
+      ],
+      "justification": "Chapter 95 closes with a verse declaring tapas the root, middle, and end of the entire cosmos, elevating it from a personal practice to a metaphysical principle."
+    },
+    {
+      "topic": "Renunciation and detachment from the body as the path to liberation",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-06324d",
+          "quote": "He should see the impermanence of the world. The impure nature of the body. The distortion of form by old age."
+        },
+        {
+          "paragraph_id": "p-06324d",
+          "quote": "Thus, in this ever-flowing world, there is no happiness whatsoever. And whatever is called happiness in relation to the absence of pain, that too is impermanent."
+        },
+        {
+          "paragraph_id": "p-92883f",
+          "quote": "Therefore, having abandoned all that is perishable, he should meditate on the imperishable alone."
+        }
+      ],
+      "justification": "Chapter 96 presents an exhaustive analysis of the body's impurity and suffering as a systematic argument for renunciation, culminating in the injunction to meditate only on the imperishable."
+    },
+    {
+      "topic": "Meditation (dhyāna) as a graduated practice from form to formless to Vishnu",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-92883f",
+          "quote": "If he is unable to fix his attention on the formless, then having meditated on earth, water, fire, wind, ether, mind, intellect, self, the unmanifest, and the puruṣa, one after the other"
+        },
+        {
+          "paragraph_id": "p-92883f",
+          "quote": "he should meditate on the puruṣa like a lamp in the middle of the downward-facing lotus of his own heart"
+        },
+        {
+          "paragraph_id": "p-92883f",
+          "quote": "Whatever he meditates on, that he attains—this is the secret of meditation (dhyāna)."
+        }
+      ],
+      "justification": "Chapter 97 presents a systematic hierarchy of meditation objects, from the gross elements up through Vishnu's iconic form, structured as a practical curriculum for yogins of varying capacities."
+    },
+    {
+      "topic": "Kṣetra-kṣetrajña (field and knower of the field) as the framework for self-knowledge",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-86167a",
+          "quote": "This body, O Vasudhā, is called the field (kṣetra); He who knows this, they who know that call him the knower of the field (kṣetrajña)."
+        },
+        {
+          "paragraph_id": "p-86167a",
+          "quote": "And know me also as the knower of the field (kṣetrajña) in all fields, O fair one; The knowledge of the field and the knower of the field is to be known always by one who desires liberation."
+        },
+        {
+          "paragraph_id": "p-360810",
+          "quote": "Thus the field (kṣetra), as well as knowledge and the object of knowledge, have been told in brief; My devotee, having understood this, becomes fit for my state of being."
+        }
+      ],
+      "justification": "Chapters 96–97 use the kṣetra-kṣetrajña distinction — drawn directly from Bhagavad Gītā chapter 13 — as the epistemological framework for liberation, making it a structuring theme of this section."
+    },
+    {
+      "topic": "Brāhmaṇa as the supreme worthy recipient of gifts and ritual services",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-61c9d0",
+          "quote": "he shall give it to a Brāhmaṇa who maintains the sacred fire, who has been adorned and covered with a pair of garments"
+        },
+        {
+          "paragraph_id": "p-b246e2",
+          "quote": "To one who has mastered the Veda, infinite. But a priest is a worthy vessel for oneself alone."
+        },
+        {
+          "paragraph_id": "p-dbacfb",
+          "quote": "One should not give even water to a twice-born man who follows the vow of a cat, Nor to a sinful man who follows the vow of a heron"
+        }
+      ],
+      "justification": "Chapters 87–93 consistently direct gifts to Brāhmaṇas as the primary recipients, and chapter 93 explicitly ranks recipients by their learning, making Brāhmaṇa status the central variable in the gift-economy."
+    },
+    {
+      "topic": "The cosmos as pervaded by Lakṣmī/Śrī — auspicious presence in all pure and virtuous things",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-16d3f9",
+          "quote": "I dwell in the sun and in the moon, and in the sky adorned with hosts of stars"
+        },
+        {
+          "paragraph_id": "p-16d3f9",
+          "quote": "In one who abides in truth, who is devoted to the welfare of beings, who is endowed with forgiveness, and who is free from anger"
+        },
+        {
+          "paragraph_id": "p-16d3f9",
+          "quote": "In those who are mindful of dharma and endowed with compassion, I ever stand, and in Madhusūdana."
+        }
+      ],
+      "justification": "Chapter 99 is entirely structured as Lakṣmī's enumeration of her cosmic dwelling places, presenting Śrī as omnipresent in all that is ritually pure, morally virtuous, and cosmically ordered."
+    },
+    {
+      "topic": "Sāṃkhya metaphysics: the puruṣa as the twenty-fifth principle beyond the twenty-four evolutes",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-92883f",
+          "quote": "he should meditate on that which is beyond the twenty-four principles. Eternal, beyond the senses, without qualities, beyond sound, touch, form, taste, and smell"
+        },
+        {
+          "paragraph_id": "p-92883f",
+          "quote": "meditate on earth, water, fire, wind, ether, mind, intellect, self, the unmanifest, and the puruṣa, one after the other"
+        },
+        {
+          "paragraph_id": "p-360810",
+          "quote": "meditate on the puruṣa, Vishnu, the twenty-fifth principle, who is without qualities"
+        }
+      ],
+      "justification": "Chapter 97 employs the Sāṃkhya ontological framework of twenty-four principles plus the puruṣa as the scaffolding for its meditation hierarchy, implicitly drawing on that philosophical tradition without naming it directly as a source."
+    },
+    {
+      "topic": "Public works (wells, tanks, bridges, temples) as meritorious acts creating long-term cosmic reward",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-7613a3",
+          "quote": "for the maker of a well, half of his evil deeds perish when water begins to flow in it"
+        },
+        {
+          "paragraph_id": "p-e3040d",
+          "quote": "The maker of a bridge attains heaven."
+        },
+        {
+          "paragraph_id": "p-ca41d5",
+          "quote": "The maker of a temple attains the world of that very deity whose temple he makes."
+        }
+      ],
+      "justification": "Chapter 91 presents a catalogue of public meritorious works — wells, ponds, trees, bridges, and temples — each tied to a specific heavenly reward, framing civic infrastructure as a form of religious practice."
+    },
+    {
+      "topic": "Hypocritical religiosity (baiḍālavratika / bakavrata) as a category deserving severe censure",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-dbacfb",
+          "quote": "One who makes a banner of dharma, is ever greedy, deceitful, a hypocrite in public, Is to be known as a baiḍālavratika, violent, and a betrayer of all."
+        },
+        {
+          "paragraph_id": "p-dbacfb",
+          "quote": "They fall into the Blinding Darkness hell because of that sinful deed."
+        },
+        {
+          "paragraph_id": "p-dbacfb",
+          "quote": "He who, not being a religious ascetic, lives by the guise of one, He takes away the sin of the ascetics and is born in the womb of an animal."
+        }
+      ],
+      "justification": "Chapter 93 introduces specific named categories of hypocritical religious observance — the cat-vow and the heron-vow — and assigns them the harshest karmic consequences, making anti-hypocrisy a distinct ethical theme."
+    }
+  ],
+  "citations": []
+}

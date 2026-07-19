@@ -1,0 +1,45 @@
+{
+  "work_slug": "erasmus-darwin-poems-9a92ee",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "THE GOLDEN AGE, A POETICAL EPISTLE.",
+  "chapter_slug": "01-the-golden-age-a-poetical-epistle",
+  "author": "Erasmus Darwin",
+  "author_slug": "erasmus-darwin",
+  "ecpa_poem_id": "o3378-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "epistle"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 202
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "33671996-81f9-58d0-8187-ccd1d7f6eb5e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1520,
+      "line_count": 204,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

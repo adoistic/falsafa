@@ -18,7 +18,7 @@ estimated_read_time: 232
 translator: thothica
 ---
 
-**Vishnu Smriti 82**
+**Viṣṇu Smriti 82**
 
 In a rite for the gods, one shall not examine a Brāhmaṇa. // Vi_82.1 //
 

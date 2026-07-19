@@ -1,0 +1,37 @@
+[
+ {
+  "entry": "Arsha -> Harṣa",
+  "action": "removed",
+  "reason": "wrong canonical — 'Arsha' is Ārṣa (of the ṛṣis), not Harṣa; maps to an unrelated word"
+ },
+ {
+  "entry": "Brahmanhood -> Brāhmaṇhood",
+  "action": "removed",
+  "reason": "not a proper noun — English-suffixed hybrid word"
+ },
+ {
+  "entry": "Brahmic -> Brāhmic",
+  "action": "removed",
+  "reason": "not a proper noun — English adjective"
+ },
+ {
+  "entry": "Koshala -> Kosala",
+  "action": "removed",
+  "reason": "consonant-diacritic corruption — drops correct ś; kingdom is Kośala, not Kosala"
+ },
+ {
+  "entry": "Kośalas -> Kosalas",
+  "action": "removed",
+  "reason": "consonant-diacritic corruption — drops correct ś; should be Kośalas"
+ },
+ {
+  "entry": "Nandinī -> Nandini",
+  "action": "removed",
+  "reason": "wrong vowel length — drops correct final ī; the divine cow is Nandinī"
+ },
+ {
+  "entry": "Sudhāman -> Sudāman",
+  "action": "removed",
+  "reason": "consonant corruption — drops aspiration (dh→d), altering the consonant"
+ }
+]

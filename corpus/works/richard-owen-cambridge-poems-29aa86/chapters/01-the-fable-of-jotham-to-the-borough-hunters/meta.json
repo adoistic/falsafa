@@ -1,0 +1,44 @@
+{
+  "work_slug": "richard-owen-cambridge-poems-29aa86",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "The FABLE of JOTHAM: To the BOROUGH-HUNTERS.",
+  "chapter_slug": "01-the-fable-of-jotham-to-the-borough-hunters",
+  "author": "Richard Owen Cambridge",
+  "author_slug": "richard-owen-cambridge",
+  "ecpa_poem_id": "o5157-w0800",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "fable"
+    ],
+    "foot": "anapaestic (˘˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "12",
+    "metrical_pattern": "--+|--+|--+|--+/",
+    "line_count": 62
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "16afe021-e20c-5798-8a03-f6e6a06ac758",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 606,
+      "line_count": 66,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

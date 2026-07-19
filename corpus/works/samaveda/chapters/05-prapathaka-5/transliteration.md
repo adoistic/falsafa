@@ -1,0 +1,395 @@
+---
+work_id: "f73d30f5-7284-5d7f-b933-2e02ca627032"
+work_slug: samaveda
+work_title: Sāmaveda
+author_name: Anonymous (Vedic)
+chapter_number: 5
+chapter_title: Prapāṭhaka 5
+chapter_slug: "05-prapathaka-5"
+variant_id: "891ca427-4dae-55cb-8f47-bf215e8b0003"
+content_type: transliteration
+layout: verse
+language: Sanskrit
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 1139
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
+transliterator: thothica
+---
+
+**5.1**
+
+gṛṇe tadindra te śava upamāṃ devatātaye . yaddhaṃsi vṛtramojasā śacīpate
+
+**5.2**
+
+yasya tyacchambaraṃ made divodāsāya randhayan . ayaṃ sa soma indra te sutaḥ piba
+
+**5.3**
+
+endra no gadhi priya satrājidagohya . girirna viśvataḥ pṛthuḥ patirdivaḥ
+
+**5.4**
+
+ya indra somapātamo madaḥ śaviṣṭha cetati . yenā haṃsi nyā3triṇaṃ tamīmahe
+
+**5.5**
+
+tuce tunāya tatsu no drādhīya āyurjīvase . ādityāsaḥ samahasaḥ kṛṇotana
+
+**5.6**
+
+vetthā hi nirṛtīnāṃ vajrahasta parivṛjam . aharahaḥ śundhyuḥ paripadāmiva
+
+**5.7**
+
+apāmīvāmapa stridhamapa sedhata durmatim . ādityāso yuyotanā no aṃhasaḥ
+
+**5.8**
+
+pibā somamindra mandatu tvā yaṃ te suṣāva haryaśvādriḥ . soturbāhubhyāṃ suyato nārvā
+
+**5.9**
+
+yudhedāpitvamicchase
+
+**5.10**
+
+yo na idamidaṃ purā pra vasya ānināya tamu va stuṣe . sakhāya indramūtaye
+
+**5.11**
+
+ā gantā mā riṣaṇyata prasthāvāno māpa sthāta samanyavaḥ . dṛḍhā cidyamayiṣṇavaḥ
+
+**5.12**
+
+ā yāhyayamindave 'śvapate gopate urvarāpate . somaṃ somapate piba
+
+**5.13**
+
+tvayā ha svidyujā vayaṃ prati śvasantaṃ vṛṣabha bruvīmahi . saṃsthe janasya gomataḥ
+
+**5.14**
+
+gāvaściddhā samanyavaḥ sajātyena marutaḥ sabandhavaḥ . rihate kakubho mithaḥ
+
+**5.15**
+
+tvaṃ na indrā bhara ojo nṛmṇaṃ śatakrato vicarṣaṇe . ā vīraṃ pṛtanāsaham
+
+**5.16**
+
+adhā hīndra girvaṇa upa tvā kāma īmahe sasṛgmahe . udeva gmanta udabhiḥ
+
+**5.17**
+
+sīdantaste vayo yathā gośrīte madhau madire vivakṣaṇe . abhi tvāmindra nonumaḥ
+
+**5.18**
+
+vayamu tvāmapūrvya sthūraṃ na kaccidbharanto 'vasyavaḥ . vajriñcitraṃ havāmahe
+
+**5.19**
+
+yā indreṇa sayāvarīrvṛṣṇā madanti śobhathā vasvīranu svarājyam
+
+**5.20**
+
+itthā hi soma inmado brahma cakāra vardhanam . śaviṣṭha vajrinnojasā pṛthivyā niḥ śaśā ahimarcannanu svarājyam
+
+**5.21**
+
+indro madāya vāvṛdhe śavase vṛtrahā nṛbhiḥ . taminmahatsvājiṣūtimarbhe havāmahe sa vājeṣu pra no 'viṣat
+
+**5.22**
+
+indra tubhyamidadrivo 'nuttaṃ vajrinvīryam . yaddha tyaṃ māyinaṃ mṛgaṃ tava tyanmāyayāvadhīrarcannanu svarājyam
+
+**5.23**
+
+prehyabhīhi dhṛṣṇuhi na te vajro ni yaṃsate . indra nṛmṇaṃ hi te śavo hano vṛtraṃ jayā apo 'rcannanu svarājyam
+
+**5.24**
+
+yadudīrata ājayo dhṛṣṇave dhīyate dhanam . yuṅkṣvā madacyutā harī kaṃ hanaḥ kaṃ vasau dadho 'smāṃ indra vasau dadhaḥ
+
+**5.25**
+
+akṣannamīmadanta hyava priyā adhūṣata . astoṣata svabhānavo viprā naviṣṭhayā matī yojā nvindra te harī
+
+**5.26**
+
+upo ṣu śṛṇuhī giro maghavanmātathā iva . kadā naḥ sūnṛtāvataḥ kara idarthayāsa idyojā nvindra te harī
+
+**5.27**
+
+candramā apsvā3ntarā suparṇo dhāvate divi . na vo hiraṇyanemayaḥ padaṃ vindanti vidyuto vittaṃ me asya rodasī
+
+**5.28**
+
+prati priyatamaṃ rathaṃ vṛṣaṇaṃ vasuvāhanam . stotā vāmaśvināvṛśi stomebhirbhūṣati prati mādhvī mama śrutaṃ havam
+
+**5.29**
+
+yuddha syā te panīyasī samiddīdayati dyavīṣaṃ stotṛbhya ā bhara
+
+**5.30**
+
+āgniṃ na svavṛktibhirhotāraṃ tvā vṛṇīmahe . śīraṃ pāvakaśociṣaṃ vi vo made yajñeṣu stīrṇabarhiṣaṃ vivakṣase
+
+**5.31**
+
+mahe no adya bodhayoṣo rāye divitmatī . yathā cinno abodhayaḥ satyaśravasi vāyye sujāte aśvasūnṛte
+
+**5.32**
+
+bhadraṃ no api vātaya mano dakṣamuta kratum . athā te sakhye andhaso vi vo made raṇā gāvo na yavase vivakṣase
+
+**5.33**
+
+kratvā mahāṃ anuṣvadhaṃ bhīma ā vāvṛte śavaḥ . śriya ṛṣva upākayorni śiprī harivāṃ dadhe hastayorvajramāyasam
+
+**5.34**
+
+sa ghā taṃ vṛṣaṇaṃ rathamadhi tiṣṭhāti govidam . yaḥ pātraṃ hāriyojanaṃ pūrṇamindrā ciketati yojā nvindra te harī
+
+**5.35**
+
+agniṃ taṃ manye yo vasurastaṃ yaṃ yanti dhenavaḥ . astamarvanta āśavo 'staṃ nityāso vājina iṣaṃ stotṛbhya ā bhara
+
+**5.36**
+
+na tamaṃho na duritaṃ devāso aṣṭa martyam . sajoṣaso yamaryamā mitro nayati varuṇo ati dviṣaḥ
+
+**5.37**
+
+paryū ṣu pra dhanva vājasātaye pari vṛtrāṇi sakṣaṇiḥ . dviṣastaradhyā ṛṇayā na īrase
+
+**5.38**
+
+pavasva soma mahāntsamudraḥ pitā devānāṃ viśvābhi dhāma
+
+**5.39**
+
+pavasva soma mahe dakṣāyāśvo na nikto vājī dhanāya
+
+**5.40**
+
+induḥ paviṣṭa cārurmadāyāpāmupasthe kavirbhagāya
+
+**5.41**
+
+anu hi tvā sutaṃ soma madāmasi mahe samaryarājye . vājāṃ abhi pavamāna pra gāhase
+
+**5.42**
+
+ka īṃ vyaktā naraḥ sanīḍā rudrasya maryā atha svaśvāḥ
+
+**5.43**
+
+agne tamadyāśvaṃ na stomaiḥ kratuṃ na bhadraṃ hṛdispṛśam . ṛdhyāmā ta ohaiḥ
+
+**5.44**
+
+āvirmaryā ā vājaṃ vājino agmaṃ devasya savituḥ savam . svargāṃ arvanto jayata
+
+**5.45**
+
+pavasva soma dyumnī sudhāro mahāṃ avīnāmanupūrvyaḥ
+
+**5.46**
+
+viśvatodāvanviśvato na ā bhara yaṃ tvā śaviṣṭhamīmahe
+
+**5.47**
+
+eṣa brahmā ya ṛtviya indro nāma śruto gṛṇe
+
+**5.48**
+
+brahmāṇa indraṃ mahayanto arkairavardhayannahaye hantavā u
+
+**5.49**
+
+anavaste rathamaśvāya takṣustvaṣṭā vajraṃ puruhūta dyumantam
+
+**5.50**
+
+śaṃ padaṃ maghaṃ rayīṣiṇo na kāmamavrato hinoti na spṛśadrayim
+
+**5.51**
+
+sadā gāvaḥ śucayo viśvadhāyasaḥ sadā devā arepasaḥ
+
+**5.52**
+
+ā yāhi vanasā saha gāvaḥ sacanta varttaniṃ yadūdhabhiḥ
+
+**5.53**
+
+upa prakṣe madhumati kṣiyantaḥ puṣyema rayiṃ dhīmahe ta indra
+
+**5.54**
+
+arcantyarkaṃ marutaḥ svarkkā ā stobhati śruto yuvā sa indraḥ
+
+**5.55**
+
+pra va indrāya vṛtrahantamāya viprāya gāthaṃ gāyata yaṃ jujoṣate
+
+**5.56**
+
+agne tvaṃ no antama uta trātā śivo bhuvo varūthyaḥ
+
+**5.57**
+
+bhago na citro agnirmahonāṃ dadhāti ratnam
+
+**5.58**
+
+viśvasya pra stobha puro vā sanyadi veha nūnam
+
+**5.59**
+
+uṣā apa svasuṣṭamaḥ saṃ varttayati varttaniṃ sujātatā
+
+**5.60**
+
+imā nu kaṃ bhuvanā sīṣadhemendraśca viśve ca devāḥ
+
+**5.61**
+
+vi srutayo yathā patha indra tvadyantu rātayaḥ
+
+**5.62**
+
+ayā vājaṃ devahitaṃ sanema madema śatahimāḥ suvīrāḥ
+
+**5.63**
+
+ūrjā mitro varuṇaḥ pinvateḍāḥ pīvarīmiṣaṃ kṛṇuhī na indra
+
+**5.64**
+
+indro viśvasya rājati
+
+**5.65**
+
+sa īṃ mamāda mahi karma karttave mahāmuruṃ sainaṃ saścaddevo devaṃ satya induḥ satyamindram
+
+**5.66**
+
+ayaṃ sahasramānavo dṛśaḥ kavīnāṃ matirjyotirvidharma . bradhnaḥ samīcīruṣasaḥ samairayadarepasaḥ socetasaḥ svasare manyumantaścitā goḥ
+
+**5.67**
+
+endra yāhyupa naḥ parāvato nāyamacchā vidathānīva satpatirastā rājeva satpatiḥ . havāmahe tvā prayasvantaḥ suteṣvā putrāso na pitaraṃ vājasātaye maṃhiṣṭhaṃ vājasātaye
+
+**5.68**
+
+tamindraṃ johavīmi maghavānamugraṃ satrā dadhānamapratiṣkutaṃ śravāṃsi bhūriḥ . maṃhiṣṭho gīrbhirā ca yajñiyo vavartta rāye no viśvā supathā kṛṇotu vajrī
+
+**5.69**
+
+astu śrauṣṭpuro agniṃ dhiyā dadha ā nu tyacchardho divyaṃ vṛṇīmaha indravāyū vṛṇīmahe . yaddha krāṇā vivasvate nābhā sandāya navyase . adha pra nūnamupa yanti dhītayo devāṃacchā na dhītayaḥ
+
+**5.70**
+
+pra vo mahe matayo yantu viṣṇave marutvate girijā evayāmarut . pra śardhāya pra yajyave sukhādaye tavase bhandadiṣṭaye dhunivratāya śavase
+
+**5.71**
+
+ayā rucā hariṇyā punāno viśvā dveṣāṃsi tarati sayugvabhiḥ sūro na sayugvabhiḥ . dhārā pṛṣṭhasya rocate punāno aruṣo hariḥ . viśvā yadrūpā pariyāsyṛkvabhiḥ saptāsyebhirṛkvabhiḥ
+
+**5.72**
+
+abhi tyaṃ devaṃ savitāramoṇyoḥ kavikratumarcāmi satyasavaṃ ratnadhāmabhi priyaṃ matim ūrdhvā yasyāmatirbhā adidyutatsavīmani hiraṇyapāṇiramimīta sukratuḥ kṛpā svaḥ
+
+**5.73**
+
+agniṃ hotāraṃ manye dāsvantaṃ vasoḥ sūnuṃ sahaso jātavedasaṃ vipraṃ na jātavedasam . ya ūrdhvayā svadhvaro devo devācyā kṛpā . ghṛtasya vibhrāṣṭimanu śukraśociṣa ājuhvānasya sarpiṣaḥ
+
+**5.74**
+
+tava tyannaryaṃ nṛto 'pa indra prathamaṃ pūrvyaṃ divi pravācyaṃ kṛtam . yo devasya śavasā prāriṇā asu riṇannapaḥ . bhuvo viśvamabhyadevamojasā videdūrjaṃ śatakraturvidediṣam
+
+**5.75**
+
+uccā te jātamandhaso divi sadbhūmyā dade . ugraṃ śarma mahi śravaḥ
+
+**5.76**
+
+svādiṣṭhayā madiṣṭhayā pavasva soma dhārayā . indrāya pātave sutaḥ
+
+**5.77**
+
+vṛṣā pavasva dhārayā marutvate ca matsaraḥ . viśvā dadhāna ojasā
+
+**5.78**
+
+yaste mado vareṇyastenā pavasvāndhasā . devāvīraghaśaṃsahā
+
+**5.79**
+
+tisro vāca udīrate gāvo mimanti dhenavaḥ . harireti kanikradat
+
+**5.80**
+
+indrāyendo marutvate pavasva madhumattamaḥ . arkasya yonimāsadam
+
+**5.81**
+
+asāvyaṃśurmadāyāpsu dakṣo giriṣṭhāḥ . śyeno na yonimāsadat
+
+**5.82**
+
+pavasva dakṣasādhano devebhyaḥ pītaye hare . marudbhyo vāyave madaḥ
+
+**5.83**
+
+pari svāno giriṣṭhāḥ pavitre somo akṣarat . madeṣu sarvadhā asi
+
+**5.84**
+
+pari priyā divaḥ kavirvayāṃsi naptyorhitaḥ . svānairyāti kavikratuḥ
+
+**5.85**
+
+sutā vidathe akramuḥ
+
+**5.86**
+
+pra somāso vipaścito 'po nayanta ūrmayaḥ . vanāni mahiṣā iva
+
+**5.87**
+
+pavasvendo vṛṣā sutaḥ kṛdhī no yaśaso jane . viśvā apa dviṣo jahi
+
+**5.88**
+
+vṛṣā hyasi bhānunā dyumantaṃ tvā havāmahe . pavamāna svardṛśam
+
+**5.89**
+
+induḥ paviṣṭa cetanaḥ priyaḥ kavīnāṃ matiḥ . sṛjadaśvaṃ rathīriva
+
+**5.90**
+
+asṛkṣata pra vājino gavyā somāso aśvayā . śukrāso vīrayāśavaḥ
+
+**5.91**
+
+pavasva deva āyuṣagindraṃ gacchatu te madaḥ . vāyumā roha dharmaṇā
+
+**5.92**
+
+pavamāno ajījanaddivaścitraṃ na tanyatum . jyotirvaiśvānaraṃ bṛhat
+
+**5.93**
+
+pari svānāsa indavo madāya barhaṇā girā . madho arṣanti dhārayā
+
+**5.94**
+
+pari prāsiṣyadatkaviḥ sindhorūrmāvadhi śritaḥ . kāruṃ bibhratpuruspṛham

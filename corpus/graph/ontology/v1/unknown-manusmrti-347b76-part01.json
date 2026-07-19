@@ -1,0 +1,296 @@
+{
+  "work_slug": "unknown-manusmrti-347b76",
+  "extracted_at": "2026-06-29T00:00:00Z",
+  "ontology_version": "v1",
+  "window_chapters": ["01"],
+  "entities": [
+    {
+      "canonical_name": "Manu",
+      "surface_names": ["Manu", "Svayambhuva Manu"],
+      "kind": "figure",
+      "figure_kind": "mythological",
+      "mentions": [
+        {
+          "paragraph_id": "p-879544",
+          "quote": "The great sages, approaching Manu who was seated with a concentrated mind",
+          "role": "cosmic lawgiver addressed by the sages"
+        },
+        {
+          "paragraph_id": "p-c4f31f",
+          "quote": "the wise Svayambhuva Manu composed this shastra",
+          "role": "author of the Manusmṛti"
+        },
+        {
+          "paragraph_id": "p-7e3681",
+          "quote": "These seven Manus, beginning with Svayambhuva, all of great splendor",
+          "role": "first and archetype of the seven Manus"
+        }
+      ],
+      "description": "The cosmic lawgiver, first of the seven Manus, who received creation and law from Brahma and dictated the Dharmaśāstra to the assembled sages through the intermediary Bhrigu.",
+      "justification": "Manu is a named individual with divine authority and cosmic agency — he is the source of the text's entire legal order. Kind=figure/mythological because he is a primordial cosmic being whose personhood and lawgiving function are central to the narrative, not merely an abstract concept.",
+      "founding_texts": ["Mahābhārata", "Purāṇas"]
+    },
+    {
+      "canonical_name": "Brahma",
+      "surface_names": ["Brahma", "Brahma", "the Self-existent One", "Svayambhu", "the Lord"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-153021",
+          "quote": "in it he himself was born as Brahma, the great father of all the worlds",
+          "role": "creator deity born from the golden egg"
+        },
+        {
+          "paragraph_id": "p-93cef0",
+          "quote": "Then the divine Self-existent One, himself unmanifest, manifesting this universe with the great elements",
+          "role": "primordial creator who dispels darkness"
+        },
+        {
+          "paragraph_id": "p-5a3053",
+          "quote": "one day of Brahma, and his night is of the same length",
+          "role": "cosmic timekeeper whose day equals a thousand ages"
+        }
+      ],
+      "description": "The Self-existent One who creates the universe from himself, generates the Veda, and whose cosmic day and night structure time; the divine source from whom Manu and the lawgiving chain descend.",
+      "justification": "Brahma is named as a distinct divine figure with personal agency (he wills, sleeps, awakens, creates). Kind=figure/deity because he is explicitly worshipped as the creator god, not just an abstract cosmic principle.",
+      "founding_texts": ["Ṛgveda", "Śatapatha Brāhmaṇa", "Purāṇas"]
+    },
+    {
+      "canonical_name": "Bhrigu",
+      "surface_names": ["Bhrigu", "Bhṛgu"],
+      "kind": "figure",
+      "figure_kind": "mythological",
+      "mentions": [
+        {
+          "paragraph_id": "p-23fa2c",
+          "quote": "Marichi, Atri, Angiras, Pulastya, Pulaha, Kratu, Prachetas, Vasishtha, Bhrigu, and also Narada",
+          "role": "one of the ten primordial Prajāpatis created by Manu"
+        },
+        {
+          "paragraph_id": "p-9c6199",
+          "quote": "This Bhrigu will recite this shastra to you in its entirety; for this sage has learned the whole of it completely from me",
+          "role": "the sage designated to transmit the Manusmṛti to the assembled seers"
+        },
+        {
+          "paragraph_id": "p-dfc3d6",
+          "quote": "Then Bhrigu, thus addressed by the great sage Manu, with a pleased mind, spoke to all the seers",
+          "role": "active narrator and transmitter of the text"
+        }
+      ],
+      "description": "One of the ten Prajāpatis (progenitors of creation) and the immediate disciple of Manu who actually recites the Dharmaśāstra to the assembled sages — he is the text's narrative voice.",
+      "justification": "Bhrigu is a named individual sage with divine lineage and a specific textual function. Kind=figure/mythological because he is a primordial rishi with cosmic significance, not a historical person.",
+      "founding_texts": ["Ṛgveda", "Mahābhārata"]
+    },
+    {
+      "canonical_name": "Nārāyaṇa",
+      "surface_names": ["Nārāyaṇa", "Narayana"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-0bfa5b",
+          "quote": "since they were his first dwelling place (ayana), he is therefore remembered as Nārāyaṇa",
+          "role": "epithet of the primordial deity whose dwelling is the waters"
+        }
+      ],
+      "description": "The primordial deity identified as the one who dwells in the primal waters (nārāḥ), an early Viṣṇu-Nārāyaṇa identification woven into the cosmogony.",
+      "justification": "Nārāyaṇa is given as a divine name with theological etymology — he is a deity receiving worship, not merely a concept. Kind=figure/deity.",
+      "founding_texts": ["Ṛgveda", "Mahābhārata", "Purāṇas"]
+    },
+    {
+      "canonical_name": "Viraj",
+      "surface_names": ["Viraj", "Virāj"],
+      "kind": "figure",
+      "figure_kind": "mythological",
+      "mentions": [
+        {
+          "paragraph_id": "p-1d82e4",
+          "quote": "Having divided his own body into two, the Lord became male with one half and female with the other; in her, he created Viraj",
+          "role": "cosmic male principle generated from the androgynous division of Brahma"
+        },
+        {
+          "paragraph_id": "p-134956",
+          "quote": "Know me, O best of the twice-born, to be that Male, Viraj, whom he himself created after performing tapas",
+          "role": "Manu self-identifies as Viraj, the cosmic creator-male"
+        }
+      ],
+      "description": "The cosmic Male principle produced from Brahma's self-division; Manu identifies himself with Viraj, connecting his lawgiving authority to cosmogonic origins.",
+      "justification": "Viraj is a named cosmic being with personal identity (Manu identifies as Viraj). Kind=figure/mythological because he is a primordial cosmic personage.",
+      "founding_texts": ["Ṛgveda", "Bṛhadāraṇyaka Upaniṣad"]
+    },
+    {
+      "canonical_name": "Dharma",
+      "surface_names": ["Dharma", "dharma", "Dharma (righteousness)"],
+      "kind": "idea",
+      "mentions": [
+        {
+          "paragraph_id": "p-84ef7f",
+          "quote": "he separated Dharma (righteousness) from non-Dharma, and he yoked these creatures with the pairs of opposites",
+          "role": "cosmic moral principle separated from its opposite at creation"
+        },
+        {
+          "paragraph_id": "p-fcafde",
+          "quote": "In the Krita age, Dharma is four-footed and complete, and so is truth; no gain comes to men through any unrighteousness",
+          "role": "cosmic law at full strength in the golden age"
+        },
+        {
+          "paragraph_id": "p-8709d8",
+          "quote": "In the Krita age, the highest Dharma is tapas; in the Treta, knowledge is declared to be so",
+          "role": "the specific practice embodying Dharma changes across the four yugas"
+        },
+        {
+          "paragraph_id": "p-307a84",
+          "quote": "The very birth of a Brahmana is an eternal incarnation of Dharma",
+          "role": "Dharma as embodied in the Brahmana at birth"
+        }
+      ],
+      "description": "The cosmic and social ordering principle — simultaneously a metaphysical law built into creation, a measure of cosmic age (it declines by one quarter per yuga), and the practical right conduct assigned to each varna.",
+      "justification": "Dharma is the work's central governing concept: it is not just mentioned but is the organizing principle of the entire Manusmṛti. Kind=idea because it is an abstract cosmic/ethical principle, not a deity or person."
+    },
+    {
+      "canonical_name": "Varna system",
+      "surface_names": ["varnas", "the four varnas", "Brahmana", "Kshatriya", "Vaishya", "Shudra"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-b51d68",
+          "quote": "declare to us, precisely and in order, the sacred laws for all the four varnas (social orders) and for those born between them",
+          "role": "the primary addressees of the Dharmaśāstra"
+        },
+        {
+          "paragraph_id": "p-13a2db",
+          "quote": "he caused the Brahmana, the Kshatriya, the Vaishya, and the Shudra to emanate from his mouth, arms, thighs, and feet",
+          "role": "the four orders as cosmogonically grounded in Brahma's body"
+        },
+        {
+          "paragraph_id": "p-f0b26c",
+          "quote": "he of great splendor assigned separate duties to those born from his mouth, arms, thighs, and feet",
+          "role": "cosmic assignment of distinct dharmas to each order"
+        }
+      ],
+      "description": "The four social orders (brāhmaṇa, kṣatriya, vaiśya, śūdra) presented as cosmogonically emanated from Brahma's body and each assigned specific duties (svadharma); the organizing framework of the entire law code.",
+      "justification": "The varṇas are social collectivities — groups, not individuals or abstract ideas. Kind=group because they are collective social categories with assigned roles. The Brahmana, Kshatriya, Vaishya, and Shudra are the clearest group entities in this chapter."
+    },
+    {
+      "canonical_name": "The Vedas (Rik, Yajus, Saman)",
+      "surface_names": ["the Veda", "Rik", "Yajus", "Saman", "triple eternal Veda", "Śruti"],
+      "kind": "object",
+      "mentions": [
+        {
+          "paragraph_id": "p-189d55",
+          "quote": "From fire, wind, and the sun, he milked forth the triple eternal Veda—distinguished as Rik, Yajus, and Saman—for the accomplishment of the sacrifice",
+          "role": "sacred texts derived from cosmic elements at creation"
+        },
+        {
+          "paragraph_id": "p-3a6c83",
+          "quote": "he created for all beings their distinct names, their distinct actions, and their separate conditions, all from the words of the Veda",
+          "role": "source and basis of all names, actions, and conditions of beings"
+        },
+        {
+          "paragraph_id": "p-47b537",
+          "quote": "The rule of conduct is the highest Dharma, declared in both Śruti and Smārta",
+          "role": "Śruti (the Veda) as one of the two authoritative sources of Dharma"
+        }
+      ],
+      "description": "The three-part eternal scripture (Ṛk, Yajur, Sāman) derived from fire, wind, and sun at creation; the ultimate source of all names, classifications, and sacred law, which the Manusmṛti claims to encode and transmit.",
+      "justification": "The Vedas are named ritual/sacred artifacts — specific texts invoked as objects of authority. Kind=object because they are treated as concrete textual artifacts, not abstract ideas. (They are not citations here because the text does not explicitly quote from them; they are invoked as cosmogonic objects from which the law derives.)"
+    },
+    {
+      "canonical_name": "Krita Yuga (four cosmic ages)",
+      "surface_names": ["Krita Yuga", "Treta", "Dvapara", "Kali age", "Krita age", "yuga", "ages"],
+      "kind": "event",
+      "mentions": [
+        {
+          "paragraph_id": "p-a2767c",
+          "quote": "They say that four thousand years is the Krita Yuga; its twilight before is of as many hundreds",
+          "role": "the first and most complete of the four cosmic ages"
+        },
+        {
+          "paragraph_id": "p-fcafde",
+          "quote": "In the Krita age, Dharma is four-footed and complete, and so is truth; no gain comes to men through any unrighteousness",
+          "role": "the golden age of complete Dharma"
+        },
+        {
+          "paragraph_id": "p-4f03a9",
+          "quote": "The Dharmas of men are different in the Krita age, different in the Treta and the Dvapara, and different again in the Kali age",
+          "role": "the four ages as successive contexts for different forms of Dharma"
+        }
+      ],
+      "description": "The four cosmic ages (Krita, Treta, Dvāpara, Kali) as a cyclical temporal framework: Dharma declines by one quarter in each age, and the appropriate practice shifts from tapas to knowledge to sacrifice to giving.",
+      "justification": "The four cosmic ages are a cyclical temporal event-sequence built into the cosmogony. Kind=event (recurring cosmic episodes) rather than idea because they are temporal occurrences with specific durations and characteristics, not abstract principles."
+    },
+    {
+      "canonical_name": "Tapas (ascetic heat)",
+      "surface_names": ["tapas", "ascetic heat", "austerities"],
+      "kind": "idea",
+      "mentions": [
+        {
+          "paragraph_id": "p-722707",
+          "quote": "He created tapas (ascetic heat), speech, and pleasure, and also desire and anger",
+          "role": "cosmic force created by Brahma at the beginning"
+        },
+        {
+          "paragraph_id": "p-f60334",
+          "quote": "I, desiring to create progeny, performed the most difficult tapas",
+          "role": "the cosmic ascesis by which Manu himself creates the Prajāpatis"
+        },
+        {
+          "paragraph_id": "p-8709d8",
+          "quote": "In the Krita age, the highest Dharma is tapas",
+          "role": "the supreme Dharmic practice of the golden age"
+        }
+      ],
+      "description": "Ascetic heat or spiritual discipline — both a cosmic force created at the beginning of the world and the specific practice identified as the highest Dharma in the Krita age; the engine of creation for Manu and his progeny.",
+      "justification": "Tapas is an abstract metaphysical/practical principle rather than a person, object, or event. Kind=idea because it designates a concept (ascetic power) invoked as both cosmogonic force and normative practice."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Cosmogonic legitimation of social hierarchy",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-13a2db",
+          "quote": "he caused the Brahmana, the Kshatriya, the Vaishya, and the Shudra to emanate from his mouth, arms, thighs, and feet"
+        },
+        {
+          "paragraph_id": "p-7c0113",
+          "quote": "By his origin from the highest limb, by his seniority, and by his preservation of the Veda, the Brahmana is by right the lord of this whole creation"
+        }
+      ],
+      "justification": "The chapter's opening cosmogony is not merely descriptive: it is constructed to ground the varna hierarchy in Brahma's own body. The Brahmana's claim to supremacy ('lord of this whole creation', 'entitled to this all') is derived directly from his cosmogonic origin. This is a textual strategy of naturalization — making social inequality appear as cosmic necessity. The theme is explicit in the text but philosophically significant as a legitimation argument."
+    },
+    {
+      "topic": "Temporal decline of Dharma across cosmic cycles",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-1365cd",
+          "quote": "In the other ages, Dharma is successively deprived of one foot due to what is gained; and through theft, falsehood, and deceit, Dharma diminishes by one foot in each"
+        },
+        {
+          "paragraph_id": "p-8709d8",
+          "quote": "In the Krita age, the highest Dharma is tapas; in the Treta, knowledge is declared to be so; in the Dvapara, they call it the yajña; and in the Kali age, giving is the one Dharma"
+        }
+      ],
+      "justification": "The chapter presents a systematic theory of moral-cosmic decline: Dharma was complete in the Krita age and diminishes by one quarter with each subsequent yuga. This is a philosophy of history — a view that the present age (Kali) is degenerate and that the Dharmaśāstra is therefore especially necessary as a corrective anchor."
+    },
+    {
+      "topic": "Authority and textual transmission as sacred chain",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-fe9249",
+          "quote": "Having composed this shastra, he himself first taught it to me with due ceremony; and I then taught it to Marichi and the other sages"
+        },
+        {
+          "paragraph_id": "p-9c6199",
+          "quote": "This Bhrigu will recite this shastra to you in its entirety; for this sage has learned the whole of it completely from me"
+        }
+      ],
+      "justification": "Though never named as a topic, the chapter's frame narrative — sages question Manu, Manu channels Brahma, Bhrigu recites to the assembly — constructs a chain of sacred transmission (paramparā) as the very basis of legal authority. The implicit claim is that a law code is only valid if traceable to divine origin through an unbroken lineage. This is the text's theory of normative legitimacy, never stated as a proposition but enacted by the narrative structure."
+    }
+  ],
+  "citations": []
+}

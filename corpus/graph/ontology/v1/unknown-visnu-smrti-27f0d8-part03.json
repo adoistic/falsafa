@@ -1,0 +1,610 @@
+{
+  "slug": "unknown-visnu-smrti-27f0d8",
+  "window": "21-31",
+  "entities": [
+    {
+      "canonical_name": "Brahma",
+      "surface_names": ["Brahma", "world of Brahma"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-a406db",
+          "quote": "He who gives a maiden in the Brāhma form of marriage leads her to the world of Brahma.",
+          "role": "cosmic destination attained via Brāhma marriage"
+        },
+        {
+          "paragraph_id": "p-4fb4ed",
+          "quote": "by a teacher who desires the world of Brahma, knowledge must be sown in the fields of worthy pupils",
+          "role": "cosmic reward sought by the ideal teacher"
+        },
+        {
+          "paragraph_id": "p-0d7c56",
+          "quote": "through service to his teacher, he attains the world of Brahma",
+          "role": "ultimate cosmic destination for devoted pupils"
+        }
+      ],
+      "description": "The creator deity whose realm is the highest cosmic destination attainable through righteous marriage, teaching, and filial devotion.",
+      "justification": "Brahma appears as the supreme cosmic referent whose world (brahmaloka) is the stated reward for ideal conduct in marriage, knowledge-transmission, and teacher-devotion."
+    },
+    {
+      "canonical_name": "Soma",
+      "surface_names": ["Soma"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-40b90c",
+          "quote": "To Soma, accompanied by the ancestors, svadhā, salutation!",
+          "role": "recipient of oblation in the ancestral fire-rite"
+        }
+      ],
+      "description": "Vedic lunar deity invoked alongside the ancestors in the monthly mortuary fire-rite.",
+      "justification": "Soma is directly addressed in the prescribed mantra for the ekoddiṣṭa fire-oblation ritual, marking his role as mediator for ancestral offerings."
+    },
+    {
+      "canonical_name": "Agni",
+      "surface_names": ["Agni", "Gārhapatya fire", "Dakṣiṇāgni", "Āhavanīya", "fire"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-17e2f2",
+          "quote": "To Agni, the conveyor of offerings to the ancestors, svadhā, salutation!",
+          "role": "ritual intermediary conveying offerings to ancestors"
+        },
+        {
+          "paragraph_id": "p-3f6a42",
+          "quote": "The father is the Gārhapatya fire, the mother is the Dakṣiṇāgni, and the teacher is the Āhavanīya.",
+          "role": "symbolic identification of sacred fires with family elders"
+        }
+      ],
+      "description": "Fire deity who conveys oblations to the dead and whose three sacred fire-forms are identified symbolically with father, mother, and teacher.",
+      "justification": "Agni appears first as the named conveyor of ancestral offerings in the mortuary mantra, then as a triple symbol equated with the three supreme elders."
+    },
+    {
+      "canonical_name": "Yama",
+      "surface_names": ["Yama"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-eb5d41",
+          "quote": "To Yama, accompanied by the Aṅgirasas, svadhā, salutation!",
+          "role": "recipient of oblation in the ancestral fire-rite"
+        }
+      ],
+      "description": "God of the dead, invoked with the Aṅgirasas in the monthly mortuary oblation mantra.",
+      "justification": "Yama is directly addressed by name in the prescribed ritual mantra for the ekoddiṣṭa ceremony, functioning as overseer of the ancestral realm."
+    },
+    {
+      "canonical_name": "Indra",
+      "surface_names": ["Indra"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-d66c31",
+          "quote": "Nor when Indra's banner is raised.",
+          "role": "deity whose festival banner-raising marks a Vedic study prohibition"
+        }
+      ],
+      "description": "King of the gods whose banner-raising festival is one of the auspicious occasions that suspends Vedic recitation.",
+      "justification": "The raising of Indra's banner is explicitly listed as a circumstance forbidding Vedic study, indicating his cultic festivity supersedes normal study schedules."
+    },
+    {
+      "canonical_name": "Lakṣmī",
+      "surface_names": ["Lakṣmī"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-cc30bd",
+          "quote": "Lakṣmī is in their dung, and dharma in bowing to them; one should always bow to them.",
+          "role": "auspicious presence residing symbolically in cow-dung"
+        }
+      ],
+      "description": "Goddess of prosperity and auspiciousness, said to reside in cow-dung as part of the cow's sacred and purificatory character.",
+      "justification": "Lakṣmī is explicitly located within the body of the cow (her dung), reinforcing the cow's status as a sacred purifier and vessel of divine presence."
+    },
+    {
+      "canonical_name": "Vishnu",
+      "surface_names": ["Vishnu", "world of Vishnu"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-de7c78",
+          "quote": "In the Ārṣa form, to the world of Vishnu.",
+          "role": "cosmic destination attained by giving a daughter in the Ārṣa form of marriage"
+        }
+      ],
+      "description": "The preserver deity whose realm is promised as the cosmic reward for giving a daughter in the Ārṣa form of marriage.",
+      "justification": "The text names Vishnu's world as the specific afterlife destination for those who perform the Ārṣa marriage, situating him within the graded hierarchy of cosmic rewards for different marriage forms."
+    },
+    {
+      "canonical_name": "Gandharvas",
+      "surface_names": ["Gandharvas", "world of the Gandharvas"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-ac7490",
+          "quote": "In the Gāndharva form, he goes to the world of the Gandharvas.",
+          "role": "cosmic destination associated with the Gāndharva marriage"
+        }
+      ],
+      "description": "Semi-divine celestial beings whose realm is the afterlife destination for those who give a daughter in the Gāndharva (mutual-consent) form of marriage.",
+      "justification": "The Gandharvas are named as the inhabitants of the cosmic realm reached through Gāndharva marriage, tying the nomenclature of the marriage rite to its eschatological outcome."
+    },
+    {
+      "canonical_name": "Aṅgirasas",
+      "surface_names": ["Aṅgirasas"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-eb5d41",
+          "quote": "To Yama, accompanied by the Aṅgirasas, svadhā, salutation!",
+          "role": "divine companions of Yama invoked in ancestral oblation"
+        }
+      ],
+      "description": "A class of ancient Vedic sages or semi-divine beings who accompany Yama and are invoked as witnesses in the mortuary oblation mantra.",
+      "justification": "The Aṅgirasas appear in direct ritual invocation alongside Yama, marking them as part of the ancestral-world assembly honored in the ekoddiṣṭa rite."
+    },
+    {
+      "canonical_name": "Brāhmaṇa",
+      "surface_names": ["Brāhmaṇa", "Brāhmaṇas", "twice-born"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-2be678",
+          "quote": "For the sapiṇḍas of a Brāhmaṇa, the āśauca on account of a birth or death is ten days.",
+          "role": "highest-ranked varṇa defining the baseline āśauca period"
+        },
+        {
+          "paragraph_id": "p-1ac119",
+          "quote": "Now, a Brāhmaṇa may have four wives, according to the order of the varṇas.",
+          "role": "highest-ranked varṇa permitted the most wives"
+        },
+        {
+          "paragraph_id": "p-04b131",
+          "quote": "The gods have ordained three pure things for Brāhmaṇas: What has not been seen by an impure person, what has been cleansed with water, and what is praised by speech.",
+          "role": "group with special divine dispensation regarding purity"
+        }
+      ],
+      "description": "The priestly class, highest of the four varṇas, whose members receive the most rigorous purity rules, the most wives, the longest āśauca, and the greatest cosmic rewards.",
+      "justification": "Brāhmaṇas are the primary reference group throughout chapters 21-31, against which all other varṇas are measured in matters of purity, marriage, and education."
+    },
+    {
+      "canonical_name": "Kṣatriya",
+      "surface_names": ["Kṣatriya", "Rājanya", "Kṣatriyas"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-3f2f65",
+          "quote": "Twelve days for a Rājanya.",
+          "role": "second varṇa ranked by āśauca duration"
+        },
+        {
+          "paragraph_id": "p-714a29",
+          "quote": "A Kṣatriya, three.",
+          "role": "second varṇa permitted three wives"
+        },
+        {
+          "paragraph_id": "p-15dd77",
+          "quote": "The Gāndharva is also for Rājanyas.",
+          "role": "group for whom the Gāndharva form of marriage is sanctioned"
+        }
+      ],
+      "description": "The warrior-noble class, second of the four varṇas, distinguished by a twelve-day āśauca, permission for three wives, and additional sanction for Gāndharva marriage.",
+      "justification": "Kṣatriyas/Rājanyas form the second tier in the consistently applied varṇa hierarchy across purity law, marriage rules, and saṃskāra timing."
+    },
+    {
+      "canonical_name": "Vaiśya",
+      "surface_names": ["Vaiśya", "Vaiśyas"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-f890e2",
+          "quote": "Fifteen days for a Vaiśya.",
+          "role": "third varṇa ranked by āśauca duration"
+        },
+        {
+          "paragraph_id": "p-ca37a3",
+          "quote": "A Vaiśya, two.",
+          "role": "third varṇa permitted two wives"
+        }
+      ],
+      "description": "The mercantile-agricultural class, third of the four varṇas, with a fifteen-day āśauca and permission for two wives.",
+      "justification": "Vaiśyas occupy a consistent middle-low position in the varṇa ladder applied to āśauca, marriage, upanayana timing, and ritual materials."
+    },
+    {
+      "canonical_name": "Śūdra",
+      "surface_names": ["Śūdra", "Śūdras", "Śūdrā"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-db3442",
+          "quote": "A month for a Śūdra.",
+          "role": "lowest-ranked varṇa with the longest āśauca"
+        },
+        {
+          "paragraph_id": "p-b7ffa4",
+          "quote": "For Śūdras, it is on the twelfth day, but without mantras.",
+          "role": "group excluded from ritual formulas in sapiṇḍīkaraṇa"
+        },
+        {
+          "paragraph_id": "p-66dc86",
+          "quote": "A Śūdrā wife of a twice-born man is never for the purpose of dharma; She is said to be only for the pleasure of him who is blinded by passion.",
+          "role": "lowest-ranked group whose women are disqualified from joint religious duties"
+        }
+      ],
+      "description": "The servile class, lowest of the four varṇas, subject to the longest āśauca, excluded from mantras, and whose women cannot serve in the husband's religious rites.",
+      "justification": "Śūdras are consistently placed at the bottom of every ranked list in chapters 21-31, from āśauca duration to marriage rights and educational access."
+    },
+    {
+      "canonical_name": "Caṇḍāla",
+      "surface_names": ["Caṇḍāla", "Caṇḍālas"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-8df9fc",
+          "quote": "And after touching one who has touched a corpse, a menstruating woman, a Caṇḍāla, or a sacrificial post.",
+          "role": "social outcast whose touch requires ritual bathing"
+        },
+        {
+          "paragraph_id": "p-2df189",
+          "quote": "And after conversing with a Caṇḍāla or a Mleccha.",
+          "role": "social outcast whose contact necessitates mouth-rinsing"
+        },
+        {
+          "paragraph_id": "p-0a52c0",
+          "quote": "that of one killed by other carnivorous animals, or by Caṇḍālas and other robbers",
+          "role": "marginal social group associated with killing and outcaste status"
+        }
+      ],
+      "description": "The hereditary outcaste group placed outside the varṇa system, whose touch and conversation require immediate purification rites.",
+      "justification": "Caṇḍālas appear repeatedly as the paradigmatic source of ritual contamination requiring bathing or mouth-rinsing, defining the outer boundary of the purity system."
+    },
+    {
+      "canonical_name": "Mleccha",
+      "surface_names": ["Mleccha"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-2df189",
+          "quote": "And after conversing with a Caṇḍāla or a Mleccha.",
+          "role": "foreign/barbarian group whose conversation requires mouth-rinsing"
+        }
+      ],
+      "description": "A category of foreigners or barbarians outside Vedic civilization, conversation with whom requires ritual mouth-rinsing.",
+      "justification": "The Mleccha is paired with the Caṇḍāla as a source of verbal pollution, indicating that non-Vedic foreigners are treated as equivalent to domestic outcastes in the purity code."
+    },
+    {
+      "canonical_name": "Sāvitrī verse",
+      "surface_names": ["Sāvitrī", "Sāvitrī verse", "Gāyatrī mantra"],
+      "kind": "object",
+      "mentions": [
+        {
+          "paragraph_id": "p-434207",
+          "quote": "shall become pure by reciting the aghamarṣaṇa three times, and after coming out, by repeating the Gāyatrī mantra eight thousand times",
+          "role": "purificatory recitation for āśauca violation"
+        },
+        {
+          "paragraph_id": "p-cfcbb5",
+          "quote": "There, his mother is the Sāvitrī verse, and his father is the ācārya",
+          "role": "sacred formula that acts as the symbolic mother at initiation"
+        },
+        {
+          "paragraph_id": "p-53556c",
+          "quote": "For a Brāhmaṇa, the Sāvitrī verse is not lost up to the sixteenth year",
+          "role": "initiatory verse with a time-limit for proper reception"
+        }
+      ],
+      "description": "The foundational Vedic prayer (Ṛgveda 3.62.10) that functions both as the mantra of initiation and as a purificatory recitation, personified as the spiritual mother of the initiand.",
+      "justification": "The Sāvitrī/Gāyatrī is the single most referenced scriptural object in these chapters, governing purification penalties, the meaning of twice-birth, and the deadline for upanayana."
+    },
+    {
+      "canonical_name": "Veda",
+      "surface_names": ["Veda", "Vedas", "Ṛg Veda", "Yajur Veda", "Sāma Veda", "Ātharvaṇa verses", "Ṛg verses", "Yajur verses", "Sāma verses"],
+      "kind": "object",
+      "mentions": [
+        {
+          "paragraph_id": "p-799a79",
+          "quote": "Thus he shall master one Veda, two Vedas, or all the Vedas.",
+          "role": "body of knowledge the brahmacārī must master"
+        },
+        {
+          "paragraph_id": "p-004b49",
+          "quote": "Nor the Ṛg or Yajur Veda during the sound of the Sāma Veda.",
+          "role": "canonical texts subject to strict rules of non-simultaneous recitation"
+        },
+        {
+          "paragraph_id": "p-bbc1d4",
+          "quote": "by the Ṛg verses he studies, he satisfies his ancestors with clarified butter",
+          "role": "instrument of ancestral satisfaction through study"
+        }
+      ],
+      "description": "The four canonical Vedic collections (Ṛg, Yajur, Sāma, Atharva), the primary object of brahmacarya studentship, whose study is governed by detailed prohibitions and whose recitation satisfies the ancestors.",
+      "justification": "The Vedas are the central object of chapters 28-30 and the ultimate purpose of the upanayana saṃskāra; their study rules and cosmological significance structure the entire educational system described."
+    },
+    {
+      "canonical_name": "pañcagavya",
+      "surface_names": ["pañcagavya", "five products of the cow"],
+      "kind": "object",
+      "mentions": [
+        {
+          "paragraph_id": "p-dc9865",
+          "quote": "A Śūdra who has eaten during the āśauca of a Śūdra, having bathed, shall drink pañcagavya",
+          "role": "purificatory substance drunk after āśauca transgression"
+        },
+        {
+          "paragraph_id": "p-43d177",
+          "quote": "afterwards, when fresh water has sprung up, one should put in pañcagavya",
+          "role": "purificatory substance added to a ritually cleansed well"
+        }
+      ],
+      "description": "The five sacred products of the cow (urine, dung, milk, curd, and clarified butter) used as a collective purificatory drink and well-consecrant.",
+      "justification": "Pañcagavya is explicitly named as both an ingested purificatory remedy and a well-purification agent, reflecting the cow's central role in the text's purity theology."
+    },
+    {
+      "canonical_name": "cow",
+      "surface_names": ["cow", "cows", "calf"],
+      "kind": "animal",
+      "mentions": [
+        {
+          "paragraph_id": "p-ce0eae",
+          "quote": "By sweeping, smearing, sprinkling, and scraping, and by burning, the earth is purified, or by the dwelling of cows. Cows are a sacred blessing; in cows the worlds are established.",
+          "role": "sacred animal whose presence purifies the earth"
+        },
+        {
+          "paragraph_id": "p-fb8449",
+          "quote": "Cows perform the sacrifice; cows are the destroyers of all sin.",
+          "role": "agents of cosmic sacrifice and sin-destruction"
+        },
+        {
+          "paragraph_id": "p-a6bd70",
+          "quote": "A calf is pure when it urinates",
+          "role": "animal whose natural act is ritually pure"
+        }
+      ],
+      "description": "The sacred bovine whose presence, products (pañcagavya), gaze, and bodily contact are consistently described as purificatory, sin-destroying, and cosmically significant.",
+      "justification": "The cow is the subject of an extended encomium in chapter 23 that attributes cosmic, sacrificial, and purificatory powers to it, making it the single most elaborated non-human entity in the window."
+    },
+    {
+      "canonical_name": "Ganges",
+      "surface_names": ["Ganges"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-cc30bd",
+          "quote": "In the track of cows, the Ganges resides; prosperity flourishes in their dust",
+          "role": "sacred river said to reside in the track of cows"
+        }
+      ],
+      "description": "The holiest of sacred rivers, invoked as mystically present in the path trodden by cows, intensifying the cow's purificatory sacrality.",
+      "justification": "The Ganges appears as a metaphysical presence relocated into the cow's footprints, functioning to elevate bovine sacrality to the level of the most sacred river."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Ritual purity, pollution, and purification",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-58d36d",
+          "quote": "That which is defiled by bodily excretions, spirituous liquors, or intoxicants is extremely defiled."
+        },
+        {
+          "paragraph_id": "p-4da6e0",
+          "quote": "Knowledge, austerity, fire, food, earth, mind, water, smearing with cow-dung, Wind, religious acts, the sun, and time are the purifiers of embodied beings."
+        },
+        {
+          "paragraph_id": "p-ab1484",
+          "quote": "Of all purifications, the purification of food is declared to be the highest; He who is pure in his food is truly pure, not he who is pure by earth and water."
+        }
+      ],
+      "justification": "Chapters 22-23 are entirely devoted to a taxonomy of pollution sources and purification methods, culminating in a hierarchy of purification that elevates inner purity over external ritual."
+    },
+    {
+      "topic": "Varṇa hierarchy and differential ritual obligation",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-2be678",
+          "quote": "For the sapiṇḍas of a Brāhmaṇa, the āśauca on account of a birth or death is ten days."
+        },
+        {
+          "paragraph_id": "p-1ac119",
+          "quote": "Now, a Brāhmaṇa may have four wives, according to the order of the varṇas."
+        },
+        {
+          "paragraph_id": "p-0c5214",
+          "quote": "Twice-born men who, out of delusion, marry a woman of a low caste, Quickly bring their families, along with their descendants, to the state of Śūdras."
+        }
+      ],
+      "justification": "Every rule in chapters 22-27 is calibrated by varṇa — āśauca duration, number of wives, permitted marriage forms, naming conventions, saṃskāra timing — making hierarchical differentiation the structural backbone of these chapters."
+    },
+    {
+      "topic": "Mortuary and ancestral rites (śrāddha)",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-8527cb",
+          "quote": "he shall feed Brāhmaṇas of this same kind, as many as he can, seated facing north, and honored with perfumes, garlands, clothes, ornaments, and the like.",
+          "quote": "after the āśauca has passed, having bathed well... he shall feed Brāhmaṇas"
+        },
+        {
+          "paragraph_id": "p-b13237",
+          "quote": "Near the leftovers, he shall offer one funeral cake (piṇḍa) with the name and lineage of that person."
+        },
+        {
+          "paragraph_id": "p-e2982b",
+          "quote": "The sapiṇḍīkaraṇa may be performed on the thirteenth day, after having performed the twelve monthly śrāddhas in the form of a twelve-day rite."
+        }
+      ],
+      "justification": "Chapter 21 provides a detailed prescriptive program for post-death rites including the ekoddiṣṭa, monthly śrāddha, and the crucial sapiṇḍīkaraṇa that integrates the newly dead into the ancestral collective."
+    },
+    {
+      "topic": "Marriage forms and their cosmic consequences",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-3a34b6",
+          "quote": "The Brāhma, Daiva, Ārṣa, Prājāpatya, Gāndharva, Āsura, Rākṣasa, and Paiśāca."
+        },
+        {
+          "paragraph_id": "p-25b09c",
+          "quote": "The son of a Brāhmī wife purifies twenty-one generations."
+        },
+        {
+          "paragraph_id": "p-a406db",
+          "quote": "He who gives a maiden in the Brāhma form of marriage leads her to the world of Brahma."
+        }
+      ],
+      "justification": "Chapter 24 catalogues all eight traditional marriage forms with their soteriological outcomes — generational purification counts and specific cosmic destinations — making eschatological consequence the measure of matrimonial hierarchy."
+    },
+    {
+      "topic": "Subordination of women and female domestic duties",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-19ce4e",
+          "quote": "To be dependent on her father, husband, or son, in childhood, youth, and old age."
+        },
+        {
+          "paragraph_id": "p-dcb8f8",
+          "quote": "For women there is no separate sacrifice, no vow, nor any fast; The husband whom she serves, by that she is glorified in heaven."
+        },
+        {
+          "paragraph_id": "p-87f023",
+          "quote": "When her husband is dead, to practice chastity or to ascend the funeral pyre after him."
+        }
+      ],
+      "justification": "Chapter 25 presents an integrated normative code for women that denies them independent religious agency, grounds their soteriological outcome entirely in marital service, and includes sati as a widow's option."
+    },
+    {
+      "topic": "Life-cycle sacraments (saṃskāras)",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-addb9d",
+          "quote": "When the embryo is clearly discernible, the rite of conception (niṣeka)."
+        },
+        {
+          "paragraph_id": "p-9ee51e",
+          "quote": "And when the boy is born, the birth ceremony (jātakarma)."
+        },
+        {
+          "paragraph_id": "p-13d3bf",
+          "quote": "In the eighth year from conception, the upanayana (the investiture with the sacred thread) of a Brāhmaṇa."
+        }
+      ],
+      "justification": "Chapter 27 is a sequential catalogue of the major life-cycle rites from conception through initiation, defining both the rite and its timing by varṇa, forming the backbone of dharmaśāstra saṃskāra doctrine."
+    },
+    {
+      "topic": "Brahmacarya and teacher-student relationship",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-759816",
+          "quote": "Doing what is pleasing and beneficial to the teacher."
+        },
+        {
+          "paragraph_id": "p-dcfd65",
+          "quote": "The first birth is from the mother; the second is at the binding of the Muñja girdle."
+        },
+        {
+          "paragraph_id": "p-38911d",
+          "quote": "Of the progenitor and the giver of Brahman, the giver of Brahman is the more venerable father"
+        }
+      ],
+      "justification": "Chapters 28-30 provide an extended code of conduct for the celibate student (brahmacārī), culminating in the theological elevation of spiritual birth through the teacher above physical birth from parents."
+    },
+    {
+      "topic": "Prohibited occasions for Vedic study",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-9af377",
+          "quote": "Nor at the transition of seasons, nor after a solar or lunar eclipse, nor during a period of impurity due to birth or death."
+        },
+        {
+          "paragraph_id": "p-d085a7",
+          "quote": "Nor in a temple, a cremation ground, a crossroads, or a public road."
+        },
+        {
+          "paragraph_id": "p-7a48bd",
+          "quote": "Because what is studied on a forbidden day yields no fruit, neither in this world nor the next."
+        }
+      ],
+      "justification": "Chapter 30 devotes more than thirty rules entirely to enumerating the times, places, bodily states, and social circumstances that prohibit Vedic recitation, framing the Veda as cosmically sensitive and easily rendered unfruitful."
+    },
+    {
+      "topic": "Sanctity of the cow as a cosmic purifier",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-fb8449",
+          "quote": "Cows perform the sacrifice; cows are the destroyers of all sin. Cow's urine, cow-dung, clarified butter, milk, curd, and bile-pigment (rocanā),"
+        },
+        {
+          "paragraph_id": "p-175504",
+          "quote": "This six-fold substance of cows is supremely auspicious. Water from the horns of a cow is holy, the destroyer of all sin."
+        },
+        {
+          "paragraph_id": "p-cc30bd",
+          "quote": "In the track of cows, the Ganges resides; prosperity flourishes in their dust; Lakṣmī is in their dung"
+        }
+      ],
+      "justification": "Chapter 23 concludes with an extended theological encomium on cows (vv. 57-61) that systematically attributes cosmic, sacrificial, purificatory, and divine-presence qualities to them, functioning as a distinct doctrinal statement within the purity chapter."
+    },
+    {
+      "topic": "Three supreme elders: mother, father, and teacher",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-f9a643",
+          "quote": "The mother, the father, and the teacher."
+        },
+        {
+          "paragraph_id": "p-e3aa80",
+          "quote": "These three are the three Vedas, these three are the three gods, These three are the three worlds, these three are the three fires."
+        },
+        {
+          "paragraph_id": "p-0d7c56",
+          "quote": "Through devotion to his mother, he gains this world; through devotion to his father, the middle world; But through service to his teacher, he attains the world of Brahma."
+        }
+      ],
+      "justification": "Chapter 31 presents a self-contained theological unit equating the three supreme elders (mother, father, teacher) with three Vedas, three gods, three worlds, and three sacred fires, offering a cosmological grounding for familial and pedagogical piety."
+    },
+    {
+      "topic": "Inner vs. outer purity (spiritual hierarchy of purification)",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-ab1484",
+          "quote": "Of all purifications, the purification of food is declared to be the highest; He who is pure in his food is truly pure, not he who is pure by earth and water."
+        },
+        {
+          "paragraph_id": "p-7c2efa",
+          "quote": "The learned are purified by forbearance, those who do forbidden acts by charity, Those with secret sins by muttering prayers, and the best knowers of the Veda by austerity."
+        },
+        {
+          "paragraph_id": "p-155453",
+          "quote": "The limbs are purified by water, the mind is purified by truth, The soul by knowledge and austerity, and the intellect is purified by wisdom."
+        }
+      ],
+      "justification": "Although the surface content of chapters 22-23 is ritual purity law, the closing verses of chapter 22 construct an implicit hierarchy where moral/spiritual purification (truth, knowledge, austerity, forbearance) supersedes physical purification with earth and water."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Bhagavad Gita",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-d1ca98",
+      "quote": "This verse, and several that follow (notably 20.47-53), are identical or closely parallel to verses in the Bhagavad Gita (e.g., BG 2.27, 8.6, 2.13, 2.22, 2.23-25). This indicates a shared body of philosophical tradition from which both texts draw.",
+      "justification": "The translator's footnote in chapter 27 explicitly identifies verses in the preceding window as parallel to Bhagavad Gita passages, noting a shared philosophical tradition, constituting a recognized intertextual relationship with that work."
+    }
+  ]
+}
