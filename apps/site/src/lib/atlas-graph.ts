@@ -57,6 +57,8 @@ export interface EntityIndexRow {
   /** cross-reference: this name folded into the concept page at `see` (a
    *  head slug of the same kind) — render as "Kāla, see Time" */
   see?: string;
+  /** categorical layer: pantheon / divine collective */
+  divine?: boolean;
 }
 
 export interface EntityWorkMention {
@@ -86,6 +88,7 @@ export interface EntityDetailFile {
   figure_kind?: string;
   name: string;
   gloss?: string;
+  divine?: boolean;
   surfaces: string[];
   author_slug?: string;
   works: EntityWorkMention[];
@@ -292,6 +295,42 @@ export interface WorkOntology {
 }
 export function workOntology(slug: string): WorkOntology | null {
   return readJSON<WorkOntology>(join("works", `${slug}.json`));
+}
+
+// ───────────────────────────────────────────────────────────── divinity & dual natures
+
+/** normalize for name comparison (mirror of synthesize's norm) */
+function nameNorm(s: string): string {
+  return s
+    .normalize("NFD")
+    .replace(/[̀-ͯ]/g, "")
+    .toLowerCase()
+    .replace(/[^a-z0-9\s]/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+/** Same name carried by other kinds — the dual natures (Hades the god ↔
+ *  Hades the underworld; Earth the goddess ↔ earth the place). Paged only. */
+export function dualNatures(name: string, kind: EntityKind): EntityIndexRow[] {
+  const n = nameNorm(name);
+  return entityIndex().filter(
+    (e) => !e.see && e.page && e.kind !== kind && nameNorm(e.name) === n,
+  );
+}
+
+/** Individual deities (figure_kind=deity), largest first. */
+export function deities(): EntityIndexRow[] {
+  return entityIndex()
+    .filter((e) => !e.see && e.kind === "figure" && e.figure_kind === "deity")
+    .sort((a, b) => b.works - a.works || (a.name < b.name ? -1 : 1));
+}
+
+/** Pantheons & divine collectives (curated class in the concordance). */
+export function divineCollectives(): EntityIndexRow[] {
+  return entityIndex()
+    .filter((e) => !e.see && e.divine)
+    .sort((a, b) => b.works - a.works || (a.name < b.name ? -1 : 1));
 }
 
 // ───────────────────────────────────────────────────────────── derived

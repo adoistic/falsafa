@@ -38,11 +38,29 @@ const tail = rows.filter((e) => !e.page);
 const ledger = [...paged].sort(
   (a, b) => b.works - a.works || b.evidence - a.evidence || (a.name < b.name ? -1 : 1),
 );
-// figure sub-kind marks
-const fkMark: Record<string, string> = {
-  deity: "△",
-  mythological: "◦",
-};
+// Figures split by the harvest's own classing (the categorical layer):
+// deities · mythological · historical, each its own ledger. Other kinds
+// render one ledger. Groups get a divine-collectives call-out via /divinity.
+const ledgerGroups: { title: string; note?: string; rows: typeof ledger }[] =
+  kindDef.kind === "figure"
+    ? [
+        {
+          title: "the deities",
+          note: "Individual gods across every tradition, side by side with the pantheons —",
+          rows: ledger.filter((e) => e.figure_kind === "deity"),
+        },
+        {
+          title: "mythological figures",
+          rows: ledger.filter((e) => e.figure_kind === "mythological"),
+        },
+        {
+          title: "historical figures",
+          rows: ledger.filter(
+            (e) => e.figure_kind !== "deity" && e.figure_kind !== "mythological",
+          ),
+        },
+      ].filter((g) => g.rows.length > 0)
+    : [{ title: "the ledger", rows: ledger }];
 ---
 
 <Base
@@ -62,40 +80,34 @@ const fkMark: Record<string, string> = {
       </p>
     </header>
 
-    <section>
-      <RunningHead title="the ledger" folio={`${fmt(ledger.length)} entries`} />
-      <ol class="ledger">
-        {
-          ledger.map((e, i) => (
-            <li>
-              <a class="row" href={`/atlas/${kindDef.plural}/${e.slug}/`}>
-                <span class="row-n">{i + 1}</span>
-                <span class="row-name">
-                  {e.name}
-                  {e.figure_kind && fkMark[e.figure_kind] && (
-                    <span class="row-fk" title={e.figure_kind}>
-                      {" "}
-                      {fkMark[e.figure_kind]}
-                    </span>
-                  )}
-                </span>
-                <span class="row-meta">
-                  {pl(e.works, "work")} · {fmt(e.mentions)} mentions
-                </span>
-              </a>
-            </li>
-          ))
-        }
-      </ol>
-      {
-        kindDef.kind === "figure" && (
-          <p class="legend">
-            <span class="row-fk">△</span> deity · <span class="row-fk">◦</span>{" "}
-            mythological · unmarked, historical
-          </p>
-        )
-      }
-    </section>
+    {
+      ledgerGroups.map((g) => (
+        <section>
+          <RunningHead title={g.title} folio={`${fmt(g.rows.length)} entries`} />
+          {g.note && (
+            <p class="fk-note">
+              {g.note}{" "}
+              {g.title === "the deities" && (
+                <a href="/atlas/divinity/">The Divinity view</a>
+              )}
+            </p>
+          )}
+          <ol class="ledger">
+            {g.rows.map((e, i) => (
+              <li>
+                <a class="row" href={`/atlas/${kindDef.plural}/${e.slug}/`}>
+                  <span class="row-n">{i + 1}</span>
+                  <span class="row-name">{e.name}</span>
+                  <span class="row-meta">
+                    {pl(e.works, "work")} · {fmt(e.mentions)} mentions
+                  </span>
+                </a>
+              </li>
+            ))}
+          </ol>
+        </section>
+      ))
+    }
 
     {
       crossRefs.length > 0 && (
@@ -251,6 +263,18 @@ const fkMark: Record<string, string> = {
     font-variant-numeric: oldstyle-nums;
     color: var(--ink-muted);
     white-space: nowrap;
+  }
+  .fk-note {
+    font-family: var(--font-body);
+    font-size: 17px;
+    color: var(--ink-muted);
+    margin: 0 0 var(--s-4);
+    max-width: 62ch;
+  }
+  .fk-note a {
+    color: var(--accent);
+    text-decoration: none;
+    border-bottom: 1px solid var(--accent-soft);
   }
   .legend {
     margin-top: var(--s-4);

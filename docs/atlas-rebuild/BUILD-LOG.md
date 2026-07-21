@@ -183,3 +183,21 @@ see cross-lingual identity. The fix is a **concordance layer** in synthesis:
   measurement. Re-shoot marketing screenshots by hand if needed.
 - Old deep atlas URLs (`/atlas/works/<id>/`, `/atlas/people/…`) 404 by
   design (placeholder discarded); `/atlas/` root links all remain valid.
+
+## Session 5 addendum: the categorical layer — divinity
+
+Identity ≠ category, both needed. Identity stays strict (Zeus≠Jupiter≠God,
+Devas≠Olympians — guard list); the new categorical layer makes the divine
+browsable as a class:
+
+- **Coherence audit across all kinds** confirmed: figure_kind healthy
+  (882 deities / 2,046 mythological / 6,863 historical); divine collectives
+  were split across figure+group (Gods 35w+36w, Muses 13w+20w) — fixed by a
+  concordance `rekinds` mechanism (a collective is a group; re-kinded at
+  ingest, so same-kind merge unifies: Gods now one 60-work page). Cross-kind
+  same-names are mostly legitimate dual natures (Hades god/underworld, Earth
+  goddess/place) — now cross-linked on entity pages, never merged.
+- **/atlas/divinity/** — The Divine: 882 individual deities across every
+  tradition + 20 curated pantheons & divine collectives (concordance
+  `divine_collectives` class). Figures ledger split into deities /
+  mythological / historical sections.

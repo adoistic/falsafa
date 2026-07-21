@@ -202,6 +202,8 @@ async function main() {
   // ---- concordance (loaded early: renames apply at ingest) -----------
   interface Concordance {
     renames?: { kind: string; match: string; to: string }[];
+    rekinds?: { from: string; to: string; names: string[] }[];
+    divine_collectives?: string[];
     never?: [string, string][];
     clusters?: Record<string, { head: string; members: string[] }[]>;
     junk?: Record<string, string[]>;
@@ -214,6 +216,15 @@ async function main() {
   }
   const renameMap = new Map<string, string>(
     (concordance.renames ?? []).map((r) => [`${r.kind}|${r.match.trim().toLowerCase()}`, r.to]),
+  );
+  // a collective is a group: divine collectives the harvest typed as figures
+  // are re-kinded at ingest so same-kind merging unifies the split pages
+  const rekindMap = new Map<string, string>(); // `${fromKind}|${norm}` -> toKind
+  for (const r of concordance.rekinds ?? [])
+    for (const n of r.names) rekindMap.set(`${r.from}|${norm(n)}`, r.to);
+  // the categorical layer: pantheons & divine collectives (browsing class)
+  const divineSet = new Set(
+    (concordance.divine_collectives ?? []).map((n) => norm(n)),
   );
   // reviewer-flagged noise ("X and Y" compounds, sentence-fragments): the
   // data stays, but these never earn a page of their own
@@ -342,24 +353,29 @@ async function main() {
       totalEntityRows++;
       wa.entityRows++;
       const { kind, figureKind } = canonKind(e.kind, e.figure_kind);
-      kindTotals[kind] = (kindTotals[kind] ?? 0) + 1;
-      wa.kinds[kind] = (wa.kinds[kind] ?? 0) + 1;
       // cross-lingual homograph renames (timê 'honor' must not key as 'time')
       const canonicalName =
         renameMap.get(`${kind}|${e.canonical_name.trim().toLowerCase()}`) ??
         e.canonical_name;
-      const key = `${kind}|${norm(canonicalName)}`;
+      // collectives typed as figures re-kind to group (Gods, Muses, Maruts…)
+      const rekinded = rekindMap.get(`${kind}|${norm(canonicalName)}`);
+      const finalKind = rekinded ?? kind;
+      const finalFigureKind = rekinded ? undefined : figureKind;
+      kindTotals[finalKind] = (kindTotals[finalKind] ?? 0) + 1;
+      wa.kinds[finalKind] = (wa.kinds[finalKind] ?? 0) + 1;
+      const key = `${finalKind}|${norm(canonicalName)}`;
       const acc =
         entities.get(key) ??
         ({
-          kind,
+          kind: finalKind,
           figureKinds: {},
           names: {},
           surfaces: {},
           mentions: new Map(),
           evidenceCount: 0,
         } as EntityAcc);
-      if (figureKind) acc.figureKinds[figureKind] = (acc.figureKinds[figureKind] ?? 0) + 1;
+      if (finalFigureKind)
+        acc.figureKinds[finalFigureKind] = (acc.figureKinds[finalFigureKind] ?? 0) + 1;
       acc.names[canonicalName] = (acc.names[canonicalName] ?? 0) + 1;
       for (const s of e.surface_names ?? [])
         if (s) acc.surfaces[s] = (acc.surfaces[s] ?? 0) + 1;
@@ -728,6 +744,8 @@ async function main() {
     mentions: number;
     evidence: number;
     page: boolean;
+    /** categorical layer: pantheon / divine collective (browsing class) */
+    divine?: boolean;
   }
   const entityRows: (EntityOut & {
     _detail: WorkMention[];
@@ -762,6 +780,8 @@ async function main() {
       .map(([s]) => s)
       .filter((s) => s !== name);
     const authorSlug = normAuthor.get(norm(name));
+    const divine =
+      (acc.kind === "group" && divineSet.has(norm(name))) || undefined;
     const isJunk = junkSet.has(`${acc.kind}|${norm(name)}`);
     const page =
       !isJunk && (worksCount >= 2 || acc.evidenceCount >= 8 || Boolean(authorSlug));
@@ -777,6 +797,7 @@ async function main() {
       mentions: mentionCount,
       evidence: acc.evidenceCount,
       page,
+      divine,
       _detail: mentions,
       _expressions: mergeExpressions(acc.expressions),
       _key: key,
@@ -948,6 +969,7 @@ async function main() {
       figure_kind: e.figure_kind,
       name: e.name,
       gloss: e.gloss,
+      divine: e.divine,
       surfaces: e.surfaces,
       author_slug: e.author_slug,
       works: e._detail.map((m) => ({

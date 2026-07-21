@@ -1,0 +1,268 @@
+---
+/**
+ * The Divinity view — /atlas/divinity/
+ *
+ * The categorical layer over the figures and groups: individual deities
+ * (figure_kind=deity, from the harvest) and pantheons & divine collectives
+ * (curated class in the concordance). Identity stays strict — Zeus is not
+ * Jupiter is not God, the Devas are not the Olympians — but here they are
+ * browsable as one class: the divine, across every tradition in the corpus.
+ * Fully data-driven; grows with the harvest.
+ */
+import Base from "../../../layouts/Base.astro";
+import RunningHead from "../../../components/atlas-ui/RunningHead.astro";
+import {
+  atlasMeta,
+  deities,
+  divineCollectives,
+  fmt,
+  plural as pl,
+} from "../../../lib/atlas-graph";
+
+const meta = atlasMeta();
+const gods = meta ? deities() : [];
+const collectives = meta ? divineCollectives() : [];
+const paged = gods.filter((e) => e.page);
+const SHOWN = 72;
+const shown = paged.slice(0, SHOWN);
+const restCount = gods.length - shown.length;
+
+const description = meta
+  ? `The divine across the corpus: ${fmt(gods.length)} individual deities and ${fmt(collectives.length)} pantheons & divine collectives, from Indra and Zeus to the Maruts and the Muses — identity kept strict, every claim anchored.`
+  : "The divine across the corpus.";
+---
+
+<Base title="Divinity · Atlas" description={description} ogImage="/og/atlas.png">
+  <article class="divinity">
+    <header class="masthead">
+      <p class="crumb">
+        <a href="/atlas/">The Atlas</a>
+        <span class="crumb-sep">·</span>
+        <a href="/atlas/figures/">Figures</a>
+      </p>
+      <h1>The Divine</h1>
+      <p class="lede">
+        Every tradition in the corpus peoples the world with gods — and the
+        atlas keeps their identities strict. Zeus is not Jupiter; neither is
+        the God of the Psalms; the Devas are not the Olympians. What they
+        share is the class: here are the divine of twenty-five centuries,
+        side by side, each anchored to the passages that name them.
+      </p>
+    </header>
+
+    {
+      meta && (
+        <>
+          <section>
+            <RunningHead
+              title="the deities"
+              folio={`${fmt(gods.length)} individual gods`}
+            />
+            <p class="section-note">
+              Individual divine figures, as the harvest classed them — Vedic,
+              Olympian, Abrahamic, Kawi — ordered by their presence in the
+              library.
+            </p>
+            <p class="god-run">
+              {shown.map((e, i) => (
+                <>
+                  {i > 0 && <span class="run-sep"> · </span>}
+                  <a href={`/atlas/figures/${e.slug}/`} class="god-link">
+                    {e.name}
+                    <span class="god-count">{e.works}</span>
+                  </a>
+                </>
+              ))}
+              {restCount > 0 && (
+                <span class="run-sep">
+                  {" "}
+                  · and {fmt(restCount)} more in{" "}
+                  <a href="/atlas/figures/">the figures ledger</a>
+                </span>
+              )}
+            </p>
+          </section>
+
+          <section>
+            <RunningHead
+              title="pantheons & divine collectives"
+              folio={pl(collectives.length, "collective")}
+            />
+            <p class="section-note">
+              The divine in the plural — hosts, choirs and companies that the
+              texts treat as agents in their own right.
+            </p>
+            <ol class="coll-ledger">
+              {collectives.map((e) => (
+                <li>
+                  <a
+                    class="coll-row"
+                    href={e.page ? `/atlas/groups/${e.slug}/` : undefined}
+                  >
+                    <span class="coll-name">{e.name}</span>
+                    <span class="coll-meta">
+                      {pl(e.works, "work")} · {fmt(e.mentions)} mentions
+                    </span>
+                  </a>
+                </li>
+              ))}
+            </ol>
+          </section>
+
+          <footer class="div-foot">
+            <p>
+              Classification is a reading aid, never a merge: each name above
+              keeps its own page, works and verbatim anchors. Individual
+              deities are classed by the harvest (<code>figure_kind</code>);
+              the collectives are a curated concordance class —{" "}
+              <a href="/atlas/#the-method">the method</a>.
+            </p>
+          </footer>
+        </>
+      )
+    }
+    {
+      !meta && (
+        <p class="section-note">
+          The atlas is being drawn — check back shortly.
+        </p>
+      )
+    }
+  </article>
+</Base>
+
+<style>
+  .divinity {
+    max-width: 880px;
+    margin: 0 auto;
+    padding: var(--s-12) var(--s-6) var(--s-24);
+  }
+  .masthead {
+    margin-bottom: var(--s-10);
+  }
+  .crumb {
+    margin: 0 0 var(--s-2);
+    font-family: var(--font-body);
+    font-size: 16px;
+    font-variant: small-caps;
+    text-transform: lowercase;
+    letter-spacing: 0.08em;
+  }
+  .crumb a {
+    color: var(--ink-muted);
+    text-decoration: none;
+  }
+  .crumb a:hover {
+    color: var(--accent);
+  }
+  .crumb-sep {
+    color: var(--accent-soft);
+    margin: 0 var(--s-1);
+  }
+  h1 {
+    font-family: var(--font-display);
+    font-size: var(--fs-h1);
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    line-height: var(--lh-display);
+    margin: 0 0 var(--s-4);
+  }
+  .lede {
+    font-family: var(--font-body);
+    font-size: 19px;
+    line-height: 1.6;
+    color: var(--ink);
+    max-width: 62ch;
+    margin: 0;
+    text-wrap: pretty;
+  }
+  section {
+    margin-top: var(--s-12);
+  }
+  .section-note {
+    font-family: var(--font-body);
+    font-size: 18px;
+    line-height: 1.6;
+    color: var(--ink-muted);
+    max-width: 62ch;
+    margin: 0 0 var(--s-5);
+  }
+  .god-run {
+    font-family: var(--font-body);
+    font-size: 19px;
+    line-height: 2.1;
+    margin: 0;
+  }
+  .god-link {
+    color: var(--ink);
+    text-decoration: none;
+    border-bottom: 1px solid var(--rule);
+    white-space: nowrap;
+  }
+  .god-link:hover {
+    color: var(--accent);
+    border-color: var(--accent-soft);
+  }
+  .god-count {
+    font-size: 14px;
+    color: var(--ink-muted);
+    font-variant-numeric: oldstyle-nums;
+    margin-left: 0.35em;
+  }
+  .run-sep {
+    color: var(--accent-soft);
+  }
+  .run-sep a {
+    color: var(--accent);
+  }
+  .coll-ledger {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .coll-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: var(--s-4);
+    padding: var(--s-2) 0;
+    border-bottom: 1px solid var(--rule);
+    color: var(--ink);
+    text-decoration: none;
+  }
+  a.coll-row:hover .coll-name {
+    color: var(--accent);
+  }
+  .coll-name {
+    font-family: var(--font-body);
+    font-size: 20px;
+    font-weight: 600;
+  }
+  .coll-meta {
+    font-family: var(--font-body);
+    font-size: 15px;
+    color: var(--ink-muted);
+    font-variant-numeric: oldstyle-nums;
+    white-space: nowrap;
+  }
+  .div-foot {
+    margin-top: var(--s-12);
+    border-top: 1px solid var(--rule);
+    padding-top: var(--s-4);
+  }
+  .div-foot p {
+    font-family: var(--font-body);
+    font-size: 16px;
+    line-height: 1.6;
+    color: var(--ink-muted);
+    max-width: 68ch;
+    margin: 0;
+  }
+  .div-foot a {
+    color: var(--accent);
+  }
+  .div-foot code {
+    font-family: var(--font-mono);
+    font-size: 14px;
+  }
+</style>
