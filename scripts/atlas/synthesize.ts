@@ -603,6 +603,24 @@ async function main() {
       return r;
     };
 
+    // word-set signatures for the (e3) order/possessive fold — owner is the
+    // largest entity carrying each signature (assigned in size order)
+    const SIG_STOP = new Set(["the", "of", "a", "an", "in", "on", "and"]);
+    const wordSig = (n: string) =>
+      n
+        .split(" ")
+        .filter((w) => !SIG_STOP.has(w))
+        .map((w) => stemLast(w))
+        .sort()
+        .join(" ");
+    const sigOwner = new Map<string, string>();
+    for (const key of keysBySize) {
+      const a = entities.get(key)!;
+      if (a.kind === "figure") continue;
+      const sk = `${a.kind}|${wordSig(norm(a.displayName!))}`;
+      if (!sigOwner.has(sk)) sigOwner.set(sk, key);
+    }
+
     function stemLast(n: string): string {
       const words = n.split(" ");
       const w = words[words.length - 1];
@@ -654,6 +672,41 @@ async function main() {
           const t = findByNorm(kind, st);
           if (t && t !== key) targetKey = t;
         }
+      }
+      // (e2) compound fold: "Cows / Cattle", "Cattle and cows" — fold ONLY
+      // when every segment resolves to the SAME concept head. "Cow / bull"
+      // (segments resolving to different heads) is never folded.
+      if (!targetKey) {
+        const segs = acc
+          .displayName!.split(/\s*(?:\/|,|\band\b|&)\s*/i)
+          .map((x) => norm(x))
+          .filter(Boolean);
+        if (segs.length >= 2 && segs.length <= 3) {
+          // resolve each segment to its CANONICAL norm (cluster head first,
+          // else an existing stem-head, else itself) — norms, not live keys,
+          // so the outcome doesn't depend on fold processing order
+          const canonSeg = (sn: string): string => {
+            const bare = sn.startsWith("the ") ? sn.slice(4) : sn;
+            const viaCluster = clusterHead.get(`${kind}|${bare}`);
+            if (viaCluster) return viaCluster;
+            const st = stemLast(bare);
+            if (st !== bare && findByNorm(kind, st)) return st;
+            return bare;
+          };
+          const canon = segs.map(canonSeg);
+          if (new Set(canon).size === 1) {
+            const t = findByNorm(kind, canon[0]);
+            if (t && root(t) !== key) targetKey = root(t);
+          }
+        }
+      }
+      // (e3) signature fold (never figures — Apollos≠Apollo, Euclides≠Euclid):
+      // same stemmed word-set ignoring stopwords ⇒ word-order and possessive
+      // variants fold ("Armor of Achilles" = "Achilles' armor",
+      // "Corruption and bribery" = "Bribery and corruption")
+      if (!targetKey && kind !== "figure") {
+        const owner = sigOwner.get(`${kind}|${wordSig(nd)}`);
+        if (owner && owner !== key && root(owner) !== key) targetKey = owner;
       }
       // (f) figure epithets: "Zeus the Liberator" → Zeus
       if (!targetKey && kind === "figure") {

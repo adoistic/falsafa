@@ -201,3 +201,25 @@ browsable as a class:
   tradition + 20 curated pantheons & divine collectives (concordance
   `divine_collectives` class). Figures ledger split into deities /
   mythological / historical sections.
+
+## Session 5, second pass: the sweep completed
+
+Adnan spotted a second Cow ("Cows / Cattle") — a whole escaped class:
+slash/and-compound names. Three new deterministic rules + a full
+paged-duplicate sweep:
+
+- **(e2) compound fold** — "Cows / Cattle", "Cattle and cows" fold ONLY when
+  every segment resolves to the same concept head (canonical-norm based, so
+  fold order can't matter); "Cow / bull" never folds.
+- **(e3) signature fold** (never figures) — same stemmed word-set ⇒
+  word-order/possessive variants fold: "Armor of Achilles" = "Achilles'
+  armor", "Corruption and bribery" = "Bribery and corruption".
+- **Figure judgment stays curated**: sweep proved auto-folding figures is
+  unsafe — Apollos (NT) ≠ Apollo, Euclides (Megara) ≠ Euclid, Ṛbhus
+  (collective) ≠ Ṛbhu, Jesus Christ ≠ The Word (guarded after a gloss-fold
+  cascade), Christ (Valentinian Aeon) kept distinct. Explicit clusters:
+  Christ/Christ Jesus→Jesus Christ, Phoebus/Pallas epithets, St/Apostle
+  Paul, Blackstone→William Blackstone, etc.
+- Detector now reports **0 unintended same-signature paged groups** (5
+  remaining, all deliberate keeps). 4,114 entities clustered · 2,521
+  see-references.

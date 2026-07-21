@@ -34,10 +34,72 @@
   ],
   "_renames_comment": "Applied to raw canonical names BEFORE diacritic-folded merge keys are built — for cross-lingual homographs the fold would wrongly conflate (Greek timê 'honor' keys as 'time'). The `to` value must be chosen so its cleaned base lands in the TRUE concept directly (timê → 'Honor (timê)' keys under honor); never a base that re-collides with the false concept.",
   "rekinds": [
-    { "from": "figure", "to": "group", "names": ["gods", "the gods", "muses", "the muses", "furies", "the furies", "erinyes", "nymphs", "fates", "the fates", "graces", "the graces", "maruts", "adityas", "vasus", "rudras", "asuras", "apsaras", "gandharvas", "visvedevas", "titans", "immortals", "the immortals", "angels", "olympian gods", "olympians"] }
+    {
+      "from": "figure",
+      "to": "group",
+      "names": [
+        "gods",
+        "the gods",
+        "muses",
+        "the muses",
+        "furies",
+        "the furies",
+        "erinyes",
+        "nymphs",
+        "fates",
+        "the fates",
+        "graces",
+        "the graces",
+        "maruts",
+        "adityas",
+        "vasus",
+        "rudras",
+        "asuras",
+        "apsaras",
+        "gandharvas",
+        "visvedevas",
+        "titans",
+        "immortals",
+        "the immortals",
+        "angels",
+        "olympian gods",
+        "olympians"
+      ]
+    }
   ],
   "_rekinds_comment": "A collective is a group: divine collectives the harvest sometimes typed as figures (Gods 35w-figure beside Gods 36w-group; Muses split 13w/20w) are re-kinded to group at ingest, so the normal same-kind merge unifies them into one page. Norm-matched (diacritic-folded).",
-  "divine_collectives": ["gods", "the gods", "devas", "muses", "furies", "erinyes", "nymphs", "fates", "graces", "maruts", "adityas", "vasus", "rudras", "asuras", "daityas", "danavas", "apsaras", "gandharvas", "visvedevas", "titans", "olympians", "olympian gods", "immortals", "angels", "seraphim", "cherubim", "ancestors", "pitrs", "demigods", "heavenly host"],
+  "divine_collectives": [
+    "gods",
+    "the gods",
+    "devas",
+    "muses",
+    "furies",
+    "erinyes",
+    "nymphs",
+    "fates",
+    "graces",
+    "maruts",
+    "adityas",
+    "vasus",
+    "rudras",
+    "asuras",
+    "daityas",
+    "danavas",
+    "apsaras",
+    "gandharvas",
+    "visvedevas",
+    "titans",
+    "olympians",
+    "olympian gods",
+    "immortals",
+    "angels",
+    "seraphim",
+    "cherubim",
+    "ancestors",
+    "pitrs",
+    "demigods",
+    "heavenly host"
+  ],
   "_divine_collectives_comment": "The categorical layer: group entities matching these norms are classed divine (pantheons & divine collectives) and appear on the Divinity view beside individual deities (figure_kind=deity). Identity stays untouched — Devas ≠ Olympians; this is a browsing class, not a merge.",
   "never": [
     [
@@ -147,6 +209,34 @@
     [
       "figure|god",
       "figure|the lord"
+    ],
+    [
+      "figure|apollo",
+      "figure|apollos"
+    ],
+    [
+      "figure|euclid",
+      "figure|euclides"
+    ],
+    [
+      "figure|rbhu",
+      "figure|rbhus"
+    ],
+    [
+      "place|heaven",
+      "place|the heavens"
+    ],
+    [
+      "figure|jesus christ",
+      "figure|the word"
+    ],
+    [
+      "figure|christ",
+      "figure|the word"
+    ],
+    [
+      "figure|jesus",
+      "figure|the word"
     ]
   ],
   "clusters": {
@@ -233,19 +323,28 @@
       },
       {
         "head": "justice",
-        "members": ["justice and injustice"]
+        "members": [
+          "justice and injustice"
+        ]
       },
       {
         "head": "pleasure",
-        "members": ["pleasure and pain"]
+        "members": [
+          "pleasure and pain"
+        ]
       },
       {
         "head": "perjury",
-        "members": ["perjury and false testimony"]
+        "members": [
+          "perjury and false testimony"
+        ]
       },
       {
         "head": "old age",
-        "members": ["old age geras", "geras"]
+        "members": [
+          "old age geras",
+          "geras"
+        ]
       },
       {
         "head": "courage",
@@ -355,12 +454,102 @@
           "usas",
           "eos"
         ]
+      },
+      {
+        "head": "jesus christ",
+        "members": [
+          "christ",
+          "christ jesus",
+          "christ the lord jesus",
+          "christ the son",
+          "jesus christ the word",
+          "jesus christ the word made flesh"
+        ]
+      },
+      {
+        "head": "apollo",
+        "members": [
+          "phoebus apollo",
+          "pythian apollo",
+          "phoebus"
+        ]
+      },
+      {
+        "head": "athena",
+        "members": [
+          "pallas athena",
+          "athena polias",
+          "pallas"
+        ]
+      },
+      {
+        "head": "paul",
+        "members": [
+          "st paul",
+          "apostle paul",
+          "the apostle paul",
+          "saint paul"
+        ]
+      },
+      {
+        "head": "geryon",
+        "members": [
+          "geryones"
+        ]
+      },
+      {
+        "head": "usanas",
+        "members": [
+          "usana"
+        ]
+      },
+      {
+        "head": "augustus",
+        "members": [
+          "augustus caesar"
+        ]
+      },
+      {
+        "head": "william blackstone",
+        "members": [
+          "blackstone",
+          "sir william blackstone"
+        ]
+      },
+      {
+        "head": "agni",
+        "members": [
+          "agni fire",
+          "agni the fire"
+        ]
+      },
+      {
+        "head": "vayu",
+        "members": [
+          "vayu the wind",
+          "vayu wind"
+        ]
+      },
+      {
+        "head": "soma",
+        "members": [
+          "king soma"
+        ]
+      },
+      {
+        "head": "speaker",
+        "members": [
+          "unnamed speaker",
+          "the speaker"
+        ]
       }
     ],
     "place": [
       {
         "head": "greece",
-        "members": ["hellas"]
+        "members": [
+          "hellas"
+        ]
       },
       {
         "head": "sparta",
@@ -401,6 +590,12 @@
           "pitrs",
           "the fathers pitrs",
           "fathers pitrs"
+        ]
+      },
+      {
+        "head": "archons",
+        "members": [
+          "the archon"
         ]
       }
     ],
