@@ -50,8 +50,13 @@ import {
 // Server setup
 // ─────────────────────────────────────────────────────────────────────────
 
-// The corpus outgrew the npm tarball; first run downloads the snapshot
-// from the GitHub release into the user cache (stderr-only progress).
+// Mode selection:
+//  - REMOTE (zero-download): FALSAFA_CORPUS_URL is set → the Corpus fetches
+//    files over HTTP on demand. No tarball download, no local FTS index.
+//  - LOCAL (default): read from a local corpus dir; the corpus outgrew the
+//    npm tarball, so the first run downloads the snapshot from the GitHub
+//    release into the user cache (stderr-only progress) and builds an FTS
+//    index locally.
 let corpus: Corpus;
 try {
   corpus = new Corpus();
@@ -59,9 +64,15 @@ try {
   await downloadCorpus();
   corpus = new Corpus();
 }
-buildSearchIndex(corpus.rootPath);
+if (corpus.isRemote) {
+  console.error(`[falsafa-mcp] remote (zero-download) mode: serving corpus from ${corpus.rootPath}`);
+} else {
+  buildSearchIndex(corpus.rootPath);
+}
 const works = corpus.works();
-console.error(`[falsafa-mcp] corpus loaded: ${works.length} works from ${corpus.rootPath}`);
+console.error(
+  `[falsafa-mcp] corpus loaded: ${works.length} works from ${corpus.rootPath}`,
+);
 
 const server = new Server(
   {

@@ -5,9 +5,10 @@
  * The host LLM does the reasoning.
  */
 
-import { readdirSync, readFileSync, statSync, existsSync } from "node:fs";
+import { readFileSync, existsSync } from "node:fs";
 import { join } from "node:path";
 import { Corpus, MCPError, type ChapterMeta, type ChapterVariant, type ManifestWork } from "./corpus.ts";
+import { chapterWiki, workWiki } from "../lib/wiki/compute.ts";
 
 // ─────────────────────────────────────────────────────────────────────────
 // Tool 1: list_works
@@ -508,12 +509,93 @@ function ftsSearch(
   }
 }
 
+/**
+ * Remote (zero-download) mode search. The 863 MB FTS index isn't downloaded
+ * and a filesystem scan would mean fetching ~25k files over HTTP — both
+ * unusable. So we search WORK METADATA only: match the query's word tokens
+ * against each work's title / author / genre / language / era, rank by how
+ * many distinct tokens hit (then raw field hits), and tell the caller that
+ * full-text passage search needs the local downloaded mode.
+ */
+function metadataSearch(
+  corpus: Corpus,
+  query: string,
+  scope: "english" | "all",
+  limit: number,
+  workSlugFilter?: string,
+) {
+  const FIELDS = ["title", "author", "genre", "language", "era"] as const;
+  const tokens = query
+    .toLowerCase()
+    .split(/\s+/)
+    .map((t) => t.replace(/[^\p{L}\p{N}]/gu, ""))
+    .filter((t) => t.length > 0);
+
+  const works = workSlugFilter
+    ? corpus.works().filter((w) => w.slug === workSlugFilter)
+    : corpus.works();
+
+  const scored: Array<{
+    work: ManifestWork;
+    hits: number;
+    matchedTokens: Set<string>;
+    matchedFields: Set<string>;
+  }> = [];
+
+  for (const w of works) {
+    const haystacks = [w.title, w.author, w.genre, w.language, w.era].map((f) =>
+      (f ?? "").toLowerCase(),
+    );
+    let hits = 0;
+    const matchedTokens = new Set<string>();
+    const matchedFields = new Set<string>();
+    for (const tok of tokens) {
+      for (let i = 0; i < haystacks.length; i++) {
+        if (haystacks[i]!.includes(tok)) {
+          hits++;
+          matchedTokens.add(tok);
+          matchedFields.add(FIELDS[i]!);
+        }
+      }
+    }
+    if (hits > 0) scored.push({ work: w, hits, matchedTokens, matchedFields });
+  }
+
+  scored.sort((a, b) => b.matchedTokens.size - a.matchedTokens.size || b.hits - a.hits);
+  const results = scored.slice(0, limit).map((s) => ({
+    work_slug: s.work.slug,
+    work_title: s.work.title,
+    author: s.work.author,
+    era: s.work.era,
+    genre: s.work.genre,
+    language: s.work.language,
+    matched_fields: [...s.matchedFields],
+    matched_tokens: [...s.matchedTokens],
+    score: s.hits,
+  }));
+
+  return {
+    query,
+    scope,
+    engine: "metadata" as const,
+    count: results.length,
+    results,
+    note:
+      "Remote (zero-download) mode: full-text passage search is unavailable, so these are work-level METADATA matches (title/author/genre/language/era). For full-text search across passages, use the local downloaded mode: npx -y @falsafa/mcp",
+  };
+}
+
 export function search_corpus(corpus: Corpus, query: string, options: SearchOptions = {}) {
   if (!query || !query.trim()) {
     return { query, scope: options.scope ?? "english", count: 0, results: [] };
   }
   const scope = options.scope ?? "english";
   const limit = options.limit ?? 30;
+
+  // Remote mode: no FTS db, no file scan — metadata search only, then stop.
+  if (corpus.isRemote) {
+    return metadataSearch(corpus, query, scope, limit, options.work_slug);
+  }
 
   // try the index; null means unavailable, [] means a real miss worth
   // retrying with the legacy substring scan (hyphenation, punctuation)
@@ -613,21 +695,25 @@ interface CrossLinkIndexFile {
  */
 const crossLinkCache = new Map<string, CrossLinkIndexFile | null>();
 
-function loadCrossLinks(corpusRoot: string): CrossLinkIndexFile | null {
-  if (crossLinkCache.has(corpusRoot)) return crossLinkCache.get(corpusRoot)!;
-  const path = join(corpusRoot, "cross-links.json");
-  if (!existsSync(path)) {
-    crossLinkCache.set(corpusRoot, null);
+function loadCrossLinks(corpus: Corpus): CrossLinkIndexFile | null {
+  // Keyed on rootPath (a process-stable string, the base URL in remote mode)
+  // so multiple Corpus instances in a test suite don't fight each other.
+  const cacheKey = corpus.rootPath;
+  if (crossLinkCache.has(cacheKey)) return crossLinkCache.get(cacheKey)!;
+  // corpus.readFile transparently reads from disk (local) or fetches over
+  // HTTP (remote); null means the file isn't there / build hasn't run.
+  const raw = corpus.readFile("cross-links.json");
+  if (raw === null) {
+    crossLinkCache.set(cacheKey, null);
     return null;
   }
   try {
-    const raw = readFileSync(path, "utf-8");
     const parsed = JSON.parse(raw) as CrossLinkIndexFile;
-    crossLinkCache.set(corpusRoot, parsed);
+    crossLinkCache.set(cacheKey, parsed);
     return parsed;
   } catch {
     // Malformed file → fall back as if it weren't there. Don't crash the MCP.
-    crossLinkCache.set(corpusRoot, null);
+    crossLinkCache.set(cacheKey, null);
     return null;
   }
 }
@@ -661,7 +747,7 @@ export function find_related(corpus: Corpus, work_slug: string, chapter_number?:
   }> = [];
   const contentWorkSlugs = new Set<string>();
 
-  const xlinks = loadCrossLinks(corpus.rootPath);
+  const xlinks = loadCrossLinks(corpus);
   if (xlinks && chapter_number !== undefined) {
     // Resolve chapter_slug from chapter_number.
     const chapters = corpus.listChapters(work_slug);
@@ -829,7 +915,7 @@ export function read_wiki(
   if (!work) {
     throw new MCPError("WORK_NOT_FOUND", `Work not found: ${work_slug}`);
   }
-  return readWikiFile(corpus, work_slug, chapter_number, "card");
+  return renderWiki(corpus, work_slug, chapter_number, "card");
 }
 
 /**
@@ -848,42 +934,34 @@ export function read_wiki_full(
   if (!work) {
     throw new MCPError("WORK_NOT_FOUND", `Work not found: ${work_slug}`);
   }
-  return readWikiFile(corpus, work_slug, chapter_number, "full");
+  return renderWiki(corpus, work_slug, chapter_number, "full");
 }
 
-function readWikiFile(
+/**
+ * Compute the wiki card/full sheet on demand (no pre-built files). Delegates
+ * the statistics + rendering to lib/wiki/compute.ts, then wraps the markdown
+ * in the same `{ markdown, path }` shape callers expect. `path` is synthetic
+ * — it mirrors where the batch build used to write the file, kept for
+ * continuity of the response shape.
+ */
+function renderWiki(
   corpus: Corpus,
   work_slug: string,
   chapter_number: number | undefined,
   variant: "card" | "full",
 ): { markdown: string; path: string } {
-  const wikiDir = join(corpus.rootPath, "works", work_slug, "wiki");
-  if (!existsSync(wikiDir)) {
-    throw new MCPError(
-      "WIKI_NOT_BUILT",
-      `Wiki not built for ${work_slug}. Run: bun run scripts/build-wiki.ts --work ${work_slug}`,
-    );
-  }
-
+  let markdown: string;
   let filename: string;
   if (chapter_number === undefined) {
+    markdown = workWiki(corpus, work_slug, variant);
     filename = `_work.${variant}.md`;
   } else {
-    // Resolve chapter_number → chapter_slug via Corpus
+    // Resolve chapter_number → chapter_slug (throws CHAPTER_OUT_OF_RANGE on a
+    // bad chapter number).
     const meta = corpus.getChapterMeta(work_slug, chapter_number);
+    markdown = chapterWiki(corpus, work_slug, chapter_number, variant);
     filename = `${meta.chapter_slug}.${variant}.md`;
   }
-
-  const fullPath = join(wikiDir, filename);
-  if (!existsSync(fullPath)) {
-    throw new MCPError(
-      "WIKI_FILE_MISSING",
-      `Wiki ${variant} missing: ${filename}. Run: bun run scripts/build-wiki.ts --work ${work_slug}`,
-    );
-  }
-
-  const markdown = readFileSync(fullPath, "utf-8");
-  // Return path relative to corpus root for brevity / portability
   const relativePath = `works/${work_slug}/wiki/${filename}`;
   return { markdown, path: relativePath };
 }

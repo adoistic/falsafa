@@ -20,26 +20,28 @@ import {
 const corpus = new Corpus();
 
 describe("MCP smoke tests", () => {
-  test("corpus loads with 37 works", () => {
+  test("corpus loads the full work set", () => {
     const w = corpus.works();
-    expect(w.length).toBe(37);
+    // The corpus grows over time; assert a healthy floor rather than a pin.
+    expect(w.length).toBeGreaterThan(2000);
   });
 
-  test("list_works returns all 37 with no filter", () => {
+  test("list_works with no filter returns every work", () => {
     const r = list_works(corpus);
-    expect(r.count).toBe(37);
+    expect(r.count).toBe(corpus.works().length);
   });
 
   test("list_works filters by author", () => {
     const r = list_works(corpus, { author: "cynewulf" });
-    expect(r.count).toBe(3);
-    expect(r.works.map((w) => w.title).sort()).toEqual(["Andreas", "Elene", "Juliana"]);
+    expect(r.count).toBeGreaterThanOrEqual(3);
+    const titles = r.works.map((w) => w.title);
+    for (const t of ["Andreas", "Elene", "Juliana"]) expect(titles).toContain(t);
   });
 
   test("list_works filters by language", () => {
     const r = list_works(corpus, { language: "urdu" });
-    // Iqbal x3 + Ghalib + Zauq = 5
-    expect(r.count).toBe(5);
+    // Iqbal x3 + Ghalib + Zauq
+    expect(r.count).toBeGreaterThanOrEqual(5);
   });
 
   test("list_chapters returns chapters for Andreas", () => {

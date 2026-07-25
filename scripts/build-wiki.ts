@@ -213,8 +213,16 @@ export function loadCorpus(corpusRoot: string, onlyWork?: string): LoadedChapter
         chapter_slug: string;
         layout?: string;
       };
-      const transPath = join(chPath, "translation.md");
-      const paragraphsPath = join(chPath, "translation.paragraphs.json");
+      // The English body: translation.md when the work is translated, else
+      // original.md for works whose original IS English (poetry collections,
+      // the Gutenberg/OLL/Marxists shelves). Non-English originals without a
+      // translation stay skipped — the wiki layer is built over English text.
+      let transPath = join(chPath, "translation.md");
+      let paragraphsPath = join(chPath, "translation.paragraphs.json");
+      if (!existsSync(transPath) && lang === "english") {
+        transPath = join(chPath, "original.md");
+        paragraphsPath = join(chPath, "original.paragraphs.json");
+      }
       if (!existsSync(transPath) || !existsSync(paragraphsPath)) continue;
       const transRaw = readFileSync(transPath, "utf-8");
       const transBody = stripFrontmatter(transRaw);
@@ -278,8 +286,9 @@ interface ChapterPrimitives {
 function buildChapterPrimitives(
   ch: LoadedChapter,
   corpusVectors: Map<string, DocVector>,
-  corpusTfMaps: Map<string, Map<string, number>>,
+  tfMapsByWork: Map<string, { key: string; tf: Map<string, number> }[]>,
   workChaptersById: Map<string, LoadedChapter>,
+  crossCorpus: boolean,
 ): ChapterPrimitives {
   const myKey = `${ch.workSlug}/${ch.chapterSlug}`;
 
@@ -311,16 +320,21 @@ function buildChapterPrimitives(
     .sort((a, b) => b.score - a.score)
     .slice(0, 20);
 
-  // --- NPMI top-10 over paragraphs ---
-  const npmiTop10 = computeNPMI(ch.paragraphTokens, { minJointCount: 2 }).slice(0, 10);
+  // --- NPMI top-10 over paragraphs (capped: mega-chapters have ~13k paras) ---
+  const npmiTop10 = computeNPMI(ch.paragraphTokens.slice(0, 500), { minJointCount: 2 }).slice(0, 10);
 
   // --- Paragraph similarity matrix → TextRank, LexRank, refrains ---
+  // Cap the matrix window: some logical "chapters" are whole epics
+  // (Mahābhārata parva-12 has ~12.9k paragraphs), where a full N×N matrix is
+  // ~165M cosines and >1 GB. The top-passage summary only needs a bounded
+  // window, so cap at MAX_SIM_PARAS; TextRank/LexRank rank within it.
+  const MAX_SIM_PARAS = 500;
+  const N = Math.min(ch.paragraphs.length, MAX_SIM_PARAS);
   const paraDocs = new Map<string, string[]>();
-  for (let i = 0; i < ch.paragraphs.length; i++) {
+  for (let i = 0; i < N; i++) {
     paraDocs.set(`p${i}`, ch.paragraphTokens[i] ?? []);
   }
   const paraVectors = buildTfIdf(paraDocs);
-  const N = ch.paragraphs.length;
   const sim: number[][] = Array.from({ length: N }, () => new Array(N).fill(0));
   for (let i = 0; i < N; i++) {
     sim[i]![i] = 1.0;
@@ -348,8 +362,11 @@ function buildChapterPrimitives(
   }));
 
   // --- Refrains (within-chapter) ---
+  // Capped: detectRefrains is O(paras²) with per-pair edit distance, so a
+  // 12.9k-paragraph mega-chapter would be ~82M pairs. The refrain signal is
+  // within the same MAX_SIM_PARAS window used above.
   const refrains = detectRefrains(
-    ch.paragraphs.map((p, i) => ({ id: p.id, tokens: ch.paragraphTokens[i] ?? [] })),
+    ch.paragraphs.slice(0, MAX_SIM_PARAS).map((p, i) => ({ id: p.id, tokens: ch.paragraphTokens[i] ?? [] })),
     { threshold: 0.05 },
   );
 
@@ -358,27 +375,30 @@ function buildChapterPrimitives(
   const hapax = hapaxRatio(ch.tokens);
 
   // --- Cross-corpus nearest chapters (top-3) ---
-  const myVec = corpusVectors.get(myKey);
-  const nearestRaw: { key: string; cosine: number }[] = [];
-  if (myVec) {
-    for (const [otherKey, otherVec] of corpusVectors) {
-      if (otherKey === myKey) continue;
-      const c = cosine(myVec, otherVec);
-      if (c > 0) nearestRaw.push({ key: otherKey, cosine: c });
+  // All-pairs O(N²); skipped at corpus scale (find_related serves this at
+  // runtime). Enabled only for small builds where it's cheap.
+  const nearestInCorpus: ChapterRenderInput["nearestInCorpus"] = [];
+  if (crossCorpus) {
+    const myVec = corpusVectors.get(myKey);
+    const nearestRaw: { key: string; cosine: number }[] = [];
+    if (myVec) {
+      for (const [otherKey, otherVec] of corpusVectors) {
+        if (otherKey === myKey) continue;
+        const c = cosine(myVec, otherVec);
+        if (c > 0) nearestRaw.push({ key: otherKey, cosine: c });
+      }
+    }
+    nearestRaw.sort((a, b) => b.cosine - a.cosine);
+    for (const r of nearestRaw.slice(0, 3)) {
+      const [otherSlug, otherChapterSlug] = r.key.split("/");
+      const other = workChaptersById.get(r.key);
+      nearestInCorpus.push({
+        workShortName: other?.workTitle ?? otherSlug ?? "?",
+        chapterNumber: other?.chapterNumber ?? parseChapterNumber(otherChapterSlug ?? ""),
+        cosine: r.cosine,
+      });
     }
   }
-  nearestRaw.sort((a, b) => b.cosine - a.cosine);
-  const nearestInCorpus = nearestRaw.slice(0, 3).map((r) => {
-    const [otherSlug, otherChapterSlug] = r.key.split("/");
-    const other = workChaptersById.get(r.key);
-    const workShort = other?.workTitle ?? otherSlug ?? "?";
-    const chNum = other?.chapterNumber ?? parseChapterNumber(otherChapterSlug ?? "");
-    return {
-      workShortName: workShort,
-      chapterNumber: chNum,
-      cosine: r.cosine,
-    };
-  });
 
   // --- Original-language signature (top-3 trigrams) ---
   let originalLanguageSignature: ChapterRenderInput["originalLanguageSignature"] = null;
@@ -399,12 +419,11 @@ function buildChapterPrimitives(
   }
 
   // --- Burrows' Delta vs other chapters of the same work ---
-  const myTfMap = corpusTfMaps.get(myKey) ?? new Map<string, number>();
-  const sameWorkTfMaps: Map<string, number>[] = [];
-  for (const [k, m] of corpusTfMaps) {
-    if (k === myKey) continue;
-    if (k.startsWith(`${ch.workSlug}/`)) sameWorkTfMaps.push(m);
-  }
+  // Uses the by-work tf-map index (O(chapters-in-work)) rather than scanning
+  // every chapter in the corpus per chapter (which was O(N²) overall).
+  const workTfMaps = tfMapsByWork.get(ch.workSlug) ?? [];
+  const myTfMap = workTfMaps.find((e) => e.key === myKey)?.tf ?? new Map<string, number>();
+  const sameWorkTfMaps = workTfMaps.filter((e) => e.key !== myKey).map((e) => e.tf);
   const burrows = sameWorkTfMaps.length > 0 ? burrowsDelta(myTfMap, sameWorkTfMaps) : 0;
 
   // --- Card input (small) ---
@@ -490,6 +509,7 @@ function buildWorkPrimitives(
   chapterEntries: WorkChapterEntry[],
   corpusVectors: Map<string, DocVector>,
   corpusByWork: Map<string, LoadedChapter[]>,
+  crossCorpus: boolean,
 ): { card: WorkRenderInput; full: WorkFullInput } {
   // Aggregate tokens across all chapters of this work
   const allTokens: string[] = [];
@@ -530,48 +550,51 @@ function buildWorkPrimitives(
     .sort((a, b) => b.score - a.score)
     .slice(0, 50);
 
-  // Phrases unique to this work (vs. rest of corpus): trigrams in this work
-  // that don't appear in any chapter of any other work
-  const otherTri = new Set<string>();
-  for (const [otherSlug, chapters] of corpusByWork) {
-    if (otherSlug === workSlug) continue;
-    for (const ch of chapters) {
-      for (const tg of ngrams(ch.tokens, 3)) otherTri.add(tg.join(" "));
-    }
-  }
-  const uniquePhrases = [...triCounts.entries()]
-    .filter(([k]) => !otherTri.has(k))
-    .sort((a, b) => b[1] - a[1])
-    .slice(0, 8)
-    .map(([k]) => k);
-
-  // Statistically nearest works (top-4 by max chapter-pair cosine)
-  const myKeys = workChapters.map((c) => `${c.workSlug}/${c.chapterSlug}`);
-  const otherWorkBest = new Map<string, number>();
-  for (const otherSlug of corpusByWork.keys()) {
-    if (otherSlug === workSlug) continue;
-    const otherChapters = corpusByWork.get(otherSlug) ?? [];
-    let best = 0;
-    for (const my of myKeys) {
-      const myVec = corpusVectors.get(my);
-      if (!myVec) continue;
-      for (const oc of otherChapters) {
-        const otherKey = `${oc.workSlug}/${oc.chapterSlug}`;
-        const otherVec = corpusVectors.get(otherKey);
-        if (!otherVec) continue;
-        const c = cosine(myVec, otherVec);
-        if (c > best) best = c;
+  // Phrases unique to this work + statistically nearest works: both compare
+  // this work against the whole corpus (O(N²) overall) and duplicate what the
+  // MCP's find_related tool serves at runtime. Skipped at corpus scale.
+  let uniquePhrases: string[] = [];
+  let nearestWorks: { workShortName: string; cosine: number }[] = [];
+  if (crossCorpus) {
+    const otherTri = new Set<string>();
+    for (const [otherSlug, chapters] of corpusByWork) {
+      if (otherSlug === workSlug) continue;
+      for (const ch of chapters) {
+        for (const tg of ngrams(ch.tokens, 3)) otherTri.add(tg.join(" "));
       }
     }
-    otherWorkBest.set(otherSlug, best);
+    uniquePhrases = [...triCounts.entries()]
+      .filter(([k]) => !otherTri.has(k))
+      .sort((a, b) => b[1] - a[1])
+      .slice(0, 8)
+      .map(([k]) => k);
+
+    const myKeys = workChapters.map((c) => `${c.workSlug}/${c.chapterSlug}`);
+    const otherWorkBest = new Map<string, number>();
+    for (const otherSlug of corpusByWork.keys()) {
+      if (otherSlug === workSlug) continue;
+      const otherChapters = corpusByWork.get(otherSlug) ?? [];
+      let best = 0;
+      for (const my of myKeys) {
+        const myVec = corpusVectors.get(my);
+        if (!myVec) continue;
+        for (const oc of otherChapters) {
+          const otherVec = corpusVectors.get(`${oc.workSlug}/${oc.chapterSlug}`);
+          if (!otherVec) continue;
+          const c = cosine(myVec, otherVec);
+          if (c > best) best = c;
+        }
+      }
+      otherWorkBest.set(otherSlug, best);
+    }
+    nearestWorks = [...otherWorkBest.entries()]
+      .sort((a, b) => b[1] - a[1])
+      .slice(0, 4)
+      .map(([slug, c]) => ({
+        workShortName: corpusByWork.get(slug)?.[0]?.workTitle ?? slug,
+        cosine: c,
+      }));
   }
-  const nearestWorks = [...otherWorkBest.entries()]
-    .sort((a, b) => b[1] - a[1])
-    .slice(0, 4)
-    .map(([slug, c]) => ({
-      workShortName: corpusByWork.get(slug)?.[0]?.workTitle ?? slug,
-      cosine: c,
-    }));
 
   const card: WorkRenderInput = {
     title: workTitle,
@@ -638,14 +661,30 @@ export async function buildWiki(
   const corpusVectors = buildTfIdf(tokenLists);
   log(quiet, `[build-wiki] built corpus TF-IDF index (N=${chapters.length})`);
 
+  // Cross-corpus similarity sections (nearest chapters / nearest works /
+  // phrases-unique-vs-corpus) are all-pairs O(N²) and intractable at corpus
+  // scale — 25k chapters would be ~625M cosines. They also duplicate what the
+  // MCP's find_related tool already serves at runtime from cross-links.json,
+  // so above this size we skip them and keep the intra-chapter card content.
+  const CROSS_CORPUS_LIMIT = 3000;
+  const crossCorpus = chapters.length <= CROSS_CORPUS_LIMIT;
+  if (!crossCorpus) {
+    log(quiet, `[build-wiki] cross-corpus similarity skipped (N=${chapters.length} > ${CROSS_CORPUS_LIMIT}); find_related covers it`);
+  }
+
   // Index lookups
   const chaptersByKey = new Map<string, LoadedChapter>();
   const chaptersByWork = new Map<string, LoadedChapter[]>();
+  // tf-maps grouped by work, so Burrows' Delta is O(chapters-in-work) per
+  // chapter instead of scanning all corpusTfMaps (which was O(N²) overall).
+  const tfMapsByWork = new Map<string, { key: string; tf: Map<string, number> }[]>();
   for (const ch of chapters) {
     const key = `${ch.workSlug}/${ch.chapterSlug}`;
     chaptersByKey.set(key, ch);
     if (!chaptersByWork.has(ch.workSlug)) chaptersByWork.set(ch.workSlug, []);
     chaptersByWork.get(ch.workSlug)!.push(ch);
+    if (!tfMapsByWork.has(ch.workSlug)) tfMapsByWork.set(ch.workSlug, []);
+    tfMapsByWork.get(ch.workSlug)!.push({ key, tf: tfMaps.get(key)! });
   }
 
   // Per-chapter primitives + write
@@ -654,7 +693,7 @@ export async function buildWiki(
   const drift: string[] = [];
   const workChapterEntries = new Map<string, WorkChapterEntry[]>();
   for (const ch of chapters) {
-    const prim = buildChapterPrimitives(ch, corpusVectors, tfMaps, chaptersByKey);
+    const prim = buildChapterPrimitives(ch, corpusVectors, tfMapsByWork, chaptersByKey, crossCorpus);
     const cardMd = renderChapterCard(prim.card);
     const fullMd = renderChapterFull(prim.full);
     const wikiDir = join(corpusRoot, "works", ch.workSlug, "wiki");
@@ -686,6 +725,7 @@ export async function buildWiki(
       entries,
       corpusVectors,
       chaptersByWork,
+      crossCorpus,
     );
     const wikiDir = join(corpusRoot, "works", workSlug, "wiki");
     const cardPath = join(wikiDir, "_work.card.md");

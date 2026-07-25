@@ -4,7 +4,7 @@
  * via a symlink so Astro serves /corpus/manifest.json, chapter files, etc.
  * as static assets at /corpus/* on the site origin.
  *
- * The browser-bundled MCP tools (apps/site/src/islands/byok/browserTools.ts)
+ * The browser-bundled MCP tools (apps/site/src/islands/byok/localMcp.ts)
  * consume these static URLs. With a symlink, `bun run dev` serves the
  * live corpus directly with no copy step; `astro build` follows the
  * symlink and bundles the corpus into dist/, which the Cloudflare Worker

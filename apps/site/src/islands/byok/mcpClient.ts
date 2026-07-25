@@ -41,6 +41,15 @@ export interface McpCallError {
 }
 
 /**
+ * Structural interface shared by the HTTP client (createMcpClient) and the
+ * browser-local client (createLocalMcpClient in ./localMcp.ts). `makeOnToolCall`
+ * accepts either, so the two are drop-in interchangeable.
+ */
+export interface McpClientLike {
+  invoke(toolName: string, toolArgs: unknown): Promise<McpCallResult | McpCallError>;
+}
+
+/**
  * Construct an MCP client. The returned object exposes a single
  * `invoke(toolName, args)` method that the BYOK provider adapter passes
  * as `onToolCall`.
@@ -124,7 +133,7 @@ function resolveBaseURL(override?: string): string {
  * a returned value or a throw).
  */
 export function makeOnToolCall(
-  client: ReturnType<typeof createMcpClient>,
+  client: McpClientLike,
 ): (name: string, args: unknown) => Promise<unknown> {
   return async (name, args) => {
     const result = await client.invoke(name, args);

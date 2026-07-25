@@ -6,8 +6,12 @@ import { Corpus, MCPError } from "../src/corpus";
 import { read_wiki, read_wiki_full } from "../src/tools";
 
 /**
- * Build a tiny fixture corpus on a tmp dir so the wiki tools can be
- * exercised without depending on a real wiki/ tree being committed.
+ * Build a tiny fixture corpus on a tmp dir so the wiki tools can be exercised.
+ *
+ * read_wiki / read_wiki_full now COMPUTE the card/full sheet on demand from the
+ * chapter content (no pre-built wiki/*.md files are read), so these tests
+ * assert against the shape the real renderers produce rather than hand-written
+ * fixture files.
  *
  * Layout:
  *   <tmp>/
@@ -17,11 +21,6 @@ import { read_wiki, read_wiki_full } from "../src/tools";
  *         meta.json
  *         translation.md
  *         translation.paragraphs.json
- *       wiki/
- *         _work.card.md
- *         _work.full.md
- *         01-intro.card.md
- *         01-intro.full.md
  */
 
 let fixtureRoot: string;
@@ -97,64 +96,6 @@ beforeAll(() => {
     join(chDir, "translation.paragraphs.json"),
     JSON.stringify([{ id: "p-aaaaaa", text: "Fixture body.", offset: 0 }]),
   );
-
-  // wiki/ dir + 4 files
-  const wikiDir = join(fixtureRoot, "works", SLUG, "wiki");
-  mkdirSync(wikiDir, { recursive: true });
-  writeFileSync(
-    join(wikiDir, "_work.card.md"),
-    "# Fixture Work\nTest Author · Modern · english · prose · 1 chapters · 10 words\n\n## Chapter map\nch.1 — Fixture body.\n",
-  );
-  writeFileSync(
-    join(wikiDir, "_work.full.md"),
-    "# Fixture Work full sheet\n\n## Work-level top-50 unigrams (TF-IDF)\nfixture 0.500\n",
-  );
-  writeFileSync(
-    join(wikiDir, `${CHAPTER_SLUG}.card.md`),
-    "---\ntextrank_confidence: high\n---\n\n# Fixture Work · ch.1\nprose · 1¶ · 10w\n\n## Key passage (TextRank #1)\n> [p-aaaaaa] Fixture body.\n",
-  );
-  writeFileSync(
-    join(wikiDir, `${CHAPTER_SLUG}.full.md`),
-    [
-      "---",
-      "textrank_confidence: high",
-      "---",
-      "",
-      "# Fixture Work · ch.1 full",
-      "prose · 1¶ · 10w · vocab 1 (TTR 100%, hapax 100%)",
-      "",
-      "## Distinctive trigrams",
-      '"this is fixture"',
-      "",
-      "## Key passage (TextRank #1)",
-      "> [p-aaaaaa] Fixture body.",
-      "",
-      "## Opens",
-      "> [p-aaaaaa] Fixture body.",
-      "",
-      "## Closes",
-      "> [p-aaaaaa] Fixture body.",
-      "",
-      "## Nearest in corpus",
-      "—",
-      "",
-      "## Top-20 unigrams (TF-IDF)",
-      "fixture 0.500 · body 0.500",
-      "",
-      "## Top-20 bigrams (n-gram TF-IDF)",
-      '"fixture body" 0.500',
-      "",
-      "## Top-20 trigrams (n-gram TF-IDF)",
-      '"this is fixture" 0.500',
-      "",
-      "## Strongest collocations (NPMI top-10)",
-      "fixture + body NPMI 0.91",
-      "",
-      "## Stylometric outlier check",
-      "Burrows' Delta vs work-mean: 0.00",
-      "",
-    ].join("\n"),
-  );
 });
 
 afterAll(() => {
@@ -175,7 +116,7 @@ describe("read_wiki", () => {
   test("returns chapter card markdown when chapter_number is given", () => {
     const corpus = new Corpus(fixtureRoot);
     const out = read_wiki(corpus, SLUG, 1);
-    expect(out.markdown).toMatch(/^---\ntextrank_confidence: high\n---/);
+    expect(out.markdown).toMatch(/^---\ntextrank_confidence: (low|medium|high)\n---/);
     expect(out.markdown).toContain("# Fixture Work · ch.1");
     expect(out.markdown).toContain("[p-aaaaaa]");
     expect(out.path).toBe(`works/${SLUG}/wiki/${CHAPTER_SLUG}.card.md`);
@@ -186,8 +127,8 @@ describe("read_wiki", () => {
     expect(() => read_wiki(corpus, "no-such-slug")).toThrow(MCPError);
   });
 
-  test("throws WIKI_NOT_BUILT when wiki dir is missing", () => {
-    // Build a separate fixture that has chapters but no wiki/ dir
+  test("throws when the work has no English chapters to summarize", () => {
+    // A work whose chapters dir is empty has no English body to compute from.
     const noWiki = mkdtempSync(join(tmpdir(), "falsafa-no-wiki-"));
     try {
       const m = {
@@ -223,7 +164,7 @@ describe("read_wiki", () => {
         recursive: true,
       });
       const corpus = new Corpus(noWiki);
-      expect(() => read_wiki(corpus, "no-wiki-work-bbb222")).toThrow(/wiki not built/i);
+      expect(() => read_wiki(corpus, "no-wiki-work-bbb222")).toThrow(/no english wiki available/i);
     } finally {
       rmSync(noWiki, { recursive: true, force: true });
     }
@@ -239,14 +180,14 @@ describe("read_wiki_full", () => {
   test("returns work full sheet when chapter_number omitted", () => {
     const corpus = new Corpus(fixtureRoot);
     const out = read_wiki_full(corpus, SLUG);
-    expect(out.markdown).toContain("# Fixture Work full sheet");
+    expect(out.markdown).toContain("# Fixture Work");
     expect(out.markdown).toContain("## Work-level top-50 unigrams");
   });
 
   test("returns chapter full sheet when chapter_number given", () => {
     const corpus = new Corpus(fixtureRoot);
     const out = read_wiki_full(corpus, SLUG, 1);
-    expect(out.markdown).toContain("# Fixture Work · ch.1 full");
+    expect(out.markdown).toContain("# Fixture Work · ch.1");
     expect(out.markdown).toContain("## Top-20 unigrams");
   });
 

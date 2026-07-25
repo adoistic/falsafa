@@ -2,7 +2,7 @@
 
 Stdio MCP server for the Falsafa corpus. Ten librarian-flavored tools so any
 LLM client (Claude Desktop, Claude Code, Cursor, Codex, or any MCP-aware host)
-can navigate 37 translated philosophical and classical works through
+can navigate 2,018 philosophical and classical works through
 paragraph-stable citations. No API key, no setup beyond `npx`.
 
 ```bash
@@ -11,10 +11,9 @@ npx -y @falsafa/mcp
 
 Install from the npm registry, not from a git URL — git installs trigger the
 package's `prepack` hook, which depends on the source tree's `corpus/`
-directory and `bun`. Registry installs ship the corpus pre-bundled in the
-tarball.
+directory and `bun`.
 
-> **First run downloads the corpus snapshot (~185 MB compressed, ~800 MB on disk)** from a GitHub release into your cache directory, verifies its checksum, and builds a local search index. The npm package itself is ~100 KB. If
+> **First run downloads the corpus snapshot (~500 MB compressed, ~2 GB on disk)** from a GitHub release into your cache directory, verifies its checksum, and builds a local search index. The npm package itself is ~100 KB. If
 > your MCP client's startup timeout is short — Claude Code in particular —
 > run `npx -y @falsafa/mcp` once in a terminal first. npm caches the
 > package, and your client's spawn resolves instantly thereafter.
@@ -92,24 +91,37 @@ Ten tools. Eight for catalog navigation, two for the rule-based wiki layer.
 
 ## What's in the corpus
 
-37 works spanning Old English Christian poetry (Cynewulf), Urdu ghazal masters
-(Ghalib, Iqbal, Zauq), French Enlightenment political theory (Comte, Dunoyer),
-German philosophical writing (Fichte), Sanskrit smṛti traditions, and Old
-Javanese / Kawi tattva texts. Each work ships with the original-language
-source, a Latin-script transliteration where it makes sense, and an English
-translation. Every paragraph has a stable content-derived ID (`p-xxxxxx`) so
-citations survive reformatting.
+2,018 works across 9 languages — Greek, Latin, Sanskrit, Urdu, Old English,
+Kawi, French, German, and English — from the Rigveda, Homer and the Greek
+historians through the Sanskrit epics and smṛti law books, Old Javanese
+tattva texts, Anglo-Saxon poetry and Urdu ghazals, to the philosophy and
+political economy of the 17th–20th centuries. Works carry the
+original-language source beside an English translation, plus a Latin-script
+transliteration where it makes sense. Every paragraph has a stable
+content-derived ID (`p-xxxxxx`) so citations survive reformatting.
+
+The corpus is not bundled in the npm package; the first run downloads a
+snapshot (~2 GB on disk) from a GitHub release and caches it.
+
+**Zero-download (remote) mode.** Set `FALSAFA_CORPUS_URL=https://falsafa.ai/corpus/`
+and the server serves the corpus straight from the CDN over HTTP — no download,
+instant startup. Navigation, reading, wiki cards, and related-works all work;
+only full-text passage search is unavailable in this mode (it returns metadata
+matches instead — use the default download mode for full-text search). Requires
+`curl` on PATH.
 
 **Translations and transliterations are AI-assisted.** AI can make
 mistakes — when accuracy matters, verify against the original-language
 source linked on each chapter page. Translations are produced by
 [Thothica](https://thothica.com)'s pipeline across Claude / GPT / Gemini.
-Underlying source archives:
+Underlying source archives include:
 
+- **Greek and Latin classics** — [Perseus Digital Library](https://www.perseus.tufts.edu/)
+- **Sanskrit corpus** (Vedas, epics, smṛtis) — [GRETIL](http://gretil.sub.uni-goettingen.de/gretil.html), Göttingen
+- **Modern philosophy and political economy** — [Project Gutenberg](https://www.gutenberg.org/), [Liberty Fund / OLL](https://oll.libertyfund.org/), [Marxists Internet Archive](https://www.marxists.org/)
+- **18th-century English poetry** — [ECPA](https://www.eighteenthcenturypoetry.org/) (Bodleian)
 - **Old English** (Cynewulf, OE Elegies) — [sacred-texts.com](https://sacred-texts.com/)
-- **Sanskrit smṛti corpus** — [GRETIL](http://gretil.sub.uni-goettingen.de/gretil.html), Göttingen Register of Electronic Texts in Indian Languages
 - **Allama Iqbal** (Bāng-i-Darā) — [allamaiqbal.com](http://allamaiqbal.com), Iqbal Academy Pakistan
-- **Mirza Ghalib + Sheikh Ibrahim Zauq** — printed editions
 
 Full source acknowledgments at [falsafa.ai/about/#sources](https://falsafa.ai/about/#sources).
 

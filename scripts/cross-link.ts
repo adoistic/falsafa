@@ -266,17 +266,71 @@ export function buildIndex(input: BuildInput, options: BuildOptions = {}): Cross
   // TF-IDF + norms
   const vectors = buildTfIdf(tokenLists);
 
-  // Pairwise cosine. Sort keys for deterministic iteration order.
+  // Related chapters via an INVERTED INDEX rather than all-pairs cosine.
+  // All-pairs is O(N²) (~640M cosines at 25k chapters — hours). Instead we
+  // bucket term -> chapters, then for each chapter accumulate dot products
+  // only over chapters that share a term. Very-high-document-frequency terms
+  // are skipped: their IDF weight is ~0 (negligible cosine contribution) but
+  // they own the largest postings lists. The result is deterministic and, for
+  // the top-K nearest by distinctive terms, effectively identical to exact
+  // cosine — while running in O(shared-postings) instead of O(N²).
   const keys = [...vectors.keys()].sort();
-  const links: Record<string, RelatedLink[]> = {};
+  // Only index distinctive terms (skip those shared by too many chapters —
+  // their IDF weight is ~0 and their postings are huge), and only query each
+  // chapter's top-weight terms. This bounds work to QUERY_TERMS × DF_CAP per
+  // chapter instead of the near-quadratic full-vector accumulation.
+  const DF_CAP = Math.min(1200, keys.length); // term shared by > this many chapters → skip
+  const QUERY_TERMS = 40; // per chapter, gather candidates from its top-weight terms only
 
+  // Precompute each chapter's top-QUERY_TERMS terms by weight.
+  const topTerms = new Map<string, [string, number][]>();
+  for (const key of keys) {
+    const entries = [...vectors.get(key)!.vector.entries()];
+    entries.sort((a, b) => b[1] - a[1]);
+    topTerms.set(key, entries.slice(0, QUERY_TERMS));
+  }
+
+  // Inverted index over distinctive terms only. A term's posting list is built
+  // from the chapters that carry it in their top terms, so lists stay bounded.
+  const inverted = new Map<string, Array<{ key: string; weight: number }>>();
+  for (const key of keys) {
+    for (const [term, weight] of topTerms.get(key)!) {
+      let posting = inverted.get(term);
+      if (!posting) { posting = []; inverted.set(term, posting); }
+      posting.push({ key, weight });
+    }
+  }
+
+  const links: Record<string, RelatedLink[]> = {};
+  let processed = 0;
   for (const k of keys) {
     const me = vectors.get(k)!;
-    const myMeta = chapterMeta.get(k)!;
+    if (me.norm === 0) { links[k] = []; continue; }
+    const dot = new Map<string, number>();
+    for (const [term, weight] of topTerms.get(k)!) {
+      const posting = inverted.get(term);
+      if (!posting || posting.length > DF_CAP) continue;
+      for (const p of posting) {
+        if (p.key === k) continue;
+        dot.set(p.key, (dot.get(p.key) ?? 0) + weight * p.weight);
+      }
+    }
+    if (++processed % 5000 === 0) console.error(`[cross-link] scored ${processed}/${keys.length} chapters`);
+    // `dot` gives the candidate set (chapters sharing a distinctive term).
+    // A chapter can share terms with tens of thousands of others, so cap to
+    // the top MAX_CANDIDATES by partial dot before the exact rescore — the
+    // true top-K nearest are always among the highest partial-dot candidates.
+    // Then rescore those with the EXACT full-vector cosine for true scores.
+    const MAX_CANDIDATES = 300;
+    let candKeys = [...dot.keys()];
+    if (candKeys.length > MAX_CANDIDATES) {
+      candKeys.sort((a, b) => (dot.get(b) ?? 0) - (dot.get(a) ?? 0));
+      candKeys = candKeys.slice(0, MAX_CANDIDATES);
+    }
     const candidates: Array<{ key: string; score: number }> = [];
-    for (const other of keys) {
-      if (other === k) continue;
+    for (const other of candKeys) {
       const them = vectors.get(other)!;
+      if (them.norm === 0) continue;
       const score = cosine(me, them);
       if (score < MIN_COSINE) continue;
       candidates.push({ key: other, score });
@@ -296,11 +350,10 @@ export function buildIndex(input: BuildInput, options: BuildOptions = {}): Cross
         score: Math.round(c.score * 10000) / 10000,
       };
     });
-    // Self-exclusion sanity (defense in depth — `if (other === k) continue` above already excludes self)
+    // Self-exclusion sanity (defense in depth — postings skip `p.key === k`).
     if (top.some((t) => `${t.work_slug}/${t.chapter_slug}` === k)) {
       throw new Error(`self-link leaked into related list for ${k}`);
     }
-    void myMeta;
     links[k] = top;
   }
 

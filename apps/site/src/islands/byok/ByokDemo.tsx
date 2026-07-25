@@ -27,7 +27,8 @@ import {
   saveModel,
 } from "./storage";
 import { loadAdapter } from "./providers";
-import { dispatchTool } from "./browserTools";
+import { createMcpClient, makeOnToolCall } from "./mcpClient";
+import { createLocalMcpClient } from "./localMcp";
 import { DEFAULT_MODEL_BY_PROVIDER } from "./models";
 import KeyInput from "./ui/KeyInput";
 import ProviderPicker from "./ui/ProviderPicker";
@@ -261,10 +262,16 @@ async function runStream(
 ): Promise<void> {
   try {
     const stream = await loadAdapter(provider);
-    // Browser-bundled MCP dispatch: tool calls run directly in the page
-    // against /corpus/* static URLs. No server hop, no CORS, no key
-    // beyond what the user already typed for the LLM provider.
-    const onToolCall = dispatchTool;
+    // Tool dispatch. By default it runs fully in the page against the
+    // same-origin /corpus/* static files (createLocalMcpClient) — no server
+    // hop, no CORS, no key beyond the LLM provider key the user typed. An
+    // explicit PUBLIC_FALSAFA_MCP_URL / window.__FALSAFA_MCP_URL routes to a
+    // remote HTTP MCP instead (createMcpClient), kept as a future override.
+    const overrideUrl = resolveMcpOverrideUrl();
+    const client = overrideUrl
+      ? createMcpClient({ baseURL: overrideUrl })
+      : createLocalMcpClient();
+    const onToolCall = makeOnToolCall(client);
 
     let firstChunkSeen = false;
     for await (const evt of stream({
@@ -292,6 +299,23 @@ async function runStream(
       },
     });
   }
+}
+
+/**
+ * Explicit remote-MCP override. When set, tool calls route through the HTTP
+ * MCP client (createMcpClient) instead of the in-page local client. Priority:
+ *   1. window.__FALSAFA_MCP_URL (injected by the /try Astro page at build time)
+ *   2. import.meta.env.PUBLIC_FALSAFA_MCP_URL (Vite env var)
+ * Returns null when neither is set — the demo then runs fully client-side.
+ */
+function resolveMcpOverrideUrl(): string | null {
+  if (typeof window !== "undefined") {
+    const fromWindow = (window as unknown as { __FALSAFA_MCP_URL?: string }).__FALSAFA_MCP_URL;
+    if (fromWindow) return fromWindow;
+  }
+  const env = (import.meta as unknown as { env?: Record<string, string> }).env;
+  if (env?.PUBLIC_FALSAFA_MCP_URL) return env.PUBLIC_FALSAFA_MCP_URL;
+  return null;
 }
 
 function mapToAction(

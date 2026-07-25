@@ -25,10 +25,10 @@ import { Readable } from "node:stream";
 import { pipeline } from "node:stream/promises";
 
 export const CORPUS_RELEASE = {
-  tag: "corpus-2026-06-11d",
+  tag: "corpus-2026-07-25",
   asset: "falsafa-corpus.tar.gz",
-  sha256: "ee06f44473138b6de85386115a1714e3779bbe4a4021167c354a7bf4fe399e57",
-  works: 1148,
+  sha256: "84664ffff66c62cf7a29239e00dbc2a60ff9315d7c85ad4a4e5aa70a126ccd15",
+  works: 2018,
 };
 
 const RELEASE_URL = `https://github.com/adoistic/falsafa/releases/download/${CORPUS_RELEASE.tag}/${CORPUS_RELEASE.asset}`;
@@ -52,7 +52,7 @@ export async function downloadCorpus(): Promise<string> {
   const tarPath = join(dir, CORPUS_RELEASE.asset);
 
   console.error(
-    `falsafa: first run downloads the corpus snapshot (${CORPUS_RELEASE.works} works, ~185 MB compressed, ~800 MB on disk)`,
+    `falsafa: first run downloads the corpus snapshot (${CORPUS_RELEASE.works} works, ~460 MB compressed, ~2 GB on disk)`,
   );
   console.error(`falsafa: ${RELEASE_URL}`);
   console.error(`falsafa: caching under ${dir}`);
