@@ -20,9 +20,15 @@ import { CORPUS_ROOT } from "../../lib/corpus";
 import "../../styles/thesis.css";
 
 // ── Aggregate corpus totals (mirrors /numbers exactly) ─────────────────
-type WorkRow = { slug: string };
+type WorkRow = {
+  slug: string;
+  total_logical_chapters?: number;
+  total_variant_entries?: number;
+};
 const manifest = JSON.parse(readFileSync(join(CORPUS_ROOT, "manifest.json"), "utf-8")) as { works: WorkRow[] };
 const workCount = manifest.works.length;
+const chapterCount = manifest.works.reduce((s, w) => s + (w.total_logical_chapters ?? 0), 0);
+const variantCount = manifest.works.reduce((s, w) => s + (w.total_variant_entries ?? 0), 0);
 
 let totalWords = 0;
 const worksDir = join(CORPUS_ROOT, "works");
@@ -260,12 +266,12 @@ const BENCH: Bench[] = abReady
         <p class="thesis-lede">
           Falsafa scales Andrej Karpathy's
           <a href="https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f">LLM-as-Wiki gist</a>
-          past three million words of curated literary corpus, and its
-          ambition is to push past a hundred million with the
-          <a href="https://www.perseus.tufts.edu/hopper/">Perseus archive</a>.
-          No vector index. No chunking. No embedding model. The host LLM
-          navigates the markdown directly through eight librarian tools, and
-          every cited paragraph resolves to a deep link in the
+          to {Math.round(totalWords / 1_000_000)} million words of curated
+          literary corpus, on its way past a hundred million as the
+          <a href="https://www.perseus.tufts.edu/hopper/">Perseus</a> ingest
+          completes. No vector index. No chunking. No embedding model. The
+          host LLM navigates the markdown directly through fifteen librarian
+          tools, and every cited paragraph resolves to a deep link in the
           <a href="/works/">reading site</a>.
         </p>
 
@@ -289,7 +295,8 @@ const BENCH: Bench[] = abReady
           <div class="thesis-chart-block" aria-label="Falsafa corpus size compared to Karpathy's gist proposal">
             <p class="thesis-chart-title">Scaling Karpathy's LLM-Wiki gist</p>
             <p class="thesis-chart-subtitle">
-              Editorial chart, log-flat. Word counts across the English layer.
+              Editorial chart, log-flat. Word counts summed across every
+              language variant.
             </p>
             {SCALING.map((row) => (
               <div class="thesis-chart-row">
@@ -434,8 +441,8 @@ const BENCH: Bench[] = abReady
       <div>
         <h2 class="thesis-cta-headline">Try it yourself.</h2>
         <p class="thesis-cta-prose">
-          Bring your own key. The /try page runs the full eight-tool surface
-          against the corpus in your browser, streams the trace, and
+          Bring your own key. The /try page runs the catalogue, search, and
+          atlas tools against the corpus in your browser, streams the trace, and
           deep-links every cited paragraph. The audit trail behind the
           headline numbers above is at /eval.
         </p>
@@ -484,16 +491,17 @@ const BENCH: Bench[] = abReady
 
         <h3>Corpus size</h3>
         <p>
-          Falsafa's corpus is {workCount} works. <a href="/numbers/">/numbers</a>
-          gives the exact figures: 836 logical chapters, 2,089 variant
-          entries, 76,303 paragraphs, roughly {(totalWords / 1_000_000).toFixed(1)}M words
-          summed across every variant. The Pagefind index Falsafa ships
-          for full-text site search is around 1MB compressed. The whole
-          metadata layer (per-work <code>index.md</code>, per-chapter
+          Falsafa's corpus is {workCount.toLocaleString("en-US")} works —
+          {chapterCount.toLocaleString("en-US")} logical chapters,
+          {variantCount.toLocaleString("en-US")} variant entries, roughly
+          {(totalWords / 1_000_000).toFixed(0)}M words summed across every
+          variant; <a href="/numbers/">/numbers</a> carries the live figures.
+          The whole metadata layer (per-work <code>index.md</code>, per-chapter
           <code>meta.json</code>, per-paragraph
-          <code>*.paragraphs.json</code>) is a few megabytes. None of
-          this needs an approximate-nearest-neighbour index. It fits in
-          a directory.
+          <code>*.paragraphs.json</code>) is plain markdown and JSON in a
+          directory. None of it needs an approximate-nearest-neighbour
+          index: a filter over the manifest answers in one pass what an
+          embedding index cannot answer at all.
         </p>
         <p>
           Vector retrieval was invented to solve a real problem: when
@@ -539,11 +547,12 @@ const BENCH: Bench[] = abReady
       </section>
 
       <section class="thesis-deeper-section" id="instead">
-        <h2><a href="#instead">3. The eight-tool surface</a></h2>
+        <h2><a href="#instead">3. The fifteen-tool surface</a></h2>
 
         <p>
-          The MCP server exposes eight tools. Each returns text plus
-          structure; none calls an LLM internally.
+          The MCP server exposes fifteen tools: eight for the catalogue and
+          its text, two for the rule-based wiki layer, five for the atlas.
+          Each returns text plus structure; none calls an LLM internally.
         </p>
 
         <table class="thesis-tools">
@@ -586,8 +595,47 @@ const BENCH: Bench[] = abReady
               <td>compare_works</td>
               <td>Topic-restricted chapter pointers from each of two works. The host LLM does the comparing.</td>
             </tr>
+            <tr>
+              <td>read_wiki</td>
+              <td>The wiki card for a work or chapter (~280 tokens): rule-based summary with verbatim key passages and <code>[p-xxxxxx]</code> cite handles. The cheap read-before-you-read.</td>
+            </tr>
+            <tr>
+              <td>read_wiki_full</td>
+              <td>The full wiki sheet (~1,500 tokens): n-gram tables, collocations, refrains, TextRank picks. Opt-in for deep analysis.</td>
+            </tr>
+            <tr>
+              <td>atlas_search</td>
+              <td>Named entities — figures, places, groups, ideas, objects, events, animals — by name or by any surface form the texts use. <code>son of Kronos</code> resolves to Zeus.</td>
+            </tr>
+            <tr>
+              <td>atlas_entity</td>
+              <td>One entity across the corpus: every work that names it, what it does in each, and verbatim quotes carrying <code>[p-xxxxxx]</code> handles.</td>
+            </tr>
+            <tr>
+              <td>atlas_work</td>
+              <td>Which entities occur in which chapters of a single work, and how much of that work the ontology run has reached.</td>
+            </tr>
+            <tr>
+              <td>atlas_citations</td>
+              <td>The citation graph: who quotes whom, with a stance — authority, endorse, refute, extend, neutral — and the quotes behind each edge.</td>
+            </tr>
+            <tr>
+              <td>atlas_coverage</td>
+              <td>How much of the corpus the atlas covers, read live from the generated metadata, split by language and era. The atlas is partial by construction and says so on every call.</td>
+            </tr>
           </tbody>
         </table>
+
+        <p>
+          The last five are newer than the eval below, which measured the
+          ten-tool surface. They are also the only ones with an epistemic
+          caveat attached: the atlas is an ontology extracted from the corpus
+          and the extraction run is incomplete, so a figure absent from it may
+          simply be unprocessed rather than absent from the texts. Every atlas
+          response carries the current coverage figures for exactly that
+          reason, and <code>search_corpus</code> remains the tool that speaks
+          for the whole corpus.
+        </p>
 
         <div class="thesis-compare">
           <div class="thesis-compare-panel">
@@ -622,7 +670,7 @@ const BENCH: Bench[] = abReady
           hybrid baseline. We are building one at <code>apps/baseline/</code>:
           the same 1,000-question pool, the same blind-sub-agent dispatch, but
           the agent is given a vector-retrieval tool over the same corpus
-          instead of the Falsafa eight. When that lands, the eval explorer
+          instead of the Falsafa tools. When that lands, the eval explorer
           at <a href="/eval/">/eval</a> shows both rows side by side, per
           case, and any reader can verify the comparison.
         </p>
@@ -705,7 +753,7 @@ const BENCH: Bench[] = abReady
 
     {/* Page footer chrome */}
     <div class="thesis-foot">
-      <span class="thesis-foot-route">falsafa.app/thesis</span>
+      <span class="thesis-foot-route">falsafa.ai/thesis</span>
       <span>Tiny sans chrome · nav Inter</span>
     </div>
 
