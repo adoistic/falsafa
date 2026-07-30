@@ -14,6 +14,15 @@
  */
 
 import { tool, type ToolSet } from "ai";
+
+// The system prompt lives in ./systemPrompt.ts so the island can import it
+// without pulling `ai`/`zod` into the eager bundle. Re-exported here because
+// the provider adapters have always imported it from this module.
+export {
+  FALSAFA_SYSTEM_PROMPT,
+  buildSystemPrompt,
+  type AtlasCoverageFacts,
+} from "./systemPrompt";
 import { z } from "zod";
 
 export type OnToolCall = (name: string, args: unknown) => Promise<unknown>;
@@ -81,9 +90,21 @@ export function buildFalsafaTools(onToolCall: OnToolCall): ToolSet {
 
     search_corpus: tool({
       description:
-        "Full-text search across the entire Falsafa corpus. Returns paragraph-level matches with work_slug, chapter_number, paragraph_id, and a snippet. Use for finding specific phrases, names, or concepts across many works at once.",
+        "Full-text search across every work in the Falsafa corpus. Returns passage-level matches with work_slug, chapter_number, chapter_slug, paragraph_id, a snippet, and a ready-made citation_url.\n\n" +
+        "HOW TO QUERY: all words must appear in the same chapter (it is an AND), stemming is automatic, and there is NO regex and no placeholders. Pass plain words.\n" +
+        "- To locate a half-remembered quote, search a distinctive 2-3 word phrase from it — proper nouns or unusual pairings, never common words. If that returns nothing, try a DIFFERENT short phrase rather than repeating the same one.\n" +
+        "- Do not paste a whole sentence: one paraphrased word makes the whole query miss.\n" +
+        "- If a query over 5 words returns nothing, it is retried automatically with its rarest tokens and the response reports that in `auto_fallback`.\n" +
+        "For catalog questions ('what works are by X'), use list_works instead — this searches text, not metadata.",
       inputSchema: z.object({
         query: z.string(),
+        scope: z
+          .enum(["english", "all"])
+          .optional()
+          .describe(
+            "Default 'english' (translations + English-native works). Use 'all' only when the user asked about source-language text.",
+          ),
+        work_slug: z.string().optional().describe("Restrict the search to one work."),
         limit: z.number().int().optional(),
       }),
       execute: async (args) => onToolCall("search_corpus", args),
@@ -110,48 +131,68 @@ export function buildFalsafaTools(onToolCall: OnToolCall): ToolSet {
       }),
       execute: async (args) => onToolCall("compare_works", args),
     }),
+
+    // ── Atlas: the ontology layer over the corpus ─────────────────────
+    // PARTIAL BY CONSTRUCTION. Every response carries a live atlas_coverage
+    // block; the descriptions below say so too, because a model that reads
+    // "not in the Atlas" as "not in the corpus" will invent absences.
+
+    atlas_search: tool({
+      description:
+        "Search the Atlas for a named entity — a figure (god, human, author), place, group, idea, object, event, or animal — by name or by any alias the texts use ('son of Kronos' finds Zeus; 'Śakra' finds Indra). Returns each entity's kind + slug (needed by atlas_entity), how many works mention it, and its recorded surface forms.\n\n" +
+        "The Atlas is an ontology extracted from the corpus and is only PARTIALLY built — check the atlas_coverage block in the response. An entity missing here may still appear in works that have not been processed yet; search_corpus covers the whole corpus.",
+      inputSchema: z.object({
+        query: z.string(),
+        kind: z
+          .enum(["figure", "group", "place", "object", "idea", "event", "animal"])
+          .optional()
+          .describe("Restrict to one kind of entity."),
+        limit: z.number().int().optional(),
+      }),
+      execute: async (args) => onToolCall("atlas_search", args),
+    }),
+
+    atlas_entity: tool({
+      description:
+        "Open an Atlas entity's dossier: every work that mentions it, what it does in each one (a per-work gloss), mention counts, and verbatim quotes with paragraph_id + citation_url you can cite directly. Use after atlas_search — pass the kind and slug it returned. This is the tool for 'where does X appear across the corpus' and 'how do different traditions portray X'.",
+      inputSchema: z.object({
+        kind: z.enum(["figure", "group", "place", "object", "idea", "event", "animal"]),
+        slug: z.string().describe("Entity slug from atlas_search, e.g. 'zeus'."),
+        limit_works: z.number().int().optional(),
+      }),
+      execute: async (args) => onToolCall("atlas_entity", args),
+    }),
+
+    atlas_work: tool({
+      description:
+        "What the Atlas knows about one work: which entities appear in which chapters (with paragraph ids), the work's top entities, and how completely this particular work has been processed (windows_done / windows_total). Use it to orient inside a long work before reading, or to answer 'is this work in the Atlas yet'. Returns in_atlas=false — not an error — when the work has not been processed; its text is still fully readable.",
+      inputSchema: z.object({
+        work_slug: z.string(),
+        chapter_slug: z.string().optional().describe("Narrow to a single chapter."),
+      }),
+      execute: async (args) => onToolCall("atlas_work", args),
+    }),
+
+    atlas_citations: tool({
+      description:
+        "Query the citation graph: which work quotes or invokes which other work, with a stance (authority / endorse / refute / extend / neutral), a count, and citable quotes. Use for influence and reception questions — 'who argues against Chrysippus', 'what does this author lean on'. `cited_work_in_corpus` tells you whether the cited text is itself readable here.",
+      inputSchema: z.object({
+        work_slug: z.string().optional().describe("Edges where this work cites or is cited."),
+        cited_work: z
+          .string()
+          .optional()
+          .describe("Match the cited work's title, author, or slug (substring)."),
+        stance: z.enum(["authority", "endorse", "refute", "extend", "neutral"]).optional(),
+        limit: z.number().int().optional(),
+      }),
+      execute: async (args) => onToolCall("atlas_citations", args),
+    }),
+
+    atlas_coverage: tool({
+      description:
+        "Exactly how much of the corpus the Atlas covers right now — works processed vs total, text windows synthesized vs total, and the same breakdown per language and per era, plus entity counts by kind. Read live from the generated Atlas metadata, so the numbers are current, not remembered. Call this before making any claim about Atlas completeness, and to answer 'how complete is the Atlas for Latin / for the Hellenistic era'.",
+      inputSchema: z.object({}),
+      execute: async (args) => onToolCall("atlas_coverage", args),
+    }),
   };
 }
-
-export const FALSAFA_SYSTEM_PROMPT = `You are a librarian for the Falsafa corpus — translated philosophical and classical texts. You have access to 8 tools that let you navigate the corpus directly.
-
-Approach:
-1. If you need to discover what's in the corpus, start with list_works.
-2. For specific phrases or concepts, search_corpus first.
-3. Read chapters with read_chapter when you need full context.
-4. Cite paragraphs precisely with get_passage when the user wants quotation.
-5. For "what work also covers this", use find_related.
-6. For side-by-side comparisons, use compare_works.
-
-If a question can't be answered from the corpus, say so honestly — don't invent. The corpus has 37 works currently; not every topic is covered.
-
-# Citations
-
-Every claim you make from the corpus MUST be cited via markdown footnotes. The reader will see your prose with small superscript [1] [2] markers; clicking each one jumps to a footnote at the bottom that contains the source link.
-
-## How to format citations
-
-Use markdown's footnote syntax: \`[^1]\` inline, \`[^1]: ...\` at the bottom.
-
-\`\`\`
-The author argues that property is the foundation of liberty.[^1]
-
-[^1]: Charles Comte, *Traité de la propriété*, [paragraph](/works/charles-comte-...-2c7a99/00-preface/translation/#p-be2857).
-\`\`\`
-
-The link target — the URL inside \`[paragraph](url)\` — comes from the \`citation_url\` field that read_chapter and get_passage return. Use it verbatim. Don't reconstruct URLs by hand.
-
-**URL format hard rule:** the citation_url always ends in a trailing slash (e.g. \`.../translation/\`). When you append a paragraph anchor like \`#p-be2857\`, keep that slash — write \`.../translation/#p-be2857\`, NEVER \`.../translation#p-be2857\`. The route is configured with \`trailingSlash: always\`; the version without the slash 404s. If get_passage already gave you a URL with the hash baked in, use it as-is and don't strip anything.
-
-## Picking the right kind of citation
-
-- **Single paragraph quote or claim** — call get_passage with one paragraph_id. The result's \`paragraphs[0].citation_url\` is the link.
-- **Multi-paragraph passage** (e.g., "argued across paragraphs 4–7") — call get_passage with the full \`paragraph_ids\` list or a \`paragraph_range\`. The TOP-LEVEL \`citation_url\` field in the result highlights all of them at once.
-- **Whole chapter** — call read_chapter. Its \`citation_url\` is the bare chapter URL.
-- **Two separate passages from the same source** — emit two footnotes, [^1] and [^2], with the per-paragraph \`citation_url\` for each.
-
-## Hard rule
-
-NEVER write raw paragraph IDs like \`p-be2857\` or \`p-f22236\` in your final answer prose. They are meaningless to the reader. Always wrap them in a markdown link via the \`citation_url\` field. The IDs are an internal handle, not a citation.
-
-The user's question follows. Use the tools, then answer.`;

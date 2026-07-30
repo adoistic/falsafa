@@ -1,6 +1,6 @@
 # Falsafa MCP
 
-Stdio MCP server for the Falsafa corpus. Ten librarian-flavored tools so any
+Stdio MCP server for the Falsafa corpus. Fifteen librarian-flavored tools so any
 LLM client (Claude Desktop, Claude Code, Cursor, Codex, or any MCP-aware host)
 can navigate 2,018 philosophical and classical works through
 paragraph-stable citations. No API key, no setup beyond `npx`.
@@ -76,7 +76,8 @@ Drop that wherever your client expects an MCP server entry.
 
 ## Tools
 
-Ten tools. Eight for catalog navigation, two for the rule-based wiki layer.
+Fifteen tools. Eight for catalog navigation, two for the rule-based wiki layer,
+five for the Atlas — the ontology layer over the corpus.
 
 - **`list_works`** — list works in the corpus with optional author / era / genre / language filters
 - **`list_chapters`** — list chapters of a specific work
@@ -88,6 +89,28 @@ Ten tools. Eight for catalog navigation, two for the rule-based wiki layer.
 - **`compare_works`** — side-by-side pointer chapters for two works on a topic.
 - **`read_wiki`** — rule-based wiki card (~280 tokens) for a work or chapter. Use BEFORE `read_chapter` to scan what's worth a deep read. Cards are deterministic, generated from the corpus by classical statistical algorithms — zero LLM tokens in any output. Each card includes verbatim openings, closings, and key passages with `[p-XXXXXX]` cite handles.
 - **`read_wiki_full`** — heavier wiki sheet (~1,500 tokens) with the deeper statistical detail layered on top of the card. Opt-in for deep analysis; most queries should use `read_wiki` first and only escalate when needed.
+
+### The Atlas
+
+The Atlas is an ontology extracted from the corpus: named entities and where
+they occur, per-work chapter rosters, and a citation graph with stances. It is
+read lazily from `https://falsafa.ai/corpus/graph/atlas/` — set
+`FALSAFA_ATLAS_URL` to point elsewhere, or drop a `graph/atlas/` directory into
+the corpus root to read it from disk. Nothing is fetched unless you call one of
+these tools.
+
+- **`atlas_search`** — find a figure, place, group, idea, object, event, or animal by name or by any alias the texts use (`son of Kronos` → Zeus; `Sakra` → Indra, diacritics folded). Returns the `kind` + `slug` the next tool needs.
+- **`atlas_entity`** — an entity's dossier: every work that mentions it, what it does in each, and verbatim quotes with `paragraph_id` + `citation_url`.
+- **`atlas_work`** — which entities appear in which chapters of one work, its top entities, and how completely that work has been processed.
+- **`atlas_citations`** — who quotes or invokes whom, with a stance (`authority` / `endorse` / `refute` / `extend` / `neutral`) and citable quotes. `cited_work_in_corpus` says whether the cited text is readable here.
+- **`atlas_coverage`** — live coverage counters: works processed vs total, windows synthesized vs total, and the same split by language and by era.
+
+**The Atlas is partial and still being built** — a minority of works have been
+through extraction so far, while the corpus itself is complete and fully
+readable. Every `atlas_*` response therefore carries an `atlas_coverage` block
+with the current numbers, and a work absent from the Atlas is *not* absent from
+the corpus: it simply has not been processed yet. Use `search_corpus` when you
+need to be sure about what the corpus does or does not contain.
 
 ## What's in the corpus
 

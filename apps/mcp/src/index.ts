@@ -2,8 +2,9 @@
 /**
  * Falsafa MCP server — stdio transport.
  *
- * Ten librarian-flavored tools so any LLM can navigate the corpus
- * (eight catalog tools plus read_wiki + read_wiki_full).
+ * Fifteen librarian-flavored tools so any LLM can navigate the corpus:
+ * eight catalog tools, read_wiki + read_wiki_full, and five atlas_* tools over
+ * the ontology layer (entities, per-work rosters, citation graph, coverage).
  *
  * Install (canonical, one per client):
  *   Claude Code:    claude mcp add falsafa npx -y @falsafa/mcp
@@ -26,6 +27,15 @@ import {
 } from "@modelcontextprotocol/sdk/types.js";
 import { Corpus, MCPError } from "./corpus.ts";
 import { downloadCorpus, buildSearchIndex } from "./fetch-corpus.ts";
+import {
+  Atlas,
+  ATLAS_KINDS,
+  atlas_search,
+  atlas_entity,
+  atlas_work,
+  atlas_citations,
+  atlas_coverage,
+} from "./atlas.ts";
 
 // Read version from package.json so the MCP `initialize` handshake reports
 // the same version that npm shows. `import.meta.url` resolves the same way
@@ -69,6 +79,12 @@ if (corpus.isRemote) {
 } else {
   buildSearchIndex(corpus.rootPath);
 }
+
+// The Atlas (ontology layer) is read lazily — nothing is fetched or opened
+// until an atlas_* tool is actually called. See src/atlas.ts for how the
+// source is resolved (env override → local graph/atlas/ → remote → falsafa.ai).
+const atlas = new Atlas(corpus);
+console.error(`[falsafa-mcp] atlas source: ${atlas.source}`);
 const works = corpus.works();
 console.error(
   `[falsafa-mcp] corpus loaded: ${works.length} works from ${corpus.rootPath}`,
@@ -269,6 +285,71 @@ const tools = [
       required: ["work_slug"],
     },
   },
+  {
+    name: "atlas_search",
+    description:
+      "Search the Atlas — Falsafa's ontology layer — for a named entity: a figure (god, human, author), place, group, idea, object, event, or animal. Matches names AND the surface forms the texts actually use, so 'son of Kronos' finds Zeus and 'Sakra' finds Indra (diacritics are folded). Returns kind + slug (feed them to atlas_entity), how many works mention it, and its aliases.\n\n" +
+      "COVERAGE: the Atlas is built from a partially-complete extraction run. Check the atlas_coverage block in every response. An entity absent here may still occur in works not yet processed — search_corpus covers the whole corpus and does not depend on the Atlas.",
+    inputSchema: {
+      type: "object" as const,
+      properties: {
+        query: { type: "string", description: "Name or alias, e.g. 'Zeus', 'son of Kronos', 'Olympus'" },
+        kind: { type: "string", enum: [...ATLAS_KINDS], description: "Restrict to one kind of entity." },
+        limit: { type: "number", description: "Max results (default 15, max 50)" },
+      },
+      required: ["query"],
+    },
+  },
+  {
+    name: "atlas_entity",
+    description:
+      "Open an Atlas entity's dossier: every work that mentions it, a per-work gloss of what it does there, mention counts, and verbatim quotes carrying paragraph_id + citation_url for direct citation. Call atlas_search first and pass the kind + slug it returned. This is the tool for 'where does X appear across the corpus' and 'how do different traditions portray X'.",
+    inputSchema: {
+      type: "object" as const,
+      properties: {
+        kind: { type: "string", enum: [...ATLAS_KINDS] },
+        slug: { type: "string", description: "Entity slug from atlas_search, e.g. 'zeus'" },
+        limit_works: { type: "number", description: "Max works to include (default 15, max 40)" },
+      },
+      required: ["kind", "slug"],
+    },
+  },
+  {
+    name: "atlas_work",
+    description:
+      "What the Atlas knows about one work: which entities appear in which chapters (with paragraph ids), the work's top entities, and how completely THIS work has been processed (windows_done / windows_total). Use it to orient inside a long work before reading, or to check whether a work is in the Atlas yet. Returns in_atlas=false — not an error — when the work has not been processed; its text is still fully readable via read_chapter.",
+    inputSchema: {
+      type: "object" as const,
+      properties: {
+        work_slug: { type: "string" },
+        chapter_slug: { type: "string", description: "Optional — narrow to one chapter slug." },
+      },
+      required: ["work_slug"],
+    },
+  },
+  {
+    name: "atlas_citations",
+    description:
+      "Query the citation graph: which work quotes or invokes which other work, with a stance (authority / endorse / refute / extend / neutral), a count, and citable quotes. Use for influence and reception questions — 'who argues against Chrysippus', 'what does this author lean on', 'who treats the Psalms as authority'. `cited_work_in_corpus` says whether the cited text is itself readable here.",
+    inputSchema: {
+      type: "object" as const,
+      properties: {
+        work_slug: { type: "string", description: "Edges where this work cites, or is cited by, another." },
+        cited_work: { type: "string", description: "Match the cited work's title, author, or slug (substring)." },
+        stance: {
+          type: "string",
+          enum: ["authority", "endorse", "refute", "extend", "neutral"],
+        },
+        limit: { type: "number", description: "Max edges (default 20, max 60)" },
+      },
+    },
+  },
+  {
+    name: "atlas_coverage",
+    description:
+      "Exactly how much of the corpus the Atlas covers right now: works processed vs total, text windows synthesized vs total, the same breakdown per language and per era, and entity counts by kind. Read live from the Atlas metadata, so the numbers are current rather than remembered. Call this before making any claim about Atlas completeness, and to answer 'how complete is the Atlas for Latin / for the Hellenistic era'.",
+    inputSchema: { type: "object" as const, properties: {} },
+  },
 ];
 
 // ─────────────────────────────────────────────────────────────────────────
@@ -341,6 +422,27 @@ server.setRequestHandler(CallToolRequestSchema, async (request: CallToolRequest)
           (args as { work_slug: string }).work_slug,
           (args as { chapter_number?: number }).chapter_number,
         );
+        break;
+      case "atlas_search":
+        result = await atlas_search(atlas, args as { query: string; kind?: string; limit?: number });
+        break;
+      case "atlas_entity":
+        result = await atlas_entity(
+          atlas,
+          args as { kind: string; slug: string; limit_works?: number },
+        );
+        break;
+      case "atlas_work":
+        result = await atlas_work(atlas, args as { work_slug: string; chapter_slug?: string });
+        break;
+      case "atlas_citations":
+        result = await atlas_citations(
+          atlas,
+          args as { work_slug?: string; cited_work?: string; stance?: string; limit?: number },
+        );
+        break;
+      case "atlas_coverage":
+        result = await atlas_coverage(atlas);
         break;
       default:
         throw new MCPError("BAD_QUERY", `Unknown tool: ${name}`);

@@ -23,6 +23,12 @@ export interface ProviderAdapterArgs {
   onToolCall: (name: string, args: unknown) => Promise<unknown>;
   /** Optional model id override. Each adapter has a sensible default. */
   modelId?: string;
+  /**
+   * Fully-built system prompt. The island builds it per question so it can
+   * carry live Atlas coverage numbers (buildSystemPrompt in ./tools.ts).
+   * Adapters fall back to the static FALSAFA_SYSTEM_PROMPT when absent.
+   */
+  systemPrompt?: string;
   /** Optional fetch override — used by tests to replay recorded streams. */
   fetch?: typeof globalThis.fetch;
 }

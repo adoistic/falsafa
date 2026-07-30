@@ -27,6 +27,7 @@ import {
   saveModel,
 } from "./storage";
 import { loadAdapter } from "./providers";
+import { buildSystemPrompt } from "./providers/systemPrompt";
 import { createMcpClient, makeOnToolCall } from "./mcpClient";
 import { createLocalMcpClient } from "./localMcp";
 import { DEFAULT_MODEL_BY_PROVIDER } from "./models";
@@ -268,10 +269,15 @@ async function runStream(
     // explicit PUBLIC_FALSAFA_MCP_URL / window.__FALSAFA_MCP_URL routes to a
     // remote HTTP MCP instead (createMcpClient), kept as a future override.
     const overrideUrl = resolveMcpOverrideUrl();
-    const client = overrideUrl
-      ? createMcpClient({ baseURL: overrideUrl })
-      : createLocalMcpClient();
+    const localClient = overrideUrl ? null : createLocalMcpClient();
+    const client = localClient ?? createMcpClient({ baseURL: overrideUrl! });
     const onToolCall = makeOnToolCall(client);
+
+    // Atlas coverage is read fresh (meta.json, ~3 KB) and folded into the
+    // system prompt so the model states today's real completeness instead of a
+    // number baked in at build time. A failure here is not fatal — the static
+    // prompt still carries the qualitative caveat.
+    const atlasFacts = localClient ? await localClient.atlasCoverage().catch(() => null) : null;
 
     let firstChunkSeen = false;
     for await (const evt of stream({
@@ -281,6 +287,7 @@ async function runStream(
       question: args.question,
       abortSignal: args.abortSignal,
       onToolCall,
+      systemPrompt: buildSystemPrompt(atlasFacts),
     })) {
       if (!firstChunkSeen && evt.kind !== "error") {
         firstChunkSeen = true;

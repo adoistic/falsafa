@@ -80,7 +80,9 @@ export async function* streamOpenAI(
   try {
     const result = streamText({
       model: provider.chat(modelId),
-      system: FALSAFA_SYSTEM_PROMPT,
+      // The island passes a prompt carrying live Atlas coverage figures; the
+      // static prompt (with its qualitative caveat) is the fallback.
+      system: args.systemPrompt ?? FALSAFA_SYSTEM_PROMPT,
       prompt: args.question,
       tools,
       abortSignal: args.abortSignal,

@@ -3,14 +3,16 @@
  *
  * The /try page and the corpus are served from the SAME origin (falsafa.ai):
  * the corpus markdown lives under /corpus/* (see apps/site/scripts/prepare-
- * corpus.ts, which symlinks public/corpus → repo-root corpus/). So the 8
+ * corpus.ts, which symlinks public/corpus → repo-root corpus/). So the
  * librarian tools can run entirely in the browser by `fetch`-ing the same
  * static files the stdio/remote MCP reads — no server hop, no CORS, no key
- * beyond the LLM provider key the user already typed.
+ * beyond the LLM provider key the user already typed. Full-text search comes
+ * from the site's own Pagefind index (./pagefindSearch.ts) and the Atlas tools
+ * from the published ontology graph (./atlas.ts).
  *
  * This is a direct browser port of the "remote" (zero-download) mode of
  * apps/mcp: apps/mcp/src/corpus.ts (the Corpus reader) + apps/mcp/src/tools.ts
- * (the 8 tools). Output shapes mirror apps/mcp/src/tools.ts so the model sees
+ * (the catalog tools). Output shapes mirror apps/mcp/src/tools.ts so the model sees
  * the same structure whether it's talking to the installed MCP or this
  * in-page version. Two deliberate additions the demo's system prompt
  * (FALSAFA_SYSTEM_PROMPT in ./providers/tools.ts) requires — `citation_url`
@@ -25,6 +27,15 @@
 
 import { urlForCitation } from "../../lib/citation-url";
 import type { McpCallError, McpCallResult } from "./mcpClient";
+import { searchPassages, type PagefindLoader } from "./pagefindSearch";
+import { AtlasError, createAtlasClient, isAtlasTool } from "./atlas";
+
+/**
+ * Minimal fetch signature. NOT `typeof globalThis.fetch`: Bun's lib types hang
+ * extra statics (`preconnect`) off that type, which a wrapper closure can't
+ * satisfy — and wrapping is mandatory here (see the constructor comment).
+ */
+export type FetchLike = (input: RequestInfo | URL, init?: RequestInit) => Promise<Response>;
 
 // ─────────────────────────────────────────────────────────────────────────
 // Types (subset of apps/mcp/src/corpus.ts — only what the reader needs)
@@ -201,16 +212,29 @@ function parseValue(s: string): unknown {
 
 class BrowserCorpus {
   private base: string;
-  private fetchImpl: typeof globalThis.fetch;
+  private fetchImpl: FetchLike;
   private fileCache = new Map<string, string | null>();
   private _manifest: Manifest | null = null;
   private _mcpIndex: McpIndex | null = null;
   private _crossLinks: CrossLinkIndexFile | null | undefined;
   private chapterListCache = new Map<string, ChapterMeta[]>();
+  /** Message from the most recent fetch that threw — folded into the
+   *  INTERNAL errors below so a transport failure doesn't masquerade as a
+   *  missing file. */
+  private lastFetchError: string | null = null;
 
-  constructor(base: string, fetchImpl: typeof globalThis.fetch) {
+  constructor(base: string, fetchImpl: FetchLike) {
     this.base = base.endsWith("/") ? base : base + "/";
-    this.fetchImpl = fetchImpl;
+    // Wrap, don't assign. Storing fetch on the instance and calling it as
+    // `this.fetchImpl(...)` invokes the browser's native fetch with `this` set
+    // to the BrowserCorpus — and Chrome brand-checks the receiver, throwing
+    // "Failed to execute 'fetch' on 'Window': Illegal invocation". Node/Bun
+    // don't brand-check, so this only ever broke in the browser (the one place
+    // this client actually runs): every readFile threw, got swallowed below,
+    // and surfaced to the model as "manifest.json not found". The arrow keeps
+    // the invocation plain, which is legal for native fetch and for any
+    // injected test double.
+    this.fetchImpl = (input, init) => fetchImpl(input, init);
   }
 
   /** Fetch one corpus file by POSIX-relative path; null when it 404s. */
@@ -220,11 +244,18 @@ class BrowserCorpus {
     try {
       const res = await this.fetchImpl(this.base + relPath);
       body = res.ok ? await res.text() : null;
-    } catch {
+    } catch (err) {
+      this.lastFetchError = err instanceof Error ? err.message : String(err);
       body = null;
     }
     this.fileCache.set(relPath, body);
     return body;
+  }
+
+  /** Suffix for the "index file missing" errors: names the transport failure
+   *  when there was one, so the next class of bug isn't invisible. */
+  private fetchErrorSuffix(): string {
+    return this.lastFetchError ? ` (fetch failed: ${this.lastFetchError})` : "";
   }
 
   private async readJson<T>(relPath: string): Promise<T | null> {
@@ -240,7 +271,11 @@ class BrowserCorpus {
   async manifest(): Promise<Manifest> {
     if (!this._manifest) {
       const m = await this.readJson<Manifest>("manifest.json");
-      if (!m) throw new MCPError("INTERNAL", `manifest.json not found at ${this.base}`);
+      if (!m)
+        throw new MCPError(
+          "INTERNAL",
+          `manifest.json not found at ${this.base}${this.fetchErrorSuffix()}`,
+        );
       this._manifest = m;
     }
     return this._manifest;
@@ -257,7 +292,11 @@ class BrowserCorpus {
   private async mcpIndex(): Promise<McpIndex> {
     if (!this._mcpIndex) {
       const idx = await this.readJson<McpIndex>("mcp-index.json");
-      if (!idx) throw new MCPError("INTERNAL", `mcp-index.json not found at ${this.base}`);
+      if (!idx)
+        throw new MCPError(
+          "INTERNAL",
+          `mcp-index.json not found at ${this.base}${this.fetchErrorSuffix()}`,
+        );
       this._mcpIndex = idx;
     }
     return this._mcpIndex;
@@ -288,6 +327,22 @@ class BrowserCorpus {
       .sort((a, b) => a.chapter_number - b.chapter_number);
     this.chapterListCache.set(workSlug, metas);
     return metas;
+  }
+
+  /**
+   * Map a chapter SLUG to its logical chapter_number. Search hits carry slugs
+   * (they come from URLs), while read_chapter / get_passage take numbers — so
+   * without this the model can't act on a search result. Answered from the
+   * flat mcp-index (~270 KB gzipped, fetched once per session), not by walking
+   * every chapter's meta.json.
+   */
+  async chapterNumberFor(workSlug: string, chapterSlug: string): Promise<number | null> {
+    try {
+      const entries = (await this.mcpIndex()).chapters_by_work[workSlug];
+      return entries?.find((e) => e.slug === chapterSlug)?.n ?? null;
+    } catch {
+      return null;
+    }
   }
 
   async getChapterMeta(workSlug: string, chapterNumber: number): Promise<ChapterMeta> {
@@ -369,7 +424,8 @@ function annotateBodyWithParagraphIds(body: string, paragraphs: ParagraphRecord[
 }
 
 // ─────────────────────────────────────────────────────────────────────────
-// The 8 tools — output shapes mirror apps/mcp/src/tools.ts.
+// The catalog tools — output shapes mirror apps/mcp/src/tools.ts.
+// (The five atlas_* tools live in ./atlas.ts and are routed in the factory.)
 // ─────────────────────────────────────────────────────────────────────────
 
 interface ListWorksArgs {
@@ -586,14 +642,73 @@ async function get_passage(corpus: BrowserCorpus, args: GetPassageArgs) {
 }
 
 /**
- * Metadata (work-level) search — the browser is exactly the "remote" case in
- * apps/mcp/src/tools.ts: no FTS index, and a per-file scan would mean fetching
- * ~25k files over HTTP. So we match the query's word tokens against each
- * work's title / author / genre / language / era, rank by distinct-token hits,
- * and tell the caller full-text passage search lives in the installed MCP.
- * Ported from apps/mcp/src/tools.ts:metadataSearch.
+ * Full-text passage search.
+ *
+ * Runs against the Pagefind index the site already publishes at /pagefind/
+ * (see ./pagefindSearch.ts for why that index can produce citable paragraph
+ * ids). Result rows match the installed MCP's FTS5 rows so the model sees one
+ * shape either way.
+ *
+ * `metadataSearch` below is the fallback for the one case Pagefind can't
+ * serve: an index that isn't there (a dev server that never ran `pagefind
+ * --site dist`). It is also still the right tool for "works BY x" questions,
+ * so the fallback response says which engine answered.
  */
 async function search_corpus(
+  corpus: BrowserCorpus,
+  query: string,
+  options: {
+    limit?: number;
+    scope?: "english" | "all";
+    work_slug?: string;
+    loader?: PagefindLoader;
+  } = {},
+) {
+  const scope = options.scope ?? "english";
+  if (!query || !query.trim()) {
+    return { query, scope, engine: "pagefind" as const, count: 0, results: [] };
+  }
+
+  const fts = await searchPassages(query, {
+    limit: options.limit,
+    scope,
+    work_slug: options.work_slug,
+    loader: options.loader,
+    resolveChapterNumber: (workSlug, chapterSlug) =>
+      corpus.chapterNumberFor(workSlug, chapterSlug),
+  });
+
+  if (fts) {
+    return {
+      query,
+      scope,
+      engine: fts.engine,
+      count: fts.hits.length,
+      total_matches: fts.total_matches,
+      results: fts.hits,
+      ...(fts.auto_fallback ? { auto_fallback: fts.auto_fallback } : {}),
+      note:
+        fts.hits.length === 0
+          ? "No passage matched. Pagefind requires EVERY word of the query to appear in the same chapter, and does not accept regex or placeholders — retry with a distinctive 2-3 word phrase. For catalog questions ('what works by X'), use list_works."
+          : undefined,
+    };
+  }
+
+  // Pagefind index unavailable — degrade to work-level metadata matching.
+  const meta = await metadataSearch(corpus, query, { limit: options.limit, scope });
+  return {
+    ...meta,
+    note:
+      "Full-text index (/pagefind/) could not be loaded, so this fell back to work-level METADATA matches (title/author/genre/language/era) — NOT passage text. Say so if you rely on these results.",
+  };
+}
+
+/**
+ * Work-level metadata matching — ported from apps/mcp/src/tools.ts:
+ * metadataSearch. Matches the query's word tokens against each work's title /
+ * author / genre / language / era and ranks by distinct-token hits.
+ */
+async function metadataSearch(
   corpus: BrowserCorpus,
   query: string,
   options: { limit?: number; scope?: "english" | "all" } = {},
@@ -655,8 +770,6 @@ async function search_corpus(
     engine: "metadata" as const,
     count: results.length,
     results,
-    note:
-      "Browser (zero-download) mode: full-text passage search runs in the installed MCP, not in the page. These are work-level METADATA matches (title/author/genre/language/era). For full-text search across passages, install the MCP: npx -y @falsafa/mcp",
   };
 }
 
@@ -775,16 +888,18 @@ async function compare_works(
   let matchingA = aChapters.slice(0, 5);
   let matchingB = bChapters.slice(0, 5);
   if (topic) {
-    // search_corpus is metadata-only in the browser, so it returns work-level
-    // hits with no chapter_number — the sets end up empty and each work falls
-    // back to its first few chapters. Same net behavior as apps/mcp remote mode.
-    const aHits = await search_corpus(corpus, topic, { scope: "english", limit: 5 });
-    const bHits = await search_corpus(corpus, topic, { scope: "english", limit: 5 });
+    // Now that search_corpus is real full-text search, the topic can pick the
+    // chapters that actually discuss it — one work-scoped query per side. Each
+    // still falls back to its opening chapters when the topic doesn't hit.
+    const [aHits, bHits] = await Promise.all([
+      search_corpus(corpus, topic, { scope: "english", limit: 5, work_slug: work_slug_a }),
+      search_corpus(corpus, topic, { scope: "english", limit: 5, work_slug: work_slug_b }),
+    ]);
     const aSet = new Set(
-      aHits.results.map((r) => (r as { chapter_number?: number }).chapter_number),
+      aHits.results.map((r) => (r as { chapter_number?: number | null }).chapter_number),
     );
     const bSet = new Set(
-      bHits.results.map((r) => (r as { chapter_number?: number }).chapter_number),
+      bHits.results.map((r) => (r as { chapter_number?: number | null }).chapter_number),
     );
     matchingA = aChapters.filter((c) => aSet.has(c.chapter_number));
     matchingB = bChapters.filter((c) => bSet.has(c.chapter_number));
@@ -830,7 +945,12 @@ async function compare_works(
 // Dispatcher + client factory
 // ─────────────────────────────────────────────────────────────────────────
 
-async function dispatch(corpus: BrowserCorpus, name: string, rawArgs: unknown): Promise<unknown> {
+async function dispatch(
+  corpus: BrowserCorpus,
+  name: string,
+  rawArgs: unknown,
+  pagefindLoader?: PagefindLoader,
+): Promise<unknown> {
   const args = (rawArgs ?? {}) as Record<string, unknown>;
   switch (name) {
     case "list_works":
@@ -869,7 +989,12 @@ async function dispatch(corpus: BrowserCorpus, name: string, rawArgs: unknown): 
     case "search_corpus": {
       const query = args["query"] as string | undefined;
       if (query === undefined) throw new MCPError("BAD_QUERY", "search_corpus requires query");
-      return search_corpus(corpus, query, { limit: args["limit"] as number | undefined });
+      return search_corpus(corpus, query, {
+        limit: args["limit"] as number | undefined,
+        scope: args["scope"] as "english" | "all" | undefined,
+        work_slug: args["work_slug"] as string | undefined,
+        loader: pagefindLoader,
+      });
     }
     case "find_related": {
       const workSlug = args["work_slug"] as string | undefined;
@@ -906,17 +1031,27 @@ async function dispatch(corpus: BrowserCorpus, name: string, rawArgs: unknown): 
  */
 export function createLocalMcpClient(
   base = "/corpus/",
-  fetchImpl: typeof globalThis.fetch = globalThis.fetch,
+  fetchImpl: FetchLike = globalThis.fetch,
+  opts: { pagefindLoader?: PagefindLoader } = {},
 ) {
-  const corpus = new BrowserCorpus(base, fetchImpl);
+  const corpusBase = base.endsWith("/") ? base : base + "/";
+  const corpus = new BrowserCorpus(corpusBase, fetchImpl);
+  // The Atlas lives under the same corpus root (corpus/graph/atlas/), so one
+  // base serves both. Its indexes are fetched lazily — a session that never
+  // asks an Atlas question never downloads them.
+  const atlas = createAtlasClient(corpusBase + "graph/atlas/", fetchImpl);
   return {
     baseURL: base,
+    /** Live Atlas coverage, for the demo's system prompt. */
+    atlasCoverage: () => atlas.coverage(),
     async invoke(toolName: string, toolArgs: unknown): Promise<McpCallResult | McpCallError> {
       try {
-        const output = await dispatch(corpus, toolName, toolArgs);
+        const output = isAtlasTool(toolName)
+          ? await atlas.dispatch(toolName, toolArgs)
+          : await dispatch(corpus, toolName, toolArgs, opts.pagefindLoader);
         return { ok: true, output };
       } catch (err) {
-        if (err instanceof MCPError) {
+        if (err instanceof MCPError || err instanceof AtlasError) {
           return { ok: false, error: err.hint ? `${err.message} — ${err.hint}` : err.message };
         }
         return { ok: false, error: err instanceof Error ? err.message : String(err) };
