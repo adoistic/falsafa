@@ -11,12 +11,24 @@ interface Props {
   description?: string;
   ogImage?: string;
   layout: "prose" | "verse" | "manuscript";
+  lang?: string;
+  jsonLd?: object[];
+  /** Site-relative canonical override; see Base.astro. */
+  canonicalPath?: string;
 }
 
-const { title, description, ogImage, layout } = Astro.props;
+const { title, description, ogImage, layout, lang, jsonLd, canonicalPath } = Astro.props;
 ---
 
-<Base title={title} description={description} ogImage={ogImage}>
+<Base
+  title={title}
+  description={description}
+  ogImage={ogImage}
+  lang={lang}
+  jsonLd={jsonLd}
+  canonicalPath={canonicalPath}
+>
+  <slot name="head" slot="head" />
   <div class="reading-progress" id="reading-progress" aria-hidden="true"></div>
 
   <article class="reader" data-layout={layout}>

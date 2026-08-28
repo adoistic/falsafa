@@ -1,0 +1,657 @@
+---
+/**
+ * /works/<slug>/citations/ — the citation apparatus of one book.
+ *
+ * Two directions on one surface. OUTBOUND: every work or author this text
+ * names, ranked, each with the chapters that do the naming and a verbatim
+ * specimen. INBOUND: every book in the library that quotes this one, bound
+ * to the CITING text, because that is where the harvest anchored it.
+ *
+ * The route is built for a work with either direction, so the 228 citing
+ * works whose /works/<slug>/ is a single-chapter redirect stub still get a
+ * real page here — sitemap-exclude.mjs:148 anchors its stub rule to
+ * /^\/works\/([^/]+)\/$/ and does not reach three segments deep.
+ *
+ * SCOPE, stated once because the page must never overstep it: the harvest
+ * records the passage in the CITING text and the chapter that passage
+ * stands in. It records nothing about where inside the CITED work the
+ * reference lands. Nothing here may print "Iliad VI.146".
+ */
+import type { GetStaticPaths } from "astro";
+import Base from "../../../../layouts/Base.astro";
+import RunningHead from "../../../../components/atlas-ui/RunningHead.astro";
+import Gathering from "../../../../components/atlas-ui/Gathering.astro";
+import Arrangement from "../../../../components/atlas-ui/Arrangement.astro";
+import LocusEntry from "../../../../components/atlas-ui/LocusEntry.astro";
+import LocusIndex from "../../../../components/atlas-ui/LocusIndex.astro";
+import Sigla from "../../../../components/atlas-ui/Sigla.astro";
+import {
+  findWork,
+  listChapters,
+  locusLabel,
+  workEntryHref,
+  workEntryLabel,
+  isSingleChapterWork,
+  workExists,
+} from "../../../../lib/corpus";
+import {
+  citationsAvailable,
+  citingWorkSlugs,
+  citedWorkSlugs,
+  workCitations,
+  workCitedBy,
+  groupOnceByChapter,
+  hydrateEdge,
+  liveDeps,
+  type CitationRow,
+  type WorkCitationEdge,
+} from "../../../../lib/atlas-citations";
+import { runBudgetLadder, rungLabel, CEILING } from "../../../../lib/citation-budget";
+import { workAtlas, fmt, plural as pl, STANCES, type Stance } from "../../../../lib/atlas-graph";
+import { bookLd, breadcrumbsLd } from "../../../../lib/seo";
+
+export const getStaticPaths = (() => {
+  // Graceful-absent: on a fresh clone the citation artifacts are not there,
+  // and this route simply does not exist. No build failure, no empty page.
+  if (!citationsAvailable()) return [];
+  const out = new Set<string>([...citingWorkSlugs(), ...citedWorkSlugs()]);
+  return [...out]
+    .filter((s) => workExists(s) && findWork(s) !== undefined)
+    .map((slug) => ({ params: { slug }, props: { slug } }));
+}) satisfies GetStaticPaths;
+
+const { slug } = Astro.props;
+const work = findWork(slug)!;
+
+const view = workCitations(slug);
+const inbound = workCitedBy(slug);
+const atlas = workAtlas(slug);
+
+const standing = view?.standing ?? [];
+const onceRows = view?.once ?? [];
+const chapters = view?.chapters ?? [];
+const totals = view?.totals ?? null;
+const hasCites = (view?.rows.length ?? 0) > 0;
+
+// ───────────────────────────────────────────────────────── inbound rows
+/**
+ * The reverse index arrives as CitedByRow — chapters of the CITING work,
+ * one quote, no hydration. Running it back through hydrateEdge against that
+ * citing work is what turns its chapter list into live deep links: the
+ * locus belongs to the text that does the quoting, never to this one.
+ */
+const inboundRows: CitationRow[] = (inbound?.by ?? []).map((r) => {
+  const from = findWork(r.from);
+  const edge: WorkCitationEdge = {
+    // a display-only key, kept out of the "w:"/"a:"/"l:" namespace so an
+    // inbound row can never collide in the DOM with an outbound one when a
+    // pair of works cite each other.
+    target: `by:${r.from}`,
+    label: from?.title ?? r.from,
+    count: r.count,
+    passages: r.passages,
+    stances: r.stances,
+    chapters: r.chapters.map((c) => ({ ...c, quotes: [] })),
+    unanchored: 0,
+  };
+  // from_author is a SLUG in the artifact ("clement-of-alexandria"); the
+  // manifest holds the name a reader should see.
+  const attrib = from?.author ?? r.from_author;
+  if (attrib) edge.author_label = attrib;
+  if (r.why) edge.why = r.why;
+  const row = hydrateEdge(r.from, edge, liveDeps);
+  // The citing work is in the library by definition, and its own apparatus
+  // is the destination that answers "what else does it cite?".
+  row.inLibrary = true;
+  row.href = `/works/${r.from}/citations/`;
+  if (r.quote)
+    row.specimen = {
+      work: r.from,
+      quote: { p: r.quote.p, text: r.quote.text },
+      chapter: r.quote.chapter,
+      variant: r.quote.variant,
+    };
+  return row;
+});
+
+// ───────────────────────────────────────────────────────── movements
+/**
+ * The adaptive rule. #cites and #by-chapter are two arrangements of the
+ * SAME outbound material; when the standing set is small the second one is
+ * the first one again in a different order — the median citing work has 8
+ * edges. #cited-by is not an arrangement of that material but the other
+ * direction entirely, so it is never suppressed by this rule; a work cited
+ * by seventeen others with no outbound harvest of its own would otherwise
+ * lose the only thing it has to show.
+ */
+const showByChapter = standing.length > 24 && chapters.length > 1;
+const showCitedBy = inboundRows.length > 0;
+
+const onceGroups = groupOnceByChapter(onceRows);
+// Chapter "" is the harvest's honest blank: the edge is real, the anchor is
+// not. It gets its own named section rather than a heading with no label.
+const placedOnce = onceGroups.filter((g) => g.chapter !== "");
+const orphanOnce = onceGroups.find((g) => g.chapter === "")?.names ?? [];
+const chapterOrder = new Map(chapters.map((c, i) => [c.chapter, i]));
+placedOnce.sort(
+  (a, b) => (chapterOrder.get(a.chapter) ?? 1e9) - (chapterOrder.get(b.chapter) ?? 1e9),
+);
+const onceTotal = placedOnce.reduce((s, g) => s + g.names.length, 0);
+/**
+ * `named once` and `in the order of the text` are the same grouping: both
+ * bucket a target under the chapter that names it. Printing both cost 54 KB
+ * of the Clement page to say one thing twice, so the dl stands only where
+ * the reading-order movement does not — a small or single-chapter work.
+ * Where both would appear, the run below carries the names AND their counts,
+ * and a pointer line carries the finding.
+ */
+const showNamedOnce = placedOnce.length > 0 && !showByChapter;
+
+// ───────────────────────────────────────────────────────── budget ladder
+/**
+ * The page composes what it wants to print, then steps down four named cuts
+ * until the estimate fits. The ceiling is a GZIP figure — Cloudflare
+ * compresses every text/html response the Worker returns, so the markup
+ * bytes are not what a reader pays. The arithmetic, the fitted constants and
+ * the rung order live in lib/citation-budget.ts so they can be tested
+ * against synthetic works at both ends of the 8-to-748-edge distribution.
+ */
+const ladder = runBudgetLadder({
+  work: slug,
+  standing,
+  onceGroups: placedOnce,
+  showNamedOnce,
+  orphanOnce,
+  chapters,
+  showByChapter,
+  inbound: inboundRows,
+});
+// kb() exists because two `/` operators inside one template literal make the
+// Astro compiler's frontmatter scanner read the span between them as a regex
+// literal; it then emits the hoisted path export twice and the build dies
+// on "Unexpected export". Keeping the division outside the backticks
+// sidesteps it. (@astrojs/compiler, reproduced on this file.)
+const kb = (n: number) => Math.round(n / 1000);
+// A rung is logged only when it actually moved the estimate — announcing a
+// cut it did not make would be a false report.
+for (const l of ladder.log)
+  console.info(
+    `[citations] ${slug}: ${rungLabel(l.rung)} — est ${kb(l.before)} KB → ${kb(l.after)} KB gzipped, ceiling ${kb(CEILING)} KB`,
+  );
+if (ladder.over)
+  console.info(
+    `[citations] ${slug}: est ${kb(ladder.bytes)} KB gzipped — over the ${kb(CEILING)} KB ceiling with the ladder spent; shipping whole rather than withholding apparatus`,
+  );
+
+const { top, rest, onceCap, runCounts } = ladder;
+/**
+ * The last rung stops printing a count beside a name in the reading-order
+ * runs where that name also stands above with every chapter it is named in.
+ * A source named once has neither an entry nor an index line, so its count
+ * in the run is the only anchor this page gives it and it keeps it.
+ */
+const standingKeys = new Set(standing.map((r) => r.key));
+const countInRuns = (r: CitationRow) => runCounts === "all" || !standingKeys.has(r.key);
+
+// ───────────────────────────────────────────────────────── copy
+const nChapters = listChapters(slug).length;
+const single = isSingleChapterWork(slug);
+/**
+ * The unit a locus is counted in, taken from the work's own labels rather
+ * than assumed: Clement cites across BOOKS, Seneca across LETTERS. Only a
+ * label that begins with a word and a numeral yields one; "ch." is
+ * locusLabel's fallback for an unnumbered chapter and means nothing here.
+ */
+const unit = (() => {
+  const first = chapters[0]?.chapter;
+  const m = first ? /^([a-z]+)\.?\s+\d/.exec(locusLabel(slug, first)) : null;
+  const w = m?.[1];
+  return !w || w === "ch" ? "chapter" : w;
+})();
+
+const lostCitations = totals?.lost ?? 0;
+const lostPassages = totals?.lostPassages ?? 0;
+const inLibraryTargets = (totals?.in_library_works ?? 0) + (totals?.in_library_authors ?? 0);
+const citingWorks = inbound?.citing_works ?? 0;
+const headline = hasCites ? (totals?.citations ?? 0) : (inbound?.total ?? 0);
+const stances: Partial<Record<Stance, number>> = hasCites
+  ? (totals?.stances ?? {})
+  : (inbound?.stances ?? {});
+const stanceTotal = Object.values(stances).reduce<number>((s, n) => s + (n ?? 0), 0);
+const refuted = stances.refute ?? 0;
+
+const h1 = hasCites ? `The sources of ${work.title}` : `${work.title}, cited`;
+const lede = hasCites
+  ? `Where ${work.title} names another work or author, the harvest records the passage that does it and the ${unit} that passage stands in. ` +
+    `${pl(totals?.citations ?? 0, "citation")} across ${pl(chapters.length, unit)}, drawn from ${pl(totals?.targets ?? 0, "named source")}; ` +
+    `${fmt(inLibraryTargets)} of those sources stand in the library.` +
+    (showCitedBy ? ` ${pl(citingWorks, "work")} in the library ${citingWorks === 1 ? "quotes" : "quote"} it back.` : "")
+  : `${pl(citingWorks, "work")} in the library ${citingWorks === 1 ? "quotes" : "quote"} ${work.title} — ${pl(inbound?.total ?? 0, "citation")}, ` +
+    `each anchored to a verbatim passage in the work that does the quoting.`;
+
+const leaves = [
+  { label: workEntryLabel(slug), href: workEntryHref(slug) },
+  { label: "citations", count: headline, current: true },
+  // §6.6: on a single-chapter work /works/<slug>/#atlas bounces through the
+  // redirect stub and loses the fragment. The leaf is dropped rather than
+  // pointed somewhere it does not land; the reader carries that panel.
+  ...(single
+    ? []
+    : atlas
+      ? [{ label: "figures & ideas", href: `/works/${slug}/#atlas`, count: atlas.entity_rows }]
+      : [{ label: "figures & ideas", note: "not yet harvested" }]),
+];
+const folio = hasCites
+  ? `${pl(totals?.targets ?? 0, "source")} · ${pl(totals?.citations ?? 0, "citation")}`
+  : `${pl(inbound?.citing_works ?? 0, "work")} · ${pl(inbound?.total ?? 0, "citation")}`;
+
+const arrangement = [
+  ...(hasCites ? [{ label: "by source", href: "#cites", current: true }] : []),
+  ...(showByChapter ? [{ label: "in the order of the text", href: "#by-chapter" }] : []),
+  ...(showCitedBy ? [{ label: "cited by", href: "#cited-by" }] : []),
+];
+
+const jsonLd = [
+  bookLd({
+    slug,
+    title: work.title,
+    author: work.author,
+    authorSlug: work.author_slug,
+    language: work.language,
+    description: work.description,
+    publishedYear: work.published_year,
+  }),
+  breadcrumbsLd([
+    { name: "Read", url: "https://falsafa.ai/works/" },
+    { name: work.title, url: `https://falsafa.ai/works/${slug}/` },
+    { name: "Citations", url: `https://falsafa.ai/works/${slug}/citations/` },
+  ]),
+];
+---
+
+<Base
+  title={hasCites ? `Citations in ${work.title}` : `Citations of ${work.title}`}
+  description={lede.split(". ")[0] + "."}
+  ogImage={`/og/works/${slug}.png`}
+  jsonLd={jsonLd}
+>
+  <article class="cit">
+    <header class="masthead" data-pagefind-body>
+      <p class="crumb">
+        <a href="/works/">Read</a>
+        <span class="crumb-sep" aria-hidden="true"> · </span>
+        <a href={workEntryHref(slug)}>{work.title}</a>
+      </p>
+      <h1>{h1}</h1>
+      <p class="lede">{lede}</p>
+      <Gathering leaves={leaves} folio={folio} label={`Views of ${work.title}`} />
+      <Arrangement items={arrangement} />
+      {stanceTotal > 0 && (
+        <p class="stance-line">
+          {STANCES.filter((s) => (stances[s.stance] ?? 0) > 0).map((s, i) => (
+            <>
+              {i > 0 && <span class="sep" aria-hidden="true"> · </span>}
+              <span><strong>{fmt(stances[s.stance] ?? 0)}</strong> {s.label.toLowerCase()}</span>
+            </>
+          ))}
+          {refuted > 0 && hasCites && (
+            <span class="stance-say">
+              {" "}Of the {pl(totals?.citations ?? 0, "citation")} in {work.title}, {fmt(refuted)}{" "}
+              {refuted === 1 ? "argues against its source" : "argue against their source"}.
+            </span>
+          )}
+        </p>
+      )}
+    </header>
+
+    {!hasCites && !showCitedBy && (
+      <p class="note">
+        The harvest read this text and recorded no citation. It names no other
+        work or author in a way the harvest could anchor to a paragraph.
+      </p>
+    )}
+
+    {hasCites && (
+      <section class="movement" id="cites">
+        <RunningHead
+          title="the sources most drawn on"
+          folio={`${fmt(top.length)} of ${pl(standing.length, "source")}`}
+        />
+        <ol class="entries" data-pagefind-body>
+          {top.map((r) => <LocusEntry row={r} work={slug} />)}
+        </ol>
+
+        {rest.length > 0 && (
+          <>
+            <RunningHead
+              title="index of sources"
+              folio={`${fmt(rest.length)} ${rest.length === 1 ? "entry" : "entries"}`}
+            />
+            <LocusIndex rows={rest} />
+          </>
+        )}
+
+        {placedOnce.length > 0 && showByChapter && (
+          <p class="note">
+            {pl(onceTotal, "source")} are named once. Each stands in the run of
+            its own {unit}, below — <a href="#by-chapter">in the order of the text</a>.
+          </p>
+        )}
+
+        {showNamedOnce && (
+          <>
+            <RunningHead title="named once" folio={pl(onceTotal, "source")} />
+            <p class="note">Each stands at a single passage. The chapter carries the anchors.</p>
+            <dl class="once">
+              {placedOnce.map((g) => (
+                <>
+                  <dt>
+                    {g.href ? <a href={g.href}>{g.label}</a> : g.label}
+                    <span class="once-n">{pl(g.names.length, "source")}</span>
+                  </dt>
+                  <dd>
+                    {g.names.slice(0, onceCap).map((r, i) => (
+                      <>
+                        {i > 0 && " · "}
+                        {r.href ? (
+                          <a href={r.href}>{r.inLibrary ? r.label : <em>{r.label}</em>}</a>
+                        ) : r.inLibrary ? (
+                          r.label
+                        ) : (
+                          <em>{r.label}</em>
+                        )}
+                      </>
+                    ))}
+                    {g.names.length > onceCap && (
+                      <span class="once-more"> … and {fmt(g.names.length - onceCap)} more</span>
+                    )}
+                  </dd>
+                </>
+              ))}
+            </dl>
+          </>
+        )}
+
+        {(orphanOnce.length > 0 || lostCitations > 0 || lostPassages > 0) && (
+          <>
+            {/*
+              Two units again, and they are not added: `lost` counts harvest
+              records the harvest could place in no chapter, `lostPassages`
+              counts paragraphs stranded by a chapter the manifest no longer
+              holds. The second is 0 across all 2,405 (work, chapter) pairs
+              today and the clause simply does not print; it stands for the
+              next re-split, when a folio that silently folded paragraphs
+              into a citation count would be the wrong number twice over.
+            */}
+            <RunningHead
+              title="without a recovered locus"
+              folio={[
+                pl(orphanOnce.length, "source"),
+                ...(lostCitations > 0 ? [pl(lostCitations, "citation")] : []),
+                ...(lostPassages > 0 ? [pl(lostPassages, "stranded passage")] : []),
+              ].join(" · ")}
+            />
+            <p class="note">
+              The harvest recorded these citations but could not place them in a
+              {" "}{unit}. The edge is real; the anchor is not.
+            </p>
+            {orphanOnce.length > 0 && (
+              <p class="run">
+                {orphanOnce.map((r, i) => (
+                  <>
+                    {i > 0 && " · "}
+                    {r.href ? (
+                      <a href={r.href}>{r.inLibrary ? r.label : <em>{r.label}</em>}</a>
+                    ) : r.inLibrary ? (
+                      r.label
+                    ) : (
+                      <em>{r.label}</em>
+                    )}
+                  </>
+                ))}
+              </p>
+            )}
+          </>
+        )}
+      </section>
+    )}
+
+    {showByChapter && (
+      <section class="movement" id="by-chapter">
+        <RunningHead
+          title="in the order of the text"
+          folio={`${fmt(chapters.length)} of ${pl(nChapters, unit)} cite`}
+        />
+        {/*
+          The same edges, re-sorted into reading order. No quotations here by
+          rule: the specimens stand once, in the movement above, and a second
+          printing would double the page for nothing. Each count is the link
+          to the passages that carry it.
+        */}
+        {runCounts === "once-named" && (
+          <p class="note">
+            A source that stands in the index above is not counted again here
+            — that entry already carries every {unit} it is named in, linked.
+            The counts kept below are the ones this page prints nowhere else.
+          </p>
+        )}
+        {chapters.map((c) => (
+          <div class="chap">
+            {/*
+              ANCHORS, because the number is summed across sources: it is the
+              total of the superior figures printed in the run below, each of
+              which counts the paragraphs of this chapter anchored to one
+              source. Calling it citations would contradict the row totals in
+              the movement above, which count harvest records; calling it
+              passages would over-count the 982 chapters in the library where
+              one paragraph names two sources.
+            */}
+            <RunningHead
+              level={3}
+              title={c.title}
+              folio={`${pl(c.rows.length, "source")} · ${pl(c.anchors, "anchor")}`}
+            />
+            <p class="run">
+              {c.rows.map((r, i) => {
+                const l = r.loci.find((x) => x.chapter === c.chapter);
+                return (
+                  <>
+                    {i > 0 && " · "}
+                    {r.href ? (
+                      <a href={r.href}>{r.inLibrary ? r.label : <em>{r.label}</em>}</a>
+                    ) : r.inLibrary ? (
+                      r.label
+                    ) : (
+                      <em>{r.label}</em>
+                    )}
+                    {l && l.href && countInRuns(r) && (
+                      <a
+                        class="run-n"
+                        href={l.href}
+                        aria-label={`${pl(l.count, "passage")} of ${c.title} naming ${r.label}`}
+                      >
+                        {fmt(l.count)}
+                      </a>
+                    )}
+                  </>
+                );
+              })}
+            </p>
+          </div>
+        ))}
+      </section>
+    )}
+
+    {showCitedBy && (
+      <section class="movement" id="cited-by">
+        {/*
+          §7's single-source folio. "12 citations · from 1 work" reads as a
+          breadth claim the second clause then takes back; the shorter form
+          states the fact once. 117 of the 227 works the harvest sees cited
+          are reached by exactly one other book — that is what an early
+          harvest looks like, and the copy should say so plainly.
+        */}
+        <RunningHead
+          title="cited by"
+          folio={
+            inbound?.citing_works === 1
+              ? `${fmt(inbound.total)} · all from one work`
+              : `${pl(inbound?.total ?? 0, "citation")} · from ${pl(inbound?.citing_works ?? 0, "work")}`
+          }
+        />
+        <p class="note">
+          The harvest records where a citation is made: the paragraph in the
+          citing book, and the {unit} that paragraph stands in. It does not
+          record which page of this book is meant. Where the citing text names
+          a locus, you will find it in the quotation.
+        </p>
+        <ol class="entries">
+          {inboundRows.map((r) => <LocusEntry row={r} work={r.specimen?.work ?? slug} />)}
+        </ol>
+      </section>
+    )}
+
+    <Sigla />
+    <p class="colophon">
+      Every count on this page is a link to the passages behind it. A name
+      without a link is recorded but not yet paged.
+      <a href="/atlas/">How the harvest reads</a>.
+    </p>
+  </article>
+</Base>
+
+<style is:global>
+  /*
+   * Global, not scoped, and every selector is rooted at .cit. Astro stamps a
+   * data-astro-cid attribute on every element a scoped block owns; on the
+   * Clement apparatus that is 3,149 elements and 76 KB of attribute — a
+   * sixth of the page spent on a scoping mechanism the .cit root already
+   * provides. Nothing here may be written without that root.
+   */
+  .cit {
+    max-width: 860px;
+    margin: 0 auto;
+    padding: var(--s-16) var(--s-6) var(--s-24);
+  }
+  .cit .masthead { max-width: 720px; margin-bottom: var(--s-12); }
+  .cit .crumb {
+    margin: 0 0 var(--s-2);
+    font-family: var(--font-body);
+    font-size: 16px;
+    font-variant: small-caps;
+    text-transform: lowercase;
+    letter-spacing: 0.06em;
+  }
+  .cit .crumb a { color: var(--ink-muted); text-decoration: none; }
+  .cit .crumb a:hover { color: var(--accent); }
+  .cit .crumb-sep { color: var(--accent-soft); }
+  .cit h1 {
+    font-family: var(--font-display);
+    font-size: clamp(34px, 5.4vw, 46px);
+    font-weight: 600;
+    line-height: 1.12;
+    margin: 0 0 var(--s-4);
+    text-wrap: balance;
+  }
+  .cit .lede {
+    font-family: var(--font-body);
+    font-size: 19px;
+    line-height: 1.65;
+    color: var(--ink);
+    margin: 0 0 var(--s-6);
+    max-width: 62ch;
+    text-wrap: pretty;
+    font-variant-numeric: oldstyle-nums;
+  }
+  .cit .stance-line {
+    font-family: var(--font-body);
+    font-size: 17px;
+    color: var(--ink-muted);
+    border-top: 1px solid var(--rule);
+    padding-top: var(--s-3);
+    margin: 0;
+    font-variant-numeric: oldstyle-nums;
+  }
+  .cit .stance-line strong { color: var(--accent); font-weight: 600; }
+  .cit .stance-say { font-style: italic; }
+  .cit .sep { color: var(--accent-soft); }
+
+  .cit .movement { margin-top: var(--s-16); }
+  .cit .entries { list-style: none; margin: 0 0 var(--s-12); padding: 0; }
+
+  .cit .note {
+    font-family: var(--font-body);
+    font-size: 17px;
+    line-height: 1.6;
+    font-style: italic;
+    color: var(--ink-muted);
+    max-width: 62ch;
+    margin: calc(-1 * var(--s-3)) 0 var(--s-6);
+    text-wrap: pretty;
+  }
+  .cit .note a { color: var(--accent); }
+
+  /* named once — the chapter is the lemma, the run of names is the gloss */
+  .cit .once { margin: 0 0 var(--s-12); font-family: var(--font-body); }
+  .cit .once dt {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: var(--s-4);
+    border-top: 1px solid var(--rule);
+    padding-top: var(--s-2);
+    margin-top: var(--s-5);
+    font-variant: small-caps;
+    text-transform: lowercase;
+    letter-spacing: 0.05em;
+    font-size: 17px;
+  }
+  .cit .once dt a { color: var(--ink); text-decoration: none; border-bottom: 1px solid var(--rule); }
+  .cit .once dt a:hover { color: var(--accent); border-bottom-color: var(--accent); }
+  .cit .once-n {
+    font-variant-numeric: oldstyle-nums;
+    color: var(--ink-muted);
+    font-size: 15px;
+    white-space: nowrap;
+  }
+  .cit .once dd { margin: var(--s-2) 0 0; }
+  .cit .once dd,
+  .cit .run {
+    font-family: var(--font-body);
+    font-size: 17px;
+    line-height: 1.75;
+    color: var(--ink);
+    text-wrap: pretty;
+  }
+  .cit .once dd a,
+  .cit .run a { color: var(--ink); text-decoration: none; border-bottom: 1px solid var(--rule); }
+  .cit .once dd a:hover,
+  .cit .run a:hover { color: var(--accent); border-bottom-color: var(--accent); }
+  .cit .once-more { color: var(--ink-muted); font-style: italic; }
+
+  .cit .chap { margin-bottom: var(--s-10); }
+  .cit .run { margin: 0; max-width: 74ch; }
+  .cit .run a.run-n {
+    font-size: 13px;
+    font-variant-numeric: oldstyle-nums;
+    vertical-align: super;
+    line-height: 1;
+    margin-left: 2px;
+    color: var(--ink-muted);
+    border-bottom: 0;
+  }
+  .cit .run a.run-n:hover { color: var(--accent); }
+
+  .cit .colophon {
+    font-family: var(--font-body);
+    font-size: 16px;
+    color: var(--ink-muted);
+    margin: var(--s-8) 0 0;
+  }
+  .cit .colophon a { color: var(--accent); }
+
+  @media (max-width: 639px) {
+    .cit { padding: var(--s-10) var(--s-4) var(--s-16); }
+    .cit .once dt { flex-direction: column; gap: 0; }
+  }
+</style>

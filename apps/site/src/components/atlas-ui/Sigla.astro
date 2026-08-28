@@ -1,0 +1,84 @@
+---
+/**
+ * Sigla — the marks of the apparatus, stated once per citation surface.
+ *
+ * Retires three hover-only `title=` attributes (the stance glosses on
+ * StanceMarks) and the ⌂ glyph whose legend sat in a different section of
+ * the ledger from its first use: a title attribute is silent to screen
+ * readers that do not opt in and unreachable on touch, and a legend that
+ * follows its glyph by two hundred lines is not a legend.
+ *
+ * It also carries the one thing a reader cannot infer from the marks: the
+ * superior figure beside a chapter counts anchored PASSAGES while the row
+ * total counts CITATIONS, and the two differ on 5,038 of 13,236 edges. The
+ * row now prints both figures, so this gloss no longer has to explain away
+ * a run that fails to add up — it says which of the two the run adds to.
+ *
+ * A <details> is the whole mechanism — focusable, operable and announced by
+ * the browser, open and closed with no authored JS.
+ */
+import { STANCES } from "../../lib/atlas-graph";
+---
+
+<details class="sigla">
+  <summary>the marks</summary>
+  <dl>
+    {STANCES.map((s) => (
+      <>
+        <dt>{s.label.toLowerCase()}</dt>
+        <dd>{s.gloss}</dd>
+      </>
+    ))}
+    <dt>roman</dt><dd>the cited text is in the library and opens in the reader</dd>
+    <dt><em>italic</em></dt><dd>named by this text, not held by the library — the corpus's wanted list</dd>
+    <dt>¶</dt><dd>the passage in <em>this</em> text that does the citing</dd>
+    <dt><span class="sigla-n">7</span></dt>
+    <dd>
+      beside a chapter, the passages anchored there. A single citation can
+      quote more than one passage, which is why a row carries two figures:
+      the citations the harvest recorded, and the passages its chapters add
+      up to.
+    </dd>
+  </dl>
+</details>
+
+<style>
+  .sigla { margin: var(--s-6) 0 0; border-top: 1px solid var(--rule); padding-top: var(--s-3); }
+  .sigla > summary {
+    display: block;                         /* with the marker rule below, removes the triangle everywhere */
+    width: fit-content;
+    font-family: var(--font-body); font-size: 15px;
+    font-variant: small-caps; text-transform: lowercase; letter-spacing: 0.05em;
+    color: var(--ink-muted); cursor: pointer; list-style: none;
+    transition: color 150ms ease-out;
+  }
+  .sigla > summary::-webkit-details-marker { display: none; }
+  /* the ornament is decorative; the alt-text form keeps "pilcrow" out of the
+     accessible name, and where it is unsupported no glyph is drawn at all */
+  .sigla > summary::before { content: "¶ " / ""; color: var(--accent-soft); }
+  .sigla > summary:hover, .sigla[open] > summary { color: var(--accent); }
+  .sigla > summary:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
+  .sigla dl {
+    display: grid; grid-template-columns: minmax(8ch, 14ch) 1fr;
+    column-gap: var(--s-5); row-gap: var(--s-1);
+    margin: var(--s-4) 0 0; font-family: var(--font-body); font-size: 16px;
+  }
+  .sigla dt {
+    font-variant: small-caps; text-transform: lowercase; letter-spacing: 0.05em;
+    color: var(--ink);
+  }
+  .sigla dd { margin: 0; color: var(--ink-muted); }
+  /* set as the run sets it, so the legend shows the mark and not a description
+     of it — LocusEntry's .locus-n is the same superior figure */
+  .sigla-n {
+    font-size: 0.72em; vertical-align: 0.42em; letter-spacing: 0;
+    font-variant-numeric: lining-nums; color: var(--ink);
+  }
+  @media (max-width: 639px) {
+    .sigla dl { grid-template-columns: 1fr; row-gap: 0; }
+    .sigla dt { margin-top: var(--s-2); }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .sigla > summary { transition: none; }
+  }
+</style>

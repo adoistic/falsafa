@@ -362,3 +362,160 @@ export function allChapterVariantPaths(): AllPathsEntry[] {
   }
   return entries;
 }
+
+// ─────────────────────────────────────────────────────────────────────────
+// Route-existence predicates
+//
+// Derived data (the atlas harvest, the eval set) carries work/chapter/variant
+// references that can drift out of step with the corpus: a work is re-split,
+// a chapter re-slugged, a variant dropped. Linking those blind produces dead
+// deep links, which Search Console reports as "Not found (404)". Every
+// generated deep link runs through here first.
+// ─────────────────────────────────────────────────────────────────────────
+
+let _variantPathSet: Set<string> | undefined;
+let _chapterPathSet: Set<string> | undefined;
+let _workSlugSet: Set<string> | undefined;
+
+function pathSets() {
+  if (_variantPathSet === undefined) {
+    _variantPathSet = new Set();
+    _chapterPathSet = new Set();
+    _workSlugSet = new Set(works().map((w) => w.slug));
+    for (const e of allChapterVariantPaths()) {
+      _chapterPathSet.add(`${e.work_slug}/${e.chapter_slug}`);
+      _variantPathSet.add(`${e.work_slug}/${e.chapter_slug}/${e.variant_content_type}`);
+    }
+  }
+  return {
+    variants: _variantPathSet,
+    chapters: _chapterPathSet!,
+    workSlugs: _workSlugSet!,
+  };
+}
+
+/** Does /works/<work>/ exist? */
+export function workExists(work: string): boolean {
+  return pathSets().workSlugs.has(work);
+}
+
+/** Does /works/<work>/<chapter>/ exist (any variant)? */
+export function chapterExists(work: string, chapter: string): boolean {
+  return pathSets().chapters.has(`${work}/${chapter}`);
+}
+
+/** Does /works/<work>/<chapter>/<variant>/ exist as a built page? */
+export function chapterVariantExists(
+  work: string,
+  chapter: string,
+  variant: string,
+): boolean {
+  return pathSets().variants.has(`${work}/${chapter}/${variant}`);
+}
+
+/**
+ * Best real URL for a (work, chapter, variant) reference, degrading rather
+ * than 404ing: the exact variant if it exists, else another variant of the
+ * same chapter, else the work page, else null (unknown work — render the
+ * label unlinked).
+ */
+export function bestWorkHref(
+  work: string,
+  chapter?: string,
+  variant?: string,
+): string | null {
+  if (!workExists(work)) return null;
+  if (chapter && chapterExists(work, chapter)) {
+    if (variant && chapterVariantExists(work, chapter, variant)) {
+      return `/works/${work}/${chapter}/${variant}/`;
+    }
+    for (const v of ["translation", "transliteration", "original"]) {
+      if (chapterVariantExists(work, chapter, v)) return `/works/${work}/${chapter}/${v}/`;
+    }
+  }
+  return `/works/${work}/`;
+}
+
+// ─────────────────────────────────────────────────────────────────────────
+// Work shape + chapter naming
+//
+// The single-chapter test was computed inline in three places and shared by
+// none of them (works/[slug]/index.astro, [chapter]/[variant].astro, and a
+// third reimplementation in plain JS at lib/sitemap-exclude.mjs). All of
+// them converge here.
+// ─────────────────────────────────────────────────────────────────────────
+
+/**
+ * A work whose chapter IS the work. `/works/<slug>/` for these is a
+ * `location.replace()` stub, not a page: 1,013 of 2,018 works, and — the
+ * fact that shapes this whole feature — 269 of 357 harvested works and
+ * 228 of 312 works that cite anything.
+ */
+export function isSingleChapterWork(slug: string): boolean {
+  return listChapters(slug).length === 1;
+}
+
+/**
+ * Where "the text" of a work actually opens, without a bounce. Multi-chapter
+ * works get the work page; single-chapter works get the reader directly,
+ * because the work page would only redirect there.
+ */
+export function workEntryHref(slug: string): string {
+  const chs = listChapters(slug);
+  if (chs.length !== 1) return `/works/${slug}/`;
+  const c = chs[0];
+  const t =
+    c.variants.find((v) => v.file === c.default_variant)?.content_type ??
+    c.variants[0]?.content_type ??
+    "translation";
+  return `/works/${slug}/${c.chapter_slug}/${t}/`;
+}
+
+/** "contents" for a table of contents; "the text" when there isn't one. */
+export function workEntryLabel(slug: string): "contents" | "the text" {
+  return isSingleChapterWork(slug) ? "the text" : "contents";
+}
+
+const _chapterTitleCache = new Map<string, Map<string, ChapterMeta>>();
+function chapterMap(work: string): Map<string, ChapterMeta> {
+  let m = _chapterTitleCache.get(work);
+  if (!m || IS_DEV) {
+    m = new Map(listChapters(work).map((c) => [c.chapter_slug, c]));
+    _chapterTitleCache.set(work, m);
+  }
+  return m;
+}
+
+/** The chapter's own title from the corpus. Never a slug. */
+export function chapterTitleOf(work: string, chapter: string): string | null {
+  return chapterMap(work).get(chapter)?.chapter_title ?? null;
+}
+
+/** 1-based position in the work, for ordering loci in reading order. */
+export function chapterNumberOf(work: string, chapter: string): number {
+  return chapterMap(work).get(chapter)?.chapter_number ?? Number.MAX_SAFE_INTEGER;
+}
+
+/**
+ * The SHORT citation form of a chapter, for an index run: "book 1",
+ * "letter 108", "ch. 12". Never the raw slug — the atlas currently prints
+ * `capvt viii iure gentium inter quosvis liberam esse ¶` as a chapter label.
+ * The full title is used wherever there is room for it (section heads,
+ * the reader panel); this is for runs.
+ */
+const NUMBERED =
+  /^(book|letter|chapter|part|canto|sonnet|ode|hymn|oration|epistle|discourse|section|fragment|volume|act|scene|tractate|sura|surah|kanda|parva|adhyaya|sarga|prasna|valli)[-_ ]?(\d+|[ivxlcdm]+)$/i;
+
+export function locusLabel(work: string, chapter: string): string {
+  const meta = chapterMap(work).get(chapter);
+  const tail = chapter.replace(/^\d+[-–]/, "");
+  const m = NUMBERED.exec(tail);
+  if (m) return `${m[1].toLowerCase()} ${m[2].toLowerCase()}`;
+  if (meta) {
+    const t = meta.chapter_title.trim();
+    if (t.length > 0 && t.length <= 28) return t.toLowerCase();
+    return `ch. ${meta.chapter_number}`;
+  }
+  const n = parseInt(chapter, 10);
+  return Number.isFinite(n) ? `ch. ${n}` : chapter.replace(/-/g, " ");
+}

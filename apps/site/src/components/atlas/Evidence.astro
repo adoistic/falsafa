@@ -15,9 +15,11 @@ const { evidence } = Astro.props;
       if (!s) throw new Error(`Evidence: unknown source "${source}"`);
       return (
         <li>
-          <a class="ref link-quiet" href={`/atlas/sources/#${s.id}`}>
+          {/* /atlas/sources/ is a Naql route that was never ported; the
+              citation still reads correctly as plain text. */}
+          <span class="ref link-quiet">
             {s.author.split(',')[0]} {s.year}
-          </a>
+          </span>
           {detail && <span class="detail">{detail}</span>}
         </li>
       );
@@ -50,11 +52,6 @@ const { evidence } = Astro.props;
     letter-spacing: 0.02em;
     color: var(--color-lapis);
     white-space: nowrap;
-  }
-
-  .ref:hover {
-    text-decoration: underline;
-    text-underline-offset: 0.2em;
   }
 
   .detail {

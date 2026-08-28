@@ -12,10 +12,40 @@ const { work } = Astro.props;
 // Atlas wiring: when the ontology harvest has mapped this work, the page
 // carries its ontology section (entities by kind, citations, coverage) —
 // data-driven, so newly harvested works pick it up on the next build.
-import { workAtlas, workOntology, fmt, plural as pl } from "../../../lib/atlas-graph";
+import { workAtlas, workOntology, entityHasPage, fmt, plural as pl } from "../../../lib/atlas-graph";
+import { bookLd, breadcrumbsLd } from "../../../lib/seo";
 import { KINDS, type ChapterEntity } from "../../../lib/atlas-graph";
+import Gathering from "../../../components/atlas-ui/Gathering.astro";
+import RunningHead from "../../../components/atlas-ui/RunningHead.astro";
+import {
+  workCitationsFile,
+  workCitedBy,
+  citingWorkSlugs,
+  citedWorkSlugs,
+} from "../../../lib/atlas-citations";
 const wAtlas = workAtlas(work.slug);
 const kindPlural = (k: string) => KINDS.find((x) => x.kind === k)?.plural ?? k;
+
+// The citation apparatus. /works/<slug>/citations/ is generated for a work
+// with an outbound OR an inbound edge, so the leaf is linked on exactly that
+// set — a dimmed leaf is honest, a leaf that 404s is not. Both sets come out
+// of citations/index.json, so a clone with no atlas artifacts yields two
+// empty sets, no leaf, and no build failure.
+const hasCitationsPage = citingWorkSlugs().has(work.slug) || citedWorkSlugs().has(work.slug);
+// The number the leaf prints is CITATIONS, because that is the word the leaf
+// says: Clement names 561 sources and cites them 921 times, and a leaf
+// reading "citations 561" would be the wrong number under the right label.
+// For a work that cites nothing but is itself cited, it is the citations
+// aimed at it — still citations, counted the other way round.
+const citOut = workCitationsFile(work.slug)?.totals.citations ?? 0;
+const citN = citOut > 0 ? citOut : (workCitedBy(work.slug)?.total ?? 0);
+const citLeaf = hasCitationsPage
+  ? {
+      label: "citations",
+      href: `/works/${work.slug}/citations/`,
+      ...(citN > 0 ? { count: citN } : {}),
+    }
+  : { label: "citations", note: "none recorded" };
 
 // The work's entities grouped by kind (deduped across chapters, by depth).
 const wOnto = wAtlas ? workOntology(work.slug) : null;
@@ -34,8 +64,34 @@ const entitiesByKind = (() => {
     return { ...k, items: all.slice(0, 10), total: all.length };
   }).filter((g) => g.items.length > 0);
 })();
+// One coverage string, printed twice — on the gathering's folio and on the
+// atlas running head — so the page never quotes two different readings of
+// the same harvest.
+const coverageFolio = !wAtlas
+  ? ""
+  : wAtlas.windows_done >= wAtlas.windows_total
+    ? "fully mapped"
+    : `${fmt(wAtlas.windows_done)} of ${fmt(wAtlas.windows_total)} passages read`;
+// The colophon that explains the mute names only appears when there ARE mute
+// names: on a fully paged work it would be an apology for nothing.
+const shownEntities: { kind: string; slug: string }[] =
+  entitiesByKind.length > 0
+    ? entitiesByKind.flatMap((g) => g.items)
+    : (wAtlas?.top_entities ?? []);
+const anyUnlinked = shownEntities.some((e) => !entityHasPage(e.kind, e.slug));
 const idx = readWorkIndex(work.slug);
 const chapters = listChapters(work.slug);
+const workJsonLd = [
+  bookLd({
+    slug: work.slug, title: work.title, author: work.author,
+    authorSlug: work.author_slug, language: work.language,
+    description: work.description, publishedYear: work.published_year,
+  }),
+  breadcrumbsLd([
+    { name: "Read", url: "https://falsafa.ai/works/" },
+    { name: work.title, url: `https://falsafa.ai/works/${work.slug}/` },
+  ]),
+];
 
 // Build the union of variant types across all chapters (for the picker).
 const variantTypeSet = new Set<string>();
@@ -70,8 +126,20 @@ const redirectTo = isSingleChapter && onlyChapter
      rendering — the chapter IS the work. We bounce the user to the chapter
      reader, honoring their localStorage variant preference. The script
      fires synchronously during HTML parsing, before any paint, so the user
-     never sees the chrome. <noscript> renders a plain link as fallback. */
-  <Base title={work.title} description={work.description} ogImage={`/og/works/${work.slug}.png`}>
+     never sees the chrome. <noscript> renders a plain link as fallback.
+
+     SEO: a crawler that runs the script sees a redirect and reports the URL
+     as "Page with redirect"; one that doesn't sees an empty page. Neither
+     should compete with the chapter, so the canonical points at the chapter
+     and the URL is dropped from the sitemap (astro.config.mjs). No noindex:
+     it would fight the canonical, and the signal we want is consolidation
+     onto the chapter, not suppression. */
+  <Base
+    title={work.title}
+    description={work.description}
+    ogImage={`/og/works/${work.slug}.png`}
+    canonicalPath={redirectTo}
+  >
     <script
       is:inline
       define:vars={{
@@ -83,12 +151,25 @@ const redirectTo = isSingleChapter && onlyChapter
       }}
     >
       (function () {
+        // Carry the fragment through. Every stale #atlas link in the wild dies
+        // silently today: the stub drops the hash, and 228 of the 312 works
+        // that cite anything are single-chapter, so the reader page is the
+        // only atlas surface they have.
+        //
+        // #atlas is the WORK page's section id; the reader's equivalent panel
+        // is #chapter-atlas, and 370 of these 1,013 stubs lead to a page that
+        // has one. Forwarding the hash verbatim would land the reader at the
+        // top of the text with nothing selected, which is the same silence in
+        // a different place, so the one work-page-only fragment is translated
+        // and everything else — #p-… above all — passes through untouched.
+        var frag = location.hash || "";
+        if (frag === "#atlas") frag = "#chapter-atlas";
         try {
           var pref = localStorage.getItem("falsafa-variant-pref");
           var target = pref && available.indexOf(pref) >= 0 ? pref : defaultType;
-          location.replace("/works/" + slug + "/" + chapter + "/" + target + "/");
+          location.replace("/works/" + slug + "/" + chapter + "/" + target + "/" + frag);
         } catch (e) {
-          location.replace(fallback);
+          location.replace(fallback + frag);
         }
       })();
     </script>
@@ -105,6 +186,7 @@ const redirectTo = isSingleChapter && onlyChapter
   ogImage={`/og/works/${work.slug}.png`}
   title={work.title}
   description={work.description}
+  jsonLd={workJsonLd}
 >
   <div class="container">
     {idx?.cover_url && (
@@ -144,8 +226,26 @@ const redirectTo = isSingleChapter && onlyChapter
       </div>
     </header>
 
+    {/* The gathering stands for a work with EITHER surface. 110 of the 594
+        works that have a citations page — Psalms, Genesis, Polybius — have
+        never been read by the ontology harvest, so gating on wAtlas alone
+        would leave their only atlas surface unreachable from their own
+        contents page. The figures leaf is then shown, dimmed, and named. */}
+    {(wAtlas || hasCitationsPage) && (
+      <Gathering
+        leaves={[
+          { label: "contents", current: true },
+          citLeaf,
+          wAtlas
+            ? { label: "figures & ideas", href: "#atlas", count: wAtlas.entity_rows }
+            : { label: "figures & ideas", note: "not yet harvested" },
+        ]}
+        folio={coverageFolio}
+      />
+    )}
+
     <section class="chapters">
-      <h2>Chapters</h2>
+      <RunningHead title="chapters" folio={pl(chapters.length, "chapter")} />
 
       {variantTypes.length > 1 && (
         <nav class="variant-picker" data-work-slug={work.slug} aria-label="Reading variant">
@@ -186,29 +286,24 @@ const redirectTo = isSingleChapter && onlyChapter
     {
       wAtlas && (
         <section class="in-atlas" id="atlas">
-          <div class="ia-head">
-            <h2>In the atlas</h2>
-            <span class="ia-folio">
-              {wAtlas.windows_done >= wAtlas.windows_total
-                ? "fully mapped"
-                : `${fmt(wAtlas.windows_done)} of ${fmt(wAtlas.windows_total)} passages mapped`}
-            </span>
-          </div>
+          <RunningHead title="in the atlas" folio={coverageFolio} />
           {entitiesByKind.length > 0 ? (
             <div class="ia-groups">
               {entitiesByKind.map((g) => (
                 <div class="ia-group">
                   <h3 class="ia-kind">
                     {g.label}
-                    {g.total > g.items.length && (
-                      <span class="ia-kind-count"> {fmt(g.total)}</span>
-                    )}
+                    <span class="ia-kind-count">
+                      {g.total > g.items.length
+                        ? `— ${fmt(g.items.length)} of ${fmt(g.total)}`
+                        : `— ${fmt(g.total)}`}
+                    </span>
                   </h3>
                   <p class="ia-run">
                     {g.items.map((e, i) => (
                       <>
                         {i > 0 && <span class="ia-sep"> · </span>}
-                        {e.page ? (
+                        {entityHasPage(e.kind, e.slug) ? (
                           <a href={`/atlas/${kindPlural(e.kind)}/${e.slug}/`}>
                             {e.name}
                           </a>
@@ -227,23 +322,48 @@ const redirectTo = isSingleChapter && onlyChapter
                 {wAtlas.top_entities.map((t, i) => (
                   <>
                     {i > 0 && <span class="ia-sep"> · </span>}
-                    <a href={`/atlas/${kindPlural(t.kind)}/${t.slug}/`}>{t.name}</a>
+                    {/* top_entities is ranked by mentions, so it routinely
+                        surfaces entities below the paging threshold — link
+                        only the ones that actually have a page. */}
+                    {entityHasPage(t.kind, t.slug) ? (
+                      <a href={`/atlas/${kindPlural(t.kind)}/${t.slug}/`}>{t.name}</a>
+                    ) : (
+                      <span class="ia-unlinked">{t.name}</span>
+                    )}
                   </>
                 ))}
               </p>
             )
           )}
           <p class="ia-note">
-            {[
-              wAtlas.citations_out > 0 ? pl(wAtlas.citations_out, "citation") : null,
-              wAtlas.themes > 0 ? pl(wAtlas.themes, "theme") : null,
-              `${fmt(wAtlas.entity_rows)} entity mentions`,
-            ]
-              .filter(Boolean)
-              .join(" · ")}
+            {wAtlas.citations_out > 0 && (
+              <>
+                {hasCitationsPage ? (
+                  <a href={`/works/${work.slug}/citations/`}>
+                    {pl(wAtlas.citations_out, "citation")}
+                  </a>
+                ) : (
+                  /* Both counts come from the same harvest, so all 482 works
+                     with citations_out > 0 have a page; the mute branch is the
+                     guard for an artifact pair that drifts apart. */
+                  pl(wAtlas.citations_out, "citation")
+                )}
+                {" · "}
+              </>
+            )}
+            {wAtlas.themes > 0 && (
+              <>
+                {pl(wAtlas.themes, "theme")}
+                {" · "}
+              </>
+            )}
+            {`${fmt(wAtlas.entity_rows)} entity mentions`}
             {" — every one anchored to a verbatim passage. "}
             <a href="/atlas/">The atlas</a>.
           </p>
+          {anyUnlinked && (
+            <p class="ia-note ia-fine">Names without a link are recorded but not yet paged.</p>
+          )}
         </section>
       )
     }
@@ -396,13 +516,6 @@ const redirectTo = isSingleChapter && onlyChapter
     color: var(--ink);
   }
 
-  .chapters h2 {
-    font-family: var(--font-display);
-    font-size: var(--fs-h2);
-    font-weight: 600;
-    margin: 0 0 var(--s-6);
-  }
-
   .variant-picker {
     display: inline-flex;
     align-items: center;
@@ -499,30 +612,6 @@ const redirectTo = isSingleChapter && onlyChapter
   .in-atlas {
     margin-top: var(--s-16);
   }
-  .ia-head {
-    display: flex;
-    align-items: baseline;
-    justify-content: space-between;
-    gap: var(--s-4);
-    border-top: 1px solid var(--rule);
-    padding-top: var(--s-3);
-    margin-bottom: var(--s-4);
-  }
-  .ia-head h2 {
-    font-family: var(--font-body);
-    font-size: 18px;
-    font-weight: 600;
-    font-variant: small-caps;
-    text-transform: lowercase;
-    letter-spacing: 0.08em;
-    margin: 0;
-  }
-  .ia-folio {
-    font-family: var(--font-body);
-    font-size: 16px;
-    font-variant-numeric: oldstyle-nums;
-    color: var(--ink-muted);
-  }
   .ia-groups {
     margin-bottom: var(--s-4);
   }
@@ -579,5 +668,10 @@ const redirectTo = isSingleChapter && onlyChapter
     color: var(--accent);
     text-decoration: none;
     border-bottom: 1px solid var(--accent-soft);
+  }
+  .ia-fine {
+    font-size: 15px;
+    font-style: italic;
+    margin-top: var(--s-2);
   }
 </style>

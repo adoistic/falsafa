@@ -1,6 +1,6 @@
 ---
 import type { EvalCase, EvalCaseResult } from "../lib/eval-types";
-import { listChapters } from "../lib/corpus";
+import { listChapters, workExists, bestWorkHref } from "../lib/corpus";
 import NonDeterminismCaveat from "./NonDeterminismCaveat.astro";
 import ReportThis from "./ReportThis.astro";
 import ToolCallTrace from "./ToolCallTrace.astro";
@@ -16,7 +16,19 @@ interface Props {
 
 const { c, render, arm, modelId } = Astro.props as Props;
 const result = render.result;
-const answerHtml = render.html;
+/**
+ * The answer body is the MODEL's prose, rendered from its own markdown — so
+ * any link in it is a link the model invented, including ones to corpus paths
+ * that do not exist (`/works/<slug>/wiki/_work.card.md` and friends). The
+ * site is showing that output for evaluation, not vouching for it: mark every
+ * link in the answer `nofollow` so crawlers stop chasing the model's dead
+ * references and reporting them as our 404s. The eval pages are themselves
+ * `noindex`; this closes the remaining crawl path out of them.
+ */
+const answerHtml = render.html.replace(
+  /<a (?![^>]*\brel=)/g,
+  '<a rel="nofollow" ',
+);
 
 const caseUrl = `https://falsafa.ai/eval/${c.id}/`;
 // The runner writes to runs/<run-name>/<model-label>/q-NNNN.json — same
@@ -82,26 +94,45 @@ const citationChips = result?.citations
   {c.expected_works.length > 0 && (
     <div class="expected-works">
       <span class="expected-works-label">Expected works:</span>
-      {c.expected_works.map((slug) => (
-        <a class="expected-works-chip" href={`/works/${slug}/`}>{slug}</a>
-      ))}
+      {/* expected_works comes from the eval fixtures; a slug that has since
+          been re-cut no longer has a page. Show it, do not link it. */}
+      {c.expected_works.map((slug) =>
+        workExists(slug) ? (
+          <a class="expected-works-chip" href={`/works/${slug}/`}>{slug}</a>
+        ) : (
+          <span class="expected-works-chip">{slug}</span>
+        ),
+      )}
     </div>
   )}
   {citationChips.length > 0 && (
     <div class="model-citations">
       <span class="model-citations-label">Model cited:</span>
       {citationChips.map((cite) => {
-        const href = cite.chapterSlug
-          ? `/works/${cite.workSlug}/${cite.chapterSlug}/translation/${cite.paragraphIds[0] ? `#${cite.paragraphIds[0]}` : ""}`
-          : `/works/${cite.workSlug}/`;
-        return (
-          <a
-            class="model-citations-chip"
-            href={href}
-            title={`${cite.workSlug}${cite.chapterNumber !== undefined ? ` ch.${cite.chapterNumber}` : ""}${cite.paragraphIds.length ? ` (${cite.paragraphIds.join(", ")})` : ""}`}
-          >
-            {cite.workSlug}{cite.chapterNumber !== undefined && ` · ch ${cite.chapterNumber}`}
+        // These slugs are whatever the MODEL emitted, so they can name a
+        // work or chapter that does not exist. Resolve against the corpus
+        // and degrade to the nearest real page rather than link into a 404.
+        const base = bestWorkHref(cite.workSlug, cite.chapterSlug, "translation");
+        const isDeepLink =
+          base === `/works/${cite.workSlug}/${cite.chapterSlug}/translation/`;
+        const href = base
+          ? `${base}${isDeepLink && cite.paragraphIds[0] ? `#${cite.paragraphIds[0]}` : ""}`
+          : null;
+        const label = (
+          <>
+            {cite.workSlug}
+            {cite.chapterNumber !== undefined && ` · ch ${cite.chapterNumber}`}
+          </>
+        );
+        const title = `${cite.workSlug}${cite.chapterNumber !== undefined ? ` ch.${cite.chapterNumber}` : ""}${cite.paragraphIds.length ? ` (${cite.paragraphIds.join(", ")})` : ""}`;
+        return href ? (
+          <a class="model-citations-chip" href={href} title={title}>
+            {label}
           </a>
+        ) : (
+          <span class="model-citations-chip" title={title}>
+            {label}
+          </span>
         );
       })}
     </div>

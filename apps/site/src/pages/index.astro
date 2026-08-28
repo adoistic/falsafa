@@ -1,5 +1,6 @@
 ---
 import Base from "../layouts/Base.astro";
+import { websiteLd } from "../lib/seo";
 import { manifest, readWorkIndex, CORPUS_ROOT } from "../lib/corpus";
 import { buildSpectrum } from "../lib/spectrum";
 import QuoteBlock from "../components/atlas-ui/QuoteBlock.astro";
@@ -114,7 +115,7 @@ const fmt = (n: number) => n.toLocaleString("en-US");
 /* ── The state of the library: the record, as a ledger. Every number
    derives from the manifest or the atlas artifacts at build time. */
 const stateRows = [
-  { label: "Works carried into English", note: "from Vedic hymns to Victorian law", value: m.counts.works },
+  { label: "Works carried into English", note: "originals kept beside the translation", value: m.counts.works },
   { label: "Chapters set for reading", note: "prose, verse and manuscript", value: totalChapters },
   atlas?.paragraphs_indexed
     ? { label: "Addressable passages", note: "every paragraph a stable, citable anchor", value: atlas.paragraphs_indexed }
@@ -126,7 +127,7 @@ const stateRows = [
     ? { label: "Citations traced, stance-typed", note: "authority · endorsed · refuted · extended", value: atlas.totals.citations }
     : null,
   atlas
-    ? { label: "Verbatim quotations anchored", note: "no claim without its passage", value: atlas.totals.entity_verbatim_quotes }
+    ? { label: "Verbatim quotations anchored", note: "each tied to the passage that carries it", value: atlas.totals.entity_verbatim_quotes }
     : null,
 ].filter(Boolean) as { label: string; note: string; value: number }[];
 const harvestDone = atlas?.windows_synthesized ?? 0;
@@ -139,7 +140,7 @@ const stateAsOf = atlas
 const description = `A free, open library of ${fmt(m.counts.works)} classical works in ${m.counts.languages} languages, carried into English — with an atlas of the ideas, figures and citations inside them, every claim anchored to a verbatim paragraph.`;
 ---
 
-<Base title="Falsafa" description={description}>
+<Base title="Falsafa" description={description} jsonLd={[websiteLd()]}>
   <div class="container">
     {/* 1 ─ Masthead: the claim, the colophon, and the scripts themselves */}
     <section class="masthead">
@@ -234,7 +235,7 @@ const description = `A free, open library of ${fmt(m.counts.works)} classical wo
       </div>
       <p class="section-note">
         Where the works fall in time — a Greco-Roman summit, a quiet medieval
-        trough, a second wave after 1800. Each era is a door.
+        trough, a second wave after 1800. Each bar opens its era.
       </p>
       <div class="spectrum" role="list">
         {spectrum.map((b) => (

@@ -1,7 +1,30 @@
 # Falsafa — https://falsafa.ai
-# LLM/agent discovery: /llms.txt (curated) and /llms-full.txt (complete index)
+# A free, open library of philosophy and classics — built to be read by
+# people and cited, honestly, by machines. The whole site is open to crawl.
+#
+# For LLMs and agents: /llms.txt (curated) and /llms-full.txt (full index).
+# The corpus is also a Model Context Protocol server: npx -y @falsafa/mcp
 
+# Everyone is welcome to the entire site.
 User-agent: *
+Allow: /
+
+# AI training, retrieval, and answer-engine crawlers — explicitly welcome.
+User-agent: GPTBot
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: ClaudeBot
+User-agent: Claude-Web
+User-agent: anthropic-ai
+User-agent: Google-Extended
+User-agent: Applebot-Extended
+User-agent: CCBot
+User-agent: PerplexityBot
+User-agent: Amazonbot
+User-agent: Bytespider
+User-agent: meta-externalagent
+User-agent: cohere-ai
+User-agent: Diffbot
 Allow: /
 
 Sitemap: https://falsafa.ai/sitemap-index.xml

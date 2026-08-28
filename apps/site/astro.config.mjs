@@ -1,6 +1,7 @@
 import { defineConfig } from "astro/config";
 import preact from "@astrojs/preact";
 import sitemap from "@astrojs/sitemap";
+import { includeInSitemap } from "./src/lib/sitemap-exclude.mjs";
 
 // Falsafa site — fully static; built locally and served by a Cloudflare Worker
 // from R2 (see /DEPLOY.md). No Netlify/Vercel/PaaS build step.
@@ -10,7 +11,9 @@ export default defineConfig({
   site: "https://falsafa.ai",
   output: "static",
   trailingSlash: "always",
-  integrations: [preact(), sitemap()],
+  // The sitemap claims only pages that are meant to be indexed: no noindex
+  // surfaces, no redirect stubs. See src/lib/sitemap-exclude.mjs.
+  integrations: [preact(), sitemap({ filter: includeInSitemap })],
   build: {
     format: "directory",
   },
@@ -23,6 +26,15 @@ export default defineConfig({
   },
   vite: {
     server: {
+      // Audio streams + alignment sidecars live in the falsafa-audio R2
+      // bucket behind the production Worker; in dev, same-origin /audio/*
+      // requests proxy there so the player works against real streams.
+      proxy: {
+        "/audio": {
+          target: "https://falsafa.ai",
+          changeOrigin: true,
+        },
+      },
       fs: {
         // Allow reading from the corpus directory at the monorepo root
         allow: ["../.."],

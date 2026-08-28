@@ -15,15 +15,16 @@ const meaning: Record<Confidence, string> = {
 };
 ---
 
-<a
+{/* /atlas/about/#grades is a Naql route that was never ported — the grade
+    still carries its meaning through the title/aria label. */}
+<span
   class={`seal seal-${confidence}`}
-  href="/atlas/about/#grades"
   title={meaning[confidence]}
   aria-label={meaning[confidence]}
 >
   <span class="glyph" aria-hidden="true"></span>
   {confidence}
-</a>
+</span>
 
 <style>
   .seal {
@@ -37,11 +38,6 @@ const meaning: Record<Confidence, string> = {
     text-transform: uppercase;
     cursor: help;
     text-decoration: none;
-  }
-
-  .seal:hover {
-    text-decoration: underline;
-    text-underline-offset: 0.25em;
   }
 
   .glyph {

@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "type": "module",
-  "description": "Falsafa reading site \u2014 Astro 5, editorial typography, watercolor covers, polymorphic chapter renderer (prose / verse / manuscript).",
+  "description": "Falsafa reading site — Astro 5, editorial typography, watercolor covers, polymorphic chapter renderer (prose / verse / manuscript).",
   "license": "MIT",
   "scripts": {
     "predev": "bun run scripts/prepare-covers.ts && bun run scripts/prepare-corpus.ts && bun run scripts/build-paragraph-index.ts",
@@ -32,6 +32,7 @@
     "@fontsource/source-serif-4": "^5.0.0",
     "ai": "^6.0.168",
     "astro": "^5.0.0",
+    "hls.js": "1.6.16",
     "isomorphic-dompurify": "^3.10.0",
     "marked": "^18.0.2",
     "marked-footnote": "^1.4.0",

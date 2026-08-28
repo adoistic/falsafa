@@ -15,6 +15,14 @@
   --error: #a02828;
   --success: #2a6a3a;
 
+  /* Semantic stance pigments — themed, like every other colour token.
+     --error/--success stay put; they belong to forms, which are light-only.
+     Measured against each theme's --paper: the atlas prints these as text,
+     so every one clears WCAG AA. */
+  --stance-refute: #a02828;   /* 6.89:1 on --paper */
+  --stance-endorse: #2a6a3a;  /* 6.05:1 */
+  --stance-extend: #5a5550;   /* = --ink-muted; deliberately unpigmented */
+
   /* ── Typography ────────────────────────────────────────────────────── */
   --font-display: "Source Serif 4", "Tiempos Headline", Georgia, serif;
   --font-body: "Crimson Pro", "Source Serif 4", Georgia, serif;
@@ -81,6 +89,9 @@
   --accent-soft: #8a3a2e;
   --rule: #2e2823;
   --highlight: #5a4828;
+  --stance-refute: #e08a7a;   /* 6.92:1 on --paper; the unthemed --error was 2.42:1 here */
+  --stance-endorse: #7fb98c;  /* 7.89:1; --success was 2.76:1 */
+  --stance-extend: #a89e8c;
 }
 
 /* ── Theme: sepia ────────────────────────────────────────────────────── */
@@ -92,6 +103,9 @@
   --accent-soft: #a06a4a;
   --rule: #d8c8a8;
   --highlight: #e8d6a8;
+  --stance-refute: #8a2020;   /* 7.10:1 on --paper */
+  --stance-endorse: #1f5a30;  /* 6.39:1 */
+  --stance-extend: #6a584a;
 }
 
 /* ── Reader density (cozy / comfortable / spacious) ──────────────────── */

@@ -10,6 +10,8 @@ import RunningHead from "../../../components/atlas-ui/RunningHead.astro";
 import {
   atlasMeta,
   entitiesOfKind,
+  entityHasPage,
+  seeIsResolvable,
   KINDS,
   kindByPlural,
   fmt,
@@ -25,15 +27,19 @@ const kindDef = kindByPlural(kindPlural!)!;
 const meta = atlasMeta();
 const allRows = entitiesOfKind(kindDef.kind);
 const rows = allRows.filter((e) => !e.see);
+// Only cross-reference folds whose head actually has a page: a "see X" whose
+// X was never paged points at a URL that does not exist.
 const crossRefs = allRows
-  .filter((e) => e.see)
+  .filter((e) => seeIsResolvable(e))
   .map((e) => ({
     ...e,
     headName: allRows.find((h) => h.slug === e.see && !h.see)?.name ?? e.see!,
   }))
   .sort((a, b) => (a.name.toLowerCase() < b.name.toLowerCase() ? -1 : 1));
-const paged = rows.filter((e) => e.page);
-const tail = rows.filter((e) => !e.page);
+// Split on the detail artifacts that actually exist, not the index's `page`
+// intent — the ledger only links rows it can prove have a page.
+const paged = rows.filter((e) => entityHasPage(e.kind, e.slug));
+const tail = rows.filter((e) => !entityHasPage(e.kind, e.slug));
 // The ledger proper: paged entities, by breadth then depth.
 const ledger = [...paged].sort(
   (a, b) => b.works - a.works || b.evidence - a.evidence || (a.name < b.name ? -1 : 1),
@@ -83,7 +89,10 @@ const ledgerGroups: { title: string; note?: string; rows: typeof ledger }[] =
     {
       ledgerGroups.map((g) => (
         <section>
-          <RunningHead title={g.title} folio={`${fmt(g.rows.length)} entries`} />
+          <RunningHead
+            title={g.title}
+            folio={g.rows.length === 1 ? "1 entry" : `${fmt(g.rows.length)} entries`}
+          />
           {g.note && (
             <p class="fk-note">
               {g.note}{" "}
@@ -98,8 +107,11 @@ const ledgerGroups: { title: string; note?: string; rows: typeof ledger }[] =
                 <a class="row" href={`/atlas/${kindDef.plural}/${e.slug}/`}>
                   <span class="row-n">{i + 1}</span>
                   <span class="row-name">{e.name}</span>
+                  {/* 80 of the 7,912 paged rows are named exactly once, and
+                      537 stand in a single work: both counts go through
+                      plural() or the ledger reads "1 work · 1 mentions". */}
                   <span class="row-meta">
-                    {pl(e.works, "work")} · {fmt(e.mentions)} mentions
+                    {pl(e.works, "work")} · {pl(e.mentions, "mention")}
                   </span>
                 </a>
               </li>
@@ -114,7 +126,7 @@ const ledgerGroups: { title: string; note?: string; rows: typeof ledger }[] =
         <section>
           <RunningHead
             title="cross-references"
-            folio={`${fmt(crossRefs.length)} names`}
+            folio={pl(crossRefs.length, "name")}
           />
           <p class="tail-note">
             Other names the corpus uses — each folded into its concept page:

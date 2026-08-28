@@ -19,6 +19,7 @@
 import { readFileSync, readdirSync, existsSync } from "node:fs";
 import { resolve, join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
+import { bestWorkHref } from "./corpus";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 export const ATLAS_ROOT = resolve(
@@ -72,7 +73,11 @@ export interface EntityWorkMention {
   quotes: QuoteRef[];
 }
 
-export interface EntityDetail extends Omit<EntityIndexRow, "page"> {
+export interface EntityDetail extends Omit<EntityIndexRow, "page" | "works"> {
+  // `works` has to be omitted from the base row, not merely widened: an
+  // interface may not narrow-or-widen an inherited property, so extending
+  // with `number | EntityWorkMention[]` over the row's `number` was a
+  // ts(2430) the build has been carrying.
   works: number | EntityWorkMention[]; // detail files carry the array
 }
 
@@ -335,10 +340,42 @@ export function divineCollectives(): EntityIndexRow[] {
 
 // ───────────────────────────────────────────────────────────── derived
 
-/** Reader deep-link for a quote ref within a given work. */
+/**
+ * Reader deep-link for a quote ref within a given work.
+ *
+ * The harvest records the chapter/variant it read at harvest time; the corpus
+ * moves under it (re-splits, re-slugs, dropped variants). Resolve against the
+ * live manifest and degrade to the nearest real page instead of emitting a
+ * dead deep link — a self-verifying link, never a 404.
+ */
 export function quoteHref(work: string, q: QuoteRef): string | null {
   if (!q.chapter || !q.variant) return null;
-  return `/works/${work}/${q.chapter}/${q.variant}/#${q.p}`;
+  const base = bestWorkHref(work, q.chapter, q.variant);
+  if (!base) return null;
+  // The paragraph anchor is only meaningful on the chapter page it was
+  // harvested from; a fallback to the work page drops it.
+  return base === `/works/${work}/${q.chapter}/${q.variant}/` ? `${base}#${q.p}` : base;
+}
+
+// ───────────────────────────────────────────────────────────── page existence
+
+/**
+ * Does /atlas/<plural>/<slug>/ exist as a built page? The index's `page` flag
+ * is the harvest's intent; the detail files on disk are the fact. Entities
+ * below the paging threshold appear in ledgers as plain text, so every link
+ * site must check before linking.
+ */
+export function entityHasPage(kind: string, slug: string): boolean {
+  return entityPageKeys().has(`${kind}/${slug}`);
+}
+
+/**
+ * A see-reference is only worth building (and linking) when its head has a
+ * real page. 205 of them point at heads that were never paged; those stubs
+ * would redirect straight into a 404.
+ */
+export function seeIsResolvable(row: EntityIndexRow): boolean {
+  return Boolean(row.see) && entityHasPage(row.kind, row.see!);
 }
 
 /** Most-cited targets, aggregated across stances. */
@@ -352,7 +389,34 @@ export interface CitedTarget {
   stances: Partial<Record<Stance, number>>;
   citingWorks: Set<string>;
   sample?: { from: string; stance: Stance; quote?: QuoteRef };
+  /** the citation-loci TargetKey, so a ledger row can reach the artifacts
+   *  under corpus/graph/atlas/citations/ — see lib/atlas-citations.ts.
+   *  Absent when this row's edges fold to more than one artifact target,
+   *  which is cleared by assignment — hence the explicit `| undefined`
+   *  under the root tsconfig's exactOptionalPropertyTypes. */
+  targetKey?: string | undefined;
 }
+
+/** Label → slug, mirroring synthesize's slugify so the folded-label
+ *  TargetKeys computed here match the ones written into the artifacts. */
+function slugifyLabel(s: string): string {
+  return nameNorm(s).replace(/\s+/g, "-").slice(0, 64) || "unnamed";
+}
+
+/**
+ * The artifact TargetKey an UNRESOLVED edge folds into — an exact mirror of
+ * synthesize's resolveTarget. It has to read the other side of the citation
+ * too: an edge whose cited_work is unresolved but whose cited_author is not
+ * folds to `a:<author>` in the artifacts, so deriving the key from this
+ * row's own kind alone would name a file that was never written (measured:
+ * 2,326 work rows reach a paged artifact this way, against 568 without it).
+ */
+function artifactTargetKey(e: CitationEdge): string {
+  if (e.to_work) return `w:${e.to_work}`;
+  if (e.to_author) return `a:${e.to_author}`;
+  return `l:${slugifyLabel(e.cited_work || e.cited_author || "")}`;
+}
+
 export function citedTargets(kind: "work" | "author"): CitedTarget[] {
   const map = new Map<string, CitedTarget>();
   for (const e of citationEdges()) {
@@ -360,8 +424,17 @@ export function citedTargets(kind: "work" | "author"): CitedTarget[] {
     if (!raw) continue;
     const resolved = kind === "work" ? e.to_work : e.to_author;
     const key = resolved ?? raw.toLowerCase();
+    // A row the library holds is its own artifact target, whichever side of
+    // the citation resolved it; only the unresolved labels have to be traced
+    // back through the fold.
+    const ak = resolved
+      ? kind === "work"
+        ? `w:${resolved}`
+        : `a:${resolved}`
+      : artifactTargetKey(e);
+    const seen = map.get(key);
     const t =
-      map.get(key) ??
+      seen ??
       ({
         key,
         label: raw,
@@ -371,7 +444,13 @@ export function citedTargets(kind: "work" | "author"): CitedTarget[] {
         total: 0,
         stances: {},
         citingWorks: new Set<string>(),
+        targetKey: ak,
       } as CitedTarget);
+    // This row groups by one side of the citation only, so "Moses" gathers
+    // edges that the artifacts filed under Genesis, Exodus and the rest.
+    // Where the group does not fold to a single artifact the link is
+    // dropped rather than pointed at whichever file happened to come first.
+    if (seen && t.targetKey !== ak) t.targetKey = undefined;
     t.total += e.count;
     t.stances[e.stance] = (t.stances[e.stance] ?? 0) + e.count;
     t.citingWorks.add(e.from);
@@ -379,8 +458,14 @@ export function citedTargets(kind: "work" | "author"): CitedTarget[] {
       t.sample = { from: e.from, stance: e.stance, quote: e.quotes[0] };
     map.set(key, t);
   }
+  // Breadth first: a target cited 406 times by ONE work (Euclid's Elements
+  // referring to its own propositions) is not the library's most-cited
+  // author, and ranking by raw total made an artifact the headline.
   return [...map.values()].sort(
-    (a, b) => b.total - a.total || (a.label < b.label ? -1 : 1),
+    (a, b) =>
+      b.citingWorks.size - a.citingWorks.size ||
+      b.total - a.total ||
+      (a.label < b.label ? -1 : 1),
   );
 }
 

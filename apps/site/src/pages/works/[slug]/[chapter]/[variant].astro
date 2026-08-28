@@ -3,8 +3,17 @@ import type { GetStaticPaths } from "astro";
 import Reader from "../../../../layouts/Reader.astro";
 import { workAtlas, workOntology } from "../../../../lib/atlas-graph";
 import ChapterAtlas from "../../../../components/atlas-ui/ChapterAtlas.astro";
+import ChapterCitations from "../../../../components/atlas-ui/ChapterCitations.astro";
+import {
+  chapterCitations,
+  citingWorkSlugs,
+  citedWorkSlugs,
+} from "../../../../lib/atlas-citations";
 import VariantSwitcher from "../../../../components/VariantSwitcher.astro";
 import ChapterBody from "../../../../components/ChapterBody.astro";
+import AudioMode from "../../../../components/AudioMode.astro";
+import { chapterAudio } from "../../../../lib/audio";
+import { variantLang, chapterLd, breadcrumbsLd } from "../../../../lib/seo";
 import {
   works,
   listChapters,
@@ -75,9 +84,31 @@ const byline = bylineFor(variant);
 // link must live on the reader page as well. Present only when the ontology
 // harvest has mapped this work (data-driven; appears on rebuild).
 const wAtlas = workAtlas(workSlug);
+// The work page's #atlas panel exists only where the ontology harvest read
+// this work, and for a single-chapter work that page is a redirect stub back
+// to here — the ChapterAtlas panel below IS that surface for those 1,013
+// works, so the link would bounce the reader out and back, losing scroll.
+const figuresHref = wAtlas && !isSingleChapter ? `/works/${workSlug}/#atlas` : null;
 // This chapter's anchored entities — feeds the "in this chapter" panel and
 // the inline gloss-mark highlighter. Empty for unharvested works/chapters.
 const chapterEntities = workOntology(workSlug)?.chapters?.[chapterSlug] ?? [];
+// This chapter's citations — the apparatus fontium for the page in front of
+// the reader. Empty for unharvested works and for the 23,094 of 25,499
+// chapters that cite nothing the harvest could anchor, where the panel
+// renders no bytes at all.
+const chapterCiteRows = chapterCitations(workSlug, chapterSlug);
+// The work-level citations page is generated for a work with an outbound OR
+// an inbound edge; mirror that set exactly so the masthead never links a 404.
+const hasCitationsPage = citingWorkSlugs().has(workSlug) || citedWorkSlugs().has(workSlug);
+// The harvest anchors ONE reading view per chapter (15,246 of the 15,252
+// anchored loci are on the translation), and ChapterCitations compares that
+// view against this one. This flag answers the other half of the question:
+// whether the harvest recovered any paragraph here to point at. All 2,405
+// chapters that cite anything currently do, but a mark that scrolls nowhere
+// is worse than no mark, so the guard is computed rather than assumed.
+const anchoredHere = chapterCiteRows.some((r) =>
+  r.loci.some((l) => l.chapter === chapterSlug && l.anchors.length > 0),
+);
 
 /**
  * Some source titles are entirely uppercase ("INTRODUCTION", "CHAPTER I").
@@ -96,18 +127,121 @@ function softTitleCase(s: string): string {
   return s;
 }
 const displayChapterTitle = softTitleCase(variant.meta.chapter_title);
+
+// Audio modes appear only when this chapter's audio AND word-level alignment
+// exist (manifest-gated); coverage grows without page-template changes.
+const audio = chapterAudio(workSlug, chapterSlug);
+
+// SEO: the page language follows the variant (original-script pages are not
+// English); the variants of one chapter cross-reference via hreflang. The
+// three variants also need DISTINCT titles (11.5k identical triplets read as
+// duplicates to crawlers), and RTL originals need dir="rtl".
+const pageLang = variantLang(variantType, work.language);
+const pageDir =
+  variantType === "original" && work.language_direction === "rtl" ? "rtl" : "ltr";
+const variantTitleSuffix =
+  variantType === "translation"
+    ? ""
+    : variantType === "transliteration"
+      ? " (romanized)"
+      : ` (${work.language})`;
+const chapterMeta = chapters[chapterIndex];
+
+/**
+ * hreflang alternates, one URL per language.
+ *
+ * An hreflang cluster must map each language to exactly ONE URL. English
+ * works break that naively: their "original" and their "translation" are the
+ * same English text, so both variants resolve to hreflang="en" and the whole
+ * annotation is discarded — leaving two identical pages competing, which is
+ * what Search Console reports as a duplicate. So: pick one representative per
+ * language (translation, then transliteration, then original), advertise only
+ * those, and have any variant that lost the tie canonicalise onto the winner
+ * instead of claiming to be a separate page.
+ */
+const VARIANT_RANK: Record<string, number> = {
+  translation: 0,
+  transliteration: 1,
+  original: 2,
+};
+const variantHref = (contentType: string) =>
+  `/works/${workSlug}/${chapterSlug}/${contentType}/`;
+
+const representativeByLang = new Map<string, string>();
+for (const v of [...chapterMeta.variants].sort(
+  (a, b) => (VARIANT_RANK[a.content_type] ?? 9) - (VARIANT_RANK[b.content_type] ?? 9),
+)) {
+  const lang = variantLang(v.content_type, work.language);
+  if (!representativeByLang.has(lang)) representativeByLang.set(lang, v.content_type);
+}
+
+const alternates = [...representativeByLang.entries()].map(([hreflang, contentType]) => ({
+  hreflang,
+  href: `https://falsafa.ai${variantHref(contentType)}`,
+  isDefault: contentType === representativeByLang.get("en"),
+}));
+
+// This page is a duplicate spelling of another variant's language: point the
+// canonical at the representative rather than competing with it.
+const representativeForThisPage = representativeByLang.get(pageLang);
+const canonicalPath =
+  representativeForThisPage && representativeForThisPage !== variantType
+    ? variantHref(representativeForThisPage)
+    : undefined;
+const workLdInput = {
+  slug: workSlug,
+  title: work.title,
+  author: work.author,
+  authorSlug: work.author_slug,
+  language: work.language,
+  description: work.description,
+  publishedYear: work.published_year,
+};
+const jsonLd = [
+  chapterLd({
+    work: workLdInput,
+    chapterSlug,
+    chapterTitle: displayChapterTitle,
+    chapterNumber: variant.meta.chapter_number,
+    variant: variantType,
+    pageLang,
+    audio: audio ? { durMs: audio.durMs } : null,
+  }),
+  breadcrumbsLd([
+    { name: "Read", url: "https://falsafa.ai/works/" },
+    { name: work.title, url: `https://falsafa.ai/works/${workSlug}/` },
+    {
+      name: displayChapterTitle,
+      url: `https://falsafa.ai/works/${workSlug}/${chapterSlug}/${variantType}/`,
+    },
+  ]),
+];
 ---
 
 <Reader
   ogImage={`/og/works/${workSlug}.png`}
-  title={isSingleChapter ? work.title : `${variant.meta.chapter_title} · ${work.title}`}
+  title={
+    (isSingleChapter ? work.title : `${variant.meta.chapter_title} · ${work.title}`) +
+    variantTitleSuffix
+  }
   description={
     isSingleChapter
       ? `${work.title} by ${work.author} — ${variantType}`
       : `${work.title} by ${work.author} — chapter ${variant.meta.chapter_number}, ${variantType}`
   }
   layout={variant.meta.layout}
+  lang={pageLang}
+  jsonLd={jsonLd}
+  canonicalPath={canonicalPath}
 >
+  <Fragment slot="head">
+    {alternates.length > 1 &&
+      alternates.map((a) => <link rel="alternate" hreflang={a.hreflang} href={a.href} />)}
+    {alternates.length > 1 &&
+      alternates
+        .filter((a) => a.isDefault)
+        .map((a) => <link rel="alternate" hreflang="x-default" href={a.href} />)}
+  </Fragment>
   {idx?.cover_url && (
     <div class="reader-cover">
       <img src={idx.cover_url} alt={`Cover for ${work.title}`} />
@@ -143,12 +277,26 @@ const displayChapterTitle = softTitleCase(variant.meta.chapter_title);
         )}
       </p>
     )}
-    {wAtlas && (
+    {(hasCitationsPage || figuresHref) && (
       <p class="atlas-journey">
-        <a href={`/works/${workSlug}/#atlas`}>In the atlas</a>
+        {hasCitationsPage && <a href={`/works/${workSlug}/citations/`}>citations</a>}
+        {hasCitationsPage && figuresHref && <span class="aj-sep"> · </span>}
+        {figuresHref && <a href={figuresHref}>figures &amp; ideas</a>}
       </p>
     )}
     <VariantSwitcher meta={variant.meta} workSlug={work.slug} current={variantType as ContentType} />
+    {audio && (
+      <AudioMode
+        work={workSlug}
+        ch={chapterSlug}
+        workTitle={work.title}
+        chTitle={displayChapterTitle}
+        author={work.author}
+        cover={idx?.cover_url ?? null}
+        durMs={audio.durMs}
+        streams={audio.streams}
+      />
+    )}
   </header>
 
   <ChapterBody
@@ -157,9 +305,20 @@ const displayChapterTitle = softTitleCase(variant.meta.chapter_title);
     workSlug={workSlug}
     chapterSlug={chapterSlug}
     variantFile={variant.variant.file}
+    lang={pageLang}
+    dir={pageDir}
   />
 
   <ChapterAtlas workSlug={workSlug} entities={chapterEntities} />
+
+  <ChapterCitations
+    workSlug={workSlug}
+    chapterSlug={chapterSlug}
+    variantType={variantType}
+    rows={chapterCiteRows}
+    anchoredHere={anchoredHere}
+    citationsHref={`/works/${workSlug}/citations/`}
+  />
 
   {!isSingleChapter && (
     <footer class="reader-footer">
@@ -184,3 +343,9 @@ const displayChapterTitle = softTitleCase(variant.meta.chapter_title);
     </footer>
   )}
 </Reader>
+
+<style>
+  .aj-sep {
+    color: var(--accent-soft);
+  }
+</style>

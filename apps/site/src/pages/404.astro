@@ -1,0 +1,92 @@
+---
+/**
+ * 404 — served by the falsafaai Worker with a real 404 status when a key
+ * is missing from the bucket. Editorial, quiet, useful: a way back into
+ * the library and the search shortcut.
+ */
+import Base from "../layouts/Base.astro";
+---
+
+<Base
+  title="Page not found"
+  description="This page is not in the library. Browse the works or search the corpus."
+>
+  <section class="notfound">
+    <p class="notfound-kicker">four oh four</p>
+    <h1>Not in the catalogue</h1>
+    <p class="notfound-blurb">
+      The page you asked for is not on the shelves. It may have moved when the
+      library was reorganised, or the address may have a typo.
+    </p>
+    <nav class="notfound-nav">
+      <a href="/works/">Browse the works</a>
+      <a href="/listen/">Listen</a>
+      <a href="/atlas/">Atlas</a>
+      <a href="/">Front page</a>
+    </nav>
+    <p class="notfound-tip">Tip: press <kbd>/</kbd> anywhere to search the corpus.</p>
+  </section>
+</Base>
+
+<style>
+  .notfound {
+    max-width: var(--col-main);
+    margin: 0 auto;
+    padding: var(--s-24) var(--s-5);
+  }
+  .notfound-kicker {
+    font-family: var(--font-body);
+    font-variant: small-caps;
+    letter-spacing: 0.07em;
+    color: var(--accent);
+    border-top: 1px solid var(--rule);
+    padding-top: var(--s-3);
+    margin: 0 0 var(--s-4);
+    font-size: 17px;
+  }
+  h1 {
+    font-family: var(--font-display);
+    font-size: var(--fs-h1);
+    line-height: 1.1;
+    margin: 0 0 var(--s-5);
+  }
+  .notfound-blurb {
+    font-family: var(--font-body);
+    font-size: 19px;
+    line-height: 1.6;
+    color: var(--ink-muted);
+    margin: 0 0 var(--s-8);
+  }
+  .notfound-nav {
+    display: flex;
+    gap: var(--s-4);
+    flex-wrap: wrap;
+    margin-bottom: var(--s-8);
+  }
+  .notfound-nav a {
+    font-family: var(--font-sans);
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--ink);
+    text-decoration: none;
+    border: 1px solid var(--rule);
+    border-radius: 2px;
+    padding: var(--s-2) var(--s-5);
+    transition: color 0.15s ease, border-color 0.15s ease;
+  }
+  .notfound-nav a:hover {
+    color: var(--accent);
+    border-color: var(--ink-muted);
+  }
+  .notfound-tip {
+    font-family: var(--font-sans);
+    font-size: 13px;
+    color: var(--ink-muted);
+  }
+  kbd {
+    font-family: var(--font-mono);
+    border: 1px solid var(--rule);
+    border-radius: 2px;
+    padding: 1px 6px;
+  }
+</style>

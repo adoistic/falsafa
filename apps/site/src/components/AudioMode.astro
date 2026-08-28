@@ -1,0 +1,38 @@
+---
+/**
+ * Read / Listen / Read-along mode switcher + audio mount point.
+ * Rendered only when this chapter has aligned audio (manifest-gated), so
+ * unaligned chapters ship zero audio markup. Keep this markup MINIMAL —
+ * it multiplies across ~28k chapter pages; all behavior lives in the
+ * shared hashed module (src/audio/boot.ts) and its lazy imports.
+ */
+import "../styles/audio.css";
+import { fmtDuration } from "../lib/audio";
+
+interface Props {
+  work: string;
+  ch: string;
+  workTitle: string;
+  chTitle: string;
+  author: string;
+  cover: string | null;
+  durMs: number;
+  streams: { id: string; url: string }[];
+}
+
+const { work, ch, workTitle, chTitle, author, cover, durMs, streams } = Astro.props;
+const mount = JSON.stringify({ work, ch, workTitle, chTitle, author, cover, durMs, streams });
+---
+
+<div id="falsafa-audio" class="audio-modes" data-audio={mount} data-pagefind-ignore>
+  <div class="mode-switcher" role="group" aria-label="Reading mode">
+    <button data-mode="read" aria-current="true">Read</button>
+    <button data-mode="listen">Listen</button>
+    <button data-mode="along">Read along</button>
+  </div>
+  <span class="mode-dur">{fmtDuration(durMs)}</span>
+</div>
+
+<script>
+  import "../audio/boot";
+</script>

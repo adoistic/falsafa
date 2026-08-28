@@ -18,8 +18,8 @@ const fmt = (n: number) => n.toLocaleString("en-US");
       <h1>Falsafa</h1>
       <p class="lede">
         A reading platform for translated philosophical and classical works,
-        plus an open-source MCP engine that lets any LLM query the corpus as a
-        knowledge resource.
+        plus an open-source MCP engine that lets any LLM read and cite the
+        corpus.
       </p>
     </header>
 
@@ -42,13 +42,14 @@ const fmt = (n: number) => n.toLocaleString("en-US");
       <h2>What's in the catalog</h2>
       <p>
         {fmt(m.counts.works)} works, {fmt(totalChapters)} logical chapters,
-        {fmt(totalVariants)} language variants. The corpus spans Anglo-Saxon
-        Christian poetry (Cynewulf), Urdu ghazal masters (Ghalib, Iqbal, Zauq),
-        French Enlightenment political theory (Comte, Dunoyer), German
-        philosophical writing (Fichte), Sanskrit smṛti traditions, and Old
-        Javanese / Kawi tattva texts. Most works ship with 2-3 variants —
-        original-language source, Latin-script transliteration, and English
-        translation. Live counts at <a href="/numbers/">/numbers</a>.
+        {fmt(totalVariants)} language variants. The shelves run from Homer,
+        Plato and the Greek historians through the Vedic saṃhitās, the Sanskrit
+        epics and smṛti law books, Old Javanese tattva texts, Anglo-Saxon
+        Christian poetry (Cynewulf), and Urdu ghazals (Ghalib, Iqbal, Zauq), to
+        the philosophy and political economy of the 17th through 20th
+        centuries — Spinoza to Russell, Smith to Marx. Most works ship with 2-3
+        variants — original-language source, Latin-script transliteration, and
+        English translation. Live counts at <a href="/numbers/">/numbers</a>.
       </p>
     </section>
 
@@ -198,11 +199,12 @@ const fmt = (n: number) => n.toLocaleString("en-US");
       <h2>The MCP engine</h2>
       <p>
         Falsafa ships an open-source MCP server (<code>@falsafa/mcp</code>) that
-        exposes the corpus as eight librarian tools — list works, list
+        exposes the corpus as ten librarian tools — list works, list
         chapters, read a chapter, get a passage, search the corpus, find
-        related, compare works, and read metadata. Plug it into Claude Desktop,
-        Cursor, Codex, or any MCP-aware client, and your chosen LLM can
-        navigate the catalog directly.
+        related, compare works, read metadata, and read the project wiki in
+        summary or in full. Plug it into Claude Desktop, Cursor, Codex, or any
+        MCP-aware client, and your chosen LLM can navigate the catalog
+        directly.
       </p>
       <p>
         The MCP is a librarian, not a second LLM. Tools return text and

@@ -27,14 +27,14 @@ const attributionNote: Record<string, string> = {
     <div class="card">
       <div class="head">
         <span class="when mono">{formatSpan(work.composed)}</span>
-        <a class="link-quiet lang" href={`/atlas/languages/${original.id}/`}>{original.name}</a>
+        <span class="link-quiet lang">{original.name}</span>
         <span class="tag">original</span>
       </div>
       <p class="byline">
         {author && (
           <>
             <span class="verb">written by</span>
-            <a class="link" href={`/atlas/people/${author.id}/`}>{author.name}</a>
+            <span class="link">{author.name}</span>
           </>
         )}
         {!author && work.attribution && <span class="verb">{attributionNote[work.attribution]}</span>}
@@ -42,7 +42,7 @@ const attributionNote: Record<string, string> = {
           <>
             <span class="sep" aria-hidden="true">·</span>
             <span class="verb">in</span>
-            <a class="link" href={`/atlas/places/${composedAt.id}/`}>{composedAt.name}</a>
+            <span class="link">{composedAt.name}</span>
           </>
         )}
       </p>

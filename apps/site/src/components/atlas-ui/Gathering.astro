@@ -1,0 +1,182 @@
+---
+/**
+ * Gathering — the section switcher of the citation apparatus.
+ *
+ * RunningHead grown a second voice: sibling VIEWS named on one hairline,
+ * the open one carried in ink over a 2px accent rule laid back across it.
+ * Same metrics as RunningHead (18px --font-body 600, small-caps lowercase,
+ * .08em, the rule at y=0 and the label's first line at y=13), so a leaf and
+ * a section head sit on the same optical line and no new idiom arrives on
+ * the page.
+ *
+ * Sibling ROUTES, not panels: it degrades to plain links with JS off, it
+ * deep-links, and it never ships a closed view's bytes. Leaves carry
+ * data-astro-prefetch — astro.config.mjs already sets
+ * `prefetch: { defaultStrategy: "viewport" }` and the repo has zero call
+ * sites, so opting in here makes a sibling already-fetched by the time the
+ * reader reaches for it. Real navigation, zero authored JS.
+ *
+ * NOT an ARIA tablist: these are links to documents, so role="tab" would
+ * be a lie, and aria-selected would go stale without a hashchange handler
+ * (see the confession already standing in pages/eval/[id].astro).
+ *
+ * A leaf with no href is a view this subject does not have. It is SHOWN,
+ * dimmed, and named. The harvest is partial by design; hiding that would
+ * be the dishonest choice.
+ *
+ * The hairline is drawn per <li> rather than once across the <ul>, with the
+ * inter-leaf gap carried as the li's padding so the rule stays unbroken
+ * inside a row. That is what lets the set WRAP instead of overflow: a
+ * four-leaf set plus a folio measures roughly 620px, which does not fit the
+ * 860px column once the viewport is near 640px, and a scroller would have
+ * had to hide the leaves it could not fit. Every wrapped row gets its own
+ * rule; the accent still hugs exactly the label it belongs to.
+ */
+export interface Leaf {
+  label: string;
+  href?: string;
+  count?: number;
+  current?: boolean;
+  /** shown in place of a count when the leaf is disabled */
+  note?: string;
+}
+interface Props { leaves: Leaf[]; folio?: string; label?: string }
+const { leaves, folio, label = "Views of this text" } = Astro.props;
+const nf = new Intl.NumberFormat("en-US");
+---
+
+{leaves.length > 0 && (
+  <nav class="gathering" aria-label={label}>
+    <ul class="gathering-set">
+      {leaves.map((l) => (
+        <li>
+          {l.current ? (
+            <span class="gathering-leaf" aria-current="page">
+              {l.label}
+              {l.count != null && <span class="gathering-n">{nf.format(l.count)}</span>}
+            </span>
+          ) : l.href ? (
+            <a class="gathering-leaf" href={l.href} data-astro-prefetch>
+              {l.label}
+              {l.count != null && <span class="gathering-n">{nf.format(l.count)}</span>}
+            </a>
+          ) : (
+            <span class="gathering-leaf" aria-disabled="true">
+              {l.label}
+              {l.note && <span class="gathering-n gathering-note">{l.note}</span>}
+            </span>
+          )}
+        </li>
+      ))}
+    </ul>
+    {folio && <span class="gathering-folio">{folio}</span>}
+  </nav>
+)}
+
+<style>
+  .gathering {
+    display: flex;
+    align-items: flex-start;
+    margin: 0 0 var(--s-6);
+  }
+  .gathering-set {
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: var(--s-2);
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    min-width: 0;
+  }
+  /* the rule belongs to the li, and the li carries the gap as padding, so
+     adjacent rules abut into one hairline and a wrapped row keeps its own */
+  .gathering-set > li {
+    display: block;
+    max-width: 100%;
+    border-top: 1px solid var(--rule);
+    padding-right: var(--s-5);
+  }
+
+  .gathering-leaf {
+    display: block;
+    margin-top: -1px;                       /* the leaf's rule rides the hairline */
+    border-top: 2px solid transparent;
+    padding-top: calc(var(--s-3) - 1px);
+    font-family: var(--font-body);
+    font-size: 18px;
+    font-weight: 600;
+    font-variant: small-caps;
+    text-transform: lowercase;
+    letter-spacing: 0.08em;
+    color: var(--ink-muted);
+    text-decoration: none;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    transition: color 150ms ease-out, border-color 150ms ease-out;
+  }
+  a.gathering-leaf:hover { color: var(--ink); }
+  a.gathering-leaf:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+    border-radius: 2px;
+  }
+  .gathering-leaf[aria-current="page"] {
+    color: var(--ink);
+    border-top-color: var(--accent);
+  }
+  .gathering-leaf[aria-disabled="true"] {
+    color: color-mix(in srgb, var(--ink-muted) 45%, var(--paper));
+  }
+
+  /* an apparatus figure, never a notification badge */
+  .gathering-n {
+    margin-left: 0.4em;
+    font-size: 15px;
+    font-weight: 400;
+    font-variant-numeric: oldstyle-nums;
+    letter-spacing: 0;
+    color: var(--ink-muted);
+  }
+  .gathering-leaf[aria-current="page"] .gathering-n { color: var(--accent); }
+  .gathering-note {
+    font-variant: small-caps;
+    text-transform: lowercase;
+    letter-spacing: 0.05em;
+  }
+
+  /* the folio carries the hairline across the rest of the measure — the
+     same trick .tag-line::after plays in atlas.css */
+  .gathering-folio {
+    flex: 1;
+    border-top: 1px solid var(--rule);
+    padding-top: var(--s-3);
+    padding-left: var(--s-6);
+    text-align: right;
+    font-family: var(--font-body);
+    font-size: 16px;
+    font-variant-numeric: oldstyle-nums;
+    color: var(--ink-muted);
+    white-space: nowrap;
+  }
+
+  /* below the site's mobile breakpoint the folio stops competing for the
+     line and drops beneath the set, unruled, so no stray hairline is left
+     hanging under a one-line phrase */
+  @media (max-width: 639px) {
+    .gathering { flex-direction: column; }
+    .gathering-set { width: 100%; }
+    .gathering-folio {
+      flex: none;
+      border-top: 0;
+      padding: var(--s-2) 0 0;
+      text-align: left;
+    }
+  }
+
+  /* tokens.css already zeroes transitions globally under reduce; stated here
+     too so the component carries its own contract wherever it is reused */
+  @media (prefers-reduced-motion: reduce) {
+    .gathering-leaf { transition: none; }
+  }
+</style>

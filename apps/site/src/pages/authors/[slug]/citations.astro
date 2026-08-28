@@ -1,0 +1,1212 @@
+---
+/**
+ * /authors/<slug>/citations/ — the index auctorum of one author.
+ *
+ * The form is four hundred years old: the back matter of a collected
+ * edition, where an editor lists every author the collected writer drew on
+ * and, for each, the volume and the page. Here the page is a paragraph and
+ * the link is live.
+ *
+ * Two movements, either of which may be absent:
+ *   the library — across ALL of this author's harvested works, whom the
+ *                 author cites, from which work, at which chapter, with
+ *                 the passage that does it
+ *   cited by    — who in the library quotes this author, merged across the
+ *                 NAME and every work of theirs the harvest saw cited
+ *
+ * The merge is the reason this page cannot be assembled from the work
+ * pages: 418 citations reach Homer, but only 278 of them say "Homer" —
+ * the rest say "the Iliad" (91) or "the Odyssey" (49). Three reverse-index
+ * files, one view, and the `through` run states the split rather than
+ * hiding it.
+ *
+ * Coexists with pages/authors/[slug].astro. Under build.format "directory"
+ * that file emits authors/<slug>/index.html and this one emits
+ * authors/<slug>/citations/index.html; four other surfaces link into the
+ * former, so it is NOT moved to [slug]/index.astro.
+ */
+import type { GetStaticPaths } from "astro";
+import Base from "../../../layouts/Base.astro";
+import Gathering from "../../../components/atlas-ui/Gathering.astro";
+import Arrangement from "../../../components/atlas-ui/Arrangement.astro";
+import RunningHead from "../../../components/atlas-ui/RunningHead.astro";
+import StanceMarks from "../../../components/atlas-ui/StanceMarks.astro";
+import QuoteBlock from "../../../components/atlas-ui/QuoteBlock.astro";
+import LocusIndex from "../../../components/atlas-ui/LocusIndex.astro";
+import LocusEntry from "../../../components/atlas-ui/LocusEntry.astro";
+import Sigla from "../../../components/atlas-ui/Sigla.astro";
+import {
+  manifest,
+  findWork,
+  workEntryHref,
+  chapterExists,
+  isSingleChapterWork,
+  locusLabel,
+} from "../../../lib/corpus";
+import { plural as pl, fmt, entityHasPage } from "../../../lib/atlas-graph";
+import { personLd, breadcrumbsLd } from "../../../lib/seo";
+import {
+  authorCitationsOut,
+  authorCitedBy,
+  citationsIndex,
+  citedAuthorSlugs,
+  citedWorkSlugs,
+  citingWorkSlugs,
+  liveDeps,
+  targetAnchor,
+  targetIndexRow,
+  type AuthorTargetRow,
+  type CitationQuote,
+  type CitationRow,
+  type Locus,
+} from "../../../lib/atlas-citations";
+
+export const getStaticPaths = (() => {
+  const m = manifest();
+  const out: string[] = [];
+  for (const [slug, info] of Object.entries(m.authors)) {
+    const hasOut = info.works.some((w) => citingWorkSlugs().has(w));
+    const hasIn = citedAuthorSlugs().has(slug) || info.works.some((w) => citedWorkSlugs().has(w));
+    if (hasOut || hasIn) out.push(slug);
+  }
+  return out.map((slug) => ({ params: { slug }, props: { slug } }));
+}) satisfies GetStaticPaths;
+
+const { slug } = Astro.props;
+const m = manifest();
+const info = m.authors[slug]!;
+const name = info.name;
+const authorWorks = info.works
+  .map((s) => findWork(s))
+  .filter((w): w is NonNullable<typeof w> => w !== undefined);
+
+const out = authorCitationsOut(info.works);
+const cb = authorCitedBy(slug, info.works);
+const hasOut = out !== null && out.totals.targets > 0;
+const hasIn = cb !== null && cb.total > 0;
+
+const workTitle = (s: string) => findWork(s)?.title ?? s;
+const workAuthor = (s: string) => findWork(s)?.author ?? "";
+
+/**
+ * The short form of a work title, for a run where the title is a locus and
+ * not the subject. Measured across the 655 index-tail rows: the median work
+ * title is 19 characters and 90% are under 38, but the tail runs to 66
+ * ("Quomodo adolescens poetas audire debeat"), which at 15px right-aligned
+ * in a two-column index pushes the leader off the line.
+ */
+function shortTitle(s: string): string {
+  const head = s.split(/\s*[:—]\s*/)[0]!;
+  if (head.length <= 26) return head;
+  const cut = head.slice(0, 26);
+  const sp = cut.lastIndexOf(" ");
+  return `${(sp > 12 ? cut.slice(0, sp) : cut).trimEnd()}…`;
+}
+
+// ─────────────────────────────────────────────────── the library (outbound)
+
+/** Featured entries. The rest of `standing` becomes the index. */
+const TOP = 24;
+const featured = hasOut ? out!.standing.slice(0, TOP) : [];
+/** Works listed inside one entry before the run folds into a disclosure. */
+const INLINE_WORKS = 12;
+/** Chapters listed inside one work's line before it defers to that work's
+ *  own citations page, which holds the run entire. */
+const INLINE_LOCI = 8;
+
+/**
+ * Specimens, by byte budget rather than by row count — the same rule
+ * allocateSpecimens() applies at work scope, lifted to author scope because
+ * an AuthorTargetRow's loci are spread across up to 40 of the author's
+ * works and the library's helper only knows one work at a time.
+ *
+ * The declared AuthorTargetRow.specimen cannot be used: it carries no
+ * `variant`, and without one quoteHref() returns null and every specimen
+ * would render as a captioned dead end. This map carries the full
+ * provenance instead.
+ */
+const SPECIMEN_BUDGET = 16_000;
+interface Specimen {
+  work: string;
+  quote: CitationQuote;
+  chapter: string;
+  variant: string;
+  note?: string | undefined;
+}
+const specimens = new Map<string, Specimen>();
+{
+  let spent = 0;
+  for (const t of featured) {
+    if (spent >= SPECIMEN_BUDGET) break;
+    let best: { work: string; locus: Locus } | null = null;
+    for (const w of t.works)
+      for (const l of w.loci)
+        if (l.quotes.length > 0 && (best === null || l.count > best.locus.count))
+          best = { work: w.work, locus: l };
+    if (!best) continue;
+    // a sub-70-character quote is an OCR fragment, not a specimen; take it
+    // only when the locus has nothing longer to offer.
+    const q = best.locus.quotes.find((x) => x.text.length >= 70) ?? best.locus.quotes[0];
+    if (!q) continue;
+    specimens.set(t.key, {
+      work: best.work,
+      quote: q,
+      chapter: best.locus.chapter,
+      variant: best.locus.variant,
+      note: best.locus.role ?? best.locus.hint,
+    });
+    spent += q.text.length;
+  }
+}
+
+/**
+ * A work of the author's, prepared for one line of a nested entry.
+ *
+ * A one-chapter work has no "where" to print: locusLabel() returns the
+ * chapter's own title, which IS the work's title, so the cell would repeat
+ * the line's own subject — and for the Attic orators, whose works are all
+ * single-chapter, it repeats it down the whole column. Such a line leaves
+ * the middle cell empty and hangs the deep link on the count instead, which
+ * is the only place on the line where "how many" and "shown where" are the
+ * same fact.
+ */
+function entryLine(w: { work: string; count: number; loci: Locus[] }) {
+  const whole = isSingleChapterWork(w.work);
+  return { whole, href: whole ? (w.loci[0]?.href ?? null) : null };
+}
+
+/** Where the full run for this target inside one of the author's works lives. */
+const inWorkHref = (work: string, key: string) => `/works/${work}/citations/#${targetAnchor(key)}`;
+
+/**
+ * One work of the author's, reduced to a single index tail item: the work's
+ * short title, linked to its densest passage for this target. Printing the
+ * flattened chapter run instead would mix registers — "book 1 · ion ·
+ * theaetetus" says nothing about which book each chapter belongs to — and
+ * the tail is never deeper than five works (measured across all 655 rows).
+ */
+function workTail(w: { work: string; count: number; passages: number; loci: Locus[] }): Locus {
+  const best = w.loci.slice().sort((a, b) => b.count - a.count)[0];
+  return {
+    // A Locus standing for a whole work rather than a chapter of one: the
+    // `chapter` slot carries the work slug and there is no paragraph run to
+    // hand over. LocusIndex reads only `label` and `href` of these, but the
+    // `count` still has to be in the unit a Locus counts in — paragraphs,
+    // not records — or the shape would carry a number that means something
+    // else than the field it sits in.
+    chapter: w.work,
+    variant: best?.variant ?? "",
+    label: shortTitle(workTitle(w.work)),
+    title: workTitle(w.work),
+    count: w.passages,
+    href: best?.href ?? null,
+    anchors: [],
+    quotes: [],
+  };
+}
+
+/** AuthorTargetRow in the shape LocusIndex reads. */
+function indexRow(t: AuthorTargetRow): CitationRow {
+  return {
+    key: t.key,
+    label: t.label,
+    author_label: t.author_label,
+    inLibrary: t.inLibrary,
+    href: t.href,
+    count: t.total,
+    passages: t.passages,
+    stances: t.stances,
+    loci: t.works.map(workTail),
+    lost: 0,
+    lostPassages: 0,
+  };
+}
+const indexRows = hasOut ? out!.standing.slice(TOP).map(indexRow) : [];
+
+/**
+ * The once-named tail, grouped by the work that names them. Every row in
+ * `once` has works.length === 1 by construction (two works would make it
+ * standing), verified across all 10,961 such rows corpus-wide, so the
+ * grouping is exact and loses nothing.
+ */
+const onceByWork = (() => {
+  const order = new Map(info.works.map((w, i) => [w, i]));
+  const g = new Map<string, AuthorTargetRow[]>();
+  for (const t of hasOut ? out!.once : []) {
+    const w = t.works[0]?.work;
+    if (!w) continue;
+    const bucket = g.get(w);
+    if (bucket) bucket.push(t);
+    else g.set(w, [t]);
+  }
+  return [...g.entries()]
+    .sort((a, b) => (order.get(a[0]) ?? 1e9) - (order.get(b[0]) ?? 1e9))
+    .map(([work, names]) => ({ work, names }));
+})();
+
+const inLibraryTargets = hasOut ? out!.targets.filter((t) => t.inLibrary).length : 0;
+const refuted = hasOut ? (out!.totals.stances.refute ?? 0) : 0;
+
+// ─────────────────────────────────────────────────── cited by (inbound)
+
+/**
+ * The names the library reaches this author through, with the citations
+ * each carries. This is the merge made countable: Homer 278 · Iliad 91 ·
+ * Odyssey 49. The author's own name is this page, so it is not a link; his
+ * works link to their own reverse index.
+ */
+const through = (hasIn ? [`a:${slug}`, ...info.works.map((w) => `w:${w}`)] : [])
+  .map((key) => targetIndexRow(key))
+  .filter((r): r is NonNullable<typeof r> => r !== null && r.total > 0)
+  .map((r) => ({
+    label: r.label,
+    total: r.total,
+    href: r.to_work ? `/works/${r.to_work}/citations/#cited-by` : null,
+  }))
+  .sort((a, b) => b.total - a.total);
+
+/** The citing works grouped by who wrote them. */
+const citingAuthors = (() => {
+  if (!hasIn) return [];
+  const g = new Map<string, { name: string; slug: string | null; count: number }>();
+  for (const r of cb!.by) {
+    const w = findWork(r.from);
+    const key = w?.author_slug ?? r.from_author ?? r.from;
+    const cur = g.get(key) ?? {
+      name: w?.author ?? r.from_author ?? r.from,
+      slug: w?.author_slug ?? null,
+      count: 0,
+    };
+    cur.count += r.count;
+    g.set(key, cur);
+  }
+  return [...g.values()].sort((a, b) => b.count - a.count || (a.name < b.name ? -1 : 1));
+})();
+
+/**
+ * A citing work, in the shape LocusEntry reads.
+ *
+ * The key is namespaced `by:` rather than `w:` because a work can stand on
+ * both sides of this page at once — Aristotle's Politics is both something
+ * Aristotle cites and something that cites him — and two elements carrying
+ * id="t-w-aristotle-politics-ad5a22" would make the masthead's "most drawn
+ * on" run jump to whichever the browser found first. Measured: 23 of the
+ * 190 pages had at least one such collision before the prefix.
+ */
+function citedByRow(r: NonNullable<typeof cb>["by"][number]): CitationRow {
+  const loci: Locus[] = [];
+  for (const ch of r.chapters) {
+    if (!chapterExists(r.from, ch.chapter)) continue;
+    loci.push({
+      chapter: ch.chapter,
+      variant: ch.variant,
+      label: liveDeps.short(r.from, ch.chapter),
+      title: liveDeps.title(r.from, ch.chapter) ?? liveDeps.short(r.from, ch.chapter),
+      // The artifact's chapter count is ANCHORED PARAGRAPHS, and it is now
+      // exact (count === p.length for all 4,245 reverse-index slots). It used
+      // to be flattened to 1 here so that LocusEntry printed no superscript,
+      // because the run would otherwise have contradicted the row total
+      // beside it — Aristotle's Rhetoric reaches Homer 11 times but anchors
+      // 34 paragraphs, and 1,074 of 2,726 reverse rows disagree the same way.
+      // The row now prints both units, so the real number can stand and the
+      // reader can see which chapters carry the weight.
+      count: ch.count,
+      href: liveDeps.href(r.from, ch.chapter, ch.variant, ch.p),
+      anchors: ch.p,
+      quotes: [],
+    });
+  }
+  loci.sort((a, b) => liveDeps.order(r.from, a.chapter) - liveDeps.order(r.from, b.chapter));
+  return {
+    key: `by:${r.from}`,
+    label: workTitle(r.from),
+    author_label: workAuthor(r.from) || undefined,
+    inLibrary: true,
+    href: workEntryHref(r.from),
+    count: r.count,
+    // Summed off the loci that survived the chapterExists guard above, so it
+    // is the total of the run this row prints and not of the artifact's.
+    passages: loci.reduce((s, l) => s + l.count, 0),
+    stances: r.stances,
+    why: r.why,
+    loci,
+    // CitedByRow carries no `unanchored`, and the chapter counts are
+    // paragraphs, so the difference cannot be read as lost citations.
+    // A row with no chapters at all still renders "locus not recovered".
+    lost: 0,
+    lostPassages: 0,
+  };
+}
+
+const citedByRows: CitationRow[] = hasIn ? cb!.by.map(citedByRow) : [];
+{
+  // Same byte budget as the library section, spent top-down: the reader
+  // scans the heaviest citers first, and a row without a specimen still
+  // carries its stance line and its full run of loci.
+  let spent = 0;
+  for (const [i, r] of citedByRows.entries()) {
+    if (spent >= SPECIMEN_BUDGET) break;
+    const q = cb!.by[i]!.quote;
+    if (!q) continue;
+    const from = cb!.by[i]!.from;
+    r.specimen = { work: from, quote: { p: q.p, text: q.text }, chapter: q.chapter, variant: q.variant };
+    spent += q.text.length;
+  }
+}
+
+// ─────────────────────────────────────────────────── chrome, copy, head
+
+const idx = citationsIndex();
+const asOf = idx
+  ? new Intl.DateTimeFormat("en-US", { month: "long", day: "numeric", timeZone: "UTC" })
+      .format(new Date(idx.generated_at))
+      .toLowerCase()
+  : "";
+
+const heading = hasOut ? `The library of ${name}` : `${name} in the library`;
+const arrangement = [
+  hasOut ? { label: "the library", href: "#cites" } : null,
+  hasIn ? { label: "cited by", href: "#cited-by" } : null,
+].filter((x): x is { label: string; href: string } => x !== null);
+
+const totalCitations = (hasOut ? out!.totals.citations : 0) + (hasIn ? cb!.total : 0);
+const harvested = hasOut ? out!.totals.works : 0;
+// pl(), not fmt(), on every count: this string is the meta description and
+// the og/twitter card, and 47 of the 190 author pages have a one-work harvest
+// that was reading "1 sources, 1 citations" in the search result.
+const description = hasOut
+  ? `Every source ${name} names across ${pl(harvested, "harvested work")}: ${pl(out!.totals.targets, "source")}, ${pl(out!.totals.citations, "citation")}, each anchored to the passage that makes it.`
+  : `The ${pl(cb!.citingWorks, "work")} in the Falsafa library that quote ${name}, and the ${pl(cb!.total, "passage")} that do it.`;
+---
+
+<Base
+  title={heading}
+  description={description}
+  ogImage="/og/atlas.png"
+  jsonLd={[
+    personLd(name, slug),
+    breadcrumbsLd([
+      { name: "Authors", url: "/authors/" },
+      { name, url: `/authors/${slug}/` },
+      { name: "Citations", url: `/authors/${slug}/citations/` },
+    ]),
+  ]}
+>
+  <div class="container">
+    <header class="masthead">
+      <p class="crumb">
+        <a href={`/authors/${slug}/`}>{name}</a>
+        <span class="crumb-sep">·</span>
+        <a href="/atlas/citations/">the atlas</a>
+      </p>
+      <h1>{heading}</h1>
+
+      {hasOut && (
+        <p class="lede">
+          Across {harvested < authorWorks.length
+            ? <>{fmt(harvested)} of {name}’s {fmt(authorWorks.length)} works in the library</>
+            : <>all {pl(harvested, "work")} of {name}’s in the library</>}, the harvest finds{" "}
+          {pl(out!.totals.targets, "named source")} — {pl(out!.totals.citations, "citation")} in
+          all.{" "}
+          {inLibraryTargets === 0
+            ? "Not one of those sources stands in the library; every one of them is on the corpus’s wanted list."
+            : inLibraryTargets === out!.totals.targets
+              ? "The library holds every one of them."
+              : `The library holds ${fmt(inLibraryTargets)} of them; the rest are the corpus’s wanted list.`}
+          {/* The gathering's `citations` leaf counts BOTH directions, because
+              both are views of this page. Without this clause the leaf read
+              1,063 against a lede that had only accounted for 1,059, and the
+              reader had no way to reconcile the two. Naming the inbound count
+              here makes the leaf add up on the page that prints it. */}
+          {/* One template literal, not a run of sibling expressions: the
+              compiler collapses the literal space between `{expr} {expr}`
+              and the sentence shipped as "quoteClement of Alexandria back". */}
+          {hasIn &&
+            ` In the other direction, ${pl(cb!.citingWorks, "work")} in the library ${
+              cb!.citingWorks === 1 ? "quotes" : "quote"
+            } ${name} back — ${pl(cb!.total, "citation")}.`}
+        </p>
+      )}
+      {!hasOut && hasIn && (
+        <p class="lede">
+          The harvest has not read {name}’s own works yet. What it has read is the library that
+          quotes {name}: {pl(cb!.citingWorks, "work")}, {pl(cb!.total, "citation")} in all.
+        </p>
+      )}
+
+      {featured.length > 0 && (
+        <p class="drawn">
+          <span class="drawn-label">most drawn on</span>
+          {featured.slice(0, 10).map((t, i) => (
+            <>
+              {i > 0 && <span class="drawn-sep"> · </span>}
+              <a href={`#${targetAnchor(t.key)}`}>{t.label}</a>
+            </>
+          ))}
+        </p>
+      )}
+
+      <Gathering
+        leaves={[
+          { label: "works", href: `/authors/${slug}/`, count: authorWorks.length },
+          { label: "citations", current: true, count: totalCitations },
+          // The atlas entity page is a third view of the same person, but
+          // only 1 author in 3 is paged there; a dimmed leaf on the rest
+          // would be chrome apologising for something nobody asked for.
+          ...(entityHasPage("figure", slug)
+            ? [{ label: "figures & ideas", href: `/atlas/figures/${slug}/` }]
+            : []),
+        ]}
+        folio={asOf ? `the harvest of ${asOf}` : undefined}
+        label={`Views of ${name}`}
+      />
+      <Arrangement items={arrangement} label="arranged" />
+
+      {hasOut && (
+        <p class="stance-rule">
+          <StanceMarks stances={out!.totals.stances} />
+          {refuted > 0 && (
+            <span class="stance-sentence">
+              Of the {pl(out!.totals.citations, "citation")} {name} makes, {fmt(refuted)}{" "}
+              {refuted === 1 ? "argues against the text it cites" : "argue against the text cited"}.
+            </span>
+          )}
+        </p>
+      )}
+    </header>
+
+    {hasOut && (
+      <section id="cites" class="movement">
+        {featured.length > 0 && (
+        <RunningHead
+          title="the sources most drawn on"
+          folio={`${fmt(featured.length)} of ${fmt(out!.totals.targets)}`}
+        />
+        )}
+        <ol class="lib-list">
+          {featured.map((t) => {
+            const shownWorks = t.works.slice(0, INLINE_WORKS);
+            const foldedWorks = t.works.slice(INLINE_WORKS);
+            const spec = specimens.get(t.key);
+            return (
+              <li class="lib" id={targetAnchor(t.key)}>
+                <p class="lib-lemma">
+                  <span class="lib-name">
+                    {t.href ? (
+                      <a href={t.href}>{t.inLibrary ? t.label : <em>{t.label}</em>}</a>
+                    ) : t.inLibrary ? (
+                      t.label
+                    ) : (
+                      <em>{t.label}</em>
+                    )}
+                    {t.author_label && <span class="lib-attrib">{t.author_label}</span>}
+                  </span>
+                  <span class="lib-marks">
+                    <StanceMarks stances={t.stances} />
+                    <span class="lib-total">{pl(t.total, "citation")}</span>
+                  </span>
+                </p>
+
+                <dl class="lib-works">
+                  {shownWorks.map((w) => (
+                    <>
+                      <dt>
+                        <a href={inWorkHref(w.work, t.key)}>{workTitle(w.work)}</a>
+                      </dt>
+                      <dd class="lib-where">
+                        {w.loci.length === 0 ? (
+                          <em class="lib-lost">locus not recovered</em>
+                        ) : entryLine(w).whole ? null : (
+                          <>
+                            {w.loci.slice(0, INLINE_LOCI).map((l, i) => (
+                              <>
+                                {i > 0 && <span class="lib-sep"> · </span>}
+                                {l.href ? <a href={l.href}>{l.label}</a> : <span>{l.label}</span>}
+                              </>
+                            ))}
+                            {w.loci.length > INLINE_LOCI && (
+                              <>
+                                <span class="lib-sep"> · </span>
+                                <a class="lib-rest" href={inWorkHref(w.work, t.key)}>
+                                  and {fmt(w.loci.length - INLINE_LOCI)} more{" "}
+                                  {w.loci.length - INLINE_LOCI === 1 ? "chapter" : "chapters"}
+                                </a>
+                              </>
+                            )}
+                          </>
+                        )}
+                      </dd>
+                      <dd class="lib-count">
+                        {entryLine(w).href ? (
+                          <a href={entryLine(w).href!}>{pl(w.count, "citation")}</a>
+                        ) : (
+                          <>
+                            {fmt(w.count)}
+                            <span class="visually-hidden">
+                              {w.count === 1 ? " citation" : " citations"}
+                            </span>
+                          </>
+                        )}
+                      </dd>
+                    </>
+                  ))}
+                </dl>
+
+                {foldedWorks.length > 0 && (
+                  <details class="lib-more">
+                    <summary>and {pl(foldedWorks.length, "further work")}</summary>
+                    <dl class="lib-works">
+                      {foldedWorks.map((w) => (
+                        <>
+                          <dt>
+                            <a href={inWorkHref(w.work, t.key)}>{workTitle(w.work)}</a>
+                          </dt>
+                          <dd class="lib-where">
+                            {w.loci.length === 0 ? (
+                              <em class="lib-lost">locus not recovered</em>
+                            ) : entryLine(w).whole ? null : (
+                              w.loci.slice(0, INLINE_LOCI).map((l, i) => (
+                                <>
+                                  {i > 0 && <span class="lib-sep"> · </span>}
+                                  {l.href ? <a href={l.href}>{l.label}</a> : <span>{l.label}</span>}
+                                </>
+                              ))
+                            )}
+                          </dd>
+                          <dd class="lib-count">
+                            {entryLine(w).href ? (
+                              <a href={entryLine(w).href!}>{pl(w.count, "citation")}</a>
+                            ) : (
+                              <>
+                                {fmt(w.count)}
+                                <span class="visually-hidden">
+                                  {w.count === 1 ? " citation" : " citations"}
+                                </span>
+                              </>
+                            )}
+                          </dd>
+                        </>
+                      ))}
+                    </dl>
+                  </details>
+                )}
+
+                {spec && (
+                  <QuoteBlock
+                    work={spec.work}
+                    workTitle={
+                      // QuoteBlock composes "title · locus · note", and for a
+                      // one-chapter work locusLabel() already returns the
+                      // title. Passing it again reads as a stutter.
+                      locusLabel(spec.work, spec.chapter).toLowerCase() ===
+                      workTitle(spec.work).toLowerCase()
+                        ? undefined
+                        : workTitle(spec.work)
+                    }
+                    quote={{
+                      p: spec.quote.p,
+                      text: spec.quote.text,
+                      chapter: spec.chapter,
+                      variant: spec.variant,
+                    }}
+                    caption={spec.note}
+                  />
+                )}
+              </li>
+            );
+          })}
+        </ol>
+
+        {indexRows.length > 0 && (
+          <>
+            <RunningHead
+              title="the index of the library"
+              folio={`${fmt(indexRows.length)} ${indexRows.length === 1 ? "entry" : "entries"}`}
+            />
+            <LocusIndex rows={indexRows} />
+          </>
+        )}
+
+        {onceByWork.length > 0 && (
+          <>
+            <RunningHead
+              title="named once"
+              folio={`${pl(out!.once.length, "source")} · ${pl(onceByWork.length, "work")}`}
+            />
+            <p class="movement-note">
+              Each of these stands at a single passage, named once and not held by the library. The
+              work that names it carries the anchor.
+            </p>
+            <dl class="once">
+              {onceByWork.map((g) => (
+                <>
+                  <dt>
+                    <a href={`/works/${g.work}/citations/`}>{workTitle(g.work)}</a>
+                  </dt>
+                  <dd>
+                    {g.names.map((t, i) => {
+                      const locus = t.works[0]?.loci[0];
+                      return (
+                        <>
+                          {i > 0 && <span class="once-sep"> · </span>}
+                          {t.href ? (
+                            <a href={t.href}>
+                              <em>{t.label}</em>
+                            </a>
+                          ) : locus?.href ? (
+                            <a href={locus.href} class="once-p">
+                              <em>{t.label}</em>
+                            </a>
+                          ) : (
+                            <em class="once-lost">{t.label}</em>
+                          )}
+                          {t.href && locus?.href && (
+                            <a class="once-mark" href={locus.href} aria-label={`the passage naming ${t.label}`}>¶</a>
+                          )}
+                        </>
+                      );
+                    })}
+                  </dd>
+                </>
+              ))}
+            </dl>
+          </>
+        )}
+      </section>
+    )}
+
+    {hasIn && (
+      <section id="cited-by" class="movement">
+        {/*
+          §7's single-source folio. "406 citations · from 1 work" reads as a
+          breadth claim that the second half then withdraws; the shorter form
+          states the fact once. 67 of the 171 author pages with an inbound
+          section are in that state
+          today — Euclid among them, at 406 citations, every one of them
+          from Proclus's commentary on the Elements.
+        */}
+        <RunningHead
+          title="cited by"
+          folio={
+            cb!.citingWorks === 1
+              ? `${fmt(cb!.total)} · all from one work`
+              : `${pl(cb!.total, "citation")} · from ${pl(cb!.citingWorks, "work")}`
+          }
+        />
+        <p class="movement-lede">
+          {pl(cb!.citingWorks, "work")} in the library{" "}
+          {cb!.citingWorks === 1 ? "quotes" : "quote"} {name} — {pl(cb!.total, "citation")}, each
+          anchored to a verbatim passage in the work that does the quoting.
+        </p>
+
+        {through.length > 1 && (
+          <p class="through">
+            <span class="through-label">through</span>
+            {through.map((x, i) => (
+              <>
+                {i > 0 && <span class="through-sep"> · </span>}
+                {/*
+                  The unit is spoken but not set: "Homer 278 · Iliad 91" is a
+                  legible run on the page and "Homer two hundred seventy-eight"
+                  is not a sentence. The same visually-hidden device the
+                  deity run and the atlas ledger already use.
+                */}
+                {x.href ? (
+                  <a href={x.href}>
+                    <em>{x.label}</em> {fmt(x.total)}
+                    <span class="visually-hidden">{x.total === 1 ? " citation" : " citations"}</span>
+                  </a>
+                ) : (
+                  <span>
+                    {x.label} {fmt(x.total)}
+                    <span class="visually-hidden">{x.total === 1 ? " citation" : " citations"}</span>
+                  </span>
+                )}
+              </>
+            ))}
+          </p>
+        )}
+
+        {citingAuthors.length > 1 && (
+          <>
+            <RunningHead title="by the citing author" level={3} />
+            <p class="by-author">
+              {citingAuthors.map((a, i) => (
+                <>
+                  {i > 0 && <span class="by-sep"> · </span>}
+                  {a.slug ? (
+                    <a href={`/authors/${a.slug}/`}>
+                      {a.name} {fmt(a.count)}
+                      <span class="visually-hidden">{a.count === 1 ? " citation" : " citations"}</span>
+                    </a>
+                  ) : (
+                    <span>
+                      {a.name} {fmt(a.count)}
+                      <span class="visually-hidden">{a.count === 1 ? " citation" : " citations"}</span>
+                    </span>
+                  )}
+                </>
+              ))}
+            </p>
+          </>
+        )}
+
+        <p class="movement-note">
+          The harvest records where a citation is made: the paragraph in the citing book, and the
+          chapter that paragraph stands in. It does not record which page of {name} is meant. Where
+          the citing text names a locus, you will find it in the quotation.
+        </p>
+
+        <ol class="cited-list">
+          {citedByRows.map((r, i) => (
+            <LocusEntry row={r} work={cb!.by[i]!.from} />
+          ))}
+        </ol>
+      </section>
+    )}
+
+    {!hasOut && !hasIn && (
+      <p class="lede">
+        The harvest has read neither {name}’s own works nor any work that quotes {name}. This page
+        exists because the reverse index names {name}; it has nothing to show yet. No author is in
+        that state today, and the guard stands for the next harvest rather than for this one.
+      </p>
+    )}
+
+    <footer class="colophon">
+      <Sigla />
+      <p class="colophon-line">
+        Every citation on this page was read out of the text by the harvest and anchored to the
+        paragraph that makes it. <a href="/atlas/">How the atlas is built</a> ·{" "}
+        <a href={`/authors/${slug}/`}>back to {name}</a>
+      </p>
+    </footer>
+  </div>
+</Base>
+
+<style>
+  /* 860px, not the author page's old 1240px: 19px serif across 1240px sets
+     to roughly 110 characters, twice the comfortable measure. */
+  .container {
+    max-width: 860px;
+    margin: 0 auto;
+    padding: var(--s-16) var(--s-6) var(--s-24);
+  }
+  .masthead {
+    margin-bottom: var(--s-12);
+  }
+  .crumb {
+    margin: 0 0 var(--s-2);
+    font-family: var(--font-body);
+    font-size: 16px;
+    font-variant: small-caps;
+    text-transform: lowercase;
+    letter-spacing: 0.06em;
+    color: var(--ink-muted);
+  }
+  .crumb a {
+    color: inherit;
+    text-decoration: none;
+  }
+  .crumb a:hover {
+    color: var(--accent);
+  }
+  .crumb a:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+  }
+  .crumb-sep {
+    margin: 0 var(--s-1);
+    color: var(--accent-soft);
+  }
+
+  h1 {
+    font-family: var(--font-display);
+    font-size: clamp(34px, 5.5vw, 46px);
+    font-weight: 600;
+    line-height: 1.12;
+    margin: 0 0 var(--s-4);
+    text-wrap: balance;
+  }
+  .lede {
+    font-family: var(--font-body);
+    font-size: 19px;
+    line-height: 1.6;
+    color: var(--ink-muted);
+    max-width: 62ch;
+    margin: 0 0 var(--s-4);
+    text-wrap: pretty;
+    font-variant-numeric: oldstyle-nums;
+  }
+
+  .drawn {
+    font-family: var(--font-body);
+    font-size: 17px;
+    line-height: 1.8;
+    margin: 0 0 var(--s-8);
+    max-width: 66ch;
+  }
+  .drawn-label {
+    font-variant: small-caps;
+    text-transform: lowercase;
+    letter-spacing: 0.06em;
+    color: var(--ink-muted);
+    margin-right: 0.6em;
+  }
+  .drawn a {
+    color: var(--ink);
+    text-decoration: none;
+    border-bottom: 1px solid var(--rule);
+  }
+  .drawn a:hover {
+    color: var(--accent);
+    border-color: var(--accent-soft);
+  }
+  .drawn a:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+  }
+  .drawn-sep {
+    color: var(--accent-soft);
+  }
+
+  .stance-rule {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: var(--s-2) var(--s-4);
+    border-top: 1px solid var(--rule);
+    padding-top: var(--s-3);
+    margin: 0;
+  }
+  .stance-sentence {
+    font-family: var(--font-body);
+    font-size: 15px;
+    color: var(--ink-muted);
+    font-variant-numeric: oldstyle-nums;
+  }
+
+  .movement {
+    margin-top: var(--s-16);
+    scroll-margin-top: var(--s-8);
+  }
+  .movement-lede,
+  .movement-note {
+    font-family: var(--font-body);
+    color: var(--ink-muted);
+    max-width: 62ch;
+    text-wrap: pretty;
+    font-variant-numeric: oldstyle-nums;
+  }
+  .movement-lede {
+    font-size: 18px;
+    line-height: 1.6;
+    margin: 0 0 var(--s-4);
+  }
+  .movement-note {
+    font-size: 16px;
+    line-height: 1.6;
+    margin: 0 0 var(--s-6);
+  }
+
+  /* ── the nested entry: a target, then the author's works that reach it ── */
+  .lib-list,
+  .cited-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .lib {
+    padding: var(--s-4) 0;
+    border-bottom: 1px solid var(--rule);
+    scroll-margin-top: var(--s-8);
+    break-inside: avoid;
+  }
+  .lib-lemma {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: var(--s-2) var(--s-4);
+    margin: 0;
+  }
+  .lib-name {
+    font-family: var(--font-body);
+    font-size: 21px;
+    color: var(--ink);
+  }
+  .lib-name a {
+    color: inherit;
+    text-decoration: none;
+    border-bottom: 1px solid var(--rule);
+    transition: color 150ms ease-out, border-color 150ms ease-out;
+  }
+  .lib-name a:hover {
+    color: var(--accent);
+    border-color: var(--accent-soft);
+  }
+  .lib-name a:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+  }
+  .lib-name em {
+    font-style: italic; /* not in the library — the Sigla states it once */
+  }
+  .lib-attrib {
+    font-size: 17px;
+    color: var(--ink-muted);
+    margin-left: 0.5em;
+  }
+  .lib-attrib::before {
+    content: "— ";
+    color: var(--accent-soft);
+  }
+  .lib-marks {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.6em;
+  }
+  .lib-total {
+    font-family: var(--font-body);
+    font-size: 15px;
+    font-variant-numeric: oldstyle-nums;
+    color: var(--ink-muted);
+    white-space: nowrap;
+  }
+
+  /* work · where · how many. The third column is the edge count for that
+     work, which is the number the entry's own total is the sum of. */
+  .lib-works {
+    display: grid;
+    grid-template-columns: minmax(12ch, 22ch) 1fr auto;
+    column-gap: var(--s-5);
+    row-gap: var(--s-2);
+    margin: var(--s-3) 0 0;
+    font-family: var(--font-body);
+    font-size: 17px;
+    line-height: 1.75;
+    font-variant-numeric: oldstyle-nums;
+  }
+  /* Roman, not the italic the spec drew here: on this page italic is the
+     siglum for "the library does not hold it", and every title in this
+     column is one of the author's own works. Column position and the muted
+     loci beside it already separate the two registers. */
+  .lib-works dt {
+    color: var(--ink);
+  }
+  .lib-works dd {
+    margin: 0;
+    color: var(--ink-muted);
+  }
+  .lib-count {
+    font-variant-numeric: oldstyle-nums;
+    font-size: 15px;
+    text-align: right;
+    white-space: nowrap;
+  }
+  .lib-count a::after {
+    content: " ¶";
+    color: var(--accent-soft);
+    font-size: 12px;
+  }
+  .lib-works a {
+    color: var(--ink);
+    text-decoration: none;
+    border-bottom: 1px solid var(--rule);
+  }
+  .lib-works a:hover {
+    color: var(--accent);
+    border-color: var(--accent-soft);
+  }
+  .lib-works a:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+  }
+  .lib-where a::after {
+    content: " ¶";
+    color: var(--accent-soft);
+    font-size: 12px;
+  }
+  .lib-where a.lib-rest::after {
+    content: none;
+  }
+  .lib-rest {
+    font-style: italic;
+    color: var(--ink-muted);
+  }
+  .lib-sep {
+    color: var(--accent-soft);
+  }
+  .lib-lost {
+    font-style: italic;
+    color: var(--ink-muted);
+  }
+  @media (max-width: 759px) {
+    .lib-works {
+      grid-template-columns: 1fr auto;
+      row-gap: 0;
+    }
+    .lib-works dt {
+      grid-column: 1 / -1;
+      margin-top: var(--s-3);
+    }
+  }
+
+  .lib-more > summary {
+    list-style: none;
+    cursor: pointer;
+    display: block;
+    width: fit-content;
+    font-family: var(--font-body);
+    font-size: 16px;
+    font-style: italic;
+    color: var(--ink-muted);
+    margin-top: var(--s-2);
+  }
+  .lib-more > summary::-webkit-details-marker {
+    display: none;
+  }
+  .lib-more > summary:hover {
+    color: var(--accent);
+  }
+  .lib-more > summary:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+  }
+
+  /* ── the once-named run, grouped by the work that names them ── */
+  .once {
+    display: grid;
+    grid-template-columns: minmax(14ch, 22ch) 1fr;
+    column-gap: var(--s-5);
+    row-gap: var(--s-3);
+    margin: 0;
+    font-family: var(--font-body);
+    font-size: 16px;
+    line-height: 1.8;
+  }
+  .once dt {
+    color: var(--ink);
+    border-top: 1px solid var(--rule);
+    padding-top: var(--s-2);
+  }
+  .once dd {
+    margin: 0;
+    color: var(--ink-muted);
+    border-top: 1px solid var(--rule);
+    padding-top: var(--s-2);
+  }
+  .once a {
+    color: var(--ink-muted);
+    text-decoration: none;
+    border-bottom: 1px solid var(--rule);
+  }
+  .once dt a {
+    color: var(--ink);
+  }
+  .once a:hover {
+    color: var(--accent);
+    border-color: var(--accent-soft);
+  }
+  .once a:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+  }
+  .once-p::after {
+    content: " ¶";
+    color: var(--accent-soft);
+    font-size: 11px;
+  }
+  .once-mark {
+    border-bottom: 0;
+    margin-left: 0.2em;
+    font-size: 11px;
+    color: var(--accent-soft);
+  }
+  .once-sep {
+    color: var(--accent-soft);
+  }
+  .once-lost {
+    font-style: italic;
+  }
+  @media (max-width: 759px) {
+    .once {
+      grid-template-columns: 1fr;
+      row-gap: 0;
+    }
+    .once dd {
+      border-top: 0;
+      padding-top: 0;
+      margin-bottom: var(--s-4);
+    }
+  }
+
+  /* ── cited by ── */
+  .through,
+  .by-author {
+    font-family: var(--font-body);
+    font-size: 17px;
+    line-height: 1.85;
+    color: var(--ink-muted);
+    margin: 0 0 var(--s-6);
+    max-width: 66ch;
+    font-variant-numeric: oldstyle-nums;
+  }
+  .through-label {
+    font-variant: small-caps;
+    text-transform: lowercase;
+    letter-spacing: 0.06em;
+    margin-right: 0.6em;
+  }
+  .through a,
+  .by-author a {
+    color: var(--ink);
+    text-decoration: none;
+    border-bottom: 1px solid var(--rule);
+  }
+  .through a:hover,
+  .by-author a:hover {
+    color: var(--accent);
+    border-color: var(--accent-soft);
+  }
+  .through a:focus-visible,
+  .by-author a:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+  }
+  .through-sep,
+  .by-sep {
+    color: var(--accent-soft);
+  }
+  .by-author {
+    margin-top: calc(-1 * var(--s-3));
+  }
+
+  .colophon {
+    margin-top: var(--s-16);
+    border-top: 1px solid var(--rule);
+    padding-top: var(--s-4);
+  }
+  .colophon-line {
+    font-family: var(--font-body);
+    font-size: 16px;
+    line-height: 1.6;
+    color: var(--ink-muted);
+    max-width: 62ch;
+    margin: var(--s-4) 0 0;
+  }
+  .colophon-line a {
+    color: var(--ink-muted);
+    text-decoration: none;
+    border-bottom: 1px solid var(--rule);
+  }
+  .colophon-line a:hover {
+    color: var(--accent);
+    border-color: var(--accent-soft);
+  }
+  .colophon-line a:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+  }
+</style>

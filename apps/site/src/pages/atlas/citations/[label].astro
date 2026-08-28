@@ -1,0 +1,370 @@
+---
+/**
+ * The wanted list, one entry at a time — /atlas/citations/<label>/.
+ *
+ * A page for every out-of-corpus citation target the harvest saw twice or
+ * more: the Twelve Tables, Blackstone's Commentaries, the Institutes of
+ * Justinian, Solon. 378 of them today. On the ledger these were dead text —
+ * a name and a number with nowhere to go — while the evidence for every one
+ * of those numbers already sat in corpus/graph/atlas/citations/targets/.
+ *
+ * The page is the reverse index made visible: which books in the library
+ * reach for this text, from which chapters, and in what words. Every count
+ * printed here stands one line above the loci that produce it, and every
+ * locus is a live deep link into the reader.
+ *
+ * SCOPE, stated once on the page and again here: the harvest records the
+ * passage in the CITING book, never a locus inside the cited one. Nothing
+ * on this page claims to know which page of the Twelve Tables is meant.
+ */
+import type { GetStaticPaths } from "astro";
+import Base from "../../../layouts/Base.astro";
+import RunningHead from "../../../components/atlas-ui/RunningHead.astro";
+import LocusEntry from "../../../components/atlas-ui/LocusEntry.astro";
+import Sigla from "../../../components/atlas-ui/Sigla.astro";
+import StanceMarks from "../../../components/atlas-ui/StanceMarks.astro";
+import {
+  wantedTargets,
+  citedTargetFile,
+  targetAnchor,
+  hydrateEdge,
+  liveDeps,
+  type CitationRow,
+  type TargetKey,
+  type WorkCitationEdge,
+} from "../../../lib/atlas-citations";
+import {
+  entityIndex,
+  entityHasPage,
+  KINDS,
+  fmt,
+  plural as pl,
+  type EntityIndexRow,
+} from "../../../lib/atlas-graph";
+import { findWork } from "../../../lib/corpus";
+import { breadcrumbsLd } from "../../../lib/seo";
+
+export const getStaticPaths = (() =>
+  wantedTargets()
+    // "index" would collide with this directory's own index.astro. Astro
+    // gives the static segment priority, so the collision would cost the
+    // target page rather than the ledger, but no slug is worth that: the
+    // artifact has none today (measured 0 of 378) and this keeps it so.
+    .filter((t) => t.slug !== "index")
+    .map((t) => ({
+      params: { label: t.slug },
+      props: { key: t.key as TargetKey },
+    }))) satisfies GetStaticPaths;
+
+const { key } = Astro.props as { key: TargetKey };
+const file = citedTargetFile(key);
+
+/**
+ * One citing work, hydrated as an apparatus row. The direction is reversed
+ * from the work pages — the row's subject is the CITING book and its loci
+ * are that book's own chapters — so hydrateEdge is fed a synthetic edge
+ * pointing back at the citer. That keeps one implementation of "drop a
+ * chapter the manifest no longer has" instead of a second copy here.
+ */
+function citingRow(r: NonNullable<typeof file>["by"][number]): {
+  work: string;
+  row: CitationRow;
+} {
+  const w = findWork(r.from);
+  const edge: WorkCitationEdge = {
+    target: `w:${r.from}`,
+    label: w?.title ?? r.from,
+    to_work: r.from,
+    count: r.count,
+    passages: r.passages,
+    stances: r.stances,
+    chapters: r.chapters.map((ch) => ({ ...ch, quotes: [] })),
+    // The target artifacts carry no unanchored tally: a citation the harvest
+    // could not place in a chapter is simply absent from `chapters`, and the
+    // row renders "locus not recovered" from an empty loci run.
+    unanchored: 0,
+    ...(w?.author ? { author_label: w.author } : {}),
+    ...(r.why ? { why: r.why } : {}),
+  };
+  const row = hydrateEdge(r.from, edge, liveDeps);
+  // hydrateEdge resolves an in-library target to its own citations page;
+  // here the destination is the citing work's page AT THIS TARGET's row,
+  // so the reader lands on the same evidence seen from the other side.
+  row.href = `/works/${r.from}/citations/#${targetAnchor(key)}`;
+  if (r.quote)
+    row.specimen = {
+      work: r.from,
+      quote: { p: r.quote.p, text: r.quote.text },
+      chapter: r.quote.chapter,
+      variant: r.quote.variant,
+      // `why` is already printed above the quotation by LocusEntry; a note
+      // here would set the same sentence twice under one entry.
+    };
+  return { work: r.from, row };
+}
+
+const rows = (file?.by ?? []).map(citingRow);
+const total = file?.total ?? 0;
+const citing = file?.citing_works ?? rows.length;
+const label = file?.label ?? "";
+const attrib = file?.author_label;
+
+// The same name may also stand in the entity atlas — Twelve Tables is an
+// object there, Solon a figure. Both readings are true and neither is the
+// other, so the page links across rather than folding them.
+const entity = (() => {
+  const want = label.toLowerCase();
+  let best: EntityIndexRow | null = null;
+  for (const e of entityIndex()) {
+    if (e.name.toLowerCase() !== want) continue;
+    if (!entityHasPage(e.kind, e.slug)) continue;
+    if (!best || e.mentions > best.mentions) best = e;
+  }
+  if (!best) return null;
+  const def = KINDS.find((k) => k.kind === best!.kind);
+  return def
+    ? { href: `/atlas/${def.plural}/${best.slug}/`, name: best.name, noun: best.kind }
+    : null;
+})();
+
+// Small numbers are set as words in the lede, the way a printed note sets
+// them; past twelve the numeral reads better than the word.
+const ONES = ["zero", "one", "two", "three", "four", "five", "six", "seven",
+  "eight", "nine", "ten", "eleven", "twelve"];
+const word = (n: number) => ONES[n] ?? fmt(n);
+const Word = (n: number) => {
+  const w = word(n);
+  return w.charAt(0).toUpperCase() + w.slice(1);
+};
+
+// A label with an attributed author is a work the library lacks; one without
+// is almost always a name — Solon, Chrysippus, the Stoics — and "this work"
+// would be false of it. Measured: 309 of the 378 paged labels carry an author.
+const openingLine = attrib
+  ? "The library does not hold this work."
+  : "The library holds nothing under this name.";
+
+const title = `${label} · Citations · Atlas`;
+const description = `${label}${attrib ? ` (${attrib})` : ""} is cited ${pl(
+  total,
+  "time",
+)} by ${pl(citing, "work")} in the Falsafa library, every citation anchored to the passage that makes it. The library does not hold the text itself.`;
+---
+
+<Base
+  title={title}
+  description={description.slice(0, 200)}
+  ogImage="/og/atlas.png"
+  jsonLd={[
+    breadcrumbsLd([
+      { name: "The Atlas", url: "https://falsafa.ai/atlas/" },
+      { name: "Citations", url: "https://falsafa.ai/atlas/citations/" },
+      { name: label, url: `https://falsafa.ai/atlas/citations/${Astro.params.label}/` },
+    ]),
+  ]}
+>
+  <article class="wanted">
+    <header class="masthead" data-pagefind-body>
+      <p class="crumb">
+        <a href="/atlas/">The Atlas</a>
+        <span class="crumb-sep">·</span>
+        <a href="/atlas/citations/">Citations</a>
+      </p>
+      <h1>{label}</h1>
+      {attrib && <p class="attrib">{attrib}</p>}
+      <p class="kind-line">
+        cited <a href="#cited-by">{pl(total, "time")}</a> by {pl(citing, "work")} in
+        the library <span class="sep">·</span> not held
+      </p>
+      {
+        entity && (
+          <p class="also">
+            <span class="also-label">also in the atlas: </span>
+            <a href={entity.href}>
+              {entity.name}
+              <span class="also-kind"> the {entity.noun}</span>
+            </a>
+          </p>
+        )
+      }
+      <p class="lede">
+        {openingLine}
+        {Word(citing)} of its books {citing === 1 ? "reaches" : "reach"} for it anyway
+        — that is what puts it on the corpus's wanted list.
+      </p>
+      {
+        file && (
+          <p class="stance-line">
+            <StanceMarks stances={file.stances} />
+          </p>
+        )
+      }
+    </header>
+
+    <section>
+      <RunningHead
+        title="cited by"
+        id="cited-by"
+        folio={`${pl(total, "citation")} · from ${pl(citing, "work")}`}
+      />
+      <ol class="entries">
+        {rows.map((r) => <LocusEntry row={r.row} work={r.work} />)}
+      </ol>
+      <p class="scope-note">
+        The harvest records where a citation is made: the paragraph in the
+        citing book, and the chapter that paragraph stands in. It does not
+        record which page of this text is meant. Where the citing text names a
+        locus, you will find it in the quotation.
+      </p>
+      <Sigla />
+    </section>
+
+    <p class="colophon">
+      Every row here is derived from the harvest, not curated:
+      <a href="/atlas/citations/">the citation ledger</a> holds the whole of it,
+      and <a href="/atlas/">the atlas</a> states the method.
+    </p>
+  </article>
+</Base>
+
+<style>
+  .wanted {
+    max-width: 860px;
+    margin: 0 auto;
+    padding: var(--s-16) var(--s-6) var(--s-24);
+  }
+  .masthead {
+    max-width: 720px;
+    margin-bottom: var(--s-12);
+  }
+  .crumb {
+    margin: 0 0 var(--s-2);
+    font-family: var(--font-body);
+    font-size: 16px;
+    font-variant: small-caps;
+    text-transform: lowercase;
+    letter-spacing: 0.06em;
+  }
+  .crumb a {
+    color: var(--ink-muted);
+    text-decoration: none;
+  }
+  .crumb a:hover {
+    color: var(--accent);
+  }
+  .crumb-sep {
+    color: var(--accent-soft);
+    margin: 0 0.4em;
+  }
+  /* The title is set roman even though the library does not hold the text:
+     roman-vs-italic is the siglum of an apparatus RUN, and a page title is
+     not a row in one. The kind-line says "not held" in words instead. */
+  h1 {
+    font-family: var(--font-display);
+    font-size: clamp(34px, 5.5vw, 46px);
+    font-weight: 600;
+    line-height: 1.1;
+    margin: 0 0 var(--s-1);
+  }
+  .attrib {
+    margin: 0 0 var(--s-3);
+    font-family: var(--font-body);
+    font-size: 19px;
+    color: var(--ink-muted);
+  }
+  .attrib::before {
+    content: "— ";
+    color: var(--accent-soft);
+  }
+  .kind-line {
+    margin: 0 0 var(--s-3);
+    font-family: var(--font-body);
+    font-size: 17px;
+    font-variant-numeric: oldstyle-nums;
+    color: var(--ink-muted);
+  }
+  .kind-line a {
+    color: var(--ink);
+    text-decoration: none;
+    border-bottom: 1px solid var(--rule);
+  }
+  .kind-line a:hover {
+    color: var(--accent);
+    border-color: var(--accent-soft);
+  }
+  .sep {
+    color: var(--accent-soft);
+  }
+  .also {
+    margin: 0 0 var(--s-3);
+    font-family: var(--font-body);
+    font-size: 17px;
+    color: var(--ink-muted);
+  }
+  .also-label {
+    font-variant: small-caps;
+    text-transform: lowercase;
+    letter-spacing: 0.05em;
+  }
+  .also a {
+    color: var(--ink);
+    text-decoration: none;
+    border-bottom: 1px solid var(--rule);
+  }
+  .also a:hover {
+    color: var(--accent);
+    border-color: var(--accent-soft);
+  }
+  .also-kind {
+    color: var(--ink-muted);
+  }
+  .lede {
+    font-family: var(--font-body);
+    font-size: 19px;
+    line-height: 1.65;
+    color: var(--ink);
+    margin: 0 0 var(--s-4);
+    max-width: 62ch;
+    text-wrap: pretty;
+    font-variant-numeric: oldstyle-nums;
+  }
+  .stance-line {
+    border-top: 1px solid var(--rule);
+    padding-top: var(--s-3);
+    margin: 0;
+  }
+
+  section {
+    margin-bottom: var(--s-12);
+  }
+  .entries {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .scope-note,
+  .colophon {
+    font-family: var(--font-body);
+    font-size: 16px;
+    line-height: 1.6;
+    color: var(--ink-muted);
+    max-width: 62ch;
+  }
+  .scope-note {
+    margin: var(--s-6) 0 0;
+  }
+  .colophon {
+    margin: var(--s-12) 0 0;
+    border-top: 1px solid var(--rule);
+    padding-top: var(--s-3);
+  }
+  .colophon a {
+    color: var(--ink);
+    text-decoration: none;
+    border-bottom: 1px solid var(--rule);
+  }
+  .colophon a:hover {
+    color: var(--accent);
+    border-color: var(--accent-soft);
+  }
+</style>

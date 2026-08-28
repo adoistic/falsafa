@@ -14,6 +14,7 @@
  */
 import { readParagraphSidecar, type ChapterFrontmatter } from "../lib/corpus";
 import { renderMarkdownWithParagraphIds } from "../lib/inject-paragraph-ids";
+import verseBlocks from "../data/verse-blocks.json";
 
 interface Props {
   body: string;
@@ -25,9 +26,14 @@ interface Props {
   /** The variant's `file` field (e.g. "translation.md"). Needed to
    *  pick the correct sidecar (`translation.paragraphs.json`). */
   variantFile?: string;
+  /** BCP-47 language + direction of the body text. Original-script pages
+   *  (Urdu, Greek, Sanskrit) must not present as English LTR to crawlers
+   *  and screen readers; the chrome around the body stays LTR. */
+  lang?: string;
+  dir?: "ltr" | "rtl";
 }
 
-const { body, frontmatter, workSlug, chapterSlug, variantFile } = Astro.props;
+const { body, frontmatter, workSlug, chapterSlug, variantFile, lang, dir } = Astro.props;
 
 // Strip leading boilerplate that pollutes some chapters: a leading line equal
 // to the work title, a leading "===" rule, redundant Source: lines, the
@@ -52,7 +58,28 @@ const sidecar =
   workSlug && chapterSlug && variantFile
     ? readParagraphSidecar(workSlug, chapterSlug, variantFile)
     : [];
-const html = renderMarkdownWithParagraphIds(cleaned, sidecar);
+let html = renderMarkdownWithParagraphIds(cleaned, sidecar);
+
+// Embedded-verse styling: paragraphs the audio pipeline classified as verse
+// inside prose chapters get .verse-inline (line breaks + poetic treatment).
+// Keyed by the same p-ids the citation system injects, so this is a cheap
+// string pass over blocks that already carry their anchor.
+const verseIds: string[] =
+  (workSlug &&
+    chapterSlug &&
+    (verseBlocks as Record<string, Record<string, string[]>>)[workSlug]?.[chapterSlug]) ||
+  [];
+// Dedupe (identical refrains hash to the same p-id and appear repeatedly in
+// the sidecar) and replace globally so every occurrence is styled once.
+for (const vid of new Set(verseIds)) {
+  html = html.replace(
+    new RegExp(`(<[a-zA-Z0-9]+ id="${vid}")([^>]*)>`, "g"),
+    (_m, head: string, attrs: string) =>
+      /class\s*=\s*"/.test(attrs)
+        ? `${head}${attrs.replace(/class\s*=\s*"/, 'class="verse-inline ')}>`
+        : `${head} class="verse-inline"${attrs}>`,
+  );
+}
 
 // Only English translation variants are indexed by Pagefind. Transliterations
 // (romanized) and originals (source script) are quote-only material and would
@@ -67,9 +94,9 @@ const indexable =
 
 {
   indexable ? (
-    <div class="reader-body" data-pagefind-body set:html={html} />
+    <div class="reader-body" data-pagefind-body lang={lang} dir={dir} set:html={html} />
   ) : (
-    <div class="reader-body" set:html={html} />
+    <div class="reader-body" lang={lang} dir={dir} set:html={html} />
   )
 }
 

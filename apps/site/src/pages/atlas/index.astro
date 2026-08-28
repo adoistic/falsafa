@@ -19,7 +19,11 @@ import {
   themeRows,
   KINDS,
   fmt,
+  plural as pl,
+  type CitedTarget,
 } from "../../lib/atlas-graph";
+import { citationsIndex, targetHref } from "../../lib/atlas-citations";
+import { findWork } from "../../lib/corpus";
 
 const meta = atlasMeta();
 
@@ -42,6 +46,11 @@ const kindLedger = meta
     })
   : [];
 
+// The ledger's own totals, so the link to it names what is behind it rather
+// than sending the reader off to find out: 746 targets recur widely enough
+// to hold a page, drawn from the 482 works that cite anything.
+const citTotals = citationsIndex()?.totals ?? null;
+
 const topWorks = meta ? citedTargets("work").slice(0, 8) : [];
 const topAuthors = meta ? citedTargets("author").slice(0, 8) : [];
 const topThemes = meta ? themeRows().slice(0, 18) : [];
@@ -49,8 +58,23 @@ const topThemes = meta ? themeRows().slice(0, 18) : [];
 // one exemplary evidence quote for the method section: the most-cited
 // work's sample — a real, clickable proof of the discipline.
 const proof = topWorks.find((t) => t.sample?.quote)?.sample;
+// The method section's proof quote belongs to no subject — this page has
+// none — so the work it comes from has to be named in the caption, or the
+// locus reads "ch. 1" of nothing in particular.
+const proofTitle = proof ? findWork(proof.from)?.title : undefined;
 
-const beacon = meta?.sync?.beacon;
+/**
+ * Spec §7's single-source authority. A target whose every citation comes
+ * from one book must not print "406 citations · from 1 work": the plural
+ * count beside the singular source reads as an unfinished sentence. None of
+ * the 8 rows on this page is single-source today (the shallowest draws on
+ * 16 works), so this is the copy the ledger takes when the harvest deepens.
+ */
+const sourceLine = (t: CitedTarget) =>
+  t.citingWorks.size === 1
+    ? `${fmt(t.total)} · all from one work`
+    : `${pl(t.total, "citation")} · from ${pl(t.citingWorks.size, "work")}`;
+
 const asOf = meta
   ? new Date(meta.generated_at).toLocaleDateString("en-US", {
       year: "numeric",
@@ -124,7 +148,10 @@ const pageDescription = meta
                         <span class="kind-top"> — {k.top.join(", ")} …</span>
                       )}
                     </span>
-                    <span class="kind-count">{fmt(k.count)}</span>
+                    <span class="kind-count">
+                      {fmt(k.count)}
+                      <span class="visually-hidden"> {k.label.toLowerCase()}</span>
+                    </span>
                   </a>
                 </li>
               ))}
@@ -143,57 +170,87 @@ const pageDescription = meta
             <p class="section-note">
               Each time a text names another work or author, the harvest
               records the stance — cited as authority, endorsed, refuted,
-              extended, or merely reported.
+              extended, or merely reported. Every row below opens on the
+              passages that do the citing; a name in italic is one the
+              library does not hold under a page of its own.
             </p>
             <div class="cited-cols">
               <div>
                 <h3 class="cited-h">Most-cited works</h3>
                 <ol class="cited-ledger">
-                  {topWorks.map((t) => (
-                    <li>
-                      <span class="cited-label">
-                        {t.to_work ? (
-                          <a href={`/works/${t.to_work}/`}>{t.label}</a>
-                        ) : (
-                          t.label
-                        )}
-                      </span>
-                      <StanceMarks stances={t.stances} />
-                    </li>
-                  ))}
+                  {topWorks.map((t) => {
+                    const href = targetHref({
+                      target: t.targetKey,
+                      to_work: t.to_work,
+                    });
+                    return (
+                      <li>
+                        <span class="cited-label">
+                          {href ? (
+                            <a href={href}>{t.label}</a>
+                          ) : (
+                            <em>{t.label}</em>
+                          )}
+                        </span>
+                        <span class="cited-meta">
+                          <StanceMarks stances={t.stances} />
+                          <span class="cited-n">{sourceLine(t)}</span>
+                        </span>
+                      </li>
+                    );
+                  })}
                 </ol>
               </div>
               <div>
                 <h3 class="cited-h">Most-cited authors</h3>
                 <ol class="cited-ledger">
-                  {topAuthors.map((t) => (
-                    <li>
-                      <span class="cited-label">
-                        {t.to_author ? (
-                          <a href={`/authors/${t.to_author}/`}>{t.label}</a>
-                        ) : (
-                          t.label
-                        )}
-                      </span>
-                      <StanceMarks stances={t.stances} />
-                    </li>
-                  ))}
+                  {topAuthors.map((t) => {
+                    const href = targetHref({
+                      target: t.targetKey,
+                      to_author: t.to_author,
+                    });
+                    return (
+                      <li>
+                        <span class="cited-label">
+                          {href ? (
+                            <a href={href}>{t.label}</a>
+                          ) : (
+                            <em>{t.label}</em>
+                          )}
+                        </span>
+                        <span class="cited-meta">
+                          <StanceMarks stances={t.stances} />
+                          <span class="cited-n">{sourceLine(t)}</span>
+                        </span>
+                      </li>
+                    );
+                  })}
                 </ol>
               </div>
             </div>
             <p class="more-link">
               <a href="/atlas/citations/">The full citation ledger</a>
+              {citTotals && (
+                <>
+                  {" "}
+                  — {pl(citTotals.targets_paged ?? 0, "recurring target")}{" "}
+                  across {pl(citTotals.citing_works ?? 0, "citing work")}, and
+                  the wanted list: the texts the library does not hold but its
+                  books keep reaching for.
+                </>
+              )}
             </p>
           </section>
 
           <section>
+            {/* One date on the page. The sync beacon and the synthesis run
+                are hours apart, and printing both made the same harvest look
+                like two — "harvest of July 22" beside a colophon reading
+                July 30. The colophon's date is the one the numbers came
+                from, so it is the only one anybody sees. */}
             <RunningHead
               title="the shape of the harvest"
-              folio={
-                beacon?.generated_at
-                  ? `harvest of ${new Date(beacon.generated_at).toLocaleDateString("en-US", { month: "long", day: "numeric" })}`
-                  : undefined
-              }
+              folio={asOf ? `harvest of ${asOf}` : undefined}
             />
             <p class="section-note">
               Mapping began with the classical core — the Greek, Latin,
@@ -256,7 +313,8 @@ const pageDescription = meta
               {proof?.quote && (
                 <QuoteBlock
                   work={proof.from}
-                  workTitle="one such anchor, read in place"
+                  workTitle={proofTitle}
+                  caption="one such anchor, read in place"
                   quote={proof.quote}
                 />
               )}
@@ -416,6 +474,24 @@ const pageDescription = meta
   .cited-label a:hover {
     color: var(--accent);
     border-color: var(--accent-soft);
+  }
+  .cited-label em {
+    font-style: italic;
+  }
+  /* The stance split and the totals read as one apparatus line, wrapping
+     together on a narrow column rather than stacking into a third row. */
+  .cited-meta {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    column-gap: var(--s-3);
+    row-gap: 2px;
+  }
+  .cited-n {
+    font-family: var(--font-body);
+    font-size: 15px;
+    font-variant-numeric: oldstyle-nums;
+    color: var(--ink-muted);
   }
   .more-link {
     margin-top: var(--s-4);

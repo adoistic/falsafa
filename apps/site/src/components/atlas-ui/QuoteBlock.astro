@@ -5,23 +5,25 @@
  * "No claim without a quote," made visible.
  */
 import { quoteHref, type QuoteRef } from "../../lib/atlas-graph";
+import { locusLabel } from "../../lib/corpus";
 
 interface Props {
   work: string; // work slug (for the deep link)
-  workTitle?: string; // display title; omit to caption with the chapter instead
+  /** display title — ONLY when the quote comes from a work other than the
+   *  page's subject. It is prepended to the locus, never a substitute for it. */
+  workTitle?: string;
+  /** an extra clause after the locus (the harvest's role/hint prose).
+   *  Never replaces the locus — that was the bug this prop retires. */
+  caption?: string;
   quote: QuoteRef;
 }
-const { work, workTitle, quote } = Astro.props;
+const { work, workTitle, caption: extra, quote } = Astro.props;
 const href = quoteHref(work, quote);
-// "03-on-the-crown" → "on the crown"; numeric-only slugs → "chapter 3"
-function chapterLabel(slug?: string): string {
-  if (!slug) return "read in place";
-  const tail = slug.replace(/^\d+[-–]?/, "").replace(/-/g, " ").trim();
-  if (tail) return tail;
-  const n = parseInt(slug, 10);
-  return Number.isFinite(n) ? `chapter ${n}` : "read in place";
-}
-const caption = workTitle ?? chapterLabel(quote.chapter);
+// The locus is the provenance and is never dropped: before this, a caller
+// passing workTitle got its string INSTEAD of the chapter, so the ledger's
+// headline evidence read "cited as authority ¶" — how, never where.
+const locus = quote.chapter ? locusLabel(work, quote.chapter) : "locus not recovered";
+const caption = [workTitle, locus, extra].filter(Boolean).join(" · ");
 ---
 
 <figure class="quote-block">
@@ -34,7 +36,7 @@ const caption = workTitle ?? chapterLabel(quote.chapter);
           <span class="pmark">¶</span>
         </a>
       ) : (
-        <span>{caption}</span>
+        <span class="qb-lost">{caption}</span>
       )
     }
   </figcaption>
@@ -69,6 +71,11 @@ const caption = workTitle ?? chapterLabel(quote.chapter);
   figcaption a:hover {
     color: var(--accent);
     border-color: var(--accent-soft);
+  }
+  /* no deep link exists for this quote — the caption is all the provenance
+     there is, and italic says so rather than looking like a dead link */
+  .qb-lost {
+    font-style: italic;
   }
   .pmark {
     color: var(--accent);

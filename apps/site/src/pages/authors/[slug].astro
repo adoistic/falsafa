@@ -1,8 +1,18 @@
 ---
 import type { GetStaticPaths } from "astro";
 import Base from "../../layouts/Base.astro";
+import { personLd } from "../../lib/seo";
 import WorkCardGrid from "../../components/WorkCardGrid.astro";
+import Gathering from "../../components/atlas-ui/Gathering.astro";
 import { manifest } from "../../lib/corpus";
+import { plural as pl, entityHasPage } from "../../lib/atlas-graph";
+import {
+  authorCitationsOut,
+  authorCitedBy,
+  citationsIndex,
+  citingWorkSlugs,
+  targetAnchor,
+} from "../../lib/atlas-citations";
 
 export const getStaticPaths = (() => {
   const m = manifest();
@@ -27,6 +37,30 @@ const eras = [...erasSet];
 const languagesSet = new Set(authorWorks.map((w) => w.language));
 const languages = [...languagesSet];
 
+// The atlas conspectus. Until now this page had no citation content at all
+// — the word did not occur in it — while /atlas/citations/, every entity
+// page, the ledger and the work pages all linked in. Four surfaces pointed
+// here and this page pointed nowhere back.
+//
+// Only authors with at least one harvested work are folded out (the fold
+// reads one JSON per work); the reverse index is a single keyed lookup and
+// is always safe to ask for. Both return null when the artifacts are absent
+// from a fresh clone, and every branch below is gated on that.
+const harvestedAny = workSlugs.some((w) => citingWorkSlugs().has(w));
+const out = harvestedAny ? authorCitationsOut(workSlugs) : null;
+const cb = authorCitedBy(authorSlug, workSlugs);
+const citesN = out?.totals.citations ?? 0;
+const citedN = cb?.citingWorks ?? 0;
+const citedTotal = cb?.total ?? 0;
+const hasCitations = citesN > 0 || citedTotal > 0;
+const topOut = out ? out.standing.slice(0, 6) : [];
+const idx = citationsIndex();
+const asOf = idx
+  ? new Intl.DateTimeFormat("en-US", { month: "long", day: "numeric", timeZone: "UTC" })
+      .format(new Date(idx.generated_at))
+      .toLowerCase()
+  : "";
+
 // "Unknown" is a real bucket of 21 anonymous works (smṛtis, tattvas, etc.)
 // that deserves a graceful landing page rather than a placeholder name.
 const isUnknown = authorSlug === "unknown";
@@ -38,7 +72,7 @@ const description = isUnknown
       .join(", ")}.`;
 ---
 
-<Base title={headingName} description={description}>
+<Base jsonLd={[personLd(authorName, authorSlug)]} title={headingName} description={description}>
   <div class="container">
     <header class="page-header">
       <p class="kicker">Author</p>
@@ -77,12 +111,82 @@ const description = isUnknown
     </header>
 
     <WorkCardGrid works={authorWorks} />
+
+    <section class="author-atlas">
+      <Gathering
+        leaves={[
+          { label: "works", current: true, count: authorWorks.length },
+          hasCitations
+            ? {
+                label: "citations",
+                href: `/authors/${authorSlug}/citations/`,
+                count: citesN + citedTotal,
+              }
+            : { label: "citations", note: "not yet harvested" },
+        ]}
+        folio={hasCitations && asOf ? `the harvest of ${asOf}` : undefined}
+        label={`Views of ${headingName}`}
+      />
+
+      {citesN > 0 && topOut.length > 0 && (
+        <p class="aa-line">
+          <span class="aa-label">most drawn on</span>
+          {topOut.map((t, i) => (
+            <>
+              {i > 0 && <span class="aa-sep"> · </span>}
+              <a href={`/authors/${authorSlug}/citations/#${targetAnchor(t.key)}`}>{t.label}</a>
+            </>
+          ))}
+          <span class="aa-tail">
+            — {pl(citesN, "citation")} in all,{" "}
+            <a href={`/authors/${authorSlug}/citations/`}>the library of {headingName}</a>.
+          </span>
+        </p>
+      )}
+      {/* Every source is named once or twice, so there is no run to print —
+          but the count still has to be stated and still has to be a link. */}
+      {citesN > 0 && topOut.length === 0 && (
+        <p class="aa-line">
+          <span class="aa-label">cites</span>
+          <a href={`/authors/${authorSlug}/citations/`}>{pl(out!.totals.targets, "source")}</a>,{" "}
+          {pl(citesN, "citation")} in all, none of them drawn on twice.
+        </p>
+      )}
+
+      {citedTotal > 0 && (
+        <p class="aa-line">
+          <span class="aa-label">cited by</span>
+          <a href={`/authors/${authorSlug}/citations/#cited-by`}>{pl(citedN, "work")}</a> in the
+          library, {pl(citedTotal, "time")} in all.
+        </p>
+      )}
+
+      {entityHasPage("figure", authorSlug) && (
+        <p class="aa-line">
+          <span class="aa-label">in the atlas</span>
+          <a href={`/atlas/figures/${authorSlug}/`}>{headingName} as a named figure</a> — the same
+          name as a subject the corpus speaks about, not a shelf it reads from.
+        </p>
+      )}
+
+      {!hasCitations && (
+        <p class="aa-line aa-empty">
+          {harvestedAny
+            ? `The harvest has read these works and recorded no citation out of them, and no work in the library cites ${headingName} yet.`
+            : `None of these works has been read by the harvest yet, and no work in the library cites ${headingName} yet.`}{" "}
+          <a href="/atlas/">How the atlas is built</a>
+        </p>
+      )}
+    </section>
   </div>
 </Base>
 
 <style>
+  /* 860px, not 1240px: 19px serif across 1240px sets to roughly 110
+     characters, twice the comfortable measure for the lede and the
+     conspectus lines below the grid. */
   .container {
-    max-width: 1240px;
+    max-width: 860px;
     margin: 0 auto;
     padding: var(--s-12) var(--s-8) var(--s-24);
   }
@@ -126,14 +230,19 @@ const description = isUnknown
     gap: var(--s-4);
     padding-top: var(--s-6);
     border-top: 1px solid var(--rule);
-    font-family: var(--font-sans);
     margin: 0;
   }
 
+  /* Small-caps serif, not the 12px tracked sans eyebrow: that idiom was
+     retired site-wide by RunningHead, and it was sitting three lines under
+     a correct small-caps .kicker on this very page. */
   .meta-grid dt {
-    font-size: 12px;
-    text-transform: uppercase;
-    letter-spacing: 0.08em;
+    font-family: var(--font-body);
+    font-size: 15px;
+    font-weight: 600;
+    font-variant: small-caps;
+    text-transform: lowercase;
+    letter-spacing: 0.06em;
     color: var(--ink-muted);
     margin-bottom: var(--s-1);
   }
@@ -142,5 +251,48 @@ const description = isUnknown
     font-size: var(--fs-body);
     margin: 0;
     color: var(--ink);
+  }
+
+  .author-atlas {
+    margin-top: var(--s-16);
+  }
+  .aa-line {
+    font-family: var(--font-body);
+    font-size: 17px;
+    line-height: 1.85;
+    color: var(--ink-muted);
+    max-width: 70ch;
+    margin: var(--s-3) 0 0;
+    text-wrap: pretty;
+    font-variant-numeric: oldstyle-nums;
+  }
+  .aa-label {
+    font-variant: small-caps;
+    text-transform: lowercase;
+    letter-spacing: 0.06em;
+    margin-right: 0.6em;
+  }
+  .aa-line a {
+    color: var(--ink);
+    text-decoration: none;
+    border-bottom: 1px solid var(--rule);
+    transition: color 150ms ease-out, border-color 150ms ease-out;
+  }
+  .aa-line a:hover {
+    color: var(--accent);
+    border-color: var(--accent-soft);
+  }
+  .aa-line a:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+  }
+  .aa-sep {
+    color: var(--accent-soft);
+  }
+  .aa-tail {
+    color: var(--ink-muted);
+  }
+  .aa-empty {
+    font-style: italic;
   }
 </style>

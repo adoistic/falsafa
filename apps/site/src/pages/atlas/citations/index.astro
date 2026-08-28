@@ -3,24 +3,138 @@
  * The citation ledger — /atlas/citations/. The stance-typed citation graph
  * as a catalogue: most-cited works and authors with their stance profiles
  * and one verbatim anchor each. Fully derived; grows with the harvest.
+ *
+ * Three things this page had to stop doing:
+ *
+ *  1. Printing a ⌂ in the works section whose legend sat at the foot of the
+ *     authors section, carried in a title= attribute that touch cannot reach
+ *     and most screen readers do not speak. Roman for a text the library
+ *     holds, italic for one it does not, and the Sigla legend at the foot of
+ *     every section — the same siglum the rest of the apparatus uses.
+ *  2. Printing "60 shown" as a folio. The number was computed after
+ *     .slice(0, 60) on a list of 12,637 work targets, so it said the same
+ *     thing on every ledger and told the reader nothing about the depth
+ *     beneath it. Every folio now names its denominator.
+ *  3. Refusing to link pages that exist. An unresolved label went out as
+ *     plain text even when /atlas/citations/<slug>/ or /atlas/figures/<slug>/
+ *     was live. Measured after the fix: 115 of the 120 rows on this page now
+ *     have a destination, against 45 before — and the 5 that still do not
+ *     ("Athenian law", "the poets") are names no page anywhere answers to.
  */
 import Base from "../../../layouts/Base.astro";
 import RunningHead from "../../../components/atlas-ui/RunningHead.astro";
 import StanceMarks from "../../../components/atlas-ui/StanceMarks.astro";
 import QuoteBlock from "../../../components/atlas-ui/QuoteBlock.astro";
+import Sigla from "../../../components/atlas-ui/Sigla.astro";
 import {
   atlasMeta,
   citedTargets,
+  entityIndex,
+  entityHasPage,
+  KINDS,
   STANCES,
   fmt,
   plural as pl,
+  type CitedTarget,
+  type Stance,
 } from "../../../lib/atlas-graph";
+import {
+  citationsIndex,
+  indexLetter,
+  targetHref,
+  type IndexTarget,
+} from "../../../lib/atlas-citations";
 
 const meta = atlasMeta();
-const works = meta ? citedTargets("work").slice(0, 60) : [];
-const authors = meta ? citedTargets("author").slice(0, 60) : [];
-const stances = meta?.stances ?? {};
-const stanceTotal = Object.values(stances).reduce((s, n) => s + (n ?? 0), 0);
+const SHOWN = 60;
+const allWorks = meta ? citedTargets("work") : [];
+const allAuthors = meta ? citedTargets("author") : [];
+const works = allWorks.slice(0, SHOWN);
+const authors = allAuthors.slice(0, SHOWN);
+const stances = (meta?.stances ?? {}) as Partial<Record<Stance, number>>;
+const stanceTotal = Object.values(stances).reduce<number>((s, n) => s + (n ?? 0), 0);
+
+const index = citationsIndex();
+const indexRows = index?.targets ?? [];
+const namedOnce = index?.totals.targets_named_once ?? 0;
+
+// Out-of-corpus labels that earned their own page, by the label the ledger
+// prints. A ledger row groups by one side of the citation and so does not
+// always carry the artifact key the fold produced; where it does not, the
+// label itself resolves. Measured against the 75 rows on this page the
+// library does not hold: 30 reach a wanted-list page through the artifact
+// key, 21 more through the label — Solon, Cicero, Blackstone's Commentaries.
+const pagedByLabel = new Map<string, string>();
+for (const t of indexRows)
+  if (t.kind === "label" && t.file) pagedByLabel.set(t.label.toLowerCase(), t.slug);
+
+// The entity atlas is the last resort: 25 of 25 probed author names — Paul,
+// Moses, Cicero — already had a live /atlas/figures/<slug>/ that this ledger
+// was refusing to link. Where a name is paged as more than one kind of thing
+// the deepest evidence wins, the same rule the entity ledgers use.
+const entityByName = new Map<string, { href: string; kind: string; mentions: number }>();
+for (const e of entityIndex()) {
+  if (!entityHasPage(e.kind, e.slug)) continue;
+  const def = KINDS.find((k) => k.kind === e.kind);
+  if (!def) continue;
+  const k = e.name.toLowerCase();
+  const cur = entityByName.get(k);
+  if (cur && cur.mentions >= e.mentions) continue;
+  entityByName.set(k, {
+    href: `/atlas/${def.plural}/${e.slug}/`,
+    kind: e.kind,
+    mentions: e.mentions,
+  });
+}
+
+/**
+ * Where a ledger row goes, in resolution order: the library's own page for
+ * the text or the author, then the wanted-list page for a recurring label,
+ * then the entity atlas, then nowhere — and a row that resolves to nowhere
+ * is set in italic and left unlinked rather than dressed as a link.
+ */
+function rowHref(t: CitedTarget): string | null {
+  if (t.to_work) return `/works/${t.to_work}/citations/#cited-by`;
+  if (t.to_author) return `/authors/${t.to_author}/citations/#cited-by`;
+  const viaKey = t.targetKey ? targetHref({ key: t.targetKey }) : null;
+  if (viaKey) return viaKey;
+  const paged = pagedByLabel.get(t.label.toLowerCase());
+  if (paged) return `/atlas/citations/${paged}/`;
+  return entityByName.get(t.label.toLowerCase())?.href ?? null;
+}
+
+const stanceLabel = (s: Stance) =>
+  STANCES.find((x) => x.stance === s)?.label.toLowerCase() ?? s;
+
+/**
+ * Spec §7's single-source authority. A target whose every citation comes
+ * from one book must not print "406 citations · from 1 work": the plural
+ * count beside the singular source reads as an unfinished sentence. None of
+ * the 120 rows on this page is single-source today — the shallowest draws
+ * on 5 works — so this is the copy the ledger takes as the harvest deepens.
+ */
+const sourceLine = (t: CitedTarget) =>
+  t.citingWorks.size === 1
+    ? `${fmt(t.total)} · all from one work`
+    : `${pl(t.total, "citation")} · from ${pl(t.citingWorks.size, "work")}`;
+
+// The complete index of paged targets, alphabetized with leading articles
+// ignored. Every one of these 746 rows has a destination by construction:
+// it is either held by the library or has earned a wanted-list page.
+const letters = (() => {
+  const sorted = indexRows.slice().sort((a, b) => {
+    const A = indexLetter(a.label),
+      B = indexLetter(b.label);
+    return A < B ? -1 : A > B ? 1 : a.label < b.label ? -1 : a.label > b.label ? 1 : 0;
+  });
+  const out: { letter: string; items: IndexTarget[] }[] = [];
+  for (const r of sorted) {
+    const L = indexLetter(r.label);
+    if (out.at(-1)?.letter !== L) out.push({ letter: L, items: [] });
+    out.at(-1)!.items.push(r);
+  }
+  return out;
+})();
 ---
 
 <Base
@@ -38,12 +152,11 @@ const stanceTotal = Object.values(stances).reduce((s, n) => s + (n ?? 0), 0);
             ? `${fmt(meta.totals.citations)} citations drawn from ${pl(meta.works_harvested, "work")} so far. When a text names another work or author, the harvest records how: `
             : "When a text names another work or author, the harvest records how: "
         }
+        {/* the separator and the label share one line: a newline inside the
+            fragment is a text node, and it printed as "authority , neutral" */}
         {
           STANCES.map((s, i) => (
-            <>
-              {i > 0 && ", "}
-              <span class="stance-word">{s.label.toLowerCase()}</span>
-            </>
+            <>{i > 0 ? ", " : ""}<span class="stance-word">{s.label.toLowerCase()}</span></>
           ))
         }.
       </p>
@@ -64,76 +177,133 @@ const stanceTotal = Object.values(stances).reduce((s, n) => s + (n ?? 0), 0);
     </header>
 
     <section>
-      <RunningHead title="most-cited works" folio={`${fmt(works.length)} shown`} />
+      <RunningHead
+        title="most-cited works"
+        folio={`${fmt(works.length)} of ${fmt(allWorks.length)}`}
+      />
       <ol class="ledger">
         {
-          works.map((t) => (
-            <li class="entry">
-              <div class="entry-head">
-                <span class="entry-label">
-                  {t.to_work ? (
-                    <a href={`/works/${t.to_work}/`}>{t.label}</a>
-                  ) : (
-                    t.label
-                  )}
-                  {t.to_work && <span class="in-lib" title="in the library">⌂</span>}
-                </span>
-                <span class="entry-count">
-                  {fmt(t.total)} · from {pl(t.citingWorks.size, "work")}
-                </span>
-              </div>
-              <StanceMarks stances={t.stances} />
-              {t.sample?.quote && (
-                <details class="anchor">
-                  <summary>one anchor</summary>
-                  <QuoteBlock
-                    work={t.sample.from}
-                    workTitle={`cited ${t.sample.stance === "authority" ? "as authority" : `— ${t.sample.stance}`}`}
-                    quote={t.sample.quote}
-                  />
-                </details>
-              )}
-            </li>
-          ))
+          works.map((t) => {
+            const href = rowHref(t);
+            const Label = t.to_work ? "span" : "em";
+            return (
+              <li class="entry">
+                <div class="entry-head">
+                  <span class="entry-label">
+                    {href ? <a href={href}><Label>{t.label}</Label></a> : <Label>{t.label}</Label>}
+                  </span>
+                  <span class="entry-count">{sourceLine(t)}</span>
+                </div>
+                <StanceMarks stances={t.stances} />
+                {t.sample?.quote && (
+                  <details class="anchor">
+                    <summary>one anchor</summary>
+                    <QuoteBlock
+                      work={t.sample.from}
+                      quote={t.sample.quote}
+                      caption={stanceLabel(t.sample.stance)}
+                    />
+                  </details>
+                )}
+              </li>
+            );
+          })
         }
       </ol>
+      <Sigla />
     </section>
 
     <section>
       <RunningHead
         title="most-cited authors"
-        folio={`${fmt(authors.length)} shown`}
+        folio={`${fmt(authors.length)} of ${fmt(allAuthors.length)}`}
       />
       <ol class="ledger">
         {
-          authors.map((t) => (
-            <li class="entry">
-              <div class="entry-head">
-                <span class="entry-label">
-                  {t.to_author ? (
-                    <a href={`/authors/${t.to_author}/`}>{t.label}</a>
-                  ) : (
-                    t.label
-                  )}
-                  {t.to_author && (
-                    <span class="in-lib" title="in the library">⌂</span>
-                  )}
-                </span>
-                <span class="entry-count">
-                  {fmt(t.total)} · from {pl(t.citingWorks.size, "work")}
-                </span>
-              </div>
-              <StanceMarks stances={t.stances} />
-            </li>
-          ))
+          authors.map((t) => {
+            const href = rowHref(t);
+            const Label = t.to_author ? "span" : "em";
+            return (
+              <li class="entry">
+                <div class="entry-head">
+                  <span class="entry-label">
+                    {href ? <a href={href}><Label>{t.label}</Label></a> : <Label>{t.label}</Label>}
+                  </span>
+                  <span class="entry-count">{sourceLine(t)}</span>
+                </div>
+                <StanceMarks stances={t.stances} />
+                {/* An author row printed a name, a number and nothing else:
+                    "Homer, 419 citations from 126 works" with no way to check
+                    a single one of them. It gets the works' own evidence. */}
+                {t.sample?.quote && (
+                  <details class="anchor">
+                    <summary>one anchor</summary>
+                    <QuoteBlock
+                      work={t.sample.from}
+                      quote={t.sample.quote}
+                      caption={stanceLabel(t.sample.stance)}
+                    />
+                  </details>
+                )}
+              </li>
+            );
+          })
         }
       </ol>
-      <p class="foot-note">
-        ⌂ marks targets present in the library — the rest are the corpus's
-        <em> wanted list</em>: works and authors the texts reach for that the
-        library does not yet hold.
-      </p>
+      <Sigla />
     </section>
+
+    {
+      indexRows.length > 0 && (
+        <section>
+          <RunningHead
+            title="the complete index"
+            folio={`${pl(indexRows.length, "recurring target")} · ${fmt(namedOnce)} named once`}
+          />
+          <div class="ledger-index">
+            {letters.map((g) => (
+              <>
+                <h3 class="ix-letter">{g.letter}</h3>
+                <ol class="ix-list">
+                  {g.items.map((t) => {
+                    const href = targetHref(t);
+                    const held = Boolean(t.to_work || t.to_author);
+                    return (
+                      <li class="ix">
+                        <span class="ix-label">
+                          {href ? (
+                            <a href={href}>{held ? t.label : <em>{t.label}</em>}</a>
+                          ) : held ? (
+                            t.label
+                          ) : (
+                            <em>{t.label}</em>
+                          )}
+                          {t.author_label && <span class="ix-attrib">{t.author_label}</span>}
+                        </span>
+                        <span class="ix-lead" aria-hidden="true" />
+                        <span class="ix-n">
+                          {fmt(t.total)}
+                          <span class="visually-hidden">
+                            {t.total === 1 ? " citation" : " citations"}
+                          </span>
+                        </span>
+                      </li>
+                    );
+                  })}
+                </ol>
+              </>
+            ))}
+          </div>
+          <p class="foot-note">
+            These are the targets the harvest saw at least twice, or that the
+            library holds. The {fmt(namedOnce)} named once are not listed here:
+            each stands at a single passage, and the citing work's own citations
+            page carries that anchor.
+          </p>
+          <Sigla />
+        </section>
+      )
+    }
   </article>
 </Base>
 
@@ -204,21 +374,18 @@ const stanceTotal = Object.values(stances).reduce((s, n) => s + (n ?? 0), 0);
   section {
     margin-bottom: var(--s-16);
   }
+  /* The ledger is a single column. It was two, and each row carries a
+     <details>: opening one anchor re-balanced both columns and jumped every
+     row on the page under the reader's eye. Multicol survives only on the
+     index below, which has no disclosure in it. */
   .ledger {
     list-style: none;
     margin: 0;
     padding: 0;
   }
-  @media (min-width: 900px) {
-    .ledger {
-      columns: 2;
-      column-gap: var(--s-12);
-    }
-  }
   .entry {
     padding: var(--s-3) 0;
     border-bottom: 1px solid var(--rule);
-    break-inside: avoid;
   }
   .entry-head {
     display: flex;
@@ -241,10 +408,12 @@ const stanceTotal = Object.values(stances).reduce((s, n) => s + (n ?? 0), 0);
     color: var(--accent);
     border-color: var(--accent-soft);
   }
-  .in-lib {
-    color: var(--accent);
-    margin-left: 0.4em;
-    font-size: 13px;
+  .entry-label a:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+  }
+  .entry-label em {
+    font-style: italic; /* named by the library, not held by it */
   }
   .entry-count {
     font-family: var(--font-body);
@@ -257,6 +426,8 @@ const stanceTotal = Object.values(stances).reduce((s, n) => s + (n ?? 0), 0);
     margin-top: var(--s-2);
   }
   .anchor summary {
+    display: block; /* with the marker rule below, removes the triangle everywhere */
+    width: fit-content;
     font-family: var(--font-body);
     font-size: 15px;
     font-variant: small-caps;
@@ -266,12 +437,95 @@ const stanceTotal = Object.values(stances).reduce((s, n) => s + (n ?? 0), 0);
     cursor: pointer;
     list-style: none;
   }
+  .anchor summary::-webkit-details-marker {
+    display: none;
+  }
   .anchor summary::before {
     content: "¶ ";
     color: var(--accent-soft);
   }
-  .anchor summary:hover {
+  .anchor summary:hover,
+  .anchor[open] summary {
     color: var(--accent);
+  }
+  /* the global a:focus-visible does not reach a <summary> */
+  .anchor summary:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 3px;
+  }
+
+  .ledger-index {
+    font-family: var(--font-body);
+  }
+  @media (min-width: 900px) {
+    .ledger-index {
+      columns: 2;
+      column-gap: var(--s-12);
+    }
+  }
+  .ix-letter {
+    font-family: var(--font-body);
+    font-size: 15px;
+    font-variant: small-caps;
+    text-transform: lowercase;
+    letter-spacing: 0.08em;
+    color: var(--ink-muted);
+    border-bottom: 1px solid var(--rule);
+    margin: var(--s-5) 0 var(--s-2);
+    padding-bottom: 2px;
+    break-after: avoid;
+  }
+  .ix-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .ix {
+    display: flex;
+    align-items: baseline;
+    gap: 0.4em;
+    padding: 1px 0;
+    font-size: 17px;
+    break-inside: avoid;
+  }
+  .ix-label {
+    color: var(--ink);
+  }
+  .ix-label a {
+    color: inherit;
+    text-decoration: none;
+    border-bottom: 1px solid var(--rule);
+  }
+  .ix-label a:hover {
+    color: var(--accent);
+    border-color: var(--accent-soft);
+  }
+  .ix-label a:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+  }
+  .ix-attrib {
+    color: var(--ink-muted);
+    font-size: 15px;
+    margin-left: 0.4em;
+  }
+  .ix-attrib::before {
+    content: "— ";
+    color: var(--accent-soft);
+  }
+  /* The leader is drawn from the ink, not the rule: at --rule's own value it
+     measured about 1.1:1 against the paper in every theme and was invisible. */
+  .ix-lead {
+    flex: 1 1 auto;
+    min-width: 1.5em;
+    border-bottom: 1px dotted color-mix(in srgb, var(--ink-muted) 40%, transparent);
+    transform: translateY(-0.25em);
+  }
+  .ix-n {
+    font-variant-numeric: oldstyle-nums;
+    font-size: 15px;
+    color: var(--ink-muted);
+    white-space: nowrap;
   }
   .foot-note {
     margin-top: var(--s-6);
@@ -280,5 +534,6 @@ const stanceTotal = Object.values(stances).reduce((s, n) => s + (n ?? 0), 0);
     line-height: 1.6;
     color: var(--ink-muted);
     max-width: 62ch;
+    font-variant-numeric: oldstyle-nums;
   }
 </style>

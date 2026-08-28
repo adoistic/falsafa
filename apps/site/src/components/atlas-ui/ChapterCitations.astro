@@ -1,0 +1,375 @@
+---
+/**
+ * ChapterCitations — the reader↔citation bridge, rendered after ChapterAtlas.
+ *
+ * Closed, it costs one hairline row. Open, it is the apparatus fontium for
+ * this chapter: what the chapter cites, how, and a ¶ for every passage that
+ * does the citing.
+ *
+ * NO QUOTES HERE, by the rule that governs the whole apparatus: a quote is
+ * printed when it comes from a text OTHER than the one you are looking at.
+ * Inside the text, you get a ¶ instead. Following one does not leave the
+ * page — Reader.astro's hashchange listener applies .falsafa-cited (flash
+ * plus a persistent left accent rule) and smooth-scrolls. Zero new JS for
+ * the primary interaction: the URL grammar in lib/citation-url.ts and the
+ * highlighter in Reader.astro both already ship, and until now nothing in
+ * the citation layer used either.
+ *
+ * 23,094 of the library's 25,499 chapters cite nothing the harvest could
+ * anchor, so the common case here is zero bytes: the panel renders only
+ * when `rows` is non-empty.
+ */
+import type { CitationRow } from "../../lib/atlas-citations";
+import { targetAnchor } from "../../lib/atlas-citations";
+// The ¶ href is built through urlForCitation rather than written as a bare
+// "#p-x": Reader.astro reads the WHOLE location, and a page reached by a
+// multi-paragraph citation link (?paragraphs=p-1,p-2#p-1) would otherwise
+// keep lighting p-1 and p-2 while scrolling somewhere else. The full path
+// form resolves to a pure fragment navigation on the chapter's own page,
+// and drops a stale query when there is one.
+import { urlForCitation } from "../../lib/citation-url";
+import { STANCES, type Stance } from "../../lib/atlas-graph";
+
+interface Props {
+  workSlug: string;
+  chapterSlug: string;
+  variantType: string;
+  rows: CitationRow[];
+  /** false when this chapter's harvest anchored a different reading view */
+  anchoredHere: boolean;
+  citationsHref: string;
+}
+const { workSlug, chapterSlug, variantType, rows, anchoredHere, citationsHref } = Astro.props;
+
+const nf = new Intl.NumberFormat("en-US");
+/** this chapter's slice of each row — every row in `rows` has one by construction */
+const locusOf = (r: CitationRow) => r.loci.find((l) => l.chapter === chapterSlug);
+/**
+ * ANCHORS, not citations. Each unit here is one source anchored at one
+ * paragraph, which is exactly one ¶ in the run below — so the folio and the
+ * marks reconcile. It is deliberately not called passages: a paragraph that
+ * names two sources is one passage and two anchors, and 982 of the 2,405
+ * chapters that cite hold at least one such paragraph. Nor is it citations:
+ * the harvest's records are the unit of the row totals on the citations
+ * page, and one record can quote several paragraphs.
+ */
+const total = rows.reduce((s, r) => s + (locusOf(r)?.count ?? 0), 0);
+const folio = `${nf.format(rows.length)} ${rows.length === 1 ? "source" : "sources"} · ${nf.format(total)} ${total === 1 ? "anchor" : "anchors"}`;
+
+/**
+ * Marks printed for one source before the rest is handed to a single link.
+ * 263 of the 2,405 panels hold a source anchored more than six times and the
+ * deepest holds 438; a mark apiece would bury the panel it is meant to
+ * summarise. The overflow is a link, never a bare number, so the run still
+ * accounts for every anchor the folio counts.
+ */
+const INLINE_ANCHORS = 6;
+
+// The harvest anchors a chapter in exactly one reading view. Reading the
+// variant back off the loci — rather than trusting the caller alone — keeps
+// the ¶ marks honest: an id minted against the transliteration resolves to
+// nothing in the translation, and a mark that scrolls nowhere is worse than
+// no mark at all.
+const harvestVariant = rows.map((r) => locusOf(r)?.variant).find(Boolean);
+const anchored =
+  anchoredHere && (harvestVariant === undefined || harvestVariant === variantType);
+
+const stanceWord = (st: Partial<Record<Stance, number>>) => {
+  const top = STANCES.filter((s) => (st[s.stance] ?? 0) > 0).sort(
+    (a, b) => (st[b.stance] ?? 0) - (st[a.stance] ?? 0),
+  )[0];
+  return top ? top.label.toLowerCase() : "";
+};
+
+/**
+ * Paragraph id → how many sources are anchored there, for the gutter sigla.
+ * Built from the whole anchor list, not the six the panel prints: a
+ * paragraph that cites is a paragraph that cites, and marking only the first
+ * six left the seventh onward with a silent margin. It costs 6,302 further
+ * entries across the 2,405 panels in the library.
+ */
+const anchorMap: Record<string, number> = {};
+if (anchored) {
+  for (const r of rows) {
+    for (const p of locusOf(r)?.anchors ?? []) anchorMap[p] = (anchorMap[p] ?? 0) + 1;
+  }
+}
+---
+
+{
+  rows.length > 0 && (
+    <aside class="chapter-cites" id="chapter-citations">
+      <details>
+        <summary>
+          <span class="cc-title">cited here</span>
+          <span class="cc-folio">{folio}</span>
+        </summary>
+        <div class="cc-body">
+          <ol class="cc-list">
+            {rows.map((r) => {
+              const l = locusOf(r);
+              const anchors = anchored ? (l?.anchors ?? []) : [];
+              const Title = r.inLibrary ? "span" : "em";
+              return (
+                <li class="cc" id={targetAnchor(r.key)}>
+                  <span class="cc-name">
+                    {r.href ? (
+                      <a href={r.href}>
+                        <Title>{r.label}</Title>
+                      </a>
+                    ) : (
+                      <Title>{r.label}</Title>
+                    )}
+                    {r.author_label && <span class="cc-attrib"> — {r.author_label}</span>}
+                  </span>
+                  <span class="cc-stance">{stanceWord(r.stances)}</span>
+                  <span class="cc-anchors">
+                    {anchored && anchors.length === 0 && (
+                      <span class="cc-noanchor">no anchor</span>
+                    )}
+                    {anchors.slice(0, INLINE_ANCHORS).map((p, i) => (
+                      <>
+                        {i > 0 && " "}
+                        <a
+                          class="cc-p"
+                          href={urlForCitation({ workSlug, chapterSlug, variant: variantType, paragraphIds: [p] })}
+                          aria-label={`passage ${i + 1} citing ${r.label}`}
+                        >¶</a>
+                      </>
+                    ))}
+                    {anchors.length > INLINE_ANCHORS && (
+                      <a
+                        class="cc-more"
+                        href={urlForCitation({ workSlug, chapterSlug, variant: variantType, paragraphIds: anchors })}
+                      >
+                        +{nf.format(anchors.length - INLINE_ANCHORS)}
+                        <span class="visually-hidden"> further passages citing {r.label}</span>
+                      </a>
+                    )}
+                  </span>
+                </li>
+              );
+            })}
+          </ol>
+          <p class="cc-note" id="chapter-cites-note">
+            {anchored
+              ? "Each mark lands on the passage in this chapter that does the citing. "
+              : "The harvest anchors this chapter in another reading view — the sources above still cover it. "}
+            <a href={citationsHref}>Every source this work draws on</a>.
+          </p>
+        </div>
+      </details>
+
+      <script
+        type="application/json"
+        id="chapter-cites-data"
+        set:html={JSON.stringify(anchorMap)}
+      />
+      <script is:inline>
+  /* The apparatus fontium's reference mark, in the gutter. Never touches the
+     reading column: absolutely positioned into the left margin, and only where
+     there IS a margin (≥1100px). With JS off there are no sigla, and the
+     panel above is unaffected. */
+  (function () {
+    var node = document.getElementById("chapter-cites-data");
+    if (!node || !node.textContent) return;
+    if (!window.matchMedia("(min-width: 1100px)").matches) return;
+    var map;
+    try { map = JSON.parse(node.textContent); } catch (e) { return; }
+    var n = 0;
+    for (var pid in map) {
+      if (n++ >= 80) break;
+      var el = document.getElementById(pid);
+      if (!el) continue;
+      var a = document.createElement("a");
+      a.className = "locus-mark";
+      a.href = "#chapter-citations";
+      a.textContent = "\u00B6";
+      a.setAttribute("aria-label", map[pid] + (map[pid] === 1 ? " citation here" : " citations here"));
+      if (!el.style.position) el.style.position = "relative";
+      el.insertBefore(a, el.firstChild);
+    }
+  })();
+      </script>
+    </aside>
+  )
+}
+
+<style is:global>
+  .locus-mark {
+    position: absolute;
+    left: -1.6em;
+    top: 0.15em;
+    font-size: 13px;
+    line-height: inherit;
+    color: var(--accent-soft);
+    text-decoration: none;
+    transition: color 150ms ease-out;
+  }
+  .locus-mark:hover {
+    color: var(--accent);
+  }
+  .locus-mark:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+  }
+  @media (max-width: 1099px) {
+    .locus-mark {
+      display: none;
+    }
+  }
+</style>
+
+<style>
+  /* -1px so this panel's top rule merges with ChapterAtlas's bottom rule
+     into a single hairline: two panels, one apparatus block. */
+  .chapter-cites {
+    max-width: var(--col-main);
+    margin: -1px auto 0;
+    font-family: var(--font-body);
+  }
+  details {
+    border-top: 1px solid var(--rule);
+    border-bottom: 1px solid var(--rule);
+  }
+  summary {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: var(--s-4);
+    padding: var(--s-3) 0;
+    cursor: pointer;
+    list-style: none;
+  }
+  summary::-webkit-details-marker {
+    display: none;
+  }
+  summary:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+  }
+  .cc-title {
+    font-size: 17px;
+    font-weight: 600;
+    font-variant: small-caps;
+    text-transform: lowercase;
+    letter-spacing: 0.08em;
+    color: var(--ink);
+  }
+  .cc-title::before {
+    content: "¶ ";
+    color: var(--accent-soft);
+  }
+  details[open] .cc-title,
+  summary:hover .cc-title {
+    color: var(--accent);
+  }
+  .cc-folio {
+    font-size: 15px;
+    font-variant-numeric: oldstyle-nums;
+    color: var(--ink-muted);
+    text-align: right;
+  }
+  .cc-body {
+    padding: var(--s-2) 0 var(--s-5);
+  }
+  .cc-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .cc {
+    display: grid;
+    grid-template-columns: 1fr auto auto;
+    gap: var(--s-3);
+    align-items: baseline;
+    padding: 3px 0;
+    font-size: 17px;
+    line-height: 1.6;
+  }
+  .cc-name {
+    color: var(--ink);
+  }
+  .cc-name a {
+    color: inherit;
+    text-decoration: none;
+    border-bottom: 1px solid var(--rule);
+    transition: color 150ms ease-out, border-color 150ms ease-out;
+  }
+  .cc-name a:hover {
+    color: var(--accent);
+    border-color: var(--accent-soft);
+  }
+  .cc-name em {
+    font-style: italic;
+  }
+  .cc-attrib {
+    color: var(--ink-muted);
+    font-size: 15px;
+  }
+  .cc-stance {
+    font-size: 15px;
+    font-variant: small-caps;
+    text-transform: lowercase;
+    letter-spacing: 0.05em;
+    color: var(--ink-muted);
+    white-space: nowrap;
+  }
+  .cc-anchors {
+    white-space: nowrap;
+  }
+  .cc-p {
+    color: var(--accent);
+    text-decoration: none;
+    font-size: 14px;
+  }
+  .cc-p:hover {
+    color: var(--accent-soft);
+  }
+  .cc-p:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+  }
+  /* the tally that closes a capped run: muted and small, so it reads as the
+     count of the marks not drawn rather than as another mark */
+  .cc-more {
+    color: var(--ink-muted);
+    text-decoration: none;
+    font-size: 13px;
+    margin-left: 0.2em;
+  }
+  .cc-more:hover {
+    color: var(--accent);
+  }
+  .cc-more:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+  }
+  /* the harvest counted the citation but recovered no paragraph for it;
+     an italic word is the honest thing to print where a ¶ cannot go */
+  .cc-noanchor {
+    font-size: 14px;
+    font-style: italic;
+    color: var(--ink-muted);
+  }
+  .cc-note {
+    font-size: 15px;
+    color: var(--ink-muted);
+    margin: var(--s-3) 0 0;
+    border-top: 1px solid var(--rule);
+    padding-top: var(--s-3);
+  }
+  .cc-note a {
+    color: var(--accent);
+    text-decoration: none;
+    border-bottom: 1px solid var(--accent-soft);
+  }
+  @media (max-width: 639px) {
+    .cc {
+      grid-template-columns: 1fr auto;
+    }
+    .cc-stance {
+      grid-column: 1;
+    }
+  }
+</style>

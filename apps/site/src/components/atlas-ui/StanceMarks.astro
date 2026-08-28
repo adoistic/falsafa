@@ -17,7 +17,7 @@ const present = STANCES.filter((s) => (stances[s.stance] ?? 0) > 0);
 <span class="stance-marks">
   {
     present.map((s, i) => (
-      <span class={`sm sm-${s.stance}`} title={s.gloss}>
+      <span class={`sm sm-${s.stance}`}>
         {i > 0 && <span class="sm-sep" aria-hidden="true">·</span>}
         <span class="sm-count">{nf.format(stances[s.stance]!)}</span>
         <span class="sm-name">{s.label.toLowerCase()}</span>
@@ -50,7 +50,11 @@ const present = STANCES.filter((s) => (stances[s.stance] ?? 0) > 0);
     color: var(--ink);
     font-weight: 600;
   }
+  /* --error/--success are never redefined per theme: on dark paper they
+     measured 2.42:1 and 2.76:1, below AA on the atlas's key semantic colour.
+     The --stance-* tokens are themed in all three blocks and clear 6:1. */
   .sm-authority .sm-count { color: var(--accent); }
-  .sm-refute .sm-count { color: var(--error); }
-  .sm-endorse .sm-count { color: var(--success); }
+  .sm-refute .sm-count { color: var(--stance-refute); }
+  .sm-endorse .sm-count { color: var(--stance-endorse); }
+  .sm-extend .sm-count { color: var(--stance-extend); }
 </style>

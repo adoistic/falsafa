@@ -68,11 +68,11 @@ function byRole(people: { person: string; role: string }[]) {
             <div class="head">
               <span class="when mono">{formatSpan(t.date)}</span>
               <span class="passage">
-                <a class="link-quiet lang" href={`/atlas/languages/${from.id}/`}>{from.name}</a>
+                <span class="link-quiet lang">{from.name}</span>
                 <span class="arrow" aria-hidden="true">→</span>
-                <a class="link-quiet lang strong" href={`/atlas/languages/${target.id}/`}>
+                <span class="link-quiet lang strong">
                   {target.name}
-                </a>
+                </span>
               </span>
               <span class="kind">{kindLabel[t.kind]}</span>
               <span class="grade">
@@ -94,7 +94,7 @@ function byRole(people: { person: string; role: string }[]) {
                     return (
                       <span>
                         {j > 0 && ' and '}
-                        <a class="link" href={`/atlas/people/${person.id}/`}>{person.name}</a>
+                        <span class="link">{person.name}</span>
                       </span>
                     );
                   })}
@@ -104,7 +104,7 @@ function byRole(people: { person: string; role: string }[]) {
                 <span class="role-group">
                   <span class="sep" aria-hidden="true">·</span>
                   <span class="verb">in</span>{' '}
-                  <a class="link" href={`/atlas/places/${place.id}/`}>{place.name}</a>
+                  <span class="link">{place.name}</span>
                 </span>
               )}
             </p>

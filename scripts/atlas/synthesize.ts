@@ -64,6 +64,9 @@ interface RawCitation {
   cited_work?: string;
   cited_author?: string;
   stance?: string;
+  /** the harvest's own one-sentence reason for the citation. 100% populated,
+   *  never read until now; it is the "why" line of every apparatus entry. */
+  justification?: string;
   evidence?: Evidence[];
 }
 interface RawQuoteEvent {
@@ -90,6 +93,43 @@ interface QuoteRef {
   chapter?: string;
   variant?: string;
 }
+
+/** Stable target identity across every citation artifact:
+ *  "w:<workSlug>" | "a:<authorSlug>" | "l:<labelSlug>" */
+type TargetKey = string;
+
+/** A verbatim passage in the CITING work. chapter/variant are carried on the
+ *  enclosing ChapterSlot, so they are not repeated here. */
+interface CitationQuote {
+  p: string;
+  text: string;
+}
+
+/** Where inside the citing work one edge actually fires. The unit the whole
+ *  citation UI is built on: the harvest records NO locus inside the cited
+ *  work, only the passage in the citing text that does the citing.
+ *
+ *  The slot carries NO count of its own. Its size is `p.length` and nothing
+ *  else, because `p` is the list the ¶ links land on: a number kept beside
+ *  the list is a number that can drift from it, and it did — the emitted
+ *  slot count used to be one per anchored QUOTE while the edge count was one
+ *  per citation RECORD, so 4,993 of 13,236 edges printed a headline that did
+ *  not equal its own chapter run (Euclid: 397 against 1,486). */
+interface ChapterSlot {
+  chapter: string;
+  variant: string;
+  /** every anchored paragraph id in this chapter, dedup, insertion order.
+   *  Uncapped: it is both the evidence list and the count, so truncating it
+   *  would silently under-report the anchoring. The 24-id cap it replaces
+   *  bit in 78 of 15,252 slots, 10 of them Euclid's. */
+  p: string[];
+  seenP: Set<string>;
+  /** best-first, ranked by quoteRank; sliced to 4 at emit */
+  quotes: { p: string; text: string; rank: [number, number, number] }[];
+  hint?: string;
+  role?: string;
+}
+
 interface WorkMention {
   work: string;
   count: number; // raw pre-merge entity rows folded in from this work
@@ -266,7 +306,17 @@ async function main() {
     citedAuthor: string;
     stance: string;
     count: number;
+    /** the 2-quote digest citations.json has always carried. FROZEN: the
+     *  BYOK island and @falsafa/mcp fetch that file whole and parse this
+     *  exact shape. Everything richer lives in citations/works/<slug>.json. */
     quotes: QuoteRef[];
+    /** chapterSlug -> where this edge fires inside `from`. The chapter axis
+     *  the site never had. */
+    chapters: Map<string, ChapterSlot>;
+    /** the harvest's own justification for this citation, first non-empty */
+    why?: string;
+    /** citations whose paragraphs resolved to no chapter of `from` */
+    unanchored: number;
   }
   const citations = new Map<string, CitationAcc>();
 
@@ -296,30 +346,70 @@ async function main() {
   let totalEvidence = 0;
   let totalQuotes = 0;
   let totalQuoteEvents = 0;
+  let crossWorkDropped = 0;
+  let citationChapterQuotes = 0;
 
   const workOf = (p: string) => pIndex[p]; // closure for link resolution
 
-  function quoteRefs(evs: Evidence[] | undefined, cap: number): QuoteRef[] {
+  /** Truncate to the artifact's 420-char ceiling. */
+  function clip(s: string): string {
+    return s.length > 420 ? s.slice(0, 400).trimEnd() + " …" : s;
+  }
+
+  /**
+   * Rank tuple for evidence-quote selection, best-first (lexicographic ASC).
+   *
+   *   1. term-matched sentences before whole-paragraph fallbacks
+   *   2. a 70-character floor: fragments sort last regardless of score.
+   *      The old comparator sorted length ASCENDING, so the SHORTEST
+   *      term-matching sentence won — 22.8% of shipped quotes were under
+   *      60 chars ("Scipio:", "To ignorance, obviously.").
+   *   3. harvest selection_score DESC
+   *   4. length ASC as the deterministic tiebreak
+   */
+  function quoteRank(q: EvidenceQuote): [number, number, number] {
+    const method = q.selection_method === "terms_sentence" ? 0 : 1;
+    const runt = (q.quote?.length ?? 0) < 70 ? 1 : 0;
+    const score = -(q.selection_score ?? 0);
+    return [method * 2 + runt, score, q.quote?.length ?? 1e9];
+  }
+  function rankCmp(a: [number, number, number], b: [number, number, number]): number {
+    return a[0] - b[0] || a[1] - b[1] || a[2] - b[2];
+  }
+
+  /**
+   * Flatten evidence quotes to chapter-resolved QuoteRefs, best-first.
+   *
+   * `work` is the CITING work. When given, a quote whose paragraph id
+   * resolves to a DIFFERENT work is DROPPED, not degraded — the phone book
+   * deduped ~200k repeated ids first-occurrence-wins, so 4.93% of raw refs
+   * point into another book. The entity path has applied this guard since
+   * day one (see the `loc.work !== work` check on the anchors below); the
+   * quote path never did.
+   */
+  function quoteRefs(
+    evs: Evidence[] | undefined,
+    cap: number,
+    work?: string,
+  ): QuoteRef[] {
     if (!evs) return [];
     const out: QuoteRef[] = [];
-    // prefer term-matched sentences over whole-paragraph fallbacks, short over long
     const all: EvidenceQuote[] = [];
     for (const ev of evs) for (const q of ev.quotes ?? []) all.push(q);
-    all.sort((a, b) => {
-      const am = a.selection_method === "terms_sentence" ? 0 : 1;
-      const bm = b.selection_method === "terms_sentence" ? 0 : 1;
-      if (am !== bm) return am - bm;
-      return (a.quote?.length ?? 1e9) - (b.quote?.length ?? 1e9);
-    });
+    all.sort((a, b) => rankCmp(quoteRank(a), quoteRank(b)));
     const seen = new Set<string>();
     for (const q of all) {
       if (!q.quote || !q.paragraph_id) continue;
       if (seen.has(q.paragraph_id)) continue;
       seen.add(q.paragraph_id);
       const loc = workOf(q.paragraph_id);
+      if (work && (!loc || loc.work !== work)) {
+        crossWorkDropped++;
+        continue;
+      }
       out.push({
         p: q.paragraph_id,
-        text: q.quote.length > 420 ? q.quote.slice(0, 400).trimEnd() + " …" : q.quote,
+        text: clip(q.quote),
         chapter: loc?.chapter,
         variant: loc?.variant,
       });
@@ -389,7 +479,7 @@ async function main() {
       m.count++;
       if (!m.description && e.description) m.description = e.description;
       if (m.quotes.length < 3) {
-        const fresh = quoteRefs(e.evidence, 3 - m.quotes.length);
+        const fresh = quoteRefs(e.evidence, 3 - m.quotes.length, work);
         const have = new Set(m.quotes.map((q) => q.p));
         for (const q of fresh) if (!have.has(q.p)) m.quotes.push(q);
       }
@@ -412,8 +502,11 @@ async function main() {
     }
 
     for (const c of doc.citations ?? []) {
-      // placeholder author/work strings from the harvest are not targets
-      const PLACEHOLDER = /^(unknown|unspecified|anonymous|uncertain|various|none|n\/?a|not specified|unnamed|\?+)$/i;
+      // placeholder author/work strings from the harvest are not targets.
+      // The trailing alternatives are the noise class the ledger currently
+      // ranks as real entries: "unspecified verse" (39), "unnamed poet" (28).
+      const PLACEHOLDER =
+        /^(unknown|unspecified|anonymous|uncertain|various|none|n\/?a|not specified|unnamed|\?+|(?:unspecified|unnamed|unknown|various)\s+\w+)$/i;
       let cw = c.cited_work?.trim() ?? "";
       let ca = c.cited_author?.trim() ?? "";
       if (PLACEHOLDER.test(cw)) cw = "";
@@ -427,10 +520,82 @@ async function main() {
       const key = `${work}|${norm(cw)}|${norm(ca)}|${stance}`;
       const acc =
         citations.get(key) ??
-        ({ from: work, citedWork: cw, citedAuthor: ca, stance, count: 0, quotes: [] } as CitationAcc);
+        ({
+          from: work,
+          citedWork: cw,
+          citedAuthor: ca,
+          stance,
+          count: 0,
+          quotes: [],
+          chapters: new Map<string, ChapterSlot>(),
+          unanchored: 0,
+        } as CitationAcc);
       acc.count++;
-      if (acc.quotes.length < 2)
-        acc.quotes.push(...quoteRefs(c.evidence, 2 - acc.quotes.length));
+
+      // the harvest's own reason, discarded until now: 17,007 justification
+      // strings, 1.81 MB, 100% populated, 100% thrown on the floor. This is
+      // what actually answers "what exactly is cited".
+      if (!acc.why && c.justification?.trim())
+        acc.why =
+          c.justification.trim().length > 240
+            ? c.justification.trim().slice(0, 236).trimEnd() + " …"
+            : c.justification.trim();
+
+      // ── the chapter axis ────────────────────────────────────────────
+      // No cap. Every anchored paragraph of every evidence object is
+      // resolved and filed under the chapter of `from` it stands in.
+      //
+      // A paragraph already filed here adds nothing: the same passage
+      // reached twice — by two quotes inside one evidence object, or by two
+      // harvest records the sliding windows overlapped — is still one place
+      // the reader can go and look. Euclid's edge held 1,486 such reaches
+      // over 274 distinct paragraphs. The slot counts paragraphs.
+      let anchoredHere = 0;
+      for (const ev of c.evidence ?? []) {
+        for (const q of ev.quotes ?? []) {
+          if (!q.paragraph_id) continue;
+          const loc = workOf(q.paragraph_id);
+          if (!loc || loc.work !== work) {
+            if (loc) crossWorkDropped++;
+            continue;
+          }
+          anchoredHere++;
+          const slot =
+            acc.chapters.get(loc.chapter) ??
+            ({
+              chapter: loc.chapter,
+              variant: loc.variant,
+              p: [],
+              seenP: new Set<string>(),
+              quotes: [],
+            } as ChapterSlot);
+          if (!slot.seenP.has(q.paragraph_id)) {
+            slot.seenP.add(q.paragraph_id);
+            slot.p.push(q.paragraph_id);
+            if (q.quote) {
+              slot.quotes.push({
+                p: q.paragraph_id,
+                text: clip(q.quote),
+                rank: quoteRank(q),
+              });
+              citationChapterQuotes++;
+            }
+          }
+          if (!slot.hint && ev.evidence_hint?.trim()) slot.hint = ev.evidence_hint.trim();
+          if (!slot.role && ev.role?.trim()) slot.role = ev.role.trim();
+          acc.chapters.set(loc.chapter, slot);
+        }
+      }
+      if (anchoredHere === 0) acc.unanchored++;
+
+      // the FROZEN 2-quote digest citations.json has always shipped, now
+      // cross-work-guarded and better-selected. Deduped against what is
+      // already there (the old code pushed blind).
+      if (acc.quotes.length < 2) {
+        const fresh = quoteRefs(c.evidence, 2 - acc.quotes.length, work);
+        const have = new Set(acc.quotes.map((q) => q.p));
+        for (const q of fresh) if (!have.has(q.p)) acc.quotes.push(q);
+      }
       citations.set(key, acc);
     }
 
@@ -447,7 +612,7 @@ async function main() {
       acc.names[t.topic] = (acc.names[t.topic] ?? 0) + 1;
       const tw = acc.works.get(work) ?? { count: 0, quotes: [] };
       tw.count++;
-      if (tw.quotes.length < 1) tw.quotes.push(...quoteRefs(t.evidence, 1));
+      if (tw.quotes.length < 1) tw.quotes.push(...quoteRefs(t.evidence, 1, work));
       acc.works.set(work, tw);
       themes.set(key, acc);
     }
@@ -922,35 +1087,54 @@ async function main() {
   }
 
   // ---- resolve citations to in-corpus targets ------------------------
-  const citationRows = [...citations.values()]
-    .sort((a, b) => b.count - a.count || (a.from < b.from ? -1 : 1))
-    .map((c) => {
-      // try (author+title) match first, then unique title, then author link
-      let toWork: string | undefined;
-      const nt = norm(c.citedWork);
-      if (nt) {
-        const cands = normWorkTitle.get(nt) ?? [];
-        if (cands.length === 1) toWork = cands[0];
-        else if (cands.length > 1 && c.citedAuthor) {
-          const na = norm(c.citedAuthor);
-          toWork = cands.find((s) => {
-            const a = works[s]?.author;
-            return a && norm(authorName[a] ?? "") === na;
-          });
-        }
+  /** (author+title) match first, then unique title, then author link. */
+  function resolveTarget(c: CitationAcc): {
+    // explicit `| undefined` because exactOptionalPropertyTypes is on and
+    // both sides are assigned unconditionally, resolved or not.
+    toWork?: string | undefined;
+    toAuthor?: string | undefined;
+    key: TargetKey;
+  } {
+    let toWork: string | undefined;
+    const nt = norm(c.citedWork);
+    if (nt) {
+      const cands = normWorkTitle.get(nt) ?? [];
+      if (cands.length === 1) toWork = cands[0];
+      else if (cands.length > 1 && c.citedAuthor) {
+        const na = norm(c.citedAuthor);
+        toWork = cands.find((s) => {
+          const a = works[s]?.author;
+          return a && norm(authorName[a] ?? "") === na;
+        });
       }
-      const toAuthor = c.citedAuthor ? normAuthor.get(norm(c.citedAuthor)) : undefined;
-      return {
-        from: c.from,
-        cited_work: c.citedWork || undefined,
-        cited_author: c.citedAuthor || undefined,
-        stance: c.stance,
-        count: c.count,
-        to_work: toWork,
-        to_author: toAuthor,
-        quotes: c.quotes,
-      };
-    });
+    }
+    const toAuthor = c.citedAuthor ? normAuthor.get(norm(c.citedAuthor)) : undefined;
+    // Identity is the resolved target when there is one, else the folded
+    // label — so "Psalms" from twelve different books is one target.
+    const key: TargetKey = toWork
+      ? `w:${toWork}`
+      : toAuthor
+        ? `a:${toAuthor}`
+        : `l:${slugify(c.citedWork || c.citedAuthor)}`;
+    return { toWork, toAuthor, key };
+  }
+
+  const citationAccs = [...citations.values()].sort(
+    (a, b) => b.count - a.count || (a.from < b.from ? -1 : 1),
+  );
+  const citationRows = citationAccs.map((c) => {
+    const { toWork, toAuthor } = resolveTarget(c);
+    return {
+      from: c.from,
+      cited_work: c.citedWork || undefined,
+      cited_author: c.citedAuthor || undefined,
+      stance: c.stance,
+      count: c.count,
+      to_work: toWork,
+      to_author: toAuthor,
+      quotes: c.quotes,
+    };
+  });
 
   // ---- artifacts -----------------------------------------------------
   await rm(OUT_DIR, { recursive: true, force: true });
@@ -1001,6 +1185,15 @@ async function main() {
       entity_verbatim_quotes: totalQuotes,
       citations: citationRows.reduce((s, c) => s + c.count, 0),
       citation_edges: citationRows.length,
+      citation_chapters: (() => {
+        const s = new Set<string>();
+        for (const c of citations.values())
+          for (const ch of c.chapters.keys()) s.add(`${c.from}/${ch}`);
+        return s.size;
+      })(),
+      citation_quotes_anchored: citationChapterQuotes,
+      citation_quotes_dropped_crosswork: crossWorkDropped,
+      citation_edges_chapterless: [...citations.values()].filter((c) => c.chapters.size === 0).length,
       themes: [...themes.values()].reduce((s, t) => s + t.total, 0),
       theme_topics: themes.size,
       quote_events: totalQuoteEvents,
@@ -1066,6 +1259,359 @@ async function main() {
     join(OUT_DIR, "citations.json"),
     JSON.stringify(citationRows) + "\n",
   );
+
+  // ── the citation loci layer ─────────────────────────────────────────
+  // citations.json stays byte-compatible (the BYOK island and @falsafa/mcp
+  // fetch it whole). Everything the chapter/work/author/target surfaces need
+  // lives here instead, read only at build time by apps/site.
+  //
+  //   citations/index.json            the spine: paged targets + totals
+  //   citations/works/<slug>.json     one file per citing work
+  //   citations/targets/<key>.json    the reverse index, page-worthy targets
+  //
+  // Author scope is DERIVED at build time from the work files — no fourth
+  // artifact, no second source of truth for the same 6 MB.
+  await mkdir(join(OUT_DIR, "citations", "works"), { recursive: true });
+  await mkdir(join(OUT_DIR, "citations", "targets"), { recursive: true });
+  {
+    type Stance = string;
+    /** `count` here is PASSAGES — distinct anchored paragraphs of the citing
+     *  work in this chapter — and is `p.length` by construction, so a reader
+     *  who follows the ¶ links arrives at exactly as many places as the
+     *  number promised. It is NOT the edge's `count`, which is citation
+     *  records; the two are different units and only `passages` sums. */
+    interface EmitChapter {
+      chapter: string;
+      variant: string;
+      count: number;
+      p: string[];
+      quotes: CitationQuote[];
+      // carried straight off the slot, which holds undefined when the
+      // harvest gave no hint; exactOptionalPropertyTypes wants that said.
+      hint?: string | undefined;
+      role?: string | undefined;
+    }
+    interface EmitEdge {
+      target: TargetKey;
+      label: string;
+      author_label?: string;
+      to_work?: string;
+      to_author?: string;
+      /** citation RECORDS in the harvest. The headline "31 citations". */
+      count: number;
+      /** distinct anchored paragraphs of the citing work, across every
+       *  chapter of this edge. Equals sum(chapters[].count) by construction,
+       *  which is the identity the apparatus has to be able to survive a
+       *  reader adding the column up. Paragraph ids are unique per work and
+       *  each resolves to one chapter, so the sum double-counts nothing. */
+      passages: number;
+      stances: Record<Stance, number>;
+      why?: string;
+      chapters: EmitChapter[];
+      unanchored: number;
+    }
+
+    // `p` is copied, not aliased: the same slot is emitted twice per acc
+    // (quoteCap 4 for the work file, 1 for the reverse index) and the folds
+    // below push into it, so a shared array would let the work file's merge
+    // grow the reverse index's paragraph list behind its back.
+    const emitChapters = (c: CitationAcc, quoteCap: number): EmitChapter[] =>
+      [...c.chapters.values()]
+        // slugs are zero-padded ("01-book-1"), so slug ASC is text order.
+        // The site re-sorts by manifest chapter_number regardless.
+        .sort((a, b) => (a.chapter < b.chapter ? -1 : a.chapter > b.chapter ? 1 : 0))
+        .map((s) => ({
+          chapter: s.chapter,
+          variant: s.variant,
+          count: s.p.length,
+          p: s.p.slice(),
+          quotes: s.quotes
+            .slice()
+            .sort((x, y) => rankCmp(x.rank, y.rank))
+            .slice(0, quoteCap)
+            .map(({ p, text }) => ({ p, text })),
+          hint: s.hint,
+          role: s.role,
+        }));
+
+    // ---- fold the stance-keyed accs into one edge per (from, target) ----
+    const byWork = new Map<string, Map<TargetKey, EmitEdge>>();
+    const byTarget = new Map<
+      TargetKey,
+      {
+        key: TargetKey;
+        kind: "work" | "author" | "label";
+        label: string;
+        author_label?: string;
+        to_work?: string;
+        to_author?: string;
+        total: number;
+        stances: Record<Stance, number>;
+        rows: Map<string, any>;
+      }
+    >();
+
+    for (const c of citationAccs) {
+      const { toWork, toAuthor, key } = resolveTarget(c);
+      const kind = toWork ? "work" : toAuthor ? "author" : "label";
+      // The lemma has to name the target the fold is keyed on, not whichever
+      // citation inside it happened to rank first. An edge that resolved on
+      // its author side only gathers every one of his works under a:<slug>,
+      // so taking the label from citedWork printed Homer's 278 citations as
+      // "Iliad and Odyssey" and Plato's 201 as "critique of sophistic
+      // (unspecified)" — 127 of the 141 author targets were named that way,
+      // and the same string then set the index bucket letter. Which work each
+      // citation names survives in `why` and in the per-chapter hint/role.
+      const label =
+        kind === "author"
+          ? (authorName[toAuthor!] ?? c.citedAuthor)
+          : c.citedWork || c.citedAuthor;
+      const authorLabel =
+        kind !== "author" && c.citedWork && c.citedAuthor ? c.citedAuthor : undefined;
+
+      // ---- per citing work
+      const wmap = byWork.get(c.from) ?? new Map<TargetKey, EmitEdge>();
+      const e =
+        wmap.get(key) ??
+        ({
+          target: key,
+          label,
+          author_label: authorLabel,
+          to_work: toWork,
+          to_author: toAuthor,
+          count: 0,
+          passages: 0,
+          stances: {},
+          chapters: [],
+          unanchored: 0,
+        } as EmitEdge);
+      e.count += c.count;
+      e.stances[c.stance] = (e.stances[c.stance] ?? 0) + c.count;
+      e.unanchored += c.unanchored;
+      if (!e.why && c.why) e.why = c.why;
+      // merge chapter slots across the (up to five) stance edges
+      for (const ch of emitChapters(c, 4)) {
+        const prev = e.chapters.find((x) => x.chapter === ch.chapter);
+        if (!prev) {
+          e.chapters.push(ch);
+        } else {
+          // The union is the count. The stance-keyed accs are five views of
+          // one edge and the same paragraph can stand in two of them, so
+          // adding the slot sizes would count it twice; and the 24-id cap
+          // this replaces let `count` outgrow the `p` it is meant to be the
+          // length of in 230 of 15,252 slots.
+          for (const p of ch.p) if (!prev.p.includes(p)) prev.p.push(p);
+          prev.count = prev.p.length;
+          for (const q of ch.quotes)
+            if (prev.quotes.length < 4 && !prev.quotes.some((x) => x.p === q.p))
+              prev.quotes.push(q);
+          if (!prev.hint) prev.hint = ch.hint;
+          if (!prev.role) prev.role = ch.role;
+        }
+      }
+      wmap.set(key, e);
+      byWork.set(c.from, wmap);
+
+      // ---- reverse index
+      const t =
+        byTarget.get(key) ??
+        ({
+          key,
+          kind,
+          label,
+          author_label: authorLabel,
+          to_work: toWork,
+          to_author: toAuthor,
+          total: 0,
+          stances: {},
+          rows: new Map<string, any>(),
+        } as any);
+      t.total += c.count;
+      t.stances[c.stance] = (t.stances[c.stance] ?? 0) + c.count;
+      const row =
+        t.rows.get(c.from) ??
+        ({
+          from: c.from,
+          from_author: works[c.from]?.author,
+          count: 0,
+          // overwritten from the chapter run before the file is written;
+          // present here so the row's shape is one thing, not two.
+          passages: 0,
+          stances: {} as Record<Stance, number>,
+          chapters: [] as { chapter: string; variant: string; count: number; p: string[] }[],
+          quote: undefined as any,
+          why: undefined as string | undefined,
+        } as any);
+      row.count += c.count;
+      row.stances[c.stance] = (row.stances[c.stance] ?? 0) + c.count;
+      if (!row.why && c.why) row.why = c.why;
+      for (const ch of emitChapters(c, 1)) {
+        const prev = row.chapters.find((x: any) => x.chapter === ch.chapter);
+        if (!prev) row.chapters.push({ chapter: ch.chapter, variant: ch.variant, count: ch.count, p: ch.p });
+        else {
+          for (const p of ch.p) if (!prev.p.includes(p)) prev.p.push(p);
+          prev.count = prev.p.length;
+        }
+        if (!row.quote && ch.quotes[0])
+          row.quote = { ...ch.quotes[0], chapter: ch.chapter, variant: ch.variant };
+      }
+      t.rows.set(c.from, row);
+      byTarget.set(key, t);
+    }
+
+    // ---- write one file per citing work --------------------------------
+    const workFileSlugs: string[] = [];
+    for (const [w, wmap] of [...byWork.entries()].sort()) {
+      const edges = [...wmap.values()].sort(
+        (a, b) => b.count - a.count || (a.label < b.label ? -1 : 1),
+      );
+      const by_chapter: Record<string, number[]> = {};
+      edges.forEach((e, i) => {
+        for (const ch of e.chapters) (by_chapter[ch.chapter] ??= []).push(i);
+      });
+      const stances: Record<Stance, number> = {};
+      let citationsTotal = 0,
+        passagesTotal = 0,
+        chapterless = 0,
+        inWorks = 0,
+        inAuthors = 0,
+        unresolved = 0;
+      for (const e of edges) {
+        // Derived here, from the array that is about to be serialised, and
+        // nowhere else: a `passages` accumulated alongside the fold could
+        // drift from the chapter run the reader adds up, which is the one
+        // thing this number exists to make impossible.
+        e.passages = e.chapters.reduce((n, ch) => n + ch.count, 0);
+        citationsTotal += e.count;
+        passagesTotal += e.passages;
+        for (const [s, n] of Object.entries(e.stances)) stances[s] = (stances[s] ?? 0) + n;
+        if (e.chapters.length === 0) chapterless++;
+        if (e.to_work) inWorks++;
+        else if (e.to_author) inAuthors++;
+        else unresolved++;
+      }
+      await Bun.write(
+        join(OUT_DIR, "citations", "works", `${w}.json`),
+        JSON.stringify({
+          version: 1,
+          work: w,
+          edges,
+          by_chapter,
+          totals: {
+            citations: citationsTotal,
+            passages: passagesTotal,
+            edges: edges.length,
+            targets: edges.length,
+            chapters: Object.keys(by_chapter).length,
+            stances,
+            in_library_works: inWorks,
+            in_library_authors: inAuthors,
+            unresolved,
+            chapterless,
+          },
+        }) + "\n",
+      );
+      workFileSlugs.push(w);
+    }
+
+    // ---- write one file per page-worthy target -------------------------
+    // Page-worthy = resolves into the library, or ≥2 distinct citing works.
+    // 11,363 targets are cited exactly once by one book; a page for each
+    // would be 96% dead weight.
+    const targetSlugTaken = new Map<string, number>();
+    const indexTargets: any[] = [];
+    for (const t of [...byTarget.values()].sort(
+      (a, b) => b.rows.size - a.rows.size || b.total - a.total || (a.label < b.label ? -1 : 1),
+    )) {
+      const paged = Boolean(t.to_work || t.to_author) || t.rows.size >= 2;
+      // Same derivation as the work file, on the same rule: the row's
+      // `passages` is read off the chapter run that ships beside it.
+      let targetPassages = 0;
+      for (const r of t.rows.values()) {
+        r.passages = r.chapters.reduce((n: number, ch: any) => n + ch.count, 0);
+        targetPassages += r.passages;
+      }
+      const stem =
+        t.kind === "work" ? `work--${t.to_work}` :
+        t.kind === "author" ? `author--${t.to_author}` :
+        `label--${slugify(t.label)}`;
+      const n = targetSlugTaken.get(stem) ?? 0;
+      targetSlugTaken.set(stem, n + 1);
+      const file = n > 0 ? `${stem}-${n + 1}` : stem;
+      const slug = file.replace(/^(work|author|label)--/, "");
+
+      indexTargets.push({
+        key: t.key,
+        kind: t.kind,
+        slug,
+        file: paged ? file : undefined,
+        label: t.label,
+        author_label: t.author_label,
+        to_work: t.to_work,
+        to_author: t.to_author,
+        total: t.total,
+        passages: targetPassages,
+        citing_works: t.rows.size,
+        stances: t.stances,
+      });
+      if (!paged) continue;
+
+      const by = [...t.rows.values()].sort(
+        (a: any, b: any) => b.count - a.count || (a.from < b.from ? -1 : 1),
+      );
+      await Bun.write(
+        join(OUT_DIR, "citations", "targets", `${file}.json`),
+        JSON.stringify({
+          version: 1,
+          key: t.key,
+          kind: t.kind,
+          slug,
+          label: t.label,
+          author_label: t.author_label,
+          to_work: t.to_work,
+          to_author: t.to_author,
+          total: t.total,
+          passages: targetPassages,
+          citing_works: t.rows.size,
+          stances: t.stances,
+          by,
+        }) + "\n",
+      );
+    }
+
+    const pagedCount = indexTargets.filter((t) => t.file).length;
+    const passagesAll = indexTargets.reduce((n, t) => n + t.passages, 0);
+
+    await Bun.write(
+      join(OUT_DIR, "citations", "index.json"),
+      JSON.stringify({
+        version: 1,
+        generated_at: new Date().toISOString(),
+        works: workFileSlugs,
+        // only the paged targets ride the index; the once-named tail lives
+        // on its citing work's page, where its single locus is printed.
+        targets: indexTargets.filter((t) => t.file),
+        totals: {
+          // the corpus-wide passage figure, summed over the same rows the
+          // target files carry; no second derivation, and every (citing
+          // work, target) pair belongs to exactly one target, so nothing is
+          // counted twice. meta.json deliberately has no rival to it.
+          passages: passagesAll,
+          targets_all: indexTargets.length,
+          targets_paged: pagedCount,
+          targets_named_once: indexTargets.length - pagedCount,
+          targets_in_library_works: indexTargets.filter((t) => t.kind === "work").length,
+          targets_in_library_authors: indexTargets.filter((t) => t.kind === "author").length,
+          citing_works: workFileSlugs.length,
+        },
+      }) + "\n",
+    );
+    console.log(
+      `citation loci: ${workFileSlugs.length} work files · ${pagedCount} target files · ` +
+        `${passagesAll} anchored passages · ${citationChapterQuotes} chapter-anchored quotes · ` +
+        `${crossWorkDropped} cross-work refs dropped`,
+    );
+  }
 
   const themeRows = [...themes.entries()]
     .sort((a, b) => b[1].total - a[1].total || (a[0] < b[0] ? -1 : 1))

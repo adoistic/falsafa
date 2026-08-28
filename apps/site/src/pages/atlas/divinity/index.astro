@@ -15,6 +15,7 @@ import {
   atlasMeta,
   deities,
   divineCollectives,
+  entityHasPage,
   fmt,
   plural as pl,
 } from "../../../lib/atlas-graph";
@@ -22,7 +23,7 @@ import {
 const meta = atlasMeta();
 const gods = meta ? deities() : [];
 const collectives = meta ? divineCollectives() : [];
-const paged = gods.filter((e) => e.page);
+const paged = gods.filter((e) => entityHasPage(e.kind, e.slug));
 const SHOWN = 72;
 const shown = paged.slice(0, SHOWN);
 const restCount = gods.length - shown.length;
@@ -69,7 +70,16 @@ const description = meta
                   {i > 0 && <span class="run-sep"> · </span>}
                   <a href={`/atlas/figures/${e.slug}/`} class="god-link">
                     {e.name}
-                    <span class="god-count">{e.works}</span>
+                    {/* The run sets the count as a bare numeral because 72 of
+                        them read as a list only if the unit is silent; spoken
+                        aloud "Zeus 182" is not a fact, so the unit is carried
+                        for the screen reader alone and pluralized with it. */}
+                    <span class="god-count">
+                      {fmt(e.works)}
+                      <span class="visually-hidden">
+                        {e.works === 1 ? " work" : " works"}
+                      </span>
+                    </span>
                   </a>
                 </>
               ))}
@@ -97,11 +107,11 @@ const description = meta
                 <li>
                   <a
                     class="coll-row"
-                    href={e.page ? `/atlas/groups/${e.slug}/` : undefined}
+                    href={entityHasPage(e.kind, e.slug) ? `/atlas/groups/${e.slug}/` : undefined}
                   >
                     <span class="coll-name">{e.name}</span>
                     <span class="coll-meta">
-                      {pl(e.works, "work")} · {fmt(e.mentions)} mentions
+                      {pl(e.works, "work")} · {pl(e.mentions, "mention")}
                     </span>
                   </a>
                 </li>

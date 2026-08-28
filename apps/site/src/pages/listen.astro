@@ -1,17 +1,120 @@
 ---
+/**
+ * Listen — the corpus out loud. Every row here is data-driven from the
+ * audio manifest (works whose narration/verse audio AND word-level
+ * alignment are complete), so the page grows as coverage grows without
+ * template changes. Catalogue & Ledger grammar: running head, colophon
+ * numbers inline, hairline ledger rows, no billboards.
+ */
 import Base from "../layouts/Base.astro";
-import ComingSoon from "../components/ComingSoon.astro";
+import { works } from "../lib/corpus";
+import { workAudio, fmtDuration } from "../lib/audio";
+import { organizationLd } from "../lib/seo";
+import "../styles/listen.css";
+
+const all = works()
+  .map((w) => ({ w, a: workAudio(w.slug) }))
+  .filter((x) => x.a !== null)
+  .map((x) => ({ ...x.w, dur: x.a!.dur, tracks: x.a!.tracks }));
+
+const totalMs = all.reduce((s, w) => s + w.dur, 0);
+const totalHours = Math.round(totalMs / 3600000);
+const nWorks = all.length;
+
+// Featured: the longest works that carry both voices or are landmark epics,
+// falling back to the longest overall. Hand-pinned slugs surface first when
+// their audio exists.
+const PINNED = [
+  "mahabharata",
+  "valmiki-ramayana",
+  "rigveda",
+  "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "boethius-the-consolation-of-philosophy-88b715",
+  "homer-the-iliad",
+];
+const bySlug = new Map(all.map((w) => [w.slug, w]));
+const pinned = PINNED.map((s) =>
+  [...bySlug.values()].find((w) => w.slug === s || w.slug.startsWith(s + "-")),
+).filter(Boolean) as typeof all;
+const rest = all
+  .filter((w) => !pinned.includes(w))
+  .sort((a, b) => b.dur - a.dur);
+const featured = [...pinned, ...rest].slice(0, 6);
+
+// Ledger: grouped by era, alphabetical within.
+const eras = new Map<string, typeof all>();
+for (const w of all) {
+  if (!eras.has(w.era)) eras.set(w.era, []);
+  eras.get(w.era)!.push(w);
+}
+const eraGroups = [...eras.entries()]
+  .map(([era, ws]) => ({
+    era,
+    ws: ws.sort(
+      (a, b) =>
+        a.author.localeCompare(b.author, "en") || a.title.localeCompare(b.title, "en"),
+    ),
+  }))
+  .sort((a, b) => b.ws.length - a.ws.length);
+
+const voiceLabel = (tracks: string[]) =>
+  tracks.length === 2 ? "narration & verse" : tracks[0] === "verse" ? "verse" : "narration";
 ---
 
 <Base
+  jsonLd={[{
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    name: "Listen — the Falsafa corpus as audio",
+    url: "https://falsafa.ai/listen/",
+    description: `${nWorks} works, ${totalHours} hours of narration and verse with word-level read-along`,
+    publisher: organizationLd(),
+  }]}
   title="Listen"
-  description="Falsafa as audio — poetic works set to song, prose read as audiobooks."
+  description={`The Falsafa corpus out loud — ${nWorks} works, ${totalHours} hours of narration and verse, with word-level read-along.`}
 >
-  <ComingSoon
-    kicker="Listen"
-    title="The corpus, out loud"
-    blurb="Every work is being turned into something you can hear. Verse — the Rāmāyaṇa, the Mahābhārata, the Vedas, Homer, Virgil, Ghālib — is set to music as song. Prose is read as audiobook. And in the works that weave the two together, the poetry breaks out of the prose into song. English first; select works in the original language may follow."
-    repo="https://github.com/adoistic/falsafa-audio"
-    repoLabel="adoistic/falsafa-audio"
-  />
+  <section class="listen">
+    <header class="listen-head">
+      <p class="listen-kicker">listen</p>
+      <h1>The corpus, out loud</h1>
+      <p class="listen-intro">
+        Every work here can be heard as well as read — prose as narration,
+        poetry line by line in a second voice; where a text mixes the two, the
+        verse steps out of the prose. Open any chapter and choose
+        <em>Listen</em>, or <em>Read along</em> to follow the voice word by word.
+        So far: <strong>{nWorks.toLocaleString("en-US")}</strong> works,
+        <strong>{totalHours.toLocaleString("en-US")}</strong> hours.
+      </p>
+    </header>
+
+    <section class="listen-featured" aria-label="Featured listening">
+      {featured.map((w) => (
+        <a class="listen-card" href={`/works/${w.slug}/`}>
+          <span class="listen-card-title">{w.title}</span>
+          <span class="listen-card-author">{w.author}</span>
+          <span class="listen-card-meta">{voiceLabel(w.tracks)} · {fmtDuration(w.dur)}</span>
+        </a>
+      ))}
+    </section>
+
+    {eraGroups.map(({ era, ws }) => (
+      <section class="listen-era">
+        <h2 class="listen-era-head">
+          <span>{era}</span>
+          <span class="listen-era-count">{ws.length}</span>
+        </h2>
+        <ul class="listen-ledger">
+          {ws.map((w) => (
+            <li>
+              <a href={`/works/${w.slug}/`}>
+                <span class="ll-title">{w.title}</span>
+                <span class="ll-author">{w.author}</span>
+                <span class="ll-dur">{fmtDuration(w.dur)}</span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    ))}
+  </section>
 </Base>

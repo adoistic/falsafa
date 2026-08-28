@@ -234,6 +234,25 @@
   text-align: left;
 }
 
+/* Embedded verse inside a prose chapter — the poetry "breaks out" of the
+   prose. Marked verse-mode typography (italic, restored line breaks) plus
+   the quiet 1px accent hairline the citation grammar already uses. The
+   .verse-inline class is injected at build time from the audio pipeline's
+   verse-span classification (src/data/verse-blocks.json). */
+.reader-body .verse-inline {
+  font-style: italic;
+  font-size: 1.03em;
+  line-height: 1.55;
+  white-space: pre-line;
+  border-left: 1px solid var(--accent-soft);
+  padding-left: var(--s-5);
+  margin-top: 1.6em;
+  margin-bottom: 1.6em;
+}
+.reader-body .verse-inline + .verse-inline {
+  margin-top: -0.6em; /* consecutive stanzas share one breath */
+}
+
 /* ── Layout: manuscript ──────────────────────────────────────────────── */
 
 .reader[data-layout="manuscript"] .reader-body {

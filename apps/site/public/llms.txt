@@ -1,6 +1,6 @@
 # Falsafa
 
-> Falsafa is a free, open-access digital library and archive of philosophy and the history of thought — 2018 works spanning ancient, medieval, and modern traditions across Greek, Latin, Sanskrit, Arabic, and other languages, each presented with original text, English translation, and transliteration where applicable.
+> Falsafa is a free, open-access digital library and archive of philosophy and the history of thought — 2018 works in Greek, Latin, Sanskrit, Urdu, Old English, Kawi and other languages, each presented with original text, English translation, and transliteration where applicable.
 
 Falsafa makes primary philosophical and literary sources directly readable. The corpus covers classical antiquity, Hellenistic and Roman thought, late antique and medieval philosophy, early modern and Enlightenment writing, and 19th–20th century philosophy — all in a clean reading interface with multiple text variants per chapter. Works are indexed by author, era, genre, and language. The site is fully static, open to crawling, and intended to be cited and quoted.
 
@@ -40,8 +40,27 @@ Genres: 34
 ## Resources
 
 - [Browse all works](https://falsafa.ai/works/)
+- [Listen — the corpus as audio](https://falsafa.ai/listen/)
 - [About Falsafa](https://falsafa.ai/about/)
 - [Atlas — authors and traditions](https://falsafa.ai/atlas/)
+- [The citation ledger — who cites whom, anchored to the paragraph](https://falsafa.ai/atlas/citations/)
 - [Numbers — corpus statistics](https://falsafa.ai/numbers/)
 - [Complete work index (llms-full.txt)](https://falsafa.ai/llms-full.txt)
 - [Sitemap](https://falsafa.ai/sitemap-index.xml)
+
+## Audio
+
+Most works are also available as streamed audio (HLS; English narration, with
+verse read in a second voice) and word-level read-along timing. Open any
+chapter page and choose Listen or Read along. Chapter audio manifests and
+word-timing sidecars live under https://falsafa.ai/audio/align/.
+
+## For agents: the MCP server
+
+The corpus is queryable as a Model Context Protocol server — librarian tools
+with paragraph-stable citations, no API key:
+
+    npx -y @falsafa/mcp
+
+Works with Claude Desktop, Claude Code, Cursor, Codex CLI, and any stdio MCP
+client. Package: https://www.npmjs.com/package/@falsafa/mcp

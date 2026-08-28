@@ -113,10 +113,17 @@ const verdictGlyph = verdict === true ? "✓" : verdict === false ? "×" : "—"
 
 ---
 
+{/* Pass/fail comes from the deterministic citation check against
+    expected_works (substring match w/ NFKD diacritic fold for the 2026-04-30
+    deadline; graded 3-state scoring is queued for the rework — see TODOs).
+    `noindex` stays on while the eval scoring is mid-rework, and these URLs
+    are excluded from the sitemap to match (astro.config.mjs) — submitting a
+    URL you have asked Google not to index is reported back as an error. */}
 <Base
   surface="engine"
   title={`${c.id} · Eval`}
   description={`Falsafa eval case ${c.id}: ${c.prompt.slice(0, 140)}…`}
+  noindex
 >
   {/* Page-level CSP: the answer body is sanitized by DOMPurify but defense-
       in-depth via CSP keeps the surface tight. No 'unsafe-eval', no inline
@@ -125,12 +132,6 @@ const verdictGlyph = verdict === true ? "✓" : verdict === false ? "×" : "—"
       the Pagefind escape that /try/ has. */}
   <Fragment slot="head">
     <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self' data:; connect-src 'self'; base-uri 'self'; form-action 'self'; frame-ancestors 'none';" />
-    {/* Pass/fail comes from the deterministic citation check against
-        expected_works (substring match w/ NFKD diacritic fold for the
-        2026-04-30 deadline; graded 3-state scoring is queued for the
-        rework — see TODOs). Robots-noindex stays on while the eval
-        scoring is mid-rework. */}
-    <meta name="robots" content="noindex,follow" />
   </Fragment>
 
   <article class="eval-case-page" data-pagefind-body>

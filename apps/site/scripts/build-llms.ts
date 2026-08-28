@@ -90,11 +90,43 @@ const eraCountsSorted = [...eraCounts].sort(
 
 // ─── robots.txt ──────────────────────────────────────────────────────────────
 
+// AI crawlers and answer-engine bots. Falsafa is public-domain and open-source,
+// built to be read by people and cited by machines, so these are welcomed by
+// name — training, retrieval, and search alike. Grouping several User-agent
+// lines before one rule block is valid robots.txt: the block applies to all of
+// them.
+const AI_AGENTS = [
+  "GPTBot",              // OpenAI — training
+  "OAI-SearchBot",       // OpenAI — search index
+  "ChatGPT-User",        // OpenAI — live retrieval on user request
+  "ClaudeBot",           // Anthropic — training
+  "Claude-Web",          // Anthropic — live retrieval
+  "anthropic-ai",        // Anthropic — legacy
+  "Google-Extended",     // Google — Gemini / Vertex grounding
+  "Applebot-Extended",   // Apple Intelligence
+  "CCBot",               // Common Crawl (feeds many models)
+  "PerplexityBot",       // Perplexity
+  "Amazonbot",           // Amazon
+  "Bytespider",          // ByteDance
+  "meta-externalagent",  // Meta AI
+  "cohere-ai",           // Cohere
+  "Diffbot",             // Diffbot knowledge graph
+];
+
 const robotsTxt = [
   "# Falsafa — https://falsafa.ai",
-  "# LLM/agent discovery: /llms.txt (curated) and /llms-full.txt (complete index)",
+  "# A free, open library of philosophy and classics — built to be read by",
+  "# people and cited, honestly, by machines. The whole site is open to crawl.",
+  "#",
+  "# For LLMs and agents: /llms.txt (curated) and /llms-full.txt (full index).",
+  "# The corpus is also a Model Context Protocol server: npx -y @falsafa/mcp",
   "",
+  "# Everyone is welcome to the entire site.",
   "User-agent: *",
+  "Allow: /",
+  "",
+  "# AI training, retrieval, and answer-engine crawlers — explicitly welcome.",
+  ...AI_AGENTS.map((ua) => `User-agent: ${ua}`),
   "Allow: /",
   "",
   `Sitemap: ${ORIGIN}/sitemap-index.xml`,
@@ -107,7 +139,7 @@ const eraBreakdown = eraCountsSorted.map(([e, n]) => `  - ${e}: ${n}`).join("\n"
 
 const llmsTxt = `# Falsafa
 
-> Falsafa is a free, open-access digital library and archive of philosophy and the history of thought — ${totalWorks} works spanning ancient, medieval, and modern traditions across Greek, Latin, Sanskrit, Arabic, and other languages, each presented with original text, English translation, and transliteration where applicable.
+> Falsafa is a free, open-access digital library and archive of philosophy and the history of thought — ${totalWorks} works in Greek, Latin, Sanskrit, Urdu, Old English, Kawi and other languages, each presented with original text, English translation, and transliteration where applicable.
 
 Falsafa makes primary philosophical and literary sources directly readable. The corpus covers classical antiquity, Hellenistic and Roman thought, late antique and medieval philosophy, early modern and Enlightenment writing, and 19th–20th century philosophy — all in a clean reading interface with multiple text variants per chapter. Works are indexed by author, era, genre, and language. The site is fully static, open to crawling, and intended to be cited and quoted.
 
@@ -128,11 +160,30 @@ ${eraBreakdown}
 ## Resources
 
 - [Browse all works](${ORIGIN}/works/)
+- [Listen — the corpus as audio](${ORIGIN}/listen/)
 - [About Falsafa](${ORIGIN}/about/)
 - [Atlas — authors and traditions](${ORIGIN}/atlas/)
+- [The citation ledger — who cites whom, anchored to the paragraph](${ORIGIN}/atlas/citations/)
 - [Numbers — corpus statistics](${ORIGIN}/numbers/)
 - [Complete work index (llms-full.txt)](${ORIGIN}/llms-full.txt)
 - [Sitemap](${ORIGIN}/sitemap-index.xml)
+
+## Audio
+
+Most works are also available as streamed audio (HLS; English narration, with
+verse read in a second voice) and word-level read-along timing. Open any
+chapter page and choose Listen or Read along. Chapter audio manifests and
+word-timing sidecars live under ${ORIGIN}/audio/align/.
+
+## For agents: the MCP server
+
+The corpus is queryable as a Model Context Protocol server — librarian tools
+with paragraph-stable citations, no API key:
+
+    npx -y @falsafa/mcp
+
+Works with Claude Desktop, Claude Code, Cursor, Codex CLI, and any stdio MCP
+client. Package: https://www.npmjs.com/package/@falsafa/mcp
 `;
 
 // ─── llms-full.txt ───────────────────────────────────────────────────────────
@@ -183,9 +234,19 @@ Falsafa (${ORIGIN}) is an open-access digital library of philosophy and the hist
 - **Curated summary** (LLM context-friendly, ~2 KB): ${ORIGIN}/llms.txt
 - **Complete work index** (all ${totalWorks} works, grouped by era, ~200 KB): ${ORIGIN}/llms-full.txt
 
-Each work is accessible at \`${ORIGIN}/works/<slug>/\`. Chapters are served at \`${ORIGIN}/works/<slug>/<chapter-slug>/\` with multiple text variants (original, translation, transliteration) selectable via query parameter \`?v=<variant_id>\`.
+Each work is accessible at \`${ORIGIN}/works/<slug>/\`. Chapter text is served per variant at \`${ORIGIN}/works/<slug>/<chapter-slug>/<variant>/\`, where \`<variant>\` is \`translation\`, \`original\`, or \`transliteration\` (whichever exist for that chapter).
 
 The corpus manifest (JSON, machine-readable) is available at: ${ORIGIN}/corpus/manifest.json
+
+## The citation apparatus
+
+Where a text in the corpus names another work or author, the harvest records the citation, the stance it is made in, and the paragraph that does the naming. Three URL shapes carry it:
+
+- \`${ORIGIN}/works/<slug>/citations/\` — every source a work draws on, with the chapter and paragraph that does the citing, and below it the works that cite this one back
+- \`${ORIGIN}/authors/<slug>/citations/\` — an author's whole library of sources, across all their works, and who cites them back
+- \`${ORIGIN}/atlas/citations/<label>/\` — a work or author the library does not hold but its texts repeatedly cite
+
+Every citation on these pages is anchored: the link lands on the exact paragraph in the reader, so a claim can be checked against the text rather than taken on trust. The ledger of the whole graph is at ${ORIGIN}/atlas/citations/.
 `;
 
 // ─── Write files ─────────────────────────────────────────────────────────────

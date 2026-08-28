@@ -17,12 +17,20 @@ import {
   entityDetail,
   entityIndex,
   dualNatures,
+  seeIsResolvable,
   kindByPlural,
   KINDS,
-  fmt,
   plural as pl,
   type EntityDetailFile,
 } from "../../../lib/atlas-graph";
+import { manifest, workEntryHref } from "../../../lib/corpus";
+import {
+  citingWorkSlugs,
+  citedWorkSlugs,
+  citedAuthorSlugs,
+  targetIndexRow,
+  targetHref,
+} from "../../../lib/atlas-citations";
 
 export function getStaticPaths() {
   const paths: { params: { kind: string; slug: string } }[] = [];
@@ -32,9 +40,11 @@ export function getStaticPaths() {
     if (def) paths.push({ params: { kind: def.plural, slug } });
   }
   // see-reference stubs: former member URLs ("Kāla") redirect to their
-  // concept head ("Time") so folded slugs never 404
+  // concept head ("Time") so folded slugs never 404. Only build the stub
+  // when the head itself has a page — a stub whose target was never paged
+  // is a redirect into a 404, worse than the plain 404 it replaces.
   for (const row of entityIndex()) {
-    if (!row.see) continue;
+    if (!seeIsResolvable(row)) continue;
     const def = KINDS.find((k) => k.kind === row.kind);
     if (def) paths.push({ params: { kind: def.plural, slug: row.slug } });
   }
@@ -49,7 +59,7 @@ const e = entityDetail(kindDef.kind, slug!) as EntityDetailFile | null;
 const seeRow = e
   ? null
   : entityIndex().find(
-      (r) => r.kind === kindDef.kind && r.slug === slug && r.see,
+      (r) => r.kind === kindDef.kind && r.slug === slug && seeIsResolvable(r),
     );
 const seeTarget = seeRow ? `/atlas/${kindDef.plural}/${seeRow.see}/` : null;
 const seeHead = seeRow
@@ -83,14 +93,66 @@ const kindLine = e
 // beside Hades the underworld) — cross-linked, never merged
 const duals = e ? dualNatures(e.name, e.kind) : [];
 
+/**
+ * Does /authors/<slug>/citations/ exist? Mirrors the gate in that route's
+ * getStaticPaths: the author's works cite something, or the author — or one
+ * of his books — is cited. 190 of the corpus's 622 authors pass it.
+ */
+function authorCitationsBuilt(authorSlug: string): boolean {
+  const w = manifest().authors[authorSlug]?.works ?? [];
+  return (
+    w.some((s) => citingWorkSlugs().has(s)) ||
+    citedAuthorSlugs().has(authorSlug) ||
+    w.some((s) => citedWorkSlugs().has(s))
+  );
+}
+
+/**
+ * The census reconciles the two number systems this page has kept apart.
+ * The header counts MENTIONS — every time the harvest saw the name in a
+ * text. The citation ledger counts CITATIONS — every time a text named this
+ * as a source. For Plato they are 135 mentions across 41 works and 201
+ * citations from 72, and neither page linked to the other.
+ *
+ * A corpus author is looked up by his author key, falling back to the
+ * wanted list by slug. In the current build 126 entity pages carry an
+ * inbound author census and 111 match a wanted target — the Gospel of
+ * Matthew as an object, the Twelve Tables, Cicero as a figure. `targetHref`
+ * refuses to link a target that was never paged, so the number is never
+ * printed without the passages behind it.
+ */
+const censusRow = e
+  ? ((e.author_slug ? targetIndexRow(`a:${e.author_slug}`) : null) ??
+    targetIndexRow(`l:${e.slug}`))
+  : null;
+const censusHref = censusRow ? targetHref(censusRow) : null;
+// An author whose works cite but who is never cited back still has a whole
+// library behind him — Clement names 653 sources — and no inbound census to
+// carry the link, so the outbound page is named in its own right. 22 entity
+// pages reach their citations this way and would otherwise dead-end.
+const libraryHref =
+  e?.author_slug &&
+  authorCitationsBuilt(e.author_slug) &&
+  !censusHref?.startsWith("/authors/")
+    ? `/authors/${e.author_slug}/citations/`
+    : null;
+
 const desc = e
   ? (shown.find((w) => w.description)?.description ??
-    `${e.name} in the atlas: ${pl(e.works.length, "work")}, ${fmt(e.mentions)} mentions.`)
+    `${e.name} in the atlas: ${pl(e.works.length, "work")}, ${pl(e.mentions, "mention")}.`)
   : `${seeRow?.name} — see ${seeHead?.name ?? "the atlas"}.`;
 const pageTitle = e ? `${e.name} · Atlas` : `${seeRow?.name} · Atlas`;
 ---
 
-<Base title={pageTitle} description={desc.slice(0, 200)} ogImage="/og/atlas.png">
+{/* A see-reference is an alias, not a destination: canonicalize it onto the
+    concept head so the fold consolidates instead of competing, and keep it
+    out of the sitemap (astro.config.mjs). */}
+<Base
+  title={pageTitle}
+  description={desc.slice(0, 200)}
+  ogImage="/og/atlas.png"
+  canonicalPath={seeTarget ?? undefined}
+>
   {
     seeRow && seeTarget && (
       <>
@@ -127,14 +189,35 @@ const pageTitle = e ? `${e.name} · Atlas` : `${seeRow?.name} · Atlas`;
       {e.gloss && <p class="gloss-line">“{e.gloss}”</p>}
       <p class="kind-line">
         {kindLine} ·
-        {pl(e.works.length, "work")} · {fmt(e.mentions)} mentions ·
-        {fmt(e.evidence)} anchored passages
+        {pl(e.works.length, "work")} · {pl(e.mentions, "mention")} ·
+        {pl(e.evidence, "anchored passage")}
         {
           e.author_slug && (
             <>
               {" "}
               · <a href={`/authors/${e.author_slug}/`} class="author-link">
                 author page
+              </a>
+            </>
+          )
+        }
+        {
+          censusRow && censusHref && (
+            <>
+              {" "}
+              · <a href={censusHref} class="author-link">
+                cited {pl(censusRow.total, "time")} in{" "}
+                {pl(censusRow.citing_works, "work")}
+              </a>
+            </>
+          )
+        }
+        {
+          libraryHref && (
+            <>
+              {" "}
+              · <a href={libraryHref} class="author-link">
+                the sources this author draws on
               </a>
             </>
           )
@@ -194,7 +277,7 @@ const pageTitle = e ? `${e.name} · Atlas` : `${seeRow?.name} · Atlas`;
                   {x.works.map((w, i) => (
                     <>
                       {i > 0 && <span class="expr-sep"> · </span>}
-                      <a href={`/works/${w.work}/`}>{w.title ?? w.work}</a>
+                      <a href={workEntryHref(w.work)}>{w.title ?? w.work}</a>
                       {w.language && (
                         <span class="expr-lang">
                           {" "}
@@ -219,12 +302,16 @@ const pageTitle = e ? `${e.name} · Atlas` : `${seeRow?.name} · Atlas`;
         title="in the texts"
         folio={rest.length > 0 ? `first ${shown.length} works` : undefined}
       />
+      {/* workEntryHref, not /works/<slug>/: 269 of the 357 harvested works
+          are single-chapter, and their work page is a location.replace()
+          stub. Two rows that look alike must not lead to two different kinds
+          of destination — one to a table of contents, one to a bounce. */}
       <div class="works">
         {
           shown.map((w) => (
             <div class="work-entry">
               <h3 class="work-h">
-                <a href={`/works/${w.work}/`}>{w.title}</a>
+                <a href={workEntryHref(w.work)}>{w.title}</a>
                 <span class="work-meta">
                   {[w.era, w.language?.replace(/_/g, " ")]
                     .filter(Boolean)
@@ -247,7 +334,7 @@ const pageTitle = e ? `${e.name} · Atlas` : `${seeRow?.name} · Atlas`;
               {rest.map((w, i) => (
                 <>
                   {i > 0 && <span class="rest-sep"> · </span>}
-                  <a href={`/works/${w.work}/`}>{w.title}</a>
+                  <a href={workEntryHref(w.work)}>{w.title}</a>
                 </>
               ))}
             </p>

@@ -1,0 +1,52 @@
+---
+/**
+ * Arrangement — in-page section links on one citation surface.
+ *
+ * One register quieter than the Gathering: run-in italic under the rule,
+ * above a section head. It cannot be confused with the gathering (no rule,
+ * lighter weight) or with the run-in entity lists (its items are views of
+ * the same material, not nouns in it).
+ *
+ * Nothing to switch is nothing to print: a single item renders no line.
+ */
+interface Item { label: string; href: string; current?: boolean }
+interface Props { label?: string; items: Item[] }
+const { label = "arranged", items } = Astro.props;
+---
+
+{items.length > 1 && (
+  <p class="arrangement">
+    <span class="arr-label">{label}</span>
+    {items.map((it, i) => (
+      <>
+        {i > 0 && <span class="arr-sep" aria-hidden="true"> · </span>}
+        <a href={it.href} aria-current={it.current ? "true" : undefined}>{it.label}</a>
+      </>
+    ))}
+  </p>
+)}
+
+<style>
+  .arrangement {
+    font-family: var(--font-body);
+    font-size: 17px;
+    margin: calc(-1 * var(--s-3)) 0 var(--s-8);
+  }
+  .arr-label {
+    font-variant: small-caps;
+    text-transform: lowercase;
+    letter-spacing: 0.06em;
+    color: var(--ink-muted);
+    margin-right: 0.6em;
+  }
+  .arrangement a { font-style: italic; color: var(--ink-muted); text-decoration: none; }
+  .arrangement a:hover { color: var(--accent); }
+  .arrangement a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .arrangement a[aria-current="true"] {
+    font-style: normal;
+    font-weight: 600;
+    color: var(--ink);
+    border-bottom: 1px solid var(--accent);
+  }
+  .arr-sep { color: var(--accent-soft); }
+</style>

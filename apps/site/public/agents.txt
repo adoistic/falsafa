@@ -7,6 +7,16 @@ Falsafa (https://falsafa.ai) is an open-access digital library of philosophy and
 - **Curated summary** (LLM context-friendly, ~2 KB): https://falsafa.ai/llms.txt
 - **Complete work index** (all 2018 works, grouped by era, ~200 KB): https://falsafa.ai/llms-full.txt
 
-Each work is accessible at `https://falsafa.ai/works/<slug>/`. Chapters are served at `https://falsafa.ai/works/<slug>/<chapter-slug>/` with multiple text variants (original, translation, transliteration) selectable via query parameter `?v=<variant_id>`.
+Each work is accessible at `https://falsafa.ai/works/<slug>/`. Chapter text is served per variant at `https://falsafa.ai/works/<slug>/<chapter-slug>/<variant>/`, where `<variant>` is `translation`, `original`, or `transliteration` (whichever exist for that chapter).
 
 The corpus manifest (JSON, machine-readable) is available at: https://falsafa.ai/corpus/manifest.json
+
+## The citation apparatus
+
+Where a text in the corpus names another work or author, the harvest records the citation, the stance it is made in, and the paragraph that does the naming. Three URL shapes carry it:
+
+- `https://falsafa.ai/works/<slug>/citations/` — every source a work draws on, with the chapter and paragraph that does the citing, and below it the works that cite this one back
+- `https://falsafa.ai/authors/<slug>/citations/` — an author's whole library of sources, across all their works, and who cites them back
+- `https://falsafa.ai/atlas/citations/<label>/` — a work or author the library does not hold but its texts repeatedly cite
+
+Every citation on these pages is anchored: the link lands on the exact paragraph in the reader, so a claim can be checked against the text rather than taken on trust. The ledger of the whole graph is at https://falsafa.ai/atlas/citations/.

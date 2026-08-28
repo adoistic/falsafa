@@ -18,16 +18,48 @@ interface Props {
    * demo, MCP. Same site, same URLs; only the chrome changes.
    */
   surface?: "reader" | "engine";
+  /** BCP-47 language of the page's main content (original-script chapter
+   *  pages are not English; search engines and screen readers need this). */
+  lang?: string;
+  /** schema.org JSON-LD objects to embed in <head>. */
+  jsonLd?: object[];
+  /**
+   * Override the self-referential canonical with a site-relative path.
+   * Only for pages that are not themselves a destination — the client-side
+   * redirect stubs (single-chapter works, atlas see-references), which must
+   * consolidate onto the page they bounce to rather than compete with it.
+   */
+  canonicalPath?: string;
+  /**
+   * Keep this page out of the index. Redirect stubs and machine-only pages
+   * are `noindex` AND excluded from the sitemap (see astro.config.mjs) —
+   * submitting a URL you have asked Google not to index is a contradiction
+   * Search Console reports back as an error.
+   */
+  noindex?: boolean;
 }
 
-const { title, description, ogImage, surface = "reader" } = Astro.props;
+const {
+  title,
+  description,
+  ogImage,
+  surface = "reader",
+  lang = "en",
+  jsonLd = [],
+  canonicalPath,
+  noindex = false,
+} = Astro.props;
 const siteName = "Falsafa";
-const fullTitle = title === siteName ? title : `${title} · ${siteName}`;
+// The home page gets a descriptive SERP title instead of the bare wordmark.
+const fullTitle =
+  title === siteName
+    ? "Falsafa — a living library of philosophy and classics"
+    : `${title} · ${siteName}`;
 
 // Absolute URLs for social previews (relative og:image is ignored by most
 // scrapers). Astro.site = https://falsafa.ai (astro.config.mjs).
 const site = Astro.site ?? new URL("https://falsafa.ai");
-const canonicalUrl = new URL(Astro.url.pathname, site).href;
+const canonicalUrl = new URL(canonicalPath ?? Astro.url.pathname, site).href;
 const ogImageUrl = new URL(ogImage ?? "/og/default.png", site).href;
 
 // Active-route detection. Match by path prefix so /works/iqbal-bang-e-dara/...
@@ -37,7 +69,10 @@ type NavItem = { label: string; href: string; matchPrefix: string };
 const readerNav: NavItem[] = [
   { label: "Read", href: "/works/", matchPrefix: "/works/" },
   { label: "Atlas", href: "/atlas/", matchPrefix: "/atlas/" },
-  { label: "Book", href: "/book/", matchPrefix: "/book/" },
+  // Book hidden from the nav until it is regenerated over the full corpus.
+  // The page at /book/ still builds and stays reachable directly; only the
+  // nav link is suppressed. Restore this entry when the Book is rebuilt.
+  // { label: "Book", href: "/book/", matchPrefix: "/book/" },
   { label: "Listen", href: "/listen/", matchPrefix: "/listen/" },
   { label: "About", href: "/about/", matchPrefix: "/about/" },
 ];
@@ -58,15 +93,24 @@ const isActive = (item: NavItem) => path === item.href || path.startsWith(item.m
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang={lang}>
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    {/* viewport-fit=cover lets env(safe-area-inset-*) resolve on notched
+        phones; the audio bar pads itself with it */}
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
     <meta name="generator" content={Astro.generator} />
 
     <title>{fullTitle}</title>
     {description && <meta name="description" content={description} />}
+    <meta
+      name="robots"
+      content={noindex ? "noindex, follow" : "index, follow, max-image-preview:large"}
+    />
     <link rel="canonical" href={canonicalUrl} />
+    {jsonLd.map((obj) => (
+      <script type="application/ld+json" set:html={JSON.stringify(obj)} />
+    ))}
 
     {/* Open Graph + Twitter cards — absolute URLs, declared dimensions, so
         previews render everywhere from WhatsApp and iMessage to X/LinkedIn.

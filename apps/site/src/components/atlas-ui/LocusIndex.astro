@@ -1,0 +1,124 @@
+---
+/**
+ * LocusIndex — every remaining source, alphabetical, one line each.
+ * Two columns at ≥900px, letter-ruled, dotted leaders. Contains no
+ * <details>, so opening a disclosure can never re-balance the columns.
+ *
+ * This is where "nothing is withheld" stops being aspirational: the tail
+ * is rendered entire, not summarised as "and 1,152 more". It can afford
+ * to be, because 95% of edges are cited once and 91.9% touch exactly one
+ * chapter — the common row is a complete apparatus entry in one line,
+ * "Aeschylus ····· book 5 ¶ 1", at roughly 180 bytes.
+ */
+import type { CitationRow } from "../../lib/atlas-citations";
+import { indexLetter, targetAnchor } from "../../lib/atlas-citations";
+interface Props { rows: CitationRow[] }
+const { rows } = Astro.props;
+const nf = new Intl.NumberFormat("en-US");
+const groups = (() => {
+  const sorted = rows.slice().sort((a, b) => {
+    const A = indexLetter(a.label), B = indexLetter(b.label);
+    return A < B ? -1 : A > B ? 1 : a.label < b.label ? -1 : a.label > b.label ? 1 : 0;
+  });
+  const out: { letter: string; items: CitationRow[] }[] = [];
+  for (const r of sorted) {
+    const L = indexLetter(r.label);
+    if (out.at(-1)?.letter !== L) out.push({ letter: L, items: [] });
+    out.at(-1)!.items.push(r);
+  }
+  return out;
+})();
+---
+<div class="locus-index">
+  {groups.map((g) => (
+    <>
+      <h3 class="ix-letter">{g.letter}</h3>
+      <ol class="ix-list">
+        {g.items.map((r) => (
+          <li class="ix" id={targetAnchor(r.key)}>
+            <span class="ix-label">
+              {r.href
+                ? <a href={r.href}>{r.inLibrary ? r.label : <em>{r.label}</em>}</a>
+                : (r.inLibrary ? r.label : <em>{r.label}</em>)}
+              {r.author_label && <span class="ix-attrib">{r.author_label}</span>}
+            </span>
+            <span class="ix-lead" aria-hidden="true"></span>
+            {/*
+              Every locus is printed and linked, with no "in N chapters"
+              fallback. The spec proposed one pointing at #t-<key>, but the
+              rows in this index are precisely the rows that got no full
+              entry, so that anchor would have landed nowhere. It is also
+              unnecessary: across the 726 tail rows the deepest run is six
+              chapters (Gaius on the Lex Junia) and 84% touch one or two,
+              so the run fits the line.
+            */}
+            <span class="ix-tail">
+              {r.loci.length === 0 ? (
+                <em>locus not recovered</em>
+              ) : (
+                r.loci.map((l, i) => (
+                  <>
+                    {i > 0 && <span class="ix-sep"> · </span>}
+                    {l.href ? <a href={l.href}>{l.label}</a> : l.label}
+                  </>
+                ))
+              )}
+            </span>
+            <span class="ix-n">
+              {nf.format(r.count)}
+              <span class="visually-hidden">{r.count === 1 ? " citation" : " citations"}</span>
+            </span>
+          </li>
+        ))}
+      </ol>
+    </>
+  ))}
+</div>
+
+<style>
+  .locus-index { font-family: var(--font-body); }
+  @media (min-width: 900px) { .locus-index { columns: 2; column-gap: var(--s-12); } }
+  .ix-letter {
+    font-size: 16px; font-weight: 600; font-variant: small-caps;
+    text-transform: lowercase; letter-spacing: 0.08em; color: var(--ink-muted);
+    border-top: 1px solid var(--rule); padding-top: var(--s-2);
+    margin: var(--s-5) 0 var(--s-1); break-after: avoid;
+  }
+  .ix-list { list-style: none; margin: 0; padding: 0; }
+  .ix {
+    display: flex; align-items: baseline; gap: 0.4em;
+    padding: 3px 0; font-size: 17px; line-height: 1.5;
+    break-inside: avoid; font-variant-numeric: oldstyle-nums;
+  }
+  .ix-label { color: var(--ink); }
+  .ix-label a { color: inherit; text-decoration: none; border-bottom: 1px solid var(--rule); }
+  .ix-label a:hover { color: var(--accent); border-color: var(--accent-soft); }
+  .ix-label a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .ix-label em { font-style: italic; }
+  .ix-attrib { color: var(--ink-muted); font-size: 15px; margin-left: 0.4em; }
+  /* The leader is struck from --ink-muted, not --rule. The spec's
+     `color-mix(--rule 80%, --paper)` measured 1.1:1 against the paper in
+     both light and dark — the dots were drawn and could not be seen, which
+     is the whole idiom gone. Muted ink at 40% carries in all three themes
+     and still reads as a leader rather than a second rule. */
+  .ix-lead {
+    flex: 1 1 1.5em; min-width: 1.5em; align-self: center;
+    border-bottom: 1px dotted color-mix(in srgb, var(--ink-muted) 40%, transparent);
+  }
+  /* The run wraps rather than overflowing — a six-chapter tail is two
+     lines, not a clipped one — but no single locus ever breaks in half. */
+  .ix-tail { color: var(--ink-muted); font-size: 15px; text-align: right; }
+  .ix-tail a {
+    color: var(--ink-muted); text-decoration: none;
+    border-bottom: 1px solid var(--rule); white-space: nowrap;
+  }
+  .ix-tail a:hover { color: var(--accent); border-color: var(--accent-soft); }
+  .ix-tail a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .ix-tail a::after { content: " ¶"; color: var(--accent-soft); font-size: 11px; }
+  .ix-tail em { font-style: italic; }
+  .ix-sep { color: var(--accent-soft); }
+  .ix-n {
+    font-variant-numeric: oldstyle-nums tabular-nums; color: var(--ink-muted);
+    font-size: 15px; min-width: 3ch; text-align: right;
+  }
+</style>

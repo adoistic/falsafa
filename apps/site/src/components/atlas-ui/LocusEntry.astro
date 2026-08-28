@@ -1,0 +1,234 @@
+---
+/**
+ * LocusEntry — one citation target as a line of apparatus:
+ *
+ *   Psalms  David          authority 17 · neutral 7 · 24 citations · 31 passages
+ *   book 1 17 · book 2 4 · book 5 3
+ *   Clement sets the Psalms as the pattern of the thanksgiving he is urging.
+ *   ┃ And let each of these, after the manner of blessed David, sing …
+ *     book 1 ¶
+ *
+ * TWO NUMBERS BECAUSE THERE ARE TWO UNITS. The row total counts harvest
+ * RECORDS; the superior figures in the run count the PARAGRAPHS anchored in
+ * each chapter, and one record's evidence can quote several. They differ on
+ * 5,038 of 13,236 edges — Euclid inside Proclus is 397 records at 1,326
+ * paragraphs — so printing only the first left a run that visibly failed to
+ * add up. The second figure is printed only when the run exists and the two
+ * genuinely differ, and it is by construction the sum of that run.
+ *
+ * The LOCI LINE is the point. Each locus is a live deep link that lands on
+ * the exact paragraph and lights it (Reader.astro's .falsafa-cited).
+ *
+ * SIGLUM: a title set in ROMAN is a text the library holds and opens in the
+ * reader; a title in ITALIC is named by the citing text but not held — the
+ * corpus's wanted list. Typography carries it; the Sigla legend states it
+ * once per page. This retires the unexplained ⌂ glyph.
+ */
+import StanceMarks from "./StanceMarks.astro";
+import QuoteBlock from "./QuoteBlock.astro";
+import type { CitationRow } from "../../lib/atlas-citations";
+import { targetAnchor } from "../../lib/atlas-citations";
+
+interface Props {
+  row: CitationRow;
+  /** the CITING work. Every caller names it, so it stays in the contract,
+   *  but nothing here reads it: hydrateEdge already resolved each locus
+   *  href inside that work, and the specimen carries its own slug. */
+  work: string;
+  /** same-page ¶ anchors instead of cross-page links (the reader panel) */
+  inPlace?: boolean;
+}
+const { row, inPlace = false } = Astro.props;
+const nf = new Intl.NumberFormat("en-US");
+const Title = row.inLibrary ? "span" : "em";
+
+/**
+ * Loci printed before the run folds into a disclosure. Measured against the
+ * corpus: of 13,236 edges 11,784 touch exactly one chapter and only 37 touch
+ * more than eight — the worst is Gaius citing the Institutes of Justinian
+ * across 42, which unfolded runs to nine lines and swamps its own entry.
+ * Eight holds that to two lines and leaves 99.7% of rows untouched. The fold
+ * is a <details>, so every locus is still in the document with JS off.
+ *
+ * In-place mode is exempt: there the run is same-page ¶ anchors for a
+ * chapter the reader is already inside, and it is short by construction.
+ */
+const INLINE_LOCI = 8;
+const folded = inPlace ? [] : row.loci.slice(INLINE_LOCI);
+const shown = folded.length > 0 ? row.loci.slice(0, INLINE_LOCI) : row.loci;
+
+/**
+ * Marks printed for one locus in the in-place run before the rest is handed
+ * to a single link. 586 of 15,252 chapter slots hold more than six anchored
+ * paragraphs and one holds 438; a mark apiece would be the whole panel.
+ */
+const INLINE_ANCHORS = 6;
+
+// A row with no run has nothing for a second figure to reconcile with, and a
+// row whose units agree would print the same number twice.
+const showPassages = row.loci.length > 0 && row.passages !== row.count;
+---
+<li class="locus" id={targetAnchor(row.key)}>
+  <p class="locus-lemma">
+    <span class="locus-name">
+      {row.href ? <a href={row.href}><Title>{row.label}</Title></a> : <Title>{row.label}</Title>}
+      {row.author_label && <span class="locus-attrib">{row.author_label}</span>}
+    </span>
+    <span class="locus-marks">
+      <StanceMarks stances={row.stances} />
+      <span class="locus-total">
+        {`${nf.format(row.count)} ${row.count === 1 ? "citation" : "citations"}`}
+        {showPassages && (
+          <>
+            <span class="locus-sep"> · </span>
+            {`${nf.format(row.passages)} ${row.passages === 1 ? "passage" : "passages"}`}
+          </>
+        )}
+      </span>
+    </span>
+  </p>
+
+  {row.loci.length > 0 ? (
+    <div class="locus-loci">
+      {shown.map((l, i) => (
+        <>
+          {i > 0 && <span class="locus-sep"> · </span>}
+          {inPlace ? (
+            <>
+              {l.anchors.slice(0, INLINE_ANCHORS).map((p, j) => (
+                <>
+                  {j === 0 && <span class="locus-inplace">{l.label}</span>}
+                  <a class="locus-p" href={`#${p}`} aria-label={`passage ${j + 1} in ${l.label}`}>¶</a>
+                </>
+              ))}
+              {l.anchors.length > INLINE_ANCHORS && l.href && (
+                <a class="locus-p locus-plus" href={l.href}>
+                  +{nf.format(l.anchors.length - INLINE_ANCHORS)}
+                  <span class="visually-hidden"> further passages in {l.label}</span>
+                </a>
+              )}
+            </>
+          ) : l.href ? (
+            <a href={l.href}>
+              {l.label}
+              {l.count > 1 && (
+                <span class="locus-n">
+                  {nf.format(l.count)}<span class="visually-hidden"> passages anchored here</span>
+                </span>
+              )}
+            </a>
+          ) : (
+            <span>{l.label}</span>
+          )}
+        </>
+      ))}
+      {folded.length > 0 && (
+        <details class="locus-more">
+          <summary>and {nf.format(folded.length)} more {folded.length === 1 ? "chapter" : "chapters"}</summary>
+          <div class="locus-rest">
+            {folded.map((l, i) => (
+              <>
+                {i > 0 && <span class="locus-sep"> · </span>}
+                {l.href ? (
+                  <a href={l.href}>
+                    {l.label}
+                    {l.count > 1 && (
+                      <span class="locus-n">
+                        {nf.format(l.count)}<span class="visually-hidden"> passages anchored here</span>
+                      </span>
+                    )}
+                  </a>
+                ) : (
+                  <span>{l.label}</span>
+                )}
+              </>
+            ))}
+          </div>
+        </details>
+      )}
+      {/* Either unit standing above zero means something behind this row has
+          no anchor a reader can follow: `lost` counts harvest records placed
+          in no chapter, `lostPassages` counts paragraphs whose chapter the
+          manifest no longer holds. Testing only the first would let the
+          second pass in silence after the next chapter re-split. */}
+      {(row.lost > 0 || row.lostPassages > 0) && (
+        <span class="locus-lost"> · locus not recovered</span>
+      )}
+    </div>
+  ) : (
+    <p class="locus-loci locus-lost">locus not recovered</p>
+  )}
+
+  {row.why && <p class="locus-why">{row.why}</p>}
+
+  {row.specimen && (
+    <QuoteBlock
+      work={row.specimen.work}
+      quote={{ p: row.specimen.quote.p, text: row.specimen.quote.text,
+               chapter: row.specimen.chapter, variant: row.specimen.variant }}
+      caption={row.specimen.note}
+    />
+  )}
+</li>
+
+<style>
+  .locus { padding: var(--s-4) 0; border-bottom: 1px solid var(--rule); break-inside: avoid; }
+  .locus-lemma {
+    display: flex; flex-wrap: wrap; align-items: baseline;
+    justify-content: space-between; gap: var(--s-2) var(--s-4); margin: 0 0 2px;
+  }
+  .locus-name { font-family: var(--font-body); font-size: 21px; color: var(--ink); }
+  .locus-name a {
+    color: inherit; text-decoration: none; border-bottom: 1px solid var(--rule);
+    transition: color 150ms ease-out, border-color 150ms ease-out;
+  }
+  .locus-name a:hover { color: var(--accent); border-color: var(--accent-soft); }
+  .locus-name a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .locus-name em { font-style: italic; }              /* not in the library */
+  .locus-attrib { font-size: 17px; color: var(--ink-muted); margin-left: 0.5em; }
+  .locus-attrib::before { content: "— "; color: var(--accent-soft); }
+  .locus-marks { display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.6em; }
+  /* Two clauses may stand here, so the line is allowed to break — but only at
+     the separator: each figure carries a no-break space to its own unit, so
+     "1,326 passages" never splits across two lines. */
+  .locus-total {
+    font-family: var(--font-body); font-size: 15px;
+    font-variant-numeric: oldstyle-nums; color: var(--ink-muted);
+  }
+
+  .locus-loci {
+    font-family: var(--font-body); font-size: 17px; line-height: 1.8;
+    margin: 0; font-variant-numeric: oldstyle-nums;
+  }
+  .locus-loci a { color: var(--ink); text-decoration: none; border-bottom: 1px solid var(--rule); }
+  .locus-loci a:hover { color: var(--accent); border-color: var(--accent-soft); }
+  .locus-loci a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .locus-loci a::after { content: " ¶"; color: var(--accent-soft); font-size: 12px; }
+  .locus-inplace { color: var(--ink-muted); margin-right: 0.35em; }
+  .locus-p { border-bottom: 0 !important; margin-right: 0.2em; }
+  .locus-p::after { content: none !important; }
+  /* the "+12" that closes a capped run of marks reads as a tally, not a mark */
+  .locus-plus { font-size: 13px; color: var(--ink-muted); vertical-align: 0.25em; }
+  .locus-n { margin-left: 0.3em; font-size: 15px; color: var(--ink-muted); vertical-align: 0.3em; }
+  .locus-sep { color: var(--accent-soft); }
+  .locus-lost { color: var(--ink-muted); font-style: italic; }
+
+  /* The fold reads as the next item in the run, not as a control: it sits
+     inline behind its own separator, and opening it continues the line. */
+  .locus-more { display: inline; }
+  .locus-more > summary {
+    display: inline; list-style: none; cursor: pointer;
+    color: var(--ink-muted); font-style: italic;
+  }
+  .locus-more > summary::-webkit-details-marker { display: none; }
+  .locus-more > summary::before { content: "· "; color: var(--accent-soft); font-style: normal; }
+  .locus-more > summary:hover { color: var(--accent); }
+  .locus-more > summary:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .locus-rest { display: inline; }
+  .locus-rest::before { content: "· "; color: var(--accent-soft); }
+
+  .locus-why {
+    font-family: var(--font-body); font-size: 16px; line-height: 1.6;
+    color: var(--ink-muted); margin: var(--s-2) 0 0; max-width: 62ch; text-wrap: pretty;
+  }
+</style>

@@ -1,0 +1,439 @@
+/**
+ * Audio layer — mode switcher, listening bar, read-along view.
+ * Speaks the site grammar: paper surfaces, 1px hairlines, terracotta accent
+ * reserved for progress/active, Inter chrome, serif content, 2px control
+ * radii, 999px pills, overlay-only shadows. All colors via tokens so the
+ * three themes come free.
+ */
+
+/* ── mode switcher (sits beside the variant switcher) ─────────────────── */
+
+.mode-switcher {
+  display: inline-flex;
+  gap: var(--s-1);
+  padding: var(--s-1);
+  background: var(--rule);
+  border-radius: 999px;
+  font-family: var(--font-sans);
+  font-size: 13px;
+}
+.mode-switcher button {
+  appearance: none;
+  border: 0;
+  background: transparent;
+  color: var(--ink-muted);
+  font: inherit;
+  font-weight: 500;
+  padding: var(--s-1) var(--s-3);
+  border-radius: 999px;
+  cursor: pointer;
+  transition: color 0.15s ease, background 0.15s ease;
+}
+.mode-switcher button:hover { color: var(--ink); }
+.mode-switcher button[aria-current="true"] {
+  background: var(--paper);
+  color: var(--ink);
+}
+.mode-switcher button:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 1px;
+}
+.audio-modes {
+  display: flex;
+  align-items: center;
+  gap: var(--s-3);
+  margin-top: var(--s-3);
+  flex-wrap: wrap;
+}
+.audio-modes .mode-dur {
+  font-family: var(--font-sans);
+  font-size: 12px;
+  color: var(--ink-muted);
+  font-variant-numeric: oldstyle-nums;
+}
+
+/* ── listening bar ────────────────────────────────────────────────────── */
+
+.audio-bar {
+  position: fixed;
+  left: 0; right: 0; bottom: 0;
+  z-index: 40; /* under the nav drawer (50) and consent banner (200) */
+  background: var(--paper);
+  border-top: 1px solid var(--rule);
+  box-shadow: 0 -8px 30px rgba(0, 0, 0, 0.1);
+  transform: translateY(115%);
+  transition: transform 0.4s cubic-bezier(0.2, 0.7, 0.2, 1);
+  padding-bottom: env(safe-area-inset-bottom);
+}
+.audio-bar.audio-bar-in { transform: translateY(0); }
+body.has-audio-bar { scroll-padding-bottom: 96px; }
+body.has-audio-bar .site-footer { padding-bottom: 96px; }
+
+.audio-bar-inner {
+  max-width: 1080px;
+  margin: 0 auto;
+  display: grid;
+  /* Equal flexible side columns keep the transport dead-centre in the bar,
+     with or without a cover image (Spotify grammar). */
+  grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
+  align-items: center;
+  gap: var(--s-4);
+  padding: var(--s-2) var(--s-5);
+  min-height: 60px;
+}
+
+.audio-left {
+  display: flex;
+  align-items: center;
+  gap: var(--s-4);
+  min-width: 0;
+}
+
+.audio-cover {
+  width: 44px;
+  height: 44px;
+  object-fit: cover;
+  border: 1px solid var(--rule);
+  display: block;
+}
+
+.audio-titles {
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+}
+.audio-ch-title {
+  font-family: var(--font-display);
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--ink);
+  text-decoration: none;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.audio-ch-title:hover { color: var(--accent); }
+.audio-work-line {
+  font-family: var(--font-sans);
+  font-size: 11px;
+  color: var(--ink-muted);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.audio-transport {
+  display: flex;
+  align-items: center;
+  gap: var(--s-2);
+}
+.audio-right {
+  display: flex;
+  align-items: center;
+  gap: var(--s-2);
+  justify-self: end;
+}
+
+.audio-btn {
+  appearance: none;
+  border: 0;
+  background: transparent;
+  color: var(--ink-muted);
+  width: 36px;
+  height: 36px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 2px;
+  cursor: pointer;
+  transition: color 0.15s ease, background 0.15s ease;
+}
+.audio-btn:hover { color: var(--ink); }
+.audio-btn:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 1px;
+}
+.audio-btn-active { color: var(--accent); }
+.audio-btn-play {
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  background: var(--ink);
+  color: var(--paper);
+}
+.audio-btn-play:hover { color: var(--paper); background: var(--accent); }
+.audio-btn-play.audio-loading svg { animation: audio-spin 0.9s linear infinite; }
+@keyframes audio-spin { to { transform: rotate(360deg); } }
+
+.audio-time {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  font-variant-numeric: tabular-nums;
+  color: var(--ink-muted);
+  white-space: nowrap;
+}
+
+.audio-rate-wrap { position: relative; }
+.audio-rate {
+  width: auto;
+  padding: 0 var(--s-2);
+  font-family: var(--font-mono);
+  font-size: 12px;
+  font-variant-numeric: tabular-nums;
+}
+.audio-rate-menu[hidden],
+.lyrics-return[hidden],
+.audio-scrub-tip[hidden] {
+  display: none; /* our display rules would otherwise beat [hidden] */
+}
+.audio-rate-menu {
+  position: absolute;
+  bottom: calc(100% + 8px);
+  right: 0;
+  background: var(--paper);
+  border: 1px solid var(--rule);
+  border-radius: 10px;
+  box-shadow: 0 8px 28px rgba(0, 0, 0, 0.12);
+  padding: 6px;
+  display: flex;
+  flex-direction: column;
+  min-width: 72px;
+}
+.audio-rate-menu button {
+  appearance: none;
+  border: 0;
+  background: transparent;
+  font-family: var(--font-mono);
+  font-size: 12px;
+  font-variant-numeric: tabular-nums;
+  color: var(--ink-muted);
+  text-align: left;
+  padding: 6px 10px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+.audio-rate-menu button:hover { background: var(--highlight); color: var(--ink); }
+.audio-rate-menu button[aria-checked="true"] { color: var(--accent); }
+
+/* scrubber: the hairline top edge of the bar */
+.audio-scrub {
+  position: absolute;
+  top: -9px;
+  left: 0; right: 0;
+  height: 18px;
+  cursor: pointer;
+  touch-action: none;
+}
+.audio-scrub-track {
+  position: absolute;
+  top: 8px;
+  left: 0; right: 0;
+  height: 2px;
+  background: var(--rule);
+  transition: transform 0.15s ease;
+}
+.audio-scrub:hover .audio-scrub-track,
+.audio-scrub:focus-visible .audio-scrub-track { transform: scaleY(2.5); }
+.audio-scrub:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: -2px;
+  border-radius: 2px;
+}
+.audio-scrub-fill {
+  height: 100%;
+  width: 0;
+  background: var(--accent);
+}
+.audio-scrub-tip {
+  position: absolute;
+  bottom: 14px;
+  transform: translateX(-50%);
+  background: var(--paper);
+  border: 1px solid var(--rule);
+  border-radius: 2px;
+  padding: 2px 6px;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  font-variant-numeric: tabular-nums;
+  color: var(--ink);
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.1);
+  pointer-events: none;
+  white-space: nowrap;
+}
+
+/* ── read-along view ──────────────────────────────────────────────────── */
+
+.lyrics {
+  position: fixed;
+  inset: 0;
+  z-index: 38; /* above page chrome, below the listening bar */
+  background: var(--paper);
+  display: flex;
+  flex-direction: column;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.2s ease, visibility 0.2s;
+}
+.lyrics.lyrics-in { opacity: 1; visibility: visible; }
+body.lyrics-open { overflow: hidden; }
+
+.lyrics-head {
+  display: flex;
+  align-items: baseline;
+  gap: var(--s-4);
+  padding: var(--s-4) var(--s-5) var(--s-3);
+  border-bottom: 1px solid var(--rule);
+  flex: none;
+}
+.lyrics-kicker {
+  font-family: var(--font-body);
+  font-variant: small-caps;
+  letter-spacing: 0.07em;
+  font-size: 15px;
+  color: var(--accent);
+  flex: none;
+}
+.lyrics-source {
+  font-family: var(--font-sans);
+  font-size: 12px;
+  color: var(--ink-muted);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  min-width: 0;
+  flex: 1;
+}
+.lyrics-close { align-self: center; flex: none; }
+
+.lyrics-scroll {
+  flex: 1;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  scroll-behavior: auto; /* engine drives smoothness; avoid double-smooth */
+  -webkit-mask-image: linear-gradient(
+    to bottom, transparent 0, #000 48px, #000 calc(100% - 120px), transparent 100%);
+  mask-image: linear-gradient(
+    to bottom, transparent 0, #000 48px, #000 calc(100% - 120px), transparent 100%);
+}
+.lyrics-content {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 14vh var(--s-6) 46vh;
+  font-family: var(--font-body);
+  font-size: 22px;
+  line-height: 1.6;
+}
+
+.lyr-p { margin: 0 0 1em; }
+.lyr-verse {
+  font-style: italic;
+  font-size: 0.98em;
+  margin-bottom: 1.4em;
+}
+.lyr-verse .lyr-ln {
+  display: block;
+  padding-left: 1.4em;
+  text-indent: -1.4em;
+}
+
+/* Three ink layers. The dim steps stay AA-readable in all themes (the wash
+   marks the beat; the dimming is hierarchy, not hiding). */
+.lyr-ln {
+  color: color-mix(in srgb, var(--ink) 74%, var(--paper));
+  transition: color 0.18s ease;
+  cursor: pointer;
+}
+.lyr-ln.past { color: color-mix(in srgb, var(--ink) 58%, var(--paper)); }
+.lyr-ln.on { color: var(--ink); }
+.lyr-ln:hover { color: color-mix(in srgb, var(--ink) 86%, var(--paper)); }
+.lyr-ln.on:hover { color: var(--ink); }
+
+.lyr-ck {
+  border-radius: 3px;
+  padding: 0.04em 0.14em;
+  margin: -0.04em -0.14em;
+  transition: background 0.15s ease;
+}
+.lyr-ck.on { background: var(--highlight); }
+
+.lyrics-return {
+  position: fixed;
+  left: 50%;
+  bottom: calc(84px + env(safe-area-inset-bottom));
+  transform: translateX(-50%);
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  appearance: none;
+  background: var(--paper);
+  border: 1px solid var(--rule);
+  border-radius: 999px;
+  padding: 6px 14px;
+  font-family: var(--font-sans);
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--ink-muted);
+  cursor: pointer;
+  box-shadow: 0 8px 28px rgba(0, 0, 0, 0.12);
+  transition: color 0.15s ease, border-color 0.15s ease;
+}
+.lyrics-return:hover { color: var(--ink); border-color: var(--ink-muted); }
+.lyrics-return svg { width: 14px; height: 14px; }
+
+/* room for the bar beneath the lyric surface */
+body.lyrics-open .lyrics { bottom: 0; }
+body.has-audio-bar .lyrics-content { padding-bottom: calc(46vh + 60px); }
+
+/* ── responsive ───────────────────────────────────────────────────────── */
+
+@media (max-width: 719px) {
+  .audio-bar-inner {
+    grid-template-columns: minmax(0, 1fr) auto auto;
+    gap: var(--s-2);
+    padding: var(--s-2) var(--s-3);
+  }
+  .audio-cover, .audio-time-sep, .audio-time-dur { display: none; }
+  .audio-time { display: none; }
+  .audio-transport { gap: 0; }
+  .lyrics-content {
+    font-size: 20px;
+    line-height: 1.55;
+    padding: 10vh var(--s-5) 44vh;
+  }
+  .lyrics-head { padding: var(--s-3) var(--s-4) var(--s-2); }
+}
+
+@media (max-width: 419px) {
+  .audio-rate-wrap { display: none; }
+}
+
+@media (min-width: 1024px) {
+  .lyrics-content { font-size: 24px; max-width: 680px; }
+}
+
+/* screen-reader-only live region */
+.audio-live {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+/* the reading-progress hairline (z 50) must not paint over the overlay */
+body.lyrics-open .reading-progress { display: none; }
+
+/* real fingers: 44px targets, taller scrub hit area */
+@media (pointer: coarse) {
+  .audio-btn { width: 44px; height: 44px; }
+  .audio-scrub { top: -17px; height: 30px; }
+  .audio-scrub-track { top: 14px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .audio-bar { transition: none; }
+  .lyrics { transition: none; }
+  .lyr-ln, .lyr-ck { transition: none; }
+}
