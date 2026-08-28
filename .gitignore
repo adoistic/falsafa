@@ -101,3 +101,6 @@ corpus/graph/*
 
 # WIP ingest staging area (source texts being prepped for the corpus)
 /t2work/
+
+# Private grant / fellowship application drafts — never commit
+applications/
