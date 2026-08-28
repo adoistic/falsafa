@@ -18,7 +18,7 @@ prose · 12¶ · 1022w · vocab 287 (TTR 65%, hapax 74%)
 > [p-c4e4dc] ---
 
 ## Nearest in corpus
-Traité de la propriété: VOL I ch.5 0.33 · Traité de la propriété: VOL II ch.38 0.31 · Traité de la propriété: VOL I ch.4 0.28
+
 
 ## Original-language signature (french, top-3)
 "existent grande quantité" · "chacun peut usage" · "peut usage nuire"

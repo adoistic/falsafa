@@ -18,7 +18,7 @@ prose · 49¶ · 6961w · vocab 1555 (TTR 47%, hapax 64%)
 > [p-6a9b9b] In countries where slavery exists, the first title to consideration is to be of the master race; the first cause of contempt is to be of the slave race. These dispositions are manifested in Batavia with the same energy as in Guiana and at the Cape of Good Hope. If men of the master race commit crimes, they are not punished for them, or they are punished only very lightly; but, if men of the enslaved race commit faults, they are hanged, broken alive on the wheel, or impaled without mercy [139].
 
 ## Nearest in corpus
-Traité de Législation: VOL IV ch.8 0.55 · Traité de Législation: VOL IV ch.9 0.51 · Traité de Législation: VOL IV ch.20 0.48
+
 
 ## Original-language signature (french, top-3)
 "mœurs maîtres esclaves" · "chute empire romain" · "possesseurs hommes colonies"

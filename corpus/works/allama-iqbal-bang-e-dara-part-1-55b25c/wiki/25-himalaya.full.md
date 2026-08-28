@@ -19,7 +19,7 @@ verse · 25¶ · 444w · vocab 213 (TTR 86%, hapax 86%)
 O, wheel of time, turn back to days that came before!
 
 ## Nearest in corpus
-Bang-E-Dara Part 3 ch.9 0.16 · Bang-E-Dara Part 3 ch.7 0.15 · Bang-E-Dara Part 1 ch.43 0.12
+
 
 ## Original-language signature (urdu, top-3)
 "himalaya himalaya himalaya" · "jaata hai abr" · "transliterator thothica ---"

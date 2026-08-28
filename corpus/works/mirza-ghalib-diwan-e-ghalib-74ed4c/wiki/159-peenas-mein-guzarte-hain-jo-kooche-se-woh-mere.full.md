@@ -21,7 +21,7 @@ A moment's rest their bearers are denied.
 A moment's rest their bearers are denied.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.190 0.07 · Kātyāyana Smṛti ch.42 0.05 · Diwan-E-Zauq ch.55 0.05
+
 
 ## Original-language signature (urdu, top-3)
 "peenas mein guzarte" · "mein guzarte hain" · "guzarte hain kooche"

@@ -21,7 +21,7 @@ Be careful of my heart, for there a fire lies buried deep in me.
 Ali, the Saint, God's Lion, is the Prophet's legatee.
 
 ## Nearest in corpus
-Bang-E-Dara Part 3 ch.7 0.11 · Bang-E-Dara Part 3 ch.4 0.10 · Bang-E-Dara Part 1 ch.32 0.10
+
 
 ## Original-language signature (urdu, top-3)
 "tum apne shikwe" · "apne shikwe baatein" · "shikwe baatein khod"

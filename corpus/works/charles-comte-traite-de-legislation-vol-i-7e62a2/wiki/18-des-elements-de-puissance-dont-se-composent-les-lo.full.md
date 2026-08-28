@@ -18,7 +18,7 @@ prose · 38¶ · 3840w · vocab 760 (TTR 43%, hapax 61%)
 > [p-4bfd85] In the exposition I have just made, I have confined myself to following the procedure that Mr. Bentham followed in his treatises on legislation: it is by means of this procedure that he has brought light into several branches of this science; and it is only by following it that one can hope to advance.
 
 ## Nearest in corpus
-Traité de Législation: VOL I ch.21 0.52 · Traité de Législation: VOL I ch.15 0.48 · Traité de Législation: VOL I ch.14 0.46
+
 
 ## Original-language signature (french, top-3)
 "jouissances excèdent peines" · "nombre personnes affectent" · "permette prendre exemple"

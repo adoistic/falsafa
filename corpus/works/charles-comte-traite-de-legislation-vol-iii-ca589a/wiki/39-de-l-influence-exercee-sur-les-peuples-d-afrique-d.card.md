@@ -18,7 +18,7 @@ prose · 31¶ · 5501w · vocab 1086 (TTR 41%, hapax 59%)
 > [p-3d9d9e] The peoples who inhabit the north of the mountains of central Asia, beyond the fiftieth degree of north latitude, are placed on an even more ungrateful and more isolated soil. They possess some herds like the hordes of the Gobi desert; but, the land being still more sterile, they form less numerous tribes, and need, to subsist, a greater expanse of country. They are always wandering in the wake of their herds; when they have pitched their tents, it is rare that they spend more than five or six days without taking them up, to go seek new pastures elsewhere. Having adopted the same way of life as the Hottentots, they also have their morals and their stupidity; but as they are situated under a much more rigorous climate, as their soil is almost susceptible of no cultivation, and as moreover they can have no easy communication with civilized nations, it is probable that they will never emerge from the state in which they find themselves, unless a revolution occurs in the globe: they are condemned by the very nature of the places they inhabit, to remain hunters or pastoralists, and to wander eternally from desert to desert. The settlements that the Russians have formed on some points could not overcome the obstacles that nature there opposes to the efforts of man [410].
 
 ## Nearest in corpus
-Traité de Législation: VOL III ch.38 0.51 · Traité de Législation: VOL III ch.42 0.50 · Traité de Législation: VOL III ch.40 0.47
+
 
 ## Original-language signature (french, top-3)
 "circonstances locales milieu" · "locales milieu desquelles" · "avaient aucun moyen"

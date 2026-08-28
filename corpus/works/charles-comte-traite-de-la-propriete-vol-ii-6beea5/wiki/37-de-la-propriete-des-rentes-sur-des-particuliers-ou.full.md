@@ -20,7 +20,7 @@ prose · 21¶ · 2439w · vocab 493 (TTR 45%, hapax 59%)
 [^289]: Law of 22 Floréal, an VII (May 11, 1799), art. 7.
 
 ## Nearest in corpus
-Traité de la propriété: VOL II ch.27 0.29 · Traité de la propriété: VOL I ch.10 0.26 · Traité de la propriété: VOL II ch.49 0.25
+
 
 ## Original-language signature (french, top-3)
 "dix mille francs" · "cent mille francs" · "six mille francs"

@@ -21,7 +21,7 @@ Your timeless way, to watch this earthly space.
 Within Man's heart, and in your face's light.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.173 0.13 · Bang-E-Dara Part 3 ch.7 0.12 · Bang-E-Dara Part 3 ch.26 0.12
+
 
 ## Original-language signature (urdu, top-3)
 "bhi justaju hai" · "wohi hai teri" · "mein wohi hai"

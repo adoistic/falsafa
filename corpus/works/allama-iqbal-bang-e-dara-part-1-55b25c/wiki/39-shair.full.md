@@ -19,7 +19,7 @@ verse · 4¶ · 51w · vocab 27 (TTR 93%, hapax 93%)
 When one part aches, it cannot help but cry.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.215 0.11 · Bang-E-Dara Part 1 ch.34 0.08 · Bang-E-Dara Part 2 ch.20 0.08
+
 
 ## Original-language signature (urdu, top-3)
 "https //www allamaiqbal" · "//www allamaiqbal com/works/poetry/urdu/bang/text/part01/29" · "allamaiqbal com/works/poetry/urdu/bang/text/part01/29 htm"

@@ -42,7 +42,7 @@ light and life together; he who wins praise
 has under the heavens high and lasting renown.
 
 ## Nearest in corpus
-Elene ch.1 0.12 · Andreas ch.1 0.12 · Juliana ch.1 0.11
+
 
 ## Original-language signature (old-english, top-3)
 "widsith ======= verse" · "======= verse indeterminate" · "verse indeterminate saxon"

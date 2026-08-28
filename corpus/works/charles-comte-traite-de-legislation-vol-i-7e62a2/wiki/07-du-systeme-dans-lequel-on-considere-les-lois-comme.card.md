@@ -18,7 +18,7 @@ prose · 40¶ · 6827w · vocab 1126 (TTR 39%, hapax 59%)
 > [p-06cff0] Before expounding the influence that false systems exert on laws and on morals, I have observed that there were three principal ways of making a false system; that one could describe in a false or inexact manner the principal phenomenon on which one wished to fix the public’s attention; that one could attribute this phenomenon to causes other than those that had produced it; finally, that one could attribute to it effects that it was not susceptible of producing, or conceal consequences that must naturally result from it. If one judges Rousseau’s systems, whether on primitive conventions or on the nature of laws, one will find that he has successively made use of these three ways of reasoning badly: he has described objects that have never had any real existence; he has attributed the objects he has described to causes whose existence has never been either ascertained or agreed upon; finally, he has attributed to the same objects happy effects that they could not produce, and has not observed the bad consequences that could be drawn from them.
 
 ## Nearest in corpus
-Traité de Législation: VOL I ch.6 0.49 · Traité de Législation: VOL I ch.5 0.37 · Traité de Législation: VOL I ch.11 0.35
+
 
 ## Original-language signature (french, top-3)
 "expression volonté générale" · "volonté générale droite" · "multitude aveugle sait"

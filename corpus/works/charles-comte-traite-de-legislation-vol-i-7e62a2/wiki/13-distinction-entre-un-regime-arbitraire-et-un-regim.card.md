@@ -18,7 +18,7 @@ prose · 12¶ · 2082w · vocab 424 (TTR 47%, hapax 63%)
 > [p-1ebd0b] Laws being only force, one can judge them well only by examining the diverse ways in which they act on men, whether they affect them directly, or whether they affect them only in an indirect manner, by acting on the things that are for their use. It is therefore necessary, to know their effects, to expound how they can reach the men who are subject to them.
 
 ## Nearest in corpus
-Traité de Législation: VOL I ch.11 0.48 · Traité de Législation: VOL I ch.12 0.41 · Traité de Législation: VOL I ch.17 0.35
+
 
 ## Original-language signature (french, top-3)
 "régime arbitraire régime" · "autre nous trouvons" · "arbitraire régime légal"

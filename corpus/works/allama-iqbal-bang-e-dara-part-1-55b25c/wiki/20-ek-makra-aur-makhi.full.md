@@ -21,7 +21,7 @@ But don't expect that I will visit you.
 And made the little fly his easy meal.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.129 0.13 · Bang-E-Dara Part 3 ch.4 0.11 · Diwan-E-Zauq ch.52 0.09
+
 
 ## Original-language signature (urdu, top-3)
 "makra aur makhi" · "mere ghar mein" · "transliterator thothica ---"

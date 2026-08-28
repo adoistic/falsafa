@@ -18,7 +18,7 @@ prose · 11¶ · 2263w · vocab 515 (TTR 53%, hapax 66%)
 > [p-44e2ce] Of all the questions relative to the perfection of the social order, there are perhaps none more important than those that relate to the different orders of aristocracy. It is questions of this nature that have agitated the world, from the most remote times to our own; however, in all these quarrels, the diverse classes of the population belonged to the same species of men. But, since the Europeans established themselves in America, in the south of Asia, in some of the islands of the great Ocean, and in the south and west of Africa, we see appear a kind of aristocracy of which we had no idea, the aristocracy of species. This new combination will considerably influence the existence of the American republics, and, in this respect, it deserves all our attention.
 
 ## Nearest in corpus
-Traité de Législation: VOL II ch.1 0.51 · Traité de Législation: VOL III ch.47 0.50 · Traité de Législation: VOL II ch.5 0.46
+
 
 ## Original-language signature (french, top-3)
 "nos organes remplir" · "remplir fonctions auxquelles" · "individu espèce cuivrée"

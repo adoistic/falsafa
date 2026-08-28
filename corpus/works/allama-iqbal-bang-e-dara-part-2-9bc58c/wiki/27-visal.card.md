@@ -21,7 +21,7 @@ By blessed fate, that very flower is finally mine.
 O blessed day, that set a fire to my worthless heart!
 
 ## Nearest in corpus
-Bang-E-Dara Part 3 ch.9 0.17 · Diwan-E-Zauq ch.56 0.15 · Bang-E-Dara Part 3 ch.7 0.15
+
 
 ## Original-language signature (urdu, top-3)
 "transliterator thothica ---" · "thothica --- work_id" · "--- work_id 9bc58cbd-ab40-4264-bd01-6e5bddf3e11f"

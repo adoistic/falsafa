@@ -18,7 +18,7 @@ prose · 15¶ · 1989w · vocab 508 (TTR 55%, hapax 68%)
 > [p-c4e4dc] ---
 
 ## Nearest in corpus
-Traité de la propriété: VOL II ch.40 0.33 · Traité de la propriété: VOL I ch.7 0.31 · Traité de la propriété: VOL II ch.45 0.31
+
 
 ## Original-language signature (french, top-3)
 "empare moyens existence" · "chap garantie donnée" · "garantie donnée possesseurs"

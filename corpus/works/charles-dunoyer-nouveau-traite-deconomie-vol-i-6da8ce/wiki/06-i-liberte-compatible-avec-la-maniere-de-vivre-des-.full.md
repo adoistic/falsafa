@@ -61,7 +61,7 @@ prose · 51¶ · 7174w · vocab 1610 (TTR 45%, hapax 62%)
 [^164]: ESSAYS, *Of Cannibals*.
 
 ## Nearest in corpus
-Nouveau traité d'économie: VOL I ch.7 0.37 · Nouveau traité d'économie: VOL I ch.5 0.33 · Nouveau traité d'économie: VOL I ch.1 0.25
+
 
 ## Original-language signature (french, top-3)
 "manière vivre peuples" · "pas non parce" · "nous allons voir"

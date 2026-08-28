@@ -28,7 +28,7 @@ Though the flask is Persian, still the wine I serve is from Hijaz;
 Though the song is Indian, still my melody is from Hijaz!
 
 ## Nearest in corpus
-Bang-E-Dara Part 3 ch.4 0.34 · Bang-E-Dara Part 3 ch.9 0.23 · Bang-E-Dara Part 1 ch.40 0.20
+
 
 ## Original-language signature (urdu, top-3)
 "bhi hain mein" · "tujhe hai nahin" · "hijaazi hai meri"

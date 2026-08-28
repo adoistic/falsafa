@@ -18,7 +18,7 @@ prose · 30¶ · 4601w · vocab 880 (TTR 44%, hapax 59%)
 > [p-e0311a] In saying that Mr. Bentham has founded the science of legislation on a *duty* imposed on scholars or on legislators, I am far from having wished to imply that he has not consulted the facts. His works are, on the contrary, filled with just observations; and if it sometimes happens that I am not in agreement with him, it is only when he has not been faithful enough to his principle, for lack of having sufficiently observed the facts.
 
 ## Nearest in corpus
-Traité de Législation: VOL I ch.2 0.41 · Traité de Législation: VOL I ch.1 0.40 · Traité de Législation: VOL I ch.4 0.37
+
 
 ## Original-language signature (french, top-3)
 "bonheur public utilité" · "public utilité générale" · "genre humain entier"

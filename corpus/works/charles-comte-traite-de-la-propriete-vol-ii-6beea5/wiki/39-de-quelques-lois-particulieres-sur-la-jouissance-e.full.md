@@ -20,7 +20,7 @@ prose · 28¶ · 2380w · vocab 626 (TTR 55%, hapax 67%)
 [^297]: The Charter of 1830, like that of 1814, declares that all properties, without exception, are inviolable; but it is understood that they will not be used to exercise a branch of industry or commerce reduced to a monopoly; otherwise there would be grounds for confiscation, despite the inviolability promised by the Charter.
 
 ## Nearest in corpus
-Traité de la propriété: VOL II ch.38 0.32 · Traité de la propriété: VOL II ch.48 0.31 · Traité de la propriété: VOL II ch.42 0.29
+
 
 ## Original-language signature (french, top-3)
 "branche industrie commerce" · "faculté disposer biens" · "manière conforme intérêts"

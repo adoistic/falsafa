@@ -18,7 +18,7 @@ prose · 37¶ · 3249w · vocab 587 (TTR 40%, hapax 58%)
 > [p-3e5ee6] [^321]: Volume I, chap. XXVI, page 467.
 
 ## Nearest in corpus
-Traité de la propriété: VOL I ch.26 0.40 · Traité de la propriété: VOL II ch.38 0.25 · Traité de la propriété: VOL II ch.49 0.24
+
 
 ## Original-language signature (french, top-3)
 "auteurs code civil" · "service utilité autre" · "utilité autre propriété"

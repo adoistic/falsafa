@@ -18,7 +18,7 @@ prose · 22¶ · 4505w · vocab 1053 (TTR 49%, hapax 63%)
 > [p-3d6614] All the individuals who belong to this species are, however, very serious and even very taciturn: only the movements of an extraordinary joy can make them depart from their gravity [383].
 
 ## Nearest in corpus
-Traité de Législation: VOL II ch.18 0.46 · Traité de Législation: VOL II ch.9 0.42 · Traité de Législation: VOL II ch.25 0.41
+
 
 ## Original-language signature (french, top-3)
 "quarante-cinquième degré latitude" · "deux extrémités continent" · "principalement produits pêche"

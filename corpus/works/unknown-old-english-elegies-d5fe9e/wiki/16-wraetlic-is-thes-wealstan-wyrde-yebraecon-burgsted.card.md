@@ -60,7 +60,7 @@ Then is [...]    that is a kingly thing,
 a house [...] a city [...]
 
 ## Nearest in corpus
-Andreas ch.1 0.12 · Old English Elegies ch.7 0.09 · Old English Elegies ch.5 0.09
+
 
 ## Original-language signature (old-english, top-3)
 "the ruin ========" · "ruin ======== verse" · "======== verse indeterminate"

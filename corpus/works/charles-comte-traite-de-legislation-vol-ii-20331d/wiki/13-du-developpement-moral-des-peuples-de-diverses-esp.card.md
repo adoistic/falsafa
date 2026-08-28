@@ -18,7 +18,7 @@ prose · 15¶ · 2324w · vocab 494 (TTR 47%, hapax 62%)
 > [p-a0c9b3] In order to put order into the exposition of the morals or laws of the peoples of the diverse species, I will first make known what are the diverse classes into which each nation, each horde or each tribe is divided; I will then expound what are the relations that the individuals of each class have, either among themselves, or with individuals who belong to different classes; I will expound, in the third place, what is, in each state, the condition of women, children, and the elderly; I will expound, moreover, what are the habits that immediately affect only the individuals who have contracted them; finally, I will make known what are the relations that exist from people to people; one will thus be able to see how the moral habits of each fraction of which the species is composed influence the fate of the whole, and how migrations, invasions, or conquests transport the ideas, morals, and institutions formed under certain local circumstances, to peoples placed in different circumstances.
 
 ## Nearest in corpus
-Traité de Législation: VOL II ch.6 0.49 · Traité de Législation: VOL III ch.37 0.43 · Traité de Législation: VOL III ch.47 0.41
+
 
 ## Original-language signature (french, top-3)
 "peuples diverses espèces" · "uns égard autres" · "circonstances physiques milieu"

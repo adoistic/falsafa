@@ -21,7 +21,7 @@ But those who see the human way, behold the soul behind the eyes.
 For every artist, in their sight, beholds their own wrong and their right.
 
 ## Nearest in corpus
-Bang-E-Dara Part 3 ch.8 0.29 · Bang-E-Dara Part 1 ch.3 0.21 · Bang-E-Dara Part 1 ch.40 0.17
+
 
 ## Original-language signature (urdu, top-3)
 "dekhte hain woh" · "gauhar jauhari sarraf" · "jauhari sarraf zar"

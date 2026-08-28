@@ -18,7 +18,7 @@ prose · 12¶ · 1509w · vocab 331 (TTR 51%, hapax 73%)
 > [p-5172a6] I will show elsewhere what are the diverse circumstances that have formed the ideas of the men whom birth, or the hazards of fortune or of war have made masters of nations. It is enough for me to have observed here, in a general manner, that the ideas of the diverse classes of the population are one of the principal elements of which laws are composed.
 
 ## Nearest in corpus
-Traité de Législation: VOL I ch.16 0.60 · Traité de Législation: VOL I ch.11 0.38 · Traité de Législation: VOL I ch.13 0.35
+
 
 ## Original-language signature (french, top-3)
 "diverses classes population" · "éléments puissance lois" · "principaux éléments lois"

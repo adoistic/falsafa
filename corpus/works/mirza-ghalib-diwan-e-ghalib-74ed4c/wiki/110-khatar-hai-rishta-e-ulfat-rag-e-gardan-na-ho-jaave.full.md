@@ -21,7 +21,7 @@ For friendship’s pride is ruin, you, a source of dread lest it become.
 If on the cypress' height, the rose as robes is spread lest it become.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.45 0.10 · Diwan-E-Ghalib ch.62 0.10 · Bang-E-Dara Part 1 ch.3 0.09
+
 
 ## Original-language signature (urdu, top-3)
 "khatar hai rishta-e-ulfat" · "hai rishta-e-ulfat rag-e-gardan" · "rishta-e-ulfat rag-e-gardan jaave"

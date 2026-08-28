@@ -21,7 +21,7 @@ Of fleeting dreams whose truth we start to doubt, we talk about.
 How can a patient heart hold any clout, we talk about.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.219 0.21 · Bang-E-Dara Part 3 ch.13 0.09 · Bang-E-Dara Part 3 ch.4 0.08
+
 
 ## Original-language signature (urdu, top-3)
 "waqt-e-peeri shabaab baatein" · "transliterator thothica ---" · "thothica --- work_id"

@@ -21,7 +21,7 @@ But what's the crime if you should ask for me?
 Just let the world exist, O Lord, and my king be.
 
 ## Nearest in corpus
-Diwan-E-Zauq ch.58 0.11 · Bang-E-Dara Part 2 ch.16 0.11 · Diwan-E-Ghalib ch.100 0.10
+
 
 ## Original-language signature (urdu, top-3)
 "tum jaano tum" · "jaano tum ghair" · "tum ghair rasm-o-raah"

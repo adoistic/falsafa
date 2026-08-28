@@ -21,7 +21,7 @@ My shadow left behind, my head is two full steps ahead.
 The very ones who swore upon my life, and looked ahead.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.115 0.15 · Bang-E-Dara Part 2 ch.9 0.10 · Bang-E-Dara Part 3 ch.7 0.09
+
 
 ## Original-language signature (urdu, top-3)
 "ajab nishaat jallad" · "nishaat jallad chale" · "jallad chale hain"

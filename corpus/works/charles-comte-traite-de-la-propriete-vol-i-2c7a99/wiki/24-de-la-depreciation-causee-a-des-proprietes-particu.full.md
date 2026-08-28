@@ -19,7 +19,7 @@ prose · 16¶ · 1617w · vocab 378 (TTR 51%, hapax 67%)
 [^202]: Law of July 7, 1833, art. 52.
 
 ## Nearest in corpus
-Traité de la propriété: VOL I ch.23 0.52 · Traité de la propriété: VOL I ch.21 0.32 · Traité de la propriété: VOL II ch.49 0.29
+
 
 ## Original-language signature (french, top-3)
 "loi septembre 1807" · "travaux exécutés intérêt" · "cause utilité publique"

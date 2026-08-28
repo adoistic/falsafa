@@ -18,7 +18,7 @@ prose · 40¶ · 4441w · vocab 1095 (TTR 53%, hapax 66%)
 > [p-ba60c3] The peoples of the negro species of the great Ocean, who are closest to the tropics, are therefore, in general, much less barbarous than those who are most distant from them.
 
 ## Nearest in corpus
-Traité de Législation: VOL II ch.14 0.41 · Traité de Législation: VOL II ch.24 0.37 · Traité de Législation: VOL II ch.10 0.35
+
 
 ## Original-language signature (french, top-3)
 "peuples espèce nègre" · "peuples espèce malaie" · "quelques îles grand"

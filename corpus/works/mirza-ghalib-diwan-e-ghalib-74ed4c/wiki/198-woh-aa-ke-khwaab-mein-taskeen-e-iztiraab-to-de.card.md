@@ -21,7 +21,7 @@ But first, from my heart's fire, grant sleep's release.
 Just grant, sometimes, the one desire of my ruined soul.
 
 ## Nearest in corpus
-Diwan-E-Zauq ch.58 0.34 · Diwan-E-Ghalib ch.76 0.13 · Diwan-E-Ghalib ch.131 0.09
+
 
 ## Original-language signature (urdu, top-3)
 "woh khwaab mein" · "khwaab mein taskeen-e-iztiraab" · "transliterator thothica ---"

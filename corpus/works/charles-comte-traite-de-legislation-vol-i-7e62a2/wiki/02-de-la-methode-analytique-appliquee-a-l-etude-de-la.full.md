@@ -18,7 +18,7 @@ prose · 46¶ · 9651w · vocab 1499 (TTR 35%, hapax 55%)
 > [p-b10cae] I will examine, in the following chapter, what are, in legislation and morality, the consequences of either an incomplete analysis, or the use of sophisms and false systems.
 
 ## Nearest in corpus
-Traité de Législation: VOL I ch.1 0.59 · Traité de Législation: VOL I ch.3 0.58 · Traité de Législation: VOL I ch.8 0.45
+
 
 ## Original-language signature (french, top-3)
 "application méthode analytique" · "action habitude loi" · "étude morale législation"

@@ -23,7 +23,7 @@ prose · 34¶ · 2966w · vocab 622 (TTR 44%, hapax 56%)
 [^208]: See ordinance of December 9, 1713; laws of July 7 and 10, 1791, and July 17 and 25, 1819.
 
 ## Nearest in corpus
-Traité de la propriété: VOL II ch.52 0.40 · Traité de la propriété: VOL II ch.38 0.38 · Traité de la propriété: VOL II ch.49 0.24
+
 
 ## Original-language signature (french, top-3)
 "auteurs code civil" · "clore son héritage" · "code civil art"

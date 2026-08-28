@@ -21,7 +21,7 @@ He asks, amazed, "Can such a thing occur in this our age?"
 Do not that lovely tyrant in love's test engage.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.81 0.17 · Diwan-E-Zauq ch.57 0.07 · Bang-E-Dara Part 2 ch.25 0.07
+
 
 ## Original-language signature (urdu, top-3)
 "qayamat hai sun" · "hai sun laila" · "sun laila dasht-e-qais"

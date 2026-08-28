@@ -18,7 +18,7 @@ prose · 36¶ · 4089w · vocab 988 (TTR 52%, hapax 66%)
 > [p-769549] There are some variations in the morals of the different hordes that inhabit the Caucasus; but one observes that as one ascends into the mountains, the inhabitants are coarser or more barbarous. Some wander in the forests, and join the vices we have observed among savages to the vices of brigands that sometimes exist among civilized peoples [109].
 
 ## Nearest in corpus
-Traité de Législation: VOL III ch.28 0.35 · Traité de Législation: VOL II ch.14 0.34 · Traité de Législation: VOL II ch.18 0.33
+
 
 ## Original-language signature (french, top-3)
 "peuples espèce caucasienne" · "peuples espèce mongole" · "peuples espèce habitent"

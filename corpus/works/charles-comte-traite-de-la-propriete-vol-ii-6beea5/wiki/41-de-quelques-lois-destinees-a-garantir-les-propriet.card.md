@@ -20,7 +20,7 @@ prose · 43¶ · 3183w · vocab 675 (TTR 48%, hapax 59%)
 [^302]: Here are some of the provisions of the law of November 23, 1790:
 
 ## Nearest in corpus
-Traité de la propriété: VOL II ch.40 0.25 · Traité de la propriété: VOL II ch.42 0.24 · Traité de la propriété: VOL II ch.43 0.23
+
 
 ## Original-language signature (french, top-3)
 "valeur maisons villes" · "fabriques manufactures moulins" · "propriétés contre atteintes"

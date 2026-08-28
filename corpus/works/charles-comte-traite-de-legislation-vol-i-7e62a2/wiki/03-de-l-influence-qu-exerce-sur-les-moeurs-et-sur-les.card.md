@@ -18,7 +18,7 @@ prose · 35¶ · 5833w · vocab 989 (TTR 38%, hapax 56%)
 > [p-0b52e1] The human race is naturally progressive; it tends, by its own nature, toward its preservation and its development; but, to take the right road, it needs to be enlightened. A good analysis sheds light on all roads, on those that lead to misery and destruction, as well as on those that lead to prosperity. An unfaithful analysis or a false system casts only a false light, and makes things appear other than as they are. The author of an unfaithful analysis is, for peoples, what a man who changed the signs placed on the roads to indicate their route would be for travelers. He makes them take a road that has no exit or that leads them to a place it was in their interest to avoid. The author of a faithful and complete analysis is, on the contrary, for peoples, what a man who went to place on a multitude of intersecting roads the exact indication of all the places to which each one leads would be for travelers. But neither the one nor the other creates the principle of activity that sets peoples in motion: they are as foreign to the creation of this principle as the individual who inscribes at the entrance of roads the names of the places to which they lead is foreign to the motives that determine men to undertake journeys.
 
 ## Nearest in corpus
-Traité de Législation: VOL I ch.2 0.58 · Traité de Législation: VOL I ch.1 0.39 · Traité de Législation: VOL I ch.4 0.39
+
 
 ## Original-language signature (french, top-3)
 "sophismes faux systèmes" · "maux produits autres" · "produits autres causes"

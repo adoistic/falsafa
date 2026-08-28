@@ -21,7 +21,7 @@ Or I'll feign drunkenness and have my sway one day.
 Poor Ghalib, I alone had lost my way one day.
 
 ## Nearest in corpus
-Diwan-E-Zauq ch.32 0.16 · Diwan-E-Ghalib ch.167 0.13 · Diwan-E-Ghalib ch.213 0.13
+
 
 ## Original-language signature (urdu, top-3)
 "humse khul jaao" · "khul jaao ba-waqt-e-mai-parasti" · "jaao ba-waqt-e-mai-parasti din"

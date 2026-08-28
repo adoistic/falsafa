@@ -21,7 +21,7 @@ My heart, my soul, athirst for cries, returned to me.
 In Heaven's heart, the thought of Hell I came to find.
 
 ## Nearest in corpus
-Kātyāyana Smṛti ch.73 0.12 · Diwan-E-Zauq ch.43 0.12 · Diwan-E-Ghalib ch.76 0.10
+
 
 ## Original-language signature (urdu, top-3)
 "phir mujhe deeda-e-tar" · "mujhe deeda-e-tar yaad" · "deeda-e-tar yaad aaya"

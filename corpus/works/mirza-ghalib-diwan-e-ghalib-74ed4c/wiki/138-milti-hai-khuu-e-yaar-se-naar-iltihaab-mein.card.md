@@ -21,7 +21,7 @@ A heathen I, if I find no strange comfort for my care in this despair.
 On cloudy days or moonlit nights, he'll drink to banish care in this despair.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.178 0.26 · Diwan-E-Zauq ch.52 0.23 · Diwan-E-Ghalib ch.120 0.18
+
 
 ## Original-language signature (urdu, top-3)
 "milti hai khuu-e-yaar" · "hai khuu-e-yaar naar" · "khuu-e-yaar naar iltihaab"

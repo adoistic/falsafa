@@ -21,7 +21,7 @@ Till separation’s nights gave refuge in their cruelty.
 I too am lost before the Names of Divine Majesty.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.3 0.10 · Bang-E-Dara Part 1 ch.37 0.09 · Bang-E-Dara Part 3 ch.20 0.09
+
 
 ## Original-language signature (urdu, top-3)
 "garm-faryaad rakha shakl-e-nihaali" · "rakha shakl-e-nihaali mujhe" · "transliterator thothica ---"

@@ -21,7 +21,7 @@ In garden groves, the songbird’s sweet flight is put to the test.
 With this new turmoil, heaven’s ancient might is put to the test.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.166 0.17 · Bang-E-Dara Part 1 ch.12 0.16 · Diwan-E-Ghalib ch.68 0.15
+
 
 ## Original-language signature (urdu, top-3)
 "huzoor-e-shah mein ahl-e-sukhan" · "mein ahl-e-sukhan aazmaish" · "ahl-e-sukhan aazmaish hai"

@@ -21,7 +21,7 @@ But where’s my heart to lose? My purpose I found out.
 The more I sought to know you, a test of love I found.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.81 0.13 · Diwan-E-Ghalib ch.112 0.13 · Diwan-E-Ghalib ch.217 0.12
+
 
 ## Original-language signature (urdu, top-3)
 "kehte denge hum" · "denge hum dil" · "hum dil agar"

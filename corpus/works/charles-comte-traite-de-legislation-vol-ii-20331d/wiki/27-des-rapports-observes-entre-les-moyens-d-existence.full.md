@@ -18,7 +18,7 @@ prose · 40¶ · 4574w · vocab 1013 (TTR 48%, hapax 62%)
 > [p-f35d7e] #### END OF THE SECOND VOLUME.
 
 ## Nearest in corpus
-Traité de Législation: VOL III ch.31 0.39 · Traité de Législation: VOL II ch.19 0.37 · Traité de Législation: VOL II ch.18 0.33
+
 
 ## Original-language signature (french, top-3)
 "mœurs peuples espèce" · "côte occidentale afrique" · "état social peuples"

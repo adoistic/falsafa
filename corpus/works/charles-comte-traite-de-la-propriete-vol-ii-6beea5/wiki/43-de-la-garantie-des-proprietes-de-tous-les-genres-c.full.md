@@ -18,7 +18,7 @@ prose · 29¶ · 2629w · vocab 641 (TTR 54%, hapax 69%)
 > [p-011e3c] [^304]: Statute 57, George III, ch. XIX, § 38.
 
 ## Nearest in corpus
-Traité de la propriété: VOL II ch.42 0.52 · Traité de la propriété: VOL II ch.40 0.41 · Traité de la propriété: VOL II ch.45 0.35
+
 
 ## Original-language signature (french, top-3)
 "atteintes portées propriétés" · "responsables attentats commis" · "personnes soit contre"

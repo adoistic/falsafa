@@ -23,7 +23,7 @@ Our fates are not the same.
 our song together.
 
 ## Nearest in corpus
-Old English Elegies ch.6 0.08 · Andreas ch.1 0.05 · Traité de la propriété: VOL I ch.15 0.05
+
 
 ## Original-language signature (old-english, top-3)
 "willað hine aþecgan" · "hine aþecgan gif" · "aþecgan gif þreat"

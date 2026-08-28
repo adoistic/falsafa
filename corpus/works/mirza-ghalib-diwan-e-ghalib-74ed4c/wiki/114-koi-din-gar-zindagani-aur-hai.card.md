@@ -21,7 +21,7 @@ The vow I've made is of another kind.
 But sudden death is of another kind.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.27 0.16 · Diwan-E-Ghalib ch.52 0.10 · Diwan-E-Ghalib ch.76 0.10
+
 
 ## Original-language signature (urdu, top-3)
 "koi din gar" · "din gar zindagani" · "gar zindagani aur"

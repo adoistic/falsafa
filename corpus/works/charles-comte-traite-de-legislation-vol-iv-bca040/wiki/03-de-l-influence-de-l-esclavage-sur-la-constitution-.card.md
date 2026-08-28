@@ -18,7 +18,7 @@ prose · 30¶ · 3981w · vocab 868 (TTR 47%, hapax 62%)
 > [p-f0d36d] I should now expound here what influence slavery exercises on the kind of improvement that pertains to the skill given by exercise to the physical organs of slaves, whether in the system of servitude of the glebe, or in the colonial system; but the development of these organs is so subordinated to the intellectual development and passions of the masters, that it is necessary to expound what influence slavery produces on the minds of the latter, before expounding the influence that the same cause produces on the intelligence and industry of the former.
 
 ## Nearest in corpus
-Traité de Législation: VOL IV ch.6 0.51 · Traité de Législation: VOL IV ch.4 0.49 · Traité de Législation: VOL IV ch.17 0.49
+
 
 ## Original-language signature (french, top-3)
 "esclavage constitution physique" · "juger effets produit" · "effets produit esclavage"

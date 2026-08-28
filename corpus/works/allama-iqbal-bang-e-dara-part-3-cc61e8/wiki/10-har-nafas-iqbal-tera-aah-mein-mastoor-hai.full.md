@@ -19,7 +19,7 @@ verse · 21¶ · 403w · vocab 153 (TTR 81%, hapax 83%)
 Carrying in the wave's embrace a hundred splendors of the storm.
 
 ## Nearest in corpus
-Bang-E-Dara Part 3 ch.4 0.19 · Bang-E-Dara Part 3 ch.20 0.17 · Bang-E-Dara Part 3 ch.9 0.13
+
 
 ## Original-language signature (urdu, top-3)
 "har nafas iqbal" · "nafas iqbal tera" · "iqbal tera aah"

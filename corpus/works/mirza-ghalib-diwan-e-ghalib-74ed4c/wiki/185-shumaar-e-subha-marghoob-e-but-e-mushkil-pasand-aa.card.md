@@ -21,7 +21,7 @@ A hundred hearts in one hand, a captive, silent thrill, she loved to see.
 But it's the creative spring, the very style of Bedil, I loved to see.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.122 0.14 · Diwan-E-Ghalib ch.145 0.11 · Diwan-E-Ghalib ch.37 0.09
+
 
 ## Original-language signature (urdu, top-3)
 "shumaar-e-subha marghoob-e-but-e-mushkil pasand" · "marghoob-e-but-e-mushkil pasand aaya" · "transliterator thothica ---"

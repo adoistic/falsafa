@@ -21,7 +21,7 @@ For life's true flavor is the salt one sprinkles on the pain.
 The sparks from every blow are like a shower of roses thrown.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.98 0.19 · Diwan-E-Ghalib ch.160 0.12 · Diwan-E-Ghalib ch.175 0.10
+
 
 ## Original-language signature (urdu, top-3)
 "junoon tehmat-kash-e-taskeen gar" · "tehmat-kash-e-taskeen gar shaadmaani" · "transliterator thothica ---"

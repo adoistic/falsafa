@@ -19,7 +19,7 @@ prose · 39¶ · 4398w · vocab 946 (TTR 49%, hapax 62%)
 [^324]: Raynal, *Histoire philosophique des établissemens des Européens dans les Deux-Indes*, volume VIII, bk. 6, pages 245-247.
 
 ## Nearest in corpus
-Traité de la propriété: VOL II ch.46 0.42 · Nouveau traité d'économie: VOL II ch.14 0.34 · Nouveau traité d'économie: VOL I ch.12 0.31
+
 
 ## Original-language signature (french, top-3)
 "moyens aide desquels" · "vivent produits travail" · "divers moyens aide"

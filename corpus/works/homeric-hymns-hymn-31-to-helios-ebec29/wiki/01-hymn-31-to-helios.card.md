@@ -1,0 +1,24 @@
+---
+textrank_confidence: low
+---
+
+# Hymn 31 to Helios · ch.1
+prose · 2¶ · 187w · vocab 90 (TTR 82%, hapax 88%)
+
+## Distinctive trigrams
+"muse calliope daughter" · "calliope daughter zeus" · "daughter zeus begin"
+
+## Key passage (TextRank #1)
+> [p-1d2fd2] And now, O Muse Calliope, daughter of Zeus, begin to sing of glowing Helios whom mild-eyed Euryphaessa, the far-shining one, bare to the Son of Earth and starry Heaven. For Hyperion wedded glorious Euryphaessa, his own sister, who bare him lovely children, rosy-armed Eos and rich-tressed Selene and tireless Helios who is like the deathless gods. As he rides in his chariot, he shines upon men and deathless gods, and piercingly he gazes with his eyes from his golden helmet. Bright rays beam dazzlingly from him, and his bright locks streaming from the temples of his head gracefully enclose his far-seen face: a rich, fine-spun garment glows upon his body and flutters in the wind: and stallions carry him.
+
+## Opens
+> [p-1d2fd2] And now, O Muse Calliope, daughter of Zeus, begin to sing of glowing Helios whom mild-eyed Euryphaessa, the far-shining one, bare to the Son of Earth and starry Heaven. For Hyperion wedded glorious Euryphaessa, his own sister, who bare him lovely children, rosy-armed Eos and rich-tressed Selene and tireless Helios who is like the deathless gods. As he rides in his chariot, he shines upon men and deathless gods, and piercingly he gazes with his eyes from his golden helmet. Bright rays beam dazzlingly from him, and his bright locks streaming from the temples of his head gracefully enclose his far-seen face: a rich, fine-spun garment glows upon his body and flutters in the wind: and stallions carry him.
+
+## Closes
+> [p-00a1e3] Then, when he has stayed his golden-yoked chariot and horses, he rests there upon the highest point of heaven, until he marvelously drives them down again through heaven to Ocean. Hail to you, lord! Freely bestow on me substance that cheers the heart. And now that I have begun with you, I will celebrate the race of mortal men half-divine whose deeds the Muses have showed to mankind.
+
+## Nearest in corpus
+
+
+## Original-language signature (english, top-3)
+"ἥλιον ὑμνεῖν αὖτε" · "ὑμνεῖν αὖτε διὸς" · "αὖτε διὸς τέκος"

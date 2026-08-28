@@ -28,7 +28,7 @@ prose · 34¶ · 3867w · vocab 916 (TTR 48%, hapax 62%)
 [^54]: *Civil Code*, art. 552. Article 187 of the Custom of Paris had admitted, before the Civil Code, that the property of the soil entails the property of what is above and below.
 
 ## Nearest in corpus
-Traité de la propriété: VOL I ch.10 0.45 · Traité de la propriété: VOL I ch.9 0.38 · Traité de la propriété: VOL II ch.27 0.28
+
 
 ## Original-language signature (french, top-3)
 "mises état culture" · "mille livres sterling" · "dix mille hommes"

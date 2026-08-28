@@ -25,7 +25,7 @@ That is a fate for my own foe, you see.
 The stitch complains against the mend, you see.
 
 ## Nearest in corpus
-Diwan-E-Zauq ch.36 0.18 · Diwan-E-Ghalib ch.74 0.14 · Diwan-E-Ghalib ch.131 0.12
+
 
 ## Original-language signature (urdu, top-3)
 "jis zakhm sakti" · "zakhm sakti tadbeer" · "sakti tadbeer rafu"

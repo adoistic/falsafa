@@ -21,7 +21,7 @@ And I am weary of the men who thrive on fawning lies.
 The few days I have known, I'm weary of, were filled with apocalyptic cries.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.76 0.12 · Diwan-E-Ghalib ch.38 0.10 · Diwan-E-Ghalib ch.88 0.10
+
 
 ## Original-language signature (urdu, top-3)
 "hai bazm-e-butaan mein" · "bazm-e-butaan mein sukhan" · "mein sukhan aazurda-labon"

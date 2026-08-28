@@ -18,7 +18,7 @@ prose · 24¶ · 2223w · vocab 389 (TTR 41%, hapax 60%)
 > [p-c4e4dc] ---
 
 ## Nearest in corpus
-Traité de la propriété: VOL II ch.49 0.50 · Traité de la propriété: VOL II ch.27 0.27 · Traité de la propriété: VOL II ch.38 0.22
+
 
 ## Original-language signature (french, top-3)
 "appartenant différens maîtres" · "principes équité naturelle" · "matière peut pas"

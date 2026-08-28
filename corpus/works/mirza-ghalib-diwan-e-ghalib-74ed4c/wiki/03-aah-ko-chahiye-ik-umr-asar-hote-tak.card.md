@@ -21,7 +21,7 @@ Who lives to conquer your dark hair's long night?
 A candle burns in every way till morning's light.
 
 ## Nearest in corpus
-Bang-E-Dara Part 1 ch.5 0.17 · Bang-E-Dara Part 3 ch.7 0.13 · Bang-E-Dara Part 3 ch.9 0.13
+
 
 ## Original-language signature (urdu, top-3)
 "aah chahiye umr" · "chahiye umr asar" · "umr asar hote"

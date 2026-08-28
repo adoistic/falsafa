@@ -19,7 +19,7 @@ verse · 5¶ · 80w · vocab 40 (TTR 95%, hapax 95%)
 *For what we have already sown, we cannot reap for shame.*
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.190 0.06 · Nouveau traité d'économie: VOL I ch.1 0.06 · Diwan-E-Zauq ch.42 0.06
+
 
 ## Original-language signature (urdu, top-3)
 "taleem aur iske" · "aur iske nataaij" · "transliterator thothica ---"

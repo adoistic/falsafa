@@ -21,7 +21,7 @@ saying, "The Muslims of Egypt and India are tearing down the very edifice of the
 In this new age, you are telling us the same old stories!"
 
 ## Nearest in corpus
-Bang-E-Dara Part 3 ch.4 0.14 · Bang-E-Dara Part 2 ch.7 0.11 · Bang-E-Dara Part 1 ch.44 0.08
+
 
 ## Original-language signature (urdu, top-3)
 "transliterator thothica ---" · "thothica --- work_id" · "--- work_id cc61e86c-ca8b-4714-8f37-fe742b33069d"

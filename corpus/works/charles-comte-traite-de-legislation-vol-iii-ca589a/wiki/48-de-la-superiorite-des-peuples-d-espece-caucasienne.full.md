@@ -18,7 +18,7 @@ prose · 17¶ · 4085w · vocab 746 (TTR 41%, hapax 61%)
 > [p-81116a] Men of the Caucasian species have produced, it is added, remarkable works, even in slavery: the Roman slaves counted among them Epictetus, Phaedrus, Terence; and what are the men of genius that the Negro slaves of Jamaica or Saint Lucia have seen born among them? Is this absence of great philosophers or great poets among the Negro slaves not an infallible proof of the inferiority of their species and the superiority of ours [529]? There was an epoch at which it was thought that the climate of America caused men to degenerate; and this phenomenon was proven by saying that this part of the world had never produced any remarkable scholar or artist. These two ways of reasoning are very analogous: to prove that Negroes form an inferior species, for the reason that the black slaves employed in the cultivation of sugar have produced nothing comparable to the comedies of Terence; or to prove that the citizens of the United States are a degenerate race, for the reason that they have produced no orator like Cicero, or no poet like Virgil, is this not, in effect, exactly the same thing? I doubt, moreover, that the genius of the Russian, Polish, or Courlandian slaves has ever been much more productive of poets or philosophers than the genius of the black slaves, although the former are infinitely more numerous than the latter, and their lot is less miserable.
 
 ## Nearest in corpus
-Traité de Législation: VOL III ch.47 0.69 · Traité de Législation: VOL III ch.49 0.62 · Traité de Législation: VOL II ch.5 0.52
+
 
 ## Original-language signature (french, top-3)
 "peuples espèce caucasienne" · "peuples autres espèces" · "hommes espèce caucasienne"

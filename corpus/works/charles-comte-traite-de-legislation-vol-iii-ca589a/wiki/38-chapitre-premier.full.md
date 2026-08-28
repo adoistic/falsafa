@@ -18,7 +18,7 @@ prose · 24¶ · 5123w · vocab 955 (TTR 40%, hapax 56%)
 > [p-1b9813] Having seen, in a general manner, what are the causes that determine peoples in the preference they give to certain places over others, and what are those that contribute to hastening, slowing, or stopping their progress, it only remains for me to expound the special causes that, on each of the principal parts of the globe, have retained peoples in barbarism, or have made them advance in civilization.
 
 ## Nearest in corpus
-Traité de Législation: VOL III ch.39 0.51 · Traité de Législation: VOL III ch.42 0.47 · Traité de Législation: VOL III ch.40 0.47
+
 
 ## Original-language signature (french, top-3)
 "parties globe lesquelles" · "sol cours eaux" · "facultés intellectuelles morales"

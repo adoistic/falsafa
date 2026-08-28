@@ -18,7 +18,7 @@ prose · 15¶ · 2360w · vocab 676 (TTR 61%, hapax 75%)
 > [p-94ec77] Thus, one finds among the peoples of the Malay species who inhabit cold or temperate climates no moral superiority over the peoples of the same species who inhabit hot climates. One finds, on the contrary, among several of the latter less energy in the malevolent passions, and more force in the social affections than in the former.
 
 ## Nearest in corpus
-Traité de Législation: VOL II ch.23 0.47 · Traité de Législation: VOL II ch.25 0.37 · Traité de Législation: VOL III ch.41 0.34
+
 
 ## Original-language signature (french, top-3)
 "mœurs peuples espèce" · "peuples espèce malaie" · "habitants île pâques"

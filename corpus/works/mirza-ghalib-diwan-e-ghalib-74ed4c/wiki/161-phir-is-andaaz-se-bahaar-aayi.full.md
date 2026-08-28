@@ -21,7 +21,7 @@ The spring, that sun and moon to watch the play is here.
 The pious King's recovery this blessed day is here.
 
 ## Nearest in corpus
-Kātyāyana Smṛti ch.48 0.14 · Diwan-E-Ghalib ch.167 0.12 · Diwan-E-Ghalib ch.213 0.12
+
 
 ## Original-language signature (urdu, top-3)
 "phir andaaz bahaar" · "andaaz bahaar aayi" · "transliterator thothica ---"

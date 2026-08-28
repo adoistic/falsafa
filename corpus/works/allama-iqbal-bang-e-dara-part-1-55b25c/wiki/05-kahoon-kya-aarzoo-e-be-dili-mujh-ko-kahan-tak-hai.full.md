@@ -21,7 +21,7 @@ My market's only splendor is the trade of loss and pain.
 I think my love's a secret that my confidants contain.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.75 0.18 · Diwan-E-Ghalib ch.3 0.17 · Bang-E-Dara Part 3 ch.20 0.15
+
 
 ## Original-language signature (urdu, top-3)
 "kahoon kya aarzoo-e" · "kya aarzoo-e be-dili" · "aarzoo-e be-dili mujh"

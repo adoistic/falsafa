@@ -22,7 +22,7 @@ Within my helpless gaze for all to see,
 From scattered kohl-dust, I'll write sound's decree.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.113 0.14 · Diwan-E-Ghalib ch.213 0.11 · Diwan-E-Ghalib ch.26 0.11
+
 
 ## Original-language signature (urdu, top-3)
 "loon waam bakht-e-khufta" · "waam bakht-e-khufta yak-khwaab-e-khush" · "bakht-e-khufta yak-khwaab-e-khush walay"

@@ -18,7 +18,7 @@ prose · 35¶ · 3179w · vocab 643 (TTR 45%, hapax 62%)
 > [p-c4e4dc] ---
 
 ## Nearest in corpus
-Traité de la propriété: VOL I ch.10 0.41 · Traité de la propriété: VOL I ch.5 0.37 · Nouveau traité d'économie: VOL II ch.14 0.34
+
 
 ## Original-language signature (french, top-3)
 "comment forment propriétés" · "propriétés consistent fonds" · "consistent fonds terre"

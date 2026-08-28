@@ -18,7 +18,7 @@ prose · 53¶ · 4639w · vocab 1015 (TTR 49%, hapax 62%)
 > [p-836908] [^1]: Volume I, page 24.
 
 ## Nearest in corpus
-Nouveau traité d'économie: VOL I ch.11 0.31 · Traité de Législation: VOL IV ch.1 0.30 · Traité de la propriété: VOL II ch.54 0.29
+
 
 ## Original-language signature (french, top-3)
 "loi contre associations" · "publie aujourd hui" · "ordre naturel idées"

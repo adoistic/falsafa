@@ -18,7 +18,7 @@ prose · 29¶ · 4178w · vocab 790 (TTR 42%, hapax 60%)
 > [p-44d701] The diverse colors proper to each species are therefore independent of any artificial cause and of the action of light and heat. If, by artificial means or by the action of a more or less burning sun, one can modify the complexion of individuals of certain species, these modifications never affect their descendants; they perish with the individuals who have experienced them, and often even cease with the action of the causes that produced them.
 
 ## Nearest in corpus
-Traité de Législation: VOL II ch.5 0.59 · Traité de Législation: VOL II ch.3 0.42 · Traité de Législation: VOL III ch.47 0.40
+
 
 ## Original-language signature (french, top-3)
 "individus espèce caucasienne" · "latitudes degrés élévation" · "telle telle forme"

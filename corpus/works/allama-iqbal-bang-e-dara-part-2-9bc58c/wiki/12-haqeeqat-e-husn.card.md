@@ -19,7 +19,7 @@ verse · 8¶ · 125w · vocab 58 (TTR 87%, hapax 86%)
 And Youth, who came to revel, stayed to mourn.
 
 ## Nearest in corpus
-Bang-E-Dara Part 2 ch.22 0.22 · Diwan-E-Zauq ch.3 0.21 · Bang-E-Dara Part 2 ch.17 0.17
+
 
 ## Original-language signature (urdu, top-3)
 "transliterator thothica ---" · "thothica --- work_id" · "--- work_id 9bc58cbd-ab40-4264-bd01-6e5bddf3e11f"

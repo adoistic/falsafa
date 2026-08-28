@@ -18,7 +18,7 @@ prose · 15¶ · 1875w · vocab 461 (TTR 55%, hapax 67%)
 > [p-5cf2c9] [^2]: In our days, nations are still considered, in the greater part of Europe, as the property of the princes who govern them. One need only read the treaties they make among themselves to be convinced of this.
 
 ## Nearest in corpus
-Traité de la propriété: VOL I ch.2 0.37 · Traité de Législation: VOL IV ch.1 0.36 · Traité de Législation: VOL I ch.1 0.35
+
 
 ## Original-language signature (french, top-3)
 "celui aviserait substituer" · "aviserait substituer autorité" · "nous empruntons idées"

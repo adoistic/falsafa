@@ -21,7 +21,7 @@ Where night and day a spectacle unfolds my way.
 So why speak ill of Ghalib? He is fine, I say.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.79 0.24 · Diwan-E-Ghalib ch.31 0.19 · Diwan-E-Zauq ch.20 0.18
+
 
 ## Original-language signature (urdu, top-3)
 "baazeecha-e-atfaal hai duniya" · "hai duniya mere" · "duniya mere aage"

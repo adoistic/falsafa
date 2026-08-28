@@ -18,7 +18,7 @@ prose · 13¶ · 1833w · vocab 440 (TTR 54%, hapax 72%)
 > [p-e5f6e0] When I expound the state of peoples at diverse degrees of civilization, one will see how their laws have varied with their passions: it is enough for me to have observed here that, whatever the state to which a people has arrived, the moral affections it experiences, whether they be agreeable or painful, form one of the principal elements of power of its laws, and that the action that is exercised upon it can reach it in these affections, as well as in its physical organs.
 
 ## Nearest in corpus
-Traité de Législation: VOL I ch.17 0.60 · Traité de Législation: VOL I ch.11 0.40 · Traité de Législation: VOL I ch.13 0.34
+
 
 ## Original-language signature (french, top-3)
 "principaux éléments force" · "pas composée mêmes" · "composée mêmes éléments"

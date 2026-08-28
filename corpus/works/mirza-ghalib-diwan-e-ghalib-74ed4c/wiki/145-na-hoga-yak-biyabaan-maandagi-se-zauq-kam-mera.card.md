@@ -21,7 +21,7 @@ A bubble on the moving wave is all my trace, my.
 My flight's the wine that settles with a gentle grace, my.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.62 0.15 · Diwan-E-Ghalib ch.160 0.13 · Diwan-E-Ghalib ch.185 0.11
+
 
 ## Original-language signature (urdu, top-3)
 "hoga yak-biyabaan maandagi" · "yak-biyabaan maandagi zauq" · "maandagi zauq kam"

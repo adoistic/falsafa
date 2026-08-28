@@ -18,7 +18,7 @@ prose · 69¶ · 7483w · vocab 1840 (TTR 51%, hapax 66%)
 > [p-17a16d] > “Another consoling circumstance for the country and for us,” says the same writer, “is that the villages had decided among themselves that *the redemption of blood* was abolished, and the punishment of new crimes referred to our equity. The redemption of blood is one of those scourges, son of prejudice and barbarism, which raised barriers between each country, and intercepted communication: if a private quarrel, an accident, had caused someone’s death, the lack of justice, vengeance, a misguided sense of honor, accumulated reprisals upon reprisals, and thenceforth an eternal war; one no longer walked except in numbers and armed: business visits were expeditions; the roads ceased to be used; one no longer met there but pedestrians of the most abject class, which could only add to the lack of safety on the roads. The forgetting of past errors was thus the first happy influence of our government [324].”
 
 ## Nearest in corpus
-Traité de Législation: VOL III ch.33 0.44 · Traité de Législation: VOL III ch.32 0.43 · Traité de Législation: VOL III ch.35 0.38
+
 
 ## Original-language signature (french, top-3)
 "passent journées entières" · "chap parallèle portion" · "parallèle portion richesses"

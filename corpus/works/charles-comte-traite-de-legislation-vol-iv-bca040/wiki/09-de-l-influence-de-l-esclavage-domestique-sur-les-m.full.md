@@ -18,7 +18,7 @@ prose · 33¶ · 5499w · vocab 1302 (TTR 50%, hapax 67%)
 > [p-3b44f7] Finally, the third circumstance that influences the effects of slavery is the action of the States that have proscribed it on those that have preserved it. This action, which is continuous, is all the stronger as the former are more numerous, more enlightened, more industrious, and richer. England, it is true, also acts upon its colonies to temper the effects of slavery; but the action it exercises has been felt only for a small number of years; and this action is partly paralyzed by the distance of the colonies, by the influence that the slave-owners exercise in the mother country, and by the nature of its government [203].
 
 ## Nearest in corpus
-Traité de Législation: VOL IV ch.17 0.56 · Traité de Législation: VOL IV ch.13 0.51 · Traité de Législation: VOL IV ch.7 0.51
+
 
 ## Original-language signature (french, top-3)
 "état réel société" · "grand nombre esclaves" · "description dispositions loi"

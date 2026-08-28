@@ -18,7 +18,7 @@ prose · 7¶ · 944w · vocab 298 (TTR 69%, hapax 76%)
 > [p-8355cd] The thefts committed in the Friendly Islands from French ships were also done for the profit of the chiefs, even when it was men of the lowest ranks who were guilty of them [593].
 
 ## Nearest in corpus
-Traité de Législation: VOL II ch.19 0.37 · Traité de Législation: VOL II ch.20 0.21 · Traité de Législation: VOL IV ch.15 0.20
+
 
 ## Original-language signature (french, top-3)
 "hommes derniers rangs" · "chap relations existent" · "relations existent peuples"

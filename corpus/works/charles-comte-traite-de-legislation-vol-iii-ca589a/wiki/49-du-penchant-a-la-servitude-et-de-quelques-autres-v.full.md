@@ -18,7 +18,7 @@ prose · 12¶ · 2602w · vocab 634 (TTR 53%, hapax 66%)
 > [p-b0a33a] Blacks sometimes preserve, even in slavery, moral qualities that seem incompatible with such a state. In Louisiana, they have for one another a touching affection. One never sees them part without giving each other marks of interest or friendship, or meet without asking for news of their relatives, their friends, their acquaintances: they render each other all the good offices that are in their power. They are all of a perfect discretion, especially with regard to whites; if one of them is caught in a fault, it is rare that he denounces his accomplices: the most severe punishments can rarely extract the admission from him. When they belong to good masters who let them accumulate a peculium, one sees children who remain slaves and who use their small savings to buy the freedom of their old parents. At the time of the insurrection of Saint-Domingue, there were slaves who, out of pity for their masters, renounced the liberty they could acquire, and accompanied them in their flight to the United States. The masters rewarded them by selling them to the first slave traders who presented themselves [541].
 
 ## Nearest in corpus
-Traité de Législation: VOL III ch.48 0.62 · Traité de Législation: VOL III ch.47 0.57 · Traité de Législation: VOL II ch.5 0.44
+
 
 ## Original-language signature (french, top-3)
 "peuples espèce caucasienne" · "peuples espèce mongole" · "alors resteront libres"

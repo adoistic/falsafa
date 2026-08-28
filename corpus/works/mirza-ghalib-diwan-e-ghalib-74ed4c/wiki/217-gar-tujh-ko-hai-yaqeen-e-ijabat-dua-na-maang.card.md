@@ -21,7 +21,7 @@ That is, without a heart free of all want, do not ask.
 Look in the mirror at your essence—for the henna leaf’s mere stain, do not ask.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.76 0.14 · Diwan-E-Zauq ch.18 0.12 · Diwan-E-Ghalib ch.107 0.12
+
 
 ## Original-language signature (urdu, top-3)
 "gar tujh hai" · "tujh hai yaqeen-e-ijabat" · "hai yaqeen-e-ijabat dua"

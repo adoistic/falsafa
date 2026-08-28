@@ -29,7 +29,7 @@ prose · 36¶ · 4449w · vocab 802 (TTR 38%, hapax 54%)
 [^39]: The beasts that live only on prey are rare and travel little in troops; to furnish subsistence, in the most rigorous season, to the animals on which they feed, an immense extent of land is necessary; let us add that they generally destroy all those they encounter. Man, in the savage state, conducts himself in the same manner: he seizes his prey when he can take possession of it; if he let it escape, he would not be certain to encounter it a second time. Thus, at the same time that he needs a large number of animals to subsist, everything conspires to make them rare.
 
 ## Nearest in corpus
-Traité de la propriété: VOL I ch.10 0.53 · Traité de la propriété: VOL I ch.11 0.38 · Traité de la propriété: VOL II ch.27 0.32
+
 
 ## Original-language signature (french, top-3)
 "lieue carrée terrain" · "fournit moyens existence" · "*ibid lib cap"

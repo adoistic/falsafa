@@ -21,7 +21,7 @@ But even to say that is to complain, in a way.
 The pain inside my heart is deeper today.
 
 ## Nearest in corpus
-Bang-E-Dara Part 3 ch.7 0.11 · Diwan-E-Ghalib ch.213 0.10 · Bang-E-Dara Part 2 ch.19 0.10
+
 
 ## Original-language signature (urdu, top-3)
 "shikwe naam be-mehr" · "naam be-mehr khafa" · "be-mehr khafa hota"

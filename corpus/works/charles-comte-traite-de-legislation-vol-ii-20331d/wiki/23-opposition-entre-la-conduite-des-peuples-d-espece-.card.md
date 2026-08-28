@@ -18,7 +18,7 @@ prose · 14¶ · 1483w · vocab 432 (TTR 63%, hapax 76%)
 > [p-4368f6] It seems to me, however, that one would be mistaken if one attributed to fear and hypocrisy all the marks of benevolence that travelers have received from these peoples. The old offenses they have received from one another, and the vengeances that have resulted from them, have accustomed them to see enemies in all men who are not of their nation; but this prejudice, which was common to all the peoples of antiquity that we know, can yield to a contrary conviction. Perfidy and vengeance are born everywhere of fear, and of the need for security: men cease to be false and vindictive, whenever they believe themselves to be in safety, and have no injustice to fear; they cease to be violent and unjust whenever they are convinced that they cannot be so with impunity; one will even see that it is sometimes sufficient for a very short interval to extinguish the most inveterate sentiments of hatred and vengeance, when some event causes the causes that produced them to cease.
 
 ## Nearest in corpus
-Traité de Législation: VOL II ch.24 0.47 · Traité de Législation: VOL II ch.25 0.31 · Traité de Législation: VOL III ch.41 0.30
+
 
 ## Original-language signature (french, top-3)
 "envers navigateurs européens" · "peuples espèce malaie" · "habitants îles marquises"

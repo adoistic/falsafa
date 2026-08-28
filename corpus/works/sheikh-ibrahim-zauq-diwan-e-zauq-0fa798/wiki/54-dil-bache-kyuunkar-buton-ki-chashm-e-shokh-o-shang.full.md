@@ -21,7 +21,7 @@ My own home seems a hundred leagues away, seen from that place.
 But bhang-water; his hands with rose-red wine, not henna, graced.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.76 0.11 · Diwan-E-Zauq ch.7 0.10 · Bang-E-Dara Part 3 ch.20 0.09
+
 
 ## Original-language signature (urdu, top-3)
 "dil bache kyuunkar" · "bache kyuunkar buton" · "kyuunkar buton chashm-e-shokh-o-shang"

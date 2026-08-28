@@ -21,7 +21,7 @@ I am the sound of my own breaking, my own desolate space.
 Alas for that rogue mystic, that connoisseur of beauty, lost at last.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.131 0.13 · Diwan-E-Zauq ch.57 0.12 · Bang-E-Dara Part 3 ch.7 0.10
+
 
 ## Original-language signature (urdu, top-3)
 "gul-naghma hoon parda-e-saaz" · "transliterator thothica ---" · "thothica --- work_id"

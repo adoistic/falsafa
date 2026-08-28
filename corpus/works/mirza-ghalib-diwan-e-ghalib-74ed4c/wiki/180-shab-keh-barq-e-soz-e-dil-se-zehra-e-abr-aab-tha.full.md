@@ -21,7 +21,7 @@ Each circle in the whirlpool was a leaping flame's display.
 A heart that found its pleasure in a nail that scratched it through.
 
 ## Nearest in corpus
-Bang-E-Dara Part 3 ch.9 0.11 · Diwan-E-Zauq ch.16 0.10 · Diwan-E-Zauq ch.54 0.09
+
 
 ## Original-language signature (urdu, top-3)
 "shab keh barq-e-soz-e-dil" · "keh barq-e-soz-e-dil zehra-e-abr" · "barq-e-soz-e-dil zehra-e-abr aab"

@@ -21,7 +21,7 @@ The morning breeze, the messenger I hold so dear, I see.
 The rising star of gems, their fated worth so clear, I see.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.214 0.13 · Bang-E-Dara Part 2 ch.22 0.12 · Diwan-E-Zauq ch.5 0.11
+
 
 ## Original-language signature (urdu, top-3)
 "yeh hum hijr" · "hum hijr mein" · "hijr mein deewar-o-dar"

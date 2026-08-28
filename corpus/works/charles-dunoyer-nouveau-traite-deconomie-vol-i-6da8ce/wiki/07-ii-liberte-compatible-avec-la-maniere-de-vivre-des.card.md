@@ -56,7 +56,7 @@ prose · 68¶ · 11261w · vocab 2259 (TTR 42%, hapax 61%)
 [^206]: *Servi autem ex eo appellati sunt quod imperatores captivos vendere, ac per hoc servare, nec occidere solent.* Justin., Instit. l*ib.* I, tit. 3, § 3.
 
 ## Nearest in corpus
-Traité de Législation: VOL IV ch.3 0.44 · Traité de Législation: VOL IV ch.6 0.43 · Traité de Législation: VOL IV ch.2 0.42
+
 
 ## Original-language signature (french, top-3)
 "antiquités rom adam" · "liberté compatible manière" · "compatible manière vivre"

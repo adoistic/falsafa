@@ -18,7 +18,7 @@ prose · 30¶ · 3508w · vocab 706 (TTR 45%, hapax 62%)
 > [p-7d51dd] [^265]: In England, all jurists are far from having shared this error; we have seen, on the contrary, that when the question was thoroughly examined, almost all the magistrates were of the opinion that literary property should be governed by the common laws; but Parliament had already pronounced.
 
 ## Nearest in corpus
-Traité de la propriété: VOL II ch.32 0.65 · Traité de la propriété: VOL II ch.31 0.55 · Traité de la propriété: VOL II ch.33 0.48
+
 
 ## Original-language signature (french, top-3)
 "garantie donnée propriété" · "donnée propriété littéraire" · "acte autorité publique"

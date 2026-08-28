@@ -18,7 +18,7 @@ prose · 25¶ · 3714w · vocab 799 (TTR 49%, hapax 65%)
 > [p-fb2933] Thus, when a learned observer attests that civil authority is powerless in all that regards domestic slavery, and that nothing is more illusory than the vaunted effect of those laws that prescribe the form of the whip and the number of blows it is permissible to give *at a time,* not only is one convinced of the truth of this observation by the facts he reports, but one cannot conceive how it could be otherwise [386].
 
 ## Nearest in corpus
-Traité de Législation: VOL IV ch.7 0.48 · Traité de Législation: VOL IV ch.21 0.47 · Traité de Législation: VOL IV ch.15 0.44
+
 
 ## Original-language signature (french, top-3)
 "nombre coups fouet" · "vingt-cinq coups fouet" · "coups fouet maître"

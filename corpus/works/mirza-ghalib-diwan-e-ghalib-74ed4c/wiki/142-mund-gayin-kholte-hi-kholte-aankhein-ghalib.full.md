@@ -21,7 +21,7 @@ They brought her to my bedside, but my time was past.
 They brought her to my bedside, but my time was past.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.173 0.10 · Diwan-E-Ghalib ch.114 0.07 · Diwan-E-Ghalib ch.236 0.07
+
 
 ## Original-language signature (urdu, top-3)
 "mund gayin kholte" · "gayin kholte kholte" · "kholte kholte aankhein"

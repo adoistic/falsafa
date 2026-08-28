@@ -21,7 +21,7 @@ For those who once strung pearls with skillful finger.
 So none can lay upon my words a finger.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.134 0.09 · Diwan-E-Zauq ch.34 0.08 · Diwan-E-Ghalib ch.88 0.07
+
 
 ## Original-language signature (urdu, top-3)
 "afsos dandaan kiya" · "dandaan kiya rizq" · "kiya rizq falak"

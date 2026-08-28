@@ -21,7 +21,7 @@ To see my gaze apart from my own hem is vain.
 Her lightning-grace is mirrored in his final pain.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.16 0.18 · Diwan-E-Ghalib ch.101 0.14 · Diwan-E-Ghalib ch.94 0.14
+
 
 ## Original-language signature (urdu, top-3)
 "hujoom-e-gham yaan tak" · "yaan tak sar-nigooni" · "tak sar-nigooni mujh"

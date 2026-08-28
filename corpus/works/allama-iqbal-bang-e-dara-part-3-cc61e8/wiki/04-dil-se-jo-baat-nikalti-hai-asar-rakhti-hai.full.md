@@ -37,7 +37,7 @@ Be true to Muhammad, and We are wholly thine;
 This world is nothing—Pen and Tablet of all Fate are thine.
 
 ## Nearest in corpus
-Bang-E-Dara Part 3 ch.20 0.34 · Bang-E-Dara Part 3 ch.11 0.20 · Juliana ch.1 0.19
+
 
 ## Original-language signature (urdu, top-3)
 "dil baat nikalti" · "baat nikalti hai" · "nikalti hai asar"

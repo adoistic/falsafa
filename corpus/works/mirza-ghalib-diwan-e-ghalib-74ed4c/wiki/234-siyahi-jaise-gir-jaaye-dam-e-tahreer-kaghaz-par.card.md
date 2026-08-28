@@ -21,7 +21,7 @@ My destiny is pictured in the long and lonely night.
 How, Ghalib, can I hide this scar, so painfully in sight?
 
 ## Nearest in corpus
-Bang-E-Dara Part 2 ch.5 0.14 · Bang-E-Dara Part 1 ch.40 0.11 · Diwan-E-Ghalib ch.3 0.10
+
 
 ## Original-language signature (urdu, top-3)
 "siyahi jaise gir" · "jaise gir jaaye" · "gir jaaye dam-e-tahreer"

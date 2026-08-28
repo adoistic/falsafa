@@ -39,7 +39,7 @@ prose · 122¶ · 16208w · vocab 2470 (TTR 33%, hapax 55%)
 "&nbsp" — 2× (first at p-ea71ab)
 
 ## Nearest in corpus
-Nouveau traité d'économie: VOL II ch.18 0.50 · Nouveau traité d'économie: VOL II ch.14 0.47 · Nouveau traité d'économie: VOL II ch.16 0.41
+
 
 ## Original-language signature (french, top-3)
 "nous avons besoin" · "jusqu certain point" · "deux trois cents"

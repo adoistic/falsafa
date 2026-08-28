@@ -21,7 +21,7 @@ How can I see her? My sight slips away.
 Near this soul of fire, tell me, who could ever stay?
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.213 0.19 · Diwan-E-Ghalib ch.37 0.15 · Diwan-E-Ghalib ch.167 0.15
+
 
 ## Original-language signature (urdu, top-3)
 "dekhna qismat aap" · "qismat aap apne" · "aap apne rashk"

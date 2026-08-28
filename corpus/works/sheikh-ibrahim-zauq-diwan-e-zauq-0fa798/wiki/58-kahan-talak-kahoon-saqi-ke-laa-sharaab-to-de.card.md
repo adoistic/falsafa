@@ -21,7 +21,7 @@ If not the wine, then soak a kebab in it, and grant it here.
 To leave my mark, a footprint, grant my feet this final clay.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.198 0.34 · Diwan-E-Zauq ch.46 0.13 · Diwan-E-Ghalib ch.76 0.13
+
 
 ## Original-language signature (urdu, top-3)
 "kahan talak kahoon" · "talak kahoon saqi" · "kahoon saqi laa"

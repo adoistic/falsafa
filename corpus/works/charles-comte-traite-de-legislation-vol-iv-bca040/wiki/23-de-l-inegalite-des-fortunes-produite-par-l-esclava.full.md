@@ -193,7 +193,7 @@ The reason for the preference is quite simple: the French farmer does not know w
 "since statesmen europe adopted maxim improvement come power alone granted exclusively granted only peoples made attempt impose conditions trace limits authority one seems ought intervene touches upon government one without facing useless perils serious without calling upon his head moral responsibility seems too heavy burden" — 2× (first at p-b563c5)
 
 ## Nearest in corpus
-Nouveau traité d'économie: VOL I ch.5 0.18 · Nouveau traité d'économie: VOL I ch.3 0.17 · Nouveau traité d'économie: VOL I ch.7 0.17
+
 
 ## Original-language signature (french, top-3)
 "voyage autour monde" · "cook troisième voyage" · "voyage régions équinoxiales"

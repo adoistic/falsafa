@@ -21,7 +21,7 @@ prose · 48¶ · 5507w · vocab 1011 (TTR 41%, hapax 56%)
 [^240]: Here are the very terms in which the English author expresses himself: “Nothing is more erroneous than the common practice of referring the origin of moral rights and the system of natural equity, to that savage state, which is supposed to have preceded civilized establishmens: in which litterary composition, and of consequence the right to it, would have no existence. But the true mode of ascertaining a moral right seems to be to inquire whether it is such as the reason, the cultivated reason of mankind, must necessarily assent to. No proposition seems more conformable to that criterion, than that every one should enjoy the reward of his labour, the harvest where he has sown, or the fruit of the tree he has planted. And if any private right ought to be preserved more sacred and inviolate than another, it is that where the most extensive benefit flows to mankind from the labour by which it is acquired. Litterary property, it must be admitted, is very different in its nature from a property in substantial and corporeal objects; and this difference has led some to deny its existence as property; but whether it is *sui generis*, or under whatever denomination of rights it may more properly be classed, it seems founded upon the same principle of general utility to society, which is the basis of all other moral rights and obligations.” T. E. Tomlins, *Law-Dictionary*, v°. *Litterary Property*.
 
 ## Nearest in corpus
-Traité de la propriété: VOL II ch.32 0.60 · Traité de la propriété: VOL II ch.35 0.55 · Traité de la propriété: VOL II ch.36 0.55
+
 
 ## Original-language signature (french, top-3)
 "vingt mille francs" · "existence propriété littéraire" · "partie vingt mille"

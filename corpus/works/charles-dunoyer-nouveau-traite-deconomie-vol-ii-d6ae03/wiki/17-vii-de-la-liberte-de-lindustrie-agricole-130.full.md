@@ -63,7 +63,7 @@ prose · 110¶ · 21211w · vocab 2970 (TTR 30%, hapax 52%)
 [^506]: *Id.*, pp. 94 and 96.
 
 ## Nearest in corpus
-Nouveau traité d'économie: VOL II ch.16 0.54 · Nouveau traité d'économie: VOL II ch.14 0.49 · Nouveau traité d'économie: VOL II ch.15 0.41
+
 
 ## Original-language signature (french, top-3)
 "est-il pas évident" · "annales agricoles roville" · "principes fixes théorie"

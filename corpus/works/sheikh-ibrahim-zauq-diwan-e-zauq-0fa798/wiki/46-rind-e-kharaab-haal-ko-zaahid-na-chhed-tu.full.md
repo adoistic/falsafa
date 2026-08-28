@@ -21,7 +21,7 @@ Just settle your accounts with God, and leave me to my pain.
 This tangled, heavy burden is a weight you can't sustain.
 
 ## Nearest in corpus
-Diwan-E-Zauq ch.39 0.15 · Bang-E-Dara Part 1 ch.5 0.14 · Diwan-E-Zauq ch.58 0.13
+
 
 ## Original-language signature (urdu, top-3)
 "rind-e-kharaab-haal zaahid chhed" · "transliterator thothica ---" · "thothica --- work_id"

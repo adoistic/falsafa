@@ -21,7 +21,7 @@ This longing for your feet, if it would quell, 'twould be well.
 Like a candle, burn head-first into love's hell, 'twould be well.
 
 ## Nearest in corpus
-Bang-E-Dara Part 1 ch.32 0.07 · Diwan-E-Zauq ch.50 0.07 · Diwan-E-Ghalib ch.112 0.06
+
 
 ## Original-language signature (urdu, top-3)
 "aankhein meri talwon" · "meri talwon woh" · "talwon woh mal"

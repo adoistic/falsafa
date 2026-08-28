@@ -19,7 +19,7 @@ verse · 30¶ · 571w · vocab 232 (TTR 78%, hapax 81%)
 Lest that old tale of gallows and of rope be sung.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.173 0.24 · Bang-E-Dara Part 3 ch.20 0.20 · Bang-E-Dara Part 1 ch.41 0.19
+
 
 ## Original-language signature (urdu, top-3)
 "hai yeh aagahi" · "jaanta hoon main" · "transliterator thothica ---"

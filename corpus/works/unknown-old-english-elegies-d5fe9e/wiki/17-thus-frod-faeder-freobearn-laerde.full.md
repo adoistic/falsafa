@@ -59,7 +59,7 @@ bear an open heart. So you, my child, remember
 your wise father's lore, and guard yourself always against sin."
 
 ## Nearest in corpus
-Juliana ch.1 0.26 · Andreas ch.1 0.25 · Elene ch.1 0.24
+
 
 ## Original-language signature (old-english, top-3)
 "precepts ======== verse" · "======== verse indeterminate" · "verse indeterminate saxon"

@@ -18,7 +18,7 @@ prose · 23¶ · 2877w · vocab 865 (TTR 63%, hapax 73%)
 > [p-6d3b7e] The numerous tribes that are spread over the vast continent of America have so much resemblance among themselves that at first glance they almost all appear to belong to the same family. This resemblance exists not only in the color and in most of the traits of their physical character; it is also remarked in their morals: one finds everywhere more or less the same qualities and the same vices. The principal moral differences that exist among them are found, not in the nature of their passions, but in the greater or lesser force with which these passions manifest themselves. These are, moreover, the same differences that one observes between the most barbarous horde and the most civilized nation; on both sides one finds pride, falsehood, harshness, vengeance, laziness, improvidence, the passion for gambling; on both sides one finds friendship, courage, love for one's children, patriotism; but on both sides all these passions do not have the same energy: in the state of barbarism it is the malevolent or antisocial passions that affect the greater part of the population and are the most energetic. In the state of civilization, on the contrary, these passions are the weakest and affect only the small number, while it is the social affections that dominate [493].
 
 ## Nearest in corpus
-Traité de Législation: VOL II ch.14 0.35 · Traité de Législation: VOL II ch.15 0.29 · Traité de Législation: VOL II ch.18 0.29
+
 
 ## Original-language signature (french, top-3)
 "habitent climats rigoureux" · "grande partie population" · "part autre trouve"

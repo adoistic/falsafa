@@ -64,7 +64,7 @@ let every hatred sink      with the fires of sin,
 and fare to that      better kingdom.
 
 ## Nearest in corpus
-Andreas ch.1 0.35 · Elene ch.1 0.29 · Juliana ch.1 0.25
+
 
 ## Original-language signature (old-english, top-3)
 "the order the" · "order the world" · "the world ======================"

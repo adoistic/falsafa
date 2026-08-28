@@ -21,7 +21,7 @@ The secret that the silence planned will now be brought into the light.
 He sits somewhere upon the road, a victim waiting for the light.
 
 ## Nearest in corpus
-Bang-E-Dara Part 3 ch.20 0.15 · Diwan-E-Zauq ch.17 0.14 · Diwan-E-Ghalib ch.234 0.14
+
 
 ## Original-language signature (urdu, top-3)
 "zamana aaya hai" · "aaya hai be-hijabi" · "hai be-hijabi aam"

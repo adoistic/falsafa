@@ -1,0 +1,40 @@
+---
+textrank_confidence: low
+---
+
+# Poems · ch.4
+verse · 2¶ · 119w · vocab 64 (TTR 90%, hapax 91%)
+
+## Distinctive trigrams
+"lady drinking bath-waters" · "drinking bath-waters gushing" · "bath-waters gushing streams"
+
+## Key passage (TextRank #1)
+> [p-e3b6ac] On a Lady drinking the Bath-Waters.
+
+## Opens
+> [p-e3b6ac] On a Lady drinking the Bath-Waters.
+
+## Closes
+> [p-fbe58d] THE gushing streams impetuous flow,
+In haste to DELIA'S lips to go,
+With equal haste and equal heat,
+Who would not rush those lips to meet?
+Bless'd envy'd streams, still greater bliss
+Attends your warm and liquid kiss.
+For from her lips your welcome tide
+Shall down her heaving bosom glide;
+There fill each swelling globe of love,
+And touch that heart I ne'er could move.
+From hence in soft meanders stray,
+And find at last the blissful way
+Which thought may paint, tho' verse mayn't say.
+Too happy rival dwell not there
+To rack my heart with jealous care,
+But quit the blest abode, tho' loth,
+And quickly passing, ease us both.
+
+## Nearest in corpus
+Poems ch.5 0.02 · Poems ch.7 0.02 · Poems ch.3 0.02
+
+## Original-language signature (english, top-3)
+"lady drinking bath-waters" · "drinking bath-waters gushing" · "bath-waters gushing streams"

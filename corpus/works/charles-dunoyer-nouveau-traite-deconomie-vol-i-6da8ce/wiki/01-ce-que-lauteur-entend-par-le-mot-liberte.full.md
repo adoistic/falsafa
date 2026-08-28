@@ -27,7 +27,7 @@ prose · 40¶ · 6237w · vocab 1130 (TTR 41%, hapax 60%)
 [^19]: I say *ordinarily*, because this rule is not without exception. In the United States, for example, the development of political capacity preceded that of the other capacities. We know to what circumstances this was due.
 
 ## Nearest in corpus
-Nouveau traité d'économie: VOL I ch.0 0.51 · Nouveau traité d'économie: VOL II ch.14 0.41 · Traité de la propriété: VOL I ch.3 0.40
+
 
 ## Original-language signature (french, top-3)
 "nous avons besoin" · "libres nous avons" · "user nos facultés"

@@ -21,7 +21,7 @@ Bring wine, O Sāqi, my resolve went up in flame.
 Each tender rose-leaf, like a sharpened dagger, came.
 
 ## Nearest in corpus
-Bang-E-Dara Part 2 ch.3 0.12 · Diwan-E-Zauq ch.59 0.12 · Bang-E-Dara Part 3 ch.20 0.11
+
 
 ## Original-language signature (urdu, top-3)
 "mehfil mein shor-e-qulqul-e-meena-e-mul" · "mein shor-e-qulqul-e-meena-e-mul hua" · "transliterator thothica ---"

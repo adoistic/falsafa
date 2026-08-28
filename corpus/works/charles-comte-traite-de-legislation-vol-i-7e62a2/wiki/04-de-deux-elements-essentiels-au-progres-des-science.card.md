@@ -18,7 +18,7 @@ prose · 21¶ · 3767w · vocab 712 (TTR 43%, hapax 59%)
 > [p-d6ed4a] All this appears simple to the point of evidence; and yet, among the men who wish to give nations no other guide than conscience, there are some who consider the enlightenment fit to illuminate it as the most baneful gift it is possible to give them: to hear them, one would think that it is the spirit of darkness that has given birth to light. But let one look closely; let one follow the conduct of most of these men, and one will see that their continual efforts tend only to form consciences according to their own understanding. They want everyone to obey the voice of his own conscience; but it is on the condition that it is they who will teach it to speak, and who, alone, will form its language.
 
 ## Nearest in corpus
-Traité de Législation: VOL I ch.2 0.45 · Traité de Législation: VOL I ch.3 0.39 · Traité de Législation: VOL I ch.1 0.38
+
 
 ## Original-language signature (french, top-3)
 "sens moral conscience" · "rapidité laquelle nous" · "propre nous égarer"

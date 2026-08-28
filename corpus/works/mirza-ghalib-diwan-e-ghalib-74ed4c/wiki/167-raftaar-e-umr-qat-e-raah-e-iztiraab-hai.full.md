@@ -21,7 +21,7 @@ This year's whole sum, a sun-flash of a day, is.
 For every leaf, a chosen page's display, is.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.79 0.22 · Diwan-E-Ghalib ch.213 0.18 · Diwan-E-Ghalib ch.27 0.16
+
 
 ## Original-language signature (urdu, top-3)
 "raftaar-e-umr qat-e-raah-e-iztiraab hai" · "transliterator thothica ---" · "thothica --- work_id"

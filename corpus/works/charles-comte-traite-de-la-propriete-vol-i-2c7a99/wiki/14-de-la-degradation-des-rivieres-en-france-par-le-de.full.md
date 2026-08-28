@@ -25,7 +25,7 @@ prose · 40¶ · 3676w · vocab 897 (TTR 51%, hapax 66%)
 [^85]: *See* the decrees of the National Convention of 11 Nivôse, year II (December 31, 1793), and the following 21 Prairial (June 9, 1794).
 
 ## Nearest in corpus
-Traité de la propriété: VOL I ch.13 0.46 · Traité de la propriété: VOL I ch.15 0.41 · Traité de la propriété: VOL I ch.12 0.38
+
 
 ## Original-language signature (french, top-3)
 "*statistique générale france*" · "générale france* département" · "loi juin 1793"

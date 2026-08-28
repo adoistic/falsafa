@@ -18,7 +18,7 @@ prose · 44¶ · 6256w · vocab 1358 (TTR 47%, hapax 62%)
 > [p-b329a6] > “The military life,” says Macartney, “is better suited for a Tatar than for a Chinese. The harsh education, coarse morals, active spirit, vagabond inclinations, lax principles, and irregular conduct of the Tatar are more suited to war than the calm, regulated habits, and the domestic, moral, and philosophical tastes of the Chinese. Tatary seems made to produce warriors, and China literati [55].”
 
 ## Nearest in corpus
-Traité de Législation: VOL II ch.11 0.43 · Traité de Législation: VOL III ch.49 0.40 · Traité de Législation: VOL II ch.18 0.38
+
 
 ## Original-language signature (french, top-3)
 "peuples espèce mongole" · "espèce mongole peuples" · "mongole peuples espèce"

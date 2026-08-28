@@ -50,7 +50,7 @@ prose · 57¶ · 9736w · vocab 1950 (TTR 43%, hapax 60%)
 [^290]: In 1791 the expenditure budget scarcely exceeded 500 million; the number of posts and employees was infinitely less considerable; we still had some municipal liberties that we have lost; a number of private industries and professions were less dependent on public authority than they are today.
 
 ## Nearest in corpus
-Nouveau traité d'économie: VOL I ch.9 0.43 · Nouveau traité d'économie: VOL I ch.11 0.43 · Nouveau traité d'économie: VOL II ch.14 0.41
+
 
 ## Original-language signature (french, top-3)
 "pourtant pas dire" · "nouvel ordre social" · "seule aurait suffi"

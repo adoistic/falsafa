@@ -25,7 +25,7 @@ Like the clock's sinking bowl, submerged in pain,
 would be.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.16 0.19 · Diwan-E-Zauq ch.46 0.15 · Diwan-E-Ghalib ch.101 0.14
+
 
 ## Original-language signature (urdu, top-3)
 "karta zabt main" · "zabt main naala" · "main naala phir"

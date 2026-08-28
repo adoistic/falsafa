@@ -18,7 +18,7 @@ prose · 21¶ · 2899w · vocab 673 (TTR 48%, hapax 65%)
 > [p-ab9620] Such is already the critical position in which the Anglo-Americans of the south find themselves, and in which all the masters of the colonies will sooner or later find themselves. How will they get out of it? That is a question that experience has not yet resolved in a satisfactory manner; but it is time to think about it.
 
 ## Nearest in corpus
-Traité de Législation: VOL IV ch.10 0.54 · Traité de Législation: VOL IV ch.13 0.47 · Traité de Législation: VOL IV ch.11 0.44
+
 
 ## Original-language signature (french, top-3)
 "nombre personnes libres" · "personnes libres accru" · "personnes libres origine"

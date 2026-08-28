@@ -38,7 +38,7 @@ prose · 52¶ · 6554w · vocab 1102 (TTR 36%, hapax 55%)
 [^236]: James Kent, *Commentaries on the American law*, vol. II, part. 5, lect. 36, p. 299-305.
 
 ## Nearest in corpus
-Traité de la propriété: VOL II ch.29 0.63 · Traité de la propriété: VOL II ch.36 0.23 · Traité de la propriété: VOL II ch.35 0.21
+
 
 ## Original-language signature (french, top-3)
 "godson *practical treatise*" · "james godson *practical" · "décret assemblée constituante"

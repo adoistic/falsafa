@@ -34,7 +34,7 @@ prose · 43¶ · 7274w · vocab 1528 (TTR 45%, hapax 61%)
 [^273]: What constituted the foolishness of these complaints was that they were directly contrary to the interest of the very people who made them. In effect, the introduction of any new industry creates new labor, provokes a surplus of wealth and population, gives rise to consumers with means of exchange, and thus opens new outlets for the products of existing industries. The worst service that could have been rendered to the petitioners, in the cases cited by M. Say, would have been to listen to their demands; this is what experience soon showed.
 
 ## Nearest in corpus
-Nouveau traité d'économie: VOL I ch.11 0.45 · Nouveau traité d'économie: VOL I ch.10 0.43 · Nouveau traité d'économie: VOL I ch.7 0.36
+
 
 ## Original-language signature (french, top-3)
 "enfin tandis régime" · "nouveau mode existence" · "monopole service public"

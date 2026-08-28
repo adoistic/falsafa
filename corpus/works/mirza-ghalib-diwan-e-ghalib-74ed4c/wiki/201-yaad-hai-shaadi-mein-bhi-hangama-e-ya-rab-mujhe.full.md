@@ -21,7 +21,7 @@ The holy man's devotion seems a secret smirk to me.
 Though Mirza, your own sober self, forbade this love to me.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.30 0.09 · Diwan-E-Zauq ch.56 0.08 · Diwan-E-Ghalib ch.115 0.08
+
 
 ## Original-language signature (urdu, top-3)
 "yaad hai shaadi" · "hai shaadi mein" · "shaadi mein bhi"

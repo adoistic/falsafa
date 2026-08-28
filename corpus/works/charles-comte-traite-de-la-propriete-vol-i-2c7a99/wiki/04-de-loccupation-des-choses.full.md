@@ -25,7 +25,7 @@ prose · 33¶ · 4189w · vocab 870 (TTR 46%, hapax 64%)
 [^13]: Blackstone, *Comment.*, book 11, ch. 16, and 26. Thom. Edl. Tomlins, v° *Occupant*. James Kent, part. v, lect. xxxiv and xxxv, vol. 11, p. 256.
 
 ## Nearest in corpus
-Traité de la propriété: VOL I ch.7 0.38 · Traité de la propriété: VOL II ch.47 0.33 · Traité de la propriété: VOL I ch.5 0.31
+
 
 ## Original-language signature (french, top-3)
 "chose point maîtres" · "moyens acquérir propriété" · "jouissance disposition exclusives"

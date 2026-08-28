@@ -21,7 +21,7 @@ The dove's own collar is the ring outside the door today.
 Your bird of thought's a nightingale that cannot take the air today.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.214 0.16 · Diwan-E-Ghalib ch.149 0.11 · Diwan-E-Ghalib ch.16 0.10
+
 
 ## Original-language signature (urdu, top-3)
 "gulshan mein bandobast" · "mein bandobast ba-rang-e-digar" · "bandobast ba-rang-e-digar hai"

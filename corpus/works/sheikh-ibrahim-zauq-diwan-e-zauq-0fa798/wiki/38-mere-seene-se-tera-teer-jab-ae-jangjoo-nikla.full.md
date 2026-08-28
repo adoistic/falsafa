@@ -21,7 +21,7 @@ From the wound’s mouth, the word of my desire was born.
 The one we called our closest friend turned out an enemy.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.62 0.11 · Diwan-E-Ghalib ch.94 0.10 · Diwan-E-Ghalib ch.107 0.10
+
 
 ## Original-language signature (urdu, top-3)
 "mere seene tera" · "seene tera teer" · "tera teer jab"

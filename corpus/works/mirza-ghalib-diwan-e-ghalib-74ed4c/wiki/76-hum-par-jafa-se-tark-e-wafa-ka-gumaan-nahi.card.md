@@ -21,7 +21,7 @@ it’s just a game, a true ordeal this is not.
 O weary heart, the strength to hold your cry is not.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.131 0.16 · Diwan-E-Ghalib ch.217 0.14 · Diwan-E-Ghalib ch.16 0.14
+
 
 ## Original-language signature (urdu, top-3)
 "hum par jafa" · "par jafa tark-e-wafa" · "jafa tark-e-wafa gumaan"

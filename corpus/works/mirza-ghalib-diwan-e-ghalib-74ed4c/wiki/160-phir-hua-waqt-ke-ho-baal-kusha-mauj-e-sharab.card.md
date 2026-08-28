@@ -21,7 +21,7 @@ To give the flask a swimmer's heart and hands, the wave of wine.
 Once more the season comes to spread its wings, the wave of wine.
 
 ## Nearest in corpus
-Bang-E-Dara Part 1 ch.31 0.16 · Diwan-E-Ghalib ch.98 0.15 · Diwan-E-Ghalib ch.167 0.14
+
 
 ## Original-language signature (urdu, top-3)
 "phir hua waqt" · "hua waqt baal-kusha" · "waqt baal-kusha mauj-e-sharab"

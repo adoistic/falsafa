@@ -30,7 +30,7 @@ To live here is a paradise of pure delight,
 This is my homeland, this land of mine.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.102 0.21 · Bang-E-Dara Part 3 ch.4 0.11 · Bang-E-Dara Part 1 ch.34 0.10
+
 
 ## Original-language signature (urdu, top-3)
 "mera watan wohi" · "watan wohi hai" · "wohi hai mera"

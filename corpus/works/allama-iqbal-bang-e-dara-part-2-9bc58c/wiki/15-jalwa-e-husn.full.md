@@ -19,7 +19,7 @@ verse · 6¶ · 81w · vocab 38 (TTR 88%, hapax 92%)
 O Lord, is this world's ring with that gem crowned?
 
 ## Nearest in corpus
-Diwan-E-Zauq ch.13 0.17 · Bang-E-Dara Part 2 ch.12 0.12 · Diwan-E-Zauq ch.3 0.09
+
 
 ## Original-language signature (urdu, top-3)
 "transliterator thothica ---" · "thothica --- work_id" · "--- work_id 9bc58cbd-ab40-4264-bd01-6e5bddf3e11f"

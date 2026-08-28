@@ -18,7 +18,7 @@ prose · 12¶ · 2211w · vocab 479 (TTR 49%, hapax 61%)
 > [p-1532fc] #### END OF THE THIRD VOLUME.
 
 ## Nearest in corpus
-Traité de Législation: VOL III ch.47 0.64 · Traité de Législation: VOL III ch.48 0.50 · Traité de Législation: VOL II ch.2 0.44
+
 
 ## Original-language signature (french, top-3)
 "développement intellectuel chaque" · "intellectuel chaque individu" · "peuples espèce caucasienne"

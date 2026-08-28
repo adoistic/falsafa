@@ -21,7 +21,7 @@ My soul against the ship of final fate contends.
 And so her glance with pure and practiced guile contends.
 
 ## Nearest in corpus
-Old English Elegies ch.7 0.08 · Diwan-E-Zauq ch.20 0.06 · Diwan-E-Ghalib ch.213 0.05
+
 
 ## Original-language signature (urdu, top-3)
 "aankh pur-jafa ladti" · "pur-jafa ladti hai" · "kisi paarsa ladti"

@@ -20,7 +20,7 @@ A graveyard for the tumults of the past.
 A dawn of beauty still becomes their fate.
 
 ## Nearest in corpus
-Bang-E-Dara Part 3 ch.20 0.23 · Bang-E-Dara Part 1 ch.32 0.22 · Bang-E-Dara Part 3 ch.7 0.21
+
 
 ## Original-language signature (urdu, top-3)
 "tak bhi nahin" · "sakta hai yeh" · "transliterator thothica ---"

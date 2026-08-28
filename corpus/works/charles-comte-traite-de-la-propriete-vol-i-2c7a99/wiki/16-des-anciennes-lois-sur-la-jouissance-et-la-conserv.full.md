@@ -43,7 +43,7 @@ prose · 53¶ · 5758w · vocab 1237 (TTR 45%, hapax 62%)
 [^123]: Art. 40 of the same title. Decrees of the Parlement of Dijon of August 1, 1720, and of August 20, 1746.
 
 ## Nearest in corpus
-Traité de la propriété: VOL I ch.17 0.57 · Traité de la propriété: VOL I ch.18 0.53 · Traité de la propriété: VOL I ch.19 0.40
+
 
 ## Original-language signature (french, top-3)
 "rivières non navigables" · "*dig lib xliii" · "lib xliii *tit"

@@ -21,7 +21,7 @@ From worldly things, a heart entirely freed, we hold.
 For of its harshness, greater expectations still, we hold.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.76 0.09 · Old English Elegies ch.17 0.09 · Diwan-E-Zauq ch.3 0.08
+
 
 ## Original-language signature (urdu, top-3)
 "zamana sakht kam-azaar" · "sakht kam-azaar hai" · "kam-azaar hai ba-jaan-e-asad"

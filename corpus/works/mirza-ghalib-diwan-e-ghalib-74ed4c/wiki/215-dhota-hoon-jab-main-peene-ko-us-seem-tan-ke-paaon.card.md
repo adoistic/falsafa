@@ -21,7 +21,7 @@ she, in playful spite, withdraws them from the basin's glow.
 I drink the water that has washed the feet of Khusrau, master of sweet rhyme.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.102 0.13 · Bang-E-Dara Part 1 ch.39 0.11 · Diwan-E-Zauq ch.7 0.08
+
 
 ## Original-language signature (urdu, top-3)
 "dhota hoon jab" · "hoon jab main" · "jab main peene"

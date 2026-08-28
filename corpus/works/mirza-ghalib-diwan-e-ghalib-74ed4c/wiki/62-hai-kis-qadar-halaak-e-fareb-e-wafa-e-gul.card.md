@@ -21,7 +21,7 @@ The bulbul's labor meets the laughing face of the rose.
 Alas, if one's own gaze is not acquainted with the rose.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.118 0.18 · Diwan-E-Ghalib ch.106 0.15 · Diwan-E-Ghalib ch.169 0.15
+
 
 ## Original-language signature (urdu, top-3)
 "hai kis qadar" · "kis qadar halaak-e-fareb-e-wafa-e-gul" · "transliterator thothica ---"

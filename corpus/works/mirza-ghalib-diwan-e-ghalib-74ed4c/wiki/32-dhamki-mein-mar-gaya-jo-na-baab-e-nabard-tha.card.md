@@ -21,7 +21,7 @@ For Love, a warrior's art, demands a spirit scarred.
 God grant him grace—what a strange, free man he was in life.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.202 0.13 · Diwan-E-Zauq ch.34 0.13 · Diwan-E-Ghalib ch.138 0.11
+
 
 ## Original-language signature (urdu, top-3)
 "dhamki mein mar" · "mein mar gaya" · "mar gaya baab-e-nabard"

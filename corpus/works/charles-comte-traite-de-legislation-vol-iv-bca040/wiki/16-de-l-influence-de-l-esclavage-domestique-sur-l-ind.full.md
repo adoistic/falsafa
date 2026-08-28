@@ -18,7 +18,7 @@ prose · 29¶ · 4823w · vocab 1079 (TTR 48%, hapax 64%)
 > [p-bab305] Two important truths result from the facts set forth in this chapter: the first is that all men who reduce others to servitude, or who become slave-owners, place themselves, by that very fact, between two enemies; they expose themselves to being massacred by the men they possess, or to being enslaved by foreigners; the second is that, whenever a true coalition is formed between the internal and external enemies, the masters have no means of resistance.
 
 ## Nearest in corpus
-Traité de Législation: VOL IV ch.17 0.57 · Traité de Législation: VOL IV ch.9 0.50 · Traité de Législation: VOL IV ch.15 0.49
+
 
 ## Original-language signature (french, top-3)
 "population asservie rallier" · "changement maîtres suite" · "partie nombreuse population"

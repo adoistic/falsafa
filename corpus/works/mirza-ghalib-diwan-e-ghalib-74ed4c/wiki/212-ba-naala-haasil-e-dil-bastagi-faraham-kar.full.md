@@ -21,7 +21,7 @@ The treasure of the house of chains is but a cry, becomes clear.
 For promises of faith are just a well-known lie, becomes clear.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.134 0.11 · Diwan-E-Zauq ch.20 0.10 · Bang-E-Dara Part 3 ch.3 0.10
+
 
 ## Original-language signature (urdu, top-3)
 "ba-naala haasil-e-dil-bastagi faraham" · "haasil-e-dil-bastagi faraham kar" · "transliterator thothica ---"

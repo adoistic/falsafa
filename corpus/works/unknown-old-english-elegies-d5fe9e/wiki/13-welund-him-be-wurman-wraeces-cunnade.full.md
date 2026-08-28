@@ -37,7 +37,7 @@ which the protector of earls had granted me before.
 That passed over; so may this.
 
 ## Nearest in corpus
-Elene ch.1 0.14 · Old English Elegies ch.3 0.13 · Andreas ch.1 0.12
+
 
 ## Original-language signature (old-english, top-3)
 "ofereode þisses mæg" · "deor ==== verse" · "==== verse indeterminate"

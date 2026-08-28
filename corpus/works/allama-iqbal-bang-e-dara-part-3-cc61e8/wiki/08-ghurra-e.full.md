@@ -19,7 +19,7 @@ verse · 19¶ · 373w · vocab 166 (TTR 83%, hapax 91%)
 In the tumult of today, be lost in songs of yesterday.
 
 ## Nearest in corpus
-Bang-E-Dara Part 1 ch.3 0.38 · Diwan-E-Zauq ch.17 0.29 · Bang-E-Dara Part 3 ch.4 0.12
+
 
 ## Original-language signature (urdu, top-3)
 "hote thay hum" · "bhi dekh dekh" · "transliterator thothica ---"

@@ -21,7 +21,7 @@ A single fragment o'er the water's face does sweep.
 In the school of existence, a child with mercury-footed pace.
 
 ## Nearest in corpus
-Bang-E-Dara Part 1 ch.32 0.09 · Bang-E-Dara Part 1 ch.26 0.08 · Diwan-E-Ghalib ch.17 0.08
+
 
 ## Original-language signature (urdu, top-3)
 "transliterator thothica ---" · "thothica --- work_id" · "--- work_id 55b25cac-46ff-446c-bfe7-0ae5b8541ad8"

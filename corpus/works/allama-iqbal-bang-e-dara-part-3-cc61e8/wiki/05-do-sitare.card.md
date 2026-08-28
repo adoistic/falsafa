@@ -20,7 +20,7 @@ One spoke into the other's light:
 For parting is the cosmos's decree.
 
 ## Nearest in corpus
-Bang-E-Dara Part 2 ch.17 0.14 · Bang-E-Dara Part 3 ch.28 0.10 · Bang-E-Dara Part 2 ch.9 0.10
+
 
 ## Original-language signature (urdu, top-3)
 "transliterator thothica ---" · "thothica --- work_id" · "--- work_id cc61e86c-ca8b-4714-8f37-fe742b33069d"

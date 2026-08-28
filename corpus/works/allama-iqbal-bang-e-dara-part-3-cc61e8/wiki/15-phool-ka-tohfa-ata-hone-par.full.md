@@ -63,7 +63,7 @@ No coming spring will ever coax its petals to unfold,
 The wait for the gatherer’s hand just keeps it sad and cold.
 
 ## Nearest in corpus
-Bang-E-Dara Part 2 ch.16 0.13 · Bang-E-Dara Part 3 ch.4 0.12 · Bang-E-Dara Part 3 ch.9 0.11
+
 
 ## Original-language signature (urdu, top-3)
 "phool tohfa ata" · "tohfa ata hone" · "ata hone par"

@@ -18,7 +18,7 @@ prose · 20¶ · 1993w · vocab 568 (TTR 62%, hapax 71%)
 > [p-c4e4dc] ---
 
 ## Nearest in corpus
-Traité de Législation: VOL I ch.1 0.34 · Traité de la propriété: VOL I ch.0 0.28 · Traité de Législation: VOL I ch.2 0.28
+
 
 ## Original-language signature (french, top-3)
 "non seulement eût" · "préface #### auteur" · "#### auteur hommes"

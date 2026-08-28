@@ -21,7 +21,7 @@ Yet when a rival's fortunes fall, she's not exempt.
 The proof I have? My name is not among the great.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.37 0.12 · Diwan-E-Ghalib ch.31 0.10 · Diwan-E-Ghalib ch.76 0.09
+
 
 ## Original-language signature (urdu, top-3)
 "zikr mera ba-badi" · "mera ba-badi bhi" · "ba-badi bhi usey"

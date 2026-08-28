@@ -21,7 +21,7 @@ But who, once slain, a prize from victor's hands demands?
 And not mere words, but for their soul's true grace, demands.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.64 0.28 · Diwan-E-Ghalib ch.32 0.13 · Diwan-E-Ghalib ch.16 0.12
+
 
 ## Original-language signature (urdu, top-3)
 "maar kar teer" · "kar teer woh" · "teer woh dilbar-e-jaani"

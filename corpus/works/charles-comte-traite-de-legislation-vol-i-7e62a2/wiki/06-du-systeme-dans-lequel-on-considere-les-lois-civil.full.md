@@ -18,7 +18,7 @@ prose · 63¶ · 8350w · vocab 1372 (TTR 36%, hapax 56%)
 > [p-604790] These facts are truths so clear that they are trivial; yet, they are continually belied by language; they are so even by writers who deal with the moral sciences: let one judge, from that, the state in which these sciences still find themselves.
 
 ## Nearest in corpus
-Traité de Législation: VOL I ch.7 0.49 · Traité de Législation: VOL I ch.5 0.32 · Traité de Législation: VOL III ch.46 0.31
+
 
 ## Original-language signature (french, top-3)
 "droit peut atteindre" · "direction volonté générale" · "reprend liberté naturelle"

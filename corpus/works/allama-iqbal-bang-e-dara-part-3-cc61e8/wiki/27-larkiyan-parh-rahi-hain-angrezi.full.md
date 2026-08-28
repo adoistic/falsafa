@@ -33,7 +33,7 @@ What scene will this drama show?
 The gaze awaits the curtain to rise.
 
 ## Nearest in corpus
-Kātyāyana Smṛti ch.72 0.09 · Diwan-E-Ghalib ch.162 0.05 · Diwan-E-Ghalib ch.127 0.05
+
 
 ## Original-language signature (urdu, top-3)
 "larkiyan parh rahi" · "parh rahi hain" · "rahi hain angrezi"

@@ -21,7 +21,7 @@ And clad in black, the peak of Sarban lies.
 Here let the wanderers of the vale find rest and shade.
 
 ## Nearest in corpus
-Bang-E-Dara Part 3 ch.9 0.12 · Bang-E-Dara Part 1 ch.25 0.12 · Bang-E-Dara Part 2 ch.25 0.11
+
 
 ## Original-language signature (urdu, top-3)
 "hai yeh ghata" · "transliterator thothica ---" · "thothica --- work_id"

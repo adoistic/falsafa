@@ -21,7 +21,7 @@ The garden is the tarnish on the mirror of the vernal air.
 For the wisely drunk, complaint is but the shame of a sober cry.
 
 ## Nearest in corpus
-Diwan-E-Zauq ch.59 0.10 · Diwan-E-Ghalib ch.138 0.10 · Diwan-E-Ghalib ch.62 0.09
+
 
 ## Original-language signature (urdu, top-3)
 "latafat be-kasafat jalwa" · "be-kasafat jalwa paida" · "jalwa paida kar"

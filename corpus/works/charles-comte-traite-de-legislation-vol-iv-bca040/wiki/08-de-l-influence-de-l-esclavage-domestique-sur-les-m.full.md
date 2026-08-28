@@ -18,7 +18,7 @@ prose · 29¶ · 3795w · vocab 985 (TTR 54%, hapax 66%)
 > [p-8ea1ea] This sketch of the morals of the inhabitants of the English colonies is far from complete; but they will be better known once I have explained the other effects that slavery produces on the various classes of the population [167].
 
 ## Nearest in corpus
-Traité de Législation: VOL IV ch.7 0.55 · Traité de Législation: VOL IV ch.9 0.49 · Traité de Législation: VOL IV ch.20 0.44
+
 
 ## Original-language signature (french, top-3)
 "cap bonne-espérance surinam" · "facultés intellectuelles morales" · "femme son mari"

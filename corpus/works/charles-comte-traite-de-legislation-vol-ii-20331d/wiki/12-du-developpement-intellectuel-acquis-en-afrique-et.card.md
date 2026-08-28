@@ -18,7 +18,7 @@ prose · 10¶ · 1795w · vocab 528 (TTR 63%, hapax 72%)
 > [p-89ffa4] In expounding the nature, causes, and effects of slavery, I will show in a more specific manner what causes render peoples stationary, or make them regress. I proposed to expound, in the preceding chapters, some of the physical circumstances under which peoples prosper or remain stationary: I wanted to investigate further whether the heat of the climate, considered in itself, is an obstacle to the development of the faculties of the human mind; whether it is true that it dissipates the fire of the imagination, that it destroys all curiosity, that it extinguishes all noble enterprise, and renders man incapable of that strong application which gives birth to fine works. I have found nothing suited to justify such assertions; I have seen, on the contrary, that it is always in hot or temperate climates that civilization has developed. Must one conclude from this that a certain degree of heat is alone sufficient to develop the intellectual faculties of peoples? That would be a system that could be supported by many reasons, and which would be no more absurd than the one we have just examined.
 
 ## Nearest in corpus
-Traité de Législation: VOL II ch.9 0.46 · Traité de Législation: VOL II ch.11 0.40 · Traité de Législation: VOL III ch.37 0.39
+
 
 ## Original-language signature (french, top-3)
 "peuples espèce éthiopienne" · "extrémité australe continent" · "peuples civilisés centre"

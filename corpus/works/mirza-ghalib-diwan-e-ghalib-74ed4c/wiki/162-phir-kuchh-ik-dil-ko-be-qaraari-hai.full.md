@@ -21,7 +21,7 @@ My chest goes searching for a fatal wound.
 Some truth remains behind a sacred screen.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.67 0.10 · Diwan-E-Ghalib ch.57 0.10 · Diwan-E-Ghalib ch.76 0.10
+
 
 ## Original-language signature (urdu, top-3)
 "phir kuchh dil" · "kuchh dil be-qaraari" · "dil be-qaraari hai"

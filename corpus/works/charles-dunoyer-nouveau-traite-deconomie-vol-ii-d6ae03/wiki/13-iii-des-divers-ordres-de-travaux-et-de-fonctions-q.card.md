@@ -47,7 +47,7 @@ prose · 45¶ · 9942w · vocab 1631 (TTR 35%, hapax 55%)
 [^360]: *What is the Third Estate?* p. 224, new ed. Paris, 1822.
 
 ## Nearest in corpus
-Nouveau traité d'économie: VOL II ch.14 0.47 · Nouveau traité d'économie: VOL I ch.11 0.39 · Nouveau traité d'économie: VOL I ch.12 0.36
+
 
 ## Original-language signature (french, top-3)
 "peut pas dire" · "autre espèce valeurs" · "divers ordres travaux"

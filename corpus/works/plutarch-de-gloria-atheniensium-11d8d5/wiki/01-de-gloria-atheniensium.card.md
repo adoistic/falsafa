@@ -1,0 +1,24 @@
+---
+textrank_confidence: low
+---
+
+# De gloria Atheniensium · ch.1
+prose · 19¶ · 3821w · vocab 1154 (TTR 62%, hapax 74%)
+
+## Distinctive trigrams
+"ventured lives marathon" · "things rightly spoke" · "rightly spoke commanders"
+
+## Key passage (TextRank #1)
+> [p-7e0da9] Euphranor also painted with great spirit the battle of Mantinea, fought by the cavalry between the Athenians and Epaminondas. The story was thus. The Theban Epaminondas, puffed up with his victory at Leuctra, and designing to insult and trample over fallen Sparta and the glory of that city, with an army of seventy thousand men invaded and laid waste the Lacedaemonian territory, stirred up the subject people to revolt, and not far from Mantinea provoked the Spartans to battle; but they neither being willing nor indeed daring to encounter him, being in expectation of a reinforcement from Athens, Epaminondas dislodged in the night-time, and with all the secrecy imaginable fell into the Lacedaemonian territory; and missed but little of taking Sparta itself, being destitute of men to defend it. But the allies of the Lacedaemonians made haste to its relief; whereupon Epaminondas made a show as if he would again return to spoiling and laying waste the country; and by this means deceiving and amusing his enemies, he retreats out of Laconia by night, and with swift marches coming upon the Mantineans unexpectedly, at what time they were deliberating to send relief to Sparta, presently commanded the Thebans to prepare to storm the town. Immediately the Thebans, who had a great conceit of their warlike courage, took their several posts, and began to surround the city. This put the Mantineans into a dismal consternation, and filled the whole city with dreadful outcries and hurly-burly, as being neither able to withstand such a torrent of armed men ready to rush in upon them, nor having any hopes of succor.
+
+## Opens
+> [p-75c11a] These things he rightly spoke to the commanders that accompanied him, to whom he opened the way for future performances, while he expelled the barbarians and restored Greece to her ancient liberty. And the same thing may be said to those that magnify themselves for their writings. For if there were none to act, there would be none to write. Take away the political government of Pericles, and the naval trophies of Phormio at Rhium, and the brave achievements of Nicias at Cythera, Megara, and Corinth, Demosthenes’s Pylos, and the four hundred captives taken by Cleon, Tolmides sailing round the Peloponnesus, and Myronidas vanquishing the Boeotians at Oenophyta: and you murder Thucydides. Take away the daring braveries of Alcibiades in the Hellespont, and of Thrasyllus near Lesbos; the dissolution of the oligarchy by Theramenes; Thrasybulus, Archippus, and the seventy that from Phylae ventured to attack the Lacedaemonian tyranny; and Conon again enforcing Athens to take the sea: and then there is an end of Cratippus. For as for Xenophon, he was his own historian, relating the exploits of the army under his command, but saying that Themistogenes the Syracusan had written the history of them; dedicating the honor of his writing to another, that writing of himself as of another, he might gain the more credit. But all the other historians, as the Clinodemi, Diyli, Philochorus, Philarchus, were but the actors of other men’s deeds, as of so many plays, while they compiled the acts of kings and great generals, and thrusting themselves into the memory of their fame, partake of a kind of lustre and light from them. For there is a certain shadow of glory which reflects from those that act to those that write, while the actions of another appear in the discourse as in a mirror.
+
+## Closes
+> [p-1dd61f] Consider now the poor spirit of this great orator, who spent the ninth part of his life in compiling one single oration. But to say no more of him, is it rational to compare the harangues of Demosthenes the orator with the martial exploits of Demosthenes the great leader? For example, the oration against Conon for an assault, with the trophies which the other erected before Pylos? Or the declamation against Amathusius concerning slaves, with the noble service which the other performed in bringing home the Spartan captives? Neither can it be said, that Demosthenes for his oration in regard to foreigners deserved as much honor as Alcibiades, who joined the Mantineans and Eleans as confederates with the Athenians against the Lacedaemonians. And yet we must acknowledge that the public orations of Demosthenes deserve this praise, that in his Philippics he bravely encourages the Athenians to take arms, and he extols the enterprise of Leptines.
+
+## Nearest in corpus
+
+
+## Original-language signature (english, top-3)
+"τῶν ἄλλων συμμάχων" · "εὐφημεῖν χρὴ κἀξίστασθαι" · "τοὺς μαραθῶνι προκινδυνεύσαντας"

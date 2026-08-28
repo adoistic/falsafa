@@ -22,7 +22,7 @@ That if I were a lock of her own dark and flowing hair,
 She’d gladly tangle me within her comb, and hold me there.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.138 0.18 · Diwan-E-Zauq ch.56 0.10 · Diwan-E-Zauq ch.15 0.10
+
 
 ## Original-language signature (urdu, top-3)
 "laaghar itna hoon" · "itna hoon gar" · "hoon gar bazm"

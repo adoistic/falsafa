@@ -21,7 +21,7 @@ The rose’s fire becomes a life-sustaining rain for the candle.
 Why shouldn't my own heart then bear the scar its mistrust maintains, the candle?
 
 ## Nearest in corpus
-Bang-E-Dara Part 1 ch.40 0.24 · Bang-E-Dara Part 1 ch.41 0.21 · Bang-E-Dara Part 3 ch.19 0.16
+
 
 ## Original-language signature (urdu, top-3)
 "rukh-e-nigaar hai soz-e-jaavedaani-e-shama" · "transliterator thothica ---" · "thothica --- work_id"

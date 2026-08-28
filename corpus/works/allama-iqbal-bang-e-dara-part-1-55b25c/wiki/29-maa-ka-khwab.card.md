@@ -21,7 +21,7 @@ and from it, my deep turmoil grew.
 It is your tears that have extinguished it."
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.171 0.13 · Bang-E-Dara Part 2 ch.27 0.10 · Bang-E-Dara Part 3 ch.9 0.09
+
 
 ## Original-language signature (urdu, top-3)
 "transliterator thothica ---" · "thothica --- work_id" · "--- work_id 55b25cac-46ff-446c-bfe7-0ae5b8541ad8"

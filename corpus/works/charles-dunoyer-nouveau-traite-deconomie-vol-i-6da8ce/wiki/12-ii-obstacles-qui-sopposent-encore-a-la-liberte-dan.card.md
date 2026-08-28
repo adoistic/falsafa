@@ -38,7 +38,7 @@ prose · 54¶ · 8696w · vocab 1612 (TTR 40%, hapax 58%)
 [^329]: There is enough proof of this. I could cite a certain establishment whose owners vainly tried to make considerable sacrifices to improve the lot of their workers. In the important manufactory of which I wish to speak here, five hundred workers were employed to do a certain job at the rate of 13 sous per square foot. Each worker did about two feet per day, which brought the price of his day's work to barely 26 sous. The owners, by a spontaneous movement of generosity, decided to raise the price from 13 sous to 16: it was a sacrifice of fifty écus per day, and of forty-five thousand francs per year. The laziness and misconduct of the workers rendered this sacrifice useless: as they earned a little more money, they did a little less work, and the leisure that this supplement of wages procured for them, they employed in going to the tavern. Their work suffered for it; at the same time that they did less, it was more poorly done. The owners were forced to put things back on the old footing.
 
 ## Nearest in corpus
-Nouveau traité d'économie: VOL II ch.14 0.46 · Nouveau traité d'économie: VOL I ch.11 0.42 · Nouveau traité d'économie: VOL II ch.16 0.38
+
 
 ## Original-language signature (french, top-3)
 "derniers rangs société" · "libres parce pas" · "bonnes habitudes privées"

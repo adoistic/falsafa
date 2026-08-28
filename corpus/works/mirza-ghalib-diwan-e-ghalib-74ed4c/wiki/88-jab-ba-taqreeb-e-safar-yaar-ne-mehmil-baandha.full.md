@@ -23,7 +23,7 @@ O Asad, like soft felt, for all the world to see,
 I bound my very heart onto my sole.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.232 0.19 · Diwan-E-Ghalib ch.76 0.12 · Bang-E-Dara Part 3 ch.7 0.11
+
 
 ## Original-language signature (urdu, top-3)
 "jab ba-taqreeb-e-safar yaar" · "ba-taqreeb-e-safar yaar mehmil" · "yaar mehmil baandha"

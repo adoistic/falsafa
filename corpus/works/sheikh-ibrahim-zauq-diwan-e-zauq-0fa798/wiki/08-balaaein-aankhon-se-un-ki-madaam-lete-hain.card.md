@@ -21,7 +21,7 @@ With lashes, not with hands, we press our claim, is what they take.
 To take one cup from our own hand with coy disdain; a single glass is what they take.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.45 0.12 · Bang-E-Dara Part 2 ch.3 0.10 · Bang-E-Dara Part 2 ch.12 0.08
+
 
 ## Original-language signature (urdu, top-3)
 "lete hain hum" · "balaaein aankhon madaam" · "aankhon madaam lete"

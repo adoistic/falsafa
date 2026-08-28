@@ -18,7 +18,7 @@ prose · 6¶ · 971w · vocab 313 (TTR 71%, hapax 76%)
 > [p-b430e7] These wars, whose principal object is to give means of existence to the disinherited cadets of the great, are so destructive that sometimes a few years have been sufficient to plunge the most flourishing islands into misery, and to reap the greater part of the population [604].
 
 ## Nearest in corpus
-Traité de Législation: VOL II ch.19 0.33 · Traité de Législation: VOL II ch.18 0.25 · Traité de Législation: VOL II ch.24 0.24
+
 
 ## Original-language signature (french, top-3)
 "chap relations existent" · "relations existent divers" · "existent divers peuples"

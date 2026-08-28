@@ -22,7 +22,7 @@ He only licks his lips when you observe that wounded part;
 You see the gash inside his liver, and he savors what you see.
 
 ## Nearest in corpus
-Diwan-E-Zauq ch.17 0.16 · Diwan-E-Ghalib ch.90 0.12 · Diwan-E-Ghalib ch.217 0.12
+
 
 ## Original-language signature (urdu, top-3)
 "mere rakh kidhar" · "rakh kidhar dekhte" · "haath seena mere"

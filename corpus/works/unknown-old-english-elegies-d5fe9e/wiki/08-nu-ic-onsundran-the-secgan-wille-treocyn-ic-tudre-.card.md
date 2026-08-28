@@ -168,7 +168,7 @@ while he is living,     wishes to keep,
 that you two in old days     often spoke.
 
 ## Nearest in corpus
-Andreas ch.1 0.17 · Juliana ch.1 0.14 · Old English Elegies ch.6 0.14
+
 
 ## Original-language signature (old-english, top-3)
 "git ærdagum oft" · "the husband message" · "husband message ====================="

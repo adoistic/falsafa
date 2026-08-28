@@ -339,7 +339,7 @@ Yet it is best, when a man cannot change his Fate,
 that he then endure it well.
 
 ## Nearest in corpus
-Andreas ch.1 0.35 · Juliana ch.1 0.31 · Elene ch.1 0.29
+
 
 ## Original-language signature (old-english, top-3)
 "resignation =========== verse" · "=========== verse indeterminate" · "verse indeterminate saxon"

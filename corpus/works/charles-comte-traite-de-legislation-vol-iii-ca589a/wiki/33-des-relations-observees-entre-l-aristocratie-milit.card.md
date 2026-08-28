@@ -18,7 +18,7 @@ prose · 34¶ · 4893w · vocab 1332 (TTR 56%, hapax 68%)
 > [p-ea78e0] Savary, judging by the ruins that still cover the soil of Egypt, and considering the reports of historians to be exaggerated, thought that the population of the cities was three times more numerous in antiquity than it was in his time [237]. At the epoch when he was writing (in 1777, 1778, and 1779), he estimated it at four million [238]; and yet, this latter estimate appears to exceed the truth by a great deal, since Félix Mengin estimates the Egyptian population, in 1823, at only 2,514,400 inhabitants [239]. Thus, the population of Egypt has been reduced, under the military domination that succeeded the power of the Arabs, to roughly a third of what it was in the time of the Romans, when it furnished subsistence to Italy and the neighboring provinces [240].
 
 ## Nearest in corpus
-Traité de Législation: VOL III ch.32 0.45 · Traité de Législation: VOL III ch.34 0.44 · Traité de Législation: VOL III ch.35 0.29
+
 
 ## Original-language signature (french, top-3)
 "domination mamlouks turcs" · "cents coups bâton" · "péri domination mamlouks"

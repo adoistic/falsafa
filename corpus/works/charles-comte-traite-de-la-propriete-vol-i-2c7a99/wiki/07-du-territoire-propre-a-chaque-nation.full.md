@@ -23,7 +23,7 @@ prose · 39¶ · 4556w · vocab 941 (TTR 46%, hapax 60%)
 [^19]: The Anglo-Americans who purchase lands from the Savages are never at war with them; those who usurp them are always exposed to hostilities. The state of Pennsylvania has never experienced aggression on their part; but also, before taking possession of this country, its value was paid to the tribe whose property it was. (Weld, *Voyage to Canada*, vol. 3, ch. 35, p. 102.—Lewis, *Voyage* in the Pacific Ocean, p. xvj of the preface. Wright, lett. 12, p. 208-209.
 
 ## Nearest in corpus
-Traité de la propriété: VOL I ch.4 0.38 · Traité de la propriété: VOL II ch.40 0.35 · Traité de la propriété: VOL I ch.10 0.35
+
 
 ## Original-language signature (french, top-3)
 "nous désignons nom" · "chaque nation chaque" · "genre humain nous"

@@ -18,7 +18,7 @@ prose · 14¶ · 1829w · vocab 497 (TTR 59%, hapax 70%)
 > [p-2e80fb] It will be better understood how slavery leaves no honorable means of existence for free men who need to practice their industry, once I have explained the effects it produces on morals and on wealth.
 
 ## Nearest in corpus
-Traité de Législation: VOL IV ch.13 0.48 · Traité de Législation: VOL IV ch.6 0.47 · Traité de Législation: VOL IV ch.17 0.45
+
 
 ## Original-language signature (french, top-3)
 "pays esclavage établi" · "peut aller établir" · "aller établir pays"

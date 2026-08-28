@@ -60,7 +60,7 @@ prose · 138¶ · 21458w · vocab 3110 (TTR 31%, hapax 53%)
 [^424]: Edinb. Rev., **no.** and article already cited. — I do not know to what extent the facts advanced in this article are worthy of confidence, being the work of a distinguished mind, no doubt, but one which was dictated by a very subordinate and very poorly disguised feeling of jealousy against France.
 
 ## Nearest in corpus
-Nouveau traité d'économie: VOL II ch.16 0.51 · Nouveau traité d'économie: VOL II ch.14 0.46 · Nouveau traité d'économie: VOL II ch.17 0.41
+
 
 ## Original-language signature (french, top-3)
 "neuf cents lieues" · "combien commerce ajoute-t-il" · "commerce ajoute-t-il pas"

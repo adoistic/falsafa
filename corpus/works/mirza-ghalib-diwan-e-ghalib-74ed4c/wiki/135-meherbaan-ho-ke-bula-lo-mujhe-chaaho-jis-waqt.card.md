@@ -21,7 +21,7 @@ I am not bygone time, that I cannot return with ease.
 What is this thought of you, a ghost I cannot clear?
 
 ## Nearest in corpus
-Bang-E-Dara Part 3 ch.10 0.11 · Diwan-E-Ghalib ch.175 0.11 · Diwan-E-Zauq ch.18 0.10
+
 
 ## Original-language signature (urdu, top-3)
 "meherbaan bula mujhe" · "bula mujhe chaaho" · "mujhe chaaho jis"

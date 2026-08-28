@@ -270,7 +270,7 @@ the best of all, the Ruler of Victories.
 Amen.
 
 ## Nearest in corpus
-Andreas ch.1 0.23 · Elene ch.1 0.22 · Juliana ch.1 0.21
+
 
 ## Original-language signature (old-english, top-3)
 "godes agen bearn" · "vainglory ========= verse" · "========= verse indeterminate"

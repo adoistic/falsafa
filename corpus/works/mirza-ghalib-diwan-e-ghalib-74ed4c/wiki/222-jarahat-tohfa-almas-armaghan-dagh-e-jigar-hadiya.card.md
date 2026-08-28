@@ -21,7 +21,7 @@ Rejoice, Asad, the friend to all your suffering has come again.
 Of all my restless strivings, and my harvest now is slain.
 
 ## Nearest in corpus
-Diwan-E-Zauq ch.39 0.10 · Diwan-E-Ghalib ch.52 0.10 · Diwan-E-Ghalib ch.67 0.09
+
 
 ## Original-language signature (urdu, top-3)
 "jarahat tohfa almas" · "tohfa almas armaghan" · "almas armaghan dagh-e-jigar"

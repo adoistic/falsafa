@@ -92,7 +92,7 @@ Let this be a lesson to every man
 wise in spirit.
 
 ## Nearest in corpus
-Andreas ch.1 0.25 · Juliana ch.1 0.25 · Old English Elegies ch.9 0.21
+
 
 ## Original-language signature (old-english, top-3)
 "soul body ================" · "body ================ verse" · "================ verse indeterminate"

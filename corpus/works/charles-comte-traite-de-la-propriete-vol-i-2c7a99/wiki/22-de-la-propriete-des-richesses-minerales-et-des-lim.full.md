@@ -24,7 +24,7 @@ prose · 47¶ · 4988w · vocab 935 (TTR 42%, hapax 60%)
 [^199]: *Ibid.* p. 1.
 
 ## Nearest in corpus
-Traité de la propriété: VOL I ch.23 0.25 · Traité de la propriété: VOL I ch.24 0.25 · Traité de la propriété: VOL I ch.10 0.25
+
 
 ## Original-language signature (french, top-3)
 "partie domaine public" · "loi avril 1810" · "appartenant propriétaires surface"

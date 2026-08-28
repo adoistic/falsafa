@@ -38,7 +38,7 @@ prose · 55¶ · 6987w · vocab 1154 (TTR 37%, hapax 55%)
 [^286]: R. Godson's *Practical treatise*, bk. III, ch. IV, p. 294.
 
 ## Nearest in corpus
-Traité de la propriété: VOL II ch.31 0.55 · Traité de la propriété: VOL II ch.33 0.53 · Traité de la propriété: VOL II ch.32 0.48
+
 
 ## Original-language signature (french, top-3)
 "godson *practical treatise*" · "*practical treatise* iii" · "chitty *treatise the"

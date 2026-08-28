@@ -21,7 +21,7 @@ The flash that burns our comfort is the farmer's lifeblood's rain.
 An empty shell that's turned away from heaven's pearl-filled rain.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.67 0.20 · Diwan-E-Ghalib ch.74 0.14 · Diwan-E-Ghalib ch.45 0.14
+
 
 ## Original-language signature (urdu, top-3)
 "kaargah-e-hasti mein laala" · "mein laala daagh-e-samaan" · "laala daagh-e-samaan hai"

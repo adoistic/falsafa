@@ -22,7 +22,7 @@ prose · 34¶ · 3687w · vocab 667 (TTR 42%, hapax 59%)
 [^294]: The faculty of making excavations in a property and of extracting certain materials from it is limited in France by the laws on mines.
 
 ## Nearest in corpus
-Traité de la propriété: VOL I ch.5 0.44 · Traité de la propriété: VOL II ch.40 0.42 · Traité de la propriété: VOL I ch.26 0.38
+
 
 ## Original-language signature (french, top-3)
 "faculté jouir disposer" · "propriété commune genre" · "commune genre humain"

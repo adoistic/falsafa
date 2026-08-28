@@ -18,7 +18,7 @@ prose · 25¶ · 2776w · vocab 567 (TTR 47%, hapax 64%)
 > [p-b6b9d5] [^303]: When Bonaparte seized power, he inserted into his constitution a provision that forbade prosecuting a government agent, unless the prosecution had been authorized by the Council of State. This provision, which the Restoration preserved, and which has not yet been abrogated, would be sufficient to render all guarantees illusory.
 
 ## Nearest in corpus
-Traité de la propriété: VOL II ch.43 0.52 · Traité de la propriété: VOL II ch.40 0.50 · Traité de la propriété: VOL II ch.45 0.40
+
 
 ## Original-language signature (french, top-3)
 "peuvent recevoir atteintes" · "garanties relativement propriétés" · "faculté jouir disposer"

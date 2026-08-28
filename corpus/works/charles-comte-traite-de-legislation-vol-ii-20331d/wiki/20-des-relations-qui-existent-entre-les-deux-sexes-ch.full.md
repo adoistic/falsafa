@@ -18,7 +18,7 @@ prose · 6¶ · 837w · vocab 282 (TTR 72%, hapax 81%)
 > [p-cfabb8] The relations that exist between parents and their children are analogous to those that exist between husbands and wives. We have seen previously that fathers treat their daughters as a commodity, that they give them, sell them, as it suits them. We have also seen that it is a duty for all the cadet sons of the aristocracy, engaged in the military association, to have all their children put to death, whatever sex they may belong to. The possessors of lands doubtless preserve most of theirs: but as, among these peoples, movable property is nil, and as real estate passes by right to the first-born, a man can do nothing for his children; they consequently owe him no gratitude. However, in all that does not touch upon the distribution of goods, paternal power has no bounds: whatever use a man may make of it, the chiefs do not attempt to limit it [583].
 
 ## Nearest in corpus
-Traité de Législation: VOL II ch.15 0.35 · Traité de Législation: VOL II ch.19 0.28 · Traité de Législation: VOL II ch.27 0.24
+
 
 ## Original-language signature (french, top-3)
 "peuples espèce malaie" · "femmes nées rangs" · "rangs inférieurs peuvent"

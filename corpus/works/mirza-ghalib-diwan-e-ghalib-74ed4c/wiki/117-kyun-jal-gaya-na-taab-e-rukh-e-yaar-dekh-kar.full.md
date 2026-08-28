@@ -21,7 +21,7 @@ I burn to see the strength of gaze inside of me.
 I see your wall, and all that madness comes again.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.37 0.12 · Diwan-E-Ghalib ch.138 0.11 · Diwan-E-Zauq ch.56 0.11
+
 
 ## Original-language signature (urdu, top-3)
 "kyun jal gaya" · "jal gaya taab-e-rukh-e-yaar" · "gaya taab-e-rukh-e-yaar dekh"

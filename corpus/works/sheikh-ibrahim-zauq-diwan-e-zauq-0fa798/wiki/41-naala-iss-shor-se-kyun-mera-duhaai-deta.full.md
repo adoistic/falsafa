@@ -21,7 +21,7 @@ In your high deafness, cause for this I find.
 The veil; through the heart's window, sight I find.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.202 0.10 · Diwan-E-Zauq ch.26 0.09 · Diwan-E-Ghalib ch.76 0.09
+
 
 ## Original-language signature (urdu, top-3)
 "naala iss shor" · "iss shor kyun" · "shor kyun mera"

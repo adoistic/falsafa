@@ -42,7 +42,7 @@ prose · 85¶ · 10261w · vocab 1820 (TTR 38%, hapax 56%)
 [^45]: Rev. Britannique, vol. 14, p. 38.
 
 ## Nearest in corpus
-Traité de Législation: VOL II ch.3 0.43 · Nouveau traité d'économie: VOL I ch.3 0.39 · Traité de Législation: VOL IV ch.22 0.35
+
 
 ## Original-language signature (french, top-3)
 "races couleur foncée" · "auteur *traité législation*" · "îles mer sud"

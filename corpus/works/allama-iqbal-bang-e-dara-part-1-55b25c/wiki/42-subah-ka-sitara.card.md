@@ -21,7 +21,7 @@ This herald's duty for the morning's sake.
 And show the fire of love to all mankind.
 
 ## Nearest in corpus
-Bang-E-Dara Part 3 ch.9 0.16 · Bang-E-Dara Part 2 ch.5 0.13 · Bang-E-Dara Part 2 ch.22 0.12
+
 
 ## Original-language signature (urdu, top-3)
 "transliterator thothica ---" · "thothica --- work_id" · "--- work_id 55b25cac-46ff-446c-bfe7-0ae5b8541ad8"

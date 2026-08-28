@@ -21,7 +21,7 @@ Not on my cleverness to dwell.
 There is no jest in this, by God, I swear.”
 
 ## Nearest in corpus
-Bang-E-Dara Part 1 ch.6 0.14 · Andreas ch.1 0.13 · Elene ch.1 0.13
+
 
 ## Original-language signature (urdu, top-3)
 "zuhd aur rindi" · "aur rindi zuhd" · "rindi zuhd aur"

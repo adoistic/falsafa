@@ -18,7 +18,7 @@ prose · 18¶ · 2951w · vocab 676 (TTR 49%, hapax 61%)
 > [p-26835e] Having observed the general course that civilization has followed on the principal parts of the globe, and the points where it has stopped, it remains for me to expound what have been the principal causes of its progress, and what are those that have arrested it or caused it to retrogress. This will be the subject of the following book.
 
 ## Nearest in corpus
-Traité de Législation: VOL II ch.6 0.49 · Traité de Législation: VOL II ch.13 0.43 · Traité de Législation: VOL II ch.9 0.41
+
 
 ## Original-language signature (french, top-3)
 "peuvent multiplier climats" · "degré latitude lequel" · "peuple trouve placé"

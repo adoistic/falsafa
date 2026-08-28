@@ -18,7 +18,7 @@ prose · 54¶ · 7615w · vocab 1256 (TTR 37%, hapax 56%)
 > [p-169e9d] Thus, we can say, with the Stoics, that the most virtuous men are those who live in the manner most conformable to the laws of their own nature; and that those, on the contrary, who have the most vices, are those who most frequently violate these laws, and who draw their penalties upon themselves, or upon others.
 
 ## Nearest in corpus
-Traité de Législation: VOL I ch.20 0.50 · Traité de Législation: VOL I ch.18 0.45 · Traité de Législation: VOL I ch.21 0.43
+
 
 ## Original-language signature (french, top-3)
 "nourrir élever enfants" · "force autorité publique" · "action autorité publique"

@@ -21,7 +21,7 @@ Or you would know this veil is the screen of the music's mystery.
 Is ravaged by the digging of separation's grief-filled whirl.
 
 ## Nearest in corpus
-Diwan-E-Zauq ch.57 0.09 · Bang-E-Dara Part 1 ch.40 0.08 · Diwan-E-Ghalib ch.88 0.08
+
 
 ## Original-language signature (urdu, top-3)
 "mehram nahin hai" · "nahin hai nawa-haaye-raaz" · "transliterator thothica ---"

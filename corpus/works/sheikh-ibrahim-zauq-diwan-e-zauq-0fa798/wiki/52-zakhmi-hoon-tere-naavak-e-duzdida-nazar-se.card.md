@@ -21,7 +21,7 @@ This thief won't leave the wound inside my soul's despair.
 More than to meet with Christ and Khidr, who banish all despair.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.138 0.23 · Diwan-E-Ghalib ch.93 0.15 · Diwan-E-Ghalib ch.190 0.13
+
 
 ## Original-language signature (urdu, top-3)
 "zakhmi hoon tere" · "hoon tere naavak-e-duzdida-nazar" · "transliterator thothica ---"

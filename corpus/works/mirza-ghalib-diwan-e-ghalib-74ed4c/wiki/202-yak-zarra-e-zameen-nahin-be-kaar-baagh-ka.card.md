@@ -21,7 +21,7 @@ The path's a wick that burns within the tulip's scarred design of the mind.
 The cloud's a cotton plug that leaves the garden wall stone-blind to the mind.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.32 0.13 · Bang-E-Dara Part 1 ch.5 0.11 · Diwan-E-Zauq ch.41 0.10
+
 
 ## Original-language signature (urdu, top-3)
 "yak zarra-e-zameen nahin" · "zarra-e-zameen nahin be-kaar" · "nahin be-kaar baagh"

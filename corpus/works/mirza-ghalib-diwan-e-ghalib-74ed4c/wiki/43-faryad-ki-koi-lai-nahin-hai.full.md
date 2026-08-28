@@ -21,7 +21,7 @@ its bond to any flute or reed is not real.
 so what are you? O, You Who Are Not Real!
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.134 0.12 · Diwan-E-Ghalib ch.27 0.12 · Bang-E-Dara Part 2 ch.7 0.12
+
 
 ## Original-language signature (urdu, top-3)
 "faryad koi lai" · "koi lai nahin" · "lai nahin hai"

@@ -21,7 +21,7 @@ My obsession only builds your fame—then so be it.
 If not our union, then this yearning, so be it.
 
 ## Nearest in corpus
-Diwan-E-Zauq ch.56 0.16 · Bang-E-Dara Part 1 ch.18 0.12 · Bang-E-Dara Part 1 ch.31 0.11
+
 
 ## Original-language signature (urdu, top-3)
 "ishq mujh nahin" · "mujh nahin vehshat" · "nahin vehshat sahi"

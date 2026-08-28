@@ -21,7 +21,7 @@ And in your spring to bloom, a hope forever true, is what I would pursue.
 A lifetime disappears in just that search anew, is what I would pursue.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.94 0.18 · Diwan-E-Zauq ch.44 0.10 · Diwan-E-Zauq ch.38 0.08
+
 
 ## Original-language signature (urdu, top-3)
 "maza tha hum" · "tha hum laila" · "hum laila do-ba-do"

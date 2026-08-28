@@ -21,7 +21,7 @@ And breath, a wave of air, is naught but a fleeting rush.
 Is the gift of the Haram nothing more than Zamzam?
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.134 0.36 · Diwan-E-Ghalib ch.173 0.13 · Diwan-E-Ghalib ch.160 0.12
+
 
 ## Original-language signature (urdu, top-3)
 "siwa kuchh bhi" · "kuchh bhi nahin" · "insaan dam siwa"

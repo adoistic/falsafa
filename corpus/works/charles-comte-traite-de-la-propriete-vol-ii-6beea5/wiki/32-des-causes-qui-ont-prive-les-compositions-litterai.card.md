@@ -19,7 +19,7 @@ prose · 36¶ · 4374w · vocab 825 (TTR 42%, hapax 59%)
 [^242]: Decrees of April 21 and June 3, 1811.
 
 ## Nearest in corpus
-Traité de la propriété: VOL II ch.35 0.65 · Traité de la propriété: VOL II ch.31 0.60 · Traité de la propriété: VOL II ch.34 0.53
+
 
 ## Original-language signature (french, top-3)
 "garanties propriété littéraire" · "payer aucun droit" · "tomber domaine public"

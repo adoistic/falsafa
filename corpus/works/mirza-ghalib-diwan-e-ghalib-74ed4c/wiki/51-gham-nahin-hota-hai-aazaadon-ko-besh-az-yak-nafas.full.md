@@ -21,7 +21,7 @@ With lightning’s flash we light the house of grief.
 We are the shame of growth, a madman’s mane.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.173 0.14 · Bang-E-Dara Part 3 ch.7 0.13 · Bang-E-Dara Part 1 ch.40 0.12
+
 
 ## Original-language signature (urdu, top-3)
 "gham nahin hota" · "nahin hota hai" · "hota hai aazaadon"

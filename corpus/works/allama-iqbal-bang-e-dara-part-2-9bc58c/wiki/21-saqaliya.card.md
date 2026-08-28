@@ -21,7 +21,7 @@ For there, in sight, lies the grave of Hejazi civilization.
 I weep here myself, to make others weep there.
 
 ## Nearest in corpus
-Bang-E-Dara Part 1 ch.32 0.13 · Bang-E-Dara Part 3 ch.9 0.12 · Bang-E-Dara Part 3 ch.8 0.11
+
 
 ## Original-language signature (urdu, top-3)
 "transliterator thothica ---" · "thothica --- work_id" · "--- work_id 9bc58cbd-ab40-4264-bd01-6e5bddf3e11f"

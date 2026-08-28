@@ -20,7 +20,7 @@ And like this world, is the heart there with sorrow also rent?
 For Death is but a piercing thorn in human hearts, unhealed.
 
 ## Nearest in corpus
-Bang-E-Dara Part 3 ch.9 0.22 · Bang-E-Dara Part 3 ch.20 0.19 · Bang-E-Dara Part 3 ch.4 0.18
+
 
 ## Original-language signature (urdu, top-3)
 "kya waan bhi" · "vilaayat mein bhi" · "jaata hai dil"

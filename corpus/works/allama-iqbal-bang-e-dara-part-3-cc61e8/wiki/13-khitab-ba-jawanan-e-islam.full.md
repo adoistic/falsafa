@@ -60,7 +60,7 @@ my heart shatters into fragments.
 *The light of his own eye now brightens Zulaikha's gaze.*
 
 ## Nearest in corpus
-Bang-E-Dara Part 3 ch.4 0.09 · Bang-E-Dara Part 2 ch.21 0.09 · Diwan-E-Zauq ch.50 0.09
+
 
 ## Original-language signature (urdu, top-3)
 "transliterator thothica ---" · "thothica --- work_id" · "--- work_id cc61e86c-ca8b-4714-8f37-fe742b33069d"

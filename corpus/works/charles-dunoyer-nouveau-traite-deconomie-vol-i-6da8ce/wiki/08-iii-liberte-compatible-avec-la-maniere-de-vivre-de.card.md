@@ -67,7 +67,7 @@ prose · 64¶ · 12649w · vocab 2706 (TTR 44%, hapax 63%)
 [^256]: Dulaure, *Hist. de Paris*. Compare the map at the head of the second vol. with the one at the beginning of the first. *V.* also the text.
 
 ## Nearest in corpus
-Nouveau traité d'économie: VOL I ch.7 0.38 · Traité de Législation: VOL IV ch.2 0.29 · Nouveau traité d'économie: VOL I ch.9 0.29
+
 
 ## Original-language signature (french, top-3)
 "douzième treizième siècles" · "hist charles-quint note" · "onzième douzième siècles"

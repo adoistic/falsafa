@@ -19,7 +19,7 @@ verse · 12¶ · 183w · vocab 83 (TTR 86%, hapax 90%)
 Its start is Passion, Beauty is its crest.
 
 ## Nearest in corpus
-Bang-E-Dara Part 3 ch.21 0.14 · Bang-E-Dara Part 2 ch.17 0.10 · Bang-E-Dara Part 3 ch.5 0.10
+
 
 ## Original-language signature (urdu, top-3)
 "chaand aur taare" · "transliterator thothica ---" · "thothica --- work_id"

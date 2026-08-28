@@ -18,7 +18,7 @@ prose · 59¶ · 7083w · vocab 1340 (TTR 41%, hapax 60%)
 > [p-79cf11] In all possible cases, purely physical pleasures and pains are therefore among the elements of force that constitute a law; but they are not always the pains and enjoyments of the same classes of persons. Among peoples who are completely free, that is to say, among whom one encounters neither masters nor slaves, it is the physical needs of the mass of the population that form the greatest part of the powers to which one gives the name of *laws.* Among peoples who are possessed by masters, under whatever form and under whatever denomination it may be, it is the passions or the physical needs of the possessors and their instruments that form one of the principal elements of the same powers, and particularly of those designated by the name of political laws.
 
 ## Nearest in corpus
-Traité de Législation: VOL I ch.14 0.61 · Traité de Législation: VOL I ch.18 0.48 · Traité de Législation: VOL I ch.21 0.43
+
 
 ## Original-language signature (french, top-3)
 "peines plaisirs physiques" · "semblables méprisent douleurs" · "stoïciens condamné plaisirs"

@@ -21,7 +21,7 @@ For this sick patient, from the sight, is ordered fast.
 The very fire of spring sets longing's heart ablaze.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.62 0.18 · Diwan-E-Ghalib ch.106 0.09 · Diwan-E-Ghalib ch.131 0.09
+
 
 ## Original-language signature (urdu, top-3)
 "kyun chashm-e-butaan mahv-e-taghaful" · "chashm-e-butaan mahv-e-taghaful kyun" · "transliterator thothica ---"

@@ -21,7 +21,7 @@ To burn within your heart in pain—an art I know.
 To find my home within her eye’s own frame—an art I know.
 
 ## Nearest in corpus
-Bang-E-Dara Part 1 ch.10 0.14 · Diwan-E-Ghalib ch.52 0.14 · Nouveau traité d'économie: VOL II ch.18 0.12
+
 
 ## Original-language signature (urdu, top-3)
 "koi hum seekh" · "hum seekh jaaye" · "chupke chupke gham"

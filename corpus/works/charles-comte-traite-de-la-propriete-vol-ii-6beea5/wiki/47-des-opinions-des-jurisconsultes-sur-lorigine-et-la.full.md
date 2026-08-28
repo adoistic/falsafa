@@ -22,7 +22,7 @@ prose · 50¶ · 3119w · vocab 741 (TTR 51%, hapax 65%)
 [^313]: *Le droit civil français suivant l'ordre du Code*, by M. Toullier, volume 3, 40, § 64.
 
 ## Nearest in corpus
-Traité de Législation: VOL I ch.5 0.36 · Traité de la propriété: VOL II ch.38 0.35 · Traité de la propriété: VOL II ch.48 0.35
+
 
 ## Original-language signature (french, top-3)
 "origine nature propriété" · "peut jouir disposer" · "pouvait prendre son"

@@ -18,7 +18,7 @@ prose · 21¶ · 3268w · vocab 838 (TTR 53%, hapax 68%)
 > [p-7b89c4] I will not speak of the peoples who inhabit the Sunda Islands, the Philippines, and the Moluccas, because several species are found confounded together there, and because the facts I would report would moreover only confirm the preceding observations.Thus, far from cold or even temperate climates having been a cause of the development of their intelligence for the peoples of the great Ocean, we see that it is, on the contrary, between the tropics that the human mind has made the most progress, and that it is the peoples closest to the poles who have remained furthest behind in civilization [289].
 
 ## Nearest in corpus
-Traité de Législation: VOL II ch.25 0.35 · Traité de Législation: VOL II ch.9 0.34 · Traité de Législation: VOL II ch.24 0.33
+
 
 ## Original-language signature (french, top-3)
 "habitants îles société" · "îles grand océan" · "habitants île pâques"

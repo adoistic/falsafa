@@ -28,7 +28,7 @@ prose · 45¶ · 6714w · vocab 1302 (TTR 43%, hapax 60%)
 [^96]: Arthur Young, vol. 2, p. 115-116.
 
 ## Nearest in corpus
-Traité de la propriété: VOL I ch.14 0.41 · Traité de la propriété: VOL I ch.13 0.31 · Traité de la propriété: VOL I ch.16 0.24
+
 
 ## Original-language signature (french, top-3)
 "populations répandues bassins" · "mois août 1669" · "veiller conservation bois"

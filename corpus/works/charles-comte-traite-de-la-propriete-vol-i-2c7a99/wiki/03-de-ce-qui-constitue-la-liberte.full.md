@@ -19,7 +19,7 @@ prose · 27¶ · 2117w · vocab 492 (TTR 50%, hapax 67%)
 [^5]: The slaves of the colonies do not need a *pass* or *passport*, as long as they only wish to move from one part of the plantation to which they are attached to another part. The subjects of oriental despots can also travel through the states of their masters without being provided with a pass. The kings of the European continent do not leave their subjects such extensive liberty.
 
 ## Nearest in corpus
-Traité de la propriété: VOL I ch.2 0.44 · Traité de Législation: VOL IV ch.17 0.43 · Traité de Législation: VOL IV ch.21 0.41
+
 
 ## Original-language signature (french, top-3)
 "état auquel nous" · "auquel nous donnons" · "nous donnons nom"

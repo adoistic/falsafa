@@ -49,7 +49,7 @@ prose · 53¶ · 7422w · vocab 1636 (TTR 46%, hapax 62%)
 [^117]: Hist. of Amer., book 4.
 
 ## Nearest in corpus
-Traité de Législation: VOL III ch.46 0.37 · Nouveau traité d'économie: VOL I ch.1 0.33 · Nouveau traité d'économie: VOL I ch.6 0.33
+
 
 ## Original-language signature (french, top-3)
 "durée moyenne vie" · "hist amér liv" · "sait creuser canot"

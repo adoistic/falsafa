@@ -21,7 +21,7 @@ My very speed makes the whole desert plain flee from me.
 To set a hundred cities blazing in the dark is from me.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.101 0.20 · Diwan-E-Ghalib ch.75 0.14 · Diwan-E-Ghalib ch.52 0.14
+
 
 ## Original-language signature (urdu, top-3)
 "har qadam doori-e-manzil" · "qadam doori-e-manzil hai" · "doori-e-manzil hai numayan"

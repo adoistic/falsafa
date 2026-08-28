@@ -22,7 +22,7 @@ A purer substance for the wise to hold;
 So Zauq, your love's an alchemy, all told.
 
 ## Nearest in corpus
-Bang-E-Dara Part 3 ch.20 0.11 · Diwan-E-Zauq ch.58 0.10 · Bang-E-Dara Part 1 ch.32 0.10
+
 
 ## Original-language signature (urdu, top-3)
 "azeezo ghadiyal sada" · "ghadiyal sada samjho" · "transliterator thothica ---"

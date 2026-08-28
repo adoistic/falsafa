@@ -21,7 +21,7 @@ The mirror, lost in thought, invents the way for a new display.
 The truly opened eye must turn away from a new display.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.213 0.24 · Diwan-E-Ghalib ch.167 0.22 · Diwan-E-Ghalib ch.27 0.14
+
 
 ## Original-language signature (urdu, top-3)
 "husn-e-beparwa kharidar-e-mata-e-jalwa hai" · "transliterator thothica ---" · "thothica --- work_id"

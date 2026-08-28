@@ -18,7 +18,7 @@ prose · 22¶ · 4112w · vocab 761 (TTR 41%, hapax 58%)
 > [p-b866a8] We have seen, in this chapter, that none of the characteristics that distinguish the species from one another are produced either by climate or by any artificial means. But, although climate produces no deviation in the species, one can conceive that it could diminish or increase the physical forces of individuals, weaken or strengthen their intellectual faculties, irritate or calm their passions, without making them lose any of the characteristics that are proper to their species. I will examine this question in expounding what is the influence that the things by which men are everywhere surrounded exercise on the prosperity and decadence of nations, whatever moreover the species to which they belong.
 
 ## Nearest in corpus
-Traité de Législation: VOL III ch.47 0.61 · Traité de Législation: VOL II ch.4 0.59 · Traité de Législation: VOL II ch.3 0.57
+
 
 ## Original-language signature (french, top-3)
 "peuples espèce malaie" · "peuples espèce cuivrée" · "peuples espèce caucasienne"

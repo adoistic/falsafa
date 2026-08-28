@@ -18,7 +18,7 @@ prose · 17¶ · 3406w · vocab 799 (TTR 52%, hapax 63%)
 > [p-c064f7] One must never lose sight of the fact that in writing this work, I am concerned only with the masses, and that I do not have to expound facts that are merely individual exceptions to the general facts I describe. In speaking of the effects that slavery produces on the physical, intellectual, and moral faculties of the diverse classes of the population, I therefore have no need to speak of masters or slaves who, through particular and accidental circumstances, have escaped these effects. It is doubtless possible to encounter a skillful slave or one of a vigorous constitution, but this fact does not lead to the conclusion that slavery results in developing the industry or strengthening the physical organs of the enslaved population. One can also encounter, in a country of slaves, a small number of enlightened masters, without being able to conclude from this that the possession of arbitrary power over a part of the species is favorable to the development of the intellectual faculties. Finally, one can encounter, either among the slaves or among the masters, a man who has pure or even severe morals, without it resulting that slavery is favorable to good morals.
 
 ## Nearest in corpus
-Traité de Législation: VOL IV ch.17 0.47 · Traité de Législation: VOL IV ch.15 0.41 · Traité de Législation: VOL IV ch.21 0.40
+
 
 ## Original-language signature (french, top-3)
 "comment industrie mœurs" · "industrie mœurs état" · "mœurs état social"

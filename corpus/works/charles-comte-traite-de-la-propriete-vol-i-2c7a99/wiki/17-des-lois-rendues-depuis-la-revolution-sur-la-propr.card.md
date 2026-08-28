@@ -40,7 +40,7 @@ prose · 64¶ · 8792w · vocab 1382 (TTR 34%, hapax 53%)
 [^146]: James Kent, *Comment. on american law*, vol. III, lect. 50 and 51.
 
 ## Nearest in corpus
-Traité de la propriété: VOL I ch.18 0.77 · Traité de la propriété: VOL I ch.16 0.57 · Traité de la propriété: VOL I ch.12 0.42
+
 
 ## Original-language signature (french, top-3)
 "fleuves rivières navigables" · "rivières non navigables" · "rivières navigables flottables"

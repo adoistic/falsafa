@@ -18,7 +18,7 @@ prose · 17¶ · 3232w · vocab 733 (TTR 51%, hapax 65%)
 > [p-dcadeb] It is not my place to explain the causes of these phenomena; it is enough for me to have observed that while conquest and slavery create prejudices and vices that divide men, the interests of all push them toward union.
 
 ## Nearest in corpus
-Traité de Législation: VOL IV ch.11 0.36 · Nouveau traité d'économie: VOL I ch.2 0.35 · Traité de Législation: VOL IV ch.15 0.30
+
 
 ## Original-language signature (french, top-3)
 "caractères physiques distinguent" · "milieu multitude noirs" · "petit nombre blancs"

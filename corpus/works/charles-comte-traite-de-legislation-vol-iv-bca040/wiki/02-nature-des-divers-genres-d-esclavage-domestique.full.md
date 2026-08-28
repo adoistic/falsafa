@@ -18,7 +18,7 @@ prose · 16¶ · 2821w · vocab 699 (TTR 53%, hapax 65%)
 > [p-561e11] The slavery introduced into the American colonies resembles, in several respects, that which existed among the Romans; but it differs in three remarkable points: the slaves and masters belong to different species; the products obtained by the slaves' labors are generally destined for export, and consequently the enslaved population is reduced to what is strictly necessary for it to live; finally, the masters are placed under the influence of nations that do not admit slavery on their territory, and therefore cannot give themselves over without reserve to their natural inclinations. We will see later how these various circumstances contribute to modifying the existence of the various classes of the population.
 
 ## Nearest in corpus
-Traité de Législation: VOL IV ch.6 0.50 · Traité de Législation: VOL IV ch.17 0.49 · Traité de Législation: VOL IV ch.3 0.45
+
 
 ## Original-language signature (french, top-3)
 "pouvait rien exiger" · "autres genres industrie" · "chute empire romain"

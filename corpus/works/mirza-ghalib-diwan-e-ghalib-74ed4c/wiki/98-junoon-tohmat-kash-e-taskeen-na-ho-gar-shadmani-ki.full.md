@@ -21,7 +21,7 @@ the salt that stings a wounded heart is life's true ecstasy.
 yet even in this beggar’s ash, a youthful mischief fills his soul.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.97 0.19 · Diwan-E-Ghalib ch.160 0.15 · Diwan-E-Zauq ch.46 0.09
+
 
 ## Original-language signature (urdu, top-3)
 "junoon tohmat-kash-e-taskeen gar" · "tohmat-kash-e-taskeen gar shadmani" · "transliterator thothica ---"

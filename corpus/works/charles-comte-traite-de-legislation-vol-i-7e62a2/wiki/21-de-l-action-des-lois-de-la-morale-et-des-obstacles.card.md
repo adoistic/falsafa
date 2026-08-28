@@ -18,7 +18,7 @@ prose · 62¶ · 9994w · vocab 1490 (TTR 33%, hapax 55%)
 > [p-290e8f] #### END OF THE FIRST VOLUME.
 
 ## Nearest in corpus
-Traité de Législation: VOL I ch.18 0.52 · Traité de Législation: VOL I ch.19 0.43 · Traité de Législation: VOL I ch.15 0.43
+
 
 ## Original-language signature (french, top-3)
 "physiques morales intellectuelles" · "publicité intensité certitude" · "intensité certitude durée"

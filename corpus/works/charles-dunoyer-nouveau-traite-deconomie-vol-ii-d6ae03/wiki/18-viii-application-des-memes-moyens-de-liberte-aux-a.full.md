@@ -47,7 +47,7 @@ prose · 138¶ · 17324w · vocab 2669 (TTR 33%, hapax 54%)
 "&nbsp" — 2× (first at p-ea71ab)
 
 ## Nearest in corpus
-Nouveau traité d'économie: VOL II ch.19 0.50 · Nouveau traité d'économie: VOL II ch.14 0.47 · Nouveau traité d'économie: VOL II ch.16 0.39
+
 
 ## Original-language signature (french, top-3)
 "arts agissent corps" · "agissent corps homme" · "agissent corps humain"

@@ -18,7 +18,7 @@ prose · 34¶ · 4754w · vocab 1012 (TTR 47%, hapax 63%)
 > [p-b51536] > “I will admit, if you wish, that it is impossible for a society to exist without some virtues; but I am obliged to agree that I have not had the sagacity to perceive them [520]”.
 
 ## Nearest in corpus
-Traité de Législation: VOL II ch.9 0.48 · Traité de Législation: VOL II ch.14 0.46 · Traité de Législation: VOL III ch.28 0.38
+
 
 ## Original-language signature (french, top-3)
 "peu près semblable" · "mœurs peuples espèce" · "peuples espèce placés"

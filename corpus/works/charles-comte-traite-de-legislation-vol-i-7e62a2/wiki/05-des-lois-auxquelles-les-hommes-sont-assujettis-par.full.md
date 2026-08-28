@@ -18,7 +18,7 @@ prose · 51¶ · 8376w · vocab 1300 (TTR 34%, hapax 57%)
 > [p-bb3d6a] Giving to the words *natural laws* the meaning we have attached to them, what is the most natural state for man? It is evidently that in which he prospers best, that in which all his moral, intellectual, and physical faculties develop with the most freedom. The state that is most against his nature is that in which he suffers most, that which presents to the perfection and growth of his species the most numerous and strongest obstacles.
 
 ## Nearest in corpus
-Traité de Législation: VOL I ch.11 0.44 · Traité de Législation: VOL I ch.10 0.44 · Traité de Législation: VOL I ch.2 0.44
+
 
 ## Original-language signature (french, top-3)
 "jurisconsultes lois naturelles" · "son état naturel" · "systèmes jurisconsultes lois"

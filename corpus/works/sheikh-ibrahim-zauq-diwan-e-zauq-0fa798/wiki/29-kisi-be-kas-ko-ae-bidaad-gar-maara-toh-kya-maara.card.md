@@ -21,7 +21,7 @@ To strike the one who’s dying from his life of pain; what victory is gained?
 So, Zauq, to shoot your sigh at heaven was in vain; what victory is gained?
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.112 0.12 · Diwan-E-Zauq ch.46 0.11 · Diwan-E-Ghalib ch.100 0.11
+
 
 ## Original-language signature (urdu, top-3)
 "maara toh kya" · "toh kya maara" · "kisi be-kas bidaad-gar"

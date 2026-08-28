@@ -21,7 +21,7 @@ O Lord, I pray this treasury of pearls remains unlocked.
 For him, that sacred King, the very doorless dome itself unbarred.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.79 0.13 · Bang-E-Dara Part 1 ch.37 0.11 · Bang-E-Dara Part 3 ch.7 0.10
+
 
 ## Original-language signature (urdu, top-3)
 "bazm-e-shahanshah mein ashaar" · "mein ashaar daftar" · "ashaar daftar khula"

@@ -24,7 +24,7 @@ prose · 48¶ · 6568w · vocab 1109 (TTR 37%, hapax 56%)
 [^153]: In France, the obligation imposed on riparian properties to provide a towpath for navigation has existed since the most remote times. The regulation of Charles VI, of the month of February 1415, ascertains that at that time this path was owed since time immemorial.
 
 ## Nearest in corpus
-Traité de la propriété: VOL I ch.17 0.77 · Traité de la propriété: VOL I ch.16 0.53 · Traité de la propriété: VOL I ch.12 0.43
+
 
 ## Original-language signature (french, top-3)
 "rivières non navigables" · "nature choses rivières" · "partie domaine public"

@@ -34,7 +34,7 @@ prose · 50¶ · 7088w · vocab 1604 (TTR 49%, hapax 66%)
 [^85]: *See* in the French journals of early January 1825, the message in question here.
 
 ## Nearest in corpus
-Nouveau traité d'économie: VOL I ch.0 0.38 · Nouveau traité d'économie: VOL I ch.3 0.35 · Nouveau traité d'économie: VOL I ch.7 0.34
+
 
 ## Original-language signature (french, top-3)
 "pas mode existence" · "mode existence lequel" · "existence lequel homme"

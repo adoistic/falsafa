@@ -21,7 +21,7 @@ And stuns the restless heart beyond compare.
 Have left me unfit for all worldly care, beyond compare.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.138 0.26 · Diwan-E-Ghalib ch.106 0.15 · Diwan-E-Zauq ch.52 0.13
+
 
 ## Original-language signature (urdu, top-3)
 "seemab-pusht garmi-e-aaina hai" · "garmi-e-aaina hai hum" · "transliterator thothica ---"

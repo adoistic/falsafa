@@ -18,7 +18,7 @@ prose · 29¶ · 2598w · vocab 539 (TTR 49%, hapax 60%)
 > [p-c4e4dc] ---
 
 ## Nearest in corpus
-Traité de la propriété: VOL I ch.23 0.25 · Traité de la propriété: VOL I ch.24 0.24 · Traité de la propriété: VOL I ch.22 0.16
+
 
 ## Original-language signature (french, top-3)
 "loi desséchement marais" · "jouir disposer choses" · "chose jouissance appartient"

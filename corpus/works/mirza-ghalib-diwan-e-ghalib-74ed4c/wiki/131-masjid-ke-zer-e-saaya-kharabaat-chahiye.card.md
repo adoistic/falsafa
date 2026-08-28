@@ -21,7 +21,7 @@ An eye, near her brow, as my prayer's true north, is the soul's deep need.
 The mystic, drunk on Essence absolute, is the soul's deep need.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.76 0.16 · Bang-E-Dara Part 2 ch.10 0.15 · Diwan-E-Ghalib ch.144 0.13
+
 
 ## Original-language signature (urdu, top-3)
 "masjid zer-e-saaya kharabaat" · "zer-e-saaya kharabaat chahiye" · "transliterator thothica ---"

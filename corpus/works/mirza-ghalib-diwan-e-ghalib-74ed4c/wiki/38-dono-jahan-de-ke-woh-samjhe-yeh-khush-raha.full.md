@@ -21,7 +21,7 @@ But silent awe forbade another prayer; what's to be done?
 But if the grief's a soul-melting spell, what can a comforter then share? what's to be done?
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.138 0.16 · Diwan-E-Ghalib ch.173 0.15 · Diwan-E-Ghalib ch.190 0.14
+
 
 ## Original-language signature (urdu, top-3)
 "dono jahan woh" · "jahan woh samjhe" · "woh samjhe yeh"

@@ -23,7 +23,7 @@ prose · 23¶ · 3153w · vocab 714 (TTR 49%, hapax 64%)
 [^185]: The first-class roads number 14; the second-class roads number 13; those of the third class number 202; as for the departmental roads, it was not deemed appropriate to enumerate them.
 
 ## Nearest in corpus
-Traité de la propriété: VOL I ch.21 0.60 · Nouveau traité d'économie: VOL II ch.15 0.26 · Traité de la propriété: VOL I ch.23 0.26
+
 
 ## Original-language signature (french, top-3)
 "villes bourgs villages" · "loi juillet 1790" · "chemins publics rues"

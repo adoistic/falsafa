@@ -21,7 +21,7 @@ For this my sorrow, find a cure that's new, what can one do?
 Then why hold any grievance now, what can one do?
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.213 0.09 · Diwan-E-Zauq ch.46 0.09 · Juliana ch.1 0.09
+
 
 ## Original-language signature (urdu, top-3)
 "ibn-e-maryam hua kare" · "hua kare koi" · "transliterator thothica ---"

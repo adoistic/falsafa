@@ -21,7 +21,7 @@ No way ahead can be uncovered.
 But then, it seems that shame does not come to you.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.9 0.15 · Diwan-E-Zauq ch.7 0.11 · Bang-E-Dara Part 1 ch.7 0.09
+
 
 ## Original-language signature (urdu, top-3)
 "koi ummeed bar" · "ummeed bar nahin" · "bar nahin aati"

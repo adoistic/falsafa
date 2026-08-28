@@ -20,7 +20,7 @@ prose · 59¶ · 5130w · vocab 807 (TTR 36%, hapax 57%)
 [^320]: *See* art. 120 of the Civil Code.
 
 ## Nearest in corpus
-Traité de la propriété: VOL II ch.48 0.21 · Traité de la propriété: VOL II ch.38 0.18 · Traité de la propriété: VOL II ch.49 0.17
+
 
 ## Original-language signature (french, top-3)
 "personne laquelle appartient" · "usufruit droit jouir" · "droit jouir disposer"

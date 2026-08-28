@@ -26,7 +26,7 @@ prose · 22¶ · 3086w · vocab 742 (TTR 52%, hapax 64%)
 [^63]: Having been consulted on this debate, I did not believe that the question of law should be resolved otherwise than it would have been if it had arisen between two private individuals. The extent of the damage does not change the nature of the right.
 
 ## Nearest in corpus
-Traité de la propriété: VOL I ch.8 0.43 · Traité de la propriété: VOL I ch.18 0.43 · Traité de la propriété: VOL I ch.17 0.42
+
 
 ## Original-language signature (french, top-3)
 "indépendans uns autres" · "mer jusqu point" · "bassins fleuves rivières"

@@ -21,7 +21,7 @@ A glance toward the sky becomes a pretext for my pain.
 The one I showered kindness on, with evil now repays.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.67 0.14 · Diwan-E-Ghalib ch.112 0.14 · Diwan-E-Zauq ch.12 0.14
+
 
 ## Original-language signature (urdu, top-3)
 "gham-e-duniya gar paayi" · "gar paayi bhi" · "paayi bhi fursat"

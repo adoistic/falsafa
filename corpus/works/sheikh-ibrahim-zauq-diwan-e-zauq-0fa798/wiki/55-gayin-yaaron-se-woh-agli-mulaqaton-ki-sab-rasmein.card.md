@@ -21,7 +21,7 @@ since my heart fell captive to you, and I, captive to my heart.
 the five human senses, bound in a quintain's heart.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.88 0.10 · Diwan-E-Ghalib ch.76 0.08 · Diwan-E-Zauq ch.59 0.08
+
 
 ## Original-language signature (urdu, top-3)
 "gayin yaaron woh" · "yaaron woh agli" · "woh agli mulaqaton"

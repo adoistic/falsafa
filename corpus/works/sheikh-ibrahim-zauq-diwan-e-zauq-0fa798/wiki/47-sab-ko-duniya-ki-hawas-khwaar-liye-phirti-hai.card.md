@@ -21,7 +21,7 @@ Who follows it? This carrion's path in vain that drives me on.
 My restless heart returns, and then again, and drives me on.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.16 0.18 · Diwan-E-Ghalib ch.52 0.07 · Diwan-E-Zauq ch.43 0.06
+
 
 ## Original-language signature (urdu, top-3)
 "liye phirti hai" · "sab duniya hawas" · "duniya hawas khwaar"

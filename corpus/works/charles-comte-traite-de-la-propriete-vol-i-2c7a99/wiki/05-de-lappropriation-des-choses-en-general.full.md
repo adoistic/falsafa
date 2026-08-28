@@ -18,7 +18,7 @@ prose · 27¶ · 2975w · vocab 578 (TTR 43%, hapax 58%)
 > [p-c4e4dc] ---
 
 ## Nearest in corpus
-Traité de la propriété: VOL II ch.38 0.44 · Traité de la propriété: VOL II ch.27 0.37 · Traité de la propriété: VOL I ch.6 0.33
+
 
 ## Original-language signature (french, top-3)
 "nous donnons nom" · "choses auxquelles nous" · "auxquelles nous donnons"

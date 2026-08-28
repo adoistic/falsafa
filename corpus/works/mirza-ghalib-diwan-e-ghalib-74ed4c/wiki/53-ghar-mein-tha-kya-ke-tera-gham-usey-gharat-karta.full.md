@@ -21,7 +21,7 @@ The one deep, yearning hope to build—and that endures.
 The one deep, yearning hope to build—and that endures.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.27 0.19 · Diwan-E-Ghalib ch.131 0.11 · Bang-E-Dara Part 1 ch.31 0.11
+
 
 ## Original-language signature (urdu, top-3)
 "ghar mein tha" · "mein tha kya" · "tha kya tera"

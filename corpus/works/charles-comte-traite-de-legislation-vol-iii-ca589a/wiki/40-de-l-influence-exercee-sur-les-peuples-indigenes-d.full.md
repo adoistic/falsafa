@@ -18,7 +18,7 @@ prose · 18¶ · 3496w · vocab 808 (TTR 50%, hapax 62%)
 > [p-854acb] The peoples placed to the west of the same mountains have been subjected to local influences no less powerful; it would be easy to show that they have been more or less advanced according as the soil on which they found themselves was more or less watered, as it was more or less rich in topsoil, as it enjoyed a more or less variable temperature; according as fishing or hunting were more or less productive; according as communications were more or less easy; but this exposition would lead us too far and would only confirm the observations I have already made [436].
 
 ## Nearest in corpus
-Traité de Législation: VOL III ch.39 0.47 · Traité de Législation: VOL III ch.38 0.47 · Traité de Législation: VOL II ch.9 0.43
+
 
 ## Original-language signature (french, top-3)
 "propres subsistance homme" · "nous trouvons peuples" · "grande partie année"

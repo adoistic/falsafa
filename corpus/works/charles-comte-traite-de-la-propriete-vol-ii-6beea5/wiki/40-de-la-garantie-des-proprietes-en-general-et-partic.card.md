@@ -19,7 +19,7 @@ prose · 32¶ · 3132w · vocab 658 (TTR 47%, hapax 62%)
 [^299]: *Grandeur et décadence des Romains*.
 
 ## Nearest in corpus
-Traité de la propriété: VOL II ch.42 0.50 · Traité de la propriété: VOL II ch.38 0.42 · Traité de la propriété: VOL II ch.43 0.41
+
 
 ## Original-language signature (french, top-3)
 "faculté jouir disposer" · "nous appelons propriétés" · "doivent satisfaire besoins"

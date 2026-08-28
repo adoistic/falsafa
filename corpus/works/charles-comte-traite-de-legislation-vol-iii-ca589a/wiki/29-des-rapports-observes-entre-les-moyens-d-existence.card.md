@@ -18,7 +18,7 @@ prose · 24¶ · 3469w · vocab 893 (TTR 58%, hapax 72%)
 > [p-93f535] We must count among the principal causes of the ruin of Persia the ravages committed by its own armies to prevent or to halt the invasions of foreign armies. Montesquieu attributed these ravages to a systematic spirit common to all despotic governments; one could perhaps give a more natural explanation of this phenomenon. The armies of this country are composed in large part of the Tatars who inhabit the north of Persia, and one knows the horror that these peoples have for cultivation and for cities. In transforming the cultivated country into a desert, some may imagine that they are increasing the extent of their possessions; others may believe they are returning to their primitive state. How would the descendants of the Tatars who dominated in Persia not be flattered at the idea of seeing fertile countries converted into deserts, when among less barbarous peoples, there are men who feel the desire to see the countryside converted into forests and covered with wild beasts? Each race of men seems to have an irresistible tendency to return to the state from which it started; and everything that tends to distance it from that state is for it an object of antipathy.
 
 ## Nearest in corpus
-Traité de Législation: VOL III ch.31 0.33 · Traité de Législation: VOL II ch.27 0.32 · Traité de Législation: VOL III ch.28 0.31
+
 
 ## Original-language signature (french, top-3)
 "nord asie europe" · "robustes laborieux appliqués" · "portent mépris activité"

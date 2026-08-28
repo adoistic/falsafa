@@ -21,7 +21,7 @@ Has quit this life, all worldly, fleeting gain, left behind.
 The fire-souled lover’s style, don't let it wane, left behind.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.101 0.12 · Diwan-E-Zauq ch.41 0.09 · Diwan-E-Zauq ch.46 0.09
+
 
 ## Original-language signature (urdu, top-3)
 "kal gaye the" · "gaye the tum" · "the tum jise"

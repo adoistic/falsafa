@@ -21,7 +21,7 @@ And found its destined advent in your form and face.
 I'd gift the merit of a Hajj, such is my gain.
 
 ## Nearest in corpus
-Bang-E-Dara Part 1 ch.40 0.12 · Diwan-E-Ghalib ch.190 0.12 · Bang-E-Dara Part 3 ch.20 0.09
+
 
 ## Original-language signature (urdu, top-3)
 "manzoor thi yeh" · "thi yeh shakl" · "yeh shakl tajalli"

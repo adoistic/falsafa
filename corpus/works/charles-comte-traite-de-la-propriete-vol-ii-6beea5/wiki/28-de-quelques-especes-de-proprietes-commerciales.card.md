@@ -20,7 +20,7 @@ prose · 27¶ · 2524w · vocab 571 (TTR 49%, hapax 62%)
 [^211]: Art. 16, 17, and 18.
 
 ## Nearest in corpus
-Traité de la propriété: VOL II ch.38 0.33 · Traité de la propriété: VOL II ch.27 0.31 · Traité de la propriété: VOL I ch.5 0.31
+
 
 ## Original-language signature (french, top-3)
 "mises rang propriétés" · "pourvu respecte autres" · "choses mises rang"

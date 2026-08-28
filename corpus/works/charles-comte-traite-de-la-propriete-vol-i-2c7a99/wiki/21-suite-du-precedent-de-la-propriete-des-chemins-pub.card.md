@@ -24,7 +24,7 @@ prose · 41¶ · 4267w · vocab 808 (TTR 42%, hapax 59%)
 [^192]: Decree of the council of April 25, 1820.
 
 ## Nearest in corpus
-Traité de la propriété: VOL I ch.20 0.60 · Traité de la propriété: VOL I ch.24 0.32 · Traité de la propriété: VOL I ch.18 0.32
+
 
 ## Original-language signature (french, top-3)
 "commune département état" · "six mètres largeur" · "tenir bon état"

@@ -21,7 +21,7 @@ And only 'midst the Houris would your face find its true peer.
 Should you find Ghalib, lost in thought and wandering there.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.138 0.16 · Diwan-E-Ghalib ch.38 0.14 · Diwan-E-Zauq ch.52 0.13
+
 
 ## Original-language signature (urdu, top-3)
 "taskeen hum royein" · "hum royein zauq-e-nazar" · "royein zauq-e-nazar mile"

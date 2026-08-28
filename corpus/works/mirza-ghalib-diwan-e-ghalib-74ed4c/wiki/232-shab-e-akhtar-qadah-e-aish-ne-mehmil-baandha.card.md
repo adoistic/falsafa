@@ -21,7 +21,7 @@ A hundred blistered caravans, their goal a dusty plain, was bound.
 To tune his instrument to echo Bedil's complex song again, was bound.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.88 0.19 · Diwan-E-Ghalib ch.75 0.13 · Bang-E-Dara Part 1 ch.5 0.12
+
 
 ## Original-language signature (urdu, top-3)
 "shab-e-akhtar qadah-e-aish mehmil" · "qadah-e-aish mehmil baandha" · "transliterator thothica ---"

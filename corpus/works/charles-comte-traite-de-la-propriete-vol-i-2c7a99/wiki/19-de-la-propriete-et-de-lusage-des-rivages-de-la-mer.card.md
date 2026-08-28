@@ -43,7 +43,7 @@ prose · 32¶ · 4533w · vocab 1002 (TTR 46%, hapax 62%)
 [^179]: The waters that bathe the coasts of Great Britain are, for the English nation, a powerful means of communication between the diverse fractions of which that nation is composed. In France, we have not yet known how to take advantage of this means.
 
 ## Nearest in corpus
-Traité de la propriété: VOL I ch.16 0.40 · Traité de la propriété: VOL I ch.4 0.28 · Traité de la propriété: VOL I ch.18 0.27
+
 
 ## Original-language signature (french, top-3)
 "*tit viii *leg" · "ordonnance marine 1681" · "xliii *tit viii"

@@ -48,7 +48,7 @@ that He has honored us for all time.
 Amen.
 
 ## Nearest in corpus
-Andreas ch.1 0.28 · Old English Elegies ch.6 0.23 · Old English Elegies ch.9 0.23
+
 
 ## Original-language signature (old-english, top-3)
 "the seafarer ============" · "seafarer ============ verse" · "============ verse indeterminate"

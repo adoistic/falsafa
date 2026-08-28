@@ -21,7 +21,7 @@ When restless bolts of lightning yearn for its erase?
 Ah, this garden is no stage for songs of such a grace.
 
 ## Nearest in corpus
-Bang-E-Dara Part 1 ch.3 0.08 · Bang-E-Dara Part 1 ch.32 0.08 · Diwan-E-Ghalib ch.222 0.08
+
 
 ## Original-language signature (urdu, top-3)
 "laaon woh tinke" · "woh tinke kahin" · "tinke kahin aashiyane"

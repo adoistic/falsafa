@@ -24,7 +24,7 @@ prose · 44¶ · 6092w · vocab 1035 (TTR 37%, hapax 56%)
 [^26]: I have proposed in this chapter to simply set forth what are the natural limits of the territory of each nation and of each of the principal fractions of which it is composed; I shall occupy myself with the effects which result, either from divisions contrary to the nature of things, or from the domination exercised by the population of one large area over another population, when I treat of the division and political organization of each people.
 
 ## Nearest in corpus
-Traité de la propriété: VOL I ch.12 0.43 · Traité de Législation: VOL III ch.38 0.34 · Traité de la propriété: VOL I ch.7 0.32
+
 
 ## Original-language signature (french, top-3)
 "limites naturelles territoire" · "territoire chaque nation" · "diverses fractions population"

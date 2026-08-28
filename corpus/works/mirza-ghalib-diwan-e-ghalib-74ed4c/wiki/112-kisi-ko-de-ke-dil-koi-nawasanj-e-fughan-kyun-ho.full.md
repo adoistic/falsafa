@@ -21,7 +21,7 @@ If heart has left the chest, should tongue remain, tell me why?
 By calling her so heartless, will she shed her cold disdain, tell me why?
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.116 0.17 · Diwan-E-Ghalib ch.102 0.17 · Diwan-E-Ghalib ch.76 0.14
+
 
 ## Original-language signature (urdu, top-3)
 "kisi dil koi" · "dil koi nawasanj-e-fughan" · "koi nawasanj-e-fughan kyun"

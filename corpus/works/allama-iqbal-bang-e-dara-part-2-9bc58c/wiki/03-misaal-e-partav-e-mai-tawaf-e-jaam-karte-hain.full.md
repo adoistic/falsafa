@@ -21,7 +21,7 @@ This is our prayer, offered in its flame, they do.
 They call me late and make me lead in shame, they do.
 
 ## Nearest in corpus
-Diwan-E-Zauq ch.37 0.12 · Bang-E-Dara Part 1 ch.6 0.11 · Bang-E-Dara Part 1 ch.41 0.11
+
 
 ## Original-language signature (urdu, top-3)
 "misaal-e-partav-e-mai tawaf-e-jaam karte" · "tawaf-e-jaam karte hain" · "transliterator thothica ---"

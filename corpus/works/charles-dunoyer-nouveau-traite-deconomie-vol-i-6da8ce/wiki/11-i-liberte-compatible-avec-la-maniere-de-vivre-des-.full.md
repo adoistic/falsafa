@@ -39,7 +39,7 @@ prose · 66¶ · 11246w · vocab 2089 (TTR 39%, hapax 60%)
 [^312]: From this passion of industrial peoples for peace, it has been concluded that they must be little disposed to repel foreign aggression. The opposite conclusion should have been drawn: the more they feel the need for peace, the more disposed they must be to repel any attack. It is very true that men are less fierce in times of industry than in eras of domination. The savage virtues, as Malthus very rightly observes, appear only where they are necessary. Now, as one provides for one's subsistence by less hostile means, general security becomes greater, and each person can without peril lay aside a part of his ferocity. But does it follow that because one is less exposed to insult in an industrial society, one is more inclined to suffer it? No, without a doubt. Energy is not destroyed; it simply has fewer occasions to be exercised, or, to put it better, it attacks other obstacles.
 
 ## Nearest in corpus
-Nouveau traité d'économie: VOL II ch.14 0.53 · Nouveau traité d'économie: VOL I ch.0 0.47 · Nouveau traité d'économie: VOL I ch.9 0.45
+
 
 ## Original-language signature (french, top-3)
 "donné préférence nom" · "préférence nom industrie" · "quel degré liberté"

@@ -1,0 +1,24 @@
+---
+textrank_confidence: low
+---
+
+# An Virtus Doceri Possit · ch.1
+prose · 4¶ · 1105w · vocab 350 (TTR 71%, hapax 80%)
+
+## Distinctive trigrams
+"ordering one life" · "men deliberate dispute" · "deliberate dispute variously"
+
+## Key passage (TextRank #1)
+> [p-2b99bb] Men deliberate and dispute variously concerning virtue, whether prudence and justice and the right ordering of one’s life can be taught. Moreover, we marvel that the works of orators, shipmasters, musicians, carpenters, and husbandmen are infinite in number, while good men are only a name, and are talked of like centaurs, giants, and the Cyclops, and that as for any virtuous action that is sincere and unblamable, and manners that are without any touch and mixture of bad passions and affections, they are not to be found; but if Nature of its own accord should produce any thing good and excellent, so many things of a foreign nature mix with it (just as wild and impure productions with generous fruit) that the good is scarce discernible. Men learn to sing, dance, and read, and to be skilful in husbandry and good horsemanship; they learn how to put on their shoes and their garments; they have those that teach them how to fill wine, and to dress and cook their meat; and none of these things can be done as they ought, unless they be instructed how to do them. And will ye say, O foolish men! that the skill of ordering one’s life well (for the sake of which are all the rest) is not to be taught, but to come of its own accord, without reason and without art?
+
+## Opens
+> [p-2b99bb] Men deliberate and dispute variously concerning virtue, whether prudence and justice and the right ordering of one’s life can be taught. Moreover, we marvel that the works of orators, shipmasters, musicians, carpenters, and husbandmen are infinite in number, while good men are only a name, and are talked of like centaurs, giants, and the Cyclops, and that as for any virtuous action that is sincere and unblamable, and manners that are without any touch and mixture of bad passions and affections, they are not to be found; but if Nature of its own accord should produce any thing good and excellent, so many things of a foreign nature mix with it (just as wild and impure productions with generous fruit) that the good is scarce discernible. Men learn to sing, dance, and read, and to be skilful in husbandry and good horsemanship; they learn how to put on their shoes and their garments; they have those that teach them how to fill wine, and to dress and cook their meat; and none of these things can be done as they ought, unless they be instructed how to do them. And will ye say, O foolish men! that the skill of ordering one’s life well (for the sake of which are all the rest) is not to be taught, but to come of its own accord, without reason and without art?
+
+## Closes
+> [p-742fd0] Now he that says that the art of physic may be proper for a tetter or a whitlow, but not to be made use of for a pleurisy, a fever, or a frenzy, in what does he differ from him that should say that it is fit there should be schools, and discourses, and precepts, to teach trifling and childish things, but that all skill in greater and more manly things comes from use without art and from accidental opportunity? For as he would be ridiculous who should say, that one who never learned to row ought not to lay hand on the oar, but that he might guide the helm who was never taught it; so is he that gives leave for men to be instructed in other arts, but not in virtue. He seems to be quite contrary to the practice of the Scythians, who, as Herodotus tells us, put out their servants’ eyes, to prevent them from running away; but he puts the eye of reason into these base and slavish arts, and plucks it from virtue. But the general Iphicrates—when Callias, the son of Chabrias, asked him, What art thou? Art thou an archer or a targeteer, a trooper or a foot-soldier?—answered well, I am none of all these, but one that commands them all. He therefore would be ridiculous that should say that the skill of drawing a bow, of handling arms, of throwing with a sling, and of good horsemanship, might indeed be taught, but the skill of commanding and leading an army came as it happened, one knew not how. And would not he be still more ridiculous who should say that prudence only could not be taught, without which all those arts are useless and unprofitable? When she is the governess, ranking all things in due place and order, every thing is assigned to become useful; for instance, how ungraceful would a feast be, though all concerned were skilful and enough practised in cookery, in dressing and serving up the meat, and in filling the wine as they ought, if all things were not well disposed and ordered among those that waited at the table?...
+
+## Nearest in corpus
+
+
+## Original-language signature (english, top-3)
+"περὶ τῆς ἀρετῆς" · "τῆς ἀρετῆς βουλευόμεθα" · "ἀρετῆς βουλευόμεθα καὶ"

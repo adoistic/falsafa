@@ -21,7 +21,7 @@ I listen, though my name they never entertain.
 But that they'll summon you, we make no binding claim.
 
 ## Nearest in corpus
-Diwan-E-Zauq ch.59 0.20 · Diwan-E-Ghalib ch.135 0.08 · Diwan-E-Ghalib ch.142 0.07
+
 
 ## Original-language signature (urdu, top-3)
 "hum shikayat bhi" · "shikayat bhi baaqi" · "bhi baaqi rahe"

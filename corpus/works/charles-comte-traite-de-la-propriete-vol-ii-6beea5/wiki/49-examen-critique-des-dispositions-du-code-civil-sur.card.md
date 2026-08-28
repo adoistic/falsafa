@@ -18,7 +18,7 @@ prose · 65¶ · 4327w · vocab 716 (TTR 40%, hapax 59%)
 > [p-c4e4dc] ---
 
 ## Nearest in corpus
-Traité de la propriété: VOL II ch.50 0.50 · Traité de la propriété: VOL II ch.38 0.34 · Traité de la propriété: VOL II ch.27 0.33
+
 
 ## Original-language signature (french, top-3)
 "propriété dessus dessous" · "cinq cent mille" · "cent mille francs"

@@ -20,7 +20,7 @@ Like prayers a child speaks from its learning heart.
 And thus deceive the endless night of longing, all along.
 
 ## Nearest in corpus
-Bang-E-Dara Part 3 ch.7 0.16 · Bang-E-Dara Part 2 ch.25 0.12 · Bang-E-Dara Part 2 ch.27 0.11
+
 
 ## Original-language signature (urdu, top-3)
 "transliterator thothica ---" · "thothica --- work_id" · "--- work_id 9bc58cbd-ab40-4264-bd01-6e5bddf3e11f"

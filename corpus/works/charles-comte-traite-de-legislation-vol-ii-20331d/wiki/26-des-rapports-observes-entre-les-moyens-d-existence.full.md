@@ -18,7 +18,7 @@ prose · 29¶ · 3582w · vocab 1001 (TTR 59%, hapax 71%)
 > [p-506860] These peoples are too savage and too destitute of all resources for any traveler to have been able to go and establish himself among them and study their domestic morals; but it is easy to see that, of all the natives of the Cape, the weakest, most cowardly, and most barbarous are those who live in the highest, coldest, and most arid places; and that the peoples who live on the seashore and on the banks of rivers are the strongest, most courageous, and least backward in civilization.
 
 ## Nearest in corpus
-Traité de Législation: VOL II ch.14 0.37 · Traité de Législation: VOL II ch.25 0.31 · Traité de Législation: VOL II ch.15 0.31
+
 
 ## Original-language signature (french, top-3)
 "extrémité australe afrique" · "peuples continent placés" · "continent placés tropiques"

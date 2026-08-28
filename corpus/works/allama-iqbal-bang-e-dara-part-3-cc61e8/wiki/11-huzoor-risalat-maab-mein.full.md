@@ -20,7 +20,7 @@ And brought me to the presence of Mercy's guiding Light.
 For in it is the blood of Tripoli's martyrs, true."
 
 ## Nearest in corpus
-Bang-E-Dara Part 3 ch.4 0.20 · Bang-E-Dara Part 3 ch.20 0.18 · Bang-E-Dara Part 1 ch.40 0.14
+
 
 ## Original-language signature (urdu, top-3)
 "huzoor risalat mein" · "mein gaye mujh" · "transliterator thothica ---"

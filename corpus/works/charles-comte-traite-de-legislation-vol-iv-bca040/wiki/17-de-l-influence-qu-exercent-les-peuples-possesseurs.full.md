@@ -18,7 +18,7 @@ prose · 34¶ · 5296w · vocab 1024 (TTR 42%, hapax 60%)
 > [p-f0a6e9] The laws of justice and morality do not bend according to our interests or our caprices; one must admit them for all men and for all nations, or renounce them for oneself. The moment that justice and morality cease to be universal, there is no longer either morality or justice for men; there is only a brutal force that one can sometimes be made to suffer, but which can also turn in an instant against those who have made it the rule of their judgments and their conduct.
 
 ## Nearest in corpus
-Traité de Législation: VOL IV ch.16 0.57 · Traité de Législation: VOL IV ch.15 0.57 · Traité de Législation: VOL IV ch.9 0.56
+
 
 ## Original-language signature (french, top-3)
 "peuples lesquels esclavage" · "peuples possesseurs esclaves" · "lesquels esclavage aboli"

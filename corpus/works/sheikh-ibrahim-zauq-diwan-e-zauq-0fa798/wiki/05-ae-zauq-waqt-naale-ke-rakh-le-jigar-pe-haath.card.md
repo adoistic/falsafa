@@ -21,7 +21,7 @@ or you will weep for it, and raise a grieving hand.
 when she just stood, with such a grace, and on her hip she laid a hand.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.203 0.11 · Diwan-E-Ghalib ch.173 0.11 · Bang-E-Dara Part 3 ch.9 0.11
+
 
 ## Original-language signature (urdu, top-3)
 "zauq waqt naale" · "waqt naale rakh" · "naale rakh jigar"

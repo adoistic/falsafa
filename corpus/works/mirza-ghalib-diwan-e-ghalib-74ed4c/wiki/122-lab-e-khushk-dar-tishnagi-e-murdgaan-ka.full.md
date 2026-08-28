@@ -21,7 +21,7 @@ A sacred shrine for hearts that live in pain.
 Asad, I am the smile of souls that wane.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.175 0.14 · Diwan-E-Ghalib ch.185 0.14 · Diwan-E-Ghalib ch.101 0.13
+
 
 ## Original-language signature (urdu, top-3)
 "transliterator thothica ---" · "thothica --- work_id" · "--- work_id 74ed4c1c-c3d2-47b4-b350-4539659ce0f9"

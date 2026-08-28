@@ -21,7 +21,7 @@ that every bud's unfolding is an open-armed release.
 what seems a scar is but a tear held trembling in the sight.
 
 ## Nearest in corpus
-Bang-E-Dara Part 3 ch.7 0.10 · Bang-E-Dara Part 3 ch.15 0.09 · Bang-E-Dara Part 2 ch.16 0.08
+
 
 ## Original-language signature (urdu, top-3)
 "gulshan teri sohbat" · "teri sohbat az-bas-keh" · "sohbat az-bas-keh khush"

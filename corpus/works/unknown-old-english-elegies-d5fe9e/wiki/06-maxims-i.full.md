@@ -633,7 +633,7 @@ and a hard heart in a man. A helm is for the brave,
 and for the wretched man's spirit, a hoard is most useless.
 
 ## Nearest in corpus
-Andreas ch.1 0.32 · Juliana ch.1 0.30 · Elene ch.1 0.30
+
 
 ## Original-language signature (old-english, top-3)
 "oþþæt hine mon" · "oft mon wommum" · "maxims ======== verse"

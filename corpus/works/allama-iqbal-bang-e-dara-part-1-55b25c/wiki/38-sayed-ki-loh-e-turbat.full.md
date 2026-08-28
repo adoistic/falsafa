@@ -20,7 +20,7 @@ Now with your inner eye, read what these carved inscriptions teach.
 And with your voice's flame, set the harvest of all falsehood alight!
 
 ## Nearest in corpus
-Bang-E-Dara Part 3 ch.4 0.13 · Bang-E-Dara Part 1 ch.34 0.10 · Bang-E-Dara Part 3 ch.9 0.10
+
 
 ## Original-language signature (urdu, top-3)
 "mein hai aseer" · "transliterator thothica ---" · "thothica --- work_id"

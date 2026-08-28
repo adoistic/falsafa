@@ -18,7 +18,7 @@ prose · 17¶ · 2780w · vocab 707 (TTR 55%, hapax 68%)
 > [p-c4ad60] The morals of the part of the population with which I have been concerned in this chapter partake at once of those of the masters and of the slaves, without however being as vicious as those of either. They partake of the morals of the masters through the esteem granted to idleness, through the contempt for the enslaved population, and through the vices that idleness engenders. They partake of the morals of the slaves through servility toward the masters, by the deceit that is born of the feeling of oppression, and by the cowardice that comes from the feeling of weakness [278].
 
 ## Nearest in corpus
-Traité de Législation: VOL IV ch.9 0.49 · Traité de Législation: VOL IV ch.17 0.46 · Traité de Législation: VOL IV ch.13 0.45
+
 
 ## Original-language signature (french, top-3)
 "jusqu ait prouvé" · "hommes couleur libres" · "appartiennent classe maîtres"

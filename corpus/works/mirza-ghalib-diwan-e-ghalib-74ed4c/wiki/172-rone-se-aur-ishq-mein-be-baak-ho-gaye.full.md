@@ -21,7 +21,7 @@ Washed by our tears, until we were made pure.
 That even foes who watched were filled with grief.
 
 ## Nearest in corpus
-Bang-E-Dara Part 3 ch.20 0.11 · Diwan-E-Ghalib ch.27 0.10 · Bang-E-Dara Part 1 ch.32 0.10
+
 
 ## Original-language signature (urdu, top-3)
 "rone aur ishq" · "aur ishq mein" · "ishq mein be-baak"

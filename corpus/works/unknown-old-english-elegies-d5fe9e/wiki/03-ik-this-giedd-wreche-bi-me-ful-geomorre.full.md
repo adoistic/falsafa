@@ -37,7 +37,7 @@ a happier home. Woe to the one
 who must in longing wait for the beloved.
 
 ## Nearest in corpus
-Andreas ch.1 0.18 · Old English Elegies ch.5 0.17 · Old English Elegies ch.9 0.16
+
 
 ## Original-language signature (old-english, top-3)
 "the wife lament" · "wife lament =================" · "lament ================= verse"

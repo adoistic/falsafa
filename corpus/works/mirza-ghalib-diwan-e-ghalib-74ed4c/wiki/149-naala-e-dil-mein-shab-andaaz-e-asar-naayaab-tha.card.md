@@ -21,7 +21,7 @@ A nervous spark at my rival’s feast, so restless was its love.
 in his flood of tears, the sky was just a handful of the squall.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.57 0.11 · Bang-E-Dara Part 3 ch.7 0.11 · Bang-E-Dara Part 3 ch.9 0.11
+
 
 ## Original-language signature (urdu, top-3)
 "naala-e-dil mein shab" · "mein shab andaaz-e-asar" · "shab andaaz-e-asar naayaab"

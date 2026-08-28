@@ -21,7 +21,7 @@ The tavern's fellowship is lost to me.
 If locusts spare the field, the harvest's lost to me.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.77 0.12 · Diwan-E-Zauq ch.29 0.11 · Diwan-E-Ghalib ch.194 0.10
+
 
 ## Original-language signature (urdu, top-3)
 "kaaba mein jaa" · "mein jaa raha" · "jaa raha toh"

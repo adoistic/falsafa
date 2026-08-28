@@ -21,7 +21,7 @@ The pearl-shedding cloud walks blister-footed still.
 My eyelash combs the tangled forelocks of my speech still.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.90 0.08 · Bang-E-Dara Part 1 ch.32 0.08 · Bang-E-Dara Part 3 ch.20 0.08
+
 
 ## Original-language signature (urdu, top-3)
 "vus at-e-sa i-e-karam" · "at-e-sa i-e-karam dekh" · "i-e-karam dekh sar-ta-sar-e-khaak"

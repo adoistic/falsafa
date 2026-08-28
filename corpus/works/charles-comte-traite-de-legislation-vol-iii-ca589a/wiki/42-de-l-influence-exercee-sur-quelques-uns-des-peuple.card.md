@@ -18,7 +18,7 @@ prose · 23¶ · 4555w · vocab 900 (TTR 44%, hapax 58%)
 > [p-7e8bb1] In speaking of the influence that the circumstances surrounding nations exercise upon them, I am thus far from claiming that this influence cannot be paralyzed, at least in part, by more powerful causes. Men are not subject only to the action of the things in the midst of which they are placed; they exercise upon one another an action that is no less powerful. This action, which they receive and which they impress alternately, has for its result, sometimes to make them advance, sometimes to render them stationary, sometimes to make them retrogress. I will expound, in the following chapters, the causes, nature, and consequences of this action; its causes will be seen in the nature of their needs, in the diversity of their social habits, and in the greater or lesser development of certain of their faculties; its nature will be seen in the diverse relations that exist between them, in their religious and political systems, and in other analogous circumstances; its effects will be seen in their virtues or in their vices, in their errors or in their enlightenment, in their riches or in their poverty, in their happiness or in their misery.
 
 ## Nearest in corpus
-Traité de Législation: VOL III ch.39 0.50 · Traité de Législation: VOL III ch.38 0.47 · Nouveau traité d'économie: VOL I ch.3 0.42
+
 
 ## Original-language signature (french, top-3)
 "passage cap bonne-espérance" · "nature sol température" · "circonstances locales milieu"

@@ -21,7 +21,7 @@ Behold my simplicity, what I beseech is what I seek.
 I am so shameless; the penalty of pain is what I seek.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.81 0.16 · Bang-E-Dara Part 3 ch.8 0.11 · Bang-E-Dara Part 1 ch.32 0.11
+
 
 ## Original-language signature (urdu, top-3)
 "tere ishq inteha" · "ishq inteha chahta" · "inteha chahta hoon"

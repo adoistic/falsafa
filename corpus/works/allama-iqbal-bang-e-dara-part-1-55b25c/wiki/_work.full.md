@@ -52,10 +52,6 @@ ch.44 — “For Iqbal is of ‘Iqbal’ unaware,
 There is no jest in this, by God, I swear.”
 
 ## Statistically nearest works in corpus
-Bang-E-Dara Part 3  cosine 0.38
-Diwan-E-Ghalib      cosine 0.24
-Diwan-E-Zauq        cosine 0.21
-Bang-E-Dara Part 2  cosine 0.15
 
 ## Phrases unique to this work (vs. rest of corpus, top-8)
 "homeland land mine" · "tale gallows rope" · "garden stranger stare" · "stranger stare thing" · "stare thing worth" · "thing worth seeing" · "worth seeing endless" · "seeing endless loving"

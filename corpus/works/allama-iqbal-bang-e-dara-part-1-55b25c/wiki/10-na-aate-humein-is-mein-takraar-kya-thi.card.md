@@ -21,7 +21,7 @@ But in making a promise, what shame made you hesitate?
 Was it a spell, your speech—what magic did it impart?
 
 ## Nearest in corpus
-Diwan-E-Zauq ch.12 0.14 · Bang-E-Dara Part 1 ch.44 0.09 · Bang-E-Dara Part 1 ch.25 0.09
+
 
 ## Original-language signature (urdu, top-3)
 "aate humein mein" · "humein mein takraar" · "mein takraar kya"

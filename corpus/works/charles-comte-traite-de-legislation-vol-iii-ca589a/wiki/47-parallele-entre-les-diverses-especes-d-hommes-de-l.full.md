@@ -18,7 +18,7 @@ prose · 28¶ · 5504w · vocab 850 (TTR 36%, hapax 54%)
 > [p-02aa1b] Thus, starting from the comparisons that have been made between the physical constitution, sensibility, and moral affections of each species and those of the others, it is impossible to ascertain whether all are susceptible to the same degree of improvement, or if, *by their own nature*, some are condemned to remain eternally inferior to others; it is especially impossible to determine the point of civilization or improvement at which the peoples of one species must stop, and the point which the peoples of another species must reach. The facts that have been observed on the physical constitution and on the intellectual and moral faculties of the peoples of the diverse species are still too few, too individual, and too uncertain for it to be possible to draw general conclusions from them, especially when it is a matter of condemning entire populations to an eternal barbarism [523].
 
 ## Nearest in corpus
-Traité de Législation: VOL III ch.48 0.69 · Traité de Législation: VOL III ch.50 0.64 · Traité de Législation: VOL II ch.5 0.61
+
 
 ## Original-language signature (french, top-3)
 "peuples espèce caucasienne" · "peuples espèce américaine" · "peuples autres espèces"

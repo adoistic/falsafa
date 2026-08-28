@@ -21,7 +21,7 @@ And a captive in the snare of desire, how did it come to be?
 How can I tell you how our encounter came to be?
 
 ## Nearest in corpus
-Bang-E-Dara Part 1 ch.40 0.11 · Diwan-E-Ghalib ch.115 0.09 · Diwan-E-Ghalib ch.62 0.09
+
 
 ## Original-language signature (urdu, top-3)
 "kya kahun apne" · "kahun apne chaman" · "apne chaman main"

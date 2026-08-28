@@ -21,7 +21,7 @@ Had wine but given me the wings to fly so high.
 Could you not wait a few more days to die?
 
 ## Nearest in corpus
-Bang-E-Dara Part 1 ch.20 0.13 · Diwan-E-Ghalib ch.37 0.12 · Bang-E-Dara Part 3 ch.7 0.11
+
 
 ## Original-language signature (urdu, top-3)
 "main unhein chherun" · "unhein chherun aur" · "chherun aur kuch"

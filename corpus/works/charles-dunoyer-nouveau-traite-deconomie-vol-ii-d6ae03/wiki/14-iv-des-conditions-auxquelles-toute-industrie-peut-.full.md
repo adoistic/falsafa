@@ -38,7 +38,7 @@ prose · 134¶ · 19047w · vocab 2544 (TTR 29%, hapax 53%)
 [^381]: It is clear, for example, that, in our country and elsewhere, it is industry above all that should be increased. One need only see the price of money, and the rate of public funds, in all the markets of Europe, to sense to what extent the stock of personal faculties must be inferior to the stock of real objects. Indeed, industry must be very powerless and very risky for so many people to put their money in public funds, and thus consent to become creditors, at a rate of three or four percent, and for enterprises that have almost all been condemnable, of governments that have almost all been bankrupt several times over.
 
 ## Nearest in corpus
-Nouveau traité d'économie: VOL II ch.16 0.56 · Nouveau traité d'économie: VOL I ch.11 0.53 · Nouveau traité d'économie: VOL II ch.17 0.49
+
 
 ## Original-language signature (french, top-3)
 "fonds général société" · "nous pouvons nous" · "exercice nos facultés"

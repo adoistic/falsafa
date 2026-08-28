@@ -21,7 +21,7 @@ And slew me with your gentle courtesies for me.
 And moved me past all finite boundaries for me.
 
 ## Nearest in corpus
-Diwan-E-Zauq ch.56 0.08 · Old English Elegies ch.17 0.07 · Diwan-E-Ghalib ch.82 0.07
+
 
 ## Original-language signature (urdu, top-3)
 "khoob roka shikayaton" · "roka shikayaton mujhe" · "transliterator thothica ---"

@@ -27,7 +27,7 @@ But not a single one we get to keep,
 While there, from one, they go and fashion three.
 
 ## Nearest in corpus
-Bang-E-Dara Part 3 ch.5 0.10 · Nouveau traité d'économie: VOL II ch.16 0.08 · Bang-E-Dara Part 3 ch.4 0.08
+
 
 ## Original-language signature (urdu, top-3)
 "mashriq mein usool" · "mein usool deen" · "usool deen ban"

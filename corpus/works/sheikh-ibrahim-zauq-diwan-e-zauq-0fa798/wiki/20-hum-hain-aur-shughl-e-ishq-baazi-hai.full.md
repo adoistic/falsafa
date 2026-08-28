@@ -21,7 +21,7 @@ What is real, and what's the fleeting way?
 The miser's guarded treasure falls to conquerors as prey.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.213 0.18 · Diwan-E-Ghalib ch.31 0.15 · Diwan-E-Ghalib ch.79 0.12
+
 
 ## Original-language signature (urdu, top-3)
 "hum hain aur" · "hain aur shughl-e-ishq-baazi" · "aur shughl-e-ishq-baazi hai"

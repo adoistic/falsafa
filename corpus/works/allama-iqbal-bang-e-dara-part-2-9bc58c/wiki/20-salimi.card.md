@@ -19,7 +19,7 @@ verse · 6¶ · 91w · vocab 42 (TTR 95%, hapax 95%)
 Salimi, in your eyes lies Its Perfection.
 
 ## Nearest in corpus
-Bang-E-Dara Part 3 ch.9 0.09 · Bang-E-Dara Part 1 ch.39 0.08 · Bang-E-Dara Part 2 ch.12 0.08
+
 
 ## Original-language signature (urdu, top-3)
 "transliterator thothica ---" · "thothica --- work_id" · "--- work_id 9bc58cbd-ab40-4264-bd01-6e5bddf3e11f"

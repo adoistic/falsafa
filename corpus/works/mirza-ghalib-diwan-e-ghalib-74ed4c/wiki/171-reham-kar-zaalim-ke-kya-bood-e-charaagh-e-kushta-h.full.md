@@ -25,7 +25,7 @@ it is a lamp burnt out and dead.
 The dawn's a field of salt, the profit read from a lamp burnt out and dead.
 
 ## Nearest in corpus
-Kātyāyana Smṛti ch.35 0.32 · Bang-E-Dara Part 1 ch.29 0.13 · Bang-E-Dara Part 3 ch.19 0.10
+
 
 ## Original-language signature (urdu, top-3)
 "reham kar zaalim" · "kar zaalim kya" · "zaalim kya bood-e-charaagh-e-kushta"

@@ -21,7 +21,7 @@ We did not choose to come or stay; we simply pass on by.
 Who cares if morning breezes play? It's time to pass on by.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.77 0.16 · Diwan-E-Ghalib ch.213 0.13 · Diwan-E-Ghalib ch.129 0.11
+
 
 ## Original-language signature (urdu, top-3)
 "laayi hayaat aaye" · "hayaat aaye qaza" · "aaye qaza chali"

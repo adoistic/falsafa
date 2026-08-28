@@ -21,7 +21,7 @@ Will you not know this house is mine, without a single word?
 Your state is clear for her to see, without a single word.
 
 ## Nearest in corpus
-Diwan-E-Zauq ch.50 0.21 · Bang-E-Dara Part 1 ch.44 0.09 · Diwan-E-Ghalib ch.35 0.08
+
 
 ## Original-language signature (urdu, top-3)
 "par kahe baghair" · "ghar jab bana" · "jab bana liya"

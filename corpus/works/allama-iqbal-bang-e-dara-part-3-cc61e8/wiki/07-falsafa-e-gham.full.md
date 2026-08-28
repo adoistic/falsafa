@@ -27,7 +27,7 @@ The brows of those who've passed are radiant in that deepest night,
 The way the stars will always shine and fill the dark with light.
 
 ## Nearest in corpus
-Bang-E-Dara Part 3 ch.9 0.21 · Bang-E-Dara Part 1 ch.40 0.18 · Bang-E-Dara Part 1 ch.32 0.18
+
 
 ## Original-language signature (urdu, top-3)
 "andheri raat mein" · "transliterator thothica ---" · "thothica --- work_id"

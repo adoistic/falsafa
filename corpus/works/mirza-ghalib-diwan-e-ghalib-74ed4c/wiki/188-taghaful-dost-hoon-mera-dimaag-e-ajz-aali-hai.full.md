@@ -21,7 +21,7 @@ If you should turn away, my space is vacant by your side.
 The cups are brimming, but the tavern is withdrawn.
 
 ## Nearest in corpus
-Bang-E-Dara Part 1 ch.18 0.12 · Diwan-E-Zauq ch.38 0.10 · Diwan-E-Ghalib ch.31 0.09
+
 
 ## Original-language signature (urdu, top-3)
 "taghaful-dost hoon mera" · "hoon mera dimaag-e-ajz" · "mera dimaag-e-ajz aali"

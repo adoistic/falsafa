@@ -21,7 +21,7 @@ Has bound my very nakedness fast to me.
 Ghalib, Mirza Yusuf is a second Joseph to me.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.37 0.11 · Juliana ch.1 0.10 · Diwan-E-Ghalib ch.232 0.09
+
 
 ## Original-language signature (urdu, top-3)
 "dekh kar dar-parda" · "kar dar-parda garm-daaman-afshaani" · "dar-parda garm-daaman-afshaani mujhe"

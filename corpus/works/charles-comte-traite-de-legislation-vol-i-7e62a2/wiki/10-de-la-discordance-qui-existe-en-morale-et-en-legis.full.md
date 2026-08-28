@@ -18,7 +18,7 @@ prose · 20¶ · 3490w · vocab 791 (TTR 50%, hapax 66%)
 > [p-ca6286] I am the daughter of Time, and owe everything to my father.
 
 ## Nearest in corpus
-Traité de Législation: VOL I ch.1 0.46 · Traité de Législation: VOL I ch.5 0.44 · Traité de Législation: VOL I ch.8 0.42
+
 
 ## Original-language signature (french, top-3)
 "porte genre humain" · "bonnes lois bonnes" · "tendance porte genre"

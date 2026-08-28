@@ -21,7 +21,7 @@ Love's scar still decorates the shroud I will put on.
 But chains of worldly love still weigh my footsteps down.
 
 ## Nearest in corpus
-Diwan-E-Zauq ch.56 0.12 · Bang-E-Dara Part 2 ch.16 0.09 · Bang-E-Dara Part 3 ch.20 0.09
+
 
 ## Original-language signature (urdu, top-3)
 "faarigh mujhe jaan" · "mujhe jaan maanind-e-subh-o-mehr" · "transliterator thothica ---"

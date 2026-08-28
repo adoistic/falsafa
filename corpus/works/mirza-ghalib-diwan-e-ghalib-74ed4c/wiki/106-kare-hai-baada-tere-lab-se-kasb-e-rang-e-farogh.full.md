@@ -21,7 +21,7 @@ The goblet’s rim is one long, hungry stare.
 This is no time for pride or formal care.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.138 0.16 · Diwan-E-Ghalib ch.62 0.15 · Diwan-E-Ghalib ch.178 0.15
+
 
 ## Original-language signature (urdu, top-3)
 "kare hai baada" · "hai baada tere" · "baada tere lab"

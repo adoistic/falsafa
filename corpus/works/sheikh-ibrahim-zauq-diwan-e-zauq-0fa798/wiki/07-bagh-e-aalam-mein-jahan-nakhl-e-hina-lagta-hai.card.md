@@ -21,7 +21,7 @@ A blood-filled heart’s own handprint seems to show.
 Zauq, on the stone this "gold" must find its place.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.115 0.11 · Diwan-E-Ghalib ch.94 0.10 · Diwan-E-Ghalib ch.31 0.10
+
 
 ## Original-language signature (urdu, top-3)
 "bagh-e-aalam mein jahan" · "mein jahan nakhl-e-hina" · "jahan nakhl-e-hina lagta"

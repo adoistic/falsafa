@@ -51,7 +51,7 @@ prose · 128¶ · 21722w · vocab 2996 (TTR 30%, hapax 53%)
 [^458]: De Laborde, Esprit d'assoc., p. 260 of the first edition.
 
 ## Nearest in corpus
-Nouveau traité d'économie: VOL II ch.14 0.56 · Nouveau traité d'économie: VOL II ch.17 0.54 · Nouveau traité d'économie: VOL II ch.15 0.51
+
 
 ## Original-language signature (french, top-3)
 "jusqu quel point" · "jusqu certain point" · "annuaire bureau longitudes"

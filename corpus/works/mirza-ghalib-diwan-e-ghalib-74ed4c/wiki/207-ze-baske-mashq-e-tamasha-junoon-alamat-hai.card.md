@@ -21,7 +21,7 @@ The closing of my eyes, a stinging slap of shame.
 This false-made madness sees the spring become a final flame.
 
 ## Nearest in corpus
-Diwan-E-Zauq ch.37 0.09 · Diwan-E-Zauq ch.8 0.08 · Bang-E-Dara Part 2 ch.3 0.07
+
 
 ## Original-language signature (urdu, top-3)
 "ze-baske mashq-e-tamasha junoon-alamat" · "mashq-e-tamasha junoon-alamat hai" · "transliterator thothica ---"

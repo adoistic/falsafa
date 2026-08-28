@@ -21,7 +21,7 @@ My reason asks, “That heartless one, with whom is she acquainted?”
 Your cup of wine, and this my yawn, are intimately acquainted.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.62 0.15 · Diwan-E-Ghalib ch.202 0.05 · Diwan-E-Ghalib ch.76 0.05
+
 
 ## Original-language signature (urdu, top-3)
 "rashk kehta hai" · "kehta hai ghair" · "hai ghair ikhlas"

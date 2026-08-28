@@ -18,7 +18,7 @@ prose · 32¶ · 3338w · vocab 666 (TTR 45%, hapax 62%)
 > [p-8a1bd8] [^200]: The proportions of the contribution must be determined by a special law. This is the only way to prevent arbitrary distributions.
 
 ## Nearest in corpus
-Traité de la propriété: VOL I ch.24 0.52 · Traité de la propriété: VOL I ch.21 0.31 · Traité de la propriété: VOL II ch.32 0.30
+
 
 ## Original-language signature (french, top-3)
 "travaux exécutés frais" · "manière peu près" · "peu près égale"

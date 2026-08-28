@@ -18,7 +18,7 @@ prose · 31¶ · 4663w · vocab 995 (TTR 48%, hapax 61%)
 > [p-e01abb] Being unable to discover, in the position of uncivilized peoples, any cause that is proper to immediately increase the finesse of their senses, it would remain to know if there do not exist causes that tend to produce the same effect in an indirect manner; if, for example, it would not be enough to eat raw or rotten meat or fish, to increase the finesse of smell; if one could not increase the finesse of sight, by gorging oneself with food and enduring famine alternately, or by breathing an air laden with mephitic exhalations; if one would not increase the finesse of hearing, by passing frequently from a violent exercise to an absolute idleness. It is up to the admirers of *the state of nature* and of the systems of Rousseau to resolve these questions.
 
 ## Nearest in corpus
-Traité de Législation: VOL III ch.43 0.52 · Traité de Législation: VOL III ch.45 0.41 · Traité de Législation: VOL III ch.47 0.29
+
 
 ## Original-language signature (french, top-3)
 "longue durée temps" · "vapeurs légères indiquent" · "faut pas imaginer"

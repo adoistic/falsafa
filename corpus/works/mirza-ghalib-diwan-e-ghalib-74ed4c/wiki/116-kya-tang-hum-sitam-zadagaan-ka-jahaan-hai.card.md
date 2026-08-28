@@ -21,7 +21,7 @@ Where the whole sky is but an ant's egg on a plane.
 Poor Asad is a guest who will but few days remain.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.112 0.17 · Diwan-E-Zauq ch.39 0.11 · Diwan-E-Ghalib ch.67 0.10
+
 
 ## Original-language signature (urdu, top-3)
 "kya tang hum" · "tang hum sitam-zadagaan" · "hum sitam-zadagaan jahaan"

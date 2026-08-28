@@ -21,7 +21,7 @@ A lightning's wink, a single spark's brief glow, is love.
 This tavern has no place for those who think they know, is love.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.64 0.17 · Diwan-E-Ghalib ch.84 0.16 · Bang-E-Dara Part 2 ch.27 0.15
+
 
 ## Original-language signature (urdu, top-3)
 "hungaama garm hasti-e-na-paaidaar" · "transliterator thothica ---" · "thothica --- work_id"

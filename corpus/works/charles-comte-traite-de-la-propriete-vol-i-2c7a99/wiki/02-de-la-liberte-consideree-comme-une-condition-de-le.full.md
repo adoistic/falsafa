@@ -18,7 +18,7 @@ prose · 29¶ · 1980w · vocab 421 (TTR 46%, hapax 61%)
 > [p-25ca95] [^3]: *See* book IV of the *Treatise on Legislation*.
 
 ## Nearest in corpus
-Traité de la propriété: VOL I ch.3 0.44 · Traité de Législation: VOL IV ch.21 0.39 · Traité de Législation: VOL IV ch.18 0.38
+
 
 ## Original-language signature (french, top-3)
 "devoirs remplir envers" · "envers lui-même envers" · "suivant lois nature"

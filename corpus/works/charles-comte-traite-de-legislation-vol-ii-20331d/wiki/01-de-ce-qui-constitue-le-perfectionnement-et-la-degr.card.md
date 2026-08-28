@@ -18,7 +18,7 @@ prose · 51¶ · 8719w · vocab 1268 (TTR 32%, hapax 55%)
 > [p-44f18f] Several writers have considered climate as having an immense influence on the perfection and degradation of the physical, moral, and intellectual faculties of man. Some have even claimed that one must attribute to this influence the production of the different species or varieties of men spread over the surface of the earth. If this influence is such as they suppose it, peoples can do almost nothing for their destiny; for it is not in their power to change the climate under which they are placed. In the course of this work I will therefore have to examine what is the kind of influence that climate exercises on the existence of nations. But before exposing in what this influence on the state of peoples consists, it is necessary to ascertain what this state is. It is only after having well ascertained the nature and existence of the effects that one can permit oneself to assign their causes.
 
 ## Nearest in corpus
-Traité de Législation: VOL II ch.2 0.51 · Traité de Législation: VOL I ch.14 0.46 · Traité de Législation: VOL III ch.43 0.41
+
 
 ## Original-language signature (french, top-3)
 "nos organes physiques" · "deux genres perfectionnement" · "diverses parties homme"

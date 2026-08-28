@@ -21,7 +21,7 @@ prose · 58¶ · 6572w · vocab 1138 (TTR 38%, hapax 57%)
 [^215]: See *Revue encyclop.*, year 1826, vol. 1, p. 692-696.
 
 ## Nearest in corpus
-Traité de la propriété: VOL II ch.30 0.63 · Traité de la propriété: VOL II ch.35 0.29 · Traité de la propriété: VOL II ch.39 0.26
+
 
 ## Original-language signature (french, top-3)
 "privilége exploiter exclusivement" · "droits homme essence" · "industrielle propriété son"

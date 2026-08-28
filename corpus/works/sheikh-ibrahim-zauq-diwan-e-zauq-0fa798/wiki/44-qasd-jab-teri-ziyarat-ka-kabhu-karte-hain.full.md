@@ -21,7 +21,7 @@ And mirrors with our tears their cleansing rites imbue, is what they do.
 It has not seen your soul-enchanting grace, it must be true, is what they do.
 
 ## Nearest in corpus
-Diwan-E-Zauq ch.36 0.10 · Bang-E-Dara Part 3 ch.3 0.10 · Diwan-E-Ghalib ch.94 0.09
+
 
 ## Original-language signature (urdu, top-3)
 "qasd jab teri" · "jab teri ziyarat" · "teri ziyarat kabhu"

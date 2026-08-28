@@ -20,7 +20,7 @@ When the field of existence burned, it grew the seed of the heart.
 When lightning strikes this tree, it bursts into green.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.84 0.12 · Diwan-E-Ghalib ch.188 0.12 · Bang-E-Dara Part 1 ch.32 0.11
+
 
 ## Original-language signature (urdu, top-3)
 "transliterator thothica ---" · "thothica --- work_id" · "--- work_id 55b25cac-46ff-446c-bfe7-0ae5b8541ad8"

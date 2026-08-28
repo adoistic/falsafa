@@ -21,7 +21,7 @@ My silence, from a hundred reeds, now bites a straw in vain.
 Or else the dream of his embrace will scatter once again.
 
 ## Nearest in corpus
-Bang-E-Dara Part 1 ch.5 0.18 · Diwan-E-Ghalib ch.27 0.15 · Diwan-E-Ghalib ch.67 0.14
+
 
 ## Original-language signature (urdu, top-3)
 "hujoom-e-naala-e-hairat aajiz-e-arz-e-yak-afghaan hai" · "transliterator thothica ---" · "thothica --- work_id"

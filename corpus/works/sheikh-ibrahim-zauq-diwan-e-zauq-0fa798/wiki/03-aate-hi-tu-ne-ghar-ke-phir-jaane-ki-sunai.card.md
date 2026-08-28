@@ -21,7 +21,7 @@ How could I not be stunned? So bitter and so cold was the tale you told.
 In answer, only words of scorn was the tale you told.
 
 ## Nearest in corpus
-Bang-E-Dara Part 2 ch.12 0.21 · Bang-E-Dara Part 1 ch.1 0.11 · Bang-E-Dara Part 2 ch.15 0.09
+
 
 ## Original-language signature (urdu, top-3)
 "aate ghar phir" · "ghar phir jaane" · "phir jaane sunai"

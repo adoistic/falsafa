@@ -38,7 +38,7 @@ prose · 53¶ · 6543w · vocab 1262 (TTR 40%, hapax 58%)
 [^263]: The Restoration government had found the means to combine preventive measures with repressive measures. It subjected all works to censorship after printing, but before publication, and had them seized before any copy had been put on sale. Then it prosecuted the authors, and had them condemned as if they had freely published their writings. Having demonstrated the injustice of such a procedure, in 1817, in the debates of a trial that had some celebrity at the time (*Censeur européen*, vol. IV, p. 232 et seq., and vol. V, p. 139 et seq.), the government wanted, in the same year, to have it consecrated by a law; but its project was rejected. *Du nouveau Projet sur la presse*, p. 4-12.
 
 ## Nearest in corpus
-Traité de la propriété: VOL II ch.31 0.54 · Traité de la propriété: VOL II ch.36 0.53 · Traité de la propriété: VOL II ch.32 0.52
+
 
 ## Original-language signature (french, top-3)
 "huitième année règne" · "année règne reine" · "règne reine anne"

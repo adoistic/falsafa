@@ -21,7 +21,7 @@ A man can live, yet find it hard to be humane.
 The destiny of being a lover's collar, torn by pain.
 
 ## Nearest in corpus
-Diwan-E-Zauq ch.39 0.19 · Diwan-E-Zauq ch.47 0.18 · Diwan-E-Ghalib ch.74 0.18
+
 
 ## Original-language signature (urdu, top-3)
 "bask-e dushwaar hai" · "dushwaar hai har" · "hai har kaam"

@@ -18,7 +18,7 @@ prose · 63¶ · 8987w · vocab 1569 (TTR 37%, hapax 59%)
 > [p-57ab15] From the preceding, it follows, first, that slavery is an invincible obstacle to the formation and accumulation of wealth, because it deprives the laboring class of all means of working with intelligence and of making savings, and because it gives the master class vices that make them unproductively consume the fruit of the enslaved population's labor; it follows, second, that in countries exploited by slaves, labor is infinitely less productive for the worker and especially for the master than it is in countries where all labors are executed by free men; finally, it follows that, in the state of slavery, the small quantity of wealth that can be produced is distributed in the manner most contrary to equality, morality, and justice.
 
 ## Nearest in corpus
-Traité de Législation: VOL IV ch.17 0.53 · Traité de Législation: VOL IV ch.9 0.51 · Traité de Législation: VOL IV ch.4 0.51
+
 
 ## Original-language signature (french, top-3)
 "prix main-d œuvre" · "exécutés hommes libres" · "main-d œuvre chère"

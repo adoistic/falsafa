@@ -21,7 +21,7 @@ My faith demands I give my eyes and answer to the call.
 It will escape, O Zauq, and leave you with its thrall.
 
 ## Nearest in corpus
-Bang-E-Dara Part 1 ch.32 0.11 · Bang-E-Dara Part 3 ch.4 0.10 · Diwan-E-Zauq ch.34 0.10
+
 
 ## Original-language signature (urdu, top-3)
 "baadam bheje hain" · "bheje hain batwe" · "hain batwe mein"

@@ -18,7 +18,7 @@ prose · 47¶ · 8225w · vocab 1227 (TTR 34%, hapax 55%)
 > [p-c5074d] Although the description of a law is not the same thing as the law described, one must be very careful not to believe that it is without importance. One will see on the contrary, that descriptions of this kind exercise a very extensive influence on nations: it is by them that legislation becomes a science, and that one succeeds in perfecting laws and in rendering their action more general and more regular. The books that describe diseases and the remedies that can make them cease are not the same thing as those diseases or those remedies; should one conclude from this that those of these books that contain the most exact descriptions are good for nothing?
 
 ## Nearest in corpus
-Traité de Législation: VOL I ch.12 0.67 · Traité de Législation: VOL I ch.13 0.48 · Traité de Législation: VOL I ch.5 0.44
+
 
 ## Original-language signature (french, top-3)
 "nous donnons nom" · "éléments force puissance" · "individus genre humain"

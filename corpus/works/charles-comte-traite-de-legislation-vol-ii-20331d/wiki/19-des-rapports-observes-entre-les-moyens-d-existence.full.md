@@ -18,7 +18,7 @@ prose · 22¶ · 3527w · vocab 853 (TTR 53%, hapax 70%)
 > [p-b578e2] There exist, however, some differences between the peoples of these archipelagos. The individuals who belong to the subjugated class seem less numerous in some than in others; but it may be that these differences are more apparent than real. The superior chiefs, who, in all the islands, are the tallest and best-constituted men, ordinarily surround the general chief or king [570]. The navigators who landed on the principal islands must therefore have found a greater number of strong and well-constituted men than the navigators who landed on other islands [571].
 
 ## Nearest in corpus
-Traité de Législation: VOL II ch.27 0.37 · Traité de Législation: VOL II ch.21 0.37 · Traité de Législation: VOL II ch.22 0.33
+
 
 ## Original-language signature (french, top-3)
 "peuples espèce malaie" · "état social peuples" · "social peuples espèce"

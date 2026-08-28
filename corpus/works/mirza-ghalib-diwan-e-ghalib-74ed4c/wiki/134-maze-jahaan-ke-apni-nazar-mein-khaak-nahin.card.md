@@ -21,7 +21,7 @@ Save my heart's blood; my heart is more than empty air.
 This show of skill, I've learned, is naught but empty air.
 
 ## Nearest in corpus
-Bang-E-Dara Part 2 ch.7 0.36 · Diwan-E-Ghalib ch.93 0.17 · Diwan-E-Ghalib ch.43 0.12
+
 
 ## Original-language signature (urdu, top-3)
 "mein khaak nahin" · "maze jahaan apni" · "jahaan apni nazar"

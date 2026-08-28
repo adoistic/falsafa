@@ -21,7 +21,7 @@ He holds the entire world in enmity.
 He trembles at the sound of the call to prayer.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.112 0.13 · Diwan-E-Zauq ch.3 0.11 · Bang-E-Dara Part 2 ch.22 0.11
+
 
 ## Original-language signature (urdu, top-3)
 "ajab waa deen-daari" · "waa deen-daari hai" · "deen-daari hai rabb"

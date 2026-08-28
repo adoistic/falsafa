@@ -123,7 +123,7 @@ where mankind may stand, joyful before the Shaper,
 to see the true God, and ever in peace rejoice.
 
 ## Nearest in corpus
-Andreas ch.1 0.23 · Juliana ch.1 0.19 · Elene ch.1 0.18
+
 
 ## Original-language signature (old-english, top-3)
 "the riming poem" · "riming poem ===============" · "poem =============== verse"

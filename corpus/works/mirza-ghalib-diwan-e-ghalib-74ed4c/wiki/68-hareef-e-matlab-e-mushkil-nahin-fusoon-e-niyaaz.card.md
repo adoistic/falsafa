@@ -21,7 +21,7 @@ O Lord, accept my plea: may Khizr's age be blessed.
 A mischief-walking gaze, with doors to both worlds manifest.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.81 0.15 · Bang-E-Dara Part 1 ch.3 0.11 · Diwan-E-Ghalib ch.160 0.10
+
 
 ## Original-language signature (urdu, top-3)
 "hareef-e-matlab-e-mushkil nahin fusoon-e-niyaaz" · "transliterator thothica ---" · "thothica --- work_id"

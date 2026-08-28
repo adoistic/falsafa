@@ -21,7 +21,7 @@ In every garden path, a paradise we see.
 Your eyelash as the pen that writes in gems we see.
 
 ## Nearest in corpus
-Diwan-E-Zauq ch.18 0.12 · Diwan-E-Ghalib ch.203 0.11 · Diwan-E-Ghalib ch.117 0.11
+
 
 ## Original-language signature (urdu, top-3)
 "naqsh-e-qadam dekhte hain" · "jahan tera naqsh-e-qadam" · "tera naqsh-e-qadam dekhte"

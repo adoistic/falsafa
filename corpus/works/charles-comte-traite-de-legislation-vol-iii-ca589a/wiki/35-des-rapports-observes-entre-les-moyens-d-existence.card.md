@@ -18,7 +18,7 @@ prose · 19¶ · 2141w · vocab 651 (TTR 65%, hapax 77%)
 > [p-9d8878] Egypt and a part of the northern coasts of Africa were occupied by peoples very advanced in civilization; to prove that it is to the heat of the climate that their present degradation must be attributed, one would have to begin by establishing that, when this country became civilized, the climate was cold or temperate; otherwise, it would be difficult to explain how a cause that would have plunged and that would keep these peoples in barbarism, would not have prevented them from emerging from it.
 
 ## Nearest in corpus
-Traité de Législation: VOL III ch.34 0.38 · Traité de Législation: VOL III ch.32 0.30 · Traité de Législation: VOL III ch.33 0.29
+
 
 ## Original-language signature (french, top-3)
 "côtes septentrionales afrique" · "côte septentrionale afrique" · "deux races hommes"

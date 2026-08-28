@@ -18,7 +18,7 @@ prose · 33¶ · 4826w · vocab 830 (TTR 38%, hapax 55%)
 > [p-d59d51] The method that rests the sciences of legislation and morality on observation can have no other force than that which belongs to truth; it excludes nothing that is true, but also it can be combated only by systems that contain something other than the truth.
 
 ## Nearest in corpus
-Traité de Législation: VOL I ch.2 0.45 · Traité de Législation: VOL I ch.1 0.45 · Traité de Législation: VOL I ch.10 0.42
+
 
 ## Original-language signature (french, top-3)
 "bonnes mœurs bonnes" · "mœurs bonnes lois" · "telle telle opinion"

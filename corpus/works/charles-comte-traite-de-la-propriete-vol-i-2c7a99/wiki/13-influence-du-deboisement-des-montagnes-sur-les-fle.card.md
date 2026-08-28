@@ -31,7 +31,7 @@ prose · 35¶ · 2941w · vocab 766 (TTR 56%, hapax 67%)
 [^77]: *Travels during the years 1787, 1788 and 1789 undertaken more particularly with a view of ascertaining the cultivation, wealth, resources, and national prosperity of the Kingdom of France, by Arthur Young, vol. 2. ch. p. 26, p. 106.*
 
 ## Nearest in corpus
-Traité de la propriété: VOL I ch.14 0.46 · Traité de la propriété: VOL I ch.15 0.31 · Traité de la propriété: VOL I ch.12 0.29
+
 
 ## Original-language signature (french, top-3)
 "plateaux versans montagnes" · "*statistique générale france*" · "possèdent plateaux versans"

@@ -20,7 +20,7 @@ The smiling of buds on the dewdrops that fall.
 I'm voiceless; release me, a blessing you've found.
 
 ## Nearest in corpus
-Bang-E-Dara Part 1 ch.40 0.15 · Diwan-E-Ghalib ch.27 0.14 · Diwan-E-Ghalib ch.112 0.12
+
 
 ## Original-language signature (urdu, top-3)
 "kha raha hai" · "transliterator thothica ---" · "thothica --- work_id"

@@ -21,7 +21,7 @@ prose · 18¶ · 1750w · vocab 434 (TTR 54%, hapax 67%)
 [^317]: A definition of property, by Robespierre, recently published by a political society, has aroused the indignation of a great number of people. This definition is not good; but it is no worse than others that are adopted without examination. It is founded on the very widespread error that it is civil law that gives existence to property.
 
 ## Nearest in corpus
-Traité de la propriété: VOL II ch.47 0.35 · Traité de la propriété: VOL II ch.38 0.34 · Traité de la propriété: VOL II ch.39 0.31
+
 
 ## Original-language signature (french, top-3)
 "droit jouir disposer" · "pas usage prohibé" · "usage prohibé lois"

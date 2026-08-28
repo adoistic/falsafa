@@ -21,7 +21,7 @@ what love demands is a moth's wing to feed its own desire.
 what love demands is reckless nerve and a pointless quest.
 
 ## Nearest in corpus
-Diwan-E-Zauq ch.34 0.28 · Diwan-E-Zauq ch.56 0.17 · Bang-E-Dara Part 3 ch.19 0.12
+
 
 ## Original-language signature (urdu, top-3)
 "hai vasl hijr" · "vasl hijr aalam-e-tamkeen-o-zabt" · "hijr aalam-e-tamkeen-o-zabt mein"

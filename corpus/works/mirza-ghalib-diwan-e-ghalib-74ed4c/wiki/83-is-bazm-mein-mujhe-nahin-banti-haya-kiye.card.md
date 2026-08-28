@@ -21,7 +21,7 @@ I see the signs, but cannot leave my place, and so it goes.
 You went on speaking; she just listened anyway, and so it goes.
 
 ## Nearest in corpus
-Kātyāyana Smṛti ch.77 0.19 · Diwan-E-Ghalib ch.37 0.15 · Diwan-E-Ghalib ch.213 0.14
+
 
 ## Original-language signature (urdu, top-3)
 "bazm mein mujhe" · "mein mujhe nahin" · "mujhe nahin banti"

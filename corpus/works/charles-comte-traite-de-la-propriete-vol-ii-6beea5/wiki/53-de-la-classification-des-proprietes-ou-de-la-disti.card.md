@@ -18,7 +18,7 @@ prose · 72¶ · 5706w · vocab 993 (TTR 39%, hapax 58%)
 > [p-b71b6f] [^322]: Any rent established in perpetuity for the price of the sale of an immovable, or as a condition of the transfer for consideration or gratuitously of an immovable property, is essentially redeemable. It is nevertheless permitted for the creditor to regulate the clauses and conditions of the redemption. He is also permitted to stipulate that the rent cannot be reimbursed to him until after a certain term, which can never exceed thirty years: any contrary stipulation is null. Civil Code, art. 530.
 
 ## Nearest in corpus
-Traité de la propriété: VOL II ch.38 0.27 · Traité de la propriété: VOL I ch.5 0.25 · Traité de Législation: VOL I ch.5 0.23
+
 
 ## Original-language signature (french, top-3)
 "choses meubles nature" · "avaient divisé choses" · "choses meubles immeubles"

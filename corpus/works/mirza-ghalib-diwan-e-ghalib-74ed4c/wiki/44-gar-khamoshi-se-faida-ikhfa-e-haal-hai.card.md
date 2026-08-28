@@ -21,7 +21,7 @@ I'm glad my words are riddles in the air.
 Give your whole heart to grief—it is the beggar's gain.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.93 0.10 · Diwan-E-Ghalib ch.107 0.10 · Diwan-E-Ghalib ch.202 0.10
+
 
 ## Original-language signature (urdu, top-3)
 "gar khamoshi faida" · "khamoshi faida ikhfa-e-haal" · "faida ikhfa-e-haal hai"

@@ -40,7 +40,7 @@ prose · 53¶ · 9431w · vocab 1656 (TTR 38%, hapax 57%)
 [^68]: One can see in the work of M. Comte, vol. 3, book 4, ch. 5, p. 333 et seq., what these particular circumstances are that England has so skillfully taken advantage of. I had indicated a part of them in the first edition of this volume, and especially in the course I gave at the Athénée in 1826, when I treated of commerce and the diverse causes to which its power is linked: *See* further on, vol. 2, chap. 17 of this work. M. Ch. Dupin, in his work on the productive forces of Great Britain, had also shown how happily the land and waters are disposed in England for the exercise of commercial industry. M. Comte joins to remarks of the same kind considerations on the habitual temperature of this country and on its coal mines, which complete the demonstration of what a small number of favorable circumstances can do for the power of a nation, when they are vigorously exploited.
 
 ## Nearest in corpus
-Traité de Législation: VOL III ch.42 0.42 · Traité de Législation: VOL III ch.37 0.40 · Traité de Législation: VOL III ch.38 0.40
+
 
 ## Original-language signature (french, top-3)
 "première édition volume" · "précis géog univ" · "nature choses matérielles"

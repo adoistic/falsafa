@@ -21,7 +21,7 @@ But who has strength to bear sight's sacred pain?
 And for a lifetime, bear its title's pain.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.122 0.14 · Diwan-E-Ghalib ch.16 0.11 · Diwan-E-Ghalib ch.135 0.11
+
 
 ## Original-language signature (urdu, top-3)
 "sad jalwa roo-ba-roo" · "jalwa roo-ba-roo hai" · "roo-ba-roo hai muzhgan"

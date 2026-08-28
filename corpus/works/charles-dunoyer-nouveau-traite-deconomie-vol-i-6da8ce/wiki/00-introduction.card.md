@@ -34,7 +34,7 @@ prose · 54¶ · 5812w · vocab 1146 (TTR 46%, hapax 65%)
 [^9]: To say that I will not limit myself to speaking of the forms of government is surely not to say that I will not speak of these forms. The manner in which society organizes itself to act is not indifferent in any order of actions, and especially it is not so in this one. I know what a good organization of public power can do; but I also know what is insufficient and deceptive in the theories that make all liberty come from there. It is much, doubtless, that the public powers be well constituted; but it is not enough for them to act in an enlightened and moral manner. Then, when a nation would be capable at once of well organizing its government and of making it act well, that alone would not make it free. Its liberty, in effect, does not come solely from its political capacity, it comes from all its capacities. It is not enough, therefore, to consider it in a single one of its modes of action; one must, to judge to what point it is free, examine what it deploys in all of them of intelligence and morality.
 
 ## Nearest in corpus
-Nouveau traité d'économie: VOL I ch.1 0.51 · Nouveau traité d'économie: VOL II ch.14 0.47 · Nouveau traité d'économie: VOL I ch.11 0.47
+
 
 ## Original-language signature (french, top-3)
 "veut pas voir" · "nos facultés morales" · "dire nous sommes"

@@ -18,7 +18,7 @@ prose · 19¶ · 3059w · vocab 763 (TTR 54%, hapax 68%)
 > [p-b2a458] From the preceding facts, it follows, firstly, that slavery does not necessarily vitiate the physical constitution of men belonging to the master class, but it has always resulted in preventing the application of their organs to the improvement of the things nature has placed at our disposal. Secondly, it follows that slavery favors the intellectual development of individuals of this class in all that serves to extend man's dominion over his fellow men, but that it also arrests the development of these same faculties in all that might extend man's dominion over nature. Thirdly, it follows that slavery vitiates the physical constitution of men belonging to the slave class, and makes them incapable of putting their organs to any advantageous use, either for themselves or for others. Finally, it follows that slavery is an invincible obstacle to the intellectual development of this same class of the population.
 
 ## Nearest in corpus
-Traité de Législation: VOL IV ch.13 0.51 · Traité de Législation: VOL IV ch.9 0.50 · Traité de Législation: VOL IV ch.17 0.50
+
 
 ## Original-language signature (french, top-3)
 "développer facultés intellectuelles" · "développement facultés intellectuelles" · "facultés intellectuelles maîtres"

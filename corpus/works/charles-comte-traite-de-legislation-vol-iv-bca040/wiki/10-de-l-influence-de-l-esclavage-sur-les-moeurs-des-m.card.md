@@ -18,7 +18,7 @@ prose · 11¶ · 1500w · vocab 454 (TTR 63%, hapax 74%)
 > [p-098072] Finally, several French colonies have been for several years under the domination of the English government; the masters are consequently obliged to confine their power within the limits circumscribed by English laws; but these laws, which oblige the possessors of men to leave a certain interval between the punishment and the offense, which limit the number of whip blows it is permitted to inflict each time, and which require that a report be drawn up of the infliction of the penalty, are no less irksome for the colonists of French origin than they are for those of English origin: the ones like the others complain of not being able to abandon themselves, with enough liberty, to the violence of their passions [215].
 
 ## Nearest in corpus
-Traité de Législation: VOL IV ch.14 0.54 · Traité de Législation: VOL IV ch.9 0.47 · Traité de Législation: VOL IV ch.13 0.46
+
 
 ## Original-language signature (french, top-3)
 "esclaves colonies françaises" · "000 000 individus" · "mêmes nous avons"

@@ -21,7 +21,7 @@ For where is one like you to name, they say?
 Its bloom's a wound, a mocking laugh, they say.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.213 0.15 · Diwan-E-Ghalib ch.27 0.14 · Diwan-E-Ghalib ch.37 0.13
+
 
 ## Original-language signature (urdu, top-3)
 "aaina kyun doon" · "kyun doon tamasha" · "doon tamasha kahein"

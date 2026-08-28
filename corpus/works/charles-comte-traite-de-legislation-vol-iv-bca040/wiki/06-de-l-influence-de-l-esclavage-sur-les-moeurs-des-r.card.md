@@ -18,7 +18,7 @@ prose · 23¶ · 4686w · vocab 1058 (TTR 49%, hapax 63%)
 > [p-cce69d] One can judge by the preceding what effects slavery produced on the morals of that part of the people that held the middle ground between the aristocracy and its slaves. Most of the vices I have already observed were common to it and the patricians; one found in the one as in the other, contempt for labor, love of idleness, the need for physical enjoyments, greed, a passion for the grossest spectacles, cruelty, pride, perfidy, and vengeance. Some of these vices were modified, however, by the difference in social positions; the patrician, in his pride, saw nothing above him; the plebeian was proud with regard to the slaves, the freedmen, and the foreigners he oppressed; but, with regard to the aristocracy, he was the most vile and grovelling of men; he had even less independence and personal dignity than professional beggars have among the moderns [96]. We will see better what the morals of this class of the population were when I expound the influence of slavery on the nature of government, and on the relations of nations among themselves [97].
 
 ## Nearest in corpus
-Traité de Législation: VOL IV ch.17 0.51 · Traité de Législation: VOL IV ch.3 0.51 · Traité de Législation: VOL IV ch.2 0.50
+
 
 ## Original-language signature (french, top-3)
 "grand nombre esclaves" · "appartenaient classe maîtres" · "diverses classes population"

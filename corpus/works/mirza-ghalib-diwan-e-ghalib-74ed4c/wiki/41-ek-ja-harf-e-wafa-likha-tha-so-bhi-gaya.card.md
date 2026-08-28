@@ -21,7 +21,7 @@ It seems the paper of your note a bearer of error is.
 So you might know how deep the ache for one glance held so dear is.
 
 ## Nearest in corpus
-Diwan-E-Ghalib ch.76 0.13 · Diwan-E-Ghalib ch.138 0.11 · Diwan-E-Ghalib ch.114 0.10
+
 
 ## Original-language signature (urdu, top-3)
 "harf-e-wafa likha tha" · "likha tha bhi" · "tha bhi मिट"

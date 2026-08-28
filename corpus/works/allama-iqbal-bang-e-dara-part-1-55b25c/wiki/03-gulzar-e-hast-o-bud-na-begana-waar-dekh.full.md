@@ -21,7 +21,7 @@ It is a thing worth seeing, with endless, loving care, behold.
 On every path, the Beloved's sacred trace is laid with care, behold.
 
 ## Nearest in corpus
-Bang-E-Dara Part 3 ch.8 0.38 · Diwan-E-Zauq ch.17 0.21 · Bang-E-Dara Part 1 ch.40 0.14
+
 
 ## Original-language signature (urdu, top-3)
 "gulzar-e-hast-o-bud begana-waar dekh" · "transliterator thothica ---" · "thothica --- work_id"

@@ -20,7 +20,7 @@ And may my heart be cradled in Your light.
 The secret thoughts my heart has long concealed.
 
 ## Nearest in corpus
-Bang-E-Dara Part 1 ch.32 0.15 · Bang-E-Dara Part 1 ch.41 0.15 · Bang-E-Dara Part 1 ch.40 0.13
+
 
 ## Original-language signature (urdu, top-3)
 "mere dil liye" · "transliterator thothica ---" · "thothica --- work_id"

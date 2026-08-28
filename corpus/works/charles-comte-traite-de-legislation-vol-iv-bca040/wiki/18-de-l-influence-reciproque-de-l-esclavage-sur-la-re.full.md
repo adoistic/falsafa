@@ -18,7 +18,7 @@ prose · 40¶ · 6326w · vocab 1240 (TTR 43%, hapax 62%)
 > [p-2b5959] If slavery existed only in the islands of America, exploited by blacks, one could hope to restrict its effects within narrow limits; but when one considers that a large part of the population of Asia, America, Africa, and Europe is divided into slave-owners and men who are possessed; when one considers the influence that the former exercise on the fate of nations, one may be frightened by the calamities that still threaten the human race, but one cannot be surprised that men have been and still are largely governed by hypocrisy and brutality.
 
 ## Nearest in corpus
-Traité de Législation: VOL IV ch.21 0.48 · Traité de la propriété: VOL I ch.2 0.38 · Traité de Législation: VOL I ch.8 0.38
+
 
 ## Original-language signature (french, top-3)
 "sera-ce pas devoir" · "enseignement devoirs moraux" · "remplir envers lui-même"

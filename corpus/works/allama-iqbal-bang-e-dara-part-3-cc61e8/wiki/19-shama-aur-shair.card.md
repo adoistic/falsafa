@@ -21,7 +21,7 @@ verse · 5¶ · 99w · vocab 47 (TTR 90%, hapax 89%)
 To teach a humble worm the fire that Moses knew?"
 
 ## Nearest in corpus
-Bang-E-Dara Part 1 ch.41 0.16 · Diwan-E-Ghalib ch.173 0.16 · Diwan-E-Ghalib ch.64 0.12
+
 
 ## Original-language signature (urdu, top-3)
 "shama aur shair" · "transliterator thothica ---" · "thothica --- work_id"

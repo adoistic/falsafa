@@ -21,7 +21,7 @@ prose · 34¶ · 3225w · vocab 743 (TTR 52%, hapax 63%)
 [^308]: Hume, *History of England*.
 
 ## Nearest in corpus
-Traité de la propriété: VOL II ch.42 0.40 · Traité de la propriété: VOL II ch.40 0.40 · Traité de la propriété: VOL II ch.43 0.35
+
 
 ## Original-language signature (french, top-3)
 "nations lesquelles propriétés" · "rien craindre part" · "hors atteintes ennemis"

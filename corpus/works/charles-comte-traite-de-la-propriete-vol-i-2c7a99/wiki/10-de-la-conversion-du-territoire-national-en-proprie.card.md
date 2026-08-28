@@ -21,7 +21,7 @@ prose · 42¶ · 4840w · vocab 922 (TTR 41%, hapax 57%)
 [^43]: In 1793, at the moment when some men were attacking society to its very foundations, a philosopher, M. Rœderer, posed this question in a public course:
 
 ## Nearest in corpus
-Traité de la propriété: VOL I ch.9 0.53 · Traité de la propriété: VOL I ch.11 0.45 · Traité de la propriété: VOL II ch.27 0.41
+
 
 ## Original-language signature (french, top-3)
 "certaine étendue terre" · "son territoire national" · "lieue carrée terrain"

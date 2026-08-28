@@ -1,0 +1,24 @@
+---
+textrank_confidence: low
+---
+
+# De Sera Numinis Vindicta · ch.1
+prose · 61¶ · 16445w · vocab 3322 (TTR 43%, hapax 63%)
+
+## Distinctive trigrams
+"upon his body" · "punishment upon wicked" · "his own body"
+
+## Key passage (TextRank #1)
+> [p-86d2d7] Therefore, said I, there is one and the same reason to confirm the providence of God and the immortality of the soul; neither is it possible to admit the one, if you deny the other. Now then, the soul surviving after the decease of the body, the inference is the stronger that it partakes of punishment and reward. For during this mortal life the soul is in continual combat like a wrestler; but after all those conflicts are at an end, she then receives according to her merits. But what the punishments and what the rewards of past transgressions or just and laudable actions are to be while the soul is thus alone by itself, is nothing at all to us that are alive; for either they are altogether concealed from our knowledge, or else we give but little credit to them. But those punishments that reach succeeding posterity, being conspicuous to all that are living at the same time, restrain and curb the inclinations of many wicked persons. Now I have a story that I lately heard, which I might relate to show that there is no punishment more grievous or that touches more to the quick, than for a man to behold his children born of his body suffering for his crimes; and that, if the soul of a wicked and lawless criminal were to look back to earth and behold, not his statues overturned and his dignities reversed, but his own children, his friends, or his nearest kindred ruined and overwhelmed with calamity, such a person, were he to return to life again, would rather choose the refusal of all Jupiter’s honors than abandon himself a second time to his wonted injustice and extravagant desires. This story, I say, I could relate, but that I fear lest you should censure it for a fable. And therefore I deem it much the better way to keep close to what is probable and consentaneous to reason. By no means, replied Olympicus; but proceed, and gratify us with your story also, since it was so kindly offered. Thereupon, when the rest of the company likewise made me the same request, Permit me, said I, in the first place, to pursue the rational part of my discourse, and then, according as it shall seem proper and convenient, if it be a fable, you shall have it as cheap as I heard it.
+
+## Opens
+> [p-3aa90c] THESE and such like things, O Quintus! when Epicurus had spoken, before any person could return an answer, while we were busy at the farther end of the portico, he flung away in great haste. However, we could not but in some measure admire at the odd behavior of the man, though without taking any farther notice of it in words; and therefore, after we had gazed a while one upon another, we returned to walk as we were singled out in company before. At this time Patrocleas first breaking silence, How say ye, gentlemen? said he: if you think fitting, why may not we discuss this question of the last proposer as well in his absence as if he were present? To whom Timon replying, Surely, said he, it would but ill become us, if at us he aimed upon his departure, to neglect the arrow sticking in our sides. For Brasidas, as history reports, drawing forth the javelin out of his own body, with the same javelin not only wounded him that threw it, but slew him outright. But as for ourselves, we surely have no need to revenge ourselves on them that pelt us with absurd and fallacious reasonings; but it will be sufficient that we shake them off before our opinion has taken hold of them. Then, said I, which of his sayings is it that has given you the greatest cause to be moved? For the man dragged into his discourse many things confusedly, and nothing in order; but gleaning up and down from this and the other place, as it were in the transports of his wrath and scurrility, he then poured the whole in one torrent of abuse upon the providence of God.
+
+## Closes
+> [p-b96f5a] And now being about to return, such a terrible dread surprised Thespesius as had almost frighted him out of his wits. For a certain woman, admirable for her form and stature, laying hold of his arm, said to him: Come hither, that thou mayst the better be enabled to retain the remembrance of what thou hast seen. With that she was about to strike him with a small fiery wand, not much unlike to those that painters use; but another woman prevented her. After this, as he thought himself, he was whirled or hurried away with a strong and violent wind, forced as it were through a pipe; and so lighting again into his own body, he awoke and found himself on the brink of his own grave.
+
+## Nearest in corpus
+
+
+## Original-language signature (english, top-3)
+"μετὰ τὴν τελευτὴν" · "τὰς ψυχὰς τῶν" · "περὶ τὰς τιμωρίας"
